@@ -14,7 +14,7 @@
 
 (B) Individuals shall be included on the list of those not authorized to represent claimants under this chapter if the Secretary determines under this section, in accordance with the procedure provided in subsection (j) of section 907 of this title, that such individual—
 
-&emsp;(i) has been convicted (without regard to pending appeal) of any crime in connectionwith the representation of a claimant under this chapter or any workers' compensation statute;
+&emsp;(i) has been convicted (without regard to pending appeal) of any crime in connection with the representation of a claimant under this chapter or any workers' compensation statute;
 
 &emsp;(ii) has engaged in fraud in connection with the presentation of a claim under this or any workers' compensation statute, including, but not limited to, knowingly making false representations, concealing or attempting to conceal material facts with respect to a claim, or soliciting or otherwise procuring false testimony;
 

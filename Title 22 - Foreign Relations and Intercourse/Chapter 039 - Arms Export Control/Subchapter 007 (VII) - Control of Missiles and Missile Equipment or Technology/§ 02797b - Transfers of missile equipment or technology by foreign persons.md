@@ -44,7 +44,7 @@
 
 #### (c) Effect of enforcement actions by MTCR adherents
 
-Sanctions set forth in subsection (a) may not be imposed under this section on a person withrespect to acts described in such subsection or, if such sanctions are in effect against a person on account of such acts, such sanctions shall be terminated, if an MTCR adherent is taking judicial or other enforcement action against that person with respect to such acts, or that person has been found by the government of an MTCR adherent to be innocent of wrongdoing with respect to such acts, and if the President certifies to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that—
+Sanctions set forth in subsection (a) may not be imposed under this section on a person with respect to acts described in such subsection or, if such sanctions are in effect against a person on account of such acts, such sanctions shall be terminated, if an MTCR adherent is taking judicial or other enforcement action against that person with respect to such acts, or that person has been found by the government of an MTCR adherent to be innocent of wrongdoing with respect to such acts, and if the President certifies to the Committee on Foreign Relations of theSenate and the Committee on International Relations of the House of Representatives that—
 
 &emsp;(1) for any judicial or other enforcement action taken by the MTCR adherent, such action has—
 
@@ -110,7 +110,7 @@ This chapter, referred to in subsec. (a)(1)(A), (2)(A)(ii), was in the original 
 
 #### Amendments
 
-<b>2014</b>—Subsec. (e)(2). Pub. L. 113–276 substituted "the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives" for "the Committee on National Security and the Committee on International Relations of the House of Representatives".
+<b>2014</b>—Subsec. (e)(2). Pub. L. 113–276 substituted "the Committee on Armed Services and the Committee onForeign Affairs of the House of Representatives" for "the Committee on National Security and the Committee on International Relations of the House of Representatives".
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–113, §1000(a)(7) \[title XI, §1136(b)\], designated existing provisions as par. (1), inserted par. heading, in introductory provisions, substituted "Except as provided in paragraph (2), subsection (a)" for "Subsection (a)", redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 

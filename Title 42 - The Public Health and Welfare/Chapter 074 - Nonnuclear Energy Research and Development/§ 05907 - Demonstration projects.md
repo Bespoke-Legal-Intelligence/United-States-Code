@@ -18,7 +18,7 @@ In reviewing potential projects, the Secretary shall consider criteria including
 
 &emsp;(3) the relationship of the proposal to the criteria of priority set forth in section 5904(b)(2) of this title;
 
-&emsp;(4) the availability of non-Federal participants to construct and operate the facilities orperform the activities associated with the proposal and to contribute to the financing of the proposal;
+&emsp;(4) the availability of non-Federal participants to construct and operate the facilities or perform the activities associated with the proposal and to contribute to the financing of the proposal;
 
 &emsp;(5) the total estimated cost including the Federal investment and the probable time schedule;
 
@@ -70,7 +70,7 @@ If the estimate of the Federal investment with respect to construction costs of 
 
 #### (f) Amount of estimated Federal contribution; necessity for report
 
-If the total estimated amount of the Federal contribution to the construction cost of a demonstration project does not exceed $50,000,000, the Secretary is authorized to proceed with the negotiation of agreements and implementation of the proposal subject to the availability of funds under the authorization of appropriations pursuant to section 5915 of this title: <i>Provided</i>, That if such Federal contribution to the construction cost is estimated to exceed $25,000,000 the Secretary shall provide a full and comprehensive report on the proposed demonstration project to the appropriate committees of the Congress and no funds may be expended for any agreement under the authority granted by this section prior to the expiration of sixty calendar days (not including any day on which either House of Congress is not in session because of an adjournment of more than three calendar days to a day certain) from the date on which the Secretary's report on the proposed project is received by the Congress. Such reports shall contain an analysis of the extent to which the proposed demonstration satisfies the criteria specified in subsection (b) of this section.
+If the total estimated amount of the Federal contribution to the construction cost of a demonstration project does not exceed $50,000,000, the Secretary is authorized to proceed with the negotiation of agreements and implementation of the proposal subject to the availability of funds under the authorization of appropriations pursuant to section 5915 of this title: <i>Provided</i>, That if such Federal contribution to the construction cost is estimated to exceed $25,000,000 the Secretary shall provide a full and comprehensive report on the proposed demonstrationproject to the appropriate committees of the Congress and no funds may be expended for any agreement under the authority granted by this section prior to the expiration of sixty calendar days (not including any day on which either House of Congress is not in session because of an adjournment of more than three calendar days to a day certain) from the date on which the Secretary's report on the proposed project is received by the Congress. Such reports shall contain an analysis of the extent to which the proposed demonstration satisfies the criteria specified in subsection (b) of this section.
 
 (Pub. L. 93–577, §8, Dec. 31, 1974, 88 Stat. 1886; Pub. L. 109–58, title X, §1009(b)(6), Aug. 8, 2005, 119 Stat. 935.)
 
@@ -86,7 +86,7 @@ Subsec. (f). Pub. L. 109–58, §1009(b)(6)(C), substituted "Secretary" for "Adm
 
 #### Transfer of Functions
 
-The Energy Research and Development Administration, referred to in subsec. (d)(1), was terminated andall of its functions and the functions of its Administrator were transferred (with certain exceptions) to the Secretary of Energy. See sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title.
+The Energy Research and Development Administration, referred to in subsec. (d)(1), was terminated and all of its functions and the functions of its Administrator were transferred (with certain exceptions) to the Secretary of Energy. See sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title.
 
 #### Report to Congress on Environmental, Monitoring, Assessment, and Control Efforts Required for Demonstration Projects; Submission to Congress by December 3, 1977
 

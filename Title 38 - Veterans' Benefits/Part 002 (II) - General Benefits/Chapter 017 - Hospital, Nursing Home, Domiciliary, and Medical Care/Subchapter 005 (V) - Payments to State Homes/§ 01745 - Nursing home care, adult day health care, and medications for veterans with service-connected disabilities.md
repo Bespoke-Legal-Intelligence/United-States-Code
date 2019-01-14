@@ -1,0 +1,114 @@
+### §1745. Nursing home care, adult day health care, and medications for veterans with service-connected disabilities
+
+(a)(1) The Secretary shall enter into a contract (or agreement under section 1720(c)(1) of this title) with each State home for payment by the Secretary for nursing home care provided in the home, in any case in which such care is provided to any veteran as follows:
+
+&emsp;(A) Any veteran in need of such care for a service-connected disability.
+
+&emsp;(B) Any veteran who—
+
+&emsp;&emsp;(i) has a service-connected disability rated at 70 percent or more; and
+
+&emsp;&emsp;(ii) is in need of such care.
+
+(2) Payment under each contract (or agreement) between the Secretary and a State home under paragraph (1) shall be based on a methodology, developed by the Secretary in consultation with the State home, to adequately reimburse the State home for the care provided by the State home under the contract (or agreement).
+
+(3) Payment by the Secretary under paragraph (1) to a State home for nursing home care provided to a veteran described in that paragraph constitutes payment in full to the State home for such care furnished to that veteran.
+
+(b) The Secretary shall furnish such drugs and medicines as may be ordered on prescription of a duly licensed physician as specific therapy in the treatment of illness or injury to any veteran as follows:
+
+&emsp;(1) Any veteran who—
+
+&emsp;&emsp;(A) is not being provided nursing home care for which payment is payable under subsection (a); and
+
+&emsp;&emsp;(B) is in need of such drugs and medicines for a service-connected disability.
+
+&emsp;(2) Any veteran who—
+
+&emsp;&emsp;(A) has a service-connected disability rated at 50 percent or more;
+
+&emsp;&emsp;(B) is not being provided nursing home care for which payment is payable under subsection (a); and
+
+&emsp;&emsp;(C) is in need of such drugs and medicines.
+
+(c) Any State home that requests payment or reimbursement for services provided to a veteran under this section shall provide to the Secretary such information as the Secretary considers necessary to identify each individual veteran eligible for payment under such section.
+
+(d)(1) The Secretary shall enter into an agreement with each State home for payment by the Secretary for medical supervision model adult day health care provided to a veteran described in subsection (a)(1) on whose behalf the State home is not in receipt of payment for nursing home care from the Secretary.
+
+(2)(A) Payment under each agreement between the Secretary and a State home under paragraph (1) for each veteran who receives medical supervision model adult day health care under such agreement shall be made at a rate established through regulations prescribed by the Secretary to adequately reimburse the State home for the care provided by the State home, including necessary transportation expenses.
+
+(B) The Secretary shall consult with the State homes in prescribing regulations under subparagraph (A).
+
+(C) The rate established through regulations under subparagraph (A) shall not take effect until the date that is 30 days after the date on which those regulations are published in the Federal Register.
+
+(3) Payment by the Secretary under paragraph (1) to a State home for medical supervision model adult day health care provided to a veteran described in that paragraph constitutes payment in full to the State home for such care furnished to that veteran.
+
+(4) In this subsection, the term "medical supervision model adult day health care" means adult day health care that includes the coordination of physician services, dental services, nursing services, the administration of drugs, and such other requirements as determined appropriate by the Secretary.
+
+(Added and amended Pub. L. 109–461, title II, §211(a)(1), (2), (b)(1), Dec. 22, 2006, 120 Stat. 3418,3419; Pub. L. 112–154, title I, §105(a), Aug. 6, 2012, 126 Stat. 1170; Pub. L. 115–159, §2(a), Mar. 27, 2018, 132 Stat. 1244; Pub. L. 115–182, title I, §103(a), June 6, 2018, 132 Stat. 1408; Pub. L. 115–251, title II, §211(a)(9), Sept. 29, 2018, 132 Stat. 3175.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 115–251, title II, §211(a)(9), Sept. 29, 2018, 132 Stat. 3175, provided that subsection (a)(4)(B)(ii)(III) of this section, set out below, is amended by striking "subchapter V of chapter 17 of this title" and inserting "this subchapter". See 2018 Amendment note below.</i>
+
+<i>Pub. L. 115–182, title I, §103, June 6, 2018, 132 Stat. 1408, provided that, applicable to care provided on or after the effective date of regulations issued by the Secretary of Veterans Affairs, subsection (a) of this section is amended—</i>
+
+<i>(1) in paragraph (1), by striking "(or agreement under section 1720(c)(1) of this title)" and inserting "(or an agreement)"; and</i>
+
+<i>(2) by adding at the end the following new paragraph:</i>
+
+<i>(4)(A) An agreement under this section may be authorized by the Secretary or any Department official authorized by the Secretary, and any such action is not an award for purposes of such laws that would otherwise require the use of competitive procedures for the furnishing of hospital care, medical services, and extended care services.</i>
+
+<i>(B)(i) Except as provided in the agreement itself, in clause (ii), and unless otherwise provided in this section or regulations prescribed pursuant to this section, a State home that enters into an agreement under this section is not subject to, in the carrying out of the agreement, any provision of law to which providers of services and suppliers under the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) are not subject.</i>
+
+<i>(ii) A State home that enters into an agreement under this section is subject to—</i>
+
+&emsp;<i>(I) all provisions of law regarding integrity, ethics, or fraud, or that subject a person to civil or criminal penalties;</i>
+
+&emsp;<i>(II) all provisions of law that protect against employment discrimination or that otherwise ensure equal employment opportunities; and</i>
+
+&emsp;<i>(III) all provisions in subchapter V of chapter 17 of this title.</i>
+
+<i>(iii) Notwithstanding subparagraph (B)(ii)(I), a State home that enters into an agreement under this section may not be treated as a Federal contractor or subcontractor for purposes of chapter 67 of title 41 (known as the "McNamara-O'Hara Service Contract Act of 1965").</i>
+
+<i>See 2018 Amendment notes below.</i>
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–159, §2(a)(2), inserted ", adult day health care," after "home care" in section catchline.
+
+Subsec. (a)(1). Pub. L. 115–182, §103(a)(1), substituted "(or an agreement)" for "(or agreement under section 1720(c)(1) of this title)" in introductory provisions.
+
+Subsec. (a)(4). Pub. L. 115–182, §103(a)(2), added par. (4).
+
+Subsec. (a)(4)(B)(ii)(III). Pub. L. 115–251 substituted "this subchapter" for "subchapter V of chapter 17 of this title".
+
+Subsec. (d). Pub. L. 115–159, §2(a)(1), added subsec. (d).
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–154, §105(a)(1), substituted in introductory provisions "The Secretary shall enter into a contract (or agreement under section 1720(c)(1) of this title) with each State home for payment by the Secretary for nursing home care provided in the home" for "The Secretary shall pay each State home for nursing home care at the rate determined under paragraph (2)".
+
+Subsec. (a)(2). Pub. L. 112–154, §105(a)(2), added par. (2) and struck out former par. (2) which read as follows: "The rate determined under this paragraph with respect to a State home is the lesser of—
+
+&emsp;"(A) the applicable or prevailing rate payable in the geographic area in which the State home is located, as determined by the Secretary, for nursing home care furnished in a non-Department nursing home (as that term is defined in section 1720(e)(2) of this title); or
+
+&emsp;"(B) a rate not to exceed the daily cost of care, as determined by the Secretary, following a report to the Secretary by the director of the State home."
+
+<b>2006</b>—Subsec. (b). Pub. L. 109–461, §211(a)(2), added subsec. (b).
+
+Subsec. (c). Pub. L. 109–461, §211(b)(1), added subsec. (c).
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–182, title I, §103(b), June 6, 2018, 132 Stat. 1409, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to care provided on or after the effective date of regulations issued by the Secretary of Veterans Affairs to carry out this section."
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–154 applicable to care provided on or after the date that is 180 days after Aug. 6, 2012, with certain exceptions, see section 105(c) of Pub. L. 112–154, set out as a note under 1720 of this title.
+
+#### Effective Date
+
+Section and amendment by section 211(a)(2) of Pub. L. 109–461 effective 90 days after Dec. 22, 2006, see section 211(a)(5) of Pub. L. 109–461, set out as an Effective Date of 2006 Amendment note under section 1710 of this title.
+
+#### Initial Rate
+
+Pub. L. 115–159, §2(b), Mar. 27, 2018, 132 Stat. 1245, provided that: "Before the Secretary of Veterans Affairs establishes a payment rate under subsection (d)(2)(A) of section 1745 of such title \[meaning title 38, United States Code\], as added by subsection (a), the Secretary shall pay to a State home that has entered into an agreement with the Secretary for medical supervision model adult day health care (as defined in subsection (d)(4) of such section) an amount equal to 65 percent of the rate the Secretary would pay under subsection (a)(2) of such section to the State home for nursing home care provided to the veteran."
+

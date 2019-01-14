@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director shall establish a program to award grants to institutions of higher education (or consortia thereof) to establish or improve undergraduate and master's degree programs in computer and network security,to increase the number of students, including the number of students from groups historically underrepresented in these fields, who pursue undergraduate or master's degrees in fields related to computer and network security, and to provide students with experience in government or industry related to their computer and network security studies.
+&emsp;The Director shall establish a program to award grants to institutions of higher education (or consortia thereof) to establish or improve undergraduate and master's degree programs in computer and network security, to increase the number of students, including the number of students from groups historically underrepresented in these fields, who pursue undergraduate or master's degrees in fields related to computer and network security, and to provide students with experience in government or industry related to their computer and network security studies.
 
 #### (2) Merit review
 
@@ -58,7 +58,7 @@
 
 #### (5) Assessment required
 
-&emsp;The Director shall evaluate the program established under this subsection no later than 6 years after the establishment of the program. At a minimum, the Director shall evaluate the extent to which the program achieved its objectives of increasing the quality and quantity of students, including students from groups historically underrepresented in computer and network security related disciplines, pursuing undergraduate or master's degrees in computer and network security.
+&emsp;The Director shall evaluate the program established under this subsection no later than 6 years after the establishment of the program. At a minimum, the Director shall evaluate the extent to which the program achieved its objectives of increasing the quality and quantityof students, including students from groups historically underrepresented in computer and network security related disciplines, pursuing undergraduate or master's degrees in computer and network security.
 
 #### (6) Authorization of appropriations
 
@@ -78,7 +78,7 @@
 
 #### (1) Grants
 
-&emsp;The Director shall provide grants under the Scientific and Advanced Technology Act of 1992 (42 U.S.C. 1862i) \[42 U.S.C. 1862h et seq.\] forthe purposes of section 3(a) and (b) of that Act \[42 U.S.C. 1862i(a), (b)\], except that the activities supported pursuant to this subsection shall be limited to improving education in fields related to computer and network security.
+&emsp;The Director shall provide grants under the Scientific and Advanced Technology Act of 1992 (42 U.S.C. 1862i) \[42 U.S.C. 1862h et seq.\] for the purposes of section 3(a) and (b) of that Act \[42 U.S.C. 1862i(a), (b)\], except that the activities supported pursuant to this subsection shall be limited to improving education in fields related to computer and network security.
 
 #### (2) Authorization of appropriations
 

@@ -60,7 +60,7 @@ Preparation and submission.—The order shall require the Board to submit to the
 
 &emsp;(2)
 
-Foreign market efforts.—The order shall authorize the Board to expend in themaintenance and expansion of foreign markets an amount not to exceed the amount collected from United States producers for a fiscal year. Of those funds, for each of the 2002 through 2018 fiscal years, the Board's budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced or manufactured in the United States.
+Foreign market efforts.—The order shall authorize the Board to expend in themaintenance and expansion of foreign markets an amount not to exceed the amount collected from United States producers for a fiscal year. Of those funds, for each of the 2002 through 2023 fiscal years, the Board's budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced or manufactured in the United States.
 
 (f) The order shall provide that the Board, with the approval of the Secretary, may enter into agreements for the development and conduct of the activities authorized under the order as specified in subsection (a) and for the payment of the cost thereof with funds collected through assessments under the order. Any such agreement shall provide that (1) the contracting party shall develop and submit to the Board a plan or project together with a budget or budgets that shall show estimated costs to be incurred for such plan or project, (2) the plan or project shall become effective upon the approval of the Secretary, and (3) the contracting party shall keep accurate records of all of its transactions, account for funds received and expended, and make periodic reports to the Board of activities conducted, and such other reports as the Secretary or the Board may require.
 
@@ -122,7 +122,7 @@ Expiration.—Refunds under subparagraph (A) shall expire 1 year after the date 
 
 (l) The order shall provide terms and conditions, not inconsistent with the provisions of this subchapter, as necessary to effectuate the provisions of the order.
 
-(Pub. L. 98–180, title I, §113, Nov. 29, 1983, 97 Stat. 1137; Pub. L. 104–127, title I, §152, Apr. 4, 1996, 110 Stat. 922; Pub. L. 107–171, title I, §1505(b)–(e), May 13, 2002, 116 Stat. 208, 209; Pub. L. 110–234, title I, §1507(a), (d)–(f), May 22, 2008, 122 Stat. 997; Pub. L. 110–246, §4(a), title I, §1507(a), (d)–(f), June 18, 2008, 122 Stat. 1664, 1725; Pub. L. 113–79, title I, §1426, Feb. 7, 2014, 128 Stat. 695.)
+(Pub. L. 98–180, title I, §113, Nov. 29, 1983, 97 Stat. 1137; Pub. L. 104–127, title I, §152, Apr. 4, 1996, 110 Stat. 922; Pub. L. 107–171, title I, §1505(b)–(e), May 13, 2002, 116 Stat. 208, 209; Pub. L. 110–234, title I, §1507(a), (d)–(f), May 22, 2008, 122 Stat. 997; Pub. L. 110–246, §4(a), title I, §1507(a), (d)–(f), June 18, 2008, 122 Stat. 1664, 1725; Pub. L. 113–79, title I, §1426, Feb. 7, 2014, 128 Stat. 695; Pub. L. 115–334, title I, §1402(c), Dec. 20, 2018, 132 Stat. 4518.)
 
 #### References in Text
 
@@ -133,6 +133,8 @@ The date of enactment of the Food, Conservation, and Energy Act of 2008, referre
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(2). Pub. L. 115–334 substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (e)(2). Pub. L. 113–79 substituted "2018" for "2012".
 

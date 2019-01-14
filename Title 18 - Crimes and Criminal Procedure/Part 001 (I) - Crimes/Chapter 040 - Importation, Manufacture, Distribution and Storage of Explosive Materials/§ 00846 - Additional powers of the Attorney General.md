@@ -4,7 +4,7 @@
 
 (b) The Attorney General is authorized to establish a national repository of information on incidents involving arson and the suspected criminal misuse of explosives. All Federal agencies having information concerning such incidents shall report the information to the Attorney General pursuant to such regulations as deemed necessary to carry out the provisions of this subsection. The repository shall also contain information on incidents voluntarily reported to the Attorney General by State and local authorities.
 
-(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 959; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §654(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369; Pub. L. 107–296, title XI, §1112(e)(2), (3), Nov. 25, 2002, 116 Stat. 2276.)
+(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 959; amended Pub. L. 104–208, div.A, title I, §101(f) \[title VI, §654(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369; Pub. L. 107–296, title XI, §1112(e)(2), (3), Nov. 25, 2002, 116 Stat. 2276.)
 
 #### Amendments
 

@@ -160,7 +160,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 Even though notice of a lien imposed by section 6321 has been filed, such lien shall not be valid with respect to a security interest which came into existence after tax lien filing by reason of disbursements made before the 46th day after the date of tax lien filing, or (if earlier) before the person making such disbursements had actual notice or knowledge of tax lien filing, but only if such security interest—
 
-&emsp;(1) is in property (A) subject, at the time of tax lien filing, to the lien imposed by section 6321, and (B) covered by the terms of a written agreement entered into before tax lien filing, and
+&emsp;(1) is in property (A) subject, at the time of tax lien filing, to the lien imposed by section6321, and (B) covered by the terms of a written agreement entered into before tax lien filing, and
 
 &emsp;(2) is protected under local law against a judgment lien arising, as of the time of tax lien filing, out of an unsecured obligation.
 
@@ -296,7 +296,7 @@ For purposes of this section and section 6324—
 
 #### (6) Purchaser
 
-&emsp;The term "purchaser" means a person who, for adequate and full consideration in money or money's worth, acquires an interest (other than a lien or security interest) in property which is valid under local law against subsequent purchasers without actual notice. In applying the preceding sentence for purposes ofsubsection (a) of this section, and for purposes of section 6324—
+&emsp;The term "purchaser" means a person who, for adequate and full consideration in money or money's worth, acquires an interest (other than a lien or security interest) in property which is valid under local law against subsequent purchasers without actual notice. In applying the preceding sentence for purposes of subsection (a) of this section, and for purposes of section 6324—
 
 &emsp;&emsp;(A) a lease of property,
 
@@ -366,7 +366,7 @@ For purposes of this section and section 6324—
 
 Subsec. (b)(7). Pub. L. 105–206, §3435(a)(1)(B), substituted "$5,000" for "$1,000".
 
-Subsec. (b)(10). Pub. L. 105–206, §3435(b), in heading substituted "Deposit-secured loans" for "Passbook loans", and in text struck out ", evidenced by a passbook," after "other account" and substituted period at end for "and if such institution has been continuouslyin possession of such passbook from the time the loan is made."
+Subsec. (b)(10). Pub. L. 105–206, §3435(b), in heading substituted "Deposit-secured loans" for "Passbook loans", and in text struck out ", evidenced by a passbook," after "other account" and substituted period at end for "and if such institution has been continuously in possession of such passbook from the time the loan is made."
 
 Subsec. (i)(4). Pub. L. 105–206, §3435(a)(2), added par. (4).
 
@@ -470,7 +470,7 @@ Pub. L. 99–514, title XV, §1569(b), Oct. 22, 1986, 100 Stat. 2764, provided t
 
 Pub. L. 95–600, title VII, §702(q)(3), Nov. 6, 1978, 92 Stat. 2938, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(A) The amendments made by this subsection \[amending this section\] shall apply with respect toliens, other security interests, and other interests in real property acquired after the date of the enactment of this Act \[Nov. 6, 1978\].
+"(A) The amendments made by this subsection \[amending this section\] shall apply with respect to liens, other security interests, and other interests in real property acquired after the date of the enactment of this Act \[Nov. 6, 1978\].
 
 "(B) If, after the date of the enactment of this Act, there is a change in the application (or nonapplication) of section 6323(f)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by paragraph (1)) with respect to any filing jurisdiction, such change shall apply only with respect to liens, other security interests, and other interests in real property acquired after the date of such change."
 
@@ -496,7 +496,7 @@ General Rule.—Except as otherwise provided, the amendments made by this title 
 
 Exceptions.—The amendments made by this title shall not apply in any case—
 
-&emsp;"(1) in which a lien or a title derived from enforcement of a lien held by the United States has been enforced by a civil action or suit which has become final by judgment, sale, or agreement before the date of enactment of this Act; or
+&emsp;"(1) in which a lien or a title derived from enforcement of a lien held by the United States has been enforced by a civil action or suit which has becomefinal by judgment, sale, or agreement before the date of enactment of this Act; or
 
 &emsp;"(2) in which such amendments would—
 

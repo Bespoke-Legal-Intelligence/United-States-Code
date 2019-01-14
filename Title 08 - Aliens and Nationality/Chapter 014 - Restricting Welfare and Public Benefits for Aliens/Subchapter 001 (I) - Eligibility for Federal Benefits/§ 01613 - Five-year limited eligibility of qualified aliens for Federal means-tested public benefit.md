@@ -82,7 +82,7 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(
 
 The Child Nutrition Act of 1966, referred to in subsec. (c)(2)(D), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
-The Social Security Act, referred to in subsec. (c)(2)(E), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Parts B and E of title IV and title XIX of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.) of subchapter IV and subchapter XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(2)(E), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts B and E of title IV and title XIX of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.) of subchapter IV and subchapter XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (c)(2)(H), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Titles IV, V, IX, and X of the Act are classified generally to subchapters IV (§1070 et seq.), V (§1101 et seq.), IX (§1134 et seq.), and X (§1135 et seq.), respectively, of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 

@@ -186,6 +186,20 @@ To be eligible for nomination under subsection (c), a collaborative forest lands
 
 &emsp;&emsp;(C) the number of proposals that the Secretary determines are likely to receive adequate funding.
 
+#### (4) Waiver
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), after consulting with the advisory panel established under subsection (e), if the Secretary determines that a proposal that has been selected under paragraph (1) and is being carried out continues to meet the eligibility criteria established by subsection (b), the Secretary, on a case-by-case basis, may issue for the proposal a 1-time extension of the 10-year period requirement under paragraph (1)(B) of that subsection.
+
+#### (B) Limitation
+
+&emsp;&emsp;The extension described in subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) shall be for the shortest period of time practicable to complete implementation of the proposal, as determined by the Secretary; and
+
+&emsp;&emsp;&emsp;(ii) shall not exceed 10 years.
+
 #### (e) Advisory panel
 
 #### (1) In general
@@ -204,7 +218,7 @@ To be eligible for nomination under subsection (c), a collaborative forest lands
 
 #### (1) Establishment
 
-&emsp;There is established in the Treasury of the United States a fund, to be known as the "Collaborative Forest Landscape Restoration Fund", to be used to pay up to 50 percent of the cost of carrying out and monitoring ecological restoration treatments on National Forest System land for each proposal selected to be carried out under subsection (d).
+&emsp;There is established in the Treasury of the United States a fund, to be known as the "Collaborative Forest Landscape Restoration Fund", to be used to pay up to 50 percent of the cost of carrying out and monitoring ecological restoration treatments on NationalForest System land for each proposal selected to be carried out under subsection (d).
 
 #### (2) Inclusion
 
@@ -228,13 +242,17 @@ To be eligible for nomination under subsection (c), a collaborative forest lands
 
 &emsp;&emsp;&emsp;(ii) in excess of $4,000,000 in any 1 fiscal year.
 
+#### (C) Exception
+
+&emsp;&emsp;The limitation described in subparagraph (B)(i) shall not apply to a proposal for which a 1-time extension is granted under subsection (d)(4).
+
 #### (5) Accounting and reporting system
 
 &emsp;The Secretary shall establish an accounting and reporting system for the Fund.
 
 #### (6) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to the Fund $40,000,000 for each of fiscal years 2009 through 2019, to remain available until expended.
+&emsp;There is authorized to be appropriated to the Fund $80,000,000 for each of fiscal years 2019 through 2023, to remain available until expended.
 
 #### (g) Program implementation and monitoring
 
@@ -296,11 +314,15 @@ Not later than 5 years after the first fiscal year in which funding is made avai
 
 &emsp;(2) the Committee on Appropriations of the Senate;
 
-&emsp;(3) the Committee on Natural Resources of the House of Representatives; and
+&emsp;(3) the Committee on Agriculture, Nutrition, and Forestry of the Senate;
 
-&emsp;(4) the Committee on Appropriations of the House of Representatives.
+&emsp;(4) the Committee on Natural Resources of the House of Representatives;
 
-(Pub. L. 111–11, title IV, §4003, Mar. 30, 2009, 123 Stat. 1141.)
+&emsp;(5) the Committee on Appropriations of the House of Representatives; and
+
+&emsp;(6) the Committee on Agriculture of the House of Representatives.
+
+(Pub. L. 111–11, title IV, §4003, Mar. 30, 2009, 123 Stat. 1141; Pub. L. 115–334, title VIII, §8629, Dec. 20, 2018, 132 Stat. 4865.)
 
 #### References in Text
 
@@ -309,6 +331,16 @@ The Endangered Species Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93
 The National Environmental Policy Act of 1969, referred to in subsec. (a)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 Section 7125 of this title, referred to in subsec. (b)(2)(B)(ii), was in the original "section 205 of Public Law 106–393 (16 U.S.C. 500 note)" and was translated as referring to section 205 of Pub. L. 106–393 as added by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3905, which is classified to section 7125 of this title. A prior section 205 of Pub. L. 106–393 containing substantially similar provisions was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (d)(4). Pub. L. 115–334, §8629(a), added par. (4).
+
+Subsec. (f)(4)(C). Pub. L. 115–334, §8629(b), added subpar. (C).
+
+Subsec. (f)(6). Pub. L. 115–334, §8629(c), substituted "$80,000,000 for each of fiscal years 2019 through 2023" for "$40,000,000 for each of fiscal years 2009 through 2019".
+
+Subsec. (h)(3) to (6). Pub. L. 115–334, §8629(d), added pars. (3) and (6) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

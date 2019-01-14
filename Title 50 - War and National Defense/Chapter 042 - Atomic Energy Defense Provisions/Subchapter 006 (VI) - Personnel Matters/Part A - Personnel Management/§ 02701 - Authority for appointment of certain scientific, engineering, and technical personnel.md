@@ -64,7 +64,7 @@ Pub. L. 111–32 substituted "September 30, 2009" for "September 30, 2008".
 
 Subsec. (c)(1). Pub. L. 105–261, §3152, substituted "September 30, 2000" for "September 30, 1999".
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–85, §3139(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to a study to be conducted by the Environmental Protection Agency.
+<b>1997</b>—Subsec. (c). Pub. L. 105–85, §3139(a), redesignated subsec. (d) as (c) and struck out former subsec. (c)which related to a study to be conducted by the Environmental Protection Agency.
 
 Subsec. (c)(1). Pub. L. 105–85, §3139(b), substituted "September 30, 1999" for "September 30, 1997".
 

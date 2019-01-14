@@ -168,5 +168,5 @@ Pub. L. 89–384, §3(d), Apr. 8, 1966, 80 Stat. 105, provided that: "In the cas
 
 #### Commencement of Coverage Period of Certain Enrollees
 
-Commencement of coverage period upon enrollment before Oct. 1, 1966 of eligible individuals failing for good cause to enroll before June 1, 1966, see section 102(b) of Pub. L. 89–97, set out as a note under section 1395p of this title.
+Commencement of coverage period upon enrollment before Oct. 1, 1966 of eligible individuals failing for goodcause to enroll before June 1, 1966, see section 102(b) of Pub. L. 89–97, set out as a note under section 1395p of this title.
 

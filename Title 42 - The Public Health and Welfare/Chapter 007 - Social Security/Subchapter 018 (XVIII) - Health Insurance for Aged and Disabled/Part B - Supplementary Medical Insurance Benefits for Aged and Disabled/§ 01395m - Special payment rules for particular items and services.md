@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;(iii) which is an accessory used in conjunction with a nebulizer, aspirator, or a ventilator excluded under paragraph (3)(A), or
 
-&emsp;&emsp;&emsp;(iv) in the case of devices furnished on or after October 1, 2015, and before October 1, 2018, which serves as a speech generating device or which is an accessory that is needed for the individual to effectively utilize such a device,
+&emsp;&emsp;&emsp;(iv) in the case of devices furnished on or after October 1, 2015, which serves as a speech generating device or which is an accessory that is needed for the individual to effectively utilize such a device,
 
 > &emsp;&emsp;shall be made on a rental basis or in a lump-sum amount for the purchase of the item. The payment amount recognized for purchase or rental of such equipment is the amount specified in subparagraph (B) for purchase or rental, except that the total amount of payments with respect to an item may not exceed the payment amount specified in subparagraph (B) with respect to the purchase of the item.
 
@@ -1212,6 +1212,10 @@
 
 &emsp;&emsp;(C) the term "orthotics and prosthetics" has the meaning given such term in section 1395x(s)(9) of this title (and includes shoes described in section 1395x(s)(12) of this title), but does not include intraocular lenses or medical supplies (including catheters, catheter supplies, ostomy bags, and supplies related to ostomy care) furnished by a home health agency under section 1395x(m)(5) of this title.
 
+#### (5) Documentation created by orthotists and prosthetists
+
+&emsp;For purposes of determining the reasonableness and medical necessity of orthotics and prosthetics, documentation created by an orthotist or prosthetist shall be considered part of the individual's medical record to support documentation created by eligible professionals described in section 1395w–4(k)(3)(B) of this title.
+
 #### (i) Payment for surgical dressings
 
 #### (1) In general
@@ -1418,7 +1422,7 @@
 
 #### (5) Limitation on review
 
-&emsp;There shall be no administrative or judicial review under section 1395ff of this title or otherwise of the amounts established underthe fee schedule for ambulance services under this subsection, including matters described in paragraph (2).
+&emsp;There shall be no administrative or judicial review under section 1395ff of this title or otherwise of the amounts established under the fee schedule for ambulance services under this subsection, including matters described in paragraph (2).
 
 #### (6) Restraint on billing
 
@@ -1466,7 +1470,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of ground ambulance services furnished on or after July 1, 2004, and before January 1, 2018, for which the transportation originates in a qualified rural area (identified under subparagraph (B)(iii)), the Secretary shall provide for a percent increase in the base rate of the fee schedule for a trip established under this subsection. In establishing such percent increase, the Secretary shall estimate the average cost per trip for such services (not taking into account mileage) in the lowest quartile as compared to the average cost per trip for such services (not taking into account mileage) in the highest quartile of all rural county populations.
+&emsp;&emsp;In the case of ground ambulance services furnished on or after July 1, 2004, and before January 1, 2023, for which the transportation originates in a qualified rural area (identified under subparagraph (B)(iii)), the Secretary shall provide for a percent increase in the base rate of the fee schedule for a trip established under this subsection. In establishing such percent increase, the Secretary shall estimate the average cost per trip for such services (not taking into account mileage) in the lowest quartile as compared to the average cost per trip for such services (not taking into account mileage) in the highest quartile of all rural county populations.
 
 #### (B) Identification of qualified rural areas
 
@@ -1494,11 +1498,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;After computing the rates with respect to ground ambulance services under the other applicable provisions of this subsection, in the case of such services furnished on or after July 1, 2004, and before January 1, 2007, and for such services furnished on or after July 1, 2008, and before January 1, 2018,,<sup>4</sup> for which the transportation originates in—
+&emsp;&emsp;After computing the rates with respect to ground ambulance services under the other applicable provisions of this subsection, in the case of such services furnished on or after July 1, 2004, and before January 1, 2007, and for such services furnished on or after July 1, 2008, and before January 1, 2023,,<sup>4</sup> for which the transportation originates in—
 
-&emsp;&emsp;&emsp;(i) a rural area described in paragraph (9) or in a rural census tract described in such paragraph, the fee schedule established under this section shall provide that the rate for the service otherwise established, after the application of any increase under paragraphs (11) and (12), shall be increased by 2 percent (or 3 percent if such service is furnished on or after July 1, 2008, and before January 1, 2018); and
+&emsp;&emsp;&emsp;(i) a rural area described in paragraph (9) or in a rural census tract described in such paragraph, the fee schedule established under this section shall provide that the rate for the service otherwise established, after the application of any increase under paragraphs (11) and (12), shall be increased by 2 percent (or 3 percent if such service is furnished on or after July 1, 2008, and before January 1, 2023); and
 
-&emsp;&emsp;&emsp;(ii) an area not described in clause (i), the fee schedule established under this subsection shall provide that the rate for the service otherwise established, after the application of any increase under paragraph (11), shall be increased by 1 percent (or 2 percent if such service is furnished on or after July 1, 2008, and before January 1, 2018).
+&emsp;&emsp;&emsp;(ii) an area not described in clause (i), the fee schedule established under this subsection shall provide that the rate for the service otherwise established, after the application of any increase under paragraph (11), shall be increased by 1 percent (or 2 percent if such service is furnished on or after July 1, 2008, and before January 1, 2023).
 
 #### (B) Application of increased payments after applicable period
 
@@ -1530,15 +1534,15 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subparagraph (B)(i) shall not apply if there is a financial or employment relationship between the person requesting the rural air ambulance service and the entity furnishing the ambulance service, or an entity under common ownership with the entity furnishing the air ambulance service, or a financial relationship between an immediate family member of such requester and such an entity.
+&emsp;&emsp;&emsp;Subparagraph (B)(i) shall not apply if there is a financial or employment relationship between the person requesting the rural air ambulance service and the entityfurnishing the ambulance service, or an entity under common ownership with the entity furnishing the air ambulance service, or a financial relationship between an immediate family member of such requester and such an entity.
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Where a hospital and the entity furnishing rural air ambulance services are undercommon ownership, clause (i) shall not apply to remuneration (through employment or other relationship) by the hospital of the requester or immediate family member if the remuneration is for provider-based physician services furnished in a hospital (as described in section 1395xx of this title) which are reimbursed under part A and the amount of the remuneration is unrelated directly or indirectly to the provision of rural air ambulance services.
+&emsp;&emsp;&emsp;Where a hospital and the entity furnishing rural air ambulance services are under common ownership, clause (i) shall not apply to remuneration (through employment or other relationship) by the hospital of the requester or immediate family member if the remuneration is for provider-based physician services furnished in a hospital (as described in section 1395xx of this title) which are reimbursed under part A and the amount of the remuneration is unrelated directly or indirectly to the provision of rural air ambulance services.
 
 #### (15) Payment adjustment for non-emergency ambulance transports for ESRD beneficiaries
 
-&emsp;The fee schedule amount otherwise applicable under the preceding provisions of this subsection shall be reduced by 10 percent for ambulance services furnished on or after October 1, 2013, consisting of non-emergency basic life support services involving transport of an individual with end-stage renal disease for renal dialysis services (as described in section 1395rr(b)(14)(B) of this title) furnished other than on an emergency basis by a provider of services or a renal dialysis facility.
+&emsp;The fee schedule amount otherwise applicable under the preceding provisions of this subsection shall be reduced by 10 percent for ambulance services furnished during the period beginning on October 1, 2013, and ending on September 30, 2018, and by 23 percent for such services furnished on or after October 1, 2018, consisting of non-emergency basic life support services involving transport of an individual with end-stage renal disease for renal dialysis services (as described in section 1395rr(b)(14)(B) of this title) furnished other than on an emergency basis by a provider of services or a renal dialysis facility.
 
 #### (16) Prior authorization for repetitive scheduled non-emergent ambulance transports
 
@@ -1554,6 +1558,116 @@
 
 &emsp;&emsp;Nothing in this paragraph may be construed to limit or modify the application of section 1315a(b)(3)(B) of this title to models described in such section, including with respect to the model described in subparagraph (A) and expanded beginning on January 1, 2017, under such subparagraph.
 
+#### (17) Submission of cost and other information
+
+#### (A) Development of data collection system
+
+&emsp;&emsp;The Secretary shall develop a data collection system (which may include use of a cost survey) to collect cost, revenue, utilization, and other information determined appropriate by the Secretary with respect to providers of services (in this paragraph referred to as "providers") and suppliers of ground ambulance services. Such system shall be designed to collect information—
+
+&emsp;&emsp;&emsp;(i) needed to evaluate the extent to which reported costs relate to payment rates under this subsection;
+
+&emsp;&emsp;&emsp;(ii) on the utilization of capital equipment and ambulance capacity, including information consistent with the type of information described in section 1320a(a) of this title; and
+
+&emsp;&emsp;&emsp;(iii) on different types of ground ambulance services furnished in different geographic locations, including rural areas and low population density areas described in paragraph (12).
+
+#### (B) Specification of data collection system
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) not later than December 31, 2019, specify the data collection system under subparagraph (A); and
+
+&emsp;&emsp;&emsp;&emsp;(II) identify the providers and suppliers of ground ambulance services that would be required to submit information under such data collection system, including the representative sample described in clause (ii).
+
+#### (ii) Determination of representative sample
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Not later than December 31, 2019, with respect to the data collection for the first year under such system, and for each subsequent year through 2024, the Secretary shall determine a representative sample to submit information under the data collection system.
+
+#### (II) Requirements
+
+&emsp;&emsp;&emsp;&emsp;The sample under subclause (I) shall be representative of the different types of providers and suppliers of ground ambulance services (such as those providers and suppliers that are part of an emergency service or part of a government organization) and the geographic locations in which ground ambulance services are furnished (such as urban, rural, and low population density areas).
+
+#### (III) Limitation
+
+&emsp;&emsp;&emsp;&emsp;The Secretary shall not include an individual provider or supplier of ground ambulance services in the sample under subclause (I) in 2 consecutive years, to the extent practicable.
+
+#### (C) Reporting of cost information
+
+&emsp;&emsp;For each year, a provider or supplier of ground ambulance services identified by the Secretary under subparagraph (B)(i)(II) as being required to submit information under the data collection system with respect to a period for the year shall submit to the Secretary information specified under the system. Such information shall be submitted in a form and manner, and at a time, specifiedby the Secretary for purposes of this subparagraph.
+
+#### (D) Payment reduction for failure to report
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Beginning January 1, 2022, subject to clause (ii), a 10 percent reduction to payments under this subsection shall be made for the applicable period (as defined in clause (ii)) to a provider or supplier of ground ambulance services that—
+
+&emsp;&emsp;&emsp;&emsp;(I) is required to submit information under the data collection system with respect to a period under subparagraph (C); and
+
+&emsp;&emsp;&emsp;&emsp;(II) does not sufficiently submit such information, as determined by the Secretary.
+
+#### (ii) Applicable period defined
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "applicable period" means, with respect to a provider or supplier of ground ambulance services, a year specified by the Secretary not more than 2 years after the end of the period with respect to which the Secretary has made a determination under clause (i)(II) that the provider or supplier of ground ambulance services failed to sufficiently submit information under the data collection system.
+
+#### (iii) Hardship exemption
+
+&emsp;&emsp;&emsp;The Secretary may exempt a provider or supplier from the payment reduction under clause (i) with respect to an applicable period in the event of significant hardship, such as a natural disaster, bankruptcy, or other similar situation that the Secretary determines interfered with the ability of the provider or supplier of ground ambulance services to submit such information in a timely manner for the specified period.
+
+#### (iv) Informal review
+
+&emsp;&emsp;&emsp;The Secretary shall establish a process under which a provider or supplier of ground ambulance services may seek an informal review of a determination that the provider or supplier is subject to the payment reduction under clause (i).
+
+#### (E) Ongoing data collection
+
+#### (i) Revision of data collection system
+
+&emsp;&emsp;&emsp;The Secretary may, as the Secretary determines appropriate and, if available, taking into consideration the report (or reports) under subparagraph (F), revise the data collection system under subparagraph (A).
+
+#### (ii) Subsequent data collection
+
+&emsp;&emsp;&emsp;In order to continue to evaluate the extent to which reported costs relate to payment rates under this subsection and for other purposes the Secretary deems appropriate, the Secretary shall require providers and suppliers of ground ambulance services to submit information for years after 2024 as the Secretary determines appropriate, but in no case less often than once every 3 years.
+
+#### (F) Ground ambulance data collection system study
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than March 15, 2023, and as determined necessary by the Medicare Payment Advisory Commission thereafter, such Commission shall assess, and submit to Congress a report on, information submitted by providers and suppliers of ground ambulance services through the data collection system under subparagraph (A), the adequacy of payments for ground ambulance services under this subsection, and geographic variations in the cost of furnishing such services.
+
+#### (ii) Contents
+
+&emsp;&emsp;&emsp;A report under clause (i) shall contain the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) An analysis of information submitted through the data collection system.
+
+&emsp;&emsp;&emsp;&emsp;(II) An analysis of any burden on providers and suppliers of ground ambulance services associated with the data collection system.
+
+&emsp;&emsp;&emsp;&emsp;(III) A recommendation as to whether information should continue to be submitted through such data collection system or if such system should be revised under subparagraph (E)(i).
+
+&emsp;&emsp;&emsp;&emsp;(IV) Other information determined appropriate by the Commission.
+
+#### (G) Public availability
+
+&emsp;&emsp;The Secretary shall post information on the results of the data collection under this paragraph on the Internet website of the Centers for Medicare \& Medicaid Services, as determined appropriate by the Secretary.
+
+#### (H) Implementation
+
+&emsp;&emsp;The Secretary shall implement this paragraph through notice and comment rulemaking.
+
+#### (I) Administration
+
+&emsp;&emsp;Chapter 35 of title 44 shall not apply to the collection of information required under this subsection.
+
+#### (J) Limitations on review
+
+&emsp;&emsp;There shall be no administrative or judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise of the data collection system or identification of respondents under this paragraph.
+
+#### (K) Funding for implementation
+
+&emsp;&emsp;For purposes of carrying out subparagraph (A), the Secretary shall provide for the transfer, from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, of $15,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account for fiscal year 2018. Amounts transferred under this subparagraph shall remain available until expended.
+
 #### (m) Payment for telehealth services
 
 #### (1) In general
@@ -1568,11 +1682,17 @@
 
 #### (B) Facility fee for originating site
 
-&emsp;&emsp;With respect to a telehealth service, subject to section 1395l(a)(1)(U) of this title, there shall be paid to the originating site a facility fee equal to—
+#### (i) In general
 
-&emsp;&emsp;&emsp;(i) for the period beginning on October 1, 2001, and ending on December 31, 2001, and for 2002, $20; and
+&emsp;&emsp;&emsp;Subject to clause (ii) and paragraph (6)(C), with respect to a telehealth service, subject to section 1395l(a)(1)(U) of this title, there shall be paid to the originating site a facility fee equal to—
 
-&emsp;&emsp;&emsp;(ii) for a subsequent year, the facility fee specified in clause (i) or this clause for the preceding year increased by the percentage increase in the MEI (as defined in section 1395u(i)(3) of this title) for such subsequent year.
+&emsp;&emsp;&emsp;&emsp;(I) for the period beginning on October 1, 2001, and ending on December 31, 2001, and for 2002, $20; and
+
+&emsp;&emsp;&emsp;&emsp;(II) for a subsequent year, the facility fee specified in subclause (I) or this subclause for the preceding year increased by the percentage increase in the MEI (as defined in section 1395u(i)(3) of this title) for such subsequent year.
+
+#### (ii) No facility fee if originating site is the home
+
+&emsp;&emsp;&emsp;No facility fee shall be paid under this subparagraph to an originating site described in paragraph (4)(C)(ii)(X).
 
 #### (C) Telepresenter not required
 
@@ -1604,7 +1724,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "originating site" means only those sites described in clause (ii) at whichthe eligible telehealth individual is located at the time the service is furnished via a telecommunications system and only if such site is located—
+&emsp;&emsp;&emsp;Except as provided in paragraphs (5), (6), and (7), the term "originating site" means only those sites described in clause (ii) at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system and only if such site is located—
 
 &emsp;&emsp;&emsp;&emsp;(I) in an area that is designated as a rural health professional shortage area under section 254e(a)(1)(A) of this title;
 
@@ -1632,6 +1752,10 @@
 
 &emsp;&emsp;&emsp;&emsp;(VIII) A community mental health center (as defined in section 1395x(ff)(3)(B) of this title).
 
+&emsp;&emsp;&emsp;&emsp;(IX) A renal dialysis facility, but only for purposes of section 1395rr(b)(3)(B) of this title.
+
+&emsp;&emsp;&emsp;&emsp;(X) The home of an individual, but only for purposes of section 1395rr(b)(3)(B) of this title or telehealth services described in paragraph (7).
+
 #### (D) Physician
 
 &emsp;&emsp;The term "physician" has the meaning given that term in section 1395x(r) of this title.
@@ -1649,6 +1773,28 @@
 #### (ii) Yearly update
 
 &emsp;&emsp;&emsp;The Secretary shall establish a process that provides, on an annual basis, for the addition or deletion of services (and HCPCS codes), as appropriate, to those specified in clause (i) for authorized payment under paragraph (1).
+
+#### (5) Treatment of home dialysis monthly ESRD-related visit
+
+&emsp;The geographic requirements described in paragraph (4)(C)(i) shall not apply with respect to telehealth services furnished on or after January 1, 2019, for purposes of section 1395rr(b)(3)(B) of this title, at an originating site described in subclause (VI), (IX), or (X) of paragraph (4)(C)(ii).
+
+#### (6) Treatment of stroke telehealth services
+
+#### (A) Non-application of originating site requirements
+
+&emsp;&emsp;The requirements described in paragraph (4)(C) shall not apply with respect to telehealth services furnished on or after January 1, 2019, for purposes of diagnosis, evaluation, or treatment of symptoms of an acute stroke, as determined by the Secretary.
+
+#### (B) Inclusion of certain sites
+
+&emsp;&emsp;With respect to telehealth services described in subparagraph (A), the term "originating site" shall include any hospital (as defined in section 1395x(e) of this title) or critical access hospital (as defined in section 1395x(mm)(1) of this title), any mobile stroke unit (as defined by the Secretary), or any other site determined appropriate by the Secretary, at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system.
+
+#### (C) No originating site facility fee for new sites
+
+&emsp;&emsp;No facility fee shall be paid under paragraph (2)(B) to an originating site with respect to a telehealth service described in subparagraph (A) if the originating site does not otherwise meet the requirements for an originating site under paragraph (4)(C).
+
+#### (7) Treatment of substance use disorder services furnished through telehealth
+
+&emsp;The geographic requirements described in paragraph (4)(C)(i) shall not apply with respect to telehealth services furnished on or after July 1, 2019, to an eligible telehealth individual with a substance use disorder diagnosis for purposes of treatment of such disorder or co-occurring mental health disorder, as determined by the Secretary, at an originating site described in paragraph (4)(C)(ii) (other than an originating site described in subclause (IX) of such paragraph).
 
 #### (n) Authority to modify or eliminate coverage of certain preventive services
 
@@ -1684,7 +1830,7 @@ Notwithstanding any other provision of this subchapter, effective beginning on J
 
 #### (i) Initial payments
 
-&emsp;&emsp;&emsp;The Secretary shall implement such prospective payment system so that the estimated aggregate amount of prospective payment rates (determined prior to the application of section 1395l(a)(1)(Z) of this title) under this subchapter for Federallyqualified health center services in the first year that such system is implemented is equal to 100 percent of the estimated amount of reasonable costs (determined without the application of a per visit payment limit or productivity screen and prior to the application of section 1395cc(a)(2)(A)(ii) of this title) that would have occurred for such services under this subchapter in such year if the system had not been implemented.
+&emsp;&emsp;&emsp;The Secretary shall implement such prospective payment system so that the estimated aggregate amount of prospective payment rates (determined prior to the application of section 1395l(a)(1)(Z) of this title) under this subchapter for Federally qualified health center services in the first year that such system is implemented is equal to 100 percent of the estimated amount of reasonable costs (determined without the application of a per visit payment limit or productivity screen and prior to the application of section 1395cc(a)(2)(A)(ii) of this title) that would have occurred for such services under this subchapter in such year if the system had not been implemented.
 
 #### (ii) Payments in subsequent years
 
@@ -1697,6 +1843,28 @@ Notwithstanding any other provision of this subchapter, effective beginning on J
 #### (C) Preparation for PPS implementation
 
 &emsp;&emsp;Notwithstanding any other provision of law, the Secretary may establish and implement by program instruction or otherwise the payment codes to be used under the prospective payment system under this section.
+
+#### (3) Additional payments for certain FQHCS with physicians or other practitioners receiving data 2000 waivers
+
+#### (A) In general
+
+&emsp;&emsp;In the case of a Federally qualified health center with respect to which, beginning on or after January 1, 2019, Federally qualified health center services (as defined in section 1395x(aa)(3) of this title) are furnished for the treatment of opioid use disorder by a physician or practitioner who meets the requirements described in subparagraph (C), the Secretary shall, subject to availability of funds under subparagraph (D), make a payment (at such time and in such manner as specified by the Secretary) to such Federally qualified health center after receiving and approving an application submitted by such Federally qualified health center under subparagraph (B). Such a payment shall be in an amount determined by the Secretary, based on an estimate of the average costs of training for purposes of receiving a waiver described in subparagraph (C)(ii). Such a payment may be made only one time with respect to each such physician or practitioner.
+
+#### (B) Application
+
+&emsp;&emsp;In order to receive a payment described in subparagraph (A), a Federally qualified health center shall submit to the Secretary an application for such a payment at such time, in such manner, and containing such information as specified by the Secretary. A Federally qualified health center may apply for such a payment for each physician or practitioner described in subparagraph (A) furnishing services described in such subparagraph at such center.
+
+#### (C) Requirements
+
+&emsp;&emsp;For purposes of subparagraph (A), the requirements described in this subparagraph, with respect to a physician or practitioner, are the following:
+
+&emsp;&emsp;&emsp;(i) The physician or practitioner is employed by or working under contract with a Federally qualified health center described in subparagraph (A) that submits an application under subparagraph (B).
+
+&emsp;&emsp;&emsp;(ii) The physician or practitioner first receives a waiver under section 823(g) of title 21 on or after January 1, 2019.
+
+#### (D) Funding
+
+&emsp;&emsp;For purposes of making payments under this paragraph, there are appropriated, out of amounts in the Treasury not otherwise appropriated, $6,000,000, which shall remain available until expended.
 
 #### (p) Quality incentives to promote patient safety and public health in computed tomography
 
@@ -1712,7 +1880,7 @@ Notwithstanding any other provision of this subchapter, effective beginning on J
 
 &emsp;In this subsection, the term "applicable payment system" means the following:
 
-&emsp;&emsp;(A) The technical component and the technical component of the global fee under the fee schedule established under section 1395w–4(b) of this title.
+&emsp;&emsp;(A) The technical component and the technical component of the global fee under thefee schedule established under section 1395w–4(b) of this title.
 
 &emsp;&emsp;(B) The prospective payment system for hospital outpatient department services under section 1395l(t) of this title.
 
@@ -1794,7 +1962,7 @@ Notwithstanding any other provision of this subchapter, effective beginning on J
 
 #### (D) Treatment of multiple applicable appropriate use criteria
 
-&emsp;&emsp;In the case where the Secretary determines that more than one appropriate use criterion applies with respect to an applicable imaging service, the Secretary shall apply one or more applicable appropriate use criteria under this paragraph for the service.
+&emsp;&emsp;In the case where the Secretary determines that more than one appropriate usecriterion applies with respect to an applicable imaging service, the Secretary shall apply one or more applicable appropriate use criteria under this paragraph for the service.
 
 #### (3) Mechanisms for consultation with applicable appropriate use criteria
 
@@ -1988,7 +2156,7 @@ Notwithstanding any other provision of this subchapter, effective beginning on J
 
 #### (2) Calculation of estimated beneficiary liability
 
-&emsp;For purposes of paragraph (1)(B), the estimated amount of beneficiary liability, with respect to an item or service, is the amount for such item or service for which an individual who does not have coverage under a Medicare supplemental policy certified under section1395ss of this title or any other supplemental insurance coverage is responsible.
+&emsp;For purposes of paragraph (1)(B), the estimated amount of beneficiary liability, with respect to an item or service, is the amount for such item or service for which an individual who does not have coverage under a Medicare supplemental policy certified under section 1395ss of this title or any other supplemental insurance coverage is responsible.
 
 #### (3) Implementation
 
@@ -2018,7 +2186,7 @@ Notwithstanding any other provision of this subchapter, effective beginning on J
 
 #### (iii) Limitation
 
-&emsp;&emsp;&emsp;The single payment amount determined under this subparagraph after application of subparagraph (B) and paragraph (3) shall not exceed the amount determined under the fee schedule under section 1395w–4 of this title for infusion therapy services furnished in a calendar day if furnished in a physician office setting, except such single payment shall not reflect more than 5 hours of infusion for a particular therapy in a calendar day.
+&emsp;&emsp;&emsp;The single payment amount determined under this subparagraph after application of subparagraph (B) and paragraph (3) shall not exceed the amount determined under the fee schedule under section 1395w–4 of this title for infusion therapy services furnished in a calendar day if furnished in aphysician office setting, except such single payment shall not reflect more than 5 hours of infusion for a particular therapy in a calendar day.
 
 #### (B) Required adjustments
 
@@ -2092,7 +2260,127 @@ Notwithstanding any other provision of this subchapter, effective beginning on J
 
 &emsp;Prior to the furnishing of home infusion therapy to an individual, the physician who establishes the plan described in section 1395x(iii)(1) of this title for the individual shall provide notification (in a form, manner, and frequency determined appropriate by the Secretary) of the options available (such as home, physician's office, hospital outpatient department) for the furnishing of infusion therapy under this part.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1834, as added and amended Pub. L. 100–203, title IV, §§4049(a)(2), 4062(b), Dec. 22, 1987, 101 Stat. 1330–91, 1330–100; Pub. L. 100–360, title II, §§202(b)(4), 203(c)(1)(F), 204(b), title IV, §411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), July 1, 1988, 102 Stat. 704, 722, 726, 768, 779, 781; Pub. L. 100–485, title VI, §608(d)(21)(C), (22)(A), Oct. 13, 1988, 102 Stat. 2420; Pub. L. 101–234, title II, §201(a), title III, §301(b)(1), (c)(1), Dec. 13, 1989, 103 Stat. 1981, 1985; Pub. L. 101–239, title VI, §§6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, Dec. 19, 1989, 103 Stat. 2188, 2210, 2214–2216, 2220, 2224; Pub. L. 101–508, title IV, §§4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), Nov. 5, 1990, 104 Stat. 1388–55, 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; Pub. L. 103–66, title XIII, §§13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, Aug. 10, 1993, 107 Stat. 587, 589, 590; Pub. L. 103–432, title I, §§102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), Oct. 31, 1994, 108 Stat. 4403, 4414–4416, 4419, 4421–4424, 4427, 4440; Pub. L. 105–33, title IV, §§4101(a), (c), 4104(b)(1), 4105(b)(2), 4201(c)(5), 4312(a), (c), 4316(b), 4531(b)(2), 4541(a)(2), 4551(a), (c)(1), 4552(a), (b), Aug. 5, 1997, 111 Stat. 360, 363, 367, 374, 386, 387, 392, 451, 455, 457–459; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §201(e)(2), title III, §321(k)(3), title IV, §403(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–340, 1501A–366, 1501A–371; Pub. L. 106–554, §1(a)(6) \[title I, §§103(b), 104(b), title II, §§201(a), 202(a), 204(a), 205(a), 221(a), 223(b), title IV, §§423(a)(1), (b)(1), 425(a), 426(a), 427(a), 428(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–468, 2763A–469, 2763A–481, 2763A–482, 2763A–486, 2763A–487, 2763A–518 to 2763A–520, 2763A–522; Pub. L. 108–173, title III, §302(a), (c)(1)(A), (2), (3), (d)(1), (2), title IV, §§405(a)(1), (b)(1), (d)(1), 414(a)–(c)(1), (d), 415(a), title VI, §627(b)(1), title VII, §736(b)(4), (5), Dec. 8, 2003, 117 Stat. 2223, 2230–2232, 2266, 2267, 2278–2281, 2321, 2356; Pub. L. 109–171, title V, §§5101(a)(1), (b)(1), 5113(b), Feb. 8, 2006, 120 Stat. 37, 38, 44; Pub. L. 110–275, title I, §§125(b)(5), 135(a)(1), 144(b)(1), 146(a), (b)(2)(A), 148(a), 149(a), 154(a)(2)(A), (3), (4), (b)(1)(A), (d)(2), July 15, 2008, 122 Stat. 2519, 2532, 2547–2549, 2563, 2564, 2567; Pub. L. 111–72, §1(a), Oct. 13, 2009, 123 Stat. 2059; Pub. L. 111–148, title III, §§3105(a), (c), 3109(a), 3128(a), 3136(a), (b), 3401(j), (m), (n), title IV, §4105(a), title V, §§5501(a)(2), (b)(2), 5502(b), title VI, §§6402(g)(1), 6405(a), 6407(b), 6410(b), title X, §§10311(a), (c), 10501(i)(1), (3)(A), Mar. 23, 2010, 124 Stat. 417, 418, 426, 437, 438, 486, 487, 558, 653, 654,759, 768, 770, 773, 942, 943, 997; Pub. L. 111–309, title I, §106(a), (c), Dec. 15, 2010, 124 Stat. 3287; Pub. L. 112–78, title III, §306(a), (c), Dec. 23, 2011, 125 Stat. 1285; Pub. L. 112–96, title III, §3007(a), (c), Feb. 22, 2012, 126 Stat. 190; Pub. L. 112–240, title VI, §§604(a), (c), 633(b), 636, 637, Jan. 2, 2013, 126 Stat. 2347, 2348, 2355–2357; Pub. L. 113–67, div. B, title I, §1104, Dec. 26, 2013, 127 Stat. 1196; Pub. L. 113–93, title I, §104, title II, §218(a)(1), (b)(1), Apr. 1, 2014, 128 Stat. 1042, 1063, 1065; Pub. L. 113–295, div. B, title II, §203, Dec. 19, 2014, 128 Stat. 4065; Pub. L. 114–10, title II, §203, title V, §§504(a), 515(b), Apr. 16, 2015, 129 Stat. 144, 165, 174; Pub. L. 114–27, title VIII, §808(b), June 29, 2015, 129 Stat. 418; Pub. L. 114–40, §3, July 30, 2015, 129 Stat. 441; Pub. L. 114–113, div. O, title V, §504(a), Dec. 18, 2015, 129 Stat. 3021; Pub. L. 114–255, div. A, title IV, §4011, title V, §5012(b), div. C, title XVI, §16008(a), (b)(1), Dec. 13, 2016, 130 Stat. 1186, 1199, 1329.)
+#### (7) Home infusion therapy services temporary transitional payment
+
+#### (A) Temporary transitional payment
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary shall, in accordance with the payment methodology described in subparagraph (B) and subject to the provisions of this paragraph, provide a home infusion therapy services temporary transitional payment under this part to an eligible home infusion supplier (as defined in subparagraph (F)) for items and services described in subparagraphs (A) and (B) of section 1395x(iii)(2)) <sup>6</sup> of this title furnished during the period specified in clause (ii) by such supplier in coordination with the furnishing of transitional home infusion drugs (as defined in clause (iii)).
+
+#### (ii) Period specified
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the period specified in this clause is the period beginning on January 1, 2019, and ending on the day before the date of the implementation of the payment system under paragraph (1)(A).
+
+#### (iii) Transitional home infusion drug defined
+
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term "transitional home infusion drug" has the meaning given to the term "home infusion drug" under section 1395x(iii)(3)(C)) <sup>6</sup> of this title, except that clause (ii) of such section shall not apply if a drug described in such clause is identified in clauses (i), (ii), (iii) or (iv) of subparagraph (C) as of February 9, 2018.
+
+#### (B) Payment methodology
+
+&emsp;&emsp;For purposes of this paragraph, the Secretary shall establish a payment methodology, with respect to items and services described in subparagraph (A)(i). Under such payment methodology the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) create the three payment categories described in clauses (i), (ii), and (iii) of subparagraph (C);
+
+&emsp;&emsp;&emsp;(ii) assign drugs to such categories, in accordance with such clauses;
+
+&emsp;&emsp;&emsp;(iii) assign appropriate Healthcare Common Procedure Coding System (HCPCS) codes to each payment category; and
+
+&emsp;&emsp;&emsp;(iv) establish a single payment amount for each such payment category, in accordance with subparagraph (D), for each infusion drug administration calendar day in the individual's home for drugs assigned to such category.
+
+#### (C) Payment categories
+
+#### (i) Payment category 1
+
+&emsp;&emsp;&emsp;The Secretary shall create a payment category 1 and assign to such category drugs which are covered under the Local Coverage Determination on External Infusion Pumps (LCD number L33794) and billed with the following HCPCS codes (as identified as of January 1, 2018, and as subsequently modified by the Secretary): J0133, J0285, J0287, J0288, J0289, J0895, J1170, J1250, J1265, J1325, J1455, J1457, J1570, J2175, J2260, J2270, J2274, J2278, J3010, or J3285.
+
+#### (ii) Payment category 2
+
+&emsp;&emsp;&emsp;The Secretary shall create a payment category 2 and assign to such category drugs which are covered under such local coverage determination and billed with the following HCPCS codes (as identified as of January 1, 2018, and as subsequently modified by the Secretary): J1555 JB, J1559 JB, J1561 JB, J1562 JB, J1569 JB, or J1575 JB.
+
+#### (iii) Payment category 3
+
+&emsp;&emsp;&emsp;The Secretary shall create a payment category 3 and assign to such category drugs which are covered under such local coverage determination and billed with the following HCPCS codes (as identified as of January 1, 2018, and as subsequently modified by the Secretary): J9000, J9039, J9040, J9065, J9100, J9190, J9200, J9360, or J9370.
+
+#### (iv) Infusion drugs not otherwise included
+
+&emsp;&emsp;&emsp;With respect to drugs that are not included in payment category 1, 2, or 3 under clause (i), (ii), or (iii), respectively, the Secretary shall assign to the most appropriate of such categories, as determined by the Secretary, drugs which are—
+
+&emsp;&emsp;&emsp;&emsp;(I) covered under such local coverage determination and billed under HCPCS codes J7799 or J7999 (as identified as of July 1, 2017, and as subsequently modified by the Secretary); or
+
+&emsp;&emsp;&emsp;&emsp;(II) billed under any code that is implemented after February 9, 2018, and included in such local coverage determination or included in subregulatory guidance as a home infusion drug described in subparagraph (A)(i).
+
+#### (D) Payment amounts
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Under the payment methodology, the Secretary shall pay eligible home infusion suppliers, with respect to items and services described in subparagraph (A)(i) furnished during the period described in subparagraph (A)(ii) by such supplier to an individual, at amounts equal to the amounts determined under the physician fee schedule established under section 1395w–4 of this title for services furnished during the year for codes and units of such codes described in clauses (ii), (iii), and (iv) with respect to drugs included in the payment category under subparagraph (C) specified in the respective clause, determined without application of the geographic adjustment under subsection (e) of such section.
+
+#### (ii) Payment amount for category 1
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the codes and units described in this clause, with respect to drugs included in payment category 1 described in subparagraph (C)(i), are one unit of HCPCS code 96365 plus three units of HCPCS code 96366 (as identified as of January 1, 2018, and as subsequently modified by the Secretary).
+
+#### (iii) Payment amount for category 2
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the codes and units described in this clause, with respect to drugs included in payment category 2 described in subparagraph (C)(i), are one unit of HCPCS code 96369 plus three units of HCPCS code 96370 (as identified as of January 1, 2018, and as subsequently modified by the Secretary).
+
+#### (iv) Payment amount for category 3
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the codes and units described in this clause, with respect to drugs included in payment category 3 described in subparagraph (C)(i), are one unit of HCPCS code 96413 plus three units of HCPCS code 96415 (as identified as of January 1, 2018, and as subsequently modified by the Secretary).
+
+#### (E) Clarifications
+
+#### (i) Infusion drug administration day
+
+&emsp;&emsp;&emsp;For purposes of this subsection, with respect to the furnishing of transitional home infusion drugs or home infusion drugs to an individual by an eligible home infusion supplier or a qualified home infusion therapy supplier, a reference to payment to such supplier for an infusion drug administration calendar day in the individual's home shall refer to payment only for the date on which professional services (as described in section 1395x(iii)(2)(A) of this title) were furnished to administer such drugs to such individual. For purposes of the previous sentence, an infusion drug administration calendar day shall include all such drugs administered to such individual on such day.
+
+#### (ii) Treatment of multiple drugs administered on same infusion drug administration day
+
+&emsp;&emsp;&emsp;In the case that an eligible home infusion supplier, with respect to an infusion drug administration calendar day in an individual's home, furnishes to such individual transitional home infusion drugs which are not all assigned to the same payment category under subparagraph (C), payment to such supplier for such infusion drug administration calendar day in the individual's home shall be a single payment equal to the amount of payment under this paragraph for the drug, among all such drugs so furnished to such individual during such calendar day, for which the highest payment would be made under this paragraph.
+
+#### (F) Eligible home infusion suppliers
+
+&emsp;&emsp;In this paragraph, the term "eligible home infusion supplier" means a supplier that is enrolled under this part as a pharmacy that provides external infusion pumps and external infusion pump supplies and that maintains all pharmacy licensure requirements in the State in which the applicable infusion drugs are administered.
+
+#### (G) Implementation
+
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may implement this paragraph by program instruction or otherwise.
+
+#### (v) Payment for outpatient physical therapy services and outpatient occupational therapy services furnished by a therapy assistant
+
+#### (1) In general
+
+&emsp;In the case of an outpatient physical therapy service or outpatient occupational therapy service furnished on or after January 1, 2022, for which payment is made under section 1395w–4 of this title or subsection (k), that is furnished in whole or in part by a therapy assistant (as defined by the Secretary), the amount of payment for such service shall be an amount equal to 85 percent of the amount of payment otherwise applicable for the service under this part. Nothing in the preceding sentence shall be construed to change applicable requirements with respect to such services.
+
+#### (2) Use of modifier
+
+#### (A) Establishment
+
+&emsp;&emsp;Not later than January 1, 2019, the Secretary shall establish a modifier to indicate (in a form and manner specified by the Secretary), in the case of an outpatient physical therapy service or outpatient occupational therapy service furnished in whole or in part by a therapy assistant (as so defined), that the service was furnished by a therapy assistant.
+
+#### (B) Required use
+
+&emsp;&emsp;Each request for payment, or bill submitted, for an outpatient physical therapy service or outpatient occupational therapy service furnished in whole or in part by a therapy assistant (as so defined) on or after January 1, 2020, shall include the modifier established under subparagraph (A) for each such service.
+
+#### (3) Implementation
+
+&emsp;The Secretary shall implement this subsection through notice and comment rulemaking.
+
+#### (w) Opioid use disorder treatment services
+
+#### (1) In general
+
+&emsp;The Secretary shall pay to an opioid treatment program (as defined in paragraph (2) of section 1395x(jjj) of this title) an amount that is equal to 100 percent of a bundled payment under this part for opioid use disorder treatment services (as defined in paragraph (1) of such section) that are furnished by such program to an individual during an episode of care (as defined by the Secretary) beginning on or after January 1, 2020. The Secretary shall ensure, as determined appropriate by the Secretary, that no duplicative payments are made under this part or part D for items and services furnished by an opioid treatment program.
+
+#### (2) Considerations
+
+&emsp;The Secretary may implement this subsection through one or more bundles based on the type of medication provided (such as buprenorphine, methadone, naltrexone, or a new innovative drug), the frequency of services, the scope of services furnished, characteristics of the individuals furnished such services, or other factors as the Secretary determine <sup>7</sup> appropriate. In developing such bundles, the Secretary may consider payment rates paid to opioid treatment programs for comparable services under State plans under subchapter XIX or under the TRICARE program under chapter 55 of title 10.
+
+#### (3) Annual updates
+
+&emsp;The Secretary shall provide an update each year to the bundled payment amounts under this subsection.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1834, as added and amended Pub. L. 100–203, title IV, §§4049(a)(2), 4062(b), Dec. 22, 1987, 101 Stat. 1330–91, 1330–100; Pub. L. 100–360, title II, §§202(b)(4), 203(c)(1)(F), 204(b), title IV, §411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), July 1, 1988, 102 Stat. 704, 722, 726, 768, 779, 781; Pub. L. 100–485, title VI, §608(d)(21)(C), (22)(A), Oct. 13, 1988, 102 Stat. 2420; Pub. L. 101–234, title II, §201(a), title III, §301(b)(1), (c)(1), Dec. 13, 1989, 103 Stat. 1981, 1985; Pub. L. 101–239, title VI, §§6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, Dec. 19, 1989, 103 Stat. 2188, 2210, 2214–2216, 2220, 2224; Pub. L. 101–508, title IV, §§4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), Nov. 5, 1990, 104 Stat. 1388–55, 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; Pub. L. 103–66, title XIII, §§13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, Aug. 10, 1993, 107 Stat. 587, 589, 590; Pub. L. 103–432, title I, §§102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), Oct. 31, 1994, 108 Stat. 4403, 4414–4416, 4419, 4421–4424, 4427, 4440; Pub. L. 105–33, title IV, §§4101(a), (c), 4104(b)(1), 4105(b)(2), 4201(c)(5), 4312(a), (c), 4316(b), 4531(b)(2), 4541(a)(2), 4551(a), (c)(1), 4552(a), (b), Aug. 5, 1997, 111 Stat. 360, 363, 367, 374, 386, 387, 392, 451, 455, 457–459; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §201(e)(2), title III, §321(k)(3), title IV, §403(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–340, 1501A–366, 1501A–371; Pub. L. 106–554, §1(a)(6) \[title I, §§103(b), 104(b), title II, §§201(a), 202(a), 204(a), 205(a), 221(a), 223(b), title IV, §§423(a)(1), (b)(1), 425(a), 426(a), 427(a), 428(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–468, 2763A–469, 2763A–481, 2763A–482, 2763A–486, 2763A–487, 2763A–518 to 2763A–520, 2763A–522; Pub. L. 108–173, title III, §302(a), (c)(1)(A), (2), (3), (d)(1), (2), title IV, §§405(a)(1), (b)(1), (d)(1), 414(a)–(c)(1), (d), 415(a), title VI, §627(b)(1), title VII, §736(b)(4), (5), Dec. 8, 2003, 117 Stat. 2223, 2230–2232, 2266, 2267, 2278–2281, 2321, 2356; Pub. L. 109–171, title V, §§5101(a)(1), (b)(1), 5113(b), Feb. 8, 2006, 120 Stat. 37, 38, 44; Pub. L. 110–275, title I, §§125(b)(5), 135(a)(1), 144(b)(1), 146(a), (b)(2)(A), 148(a), 149(a), 154(a)(2)(A), (3), (4), (b)(1)(A), (d)(2), July 15, 2008, 122 Stat. 2519, 2532, 2547–2549, 2563, 2564, 2567; Pub. L. 111–72, §1(a), Oct. 13, 2009, 123 Stat. 2059; Pub. L. 111–148, title III, §§3105(a), (c), 3109(a), 3128(a), 3136(a), (b), 3401(j), (m), (n), title IV, §4105(a), title V, §§5501(a)(2), (b)(2), 5502(b), title VI, §§6402(g)(1), 6405(a), 6407(b), 6410(b), title X, §§10311(a), (c), 10501(i)(1), (3)(A), Mar. 23, 2010, 124 Stat. 417, 418, 426, 437, 438, 486, 487, 558, 653, 654, 759, 768, 770, 773, 942, 943, 997; Pub. L. 111–309, title I, §106(a), (c), Dec. 15, 2010, 124 Stat. 3287; Pub. L. 112–78, title III, §306(a), (c), Dec. 23, 2011, 125 Stat. 1285; Pub. L. 112–96, title III, §3007(a), (c), Feb. 22, 2012, 126 Stat. 190; Pub. L. 112–240, title VI, §§604(a), (c), 633(b), 636, 637, Jan. 2, 2013, 126 Stat. 2347, 2348, 2355–2357; Pub. L. 113–67, div. B, title I, §1104, Dec. 26, 2013, 127 Stat. 1196; Pub. L. 113–93, title I, §104, title II, §218(a)(1), (b)(1), Apr. 1, 2014, 128 Stat. 1042, 1063, 1065; Pub. L. 113–295, div. B, title II, §203, Dec. 19, 2014, 128 Stat. 4065; Pub. L. 114–10, title II, §203, title V, §§504(a), 515(b), Apr. 16, 2015, 129 Stat. 144, 165, 174; Pub. L. 114–27, title VIII, §808(b), June 29, 2015, 129 Stat. 418; Pub. L. 114–40, §3, July 30, 2015, 129 Stat. 441; Pub. L. 114–113, div. O, title V, §504(a), Dec. 18, 2015, 129 Stat. 3021; Pub. L. 114–255, div. A, title IV, §4011, title V, §5012(b), div. C, title XVI, §16008(a), (b)(1), Dec. 13, 2016, 130 Stat. 1186, 1199, 1329; Pub. L. 115–123, div. E, title II, §50203, title III, §§50302(b), 50325, title IV, §§50401(a), 50402, 50411, title XII, §§53107, 53108, Feb. 9, 2018, 132 Stat. 178, 191, 205, 214, 217, 220, 303; Pub. L. 115–271, title II, §§2001(a), 2005(c)(2), title VI, §6083(a), Oct. 24, 2018, 132 Stat. 3924, 3929, 3994.)
 
 #### Applicability of Amendment
 
@@ -2108,13 +2396,55 @@ Section 515(a) of the Medicare Access and CHIP Reauthorization Act of 2015, refe
 
 #### Codification
 
-Amendment of subsec. (a)(4) by Pub. L. 101–508, §4152(c)(4)(B)(i), did not become effective pursuant to Pub. L. 101–508, §4152(c)(4)(B)(ii), because of action of Secretary in developing specific criteria for the treatment of wheelchairs as customized items for purposes of subsec. (a)(4). See Effective Date of 1990 Amendment note below.
+Amendment of subsec. (a)(4) by Pub. L. 101–508, §4152(c)(4)(B)(i), did not become effective pursuant to Pub. L. 101–508, §4152(c)(4)(B)(ii), because of action ofSecretary in developing specific criteria for the treatment of wheelchairs as customized items for purposes of subsec. (a)(4). See Effective Date of 1990 Amendment note below.
 
 #### Prior Provisions
 
 A prior section 1395m, act Aug. 14, 1935, ch. 531, title XVIII, §1834, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 303, prescribed limitations on payments for home health services, prior to repeal by Pub. L. 96–499, title IX, §930(i), Dec. 5, 1980, 94 Stat. 2631, effective with respect to services furnished on or after July 1, 1981.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2)(A)(iv). Pub. L. 115–123, §50411, struck out "and before October 1, 2018," after "October 1, 2015,".
+
+Subsec. (h)(5). Pub. L. 115–123, §50402, added par. (5).
+
+Subsec. (l)(12)(A). Pub. L. 115–123, §50203(a)(2), substituted "2023" for "2018".
+
+Subsec. (l)(13)(A). Pub. L. 115–123, §50203(a)(1), substituted "2023" for "2018" wherever appearing.
+
+Subsec. (l)(15). Pub. L. 115–123, §53108, substituted "during the period beginning on October 1, 2013, and ending on September 30, 2018, and by 23 percent for such services furnished on or after October 1, 2018" for "on or after October 1, 2013".
+
+Subsec. (l)(17). Pub. L. 115–123, §50203(b), added par. (17).
+
+Subsec. (m)(2)(B). Pub. L. 115–123, §50302(b)(2), redesignated existing provisions as cl. (i), inserted heading, substituted "Subject to clause (ii), with respect to" for "With respect to", redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), substituted "subclause (I) or this subclause" for "clause (i) or this clause" in subcl. (II), and added cl. (ii).
+
+Subsec. (m)(2)(B)(i). Pub. L. 115–271, §2001(a)(1)(A), substituted "clause (ii) and paragraph (6)(C)" for "clause (ii)" in introductory provisions.
+
+Subsec. (m)(2)(B)(ii). Pub. L. 115–271, §2001(a)(1)(B), struck out "for home dialysis therapy" after "site" in heading.
+
+Subsec. (m)(4)(C)(i). Pub. L. 115–271, §2001(a)(2)(A), substituted "paragraphs (5), (6), and (7)" for "paragraph (6)" in introductory provisions.
+
+Pub. L. 115–123, §50325(1), substituted "Except as provided in paragraph (6), the term" for "The term" in introductory provisions.
+
+Subsec. (m)(4)(C)(ii)(IX). Pub. L. 115–123, §50302(b)(1)(A), added subcl. (IX).
+
+Subsec. (m)(4)(C)(ii)(X). Pub. L. 115–271, §2001(a)(2)(B), inserted "or telehealth services described in paragraph (7)" before period at end.
+
+Pub. L. 115–123, §50302(b)(1)(A), added subcl. (X).
+
+Subsec. (m)(5). Pub. L. 115–123, §50302(b)(1)(B), added par. (5).
+
+Subsec. (m)(6). Pub. L. 115–123, §50325(2), added par. (6).
+
+Subsec. (m)(7). Pub. L. 115–271, §2001(a)(3), added par. (7).
+
+Subsec. (o)(3). Pub. L. 115–271, §6083(a), added par. (3).
+
+Subsec. (u)(7). Pub. L. 115–123, §50401(a), added par. (7).
+
+Subsec. (v). Pub. L. 115–123, §53107, added subsec. (v).
+
+Subsec. (w). Pub. L. 115–271, §2005(c)(2), added subsec. (w).
 
 <b>2016</b>—Subsec. (a)(1)(G). Pub. L. 114–255, §16008(a), inserted at end "In the case of items and services furnished on or after January 1, 2019, in making any adjustments under clause (ii) or (iii) of subparagraph (F), under subsection (h)(1)(H)(ii), or under section 1395u(s)(3)(B) of this title, the Secretary shall—" and added cls. (i) and (ii).
 
@@ -3038,6 +3368,10 @@ Pub. L. 110–275, title I, §154(b)(1)(B), July 15, 2008, 122 Stat. 2565, provi
 
 Physician Payment Review Commission (PPRC) was terminated and its assets and staff transferred to the Medicare Payment Advisory Commission (MedPAC) by section 4022(c)(2), (3) of Pub. L. 105–33, set out as a note under section 1395b–6 of this title. Section 4022(c)(2), (3) further provided that MedPAC was to be responsible for preparation and submission of reports required by law to be submitted by PPRC, and that, for that purpose, any reference in law to PPRC was to be deemed, after the appointment of MedPAC, to refer to MedPAC.
 
+#### Implementation of 2018 Amendment
+
+Pub. L. 115–271, title II, §2001(b), Oct. 24, 2018, 132 Stat. 3925, provided that: "The Secretary of Health and Human Services (in this section \[amending this section\] referred to as the 'Secretary') may implement the amendments made by this section by interim final rule."
+
 #### Implementation of 2015 Amendment
 
 Pub. L. 114–10, title V, §504(b), Apr. 16, 2015, 129 Stat. 166, provided that: "Notwithstanding any other provision of law, the Secretary of Health and Human Services may implement the amendments made by subsection (a) \[amending this section\] by program instruction or otherwise."
@@ -3268,7 +3602,7 @@ Funding.—The Secretary shall provide for the transfer from the Federal Supplem
 
 #### Air Ambulance Payment Improvements
 
-Pub. L. 110–275, title I, §146(b)(1), July 15, 2008, 122 Stat. 2548, as amended by Pub. L. 111–148, title III, §3105(b), title X, §10311(b), Mar. 23, 2010, 124 Stat. 417, 943; Pub. L. 111–309, title I, §106(b), Dec. 15, 2010, 124 Stat. 3287; Pub. L. 112–78, title III, §306(b), Dec. 23, 2011, 125 Stat. 1285; Pub. L. 112–96, title III, §3007(b), Feb. 22, 2012, 126 Stat. 190; Pub. L. 112–240, title VI, §604(b), Jan. 2, 2013, 126 Stat. 2348, provided that: "Notwithstanding any other provision of law, for purposes of making payments under section 1834(l) of the Social Security Act (42 U.S.C. 1395m(l)) for air ambulance services furnished during the period beginning on July 1, 2008, and endingon June 30, 2013, any area that was designated as a rural area for purposes of making payments under such section for air ambulance services furnished on December 31, 2006, shall be treated as a rural area for purposes of making payments under such section for air ambulance services furnished during such period."
+Pub. L. 110–275, title I, §146(b)(1), July 15, 2008, 122 Stat. 2548, as amended by Pub. L. 111–148, title III, §3105(b), title X, §10311(b), Mar. 23, 2010, 124 Stat. 417,943; Pub. L. 111–309, title I, §106(b), Dec. 15, 2010, 124 Stat. 3287; Pub. L. 112–78, title III, §306(b), Dec. 23, 2011, 125 Stat. 1285; Pub. L. 112–96, title III, §3007(b), Feb. 22, 2012, 126 Stat. 190; Pub. L. 112–240, title VI, §604(b), Jan. 2, 2013, 126 Stat. 2348, provided that: "Notwithstanding any other provision of law, for purposes of making payments under section 1834(l) of the Social Security Act (42 U.S.C. 1395m(l)) for air ambulance services furnished during the period beginning on July 1, 2008, and ending on June 30, 2013, any area that was designated as a rural area for purposes of making payments under such section for air ambulance services furnished on December 31, 2006, shall be treated as a rural area for purposes of making payments under such section for air ambulance services furnished during such period."
 
 #### Evaluation of Certain Code
 
@@ -3328,7 +3662,7 @@ Bilateral diagnostic mammography.—For a bilateral diagnostic mammography furni
 
 &emsp;"(C)
 
-Allocation of amounts.—The Secretary shall provide for an appropriate allocation of the amounts under subparagraphs (A) and (B) between the professional and technical components.
+Allocation of amounts.—The Secretary shall provide for an appropriate allocation of the amountsunder subparagraphs (A) and (B) between the professional and technical components.
 
 &emsp;"(D)
 
@@ -3526,7 +3860,7 @@ In general.—The amount of the monthly payment made for months occurring during
 
 Capitated payment rate defined.—In this subsection, the term 'capitated payment rate' means, with respect to a demonstration project—
 
-&emsp;&emsp;"(A) in its first year, a rate established for the project by the Secretary, using the most currentavailable data, in a manner that ensures that aggregate payments under the project will not exceed the aggregate payment that would have been made for ambulance services under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395j et seq.\] in the local area of government's jurisdiction; and
+&emsp;&emsp;"(A) in its first year, a rate established for the project by the Secretary, using the most current available data, in a manner that ensures that aggregate payments under the project will not exceed the aggregate payment that would have been made for ambulance services under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395j et seq.\] in the local area of government's jurisdiction; and
 
 &emsp;&emsp;"(B) in a subsequent year, the capitated payment rate established for the previous year increased by an appropriate inflation adjustment factor.
 
@@ -3672,7 +4006,7 @@ Pub. L. 101–239, title VI, §6139, Dec. 19, 1989, 103 Stat. 2224, directed Com
 
 #### Reports on Medicare Beneficiary Drug Expenses
 
-Pub. L. 100–360, title II, §202(i), July 1, 1988, 102 Stat. 718, directed Secretary of Health and Human Services, by not later than Apr. 1, 1989, to report to Congress on expenses incurred by medicare beneficiaries for outpatient prescription drugs, and to provide Director of Congressional Budget Office with such data from thatSurvey as Director might request to make required estimates, prior to repeal by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+Pub. L. 100–360, title II, §202(i), July 1, 1988, 102 Stat. 718, directed Secretary of Health and Human Services, by not later than Apr. 1, 1989, to report to Congress on expenses incurred by medicare beneficiaries for outpatient prescription drugs, and to provide Director of Congressional Budget Office with such data from that Survey as Director might request to make required estimates, prior to repeal by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
 #### Additional Studies by Secretary or Comptroller General
 
@@ -3715,4 +4049,6 @@ Pub. L. 100–203, title IV, §4062(c), Dec. 22, 1987, 101 Stat. 1330–107, as 
 <i><sup>5</sup></i><i> So in original. The period probably should be preceded by another closing parenthesis.</i>
 
 <i><sup>6</sup></i><i> So in original. The second closing parenthesis probably should not appear.</i>
+
+<i><sup>7</sup></i><i> So in original. Probably should be "determines".</i>
 

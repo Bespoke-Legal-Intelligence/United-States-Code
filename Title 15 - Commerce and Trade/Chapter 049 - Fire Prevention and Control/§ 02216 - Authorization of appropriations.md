@@ -36,7 +36,7 @@
 
 &emsp;(2) such further sums as may be necessary in each of the fiscal years ending September 30, 1982, and September 30, 1983, for adjustments required by law in salaries, pay, retirement, and employee benefits incurred in the conduct of activities for which funds are authorized by paragraph (1) of this subsection.
 
-> The funds authorized under section 278f of this title shall be in addition to funds authorized inany other law for research and development at the Fire Research Center of the National Institute of Standards and Technology.
+> The funds authorized under section 278f of this title shall be in addition to funds authorized in any other law for research and development at the Fire Research Center of the National Institute of Standards and Technology.
 
 (e) Except as otherwise specifically provided with respect to the payment of claims under section 2210 of this title, to carry out the purposes of this chapter, there are authorized to be appropriated—
 

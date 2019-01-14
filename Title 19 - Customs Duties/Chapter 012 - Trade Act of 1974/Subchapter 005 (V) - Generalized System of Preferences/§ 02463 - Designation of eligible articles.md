@@ -10,7 +10,7 @@
 
 #### (B) Least-developed beneficiary developing countries
 
-&emsp;&emsp;Except for articles described in subparagraphs (A), (B), and (E) of subsection (b)(1) and articles described in paragraphs (2) and (3) of subsection (b), the President may, in carrying out section 2462(d)(1) of this title and subsection (c)(1) of this section, designate articles as eligible articles only for countries designated as least-developed beneficiary developing countries under section 2462(a)(2) of this title if, after receiving the advice of the International Trade Commission in accordance with subsection (e) of this section, the President determines that such articles are not import-sensitive in the context of imports from least-developed beneficiary developing countries.
+&emsp;&emsp;Except for articles described in subparagraphs (A), (B), and (E) of subsection (b)(1) and articles described in paragraphs (2) and (3) of subsection (b), the President may, in carrying out section 2462(d)(1) of this title and subsection (c)(1) of this section, designate articles as eligible articles only for countries designated as least-developed beneficiary developing countries under section 2462(a)(2) of this title if, after receiving theadvice of the International Trade Commission in accordance with subsection (e) of this section, the President determines that such articles are not import-sensitive in the context of imports from least-developed beneficiary developing countries.
 
 #### (C) Three-year rule
 
@@ -82,13 +82,13 @@
 
 #### (5) <sup>2</sup> Certain cotton articles
 
-&emsp;Notwithstanding paragraph (3), the President may designate as an eligible article or articles under subsection (a)(1)(B) only for countries designated as least-developed beneficiary developing countries under section 2462(a)(2) of this title cotton articles classifiable under subheading 5201.00.18, 5201.00.28, 5201.00.38, 5202.99.30, or 5203.00.30 of the Harmonized Tariff Schedule of the United States.
+&emsp;Notwithstanding paragraph (3), the President may designate as an eligible article or articles under subsection (a)(1)(B) only for countries designated as least-developed beneficiary developing countries under section 2462(a)(2) of this title cotton articles classifiable undersubheading 5201.00.18, 5201.00.28, 5201.00.38, 5202.99.30, or 5203.00.30 of the Harmonized Tariff Schedule of the United States.
 
 #### (5) <sup>2</sup> Certain luggage and travel articles
 
 &emsp;Notwithstanding subparagraph (A) or (E) of paragraph (1), the President may designate the following as eligible articles under subsection (a):
 
-&emsp;&emsp;(A) Articles classifiable under subheading 4202.11.00, 4202.12.40, 4202.21.60, 4202.21.90,4202.22.15, 4202.22.45, 4202.31.60, 4202.32.40, 4202.32.80, 4202.92.15, 4202.92.20, 4202.92.45, or 4202.99.90 of the Harmonized Tariff Schedule of the United States.
+&emsp;&emsp;(A) Articles classifiable under subheading 4202.11.00, 4202.12.40, 4202.21.60, 4202.21.90, 4202.22.15, 4202.22.45, 4202.31.60, 4202.32.40, 4202.32.80, 4202.92.15, 4202.92.20, 4202.92.45, or 4202.99.90 of the Harmonized Tariff Schedule of the United States.
 
 &emsp;&emsp;(B) Articles classifiable under statistical reporting number 4202.12.2020, 4202.12.2050, 4202.12.8030, 4202.12.8070, 4202.22.8050, 4202.32.9550, 4202.32.9560, 4202.91.0030, 4202.91.0090, 4202.92.3020, 4202.92.3031, 4202.92.3091, 4202.92.9026, or 4202.92.9060 of the Harmonized Tariff Schedule of the United States, as such statistical reporting numbers are in effect on June 29, 2015.
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) a quantity of an eligible article equal to or exceeding 50 percent of the appraised value of the total imports of that article into the United States during any calendar year,
 
-&emsp;&emsp;&nbsp;the President shall, not later than July 1 of the next calendar year, terminate the duty-free treatment for that article from that beneficiary developing country.
+&emsp;&emsp;&nbsp;the President shall, not later than November 1 of the next calendar year, terminate the duty-free treatment for that article from that beneficiary developing country.
 
 #### (ii) Annual adjustment of applicable amount
 
@@ -134,7 +134,7 @@
 
 #### (E) Articles not produced in the United States excluded
 
-&emsp;&emsp;Subparagraph (A)(i)(II) shall not apply with respect to any eligible article if a like or directly competitive article was not produced in the United States on January 1, 1995.
+&emsp;&emsp;Subparagraph (A)(i)(II) shall not apply with respect to any eligible article if a like or directly competitive article was not produced in the United States in any of the preceding 3 calendar years.
 
 #### (F) De minimis waivers
 
@@ -154,9 +154,9 @@
 
 #### (1) In general
 
-&emsp;The President may waive the application of subsection (c)(2) with respect to any eligible article of any beneficiary developing country if, before July 1 of the calendar year beginning after the calendar year for which a determination described in subsection (c)(2)(A) was made with respect to such eligible article, the President—
+&emsp;The President may waive the application of subsection (c)(2) with respect to any eligible article of any beneficiary developing country if, before November 1 of the calendar year beginning after the calendar year for which a determination described in subsection (c)(2)(A) was made with respect to such eligible article, the President—
 
-&emsp;&emsp;(A) receives the advice of the International Trade Commission under section 1332 of this title on whether any industry in the United States is likely to be adversely affected by such waiver,
+&emsp;&emsp;(A) receives the advice of the International Trade Commission under section 1332 of thistitle on whether any industry in the United States is likely to be adversely affected by such waiver,
 
 &emsp;&emsp;(B) determines, based on the considerations described in sections 2461 and 2462(c) of this title and the advice described in subparagraph (A), that such waiver is in the national economic interest of the United States, and
 
@@ -172,7 +172,7 @@
 
 #### (3) Other bases for waiver
 
-&emsp;The President may waive the application of subsection (c)(2) if, before July 1 of the calendar year beginning after the calendar year for which a determination described in subsection (c)(2) was made with respect to a beneficiary developing country, the President determines that—
+&emsp;The President may waive the application of subsection (c)(2) if, before November 1 of the calendar year beginning after the calendar year for which a determination described in subsection (c)(2) was made with respect to a beneficiary developing country, the President determines that—
 
 &emsp;&emsp;(A) there has been a historical preferential trade relationship between the United States and such country,
 
@@ -196,7 +196,7 @@
 
 &emsp;&emsp;&emsp;(II) had exported (either directly or indirectly) to the United States a quantity of articles that was duty-free under this subchapter that had an aggregate appraised value of more than 10 percent of the aggregate appraised value of all articles that entered duty-free under this subchapter during that year.
 
-&emsp;&emsp;(ii) Not later than July 1 of each year, the President should revoke any waiver that has then been in effect with respect to an article for 5 years or more if the beneficiary developing country has exported to the United States (directly or indirectly) during the preceding calendar year a quantity of the article—
+&emsp;&emsp;(ii) Not later than November 1 of each year, the President should revoke any waiver that has then been in effect with respect to an article for 5 years or more if the beneficiary developing country has exported to the United States (directly or indirectly) during the preceding calendar year a quantity of the article—
 
 &emsp;&emsp;&emsp;(I) having an appraised value in excess of 1.5 times the applicable amount set forth in subsection (c)(2)(A)(ii) for that calendar year; or
 
@@ -222,7 +222,7 @@ Before designating articles as eligible articles under subsection (a)(1), the Pr
 
 No action under this subchapter may affect any tariff duty imposed by the Legislature of Puerto Rico pursuant to section 1319 of this title on coffee imported into Puerto Rico.
 
-(Pub. L. 93–618, title V, §503, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1921; amended Pub. L. 106–36, title I, §1001(a)(7), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title I, §111(b), May 18, 2000, 114 Stat. 258; Pub. L. 108–429, title I, §1555(a), (b), Dec. 3, 2004, 118 Stat. 2578, 2579; Pub. L. 109–432, div. D, title VIII, §8001, Dec. 20, 2006, 120 Stat. 3195; Pub. L. 114–27, title II, §§202, 204, June 29, 2015, 129 Stat. 372.)
+(Pub. L. 93–618, title V, §503, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1921; amended Pub. L. 106–36, title I, §1001(a)(7), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title I, §111(b), May 18, 2000, 114 Stat. 258; Pub. L. 108–429, title I, §1555(a), (b), Dec. 3, 2004, 118 Stat.2578, 2579; Pub. L. 109–432, div. D, title VIII, §8001, Dec. 20, 2006, 120 Stat. 3195; Pub. L. 114–27, title II, §§202, 204, June 29, 2015, 129 Stat. 372; Pub. L. 115–141, div. M, title V, §502, Mar. 23, 2018, 132 Stat. 1051.)
 
 #### References in Text
 
@@ -235,6 +235,12 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 A prior section 2463, Pub. L. 93–618, title V, §503, Jan. 3, 1975, 88 Stat. 2069; Pub. L. 96–39, title XI, §1111(a)(3), July 26, 1979, 93 Stat. 315; Pub. L. 98–573, title V, §504, Oct. 30, 1984, 98 Stat. 3020; Pub. L. 99–47, §8(b)(2), June 11, 1985, 99 Stat. 85; Pub. L. 99–514, title XVIII, §1889(7), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–418, title I, §1903, Aug. 23, 1988, 102 Stat. 1313; Pub. L. 101–382, title II, §226, Aug. 20, 1990, 104 Stat. 660; Pub. L. 103–465, title IV, §404(e)(3), Dec. 8, 1994, 108 Stat. 4961, related to eligible articles, prior to the general amendment of this subchapter by Pub. L. 104–188.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(2)(A)(i). Pub. L. 115–141, §502(1)(A), substituted "November 1" for "July 1" in concluding provisions.
+
+Subsec. (c)(2)(E). Pub. L. 115–141, §502(1)(B), substituted "in any of the preceding 3 calendar years" for "on January 1, 1995".
+
+Subsec. (d)(1), (3), (4)(B)(ii). Pub. L. 115–141, §502(2), substituted "November 1" for "July 1".
 
 <b>2015</b>—Subsec. (b)(1)(A). Pub. L. 114–27, §204(1), substituted "paragraphs (4) and (5)" for "paragraph (4)".
 

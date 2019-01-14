@@ -22,7 +22,7 @@
 
 &emsp;(4) Any citizen of the United States who, during any war in which the United States is or has been engaged, served in the armed forces of any government allied with the United States during that war, and whose last such service terminated honorably.
 
-&emsp;(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7).
+&emsp;(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7), and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse's or child's death if such death occurs before October 1, 2024.
 
 &emsp;(6) Such other persons or classes of persons as may be designated by the Secretary.
 
@@ -44,6 +44,14 @@
 
 &emsp;&emsp;(iii) at the time of the person's parent's death, did not have a spouse, surviving spouse, or child who is buried or who, upon death, may be eligible for burial in a national cemetery pursuant to paragraph (5).
 
+&emsp;(10) Any individual—
+
+&emsp;&emsp;(A) <sup>1</sup> who—
+
+&emsp;&emsp;&emsp;(i) was naturalized pursuant to section 2(1) of the Hmong Veterans' Naturalization Act of 2000 (Public Law 106–207; 8 U.S.C. 1423 note); and
+
+&emsp;&emsp;&emsp;(ii) at the time of the individual's death resided in the United States.
+
 (b) For purposes of subsection (a)(9) of this section:
 
 &emsp;(1) The term "parent" means a biological father or a biological mother or, in the case of adoption, a father through adoption or a mother through adoption.
@@ -52,9 +60,17 @@
 
 &emsp;(3) The term "training-related injury" means an injury incurred by a member of the Armed Forces while performing authorized training activities in preparation for a combat mission.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, §403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, §331(a), title IV, §404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865; Pub. L. 108–183, title II, §212(b), title V, §502(a), Dec. 16, 2003, 117 Stat. 2658, 2667; Pub. L. 111–275, title V, §502(b), Oct. 13, 2010, 124 Stat. 2882.)
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII,§701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, §403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, §331(a), title IV, §404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865; Pub. L. 108–183, title II, §212(b), title V, §502(a), Dec. 16, 2003, 117 Stat. 2658, 2667; Pub. L. 111–275, title V, §502(b), Oct. 13, 2010, 124 Stat. 2882; Pub. L. 115–141, div. J, title II, §251(a), Mar. 23, 2018, 132 Stat. 824; Pub. L. 115–407, title II, §202(b), Dec. 31, 2018, 132 Stat. 5373.)
+
+#### References in Text
+
+Section 2(1) of the Hmong Veterans' Naturalization Act of 2000, referred to in subsec. (a)(10)(A)(i), is section 2(1) of Pub. L. 106–207, May 26, 2000, 114 Stat. 316, which is set out as a note under section 1423 of Title 8, Aliens and Nationality.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(5). Pub. L. 115–407 inserted ", and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse's or child's death if such death occurs before October 1, 2024" after "paragraph (7)".
+
+Subsec. (a)(10). Pub. L. 115–141 added par. (10).
 
 <b>2010</b>—Pub. L. 111–275 designated existing provisions as subsec. (a), realigned margins, added par. (9) of subsec. (a), and added subsec. (b).
 
@@ -68,7 +84,7 @@ Par. (8). Pub. L. 106–419, §331(a), added par. (8).
 
 <b>1998</b>—Pub. L. 105–368 substituted "under the control of the National Cemetery Administration" for "in the National Cemetery System" in introductory provisions.
 
-<b>1996</b>—Par. (5). Pub. L. 104–275 inserted "(which for purposes of this chapter includes a child under 21 yearsof age, or under 23 years of age if pursuing a course of instruction at an approved educational institution)" after "minor child".
+<b>1996</b>—Par. (5). Pub. L. 104–275 inserted "(which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution)" after "minor child".
 
 <b>1994</b>—Par. (5). Pub. L. 103–446 inserted "spouse," after "The" and "(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)" after "surviving spouse".
 
@@ -86,6 +102,10 @@ Pub. L. 102–40 substituted "6105" for "3505" in introductory provisions.
 
 Par. (5). Pub. L. 99–576, §701(54)(B), struck out "wife, husband," before "surviving spouse".
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–141, div. J, title II, §251(b), Mar. 23, 2018, 132 Stat. 825, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to an individual dying on or after the date of the enactment of this Act \[Mar. 23, 2018\]."
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–275 applicable with respect to the death, on or after Oct. 13, 2010, of the parent of a person described in section 2402(a)(9)(B) of this title, who dies on or after October 7, 2001, see section 502(e) of Pub. L. 111–275, set out as a note under section 107 of this title.
@@ -99,6 +119,18 @@ Pub. L. 108–183, title V, §502(b), Dec. 16, 2003, 117 Stat. 2667, provided th
 #### Effective Date of 2000 Amendment
 
 Amendment by section 331(a) of Pub. L. 106–419 applicable with respect to deaths occurring on or after Nov. 1, 2000, see section 331(c) of Pub. L. 106–419, set out as a note under section 107 of this title.
+
+#### Criteria for Interment at Arlington National Cemetery
+
+Pub. L. 115–232, div. A, title V, §598, Aug. 13, 2018, 132 Stat. 1791, provided that:
+
+"(a)
+
+Criteria.—The Secretary of the Army, in consultation with the Secretary of Defense, shall prescribe revised criteria for interment at Arlington National Cemetery that preserve Arlington National Cemetery as an active burial ground 'well into the future,' as that term is used in the report submitted by the Secretary of the Army to the Committees on Veterans' Affairs and the Committees on Armed Services of the House of Representatives and the Senate, dated February 14, 2017, and titled 'The Future of Arlington National Cemetery: Report on the Cemetery's Interment and Inurnment Capacity 2017'.
+
+"(b)
+
+Deadline.—The Secretary of the Army shall establish the criteria under subsection (a) not later than September 30, 2019."
 
 #### Identification of Unclaimed or Abandoned Human Remains
 
@@ -139,4 +171,6 @@ Definitions.—For purposes of this section:
 &emsp;"(1) The term 'former prisoner of war' has the meaning given such term in section 101(32) of title 38, United States Code.
 
 &emsp;"(2) The term 'active military, naval, or air service' has the meaning given such term in section 101(24) of such title."
+
+<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

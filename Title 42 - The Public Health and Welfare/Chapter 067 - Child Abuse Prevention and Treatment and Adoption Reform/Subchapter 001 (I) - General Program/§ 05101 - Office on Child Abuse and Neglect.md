@@ -66,7 +66,7 @@ Pub. L. 104–235, §1(a), Oct. 3, 1996, 110 Stat. 3063, provided that: "This Ac
 
 #### Short Title of 1994 Amendment
 
-For short title of subpart 1 of part E of title V of Pub. L. 103–381, which enacted section 5115a of this title, asthe "Howard M. Metzenbaum Multiethnic Placement Act of 1994", see section 551 of Pub. L. 103–382, set out as a note under section 1305 of this title.
+For short title of subpart 1 of part E of title V of Pub. L. 103–381, which enacted section 5115a of this title, as the "Howard M. Metzenbaum Multiethnic Placement Act of 1994", see section 551 of Pub. L. 103–382, set out as a note under section 1305 of this title.
 
 #### Short Title of 1992 Amendment
 
@@ -104,7 +104,7 @@ Pub. L. 93–247, §1(a), formerly §1, Jan. 31, 1974, 88 Stat. 4, as renumbered
 
 For short title of title II of Pub. L. 99–401, which enacted subchapter IV of this chapter, as the "Temporary Child Care for Handicapped Children and Crisis Nurseries Act of 1986", see section 201 of Pub. L. 99–401, formerly set out as a note under section 5117 of this title.
 
-Pub. L. 100–505, §1, Oct. 18, 1988, 102 Stat. 2533, provided that: "This Act \[enacting subchapter IV–A of this chapter and provisions formerly set out as a note under section 670 of this title\] may be cited as the 'Abandoned Infants Assistance Act of 1988'."
+Pub. L. 100–505, §1, Oct. 18, 1988, 102 Stat. 2533, which provided that Pub. L. 100–505, enacting subchapter IV–A of this chapter and provisions formerly set out as a note under section 670 of this title, could be cited as the "Abandoned Infants Assistance Act of 1988", was repealed by Pub. L. 115–271, title VII, §7065(b), Oct. 24, 2018, 132 Stat. 4028.
 
 #### Regulations
 
@@ -136,7 +136,7 @@ Pub. L. 99–401, title I, §105, Aug. 27, 1986, 100 Stat. 906, which related to
 
 #### Congressional Findings
 
-Pub. L. 93–247, §2, as added by Pub. L. 102–295, title I, §102(a), May 28, 1992, 106 Stat. 188, and amended by Pub. L. 104–235, title I, §100, Oct. 3, 1996, 110 Stat. 3064; Pub. L. 108–36, title I, §101, June 25, 2003, 117 Stat. 801; Pub.L. 111–320, title I, §101, Dec. 20, 2010, 124 Stat. 3459, provided that: "Congress finds that—
+Pub. L. 93–247, §2, as added by Pub. L. 102–295, title I, §102(a), May 28, 1992, 106 Stat. 188, and amended by Pub. L. 104–235, title I, §100, Oct. 3, 1996, 110 Stat. 3064; Pub. L. 108–36, title I, §101, June 25, 2003, 117 Stat. 801; Pub. L. 111–320, title I, §101, Dec. 20, 2010, 124 Stat. 3459, provided that: "Congress finds that—
 
 &emsp;"(1) in fiscal year 2008, approximately 772,000 children were found by States to be victims of child abuse and neglect;
 

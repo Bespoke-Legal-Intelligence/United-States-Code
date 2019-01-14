@@ -10,9 +10,9 @@
 
 &emsp;(3) activities violating legal or equitable rights that are not equivalent to any of the exclusive rights within the general scope of copyright as specified by section 106; or
 
-&emsp;(4) State and local landmarks, historic preservation, zoning, or building codes, relating to architectural works protected under section 102(a)(8).
+&emsp;(4) State and local landmarks, historic preservation, zoning, or building codes, relating toarchitectural works protected under section 102(a)(8).
 
-(c) With respect to sound recordings fixed before February 15, 1972, any rights or remedies under the common law or statutes of any State shall not be annulled or limited by this title until February 15, 2067. The preemptive provisions of subsection (a) shall apply to any such rights and remedies pertaining to any cause of action arising from undertakings commenced on and after February 15, 2067. Notwithstanding the provisions of section 303, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title before, on, or after February 15, 2067.
+(c) Notwithstanding the provisions of section 303, and in accordance with chapter 14, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title. With respect to sound recordings fixed before February 15, 1972, the preemptive provisions of subsection (a) shall apply to activities that are commenced on and after the date of enactment of the Classics Protection and Access Act. Nothing in this subsection may be construed to affirm or negate the preemption of rights and remedies pertaining to any cause of action arising from the nonsubscription broadcast transmission of sound recordings under the common law or statutes of any State for activities that do not qualify as covered activities under chapter 14 undertaken during the period between the date of enactment of the Classics Protection and Access Act and the date on which the term of prohibition on unauthorized acts under section 1401(a)(2) expires for such sound recordings. Any potential preemption of rights and remedies related to such activities undertaken during that period shall apply in all respects as it did the day before the date of enactment of the Classics Protection and Access Act.
 
 (d) Nothing in this title annuls or limits any rights or remedies under any other Federal statute.
 
@@ -28,7 +28,7 @@
 
 &emsp;(C) activities violating legal or equitable rights which extend beyond the life of the author.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2572; Pub. L. 100–568, §6, Oct. 31, 1988, 102 Stat. 2857; Pub. L. 101–650, title VI, §605, title VII, §705, Dec. 1, 1990, 104 Stat. 5131, 5134; Pub. L. 105–298, title I, §102(a), Oct. 27, 1998, 112 Stat. 2827.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2572; Pub. L. 100–568, §6, Oct. 31, 1988, 102 Stat. 2857; Pub. L. 101–650, title VI, §605, title VII, §705, Dec. 1, 1990, 104 Stat. 5131, 5134; Pub. L. 105–298, title I, §102(a), Oct. 27, 1998, 112 Stat. 2827; Pub. L. 115–264, title II, §202(a)(1), Oct. 11, 2018, 132 Stat. 3728.)
 
 #### Historical and Revision Notes
 
@@ -36,7 +36,7 @@
 
 <b>Single Federal System.</b> Section 301, one of the bedrock provisions of the bill, would accomplish a fundamental and significant change in the present law. Instead of a dual system of "common law copyright" for unpublished works and statutory copyright for published works, which has been the system in effect in the United States since the first copyright statute in 1790, the bill adopts a single system of Federal statutory copyright from creation. Under section 301 a work would obtain statutory protection as soon as it is "created" or, as that term is defined in section 101 when it is "fixed in a copy or phonorecord for the first time." Common law copyright protection for works coming within the scope of the statute would be abrogated, and the concept of publication would lose its all-embracing importance as a dividing line between common law and statutory protection and between both of these forms of legal protection and the public domain.
 
-By substituting a single Federal system for the present anachronistic, uncertain, impractical, and highly complicated dual system, the bill would greatly improve the operation of the copyright law and would be much more effective in carrying out the basic constitutional aims of uniformity and the promotion of writing and scholarship. The main arguments in favorof a single Federal system can be summarized as follows:
+By substituting a single Federal system for the present anachronistic, uncertain, impractical, and highly complicated dual system, the bill would greatly improve the operation of the copyright law and would be much more effective in carrying out the basic constitutional aims of uniformity and the promotion of writing and scholarship. The main arguments in favor of a single Federal system can be summarized as follows:
 
 &emsp;1\. One of the fundamental purposes behind the copyright clause of the Constitution, as shown in Madison's comments in The Federalist, was to promote national uniformity and to avoid the practical difficulties of determining and enforcing an author's rights under the differing laws and in the separate courts of the various States. Today when the methods for dissemination of an author's work are incomparably broader and faster than they were in 1789, national uniformity in copyright protection is even more essential than it was then to carry out the constitutional intent.
 
@@ -60,7 +60,7 @@ Representatives of printers, while not opposed to the principle of section 301, 
 
 In a general way subsection (b) of section 301 represents the obverse of subsection (a). It sets out, in broad terms and without necessarily being exhaustive, some of the principal areas of protection that preemption would not prevent the States from protecting. Its purpose is to make clear, consistent with the 1964 Supreme Court decisions in <i>Sears, Roebuck \& Co., v. Stiffel Co</i>., 376 U.S. 225 \[84 S.Ct. 784, 11 L.Ed.2d 661, rehearing denied 84 S.Ct. 1131, 376 U.S. 973, 12 L.Ed.2d 87\], and <i>Compco Corp. v. Day-Brite Lighting, Inc</i>., 376 U.S. 234 \[84 S.Ct. 779, 11 L.Ed.2d 669, rehearing denied 84 S.Ct. 1162, 377 U.S. 913, 12 L.Ed.2d 183\], that preemption does not extend to causes of action, or subject matter outside the scope of the revised Federal copyright statute.
 
-The numbered clauses of subsection (b) list three general areas left unaffected by the preemption: (1) subject matter that does not come within the subject matter of copyright; (2) causes of action arising under State law before the effective date of the statute \[Jan. 1, 1978\];and (3) violations of rights that are not equivalent to any of the exclusive rights under copyright.
+The numbered clauses of subsection (b) list three general areas left unaffected by the preemption: (1) subject matter that does not come within the subject matter of copyright; (2) causes of action arising under State law before the effective date of the statute \[Jan. 1, 1978\]; and (3) violations of rights that are not equivalent to any of the exclusive rights under copyright.
 
 The examples in clause (3), while not exhaustive, are intended to illustrate rights and remedies that are different in nature from the rights comprised in a copyright and that may continue to be protected under State common law or statute. The evolving common law rights of "privacy," "publicity," and trade secrets, and the general laws of defamation and fraud, would remain unaffected as long as the causes of action contain elements, such as an invasion of personal rights or a breach of trust or confidentiality, that are different in kind from copyright infringement. Nothing in the bill derogates from the rights of parties to contract with each other and to sue for breaches of contract; however, to the extent that the unfair competition concept known as "interference with contract relations" is merely the equivalent of copyright protection, it would be preempted.
 
@@ -86,9 +86,13 @@ Subsection (c) makes clear that nothing contained in Title 17 annuls or limits a
 
 #### References in Text
 
+The date of enactment of the Classics Protection and Access Act, referred to in subsec. (c), is the date of enactment of title II of Pub. L. 115–264, which was approved Oct. 11, 2018.
+
 Section 610(a) of the Visual Artists Rights Act of 1990 \[Pub. L. 101–650\], referred to in subsec. (f)(1), (2)(A), is set out as an Effective Date note under section 106A of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–264, §202(a)(1), added subsec. (c) and struck out former subsec. (c) which read as follows: "With respect to sound recordings fixed before February 15, 1972, any rights or remedies under the common law or statutes of any State shall not be annulled or limited by this title until February 15, 2067. The preemptive provisions of subsection (a) shall apply to any such rights and remedies pertaining to any cause of action arising from undertakings commenced on and after February 15, 2067. Notwithstanding the provisions of section 303, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title before, on, or after February 15, 2067."
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–298 substituted "2067" for "2047" wherever appearing.
 

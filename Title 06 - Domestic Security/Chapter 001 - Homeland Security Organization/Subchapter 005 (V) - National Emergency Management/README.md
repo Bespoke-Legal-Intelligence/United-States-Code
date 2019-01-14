@@ -25,7 +25,7 @@ Pub. L. 109–295, title VI, §611(1), Oct. 4, 2006, 120 Stat. 1395, substituted
 - [&sect; 00321b - Disability Coordinator](%C2%A7%2000321b%20-%20Disability%20Coordinator.md)
 - [&sect; 00321c - Department and Agency officials](%C2%A7%2000321c%20-%20Department%20and%20Agency%20officials.md)
 - [&sect; 00321d - National Operations Center](%C2%A7%2000321d%20-%20National%20Operations%20Center.md)
-- [&sect; 00321e - Chief Medical Officer](%C2%A7%2000321e%20-%20Chief%20Medical%20Officer.md)
+- [&sect; 00321e - Repealed. Pub. L. 115&#8211;387, &sect;2(c)(1), Dec. 21, 2018, 132 Stat. 5166](%C2%A7%2000321e%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93387%2C%20%C2%A72%28c%29%281%29%2C%20Dec.%2021%2C%202018%2C%20132%20Stat.%205166.md)
 - [&sect; 00321f - Nuclear incident response](%C2%A7%2000321f%20-%20Nuclear%20incident%20response.md)
 - [&sect; 00321g - Conduct of certain public health-related activities](%C2%A7%2000321g%20-%20Conduct%20of%20certain%20public%20health-related%20activities.md)
 - [&sect; 00321h - Use of national private sector networks in emergency response](%C2%A7%2000321h%20-%20Use%20of%20national%20private%20sector%20networks%20in%20emergency%20response.md)

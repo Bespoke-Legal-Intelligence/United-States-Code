@@ -9,3 +9,4 @@ Part A—General
 - [&sect; 01832 - Assignment and reassignment of personnel](%C2%A7%2001832%20-%20Assignment%20and%20reassignment%20of%20personnel.md)
 - [&sect; 01833 - Lighting, heating, and ventilating House of Representatives](%C2%A7%2001833%20-%20Lighting%2C%20heating%2C%20and%20ventilating%20House%20of%20Representatives.md)
 - [&sect; 01834 - Heating and ventilating Senate wing](%C2%A7%2001834%20-%20Heating%20and%20ventilating%20Senate%20wing.md)
+- [&sect; 01835 - Interagency details](%C2%A7%2001835%20-%20Interagency%20details.md)

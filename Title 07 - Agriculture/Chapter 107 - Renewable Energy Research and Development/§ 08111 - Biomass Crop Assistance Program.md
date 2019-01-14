@@ -62,7 +62,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "eligible material" means renewable biomass harvested directly from the land, including crop residue from any crop that is eligible to receive payments under title I of the Agricultural Act of 2014 \[7 U.S.C. 9001 et seq.\] or an amendment made by that title.
+&emsp;&emsp;The term "eligible material" means renewable biomass harvested directly from the land, including crop residue from any crop that is eligible to receive payments undertitle I of the Agricultural Act of 2014 \[7 U.S.C. 9001 et seq.\] or an amendment made by that title.
 
 #### (B) Inclusions
 
@@ -92,9 +92,11 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) is a byproduct of a preventative treatment that is removed to reduce hazardous fuel or to reduce or contain disease or insect infestation; and
 
-&emsp;&emsp;&emsp;&emsp;(II) if harvested from Federal land, is harvested in accordance with section 6512(e) of title 16; and
+&emsp;&emsp;&emsp;&emsp;(II) if harvested from Federal land, is harvested in accordance with section 6512(e) of title 16;
 
-&emsp;&emsp;&emsp;(iii) eligible material that is delivered to a qualified biomass conversion facility to be used for heat, power, biobased products, research, or advanced biofuels.
+&emsp;&emsp;&emsp;(iii) eligible material that is delivered to a qualified biomass conversion facility to be used for heat, power, biobased products, research, or advanced biofuels; and
+
+&emsp;&emsp;&emsp;(iv) algae.
 
 #### (C) Exclusions
 
@@ -126,17 +128,15 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) food waste and yard waste;
 
-&emsp;&emsp;&emsp;(iv) algae;
-
-&emsp;&emsp;&emsp;(v) woody eligible material that—
+&emsp;&emsp;&emsp;(iv) woody eligible material that—
 
 &emsp;&emsp;&emsp;&emsp;(I) is removed outside contract acreage; and
 
 &emsp;&emsp;&emsp;&emsp;(II) is not a byproduct of a preventative treatment to reduce hazardous fuel or to reduce or contain disease or insect infestation;
 
-&emsp;&emsp;&emsp;(vi) any woody eligible material collected or harvested outside contract acreage that would otherwise be used for existing market products; or
+&emsp;&emsp;&emsp;(v) any woody eligible material collected or harvested outside contract acreage that would otherwise be used for existing market products; or
 
-&emsp;&emsp;&emsp;(vii) bagasse.
+&emsp;&emsp;&emsp;(vi) bagasse.
 
 #### (7) Producer
 
@@ -152,7 +152,7 @@ In this section:
 
 #### (9) Socially disadvantaged farmer or rancher
 
-&emsp;The term "socially disadvantaged farmer or rancher" has the meaning given the term in section 2279(e) of this title.
+&emsp;The term "socially disadvantaged farmer or rancher" has the meaning given the term in section 2279(e) <sup>1</sup> of this title.
 
 #### (b) Establishment and purpose
 
@@ -178,7 +178,7 @@ The Secretary shall establish and administer a Biomass Crop Assistance Program t
 
 &emsp;&emsp;&emsp;(ii) a letter of commitment from a biomass conversion facility that the facility will use the eligible crops intended to be produced in the proposed BCAP project area;
 
-&emsp;&emsp;&emsp;(iii) evidence that the biomass conversion facility has sufficient equity available, as determined by the Secretary, if the biomass conversion facility is notoperational at the time the proposal is submitted to the Secretary; and
+&emsp;&emsp;&emsp;(iii) evidence that the biomass conversion facility has sufficient equity available, as determined by the Secretary, if the biomass conversion facility is not operational at the time the proposal is submitted to the Secretary; and
 
 &emsp;&emsp;&emsp;(iv) any other information about the biomass conversion facility or proposed biomass conversion facility that the Secretary determines necessary for the Secretary to be reasonably assured that the plant will be in operation by the date on which the eligible crops are ready for harvest.
 
@@ -238,7 +238,7 @@ The Secretary shall establish and administer a Biomass Crop Assistance Program t
 
 &emsp;&emsp;&emsp;&emsp;(III) a plan that is equivalent to a conservation or forest stewardship plan; and
 
-&emsp;&emsp;&emsp;(iv) any additional requirements that Secretary <sup>1</sup> determines to be necessary.
+&emsp;&emsp;&emsp;(iv) any additional requirements that Secretary <sup>2</sup> determines to be necessary.
 
 #### (C) Duration
 
@@ -336,9 +336,9 @@ Not later than 4 years after February 7, 2014, the Secretary shall submit to the
 
 #### (f) Funding
 
-#### (1) In general
+#### (1) Authorization of appropriations
 
-&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $25,000,000 for each of fiscal years 2014 through 2018.
+&emsp;There is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2019 through 2023.
 
 #### (2) Collection, harvest, storage, and transportation payments
 
@@ -346,15 +346,9 @@ Not later than 4 years after February 7, 2014, the Secretary shall submit to the
 
 #### (3) Technical assistance
 
-#### (A) In general
+&emsp;Effective for fiscal year 2014 and each subsequent fiscal year, funds made available under this subsection shall be available for the provision of technical assistance with respect to activities authorized under this section.
 
-&emsp;&emsp;Effective for fiscal year 2014 and each subsequent fiscal year, funds made available under this subsection shall be available for the provision of technical assistance with respect to activities authorized under this section.
-
-#### (B) Relationship to other laws
-
-&emsp;&emsp;To the extent funds obligated or expended under subparagraph (A) include funds of the Commodity Credit Corporation, such funds shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by section 714i of title 15.
-
-(Pub. L. 107–171, title IX, §9011, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1327, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2089; amended Pub. L. 112–240, title VII, §701(f)(10), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9010, Feb. 7, 2014, 128 Stat. 932.)
+(Pub. L. 107–171, title IX, §9011, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1327, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2089; amended Pub. L. 112–240, title VII, §701(f)(10), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9010, Feb. 7, 2014, 128 Stat. 932; Pub. L. 115–334, title IX, §9010, Dec. 20, 2018, 132 Stat. 4887.)
 
 #### References in Text
 
@@ -363,6 +357,8 @@ The Agricultural Act of 2014, referred to in subsec. (a)(4)(B)(i), (6)(A), and (
 The Food Security Act of 1985, referred to in subsecs. (a)(5)(A)(ii), (B)(iii), (iv), and (c)(3)(B)(ii), (5)(D), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B, C, and H of title XII of the Act are classified generally to subchapters II (§3811 et seq.), III (§3821 et seq.), and VII (§3865 et seq.), respectively, of chapter 58 of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (a)(5)(B)(ii), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+
+Section 2279(e) of this title, referred to in subsec. (a)(9), was redesignated section 2279(a) of this title by section 12301(b)(3) of Pub. L. 115–334.
 
 #### Codification
 
@@ -373,6 +369,14 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 9011 of Pub. L. 107–171 was classified to section 8109 of this title, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(6)(B)(iv). Pub. L. 115–334, §9010(1)(A), added cl. (iv).
+
+Subsec. (a)(6)(C)(iv) to (vii). Pub. L. 115–334, §9010(1)(B), redesignated cls. (v) to (vii) as (iv) to (vi), respectively, and struck out former cl. (iv) which read as follows: "algae;".
+
+Subsec. (f)(1). Pub. L. 115–334, §9010(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: "Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $25,000,000 for each of fiscal years 2014 through 2018."
+
+Subsec. (f)(3). Pub. L. 115–334, §9010(2)(B), amended par. (3) generally. Prior to amendment, par. (3) related to funds for technical assistance.
 
 <b>2014</b>—Pub. L. 113–79 amended section generally. Prior to amendment, section related to the Biomass Crop Assistance Program.
 
@@ -386,5 +390,7 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

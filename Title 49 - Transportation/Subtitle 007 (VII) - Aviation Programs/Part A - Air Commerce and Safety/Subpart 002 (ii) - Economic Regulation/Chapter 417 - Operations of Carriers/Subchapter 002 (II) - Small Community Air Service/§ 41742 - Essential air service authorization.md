@@ -10,11 +10,11 @@ Authorization.—Out of the amounts received by the Federal Aviation Administrat
 
 &emsp;(2)
 
-Additional funds.—In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, $93,000,000 for fiscal year 2015, $175,000,000 for each of fiscal years 2016 and 2017, and $74,794,521 for the period beginning on October 1, 2017, and ending on March 31, 2018, to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
+Additional funds.—In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $155,000,000 for fiscal year 2018, $158,000,000 for fiscal year 2019, $161,000,000 for fiscal year 2020, $165,000,000 for fiscal year 2021, $168,000,000 for fiscal year 2022, and $172,000,000 for fiscal year 2023 to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
 
 &emsp;(3)
 
-Authorization for additional employees.—In addition to amounts authorized under paragraphs (1) and (2), there are authorized to be appropriated such sums as may be necessary for the Secretary of Transportation to hire and employ 4 additional employees for the office responsible for carrying out the essential air service program.
+Authorization for additional employees.—In addition to amounts authorized under paragraphs (1) and (2), there are authorized to be appropriated such sums as may be necessary for the Secretary of Transportation to hire and employ 4 additional employees for theoffice responsible for carrying out the essential air service program.
 
 (b)
 
@@ -24,7 +24,7 @@ Distribution of Additional Funds.—Notwithstanding any other provision of law, 
 
 Availability of Funds.—The funds made available under this section shall remain available until expended.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 104–264, title II, §278(c), Oct. 9, 1996, 110 Stat. 3249; Pub. L. 106–181, title II, §209(a), Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title IV, §404, Dec. 12, 2003, 117 Stat. 2543; Pub. L. 112–30, title II, §209, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §9, Jan. 31, 2012, 126 Stat. 5; Pub. L. 112–95, title IV, §428, Feb. 14, 2012, 126 Stat. 99; Pub. L. 114–55, title I, §107, Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–141, title I, §107, Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, §1107, July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §104(a), Sept. 29, 2017, 131 Stat. 1170.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 104–264, title II, §278(c), Oct. 9, 1996, 110 Stat. 3249; Pub. L. 106–181, title II, §209(a), Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title IV, §404, Dec. 12, 2003, 117 Stat. 2543; Pub. L. 112–30, title II, §209, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §9, Jan. 31, 2012, 126 Stat. 5; Pub. L. 112–95, title IV, §428, Feb. 14, 2012, 126 Stat. 99; Pub. L. 114–55, title I, §107, Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–141, title I, §107, Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, §1107, July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §104(a), Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §104(a), Mar. 23, 2018, 132 Stat. 1047; Pub. L. 115–254, div. B, title IV, §451(a), Oct. 5, 2018, 132 Stat. 3347.)
 
 Historical and Revision Notes
 
@@ -47,6 +47,10 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(m); added Oct. 24, 1978, Pu
 Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (a)(2), is classified to section 9502 of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2). Pub. L. 115–254 substituted "$155,000,000 for fiscal year 2018, $158,000,000 for fiscal year 2019, $161,000,000 for fiscal year 2020, $165,000,000 for fiscal year 2021, $168,000,000 for fiscal year 2022, and $172,000,000 for fiscal year 2023" for "$150,000,000 for fiscal year 2011, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, $93,000,000 for fiscal year 2015, $175,000,000 for each of fiscal years 2016 and 2017, and $150,000,000 for fiscal year 2018".
+
+Pub. L. 115–141 substituted "2016 and 2017, and $150,000,000 for fiscal year 2018" for "2016 and 2017, and $74,794,521 for the period beginning on October 1, 2017, and ending on March 31, 2018,".
 
 <b>2017</b>—Subsec. (a)(2). Pub. L. 115–63 substituted "$175,000,000 for each of fiscal years 2016 and 2017, and $74,794,521 for the period beginning on October 1, 2017, and ending on March 31, 2018," for "and $175,000,000 for each of fiscal years 2016 and 2017".
 

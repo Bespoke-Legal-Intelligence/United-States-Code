@@ -18,7 +18,7 @@
 
 #### (B) Interest owned by tribe
 
-&emsp;&emsp;Interests owned by an Indian tribe in a tract may be included in the computation ofthe percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under subparagraph (A) has been met.
+&emsp;&emsp;Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under subparagraph (A) has been met.
 
 #### (b) Conditions applicable to purchase
 
@@ -26,7 +26,7 @@ Subsection (a) applies on the condition that—
 
 &emsp;(1) any Indian owning any undivided interest, and in actual use and possession of such tract for at least three years preceding the tribal initiative, may purchase such tract by matching the tribal offer;
 
-&emsp;(2) if at any time within five years following the date of acquisition of such land by an individual pursuant to this section, such property is offered for sale or a petition is filed with the Secretary for removal of the property from trust or restricted status, the tribe shall have 180 days from the date it is notified of such offer or petition to acquire such property by paying to the owner the fair market value as determined by the Secretary; and
+&emsp;(2) if at any time within five years following the date of acquisition of such land by an individual pursuant to this section, such property is offered for sale or a petition is filed with the Secretary for removal of the property from trust or restricted status, the tribe shall have 180 days from the date it is notified of suchoffer or petition to acquire such property by paying to the owner the fair market value as determined by the Secretary; and
 
 &emsp;(3) the approval of the Secretary shall be required for a land sale initiated under this section, except that such approval shall not be required with respect to a land sale transaction initiated by an Indian tribe that has in effect a land consolidation plan that has been approved by the Secretary under section 2203 of this title.
 
@@ -86,7 +86,7 @@ Subsection (a) applies on the condition that—
 
 #### (E) Appraisal
 
-&emsp;&emsp;After the Secretary has determined that the subject parcel is a parcel of highly fractionated Indian land pursuant to subparagraph (C), the Secretary shall cause to be made, in accordance with the provisions of this chapter for establishing fair market value, an appraisal of the fair market value of the subject parcel.
+&emsp;&emsp;After the Secretary has determined that the subject parcel is a parcel of highly fractionated Indian land pursuant to subparagraph (C), the Secretary shall cause to bemade, in accordance with the provisions of this chapter for establishing fair market value, an appraisal of the fair market value of the subject parcel.
 
 #### (F) Notice to owners on completion of appraisal
 
@@ -138,7 +138,7 @@ Subsection (a) applies on the condition that—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;After reviewing and considering comments or information timely submitted byany owner of an interest in the parcel in response to the notice required under subparagraph (F), the Secretary may, consistent with the provisions of this chapter for establishing fair market value—
+&emsp;&emsp;&emsp;After reviewing and considering comments or information timely submitted by any owner of an interest in the parcel in response to the notice required under subparagraph (F), the Secretary may, consistent with the provisions of this chapter for establishing fair market value—
 
 &emsp;&emsp;&emsp;&emsp;(I) order a new appraisal; or
 
@@ -150,7 +150,7 @@ Subsection (a) applies on the condition that—
 
 &emsp;&emsp;&emsp;Notice shall be given—
 
-&emsp;&emsp;&emsp;&emsp;(I) in accordance with subparagraph (H), where the new appraisal results in a value of the land that is equal to or greater than that of the earlier appraisal; or
+&emsp;&emsp;&emsp;&emsp;(I) in accordance with subparagraph (H), where the new appraisal results in avalue of the land that is equal to or greater than that of the earlier appraisal; or
 
 &emsp;&emsp;&emsp;&emsp;(II) in accordance with subparagraph (F)(ii), where the new appraisal results in a lower valuation of the land.
 
@@ -212,7 +212,7 @@ Subsection (a) applies on the condition that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) equal to or greater than 20 percent of the entire undivided ownership of the parcel;
 
-&emsp;&emsp;&emsp;&emsp;(III) within 3 days following the date of the auction or for receiving sealed bids, and in accordance with the regulations adopted to implement this section (if any), the owner delivers to the Secretary a written notice of intent to exercise the owner's rights under this clause; and
+&emsp;&emsp;&emsp;&emsp;(III) within 3 days following the date of the auction or for receiving sealed bids,and in accordance with the regulations adopted to implement this section (if any), the owner delivers to the Secretary a written notice of intent to exercise the owner's rights under this clause; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) such owner tenders the amount of the purchase price required under this clause—
 
@@ -280,7 +280,7 @@ Subsection (a) applies on the condition that—
 
 &emsp;The Secretary is authorized to adopt such regulations as may be necessary to implement the provisions of this subsection. Such regulations may include provisions for giving notice of sales to prospective purchasers eligible to submit bids at sales conducted under paragraph (2)(I).
 
-(Pub. L. 97–459, title II, §205, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, §1(2), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 106–462, title I, §103(2), Nov. 7, 2000, 114 Stat. 1993; Pub. L. 108–374, §§4, 6(a)(1),Oct. 27, 2004, 118 Stat. 1787, 1797; Pub. L. 109–157, §§2, 8(a)(1), Dec. 30, 2005, 119 Stat. 2949, 2952; Pub. L. 110–453, title II, §207(b), Dec. 2, 2008, 122 Stat. 5030.)
+(Pub. L. 97–459, title II, §205, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, §1(2), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 106–462, title I, §103(2), Nov. 7, 2000, 114 Stat. 1993; Pub. L. 108–374, §§4, 6(a)(1), Oct. 27, 2004, 118 Stat. 1787, 1797; Pub. L. 109–157, §§2, 8(a)(1), Dec. 30, 2005, 119 Stat. 2949, 2952; Pub. L. 110–453, title II, §207(b), Dec. 2, 2008, 122 Stat. 5030.)
 
 #### References in Text
 

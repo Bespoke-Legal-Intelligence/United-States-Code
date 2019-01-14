@@ -68,6 +68,100 @@ The purposes of this chapter are as follows:
 
 Pub. L. 106–464, §1, Nov. 7, 2000, 114 Stat. 2012, provided that: "This Act \[enacting this chapter\] may be cited as the 'Native American Business Development, Trade Promotion, and Tourism Act of 2000'."
 
+#### Tribal Promise Zones
+
+Pub. L. 115–334, title XII, §12510, Dec. 20, 2018, 132 Stat. 4990, provided that:
+
+"(a)
+
+In General.—In this section, the term 'Tribal Promise Zone' means an area that—
+
+&emsp;"(1) is nominated by 1 or more Indian tribes (as defined in section 4(13) of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(13))) for designation as a Tribal Promise Zone (in this section referred to as a 'nominated zone');
+
+&emsp;"(2) has a continuous boundary; and
+
+&emsp;"(3) the Secretary \[of Agriculture\] designates as a Tribal Promise Zone, after consultation with the Secretary of Commerce, the Secretary of Education, the Attorney General, the Secretary of the Interior, the Secretary of Housing and Urban Development, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of the Treasury, the Secretary of Transportation, and other agencies as appropriate.
+
+"(b)
+
+Authorization and Number of Designations.—Not later than 1 year after the date of enactment of this Act \[Dec. 20, 2018\], the Secretary shall nominate a minimum number of nominated zones, as determined by the Secretary in consultation with Indian tribes, to be designated as Tribal Promise Zones.
+
+"(c)
+
+Period of Designations.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall designate nominated zones as Tribal Promise Zones before January 1, 2020.
+
+&emsp;"(2)
+
+Effective dates of designations.—The designation of any Tribal Promise Zone shall take effect—
+
+&emsp;&emsp;"(A) for purposes of priority consideration in Federal grant programs and initiatives (other than this section), upon execution of the Tribal Promise Zone agreement with the Secretary; and
+
+&emsp;&emsp;"(B) for purposes of this section, on January 1 of the first calendar year beginning after the date of the execution of the Tribal Promise Zone agreement.
+
+&emsp;"(3)
+
+Termination of designations.—The designation of any Tribal Promise Zone shall end on the earlier of—
+
+&emsp;&emsp;"(A)(i) with respect to a Tribal Promise Zone not described in paragraph (4), the end of the 10-year period beginning on the date that such designation takes effect; or
+
+&emsp;&emsp;"(ii) with respect to a Tribal Promise Zone described in paragraph (4), the end of the 10-year period beginning on the date the area was designated as a Tribal Promise Zone before the date of the enactment of this Act; or
+
+&emsp;&emsp;"(B) the date of the revocation of such designation.
+
+&emsp;"(4)
+
+Application to certain zones already designated.—In the case of any area designated as a Tribal Promise Zone by the Secretary before the date of the enactment of this Act, such area shall be deemed a Tribal Promise Zone designated under this section (notwithstanding whether any such designation has been revoked before the date of the enactment of this Act) and shall reduce the number of Tribal Promise Zones remaining to be designated under paragraph (1).
+
+"(d)
+
+Limitations on Designations.—No area may be designated under this section unless—
+
+&emsp;"(1) the entities nominating the area have the authority to nominate the area of designation under this section;
+
+&emsp;"(2) such entities provide written assurances satisfactory to the Secretary that the competitiveness plan described in the application under subsection (e) for such area will be implemented and that such entities will provide the Secretary with such data regarding the economic conditions of the area (before, during, and after the area's period of designation as a Tribal Promise Zone) as the Secretary may require; and
+
+&emsp;"(3) the Secretary determines that any information furnished is reasonably accurate.
+
+"(e)
+
+Application.—No area may be designated under this section unless the application for such designation—
+
+&emsp;"(1) demonstrates that the nominated zone satisfies the eligibility criteria described in subsection (a); and
+
+&emsp;"(2) includes a competitiveness plan that—
+
+&emsp;&emsp;"(A) addresses the need of the nominated zone to attract investment and jobs and improve educational opportunities;
+
+&emsp;&emsp;"(B) leverages the nominated zone's economic strengths and outlines targeted investments to develop competitive advantages;
+
+&emsp;&emsp;"(C) demonstrates collaboration across a wide range of stakeholders;
+
+&emsp;&emsp;"(D) outlines a strategy that connects the nominated zone to drivers of regional economic growth; and
+
+&emsp;&emsp;"(E) proposes a strategy for focusing on increased access to high quality affordable housing and improved public safety.
+
+"(f)
+
+Selection Criteria.—
+
+&emsp;"(1)
+
+In general.—From among the nominated zones eligible for designation under this section, the Secretary shall designate Tribal Promise Zones on the basis of—
+
+&emsp;&emsp;"(A) the effectiveness of the competitiveness plan submitted under subsection (e) and the assurances made under subsection (d);
+
+&emsp;&emsp;"(B) unemployment rates, poverty rates, vacancy rates, crime rates, and such other factors as the Secretary may identify, including household income, labor force participation, and educational attainment; and
+
+&emsp;&emsp;"(C) other criteria as determined by the Secretary.
+
+&emsp;"(2)
+
+Minimal standards.—The Secretary may set minimal standards for the levels of unemployment and poverty that must be satisfied for designation as a Tribal Promise Zone."
+
 #### General Accounting Office Study
 
 Pub. L. 106–568, title IV, §421, Dec. 27, 2000, 114 Stat. 2906, directed the Comptroller General to conduct a study and make findings and recommendations with respect to Federal programs designed to assist Indian tribes and tribal members with economic development, job creation, entrepreneurship, and business development, and to report to Congress not later than 1 year after Dec. 27, 2000.

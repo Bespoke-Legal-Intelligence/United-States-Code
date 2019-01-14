@@ -42,7 +42,7 @@ The master, person in charge of a vehicle, or aircraft pilot shall present, or t
 
 #### (e) Prohibition on departures and discharge
 
-Unless otherwise authorized by law, a vessel, aircraft or vehicle after arriving in the UnitedStates or Virgin Islands may, but only in accordance with regulations prescribed by the Secretary—
+Unless otherwise authorized by law, a vessel, aircraft or vehicle after arriving in the United States or Virgin Islands may, but only in accordance with regulations prescribed by the Secretary—
 
 &emsp;(1) depart from the port, place, or airport of arrival; or
 

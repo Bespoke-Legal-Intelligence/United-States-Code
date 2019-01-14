@@ -70,7 +70,7 @@ Subjects to be studied.—The Task Force shall study and make recommendations on
 
 &emsp;"(4)
 
-Final report.—As soon as practicable, but not later than 14 months, after the date of enactment of this Act \[Apr. 4, 1996\], the Task Force shall provide the final report of the Task Force to—
+Final report.—As soon as practicable, but not later than 14 months, after the date of enactment ofthis Act \[Apr. 4, 1996\], the Task Force shall provide the final report of the Task Force to—
 
 &emsp;&emsp;"(A) the Secretary of Agriculture;
 

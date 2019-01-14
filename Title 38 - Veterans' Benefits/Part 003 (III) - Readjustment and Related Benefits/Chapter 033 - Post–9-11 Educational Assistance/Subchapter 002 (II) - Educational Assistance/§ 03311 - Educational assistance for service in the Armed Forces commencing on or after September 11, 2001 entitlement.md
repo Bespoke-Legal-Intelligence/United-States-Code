@@ -76,7 +76,7 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;(8) An individual who—
 
-&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 90 days, but less than 6 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
+&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 90 days,but less than 6 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
 
 &emsp;&emsp;(B) after completion of service described in subparagraph (A)—
 
@@ -85,6 +85,8 @@ Covered Individuals.—An individual described in this subsection is any individ
 &emsp;&emsp;&emsp;(ii) before completion of service on active duty of an aggregate of 6 months, is discharged or released from active duty as described in subsection (c).
 
 &emsp;(9) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on active duty as a member of the Armed Forces.
+
+&emsp;(10) An individual who is awarded the Purple Heart for service in the Armed Forces occurring on or after September 11, 2001, and continues to serve on active duty in the Armed Forces or is discharged or released from active duty as described in subsection (c).
 
 (c)
 
@@ -110,7 +112,7 @@ Prohibition on Treatment of Certain Service as Period of Active Duty.—The foll
 
 &emsp;(1) A period of service on active duty of an officer pursuant to an agreement under section 2107(b) of title 10.
 
-&emsp;(2) A period of service on active duty of an officer pursuant to an agreement under section 4348, 6959, or 9348 of title 10 or section 182 of title 14.
+&emsp;(2) A period of service on active duty of an officer pursuant to an agreement under section 7448, 8459, or 9448 of title 10 or section 182 <sup>1</sup> of title 14.
 
 &emsp;(3) A period of service that is terminated because of a defective enlistment and induction based on—
 
@@ -142,7 +144,7 @@ Limitation.—The entitlement of an individual to assistance under subsection (a
 
 &emsp;(3)
 
-Election on receipt of certain benefits.—Except as provided in paragraph (4), asurviving spouse entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
+Election on receipt of certain benefits.—Except as provided in paragraph (4), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
 
 &emsp;(4)
 
@@ -164,13 +166,9 @@ Eligible surviving spouse.—A spouse described in this subparagraph is an indiv
 
 Definition of child.—For purposes of paragraph (9) of subsection (b), the term "child" includes a married individual or an individual who is above the age of twenty-three years.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795; Pub. L. 114–315, title IV, §401(b), (c), Dec. 16, 2016, 130 Stat. 1553; Pub. L. 115–48, title I, §§102(a), 105(a), (c)(1), Aug. 16, 2017, 131 Stat. 975.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32,title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795; Pub. L. 114–315, title IV, §401(b), (c), Dec. 16, 2016, 130 Stat. 1553; Pub. L. 115–48, title I, §§102(a), 105(a), (c)(1), Aug. 16, 2017, 131 Stat. 975; Pub. L. 115–232, div. A, title VIII, §809(n)(3), Aug. 13, 2018, 132 Stat. 1844.)
 
 #### Amendment of Section
-
-<i>Pub. L. 115–48, title I, §102(a), (c), Aug. 16, 2017, 131 Stat. 975, provided that, effective Aug. 1, 2018, subsection (b) of this section is amended by adding at the end the following new paragraph:</i>
-
-&emsp;<i>"(10) An individual who is awarded the Purple Heart for service in the Armed Forces occurring on or after September 11, 2001, and continues to serve on active duty in the Armed Forces or is discharged or released from active duty as described in subsection (c)."</i>
 
 <i>Pub. L. 115–48, title I, §105(a), (c)(1), (d), Aug. 16, 2017, 131 Stat. 975, 977, provided that, effective Aug. 1, 2020, this section is amended—</i>
 
@@ -188,9 +186,13 @@ Definition of child.—For purposes of paragraph (9) of subsection (b), the term
 
 #### References in Text
 
+Section 182 of title 14, referred to in subsec. (d)(2), was repealed by Pub. L. 115–282, title I, §110(c)(2), Dec. 4, 2018, 132 Stat. 4215.
+
 The date of the enactment of this paragraph, referred to in subsec. (f)(4)(A), is the date of enactment of Pub. L. 114–315, which was approved Dec. 16, 2016.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(2). Pub. L. 115–232 substituted "section 7448, 8459, or 9448 of title 10" for "section 4348, 6959, or 9348 of title 10".
 
 <b>2017</b>—Subsec. (b)(6)(A). Pub. L. 115–48, §105(a)(1), substituted "6 months" for "12 months".
 
@@ -233,6 +235,10 @@ Subsec. (f). Pub. L. 111–32, §1002(a)(2), added subsec. (f).
 Pub. L. 115–48, title I, §102(c), Aug. 16, 2017, 131 Stat. 975, provided that: "The amendments made by this section \[amending this section and section 3313 of this title\] shall take effect on August 1, 2018."
 
 Pub. L. 115–48, title I, §105(d), Aug. 16, 2017, 131 Stat. 977, provided that: "The amendments made by this section \[amending this section and sections 3313, 3316, 3317, 3321, 3322, and 3679 of this title\] shall take effect on August 1, 2020."
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
 
 #### Effective Date of 2014 Amendment
 
@@ -277,4 +283,6 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 #### Construction of Covered Individuals
 
 Pub. L. 115–48, title I, §106(c), Aug. 16, 2017, 131 Stat. 977, provided that: "Section 3311(b)(6) of title 38, United States Code, shall be construed to include an individual who, before November 25, 2015, established eligibility for educational assistance under chapter 1607 of title 10, United States Code, pursuant to section 16163(b) of such title, but lost such eligibility pursuant to section 16167(b) of such title."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

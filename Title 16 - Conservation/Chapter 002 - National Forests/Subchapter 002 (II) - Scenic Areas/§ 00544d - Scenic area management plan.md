@@ -88,13 +88,13 @@ The management plan and all land use ordinances and interim guidelines adopted p
 
 #### (e) Agency consultation and public involvement
 
-The Secretary and the Commission shall exercise their responsibilities pursuant to sections 544 to 544p of this title in consultation with Federal, State, and local governments having jurisdiction within the scenic area or expertise pertaining to its administration and with Indian tribes. The Secretary and the Commission shall conduct public hearings and solicit public comment prior to final adoption of the management plan and the Commission shall conduct public hearings and solicit public comment prior to final adoption of land use ordinances. The Commission and the appropriate county shall promptly notify the Secretary, the States, local governments and Indian tribes of all proposed major development actions and residential development in the scenic area.
+The Secretary and the Commission shall exercise their responsibilities pursuant to sections544 to 544p of this title in consultation with Federal, State, and local governments having jurisdiction within the scenic area or expertise pertaining to its administration and with Indian tribes. The Secretary and the Commission shall conduct public hearings and solicit public comment prior to final adoption of the management plan and the Commission shall conduct public hearings and solicit public comment prior to final adoption of land use ordinances. The Commission and the appropriate county shall promptly notify the Secretary, the States, local governments and Indian tribes of all proposed major development actions and residential development in the scenic area.
 
 #### (f) Concurrence of management plan
 
 #### (1) Review by Secretary
 
-&emsp;Upon adoption of the management plan, the Commission shall promptly submit the plan tothe Secretary for review. If the Secretary agrees with the Commission that the management plan is consistent with the standards established in this section and the purposes of sections 544 to 544p of this title, the Secretary shall concur to that effect. Should the Secretary fail to act on the proposed plan within ninety days, the Secretary shall be deemed to have concurred on the management plan.
+&emsp;Upon adoption of the management plan, the Commission shall promptly submit the plan to the Secretary for review. If the Secretary agrees with the Commission that the management plan is consistent with the standards established in this section and the purposes of sections 544 to 544p of this title, the Secretary shall concur to that effect. Should the Secretary fail to act on the proposed plan within ninety days, the Secretary shall be deemed to have concurred on the management plan.
 
 #### (2) Denial of concurrence
 

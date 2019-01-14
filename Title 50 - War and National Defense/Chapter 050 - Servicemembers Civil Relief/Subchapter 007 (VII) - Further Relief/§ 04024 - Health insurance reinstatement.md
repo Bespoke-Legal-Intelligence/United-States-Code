@@ -30,7 +30,7 @@ An application under this section must be filed not later than 120 days after th
 
 #### (1) Premium protection
 
-&emsp;The amount of the premium for health insurance coverage that was terminated by a servicemember and required to be reinstated under subsection (a) may not be increased, for the balance of the period for which coverage would have been continued had the coverage not been terminated, to an amount greater than the amount chargeable for such coverage before the termination.
+&emsp;The amount of the premium for health insurance coverage that was terminated by aservicemember and required to be reinstated under subsection (a) may not be increased, for the balance of the period for which coverage would have been continued had the coverage not been terminated, to an amount greater than the amount chargeable for such coverage before the termination.
 
 #### (2) Increases of general applicability not precluded
 
@@ -51,4 +51,8 @@ A prior section 704 of act Oct. 17, 1940, ch. 888, art. VII, as added Pub. L. 10
 <b>2006</b>—Subsec. (b)(3). Pub. L. 109–233, §302(b), substituted "in a case in which the" for "if the".
 
 Subsec. (e). Pub. L. 109–233, §302(a), added subsec. (e).
+
+#### Effective Date
+
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under section 3901 of this title.
 

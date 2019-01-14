@@ -12,7 +12,7 @@ Notification To Be Prompt.—(1) Subject to paragraph (2), the Secretary shall s
 
 (c)
 
-Consultation Between Secretary and Head of Executive Agency.—Upon notification with respect to an administrative action or proposed administrative action under subsection (a), the head of the Executive agency concerned shall—
+Consultation Between Secretary and Head of Executive Agency.—Upon notification with respect to an administrative action or proposed administrative action under subsection\(a), the head of the Executive agency concerned shall—
 
 &emsp;(1) respond promptly to the Secretary; and
 

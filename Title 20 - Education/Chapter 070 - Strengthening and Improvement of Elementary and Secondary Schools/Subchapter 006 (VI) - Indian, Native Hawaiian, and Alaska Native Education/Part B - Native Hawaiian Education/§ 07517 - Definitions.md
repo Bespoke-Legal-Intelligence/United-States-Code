@@ -60,7 +60,7 @@ In this part:
 
 &emsp;The term "Office of Hawaiian Affairs" means the Office of Hawaiian Affairs established by the Constitution of the State of Hawaii.
 
-(Pub. L. 89–10, title VI, §6207, formerly title VII, §7207, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1941; renumbered title VI, §6207, and amended Pub. L. 114–95, title VI,§§6001(a), (b)(1), 6003(d), Dec. 10, 2015, 129 Stat. 2046, 2067.)
+(Pub. L. 89–10, title VI, §6207, formerly title VII, §7207, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1941; renumbered title VI, §6207, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6003(d), Dec. 10, 2015, 129 Stat. 2046, 2067.)
 
 #### Amendments
 

@@ -24,7 +24,7 @@ Service as a Cadet or Midshipman Defined.—In this section, the term "service a
 
 &emsp;(2) service as a midshipman at the United States Naval Academy.
 
-(Added Pub. L. 85–861, §1(20), Sept. 2, 1958, 72 Stat. 1442; amended Pub. L. 90–235, §6(a) (1), Jan. 2, 1968, 81 Stat. 761; Pub. L. 98–557, §17(a), Oct. 30, 1984, 98 Stat. 2867; Pub. L. 101–189, div. A, title VI, §652(a)(1)(A), (2), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 104–201, div. A, title V, §581, Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title X, §1073(a)(13), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 109–163, div. A, title V, §515(b)(1)(D), (2), Jan. 6, 2006, 119 Stat. 3233, 3234.)
+(Added Pub. L. 85–861, §1(20), Sept. 2, 1958, 72 Stat. 1442; amended Pub. L. 90–235, §6(a) (1), Jan.2, 1968, 81 Stat. 761; Pub. L. 98–557, §17(a), Oct. 30, 1984, 98 Stat. 2867; Pub. L. 101–189, div. A, title VI, §652(a)(1)(A), (2), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 104–201, div. A, title V, §581, Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title X, §1073(a)(13), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 109–163, div. A, title V, §515(b)(1)(D), (2), Jan. 6, 2006, 119 Stat. 3233, 3234.)
 
 Historical and Revision Notes
 
@@ -76,7 +76,7 @@ Subsec. (b)(2). Pub. L. 101–189, §652(a)(2)(B), struck out ", if he was appo
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Application of Subsection (a) to Service Under Appointment Accepted Before June 26, 1956
 

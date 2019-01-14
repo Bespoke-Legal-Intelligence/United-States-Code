@@ -10,7 +10,7 @@ The Secretary shall provide for the conduct of a study of facilities available f
 
 #### (b) Renovation program
 
-The Secretary, in consultation with the Bureau of Indian Affairs, shall initiate a program to conduct necessary renovations, alterations,repairs, and reconstruction identified pursuant to subsection (a) of this section.
+The Secretary, in consultation with the Bureau of Indian Affairs, shall initiate a program to conduct necessary renovations, alterations, repairs, and reconstruction identified pursuant to subsection (a) of this section.
 
 #### (c) Determination and prioritization of construction and renovation needs
 
@@ -32,7 +32,7 @@ For the purposes of this section, the term "reconstruction" has the meaning prov
 
 #### References in Text
 
-The Act of August 6, 1956 (70 Stat. 1057; 25 U.S.C. 443a), referred to in subsec. (a)(2), is act Aug. 6, 1956, ch. 979, 70 Stat. 1057, which was formerly classified to section 443a of this title prior to editorial reclassification as a note under section 1457 of Title 43, Public Lands.
+The Act of August 6, 1956 (70 Stat. 1057; 25 U.S.C. 443a), referred to in subsec. (a)(2), is act Aug. 6, 1956, ch.979, 70 Stat. 1057, which was formerly classified to section 443a of this title prior to editorial reclassification as a note under section 1457 of Title 43, Public Lands.
 
 The Navajo Community College Act, referred to in subsec. (c)(1), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which was classified to section 640a et seq. of this title and was omitted from the Code as being of special and not general application.
 

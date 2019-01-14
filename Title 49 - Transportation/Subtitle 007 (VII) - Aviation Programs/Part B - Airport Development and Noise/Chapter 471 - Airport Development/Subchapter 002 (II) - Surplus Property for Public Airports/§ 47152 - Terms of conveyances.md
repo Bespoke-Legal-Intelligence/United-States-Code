@@ -12,7 +12,7 @@ Except as provided in section 47153 of this title, the following terms apply to 
 
 &emsp;&emsp;(B) to engage in selling or supplying aircraft, aircraft accessories, equipment, or supplies (except gasoline and oil), or aircraft services necessary to operate aircraft (including maintaining and repairing aircraft, aircraft engines, propellers, and appliances).
 
-&emsp;(4) The State, political subdivision, or tax-supported organization accepting the interest shall clear and protect the aerial approaches to the airport by mitigating existing, and preventing future, airport hazards.
+&emsp;(4) The State, political subdivision, or tax-supported organization accepting the interestshall clear and protect the aerial approaches to the airport by mitigating existing, and preventing future, airport hazards.
 
 &emsp;(5) During a national emergency declared by the President or Congress, the United States Government is entitled to use, control, or possess, without charge, any part of the public airport at which the property is located. However, the Government shall—
 

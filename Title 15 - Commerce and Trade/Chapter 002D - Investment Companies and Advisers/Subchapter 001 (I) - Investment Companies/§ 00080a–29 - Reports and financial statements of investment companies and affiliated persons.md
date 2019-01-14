@@ -16,7 +16,7 @@ Every registered investment company shall file with the Commission—
 
 #### (c) Minimizing reporting burdens
 
-(1) The Commission shall take such action as it deems necessary or appropriate, consistent with the public interest and the protection of investors, to avoid unnecessary reporting by, andminimize the compliance burdens on, registered investment companies and their affiliated persons in exercising its authority—
+(1) The Commission shall take such action as it deems necessary or appropriate, consistent with the public interest and the protection of investors, to avoid unnecessary reporting by, and minimize the compliance burdens on, registered investment companies and their affiliated persons in exercising its authority—
 
 &emsp;(A) under subsection (f); and
 
@@ -44,7 +44,7 @@ Every registered investment company shall transmit to its stockholders, at least
 
 &emsp;(4) a statement of surplus, which shall be itemized at least with respect to each charge or credit to the surplus account which represents more than 5 per centum of the total charges or credits during the period covered by the report;
 
-&emsp;(5) a statement of the aggregate remuneration paid by the company during the period covered by the report (A) to all directors and to all members of any advisory board for regular compensation; (B) to each director and to each member of an advisory board for special compensation; (C) to all officers; and (D) to each person of whom any officer or director of the company is an affiliated person; and
+&emsp;(5) a statement of the aggregate remuneration paid by the company during the period covered by the report (A) to all directors and to all members of any advisory board for regular compensation; (B) to each director and to each member of an advisory board for special compensation; (C) to all officers; and (D) toeach person of whom any officer or director of the company is an affiliated person; and
 
 &emsp;(6) a statement of the aggregate dollar amounts of purchases and sales of investment securities, other than Government securities, made during the period covered by the report:
 

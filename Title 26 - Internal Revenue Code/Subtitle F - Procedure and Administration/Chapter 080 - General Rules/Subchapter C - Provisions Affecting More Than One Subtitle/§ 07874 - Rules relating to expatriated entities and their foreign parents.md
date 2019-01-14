@@ -36,7 +36,7 @@
 
 #### (3) Coordination with subsection (b)
 
-&emsp;A corporation which is treated as a domestic corporation under subsection (b) shall not be treated as a surrogate foreign corporation for purposes of paragraph (2)(A).
+&emsp;A corporation which is treated as a domestic corporation under subsection (b) shall not betreated as a surrogate foreign corporation for purposes of paragraph (2)(A).
 
 #### (b) Inverted corporations treated as domestic corporations
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) gain recognized for the taxable year by the partner by reason of the transfer during the applicable period of any partnership interest of the partner in such partnership to the surrogate foreign corporation, and
 
-&emsp;&emsp;(C) the highest rate of tax specified in the rate schedule applicable to the partnerunder this chapter shall be substituted for the rate of tax referred to in paragraph (1).
+&emsp;&emsp;(C) the highest rate of tax specified in the rate schedule applicable to the partner under this chapter shall be substituted for the rate of tax referred to in paragraph (1).
 
 #### (3) Coordination with section 172 and minimum tax
 

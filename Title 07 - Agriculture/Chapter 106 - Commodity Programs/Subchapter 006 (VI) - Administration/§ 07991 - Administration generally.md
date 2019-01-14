@@ -58,7 +58,7 @@ The Federal Agriculture Improvement and Reform Act of 1996, referred to in subse
 
 Subchapter III, referred to in subsec. (d)(1), was in the original "subtitle C", meaning subtitle C (§§1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
-The Food, Conservation, and Energy Act of 2008, referred to in subsec. (d)(3), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
+The Food, Conservation, and Energy Act of 2008, referred to in subsec. (d)(3), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§8701 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 8701 of this title and Tables.
 
 Subchapter V, referred to in subsec. (e)(1), was in the original "subtitle E", meaning subtitle E (§§1501–1508) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 205, which enacted subchapter V of this chapter and amended sections 1637a, 4501–4504, 4507, 4553, 6402, and 6414 of this title and section 713a–4 of Title 15, Commerce and Trade. For complete classification of subtitle E to the Code, see Tables.
 
@@ -72,7 +72,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "known".</i>
 

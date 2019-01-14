@@ -14,7 +14,7 @@ Notwithstanding the provisions of subsection (a), funds are hereby authorized to
 
 #### (d) Substituted construction projects
 
-Funds authorized to be appropriated for any construction project to be used in connection with the development or production of special nuclear material or atomic weapons may be used to start another construction project not otherwise authorized if the substituted construction project is within the limit of cost of the construction project for which substitution is to be made, and the Commission certifies that—
+Funds authorized to be appropriated for any construction project to be used in connection with the development or production of special nuclear material or atomic weapons may be used to start another construction project not otherwise authorized if the substituted construction project is within the limit of cost ofthe construction project for which substitution is to be made, and the Commission certifies that—
 
 &emsp;(1) the substituted project is essential to the common defense and security;
 

@@ -20,3 +20,7 @@ On a semiannual basis the Attorney General shall fully inform the Permanent Sele
 
 Par. (4). Pub. L. 109–177, §109(a)(3)–(5), added par. (4).
 
+#### Effective Date
+
+Section effective 90 days after Oct. 14, 1994, with exception for certain physical searches approved by the Attorney General to gather foreign intelligence information, see section 807(c) of Pub. L. 103–359, set out as a note under section 1821 of this title.
+

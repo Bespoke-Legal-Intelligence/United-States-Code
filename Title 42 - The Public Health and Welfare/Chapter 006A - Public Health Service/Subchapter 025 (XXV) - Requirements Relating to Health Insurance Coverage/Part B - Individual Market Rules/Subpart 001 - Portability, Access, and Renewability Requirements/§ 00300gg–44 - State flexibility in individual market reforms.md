@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The requirements of section 300gg–41 of this title shall not apply with respect to health insurance coverage offered in the individual market in the State so long as a State is found to be implementing, in accordance with this section and consistent with section 300gg–62(b) of this title, an alternative mechanism (in this section referred to as an "acceptable alternative mechanism")—
+&emsp;The requirements of section 300gg–41 of this title shall not apply with respect to health insurance coverage offered in the individual market in the State so long as a State is foundto be implementing, in accordance with this section and consistent with section 300gg–62(b) of this title, an alternative mechanism (in this section referred to as an "acceptable alternative mechanism")—
 
 &emsp;&emsp;(A) under which all eligible individuals are provided a choice of health insurance coverage;
 
@@ -72,7 +72,7 @@
 
 #### (4) Limitation on secretarial authority
 
-&emsp;The Secretary shall not make a determination under paragraph (2) or (3) on any basis other than the basis that a mechanism is not an acceptable alternative mechanism or is not being implemented.
+&emsp;The Secretary shall not make a determination under paragraph (2) or (3) on any basisother than the basis that a mechanism is not an acceptable alternative mechanism or is not being implemented.
 
 #### (5) Future adoption of mechanisms
 

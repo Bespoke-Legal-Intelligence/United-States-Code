@@ -24,7 +24,7 @@ The Secretary shall provide from the funds appropriated under subsection (d)(1)(
 
 &emsp;&emsp;(A) An amount equal to 40 percent of such appropriated amount for the fiscal year shall be allotted in equal amounts to each qualifying State that is one of the 50 States or the District of Columbia and that applies for a grant under this subsection.
 
-&emsp;&emsp;(B) An amount equal to 30 percent of such appropriated amount for the fiscal year shall be allotted among qualifying States that apply for such a grant so that the amount allotted to such a State bears the same ratio to such appropriated amount as the number of uninsured individuals in the State bears to the total number of uninsured individuals (as determined by the Secretary) in all qualifying States that so apply.
+&emsp;&emsp;(B) An amount equal to 30 percent of such appropriated amount for the fiscal year shall be allotted among qualifying States that apply for such a grant so that the amount allotted to such a State bears the same ratio to such appropriated amount as the number of uninsured individuals in the State bears to the total number of uninsured individuals\(as determined by the Secretary) in all qualifying States that so apply.
 
 &emsp;&emsp;(C) An amount equal to 30 percent of such appropriated amount for the fiscal year shall be allotted among qualifying States that apply for such a grant so that the amount allotted to a State bears the same ratio to such appropriated amount as the number of individuals enrolled in health care coverage through the qualified high risk pool of the State bears to the total number of individuals so enrolled through qualified high risk pools (as determined by the Secretary) in all qualifying States that so apply.
 
@@ -60,7 +60,7 @@ The Secretary shall provide from the funds appropriated under subsection (d)(1)(
 
 #### (3) Allotment; limitation
 
-&emsp;The Secretary shall allot funds appropriated under paragraphs (1)(B)(ii) and (2)(B) of subsection (d) among States qualifying for agrant under paragraph (1) in a manner specified by the Secretary, but in no case shall the amount so allotted to a State for a fiscal year exceed 10 percent of the funds so appropriated for the fiscal year.
+&emsp;The Secretary shall allot funds appropriated under paragraphs (1)(B)(ii) and (2)(B) of subsection (d) among States qualifying for a grant under paragraph (1) in a manner specified by the Secretary, but in no case shall the amount so allotted to a State for a fiscal year exceed 10 percent of the funds so appropriated for the fiscal year.
 
 #### (4) Rule of construction
 

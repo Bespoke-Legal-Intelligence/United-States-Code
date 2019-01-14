@@ -135,7 +135,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Disposition Table<br>(Showing disposition of sections of former chapter 17 of Title 7)
+Disposition Table<br>(Showing disposition of sections of former chapter 17 of Title 7)
 
 <i>Former Classification</i>
 
@@ -621,7 +621,7 @@ omitted
 
 7:4551 note
 
-7:450j note (Pub. L. 89–253, §24, Oct. 29, 1965, 79 Stat. 977)
+7:450j note (Pub. L. 89–253, §24, Oct. 9, 1965, 79 Stat. 977)
 
 7:4551 note
 
@@ -645,7 +645,7 @@ omitted
 
 7:4552 note
 
-7:450k note (Pub. L. 89–253, §24, Oct. 29, 1965, 79 Stat. 977)
+7:450k note (Pub. L. 89–253, §24, Oct. 9, 1965, 79 Stat. 977)
 
 7:4552 note
 
@@ -669,7 +669,7 @@ omitted
 
 7:4553 note
 
-7:450<i>l</i> note (Pub. L. 89–253, §24, Oct. 29, 1965, 79 Stat. 977)
+7:450<i>l</i> note (Pub. L. 89–253, §24, Oct. 9, 1965, 79 Stat. 977)
 
 7:4553 note
 

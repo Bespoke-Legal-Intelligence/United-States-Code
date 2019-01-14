@@ -1,14 +1,14 @@
 ### <b>CHAPTER 11—RESERVE COMPONENTS</b>
 
-| Sec. |
-| :--- |
-| 261\.<sup>1</sup> |
+| Sec. |  |
+| :--- | ---: |
+| [241\.](%C2%A7%2000241%20-%20Reference%20to%20chapters%201003%2C%201005%2C%20and%201007.md) | Reference to chapters 1003, 1005, and 1007. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Reference to chapters 1003, 1005, and 1007.
-
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(a)(4), Aug. 13, 2018, 132 Stat. 1983, which directed amendment of the analysis of chapter 4 of this title by renumbering item 261 as 241, was executed by making the amendment in this analysis to reflect the probable intent of Congress.
 
 <b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1661(a)(2)(B), Oct. 5, 1994, 108 Stat. 2979, added item 261 and struck out former items 261 to 281.
 
@@ -23,8 +23,6 @@ Reference to chapters 1003, 1005, and 1007.
 <b>1960</b>—Pub. L. 86–559, §1(2)(D), June 30, 1960, 74 Stat. 264, added item 281.
 
 <b>1958</b>—Pub. L. 85–861, §1(6), Sept. 2, 1958, 72 Stat. 1439, added items 270, 271, 272 and 279.
-
-<i><sup>1</sup></i><i> So in original. Probably should be section "241". Section renumbered by Pub. L. 114–328 without corresponding amendment of chapter analysis.</i>
 
 
 ---

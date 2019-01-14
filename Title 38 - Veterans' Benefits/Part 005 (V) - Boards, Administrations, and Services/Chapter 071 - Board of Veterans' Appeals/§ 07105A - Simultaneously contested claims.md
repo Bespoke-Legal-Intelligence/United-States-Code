@@ -6,7 +6,7 @@
 
 (2) Such notice shall be forwarded to the last known address of record of the parties concerned, and such action shall constitute sufficient evidence of notice.
 
-(Added Pub. L. 87–666, §1, Sept. 19, 1962, 76 Stat. 554, §4005A; renumbered §7105A and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 115–55, §2(r), Aug. 23, 2017, 131 Stat. 1112.)
+(Added Pub. L. 87–666, §1, Sept. 19, 1962, 76 Stat. 554, §4005A; renumbered §7105A and amendedPub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 115–55, §2(r), Aug. 23, 2017, 131 Stat. 1112.)
 
 #### Applicability of Amendment
 

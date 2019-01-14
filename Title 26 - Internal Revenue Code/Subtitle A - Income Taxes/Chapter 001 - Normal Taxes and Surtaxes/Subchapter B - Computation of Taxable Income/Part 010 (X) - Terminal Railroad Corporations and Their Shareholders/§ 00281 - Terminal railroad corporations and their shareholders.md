@@ -16,7 +16,7 @@
 
 #### (2) Limitation
 
-&emsp;In the case of any taxable year ending after the date of the enactment of this section,paragraph (1) shall not apply to the extent that it would (but for this paragraph) operate to create (or increase) a net operating loss for the terminal railroad corporation for the taxable year.
+&emsp;In the case of any taxable year ending after the date of the enactment of this section, paragraph (1) shall not apply to the extent that it would (but for this paragraph) operate to create (or increase) a net operating loss for the terminal railroad corporation for the taxable year.
 
 #### (b) Computation of taxable income of shareholders
 
@@ -40,7 +40,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) a substantial part of the services of which for the taxable year is rendered to one or more of its shareholders; and
 
-&emsp;&emsp;(D) each shareholder of which computes its taxable income on the basis of a taxable year beginning or ending on the same day that the taxable year of the terminal railroad corporation begins or ends.
+&emsp;&emsp;(D) each shareholder of which computes its taxable income on the basis of a taxableyear beginning or ending on the same day that the taxable year of the terminal railroad corporation begins or ends.
 
 #### (2) Related terminal income
 

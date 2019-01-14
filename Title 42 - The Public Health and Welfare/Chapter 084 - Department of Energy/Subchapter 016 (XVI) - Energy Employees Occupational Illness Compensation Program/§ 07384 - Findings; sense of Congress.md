@@ -96,7 +96,7 @@ Pub. L. 107–107, div. C, title XXXI, §3151(b), Dec. 28, 2001, 115 Stat. 1375,
 
 &emsp;"(i) the Committee on Armed Services, Committee on Appropriations, Committee on the Judiciary, and Committee on Health, Education, Labor, and Pensions of the Senate; and
 
-&emsp;"(ii) the Committee on Armed Services, Committee on Appropriations, Committee on the Judiciary, andCommittee on Education and the Workforce of the House of Representatives.
+&emsp;"(ii) the Committee on Armed Services, Committee on Appropriations, Committee on the Judiciary, and Committee on Education and the Workforce of the House of Representatives.
 
 "(3) Amounts for the study under paragraph (1) shall be derived from amounts authorized to be appropriated by section 3614(a) of the Energy Employees Occupational Illness Compensation Program Act of 2000 (114 Stat. 1654A–498) \[42 U.S.C. 7384g(a)\].
 
@@ -134,7 +134,7 @@ Sec. 2. <i>Designation of Responsibilities for Administering the Energy Employee
 
 (iii) No later than July 31, 2001, ensure the availability, in paper and electronic format, of forms necessary for making claims under the Program; and
 
-(iv) Develop informational materials, in coordination with the Secretary of Energy and the Secretary of Health and Human Services, to help potential claimants understand the Program and the application process, and provide these materials to individuals upon request and to the Secretary of Energy and the Attorney General for dissemination to potentially eligible individuals.
+(iv) Develop informational materials, in coordination with the Secretary of Energy and the Secretary of Health and Human Services, to help potential claimants understand the Program and the application process, and provide these materials to individuals upon request and to the Secretary of Energy and the AttorneyGeneral for dissemination to potentially eligible individuals.
 
 (b) <i>Secretary of Health and Human Services</i>. The Secretary of Health and Human Services shall:
 
@@ -202,7 +202,7 @@ Sec. 4. <i>Establishment of Advisory Board on Radiation and Worker Health.</i>
 
 (iii) Upon request by the Secretary of Health and Human Services, advise the Secretary on whether there is a class of employees at any Department of Energy facility who were exposed to radiation but for whom it is not feasible to estimate their radiation dose, and on whether there is a reasonable likelihood that such radiation dose may have endangered the health of members of the class.
 
-Sec. 5. <i>Reporting Requirements</i>. The Secretaries of Labor, Health and Human Services, and Energy shall, as part of their annual budget submissions, report to the Office of Management and Budget (OMB) on their activities under this Program, including total expenditures related to benefits and program administration. They shall also report to the OMB, no later than March 1, 2001, on the manner in which they will carry out their respective responsibilities under the Act and this order. This report shall include, among other things, a description of the administrative structure established within their agencies to implement the Act and this order. In addition, the Secretary of Labor shall annually report on the total number and types of claims for which compensation was considered and other data pertinent to evaluating the Federal Government's performance fulfilling the requirements of the Act and this order.
+Sec. 5. <i>Reporting Requirements</i>. The Secretaries of Labor, Health and Human Services, and Energy shall, as part of their annual budget submissions, report tothe Office of Management and Budget (OMB) on their activities under this Program, including total expenditures related to benefits and program administration. They shall also report to the OMB, no later than March 1, 2001, on the manner in which they will carry out their respective responsibilities under the Act and this order. This report shall include, among other things, a description of the administrative structure established within their agencies to implement the Act and this order. In addition, the Secretary of Labor shall annually report on the total number and types of claims for which compensation was considered and other data pertinent to evaluating the Federal Government's performance fulfilling the requirements of the Act and this order.
 
 Sec. 6. <i>Administration and Judicial Review</i>. (a) This Executive Order shall be carried out subject to the availability of appropriations, and to the extent permitted by law.
 

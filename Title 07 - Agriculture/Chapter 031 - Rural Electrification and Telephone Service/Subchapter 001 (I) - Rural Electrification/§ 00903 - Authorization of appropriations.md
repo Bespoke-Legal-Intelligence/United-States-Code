@@ -40,7 +40,7 @@ Subsec. (b). Act Sept. 21, 1944, struck out subsec. (b) limiting amount of appro
 
 Subsec. (e). Act Sept. 21, 1944, struck out "and provided further, that no loans shall be made by the Reconstruction Finance Corporation to the Administrator after June 30, 1939", and changed colon to period after "territories".
 
-<b>1938</b>—Subsecs. (a), (e). Act June 21, 1938, inserted "and $100,000,000 for the fiscal year ending June 30, 1939" after "June 30, 1937," in subsec. (a), and substituted "June 30, 1939" for "June 30, 1937" in subsec. (e).
+<b>1938</b>—Subsecs. (a), (e). Act June 21, 1938, inserted "and $100,000,000 for the fiscal year ending June 30, 1939"after "June 30, 1937," in subsec. (a), and substituted "June 30, 1939" for "June 30, 1937" in subsec. (e).
 
 #### Effective Date of 1973 Amendment
 
@@ -48,13 +48,13 @@ Amendment by Pub. L. 93–32 effective May 11, 1973, see section 12 of Pub. L. 9
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–12 effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as an Effective Date note under section 921a of this title.
+Amendment by Pub. L. 92–12 effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as an Effective Date note under section 931 of this title.
 
 #### Restrictions on Borrower
 
 Act June 21, 1938, ch. 554, title IV, §401, 52 Stat. 818, as amended by Pub. L. 103–182, title III, §381(d), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–354, title II, §235(b)(3), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 103–465, title III, §342(g), Dec. 8, 1994, 108 Stat. 4954, in addition to amending subsecs. (a) and (e), provided in part as follows: "In making loans pursuant to this title \[title IV of such act\] and pursuant to the Rural Electrification Act of 1936 \[this chapter\], the Secretary of Agriculture shall require that, to the extent practicable and the cost of which is not unreasonable, the borrower agree to use in connection with the expenditure of such funds only such unmanufactured articles, materials, and supplies, as have been mined or produced in the United States or in any eligible country, and only such manufactured articles, materials, and supplies as have been manufactured in the United States or in any eligible country substantially all from articles, materials, or supplies mined, produced, or manufactured, as the case may be, in the United States or in any eligible country. For purposes of this section, an 'eligible country' is any country that applies with respect to the United States an agreement ensuring reciprocal access for United States products and services and United States suppliers to the markets of that country, as determined by the United States Trade Representative."
 
-\[Amendment by section 342(g) of Pub. L. 103–465 to section 401 of act June 21, 1938, set out above, effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 344(b) of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 2512 of Title 19, Customs Duties.\]
+\[Amendment by section 342(g) of Pub. L. 103–465 to section 401 of act June 21, 1938, set out above, effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 344(b) of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 2512 of Title 19, Customs Duties.\]
 
 \[Amendment by subsec. 381(d) of Pub. L. 103–182 to section 401 of act June 21, 1938, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 381(e) of Pub. L. 103–182, set out as an Effective Date of 1993 Amendment note under section 2511 of Title 19, Customs Duties.\]
 

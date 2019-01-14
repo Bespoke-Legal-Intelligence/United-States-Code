@@ -70,7 +70,7 @@ Subsec. (g). Pub. L. 108–173, §105(d)(2), inserted at end "The payments provi
 
 Pub. L. 108–173, §101(e)(3)(C)(ii), inserted at end "The payments provided for under part D, other than under section 1395w–141(k)(2) of this title, shall be made from the Medicare Prescription Drug Account in the Trust Fund."
 
-Subsec. (h). Pub. L. 108–173, §101(e)(3)(C)(iii), inserted "or pursuant to section 1395w–113(c)(1) or 1395w–24(d)(2)(A) of this title (in which case payments shall be made in appropriate part from the Medicare Prescription Drug Account in the Trust Fund)" after "section 1395s(d) of this title".
+Subsec. (h). Pub. L. 108–173, §101(e)(3)(C)(iii), inserted "or pursuant to section 1395w–113(c)(1) or1395w–24(d)(2)(A) of this title (in which case payments shall be made in appropriate part from the Medicare Prescription Drug Account in the Trust Fund)" after "section 1395s(d) of this title".
 
 Subsec. (i). Pub. L. 108–173, §101(e)(3)(C)(iv), inserted "and pursuant to sections 1395w–113(c)(1) and 1395w–24(d)(2)(A) of this title (in which case payments shall be made in appropriate part from the Medicare Prescription Drug Account in the Trust Fund)" after "section 1395u(g) of this title".
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 95–292 effective with respect to services, supplies, and 
 
 Amendment by section 132(e) of Pub. L. 92–603 applicable with respect to gifts and bequests received after Oct. 30, 1972, see section 132(f) of Pub. L. 92–603, set out as a note under section 401 of this title.
 
-Amendment by section 263(d)(4), (e) of Pub. L. 92–603 with respect to collection of premiums applicable to premiums becoming due and payable after the fourth month following the month of enactment of Pub. L. 92–603 which was approved on Oct. 30, 1972, see section 263(f) of Pub. L. 92–603, set out as a note under section 1395s of this title.
+Amendment by section 263(d)(4), (e) of Pub. L. 92–603 with respect to collection of premiums applicable topremiums becoming due and payable after the fourth month following the month of enactment of Pub. L. 92–603 which was approved on Oct. 30, 1972, see section 263(f) of Pub. L. 92–603, set out as a note under section 1395s of this title.
 
 #### Disposal of Funds in Federal Hospital Insurance Catastrophic Coverage Reserve Fund
 

@@ -1,6 +1,6 @@
 ### §520. Regulations as to mineral resources
 
-The Secretary of Agriculture is authorized, under general regulations to be prescribed by him, to permit the prospecting, development, and utilization of the mineral resources of the lands acquired under the Act of March first,nineteen hundred and eleven, known as the Weeks law, upon such terms and for specified periods or otherwise, as he may deem to be for the best interests of the United States; and all moneys received on account of charges, if any, made under this Act shall be disposed of as is provided by existing law for the disposition of receipts from national forests.
+The Secretary of Agriculture is authorized, under general regulations to be prescribed by him, to permit the prospecting, development, and utilization of the mineral resources of the lands acquired under the Act of March first, nineteen hundred and eleven, known as the Weeks law, upon such terms and for specified periods or otherwise, as he may deem to be for the best interests of the United States; and all moneys received on account of charges, if any, made under this Act shall be disposed of as is provided by existing law for the disposition of receipts from national forests.
 
 (Mar. 4, 1917, ch. 179, 39 Stat. 1150; 1946 Reorg. Plan No. 3, §402, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1099; Pub. L. 86–509, §1(l), June 11, 1960, 74 Stat. 205.)
 
@@ -10,7 +10,7 @@ The Act of March first, nineteen hundred and eleven, referred to in text, is act
 
 #### Transfer of Functions
 
-Functions of Secretary of Agriculture with respect to uses of mineral deposits under this section transferred to Secretary of the Interior by section 402 of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5, Government Organization and Employees, which provided that mineral development on such lands shall be authorized by Secretary of the Interior only when he is advised by Secretary of Agriculture that such development will not interfere with purposes for which land was acquired and only in accordance with such conditions as may be specified by Secretary of Agriculture in order to protect such purposes.
+Functions of Secretary of Agriculture with respect to uses of mineral deposits under this section transferredto Secretary of the Interior by section 402 of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5, Government Organization and Employees, which provided that mineral development on such lands shall be authorized by Secretary of the Interior only when he is advised by Secretary of Agriculture that such development will not interfere with purposes for which land was acquired and only in accordance with such conditions as may be specified by Secretary of Agriculture in order to protect such purposes.
 
 For provisions concerning crediting and distribution of revenues and access to title records, see text of Reorg. Plan No. 3 of 1946.
 

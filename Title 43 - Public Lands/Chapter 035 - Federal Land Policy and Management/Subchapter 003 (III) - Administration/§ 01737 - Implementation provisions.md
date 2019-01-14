@@ -2,7 +2,7 @@
 
 #### (a) Investigations, studies, and experiments
 
-The Secretary may conduct investigations, studies, and experiments, on his own initiative or in cooperation with others, involving the management, protection, development, acquisition, and conveying of the public lands.
+The Secretary may conduct investigations, studies, and experiments, on his own initiativeor in cooperation with others, involving the management, protection, development, acquisition, and conveying of the public lands.
 
 #### (b) Contracts and cooperative agreements
 

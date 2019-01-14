@@ -44,7 +44,7 @@
 
 <b>2006</b>—Subsec. (b)(9). Pub. L. 109–364 substituted "testing material" for "testing materiel".
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted "apply to the following:" for "apply to—" in introductory provisions, "The" for "the" at the beginning of each of pars.\(1) to (11), a period for the semicolon at the end of each of pars. (1) to (9), and a period for "; and" at the end of par. (10).
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted "apply to the following:" for "apply to—" in introductory provisions, "The" for "the" at the beginning of each of pars. (1) to (11), a period for the semicolon at the end of each of pars. (1) to (9), and a period for "; and" at the end of par. (10).
 
 <b>1997</b>—Pub. L. 105–85, §343(g)(2), substituted "Storage, treatment, and" for "Storage and" in section catchline.
 

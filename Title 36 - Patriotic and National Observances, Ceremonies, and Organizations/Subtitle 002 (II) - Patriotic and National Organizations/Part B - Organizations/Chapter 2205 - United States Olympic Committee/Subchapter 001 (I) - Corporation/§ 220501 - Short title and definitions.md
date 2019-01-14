@@ -14,17 +14,21 @@ Definitions.—For purposes of this chapter—
 
 &emsp;(3) "amateur sports organization" means a not-for-profit corporation, association, or other group organized in the United States that sponsors or arranges an amateur athletic competition.
 
-&emsp;(4) "corporation" means the United States Olympic Committee.
+&emsp;(4) "Center" means the United States Center for Safe Sport designated under section 220541.
 
-&emsp;(5) "international amateur athletic competition" means an amateur athletic competition between one or more athletes representing the United States, individually or as a team, and one or more athletes representing a foreign country.
+&emsp;(5) "child abuse" has the meaning given the term in section 212 of the Victims of Child Abuse Act of 1990 (34 U.S.C. 20302).
 
-&emsp;(6) "national governing body" means an amateur sports organization that is recognized by the corporation under section 220521 of this title.
+&emsp;(6) "corporation" means the United States Olympic Committee.
 
-&emsp;(7) "paralympic sports organization" means an amateur sports organization which is recognized by the corporation under section 220521 of this title.
+&emsp;(7) "international amateur athletic competition" means an amateur athletic competition between one or more athletes representing the United States, individually or as a team, and one or more athletes representing a foreign country.
 
-&emsp;(8) "sanction" means a certificate of approval issued by a national governing body.
+&emsp;(8) "national governing body" means an amateur sports organization that is recognized by the corporation under section 220521 of this title.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1466; Pub. L. 105–277, div. C, title I, §142(b)(2), (c), Oct. 21, 1998, 112 Stat. 2681–603; Pub. L. 109–284, §5(13), (14), Sept. 27, 2006, 120 Stat. 1212.)
+&emsp;(9) "paralympic sports organization" means an amateur sports organization which is recognized by the corporation under section 220521 of this title.
+
+&emsp;(10) "sanction" means a certificate of approval issued by a national governing body.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1466; Pub. L. 105–277, div. C, title I, §142(b)(2), (c), Oct. 21, 1998, 112 Stat. 2681–603; Pub. L. 109–284, §5(13), (14), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 115–126, title II, §202(b), Feb. 14, 2018, 132 Stat. 323.)
 
 Historical and Revision Notes
 
@@ -50,6 +54,8 @@ In clause (6), a reference to section 220522 (restating 36:391(b) and (c)) is un
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b)(4) to (10). Pub. L. 115–126 added pars. (4) and (5) and redesignated former pars. (4) to (8) as (6) to (10), respectively.
+
 <b>2006</b>—Pub. L. 109–284, §5(13), substituted "Short title and definitions" for "Title and Definitions" in section catchline.
 
 Subsec. (a). Pub. L. 109–284, §5(14), substituted "Short Title" for "Title" in heading.
@@ -66,5 +72,5 @@ Subsec. (b)(7), (8). Pub. L. 105–277, §142(c)(2), (3), added par. (7) and red
 
 #### Report to Congress on Effectiveness of Chapter and Proposed Changes
 
-Pub. L. 105–277, div. C, title I, §142(q), Oct. 21, 1998, 112 Stat. 2681–609, provided that: "Five years from the date of the enactment of this Act \[Oct. 21, 1998\], the UnitedStates Olympic Committee shall submit a special report to the Congress on the effectiveness of the provisions of chapter 2205 of title 36, United States Code, as amended by this Act, together with any additional proposed changes to that chapter the United States Olympic Committee determines are appropriate."
+Pub. L. 105–277, div. C, title I, §142(q), Oct. 21, 1998, 112 Stat. 2681–609, provided that: "Five years from the date of the enactment of this Act \[Oct. 21, 1998\], the United States Olympic Committee shall submit a special report to the Congress on the effectiveness of the provisions of chapter 2205 of title 36, United States Code, as amended by this Act, together with any additional proposed changes to that chapter the United States Olympic Committee determines are appropriate."
 

@@ -16,7 +16,7 @@ To the extent the Secretary elects to carry out the program, the Secretary shall
 
 &emsp;(4) economic analyses and market feasibility studies to identify new and expanded opportunities for producers on the operations that provide tools and strategies to meet consumer demand in domestic and international markets, such as cooperative marketing and value-added strategies for milk, meat, and poultry production and processing; and
 
-&emsp;(5) technology assessment that compares the technological resources of large specialized producers with the technological needs of producers on the operations to identify and transfer existing technology across all sizes and scales and to identify the specific research and education needs of the producers.
+&emsp;(5) technology assessment that compares the technological resources of large specializedproducers with the technological needs of producers on the operations to identify and transfer existing technology across all sizes and scales and to identify the specific research and education needs of the producers.
 
 #### (c) Administration
 

@@ -40,11 +40,11 @@ Pub. L. 102–173, §1, Nov. 27, 1991, 105 Stat. 1217, provided that: "This Act 
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–509, §1, Oct. 20, 1988, 102 Stat. 2543, provided that: "This Act \[amending sections 10802, 10804 to10806, 10821, 10822, 10825, and 10827 of this title and enacting a provision set out as a note under section 10827 of this title\] may be cited as the 'Protection and Advocacy for Mentally Ill Individuals Amendments Act of 1988'."
+Pub. L. 100–509, §1, Oct. 20, 1988, 102 Stat. 2543, provided that: "This Act \[amending sections 10802, 10804 to 10806, 10821, 10822, 10825, and 10827 of this title and enacting a provision set out as a note under section 10827 of this title\] may be cited as the 'Protection and Advocacy for Mentally Ill Individuals Amendments Act of 1988'."
 
 #### Short Title
 
-Pub. L. 99–319, §1, May 23, 1986, 100 Stat. 478, as amended by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, provided that: "This Act \[enacting this chapter and section 247a of this title and enacting provisions set out as a note below\] may be cited as the 'Protection and Advocacy for Individuals with Mental Illness Act'."
+Pub. L. 99–319, §1, May 23, 1986, 100 Stat. 478, as amended by Pub. L. 106–310, div. B, title XXXII,§3206(a), Oct. 17, 2000, 114 Stat. 1193, provided that: "This Act \[enacting this chapter and section 247a of this title and enacting provisions set out as a note below\] may be cited as the 'Protection and Advocacy for Individuals with Mental Illness Act'."
 
 #### Supersedure of Balanced Budget Provisions
 

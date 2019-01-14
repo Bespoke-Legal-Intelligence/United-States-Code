@@ -82,7 +82,7 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(B) make available to the Center not less than the amount of resources made available to the Long-Term Care Ombudsman National Resource Center for fiscal year 2000;
 
-&emsp;(19) conduct strict monitoring of State compliance with the requirements in effect, under this chapter to prohibit conflicts of interestand to maintain the integrity and public purpose of services provided and service providers, under this chapter in all contractual and commercial relationships;
+&emsp;(19) conduct strict monitoring of State compliance with the requirements in effect, under this chapter to prohibit conflicts of interest and to maintain the integrity and public purpose of services provided and service providers, under this chapter in all contractual and commercial relationships;
 
 &emsp;(20)(A) encourage, and provide technical assistance to, States, area agencies on aging, and service providers to carry out outreach and benefits enrollment assistance to inform and enroll older individuals with greatest economic need, who may be eligible to participate, but who are not participating, in Federal and State programs providing benefits for which the individuals are eligible, including—
 
@@ -168,7 +168,7 @@ To promote the development and implementation of comprehensive, coordinated syst
 
 &emsp;&emsp;&emsp;(ii) as appropriate, for a person who was appointed by the individual, or is legally acting on the individual's behalf, in order to represent or advise the individual in financial or service coordination matters (referred to in this paragraph as a "representative" of the individual), to direct and control the receipt of those services; and
 
-&emsp;&emsp;(C) assist an older individual (or, as appropriate, a representative of the individual) to develop a plan for long-term support, including selecting, budgeting for, and purchasing home and community-based long-term care and supportive services;
+&emsp;&emsp;(C) assist an older individual (or, as appropriate, a representative of the individual) todevelop a plan for long-term support, including selecting, budgeting for, and purchasing home and community-based long-term care and supportive services;
 
 &emsp;(5) provide for the Administration to play a lead role with respect to issues concerning home and community-based long-term care, including—
 
@@ -198,7 +198,7 @@ To promote the development and implementation of comprehensive, coordinated syst
 
 &emsp;&emsp;(D) to help individuals to respond to or plan ahead for their long-term care needs;
 
-&emsp;&emsp;(E) to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under section 1395b–4 of this title) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act (42 U.S.C. 1395 etseq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003; and
+&emsp;&emsp;(E) to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under section 1395b–4 of this title) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003; and
 
 &emsp;&emsp;(F) to provide information and referrals regarding available home and community-based services for individuals who are at risk for residing in, or who reside in, institutional settings, so that the individuals have the choice to remain in or to return to the community;
 
@@ -264,7 +264,7 @@ The Assistant Secretary, in consultation with the Chief Executive Officer of the
 
 &emsp;&emsp;(III) data from other Federal agencies on the health, social, and economic status of older individuals and on the services provided to older individuals;
 
-&emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected onthe functions, staffing patterns, and funding sources of State agencies and area agencies on aging;
+&emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected on the functions, staffing patterns, and funding sources of State agencies and area agencies on aging;
 
 &emsp;(iv) analyze the information collected under section 3011(c)(3)(F) of this title by the Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging;
 
@@ -326,7 +326,7 @@ The Age Discrimination in Employment Act of 1967, referred to in subsec. (a)(12)
 
 The National Housing Act, referred to in subsec. (a)(12)(B)(iii), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (a)(17)(A), (20)(A)(iii), is Pub. L. 88–525, Aug. 31,1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (a)(17)(A), (20)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (b)(8)(E), is Pub. L. 108–173, Dec. 8, 2003, 117 Stat. 2066. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1305 of this title and Tables.
 
@@ -550,7 +550,7 @@ Subsec. (a)(7). Pub. L. 95–478, §§102(a)(1), 503(b)(4)(A), redesignated form
 
 Subsec. (a)(8) to (11). Pub. L. 95–478, §102(a)(1), redesignated former pars. (7) to (10) as (8) to (11). Former par. (11) redesignated (12).
 
-Subsec. (a)(12). Pub. L. 95–478, §§102(a)(1), 503(b)(4), redesignated former par. (11) as (12) and substituted "older individuals" and "such individuals" for "older persons" and "such persons". Former par. (12) redesignated (13).
+Subsec. (a)(12). Pub. L. 95–478, §§102(a)(1), 503(b)(4), redesignated former par. (11) as (12) and substituted "older individuals" and "such individuals" for "olderpersons" and "such persons". Former par. (12) redesignated (13).
 
 Subsec. (a)(13). Pub. L. 95–478, §§102(a)(1), 503(b)(4)(A), redesignated former par. (12) as (13) and substituted "older individuals" for "older persons". Former par. (13) redesignated (14).
 

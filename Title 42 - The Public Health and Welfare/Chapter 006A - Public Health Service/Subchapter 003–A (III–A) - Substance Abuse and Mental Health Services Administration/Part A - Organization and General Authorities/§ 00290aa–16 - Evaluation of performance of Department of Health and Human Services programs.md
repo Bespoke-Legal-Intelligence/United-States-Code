@@ -4,7 +4,7 @@
 
 #### (A) In general
 
-&emsp;Not later than 5 years after July 22, 2016, except as otherwise provided in this section,<sup>1</sup> the Secretary of Health and Human Services (in this section referred to as the "Secretary") shall complete an evaluation of any program administered by the Secretary included in thisAct (or an amendment made by this Act, excluding sections 703 through 707), including any grant administered by the Administrator of the Substance Abuse and Mental Health Services Administration under section 1536 of title 21, that provides grants for the primary purpose of providing assistance in addressing problems pertaining to opioid abuse based upon the outcomes and metrics identified under paragraph (2).
+&emsp;Not later than 5 years after July 22, 2016, except as otherwise provided in this section,<sup>1</sup> the Secretary of Health and Human Services (in this section referred to as the "Secretary") shall complete an evaluation of any program administered by the Secretary included in this Act (or an amendment made by this Act, excluding sections 703 through 707), including any grant administered by the Administrator of the Substance Abuse and Mental Health Services Administration under section 1536 of title 21, that provides grants for the primary purpose of providing assistance in addressing problems pertaining to opioid abuse based upon the outcomes and metrics identified under paragraph (2).
 
 #### (B) Publication
 

@@ -28,7 +28,7 @@ At the request of the Governor, the Secretary shall establish and administer wit
 
 &emsp;(2) a site for research on tropical forestry, conservation biology, and natural resource management; and
 
-&emsp;(3) a center for demonstration, education, training, and outreach on tropical forestry, conservation biology, and natural resources research and management.
+&emsp;(3) a center for demonstration, education, training, and outreach on tropical forestry,conservation biology, and natural resources research and management.
 
 #### (c) Delineation of location of Forest
 

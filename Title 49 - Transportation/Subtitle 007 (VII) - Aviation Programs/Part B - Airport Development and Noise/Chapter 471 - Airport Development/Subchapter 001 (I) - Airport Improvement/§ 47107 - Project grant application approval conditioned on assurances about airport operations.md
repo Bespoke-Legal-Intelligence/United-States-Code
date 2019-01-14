@@ -54,17 +54,21 @@ General Written Assurances.—The Secretary of Transportation may approve a proj
 
 &emsp;&emsp;(A) the plan will be in a form the Secretary prescribes;
 
-&emsp;&emsp;(B) the Secretary will approve the plan and any revision or modification before the plan, revision, or modification takes effect;
+&emsp;&emsp;(B) the Secretary will review and approve or disapprove only those portions of the plan (or any subsequent revision to the plan) that materially impact the safe and efficient operation of aircraft at, to, or from the airport or that would adversely affect the safety of people or property on the ground adjacent to the airport as a result of aircraft operations, or that adversely affect the value of prior Federal investments to a significant extent;
 
-&emsp;&emsp;(C) the owner or operator will not make or allow any alteration in the airport or any of its facilities if the alteration does not comply with the plan the Secretary approves, and the Secretary is of the opinion that the alteration may affect adversely the safety, utility, or efficiency of the airport; and
+&emsp;&emsp;(C) the owner or operator will not make or allow any alteration in the airport or any of its facilities unless the alteration—
 
-&emsp;&emsp;(D) when an alteration in the airport or its facility is made that does not conform to the approved plan and that the Secretary decides adversely affects the safety, utility, or efficiency of any property on or off the airport that is owned, leased, or financed by the Government, the owner or operator, if requested by the Secretary, will—
+&emsp;&emsp;&emsp;(i) is outside the scope of the Secretary's review and approval authority as set forth in subparagraph (B); or
+
+&emsp;&emsp;&emsp;(ii) complies with the portions of the plan approved by the Secretary; and
+
+&emsp;&emsp;(D) when an alteration in the airport or its facility is made that is within the scope of the Secretary's review and approval authority as set forth in subparagraph (B), and does not conform with the portions of the plan approved by the Secretary, and the Secretary decides that the alteration adversely affects the safety, utility, or efficiency of aircraft operations, or of any property on or off the airport that is owned, leased, or financed by the Government, then the owner or operator will, if requested by the Secretary—
 
 &emsp;&emsp;&emsp;(i) eliminate the adverse effect in a way the Secretary approves; or
 
 &emsp;&emsp;&emsp;(ii) bear all cost of relocating the property or its replacement to a site acceptable to the Secretary and of restoring the property or its replacement to the level of safety, utility, efficiency, and cost of operation that existed before the alteration was made, except in the case of a relocation or replacement of an existing airport facility that meets the conditions of section 47110(d);
 
-&emsp;(17) each contract and subcontract for program management, construction management, planning studies, feasibility studies, architectural services, preliminary engineering, design, engineering, surveying, mapping, and related services will be awarded in the same way that a contract for architectural and engineering services is negotiated under chapter 11 of title 40 or an equivalent qualifications-based requirement prescribed for or by the sponsor;
+&emsp;(17) if any phase of such project has received funds under this subchapter, each contract and subcontract for program management, construction management, planning studies, feasibility studies, architectural services, preliminary engineering, design, engineering, surveying, mapping, and related services will be awarded in the same way that a contract for architectural and engineering services is negotiated under chapter 11 of title 40 or an equivalent qualifications-based requirement prescribed for or by the sponsor;
 
 &emsp;(18) the airport and each airport record will be available for inspection by the Secretary on reasonable request, and a report of the airport budget will be available to the public at reasonable times and places;
 
@@ -74,7 +78,7 @@ General Written Assurances.—The Secretary of Transportation may approve a proj
 
 &emsp;&emsp;(B) all services and property provided to other units of government and the amount of compensation received for provision of each such service and property;
 
-&emsp;(20) the airport owner or operator will permit, to the maximum extent practicable, intercity buses or other modes of transportation to have access to the airport, but the sponsor does not have any obligation under this paragraph, or because of it, to fund special facilities for intercity bus service or for other modes of transportation; and
+&emsp;(20) the airport owner or operator will permit, to the maximum extent practicable,intercity buses or other modes of transportation to have access to the airport, but the sponsor does not have any obligation under this paragraph, or because of it, to fund special facilities for intercity bus service or for other modes of transportation; and
 
 &emsp;(21) if the airport owner or operator and a person who owns an aircraft agree that a hangar is to be constructed at the airport for the aircraft at the aircraft owner's expense, the airport owner or operator will grant to the aircraft owner for the hangar a long-term lease that is subject to such terms and conditions on the hangar as the airport owner or operator may impose.
 
@@ -150,7 +154,7 @@ Assurances of Continuation as Public-Use Airport.—The Secretary of Transportat
 
 Written Assurances of Opportunities for Small Business Concerns.—(1) The Secretary of Transportation may approve a project grant application under this subchapter for an airport development project only if the Secretary receives written assurances, satisfactory to the Secretary, that the airport owner or operator will take necessary action to ensure, to the maximum extent practicable, that at least 10 percent of all businesses at the airport selling consumer products or providing consumer services to the public are small business concerns (as defined by regulations of the Secretary) owned and controlled by a socially and economically disadvantaged individual (as defined in section 47113(a) of this title) or qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act).
 
-(2) An airport owner or operator may meet the percentage goal of paragraph (1) of this subsection by including any business operated through a management contract or subcontract. The dollar amount of a management contract or subcontract with a disadvantaged business enterprise shall be added to the total participation by disadvantaged business enterprises in airportconcessions and to the base from which the airport's percentage goal is calculated. The dollar amount of a management contract or subcontract with a non-disadvantaged business enterprise and the gross revenue of business activities to which the management contract or subcontract pertains may not be added to this base.
+(2) An airport owner or operator may meet the percentage goal of paragraph (1) of this subsection by including any business operated through a management contract or subcontract. The dollar amount of a management contract or subcontract with a disadvantaged business enterprise shall be added to the total participation by disadvantaged business enterprises in airport concessions and to the base from which the airport's percentage goal is calculated. The dollar amount of a management contract or subcontract with a non-disadvantaged business enterprise and the gross revenue of business activities to which the management contract or subcontract pertains may not be added to this base.
 
 (3) Except as provided in paragraph (4) of this subsection, an airport owner or operator may meet the percentage goal of paragraph (1) of this subsection by including the purchase from disadvantaged business enterprises of goods and services used in businesses conducted at the airport, but the owner or operator and the businesses conducted at the airport shall make good faith efforts to explore all available options to achieve, to the maximum extent practicable, compliance with the goal through direct ownership arrangements, including joint ventures and franchises.
 
@@ -184,7 +188,7 @@ Availability of Amounts.—An amount deposited in the Airport and Airway Trust F
 
 &emsp;&emsp;(B) for use under section 47114(d)(2) of this title at another airport in the State in which the land was disposed of under subsection (c)(2)(B)(ii) of this section; and
 
-&emsp;(3) subsection (c)(2)(B)(iii) of this section is in addition to an amount made available to the Secretary under section 48103 of this title and not subject to apportionment under section 47114 of this title.
+&emsp;(3) subsection (c)(2)(B)(iii) of this section is in addition to an amount made available tothe Secretary under section 48103 of this title and not subject to apportionment under section 47114 of this title.
 
 (g)
 
@@ -272,7 +276,7 @@ Administrative safeguards.—Policies and procedures to be established pursuant 
 
 Statute of limitations.—In addition to the statute of limitations specified in subsection (m)(7), with respect to project grants made under this chapter—
 
-&emsp;&emsp;(A) any request by a sponsor or any other governmental entity to any airport for additional payments for services conducted off of the airport or for reimbursement for capital contributions or operating expenses shall befiled not later than 6 years after the date on which the expense is incurred; and
+&emsp;&emsp;(A) any request by a sponsor or any other governmental entity to any airport for additional payments for services conducted off of the airport or for reimbursement for capital contributions or operating expenses shall be filed not later than 6 years after the date on which the expense is incurred; and
 
 &emsp;&emsp;(B) any amount of airport funds that are used to make a payment or reimbursement as described in subparagraph (A) after the date specified in that subparagraph shall be considered to be an illegal diversion of airport revenues that is subject to subsection (m).
 
@@ -400,7 +404,7 @@ Competitive access.—On February 1 and August 1 of each year, an airport that d
 
 &emsp;(3)
 
-Sunset provision.—This subsection shall cease to be effective beginning April 1, 2018.
+Sunset provision.—This subsection shall cease to be effective beginning October 1, 2023.
 
 (s)
 
@@ -436,6 +440,10 @@ Terms and conditions.—An agreement described in paragraph (1) between an airpo
 
 &emsp;&emsp;&emsp;(v) to prohibit any aircraft refueling from occurring on the property.
 
+&emsp;(3)
+
+Exemption.—The terms and conditions of paragraph (2) shall not apply to an agreement described in paragraph (1) made before the enactment of the FAA Modernization and Reform Act of 2012 (Public Law 112–95) that the Secretary determines does not comply with such terms and conditions but involves property that is subject to deed or lease restrictions that are considered perpetual and that cannot readily be brought into compliance. However, if the Secretary determines that the airport sponsor and residential property owners are able to make any modification to such an agreement on or after the date of enactment of this paragraph, the exemption provided by this paragraph shall no longer apply.
+
 (t)
 
 Renewal of Certain Leases.—
@@ -460,7 +468,105 @@ Covered lease defined.—In this subsection, the term "covered lease" means a le
 
 &emsp;&emsp;&emsp;(ii) remotely from the airport.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1256; Pub. L. 103–305, title I, §§111(a), (c), 112(a), Aug. 23, 1994, 108 Stat. 1573, 1574; Pub. L. 104–264, title I, §143, title VIII, §805(a), (b)(2), Oct. 9, 1996, 110 Stat. 3221, 3271, 3274; Pub. L. 104–287, §5(9), (80), Oct. 11, 1996, 110 Stat. 3389, 3397; Pub. L. 105–135, title VI, §604(h)(1), Dec. 2, 1997, 111 Stat. 2634; Pub. L. 106–181, title I, §125(a), Apr. 5, 2000, 114 Stat. 75; Pub. L. 107–217, §3(n)(7), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 108–7, div. I, title III, §321(a), Feb. 20, 2003, 117 Stat. 411; Pub. L. 108–11, title II, §2702, Apr. 16, 2003, 117 Stat. 600; Pub. L. 108–176, title I, §§144, 164, 165, title IV, §424, Dec. 12, 2003, 117 Stat. 2503, 2513, 2514, 2554; Pub. L. 110–330, §5(e), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(d), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(e), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(d), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(d), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(d), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(d), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(d), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(e), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(d), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(d), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(d), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(d), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(d), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(e), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(e), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §§135, 136(a), title IV, §404, Feb. 14, 2012, 126 Stat. 22, 23, 85; Pub. L. 113–188, title XV, §1501(b)(1), (2)(A), Nov. 26, 2014, 128 Stat. 2023, 2024; Pub. L. 114–55, title I, §102(a), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(a), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(a), July 15, 2016, 130 Stat. 617; Pub. L. 114–238, §1, Oct. 7, 2016, 130 Stat. 972; Pub. L. 115–63, title I, §102(a), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(G)(i), Dec. 12, 2017, 131 Stat. 1796.)
+(u)
+
+Construction of Recreational Aircraft.—
+
+&emsp;(1)
+
+In general.—The construction of a covered aircraft shall be treated as an aeronautical activity for purposes of—
+
+&emsp;&emsp;(A) determining an airport's compliance with a grant assurance made under this section or any other provision of law; and
+
+&emsp;&emsp;(B) the receipt of Federal financial assistance for airport development.
+
+&emsp;(2)
+
+Covered aircraft defined.—In this subsection, the term "covered aircraft" means an aircraft—
+
+&emsp;&emsp;(A) used or intended to be used exclusively for recreational purposes; and
+
+&emsp;&emsp;(B) constructed or under construction by a private individual at a general aviation airport.
+
+(v)
+
+Community Use of Airport Land.—
+
+&emsp;(1)
+
+In general.—Notwithstanding subsection (a)(13), and subject to paragraph (2), the sponsor of a public-use airport shall not be considered to be in violation of this subtitle, or to be found in violation of a grant assurance made under this section, or under any other provision of law, as a condition for the receipt of Federal financial assistance for airport development, solely because the sponsor has entered into an agreement, including a revised agreement, with a local government providing for the use of airport property for an interim compatible recreational purpose at below fair market value.
+
+&emsp;(2)
+
+Restrictions.—This subsection shall apply only—
+
+&emsp;&emsp;(A) to an agreement regarding airport property that was initially entered into before the publication of the Federal Aviation Administration's Policy and Procedures Concerning the Use of Airport Revenue, dated February 16, 1999;
+
+&emsp;&emsp;(B) if the agreement between the sponsor and the local government is subordinate to any existing or future agreements between the sponsor and the Secretary, including agreements related to a grant assurance under this section;
+
+&emsp;&emsp;(C) to airport property that was acquired under a Federal airport development grant program;
+
+&emsp;&emsp;(D) if the airport sponsor has provided a written statement to the Administrator that the property made available for a recreational purpose will not be needed for any aeronautical purpose during the next 10 years;
+
+&emsp;&emsp;(E) if the agreement includes a term of not more than 2 years to prepare the airport property for the interim compatible recreational purpose and not more than 10 years of use for that purpose;
+
+&emsp;&emsp;(F) if the recreational purpose will not impact the aeronautical use of the airport;
+
+&emsp;&emsp;(G) if the airport sponsor provides a certification that the sponsor is not responsible for preparation, start-up, operations, maintenance, or any other costs associated with the recreational purpose; and
+
+&emsp;&emsp;(H) if the recreational purpose is consistent with Federal land use compatibility criteria under section 47502.
+
+&emsp;(3)
+
+Statutory construction.—Nothing in this subsection may be construed as permitting a diversion of airport revenue for the capital or operating costs associated with the community use of airport land.
+
+(w)
+
+Mothers' Rooms.—
+
+&emsp;(1)
+
+In general.—In fiscal year 2021 and each fiscal year thereafter, the Secretary of Transportation may approve an application under this subchapter for an airport development project grant only if the Secretary receives written assurances that the airport owner or operator will maintain—
+
+&emsp;&emsp;(A) a lactation area in the sterile area of each passenger terminal building of the airport; and
+
+&emsp;&emsp;(B) a baby changing table in one men's and one women's restroom in each passenger terminal building of the airport.
+
+&emsp;(2)
+
+Applicability.—
+
+&emsp;&emsp;(A)
+
+Airport size.—The requirement in paragraph (1) shall only apply to applications submitted by the airport sponsor of a medium or large hub airport.
+
+&emsp;&emsp;(B)
+
+Preexisting facilities.—On application by an airport sponsor, the Secretary may determine that a lactation area in existence on the date of enactment of this Act complies with the requirement in paragraph (1), notwithstanding the absence of one of the facilities or characteristics referred to in the definition of the term "lactation area" in this subsection.
+
+&emsp;&emsp;(C)
+
+Special rule.—The requirement in paragraph (1) shall not apply with respect to a project grant application for a period of time, determined by the Secretary, if the Secretary determines that construction or maintenance activities make it impracticable or unsafe for the lactation area to be located in the sterile area of the building.
+
+&emsp;(3)
+
+Definition.—In this section, the term—
+
+&emsp;&emsp;(A) "lactation area" means a room or similar accommodation that—
+
+&emsp;&emsp;&emsp;(i) provides a location for members of the public to express breast milk that is shielded from view and free from intrusion from the public;
+
+&emsp;&emsp;&emsp;(ii) has a door that can be locked;
+
+&emsp;&emsp;&emsp;(iii) includes a place to sit, a table or other flat surface, a sink or sanitizing equipment, and an electrical outlet;
+
+&emsp;&emsp;&emsp;(iv) is readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs; and
+
+&emsp;&emsp;&emsp;(v) is not located in a restroom; and
+
+&emsp;&emsp;(B) "sterile area" has the same meaning given that term in section 1540.5 of title 49, Code of Federal Regulations.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1256; Pub. L. 103–305, title I, §§111(a), (c), 112(a), Aug. 23, 1994, 108 Stat. 1573, 1574; Pub. L. 104–264, title I, §143, title VIII, §805(a), (b)(2), Oct. 9, 1996, 110 Stat. 3221, 3271, 3274; Pub. L. 104–287, §5(9), (80), Oct. 11, 1996, 110 Stat. 3389, 3397; Pub. L. 105–135, title VI, §604(h)(1), Dec. 2, 1997, 111 Stat. 2634; Pub. L. 106–181, title I, §125(a), Apr. 5, 2000, 114 Stat. 75; Pub. L. 107–217, §3(n)(7), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 108–7, div. I, title III, §321(a), Feb. 20, 2003, 117 Stat. 411; Pub. L. 108–11, title II, §2702, Apr. 16, 2003, 117 Stat. 600; Pub. L. 108–176, title I, §§144, 164, 165, title IV, §424, Dec. 12, 2003, 117 Stat. 2503, 2513, 2514, 2554; Pub. L. 110–330, §5(e), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(d), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(e), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(d), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(d), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(d), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(d), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(d), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(e), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(d), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(d), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(d), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(d), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(d), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(e), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(e), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §§135, 136(a), title IV, §404, Feb. 14, 2012, 126 Stat. 22, 23, 85; Pub. L. 113–188, title XV, §1501(b)(1), (2)(A), Nov. 26, 2014, 128 Stat. 2023, 2024; Pub. L. 114–55, title I, §102(a), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(a), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(a), July 15, 2016, 130 Stat. 617; Pub. L. 114–238, §1, Oct. 7, 2016, 130 Stat. 972; Pub. L. 115–63, title I, §102(a), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(G)(i), Dec. 12, 2017, 131 Stat. 1796; Pub. L. 115–141, div. M, title I, §102(a), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title I, §§131, 132(a), 163(d), 185, Oct. 5, 2018, 132 Stat. 3203–3205, 3224, 3234.)
 
 #### Amendment of Subsection (e)
 
@@ -660,7 +766,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §511(g); added May 4, 1990, Pub.
 
 49 App.:2210(g)(3).
 
-In subsection (a), before clause (1), the words "may approve a project grant application under this subchapter for an airport development project only if" are substituted for 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)) and the words "As a condition precedent to approval of an airport development project contained in a project grant application submitted under this chapter . . . shall" in 49 App.:2210(a) for clarity and to eliminate unnecessary words. In clause (1), the words "to which the project relates" and "fair and" are omitted as surplus. In clause (2), before subclause (A), the words "including the requirement that" are omitted as unnecessary because of the restatement. The words "air carriers making similar use of the airport" are substituted for "each air carrier using such airport (whether as a tenant, nontenant, or subtenant of another air carrier tenant) . . . all such air carriers which make similar use of such airport" to eliminate unnecessary words. The words "and which utilize similar facilities" are omitted because of the definition of "airport" in section 47102 of the revised title. The words "nondiscriminatory and" and "rates, fees, rentals, and other" are omitted as surplus. In subclause (B), before subclause (i), the words "except for differences based on" are substituted for "subject to" for clarity. In clause (3), the words "airport operator" are substituted for "airport" for clarity and consistency in this chapter. In clause (4), before subclause (A), the words "a right given to only one fixed-base operator to provide services at an airport" are substituted for "the providing of services at an airport by a single fixed-based operator" for clarity. In subclause (B), the words "the airport operator or owner" are substituted for "such airport" for clarity and consistency in this subchapter. Clause (5) is substituted for 49 App.:2210(a)(1)(B) for consistency and to eliminate unnecessary words. In clause (6), the words "allowed by the airport operator" are substituted for "authorized by the airport or permitted by the airport" for clarity and consistency in this chapter and to eliminate unnecessary words. In clause (9), the words "operations at" are added for clarity. The words "adequately", "removing, lowering, relocating, marking, or lighting or otherwise", and "the establishment or creation of" are omitted as surplus. In clause (10), the word "near" is substituted for "in the immediate vicinity of", and the word "uses" is substituted for "activities and purposes", to eliminate unnecessary words. The words "including landing and takeoff of aircraft" are omitted as surplus. In clause (12), the words "property interests of the sponsor in land or water areas or buildings" are substituted for "any areas of land or water, or estate therein, or rights in buildings of the sponsor" for consistency in the revised title and to eliminate unnecessary words. The words "necessary or" are omitted as surplus. The words "for, and that will be used for, constructing . . . facilities for carrying out activities related to air traffic control or navigation" are substituted for "for use in connection with any air traffic control or navigation activities, or weather-reporting and communication activities related to air traffic control . . . for construction . . . of space or facilities for such purposes" to eliminate unnecessary words. In clause (13), before subclause (A), the words "schedule of charges" are substituted for "fee and rental structure" for clarity and consistency in this chapter. In subclause (A), the word "particular" is omitted as surplus. The word "including" is substituted for "taking into account such factors as" to eliminate unnecessary words. In subclause (B), the words "fees, rates, and" are omitted as surplus. The words "airport development or airport planning" are omitted because of the definition of "project" in section 47102 of the revised title. In clause (16), before subclause (A), the words "maintain . . . current" are substituted for "keep up to date at all times" to eliminate unnecessary words. In subclause (B), the words "be submitted to, and" and "amendment" are omitted as surplus. In subclauses (C) and (D), the words "changes or" and "change or", respectively, are omitted as surplus. In subclause (D)(ii), the words "was made" are added for clarity. In clause (17), the words "with respect to the project" are omitted as surplus. In clause (18), the words "duly authorized agent of" are omitted because of 49:322(b).
+In subsection (a), before clause (1), the words "may approve a project grant application under this subchapter for an airport development project only if" are substituted for 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)) and the words "As a condition precedent to approval of an airport development project contained in a project grant application submitted under this chapter . . . shall" in 49 App.:2210(a) for clarity and to eliminate unnecessary words. In clause (1), the words "to which the project relates" and "fair and" are omitted as surplus. In clause (2), before subclause (A), the words "including the requirement that" are omitted as unnecessary because of the restatement. The words "air carriers making similar use of the airport" are substituted for "each air carrier using such airport (whether as a tenant, nontenant, or subtenant of another air carrier tenant) . . . all such air carriers which make similar use of such airport" to eliminate unnecessary words. The words "and which utilize similar facilities" are omitted because of the definition of "airport" in section 47102 of the revised title. The words "nondiscriminatory and" and "rates, fees, rentals, and other" are omitted as surplus. In subclause (B), before subclause (i), the words "except for differences based on" are substituted for "subject to" for clarity. In clause (3), the words "airport operator" are substituted for "airport" for clarity and consistency in this chapter. In clause (4), before subclause (A), the words "a right given to only one fixed-base operator to provide services at an airport" are substituted for "the providing of services at an airport by a single fixed-based operator" for clarity. In subclause (B), the words "the airport operator or owner" are substituted for "such airport" for clarity and consistency in this subchapter. Clause (5) is substituted for 49 App.:2210(a)(1)(B) for consistency and to eliminate unnecessary words. In clause (6), the words "allowed by the airport operator" are substituted for "authorized by the airport or permitted by the airport" for clarity and consistency in this chapter and to eliminate unnecessary words. In clause (9), the words "operations at" are added for clarity. The words "adequately", "removing, lowering, relocating, marking, or lighting or otherwise", and "the establishment or creation of" are omitted as surplus. In clause (10), the word "near" is substituted for "in the immediate vicinity of", and the word "uses" is substituted for "activities and purposes", to eliminate unnecessary words. The words "including landing and takeoff of aircraft" are omitted as surplus. In clause (12), the words "property interests of the sponsor in land or water areas or buildings" are substituted for "any areas of land or water, or estate therein, or rights in buildings of the sponsor" for consistency in the revised title and to eliminate unnecessary words. The words "necessary or" are omitted as surplus. The words "for, and that will be used for, constructing . . . facilities for carrying out activities related to air traffic control or navigation" are substituted for "for use in connection with any air traffic control or navigation activities, or weather-reporting and communication activities related to air traffic control . . . for construction . . . of space or facilities for such purposes" to eliminate unnecessary words. In clause (13), before subclause (A), the words "schedule of charges" are substituted for "fee and rental structure" for clarity and consistency in this chapter. In subclause (A), the word "particular" is omitted as surplus. The word "including" is substituted for "taking into account such factors as" to eliminate unnecessary words. In subclause (B), the words "fees, rates, and" are omitted as surplus. The words "airport development or airport planning" are omitted because of the definition of "project" insection 47102 of the revised title. In clause (16), before subclause (A), the words "maintain . . . current" are substituted for "keep up to date at all times" to eliminate unnecessary words. In subclause (B), the words "be submitted to, and" and "amendment" are omitted as surplus. In subclauses (C) and (D), the words "changes or" and "change or", respectively, are omitted as surplus. In subclause (D)(ii), the words "was made" are added for clarity. In clause (17), the words "with respect to the project" are omitted as surplus. In clause (18), the words "duly authorized agent of" are omitted because of 49:322(b).
 
 In subsection (b)(1), before clause (A), the words "may approve a project grant application under this subchapter for an airport development project only if" are substituted for 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)(12)) and "As a condition precedent to approval of an airport development project contained in a project grant application submitted under this chapter . . . shall" in 49 App.:2210(a) for clarity and to eliminate unnecessary words. In clause (C) the word "actual" is omitted as surplus.
 
@@ -716,9 +822,33 @@ Section 3(p) of the Small Business Act, referred to in subsec. (e)(1), (4)(B), (
 
 Section 101(a) of title 23, referred to in subsec. (j)(1)(B), was subsequently amended, and section 101(a) no longer defines "Federal-aid system".
 
+The enactment of the FAA Modernization and Reform Act of 2012, referred to in subsec. (s)(3), means the enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
+
+The date of enactment of this paragraph, referred to in subsec. (s)(3), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.
+
 The date of enactment of this subsection, referred to in subsec. (t)(2)(A), is the date of enactment of Pub. L. 114–238, which was approved Oct. 7, 2016.
 
+The date of enactment of this Act, referred to in subsec. (w)(2)(B), probably means the date of enactment of Pub. L. 115–254, which enacted subsec. (w) and was approved Oct. 5, 2018.
+
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(16)(B). Pub. L. 115–254, §163(d)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: "the Secretary will approve the plan and any revision or modification before the plan, revision, or modification takes effect;".
+
+Subsec. (a)(16)(C). Pub. L. 115–254, §163(d)(2), substituted "unless the alteration—" and cls. (i) and (ii) for "if the alteration does not comply with the plan the Secretary approves, and the Secretary is of the opinion that the alteration may affect adversely the safety, utility, or efficiency of the airport; and".
+
+Subsec. (a)(16)(D). Pub. L. 115–254, §163(d)(3), which directed substitution of "when an alteration in the airport or its facility is made that is within the scope of the Secretary's review and approval authority as set forth in subparagraph (B), and does not conform with the portions of the plan approved by the Secretary, and the Secretary decides that the alteration adversely affects the safety, utility, or efficiency of aircraft operations, or of any property on or off the airport that is owned, leased, or financed by the Government, then the owner or operator will, if requested by the Secretary" for "when an alternation" and all that follows through "Secretary, will", was executed by making the substitution for "when an alteration in the airport or its facility is made that does not conform to the approved plan and that the Secretary decides adversely affects the safety, utility, or efficiency of any property on or off the airport that is owned, leased, or financed by the Government, the owner or operator, if requested by the Secretary, will" to reflect the probable intent of Congress.
+
+Subsec. (a)(17). Pub. L. 115–254, §131(1), substituted "if any phase of such project has received funds under this subchapter, each contract" for "each contract".
+
+Subsec. (r)(3). Pub. L. 115–254, §131(2), substituted "2023" for "2018".
+
+Pub. L. 115–141 substituted "October 1, 2018" for "April 1, 2018".
+
+Subsec. (s)(3). Pub. L. 115–254, §185, added par. (3).
+
+Subsecs. (u), (v). Pub. L. 115–254, §131(3), added subsecs. (u) and (v).
+
+Subsec. (w). Pub. L. 115–254, §132(a), added subsec. (w).
 
 <b>2017</b>—Subsec. (e)(1), (4)(B), (6). Pub. L. 115–91 substituted "section 31(b) of the Small Business Act" for "section 3(p) of the Small Business Act".
 
@@ -850,7 +980,7 @@ Subsec. (l). Pub. L. 103–305, §112(a), added subsec. (l).
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 2323 of Title 10, Armed Forces.
+Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 657a of Title 15, Commerce and Trade.
 
 #### Effective Date of 2012 Amendment
 

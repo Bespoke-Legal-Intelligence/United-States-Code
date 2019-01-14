@@ -28,7 +28,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (j) The term "project-connected person" means any person who, on the first offering date, is regularly employed at the project area in one of the following capacities:
 
-&emsp;(1) An officer or employee of the Commission or any of its contractors or subcontractors, or of the United States or any agency thereof (including members of the Armed Forces), or of a State or political subdivision or agency thereof;
+&emsp;(1) An officer or employee of the Commission or any of its contractors or subcontractors, orof the United States or any agency thereof (including members of the Armed Forces), or of a State or political subdivision or agency thereof;
 
 &emsp;(2) An officer or employee employed at a school or hospital located in the project area;
 

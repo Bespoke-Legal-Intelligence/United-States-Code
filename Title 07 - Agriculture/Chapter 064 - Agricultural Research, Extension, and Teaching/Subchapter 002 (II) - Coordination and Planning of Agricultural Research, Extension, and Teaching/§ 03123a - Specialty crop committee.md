@@ -10,13 +10,13 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 45 days after February 7, 2014, the Secretary shall establish within the speciality crops committee, and appoint the initial members of, a citrus disease subcommittee to carry out the responsibilities of the subcommittee described in subsection (g) in accordance with subsection (j)(3) of section 7632 of this title.
+&emsp;&emsp;Not later than 45 days after February 7, 2014, the Secretary shall establish within the specialty crops committee, and appoint the initial members of, a citrus disease subcommittee to carry out the responsibilities of the subcommittee described in subsection (g) in accordance with subsection (j)(3) of section 7632 of this title.
 
 #### (B) Composition
 
-&emsp;&emsp;The citrus disease subcommittee shall be composed of 9 members, each of whom is a domestic producer of citrus in a State, represented as follows:
+&emsp;&emsp;The citrus disease subcommittee shall be composed of 11 members, each of whom is a domestic producer of citrus in a State, represented as follows:
 
-&emsp;&emsp;&emsp;(i) Three of such members shall represent Arizona or California.
+&emsp;&emsp;&emsp;(i) Five of such members shall represent Arizona or California.
 
 &emsp;&emsp;&emsp;(ii) Five of such members shall represent Florida.
 
@@ -28,7 +28,7 @@
 
 #### (D) Termination
 
-&emsp;&emsp;The subcommittee established under subparagraph (A) shall terminate on September 30, 2018.
+&emsp;&emsp;The subcommittee established under subparagraph (A) shall terminate on September 30, 2023.
 
 #### (E) Federal Advisory Committee Act
 
@@ -74,7 +74,7 @@ Not later than 180 days after the establishment of the specialty crops committee
 
 &emsp;(3) Analyses of changes in macroeconomic conditions, technologies, and policies on specialty crop production and consumption, with particular focus on the effect of those changes on the financial stability of producers.
 
-&emsp;(4) Development of data that provide applied information useful to specialty crop growers,their associations, and other interested beneficiaries in evaluating that industry from a regional and national perspective.
+&emsp;(4) Development of data that provide applied information useful to specialty crop growers, their associations, and other interested beneficiaries in evaluating that industry from a regional and national perspective.
 
 &emsp;(5) Analysis of the alignment of specialty crops committee recommendations with grants awarded through the specialty crop research initiative established under section 7632 of this title.
 
@@ -114,11 +114,11 @@ For the purposes of subsection (j) of section 7632 of this title, the citrus dis
 
 &emsp;&emsp;(D) providing the Secretary with such information and advice as the Secretary may request.
 
-(Pub. L. 95–113, title XIV, §1408A, as added Pub. L. 108–465, title III, §303, Dec. 21, 2004, 118 Stat. 3885; amended Pub. L. 110–234, title VII, §7103, May 22, 2008, 122 Stat. 1215; Pub. L. 110–246, §4(a), title VII, §7103, June 18, 2008, 122 Stat. 1664, 1976; Pub. L. 113–79, title VII, §7103, Feb. 7, 2014, 128 Stat. 864.)
+(Pub. L. 95–113, title XIV, §1408A, as added Pub. L. 108–465, title III, §303, Dec. 21, 2004, 118 Stat. 3885; amended Pub. L. 110–234, title VII, §7103, May 22, 2008, 122 Stat. 1215; Pub. L. 110–246, §4(a), title VII, §7103, June 18, 2008, 122 Stat. 1664, 1976; Pub. L. 113–79, title VII, §7103, Feb. 7, 2014, 128 Stat. 864; Pub. L. 115–334, title VII, §7104, Dec. 20, 2018, 132 Stat. 4783.)
 
 #### References in Text
 
-Section 9 of the Federal Advisory Committee Act, referred to in subsec. (a)(2)(E), is section 9 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 9 of the Federal Advisory Committee Act, referred to in subsec. (a)(2)(E), is section 9 of Pub. L.92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
@@ -129,6 +129,14 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 3123a, Pub. L. 95–113, title XIV, §1408A, as added Pub. L. 101–624, title XVI, §1605(a), Nov. 28, 1990, 104 Stat. 3711; amended Pub. L. 102–237, title IV, §402(3), (4), Dec. 13, 1991, 105 Stat. 1863, related to establishment of Agricultural Science and Technology Review Board, prior to repeal by Pub. L. 104–127, title VIII, §853(a), Apr. 4, 1996, 110 Stat. 1172.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2)(A). Pub. L. 115–334, §7104(1), substituted "specialty" for "speciality".
+
+Subsec. (a)(2)(B). Pub. L. 115–334, §7104(2)(A), substituted "11" for "9" in introductory provisions.
+
+Subsec. (a)(2)(B)(i). Pub. L. 115–334, §7104(2)(B), substituted "Five" for "Three".
+
+Subsec. (a)(2)(D). Pub. L. 115–334, §7104(3), substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–79, §7103(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 

@@ -16,7 +16,7 @@
 
 &emsp;(C) "adversary adjudication" means (i) an adjudication under section 554 of this title in which the position of the United States is represented by counsel or otherwise, but excludes an adjudication for the purpose of establishing or fixing a rate or for the purpose of granting or renewing a license, (ii) any appeal of a decision made pursuant to section 7103 of title 41 before an agency board of contract appeals as provided in section 7105 of title 41, (iii) any hearing conducted under chapter 38 of title 31, and (iv) the Religious Freedom Restoration Act of 1993;
 
-&emsp;(D) "adjudicative officer" means the deciding official, without regard to whether the official is designated as an administrative lawjudge, a hearing officer or examiner, or otherwise, who presided at the adversary adjudication;
+&emsp;(D) "adjudicative officer" means the deciding official, without regard to whether the official is designated as an administrative law judge, a hearing officer or examiner, or otherwise, who presided at the adversary adjudication;
 
 &emsp;(E) "position of the agency" means, in addition to the position taken by the agency in the adversary adjudication, the action or failure to act by the agency upon which the adversary adjudication is based; except that fees and other expenses may not be awarded to a party for any portion of the adversary adjudication in which the party has unreasonably protracted the proceedings; and
 
@@ -34,7 +34,7 @@
 
 (f) No award may be made under this section for costs, fees, or other expenses which may be awarded under section 7430 of the Internal Revenue Code of 1986.
 
-(Added Pub. L. 96–481, title II, §203(a)(1), (c), Oct. 21, 1980, 94 Stat. 2325, 2327; revived and amended Pub. L. 99–80, §§1, 6, Aug. 5, 1985, 99 Stat. 183, 186; Pub. L. 99–509, title VI, §6103(c), Oct. 21, 1986, 100 Stat. 1948; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6239(b), Nov. 10, 1988, 102 Stat. 3746; Pub. L. 103–141, §4(b), Nov. 16, 1993, 107 Stat. 1489; Pub. L. 104–121, title II, §231, Mar. 29, 1996, 110 Stat. 862; Pub. L. 111–350, §5(a)(1), Jan. 4, 2011, 124 Stat. 3841.)
+(Added Pub. L. 96–481, title II, §203(a)(1), (c), Oct. 21, 1980, 94 Stat. 2325, 2327; revived and amended Pub. L. 99–80, §§1, 6, Aug. 5, 1985, 99 Stat. 183, 186;Pub. L. 99–509, title VI, §6103(c), Oct. 21, 1986, 100 Stat. 1948; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6239(b), Nov. 10, 1988, 102 Stat. 3746; Pub. L. 103–141, §4(b), Nov. 16, 1993, 107 Stat. 1489; Pub. L. 104–121, title II, §231, Mar. 29, 1996, 110 Stat. 862; Pub. L. 111–350, §5(a)(1), Jan. 4, 2011, 124 Stat. 3841.)
 
 #### References in Text
 
@@ -132,7 +132,7 @@ For termination of Administrative Conference of United States, see provision of 
 
 #### Prohibition on Use of Energy and Water Development Appropriations To Pay Intervening Parties in Regulatory or Adjudicatory Proceedings
 
-Pub. L. 102–377, title V, §502, Oct. 2, 1992, 106 Stat. 1342, provided that: "None of the funds in this Act orsubsequent Energy and Water Development Appropriations Acts shall be used to pay the expenses of, or otherwise compensate, parties intervening in regulatory or adjudicatory proceedings funded in such Acts."
+Pub. L. 102–377, title V, §502, Oct. 2, 1992, 106 Stat. 1342, provided that: "None of the funds in this Act or subsequent Energy and Water Development Appropriations Acts shall be used to pay the expenses of, or otherwise compensate, parties intervening in regulatory or adjudicatory proceedings funded in such Acts."
 
 #### Revival of Previously Repealed Provisions
 

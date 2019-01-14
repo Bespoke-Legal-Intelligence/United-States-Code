@@ -20,7 +20,7 @@
 | [3122\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003122%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7852%28a%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201171.md) | Repealed. |
 | [3123\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003123%20-%20National%20Agricultural%20Research%2C%20Extension%2C%20Education%2C%20and%20Economics%20Advisory%20Board.md) | National Agricultural Research, Extension, Education, and Economics Advisory Board. |
 | [3123a.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003123a%20-%20Specialty%20crop%20committee.md) | Specialty crop committee. |
-| [3123b.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003123b%20-%20Renewable%20energy%20committee.md) | Renewable energy committee. |
+| [3123b.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003123b%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20VII%2C%20%C2%A77105%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204783.md) | Repealed. |
 | [3124\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003124%20-%20Existing%20research%20programs.md) | Existing research programs. |
 | [3124a.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003124a%20-%20Federal-State%20partnership%20and%20coordination.md) | Federal-State partnership and coordination. |
 | [3125\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003125%20-%20Annual%20report%20of%20Secretary%20of%20Agriculture%20to%20President%20and%20Congress.md) | Annual report of Secretary of Agriculture to President and Congress. |
@@ -50,6 +50,8 @@
 | [3155\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003155%20-%20Agricultural%20and%20food%20policy%20research%20centers.md) | Agricultural and food policy research centers. |
 | [3156\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003156%20-%20Education%20grants%20to%20Alaska%20Native%20serving%20institutions%20and%20Native%20Hawaiian%20serving%20institutions.md) | Education grants to Alaska Native serving institutions and Native Hawaiian serving institutions. |
 | [3157\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003157%20-%20Competitive%2C%20special%2C%20and%20facilities%20research%20grants.md) | Competitive, special, and facilities research grants. |
+| [3158\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003158%20-%20Next%20generation%20agriculture%20technology%20challenge.md) | Next generation agriculture technology challenge. |
+| [3159\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003159%20-%20Land-grant%20designation.md) | Land-grant designation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -99,12 +101,13 @@
 | :--- | ---: |
 | [3221\.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003221%20-%20Extension%20at%201890%20land-grant%20colleges%2C%20including%20Tuskegee%20University.md) | Extension at 1890 land-grant colleges, including Tuskegee University. |
 | [3222\.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003222%20-%20Agricultural%20research%20at%201890%20land-grant%20colleges%2C%20including%20Tuskegee%20University.md) | Agricultural research at 1890 land-grant colleges, including Tuskegee University. |
-| [3222a.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003222a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7855%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201172.md) | Repealed. |
+| [3222a.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003222a%20-%20Scholarships%20for%20students%20at%201890%20Institutions.md) | Scholarships for students at 1890 Institutions. |
 | [3222b.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003222b%20-%20Grants%20to%20upgrade%20agricultural%20and%20food%20sciences%20facilities%20at%201890%20land-grant%20colleges%2C%20including%20Tuskegee%20University.md) | Grants to upgrade agricultural and food sciences facilities at 1890 land-grant colleges, including Tuskegee University. |
 | 3222b–1. | Grants to upgrade agriculture and food sciences facilities at the District of Columbia land-grant university. |
 | 3222b–2. | Grants to upgrade agriculture and food sciences facilities and equipment and support tropical and subtropical agricultural research at insular area land-grant colleges and universities. |
 | [3222c.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003222c%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VII%2C%20%C2%A77114%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20875.md) | Repealed. |
 | [3222d.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003222d%20-%20Matching%20funds%20requirement%20for%20research%20and%20extension%20activities%20at%20eligible%20institutions.md) | Matching funds requirement for research and extension activities at eligible institutions. |
+| [3222e.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003222e%20-%20New%20beginning%20for%20tribal%20students.md) | New beginning for tribal students. |
 | [3223\.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003223%20-%20Grants%20for%20acquisition%20and%20improvement%20of%20research%20facilities%20and%20equipment.md) | Grants for acquisition and improvement of research facilities and equipment. |
 | [3224\.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003224%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7873%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201175%3B%20Pub.%20L.%20105%E2%80%93185%2C%20title%20VI%2C%20%C2%A7606%28g%29%2C%20June%2023%2C%201998%2C%20112%E2%80%A6.md) | Repealed. |
 
@@ -125,11 +128,12 @@
 |  |  |
 | :--- | ---: |
 | [3291\.](Subchapter%20008%20%28VIII%29%20-%20International%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003291%20-%20International%20agricultural%20research%2C%20extension%2C%20and%20teaching.md) | International agricultural research, extension, and teaching. |
-| [3292\.](Subchapter%20008%20%28VIII%29%20-%20International%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003292%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7856%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201172.md) | Repealed. |
+| [3292\.](Subchapter%20008%20%28VIII%29%20-%20International%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003292%20-%20Partnerships%20to%20build%20capacity%20in%20international%20agricultural%20research%2C%20extension%2C%20and%20teaching.md) | Partnerships to build capacity in international agricultural research, extension, and teaching. |
 | [3292a.](Subchapter%20008%20%28VIII%29%20-%20International%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003292a%20-%20United%20States-Mexico%20joint%20agricultural%20research.md) | United States-Mexico joint agricultural research. |
 | [3292b.](Subchapter%20008%20%28VIII%29%20-%20International%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003292b%20-%20Competitive%20grants%20for%20international%20agricultural%20science%20and%20education%20programs.md) | Competitive grants for international agricultural science and education programs. |
 | [3293\.](Subchapter%20008%20%28VIII%29%20-%20International%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003293%20-%20Agricultural%20fellowship%20program%20for%20middle%20income%20countries%2C%20emerging%20democracies%2C%20and%20emerging%20markets.md) | Agricultural fellowship program for middle income countries, emerging democracies, and emerging markets. |
 | [3294\.](Subchapter%20008%20%28VIII%29%20-%20International%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003294%20-%20Center%20For%20North%20American%20Studies.md) | Center For North American Studies. |
+| [3295\.](Subchapter%20008%20%28VIII%29%20-%20International%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003295%20-%20International%20Agricultural%20Education%20Fellowship%20Program.md) | International Agricultural Education Fellowship Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -146,7 +150,7 @@
 |  |  |
 | :--- | ---: |
 | [3310\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003310%20-%20Limitation%20on%20indirect%20costs%20for%20agricultural%20research%2C%20education%2C%20and%20extension%20programs.md) | Limitation on indirect costs for agricultural research, education, and extension programs. |
-| [3310a.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003310a%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VII%2C%20%C2%A77118%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20875.md) | Repealed. |
+| [3310a.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003310a%20-%20Research%20equipment%20grants.md) | Research equipment grants. |
 | [3311\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003311%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [3312\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003312%20-%20Authorization%20of%20appropriations%20for%20extension%20education.md) | Authorization of appropriations for extension education. |
 | [3313\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003313%20-%20Payment%20of%20funds.md) | Payment of funds. |
@@ -163,11 +167,12 @@
 | [3319c.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319c%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20XVI%2C%20%C2%A71601%28f%29%281%29%28F%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203704.md) | Repealed. |
 | [3319d.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319d%20-%20Supplemental%20and%20alternative%20crops.md) | Supplemental and alternative crops. |
 | [3319e.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319e%20-%20New%20Era%20Rural%20Technology%20Program.md) | New Era Rural Technology Program. |
-| [3319f.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319f%20-%20Beginning%20farmer%20and%20rancher%20development%20program.md) | Beginning farmer and rancher development program. |
+| [3319f.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319f%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20XII%2C%20%C2%A712301%28a%29%281%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204950.md) | Repealed. |
 | [3319g.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319g%20-%20Fees.md) | Fees. |
 | [3319h.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319h%20-%20Funds%20for%20research%20facilities.md) | Funds for research facilities. |
 | [3319i.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319i%20-%20Capacity%20building%20grants%20for%20NLGCA%20Institutions.md) | Capacity building grants for NLGCA Institutions. |
 | [3319j.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319j%20-%20Borlaug%20International%20Agricultural%20Science%20and%20Technology%20Fellowship%20Program.md) | Borlaug International Agricultural Science and Technology Fellowship Program. |
+| [3319k.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319k%20-%20Agriculture%20Advanced%20Research%20and%20Development%20Authority%20pilot.md) | Agriculture Advanced Research and Development Authority pilot. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -219,7 +224,7 @@
 
 |  |  |
 | :--- | ---: |
-| [3371\.](Subchapter%20015%20%28XV%29%20-%20General%20Provisions/%C2%A7%2003371%20-%20Matching%20funds%20requirement.md) | Matching funds requirement. |
+| [3371\.](Subchapter%20015%20%28XV%29%20-%20General%20Provisions/%C2%A7%2003371%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20VII%2C%20%C2%A77614%28a%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204833.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

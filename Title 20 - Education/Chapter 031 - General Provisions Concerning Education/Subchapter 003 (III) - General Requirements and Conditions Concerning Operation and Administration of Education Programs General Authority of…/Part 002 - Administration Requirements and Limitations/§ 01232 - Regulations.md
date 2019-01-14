@@ -52,7 +52,7 @@ Pub. L. 103–382, §247, amended section generally. Prior to amendment, section
 
 <b>1980</b>—Subsec. (d)(1). Pub. L. 96–374 inserted ", in whole or in part" after "disapprove such final regulation".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–482, §405(a), added par. (1), designated existing provisions which constitutedentire subsec. (a) as par. (2) and, as so redesignated, struck out applicability to rules, guidelines, interpretations, or orders.
+<b>1976</b>—Subsec. (a). Pub. L. 94–482, §405(a), added par. (1), designated existing provisions which constituted entire subsec. (a) as par. (2) and, as so redesignated, struck out applicability to rules, guidelines, interpretations, or orders.
 
 Subsec. (b)(1). Pub. L. 94–482, §405(b)(1), substituted "proposed regulation" for "standard, rule, regulation, or requirement of general applicability".
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except eith
 
 Pub. L. 94–142, §8, Nov. 29, 1975, 89 Stat. 796, provided that:
 
-"(a) Notwithstanding any other provision of law, the amendments made by sections 2(a), 2(b), and 2(c) \[amending sections 1411 and 1412 of this title as in effect through Sept. 30, 1977, and amending provisions set out as notes under sections 1411 to 1413 of this title\] shall take effect on July 1, 1975.
+"(a) Notwithstanding any other provision of law, the amendments made by sections 2(a), 2(b), and 2(c) \[amending sections 1411 and 1412 of this title as in effect through Sept. 30, 1977, and amending provisions setout as notes under sections 1411 to 1413 of this title\] shall take effect on July 1, 1975.
 
 "(b) The amendments made by sections 2(d), 2(e), 3, 6, and 7 \[enacting sections 1405 and 1406 of this title, amending this section and sections 1412 and 1453 of this title, enacting provisions set out as a note under section 1411 of this title, and amending provisions set out as a note under section 1401 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1975\].
 

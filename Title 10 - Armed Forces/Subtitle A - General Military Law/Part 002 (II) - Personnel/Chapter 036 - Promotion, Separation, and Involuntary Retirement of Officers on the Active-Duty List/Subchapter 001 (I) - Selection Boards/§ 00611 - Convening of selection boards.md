@@ -34,7 +34,7 @@ Pub. L. 99–145, title V, §514(e), Nov. 8, 1985, 99 Stat. 630, provided that:
 
 "(1) An officer who on the day before the date of the enactment of this Act \[Nov. 8, 1985\] is serving in or has the grade of commodore shall as of the date of the enactment of this Act be serving in or have the grade of rear admiral (lower half).
 
-"(2) An officer who on the day before the date of the enactment of this Act is on a list of officers selected for promotion to the grade of commodore shall as of the date of the enactment of this Act be considered to be on a list of officers selected for promotion to the grade of rear admiral (lower half)."
+"(2) An officer who on the day before the date of the enactment of this Act is on a list of officers selected for promotion to the grade of commodore shall as of the date of the enactment of this Act be considered to beon a list of officers selected for promotion to the grade of rear admiral (lower half)."
 
 #### Transition Provisions Covering 1980 Amendments by Defense Officer Personnel Management Act \[Pub. L. 96–513\]
 
@@ -96,9 +96,9 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 &emsp;"(2) has been considered once but not recommended for promotion to the next higher regular grade by a selection board convened under the laws in effect on the day before the effective date of this Act,
 
-> shall, within one year after the effective date of this Act, be considered for promotion to the next higherregular grade by a selection board convened by the Secretary concerned under the laws in effect on the day before the effective date of this Act.
+> shall, within one year after the effective date of this Act, be considered for promotion to the next higher regular grade by a selection board convened by the Secretary concerned under the laws in effect on the day before the effective date of this Act.
 
-"(b)(1)(A) An officer described in subsection (a) who is recommended for promotion by the selection board which considers him pursuant to such subsection shall be considered to have been recommended for promotion to the next higher regular grade or the grade in which he is serving, whichever grade is higher, by a board convened under section 611(a) of title 10, United States Code, as added by this Act. Notwithstanding section 741(d) of title 10, United States Code, as added by this Act, the date of rank of an officer referred to in the preceding sentence who was serving in the temporary grade equivalent to the grade to which he is considered to have been recommended for promotion and who is promoted to that grade is the date of his temporary appointment in that grade.
+"(b)(1)(A) An officer described in subsection (a) who is recommended for promotion by the selection board which considers him pursuant to such subsection shall be considered to have been recommended for promotion to the next higher regular grade or the grade in which he is serving, whichever grade is higher, by a board convened under section 611(a) of title 10, United States Code, as added by this Act. Notwithstanding section 741(d) of title 10, United States Code, as added by this Act, the date of rank of an officer referred to in thepreceding sentence who was serving in the temporary grade equivalent to the grade to which he is considered to have been recommended for promotion and who is promoted to that grade is the date of his temporary appointment in that grade.
 
 "(2) An officer described in subsection (a) who is not recommended for promotion by such board shall, unless continued on active duty under section 637 of such title, as added by this Act, be retired, if eligible to retire, be discharged, or be continued on active duty until eligible to retire and then be retired, under the laws applicable on the day before the effective date of this Act \[Sept. 15, 1981\].
 
@@ -166,7 +166,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 &emsp;"(3) who is promoted pursuant to section 601(a) to the regular grade equivalent to such temporary grade,
 
-> shall be subject to mandatory retirement for years of service in accordance with the laws applicable on theday before the effective date of this Act to officers in the permanent grade he held on such date. However, such an officer shall not be subject to a mandatory retirement date which is earlier than the first day of the month following the month of the thirtieth day after he completes 30 years of service as computed under section 3927(a) or 8927(a), as appropriate, of title 10, United States Code, as in effect on the day before the effective date of this Act.
+> shall be subject to mandatory retirement for years of service in accordance with the laws applicable on the day before the effective date of this Act to officers in the permanent grade he held on such date. However, such an officer shall not be subject to a mandatory retirement date which is earlier than the first day of the month following the month of the thirtieth day after he completes 30 years of service as computed under section 3927(a) or 8927(a), as appropriate, of title 10, United States Code, as in effect on the day before the effective date of this Act.
 
 "(b)(1) The Secretary of the Army or the Secretary of the Air Force, as appropriate, may convene selection boards under this section for the purpose of recommending from among officers described in subsection (a) officers to be selected to be subject to mandatory retirement for years of service in accordance with the laws applicable on the day before the effective date of this Act \[Sept. 15, 1981\] to officers in the permanent grade to which such officers were promoted pursuant to section 601(a) or to officers in a lower permanent grade higher than the permanent grade held by such officers on the day before the effective date of this Act.
 
@@ -206,7 +206,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 &emsp;"(B) is on a list of officers recommended for promotion to the regular grade of colonel,
 
-> shall be retired under section 3921 or 8921, as appropriate, of such title (as in effect on the day before the effective date of this Act).
+> shall be retired under section 3921 or 8921 \[now 7321 or 9321\], as appropriate, of such title (as in effect on the day before the effective date of this Act).
 
 "(2) Paragraph (1) does not apply to an officer who—
 
@@ -218,7 +218,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 #### "regular officers whose retirement has been deferred
 
-"Sec. 610. A regular officer of the Army or Air Force serving on active duty on the effective date of this Act \[Sept. 15, 1981\] whose retirement under chapter 367 or 867 of title 10, United States Code, has been deferred before that date—
+"Sec. 610. A regular officer of the Army or Air Force serving on active duty on the effective date of this Act \[Sept. 15, 1981\] whose retirement under chapter 367 or 867 \[now 741 or 941\] of title 10, United States Code, has been deferred before that date—
 
 &emsp;"(1) under a provision of such chapter; or
 
@@ -242,7 +242,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 &emsp;"(1) serving in a temporary grade which, by its own terms, is limited in duration;
 
-&emsp;"(2) designated for limited duty in a grade to which he was appointed under section 5596 of title 10, United States Code, before the effective date of this Act \[Sept. 15, 1981\]; or
+&emsp;"(2) designated for limited duty in a grade to which he was appointed under section 5596 \[now 8146\] of title 10, United States Code, before the effective date of this Act \[Sept. 15, 1981\]; or
 
 &emsp;"(3) recommended for promotion or promoted to a grade under section 5787 of such title, as in effect before the effective date of this Act.
 
@@ -260,7 +260,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 &emsp;"(2) had not previously failed of selection for promotion to that grade,
 
-> may not, because of such failures of selection, be involuntarily separated, involuntarily discharged, or retired under chapter 36 of title 10, United States Code, as added by this Act, before June 30, 1982, unless the officer so requests.
+> may not, because of such failures of selection, be involuntarily separated, involuntarily discharged, or retired under chapter 36 of title 10, United States Code, asadded by this Act, before June 30, 1982, unless the officer so requests.
 
 #### "right of certain officers to retire under prior law
 
@@ -270,7 +270,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 &emsp;"(B) is on a promotion list to any such grade,
 
-> shall be retired on the date provided under the laws in effect on September 14, 1981, except that an officer for whom no means can be established under the laws in effect on September 14, 1981, for computing creditable service in determining whether the officer is subject to involuntary retirement shall be retired under chapter 573 of title 10, United States Code, as in effect on September 14, 1981, on the basis of the years of service of such officer as determined under regulations prescribed under section 624(b).
+> shall be retired on the date provided under the laws in effect on September 14, 1981, except that an officer for whom no means can be established under the laws in effect on September 14, 1981, for computing creditable service in determining whether the officer is subject to involuntary retirement shall be retired under chapter 573 \[now 843\] of title 10, United States Code, as in effect on September 14, 1981, on the basis of the years of service of such officer as determined under regulations prescribed under section 624(b).
 
 "(2) This subsection does not apply to an officer—
 
@@ -358,11 +358,11 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 > and who retires on or after the effective date of this Act, retires in the grade of rear admiral and is entitled to wear the uniform and insignia of a rear admiral. If such an officer is ordered to active duty after his retirement, he is considered, for the purposes of determining his pay, uniform and insignia, and rank among other commissioned officers, as having held the grade of rear admiral on the retired list on the day before the effective date of this Act.
 
-"(f) A reserve officer of the Navy who on the day before the effective date of this Act \[Sept. 15, 1981\] was in an active status and was serving in the grade of rear admiral or was on a list of reserve officers recommended for promotion to the grade of rear admiral is not subject to \[former\] subsection (f) of section 6389 of title 10, United States Code, as added by this Act.
+"(f) A reserve officer of the Navy who on the day before the effective date of this Act \[Sept. 15, 1981\] was in an active status and was serving in the grade of rear admiral or was on a list of reserve officers recommended for promotion to the grade of rear admiral is not subject to \[former\] subsection (f) of section 6389 \[now 8373\] of title 10, United States Code, as added by this Act.
 
 #### "female officers
 
-"Sec. 615. (a) Except as provided under subsection (c), each regular officer who on the effective date of this Act \[Sept. 15, 1981\] is serving on the active list in the line of the Navy or on the active list of the Marine Corps under an appointment made under section 5590 of title 10, United States Code, shall be reappointed in the line of the Navy or in the Marine Corps, as appropriate, in the grade and with the date of rank held by such officer immediately before such reappointment. Each such reappointment shall be made in accordance with the provisions of such title as amended by this Act but notwithstanding any limitation otherwise applicable with regard to age, grade, or physical standards.
+"Sec. 615. (a) Except as provided under subsection (c), each regular officer who on the effective date of thisAct \[Sept. 15, 1981\] is serving on the active list in the line of the Navy or on the active list of the Marine Corps under an appointment made under section 5590 of title 10, United States Code, shall be reappointed in the line of the Navy or in the Marine Corps, as appropriate, in the grade and with the date of rank held by such officer immediately before such reappointment. Each such reappointment shall be made in accordance with the provisions of such title as amended by this Act but notwithstanding any limitation otherwise applicable with regard to age, grade, or physical standards.
 
 "(b) Each officer of the Navy who on the effective date of this Act \[Sept. 15, 1981\] is serving in a staff corps under an appointment made under section 5590 of title 10, United States Code, shall be reappointed in that corps in the grade and with the date of rank held by such officer immediately before such reappointment. Each such reappointment shall be made in accordance with the provisions of such title as amended by this Act but notwithstanding any limitation otherwise applicable with regard to age, grade, or physical standards.
 
@@ -414,15 +414,15 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 #### "limited-duty officers
 
-"Sec. 616. (a) An officer of the Regular Navy or Regular Marine Corps who on the effective date of this Act \[Sept. 15, 1981\] is an officer who was designated for limited duty before that date under section 5589 of title 10, United States Code, is subject to section 6383 of such title (as in effect on the day before the effective date of this Act), unless promoted to a higher permanent grade under chapter 36 of title 10, United States Code, as added by this Act.
+"Sec. 616. (a) An officer of the Regular Navy or Regular Marine Corps who on the effective date of this Act \[Sept. 15, 1981\] is an officer who was designated for limited duty before that date under section 5589 \[now 8139\] of title 10, United States Code, is subject to section 6383 \[now 8372\] of such title (as in effect on the day before the effective date of this Act), unless promoted to a higher permanent grade under chapter 36 of title 10, United States Code, as added by this Act.
 
-"(b) Any female member of the Navy who on April 2, 1981, was appointed under section 591 \[now 12201\] or 5590 of title 10, United States Code, in the grade of ensign as an officer designated for limited duty may after September 14, 1981, be reappointed as an officer designated for limited duty under section 5596 of title 10, UnitedStates Code, as amended by this Act. A member so reappointed shall have a date of rank as an ensign of April 2, 1981, and shall have the same permanent pay grade and status as that member held on April 1, 1981.
+"(b) Any female member of the Navy who on April 2, 1981, was appointed under section 591 \[now 12201\] or 5590 of title 10, United States Code, in the grade of ensign as an officer designated for limited duty may after September 14, 1981, be reappointed as an officer designated for limited duty under section 5596 \[now 8146\] of title 10, United States Code, as amended by this Act. A member so reappointed shall have a date of rank as an ensign of April 2, 1981, and shall have the same permanent pay grade and status as that member held on April 1, 1981.
 
-"(c) An officer of the Navy or Marine Corps who on September 15, 1981, was an officer designated for limited duty under section 5589 of title 10, United States Code, and who on the date of the enactment of this subsection \[Oct. 19, 1984\] is serving in a temporary grade above the grade of lieutenant, in the case of an officer of the Navy, or captain, in the case of an officer of the Marine Corps, may be reappointed under section 5589 of title 10, United States Code (as in effect on or after September 15, 1981), in the same permanent grade and with the same date of rank held by that officer on the active-duty list immediately before such reappointment if he is otherwise eligible for appointment under that section.
+"(c) An officer of the Navy or Marine Corps who on September 15, 1981, was an officer designated for limited duty under section 5589 \[now 8139\] of title 10, United States Code, and who on the date of the enactment of this subsection \[Oct. 19, 1984\] is serving in a temporary grade above the grade of lieutenant, in the case of an officer of the Navy, or captain, in the case of an officer of the Marine Corps, may be reappointedunder section 5589 \[now 8139\] of title 10, United States Code (as in effect on or after September 15, 1981), in the same permanent grade and with the same date of rank held by that officer on the active-duty list immediately before such reappointment if he is otherwise eligible for appointment under that section.
 
 #### "certain navy lieutenants holding temporary appointments in the grade of lieutenant commander
 
-"Sec. 617. Any officer who on the effective date of this Act \[Sept. 15, 1981\] holds a temporary appointment in the grade of lieutenant commander under section 5787d of title 10, United States Code, shall on and after such date be considered to be serving in such grade as if such appointment had been made under section 5721 of such title, as added by this Act.
+"Sec. 617. Any officer who on the effective date of this Act \[Sept. 15, 1981\] holds a temporary appointment in the grade of lieutenant commander under section 5787d of title 10, United States Code, shall on and after such date be considered to be serving in such grade as if such appointment had been made under \[former\] section 5721 of such title, as added by this Act.
 
 #### "director of budget and reports of the navy
 
@@ -436,7 +436,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 "
 
-Sec. 620. Notwithstanding section 6389 of title 10, United States Code, an officer who on September 14, 1981—
+Sec. 620. Notwithstanding section 6389 \[now 8373\] of title 10, United States Code, an officer who on September 14, 1981—
 
 &emsp;"(1) holds the grade of lieutenant commander in the Naval Reserve \[now Navy Reserve\];
 
@@ -524,13 +524,13 @@ Sec. 620. Notwithstanding section 6389 of title 10, United States Code, an offic
 
 &emsp;"(1) on the day before the effective date of this Act \[Sept. 15, 1981\] had a permanent status as an enlisted member or as a warrant officer (or had a statutory right to be enlisted or to be appointed as a warrant officer) and was serving as an officer under a temporary appointment; and
 
-&emsp;"(2) on or after the effective date of this Act and before completing 10 years of commissioned service for purposes of retirement eligibility under section 3911, 6323, or 8911 of title 10, United States Code, completes 20 years of total service, as determined under section 1405 of such title,
+&emsp;"(2) on or after the effective date of this Act and before completing 10 years of commissioned service for purposes of retirement eligibility under section 3911, 6323, or 8911 \[now 7311, 8323, or 9311\] of title 10, United States Code, completes 20 years of total service, as determined under section 1405 of such title,
 
 > is entitled to retire or transfer to the Fleet Reserve or Fleet Marine Corps Reserve in the highest grade he held as an enlisted member or a warrant officer.
 
 #### "savings provision for retired grade for officers not subsequently promoted
 
-"Sec. 629. In applying section 1370(a)(2) of title 10, United States Code, as added by this Act, to an officer of the Army, Navy, Air Force, or Marine Corps who was on active duty on the day before the effective date of this Act \[Sept. 15, 1981\] and who on or after the effective date of this Act is not promoted to a grade higher than the grade he held on the day before the effective date of this Act or, in the case of an officer who was on a list of officers recommended for promotion on such date, is not promoted to a grade higher than the grade to which he was recommended for promotion, 'two years' shall be substituted for 'three years'. The Secretary of the military department concerned maywaive the requirements of this section and of section 1370(a)(2) of title 10, United States Code, as added by this Act, with respect to any officer described in the preceding sentence.
+"Sec. 629. In applying section 1370(a)(2) of title 10, United States Code, as added by this Act, to an officer of the Army, Navy, Air Force, or Marine Corps who was on active duty on the day before the effective date of this Act \[Sept. 15, 1981\] and who on or after the effective date of this Act is not promoted to a grade higher than the grade he held on the day before the effective date of this Act or, in the case of an officer who was on a list of officers recommended for promotion on such date, is not promoted to a grade higher than the grade to which he was recommended for promotion, 'two years' shall be substituted for 'three years'. The Secretary of the military department concerned may waive the requirements of this section and of section 1370(a)(2) of title 10, United States Code, as added by this Act, with respect to any officer described in the preceding sentence.
 
 #### "exemption of certain officers from selective early retirement provisions
 
@@ -568,7 +568,7 @@ Sec. 634. Unless entitled to a higher grade under any other provision of law, a 
 
 &emsp;"(1) is on active duty on September 14, 1981; and
 
-&emsp;"(2) after such date retires under section 3911 or 8911 of title 10, United States Code,
+&emsp;"(2) after such date retires under section 3911 or 8911 \[now 7311 or 9311\] of title 10, United States Code,
 
 > is entitled to retire in the reserve grade which he held or to which he had been selected for promotion on September 14, 1981.
 

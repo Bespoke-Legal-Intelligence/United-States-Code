@@ -1,0 +1,196 @@
+### §285a–11. Pediatric cancer research, awareness, and survivorship
+
+#### (a) Children's cancer biorepositories
+
+#### (1) Award
+
+&emsp;The Secretary, acting through the Director of NIH, may make awards to an entity or entities described in paragraph (4) to build upon existing research efforts to collect biospecimens and clinical and demographic information of children, adolescents, and young adults with selected cancer subtypes (and their recurrences) for which current treatments are least effective, in order to achieve a better understanding of the causes of such cancer subtypes (and their recurrences), and the effects and outcomes of treatments for such cancers.
+
+#### (2) Use of funds
+
+&emsp;Amounts received under an award under paragraph (1) may be used to carry out the following:
+
+&emsp;&emsp;(A) Collect and store high-quality, donated biospecimens and associated clinical and demographic information on children, adolescents, and young adults diagnosed with cancer in the United States, focusing on children, adolescents, and young adults with cancer enrolled in clinical trials for whom current treatments are least effective. Activities under this subparagraph may include storage of biospecimens and associated clinical and demographic data at existing biorepositories supported by the National Cancer Institute.
+
+&emsp;&emsp;(B) Maintain an interoperable, secure, and searchable database on stored biospecimens and associated clinical and demographic data from children, adolescents, and young adults with cancer for the purposes of research by scientists and qualified health care professionals.
+
+&emsp;&emsp;(C) Establish and implement procedures for evaluating applications for access to such biospecimens and clinical and demographic data from researchers and other qualified health care professionals.
+
+&emsp;&emsp;(D) Provide access to biospecimens and clinical and demographic data from children, adolescents, and young adults with cancer to researchers and qualified health care professionals for peer-reviewed research—
+
+&emsp;&emsp;&emsp;(i) consistent with the procedures established pursuant to subparagraph (C);
+
+&emsp;&emsp;&emsp;(ii) only to the extent permitted by applicable Federal and State law; and
+
+&emsp;&emsp;&emsp;(iii) in a manner that protects personal privacy to the extent required by applicable Federal and State privacy law, at minimum.
+
+#### (3) No requirement
+
+&emsp;No child, adolescent, or young adult with cancer shall be required under this subsection to contribute a specimen to a biorepository or share clinical or demographic data.
+
+#### (4) Application; considerations
+
+#### (A) Application
+
+&emsp;&emsp;To be eligible to receive an award under paragraph (1) an entity shall submit an application to the Secretary at such a time, in such manner, and containing such information as the Secretary may reasonably require.
+
+#### (B) Considerations
+
+&emsp;&emsp;In evaluating applications submitted under subparagraph (A), the Secretary shall consider the existing infrastructure of the entity that would allow for the timely capture of biospecimens and related clinical and demographic information for children, adolescents, and young adults with cancer for whom current treatments are least effective.
+
+#### (5) Privacy protections and informed consent
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may not make an award under paragraph (1) to an entity unless the Secretary ensures that such entity—
+
+&emsp;&emsp;&emsp;(i) collects biospecimens and associated clinical and demographic information only from participants who have given their informed consent in accordance with Federal and State law; and
+
+&emsp;&emsp;&emsp;(ii) protects personal privacy to the extent required by applicable Federal and State law, at minimum.
+
+#### (B) Informed consent
+
+&emsp;&emsp;The Secretary shall ensure biospecimens and associated clinical and demographic information are collected with informed consent, as described in subparagraph (A)(i).
+
+#### (6) Guidelines and oversight
+
+&emsp;The Secretary shall develop and disseminate appropriate guidelines for the development and maintenance of the biorepositories supported under this subsection, including appropriate oversight, to facilitate further research on select cancer subtypes (and their recurrences) in children, adolescents, and young adults with such cancers (and their recurrences).
+
+#### (7) Coordination
+
+&emsp;To encourage the greatest possible efficiency and effectiveness of federally supported efforts with respect to the activities described in this subsection, the Secretary shall ensure the appropriate coordination of programs supported under this section with existing federally supported cancer registry programs and the activities under section 280e–3a of this title, as appropriate.
+
+#### (8) Supplement not supplant
+
+&emsp;Funds provided under this subsection shall be used to supplement, and not supplant, Federal and non-Federal funds available for carrying out the activities described in this subsection.
+
+#### (9) Report
+
+&emsp;Not later than 4 years after June 5, 2018, the Secretary shall submit to Congress a report on—
+
+&emsp;&emsp;(A) the number of biospecimens and corresponding clinical demographic data collected through the biospecimen research efforts supported under paragraph (1);
+
+&emsp;&emsp;(B) the number of biospecimens and corresponding clinical demographic data requested for use by researchers;
+
+&emsp;&emsp;(C) barriers to the collection of biospecimens and corresponding clinical demographic data;
+
+&emsp;&emsp;(D) barriers experienced by researchers or health care professionals in accessing the biospecimens and corresponding clinical demographic data necessary for use in research; and
+
+&emsp;&emsp;(E) recommendations with respect to improving the biospecimen and biorepository research efforts under this subsection.
+
+#### (10) Definitions
+
+&emsp;For purposes of this subsection:
+
+#### (A) Award
+
+&emsp;&emsp;The term "award" includes a grant, contract, or cooperative agreement determined by the Secretary.
+
+#### (B) Biospecimen
+
+&emsp;&emsp;The term "biospecimen" includes—
+
+&emsp;&emsp;&emsp;(i) solid tumor tissue or bone marrow;
+
+&emsp;&emsp;&emsp;(ii) normal or control tissue;
+
+&emsp;&emsp;&emsp;(iii) blood and plasma;
+
+&emsp;&emsp;&emsp;(iv) DNA and RNA extractions;
+
+&emsp;&emsp;&emsp;(v) familial DNA; and
+
+&emsp;&emsp;&emsp;(vi) any other sample relevant to cancer research, as required by the Secretary.
+
+#### (C) Clinical and demographic information
+
+&emsp;&emsp;The term "clinical and demographic information" includes—
+
+&emsp;&emsp;&emsp;(i) date of diagnosis;
+
+&emsp;&emsp;&emsp;(ii) age at diagnosis;
+
+&emsp;&emsp;&emsp;(iii) the patient's sex, race, ethnicity, and environmental exposures;
+
+&emsp;&emsp;&emsp;(iv) extent of disease at enrollment;
+
+&emsp;&emsp;&emsp;(v) site of metastases;
+
+&emsp;&emsp;&emsp;(vi) location of primary tumor coded;
+
+&emsp;&emsp;&emsp;(vii) histologic diagnosis;
+
+&emsp;&emsp;&emsp;(viii) tumor marker data when available;
+
+&emsp;&emsp;&emsp;(ix) treatment and outcome data;
+
+&emsp;&emsp;&emsp;(x) information related to specimen quality; and
+
+&emsp;&emsp;&emsp;(xi) any other applicable information required by the Secretary.
+
+#### (b) Improving care for pediatric cancer survivors
+
+#### (1) Research on pediatric cancer survivorship
+
+&emsp;The Director of NIH, in coordination with ongoing research activities, may continue to conduct or support pediatric cancer survivorship research including in any of the following areas:
+
+&emsp;&emsp;(A) Outcomes of pediatric cancer survivors, including within minority or other medically underserved populations and with respect to health disparities of such outcomes.
+
+&emsp;&emsp;(B) Barriers to follow-up care for pediatric cancer survivors, including within minority or other medically underserved populations.
+
+&emsp;&emsp;(C) The impact of relevant factors, which may include familial, socioeconomic, and other environmental factors, on treatment outcomes and survivorship.
+
+&emsp;&emsp;(D) The development of indicators used for long-term follow-up and analysis of the late effects of cancer treatment for pediatric cancer survivors.
+
+&emsp;&emsp;(E) The identification of, as applicable—
+
+&emsp;&emsp;&emsp;(i) risk factors associated with the late effects of cancer treatment;
+
+&emsp;&emsp;&emsp;(ii) predictors of adverse neurocognitive and psychosocial outcomes; and
+
+&emsp;&emsp;&emsp;(iii) the molecular basis of long-term complications.
+
+&emsp;&emsp;(F) The development of targeted interventions to reduce the burden of morbidity borne by cancer survivors in order to protect such cancer survivors from the late effects of cancer.
+
+#### (2) Balanced approach
+
+&emsp;In conducting or supporting research under paragraph (1)(A)(i) on pediatric cancer survivors within minority or other medically underserved populations, the Director of NIH shall ensure that such research addresses both the physical and the psychological needs of such survivors, as appropriate.
+
+#### (c) Rule of construction
+
+Nothing in this section shall be construed as being inconsistent with the goals and purposes of the Minority Health and Health Disparities Research and Education Act of 2000.
+
+#### (d) Authorization of appropriations
+
+For purposes of carrying out this section and section 280e–3a of this title, there are authorized to be appropriated $30,000,000 for each of fiscal years 2019 through 2023. Funds appropriated under this subsection shall remain available until expended.
+
+(July 1, 1944, ch. 373, title IV, §417E, as added Pub. L. 110–285, §4(a), July 29, 2008, 122 Stat. 2629; amended Pub. L. 115–180, title I, §§101, 102(b), title II, §202, June 5, 2018, 132 Stat. 1383, 1386, 1389.)
+
+#### References in Text
+
+The Minority Health and Health Disparities Research and Education Act of 2000, referred to in subsec. (c), is Pub. L. 106–525, Nov. 22, 2000, 114 Stat. 2495. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 201 of this title and Tables.
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–180, §101(1), substituted "research, awareness, and survivorship" for "research and awareness" in section catchline.
+
+Subsec. (a). Pub. L. 115–180, §101(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows:
+
+"(1)
+
+Programs of research excellence in pediatric cancer.—The Secretary, in collaboration with the Director of NIH and other Federal agencies with interest in prevention and treatment of pediatric cancer, shall continue to enhance, expand, and intensify pediatric cancer research and other activities related to pediatric cancer, including therapeutically applicable research to generate effective treatments, pediatric preclinical testing, and pediatric clinical trials through National Cancer Institute-supported pediatric cancer clinical trial groups and their member institutions. In enhancing, expanding, and intensifying such research and other activities, the Secretary is encouraged to take into consideration the application of such research and other activities for minority, health disparity, and medically underserved communities. For purposes of this section, the term 'pediatric cancer research' means research on the causes, prevention, diagnosis, recognition, treatment, and long-term effects of pediatric cancer.
+
+"(2)
+
+Peer review requirements.—All grants awarded under this subsection shall be awarded in accordance with section 289a of this title."
+
+Subsec. (b). Pub. L. 115–180, §202, added subsec. (b) and struck out former subsec. (b) which related to public awareness of pediatric cancers and available treatments and research.
+
+Subsec. (c). Pub. L. 115–180, §101(3), struck out "(42 U.S.C. 202 note)" before period at end.
+
+Subsec. (d). Pub. L. 115–180, §102(b), substituted "2019 through 2023" for "2009 through 2013" and struck out "Such authorization of appropriations is in addition to the authorization of appropriations established in section 282a of this title with respect to such purpose." before "Funds appropriated".
+
+#### Reporting on Childhood Cancer Research Projects
+
+Pub. L. 115–180, title I, §121, June 5, 2018, 132 Stat. 1387, provided that: "The Director of the National Institutes of Health shall ensure that childhood cancer research projects conducted or supported by the National Institutes of Health are included in appropriate reports to Congress, which may include the Pediatric Research Initiative report."
+

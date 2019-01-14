@@ -12,7 +12,7 @@ In order to preserve for public use and enjoyment certain areas possessing outst
 
 #### (2) Areas included in boundary plan numbered NS–GI–7100J
 
-&emsp;The areas described in this paragraph are the following gulf coast islands and mainland areas, together with adjacent water areas as generally depicted on the drawing entitled "Proposed Boundary Plan, Proposed Gulf Islands National Seashore," numbered NS–GI–7100J, and dated December 1970:
+&emsp;The areas described in this paragraph are the following gulf coast islands and mainlandareas, together with adjacent water areas as generally depicted on the drawing entitled "Proposed Boundary Plan, Proposed Gulf Islands National Seashore," numbered NS–GI–7100J, and dated December 1970:
 
 &emsp;&emsp;(A) Ship, Petit Bois, and Horn Islands in Mississippi;
 
@@ -42,7 +42,7 @@ Sections 459h to 459h–10 of this title, referred to in subsec. (b)(3), was in 
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–554 inserted section catchline and subsec. (a) designation and heading, substituted "Inorder" for "That, in order", inserted subsec. (b) designation and heading, added par. (1), inserted par. (2) designation and heading and substituted "The areas described in this paragraph are" for "The seashore shall comprise", redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (2), realigned margins, and added pars. (3) and (4).
+<b>2000</b>—Pub. L. 106–554 inserted section catchline and subsec. (a) designation and heading, substituted "In order" for "That, in order", inserted subsec. (b) designation and heading, added par. (1), inserted par. (2) designation and heading and substituted "The areas described in this paragraph are" for "The seashore shall comprise", redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (2), realigned margins, and added pars. (3) and (4).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

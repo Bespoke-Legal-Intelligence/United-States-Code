@@ -42,7 +42,7 @@ For purposes of this part:
 
 &emsp;(B) that the insurer describe (in such form and manner as shall be prescribed in such regulations), in annual reports and in policies issued to the policyholder after the date on which such regulations are issued in final form pursuant to paragraph (1)(C)—
 
-&emsp;&emsp;(i) a description of the method by which any income and expenses of the insurer'sgeneral account are allocated to the policy during the term of the policy and upon the termination of the policy, and
+&emsp;&emsp;(i) a description of the method by which any income and expenses of the insurer's general account are allocated to the policy during the term of the policy and upon the termination of the policy, and
 
 &emsp;&emsp;(ii) for each report, the actual return to the plan under the policy and such other financial information as the Secretary may deem appropriate for the period covered by each such annual report,
 
@@ -58,7 +58,7 @@ For purposes of this part:
 
 &emsp;(i) as otherwise provided by the Secretary in regulations intended to prevent avoidance of the regulations issued under paragraph (1), or
 
-&emsp;(ii) as provided in an action brought by the Secretary pursuant to paragraph (2) or (5) of section 1132(a) of this title for a breach of fiduciary responsibilities which would also constitute a violation of Federal or State criminal law.
+&emsp;(ii) as provided in an action brought by the Secretary pursuant to paragraph (2) or (5) ofsection 1132(a) of this title for a breach of fiduciary responsibilities which would also constitute a violation of Federal or State criminal law.
 
 > The Secretary shall bring a cause of action described in clause (ii) if a participant, beneficiary, or fiduciary demonstrates to the satisfaction of the Secretary that a breach described in clause (ii) has occurred.
 

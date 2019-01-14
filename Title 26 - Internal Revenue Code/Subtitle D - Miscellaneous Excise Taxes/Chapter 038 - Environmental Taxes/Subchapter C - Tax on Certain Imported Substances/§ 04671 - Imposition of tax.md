@@ -28,7 +28,7 @@ Rules similar to the following rules shall apply for purposes of applying this s
 
 &emsp;(1) Paragraphs (2), (5), and (9) of section 4662(b) (relating to tax-free sales of chemicals used as fuel or in the production of fertilizer or animal feed).
 
-&emsp;(2) Paragraphs (2), (3), and (4) of section 4662(d) (relating to refund or credit of tax oncertain chemicals used as fuel or in the production of fertilizer or animal feed).
+&emsp;(2) Paragraphs (2), (3), and (4) of section 4662(d) (relating to refund or credit of tax on certain chemicals used as fuel or in the production of fertilizer or animal feed).
 
 #### (e) Termination
 

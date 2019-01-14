@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary for the operations,maintenance, development, enhancement, modernization, and investment costs of the DTS Network and the DTS–PO. Funds appropriated for allocation to the DTS–PO shall remain available to the DTS–PO for a period of two fiscal years.
+There are authorized to be appropriated such sums as may be necessary for the operations, maintenance, development, enhancement, modernization, and investment costs of the DTS Network and the DTS–PO. Funds appropriated for allocation to the DTS–PO shall remain available to the DTS–PO for a period of two fiscal years.
 
 #### (b) Fees
 

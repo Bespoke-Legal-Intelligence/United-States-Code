@@ -3,6 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [2421\.](%C2%A7%2002421%20-%20Transportation%20generally.md) | Transportation generally. |
+| [2421A.](%C2%A7%2002421A%20-%20Promotion%20or%20facilitation%20of%20prostitution%20and%20reckless%20disregard%20of%20sex%20trafficking.md) | Promotion or facilitation of prostitution and reckless disregard of sex trafficking. |
 | [2422\.](%C2%A7%2002422%20-%20Coercion%20and%20enticement.md) | Coercion and enticement. |
 | [2423\.](%C2%A7%2002423%20-%20Transportation%20of%20minors.md) | Transportation of minors. |
 | [2424\.](%C2%A7%2002424%20-%20Filing%20factual%20statement%20about%20alien%20individual.md) | Filing factual statement about alien individual. |
@@ -10,10 +11,15 @@
 | [2426\.](%C2%A7%2002426%20-%20Repeat%20offenders.md) | Repeat offenders. |
 | [2427\.](%C2%A7%2002427%20-%20Inclusion%20of%20offenses%20relating%20to%20child%20pornography%20in%20definition%20of%20sexual%20activity%20for%20which%20any%20person%20can%20be%20charged%20with%20a%20criminal%E2%80%A6.md) | Inclusion of offenses relating to child pornography in definition of sexual activity for which any person can be charged with a criminal offense. |
 | [2428\.](%C2%A7%2002428%20-%20Forfeitures.md) | Forfeitures. |
+| [2429\.](%C2%A7%2002429%20-%20Mandatory%20restitution.md) | Mandatory restitution. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–392, §3(b), Dec. 21, 2018, 132 Stat. 5251, added item 2429.
+
+Pub. L. 115–164, §3(b), Apr. 11, 2018, 132 Stat. 1254, added item 2421A.
 
 <b>2006</b>—Pub. L. 109–164, title I, §103(d)(2), Jan. 10, 2006, 119 Stat. 3563, added item 2428.
 
@@ -31,6 +37,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02421 - Transportation generally](%C2%A7%2002421%20-%20Transportation%20generally.md)
+- [&sect; 02421A - Promotion or facilitation of prostitution and reckless disregard of sex trafficking](%C2%A7%2002421A%20-%20Promotion%20or%20facilitation%20of%20prostitution%20and%20reckless%20disregard%20of%20sex%20trafficking.md)
 - [&sect; 02422 - Coercion and enticement](%C2%A7%2002422%20-%20Coercion%20and%20enticement.md)
 - [&sect; 02423 - Transportation of minors](%C2%A7%2002423%20-%20Transportation%20of%20minors.md)
 - [&sect; 02424 - Filing factual statement about alien individual](%C2%A7%2002424%20-%20Filing%20factual%20statement%20about%20alien%20individual.md)
@@ -38,3 +45,4 @@
 - [&sect; 02426 - Repeat offenders](%C2%A7%2002426%20-%20Repeat%20offenders.md)
 - [&sect; 02427 - Inclusion of offenses relating to child pornography in definition of sexual activity for which any person can be charged with a criminal&#8230;](%C2%A7%2002427%20-%20Inclusion%20of%20offenses%20relating%20to%20child%20pornography%20in%20definition%20of%20sexual%20activity%20for%20which%20any%20person%20can%20be%20charged%20with%20a%20criminal%E2%80%A6.md)
 - [&sect; 02428 - Forfeitures](%C2%A7%2002428%20-%20Forfeitures.md)
+- [&sect; 02429 - Mandatory restitution](%C2%A7%2002429%20-%20Mandatory%20restitution.md)

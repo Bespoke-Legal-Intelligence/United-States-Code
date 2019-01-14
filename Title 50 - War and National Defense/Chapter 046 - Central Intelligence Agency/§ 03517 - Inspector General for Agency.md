@@ -46,7 +46,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(A) a description of significant problems, abuses, and deficiencies relating to the administration of programs and operations of the Agency identified by the Office during the reporting period;
 
-&emsp;(B) a description of the recommendations for corrective action made by the Office duringthe reporting period with respect to significant problems, abuses, or deficiencies identified in subparagraph (A);
+&emsp;(B) a description of the recommendations for corrective action made by the Office during the reporting period with respect to significant problems, abuses, or deficiencies identified in subparagraph (A);
 
 &emsp;(C) a statement of whether corrective action has been completed on each significant recommendation described in previous semiannual reports, and, in a case where corrective action has been completed, a description of such corrective action;
 
@@ -90,7 +90,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (4) Pursuant to Title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\], the Director shall submit to the intelligence committees any report or findings and recommendations of an inspection, investigation, or audit conducted by the office which has been requested by the Chairman or Ranking Minority Member of either committee.
 
-(5)(A) An employee of the Agency, or of a contractor to the Agency, who intends to report to Congress a complaint or information with respect to an urgent concern may report such complaint or information to the Inspector General.
+(5)(A) An employee of the Agency, or of a contractor to the Agency, who intends to report to Congress a complaint or information with respect to an urgent concern may report suchcomplaint or information to the Inspector General.
 
 (B)(i) Not later than the end of the 14-calendar day period beginning on the date of receipt from an employee of a complaint or information under subparagraph (A), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the Director notice of that determination, together with the complaint or information.
 
@@ -150,7 +150,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (6) The Inspector General shall be provided with appropriate and adequate office space at central and field office locations, together with such equipment, office supplies, maintenance services, and communications facilities and services as may be necessary for the operation of such offices.
 
-(7)(A) Subject to applicable law and the policies of the Director, the Inspector General shallselect, appoint and employ such officers and employees as may be necessary to carry out his functions. In making such selections, the Inspector General shall ensure that such officers and employees have the requisite training and experience to enable him to carry out his duties effectively. In this regard, the Inspector General shall create within his organization a career cadre of sufficient size to provide appropriate continuity and objectivity needed for the effective performance of his duties.
+(7)(A) Subject to applicable law and the policies of the Director, the Inspector General shall select, appoint and employ such officers and employees as may be necessary to carry out his functions. In making such selections, the Inspector General shall ensure that such officers and employees have the requisite training and experience to enable him to carry out his duties effectively. In this regard, the Inspector General shall create within his organization a career cadre of sufficient size to provide appropriate continuity and objectivity needed for the effective performance of his duties.
 
 (B) Consistent with budgetary and personnel resources allocated by the Director, the Inspector General has final approval of—
 
@@ -212,7 +212,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(D) the amount requested by the Director of National Intelligence for support for the Council of the Inspectors General on Integrity and Efficiency pursuant to paragraph (3)(C); and
 
-&emsp;(E) the comments of the Inspector General under paragraph (3)(D), if any, on the amountsrequested pursuant to paragraph (3), including whether such amounts would substantially inhibit the Inspector General from performing the duties of the Office.
+&emsp;(E) the comments of the Inspector General under paragraph (3)(D), if any, on the amounts requested pursuant to paragraph (3), including whether such amounts would substantially inhibit the Inspector General from performing the duties of the Office.
 
 #### (g) Transfer
 

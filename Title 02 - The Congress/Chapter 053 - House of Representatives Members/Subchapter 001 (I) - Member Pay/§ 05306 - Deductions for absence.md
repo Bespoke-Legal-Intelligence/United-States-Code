@@ -2,7 +2,7 @@
 
 The Chief Administrative Officer of the House of Representatives (upon certification by the Clerk of the House of Representatives) shall deduct from the monthly payments (or other periodic payments authorized by law) of each Member or Delegate the amount of his salary for each day that he has been absent from the House, unless such Member or Delegate assigns as the reason for such absence the sickness of himself or of some member of his family.
 
-(R.S. §40; Pub. L. 97–51, §112(d), Oct. 1, 1981, 95 Stat. 963; Pub. L. 104–186, title II, §203(7), Aug. 20, 1996, 110 Stat. 1726; Pub. L. 109–55, title I, §5, Aug. 2, 2005, 119 Stat. 568.)
+(R.S. §40; Pub. L. 97–51, §112(d), Oct. 1, 1981, 95 Stat. 963; Pub. L. 104–186, title II, §203(7), Aug.20, 1996, 110 Stat. 1726; Pub. L. 109–55, title I, §5, Aug. 2, 2005, 119 Stat. 568.)
 
 #### Codification
 

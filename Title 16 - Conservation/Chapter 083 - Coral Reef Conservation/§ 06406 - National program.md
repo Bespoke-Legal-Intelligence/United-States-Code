@@ -14,7 +14,7 @@ Activities authorized under subsection (a) include—
 
 &emsp;(3) providing assistance to States in removing abandoned fishing gear, marine debris, and abandoned vessels from coral reefs to conserve living marine resources; and
 
-&emsp;(4) cooperative conservation and management of coral reefs and coral reef ecosystems with local, regional, or international programs and partners.
+&emsp;(4) cooperative conservation and management of coral reefs and coral reef ecosystemswith local, regional, or international programs and partners.
 
 (Pub. L. 106–562, title II, §207, Dec. 23, 2000, 114 Stat. 2804.)
 

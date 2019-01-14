@@ -34,7 +34,7 @@
 
 #### (3) Consultations
 
-&emsp;In carrying out its responsibilities, the Board shall consult on a regular basis withrepresentatives of the National Science Foundation, the National Endowment for the Humanities, the National Endowment for the Arts, and representatives of institutions of higher education and associations of such institutions, learned societies, and professional organizations.
+&emsp;In carrying out its responsibilities, the Board shall consult on a regular basis with representatives of the National Science Foundation, the National Endowment for the Humanities, the National Endowment for the Arts, and representatives of institutions of higher education and associations of such institutions, learned societies, and professional organizations.
 
 #### (4) Term
 

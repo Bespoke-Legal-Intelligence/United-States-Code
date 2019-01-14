@@ -106,21 +106,21 @@ Pub. L. 101–509, title V, §529 \[title I, §101(e)\], Nov. 5, 1990, 104 Stat.
 
 #### Federal Employee Pay Adjustments
 
-Pub. L. 115–31, div. E, title VII, §738, May 5, 2017, 131 Stat. 386, provided that:
+<b>2018</b>—Pub. L. 115–141, div. E, title VII, §738, Mar. 23, 2018, 132 Stat. 597, provided that:
 
-"(a) The Vice President may not receive a pay raise in calendar year 2017, notwithstanding the rate adjustment made under section 104 of title 3, United States Code, or any other provision of law.
+"(a) The Vice President may not receive a pay raise in calendar year 2018, notwithstanding the rate adjustment made under section 104 of title 3, United States Code, or any other provision of law.
 
-"(b) An employee serving in an Executive Schedule position, or in a position for which the rate of pay is fixed by statute at an Executive Schedule rate, may not receive a pay rate increase in calendar year 2017, notwithstanding schedule adjustments made under section 5318 of title 5, United States Code, or any other provision of law, except as provided in subsection (g), (h), or (i). This subsection applies only to employees who are holding a position under a political appointment.
+"(b) An employee serving in an Executive Schedule position, or in a position for which the rate of pay is fixed by statute at an Executive Schedule rate, may not receive a pay rate increase in calendar year 2018, notwithstanding schedule adjustments made under section 5318 of title 5, United States Code, or any other provision of law, except as provided in subsection (g), (h), or (i). This subsection applies only to employees who are holding a position under a political appointment.
 
-"(c) A chief of mission or ambassador at large may not receive a pay rate increase in calendar year 2017, notwithstanding section 401 of the Foreign Service Act of 1980 (Public Law 96–465) \[22 U.S.C. 3961\] or any other provision of law, except as provided in subsection (g), (h), or (i).
+"(c) A chief of mission or ambassador at large may not receive a pay rate increase in calendar year 2018, notwithstanding section 401 of the Foreign Service Act of 1980 (Public Law 96–465) \[22 U.S.C. 3961\] or any other provision of law, except as provided in subsection (g), (h), or (i).
 
-"(d) Notwithstanding sections 5382 and 5383 of title 5, United States Code, a pay rate increase may not be received in calendar year 2017 (except as provided in subsection (g), (h), or (i)) by—
+"(d) Notwithstanding sections 5382 and 5383 of title 5, United States Code, a pay rate increase may not be received in calendar year 2018 (except as provided in subsection (g), (h), or (i)) by—
 
 &emsp;"(1) a noncareer appointee in the Senior Executive Service paid a rate of basic pay at or above level IV of the Executive Schedule \[5 U.S.C. 5315\]; or
 
 &emsp;"(2) a limited term appointee or limited emergency appointee in the Senior Executive Service serving under a political appointment and paid a rate of basic pay at or above level IV of the Executive Schedule.
 
-"(e) Any employee paid a rate of basic pay (including any locality-based payments under section 5304 of title 5, United States Code, or similar authority) at or above level IV of the Executive Schedule who serves under a political appointment may not receive a pay rate increase in calendar year 2017, notwithstanding any other provision of law, except as provided in subsection (g), (h), or (i). This subsection does not apply to employees in the General Schedule pay system \[see 5 U.S.C. 5331 et seq.\] or the Foreign Service pay system \[see 22 U.S.C. 3961 et seq.\], or to employees appointed under section 3161 of title 5, United States Code, or to employees in another pay system whose position would be classified at GS–15 or below if chapter 51 of title 5, United States Code, applied to them.
+"(e) Any employee paid a rate of basic pay (including any locality-based payments under section 5304 of title 5, United States Code, or similar authority) at or above level IV of the Executive Schedule who serves under a political appointment may not receive a pay rate increase in calendar year 2018, notwithstanding any other provision of law, except as provided in subsection (g), (h), or (i). This subsection does not apply to employees in the General Schedule pay system \[see 5 U.S.C. 5315 et seq.\] or the Foreign Service pay system \[see 22 U.S.C. 3961 et seq.\], or to employees appointed under section 3161 of title 5, United States Code, or to employees in another pay system whose position would be classified at GS–15 or below if chapter 51 of title 5, United States Code, applied to them.
 
 "(f) Nothing in subsections (b) through (e) shall prevent employees who do not serve under a political appointment from receiving pay increases as otherwise provided under applicable law.
 
@@ -132,9 +132,11 @@ Pub. L. 115–31, div. E, title VII, §738, May 5, 2017, 131 Stat. 386, provided
 
 "(j) Notwithstanding any other provision of law, for an individual who is newly appointed to a covered position during the period of time subject to this section, the initial pay rate shall be based on the rates of pay and applicable pay limitations in effect on December 31, 2013.
 
-"(k) If an employee affected by subsections (b) through (e) is subject to a biweekly pay period that begins in calendar year 2017 but ends in calendar year 2018, the bar on the employee's receipt of pay rate increases shall apply through the end of that pay period."
+"(k) If an employee affected by subsections (b) through (e) is subject to a biweekly pay period that begins in calendar year 2018 but ends in calendar year 2019, the bar on the employee's receipt of pay rate increases shall apply through the end of that pay period."
 
 Similar provisions were contained in the following prior acts:
+
+<b>2017</b>—Pub. L. 115–31, div. E, title VII, §738, May 5, 2017, 131 Stat. 386.
 
 <b>2016</b>—Pub. L. 114–113, div. E, title VII, §738, Dec. 18, 2015, 129 Stat. 2482.
 
@@ -142,7 +144,7 @@ Similar provisions were contained in the following prior acts:
 
 <b>2014</b>—Pub. L. 113–76, div. E, title VII, §741, Jan. 17, 2014, 128 Stat. 241.
 
-<b>2010</b>—Pub. L. 111–242, §147, as added by Pub. L. 111–322, title I, §1(a)(2), Dec. 22, 2010, 124 Stat. 3518, as amended by Pub. L. 113–6, div. F, title I, §1112(a), Mar. 26, 2013, 127 Stat. 414, provided that:
+<b>2010</b>—Pub. L. 111–242, §147, as added by Pub. L. 111–322, title I, §1(a)(2), Dec. 22, 2010, 124 Stat. 3518, as amendedby Pub. L. 113–6, div. F, title I, §1112(a), Mar. 26, 2013, 127 Stat. 414, provided that:
 
 "(a) For the purposes of this section—
 
@@ -256,7 +258,7 @@ Pub. L. 108–199, div. F, title VI, §640, Jan. 23, 2004, 118 Stat. 359, provid
 
 "(a) The adjustment in rates of basic pay for the statutory pay systems that takes effect in fiscal year 2000 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 4.8 percent.
 
-"(b) Funds used to carry out this section shall be paid from appropriations which are made to each applicable department or agency for salaries and expenses for fiscal year 2000."
+"(b) Funds used to carry out this section shall be paid from appropriations which are made to each applicabledepartment or agency for salaries and expenses for fiscal year 2000."
 
 <b>1998</b>—Pub. L. 105–277, div. A, §101(h) \[title VI, §621\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–518, provided that: "For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note), no adjustment under section 5303 of title 5, United States Code, shall be considered to have taken effect in fiscal year 1999 in the rates of basic pay for the statutory pay systems."
 
@@ -268,7 +270,7 @@ Pub. L. 105–277, div. A, §101(h) \[title VI, §647\], Oct. 21, 1998, 112 Stat
 
 <b>1996</b>—Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §637\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–364, provided that: "For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note), no adjustment under section 5303 of title 5, United States Code, shall be considered to have taken effect in fiscal year 1997 in the rates of basic pay for the statutory pay systems."
 
-<b>1995</b>—Pub. L. 104–52, title VI, §633, Nov. 19, 1995, 109 Stat. 507, provided that: "For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note), no adjustment under section 5303 of title 5, United States Code, shall be considered to have taken effect infiscal year 1996 in the rates of basic pay for the statutory pay systems."
+<b>1995</b>—Pub. L. 104–52, title VI, §633, Nov. 19, 1995, 109 Stat. 507, provided that: "For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note), no adjustment under section 5303 of title 5, United States Code, shall be considered to have taken effect in fiscal year 1996 in the rates of basic pay for the statutory pay systems."
 
 <b>1994</b>—Pub. L. 103–329, title VI, §630(a), Sept. 30, 1994, 108 Stat. 2424, provided that:
 
@@ -338,7 +340,7 @@ In general.—Effective for pay periods beginning on or after the date of enactm
 
 Citations.—The provisions of law referred to in paragraph (1) are as follows:
 
-&emsp;&emsp;"(A) Section 620(b) of the Treasury, Postal Service and General Government Appropriations Act, 1989 (2 U.S.C. 5305 note) \[Pub. L. 100–440, set out below\].
+&emsp;&emsp;"(A) Section 620(b) of the Treasury, Postal Service and General Government Appropriations Act,1989 (2 U.S.C. 5305 note) \[Pub. L. 100–440, set out below\].
 
 &emsp;&emsp;"(B) Section 619(b) of the Treasury, Postal Service and General Government Appropriations Act, 1990 (Public Law 101–136) \[set out below\].
 
@@ -360,7 +362,7 @@ Pub. L. 101–194, title XI, §1101(a), Nov. 30, 1989, 103 Stat. 1781, provided 
 
 Adjustments in Rates of Pay.—Notwithstanding any other provision of law (including any provision of this Act or amendment made by this Act), effective as provided in paragraph (2), the rate of pay of each office and position of United States Senator, the President pro tempore of the Senate, and the majority and minority leaders of the Senate shall be increased by—
 
-&emsp;"(A) the percentage increase that would have taken effect in fiscal year 1988 if the provisions of section601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) \[now 2 U.S.C. 4501(2)\] were applied to the rate of pay of each such office and position in effect on January 1, 1988 without regard to section 108 of the resolution entitled 'Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes', approved December 22, 1987 \[Pub. L. 100–202\]; (101 Stat. 1329–434; 5 U.S.C. 5305 note \[set out below\]);
+&emsp;"(A) the percentage increase that would have taken effect in fiscal year 1988 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) \[now 2 U.S.C. 4501(2)\] were applied to the rate of pay of each such office and position in effect on January 1, 1988 without regard to section 108 of the resolution entitled 'Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes', approved December 22, 1987 \[Pub. L. 100–202\]; (101 Stat. 1329–434; 5 U.S.C. 5305 note \[set out below\]);
 
 &emsp;"(B) the percentage increase that would have taken effect in fiscal year 1989 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) \[now 2 U.S.C. 4501(2)\] were applied to the rate of pay of each such office and position in effect on January 1, 1989 (as adjusted under subparagraph (A) of this paragraph) without regard to subsection (b) of section 620 of the Treasury, Postal Service and General Government Appropriations Act, 1989 (Public Law 100–440; 102 Stat. 1756; 5 U.S.C. 5305 note \[set out below\]); and
 
@@ -402,7 +404,7 @@ Pub. L. 101–136, title VI, §619, Nov. 3, 1989, 103 Stat. 820, provided that:
 
 &emsp;"(B) to a rate exceeding the rate of basic pay payable for level III of the Executive Schedule under such section 5314 as of September 30, 1988, if, as of that date, the rate of salary or basic pay payable for that office or position was less than the rate of basic pay then payable for such level III.
 
-"(2) For purposes of paragraph (1), the rate of salary or basic pay payable as of September 30, 1988, for any office or position which was not in existence on such date shall be deemed to be the rate of salary or basic pay payable to individuals in comparable offices or positions on such date, as determined under regulations prescribed—
+"(2) For purposes of paragraph (1), the rate of salary or basic pay payable as of September 30, 1988, for any office or position which was not in existence on such date shall be deemed to be the rate of salary or basicpay payable to individuals in comparable offices or positions on such date, as determined under regulations prescribed—
 
 &emsp;"(A) by the President, in the case of any office or position within the executive branch or in the government of the District of Columbia;
 
@@ -418,7 +420,7 @@ Pub. L. 101–136, title VI, §619, Nov. 3, 1989, 103 Stat. 820, provided that:
 
 &emsp;"(2) to a rate exceeding the rate of basic pay payable for level V of the Executive Schedule under such section 5316 as of September 30, 1987, if, as of that date, the rate of salary or basic pay payable for that office or position was less than the rate of basic pay then payable for such level V.
 
-"(b) For purposes of subsection (a), the rate of salary or basic pay payable as of September 30, 1987, for any office or position which was not in existence on suchdate shall be deemed to be the rate of salary or basic pay payable to individuals in comparable offices or positions on such date, as determined under regulations prescribed—
+"(b) For purposes of subsection (a), the rate of salary or basic pay payable as of September 30, 1987, for any office or position which was not in existence on such date shall be deemed to be the rate of salary or basic pay payable to individuals in comparable offices or positions on such date, as determined under regulations prescribed—
 
 &emsp;"(1) by the President, in the case of any office or position within the executive branch or in the government of the District of Columbia;
 

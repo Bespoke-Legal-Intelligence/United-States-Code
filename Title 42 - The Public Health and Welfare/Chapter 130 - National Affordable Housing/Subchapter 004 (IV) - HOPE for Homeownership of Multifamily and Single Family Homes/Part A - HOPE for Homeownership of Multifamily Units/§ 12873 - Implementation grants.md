@@ -76,7 +76,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(C) a description of the qualifications and experience of the applicant in providing low-income housing;
 
-&emsp;&emsp;(D) a description of the proposed homeownership program, consistent with section 12874 <sup>3</sup> of this title and the other requirements of this part, specifying the activities proposed to be carried out and their estimated costs, identifying reasonable schedules for carrying it out, and demonstrating the program will comply with the affordability requirements under section 12874(b) <sup>3</sup> of this title;
+&emsp;&emsp;(D) a description of the proposed homeownership program, consistent with section 12874 <sup>1</sup> of this title and the other requirements of this part, specifying the activities proposed to be carried out and their estimated costs, identifying reasonable schedules for carrying it out, and demonstrating the program will comply with the affordability requirements under section 12874(b) <sup>1</sup> of this title;
 
 &emsp;&emsp;(E) identification and description of the property involved, and a description of the composition of the tenants, including family size and income;
 
@@ -96,7 +96,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(M) a certification that the applicant will comply with the requirements of the Fair Housing Act \[42 U.S.C. 3601 et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], and will affirmatively further fair housing.
 
-#### (d) <sup>4</sup> Selection criteria
+#### (d) <sup>2</sup> Selection criteria
 
 The Secretary shall establish selection criteria for assistance under this section, which shall include—
 
@@ -110,9 +110,9 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 &emsp;(5) national geographic diversity among housing for which applicants are selected to receive assistance;
 
-&emsp;(6) the extent to which a sufficient supply of affordable rental housing of the type assisted under this title <sup>5</sup> exists in the locality, so that the implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units; and
+&emsp;(6) the extent to which a sufficient supply of affordable rental housing of the type assisted under this title <sup>1</sup> exists in the locality, so that the implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units; and
 
-&emsp;(7) such other factors as the Secretary determines to be appropriate for purposes of carrying out the program established by the <sup>6</sup> part in an effective and efficient manner.
+&emsp;(7) such other factors as the Secretary determines to be appropriate for purposes of carrying out the program established by the <sup>3</sup> part in an effective and efficient manner.
 
 #### (e) Approval
 
@@ -142,11 +142,5 @@ This title, referred to in subsec. (d)(6), means title IV of Pub. L. 101–625, 
 
 <i><sup>2</sup></i><i> So in original. Two subsecs. (d) have been enacted.</i>
 
-<i><sup>3</sup></i><i> See References in Text note below.</i>
-
-<i><sup>4</sup></i><i> So in original. Two subsecs. (d) have been enacted.</i>
-
-<i><sup>5</sup></i><i> See References in Text note below.</i>
-
-<i><sup>6</sup></i><i> So in original. Probably should be "this".</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "this".</i>
 

@@ -36,7 +36,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 &emsp;&emsp;(ii) there is a reasonable likelihood that the material or its covering will become significantly damaged, deteriorated, or delaminated.
 
-(2) In promulgating such regulations, the Administrator shall consider and assess the valueof various technologies intended to improve the decisionmaking process regarding response actions and the quality of any work that is deemed necessary, including air monitoring and chemical encapsulants.
+(2) In promulgating such regulations, the Administrator shall consider and assess the value of various technologies intended to improve the decisionmaking process regarding response actions and the quality of any work that is deemed necessary, including air monitoring and chemical encapsulants.
 
 #### (d) Response actions
 
@@ -54,7 +54,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 #### (4) Response action for potentially damaged asbestos
 
-&emsp;In the case of a response action for the circumstances described in subsection (c)(1)(C), methods for responding shall include methods identified in chapters 3 and 5 of the "Guidance for Controlling Asbestos-Containing Material in Buildings", unless preventive measures will eliminate the reasonable likelihood that the asbestos-containing material will become damaged, deteriorated, or delaminated.
+&emsp;In the case of a response action for the circumstances described in subsection (c)(1)(C),methods for responding shall include methods identified in chapters 3 and 5 of the "Guidance for Controlling Asbestos-Containing Material in Buildings", unless preventive measures will eliminate the reasonable likelihood that the asbestos-containing material will become damaged, deteriorated, or delaminated.
 
 #### (5) Response action for potentially significantly damaged asbestos
 
@@ -118,7 +118,7 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 &emsp;&emsp;(D) A detailed description of any asbestos-containing material which remains in the school building once response actions are undertaken pursuant to the regulations promulgated under subsections (c), (d), and (e).
 
-&emsp;&emsp;(E) A plan for periodic reinspection and long-term surveillance activities developed pursuant to regulations promulgated under subsection (g), and a plan for operations and maintenance activities developed pursuant to regulations promulgated under subsection (f).
+&emsp;&emsp;(E) A plan for periodic reinspection and long-term surveillance activities developedpursuant to regulations promulgated under subsection (g), and a plan for operations and maintenance activities developed pursuant to regulations promulgated under subsection (f).
 
 &emsp;&emsp;(F) With respect to the person or persons who inspected for asbestos-containing material and who will design or carry out response actions with respect to the friable asbestos-containing material, one of the following statements:
 
@@ -156,7 +156,7 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 #### (5) Public availability
 
-&emsp;A copy of the management plan developed under the regulations shall be available in the administrative offices of the local educationalagency for inspection by the public, including teachers, other school personnel, and parents. The local educational agency shall notify parent, teacher, and employee organizations of the availability of such plan.
+&emsp;A copy of the management plan developed under the regulations shall be available in the administrative offices of the local educational agency for inspection by the public, including teachers, other school personnel, and parents. The local educational agency shall notify parent, teacher, and employee organizations of the availability of such plan.
 
 #### (6) Submission to State Governor
 
@@ -178,7 +178,7 @@ Any change made in the "Guidance for Controlling Asbestos-Containing Material in
 
 #### (2) Regulations
 
-&emsp;The Secretary of Defense, in cooperation with the Administrator, shall, to the extent feasible and consistent with the national security, take such action as may be necessary to provide for the identification, inspection, and management (including abatement) of asbestos in any building used by the Department of Defense as an overseas school for dependents of members of the Armed Forces. Such identification, inspection, and management (including abatement) shall, subject to the preceding sentence, be carried out in a manner comparable to the manner in which a local educational agency is required to carry out such activities with respect to a school building under this subchapter.
+&emsp;The Secretary of Defense, in cooperation with the Administrator, shall, to the extentfeasible and consistent with the national security, take such action as may be necessary to provide for the identification, inspection, and management (including abatement) of asbestos in any building used by the Department of Defense as an overseas school for dependents of members of the Armed Forces. Such identification, inspection, and management (including abatement) shall, subject to the preceding sentence, be carried out in a manner comparable to the manner in which a local educational agency is required to carry out such activities with respect to a school building under this subchapter.
 
 #### (m) Waiver
 

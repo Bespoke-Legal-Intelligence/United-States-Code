@@ -4,7 +4,7 @@
 
 (b) Compensation and benefits for all officers and employees serving in or under the Office of Inspector General of the United States Postal Service shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the respective Offices of Inspector General of the various establishments named in section 11(2) <sup>1</sup> of the Inspector General Act of 1978.
 
-(c) Compensation and benefits for all Postal Inspectors shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the executive branch of the Government outside of the Postal Service. As used in this subsection, the term "Postal Inspector" included <sup>2</sup> any agent towhom any investigative powers are granted under section 3061 of title 18.
+(c) Compensation and benefits for all Postal Inspectors shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the executive branch of the Government outside of the Postal Service. As used in this subsection, the term "Postal Inspector" included <sup>2</sup> any agent to whom any investigative powers are granted under section 3061 of title 18.
 
 (d) The Postal Service shall follow an employment policy designed, without compromising the policy of section 101(a) of this title, to extend opportunity to the disadvantaged and the handicapped.
 

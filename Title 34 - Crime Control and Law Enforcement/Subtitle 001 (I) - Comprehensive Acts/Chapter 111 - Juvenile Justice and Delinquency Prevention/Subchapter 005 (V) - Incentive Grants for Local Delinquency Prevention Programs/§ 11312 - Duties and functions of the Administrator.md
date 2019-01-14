@@ -2,13 +2,11 @@
 
 The Administrator shall—
 
-&emsp;(1) issue such rules as are necessary or appropriate to carry out this subchapter;
+&emsp;(1) make such arrangements as are necessary and appropriate to facilitate coordination and policy development among all activities funded through the Department of Justice relating to delinquency prevention (including the preparation of an annual comprehensive plan for facilitating such coordination and policy development);
 
-&emsp;(2) make such arrangements as are necessary and appropriate to facilitate coordination and policy development among all activities funded through the Department of Justice relating to delinquency prevention (including the preparation of an annual comprehensive plan for facilitating such coordination and policy development);
+&emsp;(2) provide adequate staff and resources necessary to properly carry out this subchapter; and
 
-&emsp;(3) provide adequate staff and resources necessary to properly carry out this subchapter; and
-
-&emsp;(4) not later than 180 days after the end of each fiscal year, submit a report to the chairman of the Committee on Education and the Workforce of the House of Representatives and the chairman of the Committee on the Judiciary of the Senate—
+&emsp;(3) not later than 180 days after the end of each fiscal year, submit a report to the chairman of the Committee on Education and the Workforce of the House of Representatives and the chairman of the Committee on the Judiciary of the Senate—
 
 &emsp;&emsp;(A) describing activities and accomplishments of grant activities funded under this subchapter;
 
@@ -18,15 +16,23 @@ The Administrator shall—
 
 &emsp;&emsp;(D) identifying successful approaches and making recommendations for future activities to be conducted under this subchapter.
 
-(Pub. L. 93–415, title V, §503, as added Pub. L. 107–273, div. C, title II, §12222(a), Nov. 2, 2002, 116 Stat. 1894.)
+(Pub. L. 93–415, title V, §503, as added Pub. L. 107–273, div. C, title II, §12222(a), Nov. 2, 2002, 116 Stat. 1894; amended Pub. L. 115–385, title III, §303, Dec. 21, 2018, 132 Stat. 5147.)
 
 #### Codification
 
 Section was formerly classified to section 5782 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-Another section 503 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5033 of Title 18, Crimes and Criminal Procedure.
-
 #### Prior Provisions
 
 A prior section 503 of title V of Pub. L. 93–415, as added Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5027, defined "State advisory group", prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273.
+
+Another prior section 503 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5033 of Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–385 redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: "issue such rules as are necessary or appropriate to carry out this subchapter;".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under section 11102 of this title.
 

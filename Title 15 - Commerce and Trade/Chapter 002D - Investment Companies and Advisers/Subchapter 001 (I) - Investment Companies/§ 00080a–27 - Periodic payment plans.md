@@ -2,7 +2,7 @@
 
 #### (a) Sale of certificates; restrictions
 
-It shall be unlawful for any registered investment company issuing periodic payment plan certificates, or for any depositor of or underwriter for such company, to sell any such certificate, if—
+It shall be unlawful for any registered investment company issuing periodic payment plancertificates, or for any depositor of or underwriter for such company, to sell any such certificate, if—
 
 &emsp;(1) the sales load on such certificate exceeds 9 per centum of the total payments to be made thereon;
 
@@ -26,7 +26,7 @@ It shall be unlawful for any registered investment company issuing periodic paym
 
 &emsp;(1) such certificate is a redeemable security; and
 
-&emsp;(2) the proceeds of all payments on such certificate (except such amounts as are deducted for sales load) are deposited with a trustee or custodian having the qualifications prescribed in paragraph (1) of section 80a–26(a) of this title for the trustees of unit investment trusts, and are held by such trustee or custodian under an indenture or agreement containing, in substance, the provisions required by paragraphs (2) and (3) of section 80a–26(a) ofthis title for the trust indentures of unit investment trusts.
+&emsp;(2) the proceeds of all payments on such certificate (except such amounts as are deducted for sales load) are deposited with a trustee or custodian having the qualifications prescribed in paragraph (1) of section 80a–26(a) of this title for the trustees of unit investment trusts, and are held by such trustee or custodian under an indenture or agreement containing, in substance, the provisions required by paragraphs (2) and (3) of section 80a–26(a) of this title for the trust indentures of unit investment trusts.
 
 #### (d) Surrender of certificates; regulations
 
@@ -60,7 +60,7 @@ Upon making the election specified in subsection (g), it shall be unlawful for a
 
 &emsp;(6) if such registered company is a management company, the proceeds of such certificate or the securities in which such proceeds are invested are subject to management fees (other than fees for administrative services of the character described in clause (C) of paragraph (2) of section 80a–26(a) of this title) exceeding such reasonable amount as the Commission may prescribe, whether such fees are payable to such company or to investment advisers thereof; or
 
-&emsp;(7) if such registered company is a unit investment trust the assets of which are securities issued by a management company, the depositor of or principal underwriter for suchtrust, or any affiliated person of such depositor or underwriter, is to receive from such management company or any affiliated person thereof any fee or payment on account of payments on such certificate exceeding such reasonable amount as the Commission may prescribe.
+&emsp;(7) if such registered company is a unit investment trust the assets of which are securities issued by a management company, the depositor of or principal underwriter for such trust, or any affiliated person of such depositor or underwriter, is to receive from such management company or any affiliated person thereof any fee or payment on account of payments on such certificate exceeding such reasonable amount as the Commission may prescribe.
 
 #### (i) Applicability to registered separate account funding variable insurance contracts
 
@@ -102,7 +102,7 @@ Subsec. (j). Pub. L. 109–290, §4(a), added subsec. (j).
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–547 effective on expiration of six months after Dec. 14, 1970, see section 30(3) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+Amendment by Pub. L. 91–547 effective on expiration of six months after Dec. 14, 1970, see section 30(3) ofPub. L. 91–547, set out as a note under section 80a–52 of this title.
 
 #### Transfer of Functions
 

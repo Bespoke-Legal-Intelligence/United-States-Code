@@ -50,7 +50,7 @@ Pub. L. 104–127, §403(c)(2), substituted "2002" for "1995" in two places.
 
 Subsecs. (f) to (i). Pub. L. 104–193, §871(d)(2), redesignated subsecs. (f) to (i) as (a) to (d), respectively.
 
-Subsec. (j). Pub. L. 104–193, §871(d)(1), struck out subsec. (j) which authorized Secretary to promulgate newformula for allocation of additional commodities to States.
+Subsec. (j). Pub. L. 104–193, §871(d)(1), struck out subsec. (j) which authorized Secretary to promulgate new formula for allocation of additional commodities to States.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–624, §1772(g)(1), substituted "fiscal years 1991 through 1995" for "fiscal years 1989 and 1990".
 
@@ -68,5 +68,5 @@ Amendment by section 1772(g) of Pub. L. 101–624 effective Oct. 1, 1990, and am
 
 #### Effective Date
 
-Section to be effective and implemented on Oct. 1, 1988, see section 701(a) of Pub. L. 100–435, set out as an Effective Date of 1988 Amendment note under section 2012 of this title.
+Section to be effective and implemented on Oct. 1, 1988, see section 701(a) of Pub. L. 100–435, set out as anEffective Date of 1988 Amendment note under section 2012 of this title.
 

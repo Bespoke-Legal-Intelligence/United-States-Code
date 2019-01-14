@@ -50,7 +50,7 @@ In this section, the following definitions apply:
 
 #### (2) Scope of Program
 
-&emsp;The Program shall consist of a collaborative stakeholder-based program for environmental protection and restoration activities throughout the Columbia River Basin.
+&emsp;The Program shall consist of a collaborative stakeholder-based program for environmentalprotection and restoration activities throughout the Columbia River Basin.
 
 #### (3) Duties
 
@@ -198,6 +198,10 @@ In this section, the following definitions apply:
 
 &emsp;&emsp;None of the funds made available under this subsection may be used for the administration of a management conference under section 1330 of this title.
 
+#### (6) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection $30,000,000 for each of fiscal years 2020 and 2021.
+
 #### (e) Annual budget plan
 
 The President, as part of the annual budget submission of the President to Congress under section 1105(a) of title 31, shall submit information regarding each Federal agency involved in protection and restoration of the Columbia River Basin, including an interagency crosscut budget that displays for each Federal agency—
@@ -208,7 +212,11 @@ The President, as part of the annual budget submission of the President to Congr
 
 &emsp;(3) the proposed budget for protection and restoration projects, programs, and studies relating to the Columbia River Basin.
 
-(June 30, 1948, ch. 758, title I, §123, as added Pub. L. 114–322, title IV, §5010, Dec. 16, 2016, 130 Stat. 1898.)
+(June 30, 1948, ch. 758, title I, §123, as added Pub. L. 114–322, title IV, §5010, Dec. 16, 2016, 130 Stat. 1898; amended Pub. L. 115–270, title IV, §4105, Oct. 23, 2018, 132 Stat. 3875.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (d)(6). Pub. L. 115–270 added par. (6).
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Columbia".</i>
 

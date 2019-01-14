@@ -42,7 +42,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;&emsp;(D) the State involved submits to the Secretary—
 
-&emsp;&emsp;&emsp;(i) assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal yearexpenditures for the services and activities described in paragraphs (1) and (2) of section 300k(a) of this title for the period for which the waiver is granted, and for the period for which any extension of such wavier <sup>1</sup> is granted, at a level that is not less than—
+&emsp;&emsp;&emsp;(i) assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal year expenditures for the services and activities described in paragraphs (1) and (2) of section 300k(a) of this title for the period for which the waiver is granted, and for the period for which any extension of such wavier <sup>1</sup> is granted, at a level that is not less than—
 
 &emsp;&emsp;&emsp;&emsp;(I) the level of the State fiscal year expenditures for such services and activities for the fiscal year preceding the first fiscal year for which the waiver is granted; or
 

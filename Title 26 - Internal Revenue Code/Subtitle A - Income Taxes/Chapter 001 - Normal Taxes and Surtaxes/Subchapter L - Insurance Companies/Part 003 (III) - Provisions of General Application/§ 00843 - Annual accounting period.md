@@ -10,7 +10,7 @@ For purposes of this subtitle, the annual accounting period for each insurance c
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1980, see section 1507(c)(1) of Pub. L. 94–455, set out as a note under section 1504 of this title.
+Amendment by Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1980, see section 1507(c)(1)of Pub. L. 94–455, set out as a note under section 1504 of this title.
 
 #### Effective Date
 

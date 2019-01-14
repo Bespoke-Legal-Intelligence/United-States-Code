@@ -20,7 +20,7 @@
 
 #### (4) Notice of rate change
 
-&emsp;A tribal health program that establishes a rental rate under this subsection shall provide occupants of the federally owned quarters anotice of any change in the rental rate by not later than the date that is 60 days notice before the effective date of the change.
+&emsp;A tribal health program that establishes a rental rate under this subsection shall provide occupants of the federally owned quarters a notice of any change in the rental rate by not later than the date that is 60 days notice before the effective date of the change.
 
 #### (5) Rates in Alaska
 

@@ -28,7 +28,7 @@
 
 (2) In this section—
 
-&emsp;(A) "value" means property, or satisfaction or securing of a present or antecedent debt ofthe debtor, but does not include an unperformed promise to furnish support to the debtor or to a relative of the debtor;
+&emsp;(A) "value" means property, or satisfaction or securing of a present or antecedent debt of the debtor, but does not include an unperformed promise to furnish support to the debtor or to a relative of the debtor;
 
 &emsp;(B) a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency that receives a margin payment, as defined in section 101, 741, or 761 of this title, or settlement payment, as defined in section 101 or 741 of this title, takes for value to the extent of such payment;
 
@@ -152,7 +152,7 @@ Amendment by section 907 of Pub. L. 109–8 effective 180 days after Apr. 20, 20
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–183 applicable to any case brought under an applicable provision of this title that is pending or commenced on or after June 19, 1998, see section 5 of Pub. L. 105–183, set out as a note under section 544 of this title.
+Amendment by Pub. L. 105–183 applicable to any case brought under an applicable provision of this title thatis pending or commenced on or after June 19, 1998, see section 5 of Pub. L. 105–183, set out as a note under section 544 of this title.
 
 #### Effective Date of 1994 Amendment
 

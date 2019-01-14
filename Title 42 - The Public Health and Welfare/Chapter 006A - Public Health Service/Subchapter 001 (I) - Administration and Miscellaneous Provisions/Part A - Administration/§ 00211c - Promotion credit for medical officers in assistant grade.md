@@ -2,7 +2,7 @@
 
 Any medical officer of the Regular Corps of the Public Health Service who—
 
-&emsp;(1)(A) was appointed to the assistant grade in the Regular Corps and whose service in suchCorps has been continuous from the date of appointment or (B) may hereafter be appointed to the assistant grade in the Regular Corps, and
+&emsp;(1)(A) was appointed to the assistant grade in the Regular Corps and whose service in such Corps has been continuous from the date of appointment or (B) may hereafter be appointed to the assistant grade in the Regular Corps, and
 
 &emsp;(2) had or will have completed a medical internship on the date of such appointment,
 

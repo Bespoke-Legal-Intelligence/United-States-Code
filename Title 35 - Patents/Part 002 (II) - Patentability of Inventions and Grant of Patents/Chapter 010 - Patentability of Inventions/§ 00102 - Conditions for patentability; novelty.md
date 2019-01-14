@@ -42,13 +42,13 @@ Common Ownership Under Joint Research Agreements.—Subject matter disclosed and
 
 (d)
 
-Patents and Published Applications Effective as Prior Art.—For purposes of determining whether a patent or application for patent is prior art to a claimed invention under subsection (a)(2), such patent or application shall be considered to have been effectively filed, with respect to any subject matter described in the patent or application—
+Patents and Published Applications Effective as Prior Art.—For purposes of determining whether a patent or application for patent is prior art to a claimed invention under subsection (a)(2), such patent or application shall be considered to have been effectivelyfiled, with respect to any subject matter described in the patent or application—
 
 &emsp;(1) if paragraph (2) does not apply, as of the actual filing date of the patent or the application for patent; or
 
 &emsp;(2) if the patent or application for patent is entitled to claim a right of priority under section 119, 365(a), 365(b), 386(a), or 386(b), or to claim the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c), based upon 1 or more prior filed applications for patent, as of the filing date of the earliest such application that describes the subject matter.
 
-(July 19, 1952, ch. 950, 66 Stat. 797; Pub. L. 92–358, §2, July 28, 1972, 86 Stat. 502; Pub. L. 94–131, §5,Nov. 14, 1975, 89 Stat. 691; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4505, 4806\], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–590; Pub. L. 107–273, div. C, title III, §13205(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 112–29, §3(b)(1), Sept. 16, 2011, 125 Stat. 285; Pub. L. 112–211, title I, §102(2), Dec. 18, 2012, 126 Stat. 1531.)
+(July 19, 1952, ch. 950, 66 Stat. 797; Pub. L. 92–358, §2, July 28, 1972, 86 Stat. 502; Pub. L. 94–131, §5, Nov. 14, 1975, 89 Stat. 691; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4505, 4806\], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–590; Pub. L. 107–273, div. C, title III, §13205(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 112–29, §3(b)(1), Sept. 16, 2011, 125 Stat. 285; Pub. L. 112–211, title I, §102(2), Dec. 18, 2012, 126 Stat. 1531.)
 
 #### Historical and Revision Notes
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 18-month peri
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 1000(a)(9) \[title IV, §4505\] of Pub. L. 106–113 effective Nov. 29, 2000 and applicable to all patents and all applications for patents pending on or filed after Nov. 29, 2000, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
+Amendment by section 1000(a)(9) \[title IV, §4505\] of Pub. L. 106–113 effective Nov. 29, 2000 and applicable to all patents and all applications for patents pending on or filed after Nov. 29, 2000, see section 1000(a)(9) \[titleIV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
 #### Effective Date of 1975 Amendment
 

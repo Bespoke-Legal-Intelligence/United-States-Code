@@ -10,3 +10,4 @@
 - [&sect; 00503 - State laws](%C2%A7%2000503%20-%20State%20laws.md)
 - [&sect; 00504 - Judicial review](%C2%A7%2000504%20-%20Judicial%20review.md)
 - [&sect; 00505 - Demonstration projects](%C2%A7%2000505%20-%20Demonstration%20projects.md)
+- [&sect; 00506 - Grants to States for reemployment services and eligibility assessments](%C2%A7%2000506%20-%20Grants%20to%20States%20for%20reemployment%20services%20and%20eligibility%20assessments.md)

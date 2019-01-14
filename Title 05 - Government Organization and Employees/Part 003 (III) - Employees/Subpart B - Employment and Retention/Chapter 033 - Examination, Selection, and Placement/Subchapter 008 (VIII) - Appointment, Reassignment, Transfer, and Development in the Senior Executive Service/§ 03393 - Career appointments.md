@@ -68,11 +68,67 @@ Pub. L. 98–615, title III, §307, Nov. 8, 1984, 98 Stat. 3220, provided that: 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective June 1, 1981, with certain exceptions and conditions, see section 1704(e) of Pub. L. 97–35, set out as an Effective Date note under section 3595 of this title.
+Amendment by Pub. L. 97–35 effective June 1, 1981, with certain exceptions and conditions, see section1704(e) of Pub. L. 97–35, set out as an Effective Date note under section 3595 of this title.
 
 #### Effective Date
 
 Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+
+#### Temporary Inapplicability of Certification of Executive Qualifications by Qualification Review Boards of Office of Personnel Management
+
+Pub. L. 115–232, div. A, title XI, §1109, Aug. 13, 2018, 132 Stat. 2010, provided that:
+
+"(a)
+
+Temporary Inapplicability.—Notwithstanding section 3393(c) of title 5, United States Code, or any regulations implementing that section, and subject to the provisions of this section, the Secretary of Defense may appoint individuals for service in the Senior Executive Service of the Department of Defense without such individuals being subject to the certification of executive qualifications by a qualification review board of the Office of Personnel Management in connection with such appointment otherwise required by that section.
+
+"(b)
+
+Qualifications of Individuals Appointed.—The Secretary shall ensure that individuals appointed under this section possess the necessary qualifications and experience for the position to which appointed.
+
+"(c)
+
+Limitation.—The total number of appointments made under this section in any year may not exceed 50 appointments.
+
+"(d)
+
+Reports.—
+
+&emsp;"(1)
+
+Initial report.—Not later than one year after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary shall submit to the committees of Congress and official specified in paragraph (3) a report on the number and type of appointments made under this section as of the date of the report, including—
+
+&emsp;&emsp;"(A) a description of the qualifications of the individuals appointed; and
+
+&emsp;&emsp;"(B) data on the time required to appoint the individuals.
+
+&emsp;"(2)
+
+Final report.—Not later than two years after the date of the enactment of this Act, the Secretary shall submit to the committees of Congress and official specified in paragraph (3) a report on the use of the authority in this section. The report shall include the following:
+
+&emsp;&emsp;"(A) The number and type of appointments made under this section during the one-year period ending on the date of the report.
+
+&emsp;&emsp;"(B) Data on and an assessment whether appointments under the authority in this section reduced the time to hire when compared with the time to hire under the current review system of the Office of Personnel Management.
+
+&emsp;&emsp;"(C) An assessment of the utility of the appointment authority and process under this section.
+
+&emsp;&emsp;"(D) An assessment whether the appointments made under this section resulted in higher quality new executives for the Senior Executive Service of the Department when compared with the executives produced under the current review system of the Office of Personnel Management.
+
+&emsp;&emsp;"(E) Any recommendation for the improvement of the selection and qualification process for the Senior Executive Service of the Department that the Secretary considers necessary in order to attract and hire highly qualified candidates for service in that Senior Executive Service.
+
+&emsp;"(3)
+
+Committees of congress and official.—The committees of Congress and official specified in this paragraph are—
+
+&emsp;&emsp;"(A) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Oversight and Government Reform of the House of Representatives; and
+
+&emsp;&emsp;"(C) the Director of the Office of Personnel Management.
+
+"(e)
+
+Sunset.—Subsection (a) shall cease to be effective on the date that is two years after the date of the enactment of this Act."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

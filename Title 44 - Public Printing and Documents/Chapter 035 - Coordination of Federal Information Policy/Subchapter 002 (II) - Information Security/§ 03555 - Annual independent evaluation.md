@@ -18,7 +18,7 @@ Independent Auditor.—Subject to subsection (c)—
 
 &emsp;(1) for each agency with an Inspector General appointed under the Inspector General Act of 1978, the annual evaluation required by this section shall be performed by the Inspector General or by an independent external auditor, as determined by the Inspector General of the agency; and
 
-&emsp;(2) for each agency to which paragraph (1) does not apply, the head of the agency shallengage an independent external auditor to perform the evaluation.
+&emsp;(2) for each agency to which paragraph (1) does not apply, the head of the agency shall engage an independent external auditor to perform the evaluation.
 
 (c)
 
@@ -48,7 +48,7 @@ OMB Reports to Congress.—(1) The Director shall summarize the results of the e
 
 (2) The Director's report to Congress under this subsection shall summarize information regarding information security relating to national security systems in such a manner as to ensure appropriate protection for information associated with any information security vulnerability in such system commensurate with the risk and in accordance with all applicable laws.
 
-(3) Evaluations and any other descriptions of information systems under the authority and control of the Director of National Intelligence or of National Foreign Intelligence Programs systems under the authority and control of the Secretary of Defense shall be made available to Congress only through the appropriate oversight committees of Congress, in accordance with applicable laws.
+(3) Evaluations and any other descriptions of information systems under the authority andcontrol of the Director of National Intelligence or of National Foreign Intelligence Programs systems under the authority and control of the Secretary of Defense shall be made available to Congress only through the appropriate oversight committees of Congress, in accordance with applicable laws.
 
 (h)
 

@@ -14,7 +14,7 @@ In administering the recreation area, the Secretary shall give particular emphas
 
 #### (d) Native Americans
 
-(1) In recognition of the historic use of portions of the recreation area by Indian peoples for traditional cultural and customary uses, the Secretary shall, subject to the provisions of subsection (n) in consultation with local tribal leaders, ensure the protection of religious and cultural sites and provide access from time to time to those sites by Indian peoples for traditional cultural and customary uses. Such access shall be consistent with the purpose and intent of the Act of August 11, 1978 \[42 U.S.C. 1996, 1996a\] (commonly referred to as the "American Indian Religious Freedom Act"). The Secretary, in accordance with such Act, upon request of an Indian tribe or pueblo, may from time to time temporarily close to general public use one or more specific portions of the recreational area in order to protect traditional and customary uses in such portions by Indian peoples.
+(1) In recognition of the historic use of portions of the recreation area by Indian peoplesfor traditional cultural and customary uses, the Secretary shall, subject to the provisions of subsection (n) in consultation with local tribal leaders, ensure the protection of religious and cultural sites and provide access from time to time to those sites by Indian peoples for traditional cultural and customary uses. Such access shall be consistent with the purpose and intent of the Act of August 11, 1978 \[42 U.S.C. 1996, 1996a\] (commonly referred to as the "American Indian Religious Freedom Act"). The Secretary, in accordance with such Act, upon request of an Indian tribe or pueblo, may from time to time temporarily close to general public use one or more specific portions of the recreational area in order to protect traditional and customary uses in such portions by Indian peoples.
 
 (2) In preparing and implementing management plans for the recreation area, the Secretary shall request that the Governor of the Pueblo of Jemez and the chief executive officers of other appropriate Indian tribes and pueblos make recommendations on methods of—
 
@@ -38,7 +38,7 @@ The Secretary may permit timber harvesting in the recreation area for commercial
 
 #### (h) Grazing
 
-The Secretary may permit grazing within the recreation area in accordance with regulationsprescribed by the Secretary. Riparian areas shall be managed in such a manner as to protect their important resource values.
+The Secretary may permit grazing within the recreation area in accordance with regulations prescribed by the Secretary. Riparian areas shall be managed in such a manner as to protect their important resource values.
 
 #### (i) Transportation plan
 
@@ -78,7 +78,7 @@ The Secretary may designate zones where, and establish periods when, any activit
 
 #### References in Text
 
-The Archaeological Resources Protection Act of 1979, referred to in subsec. (c), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
+The Archaeological Resources Protection Act of 1979, referred to in subsec. (c), is Pub. L. 96–95, Oct. 31, 1979,93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
 
 The National Historic Preservation Act, referred to in subsec. (c), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. The Act, except for section 1, was repealed and restated in division A (§300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 

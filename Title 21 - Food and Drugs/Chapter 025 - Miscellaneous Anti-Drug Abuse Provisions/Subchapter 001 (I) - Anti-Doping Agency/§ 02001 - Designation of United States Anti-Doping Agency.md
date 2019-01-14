@@ -14,7 +14,7 @@ In this subchapter:
 
 #### (3) Amateur athlete
 
-&emsp;The term "amateur athlete" means an athlete who meets the eligibility standards established by the national governing body or paralympic sports organization for the sport inwhich the athlete competes (36 U.S.C. 22501(b)(1)).<sup>1</sup>
+&emsp;The term "amateur athlete" means an athlete who meets the eligibility standards established by the national governing body or paralympic sports organization for the sport in which the athlete competes (36 U.S.C. 22501(b)(1)).<sup>1</sup>
 
 #### (b) In general
 

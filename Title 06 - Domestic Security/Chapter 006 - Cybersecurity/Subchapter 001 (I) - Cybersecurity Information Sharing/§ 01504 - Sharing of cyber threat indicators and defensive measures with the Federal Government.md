@@ -140,7 +140,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;At any time after certification is submitted under subparagraph (A), the President may designate an appropriate Federal entity, other than the Department of Defense (including the National Security Agency), to develop and implement a capability and process as described in paragraph (1) in addition to the capability andprocess developed under such paragraph by the Secretary of Homeland Security, if, not fewer than 30 days before making such designation, the President submits to Congress a certification and explanation that—
+&emsp;&emsp;&emsp;At any time after certification is submitted under subparagraph (A), the President may designate an appropriate Federal entity, other than the Department of Defense (including the National Security Agency), to develop and implement a capability and process as described in paragraph (1) in addition to the capability and process developed under such paragraph by the Secretary of Homeland Security, if, not fewer than 30 days before making such designation, the President submits to Congress a certification and explanation that—
 
 &emsp;&emsp;&emsp;&emsp;(I) such designation is necessary to ensure that full, effective, and secure operation of a capability and process for the Federal Government to receive from any non-Federal entity cyber threat indicators or defensive measures under this subchapter;
 
@@ -150,7 +150,7 @@
 
 #### (ii) Application to additional capability and process
 
-&emsp;&emsp;&emsp;If the President designates an appropriate Federal entity to develop and implement a capability and process under clause (i), the provisions of this subchapter that apply to the capability and process required by paragraph (1) shall also be construed to apply to the capability and process developed and implemented under clause (i).
+&emsp;&emsp;&emsp;If the President designates an appropriate Federal entity to develop and implement a capability and process under clause\(i), the provisions of this subchapter that apply to the capability and process required by paragraph (1) shall also be construed to apply to the capability and process developed and implemented under clause (i).
 
 #### (3) Public notice and access
 

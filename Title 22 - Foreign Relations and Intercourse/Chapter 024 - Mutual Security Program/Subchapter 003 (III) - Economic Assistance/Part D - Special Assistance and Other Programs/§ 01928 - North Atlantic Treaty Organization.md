@@ -6,7 +6,7 @@ In order to provide for United States participation in the North Atlantic Treaty
 
 #### (b) Appointment of personal representative
 
-The United States permanent representative to the North Atlantic Treaty Organization shall be appointed by the President by and with the advice and consent of the Senate and shall hold office at the pleasure of the President. Such representative shall have the rank and status of ambassador extraordinary and plenipotentiary and shall be a chief of mission under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\].
+The United States permanent representative to the North Atlantic Treaty Organization shall be appointed by the President by and with the advice and consent of the Senate and shall hold office at the pleasure of the President. Such representative shall have the rank and status ofambassador extraordinary and plenipotentiary and shall be a chief of mission under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\].
 
 #### (c) Duration of staff service
 
@@ -40,25 +40,7 @@ Annual appropriations to meet the obligations of membership in various internati
 
 #### Annual Report Regarding NATO Special Operations Headquarters
 
-Pub. L. 111–84, div. A, title XII, §1244(d), as added Pub. L. 112–239, div. A, title XII, §1272(b), Jan. 2, 2013, 126 Stat. 2023, provided that: "Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report regarding support for the NSHQ \[NATO Special Operations Headquarters\]. Each report shall include the following:
-
-&emsp;"(1) The total amount of funding provided by the United States and other NATO nations to the NSHQ for operating costs of the NSHQ.
-
-&emsp;"(2) A description of the activities carried out with such funding, including—
-
-&emsp;&emsp;"(A) the amount of funding allocated for each such activity;
-
-&emsp;&emsp;"(B) the extent to which other NATO nations participate in each such activity;
-
-&emsp;&emsp;"(C) the extent to which each such activity is designed to meet the purposes set forth in paragraphs (1) through (5) of subsection (b) \[section 1244(b) of Pub. L. 111–84, 123 Stat. 2541\]; and
-
-&emsp;&emsp;"(D) an assessment of the extent to which each such activity will promote the mission of the NSHQ.
-
-&emsp;"(3) Other contributions, financial or in kind, provided by the United States and other NATO nations in support of the NSHQ.
-
-&emsp;"(4) Any other matters that the Secretary of Defense considers appropriate."
-
-\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1244(d) of Pub. L. 111–84, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces.\]
+Pub. L. 111–84, div. A, title XII, §1244(d), as added by Pub. L. 112–239, div. A, title XII, §1272(b), Jan. 2, 2013, 126 Stat. 2023, which mandated an annual report, with specified details, to Congress regarding support for NATO Special Operations Headquarters, was repealed by Pub. L. 115–232, div. A, title VIII, §813(d), Aug. 13, 2018, 132 Stat. 1851.
 
 #### Report on Host Countries Assuming Greater Share of Common Defense Burden
 
@@ -106,7 +88,7 @@ Pub. L. 110–17, Apr. 9, 2007, 121 Stat. 73, provided that:
 
 &emsp;"(4) In the NATO Participation Act of 1994 (title II of Public Law 103–447; 22 U.S.C. 1928 note), Congress declared that 'full and active participants in the Partnership for Peace in a position to further the principles of the North Atlantic Treaty and to contribute to the security of the North Atlantic area should be invited to become full NATO members in accordance with Article 10 of such Treaty at an early date . . .'.
 
-&emsp;"(5) In the NATO Enlargement Facilitation Act of 1996 (title VI of section 101(c) of title I of division A of Public Law 104–208; 22 U.S.C. 1928 note), Congress called for the prompt admission of Poland, Hungary, the Czech Republic, and Slovenia to the North Atlantic Treaty Organization, and declared that 'in order to promote economic stability and security in Slovakia, Estonia, Latvia, Lithuania, Romania, Bulgaria, Albania, Moldova, and Ukraine . . . the process of enlarging NATO to include emerging democracies in Central and Eastern Europe should not be limited to consideration of admitting Poland, Hungary, the Czech Republic, and Slovenia as full members of the NATO Alliance'.
+&emsp;"(5) In the NATO Enlargement Facilitation Act of 1996 (title VI of section 101(c) of title I of division A of Public Law 104–208; 22 U.S.C. 1928 note), Congress called for the prompt admission of Poland, Hungary,the Czech Republic, and Slovenia to the North Atlantic Treaty Organization, and declared that 'in order to promote economic stability and security in Slovakia, Estonia, Latvia, Lithuania, Romania, Bulgaria, Albania, Moldova, and Ukraine . . . the process of enlarging NATO to include emerging democracies in Central and Eastern Europe should not be limited to consideration of admitting Poland, Hungary, the Czech Republic, and Slovenia as full members of the NATO Alliance'.
 
 &emsp;"(6) In the European Security Act of 1998 (title XXVII of division G of Public Law 105–277; 22 U.S.C. 1928 note), Congress declared that 'Poland, Hungary, and the Czech Republic should not be the last emerging democracies in Central and Eastern Europe invited to join NATO' and that 'Romania, Estonia, Latvia, Lithuania, and Bulgaria . . . would make an outstanding contribution to furthering the goals of NATO and enhancing stability, freedom, and peace in Europe should they become NATO members \[and\] upon complete satisfaction of all relevant criteria should be invited to become full NATO members at the earliest possible date'.
 
@@ -268,7 +250,7 @@ Pub. L. 108–136, div. C, title XXXVI, §3623, Nov. 24, 2003, 117 Stat. 1824, p
 
 "(a)
 
-Sense of Congress.—It is the sense of Congress that the President should, in conjunction with the North Atlantic Treaty Organization, encourage appropriate cooperative relationships between the Russian Federation and the United States and North Atlantic Treaty Organization with respect to the development and deployment of ballistic missile defenses.
+Sense of Congress.—It is the sense of Congress that the President should, in conjunction with the North Atlantic Treaty Organization, encourage appropriate cooperative relationships between the RussianFederation and the United States and North Atlantic Treaty Organization with respect to the development and deployment of ballistic missile defenses.
 
 "(b)
 
@@ -302,7 +284,7 @@ Pub. L. 107–187, June 10, 2002, 116 Stat. 590, provided that:
 
 &emsp;"(5) At the Washington Summit of the NATO Alliance in April 1999, the NATO heads of state and government issued a communique declaring '\[w\]e pledge that NATO will continue to welcome new members in a position to further the principles of the \[North Atlantic\] Treaty and contribute to peace and security in the Euro-Atlantic area . . . \[t\]he three new members will not be the last . . . \[n\]o European democratic country whose admission would fulfill the objectives of the Treaty will be excluded from consideration, regardless of its geographic location . . .'.
 
-&emsp;"(6) In late 2002, NATO will hold a summit in Prague, the Czech Republic, at which it will decidewhich additional emerging democracies in Central and Eastern Europe to invite to join the Alliance in the next round of NATO enlargement.
+&emsp;"(6) In late 2002, NATO will hold a summit in Prague, the Czech Republic, at which it will decide which additional emerging democracies in Central and Eastern Europe to invite to join the Alliance in the next round of NATO enlargement.
 
 &emsp;"(7) In May 2000 in Vilnius, Lithuania, the foreign ministers of Albania, Bulgaria, Estonia, Latvia, Lithuania, the Former Yugoslav Republic of Macedonia, Romania, Slovakia, and Slovenia issued a statement (later joined by Croatia) declaring that their countries will cooperate in jointly seeking NATO membership in the next round of NATO enlargement, that the realization of NATO membership by one or more of these countries would be a success for all, and that eventual NATO membership for all of these countries would be a success for Europe and NATO.
 
@@ -328,7 +310,7 @@ In General.—Slovakia is designated as eligible to receive assistance under the
 
 "(b)
 
-Rule of Construction.—The designation of Slovakia pursuant to subsection (a) as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994—
+Rule of Construction.—The designation of Slovakia pursuant to subsection (a) as eligible to receiveassistance under the program established under section 203(a) of the NATO Participation Act of 1994—
 
 &emsp;"(1) is in addition to the designation of Poland, Hungary, the Czech Republic, and Slovenia pursuant to section 606 of the NATO Enlargement Facilitation Act of 1996 (title VI of section 101(c) of title I of division A of Public Law 104–208; 22 U.S.C. 1928 note) and the designation of Romania, Estonia, Latvia, Lithuania, and Bulgaria pursuant to section 2703(b) of the European Security Act of 1998 (title XXVII of division G of Public Law 105–277; 22 U.S.C. 1928 note) as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994; and
 
@@ -390,7 +372,7 @@ Pub. L. 105–277, div. G, subdiv. B, title XXVII, Oct. 21, 1998, 112 Stat. 2681
 
 "(a)
 
-Policy With Respect to NATO Enlargement.—Congress urges the President to outline a clear and complete strategic rationale for the enlargement of theNorth Atlantic Treaty Organization (NATO), and declares that—
+Policy With Respect to NATO Enlargement.—Congress urges the President to outline a clear and complete strategic rationale for the enlargement of the North Atlantic Treaty Organization (NATO), and declares that—
 
 &emsp;"(1) Poland, Hungary, and the Czech Republic should not be the last emerging democracies in Central and Eastern Europe invited to join NATO;
 
@@ -784,7 +766,7 @@ Cooperative Regional Peacekeeping Initiatives.—The Congress encourages the Pre
 
 #### "SEC. 610. MODERNIZATION OF DEFENSE CAPABILITY.
 
-"The Congress endorses efforts by the United States to modernize the defense capability of Poland, Hungary, the Czech Republic, Slovenia, and any other countries designated by the President pursuant to section 203(d) of the NATO Participation Act of 1994 \[Pub. L. 103–447, set out in a note below\], by exploring with such countries options for the sale or lease to such countries of weapons systems compatible with those used by NATO members, including air defense systems, advanced fighter aircraft, and telecommunications infrastructure.
+"The Congress endorses efforts by the United States to modernize the defense capability of Poland, Hungary, the Czech Republic, Slovenia, and any other countries designated by the President pursuant to section 203(d) of the NATO Participation Act of 1994 \[Pub.L. 103–447, set out in a note below\], by exploring with such countries options for the sale or lease to such countries of weapons systems compatible with those used by NATO members, including air defense systems, advanced fighter aircraft, and telecommunications infrastructure.
 
 #### "SEC. 611. TERMINATION OF ELIGIBILITY.
 
@@ -914,7 +896,7 @@ Conduct of Program.—The program established under subsection (a) shall facilit
 
 "(c)
 
-Type of Assistance.—In carrying out the program established under subsection (a), the Presidentmay provide to the countries designated under subsection (d) the following types of security assistance:
+Type of Assistance.—In carrying out the program established under subsection (a), the President may provide to the countries designated under subsection (d) the following types of security assistance:
 
 &emsp;"(1) The transfer of excess defense articles under section 516 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2321j\].
 
@@ -1128,7 +1110,7 @@ Findings.—The Congress hereby finds—
 
 &emsp;"(4) the United States Government appreciates the May 1981 commitment by the Prime Minister of Japan that, pursuant to the Treaty of Mutual Cooperation and Security of 1960 between Japan and the United States, Japan, on its own initiative, would seek to make even greater efforts for improving its defense capabilities, and pursuant to Japan's own Constitution, it was national policy for his country to acquire and maintain the self-defense forces adequate for the defense of its land area and surrounding airspace and sealanes, out to a distance of 1,000 miles;
 
-&emsp;"(5) the United States Government applauds the policy of Japan to obtain the capabilities to defend its sea and air lanes out to 1,000 miles, expects that these capabilities should be acquired by the end of the decade, and recognizes that achieving those capabilities would significantly improve the national security of both Japan and the United States;
+&emsp;"(5) the United States Government applauds the policy of Japan to obtain the capabilities to defendits sea and air lanes out to 1,000 miles, expects that these capabilities should be acquired by the end of the decade, and recognizes that achieving those capabilities would significantly improve the national security of both Japan and the United States;
 
 &emsp;"(6) the United States Government appreciates the contribution already made by Japan through the Host Nation Support Program and its recent efforts to increase its defense spending; and
 
@@ -1294,7 +1276,7 @@ Pub. L. 86–719, Sept. 7, 1960, 74 Stat. 818, as amended by Pub. L. 87–116, J
 
 Ex. Ord. No. 11633. Dec. 3, 1971, 36 F.R. 23197, provided:
 
-The United States now participates in the activities of the North Atlantic Treaty Organization (NATO), the South-East Asia Treaty Organization (SEATO), and the Central Treaty Organization (CENTO). The Security regulations of these three treaty organizations provide that each participating nation shall be responsible for the security screening and security clearance of its own citizens before they are authorized access to the Organization's TOP SECRET, SECRET, or CONFIDENTIAL information. There is no existing program, however, under which United States civilians who are hired directly by these organizations can be screened and cleared for access to such Organization's TOP SECRET, SECRET, or CONFIDENTIAL information while so employed. It is, of course, in the interest of the United States that United States citizens who participate in the activities of NATO, SEATO, and CENTO as direct hire employees of the civil or military agencies of those organizations be reliable, trustworthy, of good conduct and character, and of complete and unswerving loyalty to the United States. At the same time, it is a fundamental principle of our Government to protect against unreasonable or unwarranted encroachment on the freedom and privacy of individuals.
+The United States now participates in the activities of the North Atlantic Treaty Organization (NATO), the South-East Asia Treaty Organization (SEATO), and the Central Treaty Organization (CENTO). The Security regulations of these three treaty organizations provide that each participating nation shall be responsible for the security screening and security clearance of its own citizens before they are authorized access to the Organization's TOP SECRET, SECRET, or CONFIDENTIAL information. There is no existing program, however, under which United States civilians who are hired directly by these organizations can be screened and cleared for access to such Organization's TOP SECRET,SECRET, or CONFIDENTIAL information while so employed. It is, of course, in the interest of the United States that United States citizens who participate in the activities of NATO, SEATO, and CENTO as direct hire employees of the civil or military agencies of those organizations be reliable, trustworthy, of good conduct and character, and of complete and unswerving loyalty to the United States. At the same time, it is a fundamental principle of our Government to protect against unreasonable or unwarranted encroachment on the freedom and privacy of individuals.
 
 I have determined that the provisions and procedures prescribed by this Order are necessary to assure the preservation of the integrity of the classified information of NATO, SEATO, and CENTO, and to protect the national interest. I have also determined that these provisions and procedures recognize the rights of individuals affected thereby and provide maximum possible safeguards to protect such rights.
 

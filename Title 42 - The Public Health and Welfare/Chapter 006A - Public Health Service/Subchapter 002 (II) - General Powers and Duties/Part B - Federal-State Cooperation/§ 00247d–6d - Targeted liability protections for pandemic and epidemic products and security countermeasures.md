@@ -184,7 +184,7 @@
 
 #### (i) Enforcement action
 
-&emsp;&emsp;&emsp;The term "enforcement action" means a criminal prosecution, an action seeking an injunction, a seizure action, a civil monetary proceeding based on willful misconduct, a mandatory recall of a product because voluntary recall was refused, a proceeding to compel repair or replacement of a product, a termination of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\], a debarment proceeding, an investigator disqualification proceeding where an investigator is an employee or agent of the manufacturer, a revocation, based on willful misconduct, of an authorization under section 564 of such Act \[21 U.S.C. 360bbb–3\], or a suspension or withdrawal, based on willful misconduct,of an approval or clearance under chapter V of such Act \[21 U.S.C. 351 et seq.\] or of a licensure under section 262 of this title.
+&emsp;&emsp;&emsp;The term "enforcement action" means a criminal prosecution, an action seeking an injunction, a seizure action, a civil monetary proceeding based on willful misconduct, a mandatory recall of a product because voluntary recall was refused, a proceeding to compel repair or replacement of a product, a termination of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\], a debarment proceeding, an investigator disqualification proceeding where an investigator is an employee or agent of the manufacturer, a revocation, based on willful misconduct, of an authorization under section 564 of such Act \[21 U.S.C. 360bbb–3\], or a suspension or withdrawal, based on willful misconduct, of an approval or clearance under chapter V of such Act \[21 U.S.C. 351 et seq.\] or of a licensure under section 262 of this title.
 
 #### (ii) Covered remedy
 
@@ -256,7 +256,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The complaint shall include a verification, made by affidavit of the plaintiffunder oath, stating that the pleading is true to the knowledge of the deponent, except as to matters specifically identified as being alleged on information and belief, and that as to those matters the plaintiff believes it to be true.
+&emsp;&emsp;&emsp;The complaint shall include a verification, made by affidavit of the plaintiff under oath, stating that the pleading is true to the knowledge of the deponent, except as to matters specifically identified as being alleged on information and belief, and that as to those matters the plaintiff believes it to be true.
 
 #### (ii) Identification of matters alleged upon information and belief
 
@@ -318,7 +318,7 @@
 
 #### (9) Rule 11 sanctions
 
-&emsp;Whenever a district court of the United States determines that there has been a violation of Rule 11 of the Federal Rules of Civil Procedure in an action under subsection (d),the court shall impose upon the attorney, law firm, or parties that have violated Rule 11 or are responsible for the violation, an appropriate sanction, which may include an order to pay the other party or parties for the reasonable expenses incurred as a direct result of the filing of the pleading, motion, or other paper that is the subject of the violation, including a reasonable attorney's fee. Such sanction shall be sufficient to deter repetition of such conduct or comparable conduct by others similarly situated, and to compensate the party or parties injured by such conduct.
+&emsp;Whenever a district court of the United States determines that there has been a violation of Rule 11 of the Federal Rules of Civil Procedure in an action under subsection (d), the court shall impose upon the attorney, law firm, or parties that have violated Rule 11 or are responsible for the violation, an appropriate sanction, which may include an order to pay the other party or parties for the reasonable expenses incurred as a direct result of the filing of the pleading, motion, or other paper that is the subject of the violation, including a reasonable attorney's fee. Such sanction shall be sufficient to deter repetition of such conduct or comparable conduct by others similarly situated, and to compensate the party or parties injured by such conduct.
 
 #### (10) Interlocutory appeal
 
@@ -326,7 +326,7 @@
 
 #### (f) Actions by and against the United States
 
-Nothing in this section shall be construed to abrogate or limit any right, remedy, or authority that the United States or any agency thereof may possess under any other provision of law or to waive sovereign immunity or to abrogate or limit any defense or protection available to the United States or its agencies, instrumentalities, officers, or employees under any other law, including any provision of chapter 171 of title 28 (relating to tort claims procedure).
+Nothing in this section shall be construed to abrogate or limit any right, remedy, or authority that the United States or any agency thereof may possess under any other provision of law or to waive sovereign immunity or to abrogate or limit any defense or protection available to the United States or its agencies, instrumentalities,officers, or employees under any other law, including any provision of chapter 171 of title 28 (relating to tort claims procedure).
 
 #### (g) Severability
 
@@ -392,7 +392,7 @@ In this section:
 
 #### (7) Qualified pandemic or epidemic product
 
-&emsp;The term "qualified pandemic or epidemic product" means a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1)),<sup>2</sup>biological product (as such term is defined by section 262(i) of this title), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321(h)) <sup>2</sup> that is—
+&emsp;The term "qualified pandemic or epidemic product" means a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1)),<sup>2</sup> biological product (as such term is defined by section 262(i) of this title), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321(h)) <sup>2</sup> that is—
 
 &emsp;&emsp;(A)(i) a product manufactured, used, designed, developed, modified, licensed, or procured—
 
@@ -406,7 +406,7 @@ In this section:
 
 &emsp;&emsp;(B)(i) approved or cleared under chapter V of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 351 et seq.\] or licensed under section 262 of this title;
 
-&emsp;&emsp;(ii) the object of research for possible use as described by subparagraph (A) and is the subject of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\]; or
+&emsp;&emsp;(ii) the object of research for possible use as described by subparagraph (A) and is the subject of an exemption under section 505(i)or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\]; or
 
 &emsp;&emsp;(iii) authorized for emergency use in accordance with section 564, 564A, or 564B of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–3, 360bbb–3a, 360bbb–3b\].
 

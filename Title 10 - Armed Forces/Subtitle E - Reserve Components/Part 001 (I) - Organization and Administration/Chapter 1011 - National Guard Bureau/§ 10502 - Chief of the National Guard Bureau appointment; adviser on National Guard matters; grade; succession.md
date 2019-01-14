@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment.—There is a Chief of the National Guard Bureau, who is responsible for the organization and operations of the National Guard Bureau. The Chief of the National Guard Bureau is appointed by the President, by and with the advice and consent of the Senate. Such appointment shall be made from officers of the Army National Guard of the United States orthe Air National Guard of the United States who—
+Appointment.—There is a Chief of the National Guard Bureau, who is responsible for the organization and operations of the National Guard Bureau. The Chief of the National Guard Bureau is appointed by the President, by and with the advice and consent of the Senate. Such appointment shall be made from officers of the Army National Guard of the United States or the Air National Guard of the United States who—
 
 &emsp;(1) are recommended for such appointment by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard;
 

@@ -2,7 +2,7 @@
 
 #### (a) Risk-based capital test
 
-Not sooner than the expiration of the 3-year period beginning on February 10, 1996, the Director of the Office of Secondary Market Oversight shall, by regulation, establish a risk-based capital test under this section for the Corporation. When applied to the Corporation, the risk-based capital test shall determine the amount of regulatory capital for the Corporation that is sufficient for the Corporation to maintain positive capital during a 10-year period in which both of the following circumstances occur:
+The Director of the Office of Secondary Market Oversight shall, by regulation, establish a risk-based capital test under this section for the Corporation. When applied to the Corporation, the risk-based capital test shall determine the amount of regulatory capital for the Corporation that is sufficient for the Corporation to maintain positive capital during a 10-year period in which both of the following circumstances occur:
 
 #### (1) Credit risk
 
@@ -12,7 +12,7 @@ Not sooner than the expiration of the 3-year period beginning on February 10, 19
 
 #### (B) Rural utility loans
 
-&emsp;&emsp;With respect to securities representing an interest in, or obligation backed by, a pool of qualified loans described in section 2279aa(9)(C) of this title owned or guaranteed by the Corporation, losses occur at a rate of default and severity reasonably related to risks in electric and telephone facility loans (as applicable), as determined by the Director.
+&emsp;&emsp;With respect to securities representing an interest in, or obligation backed by, a pool of qualified loans described in section 2279aa(7)(C) of this title owned or guaranteed by the Corporation, losses occur at a rate of default and severity reasonably related to risks in electric and telephone facility loans (as applicable), as determined by the Director.
 
 #### (2) Interest rate risk
 
@@ -24,7 +24,7 @@ Not sooner than the expiration of the 3-year period beginning on February 10, 19
 
 &emsp;In establishing the risk-based capital test under subsection (a)—
 
-&emsp;&emsp;(A) the Director shall take into account appropriate distinctions based on various types of agricultural mortgage products, varying terms of Treasury obligations, and any other factors the Director considers appropriate;
+&emsp;&emsp;(A) the Director shall take into account appropriate distinctions based on varioustypes of agricultural mortgage products, varying terms of Treasury obligations, and any other factors the Director considers appropriate;
 
 &emsp;&emsp;(B) the Director shall conform loan data used in determining credit risk to the minimum geographic and commodity diversification standards applicable to pools of qualified loans eligible for guarantee;
 
@@ -44,7 +44,7 @@ For purposes of this part, the risk-based capital level for the Corporation shal
 
 #### (1) Credit and interest rate risk
 
-&emsp;The amount of regulatory capital determined by applying the risk-based capital testunder subsection (a) to the Corporation, adjusted to account for foreign exchange risk.
+&emsp;The amount of regulatory capital determined by applying the risk-based capital test under subsection (a) to the Corporation, adjusted to account for foreign exchange risk.
 
 #### (2) Management and operations risk
 
@@ -68,13 +68,17 @@ For purposes of this part, the risk-based capital level for the Corporation shal
 
 The Director shall make copies of the statistical model or models used to implement the risk-based capital test under this section available for public acquisition and may charge a reasonable fee for such copies.
 
-(Pub. L. 92–181, title VIII, §8.32, as added Pub. L. 102–237, title V, §503(b)(2), Dec. 13, 1991, 105 Stat. 1871; amended Pub. L. 102–552, title III, §308(b)(3), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, §§109(b)(3), 113, Feb. 10, 1996, 110 Stat. 165, 166; Pub. L. 110–234, title V, §5406(d), May 22, 2008, 122 Stat. 1159; Pub. L. 110–246, §4(a), title V, §5406(d), June 18, 2008, 122 Stat. 1664, 1920.)
+(Pub. L. 92–181, title VIII, §8.32, as added Pub. L. 102–237, title V, §503(b)(2), Dec. 13, 1991, 105 Stat. 1871; amended Pub. L. 102–552, title III, §308(b)(3), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, §§109(b)(3), 113, Feb. 10, 1996, 110 Stat. 165, 166; Pub. L. 110–234, title V, §5406(d), May 22, 2008, 122 Stat. 1159; Pub. L. 110–246, §4(a), title V, §5406(d), June 18, 2008, 122 Stat. 1664, 1920; Pub. L. 115–334, title V, §5411(48), Dec. 20, 2018, 132 Stat. 4685.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–334, §5411(48)(A), substituted "The" for "Not sooner than the expiration of the 3-year period beginning on February 10, 1996, the" in introductory provisions.
+
+Subsec. (a)(1)(B). Pub. L. 115–334, §5411(48)(B), substituted "section 2279aa(7)(C)" for "section 2279aa(9)(C)".
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §5406(d), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
@@ -94,5 +98,5 @@ Subsec. (b)(2). Pub. L. 102–552, §308(b)(3)(A), substituted "December 13, 199
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

@@ -1,6 +1,6 @@
 ### §2004b. Implementation of education, hospital and health facility, etc., contracts and grants by Public Health Service personnel; request for detail of personnel
 
-In accordance with subsection (d) of section 215 of this title, upon the request of any Indian tribe, band, group, or community, commissioned officers of the Service may be assigned by the Secretary for the purpose of assisting such Indian tribe, group, band, or community in carrying out the provisions of contracts with, or grants to, tribal organizations pursuant to sections 5321 and 5322 of title 25.
+In accordance with subsection (d) of section 215 of this title, upon the request of any Indian tribe, band, group, or community, commissioned officers of the Service may be assigned by theSecretary for the purpose of assisting such Indian tribe, group, band, or community in carrying out the provisions of contracts with, or grants to, tribal organizations pursuant to sections 5321 and 5322 of title 25.
 
 (Aug. 5, 1954, ch. 658, §8, as added Pub. L. 93–638, title I, §104(b), formerly §105(b), Jan. 4, 1975, 88 Stat. 2208; renumbered §104(b) and amended Pub. L. 100–472, title II, §203(a), (c), Oct. 5, 1988, 102 Stat. 2290.)
 

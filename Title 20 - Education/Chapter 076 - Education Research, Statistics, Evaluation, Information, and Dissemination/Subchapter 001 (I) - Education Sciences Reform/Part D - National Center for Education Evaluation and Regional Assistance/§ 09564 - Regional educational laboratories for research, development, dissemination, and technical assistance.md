@@ -16,7 +16,7 @@ The Director may enter into contracts under this section with research organizat
 
 #### (1) Submission
 
-&emsp;Each applicant desiring a contract under this section shall submit an application at such time, in such manner, and containing such information as the Director may reasonably require.
+&emsp;Each applicant desiring a contract under this section shall submit an application atsuch time, in such manner, and containing such information as the Director may reasonably require.
 
 #### (2) Plan
 
@@ -38,7 +38,7 @@ The Director may enter into contracts under this section with research organizat
 
 &emsp;&emsp;(A) share information about the activities of each regional educational laboratory awarded a contract under this section with each other regional educational laboratory awarded a contract under this section and with the Department of Education, including the Director and the Board;
 
-&emsp;&emsp;(B) oversee a strategic plan for ensuring that each regional educational laboratoryawarded a contract under this section increases collaboration and resource-sharing in such activities;
+&emsp;&emsp;(B) oversee a strategic plan for ensuring that each regional educational laboratory awarded a contract under this section increases collaboration and resource-sharing in such activities;
 
 &emsp;&emsp;(C) ensure, where appropriate, that the activities of each regional educational laboratory awarded a contract under this section also serve national interests; and
 
@@ -154,7 +154,7 @@ Each regional educational laboratory awarded a contract under this section shall
 
 &emsp;&emsp;&emsp;&emsp;(III) engages in an ongoing dialogue with the Evaluation and Regional Assistance Commissioner concerning the laboratory's goals, activities, and priorities; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) determines at the start of the contract period, subject to the requirements of this section and in consultation with the Evaluation and Regional Assistance Commissioner, the mission of the regional educational laboratory for the duration of the contract period;
+&emsp;&emsp;&emsp;&emsp;(IV) determines at the start of the contract period, subject to the requirementsof this section and in consultation with the Evaluation and Regional Assistance Commissioner, the mission of the regional educational laboratory for the duration of the contract period;
 
 &emsp;&emsp;&emsp;(v) ensures that the regional educational laboratory attains and maintains a high level of quality in the laboratory's work and products;
 

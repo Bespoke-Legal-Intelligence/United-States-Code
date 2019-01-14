@@ -8,9 +8,11 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 &emsp;(2) 18.25 cents per pound for raw cane sugar for the 2009 crop year;
 
-&emsp;(3) 18.50 cents per pound for raw cane sugar for the 2010 crop year; and
+&emsp;(3) 18.50 cents per pound for raw cane sugar for the 2010 crop year;
 
-&emsp;(4) 18.75 cents per pound for raw cane sugar for each of the 2011 through 2018 crop years.
+&emsp;(4) 18.75 cents per pound for raw cane sugar for each of the 2011 through 2018 crop years; and
+
+&emsp;(5) 19.75 cents per pound for raw cane sugar for each of the 2019 through 2023 crop years.
 
 #### (b) Sugar beets
 
@@ -18,13 +20,13 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 &emsp;(1) 22.9 cents per pound for refined beet sugar for the 2008 crop year; and
 
-&emsp;(2) a rate that is equal to 128.5 percent of the loan rate per pound of raw cane sugar for the applicable crop year under subsection (a) for each of the 2009 through 2018 crop years.
+&emsp;(2) a rate that is equal to 128.5 percent of the loan rate per pound of raw cane sugar for the applicable crop year under subsection (a) for each of the 2009 through 2023 crop years.
 
 #### (c) Term of loans
 
 #### (1) In general
 
-&emsp;A loan under this section during any fiscal year shall be made available not earlier than the beginning of the fiscal year and shall mature at the earlier of—
+&emsp;A loan under this section during any fiscal year shall be made available not earlier thanthe beginning of the fiscal year and shall mature at the earlier of—
 
 &emsp;&emsp;(A) the end of the 9-month period beginning on the first day of the first month after the month in which the loan is made; or
 
@@ -62,7 +64,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (3) Administration
 
-&emsp;The Secretary may not impose or enforce any prenotification requirement, or similaradministrative requirement not otherwise in effect on May 13, 2002, that has the effect of preventing a processor from electing to forfeit the loan collateral (of an acceptable grade and quality) on the maturity of the loan.
+&emsp;The Secretary may not impose or enforce any prenotification requirement, or similar administrative requirement not otherwise in effect on May 13, 2002, that has the effect of preventing a processor from electing to forfeit the loan collateral (of an acceptable grade and quality) on the maturity of the loan.
 
 #### (e) Loans for in-process sugar
 
@@ -142,7 +144,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (B) Other States
 
-&emsp;&emsp;The Secretary may require each producer of sugarcane or sugar beets not covered bysubparagraph (A) to report, in a manner prescribed by the Secretary, the yields of, and acres planted to, sugarcane or sugar beets, respectively, of the producer.
+&emsp;&emsp;The Secretary may require each producer of sugarcane or sugar beets not covered by subparagraph (A) to report, in a manner prescribed by the Secretary, the yields of, and acres planted to, sugarcane or sugar beets, respectively, of the producer.
 
 #### (3) Duty of importers to report
 
@@ -182,9 +184,9 @@ For purposes of Additional U.S. Note 6 to chapter 17 of the Harmonized Tariff Sc
 
 #### (i) Effective period
 
-This section shall be effective only for the 2008 through 2018 crops of sugar beets and sugarcane.
+This section shall be effective only for the 2008 through 2023 crops of sugar beets and sugarcane.
 
-(Pub. L. 104–127, title I, §156, Apr. 4, 1996, 110 Stat. 931; Pub. L. 106–387, §1(a) \[title VIII, §836\], Oct. 28, 2000, 114 Stat. 1549, 1549A–62; Pub. L. 107–171, title I, §1401(a), May 13, 2002, 116 Stat. 183; Pub. L. 110–234, title I, §1401(a), May 22, 2008, 122 Stat. 977; Pub. L. 110–246, §4(a), title I, §1401(a), June 18, 2008, 122 Stat. 1664, 1705; Pub. L. 113–79, title I, §1301(a), Feb. 7, 2014, 128 Stat. 687.)
+(Pub. L. 104–127, title I, §156, Apr. 4, 1996, 110 Stat. 931; Pub. L. 106–387, §1(a) \[title VIII, §836\], Oct. 28, 2000, 114 Stat. 1549, 1549A–62; Pub. L. 107–171, title I, §1401(a), May 13, 2002, 116 Stat. 183; Pub. L. 110–234, title I, §1401(a), May 22, 2008, 122 Stat. 977; Pub. L. 110–246, §4(a), title I, §1401(a), June 18, 2008, 122 Stat. 1664, 1705; Pub. L. 113–79, title I, §1301(a), Feb. 7, 2014, 128 Stat. 687; Pub. L. 115–334, title I, §1301(a), Dec. 20, 2018, 132 Stat. 4511.)
 
 #### References in Text
 
@@ -195,6 +197,12 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (h),
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(5). Pub. L. 115–334, §1301(a)(1), added par. (5).
+
+Subsec. (b)(2). Pub. L. 115–334, §1301(a)(2), substituted "2023" for "2018".
+
+Subsec. (i). Pub. L. 115–334, §1301(a)(3), substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (a)(3)–(5). Pub. L. 113–79, §1301(a)(1), inserted "and" at end of par. (3), substituted "each of the 2011 through 2018 crop years." for "the 2011 crop year; and" in par. (4), and struck out par. (5) which read as follows: "18.75 cents per pound for raw cane sugar for the 2012 crop year."
 

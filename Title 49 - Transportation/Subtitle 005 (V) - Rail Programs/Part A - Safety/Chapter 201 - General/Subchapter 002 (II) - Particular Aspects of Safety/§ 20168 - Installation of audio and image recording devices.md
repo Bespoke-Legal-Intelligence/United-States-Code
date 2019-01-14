@@ -48,7 +48,7 @@ Exemptions.—The Secretary may exempt any railroad carrier subject to the requi
 
 (f)
 
-Tampering.—A railroad carrier subject to the requirements of subsection (a) may take appropriate enforcement or administrative action against any employee that tampers with or disables an audio or inward- or outward-facing image recording device installed by the railroad carrier.
+Tampering.—A railroad carrier subject to the requirements of subsection (a) may take appropriate enforcement or administrative action against any employee that tampers with or disables an audio or inward- or outward-facingimage recording device installed by the railroad carrier.
 
 (g)
 

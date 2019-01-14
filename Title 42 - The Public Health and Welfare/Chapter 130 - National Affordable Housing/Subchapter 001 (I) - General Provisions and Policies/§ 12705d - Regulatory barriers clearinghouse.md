@@ -14,7 +14,7 @@ The Secretary of Housing and Urban Development shall establish a clearinghouse t
 
 The clearinghouse established under subsection (a) shall—
 
-&emsp;(1) respond to inquiries from State and local governments, other organizations, and individuals requesting information regarding State and local laws, regulations, policies, activities, strategies, and plans described in subsection (a);
+&emsp;(1) respond to inquiries from State and local governments, other organizations, and individuals requesting information regarding Stateand local laws, regulations, policies, activities, strategies, and plans described in subsection (a);
 
 &emsp;(2) provide assistance in identifying, examining, and understanding such laws, regulations, policies, activities, strategies, and plans; and
 

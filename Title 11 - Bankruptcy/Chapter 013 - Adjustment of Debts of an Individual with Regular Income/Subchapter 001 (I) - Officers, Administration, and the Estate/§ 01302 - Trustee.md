@@ -96,7 +96,7 @@ Subsec. (d). Pub. L. 109–8, §219(d)(2), added subsec. (d).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–554, §228(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "If the court has appointed an individual under subsection (d) of this section to serve as standing trustee in cases under this chapter and if such individual qualifies under section 322 of this title, then such individual shall serve as trustee in the case. Otherwise, the court shall appoint a person to serve as trustee in the case."
 
-Subsec. (d). Pub. L. 99–554, §228(2), struck out subsec. (d) which read as follows: "If the number of cases under this chapter commenced in a particular judicial district so warrant, the court may appoint one or more individuals to serve as standing trustee for such district in cases under this chapter."
+Subsec. (d). Pub. L. 99–554, §228(2), struck out subsec. (d) which read as follows: "If the number of cases underthis chapter commenced in a particular judicial district so warrant, the court may appoint one or more individuals to serve as standing trustee for such district in cases under this chapter."
 
 Subsec. (e). Pub. L. 99–554, §283(w), which directed the amendment of par. (1) by substituting "set for such individual" for "fix" could not be executed in view of the repeal of subsec. (e) by section 228(2) of Pub. L. 99–554. See 1984 Amendment note below.
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1986 Amendment
 
-Effective date and applicability of amendment by section 228 of Pub. L. 99–554 dependent upon the judicialdistrict involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Effective date and applicability of amendment by section 228 of Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554.
 

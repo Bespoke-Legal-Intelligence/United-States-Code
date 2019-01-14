@@ -1,6 +1,6 @@
 ### §905. Funding assistance
 
-In the case of any homeland defense activity for which the Secretary of Defense determinesunder section 902 of this title that participation of units or members of the National Guard of a State is necessary and appropriate, the Secretary may provide funds to that State in an amount that the Secretary determines is appropriate for the following costs of the participation in that activity from funds available to the Department for related purposes:
+In the case of any homeland defense activity for which the Secretary of Defense determines under section 902 of this title that participation of units or members of the National Guard of a State is necessary and appropriate, the Secretary may provide funds to that State in an amount that the Secretary determines is appropriate for the following costs of the participation in that activity from funds available to the Department for related purposes:
 
 &emsp;(1) The pay, allowances, clothing, subsistence, gratuities, travel, and related expenses of personnel of the National Guard of that State.
 

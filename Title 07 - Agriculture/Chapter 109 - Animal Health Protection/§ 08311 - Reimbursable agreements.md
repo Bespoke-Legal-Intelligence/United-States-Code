@@ -2,7 +2,7 @@
 
 #### (a) Authority to enter into agreements
 
-The Secretary may enter into reimbursable fee agreements with persons for preclearance ofanimals or articles at locations outside the United States for movement into the United States.
+The Secretary may enter into reimbursable fee agreements with persons for preclearance of animals or articles at locations outside the United States for movement into the United States.
 
 #### (b) Funds collected for preclearance
 

@@ -92,7 +92,7 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 Pub. L. 98–369, div. A, title I, §105(b), July 18, 1984, 98 Stat. 629, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to options purchased or granted after October 31, 1983, in taxable years ending after such date."
 
-Amendment by section 1001(b)(18) of Pub. L. 98–369 applicable to property acquired after June 22, 1984, andbefore Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
+Amendment by section 1001(b)(18) of Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
 
 #### Effective Date of 1976 Amendment
 

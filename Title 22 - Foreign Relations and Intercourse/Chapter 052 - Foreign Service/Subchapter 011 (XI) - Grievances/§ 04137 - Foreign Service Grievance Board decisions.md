@@ -10,7 +10,7 @@ If the Board finds that the grievance is meritorious, the Board shall have the a
 
 &emsp;(1) to correct any official personnel record relating to the grievant which the Board finds to be inaccurate or erroneous, to have an omission, or to contain information of a falsely prejudicial character;
 
-&emsp;(2) to reverse a decision denying the grievant compensation or any other perquisite of employment authorized by laws or regulationswhen the Board finds that such decision was arbitrary, capricious, or contrary to laws or regulations;
+&emsp;(2) to reverse a decision denying the grievant compensation or any other perquisite of employment authorized by laws or regulations when the Board finds that such decision was arbitrary, capricious, or contrary to laws or regulations;
 
 &emsp;(3) to retain in the Service a member whose separation would be in consequence of the matter by which the member is aggrieved;
 

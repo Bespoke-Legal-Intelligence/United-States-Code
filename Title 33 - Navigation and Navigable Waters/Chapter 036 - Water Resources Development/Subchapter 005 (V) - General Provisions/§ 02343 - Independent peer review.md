@@ -80,7 +80,7 @@
 
 #### (1) In general
 
-&emsp;The Chief of Engineers shall determine the timing of a peer review of a project study under subsection (a). In all cases, the peer review shall occur during the period beginning on the date of the signing of the feasibility cost-sharing agreement for the study and ending on the date established under subsection (e)(1)(A) for the peer review and shall be accomplished concurrent with the conducting of the project study.
+&emsp;The Chief of Engineers shall determine the timing of a peer review of a project studyunder subsection (a). In all cases, the peer review shall occur during the period beginning on the date of the signing of the feasibility cost-sharing agreement for the study and ending on the date established under subsection (e)(1)(A) for the peer review and shall be accomplished concurrent with the conducting of the project study.
 
 #### (2) Factors to consider
 
@@ -202,7 +202,7 @@ This section shall apply to—
 
 &emsp;(1) project studies initiated during the 2-year period preceding November 8, 2007, and for which the array of alternatives to be considered has not been identified; and
 
-&emsp;(2) project studies initiated during the period beginning on November 8, 2007, and ending 12 years after November 8, 2007.
+&emsp;(2) project studies initiated during the period beginning on November 8, 2007, and ending 17 years after November 8, 2007.
 
 #### (i) Reports
 
@@ -254,9 +254,9 @@ In this section, the following definitions apply:
 
 #### (4) Total cost
 
-&emsp;The term "total cost", as used with respect to a water resources project, means the cost of construction (including planning and designing) of the project. In the case of a project for hurricane and storm damage reduction or flood damage reduction that includes periodic nourishment over the life of the project, the term includes the total cost of the nourishment.
+&emsp;The term "total cost", as used with respect to a water resources project, means the cost of construction (including planning and designing) of the project. In the case of a project for hurricane and storm damage reduction or flood damage reduction that includes periodicnourishment over the life of the project, the term includes the total cost of the nourishment.
 
-(Pub. L. 110–114, title II, §2034, Nov. 8, 2007, 121 Stat. 1086; Pub. L. 113–121, title I, §1044, June 10, 2014, 128 Stat. 1250.)
+(Pub. L. 110–114, title II, §2034, Nov. 8, 2007, 121 Stat. 1086; Pub. L. 113–121, title I, §1044, June 10, 2014, 128 Stat. 1250; Pub. L. 115–270, title I, §1141, Oct. 23, 2018, 132 Stat. 3785.)
 
 #### References in Text
 
@@ -269,6 +269,8 @@ The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–
 Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (h)(2). Pub. L. 115–270 substituted "17 years" for "12 years".
 
 <b>2014</b>—Subsec. (a)(3)(A)(i). Pub. L. 113–121, §1044(a), substituted "$200,000,000" for "$45,000,000".
 

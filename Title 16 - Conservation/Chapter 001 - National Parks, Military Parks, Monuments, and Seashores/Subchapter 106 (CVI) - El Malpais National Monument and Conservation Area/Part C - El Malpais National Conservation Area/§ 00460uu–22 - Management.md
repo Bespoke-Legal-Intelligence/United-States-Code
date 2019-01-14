@@ -14,7 +14,7 @@ Collection of green or dead wood for sale or other commercial purposes shall not
 
 #### (d) Grazing
 
-Except as otherwise provided in section 460uu–32(b) of this title, within the conservation area the grazing of livestock shall be permittedto continue, pursuant to applicable Federal law, including this subchapter, and subject to such reasonable regulations, policies, and practices as the Secretary deems necessary.
+Except as otherwise provided in section 460uu–32(b) of this title, within the conservation area the grazing of livestock shall be permitted to continue, pursuant to applicable Federal law, including this subchapter, and subject to such reasonable regulations, policies, and practices as the Secretary deems necessary.
 
 (Pub. L. 100–225, title III, §302, Dec. 31, 1987, 101 Stat. 1541.)
 

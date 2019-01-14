@@ -48,7 +48,7 @@ Exclusive means of adjustment.—A dollar threshold adjustable under this sectio
 
 (d)
 
-Publication.—The Council shall publish a notice of the adjusted dollar thresholds under this section in the Federal Register. The thresholds take effect on the date of publication and shall apply, in the case of the procurement of property or services by contract, to a contract, and any subcontract at any tier under the contract, in effect on that date without regard to the date of award of the contract or subcontract..<sup>1</sup>
+Publication.—The Council shall publish a notice of the adjusted dollar thresholds under this section in the Federal Register. The thresholds take effect on the date of publication andshall apply, in the case of the procurement of property or services by contract, to a contract, and any subcontract at any tier under the contract, in effect on that date without regard to the date of award of the contract or subcontract..<sup>1</sup>
 
 (e)
 
@@ -152,7 +152,7 @@ In subsection (e)(1), the words "Secretary of Labor" are substituted for "Depart
 
 #### References in Text
 
-The Trade Agreements Act of 1979, referred to in subsec. (b)(2)(C), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144.Title III of the Act is classified generally to subchapter I (§2511 et seq.) of chapter 13 of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19 and Tables.
+The Trade Agreements Act of 1979, referred to in subsec. (b)(2)(C), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144. Title III of the Act is classified generally to subchapter I (§2511 et seq.) of chapter 13 of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19 and Tables.
 
 #### Amendments
 

@@ -12,7 +12,7 @@ The United States Government shall seek the consent of the owner or the operator
 
 #### (2) Content of affidavits for administrative search warrants
 
-&emsp;The judge of the United States shall promptly issue a warrant authorizing the requested inspection upon an affidavit submitted by the United States Government showing that—
+&emsp;The judge of the United States shall promptly issue a warrant authorizing the requestedinspection upon an affidavit submitted by the United States Government showing that—
 
 &emsp;&emsp;(A) the Chemical Weapons Convention is in force for the United States;
 

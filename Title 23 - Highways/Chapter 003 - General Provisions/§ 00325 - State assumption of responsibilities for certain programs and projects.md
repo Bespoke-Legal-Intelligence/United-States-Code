@@ -38,7 +38,7 @@ Certification.—Before the Secretary enters into a memorandum of understanding 
 
 &emsp;(3)
 
-Maximum duration.—A memorandum of understanding with a State under this section shall be established for an initial period of no more than 3 years and may be renewed by mutual agreement on a periodic basis for periods of not more than 3 years.
+Maximum duration.—A memorandum of understanding with a State under this section shall be established for an initial period of nomore than 3 years and may be renewed by mutual agreement on a periodic basis for periods of not more than 3 years.
 
 &emsp;(4)
 

@@ -100,13 +100,19 @@ The chairperson of the TPCC shall prepare and submit to the Committee on Banking
 
 &emsp;(2) the implementation of sections 5823 and 5824 of title 22 <sup>1</sup> concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
 
-(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199; amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, §8, Oct. 11, 1996, 110 Stat. 3407; Pub. L. 106–158, §7, Dec. 9, 1999, 113 Stat. 1747; Pub. L. 114–125, title V, §505(a), (e), Feb. 24, 2016, 130 Stat. 179, 180.)
+(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199; amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, §8, Oct. 11, 1996, 110 Stat. 3407; Pub. L. 106–158, §7, Dec. 9, 1999, 113 Stat. 1747; Pub. L. 114–125, title V, §505(a), (e), Feb. 24, 2016, 130 Stat. 179, 180; Pub. L. 115–254, div. F, title VI, §1470(e), Oct. 5, 2018, 132 Stat. 3516.)
+
+#### Amendment of Subsection (d)(1)(K)
+
+<i>Pub. L. 115–254, div. F, title VI, §1470(e), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, subsection (d)(1)(K) of this section is amended by striking "Overseas Private Investment Corporation" and inserting "United States International Development Finance Corporation". See 2018 Amendment note below.</i>
 
 #### References in Text
 
-Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, "sections 303 and 304 of the Freedom for Russia and Emerging Democracies andOpen Markets Support Act of 1992 (22 U.S.C. 5823 and 5824)", and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, Pub. L. 102–511, to reflect the probable intent of Congress.
+Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, "sections 303 and 304 of the Freedom for Russia and Emerging Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5823 and 5824)", and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, Pub. L. 102–511, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(1)(K). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation".
 
 <b>2016</b>—Subsec. (c)(7). Pub. L. 114–125, §505(e)(1), added par. (7).
 
@@ -125,6 +131,10 @@ Subsec. (f)(1). Pub. L. 114–125, §505(e)(2), inserted "(including implementat
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
 #### Availability of State Resources Guides on Export.gov
 
@@ -172,7 +182,7 @@ Section 1. <i>Establishment</i>. There is established the "Trade Promotion Coord
 
 &emsp;(o) Small Business Administration;
 
-&emsp;(p) Overseas Private Investment Corporation;
+&emsp;(p) Overseas Private Investment Corporation \[now United States International Development Finance Corporation\];
 
 &emsp;(q) Export-Import Bank of the United States;
 
@@ -188,7 +198,7 @@ Section 1. <i>Establishment</i>. There is established the "Trade Promotion Coord
 
 &emsp;(w) at the discretion of the President, such other departments or agencies as may be necessary.
 
-Members of the TPCC shall be appointed by the heads of their respective departments or agencies. Such members, as well as their designated alternatives, shall be individuals who exercise significant decision-making authority in their respective departments or agencies.
+Members of the TPCC shall be appointed by the heads of their respective departments or agencies. Such members, as well as their designated alternatives, shall beindividuals who exercise significant decision-making authority in their respective departments or agencies.
 
 Sec. 2. <i>Chairperson</i>. The Secretary of Commerce shall be the chairperson of the TPCC.
 
@@ -266,7 +276,7 @@ Sec. 2. <i>Export Promotion Cabinet</i>. There is established an Export Promotio
 
 (l) the Administrator of the Small Business Administration;
 
-(m) the President of the Overseas Private Investment Corporation;
+(m) the President of the Overseas Private Investment Corporation \[now United States International Development Finance Corporation\];
 
 (n) the Director of the United States Trade and Development Agency; and
 
@@ -340,7 +350,7 @@ Sec. 2. <i>Establishment and Membership</i>. There is hereby established an Inte
 
 (xi) Millennium Challenge Corporation;
 
-(xii) Overseas Private Investment Corporation;
+(xii) Overseas Private Investment Corporation \[now United States International Development Finance Corporation\];
 
 (xiii) Small Business Administration;
 
@@ -354,7 +364,7 @@ Sec. 3. <i>Functions</i>. The Task Force shall perform the following functions:
 
 (a) review and prioritize commercial advocacy cases in which the Advocacy Center at the Department of Commerce has approved the provision of commercial advocacy services, and coordinate the activities of relevant agencies to enhance Federal support for such cases, in order to increase the success of U.S. exporters competing for foreign procurements;
 
-(b) coordinate the engagement of agency leadership with their foreign counterparts regarding commercial advocacy issues, particularly with respect to their foreign travel and other occasions for engagement with foreign officials, and evaluate reports on the outcomes of such engagement, in order to increase the number of senior-level agency officials regularly and effectively advocating on behalf of U.S. exporters;
+(b) coordinate the engagement of agency leadership with their foreign counterparts regarding commercialadvocacy issues, particularly with respect to their foreign travel and other occasions for engagement with foreign officials, and evaluate reports on the outcomes of such engagement, in order to increase the number of senior-level agency officials regularly and effectively advocating on behalf of U.S. exporters;
 
 (c) develop strategies to raise the awareness of commercial advocacy assistance within the U.S. business community in order to increase the number of U.S. businesses utilizing commercial advocacy services;
 
@@ -494,7 +504,7 @@ Executive Order 13534 of March 11, 2010, established the Export Promotion Cabine
 
 On January 13, 2012, I announced that I would submit a legislative proposal seeking the authority to reorganize the Federal Government in order to reduce costs and consolidate agencies (Consolidation Authority), and outlined the first use I would make of such authority: to streamline functions currently dispersed across numerous agencies into a single new department to promote competitiveness, exports, and American business. The new department would integrate and streamline trade negotiation, financing, promotion, and enforcement functions currently housed at half a dozen executive departments and agencies, and would include an office dedicated to expanding foreign investment and assisting businesses that are considering investing in the United States. In addition to the trade and investment functions, the new department would include integrated small business, technology, innovation, and statistics programs and services from a number of departments and agencies, thereby creating a one-stop shop for businesses that want to grow and export. We cannot afford to wait until the Congress acts, however, and must do all we can administratively to make the most efficient and effective use of the Federal Government's trade, foreign investment, export, and business programs and functions.
 
-Accordingly, to further enhance and coordinate Federal efforts to facilitate the creation of jobs in the United States and ensure sustainable economic growth through trade and foreign investment, and to ensure the effective and efficient use of Federal resources in support of these goals, I hereby direct the following:
+Accordingly, to further enhance and coordinate Federal efforts to facilitate the creation of jobs in the United States and ensure sustainable economic growththrough trade and foreign investment, and to ensure the effective and efficient use of Federal resources in support of these goals, I hereby direct the following:
 
 (1) <i>Program Coordination</i>. In coordination with the TPCC, the Export Promotion Cabinet shall develop strategies and initiatives in support of my Administration's strategic trade and investment goals and priorities, including the specific measures outlined in this memorandum. The Assistant to the President and Deputy National Security Advisor for International Economics shall coordinate the activities of the Export Promotion Cabinet pursuant to this memorandum. Measures and progress shall continue to be reported in the annual National Export Strategy report of the TPCC. The TPCC will continue to function as it has, consistent with its statutorily mandated duties.
 

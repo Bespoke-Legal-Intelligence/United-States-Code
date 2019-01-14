@@ -10,7 +10,7 @@ Impairment of In Rem Jurisdiction.—Whoever, knowing that property is subject t
 
 (c)
 
-Notice of Search or Execution of Seizure Warrant or Warrant of Arrest In Rem.—Whoever, having knowledge that any person authorized to make searches and seizures, orto execute a seizure warrant or warrant of arrest in rem, in order to prevent the authorized seizing or securing of any person or property, gives notice or attempts to give notice in advance of the search, seizure, or execution of a seizure warrant or warrant of arrest in rem, to any person shall be fined under this title or imprisoned not more than 5 years, or both.
+Notice of Search or Execution of Seizure Warrant or Warrant of Arrest In Rem.—Whoever, having knowledge that any person authorized to make searches and seizures, or to execute a seizure warrant or warrant of arrest in rem, in order to prevent the authorized seizing or securing of any person or property, gives notice or attempts to give notice in advance of the search, seizure, or execution of a seizure warrant or warrant of arrest in rem, to any person shall be fined under this title or imprisoned not more than 5 years, or both.
 
 (d)
 
@@ -44,7 +44,7 @@ The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e), i
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–690 inserted "of 1978" after "Surveillance Act".
 
-<b>1986</b>—Pub. L. 99–646 directed the designation of first and second pars. as subsecs. (a) and (b), respectively, which had been previously so designated by Pub. L. 99–508, and substituted "imprisoned not" for "imprisoned" in subsec. (a).
+<b>1986</b>—Pub. L. 99–646 directed the designation of first and second pars. as subsecs. (a) and (b), respectively, which had been previously so designated by Pub. L.99–508, and substituted "imprisoned not" for "imprisoned" in subsec. (a).
 
 Pub. L. 99–508 designated first and second pars. as subsecs. (a) and (b), respectively, and inserted headings, and added subsec. (c).
 

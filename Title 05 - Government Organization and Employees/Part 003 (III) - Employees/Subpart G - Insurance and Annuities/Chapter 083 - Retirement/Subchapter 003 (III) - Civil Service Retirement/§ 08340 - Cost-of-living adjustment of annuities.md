@@ -22,7 +22,7 @@
 
 &emsp;(2) Effective from its commencing date, an annuity payable from the Fund to an annuitant's survivor (except a child entitled under section 8341(e) of this title), which annuity commences the day after the death of the annuitant and after the effective date of the first increase under this section, shall be increased by the total percent increase the annuitant was receiving under this section at death. However, the increase in a survivor annuity authorized by section 8 of the Act of May 29, 1930, as amended to July 6, 1950, shall be computed as if the annuity commencing date had been the effective date of the first increase under this section.
 
-&emsp;(3) For the purpose of computing the annuity of a child under section 8341(e) of this title that commences after October 31, 1969, the items $900, $1,080, $2,700, and $3,240 appearing in section 8341(e) of this title shall be increased by the total percent increases allowed and in force under this section on or after such day and, in case of a deceased annuitant, the items 60 percent and 75 percent appearing in section 8341(e) of this title shall be increased by the total percent allowed and in force to the annuitant under this section on or after such day.
+&emsp;(3) For the purpose of computing the annuity of a child under section 8341(e) of this title that commences after October 31, 1969, the items $900, $1,080, $2,700, and $3,240 appearing in section 8341(e) of this title shall be increased by the total percent increases allowed and in force under this section on or after such day and, in case of a deceased annuitant, the items 60 percent and 75 percent appearing insection 8341(e) of this title shall be increased by the total percent allowed and in force to the annuitant under this section on or after such day.
 
 (d) This section does not authorize an increase in an additional annuity purchased at retirement by voluntary contributions.
 
@@ -42,7 +42,7 @@
 
 &emsp;(B) the final pay (or average pay, if higher) of the employee or Member with respect to whom the annuity is paid, increased by the overall annual average percentage adjustments (compounded) in rates of pay of the General Schedule under subchapter I of chapter 53 of this title during the period—
 
-&emsp;&emsp;(i) beginning on the date the annuity commenced (or, in the case of a survivor of theretired employee or Member, the date the employee's or Member's annuity commenced), and
+&emsp;&emsp;(i) beginning on the date the annuity commenced (or, in the case of a survivor of the retired employee or Member, the date the employee's or Member's annuity commenced), and
 
 &emsp;&emsp;(ii) ending on the effective date of the adjustment under this section.
 
@@ -126,11 +126,11 @@ The General Schedule, referred to in subsec. (g)(1)(B), is set out under section
 
 #### Amendments
 
-<b>1986</b>—Subsec. (c)(1). Pub. L. 99–251 substituted ", widower, or former spouse," for first reference to "or widower", and ", widower, former spouse, or insurable interest designee" for second and third references to "or widower".
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–251 substituted ", widower, or former spouse," for first reference to "orwidower", and ", widower, former spouse, or insurable interest designee" for second and third references to "or widower".
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–270 substituted provisions defining term "base quarter" as meaning the calendar quarter ending Sept. 30 of a year and providing that the price index for a base quarter is the arithmetical mean of such index for the three months comprising such quarter for former provisions which had directed that, effective Dec. 1, 1965, each annuity payable from the Fund having a commencing date before Dec. 2, 1965, was increased by (1) the percent rise in the price index, adjusted to the nearest 1/10 of 1 percent, determined by the Office of Personnel Management on the basis of the annual average price index for calendar year 1962 and the price index for the base month of July 1965; plus (2) 6½ percent if the commencing date (or in the case of the survivor of a deceased annuitant the commencing date of the annuity of the retired employee) occurred before Oct. 2, 1956, or 1½ percent if the commencing date (or in the case of the survivor of a deceased annuitant the commencing date of the annuity of the retired employee) occurred after Oct. 1, 1956, that each annuity payable from the Fund (other than the immediate annuity of an annuitant's survivor or of a child entitled under section 8341(e) of this title) having a commencing date after Dec. 1, 1965, but before Jan. 1, 1966, was increased from its commencing date as if the annuity commencing date were Dec. 1, 1965, and that each survivor annuity authorized by (A) section 8 of the Act of May 29, 1930, as amended to July 6, 1950, or (B) section 2 of the Act of June 25, 1958 (72 Stat. 219), was increased by any additional amount required to make the total increase under this subsection equal to the smaller of 15 percent or $10 a month.
 
-Subsec. (b). Pub. L. 98–270 substituted "Except as provided in subsection (c) of this section, effective December 1 of each year, each annuity payable from the Fund having a commencing date not later than such December 1 shall be increased by the percent change in the price index for the base quarter of such year over the price index for the base quarter of the preceding year in which an adjustment under this subsection was made, adjusted to the nearest 1/10 of 1 percent" for "Except as provided in subsection (c) of this section, effective March 1 of each year each annuity payable from the Fund having a commencing date not later than such March 1 shall be increased by the percent changein the price index published for December of the preceding year over the price index published for December of the year prior to the preceding year, adjusted to the nearest 1/10 of 1 percent".
+Subsec. (b). Pub. L. 98–270 substituted "Except as provided in subsection (c) of this section, effective December 1 of each year, each annuity payable from the Fund having a commencing date not later than such December 1 shall be increased by the percent change in the price index for the base quarter of such year over the price index for the base quarter of the preceding year in which an adjustment under this subsection was made, adjusted to the nearest 1/10 of 1 percent" for "Except as provided in subsection (c) of this section, effective March 1 of each year each annuity payable from the Fund having a commencing date not later than such March 1 shall be increased by the percent change in the price index published for December of the preceding year over the price index published for December of the year prior to the preceding year, adjusted to the nearest 1/10 of 1 percent".
 
 Subsec. (c)(1)(A). Pub. L. 98–369, §2201(b)(1), substituted "computed" for "computer".
 
@@ -188,7 +188,7 @@ Pub. L. 96–499, title IV, §401(b), Dec. 5, 1980, 94 Stat. 2605, provided that
 
 "(1) The amendment made by subsection (a)(1) \[amending this section\] shall apply with respect to annuities commencing after the 45th day after the date of the enactment of this Act \[Dec. 5, 1980\].
 
-"(2) The amendment made by subsection (a)(2) \[amending this section\] shall take effect with respectto any annuity increase which takes effect after the date of the enactment of this Act \[Dec. 5, 1980\]."
+"(2) The amendment made by subsection (a)(2) \[amending this section\] shall take effect with respect to any annuity increase which takes effect after the date of the enactment of this Act \[Dec. 5, 1980\]."
 
 #### Effective Date of 1978 Amendment
 
@@ -248,7 +248,7 @@ Pub. L. 97–253, title III, §301(a)–(c), Sept. 8, 1982, 96 Stat. 790, 791, a
 
 &emsp;"(C) the annuity or retired or retainer pay of the individual is based upon the Government service of the individual.
 
-"(3) If the percentage increase in the price index for fiscal year 1983, 1984, or 1985 (as determined by the Office of Personnel Management under section 8340(b) of title 5, United States Code) exceeds the assumed increase in the price index for that year, then the increase in the annuity or retired or retainer pay of an early retiree under paragraph (1) taking effect in that fiscal year shall be equal to—
+"(3) If the percentage increase in the price index for fiscal year 1983, 1984, or 1985 (as determined by the Office of Personnel Management under section 8340(b) of title 5, United States Code) exceeds the assumed increase in the price index for that year, then the increase in the annuity or retired or retainer pay of anearly retiree under paragraph (1) taking effect in that fiscal year shall be equal to—
 
 &emsp;"(A) one-half of the assumed increase in the price index for that year, plus
 

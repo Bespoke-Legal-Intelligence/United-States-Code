@@ -46,7 +46,7 @@ The exemptions provided under subsections (d), (e), and (f) of section 2006 of t
 
 &emsp;&emsp;(C) is informed, in writing—
 
-&emsp;&emsp;&emsp;(i) whether the testing area contains a two-way mirror, a camera, or any otherdevice through which the test can be observed,
+&emsp;&emsp;&emsp;(i) whether the testing area contains a two-way mirror, a camera, or any other device through which the test can be observed,
 
 &emsp;&emsp;&emsp;(ii) whether any other device, including any device for recording or monitoring the test, will be used, or
 
@@ -94,7 +94,7 @@ The exemptions provided under subsections (d), (e), and (f) of section 2006 of t
 
 &emsp;The examiner—
 
-&emsp;&emsp;(A) has a valid and current license granted by licensing and regulatory authorities in the State in which the test is to be conducted, if so required by the State; and
+&emsp;&emsp;(A) has a valid and current license granted by licensing and regulatory authorities inthe State in which the test is to be conducted, if so required by the State; and
 
 &emsp;&emsp;(B) maintains a minimum of a $50,000 bond or an equivalent amount of professional liability coverage.
 

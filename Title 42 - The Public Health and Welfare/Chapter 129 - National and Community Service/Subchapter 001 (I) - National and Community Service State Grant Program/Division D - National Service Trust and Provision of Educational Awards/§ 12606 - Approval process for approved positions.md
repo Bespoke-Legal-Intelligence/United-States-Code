@@ -50,7 +50,7 @@
 
 &emsp;The Corporation shall not obligate the funds in the reserve account until the Corporation—
 
-&emsp;&emsp;(A) determines that the funds will not be needed for the payment of national service educational awards associated with previously approved national service positions, summer of service educational awards associated with previously approved summer of service positions, and silver scholar educational awards associated with previously approved silver scholar positions; or
+&emsp;&emsp;(A) determines that the funds will not be needed for the payment of national service educational awards associated with previously approved national service positions, summer of service educational awards associated with previously approved summer ofservice positions, and silver scholar educational awards associated with previously approved silver scholar positions; or
 
 &emsp;&emsp;(B) obligates the funds for the payment of national service educational awards for such previously approved national service positions, summer of service educational awards for such previously approved summer of service positions, or silver scholar educational awards for such previously approved silver scholar positions, as applicable.
 

@@ -20,7 +20,7 @@ Federal Government Priority Goals.—
 
 &emsp;&emsp;&emsp;(v) real property management;
 
-&emsp;(2) The Federal Government priority goals shall be long-term in nature. At a minimum, the Federal Government priority goals shall be updated or revised every 4 years and made publicly available concurrently with the submission of the budget of the United States Government made in the first full fiscal year following any year in which the term of the President commences under section 101 of title 3. As needed, the Director of the Office of Management and Budget may make adjustments to the Federal Government priority goals to reflect significant changes in the environment in which the Federal Government is operating, with appropriate notification of Congress.
+&emsp;(2) The Federal Government priority goals shall be long-term in nature. At a minimum, the Federal Government priority goals shall be updated or revised every 4 years and made publicly available concurrently with the submission of the budget of the United States Government made in the first full fiscal year following any year in which the term of the President commences under section 101 of title 3. As needed, the Director of the Office of Management and Budget may make adjustments to the Federal Government priority goals to reflect significant changes in the environmentin which the Federal Government is operating, with appropriate notification of Congress.
 
 &emsp;(3) When developing or making adjustments to Federal Government priority goals, the Director of the Office of Management and Budget shall consult periodically with the Congress, including obtaining majority and minority views from—
 
@@ -60,7 +60,7 @@ Agency Priority Goals.—
 
 &emsp;&emsp;(E) have clearly defined quarterly milestones.
 
-&emsp;(2) If an agency priority goal includes any program activity or information that is specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policyand is properly classified pursuant to such Executive order, the head of the agency shall make such information available in the classified appendix provided under section 1115(e).
+&emsp;(2) If an agency priority goal includes any program activity or information that is specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy and is properly classified pursuant to such Executive order, the head of the agency shall make such information available in the classified appendix provided under section 1115(e).
 
 (c) The functions and activities of this section shall be considered to be inherently governmental functions. The development of Federal Government and agency priority goals shall be performed only by Federal employees.
 

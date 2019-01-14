@@ -32,7 +32,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;To protect, preserve, and restore the fish, wildlife, watershed, natural, scientific, scenic, geologic, historic, cultural, archaeological, and recreational values of the area, the Valles Caldera National Preserve is designated as a unit of the National Park System.
+&emsp;To protect, preserve, and restore the fish, wildlife, watershed, natural, scientific, scenic, geologic, historic, cultural, archaeological, and recreational values of the area, the VallesCaldera National Preserve is designated as a unit of the National Park System.
 
 #### (2) Boundary
 
@@ -386,7 +386,7 @@ In this section:
 
 #### References in Text
 
-The Valles Caldera Preservation Act, referred to in subsecs. (a)(2), (6), (c)(3)(B), and (d), is title I of Pub. L. 106–248, July 25, 2000, 114 Stat. 598, which was classified to sections 698v to 698v–10 of this title, prior to repeal by subsec. (d)(1) of this section. Sections 104 and 106 of the Act were classified to sections 698v–2 and 698v–4 of this title, respectively. For complete classification of this Act to the Code, see Tables.
+The Valles Caldera Preservation Act, referred to in subsecs. (a)(2), (6), (c)(3)(B), and (d), is title I of Pub. L.106–248, July 25, 2000, 114 Stat. 598, which was classified to sections 698v to 698v–10 of this title, prior to repeal by subsec. (d)(1) of this section. Sections 104 and 106 of the Act were classified to sections 698v–2 and 698v–4 of this title, respectively. For complete classification of this Act to the Code, see Tables.
 
 The National Park Service Organic Act (16 U.S.C. 1 et seq.), referred to in subsec. (b)(3)(A)(ii)(I), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
@@ -414,7 +414,7 @@ Status of land acquired.—As of the date of acquisition, the fee title lands, a
 
 "(3)
 
-Mineral estate.—Any mineral estate acquired by the United States pursuant to section 104(e) \[former16 U.S.C. 698v–2(e)\] underlying fee title lands acquired by the Pueblo of Santa Clara shall not be developed without the consent of the Secretary of the Interior and the Pueblo of Santa Clara.
+Mineral estate.—Any mineral estate acquired by the United States pursuant to section 104(e) \[former 16 U.S.C. 698v–2(e)\] underlying fee title lands acquired by the Pueblo of Santa Clara shall not be developed without the consent of the Secretary of the Interior and the Pueblo of Santa Clara.
 
 "(4)
 

@@ -58,7 +58,7 @@ Sec. 4. <i>Transfers of records, facilities, personnel, and appropriations</i>. 
 
 Sec. 5. <i>Taking effect of determinations</i>. Unless a greater time is allowed therein, any determination made by the Administrator shall become binding on all affected executive agencies forty-five days after the issuance thereof except with respect to any agency which appeals, or requests an exemption, from any such determination in accordance with section 6 of these regulations.
 
-Sec. 6. <i>Review of determinations not agreed to by agencies affected</i>. (a) Any executive agency may appeal or request exemption from any or all proposals affecting it which are contained in a determination. Appeals shall be submitted in writing to the Director with a copy to the Administrator within forty-five days from the date of the determination. Such appeals shall be accompanied by factual and objective supporting data and justification.
+Sec. 6. <i>Review of determinations not agreed to by agencies affected</i>. (a) Any executive agency may appeal or request exemption from any or all proposals affecting it which are contained in a determination. Appeals shall be submitted in writing to the Director with a copy to the Administrator within forty-five days from the dateof the determination. Such appeals shall be accompanied by factual and objective supporting data and justification.
 
 (b) The Director shall review any determination from which an executive agency has appealed and shall make a final decision on such appeal. The Director shall make such decisions, within seventy-five days after he receives the appeal or as soon thereafter as practicable, on the basis of information contained in the Administrator's determination, the executive agencies' appeals therefrom, and any supplementary data submitted by the Administrator and the contesting agencies. The Director shall send copies of decisions to the Administrator and to the heads of other executive agencies concerned.
 
@@ -80,7 +80,7 @@ Sec. 8. <i>Discontinuance or curtailment of service</i>. (a) If, during any reas
 
 (d) Executive agencies receiving motor-vehicle services from an interagency motor-vehicle pool or system under these regulations may request discontinuance or curtailment of their participation in such pool or system after at least one year of participation or in the event that the need for the services from the pool or system ceases. Such requests shall be submitted to the Administrator with pertinent factual justification.
 
-(e) If the Administrator does not agree with such request and is unable to make arrangements which are mutually acceptable to him and to the head of the executive agency concerned, the agency's request for discontinuance or modification and the Administrator'sreasons for not agreeing with the request shall be forwarded to the Director who shall be responsible for making a final and binding decision.
+(e) If the Administrator does not agree with such request and is unable to make arrangements which are mutually acceptable to him and to the head of the executive agency concerned, the agency's request for discontinuance or modification and the Administrator's reasons for not agreeing with the request shall be forwarded to the Director who shall be responsible for making a final and binding decision.
 
 (f) When a pool or system is discontinued or curtailed, such transfers of vehicles and related equipment and supplies, personnel, records, facilities, and funds as may be appropriate will be made, subject to the approval of the Director.
 

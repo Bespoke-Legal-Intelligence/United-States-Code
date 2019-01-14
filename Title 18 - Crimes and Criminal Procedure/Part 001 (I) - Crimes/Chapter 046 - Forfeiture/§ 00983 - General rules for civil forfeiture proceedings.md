@@ -16,7 +16,7 @@ Notice; Claim; Complaint.—
 
 &emsp;(iv) In a case in which the property is seized by a State or local law enforcement agency and turned over to a Federal law enforcement agency for the purpose of forfeiture under Federal law, notice shall be sent not more than 90 days after the date of seizure by the State or local law enforcement agency.
 
-&emsp;(v) If the identity or interest of a party is not determined until after the seizure or turnover but is determined before a declaration of forfeiture is entered, notice shall be sent tosuch interested party not later than 60 days after the determination by the Government of the identity of the party or the party's interest.
+&emsp;(v) If the identity or interest of a party is not determined until after the seizure or turnover but is determined before a declaration of forfeiture is entered, notice shall be sent to such interested party not later than 60 days after the determination by the Government of the identity of the party or the party's interest.
 
 &emsp;(B) A supervisory official in the headquarters office of the seizing agency may extend the period for sending notice under subparagraph (A) for a period not to exceed 30 days (which period may not be further extended except by a court), if the official determines that the conditions in subparagraph (D) are present.
 
@@ -74,7 +74,7 @@ Notice; Claim; Complaint.—
 
 &emsp;(4)(A) In any case in which the Government files in the appropriate United States district court a complaint for forfeiture of property, any person claiming an interest in the seized property may file a claim asserting such person's interest in the property in the manner set forth in the Supplemental Rules for Certain Admiralty and Maritime Claims, except that such claim may be filed not later than 30 days after the date of service of the Government's complaint or, as applicable, not later than 30 days after the date of final publication of notice of the filing of the complaint.
 
-&emsp;(B) A person asserting an interest in seized property, in accordance with subparagraph (A), shall file an answer to the Government'scomplaint for forfeiture not later than 20 days after the date of the filing of the claim.
+&emsp;(B) A person asserting an interest in seized property, in accordance with subparagraph (A), shall file an answer to the Government's complaint for forfeiture not later than 20 days after the date of the filing of the claim.
 
 (b)
 
@@ -88,7 +88,7 @@ Representation.—
 
 &emsp;&emsp;(ii) whether the claim appears to be made in good faith.
 
-&emsp;(2)(A) If a person with standing to contest the forfeiture of property in a judicial civil forfeiture proceeding under a civil forfeiture statute is financially unable to obtain representation by counsel, and the property subject to forfeiture is real property that is being used by the person as a primary residence, the court, at the request of the person, shall insure that the person is represented by an attorney for the Legal Services Corporation with respect to the claim.
+&emsp;(2)(A) If a person with standing to contest the forfeiture of property in a judicial civil forfeiture proceeding under a civil forfeiture statute is financially unable to obtain representation by counsel, and the property subject to forfeiture is real property that is being used by the person as a primary residence, thecourt, at the request of the person, shall insure that the person is represented by an attorney for the Legal Services Corporation with respect to the claim.
 
 &emsp;(B)(i) At appropriate times during a representation under subparagraph (A), the Legal Services Corporation shall submit a statement of reasonable attorney fees and costs to the court.
 
@@ -142,7 +142,7 @@ Innocent Owner Defense.—
 
 &emsp;&emsp;(iv) the claimant acquired his or her interest in the property through marriage, divorce, or legal separation, or the claimant was the spouse or legal dependent of a person whose death resulted in the transfer of the property to the claimant through inheritance or probate,
 
-> &emsp;except that the court shall limit the value of any real property interest for which innocentownership is recognized under this subparagraph to the value necessary to maintain reasonable shelter in the community for such claimant and all dependents residing with the claimant.
+> &emsp;except that the court shall limit the value of any real property interest for which innocent ownership is recognized under this subparagraph to the value necessary to maintain reasonable shelter in the community for such claimant and all dependents residing with the claimant.
 
 &emsp;(4) Notwithstanding any provision of this subsection, no person may assert an ownership interest under this subsection in contraband or other property that it is illegal to possess.
 
@@ -216,7 +216,7 @@ Release Of Seized Property.—
 
 &emsp;&emsp;(ii) the steps the claimant has taken to secure release of the property from the appropriate official.
 
-&emsp;(4) If the Government establishes that the claimant's claim is frivolous, the court shall deny the petition. In responding to a petition under this subsection on other grounds, the Government may in appropriate cases submit evidence ex parte in order to avoid disclosingany matter that may adversely affect an ongoing criminal investigation or pending criminal trial.
+&emsp;(4) If the Government establishes that the claimant's claim is frivolous, the court shall deny the petition. In responding to a petition under this subsection on other grounds, the Government may in appropriate cases submit evidence ex parte in order to avoid disclosing any matter that may adversely affect an ongoing criminal investigation or pending criminal trial.
 
 &emsp;(5) The court shall render a decision on a petition filed under paragraph (3) not later than 30 days after the date of the filing, unless such 30-day limitation is extended by consent of the parties or by the court for good cause shown.
 
@@ -306,7 +306,7 @@ Restraining Orders; Protective Orders.—
 
 &emsp;(2) An order entered pursuant to paragraph (1)(B) shall be effective for not more than 90 days, unless extended by the court for good cause shown, or unless a complaint described in paragraph (1)(A) has been filed.
 
-&emsp;(3) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when a complaint has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought is subject to civil forfeiture and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than 14 days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
+&emsp;(3) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when a complaint has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought is subject to civil forfeiture and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than 14 days afterthe date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
 
 &emsp;(4) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 

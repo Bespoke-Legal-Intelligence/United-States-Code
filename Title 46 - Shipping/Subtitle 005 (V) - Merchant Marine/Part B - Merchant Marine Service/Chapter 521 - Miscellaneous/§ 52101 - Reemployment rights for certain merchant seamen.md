@@ -6,7 +6,7 @@ In General.—An individual who is certified by the Secretary of Transportation 
 
 (b)
 
-Time for Application.—An individual may submit an application for certification under subsection (c) to the Secretary not later than 45 days after the date the individual completes a period of employment described in subsection\(c)(1)(A) with respect to which the application is submitted.
+Time for Application.—An individual may submit an application for certification under subsection (c) to the Secretary not later than 45 days after the date the individual completes a period of employment described in subsection (c)(1)(A) with respect to which the application is submitted.
 
 (c)
 
@@ -28,9 +28,9 @@ Certification Determination.—Not later than 20 days after the date the Secreta
 
 (d)
 
-Equivalence to Military Selective Service Act Certificate.—For purposes of reemployment rights and benefits provided by this section, a certification under subsection (c) shall be considered to be the equivalent of a certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)).<sup>1</sup>
+Equivalence to Military Selective Service Act Certificate.—For purposes of reemployment rights and benefits provided by this section, a certification under subsection (c) shall beconsidered to be the equivalent of a certificate described in section 9(a) of the Military Selective Service Act (50 U.S.C. 3808(a)).
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1585; Pub. L. 115–91, div. C, title XXXV, §3502(b)(4), Dec. 12, 2017, 131 Stat. 1910.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1585; Pub. L. 115–91, div. C, title XXXV, §3502(b)(4), Dec. 12, 2017, 131 Stat. 1910; Pub. L. 115–232, div. C, title XXXV, §3546(m), Aug. 13, 2018, 132 Stat. 2327.)
 
 Historical and Revision Notes
 
@@ -52,11 +52,9 @@ In subsection (c)(1)(B), the words "(as applicable)" are omitted as unnecessary.
 
 In subsection (d), the words "certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a))" are substituted for "certificate referred to in paragraph (1) of section 4301(a) of title 38" because section 4301 of title 38 was amended generally by section 2(a) of Public Law 103–353, and before the amendment section 4301(a)(1) referred to a certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)).
 
-#### References in Text
-
-Section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)), referred to in subsec. (d), is section 9(a) of act June 24, 1948, ch. 625, 62 Stat. 614, which was classified to section 459(a) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 3808(a) of Title 50.
-
 #### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–232 substituted "(50 U.S.C. 3808(a))" for "(50 App. U.S.C. 459(a))".
 
 <b>2017</b>—Subsec. (c)(1)(A)(i). Pub. L. 115–91 substituted "section 57100" for "section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744)".
 

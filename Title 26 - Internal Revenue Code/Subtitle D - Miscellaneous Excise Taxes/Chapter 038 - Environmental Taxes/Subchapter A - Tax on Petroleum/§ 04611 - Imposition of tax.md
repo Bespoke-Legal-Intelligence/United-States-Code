@@ -94,15 +94,17 @@ There is hereby imposed a tax at the rate specified in subsection (c) on—
 
 #### (2) Termination
 
-&emsp;The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2017.
+&emsp;The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2018.
 
-(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2797; amended Pub. L. 99–499, title V, §§511(a), 512(a), (b), Oct. 17, 1986, 100 Stat. 1760, 1761; Pub. L. 99–509, title VIII, §8032(a), (c)(1), (2), Oct. 21, 1986, 100 Stat. 1957, 1958; Pub. L. 100–647, title VI, §6108, Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–221, §8(a), Dec. 12, 1989, 103 Stat. 1891; Pub. L. 101–239, title VII, §7505(a), (b), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–508, title XI, §11231(a)(1)(B), (2), (b), Nov. 5, 1990, 104 Stat. 1388–445; Pub. L. 109–58, title XIII, §1361, Aug. 8, 2005, 119 Stat. 1058; Pub. L. 110–343, div. B, title IV, §405(a)(1), (b)(1), (2), Oct. 3, 2008, 122 Stat. 3860, 3861; Pub. L. 113–295, div. A, title II, §221(a)(12)(I), Dec. 19, 2014, 128 Stat. 4039.)
+(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2797; amended Pub. L. 99–499, title V, §§511(a), 512(a), (b), Oct. 17, 1986, 100 Stat. 1760, 1761; Pub. L. 99–509, title VIII, §8032(a), (c)(1), (2), Oct. 21, 1986, 100 Stat. 1957, 1958; Pub. L. 100–647, title VI, §6108, Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–221, §8(a), Dec. 12, 1989, 103 Stat. 1891; Pub. L. 101–239, title VII, §7505(a), (b), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–508, title XI, §11231(a)(1)(B), (2), (b), Nov. 5, 1990, 104 Stat. 1388–445; Pub. L. 109–58, title XIII, §1361, Aug. 8, 2005, 119 Stat. 1058; Pub. L. 110–343, div. B, title IV, §405(a)(1), (b)(1), (2), Oct. 3, 2008, 122 Stat. 3860, 3861; Pub. L. 113–295, div. A, title II, §221(a)(12)(I), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 115–123, div. D, title I, §40416(a), Feb. 9, 2018, 132 Stat. 152.)
 
 #### Codification
 
-Amendments by Pub. L. 99–509, title VIII, §8031(a), (b), and (d)(1), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (a) to (e) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, §8031(e)(2), which provided that the amendments made by section 8031 shall nottake effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
+Amendments by Pub. L. 99–509, title VIII, §8031(a), (b), and (d)(1), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (a)to (e) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, §8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f)(2). Pub. L. 115–123 substituted "December 31, 2018" for "December 31, 2017".
 
 <b>2014</b>—Subsec. (e)(2)(B). Pub. L. 113–295, §221(a)(12)(I)(i), substituted "this section" for "section 59A, this section,".
 
@@ -174,6 +176,10 @@ Pub. L. 99–499, §§511(a), 512(b), amended subsec. (d) generally and redesign
 
 Subsec. (f). Pub. L. 99–509, §8032(c)(2), added subsec. (f).
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–123, div. D, title I, §40416(b), Feb. 9, 2018, 132 Stat. 152, provided that: "The amendment made by this section \[amending this section\] shall apply on and after the first day of the first calendar month beginning after the date of the enactment of this Act \[Feb. 9, 2018\]."
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
@@ -194,13 +200,13 @@ Pub. L. 99–509, title VIII, §8032(d), Oct. 21, 1986, 100 Stat. 1959, as amend
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 4612, 4661, 4671, and 9507 of this title\] shall take effect on the commencement date (as defined in \[former\] section 4611(f)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by this section).
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 4612, 4661, 4671, and 9507 of thistitle\] shall take effect on the commencement date (as defined in \[former\] section 4611(f)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by this section).
 
 "(2)
 
 Coordination with superfund reauthorization.—The amendments made by this section shall take effect only if the Superfund Amendments and Reauthorization Act of 1986 \[Pub. L. 99–499, approved Oct. 17, 1986\] is enacted."
 
-\[Pub. L. 101–239, title VII, §7505(d)(1), Dec. 19, 1989, 103 Stat. 2363, provided that: "For purposes of sections 8032(d) and 8033(c) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509, set out as notes aboveand under section 9509 of this title\], the commencement date is January 1, 1990."\]
+\[Pub. L. 101–239, title VII, §7505(d)(1), Dec. 19, 1989, 103 Stat. 2363, provided that: "For purposes of sections 8032(d) and 8033(c) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509, set out as notes above and under section 9509 of this title\], the commencement date is January 1, 1990."\]
 
 Pub. L. 99–499, title V, §511(c), Oct. 17, 1986, 100 Stat. 1761, provided that: "The amendments made by this section \[amending this section and repealing section 9653 of Title 42, The Public Health and Welfare\] shall take effect on January 1, 1987."
 

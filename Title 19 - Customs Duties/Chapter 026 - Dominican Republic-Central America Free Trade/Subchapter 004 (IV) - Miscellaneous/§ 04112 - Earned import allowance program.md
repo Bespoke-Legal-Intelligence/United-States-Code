@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(D) The Secretary of Commerce may require that a producer or entity controlling production submit documentation to verify purchases of qualifying fabric.
 
-&emsp;&emsp;(E) The Secretary of Commerce may make available to each person or entity identified in the documentation submitted under subparagraph (C) or (D) information contained in such documentation that relates to thepurchase of qualifying fabric involving such person or entity.
+&emsp;&emsp;(E) The Secretary of Commerce may make available to each person or entity identified in the documentation submitted under subparagraph (C) or (D) information contained in such documentation that relates to the purchase of qualifying fabric involving such person or entity.
 
 &emsp;&emsp;(F) The program shall be established so as to allow, to the extent feasible, the submission, storage, retrieval, and disclosure of information in electronic format, including information with respect to the earned import allowance certificates required under subsection (a)(1).
 

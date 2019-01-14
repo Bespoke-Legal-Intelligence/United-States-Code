@@ -46,7 +46,7 @@ The Secretary may from time to time make such provisions as he shall deem approp
 
 (4) The agency designated as the Office of the Surgeon General (42 U.S.C. 203(1)), together with the office held by the Deputy Surgeon General (42 U.S.C. 206(a)).
 
-(b) The Secretary shall make such provisions as he shall deem necessary respecting the winding up of any outstanding affairs of the agencies abolished by the provisions of this section.
+(b) The Secretary shall make such provisions as he shall deem necessary respecting the winding up of anyoutstanding affairs of the agencies abolished by the provisions of this section.
 
 #### Sec. 4. Incidental Transfers
 

@@ -62,7 +62,7 @@ This section applies to a servicemember who—
 
 This section does not—
 
-&emsp;(1) require a suspension of professional liability insurance protection for any person who is not a person referred to in subsection (a) and who is covered by the same professional liability insurance as a person referred to in such subsection; or
+&emsp;(1) require a suspension of professional liability insurance protection for any personwho is not a person referred to in subsection (a) and who is covered by the same professional liability insurance as a person referred to in such subsection; or
 
 &emsp;(2) relieve any person of the obligation to pay premiums for the coverage not required to be suspended.
 
@@ -119,4 +119,8 @@ Section was formerly classified to section 593 of the former Appendix to this ti
 #### Prior Provisions
 
 A prior section 703 of act Oct. 17, 1940, ch. 888, art. VII, as added Pub. L. 102–12, §5(b), Mar. 18, 1991, 105 Stat. 37, related to reinstatement of health coverage upon release from service, prior to the general amendment of this Act by Pub. L. 108–189. See section 4024 of this title.
+
+#### Effective Date
+
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under section 3901 of this title.
 

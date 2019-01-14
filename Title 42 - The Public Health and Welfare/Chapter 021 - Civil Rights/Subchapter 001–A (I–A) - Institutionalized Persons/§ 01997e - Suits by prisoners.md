@@ -74,7 +74,7 @@ Pub. L. 103–322, title II, §20416(b), Sept. 13, 1994, 108 Stat. 1834, provide
 
 Pub. L. 105–277, div. A, §101(b) \[title I, §127\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–74, provided that: "Notwithstanding any other provision of law, in any action brought by a prisoner under section 1979 of the Revised Statutes (42 U.S.C. 1983) against a Federal, State, or local jail, prison, or correctional facility, or any employee or former employee thereof, arising out of the incarceration of that prisoner—
 
-&emsp;"(1) the financial records of a person employed or formerly employed by the Federal, State, or localjail, prison, or correctional facility, shall not be subject to disclosure without the written consent of that person or pursuant to a court order, unless a verdict of liability has been entered against that person; and
+&emsp;"(1) the financial records of a person employed or formerly employed by the Federal, State, or local jail, prison, or correctional facility, shall not be subject to disclosure without the written consent of that person or pursuant to a court order, unless a verdict of liability has been entered against that person; and
 
 &emsp;"(2) the home address, home phone number, social security number, identity of family members, personal tax returns, and personal banking information of a person described in paragraph (1), and any other records or information of a similar nature relating to that person, shall not be subject to disclosure without the written consent of that person, or pursuant to a court order."
 

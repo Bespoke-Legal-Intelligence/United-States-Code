@@ -6,6 +6,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01761 - Grant, issue, or renewal of rights-of-way](%C2%A7%2001761%20-%20Grant%2C%20issue%2C%20or%20renewal%20of%20rights-of-way.md)
+- [&sect; 01761a - Streamlining the Forest Service process for consideration of communications facility location applications](%C2%A7%2001761a%20-%20Streamlining%20the%20Forest%20Service%20process%20for%20consideration%20of%20communications%20facility%20location%20applications.md)
 - [&sect; 01762 - Roads](%C2%A7%2001762%20-%20Roads.md)
 - [&sect; 01763 - Right-of-way corridors; criteria and procedures applicable for designation](%C2%A7%2001763%20-%20Right-of-way%20corridors%3B%20criteria%20and%20procedures%20applicable%20for%20designation.md)
 - [&sect; 01764 - General requirements](%C2%A7%2001764%20-%20General%20requirements.md)
@@ -16,3 +17,4 @@
 - [&sect; 01769 - Existing right-of-way or right-of-use unaffected; exceptions; rights-of-way for railroad and appurtenant communication facilities&#8230;](%C2%A7%2001769%20-%20Existing%20right-of-way%20or%20right-of-use%20unaffected%3B%20exceptions%3B%20rights-of-way%20for%20railroad%20and%20appurtenant%20communication%20facilities%E2%80%A6.md)
 - [&sect; 01770 - Applicability of provisions to other Federal laws](%C2%A7%2001770%20-%20Applicability%20of%20provisions%20to%20other%20Federal%20laws.md)
 - [&sect; 01771 - Coordination of applications](%C2%A7%2001771%20-%20Coordination%20of%20applications.md)
+- [&sect; 01772 - Vegetation managment,1 facility inspection, and operation and maintenance relating to electric transmission and distribution facility&#8230;](%C2%A7%2001772%20-%20Vegetation%20managment%2C1%20facility%20inspection%2C%20and%20operation%20and%20maintenance%20relating%20to%20electric%20transmission%20and%20distribution%20facility%E2%80%A6.md)

@@ -78,7 +78,7 @@ The Secretary shall ensure the effective implementation of the rural development
 
 The Privacy Act of 1974, referred to in subsec. (b)(2), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,as amended, which is set out in the Appendix to Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
 #### Amendments
 
@@ -110,7 +110,7 @@ Pub. L. 104–127, title VII, §762, Apr. 4, 1996, 110 Stat. 1148, provided that
 
 &emsp;"(5) Title V and section 603(c) of the Rural Development Act of 1972 (7 U.S.C. 2661–2669 and 2204a(c)).
 
-&emsp;"(6) Sections 5 and 311 and title IV of the Rural Electrification Act of 1936 (7 U.S.C. \[former\] 905, \[former\] 940a, and 941–950b)."
+&emsp;"(6) Sections 5 and 311 and title IV of the Rural Electrification Act of 1936 (7 U.S.C. \[former\] 905, \[former\] 940a, and \[former\] 941–950b)."
 
 #### Executive Order No. 12720
 

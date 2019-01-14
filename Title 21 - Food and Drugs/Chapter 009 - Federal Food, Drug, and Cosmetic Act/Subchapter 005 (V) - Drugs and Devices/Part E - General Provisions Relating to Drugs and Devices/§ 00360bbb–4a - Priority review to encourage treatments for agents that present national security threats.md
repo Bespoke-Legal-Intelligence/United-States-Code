@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Priority review
 
-&emsp;The term "priority review", with respect to a human drug application, means review and action by the Secretary on such application not later than 6 months after receipt by the Secretary of such application, as described in the Manual of Policies and Procedures in the Food and Drug Administration and goals identified in the letters described in section 101(b) of the Food and Drug Administration Safety and Innovation Act.
+&emsp;The term "priority review", with respect to a human drug application, means review andaction by the Secretary on such application not later than 6 months after receipt by the Secretary of such application, as described in the Manual of Policies and Procedures in the Food and Drug Administration and goals identified in the letters described in section 101(b) of the Food and Drug Administration Safety and Innovation Act.
 
 #### (3) Priority review voucher
 
@@ -50,7 +50,7 @@ In this section:
 
 #### (B) Transfer after notice
 
-&emsp;&emsp;The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under subparagraph\(A) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification.
+&emsp;&emsp;The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under subparagraph (A) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification.
 
 #### (c) Priority review user fee
 

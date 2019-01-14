@@ -60,7 +60,7 @@ Similar provisions were contained in Pub. L. 99–662, title XI, §1147, Nov. 17
 
 #### Measurements of Lake Michigan Diversions
 
-Pub. L. 99–662, title XI, §1142, Nov. 17, 1986, 100 Stat. 4253, as amended by Pub. L. 106–53, title V, §508, Aug. 17, 1999, 113 Stat. 339; Pub. L. 106–541, title V, §518, Dec. 11, 2000, 114 Stat. 2653, provided that:
+Pub. L. 99–662, title XI, §1142, Nov. 17, 1986, 100 Stat. 4253, as amended by Pub. L. 106–53, title V, §508, Aug. 17,1999, 113 Stat. 339; Pub. L. 106–541, title V, §518, Dec. 11, 2000, 114 Stat. 2653, provided that:
 
 "(a) Beginning October 1, 1987, the Secretary, in cooperation with the State of Illinois, shall carry out measurements and make necessary computations required by the decree of the United States Supreme Court (388 U.S. 426) relating to the diversion of water from Lake Michigan and shall coordinate the results with downstate interests. The measurements and computations shall consist of all flow measurements, gauge records, hydraulic and hydrologic computations, including periodic field investigations and measuring device calibrations, necessary to compute the amount of water diverted from Lake Michigan by the State of Illinois and its municipalities, political subdivisions, agencies, and instrumentalities, not including water diverted or used by Federal installations.
 

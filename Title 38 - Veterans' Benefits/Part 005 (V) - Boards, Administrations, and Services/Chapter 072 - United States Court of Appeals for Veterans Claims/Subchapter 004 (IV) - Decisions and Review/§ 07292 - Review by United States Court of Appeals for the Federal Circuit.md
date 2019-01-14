@@ -24,7 +24,7 @@
 
 (2) Rules for review of decisions of the Court of Appeals for Veterans Claims shall be those prescribed by the Supreme Court under section 2072 of title 28.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4120, §4092; amended Pub. L. 101–94, title III, §302(b), Aug. 16, 1989, 103 Stat. 628; renumbered §7292, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(e)(5), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–330, title IV, §402(a), Dec. 6, 2002, 116 Stat. 2832.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4120, §4092; amended Pub. L. 101–94, title III, §302(b), Aug. 16, 1989, 103 Stat. 628; renumbered §7292, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(e)(5), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title V, §512(a)(1),Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–330, title IV, §402(a), Dec. 6, 2002, 116 Stat. 2832.)
 
 #### Amendments
 

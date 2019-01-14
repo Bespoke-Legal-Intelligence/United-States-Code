@@ -26,7 +26,7 @@
 
 (d) For the purposes of this section:
 
-&emsp;(1) The term "health-care item" includes any item listed in, or (as determined by theSecretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 65 or 66. Effective December 1, 1992, such term also includes any item listed in, or (as determined by the Secretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 73. Such term does not include perishable items.
+&emsp;(1) The term "health-care item" includes any item listed in, or (as determined by the Secretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 65 or 66. Effective December 1, 1992, such term also includes any item listed in, or (as determined by the Secretary) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 73. Such term does not include perishable items.
 
 &emsp;(2) The term "local contract" means a contract entered into by a Department medical center for procurement of an item for use by that medical center.
 
@@ -75,6 +75,30 @@ Pub. L. 100–322, title IV, §403(b), May 20, 1988, 102 Stat. 545, as amended b
 "(1) Subsections (a), (b)(1), and (b)(2) of section 5025 \[now 8125\] of title 38, United States Code (as added by subsection (a)), shall take effect one year after the date of the enactment of this Act \[May 20, 1988\].
 
 "(2) Subsection (b)(3) of such section shall apply to health-care items procured for use by the Veterans' Administration \[now Department of Veterans Affairs\] after September 30, 1990."
+
+#### Medical Surgical Prime Vendor Program
+
+Pub. L. 115–407, title VII, §703, Dec. 31, 2018, 132 Stat. 5381, provided that:
+
+"(a)
+
+Vendors.—In procuring certain medical, surgical, and dental supplies or laboratory supplies for medical centers of the Department of Veterans Affairs, the Secretary of Veterans Affairs shall carry out the Medical Surgical Prime Vendor program, or successor program, in a manner that—
+
+&emsp;"(1) requires the Secretary to award contracts to multiple regional prime vendors instead of a single nationwide prime vendor; and
+
+&emsp;"(2) prohibits a prime vendor from solely designing the formulary of such supplies.
+
+"(b)
+
+Clinically Driven Sourcing.—
+
+&emsp;"(1)
+
+Expertise.—In carrying out the formulary of supplies under the Medical Surgical Prime Vendor program, or successor program, the Secretary shall ensure that each employee of the Department of Veterans Affairs who conducts formulary analyses or makes decisions with respect to including items on the formulary has medical expertise relevant to the items for which the employee conducts such analyses or makes such decisions.
+
+&emsp;"(2)
+
+Lists.—Not later than 30 days after the date of the enactment of this Act \[Dec. 31, 2018\], and every six months thereafter with respect to any updates, the Secretary shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a list of each employee described in paragraph (1) and the relevant medical expertise of the employee, listed by the categories of items in the formulary described in such paragraph."
 
 #### Standardization of Medical and Pharmaceutical Items
 

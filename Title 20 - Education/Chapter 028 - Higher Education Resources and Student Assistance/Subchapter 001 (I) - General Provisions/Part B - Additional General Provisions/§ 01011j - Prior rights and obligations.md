@@ -46,5 +46,5 @@ A prior section 121 of Pub. L. 89–329, title I, as added Pub. L. 99–498, tit
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315 substituted "2009 and for each succeeding fiscal year" for "1999 and foreach of the 4 succeeding fiscal years" in pars. (1) and (2).
+<b>2008</b>—Subsec. (a). Pub. L. 110–315 substituted "2009 and for each succeeding fiscal year" for "1999 and for each of the 4 succeeding fiscal years" in pars. (1) and (2).
 

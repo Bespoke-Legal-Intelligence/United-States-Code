@@ -152,7 +152,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (4) Paying expenses
 
-&emsp;The funds to cover the expenses referred to in paragraph (3) shall be paid by the Boardfrom assessments collected under section 7445 of this title or funds borrowed pursuant to paragraph (5).
+&emsp;The funds to cover the expenses referred to in paragraph (3) shall be paid by the Board from assessments collected under section 7445 of this title or funds borrowed pursuant to paragraph (5).
 
 #### (5) Authority to borrow
 
@@ -176,7 +176,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (3) Producer organizations
 
-&emsp;The order shall provide that the Board may contract with a producer organization for any services required in addition to the services described in paragraph (1). The contract shall include provisions comparable to the provisions required by paragraph (2).
+&emsp;The order shall provide that the Board may contract with a producer organization for any services required in addition to the servicesdescribed in paragraph (1). The contract shall include provisions comparable to the provisions required by paragraph (2).
 
 #### (f) Books and records of Board
 

@@ -50,7 +50,7 @@ The Secretary shall enter into contracts under the Program in accordance with su
 
 &emsp;&emsp;(C) at any other time considered appropriate by the Secretary,
 
-> &emsp;except that the Secretary may continue to contract with entities that are carrying outthe activities described in this section pursuant to agreements under section 1395h of this title or contracts under section 1395u of this title in effect on August 21, 1996.
+> &emsp;except that the Secretary may continue to contract with entities that are carrying out the activities described in this section pursuant to agreements under section 1395h of this title or contracts under section 1395u of this title in effect on August 21, 1996.
 
 &emsp;(3) Procedures under which a contract under this section may be renewed without regard to any provision of law requiring competition if the contractor has met or exceeded the performance requirements established in the current contract.
 
@@ -110,7 +110,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (B) Collection with interest
 
-&emsp;&emsp;Insofar as the determination on such appeal is against the provider of services or supplier, interest on the overpayment shall accrue on and after the date of the original notice of overpayment. Insofar as such determination against the provider of services or supplier is later reversed, the Secretary shall provide for repayment of the amount recouped plus interest at the same rate as would apply under the previous sentence for the period in which the amount was recouped.
+&emsp;&emsp;Insofar as the determination on such appeal is against the provider of services orsupplier, interest on the overpayment shall accrue on and after the date of the original notice of overpayment. Insofar as such determination against the provider of services or supplier is later reversed, the Secretary shall provide for repayment of the amount recouped plus interest at the same rate as would apply under the previous sentence for the period in which the amount was recouped.
 
 #### (C) Medicare contractor defined
 
@@ -192,7 +192,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (C) Exception
 
-&emsp;&emsp;Subparagraphs (A) and (B) shall not apply if the provision of notice or findings wouldcompromise pending law enforcement activities, whether civil or criminal, or reveal findings of law enforcement-related audits.
+&emsp;&emsp;Subparagraphs (A) and (B) shall not apply if the provision of notice or findings would compromise pending law enforcement activities, whether civil or criminal, or reveal findings of law enforcement-related audits.
 
 #### (8) Standard methodology for probe sampling
 
@@ -304,7 +304,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (A) In general
 
-&emsp;&emsp;After application of paragraph (1)(C), the Secretary shall retain a portion of the amounts recovered by recovery audit contractors for each year under this section which shall be available to the program management account of the Centers for Medicare \& Medicaid Services for purposes of, subject to subparagraph (B), carrying out sections 1395l(z),<sup>1</sup> 1935m(l)(16), and 1395kk–1(a)(4)(G) of this title, carrying out section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, and implementing strategies (such as claims processing edits) to help reduce the error rate of payments under this subchapter. The amounts retained under the preceding sentence shall not exceed an amount equal to 15 percent of the amounts recovered under this subsection, and shall remain available until expended.
+&emsp;&emsp;After application of paragraph (1)(C), the Secretary shall retain a portion of the amounts recovered by recovery audit contractors for each year under this section which shall be available to the program management account of the Centers for Medicare \& Medicaid Services for purposes of, subject to subparagraph (B), carrying out sections 1395l(z),<sup>1</sup> 1395m(l)(16), and 1395kk–1(a)(4)(G) of this title, carrying out section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, and implementing strategies (such as claims processing edits) to help reduce the error rate of payments under this subchapter. The amounts retained under the preceding sentence shall not exceed an amount equal to 15 percent of the amounts recovered under this subsection, and shall remain available until expended.
 
 #### (B) Limitation
 
@@ -324,7 +324,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 &emsp;Not later than 180 days after the end of each fiscal year (beginning with fiscal year 2011), the Secretary shall submit a report to Congress which identifies—
 
-&emsp;&emsp;(A) the use of funds, including funds transferred from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Insurance Trust Fund under section 1395t of this title, to carry out this section; and
+&emsp;&emsp;(A) the use of funds, including funds transferred from the Federal Hospital InsuranceTrust Fund under section 1395i of this title and the Federal Supplementary Insurance Trust Fund under section 1395t of this title, to carry out this section; and
 
 &emsp;&emsp;(B) the effectiveness of the use of such funds.
 
@@ -354,15 +354,11 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1893, as added Pub. L. 104–191, title II, §202(a), Aug. 21, 1996, 110 Stat. 1996; amended Pub. L. 108–173, title VII, §736(c)(7), title IX, §935(a), Dec. 8, 2003, 117 Stat. 2356, 2407; Pub. L. 109–171, title VI, §6034(d)(1), Feb. 8, 2006, 120 Stat. 77; Pub. L. 109–432, div. B, title III, §302(a), Dec. 20, 2006, 120 Stat. 2991; Pub. L. 111–148, title VI, §§6402(j)(1), 6411(b), Mar. 23, 2010, 124 Stat. 762, 775; Pub. L. 114–10, title V, §§505(b), 510, Apr. 16, 2015, 129 Stat. 167, 170; Pub. L. 114–115, §9(b), Dec. 28, 2015, 129 Stat. 3135; Pub. L. 114–198, title VII, §704(c)(1), July 22, 2016, 130 Stat. 749.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by section 704(c)(1) of Pub. L. 114–198 applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after Jan. 1, 2019. See 2016 Amendment note below.</i>
-
 #### References in Text
 
 Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
 
-Section 1395l(z) of this title, referred to in subsec. (h)(10)(A), probably means the subsec. (z) of section 1395l of this title which relates to medical review of spinal subluxation services and was added by Pub. L. 114–10, title V, §514(a), Apr. 16, 2015, 129 Stat. 171.
+Section 1395l(z) of this title, referred to in subsec. (h)(10)(A), probably means the subsec. (z) of section 1395l of this title which relates to medical review of spinal subluxation services, was added by Pub. L. 114–10, title V, §514(a), Apr. 16, 2015, 129 Stat. 171, and was redesignated subsec. (aa) by Pub. L. 115–271, title VI, §6083(b)(1), Oct. 24, 2018, 132 Stat. 3994.
 
 Section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (h)(10)(A), is section 514(b) of Pub. L. 114–10, which is set out as a note under section 1395l of this title.
 

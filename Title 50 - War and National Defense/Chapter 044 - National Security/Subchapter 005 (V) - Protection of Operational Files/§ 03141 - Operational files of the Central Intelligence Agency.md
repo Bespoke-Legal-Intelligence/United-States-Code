@@ -32,7 +32,7 @@ Notwithstanding subsection (a) of this section, exempted operational files shall
 
 (2) The inclusion of information from exempted operational files in files that are not exempted under subsection (a) of this section shall not affect the exemption under subsection (a) of this section of the originating operational files from search, review, publication, or disclosure.
 
-(3) Records from exempted operational files which have been disseminated to and referenced in files that are not exempted under subsection (a) of this section and which have been returned to exempted operational files for sole retention shall be subject to search and review.
+(3) Records from exempted operational files which have been disseminated to and referenced in files that are not exempted under subsection (a) of this section and which have been returnedto exempted operational files for sole retention shall be subject to search and review.
 
 #### (e) Supersedure of prior law
 
@@ -50,7 +50,7 @@ Whenever any person who has requested agency records under section 552 of title 
 
 &emsp;(4)(A) when a complainant alleges that requested records were improperly withheld because of improper exemption of operational files, the Central Intelligence Agency shall meet its burden under section 552(a)(4)(B) of title 5 by demonstrating to the court by sworn written submission that exempted operational files likely to contain responsive records currently perform the functions set forth in subsection (b) of this section; and
 
-&emsp;(B) the court may not order the Central Intelligence Agency to review the content of any exempted operational file or files in order to make the demonstration required under subparagraph (A) of this paragraph, unless the complainant disputes the Central IntelligenceAgency's showing with a sworn written submission based on personal knowledge or otherwise admissible evidence;
+&emsp;(B) the court may not order the Central Intelligence Agency to review the content of any exempted operational file or files in order to make the demonstration required under subparagraph (A) of this paragraph, unless the complainant disputes the Central Intelligence Agency's showing with a sworn written submission based on personal knowledge or otherwise admissible evidence;
 
 &emsp;(5) in proceedings under paragraphs (3) and (4) of this subsection, the parties shall not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admission may be made pursuant to rules 26 and 36;
 

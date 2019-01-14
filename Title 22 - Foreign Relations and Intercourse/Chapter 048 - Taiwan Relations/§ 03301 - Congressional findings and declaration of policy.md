@@ -6,7 +6,7 @@ The President having terminated governmental relations between the United States
 
 &emsp;(1) to help maintain peace, security, and stability in the Western Pacific; and
 
-&emsp;(2) to promote the foreign policy of the United States by authorizing the continuation of commercial, cultural, and other relations between the people of the United States and the people on Taiwan.
+&emsp;(2) to promote the foreign policy of the United States by authorizing the continuationof commercial, cultural, and other relations between the people of the United States and the people on Taiwan.
 
 #### (b) Policy
 
@@ -37,6 +37,30 @@ Pub. L. 96–8, §18, Apr. 10, 1979, 93 Stat. 21, provided that: "This Act \[ena
 #### Short Title
 
 Pub. L. 96–8, §1, Apr. 10, 1979, 93 Stat. 14, provided that: "This Act \[enacting this chapter\] may be cited as the 'Taiwan Relations Act'."
+
+#### Commitment to Taiwan
+
+Pub. L. 115–409, title II, §209, Dec. 31, 2018, 132 Stat. 5398, provided that:
+
+"(a)
+
+United States Commitment to Taiwan.—It is the policy of the United States—
+
+&emsp;"(1) to support the close economic, political, and security relationship between Taiwan and the United States;
+
+&emsp;"(2) to faithfully enforce all existing United States Government commitments to Taiwan, consistent with the Taiwan Relations Act of 1979 (Public Law 96–8) \[22 U.S.C. 3301 et seq.\], the 3 joint communiques, and the Six Assurances agreed to by President Ronald Reagan in July 1982; and
+
+&emsp;"(3) to counter efforts to change the status quo and to support peaceful resolution acceptable to both sides of the Taiwan Strait.
+
+"(b)
+
+Arms Sales to Taiwan.—The President should conduct regular transfers of defense articles to Taiwan that are tailored to meet the existing and likely future threats from the People's Republic of China, including supporting the efforts of Taiwan to develop and integrate asymmetric capabilities, as appropriate, including mobile, survivable, and cost-effective capabilities, into its military forces.
+
+"(c)
+
+Travel.—The President should encourage the travel of highlevel \[sic\] United States officials to Taiwan, in accordance with the Taiwan Travel Act (Public Law 115–135) \[132 Stat. 341\]."
+
+\[Nothing in section 209 of Pub. L. 115–409, set out above, to be construed as authorizing the use of military force, see section 412 of Pub. L. 115–409, set out as a note under section 2656 of this title.\]
 
 #### Strengthening the Defense Partnership Between the United States and Taiwan
 
@@ -76,7 +100,7 @@ In light of the recognition of the People's Republic of China by the United Stat
 
 Section 1. <i>Delegation and Reservation of Functions.</i>
 
-1–101. Exclusive of the functions otherwise delegated, or reserved to the President by this order, there are delegated to the Secretary of State ("Secretary") all functions conferred upon the President by the Act, including the authority under section 7(a) of the Act \[22 U.S.C. 3306(a)\] to specify which laws of the United States relative to the provision of consular services may be administered by employees of the American Institute on Taiwan ("Institute"). In carrying out these functions, the Secretary may redelegate his authority, and shall consult with other departments and agencies as he deems appropriate.
+1–101. Exclusive of the functions otherwise delegated, or reserved to the President by this order, there aredelegated to the Secretary of State ("Secretary") all functions conferred upon the President by the Act, including the authority under section 7(a) of the Act \[22 U.S.C. 3306(a)\] to specify which laws of the United States relative to the provision of consular services may be administered by employees of the American Institute on Taiwan ("Institute"). In carrying out these functions, the Secretary may redelegate his authority, and shall consult with other departments and agencies as he deems appropriate.
 
 1–102. There are delegated to the Director of the Office of Personnel Management the functions conferred upon the President by paragraphs (1) and (2) of section 11(a) of the Act \[22 U.S.C. 3310(a)\]. These functions shall be exercised in consultation with the Secretary.
 

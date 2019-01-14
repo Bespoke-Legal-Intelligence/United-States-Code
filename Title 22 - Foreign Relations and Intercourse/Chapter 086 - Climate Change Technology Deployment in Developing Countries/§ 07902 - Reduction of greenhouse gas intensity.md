@@ -40,7 +40,7 @@
 
 #### (b) Projects
 
-The Secretary of State, in coordination with Administrator of the United States Agency for International Development, shall (directly orthrough agreements with the World Bank, the International Monetary Fund, the Overseas Private Investment Corporation, and other development institutions) provide assistance to developing countries specifically for projects to reduce greenhouse gas intensity, including projects to—
+The Secretary of State, in coordination with Administrator of the United States Agency for International Development, shall (directly or through agreements with the World Bank, the International Monetary Fund, the Overseas Private Investment Corporation, and other development institutions) provide assistance to developing countries specifically for projects to reduce greenhouse gas intensity, including projects to—
 
 &emsp;(1) leverage, through bilateral agreements, funds for reduction of greenhouse gas intensity;
 
@@ -60,7 +60,19 @@ In providing assistance under subsection (b), the Secretary of State shall focus
 
 In providing assistance under subsection (b), the Secretary of State shall give priority to projects in the 25 developing countries identified in the report submitted under subsection (a)(2)(A).
 
-(Pub. L. 101–240, title VII, §732, as added Pub. L. 109–58, title XVI, §1611, Aug. 8, 2005, 119 Stat. 1113.)
+(Pub. L. 101–240, title VII, §732, as added Pub. L. 109–58, title XVI, §1611, Aug. 8, 2005, 119 Stat. 1113; amended Pub. L. 115–254, div. F, title VI, §1470(q), Oct. 5, 2018, 132 Stat. 3518.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 115–254, div. F, title VI, §1470(q), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in section 9681 of this title, subsection (b) of this section is amended by striking "Overseas Private Investment Corporation" and inserting "United States International Development Finance Corporation". See 2018 Amendment note below.</i>
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation" in introductory provisions.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of this title, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
 #### Effective Date
 

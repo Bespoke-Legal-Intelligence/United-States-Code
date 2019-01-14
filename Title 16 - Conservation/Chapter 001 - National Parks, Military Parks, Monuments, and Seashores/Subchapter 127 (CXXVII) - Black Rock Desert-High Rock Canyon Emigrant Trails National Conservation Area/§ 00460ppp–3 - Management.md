@@ -30,7 +30,7 @@ The Secretary, acting through the Bureau of Land Management, shall manage the co
 
 #### (3) Permitted events
 
-&emsp;The Secretary may continue to permit large-scale events in defined, low impact areas of the Black Rock Desert playa in the conservation area in accordance with the management plan prepared pursuant to subsection (e).
+&emsp;The Secretary may continue to permit large-scale events in defined, low impact areasof the Black Rock Desert playa in the conservation area in accordance with the management plan prepared pursuant to subsection (e).
 
 #### (d) Hunting, trapping, and fishing
 

@@ -20,7 +20,7 @@ The provisions of section 77e of this title shall not apply to—
 
 &emsp;(4) brokers' transactions executed upon customers' orders on any exchange or in the over-the-counter market but not the solicitation of such orders.
 
-&emsp;(5) transactions involving offers or sales by an issuer solely to one or more accredited investors, if the aggregate offering price of an issue of securities offered in reliance on this paragraph does not exceed the amount allowed under section 77c(b)(1) of this title, if there isno advertising or public solicitation in connection with the transaction by the issuer or anyone acting on the issuer's behalf, and if the issuer files such notice with the Commission as the Commission shall prescribe.
+&emsp;(5) transactions involving offers or sales by an issuer solely to one or more accredited investors, if the aggregate offering price of an issue of securities offered in reliance on this paragraph does not exceed the amount allowed under section 77c(b)(1) of this title, if there is no advertising or public solicitation in connection with the transaction by the issuer or anyone acting on the issuer's behalf, and if the issuer files such notice with the Commission as the Commission shall prescribe.
 
 &emsp;(6) transactions involving the offer or sale of securities by an issuer (including all entities controlled by or under common control with the issuer), provided that—
 
@@ -44,7 +44,7 @@ Offers and sales exempt under section 230.506 of title 17, Code of Federal Regul
 
 #### (c) Securities offered and sold in compliance with Rule 506 of Regulation D
 
-(1) With respect to securities offered and sold in compliance with Rule 506 of Regulation D under this subchapter, no person who meets the conditions set forth in paragraph (2) shall be subject to registration as a broker or dealer pursuant to section 78o(a)(1) of this title,<sup>1</sup> solely because—
+(1) With respect to securities offered and sold in compliance with Rule 506 of Regulation Dunder this subchapter, no person who meets the conditions set forth in paragraph (2) shall be subject to registration as a broker or dealer pursuant to section 78o(a)(1) of this title,<sup>1</sup> solely because—
 
 &emsp;(A) that person maintains a platform or mechanism that permits the offer, sale, purchase, or negotiation of or with respect to securities, or permits general solicitations, general advertisements, or similar or related activities by issuers of such securities, whether online, in person, or through any other means;
 
@@ -114,7 +114,7 @@ Information requirement.—In the case of a transaction involving the securities
 
 &emsp;&emsp;&emsp;(iv) if the balance sheet is not as of a date less than 6 months before the transaction date, be accompanied by additional statements of profit and loss for the period from the date of such balance sheet to a date less than 6 months before the transaction date.
 
-&emsp;&emsp;(K) To the extent that the seller is a control person with respect to the issuer, a brief statement regarding the nature of the affiliation, and a statement certified by such seller that they have no reasonable grounds to believe that the issuer is in violation of the securities laws or regulations.
+&emsp;&emsp;(K) To the extent that the seller is a control person with respect to the issuer, a briefstatement regarding the nature of the affiliation, and a statement certified by such seller that they have no reasonable grounds to believe that the issuer is in violation of the securities laws or regulations.
 
 &emsp;(4)
 
@@ -240,7 +240,7 @@ Pub. L. 112–106, title III, §302(d), Apr. 5, 2012, 126 Stat. 320, provided th
 
 In general.—Not later than 270 days after the date of enactment of this Act \[Apr. 5, 2012\], the \[Securities and Exchange\] Commission shall, by rule, establish disqualification provisions under which—
 
-&emsp;"(A) an issuer shall not be eligible to offer securities pursuant to section 4(6) \[probably means "section4(a)(6)"\] of the Securities Act of 1933 \[15 U.S.C. 77d(a)(6)\], as added by this title; and
+&emsp;"(A) an issuer shall not be eligible to offer securities pursuant to section 4(6) \[probably means "section 4(a)(6)"\] of the Securities Act of 1933 \[15 U.S.C. 77d(a)(6)\], as added by this title; and
 
 &emsp;"(B) a broker or funding portal shall not be eligible to effect or participate in transactions pursuant to that section 4(6).
 

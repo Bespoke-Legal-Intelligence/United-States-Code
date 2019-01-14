@@ -24,7 +24,7 @@ Whoever—
 
 &emsp;&emsp;(C) makes a telephone call or utilizes a telecommunications device, whether or not conversation or communication ensues, without disclosing his identity and with intent to abuse, threaten, or harass any specific person;
 
-&emsp;&emsp;(D) makes or causes the telephone of another repeatedly or continuously to ring,with intent to harass any person at the called number; or
+&emsp;&emsp;(D) makes or causes the telephone of another repeatedly or continuously to ring, with intent to harass any person at the called number; or
 
 &emsp;&emsp;(E) makes repeated telephone calls or repeatedly initiates communication with a telecommunications device, during which conversation or communication ensues, solely to harass any specific person; or
 

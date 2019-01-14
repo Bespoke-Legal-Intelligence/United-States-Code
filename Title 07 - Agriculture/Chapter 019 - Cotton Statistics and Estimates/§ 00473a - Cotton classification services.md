@@ -30,7 +30,7 @@ The Secretary of Agriculture (referred to in this section as the "Secretary") sh
 
 #### (d) Crediting of fees
 
-Any fees collected under this section and under section 473d of this title, late payment penalties, the proceeds from the sales of samples, and interest earned from the investment of such funds shall—
+Any fees collected under this section and under section 473d of this title, late paymentpenalties, the proceeds from the sales of samples, and interest earned from the investment of such funds shall—
 
 &emsp;(1) be credited to the current appropriation account that incurs the cost of services provided under this section and section 473d of this title; and
 
@@ -74,7 +74,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Pub. L. 102–237, §120(b)(2), added cl. (7) and struck out former cl. (7). Text read as follows: "the Secretary shall announce the uniform classification fee and any surcharge for the crop not later than June 1 of the year in which the fee applies, except that for fiscal year 1987, such announcement shall be made as soon as practicable following enactment of this proviso."
 
-Pub. L. 102–237, §120(b)(1), added cls. (1) and (2) and struck out former cls. (1) and (2). Text read as follows: "(1) the uniform per bale classification fee to be collected from producers, or their agents, for such classification service in any year shall be the uniform fee collected in the previous year, exclusive of adjustments to such fee made in the previous year under clauses (2), (3), and (4) of this proviso, and as may be adjusted by the percentage change in the Implicit Price Deflator for Gross National Product as indexed during the mostrecent twelve-month period for which statistics are available; (2) the fee calculated in accordance with clause (1) for a crop year may be increased by an amount not to exceed 1 per centum for every 100,000 running bales, or portion thereof, that the Secretary estimates will be produced in such crop year below the level of 12,500,000 running bales, or decreased by an amount not to exceed 1 per centum for every 100,000 running bales, or portion thereof, that the Secretary estimates will be produced in such crop year above the level of 12,500,000 running bales;".
+Pub. L. 102–237, §120(b)(1), added cls. (1) and (2) and struck out former cls. (1) and (2). Text read as follows: "(1) the uniform per bale classification fee to be collected from producers, or their agents, for such classification service in any year shall be the uniform fee collected in the previous year, exclusive of adjustments to such fee made in the previous year under clauses (2), (3), and (4) of this proviso, and as may be adjusted by the percentage change in the Implicit Price Deflator for Gross National Product as indexed during the most recent twelve-month period for which statistics are available; (2) the fee calculated in accordance with clause (1) for a crop year may be increased by an amount not to exceed 1 per centum for every 100,000 running bales, or portion thereof, that the Secretary estimates will be produced in such crop year below the level of 12,500,000 running bales, or decreased by an amount not to exceed 1 per centum for every 100,000 running bales, or portion thereof, that the Secretary estimates will be produced in such crop year above the level of 12,500,000 running bales;".
 
 Pub. L. 102–237, §120(a), amended first sentence generally. Prior to amendment, first sentence read as follows: "Effective for the fiscal years ending September 30, 1987, September 30, 1988, September 30, 1989, September 30, 1990, September 30, 1991, and September 30, 1992, the Secretary of Agriculture shall make cotton classification services available to producers of cotton and shall provide for the collection of classification fees from participating producers, or agents who voluntarily agree to collect and remit the fees on behalf of producers."
 
@@ -86,7 +86,7 @@ Pub. L. 102–237, §120(a), amended first sentence generally. Prior to amendmen
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective and Termination Dates of 1991 Amendment
 

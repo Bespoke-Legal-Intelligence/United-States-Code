@@ -132,7 +132,7 @@
 
 #### (3) Remand for final disposition
 
-&emsp;If the final disposition of an action brought under this section is not in harmony with the published determination of the Secretary, the administering authority, or the Commission, the matter shall be remanded to the Secretary, the administering authority, or the Commission, as appropriate, for disposition consistent with the final disposition of the court.
+&emsp;If the final disposition of an action brought under this section is not in harmony with thepublished determination of the Secretary, the administering authority, or the Commission, the matter shall be remanded to the Secretary, the administering authority, or the Commission, as appropriate, for disposition consistent with the final disposition of the court.
 
 #### (d) Standing
 
@@ -278,7 +278,7 @@ For purposes of this section—
 
 #### (D) Transfer of actions to appropriate court
 
-&emsp;&emsp;Whenever an action is filed in a court under subparagraph (A) or (B) and that court finds that the action should have been filed in the other court, the court in which the action was filed shall transfer the action to theother court and the action shall proceed as if it had been filed in the court to which it is transferred on the date upon which it was actually filed in the court from which it is transferred.
+&emsp;&emsp;Whenever an action is filed in a court under subparagraph (A) or (B) and that court finds that the action should have been filed in the other court, the court in which the action was filed shall transfer the action to the other court and the action shall proceed as if it had been filed in the court to which it is transferred on the date upon which it was actually filed in the court from which it is transferred.
 
 #### (E) Frivolous claims
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (ii) Subparagraph (B) actions
 
-&emsp;&emsp;&emsp;No claim shall be heard, and no temporary restraining order or temporary or permanent injunction shall be issued, under an action commenced under subparagraph (B), unless the party seeking review first files an undertaking with adequate security in an amount to be fixed by the court sufficient to recompense parties affected for any loss, expense, or damage caused by the improvident or erroneous issuance of such order or injunction. If a court upholds the constitutionality of the determination in question in such action, the court shall award to a prevailing party fees and expenses, in addition to any costs incurred by that party, unless the court finds that the position of the other party was substantially justified or that special circumstances make an award unjust.
+&emsp;&emsp;&emsp;No claim shall be heard, and no temporary restraining order or temporary or permanent injunction shall be issued, under an action commenced under subparagraph (B), unless the party seeking review first files an undertaking with adequate security in an amount to be fixed by the court sufficient to recompense parties affected for any loss, expense, or damage caused by the improvident or erroneous issuance of such order or injunction. If a court upholds the constitutionality of the determination in question in such action, the court shall award to a prevailing party fees and expenses, in addition to any costsincurred by that party, unless the court finds that the position of the other party was substantially justified or that special circumstances make an award unjust.
 
 #### (G) Panel record
 
@@ -328,7 +328,7 @@ For purposes of this section—
 
 #### (iv) Judicial review
 
-&emsp;&emsp;&emsp;Any action taken by the administering authority or the United States CustomsService under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
+&emsp;&emsp;&emsp;Any action taken by the administering authority or the United States Customs Service under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
 
 #### (6) Injunctive relief
 
@@ -376,7 +376,7 @@ For purposes of this section—
 
 #### (10) Notification of class or kind rulings
 
-&emsp;In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a)and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the NAFTA or the Agreement.
+&emsp;In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a) and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the NAFTA or the Agreement.
 
 #### (11) Suspension and termination of suspension of article 1904 of the NAFTA
 
@@ -392,7 +392,7 @@ For purposes of this section—
 
 #### (A) Notice of suspension or termination of suspension of article 1904
 
-&emsp;&emsp;(i) Upon notification by the Trade Representative or the Government of a country described in subsection (f)(10)(A) or (B) that the operation of article 1904 of the NAFTA has been suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA, the United States Secretary shall publish in the Federal Register a notice of suspension of article 1904 of the NAFTA.
+&emsp;&emsp;(i) Upon notification by the Trade Representative or the Government of a countrydescribed in subsection (f)(10)(A) or (B) that the operation of article 1904 of the NAFTA has been suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA, the United States Secretary shall publish in the Federal Register a notice of suspension of article 1904 of the NAFTA.
 
 &emsp;&emsp;(ii) Upon notification by the Trade Representative or the Government of a country described in subsection (f)(10)(A) or (B) that the suspension of the operation of article 1904 of the NAFTA is terminated in accordance with paragraph 10 of article 1905 of the NAFTA, the United States Secretary shall publish in the Federal Register a notice of termination of suspension of article 1904 of the NAFTA.
 
@@ -512,7 +512,7 @@ Subsec. (g)(3)(A). Pub. L. 103–182, §411(4)(D), in cl. (i), substituted "nor 
 
 Subsec. (g)(3)(B). Pub. L. 103–182, §411(4)(E), substituted first two sentences for former sentences which read as follows: "A determination described in subparagraph (A)(i) or (iv) is reviewable under subsection (a) of this section only if the party seeking to commence review has provided timely notice of its intent to commence such review to the United States Secretary, the Canadian Secretary, all interested parties who were parties to the proceeding in connection with which the matter arises, and the administering authority or the Commission, as appropriate. Such notice is provided timely if the notice is delivered by no later than the date that is 20 days after the date described in subparagraph (A) or (B) of subsection (a)(5) of this section that is applicable to such determination."
 
-Subsec. (g)(4)(A). Pub. L. 103–182, §411(4)(F), inserted "the North American Free Trade Agreement Implementation Act implementing the binational dispute settlement system under chapter 19 of the NAFTA, or" after "or amendment made by,", a comma before "violates", "only" after "may be brought", and ", which shall have jurisdiction of such action" after "Circuit" and struck out at end "Any action brought under thissubparagraph shall be heard and determined by a 3-judge court in accordance with section 2284 of title 28."
+Subsec. (g)(4)(A). Pub. L. 103–182, §411(4)(F), inserted "the North American Free Trade Agreement Implementation Act implementing the binational dispute settlement system under chapter 19 of the NAFTA, or" after "or amendment made by,", a comma before "violates", "only" after "may be brought", and ", which shall have jurisdiction of such action" after "Circuit" and struck out at end "Any action brought under this subparagraph shall be heard and determined by a 3-judge court in accordance with section 2284 of title 28."
 
 Subsec. (g)(5). Pub. L. 103–182, §411(4)(G), inserted "of the NAFTA or" after "article 1904" in subpars. (A), (B), and (C)(i), substituted ", the relevant FTA Secretary," for ", the Canadian Secretary," in subpar. (C)(ii), and inserted "of the NAFTA or" after "chapter 19" in subpar. (C)(iii).
 
@@ -590,9 +590,9 @@ Subsec. (e). Pub. L. 96–417, §601(7), redesignated the United States Customs 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 129(e) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1,1995\], see section 130 of Pub. L. 103–465, set out as an Effective Date note under section 3531 of this title.
+Amendment by section 129(e) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as an Effective Date note under section 3531 of this title.
 
-Amendment by sections 220(b), 270(a)(1)(N), and 271(b) of Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by sections 220(b), 270(a)(1)(N), and 271(b) of Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -600,7 +600,7 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
+Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a),\(c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
 #### Effective Date of 1984 Amendment
 

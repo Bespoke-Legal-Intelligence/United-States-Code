@@ -18,7 +18,7 @@ Recognition.—(1) Except as provided in paragraph (4), the Secretary may recogn
 
 (5) The Secretary may prescribe in regulations reasonable restrictions on the amount of fees that an agent or attorney may charge a claimant for services rendered in the preparation, presentation, and prosecution of a claim before the Department. A fee that does not exceed 20 percent of the past due amount of benefits awarded on a claim shall be presumed to be reasonable.
 
-(6)(A) The Secretary may charge and collect an assessment from an individual recognized as an agent or attorney under this section in any case in which the Secretary pays to the agent or attorney, from past-due benefits owed to a claimant represented by the agent or attorney, an amount as a fee in accordance with a fee arrangement between the claimant and the agent or attorney.
+(6)(A) The Secretary may charge and collect an assessment from an individual recognized as an agent or attorney under this section in any case in which the Secretary pays to the agent orattorney, from past-due benefits owed to a claimant represented by the agent or attorney, an amount as a fee in accordance with a fee arrangement between the claimant and the agent or attorney.
 
 (B) The amount of an assessment under subparagraph (A) shall be equal to five percent of the amount of the fee required to be paid to the agent or attorney, except that the amount of such an assessment may not exceed $100.
 
@@ -74,7 +74,7 @@ Payment of Fees Out of Past-Due Benefits.—(1) When a claimant and an agent or 
 
 (B) For purposes of subparagraph (A), a claim shall be considered to have been resolved in a manner favorable to the claimant if all or any part of the relief sought is granted.
 
-(3) To the extent that past-due benefits are awarded in any proceeding before the Secretary, the Board of Veterans' Appeals, or the United States Court of Appeals for Veterans Claims, the Secretary may direct that payment of any fee to an agent or attorney under a fee arrangement described in paragraph (1) be made out of such past-due benefits. In no event may the Secretary withhold for the purpose of such payment any portion of benefits payable for a period after the date of the final decision of the Secretary, the Board of Veterans' Appeals, or Court of Appeals for Veterans Claims making (or ordering the making of) the award.
+(3) To the extent that past-due benefits are awarded in any proceeding before the Secretary, the Board of Veterans' Appeals, or the United States Court of Appeals for Veterans Claims, theSecretary may direct that payment of any fee to an agent or attorney under a fee arrangement described in paragraph (1) be made out of such past-due benefits. In no event may the Secretary withhold for the purpose of such payment any portion of benefits payable for a period after the date of the final decision of the Secretary, the Board of Veterans' Appeals, or Court of Appeals for Veterans Claims making (or ordering the making of) the award.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, §3404; Pub. L. 99–576, title VII, §701(80), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title I, §104(a), Nov. 18, 1988, 102 Stat. 4108; renumbered §5904 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 102–405, title III, §303(a), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–446, title V, §504(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 109–461, title I, §101(a)(1), (b), (c)(1), (d)–(f), Dec. 22, 2006, 120 Stat. 3405, 3407, 3408; Pub. L. 115–55, §2(n), Aug. 23, 2017, 131 Stat. 1110.)
 
@@ -144,7 +144,7 @@ Pub. L. 102–40, §402(d)(1), substituted "7263(d)" for "4063(d)".
 
 Subsec. (d)(2)(A), (3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator" wherever appearing.
 
-<b>1988</b>—Subsecs. (c), (d). Pub. L. 100–687 added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: "The Administrator shall determine and pay fees to agents or attorneys recognized under this section in allowed claims for monetary benefits under laws administered by the Veterans' Administration. Such fees—
+<b>1988</b>—Subsecs. (c), (d). Pub. L. 100–687 added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: "The Administrator shall determine and pay fees to agents or attorneys recognized under this section in allowed claims for monetary benefits underlaws administered by the Veterans' Administration. Such fees—
 
 &emsp;"(1) shall be determined and paid as prescribed by the Administrator;
 

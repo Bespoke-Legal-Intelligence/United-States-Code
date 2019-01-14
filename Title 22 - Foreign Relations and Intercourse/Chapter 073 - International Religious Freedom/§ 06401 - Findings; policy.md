@@ -18,7 +18,7 @@ Congress makes the following findings:
 
 &emsp;(7) Congress has recognized and denounced acts of religious persecution through the adoption of the following resolutions:
 
-&emsp;&emsp;(A) House Resolution 515 of the One Hundred Fourth Congress, expressing the sense of the House of Representatives with respect to the persecution of Christians worldwide.
+&emsp;&emsp;(A) House Resolution 515 of the One Hundred Fourth Congress, expressing the senseof the House of Representatives with respect to the persecution of Christians worldwide.
 
 &emsp;&emsp;(B) Senate Concurrent Resolution 71 of the One Hundred Fourth Congress, expressing the sense of the Senate regarding persecution of Christians worldwide.
 
@@ -48,7 +48,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(B) are coordinated across and carried out by the entire range of Federal agencies.
 
-(Pub. L. 105–292, §2, Oct. 27, 1998, 112 Stat. 2788; Pub. L. 113–154, §2, Aug. 8, 2014, 128 Stat. 1827;Pub. L. 114–281, §2(a), (b), Dec. 16, 2016, 130 Stat. 1426, 1427.)
+(Pub. L. 105–292, §2, Oct. 27, 1998, 112 Stat. 2788; Pub. L. 113–154, §2, Aug. 8, 2014, 128 Stat. 1827; Pub. L. 114–281, §2(a), (b), Dec. 16, 2016, 130 Stat. 1426, 1427.)
 
 #### References in Text
 
@@ -70,6 +70,10 @@ Subsec. (b). Pub. L. 114–281, §2(b), designated existing provisions as par. (
 
 <b>2014</b>—Subsec. (a)(4). Pub. L. 113–154 inserted "desecration of cemeteries," after "confiscations of property,".
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 115–434, §1, Jan. 14, 2019, 132 Stat. 5526, provided that: "This Act \[amending section 6412 of this title and enacting provisions set out as a note under section 6412 of this title\] may be cited as the 'Combating European Anti-Semitism Act of 2017'."
+
 #### Short Title of 2016 Amendment
 
 Pub. L. 114–281, §1(a), Dec. 16, 2016, 130 Stat. 1426, provided that: "This Act \[enacting sections 6442a, 6473a, 6482, and 6483 of this title and amending this section and sections 4028, 6402, 6411, 6412, 6417, 6442, 6444, 6447, 6448, and 6474 of this title\] may be cited as the 'Frank R. Wolf International Religious Freedom Act'."
@@ -80,7 +84,7 @@ Pub. L. 114–71, §1, Oct. 16, 2015, 129 Stat. 563, provided that: "This Act \[
 
 #### Short Title of 2011 Amendment
 
-Pub. L. 112–75, §1, Dec. 23, 2011, 125 Stat. 1272, provided that: "This Act \[amending sections 6431, 6432b, 6435, 6435a, and 6436 of this title and enacting provisions set out as a note under section 6432b of this title\] may be cited as the 'United States Commission on International Religious Freedom Reform and Reauthorization Act of 2011'."
+Pub. L. 112–75, §1, Dec. 23, 2011, 125 Stat. 1272, provided that: "This Act \[amending sections 6431, 6432b, 6435,6435a, and 6436 of this title and enacting provisions set out as a note under section 6432b of this title\] may be cited as the 'United States Commission on International Religious Freedom Reform and Reauthorization Act of 2011'."
 
 #### Short Title
 

@@ -16,7 +16,7 @@ The national recreation area also shall be administered according to the followi
 
 &emsp;(4) Timber management shall be utilized only as a tool to enhance public recreation, scenic quality, game and nongame wildlife species, and the protection and enhancement of threatened, endangered, or sensitive species. Trees damaged or downed due to fire, insects, disease, or blowdown may be utilized, salvaged, or removed from the recreation area as authorized by the Secretary to further the purposes of the national recreation area.
 
-&emsp;(5) The Secretary shall, after acquiring fee title to at least 10,000 acres of land on Grand Island, provide reasonable water transportation from the mainland to Grand Island. Transportation may be provided through concession, permit, or other means, and a reasonable charge may be imposed. Transportation shall be subject to reasonable regulation by the Secretary and shall not be required when the Secretary deems it to be unsafe because of factors such as weather and water conditions.
+&emsp;(5) The Secretary shall, after acquiring fee title to at least 10,000 acres of land on Grand Island, provide reasonable water transportation from the mainland to Grand Island.Transportation may be provided through concession, permit, or other means, and a reasonable charge may be imposed. Transportation shall be subject to reasonable regulation by the Secretary and shall not be required when the Secretary deems it to be unsafe because of factors such as weather and water conditions.
 
 &emsp;(6) The Secretary shall provide through concession, permit, or other means docking and lodge facilities consistent with the management plan developed pursuant to section 460aaa–6 of this title.
 

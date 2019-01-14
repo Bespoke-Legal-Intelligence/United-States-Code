@@ -14,3 +14,7 @@ Provisions similar to those in this section were contained in section 10750 of t
 
 A prior section 10746, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1393, related to transportation of commodities manufactured or produced by rail carrier, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+

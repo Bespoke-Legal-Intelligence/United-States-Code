@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each local board shall develop and submit to the Governor a comprehensive 4-year local plan, in partnership with the chief elected official. The local plan shall support the strategy described in the State plan in accordance with section 3112(b)(1)(E) of this title, and otherwise be consistent with the State plan. If the local area is part of a planning region, the local board shall comply with section 3121(c) of this title in the preparation and submission of a regional plan. At the end of the first 2-year period of the 4-year local plan, each local board shall review the local plan and the local board, in partnership with the chief elected official, shall prepare and submit modifications to the local plan to reflect changes in labor market and economic conditions or in other factors affecting the implementation of the local plan.
+Each local board shall develop and submit to the Governor a comprehensive 4-year local plan, in partnership with the chief elected official. The local plan shall support the strategy described in the State plan in accordance with section 3112(b)(1)(E) of this title, and otherwise be consistent with the State plan. If the local area is part of a planning region, the local board shall comply with section 3121(c) of this title in the preparation and submission of a regionalplan. At the end of the first 2-year period of the 4-year local plan, each local board shall review the local plan and the local board, in partnership with the chief elected official, shall prepare and submit modifications to the local plan to reflect changes in labor market and economic conditions or in other factors affecting the implementation of the local plan.
 
 #### (b) Contents
 
@@ -20,7 +20,7 @@ The local plan shall include—
 
 &emsp;&emsp;(C) an analysis of the workforce in the region, including current labor force employment (and unemployment) data, and information on labor market trends, and the educational and skill levels of the workforce in the region, including individuals with barriers to employment;
 
-&emsp;&emsp;(D) an analysis of the workforce development activities (including education andtraining) in the region, including an analysis of the strengths and weaknesses of such services, and the capacity to provide such services, to address the identified education and skill needs of the workforce and the employment needs of employers in the region;
+&emsp;&emsp;(D) an analysis of the workforce development activities (including education and training) in the region, including an analysis of the strengths and weaknesses of such services, and the capacity to provide such services, to address the identified education and skill needs of the workforce and the employment needs of employers in the region;
 
 &emsp;&emsp;(E) a description of the local board's strategic vision and goals for preparing an educated and skilled workforce (including youth and individuals with barriers to employment), including goals relating to the performance accountability measures based on primary indicators of performance described in section 3141(b)(2)(A) of this title in order to support regional economic growth and economic self-sufficiency; and
 
@@ -98,7 +98,7 @@ Prior to the date on which the local board submits a local plan under this secti
 
 &emsp;(1) make available copies of a proposed local plan to the public through electronic and other means, such as public hearings and local news media;
 
-&emsp;(2) allow members of the public, including representatives of business, representatives of labor organizations, and representatives of education to submit to the local board comments on the proposed local plan, not later than the end of the 30-day period beginning on the date on which the proposed local plan is made available; and
+&emsp;(2) allow members of the public, including representatives of business, representatives of labor organizations, and representatives of education to submit to the local board comments on the proposed local plan, not laterthan the end of the 30-day period beginning on the date on which the proposed local plan is made available; and
 
 &emsp;(3) include with the local plan submitted to the Governor under this section any such comments that represent disagreement with the plan.
 

@@ -64,5 +64,5 @@ Pub. L. 87–508, §5(b), June 28, 1962, 76 Stat. 115, provided that the amendme
 
 #### Effective Date
 
-Section applicable to amounts paid on or after first day of first month which begins more than sixty days after July 25, 1956, for transportation commencing on or after such first day, see section 6 of act July 25, 1956, set out as an Effective Date of 1956 Amendment note under section 4261 of this title.
+Section applicable to amounts paid on or after first day of first month which begins more than sixty daysafter July 25, 1956, for transportation commencing on or after such first day, see section 6 of act July 25, 1956, set out as an Effective Date of 1956 Amendment note under section 4261 of this title.
 

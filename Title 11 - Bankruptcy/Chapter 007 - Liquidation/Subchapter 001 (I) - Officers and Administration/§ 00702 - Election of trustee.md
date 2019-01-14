@@ -24,7 +24,7 @@
 
 #### legislative statements
 
-The House amendment adopts section 702(a)(2) of the Senate amendment. An insubstantial equity interest does not disqualify a creditor from voting for a candidate for trustee.
+The House amendment adopts section 702(a)(2) of the Senate amendment. An insubstantial equity interestdoes not disqualify a creditor from voting for a candidate for trustee.
 
 #### senate report no. 95–989
 

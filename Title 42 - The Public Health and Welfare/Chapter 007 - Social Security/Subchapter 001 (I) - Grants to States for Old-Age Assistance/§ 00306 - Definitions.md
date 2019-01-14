@@ -4,7 +4,7 @@
 
 &emsp;(1) determination by the State agency that such needy individual has, by reason of his physical or mental condition, such inability to manage funds that making payments to him would be contrary to his welfare and, therefore, it is necessary to provide such assistance through payments described in this sentence;
 
-&emsp;(2) making such payments only in cases in which such payments will, under the rules otherwise applicable under the State plan for determining need and the amount of old-age assistance to be paid (and in conjunction with other income and resources), meet all the need of the individuals with respect to whom such payments are made;
+&emsp;(2) making such payments only in cases in which such payments will, under the rules otherwise applicable under the State plan fordetermining need and the amount of old-age assistance to be paid (and in conjunction with other income and resources), meet all the need of the individuals with respect to whom such payments are made;
 
 &emsp;(3) undertaking and continuing special efforts to protect the welfare of such individual and to improve, to the extent possible, his capacity for self-care and to manage funds;
 
@@ -30,7 +30,7 @@
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–97, §221(a)(1), struck out from definition of "old-age assistance" the exclusion of (1) payments to or medical care in behalf of any individual who is a patient in an institution for tuberculosis or mental diseases, or (2) payments to any individual who has been diagnosed as having tuberculosis or psychosis and is a patient in a medical institution as a result thereof, or (3) medical care in behalf of any individual, who is a patient in a medical institution as a result of a diagnosis that he has tuberculosis or psychosis, with respect to any period after the individual has been a patient in such an institution, as a result of such diagnosis, for forty-two days.
 
-Pub. L. 89–97, §402(a), extended definition of "old-age assistance" to include payments made on behalf of the recipient to an individual who (as determined in accordance with the standards prescribed by the Secretary) is interested in or concerned with the welfare of the recipient and inserted an enumeration of the five characteristics required of State plans under which such payments can be made, including provision for finding of inability to manage funds, payment to meetall needs, special efforts to protect welfare, periodic review, and opportunity for fair hearing.
+Pub. L. 89–97, §402(a), extended definition of "old-age assistance" to include payments made on behalf of the recipient to an individual who (as determined in accordance with the standards prescribed by the Secretary) is interested in or concerned with the welfare of the recipient and inserted an enumeration of the five characteristics required of State plans under which such payments can be made, including provision for finding of inability to manage funds, payment to meet all needs, special efforts to protect welfare, periodic review, and opportunity for fair hearing.
 
 Subsec. (b). Pub. L. 89–97, §§221(a)(2), 222(a), struck out from provision at end of cl. (12) excluding certain payments from definition of "medical assistance for the aged" payments with respect to care or services for any individual who is a patient in an institution for tuberculosis or mental diseases or for any individual who is a patient in a medical institution as a result of a diagnosis of tuberculosis or psychosis, with respect to any period after the individual has been a patient in such an institution, for forty-two days and inserted in text preceding cl. (1) "(except, for any month, for recipients of old-age assistance who are admitted to or discharged from a medical institution during such month)" after "who are not recipients of old-age assistance", respectively.
 
@@ -52,7 +52,7 @@ Amendment by section 221 of Pub. L. 89–97 applicable in the case of expenditur
 
 Pub. L. 89–97, title II, §222(c), July 30, 1965, 79 Stat. 360, provided that: "The amendments made by this section \[amending this section and section 1385 of this title\] shall apply in the case of expenditures under a State plan approved under title I or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 1381 et seq.\] with respect to care and services provided under such plan after June 1965."
 
-Pub. L. 89–97, title IV, §402(e), July 30, 1965, 79 Stat. 418, provided that: "The amendments made by this section \[amending this section and sections 1206, 1355, and 1385 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, X, XIV or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\]."
+Pub. L. 89–97, title IV, §402(e), July 30, 1965, 79 Stat. 418, provided that: "The amendments made by this section \[amending this section and sections 1206, 1355, and1385 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, X, XIV or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\]."
 
 #### Effective Date of 1962 Amendment
 

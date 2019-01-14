@@ -8,9 +8,15 @@ In this section:
 
 &emsp;The term "biobased product" means—
 
-&emsp;&emsp;(A) an industrial product (including chemicals, materials, and polymers) produced from biomass; or
+&emsp;&emsp;(A) an industrial product (including chemicals, materials, and polymers) produced from biomass;
 
-&emsp;&emsp;(B) a commercial or industrial product (including animal feed and electric power) derived in connection with the conversion of biomass to fuel.
+&emsp;&emsp;(B) a commercial or industrial product (including animal feed and electric power) derived in connection with the conversion of biomass to fuel; or
+
+&emsp;&emsp;(C) carbon dioxide that—
+
+&emsp;&emsp;&emsp;(i) is intended for permanent sequestration or utilization; and
+
+&emsp;&emsp;&emsp;(ii) is a byproduct of the production of the products described in subparagraphs (A) and (B).
 
 #### (2) Demonstration
 
@@ -112,9 +118,11 @@ In this section:
 
 &emsp;&emsp;&emsp;(xi) an individual with expertise in plant biology and biomass feedstock development;
 
-&emsp;&emsp;&emsp;(xii) an individual with expertise in agronomy, crop science, or soil science; and
+&emsp;&emsp;&emsp;(xii) an individual with expertise in agronomy, crop science, or soil science;
 
-&emsp;&emsp;&emsp;(xiii) at the option of the points of contact, other members.
+&emsp;&emsp;&emsp;(xiii) an individual with expertise in carbon dioxide capture, utilization, and sequestration; and
+
+&emsp;&emsp;&emsp;(xiv) at the option of the points of contact, other members.
 
 #### (B) Appointment
 
@@ -170,9 +178,11 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) to enhance the economic viability of biofuels and power;
 
-&emsp;&emsp;&emsp;(ii) to serve as substitutes for petroleum-based feedstocks and products; and
+&emsp;&emsp;&emsp;(ii) to serve as substitutes for petroleum-based feedstocks and products;
 
 &emsp;&emsp;&emsp;(iii) to enhance the value of coproducts produced using the technologies and processes; and
+
+&emsp;&emsp;&emsp;(iv) to permanently sequester or utilize carbon dioxide described in subsection (a)(1)(C); and
 
 &emsp;&emsp;(C) a diversity of economically and environmentally sustainable domestic sources of renewable biomass for conversion to biofuels, bioenergy, and biobased products.
 
@@ -188,9 +198,11 @@ In this section:
 
 &emsp;&emsp;Research, development, and demonstration activities to support—
 
-&emsp;&emsp;&emsp;(i) the development of diverse cost-effective technologies for the use of cellulosic biomass in the production of biofuels and biobased products; and
+&emsp;&emsp;&emsp;(i) the development of diverse cost-effective technologies for the use of cellulosic biomass in the production of biofuels and biobased products;
 
-&emsp;&emsp;&emsp;(ii) product diversification through technologies relevant to production of a range of biobased products (including chemicals, animal feeds, and cogenerated power) that potentially can increase the feasibility of fuel production in a biorefinery.
+&emsp;&emsp;&emsp;(ii) product diversification through technologies relevant to production of a range of biobased products (including chemicals, animal feeds, and cogenerated power) that potentially can increase the feasibility of fuel production in a biorefinery; and
+
+&emsp;&emsp;&emsp;(iii) the development of technologies to permanently sequester or utilize carbon dioxide described in subsection (a)(1)(C).
 
 #### (C) Biofuels development analysis
 
@@ -200,7 +212,7 @@ In this section:
 
 #### (ii) Energy and environmental impact
 
-&emsp;&emsp;&emsp;Development of systematic evaluations of the impact of expanded biofuel production on the environment (including forest land) and on the food supply for humans and animals, including the improvement and development of tools for life cycle analysis of current and potential biofuels.
+&emsp;&emsp;&emsp;Development of systematic evaluations of the impact of expanded biofuel production on the environment (including forestland) and on the food supply for humans and animals, including the improvement and development of tools for life cycle analysis of current and potential biofuels.
 
 #### (iii) Assessment of Federal land
 
@@ -320,9 +332,9 @@ For each fiscal year for which funds are made available to carry out this sectio
 
 #### (2) Discretionary funding
 
-&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
+&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 107–171, title IX, §9008, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1318, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2079; amended Pub. L. 112–240, title VII, §701(f)(7), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9008, Feb. 7, 2014, 128 Stat. 931.)
+(Pub. L. 107–171, title IX, §9008, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1318, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2079; amended Pub. L. 112–240, title VII, §701(f)(7), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9008, Feb. 7, 2014, 128 Stat. 931; Pub. L. 115–334, title VII, §7507, Dec. 20, 2018, 132 Stat. 4823.)
 
 #### References in Text
 
@@ -339,6 +351,16 @@ A prior section 8108, Pub. L. 107–171, title IX, §9010, May 13, 2002, 116 Sta
 A prior section 9008 of Pub. L. 107–171 amended title III of Pub. L. 106–224, which was classified to chapter 112 (§8601 et seq.) of this title prior to repeal by Pub. L. 110–246, §9001(b).
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(C). Pub. L. 115–334, §7507(1), added subpar. (C).
+
+Subsec. (d)(2)(A)(xiii), (xiv). Pub. L. 115–334, §7507(2), added cl. (xiii) and redesignated former cl. (xiii) as (xiv).
+
+Subsec. (e)(2)(B)(iv). Pub. L. 115–334, §7507(3)(A), added cl. (iv).
+
+Subsec. (e)(3)(B)(iii). Pub. L. 115–334, §7507(3)(B), added cl. (iii).
+
+Subsec. (h)(2). Pub. L. 115–334, §7507(4), substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (h)(1)(E). Pub. L. 113–79, §9008(1), added subpar. (E).
 

@@ -40,7 +40,7 @@ Definition of united states commercial provider.—In this subsection, the term 
 
 &emsp;&emsp;&emsp;(ii) the country or countries in which such foreign company is incorporated or organized, and, if appropriate, in which it principally conducts its business, affords reciprocal treatment to companies described in subparagraph (A) comparable to that afforded to such foreign company's subsidiary in the United States, as evidenced by—
 
-&emsp;&emsp;&emsp;&emsp;(I) providing comparable opportunities for companies described in subparagraph\(A) to participate in Government sponsored research and development similar to that authorized under this section, section 30307, 30308, 30309, or 30702 of this title, or the National Aeronautics and Space Administration Authorization Act of 2000 (Public Law 106–391, 114 Stat. 1577);
+&emsp;&emsp;&emsp;&emsp;(I) providing comparable opportunities for companies described in subparagraph (A) to participate in Government sponsored research and development similar to that authorized under this section, section 30307, 30308, 30309, or 30702 of this title, or the National Aeronautics and Space Administration Authorization Act of 2000 (Public Law 106–391, 114 Stat. 1577);
 
 &emsp;&emsp;&emsp;&emsp;(II) providing no barriers to companies described in subparagraph (A) with respect to local investment opportunities that are not provided to foreign companies in the United States; and
 
@@ -122,7 +122,7 @@ Briefings and Notifications Required.—
 
 &emsp;"(1)
 
-Restatement of policy formulation under the arms control and disarmament act with respect to outer space.—No action shall be taken that would obligate the United States to reduce or limit the Armed Forces or armaments of the United States in outer space in a militarily significant manner, except pursuant to the treaty-making power of the President set forth in Article II, Section 2, Clause II of the Constitution or unless authorized by the enactment of further affirmative legislation by the Congress of the United States.
+Restatement of policy formulation under the arms control and disarmament act with respect to outer space.—No action shall be taken that would obligate the United States to reduce or limit the Armed Forces or armaments of the United States in outer space in a militarily significant manner, except pursuant to the treaty-making power of thePresident set forth in Article II, Section 2, Clause II of the Constitution or unless authorized by the enactment of further affirmative legislation by the Congress of the United States.
 
 &emsp;"(2)
 

@@ -15,6 +15,88 @@
 
 Act June 30, 1949, ch. 288, title VI, §604, formerly title V, §504, 63 Stat. 403, renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583, provided that: "If any provision of this Act \[see Tables for classification\], or the application thereof to any person or circumstances, is held invalid, the remainder of this Act, and the application of such provision to other persons or circumstances, shall not be affected thereby."
 
+#### Prohibition on Certain Telecommunications and Video Surveillance Services or Equipment
+
+Pub. L. 115–232, div. A, title VIII, §889, Aug. 13, 2018, 132 Stat. 1917, provided that:
+
+"(a)
+
+Prohibition on Use or Procurement.—(1) The head of an executive agency may not—
+
+&emsp;"(A) procure or obtain or extend or renew a contract to procure or obtain any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system; or
+
+&emsp;"(B) enter into a contract (or extend or renew a contract) with an entity that uses any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system.
+
+"(2) Nothing in paragraph (1) shall be construed to—
+
+&emsp;"(A) prohibit the head of an executive agency from procuring with an entity to provide a service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
+
+&emsp;"(B) cover telecommunications equipment that cannot route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
+
+"(b)
+
+Prohibition on Loan and Grant Funds.—(1) The head of an executive agency may not obligate or expend loan or grant funds to procure or obtain, extend or renew a contract to procure or obtain, or enter into acontract (or extend or renew a contract) to procure or obtain the equipment, services, or systems described in subsection (a).
+
+"(2) In implementing the prohibition in paragraph (1), heads of executive agencies administering loan, grant, or subsidy programs, including the heads of the Federal Communications Commission, the Department of Agriculture, the Department of Homeland Security, the Small Business Administration, and the Department of Commerce, shall prioritize available funding and technical support to assist affected businesses, institutions and organizations as is reasonably necessary for those affected entities to transition from covered communications equipment and services, to procure replacement equipment and services, and to ensure that communications service to users and customers is sustained.
+
+"(3) Nothing in this subsection shall be construed to—
+
+&emsp;"(A) prohibit the head of an executive agency from procuring with an entity to provide a service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
+
+&emsp;"(B) cover telecommunications equipment that cannot route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
+
+"(c)
+
+Effective Dates.—The prohibition under subsection (a)(1)(A) shall take effect one year after the date of the enactment of this Act \[Aug. 13, 2018\], and the prohibitions under subsections (a)(1)(B) and (b)(1) shall take effect two years after the date of the enactment of this Act.
+
+"(d)
+
+Waiver Authority.—
+
+&emsp;"(1)
+
+Executive agencies.—The head of an executive agency may, on a one-time basis, waive the requirements under subsection (a) with respect to an entity that requests such a waiver. The waiver may be provided, for a period of not more than two years after the effective dates described in subsection (c), if the entity seeking the waiver—
+
+&emsp;&emsp;"(A) provides a compelling justification for the additional time to implement the requirements under such subsection, as determined by the head of the executive agency; and
+
+&emsp;&emsp;"(B) submits to the head of the executive agency, who shall not later than 30 days thereafter submit to the appropriate congressional committees, a full and complete laydown of the presences of covered telecommunications or video surveillance equipment or services in the entity's supply chain and a phase-out plan to eliminate such covered telecommunications or video surveillance equipment or services from the entity's systems.
+
+&emsp;"(2)
+
+Director of national intelligence.—The Director of National Intelligence may provide a waiver on a date later than the effective dates described in subsection (c) if the Director determines the waiver is in the national security interests of the United States.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' ' \[sic\] means—
+
+&emsp;&emsp;"(A) the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Financial Services, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform of the House of Representatives.
+
+&emsp;"(2)
+
+Covered foreign country.—The term 'covered foreign country' means the People's Republic of China.
+
+&emsp;"(3)
+
+Covered telecommunications equipment or services.—The term 'covered telecommunications equipment or services' means any of the following:
+
+&emsp;&emsp;"(A) Telecommunications equipment produced by Huawei Technologies Company or ZTE Corporation (or any subsidiary or affiliate of such entities).
+
+&emsp;&emsp;"(B) For the purpose of public safety, security of government facilities, physical security surveillance of critical infrastructure, and other national security purposes, video surveillance and telecommunications equipment produced by Hytera Communications Corporation, Hangzhou Hikvision Digital Technology Company, or Dahua Technology Company (or any subsidiary or affiliate of such entities).
+
+&emsp;&emsp;"(C) Telecommunications or video surveillance services provided by such entities or using such equipment.
+
+&emsp;&emsp;"(D) Telecommunications or video surveillance equipment or services produced or provided by an entity that the Secretary of Defense, in consultation with the Director of the National Intelligence or the Director of the Federal Bureau of Investigation, reasonably believes to be an entity owned or controlled by, or otherwise connected to, the government of a covered foreign country.
+
+&emsp;"(4)
+
+Executive agency.—The term 'executive agency' has the meaning given the term in section 133 of title 41, United States Code."
+
 #### Share-in-Savings Contracts
 
 Act June 30, 1949, ch. 288, title III, §317, as added Pub. L. 107–347, title II, §210(b), Dec. 17, 2002, 116 Stat. 2934, provided that:
@@ -187,7 +269,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. (a) Large-scale construction projects pose special challenges to efficient and timely procurement by the Federal Government. Construction employers typically do not have a permanent workforce, which makes it difficult for them to predict labor costs when bidding on contracts and to ensure a steady supply of labor on contracts being performed. Challenges also arise due to the fact that construction projects typically involve multiple employers at a single location. A labor dispute involving one employer can delay the entire project. A lack of coordination among various employers, or uncertainty about the terms and conditions of employment of various groups of workers, can create frictions and disputes in the absence of an agreed-upon resolution mechanism. These problems threaten the efficient and timely completion of construction projects undertaken by Federal contractors. On larger projects, which are generally more complex and of longer duration, these problems tend to be more pronounced.
 
-(b) The use of a project labor agreement may prevent these problems from developing by providing structure and stability to large-scale construction projects,thereby promoting the efficient and expeditious completion of Federal construction contracts. Accordingly, it is the policy of the Federal Government to encourage executive agencies to consider requiring the use of project labor agreements in connection with large-scale construction projects in order to promote economy and efficiency in Federal procurement.
+(b) The use of a project labor agreement may prevent these problems from developing by providing structure and stability to large-scale construction projects, thereby promoting the efficient and expeditious completion of Federal construction contracts. Accordingly, it is the policy of the Federal Government to encourage executive agencies to consider requiring the use of project labor agreements in connection with large-scale construction projects in order to promote economy and efficiency in Federal procurement.
 
 Sec. 2. <i>Definitions</i>.
 

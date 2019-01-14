@@ -19,7 +19,7 @@
 
 #### (2) 2-parent families
 
-&emsp;A State to which a grant is made under section 603 of this title for a fiscal year shall achieve the minimum participation rate specified in the following table for the fiscal yearwith respect to 2-parent families receiving assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title):
+&emsp;A State to which a grant is made under section 603 of this title for a fiscal year shall achieve the minimum participation rate specified in the following table for the fiscal year with respect to 2-parent families receiving assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title):
 
 &nbsp;
 
@@ -93,7 +93,7 @@
 
 #### (A) All families
 
-&emsp;&emsp;For purposes of subsection (b)(1)(B)(i), a recipient is engaged in work for a month in a fiscal year if the recipient is participating in work activities for at least the minimum average number of hours per week specifiedin the following table during the month, not fewer than 20 hours per week of which are attributable to an activity described in paragraph (1), (2), (3), (4), (5), (6), (7), (8), or (12) of subsection (d), subject to this subsection:
+&emsp;&emsp;For purposes of subsection (b)(1)(B)(i), a recipient is engaged in work for a month in a fiscal year if the recipient is participating in work activities for at least the minimum average number of hours per week specified in the following table during the month, not fewer than 20 hours per week of which are attributable to an activity described in paragraph (1), (2), (3), (4), (5), (6), (7), (8), or (12) of subsection (d), subject to this subsection:
 
 &nbsp;
 
@@ -138,7 +138,7 @@
 
 #### (D) Limitation on number of persons who may be treated as engaged in work by reason of participation in educational activities
 
-&emsp;&emsp;For purposes of determining monthly participation rates under paragraphs (1)(B)(i) and (2)(B) of subsection (b), not more than 30 percent of the number of individuals in all families and in 2-parent families, respectively, in a State who are treated as engaged in work for a month may consist of individuals who are determined to be engaged in work for the month by reason of participation in vocational educational training, or (if the month is in fiscal year 2000 or thereafter) deemed to be engaged in work for the month by reason of subparagraph (C) of this paragraph.
+&emsp;&emsp;For purposes of determining monthly participation rates under paragraphs (1)(B)(i) and (2)(B) of subsection (b), not more than 30percent of the number of individuals in all families and in 2-parent families, respectively, in a State who are treated as engaged in work for a month may consist of individuals who are determined to be engaged in work for the month by reason of participation in vocational educational training, or (if the month is in fiscal year 2000 or thereafter) deemed to be engaged in work for the month by reason of subparagraph (C) of this paragraph.
 
 #### (d) "Work activities" defined
 
@@ -240,7 +240,7 @@ It is the sense of the Congress that the States should require noncustodial, non
 
 #### (ii) Issuance of regulations on an interim final basis
 
-&emsp;&emsp;&emsp;The regulations referred to in clause (i) may be effective and final immediately onan interim basis as of the date of publication of the regulations. If the Secretary provides for an interim final regulation, the Secretary shall provide for a period of public comment on the regulation after the date of publication. The Secretary may change or revise the regulation after the public comment period.
+&emsp;&emsp;&emsp;The regulations referred to in clause (i) may be effective and final immediately on an interim basis as of the date of publication of the regulations. If the Secretary provides for an interim final regulation, the Secretary shall provide for a period of public comment on the regulation after the date of publication. The Secretary may change or revise the regulation after the public comment period.
 
 #### (B) Oversight of State procedures
 
@@ -270,7 +270,7 @@ Subsec. (b)(3)(A)(i). Pub. L. 109–171, §7102(a)(1)(A), inserted "or any other
 
 Subsec. (b)(3)(A)(ii). Pub. L. 109–171, §7102(a)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: "the average monthly number of families that received aid under the State plan approved under part A of this subchapter (as in effect on September 30, 1995) during fiscal year 1995."
 
-Subsec. (b)(3)(B). Pub. L. 109–171, §7102(a)(2), substituted "and the eligibility criteria in effect during fiscal year 2005" for "and eligibility criteria under the State program operated under the State plan approved under part A of this subchapter (as such plan and such part were in effect on September 30, 1995)".
+Subsec. (b)(3)(B). Pub. L. 109–171, §7102(a)(2), substituted "and the eligibility criteria in effect duringfiscal year 2005" for "and eligibility criteria under the State program operated under the State plan approved under part A of this subchapter (as such plan and such part were in effect on September 30, 1995)".
 
 Subsecs. (c)(2)(A)(i), (e)(1), (2). Pub. L. 109–171, §7102(b)(1), inserted "or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)" after "this part".
 
@@ -288,7 +288,7 @@ Subsec. (c)(1)(B). Pub. L. 105–33, §5504(e), substituted "participating" for 
 
 Subsec. (c)(1)(B)(i). Pub. L. 105–33, §5504(d)(1), substituted "and the other parent in the family are" for "is" and inserted "a total of" before "at least".
 
-Subsec. (c)(1)(B)(ii). Pub. L. 105–33, §5504(d)(2), substituted "individual and the other parent in the family are" for "individual's spouse is", inserted "for a total of at least 55 hours per week" before "during themonth", and substituted "50" for "20" and "(6), (7), (8), or (12)" for "or (7)".
+Subsec. (c)(1)(B)(ii). Pub. L. 105–33, §5504(d)(2), substituted "individual and the other parent in the family are" for "individual's spouse is", inserted "for a total of at least 55 hours per week" before "during the month", and substituted "50" for "20" and "(6), (7), (8), or (12)" for "or (7)".
 
 Subsec. (c)(2)(A)(i). Pub. L. 105–33, §5504(f), inserted "or the State is a needy State (within the meaning of section 603(b)(6) of this title)" after "United States".
 

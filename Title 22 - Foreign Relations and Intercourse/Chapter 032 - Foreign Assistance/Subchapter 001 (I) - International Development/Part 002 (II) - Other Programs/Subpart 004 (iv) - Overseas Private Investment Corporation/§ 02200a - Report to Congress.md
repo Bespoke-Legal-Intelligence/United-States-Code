@@ -58,7 +58,11 @@ Each annual report required by subsection (a) shall include an assessment of pro
 
 Subsections (b) and (e) do not require the inclusion in any report submitted pursuant to those subsections of any information which would not be required to be made available to the public pursuant to section 552 of title 5 (relating to freedom of information).
 
-(Pub. L. 87–195, pt. I, §240A, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 818; amended Pub. L. 93–390, §2(7), Aug. 27, 1974, 88 Stat. 768; Pub. L. 95–268, §10, Apr. 24, 1978, 92 Stat. 216; Pub. L. 97–65, §9, formerly §9(a), Oct. 16, 1981, 95 Stat. 1024, renumbered §9, Pub. L. 99–204, §17(c)(1), Dec. 23, 1985, 99 Stat. 1677; Pub. L. 99–204, §14(a), Dec. 23, 1985, 99 Stat. 1674; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 102–549, title I, §108, Oct. 28, 1992, 106 Stat. 3654.)
+(Pub. L. 87–195, pt. I, §240A, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 818; amended Pub. L. 93–390, §2(7), Aug. 27, 1974, 88 Stat. 768; Pub. L. 95–268, §10, Apr. 24, 1978, 92 Stat. 216; Pub. L. 97–65, §9, formerly §9(a), Oct. 16, 1981, 95 Stat. 1024, renumbered §9, Pub. L. 99–204, §17(c)(1), Dec. 23, 1985, 99 Stat. 1677; Pub. L. 99–204, §14(a), Dec. 23, 1985, 99 Stat. 1674; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat.2268–36; Pub. L. 102–549, title I, §108, Oct. 28, 1992, 106 Stat. 3654.)
+
+#### Repeal of Section
+
+<i>Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in section 9681 of this title, this section is repealed.</i>
 
 #### Codification
 
@@ -91,6 +95,10 @@ Subsec. (f). Pub. L. 100–461 redesignated subsec. (e) as (f) and substituted "
 Subsec. (b). Pub. L. 95–268 substituted provisions relating to report to be submitted not later than Sept. 30, 1980 involving the development and any arrangements by the Corporation with private insurance companies, etc., for provisions relating to report submitted not later than Jan. 1, 1976 involving the possibilities of the Corporation transferring all of its activities to private insurance companies, etc.
 
 <b>1974</b>—Subsec. (b). Pub. L. 93–390 substituted "January 1, 1976" for "March 1, 1974" and "of its activities to private insurance companies, multilateral organizations and institutions, or other entities" for "or part of its activities to private United States citizens, corporations, or other associations".
+
+#### Effective Date of Repeal
+
+Repeal effective at the end of the transition period, as defined in section 9681 of this title, see section 9684 of this title.
 
 #### Report to Congress Not Later Than June 30, 1982, on Methods for Estimating the Impact on Investments if Insurance or Other Support is Not Provided
 

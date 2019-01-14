@@ -48,7 +48,7 @@
 
 &emsp;(A) such contributions may be made only out of the Bank's earnings, determined in accordance with generally accepted accounting principles; and
 
-&emsp;(B) the Bank shall set aside amounts sufficient to satisfy its obligations to the Secretary of the Treasury for payments of principal and interest on class A notes and otherdebt before making any contributions to such nonprofit corporation.
+&emsp;(B) the Bank shall set aside amounts sufficient to satisfy its obligations to the Secretary of the Treasury for payments of principal and interest on class A notes and other debt before making any contributions to such nonprofit corporation.
 
 (2) During any period in which the nonprofit corporation described in subsection (b) is qualified as an organization described in section 501(c)(3) of title 26, contributions made by the Bank pursuant to paragraph (1) shall be treated as charitable contributions within the meaning of section 170(c)(2) of title 26, and may be deducted notwithstanding the provisions of section 170(b)(2) of title 26.
 

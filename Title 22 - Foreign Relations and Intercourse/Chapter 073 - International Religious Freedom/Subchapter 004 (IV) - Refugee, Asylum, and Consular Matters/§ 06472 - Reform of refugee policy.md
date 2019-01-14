@@ -24,7 +24,7 @@ The President shall include in each annual report on proposed refugee admissions
 
 #### Codification
 
-Section is comprised of section 602 of Pub. L. 105–292. Subsec. (a) of section 602 of Pub. L. 105–292 amendedsection 1157 of Title 8, Aliens and Nationality. Subsec. (b) of section 602 of Pub. L. 105–292 amended section 4028 of this title.
+Section is comprised of section 602 of Pub. L. 105–292. Subsec. (a) of section 602 of Pub. L. 105–292 amended section 1157 of Title 8, Aliens and Nationality. Subsec. (b) of section 602 of Pub. L. 105–292 amended section 4028 of this title.
 
 #### Amendments
 

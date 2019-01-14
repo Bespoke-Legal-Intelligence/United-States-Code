@@ -32,7 +32,7 @@
 
 &emsp;&emsp;Each report described in subparagraph (A) shall include—
 
-&emsp;&emsp;&emsp;(i) a description of each voluntary flexible agreement and the performance goalsestablished by the Secretary for each agreement;
+&emsp;&emsp;&emsp;(i) a description of each voluntary flexible agreement and the performance goals established by the Secretary for each agreement;
 
 &emsp;&emsp;&emsp;(ii) a list of—
 
@@ -118,7 +118,7 @@ An agreement between the Secretary and a guaranty agency under this section—
 
 #### (3) Waiver notice
 
-&emsp;The Secretary shall notify the members of the authorizing committees not later than 30days prior to the granting of a waiver pursuant to subsection (a)(2) <sup>1</sup> to a guaranty agency that is not a party to a voluntary flexible agreement.
+&emsp;The Secretary shall notify the members of the authorizing committees not later than 30 days prior to the granting of a waiver pursuant to subsection (a)(2) <sup>1</sup> to a guaranty agency that is not a party to a voluntary flexible agreement.
 
 #### (4) Public availability
 
@@ -162,7 +162,7 @@ Subsec. (a)(4). Pub. L. 109–171, §8014(f)(4), struck out par. (4), which requ
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date
 

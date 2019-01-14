@@ -6,7 +6,7 @@ If the Secretary determines that an extraordinary emergency exists because of th
 
 &emsp;(1) hold, seize, quarantine, treat, apply other remedial measures to, destroy, or otherwise dispose of, any plant, biological control organism, plant product, article, or means of conveyance that the Secretary has reason to believe is infested with the plant pest or noxious weed;
 
-&emsp;(2) quarantine, treat, or apply other remedial measures to any premises, including any plants, biological control organisms, plant products, articles, or means of conveyance on the premises, that the Secretary has reason tobelieve is infested with the plant pest or noxious weed;
+&emsp;(2) quarantine, treat, or apply other remedial measures to any premises, including any plants, biological control organisms, plant products, articles, or means of conveyance on the premises, that the Secretary has reason to believe is infested with the plant pest or noxious weed;
 
 &emsp;(3) quarantine any State or portion of a State in which the Secretary finds the plant pest or noxious weed or any plant, biological control organism, plant product, article, or means of conveyance that the Secretary has reason to believe is infested with the plant pest or noxious weed; and
 

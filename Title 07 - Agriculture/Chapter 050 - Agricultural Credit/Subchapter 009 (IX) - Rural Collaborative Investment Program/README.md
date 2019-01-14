@@ -5,11 +5,4 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02009dd - Purpose](%C2%A7%2002009dd%20-%20Purpose.md)
-- [&sect; 02009dd&#8211;1 - Definitions](%C2%A7%2002009dd%E2%80%931%20-%20Definitions.md)
-- [&sect; 02009dd&#8211;2 - Establishment and administration of Rural Collaborative Investment Program](%C2%A7%2002009dd%E2%80%932%20-%20Establishment%20and%20administration%20of%20Rural%20Collaborative%20Investment%20Program.md)
-- [&sect; 02009dd&#8211;3 - Regional Rural Investment Boards](%C2%A7%2002009dd%E2%80%933%20-%20Regional%20Rural%20Investment%20Boards.md)
-- [&sect; 02009dd&#8211;4 - Regional investment strategy grants](%C2%A7%2002009dd%E2%80%934%20-%20Regional%20investment%20strategy%20grants.md)
-- [&sect; 02009dd&#8211;5 - Regional innovation grants program](%C2%A7%2002009dd%E2%80%935%20-%20Regional%20innovation%20grants%20program.md)
-- [&sect; 02009dd&#8211;6 - Rural endowment loans program](%C2%A7%2002009dd%E2%80%936%20-%20Rural%20endowment%20loans%20program.md)
-- [&sect; 02009dd&#8211;7 - Authorization of appropriations](%C2%A7%2002009dd%E2%80%937%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 02009dd to 2009dd&#8211;7 - Repealed. Pub. L. 115&#8211;334, title VI, &sect;6601(a)(1)(H), Dec. 20, 2018, 132 Stat. 4776](%C2%A7%2002009dd%20to%202009dd%E2%80%937%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20VI%2C%20%C2%A76601%28a%29%281%29%28H%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204776.md)

@@ -42,7 +42,7 @@ To provide for a trust solely to meet emergency humanitarian food needs in devel
 
 &emsp;&emsp;Any funds used to acquire eligible commodities through purchases from producers or in the market to replenish the trust shall be derived—
 
-&emsp;&emsp;&emsp;(i) with respect to fiscal years 2000 through 2018 from funds made available to carry out the Food for Peace Act (7 U.S.C. 1691 et seq.) that are used to repay or reimburse the Commodity Credit Corporation for the release of eligible commodities under subsections (c)(1) and (f)(2), except that, of such funds, not more than $20,000,000 may be expended for this purpose in each of the fiscal years 2000 through 2018;
+&emsp;&emsp;&emsp;(i) with respect to fiscal years 2000 through 2023 from funds made available to carry out the Food for Peace Act (7 U.S.C. 1691 et seq.) that are used to repay or reimburse the Commodity Credit Corporation for the release of eligible commodities under subsections (c)(1) and (f)(2), except that, of such funds, not more than $20,000,000 may be expended for this purpose in each of the fiscal years 2000 through 2023;
 
 &emsp;&emsp;&emsp;(ii) from funds authorized for that use by an appropriations Act; or
 
@@ -152,7 +152,7 @@ Eligible commodities in the trust established under this section shall not be—
 
 &emsp;(1) considered a part of the total domestic supply (including carryover) for the purpose of subsection (c) or for the purpose of administering the Food for Peace Act (7 U.S.C. 1691 et seq.); and
 
-&emsp;(2) subject to any quantitative limitation on exports that may be imposed under section 4606 of title 50.
+&emsp;(2) subject to any quantitative limitation on exports that may be imposed under section 4606 <sup>3</sup> of title 50.
 
 #### (f) Use of Commodity Credit Corporation
 
@@ -186,19 +186,21 @@ Any determination by the Secretary under this section shall be final.
 
 #### (1) In general
 
-&emsp;The authority to replenish stocks of eligible commodities to maintain the trust established under this section shall terminate on September 30, 2018.
+&emsp;The authority to replenish stocks of eligible commodities to maintain the trust established under this section shall terminate on September 30, 2023.
 
 #### (2) Disposal of eligible commodities
 
-&emsp;Eligible commodities remaining in the trust after September 30, 2018, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
+&emsp;Eligible commodities remaining in the trust after September 30, 2023, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
 
-(Pub. L. 96–494, title III, §302, as added Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, §212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467; Pub. L. 107–171, title III, §3202, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(E), 3201, June 18, 2008, 122 Stat. 1820, 1834; Pub. L. 113–79, title III, §3202, Feb. 7, 2014, 128 Stat. 779.)
+(Pub. L. 96–494, title III, §302, as added Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, §212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467; Pub. L. 107–171, title III, §3202, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(E), 3201, June 18, 2008, 122 Stat. 1820, 1834; Pub. L. 113–79, title III, §3202, Feb. 7, 2014, 128 Stat. 779; Pub. L. 115–334, title III, §3303, Dec. 20, 2018, 132 Stat. 4619.)
 
 #### References in Text
 
 The Food Security Wheat Reserve Act of 1980, referred to in subsec. (b)(1)(A), (B), is title III of the Agricultural Act of 1980, Pub. L. 96–494, Dec. 3, 1980, 94 Stat. 2578, which enacted former section 1736f–1 of this title and provisions set out as notes under that section, prior to the general amendment of title III by Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959.
 
 The Food for Peace Act, referred to in subsecs. (b)(2)(B)(i), (c)(1)(B), (C), (e)(1), and (f)(2)(A), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to this chapter (§1691 et seq.). Title II of the Act is classified to subchapter III (§1721 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+
+Section 4606 of title 50, referred to in subsec. (e)(2), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Codification
 
@@ -211,6 +213,10 @@ Section was enacted as part of the Bill Emerson Humanitarian Trust Act which is 
 A prior section 1736f–1, Pub. L. 96–494, title III, §302, Dec. 3, 1980, 94 Stat. 2578; Pub. L. 99–198, title X, §1013, Dec. 23, 1985, 99 Stat. 1456; Pub. L. 101–624, title XI, §1143, title XV, §1515(c), Nov. 28, 1990, 104 Stat. 3515, 3663, established food security wheat reserve, prior to general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, §225(a).
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2)(B)(i). Pub. L. 115–334, §3303(1), substituted "2023" for "2018" in two places.
+
+Subsec. (h). Pub. L. 115–334, §3303(2), substituted "2023" for "2018" in pars. (1) and (2).
 
 <b>2014</b>—Subsec. (b)(2)(B)(i). Pub. L. 113–79, §3202(1), substituted "2018" for "2012" in two places.
 
@@ -291,4 +297,6 @@ A prior section 301 of title III of Pub. L. 96–494 provided that title III (en
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 
 <i><sup>2</sup></i><i> So in original. The "; and" probably should be a period.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

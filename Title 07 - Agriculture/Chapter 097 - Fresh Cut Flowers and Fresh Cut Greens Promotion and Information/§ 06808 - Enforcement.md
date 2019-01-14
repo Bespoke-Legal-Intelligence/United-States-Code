@@ -60,7 +60,7 @@ A civil action brought under subsection (a) shall be referred to the Attorney Ge
 
 #### (1) In general
 
-&emsp;A person who fails to obey a cease and desist order issued under subsection (c) after the order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary of not more than $5,000 for each offense, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d).
+&emsp;A person who fails to obey a cease and desist order issued under subsection (c) after theorder has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary of not more than $5,000 for each offense, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d).
 
 #### (2) Separate violations
 

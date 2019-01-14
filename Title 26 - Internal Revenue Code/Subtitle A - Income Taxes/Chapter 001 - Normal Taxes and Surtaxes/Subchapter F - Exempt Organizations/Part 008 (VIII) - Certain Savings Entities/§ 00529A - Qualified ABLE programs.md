@@ -94,19 +94,11 @@ For purposes of this section—
 
 #### (ii) Change in designated beneficiaries
 
-&emsp;&emsp;&emsp;Any change in the designated beneficiary of an interest in a qualified ABLE program during a taxable year shall not be treated as a distribution for purposes of subparagraph (A) if the new beneficiary is an eligible individual for such taxable year and a member of the family of the former beneficiary.
+&emsp;&emsp;&emsp;Any change in the designated beneficiary of an interest in a qualified ABLE program during a taxable year shall not be treated as a distribution for purposes of subparagraph (A) if the new beneficiary isan eligible individual for such taxable year and a member of the family of the former beneficiary.
 
 #### (iii) Limitation on certain rollovers
 
 &emsp;&emsp;&emsp;Clause (i) shall not apply to any transfer if such transfer occurs within 12 months from the date of a previous transfer to any qualified ABLE program for the benefit of the designated beneficiary.
-
-#### (D) Operating rules
-
-&emsp;&emsp;For purposes of applying section 72—
-
-&emsp;&emsp;&emsp;(i) except to the extent provided by the Secretary, all distributions during a taxable year shall be treated as one distribution, and
-
-&emsp;&emsp;&emsp;(ii) except to the extent provided by the Secretary, the value of the contract, income on the contract, and investment in the contract shall be computed as of the close of the calendar year in which the taxable year begins.
 
 #### (2) Gift tax rules
 
@@ -126,7 +118,7 @@ For purposes of this section—
 
 #### (C) Treatment of transfer to new designated beneficiary
 
-&emsp;&emsp;The taxes imposed by chapters 12 and 13 shall not apply to a transfer by reason of achange in the designated beneficiary under subsection (c)(1)(C).
+&emsp;&emsp;The taxes imposed by chapters 12 and 13 shall not apply to a transfer by reason of a change in the designated beneficiary under subsection (c)(1)(C).
 
 #### (3) Additional tax for distributions not used for disability expenses
 
@@ -168,7 +160,7 @@ For purposes of this section—
 
 #### (4) Electronic distribution statements
 
-&emsp;For purposes of section 103 of the Achieving a Better Life Experience Act of 2014,<sup>1</sup> States shall submit electronically on a monthly basis to the Commissioner of Social Security, in the manner specified by the Commissioner, statements on relevant distributions and account balances from all ABLE accounts.
+&emsp;For purposes of section 103 of the Stephen Beck, Jr., ABLE Act of 2014, States shall submit electronically on a monthly basis to the Commissioner of Social Security, in the manner specified by the Commissioner, statements on relevant distributions and account balances from all ABLE accounts.
 
 #### (5) Requirements
 
@@ -190,7 +182,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "disability certification" means, with respect to an individual, a certification to the satisfaction of the Secretary by the individual or the parent or guardian of the individual that—
+&emsp;&emsp;The term "disability certification" means, with respect to an individual, a certificationto the satisfaction of the Secretary by the individual or the parent or guardian of the individual that—
 
 &emsp;&emsp;&emsp;(i) certifies that—
 
@@ -202,7 +194,7 @@ For purposes of this section—
 
 #### (B) Restriction on use of certification
 
-&emsp;&emsp;No inference may be drawn from a disability certification for purposes of establishingeligibility for benefits under title II, XVI, or XIX of the Social Security Act.
+&emsp;&emsp;No inference may be drawn from a disability certification for purposes of establishing eligibility for benefits under title II, XVI, or XIX of the Social Security Act.
 
 #### (3) Designated beneficiary
 
@@ -210,7 +202,7 @@ For purposes of this section—
 
 #### (4) Member of family
 
-&emsp;The term "member of the family" means, with respect to any designated beneficiary, an individual who bears a relationship to such beneficiary which is described in subparagraph <sup>2</sup> section 152(d)(2)(B). For purposes of the preceding sentence, a rule similar to the rule of section 152(f)(1)(B) shall apply.
+&emsp;The term "member of the family" means, with respect to any designated beneficiary, an individual who bears a relationship to such beneficiary which is described in section 152(d)(2)(B). For purposes of the preceding sentence, a rule similar to the rule of section 152(f)(1)(B) shall apply.
 
 #### (5) Qualified disability expenses
 
@@ -242,17 +234,23 @@ The Secretary shall prescribe such regulations or other guidance as the Secretar
 
 &emsp;(7) to allow for transfers from one ABLE account to another ABLE account.
 
-(Added Pub. L. 113–295, div. B, title I, §102(a), Dec. 19, 2014, 128 Stat. 4056; amended Pub. L. 114–113, div. Q, title III, §303(a)–(c), Dec. 18, 2015, 129 Stat. 3087; Pub. L. 115–97, title I, §11024(a), Dec. 22, 2017, 131 Stat. 2075.)
+(Added Pub. L. 113–295, div. B, title I, §102(a), Dec. 19, 2014, 128 Stat. 4056; amended Pub. L. 114–113, div. Q, title III, §303(a)–(c), Dec. 18, 2015, 129 Stat. 3087; Pub. L. 115–97, title I, §11024(a), Dec. 22, 2017, 131 Stat. 2075; Pub. L. 115–141, div. U, title I, §101(o), title IV, §401(a)(129), (130), Mar. 23, 2018, 132 Stat. 1166, 1190.)
 
 #### References in Text
 
-The Achieving a Better Life Experience Act of 2014, referred to in subsec. (d)(4), probably means div. B of Pub. L. 113–295, Dec. 19, 2014, 128 Stat. 4056, known as the "Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014" and also as the "Stephen Beck, Jr., ABLE Act of 2014". Section 103 of div. B of Pub. L. 113–295 is set out as a note under this section.
+The Stephen Beck, Jr., ABLE Act of 2014, referred to in subsec. (d)(4), is div. B of Pub. L. 113–295, Dec. 19, 2014, 128 Stat. 4056, also known as the "Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014". Section 103 of div. B of Pub. L. 113–295 is set out as a note under this section.
 
 The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XIX (§1396 et seq.) respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
-<b>2017</b>—Subsec. (b)(2). Pub. L. 115–97, §11024(a)(2), inserted at end of concluding provisions "A designated beneficiary (or a person acting on behalf of such beneficiary) shall maintain adequate records for purposes of ensuring, and shall be responsible for ensuring, that the requirements of subparagraph (B)(ii) are met."
+<b>2018</b>—Subsec. (c)(1)(D). Pub. L. 115–141, §101(o), struck out subpar. (D) which related to operating rules.
+
+Subsec. (d)(4). Pub. L. 115–141, §401(a)(129), substituted "Stephen Beck, Jr., ABLE Act of 2014" for "Achieving a Better Life Experience Act of 2014".
+
+Subsec. (e)(4). Pub. L. 115–141, §401(a)(130), substituted "section 152(d)(2)(B)" for "subparagraph section 152(d)(2)(B)".
+
+<b>2017</b>—Subsec. (b)(2). Pub. L. 115–97, §11024(a)(2), inserted at end of concluding provisions "A designatedbeneficiary (or a person acting on behalf of such beneficiary) shall maintain adequate records for purposes of ensuring, and shall be responsible for ensuring, that the requirements of subparagraph (B)(ii) are met."
 
 Subsec. (b)(2)(B). Pub. L. 115–97, §11024(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "except in the case of contributions under subsection (c)(1)(C), if such contribution to an ABLE account would result in aggregate contributions from all contributors to the ABLE account for the taxable year exceeding the amount in effect under section 2503(b) for the calendar year in which the taxable year begins."
 
@@ -266,7 +264,11 @@ Subsec. (d)(3). Pub. L. 114–113, §303(b)(1), struck out "and State of residen
 
 Subsec. (d)(4). Pub. L. 114–113, §303(c)(1), substituted "section 103" for "section 4".
 
-Subsec. (e)(7). Pub. L. 114–113, §303(b)(2), struck out par. (7). Text read as follows: "The term 'contracting State' means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents ofthe contracting State access to a qualified ABLE program."
+Subsec. (e)(7). Pub. L. 114–113, §303(b)(2), struck out par. (7). Text read as follows: "The term 'contracting State' means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program."
+
+#### Effective Date of 2018 Amendment
+
+Amendment by section 101(o) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
 
 #### Effective Date of 2017 Amendment
 
@@ -319,8 +321,4 @@ No impact on medicaid eligibility.—An individual who would be receiving paymen
 "(c)
 
 Effective Date.—This section shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\]."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. The word "subparagraph" probably should not appear.</i>
 

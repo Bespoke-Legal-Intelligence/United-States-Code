@@ -26,26 +26,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part B—Federal Assistance for State and Local Programs
+#### Part B—Charles Grassley Juvenile Justice and Delinquency Prevention Program
 
 |  |  |
 | :--- | ---: |
-| [11131\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20B%20-%20Federal%20Assistance%20for%20State%20and%20Local%20Programs/%C2%A7%2011131%20-%20Authority%20to%20make%20grants%20and%20contracts.md) | Authority to make grants and contracts. |
-| [11132\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20B%20-%20Federal%20Assistance%20for%20State%20and%20Local%20Programs/%C2%A7%2011132%20-%20Allocation%20of%20funds.md) | Allocation of funds. |
-| [11133\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20B%20-%20Federal%20Assistance%20for%20State%20and%20Local%20Programs/%C2%A7%2011133%20-%20State%20plans.md) | State plans. |
+| [11131\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20B%20-%20Charles%20Grassley%20Juvenile%20Justice%20and%20Delinquency%20Prevention%20Program/%C2%A7%2011131%20-%20Authority%20to%20make%20grants%20and%20contracts.md) | Authority to make grants and contracts. |
+| [11132\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20B%20-%20Charles%20Grassley%20Juvenile%20Justice%20and%20Delinquency%20Prevention%20Program/%C2%A7%2011132%20-%20Allocation%20of%20funds.md) | Allocation of funds. |
+| [11133\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20B%20-%20Charles%20Grassley%20Juvenile%20Justice%20and%20Delinquency%20Prevention%20Program/%C2%A7%2011133%20-%20State%20plans.md) | State plans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part C—Juvenile Delinquency Prevention Block Grant Program
 
-|  |  |
-| :--- | ---: |
-| [11141\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2011141%20-%20Authority%20to%20make%20grants.md) | Authority to make grants. |
-| [11142\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2011142%20-%20Allocation.md) | Allocation. |
-| [11143\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2011143%20-%20Eligibility%20of%20States.md) | Eligibility of States. |
-| [11144\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2011144%20-%20Grants%20for%20local%20projects.md) | Grants for local projects. |
-| [11145\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2011145%20-%20Eligibility%20of%20entities.md) | Eligibility of entities. |
-| [11146\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2011146%20-%20Grants%20to%20Indian%20tribes.md) | Grants to Indian tribes. |
+|  |
+| :--- |
+| 11141 to 11146. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -73,7 +68,7 @@
 
 |  |  |
 | :--- | ---: |
-| [11181\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2011181%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [11181\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2011181%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93385%2C%20title%20IV%2C%20%C2%A7402%28c%29%281%29%2C%20Dec.%2021%2C%202018%2C%20132%20Stat.%205160.md) | Repealed. |
 | [11182\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2011182%20-%20Administrative%20authority.md) | Administrative authority. |
 | [11183\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2011183%20-%20Withholding.md) | Withholding. |
 | [11184\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2011184%20-%20Use%20of%20funds.md) | Use of funds. |
@@ -171,6 +166,7 @@
 | [11293\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2011293%20-%20Duties%20and%20functions%20of%20the%20Administrator.md) | Duties and functions of the Administrator. |
 | [11294\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2011294%20-%20Grants.md) | Grants. |
 | [11295\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2011295%20-%20Criteria%20for%20grants.md) | Criteria for grants. |
+| [11295a.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2011295a%20-%20Reporting.md) | Reporting. |
 | [11296\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2011296%20-%20Oversight%20and%20accountability.md) | Oversight and accountability. |
 | [11297\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2011297%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [11298\.](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/%C2%A7%2011298%20-%20Authority%20of%20Inspectors%20General.md) | Authority of Inspectors General. |
@@ -181,9 +177,19 @@
 
 |  |  |
 | :--- | ---: |
-| [11311\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2011311%20-%20Definition.md) | Definition. |
+| [11311\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2011311%20-%20Definitions.md) | Definitions. |
 | [11312\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2011312%20-%20Duties%20and%20functions%20of%20the%20Administrator.md) | Duties and functions of the Administrator. |
-| [11313\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2011313%20-%20Grants%20for%20delinquency%20prevention%20programs.md) | Grants for delinquency prevention programs. |
+| [11313\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2011313%20-%20Grants%20for%20local%20delinquency%20prevention%20programs.md) | Grants for local delinquency prevention programs. |
+| [11314\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2011314%20-%20Grants%20for%20tribal%20delinquency%20prevention%20and%20response%20programs.md) | Grants for tribal delinquency prevention and response programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER VI—AUTHORIZATION OF APPROPRIATIONS; ACCOUNTABILITY AND OVERSIGHT
+
+|  |  |
+| :--- | ---: |
+| [11321\.](Subchapter%20006%20%28VI%29%20-%20Authorization%20of%20Appropriations%3B%20Accountability%20and%20Oversight/%C2%A7%2011321%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [11322\.](Subchapter%20006%20%28VI%29%20-%20Authorization%20of%20Appropriations%3B%20Accountability%20and%20Oversight/%C2%A7%2011322%20-%20Accountability%20and%20oversight.md) | Accountability and oversight. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -197,3 +203,4 @@
 - [Subchapter 003 (III) - Runaway and Homeless Youth](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/README.md)
 - [Subchapter 004 (IV) - Missing Children](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/README.md)
 - [Subchapter 005 (V) - Incentive Grants for Local Delinquency Prevention Programs](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/README.md)
+- [Subchapter 006 (VI) - Authorization of Appropriations; Accountability and Oversight](Subchapter%20006%20%28VI%29%20-%20Authorization%20of%20Appropriations%3B%20Accountability%20and%20Oversight/README.md)

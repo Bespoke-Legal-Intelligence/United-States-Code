@@ -26,7 +26,7 @@ State non-siting permits.—Any solid waste rail transfer facility operating as 
 
 &emsp;&emsp;(B)
 
-Siting permits and requirements.—A solid waste rail transfer facility operating as of the date of enactment of the Clean Railroads Act of 2008 that does not possess a State siting permit required pursuant tosubsection (a) as of such date of enactment shall not be required to possess any siting permit to continue to operate or comply with any State land use requirements. The Governor of a State in which the facility is located, or his or her designee, may petition the Board to require the facility to apply for a land-use exemption pursuant to section 10909 of this chapter. The Board shall accept the petition, and the facility shall be required to have a Board-issued land-use exemption in order to continue to operate, pursuant to section 10909 of this chapter.
+Siting permits and requirements.—A solid waste rail transfer facility operating as of the date of enactment of the Clean Railroads Act of 2008 that does not possess a State siting permit required pursuant to subsection (a) as of such date of enactment shall not be required to possess any siting permit to continue to operate or comply with any State land use requirements. The Governor of a State in which the facility is located, or his or her designee, may petition the Board to require the facility to apply for a land-use exemption pursuant to section 10909 of this chapter. The Board shall accept the petition, and the facility shall be required to have a Board-issued land-use exemption in order to continue to operate, pursuant to section 10909 of this chapter.
 
 (c)
 
@@ -134,7 +134,7 @@ State requirements.—In this section the term "State requirements" does not inc
 
 #### References in Text
 
-The date of enactment of the Clean Railroads Act of 2008, referred to in subsec. (b), is the date of enactmentof title VI of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
+The date of enactment of the Clean Railroads Act of 2008, referred to in subsec. (b), is the date of enactment of title VI of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
 The Solid Waste Disposal Act, referred to in subsec. (e)(1)(D), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 

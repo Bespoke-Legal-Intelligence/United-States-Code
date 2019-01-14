@@ -16,7 +16,7 @@ Pub. L. 95–222, §1, Dec. 28, 1977, 91 Stat. 1619, provided that: "This Act \[
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–341, §1, July 6, 1976, 90 Stat. 803, provided that: "This Act \[enacting section 2985c–1 of this title,amending sections 2706, 2707, 2712, 2714, 2781, 2790, 2809, 2812, 2814, 2828, 2829, 2855, 2901, 2902, 2928c, 2928f, 2928l, 2928n, 2930e, 2930f, 2941, 2942, 2943, 2944, 2948, 2951, 2971f, 2971g, 2982a, 2982c, 2984, 2984a, and 2985 to 2985g of this title, enacting provision set out as a note under this section, and amending provisions set out as notes under this section and section 2942 of this title\] may be cited as the 'Community Services Act Technical Amendments of 1976'."
+Pub. L. 94–341, §1, July 6, 1976, 90 Stat. 803, provided that: "This Act \[enacting section 2985c–1 of this title, amending sections 2706, 2707, 2712, 2714, 2781, 2790, 2809, 2812, 2814, 2828, 2829, 2855, 2901, 2902, 2928c, 2928f, 2928l, 2928n, 2930e, 2930f, 2941, 2942, 2943, 2944, 2948, 2951, 2971f, 2971g, 2982a, 2982c, 2984, 2984a, and 2985 to 2985g of this title, enacting provision set out as a note under this section, and amending provisions set out as notes under this section and section 2942 of this title\] may be cited as the 'Community Services Act Technical Amendments of 1976'."
 
 #### Short Title of 1975 Amendments
 
@@ -46,7 +46,7 @@ Pub. L. 89–794, §1, Nov. 8, 1966, 80 Stat. 1451, provided: "That this Act \[e
 
 #### Short Title of 1965 Amendment
 
-Pub. L. 89–253, §1, Oct. 9, 1965, 79 Stat. 973, provided: "That this Act \[amending sections 2713, 2714, 2716, 2720, 2734, 2735, 2754, 2761, 2782, 2785, 2788, 2789, 2802, 2805, 2807, 2822, 2831, 2851, 2854, 2861, 2871, 2881, 2922, 2923, 2943, 2945, 2965, and 2966 of this title and section 425 of Title 20, Education, and enacted sections 2806a, 2950, and 2967 of this title\] may be cited as the 'Economic Opportunity Amendments of 1965'."
+Pub. L. 89–253, §1, Oct. 9, 1965, 79 Stat. 973, provided: "That this Act \[amending sections 2713, 2714, 2716, 2720,2734, 2735, 2754, 2761, 2782, 2785, 2788, 2789, 2802, 2805, 2807, 2822, 2831, 2851, 2854, 2861, 2871, 2881, 2922, 2923, 2943, 2945, 2965, and 2966 of this title and section 425 of Title 20, Education, and enacted sections 2806a, 2950, and 2967 of this title\] may be cited as the 'Economic Opportunity Amendments of 1965'."
 
 #### Short Title
 

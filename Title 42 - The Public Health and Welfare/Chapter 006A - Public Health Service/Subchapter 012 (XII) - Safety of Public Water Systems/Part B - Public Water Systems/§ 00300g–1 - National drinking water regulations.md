@@ -22,7 +22,7 @@ General authority.—The Administrator shall, in accordance with the procedures 
 
 &emsp;&emsp;(i) the contaminant may have an adverse effect on the health of persons;
 
-&emsp;&emsp;(ii) the contaminant is known to occur or there is a substantial likelihood that the contaminant will occur in public water systems with a frequency and at levels of public health concern; and
+&emsp;&emsp;(ii) the contaminant is known to occur or there is a substantial likelihood that thecontaminant will occur in public water systems with a frequency and at levels of public health concern; and
 
 &emsp;&emsp;(iii) in the sole judgment of the Administrator, regulation of such contaminant presents a meaningful opportunity for health risk reduction for persons served by public water systems.
 
@@ -44,7 +44,7 @@ Determination to regulate.—(I) Not later than 5 years after August 6, 1996, an
 
 &emsp;&emsp;(II) A determination to regulate a contaminant shall be based on findings that the criteria of clauses (i), (ii), and (iii) of subparagraph (A) are satisfied. Such findings shall be based on the best available public health information, including the occurrence data base established under section 300j–4(g) of this title.
 
-&emsp;&emsp;(III) The Administrator may make a determination to regulate a contaminant that does not appear on a list under clause (i) ifthe determination to regulate is made pursuant to subclause (II).
+&emsp;&emsp;(III) The Administrator may make a determination to regulate a contaminant that does not appear on a list under clause (i) if the determination to regulate is made pursuant to subclause (II).
 
 &emsp;&emsp;(IV) A determination under this clause not to regulate a contaminant shall be considered final agency action and subject to judicial review.
 
@@ -100,7 +100,7 @@ Use of science in decisionmaking.—In carrying out this section, and, to the de
 
 &emsp;&emsp;(i) the best available, peer-reviewed science and supporting studies conducted in accordance with sound and objective scientific practices; and
 
-&emsp;&emsp;(ii) data collected by accepted methods or best available methods (if the reliability ofthe method and the nature of the decision justifies use of the data).
+&emsp;&emsp;(ii) data collected by accepted methods or best available methods (if the reliability of the method and the nature of the decision justifies use of the data).
 
 &emsp;(B)
 
@@ -192,7 +192,7 @@ List of technologies for small systems.—The Administrator shall include in the
 
 &emsp;&emsp;(iii)
 
-List of technologies that achieve compliance.—Except as provided in clause (v), not later than 2 years after August 6, 1996, and after consultation with the States, the Administrator shall issue a list of technologies that achieve compliance with the maximum contaminant level or treatment technique for each category of public water systems described in subclauses (I), (II), and (III) of clause (ii) for each national primary drinking water regulation promulgated prior to June 19, 1986.
+List of technologies that achieve compliance.—Except as provided in clause (v), not later than 2 years after August 6, 1996, and after consultation with the States, the Administrator shall issue a list of technologies that achieve compliance with the maximum contaminant level or treatmenttechnique for each category of public water systems described in subclauses (I), (II), and (III) of clause (ii) for each national primary drinking water regulation promulgated prior to June 19, 1986.
 
 &emsp;&emsp;(iv)
 
@@ -260,7 +260,7 @@ Judicial review.—A determination by the Administrator that the benefits of a m
 
 (iv) If a State does not have primary enforcement responsibility for public water systems, the Administrator shall have the same authority to make the determination in clause (ii) in such State as the State would have under that clause. Any filtration requirement or schedule under this subparagraph shall be treated as if it were a requirement of a national primary drinking water regulation.
 
-(v) As an additional alternative to the regulations promulgated pursuant to clauses (i) and (iii), including the criteria for avoiding filtration contained in 40 CFR 141.71, a State exercising primary enforcement responsibility for public water systems may, on a case-by-case basis, and after notice and opportunity for public comment, establish treatment requirements as analternative to filtration in the case of systems having uninhabited, undeveloped watersheds in consolidated ownership, and having control over access to, and activities in, those watersheds, if the State determines (and the Administrator concurs) that the quality of the source water and the alternative treatment requirements established by the State ensure greater removal or inactivation efficiencies of pathogenic organisms for which national primary drinking water regulations have been promulgated or that are of public health concern than would be achieved by the combination of filtration and chlorine disinfection (in compliance with this section).
+(v) As an additional alternative to the regulations promulgated pursuant to clauses (i) and (iii), including the criteria for avoiding filtration contained in 40 CFR 141.71, a State exercising primary enforcement responsibility for public water systems may, on a case-by-case basis, and after notice and opportunity for public comment, establish treatment requirements as an alternative to filtration in the case of systems having uninhabited, undeveloped watersheds in consolidated ownership, and having control over access to, and activities in, those watersheds, if the State determines (and the Administrator concurs) that the quality of the source water and the alternative treatment requirements established by the State ensure greater removal or inactivation efficiencies of pathogenic organisms for which national primary drinking water regulations have been promulgated or that are of public health concern than would be achieved by the combination of filtration and chlorine disinfection (in compliance with this section).
 
 (8)
 
@@ -290,7 +290,7 @@ Schedule and standard.—Notwithstanding the deadlines set forth in paragraph (1
 
 &emsp;&emsp;(ii)
 
-Study plan.—Not later than 180 days after August 6, 1996, the Administrator shall develop a comprehensive plan for study in support of drinking water rulemaking to reduce the uncertainty in assessing health risks associated with exposure to low levels of arsenic. In conducting such study, the Administrator shall consult with the National Academy of Sciences, other Federal agencies, and interested public and private entities.
+Study plan.—Not later than 180 days after August 6, 1996, the Administrator shall develop a comprehensive plan for study insupport of drinking water rulemaking to reduce the uncertainty in assessing health risks associated with exposure to low levels of arsenic. In conducting such study, the Administrator shall consult with the National Academy of Sciences, other Federal agencies, and interested public and private entities.
 
 &emsp;&emsp;(iii)
 
@@ -322,7 +322,7 @@ Determination.—The Administrator shall include sulfate among the 5 or more con
 
 &emsp;&emsp;(iii)
 
-Proposed and final rule.—Notwithstanding the deadlines set forth in paragraph (2), the Administrator may, pursuant to theauthorities of this subsection and after notice and opportunity for public comment, promulgate a final national primary drinking water regulation for sulfate. Any such regulation shall include requirements for public notification and options for the provision of alternative water supplies to populations at risk as a means of complying with the regulation in lieu of a best available treatment technology or other means.
+Proposed and final rule.—Notwithstanding the deadlines set forth in paragraph (2), the Administrator may, pursuant to the authorities of this subsection and after notice and opportunity for public comment, promulgate a final national primary drinking water regulation for sulfate. Any such regulation shall include requirements for public notification and options for the provision of alternative water supplies to populations at risk as a means of complying with the regulation in lieu of a best available treatment technology or other means.
 
 (13)
 
@@ -374,7 +374,7 @@ In general.—A State may develop and submit a multimedia program to mitigate ra
 
 &emsp;&emsp;(ii)
 
-Elements of programs.—State programs may rely on a variety of mitigation measures including public education, testing, training, technical assistance, remediation grant and loan or incentive programs, or other regulatory or nonregulatory measures. The effectiveness of elements in State programs shall be evaluated by the Administrator based on the assessment prepared by the National Academy of Sciences undersubparagraph (B) and the guidelines published by the Administrator under subparagraph (F).
+Elements of programs.—State programs may rely on a variety of mitigation measures including public education, testing, training, technical assistance, remediation grant and loan or incentive programs, or other regulatory or nonregulatory measures. The effectiveness of elements in State programs shall be evaluated by the Administrator based on the assessment prepared by the National Academy of Sciences under subparagraph (B) and the guidelines published by the Administrator under subparagraph (F).
 
 &emsp;&emsp;(iii)
 
@@ -402,7 +402,7 @@ Variance technologies.—
 
 &emsp;(A)
 
-In general.—At the same time as the Administrator promulgates a national primary drinking water regulation for a contaminant pursuant to this section, the Administrator shall issue guidance or regulations describing the best treatment technologies, treatment techniques, or other means (referred to in this paragraph as "variance technology") for the contaminant that the Administrator finds, after examination for efficacy under field conditions and not solely under laboratory conditions, are available and affordable, as determined by the Administrator in consultation with the States, for public water systems of varying size, considering the quality of the source water to be treated. The Administrator shall identify such variance technologies for public water systems serving—
+In general.—At the same time as the Administrator promulgates a national primary drinking water regulation for a contaminant pursuant to this section, the Administrator shall issue guidance or regulations describing the best treatment technologies, treatment techniques, or other means (referred to in this paragraph as "variance technology") for the contaminant that the Administrator finds, after examination for efficacy under field conditions and not solely under laboratory conditions, are available and affordable, as determined by the Administrator in consultation with the States, for public water systems of varying size, considering thequality of the source water to be treated. The Administrator shall identify such variance technologies for public water systems serving—
 
 &emsp;&emsp;(i) a population of 10,000 or fewer but more than 3,300;
 
@@ -422,7 +422,7 @@ Additional information.—The Administrator shall include in the guidance or reg
 
 &emsp;(D)
 
-Regulations and guidance.—Not later than 2 years after August 6, 1996, and after consultation with the States, the Administrator shall issue guidance or regulations under subparagraph (A) for each national primary drinking water regulation promulgated prior to August 6, 1996, for which a variance may be granted under section 300g–4(e) of this title. The Administrator may, at any timeafter a national primary drinking water regulation has been promulgated, issue guidance or regulations describing additional variance technologies. The Administrator shall, not less often than every 7 years, or upon receipt of a petition supported by substantial information, review variance technologies identified under this paragraph. The Administrator shall issue revised guidance or regulations if new or innovative variance technologies become available that meet the requirements of this paragraph and achieve an equal or greater reduction or inactivation efficiency than the variance technologies previously identified under this subparagraph. No public water system shall be required to replace a variance technology during the useful life of the technology for the sole reason that a more efficient variance technology has been listed under this subparagraph.
+Regulations and guidance.—Not later than 2 years after August 6, 1996, and after consultation with the States, the Administrator shall issue guidance or regulations under subparagraph (A) for each national primary drinking water regulation promulgated prior to August 6, 1996, for which a variance may be granted under section 300g–4(e) of this title. The Administrator may, at any time after a national primary drinking water regulation has been promulgated, issue guidance or regulations describing additional variance technologies. The Administrator shall, not less often than every 7 years, or upon receipt of a petition supported by substantial information, review variance technologies identified under this paragraph. The Administrator shall issue revised guidance or regulations if new or innovative variance technologies become available that meet the requirements of this paragraph and achieve an equal or greater reduction or inactivation efficiency than the variance technologies previously identified under this subparagraph. No public water system shall be required to replace a variance technology during the useful life of the technology for the sole reason that a more efficient variance technology has been listed under this subparagraph.
 
 #### (c) Secondary regulations; publication of proposed regulations; promulgation; amendments
 
@@ -470,7 +470,7 @@ Subsec. (b)(7)(C)(v). Pub. L. 104–182, §106, added cl. (v).
 
 Subsec. (b)(8). Pub. L. 104–182, §501(a)(2), substituted "section 300j–1(e)" for "section 300j–1(g)".
 
-Pub. L. 104–182, §107, inserted heading, realigned margins, and substituted "At any time after the end of the 3-year period that begins on August 6, 1996, but not later than the date on which the Administrator promulgates a Stage II rulemaking for disinfectants and disinfection byproducts (as described in paragraph (2)(C)), the Administrator shall also promulgate national primary drinking water regulations requiring disinfection as a treatment technique for all public water systems, including surface water systems and, as necessary, ground water systems. After consultation with the States, the Administrator shall (as part of the regulations) promulgate criteria that the Administrator, or a State that has primary enforcement responsibility under section 300g–2 of this title, shall apply to determine whether disinfection shall be required as a treatment technique for any public water system served by ground water." for "Not later than 36months after June 19, 1986, the Administrator shall propose and promulgate national primary drinking water regulations requiring disinfection as a treatment technique for all public water systems."
+Pub. L. 104–182, §107, inserted heading, realigned margins, and substituted "At any time after the end of the 3-year period that begins on August 6, 1996, but not later than the date on which the Administrator promulgates a Stage II rulemaking for disinfectants and disinfection byproducts (as described in paragraph (2)(C)), the Administrator shall also promulgate national primary drinking water regulations requiring disinfection as a treatment technique for all public water systems, including surface water systems and, as necessary, ground water systems. After consultation with the States, the Administrator shall (as part of the regulations) promulgate criteria that the Administrator, or a State that has primary enforcement responsibility under section 300g–2 of this title, shall apply to determine whether disinfection shall be required as a treatment technique for any public water system served by ground water." for "Not later than 36 months after June 19, 1986, the Administrator shall propose and promulgate national primary drinking water regulations requiring disinfection as a treatment technique for all public water systems."
 
 Subsec. (b)(9). Pub. L. 104–182, §104(c), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "National primary drinking water regulations shall be amended whenever changes in technology, treatment techniques, and other means permit greater protection of the health of persons, but in any event such regulations shall be reviewed at least once every 3 years. Such review shall include an analysis of innovations or changes in technology, treatment techniques or other activities that have occurred over the previous 3-year period and that may provide for greater protection of the health of persons. The findings of such review shall be published in the Federal Register. If, after opportunity for public comment, the Administrator concludes that the technology, treatment techniques, or other means resulting from such innovations or changes are not feasible within the meaning of paragraph (5), an explanation of such conclusion shall be published in the Federal Register."
 

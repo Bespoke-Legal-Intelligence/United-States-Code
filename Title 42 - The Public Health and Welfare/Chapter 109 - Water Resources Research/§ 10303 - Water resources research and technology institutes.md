@@ -36,11 +36,11 @@ Prior to and as a condition of the receipt each fiscal year of funds appropriate
 
 #### (e) Evaluation of water resources research program
 
-The Secretary shall conduct a careful and detailed evaluation of each institute at least onceevery 3 years to determine that the quality and relevance of its water resources research and its effectiveness at producing measured results and applied water supply research as an institution for planning, conducting, and arranging for research warrants its continued support under this section. If, as a result of any such evaluation, the Secretary determines that an institute does not qualify for further support under this section, then no further grants to the institute may be made until the institute's qualifications are reestablished to the satisfaction of the Secretary.
+The Secretary shall conduct a careful and detailed evaluation of each institute at least once every 3 years to determine that the quality and relevance of its water resources research and its effectiveness at producing measured results and applied water supply research as an institution for planning, conducting, and arranging for research warrants its continued support under this section. If, as a result of any such evaluation, the Secretary determines that an institute does not qualify for further support under this section, then no further grants to the institute may be made until the institute's qualifications are reestablished to the satisfaction of the Secretary.
 
 #### (f) Authorization of appropriations in general
 
-(1) There is authorized to be appropriated to carry out this section, to remain available until expended, $12,000,000 for each of fiscal years 2007 through 2011.
+(1) There is authorized to be appropriated to carry out this section, to remain available untilexpended, $12,000,000 for each of fiscal years 2007 through 2011.
 
 (2) Any sums appropriated under this subsection but which fail to be obligated by the close of the fiscal year for which they were appropriated shall be transferred by the Secretary and available for obligation during the succeeding fiscal year under the terms of subsection (g) of this section.
 
@@ -98,13 +98,13 @@ In subsec. (h)(1)(C), "section 6101 of title 41" substituted for "section 3709 o
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(1). Pub. L. 109–471, §2(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "plan, conduct, or otherwise arrange for competent research that fosters (A) the entry of new research scientists into the water resources fields, (B) thetraining and education of future water scientists, engineers, and technicians, (C) the preliminary exploration of new ideas that address water problems or expand understanding of water and water-related phenomena, and (D) the dissemination of research results to water managers and the public, and".
+<b>2007</b>—Subsec. (b)(1). Pub. L. 109–471, §2(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "plan, conduct, or otherwise arrange for competent research that fosters (A) the entry of new research scientists into the water resources fields, (B) the training and education of future water scientists, engineers, and technicians, (C) the preliminary exploration of new ideas that address water problems or expand understanding of water and water-related phenomena, and (D) the dissemination of research results to water managers and the public, and".
 
 Subsec. (e). Pub. L. 109–471, §2(b), substituted "3" for "5" and inserted "at producing measured results and applied water supply research" after "effectiveness".
 
 Subsec. (f)(1). Pub. L. 109–471, §2(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "For the purpose of carrying out this section, there is authorized to be appropriated to the Secretary the sum of $9,000,000 for fiscal year 2001, $10,000,000 for each of fiscal years 2002 and 2003, and $12,000,000 for each of fiscal years 2004 and 2005, such sums to remain available until expended."
 
-Subsec. (g)(1). Pub. L. 109–471, §2(d), substituted "$6,000,000 for each of fiscal years 2007 through 2011" for "$3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005".
+Subsec. (g)(1). Pub. L. 109–471, §2(d), substituted "$6,000,000 for each of fiscal years 2007 through 2011" for"$3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005".
 
 Subsec. (h)(2). Pub. L. 109–471, §2(e), substituted "Reports" for "Report" in heading and inserted after first sentence "As part of the annual budget submission to Congress, the Secretary shall also provide a crosscut budget detailing the expenditures on activities listed under subsection (a)(1) and a report which details the level of applied research and the results of the activities authorized by this chapter, including potential and actual—" and subpars. (A) to (D).
 

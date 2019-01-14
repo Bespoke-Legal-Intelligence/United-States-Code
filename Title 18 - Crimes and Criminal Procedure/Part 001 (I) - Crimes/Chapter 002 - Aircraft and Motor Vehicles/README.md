@@ -17,11 +17,15 @@
 
 |  |  |
 | :--- | ---: |
+| [39B.](%C2%A7%2000039B%20-%20Unsafe%20operation%20of%20unmanned%20aircraft.md) | Unsafe operation of unmanned aircraft. |
 | [40\.](%C2%A7%2000040%20-%20Commercial%20motor%20vehicles%20required%20to%20stop%20for%20inspections.md) | Commercial motor vehicles required to stop for inspections. |
+| [40A.](%C2%A7%2000040A%20-%20Operation%20of%20unauthorized%20unmanned%20aircraft%20over%20wildfires.md) | Operation of unauthorized unmanned aircraft over wildfires. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–254, div. B, title III, §§382(b), 384(b), Oct. 5, 2018, 132 Stat. 3320, 3323, added items 39B and 40A.
 
 <b>2012</b>—Pub. L. 112–95, title III, §311(b), Feb. 14, 2012, 126 Stat. 66, transferred item 39 to appear after item 38 and added item 39A.
 
@@ -50,4 +54,6 @@
 - [&sect; 00038 - Fraud involving aircraft or space vehicle parts in interstate or foreign commerce](%C2%A7%2000038%20-%20Fraud%20involving%20aircraft%20or%20space%20vehicle%20parts%20in%20interstate%20or%20foreign%20commerce.md)
 - [&sect; 00039 - Traffic signal preemption transmitters](%C2%A7%2000039%20-%20Traffic%20signal%20preemption%20transmitters.md)
 - [&sect; 00039A - Aiming a laser pointer at an aircraft](%C2%A7%2000039A%20-%20Aiming%20a%20laser%20pointer%20at%20an%20aircraft.md)
+- [&sect; 00039B - Unsafe operation of unmanned aircraft](%C2%A7%2000039B%20-%20Unsafe%20operation%20of%20unmanned%20aircraft.md)
 - [&sect; 00040 - Commercial motor vehicles required to stop for inspections](%C2%A7%2000040%20-%20Commercial%20motor%20vehicles%20required%20to%20stop%20for%20inspections.md)
+- [&sect; 00040A - Operation of unauthorized unmanned aircraft over wildfires](%C2%A7%2000040A%20-%20Operation%20of%20unauthorized%20unmanned%20aircraft%20over%20wildfires.md)

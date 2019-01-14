@@ -84,7 +84,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) with respect to services for seasonal farmworkers, a Head Start program that serves families who are engaged primarily in seasonal agricultural labor and who have not changed their residence to another geographic location in the preceding 2-year period.
 
-&emsp;(18) The term "mobile Head Start program" means the provision of Head Start servicesutilizing transportable equipment set up in various community-based locations on a routine, weekly schedule, operating in conjunction with home-based Head Start programs, or as a Head Start classroom.
+&emsp;(18) The term "mobile Head Start program" means the provision of Head Start services utilizing transportable equipment set up in various community-based locations on a routine, weekly schedule, operating in conjunction with home-based Head Start programs, or as a Head Start classroom.
 
 &emsp;(19) The term "poverty line" means the official poverty line (as defined by the Office of Management and Budget)—
 

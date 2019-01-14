@@ -54,6 +54,18 @@ In subsection (b)(6), the words "transportation objectives" are substituted for 
 
 <b>1991</b>—Subsec. (b)(4). Pub. L. 102–240 inserted ", through research and development or otherwise" after "advances in transportation".
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 115–420, §1, Jan. 3, 2019, 132 Stat. 5444, provided that: "This Act \[amending sections 310, 22901, 22902, 22904, 22905, 22907, 22908, 24102, 24103, 24319, 24711, 24905, 24910, 24911, and 26106 of this title, section 402 of Title 23, Highways, and section 51314 of Title 46, Shipping, renumbering sections 24401 to 24408 of this title as sections 22901 to 22908 of this title, enacting provisions set out as a note under section 24319 of this title, and amending provisions set out as notes under sections 22905, 22907, and 26106 of this title\] may be cited as the 'Department of Transportation Reports Harmonization Act'."
+
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–282, title V, §514(a), Dec. 4, 2018, 132 Stat. 4276, provided that: "This section \[enacting section 312 of this title\] may be cited as the 'National Timing Resilience and Security Act of 2018'."
+
+Pub. L. 115–271, title VIII, §8101, Oct. 24, 2018, 132 Stat. 4103, provided that: "This subtitle \[subtitle I\(§§8101–8109) of title VIII of Pub. L. 115–271, enacting provisions set out as notes under sections 322, 329, 20140, and 31306 of this title and section 7301 of Title 5, Government Organization and Employees\] may be cited as the 'Fighting Opioid Abuse in Transportation Act'."
+
+Pub. L. 115–254, div. K, title I, §1901(a), Oct. 5, 2018, 132 Stat. 3542, provided that: "This title \[see Tables for classification\] may be cited as the 'TSA Modernization Act'."
+
 #### Short Title of 2004 Amendment
 
 Pub. L. 108–426, §1, Nov. 30, 2004, 118 Stat. 2423, provided that: "This Act \[enacting section 108 of this title, amending sections 111, 112, 5118, and 5503 of this title, sections 5314 and 5316 of Title 5, Government Organization and Employees, section 844 of Title 18, Crimes and Criminal Procedure, section 2761 of Title 33, Navigation and Navigable Waters, and section 1121–2 of Title 46, Appendix, Shipping, enacting provisions set out as notes under sections 108 and 112 of this title, and amending provisions set out as a note under section 1135 of this title\] may be cited as the 'Norman Y. Mineta Research and Special Programs Improvement Act'."
@@ -82,6 +94,44 @@ Pub. L. 111–314, §4(d)(8), Dec. 18, 2010, 124 Stat. 3443, provided that: "In 
 
 Pub. L. 102–240, §2, Dec. 18, 1991, 105 Stat. 1914, which provided that it was the policy of the United States to develop a National Intermodal Transportation System consisting of all forms of transportation in a unified, interconnected manner, a National Highway System, improvements in public transportation achieving goals for improved air quality, energy conservation, international competitiveness, and mobility for elderly persons, persons with disabilities, and economically disadvantaged persons, was repealed and reenacted as section 5501 of this title by Pub. L. 103–272, §§1(d), 7(b), July 5, 1994, 108 Stat. 848, 1379.
 
+#### Definitions of Terms in Title I of Div. K of Pub. L. 115–254
+
+Pub. L. 115–254, div. K, title I, §1902, Oct. 5, 2018, 132 Stat. 3542, provided that: "In this title \[see Short Title of 2018 Amendment note set out above\]:
+
+&emsp;"(1)
+
+Administrator.—The term 'Administrator' means the Administrator of the TSA.
+
+&emsp;"(2)
+
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Commerce, Science, and Transportation of the Senate;
+
+&emsp;&emsp;"(B) the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+&emsp;&emsp;"(C) the Committee on Homeland Security of the House of Representatives.
+
+&emsp;"(3)
+
+ASAC.—The term 'ASAC' means the Aviation Security Advisory Committee established under section 44946 of title 49, United States Code.
+
+&emsp;"(4)
+
+Department.—The term 'Department' means the Department of Homeland Security.
+
+&emsp;"(5)
+
+Explosive\[s\] detection canine team.—The term 'explosives detection canine team' means a canine and a canine handler that are trained to detect explosives and other threats as defined by the Secretary.
+
+&emsp;"(6)
+
+Secretary.—The term 'Secretary' means the Secretary of Homeland Security.
+
+&emsp;"(7)
+
+TSA.—The term 'TSA' means the Transportation Security Administration."
+
 #### "Secretary" Defined
 
 Pub. L. 106–159, §2, Dec. 9, 1999, 113 Stat. 1749, provided that: "In this Act \[see Tables for classification\], the term 'Secretary' means the Secretary of Transportation."
@@ -106,7 +156,7 @@ Section 1. This order is issued consistent with the following findings and princ
 
 (e) Federally assisted community transportation services should be seamless, comprehensive, and accessible to those who rely on them for their lives and livelihoods. For persons with mobility limitations related to advanced age, persons with disabilities, and persons struggling for self-sufficiency, transportation within and between our communities should be as available and affordable as possible.
 
-(f) The development, implementation, and maintenance of responsive, comprehensive, coordinated community transportation systems is essential for persons with disabilities, persons with low incomes, and older adults who rely on such transportation to fully participate in their communities.
+(f) The development, implementation, and maintenance of responsive, comprehensive, coordinated community transportation systems is essential for personswith disabilities, persons with low incomes, and older adults who rely on such transportation to fully participate in their communities.
 
 Sec. 2. <i>Definitions</i>. (a) As used in this order, the term "agency" means an executive department or agency of the Federal Government.
 
@@ -134,7 +184,7 @@ Sec. 4. <i>Functions of the Interagency Transportation Coordinating Council</i>.
 
 (e) develop and implement a method for monitoring progress on achieving the goals of this order.
 
-Sec. 5. <i>Report</i>. In performing its functions, the Interagency Transportation Coordinating Council shallpresent to me a report not later than 1 calendar year from the date of this order. The report shall:
+Sec. 5. <i>Report</i>. In performing its functions, the Interagency Transportation Coordinating Council shall present to me a report not later than 1 calendar year from the date of this order. The report shall:
 
 (a) Identify those Federal, State, Tribal and local laws, regulations, procedures, and actions that have proven to be most useful and appropriate in coordinating transportation services for the targeted populations;
 

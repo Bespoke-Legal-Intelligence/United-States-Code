@@ -12,7 +12,7 @@ No deduction shall be allowed for—
 
 &emsp;(4) Except as provided in subsection (e), any interest paid or accrued on any indebtedness with respect to 1 or more life insurance policies owned by the taxpayer covering the life of any individual, or any endowment or annuity contracts owned by the taxpayer covering any individual.
 
-> Paragraph (2) shall apply in respect of annuity contracts only as to contracts purchased after March 1, 1954. Paragraph (3) shall apply only in respect of contracts purchased after August 6, 1963. Paragraph (4) shall apply with respect to contracts purchased after June 20, 1986.
+> Paragraph (2) shall apply in respect of annuity contracts only as to contracts purchased afterMarch 1, 1954. Paragraph (3) shall apply only in respect of contracts purchased after August 6, 1963. Paragraph (4) shall apply with respect to contracts purchased after June 20, 1986.
 
 #### (b) Exceptions to subsection (a)(1)
 
@@ -72,7 +72,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 &emsp;&emsp;&emsp;&emsp;(II) which is a contract providing a variable rate of interest, the applicable rate of interest for any month in an applicable period shall be such Moody's rate for the third month preceding the first month in such period.
 
-&emsp;&emsp;&nbsp;For purposes of subclause (II), the term "applicable period" means the 12-monthperiod beginning on the date the policy is issued (and each successive 12-month period thereafter) unless the taxpayer elects a number of months (not greater than 12) other than such 12-month period to be its applicable period. Such an election shall be made not later than the 90th day after the date of the enactment of this sentence and, if made, shall apply to the taxpayer's first taxable year ending on or after October 13, 1995, and all subsequent taxable years unless revoked with the consent of the Secretary.
+&emsp;&emsp;&nbsp;For purposes of subclause (II), the term "applicable period" means the 12-month period beginning on the date the policy is issued (and each successive 12-month period thereafter) unless the taxpayer elects a number of months (not greater than 12) other than such 12-month period to be its applicable period. Such an election shall be made not later than the 90th day after the date of the enactment of this sentence and, if made, shall apply to the taxpayer's first taxable year ending on or after October 13, 1995, and all subsequent taxable years unless revoked with the consent of the Secretary.
 
 #### (3) Key person
 

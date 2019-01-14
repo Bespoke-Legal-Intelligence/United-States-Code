@@ -76,11 +76,11 @@ The Secretary shall award grants under this section among the eligible neighborh
 
 &emsp;(2) the extent to which the proposed activities will benefit persons of low and moderate income;
 
-&emsp;(3) the extent of neighborhood participation in the proposed activities, as indicated by the proportion of the households and businesses in the neighborhood involved that are membersof the eligible neighborhood development organization involved and by the extent of participation in the proposed activities by a neighborhood development funding organization that has a branch or office in the neighborhood, except that an eligible neighborhood development organization shall be deemed to have the full benefit of the participation of a neighborhood development funding organization if the eligible neighborhood development organization—
+&emsp;(3) the extent of neighborhood participation in the proposed activities, as indicated by the proportion of the households and businesses in the neighborhood involved that are members of the eligible neighborhood development organization involved and by the extent of participation in the proposed activities by a neighborhood development funding organization that has a branch or office in the neighborhood, except that an eligible neighborhood development organization shall be deemed to have the full benefit of the participation of a neighborhood development funding organization if the eligible neighborhood development organization—
 
 &emsp;&emsp;(A) is located in an <sup>1</sup> neighborhood that does not contain a branch or office of a neighborhood development funding organization; or
 
-&emsp;&emsp;(B) demonstrates to the satisfaction of the Secretary that it has been unable to obtain the participation of any neighborhood development funding organization that has a branch or office in the neighborhood despite having made a good faith effort to obtain such participation; and
+&emsp;&emsp;(B) demonstrates to the satisfaction of the Secretary that it has been unable to obtain the participation of any neighborhood development funding organization that has a branch or office in the neighborhood despitehaving made a good faith effort to obtain such participation; and
 
 &emsp;(4) the extent of voluntary contributions available for the purpose of subsection (e)(4), except that the Secretary shall waive the requirement of this subparagraph in the case of an application submitted by a small eligible neighborhood development organization, an application involving activities in a very low-income neighborhood, or an application that is especially meritorious.
 

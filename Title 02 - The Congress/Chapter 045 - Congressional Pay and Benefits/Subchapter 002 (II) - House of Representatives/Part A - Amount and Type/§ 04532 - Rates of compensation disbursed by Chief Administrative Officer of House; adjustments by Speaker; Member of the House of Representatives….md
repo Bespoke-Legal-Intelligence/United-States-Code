@@ -112,7 +112,7 @@ Sec. 5. (a) Subject to the approval of the Speaker, the Clerk may establish the 
 
 #### general limitation
 
-Sec. 6. The maximum annual rate of pay is $168,411 for any employee whose pay is disbursed by the ChiefAdministrative Officer and is not otherwise provided for in this Order or otherwise limited by law, rule, or regulation.
+Sec. 6. The maximum annual rate of pay is $168,411 for any employee whose pay is disbursed by the Chief Administrative Officer and is not otherwise provided for in this Order or otherwise limited by law, rule, or regulation.
 
 #### shared employees
 

@@ -16,7 +16,65 @@ The President shall establish and carry out international initiatives to enhance
 
 #### (b) Public awareness and information
 
-The President, acting through the Secretary of Labor, the Secretary of Health and Human Services, the Attorney General, and the Secretary of State, shall establish and carry out programs to increase public awareness, particularly among potential victims of trafficking, of the dangers of trafficking and the protections that are available for victims of trafficking.
+#### (1) In general
+
+&emsp;The President, acting through the Secretary of Labor, the Secretary of Health and Human Services, the Attorney General, and the Secretary of State, shall establish and carry out programs to increase public awareness, particularly among potential victims of trafficking, of the dangers of trafficking and the protections that are available for victims of trafficking.
+
+#### (2) Grants to assist in the recognition of trafficking
+
+#### (A) Definitions
+
+&emsp;&emsp;In this paragraph:
+
+#### (i) ESEA terms
+
+&emsp;&emsp;&emsp;The terms "elementary school", "local educational agency", "other staff", and"secondary school" have the meanings given the terms in section 7801 of title 20.
+
+#### (ii) High-intensity child sex trafficking area
+
+&emsp;&emsp;&emsp;The term "high-intensity child sex trafficking area" means a metropolitan area designated by the Director of the Federal Bureau of Investigation as having a high rate of children involved in sex trafficking.
+
+#### (iii) Labor trafficking
+
+&emsp;&emsp;&emsp;The term "labor trafficking" means conduct described in section 7102(9)(B) of this title.
+
+#### (iv) School staff
+
+&emsp;&emsp;&emsp;The term "school staff" means teachers, nurses, school leaders and administrators, and other staff at elementary schools and secondary schools.
+
+#### (v) Sex trafficking
+
+&emsp;&emsp;&emsp;The term "sex trafficking" means the conduct described in section 7102(9)(A) of this title.
+
+#### (B) In general
+
+&emsp;&emsp;The Secretary of Health and Human Services, in consultation with the Secretary of Education and the Secretary of Labor, may award grants to local educational agencies, in partnership with a nonprofit, nongovernmental agency, to establish, expand, and support programs—
+
+&emsp;&emsp;&emsp;(i) to educate school staff to recognize and respond to signs of labor trafficking and sex trafficking; and
+
+&emsp;&emsp;&emsp;(ii) to provide age-appropriate information to students on how to avoid becoming victims of labor trafficking and sex trafficking.
+
+#### (C) Program requirements
+
+&emsp;&emsp;Amounts awarded under this paragraph shall be used for—
+
+&emsp;&emsp;&emsp;(i) education regarding—
+
+&emsp;&emsp;&emsp;&emsp;(I) avoiding becoming victims of labor trafficking and sex trafficking;
+
+&emsp;&emsp;&emsp;&emsp;(II) indicators that an individual is a victim or potential victim of labor trafficking or sex trafficking;
+
+&emsp;&emsp;&emsp;&emsp;(III) options and procedures for referring such an individual, as appropriate, to information on such trafficking and services available for victims of such trafficking;
+
+&emsp;&emsp;&emsp;&emsp;(IV) reporting requirements and procedures in accordance with applicable Federal and State law; and
+
+&emsp;&emsp;&emsp;&emsp;(V) how to carry out activities authorized under subparagraph (A)(ii); and
+
+&emsp;&emsp;&emsp;(ii) a plan, developed and implemented in consultation with local law enforcement agencies, to ensure the safety of school staff and students reporting such trafficking.
+
+#### (D) Priority
+
+&emsp;&emsp;In awarding grants under this paragraph, the Secretary shall give priority to local educational agencies serving a high-intensity child sex trafficking area.
 
 #### (c) Border interdiction
 
@@ -42,33 +100,33 @@ The President shall establish and carry out programs that support the production
 
 #### (f) Consultation requirement
 
-The President shall consult with appropriate nongovernmental organizations with respect to the establishment and conduct of initiatives and programs described in subsections (a) through (e).
+The President shall consult with appropriate nongovernmental organizations with respect to the establishment and conduct of initiatives andprograms described in subsections (a) through (e).
 
 #### (g) Termination of certain grants, contracts and cooperative agreements
 
 The President shall ensure that any grant, contract, or cooperative agreement provided or entered into by a Federal department or agency under which funds are to be provided to a private entity, in whole or in part, shall include a condition that authorizes the department or agency to terminate the grant, contract, or cooperative agreement, or take any of the other remedial actions authorized under section 7104b(c) of this title, without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor, engages in, or uses labor recruiters, brokers, or other agents who engage in—
 
-&emsp;(i) severe forms of trafficking in persons;
+&emsp;(1) severe forms of trafficking in persons;
 
-&emsp;(ii) the procurement of a commercial sex act during the period of time that the grant, contract, or cooperative agreement is in effect;
+&emsp;(2) the procurement of a commercial sex act during the period of time that the grant, contract, or cooperative agreement is in effect;
 
-&emsp;(iii) the use of forced labor in the performance of the grant, contract, or cooperative agreement; or
+&emsp;(3) the use of forced labor in the performance of the grant, contract, or cooperative agreement; or
 
-&emsp;(iv) acts that directly support or advance trafficking in persons, including the following acts:
+&emsp;(4) acts that directly support or advance trafficking in persons, including the following acts:
 
-&emsp;&emsp;(I) Destroying, concealing, removing, confiscating, or otherwise denying an employee access to that employee's identity or immigration documents.
+&emsp;&emsp;(A) Destroying, concealing, removing, confiscating, or otherwise denying an employee access to that employee's identity or immigration documents.
 
-&emsp;&emsp;(II) Failing to provide return transportation or pay for return transportation costs to an employee from a country outside the United States to the country from which the employee was recruited upon the end of employment if requested by the employee, unless—
+&emsp;&emsp;(B) Failing to provide return transportation or pay for return transportation costs to an employee from a country outside the United States to the country from which the employee was recruited upon the end of employment if requested by the employee, unless—
 
-&emsp;&emsp;&emsp;(aa) exempted from the requirement to provide or pay for such return transportation by the Federal department or agency providing or entering into the grant, contract, or cooperative agreement; or
+&emsp;&emsp;&emsp;(i) exempted from the requirement to provide or pay for such return transportation by the Federal department or agency providing or entering into the grant, contract, or cooperative agreement; or
 
-&emsp;&emsp;&emsp;(bb) the employee is a victim of human trafficking seeking victim services or legal redress in the country of employment or a witness in a human trafficking enforcement action.
+&emsp;&emsp;&emsp;(ii) the employee is a victim of human trafficking seeking victim services or legal redress in the country of employment or a witness in a human trafficking enforcement action.
 
-&emsp;&emsp;(III) Soliciting a person for the purpose of employment, or offering employment, by means of materially false or fraudulent pretenses, representations, or promises regarding that employment.
+&emsp;&emsp;(C) Soliciting a person for the purpose of employment, or offering employment, by means of materially false or fraudulent pretenses, representations, or promises regarding that employment.
 
-&emsp;&emsp;(IV) Charging recruited employees unreasonable placement or recruitment fees, such as fees equal to or greater than the employee's monthly salary, or recruitment feesthat violate the laws of the country from which an employee is recruited.
+&emsp;&emsp;(D) Charging recruited employees placement or recruitment fees.
 
-&emsp;&emsp;(V) Providing or arranging housing that fails to meet the host country housing and safety standards.
+&emsp;&emsp;(E) Providing or arranging housing that fails to meet the host country housing and safety standards.
 
 #### (h) Prevention of trafficking in conjunction with post-conflict and humanitarian emergency assistance
 
@@ -106,9 +164,105 @@ The Secretary of State shall establish and implement a multi-year, multi-sectora
 
 &emsp;(5) that includes diplomatic and programmatic initiatives.
 
-(Pub. L. 106–386, div. A, §106, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 108–193, §3, Dec. 19, 2003, 117 Stat. 2875; Pub. L. 109–164, title I, §101(a), title II, §201(b), Jan. 10, 2006, 119 Stat. 3560, 3569; Pub. L. 110–457, title I, §103(a), Dec. 23, 2008, 122 Stat. 5046; Pub. L. 112–239, div. A, title XVII, §1702, Jan. 2, 2013, 126 Stat. 2093; Pub. L. 113–4, title XII, §1207(a), Mar. 7, 2013, 127 Stat. 141.)
+#### (k) Agency action to prevent funding of human trafficking
+
+#### (1) In general
+
+&emsp;At the end of each fiscal year, the Secretary of State, the Secretary of Labor, the Administrator of the United States Agency for International Development, and the Director of the Office of Management and Budget shall each submit a report to the Administrator of General Services that includes—
+
+&emsp;&emsp;(A) the name and contact information of the individual within the agency's Office of Legal Counsel or Office of Acquisition Policy who is responsible for overseeing the implementation of—
+
+&emsp;&emsp;&emsp;(i) subsection (g);
+
+&emsp;&emsp;&emsp;(ii) title XVII of the National Defense Authorization Act for Fiscal Year 2013 (22 U.S.C. 7104a et seq.); and
+
+&emsp;&emsp;&emsp;(iii) any regulation in the Federal Acquisition Regulation (48 C.F.R. 1 et seq.) that is related to any subject matter referred to in clause (i) or (ii);
+
+&emsp;&emsp;(B) agency action to ensure that contractors are educated on the applicable laws and regulations listed in subparagraph (A);
+
+&emsp;&emsp;(C) agency action to ensure that the acquisition workforce and agency officials understand implementation of the laws and regulations listed in subparagraph (A), including best practices for—
+
+&emsp;&emsp;&emsp;(i) ensuring compliance with such laws and regulations;
+
+&emsp;&emsp;&emsp;(ii) assessing the serious, repeated, willful, or pervasive nature of any violation of such laws or regulations; and
+
+&emsp;&emsp;&emsp;(iii) evaluating steps contractors have taken to correct any such violation;
+
+&emsp;&emsp;(D)(i) the number of contracts containing language referring to the laws and regulations listed in subparagraph (A); and
+
+&emsp;&emsp;(ii) the number of contracts that did not contain any language referring to such laws and regulations;
+
+&emsp;&emsp;(E)(i) the number of allegations of severe forms of trafficking in persons received; and
+
+&emsp;&emsp;(ii) the source type of the allegation (such as contractor, subcontractor, employee of contractor or subcontractor, or an individual outside of the contract);
+
+&emsp;&emsp;(F)(i) the number of such allegations investigated by the agency;
+
+&emsp;&emsp;(ii) a summary of any findings from such investigations; and
+
+&emsp;&emsp;(iii) any improvements recommended by the agency to prevent such conduct from recurring;
+
+&emsp;&emsp;(G)(i) the number of such allegations referred to the Attorney General for prosecution under section 3271 of title 18; and
+
+&emsp;&emsp;(ii) the outcomes of such referrals;
+
+&emsp;&emsp;(H) any remedial action taken as a result of such investigation, including whether—
+
+&emsp;&emsp;&emsp;(i) a contractor or subcontractor (at any tier) was debarred or suspended due to a violation of a law or regulation relating to severe forms of trafficking in persons; or
+
+&emsp;&emsp;&emsp;(ii) a contract was terminated pursuant to subsection (g) as a result of such violation;
+
+&emsp;&emsp;(I) any other assistance offered to agency contractors to ensure compliance with a law or regulation relating to severe forms of trafficking in persons;
+
+&emsp;&emsp;(J) any interagency meetings or data sharing regarding suspended or disbarred contractors or subcontractors (at any tier) for severe forms of trafficking in persons; and
+
+&emsp;&emsp;(K) any contract with a contractor or subcontractor (at any tier) located outside the United States and the country location, where safe to reveal location, for each such contractor or subcontractor.
+
+#### (2) Appropriate congressional committees
+
+&emsp;In this subsection, the term "appropriate congressional committees" means—
+
+&emsp;&emsp;(A) the Committee on Foreign Affairs of the House of Representatives;
+
+&emsp;&emsp;(B) the Committee on Armed Services of the House of Representatives;
+
+&emsp;&emsp;(C) the Committee on Education and the Workforce of the House of Representatives;
+
+&emsp;&emsp;(D) the Committee on the Judiciary of the House of Representatives;
+
+&emsp;&emsp;(E) the Committee on Oversight and Government Reform of the House of Representatives;
+
+&emsp;&emsp;(F) the Committee on Foreign Relations of the Senate;
+
+&emsp;&emsp;(G) the Committee on Armed Services of the Senate;
+
+&emsp;&emsp;(H) the Committee on the Judiciary of the Senate; and
+
+&emsp;&emsp;(I) the Committee on Health, Education, Labor, and Pensions of the Senate.
+
+(Pub. L. 106–386, div. A, §106, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 108–193, §3, Dec. 19, 2003, 117 Stat. 2875; Pub. L. 109–164, title I, §101(a), title II, §201(b), Jan. 10, 2006, 119 Stat. 3560, 3569; Pub. L. 110–457, title I, §103(a), Dec. 23, 2008, 122 Stat. 5046; Pub. L. 112–239, div. A, title XVII, §1702, Jan. 2, 2013, 126 Stat. 2093; Pub. L. 113–4, title XII, §1207(a), Mar. 7, 2013, 127 Stat. 141; Pub. L. 115–425, title I, §§101(a), 112, Jan. 8, 2019, 132 Stat. 5473, 5476; Pub. L. 115–427, §4, Jan. 9, 2019, 132 Stat. 5504.)
+
+#### References in Text
+
+Title XVII of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (k)(1)(A)(ii), is title XVII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2092. For complete classification of title XVII to the Code, see Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b). Pub. L. 115–425, §101(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (g)(1) to (4). Pub. L. 115–427, §4(1), redesignated cls. (i) to (iv) as pars. (1) to (4), respectively, and realigned margins.
+
+Subsec. (g)(4)(A). Pub. L. 115–427, §4(2)(A), redesignated subcl. (I) as subpar. (A) and realigned margins.
+
+Subsec. (g)(4)(B). Pub. L. 115–427, §4(2)(A), (B), redesignated subcl. (II) as subpar. (B), realigned margins, and redesignated items (aa) and (bb) as cls. (i) and (ii), respectively, and realigned margins.
+
+Subsec. (g)(4)(C). Pub. L. 115–427, §4(2)(A), redesignated subcl. (III) as subpar. (C) and realigned margins.
+
+Subsec. (g)(4)(D). Pub. L. 115–427, §4(2)(A), (C), redesignated subcl. (IV) as subpar. (D), realigned margins, and substituted "placement or recruitment fees." for "unreasonable placement or recruitment fees, such as fees equal to or greater than the employee's monthly salary, or recruitment fees that violate the laws of the country from which an employee is recruited."
+
+Subsec. (g)(4)(E). Pub. L. 115–427, §4(2)(A), redesignated subcl. (V) as subpar. (E) and realigned margins.
+
+Subsec. (k). Pub. L. 115–425, §112, added subsec. (k).
 
 <b>2013</b>—Subsec. (g). Pub. L. 112–239 substituted "or take any of the other remedial actions authorized under section 7104b(c) of this title, without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor, engages in, or uses labor recruiters, brokers, or other agents who engage in—" and cls. (i) to (iv) for "without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor (i) engages in severe forms of trafficking in persons or has procured a commercial sex act during the period of time that the grant, contract, or cooperative agreement is in effect, or (ii) uses forced labor in the performance of the grant, contract, or cooperative agreement."
 

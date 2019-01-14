@@ -4,7 +4,7 @@ When a seaman lawfully engaged commits any of the following offenses, the seaman
 
 &emsp;(1) For desertion, the seaman forfeits any part of the money or property the seaman leaves on board and any part of earned wages.
 
-&emsp;(2) For neglecting or refusing without reasonable cause to join the seaman's vessel or to proceed to sea in the vessel, for absence without leave within 24 hours of the vessel's sailing from a port (at the beginning or during the voyage), or for absence without leave from duties and without sufficient reason, the seaman forfeits from the seaman's wages not more than 2 days' pay or a sufficient amount to defray expenses incurred in hiring a substitute.
+&emsp;(2) For neglecting or refusing without reasonable cause to join the seaman's vessel or to proceed to sea in the vessel, for absence without leave within 24 hours of the vessel's sailing from a port (at the beginning or during the voyage), or for absence without leave from duties and without sufficient reason, the seaman forfeits from the seaman's wages not morethan 2 days' pay or a sufficient amount to defray expenses incurred in hiring a substitute.
 
 &emsp;(3) For quitting the vessel without leave after the vessel's arrival at the port of delivery and before the vessel is placed in security, the seaman forfeits from the seaman's wages not more than one month's pay.
 

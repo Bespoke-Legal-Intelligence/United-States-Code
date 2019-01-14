@@ -18,7 +18,7 @@
 
 (d) The kind of duty to which a Reserve ordered to active duty may be assigned shall be considered in determining physical qualifications for active duty.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2977; amendedPub. L. 107–107, div. A, title V, §516, Dec. 28, 2001, 115 Stat. 1094; Pub. L. 109–163, div. A, title VII, §732(a), (b), Jan. 6, 2006, 119 Stat. 3351, 3352.)
+(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2977; amended Pub. L. 107–107, div. A, title V, §516, Dec. 28, 2001, 115 Stat. 1094; Pub. L. 109–163, div. A, title VII, §732(a), (b), Jan. 6, 2006, 119 Stat. 3351, 3352.)
 
 #### Prior Provisions
 

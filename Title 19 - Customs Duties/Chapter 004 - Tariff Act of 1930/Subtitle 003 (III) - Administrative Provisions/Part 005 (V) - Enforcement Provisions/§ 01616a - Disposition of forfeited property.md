@@ -58,7 +58,7 @@ Another section 616 of act June 17, 1930, as added by Pub. L. 98–473, title II
 
 Subsec. (c)(3). Pub. L. 101–207, §3(e)(2), added par. (3).
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–690 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Secretary of the Treasury may transfer anyproperty forfeited under this chapter to any other Federal agency or to any State or local law enforcement agency which participated directly in the seizure or forfeiture of the property."
+<b>1988</b>—Subsec. (c). Pub. L. 100–690 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Secretary of the Treasury may transfer any property forfeited under this chapter to any other Federal agency or to any State or local law enforcement agency which participated directly in the seizure or forfeiture of the property."
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–570 inserted "any other Federal agency or to" after "property forfeited under this chapter to".
 

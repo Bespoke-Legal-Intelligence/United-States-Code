@@ -8,7 +8,7 @@
 
 &emsp;(3) it is in the Nation's interest to provide opportunities for the increased production of electricity from renewable energy sources;
 
-&emsp;(4) the early wide-spread utilization of wind energy for the generation of electricity and formechanical power could lead to relief on the demand for existing non-renewable fuel and energy supplies;
+&emsp;(4) the early wide-spread utilization of wind energy for the generation of electricity and for mechanical power could lead to relief on the demand for existing non-renewable fuel and energy supplies;
 
 &emsp;(5) the use of large wind energy systems for certain limited applications is already economically feasible;
 

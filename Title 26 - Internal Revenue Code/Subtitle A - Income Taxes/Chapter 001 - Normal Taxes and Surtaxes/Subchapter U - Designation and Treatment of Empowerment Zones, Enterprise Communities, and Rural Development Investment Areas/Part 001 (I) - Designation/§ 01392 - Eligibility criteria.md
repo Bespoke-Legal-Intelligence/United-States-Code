@@ -32,7 +32,7 @@ A nominated area shall be eligible for designation under section 1391 only if it
 
 &emsp;&emsp;(ii) in the case of a rural area, is located entirely within no more than 3 contiguous States, and
 
-&emsp;&emsp;(D) does not include any portion of a central business district (as such term is usedfor purposes of the most recent Census of Retail Trade) unless the poverty rate for each population census tract in such district is not less than 35 percent (30 percent in the case of an enterprise community).
+&emsp;&emsp;(D) does not include any portion of a central business district (as such term is used for purposes of the most recent Census of Retail Trade) unless the poverty rate for each population census tract in such district is not less than 35 percent (30 percent in the case of an enterprise community).
 
 #### (4) Poverty rate
 

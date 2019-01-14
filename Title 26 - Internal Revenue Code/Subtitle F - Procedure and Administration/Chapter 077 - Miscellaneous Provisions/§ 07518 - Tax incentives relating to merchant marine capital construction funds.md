@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The amount deposited in a fund established under chapter 535 of title 46 of the United States Code (hereinafter in this section referred to as a "capital construction fund") shall not exceed for any taxable year the sum of:
+&emsp;The amount deposited in a fund established under chapter 535 of title 46 of the UnitedStates Code (hereinafter in this section referred to as a "capital construction fund") shall not exceed for any taxable year the sum of:
 
 &emsp;&emsp;(A) that portion of the taxable income of the owner or lessee for such year (computed as provided in chapter 1 but without regard to the carryback of any net operating loss or net capital loss and without regard to this section) which is attributable to the operation of the agreement vessels in the foreign or domestic commerce of the United States or in the fisheries of the United States,
 
@@ -34,7 +34,7 @@
 
 #### (2) Limitation on fund investments
 
-&emsp;Amounts in any capital construction fund may be invested only in interest-bearing securities approved by the Secretary; except that, if such Secretary consents thereto, an agreed percentage (not in excess of 60 percent) of the assets of the fund may be invested in the stock of domestic corporations. Such stock must be currently fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securitiesexchange, and must be stock which would be acquired by prudent men of discretion and intelligence in such matters who are seeking a reasonable income and the preservation of their capital. If at any time the fair market value of the stock in the fund is more than the agreed percentage of the assets in the fund, any subsequent investment of amounts deposited in the fund, and any subsequent withdrawal from the fund, shall be made in such a way as to tend to restore the fund to a situation in which the fair market value of the stock does not exceed such agreed percentage.
+&emsp;Amounts in any capital construction fund may be invested only in interest-bearing securities approved by the Secretary; except that, if such Secretary consents thereto, an agreed percentage (not in excess of 60 percent) of the assets of the fund may be invested in the stock of domestic corporations. Such stock must be currently fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securities exchange, and must be stock which would be acquired by prudent men of discretion and intelligence in such matters who are seeking a reasonable income and the preservation of their capital. If at any time the fair market value of the stock in the fund is more than the agreed percentage of the assets in the fund, any subsequent investment of amounts deposited in the fund, and any subsequent withdrawal from the fund, shall be made in such a way as to tend to restore the fund to a situation in which the fair market value of the stock does not exceed such agreed percentage.
 
 #### (3) Investment in certain preferred stock permitted
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) amounts referred to in subsection (a)(1)(C) other than that portion thereof which represents gain not taken into account by reason of subsection (c)(1)(B),
 
-&emsp;&emsp;(C) the percentage applicable under section 243(a)(1) of any dividend received by the fund with respect to which the person maintaining the fund would (but for subsection (c)(1)(C)) be allowed a deduction under section 243, and
+&emsp;&emsp;(C) the percentage applicable under section 243(a)(1) of any dividend received by the fundwith respect to which the person maintaining the fund would (but for subsection (c)(1)(C)) be allowed a deduction under section 243, and
 
 &emsp;&emsp;(D) interest income exempt from taxation under section 103.
 
@@ -164,7 +164,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (h), any withdrawal from a capital construction fund which is not a qualified withdrawal shall be treated as a nonqualified withdrawal.
+&emsp;Except as provided in subsection (h), any withdrawal from a capital construction fundwhich is not a qualified withdrawal shall be treated as a nonqualified withdrawal.
 
 #### (2) Ordering rule
 
@@ -196,7 +196,7 @@ For purposes of this section—
 
 #### (4) Interest rate
 
-&emsp;For purposes of paragraph (3)(C)(ii), the applicable rate of interest for any nonqualifiedwithdrawal shall be determined and published jointly by the Secretary of the Treasury or his delegate and the applicable Secretary and shall bear a relationship to 8 percent which the Secretaries determine under joint regulations to be comparable to the relationship which the money rates and investment yields for the calendar year immediately preceding the beginning of the taxable year bear to the money rates and investment yields for the calendar year 1970.
+&emsp;For purposes of paragraph (3)(C)(ii), the applicable rate of interest for any nonqualified withdrawal shall be determined and published jointly by the Secretary of the Treasury or his delegate and the applicable Secretary and shall bear a relationship to 8 percent which the Secretaries determine under joint regulations to be comparable to the relationship which the money rates and investment yields for the calendar year immediately preceding the beginning of the taxable year bear to the money rates and investment yields for the calendar year 1970.
 
 #### (5) Amount not withdrawn from fund after 25 years from deposit taxed as nonqualified withdrawal
 
@@ -264,19 +264,19 @@ Under joint regulations—
 
 #### (i) Definitions
 
-For purposes of this section, any term defined in section 607(k) of the Merchant Marine Act, 1936 which is also used in this section (including the definition of "Secretary") shall have the meaning given such term by such section 607(k) as in effect on the date of the enactment of this section.
+For purposes of this section, any term defined in chapter 535 of title 46, United States Code, which is also used in this section (including the definition of "Secretary") shall have the meaning given such term by such chapter as in effect on the date of the enactment of this section.
 
-(Added Pub. L. 99–514, title II, §261(b), Oct. 22, 1986, 100 Stat. 2208; amended Pub. L. 100–647, title I, §§1002(m)(1), 1018(u)(23), Nov. 10, 1988, 102 Stat. 3382, 3591; Pub. L. 101–508, title XI, §11101(d)(7)(A), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(D), May 28, 2003, 117 Stat. 758; Pub. L. 109–304, §17(e)(6), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 112–240, title I, §102(c)(1)(D), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 113–295, div. A, title II,§221(a)(117), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 115–97, title I, §13001(b)(2)(Q), (7), Dec. 22, 2017, 131 Stat. 2097, 2098.)
+(Added Pub. L. 99–514, title II, §261(b), Oct. 22, 1986, 100 Stat. 2208; amended Pub. L. 100–647, title I, §§1002(m)(1), 1018(u)(23), Nov. 10, 1988, 102 Stat. 3382, 3591; Pub. L. 101–508, title XI, §11101(d)(7)(A), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(D), May 28, 2003, 117 Stat. 758; Pub. L. 109–304, §17(e)(6), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 112–240, title I, §102(c)(1)(D), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 113–295, div. A, title II, §221(a)(117), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 115–97, title I, §13001(b)(2)(Q), (7), Dec. 22, 2017, 131 Stat. 2097, 2098; Pub. L. 115–141, div. U, title IV, §401(a)(352), Mar. 23, 2018, 132 Stat. 1201.)
 
 #### References in Text
 
 Section 606(5) of the Merchant Marine Act, 1936, as in effect on December 31, 1969, referred to in subsec. (g)(3)(C)(iii), was section 606(5) of act June 29, 1936, ch. 858, title VI, 49 Stat. 2004, as amended by acts June 23, 1938, ch. 600, §22, 52 Stat. 960; July 17, 1952, ch. 939, §16, 66 Stat. 764; and May 10, 1956, ch. 247, §1, 70 Stat. 148, which was classified to section 1176(5) of former Title 46, Shipping, and was repealed by Pub. L. 91–469, §20(4), Oct. 21, 1970, 84 Stat. 1026. Section 606 of the Merchant Marine Act, 1936 was subsequently transferred to section 1176 of the former Appendix to Title 46 and is now set out as a note under section 53101 of Title 46, Shipping.
 
-Section 607(k) of the Merchant Marine Act, 1936, referred to in subsec. (i), was classified to section 1177(k) of the former Appendix to Title 46, Shipping, and was repealed and partially restated in section 53501 of Title 46, Shipping, by Pub. L. 109–304, §§8(c), 19, Oct. 6, 2006, 120 Stat. 1586, 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
-
 The date of the enactment of this section, referred to in subsec. (i), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (i). Pub. L. 115–141 substituted "chapter 535 of title 46, United States Code," for "section 607(k) of the Merchant Marine Act, 1936" and "such chapter" for "such section 607(k)".
 
 <b>2017</b>—Subsec. (g)(6)(A). Pub. L. 115–97, §13001(b)(7), in concluding provisions, substituted "In the case of a taxpayer other than a corporation, with respect to the portion" for "With respect to the portion" and struck out "(34 percent in the case of a corporation)" after "shall not exceed 20 percent".
 
@@ -322,7 +322,7 @@ Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–27 applicable to taxable years ending on or after May 6, 2003, see section 301(d) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
+Amendment by Pub. L. 108–27 applicable to taxable years ending on or after May 6, 2003, see section 301(d)of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

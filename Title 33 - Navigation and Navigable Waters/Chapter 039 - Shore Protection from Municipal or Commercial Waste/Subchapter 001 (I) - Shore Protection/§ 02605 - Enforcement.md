@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary of Transportation shall enforce this chapter under section 89 of title 14. The Secretary may authorize other officers or employees of the United States Government to enforce this chapter under that section.
+The Secretary of Transportation shall enforce this chapter under section 89 <sup>1</sup> of title 14. TheSecretary may authorize other officers or employees of the United States Government to enforce this chapter under that section.
 
 #### (b) Periodic examinations
 
@@ -26,7 +26,13 @@ The Administrator shall conduct an investigation of the owner or operator of a v
 
 (Pub. L. 100–688, title IV, §4105, Nov. 18, 1988, 102 Stat. 4157.)
 
+#### References in Text
+
+Section 89 of title 14, referred to in subsec. (a), was redesignated section 522 of title 14 by Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200, and reference to section 89 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+
 #### Codification
 
 In subsec. (c), "section 60105 of title 46" substituted for "section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

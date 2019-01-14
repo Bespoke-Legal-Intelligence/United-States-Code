@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—After notice and an opportunity for a hearing, a person found by the Surface Transportation Board to have violated a provision of law that the Board carries out or a regulation prescribed under that law by the Board that is related to transportation which occurs under subchapter II of chapter 135 for which a civil penalty is provided, is liable to the United States for the civil penalty provided. The amount of the civil penalty shall be assessed by the Board by written notice. In determining the amount of the penalty, the Board shall consider the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and other matters that justice requires.
+In General.—After notice and an opportunity for a hearing, a person found by the Surface Transportation Board to have violated a provision of law that the Board carries out or a regulation prescribed under that law by the Board that is related to transportation which occurs under subchapter II of chapter 135 for which a civil penalty is provided, is liable to the United States for the civil penalty provided. The amount of the civil penalty shall be assessed by the Board by written notice. In determining the amount of the penalty, the Board shall consider the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability,any history of prior offenses, ability to pay, and other matters that justice requires.
 
 (b)
 
@@ -21,4 +21,8 @@ Refunds.—The Board may refund or remit a civil penalty collected under this se
 &emsp;(2) the Board finds that the penalty was unlawfully, improperly, or excessively imposed.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 918.)
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

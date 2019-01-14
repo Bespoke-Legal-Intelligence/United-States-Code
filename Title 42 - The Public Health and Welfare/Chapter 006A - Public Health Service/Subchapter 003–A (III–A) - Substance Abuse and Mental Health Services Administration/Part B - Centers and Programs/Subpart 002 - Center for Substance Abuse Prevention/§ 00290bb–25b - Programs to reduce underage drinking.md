@@ -178,7 +178,7 @@ It is the sense of the Congress that:
 
 &emsp;&emsp;&emsp;(iv) serve as a catalyst for increased citizen participation and greater collaboration among all sectors and organizations of a community that first demonstrates a long-term commitment to reducing alcohol use among youth;
 
-&emsp;&emsp;&emsp;(v) disseminate to communities timely information regarding state-of-the-art practices and initiatives that have provento be effective in preventing and reducing alcohol use among youth; and
+&emsp;&emsp;&emsp;(v) disseminate to communities timely information regarding state-of-the-art practices and initiatives that have proven to be effective in preventing and reducing alcohol use among youth; and
 
 &emsp;&emsp;&emsp;(vi) enhance, not supplant, effective local community initiatives for preventing and reducing alcohol use among youth.
 
@@ -256,7 +256,7 @@ It is the sense of the Congress that:
 
 &emsp;&emsp;On the date on which the Secretary first publishes a notice in the Federal Register soliciting applications for grants under this paragraph, the Secretary shall include in the notice achievement indicators for the program authorized under this paragraph. The achievement indicators shall be designed—
 
-&emsp;&emsp;&emsp;(i) to measure the impact that the statewide coalitions assisted under this paragraph are having on the institutions of higher education and the surrounding communities, including changes in the number of incidents of any kind in which students have abused alcohol or consumed alcohol while under the age of 21 (including violations, physical assaults, sexual assaults, reports of intimidation, disruptions of school functions, disruptions of studentstudies, mental health referrals, illnesses, or deaths);
+&emsp;&emsp;&emsp;(i) to measure the impact that the statewide coalitions assisted under this paragraph are having on the institutions of higher education and the surrounding communities, including changes in the number of incidents of any kind in which students have abused alcohol or consumed alcohol while under the age of 21 (including violations, physical assaults, sexual assaults, reports of intimidation, disruptions of school functions, disruptions of student studies, mental health referrals, illnesses, or deaths);
 
 &emsp;&emsp;&emsp;(ii) to measure the quality and accessibility of the programs or information offered by the eligible entity; and
 
@@ -420,7 +420,7 @@ The Drug-Free Communities Act of 1997, referred to in subsec. (e)(1)(G), is Pub.
 
 #### Amendments
 
-<b>2016</b>—Subsec. (c)(1)(B). Pub. L. 114–255, §6001(c)(1), substituted "Assistant Secretary for Mental Health and Substance Use" for "Administrator of the Substance Abuse and Mental Health Services Administration".
+<b>2016</b>—Subsec. (c)(1)(B). Pub. L. 114–255, §6001(c)(1), substituted "Assistant Secretary for Mental Healthand Substance Use" for "Administrator of the Substance Abuse and Mental Health Services Administration".
 
 Subsec. (c)(3). Pub. L. 114–255, §9016(1), substituted "each of the fiscal years 2018 through 2022." for "fiscal year 2007, and $1,000,000 for each of the fiscal years 2008 through 2010."
 

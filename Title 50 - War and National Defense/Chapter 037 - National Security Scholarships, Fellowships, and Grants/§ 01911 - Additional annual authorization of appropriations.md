@@ -6,13 +6,13 @@ In addition to amounts that may be made available to the Secretary under the Fun
 
 #### (b) Funding from Intelligence Community Management Account for fiscal years beginning with fiscal year 2005
 
-In addition to amounts that may be made available to the Secretary under the Fund for afiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each fiscal year, beginning with fiscal year 2005, $6,000,000 to carry out the grant program for the National Flagship Language Initiative under section 1902(a)(1)(D) of this title.
+In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each fiscal year, beginning with fiscal year 2005, $6,000,000 to carry out the grant program for the National Flagship Language Initiative under section 1902(a)(1)(D) of this title.
 
 #### (c) Availability of appropriated funds
 
 Amounts made available under this section shall remain available until expended.
 
-(Pub. L. 102–183, title VIII, §811, as added Pub. L. 107–306, title III, §333(b), Nov. 27, 2002, 116 Stat. 2397; amended Pub. L. 108–487, title VI, §602(b), Dec. 23, 2004, 118 Stat. 3953.)
+(Pub. L. 102–183, title VIII, §811, as added Pub. L. 107–306, title III, §333(b), Nov. 27, 2002, 116 Stat.2397; amended Pub. L. 108–487, title VI, §602(b), Dec. 23, 2004, 118 Stat. 3953.)
 
 #### Amendments
 

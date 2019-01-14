@@ -10,7 +10,7 @@
 
 &emsp;(ii) 90 percent of the amount received and used under this subpart for the first year it participated in the program.
 
-(B) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this subpart after fiscal year 1999 and is a first or second time participant, an amount equal to the greatest of—
+(B) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this subpart after fiscal year 1999 and is afirst or second time participant, an amount equal to the greatest of—
 
 &emsp;(i) $5,000;
 

@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-No immunity.—A foreign state shall not be immune from the jurisdiction of courts of the United States or of the States in any case not otherwise covered by this chapter in which money damages are sought against a foreign state for personal injury or death that was caused by an act of torture, extrajudicial killing, aircraft sabotage, hostage taking, or the provision of material support or resources for such an act if such act or provision of material support or resources is engaged in by an official, employee, or agent of such foreign state while acting within the scope of his or her office, employment, or agency.
+No immunity.—A foreign state shall not be immune from the jurisdiction of courts ofthe United States or of the States in any case not otherwise covered by this chapter in which money damages are sought against a foreign state for personal injury or death that was caused by an act of torture, extrajudicial killing, aircraft sabotage, hostage taking, or the provision of material support or resources for such an act if such act or provision of material support or resources is engaged in by an official, employee, or agent of such foreign state while acting within the scope of his or her office, employment, or agency.
 
 &emsp;(2)
 
@@ -122,7 +122,7 @@ Section 589 of the Foreign Operations, Export Financing, and Related Programs Ap
 
 Section 1404C of the Victims of Crime Act of 1984, referred to in subsec. (e)(2), is section 1404C of chapter XIV of title II of Pub. L. 98–473, which was classified to section 10603c of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 20106 of Title 34, Crime Control and Law Enforcement.
 
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (h)(6), is section 6(j) of Pub. L. 96–72, which was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as section 4605(j) of Title 50.
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (h)(6), is section 6(j) of Pub. L. 96–72, which was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as section 4605(j) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 Section 3 of the Torture Victim Protection Act of 1991, referred to in subsec. (h)(7), is section 3 of Pub. L. 102–256, which is set out as a note under section 1350 of this title.
 
@@ -210,7 +210,7 @@ Pub. L. 110–301, Aug. 4, 2008, 122 Stat. 2999, provided that:
 
 &emsp;"(4) the term 'Secretary' means the Secretary of State; and
 
-&emsp;"(5) the term 'state sponsor of terrorism' means a country the government of which the Secretary has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)) \[now 50 U.S.C. 4605(j)\], section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), section 40 of the Arms Export Control Act (22 U.S.C. 2780), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
+&emsp;"(5) the term 'state sponsor of terrorism' means a country the government of which the Secretary has determined, for purposes of \[former\] section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)) \[former 50 U.S.C. 4605(j)\], section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), section 40 of the Arms Export Control Act (22 U.S.C. 2780), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
 
 #### "SEC. 3. SENSE OF CONGRESS.
 
@@ -224,7 +224,7 @@ Designation of Entity.—
 
 &emsp;"(1)
 
-Designation.—The Secretary, by publication in the Federal Register, may, after consultation with the appropriate congressional committees, designate 1 or more entities to assist in providing compensationto nationals of the United States, pursuant to a claims agreement.
+Designation.—The Secretary, by publication in the Federal Register, may, after consultation with the appropriate congressional committees, designate 1 or more entities to assist in providing compensation to nationals of the United States, pursuant to a claims agreement.
 
 &emsp;"(2)
 

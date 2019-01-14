@@ -10,7 +10,7 @@ For purposes of this part, the term "enterprise zone business" means—
 
 #### (b) Qualified business entity
 
-For purposes of this section, the term "qualified business entity" means, with respect to any taxable year, any corporation or partnership if for such year—
+For purposes of this section, the term "qualified business entity" means, with respect to anytaxable year, any corporation or partnership if for such year—
 
 &emsp;(1) every trade or business of such entity is the active conduct of a qualified business within an empowerment zone,
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any trade or business consisting of the operation of any facility described in section 144(c)(6)(B), and
 
-&emsp;&emsp;(B) any trade or business the principal activity of which is farming (within the meaning of subparagraphs <sup>1</sup> (A) or (B) of section 2032A(e)(5)), but only if, as of the close of the taxable year, the sum of—
+&emsp;&emsp;(B) any trade or business the principal activity of which is farming (within the meaning of subparagraph (A) or (B) of section 2032A(e)(5)), but only if, as of the close of the taxable year, the sum of—
 
 &emsp;&emsp;&emsp;(i) the aggregate unadjusted bases (or, if greater, the fair market value) of the assets owned by the taxpayer which are used in such a trade or business, and
 
@@ -110,15 +110,17 @@ For purposes of this section, if—
 
 &emsp;(4) the real property described in paragraph (2) is contiguous to part or all of the real property described in paragraph (1),
 
-> then all the services performed by employees, all business activities, all tangible property, and all intangible property of the business entity orproprietorship that occur in or is located on the real property described in paragraphs (1) and (2) shall be treated as occurring or situated in an empowerment zone.
+> then all the services performed by employees, all business activities, all tangible property, and all intangible property of the business entity or proprietorship that occur in or is located on the real property described in paragraphs (1) and (2) shall be treated as occurring or situated in an empowerment zone.
 
-(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 552, §1397B; amended Pub. L. 104–188, title I, §1703(m), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title IX, §956(a), Aug. 5, 1997, 111 Stat. 890; Pub. L. 106–170, title V, §532(c)(4), Dec. 17, 1999, 113 Stat. 1931; renumbered §1397C, Pub. L. 106–554, §1(a)(7) \[title I, §116(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–602.)
+(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 552, §1397B; amended Pub. L. 104–188, title I, §1703(m), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title IX, §956(a), Aug. 5, 1997, 111 Stat. 890; Pub. L. 106–170, title V, §532(c)(4), Dec. 17, 1999, 113 Stat. 1931; renumbered §1397C, Pub. L. 106–554, §1(a)(7) \[title I, §116(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–602; Pub. L. 115–141, div. U, title IV, §401(a)(196), Mar. 23, 2018, 132 Stat. 1193.)
 
 #### Prior Provisions
 
 A prior section 1397C was renumbered section 1397D of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(5)(B). Pub. L. 115–141 substituted "subparagraph (A) or (B)" for "subparagraphs (A) or (B)" in introductory provisions.
 
 <b>2000</b>—Pub. L. 106–554 renumbered section 1397B of this title as this section.
 
@@ -167,6 +169,4 @@ Special rule for enterprise zone facility bonds.—For purposes of section 1394(
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

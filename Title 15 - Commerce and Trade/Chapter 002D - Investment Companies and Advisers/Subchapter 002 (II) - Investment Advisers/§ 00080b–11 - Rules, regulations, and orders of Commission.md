@@ -10,7 +10,7 @@ Subject to the provisions of chapter 15 of title 44 and regulations prescribed u
 
 #### (c) Orders of Commission after notice and hearing; type of notice
 
-Orders of the Commission under this subchapter shall be issued only after appropriate notice and opportunity for hearing. Notice tothe parties to a proceeding before the Commission shall be given by personal service upon each party or by registered mail or certified mail or confirmed telegraphic notice to the party's last known business address. Notice to interested persons, if any, other than parties may be given in the same manner or by publication in the Federal Register.
+Orders of the Commission under this subchapter shall be issued only after appropriate notice and opportunity for hearing. Notice to the parties to a proceeding before the Commission shall be given by personal service upon each party or by registered mail or certified mail or confirmed telegraphic notice to the party's last known business address. Notice to interested persons, if any, other than parties may be given in the same manner or by publication in the Federal Register.
 
 #### (d) Good faith compliance with rules and regulations
 
@@ -24,7 +24,7 @@ The Commission and the Commodity Futures Trading Commission shall, after consult
 
 #### (1) In general
 
-&emsp;The Commission may promulgate rules to provide that the standard of conduct for all brokers, dealers, and investment advisers, when providing personalized investment advice about securities to retail customers (and such other customers as the Commission may by rule provide), shall be to act in the best interest of the customer without regard to the financial or other interest of the broker, dealer, or investment adviser providing the advice. In accordance with such rules, any material conflicts of interest shall be disclosed and may be consented to by the customer. Such rules shall provide that such standard of conduct shall be no less stringent than the standard applicable to investment advisers under section 80b–6(1) and (2) of this title when providing personalized investment advice about securities, except the Commission shall not ascribe a meaning to the term "customer" that would include an investor in a private fund managed by an investment adviser, where such private fund has entered into an advisory contract with such adviser. The receipt of compensation based on commission or fees shall not, in and of itself, be considered a violation of such standard applied to a broker, dealer, or investment adviser.
+&emsp;The Commission may promulgate rules to provide that the standard of conduct for all brokers, dealers, and investment advisers, when providing personalized investment advice about securities to retail customers (and such other customers as the Commission may by rule provide), shall be to act in the best interest of the customer without regard to the financial or other interest of the broker, dealer, or investment adviser providing the advice. In accordance with such rules, any material conflicts of interest shall be disclosed and may be consented to by the customer. Such rules shall provide that such standard of conduct shall be no less stringent than the standard applicable to investment advisers under section 80b–6(1) and (2) of this title when providing personalized investment advice about securities, except the Commission shall not ascribe a meaning to the term "customer" that would include an investor in a private fund managed by an investment adviser, where such private fund has entered into an advisory contract with such adviser. The receipt of compensation based on commission or fees shallnot, in and of itself, be considered a violation of such standard applied to a broker, dealer, or investment adviser.
 
 #### (2) Retail customer defined
 
@@ -62,7 +62,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (i), is act June 6, 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §406(1), inserted ", including rules and regulations defining technical, trade, and other terms used in this subchapter, except that the Commission may not define the term 'client' for purposes of paragraphs (1) and (2) of section 80b–6 ofthis title to include an investor in a private fund managed by an investment adviser, if such private fund has entered into an advisory contract with such adviser" after "elsewhere in this subchapter".
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §406(1), inserted ", including rules and regulations defining technical, trade, and other terms used in this subchapter, except that the Commission may not define the term 'client' for purposes of paragraphs (1) and (2) of section 80b–6 of this title to include an investor in a private fund managed by an investment adviser, if such private fund has entered into an advisory contract with such adviser" after "elsewhere in this subchapter".
 
 Subsec. (e). Pub. L. 111–203, §406(2), which directed addition of subsec. (e) at end of section, was executed by adding subsec. (e) after subsec. (d) to reflect the probable intent of Congress. See Effective Date of 2010 Amendment notes below.
 
@@ -110,7 +110,7 @@ Areas of consideration.—The study required by this subsection shall examine—
 
 "(b)
 
-Report Required.—The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, not later than 180 days after the date of enactment of this subtitle \[July 21, 2010\], and shall use such findings to revise its rules and regulations, as necessary. The report shall include a discussion of regulatory or legislative steps that are recommended or that may be necessary to address concerns identified in the study."
+Report Required.—The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee onBanking, Housing, and Urban Affairs of the Senate, not later than 180 days after the date of enactment of this subtitle \[July 21, 2010\], and shall use such findings to revise its rules and regulations, as necessary. The report shall include a discussion of regulatory or legislative steps that are recommended or that may be necessary to address concerns identified in the study."
 
 \[For definitions of terms used in section 914 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
 

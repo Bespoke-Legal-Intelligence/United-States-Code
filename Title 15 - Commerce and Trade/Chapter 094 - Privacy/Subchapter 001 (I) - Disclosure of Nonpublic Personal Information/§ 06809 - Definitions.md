@@ -90,7 +90,7 @@ As used in this subchapter:
 
 #### (8) State insurance authority
 
-&emsp;The term "State insurance authority" means, in the case of any person engaged inproviding insurance, the State insurance authority of the State in which the person is domiciled.
+&emsp;The term "State insurance authority" means, in the case of any person engaged in providing insurance, the State insurance authority of the State in which the person is domiciled.
 
 #### (9) Consumer
 

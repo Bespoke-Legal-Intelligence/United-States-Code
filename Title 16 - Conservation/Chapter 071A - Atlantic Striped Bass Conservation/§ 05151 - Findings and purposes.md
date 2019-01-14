@@ -26,7 +26,7 @@ It is therefore declared to be the purpose of the Congress in this chapter to su
 
 <b>1997</b>—Pub. L. 105–146 amended section catchline and text generally, reenacting subsecs. (a)(1), (4), and (b) without change. Prior to amendment, pars. (2) and (3) of subsec. (a) read as follows:
 
-"(2) As a consequence of increased fishing pressure, environmental pollution, the loss and alteration of habitat, and the inadequacy of fishery conservation and management practices and controls, certain stocks of Atlantic striped bass have been severely reduced in number.
+"(2) As a consequence of increased fishing pressure, environmental pollution, the loss and alteration ofhabitat, and the inadequacy of fishery conservation and management practices and controls, certain stocks of Atlantic striped bass have been severely reduced in number.
 
 "(3) Because no single government entity has full management authority throughout the range of the Atlantic striped bass, the harvesting and conservation of these fish have been subject to diverse, inconsistent, and intermittent State regulation that has been detrimental to the long-term maintenance of stocks of the species and to the interests of fishermen and the Nation as a whole."
 

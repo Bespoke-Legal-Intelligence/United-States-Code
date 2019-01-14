@@ -10,7 +10,7 @@ The Secretary is authorized to make grants to or contracts with institutions of 
 
 &emsp;(A) sets forth programs, activities, research, or development for which a grant is authorized under this section;
 
-&emsp;(B) provides for such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement of and accounting for Federal funds paid to the applicant under this subsection; and
+&emsp;(B) provides for such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement of and accountingfor Federal funds paid to the applicant under this subsection; and
 
 &emsp;(C) provides for making such reports, in such form and containing such information, as the Secretary may require to carry out his functions under this subsection, and for keeping such records and for affording such access thereto as the Secretary may find necessary to assure the correctness and verification of such reports.
 
@@ -20,5 +20,5 @@ The Secretary is authorized to make grants to or contracts with institutions of 
 
 #### Codification
 
-Pub. L. 93–383, §402, provided for amendments to title VIII of the Housing and Urban Development Act of 1964. The amendments of the enumerated sections of suchtitle VIII have been executed to comparable sections of title VIII of the Housing Act of 1964 as the probable intent of Congress.
+Pub. L. 93–383, §402, provided for amendments to title VIII of the Housing and Urban Development Act of 1964. The amendments of the enumerated sections of such title VIII have been executed to comparable sections of title VIII of the Housing Act of 1964 as the probable intent of Congress.
 

@@ -1,0 +1,42 @@
+### §44737.<sup>1</sup> Helicopter fuel system safety
+
+(a)
+
+Prohibition.—
+
+&emsp;(1)
+
+In general.—A person may not operate a covered rotorcraft in United States airspace unless the design of the rotorcraft is certified by the Administrator of the Federal Aviation Administration to—
+
+&emsp;&emsp;(A) comply with the requirements applicable to the category of the rotorcraft under paragraphs (1), (2), (3), (5), and (6) of section 27.952(a), section 27.952(c), section 27.952(f), section 27.952(g), section 27.963(g) (but allowing for a minimum puncture force of 250 pounds if successfully drop tested in-structure), and section 27.975(b) or paragraphs (1), (2), (3), (5), and (6) of section 29.952(a), section 29.952(c), section 29.952(f), section 29.952(g), section 29.963(b) (but allowing for a minimum puncture force of 250 pounds if successfully drop tested in-structure), and 29.975(a)(7) of title 14, Code of Federal Regulations, as in effect on the date of enactment of this section; or
+
+&emsp;&emsp;(B) employ other means acceptable to the Administrator to provide an equivalent level of fuel system crash resistance.
+
+&emsp;(2)
+
+Covered rotorcraft defined.—In this subsection, the term "covered rotorcraft" means a rotorcraft not otherwise required to comply with section 27.952, section 27.963, and section 27.975, or section 29.952, section 29.963, and section 29.975 of title 14, Code of Federal Regulations as in effect on the date of enactment of this section for which manufacture was completed, as determined by the Administrator, on or after the date that is 18 months after the date of enactment of this section.
+
+(b)
+
+Administrative Provisions.—The Administrator shall—
+
+&emsp;(1) expedite the certification and validation of United States and foreign type designs and retrofit kits that improve fuel system crashworthiness; and
+
+&emsp;(2) not later than 180 days after the date of enactment of this section, and periodically thereafter, issue a bulletin to—
+
+&emsp;&emsp;(A) inform rotorcraft owners and operators of available modifications to improve fuel system crashworthiness; and
+
+&emsp;&emsp;(B) urge that such modifications be installed as soon as practicable.
+
+(c)
+
+Rule of Construction.—Nothing in this section may be construed to affect the operation of a rotorcraft by the Department of Defense.
+
+(Added Pub. L. 115–254, div. B, title III, §317(a), Oct. 5, 2018, 132 Stat. 3268.)
+
+#### References in Text
+
+The date of enactment of this section, referred to in text, is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.
+
+<i><sup>1</sup></i><i> Another section 44737 is set out following section 44739.</i>
+

@@ -24,7 +24,7 @@ Challenges to Restrictions.—(1) The Secretary of Defense may challenge a use o
 
 &emsp;(A) reasonable grounds exist to question the current validity of the asserted restriction; and
 
-&emsp;(B) the continued adherence by the United States to the asserted restriction would make it impracticable to procure the item to which the technical data pertain competitively at a later time.
+&emsp;(B) the continued adherence by the United States to the asserted restriction would makeit impracticable to procure the item to which the technical data pertain competitively at a later time.
 
 (2)(A) A challenge to a use or release restriction asserted by the contractor in accordance with applicable regulations may not be made under paragraph (1) after the end of the six-year period described in subparagraph (B) unless the technical data involved—
 
@@ -62,19 +62,7 @@ Time for Contractors to Submit Justifications.—If a contractor or subcontracto
 
 (f)
 
-Presumption of Development Exclusively at Private Expense.—(1) Except as provided in paragraph (2), in the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor under a contract for commercial items, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that the item was developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to subsection (d)(3). In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that the item was not developed exclusively at private expense.
-
-(2) In the case of a challenge to a use or release restriction that is asserted with respect totechnical data of a contractor or subcontractor for a major system or a subsystem or component thereof on the basis that the major weapon system, subsystem, or component was developed exclusively at private expense—
-
-&emsp;(A) the presumption in paragraph (1) shall apply—
-
-&emsp;&emsp;(i) with regard to a commercial subsystem or component of a major system, if the major system was acquired as a commercial item in accordance with section 2379(a) of this title;
-
-&emsp;&emsp;(ii) with regard to a component of a subsystem, if the subsystem was acquired as a commercial item in accordance with section 2379(b) of this title; and
-
-&emsp;&emsp;(iii) with regard to any other component, if the component is a commercially available off-the-shelf item or a commercially available off-the-shelf item with modifications of a type customarily available in the commercial marketplace or minor modifications made to meet Federal Government requirements; and
-
-&emsp;(B) in all other cases, the challenge to the use or release restriction shall be sustained unless information provided by the contractor or subcontractor demonstrates that the item was developed exclusively at private expense.
+Presumption of Development Exclusively at Private Expense.—In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor under a contract for commercial items, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that the item was developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to subsection (d)(3). In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that the item was not developed exclusively at private expense.
 
 (g)
 
@@ -108,7 +96,27 @@ Use or Release Restriction Defined.—In this section, the term "use or release 
 
 &emsp;(2) to release or disclose such technical data to persons outside the Government or permit the use of such technical data by persons outside the Government.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2597; amended Pub. L. 99–500 §101(c) \[title X, §953(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–171, and Pub. L. 99–591, §101(c) \[title X, §953(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–171; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(b), Nov. 14, 1986, 100 Stat. 3951, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, Pub. L. 100–26, §7(a)(5), Apr. 21, 1987, 101 Stat. 276; Pub. L. 100–180, div. A, title XII, §1231(6), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 103–35, title II, §201(g)(4), May 31, 1993, 107 Stat. 100; Pub. L. 103–355, title VIII, §8106(b), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 109–364, div. A, title VIII, §802(b), Oct. 17, 2006, 120 Stat. 2313; Pub. L. 110–181, div. A, title VIII, §815(a)(2), Jan. 28, 2008, 122 Stat. 223; Pub. L. 111–350, §5(b)(18), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 111–383, div. A, title VIII, §824(c), Jan. 7, 2011, 124 Stat. 4269; Pub. L. 112–81, div. A, title VIII, §815(b), Dec. 31, 2011, 125 Stat. 1492; Pub. L. 113–291, div. A, title X, §1071(a)(5), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, §813(a), Nov. 25, 2015, 129 Stat. 891.)
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2597; amended Pub. L. 99–500 §101(c) \[title X, §953(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–171, and Pub. L. 99–591, §101(c) \[title X, §953(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–171; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(b), Nov. 14, 1986, 100 Stat. 3951, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, Pub. L. 100–26, §7(a)(5), Apr. 21, 1987, 101 Stat. 276; Pub. L. 100–180, div. A, title XII, §1231(6), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 103–35, title II, §201(g)(4), May 31, 1993, 107 Stat. 100; Pub. L. 103–355, title VIII, §8106(b), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 109–364, div. A, title VIII, §802(b), Oct. 17, 2006, 120 Stat. 2313; Pub. L. 110–181, div. A, title VIII, §815(a)(2), Jan. 28, 2008, 122 Stat. 223; Pub. L. 111–350, §5(b)(18), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 111–383, div. A, title VIII, §824(c), Jan. 7, 2011, 124 Stat. 4269; Pub. L. 112–81, div. A, title VIII, §815(b), Dec. 31, 2011, 125 Stat. 1492; Pub. L. 113–291, div. A, title X, §1071(a)(5), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, §813(a), Nov. 25, 2015, 129 Stat. 891; Pub. L. 115–232, div. A, title VIII, §§836(c)(8), 865, 866(a), Aug. 13, 2018, 132 Stat. 1866, 1901.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(c)(8), (h), Aug. 13, 2018, 132 Stat. 1866, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (f) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (1), by striking "commercial items" and inserting "commercial products" and by striking "the item" both places it appears and inserting "commercial products"; and</i>
+
+<i>(2) in paragraph (2)(A), in clauses (i) and (ii), by striking "commercial item" and inserting "commercial product".</i>
+
+<i>Pub. L. 115–232, div. A, title VIII, §866(a), (c), Aug. 13, 2018, 132 Stat. 1901, provided that, effective on the date of publication of the interim or final rule (whichever is earlier) revising the Defense Federal Acquisition Regulation Supplement, subsection (i) of this section is amended as follows:</i>
+
+<i>(1) in heading, by inserting "Prior to and" after "Rights and Liability";</i>
+
+<i>(2) by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively; and</i>
+
+<i>(3) by inserting before paragraph (2), as so redesignated, the following new paragraph:</i>
+
+<i>(1) Upon filing of a suit or appeal under the contract dispute statute by a contractor or subcontractor in an agency Board of Contract Appeals or United States Claims Court related to a decision made by a contracting officer under subsection (g), the Secretary of Defense, or a Secretary of a military department for programs for which milestone decision authority has been delegated, on a nondelegable basis, may, following notice to the contractor or subcontractor, authorize use of the technical data in dispute if the Secretary determines in writing that compelling mission readiness requirements will not permit awaiting the final decision by the agency Board of Contract Appeals or the United States Claims Court.</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 #### Codification
 
@@ -118,11 +126,19 @@ Another section 2321 of this title was contained in chapter 138 and was renumber
 
 #### Amendments
 
+<b>2018</b>—Subsec. (f). Pub. L. 115–232, §865, struck out par. (1) designation, substituted "In" for "Except as provided in paragraph (2), in", and struck out par. (2) which related to a challenge to a use or release restriction regarding technical data for a major weapon system, subsystem, or component developed exclusively at private expense.
+
+Pub. L. 115–232, §836(c)(8)(B), which directed the amendment of par. (2)(A) by substituting "commercial product" for "commercial item" in cls. (i) and (ii), could not be executed because of the intervening amendment by Pub. L. 115–232, §865, which struck out par. (2). See above.
+
+Pub. L. 115–232, §836(c)(8)(A), which directed the amendment of par. (1) by substituting "commercial products" for "commercial items" and, in two places, "commercial products" for "the item", was executed to subsec. (f) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 115–232, §865, which struck out the par. (1) designation. See above.
+
+Subsec. (i). Pub. L. 115–232, §866(a), inserted "Prior to and" after "Rights and Liability" in heading, added par. (1), and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+
 <b>2015</b>—Subsec. (f)(2). Pub. L. 114–92 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor (other than technical data for a commercially available off-the-shelf item as defined in section 104 of title 41) for a major system or a subsystem or component thereof on the basis that the major system, subsystem or component was developed exclusively at private expense, the challenge to the use or release restriction shall be sustained unless information provided by the contractor or subcontractor demonstrates that the item was developed exclusively at private expense."
 
 <b>2014</b>—Subsec. (f)(2). Pub. L. 113–291 substituted "section 104 of title 41" for "section 35(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c))".
 
-<b>2011</b>—Subsec. (d)(2)(A). Pub. L. 112–81, §815(b)(1)(A), substituted "A challenge to a use or release restriction asserted by the contractor in accordance with applicable regulations may not be made under paragraph (1) after the end of the six-year period" for "Except as provided in subparagraph (C), a challenge to an asserteduse or release restriction may not be made under paragraph (1) after the end of the three-year period" in introductory provisions.
+<b>2011</b>—Subsec. (d)(2)(A). Pub. L. 112–81, §815(b)(1)(A), substituted "A challenge to a use or release restriction asserted by the contractor in accordance with applicable regulations may not be made under paragraph (1) after the end of the six-year period" for "Except as provided in subparagraph (C), a challenge to an asserted use or release restriction may not be made under paragraph (1) after the end of the three-year period" in introductory provisions.
 
 Pub. L. 111–383, §824(c)(1), substituted "Except as provided in subparagraph (C), a challenge" for "A challenge" in introductory provisions.
 
@@ -206,6 +222,12 @@ Pub. L. 100–26, §7(a)(5)(F), added subsec. (i).
 
 &emsp;"(2) require a response within 60 days justifying the current validity of the asserted restriction."
 
+#### Effective Date of 2018 Amendment
+
+Amendment by section 836(c)(8) of Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+
+Pub. L. 115–232, div. A, title VIII, §866(c), Aug. 13, 2018, 132 Stat. 1901, provided that: "The amendments madeby subsection (a) \[amending this section\] and the revision required by subsection (b) \[see note below\] shall become effective on the date of publication of the interim or final rule (whichever is earlier) required by subsection (b) and shall apply to solicitations issued by Department of Defense contracting activities after that date unless the senior procurement executive of the agency concerned grants a waiver on a case-by-case basis."
+
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
@@ -221,4 +243,12 @@ Amendment by Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 applicable
 #### Effective Date
 
 Section applicable with respect to solicitations issued after the end of the one-year period beginning Oct. 19, 1984, see section 1216(c)(2) of Pub. L. 98–525, set out as a note under section 2319 of this title.
+
+#### Revision of the Defense Federal Acquisition Regulation Supplement
+
+Pub. L. 115–232, div. A, title VIII, §866(b), Aug. 13, 2018, 132 Stat. 1901, provided that: "Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall revise the Defense Federal Acquisition Regulation Supplement, by interim or final rule, to implement the amendments made by subsection (a) \[amending this section\]."
+
+#### Guidance on Technical Data Right Negotiation
+
+Pub. L. 115–232, div. A, title VIII, §866(d), Aug. 13, 2018, 132 Stat. 1901, provided that: "The Secretary of Defense shall develop policies on the negotiation of technical data rights for noncommercial software that reflects the Department of Defense's needs for technical data rights in the event of a protest or replacement of incumbent contractor to meet defense requirements in the most cost effective manner."
 

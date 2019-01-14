@@ -6,7 +6,7 @@ The United States shall furnish, to an individual receiving medical benefits und
 
 #### (b) Persons furnishing benefits
 
-(1) These services, appliances, and supplies shall be furnished by or on the order of United States medical officers and hospitals, or, at the individual's option, by or on the order of physicians and hospitals designated or approved by the President.
+(1) These services, appliances, and supplies shall be furnished by or on the order of UnitedStates medical officers and hospitals, or, at the individual's option, by or on the order of physicians and hospitals designated or approved by the President.
 
 (2) The individual may initially select a physician to provide medical services, appliances, and supplies under this section in accordance with such regulations and instructions as the President considers necessary.
 

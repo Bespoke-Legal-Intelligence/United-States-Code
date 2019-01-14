@@ -34,5 +34,5 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 #### Delegation of Functions
 
-For assignment of functions of President under first sentence of subsec. (a) of this section, see section 1(c) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, and section 1(a) of Ex. Ord. No. 13598, Jan. 27, 2012, 77 F.R.5371, set out as notes under section 301 of Title 3, The President.
+For assignment of functions of President under first sentence of subsec. (a) of this section, see section 1(c) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, and section 1(a) of Ex. Ord. No. 13598, Jan. 27, 2012, 77 F.R. 5371, set out as notes under section 301 of Title 3, The President.
 

@@ -6,7 +6,7 @@ There is hereby authorized to be appropriated for expenditure after October 1, 1
 
 #### (b) Services and facilities of Federal agencies; grants-in-aid; availability of appropriations in succeeding fiscal years
 
-(1) The government of the Northern Marianas in carrying out the purposes of this Act, Public Law 95–134, or Public Law 94–241 \[48 U.S.C. 1801 et seq.\], may utilize, to the extent practicable, the available services and facilities of agencies and instrumentalities of the Federal Government on a reimbursable basis. Such amounts may be credited to the appropriation or fund which provided the services and facilities. Agencies and instrumentalities of the Federal Government may, when practicable, make available to the government of the Northern Marianas, upon request of the Secretary, such services and facilities as they are equipped to render or furnish, and they may do so without reimbursement if otherwise authorized by law.
+(1) The government of the Northern Marianas in carrying out the purposes of this Act, Public Law 95–134, or Public Law 94–241 \[48 U.S.C. 1801 et seq.\], may utilize, to the extent practicable, the available services and facilities of agencies and instrumentalities of the Federal Government on a reimbursable basis. Such amounts may be credited to the appropriation or fund which provided the services and facilities. Agencies and instrumentalities of the Federal Government may, when practicable, make available to the government of the Northern Marianas, upon request of the Secretary, such services andfacilities as they are equipped to render or furnish, and they may do so without reimbursement if otherwise authorized by law.
 
 (2) Any funds made available to the Northern Mariana Islands under grant-in-aid programs by section 502 of the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America (Public Law 94–241), or pursuant to any other Act of Congress enacted after March 24, 1976, are hereby authorized to remain available until expended.
 
@@ -126,7 +126,7 @@ In general.—Except as provided in subparagraph (B), of the funds made availabl
 
 Exception.—If the Secretary determines that a pilot program described in subsection (b) is not feasible, the Secretary shall provide to the Commonwealth of the Northern Mariana Islands any unspent funds described in subparagraph (A), which shall—
 
-&emsp;&emsp;&emsp;"(i) be made available for obligation under the Commonwealth of the Northern Mariana Islands nutrition assistance program block grant in addition to any other funds made available for that grant; and
+&emsp;&emsp;&emsp;"(i) be made available for obligation under the Commonwealth of the Northern Mariana Islandsnutrition assistance program block grant in addition to any other funds made available for that grant; and
 
 &emsp;&emsp;&emsp;"(ii) remain available until expended."
 

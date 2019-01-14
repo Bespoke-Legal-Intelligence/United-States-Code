@@ -248,7 +248,7 @@ Section 3. (a) Upon consideration of the report of the Committee on Civil Servic
 
 (h) So far as practicable and consistent with good administration, the eligibles on any register for attorney positions and appointments for such register shall be apportioned among the several States and Territories and the District of Columbia upon the basis of population as ascertained in the last preceding census. The Office shall certify to the appointing officer for each vacancy all the eligibles on the appropriate register except those whose appointment would, in the determination of the Board, be inconsistent with the apportionment policy herein prescribed. The appointing officer shall make selections for any vacancy or vacancies in attorney positions from the register so certified, with sole reference to merit and fitness.
 
-(i) Any position affected by this section may be filled before appropriate registers have been established pursuant to this section only by a person whose appointment is approved by the Board. The Board may require as a condition of its approval that persons thus proposed for appointment pass a noncompetitive examination and may designate examining committees composed of persons within or without the Federal service to conduct such examinations. Persons whose appointment was approved by the Board prior to March 16,1942, and who pass a noncompetitive examination prescribed by the Board shall be eligible for a classified civil-service status after the expiration of six months from the date of appointment upon compliance with the provisions of Section 6 of Civil Service Rule II other than those provisions relating to examination. Effective March 16, 1942, all appointments to attorney and law clerk (trainee) positions shall be for the duration of the present war and for six months thereafter unless specifically limited to a shorter period.
+(i) Any position affected by this section may be filled before appropriate registers have been established pursuant to this section only by a person whose appointment is approved by the Board. The Board may require as a condition of its approval that persons thus proposed for appointment pass a noncompetitive examination and may designate examining committees composed of persons within or without the Federal service to conduct such examinations. Persons whose appointment was approved by the Board prior to March 16, 1942, and who pass a noncompetitive examination prescribed by the Board shall be eligible for a classified civil-service status after the expiration of six months from the date of appointment upon compliance with the provisions of Section 6 of Civil Service Rule II other than those provisions relating to examination. Effective March 16, 1942, all appointments to attorney and law clerk (trainee) positions shall be for the duration of the present war and for six months thereafter unless specifically limited to a shorter period.
 
 (j) The incumbent of any attorney position covered into the classified service by section 1 of this order may acquire a classified civil-service status in accordance with the provisions of Section 2(a) of the act of November 26, 1940 (54 Stat. 1211) or, in the discretion of the Board and when applicable, Section 6, of Civil Service Rule II: <i>Provided</i>, That the noncompetitive examination required thereunder shall be prescribed by the Office with the approval of the Board.
 
@@ -309,6 +309,8 @@ Ex. Ord. No. 13124, §2(b), June 4, 1999, 64 F.R. 31103.
 Ex. Ord. No. 13197, Jan. 18, 2001, 66 F.R. 7853.
 
 Ex. Ord. No. 13764, §1, Jan. 17, 2017, 82 F.R. 8115.
+
+Ex. Ord. No. 13843, §3(a), July 10, 2018, 83 F.R. 32756.
 
 #### Executive Order No. 10590
 
@@ -1014,6 +1016,76 @@ Sec. 8. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13842. Establishing an Exception to Competitive Examining Rules for Appointment to Certain Positions in the United States Marshals Service, Department of Justice
+
+Ex. Ord. No. 13842, July 10, 2018, 83 F.R. 32753, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Providing Appointment Authority</i>. (a) Good administration of the executive branch necessitates that the U.S. Marshals Service (USMS), a component of the Department of Justice, have a hiring authority that is currently available to other Federal law enforcement agencies and that would, among other things, enable the USMS to be competitive in recruiting high-quality Deputy U.S. Marshals and Criminal Investigators, to better hire and retain qualified individuals in certain duty locations, and to more expeditiously fill vacant positions consistent with law enforcement needs. Accordingly, it is appropriate to place Deputy U.S. Marshals and Criminal Investigators of the USMS in Schedule B of the excepted service, as it is impracticable to hold open competition or to applyusual competitive examining procedures for those positions related to Federal law enforcement.
+
+(b) Appointments to the positions identified in subsection (a) of this section:
+
+(i) may not be made to positions of a confidential or policy-determining character or to positions in the Senior Executive Service; and
+
+(ii) shall constitute Schedule B appointments that are:
+
+&emsp;(A) excepted from the competitive service; and
+
+&emsp;(B) subject to laws and regulations governing Schedule B appointments, including basic qualification standards established by the Director of the Office of Personnel Management (Director) for the applicable occupation and grade level.
+
+Sec. 2. <i>Providing Conversion Authority</i>. (a) Deputy U.S. Marshals and Criminal Investigators of the USMS appointed under Schedule B may, upon completion of 3 years of substantially continuous, fully satisfactory service, be converted non-competitively to career appointments, provided they meet the qualifications and other requirements established by the Director.
+
+(b) The Director shall prescribe such regulations as may be necessary to implement this order.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13843. Excepting Administrative Law Judges From the Competitive Service
+
+Ex. Ord. No. 13843, July 10, 2018, 83 F.R. 32755, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The Federal Government benefits from a professional cadre of administrative law judges (ALJs) appointed under section 3105 of title 5, United States Code, who are impartial and committed to the rule of law. As illustrated by the Supreme Court's recent decision in <i>Lucia</i> v. <i>Securities and Exchange Commission</i>, No. 17–130 (June 21, 2018), ALJs are often called upon to discharge significant duties and exercise significant discretion in conducting proceedings under the laws of the United States. As part of their adjudications, ALJs interact with the public on issues of significance. Especially given the importance of the functions they discharge—which may range from taking testimony and conducting trials to ruling on the admissibility of evidence and enforcing compliance with their orders—ALJs must display appropriate temperament, legal acumen, impartiality, and sound judgment. They must also clearly communicate their decisions to the parties who appear before them, the agencies that oversee them, and the public that entrusts them with authority.
+
+Previously, appointments to the position of ALJ have been made through competitive examination and competitive service selection procedures. The role of ALJs, however, has increased over time and ALJ decisions have, with increasing frequency, become the final word of the agencies they serve. Given this expanding responsibility for important agency adjudications, and as recognized by the Supreme Court in <i>Lucia</i>, at least some—and perhaps all—ALJs are "Officers of the United States" and thus subject to the Constitution's Appointments Clause, which governs who may appoint such officials.
+
+As evident from recent litigation, <i>Lucia</i> may also raise questions about the method of appointing ALJs, including whether competitive examination and competitive service selection procedures are compatible with the discretion an agency head must possess under the Appointments Clause in selecting ALJs. Regardless of whether those procedures would violate the Appointments Clause as applied to certain ALJs, there are sound policy reasons to take steps to eliminate doubt regarding the constitutionality of the method of appointing officials who discharge such significant duties and exercise such significant discretion.
+
+Pursuant to my authority under section 3302(1) of title 5, United States Code, I find that conditions of good administration make necessary an exception to the competitive hiring rules and examinations for the position of ALJ. These conditions include the need to provide agency heads with additional flexibility to assess prospective appointees without the limitations imposed by competitive examination and competitive service selection procedures. Placing the position of ALJ in the excepted service will mitigate concerns about undue limitations on the selection of ALJs, reduce the likelihood of successful Appointments Clause challenges, and forestall litigation in which such concerns have been or might be raised. This action will also give agencies greater ability and discretion to assess critical qualities in ALJ candidates, such as work ethic, judgment, and ability to meet the particular needs of the agency. These are all qualities individuals should have before wielding the significant authority conferred on ALJs, and each agency should be able to assess them without proceeding through complicated and elaborate examination processes or rating procedures that do not necessarily reflect the agency's particular needs. This change will also promote confidence in, and the durability of, agency adjudications.
+
+Sec. 2. <i>Excepted Service</i>. Appointments of ALJs shall be made under Schedule E of the excepted service, as established by section 3 of this order.
+
+Sec. 3. <i>Implementation</i>. (a) \[Amended Civil Service Rule VI.\]
+
+(b) The Director of the Office of Personnel Management (Director) shall:
+
+(i) adopt such regulations as the Director determines may be necessary to implement this order, including, as appropriate, amendments to or rescissions of regulations that are inconsistent with, or that would impede the implementation of, this order, giving particular attention to 5 CFR, part 212, subpart D; 5 CFR, part 213, subparts A and C; 5 CFR 302.101; and 5 CFR, part 930, subpart B; and
+
+(ii) provide guidance on conducting a swift, orderly transition from the existing appointment process for ALJs to the Schedule E process established by this order.
+
+Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented in a manner consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Improving the Federal Recruitment and Hiring Process
 
 Memorandum of President of the United States, May 11, 2010, 75 F.R. 27157, provided:
@@ -1100,7 +1172,7 @@ Sec. 5. <i>General Provisions</i>. (a) Except as expressly stated herein, nothin
 
 (c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-(d) The Director of the OPM, in consultation with the OMB, may grant an exception to any of the requirements set forth in section 1 of this memorandum to an agency that demonstrates that exceptional circumstances prevent it from complying with that requirement.
+(d) The Director of the OPM, in consultation with the OMB, may grant an exception to any of the requirements set forth in section 1 of this memorandum to anagency that demonstrates that exceptional circumstances prevent it from complying with that requirement.
 
 Sec. 6. <i>Publication</i>. The Director of the OPM is hereby authorized and directed to publish this memorandum in the Federal Register.
 
@@ -1112,7 +1184,7 @@ Memorandum of President of the United States, Jan. 31, 2014, 79 F.R. 7045, provi
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-The Federal Government is America's largest employer. While seeking to employ a talented and productive workforce, it has a responsibility to lead by example. Although executive departments and agencies\(agencies) generally can, and do, take job applicants' employment history and other factors into account when making hiring decisions, it is the policy of my Administration that applicants should not face undue obstacles to Federal employment because they are unemployed or face financial difficulties. The Government must continue to take steps to ensure the fair treatment of applicants, as well as incumbent Federal employees, who face financial difficulties through no fault of their own and make good faith efforts to meet those obligations. Therefore, I hereby direct as follows:
+The Federal Government is America's largest employer. While seeking to employ a talented and productive workforce, it has a responsibility to lead by example. Although executive departments and agencies (agencies) generally can, and do, take job applicants' employment history and other factors into account when making hiring decisions, it is the policy of my Administration that applicants should not face undue obstacles to Federal employment because they are unemployed or face financial difficulties. The Government must continue to take steps to ensure the fair treatment of applicants, as well as incumbent Federal employees, who face financial difficulties through no fault of their own and make good faith efforts to meet those obligations. Therefore, I hereby direct as follows:
 
 Section 1. <i>Individuals Who Are Unemployed or Facing Financial Difficulty</i>. (a) Agencies shall not make an unfavorable determination with respect to the suitability, fitness, or qualifications of an applicant for Federal employment because that applicant:
 

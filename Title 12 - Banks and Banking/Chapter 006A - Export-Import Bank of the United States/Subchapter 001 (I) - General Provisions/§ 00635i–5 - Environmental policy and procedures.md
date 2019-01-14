@@ -24,7 +24,7 @@
 
 #### (2) Limitations on authorization of appropriations
 
-&emsp;In addition to other funds available to support the export of goods and services describedin paragraph (1), there are authorized to be appropriated to the Bank not more than $35,000,000 for the cost (as defined in section 661a(5) of title 2) of supporting such exports. If, in any fiscal year, the funds appropriated in accordance with this paragraph are not fully utilized due to insufficient qualified transactions for the export of such goods and services, such funds may be expended for other purposes eligible for support by the Bank.
+&emsp;In addition to other funds available to support the export of goods and services described in paragraph (1), there are authorized to be appropriated to the Bank not more than $35,000,000 for the cost (as defined in section 661a(5) of title 2) of supporting such exports. If, in any fiscal year, the funds appropriated in accordance with this paragraph are not fully utilized due to insufficient qualified transactions for the export of such goods and services, such funds may be expended for other purposes eligible for support by the Bank.
 
 #### (c) Inclusion in report to Congress
 
@@ -54,5 +54,5 @@ A prior section 11 of act July 31, 1945, ch. 341, was renumbered section 9 and i
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 applicable with respect to fiscal year 2016 and each fiscal year thereafter, see section 54002(e) of Pub. L. 114–94, set out as a note under section 635 of this title.
+Amendment by Pub. L. 114–94 applicable with respect to fiscal year 2016 and each fiscal year thereafter, seesection 54002(e) of Pub. L. 114–94, set out as a note under section 635 of this title.
 

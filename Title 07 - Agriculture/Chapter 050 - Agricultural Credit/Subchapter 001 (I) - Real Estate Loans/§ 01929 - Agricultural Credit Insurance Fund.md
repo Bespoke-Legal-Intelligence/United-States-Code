@@ -14,7 +14,7 @@ The Secretary is authorized to make and issue notes to the Secretary of the Trea
 
 #### (d) Notes and security as part of fund; collection or sale of notes; deposit of net proceeds in fund
 
-Notes and security acquired by the Secretary in connection with loans insured under this subchapter and under prior authority shall become a part of the fund. Notes may be held in the fund and collected in accordance with their terms or may be sold by the Secretary with or without agreements for insurance thereof at the balance due thereon, or on such other basis as the Secretary may determine from time to time. All net proceeds from such collections, includingsales of notes or property, shall be deposited in and become a part of the fund.
+Notes and security acquired by the Secretary in connection with loans insured under this subchapter and under prior authority shall become a part of the fund. Notes may be held in the fund and collected in accordance with their terms or may be sold by the Secretary with or without agreements for insurance thereof at the balance due thereon, or on such other basis as the Secretary may determine from time to time. All net proceeds from such collections, including sales of notes or property, shall be deposited in and become a part of the fund.
 
 #### (e) Deposit in fund of portion of charge on outstanding principal obligations; availability of remainder of charge, and merger with appropriations, for administrative expenses
 
@@ -102,7 +102,7 @@ The Secretary may guarantee under this chapter a loan made under a State beginni
 
 Section 11(a) of the Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), refers to section 11(a) of act July 22, 1937, ch. 517, title I, as added Aug. 14, 1946, ch. 964, §5, 60 Stat. 1072, which was classified to section 1005a of this title and was repealed by section 341(a) of Pub. L. 87–128.
 
-For definition of "this chapter", referred to in subsecs. (f)(5), (h)(1), (2), (4), (5), and (j), see note set out under section 1921 of this title.
+This chapter, referred to in subsecs. (f)(5), (h)(1), (2), (4), (5), and (j), was in the original "this title", meaningtitle III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 Section 1988(c) of this title (before the amendment made by section 749(a)(1) of the Federal Agriculture Improvement and Reform Act of 1996), referred to in subsec. (g)(1), means subsec. (c) of section 1988 of this title prior to repeal by section 749(a)(1) of Pub. L. 104–127.
 
@@ -200,7 +200,7 @@ Membership.—The Secretary shall appoint the members of the Advisory Committee.
 
 #### Limitation on Sales From Agricultural Credit Insurance Fund
 
-Pub. L. 99–509, title I, §1002, Oct. 21, 1986, 100 Stat. 1875, provided that: "During fiscal years 1987 through 1989, no note shall be sold out of the Agricultural Credit Insurance Fund, except in connection with transactions with the Secretary of the Treasury, without prior approval by Congress."
+Pub. L. 99–509, title I, §1002, Oct. 21, 1986, 100 Stat. 1875, provided that: "During fiscal years 1987 through1989, no note shall be sold out of the Agricultural Credit Insurance Fund, except in connection with transactions with the Secretary of the Treasury, without prior approval by Congress."
 
 #### Loans to Indians
 

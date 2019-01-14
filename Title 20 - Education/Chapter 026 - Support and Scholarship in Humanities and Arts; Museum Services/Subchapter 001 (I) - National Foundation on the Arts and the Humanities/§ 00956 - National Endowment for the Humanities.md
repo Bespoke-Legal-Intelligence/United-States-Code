@@ -48,7 +48,7 @@ The total amount of any grant under subsection (c)(3) to any group engaging in w
 
 (1) The Chairperson, with the advice of the National Council on the Humanities, is authorized, in accordance with the provisions of this subsection, to establish and carry out a program of grants-in-aid in each of the several States in order to support not more than 50 per centum of the cost of existing activities which meet the standards enumerated in subsection (c) of this section, and in order to develop a program in the humanities in such a manner as will furnish adequate programs in the humanities in each of the several States.
 
-(2)(A) Whenever a State desires to designate or to provide for the establishment of a State agency as the sole agency for the administration of the State plan, such State shall designate the humanities council in existence on the date the State agency is established as the State agency, and shall match from State funds a sum equal to 50 per centum of that portion of Federal financial assistance received by such State under this subsection which is described in the first sentence of paragraph (4) relating to the minimum State grant, or 25 per centum of the total amount of Federal financial assistance received by such State under this subsection, whichever is greater, for the fiscal year involved. In anyState in which the State selects the option described in this subparagraph, the State shall submit, before the beginning of each fiscal year, an application for grants and accompany such application with a plan which the Chairperson finds—
+(2)(A) Whenever a State desires to designate or to provide for the establishment of a State agency as the sole agency for the administration of the State plan, such State shall designate the humanities council in existence on the date the State agency is established as the State agency, and shall match from State funds a sum equal to 50 per centum of that portion of Federal financial assistance received by such State under this subsection which is described in the first sentence of paragraph (4) relating to the minimum State grant, or 25 per centum of the total amount of Federal financial assistance received by such State under this subsection, whichever is greater, for the fiscal year involved. In any State in which the State selects the option described in this subparagraph, the State shall submit, before the beginning of each fiscal year, an application for grants and accompany such application with a plan which the Chairperson finds—
 
 &emsp;(i) designates or provides for the establishment of a State agency (hereinafter in this section referred to as the "State agency") as the sole agency for the administration of the State plan;
 
@@ -118,7 +118,7 @@ The total amount of any grant under subsection (c)(3) to any group engaging in w
 
 > No application may be approved unless the accompanying plan satisfies the requirements specified in this subsection.
 
-(4) Of the sums available to carry out this subsection for any fiscal year, each State and each grant recipient which has a plan approved by the Chairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States and grant recipients in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
+(4) Of the sums available to carry out this subsection for any fiscal year, each State and each grant recipient which has a plan approved by theChairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States and grant recipients in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
 
 &emsp;(A) 34 per centum of the amount of such excess for such fiscal year shall be available to the Chairperson for making grants under this subsection to States and regional groups and entities applying for such grants;
 
@@ -154,7 +154,7 @@ The total amount of any grant under subsection (c)(3) to any group engaging in w
 
 > the Chairperson shall immediately notify the Secretary of the Treasury and the group, State agency, or grant recipient with respect to which such finding was made that no further grants will be made under this subsection to such group, State agency, or grant recipient until there is no longer a default or failure to comply or the diversion has been corrected, or, if the compliance or correction is impossible, until such group, State agency, or grant recipient repays or arranges the repayment of the Federal funds which have been improperly diverted or expended.
 
-(8) Except as provided in the third sentence of paragraph (4), and paragraphs (5) and (6), theChairperson may not make grants under this subsection to more than one entity in any State.
+(8) Except as provided in the third sentence of paragraph (4), and paragraphs (5) and (6), the Chairperson may not make grants under this subsection to more than one entity in any State.
 
 #### (g) Payment of performers and supporting personnel; standards, regulations, and procedures
 
@@ -270,7 +270,7 @@ Subsecs. (j) to (l). Pub. L. 99–194, §107(6), added subsecs. (j) to (l).
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–496, §109(c), substituted "Committee on Labor and Human Resources" for "Committee on Labor and Public Welfare" in last sentence.
 
-Subsec. (f)(2). Pub. L. 96–496, §104(a)(1), substituted provisions relating to the designation of State humanities councils as State administrative agencies, requiring matching State funding and submission by States wishing to designate administrative State agencies of grant applications and accompanying administrative plans, and prescribing a grant recipient application procedure for provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans.
+Subsec. (f)(2). Pub. L. 96–496, §104(a)(1), substituted provisions relating to the designation of State humanities councils as State administrative agencies, requiring matching State funding and submission by Stateswishing to designate administrative State agencies of grant applications and accompanying administrative plans, and prescribing a grant recipient application procedure for provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans.
 
 Subsec. (f)(3). Pub. L. 96–496, §104(a)(2), substituted provisions requiring entities desiring to receive financial assistance under this subsection to submit grant applications and accompanying administrative plans for provisions relating to the appointment of grant recipient members.
 

@@ -26,7 +26,7 @@ Control of Land.—
 
 &emsp;(1)
 
-Land in the district of columbia.—Land acquired in the District of Columbia shall be a part of the park system of the District of Columbia and be under the control of the Director of the National Park Service. The National Capital Planning Commission may assign areas suitable for playground purposes to the control of the Mayor of the District of Columbia for playground purposes.
+Land in the district of columbia.—Land acquired in the District of Columbia shall be a part of the park system of the District of Columbia and be under the control of the Director of the National Park Service. The NationalCapital Planning Commission may assign areas suitable for playground purposes to the control of the Mayor of the District of Columbia for playground purposes.
 
 &emsp;(2)
 

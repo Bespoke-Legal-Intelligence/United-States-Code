@@ -22,7 +22,7 @@ The Secretary of the Treasury shall deduct from the Czechoslovakian Claims Fund 
 
 #### (f) Disposition of balance of Fund
 
-After the deduction for administrative expenses pursuant to subsection (e) of this section, and after payment of awards certified pursuant to section 1642i of this title, the balance remaining in the Fund, if any, shall be paid to Czechoslovakia in accordance with instructions to be provided by the Secretary of State.
+After the deduction for administrative expenses pursuant to subsection (e) of this section,and after payment of awards certified pursuant to section 1642i of this title, the balance remaining in the Fund, if any, shall be paid to Czechoslovakia in accordance with instructions to be provided by the Secretary of State.
 
 (Mar. 10, 1950, ch. 54, title IV, §402, as added Pub. L. 85–604, §1, Aug. 8, 1958, 72 Stat. 527.)
 

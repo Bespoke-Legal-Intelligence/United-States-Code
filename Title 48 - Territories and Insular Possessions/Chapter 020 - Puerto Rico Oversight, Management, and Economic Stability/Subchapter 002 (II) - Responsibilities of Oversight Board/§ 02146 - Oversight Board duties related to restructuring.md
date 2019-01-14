@@ -20,7 +20,7 @@ The Oversight Board, prior to issuing a restructuring certification regarding an
 
 #### (b) Issuance of restructuring certification
 
-The issuance of a restructuring certification under this section requires a vote of no fewer than 5 members of the Oversight Board in the affirmative, which shall satisfy the requirement set forth in section 2162(2) of this title.
+The issuance of a restructuring certification under this section requires a vote of no fewerthan 5 members of the Oversight Board in the affirmative, which shall satisfy the requirement set forth in section 2162(2) of this title.
 
 (Pub. L. 114–187, title II, §206, June 30, 2016, 130 Stat. 574.)
 

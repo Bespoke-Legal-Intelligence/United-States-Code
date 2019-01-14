@@ -50,7 +50,7 @@ Ex. Ord. No. 11605. July 2, 1971, 36 F.R. 12831, which amended Ex. Ord. No. 1045
 
 Ex. Ord. No. 11785, June 4, 1974, 39 F.R. 20053, provided:
 
-By virtue of the authority vested in me by the Constitution and statutes of the United States, including 5U.S.C. 1101 <i>et seq.,</i> 3301, 3571, 7301, 7313, 7501(c), 7512, 7532, and 7533; and as President of the United States, and finding such action necessary in the best interests of national security, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Constitution and statutes of the United States, including 5 U.S.C. 1101 <i>et seq.,</i> 3301, 3571, 7301, 7313, 7501(c), 7512, 7532, and 7533; and as President of the United States, and finding such action necessary in the best interests of national security, it is hereby ordered as follows:
 
 Section 1. Section 12 of Executive Order No. 10450 of April 27, 1953, as amended \[set out as a note under this section\], is revised to read in its entirety as follows:
 

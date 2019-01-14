@@ -4,7 +4,7 @@ Whoever willfully injures or commits any depredation against any property of the
 
 If the damage or attempted damage to such property exceeds the sum of $1,000, by a fine under this title or imprisonment for not more than ten years, or both; if the damage or attempted damage to such property does not exceed the sum of $1,000, by a fine under this title or by imprisonment for not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 103–322, title XXXII, §320903(d)(1), title XXXIII,§330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2125, 2147; Pub. L. 104–294, title VI, §§601(a)(3), 605(e), 606(a), Oct. 11, 1996, 110 Stat. 3498, 3510, 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 103–322, title XXXII, §320903(d)(1), title XXXIII, §330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2125, 2147; Pub. L. 104–294, title VI, §§601(a)(3), 605(e), 606(a), Oct. 11, 1996, 110 Stat. 3498, 3510, 3511.)
 
 #### Historical and Revision Notes
 
@@ -30,7 +30,7 @@ Pub. L. 104–294, §§601(a)(3), 606(a), in second par., substituted "fine unde
 
 <b>1994</b>—Pub. L. 103–322, §320903(d)(1)(A), inserted "or attempts to commit any of the foregoing offenses" before "shall be punished" in first par.
 
-Pub. L. 103–322, §330016(1)(H), (L), in second par., substituted "under this title" for "not more than $10,000" before "or imprisonment for not more than ten years" and for "not more than $1,000" before "or by imprisonment for not more than one year".
+Pub. L. 103–322, §330016(1)(H), (L), in second par., substituted "under this title" for "not more than $10,000"before "or imprisonment for not more than ten years" and for "not more than $1,000" before "or by imprisonment for not more than one year".
 
 Pub. L. 103–322, §320903(d)(1)(B), inserted "or attempted damage" after "damage" in two places in second par.
 

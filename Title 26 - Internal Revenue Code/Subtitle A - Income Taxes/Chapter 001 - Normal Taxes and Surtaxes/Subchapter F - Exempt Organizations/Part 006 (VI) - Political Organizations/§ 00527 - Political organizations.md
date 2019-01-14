@@ -212,7 +212,7 @@ For purposes of this section—
 
 #### (2) Time to give notice
 
-&emsp;The notice required under paragraph (1) shall be transmitted not later than 24 hours after the date on which the organization is established or, in the case of any material change in the information required under paragraph (3), not later than 30 days after such material change.
+&emsp;The notice required under paragraph (1) shall be transmitted not later than 24 hoursafter the date on which the organization is established or, in the case of any material change in the information required under paragraph (3), not later than 30 days after such material change.
 
 #### (3) Contents of notice
 

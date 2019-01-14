@@ -18,7 +18,7 @@ Public comment.—In developing a system of classification under paragraph (1), 
 
 &emsp;(3)
 
-Final classification.—After providing for public review and comment, and after consulting with the Administrator, the Board shall issue final classifications. The Board shall ensure that air travel accident covered under this section is classified in accordance with the final classifications issued under this section for data for calendar year 1997, and for each subsequent calendar year.
+Final classification.—After providing for public review and comment, and after consulting with the Administrator, the Board shall issue final classifications. The Board shall ensure that air travel accident covered under this section is classified in accordancewith the final classifications issued under this section for data for calendar year 1997, and for each subsequent calendar year.
 
 &emsp;(4)
 
@@ -56,5 +56,29 @@ The date of the enactment of this section, referred to in subsecs. (a) and (b)(1
 
 #### Effective Date
 
-Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30,1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+
+#### Multimodal Accident Database Management System
+
+Pub. L. 115–254, div. C, §1108, Oct. 5, 2018, 132 Stat. 3433, provided that:
+
+"(a)
+
+Establishment.—Not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], the \[National Transportation Safety\] Board shall establish and maintain a multimodal accident database management system for Board investigators.
+
+"(b)
+
+Purposes.—The purposes of the system shall be to support the Board in improving—
+
+&emsp;"(1) the quality of accident data the Board makes available to the public; and
+
+&emsp;"(2) the selection of accidents for investigation and allocation of limited resources.
+
+"(c)
+
+Requirements.—The system shall—
+
+&emsp;"(1) maintain a historical record of accidents that are investigated by the Board; and
+
+&emsp;"(2) be capable of the secure storage, retrieval, and management of information associated with the investigations of such accidents."
 

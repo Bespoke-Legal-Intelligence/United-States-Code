@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 &emsp;(d) "lists of actual voters" shall mean the official lists of persons actually voting in either the most recent State or the most recent Federal general election;
 
-&emsp;(e) "division" shall mean: (1) one or more statutory divisions of a judicial district; or (2)in statutory divisions that contain more than one place of holding court, or in judicial districts where there are no statutory divisions, such counties, parishes, or similar political subdivisions surrounding the places where court is held as the district court plan shall determine: <i>Provided</i>, That each county, parish, or similar political subdivision shall be included in some such division;
+&emsp;(e) "division" shall mean: (1) one or more statutory divisions of a judicial district; or (2) in statutory divisions that contain more than one place of holding court, or in judicial districts where there are no statutory divisions, such counties, parishes, or similar political subdivisions surrounding the places where court is held as the district court plan shall determine: <i>Provided</i>, That each county, parish, or similar political subdivision shall be included in some such division;
 
 &emsp;(f) "district court of the United States", "district court", and "court" shall mean any district court established by chapter 5 of this title, and any court which is created by Act of Congress in a territory and is invested with any jurisdiction of a district court established by chapter 5 of this title;
 
@@ -20,7 +20,7 @@ For purposes of this chapter—
 
 &emsp;(i) "public officer" shall mean a person who is either elected to public office or who is directly appointed by a person elected to public office;
 
-&emsp;(j) "undue hardship or extreme inconvenience", as a basis for excuse from immediate jury service under section 1866(c)(1) of this chapter, shall mean great distance, either in miles or traveltime, from the place of holding court, grave illness in the family or any other emergency which outweighs in immediacy and urgency the obligation to serve as a juror when summoned, or any other factor which the court determines to constitute an undue hardship or to create an extreme inconvenience to the juror; and in addition, in situations where it is anticipated that a trial or grand jury proceeding may require more than thirty days of service, the court may consider, as a further basis for temporary excuse, severe economic hardship to an employer which would result from the absence of a key employee during the period of such service; and
+&emsp;(j) "undue hardship or extreme inconvenience", as a basis for excuse from immediate jury service under section 1866(c)(1) of this chapter, shall mean great distance, either in miles or traveltime, from the place of holding court, grave illness in the family or any other emergency which outweighs in immediacy and urgency the obligation to serve as a jurorwhen summoned, or any other factor which the court determines to constitute an undue hardship or to create an extreme inconvenience to the juror; and in addition, in situations where it is anticipated that a trial or grand jury proceeding may require more than thirty days of service, the court may consider, as a further basis for temporary excuse, severe economic hardship to an employer which would result from the absence of a key employee during the period of such service; and
 
 &emsp;(k) "jury summons" shall mean a summons issued by a clerk of court, jury commission, or their duly designated deputies, containing either a preprinted or stamped seal of court, and containing the name of the issuing clerk imprinted in preprinted, type, or facsimile manner on the summons or the envelopes transmitting the summons.
 
@@ -44,7 +44,7 @@ Subsec. (f). Pub. L. 100–702, §804, amended subsec. (f) generally. Prior to a
 
 <b>1986</b>—Subsec. (f). Pub. L. 99–650 struck out "except that for purposes of sections 1861, 1862, 1866(c), 1866(d), and 1867 of this chapter such terms shall include the Superior Court of the District of Columbia" after "Canal Zone Code;".
 
-<b>1978</b>—Subsec. (f). Pub. L. 95–598 directed the amendment of subsec. (f) by inserting "chapter 6 of title 28,United States Code," after "chapter 5 of title 28, United States Code,", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Subsec. (f). Pub. L. 95–598 directed the amendment of subsec. (f) by inserting "chapter 6 of title 28, United States Code," after "chapter 5 of title 28, United States Code,", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 Subsec. (h). Pub. L. 95–572, §3(b), struck out "by pardon or amnesty" after "civil rights restored".
 

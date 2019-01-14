@@ -122,9 +122,23 @@ The requirements of subsections (a) and (b) shall not apply with respect to mort
 
 &emsp;&emsp;The Bureau shall prescribe standards for any modification under paragraph (1)(E) to effectuate the purposes of this chapter, in light of the privacy interests of mortgage applicants or mortgagors. Where necessary to protect the privacy interests of mortgage applicants or mortgagors, the Bureau shall provide for the disclosure of information described in subparagraph (A) in aggregate or other reasonably modified form, in order to effectuate the purposes of this chapter.
 
-#### (i) Exemption from certain disclosure requirements
+#### (i) Exemptions
 
-The requirements of subsections (b)(4), (b)(5), and (b)(6) shall not apply with respect to any depository institution described in section 2802(2)(A) <sup>1</sup> of this title which has total assets, as of the most recent full fiscal year of such institution, of $30,000,000 or less.
+#### (1) Closed-end mortgage loans
+
+&emsp;With respect to an insured depository institution or insured credit union, the requirements of paragraphs (5) and (6) of subsection (b) shall not apply with respect to closed-end mortgage loans if the insured depository institution or insured credit union originated fewer than 500 closed-end mortgage loans in each of the 2 preceding calendar years.
+
+#### (2) Open-end lines of credit
+
+&emsp;With respect to an insured depository institution or insured credit union, the requirements of paragraphs (5) and (6) of subsection (b) shall not apply with respect to open-end lines of credit if the insured depository institution or insured credit union originated fewer than 500 open-end lines of credit in each of the 2 preceding calendar years.
+
+#### (3) <sup>2</sup> Required compliance
+
+&emsp;Notwithstanding paragraphs (1) and (2), an insured depository institution shall comply with paragraphs (5) and (6) of subsection (b) if the insured depository institution has received a rating of "needs to improve record of meeting community credit needs" during each of its 2 most recent examinations or a rating of "substantial noncompliance in meeting community credit needs" on its most recent examination under section 2906(b)(2) of this title.
+
+#### (3) <sup>2</sup> Exemption from certain disclosure requirements
+
+&emsp;The requirements of subsections (b)(4), (b)(5), and (b)(6) shall not apply with respect to any depository institution described in section 2802(3)(A) of this title which has total assets, as of the most recent full fiscal year of such institution, of $30,000,000 or less.
 
 #### (j) Loan application register information
 
@@ -152,7 +166,7 @@ The requirements of subsections (b)(4), (b)(5), and (b)(6) shall not apply with 
 
 #### (3) Change of form not required
 
-&emsp;A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in such formats as the Bureau may require <sup>2</sup>
+&emsp;A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in such formats as the Bureau may require <sup>3</sup>
 
 #### (4) Reasonable charge for information
 
@@ -230,7 +244,7 @@ The requirements of subsections (b)(4), (b)(5), and (b)(6) shall not apply with 
 
 #### (B) Provision of information upon request
 
-&emsp;&emsp;Not later than 15 days after the receipt of a written request for any information required to be compiled under subsection (a), the home office of the depository institutionreceiving the request shall provide the information pertinent to the location of the branch in question to the person requesting the information.
+&emsp;&emsp;Not later than 15 days after the receipt of a written request for any information required to be compiled under subsection (a), the home office of the depository institution receiving the request shall provide the information pertinent to the location of the branch in question to the person requesting the information.
 
 #### (2) Form of information
 
@@ -240,19 +254,33 @@ The requirements of subsections (b)(4), (b)(5), and (b)(6) shall not apply with 
 
 The data required to be disclosed under subsection (b) shall be submitted to the Bureau or to the appropriate agency for any institution reporting under this chapter, in accordance with regulations prescribed by the Bureau. Institutions shall not be required to report new data under paragraph (5) or (6) of subsection (b) before the first January 1 that occurs after the end of the 9-month period beginning on the date on which regulations are issued by the Bureau in final form with respect to such disclosures.
 
-(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title I \[title VII, §701(a)\], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416; Pub. L. 111–203, title X, §1094(1), (3), July 21, 2010, 124 Stat. 2097.)
+#### (o) Definitions
+
+In this section—
+
+&emsp;(1) the term "insured credit union" has the meaning given the term in section 1752 of this title; and
+
+&emsp;(2) the term "insured depository institution" has the meaning given the term in section 1813 of this title.
+
+(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title I \[title VII, §701(a)\], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416; Pub. L. 111–203, title X, §1094(1), (3), July 21, 2010, 124 Stat. 2097; Pub. L. 115–174, title I, §104(a), (c), May 24, 2018, 132 Stat. 1300, 1301.)
 
 #### References in Text
 
 For the effective date of this chapter, referred to in subsec. (a)(1), see section 2808 of this title.
 
-The National Housing Act, referred to in subsecs. (b)(1) and (g)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the National Housing Act are classified generally to subchapters I (§1702 et seq.) and II (§1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsecs. (b)(1) and (g)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the National Housing Act are classified generally to subchapters I (§1702 et seq.) and II (§1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-Section 2802(2)(A) of this title, referred to in subsecs. (h)(2)(B) and (i), was redesignated section 2802(3)(A) of this title by Pub. L. 111–203, title X, §1094(2)(A), July 21, 2010, 124 Stat. 2097.
+Section 2802(2)(A) of this title, referred to in subsec. (h)(2)(B), was redesignated section 2802(3)(A) of this title by Pub. L. 111–203, title X, §1094(2)(A), July 21, 2010, 124 Stat. 2097.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (i). Pub. L. 115–174, §104(a)(2), added subsec. (i), consisting of pars. (1) to (3), before par. (3) relating to exemption from certain disclosure requirements, which was formerly designated subsec. (i).
+
+Subsec. (i)(3). Pub. L. 115–174, §104(a)(1), (c), redesignated subsec. (i) as par. (3) relating to exemption from certain disclosure requirements, realigned margins, and substituted "2802(3)(A) of this title" for "2802(2)(A) of this title".
+
+Subsec. (o). Pub. L. 115–174, §104(a)(3), added subsec. (o).
 
 Subsec. (a)(1). Pub. L. 111–203, §1094(1), substituted "Bureau" for "Board".
 
@@ -346,5 +374,7 @@ Evaluation of status and effectiveness of data collection and analysis systems i
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
+<i><sup>2</sup></i><i> So in original. Two pars. (3) have been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
 

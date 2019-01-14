@@ -2,7 +2,17 @@
 
 #### (a) Definition of agricultural commodity
 
-In this section, the term "agricultural commodity" means an agricultural commodity, or a product of an agricultural commodity, that is produced in the United States.
+In this section, the term "agricultural commodity" means an agricultural commodity, or a product of an agricultural commodity, that—
+
+&emsp;(1) is produced in the United States; or
+
+&emsp;(2)(A) is produced in and procured from—
+
+&emsp;&emsp;(i) a developing country that is a recipient country; or
+
+&emsp;&emsp;(ii) a developing country in the same region as a recipient country; and
+
+&emsp;(B) at a minimum, meets each nutritional, quality, and labeling standard of the recipient country, as determined by the Secretary.
 
 #### (b) Program
 
@@ -28,7 +38,7 @@ Notwithstanding any other provision of law—
 
 &emsp;&emsp;(iv) the vessel freight charges from United States ports or designated Canadian transshipment ports, as determined by the Secretary, to designated ports of entry abroad;
 
-&emsp;&emsp;(v) the costs associated with transporting agricultural commodities from UnitedStates ports to designated points of entry abroad in the case—
+&emsp;&emsp;(v) the costs associated with transporting agricultural commodities from United States ports to designated points of entry abroad in the case—
 
 &emsp;&emsp;&emsp;(I) of landlocked countries;
 
@@ -36,9 +46,11 @@ Notwithstanding any other provision of law—
 
 &emsp;&emsp;&emsp;(III) of the unavailability of carriers to a specific country; or
 
-&emsp;&emsp;&emsp;(IV) of substantial savings in costs or time that may be effected by the utilization of points of entry other than ports; and
+&emsp;&emsp;&emsp;(IV) of substantial savings in costs or time that may be effected by the utilization of points of entry other than ports;
 
-&emsp;&emsp;(vi) the charges for general average contributions arising out of the ocean transport of agricultural commodities transferred pursuant thereto;
+&emsp;&emsp;(vi) the costs associated with transporting the commodities described in subsection (a)(2) from a developing country described in subparagraph (A)(ii) of that subsection to any designated point of entry within the recipient country; and
+
+&emsp;&emsp;(vii) the charges for general average contributions arising out of the ocean transport of agricultural commodities transferred pursuant thereto;
 
 &emsp;&emsp;(B) all or any part of the internal transportation, storage, and handling costs incurred in moving the eligible commodity, if the Secretary determines that—
 
@@ -82,9 +94,15 @@ Assistance may be provided under this section to private voluntary organizations
 
 &emsp;&emsp;(D) provide for the expedited development, review, and approval of proposals submitted in accordance with this section;
 
-&emsp;&emsp;(E) ensure monitoring and reporting by eligible entities on the use of commodities and other assistance provided under this section; and
+&emsp;&emsp;(E) ensure to the maximum extent practicable that assistance—
 
-&emsp;&emsp;(F) allow for the sale or barter of commodities by eligible entities to acquire funds to implement activities that improve the food security of women and children or otherwise enhance the effectiveness of programs and activities authorized under this section.
+&emsp;&emsp;&emsp;(i) is provided under this section in a timely manner; and
+
+&emsp;&emsp;&emsp;(ii) is available when needed throughout the applicable school year;
+
+&emsp;&emsp;(F) ensure monitoring and reporting by eligible entities on the use of commodities and other assistance provided under this section; and
+
+&emsp;&emsp;(G) allow for the sale or barter of commodities by eligible entities to acquire funds to implement activities that improve the food security of women and children or otherwise enhance the effectiveness of programs and activities authorized under this section.
 
 #### (2) Priorities for program funding
 
@@ -142,19 +160,33 @@ The requirement of section 1733(a) of this title applies with respect to the ava
 
 #### (2) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2018.
+&emsp;There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2023.
 
 #### (3) Administrative expenses
 
 &emsp;Funds made available to carry out this section may be used to pay the administrative expenses of the Department of Agriculture or any other Federal agency assisting in the implementation of this section.
 
-(Pub. L. 107–171, title III, §3107, May 13, 2002, 116 Stat. 295; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(G), 3106, June 18, 2008, 122 Stat. 1820, 1833; Pub. L. 113–79, title III, §3204, Feb. 7, 2014, 128 Stat. 780.)
+#### (4) Purchase of commodities
+
+&emsp;Of the funds made available to carry out this section, not more than 10 percent shall be used to purchase agricultural commodities described in subsection (a)(2).
+
+(Pub. L. 107–171, title III, §3107, May 13, 2002, 116 Stat. 295; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(G), 3106, June 18, 2008, 122 Stat. 1820, 1833; Pub. L. 113–79, title III, §3204, Feb. 7, 2014, 128 Stat. 780; Pub. L. 115–334, title III, §3309, Dec. 20, 2018, 132 Stat. 4622.)
 
 #### Codification
 
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Food for Peace Act which comprises this chapter.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–334, §3309(1), inserted dash after "that" and par. (1) designation before "is produced" and added par. (2).
+
+Subsec. (c)(2)(A)(vi), (vii). Pub. L. 115–334, §3309(2), added cl. (vi) and redesignated former cl. (vi) as (vii).
+
+Subsec. (f)(1)(E) to (G). Pub. L. 115–334, §3309(3), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+
+Subsec. (l)(2). Pub. L. 115–334, §3309(4)(A), substituted "2023" for "2018".
+
+Subsec. (l)(4). Pub. L. 115–334, §3309(4)(B), added par. (4).
 
 <b>2014</b>—Subsec. (d). Pub. L. 113–79, §3204(b), struck out "to" after "shall" in introductory provisions.
 

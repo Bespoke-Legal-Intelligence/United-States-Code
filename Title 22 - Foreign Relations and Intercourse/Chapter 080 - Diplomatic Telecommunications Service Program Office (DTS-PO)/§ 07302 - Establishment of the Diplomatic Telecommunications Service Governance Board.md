@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;There is established the Diplomatic Telecommunications Service Governance Board todirect and oversee the activities and performance of the DTS–PO.
+&emsp;There is established the Diplomatic Telecommunications Service Governance Board to direct and oversee the activities and performance of the DTS–PO.
 
 #### (2) Executive Agent.—
 
@@ -44,7 +44,7 @@
 
 #### (B) Nonvoting members
 
-&emsp;&emsp;The nonvoting members shall consist of the members appointed by departments and agencies designated under paragraph (1)(B) and shall act in an advisory capacity.
+&emsp;&emsp;The nonvoting members shall consist of the members appointed by departments andagencies designated under paragraph (1)(B) and shall act in an advisory capacity.
 
 #### (c) Chair duties and authorities
 

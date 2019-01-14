@@ -28,7 +28,7 @@ The Farm Credit Administration shall prescribe rules requiring the institutions 
 
 &emsp;(2) to present and explore debt restructuring proposals advanced in the course of such mediation.
 
-(Pub. L. 100–233, title V, §503, Jan. 6, 1988, 101 Stat. 1663; Pub. L. 100–399, title V, §502, Aug. 17, 1988, 102 Stat. 1005; Pub. L. 103–354, title II, §282(b), Oct. 13, 1994, 108 Stat. 3234.)
+(Pub. L. 100–233, title V, §503, Jan. 6, 1988, 101 Stat. 1663; Pub. L. 100–399, title V, §502, Aug. 17,1988, 102 Stat. 1005; Pub. L. 103–354, title II, §282(b), Oct. 13, 1994, 108 Stat. 3234.)
 
 #### Amendments
 

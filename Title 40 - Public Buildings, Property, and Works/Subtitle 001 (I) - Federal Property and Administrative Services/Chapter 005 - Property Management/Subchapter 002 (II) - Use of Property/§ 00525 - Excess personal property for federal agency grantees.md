@@ -30,7 +30,7 @@ Exception for Certain Property Furnished by Secretary of Agriculture.—
 
 &emsp;(1)
 
-Definition.—In this subsection, the term "State" means a State of the United States,Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau, the Virgin Islands, and the District of Columbia.
+Definition.—In this subsection, the term "State" means a State of the United States, Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau, the Virgin Islands, and the District of Columbia.
 
 &emsp;(2)
 

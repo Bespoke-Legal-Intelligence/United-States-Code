@@ -86,7 +86,7 @@ Memorial day.—The term 'Memorial Day' means the legal public holiday designate
 
 &emsp;"(5)
 
-Tribal government.—The term 'tribal government' means the governing body of an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b) \[now 25 U.S.C. 5304\]\[)\].
+Tribal government.—The term 'tribal government' means the governing body of an Indian tribe\(as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b) \[now 25 U.S.C. 5304\]\[)\].
 
 #### "SEC. 4. NATIONAL MOMENT OF REMEMBRANCE.
 

@@ -46,7 +46,7 @@ In this chapter:
 
 #### (9) Shelter
 
-&emsp;The term "shelter" means the provision of temporary refuge and supportive services in compliance with applicable State law (including regulation) governing the provision, on a regular basis, of shelter, safe homes, meals,and supportive services to victims of family violence, domestic violence, or dating violence, and their dependents.
+&emsp;The term "shelter" means the provision of temporary refuge and supportive services in compliance with applicable State law (including regulation) governing the provision, on a regular basis, of shelter, safe homes, meals, and supportive services to victims of family violence, domestic violence, or dating violence, and their dependents.
 
 #### (10) State
 

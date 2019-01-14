@@ -98,7 +98,7 @@ The State agency shall have in effect safeguards on the integrity, accuracy, and
 
 #### (f) Information comparisons and other disclosures of information
 
-The State shall use the automated system required by this section to extract information from (at such times, and in such standardized format or formats, as may be required by the Secretary), to share and compare information with, and to receive information from, other data bases and information comparison services, in order to obtain (or provide) information necessary to enable the State agency (or the Secretary or other State or Federal agencies) to carry out this part, subject to section 6103 of the Internal Revenue Code of 1986. Such informationcomparison activities shall include the following:
+The State shall use the automated system required by this section to extract information from (at such times, and in such standardized format or formats, as may be required by the Secretary), to share and compare information with, and to receive information from, other data bases and information comparison services, in order to obtain (or provide) information necessary to enable the State agency (or the Secretary or other State or Federal agencies) to carry out this part, subject to section 6103 of the Internal Revenue Code of 1986. Such information comparison activities shall include the following:
 
 #### (1) Federal Case Registry of Child Support Orders
 
@@ -182,7 +182,7 @@ Amendment by section 312(c) of Pub. L. 104–193 effective Oct. 1, 1998, with li
 
 #### Effective Date
 
-For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193,set out as an Effective Date of 1996 Amendment note under section 654 of this title.
+For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as an Effective Date of 1996 Amendment note under section 654 of this title.
 
 #### Regulations
 

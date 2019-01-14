@@ -58,5 +58,5 @@ Coordination and Cooperation.—To the degree practicable, the Director shall, i
 
 Veterans Service Organization Defined.—In this section, the term 'veterans service organization' means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under section 5902 of title 38, United States Code."
 
-<i><sup>1</sup></i><i> So in original. Probably should be complementary.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "complementary".</i>
 

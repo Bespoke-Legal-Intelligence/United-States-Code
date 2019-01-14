@@ -18,6 +18,208 @@ Primary Purpose of Assistance.—The assistance authorized by this section shoul
 
 Pub. L. 107–314, div. A, title VI, §652(b), Dec. 2, 2002, 116 Stat. 2581, provided that: "Section 1788 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2002."
 
+#### Pilot Program for Military Families: Prevention of Child Abuse and Training on Safe Childcare Practices
+
+Pub. L. 115–232, div. A, title V, §578, Aug. 13, 2018, 132 Stat. 1783, provided that:
+
+"(a)
+
+Pilot Program.—
+
+&emsp;"(1)
+
+Purpose.—In order to reduce child abuse and fatalities due to abuse or neglect in covered households, the Secretary of Defense, acting through the Defense Health Agency, shall carry out a pilot program to—
+
+&emsp;&emsp;"(A) provide information regarding safe childcare practices to covered households;
+
+&emsp;&emsp;"(B) identify and assess risk factors for child abuse in covered households; and
+
+&emsp;&emsp;"(C) facilitate connections between covered households and community resources.
+
+&emsp;"(2)
+
+Prohibition on delegation.—The Secretary may not carry out the pilot program through the Family Advocacy Program.
+
+&emsp;"(3)
+
+Locations.—The Secretary shall carry out the pilot program at no fewer than five military installations that reflect a range of characteristics including the following:
+
+&emsp;&emsp;"(A) Urban location.
+
+&emsp;&emsp;"(B) Rural location.
+
+&emsp;&emsp;"(C) Large population.
+
+&emsp;&emsp;"(D) Small population.
+
+&emsp;&emsp;"(E) High incidence of child abuse, neglect, or both.
+
+&emsp;&emsp;"(F) Low incidence of child abuse, neglect, or both.
+
+&emsp;&emsp;"(G) Presence of a hospital or clinic.
+
+&emsp;&emsp;"(H) Lack of a hospital or clinic.
+
+&emsp;&emsp;"(I) Joint installation.
+
+&emsp;&emsp;"(J) Serving only one Armed Force.
+
+&emsp;"(4)
+
+Term.—The pilot program shall terminate two years after implementation.
+
+&emsp;"(5)
+
+Design.—The Secretary shall design the pilot program in consultation with military family groups to respond to the needs of covered households.
+
+&emsp;"(6)
+
+Elements.—The pilot program shall include the following elements:
+
+&emsp;&emsp;"(A) Postnatal services, including screening to identify family needs and potential risk factors, and make referrals to appropriate community services with the use of the electronic data described in subparagraphs (F) and (G).
+
+&emsp;&emsp;"(B) The Secretary shall identify at least three approaches to screening, identification, and referral under subparagraph (A) that empirically improve outcomes for parents and infants.
+
+&emsp;&emsp;"(C) Services and resources designed for a covered household by the Secretary after considering the information gained from the screening and identification under subparagraph (A). Such services and resources may include or address the following:
+
+&emsp;&emsp;&emsp;"(i) General maternal and infant health exam.
+
+&emsp;&emsp;&emsp;"(ii) Safe sleeping environments.
+
+&emsp;&emsp;&emsp;"(iii) Feeding and bathing.
+
+&emsp;&emsp;&emsp;"(iv) Adequate child supervision.
+
+&emsp;&emsp;&emsp;"(v) Common hazards.
+
+&emsp;&emsp;&emsp;"(vi) Self-care.
+
+&emsp;&emsp;&emsp;"(vii) Postpartum depression, substance abuse, or domestic violence.
+
+&emsp;&emsp;&emsp;"(viii) Community violence.
+
+&emsp;&emsp;&emsp;"(ix) Skills for management of infant crying.
+
+&emsp;&emsp;&emsp;"(x) Other positive parenting skills and practices.
+
+&emsp;&emsp;&emsp;"(xi) The importance of participating in ongoing healthcare for an infant and for treating postpartum depression.
+
+&emsp;&emsp;&emsp;"(xii) Finding, qualifying for, and participating in available community resources with respect to infant care, childcare, parenting support, and home visits.
+
+&emsp;&emsp;&emsp;"(xiii) Planning for parenting or guardianship of children during deployment and reintegration.
+
+&emsp;&emsp;&emsp;"(xiv) Such other matters as the Secretary, in consultation with military families, considers appropriate.
+
+&emsp;&emsp;"(D) Home visits to provide support, screening and referral services shall be offered as needed. The number of visits offered shall be guided by parental interest and family need, but in general is expected to be no more than three.
+
+&emsp;&emsp;"(E) If a parent is deployed at the time of birth—
+
+&emsp;&emsp;&emsp;"(i) the first in-home visit under subparagraph (D) shall, to the extent practicable, incorporate both parents, in person with the local parent and by electronic means with the deployed parent; and
+
+&emsp;&emsp;&emsp;"(ii) another such home visit shall be offered upon the return of the parent from deployment, and shall include both parents, if determined in the best interest of the family.
+
+&emsp;&emsp;"(F) An electronic directory of community resources available to covered households and pilot program personnel to help covered households access such resources.
+
+&emsp;&emsp;"(G) An electronic integrated data system to—
+
+&emsp;&emsp;&emsp;"(i) help pilot program personnel refer eligible covered beneficiaries to services and resources under the pilot program;
+
+&emsp;&emsp;&emsp;"(ii) track usage of such services and resources and interactions between such personnel and covered households; and
+
+&emsp;&emsp;&emsp;"(iii) evaluate the implementation, outcomes, and effectiveness of the pilot program.
+
+"(b)
+
+Voluntary Participation.—Participation in the pilot program shall be at the election of a covered beneficiary in an eligible household.
+
+"(c)
+
+Outreach.—
+
+&emsp;"(1)
+
+In general.—Not later than 30 days after implementing the pilot program, the Secretary shall notify each covered household of the services provided under subsection (b).
+
+&emsp;"(2)
+
+Covered households with newborns.—No later than 30 days after a birth in a covered household, the Secretary shall contact such covered household to encourage participation in the pilot program.
+
+"(d)
+
+Assessments.—
+
+&emsp;"(1)
+
+Number.—The Secretary shall carry out no fewer than five assessments of the pilot program.
+
+&emsp;"(2)
+
+Comparison installations.—For purposes of this subsection, the Secretary shall also select such number of other military installations the Secretary determines appropriate as comparison installations for purposes of assessing the outcomes of the pilot.
+
+&emsp;"(3)
+
+Assessment.—The Secretary shall assess each of the following:
+
+&emsp;&emsp;"(A) Success in contacting covered households for participation in the pilot.
+
+&emsp;&emsp;"(B) The percentage of covered households that elect to participate in the pilot program.
+
+&emsp;&emsp;"(C) The extent to which covered households participating in the pilot program are connected to services and resources under the pilot program.
+
+&emsp;&emsp;"(D) The extent to which covered households participating in the pilot program use services and resources under the pilot program.
+
+&emsp;&emsp;"(E) Compliance of pilot program personnel with pilot program protocols.
+
+"(e)
+
+Reports.—
+
+&emsp;"(1)
+
+Initial report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the pilot program under this section. The report shall include a comprehensive description of the assessments under subsection (d), as well as the following:
+
+&emsp;&emsp;"(A) Which installations the Secretary selected for the pilot program under subsection (a)(2).
+
+&emsp;&emsp;"(B) Why the Secretary selected the installations described in subparagraph (A).
+
+&emsp;&emsp;"(C) Names of the installations the Secretary selected as comparison installations under subsection (d)(2).
+
+&emsp;&emsp;"(D) How the pilot program is carried out, including strategy and metrics for evaluating effectiveness of the pilot program.
+
+&emsp;"(2)
+
+Final report.—Not later than 180 days after the termination of the pilot program, the Secretary shall submit to the committees specified in paragraph (1) a final report on the pilot program. The report shall include the following:
+
+&emsp;&emsp;"(A) A comprehensive description of, and findings of, the assessments under subsection (d).
+
+&emsp;&emsp;"(B) A comprehensive description and assessment of the pilot.
+
+&emsp;&emsp;"(C) Such recommendations for legislative or administrative action the Secretary determines appropriate, including whether to—
+
+&emsp;&emsp;&emsp;"(i) extend the term of the pilot program;
+
+&emsp;&emsp;&emsp;"(ii) expand the pilot program to additional installations; or
+
+&emsp;&emsp;&emsp;"(iii) make the pilot program permanent.
+
+"(f)
+
+Departmental Implementation.—If the Secretary determines that any element of the pilot program is effective, the Secretary shall implement such element permanently for the Department of Defense.
+
+"(g)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered household' means a household that—
+
+&emsp;&emsp;"(A) contains an eligible covered beneficiary; and
+
+&emsp;&emsp;"(B) is located at a location selected by the Secretary for the pilot program.
+
+&emsp;"(2) The term 'eligible covered beneficiary' means a covered beneficiary (as that term is defined in section 1072 of title 10, United States Code) who obtains prenatal or obstetrical care in a military medical treatment facility in connection with a birth covered by the pilot program.
+
+&emsp;"(3) With respect to a military installation, the term 'community' means the catchment area for community services of the installation, including services provided on the installation by the Secretary and services provided by State, county, and local jurisdictions in which the installation is located, or in the vicinity of the installation."
+
 #### Family Support Programs for Immediate Family Members of Members of the Armed Forces Assigned to Special Operations Forces
 
 Pub. L. 113–66, div. A, title V, §554, Dec. 26, 2013, 127 Stat. 765, as amended by Pub. L. 114–92, div. A, title V, §574, Nov. 25, 2015, 129 Stat. 831; Pub. L. 115–91, div. A, title X, §1081(e), Dec. 12, 2017, 131 Stat. 1601, related to pilot programs for family members of members of the Armed Forces assigned to special operations forces, prior to repeal by Pub. L. 115–91, div. A, title V, §555(f), Dec. 12, 2017, 131 Stat. 1403. See section 1788a of this title.

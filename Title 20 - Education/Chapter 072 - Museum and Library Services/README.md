@@ -12,7 +12,7 @@
 | [9105a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009105a%20-%20National%20Museum%20and%20Library%20Services%20Board.md) | National Museum and Library Services Board. |
 | [9106\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009106%20-%20Contributions.md) | Contributions. |
 | [9107\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009107%20-%20Awards%20and%20medals.md) | Awards and medals. |
-| [9108\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009108%20-%20Policy%20research%2C%20analysis%2C%20data%20collection%2C%20and%20dissemination.md) | Policy research, analysis, data collection, and dissemination. |
+| [9108\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009108%20-%20Policy%20research%2C%20data%20collection%2C%20analysis%20and%20modeling%2C%20evaluation%2C%20and%20dissemination.md) | Policy research, data collection, analysis and modeling, evaluation, and dissemination. |
 | [9109\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009109%20-%20Prohibition%20on%20use%20of%20funds%20for%20construction.md) | Prohibition on use of funds for construction. |
 | [9110\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009110%20-%20Hearings.md) | Hearings. |
 | [9111\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009111%20-%20Administrative%20funds.md) | Administrative funds. |
@@ -83,7 +83,8 @@
 | [9171\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009171%20-%20Purpose.md) | Purpose. |
 | [9172\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009172%20-%20Definitions.md) | Definitions. |
 | [9173\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009173%20-%20Museum%20services%20activities.md) | Museum services activities. |
-| 9174, 9175. Repealed. |  |
+| [9174\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009174%20-%20Repealed.%20Pub.%20L.%20108%E2%80%9381%2C%20title%20III%2C%20%C2%A7304%2C%20Sept.%2025%2C%202003%2C%20117%20Stat.%201002.md) | Repealed. |
+| [9175\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009175%20-%2021st%20century%20museum%20professional%20program.md) | 21st century museum professional program. |
 | [9176\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009176%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

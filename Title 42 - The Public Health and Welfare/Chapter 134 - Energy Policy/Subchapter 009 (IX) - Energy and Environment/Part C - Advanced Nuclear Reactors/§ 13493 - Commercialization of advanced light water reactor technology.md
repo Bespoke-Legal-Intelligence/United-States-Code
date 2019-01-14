@@ -28,7 +28,7 @@ In order to achieve the goal of certification of completed standardized designs 
 
 #### (4) Funding limitations
 
-&emsp;(A) Before entering into an agreement with an entity under this subsection, the Secretaryshall establish a cost ceiling for the contribution of the Federal Government for the project, and shall report such cost ceiling to the Congress.
+&emsp;(A) Before entering into an agreement with an entity under this subsection, the Secretary shall establish a cost ceiling for the contribution of the Federal Government for the project, and shall report such cost ceiling to the Congress.
 
 &emsp;(B) No entity shall receive assistance under this subsection for a period greater than 4 years.
 

@@ -42,7 +42,7 @@ A law enforcement agency or organization that receives funds under this subchapt
 
 &emsp;(9) Seminars regarding alcohol, drug use, gambling, and overeating.
 
-&emsp;(10) Technical assistance and training to support any or all of the services described inparagraphs (1), (2), (3), (4), (5), (6), (7), (8), and (9).
+&emsp;(10) Technical assistance and training to support any or all of the services described in paragraphs (1), (2), (3), (4), (5), (6), (7), (8), and (9).
 
 (Pub. L. 90–351, title I, §2303, as added Pub. L. 103–322, title XXI, §210201(a)(3), Sept. 13, 1994, 108 Stat. 2062.)
 

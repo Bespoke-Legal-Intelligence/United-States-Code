@@ -34,7 +34,7 @@ Consequences of Discontinuation.—Section 1448(b)(1)(E) of this title applies t
 
 (f)
 
-Notice to Affected Beneficiaries.—The Secretary concerned shall notify any former spouse or other natural person previously designated under section 1448(b) of this title of an election to discontinue participation under subsection (a).
+Notice to Affected Beneficiaries.—The Secretary concerned shall notify any formerspouse or other natural person previously designated under section 1448(b) of this title of an election to discontinue participation under subsection (a).
 
 (g)
 

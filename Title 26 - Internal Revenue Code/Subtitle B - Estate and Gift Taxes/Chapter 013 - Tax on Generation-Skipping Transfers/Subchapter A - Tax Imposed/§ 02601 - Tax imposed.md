@@ -28,13 +28,13 @@ Treatment of certain inter vivos transfers made after september 25, 1985.—For 
 
 Exceptions.—The amendments made by this subtitle shall not apply to—
 
-&emsp;&emsp;"(A) any generation-skipping transfer under a trust which was irrevocable on September 25, 1985,but only to the extent that such transfer is not made out of corpus added to the trust after September 25, 1985 (or out of income attributable to corpus so added),
+&emsp;&emsp;"(A) any generation-skipping transfer under a trust which was irrevocable on September 25, 1985, but only to the extent that such transfer is not made out of corpus added to the trust after September 25, 1985 (or out of income attributable to corpus so added),
 
 &emsp;&emsp;"(B) any generation-skipping transfer under a will or revocable trust executed before the date of the enactment of this Act \[Oct. 22, 1986\] if the decedent dies before January 1, 1987, and
 
 &emsp;&emsp;"(C) any generation-skipping transfer—
 
-&emsp;&emsp;&emsp;"(i) under a trust to the extent such trust consists of property included in the gross estate of a decedent (other than property transferred by the decedent during his life after the date of the enactment of this Act \[Oct. 22, 1986\]), or reinvestments thereof, or
+&emsp;&emsp;&emsp;"(i) under a trust to the extent such trust consists of property included in the gross estate of a decedent (other than property transferred by thedecedent during his life after the date of the enactment of this Act \[Oct. 22, 1986\]), or reinvestments thereof, or
 
 &emsp;&emsp;&emsp;"(ii) which is a direct skip which occurs by reason of the death of any decedent;
 
@@ -122,7 +122,7 @@ Pub. L. 94–455, title XX, §2006(c), Oct. 4, 1976, 90 Stat. 1889, as amended b
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this chapter and amending sections 303, 691, and 2013 of this title\] shall apply to any generation-skipping transfer (within the meaning of section 2611(a) of the InternalRevenue Code of 1986 \[formerly I.R.C. 1954\]) made after June 11, 1976.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this chapter and amending sections 303, 691, and 2013 of this title\] shall apply to any generation-skipping transfer (within the meaning of section 2611(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) made after June 11, 1976.
 
 "(2)
 

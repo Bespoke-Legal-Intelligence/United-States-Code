@@ -1,0 +1,58 @@
+### <b>CHAPTER 907—THE AIR FORCE</b>
+
+| Sec. |  |
+| :--- | ---: |
+| [9061\.](%C2%A7%2009061%20-%20Regulations.md) | Regulations. |
+| [9062\.](%C2%A7%2009062%20-%20Policy%3B%20composition%3B%20aircraft%20authorization.md) | Policy; composition; aircraft authorization. |
+| [9067\.](%C2%A7%2009067%20-%20Designation%20officers%20to%20perform%20certain%20professional%20functions.md) | Designation: officers to perform certain professional functions. |
+| [9069\.](%C2%A7%2009069%20-%20Air%20Force%20nurses%20Chief%3B%20appointment.md) | Air Force nurses: Chief; appointment. |
+| [9074\.](%C2%A7%2009074%20-%20Commands%20territorial%20organization.md) | Commands: territorial organization. |
+| [9075\.](%C2%A7%2009075%20-%20Regular%20Air%20Force%20composition.md) | Regular Air Force: composition. |
+| [9081\.](%C2%A7%2009081%20-%20Assistant%20Surgeon%20General%20for%20Dental%20Services.md) | Assistant Surgeon General for Dental Services. |
+| [9084\.](%C2%A7%2009084%20-%20Officer%20career%20field%20for%20space.md) | Officer career field for space. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Prior Provisions
+
+A prior chapter 907, consisting of sections 9411 to 9417, related to schools and camps, prior to renumbering as chapter 957 of this title.
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(d)(4), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 807 of this title as this chapter and items 8061, 8062, 8067, 8069, 8074, 8075, 8081, and 8084 as 9061, 9062, 9067, 9069, 9074, 9075, 9081, and 9084, respectively.
+
+<b>2016</b>—Pub. L. 114–328, div. A, title V, §502(nn)(3), Dec. 23, 2016, 130 Stat. 2106, substituted "Air Force nurses: Chief; appointment" for "Air Force nurses: Chief and assistant chief; appointment; grade" in item 8069.
+
+<b>2001</b>—Pub. L. 107–107, div. A, title IX, §912(b), Dec. 28, 2001, 115 Stat. 1196, added item 8084.
+
+<b>1997</b>—Pub. L. 105–85, div. A, title X, §1073(a)(66), Nov. 18, 1997, 111 Stat. 1904, substituted "nurses" for "Nurse Corps" in item 8069.
+
+<b>1996</b>—Pub. L. 104–201, div. A, title V, §502(c)(2), Sept. 23, 1996, 110 Stat. 2511, added item 8069.
+
+<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1674(b)(1), Oct. 5, 1994, 108 Stat. 3016, struck out items 8076 "Air Force Reserve: composition", 8077 "Air National Guard of United States: composition", 8078 "Air National Guard: when a component of Air Force", 8079 "Air National Guard of United States: status when not in Federal service", and 8080 "Air National Guard of the United States: authority of officers with respect to Federal status".
+
+<b>1986</b>—Pub. L. 99–433, title V, §522(g)(4), Oct. 1, 1986, 100 Stat. 1063, struck out item 8072 "Judge Advocate General, Deputy Judge Advocate General: appointment; duties". See section 8037 of this title.
+
+<b>1980</b>—Pub. L. 96–513, title V, §504(3), Dec. 12, 1980, 94 Stat. 2915, struck out item 8066 "Generals and lieutenant generals".
+
+Pub. L. 96–343, §12(b)(2), Sept. 8, 1980, 94 Stat. 1131, substituted "General, Deputy Judge Advocate General:" for "General:" in item 8072.
+
+<b>1978</b>—Pub. L. 95–485, title VIII, §805(c)(2), Oct. 20, 1978, 92 Stat. 1622, added item 8081.
+
+<b>1967</b>—Pub. L. 90–130, §1(25), Nov. 8, 1967, 81 Stat. 382, struck out item 8071 "Temporary grade of colonel in the Air Force: appointment of women."
+
+<b>1960</b>—Pub. L. 86–603, §1(3)(B), July 7, 1960, 74 Stat. 358, added item 8080.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 09061 - Regulations](%C2%A7%2009061%20-%20Regulations.md)
+- [&sect; 09062 - Policy; composition; aircraft authorization](%C2%A7%2009062%20-%20Policy%3B%20composition%3B%20aircraft%20authorization.md)
+- [&sect; 09067 - Designation officers to perform certain professional functions](%C2%A7%2009067%20-%20Designation%20officers%20to%20perform%20certain%20professional%20functions.md)
+- [&sect; 09069 - Air Force nurses Chief; appointment](%C2%A7%2009069%20-%20Air%20Force%20nurses%20Chief%3B%20appointment.md)
+- [&sect; 09074 - Commands territorial organization](%C2%A7%2009074%20-%20Commands%20territorial%20organization.md)
+- [&sect; 09075 - Regular Air Force composition](%C2%A7%2009075%20-%20Regular%20Air%20Force%20composition.md)
+- [&sect; 09081 - Assistant Surgeon General for Dental Services](%C2%A7%2009081%20-%20Assistant%20Surgeon%20General%20for%20Dental%20Services.md)
+- [&sect; 09084 - Officer career field for space](%C2%A7%2009084%20-%20Officer%20career%20field%20for%20space.md)

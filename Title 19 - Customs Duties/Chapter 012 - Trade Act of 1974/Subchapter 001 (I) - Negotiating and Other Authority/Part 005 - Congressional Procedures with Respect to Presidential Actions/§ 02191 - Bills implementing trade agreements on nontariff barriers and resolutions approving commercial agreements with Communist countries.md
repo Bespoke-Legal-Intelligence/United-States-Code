@@ -22,7 +22,7 @@ For purposes of this section—
 
 &emsp;(2) The term "implementing revenue bill or resolution" means an implementing bill, or approval resolution, which contains one or more revenue measures by reason of which it must originate in the House of Representatives.
 
-&emsp;(3) The term "approval resolution" means only a joint resolution of the two Houses of the Congress, the matter after the resolvingclause of which is as follows: "That the Congress approves the extension of nondiscriminatory treatment with respect to the products of \_\_\_\_\_\_\_\_ transmitted by the President to the Congress on \_\_\_\_\_\_\_\_.", the first blank space being filled with the name of the country involved and the second blank space being filled with the appropriate date.
+&emsp;(3) The term "approval resolution" means only a joint resolution of the two Houses ofthe Congress, the matter after the resolving clause of which is as follows: "That the Congress approves the extension of nondiscriminatory treatment with respect to the products of \_\_\_\_\_\_\_\_ transmitted by the President to the Congress on \_\_\_\_\_\_\_\_.", the first blank space being filled with the name of the country involved and the second blank space being filled with the appropriate date.
 
 #### (c) Introduction and referral
 
@@ -50,7 +50,7 @@ No amendment to an implementing bill or approval resolution shall be in order in
 
 (1) A motion in the House of Representatives to proceed to the consideration of an implementing bill or approval resolution shall be highly privileged and not debatable. An amendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
-(2) Debate in the House of Representatives on an implementing bill or approval resolutionshall be limited to not more than 20 hours, which shall be divided equally between those favoring and those opposing the bill or resolution. A motion further to limit debate shall not be debatable. It shall not be in order to move to recommit an implementing bill or approval resolution or to move to reconsider the vote by which an implementing bill or approval resolution is agreed to or disagreed to.
+(2) Debate in the House of Representatives on an implementing bill or approval resolution shall be limited to not more than 20 hours, which shall be divided equally between those favoring and those opposing the bill or resolution. A motion further to limit debate shall not be debatable. It shall not be in order to move to recommit an implementing bill or approval resolution or to move to reconsider the vote by which an implementing bill or approval resolution is agreed to or disagreed to.
 
 (3) Motions to postpone, made in the House of Representatives with respect to the consideration of an implementing bill or approval resolution, and motions to proceed to the consideration of other business, shall be decided without debate.
 
@@ -92,5 +92,5 @@ Subsec. (e)(2). Pub. L. 101–382, §132(b)(2)(D), (E), substituted "revenue bil
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of subtitle IV (§1671 et seq.) of chapter 4 of this title after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of subtitle IV (§1671 et seq.) of chapter 4 of this title after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 

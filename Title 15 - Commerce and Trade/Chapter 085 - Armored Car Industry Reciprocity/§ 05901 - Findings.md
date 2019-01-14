@@ -14,7 +14,7 @@ Congress finds that—
 
 &emsp;(6) there is a need for each State to reciprocally accept weapons licenses of other States for armored car crew members to assure the free and safe transport of valuable items in interstate commerce.
 
-(Pub. L. 103–55, §2, July 28, 1993, 107 Stat. 276; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(L),May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(L), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Pub. L. 103–55, §2, July 28, 1993, 107 Stat. 276; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(L), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(L), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### Codification
 

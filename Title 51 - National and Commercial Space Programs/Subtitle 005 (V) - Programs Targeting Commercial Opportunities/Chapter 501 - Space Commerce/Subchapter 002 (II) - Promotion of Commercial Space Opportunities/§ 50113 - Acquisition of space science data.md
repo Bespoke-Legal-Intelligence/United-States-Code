@@ -26,7 +26,17 @@ Safety Standards.—Nothing in this section shall be construed to prohibit the F
 
 Limitation.—This section does not authorize the Administration to provide financial assistance for the development of commercial systems for the collection of space science data.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3397.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3397; Pub. L. 115–232, div. A, title VIII, §836(g)(10)(A), Aug. 13, 2018, 132 Stat. 1874.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(g)(10)(A), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (c) of this section is amended as follows:</i>
+
+<i>(1) in heading, by striking "Commercial Item" and inserting "Commercial Product or Commercial Service"; and</i>
+
+<i>(2) by striking "commercial item" in the second sentence and inserting "commercial product or commercial service".</i>
+
+<i>See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -43,4 +53,12 @@ Historical and Revision Notes
 42 U.S.C. 14713.
 
 Pub. L. 105–303, title I, §105, Oct. 28, 1998, 112 Stat. 2852.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–232 substituted "Commercial Product or Commercial Service" for "Commercial Item", in heading and "commercial product or commercial service" for "commercial item" in text.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 

@@ -1,6 +1,6 @@
 ### §1310a. Normal supply of commodity for 1986 through 1995 crops
 
-Notwithstanding any other provision of law, if the Secretary of Agriculture determines that the supply of wheat, corn, upland cotton, or rice for the marketing year for any of the 1986 through 1995 crops of such commodity is not likely to be excessive and that program measures to reduce or control the planted acreage of the crop are not necessary, such a decision shall constitute a determination that the total supply of the commodity does not exceed the normal supply and no determination to the contrary shall be made by the Secretary with respect to such commodity for such marketing year.
+Notwithstanding any other provision of law, if the Secretary of Agriculture determines that the supply of wheat, corn, upland cotton, or rice for the marketing year for any of the 1986 through 1995 crops of such commodity is not likely to be excessive and that program measures to reduce or control the planted acreage ofthe crop are not necessary, such a decision shall constitute a determination that the total supply of the commodity does not exceed the normal supply and no determination to the contrary shall be made by the Secretary with respect to such commodity for such marketing year.
 
 (Pub. L. 99–198, title X, §1019, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 101–624, title XI, §1142, Nov. 28, 1990, 104 Stat. 3515.)
 

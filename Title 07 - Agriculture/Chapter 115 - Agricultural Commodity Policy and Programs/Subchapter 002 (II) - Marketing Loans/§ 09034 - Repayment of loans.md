@@ -60,7 +60,7 @@ For purposes of this section and section 9037 of this title, the Secretary shall
 
 &emsp;&emsp;&emsp;(ii) the average costs to market the commodity, including average transportation costs, as determined by the Secretary; and
 
-&emsp;&emsp;(B) may be further adjusted, during the period beginning on February 7, 2014, and ending on July 31, 2019, if the Secretary determines the adjustment is necessary—
+&emsp;&emsp;(B) may be further adjusted, during the period beginning on February 7, 2014, and ending on July 31, 2024, if the Secretary determines the adjustment is necessary—
 
 &emsp;&emsp;&emsp;(i) to minimize potential loan forfeitures;
 
@@ -88,13 +88,13 @@ The Secretary shall permit the producers on a farm to repay a marketing assistan
 
 #### (g) Payment of cotton storage costs
 
-Effective for each of the 2014 through 2018 crop years, the Secretary shall make cotton storage payments available in the same manner, and at the same rates as the Secretary provided storage payments for the 2006 crop of cotton, except that the rates shall be reduced by 10 percent.
+Effective for each of the 2014 through 2023 crop years, the Secretary shall make cotton storage payments available in the same manner, and at the same rates as the Secretary provided storage payments for the 2006 crop of cotton, except that the rates shall be reduced by 10 percent.
 
 #### (h) Repayment rate for peanuts
 
 The Secretary shall permit producers on a farm to repay a marketing assistance loan for peanuts under section 9031 of this title at a rate that is the lesser of—
 
-&emsp;(1) the loan rate established for peanuts under section 9032(a)(20) of this title, plus interest (determined in accordance with section 7283 of this title); or
+&emsp;(1) the loan rate established for peanuts under subsection (a)(20) or (b)(20), as applicable, of section 9032 of this title, plus interest (determined in accordance with section 7283 of this title); or
 
 &emsp;(2) a rate that the Secretary determines will—
 
@@ -116,5 +116,13 @@ The Secretary shall permit producers on a farm to repay a marketing assistance l
 
 &emsp;Any adjustment made under paragraph (1) in the repayment rate for marketing assistance loans for a loan commodity shall be in effect on a short-term and temporary basis, as determined by the Secretary.
 
-(Pub. L. 113–79, title I, §1204, Feb. 7, 2014, 128 Stat. 676.)
+(Pub. L. 113–79, title I, §1204, Feb. 7, 2014, 128 Stat. 676; Pub. L. 115–334, title I, §§1201(b), 1202(b), Dec. 20, 2018, 132 Stat. 4509, 4510.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (e)(2)(B). Pub. L. 115–334, §1201(b)(1), substituted "2024" for "2019" in introductory provisions.
+
+Subsec. (g). Pub. L. 115–334, §1201(b)(2), substituted "2023" for "2018".
+
+Subsec. (h)(1). Pub. L. 115–334, §1202(b), substituted "subsection (a)(20) or (b)(20), as applicable, of section 9032" for "section 9032(a)(20)".
 

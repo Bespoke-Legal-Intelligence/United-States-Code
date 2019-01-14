@@ -2,7 +2,7 @@
 
 #### (a) Unlawful acts
 
-It shall be unlawful for a person to violate, attempt to violate, conspire to violate, or cause a violation of any license, order, regulation, or prohibition issued under this chapter.
+It shall be unlawful for a person to violate, attempt to violate, conspire to violate, or cause aviolation of any license, order, regulation, or prohibition issued under this chapter.
 
 #### (b) Civil penalty
 

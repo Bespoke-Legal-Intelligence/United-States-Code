@@ -18,7 +18,7 @@ For purposes of this section, the term "partnership intermediary" means an agenc
 
 #### References in Text
 
-Section 1141(a) of title 20, referred to in subsecs. (a)(1) and (c), was repealed by Pub. L. 105–244, §3, title I,§101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998. However, the term "institution of higher education" is defined in section 1001 of Title 20, Education.
+Section 1141(a) of title 20, referred to in subsecs. (a)(1) and (c), was repealed by Pub. L. 105–244, §3, title I, §101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998. However, the term "institution of higher education" is defined in section 1001 of Title 20, Education.
 
 #### Codification
 

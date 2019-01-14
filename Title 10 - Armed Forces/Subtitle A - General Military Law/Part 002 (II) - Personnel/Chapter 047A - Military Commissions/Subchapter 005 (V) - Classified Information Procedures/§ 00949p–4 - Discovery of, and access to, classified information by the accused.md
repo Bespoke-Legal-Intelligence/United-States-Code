@@ -28,7 +28,7 @@ Substitutions and other relief.—The military judge, in assessing the accused's
 
 &emsp;(2)
 
-Ex parte presentations.—The military judge shall permit the trial counsel to make a request for an authorization under paragraph (1) in the form of an ex parte presentation to the extent necessary to protect classified information, in accordance with the practice of the Federal courts under the Classified Information Procedures Act (18 U.S.C. App.). If the military judge enters an order granting relief following such an ex parte showing, the entire presentation (including the text of any written submission, verbatim transcript of the ex parte oral conference or hearing, and any exhibits received by the court as part of the ex parte presentation) shall be sealed and preserved in the records of the military commission to be made available to the appellate court in the event of an appeal.
+Ex parte presentations.—The military judge shall permit the trial counsel to make a request for an authorization under paragraph (1) in the form of an ex parte presentation to the extent necessary to protect classified information, in accordance with the practice of the Federal courts under the Classified Information Procedures Act (18 U.S.C. App.). If the military judge enters an order granting relief following such an ex parte showing, the entire presentation (including the text of any written submission, verbatim transcript of the exparte oral conference or hearing, and any exhibits received by the court as part of the ex parte presentation) shall be sealed and preserved in the records of the military commission to be made available to the appellate court in the event of an appeal.
 
 &emsp;(3)
 
@@ -42,5 +42,5 @@ Reconsideration.—An order of a military judge authorizing a request of the tri
 
 #### References in Text
 
-The Classified Information Procedures Act, referred to in subsec. (b)(2), is Pub. L. 96–456, Oct. 15, 1980, 94Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+The Classified Information Procedures Act, referred to in subsec. (b)(2), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 

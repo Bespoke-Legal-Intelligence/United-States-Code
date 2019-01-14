@@ -168,7 +168,7 @@ Pub. L. 103–236, title VII, §717(b), Apr. 30, 1994, 108 Stat. 500, provided t
 
 #### Soviet Weapons Destruction
 
-Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, as amended by Pub. L. 102–484, div. A, title XIV,§1421(a)(2), (3), Oct. 23, 1992, 106 Stat. 2565; Pub. L. 103–236, title I, §139(17), Apr. 30, 1994, 108 Stat. 398; Pub. L. 104–106, div. A, title XII, §1204, Feb. 10, 1996, 110 Stat. 470; Pub. L. 110–53, title XVIII, §1811(1), Aug. 3, 2007, 121 Stat. 492; Pub. L. 110–181, div. A, title XIII, §1304(a)(1), Jan. 28, 2008, 122 Stat. 412; Pub. L. 113–291, div. A, title XIII, §1351(1), Dec. 19, 2014, 128 Stat. 3606, provided that:
+Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, as amended by Pub. L. 102–484, div. A, title XIV, §1421(a)(2), (3), Oct. 23, 1992, 106 Stat. 2565; Pub. L. 103–236, title I, §139(17), Apr. 30, 1994, 108 Stat. 398; Pub. L. 104–106, div. A, title XII, §1204, Feb. 10, 1996, 110 Stat. 470; Pub. L. 110–53, title XVIII, §1811(1), Aug. 3, 2007, 121 Stat. 492; Pub. L. 110–181, div. A, title XIII, §1304(a)(1), Jan. 28, 2008, 122 Stat. 412; Pub. L. 113–291, div. A, title XIII, §1351(1), Dec. 19, 2014, 128 Stat. 3606, provided that:
 
 #### "part a—short title
 

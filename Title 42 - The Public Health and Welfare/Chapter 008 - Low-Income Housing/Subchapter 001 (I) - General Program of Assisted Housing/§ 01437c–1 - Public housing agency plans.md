@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;Effective beginning upon October 1, 1999, each public housing agency shall submit to the Secretary an annual public housing agency plan under this subsection for each fiscal year for which the public housing agency receives assistance under section 1437f(o) or 1437g of this title.
+&emsp;Effective beginning upon October 1, 1999, each public housing agency shall submit tothe Secretary an annual public housing agency plan under this subsection for each fiscal year for which the public housing agency receives assistance under section 1437f(o) or 1437g of this title.
 
 #### (2) Updates
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;For purposes of this section, the term "qualified public housing agency" means a public housing agency that meets the following requirements:
 
-&emsp;&emsp;&emsp;(i) The sum of (I) the number of public housing dwelling units administered bythe agency, and (II) the number of vouchers under section 1437f(o) of this title administered by the agency, is 550 or fewer.
+&emsp;&emsp;&emsp;(i) The sum of (I) the number of public housing dwelling units administered by the agency, and (II) the number of vouchers under section 1437f(o) of this title administered by the agency, is 550 or fewer.
 
 &emsp;&emsp;&emsp;(ii) The agency is not designated under section 1437d(j)(2) of this title as a troubled public housing agency, and does not have a failing score under the section 8 \[42 U.S.C. 1437f\] Management Assessment Program during the prior 12 months.
 
@@ -172,7 +172,7 @@ An annual public housing agency plan under subsection (b) for a public housing a
 
 #### (16) Civil rights certification
 
-&emsp;A certification by the public housing agency that the public housing agency will carry out the public housing agency plan in conformity with title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], the Fair Housing Act \[42 U.S.C. 3601 et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and title II of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12131 et seq.\], and will affirmatively further fair housing.
+&emsp;A certification by the public housing agency that the public housing agency will carry out the public housing agency plan in conformity with title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], the Fair Housing Act \[42U.S.C. 3601 et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and title II of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12131 et seq.\], and will affirmatively further fair housing.
 
 #### (17) Annual audit
 
@@ -244,7 +244,7 @@ An annual public housing agency plan under subsection (b) for a public housing a
 
 #### (4) Advisory board consultation enforcement
 
-&emsp;Pursuant to a written request made by the resident advisory board for a public housing agency that documents a failure on the part of the agency to provide adequate notice and opportunity for comment under this subsection and a finding by the Secretary of good cause within the time period provided for in subsection (i)(4), the Secretary may require the public housing agency to adequately remedy such failure before final approval of the public housing agency plan under this section.
+&emsp;Pursuant to a written request made by the resident advisory board for a public housing agency that documents a failure on the part of the agency to provide adequate notice and opportunity for comment under this subsection and a finding by the Secretary of good cause within the time period provided for in subsection (i)(4), the Secretary may require the public housing agency to adequately remedysuch failure before final approval of the public housing agency plan under this section.
 
 #### (5) Qualified public housing agencies
 
@@ -402,7 +402,7 @@ Pub. L. 105–276, title V, §511(b), Oct. 21, 1998, 112 Stat. 2538, provided th
 
 "(1)
 
-Interim rule.—Not later than 120 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue an interim rule to require the submission of an interim public housing agency plan by each public housing agency, as required by section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section). The interim rule shall provide for a public comment period of not less than 60 days.
+Interim rule.—Not later than 120 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue an interim rule to require the submission of an interim public housing agency plan by each public housing agency, as required by section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section). Theinterim rule shall provide for a public comment period of not less than 60 days.
 
 "(2)
 
@@ -442,7 +442,7 @@ Report.—Not later than 2 years after the date on which public housing agency p
 
 &emsp;"(A) a description of the results of each audit and review under paragraph (1); and
 
-&emsp;"(B) any recommendations for increasing compliance by public housing agencies with their publichousing agency plans approved under section 5A of the United States Housing Act of 1937 (as added by subsection (a) of this section)."
+&emsp;"(B) any recommendations for increasing compliance by public housing agencies with their public housing agency plans approved under section 5A of the United States Housing Act of 1937 (as added by subsection (a) of this section)."
 
 <i><sup>1</sup></i><i> So in original. The word "that" probably should not appear.</i>
 

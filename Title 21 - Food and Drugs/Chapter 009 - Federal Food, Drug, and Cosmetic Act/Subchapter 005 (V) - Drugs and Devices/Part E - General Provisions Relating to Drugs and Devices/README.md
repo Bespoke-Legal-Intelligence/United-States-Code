@@ -7,6 +7,7 @@ Part E—General Provisions Relating to Drugs and Devices
 
 - [&sect; 00360bbb - Expanded access to unapproved therapies and diagnostics](%C2%A7%2000360bbb%20-%20Expanded%20access%20to%20unapproved%20therapies%20and%20diagnostics.md)
 - [&sect; 00360bbb&#8211;0 - Expanded access policy required for investigational drugs](%C2%A7%2000360bbb%E2%80%930%20-%20Expanded%20access%20policy%20required%20for%20investigational%20drugs.md)
+- [&sect; 00360bbb&#8211;0a - Investigational drugs for use by eligible patients](%C2%A7%2000360bbb%E2%80%930a%20-%20Investigational%20drugs%20for%20use%20by%20eligible%20patients.md)
 - [&sect; 00360bbb&#8211;1 - Dispute resolution](%C2%A7%2000360bbb%E2%80%931%20-%20Dispute%20resolution.md)
 - [&sect; 00360bbb&#8211;2 - Classification of products](%C2%A7%2000360bbb%E2%80%932%20-%20Classification%20of%20products.md)
 - [&sect; 00360bbb&#8211;3 - Authorization for medical products for use in emergencies](%C2%A7%2000360bbb%E2%80%933%20-%20Authorization%20for%20medical%20products%20for%20use%20in%20emergencies.md)
@@ -22,3 +23,4 @@ Part E—General Provisions Relating to Drugs and Devices
 - [&sect; 00360bbb&#8211;8a - Optimizing global clinical trials](%C2%A7%2000360bbb%E2%80%938a%20-%20Optimizing%20global%20clinical%20trials.md)
 - [&sect; 00360bbb&#8211;8b - Use of clinical investigation data from outside the United States](%C2%A7%2000360bbb%E2%80%938b%20-%20Use%20of%20clinical%20investigation%20data%20from%20outside%20the%20United%20States.md)
 - [&sect; 00360bbb&#8211;8c - Patient participation in medical product discussion](%C2%A7%2000360bbb%E2%80%938c%20-%20Patient%20participation%20in%20medical%20product%20discussion.md)
+- [&sect; 00360bbb&#8211;8d - Notification, nondistribution, and recall of controlled substances](%C2%A7%2000360bbb%E2%80%938d%20-%20Notification%2C%20nondistribution%2C%20and%20recall%20of%20controlled%20substances.md)

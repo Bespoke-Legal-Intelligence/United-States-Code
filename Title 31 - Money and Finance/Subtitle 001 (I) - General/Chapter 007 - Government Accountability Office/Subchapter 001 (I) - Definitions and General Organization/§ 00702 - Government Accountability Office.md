@@ -130,11 +130,11 @@ Orders and other official actions not affected.—All orders, determinations, ru
 
 &emsp;"(2)
 
-Pending matters and proceedings.—This Act shall not affect any pending matters or proceedings,including notices of proposed rulemaking, relating to a function or authority transferred under this Act. Such matters or proceedings shall continue under the authority of the agency to which the function or authority is transferred until completed or terminated in accordance with law.
+Pending matters and proceedings.—This Act shall not affect any pending matters or proceedings, including notices of proposed rulemaking, relating to a function or authority transferred under this Act. Such matters or proceedings shall continue under the authority of the agency to which the function or authority is transferred until completed or terminated in accordance with law.
 
 &emsp;"(3)
 
-Judicial proceedings and causes of actions.—No suit, action, or other proceeding or cause of action relating to a function or authority transferred under this Act shall abate by reason of the enactment of this Act. If, before the date on which a transfer of a function or authority this Act takes effect, the Comptroller General of the United States or any officer or employee of the General Accounting Office \[now Government Accountability Office\] in their official capacity is party to a suit relating to the function or authority, then such suit shall be continued and the head of the agency to which the function or authority is transferred, or other appropriate official of that agency, shall be substituted or added as a party."
+Judicial proceedings and causes of actions.—No suit, action, or other proceeding or cause of action relating to a function or authority transferred under this Act shall abate by reason of the enactment of this Act. If, before the date on which atransfer of a function or authority this Act takes effect, the Comptroller General of the United States or any officer or employee of the General Accounting Office \[now Government Accountability Office\] in their official capacity is party to a suit relating to the function or authority, then such suit shall be continued and the head of the agency to which the function or authority is transferred, or other appropriate official of that agency, shall be substituted or added as a party."
 
 #### Contract Appeals Board
 

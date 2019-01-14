@@ -60,7 +60,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–168 effective as in effect on and after Oct. 1, 1988, see section 201(i)(2) of Pub. L. 102–168, set out as a note under section 300aa–11 of this title.
+Amendment by Pub. L. 102–168 effective as in effect on and after Oct. 1, 1988, see section 201(i)(2) of Pub. L.102–168, set out as a note under section 300aa–11 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -72,7 +72,7 @@ For applicability of amendments by Pub. L. 101–239 to petitions filed after De
 
 #### Effective Date of 1988 Amendment
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relatesto a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date
 

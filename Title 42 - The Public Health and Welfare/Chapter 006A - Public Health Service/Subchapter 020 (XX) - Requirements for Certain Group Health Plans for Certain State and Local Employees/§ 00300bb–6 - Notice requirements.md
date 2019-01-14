@@ -28,7 +28,7 @@ The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531,
 
 <b>1996</b>—Par. (3). Pub. L. 104–191 substituted "at any time during the first 60 days of continuation coverage under this subchapter" for "at the time of a qualifying event described in section 300bb–3(2) of this title".
 
-<b>1989</b>—Par. (3). Pub. L. 101–239 inserted "and each qualified beneficiary who is determined, under title IIor XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 300bb–3(2) of this title is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days after the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled" after "date of the qualifying event".
+<b>1989</b>—Par. (3). Pub. L. 101–239 inserted "and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 300bb–3(2) of this title is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days after the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled" after "date of the qualifying event".
 
 <b>1987</b>—Par. (3). Pub. L. 100–203 amended directory language of Pub. L. 99–514, see 1986 Amendment note below.
 

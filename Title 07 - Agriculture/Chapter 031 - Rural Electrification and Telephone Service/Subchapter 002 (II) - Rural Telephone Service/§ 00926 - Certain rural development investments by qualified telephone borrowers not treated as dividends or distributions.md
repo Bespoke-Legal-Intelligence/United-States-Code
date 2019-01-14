@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The Secretary and the Governor of the telephone bank shall not—
+The Secretary shall not—
 
 &emsp;(1) treat any amount invested by any qualified telephone borrower for any purpose described in section 2204b(c)(2) of this title (including any investment in, or extension of credit, guarantee, or advance made to, an affiliated company of the borrower, that is used by such company for such a purpose) as a dividend or distribution of capital to the extent that, immediately after such investment, the aggregate of such investments does not exceed 1/3 of the net worth of the borrower; or
 
-&emsp;(2) require a qualified telephone borrower to obtain the approval of the Secretary or the Governor of the telephone bank in order to make an investment described in paragraph (1).
+&emsp;(2) require a qualified telephone borrower to obtain the approval of the Secretary in order to make an investment described in paragraph (1).
 
 #### (b) "Qualified telephone borrower" defined
 
@@ -16,9 +16,13 @@ As used in subsection (a), the term "qualified telephone borrower" means a perso
 
 &emsp;(2) whose net worth is at least 20 percent of the total assets of such person.
 
-(May 20, 1936, ch. 432, title II, §205, as added Pub. L. 101–624, title XXIII, §2356, Nov. 28, 1990, 104 Stat. 4039; amended Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title II, §205, as added Pub. L. 101–624, title XXIII, §2356, Nov. 28, 1990, 104 Stat. 4039; amended Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 115–334, title VI, §6602(b)(3), Dec. 20, 2018, 132 Stat. 4776.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–334, §6602(b)(3)(A), struck out "and the Governor of the telephone bank" after "The Secretary" in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 115–334, §6602(b)(3)(B), struck out "or the Governor of the telephone bank" after "the Secretary".
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–354 substituted "Secretary" for "Administrator" in two places.
 

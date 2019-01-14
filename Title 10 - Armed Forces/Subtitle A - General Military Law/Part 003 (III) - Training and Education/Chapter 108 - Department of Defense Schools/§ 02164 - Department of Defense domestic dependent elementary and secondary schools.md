@@ -166,7 +166,7 @@ Tuition-free Enrollment of Dependents of Foreign Military Personnel Residing on 
 
 (k)
 
-Enrollment of Relocated Defense Dependents' Education System Students.—(1) The Secretary of Defense may authorize the enrollment in a Department of Defense educationprogram provided by the Secretary pursuant to subsection (a) of a dependent of a member of the armed forces or a dependent of a Federal employee who is enrolled in the defense dependents' education system established under section 1402 of the Defense Dependents' Education Act of 1978 (20 U.S.C. 921) if—
+Enrollment of Relocated Defense Dependents' Education System Students.—(1) The Secretary of Defense may authorize the enrollment in a Department of Defense education program provided by the Secretary pursuant to subsection (a) of a dependent of a member of the armed forces or a dependent of a Federal employee who is enrolled in the defense dependents' education system established under section 1402 of the Defense Dependents' Education Act of 1978 (20 U.S.C. 921) if—
 
 &emsp;(A) the dependents departed the overseas location as a result of a evacuation order;
 
@@ -234,7 +234,7 @@ Subsec. (a)(2). Pub. L. 105–261, §371(a)(3), inserted at end "If a member of 
 
 Subsec. (c)(1). Pub. L. 105–261, §371(c)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (c)(2)(B). Pub. L. 105–261, §371(b), added subpar. (B) and struck out former subpar. (B) which read as follows: "A dependent referred to in subparagraph\(A) may be enrolled in the program for more than five consecutive school years if the Secretary determines that, in the interest of the dependent's educational well-being, there is good cause to extend the enrollment for more than the five-year period described in such subparagraph. Any such extension may be made for only one school year at a time."
+Subsec. (c)(2)(B). Pub. L. 105–261, §371(b), added subpar. (B) and struck out former subpar. (B) which read as follows: "A dependent referred to in subparagraph (A) may be enrolled in the program for more than five consecutive school years if the Secretary determines that, in the interest of the dependent's educational well-being, there is good cause to extend the enrollment for more than the five-year period described in such subparagraph. Any such extension may be made for only one school year at a time."
 
 Subsec. (c)(2)(D). Pub. L. 105–261, §371(c)(2), added subpar. (D).
 

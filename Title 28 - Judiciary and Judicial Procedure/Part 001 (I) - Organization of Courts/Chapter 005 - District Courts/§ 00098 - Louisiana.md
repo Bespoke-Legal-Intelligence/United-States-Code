@@ -20,7 +20,7 @@ Louisiana is divided into three judicial districts to be known as the Eastern, M
 
 &emsp;&emsp;Court for the Western District shall be held at Alexandria, Lafayette, Lake Charles, Monroe, Opelousas, and Shreveport.
 
-(June 25, 1948, ch. 646, 62 Stat. 881; Pub. L. 87–36, §4, May 19, 1961, 75 Stat. 83; Pub. L. 92–208, §3(a),Dec. 18, 1971, 85 Stat. 741; Pub. L. 95–408, §3(a), Oct. 2, 1978, 92 Stat. 883; Pub. L. 98–353, title II, §203(b), July 10, 1984, 98 Stat. 350.)
+(June 25, 1948, ch. 646, 62 Stat. 881; Pub. L. 87–36, §4, May 19, 1961, 75 Stat. 83; Pub. L. 92–208, §3(a), Dec. 18, 1971, 85 Stat. 741; Pub. L. 95–408, §3(a), Oct. 2, 1978, 92 Stat. 883; Pub. L. 98–353, title II, §203(b), July 10, 1984, 98 Stat. 350.)
 
 #### Historical and Revision Notes
 

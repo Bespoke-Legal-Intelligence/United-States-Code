@@ -30,7 +30,7 @@ Pub. L. 103–322, §60016, designated existing provisions as subsec. (a), subst
 
 <b>1982</b>—Pub. L. 97–291, §4(c)(1), substituted "or juror" for ", juror or witness" after "officer" in section catchline.
 
-Pub. L. 97–291, §4(c)(2), (3), substituted in text "grand" for "witness, in any court of the United States or before any United States commissioner or other committing magistrate, or any grand" after "or impede any", and struck out "injures any party or witness in his person or property on account of his attending or having attended such court or examination before such officer, commissioner, or other committing magistrate, or on account of his testifying or having testified to any matter pending therein, or" after "discharge of his duty, or".
+Pub. L. 97–291, §4(c)(2), (3), substituted in text "grand" for "witness, in any court of the United States or before any United States commissioner or other committing magistrate, or any grand" after "or impede any", and struck out "injures any party or witness in his person or property on account of his attending or having attended such court or examination before suchofficer, commissioner, or other committing magistrate, or on account of his testifying or having testified to any matter pending therein, or" after "discharge of his duty, or".
 
 #### Effective Date of 1982 Amendment
 

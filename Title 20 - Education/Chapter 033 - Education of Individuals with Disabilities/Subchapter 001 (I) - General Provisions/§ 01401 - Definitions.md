@@ -110,7 +110,7 @@ Except as otherwise provided, in this chapter:
 
 #### (13) Indian tribe
 
-&emsp;The term "Indian tribe" means any Federal or State Indian tribe, band, rancheria, pueblo, colony, or community, including any Alaska Native village or regional village corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)).
+&emsp;The term "Indian tribe" means any Federal or State Indian tribe, band, rancheria, pueblo,colony, or community, including any Alaska Native village or regional village corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)).
 
 #### (14) Individualized education program; IEP
 
@@ -232,7 +232,7 @@ Except as otherwise provided, in this chapter:
 
 #### (32) State educational agency
 
-&emsp;The term "State educational agency" means the State board of education or other agency or officer primarily responsible for the Statesupervision of public elementary schools and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law.
+&emsp;The term "State educational agency" means the State board of education or other agency or officer primarily responsible for the State supervision of public elementary schools and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law.
 
 #### (33) Supplementary aids and services
 
@@ -266,7 +266,7 @@ Except as otherwise provided, in this chapter:
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in par. (8)(A)(ii), (iii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. Part A of title III of the Act is classified generally to part A (§6811 et seq.) of subchapter III of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in par. (8)(A)(ii), (iii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. Part A of title III of the Act is classified generally to part A (§6811 et seq.) of subchapter III of chapter 70 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 6301 of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

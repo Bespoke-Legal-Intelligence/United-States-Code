@@ -18,11 +18,15 @@ Continuation.—The Secretary shall continue the low activity (Visual Flight Rul
 
 &emsp;&emsp;(B)
 
-Special rule.—If the Secretary determines that a tower already operating under the program continued under this paragraph has a benefit-to-cost ratio of less than 1.0, the airport sponsor or State or local government having jurisdiction over the airport shall not be required to pay the portion of the costs that exceeds the benefit for a period of 18 months after such determination is made.
+Special rule.—If the Secretary determines that a tower already operating under the Contract Tower Program has a benefit-to-cost ratio of less than 1.0, the airport sponsor or State or local government having jurisdiction over the airport shall not be required to pay the portion of the costs that exceeds the benefit—
+
+&emsp;&emsp;&emsp;(i) for the 1-year period after such determination is made; or
+
+&emsp;&emsp;&emsp;(ii) if an appeal of such determination is requested, for the 1-year period described in subsection (d)(4)(D)..<sup>1</sup>
 
 &emsp;&emsp;(C)
 
-Use of excess funds.—If the Secretary finds that all or part of an amount made available to carry out the program continued under this paragraph is not required during a fiscal year, the Secretary may use, during such fiscal year, the amount not so required to carry out the program established under paragraph (3).
+Use of excess funds.—If the Secretary finds that all or part of an amount made available to carry out the program continued under this paragraph is not required during a fiscal year, the Secretary may use, during such fiscal year, the amount not so required to carry out the Cost-share Program.
 
 &emsp;(2)
 
@@ -30,23 +34,23 @@ General authority.—The Secretary may make a contract with a qualified entity (
 
 &emsp;(3)
 
-Contract air traffic control tower program.—
+Cost-share program.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall establish a program to contract for air traffic control services at nonapproach control towers, as defined by the Secretary, that do not qualify for the contract tower program established under subsection (a) and continued under paragraph (1) (in this paragraph referred to as the "Contract Tower Program").
+In general.—The Secretary shall establish a program to contract for air traffic control services at nonapproach control towers, as defined by the Secretary, that do not qualify for the Contract Tower Program.
 
 &emsp;&emsp;(B)
 
-Program components.—In carrying out the program, the Secretary shall—
+Program components.—In carrying out the Cost-share Program, the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) utilize for purposes of cost-benefit analyses, current, actual, site-specific data, forecast estimates, or airport master plan data provided by a facility owner or operator and verified by the Secretary; and
 
-&emsp;&emsp;&emsp;(ii) approve for participation only facilities willing to fund a pro rata share of the operating costs of the air traffic control tower to achieve a 1-to-1 benefit-to-cost ratio using actual site-specific contract tower operating costs in any case in which there is an operating air traffic controltower, as required for eligibility under the Contract Tower Program.
+&emsp;&emsp;&emsp;(ii) approve for participation only facilities willing to fund a pro rata share of the operating costs of the air traffic control tower to achieve a 1-to-1 benefit-to-cost ratio using actual site-specific contract tower operating costs in any case in which there is an operating air traffic control tower, as required for eligibility under the Contract Tower Program.
 
 &emsp;&emsp;(C)
 
-Priority.—In selecting facilities to participate in the program, the Secretary shall give priority to the following facilities:
+Priority.—In selecting facilities to participate in the Cost-share Program, the Secretary shall give priority to the following facilities:
 
 &emsp;&emsp;&emsp;(i) Air traffic control towers that are participating in the Contract Tower Program but have been notified that they will be terminated from such program because the Secretary has determined that the benefit-to-cost ratio for their continuation in such program is less than 1.0.
 
@@ -64,15 +68,19 @@ Priority.—In selecting facilities to participate in the program, the Secretary
 
 &emsp;&emsp;(D)
 
-Costs exceeding benefits.—If the costs of operating an air traffic tower under the program exceed the benefits, the airport sponsor or State or local government having jurisdiction over the airport shall pay the portion of the costs that exceed such benefit, with the maximum allowable local cost share capped at 20 percent.
+Costs exceeding benefits.—If the costs of operating an air traffic tower under the Cost-share Program exceed the benefits, the airport sponsor or State or local government having jurisdiction over the airport shall pay the portion of the costs that exceed such benefit, with the maximum allowable local cost share capped at 20 percent. Airports with air service provided under part 121 of title 14, Code of Federal Regulations, and more than 25,000 passenger enplanements in calendar year 2014 shall be exempt from any cost-share requirement under this paragraph.
 
 &emsp;&emsp;(E)
 
-Funding.—Of the amounts appropriated pursuant to section 106(k)(1), not more than $10,350,000 for each of fiscal years 2012 through 2017 and not more than $5,160,822 for the period beginning on October 1, 2017, and ending on March 31, 2018, may be used to carry out this paragraph.
+Funding.—Of the amounts appropriated pursuant to section 106(k)(1), not more than $10,350,000 for each of fiscal years 2012 through 2018 may be used to carry out this paragraph.
 
 &emsp;&emsp;(F)
 
-Use of excess funds.—If the Secretary finds that all or part of an amount made available under this paragraph is not required during a fiscal year, the Secretary may use, during such fiscal year, the amount not so required to carry out the program continued under paragraph (1).
+Use of excess funds.—If the Secretary finds that all or part of an amount made available under this paragraph is not required during a fiscal year, the Secretary may use, during such fiscal year, the amount not so required to carry out the Contract Tower Program.
+
+&emsp;&emsp;(G)
+
+Benefit-to-cost calculation.—Not later than 90 days after receiving an application to the Contract Tower Program, the Secretary shall calculate a benefit-to-cost ratio (as described in subsection (d)) for the applicable air traffic control tower for purposes of selecting towers for participation in the Contract Tower Program.
 
 &emsp;(4)
 
@@ -88,7 +96,7 @@ Grants.—The Secretary may provide grants to a sponsor of—
 
 &emsp;&emsp;&emsp;&emsp;(II) from amounts made available under sections 47114(c)(1) and 47114(c)(2) for reimbursement for the cost of construction or improvement of a nonapproach control tower, as defined by the Secretary, incurred after October 1, 1996, if the sponsor complied with the requirements of sections 47107(e), 47112(b), and 47112(c) in constructing or improving that tower; and
 
-&emsp;&emsp;&emsp;&emsp;(III) from amounts made available under sections 47114(c)(1) and 47114(c)(2) for reimbursement for the cost of acquiring and installing in that tower air traffic control, communications, and related equipment that was acquired or installed after October 1, 1996; and
+&emsp;&emsp;&emsp;&emsp;(III) from amounts made available under sections 47114(c)(1) and 47114(c)(2) for reimbursement for the cost of acquiring and installing in that tower air traffic control, communications, and related equipment that was acquired or installed after October 1, 1996, including remote air traffic control tower equipment certified by the Federal Aviation Administration; and
 
 &emsp;&emsp;&emsp;(ii) a public-use airport that is not a primary airport—
 
@@ -96,13 +104,13 @@ Grants.—The Secretary may provide grants to a sponsor of—
 
 &emsp;&emsp;&emsp;&emsp;(II) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of construction or improvement of a nonapproach control tower, as defined by the Secretary, incurred after October 1, 1996, if the sponsor complied with the requirements of sections 47107(e), 47112(b), and 47112(c) in constructing or improving that tower; and
 
-&emsp;&emsp;&emsp;&emsp;(III) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of acquiring and installing in that tower air traffic control, communications, and related equipment that was acquired or installed after October 1, 1996.
+&emsp;&emsp;&emsp;&emsp;(III) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of acquiring and installing in that tower air traffic control, communications, and related equipment that was acquired or installed after October 1, 1996, including remote air traffic control tower equipment certified by the Federal Aviation Administration.
 
 &emsp;&emsp;(B)
 
 Eligibility.—An airport sponsor shall be eligible for a grant under this paragraph only if—
 
-&emsp;&emsp;&emsp;(i)(I) the sponsor is a participant in the Federal Aviation Administration contract tower program established under subsection (a) and continued under paragraph (1) or the pilot program established under paragraph (3); or
+&emsp;&emsp;&emsp;(i)(I) the sponsor is a participant in the Federal Aviation Administration Contract Tower Program or the Cost-share Program; or
 
 &emsp;&emsp;&emsp;(II) construction of a nonapproach control tower would qualify the sponsor to be eligible to participate in such program;
 
@@ -118,15 +126,81 @@ Eligibility.—An airport sponsor shall be eligible for a grant under this parag
 
 &emsp;&emsp;&emsp;&emsp;(II) the selection of the tower for funding is based on objective criteria.
 
-&emsp;&emsp;(C)
-
-Limitation on federal share.—The Federal share of the cost of construction of a nonapproach control tower under this paragraph may not exceed $2,000,000.
-
 (c)
 
 Safety Audits.—The Secretary shall establish uniform standards and requirements for regular safety assessments of air traffic control towers that receive funding under this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1276; Pub. L. 106–181, title I, §131, Apr. 5, 2000, 114 Stat. 78; Pub. L. 108–7, div. I, title III, §370(b)(1), (2), Feb. 20, 2003, 117 Stat. 425, 426; Pub. L. 108–176, title I, §105, Dec. 12, 2003, 117 Stat. 2498; Pub. L. 112–55, div. C, title I, §119, Nov. 18, 2011, 125 Stat. 649; Pub. L. 112–95, title I, §147, Feb. 14, 2012, 126 Stat. 30; Pub. L. 113–76, div. L, title I, §118, Jan. 17, 2014, 128 Stat. 581; Pub. L. 113–235, div. K, title I, §118, Dec. 16, 2014, 128 Stat. 2704; Pub. L. 114–55, title I, §102(c), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(c), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(c), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, §102(d), Sept. 29, 2017, 131 Stat. 1169.)
+(d)
+
+Criteria To Evaluate Participants.—
+
+&emsp;(1)
+
+Timing of evaluations.—
+
+&emsp;&emsp;(A)
+
+Towers participating in cost-share program.—In the case of an air traffic control tower that is operated under the Cost-share Program, the Secretary shall annually calculate a benefit-to-cost ratio with respect to the tower.
+
+&emsp;&emsp;(B)
+
+Towers participating in contract tower program.—In the case of an air traffic control tower that is operated under the Contract Tower Program, the Secretary shall not calculate a benefit-to-cost ratio after the date of enactment of this subsection with respect to the tower unless the Secretary determines that the annual aircraft traffic at the airport where the tower is located has decreased—
+
+&emsp;&emsp;&emsp;(i) by more than 25 percent from the previous year; or
+
+&emsp;&emsp;&emsp;(ii) by more than 55 percent cumulatively in the preceding 3-year period.
+
+&emsp;(2)
+
+Costs to be considered.—In establishing a benefit-to-cost ratio under this section with respect to an air traffic control tower, the Secretary shall consider only the following costs:
+
+&emsp;&emsp;(A) The Federal Aviation Administration's actual cost of wages and benefits of personnel working at the tower.
+
+&emsp;&emsp;(B) The Federal Aviation Administration's actual telecommunications costs directly associated with the tower.
+
+&emsp;&emsp;(C) The Federal Aviation Administration's costs of purchasing and installing any air traffic control equipment that would not have been purchased or installed except as a result of the operation of the tower.
+
+&emsp;&emsp;(D) The Federal Aviation Administration's actual travel costs associated with maintaining air traffic control equipment that is owned by the Administration and would not be maintained except as a result of the operation of the tower.
+
+&emsp;&emsp;(E) Other actual costs of the Federal Aviation Administration directly associated with the tower that would not be incurred except as a result of the operation of the tower (excluding costs for noncontract tower-related personnel and equipment, even if the personnel or equipment is located in the contract tower building).
+
+&emsp;(3)
+
+Other criteria to be considered.—In establishing a benefit-to-cost ratio under this section with respect to an air traffic control tower, the Secretary shall add a 10 percentage point margin of error to the benefit-to-cost ratio determination to acknowledge and account for the direct and indirect economic and other benefits that are not included in the criteria the Secretary used in calculating that ratio.
+
+&emsp;(4)
+
+Review of cost-benefit determinations.—In issuing a benefit-to-cost ratio determination under this section with respect to an air traffic control tower located at an airport, the Secretary shall implement the following procedures:
+
+&emsp;&emsp;(A) The Secretary shall provide the airport (or the State or local government having jurisdiction over the airport) at least 90 days following the date of receipt of the determination to submit to the Secretary a request for an appeal of the determination, together with updated or additional data in support of the appeal.
+
+&emsp;&emsp;(B) Upon receipt of a request for an appeal submitted pursuant to subparagraph (A), the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) transmit to the Administrator of the Federal Aviation Administration any updated or additional data submitted in support of the appeal; and
+
+&emsp;&emsp;&emsp;(ii) provide the Administrator not more than 90 days to review the data and provide a response to the Secretary based on the review.
+
+&emsp;&emsp;(C) After receiving a response from the Administrator pursuant to subparagraph (B), the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) provide the airport, State, or local government that requested the appeal at least 30 days to review the response; and
+
+&emsp;&emsp;&emsp;(ii) withhold from taking further action in connection with the appeal during that 30-day period.
+
+&emsp;&emsp;(D) If, after completion of the appeal procedures with respect to the determination, the Secretary requires the tower to transition into the Cost-share Program, the Secretary shall not require a cost-share payment from the airport, State, or local government for 1 year following the last day of the 30-day period described in subparagraph (C).
+
+(e)
+
+Definitions.—In this section:
+
+&emsp;(1)
+
+Contract tower program.—The term "Contract Tower Program" means the level I air traffic control tower contract program established under subsection (a) and continued under subsection (b)(1).
+
+&emsp;(2)
+
+Cost-share program.—The term "Cost-share Program" means the cost-share program established under subsection (b)(3).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1276; Pub. L. 106–181, title I, §131, Apr. 5, 2000, 114 Stat. 78; Pub. L. 108–7, div. I, title III, §370(b)(1), (2), Feb. 20, 2003, 117 Stat. 425, 426; Pub. L. 108–176, title I, §105, Dec. 12, 2003, 117 Stat. 2498; Pub. L. 112–55, div. C, title I, §119, Nov. 18, 2011, 125 Stat. 649; Pub. L. 112–95, title I, §147, Feb. 14, 2012, 126 Stat. 30; Pub. L. 113–76, div. L, title I, §118, Jan. 17, 2014, 128 Stat. 581; Pub. L. 113–235, div. K, title I, §118, Dec. 16, 2014, 128 Stat. 2704; Pub. L. 114–55, title I, §102(c), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(c), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(c), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, §102(d), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–141, div. M, title I, §102(c), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title I, §133(a)–(c), Oct. 5, 2018, 132 Stat. 3206–3208.)
 
 Historical and Revision Notes
 
@@ -162,7 +236,39 @@ In subsection (b)(1), the words "in effect" are omitted as surplus. The words "o
 
 In subsection (b)(2), the word "Secretary" is substituted for "Administrator" for consistency in the chapter.
 
+#### References in Text
+
+The date of enactment of this subsection, referred to in subsec. (d)(1)(B), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.
+
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1)(B). Pub. L. 115–254, §133(a)(1), substituted "under the Contract Tower Program" for "under the program continued under this paragraph" and "exceeds the benefit—" and cls. (i) and (ii) for "exceeds the benefit for a period of 18 months after such determination is made".
+
+Subsec. (b)(1)(C). Pub. L. 115–254, §133(c)(1), substituted "the Cost-share Program" for "the program established under paragraph (3)".
+
+Subsec. (b)(3). Pub. L. 115–254, §133(c)(2)(A), substituted "Cost-share program" for "Contract air traffic control tower program" in heading.
+
+Subsec. (b)(3)(A). Pub. L. 115–254, §133(c)(2)(B), substituted "Contract Tower Program" for "contract tower program established under subsection (a) and continued under paragraph (1) (in this paragraph referred to as the 'Contract Tower Program')".
+
+Subsec. (b)(3)(B). Pub. L. 115–254, §133(c)(2)(C), substituted "In carrying out the Cost-share Program" for "In carrying out the program" in introductory provisions.
+
+Subsec. (b)(3)(C). Pub. L. 115–254, §133(c)(2)(D), substituted "participate in the Cost-share Program" for "participate in the program" in introductory provisions.
+
+Subsec. (b)(3)(D). Pub. L. 115–254, §133(a)(2), substituted "under the Cost-share Program" for "under the program" and inserted at end "Airports with air service provided under part 121 of title 14, Code of Federal Regulations, and more than 25,000 passenger enplanements in calendar year 2014 shall be exempt from any cost-share requirement under this paragraph."
+
+Subsec. (b)(3)(E). Pub. L. 115–141 substituted "2012 through 2018" for "2012 through 2017 and not more than $5,160,822 for the period beginning on October 1, 2017, and ending on March 31, 2018,".
+
+Subsec. (b)(3)(F). Pub. L. 115–254, §133(c)(2)(E), substituted "the Contract Tower Program" for "the program continued under paragraph (1)".
+
+Subsec. (b)(3)(G). Pub. L. 115–254, §133(a)(4), added subpar. (G).
+
+Subsec. (b)(4)(A)(i)(III), (ii)(III). Pub. L. 115–254, §133(a)(3)(A), inserted ", including remote air traffic control tower equipment certified by the Federal Aviation Administration" after "1996".
+
+Subsec. (b)(4)(B)(i)(I). Pub. L. 115–254, §133(a)(3)(B), substituted "Contract Tower Program or the Cost-share Program" for "contract tower program established under subsection (a) and continued under paragraph (1) or the pilot program established under paragraph (3)".
+
+Subsec. (b)(4)(C). Pub. L. 115–254, §133(a)(3)(C), struck out subpar. (C). Text read as follows: "The Federal share of the cost of construction of a nonapproach control tower under this paragraph may not exceed $2,000,000."
+
+Subsecs. (d), (e). Pub. L. 115–254, §133(b), added subsecs. (d) and (e).
 
 <b>2017</b>—Subsec. (b)(3)(E). Pub. L. 115–63 inserted "and not more than $5,160,822 for the period beginning on October 1, 2017, and ending on March 31, 2018," after "fiscal years 2012 through 2017".
 
@@ -202,7 +308,7 @@ Subsec. (b)(3)(E). Pub. L. 108–176, §105(3)(C), substituted "$6,500,000 for f
 
 Pub. L. 108–7, §370(b)(2)(B), substituted "Of" for "Subject to paragraph (4)(D), of".
 
-Subsec. (b)(4). Pub. L. 108–7, §370(b)(1), reenacted heading without change and amended text generally. Prior to amendment, par. authorized the Secretary to provide grants under this subchapter to not more thantwo airport sponsors for the construction of a low-level activity visual flight rule (level 1) air traffic control tower.
+Subsec. (b)(4). Pub. L. 108–7, §370(b)(1), reenacted heading without change and amended text generally. Prior to amendment, par. authorized the Secretary to provide grants under this subchapter to not more than two airport sponsors for the construction of a low-level activity visual flight rule (level 1) air traffic control tower.
 
 Subsec. (b)(4)(C). Pub. L. 108–176, §105(4), substituted "$1,500,000" for "$1,100,000".
 
@@ -219,6 +325,22 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Savings Provision
 
 Pub. L. 108–7, div. I, title III, §370(b)(3), Feb. 20, 2003, 117 Stat. 426, provided that: "Notwithstanding the amendments made by this section \[amending this section and section 47102 of this title\], the towers for which assistance is being provided on the day before the date of enactment of this Act \[Feb. 20, 2003\] under section 47124(b)(4) of title 49, United States Code, as in effect on such day, may continue to be provided such assistance under the terms of such section."
+
+#### Approval of Certain Applications for the Contract Tower Program
+
+Pub. L. 115–254, div. B, title I, §133(d), Oct. 5, 2018, 132 Stat. 3209, provided that:
+
+"(1)
+
+In general.—If the Administrator of the Federal Aviation Administration has not implemented a revised cost-benefit methodology for purposes of determining eligibility for the Contract Tower Program before the date that is 30 days after the date of enactment of this Act \[Oct. 5, 2018\], any airport with an application for participation in the Contract Tower Program pending as of January 1, 2017, shall be approved for participation in the Contract Tower Program if the Administrator determines the tower is eligible under the criteria set forth in the Federal Aviation Administration report entitled 'Establishment and Discontinuance Criteria for Airport Traffic Control Towers', and dated August 1990 (FAA–APO–90–7).
+
+"(2)
+
+Requests for additional authority.—The Administrator shall respond not later than 60 days after the date the Administrator receives a formal request from an airport and air traffic control contractor for additional authority to expand contract tower operational hours and staff to accommodate flight traffic outside of current tower operational hours.
+
+"(3)
+
+Definition of contract tower program.—In this section \[probably means "subsection"\], the term 'Contract Tower Program' has the meaning given the term in section 47124(e) of title 49, United States Code, as added by this Act."
 
 #### Nonapproach Control Towers
 
@@ -261,4 +383,6 @@ Report.—Not later than 1 year after the date of enactment of this Act \[Feb. 2
 #### Contract Tower Assistance
 
 Pub. L. 103–305, title V, §508, Aug. 23, 1994, 108 Stat. 1596, provided that: "The Secretary shall take appropriate action to assist communities where the Secretary deems such assistance appropriate in obtaining the installation of a Level I Contract Tower for those communities."
+
+<i><sup>1</sup></i><i> So in original.</i>
 

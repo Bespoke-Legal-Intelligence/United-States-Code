@@ -38,7 +38,7 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 #### (2) Collection and reporting requirements
 
-&emsp;(A) The Secretary shall collect data under this subsection from all insurers under this part and shall publish not less often than once every fiscal year a report showing loan volumeguaranteed and default data for each category specified in subparagraph (B) of paragraph (1) of this subsection and for the total of all lenders.
+&emsp;(A) The Secretary shall collect data under this subsection from all insurers under this part and shall publish not less often than once every fiscal year a report showing loan volume guaranteed and default data for each category specified in subparagraph (B) of paragraph (1) of this subsection and for the total of all lenders.
 
 &emsp;(B) The reports specified in subparagraph (A) of this paragraph shall include a separate report for each insurer under this part including the Secretary, and where an insurer insures loans for lenders in more than one State, such insurer's report shall list all data separately for each State.
 
@@ -200,7 +200,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;If the Secretary—
 
-&emsp;&emsp;(A) receives information, determined by the Secretary to be reliable, that a lender is violating any provision of this subchapter, any regulation prescribed under this subchapter, or any applicable special arrangement, agreement, or limitation;
+&emsp;&emsp;(A) receives information, determined by the Secretary to be reliable, that a lender isviolating any provision of this subchapter, any regulation prescribed under this subchapter, or any applicable special arrangement, agreement, or limitation;
 
 &emsp;&emsp;(B) determines that immediate action is necessary to prevent misuse of Federal funds; and
 
@@ -282,7 +282,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, in cooperation with representatives of guaranty agencies, eligible lenders, and organizations involved in student financial assistance, shall prescribe common application forms and promissory notes, or master promissory notes, to be used for applying for loans under this part.
+&emsp;&emsp;The Secretary, in cooperation with representatives of guaranty agencies, eligiblelenders, and organizations involved in student financial assistance, shall prescribe common application forms and promissory notes, or master promissory notes, to be used for applying for loans under this part.
 
 #### (B) Requirements
 
@@ -340,7 +340,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (1) Authorization
 
-&emsp;There are authorized to be appropriated $25,000,000 for fiscal year 1999 and each of the four succeeding fiscal years, for the Secretary to expend for default reduction management activities for the purposes of establishing a performance measure that will reduce defaults by 5 percent relative to the prior fiscal year. Such funds shall be in addition to, and not in lieu of, other appropriations made for such purposes.
+&emsp;There are authorized to be appropriated $25,000,000 for fiscal year 1999 and each of the four succeeding fiscal years, for the Secretary to expend for default reduction management activities for the purposes of establishing aperformance measure that will reduce defaults by 5 percent relative to the prior fiscal year. Such funds shall be in addition to, and not in lieu of, other appropriations made for such purposes.
 
 #### (2) Allowable activities
 
@@ -396,7 +396,7 @@ Subsec. (n)(3). Pub. L. 110–315, §103(b)(6)(B), substituted "authorizing comm
 
 <b>2006</b>—Subsec. (l)(1)(H). Pub. L. 109–171 inserted "and anticipated graduation date" after "status change".
 
-<b>2000</b>—Subsec. (m)(1)(D)(iv). Pub. L. 106–554, §1(a)(1) \[title III, §311(1)\], struck out heading and text of cl. (iv). Text read as follows: "Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part created on behalf of any eligible lender as defined in section 1085(d) of this title may be perfected either through the taking of possession of such loans (which can be through taking possession of an original or copy of the master promissory note) or by the filing of notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts."
+<b>2000</b>—Subsec. (m)(1)(D)(iv). Pub. L. 106–554, §1(a)(1) \[title III, §311(1)\], struck out heading and text of cl.\(iv). Text read as follows: "Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part created on behalf of any eligible lender as defined in section 1085(d) of this title may be perfected either through the taking of possession of such loans (which can be through taking possession of an original or copy of the master promissory note) or by the filing of notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts."
 
 Subsec. (m)(1)(E). Pub. L. 106–554, §1(a)(1) \[title III, §311(2)\], added subpar. (E).
 
@@ -428,7 +428,7 @@ Subsec. (p). Pub. L. 105–244, §427(e), struck out "State postsecondary review
 
 &emsp;"(1) prepare annually and submit a budget program as provided for wholly owned Government corporations by chapter 91 of title 31; and
 
-&emsp;"(2) maintain with respect to insurance under this part an integral set of accounts and prepare financial statements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity with generally accepted Government auditing standards except that the transactions of the Secretary, including the settlement of insurance claims and of claimsfor payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government."
+&emsp;"(2) maintain with respect to insurance under this part an integral set of accounts and prepare financial statements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity with generally accepted Government auditing standards except that the transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to section 1078 of this title, and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government."
 
 <b>1993</b>—Subsec. (h)(2)(A), (3)(A). Pub. L. 103–208 amended directory language of Pub. L. 102–325, §425(d)(1). See 1992 Amendment notes below.
 
@@ -472,7 +472,7 @@ Subsec. (g)(2)(A)(i), (B). Pub. L. 100–50, §10(y), substituted "misrepresenta
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2006 Amendment
 

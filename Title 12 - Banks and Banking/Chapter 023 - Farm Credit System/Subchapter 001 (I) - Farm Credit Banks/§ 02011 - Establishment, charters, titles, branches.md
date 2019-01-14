@@ -24,7 +24,7 @@ Section 410 of the Agricultural Credit Act of 1987, referred to in subsec. (a), 
 
 #### Prior Provisions
 
-A prior section 2011, Pub. L. 92–181, title I, §1.3, Dec. 10, 1971, 85 Stat. 583; Pub. L. 100–233, title VIII, §802(a), Jan. 6, 1988, 101 Stat. 1710, related to establishment, title, and branches of Federal land banks prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
+A prior section 2011, Pub. L. 92–181, title I, §1.3, Dec. 10, 1971, 85 Stat. 583; Pub. L. 100–233, title VIII, §802(a),Jan. 6, 1988, 101 Stat. 1710, related to establishment, title, and branches of Federal land banks prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
 #### Amendments
 
@@ -58,7 +58,7 @@ Pub. L. 100–233, title IV, §410, Jan. 6, 1988, 101 Stat. 1637, as amended by 
 
 "(a)
 
-In General.—Not later than 6 months after the date of the enactment of this section \[Jan. 6, 1988\], the Federal land bank and the Federal intermediate credit bank of each Farm Credit System district shall merge into a Farm Credit Bank in such district pursuant to a plan of merger agreed on by the Boards of Directors of such banks and approved by the Farm Credit Administration, or if such banks fail to agree, a plan of merger prescribed by the Farm Credit Administration. The mergers required by this section shall be implemented without regard to title VII \[enacting sections 2279aa to2279aa–14 of this title, amending sections 2012, 2033, 2072, and 2093 of this title, section 1988 of Title 7, Agriculture, and section 9105 of Title 31, Money and Finance, and enacting provisions set out as notes under section 2279aa of this title and section 1988 of Title 7\].
+In General.—Not later than 6 months after the date of the enactment of this section \[Jan. 6, 1988\], the Federal land bank and the Federal intermediate credit bank of each Farm Credit System district shall merge into a Farm Credit Bank in such district pursuant to a plan of merger agreed on by the Boards of Directors of such banks and approved by the Farm Credit Administration, or if such banks fail to agree, a plan of merger prescribed by the Farm Credit Administration. The mergers required by this section shall be implemented without regard to title VII \[enacting sections 2279aa to 2279aa–14 of this title, amending sections 2012, 2033, 2072, and 2093 of this title, section 1988 of Title 7, Agriculture, and section 9105 of Title 31, Money and Finance, and enacting provisions set out as notes under section 2279aa of this title and section 1988 of Title 7\].
 
 "(b)
 
@@ -66,7 +66,7 @@ Capital Stock.—Notwithstanding section 1.6 (as added by section 401 of this Ac
 
 "(c)
 
-Assistance.—The Assistance Board established under section 6.0 \[12 U.S.C. 2278a\] shall direct the Financial Assistance Corporation established under section 6.20 \[12 U.S.C. 2278b\] to provide any Farm Credit Bank with that amount of financial assistance as is necessary to ensure that the stock of the Farm Credit Bank, upon implementation of the merger, has a book value equal to 75 percent of par, and such Farm Credit Bank shall be subject to all of the requirements of title VI of the Farm Credit Act of 1971 \[12 U.S.C. 2278a et seq.\].
+Assistance.—The Assistance Board established under section 6.0 \[12 U.S.C. 2278a\] shall direct the Financial Assistance Corporation established under section 6.20 \[former 12 U.S.C. 2278b\] to provide any Farm Credit Bank with that amount of financial assistance as is necessary to ensure that the stock of the Farm Credit Bank, upon implementation of the merger, has a book value equal to 75 percent of par, and such Farm Credit Bank shall be subject to all of the requirements of title VI of the Farm Credit Act of 1971 \[12 U.S.C. 2278a et seq.\].
 
 "(d)
 
@@ -142,7 +142,7 @@ Extension.—
 
 &emsp;&emsp;&emsp;"(i)
 
-Letter of intent.—If no later than June 30, 1993, the Federal Intermediate Credit Bank of Jackson delivers to the Farm Credit Administration a letter of intent to merge with a Farm Credit Bank, summarizing the terms and conditions of the merger (including, but not limited to, board composition, capital structure, exchange, or transfer of equities, and termination) signed by the chief executive officer and the members of the boards of directors of the Federal IntermediateCredit Bank of Jackson and the Farm Credit Bank, the Farm Credit Administration shall, on its determination that the letter of intent represents a bona fide good faith agreement in principle between the two banks to merge, and that there is at least a reasonable prospect that the merger will be completed in an expeditious manner, grant a one-time extension, until a date certain not later than October 31, 1993, of the requirement under subparagraph (A). Any extension provided under this subparagraph may be conditioned on such terms and conditions as the Farm Credit Administration determines necessary to ensure that the merger described in the letter of intent is completed by the closing date of the extension.
+Letter of intent.—If no later than June 30, 1993, the Federal Intermediate Credit Bank of Jackson delivers to the Farm Credit Administration a letter of intent to merge with a Farm Credit Bank, summarizing the terms and conditions of the merger (including, but not limited to, board composition, capital structure, exchange, or transfer of equities, and termination) signed by the chief executive officer and the members of the boards of directors of the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank, the Farm Credit Administration shall, on its determination that the letter of intent represents a bona fide good faith agreement in principle between the two banks to merge, and that there is at least a reasonable prospect that the merger will be completed in an expeditious manner, grant a one-time extension, until a date certain not later than October 31, 1993, of the requirement under subparagraph (A). Any extension provided under this subparagraph may be conditioned on such terms and conditions as the Farm Credit Administration determines necessary to ensure that the merger described in the letter of intent is completed by the closing date of the extension.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -182,7 +182,7 @@ Development of merger plans.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Not later than 100 days after the issuance of an order by the Farm Credit Administration under paragraph (1)(D), the arbitrator shall develop and submit for certification to the Farm Credit Administration a plan specifying the terms and conditions of the merger of the two banks required under this paragraph, such that the terms and conditions are fair and equitable to the two banks, their affiliated associations, the stockholders or farmer-borrowers of the associations, and the other institutions of the Farm Credit System, and are designed to protect or enhance the safety and soundness of the Farm Credit System. In devising the plan, the arbitrator shall, to the extent practicable, achieve the following objectives:
+In general.—Not later than 100 days after the issuance of an order by the Farm Credit Administration under paragraph (1)(D), the arbitrator shall develop and submit for certification tothe Farm Credit Administration a plan specifying the terms and conditions of the merger of the two banks required under this paragraph, such that the terms and conditions are fair and equitable to the two banks, their affiliated associations, the stockholders or farmer-borrowers of the associations, and the other institutions of the Farm Credit System, and are designed to protect or enhance the safety and soundness of the Farm Credit System. In devising the plan, the arbitrator shall, to the extent practicable, achieve the following objectives:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) Implementation of the preferences expressed by the affected and interested parties in submissions under clause (ii).
 
@@ -206,7 +206,7 @@ Content of plan; farm credit bank.—The plan developed and submitted under clau
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) The terms and conditions on which the shares of capital stock of the Federal Intermediate Credit Bank of Jackson and, if necessary, the Farm Credit Bank of Texas, will be converted into shares of the resulting Farm Credit Bank.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) The capital structure and capitalization levels of the resulting Farm Credit Bank andthe affiliated associations of the Farm Credit Bank in the States of Alabama, Louisiana, and Mississippi as the arbitrator determines necessary to carry out the purposes of this paragraph (which shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) The capital structure and capitalization levels of the resulting Farm Credit Bank and the affiliated associations of the Farm Credit Bank in the States of Alabama, Louisiana, and Mississippi as the arbitrator determines necessary to carry out the purposes of this paragraph (which shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) The terms of financing agreements between any production credit associations or agricultural credit associations described in clause (iv), and the resulting Farm Credit Bank (which shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations).
 
@@ -232,7 +232,7 @@ Content of plan; agricultural credit associations.—If the arbitrator determine
 
 &emsp;&emsp;&emsp;"(v)
 
-Consultation with insurance corporation.—The arbitrator shall consult with the Farm Credit System Insurance Corporation regarding the valuation of the assets and liabilities under the plan of merger, the capitalization of the Farm Credit System institutions resulting under the plan, and any other matters relevant to the assistance to be provided by the Insurance Corporation to facilitate the merger under subparagraph (H).
+Consultation with insurance corporation.—The arbitrator shall consult with the Farm Credit System Insurance Corporation regarding the valuation of the assets and liabilities under the plan of merger, the capitalization of the FarmCredit System institutions resulting under the plan, and any other matters relevant to the assistance to be provided by the Insurance Corporation to facilitate the merger under subparagraph (H).
 
 &emsp;&emsp;"(E)
 

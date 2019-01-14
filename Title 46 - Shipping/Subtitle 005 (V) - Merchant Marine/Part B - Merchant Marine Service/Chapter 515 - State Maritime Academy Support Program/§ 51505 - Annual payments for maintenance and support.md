@@ -18,13 +18,9 @@ In general.—Subject to paragraph (2), an annual payment to an academy under su
 
 &emsp;(2)
 
-Maximum.—The amount under paragraph (1) may not be more than $25,000. However, if the academy satisfies section 51506(b) of this title, the amount shall be—
+Maximum.—The amount under paragraph (1) may not be more than $25,000, unless the academy satisfies section 51506(b) of this title.
 
-&emsp;&emsp;(A) $100,000 for a State maritime academy; and
-
-&emsp;&emsp;(B) $300,000 for fiscal year 2006, $400,000 for fiscal year 2007, and $500,000 for fiscal year 2008 and each fiscal year thereafter for a regional maritime academy.
-
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1578; Pub. L. 109–163, div. C, title XXXV, §3502(a), Jan.6, 2006, 119 Stat. 3547; Pub. L. 110–181, div. C, title XXXV, §3523(a)(3), (b), Jan. 28, 2008, 122 Stat. 599, 600.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1578; Pub. L. 109–163, div. C, title XXXV, §3502(a), Jan. 6, 2006, 119 Stat. 3547; Pub. L. 110–181, div. C, title XXXV, §3523(a)(3), (b), Jan. 28, 2008, 122 Stat. 599, 600; Pub. L. 115–232, div. C, title XXXV, §3515(d), Aug. 13, 2018, 132 Stat. 2313.)
 
 Historical and Revision Notes
 
@@ -45,6 +41,12 @@ June 29, 1936, ch. 858, title XIII, §1304(d)(1), as added Pub. L. 96–453, §2
 In subsection (b)(1), the reference to territories is omitted as unnecessary because of the definition of "State" in chapter 1 of the revised title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2). Pub. L. 115–232 amended par. (2) generally. Prior to amendment, text read as follows: "The amount under paragraph (1) may not be more than $25,000. However, if the academy satisfies section 51506(b) of this title, the amount shall be—
+
+&emsp;"(A) $100,000 for a State maritime academy; and
+
+&emsp;"(B) $300,000 for fiscal year 2006, $400,000 for fiscal year 2007, and $500,000 for fiscal year 2008 and each fiscal year thereafter for a regional maritime academy."
 
 <b>2008</b>—Pub. L. 110–181, §3523(b), repealed Pub. L. 109–163, §3502(a). See 2006 Amendment note below.
 

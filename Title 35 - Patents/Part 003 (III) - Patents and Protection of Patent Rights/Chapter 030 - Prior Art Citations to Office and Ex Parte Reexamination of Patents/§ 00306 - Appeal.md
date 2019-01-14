@@ -18,5 +18,5 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 #### Effective Date
 
-Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
+Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, seesection 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 

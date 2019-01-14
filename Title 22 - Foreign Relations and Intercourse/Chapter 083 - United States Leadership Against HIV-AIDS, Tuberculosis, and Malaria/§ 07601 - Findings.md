@@ -16,7 +16,7 @@ Congress makes the following findings:
 
 &emsp;(5) An estimated 2,000,000 individuals in Latin America and the Caribbean and another 7,100,000 individuals in Asia and the Pacific region are infected with HIV or living with AIDS. Infection rates are rising alarmingly in Eastern Europe (especially in the Russian Federation), Central Asia, and China.
 
-&emsp;(6) HIV/AIDS threatens personal security by affecting the health, lifespan, and productivecapacity of the individual and the social cohesion and economic well-being of the family.
+&emsp;(6) HIV/AIDS threatens personal security by affecting the health, lifespan, and productive capacity of the individual and the social cohesion and economic well-being of the family.
 
 &emsp;(7) HIV/AIDS undermines the economic security of a country and individual businesses in that country by weakening the productivity and longevity of the labor force across a broad array of economic sectors and by reducing the potential for economic growth over the long term.
 
@@ -48,7 +48,7 @@ Congress makes the following findings:
 
 &emsp;(18) Nongovernmental organizations, including faith-based organizations, with experience in health care and HIV/AIDS counseling, have proven effective in combating the HIV/AIDS pandemic and can be a resource in assisting indigenous organizations in severely affected countries in their efforts to provide treatment and care for individuals infected with HIV/AIDS.
 
-&emsp;(19) Faith-based organizations are making an important contribution to HIV prevention and AIDS treatment programs around the world. Successful HIV prevention programs in Uganda, Jamaica, and elsewhere have includedlocal churches and faith-based groups in efforts to promote behavior changes to prevent HIV, to reduce stigma associated with HIV infection, to treat those afflicted with the disease, and to care for orphans. The Catholic Church alone currently cares for one in four people being treated for AIDS worldwide. Faith-based organizations possess infrastructure, experience, and knowledge that will be needed to carry out these programs in the future and should be an integral part of United States efforts.
+&emsp;(19) Faith-based organizations are making an important contribution to HIV prevention and AIDS treatment programs around the world. Successful HIV prevention programs in Uganda, Jamaica, and elsewhere have included local churches and faith-based groups in efforts to promote behavior changes to prevent HIV, to reduce stigma associated with HIV infection, to treat those afflicted with the disease, and to care for orphans. The Catholic Church alone currently cares for one in four people being treated for AIDS worldwide. Faith-based organizations possess infrastructure, experience, and knowledge that will be needed to carry out these programs in the future and should be an integral part of United States efforts.
 
 &emsp;(20)(A) Uganda has experienced the most significant decline in HIV rates of any country in Africa, including a decrease among pregnant women from 20.6 percent in 1991 to 7.9 percent in 2000.
 
@@ -176,6 +176,10 @@ This chapter, referred to in pars. (29) and (41), was in the original "this Act"
 
 <b>2008</b>—Pars. (29) to (41). Pub. L. 110–293 added pars. (29) to (41).
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–305, §1, Dec. 11, 2018, 132 Stat. 4402, provided that: "This Act \[amending sections 7611, 7622, and 7673 of this title\] may be cited as the 'PEPFAR Extension Act of 2018'."
+
 #### Short Title of 2013 Amendment
 
 Pub. L. 113–56, §1, Dec. 2, 2013, 127 Stat. 648, provided that: "This Act \[amending sections 2151b–2, 7611, 7622, and 7673 of this title\] may be cited as the 'PEPFAR Stewardship and Oversight Act of 2013'."
@@ -190,5 +194,5 @@ Pub. L. 108–25, §1(a), May 27, 2003, 117 Stat. 711, provided that: "This Act 
 
 #### Delegation of Functions
 
-For delegation of functions of President under this chapter, except for functions set forth in section 7622(d)(4)(C)(i), (ii) of this title, to Secretary of State, see section 1–100(a)(16) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this chapter, except for functions set forth in section7622(d)(4)(C)(i), (ii) of this title, to Secretary of State, see section 1–100(a)(16) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

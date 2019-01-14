@@ -132,7 +132,7 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–221, §1, July 23, 1982, 96 Stat. 227, provided: "That this Act \[enacting subchapter II of this chapter,amending sections 3401 and 6106 of this title, and enacting provisions set out as notes under this section and section 6106 of this title\] may be cited as the 'Federal Employees Flexible and Compressed Work Schedules Act of 1982'."
+Pub. L. 97–221, §1, July 23, 1982, 96 Stat. 227, provided: "That this Act \[enacting subchapter II of this chapter, amending sections 3401 and 6106 of this title, and enacting provisions set out as notes under this section and section 6106 of this title\] may be cited as the 'Federal Employees Flexible and Compressed Work Schedules Act of 1982'."
 
 #### Delegation of Functions
 

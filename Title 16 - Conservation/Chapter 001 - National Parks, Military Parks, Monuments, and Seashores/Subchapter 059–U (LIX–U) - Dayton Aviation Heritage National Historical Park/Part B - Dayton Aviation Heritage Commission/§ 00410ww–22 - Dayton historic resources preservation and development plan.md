@@ -18,7 +18,7 @@ The plan referred to in subsection (a) shall—
 
 &emsp;(5) recommend methods for establishing partnerships with Federal, State, and local governments and the private sector to foster development and to preserve and enhance such resources;
 
-&emsp;(6) propose transportation links, including pedestrian facilities and bicycle trails among historic aviation sites including an interurban between the Wright-Dunbar Historic District and the historic resources at Wright-Patterson Air Force Base;
+&emsp;(6) propose transportation links, including pedestrian facilities and bicycle trails amonghistoric aviation sites including an interurban between the Wright-Dunbar Historic District and the historic resources at Wright-Patterson Air Force Base;
 
 &emsp;(7) address the use of private vehicles, traffic patterns, parking, and public transportation;
 
@@ -30,7 +30,7 @@ The plan referred to in subsection (a) shall—
 
 #### (c) Consultation
 
-In developing the plan, the Commission shall consult with appropriate officials of any localgovernment or Federal or State agency which has jurisdiction over historic aviation resources in the Miami Valley area. The Commission shall also consult with property owners and business, historic, professional, neighborhood, and citizen organizations affected by the actions proposed in the plan.
+In developing the plan, the Commission shall consult with appropriate officials of any local government or Federal or State agency which has jurisdiction over historic aviation resources in the Miami Valley area. The Commission shall also consult with property owners and business, historic, professional, neighborhood, and citizen organizations affected by the actions proposed in the plan.
 
 (Pub. L. 102–419, title II, §202, Oct. 16, 1992, 106 Stat. 2145.)
 

@@ -15,6 +15,6 @@ Pub. L. 100–233, title VIII, §804(b), Jan. 6, 1988, 101 Stat. 1715, substitut
 - [&sect; 02202 - Reconsideration of actions](%C2%A7%2002202%20-%20Reconsideration%20of%20actions.md)
 - [&sect; 02202a - Restructuring distressed loans](%C2%A7%2002202a%20-%20Restructuring%20distressed%20loans.md)
 - [&sect; 02202b - Effect of restructuring on borrower stock](%C2%A7%2002202b%20-%20Effect%20of%20restructuring%20on%20borrower%20stock.md)
-- [&sect; 02202c - Review of restructuring denials](%C2%A7%2002202c%20-%20Review%20of%20restructuring%20denials.md)
+- [&sect; 02202c - Repealed. Pub. L. 115&#8211;334, title V, &sect;5411(23), Dec. 20, 2018, 132 Stat. 4682](%C2%A7%2002202c%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20V%2C%20%C2%A75411%2823%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204682.md)
 - [&sect; 02202d - Protection of borrowers who meet all loan obligations](%C2%A7%2002202d%20-%20Protection%20of%20borrowers%20who%20meet%20all%20loan%20obligations.md)
 - [&sect; 02202e - Waiver of mediation rights by borrowers](%C2%A7%2002202e%20-%20Waiver%20of%20mediation%20rights%20by%20borrowers.md)

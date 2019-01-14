@@ -1,6 +1,6 @@
 ### §7302. Issuing merchant mariners' documents and continuous discharge books
 
-(a) The Secretary shall issue a merchant mariner's document to an individual required to have that document under part F of this subtitle if the individual satisfies the requirements of this part. The document serves as a certificate of identification and as a certificate of service, specifying each rating in which the holder is qualified to serve on board vessels on which that document is required under part F.
+(a) The Secretary shall issue a merchant mariner's document to an individual required to have that document under part F of this subtitle if the individual satisfies the requirements of this part. The document serves as a certificate of identification and as a certificate of service, specifying each rating in which the holder isqualified to serve on board vessels on which that document is required under part F.
 
 (b) The Secretary also may issue a continuous discharge book to an individual issued a merchant mariner's document if the individual requests.
 
@@ -60,7 +60,7 @@ Subsection (b) allows the Secretary to issue a continuous discharge book to an i
 
 Pub. L. 109–241, §901(h)(2), inserted "section" before "30305(b)(5)" and before "30304(a)(3)(A)".
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–293, §609(1), as amended by Pub. L. 109–241, §901(h)(1), substituted "30305(b)(5) of title 49" for "section 206(b)(7) of the National DriverRegister Act of 1982 (23 U.S.C. 401 note)" and "30304(a)(3)(A) or (B) of title 49" for "section 205(a)(3)(A) or (B) of that Act".
+<b>2004</b>—Subsec. (c). Pub. L. 108–293, §609(1), as amended by Pub. L. 109–241, §901(h)(1), substituted "30305(b)(5) of title 49" for "section 206(b)(7) of the National Driver Register Act of 1982 (23 U.S.C. 401 note)" and "30304(a)(3)(A) or (B) of title 49" for "section 205(a)(3)(A) or (B) of that Act".
 
 <b>2002</b>—Subsec. (f). Pub. L. 107–295, §324(a)(1), substituted "Except as provided in subsection (g), a" for "A".
 
@@ -78,13 +78,17 @@ Pub. L. 109–241, title IX, §901(h)(1), July 11, 2006, 120 Stat. 564, provided
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
 
+#### Radar Refresher Training
+
+Pub. L. 115–282, title VIII, §829, Dec. 4, 2018, 132 Stat. 4314, provided that: "Not later than 60 days after the date of enactment of this Act \[Dec. 4, 2018\], the Secretary of the department in which the Coast Guard is operating shall prescribe a final rule eliminating the requirement that a mariner actively using the mariner's credential complete an approved refresher or recertification course to maintain a radar observer endorsement. This rulemaking shall be exempt from chapters 5 and 6 of title 5, United States Code, and Executive Orders 12866 and 13563 \[5 U.S.C. 601 notes\]."
+
 #### Merchant Mariner Credential Expiration Harmonization
 
 Pub. L. 114–120, title III, §304, Feb. 8, 2016, 130 Stat. 53, provided that:
 
 "(a)
 
-In General.—Except as provided in subsection (c) and not later than 1 year after the date of the enactment of this Act \[Feb. 8, 2016\], the Secretary of the department in which the Coast Guard is operating shall establish a process to harmonize the expiration dates of merchant mariner credentials, mariner medical certificates, and radar observer endorsements for individuals applying to the Secretary for a new merchant mariner credential or for renewal of an existing merchant mariner credential.
+In General.—Except as provided in subsection (c) and not later than 1 year after the date of the enactment of this Act \[Feb. 8, 2016\], the Secretary of the department in which the Coast Guard is operating shall establish a process to harmonize the expiration dates ofmerchant mariner credentials, mariner medical certificates, and radar observer endorsements for individuals applying to the Secretary for a new merchant mariner credential or for renewal of an existing merchant mariner credential.
 
 "(b)
 

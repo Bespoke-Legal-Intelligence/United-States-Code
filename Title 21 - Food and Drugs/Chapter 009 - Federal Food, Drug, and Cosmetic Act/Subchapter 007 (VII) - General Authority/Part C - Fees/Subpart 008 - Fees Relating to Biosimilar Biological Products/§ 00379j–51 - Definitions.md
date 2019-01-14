@@ -18,7 +18,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(i) a supplement to such an application;
 
-&emsp;&emsp;(ii) an application filed under section 262(k) of title 42 that cites as the reference product a bovine blood product for topical application licensed before September 1, 1992, or a large volume parenteral drug product approved before such date;
+&emsp;&emsp;(ii) an application filed under section 262(k) of title 42 that cites as the referenceproduct a bovine blood product for topical application licensed before September 1, 1992, or a large volume parenteral drug product approved before such date;
 
 &emsp;&emsp;(iii) an application filed under section 262(k) of title 42 with respect to—
 
@@ -74,7 +74,7 @@ For purposes of this subpart:
 
 &emsp;(12) The term "person" includes an affiliate of such person.
 
-&emsp;(13) The term "process for the review of biosimilar biological product applications"means the following activities of the Secretary with respect to the review of submissions in connection with biosimilar biological product development, biosimilar biological product applications, and supplements:
+&emsp;(13) The term "process for the review of biosimilar biological product applications" means the following activities of the Secretary with respect to the review of submissions in connection with biosimilar biological product development, biosimilar biological product applications, and supplements:
 
 &emsp;&emsp;(A) The activities necessary for the review of submissions in connection with biosimilar biological product development, biosimilar biological product applications, and supplements.
 
@@ -144,7 +144,7 @@ Pub. L. 115–52, title IV, §407, Aug. 18, 2017, 131 Stat. 1035, provided that:
 
 #### Finding of 2017 Amendment
 
-Pub. L. 115–52, title IV, §401(b), Aug. 18, 2017, 131 Stat. 1028, provided that: "The Congress finds that the fees authorized by the amendments made in this title \[seesection 401(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under section 301 of this title\] will be dedicated to expediting the process for the review of biosimilar biological product applications, including postmarket safety activities, as set forth in the goals identified for purposes of part 8 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–51 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record."
+Pub. L. 115–52, title IV, §401(b), Aug. 18, 2017, 131 Stat. 1028, provided that: "The Congress finds that the fees authorized by the amendments made in this title \[see section 401(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under section 301 of this title\] will be dedicated to expediting the process for the review of biosimilar biological product applications, including postmarket safety activities, as set forth in the goals identified for purposes of part 8 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–51 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record."
 
 #### Finding of 2012 Amendment
 

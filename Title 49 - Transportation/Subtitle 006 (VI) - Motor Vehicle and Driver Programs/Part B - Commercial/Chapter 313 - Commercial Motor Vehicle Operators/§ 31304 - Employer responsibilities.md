@@ -30,7 +30,7 @@ Record keeping.—A copy of the reports received under paragraph (1) shall be ma
 
 Exceptions to record review requirement.—Paragraph (1) shall not apply to a driver employed by an employer who, in any 7-day period, is employed or used as a driver by more than 1 employer—
 
-&emsp;&emsp;(A) if the employer obtains the driver's identification number, type, and issuing State of the driver's commercial motor vehicle license; or
+&emsp;&emsp;(A) if the employer obtains the driver's identification number, type, and issuingState of the driver's commercial motor vehicle license; or
 
 &emsp;&emsp;(B) if the information described in subparagraph (A) is furnished by another employer and the employer that regularly employs the driver meets the other requirements under this section.
 

@@ -16,13 +16,13 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 &emsp;&emsp;(A) all OMB estimates for the budget year of direct spending and receipts legislation transmitted under subsection (d);
 
-&emsp;&emsp;(B) the estimated amount of savings in direct spending programs applicable to thebudget year resulting from the prior year's sequestration under this section or section 903 of this title, if any, as published in OMB's final sequestration report for that prior year; and
+&emsp;&emsp;(B) the estimated amount of savings in direct spending programs applicable to the budget year resulting from the prior year's sequestration under this section or section 903 of this title, if any, as published in OMB's final sequestration report for that prior year; and
 
 &emsp;&emsp;(C) any net deficit increase or decrease in the current year resulting from all OMB estimates for the current year of direct spending and receipts legislation transmitted under subsection (d) that were not reflected in the final OMB sequestration report for the current year.
 
 #### (c) Eliminating a deficit increase
 
-(1) The amount required to be sequestered in a fiscal year under subsection (b) shall be obtained from non-exempt direct spending accounts from actions taken in the following order:
+(1) The amount required to be sequestered in a fiscal year under subsection (b) shall be obtainedfrom non-exempt direct spending accounts from actions taken in the following order:
 
 #### (A) First
 
@@ -96,7 +96,7 @@ Subsec. (c)(1)(C)(i). Pub. L. 113–67, §121(2), substituted "subsection (b)" f
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–33, §10205(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "The purpose of this section is to assure that any legislation (enacted after November 5, 1990) affecting direct spending or receipts that increases the deficit in any fiscal year covered by this Act will trigger an offsetting sequestration."
 
-Subsec. (b). Pub. L. 105–33, §10205(1), added subsec. (b) and struck out heading and text of former subsec. (b) which required sequestrations at the end of a session of Congress to offset amount of any net deficit increase in that fiscal year and prior fiscal year caused by all direct spending and receipts legislation enacted after Nov. 5, 1990.
+Subsec. (b). Pub. L. 105–33, §10205(1), added subsec. (b) and struck out heading and text of former subsec. (b)which required sequestrations at the end of a session of Congress to offset amount of any net deficit increase in that fiscal year and prior fiscal year caused by all direct spending and receipts legislation enacted after Nov. 5, 1990.
 
 Subsec. (c)(1)(B). Pub. L. 105–33, §10205(2), inserted "and direct" after "guaranteed".
 

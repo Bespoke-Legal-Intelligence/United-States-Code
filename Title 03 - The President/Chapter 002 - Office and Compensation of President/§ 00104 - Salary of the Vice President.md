@@ -42,7 +42,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 704(b) of Pub. L. 101–194, set out as a noteunder section 5318 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 704(b) of Pub. L. 101–194, set out as a note under section 5318 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1982 Amendment
 

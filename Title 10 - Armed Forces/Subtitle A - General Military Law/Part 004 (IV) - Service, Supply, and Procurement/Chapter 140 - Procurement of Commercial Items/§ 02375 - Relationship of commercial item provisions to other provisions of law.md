@@ -12,7 +12,7 @@ Applicability of Government-wide Statutes.—(1) No contract for the procurement
 
 Applicability of Defense-unique Statutes to Contracts for Commercial Items.—(1) The Defense Federal Acquisition Regulation Supplement shall include a list of defense-unique provisions of law and of contract clause requirements based on government-wide acquisition regulations, policies, or executive orders not expressly authorized in law that are inapplicable to contracts for the procurement of commercial items. A provision of law or contract clause requirement properly included on the list pursuant to paragraph (2) does not apply to purchases of commercial items by the Department of Defense. This section does not render a provision of law or contract clause requirement not included on the list inapplicable to contracts for the procurement of commercial items.
 
-(2) A provision of law or contract clause requirement described in subsection (e) that is enacted after January 1, 2015, shall be included on the list of inapplicable provisions of law and contract clause requirements required by paragraph (1) unless the Under Secretary of Defense for Acquisition, Technology, and Logistics makes a written determination that it would not be in the best interest of the Department of Defense to exempt contracts for the procurement of commercial items from the applicability of the provision or contract clause requirement.
+(2) A provision of law or contract clause requirement described in subsection (e) that is enacted after October 13, 1994, shall be included on the list of inapplicable provisions of law and contract clause requirements required by paragraph (1) unless the Under Secretary of Defense for Acquisition, Technology, and Logistics makes a written determination that it would not be in the best interest of the Department of Defense to exempt contracts for the procurement of commercial items from the applicability of the provision or contract clause requirement.
 
 (c)
 
@@ -32,7 +32,7 @@ Applicability of Defense-unique Statutes to Contracts for Commercially Available
 
 (e)
 
-Covered Provision of Law or Contract Clause Requirement.—A provision of law or contract clause requirement referred to in subsections (b)(2), (c)(2), and (d)(2) is a provision oflaw or contract clause requirement that the Under Secretary of Defense for Acquisition, Technology, and Logistics determines sets forth policies, procedures, requirements, or restrictions for the procurement of property or services by the Federal Government, except for a provision of law or contract clause requirement that—
+Covered Provision of Law or Contract Clause Requirement.—A provision of law or contract clause requirement referred to in subsections (b)(2), (c)(2), and (d)(2) is a provision of law or contract clause requirement that the Under Secretary of Defense for Acquisition, Technology, and Logistics determines sets forth policies, procedures, requirements, or restrictions for the procurement of property or services by the Federal Government, except for a provision of law or contract clause requirement that—
 
 &emsp;(1) provides for criminal or civil penalties;
 
@@ -40,9 +40,37 @@ Covered Provision of Law or Contract Clause Requirement.—A provision of law or
 
 &emsp;(3) specifically refers to this section and provides that, notwithstanding this section, it shall be applicable to contracts for the procurement of commercial items.
 
-(Added Pub. L. 103–355, title VIII, §8102, Oct. 13, 1994, 108 Stat. 3390; amended Pub. L. 105–85, div. A, title X, §1073(a)(51), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–107, div. A, title X, §1048(a)(18), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 111–350, §5(b)(21), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 114–328, div. A, title VIII, §874(a), Dec. 23, 2016, 130 Stat. 2308.)
+(Added Pub. L. 103–355, title VIII, §8102, Oct. 13, 1994, 108 Stat. 3390; amended Pub. L. 105–85, div. A, title X, §1073(a)(51), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–107, div. A, title X, §1048(a)(18), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 111–350, §5(b)(21), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 114–328, div. A, title VIII, §874(a), Dec. 23, 2016, 130 Stat. 2308; Pub. L. 115–232, div. A, title VIII, §§836(d)(1), (8)(B), 837(a), Aug. 13, 2018, 132 Stat. 1866, 1868, 1875.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(d)(1), (8)(B), (h), Aug. 13, 2018, 132 Stat. 1866, 1868, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:</i>
+
+<i>(1) by amending section catchline to read "Relationship of other provisions of law to procurement of commercial products and commercial services";</i>
+
+<i>(2) in subsection (a)(1), (2), by striking "commercial item" and inserting "commercial product or commercial service";</i>
+
+<i>(3) in subsections (b) and (c)—</i>
+
+<i>(A) in heading, by striking "Commercial Items" and inserting "Commercial Products and Commercial Services"; and</i>
+
+<i>(B) by striking "commercial items" each place it appears and inserting "commercial products and commercial services"; and</i>
+
+<i>(4) in subsection (e)(3), by striking "commercial items" and inserting "commercial products and commercial services".</i>
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, §836(d)(8)(B), substituted "Relationship of other provisions of law to procurement of commercial products and commercial services" for "Relationship of commercial item provisions to other provisions of law" in section catchline.
+
+Subsec. (a)(1), (2). Pub. L. 115–232, §836(d)(1)(A), substituted "commercial product or commercial service" for "commercial item".
+
+Subsec. (b). Pub. L. 115–232, §836(d)(1)(B), in heading, substituted "Commercial Products and Commercial Services" for "Commercial Items" and, in text, substituted "commercial products and commercial services" for "commercial items" wherever appearing.
+
+Subsec. (b)(2). Pub. L. 115–232, §837(a), substituted "October 13, 1994" for "January 1, 2015".
+
+Subsec. (c). Pub. L. 115–232, §836(d)(1)(B), in heading, substituted "Commercial Products and Commercial Services" for "Commercial Items" and, in text, substituted "commercial products and commercial services" for "commercial items" wherever appearing.
+
+Subsec. (e)(3). Pub. L. 115–232, §836(d)(1)(C), substituted "commercial products and commercial services" for "commercial items".
 
 <b>2016</b>—Pub. L. 114–328 amended section generally. Prior to amendment, text read as follows:
 
@@ -63,6 +91,10 @@ Cross Reference to Exception to Cost or Pricing Data Requirements for Commercial
 <b>2001</b>—Subsec. (b). Pub. L. 107–107 inserted "(41 U.S.C. 430)" after "section 34 of the Office of Federal Procurement Policy Act".
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–85 substituted "a provision relating to an exception" for "provisions relating to exceptions" and "section 2306a(b)" for "section 2306a(d)".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by section 836(d)(1), (8)(B) of Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
 #### Effective Date
 
@@ -90,9 +122,9 @@ Subcontracts.—In this subsection, the term 'subcontract' includes a transfer o
 
 #### Provisions Not Affected by Title VIII of Pub. L. 103–355
 
-Pub. L. 103–355, title VIII, §8304, Oct. 13, 1994, 108 Stat. 3398, provided that: "Nothing in this title \[see Tables for classification\] shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under—
+Pub. L. 103–355, title VIII, §8304, Oct. 13, 1994, 108 Stat. 3398, as amended by Pub. L. 115–232, div. A, title VIII, §812(a)(2)(C)(iii), Aug. 13, 2018, 132 Stat. 1847, provided that: "Nothing in this title \[see Tables for classification\] shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under—
 
-&emsp;"(1) section 2323 of title 10, United States Code, or section 7102 of the Federal Acquisition Streamlining Act of 1994 \[Pub. L. 103–355, 15 U.S.C. 644 note\];
+&emsp;"(1) section 7102 of the Federal Acquisition Streamlining Act of 1994 \[Pub. L. 103–355, 15 U.S.C. 644 note\];
 
 &emsp;"(2) the Brooks Automatic Data Processing Act (section 111 of the Federal Property and Administrative Services Act of 1949 (\[former\] 40 U.S.C. 759));
 

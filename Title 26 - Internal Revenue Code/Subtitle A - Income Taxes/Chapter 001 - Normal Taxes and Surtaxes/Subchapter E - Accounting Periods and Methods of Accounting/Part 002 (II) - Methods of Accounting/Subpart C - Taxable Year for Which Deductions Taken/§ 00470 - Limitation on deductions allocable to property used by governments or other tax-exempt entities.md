@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (B) Exception for partnerships
 
-&emsp;&emsp;Such term shall not include any property which would (but for this subparagraph) betax-exempt use property solely by reason of section 168(h)(6).
+&emsp;&emsp;Such term shall not include any property which would (but for this subparagraph) be tax-exempt use property solely by reason of section 168(h)(6).
 
 #### (C) Cross reference
 
@@ -70,7 +70,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 #### (ii) Higher amount permitted in certain cases
 
-&emsp;&emsp;&emsp;To the extent provided in regulations, a higher percentage shall be permitted under clause (i) where necessary because of the credit-worthiness of the lessee. In no event may such regulations permit a percentage of more than 50 percent.
+&emsp;&emsp;&emsp;To the extent provided in regulations, a higher percentage shall be permitted underclause (i) where necessary because of the credit-worthiness of the lessee. In no event may such regulations permit a percentage of more than 50 percent.
 
 #### (iii) Option to purchase
 
@@ -104,7 +104,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 #### (B) Risk of loss
 
-&emsp;&emsp;For purposes of clause (ii),<sup>1</sup> the fair market value at the end of the lease term shall be reduced to the extent that a person other than the lessor bears a risk of loss in the value of the property.
+&emsp;&emsp;For purposes of subparagraph (A)(ii), the fair market value at the end of the lease term shall be reduced to the extent that a person other than the lessor bears a risk of loss in the value of the property.
 
 #### (C) Paragraph not to apply to short-term leases
 
@@ -122,7 +122,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 #### (B) Exception
 
-&emsp;&emsp;The Secretary may by regulations provide that the requirements of this paragraph arenot met where the lessee bears more than a minimal risk of loss.
+&emsp;&emsp;The Secretary may by regulations provide that the requirements of this paragraph are not met where the lessee bears more than a minimal risk of loss.
 
 #### (C) Paragraph not to apply to short-term leases
 
@@ -212,9 +212,11 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) provide for the determination of the allocation of interest expense for purposes of this section.
 
-(Added Pub. L. 108–357, title VIII, §848(a), Oct. 22, 2004, 118 Stat. 1602; amended Pub. L. 110–172, §7(c), Dec. 29, 2007, 121 Stat. 2482.)
+(Added Pub. L. 108–357, title VIII, §848(a), Oct. 22, 2004, 118 Stat. 1602; amended Pub. L. 110–172, §7(c), Dec. 29, 2007, 121 Stat. 2482; Pub. L. 115–141, div. U, title IV, §401(a)(120), Mar. 23, 2018, 132 Stat. 1190.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(2)(B). Pub. L. 115–141 substituted "subparagraph (A)(ii)" for "clause (ii)".
 
 <b>2007</b>—Subsec. (c)(2). Pub. L. 110–172, §7(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The term 'tax-exempt use property' has the meaning given to such term by section 168(h), except that such section shall be applied—
 
@@ -236,7 +238,7 @@ Subsec. (d)(1)(A). Pub. L. 110–172, §7(c)(2), in introductory provisions, sub
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–172 effective as if included in the provision of the American Jobs Creation Act of2004, Pub. L. 108–357, to which such amendment relates, see section 7(e) of Pub. L. 110–172, set out as a note under section 1092 of this title.
+Amendment by Pub. L. 110–172 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 7(e) of Pub. L. 110–172, set out as a note under section 1092 of this title.
 
 #### Effective Date
 
@@ -271,6 +273,4 @@ Exchanges and conversion of tax-exempt use property.—Section 470(e)(4) of the 
 &emsp;"(4)
 
 Intangibles and indian tribal governments.—The amendments made subsections (b)(2), (b)(3), and (e) of section 847 \[amending sections 167, 168, and 197 of this title\], and the treatment of property described in clauses (ii) and (iii) of section 470(c)(2)(B) of the Internal Revenue Code of 1986 (as added by section 848) as tangible property, shall apply to leases entered into after October 3, 2004."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "subparagraph (A)(ii)".</i>
 

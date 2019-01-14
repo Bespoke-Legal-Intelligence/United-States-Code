@@ -26,5 +26,5 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date
 
-Section applicable with respect to pleadings filed with the United States Tax Court, the district court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after Oct. 4, 1976, but only with respect to determinations (or requests for determinations) made after Jan. 1, 1976, see section 1306(c) of Pub. L. 94–455, set out as a note under section 7428 of Title 26, Internal Revenue Code.
+Section applicable with respect to pleadings filed with the United States Tax Court, the district court ofthe United States for the District of Columbia, or the United States Court of Claims more than 6 months after Oct. 4, 1976, but only with respect to determinations (or requests for determinations) made after Jan. 1, 1976, see section 1306(c) of Pub. L. 94–455, set out as a note under section 7428 of Title 26, Internal Revenue Code.
 

@@ -44,7 +44,7 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 #### (B) Applicability
 
-&emsp;&emsp;If, on or after the date of the enactment of this paragraph, an increase in the rate of theCommonwealth of Puerto Rico's withholding tax which is generally applicable to dividends paid to United States corporations not engaged in a trade or business in the Commonwealth to a rate greater than 10 percent takes effect, this paragraph shall not apply to dividends received on or after the effective date of the increase.
+&emsp;&emsp;If, on or after the date of the enactment of this paragraph, an increase in the rate of the Commonwealth of Puerto Rico's withholding tax which is generally applicable to dividends paid to United States corporations not engaged in a trade or business in the Commonwealth to a rate greater than 10 percent takes effect, this paragraph shall not apply to dividends received on or after the effective date of the increase.
 
 #### (3) Definitions
 
@@ -130,7 +130,7 @@ No tax shall be imposed under paragraph (1) or (3) of subsection (a) on any amou
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), no tax shall be imposed under paragraph (1) of subsection (a) on any interest-related dividend (as defined in section 871(k)(1)) received from a regulated investment company.
+&emsp;&emsp;Except as provided in subparagraph (B), no tax shall be imposed under paragraph (1) ofsubsection (a) on any interest-related dividend (as defined in section 871(k)(1)) received from a regulated investment company.
 
 #### (B) Exception
 
@@ -270,7 +270,7 @@ Amendment by section 1214(c)(2) of Pub. L. 99–514 applicable to payments made 
 
 Amendment by section 1223(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1223(c) of Pub. L. 99–514, set out as a note under section 864 of this title.
 
-Amendment by section 1273(b)(1), (2)(A) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
+Amendment by section 1273(b)(1), (2)(A) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, seesection 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
 Amendment by section 1810(d)(1)(B), (3)(C), (e)(2)(B) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

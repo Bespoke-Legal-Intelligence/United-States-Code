@@ -6,7 +6,7 @@
 
 &emsp;The Secretary shall require that an applicant for, and a recipient of, a grant, contract, or cooperative agreement for a project under part B or C—
 
-&emsp;&emsp;(A) involve individuals with disabilities or parents of individuals with disabilities ages birth through 26 in planning, implementing, and evaluating the project; and
+&emsp;&emsp;(A) involve individuals with disabilities or parents of individuals with disabilities agesbirth through 26 in planning, implementing, and evaluating the project; and
 
 &emsp;&emsp;(B) where appropriate, determine whether the project has any potential for replication and adoption by other entities.
 
@@ -102,7 +102,7 @@ The Secretary may use funds made available to carry out part B or C to evaluate 
 
 #### References in Text
 
-The Education Sciences Reform Act of 2002, referred to in subsec. (d)(2), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, as amended. Part E of the Act is classified generally to part E (§9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Education Sciences Reform Act of 2002, referred to in subsec. (d)(2), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, as amended. Part E of the Act isclassified generally to part E (§9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
 #### Prior Provisions
 

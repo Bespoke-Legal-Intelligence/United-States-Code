@@ -10,7 +10,7 @@ All support, including transportation provided to volunteers under this chapter,
 
 #### (c) Compensation of supervising agencies or organizations
 
-No agency or organization to which volunteers are assigned hereunder, or which operates or supervises any volunteer program hereunder, shall request or receive any compensation from suchvolunteers or from beneficiaries for services of volunteers supervised by such agency or organization.
+No agency or organization to which volunteers are assigned hereunder, or which operates or supervises any volunteer program hereunder, shall request or receive any compensation from such volunteers or from beneficiaries for services of volunteers supervised by such agency or organization.
 
 #### (d) Labor or antilabor organization activities; funds use prohibition
 

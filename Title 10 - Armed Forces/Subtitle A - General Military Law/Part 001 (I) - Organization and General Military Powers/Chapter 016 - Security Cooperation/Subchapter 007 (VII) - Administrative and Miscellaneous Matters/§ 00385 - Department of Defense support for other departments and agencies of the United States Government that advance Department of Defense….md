@@ -24,7 +24,7 @@ Notice and Wait.—If a determination is made to transfer funds in connection wi
 
 &emsp;&emsp;(A) a detailed description of the purpose and estimated cost of such program or activity;
 
-&emsp;&emsp;(B) a detailed description of the security cooperation objectives of the Department, include <sup>1</sup> the theater campaign plan of the combatant command concerned, that will be advanced;
+&emsp;&emsp;(B) a detailed description of the security cooperation objectives of the Department, including the theater campaign plan of the combatant command concerned, that will be advanced;
 
 &emsp;&emsp;(C) a justification why such program or activity will advance such objectives;
 
@@ -36,7 +36,9 @@ Notice and Wait.—If a determination is made to transfer funds in connection wi
 
 &emsp;(2) a period of 30 days elapses after the date of the submittal of the notice pursuant to paragraph (1).
 
-(Added Pub. L. 114–328, div. A, title XII, §1241(m), Dec. 23, 2016, 130 Stat. 2511.)
+(Added Pub. L. 114–328, div. A, title XII, §1241(m), Dec. 23, 2016, 130 Stat. 2511; amended Pub. L. 115–232, div. A, title XII, §1204(c)(1)(E), Aug. 13, 2018, 132 Stat. 2017.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be "including".</i>
+#### Amendments
+
+<b>2018</b>—Subsec. (d)(1)(B). Pub. L. 115–232 substituted "including" for "include".
 

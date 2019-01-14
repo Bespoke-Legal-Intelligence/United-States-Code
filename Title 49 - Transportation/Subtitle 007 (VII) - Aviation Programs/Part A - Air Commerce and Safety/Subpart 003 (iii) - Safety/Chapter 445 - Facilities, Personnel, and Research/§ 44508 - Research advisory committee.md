@@ -4,7 +4,7 @@
 
 Establishment and Duties.—(1) There is a research advisory committee in the Federal Aviation Administration. The committee shall—
 
-&emsp;(A) provide advice and recommendations to the Administrator of the Federal Aviation Administration about needs, objectives, plans, approaches, content, and accomplishments of the aviation research program carried out under sections 40119, 44504, 44505, 44507, 44511–44513, and 44912 of this title;
+&emsp;(A) provide advice and recommendations to the Administrator of the Federal Aviation Administration and Congress about needs, objectives, plans, approaches, content, and accomplishments of all aviation research and development activities and programs carried out,including those under sections 40119,<sup>1</sup> 44504, 44505, 44507, 44511–44513, and 44912 of this title;
 
 &emsp;(B) assist in ensuring that the research is coordinated with similar research being conducted outside the Administration;
 
@@ -12,7 +12,7 @@ Establishment and Duties.—(1) There is a research advisory committee in the Fe
 
 &emsp;(D) annually review the allocation made by the Administrator of the amounts authorized by section 48102(a) of this title among the major categories of research and development activities carried out by the Administration and provide advice and recommendations to the Administrator on whether such allocation is appropriate to meet the needs and objectives identified under subparagraph (A).
 
-(2) The Administrator may establish subordinate committees to provide advice on specific areas of research conducted under sections 40119, 44504, 44505, 44507, 44511–44513, and 44912 of this title.
+(2) The Administrator may establish subordinate committees to provide advice on specific areas of research conducted under sections 40119,<sup>1</sup> 44504, 44505, 44507, 44511–44513, and 44912 of this title.
 
 (b)
 
@@ -32,11 +32,39 @@ Nonapplication.—Section 14 of the Federal Advisory Committee Act (5 App. U.S.C
 
 (e)
 
-Use and Limitation of Amounts.—(1) Not more than .1 percent of the amounts made available to conduct research under sections 40119, 44504, 44505, 44507, 44511–44513, and 44912 of this title may be used by the Administrator to carry out this section.
+Use and Limitation of Amounts.—(1) Not more than .1 percent of the amounts made available to conduct research under sections 40119,<sup>1</sup> 44504, 44505, 44507, 44511–44513, and 44912 of this title may be used by the Administrator to carry out this section.
 
 (2) A limitation on amounts available for obligation by or for the committee does not apply to amounts made available to carry out this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1180; Pub. L. 104–264, title XI, §1104, Oct. 9, 1996, 110 Stat. 3279.)
+(f)
+
+Written Reply.—
+
+&emsp;(1)
+
+In general.—Not later than 60 days after receiving any recommendation from the research advisory committee, the Administrator shall provide a written reply to the research advisory committee that, at a minimum—
+
+&emsp;&emsp;(A) clearly states whether the Administrator accepts or rejects the recommendation;
+
+&emsp;&emsp;(B) explains the rationale for the Administrator's decision;
+
+&emsp;&emsp;(C) sets forth the timeframe in which the Administrator will implement the recommendation; and
+
+&emsp;&emsp;(D) describes the steps the Administrator will take to implement the recommendation.
+
+&emsp;(2)
+
+Transparency.—The written reply to the research advisory committee, when transmitted to the research advisory committee, shall be—
+
+&emsp;&emsp;(A) made publicly available on the research advisory committee website; and
+
+&emsp;&emsp;(B) transmitted to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+&emsp;(3)
+
+National aviation research plan.—The national aviation research plan required under section 44501(c) shall include a summary of all research advisory committee recommendations and a description of the status of their implementation.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1180; Pub. L. 104–264, title XI, §1104, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 115–254, div. B, title VII, §712, Oct. 5, 2018, 132 Stat. 3410.)
 
 Historical and Revision Notes
 
@@ -86,13 +114,21 @@ In subsection (e), the words "for fiscal years beginning after September 30, 198
 
 #### References in Text
 
+Section 40119 of this title, referred to in subsecs. (a)(1)(A), (2) and (e)(1), was repealed by Pub. L. 115–254, div. K, title I, §1991(c)(3), Oct. 5, 2018, 132 Stat. 3627.
+
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–254, §712(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "provide advice and recommendations to the Administrator of the Federal Aviation Administration about needs, objectives, plans, approaches, content, and accomplishments of the aviation research program carried out under sections 40119, 44504, 44505, 44507, 44511–44513, and 44912 of this title;".
+
+Subsec. (f). Pub. L. 115–254, §712(b), added subsec. (f).
 
 <b>1996</b>—Subsec. (a)(1)(D). Pub. L. 104–264 added subpar. (D).
 
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

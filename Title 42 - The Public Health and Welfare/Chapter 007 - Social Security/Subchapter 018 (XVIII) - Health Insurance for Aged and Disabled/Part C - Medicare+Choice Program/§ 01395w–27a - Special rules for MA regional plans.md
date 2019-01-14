@@ -72,7 +72,7 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;In the case of an MA organization that offers an MA regional plan in an MA region in 2006 or 2007, the organization shall notify the Secretary, before such date in the succeeding year as the Secretary specifies, of—
 
-&emsp;&emsp;&emsp;(i) its total amount of costs that the organization incurred in providing benefits covered under the original medicare fee-for-service program option for all enrolleesunder the plan in the region in the year and the portion of such costs that is attributable to administrative expenses described in subparagraph (C); and
+&emsp;&emsp;&emsp;(i) its total amount of costs that the organization incurred in providing benefits covered under the original medicare fee-for-service program option for all enrollees under the plan in the region in the year and the portion of such costs that is attributable to administrative expenses described in subparagraph (C); and
 
 &emsp;&emsp;&emsp;(ii) its total amount of costs that the organization incurred in providing rebatable integrated benefits (as defined in subparagraph (D)) and with respect to such benefits the portion of such costs that is attributable to administrative expenses described in subparagraph (C) and not described in clause (i) of this subparagraph.
 
@@ -140,7 +140,7 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;&emsp;(i) that an MA organization offering an MA regional plan shall provide the Secretary with such information as the Secretary determines is necessary to carry out this subsection; and
 
-&emsp;&emsp;&emsp;(ii) that, pursuant to section 1395w–27(d)(2)(B) of this title, the Secretary has the right to inspect and audit any books and records of the organizationthat pertain to the information regarding costs provided to the Secretary under paragraph (1)(B).
+&emsp;&emsp;&emsp;(ii) that, pursuant to section 1395w–27(d)(2)(B) of this title, the Secretary has the right to inspect and audit any books and records of the organization that pertain to the information regarding costs provided to the Secretary under paragraph (1)(B).
 
 #### (B) Restriction on use of information
 
@@ -156,7 +156,7 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;(B) with respect to each other State in such region in which it does not meet requirements, it demonstrates to the satisfaction of the Secretary that it has filed the necessary application to meet such requirements,
 
-> &emsp;the Secretary may waive such requirement with respect to each State described in subparagraph (B) for such period of time as the Secretary determines appropriate for the timely processing of such an application by the State (and, if such application is denied, through the end of such plan year as the Secretary determines appropriate to provide for a transition).
+> &emsp;the Secretary may waive such requirement with respect to each State described in subparagraph (B) for such period of time as theSecretary determines appropriate for the timely processing of such an application by the State (and, if such application is denied, through the end of such plan year as the Secretary determines appropriate to provide for a transition).
 
 #### (2) Selection of appropriate State
 
@@ -242,7 +242,7 @@ An MA regional plan shall include the following:
 
 #### (iii) Equal division among multiple plans in year in which plans are first available
 
-&emsp;&emsp;&emsp;In the case of an MA region in the first year in which any MA regional plan is offered, if more than one MA regional plan is offered in such year, the factor described in this subparagraph for a plan shall (as specified by the Secretary) be equal to—
+&emsp;&emsp;&emsp;In the case of an MA region in the first year in which any MA regional plan is offered, if more than one MA regional plan is offered in such year, the factor describedin this subparagraph for a plan shall (as specified by the Secretary) be equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) 1 divided by the number of such plans offered in such year; or
 
@@ -292,7 +292,7 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 &emsp;In this subsection, the term "essential hospital" means, with respect to an MA regional plan offered by an MA organization, a subsection (d) hospital (as defined in section 1395ww(d) of this title) that the Secretary determines, based upon an application filed by the organization with the Secretary, is necessary to meet the requirements referred to in paragraph (1) for such plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1858, as added Pub. L. 108–173, title II, §221(c), Dec. 8, 2003, 117 Stat. 2181; amended Pub. L. 109–432, div. B, title III, §301, Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §3, July 18, 2007, 121 Stat. 244; Pub. L. 110–173, title I, §110, Dec. 29, 2007, 121 Stat. 2497; Pub. L. 110–275, title I, §166, July 15, 2008, 122 Stat. 2575; Pub. L. 111–8, div. G, title I, §1301(f),Mar. 11, 2009, 123 Stat. 829; Pub. L. 111–148, title III, §3201(a)(2)(C), (f)(2), title X, §10327(c)(1), Mar. 23, 2010, 124 Stat. 444, 450, 964; Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1858, as added Pub. L. 108–173, title II, §221(c), Dec. 8, 2003, 117 Stat. 2181; amended Pub. L. 109–432, div. B, title III, §301, Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §3, July 18, 2007, 121 Stat. 244; Pub. L. 110–173, title I, §110, Dec. 29, 2007, 121 Stat. 2497; Pub. L. 110–275, title I, §166, July 15, 2008, 122 Stat. 2575; Pub. L. 111–8, div. G, title I, §1301(f), Mar. 11, 2009, 123 Stat. 829; Pub. L. 111–148, title III, §3201(a)(2)(C), (f)(2), title X, §10327(c)(1), Mar. 23, 2010, 124 Stat. 444, 450, 964; Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.)
 
 #### Amendments
 
@@ -302,7 +302,7 @@ Subsec. (f)(1). Pub. L. 111–148, §3201(a)(2)(C)(i), (f)(2)(A), which directed
 
 Subsec. (f)(3)(A). Pub. L. 111–148, §3201(a)(2)(C)(ii), which directed substitution of "1395w–23(j)(1)(A)(i)" for "1395w–23(j)(1)(A)", was repealed by Pub. L. 111–152, §1102(a). See Effective Date of 2010 Amendment note below.
 
-Subsec. (i). Pub. L. 111–148, §3201(f)(2)(B), which directed addition of subsec. (i), was repealed by Pub. L. 111–152, §1102(a). As enacted, text read as follows: "For years beginning with 2014, the Secretary shall apply the performance bonuses under section 1395w–23(n) of this title (relating to bonuses for care coordination and management, quality performance, and new and low enrollment MA plans) to MA regional plans in a similar manner as such performance bonuses apply to MA plans under such subsection." See Effective Date of 2010 Amendment note below.
+Subsec. (i). Pub. L. 111–148, §3201(f)(2)(B), which directed addition of subsec. (i), was repealed by Pub. L. 111–152, §1102(a). As enacted, text read as follows: "For years beginning with 2014, the Secretary shall apply the performance bonuses under section 1395w–23(n) of this title (relating to bonuses for care coordination and management, quality performance, and new and low enrollment MA plans) to MA regional plans in a similar manner as such performance bonuses apply to MA plansunder such subsection." See Effective Date of 2010 Amendment note below.
 
 <b>2009</b>—Subsec. (e)(7). Pub. L. 111–8 struck out par. (7) which related to biennial GAO reports to be submitted by the Comptroller General to the Secretary and Congress.
 

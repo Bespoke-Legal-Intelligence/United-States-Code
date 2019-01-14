@@ -86,7 +86,7 @@ In carrying out the functions of the Fund, the Administrator—
 
 #### (3) Chairperson
 
-&emsp;The members of the Board specified in paragraph (2)(G) shall select, by majority vote, achairperson of the Board, who shall serve for a term of 2 years.
+&emsp;The members of the Board specified in paragraph (2)(G) shall select, by majority vote, a chairperson of the Board, who shall serve for a term of 2 years.
 
 #### (4) Board function
 
@@ -170,7 +170,7 @@ A community development financial institution or other organization that receive
 
 #### (6) Transition expenses
 
-&emsp;Amounts previously appropriated to the Department of the Treasury may be used to pay obligations and expenses of the Fund incurred under this section, and such amounts may be reimbursed by the Fund to the Department of the Treasury from amounts appropriated to the Fund for fiscal year 1995.
+&emsp;Amounts previously appropriated to the Department of the Treasury may be used to payobligations and expenses of the Fund incurred under this section, and such amounts may be reimbursed by the Fund to the Department of the Treasury from amounts appropriated to the Fund for fiscal year 1995.
 
 #### (7) "Transition period" defined
 
@@ -180,7 +180,7 @@ A community development financial institution or other organization that receive
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(1), (7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat.770, as amended, which is set out in the Appendix to Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (d)(1), (7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
 #### Codification
 

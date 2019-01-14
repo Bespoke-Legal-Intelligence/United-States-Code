@@ -78,7 +78,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Assistant Secretary for Planning and Evaluation shall provide technical and operational support for the Committee, which may be by use of a contractor. The Office of the Actuary of the Centers for Medicare \& Medicaid Services shall provide to the Committee actuarial assistance as needed.
+&emsp;&emsp;&emsp;The Assistant Secretary for Planning and Evaluation shall provide technical andoperational support for the Committee, which may be by use of a contractor. The Office of the Actuary of the Centers for Medicare \& Medicaid Services shall provide to the Committee actuarial assistance as needed.
 
 #### (ii) Funding
 
@@ -110,7 +110,17 @@
 
 #### (C) Committee review of models submitted
 
-&emsp;&emsp;The Committee shall, on a periodic basis, review models submitted under subparagraph (B), prepare comments and recommendations regarding whether such models meet the criteria described in subparagraph (A), and submit such comments and recommendations to the Secretary.
+&emsp;&emsp;The Committee, on a periodic basis—
+
+&emsp;&emsp;&emsp;(i) shall review models submitted under subparagraph (B);
+
+&emsp;&emsp;&emsp;(ii) may provide individuals and stakeholder entities who submitted such models with—
+
+&emsp;&emsp;&emsp;&emsp;(I) initial feedback on such models regarding the extent to which such models meet the criteria described in subparagraph (A); and
+
+&emsp;&emsp;&emsp;&emsp;(II) an explanation of the basis for the feedback provided under subclause (I); and
+
+&emsp;&emsp;&emsp;(iii) shall prepare comments and recommendations regarding whether such models meet the criteria described in subparagraph (A) and submit such comments and recommendations to the Secretary.
 
 #### (D) Secretary review and response
 
@@ -120,7 +130,7 @@
 
 &emsp;Nothing in this subsection shall be construed to impact the development or testing of models under this subchapter or subchapters XI, XIX, or XXI.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1868, as added Pub. L. 101–508, title IV, §4112, Nov. 5, 1990, 104 Stat. 1388–64; amended Pub. L. 108–173, title IX, §942(a), Dec. 8, 2003, 117 Stat. 2420; Pub. L. 111–148, title III, §3134(b)(2), Mar. 23, 2010, 124 Stat. 435; Pub. L. 114–10, title I, §101(e)(1), Apr. 16, 2015, 129 Stat. 115.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1868, as added Pub. L. 101–508, title IV, §4112, Nov. 5, 1990, 104 Stat. 1388–64; amended Pub. L. 108–173, title IX, §942(a), Dec. 8, 2003, 117 Stat. 2420; Pub. L. 111–148, title III, §3134(b)(2), Mar. 23, 2010, 124 Stat. 435; Pub. L. 114–10, title I, §101(e)(1), Apr. 16, 2015, 129 Stat. 115; Pub. L. 115–123, div. E, title X, §51003(b), Feb. 9, 2018, 132 Stat. 295.)
 
 #### References in Text
 
@@ -133,6 +143,8 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c)(1)(
 A prior section 1395ee, act Aug. 14, 1935, ch. 531, title XVIII, §1868, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 329, provided for creation of a National Medical Review Committee, functions of such Committee, including submission of annual reports to the Secretary and Congress, employment of technical assistance, and for availability of assistance and data, prior to repeal by Pub. L. 90–248, title I, §164(c), Jan. 2, 1968, 81 Stat. 874.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(2)(C). Pub. L. 115–123 amended subpar. (C) generally. Prior to amendment, text read as follows: "The Committee shall, on a periodic basis, review models submitted under subparagraph (B), prepare comments and recommendations regarding whether such models meet the criteria described in subparagraph (A), and submit such comments and recommendations to the Secretary."
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–10 added subsec. (c).
 

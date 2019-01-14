@@ -54,7 +54,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 #### (B) Additional restriction
 
-&emsp;&emsp;For purposes of paragraph (2)(A), a condition for the use in studies or research of a chimpanzee accepted into the sanctuary system is (in addition to conditions under subparagraph (A) of this paragraph) that the applicant for such use has not been fined for, or signed a consent decree for, any violation of the Animal Welfare Act \[7 U.S.C. 2131 et seq.\].
+&emsp;&emsp;For purposes of paragraph (2)(A), a condition for the use in studies or research of achimpanzee accepted into the sanctuary system is (in addition to conditions under subparagraph (A) of this paragraph) that the applicant for such use has not been fined for, or signed a consent decree for, any violation of the Animal Welfare Act \[7 U.S.C. 2131 et seq.\].
 
 #### (4) Non-Federal chimpanzees offered for acceptance into system
 
@@ -188,7 +188,7 @@ For purposes of this section:
 
 #### (2) Use of funds for other compliant facilities
 
-&emsp;With respect to amounts authorized to be appropriated by paragraph (1) for a fiscal year, the Secretary may use a portion of such amounts to make awards of grants or contracts to public or private entities operating facilities that, as determined by the Secretary in consultation with the board of directors of the nonprofit private entity that receives the contract under subsection (e), provide for the retirement of chimpanzees in accordance with the same standards that apply to the sanctuary system pursuant to regulations under subsection (d). Such an award may be expended for the expenses of operating the facilities involved.
+&emsp;With respect to amounts authorized to be appropriated by paragraph (1) for a fiscal year, the Secretary may use a portion of suchamounts to make awards of grants or contracts to public or private entities operating facilities that, as determined by the Secretary in consultation with the board of directors of the nonprofit private entity that receives the contract under subsection (e), provide for the retirement of chimpanzees in accordance with the same standards that apply to the sanctuary system pursuant to regulations under subsection (d). Such an award may be expended for the expenses of operating the facilities involved.
 
 #### (3) Biennial report
 

@@ -76,7 +76,7 @@
 
 (6)(A) Any deposit, or election of an actuarial annuity reduction in lieu of a deposit, for military service or for creditable civilian service for which retirement deductions were not made or refunded shall be made by a retirement-eligible employee at or before the time the retirement-eligible employee enters phased retirement status. No such deposit may be made, or actuarial adjustment in lieu thereof elected, at the time a phased retiree enters full retirement status.
 
-(B) Notwithstanding subparagraph (A), if a phased retiree does not make such a deposit and dies in service as a phased retiree, a survivor of the phased retiree shall have the same right to make such deposit as would have been available had the employee not entered phased retirement status and died in service.
+(B) Notwithstanding subparagraph (A), if a phased retiree does not make such a deposit and dies in service as a phased retiree, a survivor of the phased retiree shall have the same right to make such deposit as would have been availablehad the employee not entered phased retirement status and died in service.
 
 (C) If a phased retiree makes an election for an actuarial annuity reduction under section 8334(d)(2) and dies in service as a phased retiree, the amount of any deposit upon which such actuarial reduction shall have been based shall be deemed to have been fully paid.
 
@@ -94,7 +94,7 @@
 
 &emsp;(B) the product obtained by multiplying—
 
-&emsp;&emsp;(i) the amount of an annuity computed under section 8339 that would have been payable at the time of full retirement if the individual had not elected a phased retirement and as if the individual was employed on a full-time basis in the position occupied during the phased retirement period and beforeany reduction for survivor annuity or reduction based on an election under section 8334(d)(2); by
+&emsp;&emsp;(i) the amount of an annuity computed under section 8339 that would have been payable at the time of full retirement if the individual had not elected a phased retirement and as if the individual was employed on a full-time basis in the position occupied during the phased retirement period and before any reduction for survivor annuity or reduction based on an election under section 8334(d)(2); by
 
 &emsp;&emsp;(ii) the working percentage.
 

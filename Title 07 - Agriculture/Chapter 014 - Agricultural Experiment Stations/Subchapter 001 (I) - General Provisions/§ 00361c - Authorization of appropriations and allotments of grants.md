@@ -6,13 +6,13 @@ There are authorized to be appropriated for the purposes of sections 361a to 361
 
 #### (b) Allotments to States; authorization of appropriations for Virgin Islands and Guam; limitation
 
-(1) Out of such sums each State shall be entitled to receive annually a sum of money equal to and subject to the same requirement as to use for marketing research projects as the sums received from Federal appropriations for State agricultural experiment stations for the fiscal year 1955, except that amounts heretofore made available from the fund known as the "Regional research fund, Office of Experiment Stations" shall continue to be available for the support of cooperative regional projects as defined in subsection (c)(3), and the said fund shall be designated "Regional research fund, State agricultural experiment stations," and the Secretary of Agriculture shall be entitled to receive annually for the administration of sections 361a to 361i of this title, a sum not less than that available for this purpose for the fiscal year ending June 30, 1955: <i>Provided</i>, That if the appropriations hereunder available for distribution in any fiscal year are less than those for the fiscal year 1955 the allotment to each State and the amounts for Federal administration and the regional research fund shall be reduced in proportion to the amount of such reduction.
+(1) Out of such sums each State shall be entitled to receive annually a sum of money equal to and subject to the same requirement as to use for marketing research projects as the sums received from Federal appropriations for State agricultural experiment stations for the fiscal year 1955, except that amounts heretofore made available from the fund known as the "Regional research fund, Office of Experiment Stations"shall continue to be available for the support of cooperative regional projects as defined in subsection (c)(3), and the said fund shall be designated "Regional research fund, State agricultural experiment stations," and the Secretary of Agriculture shall be entitled to receive annually for the administration of sections 361a to 361i of this title, a sum not less than that available for this purpose for the fiscal year ending June 30, 1955: <i>Provided</i>, That if the appropriations hereunder available for distribution in any fiscal year are less than those for the fiscal year 1955 the allotment to each State and the amounts for Federal administration and the regional research fund shall be reduced in proportion to the amount of such reduction.
 
 (2) There is authorized to be appropriated for the fiscal year ending June 30, 1973, and for each fiscal year thereafter, for payment to the Virgin Islands and Guam, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to this paragraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to sections 361a to 361i of this title, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of such sections.
 
 #### (c) Allotment of additional sums
 
-Any sums made available by the Congress in addition to those provided for in subsection (b)of this section for State agricultural experiment station work shall be distributed as follows:
+Any sums made available by the Congress in addition to those provided for in subsection (b) of this section for State agricultural experiment station work shall be distributed as follows:
 
 &emsp;(1) Twenty per centum shall be allotted equally to each State;
 
@@ -68,15 +68,9 @@ In making payments to States, the Secretary of Agriculture is authorized to adju
 
 If in any year the amount made available by a State from its own funds (including any revenue-sharing funds) to a State agricultural experiment station is reduced because of an increase in the allotment made available under sections 361a to 361i of this title, the allotment to the State agricultural experiment station from the appropriation in the next succeeding fiscal year shall be reduced in an equivalent amount. The Secretary shall reapportion the amount of such reduction to other States for use by their agricultural experiment stations.
 
-#### (h) Peer review and plan of work
+#### (h) Peer review
 
-#### (1) Peer review
-
-&emsp;Research carried out under subsection (c)(3) shall be subject to scientific peer review. The review of a project conducted under this paragraph shall be considered to satisfy the merit review requirements of section 7613(e) of this title.
-
-#### (2) Plan of work
-
-&emsp;The State shall include in the plan of work of the State required under section 361g of this title a description of the manner in which the State will meet the requirements of subsection (c)(3).
+Research carried out under subsection (c)(3) shall be subject to scientific peer review. The review of a project conducted under this subsection shall be considered to satisfy the merit review requirements of section 7613(e) of this title.
 
 #### (i) Integration of research and extension
 
@@ -102,10 +96,6 @@ If in any year the amount made available by a State from its own funds (includin
 
 &emsp;&emsp;The Secretary of Agriculture may reduce the minimum percentage required to be expended by a State for integrated activities under subparagraph (B) in a case of hardship, infeasibility, or other similar circumstance beyond the control of the State, as determined by the Secretary.
 
-#### (D) Plan of work
-
-&emsp;&emsp;The State shall include in the plan of work of the State required under section 361g of this title or section 344 of this title, as applicable, a description of the manner in which the State will meet the requirements of this paragraph.
-
 #### (3) Applicability
 
 &emsp;This subsection does not apply to funds provided—
@@ -120,7 +110,7 @@ If in any year the amount made available by a State from its own funds (includin
 
 &emsp;Federal formula funds described in paragraph (1) that are used by a State for a fiscal year for integrated activities in accordance with paragraph (2)(B) may also be used to satisfy the multistate activities requirements of subsection (c)(3) of this section and section 343(h) of this title for the same fiscal year.
 
-(Mar. 2, 1887, ch. 314, §3, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; Pub. L. 92–318, title V, §506(l), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1466, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1442(a), Dec. 22, 1981, 95 Stat. 1321; Pub. L. 101–624, title XVI, §1618(a), Nov. 28, 1990, 104 Stat. 3733; Pub. L. 104–127, title VIII, §869, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title I, §104, title II, §§203(a), 204(a), June 23, 1998, 112 Stat. 529, 533, 535; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(d)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7213(a), May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, §7404(a), May 22, 2008, 122 Stat. 1246; Pub. L. 110–246, §4(a), title VII, §7404(a), June 18, 2008, 122 Stat. 1664, 2008.)
+(Mar. 2, 1887, ch. 314, §3, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; Pub. L. 92–318, title V, §506(l), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1466, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1442(a), Dec. 22, 1981, 95 Stat. 1321; Pub. L. 101–624, title XVI, §1618(a), Nov. 28, 1990, 104 Stat. 3733; Pub. L. 104–127, title VIII, §869, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title I, §104, title II, §§203(a), 204(a), June 23, 1998, 112 Stat. 529, 533, 535; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(d)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7213(a), May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, §7404(a), May 22, 2008, 122 Stat. 1246; Pub. L. 110–246, §4(a), title VII, §7404(a), June 18, 2008, 122 Stat. 1664, 2008; Pub. L. 115–334, title VII, §7612(b)(1), Dec. 20, 2018, 132 Stat. 4832.)
 
 #### References in Text
 
@@ -133,6 +123,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Prior to being amended generally by act Aug. 11, 1955, ch. 790, §1, 69 Stat. 671, section 3 of act Mar. 2, 1887, which comprises this section, consisted of two sentences. The first sentence was classified to former section 368 of this title. The second sentence was superseded by act Feb. 24, 1925, ch. 308, §3, 43 Stat. 971, which was classified to former section 366 of this title and was repealed by act Aug. 11, 1955, ch. 790, §2, 69 Stat. 674.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (h). Pub. L. 115–334, §7612(b)(1)(A), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to peer review and plan of work.
+
+Subsec. (i)(2)(D). Pub. L. 115–334, §7612(b)(1)(B), struck out subpar. (D). Prior to amendment, text read as follows: "The State shall include in the plan of work of the State required under section 361g of this title orsection 344 of this title, as applicable, a description of the manner in which the State will meet the requirements of this paragraph."
 
 <b>2008</b>—Subsec. (d)(4). Pub. L. 110–246, §7404(a)(1), inserted "and the District of Columbia" after "areas" in heading.
 

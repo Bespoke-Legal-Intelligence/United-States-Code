@@ -54,9 +54,9 @@ Pub. L. 112–29, §7(e), Sept. 16, 2011, 125 Stat. 315, provided that: "The ame
 
 &emsp;"(3) the Patent Trial and Appeal Board may be deemed to be the Board of Patent Appeals and Interferences for purposes of appeals of inter partes reexaminations that are requested under section 311 of title 35, United States Code, before the effective date of the amendments made by this section; and
 
-&emsp;"(4) the Director's \[Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] right under the fourth sentence of section 143 of title 35, United States Code, as amended by subsection (c)(3) of this section, to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board shall be deemed to extend to inter partes reexaminations that are requested under section 311 of such title before the effective date of the amendments made by this section."
+&emsp;"(4) the Director's \[Under Secretary of Commerce for Intellectual Property and Director of the UnitedStates Patent and Trademark Office\] right under the fourth sentence of section 143 of title 35, United States Code, as amended by subsection (c)(3) of this section, to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board shall be deemed to extend to inter partes reexaminations that are requested under section 311 of such title before the effective date of the amendments made by this section."
 
 #### Effective Date
 
-Section effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set outas an Effective Date of 1999 Amendment note under section 1 of this title.
+Section effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 1 of this title.
 

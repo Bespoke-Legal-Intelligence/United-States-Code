@@ -2,7 +2,7 @@
 
 (a)
 
-Data Collection Required.—The Secretary of Defense shall establish a data collection system to provide management information with regard to each purchase of services by a military department or Defense Agency in excess of $3,000,000, regardless of whether such a purchase is made in the form of a contract, task order, delivery order, military interdepartmental purchase request, or any other form of interagency agreement, for services in the following service acquisition portfolio groups:
+Data Collection Required.—The Secretary of Defense shall establish a data collection system to provide management informationwith regard to each purchase of services by a military department or Defense Agency in excess of $3,000,000, regardless of whether such a purchase is made in the form of a contract, task order, delivery order, military interdepartmental purchase request, or any other form of interagency agreement, for services in the following service acquisition portfolio groups:
 
 &emsp;(1) Logistics management services.
 
@@ -44,7 +44,7 @@ Data To Be Collected.—The data required to be collected under subsection (a) i
 
 (c)
 
-Inventory Summary.—(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall prepare an annual inventory, and submit to Congress a summary of the inventory, of activities performed during the preceding fiscal year pursuant to staff augmentation contracts on behalf of the Department of Defense. The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:
+Inventory Summary.—(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall prepare an annual inventory, and submit to Congress a summary of the inventory, of activities performed during the preceding fiscal year pursuant to staff augmentation contracts and contracts closely associated with inherently governmental functions on behalf of the Department of Defense. The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition and Sustainment, as follows:
 
 &emsp;(A) The Under Secretary of Defense for Personnel and Readiness, as supported by the Under Secretary of Defense (Comptroller), shall be responsible for developing guidance for—
 
@@ -54,7 +54,7 @@ Inventory Summary.—(1) Not later than the end of the third quarter of each fis
 
 &emsp;&emsp;(iii) the conduct and completion of the annual review required under subsection (e)(1).
 
-&emsp;(B) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be responsible for developing guidance on other data elements and implementing procedures for requirements relating to acquisition.
+&emsp;(B) The Under Secretary of Defense for Acquisition and Sustainment shall be responsible for developing guidance on other data elements and implementing procedures for requirements relating to acquisition.
 
 (2) The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:
 
@@ -138,7 +138,7 @@ Inherently governmental functions.—The term "inherently governmental functions
 
 &emsp;(4)
 
-Personal services contract.—The term "personal services contract" means a contractunder which, as a result of its terms or conditions or the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of one or more Government officers or employees, except that the giving of an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that makes a contract a personal services contract.
+Personal services contract.—The term "personal services contract" means a contract under which, as a result of its terms or conditions or the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of one or more Government officers or employees, except that the giving of an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that makes a contract a personal services contract.
 
 &emsp;(5)
 
@@ -160,13 +160,17 @@ Small business act definitions.—
 
 &emsp;&emsp;(B) The terms "small business concern owned and controlled by socially and economically disadvantaged individuals" and "small business concern owned and controlled by women" have the meanings given such terms, respectively, in section 8(d)(3) of the Small Business Act (15 U.S.C. 637(d)(3)).
 
-(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, §321, Jan. 7, 2011, 124 Stat. 4183; Pub. L. 112–81, div. A, title IX, §936, Dec. 31, 2011, 125 Stat. 1545; Pub. L. 113–66, div. A, title IX, §951(a), Dec. 26, 2013, 127 Stat. 839; Pub. L. 114–328, div. A, title VIII, §§812, 833(b)(2)(C)(ii), Dec. 23, 2016, 130 Stat. 2269, 2284; Pub. L. 115–91, div. A, title X, §1081(a)(30), (d)(6)(A), Dec. 12, 2017, 131 Stat. 1595, 1600.)
+(Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176; amended Pub. L. 110–181, div. A, title VIII, §807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, §803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, §321, Jan. 7, 2011, 124 Stat. 4183; Pub. L. 112–81, div. A, title IX, §936, Dec. 31, 2011, 125 Stat. 1545; Pub. L. 113–66, div. A, title IX, §951(a), Dec. 26, 2013, 127 Stat. 839; Pub. L. 114–328, div. A, title VIII, §§812, 833(b)(2)(C)(ii), Dec. 23, 2016, 130 Stat. 2269, 2284; Pub. L. 115–91, div. A, title X, §1081(a)(30), (d)(6)(A), Dec. 12, 2017, 131 Stat. 1595, 1600; Pub. L. 115–232, div. A, title VIII, §819, Aug. 13, 2018, 132 Stat. 1853.)
 
 #### References in Text
 
 Section 2330a(g)(5) of this title, referred to in subsec. (h)(6), meaning subsec. (g)(5) of this section, was redesignated through a series of amendments as subsec. (h)(4) of this section.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–232, in introductory provisions, inserted "and contracts closely associated with inherently governmental functions" after "staff augmentation contracts" and substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
+Subsec. (c)(1)(B). Pub. L. 115–232, §819(2), substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
 <b>2017</b>—Subsec. (d)(1)(C). Pub. L. 115–91, §1081(a)(30)(A), struck out period before semicolon at end.
 
@@ -260,21 +264,7 @@ Pub. L. 110–181, div. A, title VIII, §807(b), Jan. 28, 2008, 122 Stat. 215, p
 
 #### Development of Guidance on Personal Services Contracts
 
-Pub. L. 110–417, \[div. A\], title VIII, §831, Oct. 14, 2008, 122 Stat. 4534, provided that:
-
-"(a)
-
-Guidance Required.—Not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall develop guidance related to personal services contracts to—
-
-&emsp;"(1) require a clear distinction between employees of the Department of Defense and employees of Department of Defense contractors;
-
-&emsp;"(2) provide appropriate safeguards with respect to when, where, and to what extent the Secretary may enter into a contract for the procurement of personal services; and
-
-&emsp;"(3) assess and take steps to mitigate the risk that, as implemented and administered, non-personal services contracts may become personal services contracts.
-
-"(b)
-
-Definition of Personal Services Contract.—In this section, the term 'personal services contract' has the meaning given that term in section 2330a(g)(5) \[former 2330a(h)(5)\] of title 10, United States Code."
+Pub. L. 110–417, \[div. A\], title VIII, §831, Oct. 14, 2008, 122 Stat. 4534, which required the Secretary of Defense to develop certain guidance related to personal services contracts, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(27), Aug. 13, 2018, 132 Stat. 1849.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

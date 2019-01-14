@@ -32,7 +32,7 @@ Each institution of higher education that offers a program described in subsecti
 
 &emsp;&emsp;&emsp;(ii) receive an income from the hospital or health facility, as at least a part-time employee, and release times or flexible schedules, to accommodate their program requirements, as necessary; and
 
-&emsp;&emsp;(D) upon completion of the program, recipients of scholarships described in subsection (c)(2)(B)(ii)(III) will be required to teach for two years in an accredited school of nursing for each year of support the individual received under this section.
+&emsp;&emsp;(D) upon completion of the program, recipients of scholarships described in subsection (c)(2)(B)(ii)(III) will be required to teach for two years in an accredited schoolof nursing for each year of support the individual received under this section.
 
 #### (c) Grant amount; award basis
 

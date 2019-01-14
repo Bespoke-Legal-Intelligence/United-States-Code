@@ -34,7 +34,7 @@ Definition.—In this section, the term "violation of highway-rail grade crossin
 
 #### References in Text
 
-The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsecs. (a) and (c)(2), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
+The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsecs. (a) and (c)(2),is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
 #### Amendments
 

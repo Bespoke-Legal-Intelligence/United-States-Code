@@ -92,7 +92,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 &emsp;(1) the terms and conditions of the importation are controlled by the person placing the order; or
 
-&emsp;(2) technical data, molds, equipment, other production assistance, material, components, or parts are furnished by the person placing the order with knowledge that they will beused in the manufacture or production of the imported merchandise.
+&emsp;(2) technical data, molds, equipment, other production assistance, material, components, or parts are furnished by the person placing the order with knowledge that they will be used in the manufacture or production of the imported merchandise.
 
 #### (e) Subsection (b) penalties
 
@@ -188,7 +188,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (2) Exports to Peru
 
-&emsp;Any person who completes and issues a PTPA certification of origin for a good exported from the United States shall make,keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+&emsp;Any person who completes and issues a PTPA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
 
 #### (3) Retention period
 
@@ -276,7 +276,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (3) Retention period
 
-&emsp;The person who issues a Panama TPA certification of origin shall keep the records andsupporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.
+&emsp;The person who issues a Panama TPA certification of origin shall keep the records and supporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.
 
 #### (l) Penalties
 
@@ -348,7 +348,7 @@ Subsecs. (f), (g). Pub. L. 108–77, §§107(c), 207(2), temporarily added subse
 
 Subsec. (b). Pub. L. 103–182, §205(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Any person who exports, or who knowingly causes to be exported, any merchandise to Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to such exportations."
 
-Subsec. (c). Pub. L. 103–182, §205(a)(2), amended generally subsec. (c), as amended by Pub. L. 103–182, §614(2)\(see below). Prior to amendment, subsec. (c) read as follows: "The records required by subsections (a) and (b) of this section shall be kept for such period of time, not to exceed 5 years from the date of entry or exportation, as appropriate, as the Secretary shall prescribe; except that records for any drawback claim shall be kept until the 3rd anniversary of the date of payment of the claim." See Construction of 1993 Amendment note below.
+Subsec. (c). Pub. L. 103–182, §205(a)(2), amended generally subsec. (c), as amended by Pub. L. 103–182, §614(2) (see below). Prior to amendment, subsec. (c) read as follows: "The records required by subsections (a) and (b) of this section shall be kept for such period of time, not to exceed 5 years from the date of entry or exportation, as appropriate, as the Secretary shall prescribe; except that records for any drawback claim shall be kept until the 3rd anniversary of the date of payment of the claim." See Construction of 1993 Amendment note below.
 
 Pub. L. 103–182, §614(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The records required by subsection (a) and (b) of this section shall be kept for such periods of time, not to exceed 5 years from the date of entry, as the Secretary shall prescribe." See Construction of 1993 Amendment note below.
 
@@ -358,7 +358,7 @@ Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prio
 
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–125 effective Feb. 24, 2016, and, except as otherwise provided, applicable to drawback claims filed on or after the date that is 2 years after such date, see section 906(q) of Pub. L. 114–125, set out as a note under section 1313 of this title.
+Amendment by Pub. L. 114–125 effective Feb. 24, 2016, and, except as otherwise provided, applicable to drawback claims filed on or after the date that is 2 yearsafter such date, see section 906(q) of Pub. L. 114–125, set out as a note under section 1313 of this title.
 
 #### Effective and Termination Dates of 2011 Amendment
 

@@ -18,11 +18,11 @@
 
 &emsp;(v) to provide an amount for the Republic of Palau (for Head Start agencies (including Early Head Start agencies) in the jurisdiction) for each of fiscal years 2008 and 2009, and (if legislation approving a new agreement regarding United States assistance for the Republic of Palau has not been enacted by September 30, 2009) for each of fiscal years 2010 through 2012, that is equal to the amount provided for base grants for such jurisdiction under this subchapter for the prior fiscal year, by allotting to each agency described in this clause an amount equal to that agency's base grant for the prior fiscal year; and
 
-&emsp;(vi) to provide an amount for a collaboration grant under section 9837b(a) of this title for each State, for the Indian Head Start programs, and for the migrant and seasonal HeadStart programs, in the same amount as the corresponding collaboration grant provided under this subchapter for fiscal year 2007.
+&emsp;(vi) to provide an amount for a collaboration grant under section 9837b(a) of this title for each State, for the Indian Head Start programs, and for the migrant and seasonal Head Start programs, in the same amount as the corresponding collaboration grant provided under this subchapter for fiscal year 2007.
 
 (C)(i) The Secretary shall reserve for each fiscal year an amount that is not less than 2.5 percent and not more than 3 percent of the sums appropriated pursuant to section 9834 of this title for that fiscal year, to fund training and technical assistance activities, from which reserved amount—
 
-&emsp;(I) the Secretary shall set aside a portion, but not less than 20 percent, to be used to fund training and technical assistance activities for Early Head Start programs, in accordance with section 9840a(g)(2) of this title; and
+&emsp;(I) the Secretary shall set aside a portion, but not less than 20 percent, to be used to fundtraining and technical assistance activities for Early Head Start programs, in accordance with section 9840a(g)(2) of this title; and
 
 &emsp;(II) the Secretary shall set aside a portion, equal to the rest of the reserved amount, to fund training and technical assistance activities for other Head Start programs, in accordance with section 9843 of this title, of which portion—
 
@@ -66,7 +66,7 @@
 
 &emsp;(iii) if the remaining amount is not sufficient to carry out clause (ii) for the fiscal year involved, use that amount to provide, for each Head Start agency (including each Early Head Start agency) funded as described in clause (i)(I), the same percentage of the cost of living increase described in clause (i).
 
-(B)(i) Notwithstanding any other provision of this paragraph, the Indian Head Start programsshall not receive more than a total cumulative amount of $50,000,000 for all fiscal years, and the migrant and seasonal Head Start programs shall not receive more than a total cumulative amount of $50,000,000 for all fiscal years, under clause (i)(II), and subclauses (I)(aa) and (II)(bb) of clause (ii), of subparagraph (A) (referred to in this subsection as the "special expansion provisions"), to increase enrollment in the programs involved.
+(B)(i) Notwithstanding any other provision of this paragraph, the Indian Head Start programs shall not receive more than a total cumulative amount of $50,000,000 for all fiscal years, and the migrant and seasonal Head Start programs shall not receive more than a total cumulative amount of $50,000,000 for all fiscal years, under clause (i)(II), and subclauses (I)(aa) and (II)(bb) of clause (ii), of subparagraph (A) (referred to in this subsection as the "special expansion provisions"), to increase enrollment in the programs involved.
 
 (ii)(I) Funds that are appropriated under section 9834 of this title for a fiscal year, and made available to Indian Head Start programs or migrant or seasonal Head Start programs under the special expansion provisions, shall remain available until the end of the following fiscal year.
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(I) use 50 percent for Head Start programs funded under paragraph (2)(B)(i) (other than Early Head Start programs), of which—
 
-&emsp;&emsp;&emsp;(aa) the covered percentage shall be allocated among the States serving less than 60 percent (as determined by the Secretary) of children who are 3 or 4 years of age from families whose income is below the poverty line, by allocating to each of those States an amount that bears the same relationship to that covered percentage as the number of children who are less than 5 years of age from families whose income is below the poverty line (referred toin this subclause as "young low-income children") in that State bears to the number of young low-income children in all those States; and
+&emsp;&emsp;&emsp;(aa) the covered percentage shall be allocated among the States serving less than 60 percent (as determined by the Secretary) of children who are 3 or 4 years of age from families whose income is below the poverty line, by allocating to each of those States an amount that bears the same relationship to that covered percentage as the number of children who are less than 5 years of age from families whose income is below the poverty line (referred to in this subclause as "young low-income children") in that State bears to the number of young low-income children in all those States; and
 
 &emsp;&emsp;&emsp;(bb) the remainder shall be allocated proportionately among the States on the basis of the number of young low-income children; and
 
@@ -186,7 +186,7 @@
 
 Financial assistance extended under this subchapter for a Head Start program shall not exceed 80 percent of the approved costs of the assisted program or activities, except that the Secretary may approve assistance in excess of such percentage if the Secretary determines that such action is required in furtherance of the purposes of this subchapter. For the purpose of making such determination, the Secretary shall take into consideration with respect to the Head Start program involved—
 
-&emsp;(1) the lack of resources available in the community that may prevent the Head Start agency from providing all or a portion of the non-Federal contribution that may be required under this subsection;
+&emsp;(1) the lack of resources available in the community that may prevent the Head Startagency from providing all or a portion of the non-Federal contribution that may be required under this subsection;
 
 &emsp;(2) the impact of the cost the Head Start agency may incur in initial years it carries out such program;
 
@@ -298,7 +298,7 @@ Any agency that receives financial assistance under this subchapter to improve t
 
 (1) With funds made available under this subchapter to expand migrant and seasonal Head Start programs, the Secretary shall give priority to migrant and seasonal Head Start programs that serve eligible children of migrant or seasonal farmworker families whose work requires them to relocate most frequently.
 
-(2) In determining the need and demand for migrant and seasonal Head Start programs (and services provided through such programs), the Secretary shall consult with appropriate entities, including providers of services for migrant and seasonal Head Start programs. The Secretary shall, after taking into consideration the need and demand for migrant and seasonal Head Start programs (and such services), ensure that there is an adequate level of such services for eligible children of migrant farmworker families before approving an increase in the allocation of funds provided under this subchapter for unserved eligible children of seasonal farmworker families. In serving the eligible children of seasonal farmworker families, the Secretary shall ensure that services provided by migrant and seasonal Head Start programs do not duplicate or overlap with other Head Start services available to eligible children of such farmworker families.
+(2) In determining the need and demand for migrant and seasonal Head Start programs (andservices provided through such programs), the Secretary shall consult with appropriate entities, including providers of services for migrant and seasonal Head Start programs. The Secretary shall, after taking into consideration the need and demand for migrant and seasonal Head Start programs (and such services), ensure that there is an adequate level of such services for eligible children of migrant farmworker families before approving an increase in the allocation of funds provided under this subchapter for unserved eligible children of seasonal farmworker families. In serving the eligible children of seasonal farmworker families, the Secretary shall ensure that services provided by migrant and seasonal Head Start programs do not duplicate or overlap with other Head Start services available to eligible children of such farmworker families.
 
 (3) In carrying out this subchapter, the Secretary shall continue the administrative arrangement at the national level for meeting the needs of Indian children and children of migrant and seasonal farmworker families and shall ensure—
 
@@ -398,7 +398,7 @@ Subsec. (a)(2)(B). Pub. L. 105–285, §106(a)(1)(B), substituted "(B) payments,
 
 Subsec. (a)(2)(C). Pub. L. 105–285, §106(a)(1)(C), substituted ", of which not less than $3,000,000 of the amount appropriated for such fiscal year shall be made available to carry out activities described in section 9843(c)(4) of this title;" for "; and".
 
-Subsec. (a)(2)(D). Pub. L. 105–285, §106(a)(1)(D), which directed substitution of "carried out under paragraph (1), (2), or (3) of section 9836a(d) of this title related to correcting deficiencies and conducting proceedings to terminate the designation of Head Start agencies; and" for "related to the development and implementation of quality improvement plans under section 9836a(d)(2) of this title.", was executed by making the substitution for "related to the development and implementation of quality improvement plans under section 9836a(d)(2) of this title)."
+Subsec. (a)(2)(D). Pub. L. 105–285, §106(a)(1)(D), which directed substitution of "carried out under paragraph (1), (2), or (3) of section 9836a(d) of this title related to correcting deficiencies and conducting proceedings to terminate the designation of Head Start agencies; and"for "related to the development and implementation of quality improvement plans under section 9836a(d)(2) of this title.", was executed by making the substitution for "related to the development and implementation of quality improvement plans under section 9836a(d)(2) of this title)."
 
 Subsec. (a)(2)(E). Pub. L. 105–285, §106(a)(1)(E), added subpar. (E).
 
@@ -460,7 +460,7 @@ Subsec. (g)(2)(A). Pub. L. 105–285, §106(c)(1)(A), inserted before semicolon 
 
 Subsec. (g)(2)(C). Pub. L. 105–285, §106(c)(1)(B), inserted ", and organizations and public entities serving children with disabilities" before semicolon at end.
 
-Subsec. (g)(2)(D). Pub. L. 105–285, §106(c)(1)(C), inserted before semicolon at end "and the extent towhich, and manner in which, the applicant demonstrates the ability to collaborate and participate with other local community providers of child care or preschool services to provide full-working-day full calendar year services".
+Subsec. (g)(2)(D). Pub. L. 105–285, §106(c)(1)(C), inserted before semicolon at end "and the extent to which, and manner in which, the applicant demonstrates the ability to collaborate and participate with other local community providers of child care or preschool services to provide full-working-day full calendar year services".
 
 Subsec. (g)(2)(E). Pub. L. 105–285, §106(c)(1)(D), substituted "program or any other early childhood program;" for "program; and".
 

@@ -44,7 +44,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 #### (5) Current account surpluses
 
-&emsp;The principal negotiating objective of the United States regarding current account surpluses is to develop rules to address large and persistent global current account imbalances of countries, including imbalances which threaten the stability of the international trading system, by imposing greater responsibility on such countries to undertake policy changes aimed at restoring current account equilibrium, including expedited implementation of trade agreements where feasible and appropriate.
+&emsp;The principal negotiating objective of the United States regarding current account surpluses is to develop rules to address large and persistent global current account imbalances of countries, including imbalances which threaten the stability of the international trading system, by imposing greater responsibility on such countries to undertake policy changes aimed at restoring current accountequilibrium, including expedited implementation of trade agreements where feasible and appropriate.
 
 #### (6) Trade and monetary coordination
 
@@ -164,7 +164,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 #### (13) Specific barriers
 
-&emsp;The principal negotiating objective of the United States regarding specific barriers is toobtain competitive opportunities for United States exports in foreign markets substantially equivalent to the competitive opportunities afforded foreign exports to United States markets, including the reduction or elimination of specific tariff and nontariff trade barriers, particularly—
+&emsp;The principal negotiating objective of the United States regarding specific barriers is to obtain competitive opportunities for United States exports in foreign markets substantially equivalent to the competitive opportunities afforded foreign exports to United States markets, including the reduction or elimination of specific tariff and nontariff trade barriers, particularly—
 
 &emsp;&emsp;(A) measures identified in the annual report prepared under section 2241 of this title; and
 
@@ -286,13 +286,13 @@ Sec. 2–101. <i>Countertrade and Barter.</i>
 
 Sec. 2–201. <i>Sanctions Against Toshiba and Kongsberg.</i>
 
-(1) <i>Procurement Sanctions</i>. Pursuant to section 2443 of the Omnibus Trade Act \[former 50 U.S.C. App. 2410a note\] and subject to the exceptions referred to in paragraph (3), departments, agencies and instrumentalities of the United States Government shall not for the three-year period beginning on the date this Order takes effect, contract with or procure products and services from Toshiba Machine Company, Kongsberg Trading Company, Toshiba Corporation or Kongsberg Vaapenfabrikk. The head of each department, agency or instrumentality is hereby directed and authorized to implement this procurement sanction in accordance with paragraph (3).
+(1) <i>Procurement Sanctions</i>. Pursuant to section 2443 of the Omnibus Trade Act \[former 50 U.S.C. App. 2410a note\] and subject to the exceptions referred to in paragraph (3), departments, agencies and instrumentalitiesof the United States Government shall not for the three-year period beginning on the date this Order takes effect, contract with or procure products and services from Toshiba Machine Company, Kongsberg Trading Company, Toshiba Corporation or Kongsberg Vaapenfabrikk. The head of each department, agency or instrumentality is hereby directed and authorized to implement this procurement sanction in accordance with paragraph (3).
 
 (2) <i>Import Sanctions</i>. Pursuant to section 2443 of the Omnibus Trade Act and subject to the exceptions referred to in paragraph (3), importation into the United States, its territories and possessions, of products produced by Toshiba Machine Company or Kongsberg Trading Company is prohibited for three years from the effective date of this Order. The Secretary of the Treasury is hereby directed and authorized to implement this import sanction in accordance with paragraph (3).
 
 (3) <i>Exceptions</i>. Authority to make determinations as to exceptions to sanctions and to implement exceptions by regulation or otherwise is delegated (i) to the Secretary of Defense with respect to determinations under section 2443(c)(1) regarding the procurement of defense articles or defense services, (ii) to the Secretary of the Treasury with respect to exceptions under section 2443(c)(2) regarding importation prohibited by section 2443(a)(2), and (iii) to the head of each Federal department, agency or instrumentality with respect to exceptions under section 2443(c)(2) affecting their respective contracting and procurement. All regulations implementing these exceptions provisions shall be consistent with any guidelines provided by the Office of Federal Procurement Policy, Office of Management and Budget.
 
-(4) <i>Annual Report</i>. The annual report required by section 2445 \[adding 50 U.S.C. 4616(f)\], concerning estimated increases in defense expenditures arising from illegal technology transfers, shall be prepared by the Secretary of Defense, in consultation with the Secretaries of State and Commerce, for submission to the Congress by the President.
+(4) <i>Annual Report</i>. The annual report required by section 2445 \[adding former 50 U.S.C. 4616(f)\], concerning estimated increases in defense expenditures arising from illegal technology transfers, shall be prepared by the Secretary of Defense, in consultation with the Secretaries of State and Commerce, for submission to the Congress by the President.
 
 #### PART III—FOREIGN CORRUPT PRACTICES AMENDMENTS; INVESTMENT; AND TECHNOLOGY
 
@@ -336,7 +336,7 @@ Sec. 3–301. <i>Reporting Requirement on Semiconductors, Fiber Optics and Super
 
 (D) Federal research to assist United States industry to develop and apply advanced manufacturing technologies for the production of durable and nondurable goods.
 
-(2) The Department of Defense, the Department of Energy, the National Science Foundation, the National Aeronautics and Space Administration, the Department of State, the United States Trade Representative, and other Federal agencies deemed appropriate by the Secretary of Commerce shall provide the information described in section 5141 of the Omnibus Trade Act \[Pub. L. 100–418, title V, Aug. 23, 1988, 102 Stat. 1444\] concerning their Fiscal Year 1989 program and proposed Fiscal Year 1990 program to the Secretary of Commerce in sufficient time to permit preparation of the report.
+(2) The Department of Defense, the Department of Energy, the National Science Foundation, the National Aeronautics and Space Administration, the Department of State, the United States Trade Representative,and other Federal agencies deemed appropriate by the Secretary of Commerce shall provide the information described in section 5141 of the Omnibus Trade Act \[Pub. L. 100–418, title V, Aug. 23, 1988, 102 Stat. 1444\] concerning their Fiscal Year 1989 program and proposed Fiscal Year 1990 program to the Secretary of Commerce in sufficient time to permit preparation of the report.
 
 (3) The Office of Management and Budget shall provide to the Secretary of Commerce, in sufficient time to permit preparation of the report, a summary of the Federal base program and Fiscal Year 1990 budget initiatives in each of the technical areas of the report.
 
@@ -358,7 +358,7 @@ Sec. 5–101. <i>Executive Oversight.</i>
 
 Any actions or determinations taken or made by an officer or agency under the Omnibus Trade Act or this Order shall be subject to the Executive oversight and direction of the President, and such actions or determinations shall be undertaken after appropriate inter-agency consultation as established by the President.
 
-Sec. 5–102. <i>Regulatory Review</i>. Notwithstanding the provisions of section 1(a)(2) of Executive Order No. 12291 of February 17, 1981 \[formerly 5 U.S.C. 601 note\], the Director of the Office of Management and Budget shall, with regard to regulations, rules, or agency statements of general applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the procedure or practice requirements of an agency relative to the administration of the Export Administration Act \[50 U.S.C. 4601 et seq.\], determine whether such regulations, rules, or agency statements are exempted from review under that Order, pursuant to the provisions of section 8(b) thereof \[50 U.S.C. 4607(b)\].
+Sec. 5–102. <i>Regulatory Review</i>. Notwithstanding the provisions of section 1(a)(2) of Executive Order No. 12291 of February 17, 1981 \[formerly 5 U.S.C. 601 note\], the Director of the Office of Management and Budget shall, with regard to regulations, rules, or agency statements of general applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the procedure or practice requirements of an agency relative to the administration of the Export Administration Act, determine whether such regulations, rules, or agency statements are exempted from review under that Order, pursuant to the provisions of section 8(b) thereof \[former 50 U.S.C. 4607(b)\].
 
 Sec. 5–201. <i>Offsets</i>. The negotiating functions under section 825(c) of the Defense Authorization Act \[10 U.S.C. 2532 note\], as may be ordered by the President, are hereby jointly delegated to the Secretary of Defense and the United States Trade Representative. These functions shall be coordinated with the Secretary of State and conducted in consultation with the Secretaries of Commerce, Labor and the Treasury.
 

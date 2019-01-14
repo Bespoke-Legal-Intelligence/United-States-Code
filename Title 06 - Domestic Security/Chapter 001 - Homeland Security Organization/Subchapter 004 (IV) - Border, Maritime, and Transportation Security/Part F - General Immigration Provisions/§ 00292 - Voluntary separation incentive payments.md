@@ -72,7 +72,7 @@ The Attorney General and the Secretary may, to the extent necessary to help carr
 
 #### (A) First method
 
-&emsp;&emsp;The amount under this subparagraph shall, for any fiscal year, be equal to the minimum amount necessary to offset the additional costs to the retirement systems under title 5 (payable out of the Civil Service Retirement and Disability Fund) resulting from the voluntary separation of the employees described in paragraph (3), as determined under regulations of the Office of Personnel Management.
+&emsp;&emsp;The amount under this subparagraph shall, for any fiscal year, be equal to the minimum amount necessary to offset the additional costs to the retirement systems under title 5 (payable out of the Civil Service Retirementand Disability Fund) resulting from the voluntary separation of the employees described in paragraph (3), as determined under regulations of the Office of Personnel Management.
 
 #### (B) Second method
 

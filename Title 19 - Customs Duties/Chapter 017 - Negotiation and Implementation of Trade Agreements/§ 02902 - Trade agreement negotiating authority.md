@@ -66,7 +66,7 @@
 
 &emsp;(C) the President, at least 60 days before the date notice is provided under section 2903(a)(1)(A) of this title—
 
-&emsp;&emsp;(i) provides written notice of such negotiations to the Committee on Finance of theSenate and the Committee on Ways and Means of the House of Representatives, and
+&emsp;&emsp;(i) provides written notice of such negotiations to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives, and
 
 &emsp;&emsp;(ii) consults with such committees regarding the negotiation of such agreement.
 

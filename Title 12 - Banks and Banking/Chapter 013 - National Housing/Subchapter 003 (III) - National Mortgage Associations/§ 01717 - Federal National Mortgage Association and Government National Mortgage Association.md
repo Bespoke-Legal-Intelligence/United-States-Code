@@ -30,6 +30,84 @@
 
 (6) The corporation may not implement any new program (as such term is defined in section 4502 of this title) before obtaining the approval of the Secretary under section 4542 <sup>1</sup> of this title.
 
+(7)(A)
+
+Definitions.—In this paragraph—
+
+&emsp;(i) the term "credit score" means a numerical value or a categorization created by a third party derived from a statistical tool or modeling system used by a person who makes or arranges a loan to predict the likelihood of certain credit behaviors, including default; and
+
+&emsp;(ii) the term "residential mortgage" has the meaning given the term in section 1451 of this title.
+
+(B)
+
+Use of Credit Scores.—The corporation shall condition purchase of a residential mortgage by the corporation under this subsection on the provision of a credit score for the borrower only if—
+
+&emsp;(i) the credit score is derived from any credit scoring model that has been validated and approved by the corporation under this paragraph; and
+
+&emsp;(ii) the corporation provides for the use of the credit score by all of the automated underwriting systems of the corporation and any other procedures and systems used by the corporation to purchase residential mortgages that use a credit score.
+
+(C)
+
+Validation and Approval Process.—The corporation shall establish a validation and approval process for the use of credit score models, under which the corporation may not validate and approve a credit score model unless the credit score model—
+
+&emsp;(i) satisfies minimum requirements of integrity, reliability, and accuracy;
+
+&emsp;(ii) has a historical record of measuring and predicting default rates and other credit behaviors;
+
+&emsp;(iii) is consistent with the safe and sound operation of the corporation;
+
+&emsp;(iv) complies with any standards and criteria established by the Director of the Federal Housing Finance Agency under section 4548(1) of this title; and
+
+&emsp;(v) satisfies any other requirements, as determined by the corporation.
+
+(D)
+
+Replacement of Credit Score Model.—If the corporation has validated and approved 1 or more credit score models under subparagraph (C) and the corporation validates and approves an additional credit score model, the corporation may determine that—
+
+&emsp;(i) the additional credit score model has replaced the credit score model or credit score models previously validated and approved; and
+
+&emsp;(ii) the credit score model or credit score models previously validated and approved shall no longer be considered validated and approved for the purposes of subparagraph (B).
+
+(E)
+
+Public Disclosure.—Upon establishing the validation and approval process required under subparagraph (C), the corporation shall make publicly available a description of the validation and approval process.
+
+(F)
+
+Application.—Not later than 30 days after the effective date of this paragraph, the corporation shall solicit applications from developers of credit scoring models for the validation and approval of those models under the process required under subparagraph (C).
+
+(G)
+
+Timeframe for Determination; Notice.—
+
+&emsp;(i)
+
+In general.—The corporation shall make a determination with respect to any application submitted under subparagraph (F), and provide notice of that determination to the applicant, before a date established by the corporation that is not later than 180 days after the date on which an application is submitted to the corporation.
+
+&emsp;(ii)
+
+Extensions.—The Director of the Federal Housing Finance Agency may authorize not more than 2 extensions of the date established under clause (i), each of which shall not exceed 30 days, upon a written request and a showing of good cause by the corporation.
+
+&emsp;(iii)
+
+Status notice.—The corporation shall provide notice to an applicant regarding the status of an application submitted under subparagraph (F) not later than 60 days after the date on which the application was submitted to the corporation.
+
+&emsp;(iv)
+
+Reasons for disapproval.—If an application submitted under subparagraph (F) is disapproved, the corporation shall provide to the applicant the reasons for the disapproval not later than 30 days after a determination is made under this subparagraph.
+
+(H)
+
+Authority of Director.—If the corporation elects to use a credit score model under this paragraph, the Director of the Federal HousingFinance Agency shall require the corporation to periodically review the validation and approval process required under subparagraph (C) as the Director determines necessary to ensure that the process remains appropriate and adequate and complies with any standards and criteria established pursuant to section 4548(1) of this title.
+
+(I)
+
+Extension.—If, as of the effective date of this paragraph, a credit score model has not been approved under subparagraph (C), the corporation may use a credit score model that was in use before the effective date of this paragraph, if necessary to prevent substantial market disruptions, until the earlier of—
+
+&emsp;(i) the date on which a credit score model is validated and approved under subparagraph (C); or
+
+&emsp;(ii) the date that is 2 years after the effective date of this paragraph.
+
 #### (c) Administration of trusts; obligations of departments and agencies of the United States; exemption of interest income from taxation; authorization of appropriations for differential reimbursements
 
 (1) Notwithstanding any other provision of this chapter or of any other law, the Association is authorized under section 1721 of this title to create, accept, execute, and otherwise administer in all respects such trusts, receiverships, conservatorships, liquidating or other agencies, or other fiduciary and representative undertakings and activities, hereinafter in this subsection called "trusts", as might be appropriate for financing purposes; and in relation thereto the Association may acquire, hold and manage, dispose of, and otherwise deal in any mortgages or other types of obligations in which any department or agency of the United States listed in paragraph (2) of this subsection may have a financial interest. The Association may join in any such undertakings and activities, hereinafter in this subsection called "trusts"; notwithstanding that it is also serving in a fiduciary or representative capacity; and is authorized to guarantee any participations or other instruments, whether evidence of property rights or debt, issued for such financing purposes. Participations or other instruments issued by the Association pursuant to this subsection shall to the same extent as securities which are direct obligations of or obligations guaranteed as to principal or interest by the United States be deemed to be exempt securities within the meaning of laws administered by the Securities and Exchange Commission. The amounts of any mortgages and their obligations acquired by the Association under section 1721 of this title, pursuant to this subsection, shall not be included in the total amounts set forth in section 1721(c) of this title.
@@ -48,15 +126,15 @@
 
 &emsp;(F) The Small Business Administration.
 
-> The head of each such department or agency, hereinafter in this subsection called the "trustor," is authorized to set aside a part or all of any obligations held by the trustor and subject them to a trust or trusts and, incident thereto, shall guarantee to the trustee timely payment thereof. The trust instrument may provide for the issuance and sale of beneficial interests or participations, by the trustee, in such obligations or in the right to receive interest and principal collections therefrom; and may provide for the substitution or withdrawal of such obligations, or for the substitution of cash for obligations. The trust or trusts shall be exempt from all taxation. The trust instrument may also contain other appropriate provisions in keeping with the purposes of this subsection. The Association shall be named and shall act as trustee of any such trusts and, for the purposes thereof, the title to such obligations shall be deemed to have passed to the Association in trust. The trust instrument shall provide that custody, control, and administration of the obligations shall remain in the trustor subjecting the obligations to the trust, subject to transfer to the trustee in event of default or probable default, as determined by the trustee, in the payment of principal and interest of the beneficial interests or participations. Collections from obligations subject to the trust shall be dealt with as provided in the instrument creating the trust. The trust instrument shall provide that the trustee will promptly pay to the trustor the full net proceeds of any sale of beneficial interestsor participations to the extent they are based upon such obligations or collections. Such proceeds shall be dealt with as otherwise provided by law for sales or repayment of such obligations. The effect of both past and future sales of any issue of beneficial interests or participations shall be the same, to the extent of the principal of such issue, as the direct sale with recourse of the obligations subject to the trust. Any trustor creating a trust or trusts hereunder is authorized to purchase, through the facilities of the trustee, outstanding beneficial interests or participations to the extent of the amount of the trustor's responsibility to the trustee on beneficial interests or participations outstanding, and to pay the trustor's proper share of the costs and expenses incurred by the Association as trustee pursuant to the trust instrument.
+> The head of each such department or agency, hereinafter in this subsection called the "trustor," is authorized to set aside a part or all of any obligations held by the trustor and subject them to a trust or trusts and, incident thereto, shall guarantee to the trustee timely payment thereof. The trust instrument may provide for the issuance and sale of beneficial interests or participations, by the trustee, in such obligations or in the right to receive interest and principal collections therefrom; and may provide for the substitution or withdrawal of such obligations, or for the substitution of cash for obligations. The trust or trusts shall be exempt from all taxation. The trust instrument may also contain other appropriate provisions in keeping with the purposes of this subsection. The Association shall be named and shall act as trustee of any such trusts and, for the purposes thereof, the title to such obligations shall be deemed to have passed to the Association in trust. The trust instrument shall provide that custody, control, and administration of the obligations shall remain in the trustor subjecting the obligations to the trust, subject to transfer to the trustee in event of default or probable default, as determined by the trustee, in the payment of principal and interest of the beneficial interests or participations. Collections from obligations subject to the trust shall be dealt with as provided in the instrument creating the trust. The trust instrument shall provide that the trustee will promptly pay to the trustor the full net proceeds of any sale of beneficial interests or participations to the extent they are based upon such obligations or collections. Such proceeds shall be dealt with as otherwise provided by law for sales or repayment of such obligations. The effect of both past and future sales of any issue of beneficial interests or participations shall be the same, to the extent of the principal of such issue, as the direct sale with recourse of the obligations subject to the trust. Any trustor creating a trust or trusts hereunder is authorized to purchase, through the facilities of the trustee, outstanding beneficial interests or participations to the extent of the amount of the trustor's responsibility to the trustee on beneficial interests or participations outstanding, and to pay the trustor's proper share of the costs and expenses incurred by the Association as trustee pursuant to the trust instrument.
 
-(3) When any trustor guarantees to the trustee the timely payment of obligations the trustor subjects to a trust pursuant to this subsection, and it becomes necessary for such trustor to meet his responsibilities under such guaranty, the trustor is authorized to fulfill such guaranty.
+(3) When any trustor guarantees to the trustee the timely payment of obligations the trustor subjects to a trust pursuant to this subsection, and it becomes necessary for such trustor tomeet his responsibilities under such guaranty, the trustor is authorized to fulfill such guaranty.
 
 (4) Beneficial interests or participations shall not be issued for the account of any trustor in an aggregate principal amount greater than is authorized with respect to such trustor in an appropriation Act. Any such authorization shall remain available only for the fiscal year for which it is granted and for the succeeding fiscal year.
 
 (5) The Association, as trustee, is authorized to issue and sell beneficial interests or participations under this subsection, notwithstanding that there may be an insufficiency in aggregate receipts from obligations subject to the related trust to provide for the payment by the trustee (on a timely basis out of current receipts or otherwise) of all interest or principal on such interests or participations (after provision for all costs and expenses incurred by the trustee, fairly prorated among trustors). There are authorized to be appropriated without fiscal year limitation such sums as may be necessary to enable any trustor to pay the trustee such insufficiency as the trustee may require on account of outstanding beneficial interests or participations authorized to be issued pursuant to paragraph (4) of this subsection. Such trustor shall make timely payments to the trustee from such appropriations, subject to and in accord with the trust instrument. In the event that the insufficiency required by the trustee is on account of principal maturities of outstanding beneficial interests or participations authorized to be issued pursuant to paragraph (4) of this subsection, or pursuant hereto, the trustee is authorized to elect to issue additional beneficial interests or participations for refinancing purposes in lieu of requiring any trustor or trustors to make payments to the trustee from appropriated funds or other sources. Each such issue of beneficial interests or participations shall be in an amount determined by the trustee but not in excess of the aggregate amount which the trustee would otherwise require the trustor or trustors to pay from appropriated funds or other sources, and may be issued without regard to the provisions of paragraph (4) of this subsection. All refinancing issues of beneficial interests or participations shall be deemed to have been issued pursuant to the authority contained in the appropriation Act or Acts under which the beneficial interests or participations were originally issued.
 
-(June 27, 1934, ch. 847, title III, §302, 48 Stat. 1254; May 28, 1935, ch. 150, §31, 49 Stat. 300; Feb. 3, 1938, ch. 13, §6, 52 Stat. 24; Mar. 28, 1941, ch. 31, §6, 55 Stat. 62; July 1, 1948, ch. 784, §1, 62 Stat. 1208; July 19, 1949, ch. 351, §1, 63 Stat. 446; Oct. 25, 1949, ch. 729, §1(3), 63 Stat. 905; Apr. 20, 1950, ch. 94, title I, §117, 64 Stat. 57; July 14, 1952, ch. 723, §3(b), 66 Stat. 602; June 30, 1953, ch. 170, §13(b), 67 Stat. 125; Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 613; Aug. 7, 1956, ch. 1029, title II, §201, 70 Stat. 1096; Pub. L. 85–857, §13(g), Sept. 2, 1958, 72 Stat. 1265; Pub. L. 86–372, title III, §301, Sept. 23, 1959, 73 Stat. 669; Pub. L. 87–70, title I, §102(c), title VI, §§602, 603(a), June 30, 1961, 75 Stat. 158, 176; Pub. L. 88–560, title VII, §§701(a), 702, Sept. 2, 1964, 78 Stat. 800, 802; Pub. L. 89–117, title I, §102(d), title II, §201(b)(1), title VIII, §§802(a), 803, 804, title X, §1004(a), Aug. 10, 1965, 79 Stat. 454, 465, 493, 494, 501; Pub. L. 89–429, §2, May 24, 1966, 80 Stat. 164; Pub. L. 89–751, §7, Nov. 3, 1966, 80 Stat. 1236; Pub. L. 89–754, title IV, §405, Nov. 3, 1966, 80 Stat. 1273; Pub. L. 90–19, §1(a)(2), (3), (j)(1), May 25, 1967, 81 Stat. 17, 18; Pub. L. 90–448, title VIII, §§802(c)–(g), 803, Aug. 1, 1968, 82 Stat. 536, 537, 542; Pub. L. 91–152, title I, §114, Dec. 24, 1969, 83 Stat. 385; Pub. L. 91–296, title II, §202, June 30, 1970, 84 Stat. 350; Pub. L. 91–351, title II, §201(a), title IV, §402, July 24, 1970, 84 Stat. 450, 458; Pub. L. 91–609, title IX, §901(d), Dec. 31, 1970, 84 Stat. 1807; Pub. L. 93–383, title VIII, §§806(a)–(f), 807, Aug. 22, 1974, 88 Stat. 727, 728; Pub. L. 93–541, §2, Dec. 26, 1974, 88 Stat. 1739; Pub. L. 95–128, title IV, §408(a), Oct. 12, 1977, 91 Stat. 1138; Pub. L. 95–557, title I, §101(c)(3), title III, §318(a), Oct. 31, 1978, 92 Stat. 2083, 2100; Pub. L. 95–619, title II, §246, Nov. 9, 1978, 92 Stat. 3233; Pub. L. 96–153, title III, §317, Dec. 21, 1979, 93 Stat. 1119; Pub. L. 96–294, title V, §534(b), June 30, 1980, 94 Stat. 741; Pub. L. 96–399, title III, §§309, 313(a), 339(a)(1), (b)(1), Oct. 8, 1980, 94 Stat. 1641, 1644, 1657; Pub. L. 97–110, title II, §202(c), Dec. 26, 1981, 95 Stat. 1514; Pub. L. 98–440, title II, §§201(a), 203(a), 205(a), 206(a), Oct. 3, 1984, 98 Stat. 1692, 1693, 1695; Pub. L. 98–479, title II, §§201(b), 204(a)(16), Oct. 17, 1984, 98 Stat. 2227, 2232; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–122, §2(b)(1), Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title IV, §443(a), Feb. 5, 1988, 101 Stat. 1922; Pub. L. 100–628, title X, §1068(a), Nov. 7, 1988, 102 Stat. 3276; Pub. L. 101–73, title VII, §731(f)(1), Aug. 9, 1989, 103 Stat. 433; Pub. L. 102–54, §13(d)(2)(A), June 13, 1991, 105 Stat. 274; Pub. L. 102–550, title XIII, §1381(b), (c), (s)(1), Oct. 28, 1992, 106 Stat. 3995, 4001; Pub. L. 105–276, title V, §582(a)(14), Oct. 21, 1998, 112 Stat. 2644; Pub. L. 110–289, div. A, title I, §1124(a)(1), (2), July 30, 2008, 122 Stat. 2691, 2692.)
+(June 27, 1934, ch. 847, title III, §302, 48 Stat. 1254; May 28, 1935, ch. 150, §31, 49 Stat. 300; Feb. 3, 1938, ch. 13, §6, 52 Stat. 24; Mar. 28, 1941, ch. 31, §6, 55 Stat. 62; July 1, 1948, ch. 784, §1, 62 Stat. 1208; July 19, 1949, ch. 351, §1, 63 Stat. 446; Oct. 25, 1949, ch. 729, §1(3), 63 Stat. 905; Apr. 20, 1950, ch. 94, title I, §117, 64 Stat. 57; July 14, 1952, ch. 723, §3(b), 66 Stat. 602; June 30, 1953, ch. 170, §13(b), 67 Stat. 125; Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 613; Aug. 7, 1956, ch. 1029, title II, §201, 70 Stat. 1096; Pub. L. 85–857, §13(g), Sept. 2, 1958, 72 Stat. 1265; Pub. L. 86–372, title III, §301, Sept. 23, 1959, 73 Stat. 669; Pub. L. 87–70, title I, §102(c), title VI, §§602, 603(a), June 30, 1961, 75 Stat. 158, 176; Pub. L. 88–560, title VII, §§701(a), 702, Sept. 2, 1964, 78 Stat. 800, 802; Pub. L. 89–117, title I, §102(d), title II, §201(b)(1), title VIII, §§802(a), 803, 804, title X, §1004(a), Aug. 10, 1965, 79 Stat. 454, 465, 493, 494, 501; Pub. L. 89–429, §2, May 24, 1966, 80 Stat. 164; Pub. L. 89–751, §7, Nov. 3, 1966, 80 Stat. 1236; Pub. L. 89–754, title IV, §405, Nov. 3, 1966, 80 Stat. 1273; Pub. L. 90–19, §1(a)(2), (3), (j)(1), May 25, 1967, 81 Stat. 17, 18; Pub. L. 90–448, title VIII, §§802(c)–(g), 803, Aug. 1, 1968, 82 Stat. 536, 537, 542; Pub. L. 91–152, title I, §114, Dec. 24, 1969, 83 Stat. 385; Pub. L. 91–296, title II, §202, June 30, 1970, 84 Stat. 350; Pub. L. 91–351, title II, §201(a), title IV, §402, July 24, 1970, 84 Stat. 450, 458; Pub. L. 91–609, title IX, §901(d), Dec. 31, 1970, 84 Stat. 1807; Pub. L. 93–383, title VIII, §§806(a)–(f), 807, Aug. 22, 1974, 88 Stat. 727, 728; Pub. L. 93–541, §2, Dec. 26, 1974, 88 Stat. 1739; Pub. L. 95–128, title IV, §408(a), Oct. 12, 1977, 91 Stat. 1138; Pub. L. 95–557, title I, §101(c)(3), title III, §318(a), Oct. 31, 1978, 92 Stat. 2083, 2100; Pub. L. 95–619, title II, §246, Nov. 9, 1978, 92 Stat. 3233; Pub. L. 96–153, title III, §317, Dec. 21, 1979, 93 Stat. 1119; Pub. L. 96–294, title V, §534(b), June 30, 1980, 94 Stat. 741; Pub. L. 96–399, title III, §§309, 313(a), 339(a)(1), (b)(1), Oct. 8, 1980, 94 Stat. 1641, 1644, 1657; Pub. L. 97–110, title II, §202(c), Dec. 26, 1981, 95 Stat. 1514; Pub. L. 98–440, title II, §§201(a), 203(a), 205(a), 206(a), Oct. 3, 1984, 98 Stat. 1692, 1693, 1695; Pub. L. 98–479, title II, §§201(b), 204(a)(16), Oct. 17, 1984, 98 Stat. 2227, 2232; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–122, §2(b)(1), Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title IV, §443(a), Feb. 5, 1988, 101 Stat. 1922; Pub. L. 100–628, title X, §1068(a), Nov. 7, 1988, 102 Stat. 3276; Pub. L. 101–73, title VII, §731(f)(1), Aug. 9, 1989, 103 Stat. 433; Pub. L. 102–54, §13(d)(2)(A), June 13, 1991, 105 Stat. 274; Pub. L. 102–550, title XIII, §1381(b), (c), (s)(1), Oct. 28, 1992, 106 Stat. 3995, 4001; Pub. L. 105–276, title V, §582(a)(14), Oct. 21, 1998, 112 Stat. 2644; Pub. L. 110–289, div. A, title I, §1124(a)(1), (2), July 30, 2008, 122 Stat. 2691, 2692; Pub. L. 115–174, title III, §310(a), May 24, 2018, 132 Stat. 1351.)
 
 #### References in Text
 
@@ -66,7 +144,7 @@ The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch
 
 The Servicemen's Readjustment Act of 1944, referred to in subsec. (b)(1), is act June 22, 1944, ch. 268, 58 Stat. 284, as amended, which was classified generally to chapter 11C (§§693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans' Relief, and which was repealed by section 14(87) of Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1273, the first section of which enacted Title 38, Veterans' Benefits. For distribution of sections 693 to 697g of former Title 38 to Title 38, Veterans' Benefits, see Table preceding section 101 of Title 38, Veterans' Benefits.
 
-The Public Health Service Act, referred to in subsec. (b)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part B of title VI of the Public Health Service Act is classified generally to part B (§291j–1 et seq.) of subchapter IV of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (b)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part B of title VI of the Public Health Service Act is classified generally to part B (§291j–1 et seq.) of subchapter IV of chapter 6A of Title 42, The Public Healthand Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 Subchapter IX–A of this chapter and section 1749cc–1 of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 101–235, title I, §133(a), Dec. 15, 1989, 103 Stat. 2027.
 
@@ -76,7 +154,11 @@ The National Energy Conservation Policy Act, referred to in subsec. (b)(3), is P
 
 Section 4542 of this title, referred to in subsec. (b)(6), was repealed and a new section 4542 was added by Pub. L. 110–289, div. A, title I, §§1122, 1124(d), July 30, 2008, 122 Stat. 2693. The new section 4542 does not relate to obtaining the approval of the Secretary.
 
+The effective date of this paragraph, referred to in subsec. (b)(7)(F), (I), is 180 days after May 24, 2018, see section 310(d) of Pub. L. 115–174, set out as an Effective Date of 2018 Amendment note under section 1454 of this title.
+
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(7). Pub. L. 115–174 added par. (7).
 
 <b>2008</b>—Subsec. (b)(2). Pub. L. 110–289 inserted last sentence and substituted seventh through ninth sentences for former seventh and eighth sentences which read as follows: "Such limitations shall not exceed $93,750 for a mortgage secured by a single-family residence, $120,000 for a mortgage secured by a two-family residence, $145,000 for a mortgage secured by a three-family residence, and $180,000 for a mortgage secured by a four-family residence, except that such maximum limitations shall be adjusted effective January 1 of each year beginning with 1981. Each such adjustment shall be made by adding to each such amount (as it may have been previously adjusted) a percentage thereof equal to the percentage increase during the twelve-month period ending with the previous October in the national average one-family house price in the monthly survey of all major lenders conducted by the Federal Housing Finance Board."
 
@@ -118,9 +200,9 @@ Subsec. (b)(2). Pub. L. 98–440, §§201(a), 205(a), 206(a), in second sentence
 
 Subsec. (b)(5). Pub. L. 98–440, §203(a), added par. (5).
 
-Subsec. (c)(2)(B). Pub. L. 98–479, §201(b), substituted "Department of Education" for "Department of Health,Education, and Welfare" and "Secretary of Education" for "Commissioner of Education".
+Subsec. (c)(2)(B). Pub. L. 98–479, §201(b), substituted "Department of Education" for "Department of Health, Education, and Welfare" and "Secretary of Education" for "Commissioner of Education".
 
-<b>1981</b>—Subsec. (b)(2). Pub. L. 97–110 substituted provisions empowering the Corporation to purchase a conventional mortgage which was originated more than one year prior to the purchase date only if the seller is the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, the National Credit Union Administration, or any other seller currently engaged in mortgage lending or investing activities for provisions which had empowered the Corporation to purchase a conventional mortgage which was originated more than one year prior to the purchase date only if the seller was currently engaged in mortgage lending or investing activities and if, as a result thereof, the cumulative aggregate of the principal balances of all conventional mortgages purchased by the Corporation which were originated more than one year prior to the date of purchase did not exceed 20 per centum of the cumulative aggregate of the principal balances of all conventional mortgages purchased by the Corporation.
+<b>1981</b>—Subsec. (b)(2). Pub. L. 97–110 substituted provisions empowering the Corporation to purchase a conventional mortgage which was originated more than one year prior to the purchase date only if the seller is the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, the National Credit Union Administration, or any other seller currently engaged in mortgage lending or investing activities for provisions which had empowered the Corporation to purchase a conventional mortgage which was originated more than one year prior to the purchase date only if the seller was currently engaged in mortgage lending or investing activities and if, as a result thereof, the cumulative aggregate of the principal balances of all conventional mortgages purchased by theCorporation which were originated more than one year prior to the date of purchase did not exceed 20 per centum of the cumulative aggregate of the principal balances of all conventional mortgages purchased by the Corporation.
 
 <b>1980</b>—Subsec. (b)(1). Pub. L. 96–399, §309, struck out "(1)" before "the mortgage" and cl. (2) relating to requirement respecting assistance under contracts authorized by section 1437f of title 42 for at least 20 per centum of covered units.
 
@@ -170,7 +252,7 @@ Subsec. (c)(1). Pub. L. 90–448, §802(e), struck out ", consistent with secti
 
 Subsec. (c)(2). Pub. L. 90–448, §802(f), (g), struck out provisions from par. (C) which prohibited the Department of Housing and Urban Development from exercising the authority with respect to secondary market operations of the Federal National Mortgage Association, and in last sentence substituted "incurred by the Association" for "incurred by the Federal National Mortgage Association".
 
-Subsec. (c)(5). Pub. L. 90–448, §803, inserted provisions authorizing the trustee, in the event that the insufficiency required by the trustee is on account of principal maturities of outstanding beneficial interests or participations to be issued pursuant to paragraph (4) of this subsection, or pursuant hereto, to elect to issueadditional beneficial interests or participations for refinancing purposes in lieu of requiring any trustor or trustors to make payments to the trustee from appropriated funds or other sources, limiting each such issue of beneficial interests or participations, and directing that all refinancing issues be deemed to have been issued pursuant to the authority contained in the appropriation Act or Acts under which the beneficial interests or participations were originally issued.
+Subsec. (c)(5). Pub. L. 90–448, §803, inserted provisions authorizing the trustee, in the event that the insufficiency required by the trustee is on account of principal maturities of outstanding beneficial interests or participations to be issued pursuant to paragraph (4) of this subsection, or pursuant hereto, to elect to issue additional beneficial interests or participations for refinancing purposes in lieu of requiring any trustor or trustors to make payments to the trustee from appropriated funds or other sources, limiting each such issue of beneficial interests or participations, and directing that all refinancing issues be deemed to have been issued pursuant to the authority contained in the appropriation Act or Acts under which the beneficial interests or participations were originally issued.
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–19, §1(j)(1), substituted "in the Department of Housing and Urban Development" for "a constituent agency of the Housing and Home Finance Agency".
 
@@ -218,13 +300,17 @@ Act July 19, 1949, increased authorization to $1,500,000,000 which would be base
 
 <b>1935</b>—Act May 28, 1935, substituted "twelve times" for "ten times" in cl. (1).
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–174 effective 180 days after May 24, 2018, see section 310(d) of Pub. L. 115–174, set out as a note under section 1454 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–289, div. A, title I, §1124(a)(3), July 30, 2008, 122 Stat. 2692, provided that: "The amendments made by paragraphs (1) and (2) of this subsection \[amending this section\] shall take effect upon the expiration of the date described in section 201(a) of the Economic Stimulus Act of 2008 (Public Law 110–185) \[122 Stat. 619; probably means Dec. 31, 2008\]."
 
 #### Effective Date of 1998 Amendment
 
-Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set outas a note under section 1437 of Title 42, The Public Health and Welfare.
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1978 Amendment
 

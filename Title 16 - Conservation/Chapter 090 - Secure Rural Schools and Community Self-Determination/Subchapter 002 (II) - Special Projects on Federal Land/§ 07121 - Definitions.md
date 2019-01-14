@@ -8,7 +8,7 @@ In this subchapter:
 
 #### (2) Project funds
 
-&emsp;The term "project funds" means all funds an eligible county elects under section 7112(d) of this title to reserve for expenditure in accordance with this subchapter.
+&emsp;The term "project funds" means all funds an eligible county elects under section 7112(d) ofthis title to reserve for expenditure in accordance with this subchapter.
 
 #### (3) Resource advisory committee
 

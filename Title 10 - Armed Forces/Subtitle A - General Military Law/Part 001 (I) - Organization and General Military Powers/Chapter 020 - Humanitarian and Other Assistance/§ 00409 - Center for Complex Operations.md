@@ -30,7 +30,7 @@ Concurrence of the Secretary of State.—The Secretary of Defense shall seek the
 
 (d)
 
-Support From Other United States Government Departments or Agencies.—The head of any non-Department of Defense department or agency of the United States Government may—
+Support From Other United States Government Departments or Agencies.—The headof any non-Department of Defense department or agency of the United States Government may—
 
 &emsp;(1) provide to the Secretary of Defense services, including personnel support, to support the operations of the Center; and
 

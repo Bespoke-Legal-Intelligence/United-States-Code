@@ -36,7 +36,7 @@ Provisions similar to those in this section were contained in House Resolution 4
 
 &emsp;"(2) Appointments to each position for which a position title is provided by subparagraph (1) of this section shall be made by action of the House of Representatives.
 
-&emsp;"(3) The rate of pay of each position for which a position title is provided by subparagraph (1) of this section shall be a per annum gross rate equal to the annual rate of basic pay of Level V of the ExecutiveSchedule in section 5316 of title 5, United States Code, unless a different rate is provided for such position by action of the House of Representatives.
+&emsp;"(3) The rate of pay of each position for which a position title is provided by subparagraph (1) of this section shall be a per annum gross rate equal to the annual rate of basic pay of Level V of the Executive Schedule in section 5316 of title 5, United States Code, unless a different rate is provided for such position by action of the House of Representatives.
 
 "Sec. 2. (a) The first section of this resolution shall not affect or change the appointments or continuity of employment of those employees who hold such positions on the date of adoption of this resolution \[June 17, 1969\].
 

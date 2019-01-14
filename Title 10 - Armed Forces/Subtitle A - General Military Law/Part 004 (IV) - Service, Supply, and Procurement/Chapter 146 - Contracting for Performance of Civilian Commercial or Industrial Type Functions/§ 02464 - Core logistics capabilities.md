@@ -6,7 +6,7 @@ Necessity for Core Logistics Capabilities.—(1) It is essential for the nationa
 
 (2) The Secretary of Defense shall identify the core logistics capabilities described in paragraph (1) and the workload required to maintain those capabilities.
 
-(3) The core logistics capabilities identified under paragraphs (1) and (2) shall include those capabilities that are necessary to maintain and repair the weapon systems and other military equipment (including mission-essential weapon systems or materiel not later than four years after achieving initial operational capability, but excluding systems and equipment under special access programs, nuclear aircraft carriers, and commercial items described in paragraph (5)) that are identified by the Secretary, in consultation with the Chairman of the Joint Chiefs of Staff, as necessary to enable the armed forces to fulfill the strategic and contingency plans prepared by the Chairman of the Joint Chiefs of Staff under section 153(a) of this title.
+(3) The core logistics capabilities identified under paragraphs (1) and (2) shall include those capabilities that are necessary to maintain andrepair the weapon systems and other military equipment (including mission-essential weapon systems or materiel not later than four years after achieving initial operational capability, but excluding systems and equipment under special access programs, nuclear aircraft carriers, and commercial items described in paragraph (5)) that are identified by the Secretary, in consultation with the Chairman of the Joint Chiefs of Staff, as necessary to enable the armed forces to fulfill the strategic and contingency plans prepared by the Chairman of the Joint Chiefs of Staff under section 153(a) of this title.
 
 (4) The Secretary of Defense shall require the performance of core logistics workloads necessary to maintain the core logistics capabilities identified under paragraphs (1), (2), and (3) at Government-owned, Government-operated facilities of the Department of Defense (including Government-owned, Government-operated facilities of a military department) and shall assign such facilities sufficient workload to ensure cost efficiency and technical competence in peacetime while preserving the surge capacity and reconstitution capabilities necessary to support fully the strategic and contingency plans referred to in paragraph (3).
 
@@ -62,9 +62,27 @@ Biennial Core Report.—Not later than April 1 of each even-numbered year, the S
 
 (e)
 
-Comptroller General Review.—The Comptroller General of the United States shall review each report submitted under subsection (d) for completeness and compliance and shall submit to the congressional defense committeesfindings and recommendations with respect to the report by not later than 60 days after the date on which the report is submitted to Congress.
+Comptroller General Review.—The Comptroller General of the United States shall review each report submitted under subsection (d) for completeness and compliance and shall submit to the congressional defense committees findings and recommendations with respect to the report by not later than 60 days after the date on which the report is submitted to Congress.
 
-(Added and amended Pub. L. 112–239, div. A, title III, §322(b)(2)(A), (d), Jan. 2, 2013, 126 Stat. 1695; Pub. L. 115–91, div. A, title III, §332, Dec. 12, 2017, 131 Stat. 1354.)
+(Added and amended Pub. L. 112–239, div. A, title III, §322(b)(2)(A), (d), Jan. 2, 2013, 126 Stat. 1695; Pub. L. 115–91, div. A, title III, §332, Dec. 12, 2017, 131 Stat. 1354; Pub. L. 115–232, div. A, title VIII, §836(e)(10), Aug. 13, 2018, 132 Stat. 1870.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(e)(10), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)—</i>
+
+<i>(A) in paragraph (3), by striking "commercial items" and inserting "commercial products or commercial services"; and</i>
+
+<i>(B) in paragraph (5), by striking "The commercial items covered by paragraph (3) are commercial items" and inserting "The commercial products or commercial services covered by paragraph (3) are commercial products (as defined in section 103 of title 41) or commercial services (as defined in section 103a of such title)"; and</i>
+
+<i>(2) in subsection (c)—</i>
+
+<i>(A) in heading, by striking "Commercial Items" and inserting "Commercial Products or Commercial Services"; and</i>
+
+<i>(B) by striking "commercial item" and inserting "commercial product or commercial service".</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 #### Codification
 
@@ -76,9 +94,19 @@ A prior section 2464, added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Sta
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a)(3). Pub. L. 115–232, §836(e)(10)(A)(i), substituted "commercial products or commercial services" for "commercial items".
+
+Subsec. (a)(5). Pub. L. 115–232, §836(e)(10)(A)(ii), substituted "The commercial products or commercial services covered by paragraph (3) are commercial products (as defined in section 103 of title 41) or commercial services (as defined in section 103a of such title)" for "The commercial items covered by paragraph (3) are commercial items".
+
+Subsec. (c). Pub. L. 115–232, §836(e)(10)(B), in heading, substituted "Commercial Products or Commercial Services" for "Commercial Items" and, in introductory provisions, substituted "commercial product or commercial service" for "commercial item".
+
 <b>2017</b>—Subsec. (d)(4) to (10). Pub. L. 115–91 added pars. (4) to (10).
 
 <b>2013</b>—Subsecs. (d), (e). Pub. L. 112–239, §322(d), added subsecs. (d) and (e).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
 #### Effective Date
 

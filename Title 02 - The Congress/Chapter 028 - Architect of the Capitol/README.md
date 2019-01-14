@@ -52,6 +52,7 @@
 | [1832\.](Subchapter%20003%20%28III%29%20-%20Personnel/Part%20A%20-%20General/%C2%A7%2001832%20-%20Assignment%20and%20reassignment%20of%20personnel.md) | Assignment and reassignment of personnel. |
 | [1833\.](Subchapter%20003%20%28III%29%20-%20Personnel/Part%20A%20-%20General/%C2%A7%2001833%20-%20Lighting%2C%20heating%2C%20and%20ventilating%20House%20of%20Representatives.md) | Lighting, heating, and ventilating House of Representatives. |
 | [1834\.](Subchapter%20003%20%28III%29%20-%20Personnel/Part%20A%20-%20General/%C2%A7%2001834%20-%20Heating%20and%20ventilating%20Senate%20wing.md) | Heating and ventilating Senate wing. |
+| [1835\.](Subchapter%20003%20%28III%29%20-%20Personnel/Part%20A%20-%20General/%C2%A7%2001835%20-%20Interagency%20details.md) | Interagency details. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -94,6 +95,7 @@
 | [1870\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001870%20-%20House%20Historic%20Buildings%20Revitalization%20Trust%20Fund.md) | House Historic Buildings Revitalization Trust Fund. |
 | [1871\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001871%20-%20Expired%20appropriations%20available%20for%20deposit%20into%20Employees%27%20Compensation%20Fund.md) | Expired appropriations available for deposit into Employees' Compensation Fund. |
 | [1872\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001872%20-%20Use%20of%20expired%20funds%20for%20unemployment%20compensation%20payments.md) | Use of expired funds for unemployment compensation payments. |
+| [1873\.](Subchapter%20004%20%28IV%29%20-%20Appropriations%20and%20Expenditures/%C2%A7%2001873%20-%20Acceptance%20of%20travel%20expenses%20from%20non-Federal%20sources.md) | Acceptance of travel expenses from non-Federal sources. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -34,7 +34,7 @@ In this chapter:
 
 > &emsp;Such term includes a consortium of such companies or other business entities, as determined by the Secretary of Commerce.
 
-&emsp;(10) The term "manufacturing technology" means techniques and processes designed to improve manufacturing quality, productivity, and practices, including quality control, shop floor management, inventory management, and worker training, as well as manufacturing equipment and software.
+&emsp;(10) The term "manufacturing technology" means techniques and processes designed to improve manufacturing quality, productivity,and practices, including quality control, shop floor management, inventory management, and worker training, as well as manufacturing equipment and software.
 
 &emsp;(11) The term "Small Business Innovation Research Program" means the program established under the following provisions of section 9 of the Small Business Act (15 U.S.C. 638):
 
@@ -82,7 +82,7 @@ Par. (15). Pub. L. 111–383, §895(a)(4), added par. (15).
 
 <b>1997</b>—Pub. L. 105–85, §371(b)(3), renumbered section 2491 of this title as this section.
 
-Par. (8). Pub. L. 105–85, §1073(a)(53), substituted "that is identified under section 2505 of this title as criticalfor attaining the national security objectives set forth in section 2501(a) of this title." for "that appears on the list of critical technologies contained, pursuant to subsection (b)(4) of section 2505 of this title, in the most recent national technology and industrial base assessment submitted to Congress by the Secretary of Defense pursuant to section 2506(e) of this title."
+Par. (8). Pub. L. 105–85, §1073(a)(53), substituted "that is identified under section 2505 of this title as critical for attaining the national security objectives set forth in section 2501(a) of this title." for "that appears on the list of critical technologies contained, pursuant to subsection (b)(4) of section 2505 of this title, in the most recent national technology and industrial base assessment submitted to Congress by the Secretary of Defense pursuant to section 2506(e) of this title."
 
 <b>1996</b>—Pars. (11) to (16). Pub. L. 104–106 redesignated pars. (13) to (16) as (11) to (14), respectively, and struck out former pars. (11) and (12) which read as follows:
 
@@ -116,7 +116,7 @@ Pub. L. 103–160, div. A, title XIII, §1301, Nov. 30, 1993, 107 Stat. 1783, pr
 
 #### Short Title
 
-Pub. L. 102–484, div. D, §4001, Oct. 23, 1992, 106 Stat. 2658, provided that: "This division \[div. D (§§4001–4501) of Pub. L. 102–484, see Tables for classification\] may be cited as the 'Defense Conversion, Reinvestment, and Transition Assistance Act of 1992'."
+Pub. L. 102–484, div. D, §4001, Oct. 23, 1992, 106 Stat. 2658, provided that: "This division \[div. D (§§4001–4501)of Pub. L. 102–484, see Tables for classification\] may be cited as the 'Defense Conversion, Reinvestment, and Transition Assistance Act of 1992'."
 
 #### Treatment of Interagency and State and Local Purchases When the Department of Defense Acts as Contract Intermediary for the General Services Administration
 
@@ -126,27 +126,9 @@ Pub. L. 114–92, div. A, title VIII, §897, Nov. 25, 2015, 129 Stat. 954, provi
 
 Amendment by section 1315(f) of Pub. L. 103–160 not to alter financial commitment requirements in effect on the day before Nov. 30, 1993, for non-Federal Government participants in a project funded under section 2511, 2512, 2513, 2523, or 2524 of this title, using funds appropriated for a fiscal year beginning before Oct. 1, 1993, see section 1315(g) of Pub. L. 103–160, set out as a note under section 2511 of this title.
 
-#### Congressional Findings
+#### Congressional Findings on Military Significance of Collapse of Communism
 
-Pub. L. 102–484, div. D, title XLI, §4101, Oct. 23, 1992, 106 Stat. 2658, provided that: "Congress makes the following findings:
-
-&emsp;"(1) The collapse of communism in Eastern Europe and the dissolution of the Soviet Union have fundamentally changed the military threat that formed the basis for the national security policy of the United States since the end of World War II.
-
-&emsp;"(2) The change in the military threat presents a unique opportunity to restructure and reduce the military requirements of the United States.
-
-&emsp;"(3) As the United States proceeds with the post-Cold War defense build down, the Nation must recognize and address the impact of reduced defense spending on the military personnel, civilian employees, and defense industry workers who have been the foundation of the national defense policies of the United States.
-
-&emsp;"(4) The defense build down will have a significant impact on communities as procurements are reduced and military installations are closed and realigned.
-
-&emsp;"(5) Despite the changes in the military threat, the United States must maintain the capability to respond to regional conflicts that threaten the national interests of the United States, and to reconstitute forces in the event of an extended conflict.
-
-&emsp;"(6) The skills and capabilities of military personnel, civilian employees of the Department of Defense, defense industry workers, and defense industries represent an invaluable national resource that can contribute to the economic growth of the United States and to the long-term vitality of the national technology and industrial base.
-
-&emsp;"(7) Prompt and vigorous implementation of defense conversion, reinvestment, and transition assistance programs is essential to ensure that the defense build down is structured in a manner that—
-
-&emsp;&emsp;"(A) enhances the long-term ability of the United States to maintain a strong and vibrant national technology and industrial base; and
-
-&emsp;&emsp;"(B) promotes economic growth."
+Pub. L. 102–484, div. D, title XLI, §4101, Oct. 23, 1992, 106 Stat. 2658, which set out congressional findings concerning the effects the collapse of communism in Eastern Europe and the dissolution of the Soviet Union have had on the military requirements of the United States, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(54), Aug. 13, 2018, 132 Stat. 1850.
 
 #### Purposes of Title XLII of Pub. L. 102–484
 
@@ -154,7 +136,7 @@ Pub. L. 102–484, div. D, title XLII, §4201, Oct. 23, 1992, 106 Stat. 2659, pr
 
 #### Transition Provision; "Defense Critical Technology" Defined
 
-Pub. L. 102–484, div. D, title XLII, §4203(b), Oct. 23, 1992, 106 Stat. 2662, provided that until first national technology and industrial base assessment was submitted to Congress by Secretary of Defense pursuant to former section 2506(e) of this title, the term "defensecritical technology" for purposes of this chapter, would have meaning given such term in section 2521 of this title, as in effect on day before Oct. 23, 1992.
+Pub. L. 102–484, div. D, title XLII, §4203(b), Oct. 23, 1992, 106 Stat. 2662, provided that until first national technology and industrial base assessment was submitted to Congress by Secretary of Defense pursuant to former section 2506(e) of this title, the term "defense critical technology" for purposes of this chapter, would have meaning given such term in section 2521 of this title, as in effect on day before Oct. 23, 1992.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

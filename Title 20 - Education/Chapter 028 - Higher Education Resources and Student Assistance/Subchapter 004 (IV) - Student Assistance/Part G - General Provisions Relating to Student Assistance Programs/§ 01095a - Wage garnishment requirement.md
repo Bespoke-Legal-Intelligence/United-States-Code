@@ -6,7 +6,7 @@ Notwithstanding any provision of State law, a guaranty agency, or the Secretary 
 
 &emsp;(1) the amount deducted for any pay period may not exceed 15 percent of disposable pay, except that a greater percentage may be deducted with the written consent of the individual involved;
 
-&emsp;(2) the individual shall be provided written notice, sent by mail to the individual's lastknown address, a minimum of 30 days prior to the initiation of proceedings, from the guaranty agency or the Secretary, as appropriate, informing such individual of the nature and amount of the loan obligation to be collected, the intention of the guaranty agency or the Secretary, as appropriate, to initiate proceedings to collect the debt through deductions from pay, and an explanation of the rights of the individual under this section;
+&emsp;(2) the individual shall be provided written notice, sent by mail to the individual's last known address, a minimum of 30 days prior to the initiation of proceedings, from the guaranty agency or the Secretary, as appropriate, informing such individual of the nature and amount of the loan obligation to be collected, the intention of the guaranty agency or the Secretary, as appropriate, to initiate proceedings to collect the debt through deductions from pay, and an explanation of the rights of the individual under this section;
 
 &emsp;(3) the individual shall be provided an opportunity to inspect and copy records relating to the debt;
 
@@ -30,7 +30,7 @@ The notice to the employer of the withholding order shall contain only such info
 
 #### (d) No attachment of student assistance
 
-Except as authorized in this section, notwithstanding any other provision of Federal or State law, no grant, loan, or work assistance awarded under this subchapter, or property traceable to such assistance, shall be subject to garnishment or attachment in order to satisfy any debt owed by the student awarded such assistance, other than a debt owed to the Secretary and arising under this subchapter.
+Except as authorized in this section, notwithstanding any other provision of Federal or State law, no grant, loan, or work assistance awarded under this subchapter, or property traceable tosuch assistance, shall be subject to garnishment or attachment in order to satisfy any debt owed by the student awarded such assistance, other than a debt owed to the Secretary and arising under this subchapter.
 
 #### (e) "Disposable pay" defined
 

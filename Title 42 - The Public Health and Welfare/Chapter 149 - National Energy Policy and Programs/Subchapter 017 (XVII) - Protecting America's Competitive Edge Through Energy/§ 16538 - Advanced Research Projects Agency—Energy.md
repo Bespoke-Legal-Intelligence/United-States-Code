@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Fund
 
-&emsp;The term "Fund" means the Energy Transformation Acceleration Fund established under subsection (n)(1).
+&emsp;The term "Fund" means the Energy Transformation Acceleration Fund established under subsection (o)(1).
 
 #### (b) Establishment
 
@@ -72,7 +72,7 @@ The responsibilities of the Director shall include—
 
 &emsp;(2) developing funding criteria and assessing the success of programs through the establishment of technical milestones;
 
-&emsp;(3) administering the Fund through awards to institutions of higher education, companies, research foundations, trade and industry research collaborations, or consortia of such entities, which may include federally-funded research and development centers, to achieve the goals described in subsection (c) through targeted acceleration of—
+&emsp;(3) administering the Fund through awards to institutions of higher education, companies, research foundations, trade and industry research collaborations, or consortia of such entities, which may include federally-funded research and development centers, to achievethe goals described in subsection (c) through targeted acceleration of—
 
 &emsp;&emsp;(A) novel early-stage energy research with possible technology applications;
 
@@ -164,7 +164,7 @@ In carrying out this section, the Director may provide awards in the form of gra
 
 #### (C) Private recruiting firms
 
-&emsp;&emsp;The Secretary, or the Director serving as an agent of the Secretary, may contract with private recruiting firms for the hiring of qualified technical staff to carry out this section.
+&emsp;&emsp;The Secretary, or the Director serving as an agent of the Secretary, may contract with private recruiting firms for the hiringof qualified technical staff to carry out this section.
 
 #### (D) Additional staff
 
@@ -242,7 +242,23 @@ The authorities granted by this section are—
 
 &emsp;(2) are not intended to supersede or modify any existing authorities.
 
-#### (n) Funding
+#### (n) Protection of information
+
+The following types of information collected by ARPA–E from recipients of financial assistance awards shall be considered commercial and financial information obtained from a person and privileged or confidential and not subject to disclosure under section 552(b)(4) of title 5:
+
+&emsp;(1) Plans for commercialization of technologies developed under the award, including business plans, technology-to-market plans, market studies, and cost and performance models.
+
+&emsp;(2) Investments provided to an awardee from third parties (such as venture capital firms, hedge funds, and private equity firms), including amounts and the percentage of ownership of the awardee provided in return for the investments.
+
+&emsp;(3) Additional financial support that the awardee—
+
+&emsp;&emsp;(A) plans to or has invested into the technology developed under the award; or
+
+&emsp;&emsp;(B) is seeking from third parties.
+
+&emsp;(4) Revenue from the licensing or sale of new products or services resulting from research conducted under the award.
+
+#### (o) Funding
 
 #### (1) Fund
 
@@ -282,15 +298,19 @@ The authorities granted by this section are—
 
 &emsp;&emsp;(C) no funds may be used for construction of new buildings or facilities during the 5-year period beginning on August 9, 2007.
 
-(Pub. L. 110–69, title V, §5012, Aug. 9, 2007, 121 Stat. 621; Pub. L. 111–358, title IX, §904, Jan. 4, 2011, 124 Stat. 4045.)
+(Pub. L. 110–69, title V, §5012, Aug. 9, 2007, 121 Stat. 621; Pub. L. 111–358, title IX, §904, Jan. 4, 2011, 124 Stat. 4045; Pub. L. 115–246, title II, §202, Sept. 28, 2018, 132 Stat. 3134.)
 
 #### References in Text
 
 Level II of the Executive Schedule, referred to in subsec. (g)(3)(A)(ii), is set out in section 5313 of Title 5, Government Organization and Employees.
 
-Par. (5), referred to in subsec. (n)(2), was redesignated par. (4) of this section and former par. (4) was struck out by Pub. L. 111–358, title IX, §904(10)(B), (C), Jan. 4, 2011, 124 Stat. 4048.
+Par. (5), referred to in subsec. (o)(2), was redesignated par. (4) of this section and former par. (4) was struck out by Pub. L. 111–358, title IX, §904(10)(B), (C), Jan. 4, 2011, 124 Stat. 4048.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(3). Pub. L. 115–246, §202(1), substituted "subsection (o)(1)" for "subsection (n)(1)".
+
+Subsecs. (n), (o). Pub. L. 115–246, §202(2), (3), added subsec. (n) and redesignated former subsec. (n) as (o).
 
 <b>2011</b>—Subsec. (a)(3). Pub. L. 111–358, §904(1), substituted "subsection (n)(1)" for "subsection (m)(1)".
 

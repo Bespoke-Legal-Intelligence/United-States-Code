@@ -10,7 +10,7 @@ Grants under this section shall be administered by the National Institute of Env
 
 #### (3) Grant recipients
 
-Grants shall be awarded to nonprofit organizations which demonstrate experience in implementing and operating worker health and safety training and education programs and demonstrate the ability to reach and involve in training programs target populations of workers who are or will be engaged in hazardous waste removal or containment or emergency response operations.
+Grants shall be awarded to nonprofit organizations which demonstrate experience in implementing and operating worker health and safety training and education programs and demonstrate the ability to reach and involve in training programs target populations of workerswho are or will be engaged in hazardous waste removal or containment or emergency response operations.
 
 (Pub. L. 99–499, title I, §126(g), Oct. 17, 1986, 100 Stat. 1692.)
 

@@ -10,7 +10,7 @@ In this section, the following definitions apply:
 
 #### (2) Nature-based feature
 
-&emsp;The term "nature-based feature" means a feature that is created by human design, engineering, and construction to provide risk reduction in coastal areas by acting in concert with natural processes.
+&emsp;The term "nature-based feature" means a feature that is created by human design, engineering, and construction to provide risk reduction by acting in concert with natural processes.
 
 #### (b) Requirement
 
@@ -40,11 +40,15 @@ In studying the feasibility of projects for flood risk management, hurricane and
 
 &emsp;&emsp;(C) A description of any statutory, fiscal, or regulatory barriers to the appropriate consideration and use of a full array of measures for coastal risk reduction.
 
-(Pub. L. 114–322, title I, §1184, Dec. 16, 2016, 130 Stat. 1679.)
+(Pub. L. 114–322, title I, §1184, Dec. 16, 2016, 130 Stat. 1679; Pub. L. 115–270, title I, §1149(b), Oct. 23, 2018, 132 Stat. 3787.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(2). Pub. L. 115–270 struck out "in coastal areas" after "risk reduction".
 
 #### "Secretary" Defined
 

@@ -46,7 +46,7 @@
 
 #### (3) Exception for exigent, threatening circumstances
 
-&emsp;Paragraph (1) does not prohibit an officer or employee from taking direct action to protectlife or safety if exigent circumstances arise which are unanticipated and which pose an immediate threat to United States officers or employees, officers or employees of a foreign government, or members of the public.
+&emsp;Paragraph (1) does not prohibit an officer or employee from taking direct action to protect life or safety if exigent circumstances arise which are unanticipated and which pose an immediate threat to United States officers or employees, officers or employees of a foreign government, or members of the public.
 
 #### (4) Exception for maritime law enforcement
 
@@ -68,7 +68,7 @@
 
 #### (2) Annual reports
 
-&emsp;In the annual report required by section 2291h(a) of this title, the President shall report on the impact on the environment and the health of individuals of the use under this part of a herbicide for aerial eradication.
+&emsp;In the annual report required by section 2291h(a) of this title, the President shall reporton the impact on the environment and the health of individuals of the use under this part of a herbicide for aerial eradication.
 
 #### (3) Report upon determination of harm to environment or health
 
@@ -124,9 +124,13 @@ For purposes of this part and other provisions of this chapter relating specific
 
 &emsp;(7) the term "major money laundering country" means a country whose financial institutions engage in currency transactions involving significant amounts of proceeds from international narcotics trafficking; and
 
-&emsp;(8) the term "appropriate congressional committees" means the Committee on Foreign Affairs and the Committee on Appropriations ofthe House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+&emsp;(8) the term "appropriate congressional committees" means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-(Pub. L. 87–195, pt. I, §481, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 496; amended Pub. L. 93–189, §11(a), Dec. 17, 1973, 87 Stat. 719; Pub. L. 94–329, title V, §504(b), June 30, 1976, 90 Stat. 764; Pub. L. 95–384, §§3, 4, Sept. 26, 1978, 92 Stat. 730; Pub. L. 96–92, §3(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 97–113, title V, §502(a)(1), (b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1538, 1539, 1560; Pub. L. 98–164, title X, §1003, Nov. 22, 1983, 97 Stat. 1053; Pub. L. 99–83, title VI, §§604–606, 618, Aug. 8, 1985, 99 Stat. 228, 229, 233; Pub. L. 99–570, title II, §§2005, 2008, 2009, 2017, Oct. 27, 1986, 100 Stat. 3207–61, 3207–64, 3207–68; Pub. L. 100–202, §101(e) \[title V, §585(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–184; Pub. L. 100–204, title VIII, §805, Dec. 22, 1987, 101 Stat. 1397; Pub. L. 100–461, title V, §578(e)(2), (g)(1), (3), (h), (i), Oct. 1, 1988, 102 Stat. 2268–47, 2268–48; Pub. L. 100–690, title IV, §4202(b), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, 102 Stat. 4267, 4275–4277, 4281, 4285, 4294; Pub. L. 101–231, §§15, 17(a)–(f), Dec. 13, 1989, 103 Stat. 1963–1965; Pub. L. 102–550, title XV, §1519, Oct. 28, 1992, 106 Stat. 4060; Pub. L. 102–583, §§4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, 106 Stat. 4914, 4915, 4931, 4932, 4934; Pub. L. 103–447, title I, §101(a), (b), Nov. 2, 1994, 108 Stat. 4691; Pub. L. 104–164, title I, §131(a), July 21, 1996, 110 Stat. 1429; Pub. L. 105–20, §2(b), June 27, 1997, 111 Stat. 234; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 87–195, pt. I, §481, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 496; amended Pub. L. 93–189, §11(a), Dec. 17, 1973, 87 Stat. 719; Pub. L. 94–329, title V, §504(b), June 30, 1976, 90 Stat. 764; Pub. L. 95–384, §§3, 4, Sept. 26, 1978, 92 Stat. 730; Pub. L. 96–92, §3(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 97–113, title V, §502(a)(1), (b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1538, 1539, 1560; Pub. L. 98–164, title X, §1003, Nov. 22, 1983, 97 Stat. 1053; Pub. L. 99–83, title VI, §§604–606, 618, Aug. 8, 1985, 99 Stat. 228, 229, 233; Pub. L. 99–570, title II, §§2005, 2008, 2009, 2017, Oct. 27, 1986, 100 Stat. 3207–61, 3207–64, 3207–68; Pub. L. 100–202, §101(e) \[title V, §585(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–184; Pub. L. 100–204, title VIII, §805, Dec. 22, 1987, 101 Stat. 1397; Pub. L. 100–461, title V, §578(e)(2), (g)(1), (3), (h), (i), Oct. 1, 1988, 102 Stat. 2268–47, 2268–48; Pub. L. 100–690, title IV, §4202(b), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, 102 Stat. 4267, 4275–4277, 4281, 4285, 4294; Pub. L. 101–231, §§15, 17(a)–(f), Dec. 13, 1989, 103 Stat. 1963–1965; Pub. L. 102–550, title XV, §1519, Oct. 28, 1992, 106 Stat. 4060; Pub. L. 102–583, §§4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, 106 Stat. 4914, 4915, 4931, 4932, 4934; Pub. L. 103–447, title I, §101(a), (b), Nov. 2, 1994, 108 Stat. 4691; Pub. L. 104–164, title I, §131(a), July 21, 1996, 110 Stat. 1429; Pub. L. 105–20, §2(b), June 27, 1997, 111 Stat. 234; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820; Pub. L. 115–254, div. F, title VI, §1470(j)(3), Oct. 5, 2018, 132 Stat. 3517.)
+
+#### Amendment of Subsection (e)(4)(A)
+
+<i>Pub. L. 115–254, div. F, title VI, §1470(j)(3), (w), Oct. 5, 2018, 132 Stat. 3517, 3519, provided</i><i>that, effective at the end of the transition period, as defined in section 9681 of this title, subsection (e)(4)(A) of this section is amended by striking "(including programs under subpart IV of part II of this subchapter, relating to the Overseas Private Investment Corporation)" and inserting "(and any support under subchapter II of chapter 103 of this title, relating to the United States International Development Finance Corporation)". See 2018 Amendment note below.</i>
 
 #### References in Text
 
@@ -147,6 +151,8 @@ The Export-Import Bank Act of 1945, referred to in subsec. (e)(4)(D), is act Jul
 A prior section 481 of Pub. L. 87–195, pt. I, as added Pub. L. 92–226, pt. I, §109, Feb. 7, 1972, 86 Stat. 24, contained similar subject matter, prior to repeal by section 503 of Pub. L. 92–352.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(4)(A). Pub. L. 115–254 substituted "(and any support under subchapter II of chapter 103 of this title, relating to the United States International Development Finance Corporation)" for "(including programs under subpart IV of part II of this subchapter, relating to the Overseas Private Investment Corporation)" in introductory provisions.
 
 <b>2008</b>—Subsec. (e)(4)(C). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
 
@@ -254,7 +260,7 @@ Subsecs. (j), (k). Pub. L. 102–583, §6(b)(2), struck out subsec. (j) relating
 
 Subsec. (b). Pub. L. 101–231, §17(b), inserted "Mid-year report" as heading, struck out par. (1) which required quarterly reports on the programming and obligation of funds under this part, redesignated former par. (2) as subsec. (b), and substituted "Not later than September" for "Not later than August".
 
-Subsec. (c). Pub. L. 101–231, §15, inserted "Participation in foreign police actions" as heading and amended text generally, inserting par. headings, redesignating provisions comprising former par. (1) as pars. (1) and (2) and, in par. (2), inserting provision not prohibiting presence of officers and employees when foreign officers are effecting an arrest, and striking out former par. (2) which prohibited officers or employees from engaging or participating in direct police action in a foreign country with respect to narcotics control efforts.
+Subsec. (c). Pub. L. 101–231, §15, inserted "Participation in foreign police actions" as heading and amended text generally, inserting par. headings, redesignating provisions comprising former par. (1) as pars. (1) and (2) and, in par. (2), inserting provision not prohibitingpresence of officers and employees when foreign officers are effecting an arrest, and striking out former par. (2) which prohibited officers or employees from engaging or participating in direct police action in a foreign country with respect to narcotics control efforts.
 
 Subsec. (d). Pub. L. 101–231, §17(c), inserted "Use of herbicides for aerial eradication" as heading and amended text generally, substituting pars. (1) to (4) for former pars. (1) to (5).
 
@@ -314,7 +320,7 @@ Subsec. (k). Pub. L. 100–690, §4405(a), added subsec. (k).
 
 <b>1987</b>—Subsec. (e)(7). Pub. L. 100–204, §805(a), added par. (7).
 
-Subsec. (h)(2)(A). Pub. L. 100–202 designated existing provisions of subpar. (A) as cl. (i), redesignated formercls. (i) and (ii) as subcls. (I) and (II), respectively, and in subcl. (I) inserted "in satisfying the goals agreed to in an applicable bilateral narcotics agreement with the United States, (as described in (ii)) and," after "on its own,", and added cl. (ii).
+Subsec. (h)(2)(A). Pub. L. 100–202 designated existing provisions of subpar. (A) as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and in subcl. (I) inserted "in satisfying the goals agreed to in an applicable bilateral narcotics agreement with the United States, (as described in (ii)) and," after "on its own,", and added cl. (ii).
 
 Subsec. (h)(4)(A). Pub. L. 100–204, §805(b), which directed that subpar. (A) of subsec. (h) of this section be amended by substituting "45" for "30", was executed by making the substitution in subpar. (A) of subsec. (h)(4) of this section to reflect the probable intent of Congress.
 
@@ -322,7 +328,7 @@ Subsec. (h)(4)(A). Pub. L. 100–204, §805(b), which directed that subpar. (A) 
 
 Subsec. (c). Pub. L. 99–570, §2009, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
-"(1) Notwithstanding any other provision of law, no officer or employee of the United States may engage or participate in any direct police arrest action in any foreign country with respect to narcotics control efforts. No such officer or employee may interrogate or be present during the interrogation of any United States person arrested in any foreign country with respect to narcotics control efforts without the written consent of such person. The provisions of this paragraph shall not apply to the activities of the United States Armed Forces in carrying out their responsibilities under applicable Status of Forces arrangements.
+"(1) Notwithstanding any other provision of law, no officer or employee of the United States may engage or participate in any direct police arrest action in anyforeign country with respect to narcotics control efforts. No such officer or employee may interrogate or be present during the interrogation of any United States person arrested in any foreign country with respect to narcotics control efforts without the written consent of such person. The provisions of this paragraph shall not apply to the activities of the United States Armed Forces in carrying out their responsibilities under applicable Status of Forces arrangements.
 
 "(2) Paragraph (1) of this subsection shall not prohibit officers and employees of the United States from being present during direct police arrest actions with respect to narcotic control efforts in a foreign country to the extent that the Secretary of State and the government of that country agree to such an exemption. The Secretary of State shall report any such agreement to the Congress before the agreement takes effect."
 
@@ -379,6 +385,10 @@ Subsec. (d). Pub. L. 95–384, §4, added subsec. (d).
 <b>1976</b>—Subsec. (c). Pub. L. 94–329 added subsec. (c).
 
 <b>1973</b>—Pub. L. 93–189 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of this title, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
 #### Effective Date of 2008 Amendment
 
@@ -460,11 +470,11 @@ Negotiations.—(1) The Attorney General shall enter into negotiations with the 
 
 "(b)
 
-Reports.—Not later than one year after the date of enactment of this Act \[Nov. 5, 1990\], the Attorney General shall submit an interim report to the Judiciary Committee and the Foreign Relations Committee ofthe Senate on progress in the negotiations. Not later than eighteen months from the date of enactment, the Attorney General shall submit a final report to the aforementioned Senate Committees on the result of negotiations identifying countries with which agreements have not been reached and which have jurisdiction over companies believed to be engaged in the manufacture, marketing, sale or purchase of precursor and/or essential chemicals used in illicit manufacture of controlled substances.
+Reports.—Not later than one year after the date of enactment of this Act \[Nov. 5, 1990\], the Attorney General shall submit an interim report to the Judiciary Committee and the Foreign Relations Committee of the Senate on progress in the negotiations. Not later than eighteen months from the date of enactment, the Attorney General shall submit a final report to the aforementioned Senate Committees on the result of negotiations identifying countries with which agreements have not been reached and which have jurisdiction over companies believed to be engaged in the manufacture, marketing, sale or purchase of precursor and/or essential chemicals used in illicit manufacture of controlled substances.
 
 "(c)
 
-Penalties.—After consulting with the Attorney General and the Director of the Office of National Drug Control Policy, the President shall impose penalties or sanctions including temporarily or permanently prohibiting any corporation, partnership, individual or business association (i) refusing to maintain records for the purpose of monitoring and regulating transactions of listed precursor chemicals, or (ii) refusing to make such records available to United States law enforcement authorities for investigative purposes (in coordination with the local law enforcement agency in which such corporation, partnership, individual, or business association resides, is created or has its principal place of business) from engaging in any or all transactions, in goods or services, within the commerce of the United States.
+Penalties.—After consulting with the Attorney General and the Director of the Office of National Drug Control Policy, the President shall impose penalties orsanctions including temporarily or permanently prohibiting any corporation, partnership, individual or business association (i) refusing to maintain records for the purpose of monitoring and regulating transactions of listed precursor chemicals, or (ii) refusing to make such records available to United States law enforcement authorities for investigative purposes (in coordination with the local law enforcement agency in which such corporation, partnership, individual, or business association resides, is created or has its principal place of business) from engaging in any or all transactions, in goods or services, within the commerce of the United States.
 
 "(d)
 
@@ -536,7 +546,7 @@ Pub. L. 101–167, title V, §569(d), Nov. 21, 1989, 103 Stat. 1244, provided th
 
 #### Definition of Terms Used in International Narcotics Control Act of 1988
 
-Pub. L. 100–690, title IV, §4003, Nov. 18, 1988, 102 Stat. 4263, defined terms "drug" and "narcotic" to mean narcotic and psychotropic drugs and other controlled substances as defined in subsec. (i)(3) of this section for purposes of title IV of Pub. L. 100–690, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Pub. L. 100–690, title IV, §4003, Nov. 18, 1988, 102 Stat. 4263, defined terms "drug" and "narcotic" to mean narcotic and psychotropic drugs and other controlled substances as defined in subsec. (i)(3) of this section forpurposes of title IV of Pub. L. 100–690, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 
 #### Regional Anti-Narcotics Forces
 
@@ -624,7 +634,7 @@ Membership.—(1) The Caucus shall be composed of 12 members as follows:
 
 "(d)
 
-Powers.—In carrying out this section, the Caucus may require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memorandums, papers, and documents as it deems necessary. Subpoenas may be issued over the signature of the Chairman of the Caucus or any member designated by him, and may be served by any person designated by the Chairman or such member. The Chairman of the Caucus, or any member designated by him, may administer oaths to any witness.
+Powers.—In carrying out this section, the Caucus may require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memorandums, papers, and documents as it deems necessary.Subpoenas may be issued over the signature of the Chairman of the Caucus or any member designated by him, and may be served by any person designated by the Chairman or such member. The Chairman of the Caucus, or any member designated by him, may administer oaths to any witness.
 
 "(e)
 

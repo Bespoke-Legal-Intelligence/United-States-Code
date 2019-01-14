@@ -12,7 +12,7 @@
 
 (2) Except as provided in paragraphs (3) and (4) of this subsection, the following fish tender vessels are exempt from section 3301(1), (6), (7), (11), and (12) of this title:
 
-&emsp;(A) A vessel of not more than 500 gross tons as measured under section 14502 of this title oran alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
+&emsp;(A) A vessel of not more than 500 gross tons as measured under section 14502 of this title or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
 
 &emsp;(B) A vessel engaged in the Aleutian trade that is not more than 2,500 gross tons as measured under section 14302 of this title.
 
@@ -72,7 +72,7 @@
 
 &emsp;(B) was contracted for before January 2, 1979, and entered into service as an offshore supply vessel before October 6, 1980.
 
-(2) After December 31, 1988, this subsection does not apply to an offshore supply vessel that is at least 20 years of age.
+(2) This subsection does not apply to an offshore supply vessel that is at least 20 years of age.
 
 (h) An offshore supply vessel operating on January 1, 1979, under a certificate of inspection issued by the Secretary, is subject to an inspection standard or requirement only if the standard or requirement could have been prescribed for the vessel under authority existing under law on October 5, 1980.
 
@@ -128,7 +128,17 @@
 
 &emsp;(2) a flammable or combustible liquid, including oil, in bulk.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711, title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969; Pub. L. 106–65, div. C, title XXXVI, §3604, Oct. 5, 1999, 113 Stat. 976; Pub. L. 107–295, title II, §208, Nov. 25, 2002, 116 Stat. 2098; Pub. L. 109–241, title III, §311, July 11, 2006, 120 Stat. 530; Pub. L. 109–304, §15(11), Oct. 6, 2006, 120 Stat. 1703.)
+(n)(1) A seagoing motor vessel is not subject to inspection under section 3301(7) of this title if the vessel—
+
+&emsp;(A) is a recreational vessel (as defined in section 2101 of this title) over 300 gross tons as measured under section 14502, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title;
+
+&emsp;(B) does not carry any cargo or passengers for hire; and
+
+&emsp;(C) is found by the Secretary to comply with large recreational vessel regulations issued by the Secretary.
+
+(2) This subsection shall apply only on and after the effective date of regulations referred to in paragraph (1)(C).
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711, title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969; Pub. L. 106–65, div. C, title XXXVI, §3604, Oct. 5, 1999, 113 Stat. 976; Pub. L. 107–295, title II, §208, Nov. 25, 2002, 116 Stat. 2098; Pub. L. 109–241, title III, §311, July 11, 2006, 120 Stat. 530; Pub. L. 109–304, §15(11), Oct. 6, 2006, 120 Stat. 1703; Pub. L. 115–232, div. C, title XXXV, §§3529(b), 3546(c), Aug. 13, 2018, 132 Stat. 2319, 2326.)
 
 Historical and Revision Notes
 
@@ -150,9 +160,13 @@ Historical and Revision Notes
 
 46:442
 
-Section 3302 does three things. It makes clear that a vessel included in one of the ten categories of vesselssubject to inspection is not necessarily excluded from another category of vessel that is subject to inspection. For example, a vessel inspected and certified as a small passenger vessel would, when carrying oil or hazardous materials in bulk as cargo or cargo residue, also have to be inspected as a tank vessel. It makes it clear that a vessel excluded by section 3302 from the requirements of inspection in any one of the ten categories is not necessarily excluded from inspection as a vessel in another category. This section also contains a number of exemptions for certain classes of vessels and for those vessels engaged in a specific trade that have been considered to be of a special circumstance.
+Section 3302 does three things. It makes clear that a vessel included in one of the ten categories of vessels subject to inspection is not necessarily excluded from another category of vessel that is subject to inspection. For example, a vessel inspected and certified as a small passenger vessel would, when carrying oil or hazardous materials in bulk as cargo or cargo residue, also have to be inspected as a tank vessel. It makes it clear that a vessel excluded by section 3302 from the requirements of inspection in any one of the ten categories is not necessarily excluded from inspection as a vessel in another category. This section also contains a number of exemptions for certain classes of vessels and for those vessels engaged in a specific trade that have been considered to be of a special circumstance.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (g)(2). Pub. L. 115–232, §3546(c), substituted "This" for "After December 31, 1988, this".
+
+Subsec. (n). Pub. L. 115–232, §3529(b), added subsec. (n).
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–304, §15(11)(A), inserted comma after "fishing vessel".
 
@@ -226,7 +240,7 @@ Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Vessels Repaired or Retrofitted for Mobile Trade Fair Purposes Deemed Out of Commission
 

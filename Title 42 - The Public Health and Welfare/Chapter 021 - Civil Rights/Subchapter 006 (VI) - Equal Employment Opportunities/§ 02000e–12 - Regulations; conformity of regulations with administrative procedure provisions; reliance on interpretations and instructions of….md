@@ -50,7 +50,7 @@ Findings.—The Congress finds that—
 
 "(b)
 
-Category of Religious Harassment in Proposed Guidelines.—For purposes of issuing final regulations under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\] in connection with the proposed guidelines published by the Equal Employment Opportunity Commission on October 1, 1993 (58 Fed. Reg. 51266), the Chairperson of the Equal Employment Opportunity Commission shall ensure that—
+Category of Religious Harassment in Proposed Guidelines.—For purposes of issuing final regulations under title VII of the Civil Rights Act of 1964 \[42U.S.C. 2000e et seq.\] in connection with the proposed guidelines published by the Equal Employment Opportunity Commission on October 1, 1993 (58 Fed. Reg. 51266), the Chairperson of the Equal Employment Opportunity Commission shall ensure that—
 
 &emsp;"(1) the category of religion shall be withdrawn from the proposed guidelines at this time;
 

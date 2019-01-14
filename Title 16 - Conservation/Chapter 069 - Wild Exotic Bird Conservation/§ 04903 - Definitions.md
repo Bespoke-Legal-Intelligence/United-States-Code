@@ -16,7 +16,7 @@ In this chapter—
 
 &emsp;(3) Each of the terms "import" and "importation" means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States.
 
-&emsp;(4) The term "person" means an individual, corporation, partnership, trust, association, or any other private entity; or any officer, employee, agent, department, or instrumentality of the Federal Government, of any State, municipality, or political subdivision of a State, or of any foreign government; any State, municipality, or political subdivision of a State; or any other entity subject to the jurisdiction of the United States.
+&emsp;(4) The term "person" means an individual, corporation, partnership, trust, association, orany other private entity; or any officer, employee, agent, department, or instrumentality of the Federal Government, of any State, municipality, or political subdivision of a State, or of any foreign government; any State, municipality, or political subdivision of a State; or any other entity subject to the jurisdiction of the United States.
 
 &emsp;(5) The term "qualifying facility" means an exotic bird breeding facility that is included in a list published by the Secretary under section 4906 of this title.
 

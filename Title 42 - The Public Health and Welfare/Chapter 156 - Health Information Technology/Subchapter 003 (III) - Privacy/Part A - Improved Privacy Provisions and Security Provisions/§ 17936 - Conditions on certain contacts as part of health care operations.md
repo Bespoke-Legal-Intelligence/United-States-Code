@@ -28,7 +28,7 @@
 
 #### (3) Reasonable in amount defined
 
-&emsp;For purposes of paragraph (2), the term "reasonable in amount" shall have the meaning given such term by the Secretary by regulation.
+&emsp;For purposes of paragraph (2), the term "reasonable in amount" shall have the meaninggiven such term by the Secretary by regulation.
 
 #### (4) Direct or indirect payment
 

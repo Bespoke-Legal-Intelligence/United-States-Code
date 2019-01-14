@@ -40,7 +40,7 @@ The Secretary shall furnish to each individual for whom payment has been made un
 
 #### (4) Findings of Secretary
 
-&emsp;The Secretary shall, with respect to each written request submitted under paragraph (3),determine whether the itemized statement identifies specific items or services that were not provided as claimed or any other billing irregularity (including duplicate billing) that has resulted in unnecessary payments under this subchapter.
+&emsp;The Secretary shall, with respect to each written request submitted under paragraph (3), determine whether the itemized statement identifies specific items or services that were not provided as claimed or any other billing irregularity (including duplicate billing) that has resulted in unnecessary payments under this subchapter.
 
 #### (5) Recovery of amounts
 
@@ -50,7 +50,7 @@ The Secretary shall furnish to each individual for whom payment has been made un
 
 #### (1) Electronic option beginning in 2016
 
-&emsp;Subject to paragraph (2), for statements described in subsection (a) that are furnished for a period in 2016 or a subsequent year, in the case that an individual described in subsection (a) elects, in accordance with such form, manner, and time specified by the Secretary, to receive such statement in an electronic format, such statement shall be furnished to such individual for each period subsequent to such election in such a format and shall not be mailed to the individual.
+&emsp;Subject to paragraph (2), for statements described in subsection (a) that are furnished fora period in 2016 or a subsequent year, in the case that an individual described in subsection (a) elects, in accordance with such form, manner, and time specified by the Secretary, to receive such statement in an electronic format, such statement shall be furnished to such individual for each period subsequent to such election in such a format and shall not be mailed to the individual.
 
 #### (2) Limitation on revocation option
 

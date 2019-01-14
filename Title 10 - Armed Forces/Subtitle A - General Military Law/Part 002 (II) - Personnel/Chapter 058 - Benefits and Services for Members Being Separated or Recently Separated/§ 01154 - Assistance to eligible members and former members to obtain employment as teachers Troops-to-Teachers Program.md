@@ -100,7 +100,7 @@ Eligible members.—The following members of the armed forces are eligible for s
 
 Submission of applications.—(A) Selection of eligible members of the armed forces to participate in the Program shall be made on the basis of applications submitted to the Secretary within the time periods specified in subparagraph (B). An application shall be in such form and contain such information as the Secretary may require.
 
-&emsp;(B) In the case of an eligible member of the armed forces described in subparagraph (A)(i), (B), or (C) of paragraph (1), an application shall be considered to be submitted on a timely basis if the application is submitted not later than three years after the date on which the member is retired, separated, or released from active duty, whichever applies to the member.
+&emsp;(B) In the case of an eligible member of the armed forces described in subparagraph (A)(i), (A)(iii), (B), or (C) of paragraph (1), an application shall be considered to be submitted on a timely basis if the application is submitted not later than three years after the date on which the member is retired, transferred to the Retired Reserve, or separated or released from active duty, whichever applies to the member.
 
 &emsp;(3)
 
@@ -108,13 +108,13 @@ Selection criteria; educational background requirements; honorable service requi
 
 &emsp;(B) If a member of the armed forces is applying for the Program to receive assistance for placement as an elementary school or secondary school teacher, the Secretary shall require the member to have received a baccalaureate or advanced degree from an accredited institution of higher education.
 
-&emsp;(C) If a member of the armed forces is applying for the Program to receive assistance forplacement as a career or technical teacher, the Secretary shall require the member—
+&emsp;(C) If a member of the armed forces is applying for the Program to receive assistance for placement as a career or technical teacher, the Secretary shall require the member—
 
 &emsp;&emsp;(i) to have received the equivalent of one year of college from an accredited institution of higher education or the equivalent in military education and training as certified by the Department of Defense; or
 
 &emsp;&emsp;(ii) to otherwise meet the certification or licensing requirements for a career or technical teacher in the State in which the member seeks assistance for placement under the Program.
 
-&emsp;(D) A member of the armed forces is eligible to participate in the Program only if the member's last period of service in the armed forces was honorable, as characterized by the Secretary concerned. A member selected to participate in the Program before the retirement of the member or the separation or release of the member from active duty may continue to participate in the Program after the retirement, separation, or release only if the member's last period of service is characterized as honorable by the Secretary concerned.
+&emsp;(D) A member of the armed forces is eligible to participate in the Program only if the member's last period of service in the armed forces was honorable, as characterized by the Secretary concerned. A member selected to participate in the Program before the retirement of the member, the transfer of the member to the Retired Reserve, or the separation or release of the member from active duty may continue to participate in the Program after the retirement, transfer, separation, or release only if the member's last period of service is characterized as honorable by the Secretary concerned.
 
 &emsp;(4)
 
@@ -230,7 +230,7 @@ Assistance to states.—(A) Subject to subparagraph (B), the Secretary may make 
 
 Limitation on Total Fiscal-year Obligations.—The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
 
-(Added Pub. L. 112–239, div. A, title V, §541(b)(1), Jan. 2, 2013, 126 Stat. 1729; amended Pub. L. 113–291, div. A, title X, §1071(f)(14), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–95, title IX, §9215(uuu)(2), Dec. 10, 2015, 129 Stat. 2190.)
+(Added Pub. L. 112–239, div. A, title V, §541(b)(1), Jan. 2, 2013, 126 Stat. 1729; amended Pub. L. 113–291, div. A, title X, §1071(f)(14), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–95, title IX, §9215(uuu)(2), Dec. 10, 2015, 129 Stat. 2190; Pub. L. 115–232, div. A, title V, §554, Aug. 13, 2018, 132 Stat. 1773.)
 
 #### References in Text
 
@@ -242,9 +242,13 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (a)(3)(
 
 The Social Security Act, referred to in subsec. (a)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, seeShort Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(2)(B). Pub. L. 115–232, §554(a), inserted "(A)(iii)," after "(A)(i)," and "transferred to the Retired Reserve, or" after "member is retired," and substituted "separated or released" for "separated, or released".
+
+Subsec. (d)(3)(D). Pub. L. 115–232, §554(b), inserted ", the transfer of the member to the Retired Reserve," after "retirement of the member" and "transfer," after "after the retirement,".
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–95, §9215(uuu)(2)(A), substituted "section 4310 of the Elementary and Secondary Education Act of 1965" for "section 5210(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7221i(1))".
 
@@ -270,7 +274,7 @@ Transfer.—The responsibility and authority for operation and administration of
 
 Memorandum of agreement.—In connection with the transfer of responsibility and authority for operation and administration of the Troops-to-Teachers Program from the Secretary of Education to the Secretary of Defense under paragraph (1), the Secretaries shall enter into a memorandum of agreement pursuant to which the Secretary of Education will undertake the following:
 
-&emsp;"(A) Disseminate information about the Troops-to-Teachers Program to eligible schools (as defined in subsection (a) of section 1154 of title 10, United States Code, as added by subsection (b)).
+&emsp;"(A) Disseminate information about the Troops-to-Teachers Program to eligible schools (as defined insubsection (a) of section 1154 of title 10, United States Code, as added by subsection (b)).
 
 &emsp;"(B) Advise the Department of Defense on how to prepare eligible members of the Armed Forces described in subsection (d) of such section 1154 to become participants in the Program, to meet the requirements necessary to become a teacher in a school described in subsection (b)(2) of such section 1154, and to find post-service employment in an eligible school.
 

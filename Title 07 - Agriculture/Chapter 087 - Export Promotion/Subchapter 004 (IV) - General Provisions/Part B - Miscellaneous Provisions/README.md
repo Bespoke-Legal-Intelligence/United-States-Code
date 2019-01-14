@@ -14,4 +14,4 @@ Part B—Miscellaneous Provisions
 - [&sect; 05677 - Trade compensation and assistance programs](%C2%A7%2005677%20-%20Trade%20compensation%20and%20assistance%20programs.md)
 - [&sect; 05678 - Edward R. Madigan United States Agricultural Export Excellence Award](%C2%A7%2005678%20-%20Edward%20R.%20Madigan%20United%20States%20Agricultural%20Export%20Excellence%20Award.md)
 - [&sect; 05679 - Biotechnology and agricultural trade program](%C2%A7%2005679%20-%20Biotechnology%20and%20agricultural%20trade%20program.md)
-- [&sect; 05680 - Technical assistance for specialty crops](%C2%A7%2005680%20-%20Technical%20assistance%20for%20specialty%20crops.md)
+- [&sect; 05680 - Repealed. Pub. L. 115&#8211;334, title III, &sect;3201(b)(4), Dec. 20, 2018, 132 Stat. 4617](%C2%A7%2005680%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20III%2C%20%C2%A73201%28b%29%284%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204617.md)

@@ -34,7 +34,7 @@ The Secretary shall prescribe regulations necessary for the administration of th
 
 #### (g) Previous applications
 
-Upon the commencement of the administration of this part, any application previously filed with the Secretary of Energy pursuant to part D shall be considered to have been filed with the Secretary as a claim for benefits pursuant to this part.
+Upon the commencement of the administration of this part, any application previouslyfiled with the Secretary of Energy pursuant to part D shall be considered to have been filed with the Secretary as a claim for benefits pursuant to this part.
 
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3681\], as added Pub. L. 108–375, div. C, title XXXI, §3161, Oct. 28, 2004, 118 Stat. 2183.)
 

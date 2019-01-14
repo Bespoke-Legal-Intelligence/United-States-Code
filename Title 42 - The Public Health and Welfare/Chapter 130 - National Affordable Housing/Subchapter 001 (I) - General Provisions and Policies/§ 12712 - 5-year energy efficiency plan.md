@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development shall establish a plan for activi
 
 #### (b) Initial plan
 
-The Secretary of Housing and Urban Development shall establish the first plan under this section not later than the expiration of the 1-year period beginning on November 28, 1990.
+The Secretary of Housing and Urban Development shall establish the first plan under thissection not later than the expiration of the 1-year period beginning on November 28, 1990.
 
 #### (c) Updates
 
@@ -128,7 +128,7 @@ Plan and Reports.—
 
 &emsp;"(1)
 
-Plan.—Not later than 90 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall submit to the Committees on Appropriations and Financial Services of the House of Representatives and the Committees on Appropriations and Banking, Housing, and Urban Affairs of the Senate a detailed plan for the implementation of this section.
+Plan.—Not later than 90 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretaryshall submit to the Committees on Appropriations and Financial Services of the House of Representatives and the Committees on Appropriations and Banking, Housing, and Urban Affairs of the Senate a detailed plan for the implementation of this section.
 
 &emsp;"(2)
 

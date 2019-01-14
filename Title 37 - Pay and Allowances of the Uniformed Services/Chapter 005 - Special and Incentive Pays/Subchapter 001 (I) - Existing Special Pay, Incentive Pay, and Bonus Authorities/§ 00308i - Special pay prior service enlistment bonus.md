@@ -28,7 +28,7 @@ Bonus Amounts; Payment.—(1) The amount of a bonus under this section may not e
 
 (2) Any bonus payable under this section shall be disbursed in one initial payment of an amount not to exceed one-half of the total amount of the bonus and subsequent periodic partial payments of the balance of the bonus. The Secretary concerned shall prescribe the amount of each partial payment and the schedule for making the partial payments.
 
-(3) A person entitled to a bonus under this section who is called or ordered to active duty shallbe paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
+(3) A person entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
 
 (c)
 
@@ -80,7 +80,7 @@ Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
 
 <b>2006</b>—Subsec. (a)(2)(A). Pub. L. 109–163, §633(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "The person has completed a military service obligation, but has not more than 16 years of total military service, and received an honorable discharge at the conclusion of that military service obligation."
 
-Subsec. (a)(2)(D). Pub. L. 109–163, §633(2), struck out subpar. (D) which read as follows: "The person has not previously been paid a bonus (except under this section) for enlistment, reenlistment, or extension of enlistment in a reserve component."
+Subsec. (a)(2)(D). Pub. L. 109–163, §633(2), struck out subpar. (D) which read as follows: "The person has notpreviously been paid a bonus (except under this section) for enlistment, reenlistment, or extension of enlistment in a reserve component."
 
 Subsec. (d). Pub. L. 109–163, §687(b)(19), amended heading and text of subsec. (d) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when person fails to serve satisfactorily in element of Selected Reserve of Ready Reserve for which bonus was paid.
 

@@ -106,6 +106,22 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 115–435, §1(a), Jan. 14, 2019, 132 Stat. 5529, provided that: "This Act \[enacting subchapter II of chapter 3 of this title, subchapter III of chapter 35 of Title 44, Public Printing and Documents, and section 3520A of Title 44, amending section 306 of this title, section 402 of Title 13, Census, section 176a of Title 15, Commerce and Trade, sections 3502, 3504, 3506, 3511, and 3520 of Title 44, and sections 6302 and 6314 of Title 49, Transportation, enacting provisions set out as notes under sections 306 and 311 of this title and sections 101, 3506, and 3561 of Title 44, amending provisions set out as a note under section 20155 of Title 49, and repealing provisions set out as a note under section 3501 of Title 44\] may be cited as the 'Foundations for Evidence-Based Policymaking Act of 2018'."
+
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–383, §1, Dec. 21, 2018, 132 Stat. 5121, provided that: "This Act \[amending provisions set out as a note under section 5547 of this title\] may be cited as the 'Secret Service Overtime Pay Extension Act'."
+
+Pub. L. 115–352, §1, Dec. 21, 2018, 132 Stat. 5067, provided that: "This Act \[amending sections 8334 and 8422 of this title and enacting provisions set out as a note under section 8334 of this title\], may be cited as the 'Correcting Miscalculations in Veterans' Pensions Act'."
+
+Pub. L. 115–238, §1, Sept. 7, 2018, 132 Stat. 2450, provided that: "This Act \[amending section 6329 of this title and enacting provisions set out as a note under section 6329 of this title\] may be cited as the 'Veterans Providing Healthcare Transition Improvement Act'."
+
+Pub. L. 115–195, §1, July 7, 2018, 132 Stat. 1510, provided that: "This Act \[amending section 7703 of this title and enacting provisions set out as a note under section 7703 of this title\] may be cited as the 'All Circuit Review Act'."
+
+Pub. L. 115–160, §1, Apr. 3, 2018, 132 Stat. 1246, provided that: "This Act \[enacting and amending provisions set out as notes under section 5547 of this title\] may be cited as the 'Secret Service Recruitment and Retention Act of 2018'."
+
 #### Short Title of 2017 Amendment
 
 Pub. L. 115–84, §1, Nov. 17, 2017, 131 Stat. 1272, provided that: "This Act \[amending sections 8432b and 8433 of this title and enacting provisions set out as notes under sections 8432b and 8433 of this title\] may be cited as the 'TSP Modernization Act of 2017'."
@@ -184,7 +200,7 @@ Pub. L. 110–175, §1, Dec. 31, 2007, 121 Stat. 2524, provided that: "This Act 
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–435, title VIII, §801, Dec. 20, 2006, 120 Stat. 3249, provided that: "This title \[enacting section 8909aof this title, amending sections 8334, 8348, and 8906 of this title, enacting provisions set out as notes under sections 8334, 8348, and 8909a of this title, and repealing provisions set out as a note preceding section 2001 of Title 39, Postal Service\] may be cited as the 'Postal Civil Service Retirement and Health Benefits Funding Amendments of 2006'."
+Pub. L. 109–435, title VIII, §801, Dec. 20, 2006, 120 Stat. 3249, provided that: "This title \[enacting section 8909a of this title, amending sections 8334, 8348, and 8906 of this title, enacting provisions set out as notes under sections 8334, 8348, and 8909a of this title, and repealing provisions set out as a note preceding section 2001 of Title 39, Postal Service\] may be cited as the 'Postal Civil Service Retirement and Health Benefits Funding Amendments of 2006'."
 
 Pub. L. 109–356, §1(a), Oct. 16, 2006, 120 Stat. 2019, provided that: "This Act \[amending sections 5102, 8951, 8981, and 9001 of this title, sections 202, 214, 215b, 216, 216a, 221, 321, and 1813 of Title 12, Banks and Banking, and section 57a of Title 15, Commerce and Trade\] may be cited as the '2005 District of Columbia Omnibus Authorization Act'."
 

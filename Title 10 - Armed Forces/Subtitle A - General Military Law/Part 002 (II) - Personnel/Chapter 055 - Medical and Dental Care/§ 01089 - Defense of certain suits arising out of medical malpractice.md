@@ -36,7 +36,7 @@
 
 <b>2002</b>—Subsec. (g)(2). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–85, §736(b)(1), inserted at end "This subsection shall also apply if the physician, dentist, nurse, pharmacist, or paramedical or other supporting personnel (or the estate of such person) involved is serving under a personal services contract entered into under section 1091 of this title."
+<b>1997</b>—Subsec. (a). Pub. L. 105–85, §736(b)(1), inserted at end "This subsection shall also apply if the physician, dentist, nurse, pharmacist, or paramedical or othersupporting personnel (or the estate of such person) involved is serving under a personal services contract entered into under section 1091 of this title."
 
 Subsec. (f). Pub. L. 105–85, §736(b)(2), designated existing provisions as par. (1) and added par. (2).
 

@@ -40,19 +40,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER III—RENT, INSTALLMENT CONTRACTS, MORTGAGES, LIENS, ASSIGNMENT, LEASES
+#### SUBCHAPTER III—RENT, INSTALLMENT CONTRACTS, MORTGAGES, LIENS, ASSIGNMENT, LEASES, COMMUNICATIONS SERVICE CONTRACTS
 
 |  |  |
 | :--- | ---: |
-| [3951\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Telephone%20Service%20Contracts/%C2%A7%2003951%20-%20Evictions%20and%20distress.md) | Evictions and distress. |
-| [3952\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Telephone%20Service%20Contracts/%C2%A7%2003952%20-%20Protection%20under%20installment%20contracts%20for%20purchase%20or%20lease.md) | Protection under installment contracts for purchase or lease. |
-| [3953\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Telephone%20Service%20Contracts/%C2%A7%2003953%20-%20Mortgages%20and%20trust%20deeds.md) | Mortgages and trust deeds. |
-| [3954\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Telephone%20Service%20Contracts/%C2%A7%2003954%20-%20Settlement%20of%20stayed%20cases%20relating%20to%20personal%20property.md) | Settlement of stayed cases relating to personal property. |
-| [3955\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Telephone%20Service%20Contracts/%C2%A7%2003955%20-%20Termination%20of%20residential%20or%20motor%20vehicle%20leases.md) | Termination of residential or motor vehicle leases. |
-| [3956\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Telephone%20Service%20Contracts/%C2%A7%2003956%20-%20Termination%20of%20telephone%20service%20contracts.md) | Termination of telephone service contracts. |
-| [3957\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Telephone%20Service%20Contracts/%C2%A7%2003957%20-%20Protection%20of%20life%20insurance%20policy.md) | Protection of life insurance policy. |
-| [3958\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Telephone%20Service%20Contracts/%C2%A7%2003958%20-%20Enforcement%20of%20storage%20liens.md) | Enforcement of storage liens. |
-| [3959\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Telephone%20Service%20Contracts/%C2%A7%2003959%20-%20Extension%20of%20protections%20to%20dependents.md) | Extension of protections to dependents. |
+| [3951\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Communications%20Service%20Contracts/%C2%A7%2003951%20-%20Evictions%20and%20distress.md) | Evictions and distress. |
+| [3952\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Communications%20Service%20Contracts/%C2%A7%2003952%20-%20Protection%20under%20installment%20contracts%20for%20purchase%20or%20lease.md) | Protection under installment contracts for purchase or lease. |
+| [3953\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Communications%20Service%20Contracts/%C2%A7%2003953%20-%20Mortgages%20and%20trust%20deeds.md) | Mortgages and trust deeds. |
+| [3954\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Communications%20Service%20Contracts/%C2%A7%2003954%20-%20Settlement%20of%20stayed%20cases%20relating%20to%20personal%20property.md) | Settlement of stayed cases relating to personal property. |
+| [3955\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Communications%20Service%20Contracts/%C2%A7%2003955%20-%20Termination%20of%20residential%20or%20motor%20vehicle%20leases.md) | Termination of residential or motor vehicle leases. |
+| [3956\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Communications%20Service%20Contracts/%C2%A7%2003956%20-%20Termination%20of%20telephone%2C%20multichannel%20video%20programming%2C%20and%20internet%20access%20service%20contracts.md) | Termination of telephone, multichannel video programming, and internet access service contracts. |
+| [3957\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Communications%20Service%20Contracts/%C2%A7%2003957%20-%20Protection%20of%20life%20insurance%20policy.md) | Protection of life insurance policy. |
+| [3958\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Communications%20Service%20Contracts/%C2%A7%2003958%20-%20Enforcement%20of%20storage%20liens.md) | Enforcement of storage liens. |
+| [3959\.](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Communications%20Service%20Contracts/%C2%A7%2003959%20-%20Extension%20of%20protections%20to%20dependents.md) | Extension of protections to dependents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -127,9 +127,7 @@
 
 The Servicemembers Civil Relief Act, comprising this chapter, was originally enacted as act Oct. 17, 1940, ch. 888, 54 Stat. 1178, known as the Soldiers' and Sailors' Civil Relief Act of 1940, and amended by acts Oct. 6, 1942, ch. 581, 56 Stat. 769; July 3, 1944, ch. 397, 58 Stat. 722; Apr. 3, 1948, ch. 170, 62 Stat. 160; June 23, 1952, ch. 450, 66 Stat. 151; July 11, 1956, ch. 570, 70 Stat. 528; Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105; Pub. L. 86–721, Sept. 8, 1960, 74 Stat. 820; Pub. L. 87–771, Oct. 9, 1962, 76 Stat. 768; Pub. L. 89–358, Mar. 3, 1966, 80 Stat. 12; Pub. L. 92–540, Oct. 24, 1972, 86 Stat. 1074; Pub. L. 102–12, Mar. 18, 1991, 105 Stat. 34; Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 186; Pub. L. 107–107, Dec. 28, 2001, 115 Stat. 1012; Pub. L. 107–330, Dec. 6, 2002, 116 Stat. 2820. Sections of the act Oct. 17, 1940, are shown herein, however, as having been added by Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2835, without reference to the intervening amendments listed above because of the extensive revision of act Oct. 17, 1940, by Pub. L. 108–189.
 
-#### Elimination of Title 50, Appendix
-
-Act Oct. 17, 1940, ch. 888, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2835, comprising this chapter, was formerly set out in the Appendix to this title, prior to the elimination of the Appendix to this title and the editorial reclassification of the Act as this chapter, see provisions set out as a note preceding section 1 of this title. For disposition of sections of the former Appendix to this title, see Table II, set out preceding section 1 of this title.
+Act Oct. 17, 1940, ch. 888, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2835, comprising this chapter, was formerly set out in the Appendix to this title, prior to the elimination of the Appendix to this title and the editorial reclassification of the Act as this chapter. For disposition of sections of the former Appendix to this title, see Table II, set out preceding section 1 of this title.
 
 
 ---
@@ -140,7 +138,7 @@ Act Oct. 17, 1940, ch. 888, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 
 - [&sect; 03902 - Purpose](%C2%A7%2003902%20-%20Purpose.md)
 - [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
 - [Subchapter 002 (II) - General Relief](Subchapter%20002%20%28II%29%20-%20General%20Relief/README.md)
-- [Subchapter 003 (III) - Rent, Installment Contracts, Mortgages, Liens, Assignment, Leases, Telephone Service Contracts](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Telephone%20Service%20Contracts/README.md)
+- [Subchapter 003 (III) - Rent, Installment Contracts, Mortgages, Liens, Assignment, Leases, Communications Service Contracts](Subchapter%20003%20%28III%29%20-%20Rent%2C%20Installment%20Contracts%2C%20Mortgages%2C%20Liens%2C%20Assignment%2C%20Leases%2C%20Communications%20Service%20Contracts/README.md)
 - [Subchapter 004 (IV) - Life Insurance](Subchapter%20004%20%28IV%29%20-%20Life%20Insurance/README.md)
 - [Subchapter 005 (V) - Taxes and Public Lands](Subchapter%20005%20%28V%29%20-%20Taxes%20and%20Public%20Lands/README.md)
 - [Subchapter 006 (VI) - Administrative Remedies](Subchapter%20006%20%28VI%29%20-%20Administrative%20Remedies/README.md)

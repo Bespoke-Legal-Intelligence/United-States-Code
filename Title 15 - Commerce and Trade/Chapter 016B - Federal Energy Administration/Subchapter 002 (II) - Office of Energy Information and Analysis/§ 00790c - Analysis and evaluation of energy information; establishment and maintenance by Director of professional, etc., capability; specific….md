@@ -14,7 +14,7 @@
 
 &emsp;(3) the development and evaluation of energy flow and accounting models describing the production, distribution, and consumption of energy by the various sectors of the economy and lines of commerce in the energy industry;
 
-&emsp;(4) the development and evaluation of alternative forecasting models describing theshort- and long-term relationships between energy supply and consumption and appropriate variables; and
+&emsp;(4) the development and evaluation of alternative forecasting models describing the short- and long-term relationships between energy supply and consumption and appropriate variables; and
 
 &emsp;(5) such other capabilities as the Director deems necessary to achieve the purposes of this chapter.
 

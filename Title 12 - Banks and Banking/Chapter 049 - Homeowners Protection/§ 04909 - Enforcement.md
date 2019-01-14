@@ -46,7 +46,7 @@ The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 105–216, July 29, 1998, 112 Stat. 897, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) ofthis title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
 The Farm Credit Act of 1971, referred to in subsec. (a)(3), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583. Part C of title V of the Act is classified generally to part C (§2261 et seq.) of subchapter V of chapter 23 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 

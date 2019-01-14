@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (B) Dual use property
 
-&emsp;&emsp;In the case of property used both in the production of tested income and income which is not tested income, such property shall be treated as specified tangible property in the same proportion that the gross income described in subsection (c)(1)(A) produced with respect to such property bears to the total gross income produced with respect to such property.
+&emsp;&emsp;In the case of property used both in the production of tested income and income which is not tested income, such property shall be treated as specified tangible property in the same proportion that the gross income described in subsection (c)(1)(A) produced with respect to such property bears tothe total gross income produced with respect to such property.
 
 #### (3) <sup>1</sup> Determination of adjusted basis
 

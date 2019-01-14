@@ -42,7 +42,7 @@ Foreign fishing described in subsection (a) may be conducted pursuant to an inte
 
 &emsp;&emsp;(E) any fees required under section 1824(b)(10) of this title be paid in advance;
 
-&emsp;&emsp;(F) agents be appointed and maintained within the United States who are authorizedto receive and respond to any legal process issued in the United States with respect to such owner or operator; and
+&emsp;&emsp;(F) agents be appointed and maintained within the United States who are authorized to receive and respond to any legal process issued in the United States with respect to such owner or operator; and
 
 &emsp;&emsp;(G) responsibility be assumed, in accordance with any requirements prescribed by the Secretary, for the reimbursement of United States citizens for any loss of, or damage to, their fishing vessels, fishing gear, or catch which is caused by any fishing vessel of that nation;
 
@@ -94,13 +94,13 @@ The total allowable level of foreign fishing, if any, with respect to any fisher
 
 &emsp;(vi) whether, and to what extent, the fishing vessels of such nation have traditionally engaged in fishing in such fishery;
 
-&emsp;(vii) whether, and to what extent, such nation is cooperating with the United States in,and making substantial contributions to, fishery research and the identification of fishery resources; and
+&emsp;(vii) whether, and to what extent, such nation is cooperating with the United States in, and making substantial contributions to, fishery research and the identification of fishery resources; and
 
 &emsp;(viii) such other matters as the Secretary of State, in cooperation with the Secretary, deems appropriate.
 
 (2)(A) For the purposes of this paragraph—
 
-&emsp;(i) The term "certification" means a certification made by the Secretary that nationals of a foreign country, directly or indirectly, are conducting fishing operations or engaging in trade or taking which diminishes the effectiveness of the International Convention for the Regulation of Whaling. A certification under this section shall also be deemed a certification for the purposes of section 1978(a) of title 22.
+&emsp;(i) The term "certification" means a certification made by the Secretary that nationals of a foreign country, directly or indirectly, are conducting fishing operations or engaging in trade or taking which diminishes the effectiveness of the International Convention for the Regulation of Whaling. A certificationunder this section shall also be deemed a certification for the purposes of section 1978(a) of title 22.
 
 &emsp;(ii) The term "remedial period" means the 365-day period beginning on the date on which a certification is issued with respect to a foreign country.
 
@@ -156,13 +156,13 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 &emsp;&emsp;(C) are described in section 1853(b)(2), (3), (4), (5), and (7) of this title.
 
-> Each preliminary fishery management plan shall be in effect with respect to foreign fishing for which permits have been issued until a fishery management plan is prepared and implemented, pursuant to subchapter IV, with respect to such fishery. The Secretary may, in accordance with section 553 of title 5, also prepare and promulgate interim regulations with respect toany such preliminary plan. Such regulations shall be in effect until regulations implementing the applicable fishery management plan are promulgated pursuant to section 1855 of this title.
+> Each preliminary fishery management plan shall be in effect with respect to foreign fishing for which permits have been issued until a fishery management plan is prepared and implemented, pursuant to subchapter IV, with respect to such fishery. The Secretary may, in accordance with section 553 of title 5, also prepare and promulgate interim regulations with respect to any such preliminary plan. Such regulations shall be in effect until regulations implementing the applicable fishery management plan are promulgated pursuant to section 1855 of this title.
 
 #### (h) Full observer coverage program
 
 (1)(A) Except as provided in paragraph (2), the Secretary shall establish a program under which a United States observer will be stationed aboard each foreign fishing vessel while that vessel is engaged in fishing within the exclusive economic zone.
 
-(B) The Secretary shall by regulation prescribe minimum health and safety standards that shall be maintained aboard each foreign fishing vessel with regard to the facilities provided for the quartering of, and the carrying out of observer functions by, United States observers.
+(B) The Secretary shall by regulation prescribe minimum health and safety standards that shall be maintained aboard each foreignfishing vessel with regard to the facilities provided for the quartering of, and the carrying out of observer functions by, United States observers.
 
 (2) The requirement in paragraph (1) that a United States observer be placed aboard each foreign fishing vessel may be waived by the Secretary if he finds that—
 
@@ -194,11 +194,11 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 Notwithstanding any other provision of this subchapter, foreign fishing vessels which are not operated for profit may engage in recreational fishing within the exclusive economic zone and the waters within the boundaries of a State subject to obtaining such permits, paying such reasonable fees, and complying with such conditions and restrictions as the Secretary and the Governor of the State (or his designee) shall impose as being necessary or appropriate to insure that the fishing activity of such foreign vessels within such zone or waters, respectively, is consistent with all applicable Federal and State laws and any applicable fishery management plan implemented under section 1854 of this title. The Secretary shall consult with the Secretary of State and the Secretary of the Department in which the Coast Guard is operating in formulating the conditions and restrictions to be applied by the Secretary under the authority of this subsection.
 
-(Pub. L. 94–265, title II, §201, Apr. 13, 1976, 90 Stat. 337; Pub. L. 95–354, §4(1)–(4), Aug. 28, 1978, 92 Stat. 519, 520; Pub. L. 96–61, §3(a), Aug. 15, 1979, 93 Stat. 407; Pub. L. 96–118, §5, Nov. 16, 1979, 93 Stat. 860; Pub. L 96–561, title II, §§230, 231(a), 236, Dec. 22, 1980, 94 Stat. 3296, 3297, 3299; Pub. L.97–453, §2(a), Jan. 12, 1983, 96 Stat. 2481; Pub. L. 98–623, title IV, §404(1), (2), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–386, title II, §206(a), Aug. 22, 1986, 100 Stat. 823; Pub. L. 99–659, title I, §§101(c)(2), 103(a), Nov. 14, 1986, 100 Stat. 3707, 3708; Pub. L. 101–627, title I, §104, Nov. 28, 1990, 104 Stat. 4439; Pub. L. 102–251, title III, §301(d), Mar. 9, 1992, 106 Stat. 63; Pub. L. 103–236, title I, §139(24), Apr. 30, 1994, 108 Stat. 399; Pub. L. 104–297, title I, §105(a), Oct. 11, 1996, 110 Stat. 3563; Pub. L. 109–479, §5, title IV, §404(a), Jan. 12, 2007, 120 Stat. 3578, 3632.)
+(Pub. L. 94–265, title II, §201, Apr. 13, 1976, 90 Stat. 337; Pub. L. 95–354, §4(1)–(4), Aug. 28, 1978, 92 Stat. 519, 520; Pub. L. 96–61, §3(a), Aug. 15, 1979, 93 Stat. 407; Pub. L. 96–118, §5, Nov. 16, 1979, 93 Stat. 860; Pub. L 96–561, title II, §§230, 231(a), 236, Dec. 22, 1980, 94 Stat. 3296, 3297, 3299; Pub. L. 97–453, §2(a), Jan. 12, 1983, 96 Stat. 2481; Pub. L. 98–623, title IV, §404(1), (2), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–386, title II, §206(a), Aug. 22, 1986, 100 Stat. 823; Pub. L. 99–659, title I, §§101(c)(2), 103(a), Nov. 14, 1986, 100 Stat. 3707, 3708; Pub. L. 101–627, title I, §104, Nov. 28, 1990, 104 Stat. 4439; Pub. L. 102–251, title III, §301(d), Mar. 9, 1992, 106 Stat. 63; Pub. L. 103–236, title I, §139(24), Apr. 30, 1994, 108 Stat. 399; Pub. L. 104–297, title I, §105(a), Oct. 11, 1996, 110 Stat. 3563; Pub. L. 109–479, §5, title IV, §404(a), Jan. 12, 2007, 120 Stat. 3578, 3632.)
 
 #### Amendment of Section
 
-<i>Pub. L. 102–251, title III, §§301(d), 308, Mar. 9, 1992, 106 Stat. 63, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:</i>
+<i>Pub. L. 102–251, title III, §§301(d), 308, Mar. 9, 1992, 106 Stat. 63, 66, provided that, effective</i><i>on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:</i>
 
 <i>(1) in subsection (a), (A) by inserting "within the special areas," immediately before "or for anadromous species" and (B) by striking "beyond the exclusive economic zone" and inserting in lieu thereof "beyond such zone or areas";</i>
 
@@ -268,7 +268,7 @@ Subsec. (e)(1)(A). Pub. L. 98–623, §404(2)(A), substituted "may make allocati
 
 Subsec. (e)(1)(E)(i). Pub. L. 98–623, §404(2)(B), substituted "both United States fish and fishery products" for "United States fish or fishery products" and inserted ", particularly fish and fishery products for which the foreign nation has requested an allocation".
 
-Subsec. (e)(1)(E)(ii). Pub. L. 98–623, §404(2)(C), amended provisions generally, thereby substituting "in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade through the purchase of fish and fishery products from United States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation" for "in the advancement of existing and new opportunities for fisheries trade, particularly through the purchase of fish or fishery products from United States processors or from United States fishermen".
+Subsec. (e)(1)(E)(ii). Pub. L. 98–623, §404(2)(C), amended provisions generally, thereby substituting "in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade throughthe purchase of fish and fishery products from United States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation" for "in the advancement of existing and new opportunities for fisheries trade, particularly through the purchase of fish or fishery products from United States processors or from United States fishermen".
 
 <b>1983</b>—Subsec. (c)(2)(D). Pub. L. 97–453, §2(a)(1), amended par. (D) generally, substituting "United States observers required under subsection (i) be permitted to be stationed aboard any such vessel and that all of the costs incurred incident to such stationing, including the costs of data editing and entry and observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel" for "duly authorized United States observers be permitted on board any such vessel and that the United States be reimbursed for the cost of such observers".
 

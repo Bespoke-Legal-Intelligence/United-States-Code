@@ -28,9 +28,9 @@
 
 &emsp;&emsp;(i) the public entity involved will provide the service directly, and the entity has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
-&emsp;&emsp;(ii) the public entity will enter into an agreement with an organization under which the organization will provide the service, and the organization has entered into such a participation agreement and is qualified to receive such payments.
+&emsp;&emsp;(ii) the public entity will enter into an agreement with an organization under whichthe organization will provide the service, and the organization has entered into such a participation agreement and is qualified to receive such payments.
 
-&emsp;(B)(i) In the case of an organization making an agreement under subparagraph (A)(ii) regarding the provision of services under subsection (a), the requirement established in such subparagraph regarding a participationagreement shall be waived by the Secretary if the organization does not, in providing health or mental health services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
+&emsp;(B)(i) In the case of an organization making an agreement under subparagraph (A)(ii) regarding the provision of services under subsection (a), the requirement established in such subparagraph regarding a participation agreement shall be waived by the Secretary if the organization does not, in providing health or mental health services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
 
 &emsp;(ii) A determination by the Secretary of whether an organization referred to in clause (i) meets the criteria for a waiver under such clause shall be made without regard to whether the organization accepts voluntary donations regarding the provision of services to the public.
 
@@ -100,7 +100,7 @@ Pub. L. 106–310, div. B, title XXXI, §3105(e), Oct. 17, 2000, 114 Stat. 1175,
 
 "(1)
 
-In general.—Entities with active grants under section 561 of the Public Health Service Act (42 U.S.C. 290ff) on the date of the enactment of this Act \[Oct. 17, 2000\] shall be eligible to receive a sixth year of funding under the grant in an amount not to exceed the amount that such grantee received in the fifth year of funding under such grant. Such sixth year may be funded without requiring peer and Advisory Council review as required under section 504 of such Act (42 U.S.C. 290aa–3).
+In general.—Entities with active grants under section 561 of the Public Health Service Act (42 U.S.C. 290ff) on the date of the enactment of this Act \[Oct. 17,2000\] shall be eligible to receive a sixth year of funding under the grant in an amount not to exceed the amount that such grantee received in the fifth year of funding under such grant. Such sixth year may be funded without requiring peer and Advisory Council review as required under section 504 of such Act (42 U.S.C. 290aa–3).
 
 "(2)
 

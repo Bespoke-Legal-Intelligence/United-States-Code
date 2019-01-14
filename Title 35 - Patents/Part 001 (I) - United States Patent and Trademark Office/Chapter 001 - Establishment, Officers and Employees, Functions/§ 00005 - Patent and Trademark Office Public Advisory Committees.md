@@ -22,7 +22,7 @@ Basis for Appointments.—Members of each Advisory Committee—
 
 &emsp;(3) shall include individuals with substantial background and achievement in finance, management, labor relations, science, technology, and office automation.
 
-> In addition to the voting members, each Advisory Committee shall include a representative of each labor organization recognized by the United States Patent and Trademark Office. Such representatives shall be nonvoting members of the Advisory Committee to which they are appointed.
+> In addition to the voting members, each Advisory Committee shall include a representative ofeach labor organization recognized by the United States Patent and Trademark Office. Such representatives shall be nonvoting members of the Advisory Committee to which they are appointed.
 
 (c)
 
@@ -106,9 +106,9 @@ Pub. L. 112–274, §1(l)(2), Jan. 14, 2013, 126 Stat. 2459, provided that:
 
 "(A)
 
-In general.—The Secretary of Commerce shall, in the Secretary's discretion, determine the time and manner in which the amendments made by paragraph (1) \[amending this section\] shall take effect, except that, in each year following the year in which this Act is enacted \[2013\], 3 members shall be appointed to each Advisory Committee (to which such amendments apply) for 3-year terms that begin on December 1 of that year, in accordance with section 5(a) of title 35, United States Code, as amended by paragraph (1) of this subsection.
+In general.—The Secretary of Commerce shall, in the Secretary's discretion, determine the time andmanner in which the amendments made by paragraph (1) \[amending this section\] shall take effect, except that, in each year following the year in which this Act is enacted \[2013\], 3 members shall be appointed to each Advisory Committee (to which such amendments apply) for 3-year terms that begin on December 1 of that year, in accordance with section 5(a) of title 35, United States Code, as amended by paragraph (1) of this subsection.
 
 "(B)
 
-Deemed termination of terms.—In order to implement the amendments made by paragraph (1), the Secretary of Commerce may determine that the term of an existing member of an Advisory Committee undersection 5 of title 35, United States Code, shall be deemed to terminate on December 1 of a year beginning after the date of the enactment of this Act \[Jan. 14, 2013\], regardless of whether December 1 is before or after the date on which such member's term would terminate if this Act had not been enacted."
+Deemed termination of terms.—In order to implement the amendments made by paragraph (1), the Secretary of Commerce may determine that the term of an existing member of an Advisory Committee under section 5 of title 35, United States Code, shall be deemed to terminate on December 1 of a year beginning after the date of the enactment of this Act \[Jan. 14, 2013\], regardless of whether December 1 is before or after the date on which such member's term would terminate if this Act had not been enacted."
 

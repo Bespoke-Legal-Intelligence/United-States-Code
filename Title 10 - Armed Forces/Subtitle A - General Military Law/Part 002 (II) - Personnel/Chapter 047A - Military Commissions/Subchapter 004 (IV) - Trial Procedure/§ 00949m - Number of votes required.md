@@ -18,7 +18,7 @@ Sentences.—(1) Except as provided in paragraphs (2) and (3), sentences shall b
 
 &emsp;(D) all primary members present at the time the vote was taken on the sentence concurred in the sentence of death.
 
-(3) No person may be sentenced to life imprisonment, or to confinement for more than 10 years, by a military commission under this chapter except by the concurrence of three-fourths of the primary members present at the time the vote is taken.
+(3) No person may be sentenced to life imprisonment, or to confinement for more than 10years, by a military commission under this chapter except by the concurrence of three-fourths of the primary members present at the time the vote is taken.
 
 (4) The primary members present for a vote on a sentence need not be the same primary members who voted on the conviction if the requirements of section 948m(d) of this title are met.
 
@@ -28,7 +28,7 @@ Number of Members Required for Penalty of Death.—(1) Except as provided in par
 
 (2) In any case described in paragraph (1) in which 12 primary members are not reasonably available for a military commission because of physical conditions or military exigencies, the convening authority shall specify a lesser number of primary members for the military commission (but not fewer than 9 primary members), and the military commission may be assembled, and the trial held, with not less than the number of primary members so specified. In any such case, the convening authority shall make a detailed written statement, to be appended to the record, stating why a greater number of primary members were not reasonably available.
 
-(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2589; amended Pub. L. 112–81, div. A, title X, §1030(a), Dec. 31, 2011, 125Stat. 1570; Pub. L. 113–66, div. A, title X, §1031(c), Dec. 26, 2013, 127 Stat. 850.)
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2589; amended Pub. L. 112–81, div. A, title X, §1030(a), Dec. 31, 2011, 125 Stat. 1570; Pub. L. 113–66, div. A, title X, §1031(c), Dec. 26, 2013, 127 Stat. 850.)
 
 #### Prior Provisions
 

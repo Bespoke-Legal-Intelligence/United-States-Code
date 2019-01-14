@@ -126,7 +126,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an enrolled WTC responder (other than one described in subsection (a)(2)(A)(ii)), the WTC Program shall provide for monitoring benefits that include monitoring consistent with protocols approved by the WTC Program Administrator and including clinical examinations and long-term health monitoring and analysis. In the case of an enrolled WTC responder who is an active member of the Fire Department of New York City, the responder shall receive such benefits as part of the individual's periodic company medical exams.
+&emsp;In the case of an enrolled WTC responder (other than one described in subsection (a)(2)(A)(ii)), the WTC Program shall provide for monitoring benefits that include monitoring consistent with protocols approved by the WTC Program Administrator and including clinical examinations and long-term health monitoring and analysis. In the case of an enrolled WTC responder who is an active memberof the Fire Department of New York City, the responder shall receive such benefits as part of the individual's periodic company medical exams.
 
 #### (2) Provision of monitoring benefits
 

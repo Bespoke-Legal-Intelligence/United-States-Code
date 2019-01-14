@@ -10,7 +10,7 @@
 
 &emsp;(2) a majority of the members of the board finds that the officer is fully qualified for promotion; and
 
-&emsp;(3) a majority of the members of the board, after consideration by all members of the board of any adverse information about the officer that is provided to the board under section 615 of this title, finds that the officer is among the officers best qualified for promotion to meet the needs of the armed force concerned consistent with the requirement of exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable.
+&emsp;(3) a majority of the members of the board, after consideration by all members of the board of any adverse information about the officer that is provided to the board under section 615 of this title, finds that the officer is among the officers best qualified for promotion to meet the needs of the armed force concerned consistent with the requirement of exemplary conduct set forth in section 7233, 8167, or 9233 of this title, as applicable.
 
 (d) Except as otherwise provided by law, an officer on the active-duty list may not be promoted to a higher grade under this chapter unless he is considered and recommended for promotion to that grade by a selection board convened under this chapter.
 
@@ -22,9 +22,19 @@
 
 &emsp;(2) attempt to coerce or, by any unauthorized means, influence any action of a selection board or any member of a selection board in the formulation of the board's recommendations.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2852; amended Pub. L. 100–456, div. A, title V, §501(b), Sept. 29, 1988, 102 Stat. 1966; Pub. L. 102–190, div. A, title V, §504(b), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 102–484, div. A, title X, §1052(8), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 109–364, div. A, title V, §512(a), Oct. 17, 2006, 120 Stat. 2184.)
+(g)(1) In selecting the officers to be recommended for promotion, a selection board may, when authorized by the Secretary of the military department concerned, recommend officers of particular merit, from among those officers selected for promotion, to be placed higher on the promotion list established by the Secretary under section 624(a)(1) of this title.
+
+(2) An officer may be recommended to be placed higher on a promotion list under paragraph (1) only if the officer receives the recommendation of at least a majority of the members of the board, unless the Secretary concerned establishes an alternative requirement. Any such alternative requirement shall be furnished to the board as part of the guidelines furnished to the board under section 615 of this title.
+
+(3) For the officers recommended to be placed higher on a promotion list under paragraph (1), the board shall recommend the order in which those officers should be placed on the list.
+
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2852; amended Pub. L. 100–456, div. A, title V, §501(b), Sept. 29, 1988, 102 Stat. 1966; Pub. L. 102–190, div. A, title V, §504(b), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 102–484, div. A, title X, §1052(8), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 109–364, div. A, title V, §512(a), Oct. 17, 2006, 120 Stat. 2184; Pub. L. 115–232, div. A, title V, §504(a), title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1742, 1840.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(3). Pub. L. 115–232, §809(a), substituted "section 7233, 8167, or 9233" for "section 3583, 5947, or 8583".
+
+Subsec. (g). Pub. L. 115–232, §504(a), added subsec. (g).
 
 <b>2006</b>—Subsec. (c)(3). Pub. L. 109–364 added par. (3).
 
@@ -33,6 +43,10 @@
 <b>1991</b>—Subsecs. (e), (f). Pub. L. 102–190 added subsecs. (e) and (f).
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–456 inserted "(as noted in the guidelines or information furnished the board under section 615(a) of this title)" after "particular skills".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by section 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination ofamendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -48,5 +62,5 @@ Amendment by Pub. L. 100–456 effective 60 days after Sept. 29, 1988, and appli
 
 #### Effective Date
 
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective onDec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 

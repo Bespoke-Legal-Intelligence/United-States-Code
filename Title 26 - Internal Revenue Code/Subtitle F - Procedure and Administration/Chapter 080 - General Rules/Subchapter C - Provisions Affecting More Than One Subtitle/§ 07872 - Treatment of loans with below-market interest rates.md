@@ -154,7 +154,7 @@ For purposes of this section—
 
 &emsp;The term "forgone interest" means, with respect to any period during which the loan is outstanding, the excess of—
 
-&emsp;&emsp;(A) the amount of interest which would have been payable on the loan for the periodif interest accrued on the loan at the applicable Federal rate and were payable annually on the day referred to in subsection (a)(2), over
+&emsp;&emsp;(A) the amount of interest which would have been payable on the loan for the period if interest accrued on the loan at the applicable Federal rate and were payable annually on the day referred to in subsection (a)(2), over
 
 &emsp;&emsp;(B) any interest payable on the loan properly allocable to such period.
 
@@ -338,9 +338,9 @@ For purposes of this section—
 
 #### (2) Estate tax coordination
 
-&emsp;Under regulations prescribed by the Secretary, any loan which is made with donative intent and which is a term loan shall be takeninto account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).
+&emsp;Under regulations prescribed by the Secretary, any loan which is made with donative intent and which is a term loan shall be taken into account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).
 
-(Added Pub. L. 98–369, div. A, title I, §172(a), July 18, 1984, 98 Stat. 699; amended Pub. L. 99–121, title II, §§201, 202, Oct. 11, 1985, 99 Stat. 511–513; Pub. L. 99–514, title V, §511(d)(1), title XVIII, §§1812(b)(2)–(4), 1854(c)(2)(B), Oct. 22, 1986, 100 Stat. 2248, 2834, 2879; Pub. L. 100–647, title I, §§1005(c)(15), 1018(u)(48), Nov. 10, 1988, 102 Stat. 3393, 3593; Pub. L. 104–188, title I, §§1602(b)(7), 1704(t)(58), 1906(c)(2), Aug. 20, 1996, 110 Stat. 1834, 1890, 1916; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6023(30), July 22, 1998, 112 Stat. 826; Pub. L. 106–554, §1(a)(7) \[title III, §319(30)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 109–222, title II, §209(a), (b)(1), May 17, 2006, 120 Stat. 351, 352; Pub. L. 109–432, div. A, title IV, §425(a), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 115–97, title I, §11002(d)(14), Dec. 22, 2017, 131 Stat. 2062.)
+(Added Pub. L. 98–369, div. A, title I, §172(a), July 18, 1984, 98 Stat. 699; amended Pub. L.99–121, title II, §§201, 202, Oct. 11, 1985, 99 Stat. 511–513; Pub. L. 99–514, title V, §511(d)(1), title XVIII, §§1812(b)(2)–(4), 1854(c)(2)(B), Oct. 22, 1986, 100 Stat. 2248, 2834, 2879; Pub. L. 100–647, title I, §§1005(c)(15), 1018(u)(48), Nov. 10, 1988, 102 Stat. 3393, 3593; Pub. L. 104–188, title I, §§1602(b)(7), 1704(t)(58), 1906(c)(2), Aug. 20, 1996, 110 Stat. 1834, 1890, 1916; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6023(30), July 22, 1998, 112 Stat. 826; Pub. L. 106–554, §1(a)(7) \[title III, §319(30)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 109–222, title II, §209(a), (b)(1), May 17, 2006, 120 Stat. 351, 352; Pub. L. 109–432, div. A, title IV, §425(a), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 115–97, title I, §11002(d)(14), Dec. 22, 2017, 131 Stat. 2062.)
 
 #### Amendments
 
@@ -432,11 +432,11 @@ Amendment by section 1906(c)(2) of Pub. L. 104–188 applicable to loans of cash
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 511(d)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 511(e) of Pub. L. 99–514, set out as a note under section 163 of this title.
+Amendment by section 511(d)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 511(e) of Pub. L. 99–514, set out as a note under section 163 of this title.
 
 Amendment by sections 1812(b)(2)–(4) and 1854(c)(2)(B) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

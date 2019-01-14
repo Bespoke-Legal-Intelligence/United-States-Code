@@ -136,7 +136,7 @@ Purpose and responsibilities.—The Board shall make recommendations regarding t
 
 &emsp;"(4)
 
-Expert subcommittees.—The Board may form temporary expert subcommittees, as appropriate, to develop timely analysis on pressing issues and assist the Board in anticipating future regulatory challenges, including challenges emerging from new scientific advances.
+Expert subcommittees.—The Board may form temporary expert subcommittees, as appropriate, to develop timely analysis on pressing issues and assistthe Board in anticipating future regulatory challenges, including challenges emerging from new scientific advances.
 
 &emsp;"(5)
 
@@ -286,7 +286,7 @@ Sec. 2. <i>Powers and duties of the Director</i>. (a) The Director shall be resp
 
 (b) In addition to any other authority conferred upon him by this order, the Director is authorized, in carrying out his functions hereunder, to—
 
-(1) appoint one or more advisory committees composed of such private citizens and officials of the Federal, State, and local governments as he deems desirable to advise him with respect to his functions. Members of such committees (including the Consumer Advisory Council established in section 5 of this order) other than those regularly employed by the Federal Government, while attending meetings of such committees or otherwise serving at the request of the Director, shall be entitled to receive compensation and travel expenses as authorized by law for persons serving intermittently;
+(1) appoint one or more advisory committees composed of such private citizens and officials of the Federal, State, and local governments as he deems desirable to advise him with respect to his functions. Members of such committees (including the Consumer Advisory Council established in section 5 of this order) other than those regularly employed by the Federal Government, while attending meetings of such committees or otherwise serving at the request of the Director,shall be entitled to receive compensation and travel expenses as authorized by law for persons serving intermittently;
 
 (2) promulgate such rules, regulations, and procedures as may be necessary to carry out the functions vested in him or in the Office, and delegate authority for the performance of any function to any officer or employee under his direction and supervision;
 

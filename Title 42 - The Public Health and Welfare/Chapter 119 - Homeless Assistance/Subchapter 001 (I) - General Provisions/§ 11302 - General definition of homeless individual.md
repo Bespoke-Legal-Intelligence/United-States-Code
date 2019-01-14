@@ -72,7 +72,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(2), is 
 
 <b>1998</b>—Subsec. (b)(2). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(32)\], struck out "the Job Training Partnership Act or" after "assistance under".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(41)\], substituted "the Job Training Partnership Act or title I of the Workforce Investment Act of 1998" for "the Job Training Partnership Act".
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(41)\], substituted "the Job Training Partnership Act or title I ofthe Workforce Investment Act of 1998" for "the Job Training Partnership Act".
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–625 inserted "or homeless person" after "homeless individual" in introductory provisions.
 

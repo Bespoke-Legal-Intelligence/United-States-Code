@@ -10,7 +10,7 @@
 
 (b) A person referred to in subsection (a) is any of the following:
 
-&emsp;(1) A person who has been convicted of a Federal capital crime and whose conviction isfinal (other than a person whose sentence was commuted by the President).
+&emsp;(1) A person who has been convicted of a Federal capital crime and whose conviction is final (other than a person whose sentence was commuted by the President).
 
 &emsp;(2) A person who has been convicted of a State capital crime and whose conviction is final (other than a person whose sentence was commuted by the Governor of a State).
 
@@ -68,7 +68,7 @@
 
 &emsp;(A) whose remains have been interred in a cemetery in the National Cemetery Administration or in Arlington National Cemetery; or
 
-&emsp;(B) whose memory has been honored in a memorial area in a cemetery in the NationalCemetery Administration or in such an area in Arlington National Cemetery.
+&emsp;(B) whose memory has been honored in a memorial area in a cemetery in the National Cemetery Administration or in such an area in Arlington National Cemetery.
 
 (f) For purposes of this section:
 

@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (3) Qualified representative
 
-&emsp;The term "qualified representative" means any individual (whether or not an attorney)who is authorized to practice before the Internal Revenue Service or the applicable court.
+&emsp;The term "qualified representative" means any individual (whether or not an attorney) who is authorized to practice before the Internal Revenue Service or the applicable court.
 
 #### (c) Special rules and limitations
 

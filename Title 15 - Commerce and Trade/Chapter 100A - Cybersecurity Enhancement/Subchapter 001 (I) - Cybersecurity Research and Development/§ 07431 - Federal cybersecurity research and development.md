@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(B) each quadrennial update to the strategic plan; and
 
-&emsp;&emsp;(C) the implementation roadmap under subparagraph (D), and its annual updates, which shall be appended to the annual report required under section 5511(a)(2)(D) of this title.
+&emsp;&emsp;(C) the implementation roadmap under subparagraph (D), and its annual updates, which shall be appended to the annual reportrequired under section 5511(a)(2)(D) of this title.
 
 #### (4) Definition of applicable agencies and departments
 

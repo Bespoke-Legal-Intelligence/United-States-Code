@@ -34,7 +34,7 @@ Subsec. (c). Pub. L. 102–83, §4(a)(1), substituted "administered by the Secre
 
 <b>1975</b>—Pub. L. 94–169, §106(23), substituted "Surviving spouses" for "Widows" in section catchline.
 
-Subsec. (a). Pub. L. 94–169, §106(20), substituted "pay to the surviving spouse" for "pay to the widow", "such surviving spouse" for "she" wherever appearing, "was the spouse" for "was the wife" and "such veteran's" for "his".
+Subsec. (a). Pub. L. 94–169, §106(20), substituted "pay to the surviving spouse" for "pay to the widow", "suchsurviving spouse" for "she" wherever appearing, "was the spouse" for "was the wife" and "such veteran's" for "his".
 
 Subsec. (b). Pub. L. 94–169, §106(21), substituted "surviving spouse" for "widow".
 
@@ -52,5 +52,5 @@ Pub. L. 94–169, title I, §106, Dec. 23, 1975, 89 Stat. 1017, provided that th
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten daysafter Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
+Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 

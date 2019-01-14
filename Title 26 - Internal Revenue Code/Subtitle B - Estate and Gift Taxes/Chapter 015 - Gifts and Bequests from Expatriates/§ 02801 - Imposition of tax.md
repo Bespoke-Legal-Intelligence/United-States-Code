@@ -70,11 +70,11 @@ The tax imposed by subsection (a) on any covered gift or bequest shall be reduce
 
 For purposes of this section, the term "covered expatriate" has the meaning given to such term by section 877A(g)(1).
 
-(Added Pub. L. 110–245, title III, §301(b)(1), June 17, 2008, 122 Stat. 1644; amended Pub. L. 113–295,div. A, title II, §206(b)(1), Dec. 19, 2014, 128 Stat. 4027.)
+(Added Pub. L. 110–245, title III, §301(b)(1), June 17, 2008, 122 Stat. 1644; amended Pub. L. 113–295, div. A, title II, §206(b)(1), Dec. 19, 2014, 128 Stat. 4027.)
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a)(1). Pub. L. 113–295 struck out "(or, if greater, the highest rate of tax specified in the table applicable under section 2502(a) as in effect on the date)" after "such receipt".
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–295 struck out "(or, if greater, the highest rate of tax specified in the tableapplicable under section 2502(a) as in effect on the date)" after "such receipt".
 
 #### Effective Date of 2014 Amendment
 

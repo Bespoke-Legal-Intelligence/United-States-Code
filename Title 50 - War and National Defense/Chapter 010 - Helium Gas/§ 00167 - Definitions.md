@@ -88,7 +88,7 @@ Pub. L. 104–273, §1, Oct. 9, 1996, 110 Stat. 3315, provided that: "This Act \
 
 #### Short Title of 1960 Amendment
 
-Pub. L. 86–777, §1, Sept. 13, 1960, 74 Stat. 918, provided that: "This Act \[enacting this section, sections 167a to167n of this title, and provisions set out as notes below\] may be cited as the 'Helium Act Amendments of 1960'."
+Pub. L. 86–777, §1, Sept. 13, 1960, 74 Stat. 918, provided that: "This Act \[enacting this section, sections 167a to 167n of this title, and provisions set out as notes below\] may be cited as the 'Helium Act Amendments of 1960'."
 
 #### Short Title
 

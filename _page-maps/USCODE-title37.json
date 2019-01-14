@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title37",
- "package": "USCODE-2017-title37",
+ "package": "USCODE-2018-title37",
  "pieces": [
   {
    "id": "37_",
@@ -147,33 +147,37 @@
    "id": "37_203",
    "marks": [
     [
-     "I",
+     "L",
      4,
+     "[Page 10]",
+     true
+    ],
+    [
+     "I",
+     50,
      [
       [
-       94,
-       "[Page 10]"
+       115,
+       "[Page 11]"
       ]
      ]
     ],
     [
-     "L",
-     52,
-     "[Page 11]",
-     true
-    ],
-    [
-     "L",
-     142,
-     "[Page 12]",
-     true
+     "I",
+     140,
+     [
+      [
+       116,
+       "[Page 12]"
+      ]
+     ]
     ],
     [
      "I",
      216,
      [
       [
-       376,
+       268,
        "[Page 13]"
       ]
      ]
@@ -183,7 +187,7 @@
      270,
      [
       [
-       166,
+       113,
        "[Page 14]"
       ]
      ]
@@ -317,20 +321,20 @@
    "marks": [
     [
      "I",
-     26,
+     20,
      [
       [
-       110,
+       872,
        "[Page 23]"
       ]
      ]
     ],
     [
      "I",
-     108,
+     100,
      [
       [
-       716,
+       225,
        "[Page 24]"
       ]
      ]
@@ -347,7 +351,7 @@
    "marks": [
     [
      "L",
-     34,
+     20,
      "[Page 25]",
      true
     ]
@@ -372,10 +376,10 @@
    "marks": [
     [
      "I",
-     12,
+     4,
      [
       [
-       447,
+       423,
        "[Page 26]"
       ]
      ]
@@ -392,20 +396,20 @@
    "marks": [
     [
      "I",
-     85,
+     70,
      [
       [
-       110,
+       127,
        "[Page 27]"
       ]
      ]
     ],
     [
      "I",
-     162,
+     152,
      [
       [
-       172,
+       290,
        "[Page 28]"
       ]
      ]
@@ -431,7 +435,7 @@
    "marks": [
     [
      "I",
-     56,
+     37,
      [
       [
        12,
@@ -441,45 +445,49 @@
     ],
     [
      "I",
-     125,
+     121,
      [
       [
-       319,
+       91,
        "[Page 30]"
       ]
      ]
     ],
     [
-     "L",
-     231,
-     "[Page 31]",
-     true
+     "I",
+     219,
+     [
+      [
+       110,
+       "[Page 31]"
+      ]
+     ]
     ],
     [
      "I",
-     305,
+     297,
      [
       [
-       488,
+       169,
        "[Page 32]"
       ]
      ]
     ],
     [
-     "I",
-     399,
-     [
-      [
-       265,
-       "[Page 33]"
-      ]
-     ]
+     "L",
+     385,
+     "[Page 33]",
+     true
     ],
     [
-     "L",
-     475,
-     "[Page 34]",
-     true
+     "I",
+     469,
+     [
+      [
+       1125,
+       "[Page 34]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00301 - Incentive pay hazardous duty.md",
@@ -492,29 +500,41 @@
    "id": "37_301a",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 35]",
-     true
-    ],
-    [
-     "L",
-     83,
-     "[Page 36]",
-     true
-    ],
-    [
-     "L",
-     174,
-     "[Page 37]",
-     true
+     "I",
+     14,
+     [
+      [
+       140,
+       "[Page 35]"
+      ]
+     ]
     ],
     [
      "I",
-     230,
+     71,
      [
       [
-       163,
+       179,
+       "[Page 36]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     160,
+     [
+      [
+       108,
+       "[Page 37]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     224,
+     [
+      [
+       208,
        "[Page 38]"
       ]
      ]
@@ -531,45 +551,47 @@
    "marks": [
     [
      "I",
-     56,
+     46,
      [
       [
-       892,
+       136,
        "[Page 39]"
       ]
      ]
     ],
     [
-     "I",
-     146,
-     [
-      [
-       113,
-       "[Page 40]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     230,
-     [
-      [
-       158,
-       "[Page 41]"
-      ]
-     ]
+     "L",
+     122,
+     "[Page 40]",
+     true
     ],
     [
      "L",
-     294,
+     208,
+     "[Page 41]",
+     true
+    ],
+    [
+     "L",
+     282,
      "[Page 42]",
      true
+    ],
+    [
+     "I",
+     338,
+     [
+      [
+       108,
+       "[Page 43]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00301b - Special pay aviation career officers extending period of active duty.md",
    "printed_pages": [
     38,
-    42
+    43
    ]
   },
   {
@@ -577,26 +599,20 @@
    "marks": [
     [
      "I",
-     8,
+     42,
      [
       [
-       324,
-       "[Page 43]"
+       126,
+       "[Page 44]"
       ]
      ]
     ],
     [
-     "L",
-     46,
-     "[Page 44]",
-     true
-    ],
-    [
      "I",
-     128,
+     108,
      [
       [
-       107,
+       109,
        "[Page 45]"
       ]
      ]
@@ -604,7 +620,7 @@
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00301c - Incentive pay submarine duty.md",
    "printed_pages": [
-    42,
+    43,
     45
    ]
   },
@@ -612,14 +628,10 @@
    "id": "37_301d",
    "marks": [
     [
-     "I",
-     78,
-     [
-      [
-       105,
-       "[Page 46]"
-      ]
-     ]
+     "L",
+     62,
+     "[Page 46]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00301d - Multiyear retention bonus medical officers of the armed forces.md",
@@ -630,53 +642,60 @@
   },
   {
    "id": "37_301e",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     50,
+     "[Page 47]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00301e - Multiyear retention bonus dental officers of the armed forces.md",
    "printed_pages": [
     46,
-    46
+    47
    ]
   },
   {
    "id": "37_302",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 47]",
-     true
-    ],
-    [
      "I",
-     92,
+     80,
      [
       [
-       680,
+       183,
        "[Page 48]"
       ]
      ]
     ],
     [
      "L",
-     198,
+     170,
      "[Page 49]",
      true
     ],
     [
+     "L",
+     268,
+     "[Page 50]",
+     true
+    ],
+    [
      "I",
-     286,
+     326,
      [
       [
-       105,
-       "[Page 50]"
+       705,
+       "[Page 51]"
       ]
      ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00302 - Special pay medical officers of the armed forces.md",
    "printed_pages": [
-    46,
-    50
+    47,
+    51
    ]
   },
   {
@@ -684,24 +703,14 @@
    "marks": [
     [
      "L",
-     22,
-     "[Page 51]",
+     76,
+     "[Page 52]",
      true
-    ],
-    [
-     "I",
-     90,
-     [
-      [
-       273,
-       "[Page 52]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00302a - Special pay optometrists.md",
    "printed_pages": [
-    50,
+    51,
     52
    ]
   },
@@ -710,61 +719,71 @@
    "marks": [
     [
      "I",
-     84,
+     56,
      [
       [
-       83,
+       329,
        "[Page 53]"
       ]
      ]
     ],
     [
      "L",
-     170,
+     140,
      "[Page 54]",
      true
+    ],
+    [
+     "I",
+     226,
+     [
+      [
+       113,
+       "[Page 55]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00302b - Special pay dental officers of the armed forces.md",
    "printed_pages": [
     52,
-    54
+    55
    ]
   },
   {
    "id": "37_302c",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 55]",
-     true
+     "I",
+     96,
+     [
+      [
+       114,
+       "[Page 56]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00302c - Special pay psychologists and nonphysician health care providers.md",
    "printed_pages": [
-    54,
-    55
+    55,
+    56
    ]
   },
   {
    "id": "37_302c-1",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       309,
-       "[Page 56]"
-      ]
-     ]
+     "L",
+     90,
+     "[Page 57]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00302c–1 - Special pay accession and retention bonuses for psychologists.md",
    "printed_pages": [
-    55,
-    56
+    56,
+    57
    ]
   },
   {
@@ -772,20 +791,14 @@
    "marks": [
     [
      "L",
-     14,
-     "[Page 57]",
-     true
-    ],
-    [
-     "L",
-     94,
+     64,
      "[Page 58]",
      true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00302d - Special pay accession bonus for registered nurses.md",
    "printed_pages": [
-    56,
+    57,
     58
    ]
   },
@@ -797,16 +810,20 @@
      36,
      [
       [
-       2059,
+       200,
        "[Page 59]"
       ]
      ]
     ],
     [
-     "L",
-     138,
-     "[Page 60]",
-     true
+     "I",
+     122,
+     [
+      [
+       161,
+       "[Page 60]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00302e - Special pay nurse anesthetists.md",
@@ -820,7 +837,7 @@
    "marks": [
     [
      "L",
-     84,
+     66,
      "[Page 61]",
      true
     ]
@@ -836,10 +853,10 @@
    "marks": [
     [
      "I",
-     84,
+     58,
      [
       [
-       165,
+       167,
        "[Page 62]"
       ]
      ]
@@ -855,14 +872,10 @@
    "id": "37_302h",
    "marks": [
     [
-     "I",
-     68,
-     [
-      [
-       216,
-       "[Page 63]"
-      ]
-     ]
+     "L",
+     48,
+     "[Page 63]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00302h - Special pay accession bonus for dental officers.md",
@@ -884,14 +897,10 @@
    "id": "37_302j",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       277,
-       "[Page 64]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 64]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00302j - Special pay accession bonus for pharmacy officers.md",
@@ -904,14 +913,10 @@
    "id": "37_302k",
    "marks": [
     [
-     "I",
-     30,
-     [
-      [
-       202,
-       "[Page 65]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 65]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00302k - Special pay accession bonus for medical officers in critically short wartime specialties.md",
@@ -924,10 +929,14 @@
    "id": "37_302l",
    "marks": [
     [
-     "L",
-     48,
-     "[Page 66]",
-     true
+     "I",
+     34,
+     [
+      [
+       202,
+       "[Page 66]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00302l - Special pay accession bonus for dental specialist officers in critically short wartime specialties.md",
@@ -940,14 +949,10 @@
    "id": "37_303",
    "marks": [
     [
-     "I",
-     78,
-     [
-      [
-       107,
-       "[Page 67]"
-      ]
-     ]
+     "L",
+     64,
+     "[Page 67]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00303 - Special pay veterinarians.md",
@@ -960,45 +965,40 @@
    "id": "37_303a",
    "marks": [
     [
+     "L",
+     22,
+     "[Page 68]",
+     true
+    ],
+    [
      "I",
-     28,
+     74,
      [
       [
-       91,
-       "[Page 68]"
+       834,
+       "[Page 69]"
       ]
      ]
     ],
     [
-     "I",
-     80,
-     [
-      [
-       630,
-       "[Page 69]"
-      ]
-     ]
+     "L",
+     152,
+     "[Page 70]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00303a - Special pay general provisions.md",
    "printed_pages": [
     67,
-    69
+    70
    ]
   },
   {
    "id": "37_303b",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 70]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00303b - Waiver of board certification requirements.md",
    "printed_pages": [
-    69,
+    70,
     70
    ]
   },
@@ -1006,14 +1006,10 @@
    "id": "37_304",
    "marks": [
     [
-     "I",
-     54,
-     [
-      [
-       108,
-       "[Page 71]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 71]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00304 - Special pay diving duty.md",
@@ -1027,20 +1023,20 @@
    "marks": [
     [
      "I",
-     64,
+     54,
      [
       [
-       96,
+       168,
        "[Page 72]"
       ]
      ]
     ],
     [
      "I",
-     150,
+     142,
      [
       [
-       114,
+       109,
        "[Page 73]"
       ]
      ]
@@ -1056,20 +1052,20 @@
    "id": "37_305a",
    "marks": [
     [
-     "L",
-     58,
-     "[Page 74]",
-     true
-    ],
-    [
      "I",
-     122,
+     44,
      [
       [
-       756,
-       "[Page 75]"
+       1107,
+       "[Page 74]"
       ]
      ]
+    ],
+    [
+     "L",
+     108,
+     "[Page 75]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00305a - Special pay career sea pay.md",
@@ -1080,11 +1076,18 @@
   },
   {
    "id": "37_305b",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 76]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00305b - Special pay service as member of Weapons of Mass Destruction Civil Support Team.md",
    "printed_pages": [
     75,
-    75
+    76
    ]
   },
   {
@@ -1092,24 +1095,18 @@
    "marks": [
     [
      "I",
-     8,
+     88,
      [
       [
-       12,
-       "[Page 76]"
+       111,
+       "[Page 77]"
       ]
      ]
-    ],
-    [
-     "L",
-     100,
-     "[Page 77]",
-     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00306 - Special pay officers holding positions of unusual responsibility and of critical nature.md",
    "printed_pages": [
-    75,
+    76,
     77
    ]
   },
@@ -1126,37 +1123,49 @@
    "id": "37_307",
    "marks": [
     [
-     "L",
-     52,
-     "[Page 78]",
-     true
+     "I",
+     18,
+     [
+      [
+       215,
+       "[Page 78]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     100,
+     [
+      [
+       537,
+       "[Page 79]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00307 - Special pay special duty assignment pay for enlisted members.md",
    "printed_pages": [
     77,
-    78
+    79
    ]
   },
   {
    "id": "37_307a",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 79]",
-     true
-    ],
-    [
-     "L",
-     84,
-     "[Page 80]",
-     true
+     "I",
+     74,
+     [
+      [
+       113,
+       "[Page 80]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00307a - Special pay assignment incentive pay.md",
    "printed_pages": [
-    78,
+    79,
     80
    ]
   },
@@ -1165,32 +1174,36 @@
    "marks": [
     [
      "L",
-     28,
+     18,
      "[Page 81]",
      true
     ],
     [
      "I",
-     88,
+     48,
      [
       [
-       159,
+       2663,
        "[Page 82]"
       ]
      ]
     ],
     [
-     "L",
-     202,
-     "[Page 83]",
-     true
+     "I",
+     188,
+     [
+      [
+       114,
+       "[Page 83]"
+      ]
+     ]
     ],
     [
      "I",
-     280,
+     268,
      [
       [
-       228,
+       110,
        "[Page 84]"
       ]
      ]
@@ -1204,42 +1217,47 @@
   },
   {
    "id": "37_[308a",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       921,
+       "[Page 85]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00308a - Repealed. Pub. L. 106–398, §1 [[div. A], title VI, §624(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.md",
    "printed_pages": [
     84,
-    84
+    85
    ]
   },
   {
    "id": "37_308b",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       73,
-       "[Page 85]"
-      ]
-     ]
-    ],
-    [
      "L",
-     66,
+     40,
      "[Page 86]",
      true
     ],
     [
-     "L",
-     178,
-     "[Page 87]",
-     true
+     "I",
+     154,
+     [
+      [
+       108,
+       "[Page 87]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00308b - Special pay reenlistment bonus for members of the Selected Reserve.md",
    "printed_pages": [
-    84,
+    85,
     87
    ]
   },
@@ -1248,21 +1266,31 @@
    "marks": [
     [
      "L",
-     18,
+     6,
      "[Page 88]",
      true
     ],
     [
      "L",
-     80,
+     64,
      "[Page 89]",
      true
+    ],
+    [
+     "I",
+     160,
+     [
+      [
+       104,
+       "[Page 90]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00308c - Special pay bonus for affiliation or enlistment in the Selected Reserve.md",
    "printed_pages": [
     87,
-    89
+    90
    ]
   },
   {
@@ -1270,20 +1298,10 @@
    "marks": [
     [
      "I",
-     2,
+     58,
      [
       [
-       611,
-       "[Page 90]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     84,
-     [
-      [
-       102,
+       117,
        "[Page 91]"
       ]
      ]
@@ -1291,7 +1309,7 @@
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00308d - Special pay members of the Selected Reserve assigned to certain high priority units.md",
    "printed_pages": [
-    89,
+    90,
     91
    ]
   },
@@ -1318,19 +1336,25 @@
    "marks": [
     [
      "I",
-     18,
+     6,
      [
       [
-       308,
+       95,
        "[Page 92]"
       ]
      ]
+    ],
+    [
+     "L",
+     86,
+     "[Page 93]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00308g - Special pay bonus for enlistment in elements of the Ready Reserve other than the Selected Reserve.md",
    "printed_pages": [
     91,
-    92
+    93
    ]
   },
   {
@@ -1338,26 +1362,20 @@
    "marks": [
     [
      "I",
-     4,
+     58,
      [
       [
-       77,
-       "[Page 93]"
+       989,
+       "[Page 94]"
       ]
      ]
     ],
     [
-     "L",
-     60,
-     "[Page 94]",
-     true
-    ],
-    [
      "I",
-     172,
+     152,
      [
       [
-       152,
+       110,
        "[Page 95]"
       ]
      ]
@@ -1365,7 +1383,7 @@
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00308h - Special pay bonus for reenlistment, enlistment, or voluntary extension of enlistment in elements of the Ready Reserve other than the….md",
    "printed_pages": [
-    92,
+    93,
     95
    ]
   },
@@ -1373,24 +1391,24 @@
    "id": "37_308i",
    "marks": [
     [
+     "L",
+     16,
+     "[Page 96]",
+     true
+    ],
+    [
      "I",
-     30,
+     82,
      [
       [
-       97,
-       "[Page 96]"
+       110,
+       "[Page 97]"
       ]
      ]
     ],
     [
      "L",
-     108,
-     "[Page 97]",
-     true
-    ],
-    [
-     "L",
-     212,
+     196,
      "[Page 98]",
      true
     ]
@@ -1405,10 +1423,14 @@
    "id": "37_308j",
    "marks": [
     [
-     "L",
-     80,
-     "[Page 99]",
-     true
+     "I",
+     64,
+     [
+      [
+       326,
+       "[Page 99]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00308j - Special pay affiliation bonus for officers in the Selected Reserve.md",
@@ -1422,10 +1444,10 @@
    "marks": [
     [
      "I",
-     84,
+     72,
      [
       [
-       276,
+       110,
        "[Page 100]"
       ]
      ]
@@ -1441,16 +1463,24 @@
    "id": "37_310",
    "marks": [
     [
-     "L",
-     62,
-     "[Page 101]",
-     true
+     "I",
+     46,
+     [
+      [
+       845,
+       "[Page 101]"
+      ]
+     ]
     ],
     [
-     "L",
-     152,
-     "[Page 102]",
-     true
+     "I",
+     138,
+     [
+      [
+       107,
+       "[Page 102]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00310 - Special pay duty subject to hostile fire or imminent danger.md",
@@ -1473,31 +1503,41 @@
    "marks": [
     [
      "I",
-     18,
+     10,
      [
       [
-       88,
+       187,
        "[Page 103]"
       ]
      ]
     ],
     [
      "L",
-     78,
+     60,
      "[Page 104]",
      true
     ],
     [
      "L",
-     158,
+     140,
      "[Page 105]",
      true
+    ],
+    [
+     "I",
+     214,
+     [
+      [
+       113,
+       "[Page 106]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00312 - Special pay nuclear-qualified officers extending period of active service.md",
    "printed_pages": [
     102,
-    105
+    106
    ]
   },
   {
@@ -1505,37 +1545,23 @@
    "marks": [],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00312a - Repealed. Pub. L. 109–163, div. A, title VI, §629(d)(1), Jan. 6, 2006, 119 Stat. 3297.md",
    "printed_pages": [
-    105,
-    105
+    106,
+    106
    ]
   },
   {
    "id": "37_312b",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       193,
-       "[Page 106]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     76,
-     [
-      [
-       112,
-       "[Page 107]"
-      ]
-     ]
+     "L",
+     54,
+     "[Page 107]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00312b - Special pay nuclear career accession bonus.md",
    "printed_pages": [
-    105,
+    106,
     107
    ]
   },
@@ -1544,19 +1570,19 @@
    "marks": [
     [
      "L",
-     26,
+     14,
      "[Page 108]",
      true
     ],
     [
      "L",
-     94,
+     68,
      "[Page 109]",
      true
     ],
     [
      "L",
-     174,
+     156,
      "[Page 110]",
      true
     ]
@@ -1581,10 +1607,10 @@
    "marks": [
     [
      "I",
-     68,
+     56,
      [
       [
-       104,
+       114,
        "[Page 111]"
       ]
      ]
@@ -1610,20 +1636,20 @@
    "marks": [
     [
      "I",
-     20,
+     6,
      [
       [
-       85,
+       188,
        "[Page 112]"
       ]
      ]
     ],
     [
      "I",
-     80,
+     68,
      [
       [
-       153,
+       103,
        "[Page 113]"
       ]
      ]
@@ -1639,14 +1665,10 @@
    "id": "37_316a",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       134,
-       "[Page 114]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 114]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00316a - Special pay incentive pay for members of precommissioning programs pursuing foreign language proficiency.md",
@@ -1660,7 +1682,7 @@
    "marks": [
     [
      "L",
-     52,
+     38,
      "[Page 115]",
      true
     ]
@@ -1673,26 +1695,26 @@
   },
   {
    "id": "37_318",
-   "marks": [],
-   "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00318 - Special pay special warfare officers extending period of active duty.md",
-   "printed_pages": [
-    115,
-    115
-   ]
-  },
-  {
-   "id": "37_319",
    "marks": [
     [
      "L",
-     20,
+     70,
      "[Page 116]",
      true
     ]
    ],
-   "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00319 - Special pay surface warfare officer continuation pay.md",
+   "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00318 - Special pay special warfare officers extending period of active duty.md",
    "printed_pages": [
     115,
+    116
+   ]
+  },
+  {
+   "id": "37_319",
+   "marks": [],
+   "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00319 - Special pay surface warfare officer continuation pay.md",
+   "printed_pages": [
+    116,
     116
    ]
   },
@@ -1701,10 +1723,10 @@
    "marks": [
     [
      "I",
-     28,
+     24,
      [
       [
-       235,
+       365,
        "[Page 117]"
       ]
      ]
@@ -1720,10 +1742,14 @@
    "id": "37_321",
    "marks": [
     [
-     "L",
-     38,
-     "[Page 118]",
-     true
+     "I",
+     16,
+     [
+      [
+       214,
+       "[Page 118]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00321 - Special pay judge advocate continuation pay.md",
@@ -1754,10 +1780,14 @@
    "id": "37_324",
    "marks": [
     [
-     "L",
-     64,
-     "[Page 119]",
-     true
+     "I",
+     34,
+     [
+      [
+       1000,
+       "[Page 119]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00324 - Special pay accession bonus for new officers in critical skills.md",
@@ -1770,10 +1800,14 @@
    "id": "37_325",
    "marks": [
     [
-     "L",
-     70,
-     "[Page 120]",
-     true
+     "I",
+     48,
+     [
+      [
+       81,
+       "[Page 120]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00325 - Incentive bonus savings plan for education expenses and other contingencies.md",
@@ -1787,7 +1821,7 @@
    "marks": [
     [
      "L",
-     76,
+     48,
      "[Page 121]",
      true
     ]
@@ -1803,10 +1837,10 @@
    "marks": [
     [
      "I",
-     82,
+     52,
      [
       [
-       107,
+       633,
        "[Page 122]"
       ]
      ]
@@ -1829,26 +1863,30 @@
   },
   {
    "id": "37_329",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     42,
+     [
+      [
+       80,
+       "[Page 123]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00329 - Incentive bonus retired members and reserve component members volunteering for high-demand, low-density assignments.md",
    "printed_pages": [
     122,
-    122
+    123
    ]
   },
   {
    "id": "37_330",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 123]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 001 (I) - Existing Special Pay, Incentive Pay, and Bonus Authorities/§ 00330 - Special pay accession bonus for officer candidates.md",
    "printed_pages": [
-    122,
+    123,
     123
    ]
   },
@@ -1866,10 +1904,10 @@
    "marks": [
     [
      "I",
-     46,
+     16,
      [
       [
-       78,
+       138,
        "[Page 124]"
       ]
      ]
@@ -1885,14 +1923,10 @@
    "id": "37_332",
    "marks": [
     [
-     "I",
-     52,
-     [
-      [
-       83,
-       "[Page 125]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 125]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 002 (II) - Consolidation of Special Pay, Incentive Pay, and Bonus Authorities/§ 00332 - General bonus authority for officers.md",
@@ -1905,14 +1939,10 @@
    "id": "37_333",
    "marks": [
     [
-     "I",
-     60,
-     [
-      [
-       165,
-       "[Page 126]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 126]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 002 (II) - Consolidation of Special Pay, Incentive Pay, and Bonus Authorities/§ 00333 - Special bonus and incentive pay authorities for nuclear officers.md",
@@ -1926,16 +1956,16 @@
    "marks": [
     [
      "L",
-     46,
+     12,
      "[Page 127]",
      true
     ],
     [
      "I",
-     124,
+     106,
      [
       [
-       570,
+       84,
        "[Page 128]"
       ]
      ]
@@ -1951,37 +1981,33 @@
    "id": "37_334a",
    "marks": [
     [
-     "I",
-     62,
-     [
-      [
-       78,
-       "[Page 129]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 129]",
+     true
+    ],
+    [
+     "L",
+     116,
+     "[Page 130]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 002 (II) - Consolidation of Special Pay, Incentive Pay, and Bonus Authorities/§ 00334a - Special aviation incentive pay and bonus authorities enlisted members who operate remotely piloted aircraft.md",
    "printed_pages": [
     128,
-    129
+    130
    ]
   },
   {
    "id": "37_335",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 130]",
-     true
-    ],
-    [
      "I",
-     126,
+     92,
      [
       [
-       318,
+       217,
        "[Page 131]"
       ]
      ]
@@ -1989,34 +2015,35 @@
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 002 (II) - Consolidation of Special Pay, Incentive Pay, and Bonus Authorities/§ 00335 - Special bonus and incentive pay authorities for officers in health professions.md",
    "printed_pages": [
-    129,
+    130,
     131
    ]
   },
   {
    "id": "37_336",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 132]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 002 (II) - Consolidation of Special Pay, Incentive Pay, and Bonus Authorities/§ 00336 - Contracting bonus for cadets and midshipmen enrolled in the Senior Reserve Officers' Training Corps.md",
    "printed_pages": [
     131,
-    131
+    132
    ]
   },
   {
    "id": "37_351",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 132]",
-     true
-    ],
-    [
      "I",
-     86,
+     48,
      [
       [
-       161,
+       221,
        "[Page 133]"
       ]
      ]
@@ -2024,7 +2051,7 @@
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 002 (II) - Consolidation of Special Pay, Incentive Pay, and Bonus Authorities/§ 00351 - Hazardous duty pay.md",
    "printed_pages": [
-    131,
+    132,
     133
    ]
   },
@@ -2033,57 +2060,63 @@
    "marks": [
     [
      "L",
-     74,
+     30,
      "[Page 134]",
+     true
+    ],
+    [
+     "L",
+     116,
+     "[Page 135]",
      true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 002 (II) - Consolidation of Special Pay, Incentive Pay, and Bonus Authorities/§ 00352 - Assignment pay or special duty pay.md",
    "printed_pages": [
     133,
-    134
+    135
    ]
   },
   {
    "id": "37_353",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 135]",
-     true
+     "I",
+     78,
+     [
+      [
+       302,
+       "[Page 136]"
+      ]
+     ]
     ],
     [
      "L",
-     118,
-     "[Page 136]",
+     158,
+     "[Page 137]",
      true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 002 (II) - Consolidation of Special Pay, Incentive Pay, and Bonus Authorities/§ 00353 - Skill incentive pay or proficiency bonus.md",
    "printed_pages": [
-    134,
-    136
+    135,
+    137
    ]
   },
   {
    "id": "37_354",
    "marks": [
     [
-     "I",
-     58,
-     [
-      [
-       88,
-       "[Page 137]"
-      ]
-     ]
+     "L",
+     90,
+     "[Page 138]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 002 (II) - Consolidation of Special Pay, Incentive Pay, and Bonus Authorities/§ 00354 - Special pay 15-year career status bonus for members entering service on or after August 1, 1986.md",
    "printed_pages": [
-    136,
-    137
+    137,
+    138
    ]
   },
   {
@@ -2091,29 +2124,25 @@
    "marks": [
     [
      "I",
-     24,
+     52,
      [
       [
-       221,
-       "[Page 138]"
+       226,
+       "[Page 139]"
       ]
      ]
     ],
     [
-     "I",
-     92,
-     [
-      [
-       173,
-       "[Page 139]"
-      ]
-     ]
+     "L",
+     124,
+     "[Page 140]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 002 (II) - Consolidation of Special Pay, Incentive Pay, and Bonus Authorities/§ 00355 - Special pay retention incentives for members qualified in critical military skills or assigned to high priority units.md",
    "printed_pages": [
-    137,
-    139
+    138,
+    140
    ]
   },
   {
@@ -2121,19 +2150,19 @@
    "marks": [
     [
      "I",
-     12,
+     40,
      [
       [
-       168,
-       "[Page 140]"
+       80,
+       "[Page 141]"
       ]
      ]
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 002 (II) - Consolidation of Special Pay, Incentive Pay, and Bonus Authorities/§ 00356 - Continuation pay full TSP members with 8 to 12 years of service.md",
    "printed_pages": [
-    139,
-    140
+    140,
+    141
    ]
   },
   {
@@ -2141,23 +2170,16 @@
    "marks": [],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 003 (III) - General Provisions/README.md",
    "printed_pages": [
-    140,
-    140
+    141,
+    141
    ]
   },
   {
    "id": "37_371",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 141]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 003 (III) - General Provisions/§ 00371 - Relationship to other incentives and pays.md",
    "printed_pages": [
-    140,
+    141,
     141
    ]
   },
@@ -2175,19 +2197,25 @@
    "marks": [
     [
      "I",
-     36,
+     4,
      [
       [
-       221,
+       323,
        "[Page 142]"
       ]
      ]
+    ],
+    [
+     "L",
+     70,
+     "[Page 143]",
+     true
     ]
    ],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 003 (III) - General Provisions/§ 00373 - Repayment of unearned portion of bonus, incentive pay, or similar benefit, and termination of remaining payments, when conditions of….md",
    "printed_pages": [
     141,
-    142
+    143
    ]
   },
   {
@@ -2195,8 +2223,8 @@
    "marks": [],
    "path": "Chapter 005 - Special and Incentive Pays/Subchapter 003 (III) - General Provisions/§ 00374 - Regulations.md",
    "printed_pages": [
-    142,
-    142
+    143,
+    143
    ]
   },
   {
@@ -2204,25 +2232,25 @@
    "marks": [
     [
      "I",
-     18,
+     48,
      [
       [
-       65,
-       "[Page 143]"
+       1314,
+       "[Page 144]"
       ]
      ]
     ],
     [
      "L",
-     66,
-     "[Page 144]",
+     98,
+     "[Page 145]",
      true
     ]
    ],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/README.md",
    "printed_pages": [
-    142,
-    144
+    143,
+    145
    ]
   },
   {
@@ -2230,24 +2258,14 @@
    "marks": [
     [
      "L",
-     18,
-     "[Page 145]",
+     56,
+     "[Page 146]",
      true
-    ],
-    [
-     "I",
-     100,
-     [
-      [
-       475,
-       "[Page 146]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00401 - Definitions.md",
    "printed_pages": [
-    144,
+    145,
     146
    ]
   },
@@ -2256,229 +2274,211 @@
    "marks": [
     [
      "I",
-     44,
+     10,
      [
       [
-       96,
+       127,
        "[Page 147]"
       ]
      ]
     ],
     [
      "I",
-     158,
+     66,
      [
       [
-       324,
+       1260,
        "[Page 148]"
       ]
      ]
     ],
     [
      "L",
-     242,
+     198,
      "[Page 149]",
+     true
+    ],
+    [
+     "L",
+     264,
+     "[Page 150]",
      true
     ]
    ],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00402 - Basic allowance for subsistence.md",
    "printed_pages": [
     146,
-    149
+    150
    ]
   },
   {
    "id": "37_402a",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 150]",
-     true
+     "I",
+     50,
+     [
+      [
+       82,
+       "[Page 151]"
+      ]
+     ]
     ],
     [
-     "L",
-     84,
-     "[Page 151]",
-     true
+     "I",
+     118,
+     [
+      [
+       108,
+       "[Page 152]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00402a - Supplemental subsistence allowance for low-income members with dependents.md",
    "printed_pages": [
-    149,
-    151
+    150,
+    152
    ]
   },
   {
    "id": "37_403",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       79,
-       "[Page 152]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 153]",
+     true
+    ],
+    [
+     "L",
+     78,
+     "[Page 154]",
+     true
+    ],
+    [
+     "L",
+     120,
+     "[Page 155]",
+     true
     ],
     [
      "I",
-     52,
+     170,
      [
       [
-       288,
-       "[Page 153]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     102,
-     [
-      [
-       87,
-       "[Page 154]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     146,
-     [
-      [
-       136,
-       "[Page 155]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     198,
-     [
-      [
-       234,
+       267,
        "[Page 156]"
       ]
      ]
     ],
     [
      "I",
-     256,
+     218,
      [
       [
-       36,
+       305,
        "[Page 157]"
       ]
      ]
     ],
     [
-     "I",
-     364,
-     [
-      [
-       168,
-       "[Page 158]"
-      ]
-     ]
+     "L",
+     312,
+     "[Page 158]",
+     true
     ],
     [
      "L",
-     448,
+     398,
      "[Page 159]",
      true
     ],
     [
      "I",
-     581,
+     513,
      [
       [
-       97,
+       24,
        "[Page 160]"
       ]
      ]
     ],
     [
+     "I",
+     613,
+     [
+      [
+       360,
+       "[Page 161]"
+      ]
+     ]
+    ],
+    [
      "L",
-     653,
-     "[Page 161]",
+     683,
+     "[Page 162]",
      true
     ],
     [
      "I",
-     725,
+     759,
      [
       [
-       335,
-       "[Page 162]"
+       295,
+       "[Page 163]"
       ]
      ]
     ],
     [
-     "I",
-     777,
-     [
-      [
-       453,
-       "[Page 163]"
-      ]
-     ]
+     "L",
+     803,
+     "[Page 164]",
+     true
     ]
    ],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00403 - Basic allowance for housing.md",
    "printed_pages": [
-    151,
-    163
+    152,
+    164
    ]
   },
   {
    "id": "37_403a",
    "marks": [
     [
-     "I",
-     36,
-     [
-      [
-       117,
-       "[Page 164]"
-      ]
-     ]
+     "L",
+     74,
+     "[Page 165]",
+     true
     ]
    ],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00403a - Housing treatment for certain members of the armed forces, and their spouses and other dependents, undergoing a permanent change of….md",
    "printed_pages": [
-    163,
-    164
+    164,
+    165
    ]
   },
   {
    "id": "37_403b",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       697,
-       "[Page 165]"
-      ]
-     ]
+     "L",
+     72,
+     "[Page 166]",
+     true
     ],
     [
-     "I",
-     112,
-     [
-      [
-       107,
-       "[Page 166]"
-      ]
-     ]
+     "L",
+     132,
+     "[Page 167]",
+     true
     ]
    ],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00403b - Cost-of-living allowance in the continental United States.md",
    "printed_pages": [
-    164,
-    166
+    165,
+    167
    ]
   },
   {
@@ -2486,8 +2486,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00404 - Renumbered §474.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2495,8 +2495,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00404a - Renumbered §474a.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2504,8 +2504,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00404b - Renumbered §474b.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2513,8 +2513,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00405 - Renumbered §475.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2522,8 +2522,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00405a - Renumbered §475a.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2531,8 +2531,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00406 - Renumbered §476.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2540,8 +2540,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00406a - Renumbered §476a.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2549,8 +2549,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00406b - Renumbered §476b.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2558,8 +2558,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00406c - Renumbered §476c.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2567,8 +2567,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00407 - Renumbered §477.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2576,8 +2576,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00408 - Renumbered §478.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2585,8 +2585,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00408a - Renumbered §478a.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2594,8 +2594,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00409 - Renumbered §479.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2603,8 +2603,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00410 - Renumbered §480.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2612,8 +2612,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00411 - Renumbered §481.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2621,8 +2621,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00411a - Renumbered §481a.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2630,8 +2630,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00411b - Renumbered §481b.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2639,8 +2639,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00411c - Renumbered §481c.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2648,8 +2648,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00411d - Renumbered §481d.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2657,8 +2657,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00411e - Renumbered §481e.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2666,8 +2666,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00411f - Renumbered §481f.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2675,8 +2675,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00411g - Repealed. Pub. L. 112–81, div. A, title VI, §631(c), Dec. 31, 2011, 125 Stat. 1460.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2684,8 +2684,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00411h - Renumbered §481h.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2693,8 +2693,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00411i - Renumbered §481i.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2702,8 +2702,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00411j - Renumbered §481j.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2711,8 +2711,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00411k - Renumbered §481k.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2720,8 +2720,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00411l - Renumbered §481l.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
@@ -2729,23 +2729,16 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00412 - Renumbered §455.md",
    "printed_pages": [
-    166,
-    166
+    167,
+    167
    ]
   },
   {
    "id": "37_413",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 167]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00413 - Chairman and Vice Chairman of the Joint Chiefs of Staff.md",
    "printed_pages": [
-    166,
+    167,
     167
    ]
   },
@@ -2754,7 +2747,7 @@
    "marks": [
     [
      "L",
-     84,
+     22,
      "[Page 168]",
      true
     ]
@@ -2770,10 +2763,10 @@
    "marks": [
     [
      "I",
-     84,
+     22,
      [
       [
-       169,
+       421,
        "[Page 169]"
       ]
      ]
@@ -2790,10 +2783,10 @@
    "marks": [
     [
      "I",
-     42,
+     6,
      [
       [
-       106,
+       95,
        "[Page 170]"
       ]
      ]
@@ -2807,11 +2800,22 @@
   },
   {
    "id": "37_417",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       97,
+       "[Page 171]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00417 - Uniform allowance officers; general provisions.md",
    "printed_pages": [
     170,
-    170
+    171
    ]
   },
   {
@@ -2819,49 +2823,47 @@
    "marks": [
     [
      "I",
-     2,
+     24,
      [
       [
-       94,
-       "[Page 171]"
+       93,
+       "[Page 172]"
       ]
      ]
-    ],
-    [
-     "L",
-     74,
-     "[Page 172]",
-     true
     ]
    ],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00418 - Clothing allowance enlisted members.md",
    "printed_pages": [
-    170,
+    171,
     172
    ]
   },
   {
    "id": "37_419",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       114,
+       "[Page 173]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00419 - Civilian clothing allowance.md",
    "printed_pages": [
     172,
-    172
+    173
    ]
   },
   {
    "id": "37_420",
-   "marks": [
-    [
-     "L",
-     54,
-     "[Page 173]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00420 - Allowances while participating in international sports.md",
    "printed_pages": [
-    172,
+    173,
     173
    ]
   },
@@ -2876,40 +2878,51 @@
   },
   {
    "id": "37_422",
-   "marks": [],
-   "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00422 - Cadets and midshipmen.md",
-   "printed_pages": [
-    173,
-    173
-   ]
-  },
-  {
-   "id": "37_423",
    "marks": [
     [
      "I",
-     2,
+     16,
      [
       [
-       463,
+       160,
        "[Page 174]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00423 - Validity of allowance payments based on purported marriages.md",
+   "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00422 - Cadets and midshipmen.md",
    "printed_pages": [
     173,
     174
    ]
   },
   {
-   "id": "37_424",
+   "id": "37_423",
    "marks": [],
-   "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00424 - Band leaders.md",
+   "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00423 - Validity of allowance payments based on purported marriages.md",
    "printed_pages": [
     174,
     174
+   ]
+  },
+  {
+   "id": "37_424",
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       9,
+       "[Page 175]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00424 - Band leaders.md",
+   "printed_pages": [
+    174,
+    175
    ]
   },
   {
@@ -2917,8 +2930,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00425 - United States Navy Band; United States Marine Corps Band allowances while on concert tour.md",
    "printed_pages": [
-    174,
-    174
+    175,
+    175
    ]
   },
   {
@@ -2926,40 +2939,44 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00426 - Repealed. Pub. L. 90–377, §10, July 5, 1968, 82 Stat. 288.md",
    "printed_pages": [
-    174,
-    174
+    175,
+    175
    ]
   },
   {
    "id": "37_427",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 175]",
-     true
-    ],
-    [
-     "L",
-     56,
-     "[Page 176]",
-     true
+     "I",
+     32,
+     [
+      [
+       223,
+       "[Page 176]"
+      ]
+     ]
     ],
     [
      "I",
-     136,
+     88,
      [
       [
-       110,
+       160,
        "[Page 177]"
       ]
      ]
+    ],
+    [
+     "L",
+     172,
+     "[Page 178]",
+     true
     ]
    ],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00427 - Family separation allowance.md",
    "printed_pages": [
-    174,
-    177
+    175,
+    178
    ]
   },
   {
@@ -2967,8 +2984,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00428 - Renumbered §488.md",
    "printed_pages": [
-    177,
-    177
+    178,
+    178
    ]
   },
   {
@@ -2976,8 +2993,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00429 - Renumbered §489.md",
    "printed_pages": [
-    177,
-    177
+    178,
+    178
    ]
   },
   {
@@ -2985,8 +3002,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00430 - Renumbered §490.md",
    "printed_pages": [
-    177,
-    177
+    178,
+    178
    ]
   },
   {
@@ -2994,8 +3011,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00431 - Transferred.md",
    "printed_pages": [
-    177,
-    177
+    178,
+    178
    ]
   },
   {
@@ -3003,37 +3020,37 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00432 - Renumbered §492.md",
    "printed_pages": [
-    177,
-    177
+    178,
+    178
    ]
   },
   {
    "id": "37_433",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       99,
-       "[Page 178]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00433 - Allowance for muster duty.md",
    "printed_pages": [
-    177,
+    178,
     178
    ]
   },
   {
    "id": "37_433a",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       226,
+       "[Page 179]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00433a - Allowance for participation in Ready Reserve screening.md",
    "printed_pages": [
     178,
-    178
+    179
    ]
   },
   {
@@ -3041,8 +3058,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00434 - Renumbered §494.md",
    "printed_pages": [
-    178,
-    178
+    179,
+    179
    ]
   },
   {
@@ -3050,8 +3067,8 @@
    "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00435 - Renumbered §495.md",
    "printed_pages": [
-    178,
-    178
+    179,
+    179
    ]
   },
   {
@@ -3059,15 +3076,15 @@
    "marks": [
     [
      "L",
-     36,
-     "[Page 179]",
+     60,
+     "[Page 180]",
      true
     ]
    ],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00436 - High-deployment allowance lengthy or numerous deployments; frequent mobilizations.md",
    "printed_pages": [
-    178,
-    179
+    179,
+    180
    ]
   },
   {
@@ -3075,34 +3092,27 @@
    "marks": [
     [
      "I",
-     20,
+     44,
      [
       [
-       252,
-       "[Page 180]"
+       110,
+       "[Page 181]"
       ]
      ]
     ]
    ],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00437 - Allowance to cover monthly premiums for Servicemembers' Group Life Insurance members serving in a designated duty assignment.md",
    "printed_pages": [
-    179,
-    180
+    180,
+    181
    ]
   },
   {
    "id": "37_438",
-   "marks": [
-    [
-     "L",
-     38,
-     "[Page 181]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00438 - Preventive health services allowance.md",
    "printed_pages": [
-    180,
+    181,
     181
    ]
   },
@@ -3110,10 +3120,14 @@
    "id": "37_439",
    "marks": [
     [
-     "L",
-     62,
-     "[Page 182]",
-     true
+     "I",
+     16,
+     [
+      [
+       93,
+       "[Page 182]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 007 - Allowances Other Than Travel and Transportation Allowances/§ 00439 - Special compensation members of the uniformed services with catastrophic injuries or illnesses requiring assistance in everyday living.md",
@@ -3124,11 +3138,22 @@
   },
   {
    "id": "37_-ch8",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     44,
+     [
+      [
+       96,
+       "[Page 183]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 008 - Travel and Transportation Allowances/README.md",
    "printed_pages": [
     182,
-    182
+    183
    ]
   },
   {
@@ -3136,8 +3161,8 @@
    "marks": [],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 001 (I) - Travel and Transportation Authorities—New Law/README.md",
    "printed_pages": [
-    182,
-    182
+    183,
+    183
    ]
   },
   {
@@ -3145,83 +3170,79 @@
    "marks": [
     [
      "I",
-     16,
+     44,
      [
       [
-       93,
-       "[Page 183]"
+       94,
+       "[Page 184]"
       ]
      ]
     ],
     [
-     "I",
-     90,
-     [
-      [
-       96,
-       "[Page 184]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 001 (I) - Travel and Transportation Authorities—New Law/§ 00451 - Definitions.md",
-   "printed_pages": [
-    182,
-    184
-   ]
-  },
-  {
-   "id": "37_452",
-   "marks": [
-    [
      "L",
-     64,
+     122,
      "[Page 185]",
      true
     ]
    ],
+   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 001 (I) - Travel and Transportation Authorities—New Law/§ 00451 - Definitions.md",
+   "printed_pages": [
+    183,
+    185
+   ]
+  },
+  {
+   "id": "37_452",
+   "marks": [],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 001 (I) - Travel and Transportation Authorities—New Law/§ 00452 - Allowable travel and transportation general authorities.md",
    "printed_pages": [
-    184,
+    185,
     185
    ]
   },
   {
    "id": "37_453",
-   "marks": [],
-   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 001 (I) - Travel and Transportation Authorities—New Law/§ 00453 - Allowable travel and transportation specific authorities.md",
-   "printed_pages": [
-    185,
-    185
-   ]
-  },
-  {
-   "id": "37_454",
    "marks": [
     [
      "I",
-     4,
+     16,
      [
       [
-       362,
+       89,
        "[Page 186]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 001 (I) - Travel and Transportation Authorities—New Law/§ 00454 - Travel and transportation pilot programs.md",
+   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 001 (I) - Travel and Transportation Authorities—New Law/§ 00453 - Allowable travel and transportation specific authorities.md",
    "printed_pages": [
     185,
     186
    ]
   },
   {
-   "id": "37_455",
+   "id": "37_454",
    "marks": [],
-   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 001 (I) - Travel and Transportation Authorities—New Law/§ 00455 - Appropriations for travel may not be used for attendance at certain meetings.md",
+   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 001 (I) - Travel and Transportation Authorities—New Law/§ 00454 - Travel and transportation pilot programs.md",
    "printed_pages": [
     186,
     186
+   ]
+  },
+  {
+   "id": "37_455",
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 187]",
+     true
+    ]
+   ],
+   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 001 (I) - Travel and Transportation Authorities—New Law/§ 00455 - Appropriations for travel may not be used for attendance at certain meetings.md",
+   "printed_pages": [
+    186,
+    187
    ]
   },
   {
@@ -3229,8 +3250,8 @@
    "marks": [],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 002 (II) - Administrative Provisions/README.md",
    "printed_pages": [
-    186,
-    186
+    187,
+    187
    ]
   },
   {
@@ -3238,23 +3259,16 @@
    "marks": [],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 002 (II) - Administrative Provisions/§ 00461 - Relationship to other travel and transportation authorities.md",
    "printed_pages": [
-    186,
-    186
+    187,
+    187
    ]
   },
   {
    "id": "37_462",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 187]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 002 (II) - Administrative Provisions/§ 00462 - Travel and transportation allowances paid to members that are unauthorized or in excess of authorized amounts requirement for repayment.md",
    "printed_pages": [
-    186,
+    187,
     187
    ]
   },
@@ -3269,11 +3283,22 @@
   },
   {
    "id": "37_464",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       275,
+       "[Page 188]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 002 (II) - Administrative Provisions/§ 00464 - Regulations.md",
    "printed_pages": [
     187,
-    187
+    188
    ]
   },
   {
@@ -3281,8 +3306,8 @@
    "marks": [],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/README.md",
    "printed_pages": [
-    187,
-    187
+    188,
+    188
    ]
   },
   {
@@ -3290,8 +3315,8 @@
    "marks": [],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00471 - Travel authorities transition expiration date.md",
    "printed_pages": [
-    187,
-    187
+    188,
+    188
    ]
   },
   {
@@ -3299,70 +3324,66 @@
    "marks": [],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00472 - Definitions and other incorporated provisions of chapter 7.md",
    "printed_pages": [
-    187,
-    187
+    188,
+    188
    ]
   },
   {
    "id": "37_474",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       137,
-       "[Page 188]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 189]",
+     true
     ],
     [
      "I",
-     76,
+     94,
      [
       [
-       90,
-       "[Page 189]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     136,
-     [
-      [
-       90,
+       96,
        "[Page 190]"
       ]
      ]
     ],
     [
-     "L",
-     234,
-     "[Page 191]",
-     true
-    ],
-    [
      "I",
-     308,
+     140,
      [
       [
-       115,
-       "[Page 192]"
+       2081,
+       "[Page 191]"
       ]
      ]
     ],
     [
      "L",
-     378,
-     "[Page 193]",
+     260,
+     "[Page 192]",
+     true
+    ],
+    [
+     "I",
+     330,
+     [
+      [
+       282,
+       "[Page 193]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     392,
+     "[Page 194]",
      true
     ]
    ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00474 - Travel and transportation allowances general.md",
    "printed_pages": [
-    187,
-    193
+    188,
+    194
    ]
   },
   {
@@ -3370,34 +3391,39 @@
    "marks": [
     [
      "I",
-     28,
+     64,
      [
       [
-       336,
-       "[Page 194]"
+       229,
+       "[Page 195]"
       ]
      ]
-    ],
-    [
-     "L",
-     112,
-     "[Page 195]",
-     true
     ]
    ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00474a - Travel and transportation allowances temporary lodging expenses.md",
    "printed_pages": [
-    193,
+    194,
     195
    ]
   },
   {
    "id": "37_474b",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     30,
+     [
+      [
+       80,
+       "[Page 196]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00474b - Travel and transportation allowances payment of lodging expenses at temporary duty location during authorized absence of member.md",
    "printed_pages": [
     195,
-    195
+    196
    ]
   },
   {
@@ -3405,24 +3431,18 @@
    "marks": [
     [
      "I",
-     16,
+     50,
      [
       [
-       175,
-       "[Page 196]"
+       158,
+       "[Page 197]"
       ]
      ]
-    ],
-    [
-     "L",
-     98,
-     "[Page 197]",
-     true
     ]
    ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00475 - Travel and transportation allowances per diem while on duty outside the continental United States.md",
    "printed_pages": [
-    195,
+    196,
     197
    ]
   },
@@ -3430,139 +3450,130 @@
    "id": "37_475a",
    "marks": [
     [
+     "I",
+     6,
+     [
+      [
+       230,
+       "[Page 198]"
+      ]
+     ]
+    ],
+    [
      "L",
-     28,
-     "[Page 198]",
+     60,
+     "[Page 199]",
      true
     ]
    ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00475a - Travel and transportation allowances departure allowances.md",
    "printed_pages": [
     197,
-    198
+    199
    ]
   },
   {
    "id": "37_476",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 199]",
-     true
-    ],
-    [
      "I",
-     79,
+     42,
      [
       [
-       176,
+       575,
        "[Page 200]"
       ]
      ]
     ],
     [
      "L",
-     103,
+     87,
      "[Page 201]",
      true
     ],
     [
-     "I",
-     137,
-     [
-      [
-       324,
-       "[Page 202]"
-      ]
-     ]
+     "L",
+     123,
+     "[Page 202]",
+     true
     ],
     [
      "I",
-     187,
+     159,
      [
       [
-       92,
+       94,
        "[Page 203]"
       ]
      ]
     ],
     [
-     "I",
-     231,
-     [
-      [
-       2014,
-       "[Page 204]"
-      ]
-     ]
+     "L",
+     213,
+     "[Page 204]",
+     true
     ],
     [
      "I",
-     373,
+     289,
      [
       [
-       114,
+       201,
        "[Page 205]"
       ]
      ]
     ],
     [
      "L",
-     439,
+     407,
      "[Page 206]",
      true
     ],
     [
-     "I",
-     529,
-     [
-      [
-       107,
-       "[Page 207]"
-      ]
-     ]
+     "L",
+     489,
+     "[Page 207]",
+     true
     ],
     [
      "I",
-     591,
+     553,
      [
       [
-       326,
+       110,
        "[Page 208]"
       ]
      ]
     ],
     [
+     "I",
+     631,
+     [
+      [
+       119,
+       "[Page 209]"
+      ]
+     ]
+    ],
+    [
      "L",
-     667,
-     "[Page 209]",
+     697,
+     "[Page 210]",
      true
     ]
    ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00476 - Travel and transportation allowances dependents; baggage and household effects.md",
    "printed_pages": [
-    198,
-    209
+    199,
+    210
    ]
   },
   {
    "id": "37_476a",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       202,
-       "[Page 210]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00476a - Travel and transportation allowances authorized for travel performed under orders that are canceled, revoked, or modified.md",
    "printed_pages": [
-    209,
+    210,
     210
    ]
   },
@@ -3570,10 +3581,14 @@
    "id": "37_476b",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 211]",
-     true
+     "I",
+     2,
+     [
+      [
+       975,
+       "[Page 211]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00476b - Travel and transportation allowances members of the uniformed services attached to a ship overhauling or inactivating.md",
@@ -3587,10 +3602,10 @@
    "marks": [
     [
      "I",
-     54,
+     12,
      [
       [
-       116,
+       95,
        "[Page 212]"
       ]
      ]
@@ -3606,41 +3621,44 @@
    "id": "37_477",
    "marks": [
     [
+     "L",
+     32,
+     "[Page 213]",
+     true
+    ],
+    [
      "I",
-     60,
+     94,
      [
       [
-       93,
-       "[Page 213]"
+       790,
+       "[Page 214]"
       ]
      ]
     ],
     [
-     "L",
-     164,
-     "[Page 214]",
-     true
+     "I",
+     202,
+     [
+      [
+       351,
+       "[Page 215]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00477 - Travel and transportation allowances dislocation allowance.md",
    "printed_pages": [
     212,
-    214
+    215
    ]
   },
   {
    "id": "37_478",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 215]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00478 - Travel and transportation allowances travel within limits of duty station.md",
    "printed_pages": [
-    214,
+    215,
     215
    ]
   },
@@ -3648,10 +3666,14 @@
    "id": "37_478a",
    "marks": [
     [
-     "L",
-     58,
-     "[Page 216]",
-     true
+     "I",
+     4,
+     [
+      [
+       399,
+       "[Page 216]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00478a - Travel and transportation allowances inactive duty training outside of normal commuting distances.md",
@@ -3665,7 +3687,7 @@
    "marks": [
     [
      "L",
-     48,
+     12,
      "[Page 217]",
      true
     ]
@@ -3678,50 +3700,42 @@
   },
   {
    "id": "37_480",
-   "marks": [],
-   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00480 - Travel and transportation allowances miscellaneous categories.md",
-   "printed_pages": [
-    217,
-    217
-   ]
-  },
-  {
-   "id": "37_481",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       89,
-       "[Page 218]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 218]",
+     true
     ]
    ],
-   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481 - Travel and transportation allowances administrative provisions.md",
+   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00480 - Travel and transportation allowances miscellaneous categories.md",
    "printed_pages": [
     217,
     218
    ]
   },
   {
-   "id": "37_481a",
+   "id": "37_481",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       109,
-       "[Page 219]"
-      ]
-     ]
+     "L",
+     72,
+     "[Page 219]",
+     true
     ]
    ],
-   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481a - Travel and transportation allowances travel performed in connection with convalescent leave.md",
+   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481 - Travel and transportation allowances administrative provisions.md",
    "printed_pages": [
     218,
+    219
+   ]
+  },
+  {
+   "id": "37_481a",
+   "marks": [],
+   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481a - Travel and transportation allowances travel performed in connection with convalescent leave.md",
+   "printed_pages": [
+    219,
     219
    ]
   },
@@ -3730,10 +3744,10 @@
    "marks": [
     [
      "I",
-     54,
+     20,
      [
       [
-       116,
+       522,
        "[Page 220]"
       ]
      ]
@@ -3747,50 +3761,42 @@
   },
   {
    "id": "37_481c",
-   "marks": [],
-   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481c - Travel and transportation allowances travel performed in connection with rest and recuperative leave from certain stations in foreign….md",
-   "printed_pages": [
-    220,
-    220
-   ]
-  },
-  {
-   "id": "37_481d",
    "marks": [
     [
-     "I",
+     "L",
      12,
-     [
-      [
-       505,
-       "[Page 221]"
-      ]
-     ]
+     "[Page 221]",
+     true
     ]
    ],
-   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481d - Travel and transportation allowances transportation incident to personal emergencies for certain members and dependents.md",
+   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481c - Travel and transportation allowances travel performed in connection with rest and recuperative leave from certain stations in foreign….md",
    "printed_pages": [
     220,
     221
    ]
   },
   {
-   "id": "37_481e",
+   "id": "37_481d",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       557,
-       "[Page 222]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 222]",
+     true
     ]
    ],
-   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481e - Travel and transportation allowances transportation incident to certain emergencies for members performing temporary duty.md",
+   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481d - Travel and transportation allowances transportation incident to personal emergencies for certain members and dependents.md",
    "printed_pages": [
     221,
+    222
+   ]
+  },
+  {
+   "id": "37_481e",
+   "marks": [],
+   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481e - Travel and transportation allowances transportation incident to certain emergencies for members performing temporary duty.md",
+   "printed_pages": [
+    222,
     222
    ]
   },
@@ -3799,29 +3805,35 @@
    "marks": [
     [
      "I",
-     36,
+     4,
      [
       [
-       76,
+       80,
        "[Page 223]"
       ]
      ]
     ],
     [
      "I",
-     112,
+     72,
      [
       [
-       214,
+       104,
        "[Page 224]"
       ]
      ]
+    ],
+    [
+     "L",
+     140,
+     "[Page 225]",
+     true
     ]
    ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481f - Travel and transportation allowances transportation for survivors of deceased member to attend member's burial ceremonies; transportation….md",
    "printed_pages": [
     222,
-    224
+    225
    ]
   },
   {
@@ -3829,55 +3841,45 @@
    "marks": [
     [
      "L",
-     18,
-     "[Page 225]",
+     48,
+     "[Page 226]",
      true
     ],
     [
-     "I",
-     90,
-     [
-      [
-       110,
-       "[Page 226]"
-      ]
-     ]
-    ],
-    [
      "L",
-     172,
+     134,
      "[Page 227]",
      true
     ]
    ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481h - Travel and transportation allowances transportation of designated individuals incident to hospitalization of members for treatment of….md",
    "printed_pages": [
-    224,
+    225,
     227
    ]
   },
   {
    "id": "37_481i",
-   "marks": [],
-   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481i - Travel and transportation allowances parking expenses.md",
-   "printed_pages": [
-    227,
-    227
-   ]
-  },
-  {
-   "id": "37_481j",
    "marks": [
     [
      "L",
-     36,
+     20,
      "[Page 228]",
      true
     ]
    ],
-   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481j - Travel and transportation allowances transportation of family members incident to the repatriation of members held captive.md",
+   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481i - Travel and transportation allowances parking expenses.md",
    "printed_pages": [
     227,
+    228
+   ]
+  },
+  {
+   "id": "37_481j",
+   "marks": [],
+   "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481j - Travel and transportation allowances transportation of family members incident to the repatriation of members held captive.md",
+   "printed_pages": [
+    228,
     228
    ]
   },
@@ -3886,7 +3888,7 @@
    "marks": [
     [
      "L",
-     54,
+     12,
      "[Page 229]",
      true
     ]
@@ -3899,11 +3901,18 @@
   },
   {
    "id": "37_481l",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 230]",
+     true
+    ]
+   ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00481l - Travel and transportation allowances attendance of members and other persons at Yellow Ribbon Reintegration Program events.md",
    "printed_pages": [
     229,
-    229
+    230
    ]
   },
   {
@@ -3911,31 +3920,35 @@
    "marks": [
     [
      "I",
-     2,
+     20,
      [
       [
-       409,
-       "[Page 230]"
+       566,
+       "[Page 231]"
       ]
      ]
     ],
     [
      "L",
-     42,
-     "[Page 231]",
+     106,
+     "[Page 232]",
      true
     ],
     [
-     "L",
-     140,
-     "[Page 232]",
-     true
+     "I",
+     178,
+     [
+      [
+       117,
+       "[Page 233]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00484 - Travel and transportation; dependents; household and personal effects; trailers; additional movements; motor vehicles; sale of bulky….md",
    "printed_pages": [
-    229,
-    232
+    230,
+    233
    ]
   },
   {
@@ -3943,8 +3956,8 @@
    "marks": [],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00488 - Allowance for recruiting expenses.md",
    "printed_pages": [
-    232,
-    232
+    233,
+    233
    ]
   },
   {
@@ -3952,19 +3965,19 @@
    "marks": [
     [
      "I",
-     10,
+     36,
      [
       [
-       152,
-       "[Page 233]"
+       163,
+       "[Page 234]"
       ]
      ]
     ]
    ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00489 - Travel and transportation allowances minor dependent schooling.md",
    "printed_pages": [
-    232,
-    233
+    233,
+    234
    ]
   },
   {
@@ -3972,50 +3985,58 @@
    "marks": [
     [
      "I",
-     28,
+     62,
      [
       [
-       187,
-       "[Page 234]"
+       80,
+       "[Page 235]"
       ]
      ]
     ],
     [
-     "L",
-     122,
-     "[Page 235]",
-     true
+     "I",
+     144,
+     [
+      [
+       116,
+       "[Page 236]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00490 - Travel and transportation dependent children of members stationed overseas.md",
    "printed_pages": [
-    233,
-    235
+    234,
+    236
    ]
   },
   {
    "id": "37_491",
-   "marks": [
-    [
-     "L",
-     48,
-     "[Page 236]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00491 - Benefits for certain members assigned to the Defense Intelligence Agency.md",
    "printed_pages": [
-    235,
+    236,
     236
    ]
   },
   {
    "id": "37_492",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       116,
+       "[Page 237]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00492 - Travel and transportation members escorting certain dependents.md",
    "printed_pages": [
     236,
-    236
+    237
    ]
   },
   {
@@ -4023,23 +4044,16 @@
    "marks": [],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00494 - Subsistence reimbursement relating to escorts of foreign arms control inspection teams.md",
    "printed_pages": [
-    236,
-    236
+    237,
+    237
    ]
   },
   {
    "id": "37_495",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 237]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - Travel and Transportation Allowances/Subchapter 003 (III) - Travel and Transportation Authorities—Old Law/§ 00495 - Funeral honors duty allowance.md",
    "printed_pages": [
-    236,
+    237,
     237
    ]
   },
@@ -4056,32 +4070,42 @@
    "id": "37_501",
    "marks": [
     [
+     "L",
+     4,
+     "[Page 238]",
+     true
+    ],
+    [
      "I",
-     36,
+     46,
      [
       [
-       410,
-       "[Page 238]"
+       570,
+       "[Page 239]"
       ]
      ]
     ],
     [
      "L",
-     124,
-     "[Page 239]",
+     148,
+     "[Page 240]",
      true
     ],
     [
-     "L",
-     202,
-     "[Page 240]",
-     true
+     "I",
+     224,
+     [
+      [
+       170,
+       "[Page 241]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 009 - Leave/§ 00501 - Payments for unused accrued leave.md",
    "printed_pages": [
     237,
-    240
+    241
    ]
   },
   {
@@ -4089,19 +4113,19 @@
    "marks": [
     [
      "I",
-     4,
+     46,
      [
       [
-       138,
-       "[Page 241]"
+       109,
+       "[Page 242]"
       ]
      ]
     ]
    ],
    "path": "Chapter 009 - Leave/§ 00502 - Absences due to sickness, wounds, and certain other causes.md",
    "printed_pages": [
-    240,
-    241
+    241,
+    242
    ]
   },
   {
@@ -4109,52 +4133,45 @@
    "marks": [],
    "path": "Chapter 009 - Leave/§ 00503 - Absence without leave or over leave.md",
    "printed_pages": [
-    241,
-    241
+    242,
+    242
    ]
   },
   {
    "id": "37_504",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       129,
-       "[Page 242]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Leave/§ 00504 - Cadets and midshipmen chapter does not apply to.md",
    "printed_pages": [
-    241,
+    242,
     242
    ]
   },
   {
    "id": "37_-ch10",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     11,
+     [
+      [
+       31,
+       "[Page 243]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 010 - Payments to Missing Persons/README.md",
    "printed_pages": [
     242,
-    242
+    243
    ]
   },
   {
    "id": "37_551",
-   "marks": [
-    [
-     "L",
-     82,
-     "[Page 243]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Payments to Missing Persons/§ 00551 - Definitions.md",
    "printed_pages": [
-    242,
+    243,
     243
    ]
   },
@@ -4162,20 +4179,22 @@
    "id": "37_552",
    "marks": [
     [
-     "I",
-     72,
-     [
-      [
-       153,
-       "[Page 244]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 244]",
+     true
+    ],
+    [
+     "L",
+     92,
+     "[Page 245]",
+     true
     ]
    ],
    "path": "Chapter 010 - Payments to Missing Persons/§ 00552 - Pay and allowances; continuance while in a missing status; limitations.md",
    "printed_pages": [
     243,
-    244
+    245
    ]
   },
   {
@@ -4183,19 +4202,19 @@
    "marks": [
     [
      "I",
-     54,
+     94,
      [
       [
-       40,
-       "[Page 245]"
+       266,
+       "[Page 246]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Payments to Missing Persons/§ 00553 - Allotments; continuance, suspension, initiation, resumption, or increase while in a missing status; limitations.md",
    "printed_pages": [
-    244,
-    245
+    245,
+    246
    ]
   },
   {
@@ -4203,8 +4222,8 @@
    "marks": [],
    "path": "Chapter 010 - Payments to Missing Persons/§ 00554 - Renumbered §484.md",
    "printed_pages": [
-    245,
-    245
+    246,
+    246
    ]
   },
   {
@@ -4212,35 +4231,39 @@
    "marks": [
     [
      "I",
-     26,
+     62,
      [
       [
-       105,
-       "[Page 246]"
+       165,
+       "[Page 247]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Payments to Missing Persons/§ 00555 - Secretarial review.md",
    "printed_pages": [
-    245,
-    246
+    246,
+    247
    ]
   },
   {
    "id": "37_556",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 247]",
-     true
+     "I",
+     54,
+     [
+      [
+       134,
+       "[Page 248]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Payments to Missing Persons/§ 00556 - Secretarial determinations.md",
    "printed_pages": [
-    246,
-    247
+    247,
+    248
    ]
   },
   {
@@ -4248,15 +4271,15 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 248]",
+     16,
+     "[Page 249]",
      true
     ]
    ],
    "path": "Chapter 010 - Payments to Missing Persons/§ 00557 - Settlement of accounts.md",
    "printed_pages": [
-    247,
-    248
+    248,
+    249
    ]
   },
   {
@@ -4264,67 +4287,63 @@
    "marks": [],
    "path": "Chapter 010 - Payments to Missing Persons/§ 00558 - Income tax deferment.md",
    "printed_pages": [
-    248,
-    248
+    249,
+    249
    ]
   },
   {
    "id": "37_559",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       227,
-       "[Page 249]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 250]",
+     true
     ],
     [
      "I",
-     86,
+     102,
      [
       [
-       104,
-       "[Page 250]"
+       109,
+       "[Page 251]"
       ]
      ]
     ]
    ],
    "path": "Chapter 010 - Payments to Missing Persons/§ 00559 - Benefits for members held as captives.md",
    "printed_pages": [
-    248,
-    250
+    249,
+    251
    ]
   },
   {
    "id": "37_-ch11",
-   "marks": [
-    [
-     "I",
-     7,
-     [
-      [
-       43,
-       "[Page 251]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 011 - Payments to Mentally Incompetent Persons/README.md",
    "printed_pages": [
-    250,
+    251,
     251
    ]
   },
   {
    "id": "37_601",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     24,
+     [
+      [
+       597,
+       "[Page 252]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 011 - Payments to Mentally Incompetent Persons/§ 00601 - Applicability.md",
    "printed_pages": [
     251,
-    251
+    252
    ]
   },
   {
@@ -4332,19 +4351,19 @@
    "marks": [
     [
      "I",
-     76,
+     96,
      [
       [
-       101,
-       "[Page 252]"
+       158,
+       "[Page 253]"
       ]
      ]
     ]
    ],
    "path": "Chapter 011 - Payments to Mentally Incompetent Persons/§ 00602 - Payments designation of person to receive amounts due.md",
    "printed_pages": [
-    251,
-    252
+    252,
+    253
    ]
   },
   {
@@ -4352,8 +4371,8 @@
    "marks": [],
    "path": "Chapter 011 - Payments to Mentally Incompetent Persons/§ 00603 - Regulations.md",
    "printed_pages": [
-    252,
-    252
+    253,
+    253
    ]
   },
   {
@@ -4361,8 +4380,8 @@
    "marks": [],
    "path": "Chapter 011 - Payments to Mentally Incompetent Persons/§ 00604 - Determination of Secretary final.md",
    "printed_pages": [
-    252,
-    252
+    253,
+    253
    ]
   },
   {
@@ -4370,24 +4389,28 @@
    "marks": [],
    "path": "Chapter 013 - Allotments and Assignments of Pay/README.md",
    "printed_pages": [
-    252,
-    252
+    253,
+    253
    ]
   },
   {
    "id": "37_701",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 253]",
-     true
+     "I",
+     10,
+     [
+      [
+       439,
+       "[Page 254]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Allotments and Assignments of Pay/§ 00701 - Members of the Army, Navy, Air Force, and Marine Corps; contract surgeons.md",
    "printed_pages": [
-    252,
-    253
+    253,
+    254
    ]
   },
   {
@@ -4395,33 +4418,33 @@
    "marks": [],
    "path": "Chapter 013 - Allotments and Assignments of Pay/§ 00702 - Repealed. Pub. L. 99–145, title VI, §683(b)(1), Nov. 8, 1985, 99 Stat. 665.md",
    "printed_pages": [
-    253,
-    253
+    254,
+    254
    ]
   },
   {
    "id": "37_703",
-   "marks": [
-    [
-     "L",
-     32,
-     "[Page 254]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Allotments and Assignments of Pay/§ 00703 - Allotments members of Coast Guard.md",
    "printed_pages": [
-    253,
+    254,
     254
    ]
   },
   {
    "id": "37_704",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 255]",
+     true
+    ]
+   ],
    "path": "Chapter 013 - Allotments and Assignments of Pay/§ 00704 - Allotments officers of Public Health Service.md",
    "printed_pages": [
     254,
-    254
+    255
    ]
   },
   {
@@ -4429,8 +4452,8 @@
    "marks": [],
    "path": "Chapter 013 - Allotments and Assignments of Pay/§ 00705 - Repealed. Pub. L. 99–145, title VI, §683(b)(1), Nov. 8, 1985, 99 Stat. 665.md",
    "printed_pages": [
-    254,
-    254
+    255,
+    255
    ]
   },
   {
@@ -4438,8 +4461,8 @@
    "marks": [],
    "path": "Chapter 013 - Allotments and Assignments of Pay/§ 00706 - Allotments commissioned officers of the National Oceanic and Atmospheric Administration.md",
    "printed_pages": [
-    254,
-    254
+    255,
+    255
    ]
   },
   {
@@ -4447,15 +4470,15 @@
    "marks": [
     [
      "L",
-     34,
-     "[Page 255]",
+     42,
+     "[Page 256]",
      true
     ]
    ],
    "path": "Chapter 013 - Allotments and Assignments of Pay/§ 00707 - Allotments members of the National Guard.md",
    "printed_pages": [
-    254,
-    255
+    255,
+    256
    ]
   },
   {
@@ -4463,8 +4486,8 @@
    "marks": [],
    "path": "Chapter 015 - Prohibitions and Penalties/README.md",
    "printed_pages": [
-    255,
-    255
+    256,
+    256
    ]
   },
   {
@@ -4472,8 +4495,8 @@
    "marks": [],
    "path": "Chapter 015 - Prohibitions and Penalties/§ 00801 - Repealed. Pub. L. 103–355, title VI, §6001(a)(1), Oct. 13, 1994, 108 Stat. 3362.md",
    "printed_pages": [
-    255,
-    255
+    256,
+    256
    ]
   },
   {
@@ -4481,8 +4504,8 @@
    "marks": [],
    "path": "Chapter 015 - Prohibitions and Penalties/§ 00802 - Forfeiture of pay during absence from duty due to disease from intemperate use of alcohol or drugs.md",
    "printed_pages": [
-    255,
-    255
+    256,
+    256
    ]
   },
   {
@@ -4490,8 +4513,8 @@
    "marks": [],
    "path": "Chapter 015 - Prohibitions and Penalties/§ 00803 - Commissioned officers of Army or Air Force forfeiture of pay when dropped from rolls.md",
    "printed_pages": [
-    255,
-    255
+    256,
+    256
    ]
   },
   {
@@ -4499,8 +4522,8 @@
    "marks": [],
    "path": "Chapter 015 - Prohibitions and Penalties/§ 00804 - Repealed. Pub. L. 104–106, div. A, title XI, §1122(c)(1), Feb. 10, 1996, 110 Stat. 463.md",
    "printed_pages": [
-    255,
-    255
+    256,
+    256
    ]
   },
   {
@@ -4508,28 +4531,24 @@
    "marks": [],
    "path": "Chapter 015 - Prohibitions and Penalties/§ 00805 - Repealed. Pub. L. 99–145, title VI, §683(b)(1), Nov. 8, 1985, 99 Stat. 665.md",
    "printed_pages": [
-    255,
-    255
+    256,
+    256
    ]
   },
   {
    "id": "37_-ch17",
    "marks": [
     [
-     "I",
-     11,
-     [
-      [
-       76,
-       "[Page 256]"
-      ]
-     ]
+     "L",
+     27,
+     "[Page 257]",
+     true
     ]
    ],
    "path": "Chapter 017 - Miscellaneous Rights and Benefits/README.md",
    "printed_pages": [
-    255,
-    256
+    256,
+    257
    ]
   },
   {
@@ -4537,8 +4556,8 @@
    "marks": [],
    "path": "Chapter 017 - Miscellaneous Rights and Benefits/§ 00901 - Wartime pay of officer of armed force exercising command higher than his grade.md",
    "printed_pages": [
-    256,
-    256
+    257,
+    257
    ]
   },
   {
@@ -4546,37 +4565,37 @@
    "marks": [],
    "path": "Chapter 017 - Miscellaneous Rights and Benefits/§ 00902 - Pay of crews of wrecked or lost naval vessels.md",
    "printed_pages": [
-    256,
-    256
+    257,
+    257
    ]
   },
   {
    "id": "37_903",
-   "marks": [
-    [
-     "I",
-     20,
-     [
-      [
-       272,
-       "[Page 257]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - Miscellaneous Rights and Benefits/§ 00903 - Retired members recalled to active duty; former members.md",
    "printed_pages": [
-    256,
+    257,
     257
    ]
   },
   {
    "id": "37_[904",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       224,
+       "[Page 258]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 017 - Miscellaneous Rights and Benefits/§ 00904 - Repealed. Pub. L. 96–513, title IV, §403(a), Dec. 12, 1980, 94 Stat. 2904.md",
    "printed_pages": [
     257,
-    257
+    258
    ]
   },
   {
@@ -4584,23 +4603,16 @@
    "marks": [],
    "path": "Chapter 017 - Miscellaneous Rights and Benefits/§ 00905 - Reserve officers of the Navy or Marine Corps not on the active-duty list effective date of pay and allowances.md",
    "printed_pages": [
-    257,
-    257
+    258,
+    258
    ]
   },
   {
    "id": "37_906",
-   "marks": [
-    [
-     "L",
-     38,
-     "[Page 258]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - Miscellaneous Rights and Benefits/§ 00906 - Extension of enlistment effect on pay and allowances.md",
    "printed_pages": [
-    257,
+    258,
     258
    ]
   },
@@ -4609,15 +4621,25 @@
    "marks": [
     [
      "L",
-     82,
+     6,
      "[Page 259]",
      true
+    ],
+    [
+     "I",
+     100,
+     [
+      [
+       217,
+       "[Page 260]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 017 - Miscellaneous Rights and Benefits/§ 00907 - Enlisted members and warrant officers appointed as officers pay and allowances stabilized.md",
    "printed_pages": [
     258,
-    259
+    260
    ]
   },
   {
@@ -4625,48 +4647,40 @@
    "marks": [],
    "path": "Chapter 017 - Miscellaneous Rights and Benefits/§ 00908 - Employment of reserves and retired members by foreign governments.md",
    "printed_pages": [
-    259,
-    259
+    260,
+    260
    ]
   },
   {
    "id": "37_909",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       82,
-       "[Page 260]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 261]",
+     true
     ]
    ],
    "path": "Chapter 017 - Miscellaneous Rights and Benefits/§ 00909 - Special and incentive pay payment at unreduced rates during suspension of personnel laws.md",
    "printed_pages": [
-    259,
-    260
+    260,
+    261
    ]
   },
   {
    "id": "37_910",
    "marks": [
     [
-     "I",
-     62,
-     [
-      [
-       627,
-       "[Page 261]"
-      ]
-     ]
+     "L",
+     78,
+     "[Page 262]",
+     true
     ]
    ],
    "path": "Chapter 017 - Miscellaneous Rights and Benefits/§ 00910 - Replacement of lost income involuntarily mobilized reserve component members subject to extended and frequent active duty service.md",
    "printed_pages": [
-    260,
-    261
+    261,
+    262
    ]
   },
   {
@@ -4674,8 +4688,8 @@
    "marks": [],
    "path": "Chapter 019 - Administration/README.md",
    "printed_pages": [
-    261,
-    261
+    262,
+    262
    ]
   },
   {
@@ -4683,39 +4697,35 @@
    "marks": [
     [
      "I",
-     4,
+     8,
      [
       [
-       93,
-       "[Page 262]"
+       159,
+       "[Page 263]"
       ]
      ]
     ]
    ],
    "path": "Chapter 019 - Administration/§ 01001 - Regulations relating to pay and allowances.md",
    "printed_pages": [
-    261,
-    262
+    262,
+    263
    ]
   },
   {
    "id": "37_1002",
    "marks": [
     [
-     "I",
-     46,
-     [
-      [
-       145,
-       "[Page 263]"
-      ]
-     ]
+     "L",
+     62,
+     "[Page 264]",
+     true
     ]
    ],
    "path": "Chapter 019 - Administration/§ 01002 - Additional training or duty without pay Reserves and members of National Guard.md",
    "printed_pages": [
-    262,
-    263
+    263,
+    264
    ]
   },
   {
@@ -4723,8 +4733,8 @@
    "marks": [],
    "path": "Chapter 019 - Administration/§ 01003 - Assimilation of pay and allowances.md",
    "printed_pages": [
-    263,
-    263
+    264,
+    264
    ]
   },
   {
@@ -4732,8 +4742,8 @@
    "marks": [],
    "path": "Chapter 019 - Administration/§ 01004 - Computation of pay and allowances for month or part of month.md",
    "printed_pages": [
-    263,
-    263
+    264,
+    264
    ]
   },
   {
@@ -4741,8 +4751,8 @@
    "marks": [],
    "path": "Chapter 019 - Administration/§ 01005 - Army and Air Force prompt payments required.md",
    "printed_pages": [
-    263,
-    263
+    264,
+    264
    ]
   },
   {
@@ -4750,67 +4760,67 @@
    "marks": [
     [
      "I",
-     10,
+     12,
      [
       [
-       453,
-       "[Page 264]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     76,
-     [
-      [
-       476,
+       189,
        "[Page 265]"
       ]
      ]
     ],
     [
      "L",
-     170,
+     88,
      "[Page 266]",
      true
+    ],
+    [
+     "I",
+     176,
+     [
+      [
+       166,
+       "[Page 267]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Administration/§ 01006 - Advance payments.md",
    "printed_pages": [
-    263,
-    266
+    264,
+    267
    ]
   },
   {
    "id": "37_1007",
    "marks": [
     [
-     "L",
-     38,
-     "[Page 267]",
-     true
-    ],
-    [
-     "L",
-     174,
-     "[Page 268]",
-     true
-    ],
-    [
      "I",
-     260,
+     42,
      [
       [
-       107,
-       "[Page 269]"
+       96,
+       "[Page 268]"
       ]
      ]
+    ],
+    [
+     "L",
+     178,
+     "[Page 269]",
+     true
+    ],
+    [
+     "L",
+     262,
+     "[Page 270]",
+     true
     ]
    ],
    "path": "Chapter 019 - Administration/§ 01007 - Deductions from pay.md",
    "printed_pages": [
-    266,
-    269
+    267,
+    270
    ]
   },
   {
@@ -4818,8 +4828,8 @@
    "marks": [],
    "path": "Chapter 019 - Administration/§ 01008 - Presidential recommendations concerning adjustments and changes in pay and allowances.md",
    "printed_pages": [
-    269,
-    269
+    270,
+    270
    ]
   },
   {
@@ -4830,22 +4840,22 @@
      40,
      [
       [
-       92,
-       "[Page 270]"
+       370,
+       "[Page 271]"
       ]
      ]
     ],
     [
      "L",
-     114,
-     "[Page 271]",
+     122,
+     "[Page 272]",
      true
     ]
    ],
    "path": "Chapter 019 - Administration/§ 01009 - Adjustments of monthly basic pay.md",
    "printed_pages": [
-    269,
-    271
+    270,
+    272
    ]
   },
   {
@@ -4853,8 +4863,8 @@
    "marks": [],
    "path": "Chapter 019 - Administration/§ 01010 - Commissioned officers promotions; effective date for pay and allowances.md",
    "printed_pages": [
-    271,
-    271
+    272,
+    272
    ]
   },
   {
@@ -4862,19 +4872,19 @@
    "marks": [
     [
      "I",
-     4,
+     6,
      [
       [
-       281,
-       "[Page 272]"
+       91,
+       "[Page 273]"
       ]
      ]
     ]
    ],
    "path": "Chapter 019 - Administration/§ 01011 - Mess operation reimbursement of expenses.md",
    "printed_pages": [
-    271,
-    272
+    272,
+    273
    ]
   },
   {
@@ -4882,33 +4892,37 @@
    "marks": [],
    "path": "Chapter 019 - Administration/§ 01012 - Disbursement and accounting pay of enlisted members of the National Guard.md",
    "printed_pages": [
-    272,
-    272
+    273,
+    273
    ]
   },
   {
    "id": "37_1013",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 273]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 019 - Administration/§ 01013 - Payment of compensation for victims of terrorism.md",
    "printed_pages": [
-    272,
+    273,
     273
    ]
   },
   {
    "id": "37_1014",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       91,
+       "[Page 274]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 019 - Administration/§ 01014 - Payment date for pay and allowances.md",
    "printed_pages": [
     273,
-    273
+    274
    ]
   },
   {
@@ -4916,11 +4930,11 @@
    "marks": [],
    "path": "Chapter 019 - Administration/§ 01015 - Recordation of installment payment obligations for incentive pays and similar benefits.md",
    "printed_pages": [
-    273,
-    273
+    274,
+    274
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2017-title37 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2018-title37 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 37 - Pay and Allowances of the Uniformed Services"
 }

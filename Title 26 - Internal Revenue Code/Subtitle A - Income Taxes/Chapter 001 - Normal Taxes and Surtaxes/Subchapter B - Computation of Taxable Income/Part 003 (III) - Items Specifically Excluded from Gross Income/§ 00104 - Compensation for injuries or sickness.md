@@ -40,7 +40,7 @@ Except in the case of amounts attributable to (and not in excess of) deductions 
 
 &emsp;&emsp;(C) he receives an amount described in subsection (a)(4) by reason of a combat-related injury, or
 
-&emsp;&emsp;(D) on application therefor, he would be entitled to receive disability compensation from the Veterans' Administration.
+&emsp;&emsp;(D) on application therefor, he would be entitled to receive disability compensation from the Department of Veterans Affairs.
 
 #### (3) Special rules for combat-related injuries
 
@@ -78,7 +78,7 @@ The phrase "(other than punitive damages)" shall not apply to punitive damages a
 
 &emsp;&emsp;<b>(2) For exclusion of part of disability retirement pay from the application of subsection (a)(4) of this section, see section 1403 of title 10, United States Code (relating to career compensation laws).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 30; Pub. L. 86–723, §51, Sept. 8, 1960, 74 Stat. 847; Pub. L. 87–792, §7(d), Oct. 10, 1962, 76 Stat. 829; Pub. L. 94–455, title V, §505(b), (e)(1), title XIX, §1901(a)(18), Oct. 4, 1976, 90 Stat. 1567, 1568, 1766; Pub. L. 96–465, title II, §2206(e)(1), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 97–473, title I, §101(a), Jan. 14, 1983, 96 Stat. 2605; Pub. L. 101–239, title VII, §7641(a), Dec. 19, 1989, 103 Stat. 2379; Pub. L. 104–188, title I, §1605(a)–(c), Aug. 20, 1996, 110 Stat. 1838; Pub. L. 104–191, title III, §311(b), Aug. 21, 1996, 110 Stat. 2053; Pub. L. 107–134, title I, §113(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 114–14, §2, May 22, 2015, 129 Stat. 198.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 30; Pub. L. 86–723, §51, Sept. 8, 1960, 74 Stat. 847; Pub. L. 87–792, §7(d), Oct. 10, 1962, 76 Stat. 829; Pub. L. 94–455, title V, §505(b), (e)(1), title XIX, §1901(a)(18), Oct. 4, 1976, 90 Stat. 1567, 1568, 1766; Pub. L. 96–465, title II, §2206(e)(1), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 97–473, title I, §101(a), Jan. 14, 1983, 96 Stat. 2605; Pub. L. 101–239, title VII, §7641(a), Dec. 19, 1989, 103 Stat. 2379; Pub. L. 104–188, title I, §1605(a)–(c), Aug. 20, 1996, 110 Stat. 1838; Pub. L. 104–191, title III, §311(b), Aug. 21, 1996, 110 Stat. 2053; Pub. L. 107–134, title I, §113(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 114–14, §2, May 22, 2015, 129 Stat. 198; Pub. L. 115–141, div. U, title IV, §401(a)(2)(A), Mar. 23, 2018, 132 Stat. 1184.)
 
 #### References in Text
 
@@ -87,6 +87,8 @@ Section 808 of the Foreign Service Act of 1980, referred to in subsec. (a)(4), i
 Section 1201 of the Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (a)(6)(A), was classified to section 3796 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as section 10281 of Title 34, Crime Control and Law Enforcement.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2)(D). Pub. L. 115–141 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
 <b>2015</b>—Subsec. (a)(6). Pub. L. 114–14 added par. (6).
 
@@ -124,11 +126,11 @@ Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to f
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–134, title I, §113(c), Jan. 23, 2002, 115 Stat. 2435, provided that: "The amendments made by this section \[amending this section and section 692 of this title\] shall apply to taxable years ending on or after September 11, 2001."
+Pub. L. 107–134, title I, §113(c), Jan. 23, 2002, 115 Stat. 2435, provided that: "The amendments made by thissection \[amending this section and section 692 of this title\] shall apply to taxable years ending on or after September 11, 2001."
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–191, title III, §311(c), Aug. 21, 1996, 110 Stat. 2053, provided that: "The amendments made bythis section \[amending this section and section 162 of this title\] shall apply to taxable years beginning after December 31, 1996."
+Pub. L. 104–191, title III, §311(c), Aug. 21, 1996, 110 Stat. 2053, provided that: "The amendments made by this section \[amending this section and section 162 of this title\] shall apply to taxable years beginning after December 31, 1996."
 
 Pub. L. 104–188, title I, §1605(d), Aug. 20, 1996, 110 Stat. 1839, provided that:
 

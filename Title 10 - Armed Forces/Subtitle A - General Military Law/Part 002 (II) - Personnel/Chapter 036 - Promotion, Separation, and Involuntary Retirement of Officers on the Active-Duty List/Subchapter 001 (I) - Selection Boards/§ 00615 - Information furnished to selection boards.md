@@ -102,11 +102,11 @@ Pub. L. 102–190, div. A, title V, §504(e), Dec. 5, 1991, 105 Stat. 1358, prov
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–456, div. A, title V, §501(e), Sept. 29, 1988, 102 Stat. 1966, provided that: "The amendments made by this section \[amending this section and sections 616 to 618 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Sept. 29, 1988\] andshall apply with respect to selection boards convened under section 611(a) of title 10, United States Code, on or after that effective date."
+Pub. L. 100–456, div. A, title V, §501(e), Sept. 29, 1988, 102 Stat. 1966, provided that: "The amendments made by this section \[amending this section and sections 616 to 618 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Sept. 29, 1988\] and shall apply with respect to selection boards convened under section 611(a) of title 10, United States Code, on or after that effective date."
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–433 effective with respect to selection boards convened under section 611(a) of this title after end of 120-day period beginning on Oct. 1, 1986, see section 406(f) of Pub. L. 99–433, set out as a note under section 612 of this title.
+Amendment by Pub. L. 99–433 effective with respect to selection boards convened under section 611(a) of this title after end of 120-day period beginning on Oct.1, 1986, see section 406(f) of Pub. L. 99–433, set out as a note under section 612 of this title.
 
 #### Effective Date
 

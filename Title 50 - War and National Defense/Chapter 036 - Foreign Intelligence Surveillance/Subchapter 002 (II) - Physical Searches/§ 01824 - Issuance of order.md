@@ -2,13 +2,13 @@
 
 #### (a) Necessary findings
 
-Upon an application made pursuant to section 1823 of this title, the judge shall enter an ex parte order as requested or as modified approving the physical search if the judge finds that—
+Upon an application made pursuant to section 1823 of this title, the judge shall enter an exparte order as requested or as modified approving the physical search if the judge finds that—
 
 &emsp;(1) the application has been made by a Federal officer and approved by the Attorney General;
 
 &emsp;(2) on the basis of the facts submitted by the applicant there is probable cause to believe that—
 
-&emsp;&emsp;(A) the target of the physical search is a foreign power or an agent of a foreign power, except that no United States person may be considered an agent of a foreign power solely upon the basis of activities protected by thefirst amendment to the Constitution of the United States; and
+&emsp;&emsp;(A) the target of the physical search is a foreign power or an agent of a foreign power, except that no United States person may be considered an agent of a foreign power solely upon the basis of activities protected by the first amendment to the Constitution of the United States; and
 
 &emsp;&emsp;(B) the premises or property to be searched is or is about to be owned, used, possessed by, or is in transit to or from an agent of a foreign power or a foreign power;
 
@@ -64,11 +64,11 @@ An order approving a physical search under this section shall—
 
 &emsp;(B) reasonably determines that the factual basis for issuance of an order under this subchapter to approve such physical search exists;
 
-&emsp;(C) informs, either personally or through a designee, a judge of the Foreign Intelligence Surveillance Court at the time of such authorization that the decision has been made to employ an emergency physical search; and
+&emsp;(C) informs, either personally or through a designee, a judge of the Foreign IntelligenceSurveillance Court at the time of such authorization that the decision has been made to employ an emergency physical search; and
 
 &emsp;(D) makes an application in accordance with this subchapter to a judge of the Foreign Intelligence Surveillance Court as soon as practicable, but not more than 7 days after the Attorney General authorizes such physical search.
 
-(2) If the Attorney General authorizes the emergency employment of a physical search under paragraph (1), the Attorney General shallrequire that the minimization procedures required by this subchapter for the issuance of a judicial order be followed.
+(2) If the Attorney General authorizes the emergency employment of a physical search under paragraph (1), the Attorney General shall require that the minimization procedures required by this subchapter for the issuance of a judicial order be followed.
 
 (3) In the absence of a judicial order approving such physical search, the physical search shall terminate when the information sought is obtained, when the application for the order is denied, or after the expiration of 7 days from the time of authorization by the Attorney General, whichever is earliest.
 
@@ -121,4 +121,8 @@ Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in se
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+
+#### Effective Date
+
+Section effective 90 days after Oct. 14, 1994, with exception for certain physical searches approved by the Attorney General to gather foreign intelligence information, see section 807(c) of Pub. L. 103–359, set out as a note under section 1821 of this title.
 

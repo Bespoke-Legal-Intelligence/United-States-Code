@@ -6,7 +6,7 @@
 
 &emsp;(2) notwithstanding paragraph (1), the President (and only the President) may direct a person who serves in an office for which appointment is required to be made by the President, by and with the advice and consent of the Senate, to perform the functions and duties of the vacant office temporarily in an acting capacity subject to the time limitations of section 3346; or
 
-&emsp;(3) notwithstanding paragraph (1), the President (and only the President) may direct anofficer or employee of such Executive agency to perform the functions and duties of the vacant office temporarily in an acting capacity, subject to the time limitations of section 3346, if—
+&emsp;(3) notwithstanding paragraph (1), the President (and only the President) may direct an officer or employee of such Executive agency to perform the functions and duties of the vacant office temporarily in an acting capacity, subject to the time limitations of section 3346, if—
 
 &emsp;&emsp;(A) during the 365-day period preceding the date of death, resignation, or beginning of inability to serve of the applicable officer, the officer or employee served in a position in such agency for not less than 90 days; and
 
@@ -70,7 +70,7 @@ Immediate application of time limitation.—Notwithstanding subparagraph (A), fo
 
 &emsp;"(C)
 
-Certain nominations.—If the President submits to the Senate the nomination of any person after the effective date of this section for an office for which such person had been nominated before such date, the next nomination of such person after such date shall be considered a first nomination of such person to that office for purposes of sections 3345 through 3349 and section 3349d of title 5, United States Code (as amended by this section)."
+Certain nominations.—If the President submits to the Senate the nomination of any personafter the effective date of this section for an office for which such person had been nominated before such date, the next nomination of such person after such date shall be considered a first nomination of such person to that office for purposes of sections 3345 through 3349 and section 3349d of title 5, United States Code (as amended by this section)."
 
 #### Ex. Ord. No. 13472. Executive Branch Responsibilities With Respect To Orders of Succession
 
@@ -94,7 +94,7 @@ Sec. 3. <i>Orders of Succession Requiring Presidential Action.</i>
 
 (a) Each agency for which presidential action is required to establish an order of succession shall draft a proposed order of succession if no such order exists and, not later than 30 days from the date of this order, send such proposed draft order to the Counsel to the President for review and comment.
 
-(b) Each agency described in subsection 3(a) of this order shall send any proposed updates or revisions tothe agency's order of succession to the Counsel to the President for review and comment.
+(b) Each agency described in subsection 3(a) of this order shall send any proposed updates or revisions to the agency's order of succession to the Counsel to the President for review and comment.
 
 (c) Upon completion of the requirements set forth by subsections (a) or (b) of this section with respect to a proposed order, the agency shall submit the proposed order to the Office of Management and Budget in accordance with Executive Order 11030, as amended.
 
@@ -164,7 +164,7 @@ Ex. Ord. No. 13250, Dec. 28, 2001, 67 F.R. 1597, as amended by Ex. Ord. No. 1326
 
 #### Department of Homeland Security
 
-For order of succession within the Department of Homeland Security, see Ex. Ord. No. 13286, §88, Feb. 28, 2003, 68 F.R. 10632, as amended, set out as a note under section 111 of Title 6, Domestic Security.
+For order of succession within the Department of Homeland Security, see Ex. Ord. No. 13286, §88, Feb. 28,2003, 68 F.R. 10632, as amended, set out as a note under section 111 of Title 6, Domestic Security.
 
 #### Department of Housing and Urban Development
 
@@ -302,7 +302,7 @@ Memorandum of President of the United States, Aug. 12, 2016, 81 F.R. 54715.
 
 Memorandum of President of the United States, May 21, 2012, 77 F.R. 31165, revoked by Memorandum of President of the United States, §3, Aug. 12, 2016, 81 F.R. 54715.
 
-Memorandum of President of the United States, May 5, 2005, 70 F.R. 28773, superseded by Memorandum of President of the United States, May 21, 2012, 77 F.R. 31165.
+Memorandum of President of the United States, May 5, 2005, 70 F.R. 28773, superseded by Memorandum ofPresident of the United States, May 21, 2012, 77 F.R. 31165.
 
 Memorandum of President of the United States, Mar. 11, 2003, 68 F.R. 12281, superseded by Memorandum of President of the United States, May 5, 2005, 70 F.R. 28773.
 

@@ -70,7 +70,7 @@ The objectives of the Program are to—
 
 #### (A) Leadership
 
-&emsp;&emsp;The leadership activity shall be the responsibility of FEMA and shall be exercisedby chairing the Board to coordinate national efforts to improve the safety of the dams in the United States.
+&emsp;&emsp;The leadership activity shall be the responsibility of FEMA and shall be exercised by chairing the Board to coordinate national efforts to improve the safety of the dams in the United States.
 
 #### (B) Technical assistance
 
@@ -148,7 +148,7 @@ The objectives of the Program are to—
 
 #### (B) Approval
 
-&emsp;&emsp;A State dam safety program shall be deemed to be approved 120 days after the date of receipt by the Administrator unless the Administrator determines within the 120-day period that the State dam safetyprogram fails to meet the requirements of paragraphs (1) through (3).
+&emsp;&emsp;A State dam safety program shall be deemed to be approved 120 days after the date of receipt by the Administrator unless the Administrator determines within the 120-day period that the State dam safety program fails to meet the requirements of paragraphs (1) through (3).
 
 #### (C) Notification of disapproval
 
@@ -318,7 +318,7 @@ Subsec. (f)(4) to (6). Pub. L. 107–310, §3(g)(3)(B), added pars. (4) to (6). 
 
 Subsec. (f)(7). Pub. L. 107–310, §3(g)(3)(A), redesignated par. (4) as (7).
 
-Subsec. (f)(8). Pub. L. 107–310, §3(g)(4), added par. (8) and struck out heading and text of former par. (8). Textread as follows: "Each member of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of services for the Board."
+Subsec. (f)(8). Pub. L. 107–310, §3(g)(4), added par. (8) and struck out heading and text of former par. (8). Text read as follows: "Each member of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of services for the Board."
 
 Pub. L. 107–310, §3(g)(3)(A), redesignated par. (5) as (8).
 

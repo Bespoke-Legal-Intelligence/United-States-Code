@@ -2,7 +2,7 @@
 
 (a)
 
-Aviation Project Review Process.—The Secretary of Transportation shall develop andimplement an expedited and coordinated environmental review process for airport capacity enhancement projects at congested airports, aviation safety projects, and aviation security projects that—
+Aviation Project Review Process.—The Secretary of Transportation shall develop and implement an expedited and coordinated environmental review process for airport capacity enhancement projects at congested airports, general aviation airport construction or improvement projects, aviation safety projects, and aviation security projects that—
 
 &emsp;(1) provides for better coordination among the Federal, regional, State, and local agencies concerned with the preparation of environmental impact statements or environmental assessments under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
 
@@ -20,11 +20,15 @@ Airport capacity enhancement projects at congested airports.—An airport capaci
 
 &emsp;(2)
 
+General aviation airport construction or improvement project.—A general aviation airport construction or improvement project shall be subject to the coordinated and expedited environmental review process requirements set forth in this section.
+
+&emsp;(3)
+
 Aviation safety and aviation security projects.—
 
 &emsp;&emsp;(A)
 
-In general.—The Administrator of the Federal Aviation Administration may designate an aviation safety project or aviation security project for priority environmental review. The Administrator may not delegate this designation authority. A designated project shall be subject to the coordinated and expedited environmental review process requirements set forth in this section.
+In general.—The Administrator of the Federal Aviation Administration may designate an aviation safety project or aviation security project for priority environmental review. The Administrator may not delegate this designation authority. A designatedproject shall be subject to the coordinated and expedited environmental review process requirements set forth in this section.
 
 &emsp;&emsp;(B)
 
@@ -46,7 +50,7 @@ High Priority of and Agency Participation in Coordinated Reviews.—
 
 &emsp;(1)
 
-High priority for environmental reviews.—Each Federal agency with jurisdiction over an environmental review, analysis, opinion, permit, license, or approval shall accord any such review, analysis, opinion, permit, license, or approval involving an airport capacity enhancement project at a congested airport or a project designated under subsection (b)(2) the highest possible priority and conduct the review, analysis, opinion, permit, license, or approval expeditiously.
+High priority for environmental reviews.—Each Federal agency with jurisdiction over an environmental review, analysis, opinion, permit, license, or approval shall accord any such review, analysis, opinion, permit, license, or approval involving an airport capacity enhancement project at a congested airport or a project designated under subsection (b)(3) the highest possible priority and conduct the review, analysis, opinion, permit, license, or approval expeditiously.
 
 &emsp;(2)
 
@@ -54,7 +58,7 @@ Agency participation.—Each Federal agency described in subsection (d) shall fo
 
 (d)
 
-Identification of Jurisdictional Agencies.—With respect to each airport capacity enhancement project at a congested airport or a project designated under subsection (b)(2), the Secretary shall identify, as soon as practicable, all Federal and State agencies that may have jurisdiction over environmental-related matters that may be affected by the project or may be required by law to conduct an environmental-related review or analysis of the project or determine whether to issue an environmental-related permit, license, or approval for the project.
+Identification of Jurisdictional Agencies.—With respect to each airport capacity enhancement project at a congested airport or a project designated under subsection (b)(3), the Secretary shall identify, as soon as practicable, all Federal and State agencies that may have jurisdiction over environmental-related matters that may be affected by the project or may be required by law to conduct an environmental-related review or analysis of the project or determine whether to issue an environmental-related permit, license, or approval for the project.
 
 (e)
 
@@ -74,11 +78,11 @@ In general.—The Secretary may utilize an interagency environmental impact stat
 
 &emsp;(2)
 
-Responsibility of interagency environmental impact statement team.—Under a coordinated environmental review process being implemented under this section, theinteragency environmental impact statement team shall assist the Federal Aviation Administration in the preparation of the environmental impact statement. To facilitate timely and efficient environmental review, the team shall agree on agency or Tribal points of contact, protocols for communication among agencies, and deadlines for necessary actions by each individual agency (including the review of environmental analyses, the conduct of required consultation and coordination, and the issuance of environmental opinions, licenses, permits, and approvals). The members of the team may formalize their agreement in a written memorandum.
+Responsibility of interagency environmental impact statement team.—Under a coordinated environmental review process being implemented under this section, the interagency environmental impact statement team shall assist the Federal Aviation Administration in the preparation of the environmental impact statement. To facilitate timely and efficient environmental review, the team shall agree on agency or Tribal points of contact, protocols for communication among agencies, and deadlines for necessary actions by each individual agency (including the review of environmental analyses, the conduct of required consultation and coordination, and the issuance of environmental opinions, licenses, permits, and approvals). The members of the team may formalize their agreement in a written memorandum.
 
 (h)
 
-Lead Agency Responsibility.—The Federal Aviation Administration shall be the lead agency for projects designated under subsection (b)(2) and airport capacity enhancement projects at congested airports and shall be responsible for defining the scope and content of the environmental impact statement, consistent with regulations issued by the Council on Environmental Quality. Any other Federal agency or State agency that is participating in a coordinated environmental review process under this section shall give substantial deference, to the extent consistent with applicable law and policy, to the aviation expertise of the Federal Aviation Administration.
+Lead Agency Responsibility.—The Federal Aviation Administration shall be the lead agency for projects designated under subsection (b)(3) and airport capacity enhancement projects at congested airports and shall be responsible for defining the scope and content of the environmental impact statement, consistent with regulations issued by the Council on Environmental Quality. Any other Federal agency or State agency that is participating in a coordinated environmental review process under this section shall give substantial deference, to the extent consistent with applicable law and policy, to the aviation expertise of the Federal Aviation Administration.
 
 (i)
 
@@ -86,7 +90,7 @@ Effect of Failure To Meet Deadline.—
 
 &emsp;(1)
 
-Notification of congress and ceq.— If the Secretary determines that a Federal agency, State agency, or airport sponsor that is participating in a coordinated review process under this section with respect to a project has not met a deadline established under subsection (a)(3) for the project, the Secretary shall notify, within 30 days of the date of such determination, the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, the Council on Environmental Quality, and the agency or sponsor involved about the failure to meet the deadline.
+Notification of congress and ceq.— If the Secretary determines that a Federal agency, State agency, or airport sponsor that is participating in a coordinated review process under this section with respect to a project has not met a deadline established under subsection (a)(3) for the project, the Secretary shall notify, within 30 days of the date of such determination, the Committee on Commerce, Science, and Transportation of the Senate, theCommittee on Transportation and Infrastructure of the House of Representatives, the Council on Environmental Quality, and the agency or sponsor involved about the failure to meet the deadline.
 
 &emsp;(2)
 
@@ -98,27 +102,37 @@ Purpose and Need.—For any environmental review, analysis, opinion, permit, lic
 
 (k)
 
-Alternatives Analysis.—The Secretary shall determine the reasonable alternatives to an airport capacity enhancement project at a congested airport or a project designated under subsection (b)(2). Any other Federal agency, or State agency that is participating in a coordinated review process under this section with respect to the project shall consider only those alternatives to the project that the Secretary has determined are reasonable.
+Alternatives Analysis.—The Secretary shall determine the reasonable alternatives to an airport capacity enhancement project at a congested airport or a project designated under subsection (b)(3). Any other Federal agency, or State agency that is participating in a coordinated review process under this section with respect to the project shall consider only those alternatives to the project that the Secretary has determined are reasonable.
 
 (l)
 
-Solicitation and Consideration of Comments.—In applying subsections (j) and (k), the Secretary shall solicit and consider comments from interested persons and governmental entities in accordance with the National Environmental Policy Act of 1969 (42 U.S.C. 4371 <sup>1</sup> et seq.).
+Solicitation and Consideration of Comments.—In applying subsections (j) and (k), the Secretary shall solicit and consider comments from interested persons and governmental entities in accordance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 (m)
 
 Monitoring by Task Force.—The Transportation Infrastructure Streamlining Task Force, established by Executive Order 13274 (67 Fed. Reg. 59449; relating to environmental stewardship and transportation infrastructure project reviews), may monitor airport projects that are subject to the coordinated review process under this section.
 
-(Added Pub. L. 108–176, title III, §304(a), Dec. 12, 2003, 117 Stat. 2534.)
+(Added Pub. L. 108–176, title III, §304(a), Dec. 12, 2003, 117 Stat. 2534; amended Pub. L. 115–254, div. B, title I, §191(a), title V, §539(q), Oct. 5, 2018, 132 Stat. 3238, 3371.)
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(2)(B)(ii), and (l), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(3)(B)(ii), and (l), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 Executive Order No. 13274, referred to in subsec. (m), is set out as a note under section 301 of this title.
 
+#### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–254, §191(a)(1), inserted "general aviation airport construction or improvement projects," after "congested airports," in introductory provisions.
+
+Subsec. (b)(2), (3). Pub. L. 115–254, §191(a)(2), added par. (2) and redesignated former par. (2) as (3).
+
+Subsecs. (c)(1), (d), (h), (k). Pub. L. 115–254, §191(a)(3)–(6), substituted "subsection (b)(3)" for "subsection (b)(2)".
+
+Subsec. (l). Pub. L. 115–254, §539(q), substituted "4321" for "4371".
+
 #### Effective Date
 
-Subchapter applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out an Effective Date of 2003 Amendment note under section 106 of this title.
+Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out an Effective Date of 2003 Amendment note under section 106 of this title.
 
 #### Findings
 
@@ -136,7 +150,7 @@ Pub. L. 108–176, title III, §302, Dec. 12, 2003, 117 Stat. 2533, provided tha
 
 #### Limitations
 
-Pub. L. 108–176, title III, §308, Dec. 12, 2003, 117 Stat. 2539, provided that: "Nothing in this subtitle \[subtitle A (§§301–309) of title III of Pub. L. 108–176, enacting this subchapter, amending sections 40104, 47106, and 47504 ofthis title, and enacting provisions set out as notes under this section\], including any amendment made by this title \[enacting this subchapter and amending sections 40104, 40128, 47106, 47503, and 47504 of this title\], shall preempt or interfere with—
+Pub. L. 108–176, title III, §308, Dec. 12, 2003, 117 Stat. 2539, provided that: "Nothing in this subtitle \[subtitle A (§§301–309) of title III of Pub. L. 108–176, enacting this subchapter, amending sections 40104, 47106, and 47504 of this title, and enacting provisions set out as notes under this section\], including any amendment made by this title \[enacting this subchapter and amending sections 40104, 40128, 47106, 47503, and 47504 of this title\], shall preempt or interfere with—
 
 &emsp;"(1) any practice of seeking public comment;
 
@@ -147,6 +161,4 @@ Pub. L. 108–176, title III, §308, Dec. 12, 2003, 117 Stat. 2539, provided tha
 #### Relationship to Other Requirements
 
 Pub. L. 108–176, title III, §309, Dec. 12, 2003, 117 Stat. 2540, provided that: "The coordinated review process required under the amendments made by this subtitle \[enacting this subchapter and amending sections 40104, 47106, and 47504 of this title\] shall apply to an airport capacity enhancement project at a congested airport whether or not the project is designated by the Secretary of Transportation as a high-priority transportation infrastructure project under Executive Order 13274 \[49 U.S.C. 301 note\] (67 Fed. Reg. 59449; relating to environmental stewardship and transportation infrastructure project reviews)."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "4321".</i>
 

@@ -52,7 +52,7 @@ Pub. L. 104–132 amended section generally, reenacting section catchline withou
 
 Subsec. (a). Pub. L. 104–294, §601(s)(2), (3), inserted "930(c)," before "956,", "1992," before "2155,", "2332c," before "or 2340A of this title", and "or an escape" after "concealment".
 
-Subsec. (b). Pub. L. 104–294, §601(b)(2), which directed substitution of "2332" for "2331", "2332a" for "2339", "37" for "36", and "or an escape" for "of an escape" and which could not be executed after the general amendment by Pub. L. 104–132, was repealed by Pub. L. 107–273, §4002(c)(1). See above.
+Subsec. (b). Pub. L. 104–294, §601(b)(2), which directed substitution of "2332" for "2331", "2332a" for "2339", "37" for "36", and "or an escape" for "of an escape"and which could not be executed after the general amendment by Pub. L. 104–132, was repealed by Pub. L. 107–273, §4002(c)(1). See above.
 
 #### Effective Date of 2002 Amendment
 

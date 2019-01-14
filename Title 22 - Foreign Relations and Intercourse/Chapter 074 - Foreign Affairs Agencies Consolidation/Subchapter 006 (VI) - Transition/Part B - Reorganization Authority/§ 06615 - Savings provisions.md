@@ -26,7 +26,7 @@ All orders, determinations, rules, regulations, permits, agreements, grants, con
 
 #### (4) Regulations
 
-&emsp;The Secretary is authorized to promulgate regulations providing for the orderly transfer of proceedings continued under this subsection to the Department.
+&emsp;The Secretary is authorized to promulgate regulations providing for the orderly transferof proceedings continued under this subsection to the Department.
 
 #### (c) No effect on judicial or administrative proceedings
 

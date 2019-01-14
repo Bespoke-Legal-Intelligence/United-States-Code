@@ -6,7 +6,7 @@ The purposes of this section are as follows:
 
 &emsp;(1) To establish the United States-China Economic and Security Review Commission to review the national security implications of trade and economic ties between the United States and the People's Republic of China.
 
-&emsp;(2) To facilitate the assumption by the United States-China Economic and SecurityReview Commission of its duties regarding the review referred to in paragraph (1) by providing for the transfer to that Commission of staff, materials, and infrastructure (including leased premises) of the Trade Deficit Review Commission that are appropriate for the review upon the submittal of the final report of the Trade Deficit Review Commission.
+&emsp;(2) To facilitate the assumption by the United States-China Economic and Security Review Commission of its duties regarding the review referred to in paragraph (1) by providing for the transfer to that Commission of staff, materials, and infrastructure (including leased premises) of the Trade Deficit Review Commission that are appropriate for the review upon the submittal of the final report of the Trade Deficit Review Commission.
 
 #### (b) Establishment of United States-China Economic and Security Review Commission
 
@@ -78,7 +78,7 @@ The purposes of this section are as follows:
 
 #### (1) Annual report
 
-&emsp;Not later than December 1 each year (beginning in 2002), the Commission shall submit to Congress a report, in both unclassified andclassified form, regarding the national security implications and impact of the bilateral trade and economic relationship between the United States and the People's Republic of China. The report shall include a full analysis, along with conclusions and recommendations for legislative and administrative actions, if any, of the national security implications for the United States of the trade and current balances with the People's Republic of China in goods and services, financial transactions, and technology transfers. The Commission shall also take into account patterns of trade and transfers through third countries to the extent practicable.
+&emsp;Not later than December 1 each year (beginning in 2002), the Commission shall submit to Congress a report, in both unclassified and classified form, regarding the national security implications and impact of the bilateral trade and economic relationship between the United States and the People's Republic of China. The report shall include a full analysis, along with conclusions and recommendations for legislative and administrative actions, if any, of the national security implications for the United States of the trade and current balances with the People's Republic of China in goods and services, financial transactions, and technology transfers. The Commission shall also take into account patterns of trade and transfers through third countries to the extent practicable.
 
 #### (2) Contents of report
 
@@ -136,7 +136,7 @@ The purposes of this section are as follows:
 
 #### (1) Compensation of members
 
-&emsp;Members of the Commission shall be compensated in the same manner provided for the compensation of members of the Trade Deficit Review Commission under section 127(g)(1) and section 127(g)(6) of the Trade Deficit Review Commission Act (19 U.S.C. 2213 note).
+&emsp;Members of the Commission shall be compensated in the same manner provided for thecompensation of members of the Trade Deficit Review Commission under section 127(g)(1) and section 127(g)(6) of the Trade Deficit Review Commission Act (19 U.S.C. 2213 note).
 
 #### (2) Travel expenses
 
@@ -270,7 +270,7 @@ Regional economic and security impacts.—The Commission shall assess the extent
 
 &emsp;"(G)
 
-United states-china bilateral programs.—The Commission shall assess science and technologyprograms to evaluate if the United States is developing an adequate coordinating mechanism with appropriate review by the intelligence community with Congress; assess the degree of non-compliance by China and United States-China agreements on prison labor imports and intellectual property rights; evaluate United States enforcement policies; and recommend what new measures the United States Government might take to strengthen our laws and enforcement activities and to encourage compliance by the Chinese.
+United states-china bilateral programs.—The Commission shall assess science and technology programs to evaluate if the United States is developing an adequate coordinating mechanism with appropriate review by the intelligence community with Congress; assess the degree of non-compliance by China and United States-China agreements on prison labor imports and intellectual property rights; evaluate United States enforcement policies; and recommend what new measures the United States Government might take to strengthen our laws and enforcement activities and to encourage compliance by the Chinese.
 
 &emsp;"(H)
 

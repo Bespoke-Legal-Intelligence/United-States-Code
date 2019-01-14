@@ -52,7 +52,7 @@
 
 #### (1) Transparency in contracting
 
-&emsp;The Oversight Board shall work with a covered territory's office of the comptroller or any functionally equivalent entity to promote compliance with the applicable law of any covered territory that requires agencies and instrumentalities of the territorial government to maintain a registry of all contracts executed, including amendments thereto, and to remit a copy to the office of the comptroller for inclusion in a comprehensive database available to the public. With respect to Puerto Rico, the term "applicable law" refers to 2 L.P.R.A. 97, as amended.
+&emsp;The Oversight Board shall work with a covered territory's office of the comptroller or any functionally equivalent entity to promote compliance with the applicable law of any covered territory that requires agencies and instrumentalities of the territorial government to maintain a registry of all contracts executed, including amendments thereto, and to remit a copy to the office of the comptroller for inclusion in a comprehensive database available to the public. With respect to PuertoRico, the term "applicable law" refers to 2 L.P.R.A. 97, as amended.
 
 #### (2) Authority to review certain contracts
 
@@ -78,7 +78,7 @@
 
 #### (2) No action permitted until analysis received
 
-&emsp;The Legislature shall not adopt a reprogramming, and no officer or employee ofthe territorial government may carry out any reprogramming, until the Oversight Board has provided the Legislature with an analysis that certifies such reprogramming will not be inconsistent with the Fiscal Plan and Budget.
+&emsp;The Legislature shall not adopt a reprogramming, and no officer or employee of the territorial government may carry out any reprogramming, until the Oversight Board has provided the Legislature with an analysis that certifies such reprogramming will not be inconsistent with the Fiscal Plan and Budget.
 
 #### (3) Prohibition on action until Oversight Board is appointed
 

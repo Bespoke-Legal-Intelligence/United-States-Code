@@ -64,13 +64,13 @@ For purposes of this subchapter—
 
 #### (C) TAA-related election period
 
-&emsp;&emsp;The term "TAA-related election period" means, with respect to a TAA-related loss of coverage, the 60-day election period under this part <sup>2</sup> which is a direct consequence of such loss.
+&emsp;&emsp;The term "TAA-related election period" means, with respect to a TAA-related loss of coverage, the 60-day election period underthis part <sup>2</sup> which is a direct consequence of such loss.
 
 #### (D) TAA-related loss of coverage
 
 &emsp;&emsp;The term "TAA-related loss of coverage" means, with respect to an individual whose separation from employment gives rise to being an TAA-eligible individual, the loss of health benefits coverage associated with such separation.
 
-(July 1, 1944, ch. 373, title XXII, §2205, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 235; amended Pub. L. 99–514, title XVIII,§1895(d)(5)(C), Oct. 22, 1986, 100 Stat. 2939; Pub. L. 107–210, div. A, title II, §203(e)(2), Aug. 6, 2002, 116 Stat. 970.)
+(July 1, 1944, ch. 373, title XXII, §2205, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 235; amended Pub. L. 99–514, title XVIII, §1895(d)(5)(C), Oct. 22, 1986, 100 Stat. 2939; Pub. L. 107–210, div. A, title II, §203(e)(2), Aug. 6, 2002, 116 Stat. 970.)
 
 #### References in Text
 

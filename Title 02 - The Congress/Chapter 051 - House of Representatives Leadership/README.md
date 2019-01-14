@@ -20,11 +20,7 @@
 | [5122\.](Subchapter%20002%20%28II%29%20-%20The%20Speaker/%C2%A7%2005122%20-%20Personal%20services%20in%20office%20of%20Speaker%3B%20payments.md) | Personal services in office of Speaker; payments. |
 | [5123\.](Subchapter%20002%20%28II%29%20-%20The%20Speaker/%C2%A7%2005123%20-%20Speaker%27s%20Office%20for%20Legislative%20Floor%20Activities.md) | Speaker's Office for Legislative Floor Activities. |
 | [5124\.](Subchapter%20002%20%28II%29%20-%20The%20Speaker/%C2%A7%2005124%20-%20Lump%20sum%20allowance%20for%20Speaker.md) | Lump sum allowance for Speaker. |
-| [5125\.](Subchapter%20002%20%28II%29%20-%20The%20Speaker/%C2%A7%2005125%20-%20Former%20Speakers%20of%20House%20of%20Representatives%3B%20retention%20of%20office%2C%20furniture%2C%20etc.%2C%20in%20Congressional%20district%20following%20expiration%20of%20term%E2%80%A6.md) | Former Speakers of House of Representatives; retention of office, furniture, etc., in Congressional district following expiration of term as Representative; exceptions. |
-| [5126\.](Subchapter%20002%20%28II%29%20-%20The%20Speaker/%C2%A7%2005126%20-%20Allowance%20available%20to%20former%20Speaker%20for%20payment%20of%20office%20and%20other%20expenses%20for%20administration%2C%20etc.%2C%20of%20matters%20pertaining%20to%E2%80%A6.md) | Allowance available to former Speaker for payment of office and other expenses for administration, etc., of matters pertaining to incumbency in office as Representative and Speaker. |
-| [5127\.](Subchapter%20002%20%28II%29%20-%20The%20Speaker/%C2%A7%2005127%20-%20Franked%20mail%20and%20printing%20privileges%20of%20former%20Speaker.md) | Franked mail and printing privileges of former Speaker. |
-| [5128\.](Subchapter%20002%20%28II%29%20-%20The%20Speaker/%C2%A7%2005128%20-%20Staff%20assistance%20to%20former%20Speaker%20for%20administration%2C%20etc.%2C%20of%20matters%20pertaining%20to%20incumbency%20in%20office%20as%20Representative%20and%20Speaker%E2%80%A6.md) | Staff assistance to former Speaker for administration, etc., of matters pertaining to incumbency in office as Representative and Speaker; compensation and status of staff. |
-| [5129\.](Subchapter%20002%20%28II%29%20-%20The%20Speaker/%C2%A7%2005129%20-%20Availability%20of%20entitlements%20of%20former%20Speaker%20for%205%20years.md) | Availability of entitlements of former Speaker for 5 years. |
+| 5125 to 5129. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

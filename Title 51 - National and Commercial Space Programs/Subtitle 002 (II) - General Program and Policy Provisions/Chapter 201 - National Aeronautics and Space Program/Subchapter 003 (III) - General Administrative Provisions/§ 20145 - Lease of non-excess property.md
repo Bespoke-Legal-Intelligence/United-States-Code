@@ -68,9 +68,9 @@ Availability and use of funds for operating plan.—The availability and use of 
 
 (g)
 
-Sunset.—The authority to enter into leases under this section shall expire December 31, 2018. The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration's retention of proceeds from leases entered into under this section before the expiration of the authority.
+Sunset.—The authority to enter into leases under this section shall expire December 31, 2019. The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration's retention of proceeds from leases entered into under this section before the expiration of the authority.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3352; Pub. L. 112–55, div. B, title III, Nov. 18, 2011, 125 Stat. 626; Pub. L. 115–10, title VIII, §832, Mar. 21, 2017, 131 Stat. 67.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3352; Pub. L. 112–55, div. B, title III, Nov. 18, 2011, 125 Stat. 626; Pub. L. 115–10, title VIII, §832, Mar. 21, 2017, 131 Stat. 67; Pub. L. 115–403, §2, Dec. 31, 2018, 132 Stat. 5348.)
 
 Historical and Revision Notes
 
@@ -90,9 +90,11 @@ Pub. L. 85–568, title III, §315, as added Pub. L. 108–7, div. K, title IV, 
 
 In subsection (f)(2), the word "Administration's" is substituted for "Agency's" for clarity.
 
-In subsection (g), the words "10 years after December 26, 2007" are substituted for "on the date that is ten years after the date of the enactment of the Commerce, Justice, Science, and Related Agencies Appropriations Act of 2008" for consistency and to reflect the date ofenactment of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2008 (Public Law 110–161, div. B, 121 Stat. 1884).
+In subsection (g), the words "10 years after December 26, 2007" are substituted for "on the date that is ten years after the date of the enactment of the Commerce, Justice, Science, and Related Agencies Appropriations Act of 2008" for consistency and to reflect the date of enactment of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2008 (Public Law 110–161, div. B, 121 Stat. 1884).
 
 #### Amendments
+
+<b>2018</b>—Subsec. (g). Pub. L. 115–403 substituted "December 31, 2019" for "December 31, 2018".
 
 <b>2017</b>—Subsec. (g). Pub. L. 115–10 substituted "December 31, 2018" for "10 years after December 26, 2007".
 
@@ -107,6 +109,8 @@ National Aeronautics and Space Administration' and '
 construction and environmental compliance and restoration' of title III of div. B of Pub. L. 113–6\]: <i>Provided further</i>, That such proceeds shall be available for a period of 5 years to the extent and in amounts as provided in annual appropriations Acts".
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–141, div. B, title III, Mar. 23, 2018, 132 Stat. 431.
 
 Pub. L. 115–31, div. B, title III, May 5, 2017, 131 Stat. 214.
 

@@ -5,12 +5,7 @@
 | [44701\.](%C2%A7%2044701%20-%20General%20requirements.md) | General requirements. |
 | [44702\.](%C2%A7%2044702%20-%20Issuance%20of%20certificates.md) | Issuance of certificates. |
 | [44703\.](%C2%A7%2044703%20-%20Airman%20certificates.md) | Airman certificates. |
-| [44704\.](%C2%A7%2044704%20-%20Type%20certificates%2C%20production%20certificates%2C%20airworthiness%20certificates%2C%2C1%20and%20design%20and%20production%20organization%20certificates.md) | Type certificates, production certificates, airworthiness certificates, and design and production organization certificates.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [44704\.](%C2%A7%2044704%20-%20Type%20certificates%2C%20production%20certificates%2C%20airworthiness%20certificates%2C%20and%20design%20and%20production%20organization%20certificates.md) | Type certificates, production certificates, airworthiness certificates, and design and production organization certificates. |
 | [44705\.](%C2%A7%2044705%20-%20Air%20carrier%20operating%20certificates.md) | Air carrier operating certificates. |
 | [44706\.](%C2%A7%2044706%20-%20Airport%20operating%20certificates.md) | Airport operating certificates. |
 | [44707\.](%C2%A7%2044707%20-%20Examining%20and%20rating%20air%20agencies.md) | Examining and rating air agencies. |
@@ -42,10 +37,22 @@
 | [44733\.](%C2%A7%2044733%20-%20Inspection%20of%20repair%20stations%20located%20outside%20the%20United%20States.md) | Inspection of repair stations located outside the United States. |
 | [44734\.](%C2%A7%2044734%20-%20Training%20of%20flight%20attendants.md) | Training of flight attendants. |
 | [44735\.](%C2%A7%2044735%20-%20Limitation%20on%20disclosure%20of%20safety%20information.md) | Limitation on disclosure of safety information. |
+| [44736\.](%C2%A7%2044736%20-%20Organization%20designation%20authorizations.md) | Organization designation authorizations. |
+| 44737\.<sup>1</sup> | Helicopter fuel system safety. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [44738\.](%C2%A7%2044738%20-%20Training%20on%20human%20trafficking%20for%20certain%20staff.md) | Training on human trafficking for certain staff. |
+| [44739\.](%C2%A7%2044739%20-%20Pets%20on%20airplanes.md) | Pets on airplanes. |
+| Sec.<sup>2</sup> 44737.<sup>1</sup> Special rule for certain aircraft operations. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–254, div. B, title II, §212(b), title III, §317(b), title IV, §§408(b), 417(b), title V, §581(b)(2), Oct. 5, 2018, 132 Stat. 3249, 3269, 3330, 3334, 3398, added item 44736, two items 44737, and items 44738 and 44739.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title III, §341(a)(4)(B), Dec. 23, 2016, 130 Stat. 2081, substituted "Structures interfering with air commerce or national security" for "Structures interfering with air commerce" in item 44718.
 
@@ -59,7 +66,9 @@
 
 <b>1996</b>—Pub. L. 104–264, title VI, §602(a)(2), Oct. 9, 1996, 110 Stat. 3264, added item 44724.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+<i><sup>1</sup></i><i> So in original. Two sections 44737 have been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 
 
 ---
@@ -69,7 +78,7 @@
 - [&sect; 44701 - General requirements](%C2%A7%2044701%20-%20General%20requirements.md)
 - [&sect; 44702 - Issuance of certificates](%C2%A7%2044702%20-%20Issuance%20of%20certificates.md)
 - [&sect; 44703 - Airman certificates](%C2%A7%2044703%20-%20Airman%20certificates.md)
-- [&sect; 44704 - Type certificates, production certificates, airworthiness certificates,,1 and design and production organization certificates](%C2%A7%2044704%20-%20Type%20certificates%2C%20production%20certificates%2C%20airworthiness%20certificates%2C%2C1%20and%20design%20and%20production%20organization%20certificates.md)
+- [&sect; 44704 - Type certificates, production certificates, airworthiness certificates, and design and production organization certificates](%C2%A7%2044704%20-%20Type%20certificates%2C%20production%20certificates%2C%20airworthiness%20certificates%2C%20and%20design%20and%20production%20organization%20certificates.md)
 - [&sect; 44705 - Air carrier operating certificates](%C2%A7%2044705%20-%20Air%20carrier%20operating%20certificates.md)
 - [&sect; 44706 - Airport operating certificates](%C2%A7%2044706%20-%20Airport%20operating%20certificates.md)
 - [&sect; 44707 - Examining and rating air agencies](%C2%A7%2044707%20-%20Examining%20and%20rating%20air%20agencies.md)
@@ -101,3 +110,8 @@
 - [&sect; 44733 - Inspection of repair stations located outside the United States](%C2%A7%2044733%20-%20Inspection%20of%20repair%20stations%20located%20outside%20the%20United%20States.md)
 - [&sect; 44734 - Training of flight attendants](%C2%A7%2044734%20-%20Training%20of%20flight%20attendants.md)
 - [&sect; 44735 - Limitation on disclosure of safety information](%C2%A7%2044735%20-%20Limitation%20on%20disclosure%20of%20safety%20information.md)
+- [&sect; 44736 - Organization designation authorizations](%C2%A7%2044736%20-%20Organization%20designation%20authorizations.md)
+- [&sect; 44737 - 1 Helicopter fuel system safety](%C2%A7%2044737%20-%201%20Helicopter%20fuel%20system%20safety.md)
+- [&sect; 44738 - Training on human trafficking for certain staff](%C2%A7%2044738%20-%20Training%20on%20human%20trafficking%20for%20certain%20staff.md)
+- [&sect; 44739 - Pets on airplanes](%C2%A7%2044739%20-%20Pets%20on%20airplanes.md)
+- [&sect; 44737 - 1 Special rule for certain aircraft operations.2](%C2%A7%2044737%20-%201%20Special%20rule%20for%20certain%20aircraft%20operations.2.md)

@@ -184,13 +184,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the diverse (including linguistic and cultural) needs of eligible children (including children with disabilities, homeless children, children in foster care, and limited English proficient children) and their families;
 
-&emsp;&emsp;&emsp;(ii) include, to the maximum extent practicable, current or former employeesof the Department of Health and Human Services who are knowledgeable about Head Start programs; and
+&emsp;&emsp;&emsp;(ii) include, to the maximum extent practicable, current or former employees of the Department of Health and Human Services who are knowledgeable about Head Start programs; and
 
 &emsp;&emsp;&emsp;(iii) shall receive periodic training to ensure quality and consistency across reviews;
 
 &emsp;&emsp;(B) include as part of the reviews, a review and assessment of program strengths and areas in need of improvement;
 
-&emsp;&emsp;(C) include as part of the reviews, a review and assessment of whether programs have adequately addressed population and community needs (including those of limited English proficient children and children of migrant or seasonal farmworker families);
+&emsp;&emsp;(C) include as part of the reviews, a review and assessment of whether programs haveadequately addressed population and community needs (including those of limited English proficient children and children of migrant or seasonal farmworker families);
 
 &emsp;&emsp;(D) include as part of the reviews, an assessment of the extent to which the programs address the communitywide strategic planning and needs assessment described in section 9835(g)(1)(C) of this title;
 
@@ -252,7 +252,7 @@
 
 #### (3) Remedies to ensure corrective actions
 
-&emsp;In the event that the Head Start agency identifies a deficiency for a delegate agencythrough the evaluation, the Head Start agency shall take action, which may include—
+&emsp;In the event that the Head Start agency identifies a deficiency for a delegate agency through the evaluation, the Head Start agency shall take action, which may include—
 
 &emsp;&emsp;(A) initiating procedures to terminate the designation of the agency unless the agency corrects the deficiency;
 

@@ -10,7 +10,7 @@ The standards specified in such regulations shall have the object of (1) prohibi
 
 #### (c) Approval of ordinances
 
-Following issuance of such regulations the Secretary shall approve any zoning ordinance or any amendment to any approved zoning ordinance submitted to him that conforms to the standards contained in the regulations in effectat the time of adoption of the ordinance or amendment. Such approval shall remain effective for so long as such ordinance or amendment remains in effect as approved.
+Following issuance of such regulations the Secretary shall approve any zoning ordinance or any amendment to any approved zoning ordinance submitted to him that conforms to the standards contained in the regulations in effect at the time of adoption of the ordinance or amendment. Such approval shall remain effective for so long as such ordinance or amendment remains in effect as approved.
 
 #### (d) Adverse provisions and absence of notice for variance as requiring disapproval of ordinances
 

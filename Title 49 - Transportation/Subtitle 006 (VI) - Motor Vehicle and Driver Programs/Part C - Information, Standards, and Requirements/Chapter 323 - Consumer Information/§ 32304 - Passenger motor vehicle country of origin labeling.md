@@ -56,9 +56,9 @@ Definitions.—In this section—
 
 &emsp;&emsp;(A) means a system, subassembly, or component received at the final vehicle assembly place for installation on, or attachment to, a passenger motor vehicle at the time of its first shipment by the manufacturer to a dealer for sale to an ultimate purchaser; but
 
-&emsp;&emsp;(B) does not include minor parts (including nuts, bolts, clips, screws, pins, braces, andother attachment hardware) and other similar items the Secretary of Transportation may prescribe by regulation after consulting with manufacturers and labor.
+&emsp;&emsp;(B) does not include minor parts (including nuts, bolts, clips, screws, pins, braces, and other attachment hardware) and other similar items the Secretary of Transportation may prescribe by regulation after consulting with manufacturers and labor.
 
-&emsp;(13) "percentage (by value)", when referring to passenger motor vehicle equipment of United States/Canadian origin, means the percentage remaining after subtracting the percentage (by value) of passenger motor vehicle equipment that is not of United States/Canadian origin that will be installed or included on those vehicles produced in a carline, from 100 percent—
+&emsp;(13) "percentage (by value)", when referring to passenger motor vehicle equipment ofUnited States/Canadian origin, means the percentage remaining after subtracting the percentage (by value) of passenger motor vehicle equipment that is not of United States/Canadian origin that will be installed or included on those vehicles produced in a carline, from 100 percent—
 
 &emsp;&emsp;(A) with value being expressed in terms of the purchase price; and
 
@@ -118,7 +118,7 @@ Dealer Requirement.—Each dealer engaged in the sale or distribution of a new p
 
 (g)
 
-Form and Content of Label.—The Secretary of Transportation shall prescribe by regulation the form and content of the label required under subsection (b) of this section and the manner and location in which the label is attached.The Secretary shall permit a manufacturer to comply with this section by allowing the manufacturer to disclose the information required under subsection (b)(1) on the label required by section 3 of the Automobile Information Disclosure Act (15 U.S.C. 1232), on the label required by section 32908 of this title, or on a separate label that is readily visible. A manufacturer may add to the label required under subsection (b) a line stating the country in which vehicle assembly was completed.
+Form and Content of Label.—The Secretary of Transportation shall prescribe by regulation the form and content of the label required under subsection (b) of this section and the manner and location in which the label is attached. The Secretary shall permit a manufacturer to comply with this section by allowing the manufacturer to disclose the information required under subsection (b)(1) on the label required by section 3 of the Automobile Information Disclosure Act (15 U.S.C. 1232), on the label required by section 32908 of this title, or on a separate labelthat is readily visible. A manufacturer may add to the label required under subsection (b) a line stating the country in which vehicle assembly was completed.
 
 (h)
 

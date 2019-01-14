@@ -80,7 +80,7 @@ Subsec. (a)(4). Pub. L. 109–233, §301(b), substantially rewrote par. (4). Pri
 
 Subsec. (a)(1). Pub. L. 107–14, §4(c)(2)(B), (C)(i), in introductory provisions, substituted "With respect" for "with respect" and "31 days, insurance under this subchapter shall cease—" for "thirty-one days—".
 
-Subsec. (a)(1)(A). Pub. L. 107–14, §4(c)(2)(C)(ii), substituted "120 days" for "one hundred and twenty days" and "before the end of 120 days" for "prior to the expiration of one hundred and twenty days".
+Subsec. (a)(1)(A). Pub. L. 107–14, §4(c)(2)(C)(ii), substituted "120 days" for "one hundred and twenty days"and "before the end of 120 days" for "prior to the expiration of one hundred and twenty days".
 
 Subsec. (a)(1)(B). Pub. L. 107–14, §4(c)(2)(C)(iii), substituted a period for semicolon at end.
 
@@ -96,7 +96,7 @@ Subsec. (b)(1)(A). Pub. L. 107–14, §4(c)(3), inserted "(to insure against dea
 
 Subsec. (b)(3). Pub. L. 107–14, §4(f), added par. (3).
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–419 substituted "subparagraph (B) or (C) of section 1965(5) of this title" for"section 1965(5)(B) of this title" in introductory provisions and par. (4).
+<b>2000</b>—Subsec. (a). Pub. L. 106–419 substituted "subparagraph (B) or (C) of section 1965(5) of this title" for "section 1965(5)(B) of this title" in introductory provisions and par. (4).
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–65 made technical amendment to directory language of Pub. L. 104–106, §647(b). See 1996 Amendment note below.
 

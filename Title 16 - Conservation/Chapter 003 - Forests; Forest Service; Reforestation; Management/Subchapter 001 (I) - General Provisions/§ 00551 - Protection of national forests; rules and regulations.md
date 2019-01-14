@@ -6,7 +6,7 @@ The Secretary of Agriculture shall make provisions for the protection against de
 
 #### References in Text
 
-Section 471 of this title, referred to in text, was in the original a reference to act Mar. 3, 1891, 26 Stat. 1103, and was repealed by Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.
+Section 471 of this title, referred to in text, was in the original a reference to act Mar. 3, 1891, 26 Stat. 1103,and was repealed by Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.
 
 #### Codification
 
@@ -14,7 +14,7 @@ Section 471 of this title, referred to in text, was in the original a reference 
 
 #### Amendments
 
-<b>1964</b>—Pub. L. 88–537 provided that persons charged with violation of such rules and regulations may betried and sentenced by any United States commissioner specially designated for that purpose by the court by which he was appointed, in the same manner as in section 3401(b) to (e) of title 18.
+<b>1964</b>—Pub. L. 88–537 provided that persons charged with violation of such rules and regulations may be tried and sentenced by any United States commissioner specially designated for that purpose by the court by which he was appointed, in the same manner as in section 3401(b) to (e) of title 18.
 
 <b>1962</b>—Pub. L. 87–869 substituted "by a fine of not more than $500 or imprisonment for not more than six months, or both" for "as is provided for in section 104 of title 18".
 

@@ -30,7 +30,7 @@ The Commission may exclude any employee or position from coverage under any prov
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(3), (5) and (b)(3), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+This chapter, referred to in subsecs. (a)(3), (5) and (b)(3), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the PanamaCanal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 The Panama Canal Act Amendments of 1996, referred to in subsec. (b)(3), is subtitle B of title XXXV of div. C of Pub. L. 104–201, Sept. 23, 1996, 110 Stat. 2860. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 3601 of this title and Tables.
 
@@ -42,7 +42,7 @@ The Panama Canal Commission Authorization Act for Fiscal Year 1999, referred to 
 
 <b>1998</b>—Subsec. (b)(3). Pub. L. 105–261, §3512(a)(2), inserted "the" after "by the head of".
 
-Pub. L. 105–261, §3507(c), substituted "the Panama Canal Transition Facilitation Act of 1997 (subtitle B of title XXXV of Public Law 105–85; 110 Stat. 2062), or thePanama Canal Commission Authorization Act for Fiscal Year 1999" for "the Panama Canal Transition Facilitation Act of 1997".
+Pub. L. 105–261, §3507(c), substituted "the Panama Canal Transition Facilitation Act of 1997 (subtitle B of title XXXV of Public Law 105–85; 110 Stat. 2062), or the Panama Canal Commission Authorization Act for Fiscal Year 1999" for "the Panama Canal Transition Facilitation Act of 1997".
 
 <b>1997</b>—Subsec. (b)(3). Pub. L. 105–85, §3550(d)(5), substituted "as in effect on September 22, 1996" for "as last in effect before September 23, 1996".
 

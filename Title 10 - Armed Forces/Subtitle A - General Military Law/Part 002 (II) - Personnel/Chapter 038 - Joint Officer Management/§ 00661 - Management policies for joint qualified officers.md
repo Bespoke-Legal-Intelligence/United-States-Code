@@ -54,7 +54,7 @@ Education and Experience Requirements.—(1) An officer may not be designated as
 
 (d)
 
-Number of Joint Duty Assignments.—(1) The Secretary of Defense shall ensure that approximately one-half of the joint duty assignment positions in grades above major or, in the case of the Navy, lieutenant commander are filled at any time by officers who have the appropriate level of joint qualification.
+Number of Joint Duty Assignments.—(1) The Secretary of Defense shall ensure that approximately one-half of the joint duty assignment positions in grades above major or, in the case of the Navy, lieutenant commander arefilled at any time by officers who have the appropriate level of joint qualification.
 
 (2) The Secretary of Defense, with the advice of the Chairman of the Joint Chiefs of Staff, shall designate an appropriate number of joint duty assignment positions as critical joint duty assignment positions. A position may be designated as a critical joint duty assignment position only if the duties and responsibilities of the position make it important that the occupant be particularly trained in, and oriented toward, joint matters.
 
@@ -202,7 +202,7 @@ Joint Specialty.—
 
 &emsp;"(1)
 
-Initial selections.—(A) In making the initial selections of officers for the joint specialty under section 661 of title 10, United States Code (as added by section 401 of this Act), the Secretary of Defense may waive the requirement of either subparagraph (A) or (B) (but not both) of subsection (c)(1) of such section in the case of any officer in a grade above captain or, in the case of the Navy, lieutenant.
+Initial selections.—(A) In making the initial selections of officers for the joint specialty under section 661 of title 10, United States Code (as added by section 401 of this Act), the Secretary of Defense may waive the requirement of either subparagraph (A) or (B) (but not both) of subsection (c)(1) of such sectionin the case of any officer in a grade above captain or, in the case of the Navy, lieutenant.
 
 &emsp;"(B) In applying such subparagraph (B) to the initial selections of officers for the joint specialty, the Secretary may in the case of any officer—
 

@@ -16,7 +16,7 @@ The Secretary of State, in consultation with the Secretary, may designate from t
 
 #### (2) Compensation
 
-&emsp;The United States Commissioners or Alternate Commissioners, although officers of the United States while so serving, shall receive no compensation for their services as such Commissioners or Alternate Commissioners.
+&emsp;The United States Commissioners or Alternate Commissioners, although officers of theUnited States while so serving, shall receive no compensation for their services as such Commissioners or Alternate Commissioners.
 
 #### (3) Travel expenses
 

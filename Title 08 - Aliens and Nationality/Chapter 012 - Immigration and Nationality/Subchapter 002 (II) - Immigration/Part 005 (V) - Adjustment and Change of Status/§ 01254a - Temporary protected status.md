@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(C) the Attorney General finds that there exist extraordinary and temporary conditions in the foreign state that prevent aliens who are nationals of the state from returning to the state in safety, unless the Attorney General finds that permitting the aliens to remain temporarily in the United States is contrary to the national interest of the United States.
 
-> &emsp;A designation of a foreign state (or part of such foreign state) under this paragraph shall not become effective unless notice of the designation (including a statement of the findings under this paragraph and the effective date of the designation) is published in the Federal Register. In such notice, the Attorney General shall also state an estimate of the number of nationals of the foreign state designated who are (or within the effective period of the designation are likely to become) eligible for temporary protected status under this section and their immigration status in the United States.
+> &emsp;A designation of a foreign state (or part of such foreign state) under this paragraph shall not become effective unless notice of the designation (including a statement of the findings under this paragraph and the effective date of the designation) is published in the Federal Register. In such notice, the Attorney Generalshall also state an estimate of the number of nationals of the foreign state designated who are (or within the effective period of the designation are likely to become) eligible for temporary protected status under this section and their immigration status in the United States.
 
 #### (2) Effective period of designation for foreign states
 
@@ -182,7 +182,7 @@
 
 #### (e) Relation of period of temporary protected status to cancellation of removal
 
-With respect to an alien granted temporary protected status under this section, the period of such status shall not be counted as a period of physical presence in the United States for purposes of section 1229b(a) of this title, unless the Attorney General determines that extreme hardship exists. Such period shall not cause a break in the continuity of residence of the period before and after such period for purposes of such section.
+With respect to an alien granted temporary protected status under this section, the period ofsuch status shall not be counted as a period of physical presence in the United States for purposes of section 1229b(a) of this title, unless the Attorney General determines that extreme hardship exists. Such period shall not cause a break in the continuity of residence of the period before and after such period for purposes of such section.
 
 #### (f) Benefits and status during period of temporary protected status
 
@@ -226,7 +226,7 @@ Except as otherwise specifically provided, this section shall constitute the exc
 
 #### (1) Annual report
 
-&emsp;Not later than March 1 of each year (beginning with 1992), the Attorney General, after consultation with the appropriate agencies of the Government, shall submit a report to the Committees on the Judiciary of the House ofRepresentatives and of the Senate on the operation of this section during the previous year. Each report shall include—
+&emsp;Not later than March 1 of each year (beginning with 1992), the Attorney General, after consultation with the appropriate agencies of the Government, shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate on the operation of this section during the previous year. Each report shall include—
 
 &emsp;&emsp;(A) a listing of the foreign states or parts thereof designated under this section,
 
@@ -308,7 +308,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Limitation on Suspension of Deportation
 
-The Attorney General may not suspend deportation and adjust status under this section of more than 4,000 aliens in any fiscal year, beginning after Sept. 30, 1996, regardless of when aliens applied for such suspensionand adjustment, see section 309(c)(7) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
+The Attorney General may not suspend deportation and adjust status under this section of more than 4,000 aliens in any fiscal year, beginning after Sept. 30, 1996, regardless of when aliens applied for such suspension and adjustment, see section 309(c)(7) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### Aliens Authorized To Travel Abroad Temporarily
 
@@ -398,5 +398,5 @@ Show cause order at time of final registration.—At the registration occurring 
 
 &emsp;"(2)
 
-Sanction for failure to appear.—If an alien is provided an order to show cause under paragraph (1) and fails to appear at such proceedings, except for exceptional circumstances, the alien may be deportedin absentia under section 240(b)(5) of the Immigration and Nationality Act \[8 U.S.C. 1229a(b)(5)\] (inserted by section 545(a) of this Act) and certain discretionary forms of relief are no longer available to the alien pursuant to such section."
+Sanction for failure to appear.—If an alien is provided an order to show cause under paragraph (1) and fails to appear at such proceedings, except for exceptional circumstances, the alien may be deported in absentia under section 240(b)(5) of the Immigration and Nationality Act \[8 U.S.C. 1229a(b)(5)\] (inserted by section 545(a) of this Act) and certain discretionary forms of relief are no longer available to the alien pursuant to such section."
 

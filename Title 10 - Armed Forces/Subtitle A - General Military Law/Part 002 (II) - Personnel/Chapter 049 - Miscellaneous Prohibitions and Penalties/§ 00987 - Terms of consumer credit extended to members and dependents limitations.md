@@ -180,7 +180,7 @@ Dependent.—The term "dependent", with respect to a covered member, means a per
 
 &emsp;(3)
 
-Interest.—The term "interest" includes all cost elements associated with the extension of credit, including fees, service charges, renewal charges, credit insurance premiums, any ancillary product sold with any extension of credit to a servicemember or the servicemember's dependent, as applicable, and any other charge or premium with respect to the extension of consumer credit.
+Interest.—The term "interest" includes all cost elements associated with the extension of credit, including fees, service charges, renewal charges, credit insurance premiums,any ancillary product sold with any extension of credit to a servicemember or the servicemember's dependent, as applicable, and any other charge or premium with respect to the extension of consumer credit.
 
 &emsp;(4)
 
@@ -272,5 +272,5 @@ Pub. L. 114–92, div. A, title V, §594(b)(3), Nov. 25, 2015, 129 Stat. 834, pr
 
 #### Interim Regulations
 
-Pub. L. 109–364, div. A, title VI, §670(d), Oct. 17, 2006, 120 Stat. 2269, provided that: "The Secretary of Defense may prescribe interim regulations as necessary to carry out such section \[this section\]. For the purpose of prescribing such interim regulations, the Secretary is excepted from compliance with the notice-and-comment requirements of section 553 of title 5, United States Code. All interim rules prescribed under the authority of this subsection that are not earlier superseded by final rules shall expire no later than 270 days after the effective date of section 987 of title 10, United States Code \[see Effective Date note above\], as added by this section."
+Pub. L. 109–364, div. A, title VI, §670(d), Oct. 17, 2006, 120 Stat. 2269, provided that: "The Secretary of Defense may prescribe interim regulations as necessary to carry out such section \[this section\]. For the purpose of prescribing such interim regulations, the Secretary is excepted from compliance with the notice-and-comment requirements of section 553 of title 5, UnitedStates Code. All interim rules prescribed under the authority of this subsection that are not earlier superseded by final rules shall expire no later than 270 days after the effective date of section 987 of title 10, United States Code \[see Effective Date note above\], as added by this section."
 

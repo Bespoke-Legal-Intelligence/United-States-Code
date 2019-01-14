@@ -140,7 +140,7 @@ For purposes of this title—
 
 #### (B) Distributions to which paragraph applies
 
-&emsp;&emsp;This paragraph shall apply to a distribution from an eligible retirement plan (as defined by section 402(c)(8)(B)) maintained for the benefit of an individual which is contributed to a Roth IRA maintained for the benefit of such individual in a qualified rollover contribution. This paragraph shall not apply to a distribution which is a qualified rollover contribution from a Roth IRA or a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A) <sup>1</sup>
+&emsp;&emsp;This paragraph shall apply to a distribution from an eligible retirement plan (as defined by section 402(c)(8)(B)) maintained for the benefit of an individual which is contributed to a Roth IRA maintained for the benefit of such individual in a qualified rollover contribution. This paragraph shall not apply to a distribution which is a qualified rollover contribution from a Roth IRA or a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A).
 
 #### (C) Conversions
 
@@ -162,7 +162,7 @@ For purposes of this title—
 
 #### (II) Limitation on aggregate amount included
 
-&emsp;&emsp;&emsp;&emsp;The amount required to be included in gross income for any taxable year undersubparagraph (A)(iii) shall not exceed the aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 2-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years.
+&emsp;&emsp;&emsp;&emsp;The amount required to be included in gross income for any taxable year under subparagraph (A)(iii) shall not exceed the aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 2-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years.
 
 #### (ii) Death of distributee
 
@@ -268,7 +268,7 @@ For purposes of this section—
 
 #### (B) Annual limit on number of rollovers not to apply
 
-&emsp;&emsp;Section 408(d)(3)(B) shall not apply with respect to amounts treated as a rollover by the <sup>2</sup> subparagraph (A).
+&emsp;&emsp;Section 408(d)(3)(B) shall not apply with respect to amounts treated as a rollover by subparagraph (A).
 
 #### (C) Application of section 72
 
@@ -282,13 +282,17 @@ For purposes of this section—
 
 &emsp;(2) contributions to any such pension or account shall not be taken into account for purposes of subsection (c)(2)(B).
 
-(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106; Pub. L. 109–222, title V, §512(a), (b), May 17, 2006, 120 Stat. 365; Pub. L. 109–280, title VIII, §§824(a), (b), 833(c), Aug. 17, 2006, 120 Stat. 998, 1004; Pub. L. 110–245, title I, §109(a), (b), June 17, 2008, 122 Stat. 1631, 1632; Pub. L. 110–458, title I, §108(d), (h), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 115–97, title I, §§11002(d)(1)(W), 13611(a), Dec. 22, 2017, 131 Stat. 2060, 2165.)
+(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106; Pub. L. 109–222, title V, §512(a), (b), May 17, 2006, 120 Stat. 365; Pub. L. 109–280, title VIII, §§824(a), (b), 833(c), Aug. 17, 2006, 120 Stat. 998, 1004; Pub. L. 110–245, title I, §109(a), (b), June 17, 2008, 122 Stat. 1631, 1632; Pub. L. 110–458, title I, §108(d), (h), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 115–97, title I, §§11002(d)(1)(W), 13611(a), Dec. 22, 2017, 131 Stat. 2060, 2165; Pub. L. 115–141, div. U, title IV, §401(a)(77), (78), Mar. 23, 2018, 132 Stat. 1187.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(3)(B). Pub. L. 115–141, §401(a)(77), inserted period at end.
+
+Subsec. (e)(2)(B). Pub. L. 115–141, §401(a)(78), substituted "subparagraph (A)" for "the subparagraph (A)".
 
 <b>2017</b>—Subsec. (c)(3)(D)(ii). Pub. L. 115–97, §11002(d)(1)(W), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
@@ -498,7 +502,7 @@ Pub. L. 110–458, title I, §125, Dec. 23, 2008, 122 Stat. 5115, provided that:
 
 "(a)
 
-General Rule.—If a qualified airline employee receives any airline payment amount and transfers anyportion of such amount to a Roth IRA within 180 days of receipt of such amount (or, if later, within 180 days of the date of the enactment of this Act \[Dec. 23, 2008\]), then such amount (to the extent so transferred) shall be treated as a qualified rollover contribution described in section 408A(e) of the Internal Revenue Code of 1986, and the limitations described in section 408A(c)(3) of such Code shall not apply to any such transfer.
+General Rule.—If a qualified airline employee receives any airline payment amount and transfers any portion of such amount to a Roth IRA within 180 days of receipt of such amount (or, if later, within 180 days of the date of the enactment of this Act \[Dec. 23, 2008\]), then such amount (to the extent so transferred) shall be treated as a qualified rollover contribution described in section 408A(e) of the Internal Revenue Code of 1986, and the limitations described in section 408A(c)(3) of such Code shall not apply to any such transfer.
 
 "(b)
 
@@ -510,7 +514,7 @@ Airline payment amount.—
 
 &emsp;&emsp;"(A)
 
-In general.—The term 'airline payment amount' means any payment of any money or other property which is payable by a commercial passenger airline carrier to a qualified airline employee—
+In general.—The term 'airline payment amount' means any payment of any money or otherproperty which is payable by a commercial passenger airline carrier to a qualified airline employee—
 
 &emsp;&emsp;&emsp;"(i) under the approval of an order of a Federal bankruptcy court in a case filed after September 11, 2001, and before January 1, 2007, and
 
@@ -543,8 +547,4 @@ Reporting requirements.—If a commercial passenger airline carrier pays 1 or mo
 "(c)
 
 Effective Date.—This section shall apply to transfers made after the date of the enactment of this Act \[Dec. 23, 2008\] with respect to airline payment amounts paid before, on, or after such date."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
-
-<i><sup>2</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

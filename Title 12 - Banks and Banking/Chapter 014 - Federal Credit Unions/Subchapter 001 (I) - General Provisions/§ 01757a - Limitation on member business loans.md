@@ -30,7 +30,7 @@ As used in this section—
 
 &emsp;&emsp;(B) does not include an extension of credit—
 
-&emsp;&emsp;&emsp;(i) that is fully secured by a lien on a 1- to 4-family dwelling that is the primary residence of a member;
+&emsp;&emsp;&emsp;(i) that is fully secured by a lien on a 1- to 4-family dwelling;
 
 &emsp;&emsp;&emsp;(ii) that is fully secured by shares in the credit union making the extension of credit or deposits in other financial institutions;
 
@@ -60,7 +60,15 @@ An insured credit union that has, on August 7, 1998, a total amount of outstandi
 
 In implementing this section, the Board shall consult and seek to work cooperatively with State officials having jurisdiction over State-chartered insured credit unions.
 
-(June 26, 1934, ch. 750, title I, §107A, as added Pub. L. 105–219, title II, §203(a), Aug. 7, 1998, 112 Stat. 920.)
+(June 26, 1934, ch. 750, title I, §107A, as added Pub. L. 105–219, title II, §203(a), Aug. 7, 1998, 112 Stat. 920; amended Pub. L. 115–174, title I, §105(a), May 24, 2018, 132 Stat. 1301.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c)(1)(B)(i). Pub. L. 115–174 struck out "that is the primary residence of a member" after "dwelling".
+
+#### Rule of Construction
+
+Pub. L. 115–174, title I, §105(b), May 24, 2018, 132 Stat. 1301, provided that: "Nothing in this section \[amending this section\] or the amendment made by this section shall preclude the National Credit Union Administration from treating an extension of credit that is fully secured by a lien on a 1- to 4-family dwelling that is not the primary residence of a member as a member business loan for purposes other than the member business loan limitation requirements under section 107A of the Federal Credit Union Act (12 U.S.C. 1757a)."
 
 #### Study and Report
 
@@ -74,7 +82,7 @@ Study.—The Secretary \[of the Treasury\] shall conduct a study of member busin
 
 &emsp;"(B) a review of the effectiveness and enforcement of regulations applicable to insured credit union member business lending;
 
-&emsp;"(C) whether member business lending by insured credit unions could affect the safety and soundness ofinsured credit unions or the National Credit Union Share Insurance Fund;
+&emsp;"(C) whether member business lending by insured credit unions could affect the safety and soundness of insured credit unions or the National Credit Union Share Insurance Fund;
 
 &emsp;"(D) the extent to which member business lending by insured credit unions helps to meet financial services needs of low- and moderate-income individuals within the field of membership of insured credit unions;
 

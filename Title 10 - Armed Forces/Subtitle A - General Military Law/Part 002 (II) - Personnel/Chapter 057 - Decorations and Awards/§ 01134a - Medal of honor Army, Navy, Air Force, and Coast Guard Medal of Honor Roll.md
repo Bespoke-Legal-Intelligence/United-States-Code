@@ -2,11 +2,11 @@
 
 (a)
 
-Establishment.—There shall be in the Department of the Army, the Department of theNavy, the Department of the Air Force, and the Department in which the Coast Guard is operating a roll designated as the "Army, Navy, Air Force, and Coast Guard Medal of Honor Roll".
+Establishment.—There shall be in the Department of the Army, the Department of the Navy, the Department of the Air Force, and the Department in which the Coast Guard is operating a roll designated as the "Army, Navy, Air Force, and Coast Guard Medal of Honor Roll".
 
 (b)
 
-Enrollment.—The Secretary concerned shall enter and record on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll the name of each person who has served on active duty in the armed forces and who has been awarded a medal of honor pursuant to section 3741, 6241, or 8741 of this title or section 491 of title 14.
+Enrollment.—The Secretary concerned shall enter and record on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll the name of each person who has served on active duty in the armed forces and who has been awarded a medal of honor pursuant to section 7271, 8291, or 9271 of this title or section 491 <sup>1</sup> of title 14.
 
 (c)
 
@@ -16,9 +16,23 @@ Issuance of Enrollment Certificate.—Each living person whose name is entered o
 
 Entitlement to Special Pension; Notice to Secretary of Veterans Affairs.—The Secretary concerned shall deliver to the Secretary of Veterans Affairs a certified copy of each certificate of enrollment issued under subsection (c). The copy of the certificate shall authorize the Secretary of Veterans Affairs to pay the special pension provided by section 1562 of title 38 to the person named in the certificate.
 
-(Added Pub. L. 113–66, div. A, title V, §563(a)(1), Dec. 26, 2013, 127 Stat. 767.)
+(Added Pub. L. 113–66, div. A, title V, §563(a)(1), Dec. 26, 2013, 127 Stat. 767; amended Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+
+#### References in Text
+
+Section 491 of title 14, referred to in subsec. (b), was redesignated section 2732 of title 14 by Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 491 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–232 substituted "section 7271, 8291, or 9271" for "section 3741, 6241, or 8741".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date
 
 Pub. L. 113–66, div. A, title V, §563(d), Dec. 26, 2013, 127 Stat. 768, provided that: "The amendments made by this section \[enacting this section, amending section 1562 of Title 38, Veterans' Benefits, and repealing sections 1560 and 1561 of Title 38\] shall apply with respect to Medals of Honor awarded on or after the date of the enactment of this Act \[Dec. 26, 2013\]."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

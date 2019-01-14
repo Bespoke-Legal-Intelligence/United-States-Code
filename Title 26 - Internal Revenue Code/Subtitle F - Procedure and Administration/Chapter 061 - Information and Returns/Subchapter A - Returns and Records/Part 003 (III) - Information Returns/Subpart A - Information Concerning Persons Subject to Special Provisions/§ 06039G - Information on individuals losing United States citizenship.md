@@ -70,7 +70,7 @@ Subsec. (b). Pub. L. 108–357, §804(e)(2), reenacted heading, introductory pro
 
 Subsec. (c). Pub. L. 108–357, §804(e)(4), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: "For purposes of this section, the acts referred to in this subsection are—
 
-&emsp;"(1) the individual's renunciation of his United States nationality before a diplomatic or consular officer of the United States pursuant to paragraph (5)of section 349(a) of the Immigration and Nationality Act (8 U.S.C. 1481(a)(5)),
+&emsp;"(1) the individual's renunciation of his United States nationality before a diplomatic or consular officer of the United States pursuant to paragraph (5) of section 349(a) of the Immigration and Nationality Act (8 U.S.C. 1481(a)(5)),
 
 &emsp;"(2) the individual's furnishing to the United States Department of State a signed statement of voluntary relinquishment of United States nationality confirming the performance of an act of expatriation specified in paragraph (1), (2), (3), or (4) of section 349(a) of the Immigration and Nationality Act (8 U.S.C. 1481(a)(1)–(4)),
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 110–245 applicable to any individual whose expatriation d
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to individuals who expatriate after June 3, 2004, see section 804(f) of Pub. L. 108–357, set out as a note under section 877 of this title.
+Amendment by Pub. L. 108–357 applicable to individuals who expatriate after June 3, 2004, see section 804(f)of Pub. L. 108–357, set out as a note under section 877 of this title.
 
 #### Effective Date
 

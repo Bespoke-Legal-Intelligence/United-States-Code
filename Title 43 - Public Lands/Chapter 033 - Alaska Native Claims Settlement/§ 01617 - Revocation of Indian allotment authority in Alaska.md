@@ -20,7 +20,7 @@ Any allotments approved pursuant to this section during the four years following
 
 (B) If an application pending before the Department of the Interior as described in subparagraph (A) describes land selected by, but not tentatively approved to or patented to, the State of Alaska, the concurrence of the Secretary of the Interior shall be required in order for an application to proceed under this section.
 
-(2)(A) The Secretary shall accept reconveyance or relinquishment from the State of Alaska of the land described in an amended application pursuant to paragraph (1)(A), except where the land described in the amended application is State-owned land within the boundaries of aconservation system unit as defined in the Alaska National Interest Lands Conservation Act. Upon acceptance, the Secretary shall issue a Native Allotment certificate to the applicant for the land reconveyed or relinquished by the State of Alaska to the United States.
+(2)(A) The Secretary shall accept reconveyance or relinquishment from the State of Alaska of the land described in an amended application pursuant to paragraph (1)(A), except where the land described in the amended application is State-owned land within the boundaries of a conservation system unit as defined in the Alaska National Interest Lands Conservation Act. Upon acceptance, the Secretary shall issue a Native Allotment certificate to the applicant for the land reconveyed or relinquished by the State of Alaska to the United States.
 
 (B) The Secretary shall adjust the computation of the acreage charged against the land entitlement of the State of Alaska to ensure that this subsection will not cause the State to receive either more or less than its full land entitlement under section 6 of the Act entitled "An Act to provide for the admission of the State of Alaska into the Union", approved July 7, 1958 (commonly referred to as the "Alaska Statehood Act"), and section 906 of the Alaska National Interest Lands Conservation Act (43 U.S.C. 1635). If the State retains any part of the fee estate, the State shall remain charged with the acreage.
 
@@ -82,7 +82,7 @@ Any allotments approved pursuant to this section during the four years following
 
 &emsp;(B) shall not file an action in any court to recover title from a current landowner.
 
-(2) A certificate of allotment that is issued for any allotment application for which a request for reinstatement or reconstruction is received or accepted after December 10, 2004 shall be made subject to any Federal appropriation,trail, right-of-way, easement, or existing third party interest of record, including third party interests created by the State, without regard to the date on which the Native allotment applicant initiated use and occupancy.
+(2) A certificate of allotment that is issued for any allotment application for which a request for reinstatement or reconstruction is received or accepted after December 10, 2004 shall be made subject to any Federal appropriation, trail, right-of-way, easement, or existing third party interest of record, including third party interests created by the State, without regard to the date on which the Native allotment applicant initiated use and occupancy.
 
 (Pub. L. 92–203, §18, Dec. 18, 1971, 85 Stat. 710; Pub. L. 102–415, §3, Oct. 14, 1992, 106 Stat. 2112; Pub. L. 108–452, title III, §§301, 303, 305, Dec. 10, 2004, 118 Stat. 3587, 3588, 3590.)
 

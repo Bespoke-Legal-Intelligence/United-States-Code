@@ -28,13 +28,13 @@ Definition.—The term "valuables" means any articles or things or representativ
 
 &emsp;&emsp;(B)
 
-Requirement for declaring articles or things valuable.—The Secretary shallnot declare articles or things that are lost, destroyed, or damaged in the course of shipment to be valuables unless the Secretary determines that replacement of the articles or things in accordance with the procedure established in this chapter would be in the public interest.
+Requirement for declaring articles or things valuable.—The Secretary shall not declare articles or things that are lost, destroyed, or damaged in the course of shipment to be valuables unless the Secretary determines that replacement of the articles or things in accordance with the procedure established in this chapter would be in the public interest.
 
 &emsp;(4)
 
 Wholly owned government corporation.—The term "wholly owned Government corporation"—
 
-&emsp;&emsp;(A) means any corporation, regardless of the law under which it is incorporated, the capital of which is entirely owned by the Government; and
+&emsp;&emsp;(A) means any corporation, regardless of the law under which it is incorporated, thecapital of which is entirely owned by the Government; and
 
 &emsp;&emsp;(B) includes the authorized officers, employees, and agents of the corporation.
 

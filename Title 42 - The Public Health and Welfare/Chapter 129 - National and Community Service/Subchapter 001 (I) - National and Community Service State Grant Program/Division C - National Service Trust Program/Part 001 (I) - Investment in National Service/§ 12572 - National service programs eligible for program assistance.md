@@ -8,7 +8,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 #### (A) In general
 
-&emsp;&emsp;The recipient may carry out national service programs through an Education Corps that identifies and meets unmet educational needs within communities through activities such as those described in subparagraph (B)and improves performance on the indicators described in subparagraph (C).
+&emsp;&emsp;The recipient may carry out national service programs through an Education Corpsthat identifies and meets unmet educational needs within communities through activities such as those described in subparagraph (B) and improves performance on the indicators described in subparagraph (C).
 
 #### (B) Activities
 
@@ -82,7 +82,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(vi) providing services designed to meet the health needs of rural communities, including the recruitment of youth to work in health professions in such communities;
 
-&emsp;&emsp;&emsp;(vii) assisting in health promotion interventions that improve health status, and helping people adopt and maintain healthy lifestyles and habits to improve health status;
+&emsp;&emsp;&emsp;(vii) assisting in health promotion interventions that improve health status, andhelping people adopt and maintain healthy lifestyles and habits to improve health status;
 
 &emsp;&emsp;&emsp;(viii) addressing childhood obesity through in-school and after-school physical activities, and providing nutrition education to students, in elementary schools and secondary schools; or
 
@@ -208,7 +208,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(viii) any additional indicator that relates to education or skill attainment that assists in providing veterans with the skills to address identifiable public needs, or that relates to improving the lives of veterans, of members of the Armed Forces on active duty, and of families of the veterans and the members on active duty, and that the Corporation, in consultation (as appropriate) with the Secretary of Veterans Affairs, establishes; or
 
-&emsp;&emsp;&emsp;(ix) any additional local indicator (applicable to a particular recipient and on which an improvement in performance is needed) relating to the education or skill attainment, or the improvement, described in clause (viii), that is approved by the Corporation or a State Commission.
+&emsp;&emsp;&emsp;(ix) any additional local indicator (applicable to a particular recipient and on which an improvement in performance isneeded) relating to the education or skill attainment, or the improvement, described in clause (viii), that is approved by the Corporation or a State Commission.
 
 #### (5) Opportunity Corps
 
@@ -350,13 +350,13 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;(B) A service program that—
 
-&emsp;&emsp;&emsp;(i) recruits individuals with special skills or provides specialized preservice training to enable participants to be placed individually or in teams in positions in which the participants can meet such unmet needs; and
+&emsp;&emsp;&emsp;(i) recruits individuals with special skills or provides specialized preservice training to enable participants to be placed individually or in teams in positions in which theparticipants can meet such unmet needs; and
 
-&emsp;&emsp;&emsp;(ii) if consistent with the purposes of the program, brings participants together foradditional training and other activities designed to foster civic responsibility, increase the skills of participants, and improve the quality of the service provided.
+&emsp;&emsp;&emsp;(ii) if consistent with the purposes of the program, brings participants together for additional training and other activities designed to foster civic responsibility, increase the skills of participants, and improve the quality of the service provided.
 
 &emsp;&emsp;(C) A campus-based program that is designed to provide substantial service in a community during the school term and during summer or other vacation periods through the use of—
 
-&emsp;&emsp;&emsp;(i) students who are attending an institution of higher education, including students participating in a work-study program assisted under part C of title IV of the Higher Education Act of 1965 (42 U.S.C. 2751 et seq.); <sup>1</sup>
+&emsp;&emsp;&emsp;(i) students who are attending an institution of higher education, including students participating in a work-study program assisted under part C of title IV of the Higher Education Act of 1965 (42 U.S.C. 2751 et seq.); <sup>4</sup>
 
 &emsp;&emsp;&emsp;(ii) teams composed of students described in clause (i); or
 
@@ -408,7 +408,7 @@ In awarding financial assistance and approved national service positions to elig
 
 &emsp;&emsp;(B) the Corporation shall give priority to eligible entities that propose to carry out national service programs in medically underserved areas (as designated individually, by the Secretary of Health and Human Services as an area with a shortage of personal health services); and
 
-&emsp;(2) in the case of a corps described in subsection (a)(3), the Corporation shall give priority to eligible entities that propose to recruit individuals for the Clean Energy Service Corps so that significant percentages of participants in the Corps are economically disadvantaged individuals, and provide to such individuals support services and education and training to develop skills needed for clean energy jobs for which there is current demand or projected future demand.
+&emsp;(2) in the case of a corps described in subsection (a)(3), the Corporation shall give priority to eligible entities that propose to recruit individuals for the Clean Energy Service Corps so that significant percentages of participants in the Corps are economically disadvantagedindividuals, and provide to such individuals support services and education and training to develop skills needed for clean energy jobs for which there is current demand or projected future demand.
 
 #### (f) National service priorities
 
@@ -518,11 +518,15 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
+#### Effective Date
+
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
+
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "or".</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be "paragraph".</i>
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 

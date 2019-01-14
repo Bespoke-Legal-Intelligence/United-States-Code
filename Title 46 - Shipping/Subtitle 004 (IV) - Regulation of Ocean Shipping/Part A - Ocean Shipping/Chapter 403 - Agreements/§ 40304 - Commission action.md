@@ -2,7 +2,11 @@
 
 (a)
 
-Notice of Filing.—Within 7 days after an agreement is filed, the Federal Maritime Commission shall transmit a notice of the filing to the Federal Register for publication.
+Notice of Filing.—Not later than 7 days after the date an agreement is filed, the Federal Maritime Commission shall—
+
+&emsp;(1) transmit a notice of the filing to the Federal Register for publication; and
+
+&emsp;(2) request interested persons to submit relevant information and documents.
 
 (b)
 
@@ -22,7 +26,7 @@ Review and Effective Date.—Unless rejected under subsection (b), an agreement 
 
 (d)
 
-Request for Additional Information.—Before the expiration of the period specified in subsection (c)(1), the Commission may request from the person filing the agreement any additional information and documents the Commission considers necessary to make the determinations required by this section.
+Request for Additional Information.—Before the expiration of the period specified in subsection (c)(1), the Commission may request from the person filing the agreement any additional information and documents the Commission considers necessary to make the determinations required by this part.
 
 (e)
 
@@ -40,7 +44,7 @@ Extension.—The period specified in subsection (c)(2) may be extended only by t
 
 Fixed Terms.—The Commission may not limit the effectiveness of an agreement to a fixed term.
 
-(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1530.)
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1530; Pub. L. 115–282, title VII, §706(a), (b), Dec. 4, 2018, 132 Stat. 4295.)
 
 Historical and Revision Notes
 
@@ -81,4 +85,20 @@ Pub. L. 98–237, §6(a)–(f), Mar. 20, 1984, 98 Stat. 72.
 40304(f)
 
 46 App.:1705(f).
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–282, §706(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "Within 7 days after an agreement is filed, the Federal Maritime Commission shall transmit a notice of the filing to the Federal Register for publication."
+
+Subsec. (d). Pub. L. 115–282, §706(b), substituted "part" for "section".
+
+#### Saving Clause
+
+Pub. L. 115–282, title VII, §706(c), Dec. 4, 2018, 132 Stat. 4295, provided that: "Nothing in this section \[amending this section\], or the amendments made by this section, may be construed—
+
+&emsp;"(1) to prevent the Federal Maritime Commission from requesting from a person, at any time, any additional information or documents the Commission considers necessary to carry out chapter 403 of title 46, United States Code;
+
+&emsp;"(2) to prescribe a specific deadline for the submission of relevant information and documents in response to a request under section 40304(a)(2) of title 46, United States Code; or
+
+&emsp;"(3) to limit the authority of the Commission to request information under section 40304(d) of title 46, United States Code."
 

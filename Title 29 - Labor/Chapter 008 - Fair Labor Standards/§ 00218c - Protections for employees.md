@@ -18,7 +18,7 @@ No employer shall discharge or in any manner discriminate against any employee w
 
 #### (1) In general
 
-&emsp;An employee who believes that he or she has been discharged or otherwise discriminatedagainst by any employer in violation of this section may seek relief in accordance with the procedures, notifications, burdens of proof, remedies, and statutes of limitation set forth in section 2087(b) of title 15.
+&emsp;An employee who believes that he or she has been discharged or otherwise discriminated against by any employer in violation of this section may seek relief in accordance with the procedures, notifications, burdens of proof, remedies, and statutes of limitation set forth in section 2087(b) of title 15.
 
 #### (2) No limitation on rights
 

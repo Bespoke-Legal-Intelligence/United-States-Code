@@ -132,7 +132,7 @@
 
 (h) For the purpose of survivor annuities, deposits authorized by subsections (c), (d)(1), (j), and (k) of this section may also be made by a survivor of an employee or Member.
 
-(i)(1) The Director of the Administrative Office of the United States Courts shall pay to the Fund the amount which an employee may deposit under subsection (c) of this section for service creditable under section 8332(b)(12) of this title if such creditable service immediately precedes service as an employee subject to this subchapter with a break in service of no more than ninety working days. The Director shall pay such amount from any appropriation available to him as a necessary expense of the appropriation concerned.
+(i)(1) The Director of the Administrative Office of the United States Courts shall pay to the Fund the amount which an employee may deposit under subsection (c) of this section forservice creditable under section 8332(b)(12) of this title if such creditable service immediately precedes service as an employee subject to this subchapter with a break in service of no more than ninety working days. The Director shall pay such amount from any appropriation available to him as a necessary expense of the appropriation concerned.
 
 (2) The amount the Director pays in accordance with paragraph (1) of this subsection shall be reduced by the amount of any refund to the employee under section 376 of title 28. Except to the extent of such reduction, the amount the Director pays to the Fund shall satisfy the deposit requirement of subsection (c) of this section.
 
@@ -161,6 +161,12 @@
 (4) The Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, or the Secretary of Health and Human Services, as appropriate, shall furnish such information to the Office as the Office may determine to be necessary for the administration of this subsection.
 
 (5) Effective with respect to any period of military service after December 31, 1998, the percentage of basic pay under section 204 of title 37 payable under paragraph (1) shall be equal to the same percentage as would be applicable under subsection (c) of this section for that same period for service as an employee, subject to paragraph (1)(B).
+
+(6)(A) In calculating and processing the deposit under paragraph (1) with respect to an employee, Member, or annuitant, if the employing agency of such employee, Member, or annuitant makes an administrative error, such employing agency may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
+
+(B) For purposes of subparagraph (A), the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, shall be considered the employing agency of a Member or Congressional employee.
+
+(C) The Director of the Office of Personnel Management shall issue such regulations as are necessary to carry out this paragraph.
 
 (k)(1) Effective with respect to pay periods beginning after December 31, 1986, in administering this section in the case of an individual described in section 8402(b)(2) of this title—
 
@@ -212,11 +218,19 @@
 
 (4) Effective with respect to any period of service after December 31, 1998, the percentage of the readjustment allowance or stipend (as the case may be) payable under paragraph (1) shall be equal to the same percentage as would be applicable under subsection (c) of this section for the same period for service as an employee.
 
+(5)(A) In calculating and processing the deposit under paragraph (1) with respect to an employee, Member, or annuitant, if an employing agency of such employee, Member, or annuitant makes an administrative error that causes additional interest assessed to accrue on the deposit, the employing agency may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
+
+(B) In calculating and processing the deposit under paragraph (1) with respect to an employee, Member, or annuitant, if the Office of Personnel Management makes an administrative error that causes additional interest assessed to accrue on the deposit, the Office of Personnel Management may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
+
+(C) For purposes of subparagraph (A), the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, shall be considered the employing agency of a Member or congressional employee.
+
+(D) The Director of the Office of Personnel Management shall issue such regulations as are necessary to carry out this paragraph.
+
 (m) A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under subsection (e).
 
 (n) Notwithstanding subsection (c), no deposit may be made with respect to service credited under section 8332(b)(17).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 569; Pub. L. 90–83, §1(74), Sept. 11, 1967, 81 Stat. 214; Pub. L.90–486, §5(b), Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–93, title I, §102(a), title II, §202, Oct. 20, 1969, 83 Stat. 136, 138; Pub. L. 92–297, §7(2), May 16, 1972, 86 Stat. 144; Pub. L. 93–350, §3, July 12, 1974, 88 Stat. 356; Pub. L. 94–126, §§1(a), 2(a), Nov. 12, 1975, 89 Stat. 679; Pub. L. 95–382, §1(b), Sept. 22, 1978, 92 Stat. 727; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(b), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 97–164, title II, §207(b), Apr. 2, 1982, 96 Stat. 54; Pub. L. 97–253, title III, §§303(a)(1), 306(d), (e), Sept. 8, 1982, 96 Stat. 793, 796, 797; Pub. L. 97–346, §3(a), (c)–(e)(1), Oct. 15, 1982, 96 Stat. 1647, 1648; Pub. L. 98–94, title XII, §§1256(a), 1257, Sept. 24, 1983, 97 Stat. 701, 702; Pub. L. 89–702, title II, §209(f), as added Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 98–353, title I, §116(b), July 10, 1984, 98 Stat. 344; Pub. L. 98–615, §2(2), Nov. 8, 1984, 98 Stat. 3195; Pub. L. 99–335, title II, §201(a), (c), June 6, 1986, 100 Stat. 588, 591; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–53, §2(b), June 18, 1987, 101 Stat. 367; Pub. L. 100–238, title I, §§102, 108(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1748; Pub. L. 100–659, §6(b), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(a), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–508, title VII, §7001(b)(1), (2)(A), (B), Nov. 5, 1990, 104 Stat. 1388–328, 1388–329; Pub. L. 101–650, title III, §§306(c)(2), (e)(2), 321, Dec. 1, 1990, 104 Stat. 5110, 5112, 5117; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–378, §2(59), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XI, §11004(a)(3), Aug. 10, 1993, 107 Stat. 412; Pub. L. 103–82, title III, §371(a)(2), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–353, §5(b), Oct. 13, 1994, 108 Stat. 3173; Pub. L. 104–186, title II, §215(12), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(a)(3), (4), Aug. 5, 1997, 111 Stat. 653, 657; Pub. L. 105–61, title V, §516(a)(1), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(c)(1), (2), Oct. 17, 1998, 112 Stat. 2254; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–50; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–86; Pub. L. 107–107, div. A, title XI, §1132(a)(2), Dec. 28, 2001, 115 Stat. 1243; Pub. L. 108–18, §2(b), Apr. 23, 2003, 117 Stat. 624; Pub. L. 109–435, title VIII, §802(a)(1), Dec. 20, 2006, 120 Stat. 3249; Pub. L. 110–161, div. E, title V, §535(a)(2), Dec. 26, 2007, 121 Stat. 2075; Pub. L. 111–84, div. A, title XIX, §1902(a), Oct. 28, 2009, 123 Stat. 2615.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 569; Pub. L. 90–83, §1(74), Sept. 11, 1967, 81 Stat. 214; Pub. L. 90–486, §5(b), Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–93, title I, §102(a), title II, §202, Oct. 20, 1969, 83 Stat. 136, 138; Pub. L. 92–297, §7(2), May 16, 1972, 86 Stat. 144; Pub. L. 93–350, §3, July 12, 1974, 88 Stat. 356; Pub. L. 94–126, §§1(a), 2(a), Nov. 12, 1975, 89 Stat. 679; Pub. L. 95–382, §1(b), Sept. 22, 1978, 92 Stat. 727; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(b), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 97–164, title II, §207(b), Apr. 2, 1982, 96 Stat. 54; Pub. L. 97–253, title III, §§303(a)(1), 306(d), (e), Sept. 8, 1982, 96 Stat. 793, 796, 797; Pub. L. 97–346, §3(a), (c)–(e)(1), Oct. 15, 1982, 96 Stat. 1647, 1648; Pub. L. 98–94, title XII, §§1256(a), 1257, Sept. 24, 1983, 97 Stat. 701, 702; Pub. L. 89–702, title II, §209(f), as added Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 98–353, title I, §116(b), July 10, 1984, 98 Stat. 344; Pub. L. 98–615, §2(2), Nov. 8, 1984, 98 Stat. 3195; Pub. L. 99–335, title II, §201(a), (c), June 6, 1986, 100 Stat. 588, 591; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–53, §2(b), June 18, 1987, 101 Stat. 367; Pub. L. 100–238, title I, §§102, 108(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1748; Pub. L. 100–659, §6(b), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(a), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–508, title VII, §7001(b)(1), (2)(A), (B), Nov. 5, 1990, 104 Stat. 1388–328, 1388–329; Pub. L. 101–650, title III, §§306(c)(2), (e)(2), 321, Dec. 1, 1990, 104 Stat. 5110, 5112, 5117; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–378, §2(59), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XI, §11004(a)(3), Aug. 10, 1993, 107 Stat. 412; Pub. L. 103–82, title III, §371(a)(2), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–353, §5(b), Oct. 13, 1994, 108 Stat. 3173; Pub. L. 104–186, title II, §215(12), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(a)(3), (4), Aug. 5, 1997, 111 Stat. 653, 657; Pub. L. 105–61, title V, §516(a)(1), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(c)(1), (2), Oct. 17, 1998, 112 Stat. 2254; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–50; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–86; Pub. L. 107–107, div. A, title XI, §1132(a)(2), Dec. 28, 2001, 115 Stat. 1243; Pub. L. 108–18, §2(b), Apr. 23, 2003, 117 Stat. 624; Pub. L. 109–435, title VIII, §802(a)(1), Dec. 20, 2006, 120 Stat. 3249; Pub. L. 110–161, div. E, title V, §535(a)(2), Dec. 26, 2007, 121 Stat. 2075; Pub. L. 111–84, div. A, title XIX, §1902(a), Oct. 28, 2009, 123 Stat. 2615; Pub. L. 115–352, §§2(a), 3(a), Dec. 21, 2018, 132 Stat. 5067, 5068.)
 
 Historical and Revision Notes<br>1966
 
@@ -286,11 +300,15 @@ The Social Security Act, referred to in subsec. (k)(2)(C)(ii), (4)(A)(ii), is ac
 
 The Economic Opportunity Act of 1964, referred to in subsec. (l)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, §110, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, §603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (l)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§4951 et seq.) and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which was classified generally to part B (§4971 etseq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (l)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§4951 et seq.) and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which was classified generally to part B (§4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
 The Peace Corps Act, referred to in subsec. (l)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (j)(6). Pub. L. 115–352, §2(a), added par. (6).
+
+Subsec. (l)(5). Pub. L. 115–352, §3(a), added par. (5).
 
 <b>2009</b>—Subsec. (d)(2)(A)(i). Pub. L. 111–84 substituted "March 1, 1991" for "October 1, 1990" in two places.
 
@@ -336,7 +354,7 @@ Pub. L. 105–33, §7001(a)(3)(B)(vii), in table relating to a United States mag
 
 Pub. L. 105–33, §7001(a)(3)(B)(vi), in table relating to a judge of the United States Court of Appeals for the Armed Forces for service as a judge of that court, substituted items relating to service periods on and after the date of enactment of the Department of Defense Authorization Act, 1984, to after December 31, 2002, for former item relating to service period on and after the date of the enactment of the Department of Defense Authorization Act, 1984.
 
-Pub. L. 105–33, §7001(a)(3)(B)(v), in table relating to a bankruptcy judge, substituted items relating to service periods January 1, 1984, to after December 31, 2002, for former item relating to service period after December 31, 1983.
+Pub. L. 105–33, §7001(a)(3)(B)(v), in table relating to a bankruptcy judge, substituted items relating to service periods January 1, 1984, to after December 31, 2002, forformer item relating to service period after December 31, 1983.
 
 Pub. L. 105–33, §7001(a)(3)(B)(iv), in table relating to a law enforcement officer for law enforcement service and firefighter for firefighter service, substituted items relating to service periods January 1, 1975, to after December 31, 2002, for former item relating to service period after December 31, 1974.
 
@@ -438,7 +456,7 @@ Subsec. (g)(4). Pub. L. 98–129 substituted "October 29, 1983," for "January 1,
 
 Subsec. (j)(2)(A). Pub. L. 98–94, §1257, substituted "October 1, 1983" for "October 1, 1982".
 
-<b>1982</b>—Subsec. (e). Pub. L. 97–253, §303(a)(1), redesignated existing provisions as par. (2), inserted provision that interest accrues annually on the outstanding portion of any amount that may be deposited under subsec. (c), (d), or (j) of this section, and is compounded annually until the portion is deposited, substituted "Such interest" for "Interest under subsection (c) or (d) of this section", struck out ", to the date of deposit or commencing date of annuity, whichever is earlier" after "date refund was paid", and struck out provision that the interest was computed at the rate of four percent a year to Dec. 31, 1947, and 3 percent thereafter compounded annually, and added pars. (1) and (3).
+<b>1982</b>—Subsec. (e). Pub. L. 97–253, §303(a)(1), redesignated existing provisions as par. (2), inserted provisionthat interest accrues annually on the outstanding portion of any amount that may be deposited under subsec. (c), (d), or (j) of this section, and is compounded annually until the portion is deposited, substituted "Such interest" for "Interest under subsection (c) or (d) of this section", struck out ", to the date of deposit or commencing date of annuity, whichever is earlier" after "date refund was paid", and struck out provision that the interest was computed at the rate of four percent a year to Dec. 31, 1947, and 3 percent thereafter compounded annually, and added pars. (1) and (3).
 
 Subsec. (e)(3). Pub. L. 97–346, §3(c), substituted "the preceding fiscal year" for "the preceding calendar year" and "during such fiscal year" for "during such calendar year".
 
@@ -452,7 +470,7 @@ Subsec. (j). Pub. L. 97–253, §306(d), added subsec. (j).
 
 Subsec. (j)(1). Pub. L. 97–346, §3(a), substituted "period" for "month".
 
-Pub. L. 97–346, §3(e)(1), struck out "within 90 days after the effective date of this subsection" after "regulations as the Office shall issue", and substituted "The amount of such payments shall be based on such evidence of basic pay for military service as the employee or Member may provide, or if the Office determines sufficient evidence has not been so provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Office under paragraph (4)" for "as certified to the agency, the Secretary of the Senate, or the Clerk of the House of Representatives, as appropriate, by the Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, or the Secretary ofHealth and Human Services, as appropriate, upon the employee's or Member's request".
+Pub. L. 97–346, §3(e)(1), struck out "within 90 days after the effective date of this subsection" after "regulations as the Office shall issue", and substituted "The amount of such payments shall be based on such evidence of basic pay for military service as the employee or Member may provide, or if the Office determines sufficient evidence has not been so provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Office under paragraph (4)" for "as certified to the agency, the Secretary of the Senate, or the Clerk of the House of Representatives, as appropriate, by the Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, or the Secretary of Health and Human Services, as appropriate, upon the employee's or Member's request".
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–598 inserted bankruptcy judge schedule of deposits.
 
@@ -524,13 +542,13 @@ Amendment by Pub. L. 105–261 effective at the beginning of the first pay perio
 
 #### Effective Date of 1997 Amendments
 
-Section 516(b) of Pub. L. 105–61 provided that: "The amendments made by subsection (a) \[amending this section and sections 8337, 8339, 8341, 8343a, 8344, 8415, 8422, and 8468 of this title\] shall be applicable to any annuity commencing before, on, or after the date of enactment of this Act \[Oct. 10, 1997\], and shall be effective with regard to any payment made after the first month following the date of enactment."
+Pub. L. 105–61, title V, §516(b), Oct. 10, 1997, 111 Stat. 1307, provided that: "The amendments made by subsection (a) \[amending this section and sections 8337, 8339, 8341, 8343a, 8344, 8415, 8422, and 8468 of this title\] shall be applicable to any annuity commencing before, on, or after the date of enactment of this Act \[Oct. 10, 1997\], and shall be effective with regard to any payment made after the first month following the date of enactment."
 
-Section 7001(f) of Pub. L. 105–33 provided that:
+Pub. L. 105–33, title VII, §7001(f), Aug. 5, 1997, 111 Stat. 662, provided that:
 
 "(1)
 
-In general.—This section \[amending this section, section 8422 of this title, sections 4045, 4071c, and 4071e of Title 22, Foreign Relations and Intercourse, and section 2082 of Title 50, War and National Defense,and enacting provisions set out as notes under this section, section 8422 of this title, sections 4045 and 4071c of Title 22, and section 2021 of Title 50\] shall take effect on—
+In general.—This section \[amending this section, section 8422 of this title, sections 4045, 4071c, and 4071e of Title 22, Foreign Relations and Intercourse, and section 2082 of Title 50, War and National Defense, and enacting provisions set out as notes under this section, section 8422 of this title, sections 4045 and 4071c of Title 22, and section 2021 of Title 50\] shall take effect on—
 
 &emsp;"(A) October 1, 1997; or
 
@@ -558,13 +576,13 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 101–650 applicable to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after Dec. 1, 1990, see section 306(f) of Pub. L. 101–650, set out as a note under section 8331 of this title.
 
-Section 7001(b)(3) of Pub. L. 101–508 provided that: "The amendments made by this subsection \[amending this section and sections 8339 and 8342 of this title\] shall be effective with respect to any annuity having a commencement date later than December 1, 1990."
+Pub. L. 101–508, title VII, §7001(b)(3), Nov. 5, 1990, 104 Stat. 1388–329, provided that: "The amendments made by this subsection \[amending this section and sections 8339 and 8342 of this title\] shall be effective with respect to any annuity having a commencement date later than December 1, 1990."
 
 #### Effective Date of 1988 Amendments
 
 Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistrate judges who retire on or after Nov. 15, 1988, with exception for judges and magistrate judges retiring on or after July 31, 1987, see section 9 of Pub. L. 100–659, as amended, set out as an Effective Date note under section 377 of Title 28, Judiciary and Judicial Procedure.
 
-Section 108(b)(3) of Pub. L. 100–238 provided that: "The amendments made by this subsection \[amending this section and section 8349 of this title\] shall be effective as of January 1, 1987."
+Pub. L. 100–238, title I, §108(b)(3), Jan. 8, 1988, 101 Stat. 1748, provided that: "The amendments made by this subsection \[amending this section and section 8349 of this title\] shall be effective as of January 1, 1987."
 
 #### Effective Date of 1987 Amendment
 
@@ -582,11 +600,11 @@ Amendment by Pub. L. 98–353 effective July 10, 1984, and applicable to bankrup
 
 #### Effective Date of 1983 Amendment
 
-Section 1256(f) of Pub. L. 98–94 provided that: "The increase in deductions from the pay of a judge of the United States Court of Military Appeals \[now United States Court of Appeals for the Armed Forces\] required by section 8334(a) of title 5, United States Code, as amended by subsection (a), shall take effect with respect to the first pay period that begins after the date of the enactment of this Act \[Sept. 24, 1983\]."
+Pub. L. 98–94, title XII, §1256(f), Sept. 24, 1983, 97 Stat. 702, provided that: "The increase in deductions from the pay of a judge of the United States Court of Military Appeals \[now United States Court of Appeals for the Armed Forces\] required by section 8334(a) of title 5, United States Code, as amended by subsection (a), shall take effect with respect to the first pay period that begins after the date of the enactment of this Act \[Sept. 24, 1983\]."
 
 #### Effective Date of 1982 Amendments
 
-Section 303(d)(1) of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(j)(1), Oct. 15, 1982, 96 Stat. 1649, provided that:
+Pub. L. 97–253, title III, §303(d)(1), Sept. 8, 1982, 96 Stat. 794, as amended by Pub. L. 97–346, §3(j)(1), Oct. 15, 1982, 96 Stat. 1649, provided that:
 
 "The amendments made by subsections (a) and (b) \[amending this section and sections 8339 and 8343 of this title\] shall apply with respect to deposits for service performed on or after October 1, 1982, and with respect to refunds for which application is received by either the employing agency or the Office of Personnel Management on or after such date. The provisions of section 8334 and section 8339(i) of title 5, United States Code, as in effect the day before the date of the enactment of this Act \[Sept. 7, 1982\], shall continue to apply with respect to periods of service and refunds occurring on or before September 30, 1982. Notwithstanding the preceding two sentences, the amendments made by subsection (a) shall apply in the case of any deposit for military service under section 8334(j) of title 5, United States Code (as added by section 306(d) of this Act), regardless of whether such military service was performed before or after October 1, 1982."
 
@@ -604,7 +622,7 @@ Amendment by Pub. L. 95–382 effective Oct 1, 1978, and applicable to specified
 
 #### Effective Date of 1975 Amendment
 
-Section 3 of Pub. L. 94–126 provided that: "The amendments made by the first section of this Act\[amending this section and sections 8339 and 8345 of this title\] shall become effective as of January 1, 1969, except that such amendments shall not apply to a person who, on the date of enactment of this Act \[Nov. 12, 1975\], is receiving or is entitled to receive benefits under any retirement system established by the United States or any instrumentality thereof, unless such person requests, in writing, the office which administers his retirement system to apply such amendments to him. Any additional benefits payable pursuant to such a written request shall commence on the first day of the month \[December\] following the date of the enactment of this Act."
+Pub. L. 94–126, §3, Nov. 12, 1975, 89 Stat. 679, provided that: "The amendments made by the first section of this Act \[amending this section and sections 8339 and 8345 of this title\] shall become effective as of January 1, 1969, except that such amendments shall not apply to a person who, on the date of enactment of this Act \[Nov. 12, 1975\], is receiving or is entitled to receive benefits under any retirement system established by the United States or any instrumentality thereof, unless such person requests, in writing, the office which administers his retirement system to apply such amendments to him. Any additional benefits payable pursuant to such a written request shall commence on the first day of the month \[December\] following the date of the enactment of this Act."
 
 #### Effective Date of 1974 Amendment
 
@@ -616,13 +634,17 @@ Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see sect
 
 #### Effective Date of 1969 Amendment
 
-Section 102(b) of Pub. L. 91–93 provided that: "The amendment made by subsection (a)(1) of this section \[amending this section\] shall become effective at the beginning of the first applicable pay period beginning after December 31, 1969."
+Pub. L. 91–93, title I, §102(b), Oct. 20, 1969, 83 Stat. 137, provided that: "The amendment made by subsection (a)(1) of this section \[amending this section\] shall become effective at the beginning of the first applicable pay period beginning after December 31, 1969."
 
 Amendment by Pub. L. 91–93 inapplicable in cases of persons retired or otherwise separated prior to Oct. 20, 1969, their rights and of their survivors continued as if such amendment had not been enacted, see section 207(a) of Pub. L. 91–93, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–486 effective Jan. 1, 1969, except that no deductions or withholding from salary which result therefrom shall commence before first day of first pay period that begins on or after Jan. 1, 1968, see section 11 of Pub. L. 90–486, set out as a note under section 709 of Title 32, National Guard.
+
+#### Authorization of Payments
+
+Pub. L. 115–352, §3(c), Dec. 21, 2018, 132 Stat. 5068, provided that: "All payments from the Office of Personnel Management authorized by subsections (a) and (b) \[amending this section and section 8422 of this title\] shall be paid from the Civil Service Retirement and Disability Fund, and together with administrative expenses incurred by the Office in administering these subsections, shall be deemed to have been authorized to be paid from that Fund, which is appropriated for the payment thereof."
 
 #### Contributions to Federal Civil Service Retirement System
 

@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(ii) mischaracterizing or suborning the mischaracterization of the appraised value of the property securing the extension of credit; or
 
-&emsp;&emsp;&emsp;(iii) if unable to suggest, offer, or recommend to a consumer a loan that is not more expensive than a loan for which the consumer qualifies, discouraging a consumer from seeking a residential mortgage loan secured by a consumer's principal dwelling from another mortgage originator.
+&emsp;&emsp;&emsp;(iii) if unable to suggest, offer, or recommend to a consumer a loan that is not more expensive than a loan for which the consumer qualifies, discouraging a consumer from seeking a residential mortgage loan secured by a consumer's principaldwelling from another mortgage originator.
 
 #### (4) Rules of construction
 

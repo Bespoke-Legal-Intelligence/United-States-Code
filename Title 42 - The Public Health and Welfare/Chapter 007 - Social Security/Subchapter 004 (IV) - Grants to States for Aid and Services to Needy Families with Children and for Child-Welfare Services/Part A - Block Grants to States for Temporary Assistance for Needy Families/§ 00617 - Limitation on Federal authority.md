@@ -1,6 +1,6 @@
 ### §617. Limitation on Federal authority
 
-No officer or employee of the Federal Government may regulate the conduct of States under this part or enforce any provision of this part, except to the extent expressly provided in this part.
+No officer or employee of the Federal Government may regulate the conduct of States under this part or enforce any provision of this part,except to the extent expressly provided in this part.
 
 (Aug. 14, 1935, ch. 531, title IV, §417, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2159; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.)
 
@@ -18,5 +18,5 @@ Amendment by Pub. L. 105–33 effective as if included in the provision of Pub. 
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing outof accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 

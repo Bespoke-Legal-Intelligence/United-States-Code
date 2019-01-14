@@ -26,7 +26,7 @@ Within one year after October 8, 2010, the Commission shall establish regulation
 
 &emsp;&emsp;&emsp;(ii)
 
-No violation.—If a determination is made that a violation has not occurred, the Commission shall provide the basis for such determination.
+No violation.—If a determination is made that a violation has not occurred,the Commission shall provide the basis for such determination.
 
 #### (C) Consolidation of complaints
 

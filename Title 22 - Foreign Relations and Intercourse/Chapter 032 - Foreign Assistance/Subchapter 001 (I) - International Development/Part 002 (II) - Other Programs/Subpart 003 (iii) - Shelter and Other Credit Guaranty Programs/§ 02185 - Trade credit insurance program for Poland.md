@@ -58,7 +58,7 @@ The Bank is authorized to charge fees and premiums, in connection with guarantee
 
 #### (k) Restrictions not applicable
 
-Prohibitions on the use of foreign assistance funds for assistance for Poland shall not apply with respect to the funds made available to carry out this section.
+Prohibitions on the use of foreign assistance funds for assistance for Poland shall not applywith respect to the funds made available to carry out this section.
 
 #### (l) Expiration of authority
 

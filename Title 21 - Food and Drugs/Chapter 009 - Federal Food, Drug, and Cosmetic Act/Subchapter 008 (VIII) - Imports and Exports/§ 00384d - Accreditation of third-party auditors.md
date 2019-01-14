@@ -90,7 +90,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;An accreditation body (or, in the case of direct accreditation under subsection (b)(1)(A)(ii), the Secretary) may not accredita third-party auditor unless such third-party auditor agrees to issue a written and, as appropriate, electronic food certification, described in section 381(q) of this title, or facility certification under section 384b(a) of this title, as appropriate, to accompany each food shipment for import into the United States from an eligible entity, subject to requirements set forth by the Secretary. Such written or electronic certification may be included with other documentation regarding such food shipment. The Secretary shall consider certifications under section 381(q) of this title and participation in the voluntary qualified importer program described in section 384b of this title when targeting inspection resources under section 350j of this title.
+&emsp;&emsp;An accreditation body (or, in the case of direct accreditation under subsection (b)(1)(A)(ii), the Secretary) may not accredit a third-party auditor unless such third-party auditor agrees to issue a written and, as appropriate, electronic food certification, described in section 381(q) of this title, or facility certification under section 384b(a) of this title, as appropriate, to accompany each food shipment for import into the United States from an eligible entity, subject to requirements set forth by the Secretary. Such written or electronic certification may be included with other documentation regarding such food shipment. The Secretary shall consider certifications under section 381(q) of this title and participation in the voluntary qualified importer program described in section 384b of this title when targeting inspection resources under section 350j of this title.
 
 #### (B) Purpose of certification
 
@@ -126,7 +126,7 @@ In this section:
 
 #### (B) Records
 
-&emsp;&emsp;Following any accreditation of a third-party auditor, the Secretary may, at any time, require the accredited third-party auditor to submit to the Secretary an onsite audit report and such other reports or documents required as part of the audit process, for any eligible entity certified by the third-party auditor or audit agent of such auditor. Such report may include documentation that the eligible entity is in compliance with any applicable registration requirements.
+&emsp;&emsp;Following any accreditation of a third-party auditor, the Secretary may, at any time, require the accredited third-party auditor to submit to the Secretary an onsite audit report and such other reports or documents required as part of the audit process, for any eligible entity certified by the third-party auditor or audit agent of such auditor.Such report may include documentation that the eligible entity is in compliance with any applicable registration requirements.
 
 #### (C) Limitation
 

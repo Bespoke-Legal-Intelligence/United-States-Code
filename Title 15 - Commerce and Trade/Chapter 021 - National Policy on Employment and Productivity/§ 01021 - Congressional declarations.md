@@ -14,7 +14,7 @@ The Congress further declares that inflation is a major national problem requiri
 
 #### (d) Coordination of Federal policies and programs
 
-The Congress further declares that it is the purpose of the Full Employment and BalancedGrowth Act of 1978 \[15 U.S.C. 3101 et seq.\] to improve the coordination and integration of the policies and programs of the Federal Government toward achievement of the objectives of such Act through better management, increased efficiency, and attention to long-range as well as short-range problems and to balancing the Federal budget.
+The Congress further declares that it is the purpose of the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\] to improve the coordination and integration of the policies and programs of the Federal Government toward achievement of the objectives of such Act through better management, increased efficiency, and attention to long-range as well as short-range problems and to balancing the Federal budget.
 
 #### (e) Federal controls
 
@@ -64,7 +64,7 @@ Act Feb. 20, 1946, ch. 33, §1, 60 Stat. 23, provided: "This Act \[enacting this
 
 #### Statement of Purpose
 
-Pub. L. 95–523, title I, §101, Oct. 27, 1978, 92 Stat. 1890, provided that: "It is the purpose of this title \[enacting sections 1022a to 1022f of this title, amending sections 1021, 1022 and 1023 of this title and section 225a of Title12, Banks and Banking, and enacting provisions set out as a note under section 225a of Title 12\]—
+Pub. L. 95–523, title I, §101, Oct. 27, 1978, 92 Stat. 1890, provided that: "It is the purpose of this title \[enacting sections 1022a to 1022f of this title, amending sections 1021, 1022 and 1023 of this title and section 225a of Title 12, Banks and Banking, and enacting provisions set out as a note under section 225a of Title 12\]—
 
 &emsp;"(1) to declare the general policies of this Act \[see Short Title note under section 3101 of this title\];
 

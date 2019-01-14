@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-The Secretary of Agriculture may make competitive grants to States, tribal governments,and research institutions to support the efforts of such States, tribal governments, and research institutions to promote the domestic maple syrup industry through the following activities:
+The Secretary of Agriculture may make competitive grants to States, tribal governments, and research institutions to support the efforts of such States, tribal governments, and research institutions to promote the domestic maple syrup industry through the following activities:
 
 &emsp;(1) Promotion of research and education related to maple syrup production.
 
@@ -40,11 +40,15 @@ The Secretary of Agriculture shall promulgate such regulations as are necessary 
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2018.
+There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 113–79, title XII, §12306, Feb. 7, 2014, 128 Stat. 988.)
+(Pub. L. 113–79, title XII, §12306, Feb. 7, 2014, 128 Stat. 988; Pub. L. 115–334, title XII, §12501, Dec. 20, 2018, 132 Stat. 4982.)
 
 #### Codification
 
 Section was enacted as part of the Agricultural Act of 2014, and not as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (f). Pub. L. 115–334 substituted "2023" for "2018".
 

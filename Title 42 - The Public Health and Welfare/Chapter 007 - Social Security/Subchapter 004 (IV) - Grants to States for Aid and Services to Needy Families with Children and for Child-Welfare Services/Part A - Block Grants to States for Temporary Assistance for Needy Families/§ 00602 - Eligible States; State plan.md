@@ -18,13 +18,13 @@ As used in this part, the term "eligible State" means, with respect to a fiscal 
 
 &emsp;&emsp;&emsp;(iv) Take such reasonable steps as the State deems necessary to restrict the use and disclosure of information about individuals and families receiving assistance under the program attributable to funds provided by the Federal Government.
 
-&emsp;&emsp;&emsp;(v) Establish goals and take action to prevent and reduce the incidence of out-of-wedlock pregnancies, with special emphasis on teenage pregnancies, and establish numerical goals for reducing the illegitimacy ratio of the State (as defined in section 603(a)(2)(C)(iii) <sup>1</sup> of this title) for calendar years 1996 through 2005.
+&emsp;&emsp;&emsp;(v) Establish goals and take action to prevent and reduce the incidence of out-of-wedlock pregnancies, with special emphasis on teenage pregnancies, and establishnumerical goals for reducing the illegitimacy ratio of the State (as defined in section 603(a)(2)(C)(iii) <sup>1</sup> of this title) for calendar years 1996 through 2005.
 
 &emsp;&emsp;&emsp;(vi) Conduct a program, designed to reach State and local law enforcement officials, the education system, and relevant counseling services, that provides education and training on the problem of statutory rape so that teenage pregnancy prevention programs may be expanded in scope to include men.
 
 &emsp;&emsp;&emsp;(vii) Implement policies and procedures as necessary to prevent access to assistance provided under the State program funded under this part through any electronic fund transaction in an automated teller machine or point-of-sale device located in a place described in section 608(a)(12) of this title, including a plan to ensure that recipients of the assistance have adequate access to their cash assistance.
 
-&emsp;&emsp;&emsp;(viii) Ensure that recipients of assistance provided under the State program funded under this part have access to using or withdrawing assistance with minimal fees or charges, including an opportunityto access assistance with no fee or charges, and are provided information on applicable fees and surcharges that apply to electronic fund transactions involving the assistance, and that such information is made publicly available.
+&emsp;&emsp;&emsp;(viii) Ensure that recipients of assistance provided under the State program funded under this part have access to using or withdrawing assistance with minimal fees or charges, including an opportunity to access assistance with no fee or charges, and are provided information on applicable fees and surcharges that apply to electronic fund transactions involving the assistance, and that such information is made publicly available.
 
 #### (B) Special provisions
 
@@ -66,7 +66,7 @@ As used in this part, the term "eligible State" means, with respect to a fiscal 
 
 #### (6) Certification of standards and procedures to ensure against program fraud and abuse
 
-&emsp;A certification by the chief executive officer of the State that the State has established and is enforcing standards and procedures to ensure against program fraud and abuse, including standards and procedures concerning nepotism, conflicts of interest among individuals responsible for the administration and supervision of the State program, kickbacks, and the use of political patronage.
+&emsp;A certification by the chief executive officer of the State that the State has established and is enforcing standards and procedures to ensure against program fraud and abuse, including standards and procedures concerning nepotism, conflicts of interest among individualsresponsible for the administration and supervision of the State program, kickbacks, and the use of political patronage.
 
 #### (7) Optional certification of standards and procedures to ensure that the State will screen for and identify domestic violence
 
@@ -136,7 +136,7 @@ Pub. L. 106–169, title IV, §401(q), Dec. 14, 1999, 113 Stat. 1859, provided t
 
 Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the provision of Pub. L. 104–193 amended at the time the provision became law, see section 5518(d) of Pub. L. 105–33, set out as a note under section 862a of Title 21, Food and Drugs.
 
-Pub. L. 105–33, title V, §5518(a), Aug. 5, 1997, 111 Stat. 621, provided that: "The amendments made by this chapter to a provision of part A of title IV of the Social Security Act \[chapter 1 (§§5501–5518) of subtitle F of title V of Pub. L. 105–33, amending this section and sections 603, 604, 607, 608, 609, 611, 612, 613, and 616 of this title\] shall take effect as if the amendments had beenincluded in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\] at the time such section became law."
+Pub. L. 105–33, title V, §5518(a), Aug. 5, 1997, 111 Stat. 621, provided that: "The amendments made by this chapter to a provision of part A of title IV of the Social Security Act \[chapter 1 (§§5501–5518) of subtitle F of title V of Pub. L. 105–33, amending this section and sections 603, 604, 607, 608, 609, 611, 612, 613, and 616 of this title\] shall take effect as if the amendments had been included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\] at the time such section became law."
 
 #### Effective Date
 

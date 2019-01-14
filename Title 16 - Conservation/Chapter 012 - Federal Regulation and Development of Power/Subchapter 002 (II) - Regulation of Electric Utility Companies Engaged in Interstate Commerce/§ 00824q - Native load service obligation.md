@@ -66,7 +66,7 @@ This section does not authorize the Commission to take any action not otherwise 
 
 #### (k) Effect of exercising rights
 
-An entity that to the extent required to meet its service obligations exercises rights described in subsection (b) shall not be considered by such action as engaging in undue discrimination or preference under this chapter.
+An entity that to the extent required to meet its service obligations exercises rights describedin subsection (b) shall not be considered by such action as engaging in undue discrimination or preference under this chapter.
 
 (June 10, 1920, ch. 285, pt. II, §217, as added Pub. L. 109–58, title XII, §1233(a), Aug. 8, 2005, 119 Stat. 957.)
 

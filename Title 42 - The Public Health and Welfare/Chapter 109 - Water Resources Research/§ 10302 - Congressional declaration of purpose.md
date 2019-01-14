@@ -6,7 +6,7 @@ It is the purpose of this chapter to assist the Nation and the States in augment
 
 &emsp;(2) discover practical solutions to the Nation's water and water resources related problems, particularly those problems related to impaired water quality;
 
-&emsp;(3) assure the protection and enhancement of environmental and social values in connectionwith water resources management and utilization;
+&emsp;(3) assure the protection and enhancement of environmental and social values in connection with water resources management and utilization;
 
 &emsp;(4) promote the interest of State and local governments as well as private industry in research and the development of technology that will reclaim waste water and to convert saline and other impaired waters to waters suitable for municipal, industrial, agricultural, recreational, and other beneficial uses;
 

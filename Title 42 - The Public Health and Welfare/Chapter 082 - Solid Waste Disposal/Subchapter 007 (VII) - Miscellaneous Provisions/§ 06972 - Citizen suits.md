@@ -10,7 +10,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 &emsp;(2) against the Administrator where there is alleged a failure of the Administrator to perform any act or duty under this chapter which is not discretionary with the Administrator.
 
-> Any action under paragraph (a)(1) of this subsection shall be brought in the district court for the district in which the alleged violation occurred or the alleged endangerment may occur. Any action brought under paragraph (a)(2) of this subsection may be brought in the district court for the district in which the alleged violation occurred or in the District Court of the District of Columbia. The district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce the permit, standard, regulation, condition, requirement, prohibition, or order, referred to in paragraph (1)(A), to restrain any person who has contributed or who is contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in paragraph (1)(B),to order such person to take such other action as may be necessary, or both, or to order the Administrator to perform the act or duty referred to in paragraph (2), as the case may be, and to apply any appropriate civil penalties under section 6928(a) and (g) of this title.
+> Any action under paragraph (a)(1) of this subsection shall be brought in the district court for the district in which the alleged violation occurred or the alleged endangerment may occur. Any action brought under paragraph (a)(2) of this subsection may be brought in the district court for the district in which the alleged violation occurred or in the District Court of the District of Columbia. The district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce the permit, standard, regulation, condition, requirement, prohibition, or order, referred to in paragraph (1)(A), to restrain any person who has contributed or who is contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in paragraph (1)(B), to order such person to take such other action as may be necessary, or both, or to order the Administrator to perform the act or duty referred to in paragraph (2), as the case may be, and to apply any appropriate civil penalties under section 6928(a) and (g) of this title.
 
 #### (b) Actions prohibited
 
@@ -52,7 +52,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 > In the case of an administrative order referred to in clause (iv), actions under subsection (a)(1)(B) are prohibited only as to the scope and duration of the administrative order referred to in clause (iv).
 
-(C) No action may be commenced under subsection (a)(1)(B) of this section if the State, in order to restrain or abate acts or conditions which may have contributed or are contributing to the activities which may present the alleged endangerment—
+(C) No action may be commenced under subsection (a)(1)(B) of this section if the State, inorder to restrain or abate acts or conditions which may have contributed or are contributing to the activities which may present the alleged endangerment—
 
 &emsp;(i) has commenced and is diligently prosecuting an action under subsection (a)(1)(B);
 
@@ -68,7 +68,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 #### (c) Notice
 
-No action may be commenced under paragraph (a)(2) of this section prior to sixty days after the plaintiff has given notice to the Administrator that he will commence such action, except that such action may be brought immediately after such notification in the case of an action under this section respecting a violation of subchapter III. Notice under this subsection shall be given in such manner as the Administrator shall prescribe by regulation. Any action respecting a violation under this chapter may be broughtunder this section only in the judicial district in which such alleged violation occurs.
+No action may be commenced under paragraph (a)(2) of this section prior to sixty days after the plaintiff has given notice to the Administrator that he will commence such action, except that such action may be brought immediately after such notification in the case of an action under this section respecting a violation of subchapter III. Notice under this subsection shall be given in such manner as the Administrator shall prescribe by regulation. Any action respecting a violation under this chapter may be brought under this section only in the judicial district in which such alleged violation occurs.
 
 #### (d) Intervention
 

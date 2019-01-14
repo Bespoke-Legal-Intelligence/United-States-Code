@@ -10,7 +10,7 @@ The Secretary shall seek, to the extent practicable, to consolidate hearing and 
 
 #### (c) Costs of coordination
 
-The costs incurred by the Secretary to establish and carry out a schedule to consolidate Federal, State, and local agency and Indian tribeenvironmental assessments, project reviews, and permit issuance for a project under this section shall be paid by the non-Federal interest.
+The costs incurred by the Secretary to establish and carry out a schedule to consolidate Federal, State, and local agency and Indian tribe environmental assessments, project reviews, and permit issuance for a project under this section shall be paid by the non-Federal interest.
 
 #### (d) Report on timesavings methods
 
@@ -20,7 +20,31 @@ Not later than 3 years after November 8, 2007, the Secretary shall prepare and t
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+
+#### Local Government Reservoir Permit Review
+
+Pub. L. 115–270, title I, §1119, Oct. 23, 2018, 132 Stat. 3777, provided that:
+
+"(a)
+
+In General.—During the 10-year period after the date of enactment of this section \[Oct. 23, 2018\], the Secretary \[of the Army\] shall expedite review of applications for covered permits, if the permit applicant is a local governmental entity with jurisdiction over an area for which—
+
+&emsp;"(1) any portion of the water resources available to the area served by the local governmental entity is polluted by chemicals used at a formerly used defense site under the jurisdiction of the Department of Defense that is undergoing (or is scheduled to undergo) environmental restoration under chapter 160 of title 10, United States Code; and
+
+&emsp;"(2) mitigation of the pollution described in paragraph (1) is ongoing.
+
+"(b)
+
+Covered Permit Defined.—In this section, the term 'covered permit' means a permit to be issued by the Secretary to modify a reservoir owned or operated by the Secretary, with respect to which not less than 80 percent of the water rights are held for drinking water supplies, in order to accommodate projected water supply needs of an area with a population of less than 80,000.
+
+"(c)
+
+Limitations.—Nothing in this section affects any obligation to comply with the provisions of any Federal law, including—
+
+&emsp;"(1) the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
+
+&emsp;"(2) the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.)."
 
 #### "Secretary" Defined
 

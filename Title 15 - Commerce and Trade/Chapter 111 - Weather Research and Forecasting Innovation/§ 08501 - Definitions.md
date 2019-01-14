@@ -20,13 +20,17 @@ In this chapter:
 
 #### (5) Weather industry and weather enterprise
 
-&emsp;The terms "weather industry" and "weather enterprise" are interchangeable in this chapter, and include individuals and organizations from public, private, and academic sectorsthat contribute to the research, development, and production of weather forecast products, and primary consumers of these weather forecast products.
+&emsp;The terms "weather industry" and "weather enterprise" are interchangeable in this chapter, and include individuals and organizations from public, private, and academic sectors that contribute to the research, development, and production of weather forecast products, and primary consumers of these weather forecast products.
 
 (Pub. L. 115–25, §2, Apr. 18, 2017, 131 Stat. 92.)
 
 #### References in Text
 
 This chapter, referred to in text, is Pub. L. 115–25, April 18, 2017, 131 Stat. 91, known as the Weather Research and Forecasting Innovation Act of 2017, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Short Title of 2019 Amendment
+
+Pub. L. 115–423, §1, Jan. 7, 2019, 132 Stat. 5454, provided that: "This Act \[enacting section 8550 of this title and section 4010 of Title 33, Navigation and Navigable Waters, amending sections 313d, 8512, 8518 to 8521, 8531, and 8532 of this title and sections 4001 to 4002 and 4009 of Title 33, enacting provisions set out as a note under section 4001 of Title 33, and amending provisions set out as a note under section 313d of this title\] may be cited as the 'National Integrated Drought Information System Reauthorization Act of 2018'."
 
 #### Short Title
 

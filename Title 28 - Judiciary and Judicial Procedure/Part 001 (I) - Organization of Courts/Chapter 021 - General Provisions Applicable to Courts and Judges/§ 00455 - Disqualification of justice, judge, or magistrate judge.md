@@ -6,7 +6,7 @@
 
 &emsp;(1) Where he has a personal bias or prejudice concerning a party, or personal knowledge of disputed evidentiary facts concerning the proceeding;
 
-&emsp;(2) Where in private practice he served as lawyer in the matter in controversy, or a lawyer with whom he previously practiced law served during such association as a lawyer concerning the matter, or the judge or such lawyer has been a material witness concerning it;
+&emsp;(2) Where in private practice he served as lawyer in the matter in controversy, or a lawyer with whom he previously practiced law served during such association as a lawyer concerning the matter, or the judge or suchlawyer has been a material witness concerning it;
 
 &emsp;(3) Where he has served in governmental employment and in such capacity participated as counsel, adviser or material witness concerning the proceeding or expressed an opinion concerning the merits of the particular case in controversy;
 
@@ -44,7 +44,7 @@
 
 (e) No justice, judge, or magistrate judge shall accept from the parties to the proceeding a waiver of any ground for disqualification enumerated in subsection (b). Where the ground for disqualification arises only under subsection (a), waiver may be accepted provided it is preceded by a full disclosure on the record of the basis for disqualification.
 
-(f) Notwithstanding the preceding provisions of this section, if any justice, judge, magistrate judge, or bankruptcy judge to whom a matter has been assigned would be disqualified, after substantial judicial time has been devoted to the matter, because of the appearance or discovery, after the matter was assigned to him or her, that he or she individually or as a fiduciary, or his or her spouse or minor child residing in his or her household, has a financial interest in a party (other than an interest that could be substantially affected by the outcome), disqualification is not required if the justice, judge,magistrate judge, bankruptcy judge, spouse or minor child, as the case may be, divests himself or herself of the interest that provides the grounds for the disqualification.
+(f) Notwithstanding the preceding provisions of this section, if any justice, judge, magistrate judge, or bankruptcy judge to whom a matter has been assigned would be disqualified, after substantial judicial time has been devoted to the matter, because of the appearance or discovery, after the matter was assigned to him or her, that he or she individually or as a fiduciary, or his or her spouse or minor child residing in his or her household, has a financial interest in a party (other than an interest that could be substantially affected by the outcome), disqualification is not required if the justice, judge, magistrate judge, bankruptcy judge, spouse or minor child, as the case may be, divests himself or herself of the interest that provides the grounds for the disqualification.
 
 (June 25, 1948, ch. 646, 62 Stat. 908; Pub. L. 93–512, §1, Dec. 5, 1974, 88 Stat. 1609; Pub. L. 95–598, title II, §214(a), (b), Nov. 6, 1978, 92 Stat. 2661; Pub. L. 100–702, title X, §1007, Nov. 19, 1988, 102 Stat. 4667; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
@@ -72,7 +72,7 @@ Changes were made in phraseology.
 
 #### Change of Name
 
-Words "magistrate judge" substituted for "magistrate" in section catchline and wherever appearing in subsecs. (a), (e), and (f) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+Words "magistrate judge" substituted for "magistrate" in section catchline and wherever appearing in subsecs. (a), (e), and (f) pursuant to section 321 of Pub.L. 101–650, set out as a note under section 631 of this title.
 
 #### Effective Date of 1978 Amendment
 

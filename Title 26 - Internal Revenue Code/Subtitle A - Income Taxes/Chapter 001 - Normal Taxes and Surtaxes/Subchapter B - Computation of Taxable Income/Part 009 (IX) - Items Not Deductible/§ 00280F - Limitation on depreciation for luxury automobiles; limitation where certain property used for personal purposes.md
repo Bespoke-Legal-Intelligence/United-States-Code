@@ -80,7 +80,7 @@
 
 #### (2) Lessee's deductions reduced
 
-&emsp;For purposes of determining the amount allowable as a deduction under this chapter forrentals or other payments under a lease for a period of 30 days or more of listed property, only the allowable percentage of such payments shall be taken into account.
+&emsp;For purposes of determining the amount allowable as a deduction under this chapter for rentals or other payments under a lease for a period of 30 days or more of listed property, only the allowable percentage of such payments shall be taken into account.
 
 #### (3) Allowable percentage
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Any employee use of listed property shall not be treated as use in a trade or business for purposes of determining the amount of any depreciation deduction allowable to the employee (or the amount of any deduction allowable to the employee for rentals or other payments under a lease of listed property) unless such use is for the convenience of the employer and required as a condition of employment.
+&emsp;&emsp;Any employee use of listed property shall not be treated as use in a trade or business for purposes of determining the amount ofany depreciation deduction allowable to the employee (or the amount of any deduction allowable to the employee for rentals or other payments under a lease of listed property) unless such use is for the convenience of the employer and required as a condition of employment.
 
 #### (B) Employee use
 
@@ -176,7 +176,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) use of property provided as compensation for the performance of services by a 5-percent owner or related person, or
 
-&emsp;&emsp;&emsp;&emsp;(III) use of property provided as compensation for the performance of services by any person not described in subclause\(II) unless an amount is included in the gross income of such person with respect to such use, and, where required, there was withholding under chapter 24.
+&emsp;&emsp;&emsp;&emsp;(III) use of property provided as compensation for the performance of services by any person not described in subclause (II) unless an amount is included in the gross income of such person with respect to such use, and, where required, there was withholding under chapter 24.
 
 #### (ii) Special rule for aircraft
 
@@ -214,7 +214,7 @@ For purposes of this section—
 
 #### (ii) C-CPI-U automobile component
 
-&emsp;&emsp;&emsp;The term "C-CPI-U automobile component" means the automobile component of the Chained Consumer Price Index for All Urban Consumers (as described in section 1(f)(6)).
+&emsp;&emsp;&emsp;The term "C-CPI-U automobile component" means the automobile component of the Chained Consumer Price Index for AllUrban Consumers (as described in section 1(f)(6)).
 
 #### (8) Unrecovered basis
 
@@ -382,7 +382,7 @@ Pub. L. 105–34, title IX, §971(b), Aug. 5, 1997, 111 Stat. 897, as amended by
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub.L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -457,6 +457,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2018</b>—Revenue Procedure 2018–25.
 
 <b>2017</b>—Revenue Procedure 2017–29.
 

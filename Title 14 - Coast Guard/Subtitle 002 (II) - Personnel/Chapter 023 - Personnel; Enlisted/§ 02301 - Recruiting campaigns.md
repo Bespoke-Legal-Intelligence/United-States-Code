@@ -1,0 +1,30 @@
+### §2301. Recruiting campaigns
+
+The Secretary shall initiate and carry forward an intensified voluntary enlistment campaign to obtain the required personnel strengths.
+
+(Added Aug. 10, 1956, ch. 1041, §7(a), 70A Stat. 620, §350; renumbered §2301, Pub. L. 115–282, title I, §113(b), Dec. 4, 2018, 132 Stat. 4221.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+350
+
+34:187 (as made applicable to Coast Guard by 34:189).
+
+34:189 (as applicable to 34:187).
+
+50 App.:470 (last sentence).
+
+Oct. 6, 1945, ch. 393, §§2 (as made applicable to Coast Guard by §13), 13 (as applicable to §2), 59 Stat. 538, 542.
+
+June 24, 1948, ch. 625, §20 (last sentence), 62 Stat. 627; Sept. 27, 1950, ch. 1059, §1(14), 64 Stat. 1074.
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–282 renumbered section 350 of this title as this section.
+

@@ -158,7 +158,7 @@ In general.—The acts enumerated in subsection (d) of section 2441 of title 18,
 
 "(2)
 
-Prohibition on grave breaches.—The provisions of section 2441 of title 18, United States Code, as amended by this section, fully satisfy the obligation under Article 129 of the Third Geneva Convention for the United States to provide effective penal sanctions for grave breaches which are encompassed in common Article 3 in the context of an armed conflict not of an international character. No foreign or international source of law shall supply a basis for a rule of decision in the courts of the United States in interpreting the prohibitions enumerated in subsection (d) of such section 2441.
+Prohibition on grave breaches.—The provisions of section 2441 of title 18, United States Code, as amended by this section, fully satisfy the obligation under Article 129 of the Third Geneva Convention for the United States to provide effective penal sanctions for grave breaches which are encompassed in commonArticle 3 in the context of an armed conflict not of an international character. No foreign or international source of law shall supply a basis for a rule of decision in the courts of the United States in interpreting the prohibitions enumerated in subsection (d) of such section 2441.
 
 "(3)
 

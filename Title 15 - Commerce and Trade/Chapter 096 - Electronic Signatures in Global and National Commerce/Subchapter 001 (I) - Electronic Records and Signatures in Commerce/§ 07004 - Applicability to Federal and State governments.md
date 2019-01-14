@@ -2,7 +2,7 @@
 
 #### (a) Filing and access requirements
 
-Subject to subsection (c)(2), nothing in this subchapter limits or supersedes any requirement by a Federal regulatory agency, self-regulatoryorganization, or State regulatory agency that records be filed with such agency or organization in accordance with specified standards or formats.
+Subject to subsection (c)(2), nothing in this subchapter limits or supersedes any requirement by a Federal regulatory agency, self-regulatory organization, or State regulatory agency that records be filed with such agency or organization in accordance with specified standards or formats.
 
 #### (b) Preservation of existing rulemaking authority
 
@@ -58,7 +58,7 @@ Subject to subsection (c)(2), nothing in this subchapter limits or supersedes an
 
 #### (1) Reimposing paper prohibited
 
-&emsp;Nothing in subsection (b) (other than paragraph (3)(B) thereof) shall be construed to grant any Federal regulatory agency or State regulatory agency authority to impose or reimpose any requirement that a record be in a tangible printed or paper form.
+&emsp;Nothing in subsection (b) (other than paragraph (3)(B) thereof) shall be construed togrant any Federal regulatory agency or State regulatory agency authority to impose or reimpose any requirement that a record be in a tangible printed or paper form.
 
 #### (2) Continuing obligation under Government Paperwork Elimination Act
 
@@ -72,7 +72,7 @@ Subject to subsection (c)(2), nothing in this subchapter limits or supersedes an
 
 #### (2) Prospectuses
 
-&emsp;Within 30 days after June 30, 2000, the Securities and Exchange Commission shall issue a regulation or order pursuant to paragraph (1) exempting from section 7001(c) of this titleany records that are required to be provided in order to allow advertising, sales literature, or other information concerning a security issued by an investment company that is registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], or concerning the issuer thereof, to be excluded from the definition of a prospectus under section 77b(a)(10)(A) of this title.
+&emsp;Within 30 days after June 30, 2000, the Securities and Exchange Commission shall issue a regulation or order pursuant to paragraph (1) exempting from section 7001(c) of this title any records that are required to be provided in order to allow advertising, sales literature, or other information concerning a security issued by an investment company that is registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], or concerning the issuer thereof, to be excluded from the definition of a prospectus under section 77b(a)(10)(A) of this title.
 
 #### (e) Electronic letters of agency
 

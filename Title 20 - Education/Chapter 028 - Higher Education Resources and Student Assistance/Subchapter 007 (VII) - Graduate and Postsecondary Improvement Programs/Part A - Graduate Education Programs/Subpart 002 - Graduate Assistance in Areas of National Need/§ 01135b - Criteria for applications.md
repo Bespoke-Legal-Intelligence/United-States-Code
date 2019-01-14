@@ -72,7 +72,7 @@ Section 1135b–5, Pub. L. 89–329, title X, §1056, as added Pub. L. 92–318,
 
 Section 1135b–6, Pub. L. 89–329, title X, §1057, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 319, authorized program grants for State occupational education programs and set forth criteria for State administration of grants.
 
-Section 1135b–7, Pub. L. 89–329, title X, §1058, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat.320, set forth prerequisites and procedures for program grants by Commissioner and provided for judicial review of actions of Commissioner.
+Section 1135b–7, Pub. L. 89–329, title X, §1058, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 320, set forth prerequisites and procedures for program grants by Commissioner and provided for judicial review of actions of Commissioner.
 
 Section 1135b–8, Pub. L. 89–329, title X, §1059, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 321, authorized technical assistance to the States by Commissioner and the establishment of model programs.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of list of controlled items
 
-The Secretary of State, in consultation with the Secretary of Defense and the heads of other appropriate departments and agencies, shall establish and maintain, as part of the United States Munitions List, a list of all items on the MTCR Annex the export of which is not controlled under section 4605(l) of title 50.
+The Secretary of State, in consultation with the Secretary of Defense and the heads of other appropriate departments and agencies, shall establish and maintain, as part of the United States Munitions List, a list of all items on the MTCR Annex the export of which is not controlled under section 4605(l) <sup>1</sup> of title 50.
 
 #### (b) Referral of license applications
 
@@ -21,6 +21,8 @@ Within 15 days after the issuance of a license (including any brokering license)
 (Pub. L. 90–629, ch. 7, §71, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1745; amended Pub. L. 103–236, title VII, §§714(a)(3)–(6), 735(c), Apr. 30, 1994, 108 Stat. 497, 506; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(4)–(7), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–280, title VII, §708(c), Oct. 6, 2000, 114 Stat. 863.)
 
 #### References in Text
+
+Section 4605(l) of title 50, referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 This chapter, referred to in subsec. (d), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
@@ -56,7 +58,7 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 #### Delegation of Functions
 
-Memorandum of President of the United States, June 25, 1991, 56 F.R. 31041, which provided for delegation ofcertain functions of the President, was superseded by Ex. Ord. No. 12851, §7, June 11, 1993, 58 F.R. 33181, set out below.
+Memorandum of President of the United States, June 25, 1991, 56 F.R. 31041, which provided for delegation of certain functions of the President, was superseded by Ex. Ord. No. 12851, §7, June 11, 1993, 58 F.R. 33181, set out below.
 
 #### Policy and Sense of Congress on Nonproliferation of Ballistic Missiles
 
@@ -66,7 +68,7 @@ Pub. L. 108–375, div. A, title XII, §1212, Oct. 28, 2004, 118 Stat. 2087, pro
 
 Findings.—Congress makes the following findings:
 
-&emsp;"(1) Certain countries are seeking to acquire ballistic missiles and related technologies that could be used to attack the United States or place at risk United States interests, deployed members of the Armed Forces, and allies of the United States and other friendly foreign countries.
+&emsp;"(1) Certain countries are seeking to acquire ballistic missiles and related technologies that could be used to attack the United States or place at risk United States interests, deployed members of theArmed Forces, and allies of the United States and other friendly foreign countries.
 
 &emsp;"(2) Certain countries continue to actively transfer or sell ballistic missile technologies in contravention of standards of behavior established by the United States and allies of the United States and other friendly foreign countries.
 
@@ -96,7 +98,7 @@ Pub. L. 101–510, div. A, title XVII, §1704, Nov. 5, 1990, 104 Stat. 1749, dir
 
 Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code; sections 1701–1703 of the National Defense Authorization Act for Fiscal Year 1991, Public Law 101–510 (50 U.S.C. App. 2402 note, 2405, 2410b \[now 50 U.S.C. 4602 note, 4605, 4612\]; 22 U.S.C. 2797–2797c); sections 303, 324 \[105 Stat. 708, 711\], and 401–405 \[22 U.S.C. 2778 note\] of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138; sections 305–308 of the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991, Public Law 102–182 (50 U.S.C. App. 2410c \[now 50 U.S.C. 4613\]; 22 U.S.C. 2798, 5604–5606); sections 241 \[105 Stat. 1326\] and 1097 \[former 22 U.S.C. 2751 note\] of the National Defense Authorization Act for Fiscal Years 1992 and 1993, Public Law 102–190; and section 1364 of the National Defense Authorization Act for Fiscal Year 1993, Public Law 102–484 \[106 Stat. 2561\], I hereby order as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code; sections 1701–1703 of the National Defense Authorization Act for Fiscal Year 1991, Public Law 101–510 (50 U.S.C. App. 2402 note, 2405, 2410b \[now 50 U.S.C. 4602 note, former 4605, former 4612\]; 22 U.S.C. 2797–2797c); sections 303, 324 \[105 Stat. 708, 711\], and 401–405 \[22 U.S.C. 2778 note\] of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138; sections 305–308 of the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991, Public Law 102–182 (50 U.S.C. App. 2410c \[now 50 U.S.C. 4613\]; 22 U.S.C. 2798, 5604–5606); sections 241 \[105 Stat. 1326\] and 1097 \[former 22 U.S.C. 2751 note\] of the National Defense Authorization Act for Fiscal Years 1992 and 1993, Public Law 102–190; and section 1364 of the National Defense Authorization Act for Fiscal Year 1993, Public Law 102–484 \[106 Stat. 2561\], I hereby order as follows:
 
 Section 1. <i>Chemical and Biological Weapons Proliferation and Use Sanctions</i>. (a) <i>Chemical and Biological Weapons Proliferation</i>. The authority and duties vested in me by section 81 of the Arms Export Control Act, as amended ("AECA") (22 U.S.C. 2798), and section 11C of the Export Administration Act of 1979, as amended ("EAA") (50 U.S.C. App. 2410c) \[now 50 U.S.C. 4613\], are delegated to the Secretary of State, except that:
 
@@ -118,7 +120,7 @@ Sec. 2. <i>Missile Proliferation Sanctions</i>. (a) <i>Arms Export Control Act</
 
 (1) The authority and duties vested in me by section 72(a)(1) to make determinations with respect to violations by United States persons of the EAA \[50 U.S.C. 4601 et seq.\] are delegated to the Secretary of Commerce.
 
-(2) The authority and duties vested in me to deny certain United States Government contracts as provided in sections 73(a)(2)(A)(i) and 73(a)(2)(B)(i), pursuant to a determination made by the Secretary of State under section 73(a)(1), as well as the authority and duties vested in me to make the findings provided in sections 72(c), 73(f), and 73(g)(1), are delegated to the Secretary of Defense. The Secretary of State shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, any waivers based upon findings made pursuant to sections 72(c) and 73(f).
+(2) The authority and duties vested in me to deny certain United States Government contracts as providedin sections 73(a)(2)(A)(i) and 73(a)(2)(B)(i), pursuant to a determination made by the Secretary of State under section 73(a)(1), as well as the authority and duties vested in me to make the findings provided in sections 72(c), 73(f), and 73(g)(1), are delegated to the Secretary of Defense. The Secretary of State shall issue, transmit to the Congress, and notify the Secretary of the Treasury of, as appropriate, any waivers based upon findings made pursuant to sections 72(c) and 73(f).
 
 (3) The authority and duties vested in me to prohibit certain imports as provided in section 73(a)(2)(C), pursuant to a determination made by the Secretary of State under that section, and the obligation to implement the exceptions provided in section 73(g), are delegated to the Secretary of the Treasury.
 
@@ -147,4 +149,6 @@ Sec. 7. <i>Priority</i>. This order supercedes the Memorandum of the President, 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

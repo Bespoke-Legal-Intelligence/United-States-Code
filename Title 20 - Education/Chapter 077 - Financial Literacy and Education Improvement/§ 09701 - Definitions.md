@@ -26,7 +26,7 @@ Section 1. <i>Policy</i>. To help keep America competitive and assist the Americ
 
 Sec. 2. <i>Establishment of the Council</i>. There is established within the Department of the Treasury the President's Advisory Council on Financial Literacy (Council).
 
-Sec. 3. <i>Membership and Operation of the Council</i>. (a) The Council shall consist of 19 members appointed by the President from among individuals not employed by the Federal Government, consistent with subsection (b) of this section.
+Sec. 3. <i>Membership and Operation of the Council</i>. (a) The Council shall consist of 19 members appointed bythe President from among individuals not employed by the Federal Government, consistent with subsection (b) of this section.
 
 (b) In selecting individuals for appointment to the Council, appropriate consideration should be given to selection of individuals with backgrounds as providers of, consumers of, promoters of access to, and educators with respect to financial education and financial services. Each individual member of the Council will serve as a representative of his or her industry, trade group, public interest group, or other organization or group. The composition of the Council will reflect the views of diverse stakeholders.
 
@@ -118,7 +118,7 @@ Sec. 3. <i>Membership and Operation of the Council</i>. (a) The Council shall co
 
 (ii) not more than 22 members appointed by the President from among individuals not employed by the Federal Government, up to three of whom shall be selected by the President on the basis of their experience in academia or similar research experience related to financial education and financial access.
 
-(b) Members of the Council shall include individuals with relevant backgrounds, such as financial services providers, consumers, access advocates, and educators. Members of the Council appointed by the President pursuant to subsection (a)(ii) of this section, may serve as representatives of individual industries, trade groups, public interest groups, or other organizations. The composition of the Council shall reflect the views of diverse stakeholders.
+(b) Members of the Council shall include individuals with relevant backgrounds, such as financial services providers, consumers, access advocates, and educators.Members of the Council appointed by the President pursuant to subsection (a)(ii) of this section, may serve as representatives of individual industries, trade groups, public interest groups, or other organizations. The composition of the Council shall reflect the views of diverse stakeholders.
 
 (c) The President shall designate a Chair and a Vice Chair from among the members of the Council appointed pursuant to subsection (a)(ii) of this section.
 

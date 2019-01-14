@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Any 2 or more public housing agencies may participate in a consortium for the purpose of administering any or all of the housing programs of those public housing agencies in accordance with this section.
+&emsp;Any 2 or more public housing agencies may participate in a consortium for the purpose ofadministering any or all of the housing programs of those public housing agencies in accordance with this section.
 
 #### (2) Effect
 
@@ -65,6 +65,10 @@ A prior section 13 of act Sept. 1, 1937, ch. 896, 50 Stat. 894, as amended, enum
 #### Effective Date of 1998 Amendment
 
 Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
+
+#### Reporting by Agencies Operating in Consortia
+
+Pub. L. 115–174, title II, §209(c), May 24, 2018, 132 Stat. 1316, provided that: "Not later than 180 days after the date of enactment of this Act \[May 24, 2018\], the Secretary of Housing and Urban Development shall develop and deploy all electronic information systems necessary to accommodate full consolidated reporting by public housing agencies, as defined in section 3(b)(6) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b)(6)), electing to operate in consortia under section 13(a) of such Act (42 U.S.C. 1437k(a))."
 
 #### Energy Efficient Public Housing Demonstration
 

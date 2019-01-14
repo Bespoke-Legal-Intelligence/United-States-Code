@@ -30,7 +30,7 @@
 
 (e) An employee or Member who is married at the time of retiring under this subchapter and who makes an election under this section may, during the 18-month period beginning on the date of retirement, make the election provided for under section 8416(d), subject to the deposit requirement thereunder.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 532; amended Pub. L. 101–508, title VII, §7001(a)(1), Nov. 5, 1990, 104 Stat. 1388–327; Pub. L. 103–66, title XI, §11002(a), Aug. 10, 1993, 107 Stat. 409.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 532; amended Pub. L. 101–508, titleVII, §7001(a)(1), Nov. 5, 1990, 104 Stat. 1388–327; Pub. L. 103–66, title XI, §11002(a), Aug. 10, 1993, 107 Stat. 409.)
 
 #### Amendments
 

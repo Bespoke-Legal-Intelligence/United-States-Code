@@ -6,7 +6,7 @@
 
 Delivery of notices.—A notice under paragraph (1) shall be delivered by any form of delivery that the Secretary determines will provide evidence of the delivery.
 
-(3) If such store, concern, or State agency is aggrieved by such action, it may, in accordance with regulations promulgated under this chapter, within ten days of the date of delivery of such notice, file a written request for an opportunity to submit information in support of its position to such person or persons as the regulations may designate.
+(3) If such store, concern, or State agency is aggrieved by such action, it may, in accordance with regulations promulgated under this chapter, within ten days of the date of delivery ofsuch notice, file a written request for an opportunity to submit information in support of its position to such person or persons as the regulations may designate.
 
 (4) If such a request is not made or if such store, concern, or State agency fails to submit information in support of its position after filing a request, the administrative determination shall be final.
 
@@ -28,7 +28,7 @@ Delivery of notices.—A notice under paragraph (1) shall be delivered by any fo
 
 (13) If the store, concern, or State agency feels aggrieved by such final determination, it may obtain judicial review thereof by filing a complaint against the United States in the United States court for the district in which it resides or is engaged in business, or, in the case of a retail food store or wholesale food concern, in any court of record of the State having competent jurisdiction, within thirty days after the date of delivery or service of the final notice of determination upon it, requesting the court to set aside such determination.
 
-(14) The copy of the summons and complaint required to be delivered to the official or agency whose order is being attacked shall be sent tothe Secretary or such person or persons as the Secretary may designate to receive service of process.
+(14) The copy of the summons and complaint required to be delivered to the official or agency whose order is being attacked shall be sent to the Secretary or such person or persons as the Secretary may designate to receive service of process.
 
 (15) The suit in the United States district court or State court shall be a trial de novo by the court in which the court shall determine the validity of the questioned administrative action in issue, except that judicial review of determinations regarding claims made pursuant to section 2025(c) of this title shall be a review on the administrative record.
 

@@ -10,7 +10,7 @@
 
 (e) The Chief Justice of the United States may designate and assign temporarily any district judge to serve as a judge of the Court of International Trade upon presentation to him of a certificate of necessity by the chief judge of the court.
 
-(June 25, 1948, ch. 646, 62 Stat. 901; July 28, 1953, ch. 253, §3, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §39(c), 68 Stat. 1240; July 9, 1956, ch. 517, §1(b), 70 Stat. 497; July 14, 1956, ch. 589, §2, 70 Stat. 532; Pub. L. 85–755, §3, Aug. 25, 1958, 72 Stat. 848; Pub. L. 91–358, title I, §172(e), July 29, 1970, 84 Stat. 591; Pub. L. 95–598, title II, §§203, 204, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 96–417, title V, §501(7), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, §109, Apr. 2, 1982, 96 Stat. 28.)
+(June 25, 1948, ch. 646, 62 Stat. 901; July 28, 1953, ch. 253, §3, 67 Stat. 226; Sept. 3, 1954, ch. 1263,§39(c), 68 Stat. 1240; July 9, 1956, ch. 517, §1(b), 70 Stat. 497; July 14, 1956, ch. 589, §2, 70 Stat. 532; Pub. L. 85–755, §3, Aug. 25, 1958, 72 Stat. 848; Pub. L. 91–358, title I, §172(e), July 29, 1970, 84 Stat. 591; Pub. L. 95–598, title II, §§203, 204, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 96–417, title V, §501(7), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, §109, Apr. 2, 1982, 96 Stat. 28.)
 
 #### Historical and Revision Notes
 

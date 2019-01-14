@@ -10,7 +10,7 @@ For the purposes of any investigation or any proceeding under this subchapter, a
 
 #### (c) Jurisdiction of courts of United States
 
-In case of contumacy by, or refusal to obey a subpena issued to, any person, the Commission may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memoranda, contracts, agreements, and other records. And such court may issue an order requiring such person to appear before the Commission or member or officer designated by the Commission, there to produce records, if so ordered, or to give testimony touching the matter under investigation or in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found. Any person who without just cause shall fail or refuse to attend and testify or to answer any lawful inquiry or to produce books, papers, correspondence, memoranda, contracts, agreements, or other records, if in his or its power so to do, in obedience to the subpena of the Commission, shall be guilty of a misdemeanor, and upon conviction shall be subject to a fine of not more than $1,000 or to imprisonment for a term of not more than one year, or both.
+In case of contumacy by, or refusal to obey a subpena issued to, any person, the Commission may invoke the aid of any court of the UnitedStates within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memoranda, contracts, agreements, and other records. And such court may issue an order requiring such person to appear before the Commission or member or officer designated by the Commission, there to produce records, if so ordered, or to give testimony touching the matter under investigation or in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found. Any person who without just cause shall fail or refuse to attend and testify or to answer any lawful inquiry or to produce books, papers, correspondence, memoranda, contracts, agreements, or other records, if in his or its power so to do, in obedience to the subpena of the Commission, shall be guilty of a misdemeanor, and upon conviction shall be subject to a fine of not more than $1,000 or to imprisonment for a term of not more than one year, or both.
 
 #### (d) Action for injunction
 
@@ -20,7 +20,7 @@ Whenever it shall appear to the Commission that any person has engaged, is engag
 
 #### (1) Authority of Commission
 
-&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 80b–3(k) of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty tobe paid by the person who committed such violation.
+&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 80b–3(k) of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty to be paid by the person who committed such violation.
 
 #### (2) Amount of penalty
 
@@ -102,5 +102,5 @@ Amendment by Pub. L. 91–452 not to affect any immunity to which any individual
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

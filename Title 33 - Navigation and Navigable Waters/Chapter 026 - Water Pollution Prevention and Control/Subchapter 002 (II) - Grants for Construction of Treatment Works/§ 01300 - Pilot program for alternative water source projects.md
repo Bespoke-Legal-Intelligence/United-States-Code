@@ -6,7 +6,7 @@ Nothing in this section shall be construed to affect the application of section 
 
 #### (b) In general
 
-The Administrator may establish a pilot program to make grants to State, interstate, andintrastate water resource development agencies (including water management districts and water supply authorities), local government agencies, private utilities, and nonprofit entities for alternative water source projects to meet critical water supply needs.
+The Administrator may establish a pilot program to make grants to State, interstate, and intrastate water resource development agencies (including water management districts and water supply authorities), local government agencies, private utilities, and nonprofit entities for alternative water source projects to meet critical water supply needs.
 
 #### (c) Eligible entity
 
@@ -42,7 +42,7 @@ Amounts from grants received under this section may be used for engineering, des
 
 #### (g) Cost sharing
 
-The Federal share of the eligible costs of an alternative water source project carried out using assistance made available under this section shall not exceed 50 percent.
+The Federal share of the eligible costs of an alternative water source project carried outusing assistance made available under this section shall not exceed 50 percent.
 
 #### (h) Reports
 

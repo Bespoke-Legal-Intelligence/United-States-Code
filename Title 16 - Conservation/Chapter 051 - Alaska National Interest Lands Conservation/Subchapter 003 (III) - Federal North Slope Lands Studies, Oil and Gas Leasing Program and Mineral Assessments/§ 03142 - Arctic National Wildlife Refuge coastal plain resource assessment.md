@@ -8,7 +8,7 @@ The purpose of this section is to provide for a comprehensive and continuing inv
 
 As used in this section—
 
-&emsp;(1) The term "coastal plain" means that area identified as such in the map entitled"Arctic National Wildlife Refuge", dated August 1980.
+&emsp;(1) The term "coastal plain" means that area identified as such in the map entitled "Arctic National Wildlife Refuge", dated August 1980.
 
 &emsp;(2) The term "exploratory activity" means surface geological exploration or seismic exploration, or both, for oil and gas within the coastal plain.
 
@@ -60,7 +60,7 @@ The Secretary, in consultation with the Governor of the State, Native Village an
 
 &emsp;(B) shall require that all data and information (including processed, analyzed and interpreted information) obtained as a result of carrying out the plan shall be submitted to the Secretary; and
 
-&emsp;(C) shall make such data and information available to the public except that any processed, analyzed and interpreted data or information shall be held confidential by the Secretary for a period of not less than two years following any lease sale including the area from which the information was obtained and: <i>Provided</i>, That the Secretary shall prohibit by regulation any person who obtains access to such data and information from the Secretaryor from any person other than a permittee from participation in any lease sale which includes the areas from which the information was obtained and from any commercial use of the information. The Secretary shall require that any permittee shall make available such data to any person at fair cost.
+&emsp;(C) shall make such data and information available to the public except that any processed, analyzed and interpreted data or information shall be held confidential by the Secretary for a period of not less than two years following any lease sale including the area from which the information was obtained and: <i>Provided</i>, That the Secretary shall prohibit by regulation any person who obtains access to such data and information from the Secretary or from any person other than a permittee from participation in any lease sale which includes the areas from which the information was obtained and from any commercial use of the information. The Secretary shall require that any permittee shall make available such data to any person at fair cost.
 
 #### (f) Modification to exploration plans
 

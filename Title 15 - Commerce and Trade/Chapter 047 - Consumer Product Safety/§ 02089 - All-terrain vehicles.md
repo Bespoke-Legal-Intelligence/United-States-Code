@@ -28,7 +28,7 @@
 
 #### (1) ANSI revisions
 
-&emsp;If the American National Standard ANSI/SVIA–1–2007 is revised through the applicableconsensus standards development process after the date on which the product safety standard for all-terrain vehicles is published in the Federal Register, the American National Standards Institute shall notify the Commission of the revision.
+&emsp;If the American National Standard ANSI/SVIA–1–2007 is revised through the applicable consensus standards development process after the date on which the product safety standard for all-terrain vehicles is published in the Federal Register, the American National Standards Institute shall notify the Commission of the revision.
 
 #### (2) Commission action
 
@@ -106,7 +106,7 @@ August 14, 2008, referred to in subsec. (a)(2)(B), was in the original "the date
 
 #### Effective Date
 
-Subsec. (c) of this section effective on the date that is 30 days after Aug. 14, 2008, see section 239(a) of Pub.L. 110–314, set out as an Effective Date of 2008 Amendment note under section 2051 of this title.
+Subsec. (c) of this section effective on the date that is 30 days after Aug. 14, 2008, see section 239(a) of Pub. L. 110–314, set out as an Effective Date of 2008 Amendment note under section 2051 of this title.
 
 #### Deadline for Rule by Consumer Product Safety Commission on Standards for All Terrain Vehicles
 

@@ -62,7 +62,7 @@ Maximum Amounts.—For representation of a defendant before the United States ma
 
 (3)
 
-Waiving Maximum Amounts.—Payment in excess of any maximum amount provided in paragraph (2) of this subsection may be made for extended or complex representation whenever the court in which the representation was rendered, or the United States magistrate judge if the representation was furnished exclusively before him, certifies that the amount of the excess payment is necessary to provide fair compensation and the payment is approved by the chief judge of the circuit. The chief judge of the circuit may delegate such approval authority to an active or senior circuit judge.
+Waiving Maximum Amounts.—Payment in excess of any maximum amount provided in paragraph (2) of this subsection may be made for extended or complex representation whenever the court in which the representation was rendered, or the United States magistrate judge if the representation was furnished exclusively before him, certifies that the amount of the excess payment is necessary to provide fair compensation and the payment is approved by the chiefjudge of the circuit. The chief judge of the circuit may delegate such approval authority to an active or senior circuit judge.
 
 (4)
 
@@ -162,7 +162,7 @@ Upon Request.—Counsel for a person who is financially unable to obtain investi
 
 (2)
 
-Without Prior Request.—(A) Counsel appointed under this section may obtain, subject to later review, investigative, expert, and other services without prior authorization if necessary for adequate representation. Except as provided in subparagraph (B) of this paragraph, the total cost of services obtained without prior authorization may not exceed $800 and expenses reasonably incurred.
+Without Prior Request.—(A) Counsel appointed under this section may obtain, subject to later review, investigative, expert, and other services without prior authorization if necessaryfor adequate representation. Except as provided in subparagraph (B) of this paragraph, the total cost of services obtained without prior authorization may not exceed $800 and expenses reasonably incurred.
 
 (B) The court, or the United States magistrate judge (if the services were rendered in a case disposed of entirely before the United States magistrate judge), may, in the interest of justice, and upon the finding that timely procurement of necessary services could not await prior authorization, approve payment for such services after they have been obtained, even if the cost of such services exceeds $800.
 
@@ -210,7 +210,7 @@ Malpractice and Negligence Suits.—The Director of the Administrative Office of
 
 (h)
 
-Rules and Reports.—Each district court and court of appeals of a circuit shall submit a report on the appointment of counsel within its jurisdiction to the Administrative Office of theUnited States Courts in such form and at such times as the Judicial Conference of the United States may specify. The Judicial Conference of the United States may, from time to time, issue rules and regulations governing the operation of plans formulated under this section.
+Rules and Reports.—Each district court and court of appeals of a circuit shall submit a report on the appointment of counsel within its jurisdiction to the Administrative Office of the United States Courts in such form and at such times as the Judicial Conference of the United States may specify. The Judicial Conference of the United States may, from time to time, issue rules and regulations governing the operation of plans formulated under this section.
 
 (i)
 
@@ -298,7 +298,7 @@ Subsec. (e)(2). Pub. L. 99–651, §102(a)(4)(B), designated existing provisions
 
 Subsec. (e)(3). Pub. L. 99–651, §102(a)(4)(C), substituted "$1,000" for "$300" and inserted provision that the chief judge of the circuit may delegate such approval authority to an active circuit judge.
 
-Subsec. (g). Pub. L. 99–651, §102(b)(1), redesignated subsec. (h) as (g), and struck out former subsec. (g) which provided for discretionary appointments by the court or magistrate.
+Subsec. (g). Pub. L. 99–651, §102(b)(1), redesignated subsec. (h) as (g), and struck out former subsec. (g)which provided for discretionary appointments by the court or magistrate.
 
 Subsec. (g)(2)(A), formerly (h)(2)(A). Pub. L. 99–651, §102(a)(5)(A), substituted "in accordance with section 605 of title 28" for "similarly as under title 28, United States Code, section 605, and subject to the conditions of that section", and after fourth sentence inserted provision authorizing the continuation in office, upon a majority vote of the judges of the court of appeals, of a Federal Public Defender whose term has expired until appointment of a successor or until one year after the expiration of such Defender's term, whichever is earlier.
 
@@ -374,7 +374,7 @@ Pub. L. 100–182, §26, Dec. 7, 1987, 101 Stat. 1272, provided that: "The amend
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–651, title I, §105, Nov. 14, 1986, 100 Stat. 3646, provided that: "This title and the amendments made by this title \[amending this section and section1825 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] shall take effect one hundred and twenty days after the date of enactment of this Act \[Nov. 14, 1986\]. The maximum hourly rates provided in section 3006A(d)(1) of title 18, United States Code, as amended by section 102(a)(3)(A) of this Act, shall apply only to services performed on or after the effective date of this title. The maximum allowed for compensation for a case, as provided in section 3006A(d)(2) of title 18, United States Code, as amended by section 102(a)(3)(B) of this Act, shall apply only to compensation claims in which some portion of the claim is for services performed on or after the effective date of this title. The maximum compensation allowed pursuant to section 3006A(e) of title 18, United States Code, as amended by subparagraphs (B) and (C) of section 102(a)(4) of this Act, shall apply only to services obtained on or after the effective date of this title."
+Pub. L. 99–651, title I, §105, Nov. 14, 1986, 100 Stat. 3646, provided that: "This title and the amendments made by this title \[amending this section and section 1825 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] shall take effect one hundred and twenty days after the date of enactment of this Act \[Nov. 14, 1986\]. The maximum hourly rates provided in section 3006A(d)(1) of title 18, United States Code, as amended by section 102(a)(3)(A) of this Act, shall apply only to services performed on or after the effective date of this title. The maximum allowed for compensation for a case, as provided in section 3006A(d)(2) of title 18, United States Code, as amended by section 102(a)(3)(B) of this Act, shall apply only to compensation claims in which some portion of the claim is for services performed on or after the effective date of this title. The maximum compensation allowed pursuant to section 3006A(e) of title 18, United States Code, as amended by subparagraphs (B) and (C) of section 102(a)(4) of this Act, shall apply only to services obtained on or after the effective date of this title."
 
 #### Effective Date of 1984 Amendment
 
@@ -430,7 +430,7 @@ Pub. L. 101–45, title II, §102, June 30, 1989, 103 Stat. 122, provided in par
 
 #### Certification by Attorney General to Administrative Office of United States Courts of Payment of Obligated Expenses
 
-Pub. L. 95–144, §5(c), Oct. 28, 1977, 91 Stat. 1222, provided that: "The Attorney General shall certify to theAdministrative Office of the United States Courts those expenses which it is obligated to pay on behalf of an indigent offender under section 3006A of title 18, United States Code, and similar statutes."
+Pub. L. 95–144, §5(c), Oct. 28, 1977, 91 Stat. 1222, provided that: "The Attorney General shall certify to the Administrative Office of the United States Courts those expenses which it is obligated to pay on behalf of an indigent offender under section 3006A of title 18, United States Code, and similar statutes."
 
 #### Power and Function of a United States Commissioner
 

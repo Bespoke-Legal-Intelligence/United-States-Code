@@ -30,11 +30,11 @@
 
 #### (A) Exemption
 
-&emsp;&emsp;Except as provided in paragraph (2), the Secretary may, through publication of a notice in the Federal Register, exempt schoolwide programs under this section fromstatutory or regulatory provisions of any other noncompetitive formula grant program administered by the Secretary (other than formula or discretionary grant programs under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), except as provided in section 613(a)(2)(D) of such Act (20 U.S.C. 1413(a)(2)(D))), or any discretionary grant program administered by the Secretary, to support schoolwide programs if the intent and purposes of such other programs are met.
+&emsp;&emsp;Except as provided in paragraph (2), the Secretary may, through publication of a notice in the Federal Register, exempt schoolwide programs under this section from statutory or regulatory provisions of any other noncompetitive formula grant program administered by the Secretary (other than formula or discretionary grant programs under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), except as provided in section 613(a)(2)(D) of such Act (20 U.S.C. 1413(a)(2)(D))), or any discretionary grant program administered by the Secretary, to support schoolwide programs if the intent and purposes of such other programs are met.
 
 #### (B) Requirements
 
-&emsp;&emsp;A school that chooses to use funds from such other programs shall not be relieved of the requirements relating to health, safety, civil rights, student and parental participation and involvement, services to private school children, comparability of services, maintenance of effort, uses of Federal funds to supplement, not supplant non-Federal funds (in accordance with the method of determination described in section 6321(b)(2) of this title), or the distribution of funds to State educational agencies or local educational agencies that apply to the receipt of funds from such programs.
+&emsp;&emsp;A school that chooses to use funds from such other programs shall not be relieved of the requirements relating to health, safety, civil rights, student and parental participation and involvement, services to private school children, comparability of services, maintenance of effort, uses of Federal funds to supplement, not supplant non-Federal funds (in accordance with the method of determination described in section 6321(b)(2) ofthis title), or the distribution of funds to State educational agencies or local educational agencies that apply to the receipt of funds from such programs.
 
 #### (C) Records
 

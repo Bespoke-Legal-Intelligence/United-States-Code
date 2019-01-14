@@ -2,7 +2,7 @@
 
 #### (a) Administrative and judicial practice and procedure
 
-(1) Any person who believes a violation of this Act or of chapter 95 or chapter 96 of title 26 has occurred, may file a complaint with the Commission. Such complaint shall be in writing, signed and sworn to by the person filing such complaint, shall be notarized, and shall be made under penalty of perjury and subject to the provisions of section 1001 of title 18. Within 5 days after receipt of a complaint, the Commission shall notify, in writing, any person alleged in the complaint to have committed such a violation. Before the Commission conducts any vote on the complaint, other than a vote to dismiss, any person so notified shall have the opportunity to demonstrate, in writing, to the Commission within 15 days after notification that no action should be taken against such person on the basis of the complaint. The Commission may not conduct any investigation or take any other action under this section solely on the basis of a complaint of a person whose identity is not disclosed to the Commission.
+(1) Any person who believes a violation of this Act or of chapter 95 or chapter 96 of title 26 has occurred, may file a complaint with the Commission. Such complaint shall be in writing, signed and sworn to by the person filing such complaint, shall be notarized, and shall be made under penalty of perjury and subject to the provisions of section 1001 of title 18. Within 5 days after receipt of a complaint, the Commission shall notify, in writing, any person alleged in the complaint to have committed such a violation. Before the Commission conducts any vote on the complaint, other than a vote to dismiss, any person so notified shall have the opportunity to demonstrate, in writing, to the Commission within 15 days after notification that noaction should be taken against such person on the basis of the complaint. The Commission may not conduct any investigation or take any other action under this section solely on the basis of a complaint of a person whose identity is not disclosed to the Commission.
 
 (2) If the Commission, upon receiving a complaint under paragraph (1) or on the basis of information ascertained in the normal course of carrying out its supervisory responsibilities, determines, by an affirmative vote of 4 of its members, that it has reason to believe that a person has committed, or is about to commit, a violation of this Act or chapter 95 or chapter 96 of title 26, the Commission shall, through its chairman or vice chairman, notify the person of the alleged violation. Such notification shall set forth the factual basis for such alleged violation. The Commission shall make an investigation of such alleged violation, which may include a field investigation or audit, in accordance with the provisions of this section.
 
@@ -32,11 +32,11 @@
 
 &emsp;(II) section 30105 of this title.
 
-(v) This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000, and that end on or before December 31, 2018.
+(v) This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000, and that end on or before December 31, 2023.
 
 (5)(A) If the Commission believes that a violation of this Act or of chapter 95 or chapter 96 of title 26 has been committed, a conciliation agreement entered into by the Commission under paragraph (4)(A) may include a requirement that the person involved in such conciliation agreement shall pay a civil penalty which does not exceed the greater of $5,000 or an amount equal to any contribution or expenditure involved in such violation.
 
-(B) If the Commission believes that a knowing and willful violation of this Act or of chapter 95 or chapter 96 of title 26 has been committed, a conciliation agreement entered into by the Commission under paragraph (4)(A) may require that the person involved in such conciliation agreement shall pay a civil penalty which does not exceed the greater of $10,000 or an amount equal to 200 percent of any contribution or expenditure involved in such violation (or, in the case of a violation of section 30122 of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation).
+(B) If the Commission believes that a knowing and willful violation of this Act or of chapter 95 or chapter 96 of title 26 has been committed, a conciliation agreement entered into by the Commission under paragraph (4)(A) may require that the person involved in such conciliation agreement shall pay a civil penalty which does notexceed the greater of $10,000 or an amount equal to 200 percent of any contribution or expenditure involved in such violation (or, in the case of a violation of section 30122 of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation).
 
 (C) If the Commission by an affirmative vote of 4 of its members, determines that there is probable cause to believe that a knowing and willful violation of this Act which is subject to subsection (d), or a knowing and willful violation of chapter 95 or chapter 96 of title 26, has occurred or is about to occur, it may refer such apparent violation to the Attorney General of the United States without regard to any limitations set forth in paragraph (4)(A).
 
@@ -86,7 +86,7 @@ Whenever the Commission refers an apparent violation to the Attorney General, th
 
 (C) In the case of a knowing and willful violation of section 30124 of this title, the penalties set forth in this subsection shall apply without regard to whether the making, receiving, or reporting of a contribution or expenditure of $1,000 or more is involved.
 
-(D) Any person who knowingly and willfully commits a violation of section 30122 of this titleinvolving an amount aggregating more than $10,000 during a calendar year shall be—
+(D) Any person who knowingly and willfully commits a violation of section 30122 of this title involving an amount aggregating more than $10,000 during a calendar year shall be—
 
 &emsp;(i) imprisoned for not more than 2 years if the amount is less than $25,000 (and subject to imprisonment under subparagraph (A) if the amount is $25,000 or more);
 
@@ -108,7 +108,7 @@ Whenever the Commission refers an apparent violation to the Attorney General, th
 
 &emsp;(C) the defendant is, with respect to the violation involved, in compliance with the conciliation agreement.
 
-(Pub. L. 92–225, title III, §309, formerly §314, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1284; renumbered §313 and amended Pub. L. 94–283, title I, §§105, 109, May 11, 1976, 90 Stat. 481, 483; renumbered §309 and amended Pub. L. 96–187, title I, §§105(4), 108, Jan. 8, 1980, 93 Stat. 1354, 1358; Pub. L. 98–620, title IV, §402(1)(A), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–58, title VI, §640(a), (b), Sept. 29, 1999, 113 Stat. 476, 477; Pub. L. 107–155, title III, §§312(a), 315(a), (b), Mar. 27, 2002, 116 Stat. 106, 108; Pub. L. 110–433, §1(a), Oct. 16, 2008, 122 Stat. 4971; Pub. L. 113–72, §§1, 2, Dec. 26, 2013, 127 Stat. 1210.)
+(Pub. L. 92–225, title III, §309, formerly §314, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1284; renumbered §313 and amended Pub. L. 94–283, title I, §§105, 109, May 11, 1976, 90 Stat. 481, 483; renumbered §309 and amended Pub. L. 96–187, title I, §§105(4), 108, Jan. 8, 1980, 93 Stat. 1354, 1358; Pub. L. 98–620, title IV, §402(1)(A), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–58, title VI, §640(a), (b), Sept. 29, 1999, 113 Stat. 476, 477; Pub. L. 107–155, title III, §§312(a), 315(a), (b), Mar. 27, 2002, 116 Stat. 106, 108; Pub. L. 110–433, §1(a), Oct. 16, 2008, 122 Stat. 4971; Pub. L. 113–72, §§1, 2, Dec. 26, 2013, 127 Stat. 1210; Pub. L. 115–386, §1(a), Dec. 21, 2018, 132 Stat. 5161.)
 
 #### References in Text
 
@@ -127,6 +127,8 @@ Another prior section 309 of Pub. L. 92–225 was renumbered section 308, and wa
 Another prior section 309 of Pub. L. 92–225 was renumbered section 312, and is classified to section 30113 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(4)(C)(v). Pub. L. 115–386 substituted "December 31, 2023" for "December 31, 2018".
 
 <b>2013</b>—Subsec. (a)(4)(C)(i). Pub. L. 113–72, §2(a), substituted "a qualified disclosure requirement" for "any requirement of section 434(a) of this title" in introductory provisions.
 
@@ -163,6 +165,14 @@ Subsec. (a)(6)(A). Pub. L. 106–58, §640(b), substituted "paragraph (4)" for "
 <b>1976</b>—Subsec. (a). Pub. L. 94–283, §109, generally revised provisions of subsec. (a) to reflect enactment of sections 441a to 441j of this title and repeal of sections 608 and 610 to 617 of title 18 and to update the operations of the Commission.
 
 Subsecs. (b), (c). Pub. L. 94–283, §109, reenacted subsec. (b) without change and added subsec. (c).
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–386, §1(b), Dec. 21, 2018, 132 Stat. 5161, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the earlier of—
+
+&emsp;"(1) December 31, 2018; or
+
+&emsp;"(2) the date of the enactment of this Act \[Dec. 21, 2018\]."
 
 #### Effective Date of 2013 Amendment
 

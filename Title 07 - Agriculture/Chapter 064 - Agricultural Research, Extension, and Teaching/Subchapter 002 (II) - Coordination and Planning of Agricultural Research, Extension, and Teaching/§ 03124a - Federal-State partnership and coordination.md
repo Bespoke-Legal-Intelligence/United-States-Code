@@ -14,7 +14,7 @@ A unique partnership arrangement exists in food and agricultural research, exten
 
 &emsp;&emsp;(D) subchapter VI of this chapter;
 
-&emsp;(2) extension programs under subchapter VI of this chapter and the Act of May 8, 1914 (7U.S.C. 341 et seq.), commonly known as the Smith-Lever Act;
+&emsp;(2) extension programs under subchapter VI of this chapter and the Act of May 8, 1914 (7 U.S.C. 341 et seq.), commonly known as the Smith-Lever Act;
 
 &emsp;(3) teaching programs under—
 
@@ -88,7 +88,7 @@ Act of August 30, 1890, referred to in subsec. (a)(3)(B), is act Aug. 30, 1890, 
 
 Act of June 29, 1935, referred to in subsec. (a)(3)(C), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly known as the Bankhead-Jones Act and as the Agricultural Research Act. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note under section 3101 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Title XII of the Foreign Assistance Act of 1961 probably means title XII of chapter 2 of part I of the Act, which is classified generally to subpart XII (§2220a et seq.) of part II of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Title XII of the Foreign Assistance Act of 1961 probably means title XII of chapter 2 of part I of the Act, which is classified generally to subpart XII\(§2220a et seq.) of part II of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (e)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

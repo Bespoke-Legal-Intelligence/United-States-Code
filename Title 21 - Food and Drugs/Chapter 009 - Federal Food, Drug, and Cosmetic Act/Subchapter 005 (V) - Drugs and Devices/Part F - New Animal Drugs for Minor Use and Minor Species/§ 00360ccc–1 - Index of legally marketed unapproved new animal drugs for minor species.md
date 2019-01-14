@@ -44,11 +44,11 @@ Any person intending to file a request under this section shall be entitled to o
 
 &emsp;(E) the new animal drug is safe with respect to individuals exposed to the new animal drug through its manufacture or use.
 
-> If the Secretary denies the request, the Secretary shall thereafter provide due notice and an opportunity for an informal conference. A decision of the Secretary to deny an eligibility request following an informal conference shallconstitute final agency action subject to judicial review.
+> If the Secretary denies the request, the Secretary shall thereafter provide due notice and an opportunity for an informal conference. A decision of the Secretary to deny an eligibility request following an informal conference shall constitute final agency action subject to judicial review.
 
 #### (d) Request for addition to index
 
-(1) With respect to a new animal drug for which the Secretary has made a determination of eligibility under subsection (c), the person who made such a request may ask that the Secretary add the new animal drug to the index established under subsection (a). The request for addition to the index shall include—
+(1) With respect to a new animal drug for which the Secretary has made a determinationof eligibility under subsection (c), the person who made such a request may ask that the Secretary add the new animal drug to the index established under subsection (a). The request for addition to the index shall include—
 
 &emsp;(A) a copy of the Secretary's determination of eligibility issued under subsection (c);
 
@@ -128,7 +128,7 @@ Any person intending to file a request under this section shall be entitled to o
 
 > the Secretary shall remove the new animal drug from the index. The decision of the Secretary following an informal conference shall constitute final agency action subject to judicial review.
 
-(2) If the Secretary finds that there is a reasonable probability that the use of the drugwould present a risk to the health of humans or other animals, the Secretary may—
+(2) If the Secretary finds that there is a reasonable probability that the use of the drug would present a risk to the health of humans or other animals, the Secretary may—
 
 &emsp;(A) suspend the listing of such drug immediately;
 
@@ -146,11 +146,9 @@ For purposes of indexing new animal drugs under this section, to the extent cons
 
 The labeling of a new animal drug that is the subject of an index listing shall state, prominently and conspicuously—
 
-&emsp;(1) "
+&emsp;(1) "LEGAL STATUS—In order to be legally marketed, a new animal drug intended for a minor species must be Approved, Conditionally Approved, or Indexed by the Food and Drug Administration. THIS PRODUCT IS INDEXED—MIF \#" (followed by the applicable minor species index file number and a period) "Extra-label use is prohibited.";
 
-Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label use is prohibited.";
-
-&emsp;(2) except in the case of new animal drugs indexed for use in an early life stage of a food-producing animal, "This product is not to be used in animals intended for use as food for humans or other animals."; and
+&emsp;(2) except in the case of new animal drugs indexed for use in an early life stage of a food-producing animal, "This product is not to be used in animals intended for use as food for humans or food-producing animals."; and
 
 &emsp;(3) such other information as may be prescribed by the Secretary in the index listing.
 
@@ -182,7 +180,7 @@ Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label u
 
 In the case of a request under subsection (d) to add a drug to the index under subsection (a) with respect to a drug for which the Secretary provides notice to the person filing the request that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], a determination to grant the request to add such drug to the index shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
 
-(June 25, 1938, ch. 675, §572, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 896; amended Pub. L. 114–89, §2(a)(3)(C), Nov. 25, 2015, 129 Stat. 699.)
+(June 25, 1938, ch. 675, §572, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 896; amended Pub. L. 114–89, §2(a)(3)(C), Nov. 25, 2015, 129 Stat. 699; Pub. L. 115–234, title III, §302, Aug. 14, 2018, 132 Stat. 2436.)
 
 #### References in Text
 
@@ -194,5 +192,15 @@ The Controlled Substances Act, referred to in subsec. (k), is title II of Pub. L
 
 #### Amendments
 
+<b>2018</b>—Subsec. (h)(1). Pub. L. 115–234, §302(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: " '
+
+Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label use is prohibited.';"
+
+Subsec. (h)(2). Pub. L. 115–234, §302(2), substituted "or food-producing animals" for "or other animals".
+
 <b>2015</b>—Subsec. (k). Pub. L. 114–89 added subsec. (k).
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–234, title III, §302, Aug. 14, 2018, 132 Stat. 2436, provided that the amendment made by section 302 is effective Oct. 1, 2018.
 

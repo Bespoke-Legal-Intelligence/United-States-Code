@@ -26,7 +26,7 @@ Of the amount appropriated under section 6302(a) of this title to carry out this
 
 &emsp;For each fiscal year, the amount made available to each local educational agency under each of sections 6333, 6334, and 6335 of this title shall be—
 
-&emsp;&emsp;(A) not less than 95 percent of the amount made available for the preceding fiscal yearif the number of children counted for grants under section 6333 of this title is not less than 30 percent of the total number of children aged 5 to 17 years, inclusive, in the local educational agency;
+&emsp;&emsp;(A) not less than 95 percent of the amount made available for the preceding fiscal year if the number of children counted for grants under section 6333 of this title is not less than 30 percent of the total number of children aged 5 to 17 years, inclusive, in the local educational agency;
 
 &emsp;&emsp;(B) not less than 90 percent of the amount made available for the preceding fiscal year if the percentage described in subparagraph (A) is between 15 percent and 30 percent; and
 
@@ -34,7 +34,7 @@ Of the amount appropriated under section 6302(a) of this title to carry out this
 
 #### (2) Payments
 
-&emsp;If sufficient funds are appropriated, the amounts described in paragraph (1) shall be paid to all local educational agencies that received grants under section 6334 of this title for the preceding fiscal year, regardless of whether the local educational agency meets the minimum eligibility criteria for that fiscal year described in section 6334(a)(1)(A) of this title except that a local educational agency that does not meet such minimum eligibility criteria for 4 consecutive years shall no longer be eligible to receive a hold harmless amount referred to in paragraph (1).
+&emsp;If sufficient funds are appropriated, the amounts described in paragraph (1) shall be paid to all local educational agencies that received grants under section 6334 of this title for the preceding fiscal year, regardless of whether the local educational agency meets the minimum eligibility criteria for that fiscal year described in section 6334(a)(1)(A) ofthis title except that a local educational agency that does not meet such minimum eligibility criteria for 4 consecutive years shall no longer be eligible to receive a hold harmless amount referred to in paragraph (1).
 
 #### (3) Applicability
 

@@ -14,7 +14,7 @@ Unless otherwise ordered by the President, it shall be unlawful—
 
 &emsp;(5) for any person knowingly to use or attempt to use any permit or evidence of permission to depart or enter not issued and designed for his use;
 
-&emsp;(6) for any person to forge, counterfeit, mutilate, or alter, or cause or procure to be forged, counterfeited, mutilated, or altered, any permit or evidence of permission to depart from or enter the United States;
+&emsp;(6) for any person to forge, counterfeit, mutilate, or alter, or cause or procure to be forged, counterfeited, mutilated, or altered,any permit or evidence of permission to depart from or enter the United States;
 
 &emsp;(7) for any person knowingly to use or attempt to use or furnish to another for use any false, forged, counterfeited, mutilated, or altered permit, or evidence of permission, or any permit or evidence of permission which, though originally valid, has become or been made void or invalid.
 
@@ -84,7 +84,7 @@ Pub. L. 114–125, title VIII, §802(j), Feb. 24, 2016, 130 Stat. 216, provided 
 
 #### Asia-Pacific Economic Cooperation Business Travel Cards
 
-Pub. L. 115–79, §4(b)(2), Nov. 2, 2017, 131 Stat. 1260, provided that: "Notwithstanding the repeal under paragraph (1) \[repealing Pub. L. 112–54, below\], an ABT Card issued pursuant to the Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011 before the date of the enactment of this Act \[Nov. 2, 2017\] that, as of such date, is still valid, shall remain valid on and after such date until such time as such Card would otherwise expire."
+Pub. L. 115–79, §4(b)(2), Nov. 2, 2017, 131 Stat. 1260, provided that: "Notwithstanding the repeal under paragraph (1) \[repealing Pub. L. 112–54, below\], an ABT Card issued pursuant to the Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011 before the dateof the enactment of this Act \[Nov. 2, 2017\] that, as of such date, is still valid, shall remain valid on and after such date until such time as such Card would otherwise expire."
 
 Pub. L. 112–54, Nov. 12, 2011, 125 Stat. 550, known as the Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011, provided for the issuance of Asia-Pacific Economic Cooperation Business Travel Cards for a 7-year period ending on Sept. 30, 2018, prior to repeal by Pub. L. 115–79, §4(b)(1), Nov. 2, 2017, 131 Stat. 1260. See section 218 of Title 6, Domestic Security.
 
@@ -152,7 +152,7 @@ Report.—Not later than 180 days after the initiation of the pilot program desc
 
 &emsp;"(2)
 
-Requirement to produce documentation.—The plan developed under paragraph (1) shall require all United States citizens, and categories of individuals for whom documentation requirements have previously been waived under section 212(d)(4)(B) of such Act \[8 U.S.C. 1182(d)(4)(B)\], to carry and produce the documentation described in paragraph (1) when traveling from foreign countries into the United States.
+Requirement to produce documentation.—The plan developed under paragraph (1) shall require all United States citizens, and categories of individuals for whom documentation requirements have previously been waived under section 212(d)(4)(B) of suchAct \[8 U.S.C. 1182(d)(4)(B)\], to carry and produce the documentation described in paragraph (1) when traveling from foreign countries into the United States.
 
 "(c)
 
@@ -192,7 +192,7 @@ Ex. Ord. No. 13323, Dec. 30, 2003, 69 F.R. 241, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 215 of the Immigration and Nationality Act (INA), as amended (8 U.S.C. 1185), and section 301 of title 3, United States Code, and to strengthen the national security of the United States through procedures and systems to manage and control the arrival and departure of persons from the United States, it is hereby ordered as follows:
 
-Section 1. <i>Functions of the Secretary of Homeland Security</i>. The Secretary of Homeland Security is assigned the functions of the President under section 215(a) ofthe INA with respect to persons other than citizens of the United States. In exercising these functions, the Secretary of Homeland Security shall not issue, amend, or revoke any rules, regulations, or orders without first obtaining the concurrence of the Secretary of State.
+Section 1. <i>Functions of the Secretary of Homeland Security</i>. The Secretary of Homeland Security is assigned the functions of the President under section 215(a) of the INA with respect to persons other than citizens of the United States. In exercising these functions, the Secretary of Homeland Security shall not issue, amend, or revoke any rules, regulations, or orders without first obtaining the concurrence of the Secretary of State.
 
 Sec. 2. <i>Functions of the Secretary of State</i>. The Secretary of State is assigned the functions of the President under section 215(a) and (b) of the INA with respect to citizens of the United States, including those functions concerning United States passports. In addition, the Secretary may amend or revoke part 46 of title 22, Code of Federal Regulations, which concern persons other than citizens of the United States. In exercising these functions, the Secretary of State shall not issue, amend, or revoke any rules, regulations, or orders without first consulting with the Secretary of Homeland Security.
 

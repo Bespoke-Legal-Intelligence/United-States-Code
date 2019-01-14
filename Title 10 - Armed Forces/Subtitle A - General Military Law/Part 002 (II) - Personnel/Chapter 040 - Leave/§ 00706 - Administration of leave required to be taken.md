@@ -20,7 +20,7 @@ Subsec. (b). Pub. L. 107–314, §506(c)(1), inserted "or 1182(c)(2)" after "sec
 
 Subsec. (c). Pub. L. 107–314, §506(c)(1)(A), inserted "or 1182(c)(2)" after "section 876a".
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–398 struck out "(1)" before "A member required" and struck out par. (2) whichread as follows: "Section 974 of this title does not apply to a member required to take leave under section 876a of this title during the period of such leave."
+<b>2000</b>—Subsec. (c). Pub. L. 106–398 struck out "(1)" before "A member required" and struck out par. (2) which read as follows: "Section 974 of this title does not apply to a member required to take leave under section 876a of this title during the period of such leave."
 
 <b>1996</b>—Subsec. (c)(1). Pub. L. 104–106 substituted "chapter 43 of title 38" for "section 4301 of title 38".
 

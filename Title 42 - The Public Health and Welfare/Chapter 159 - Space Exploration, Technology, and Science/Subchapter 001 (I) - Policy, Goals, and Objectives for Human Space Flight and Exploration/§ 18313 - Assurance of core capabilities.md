@@ -10,7 +10,7 @@ It is the sense of Congress that—
 
 #### (b) Sense of Congress regarding human space flight capability assurance
 
-It is the sense of Congress that the Administrator shall proceed with the utilization of the ISS, technology development, and follow-on transportation systems (including the Space Launch System, multi-purpose crew vehicle, andcommercial crew and cargo transportation capabilities) under subchapters II and III of this chapter in a manner that ensures—
+It is the sense of Congress that the Administrator shall proceed with the utilization of the ISS, technology development, and follow-on transportation systems (including the Space Launch System, multi-purpose crew vehicle, and commercial crew and cargo transportation capabilities) under subchapters II and III of this chapter in a manner that ensures—
 
 &emsp;(1) that these capabilities remain inherently complementary and interrelated;
 

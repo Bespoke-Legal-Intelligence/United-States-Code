@@ -62,7 +62,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;If the Secretary determines that it is important to the national security interest of the United States to finalize any Department policies, initiatives, or actions prior to the consultation described in subparagraph (A), the Secretary shall—
+&emsp;&emsp;If the Secretary determines that it is important to the national security interest ofthe United States to finalize any Department policies, initiatives, or actions prior to the consultation described in subparagraph (A), the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) notify and provide any recommendations of the Commercial Operations Advisory Committee received to the appropriate congressional committees not later than 45 days after the date on which the policies, initiatives, or actions are finalized; and
 

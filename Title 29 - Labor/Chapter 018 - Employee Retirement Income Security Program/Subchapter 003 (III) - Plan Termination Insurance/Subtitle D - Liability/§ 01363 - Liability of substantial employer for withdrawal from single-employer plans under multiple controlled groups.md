@@ -40,7 +40,7 @@ The provisions of this subsection apply in the case of a withdrawal described in
 
 &emsp;(1) require the plan fund to be equitably allocated between those participants no longer working in covered service under the plan as a result of the withdrawal, and those participants who remain in covered service under the plan;
 
-&emsp;(2) treat that portion of the plan funds allocable under paragraph (1) to participants no longer in covered service as a plan terminated under section 1342 of this title; and
+&emsp;(2) treat that portion of the plan funds allocable under paragraph (1) to participants nolonger in covered service as a plan terminated under section 1342 of this title; and
 
 &emsp;(3) treat that portion of the plan fund allocable to participants remaining in covered service as a separate plan.
 

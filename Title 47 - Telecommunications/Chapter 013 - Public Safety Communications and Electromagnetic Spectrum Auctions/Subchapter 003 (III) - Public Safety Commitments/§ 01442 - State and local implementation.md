@@ -56,7 +56,7 @@ In carrying out the grant program established under this section, the Assistant 
 
 #### (B) State request for proposals
 
-&emsp;&emsp;Not later than 180 days after the date on which a Governor provides notice under subparagraph (A), the Governor shall develop and complete requests for proposals for the construction, maintenance, and operation of the radio access network within the State.
+&emsp;&emsp;Not later than 180 days after the date on which a Governor provides notice under subparagraph (A), the Governor shall developand complete requests for proposals for the construction, maintenance, and operation of the radio access network within the State.
 
 #### (C) Submission and approval of alternative plan
 
@@ -128,7 +128,7 @@ If a State chooses to build its own radio access network, the State shall pay an
 
 &emsp;&emsp;(B) there was actual partiality or corruption in the Commission; or
 
-&emsp;&emsp;(C) the Commission was guilty of misconduct in refusing to hear evidence pertinent and material to the decision or of anyother misbehavior by which the rights of any party have been prejudiced.
+&emsp;&emsp;(C) the Commission was guilty of misconduct in refusing to hear evidence pertinent and material to the decision or of any other misbehavior by which the rights of any party have been prejudiced.
 
 (Pub. L. 112–96, title VI, §6302, Feb. 22, 2012, 126 Stat. 219.)
 

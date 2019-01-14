@@ -98,7 +98,7 @@ The President may waive the prohibitions contained in this section with respect 
 
 &emsp;&emsp;(B) submits to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the chairman of the Committee on Foreign Relations of the Senate a report containing—
 
-&emsp;&emsp;&emsp;(i) the name of any country involved in the proposed transaction, the identity ofany recipient of the items to be provided pursuant to the proposed transaction, and the anticipated use of those items;
+&emsp;&emsp;&emsp;(i) the name of any country involved in the proposed transaction, the identity of any recipient of the items to be provided pursuant to the proposed transaction, and the anticipated use of those items;
 
 &emsp;&emsp;&emsp;(ii) a description of the munitions items involved in the proposed transaction (including their market value) and the actual sale price at each step in the transaction (or if the items are transferred by other than sale, the manner in which they will be provided);
 
@@ -130,13 +130,13 @@ Any person who willfully violates this section shall be fined for each violation
 
 #### (k) Civil penalties; enforcement
 
-In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies, and officials by sections 11(c), 11(e), 11(g), and 12(a) of the Export Administration Act of 1979 \[50 U.S.C. 4610(c), (e), (g), 4614(a)\] (subject to the same terms and conditions as are applicable to such powers under that Act \[50 U.S.C. 4601 et seq.\]), except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that, notwithstanding section 11(c) of that Act, the civil penalty for each violation of this section may not exceed $500,000.
+In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies, and officials by sections 11(c), 11(e), 11(g), and 12(a) <sup>1</sup> of the Export Administration Act of 1979 (subject to the same terms and conditions as are applicable to such powers under that Act), except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that, notwithstanding section 11(c) of that Act, the civil penalty for each violation of this section may not exceed $500,000.
 
 #### (l) Definitions
 
 As used in this section—
 
-&emsp;(1) the term "munitions item" means any item enumerated on the United States Munitions list <sup>1</sup> (without regard to whether the item is imported into or exported from the United States);
+&emsp;(1) the term "munitions item" means any item enumerated on the United States Munitions list <sup>2</sup> (without regard to whether the item is imported into or exported from the United States);
 
 &emsp;(2) the term "United States", when used geographically, means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States;
 
@@ -160,7 +160,7 @@ As used in this section—
 
 &emsp;(5) the term "unsafeguarded special nuclear material" has the meaning given that term in section 6305(8) of this title.
 
-(Pub. L. 90–629, ch. 3, §40, as added Pub. L. 99–399, title V, §509(a), Aug. 27, 1986, 100 Stat. 874; amended Pub. L. 101–222, §2(a), Dec. 12, 1989, 103 Stat. 1892; Pub. L. 102–138, title III, §321, Oct. 28, 1991, 105 Stat. 710; Pub. L. 103–236, title VIII, §822(a)(2), Apr. 30, 1994, 108 Stat. 511; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–511; Pub. L. 107–228, div. B, title XII, §1204, Sept. 30,2002, 116 Stat. 1427; Pub. L. 111–195, title I, §107(a)(3), July 1, 2010, 124 Stat. 1337; Pub. L. 113–276, title II, §208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
+(Pub. L. 90–629, ch. 3, §40, as added Pub. L. 99–399, title V, §509(a), Aug. 27, 1986, 100 Stat. 874; amended Pub. L. 101–222, §2(a), Dec. 12, 1989, 103 Stat. 1892; Pub. L. 102–138, title III, §321, Oct. 28, 1991, 105 Stat. 710; Pub. L. 103–236, title VIII, §822(a)(2), Apr. 30, 1994, 108 Stat. 511; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–511; Pub. L. 107–228, div. B, title XII, §1204, Sept. 30, 2002, 116 Stat. 1427; Pub. L. 111–195, title I, §107(a)(3), July 1, 2010, 124 Stat. 1337; Pub. L. 113–276, title II, §208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 
 #### References in Text
 
@@ -174,7 +174,7 @@ Paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appro
 
 The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Sections 11 and 12 of the Act were classified to sections 4610 and 4614, respectively, of Title 50 prior to repeal.
 
 #### Amendments
 
@@ -206,5 +206,7 @@ Waiver.—The President may waive the prohibition contained in subsection (a) of
 
 Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

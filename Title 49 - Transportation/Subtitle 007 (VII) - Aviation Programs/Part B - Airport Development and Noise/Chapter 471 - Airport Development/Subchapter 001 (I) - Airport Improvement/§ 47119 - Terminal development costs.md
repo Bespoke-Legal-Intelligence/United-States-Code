@@ -16,7 +16,11 @@ In general.—The Secretary of Transportation may approve a project for terminal
 
 &emsp;&emsp;&emsp;(iii) provided for access by passengers to the area of the airport for boarding or exiting aircraft that are not air carrier aircraft;
 
-&emsp;&emsp;(B) if the cost is directly related to moving passengers and baggage in air commerce within the airport, including vehicles for moving passengers between terminal facilities and between terminal facilities and aircraft; and
+&emsp;&emsp;(B) if the cost is directly related to—
+
+&emsp;&emsp;&emsp;(i) moving passengers and baggage in air commerce within the airport, including vehicles for moving passengers between terminal facilities and between terminal facilities and aircraft; or
+
+&emsp;&emsp;&emsp;(ii) installing security cameras in the public area of the interior and exterior of the terminal; and
 
 &emsp;&emsp;(C) under terms necessary to protect the interests of the Government.
 
@@ -28,13 +32,17 @@ Project in revenue-producing areas and nonrevenue-producing parking lots.—In m
 
 &emsp;&emsp;(B) the sponsor certifies that any needed airport development project affecting safety, security, or capacity will not be deferred because of the Secretary's approval.
 
+&emsp;(3)
+
+Lactation areas.—In addition to the projects described in paragraph (1), the Secretary may approve a project for terminal development for the construction or installation of a lactation area (as defined in section 47107(w)) at a commercial service airport.
+
 (b)
 
 Repaying Borrowed Money.—
 
 &emsp;(1)
 
-Terminal development costs incurred after june 30, 1970, and before july 12, 1976.—An amount apportioned under section 47114and made available to the sponsor of a commercial service airport at which terminal development was carried out after June 30, 1970, and before July 12, 1976, is available to repay immediately money borrowed and used to pay the costs for such terminal development if those costs would be allowable project costs under section 47110(d) if they had been incurred after September 3, 1982.
+Terminal development costs incurred after june 30, 1970, and before july 12, 1976.—An amount apportioned under section 47114 and made available to the sponsor of a commercial service airport at which terminal development was carried out after June 30, 1970, and before July 12, 1976, is available to repay immediately money borrowed and used to pay the costs for such terminal development if those costs would be allowable project costs under section 47110(d) if they had been incurred after September 3, 1982.
 
 &emsp;(2)
 
@@ -94,7 +102,7 @@ Determination of Passenger Boarding at Commercial Service Airports.—For the pu
 
 (f) Limitation on Discretionary Funds.—The Secretary may distribute not more than $20,000,000 from the discretionary fund established under section 47115 for terminal development projects at a nonhub airport or a small hub airport that is eligible to receive discretionary funds under section 47108(e)(3).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1274; Pub. L. 103–305, title I, §117, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(69), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 106–181, title I, §152(b), Apr. 5, 2000, 114 Stat. 87; Pub. L. 108–176, title I, §§149(d), 166, Dec. 12, 2003, 117 Stat. 2505, 2514; Pub. L. 112–95, title I, §152(b), Feb. 14, 2012, 126 Stat. 33.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1274; Pub. L. 103–305, title I, §117, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(69), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 106–181, title I, §152(b), Apr. 5, 2000, 114 Stat. 87; Pub. L. 108–176, title I, §§149(d), 166, Dec. 12, 2003, 117 Stat. 2505, 2514; Pub. L. 112–95, title I, §152(b), Feb. 14, 2012, 126 Stat. 33; Pub. L. 115–254, div. B, title I, §§132(b), 138, Oct. 5, 2018, 132 Stat. 3206, 3210.)
 
 Historical and Revision Notes
 
@@ -153,6 +161,10 @@ In subsection (b)(3), the words "from the discretionary fund and small airport f
 Section 20(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (c)(4), is section 20(b) of Pub. L. 91–258, which was classified to section 1720(b) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(B). Pub. L. 115–254, §138, substituted "directly related to—" for "directly related to", inserted cl. (i) designation before "moving passengers and", substituted "; or" for "; and", and added cl. (ii). Amendments were executed to this section to reflect the probable intent of Congress, notwithstanding directory language amending section 47119(a)(1)(B), without specifying the Code title to be amended.
+
+Subsec. (a)(3). Pub. L. 115–254, §132(b), added par. (3).
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–95, §152(b)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 

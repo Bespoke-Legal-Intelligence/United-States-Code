@@ -30,3 +30,7 @@ Section 11916, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1464, related to conclu
 
 Section 11917, added Pub. L. 96–454, §9(a), Oct. 15, 1980, 94 Stat. 2021, related to weight-bumping in household goods transportation. See section 14912 of this title.
 
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+

@@ -6,7 +6,7 @@ All wine or wine spirits shall be locked, sealed, and gauged, and shall be marke
 
 #### (b) Marking
 
-Wines shall be removed in such containers (including vessels, vehicles, and pipelines) bearing such marks and labels evidencing compliance with this chapter, as the Secretary may by regulations prescribe.
+Wines shall be removed in such containers (including vessels, vehicles, and pipelines) bearingsuch marks and labels evidencing compliance with this chapter, as the Secretary may by regulations prescribe.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1381; amended Pub. L. 94–455, title XIX, §§1905(a)(20), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834.)
 

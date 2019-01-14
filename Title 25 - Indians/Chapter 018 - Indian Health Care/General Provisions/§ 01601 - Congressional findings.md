@@ -30,7 +30,7 @@ Section 1(a) of S. 1790, One Hundred Eleventh Congress, as reported by the Commi
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–417, §1, Nov. 1, 2000, 114 Stat. 1812, provided that: "This Act \[enacting and amending section 1645 of this title, amending sections 1395qq and 1396j of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 1645 of this title\] may be cited as the 'Alaska Native and American Indian Direct Reimbursement Act of 2000'."
+Pub. L. 106–417, §1, Nov. 1, 2000, 114 Stat. 1812, provided that: "This Act \[enacting and amending section 1645 of this title, amending sections 1395qq and 1396j of Title 42, The Public Health and Welfare, and enactingprovisions set out as notes under section 1645 of this title\] may be cited as the 'Alaska Native and American Indian Direct Reimbursement Act of 2000'."
 
 #### Short Title of 1996 Amendment
 
@@ -62,5 +62,5 @@ Pub. L. 100–713, title VIII, §801, Nov. 23, 1988, 102 Stat. 4839, provided th
 
 #### Availability of Appropriations
 
-Pub. L. 100–713, §4, Nov. 23, 1988, 102 Stat. 4785, provided that: "Any new spending authority (described insubsection (c)(2)(A) or (B) of section 401 of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)(A), (B)\]) which is provided under this Act \[see Short Title of 1988 Amendment note above\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts."
+Pub. L. 100–713, §4, Nov. 23, 1988, 102 Stat. 4785, provided that: "Any new spending authority (described in subsection (c)(2)(A) or (B) of section 401 of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)(2)(A), (B)\]) which is provided under this Act \[see Short Title of 1988 Amendment note above\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts."
 

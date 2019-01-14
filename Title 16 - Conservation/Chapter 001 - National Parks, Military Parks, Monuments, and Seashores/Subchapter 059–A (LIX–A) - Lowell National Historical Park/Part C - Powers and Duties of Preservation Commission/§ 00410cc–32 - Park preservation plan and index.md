@@ -18,7 +18,7 @@
 
 (1) Except as provided in paragraph (2) of this subsection, the Secretary shall not make any funds available to the Commission to carry out section 410cc–33 or 410cc–34 of this title until a park preservation plan has been approved under subsection (a) of this section.
 
-(2) Before a park preservation plan is approved under subsection (a) of this section, the Secretary may make available to the Commissionsuch funds as the Commission may request to carry out any activity specified in paragraph (3) of this section. However, no funds shall be made available under this paragraph unless a proposal describing such activity is reviewed and approved by the Secretary.
+(2) Before a park preservation plan is approved under subsection (a) of this section, the Secretary may make available to the Commission such funds as the Commission may request to carry out any activity specified in paragraph (3) of this section. However, no funds shall be made available under this paragraph unless a proposal describing such activity is reviewed and approved by the Secretary.
 
 (3) The Commission may request funds from the Secretary to—
 
@@ -88,7 +88,7 @@ The Commission shall establish, within one year after the date on which the Comm
 
 #### (e) Standards and criteria for construction, preservation, etc., of properties within preservation district and park; authorization; establishment; revisions; publication in Federal Register
 
-(1) The Commission shall establish standards and criteria applicable to the construction, preservation, restoration, alteration, and use of all properties within the preservation district with the advice of the Commonwealth of Massachusetts and of the Secretary, and the consent of the city manager of Lowell.
+(1) The Commission shall establish standards and criteria applicable to the construction, preservation, restoration, alteration, and use of all properties within the preservation district withthe advice of the Commonwealth of Massachusetts and of the Secretary, and the consent of the city manager of Lowell.
 
 (2) The Commission shall establish the standards and criteria described in paragraph (1) of this subsection for any property within the park with the advice of the Commonwealth of Massachusetts and the city manager of Lowell and subject to the review and approval of the Secretary.
 

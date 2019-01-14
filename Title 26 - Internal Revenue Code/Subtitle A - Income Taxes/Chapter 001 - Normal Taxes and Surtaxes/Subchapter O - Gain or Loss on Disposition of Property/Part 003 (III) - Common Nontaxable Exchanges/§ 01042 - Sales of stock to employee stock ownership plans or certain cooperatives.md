@@ -194,7 +194,7 @@ The basis of the taxpayer in qualified replacement property purchased by the tax
 
 #### (f) Statute of limitations
 
-If any gain is realized by the taxpayer on the sale or exchange of any qualified securities and there is in effect an election under subsection (a) with respect to such gain, then—
+If any gain is realized by the taxpayer on the sale or exchange of any qualified securities andthere is in effect an election under subsection (a) with respect to such gain, then—
 
 &emsp;(1) the statutory period for the assessment of any deficiency with respect to such gain shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may by regulations prescribe) of—
 
@@ -356,7 +356,7 @@ Pub. L. 105–34, title IX, §968, Aug. 5, 1997, 111 Stat. 895, amending this se
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Ownership of Stock Options as Ownership of Stock; Employee Ownership of Stock After Sale
 

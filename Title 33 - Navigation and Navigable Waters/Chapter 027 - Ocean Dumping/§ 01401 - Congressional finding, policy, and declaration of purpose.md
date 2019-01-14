@@ -6,7 +6,7 @@ Unregulated dumping of material into ocean waters endangers human health, welfar
 
 #### (b) Policy of regulation and prevention or limitation
 
-The Congress declares that it is the policy of the United States to regulate the dumping of all types of materials into ocean waters and to prevent or strictly limit the dumping into ocean waters of any material which would adverselyaffect human health, welfare, or amenities, or the marine environment, ecological systems, or economic potentialities.
+The Congress declares that it is the policy of the United States to regulate the dumping of all types of materials into ocean waters and to prevent or strictly limit the dumping into ocean waters of any material which would adversely affect human health, welfare, or amenities, or the marine environment, ecological systems, or economic potentialities.
 
 #### (c) Regulation of dumping and transportation for dumping purposes
 

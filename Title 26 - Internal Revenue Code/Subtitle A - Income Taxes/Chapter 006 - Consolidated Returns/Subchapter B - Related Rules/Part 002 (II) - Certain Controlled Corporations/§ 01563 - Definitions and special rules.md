@@ -44,7 +44,7 @@ For purposes of this part, the term "controlled group of corporations" means any
 
 &emsp;&emsp;(A) is a member of such group for less than one-half the number of days in such taxable year which precede such December 31,
 
-&emsp;&emsp;(B) is exempt from taxation under section 501(a) (except a corporation which is subjectto tax on its unrelated business taxable income under section 511) for such taxable year,
+&emsp;&emsp;(B) is exempt from taxation under section 501(a) (except a corporation which is subject to tax on its unrelated business taxable income under section 511) for such taxable year,
 
 &emsp;&emsp;(C) is a foreign corporation subject to tax under section 881 for such taxable year,
 
@@ -100,7 +100,7 @@ For purposes of this part, the term "controlled group of corporations" means any
 
 &emsp;&emsp;&emsp;(i) stock in such corporation held by an employees' trust described in section 401(a) which is exempt from tax under section 501(a), if such trust is for the benefit of the employees of such corporation,
 
-&emsp;&emsp;&emsp;(ii) stock in such corporation owned (within the meaning of subsection (d)(2)) by an employee of the corporation if such stock is subject to conditions which run in favor of any of such common owners (or such corporation) and which substantially restrict or limit the employee's right (or if the employee constructively owns such stock, the direct owner's right) to dispose of such stock. If a condition which limits or restricts the employee's right (or the direct owner's right) to dispose of such stock also applies to the stock held by any of the common owners pursuant to a bona fide reciprocal stock purchase arrangement, such condition shall not be treated as one whichrestricts or limits the employee's right to dispose of such stock, or
+&emsp;&emsp;&emsp;(ii) stock in such corporation owned (within the meaning of subsection (d)(2)) by an employee of the corporation if such stock is subject to conditions which run in favor of any of such common owners (or such corporation) and which substantially restrict or limit the employee's right (or if the employee constructively owns such stock, the direct owner's right) to dispose of such stock. If a condition which limits or restricts the employee's right (or the direct owner's right) to dispose of such stock also applies to the stock held by any of the common owners pursuant to a bona fide reciprocal stock purchase arrangement, such condition shall not be treated as one which restricts or limits the employee's right to dispose of such stock, or
 
 &emsp;&emsp;&emsp;(iii) stock in such corporation owned (within the meaning of subsection (d)(2)) by an organization to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by such corporation, by an individual, estate, or trust that is a principal stockholder (within the meaning of subparagraph (A)(ii)) of such corporation, by an officer of such corporation, or by any combination thereof.
 
@@ -126,7 +126,7 @@ For purposes of this part, the term "controlled group of corporations" means any
 
 #### (1) Options
 
-&emsp;If any person has an option to acquire stock, such stock shall be considered as owned by such person. For purposes of this paragraph, an option to acquire such an option, and each one of a series of such options, shall be considered as an option to acquire such stock.
+&emsp;If any person has an option to acquire stock, such stock shall be considered as owned bysuch person. For purposes of this paragraph, an option to acquire such an option, and each one of a series of such options, shall be considered as an option to acquire such stock.
 
 #### (2) Attribution from partnerships
 
@@ -236,7 +236,7 @@ For purposes of this part, the term "controlled group of corporations" means any
 
 &emsp;&emsp;For purposes of this paragraph, an applicable provision is any provision of law (other than this part) which incorporates the definition of controlled group of corporations under subsection (a).
 
-(Added Pub. L. 88–272, title II, §235(a), Feb. 26, 1964, 78 Stat. 120; amended Pub. L. 91–172, titleIV, §401(c), (d), Dec. 30, 1969, 83 Stat. 602; Pub. L. 91–373, title I, §102(b), Aug. 10, 1970, 84 Stat. 696; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title II, §211(b)(22), July 18, 1984, 98 Stat. 757; Pub. L. 99–514, title X, §1024(c)(17), Oct. 22, 1986, 100 Stat. 2408; Pub. L. 100–647, title I, §1018(s)(3)(A), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 108–357, title VIII, §900(a), (b), Oct. 22, 2004, 118 Stat. 1650.)
+(Added Pub. L. 88–272, title II, §235(a), Feb. 26, 1964, 78 Stat. 120; amended Pub. L. 91–172, title IV, §401(c), (d), Dec. 30, 1969, 83 Stat. 602; Pub. L. 91–373, title I, §102(b), Aug. 10, 1970, 84 Stat. 696; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title II, §211(b)(22), July 18, 1984, 98 Stat. 757; Pub. L. 99–514, title X, §1024(c)(17), Oct. 22, 1986, 100 Stat. 2408; Pub. L. 100–647, title I, §1018(s)(3)(A), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 108–357, title VIII, §900(a), (b), Oct. 22, 2004, 118 Stat. 1650.)
 
 #### Amendments
 

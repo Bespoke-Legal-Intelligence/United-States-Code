@@ -34,7 +34,7 @@ The Secretary shall administer the provisions of this subchapter relating to the
 
 #### (b) Compliance with regulations as condition for issuance, continuation, assignment, or other transfer of leases
 
-The issuance and continuance in effect of any lease, or of any assignment or other transfer ofany lease, under the provisions of this subchapter shall be conditioned upon compliance with regulations issued under this subchapter.
+The issuance and continuance in effect of any lease, or of any assignment or other transfer of any lease, under the provisions of this subchapter shall be conditioned upon compliance with regulations issued under this subchapter.
 
 #### (c) Cancellation of nonproducing lease
 
@@ -70,7 +70,7 @@ Rights-of-way through the submerged lands of the outer Continental Shelf, whethe
 
 #### (h) Federal action affecting outer Continental Shelf; notification; recommended changes
 
-The head of any Federal department or agency who takes any action which has a direct and significant effect on the outer Continental Shelf orits development shall promptly notify the Secretary of such action and the Secretary shall thereafter notify the Governor of any affected State and the Secretary may thereafter recommend such changes in such action as are considered appropriate.
+The head of any Federal department or agency who takes any action which has a direct and significant effect on the outer Continental Shelf or its development shall promptly notify the Secretary of such action and the Secretary shall thereafter notify the Governor of any affected State and the Secretary may thereafter recommend such changes in such action as are considered appropriate.
 
 #### (i) Flaring of natural gas
 
@@ -92,7 +92,7 @@ After September 18, 1978, no holder of any oil and gas lease issued or maintaine
 
 &emsp;The Secretary shall prevent, through the cooperative development of an area, the harmful effects of unrestrained competitive production of hydrocarbons from a common hydrocarbon-bearing area underlying the Federal and State boundary.
 
-(Aug. 7, 1953, ch. 345, §5, 67 Stat. 464; Pub. L. 95–372, title II, §204, Sept. 18, 1978, 92 Stat. 636; Pub. L. 101–380, title VI, §6004(a), Aug. 18, 1990, 104 Stat. 558; Pub. L. 109–58, title III, §321(a), Aug. 8, 2005, 119 Stat. 694.)
+(Aug. 7, 1953, ch. 345, §5, 67 Stat. 464; Pub. L. 95–372, title II, §204, Sept. 18, 1978, 92 Stat. 636;Pub. L. 101–380, title VI, §6004(a), Aug. 18, 1990, 104 Stat. 558; Pub. L. 109–58, title III, §321(a), Aug. 8, 2005, 119 Stat. 694.)
 
 #### References in Text
 

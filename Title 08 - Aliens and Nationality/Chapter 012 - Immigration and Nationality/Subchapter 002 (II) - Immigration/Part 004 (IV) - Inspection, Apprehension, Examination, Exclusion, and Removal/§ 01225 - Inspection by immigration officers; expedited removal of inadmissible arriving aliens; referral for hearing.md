@@ -4,7 +4,7 @@
 
 #### (1) Aliens treated as applicants for admission
 
-&emsp;An alien present in the United States who has not been admitted or who arrives in the United States (whether or not at a designated port of arrival and including an alien who is brought to the United States after having been interdicted in international or United Stateswaters) shall be deemed for purposes of this chapter an applicant for admission.
+&emsp;An alien present in the United States who has not been admitted or who arrives in the United States (whether or not at a designated port of arrival and including an alien who is brought to the United States after having been interdicted in international or United States waters) shall be deemed for purposes of this chapter an applicant for admission.
 
 #### (2) Stowaways
 
@@ -34,7 +34,7 @@
 
 #### (ii) Claims for asylum
 
-&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title and the alien indicates either an intention to apply for asylum under section 1158 of this title or a fear of persecution, the officer shall refer the alien for an interview by an asylum officer under subparagraph (B).
+&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title and the alien indicates either an intention to apply for asylum under section 1158 of thistitle or a fear of persecution, the officer shall refer the alien for an interview by an asylum officer under subparagraph (B).
 
 #### (iii) Application to certain other aliens
 
@@ -68,7 +68,7 @@
 
 #### (III) Review of determination
 
-&emsp;&emsp;&emsp;&emsp;The Attorney General shall provide by regulation and upon the alien's request for prompt review by an immigrationjudge of a determination under subclause (I) that the alien does not have a credible fear of persecution. Such review shall include an opportunity for the alien to be heard and questioned by the immigration judge, either in person or by telephonic or video connection. Review shall be concluded as expeditiously as possible, to the maximum extent practicable within 24 hours, but in no case later than 7 days after the date of the determination under subclause (I).
+&emsp;&emsp;&emsp;&emsp;The Attorney General shall provide by regulation and upon the alien's request for prompt review by an immigration judge of a determination under subclause (I) that the alien does not have a credible fear of persecution. Such review shall include an opportunity for the alien to be heard and questioned by the immigration judge, either in person or by telephonic or video connection. Review shall be concluded as expeditiously as possible, to the maximum extent practicable within 24 hours, but in no case later than 7 days after the date of the determination under subclause (I).
 
 #### (IV) Mandatory detention
 
@@ -134,7 +134,7 @@
 
 #### (1) Removal without further hearing
 
-&emsp;If an immigration officer or an immigration judge suspects that an arriving alien may beinadmissible under subparagraph (A) (other than clause (ii)), (B), or (C) of section 1182(a)(3) of this title, the officer or judge shall—
+&emsp;If an immigration officer or an immigration judge suspects that an arriving alien may be inadmissible under subparagraph (A) (other than clause (ii)), (B), or (C) of section 1182(a)(3) of this title, the officer or judge shall—
 
 &emsp;&emsp;(A) order the alien removed, subject to review under paragraph (2);
 

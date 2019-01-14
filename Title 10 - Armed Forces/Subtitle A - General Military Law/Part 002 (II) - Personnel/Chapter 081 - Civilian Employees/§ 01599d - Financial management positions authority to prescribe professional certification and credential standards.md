@@ -30,7 +30,7 @@ Reports.—Not later than one year after the effective date of any regulations p
 
 Financial Management Position Defined.—In this section, the term "financial management position" means a position or group of positions (including civilian and military positions), as designated by the Secretary for purposes of this section, that perform, supervise, or manage work of a fiscal, financial management, accounting, auditing, cost, or budgetary nature, or that require the performance of financial management-related work.
 
-(Added Pub. L. 107–314, div. A, title XI, §1104(a)(1), Dec. 2, 2002, 116 Stat. 2661; amended Pub. L. 110–417, \[div. A\], title XI, §1110, Oct. 14, 2008, 122 Stat. 4619; Pub. L. 112–81, div. A, title X, §1051(a), Dec. 31, 2011, 125 Stat. 1581.)
+(Added Pub. L. 107–314, div. A, title XI, §1104(a)(1), Dec. 2, 2002, 116 Stat. 2661; amended Pub. L. 110–417, \[div. A\], title XI, §1110, Oct. 14,2008, 122 Stat. 4619; Pub. L. 112–81, div. A, title X, §1051(a), Dec. 31, 2011, 125 Stat. 1581.)
 
 #### Amendments
 

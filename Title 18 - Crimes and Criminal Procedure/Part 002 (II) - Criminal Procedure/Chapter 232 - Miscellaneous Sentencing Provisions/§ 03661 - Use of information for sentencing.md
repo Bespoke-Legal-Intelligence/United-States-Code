@@ -1,6 +1,6 @@
 ### §3661. Use of information for sentencing
 
-No limitation shall be placed on the information concerning the background, character, andconduct of a person convicted of an offense which a court of the United States may receive and consider for the purpose of imposing an appropriate sentence.
+No limitation shall be placed on the information concerning the background, character, and conduct of a person convicted of an offense which a court of the United States may receive and consider for the purpose of imposing an appropriate sentence.
 
 (Added Pub. L. 91–452, title X, §1001(a), Oct. 15, 1970, 84 Stat. 951, §3577; renumbered §3661, Pub. L. 98–473, title II, §212(a)(1), Oct. 12, 1984, 98 Stat. 1987.)
 

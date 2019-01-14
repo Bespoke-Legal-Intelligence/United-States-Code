@@ -22,7 +22,7 @@
 
 #### (b) Limited authority to vary individual amounts provided for any fiscal year for specified purposes
 
-For any fiscal year for which Cooperative Threat Reduction funds are specifically authorized in an Act other than an appropriations Act for specific purposes within the Program, the Secretary may obligate or expend such funds, or other funds otherwise made available for the Program for that fiscal year, in excess of the specific amount so authorized for that purpose if—
+For any fiscal year for which Cooperative Threat Reduction funds are specifically authorized in an Act other than an appropriations Act for specific purposes within the Program, the Secretary may obligate or expend such funds, or other funds otherwise made available for theProgram for that fiscal year, in excess of the specific amount so authorized for that purpose if—
 
 &emsp;(1) the Secretary determines that such obligation or expenditure is necessary in the national interests of the United States;
 

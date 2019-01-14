@@ -34,7 +34,7 @@ The Secretary of the Treasury shall, beginning thirty days after November 14, 20
 
 #### (c) "Multilateral development bank" defined
 
-In this section the term "multilateral development bank" has the meaning given that term in section 262m–7 of this title and also includes theEuropean Bank for Reconstruction and Development and the Global Environment Facility.
+In this section the term "multilateral development bank" has the meaning given that term in section 262m–7 of this title and also includes the European Bank for Reconstruction and Development and the Global Environment Facility.
 
 (Pub. L. 95–118, title XV, §1505, as added Pub. L. 109–102, title V, §599B, Nov. 14, 2005, 119 Stat. 2241.)
 

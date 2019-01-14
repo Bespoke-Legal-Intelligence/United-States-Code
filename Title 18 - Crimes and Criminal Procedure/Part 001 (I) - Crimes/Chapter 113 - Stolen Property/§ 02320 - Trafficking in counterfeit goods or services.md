@@ -212,7 +212,7 @@ Subsec. (e)(4). Pub. L. 105–225, §4(b)(4), as amended by Pub. L. 105–354, �
 
 <b>1994</b>—Pub. L. 103–322, §330016(1)(U), which directed the amendment of this section by striking "not more than $250,000" and inserting "under this title", could not be executed because the phrase "not more than $250,000" did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, §320104(a). See below.
 
-Subsec. (a). Pub. L. 103–322, §320104(a), in first sentence, substituted "$2,000,000 or imprisoned not more than 10 years" for "$250,000 or imprisoned not more than five years" and "$5,000,000" for "$1,000,000", and insecond sentence, substituted "$5,000,000 or imprisoned not more than 20 years" for "$1,000,000 or imprisoned not more than fifteen years" and "$15,000,000" for "$5,000,000".
+Subsec. (a). Pub. L. 103–322, §320104(a), in first sentence, substituted "$2,000,000 or imprisoned not more than 10 years" for "$250,000 or imprisoned not more than five years" and "$5,000,000" for "$1,000,000", and in second sentence, substituted "$5,000,000 or imprisoned not more than 20 years" for "$1,000,000 or imprisoned not more than fifteen years" and "$15,000,000" for "$5,000,000".
 
 #### Effective Date of 1998 Amendment
 

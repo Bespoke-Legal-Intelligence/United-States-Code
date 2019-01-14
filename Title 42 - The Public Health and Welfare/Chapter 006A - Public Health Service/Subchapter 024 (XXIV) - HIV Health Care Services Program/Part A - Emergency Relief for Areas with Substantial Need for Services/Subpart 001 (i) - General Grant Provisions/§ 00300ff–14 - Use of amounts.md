@@ -114,7 +114,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (1) Provision of service
 
-&emsp;Subject to paragraph (2), the Secretary may not make a grant under section 300ff–11(a) of this title for the provision of services under this section in a State unless, in the case of any such service that is available pursuant to the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State—
+&emsp;Subject to paragraph (2), the Secretary may not make a grant under section 300ff–11(a) ofthis title for the provision of services under this section in a State unless, in the case of any such service that is available pursuant to the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State—
 
 &emsp;&emsp;(A) the political subdivision involved will provide the service directly, and the political subdivision has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
@@ -182,7 +182,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 A chief elected official may not use amounts received under a grant awarded under this subpart to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
-(July 1, 1944, ch. 373, title XXVI, §2604, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 580; amended Pub. L. 103–446, title XII, §1203(a)(3), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–146, §3(b)(4), May 20, 1996, 110 Stat. 1351; Pub.L. 106–345, title I, §121, Oct. 20, 2000, 114 Stat. 1326; Pub. L. 109–415, title I, §§105, 107(b), title VII, §703, Dec. 19, 2006, 120 Stat. 2776, 2783, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+(July 1, 1944, ch. 373, title XXVI, §2604, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 580; amended Pub. L. 103–446, title XII, §1203(a)(3), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–146, §3(b)(4), May 20, 1996, 110 Stat. 1351; Pub. L. 106–345, title I, §121, Oct. 20, 2000, 114 Stat. 1326; Pub. L. 109–415, title I, §§105, 107(b), title VII, §703, Dec. 19, 2006, 120 Stat. 2776, 2783, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### References in Text
 

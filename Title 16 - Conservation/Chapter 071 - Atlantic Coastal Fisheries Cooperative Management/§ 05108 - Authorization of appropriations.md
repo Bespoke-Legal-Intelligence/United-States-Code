@@ -16,7 +16,7 @@ Another section 811 of Pub. L. 103–206 amended section 4107 of this title, pri
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–555 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "To carry out the provisions of this chapter, there are authorized to be appropriated $3,000,000 for fiscal year 1994, $5,000,000 forfiscal year 1995, and $7,000,000 for fiscal year 1996, and $7,000,000 for each of the fiscal years 1997, 1998, 1999, and 2000."
+<b>2000</b>—Pub. L. 106–555 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "To carry out the provisions of this chapter, there are authorized to be appropriated $3,000,000 for fiscal year 1994, $5,000,000 for fiscal year 1995, and $7,000,000 for fiscal year 1996, and $7,000,000 for each of the fiscal years 1997, 1998, 1999, and 2000."
 
 <b>1996</b>—Pub. L. 104–297, §404(d), which directed amendment of section 810 of Pub. L. 103–206 by substituting "1996, and $7,000,000 for each of the fiscal years 1997, 1998, 1999, and 2000" for "1996", was executed to this section to reflect the probable intent of Congress.
 

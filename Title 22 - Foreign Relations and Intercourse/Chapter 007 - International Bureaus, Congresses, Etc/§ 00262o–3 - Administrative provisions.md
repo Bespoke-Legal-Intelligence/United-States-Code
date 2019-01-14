@@ -14,7 +14,7 @@ The Secretary of the Treasury should instruct the United States Executive Direct
 
 &emsp;(5) The institution shall require that any health, education, or poverty-focused loan, credit, grant, document, policy, or strategy prepared by the institution includes specific outcome and output indicators to measure results, and that the indicators and results be published periodically during the execution, and at the completion, of the project or program.
 
-&emsp;(6) The institution shall establish a plan and schedule for conducting regular, independent audits of internal management controls and procedures for meeting operational objectives, complying with Bank policies, and preventing fraud, and making reports describing the scope and findings of such audits available to the public.
+&emsp;(6) The institution shall establish a plan and schedule for conducting regular, independent audits of internal management controls andprocedures for meeting operational objectives, complying with Bank policies, and preventing fraud, and making reports describing the scope and findings of such audits available to the public.
 
 &emsp;(7) The institution shall establish effective procedures for the receipt, retention, and treatment of: (A) complaints received by the Bank regarding fraud, accounting, mismanagement, internal accounting controls, or auditing matters; and (B) the confidential, anonymous submission by employees of the Bank of concerns regarding fraud, accounting, mismanagement, internal accounting controls, or auditing matters.
 
@@ -36,7 +36,7 @@ The Secretary of the Treasury or the designee of the Secretary should brief the 
 
 #### (e) Publication of "no" votes and abstentions by the United States
 
-Each month, the Secretary of the Treasury should provide for posting on the website of the Department of the Treasury of a record of all "no" votes and abstentions made by the UnitedStates Executive Director at any multilateral development institution on any matter before the Board of Directors of the institution.
+Each month, the Secretary of the Treasury should provide for posting on the website of the Department of the Treasury of a record of all "no" votes and abstentions made by the United States Executive Director at any multilateral development institution on any matter before the Board of Directors of the institution.
 
 #### (f) Multilateral development institution defined
 

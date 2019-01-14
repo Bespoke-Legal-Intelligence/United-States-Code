@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(G) A Director of U.S. Immigration and Customs Enforcement.
 
-&emsp;&emsp;(H) An Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department.
+&emsp;&emsp;(H) A Director of the Cybersecurity and Infrastructure Security Agency.
 
 &emsp;&emsp;(I) Not more than 12 Assistant Secretaries.
 
@@ -38,7 +38,7 @@ There shall be in the Department an Office of Inspector General and an Inspector
 
 #### (c) Commandant of the Coast Guard
 
-To assist the Secretary in the performance of the Secretary's functions, there is a Commandant of the Coast Guard, who shall be appointed as provided in section 44 of title 14 and who shall report directly to the Secretary. In addition to such duties as may be provided in this chapter and as assigned to the Commandant by the Secretary, the duties of the Commandant shall include those required by section 2 of title 14.
+To assist the Secretary in the performance of the Secretary's functions, there is a Commandant of the Coast Guard, who shall be appointed as provided in section 44 <sup>1</sup> of title 14 and who shall report directly to the Secretary. In addition to such duties as may be provided in this chapter and as assigned to the Commandant by the Secretary, the duties of the Commandant shall include those required by section 2 <sup>1</sup> of title 14.
 
 #### (d) Other officers
 
@@ -50,7 +50,7 @@ To assist the Secretary in the performance of the Secretary's functions, there a
 
 &emsp;(3) An Officer for Civil Rights and Civil Liberties.
 
-&emsp;(4) A Director for Domestic Nuclear Detection.
+&emsp;(4) An Assistant Secretary for the Countering Weapons of Mass Destruction Office.
 
 &emsp;(5) Any Director of a Joint Task Force under section 348 of this title.
 
@@ -76,17 +76,23 @@ Subject to the provisions of this chapter, every officer of the Department shall
 
 &emsp;The Secretary shall notify the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives of any vacancies that require notification under sections 3345 through 3349d of title 5 (commonly known as the "Federal Vacancies Reform Act of 1998").
 
-(Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144; Pub. L. 108–7, div. L, §104(a), Feb. 20, 2003, 117 Stat. 529; Pub. L. 108–330, §3(d)(1)(A), Oct. 16, 2004, 118 Stat. 1276; Pub. L. 108–458, title VII, §7407(b), Dec. 17, 2004, 118 Stat. 3853; Pub. L. 109–295, title VI, §612(b), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title V, §501(b)(1), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(2), Aug. 3, 2007, 121 Stat. 334; Pub. L. 110–388, §1, Oct. 10, 2008, 122 Stat. 4144; Pub. L. 112–166, §2(f)(5), Aug. 10, 2012, 126 Stat. 1285; Pub. L. 114–125, title VIII, §802(g)(1)(A)(ii), Feb. 24, 2016, 130 Stat. 211; Pub. L. 114–328, div. A, title XIX, §§1901(a), 1903(a), Dec. 23, 2016, 130 Stat. 2665, 2672.)
+(Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144; Pub. L. 108–7, div. L, §104(a), Feb. 20, 2003, 117 Stat. 529; Pub. L. 108–330, §3(d)(1)(A), Oct. 16, 2004, 118 Stat. 1276; Pub. L. 108–458, title VII, §7407(b), Dec. 17, 2004, 118 Stat. 3853; Pub. L. 109–295, title VI, §612(b), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title V, §501(b)(1), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(2), Aug. 3, 2007, 121 Stat. 334; Pub. L. 110–388, §1, Oct. 10, 2008, 122 Stat. 4144; Pub. L. 112–166, §2(f)(5), Aug. 10, 2012, 126 Stat. 1285; Pub. L. 114–125, title VIII, §802(g)(1)(A)(ii), Feb. 24, 2016, 130 Stat. 211; Pub. L. 114–328, div. A, title XIX, §§1901(a), 1903(a), Dec. 23, 2016, 130 Stat. 2665, 2672; Pub. L. 115–278, §2(g)(1), Nov. 16, 2018, 132 Stat. 4176; Pub. L. 115–387, §2(f)(1), Dec. 21, 2018, 132 Stat. 5168.)
 
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+Sections 2 and 44 of title 14, referred to in subsec. (c), redesignated sections 102 and 302, respectively, of title 14 by Pub. L. 115–282, title I, §§103(b), 104(b), Dec. 4, 2018, 132 Stat. 4195, 4196, and references to sections 2 and 44 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 This chapter, referred to in subsecs. (c) and (f), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 The Federal Vacancies Reform Act of 1998, referred to in subsec. (g)(3), is section 151(a) of title I of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–611, which enacted sections 3345 to 3349d of Title 5, Government Organization and Employees, repealed former sections 3345 to 3349 of Title 5, and enacted provisions set out as a note under section 3345 of Title 5. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 3301 of Title 5 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(H). Pub. L. 115–278 amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: "An Under Secretary responsible foroverseeing critical infrastructure protection, cybersecurity, and other related programs of the Department."
+
+Subsec. (d)(4). Pub. L. 115–387 substituted "An Assistant Secretary for the Countering Weapons of Mass Destruction Office" for "A Director for Domestic Nuclear Detection".
 
 <b>2016</b>—Subsec. (a)(1)(C). Pub. L. 114–125, §802(g)(1)(A)(ii)(I), substituted "A Commissioner of U.S. Customs and Border Protection." for "An Under Secretary for Border and Transportation Security."
 
@@ -131,4 +137,10 @@ Any reference to the Administrator of the Federal Emergency Management Agency in
 #### Effective Date of 2012 Amendment
 
 Pub. L. 112–166, §6(a), Aug. 10, 2012, 126 Stat. 1295, provided that: "The amendments made by section 2 \[see Tables for classification\] shall take effect 60 days after the date of enactment of this Act \[Aug. 10, 2012\] and apply to appointments made on and after that effective date, including any nomination pending in the Senate on that date."
+
+#### Under Secretary Responsible for Overseeing Critical Infrastructure Protection, Cybersecurity and Related Programs Authorized To Serve as Director of Cybersecurity and Infrastructure Security
+
+For authorization of individual serving as Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity and related programs on the day before Nov. 16, 2018, to continue to serve as Director of Cybersecurity and Infrastructure Security on and after such date, see section 2(b)(1) of Pub. L. 115–278, Nov. 16, 2018, 132 Stat. 4175, set out as a note under section 652 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

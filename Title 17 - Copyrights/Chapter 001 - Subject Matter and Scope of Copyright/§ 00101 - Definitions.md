@@ -28,7 +28,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;A work is "created" when it is fixed in a copy or phonorecord for the first time; where a work is prepared over a period of time, the portion of it that has been fixed at any particular time constitutes the work as of that time, and where the work has been prepared in different versions, each version constitutes a separate work.
 
-&emsp;A "derivative work" is a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. A work consisting of editorial revisions, annotations, elaborations, or other modifications which, as a whole, represent an original work of authorship, is a "derivative work".
+&emsp;A "derivative work" is a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. A work consisting of editorial revisions, annotations, elaborations, or other modifications which, as a whole, represent anoriginal work of authorship, is a "derivative work".
 
 &emsp;A "device", "machine", or "process" is one now known or later developed.
 
@@ -82,11 +82,11 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;"Pictorial, graphic, and sculptural works" include two-dimensional and three-dimensional works of fine, graphic, and applied art, photographs, prints and art reproductions, maps, globes, charts, diagrams, models, and technical drawings, including architectural plans. Such works shall include works of artistic craftsmanship insofar as their form but not their mechanical or utilitarian aspects are concerned; the design of a useful article, as defined in this section, shall be considered a pictorial, graphic, or sculptural work only if, and only to the extent that, such design incorporates pictorial, graphic, or sculptural features that can be identified separately from, and are capable of existing independently of, the utilitarian aspects of the article.
 
-&emsp;For purposes of section 513, a "proprietor" is an individual, corporation, partnership, or other entity, as the case may be, that owns an establishment or a food service or drinking establishment, except that no owner or operator of a radio or television station licensed by the Federal Communications Commission, cable system or satellite carrier, cable or satellite carrier service or programmer, provider of online services or network access or the operator of facilities therefor, telecommunications company, or any other such audio or audiovisual service or programmer now known or as may be developed in the future, commercial subscription music service, or owner or operator of any other transmission service, shall under any circumstances be deemed to be a proprietor.
+&emsp;For purposes of section 513, a "proprietor" is an individual, corporation, partnership, or other entity, as the case may be, that owns an establishment or a food service or drinking establishment, except that no owner or operator of a radio or television station licensed by the Federal Communications Commission, cable system or satellite carrier, cable or satellite carrier service or programmer, provider of online services or network access or the operator of facilities therefor, telecommunications company, or any other such audio or audiovisual service or programmer now known or asmay be developed in the future, commercial subscription music service, or owner or operator of any other transmission service, shall under any circumstances be deemed to be a proprietor.
 
 &emsp;A "pseudonymous work" is a work on the copies or phonorecords of which the author is identified under a fictitious name.
 
-&emsp;"Publication" is the distribution of copies or phonorecords of a work to the public by sale or other transfer of ownership, or by rental, lease, or lending. The offering to distribute copies or phonorecords to a group of personsfor purposes of further distribution, public performance, or public display, constitutes publication. A public performance or display of a work does not of itself constitute publication.
+&emsp;"Publication" is the distribution of copies or phonorecords of a work to the public by sale or other transfer of ownership, or by rental, lease, or lending. The offering to distribute copies or phonorecords to a group of persons for purposes of further distribution, public performance, or public display, constitutes publication. A public performance or display of a work does not of itself constitute publication.
 
 &emsp;To perform or display a work "publicly" means—
 
@@ -142,7 +142,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 > &emsp;A work of visual art does not include—
 
-&emsp;&emsp;(A)(i) any poster, map, globe, chart, technical drawing, diagram, model, applied art, motion picture or other audiovisual work, book, magazine, newspaper, periodical, data base, electronic information service, electronic publication, or similar publication;
+&emsp;&emsp;(A)(i) any poster, map, globe, chart, technical drawing, diagram, model, applied art,motion picture or other audiovisual work, book, magazine, newspaper, periodical, data base, electronic information service, electronic publication, or similar publication;
 
 &emsp;&emsp;(ii) any merchandising item or advertising, promotional, descriptive, covering, or packaging material or container;
 
@@ -152,7 +152,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;&emsp;(C) any work not subject to copyright protection under this title.
 
-&emsp;A "work of the United States Government" is a work prepared by an officer or employee ofthe United States Government as part of that person's official duties.
+&emsp;A "work of the United States Government" is a work prepared by an officer or employee of the United States Government as part of that person's official duties.
 
 &emsp;A "work made for hire" is—
 
@@ -308,7 +308,7 @@ Pub. L. 105–298, title II, §207, Oct. 27, 1998, 112 Stat. 2834, provided that
 
 #### Effective Date of 1995 Amendment
 
-Pub. L. 104–39, §6, Nov. 1, 1995, 109 Stat. 349, provided that: "This Act \[see Short Title of 1995 Amendment note below\] and the amendments made by this Act shall take effect 3 months after the date of enactment of this Act \[Nov. 1, 1995\], except that the provisions of sections 114(e) and 114(f) of title 17, United States Code (as added by section 3 of this Act) shall take effect immediately upon the date of enactment of this Act."
+Pub. L. 104–39, §6, Nov. 1, 1995, 109 Stat. 349, provided that: "This Act \[see Short Title of 1995 Amendmentnote below\] and the amendments made by this Act shall take effect 3 months after the date of enactment of this Act \[Nov. 1, 1995\], except that the provisions of sections 114(e) and 114(f) of title 17, United States Code (as added by section 3 of this Act) shall take effect immediately upon the date of enactment of this Act."
 
 #### Effective Date of 1992 Amendment
 
@@ -342,6 +342,18 @@ Effective Date.—This Act and the amendments made by this Act \[enacting sectio
 
 Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose."
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–264, §1(a), Oct. 11, 2018, 132 Stat. 3676, provided that: "This Act \[enacting chapter 14 of this title, amending sections 114, 115, 301, 801, 803, and 804 of this title, section 58c of Title 19, Customs Duties, and section 137 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and sections 106, 114, and 115 of this title\] may be cited as the 'Orrin G. Hatch–Bob Goodlatte Music Modernization Act'."
+
+Pub. L. 115–264, title I, §101, Oct. 11, 2018, 132 Stat. 3676, provided that: "This title \[amending sections 114, 115, 801, 803, and 804 of this title and section 137 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 106, 114, and 115 of this title\] may be cited as the 'Musical Works Modernization Act'."
+
+Pub. L. 115–264, title II, §201, Oct. 11, 2018, 132 Stat. 3728, provided that: "This title \[enacting chapter 14 of this title and amending section 301 of this title\] may be cited as the 'Classics Protection and Access Act'."
+
+Pub. L. 115–264, title III, §301, Oct. 11, 2018, 132 Stat. 3737, provided that: "This title \[amending section 114 of this title and enacting provisions set out as a note under section 114 of this title\] may be cited as the 'Allocation for Music Producers Act' or the 'AMP Act'."
+
+Pub. L. 115–261, §1, Oct. 9, 2018, 132 Stat. 3667, provided that: "This Act \[enacting section 121A of this title and amending section 121 of this title\] may be cited as the 'Marrakesh Treaty Implementation Act'."
+
 #### Short Title of 2010 Amendment
 
 Pub. L. 111–295, §1, Dec. 9, 2010, 124 Stat. 3180, provided that: "This Act \[amending this section and sections 114, 115, 119, 205, 303, 409, 503, 504, 512, 602, 704, 803, 1203, and 1204 of this title and section 2318 of Title 18, Crimes and Criminal Procedure, and repealing section 601 of this title\] may be cited as the 'Copyright Cleanup, Clarification, and Corrections Act of 2010'."
@@ -366,7 +378,7 @@ Pub. L. 109–303, §1, Oct. 6, 2006, 120 Stat. 1478, provided that: "This Act \
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–9, §1, Apr. 27, 2005, 119 Stat. 218, provided that: "This Act \[enacting section 2319B of Title 18, Crimes and Criminal Procedure, amending this section and sections 108, 110, 408, 411, 412, and 506 of this title, sections 179m, 179n, 179p, 179q, and 179w of Title 2, The Congress, section 1114 of Title 15, Commerce and Trade, section 2319 of Title 18, and sections 151703, 151705, 151706, and 151711 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, enacting provisions set out as notes under this section, section 179l of Title 2, and section 101 of Title 36, and provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Family Entertainment and Copyright Act of 2005'."
+Pub. L. 109–9, §1, Apr. 27, 2005, 119 Stat. 218, provided that: "This Act \[enacting section 2319B of Title 18, Crimes and Criminal Procedure, amending this section and sections 108, 110, 408, 411, 412, and 506 of this title, sections 179m, 179n, 179p, 179q, and 179w of Title 2, The Congress, section 1114 of Title 15, Commerce and Trade, section 2319 of Title 18, and sections 151703, 151705,151706, and 151711 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, enacting provisions set out as notes under this section, section 179l of Title 2, and section 101 of Title 36, and provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Family Entertainment and Copyright Act of 2005'."
 
 Pub. L. 109–9, title I, §101, Apr. 27, 2005, 119 Stat. 218, provided that: "This title \[enacting section 2319B of Title 18, Crimes and Criminal Procedure, amending this section, sections 408, 411, 412, and 506 of this title, and section 2319 of Title 18, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Artists' Rights and Theft Prevention Act of 2005' or the 'ART Act'."
 
@@ -422,7 +434,7 @@ Pub. L. 103–369, §1, Oct. 18, 1994, 108 Stat. 3477, provided that: "This Act 
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–198, §1, Dec. 17, 1993, 107 Stat. 2304, provided that: "This Act \[amending sections 111, 116, 118, 119, 801 to 803, 1004 to 1007, and 1010 of this title and section 1288 of Title 8, Aliens and Nationality, renumbering sections 116A and 804 of this title as sections 116 and 803, respectively, of this title, repealing sections 116, 803, and 805 to 810 of this title, and enacting provisions set out as notes under section 801 of this title and section 1288 of Title 8\] may be cited as the 'Copyright Royalty Tribunal Reform Act of 1993'."
+Pub. L. 103–198, §1, Dec. 17, 1993, 107 Stat. 2304, provided that: "This Act \[amending sections 111, 116, 118, 119, 801 to 803, 1004 to 1007, and 1010 of this title and section 1288 of Title 8, Aliens and Nationality, renumbering sections 116A and 804 of this title as sections 116 and803, respectively, of this title, repealing sections 116, 803, and 805 to 810 of this title, and enacting provisions set out as notes under section 801 of this title and section 1288 of Title 8\] may be cited as the 'Copyright Royalty Tribunal Reform Act of 1993'."
 
 #### Short Title of 1992 Amendment
 

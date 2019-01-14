@@ -304,10 +304,6 @@ If a proceeding under subsection (h)(1) of this section results in the suspensio
 
 (June 6, 1934, ch. 404, title I, §19, 48 Stat. 898; Pub. L. 87–196, Sept. 5, 1961, 75 Stat. 465; Pub. L. 87–561, July 27, 1962, 76 Stat. 247; Pub. L. 90–438, July 29, 1968, 82 Stat. 453; Pub. L. 91–94, Oct. 20, 1969, 83 Stat. 141; Pub. L. 91–410, Sept. 25, 1970, 84 Stat. 862; Pub. L. 94–29, §16, June 4, 1975, 89 Stat. 146; Pub. L. 103–202, title I, §106(c), Dec. 17, 1993, 107 Stat. 2350; Pub. L. 105–353, title III, §301(b)(11), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) \[title II, §202(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–418, 2763A–421; Pub. L. 111–203, title VII, §717(c), title IX, §§916, 929F(e), July 21, 2010, 124 Stat. 1652, 1833, 1854.)
 
-#### Amendment of Section
-
-<i>Unless otherwise provided, amendment by subtitle A (§§711–754) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1), (b)(2)(C)(i), (3)(C), (7)(C), (8), (c), (d)(1), (e)(1)(A), (2), (f), (g), and (h), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -334,7 +330,7 @@ Subsec. (b)(10). Pub. L. 111–203, §916(b)(1), added par. (10) relating to rul
 
 Pub. L. 111–203, §717(c), added par. (10) relating to stay pending determination whether product is a security pursuant to section 8306 of this title.
 
-Subsec. (h)(4). Pub. L. 111–203, §929F(e), in introductory provisions, substituted "any person who is, or atthe time of the alleged misconduct was, an officer or director" for "any officer or director" and "such person" for "such officer or director".
+Subsec. (h)(4). Pub. L. 111–203, §929F(e), in introductory provisions, substituted "any person who is, or at the time of the alleged misconduct was, an officer or director" for "any officer or director" and "such person" for "such officer or director".
 
 <b>2000</b>—Subsec. (b)(7). Pub. L. 106–554, §1(a)(5) \[title II, §202(b)(1)\], added par. (7).
 

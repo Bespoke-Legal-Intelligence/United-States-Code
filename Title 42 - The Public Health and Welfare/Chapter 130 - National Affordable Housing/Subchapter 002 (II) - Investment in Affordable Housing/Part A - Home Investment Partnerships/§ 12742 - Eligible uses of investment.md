@@ -36,7 +36,7 @@
 
 #### (D) Use of section 1437f assistance
 
-&emsp;&emsp;In any case where assistance under section 1437f of this title becomes available to a participating jurisdiction, recipients of rental assistance under this subchapter shall qualify for tenant selection preferences to the same extent as when they received the rental assistance under this subchapter. A rentalassistance program under this subchapter shall meet minimum criteria prescribed by the Secretary, such as housing quality standards and standards regarding the reasonableness of the rent.
+&emsp;&emsp;In any case where assistance under section 1437f of this title becomes available to a participating jurisdiction, recipients of rental assistance under this subchapter shall qualify for tenant selection preferences to the same extent as when they received the rental assistance under this subchapter. A rental assistance program under this subchapter shall meet minimum criteria prescribed by the Secretary, such as housing quality standards and standards regarding the reasonableness of the rent.
 
 #### (E) Security deposit assistance
 
@@ -54,7 +54,7 @@ Participating jurisdictions shall have discretion to invest funds made available
 
 #### (c) Administrative costs
 
-In each fiscal year, each participating jurisdiction may use not more than 10 percent of the funds made available under this part to the jurisdiction for such year for any administrative and planning costs of the jurisdiction in carrying out this part, including the costs of the salaries of persons engaged in administering and managing activities assisted with funds made available under this part.
+In each fiscal year, each participating jurisdiction may use not more than 10 percent of the funds made available under this part to the jurisdiction for such year for any administrativeand planning costs of the jurisdiction in carrying out this part, including the costs of the salaries of persons engaged in administering and managing activities assisted with funds made available under this part.
 
 #### (d) Prohibited uses
 
@@ -106,7 +106,7 @@ A participating jurisdiction may not use more than 5 percent of its allocation u
 
 #### References in Text
 
-Section 1437d(c)(4)(A) of this title, referred to in subsec. (a)(3)(A)(ii), was in the original "section 6(c)(4)(A)of the Housing Act of 1937", and was translated as reading "section 6(c)(4)(A) of the United States Housing Act of 1937", act Sept. 1, 1937, ch. 896, to reflect the probable intent of Congress.
+Section 1437d(c)(4)(A) of this title, referred to in subsec. (a)(3)(A)(ii), was in the original "section 6(c)(4)(A) of the Housing Act of 1937", and was translated as reading "section 6(c)(4)(A) of the United States Housing Act of 1937", act Sept. 1, 1937, ch. 896, to reflect the probable intent of Congress.
 
 Section 1437g(d)(1) of this title, referred to in subsec. (d)(5), was in the original "section 9(d)(1) of the Housing Act of 1937", and was translated as reading "section 9(d)(1) of the United States Housing Act of 1937", act Sept. 1, 1937, ch. 896, to reflect the probable intent of Congress.
 
@@ -122,7 +122,7 @@ Pub. L. 102–550, §205, inserted at end "For the purpose of this part, the ter
 
 Subsec. (a)(2). Pub. L. 102–550, §203(a)(1), struck out "under paragraph (3) of this subsection or" after "authorized" in concluding provisions.
 
-Subsec. (a)(3). Pub. L. 102–550, §204(b), added cl. (ii) of par. (3)(A) and struck out former cl. (ii) which read as follows: "the tenant-based rental assistance is provided to persons from the waiting lists eligible for section 8 assistance in accordance with the applicable preferences."
+Subsec. (a)(3). Pub. L. 102–550, §204(b), added cl. (ii) of par. (3)(A) and struck out former cl. (ii) which read asfollows: "the tenant-based rental assistance is provided to persons from the waiting lists eligible for section 8 assistance in accordance with the applicable preferences."
 
 Pub. L. 102–550, §204(a), added subpar. (E).
 

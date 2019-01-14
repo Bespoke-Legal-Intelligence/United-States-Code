@@ -44,13 +44,13 @@ Commencement and Duration of Payment.—(1) Payment of transitional compensation
 
 &emsp;&emsp;(i) as of the date the court-martial sentence is adjudged if the sentence, as adjudged, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; or
 
-&emsp;&emsp;(ii) if there is a pretrial agreement that provides for disapproval or suspension of the dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances, as of the date of the approval of the court-martial sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes an unsuspended dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and
+&emsp;&emsp;(ii) if there is a pretrial agreement that provides for disapproval or suspension of the dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances, as of the date of entry of judgment under section 860c of this title (article 60c of the Uniform Code of Military Justice) if the sentence includes an unsuspended dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and
 
 &emsp;(B) in the case of a member being considered under applicable regulations for administrative separation from active duty in accordance with such regulations (if the basis for the separation includes a dependent-abuse offense), shall commence as of the date on which the separation action is initiated by a commander of the member pursuant to such regulations, as determined by the Secretary concerned.
 
-(2) Transitional compensation with respect to a member shall be paid for a period of not lessthan 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned.
+(2) Transitional compensation with respect to a member shall be paid for a period of not less than 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned.
 
-(3)(A) If a member is sentenced by a court-martial to receive punishment that includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances as a result of a conviction by a court-martial for a dependent-abuse offense and each such conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated to a lesser punishment that does not include any such punishment, any payment of transitional compensation that has commenced under this section on the basis of such sentence in that case shall cease.
+(3)(A) If a member is sentenced by a court-martial to receive punishment that includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances as a result of a conviction for a dependent-abuse offense and the conviction is disapproved or is otherwise not part of the judgment under section 860c of this title (article 60c of the Uniform Code of Military Justice) or the punishment is disapproved or is otherwise not part of the judgment under such section (article), any payment of transitional compensation that has commenced under this section on the basis of such sentence in that case shall cease.
 
 (B) If administrative separation of a member from active duty is proposed on a basis that includes a dependent-abuse offense and the proposed administrative separation is disapproved by competent authority under applicable regulations, payment of transitional compensation in such case shall cease.
 
@@ -94,7 +94,7 @@ Commissary and Exchange Benefits.—(1) A dependent or former dependent entitled
 
 (k)
 
-Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry outthis section with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
+Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 (2) Regulations prescribed under paragraph (1) shall include the criminal offenses, or categories of offenses, under the Uniform Code of Military Justice (chapter 47 of this title), Federal criminal law, the criminal laws of the States and other jurisdictions of the United States, and the laws of other nations that are to be considered to be dependent-abuse offenses for the purposes of this section.
 
@@ -116,17 +116,7 @@ Exceptional Eligibility for Dependents of Former Members.—(1) The Secretary co
 
 (3) The authority of the Secretary concerned under paragraph (1) may not be delegated.
 
-(Added Pub. L. 103–160, div. A, title V, §554(a)(1), Nov. 30, 1993, 107 Stat. 1663, §1058; renumbered §1059 and amended Pub. L. 103–337, div. A, title V, §535(a)–(c)(1), title X, §1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, §636(a), (b), title XV, §1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511; Pub. L. 105–261, div. A, title V, §570(a), (b), Oct. 17, 1998, 112 Stat. 2032; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §§572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, 117 Stat. 1484–1486; Pub. L. 112–239, div. A, title V, §564(a), Jan. 2, 2013, 126 Stat. 1748; Pub. L. 113–291, div. A, title VI, §621, Dec. 19, 2014, 128 Stat. 3401; Pub. L. 115–91, div. A, title V, §531(l), Dec. 12, 2017, 131 Stat. 1386.)
-
-#### Amendment of Subsection (e)
-
-<i>Pub. L. 115–91, div. A, title V, §531(l), (p), Dec. 12, 2017, 131 Stat. 1386, 1388, provided that, effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), subsection (e) of this section is amended—</i>
-
-<i>(1) in paragraph (1)(A)(ii), by striking "the approval of" and all that follows through "as approved," and inserting "entry of judgment under section 860c of this title (article 60c of the Uniform Code of Military Justice) if the sentence"; and</i>
-
-<i>(2) in paragraph (3)(A), by striking "by a court-martial" the second place it appears and all that follows through "include any such punishment," and inserting "for a dependent-abuse offense and the conviction is disapproved or is otherwise not part of the judgment under section 860c of this title (article 60c of the Uniform Code of Military Justice) or the punishment is disapproved or is otherwise not part of the judgment under such section (article),".</i>
-
-<i>See 2017 Amendment notes below.</i>
+(Added Pub. L. 103–160, div. A, title V, §554(a)(1), Nov. 30, 1993, 107 Stat. 1663, §1058; renumbered §1059 and amended Pub. L. 103–337, div. A, title V, §535(a)–(c)(1), title X, §1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, §636(a), (b), title XV, §1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511; Pub. L. 105–261, div. A,title V, §570(a), (b), Oct. 17, 1998, 112 Stat. 2032; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §§572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, 117 Stat. 1484–1486; Pub. L. 112–239, div. A, title V, §564(a), Jan. 2, 2013, 126 Stat. 1748; Pub. L. 113–291, div. A, title VI, §621, Dec. 19, 2014, 128 Stat. 3401; Pub. L. 115–91, div. A, title V, §531(l), Dec. 12, 2017, 131 Stat. 1386.)
 
 #### Amendments
 
@@ -210,7 +200,7 @@ Pub. L. 112–239, div. A, title V, §564(b), Jan. 2, 2013, 126 Stat. 1749, prov
 
 Pub. L. 108–136, div. A, title V, §572(d), Nov. 24, 2003, 117 Stat. 1485, provided that: "The amendments made by this section \[amending this section\] shall apply only with respect to cases in which a court-martial sentence is adjudged on or after the date of the enactment of this Act \[Nov. 24, 2003\]."
 
-Pub. L. 108–136, div. A, title V, §573(b), Nov. 24, 2003, 117 Stat. 1485, provided that: "The authority under subsection (m) of section 1059 of title 10, United States Code, as added by subsection (a), may be exercised withrespect to eligibility for benefits under that section only for dependents and former dependents of individuals who are separated from active duty in the Armed Forces on or after the date of the enactment of this Act \[Nov. 24, 2003\]."
+Pub. L. 108–136, div. A, title V, §573(b), Nov. 24, 2003, 117 Stat. 1485, provided that: "The authority under subsection (m) of section 1059 of title 10, United States Code, as added by subsection (a), may be exercised with respect to eligibility for benefits under that section only for dependents and former dependents of individuals who are separated from active duty in the Armed Forces on or after the date of the enactment of this Act \[Nov. 24, 2003\]."
 
 #### Effective Date of 2002 Amendment
 

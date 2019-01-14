@@ -44,7 +44,7 @@ Annual Report on New Programs Under AACMS.— <sup>1</sup>
 
 &emsp;(1)
 
-In general.—Not later than February 1 each year, the Secretary shall submit to the congressional defense committees a report that, with respect to each new program being managed under alternative compensatory control measures in the Department, provides—
+In general.—Not later than February 1 each year, the Secretary shall submit to the congressional defense committees a report that, with respect to each new program beingmanaged under alternative compensatory control measures in the Department, provides—
 
 &emsp;&emsp;(A) notice of the designation of the program as a program being managed under alternative compensatory control measures in the Department; and
 

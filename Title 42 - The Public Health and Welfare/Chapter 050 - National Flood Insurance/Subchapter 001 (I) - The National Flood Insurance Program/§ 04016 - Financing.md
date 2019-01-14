@@ -2,7 +2,7 @@
 
 #### (a) Authority to issue notes and other obligations
 
-All authority which was vested in the Housing and Home Finance Administrator by virtue of section 2414(e) of this title (pertaining to the issue of notes or other obligations to the Secretary of the Treasury), as amended by subsections (a) and (b) of section 1303 of this Act, shall be available to the Administrator for the purpose of carrying out the flood insurance program under this chapter; except that the total amount of notes and obligations which may be issued by the Administrator pursuant to such authority (1) without the approval of the President, may not exceed $500,000,000, and (2) with the approval of the President, may not exceed $1,500,000,000 through the date specified in section 4026 of this title, and $1,000,000,000 thereafter; except that, through September 30, 2017, clause (2) of this sentence shall be applied by substituting "$30,425,000,000" for "$1,500,000,000". The Administrator shall report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate at any time when he requests the approval of the President in accordance with the preceding sentence.
+All authority which was vested in the Housing and Home Finance Administrator by virtue of section 2414(e) of this title (pertaining to the issue of notes or other obligations to the Secretary of the Treasury), as amended by subsections (a) and (b) of section 1303 of this Act, shall be available to the Administrator for the purpose of carrying out the flood insurance program under this chapter; except that the total amount of notes and obligations which may be issued by the Administrator pursuant to such authority (1) without the approval of the President, may not exceed $500,000,000, and (2) with the approval of the President, may not exceed $1,500,000,000 through the date specified in section 4026 of this title, and $1,000,000,000 thereafter; except that, through May 31, 2019, clause (2) of this sentence shall be applied by substituting "$30,425,000,000" for "$1,500,000,000". The Administrator shall report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate at any time when he requests the approval of the President in accordance with the preceding sentence.
 
 #### (b) Deposit of borrowed funds
 
@@ -28,7 +28,7 @@ In connection with any funds borrowed by the Administrator under the authority e
 
 &emsp;(3) the Committee on Financial Services of the House of Representatives.
 
-(Pub. L. 90–448, title XIII, §1309, Aug. 1, 1968, 82 Stat. 577; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 93–234, title I, §104, Dec. 31, 1973, 87 Stat. 979; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 98–479, title II, §204(g), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 104–208, div. A, title V, Sept. 30, 1996, 110 Stat. 3009–521; Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1377; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2502; Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1088; Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–47; Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 689; Pub. L. 108–3, §2(a)(1), Jan. 13, 2003, 117 Stat. 7; Pub. L. 108–171, §2(a)(2), Dec. 6, 2003, 117 Stat. 2064; Pub. L. 108–199, div. H, §136(a)(2), Jan. 23, 2004, 118 Stat. 442; Pub. L. 108–264, title I, §101(a), June 30, 2004, 118 Stat. 714; Pub. L. 109–65, §2, Sept. 20, 2005, 119 Stat. 1998; Pub. L. 109–106, §2, Nov. 21, 2005, 119 Stat. 2288; Pub. L. 109–208, §2, Mar. 23, 2006, 120 Stat. 317; Pub. L. 111–196, §2(b), July 2, 2010, 124 Stat. 1352; Pub. L. 111–250, §2(b), Sept. 30, 2010, 124 Stat. 2630; Pub. L. 112–74, div. D, title V, §573, Dec. 23, 2011, 125 Stat. 985; Pub. L. 112–123, §1(b), May 31, 2012, 126 Stat. 365; Pub. L. 112–141, div. F, title II, §§100203(a), 100213(a), 100238(b)(1), July 6, 2012, 126 Stat. 916, 923, 958; Pub. L. 113–1, §1(a), Jan. 6, 2013, 127 Stat. 3.)
+(Pub. L. 90–448, title XIII, §1309, Aug. 1, 1968, 82 Stat. 577; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 93–234, title I, §104, Dec. 31, 1973, 87 Stat. 979; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 98–479, title II, §204(g), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 104–208, div. A, title V, Sept. 30, 1996, 110 Stat. 3009–521; Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1377; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2502; Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1088; Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–47; Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 689; Pub. L. 108–3, §2(a)(1), Jan. 13, 2003, 117 Stat. 7; Pub. L. 108–171, §2(a)(2), Dec. 6, 2003, 117 Stat. 2064; Pub. L. 108–199, div. H, §136(a)(2), Jan. 23, 2004, 118 Stat. 442; Pub. L. 108–264, title I, §101(a), June 30, 2004, 118 Stat. 714; Pub. L. 109–65, §2, Sept. 20, 2005, 119 Stat. 1998; Pub. L. 109–106, §2, Nov. 21, 2005, 119 Stat. 2288; Pub. L. 109–208, §2, Mar. 23, 2006, 120 Stat. 317; Pub. L. 111–196, §2(b), July 2, 2010, 124 Stat. 1352; Pub. L. 111–250, §2(b), Sept. 30, 2010, 124 Stat. 2630; Pub. L. 112–74, div. D, title V, §573, Dec. 23, 2011, 125 Stat. 985; Pub. L. 112–123, §1(b), May 31, 2012, 126 Stat. 365; Pub. L. 112–141, div. F, title II, §§100203(a), 100213(a), 100238(b)(1), July 6, 2012, 126 Stat. 916, 923, 958; Pub. L. 113–1, §1(a), Jan. 6, 2013, 127 Stat. 3; Pub. L. 115–225, §2(a), July 31, 2018, 132 Stat. 1624; Pub. L. 115–281, §2(a), Dec. 1, 2018, 132 Stat. 4191; Pub. L. 115–396, §2(a), Dec. 21, 2018, 132 Stat. 5296.)
 
 #### References in Text
 
@@ -37,6 +37,12 @@ Section 1303 of this Act, referred to in subsec. (a), means section 1303 of Pub.
 This chapter, referred to in subsec. (a), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–396 substituted "May 31, 2019" for "December 7, 2018".
+
+Pub. L. 115–281 substituted "December 7, 2018" for "November 30, 2018".
+
+Pub. L. 115–225 substituted "November 30, 2018" for "September 30, 2017".
 
 <b>2013</b>—Subsec. (a). Pub. L. 113–1 substituted "$30,425,000,000" for "$20,725,000,000".
 
@@ -50,7 +56,7 @@ Subsec. (b). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for 
 
 Subsecs. (c), (d). Pub. L. 112–141, §100213(a), added subsecs. (c) and (d).
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–74 substituted "the earlier of the date of the enactment into law of an Actthat specifically amends the date specified in this section or May 31, 2012" for "September 30, 2011".
+<b>2011</b>—Subsec. (a). Pub. L. 112–74 substituted "the earlier of the date of the enactment into law of an Act that specifically amends the date specified in this section or May 31, 2012" for "September 30, 2011".
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–250 substituted "September 30, 2011" for "September 30, 2010".
 
@@ -94,6 +100,10 @@ Reference to the Director of the Federal Emergency Management Agency in any law,
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–396, §2(c), Dec. 21, 2018, 132 Stat. 5296, provided that: "If this Act is enacted after December 7, 2018 \[Pub. L. 115–396 enacted on Dec. 21, 2018\], the amendments made by subsections (a) and (b) \[amending this section and section 4026 of this title\] shall take effect as if enacted on December 7, 2018."
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–196, §2(c), July 2, 2010, 124 Stat. 1352, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 4026 of this title\] shall be considered to have taken effect on May 31, 2010."
@@ -120,9 +130,9 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Functions vested in Secretary of Housing and Urban Development pursuant to this chapter transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §202, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out as a note under section 2201 of Title 15, Commerce and Trade, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, Mar. 31, 1979, 44 F.R. 19367, set out as a note under section 2201 of Title 15.
 
-Functions of Housing and Home Finance Agency and head thereof transferred to Secretary of Housing and Urban Development by Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669, which is classified to section 3534(a) of this title. Section 9(c) of such act, set out as a noteunder section 3531 of this title, provides that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency has lapsed.
+Functions of Housing and Home Finance Agency and head thereof transferred to Secretary of Housing and Urban Development by Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669, which is classified to section 3534(a) of this title. Section 9(c) of such act, set out as a note under section 3531 of this title, provides that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency has lapsed.
 
 #### Extension of Limitation on Financing Provisions
 
-Subsec. (a) of this section to be applied by substituting "September 30, 2009" for "September 30, 2008", see section 145 of Pub. L. 110–329, set out as a note under section 4026 of this title.
+Prior to amendment by Pub. L. 115–225, subsec. (a) of this section was to be applied by substituting "July 31, 2018" for "September 30, 2017", see section 301 of Pub. L. 115–141, set out as a note under section 4026 of this title.
 

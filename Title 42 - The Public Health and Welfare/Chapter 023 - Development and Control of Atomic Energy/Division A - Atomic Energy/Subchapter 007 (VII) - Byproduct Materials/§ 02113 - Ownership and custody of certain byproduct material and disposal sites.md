@@ -32,7 +32,7 @@ Any license issued or renewed after the effective date of this section under sec
 
 (6) The transfer of title to land or byproduct materials, as defined in section 2014(e)(2) of this title, to a State or the United States pursuant to this subsection shall not relieve any licensee of liability for any fraudulent or negligent acts done prior to such transfer.
 
-(7) Material and land transferred to the United States or a State in accordance with this subsection shall be transferred without cost to the United States or a State (other than administrative and legal costs incurred in carrying out such transfer). Subject to the provisions of paragraph (1)(B) of this subsection, the United States or a State shall not transfer title to material or property acquired under this subsection to any person, unless such transfer is in thesame manner as provided under section 7914(h) of this title.
+(7) Material and land transferred to the United States or a State in accordance with this subsection shall be transferred without cost to the United States or a State (other than administrative and legal costs incurred in carrying out such transfer). Subject to the provisions of paragraph (1)(B) of this subsection, the United States or a State shall not transfer title to material or property acquired under this subsection to any person, unless such transfer is in the same manner as provided under section 7914(h) of this title.
 
 (8) The provisions of this subsection respecting transfer of title and custody to land shall not apply in the case of lands held in trust by the United States for any Indian tribe or lands owned by such Indian tribe subject to a restriction against alienation imposed by the United States. In the case of such lands which are used for the disposal of byproduct material, as defined in section 2014(e)(2) of this title, the licensee shall be required to enter into such arrangements with the Commission as may be appropriate to assure the long-term maintenance and monitoring of such lands by the United States.
 
@@ -58,7 +58,7 @@ Pub. L. 95–604, title II, §202(b), Nov. 8, 1978, 92 Stat. 3036, provided that
 
 #### Consolidation of Licenses and Procedures
 
-Pub. L. 95–604, title II, §209, Nov. 8, 1978, 92 Stat. 3041, provided that: "The Nuclear Regulatory Commission shall consolidate, to the maximum extent practicable, licenses and licensing procedures under amendments made by this title \[see Effective Date of 1978 Amendment note set out under section 2014 of this title\] with licenses and licensing procedures under other authorities contained in the Atomic Energy Act of 1954 \[this chapter\]."
+Pub. L. 95–604, title II, §209, Nov. 8, 1978, 92 Stat. 3041, provided that: "The Nuclear Regulatory Commissionshall consolidate, to the maximum extent practicable, licenses and licensing procedures under amendments made by this title \[see Effective Date of 1978 Amendment note set out under section 2014 of this title\] with licenses and licensing procedures under other authorities contained in the Atomic Energy Act of 1954 \[this chapter\]."
 
 \[Provision effective Nov. 8, 1978, see section 208 of Pub. L. 95–604, set out as an Effective Date of 1978 Amendment note under section 2014 of this title\].
 

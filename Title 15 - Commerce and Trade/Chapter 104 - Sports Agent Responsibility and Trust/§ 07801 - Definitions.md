@@ -20,7 +20,7 @@ As used in this chapter, the following definitions apply:
 
 #### (5) Endorsement contract
 
-&emsp;The term "endorsement contract" means an agreement under which a student athlete is employed or receives consideration for the use by the other party of that individual's person, name, image, or likeness in the promotion of any product, service, or event.
+&emsp;The term "endorsement contract" means an agreement under which a student athlete isemployed or receives consideration for the use by the other party of that individual's person, name, image, or likeness in the promotion of any product, service, or event.
 
 #### (6) Intercollegiate sport
 
@@ -36,7 +36,7 @@ As used in this chapter, the following definitions apply:
 
 #### (9) Student athlete
 
-&emsp;The term "student athlete" means an individual who engages in, is eligible to engage in, or may be eligible in the future to engage in, any intercollegiate sport. An individual who ispermanently ineligible to participate in a particular intercollegiate sport is not a student athlete for purposes of that sport.
+&emsp;The term "student athlete" means an individual who engages in, is eligible to engage in, or may be eligible in the future to engage in, any intercollegiate sport. An individual who is permanently ineligible to participate in a particular intercollegiate sport is not a student athlete for purposes of that sport.
 
 (Pub. L. 108–304, §2, Sept. 24, 2004, 118 Stat. 1125.)
 

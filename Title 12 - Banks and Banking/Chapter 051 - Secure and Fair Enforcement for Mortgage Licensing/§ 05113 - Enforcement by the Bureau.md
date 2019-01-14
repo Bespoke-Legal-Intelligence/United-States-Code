@@ -58,7 +58,7 @@ The Director may—
 
 &emsp;&emsp;&emsp;(ii) 10 days after the Director renders a decision on an application and hearing under paragraph (1), with respect to any temporary cease and desist order entered without a prior hearing before the Director,
 
-> &emsp;&emsp;the respondent may apply to the United States district court for the district in which the respondent resides or has its principal place of business, or for the District of Columbia, for an order setting aside, limiting, or suspending the effectiveness or enforcement of the order, and the court shall have jurisdiction to enter such an order. A respondent served with a temporary cease and desist order entered without a prior hearing before the Director may not apply to the court except after hearing and decisionby the Director on the respondent's application under subparagraph (A).
+> &emsp;&emsp;the respondent may apply to the United States district court for the district in which the respondent resides or has its principal place of business, or for the District of Columbia, for an order setting aside, limiting, or suspending the effectiveness or enforcement of the order, and the court shall have jurisdiction to enter such an order. A respondent served with a temporary cease and desist order entered without a prior hearing before the Director may not apply to the court except after hearing and decision by the Director on the respondent's application under subparagraph (A).
 
 #### (C) No automatic stay of temporary order
 

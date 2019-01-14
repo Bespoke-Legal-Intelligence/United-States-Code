@@ -26,7 +26,7 @@ Pub. L. 93–153, title IV, §411, Nov. 16, 1973, 87 Stat. 594, provided that: "
 
 #### Presidential Task Force
 
-Pub. L. 101–380, title VIII, §8103, Aug. 18, 1990, 104 Stat. 567, established a Presidential Task Force on theTrans-Alaska Pipeline System, to conduct an audit of the Trans-Alaska Pipeline System and make recommendations to the President, Congress, and the Governor of Alaska, authorized appropriations for the Task Force, and required it to transmit its final report to the President, Congress, and the Governor no later than 2 years after the date on which funding was made available.
+Pub. L. 101–380, title VIII, §8103, Aug. 18, 1990, 104 Stat. 567, established a Presidential Task Force on the Trans-Alaska Pipeline System, to conduct an audit of the Trans-Alaska Pipeline System and make recommendations to the President, Congress, and the Governor of Alaska, authorized appropriations for the Task Force, and required it to transmit its final report to the President, Congress, and the Governor no later than 2 years after the date on which funding was made available.
 
 #### North Slope Crude Oil; Report on Equitable Allocation
 
@@ -38,7 +38,7 @@ Pub. L. 93–153, title III, Nov. 16, 1973, 87 Stat. 588, authorized the Preside
 
 #### Exclusion of Persons From Trans-Alaska Pipeline Activities on Basis of Race, Creed, Color, National Origin, or Sex Prohibited
 
-Pub. L. 93–153, title IV, §403, Nov. 16, 1973, 87 Stat. 590, provided that: "The Secretary of the Interior shall take such affirmative action as he deems necessary to assure that no person shall, on the grounds of race, creed, color, national origin, or sex, be excluded from receiving, or participating in any activity conducted under, any permit, right-of-way, public land order, or other Federal authorization granted or issued under title II \[this chapter\]. The Secretary of the Interior shall promulgate such rules as he deems necessary to carry out the purposes of this subsection and may enforce this subsection, and any rules promulgated under this subsection, through agency and department provisions and rules which shall be similar to those established and in effect under title VI of the Civil Rights Act of 1964 \[section 2000d et seq. of Title 42, The Public Health and Welfare\]."
+Pub. L. 93–153, title IV, §403, Nov. 16, 1973, 87 Stat. 590, provided that: "The Secretary of the Interior shall take such affirmative action as he deems necessary to assurethat no person shall, on the grounds of race, creed, color, national origin, or sex, be excluded from receiving, or participating in any activity conducted under, any permit, right-of-way, public land order, or other Federal authorization granted or issued under title II \[this chapter\]. The Secretary of the Interior shall promulgate such rules as he deems necessary to carry out the purposes of this subsection and may enforce this subsection, and any rules promulgated under this subsection, through agency and department provisions and rules which shall be similar to those established and in effect under title VI of the Civil Rights Act of 1964 \[section 2000d et seq. of Title 42, The Public Health and Welfare\]."
 
 #### Equitable Allocation of North Slope Crude Oil
 

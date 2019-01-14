@@ -18,7 +18,7 @@ Personnel detailed under subsections (b) and (c) shall be paid from applicable a
 
 #### (e) Commissioned Corps officers; urgent or emergency public health care needs
 
-Except with respect to the United States Coast Guard and the Department of Defense, andexcept as provided in agreements negotiated with officials at agencies where officers of the Commissioned Corps may be assigned, the Secretary shall have the sole authority to deploy any Commissioned Corps officer assigned under this section to an entity outside of the Department of Health and Human Services for service under the Secretary's direction in response to an urgent or emergency public health care need (as defined in section 204a(a)(5) of this title).
+Except with respect to the United States Coast Guard and the Department of Defense, and except as provided in agreements negotiated with officials at agencies where officers of the Commissioned Corps may be assigned, the Secretary shall have the sole authority to deploy any Commissioned Corps officer assigned under this section to an entity outside of the Department of Health and Human Services for service under the Secretary's direction in response to an urgent or emergency public health care need (as defined in section 204a(a)(5) of this title).
 
 (July 1, 1944, ch. 373, title II, §214, 58 Stat. 690; July 3, 1946, ch. 538, §6, 60 Stat. 423; Oct. 12, 1949, ch. 681, title V, §521(e), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–76, title III, §309, Sept. 29, 1979, 93 Stat. 585; Pub. L. 109–417, title II, §206(c)(1), Dec. 19, 2006, 120 Stat. 2853.)
 
@@ -68,7 +68,7 @@ Pub. L. 91–604, §15(b)(1)–(8)(A), Dec. 31, 1970, 84 Stat. 1710–1712, as a
 
 &emsp;"(iv) an amount equal to 7 per centum of the sum of the amounts determined under clauses (i) through (iii), inclusive.
 
-"(B) A transferring officer shall in no event receive, pursuant to subparagraph (A), a pay rate in excess of the maximum rate applicable under the General Schedule to the class of position, as established under chapter 51 of title 5, United States Code, to which such officer is transferred pursuant to paragraphs (1) and (2).
+"(B) A transferring officer shall in no event receive, pursuant to subparagraph (A), a pay rate in excess ofthe maximum rate applicable under the General Schedule to the class of position, as established under chapter 51 of title 5, United States Code, to which such officer is transferred pursuant to paragraphs (1) and (2).
 
 "(4)(A) A transferring officer shall be credited, on the day of his transfer pursuant to his election under paragraphs (1) and (2), with one hour of sick leave for each week of active service, as defined by section 211(d) of the Public Health Service Act \[42 U.S.C. 212(d)\].
 

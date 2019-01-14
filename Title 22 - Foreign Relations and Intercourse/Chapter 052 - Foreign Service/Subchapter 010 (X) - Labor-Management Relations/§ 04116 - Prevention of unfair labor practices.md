@@ -20,7 +20,7 @@ The labor organization or Department involved shall have the right to file an an
 
 #### (d) Time of filing of charges
 
-(1) Except as provided in paragraph (2), no complaint shall be issued based on any alleged unfair labor practice which occurred more than6 months before the filing of the charge with the Board.
+(1) Except as provided in paragraph (2), no complaint shall be issued based on any alleged unfair labor practice which occurred more than 6 months before the filing of the charge with the Board.
 
 (2) If the General Counsel determines that the person filing any charge was prevented from filing the charge during the 6-month period referred to in paragraph (1) by reason of—
 

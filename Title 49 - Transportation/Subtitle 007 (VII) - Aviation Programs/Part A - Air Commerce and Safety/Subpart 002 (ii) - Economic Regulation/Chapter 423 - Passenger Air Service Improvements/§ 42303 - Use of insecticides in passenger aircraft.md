@@ -6,9 +6,17 @@ Information To Be Provided on the Internet.—The Secretary of Transportation sh
 
 (b)
 
-Required Disclosures.—An air carrier, foreign air carrier, or ticket agent selling, in the United States, a ticket for a flight in foreign air transportation to a country listed on the Internet Web site established under subsection (a) shall refer the purchaser of the ticket to the Internet Web site established under subsection (a) for additional information.
+Required Disclosures.—An air carrier, foreign air carrier, or ticket agent selling, in the United States, a ticket for a flight in foreign air transportation to a country listed on the internet website established under subsection (a) shall—
 
-(Added Pub. L. 112–95, title IV, §415(a), Feb. 14, 2012, 126 Stat. 95.)
+&emsp;(1) disclose, on its own internet website or through other means, that the destination country may require the air carrier or foreign air carrier to treat an aircraft passenger cabin with insecticides prior to the flight or to applyan aerosol insecticide in an aircraft cabin used for such a flight when the cabin is occupied with passengers; and
+
+&emsp;(2) refer the purchaser of the ticket to the internet website established under subsection (a) for additional information.
+
+(Added Pub. L. 112–95, title IV, §415(a), Feb. 14, 2012, 126 Stat. 95; amended Pub. L. 115–254, div. B, title IV, §404, Oct. 5, 2018, 132 Stat. 3329.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–254 amended subsec. (b) generally. Prior to amendment, text read as follows: "An air carrier, foreign air carrier, or ticket agent selling, in the United States, a ticket for a flight in foreign air transportation to a country listed on the Internet Web site established under subsection (a) shall refer the purchaser of the ticket to the Internet Web site established under subsection (a) for additional information."
 
 #### Effective Date
 

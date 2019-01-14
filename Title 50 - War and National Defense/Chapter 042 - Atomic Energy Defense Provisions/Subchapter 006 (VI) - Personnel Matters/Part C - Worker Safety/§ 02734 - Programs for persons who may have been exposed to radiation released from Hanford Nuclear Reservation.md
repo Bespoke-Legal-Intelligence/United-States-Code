@@ -56,7 +56,7 @@ The programs to be developed by the States may include only the following activi
 
 &emsp;(D) Enforcement of the prohibition provided in paragraph (1) on the disclosure of information described in that paragraph.
 
-(Pub. L. 107–314, div. D, title XLVI, §4644, formerly Pub. L. 101–510, div. C, title XXXI, §3138,Nov. 5, 1990, 104 Stat. 1834; Pub. L. 103–337, div. C, title XXXI, §3138(b), Oct. 5, 1994, 108 Stat. 3087; renumbered Pub. L. 107–314, div. D, title XLVI, §4644, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(15), Nov. 24, 2003, 117 Stat. 1780; Pub. L. 113–66, div. C, title XXXI, §3146(g)(12), Dec. 26, 2013, 127 Stat. 1080.)
+(Pub. L. 107–314, div. D, title XLVI, §4644, formerly Pub. L. 101–510, div. C, title XXXI, §3138, Nov. 5, 1990, 104 Stat. 1834; Pub. L. 103–337, div. C, title XXXI, §3138(b), Oct. 5, 1994, 108 Stat. 3087; renumbered Pub. L. 107–314, div. D, title XLVI, §4644, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(15), Nov. 24, 2003, 117 Stat. 1780; Pub. L. 113–66, div. C, title XXXI, §3146(g)(12), Dec. 26, 2013, 127 Stat. 1080.)
 
 #### References in Text
 

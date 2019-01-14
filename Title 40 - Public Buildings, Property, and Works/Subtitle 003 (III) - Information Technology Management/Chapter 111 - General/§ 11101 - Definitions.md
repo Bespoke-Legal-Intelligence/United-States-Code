@@ -32,11 +32,15 @@ Information technology.—The term "information technology"—
 
 &emsp;&emsp;&emsp;(ii) of that equipment to a significant extent in the performance of a service or the furnishing of a product;
 
-&emsp;&emsp;(B) includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services\(including support services), and related resources; but
+&emsp;&emsp;(B) includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including support services), and related resources; but
 
 &emsp;&emsp;(C) does not include any equipment acquired by a federal contractor incidental to a federal contract.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1235; Pub. L. 108–199, div. F, title V, §535(b), Jan. 23, 2004, 118 Stat. 345; Pub. L. 111–350, §5(l)(24), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1235; Pub. L. 108–199, div. F, title V, §535(b), Jan. 23, 2004, 118 Stat. 345; Pub. L. 111–350, §5(l)(24), Jan. 4, 2011, 124 Stat. 3852; Pub. L. 115–232, div. A, title VIII, §836(g)(7)(A), Aug. 13, 2018, 132 Stat. 1874.)
+
+#### Amendment of Paragraph (1)
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(g)(7)(A), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (1) of this section is amended by striking "Commercial item.—The term 'commercial item' has" and inserting "Commercial product.—The term 'commercial product' has". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -58,6 +62,8 @@ The text of 40:1401(1) is omitted as unnecessary because the complete name of th
 
 #### Amendments
 
+<b>2018</b>—Par. (1). Pub. L. 115–232, in heading, substituted "Commercial product" for "Commercial item" and, in text, substituted "The term 'commercial product' has" for "The term 'commercial item' has".
+
 <b>2011</b>—Par. (1). Pub. L. 111–350, §5(l)(24)(A), substituted "section 103 of title 41" for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)".
 
 Par. (2). Pub. L. 111–350, §5(l)(24)(B), substituted "section 133 of title 41" for "section 4 of the Act (41 U.S.C. 403)".
@@ -65,6 +71,10 @@ Par. (2). Pub. L. 111–350, §5(l)(24)(B), substituted "section 133 of title 41
 <b>2004</b>—Par. (6)(A). Pub. L. 108–199, §535(b)(1), inserted "analysis, evaluation," after "storage,".
 
 Par. (6)(B). Pub. L. 108–199, §535(b)(2), substituted "ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer," for "ancillary equipment,".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
 #### Executive Order No. 13011
 

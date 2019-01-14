@@ -34,7 +34,7 @@ Establishment of Program.—In order to promote a 'faster, cheaper, better' appr
 
 "(b)
 
-Awards.—At least 75 percent of the amount appropriated for Technology and Commercialization under section 101(b)(4) \[114 Stat. 1581\] for any fiscal year shall be awarded through broadly distributed announcements of opportunity that solicit proposals from educational institutions, industry, nonprofit institutions, National Aeronautics and Space Administration Centers, the Jet Propulsion Laboratory, other Federal agencies, and other interested organizations, and that allow partnerships among any combination of those entities, with evaluation, prioritization, and recommendations made by external peer review panels.
+Awards.—At least 75 percent of the amount appropriated for Technology and Commercialization under section 101(b)(4) \[114 Stat. 1581\] for any fiscal year shall be awarded through broadly distributed announcements of opportunity that solicit proposals from educational institutions, industry, nonprofit institutions, National Aeronautics and Space Administration Centers, the Jet Propulsion Laboratory, other Federal agencies, and other interested organizations, and thatallow partnerships among any combination of those entities, with evaluation, prioritization, and recommendations made by external peer review panels.
 
 "(c)
 

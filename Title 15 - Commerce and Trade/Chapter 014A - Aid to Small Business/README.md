@@ -53,6 +53,7 @@
 | [648\.](%C2%A7%2000648%20-%20Small%20business%20development%20center%20program%20authorization.md) | Small business development center program authorization. |
 | [648a.](%C2%A7%2000648a%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93140%2C%20title%20VI%2C%20%C2%A7609%28e%29%2C%20Oct.%2028%2C%201991%2C%20105%20Stat.%20826.md) | Repealed. |
 | [648b.](%C2%A7%2000648b%20-%20Grants%20for%20SBDCs.md) | Grants for SBDCs. |
+| [648c.](%C2%A7%2000648c%20-%20SBA%20and%20USPTO%20partnerships.md) | SBA and USPTO partnerships. |
 | [649\.](%C2%A7%2000649%20-%20Office%20of%20International%20Trade.md) | Office of International Trade. |
 | [649a.](%C2%A7%2000649a%20-%20Omitted.md) | Omitted. |
 | [649b.](%C2%A7%2000649b%20-%20Grants%2C%20contracts%20and%20cooperative%20agreements%20for%20international%20marketing%20programs.md) | Grants, contracts and cooperative agreements for international marketing programs. |
@@ -85,6 +86,8 @@
 | [657q.](%C2%A7%2000657q%20-%20Consolidation%20of%20contract%20requirements.md) | Consolidation of contract requirements. |
 | [657r.](%C2%A7%2000657r%20-%20Mentor-protege%20programs.md) | Mentor-protege programs. |
 | [657s.](%C2%A7%2000657s%20-%20Limitations%20on%20subcontracting.md) | Limitations on subcontracting. |
+| [657t.](%C2%A7%2000657t%20-%20Office%20of%20Credit%20Risk%20Management.md) | Office of Credit Risk Management. |
+| [657u.](%C2%A7%2000657u%20-%20Lender%20Oversight%20Committee.md) | Lender Oversight Committee. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -144,6 +147,7 @@
 - [&sect; 00648 - Small business development center program authorization](%C2%A7%2000648%20-%20Small%20business%20development%20center%20program%20authorization.md)
 - [&sect; 00648a - Repealed. Pub. L. 102&#8211;140, title VI, &sect;609(e), Oct. 28, 1991, 105 Stat. 826](%C2%A7%2000648a%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93140%2C%20title%20VI%2C%20%C2%A7609%28e%29%2C%20Oct.%2028%2C%201991%2C%20105%20Stat.%20826.md)
 - [&sect; 00648b - Grants for SBDCs](%C2%A7%2000648b%20-%20Grants%20for%20SBDCs.md)
+- [&sect; 00648c - SBA and USPTO partnerships](%C2%A7%2000648c%20-%20SBA%20and%20USPTO%20partnerships.md)
 - [&sect; 00649 - Office of International Trade](%C2%A7%2000649%20-%20Office%20of%20International%20Trade.md)
 - [&sect; 00649a - Omitted](%C2%A7%2000649a%20-%20Omitted.md)
 - [&sect; 00649b - Grants, contracts and cooperative agreements for international marketing programs](%C2%A7%2000649b%20-%20Grants%2C%20contracts%20and%20cooperative%20agreements%20for%20international%20marketing%20programs.md)
@@ -176,3 +180,5 @@
 - [&sect; 00657q - Consolidation of contract requirements](%C2%A7%2000657q%20-%20Consolidation%20of%20contract%20requirements.md)
 - [&sect; 00657r - Mentor-protege programs](%C2%A7%2000657r%20-%20Mentor-protege%20programs.md)
 - [&sect; 00657s - Limitations on subcontracting](%C2%A7%2000657s%20-%20Limitations%20on%20subcontracting.md)
+- [&sect; 00657t - Office of Credit Risk Management](%C2%A7%2000657t%20-%20Office%20of%20Credit%20Risk%20Management.md)
+- [&sect; 00657u - Lender Oversight Committee](%C2%A7%2000657u%20-%20Lender%20Oversight%20Committee.md)

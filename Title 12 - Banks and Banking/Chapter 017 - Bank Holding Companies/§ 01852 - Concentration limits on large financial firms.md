@@ -24,7 +24,7 @@ In this section—
 
 &emsp;&emsp;(A) with respect to a United States financial company—
 
-&emsp;&emsp;&emsp;(i) the total risk-weighted assets of the financial company, as determined under the risk-based capital rules applicable to bank holding companies, as adjusted to reflect exposures that are deducted from regulatory capital; less
+&emsp;&emsp;&emsp;(i) the total risk-weighted assets of the financial company, as determined underthe risk-based capital rules applicable to bank holding companies, as adjusted to reflect exposures that are deducted from regulatory capital; less
 
 &emsp;&emsp;&emsp;(ii) the total regulatory capital of the financial company under the risk-based capital rules applicable to bank holding companies;
 

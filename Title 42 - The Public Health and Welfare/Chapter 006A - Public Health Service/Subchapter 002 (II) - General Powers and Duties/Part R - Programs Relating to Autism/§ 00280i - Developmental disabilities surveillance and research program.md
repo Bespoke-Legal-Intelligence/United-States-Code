@@ -12,7 +12,7 @@
 
 #### (3) Eligibility
 
-&emsp;To be eligible to receive an award under paragraph (1), an entity shall be a public ornonprofit private entity (including a health department of a State or a political subdivision of a State, a university, or any other educational institution), and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;To be eligible to receive an award under paragraph (1), an entity shall be a public or nonprofit private entity (including a health department of a State or a political subdivision of a State, a university, or any other educational institution), and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (b) Centers of excellence in autism spectrum disorder epidemiology
 
@@ -50,7 +50,7 @@ In this part:
 
 This section shall not apply after September 30, 2019.
 
-(July 1, 1944, ch. 373, title III, §399AA, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2822; amended Pub. L. 112–32, §2(1), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §3, Aug. 8, 2014, 128 Stat. 1831.)
+(July 1, 1944, ch. 373, title III, §399AA, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2822;amended Pub. L. 112–32, §2(1), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §3, Aug. 8, 2014, 128 Stat. 1831.)
 
 #### Amendments
 

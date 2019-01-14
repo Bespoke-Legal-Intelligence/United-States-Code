@@ -42,7 +42,7 @@ In General.—Except as provided in section 136(d) \[enacting provisions set out
 
 Sections 132
 
-and 135.—Sections 132 and 135 \[enacting sections 3552 and 3555 of this title\] take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\]."
+and 135.—Sections 132 and 135 \[enacting sections 3552 and 3555 of this title\] take effect onthe date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\]."
 
 #### Uruguay Round Agreements: Entry Into Force
 

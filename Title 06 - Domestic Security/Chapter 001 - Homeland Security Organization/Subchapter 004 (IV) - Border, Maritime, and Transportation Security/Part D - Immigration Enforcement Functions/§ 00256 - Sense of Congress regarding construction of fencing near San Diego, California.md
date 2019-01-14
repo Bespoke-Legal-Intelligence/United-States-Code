@@ -6,5 +6,5 @@ It is the sense of the Congress that completing the 14-mile border fence project
 
 #### References in Text
 
-Section 102(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to intext, is section 102(b) of title I of div. C of Pub. L. 104–208, which is set out as a note under section 1103 of Title 8, Aliens and Nationality.
+Section 102(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in text, is section 102(b) of title I of div. C of Pub. L. 104–208, which is set out as a note under section 1103 of Title 8, Aliens and Nationality.
 

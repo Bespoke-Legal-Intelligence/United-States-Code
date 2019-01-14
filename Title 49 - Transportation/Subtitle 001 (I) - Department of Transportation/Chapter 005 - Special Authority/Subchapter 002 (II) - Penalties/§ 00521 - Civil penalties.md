@@ -4,7 +4,7 @@
 
 (2) A rail carrier, and a lessor, receiver, or trustee of that carrier, violating section 504(c)(1) of this title, is liable to the Government for a civil penalty of $100 for each violation.
 
-(3) A rail carrier, a lessor, receiver, or trustee of that carrier, a person furnishing cars or protective service against heat or cold, and an officer, agent, or employee of one of them, required to make a report to the Secretary or answer a question, that does not make a report to the Secretary or does not specifically, completely, and truthfully answer the question, is liable to the Government for a civil penalty of $100 for each violation.
+(3) A rail carrier, a lessor, receiver, or trustee of that carrier, a person furnishing cars or protective service against heat or cold, and an officer, agent, or employee of one of them, requiredto make a report to the Secretary or answer a question, that does not make a report to the Secretary or does not specifically, completely, and truthfully answer the question, is liable to the Government for a civil penalty of $100 for each violation.
 
 (4) A separate violation occurs for each day a violation under this subsection continues.
 
@@ -20,7 +20,7 @@ Notice.—
 
 &emsp;&emsp;(A)
 
-In general.—If the Secretary finds that a violation of a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A),<sup>1</sup> or 31502 of this title, or a violation of a regulation issued under any of those provisions, has occurred, the Secretary shall issue a written notice to the violator. Such notice shall describe with reasonable particularity the nature of the violation found and the provision which has been violated. The notice shall specify the proposed civil penalty, if any, and suggest actions which might be taken in order to abate theviolation. The notice shall indicate that the violator may, within 15 days of service, notify the Secretary of the violator's intention to contest the matter. In the event of a contested notice, the Secretary shall afford such violator an opportunity for a hearing, pursuant to section 554 of title 5, following which the Secretary shall issue an order affirming, modifying, or vacating the notice of violation.
+In general.—If the Secretary finds that a violation of a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A),<sup>1</sup> or 31502 of this title, or a violation of a regulation issued under any of those provisions, has occurred, the Secretary shall issue a written notice to the violator. Such notice shall describe with reasonable particularity the nature of the violation found and the provision which has been violated. The notice shall specify the proposed civil penalty, if any, and suggest actions which might be taken in order to abate the violation. The notice shall indicate that the violator may, within 15 days of service, notify the Secretary of the violator's intention to contest the matter. In the event of a contested notice, the Secretary shall afford such violator an opportunity for a hearing, pursuant to section 554 of title 5, following which the Secretary shall issue an order affirming, modifying, or vacating the notice of violation.
 
 &emsp;&emsp;(B)
 
@@ -62,7 +62,7 @@ Place out of service.—The Secretary may by regulation adopt procedures for pla
 
 Penalty for violations relating to out of service orders.—A motor carrier or employer (as defined in section 31132) that operates a commercial motor vehicle in commerce in violation of a prohibition on transportation under section 31144(c) of this title or an imminent hazard out of service order issued under subsection (b)(5) of this section or section 5121(d) of this title shall be liable for a civil penalty not to exceed $25,000.
 
-(3) The Secretary may require any violator served with a notice of violation to post a copy of such notice or statement of such notice in such place or places and for such duration as the Secretary may determine appropriate to aid inthe enforcement of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title, as the case may be.
+(3) The Secretary may require any violator served with a notice of violation to post a copy of such notice or statement of such notice in such place or places and for such duration as the Secretary may determine appropriate to aid in the enforcement of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title, as the case may be.
 
 (4) Such civil penalty may be recovered in an action brought by the Attorney General on behalf of the United States in the appropriate district court of the United States or, before referral to the Attorney General, such civil penalty may be compromised by the Secretary.
 
@@ -203,7 +203,7 @@ Subsec. (b)(8) to (14). Pub. L. 106–159, §206(b), added par. (8) and redesign
 
 <b>1998</b>—Subsec. (b)(1)(A). Pub. L. 105–178, §4015(a)(1), struck out "fix a reasonable time for abatement of the violation," before "specify the proposed civil penalty".
 
-Subsec. (b)(1)(B). Pub. L. 105–178, §4015(a)(2), added subpar. (B) and struck out former subpar. (B) whichread as follows: "The Secretary shall, not later than 60 days after November 3, 1990, establish operational procedures to require a highway safety specialist or other appropriate representative of the Secretary to initiate, at the time of a safety review, compliance review, or other inspection or audit activity, or within a reasonable time thereafter, an enforcement action whenever any of the offenses referred to in paragraph (2)(A) and (B) can be documented, except recordkeeping violations not specified by the Secretary as serious. The procedures shall—
+Subsec. (b)(1)(B). Pub. L. 105–178, §4015(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "The Secretary shall, not later than 60 days after November 3, 1990, establish operational procedures to require a highway safety specialist or other appropriate representative of the Secretary to initiate, at the time of a safety review, compliance review, or other inspection or audit activity, or within a reasonable time thereafter, an enforcement action whenever any of the offenses referred to in paragraph (2)(A) and (B) can be documented, except recordkeeping violations not specified by the Secretary as serious. The procedures shall—
 
 &emsp;"(i) specify those serious recordkeeping violations for which an enforcement action shall be initiated, including instances in which the falsification of records of duty status or drivers' medical certificates is required or permitted, and such other recordkeeping violations as the Secretary determines to be serious; and
 
@@ -255,7 +255,7 @@ Subsec. (b)(13). Pub. L. 99–570, §12012(g)(2), substituted "section 204" for 
 
 <b>1984</b>—Subsec. (b)(1). Pub. L. 98–554 substituted provisions relating to notice to violators and opportunity for hearings for former provisions which set forth penalties for failure to make reports and keep records.
 
-Subsec. (b)(2). Pub. L. 98–554 substituted provisions setting forth amount of civil penalties for former provisions which related to the place of trial and manner ofservice of process for violations of recordkeeping and reporting provisions.
+Subsec. (b)(2). Pub. L. 98–554 substituted provisions setting forth amount of civil penalties for former provisions which related to the place of trial and manner of service of process for violations of recordkeeping and reporting provisions.
 
 Subsec. (b)(3) to (13). Pub. L. 98–554 added pars. (3) to (13).
 

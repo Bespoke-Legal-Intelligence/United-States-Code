@@ -7,7 +7,7 @@
 | 1453 to 1469–1. Repealed. |  |
 | [1469a.](%C2%A7%2001469a%20-%20Congressional%20declaration%20of%20policy%20respecting%20Insular%20Areas.md) | Congressional declaration of policy respecting "Insular Areas". |
 | 1469a–1. | Full amounts to be covered into treasuries of Guam, Northern Mariana Islands, Puerto Rico, and Virgin Islands; reductions prohibited. |
-| [1469b.](%C2%A7%2001469b%20-%20Auditing%20of%20transactions%20of%20Territorial%20and%20local%20governments.md) | Auditing of transactions of Territorial and local governments. |
+| [1469b.](%C2%A7%2001469b%20-%20Auditing%20of%20transactions%20of%20territorial%20and%20local%20governments.md) | Auditing of transactions of territorial and local governments. |
 | [1469c.](%C2%A7%2001469c%20-%20Availability%20of%20services%2C%20facilities%2C%20and%20equipment%20of%20agencies%20and%20instrumentalities%20of%20United%20States%3B%20reimbursement%20requirements.md) | Availability of services, facilities, and equipment of agencies and instrumentalities of United States; reimbursement requirements. |
 | [1469d.](%C2%A7%2001469d%20-%20General%20technical%20assistance.md) | General technical assistance. |
 | [1469e.](%C2%A7%2001469e%20-%20Insular%20government%20purchases.md) | Insular government purchases. |
@@ -101,7 +101,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [&sect; 01457 to 1469&#8211;1 - Repealed. Pub. L. 98&#8211;213, &sect;16(a), (g)&#8211;(u), Dec. 8, 1983, 97 Stat. 1462, 1463](%C2%A7%2001457%20to%201469%E2%80%931%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93213%2C%20%C2%A716%28a%29%2C%20%28g%29%E2%80%93%28u%29%2C%20Dec.%208%2C%201983%2C%2097%20Stat.%201462%2C%201463.md)
 - [&sect; 01469a - Congressional declaration of policy respecting Insular Areas](%C2%A7%2001469a%20-%20Congressional%20declaration%20of%20policy%20respecting%20Insular%20Areas.md)
 - [&sect; 01469a&#8211;1 - Full amounts to be covered into treasuries of Guam, Northern Mariana Islands, Puerto Rico, and Virgin Islands; reductions prohibited](%C2%A7%2001469a%E2%80%931%20-%20Full%20amounts%20to%20be%20covered%20into%20treasuries%20of%20Guam%2C%20Northern%20Mariana%20Islands%2C%20Puerto%20Rico%2C%20and%20Virgin%20Islands%3B%20reductions%20prohibited.md)
-- [&sect; 01469b - Auditing of transactions of Territorial and local governments](%C2%A7%2001469b%20-%20Auditing%20of%20transactions%20of%20Territorial%20and%20local%20governments.md)
+- [&sect; 01469b - Auditing of transactions of territorial and local governments](%C2%A7%2001469b%20-%20Auditing%20of%20transactions%20of%20territorial%20and%20local%20governments.md)
 - [&sect; 01469c - Availability of services, facilities, and equipment of agencies and instrumentalities of United States; reimbursement requirements](%C2%A7%2001469c%20-%20Availability%20of%20services%2C%20facilities%2C%20and%20equipment%20of%20agencies%20and%20instrumentalities%20of%20United%20States%3B%20reimbursement%20requirements.md)
 - [&sect; 01469d - General technical assistance](%C2%A7%2001469d%20-%20General%20technical%20assistance.md)
 - [&sect; 01469e - Insular government purchases](%C2%A7%2001469e%20-%20Insular%20government%20purchases.md)

@@ -4,7 +4,21 @@
 
 In this section:
 
-#### (1) Eligible producer on a farm
+#### (1) Covered producer
+
+&emsp;The term "covered producer" means an eligible producer on a farm that is—
+
+&emsp;&emsp;(A) as determined by the Secretary—
+
+&emsp;&emsp;&emsp;(i) a beginning farmer or rancher;
+
+&emsp;&emsp;&emsp;(ii) a socially disadvantaged farmer or rancher; or
+
+&emsp;&emsp;&emsp;(iii) a limited resource farmer or rancher; or
+
+&emsp;&emsp;(B) a veteran farmer or rancher, as defined in section 2279(a) of this title.
+
+#### (2) Eligible producer on a farm
 
 #### (A) In general
 
@@ -18,15 +32,17 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) a resident alien;
 
-&emsp;&emsp;&emsp;(iii) a partnership of citizens of the United States; or
+&emsp;&emsp;&emsp;(iii) an Indian tribe or tribal organization (as those terms are defined in section 5304 of title 25);
 
-&emsp;&emsp;&emsp;(iv) a corporation, limited liability corporation, or other farm organizational structure organized under State law.
+&emsp;&emsp;&emsp;(iv) a partnership of citizens of the United States; or
 
-#### (2) Farm-raised fish
+&emsp;&emsp;&emsp;(v) a corporation, limited liability corporation, or other farm organizational structure organized under State law.
+
+#### (3) Farm-raised fish
 
 &emsp;The term "farm-raised fish" means any aquatic species that is propagated and reared in a controlled environment.
 
-#### (3) Livestock
+#### (4) Livestock
 
 &emsp;The term "livestock" includes—
 
@@ -44,7 +60,7 @@ In this section:
 
 &emsp;&emsp;(G) other livestock, as determined by the Secretary.
 
-#### (4) Secretary
+#### (5) Secretary
 
 &emsp;The term "Secretary" means the Secretary of Agriculture.
 
@@ -52,19 +68,37 @@ In this section:
 
 #### (1) Payments
 
-&emsp;For fiscal year 2012 and each succeeding fiscal year, the Secretary shall use such sums as are necessary of the funds of the Commodity Credit Corporation to make livestock indemnity payments to eligible producers on farms that have incurred livestock death losses in excess of the normal mortality, as determined by the Secretary, due to—
+&emsp;For fiscal year 2012 and each succeeding fiscal year, the Secretary shall use such sums as are necessary of the funds of the Commodity Credit Corporation to make livestock indemnity payments to eligible producers on farms that have incurred livestock death losses in excess of the normal mortality, sold livestock for a reduced sale price, or both as determined by the Secretary, due to—
 
-&emsp;&emsp;(A) attacks by animals reintroduced into the wild by the Federal Government or protected by Federal law, including wolves and avian predators; or
+&emsp;&emsp;(A) attacks by animals reintroduced into the wild by the Federal Government or protected by Federal law, including wolves and avian predators;
 
-&emsp;&emsp;(B) adverse weather, as determined by the Secretary, during the calendar year, including losses due to hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold.
+&emsp;&emsp;(B) adverse weather, as determined by the Secretary, during the calendar year, including losses due to hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold, on the condition that in the case of the death loss of unweaned livestock due to that adverse weather, the Secretary may disregard any management practice, vaccination protocol, or lack of vaccination by the eligible producer on a farm; or
+
+&emsp;&emsp;(C) disease that, as determined by the Secretary—
+
+&emsp;&emsp;&emsp;(i) is caused or transmitted by a vector; and
+
+&emsp;&emsp;&emsp;(ii) is not susceptible to control by vaccination or acceptable management practices.
 
 #### (2) Payment rates
 
-&emsp;Indemnity payments to an eligible producer on a farm under paragraph (1) shall be made at a rate of 75 percent of the market value of the applicable livestock on the day before the date of death of the livestock, as determined by the Secretary.
+&emsp;Indemnity payments to an eligible producer on a farm under paragraph (1) shall be made at a rate of 75 percent of the market value of the affected livestock, as determined by the Secretary, on, as applicable—
+
+&emsp;&emsp;(A) the day before the date of death of the livestock; or
+
+&emsp;&emsp;(B) the day before the date of the event that caused the harm to the livestock that resulted in a reduced sale price.
 
 #### (3) Special rule for payments made due to disease
 
 &emsp;The Secretary shall ensure that payments made to an eligible producer under paragraph (1) are not made for the same livestock losses for which compensation is provided pursuant to section 8306(d) of this title.
+
+#### (4) Payment reductions
+
+&emsp;A payment made under paragraph (1) to an eligible producer on a farm that sold livestock for a reduced sale price shall—
+
+&emsp;&emsp;(A) be made if the sale occurs within a reasonable period following the event, as determined by the Secretary; and
+
+&emsp;&emsp;(B) be reduced by the amount that the producer received for the sale.
 
 #### (c) Livestock forage disaster program
 
@@ -262,15 +296,19 @@ In this section:
 
 #### (1) In general
 
-&emsp;For fiscal year 2012 and each succeeding fiscal year, the Secretary shall use not more than $20,000,000 of the funds of the Commodity Credit Corporation to provide emergency relief to eligible producers of livestock, honey bees, and farm-raised fish to aid in the reduction of losses due to disease (including cattle tick fever), adverse weather, or other conditions, such as blizzards and wildfires, as determined by the Secretary, that are not covered under subsection (b) or (c).
+&emsp;For fiscal year 2012 and each succeeding fiscal year, the Secretary shall use the funds of the Commodity Credit Corporation to provide emergency relief to eligible producers of livestock, honey bees, and farm-raised fish to aid in the reduction of losses due to disease (including cattle tick fever), adverse weather, or other conditions, such as blizzards and wildfires, as determined by the Secretary, that are not covered under subsection (b) or (c).
 
 #### (2) Use of funds
 
-&emsp;Funds made available under this subsection shall be used to reduce losses caused by feed or water shortages, disease, or other factors as determined by the Secretary.
+&emsp;Funds made available under this subsection shall be used to reduce losses caused by feed or water shortages, disease, or other factors as determined by the Secretary, including inspections of cattle tick fever.
 
 #### (3) Availability of funds
 
 &emsp;Any funds made available under this subsection shall remain available until expended.
+
+#### (4) Payment rate for covered producers
+
+&emsp;In the case of a covered producer that is eligible to receive assistance under this subsection, the Secretary shall provide reimbursement of 90 percent of the cost of losses described in paragraph (1) or (2).
 
 #### (e) Tree assistance program
 
@@ -310,7 +348,7 @@ In this section:
 
 #### (3) Assistance
 
-&emsp;Subject to paragraph (4), the assistance provided by the Secretary to eligible orchardists and nursery tree growers for losses described in paragraph (2) shall consist of—
+&emsp;Subject to paragraphs (4) and (5), the assistance provided by the Secretary to eligible orchardists and nursery tree growers for losses described in paragraph (2) shall consist of—
 
 &emsp;&emsp;(A)(i) reimbursement of 65 percent of the cost of replanting trees lost due to a natural disaster, as determined by the Secretary, in excess of 15 percent mortality (adjusted for normal mortality); or
 
@@ -324,13 +362,13 @@ In this section:
 
 &emsp;&emsp;In this paragraph, the terms "legal entity" and "person" have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a)).
 
-#### (B) Amount
+#### (B) Acres
 
-&emsp;&emsp;The total amount of payments received, directly or indirectly, by a person or legal entity (excluding a joint venture or general partnership) under this subsection may not exceed $125,000 for any crop year, or an equivalent value in tree seedlings.
+&emsp;&emsp;The total quantity of acres planted to trees or tree seedlings for which a person or legal entity shall be entitled to receive payments under this subsection may not exceed 1,000 acres.
 
-#### (C) Acres
+#### (5) Payment rate for beginning and veteran producers
 
-&emsp;&emsp;The total quantity of acres planted to trees or tree seedlings for which a person or legal entity shall be entitled to receive payments under this subsection may not exceed 500 acres.
+&emsp;Subject to paragraph (4), in the case of a beginning farmer or rancher or a veteran farmer or rancher (as those terms are defined in subsection (a) of section 2279 of this title) that is eligible to receive assistance under this subsection, the Secretary shall provide reimbursement of 75 percent of the costs under subparagraphs (A)(i) and (B) of paragraph (3).
 
 #### (f) Payment limitations
 
@@ -340,15 +378,57 @@ In this section:
 
 #### (2) Amount
 
-&emsp;The total amount of disaster assistance payments received, directly or indirectly, by a person or legal entity (excluding a joint venture or general partnership) under this section (excluding payments received under subsection (e)) may not exceed $125,000 for any crop year.
+&emsp;The total amount of disaster assistance payments received, directly or indirectly, by a person or legal entity (excluding a joint venture or general partnership) under subsection (c) may not exceed $125,000 for any crop year.
 
 #### (3) Direct attribution
 
 &emsp;Subsections (e) and (f) of section 1001 of the Food Security Act of 1985 (7 U.S.C. 1308) or any successor provisions relating to direct attribution shall apply with respect to assistance provided under this section.
 
-(Pub. L. 113–79, title I, §1501, Feb. 7, 2014, 128 Stat. 697.)
+(Pub. L. 113–79, title I, §1501, Feb. 7, 2014, 128 Stat. 697; Pub. L. 115–123, div. B, title I, §20101(a)–(d), Feb. 9, 2018, 132 Stat. 68, 69; Pub. L. 115–334, title I, §1501(a)–(c)(1), (d), (e), title XII, §12306(h), Dec. 20, 2018, 132 Stat. 4522, 4523, 4970.)
 
 #### References in Text
 
 The Food Security Act of 1985, referred to in subsec. (c)(3)(A)(ii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter B of chapter 1 of subtitle D of title XII is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–334, §12306(h)(1)(B), added par. (1). Former par. (1) redesignated (2).
+
+Subsec. (a)(1)(B)(iii) to (v). Pub. L. 115–334, §1501(a), added cl. (iii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
+
+Subsec. (a)(2) to (5). Pub. L. 115–334, §12306(h)(1)(A), redesignated pars. (1) to (4) as (2) to (5), respectively.
+
+Subsec. (b)(1). Pub. L. 115–123, §20101(a)(1), inserted "sold livestock for a reduced sale price, or both" after "normal mortality," in introductory provisions.
+
+Subsec. (b)(1)(B). Pub. L. 115–334, §1501(b)(1)(B), substituted "cold, on the condition that in the case of the death loss of unweaned livestock due to that adverse weather, the Secretary may disregard any management practice, vaccination protocol, or lack of vaccination by the eligible producer on a farm; or" for "cold."
+
+Subsec. (b)(1)(C). Pub. L. 115–334, §1501(b)(1)(A), (C), added subpar. (C).
+
+Subsec. (b)(2). Pub. L. 115–123, §20101(a)(2), substituted "affected livestock, as determined by the Secretary, on, as applicable—" for "applicable livestock on the day before the date of death of the livestock, as determined by the Secretary." and added subpars. (A) and (B).
+
+Subsec. (b)(4). Pub. L. 115–334, §1501(b)(2), inserted heading.
+
+Pub. L. 115–123, §20101(a)(3), added par. (4).
+
+Subsec. (d)(1). Pub. L. 115–123, §20101(b), struck out "not more than $20,000,000 of" before "the funds of the Commodity Credit Corporation".
+
+Subsec. (d)(2). Pub. L. 115–334, §1501(c)(1), inserted ", including inspections of cattle tick fever" before period at end.
+
+Subsec. (d)(4). Pub. L. 115–334, §12306(h)(2), added par. (4).
+
+Subsec. (e)(3). Pub. L. 115–334, §1501(d)(1), substituted "paragraphs (4) and (5)" for "paragraph (4)" in introductory provisions.
+
+Subsec. (e)(4)(B), (C). Pub. L. 115–123, §20101(c), (d)(1), substituted "1,000 acres" for "500 acres" in subpar. (C), redesignated subpar. (C) as (B), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "The total amount of payments received, directly or indirectly, by a person or legal entity (excluding a joint venture or general partnership) under this subsection may not exceed $125,000 for any crop year, or an equivalent value in tree seedlings."
+
+Subsec. (e)(5). Pub. L. 115–334, §1501(d)(2), added par. (5).
+
+Subsec. (f)(2). Pub. L. 115–334, §1501(e), substituted "subsection (c)" for "this section (excluding payments received under subsections (b) and (e))".
+
+Pub. L. 115–123, §20101(d)(2), substituted "subsections (b) and (e)" for "subsection (e)".
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–334, title I, §1501(c)(2), Dec. 20, 2018, 132 Stat. 4522, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to inspections of cattle tick fever conducted on or after the date of enactment of this Act \[Dec. 20, 2018\]."
+
+Pub. L. 115–123, div. B, title I, §20101(e), Feb. 9, 2018, 132 Stat. 69, provided that: "Section 1501 of the Agricultural Act of 2014 (7 U.S.C. 9081), as amended by this section, shall apply with respect to losses described in such section 1501 incurred on or after January 1, 2017."
 

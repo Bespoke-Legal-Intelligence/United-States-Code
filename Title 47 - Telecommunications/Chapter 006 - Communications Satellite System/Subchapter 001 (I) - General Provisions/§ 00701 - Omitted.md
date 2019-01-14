@@ -20,7 +20,7 @@ Pub. L. 87–624, title V, §501, as added by Pub. L. 95–564, Nov. 1, 1978, 92
 
 #### Stylistic Consistency
 
-Pub. L. 103–414, title III, §303(f), Oct. 25, 1994, 108 Stat. 4296, provided that: "The Communications Act of 1934 \[47 U.S.C. 151 et seq.\] and the Communications SatelliteAct of 1962 \[47 U.S.C. 701 et seq.\] are amended so that the section designation and section heading of each section of such Acts shall be in the form and typeface of the section designation and heading of this section \[108 Stat. 4294\]."
+Pub. L. 103–414, title III, §303(f), Oct. 25, 1994, 108 Stat. 4296, provided that: "The Communications Act of 1934 \[47 U.S.C. 151 et seq.\] and the Communications Satellite Act of 1962 \[47 U.S.C. 701 et seq.\] are amended so that the section designation and section heading of each section of such Acts shall be in the form and typeface of the section designation and heading of this section \[108 Stat. 4294\]."
 
 #### International Telecommunications Satellite Organization
 
@@ -32,7 +32,7 @@ Policy.—The Congress declares that it is the policy of the United States—
 
 &emsp;"(1) as a party to the International Telecommunications Satellite Organization (hereafter in this section referred to as 'Intelsat'), to foster and support the global commercial communications satellite system owned and operated by Intelsat;
 
-&emsp;"(2) to make available to consumers a variety of communications satellite services utilizing the space segment facilities of Intelsat and any additional such facilities which are found to be in the national interest and which—
+&emsp;"(2) to make available to consumers a variety of communications satellite services utilizing the space segment facilities of Intelsat and any additional suchfacilities which are found to be in the national interest and which—
 
 &emsp;&emsp;"(A) are technically compatible with the use of the radio frequency spectrum and orbital space by the existing or planned Intelsat space segment, and
 

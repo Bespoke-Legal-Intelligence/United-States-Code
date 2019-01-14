@@ -10,7 +10,7 @@ As used in this section:
 
 (3) The term "State" means any State, territory, or possession of the United States, the District of Columbia, or any political subdivision, agency, or instrumentality thereof.
 
-(4) The term "pole attachment" means any attachment by a cable television system or provider of telecommunications service to a pole,duct, conduit, or right-of-way owned or controlled by a utility.
+(4) The term "pole attachment" means any attachment by a cable television system or provider of telecommunications service to a pole, duct, conduit, or right-of-way owned or controlled by a utility.
 
 (5) For purposes of this section, the term "telecommunications carrier" (as defined in section 153 of this title) does not include any incumbent local exchange carrier as defined in section 251(h) of this title.
 
@@ -42,7 +42,7 @@ As used in this section:
 
 #### (d) Determination of just and reasonable rates; "usable space" defined
 
-(1) For purposes of subsection (b) of this section, a rate is just and reasonable if it assures a utility the recovery of not less than the additional costs of providing pole attachments, nor more than an amount determined by multiplying the percentage of the total usable space, or the percentage of the total duct or conduit capacity, which is occupied by the pole attachment by the sum of the operating expenses and actual capital costs of the utility attributable to the entire pole, duct, conduit, or right-of-way.
+(1) For purposes of subsection (b) of this section, a rate is just and reasonable if it assures autility the recovery of not less than the additional costs of providing pole attachments, nor more than an amount determined by multiplying the percentage of the total usable space, or the percentage of the total duct or conduit capacity, which is occupied by the pole attachment by the sum of the operating expenses and actual capital costs of the utility attributable to the entire pole, duct, conduit, or right-of-way.
 
 (2) As used in this subsection, the term "usable space" means the space above the minimum grade level which can be used for the attachment of wires, cables, and associated equipment.
 
@@ -98,7 +98,7 @@ Subsecs. (e) to (i). Pub. L. 104–104, §703(7), added subsecs. (e) to (i).
 
 <b>1984</b>—Subsec. (c)(3). Pub. L. 98–549 added par. (3).
 
-<b>1982</b>—Subsec. (e). Pub. L. 97–259 struck out subsec. (e) which provided that, upon expiration of 5-year period that began on Feb. 21, 1978, provisions of subsec. (d) of this section would cease to have any effect.
+<b>1982</b>—Subsec. (e). Pub. L. 97–259 struck out subsec. (e) which provided that, upon expiration of 5-year periodthat began on Feb. 21, 1978, provisions of subsec. (d) of this section would cease to have any effect.
 
 #### Effective Date of 1984 Amendment
 

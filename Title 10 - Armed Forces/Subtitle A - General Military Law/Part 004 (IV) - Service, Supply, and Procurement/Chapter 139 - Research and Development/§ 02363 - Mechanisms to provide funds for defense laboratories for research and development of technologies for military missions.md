@@ -32,25 +32,27 @@ Availability of Funds for Infrastructure Projects.—Funds shall be available in
 
 (c)
 
-Annual Report on Use of Authority.—(1) Not later than March 1 of each year until March 1, 2025, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority under subsection (a) during the preceding year.
+Release and Dissemination of Information on Contributions From Use of Authority to Military Missions.—
 
-(2) Each report under paragraph (1) shall include, with respect to the year covered by the report, the following:
+&emsp;(1)
 
-&emsp;(A) A description of the mechanisms used to provide funding under subsection (a)(1).
+Collection of information.—The Secretary shall establish and maintain mechanisms for the continuous collection of information on achievements, best practices identified, lessons learned, and challenges arising in the exercise of the authority in this section.
 
-&emsp;(B) A statement of the amount of funding made available to each defense laboratory for research described under such subsection.
+&emsp;(2)
 
-&emsp;(C) A description of the investments made by each defense laboratory using funds under such subsection.
+Release of information.—The Secretary shall establish and maintain mechanisms as follows:
 
-&emsp;(D) A description and assessment of any improvements in the performance of the defense laboratories as a result of investments under such subsection.
+&emsp;&emsp;(A) Mechanisms for the release to the public of information on achievements and best practices described in paragraph (1) in unclassified form.
 
-&emsp;(E) A description and assessment of the contributions to the development of needed military capabilities provided by research using funds under such subsection.
+&emsp;&emsp;(B) Mechanisms for dissemination to appropriate civilian and military officials of information on achievements and best practices described in paragraph (1) in classified form.
 
-&emsp;(F) A description of any modification to the mechanisms under subsection (a) that would improve the efficiency of the authority under such subsection to support military missions.
-
-(Added Pub. L. 115–91, div. A, title II, §220(a), Dec. 12, 2017, 131 Stat. 1332.)
+(Added Pub. L. 115–91, div. A, title II, §220(a), Dec. 12, 2017, 131 Stat. 1332; amended Pub. L. 115–232, div. A, title II, §250, Aug. 13, 2018, 132 Stat. 1702.)
 
 #### Prior Provisions
 
 A prior section 2363, added Pub. L. 99–145, title XIV, §1457(a), Nov. 8, 1985, 99 Stat. 762, related to encouragement of technology transfer, prior to repeal by Pub. L. 102–484, div. D, title XLII, §§4224(c), 4271(a)(2), Oct. 23, 1992, 106 Stat. 2683, 2695. See section 2514 of this title.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–232 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to annual reports on the use of the authority under subsec. (a).
 

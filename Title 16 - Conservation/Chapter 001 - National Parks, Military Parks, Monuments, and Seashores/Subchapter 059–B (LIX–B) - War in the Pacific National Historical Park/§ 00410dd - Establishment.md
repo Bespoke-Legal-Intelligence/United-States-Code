@@ -2,11 +2,11 @@
 
 #### (a) Statement of purposes
 
-In order to commemorate the bravery and sacrifice of those participating in the campaigns of the Pacific theater of World War II and to conserve and interpret outstanding natural, scenic, and historic values and objects on the island of Guam for the benefit and enjoyment of present and future generations, the War in the Pacific National Historical Park (hereinafter in this section referred to as the "park") is hereby established.
+In order to commemorate the bravery and sacrifice of those participating in the campaigns ofthe Pacific theater of World War II and to conserve and interpret outstanding natural, scenic, and historic values and objects on the island of Guam for the benefit and enjoyment of present and future generations, the War in the Pacific National Historical Park (hereinafter in this section referred to as the "park") is hereby established.
 
 #### (b) Boundaries; revisions of boundary; publication in Federal Register
 
-The boundaries of the park shall be as generally depicted on the drawing entitled "BoundaryMap, War in the Pacific National Historical Park, Guam" numbered P–24–80,000–B and dated March 1978, which shall be on file and available for inspection in the offices of the National Park Service, Department of the Interior. Following ninety days notice to the Committee on Natural Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate, the Secretary may make minor revisions of the boundary of the park by publication of a revised map in the Federal Register.
+The boundaries of the park shall be as generally depicted on the drawing entitled "Boundary Map, War in the Pacific National Historical Park, Guam" numbered P–24–80,000–B and dated March 1978, which shall be on file and available for inspection in the offices of the National Park Service, Department of the Interior. Following ninety days notice to the Committee on Natural Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate, the Secretary may make minor revisions of the boundary of the park by publication of a revised map in the Federal Register.
 
 #### (c) Acquisition of lands and interests therein; manner of acquisition
 
@@ -76,7 +76,7 @@ Pub. L. 103–197, §1, Dec. 17, 1993, 107 Stat. 2301, provided that: "Congress 
 
 &emsp;"(1) June 15 through August 10, 1994, marks the 50th anniversary of the Mariana campaign of World War II in which American forces captured the islands of Saipan and Tinian in the Northern Marianas and liberated the United States Territory of Guam from Japanese occupation;
 
-&emsp;"(2) an attack during this campaign by the Japanese Imperial fleet, aimed at countering the American forces that had landed on Saipan, led to the battle of the Philippine Sea, which resulted in a crushingdefeat for the Japanese by United States naval forces and the destruction of the effectiveness of the Japanese carrier-based airpower;
+&emsp;"(2) an attack during this campaign by the Japanese Imperial fleet, aimed at countering the American forces that had landed on Saipan, led to the battle of the Philippine Sea, which resulted in a crushing defeat for the Japanese by United States naval forces and the destruction of the effectiveness of the Japanese carrier-based airpower;
 
 &emsp;"(3) the recapture of Guam liberated one of the few pieces of United States territory that was occupied for two and one-half years by the enemy during World War II and restored freedom to the indigenous Chamorros on Guam who suffered as a result of the Japanese occupation;
 

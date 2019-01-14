@@ -26,7 +26,7 @@ Section 1138d(f) of Title 12, U.S.C., 1940 ed., Banks and Banking, relating to c
 
 #### 1949 Act
 
-\[Section 21\] conforms section 1014 of Title 18 U.S.C., to administrative practice which in turn was modified to comply with congressional policy. (See note to sec. 11 \[of 1949 Act, set out in Historical and Revision note under section 657 of this title\]).
+\[Section 21\] conforms section 1014 of Title 18 U.S.C., to administrative practice which in turn was modifiedto comply with congressional policy. (See note to sec. 11 \[of 1949 Act, set out in Historical and Revision note under section 657 of this title\]).
 
 #### References in Text
 

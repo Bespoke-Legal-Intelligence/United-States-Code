@@ -6,7 +6,7 @@ Reuse Studies.—Whenever the Secretary of Defense or the Secretary of the milit
 
 (b)
 
-Adjustment and Diversification Assistance.—(1) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments in planning community adjustments and economic diversification required (A) by the proposed or actual establishment, realignment, or closure of a military installation, (B) by the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, (C) by a publicly announced planned major reduction in Department of Defense spending that would directly and adversely affect a community, (D) by the encroachment of a civilian community on a military installation, or (E) by the closure or the significantly reduced operations of a defense facility as the result of the merger, acquisition, or consolidation of the defense contractor operating the defense facility, if the Secretary determines that an action described in clause (A), (B), (C), or (E) is likely to have a direct and significantly adverse consequence on the affected community or, in the case of an action described in clause (D), if the Secretary determines that the encroachment of the civilian community is likely to impair the continued operational utility of the military installation.
+Adjustment and Diversification Assistance.—(1) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments in planning community adjustments and economic diversification required (A) by the proposed or actual establishment, realignment, or closure of a military installation, (B) by the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, (C) by a publicly announced planned major reduction in Department of Defense spending that would directly and adversely affect a community, (D) by the encroachment of a civilian community on a military installation, (E) by threats to military installation resilience, or (F) by the closure or the significantly reduced operations of a defense facility as the result of the merger, acquisition, or consolidation of the defense contractor operating the defense facility, if the Secretary determines that an action described in clause (A), (B), (C), or (F) is likely to have a direct and significantly adverse consequence on the affected community or, in the case of an action described in clause (D) or (E), if the Secretary determines that either the encroachment of the civilian community or threats to military installation resilience is likely to impair the continued operational utility of the military installation.
 
 (2) In the case of the establishment or expansion of a military installation, assistance may be made under paragraph (1) only if (A) community impact assistance or special impact assistance is not otherwise available, and (B) the establishment or expansion involves the assignment to the installation of (i) more than 2,000 military, civilian, and contractor Department of Defense personnel, or (ii) more military, civilian, and contractor Department of Defense personnel than the number equal to 10 percent of the number of persons employed in counties or independent municipalities within fifteen miles of the installation, whichever is lesser.
 
@@ -54,6 +54,16 @@ Research and Technical Assistance.—The Secretary of Defense may make grants to
 
 (d)
 
+Defense Community Infrastructure Pilot Program.—(1) The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds available under Federal programs administered by agencies other than the Department of Defense to assist State and local governments to address deficiencies in community infrastructure supportive of a military installation, if the Secretary determines that such assistance will enhance the military value, resilience, or military family quality of life at such military installation.
+
+(2) The Secretary shall establish criteria for the selection of community infrastructure projects to receive assistance under paragraph (1). The criteria shall include a requirement that the State or local government agree to contribute not less than 30 percent of the funding for the community infrastructure project, unless the community infrastructure project is located in a rural area, or for reasons related to national security, in which case the Secretary may waive the requirement for a State or local government contribution.
+
+(3) Amounts appropriated or otherwise made available for assistance under paragraph (1) may remain available until expended.
+
+(4) The authority under this subsection shall expire upon the expiration of the 10-year period which begins on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2019.
+
+(e)
+
 Definitions.—In this section:
 
 &emsp;(1) The terms "military installation" and "realignment" have the meanings given those terms in section 2687 of this title. For purposes of subsection (b)(1)(D), the term "military installation" includes a military facility owned and operated by any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, even though the facility is not under the jurisdiction of the Department of Defense, if the Secretary of Defense determines that the military facility is subject to significant use for training by the armed forces.
@@ -62,11 +72,15 @@ Definitions.—In this section:
 
 &emsp;(3) The terms "community adjustment" and "economic diversification" include the development of feasibility studies and business plans for market diversification within a community adversely affected by an action described in clause (A), (B), (C), or (E) of subsection (b)(1) by adversely affected businesses and labor organizations located in the community.
 
-(e)
+&emsp;(4) The term "community infrastructure" means any transportation project; school, hospital, police, fire, emergency response, or other community support facility; or water, waste-water, telecommunications, electric, gas, or other utility infrastructure project that is located off of a military installation and owned by a State or local government.
+
+&emsp;(5) The term "rural area" means a city, town, or unincorporated area that has a population of not more than 50,000 inhabitants.
+
+(f)
 
 Assistance Subject to Appropriations.—The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.
 
-(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. B, title XXVIII, §2814, Sept. 23, 1996, 110 Stat. 2790; Pub. L. 105–85, div. B, title XXVIII, §2822, Nov. 18, 1997, 111 Stat. 1997; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(a)(13), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 109–163, div. B, title XXVIII, §2832, Jan. 6, 2006, 119 Stat. 3520; Pub. L. 109–364, div. B, title XXVIII, §§2861, 2862, Oct. 17, 2006, 120 Stat. 2498; Pub. L. 110–417, div. B, title XXVIII, §2823(b), Oct. 14, 2008, 122 Stat. 4730; Pub. L. 112–239, div. B, title XXVII, §2712(c)(1), Jan. 2, 2013, 126 Stat. 2145.)
+(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. B, title XXVIII, §2814, Sept. 23, 1996, 110 Stat. 2790; Pub. L. 105–85, div. B, title XXVIII, §2822, Nov. 18, 1997, 111 Stat. 1997; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(a)(13), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 109–163, div. B, title XXVIII, §2832, Jan. 6, 2006, 119 Stat. 3520; Pub. L. 109–364, div. B, title XXVIII, §§2861, 2862, Oct. 17, 2006, 120 Stat. 2498; Pub. L. 110–417, div. B, title XXVIII, §2823(b), Oct. 14, 2008, 122 Stat. 4730; Pub. L. 112–239, div. B, title XXVII, §2712(c)(1), Jan. 2, 2013, 126 Stat. 2145; Pub. L. 115–232, div. B, title XXVIII, §§2805(f), 2861, Aug. 13, 2018, 132 Stat. 2263, 2282.)
 
 #### References in Text
 
@@ -74,7 +88,17 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pu
 
 Executive Order 12788, referred to in subsec. (c), is set out below.
 
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2019, referred to in subsec. (d)(4), is the date of enactment of Pub. L. 115–232, which was approved Aug. 13, 2018.
+
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–232, §2805(f), substituted ", (E) by threats to military installation resilience, or (F) by the closure" for ", or (E) by the closure", "(A), (B), (C), or (F)" for "(A), (B), (C), or (E)", and "action described in clause (D) or (E), if the Secretary determines that either the encroachment of the civilian community or threats to military installation resilience" for "action described in clause (D), if the Secretary determines that the encroachment of the civilian community".
+
+Subsecs. (d), (e). Pub. L. 115–232, §2861(1), (2), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (e)(4), (5). Pub. L. 115–232, §2861(3), added pars. (4) and (5).
+
+Subsec. (f). Pub. L. 115–232, §2861(1), redesignated subsec. (e) as (f).
 
 <b>2013</b>—Subsec. (d)(1). Pub. L. 112–239 substituted "section 2687" for "section 2687(e)".
 
@@ -104,7 +128,7 @@ Pub. L. 109–163, §2832(b), amended par. (1) generally. Prior to amendment, pa
 
 Subsec. (c). Pub. L. 104–106 substituted "Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives" for "Committees on Armed Services of the Senate and House of Representatives".
 
-<b>1994</b>—Subsec. (b)(5) to (7). Pub. L. 103–337, §1123(a), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
+<b>1994</b>—Subsec. (b)(5) to (7). Pub. L. 103–337, §1123(a), added par. (5) and redesignated former pars. (5) and (6)as (6) and (7), respectively. Former par. (7) redesignated (8).
 
 Subsec. (b)(8). Pub. L. 103–337, §1123(a)(1), (b), redesignated par. (7) as (8) and substituted "paragraph (7)" for "paragraph (6)" in subpars. (A) and (B).
 
@@ -161,6 +185,38 @@ Pub. L. 100–456, div. B, title XXVII, §2702, Sept. 29, 1988, 102 Stat. 2115, 
 #### Effective Date of 1983 Amendment
 
 Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789, provided that the amendment made by that section is effective Oct. 1, 1983.
+
+#### Restrictions on Use of Funds for Development of Public Infrastructure in Commonwealth of Northern Mariana Islands
+
+Pub. L. 115–232, div. B, title XXVIII, §2863, Aug. 13, 2018, 132 Stat. 2284, provided that:
+
+"(a)
+
+Restriction.—If the Secretary of Defense determines that any grant, cooperative agreement, transfer of funds to another Federal agency, or supplement of funds available under Federal programs administered by agencies other than the Department of Defense will result in the development (including repair, replacement, renovation, conversion, improvement, expansion, acquisition, or construction) of public infrastructure in the Commonwealth of the Northern Mariana Islands (hereafter in this section referred to as the 'Commonwealth'), the Secretary of Defense may not carry out such grant, transfer, cooperative agreement, or supplemental funding unless such grant, transfer, cooperative agreement, or supplemental funding—
+
+&emsp;"(1) is specifically authorized by law; and
+
+&emsp;"(2) will be used to carry out a public infrastructure project included in the report submitted under subsection (b).
+
+"(b)
+
+Report of Economic Adjustment Committee.—
+
+&emsp;"(1)
+
+Convening of committee.—Not later than 90 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense, as the chair of the Economic Adjustment Committee established in Executive Order No. 127887 \[probably should be Executive Order No. 12788\] (10 U.S.C. 2391 note), shall convene the Economic Adjustment Committee to consider assistance, including assistance to support public infrastructure projects, necessary to support changes in Department of Defense activities in the Commonwealth.
+
+&emsp;"(2)
+
+Report.—Not later than 180 days after convening the Economic Adjustment Committee under paragraph (1), the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report—
+
+&emsp;&emsp;"(A) describing the results of the Economic Adjustment Committee deliberations required by paragraph (1); and
+
+&emsp;&emsp;"(B) containing a description of any assistance the Committee determines to be necessary to support changes in Department of Defense activities in the Commonwealth, including any public infrastructure projects the Committee determines should be carried out with such assistance.
+
+"(c)
+
+Public Infrastructure Defined.—In this section, the term 'public infrastructure' means any utility, method of transportation, item of equipment, or facility under the control of a public entity or State or local government that is used by, or constructed for the benefit of, the general public."
 
 #### Advance Adjustment Planning
 
@@ -256,7 +312,7 @@ Policy.—In view of the findings expressed in subsection (a), it is the policy 
 
 &emsp;&emsp;&emsp;"(iii) establishes, by evidence, that the reductions referred to in clause (ii) occurred as a direct result of a reduction in the defense budget; and
 
-&emsp;&emsp;"(C) when such term is used in conjunction with the term 'group of workers', any group of 100 or more workers at a defense facility who are (or whoare threatened to be), eligible to participate in the defense conversion adjustment program under section 325 of the Job Training Partnership Act \[29 U.S.C. 1662d\] (as added by section 4202 of this division), as in effect on the day before the date of enactment of the Workforce Investment Act of 1998 \[Aug. 7, 1998\].
+&emsp;&emsp;"(C) when such term is used in conjunction with the term 'group of workers', any group of 100 or more workers at a defense facility who are (or who are threatened to be), eligible to participate in the defense conversion adjustment program under section 325 of the Job Training Partnership Act \[29 U.S.C. 1662d\] (as added by section 4202 of this division), as in effect on the day before the date of enactment of the Workforce Investment Act of 1998 \[Aug. 7, 1998\].
 
 #### "SEC. 4004. CONTINUATION OF ECONOMIC ADJUSTMENT COMMITTEE
 
@@ -344,7 +400,7 @@ Export-Import Bank.—
 
 &emsp;"(1)
 
-Sense of congress on plan for expansion.—It is the sense of Congress that the United States businesses undergoing transition from defense production to nondefense production will need assistance in seizing export markets overseas. Therefore, in order to provide financial support for such businesses, as well as meeting other normal demands on its resources, the annual direct lending authority of the Export-Import Bank of the United States should be increased by at least 150 percent from the fiscal year 1990 level over the five-year period beginning October 1, 1990.
+Sense of congress on plan for expansion.—It is the sense of Congress that the United States businesses undergoing transition from defense production to nondefense production will need assistance in seizing export markets overseas. Therefore, in order to provide financial support for such businesses, as wellas meeting other normal demands on its resources, the annual direct lending authority of the Export-Import Bank of the United States should be increased by at least 150 percent from the fiscal year 1990 level over the five-year period beginning October 1, 1990.
 
 &emsp;"(2)
 
@@ -542,7 +598,7 @@ Sec. 5. <i>Responsibilities of Executive Agencies.</i>
 
 (b) All executive agencies shall:
 
-(1) Support, to the extent permitted by law, the economic adjustment assistance activities of the Secretary of Defense. Such support may include the use and application of personnel, technical expertise, legal authorities, and available financial resources. This support may be used, to the extent permitted by law, toprovide a coordinated Federal response to the needs of individual States, regions, municipalities, and communities adversely affected by necessary Defense changes;
+(1) Support, to the extent permitted by law, the economic adjustment assistance activities of the Secretary of Defense. Such support may include the use and application of personnel, technical expertise, legal authorities, and available financial resources. This support may be used, to the extent permitted by law, to provide a coordinated Federal response to the needs of individual States, regions, municipalities, and communities adversely affected by necessary Defense changes;
 
 (2) Afford priority consideration to requests from Defense-affected communities for Federal technical assistance, financial resources, excess or surplus property, or other requirements, that are part of a comprehensive plan used by the Committee.
 

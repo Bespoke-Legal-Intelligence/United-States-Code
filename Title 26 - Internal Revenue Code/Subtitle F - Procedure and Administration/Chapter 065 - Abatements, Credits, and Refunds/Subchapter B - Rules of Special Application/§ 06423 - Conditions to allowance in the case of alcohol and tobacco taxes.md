@@ -2,7 +2,7 @@
 
 #### (a) Conditions
 
-No credit or refund shall be allowed or made, in pursuance of a court decision or otherwise, ofany amount paid or collected as an alcohol or tobacco tax unless the claimant establishes (under regulations prescribed by the Secretary)—
+No credit or refund shall be allowed or made, in pursuance of a court decision or otherwise, of any amount paid or collected as an alcohol or tobacco tax unless the claimant establishes (under regulations prescribed by the Secretary)—
 
 &emsp;(1) that he bore the ultimate burden of the amount claimed; or
 
@@ -58,7 +58,7 @@ Subsec. (b). Pub. L. 94–455, §1906(a)(29)(A), among other changes, struck out
 
 Subsec. (c). Pub. L. 94–455, §1906(a)(29)(B), (C), redesignated subsec. (d) as (c) and struck out par. (3) relating to any amount claimed with respect to a commodity which has been lost, where a suit or proceeding was instituted before June 15, 1957. Former subsec. (c), relating to disallowance of any suit or proceeding which was barred on Apr. 30, 1958, was struck out.
 
-Subsecs. (d), (e). Pub. L. 94–455, §1906(a)(29)(B), (b)(13)(A), redesignated subsec. (e) as (d) and struck out "or his delegate" after "Secretary". Former subsec. (d) redesignated (c).
+Subsecs. (d), (e). Pub. L. 94–455, §1906(a)(29)(B), (b)(13)(A), redesignated subsec. (e) as (d) and struck out"or his delegate" after "Secretary". Former subsec. (d) redesignated (c).
 
 #### Effective Date of 1976 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-For the purposes of providing blind persons with remunerative employment, enlarging the economic opportunities of the blind, and stimulating the blind to greater efforts in striving to make themselves self-supporting, blind persons licensed under the provisions of this chapter shall be authorized to operate vending facilities on any Federal property.
+For the purposes of providing blind persons with remunerative employment, enlarging theeconomic opportunities of the blind, and stimulating the blind to greater efforts in striving to make themselves self-supporting, blind persons licensed under the provisions of this chapter shall be authorized to operate vending facilities on any Federal property.
 
 #### (b) Preferences regulations; justification for limitation on operation
 
@@ -56,7 +56,7 @@ Pub. L. 93–516, title II, §201, Dec. 7, 1974, 88 Stat. 1622, provided that: "
 
 &emsp;"(1) after review of the operation of the blind vending stand program authorized under the Randolph-Sheppard Act of June 20, 1936 \[this chapter\], that the program has not developed, and has not been sustained, in the manner and spirit in which the Congress intended at the time of its enactment, and that, in fact, the growth of the program has been inhibited by a number of external forces;
 
-&emsp;"(2) that the potential exists for doubling the number of blind operators on Federal and other property under the Randolph-Sheppard program within the next five years, provided the obstacles to growth are removed, that legislative and administrative means exist to remove such obstacles, and that Congress should adopt legislation to that end; and
+&emsp;"(2) that the potential exists for doubling the number of blind operators on Federal and other property under the Randolph-Sheppard program within thenext five years, provided the obstacles to growth are removed, that legislative and administrative means exist to remove such obstacles, and that Congress should adopt legislation to that end; and
 
 &emsp;"(3) that at a minimum the following actions must be taken to insure the continued vitality and expansion of the Randolph-Sheppard program—
 

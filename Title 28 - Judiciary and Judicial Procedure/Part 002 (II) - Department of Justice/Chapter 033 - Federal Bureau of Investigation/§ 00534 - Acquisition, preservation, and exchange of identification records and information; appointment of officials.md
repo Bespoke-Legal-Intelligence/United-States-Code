@@ -6,7 +6,7 @@
 
 &emsp;(2) acquire, collect, classify, and preserve any information which would assist in the identification of any deceased individual who has not been identified after the discovery of such deceased individual;
 
-&emsp;(3) acquire, collect, classify, and preserve any information which would assist in the location of any missing person (including an unemancipated person as defined by the laws of the place of residence of such person) and provide confirmation as to any entry for such a person to the parent, legal guardian, or next of kin of that person (and the Attorney General may acquire, collect, classify, and preserve such information from such parent, guardian, or next of kin); and
+&emsp;(3) acquire, collect, classify, and preserve any information which would assist in the location of any missing person (including an unemancipated person as defined by the laws of the place of residence of such person) and provide confirmation as to any entry for such a person to the parent, legal guardian, or next of kin of that person (and the Attorney Generalmay acquire, collect, classify, and preserve such information from such parent, guardian, or next of kin); and
 
 &emsp;(4) exchange such records and information with, and for the official use of, authorized officials of the Federal Government, including the United States Sentencing Commission, the States, including State sentencing commissions, Indian tribes, cities, and penal and other institutions.
 
@@ -118,7 +118,7 @@ Pub. L. 114–255, div. B, title XIV, §14015, Dec. 13, 2016, 130 Stat. 1306, wh
 
 #### Access to National Crime Information Databases
 
-Pub. L. 111–211, title II, §233(b), July 29, 2010, 124 Stat. 2279, which requires the Attorney General to ensurethat tribal law enforcement officials that meet applicable Federal or State requirements be permitted access to national crime information databases, was editorially reclassified as section 41107 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 111–211, title II, §233(b), July 29, 2010, 124 Stat. 2279, which requires the Attorney General to ensure that tribal law enforcement officials that meet applicable Federal or State requirements be permitted access to national crime information databases, was editorially reclassified as section 41107 of Title 34, Crime Control and Law Enforcement.
 
 #### Additional Reporting on Crime
 
@@ -196,7 +196,7 @@ Pub. L. 100–690, title VII, §7332, Nov. 18, 1988, 102 Stat. 4468, known as th
 
 #### Family and Domestic Violence; Data Collection and Reporting
 
-Pub. L. 100–690, title VII, §7609, Nov. 18, 1988, 102 Stat. 4517, which required inclusion of certain data relating to the victim in uniform crime reports by the Attorney General and publication of domestic violence data by the Director of the Bureau of Justice Statistics, waseditorially reclassified as section 41304 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 100–690, title VII, §7609, Nov. 18, 1988, 102 Stat. 4517, which required inclusion of certain data relating to the victim in uniform crime reports by the Attorney General and publication of domestic violence data by the Director of the Bureau of Justice Statistics, was editorially reclassified as section 41304 of Title 34, Crime Control and Law Enforcement.
 
 #### Parimutuel Licensing Simplification
 

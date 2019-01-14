@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Assistant Secretary shall establish within the Transportation Security Administration an aviation security advisory committee.
+Establishment.—The Administrator shall establish within the Transportation Security Administration an aviation security advisory committee.
 
 (b)
 
@@ -10,7 +10,7 @@ Duties.—
 
 &emsp;(1)
 
-In general.—The Assistant Secretary shall consult the Advisory Committee, as appropriate, on aviation security matters, including on the development, refinement, and implementation of policies, programs, rulemaking, and security directives pertaining to aviation security, while adhering to sensitive security guidelines.
+In general.—The Administrator shall consult the Advisory Committee, as appropriate, on aviation security matters, including on the development, refinement, and implementation of policies, programs, rulemaking, and security directives pertaining to aviation security, while adhering to sensitive security guidelines.
 
 &emsp;(2)
 
@@ -18,35 +18,35 @@ Recommendations.—
 
 &emsp;&emsp;(A)
 
-In general.—The Advisory Committee shall develop, at the request of the Assistant Secretary, recommendations for improvements to aviation security.
+In general.—The Advisory Committee shall develop, at the request of the Administrator, recommendations for improvements to aviation security.
 
 &emsp;&emsp;(B)
 
-Recommendations of subcommittees.—Recommendations agreed upon by the subcommittees established under this section shall be approved by the Advisory Committee before transmission to the Assistant Secretary.
+Recommendations of subcommittees.—Recommendations agreed upon by the subcommittees established under this section shall be approved by the Advisory Committee before transmission to the Administrator.
 
 &emsp;(3)
 
-Periodic reports.—The Advisory Committee shall periodically submit to the Assistant Secretary—
+Periodic reports.—The Advisory Committee shall periodically submit to the Administrator—
 
-&emsp;&emsp;(A) reports on matters identified by the Assistant Secretary; and
+&emsp;&emsp;(A) reports on matters identified by the Administrator; and
 
 &emsp;&emsp;(B) reports on other matters identified by a majority of the members of the Advisory Committee.
 
 &emsp;(4)
 
-Annual report.—The Advisory Committee shall submit to the Assistant Secretary an annual report providing information on the activities, findings, and recommendations of the Advisory Committee, including its subcommittees, for the preceding year. Not later than 6 months after the date that the Secretary receives the annual report, the Secretary shall publish a public version describing the Advisory Committee's activities and such related matters as would be informative to the public consistent with the policy of section 552(b) of title 5.
+Annual report.—The Advisory Committee shall submit to the Administrator an annual report providing information on the activities, findings, and recommendations of the Advisory Committee, including its subcommittees, for the preceding year. Not later than 6 months after the date that the Administrator receives the annual report, the Administrator shall publish a public version describing the Advisory Committee's activities and such related matters as would be informative to the public consistent with the policy of section 552(b) of title 5.
 
 &emsp;(5)
 
-Feedback.—Not later than 90 days after receiving recommendations transmitted by the Advisory Committee under paragraph (2) or (4), the Assistant Secretary shall respond in writing to the Advisory Committee with feedback on each of the recommendations, an action plan to implement any of the recommendations with which the Assistant Secretary concurs, and a justification for why any of the recommendations have been rejected.
+Feedback.—Not later than 90 days after receiving recommendations transmitted by the Advisory Committee under paragraph (2) or (4), the Administrator shall respond in writing to the Advisory Committee with feedback on each of the recommendations, an action plan to implement any of the recommendations with which the Administrator concurs, and a justification for why any of the recommendations have been rejected.
 
 &emsp;(6)
 
-Congressional notification.—Not later than 30 days after providing written feedback to the Advisory Committee under paragraph (5), the Assistant Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives on such feedback, and provide a briefing upon request.
+Congressional notification.—Not later than 30 days after providing written feedback to the Advisory Committee under paragraph (5), the Administrator shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives on such feedback, and provide a briefing upon request.
 
 &emsp;(7)
 
-Report to congress.—Prior to briefing the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives under paragraph (6), the Assistant Secretary shall submit to such committees a report containing information relating to the recommendations transmitted by the Advisory Committee in accordance with paragraph (4).
+Report to congress.—Prior to briefing the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives under paragraph (6), the Administrator shall submit to such committees a report containing information relating to the recommendations transmitted by the Advisory Committee in accordance with paragraph (4).
 
 (c)
 
@@ -58,7 +58,7 @@ Appointment.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 180 days after the date of enactment of the Aviation Security Stakeholder Participation Act of 2014, the Assistant Secretary shall appoint the members of the Advisory Committee.
+In general.—The Administrator shall appoint the members of the Advisory Committee.
 
 &emsp;&emsp;(B)
 
@@ -78,7 +78,7 @@ Terms.—The term of each member of the Advisory Committee shall be two years, b
 
 &emsp;&emsp;(B)
 
-Removal.—The Assistant Secretary may review the participation of a member of the Advisory Committee and remove such member for cause at any time.
+Removal.—The Administrator may review the participation of a member of the Advisory Committee and remove such member for cause at any time.
 
 &emsp;(3)
 
@@ -90,7 +90,7 @@ Meetings.—
 
 &emsp;&emsp;(A)
 
-In general.—The Assistant Secretary shall require the Advisory Committee to meet at least semiannually and may convene additional meetings as necessary.
+In general.—The Administrator shall require the Advisory Committee to meet atleast semiannually and may convene additional meetings as necessary.
 
 &emsp;&emsp;(B)
 
@@ -102,7 +102,7 @@ Attendance.—The Advisory Committee shall maintain a record of the persons pres
 
 &emsp;(5)
 
-Member access to sensitive security information.—Not later than 60 days after the date of a member's appointment, the Assistant Secretary shall determine if there is cause for the member to be restricted from possessing sensitive security information. Without such cause, and upon the member voluntarily signing a non-disclosure agreement, the member may be granted access to sensitive security information that is relevant to the member's advisory duties. The member shall protect the sensitive security information in accordance with part 1520 of title 49, Code of Federal Regulations.
+Member access to sensitive security information.—Not later than 60 days after the date of a member's appointment, the Administrator shall determine if there is cause for the member to be restricted from possessing sensitive security information. Without such cause, and upon the member voluntarily signing a non-disclosure agreement, the member may be granted access to sensitive security information that is relevant to the member's advisory duties. The member shall protect the sensitive security information in accordance with part 1520 of title 49, Code of Federal Regulations.
 
 &emsp;(6)
 
@@ -114,7 +114,7 @@ Subcommittees.—
 
 &emsp;(1)
 
-Membership.—The Advisory Committee chairperson, in coordination with the Assistant Secretary, may establish within the Advisory Committee any subcommittee that the Assistant Secretary and Advisory Committee determine to be necessary. The Assistant Secretary and the Advisory Committee shall create subcommittees to address aviation security issues, including the following:
+Membership.—The Advisory Committee chairperson, in coordination with the Administrator, may establish within the Advisory Committee any subcommittee that the Administrator and Advisory Committee determine to be necessary. The Administrator and the Advisory Committee shall create subcommittees to address aviation security issues, including the following:
 
 &emsp;&emsp;(A)
 
@@ -134,7 +134,7 @@ Security technology.—Security technology standards and requirements, including
 
 &emsp;(2)
 
-Risk-based security.—All subcommittees established by the Advisory Committee chairperson in coordination with the Assistant Secretary shall consider risk-based security approaches in the performance of their functions that weigh the optimum balance of costs and benefits in transportation security, including for passenger screening, baggage screening, air cargo security policies, and general aviation security matters.
+Risk-based security.—All subcommittees established by the Advisory Committee chairperson in coordination with the Administrator shall consider risk-based security approaches in the performance of their functions that weigh the optimum balance of costs and benefits in transportation security, including for passenger screening, baggage screening, air cargo security policies, and general aviation security matters.
 
 &emsp;(3)
 
@@ -158,11 +158,11 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Advisory committee.—The term "Advisory Committee" means the aviation security advisory committee established under subsection (a).
+Administrator.—The term "Administrator" means the Administrator of the Transportation Security Administration.
 
 &emsp;(2)
 
-Assistant secretary.—The term "Assistant Secretary" means the Assistant Secretary of Homeland Security (Transportation Security Administration).
+Advisory committee.—The term "Advisory Committee" means the aviation security advisory committee established under subsection (a).
 
 &emsp;(3)
 
@@ -176,15 +176,21 @@ In general.—The term "perimeter security" means procedures or systems to monit
 
 Inclusions.—The term "perimeter security" includes the fence area surrounding an airport, access gates, and access controls.
 
-(Added Pub. L. 113–238, §2(a), Dec. 18, 2014, 128 Stat. 2842; amended Pub. L. 114–190, title III, §3411, July 15, 2016, 130 Stat. 662.)
+(Added Pub. L. 113–238, §2(a), Dec. 18, 2014, 128 Stat. 2842; amended Pub. L. 114–190, title III, §3411, July 15, 2016, 130 Stat. 662; Pub. L. 115–254, div. K, title I, §1991(d)(37), Oct. 5, 2018, 132 Stat. 3641.)
 
 #### References in Text
-
-The date of enactment of the Aviation Security Stakeholder Participation Act of 2014, referred to in subsec. (c)(1)(A), is the date of enactment of Pub. L. 113–238, which was approved Dec. 18, 2014.
 
 The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–254, §1991(d)(37)(B), substituted "Administrator" for "Assistant Secretary" wherever appearing.
+
+Subsec. (b)(4). Pub. L. 115–254, §1991(d)(37)(C), substituted "the Administrator receives" for "the Secretary receives" and "the Administrator shall" for "the Secretary shall".
+
+Subsec. (c)(1)(A). Pub. L. 115–254, §1991(d)(37)(D), substituted "The" for "Not later than 180 days after the date of enactment of the Aviation Security Stakeholder Participation Act of 2014, the".
+
+Subsec. (g). Pub. L. 115–254, §1991(d)(37)(A), added par. (1), redesignated former par. (1) as (2), and struck out former par. (2) which defined "Assistant Secretary".
 
 <b>2016</b>—Subsec. (b)(5). Pub. L. 114–190, §3411(b), substituted "paragraph (2) or (4)" for "paragraph (4)".
 

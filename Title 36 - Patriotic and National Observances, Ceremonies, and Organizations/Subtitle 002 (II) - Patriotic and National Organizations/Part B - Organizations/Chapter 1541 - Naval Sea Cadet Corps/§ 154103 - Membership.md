@@ -1,6 +1,6 @@
 ### §154103. Membership
 
-Except as provided in this chapter, eligibility for membership in the corporation and the rights, privileges, and designation of classes of members are as provided in the constitution and bylaws of the corporation.
+Except as provided in this chapter, eligibility for membership in the corporation and the rights, privileges, and designation of classes ofmembers are as provided in the constitution and bylaws of the corporation.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1432.)
 

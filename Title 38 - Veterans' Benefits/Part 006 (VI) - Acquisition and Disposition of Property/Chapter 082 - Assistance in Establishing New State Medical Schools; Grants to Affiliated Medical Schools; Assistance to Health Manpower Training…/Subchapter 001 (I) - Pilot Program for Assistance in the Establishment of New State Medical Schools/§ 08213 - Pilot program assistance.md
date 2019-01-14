@@ -26,7 +26,7 @@
 
 &emsp;(B) the overall plans for the school meet such professional and other standards as the Secretary deems appropriate;
 
-&emsp;(C) the school will maintain such arrangements with the Department medical facility with which it is associated (including but not limited to such arrangements as may be made under subchapter IV of chapter 81 of this title) as will be mutually beneficial in the carrying out of the mission of the medical facility and the school; and
+&emsp;(C) the school will maintain such arrangements with the Department medical facility with which it is associated (including but not limited to such arrangements as may be madeunder subchapter IV of chapter 81 of this title) as will be mutually beneficial in the carrying out of the mission of the medical facility and the school; and
 
 &emsp;(D) on the basis of consultation with the appropriate accreditation body or bodies approved for such purpose by the Secretary of Education, there is reasonable assurance that, with the aid of an agreement under subsection (a) of this section, such school will meet the accreditation standards of such body or bodies within a reasonable time.
 

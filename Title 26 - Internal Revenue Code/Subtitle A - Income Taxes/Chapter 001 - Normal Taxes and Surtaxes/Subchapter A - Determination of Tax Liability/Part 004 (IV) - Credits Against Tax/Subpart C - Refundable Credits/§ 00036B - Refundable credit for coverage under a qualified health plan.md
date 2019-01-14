@@ -55,7 +55,7 @@ For purposes of this section—
 
 #### (III) Failsafe
 
-&emsp;&emsp;&emsp;&emsp;Subclause (II) shall apply for any calendar year only if the aggregate amount of premium tax credits under this section and cost-sharing reductions under section 1402 of the Patient Protection and Affordable Care Act for the preceding calendar year exceeds an amount equal to 0.504 percent of the gross domestic product for the preceding calendar year.
+&emsp;&emsp;&emsp;&emsp;Subclause (II) shall apply for any calendar year only if the aggregate amountof premium tax credits under this section and cost-sharing reductions under section 1402 of the Patient Protection and Affordable Care Act for the preceding calendar year exceeds an amount equal to 0.504 percent of the gross domestic product for the preceding calendar year.
 
 #### (B) Applicable second lowest cost silver plan
 
@@ -77,7 +77,7 @@ For purposes of this section—
 
 #### (C) Adjusted monthly premium
 
-&emsp;&emsp;The adjusted monthly premium for an applicable second lowest cost silver plan is the monthly premium which would have been charged (for the rating area with respect to which the premiums under paragraph (2)(A) were determined) for the plan if each individual covered under a qualified health plan taken into account under paragraph (2)(A) were covered by such silver plan and the premium was adjusted only for the age of each such individual in the manner allowed under section 2701 of the Public Health Service Act. In the case of a State participating in the wellness discount demonstration projectunder section 2705(d) of the Public Health Service Act, the adjusted monthly premium shall be determined without regard to any premium discount or rebate under such project.
+&emsp;&emsp;The adjusted monthly premium for an applicable second lowest cost silver plan is the monthly premium which would have been charged (for the rating area with respect to which the premiums under paragraph (2)(A) were determined) for the plan if each individual covered under a qualified health plan taken into account under paragraph (2)(A) were covered by such silver plan and the premium was adjusted only for the age of each such individual in the manner allowed under section 2701 of the Public Health Service Act. In the case of a State participating in the wellness discount demonstration project under section 2705(d) of the Public Health Service Act, the adjusted monthly premium shall be determined without regard to any premium discount or rebate under such project.
 
 #### (D) Additional benefits
 
@@ -153,7 +153,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) consists of an eligible employer-sponsored plan (as defined in section 5000A(f)(2)), and
 
-&emsp;&emsp;&emsp;&emsp;(II) the employee's required contribution (within the meaning of section 5000A(e)(1)(B)) with respect to the planexceeds 9.5 percent of the applicable taxpayer's household income.
+&emsp;&emsp;&emsp;&emsp;(II) the employee's required contribution (within the meaning of section 5000A(e)(1)(B)) with respect to the plan exceeds 9.5 percent of the applicable taxpayer's household income.
 
 &emsp;&emsp;&nbsp;This clause shall also apply to an individual who is eligible to enroll in the plan by reason of a relationship the individual bears to the employee.
 
@@ -283,7 +283,7 @@ For purposes of this section—
 
 #### (3) Secretarial authority
 
-&emsp;The Secretary of Health and Human Services, in consultation with the Secretary, shall prescribe rules setting forth the methods by which calculations of family size and household income are made for purposes of this subsection. Such rules shall be designed to ensure that the least burden is placed on individuals enrolling in qualified health plans through an Exchange and taxpayers eligible for the credit allowable under this section.
+&emsp;The Secretary of Health and Human Services, in consultation with the Secretary, shall prescribe rules setting forth the methods by which calculations of family size and household income are made for purposes of this subsection. Such rules shall be designed to ensurethat the least burden is placed on individuals enrolling in qualified health plans through an Exchange and taxpayers eligible for the credit allowable under this section.
 
 #### (f) Reconciliation of credit and advance credit
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority and Fees.—Subject to subsection (b), the Administrator of the Federal Aviation Administration shall establish and collect a fee for each of the following services and activities of the Administration that does not exceed the estimated costs of the service or activity:
+General Authority and Fees.—Subject to subsection (c), the Administrator of the Federal Aviation Administration shall establish and collect a fee for each of the following services and activities of the Administration that does not exceed the estimated costs of the service or activity:
 
 &emsp;(1) Registering an aircraft.
 
@@ -28,9 +28,17 @@ General Authority and Fees.—Subject to subsection (b), the Administrator of th
 
 (b)
 
-Limitation on Collection.—No fee may be collected under this section unless the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act.
+Certification Services.—Subject to subsection (c), and notwithstanding section 45301(a), the Administrator may establish and collect a fee from a foreign government or entity for services related to certification, regardless of where the services are provided, if the fee—
+
+&emsp;(1) is established and collected in a manner consistent with aviation safety agreements; and
+
+&emsp;(2) does not exceed the estimated costs of the services.
 
 (c)
+
+Limitation on Collection.—No fee may be collected under this section unless the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act.
+
+(d)
 
 Fees Credited as Offsetting Collections.—
 
@@ -52,5 +60,11 @@ Continuing appropriations.—The Administrator may continue to assess, collect, 
 
 Adjustments.—The Administrator shall adjust a fee established under subsection (a) for a service or activity if the Administrator determines that the actual cost of the service or activity is higher or lower than was indicated by the cost data used to establish such fee.
 
-(Added Pub. L. 112–95, title I, §122(a), Feb. 14, 2012, 126 Stat. 19.)
+(Added Pub. L. 112–95, title I, §122(a), Feb. 14, 2012, 126 Stat. 19; amended Pub. L. 115–254, div. B, title II, §244, Oct. 5, 2018, 132 Stat. 3260.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–254, §244(1), substituted "Subject to subsection (c)" for "Subject to subsection (b)" in introductory provisions.
+
+Subsecs. (b) to (d). Pub. L. 115–254, §244(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 

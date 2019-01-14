@@ -6,7 +6,7 @@ The Secretary shall conduct all land management activities on Indian agricultura
 
 #### (b) Tribal laws
 
-Unless otherwise prohibited by Federal law, the Secretary shall comply with tribal laws and ordinances pertaining to Indian agricultural lands, including laws regulating the environment and historic or cultural preservation, andlaws or ordinances adopted by the tribal government to regulate land use or other activities under tribal jurisdiction. The Secretary shall—
+Unless otherwise prohibited by Federal law, the Secretary shall comply with tribal laws and ordinances pertaining to Indian agricultural lands, including laws regulating the environment and historic or cultural preservation, and laws or ordinances adopted by the tribal government to regulate land use or other activities under tribal jurisdiction. The Secretary shall—
 
 &emsp;(1) provide assistance in the enforcement of such tribal laws;
 

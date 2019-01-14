@@ -246,7 +246,7 @@ Section 14012 of title 42, referred to in subsec. (d), was omitted from the Code
 
 Section 40601, referred to in subsec. (d), is section 40601 of Pub. L. 103–322, 108 Stat. 1950, which amended section 534 of Title 28, Judiciary and Judicial Procedure, and enacted provisions set out as a note under section 534 of Title 28.
 
-Section 12621 of this title, referred to in subsec. (d), was in the original "section 24001" and was translatedas reading "section 240001", meaning section 240001 of Pub. L. 103–322, to reflect the probable intent of Congress, because Pub. L. 103–322 does not contain a section 24001.
+Section 12621 of this title, referred to in subsec. (d), was in the original "section 24001" and was translated as reading "section 240001", meaning section 240001 of Pub. L. 103–322, to reflect the probable intent of Congress, because Pub. L. 103–322 does not contain a section 24001.
 
 #### Codification
 

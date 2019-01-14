@@ -17,8 +17,7 @@
 | [561\.](%C2%A7%2000561%20-%20Records%20and%20papers%20and%20furniture%20transferred%20to%20Department.md) | Records and papers and furniture transferred to Department. |
 | [562\.](%C2%A7%2000562%20-%20Laws%20operative.md) | Laws operative. |
 | [563\.](%C2%A7%2000563%20-%20Working%20capital%20fund%3B%20establishment%3B%20availability%3B%20capitalization%3B%20reimbursement.md) | Working capital fund; establishment; availability; capitalization; reimbursement. |
-| [563a.](%C2%A7%2000563a%20-%20Working%20capital%20fund%3B%20comprehensive%20program%20of%20centralized%20services.md) | Working capital fund; comprehensive program of centralized services. |
-| [564\.](%C2%A7%2000564%20-%20Working%20capital%20fund%3B%20availability%20for%20personnel%20functions%20in%20regional%20administrative%20offices.md) | Working capital fund; availability for personnel functions in regional administrative offices. |
+| 563a, 564. | Repealed. |
 | [565\.](%C2%A7%2000565%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93382%2C%20title%20III%2C%20%C2%A7391%28i%29%2C%20Oct.%2020%2C%201994%2C%20108%20Stat.%204023.md) | Repealed. |
 | [566\.](%C2%A7%2000566%20-%20Employee%20drug%20and%20alcohol%20abuse%20assistance%20programs.md) | Employee drug and alcohol abuse assistance programs. |
 | [567\.](%C2%A7%2000567%20-%20Labor-management%20dispute%20settlement%20expenses.md) | Labor-management dispute settlement expenses. |
@@ -46,8 +45,8 @@
 - [&sect; 00561 - Records and papers and furniture transferred to Department](%C2%A7%2000561%20-%20Records%20and%20papers%20and%20furniture%20transferred%20to%20Department.md)
 - [&sect; 00562 - Laws operative](%C2%A7%2000562%20-%20Laws%20operative.md)
 - [&sect; 00563 - Working capital fund; establishment; availability; capitalization; reimbursement](%C2%A7%2000563%20-%20Working%20capital%20fund%3B%20establishment%3B%20availability%3B%20capitalization%3B%20reimbursement.md)
-- [&sect; 00563a - Working capital fund; comprehensive program of centralized services](%C2%A7%2000563a%20-%20Working%20capital%20fund%3B%20comprehensive%20program%20of%20centralized%20services.md)
-- [&sect; 00564 - Working capital fund; availability for personnel functions in regional administrative offices](%C2%A7%2000564%20-%20Working%20capital%20fund%3B%20availability%20for%20personnel%20functions%20in%20regional%20administrative%20offices.md)
+- [&sect; 00563a - Repealed. Pub. L. 115&#8211;245, div. B, title I, &sect;117(b)(2), Sept. 28, 2018, 132 Stat. 3067](%C2%A7%2000563a%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93245%2C%20div.%20B%2C%20title%20I%2C%20%C2%A7117%28b%29%282%29%2C%20Sept.%2028%2C%202018%2C%20132%20Stat.%203067.md)
+- [&sect; 00564 - Repealed. Pub. L. 115&#8211;245, div. B, title I, &sect;117(b)(1), Sept. 28, 2018, 132 Stat. 3067](%C2%A7%2000564%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93245%2C%20div.%20B%2C%20title%20I%2C%20%C2%A7117%28b%29%281%29%2C%20Sept.%2028%2C%202018%2C%20132%20Stat.%203067.md)
 - [&sect; 00565 - Repealed. Pub. L. 103&#8211;382, title III, &sect;391(i), Oct. 20, 1994, 108 Stat. 4023](%C2%A7%2000565%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93382%2C%20title%20III%2C%20%C2%A7391%28i%29%2C%20Oct.%2020%2C%201994%2C%20108%20Stat.%204023.md)
 - [&sect; 00566 - Employee drug and alcohol abuse assistance programs](%C2%A7%2000566%20-%20Employee%20drug%20and%20alcohol%20abuse%20assistance%20programs.md)
 - [&sect; 00567 - Labor-management dispute settlement expenses](%C2%A7%2000567%20-%20Labor-management%20dispute%20settlement%20expenses.md)

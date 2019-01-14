@@ -16,7 +16,7 @@ For purposes of this section, "clean coal technology" means any technology, incl
 
 #### (3) Permanent projects
 
-&emsp;For permanent clean coal technology demonstration projects that constitute repowering as defined in section 7651a(l) <sup>1</sup> of this title, any qualifying project shall not be subject to standards of performance under section 7411 of this title or to the review and permitting requirements of part C <sup>2</sup> for any pollutant the potential emissions of which will not increase as a result of the demonstration project.
+&emsp;For permanent clean coal technology demonstration projects that constitute repowering as defined in section 7651a(l) <sup>1</sup> of this title, any qualifying project shall not be subject to standards of performance under section 7411 ofthis title or to the review and permitting requirements of part C <sup>2</sup> for any pollutant the potential emissions of which will not increase as a result of the demonstration project.
 
 #### (4) EPA regulations
 
@@ -24,7 +24,7 @@ For purposes of this section, "clean coal technology" means any technology, incl
 
 #### (c) Exemption for reactivation of very clean units
 
-Physical changes or changes in the method of operation associated with the commencement of commercial operations by a coal-fired utilityunit after a period of discontinued operation shall not subject the unit to the requirements of section 7411 of this title or part C of the Act <sup>2</sup> where the unit (1) has not been in operation for the two-year period prior to the enactment of the Clean Air Act Amendments of 1990 \[November 15, 1990\], and the emissions from such unit continue to be carried in the permitting authority's emissions inventory at the time of enactment, (2) was equipped prior to shut-down with a continuous system of emissions control that achieves a removal efficiency for sulfur dioxide of no less than 85 percent and a removal efficiency for particulates of no less than 98 percent, (3) is equipped with low-NO<sub>x</sub> burners prior to the time of commencement, and (4) is otherwise in compliance with the requirements of this chapter.
+Physical changes or changes in the method of operation associated with the commencement of commercial operations by a coal-fired utility unit after a period of discontinued operation shall not subject the unit to the requirements of section 7411 of this title or part C of the Act <sup>2</sup> where the unit (1) has not been in operation for the two-year period prior to the enactment of the Clean Air Act Amendments of 1990 \[November 15, 1990\], and the emissions from such unit continue to be carried in the permitting authority's emissions inventory at the time of enactment, (2) was equipped prior to shut-down with a continuous system of emissions control that achieves a removal efficiency for sulfur dioxide of no less than 85 percent and a removal efficiency for particulates of no less than 98 percent, (3) is equipped with low-NO<sub>x</sub> burners prior to the time of commencement, and (4) is otherwise in compliance with the requirements of this chapter.
 
 (July 14, 1955, ch. 360, title IV, §415, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2625.)
 

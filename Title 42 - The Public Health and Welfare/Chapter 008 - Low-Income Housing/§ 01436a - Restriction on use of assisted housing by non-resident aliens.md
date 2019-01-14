@@ -64,7 +64,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 > &emsp;In the case of an individual applying for financial assistance on or after September 30, 1996, the applicable Secretary may not provide any such assistance for the benefit of that individual before documentation is presented and verified under paragraph (3) or (4).
 
-&emsp;(3) If the documentation described in paragraph (2)(A) is presented, the applicable Secretary shall utilize the individual's alien file or alien admission number to verify with the Immigration and Naturalization Service the individual's immigration status through an automated or other system (designated by the Service for use with States) that—
+&emsp;(3) If the documentation described in paragraph (2)(A) is presented, the applicable Secretary shall utilize the individual's alien file or alien admission number to verify with the Immigration and Naturalization Service theindividual's immigration status through an automated or other system (designated by the Service for use with States) that—
 
 &emsp;&emsp;(A) utilizes the individual's name, file number, admission number, or other means permitting efficient verification, and
 
@@ -112,7 +112,7 @@ The applicable Secretary shall not take any compliance, disallowance, penalty, o
 
 &emsp;(2) because the entity, under subsection (d)(4)(A)(ii) (or under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 (Public Law 99–603)), was required to provide a reasonable opportunity to submit documentation, or
 
-&emsp;(3) because the entity, under subsection (d)(4)(B)(ii) (or under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 (Public Law 99–603)), was required to wait for the response of the Immigration and Naturalization Service to the entity's request for official verification of the immigration status of the individual, or the response from the Immigration and Naturalization Service to the appeal of that individual.
+&emsp;(3) because the entity, under subsection (d)(4)(B)(ii) (or under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 (Public Law 99–603)), was required to wait for the response of the Immigration and Naturalization Service to the entity's request for official verification of the immigration status of the individual, or the responsefrom the Immigration and Naturalization Service to the appeal of that individual.
 
 #### (f) Verification system; liability of State or local government agencies or officials; prior consent agreements, court decrees or court orders unaffected
 
@@ -174,7 +174,7 @@ Section was enacted as part of the Housing and Community Development Act of 1980
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a)(7). Pub. L. 114–201 substituted "any citizen or national of the United States shall be entitled to a preference or priority in receiving financial assistance before any such alien who is otherwise eligible for assistance." for "such alien shall not be entitled to a preference in receiving assistance under this Act over any United States citizen or national resident therein who is otherwise eligible for such assistance."
+<b>2016</b>—Subsec. (a)(7). Pub. L. 114–201 substituted "any citizen or national of the United States shall be entitled to a preference or priority in receiving financial assistance before any such alien who is otherwise eligible for assistance." for "such alien shall not be entitledto a preference in receiving assistance under this Act over any United States citizen or national resident therein who is otherwise eligible for such assistance."
 
 <b>2000</b>—Subsec. (a)(7). Pub. L. 106–504 added par. (7).
 
@@ -208,7 +208,7 @@ Subsec. (a)(5). Pub. L. 104–208, §308(g)(7)(D)(ii), substituted "section 1231
 
 Subsec. (b). Pub. L. 104–208, §572, designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 104–193, §441(a)(2), inserted "the direct loan program under section 1472 of this title or section1472(c)(5)(D), 1474, 1490a(a)(2)(A), or 1490r of this title, subtitle A of title III of the Cranston-Gonzalez National Affordable Housing Act," after "1715z–1 of title 12,".
+Pub. L. 104–193, §441(a)(2), inserted "the direct loan program under section 1472 of this title or section 1472(c)(5)(D), 1474, 1490a(a)(2)(A), or 1490r of this title, subtitle A of title III of the Cranston-Gonzalez National Affordable Housing Act," after "1715z–1 of title 12,".
 
 Subsec. (c). Pub. L. 104–193, §441(a)(1), substituted "applicable Secretary" for "Secretary of Housing and Urban Development" in two places.
 
@@ -256,7 +256,7 @@ Subsec. (e). Pub. L. 104–193, §441(a)(1), substituted "applicable Secretary" 
 
 Subsec. (e)(3). Pub. L. 104–208, §575(2), inserted at end "the response from the Immigration and Naturalization Service to the appeal of that individual."
 
-Subsec. (e)(4). Pub. L. 104–208, §575(1), (3), struck out par. (4) which read as follows: "because of a fair hearing process described in subsection (d)(5)(B) of this section (or provided for under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 (Public Law 99–603))."
+Subsec. (e)(4). Pub. L. 104–208, §575(1), (3), struck out par. (4) which read as follows: "because of a fair hearingprocess described in subsection (d)(5)(B) of this section (or provided for under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 (Public Law 99–603))."
 
 Subsec. (g). Pub. L. 104–193, §441(a)(1), substituted "applicable Secretary" for "Secretary of Housing and Urban Development".
 
@@ -346,7 +346,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Transitional Certification and Documentation Provisions
 
-Pub. L. 100–242, title I, §164(g), Feb. 5, 1988, 101 Stat. 1863, provided that: "In carrying out section 214 of the Housing and Community Development Act of 1980 \[this section\] during fiscal year 1988, the Secretary of Housing and Urban Development shall require, as a condition of providing financial assistance for the benefit of any individual, that such individual—
+Pub. L. 100–242, title I, §164(g), Feb. 5, 1988, 101 Stat. 1863, provided that: "In carrying out section 214 of theHousing and Community Development Act of 1980 \[this section\] during fiscal year 1988, the Secretary of Housing and Urban Development shall require, as a condition of providing financial assistance for the benefit of any individual, that such individual—
 
 &emsp;"(1) declare in writing, under penalty of perjury, whether or not such individual is a citizen or national of the United States; and
 

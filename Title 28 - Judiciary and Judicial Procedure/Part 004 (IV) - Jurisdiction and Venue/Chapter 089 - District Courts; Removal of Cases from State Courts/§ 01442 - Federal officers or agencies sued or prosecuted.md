@@ -10,7 +10,7 @@
 
 &emsp;(4) Any officer of either House of Congress, for or relating to any act in the discharge of his official duty under an order of such House.
 
-(b) A personal action commenced in any State court by an alien against any citizen of a State who is, or at the time the alleged action accrued was, a civil officer of the United States and is a nonresident of such State, wherein jurisdiction is obtained by the State court by personal service of process, may be removed by the defendant to the district court of the United States for the district and division in which the defendant was served with process.
+(b) A personal action commenced in any State court by an alien against any citizen of a Statewho is, or at the time the alleged action accrued was, a civil officer of the United States and is a nonresident of such State, wherein jurisdiction is obtained by the State court by personal service of process, may be removed by the defendant to the district court of the United States for the district and division in which the defendant was served with process.
 
 (c) Solely for purposes of determining the propriety of removal under subsection (a), a law enforcement officer, who is the defendant in a criminal prosecution, shall be deemed to have been acting under the color of his office if the officer—
 
@@ -42,7 +42,7 @@ Based on title 28, U.S.C., 1940 ed., §§76 and 77 (Mar. 3, 1911, ch. 231, §§3
 
 Section consolidates sections 76 and 77 of title 28, U.S.C., 1940 ed.
 
-The revised subsection (a)(1) is extended to apply to all officers and employees of the United States or any agency thereof. Section 76 of title 28, U.S.C., 1940 ed.,was limited to revenue officers engaged in the enforcement of the criminal or revenue laws.
+The revised subsection (a)(1) is extended to apply to all officers and employees of the United States or any agency thereof. Section 76 of title 28, U.S.C., 1940 ed., was limited to revenue officers engaged in the enforcement of the criminal or revenue laws.
 
 The procedural provisions of section 76 of title 28, U.S.C., 1940 ed., are incorporated in sections 1446 and 1447 of this title. (See reviser's notes under those sections.)
 

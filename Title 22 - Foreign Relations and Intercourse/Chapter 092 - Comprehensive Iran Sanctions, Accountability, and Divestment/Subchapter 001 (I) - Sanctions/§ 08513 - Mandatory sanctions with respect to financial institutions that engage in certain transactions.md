@@ -12,7 +12,7 @@ Congress makes the following findings:
 
 &emsp;(4) The Financial Action Task Force has repeatedly called on members—
 
-&emsp;&emsp;(A) to advise financial institutions in their jurisdictions to give special attention tobusiness relationships and transactions with Iran, including Iranian companies and financial institutions;
+&emsp;&emsp;(A) to advise financial institutions in their jurisdictions to give special attention to business relationships and transactions with Iran, including Iranian companies and financial institutions;
 
 &emsp;&emsp;(B) to apply effective countermeasures to protect their financial sectors from risks relating to money laundering and financing of terrorism that emanate from Iran;
 
@@ -88,7 +88,7 @@ Congress—
 
 #### (i) Application of sanctions
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), if the Secretary of the Treasury determines thatthe NIOC or the NITC is a person described in clause (i) or (ii) of paragraph (2)(E), the regulations prescribed under paragraph (1) shall apply with respect to a significant transaction or transactions or significant financial services knowingly facilitated or provided by a foreign financial institution for the NIOC or the NITC, as applicable, for the purchase of petroleum or petroleum products from Iran, only if a determination of the President under section 8513a(d)(4)(B) of this title that there is a sufficient supply of petroleum and petroleum products produced in countries other than Iran to permit purchasers of petroleum and petroleum products from Iran to reduce significantly their purchases from Iran is in effect at the time of the transaction or the provision of the service.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), if the Secretary of the Treasury determines that the NIOC or the NITC is a person described in clause (i) or (ii) of paragraph (2)(E), the regulations prescribed under paragraph (1) shall apply with respect to a significant transaction or transactions or significant financial services knowingly facilitated or provided by a foreign financial institution for the NIOC or the NITC, as applicable, for the purchase of petroleum or petroleum products from Iran, only if a determination of the President under section 8513a(d)(4)(B) of this title that there is a sufficient supply of petroleum and petroleum products produced in countries other than Iran to permit purchasers of petroleum and petroleum products from Iran to reduce significantly their purchases from Iran is in effect at the time of the transaction or the provision of the service.
 
 #### (ii) Exception for certain countries
 
@@ -188,7 +188,7 @@ In implementing this section and the regulations prescribed under this section, 
 
 #### (D) Foreign financial institution; domestic financial institution
 
-&emsp;&emsp;The terms "foreign financial institution" and "domestic financial institution" shall have the meanings of those terms as determined by the Secretary of the Treasury.
+&emsp;&emsp;The terms "foreign financial institution" and "domestic financial institution" shallhave the meanings of those terms as determined by the Secretary of the Treasury.
 
 #### (E) Money laundering
 

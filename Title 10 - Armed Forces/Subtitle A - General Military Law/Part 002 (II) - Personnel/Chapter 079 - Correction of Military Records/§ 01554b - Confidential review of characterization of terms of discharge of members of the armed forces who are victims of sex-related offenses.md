@@ -6,7 +6,7 @@ Confidential Review Process Through Boards for Correction of Military Records.�
 
 (b)
 
-Consideration of Individual Experiences in Connection With Offenses.—In deciding whether to modify the terms or characterization of the discharge or separation from the armed forces of an individual described in subsection (a), the Secretary of the military department concerned shall instruct boards of the military department concerned established in accordance with this chapter—
+Consideration of Individual Experiences in Connection With Offenses.—In deciding whether to modify the terms or characterizationof the discharge or separation from the armed forces of an individual described in subsection (a), the Secretary of the military department concerned shall instruct boards of the military department concerned established in accordance with this chapter—
 
 &emsp;(1) to give due consideration to the psychological and physical aspects of the individual's experience in connection with the sex-related offense; and
 
@@ -30,7 +30,7 @@ Sex-related Offense Defined.—In this section, the term "sex-related offense" m
 
 #### Codification
 
-Text of section, as added by Pub. L. 115–91, is based on text of Pub. L. 113–291, div. A, title V, §547, Dec. 19,2014, 128 Stat. 3375, which was formerly set out in a note under section 1553 of this title before being transferred to this chapter and designated as the text of this section.
+Text of section, as added by Pub. L. 115–91, is based on text of Pub. L. 113–291, div. A, title V, §547, Dec. 19, 2014, 128 Stat. 3375, which was formerly set out in a note under section 1553 of this title before being transferred to this chapter and designated as the text of this section.
 
 #### Amendments
 

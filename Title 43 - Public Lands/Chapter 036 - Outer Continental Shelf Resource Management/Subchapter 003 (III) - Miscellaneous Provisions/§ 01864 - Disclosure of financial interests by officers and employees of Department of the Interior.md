@@ -42,7 +42,7 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (a)(1), (2), is ac
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (b)(2) of this section relating to the requirement that the Secretary of the Interior report to Congress on June 1 of each calendar year, see section 3003 of Pub. L. 104–66, as amended, set out as a note undersection 1113 of Title 31, Money and Finance, and the 16th item on page 111 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (b)(2) of this section relating to the requirement that the Secretary of the Interior report to Congress on June 1 of each calendar year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 16th item on page 111 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "preceding".</i>
 

@@ -114,7 +114,7 @@ Subsecs. (g) to (i). Pub. L. 115–55, §2(d)(1), redesignated subsecs. (e) to (
 
 "(3) Whenever the Secretary attempts to obtain records from a Federal department or agency under this subsection or subsection (c), the efforts to obtain those records shall continue until the records are obtained unless it is reasonably certain that such records do not exist or that further efforts to obtain those records would be futile."
 
-Subsec. (c). Pub. L. 112–154, §505(b), amended subsec. (c) generally. Prior to amendment, text read as follows:"In the case of a claim for disability compensation, the assistance provided by the Secretary under subsection (b) shall include obtaining the following records if relevant to the claim:
+Subsec. (c). Pub. L. 112–154, §505(b), amended subsec. (c) generally. Prior to amendment, text read as follows: "In the case of a claim for disability compensation, the assistance provided by the Secretary under subsection (b) shall include obtaining the following records if relevant to the claim:
 
 &emsp;"(1) The claimant's service medical records and, if the claimant has furnished the Secretary information sufficient to locate such records, other relevant records pertaining to the claimant's active military, naval, or air service that are held or maintained by a governmental entity.
 

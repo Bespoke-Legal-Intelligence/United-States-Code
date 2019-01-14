@@ -6,7 +6,7 @@ Nothing in this chapter shall deprive any person of any existing valid right of 
 
 #### (b) Administration of lands
 
-Subject to the provisions of subsection (a) of this section, the property conveyed by thischapter shall hereafter be administered in accordance with the laws and regulations applicable to property held in trust by the United States for Indian tribes, including but not limited to sections 396a to 396g of this title.
+Subject to the provisions of subsection (a) of this section, the property conveyed by this chapter shall hereafter be administered in accordance with the laws and regulations applicable to property held in trust by the United States for Indian tribes, including but not limited to sections 396a to 396g of this title.
 
 (Pub. L. 94–114, §4, Oct. 17, 1975, 89 Stat. 578.)
 

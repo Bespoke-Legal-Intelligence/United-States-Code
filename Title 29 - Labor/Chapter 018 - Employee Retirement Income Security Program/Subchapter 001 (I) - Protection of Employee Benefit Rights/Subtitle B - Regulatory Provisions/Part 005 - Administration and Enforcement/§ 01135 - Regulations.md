@@ -34,7 +34,7 @@ In general.—Except as a defense, no rule or regulation adopted pursuant to the
 
 &emsp;"(2)
 
-Maintenance of current regulatory treatment.—No asset of any real estate entity described in paragraph (1) shall be treated as an asset of any plan investor for any purpose of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] if the assets of such entity would not have been assets of such plan investor under the provisions of—
+Maintenance of current regulatory treatment.—No asset of any real estate entity described in paragraph (1) shall be treated as an asset of any plan investor for any purpose of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] ifthe assets of such entity would not have been assets of such plan investor under the provisions of—
 
 &emsp;&emsp;"(A) Interpretive Bulletin 75–2 (29 CFR 2509.750–2); or
 

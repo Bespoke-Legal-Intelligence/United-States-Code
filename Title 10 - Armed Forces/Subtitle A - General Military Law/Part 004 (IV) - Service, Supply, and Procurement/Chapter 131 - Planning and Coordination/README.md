@@ -36,10 +36,13 @@
 | [2228\.](%C2%A7%2002228%20-%20Office%20of%20Corrosion%20Policy%20and%20Oversight.md) | Office of Corrosion Policy and Oversight. |
 | [2229\.](%C2%A7%2002229%20-%20Strategic%20policy%20on%20prepositioning%20of%20materiel%20and%20equipment.md) | Strategic policy on prepositioning of materiel and equipment. |
 | [2229a.](%C2%A7%2002229a%20-%20Annual%20report%20on%20prepositioned%20materiel%20and%20equipment.md) | Annual report on prepositioned materiel and equipment. |
+| [2229b.](%C2%A7%2002229b%20-%20Comptroller%20General%20assessment%20of%20acquisition%20programs%20and%20initiatives.md) | Comptroller General assessment of acquisition programs and related initiatives.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §833(b), Aug. 13, 2018, 132 Stat. 1859, added item 2229b.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title X, §1081(c)(4), Dec. 23, 2016, 130 Stat. 2419, made technical correction to directory language of Pub. L. 114–92, §883(a)(2). See 2015 Amendment note below.
 
@@ -131,6 +134,8 @@ Matters covered.—Such plan shall include, at a minimum, detailed descriptions 
 
 Report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of this section and a copy of the strategic management plan required by subsection (d)."
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
@@ -170,3 +175,4 @@ Report.—Not later than 180 days after the date of the enactment of this Act \[
 - [&sect; 02228 - Office of Corrosion Policy and Oversight](%C2%A7%2002228%20-%20Office%20of%20Corrosion%20Policy%20and%20Oversight.md)
 - [&sect; 02229 - Strategic policy on prepositioning of materiel and equipment](%C2%A7%2002229%20-%20Strategic%20policy%20on%20prepositioning%20of%20materiel%20and%20equipment.md)
 - [&sect; 02229a - Annual report on prepositioned materiel and equipment](%C2%A7%2002229a%20-%20Annual%20report%20on%20prepositioned%20materiel%20and%20equipment.md)
+- [&sect; 02229b - Comptroller General assessment of acquisition programs and initiatives](%C2%A7%2002229b%20-%20Comptroller%20General%20assessment%20of%20acquisition%20programs%20and%20initiatives.md)

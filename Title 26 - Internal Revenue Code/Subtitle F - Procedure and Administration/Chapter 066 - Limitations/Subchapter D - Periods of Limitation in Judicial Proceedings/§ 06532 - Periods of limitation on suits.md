@@ -20,11 +20,11 @@
 
 #### (5) Cross reference
 
-&emsp;&emsp;<b>For substitution of 120-day period for the 6-month period contained in paragraph (1) in a title 11 case, see section 505(a)(2) of title 11 of the United States Code.</b>
+&emsp;&emsp;<b>For substitution of 120-day period for the 6-month period contained in paragraph (1) in a title 11 case,</b><b>see section 505(a)(2) of title 11 of the United States Code.</b>
 
 #### (b) Suits by United States for recovery of erroneous refunds
 
-Recovery of an erroneous refund by suit under section 7405 shall be allowed only if such suit isbegun within 2 years after the making of such refund, except that such suit may be brought at any time within 5 years from the making of the refund if it appears that any part of the refund was induced by fraud or misrepresentation of a material fact.
+Recovery of an erroneous refund by suit under section 7405 shall be allowed only if such suit is begun within 2 years after the making of such refund, except that such suit may be brought at any time within 5 years from the making of the refund if it appears that any part of the refund was induced by fraud or misrepresentation of a material fact.
 
 #### (c) Suits by persons other than taxpayers
 

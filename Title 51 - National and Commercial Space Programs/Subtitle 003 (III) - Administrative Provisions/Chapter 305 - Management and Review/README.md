@@ -21,7 +21,7 @@ Assessment.—The Administrator \[of NASA\] shall enter into an arrangement for 
 
 &emsp;"(2) opportunities for augmenting the impact of space science and engineering workforce development activities and for expanding proven, effective programs; and
 
-&emsp;"(3) best practices and lessons learned, as identified through the assessment, to help maximize the effectiveness of existing and future programs to increase the participation of minority and underrepresentedgroups in the space science and engineering workforce at NASA.
+&emsp;"(3) best practices and lessons learned, as identified through the assessment, to help maximize the effectiveness of existing and future programs to increase the participation of minority and underrepresented groups in the space science and engineering workforce at NASA.
 
 "(b)
 

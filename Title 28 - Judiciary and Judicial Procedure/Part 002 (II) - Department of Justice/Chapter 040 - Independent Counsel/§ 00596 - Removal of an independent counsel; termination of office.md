@@ -40,7 +40,7 @@ Audits.—(1) On or before June 30 of each year, an independent counsel shall pr
 
 &emsp;(A) conduct a financial review of a mid-year statement and a financial audit of a year-end statement and statement on termination; and
 
-&emsp;(B) report the results to the Committee on the Judiciary, Committee on Governmental Affairs, and Committee on Appropriations of the Senate and the Committee on the Judiciary, Committee on Government Operations, and Committee on Appropriations of the House of Representatives not later than 90 days following the submission of each such statement.
+&emsp;(B) report the results to the Committee on the Judiciary, Committee on Governmental Affairs, and Committee on Appropriations of the Senate and the Committee on the Judiciary, Committee on Government Operations,and Committee on Appropriations of the House of Representatives not later than 90 days following the submission of each such statement.
 
 (Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1872; amended Pub. L. 97–409, §§2(a)(1), 6(d), Jan. 3, 1983, 96 Stat. 2039, 2042; Pub. L. 98–620, title IV, §402(29)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1304; Pub. L. 103–270, §§3(h), (i), 5, June 30, 1994, 108 Stat. 735, 737.)
 

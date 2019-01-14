@@ -56,7 +56,7 @@ The following agencies of the National Institutes of Health are national researc
 
 &emsp;(24) The National Institute on Minority Health and Health Disparities.
 
-&emsp;(25) Any other national center that, as an agency separate from any national researchinstitute, was established within the National Institutes of Health as of the day before January 15, 2007.
+&emsp;(25) Any other national center that, as an agency separate from any national research institute, was established within the National Institutes of Health as of the day before January 15, 2007.
 
 #### (c) Division of Program Coordination, Planning, and Strategic Initiatives
 
@@ -290,7 +290,7 @@ Subsec. (c)(2)(A). Pub. L. 112–74, §221(c)(2)(B), struck out "the Office of R
 
 Pub. L. 109–482, §101(a), reenacted section catchline without change and amended text generally, substituting provisions consisting of subsecs. (a) to (d)(1) for former subsecs. (a) to (d) which related to: in subsec. (a), relationship to Public Health Service; in subsec. (b), list of national research institutes that were agencies; in subsec. (c), establishment of additional institutes and reorganization or abolition of institutes; and, in subsec. (d), definition of "national research institute". See below.
 
-Subsec. (d)(2). Pub. L. 109–482, §108(a), added after subsec. (d)(1) provisions identical to text of subsec. (c) prior to amendment by Pub. L. 109–482, §101(a), redesignated such provisions as par. (2), added par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, added subpar. headings, in subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, in cl. (ii), substituted "Health, Education, Labor, and Pensions" for "Labor and Human Resources" and "clause (i)" for "subparagraph (A)", and, in subpar. (B), substituted "Health, Education, Labor, and Pensions" for "Labor and Human Resources".
+Subsec. (d)(2). Pub. L. 109–482, §108(a), added after subsec. (d)(1) provisions identical to text of subsec. (c) prior to amendment by Pub. L. 109–482, §101(a), redesignated such provisions as par. (2), added par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, added subpar. headings, in subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, in cl. (ii), substituted "Health, Education, Labor, and Pensions" for "Labor and Human Resources" and "clause (i)" for "subparagraph\(A)", and, in subpar. (B), substituted "Health, Education, Labor, and Pensions" for "Labor and Human Resources".
 
 Subsec. (d)(3), (4). Pub. L. 109–482, §101(b)(1), added pars. (3) and (4).
 
@@ -348,7 +348,7 @@ Pub. L. 103–43, title XIX, §1904, June 10, 1993, 107 Stat. 203, directed Secr
 
 #### Research on Lupus Erythematosus
 
-Pub. L. 99–158, §5, Nov. 20, 1985, 99 Stat. 880, as amended by Pub. L. 102–531, title III, §312(f), Oct. 27, 1992, 106 Stat. 3506, directed Secretary of Health and Human Resources to establish a Lupus Erythematosus Coordinating Committee to plan, develop, coordinate, and implement comprehensive Federal initiatives in researchon Lupus Erythematosus, provided for composition of committee and meetings, and directed Committee to prepare a report for Congress on its activities, to be submitted not later than 18 months after Nov. 20, 1985, with Committee to terminate one month after the report was submitted.
+Pub. L. 99–158, §5, Nov. 20, 1985, 99 Stat. 880, as amended by Pub. L. 102–531, title III, §312(f), Oct. 27, 1992, 106 Stat. 3506, directed Secretary of Health and Human Resources to establish a Lupus Erythematosus Coordinating Committee to plan, develop, coordinate, and implement comprehensive Federal initiatives in research on Lupus Erythematosus, provided for composition of committee and meetings, and directed Committee to prepare a report for Congress on its activities, to be submitted not later than 18 months after Nov. 20, 1985, with Committee to terminate one month after the report was submitted.
 
 #### Interagency Committee on Learning Disabilities
 

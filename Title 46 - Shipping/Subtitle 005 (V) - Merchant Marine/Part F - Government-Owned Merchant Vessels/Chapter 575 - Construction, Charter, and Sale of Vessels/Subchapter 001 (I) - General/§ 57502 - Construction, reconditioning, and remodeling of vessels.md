@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation may have new vessels constructed, and have old vessels reconditioned or remodeled, as the Secretary determines necessary to carry out the objectives of this subtitle.
+In General.—The Secretary of Transportation may have new vessels constructed, andhave old vessels reconditioned or remodeled, as the Secretary determines necessary to carry out the objectives of this subtitle.
 
 (b)
 

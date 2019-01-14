@@ -12,7 +12,7 @@ For purposes of this section, the term "coastal zone enhancement objective" mean
 
 &emsp;(4) Reducing marine debris entering the Nation's coastal and ocean environment by managing uses and activities that contribute to the entry of such debris.
 
-&emsp;(5) Development and adoption of procedures to assess, consider, and control cumulative and secondary impacts of coastal growth and development, including the collective effect on various individual uses or activities on coastal resources, such as coastal wetlands and fishery resources.
+&emsp;(5) Development and adoption of procedures to assess, consider, and control cumulative and secondary impacts of coastal growth and development, including the collective effect onvarious individual uses or activities on coastal resources, such as coastal wetlands and fishery resources.
 
 &emsp;(6) Preparing and implementing special area management plans for important coastal areas.
 

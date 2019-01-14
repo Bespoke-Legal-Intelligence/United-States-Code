@@ -10,7 +10,7 @@ The President is authorized to furnish military assistance, on such terms and co
 
 &emsp;(3) transferring such of the funds appropriated or otherwise made available under this part as the President may determine for assistance to a recipient country, to the account in which funds for the procurement of defense articles and defense services under section 21 and section 22 of the Arms Export Control Act \[22 U.S.C. 2761 and 2762\] have been deposited for such recipient, to be merged with such deposited funds, and to be used solely to meet obligations of the recipient for payment for sales under that Act \[22 U.S.C. 2751 et seq.\].
 
-> Sales which are wholly paid from funds transferred under paragraph (3) or from funds made available on a non-repayable basis under section 23 of the Arms Export Control Act \[22 U.S.C. 2763\] shall be priced to exclude the costs of salaries of members of the Armed Forces of the United States (other than the Coast Guard).
+> Sales which are wholly paid from funds transferred under paragraph (3) or from funds made available on a non-repayable basis under section23 of the Arms Export Control Act \[22 U.S.C. 2763\] shall be priced to exclude the costs of salaries of members of the Armed Forces of the United States (other than the Coast Guard).
 
 #### (b) Terms and conditions
 
@@ -40,7 +40,7 @@ In addition to such other terms and conditions as the President may determine pu
 
 &emsp;(B) to any defense article or defense service, or portion thereof, acquired with funds appropriated for military assistance under this chapter.
 
-(Pub. L. 87–195, pt. II, §503, Sept. 4, 1961, 75 Stat. 435; Pub. L. 88–633, §201(a), Oct. 7, 1964, 78 Stat. 1011; Pub. L. 89–171, pt. II, §201(a), Sept. 6, 1965, 79 Stat. 656; Pub. L. 90–137, pt. II, §201(b), Nov. 14, 1967, 81 Stat. 455; Pub. L. 93–189, §12(b)(1),Dec. 17, 1973, 87 Stat. 720; Pub. L. 96–533, title I, §112(a), Dec. 16, 1980, 94 Stat. 3138; Pub. L. 97–113, title I, §§109(c), 110(c), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 99–83, title I, §123(a), Aug. 8, 1985, 99 Stat. 205; Pub. L. 100–461, title V, §586(a), Oct. 1, 1988, 102 Stat. 2268–50.)
+(Pub. L. 87–195, pt. II, §503, Sept. 4, 1961, 75 Stat. 435; Pub. L. 88–633, §201(a), Oct. 7, 1964, 78 Stat. 1011; Pub. L. 89–171, pt. II, §201(a), Sept. 6, 1965, 79 Stat. 656; Pub. L. 90–137, pt. II, §201(b), Nov. 14, 1967, 81 Stat. 455; Pub. L. 93–189, §12(b)(1), Dec. 17, 1973, 87 Stat. 720; Pub. L. 96–533, title I, §112(a), Dec. 16, 1980, 94 Stat. 3138; Pub. L. 97–113, title I, §§109(c), 110(c), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 99–83, title I, §123(a), Aug. 8, 1985, 99 Stat. 205; Pub. L. 100–461, title V, §586(a), Oct. 1, 1988, 102 Stat. 2268–50.)
 
 #### References in Text
 

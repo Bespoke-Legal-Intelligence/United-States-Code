@@ -88,7 +88,23 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VIII—SPECIALTY EDUCATION LOAN REPAYMENT PROGRAM
+
+|  |  |
+| :--- | ---: |
+| [7691\.](Subchapter%20008%20%28VIII%29%20-%20Specialty%20Education%20Loan%20Repayment%20Program/%C2%A7%2007691%20-%20Establishment.md) | Establishment. |
+| [7692\.](Subchapter%20008%20%28VIII%29%20-%20Specialty%20Education%20Loan%20Repayment%20Program/%C2%A7%2007692%20-%20Purpose.md) | Purpose. |
+| [7693\.](Subchapter%20008%20%28VIII%29%20-%20Specialty%20Education%20Loan%20Repayment%20Program/%C2%A7%2007693%20-%20Eligibility%3B%20preferences%3B%20covered%20costs.md) | Eligibility; preferences; covered costs. |
+| [7694\.](Subchapter%20008%20%28VIII%29%20-%20Specialty%20Education%20Loan%20Repayment%20Program/%C2%A7%2007694%20-%20Specialty%20education%20loan%20repayment.md) | Specialty education loan repayment. |
+| [7695\.](Subchapter%20008%20%28VIII%29%20-%20Specialty%20Education%20Loan%20Repayment%20Program/%C2%A7%2007695%20-%20Choice%20of%20location.md) | Choice of location. |
+| [7696\.](Subchapter%20008%20%28VIII%29%20-%20Specialty%20Education%20Loan%20Repayment%20Program/%C2%A7%2007696%20-%20Term%20of%20obligated%20service.md) | Term of obligated service. |
+| [7697\.](Subchapter%20008%20%28VIII%29%20-%20Specialty%20Education%20Loan%20Repayment%20Program/%C2%A7%2007697%20-%20Relationship%20to%20Educational%20Assistance%20Program.md) | Relationship to Educational Assistance Program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–182, title III, §303(b)(2), June 6, 2018, 132 Stat. 1467, added heading for subchapter VIII and items 7691 to 7697.
 
 <b>2010</b>—Pub. L. 111–163, title VI, §603(d), May 5, 2010, 124 Stat. 1174, added items 7618 and 7619 and struck out former item 7618 "Expiration of program".
 
@@ -112,3 +128,4 @@
 - [Subchapter 005 (V) - Stipend Program for Members of the Selected Reserve](Subchapter%20005%20%28V%29%20-%20Stipend%20Program%20for%20Members%20of%20the%20Selected%20Reserve/README.md)
 - [Subchapter 006 (VI) - Employee Incentive Scholarship Program](Subchapter%20006%20%28VI%29%20-%20Employee%20Incentive%20Scholarship%20Program/README.md)
 - [Subchapter 007 (VII) - Education Debt Reduction Program](Subchapter%20007%20%28VII%29%20-%20Education%20Debt%20Reduction%20Program/README.md)
+- [Subchapter 008 (VIII) - Specialty Education Loan Repayment Program](Subchapter%20008%20%28VIII%29%20-%20Specialty%20Education%20Loan%20Repayment%20Program/README.md)

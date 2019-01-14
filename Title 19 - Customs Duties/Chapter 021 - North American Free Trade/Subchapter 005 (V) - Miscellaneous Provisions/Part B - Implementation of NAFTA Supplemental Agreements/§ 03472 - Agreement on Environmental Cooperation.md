@@ -16,7 +16,7 @@ As used in this section—
 
 &emsp;(1) the term "Commission for Environmental Cooperation" means the commission established by Part Three of the North American Agreement on Environmental Cooperation; and
 
-&emsp;(2) the term "North American Agreement on Environmental Cooperation" means the North American Agreement on Environmental Cooperation Between the Government of the United States of America, the Government of Canada, and the Government of the United Mexican States (signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
+&emsp;(2) the term "North American Agreement on Environmental Cooperation" means the North American Agreement on Environmental Cooperation Between the Government of the United States of America, the Government ofCanada, and the Government of the United Mexican States (signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
 
 (Pub. L. 103–182, title V, §532, Dec. 8, 1993, 107 Stat. 2164.)
 
@@ -54,7 +54,7 @@ Sec. 2. IMPLEMENTATION OF THE ENVIRONMENTAL COOPERATION AGREEMENT.
 
 (1) To the greatest extent practicable, pursuant to Articles 15(1) and 15(2), where the Secretariat of the Commission for Environmental Cooperation ("Secretariat") informs the Council that a factual record is warranted, the United States shall support the preparation of such factual record.
 
-(2) To the greatest extent practicable, the United States shall support public disclosure of all nonconfidential and nonproprietary elements of reports, factual records, decisions, recommendations, and other information gathered or prepared by the Commission forEnvironmental Cooperation ("Commission"). Where requested information is not made available, the United States shall endeavor to have the Commission state in writing to the public its reasons for denial of the request.
+(2) To the greatest extent practicable, the United States shall support public disclosure of all nonconfidential and nonproprietary elements of reports, factual records, decisions, recommendations, and other information gathered or prepared by the Commission for Environmental Cooperation ("Commission"). Where requested information is not made available, the United States shall endeavor to have the Commission state in writing to the public its reasons for denial of the request.
 
 (3) The United States shall provide public notice of the opportunity to apply for inclusion on a roster of qualified individuals available to serve on arbitral panels under the Environmental Cooperation Agreement.
 
@@ -70,7 +70,7 @@ Sec. 2. IMPLEMENTATION OF THE ENVIRONMENTAL COOPERATION AGREEMENT.
 
 &emsp;(B) provide the States with an opportunity to submit information and advice with respect to the matters identified in section 2(e)(1)(A) of this order; and
 
-&emsp;(C) involve the States to the greatest extent practicable at each stage of the development of United States positions regarding matters identified in section 2(e)(1)(A) of this order that will be addressed by the Council, committees, subcommittees, or working groups established under the Environmental Cooperation Agreement, or through dispute settlement processes prescribed under the Environmental Cooperation Agreement (including involvement through the inclusion of appropriate representatives of the States).
+&emsp;(C) involve the States to the greatest extent practicable at each stage of the development of UnitedStates positions regarding matters identified in section 2(e)(1)(A) of this order that will be addressed by the Council, committees, subcommittees, or working groups established under the Environmental Cooperation Agreement, or through dispute settlement processes prescribed under the Environmental Cooperation Agreement (including involvement through the inclusion of appropriate representatives of the States).
 
 (2) When formulating positions regarding matters identified in section 2(e)(1)(A) of this order, the United States shall take into account the information and advice received from States.
 

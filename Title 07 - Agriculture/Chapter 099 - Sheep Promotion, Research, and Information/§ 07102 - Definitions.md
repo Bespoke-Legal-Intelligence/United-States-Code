@@ -56,7 +56,7 @@ As used in this chapter (unless the context clearly requires otherwise):
 
 #### (14) Industry information
 
-&emsp;The term "industry information" means information and programs that will lead to increased efficiency in processing and the development of new markets, marketing strategies, increased marketing efficiency, and activitiesto enhance the image of sheep or sheep products on a national or international basis.
+&emsp;The term "industry information" means information and programs that will lead to increased efficiency in processing and the development of new markets, marketing strategies, increased marketing efficiency, and activities to enhance the image of sheep or sheep products on a national or international basis.
 
 #### (15) Order
 

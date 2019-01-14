@@ -20,7 +20,7 @@
 
 (9) Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.
 
-(10) In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, with the consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
+(10) In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, withthe consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
 
 (11) The Attorney General, in support of persons in administrative detention in non-Federal institutions, is authorized—
 
@@ -70,7 +70,7 @@ The Attorney General shall allocate to each State not fewer than 10 full-time ac
 
 &emsp;The Attorney General shall establish such regulations, prescribe such forms of bond, reports, entries, and other papers, issue such instructions, review such administrative determinations in immigration proceedings, delegate such authority, and perform such other acts as the Attorney General determines to be necessary for carrying out this section.
 
-(June 27, 1952, ch. 477, title I, §103, 66 Stat. 173; Pub. L. 100–525, §9(c), Oct. 24, 1988, 102 Stat. 2619; Pub. L. 101–649, title I, §142, Nov. 29, 1990, 104 Stat. 5004; Pub. L. 104–208, div. C, title I, §§102(d), 125, 134(a), title III, §§308(d)(4)(C), (e)(4), 372, 373, Sept. 30, 1996, 110 Stat. 3009–555, 3009–562, 3009–564, 3009–618, 3009–620, 3009–646, 3009–647; Pub. L. 107–296, title XI, §1102, Nov. 25, 2002, 116 Stat. 2273; Pub. L. 108–7, div. L, §105(a)(1), (2), Feb. 20, 2003, 117 Stat. 531; Pub. L. 108–458, title V, §5505(a), Dec. 17, 2004, 118 Stat. 3741; Pub. L. 111–122, §2(a), Dec. 22, 2009, 123 Stat. 3480.)
+(June 27, 1952, ch. 477, title I, §103, 66 Stat. 173; Pub. L. 100–525, §9(c), Oct. 24, 1988, 102 Stat. 2619; Pub. L. 101–649, title I, §142, Nov. 29, 1990, 104 Stat. 5004; Pub. L. 104–208, div. C, title I, §§102(d), 125, 134(a), title III, §§308(d)(4)(C), (e)(4), 372, 373, Sept. 30, 1996, 110 Stat. 3009–555, 3009–562, 3009–564, 3009–618, 3009–620, 3009–646, 3009–647; Pub. L. 107–296, title XI, §1102, Nov. 25, 2002, 116 Stat. 2273; Pub. L. 108–7, div. L, §105(a)(1), (2), Feb. 20,2003, 117 Stat. 531; Pub. L. 108–458, title V, §5505(a), Dec. 17, 2004, 118 Stat. 3741; Pub. L. 111–122, §2(a), Dec. 22, 2009, 123 Stat. 3480.)
 
 #### References in Text
 
@@ -106,7 +106,7 @@ Subsec. (g). Pub. L. 107–296, §1102(3), added subsec. (g).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–208, §372(1), (2), inserted "(1)" before first sentence and designated each sentence after the first sentence, which included second through ninth sentences, as a separate par. with appropriate consecutive numbering and initial indentation.
 
-Pub. L. 104–208, §125, inserted at end "After consultation with the Secretary of State, the Attorney General may authorize officers of a foreign country to be stationed at preclearance facilities in the United States for the purpose of ensuring that persons traveling from or through the United States to that foreign country comply with that country's immigration and related laws. Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and theyshall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers."
+Pub. L. 104–208, §125, inserted at end "After consultation with the Secretary of State, the Attorney General may authorize officers of a foreign country to be stationed at preclearance facilities in the United States for the purpose of ensuring that persons traveling from or through the United States to that foreign country comply with that country's immigration and related laws. Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers."
 
 Subsec. (a)(8). Pub. L. 104–208, §372(3), added at end par. (8) relating to Attorney General authorization of State and local law enforcement officers in event of mass influx of aliens arriving.
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 107–296 effective on the date of the transfer of function
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. C, title I, §134(b), Sept. 30, 1996, 110 Stat. 3009–564, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\]."
+Pub. L. 104–208, div. C, title I, §134(b), Sept. 30, 1996, 110 Stat. 3009–564, provided that: "The amendmentmade by subsection (a) \[amending this section\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
 Amendment by section 308(d)(4)(C), (e)(4) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
@@ -457,7 +457,7 @@ Sec. 3. <i>Definitions</i>. (a) "Asylum officer" has the meaning given the term 
 
 (g) "Regulations" shall mean any and all Federal rules, regulations, and directives lawfully promulgated by agencies.
 
-(h) "Operational control" shall mean the prevention of all unlawful entries into the United States, includingentries by terrorists, other unlawful aliens, instruments of terrorism, narcotics, and other contraband.
+(h) "Operational control" shall mean the prevention of all unlawful entries into the United States, including entries by terrorists, other unlawful aliens, instruments of terrorism, narcotics, and other contraband.
 
 Sec. 4. <i>Physical Security of the Southern Border of the United States</i>. The Secretary shall immediately take the following steps to obtain complete operational control, as determined by the Secretary, of the southern border:
 
@@ -537,7 +537,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Purpose</i>. Interior enforcement of our Nation's immigration laws is critically important to the national security and public safety of the United States. Many aliens who illegally enter the United States and those who overstay or otherwise violate the terms of their visas present a significant threat to national security and public safety. This is particularly so for aliens who engage in criminal conduct in the United States.
 
-Sanctuary jurisdictions across the United States willfully violate Federal law in an attempt to shield aliens from removal from the United States. These jurisdictions have caused immeasurable harm to the American people and to the very fabric of our Republic.
+Sanctuary jurisdictions across the United States willfully violate Federal law in an attempt to shieldaliens from removal from the United States. These jurisdictions have caused immeasurable harm to the American people and to the very fabric of our Republic.
 
 Tens of thousands of removable aliens have been released into communities across the country, solely because their home countries refuse to accept their repatriation. Many of these aliens are criminals who have served time in our Federal, State, and local jails. The presence of such individuals in the United States, and the practices of foreign nations that refuse the repatriation of their nationals, are contrary to the national interest.
 
@@ -597,7 +597,7 @@ Sec. 9. <i>Sanctuary Jurisdictions</i>. It is the policy of the executive branch
 
 Sec. 10. <i>Review of Previous Immigration Actions and Policies</i>. (a) The Secretary shall immediately take all appropriate action to terminate the Priority Enforcement Program (PEP) described in the memorandum issued by the Secretary on November 20, 2014, and to reinstitute the immigration program known as "Secure Communities" referenced in that memorandum.
 
-(b) The Secretary shall review agency regulations, policies, and procedures for consistency with this order and, if required, publish for notice and comment proposed regulations rescinding or revising any regulations inconsistent with this order and shall consider whether to withdraw or modify any inconsistent policies and procedures, as appropriate and consistent with the law.
+(b) The Secretary shall review agency regulations, policies, and procedures for consistency with this orderand, if required, publish for notice and comment proposed regulations rescinding or revising any regulations inconsistent with this order and shall consider whether to withdraw or modify any inconsistent policies and procedures, as appropriate and consistent with the law.
 
 (c) To protect our communities and better facilitate the identification, detention, and removal of criminal aliens within constitutional and statutory parameters, the Secretary shall consolidate and revise any applicable forms to more effectively communicate with recipient law enforcement agencies.
 
@@ -628,6 +628,54 @@ Sec. 18. <i>General Provisions</i>. (a) Nothing in this order shall be construed
 (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13841. Affording Congress an Opportunity To Address Family Separation
+
+Ex. Ord. No. 13841, June 20, 2018, 83 F.R. 29435, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Immigration and Nationality Act (INA), 8 U.S.C. 1101 <i>et seq</i>., it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It is the policy of this Administration to rigorously enforce our immigration laws. Under our laws, the only legal way for an alien to enter this country is at a designated port of entry at an appropriate time. When an alien enters or attempts to enter the country anywhere else, that alien has committed at least the crime of improper entry and is subject to a fine or imprisonment under section 1325(a) of title 8, United States Code. This Administration will initiate proceedings to enforce this and other criminal provisions of the INA until and unless Congress directs otherwise. It is also the policy of this Administration to maintain family unity, including by detaining alien families together where appropriate and consistent with law and available resources. It is unfortunate that Congress's failure to act and court orders have put the Administration in the position of separating alien families to effectively enforce the law.
+
+Sec. 2. <i>Definitions</i>. For purposes of this order, the following definitions apply:
+
+(a) "Alien family" means
+
+(i) any person not a citizen or national of the United States who has not been admitted into, or is not authorized to enter or remain in, the United States, who entered this country with an alien child or alien children at or between designated ports of entry and who was detained; and
+
+(ii) that person's alien child or alien children.
+
+(b) "Alien child" means any person not a citizen or national of the United States who
+
+(i) has not been admitted into, or is not authorized to enter or remain in, the United States;
+
+(ii) is under the age of 18; and
+
+(iii) has a legal parent-child relationship to an alien who entered the United States with the alien child at or between designated ports of entry and who was detained.
+
+Sec. 3. <i>Temporary Detention Policy for Families Entering this Country Illegally</i>. (a) The Secretary of Homeland Security (Secretary), shall, to the extent permitted by law and subject to the availability of appropriations, maintain custody of alien families during the pendency of any criminal improper entry or immigration proceedings involving their members.
+
+(b) The Secretary shall not, however, detain an alien family together when there is a concern that detention of an alien child with the child's alien parent would pose a risk to the child's welfare.
+
+(c) The Secretary of Defense shall take all legally available measures to provide to the Secretary, upon request, any existing facilities available for the housing and care of alien families, and shall construct such facilities if necessary and consistent with law. The Secretary, to the extent permitted by law, shall be responsible for reimbursement for the use of these facilities.
+
+(d) Heads of executive departments and agencies shall, to the extent consistent with law, make available to the Secretary, for the housing and care of alien families pending court proceedings for improper entry, any facilities that are appropriate for such purposes. The Secretary, to the extent permitted by law, shall be responsible for reimbursement for the use of these facilities.
+
+(e) The Attorney General shall promptly file a request with the U.S. District Court for the Central District of California to modify the Settlement Agreement in <i>Flores v. Sessions</i>, CV 85–4544 ("<i>Flores</i> settlement"), in a manner that would permit the Secretary, under present resource constraints, to detain alien families together throughout the pendency of criminal proceedings for improper entry or any removal or other immigration proceedings.
+
+Sec. 4. <i>Prioritization of Immigration Proceedings Involving Alien Families</i>. The Attorney General shall, to the extent practicable, prioritize the adjudication of cases involving detained families.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented in a manner consistent with applicable law and subject to the availability of appropriations.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 

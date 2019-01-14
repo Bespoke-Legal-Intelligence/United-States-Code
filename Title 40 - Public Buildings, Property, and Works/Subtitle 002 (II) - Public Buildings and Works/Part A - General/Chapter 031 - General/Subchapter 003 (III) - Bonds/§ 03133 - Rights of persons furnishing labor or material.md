@@ -2,7 +2,7 @@
 
 (a)
 
-Right of Person Furnishing Labor or Material to Copy of Bond.—The department secretary or agency head of the contracting agency shall furnish a certified copy of a payment bond and the contract for which it was given to any person applying for a copy who submits an affidavit that the person has supplied labor or material for work described in the contract and payment for the work has not been made or that the person is being sued on the bond. The copy is prima facie evidence of the contents, execution, and delivery of the original. Applicants shall pay any fees the department secretary or agency head of the contracting agency fixes to cover the cost of preparing the certified copy.
+Right of Person Furnishing Labor or Material to Copy of Bond.—The department secretary or agency head of the contracting agency shall furnish a certified copy of a payment bondand the contract for which it was given to any person applying for a copy who submits an affidavit that the person has supplied labor or material for work described in the contract and payment for the work has not been made or that the person is being sued on the bond. The copy is prima facie evidence of the contents, execution, and delivery of the original. Applicants shall pay any fees the department secretary or agency head of the contracting agency fixes to cover the cost of preparing the certified copy.
 
 (b)
 
@@ -10,7 +10,7 @@ Right To Bring a Civil Action.—
 
 &emsp;(1)
 
-In general.—Every person that has furnished labor or material in carrying out work provided for in a contract for which a payment bond is furnished under section 3131 of this title and that has not been paid in full within 90 days after the day on which the person did or performed the last of the labor or furnished or supplied the material for which the claim is made may bring a civil action on the payment bond for the amount unpaid at the time the civil action is brought and may prosecute theaction to final execution and judgment for the amount due.
+In general.—Every person that has furnished labor or material in carrying out work provided for in a contract for which a payment bond is furnished under section 3131 of this title and that has not been paid in full within 90 days after the day on which the person did or performed the last of the labor or furnished or supplied the material for which the claim is made may bring a civil action on the payment bond for the amount unpaid at the time the civil action is brought and may prosecute the action to final execution and judgment for the amount due.
 
 &emsp;(2)
 

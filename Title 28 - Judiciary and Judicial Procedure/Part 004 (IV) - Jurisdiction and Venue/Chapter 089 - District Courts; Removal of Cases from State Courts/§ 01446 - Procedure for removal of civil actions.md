@@ -28,7 +28,7 @@ Requirements; Removal Based on Diversity of Citizenship.—(1) A case may not be
 
 &emsp;&emsp;(ii) a money judgment, but the State practice either does not permit demand for a specific sum or permits recovery of damages in excess of the amount demanded; and
 
-&emsp;(B) removal of the action is proper on the basis of an amount in controversy assertedunder subparagraph (A) if the district court finds, by the preponderance of the evidence, that the amount in controversy exceeds the amount specified in section 1332(a).
+&emsp;(B) removal of the action is proper on the basis of an amount in controversy asserted under subparagraph (A) if the district court finds, by the preponderance of the evidence, that the amount in controversy exceeds the amount specified in section 1332(a).
 
 (3)(A) If the case stated by the initial pleading is not removable solely because the amount in controversy does not exceed the amount specified in section 1332(a), information relating to the amount in controversy in the record of the State proceeding, or in responses to discovery, shall be treated as an "other paper" under subsection (b)(3).
 
@@ -78,7 +78,7 @@ The provisions of section 74 of title 28, U.S.C., 1940 ed., as to the effect of 
 
 The requirements of section 74 of title 28, U.S.C., 1940 ed., that the clerk of the State court shall furnish copies of pleadings and proceedings to the petitioner and that the petitioner shall file the same in the district court are covered by section 1447 of this title.
 
-The provisions of section 74 of title 28, U.S.C., 1940 ed., requiring the adverse parties to plead anew in thedistrict court were omitted as unnecessary in view of Federal Rules of Civil Procedure, Rule 81(c). The last sentence of such section was omitted as covered by section 1447(d) of this title.
+The provisions of section 74 of title 28, U.S.C., 1940 ed., requiring the adverse parties to plead anew in the district court were omitted as unnecessary in view of Federal Rules of Civil Procedure, Rule 81(c). The last sentence of such section was omitted as covered by section 1447(d) of this title.
 
 #### 1949 Act
 
@@ -144,7 +144,7 @@ Subsec. (b). Pub. L. 100–702, §1016(b)(2), substituted "notice of removal" fo
 
 Subsecs. (d) to (f). Pub. L. 100–702, §1016(b)(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: "Each petition for removal of a civil action or proceeding, except a petition in behalf of the United States, shall be accompanied by a bond with good and sufficient surety conditioned that the defendant or defendants will pay all costs and disbursements incurred by reason of the removal proceedings should it be determined that the case was not removable or was improperly removed."
 
-<b>1977</b>—Subsec. (c). Pub. L. 95–78, §3(a), designated existing provisions as par. (1), set a period of 30 days as the maximum allowable time prior to commencement of trial and following arraignment during which time a petition for removal can be filed, provided for the grantof additional time for good cause shown, and added pars. (2) to (5).
+<b>1977</b>—Subsec. (c). Pub. L. 95–78, §3(a), designated existing provisions as par. (1), set a period of 30 days as the maximum allowable time prior to commencement of trial and following arraignment during which time a petition for removal can be filed, provided for the grant of additional time for good cause shown, and added pars. (2) to (5).
 
 Subsec. (e). Pub. L. 95–78, §3(b), inserted "for the removal of a civil action" after "filing of such petition".
 

@@ -12,13 +12,13 @@ No grant may be made under this part unless the eligible tribal organization sub
 
 &emsp;(4) provide for periodic evaluation of activities and projects carried out under the application;
 
-&emsp;(5) establish objectives consistent with the purposes of this part toward which activities under the application will be directed, identify obstacles to the attainment of such objectives, and indicate the manner in which the tribal organization proposes to overcome such obstacles;
+&emsp;(5) establish objectives consistent with the purposes of this part toward which activitiesunder the application will be directed, identify obstacles to the attainment of such objectives, and indicate the manner in which the tribal organization proposes to overcome such obstacles;
 
 &emsp;(6) provide for establishing and maintaining information and assistance services to assure that older individuals who are Indians to be served by the assistance made available under this part will have reasonably convenient access to such services;
 
 &emsp;(7) provide a preference for older individuals who are Indians for full or part-time staff positions wherever feasible;
 
-&emsp;(8) provide assurances that either directly or by way of grant or contract with appropriate entities nutrition services will be delivered to older individuals who are Indians represented by the tribal organization substantially in compliance with the provisions of part C of subchapter III, except that in any case inwhich the need for nutritional services for older individuals who are Indians represented by the tribal organization is already met from other sources, the tribal organization may use the funds otherwise required to be expended under this paragraph for supportive services;
+&emsp;(8) provide assurances that either directly or by way of grant or contract with appropriate entities nutrition services will be delivered to older individuals who are Indians represented by the tribal organization substantially in compliance with the provisions of part C of subchapter III, except that in any case in which the need for nutritional services for older individuals who are Indians represented by the tribal organization is already met from other sources, the tribal organization may use the funds otherwise required to be expended under this paragraph for supportive services;
 
 &emsp;(9) provide that any legal or ombudsman services made available to older individuals who are Indians represented by the tribal organization will be substantially in compliance with the provisions of subchapter III relating to the furnishing of similar services;
 

@@ -16,7 +16,7 @@ Designated Recipients.—(1) A member may designate in writing another person (i
 
 (d)
 
-Recipients in Event of Death of Insured Member.—Any insurance payable under the insurance program on account of a deceased member's period of covered service shall be paid, upon the establishment of a valid claim, to the beneficiary or beneficiaries which the deceasedmember designated in writing. If no such designation has been made, the amount shall be payable in accordance with the laws of the State of the member's domicile.
+Recipients in Event of Death of Insured Member.—Any insurance payable under the insurance program on account of a deceased member's period of covered service shall be paid, upon the establishment of a valid claim, to the beneficiary or beneficiaries which the deceased member designated in writing. If no such designation has been made, the amount shall be payable in accordance with the laws of the State of the member's domicile.
 
 (Added Pub. L. 104–106, div. A, title V, §512(a)(1), Feb. 10, 1996, 110 Stat. 304.)
 

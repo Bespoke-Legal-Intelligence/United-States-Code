@@ -80,7 +80,7 @@ Subsec. (e). Pub. L. 95–617, §204(b)(2), inserted "(other than facilities sub
 
 #### Effective Date of 2005 Amendment
 
-Amendment by section 1277(b)(1) of Pub. L. 109–58 effective 6 months after Aug. 8, 2005, with provisions relating to effect of compliance with certain regulationsapproved and made effective prior to such date, see section 1274 of Pub. L. 109–58, set out as an Effective Date note under section 16451 of Title 42, The Public Health and Welfare.
+Amendment by section 1277(b)(1) of Pub. L. 109–58 effective 6 months after Aug. 8, 2005, with provisions relating to effect of compliance with certain regulations approved and made effective prior to such date, see section 1274 of Pub. L. 109–58, set out as an Effective Date note under section 16451 of Title 42, The Public Health and Welfare.
 
 #### State Authorities; Construction
 

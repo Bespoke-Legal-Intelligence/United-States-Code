@@ -10,7 +10,7 @@ In addition to the requirements of sections 2503 and 2504 of this title, the Sec
 
 #### (c) Rules of Secretary of Energy; funding applications; required advertising
 
-Each contract under this section shall be entered into in accordance with such rules as theSecretary of Energy may prescribe in accordance with the provisions of this section. Each application for funding shall be made in writing in such form and with such content and other submissions as the Secretary of Energy shall require. The Secretary of Energy may enter into contracts under this section without regard to section 6101 of title 41.
+Each contract under this section shall be entered into in accordance with such rules as the Secretary of Energy may prescribe in accordance with the provisions of this section. Each application for funding shall be made in writing in such form and with such content and other submissions as the Secretary of Energy shall require. The Secretary of Energy may enter into contracts under this section without regard to section 6101 of title 41.
 
 #### (d) Purchase or lease of demonstration vehicles pursuant to agreements and utilization of Federal forms of assistance and participation authorized under other statutory provisions
 
@@ -24,7 +24,7 @@ When contracting and otherwise using Federal funds to conduct demonstrations und
 
 #### References in Text
 
-The Energy Reorganization Act of 1974 (Public Law 93–438), referred to in subsec. (d), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
+The Energy Reorganization Act of 1974 (Public Law 93–438), referred to in subsec. (d), is Pub. L. 93–438, Oct.11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
 
 The Federal Nonnuclear Energy Research and Development Act of 1974 (Public Law 93–577), referred to in subsec. (d), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 

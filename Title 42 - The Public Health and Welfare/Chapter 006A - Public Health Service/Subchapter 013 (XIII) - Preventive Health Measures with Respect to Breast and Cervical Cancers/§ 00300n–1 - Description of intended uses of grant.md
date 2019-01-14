@@ -4,13 +4,13 @@ The Secretary may not make a grant under section 300k of this title unless—
 
 &emsp;(1) the State involved submits to the Secretary a description of the purposes for which the State intends to expend the grant;
 
-&emsp;(2) the description identifies the populations, areas, and localities in the State with a need for the services or activities described in section 300k(a) of this title;
+&emsp;(2) the description identifies the populations, areas, and localities in the State with a needfor the services or activities described in section 300k(a) of this title;
 
 &emsp;(3) the description provides information relating to the services and activities to be provided, including a description of the manner in which the services and activities will be coordinated with any similar services or activities of public and private entities; and
 
 &emsp;(4) the description provides assurances that the grant funds will be used in the most cost-effective manner.
 
-(July 1, 1944, ch. 373, title XV, §1505, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 414; amended Pub. L. 103–43, title XX, §2008(c)(2),June 10, 1993, 107 Stat. 211; Pub. L. 103–183, title I, §101(g)(2), Dec. 14, 1993, 107 Stat. 2229; Pub. L. 105–392, title IV, §401(b)(6), Nov. 13, 1998, 112 Stat. 3587.)
+(July 1, 1944, ch. 373, title XV, §1505, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 414; amended Pub. L. 103–43, title XX, §2008(c)(2), June 10, 1993, 107 Stat. 211; Pub. L. 103–183, title I, §101(g)(2), Dec. 14, 1993, 107 Stat. 2229; Pub. L. 105–392, title IV, §401(b)(6), Nov. 13, 1998, 112 Stat. 3587.)
 
 #### Prior Provisions
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Plans.—(1) Each person owning or operating a gas pipeline facility or hazardous liquid pipeline facility shall carry out a current written plan (including any changes) for inspection and maintenance of each facility used in the transportation and owned or operated by the person. A copy of the plan shall be kept at any office of the person the Secretary of Transportation considers appropriate. The Secretary alsomay require a person owning or operating a pipeline facility subject to this chapter to file a plan for inspection and maintenance for approval.
+Plans.—(1) Each person owning or operating a gas pipeline facility or hazardous liquid pipeline facility shall carry out a current written plan (including any changes) for inspection and maintenance of each facility used in the transportation and owned or operated by the person. A copy of the plan shall be kept at any office of the person the Secretary of Transportation considers appropriate. The Secretary also may require a person owning or operating a pipeline facility subject to this chapter to file a plan for inspection and maintenance for approval.
 
 (2) If the Secretary or a State authority responsible for enforcing standards prescribed under this chapter decides that a plan required under paragraph (1) of this subsection is inadequate for safe operation, the Secretary or authority shall require the person to revise the plan. Revision may be required only after giving notice and an opportunity for a hearing. A plan required under paragraph (1) must be practicable and designed to meet the need for pipeline safety and must include terms designed to enhance the ability to discover safety-related conditions described in section 60102(h)(1) of this title. In deciding on the adequacy of a plan, the Secretary or authority shall consider—
 
@@ -52,7 +52,7 @@ Pipeline Facilities Offshore and in Other Waters.—(1) In this subsection—
 
 &emsp;(C) if a pipeline facility has no operator, the most recent operator of the facility is deemed to be the operator of the facility.
 
-(2)(A) Not later than May 16, 1993, on the basis of experience with the inspections under section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968 or section 203(l)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979, as appropriate, and any other information available to the Secretary, the Secretary shall establish a mandatory, systematic, and, where appropriate, periodic inspection program of—
+(2)(A) Not later than May 16, 1993, on the basis of experience with the inspections under section3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968 or section 203(l)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979, as appropriate, and any other information available to the Secretary, the Secretary shall establish a mandatory, systematic, and, where appropriate, periodic inspection program of—
 
 &emsp;(i) all offshore pipeline facilities; and
 
@@ -70,7 +70,7 @@ Pipeline Facilities Offshore and in Other Waters.—(1) In this subsection—
 
 (4)(A) The Secretary shall establish a standard that each pipeline facility described in paragraph (2) of this subsection that is a hazard to navigation is buried not later than 6 months after the date the condition of the facility is reported to the Secretary. The Secretary may extend that 6-month period for a reasonable period to ensure compliance with this paragraph.
 
-(B) In prescribing standards for subparagraph (A) of this paragraph for an underwater pipeline facility abandoned after October 24, 1992, the Secretary shall include requirements that will lessen the potential that the facility will pose ahazard to navigation and shall consider the relationship between water depth and navigational safety and factors relevant to the local marine environment.
+(B) In prescribing standards for subparagraph (A) of this paragraph for an underwater pipeline facility abandoned after October 24, 1992, the Secretary shall include requirements that will lessen the potential that the facility will pose a hazard to navigation and shall consider the relationship between water depth and navigational safety and factors relevant to the local marine environment.
 
 (5)(A) Not later than October 24, 1994, the Secretary shall establish standards on what is an exposed offshore pipeline facility and what is a hazard to navigation under this subsection.
 
@@ -272,7 +272,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §203(<i>l</i>)(5), (6); added Oc
 
 Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §13(c); added Oct. 24, 1992, Pub. L. 102–508, §107, 106 Stat. 3293.
 
-In subsection (a)(1), the word "prepare" is omitted as surplus. The words "or offices" are omitted because of 1:1. The words "in accordance with regulations prescribed by the Secretary or appropriate State agency" in 49 App.:1680(a) (1st sentence), "in accordance with regulations prescribed by the Secretary or, where a certification or agreement pursuant to section 2004 of this Appendix is in effect, by the appropriate State agency" in 49 App.:2009(a) (1st sentence), and "by regulation" are omitted as surplus because of 49:322(a) and sections 60102–60105 of the revised title.
+In subsection (a)(1), the word "prepare" is omitted as surplus. The words "or offices" are omitted because of 1:1. The words "in accordance with regulations prescribed by the Secretary or appropriate State agency" in 49 App.:1680(a) (1st sentence), "in accordance with regulations prescribed by the Secretary or, where a certification or agreement pursuant to section 2004 of thisAppendix is in effect, by the appropriate State agency" in 49 App.:2009(a) (1st sentence), and "by regulation" are omitted as surplus because of 49:322(a) and sections 60102–60105 of the revised title.
 
 In subsection (a)(2), before clause (A), the words "the Secretary or" are added for clarity. The words "at any time" in 49 App.:1680(a) (3d sentence) are omitted as surplus.
 
@@ -420,7 +420,7 @@ Establishment of Database.—The Secretary may establish, if appropriate, a nati
 
 &emsp;"(1) after submission of the report required under subsection (a); or
 
-&emsp;"(2) upon notification to the Committee on Transportation and Infrastructure and the Committee onEnergy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the need to establish such database prior to the submission of the report under subsection (a)."
+&emsp;"(2) upon notification to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the need to establish such database prior to the submission of the report under subsection (a)."
 
 #### Report on Natural Gas Leak Reporting
 

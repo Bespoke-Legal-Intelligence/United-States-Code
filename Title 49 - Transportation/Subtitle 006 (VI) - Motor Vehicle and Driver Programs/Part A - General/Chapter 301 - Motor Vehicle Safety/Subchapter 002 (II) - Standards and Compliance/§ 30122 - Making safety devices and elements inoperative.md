@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 15:1397(a)(2)(A) (last sentence).
 
-Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(a)(2)(A)– (C); added Oct. 27, 1974, Pub. L. 93–492, §103(a) (1)(A), 88 Stat. 1477.
+Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(a)(2)(A)– (C); added Oct. 27, 1974, Pub. L. 93–492, §103(a)(1)(A), 88 Stat. 1477.
 
 30122(b)
 
@@ -64,7 +64,7 @@ In subsection (d), the words "with respect . . . the rendering inoperative of"
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective on the date that is 180 days after Dec. 4, 2015, see section 24109(k) of Pub. L. 114–94, set out as a note under section 30102 of this title.
+Amendment by Pub. L. 114–94 effective on the date that is 180 days after Dec. 4, 2015, see section 24109(k) ofPub. L. 114–94, set out as a note under section 30102 of this title.
 
 #### Effective Date of 2012 Amendment
 

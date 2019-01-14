@@ -40,7 +40,7 @@ Rate based on creditable service.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Each member shall be placed in and receive basic pay at the corresponding scheduled rate under chapter 102 of title 5, United States Code, as added by section 2(a) (after any adjustment under paragraph (3) of this subsection) in accordance with the member's total years of creditable service, as provided in the table in this clause. If the scheduled rate of basic pay for the step to which the member would be assigned in accordance with this paragraph is lower than the member's rate of basic pay immediately before the date of enactment of this paragraph, the member shall be placed in and receive basic pay at the next higher service step, subject to the provisions of clause (iv). If the member's rate of pay exceeds the highest step of the rank, the rate of basic pay shall be determined in accordance with clause (iv).
+In general.—Each member shall be placed in and receive basic pay at the corresponding scheduled rate under chapter 102 of title 5, United States Code, as added by section 2(a) (after any adjustment under paragraph (3) of this subsection) in accordance with the member's total years of creditable service, as provided in the table in this clause. If the scheduled rate of basic pay for the step to which the member would be assigned in accordance with this paragraph is lower than the member's rate of basic pay immediately before the date of enactment of this paragraph, the member shall be placed in and receive basic pay at the next higher service step, subject to the provisions of clause (iv). If the member's rate of pay exceeds the highest step of the rank,the rate of basic pay shall be determined in accordance with clause (iv).
 
 | "Full Years of Creditable Service | Step Assigned Upon Conversion |
 | --- | --- |
@@ -80,7 +80,7 @@ Step 13 conversion maximum rate.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
 
-In general.—A member who, at the time of conversion, is in step 13 of any rank belowDeputy Chief, is entitled to that rate of basic pay which is the greater of—
+In general.—A member who, at the time of conversion, is in step 13 of any rank below Deputy Chief, is entitled to that rate of basic pay which is the greater of—
 
 &emsp;&emsp;&emsp;"(aa) the rate of pay for step 13 under the new salary schedule; or
 

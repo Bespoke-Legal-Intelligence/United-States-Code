@@ -26,7 +26,7 @@ The Secretary shall identify, and list in the report under section 1826h of this
 
 The Secretary, acting through the Secretary of State, shall—
 
-&emsp;(1) notify, as soon as possible, the President and nations that have been identified under subsection (a), and also notify other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of this section and this Act;
+&emsp;(1) notify, as soon as possible, the President and nations that have been identified under subsection (a), and also notify other nations whose vessels engage in fishing activities orpractices described in subsection (a), about the provisions of this section and this Act;
 
 &emsp;(2) initiate discussions as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, fishing activities or practices described in subsection (a), for the purpose of entering into bilateral and multilateral treaties with such countries to protect such species;
 
@@ -100,7 +100,7 @@ The Marine Mammal Protection Act, referred to in subsec. (e)(1), probably means 
 
 The Endangered Species Act, referred to in subsec. (e)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Shark Finning Prohibition Act, referred to in subsec. (e)(1), is Pub. L. 106–557, Dec. 21, 2000, 114 Stat.2772, which is set out as a note under section 1822 of this title. For complete classification of this Act to the Code, see Tables.
+The Shark Finning Prohibition Act, referred to in subsec. (e)(1), is Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, which is set out as a note under section 1822 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e)(2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
@@ -125,6 +125,10 @@ Subsec. (c)(5). Pub. L. 114–81, §101(f), struck out "that has not been certif
 <b>2011</b>—Subsec. (a). Pub. L. 111–348, §102(c)(1)(A), struck out ", a nation if" after "section 1826h of this title" in introductory provisions.
 
 Pub. L. 111–348, §102(c)(1)(B)–(G), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, realigned margins, inserted "(1) a nation if—" before subpar. (A), as so redesignated, redesignated former subpars. (A) and (B) of par. (1) as cls. (i) and (ii) of subpar. (A), respectively, realigned margins, and added par. (2).
+
+#### Construction
+
+Nothing in section 102(c) of Pub. L. 111–348 (amending this section and enacting provisions set out as a note below) to be construed as affecting, altering, or diminishing the authority of the Secretary of Commerce to establish such conservation and management measures as the Secretary considers necessary and appropriate under sections 1852(a)(3) and 1854(g) of this title, see section 104 of Pub. L. 111–348, set out as a note under section 1826i of this title.
 
 #### Initial Identifications
 

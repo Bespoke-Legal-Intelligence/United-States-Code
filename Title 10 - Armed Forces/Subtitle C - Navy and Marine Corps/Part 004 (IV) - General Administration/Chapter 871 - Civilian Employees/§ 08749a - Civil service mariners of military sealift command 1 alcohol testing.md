@@ -1,0 +1,16 @@
+### §8749a. Civil service mariners of military sealift command <sup>1</sup>: alcohol testing
+
+The Secretary of the Navy may prescribe regulations establishing a program to conduct on-duty reasonable suspicion alcohol testing and post-accident alcohol testing of civil service mariners of the Military Sealift Command who are assigned to vessels.
+
+(Added §7479a and renumbered §8749a, Pub. L. 115–232, div. A, title VIII, §807(d)(6), title XI, §1114(a), Aug. 13, 2018, 132 Stat. 1836, 2013.)
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–232, §807(d)(6), renumbered section 7479a of this title as this section.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by section 807(d)(6) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+<i><sup>1</sup></i><i> So in original. Phrase "military sealift command" probably should be capitalized.</i>
+

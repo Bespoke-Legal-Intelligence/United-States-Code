@@ -8,7 +8,7 @@ The President may enroll in the Peace Corps qualified citizens or nationals of t
 
 &emsp;(3) spouses and minor children of volunteer leaders accompanying them may receive such health care as the President may determine and upon such terms as he may determine, including health care in any facility referred to in section 2504(e) of this title, subject to such conditions as the President may prescribe and subject to reimbursement of appropriations as provided in section 2504(e) of this title; and
 
-&emsp;(4) spouses and minor children of volunteer leaders accompanying them may receive suchorientation, language, and other training necessary to accomplish the purposes of this chapter as the President may determine.
+&emsp;(4) spouses and minor children of volunteer leaders accompanying them may receive such orientation, language, and other training necessary to accomplish the purposes of this chapter as the President may determine.
 
 (Pub. L. 87–293, title I, §6, Sept. 22, 1961, 75 Stat. 615; Pub. L. 88–200, §3, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, §3, Aug. 24, 1965, 79 Stat. 549; Pub. L. 91–352, §4, July 24, 1970, 84 Stat. 465; Pub. L. 97–387, §1(a), Dec. 23, 1982, 96 Stat. 1947.)
 

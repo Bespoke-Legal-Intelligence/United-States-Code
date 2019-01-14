@@ -42,7 +42,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(B) in the case of any franchise in effect on October 30, 1984, payments which are required by the franchise to be made by the cable operator during the term of such franchise for, or in support of the use of, public, educational, or governmental access facilities;
 
-&emsp;&emsp;(C) in the case of any franchise granted after October 30, 1984, capital costs which arerequired by the franchise to be incurred by the cable operator for public, educational, or governmental access facilities;
+&emsp;&emsp;(C) in the case of any franchise granted after October 30, 1984, capital costs which are required by the franchise to be incurred by the cable operator for public, educational, or governmental access facilities;
 
 &emsp;&emsp;(D) requirements or charges incidental to the awarding or enforcing of the franchise, including payments for bonds, security funds, letters of credit, insurance, indemnification, penalties, or liquidated damages; or
 

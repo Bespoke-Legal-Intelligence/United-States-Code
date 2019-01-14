@@ -24,7 +24,7 @@ In any proceeding to enforce this section, vulnerability assessments, site secur
 
 #### (e) Availability of information
 
-Notwithstanding any other provision of law (including section 552(b)(3) of title 5), section 552 of title 5 (commonly known as the "Freedom of Information Act") shall not apply to information protected from public disclosure pursuant to subsection (a) of this section.
+Notwithstanding any other provision of law (including section 552(b)(3) of title 5), section 552of title 5 (commonly known as the "Freedom of Information Act") shall not apply to information protected from public disclosure pursuant to subsection (a) of this section.
 
 #### (f) Sharing of information with Members of Congress
 

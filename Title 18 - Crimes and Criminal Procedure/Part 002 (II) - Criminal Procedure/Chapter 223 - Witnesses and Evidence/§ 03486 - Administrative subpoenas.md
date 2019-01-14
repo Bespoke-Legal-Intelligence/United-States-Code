@@ -34,7 +34,7 @@ Authorization.—(1)(A) In any investigation of—
 
 (3) The production of records relating to a Federal health care offense shall not be required under this section at any place more than 500 miles distant from the place where the subpoena for the production of such records is served. The production of things in any other case may be required from any place within the United States or subject to the laws or jurisdiction of the United States.
 
-(4) Witnesses subpoenaed under this section shall be paid the same fees and mileage that arepaid witnesses in the courts of the United States.
+(4) Witnesses subpoenaed under this section shall be paid the same fees and mileage that are paid witnesses in the courts of the United States.
 
 (5) At any time before the return date specified in the summons, the person or entity summoned may, in the United States district court for the district in which that person or entity does business or resides, petition for an order modifying or setting aside the summons, or a prohibition of disclosure ordered by a court under paragraph (6).
 

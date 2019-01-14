@@ -110,7 +110,7 @@ Amendment by Pub. L. 113–295 effective as if included in the provisions of the
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–325 applicable to taxable years beginning after Dec. 22, 2010, see section 301(h) of Pub. L. 111–325, set out as a note under section 852 of this title.
+Amendment by Pub. L. 111–325 applicable to taxable years beginning after Dec. 22, 2010, see section 301(h) ofPub. L. 111–325, set out as a note under section 852 of this title.
 
 #### Effective Date
 

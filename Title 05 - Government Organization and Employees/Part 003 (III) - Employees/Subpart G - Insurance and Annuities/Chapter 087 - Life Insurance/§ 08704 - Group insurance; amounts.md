@@ -12,7 +12,7 @@
 | :--- | ---: |
 | 35 or under | 2\.0&nbsp;&nbsp;&nbsp; |
 | 36 | 1\.9&nbsp;&nbsp;&nbsp; |
-| 37 | 1\.8&nbsp;&nbsp;&nbsp; |
+| 37 | 1\.8    |
 | 38 | 1\.7&nbsp;&nbsp;&nbsp; |
 | 39 | 1\.6&nbsp;&nbsp;&nbsp; |
 | 40 | 1\.5&nbsp;&nbsp;&nbsp; |

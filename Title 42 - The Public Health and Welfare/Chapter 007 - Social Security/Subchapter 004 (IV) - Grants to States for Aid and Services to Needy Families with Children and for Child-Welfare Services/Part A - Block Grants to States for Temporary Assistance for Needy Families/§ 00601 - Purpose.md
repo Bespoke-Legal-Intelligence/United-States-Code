@@ -64,7 +64,7 @@ Definitions applicable to new child care entitlement.—Sections 403(a)(1)(C), 4
 
 &emsp;"(6)
 
-Research, evaluations, and national studies.—Section 413 of the Social Security Act \[42 U.S.C.613\], as added by the amendment made by section 103(a) of this Act, shall take effect on the date of the enactment of this Act \[Aug. 22, 1996\].
+Research, evaluations, and national studies.—Section 413 of the Social Security Act \[42 U.S.C. 613\], as added by the amendment made by section 103(a) of this Act, shall take effect on the date of the enactment of this Act \[Aug. 22, 1996\].
 
 "(b)
 
@@ -150,7 +150,7 @@ Claims, actions, and proceedings.—The amendments made by this title \[see Tabl
 
 &emsp;"(3)
 
-Closing out account for those programs terminated or substantially modified by this title.—In closing out accounts, Federal and State officials may use scientifically acceptable statistical sampling techniques. Claims made with respect to State expenditures under a State plan approved under part Aof title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] (as in effect on September 30, 1995) with respect to assistance or services provided on or before September 30, 1995, shall be treated as claims with respect to expenditures during fiscal year 1995 for purposes of reimbursement even if payment was made by a State on or after October 1, 1995. Each State shall complete the filing of all claims under the State plan (as so in effect) within 2 years after the date of the enactment of this Act \[Aug. 22, 1996\]. The head of each Federal department shall—
+Closing out account for those programs terminated or substantially modified by this title.—In closing out accounts, Federal and State officials may use scientifically acceptable statistical sampling techniques. Claims made with respect to State expenditures under a State plan approved under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] (as in effect on September 30, 1995) with respect to assistance or services provided on or before September 30, 1995, shall be treated as claims with respect to expenditures during fiscal year 1995 for purposes of reimbursement even if payment was made by a State on or after October 1, 1995. Each State shall complete the filing of all claims under the State plan (as so in effect) within 2 years after the date of the enactment of this Act \[Aug. 22, 1996\]. The head of each Federal department shall—
 
 &emsp;&emsp;"(A) use the single audit procedure to review and resolve any claims in connection with the close out of programs under such State plans; and
 
@@ -218,7 +218,7 @@ Pub. L. 104–193, title I, §101, Aug. 22, 1996, 110 Stat. 2110, provided that:
 
 &emsp;"(8) The negative consequences of an out-of-wedlock birth on the mother, the child, the family, and society are well documented as follows:
 
-&emsp;&emsp;"(A) Young women 17 and under who give birth outside of marriage are more likely to go on public assistance and to spend more years on welfare once enrolled. These combined effects of 'younger and longer' increase total AFDC costs per household by 25 percent to 30 percent for 17-year-olds.
+&emsp;&emsp;"(A) Young women 17 and under who give birth outside of marriage are more likely to go on publicassistance and to spend more years on welfare once enrolled. These combined effects of 'younger and longer' increase total AFDC costs per household by 25 percent to 30 percent for 17-year-olds.
 
 &emsp;&emsp;"(B) Children born out-of-wedlock have a substantially higher risk of being born at a very low or moderately low birth weight.
 

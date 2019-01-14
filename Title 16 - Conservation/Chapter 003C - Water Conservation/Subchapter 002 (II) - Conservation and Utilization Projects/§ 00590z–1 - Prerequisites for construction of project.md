@@ -54,7 +54,7 @@ Section as amended and modified by act Dec. 22, 1944, ch. 665, §1(c), 58 Stat. 
 
 #### Transfer of Functions
 
-Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5, Government Organization and Employees.
+Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. PlanNo. 1 of 1939, §§301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Functions of Federal Works Agency transferred to General Services Administration by act June 30, 1949, ch. 288, title I, §103, 63 Stat. 380. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, §2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
 

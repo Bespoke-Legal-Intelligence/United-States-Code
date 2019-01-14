@@ -16,7 +16,7 @@ Section was formerly classified to section 61a–3 of this title prior to editor
 
 #### Change of Name
 
-Assistant Secretary of the Senate deemed successor in references to Chief Clerk of Senate in all laws, rules, resolutions, and orders, effective July 1, 1971, under provisions of Pub. L. 92–51, July 9, 1971, 85 Stat. 125.
+Assistant Secretary of the Senate deemed successor in references to Chief Clerk of Senate in all laws, rules,resolutions, and orders, effective July 1, 1971, under provisions of Pub. L. 92–51, July 9, 1971, 85 Stat. 125.
 
 #### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
 

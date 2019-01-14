@@ -42,7 +42,7 @@ Notwithstanding any other provision of this section the Secretary shall make ava
 
 No report described in subsection (e) shall be made public by the Secretary or the State subchapter XIX agency until the contractor or provider of services whose performance is being evaluated has had a reasonable opportunity (not exceeding 60 days) to review such report and to offer comments pertinent parts of which may be incorporated in the public report; nor shall the Secretary be required to include in any such report information with respect to any deficiency (or improper practice or procedures) which is known by the Secretary to have been fully corrected, within 60 days of the date such deficiency was first brought to the attention of such contractor or provider of services, as the case may be.
 
-(Aug. 14, 1935, ch. 531, title XI, §1106, as added Aug. 10, 1939, ch. 666, title VIII, §802, 53 Stat. 1398; amended Aug. 28, 1950, ch. 809, title IV, §403(d), 64 Stat. 559; Pub. L. 85–840, title VII, §701, Aug. 28, 1958, 72 Stat. 1055; Pub. L. 89–97, title I, §108(c), title III, §340, July 30, 1965, 79 Stat. 339, 411; Pub. L. 90–248, title I, §168, title II,§241(c)(1), Jan. 2, 1968, 81 Stat. 875, 917; Pub. L. 92–603, title II, §249C(a), Oct. 30, 1972, 86 Stat. 1428; Pub. L. 93–647, §101(d), Jan. 4, 1975, 88 Stat. 2360; Pub. L. 97–35, title XXII, §2207, Aug. 13, 1981, 95 Stat. 838; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(D)(ii), (l), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §108(b)(2)–(5), title III, §§311(a), 313(a), Aug. 15, 1994, 108 Stat. 1481, 1482, 1525, 1530.)
+(Aug. 14, 1935, ch. 531, title XI, §1106, as added Aug. 10, 1939, ch. 666, title VIII, §802, 53 Stat. 1398; amended Aug. 28, 1950, ch. 809, title IV, §403(d), 64 Stat. 559; Pub. L. 85–840, title VII, §701, Aug. 28, 1958, 72 Stat. 1055; Pub. L. 89–97, title I, §108(c), title III, §340, July 30, 1965, 79 Stat. 339, 411; Pub. L. 90–248, title I, §168, title II, §241(c)(1), Jan. 2, 1968, 81 Stat. 875, 917; Pub. L. 92–603, title II, §249C(a), Oct. 30, 1972, 86 Stat. 1428; Pub. L. 93–647, §101(d), Jan. 4, 1975, 88 Stat. 2360; Pub. L. 97–35, title XXII, §2207, Aug. 13, 1981, 95 Stat. 838; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(D)(ii), (l), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §108(b)(2)–(5), title III, §§311(a), 313(a), Aug. 15, 1994, 108 Stat. 1481, 1482, 1525, 1530.)
 
 #### References in Text
 
@@ -112,7 +112,7 @@ Pub. L. 103–296, title III, §313(c), Aug. 15, 1994, 108 Stat. 1530, provided 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1975 Amendment
 

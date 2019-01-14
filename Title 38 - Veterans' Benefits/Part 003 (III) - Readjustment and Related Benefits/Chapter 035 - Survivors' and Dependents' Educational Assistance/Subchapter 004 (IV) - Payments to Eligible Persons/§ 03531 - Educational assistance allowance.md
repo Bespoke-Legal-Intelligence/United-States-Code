@@ -1,6 +1,6 @@
 ### §3531. Educational assistance allowance
 
-(a) The Secretary shall, in accordance with the provisions of chapter 36 of this title, pay to the parent or guardian of each eligible personwho is pursuing a program of education under this chapter, and who applies therefor on behalf of such eligible person, an educational assistance allowance to meet, in part, the expenses of the eligible person's subsistence, tuition, fees, supplies, books, equipment, and other educational costs.
+(a) The Secretary shall, in accordance with the provisions of chapter 36 of this title, pay to the parent or guardian of each eligible person who is pursuing a program of education under this chapter, and who applies therefor on behalf of such eligible person, an educational assistance allowance to meet, in part, the expenses of the eligible person's subsistence, tuition, fees, supplies, books, equipment, and other educational costs.
 
 (b) The educational assistance allowance of an eligible person pursuing a program of education at an educational institution shall be paid as provided in chapter 36 of this title.
 
@@ -20,7 +20,7 @@ Subsec. (b). Pub. L. 94–502, §310(16), substituted "the person's" for "his" a
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–540, §312(1), inserted provision requiring the Administrator to pay in accordance with the provisions of section 1780 of this title.
 
-Subsec. (b). Pub. L. 92–540, §312(2), (3), redesignated subsec. (d) as (b). Former subsec. (b), which provided for the payment of the educational assistance allowance, pursuant to section 1732 of this title, to the eligible person only for a period of his enrollment as approved by the Administrator subject to certain limitations, was struck out.
+Subsec. (b). Pub. L. 92–540, §312(2), (3), redesignated subsec. (d) as (b). Former subsec. (b), which provided for the payment of the educational assistance allowance, pursuant to section 1732 of this title, to the eligible person only for a period of his enrollment as approved bythe Administrator subject to certain limitations, was struck out.
 
 Subsec. (c). Pub. L. 92–540, §312(2), struck out subsec. (c) which authorized the Administrator, pursuant to regulations, to determine enrollment in, pursuit of, and attendance at, any program of education or course by an eligible person.
 

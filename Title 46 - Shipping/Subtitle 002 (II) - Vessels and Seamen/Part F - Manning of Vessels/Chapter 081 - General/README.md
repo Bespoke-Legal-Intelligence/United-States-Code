@@ -9,7 +9,7 @@
 | [8105\.](%C2%A7%2008105%20-%20Fishing%20vessel%20exemption.md) | Fishing vessel exemption. |
 | [8106\.](%C2%A7%2008106%20-%20Riding%20gangs.md) | Riding gangs. |
 | [8107\.](%C2%A7%2008107%20-%20Use%20of%20force%20against%20piracy.md) | Use of force against piracy. |
-| [8108\.](%C2%A7%2008108%20-%20Merchant%20Marine%20Personnel%20Advisory%20Committee.md) | Merchant Marine Personnel Advisory Committee. |
+| \[8108. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -19,13 +19,15 @@ Chapter 81 provides for the composition, citizenship, working hours, and other l
 
 #### Amendments
 
+<b>2018</b>—Pub. L. 115–282, title VI, §601(c)(3)(A), Dec. 4, 2018, 132 Stat. 4289, struck out item 8108 "Merchant Marine Personnel Advisory Committee".
+
 <b>2014</b>—Pub. L. 113–281, title III, §310(b), Dec. 18, 2014, 128 Stat. 3047, added item 8108.
 
 <b>2010</b>—Pub. L. 111–281, title IX, §§903(c)(1), 912(b), Oct. 15, 2010, 124 Stat. 3011, 3017, inserted period at end of item 8106 and added item 8107.
 
 <b>2006</b>—Pub. L. 109–241, title III, §312(d), July 11, 2006, 120 Stat. 534, added item 8106.
 
-Pub. L. 109–163, div. A, title V, §515(f)(3)(C), Jan. 6, 2006, 119 Stat. 3236, substituted "Citizenship and Navy Reserve requirements" for "Citizenship and Naval Reserve requirements" in item 8103.
+Pub. L. 109–163, div. A, title V, §515(f)(3)(C), Jan. 6, 2006, 119 Stat. 3236, substituted "Citizenship and NavyReserve requirements" for "Citizenship and Naval Reserve requirements" in item 8103.
 
 <b>1996</b>—Pub. L. 104–324, title XI, §1146(b), Oct. 19, 1996, 110 Stat. 3993, added item 8105.
 
@@ -43,4 +45,4 @@ Pub. L. 109–163, div. A, title V, §515(f)(3)(C), Jan. 6, 2006, 119 Stat. 3236
 - [&sect; 08105 - Fishing vessel exemption](%C2%A7%2008105%20-%20Fishing%20vessel%20exemption.md)
 - [&sect; 08106 - Riding gangs](%C2%A7%2008106%20-%20Riding%20gangs.md)
 - [&sect; 08107 - Use of force against piracy](%C2%A7%2008107%20-%20Use%20of%20force%20against%20piracy.md)
-- [&sect; 08108 - Merchant Marine Personnel Advisory Committee](%C2%A7%2008108%20-%20Merchant%20Marine%20Personnel%20Advisory%20Committee.md)
+- [&sect; 08108 - Repealed. Pub. L. 115&#8211;282, title VI, &sect;601(c)(3)(A), Dec. 4, 2018, 132 Stat. 4289](%C2%A7%2008108%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93282%2C%20title%20VI%2C%20%C2%A7601%28c%29%283%29%28A%29%2C%20Dec.%204%2C%202018%2C%20132%20Stat.%204289.md)

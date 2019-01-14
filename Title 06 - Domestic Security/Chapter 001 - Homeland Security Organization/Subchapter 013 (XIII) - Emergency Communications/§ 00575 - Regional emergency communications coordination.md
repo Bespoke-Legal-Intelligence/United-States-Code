@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established in each Regional Office a Regional Emergency Communications Coordination Working Group (in this section referred to as an "RECC Working Group"). Each RECC Working Group shall report to the relevant Regional Administrator and coordinate its activities with the relevant Regional Advisory Council.
+There is established in each Regional Office a Regional Emergency Communications Coordination Working Group (in this section referred to as an "RECC Working Group"). Each RECCWorking Group shall report to the relevant Regional Administrator and coordinate its activities with the relevant Regional Advisory Council.
 
 #### (b) Membership
 
@@ -68,15 +68,19 @@ The duties of each RECC Working Group shall include—
 
 &emsp;(1) assessing the survivability, sustainability, and interoperability of local emergency communications systems to meet the goals of the National Emergency Communications Plan;
 
-&emsp;(2) reporting annually to the relevant Regional Administrator, the Director for Emergency Communications, the Chairman of the Federal Communications Commission, and the Assistant Secretary for Communications and Information of the Department of Commerce on the status of its region in building robust and sustainable interoperable voice and data emergency communications networks and, not later than 60 days after the completion of the initial National Emergency Communications Plan under section 572 of this title, on the progress of the region in meeting the goals of such plan;
+&emsp;(2) reporting annually to the relevant Regional Administrator, the Assistant Director for Emergency Communications, the Chairman of the Federal Communications Commission, and the Assistant Secretary for Communications and Information of the Department of Commerce on the status of its region in building robust and sustainable interoperable voice and data emergency communications networks and, not later than 60 days after the completion of the initial National Emergency Communications Plan under section 572 of this title, on the progress of the region in meeting the goals of such plan;
 
 &emsp;(3) ensuring a process for the coordination of effective multijurisdictional, multi-agency emergency communications networks for use during natural disasters, acts of terrorism, and other man-made disasters through the expanded use of emergency management and public safety communications mutual aid agreements; and
 
 &emsp;(4) coordinating the establishment of Federal, State, local, and tribal support services and networks designed to address the immediate and critical human needs in responding to natural disasters, acts of terrorism, and other man-made disasters.
 
-(Pub. L. 107–296, title XVIII, §1805, as added Pub. L. 109–295, title VI, §671(b), Oct. 4, 2006, 120 Stat. 1439.)
+(Pub. L. 107–296, title XVIII, §1805, as added Pub. L. 109–295, title VI, §671(b), Oct. 4, 2006, 120 Stat. 1439; amended Pub. L. 115–278, §2(g)(6)(B), Nov. 16, 2018, 132 Stat. 4179.)
 
 #### Codification
 
-Another section 1805 of Pub. L. 107–296 was renumbered section 1905 and is classified to section 595 of this title.
+Another section 1805 of Pub. L. 107–296 was renumbered section 1905 and was classified to section 595 of this title, prior to repeal by Pub. L. 115–387, §2(a)(4), Dec. 21, 2018, 132 Stat. 5163.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (d)(2). Pub. L. 115–278 substituted "Assistant Director for Emergency Communications" for "Director for Emergency Communications".
 

@@ -70,7 +70,7 @@
 
 #### (iii) Coverage election periods
 
-&emsp;&emsp;&emsp;Subject to paragraphs (2) and (3) of this subsection, section 1395w–21(e) of this title (other than subparagraphs (B), (C), (E), and (F) of paragraph (2) and the second sentence of paragraph (4) of such section), relating to coverage election periods, including initial periods, annual coordinated election periods, special election periods,and election periods for exceptional circumstances.
+&emsp;&emsp;&emsp;Subject to paragraphs (2) and (3) of this subsection, section 1395w–21(e) of this title (other than subparagraphs (B), (C), (E), and (F) of paragraph (2) and the second sentence of paragraph (4) of such section), relating to coverage election periods, including initial periods, annual coordinated election periods, special election periods, and election periods for exceptional circumstances.
 
 #### (iv) Coverage periods
 
@@ -152,7 +152,7 @@
 
 #### (i) Provision of information
 
-&emsp;&emsp;&emsp;The Secretary may provide the information under subparagraph (A) only to the extent necessary to carry out such subparagraph.
+&emsp;&emsp;&emsp;The Secretary may provide the information under subparagraph (A) only to theextent necessary to carry out such subparagraph.
 
 #### (ii) Use of information
 
@@ -223,10 +223,6 @@
 &emsp;The information disseminated under paragraph (1) shall include information concerning the methodology for determining the late enrollment penalty under section 1395w–113(b) of this title.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–1, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2071; amended Pub. L. 109–432, div. B, title II, §206(b), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 111–148, title III, §3303(b), Mar. 23, 2010, 124 Stat. 469; Pub. L. 114–10, title II, §209(b)(2)(B)(ii), Apr. 16, 2015, 129 Stat. 149; Pub. L. 114–198, title VII, §704(a)(3), July 22, 2016, 130 Stat. 748.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 704(a)(3) of Pub. L. 114–198 applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after Jan. 1, 2019. See 2016 Amendment note below.</i>
 
 #### Amendments
 
@@ -458,7 +454,7 @@ Pub. L. 108–173, title I, §110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
 Study.—The Federal Trade Commission shall conduct a study of differences in payment amounts for pharmacy services provided to enrollees in group health plans that utilize pharmacy benefit managers. Such study shall include the following:
 
-&emsp;"(1) An assessment of the differences in costs incurred by such enrollees and plans for prescription drugs dispensed by mail-order pharmacies owned by pharmaceutical benefit managers compared to mail-order pharmacies not owned by pharmaceutical benefit managers, and community pharmacies.
+&emsp;"(1) An assessment of the differences in costs incurred by such enrollees and plans for prescriptiondrugs dispensed by mail-order pharmacies owned by pharmaceutical benefit managers compared to mail-order pharmacies not owned by pharmaceutical benefit managers, and community pharmacies.
 
 &emsp;"(2) Whether such plans are acting in a manner that maximizes competition and results in lower prescription drug prices for enrollees.
 

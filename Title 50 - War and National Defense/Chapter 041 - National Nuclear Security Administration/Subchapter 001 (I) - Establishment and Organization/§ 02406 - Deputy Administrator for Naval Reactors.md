@@ -4,7 +4,7 @@
 
 (1) There is in the Administration a Deputy Administrator for Naval Reactors. The director of the Naval Nuclear Propulsion Program provided for under the Naval Nuclear Propulsion Executive Order shall serve as the Deputy Administrator for Naval Reactors.
 
-(2) Within the Department of Energy, the Deputy Administrator shall report to the Secretary of Energy through the Administrator and shall have direct access to the Secretary and other senior officials in the Department.
+(2) Within the Department of Energy, the Deputy Administrator shall report to the Secretaryof Energy through the Administrator and shall have direct access to the Secretary and other senior officials in the Department.
 
 #### (b) Duties
 
@@ -25,6 +25,10 @@ As used in this section, the Naval Nuclear Propulsion Executive Order is Executi
 Executive Order No. 12344, referred to in subsec. (d), is set out as a note under section 2511 of this title.
 
 Section 1634 of the Department of Defense Authorization Act, 1985 (Public Law 98–525), referred to in subsec. (d), was formerly set out as a note under section 7158 of Title 42, The Public Health and Welfare, and was renumbered section 4101 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(d)(2), Nov. 24, 2003, 117 Stat. 1757. Section 4101 of Pub. L. 107–314 is classified to section 2511 of this title.
+
+#### Effective Date
+
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under section 2401 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

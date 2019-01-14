@@ -1,8 +1,8 @@
 ### §41907. Weighing mail
 
-The United States Postal Service may weigh mail transported by aircraft between places in Alaska and make statistical and –administrative <sup>1</sup> computations necessary in the interest of mail service. When the Secretary of Transportation decides that additional or more frequent weighings of mail are advisable or necessary to carry out this part, the Postal Service shall provide the weighings, but it is not required to provide them for continuous periods of more than 30 days.
+The United States Postal Service may weigh mail transported by aircraft between places in Alaska and make statistical and administrative computations necessary in the interest of mail service. When the Secretary of Transportation decides that additional or more frequent weighings of mail are advisable or necessary to carry out this part, the Postal Service shall provide the weighings, but it is not required to provide them for continuous periods of more than 30 days.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1157, §41910; renumbered §41907 and amended Pub. L. 110–405, §2(b)(6), (7)(B), Oct. 13, 2008, 122 Stat. 4289.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1157, §41910; renumbered §41907 and amended Pub. L. 110–405, §2(b)(6), (7)(B), Oct. 13, 2008, 122 Stat. 4289; Pub. L. 115–254, div. B, title V, §539(g), Oct. 5, 2018, 132 Stat. 3370.)
 
 Historical and Revision Notes
 
@@ -26,7 +26,7 @@ Aug. 23, 1958, Pub. L. 85–726, §406(f), 72 Stat. 764.
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
-The text of 49 App.:1376(f) (2d sentence) is omitted as surplus because of 39:chs. 4 and 10. The words "upon request of the Board" are omitted as surplus because the Secretary of Transportation makes the determination. The words "therefor in like manner" are omitted as surplus.
+The text of 49 App.:1376(f) (2d sentence) is omitted as surplus because of 39:chs. 4 and 10. The words "upon request of the Board" are omitted as surplus because theSecretary of Transportation makes the determination. The words "therefor in like manner" are omitted as surplus.
 
 #### Prior Provisions
 
@@ -34,13 +34,13 @@ A prior section 41907, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1155, 
 
 #### Amendments
 
+<b>2018</b>—Pub. L. 115–254 substituted "and administrative" for "and –administrative".
+
 <b>2008</b>—Pub. L. 110–405, §2(b)(7)(B), renumbered section 41910 of this title as this section.
 
-Pub. L. 110–405, §2(b)(6), substituted "The United States Postal Service may weigh mail transported by aircraft between places in Alaska and make statistical and –administrative computations necessary in the interest of mail service." for "The United States PostalService may weigh mail transported by aircraft and make statistical and administrative computations necessary in the interest of mail service."
+Pub. L. 110–405, §2(b)(6), substituted "The United States Postal Service may weigh mail transported by aircraft between places in Alaska and make statistical and –administrative computations necessary in the interest of mail service." for "The United States Postal Service may weigh mail transported by aircraft and make statistical and administrative computations necessary in the interest of mail service."
 
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–405 effective Oct. 1, 2008, see section 2(c) of Pub. L. 110–405, set out as a note under section 101 of Title 39, Postal Service.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

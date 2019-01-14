@@ -138,7 +138,7 @@ Consultation and report.—In entering into any arrangements with the National A
 
 &emsp;"(3)
 
-Authorization of appropriation.—In addition to amounts authorized under section 115 of the Hazardous Materials Transportation Act \[see 49 U.S.C. 5127(a)\], there is authorized to be appropriated to the Secretary of Transportation to carry out this subsection $350,000.
+Authorization of appropriation.—In addition to amounts authorized under section 115 of the Hazardous Materials Transportation Act \[see 49 U.S.C. 5127(a)\], there is authorized to be appropriated to theSecretary of Transportation to carry out this subsection $350,000.
 
 "(c)
 

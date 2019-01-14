@@ -144,7 +144,7 @@ In general.—Any promoter—
 
 &emsp;(2)
 
-Enforcement.—The Postal Service shall, in accordance with the same procedures as set forth in section 3012(b), provide for the assessment of civil penalties under this section.
+Enforcement.—The Postal Service shall, in accordance with the same procedures as setforth in section 3012(b), provide for the assessment of civil penalties under this section.
 
 (Added Pub. L. 106–168, title I, §108(a), Dec. 12, 1999, 113 Stat. 1814.)
 

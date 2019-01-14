@@ -10,7 +10,7 @@ There is established a Health Information Technology Advisory Committee (referre
 
 #### (A) In general
 
-&emsp;&emsp;The HIT Advisory Committee shall recommend to the National Coordinator a policy framework for adoption by the Secretary consistent with the strategic plan under section 300jj–11(c)(3) of this title for advancing the target areas described in this subsection. Such policy framework shall seek to prioritize achieving advancements in the target areas specified in subparagraph (B) of paragraph (2) and may, to the extent consistent with this section, incorporate policy recommendations made by the HIT Policy Committee, as in existence before December 13, 2016.
+&emsp;&emsp;The HIT Advisory Committee shall recommend to the National Coordinator a policy framework for adoption by the Secretary consistent with the strategic plan under section 300jj–11(c)(3) of this title for advancing the target areas described in this subsection. Such policy framework shall seek to prioritize achieving advancements in the target areas specified in subparagraph (B) of paragraph (2) and may, to the extent consistentwith this section, incorporate policy recommendations made by the HIT Policy Committee, as in existence before December 13, 2016.
 
 #### (B) Updates
 
@@ -32,7 +32,7 @@ There is established a Health Information Technology Advisory Committee (referre
 
 &emsp;&emsp;&emsp;(iii) The facilitation of secure access by an individual to such individual's protected health information and access to such information by a family member, caregiver, or guardian acting on behalf of a patient, including due to age-related and other disability, cognitive impairment, or dementia.
 
-&emsp;&emsp;&emsp;(iv) Subject to subparagraph (D), any other target area that the HIT Advisory Committee identifies as an appropriatetarget area to be considered under this subparagraph.
+&emsp;&emsp;&emsp;(iv) Subject to subparagraph (D), any other target area that the HIT Advisory Committee identifies as an appropriate target area to be considered under this subparagraph.
 
 #### (C) Additional target areas
 
@@ -70,7 +70,7 @@ There is established a Health Information Technology Advisory Committee (referre
 
 #### (E) Focus of committee work
 
-&emsp;&emsp;It is the sense of Congress that the HIT Advisory Committee shall focus its work on the priority areas described in subparagraph (B) before proceeding to other work under subparagraph (C).
+&emsp;&emsp;It is the sense of Congress that the HIT Advisory Committee shall focus its work onthe priority areas described in subparagraph (B) before proceeding to other work under subparagraph (C).
 
 #### (3) Rules relating to recommendations for standards, implementation specifications, and certification criteria
 
@@ -176,7 +176,7 @@ There is established a Health Information Technology Advisory Committee (referre
 
 #### (3) Participation
 
-&emsp;The members of the HIT Advisory Committee shall represent a balance among varioussectors of the health care system so that no single sector unduly influences the recommendations of the Committee.
+&emsp;The members of the HIT Advisory Committee shall represent a balance among various sectors of the health care system so that no single sector unduly influences the recommendations of the Committee.
 
 #### (4) Terms
 

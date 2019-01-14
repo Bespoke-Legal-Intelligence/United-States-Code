@@ -2,7 +2,7 @@
 
 The Secretary of Agriculture shall submit to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry the following reports:
 
-&emsp;(1) Not later than July 1, 1984, a report on the effect of applying, nationally, standardssimilar to the current California standards for fluid milk products in their final consumer form, as they would relate to—
+&emsp;(1) Not later than July 1, 1984, a report on the effect of applying, nationally, standards similar to the current California standards for fluid milk products in their final consumer form, as they would relate to—
 
 &emsp;&emsp;(A) consumer acceptance, overall consumer consumption trends, and total per capita consumption;
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D)(i) the receipt of all funds covered by a plan approved under this chapter; and
 
-&emsp;&emsp;(ii) the distribution of the funds to the respective Indian tribes by not later than 45 days after the date of receipt of the funds from the appropriate Federal department or agency; and
+&emsp;&emsp;(ii) the distribution of the funds to the respective Indian tribes by not later than 45days after the date of receipt of the funds from the appropriate Federal department or agency; and
 
 &emsp;&emsp;(E)(i) the performance of activities described in section 3406 of this title relating to agency waivers; and
 
@@ -62,7 +62,7 @@
 
 #### (3) Limitation
 
-&emsp;The report format developed under paragraph (1) shall not require a participating Indian tribe to report on the expenditure of funds expressed by fund source or single agency code transferred to the Indian tribe under an approved plan under this chapter but instead shall require the Indian tribe to submita single report on the expenditure of consolidated funds under such plan.
+&emsp;The report format developed under paragraph (1) shall not require a participating Indian tribe to report on the expenditure of funds expressed by fund source or single agency code transferred to the Indian tribe under an approved plan under this chapter but instead shall require the Indian tribe to submit a single report on the expenditure of consolidated funds under such plan.
 
 (Pub. L. 102–477, §11, Oct. 23, 1992, 106 Stat. 2304; Pub. L. 115–93, §11, Dec. 18, 2017, 131 Stat. 2032.)
 

@@ -22,7 +22,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 #### Codification
 
-As originally enacted section contained references to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted "the district court of the United States for the District of Columbia" for "the Supreme Court of the District of Columbia", and act June 25, 1948, as amended by act May 24, 1949, substituted "United States District Court for the District of Columbia" for "district court of the United States for the District of Columbia". Pub. L. 100–181 struck out reference to the United States District Court for the District of Columbia. Previously, such words had been editorially eliminated as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which provides that "There shall be in each judicial district a district court which shall be a court ofrecord known as the United States District Court for the district", and section 88 of Title 28 which provides that "the District of Columbia constitutes one judicial district".
+As originally enacted section contained references to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted "the district court of the United States for the District of Columbia" for "the Supreme Court of the District of Columbia", and act June 25, 1948, as amended by act May 24, 1949, substituted "United States District Court for the District of Columbia" for "district court of the United States for the District of Columbia". Pub. L. 100–181 struck out reference to the United States District Court for the District of Columbia. Previously, such words had been editorially eliminated as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which provides that "There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district", and section 88 of Title 28 which provides that "the District of Columbia constitutes one judicial district".
 
 #### Amendments
 
@@ -34,7 +34,7 @@ Pub. L. 111–203, §929E(b), inserted "In any action or proceeding instituted b
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Transfer of Functions
 

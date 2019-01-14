@@ -28,7 +28,7 @@ The State process of development of a mitigation plan under this section shall�
 
 #### (1) In general
 
-&emsp;Federal contributions under section 5170c of this title may be used to fund the developmentand updating of mitigation plans under this section.
+&emsp;Federal contributions under section 5170c of this title may be used to fund the development and updating of mitigation plans under this section.
 
 #### (2) Maximum Federal contribution
 
@@ -38,7 +38,7 @@ The State process of development of a mitigation plan under this section shall�
 
 #### (1) In general
 
-&emsp;If, at the time of the declaration of a major disaster, a State has in effect an approved mitigation plan under this section, the President may increase to 20 percent, with respect to the major disaster, the maximum percentage specified in the last sentence of section 5170c(a) of this title.
+&emsp;If, at the time of the declaration of a major disaster or event under section 5187 of this title, a State has in effect an approved mitigation plan under this section, the President may increase to 20 percent, with respect to the major disaster or event under section 5187 of this title, the maximum percentage specified in the last sentence of section 5170c(a) of this title.
 
 #### (2) Factors for consideration
 
@@ -52,5 +52,13 @@ The State process of development of a mitigation plan under this section shall�
 
 &emsp;&emsp;(D) a process by which an assessment of the effectiveness of a mitigation action may be carried out after the mitigation action is complete.
 
-(Pub. L. 93–288, title III, §322, as added Pub. L. 106–390, title I, §104(a), Oct. 30, 2000, 114 Stat. 1558.)
+(Pub. L. 93–288, title III, §322, as added Pub. L. 106–390, title I, §104(a), Oct. 30, 2000, 114 Stat. 1558; amended Pub. L. 115–254, div. D, §1204(b)(2), Oct. 5, 2018, 132 Stat. 3439.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (e)(1). Pub. L. 115–254 inserted "or event under section 5187 of this title" after "major disaster" in two places.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under section 5121 of this title.
 

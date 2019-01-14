@@ -28,7 +28,7 @@ The Secretary shall—
 
 &emsp;(C) in providing such technical assistance, give preference to small businesses;
 
-&emsp;(8) foster the exchange of information respecting, and foster cooperation in the conduct of, research, demonstration, and training programs respecting health information and health promotion, preventive health services, and education in the appropriate use of health care;
+&emsp;(8) foster the exchange of information respecting, and foster cooperation in the conduct of, research, demonstration, and trainingprograms respecting health information and health promotion, preventive health services, and education in the appropriate use of health care;
 
 &emsp;(9) provide technical assistance in the programs referred to in paragraph (8);
 
@@ -82,7 +82,7 @@ Subsec. (b). Pub. L. 100–607, §312(a)(1), substituted "sections 300u through 
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–551, §2(a)(1), added par. (10), and in provisions following par. (10) struck out "and with health planning and resource development activities undertaken under subchapters XIII and XIV of this chapter" after "section 300k–2 of this title" and inserted provisions for appointment of a Director for Office of Disease Prevention and Health Promotion and cooperation in administration of this subchapter.
 
-Subsec. (b). Pub. L. 98–551, §2(a)(2), substituted "To carry out this subchapter, there are authorized to be appropriated $9,000,000 for the fiscal year ending September 30, 1985, $9,500,000 for the fiscal year ending September 30, 1986, and $10,000,000 for the fiscal year ending September 30, 1987" for "For payments under grants and contracts under this subchapter (other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title) there are authorized to be appropriated $7,000,000 for the fiscal year ending September 30, 1977, $10,000,000 for the fiscal year ending September 30, 1978, $14,000,000 for the fiscal year ending September 30, 1979, $14,000,000 for the fiscal year ending September 30, 1980, $15,000,000 for the fiscal year ending September 30, 1981, and $16,000,000 for the fiscal year ending September 30, 1982."
+Subsec. (b). Pub. L. 98–551, §2(a)(2), substituted "To carry out this subchapter, there are authorized to be appropriated $9,000,000 for the fiscal year ending September 30, 1985, $9,500,000 for the fiscal year ending September 30, 1986, and $10,000,000 for the fiscal year ending September 30, 1987" for "For payments under grants and contracts under this subchapter (other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title) there are authorized to be appropriated $7,000,000 for the fiscal year ending September 30, 1977, $10,000,000 for the fiscal year ending September 30, 1978, $14,000,000 for the fiscal year ending September 30, 1979, $14,000,000 for the fiscal year ending September 30, 1980,$15,000,000 for the fiscal year ending September 30, 1981, and $16,000,000 for the fiscal year ending September 30, 1982."
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–76 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1980, Sept. 30, 1981, and Sept. 30, 1982.
 
@@ -100,59 +100,71 @@ Section 312(b)(2) of Pub. L. 100–607 required Secretary of Health and Human Se
 
 Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539, Dec. 3, 1985, 50 F.R. 49829; Ex. Ord. No. 12694, Oct. 11, 1989, 54 F.R. 42285; Ex. Ord. No. 12709, Apr. 4, 1990, 55 F.R. 13097; Ex. Ord. No. 13138, §8, Sept. 30, 1999, 64 F.R. 53881, which provided for the Secretary of Health and Human Services to develop and coordinate a national program for physical fitness and sports, continued the President's Council on Physical Fitness and Sports, and provided for termination of the Council on Dec. 31, 1982, was revoked by Ex. Ord. No. 13265, §5(c), June 6, 2002, 67 F.R. 39842, set out below, prior to amendment by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283.
 
-#### Ex. Ord. No. 13265. President's Council on Fitness, Sports, and Nutrition
+#### Ex. Ord. No. 13265. President's Council on Sports, Fitness, and Nutrition
 
-Ex. Ord. No. 13265, June 6, 2002, 67 F.R. 39841, as amended by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283, provided:
+Ex. Ord. No. 13265, June 6, 2002, 67 F.R. 39841, as amended by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283; Ex. Ord. No. 13824, Feb. 26, 2018, 83 F.R. 8923, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and to expand the executive branch's program for physical fitness and sports and establish the President's Council on Physical Fitness and Sports \[probably should be "President's Council on Fitness, Sports, and Nutrition"\] (the "Council"), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to expand the executive branch's program for physical fitness and sports and establish the President's Council on Sports, Fitness, and Nutrition (the "Council"), it is hereby ordered as follows:
 
-Section 1. <i>Purpose</i>. The Secretary of Health and Human Services (Secretary), in carrying out the Secretary's responsibilities for public health and human services, shall develop and coordinate a national program to enhance physical activity, fitness, sports participation, and good nutrition. Through this program, the Secretary shall, in consultation with the Secretaries of Agriculture and Education, seek to:
+Section 1. <i>Purpose.</i> My Administration recognizes the benefits of youth sports participation, physical activity, and a nutritious diet in helping create habits that support a healthy lifestyle and improve the overall health of the American people. My Administration therefore aims to expand and encourage youth sports participation, and to promote the overall physical fitness, health, and nutrition of all Americans.
 
-(a) expand national interest in and awareness of the benefits of regular physical activity, fitness, sports participation, and good nutrition;
+Good health, including physical activity and proper nutrition, supports Americans', particularly children's, well-being, growth, and development. Participating in sports allows children to experience the connection between effort and success, and it enhances their academic, economic, and social prospects. Many of America's leaders attribute their lifetime achievements to lessons learned through sports participation and athletic activity. Additionally, youth sports help working parents and guardians by providing their children opportunities to engage in productive, positive activities outside of school. Unfortunately, during the past decade youth participation in team sports has declined. As of 2016, only 37 percent of children played team sports on a regular basis, down from 45 percent in 2008. Particularly troubling is that sports participation disproportionately lags among young girls and children who are from economically distressed areas.
 
-(b) stimulate and enhance coordination of programs within and among the private and public sectors that promote physical activity, fitness, sports participation, and good nutrition;
+Sec. 2. <i>Policy</i>. (a) The Secretary of Health and Human Services (Secretary), in carrying out the Secretary's responsibilities for public health and human services, shall develop a national strategy to expand children's participation in youth sports, encourage regular physical activity, including active play, and promote good nutrition for all Americans. This national strategy shall focus on children and youth in communities with below-average sports participation and communities with limited access to athletic facilities or recreational areas. Through this national strategy, the Secretary shall seek to:
 
-(c) expand availability of quality information and guidance regarding physical activity, fitness, sports participation, and good nutrition; and
+(i) increase awareness of the benefits of participation in sports and regular physical activity, as well as the importance of good nutrition;
 
-(d) target all Americans, with particular emphasis on children and adolescents, as well as populations or communities in which specific risks or disparities in participation in, access to, or knowledge about the benefits of physical activity, fitness, sports participation, and good nutrition have been identified.
+(ii) promote private and public sector strategies to increase participation in sports, encourage regular physical activity, and improve nutrition;
 
-In implementing this order, the Secretary shall be guided by the science-based Federal Dietary Guidelines for Americans and the Physical Activity Guidelines for Americans. Additionally, the Secretary shall undertake nutrition-related activities under this order in coordination with the Secretary of Agriculture.
+(iii) develop metrics that gauge youth sports participation and physical activity to inform efforts that will improve participation in sports and regular physical activity among young Americans; and
 
-Sec. 2. <i>The President's Council on Fitness, Sports, and Nutrition</i>. (a) There is hereby established the President's Council on Fitness, Sports, and Nutrition (Council).
+(iv) establish a national and local strategy to recruit volunteers who will encourage and support youth participation in sports and regular physical activity, through coaching, mentoring, teaching, or administering athletic and nutritional programs.
 
-(b) The Council shall be composed of up to 25 members appointed by the President. Members shall serve for a term of 2 years, shall be eligible for reappointment, and may continue to serve after the expiration of their terms until the appointment of a successor. The President may designate one or more members as Chair or Vice Chair.
+Sec. 3. <i>The President's Council on Sports, Fitness, and Nutrition</i>. (a) There is hereby established the President's Council on Sports, Fitness, and Nutrition (Council).
 
-Sec. 3. <i>Functions of the Council</i>. (a) The Council shall advise the President, through the Secretary, concerning progress made in carrying out the provisions of this order and shall recommend to the President, through the Secretary, actions to accelerate progress.
+(b) The Council shall be composed of up to 30 members recommended by the Secretary and appointed by the President. Members shall serve for a term of 2 years, shall be eligible for reappointment, and may continue to serve after the expiration of their terms until the appointment of a successor. The President may designate one or more of the members as Chair or Vice Chair.
 
-(b) The Council shall advise the Secretary on ways to promote regular physical activity, fitness, sports participation, and good nutrition. Recommendations may address, but are not necessarily limited to, public awareness campaigns; Federal, State, and local physical activity; fitness, sports participation, and nutrition initiatives; and partnership opportunities between public- and private-sector health-promotion entities.
+Sec. 4. <i>Functions of the Council</i>. (a) The Council shall advise the President, through the Secretary, concerning progress made in carrying out the provisions of this order and shall recommend to the President, through the Secretary, actions to accelerate such progress.
 
-(c) The Council shall function as a liaison to relevant State, local, and private entities in order to advise the Secretary regarding opportunities to extend and improve physical activity, fitness, sports, and nutrition programs and services at the local, State, and national levels.
+(b) The Council shall recommend to the Secretary actions to expand opportunities at the national, State, and local levels for participation in sports and engagement in physical fitness and activity.
 
-(d) The Council shall monitor the need to enhance programs and educational and promotional materials sponsored, overseen, or disseminated by the Council, and shall advise the Secretary as necessary concerning such need.
+(c) The Council's performance of these functions shall take into account the Department of Health and Human Services' Physical Activity Guidelines for Americans, including consideration for youth with disabilities.
 
-In performing its functions, the Council shall take into account the Federal Dietary Guidelines for Americans and the Physical Activity Guidelines for Americans.
-
-Sec. 4. <i>Administration</i>. (a) Each executive department and agency shall, to the extent permitted by law and subject to the availability of funds, furnish such information and assistance to the Secretary and the Council as they may request.
+Sec. 5. <i>Administration</i>. (a) Each executive department and agency shall, to the extent permitted by law and subject to the availability of funds, furnish such information and assistance to the Secretary and the Council as they may request.
 
 (b) The members of the Council shall serve without compensation for their work on the Council. Members of the Council may, however, receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707).
 
 (c) To the extent permitted by law, the Secretary shall furnish the Council with necessary staff, supplies, facilities, and other administrative services. The expenses of the Council shall be paid from funds available to the Secretary.
 
-(d) The Secretary shall appoint an Executive Director of the Council who shall serve as a liaison to the Secretary and the White House on matters and activities pertaining to the Council.
+(d) The Secretary shall appoint an Executive Director of the Council who shall serve as a liaison to the Secretary and the Advisor to the President on matters and activities pertaining to the Council.
 
-(e) The Council, with the approval of the Secretary, may establish subcommittees as appropriate to aid in its work.
+(e) The Council may, with the approval of the Secretary, establish subcommittees as appropriate to aid in its work.
 
 (f) The seal prescribed by Executive Order 10830 of July 24, 1959, as amended, shall be modified to reflect the name of the Council as established by this order.
 
-Sec. 5. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines and procedures issued by the Administrator of General Services.
+Sec. 6. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.)\(Act), may apply to the administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines and procedures issued by the Administrator of General Services.
 
 (b) The Council shall terminate 2 years from the date of this order, unless extended by the President.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
+(d) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(e) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(f) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+\[Ex. Ord. No. 13824, §2(c), (d), which directed amendment of Ex. Ord. No. 13265, set out above, by revising sections "1 through 5" and renumbering section 5 as 6 (with additional amendments), was executed by substituting sections 1 to 5 for former sections 1 to 4 and renumbering former section 5 as 6.\]
+
+\[Ex. Ord. No. 13824, §1, revoked Ex. Ord. No. 13545, which had amended Ex. Ord. No. 13265, set out above.\]
+
 #### Extension of Term of President's Council on Fitness, Sports, and Nutrition
 
-Term of President's Council on Fitness, Sports, and Nutrition extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council on Fitness, Sports, and Nutrition (renamed President's Council on Sports, Fitness, and Nutrition) extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Council on Fitness, Sports, and Nutrition, formerly President's Council on Physical Fitness and Sports, were contained in the following prior Executive Orders:
 
@@ -214,7 +226,7 @@ Sec. 2. <i>Agency Responsibilities in Promoting Personal Fitness.</i>
 
 (b) Each department and office included in section 2(a) shall report to the President, through the Secretary of Health and Human Services, its proposed actions within 90 days of the date of this order.
 
-(c) There shall be a Personal Fitness Interagency Working Group (Working Group), composed of the Secretaries or Director of the departments and office included in section 2(a) (or their designees) and chaired by the Secretary of HHS or his designee. In order to improve efficiency through information sharing and to eliminate waste and overlap, the Working Group shall work to ensure the cooperation of Federal agencies in coordinating Federal personal fitness activities. The Working Group shall meet subject to the call of the Chair, but not less than twice a year. The Department of Health and Human Services shall provide such administrative support to the Working Group as the Secretary of HHS deems necessary. Each member of the Working Group shall be a full-time or permanent part-time officer or employee of the Federal Government.
+(c) There shall be a Personal Fitness Interagency Working Group (Working Group), composed of the Secretaries or Director of the departments and office included in section 2(a) (or their designees) and chaired by the Secretary of HHS or his designee. In order to improve efficiency through information sharing and to eliminate waste and overlap, the Working Group shall work to ensure the cooperation of Federal agencies incoordinating Federal personal fitness activities. The Working Group shall meet subject to the call of the Chair, but not less than twice a year. The Department of Health and Human Services shall provide such administrative support to the Working Group as the Secretary of HHS deems necessary. Each member of the Working Group shall be a full-time or permanent part-time officer or employee of the Federal Government.
 
 Sec. 3. <i>General Provisions</i>. This order is intended only to improve the internal management of the executive branch and it is not intended to, and does not, create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies or entities, its officers or employees, or any person.
 

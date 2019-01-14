@@ -38,7 +38,7 @@ The Congress finds and declares that—
 
 The purposes of this chapter are to encourage partnership among public agencies and other interests—
 
-&emsp;(1) to protect, enhance, restore, and manage an appropriate distribution and diversity of wetland ecosystems and habitats associated with wetland ecosystems and other fish and wildlife in North America;
+&emsp;(1) to protect, enhance, restore, and manage an appropriate distribution and diversity ofwetland ecosystems and habitats associated with wetland ecosystems and other fish and wildlife in North America;
 
 &emsp;(2) to maintain current or improved distributions of wetland associated migratory bird populations; and
 

@@ -6,7 +6,7 @@ Within 30 days after November 1, 1985, there shall be established in the Treasur
 
 #### (b) Fund credits; transfers to fund
 
-The fund shall be credited with appropriations made for the purpose of providing or increasing capital. There are authorized to be transferred to the fund (at fair and reasonable values at the time of transfer) the inventories, equipment, receivables, and other assets, less the liabilities, related to the functions to be financed by the fund as determined by the Secretary of the Interior.
+The fund shall be credited with appropriations made for the purpose of providing or increasingcapital. There are authorized to be transferred to the fund (at fair and reasonable values at the time of transfer) the inventories, equipment, receivables, and other assets, less the liabilities, related to the functions to be financed by the fund as determined by the Secretary of the Interior.
 
 #### (c) Use of funds to provide materials, supplies, equipment, work, and services
 

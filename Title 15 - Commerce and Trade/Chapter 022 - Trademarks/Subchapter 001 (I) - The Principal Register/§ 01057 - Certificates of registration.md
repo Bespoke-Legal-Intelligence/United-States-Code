@@ -28,7 +28,7 @@ Upon application of the owner the Director may permit any registration to be sur
 
 #### (f) Copies of United States Patent and Trademark Office records as evidence
 
-Copies of any records, books, papers, or drawings belonging to the United States Patent and Trademark Office relating to marks, and copies of registrations, when authenticated by the seal of the United States Patent and Trademark Office and certified by the Director, or in his name by an employee of the Office duly designated by the Director, shall be evidence in all cases wherein the originals would be evidence; and any person making application therefor and paying the prescribed fee shall have such copies.
+Copies of any records, books, papers, or drawings belonging to the United States Patent and Trademark Office relating to marks, and copies of registrations, when authenticated by the sealof the United States Patent and Trademark Office and certified by the Director, or in his name by an employee of the Office duly designated by the Director, shall be evidence in all cases wherein the originals would be evidence; and any person making application therefor and paying the prescribed fee shall have such copies.
 
 #### (g) Correction of United States Patent and Trademark Office mistake
 
@@ -94,7 +94,7 @@ Subsec. (f). Pub. L. 87–772, among other changes, struck out ", signed by the
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1998 Amendment
 

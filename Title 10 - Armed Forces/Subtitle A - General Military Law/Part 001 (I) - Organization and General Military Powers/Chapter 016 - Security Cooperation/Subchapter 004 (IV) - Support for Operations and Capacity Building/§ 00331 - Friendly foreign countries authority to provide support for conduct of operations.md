@@ -44,7 +44,7 @@ Types of Support Authorized.—The types of support that may be provided under t
 
 &emsp;(4) Provision of specialized training to personnel of friendly foreign countries in connection with such an operation, including training of such personnel before deployment in connection with such operation.
 
-&emsp;(5) Small-scale construction to support military forces of a friendly foreign country participating in a United States-supported coalition or combined operation when the construction is directly linked to the ability of such forces to participate in such operation effectively and is limited to the geographic area where such operation is taking place.
+&emsp;(5) Small-scale construction to support military forces of a friendly foreign country participating in a United States-supported coalition or combined operation when the construction is directly linked to the ability of such forces to participate in such operation effectively and is limited to the geographic area where such operation is taking place. In the case of support provided under this paragraph that results in the provision of small-scale construction above $750,000, the notification pursuant to subsection (b)(2) shall include the location, project title, and cost of each such small-scale construction project that will be carried out, a Department of Defense Form 1391 for each such project, and a masterplan of planned infrastructure investments at the location.
 
 (d)
 
@@ -54,7 +54,7 @@ Certification Required.—
 
 Operations in which the united states is not participating.—The Secretary of Defense may provide support under subsection (a) to a friendly foreign country with respect to an operation in which the United States is not participating only—
 
-&emsp;&emsp;(A) if the Secretary of Defense and the Secretary of State jointly certify to the appropriate committees of Congress that theoperation is in the national security interests of the United States; and
+&emsp;&emsp;(A) if the Secretary of Defense and the Secretary of State jointly certify to the appropriate committees of Congress that the operation is in the national security interests of the United States; and
 
 &emsp;&emsp;(B) after the expiration of the 15-day period beginning on the date of such certification.
 
@@ -92,13 +92,15 @@ Limitations on Value.—
 
 Logistic Support, Supplies, and Services Defined.—In this section, the term "logistic support, supplies, and services" has the meaning given that term in section 2350(1) of this title.
 
-(Added Pub. L. 109–364, div. A, title XII, §1201(a), Oct. 17, 2006, 120 Stat. 2410, §127c; renumbered §127d, Pub. L. 110–181, div. A, title X, §1063(a)(1)(A), Jan. 28, 2008, 122 Stat. 321; Pub. L. 111–383, div. A, title X, §1075(b)(3), title XII, §1202, Jan. 7, 2011, 124 Stat. 4369, 4385; renumbered §331 and amended Pub. L. 114–328, div. A, title XII, §1245(a), Dec. 23, 2016, 130 Stat. 2518.)
+(Added Pub. L. 109–364, div. A, title XII, §1201(a), Oct. 17, 2006, 120 Stat. 2410, §127c; renumbered§127d, Pub. L. 110–181, div. A, title X, §1063(a)(1)(A), Jan. 28, 2008, 122 Stat. 321; Pub. L. 111–383, div. A, title X, §1075(b)(3), title XII, §1202, Jan. 7, 2011, 124 Stat. 4369, 4385; renumbered §331 and amended Pub. L. 114–328, div. A, title XII, §1245(a), Dec. 23, 2016, 130 Stat. 2518; Pub. L. 115–232, div. A, title XII, §1203(b), Aug. 13, 2018, 132 Stat. 2016.)
 
 #### Prior Provisions
 
 A prior section 331 was renumbered section 251 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(5). Pub. L. 115–232 inserted at end "In the case of support provided under this paragraph that results in the provision of small-scale construction above $750,000, the notification pursuant to subsection (b)(2) shall include the location, project title, and cost of each such small-scale construction project that will be carried out, a Department of Defense Form 1391 for each such project, and a masterplan of planned infrastructure investments at the location."
 
 <b>2016</b>—Pub. L. 114–328 renumbered section 127d of this title as this section and amended it generally. Prior to amendment, section related to authority to provide logistic support, supplies, and services to allied forces participating in combined operations.
 

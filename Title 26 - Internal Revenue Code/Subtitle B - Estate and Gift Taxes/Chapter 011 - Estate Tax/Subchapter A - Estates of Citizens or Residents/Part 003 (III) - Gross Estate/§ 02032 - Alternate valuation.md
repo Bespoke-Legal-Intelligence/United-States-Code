@@ -58,7 +58,7 @@ Amendment by Pub. L. 99–514 applicable to generation-skipping transfers (withi
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title X, §1023(b), July 18, 1984, 98 Stat. 1030, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[July 18, 1984\]."
+Pub. L. 98–369, div. A, title X, §1023(b), July 18, 1984, 98 Stat. 1030, provided that: "The amendments made bysubsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[July 18, 1984\]."
 
 Pub. L. 98–369, div. A, title X, §1024(b), July 18, 1984, 98 Stat. 1030, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 

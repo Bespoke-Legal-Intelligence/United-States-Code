@@ -44,7 +44,7 @@ Except as otherwise provided in this section and section 1114 of this title:
 
 &emsp;(II) at the direction of a person other than the participant on whose behalf such elective deferrals are made to the plan (or a beneficiary).
 
-(ii) This paragraph shall not apply to an individual account plan for a plan year if, on thelast day of the preceding plan year, the fair market value of the assets of all individual account plans maintained by the employer equals not more than 10 percent of the fair market value of the assets of all pension plans (other than multiemployer plans) maintained by the employer.
+(ii) This paragraph shall not apply to an individual account plan for a plan year if, on the last day of the preceding plan year, the fair market value of the assets of all individual account plans maintained by the employer equals not more than 10 percent of the fair market value of the assets of all pension plans (other than multiemployer plans) maintained by the employer.
 
 (iii) This paragraph shall not apply to an individual account plan that is an employee stock ownership plan as defined in section 4975(e)(7) of title 26.
 
@@ -66,7 +66,7 @@ Cross References.—
 
 #### (c) Election
 
-(1) A plan which makes the election, under paragraph (3) shall be treated as satisfying the requirement of subsection (a)(3) if and only if employer securities held on any date after December 31, 1974 and before January 1, 1985 have a fair market value, determined as of December 31, 1974, not in excess of 10 percent of the lesser of—
+(1) A plan which makes the election, under paragraph (3) shall be treated as satisfying the requirement of subsection (a)(3) if and only if employer securities held on any date after December 31, 1974 and before January 1, 1985 have a fair market value, determined as of December31, 1974, not in excess of 10 percent of the lesser of—
 
 &emsp;(A) the fair market value of the assets of the plan determined on such date (disregarding any portion of the fair market value of employer securities which is attributable to appreciation of such securities after December 31, 1974) but not less than the fair market value of plan assets on January 1, 1975, or
 
@@ -156,7 +156,7 @@ For purposes of subsection (d)(5), the term "marketable obligation" means a bond
 
 &emsp;(B) was acquired after December 17, 1987, pursuant to a legally binding contract in effect on December 17, 1987, and has been so held at all times after the acquisition.
 
-(Pub. L. 93–406, title I, §407, Sept. 2, 1974, 88 Stat. 880; Pub. L. 100–203, title IX, §9345(a)(1), (2), (b),Dec. 22, 1987, 101 Stat. 1330–373; Pub. L. 101–239, title VII, §§7881(l)(1)–(4), 7891(a)(1), 7894(e)(2), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–540, §1, Nov. 8, 1990, 104 Stat. 2379; Pub. L. 105–34, title XV, §1524(a), Aug. 5, 1997, 111 Stat. 1071; Pub. L. 109–280, title IX, §901(b)(2), Aug. 17, 2006, 120 Stat. 1032.)
+(Pub. L. 93–406, title I, §407, Sept. 2, 1974, 88 Stat. 880; Pub. L. 100–203, title IX, §9345(a)(1), (2), (b), Dec. 22, 1987, 101 Stat. 1330–373; Pub. L. 101–239, title VII, §§7881(l)(1)–(4), 7891(a)(1), 7894(e)(2), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–540, §1, Nov. 8, 1990, 104 Stat. 2379; Pub. L. 105–34, title XV, §1524(a), Aug. 5, 1997, 111 Stat. 1071; Pub. L. 109–280, title IX, §901(b)(2), Aug. 17, 2006, 120 Stat. 1032.)
 
 #### References in Text
 
@@ -184,7 +184,7 @@ Subsec. (f)(3). Pub. L. 101–239, §7881(l)(3)(B), struck out par. (3) which re
 
 <b>1987</b>—Subsec. (d)(3)(C). Pub. L. 100–203, §9345(a)(1), added subpar. (C).
 
-Subsec. (d)(5). Pub. L. 100–203, §9345(b)(1), inserted at end "After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1)."
+Subsec. (d)(5). Pub. L. 100–203, §9345(b)(1), inserted at end "After December 17, 1987, in the case of a plan other than an eligible individual account plan, stockshall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1)."
 
 Subsec. (d)(9). Pub. L. 100–203, §9345(a)(2), added par. (9).
 

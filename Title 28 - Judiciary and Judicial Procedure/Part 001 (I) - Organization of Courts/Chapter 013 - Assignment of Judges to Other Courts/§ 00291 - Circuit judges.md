@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§17, 22 (Mar. 3, 1911, ch. 231, §§13, 18, 36 Stat. 1089; Oct. 3, 1913, ch. 18, 38 Stat. 203; Sept. 14, 1922, ch. 306, §§3, 5, 42 Stat. 839; Mar. 2, 1929, ch. 488, §1, 45 Stat. 1475; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1936, ch. 804, 49 Stat. 1921; Aug. 24, 1937, ch. 754, §4, 50 Stat. 753; Dec. 29, 1942, ch. 835, §1, 56 Stat. 1094).
+Based on title 28, U.S.C., 1940 ed., §§17, 22 (Mar. 3, 1911, ch. 231, §§13, 18, 36 Stat. 1089; Oct. 3, 1913, ch. 18, 38 Stat.203; Sept. 14, 1922, ch. 306, §§3, 5, 42 Stat. 839; Mar. 2, 1929, ch. 488, §1, 45 Stat. 1475; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1936, ch. 804, 49 Stat. 1921; Aug. 24, 1937, ch. 754, §4, 50 Stat. 753; Dec. 29, 1942, ch. 835, §1, 56 Stat. 1094).
 
 Section consolidates all provisions of sections 17 and 22 of title 28, U.S.C., 1940 ed., relating to designation and assignment of circuit judges.
 
@@ -60,5 +60,5 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Jurisdiction of United States Court of Customs and Patent Appeals
 
-Pub. L. 85–755, §7, Aug. 25, 1958, 72 Stat. 850, provided that: "Nothing contained in this Act \[amending thissection and sections 211 and 292 to 295 of this title\] shall be construed in any way to limit or alter the jurisdiction heretofore conferred upon the United States Court of Customs and Patent Appeals \[now United States Court of Appeals for the Federal Circuit\] by any provision of law."
+Pub. L. 85–755, §7, Aug. 25, 1958, 72 Stat. 850, provided that: "Nothing contained in this Act \[amending this section and sections 211 and 292 to 295 of this title\] shall be construed in any way to limit or alter the jurisdiction heretofore conferred upon the United States Court of Customs and Patent Appeals \[now United States Court of Appeals for the Federal Circuit\] by any provision of law."
 

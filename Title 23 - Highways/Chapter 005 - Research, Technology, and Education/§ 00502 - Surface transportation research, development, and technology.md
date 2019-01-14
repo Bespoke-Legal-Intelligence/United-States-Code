@@ -120,7 +120,7 @@ Cooperation, grants, and contracts.—The Secretary may carry out research, deve
 
 &emsp;&emsp;(B) in cooperation with other Federal departments, agencies, and instrumentalities and Federal laboratories; or
 
-&emsp;&emsp;(C) by making grants to, or entering into contracts and cooperative agreements with one or more of the following: the National Academy of Sciences, the American Association of State Highway and Transportation Officials, any Federal laboratory, Federalagency, State agency, authority, association, institution, for-profit or nonprofit corporation, organization, foreign country, or any other person.
+&emsp;&emsp;(C) by making grants to, or entering into contracts and cooperative agreements with one or more of the following: the National Academy of Sciences, the American Association of State Highway and Transportation Officials, any Federal laboratory, Federal agency, State agency, authority, association, institution, for-profit or nonprofit corporation, organization, foreign country, or any other person.
 
 &emsp;(4)
 
@@ -332,7 +332,7 @@ Information included.—A report under this subparagraph shall include, for each
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) a description of the proposed goals of the prize competition;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an analysis of why the use of the authority under subparagraph (A) wasthe preferable method of achieving the goals described in item (aa) as opposed to other authorities available to the Secretary, such as contracts, grants, and cooperative agreements;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an analysis of why the use of the authority under subparagraph (A) was the preferable method of achieving the goals described in item (aa) as opposed to other authorities available to the Secretary, such as contracts, grants, and cooperative agreements;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) the total amount of cash prizes awarded for each prize competition, including a description of the amount of private funds contributed to the program, the source of such funds, and the manner in which the amounts of cash prizes awarded and claimed were allocated among the accounts of the Department for recording as obligations and expenditures;
 
@@ -488,7 +488,7 @@ Pub. L. 109–59, §5201(b)(1), redesignated subsec. (f) as (g). Former subsec. 
 
 Subsec. (h). Pub. L. 109–59, §5201(k), added subsec. (h) relating to infrastructure investment needs report to be submitted not later than July 31, 2006, and July 31 of every second year thereafter.
 
-Pub. L. 109–59, §5201(b)(1), redesignated subsec. (g), relating to infrastructure investment needs report to besubmitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter, as (h).
+Pub. L. 109–59, §5201(b)(1), redesignated subsec. (g), relating to infrastructure investment needs report to be submitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter, as (h).
 
 Subsec. (i). Pub. L. 109–59, §5201(l), added subsec. (i).
 
@@ -596,7 +596,7 @@ Study.—Not later than 120 days after the date of enactment of this Act \[June 
 
 "(b)
 
-Consultation.—In conducting the study, the Board shall consult with the American Association of State Highway and Transportation Officials and suchother entities as the Board determines appropriate to the conduct of the study.
+Consultation.—In conducting the study, the Board shall consult with the American Association of State Highway and Transportation Officials and such other entities as the Board determines appropriate to the conduct of the study.
 
 "(c)
 
@@ -770,7 +770,7 @@ In general.—The Secretary shall carry out a 2-part intelligent transportation 
 
 Objectives.—The objectives of the program are—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) to build or integrate an infrastructure of the measurement of various transportation system metrics to aid in planning, analysis, and maintenance of the Department of Transportation, including the buildout, maintenance, and operation of greater than 40 metropolitan area systems with a total cost not to exceed $2,000,000 for each metropolitan area;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) to build or integrate an infrastructure of the measurement of various transportation system metrics to aid in planning, analysis, and maintenance of the Department of Transportation, including the buildout, maintenance, and operation of greater than 40 metropolitanarea systems with a total cost not to exceed $2,000,000 for each metropolitan area;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) to provide private technology commercialization initiatives to generate revenues that will be reinvested in the intelligent transportation infrastructure system;
 
@@ -888,7 +888,7 @@ Fundamental properties of asphalts and modified asphalts.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary shall continue to carry out section 6016 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, formerly set out as a note below\]. Additional areas of the program under such section shall be asphalt-water interaction studies and asphalt-aggregate thin film behavior studies.
+In general.—The Secretary shall continue to carry out section 6016 of the Intermodal SurfaceTransportation Efficiency Act of 1991 \[Pub. L. 102–240, formerly set out as a note below\]. Additional areas of the program under such section shall be asphalt-water interaction studies and asphalt-aggregate thin film behavior studies.
 
 &emsp;&emsp;"(B)
 
@@ -980,7 +980,7 @@ Funding.—Of the amounts made available for each of fiscal years 1998 through 2
 
 #### Intelligent Transportation Systems
 
-Pub. L. 105–178, title V, subtitle C, June 9, 1998, 112 Stat. 452, as amended by Pub. L. 105–206, title IX,§9011(c), July 22, 1998, 112 Stat. 863; Pub. L. 105–277, div. A, §101(g) \[title III, §370\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 109–59, title V, §5509, Aug. 10, 2005, 119 Stat. 1828; Pub. L. 114–94, div. A, title VI, §6019(d)(2), Dec. 4, 2015, 129 Stat. 1581, provided that:
+Pub. L. 105–178, title V, subtitle C, June 9, 1998, 112 Stat. 452, as amended by Pub. L. 105–206, title IX, §9011(c), July 22, 1998, 112 Stat. 863; Pub. L. 105–277, div. A, §101(g) \[title III, §370\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 109–59, title V, §5509, Aug. 10, 2005, 119 Stat. 1828; Pub. L. 114–94, div. A, title VI, §6019(d)(2), Dec. 4, 2015, 129 Stat. 1581, provided that:
 
 #### "SEC. 5201. SHORT TITLE.
 
@@ -1002,7 +1002,7 @@ Goals.—The goals of the intelligent transportation system program include—
 
 &emsp;"(1) enhancement of surface transportation efficiency and facilitation of intermodalism and international trade to enable existing facilities to meet a significant portion of future transportation needs, including public access to employment, goods, and services, and to reduce regulatory, financial, and other transaction costs to public agencies and system users;
 
-&emsp;"(2) achievement of national transportation safety goals, including the enhancement of safe operation of motor vehicles and nonmotorized vehicles, with particular emphasis on decreasing the number and severity of collisions;
+&emsp;"(2) achievement of national transportation safety goals, including the enhancement of safe operation ofmotor vehicles and nonmotorized vehicles, with particular emphasis on decreasing the number and severity of collisions;
 
 &emsp;"(3) protection and enhancement of the natural environment and communities affected by surface transportation, with particular emphasis on assisting State and local governments to achieve national environmental goals;
 
@@ -1098,7 +1098,7 @@ Technical assistance.—The Secretary shall develop appropriate technical assist
 
 &emsp;"(2)
 
-Intelligent transportation system software.—To the maximum extent practicable, contracting officials shall use as a critical evaluation criterion the Software Engineering Institute's Capability Maturity Model, or another similar recognized standard risk assessment methodology, to reduce thecost, schedule, and performance risks associated with the development, management, and integration of intelligent transportation system software.
+Intelligent transportation system software.—To the maximum extent practicable, contracting officials shall use as a critical evaluation criterion the Software Engineering Institute's Capability Maturity Model, or another similar recognized standard risk assessment methodology, to reduce the cost, schedule, and performance risks associated with the development, management, and integration of intelligent transportation system software.
 
 "(j)
 
@@ -1214,7 +1214,7 @@ Conformity With National Architecture.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraphs (2) and (3), the Secretary shall ensure that intelligenttransportation system projects carried out using funds made available from the Highway Trust Fund, including funds made available under this subtitle to deploy intelligent transportation system technologies, conform to the national architecture, applicable standards or provisional standards, and protocols developed under subsection (a).
+In general.—Except as provided in paragraphs (2) and (3), the Secretary shall ensure that intelligent transportation system projects carried out using funds made available from the Highway Trust Fund, including funds made available under this subtitle to deploy intelligent transportation system technologies, conform to the national architecture, applicable standards or provisional standards, and protocols developed under subsection (a).
 
 &emsp;"(2)
 
@@ -1456,5 +1456,5 @@ Pub. L. 102–240, title VI, §6016, Dec. 18, 1991, 105 Stat. 2182, as amended b
 
 #### Study of Factors Affecting Safe and Efficient Operation of Bridges, Tunnels and Roads Within United States
 
-Pub. L. 95–599, title I, §166, Nov. 6, 1978, 92 Stat. 2722, provided that: "The Secretary of Transportation shall make a full and complete investigation and study of all those factors affecting the safe and efficient operation of bridges, tunnels, and roads within the United States,including, but not limited to, structural, operational, environmental, and civil disturbance factors."
+Pub. L. 95–599, title I, §166, Nov. 6, 1978, 92 Stat. 2722, provided that: "The Secretary of Transportation shall make a full and complete investigation and study of all those factors affecting the safe and efficient operation of bridges, tunnels, and roads within the United States, including, but not limited to, structural, operational, environmental, and civil disturbance factors."
 

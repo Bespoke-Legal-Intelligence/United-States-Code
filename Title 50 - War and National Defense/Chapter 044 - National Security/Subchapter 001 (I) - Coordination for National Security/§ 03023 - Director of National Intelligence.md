@@ -84,7 +84,7 @@ Ex. Ord. No. 10938, May 4, 1961, 26 F.R. 3951, which established the President's
 
 #### Executive Order No. 11460
 
-Ex. Ord. No. 11460, Mar. 20, 1969, 34 F.R. 5535, which established the President's Foreign Intelligence Advisory Board, was revoked by Ex. Ord. No. 11984, May 4, 1977, 42 F.R. 23129, set out below.
+Ex. Ord. No. 11460, Mar. 20, 1969, 34 F.R. 5535, which established the President's Foreign Intelligence AdvisoryBoard, was revoked by Ex. Ord. No. 11984, May 4, 1977, 42 F.R. 23129, set out below.
 
 #### Ex. Ord. No. 11984. Abolition of President's Foreign Intelligence Advisory Board
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Administrator shall establish a program to develop a sustained humanpresence in cis-lunar space or on the Moon, including a robust precursor program, to promote exploration, science, commerce, and United States preeminence in space, and as a stepping-stone to future exploration of Mars and other destinations. The Administrator is further authorized to develop and conduct appropriate international collaborations in pursuit of these goals.
+In General.—The Administrator shall establish a program to develop a sustained human presence in cis-lunar space or on the Moon, including a robust precursor program, to promote exploration, science, commerce, and United States preeminence in space, and as a stepping-stone to future exploration of Mars and other destinations. The Administrator is further authorized to develop and conduct appropriate international collaborations in pursuit of these goals.
 
 (b)
 
@@ -76,7 +76,7 @@ Pub. L. 115–10, title IV, §§431, 432, Mar. 21, 2017, 131 Stat. 38, provided 
 
 &emsp;"(7) Expanding human presence beyond low-Earth orbit and advancing toward human missions to Mars requires early planning and timely decisions to be made in the near-term on the necessary courses of action for commitments to achieve short-term and long-term goals and objectives.
 
-&emsp;"(8) In addition to the 2014 report described in paragraph (1), there are several independently developed reports or concepts that describe potential Mars architectures or concepts and identify Mars as the long-term goal for human space exploration, including NASA's 'The Global Exploration Roadmap' of 2013, 'NASA's Journey to Mars–Pioneering Next Steps in Space Exploration' of 2015, NASA Jet Propulsion Laboratory's 'Minimal Architecture for Human Journeys to Mars' of 2015, and Explore Mars' 'The Humans to Mars Report 2016'.
+&emsp;"(8) In addition to the 2014 report described in paragraph (1), there are several independently developed reports or concepts that describe potential Mars architectures or concepts and identify Mars as the long-term goal for human space exploration, including NASA's 'The Global Exploration Roadmap' of 2013,'NASA's Journey to Mars–Pioneering Next Steps in Space Exploration' of 2015, NASA Jet Propulsion Laboratory's 'Minimal Architecture for Human Journeys to Mars' of 2015, and Explore Mars' 'The Humans to Mars Report 2016'.
 
 #### "SEC. 432. HUMAN EXPLORATION ROADMAP.
 
@@ -162,7 +162,7 @@ Considerations.—In developing the human exploration roadmap, the Administrator
 
 &emsp;"(4)
 
-Critical decision plan on human space exploration.—As part of the human exploration roadmap, the Administrator shall include a critical decision plan—
+Critical decision plan on human space exploration.—As part of the human exploration roadmap,the Administrator shall include a critical decision plan—
 
 &emsp;&emsp;"(A) identifying and defining key decisions guiding human space exploration priorities and plans that need to be made before June 30, 2020, including decisions that may guide human space exploration capability development, precursor missions, long-term missions, and activities;
 

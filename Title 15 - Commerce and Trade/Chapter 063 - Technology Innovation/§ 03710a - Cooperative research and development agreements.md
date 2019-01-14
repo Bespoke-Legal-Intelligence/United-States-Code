@@ -4,7 +4,7 @@
 
 Each Federal agency may permit the director of any of its Government-operated Federal laboratories, and, to the extent provided in an agency-approved joint work statement or, if permitted by the agency, in an agency-approved annual strategic plan, the director of any of its Government-owned, contractor-operated laboratories—
 
-&emsp;(1) to enter into cooperative research and development agreements on behalf of such agency (subject to subsection (c) of this section) with other Federal agencies; units of State or local government; industrial organizations (including corporations, partnerships, and limited partnerships, and industrial developmentorganizations); public and private foundations; nonprofit organizations (including universities); or other persons (including licensees of inventions owned by the Federal agency); and
+&emsp;(1) to enter into cooperative research and development agreements on behalf of such agency (subject to subsection (c) of this section) with other Federal agencies; units of State or local government; industrial organizations (including corporations, partnerships, and limited partnerships, and industrial development organizations); public and private foundations; nonprofit organizations (including universities); or other persons (including licensees of inventions owned by the Federal agency); and
 
 &emsp;(2) to negotiate licensing agreements under section 207 of title 35, or under other authorities (in the case of a Government-owned, contractor-operated laboratory, subject to subsection (c) of this section) for inventions made or other intellectual property developed at the laboratory and other inventions or other intellectual property that may be voluntarily assigned to the Government.
 
@@ -52,7 +52,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 &emsp;(C) for scientific research and development consistent with the research and development missions and objectives of the laboratory.
 
-(6)(A) In the case of a laboratory that is part of the National Nuclear Security Administration, a designated official of that Administration may waive any license retained by the Government under paragraph (1)(A), (2), or (3)(D), in whole or in part and according to negotiated terms and conditions, if the designated official finds that the retention of the license by the Government would substantially inhibit the commercialization of an invention that would otherwise serve an important national security mission.
+(6)(A) In the case of a laboratory that is part of the National Nuclear Security Administration, a designated official of that Administration may waive any license retained by the Government under paragraph (1)(A), (2), or (3)(D), in whole or in part and according to negotiated terms and conditions, if the designated officialfinds that the retention of the license by the Government would substantially inhibit the commercialization of an invention that would otherwise serve an important national security mission.
 
 (B) The authority to grant a waiver under subparagraph (A) shall expire on the date that is five years after October 30, 2000. The expiration under the preceding sentence of authority to grant a waiver under subparagraph (A) shall not affect any waiver granted under that subparagraph before the expiration of such authority.
 
@@ -146,7 +146,7 @@ Subsec. (b)(1). Pub. L. 106–404, in first sentence, inserted "or, subject to s
 
 Subsec. (b)(6). Pub. L. 106–398, §1 \[div. C, title XXXI, §3196(b)\], added par. (6).
 
-Subsec. (c)(5)(C), (D). Pub. L. 106–398, §1 \[div. C, title XXXI, §3196(c)\], redesignated subpar. (D) as (C), struck out "with a small business firm" after "enter into" and inserted "if" after "statement" in cl. (i), added cls. (iv) and (v), and struck out former subpar. (C) which related to the duties of an agency which has contracted with a non-Federal entity to operate a laboratory with respectto review and approval of joint work statements and agreements under this section and with respect to providing the entity with model cooperative research and development agreements.
+Subsec. (c)(5)(C), (D). Pub. L. 106–398, §1 \[div. C, title XXXI, §3196(c)\], redesignated subpar. (D) as (C), struck out "with a small business firm" after "enter into" and inserted "if" after "statement" in cl. (i), added cls. (iv) and (v), and struck out former subpar. (C) which related to the duties of an agency which has contracted with a non-Federal entity to operate a laboratory with respect to review and approval of joint work statements and agreements under this section and with respect to providing the entity with model cooperative research and development agreements.
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–113 amended subsec. (b) generally, to require that laboratory ensure that collaborating party be provided option of choosing exclusive license for pre-negotiated field of use for any invention under agreement or that collaborating party be offered option of holding licensing rights that collectively encompass rights that would be held under such exclusive license by one party, to set forth explicit conditions that grants under par. (1) were to be subject to, and to require laboratory to ensure that collaborating party might retain title to any invention made solely by its employee in exchange for normally granting Government nonexclusive, nontransferable, irrevocable, paid-up license to practice invention by or on behalf of Government for research or for other Government purposes.
 
@@ -222,7 +222,7 @@ Procedures.—Within 1 year after the date of the enactment of this Act \[Nov. 1
 
 "(c)
 
-Limitation.—Nothing in this Act \[see Short Title of 2000 Amendment note set out under section 3701 ofthis title\], nor any procedures established under this section shall provide to the Office of Science and Technology Policy, the National Science and Technology Council, or any Federal agency the authority to disapprove a cooperative research and development agreement or joint work statement, under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a), of another Federal agency."
+Limitation.—Nothing in this Act \[see Short Title of 2000 Amendment note set out under section 3701 of this title\], nor any procedures established under this section shall provide to the Office of Science and Technology Policy, the National Science and Technology Council, or any Federal agency the authority to disapprove a cooperative research and development agreement or joint work statement, under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a), of another Federal agency."
 
 #### Magnetic Levitation Technology
 

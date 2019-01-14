@@ -118,7 +118,7 @@ Whenever the Secretary has reasonable cause to believe that a respondent has bre
 
 (C) If the Secretary determines that the matter involves the legality of any State or local zoning or other land use law or ordinance, the Secretary shall immediately refer the matter to the Attorney General for appropriate action under section 3614 of this title, instead of issuing such charge.
 
-(3) If the Secretary determines that no reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, the Secretary shall promptly dismiss the complaint. The Secretary shall make public disclosure of each such dismissal.
+(3) If the Secretary determines that no reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, the Secretary shall promptly dismiss thecomplaint. The Secretary shall make public disclosure of each such dismissal.
 
 (4) The Secretary may not issue a charge under this section regarding an alleged discriminatory housing practice after the beginning of the trial of a civil action commenced by the aggrieved party under an Act of Congress or a State law, seeking relief with respect to that discriminatory housing practice.
 

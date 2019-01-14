@@ -8,7 +8,7 @@ During fiscal year 2014 and thereafter, with respect to any undercover investiga
 
 &emsp;(2) sums appropriated for the Secret Service, including unobligated balances available from prior fiscal years, may be used to establish or to acquire proprietary corporations or business entities as part of such undercover operation, and to operate such corporations or business entities on a commercial basis, without regard to sections 9102 and 9103 of title 31;
 
-&emsp;(3) sums appropriated for the Secret Service, including unobligated balances available from prior fiscal years and the proceeds from such undercover operation, may be deposited in banks or other financial institutions, without regard to section 648 of title 18 and section 3302 of title 31; and
+&emsp;(3) sums appropriated for the Secret Service, including unobligated balances available from prior fiscal years and the proceeds from suchundercover operation, may be deposited in banks or other financial institutions, without regard to section 648 of title 18 and section 3302 of title 31; and
 
 &emsp;(4) proceeds from such undercover operation may be used to offset necessary and reasonable expenses incurred in such operation, without regard to section 3302 of title 31.
 

@@ -34,7 +34,7 @@ Except as provided in section 254n of this title, each individual who has entere
 
 &emsp;(ii) shall, in the case of an individual who is enrolled in an approved graduate training program in medicine, osteopathic medicine, dentistry, or other health profession, be the date the individual completes such training program; and
 
-&emsp;(iii) shall, in the case of an individual who has a degree in medicine, osteopathic medicine, dentistry, or other health profession and who has completed graduate training, be the date the individual enters into an agreement with the Secretary under section 254l–1 of this title.
+&emsp;(iii) shall, in the case of an individual who has a degree in medicine, osteopathic medicine, dentistry, or other health profession andwho has completed graduate training, be the date the individual enters into an agreement with the Secretary under section 254l–1 of this title.
 
 #### (c) Obligated service period; commencement
 

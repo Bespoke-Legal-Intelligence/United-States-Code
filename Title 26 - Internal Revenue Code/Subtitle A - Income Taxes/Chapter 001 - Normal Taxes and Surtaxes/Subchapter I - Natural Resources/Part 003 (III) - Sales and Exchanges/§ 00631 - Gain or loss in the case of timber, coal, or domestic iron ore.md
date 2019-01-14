@@ -6,7 +6,7 @@ If the taxpayer so elects on his return for a taxable year, the cutting of timbe
 
 #### (b) Disposal of timber
 
-In the case of the disposal of timber held for more than 1 year before such disposal, by the owner thereof under any form or type of contract by virtue of which such owner either retains an economic interest in such timber or makes an outright sale of such timber, the difference between the amount realized from the disposal of such timber and the adjusted depletion basis thereof, shall be considered as though it were a gain or loss, as the case may be, on the sale of such timber. In determining the gross income, the adjusted gross income, or the taxable income of the lessee, the deductions allowable with respect to rents and royalties shall be determined without regard to the provisions of this subsection. In the case of disposal of timber with a retained economic interest, the date of disposal of such timber shall be deemed to be the date such timber is cut, but if payment is made to the owner under the contract beforesuch timber is cut the owner may elect to treat the date of such payment as the date of disposal of such timber. For purposes of this subsection, the term "owner" means any person who owns an interest in such timber, including a sublessor and a holder of a contract to cut timber.
+In the case of the disposal of timber held for more than 1 year before such disposal, by the owner thereof under any form or type of contract by virtue of which such owner either retains an economic interest in such timber or makes an outright sale of such timber, the difference between the amount realized from the disposal of such timber and the adjusted depletion basis thereof, shall be considered as though it were a gain or loss, as the case may be, on the sale of such timber. In determining the gross income, the adjusted gross income, or the taxable income of the lessee, the deductions allowable with respect to rents and royalties shall be determined without regard to the provisions of this subsection. In the case of disposal of timber with a retained economic interest, the date of disposal of such timber shall be deemed to be the date such timber is cut, but if payment is made to the owner under the contract before such timber is cut the owner may elect to treat the date of such payment as the date of disposal of such timber. For purposes of this subsection, the term "owner" means any person who owns an interest in such timber, including a sublessor and a holder of a contract to cut timber.
 
 #### (c) Disposal of coal or domestic iron ore with a retained economic interest
 
@@ -68,7 +68,7 @@ Special rule for fixed contracts.—
 
 &emsp;"(A)
 
-In general.—The amendment made by subsection (a) shall not apply to any disposition of an interest in coal by a person to a related person if suchcoal is subsequently sold before January 1, 1990, by either such person—
+In general.—The amendment made by subsection (a) shall not apply to any disposition of an interest in coal by a person to a related person if such coal is subsequently sold before January 1, 1990, by either such person—
 
 &emsp;&emsp;"(i) to a person who is not a related person with respect to either such person, and
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 88–272 applicable with respect to amounts received or acc
 
 #### Revocation of Elections Under Section 631(a)
 
-Pub. L. 108–357, title I, §102(c), Oct. 22, 2004, 118 Stat. 1428, provided that: "Any election under section 631(a) of the Internal Revenue Code of 1986 made for a taxable year ending on or before the date of the enactment of this Act \[Oct. 22, 2004\] may be revoked by the taxpayer for any taxable year ending after such date. For purposes of determining whether such taxpayer may make a further election under such section, such election (and any revocation under this section) shall not be taken into account."
+Pub. L. 108–357, title I, §102(c), Oct. 22, 2004, 118 Stat. 1428, provided that: "Any election under section 631(a) of the Internal Revenue Code of 1986 made for a taxable year ending on or before the date of the enactment of this Act \[Oct. 22, 2004\] may be revoked by the taxpayerfor any taxable year ending after such date. For purposes of determining whether such taxpayer may make a further election under such section, such election (and any revocation under this section) shall not be taken into account."
 
 Pub. L. 99–514, title III, §311(d)(2), Oct. 22, 1986, 100 Stat. 2220, provided that: "Any election under section 631(a) of the Internal Revenue Code of 1954 made (whether by a corporation or a person other than a corporation) for a taxable year beginning before January 1, 1987, may be revoked by the taxpayer for any taxable year ending after December 31, 1986. For purposes of determining whether the taxpayer may make a further election under such section, such election (and any revocation under this paragraph) shall not be taken into account."
 

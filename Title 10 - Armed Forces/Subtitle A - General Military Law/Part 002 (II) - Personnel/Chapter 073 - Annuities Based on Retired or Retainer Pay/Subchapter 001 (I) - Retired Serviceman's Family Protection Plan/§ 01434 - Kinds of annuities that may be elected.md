@@ -1,6 +1,6 @@
 ### §1434. Kinds of annuities that may be elected
 
-(a) The annuity that a person is entitled to elect under section 1431 or 1432 of this title shall, in conformance with actuarial tables selected bythe Board of Actuaries under section 1436(a) of this title, be the amount specified by the elector at the time of the election, but not more than 50 percent nor less than 12½ percent of his retired or retainer pay, in no case less than $25. He may make the annuity payable—
+(a) The annuity that a person is entitled to elect under section 1431 or 1432 of this title shall, in conformance with actuarial tables selected by the Board of Actuaries under section 1436(a) of this title, be the amount specified by the elector at the time of the election, but not more than 50 percent nor less than 12½ percent of his retired or retainer pay, in no case less than $25. He may make the annuity payable—
 
 &emsp;(1) to, or on behalf of, the surviving spouse, ending when the spouse dies or, if the spouse remarries before age 60, when the spouse remarries;
 
@@ -16,7 +16,7 @@
 
 (e) Whenever there is an increase in retired and retainer pay under section 1401a of this title, each annuity that is payable under this subchapter on the day before the effective date of that increase to a spouse or child of a member who died on or before March 20, 1974, shall be increased by the same percentage as the percentage of that increase, effective on the effective date of that increase.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 109; Pub. L. 87–381, §3, Oct. 4, 1961, 75 Stat. 811; Pub. L. 90–485, §1(3), Aug. 13, 1968, 82 Stat. 751; Pub. L. 95–397, title I, §101(a), Sept. 30, 1978, 92 Stat. 843; Pub. L. 96–513, title V, §511(56), Dec. 12, 1980, 94 Stat. 2925.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 109; Pub. L. 87–381, §3, Oct. 4, 1961, 75 Stat. 811; Pub. L. 90–485,§1(3), Aug. 13, 1968, 82 Stat. 751; Pub. L. 95–397, title I, §101(a), Sept. 30, 1978, 92 Stat. 843; Pub. L. 96–513, title V, §511(56), Dec. 12, 1980, 94 Stat. 2925.)
 
 Historical and Revision Notes
 

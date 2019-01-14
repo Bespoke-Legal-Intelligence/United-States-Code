@@ -34,7 +34,7 @@ The first report under this section shall be submitted not later than 6 months a
 
 The Attorney General shall submit to the committees of Congress referred to in subsection (a)—
 
-&emsp;(1) not later than 45 days after the date on which the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review issues a decision, order, or opinion, including any denial or modification of an application under this chapter, that includes significant construction or interpretation of any provision of law or results in a change of application of any provision of this chapter or a novel application of any provision of this chapter, a copy of such decision, order, or opinion and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion; and
+&emsp;(1) not later than 45 days after the date on which the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review issues a decision, order, or opinion, including any denial or modification of an application under this chapter, that includes significant construction or interpretation of any provision of law or results in a change of application of any provision of this chapter or a novel application of any provision of this chapter, a copy of such decision, order, or opinion and any pleadings, applications, ormemoranda of law associated with such decision, order, or opinion; and
 
 &emsp;(2) a copy of each such decision, order, or opinion, and any pleadings, applications, or memoranda of law associated with such decision, order, or opinion, that was issued during the 5-year period ending on July 10, 2008, and not previously submitted in a report under subsection (a).
 
@@ -58,7 +58,7 @@ In this section:
 
 #### Amendment of Subsection (a)(1)
 
-<i>Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Dec. 31, 2017, subsection (a)(1) of this section is amended to read as it read on the day before July 10, 2008. For delay of effective date, see Effective Date of 2017 Amendment note set out under section 1881 of this title.</i>
+<i>Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(2), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Dec. 31, 2023, subsection (a)(1) of this section is amended to read as it read on the day before July 10, 2008.</i>
 
 #### References in Text
 
@@ -82,5 +82,5 @@ Subsec. (e). Pub. L. 110–261, §103(c), added subsec. (e).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the amendments made by section 403(b)(2) are effective Dec. 31, 2017. For delay of effective date, see Effective Date of 2017 Amendment note set out under section 1881 of this title.
+Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(2), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the amendments made by section 403(b)(2) are effective Dec. 31, 2023.
 

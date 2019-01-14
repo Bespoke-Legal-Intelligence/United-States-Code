@@ -16,7 +16,7 @@ Costs, Revenues, Rates, and Service.—Except as provided in subsection (c), the
 
 &emsp;&emsp;&emsp;(ii) the degree of customer satisfaction with the service provided.
 
-> &emsp;The Inspector General shall regularly audit the data collection systems and procedures utilized in collecting information and preparing such report (including any annex thereto and the information required under subsection (b)). The results of any such audit shall be submitted to the Postal Service and the Postal Regulatory Commission.
+> &emsp;The Inspector General shall regularly audit the data collection systems and procedures utilized in collecting information and preparing such report (including any annex thereto and the information required under subsection\(b)). The results of any such audit shall be submitted to the Postal Service and the Postal Regulatory Commission.
 
 (b)
 

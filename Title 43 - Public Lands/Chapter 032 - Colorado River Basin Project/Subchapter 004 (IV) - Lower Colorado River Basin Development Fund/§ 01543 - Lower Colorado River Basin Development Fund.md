@@ -36,7 +36,7 @@ Except as provided in subsection (f), revenues credited to the development fund 
 
 #### (1) Crediting against Central Arizona Water Conservation District payments
 
-&emsp;Funds credited to the development fund pursuant to subsection (b) and paragraphs (1) and (3) of subsection (c), the portion of revenues derived from the sale of power and energy foruse in the State of Arizona pursuant to subsection (c)(2) in excess of the amount necessary to meet the requirements of paragraphs (1) and (2) of subsection (d), and any annual payment by the Central Arizona Water Conservation District to effect repayment of reimbursable Central Arizona Project construction costs, shall be credited annually against the annual payment owed by the Central Arizona Water Conservation District to the United States for the Central Arizona Project.
+&emsp;Funds credited to the development fund pursuant to subsection (b) and paragraphs (1) and (3) of subsection (c), the portion of revenues derived from the sale of power and energy for use in the State of Arizona pursuant to subsection (c)(2) in excess of the amount necessary to meet the requirements of paragraphs (1) and (2) of subsection (d), and any annual payment by the Central Arizona Water Conservation District to effect repayment of reimbursable Central Arizona Project construction costs, shall be credited annually against the annual payment owed by the Central Arizona Water Conservation District to the United States for the Central Arizona Project.
 
 #### (2) Further use of revenue funds credited against payments of Central Arizona Water Conservation District
 
@@ -94,7 +94,7 @@ Except as provided in subsection (f), revenues credited to the development fund 
 
 &emsp;&emsp;(C) to reimburse the general fund of the Treasury for fixed operation, maintenance, and replacement charges previously paid under paragraph (2)(A);
 
-&emsp;&emsp;(D) to reimburse the general fund of the Treasury for costs previously paid under subparagraphs (B) through (E) of paragraph (2);
+&emsp;&emsp;(D) to reimburse the general fund of the Treasury for costs previously paid undersubparagraphs (B) through (E) of paragraph (2);
 
 &emsp;&emsp;(E) to pay to the general fund of the Treasury the annual installment on any debt relating to the Central Arizona Project under section 485h(d) of this title, made nonreimbursable under section 106(b) of the Arizona Water Settlements Act;
 

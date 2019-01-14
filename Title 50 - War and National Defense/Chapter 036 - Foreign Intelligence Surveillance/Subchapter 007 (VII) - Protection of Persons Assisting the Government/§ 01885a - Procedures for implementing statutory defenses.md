@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, a civil action may not lie or be mai
 
 &emsp;(2) any assistance by that person was provided pursuant to a certification in writing under section 2511(2)(a)(ii)(B) or 2709(b) of title 18;
 
-&emsp;(3) any assistance by that person was provided pursuant to a directive under section 1802(a)(4), 1805b(e), as added by section 2 of the Protect America Act of 2007 (Public Law 110–55), or 1881a(h) of this title directing such assistance;
+&emsp;(3) any assistance by that person was provided pursuant to a directive under section 1802(a)(4), 1805b(e), as added by section 2 of the Protect America Act of 2007 (Public Law 110–55), or 1881a(i) of this title directing such assistance;
 
 &emsp;(4) in the case of a covered civil action, the assistance alleged to have been provided by the electronic communication service provider was—
 
@@ -34,7 +34,7 @@ Notwithstanding any other provision of law, a civil action may not lie or be mai
 
 #### (2) Supplemental materials
 
-&emsp;In its review of a certification under subsection (a), the court may examine the court order, certification, written request, or directive described in subsection (a) and any relevant court order, certification, written request, or directive submitted pursuant to subsection (d).
+&emsp;In its review of a certification under subsection (a), the court may examine the courtorder, certification, written request, or directive described in subsection (a) and any relevant court order, certification, written request, or directive submitted pursuant to subsection (d).
 
 #### (c) Limitations on disclosure
 
@@ -68,9 +68,13 @@ Nothing in this section shall be construed to limit any otherwise available immu
 
 This section shall apply to a civil action pending on or filed after July 10, 2008.
 
-(Pub. L. 95–511, title VIII, §802, as added Pub. L. 110–261, title II, §201, July 10, 2008, 122 Stat. 2468.)
+(Pub. L. 95–511, title VIII, §802, as added Pub. L. 110–261, title II, §201, July 10, 2008, 122 Stat. 2468; amended Pub. L. 115–118, title I, §101(b)(2)(A), Jan. 19, 2018, 132 Stat. 8.)
 
 #### References in Text
 
 Section 1805b of this title, referred to in subsec. (a)(3), was repealed by Pub. L. 110–261, title IV, §403(a)(1)(A), July 10, 2008, 122 Stat. 2473.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(3). Pub. L. 115–118, which directed substitution of "section 1881a(i) of this title" for "section 1881a(h) of this title", was executed by substituting "1881a(i) of this title" for "1881a(h) of this title" to reflect the probable intent of Congress.
 

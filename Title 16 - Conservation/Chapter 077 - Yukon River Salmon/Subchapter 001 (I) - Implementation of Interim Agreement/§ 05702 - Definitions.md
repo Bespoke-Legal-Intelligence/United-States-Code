@@ -6,7 +6,7 @@ As used in this subchapter—
 
 &emsp;(2) The term "Panel" means the Yukon River Panel established by the Agreement.
 
-&emsp;(3) The term "Yukon River Joint Technical Committee" means the technical committee established by paragraph C.2 of the Memorandum of Understanding concerning the Pacific Salmon Treaty between the Government of the United States and the Government of Canada recorded January 28, 1985.
+&emsp;(3) The term "Yukon River Joint Technical Committee" means the technical committee established by paragraph C.2 of the Memorandum of Understanding concerning the Pacific Salmon Treaty between the Government ofthe United States and the Government of Canada recorded January 28, 1985.
 
 (Pub. L. 104–43, title VII, §703, Nov. 3, 1995, 109 Stat. 393.)
 

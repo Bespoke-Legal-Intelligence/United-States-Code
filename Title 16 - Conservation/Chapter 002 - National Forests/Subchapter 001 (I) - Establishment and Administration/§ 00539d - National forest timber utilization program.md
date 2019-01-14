@@ -8,7 +8,7 @@ Subject to appropriations, other applicable law, and the requirements of the Nat
 
 (1) The Secretary is authorized and directed to establish a special program of insured or guaranteed loans to purchasers of national forest materials in Alaska to assist such purchasers in the acquisition of equipment and the implementation of new technologies which lead to the utilization of wood products which might otherwise not be utilized. The Secretary is authorized to promulgate such regulations as he deems appropriate to define eligibility requirements for the participation in the loan program and the terms and conditions applicable to loans made under the program. Except as otherwise provided in this section or regulations promulgated specifically for this loan program, such program shall be carried out in a manner which is consistent with other authorities available to the Secretary.
 
-(2) To carry out the special loan program established by this section, there are hereby authorized beginning after the fiscal year 1980 to be appropriated $5,000,000 from National ForestFund receipts, to be deposited in a special fund in the Treasury of the United States to remain available until expended. Repayments of principal and interest and other recoveries on loans authorized by this section shall be credited to this fund and shall remain available until expended in order to carry out the purposes of this section.
+(2) To carry out the special loan program established by this section, there are hereby authorized beginning after the fiscal year 1980 to be appropriated $5,000,000 from National Forest Fund receipts, to be deposited in a special fund in the Treasury of the United States to remain available until expended. Repayments of principal and interest and other recoveries on loans authorized by this section shall be credited to this fund and shall remain available until expended in order to carry out the purposes of this section.
 
 #### (c) Study on increase of timber yields on national forest lands in Alaska; transmittal to Congress
 
@@ -48,7 +48,7 @@ Subsec. (f). Pub. L. 101–626, §105(b), added subsec. (f).
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–626, §1(a), Nov. 28, 1990, 104 Stat. 4426, provided that: "This Act \[amending this section and sections 472a and 539e of this title, enacting provisionslisted in a table of Wilderness Areas set out under section 1132 of this title, and enacting provisions set out as notes under this section and section 539e of this title\] may be cited as the 'Tongass Timber Reform Act'."
+Pub. L. 101–626, §1(a), Nov. 28, 1990, 104 Stat. 4426, provided that: "This Act \[amending this section and sections 472a and 539e of this title, enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title, and enacting provisions set out as notes under this section and section 539e of this title\] may be cited as the 'Tongass Timber Reform Act'."
 
 #### Study Containing Recommendations on Need To Standardize Riparian Management Practices in Tongass National Forest
 

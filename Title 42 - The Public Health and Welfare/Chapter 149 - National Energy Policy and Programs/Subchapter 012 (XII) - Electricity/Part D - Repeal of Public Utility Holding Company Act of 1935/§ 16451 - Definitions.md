@@ -28,7 +28,7 @@ For purposes of this part:
 
 #### (7) Gas utility company
 
-&emsp;The term "gas utility company" means any company that owns or operates facilities used for distribution at retail (other than the distribution only in enclosed portable containers or distribution to tenants or employees of the company operating such facilities for their own use and not for resale) of natural or manufactured gas for heat, light, or power.
+&emsp;The term "gas utility company" means any company that owns or operates facilities usedfor distribution at retail (other than the distribution only in enclosed portable containers or distribution to tenants or employees of the company operating such facilities for their own use and not for resale) of natural or manufactured gas for heat, light, or power.
 
 #### (8) Holding company
 
@@ -92,7 +92,7 @@ For purposes of this part:
 
 &emsp;&emsp;(A) any company, 10 percent or more of the outstanding voting securities of which are directly or indirectly owned, controlled, or held with power to vote, by such holding company; and
 
-&emsp;&emsp;(B) any person, the management or policies of which the Commission, after notice and opportunity for hearing, determines to be subject to a controlling influence, directly or indirectly, by such holding company (either alone or pursuant to an arrangement or understanding with one ormore other persons) so as to make it necessary for the rate protection of utility customers with respect to rates that such person be subject to the obligations, duties, and liabilities imposed by this part upon subsidiary companies of holding companies.
+&emsp;&emsp;(B) any person, the management or policies of which the Commission, after notice and opportunity for hearing, determines to be subject to a controlling influence, directly or indirectly, by such holding company (either alone or pursuant to an arrangement or understanding with one or more other persons) so as to make it necessary for the rate protection of utility customers with respect to rates that such person be subject to the obligations, duties, and liabilities imposed by this part upon subsidiary companies of holding companies.
 
 #### (17) Voting security
 
@@ -102,7 +102,7 @@ For purposes of this part:
 
 #### References in Text
 
-This part, referred to in text, was in the original "this subtitle", meaning subtitle F (§§1261–1277) of title XII of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 972, which enacted this part, amended sections 824 and 824m of Title 16, Conservation, repealed chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, and section 825q of Title 16, and enacted provisions set out as notes under this section and section 15801 of this title. For complete classification of subtitle F to the Code, see Short Title note set out under section 15801 of this title and Tables.
+This part, referred to in text, was in the original "this subtitle", meaning subtitle F (§§1261–1277) of title XII of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 972, which enacted this part, amended sections 824 and 824m ofTitle 16, Conservation, repealed chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, and section 825q of Title 16, and enacted provisions set out as notes under this section and section 15801 of this title. For complete classification of subtitle F to the Code, see Short Title note set out under section 15801 of this title and Tables.
 
 For the effective date of this part, referred to in par. (6), see Effective Date note set out below.
 

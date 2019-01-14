@@ -4,5 +4,5 @@ Section, added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 16, §1673; amended
 
 #### Savings Provision
 
-Repeal not applicable to any person receiving educational assistance for pursuit of an independent studyprogram in which the person was enrolled on Oct. 29, 1992, for as long as such person is continuously thereafter so enrolled and meets requirements of eligibility for such assistance, see section 313(b) of Pub. L. 102–568, set out as a note under section 16136 of Title 10, Armed Forces.
+Repeal not applicable to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on Oct. 29, 1992, for as long as such person is continuously thereafter so enrolled and meets requirements of eligibility for such assistance, see section 313(b) of Pub. L. 102–568, set out as a note under section 16136 of Title 10, Armed Forces.
 

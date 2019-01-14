@@ -1,6 +1,6 @@
 ### §8418. Survivor elections; deposit; offsets
 
-(a)(1) An individual who makes an election under subsection (b) or (c) of section 8416 or section 8417(b) which is required to be made within 2 years after the date of a prescribed event shalldeposit into the Fund an amount determined by the Office (as nearly as may be administratively feasible) to reflect the amount by which the annuity of such individual would have been reduced if the election had been in effect since the date of retirement (or, if later, and in the case of an election under such section 8416(b), since the date the previous reduction in the annuity of such individual was terminated under paragraph (1) or (2) of section 8419(b)), plus interest.
+(a)(1) An individual who makes an election under subsection (b) or (c) of section 8416 or section 8417(b) which is required to be made within 2 years after the date of a prescribed event shall deposit into the Fund an amount determined by the Office (as nearly as may be administratively feasible) to reflect the amount by which the annuity of such individual would have been reduced if the election had been in effect since the date of retirement (or, if later, and in the case of an election under such section 8416(b), since the date the previous reduction in the annuity of such individual was terminated under paragraph (1) or (2) of section 8419(b)), plus interest.
 
 (2) Interest under paragraph (1) shall be computed at the rate of 6 percent a year.
 

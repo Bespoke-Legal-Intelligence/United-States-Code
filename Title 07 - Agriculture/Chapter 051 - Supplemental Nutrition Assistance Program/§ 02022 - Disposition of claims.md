@@ -34,7 +34,7 @@
 
 #### (2) Cost effectiveness
 
-&emsp;Paragraph (1) shall not apply if the State agency demonstrates to the satisfaction of theSecretary that all of the means referred to in paragraph (1) are not cost effective.
+&emsp;Paragraph (1) shall not apply if the State agency demonstrates to the satisfaction of the Secretary that all of the means referred to in paragraph (1) are not cost effective.
 
 #### (3) Maximum reduction absent fraud
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;(ii) furnishing a copy of the agreement to the State agency administering the unemployment compensation law; or
 
-&emsp;(B) in the absence of an agreement, by obtaining a writ, order, summons, or other similar process in the nature of garnishment froma court of competent jurisdiction to require the withholding of amounts from the unemployment compensation.
+&emsp;(B) in the absence of an agreement, by obtaining a writ, order, summons, or other similar process in the nature of garnishment from a court of competent jurisdiction to require the withholding of amounts from the unemployment compensation.
 
 #### (d) Recovery of overissuance of benefits
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 13941(b) of Pub. L. 103–66 effective, and to be implemented beginning on, Oct. 1, 1993,and amendment by section 13951(a) of Pub. L. 103–66 effective Oct. 1, 1991, see section 13971(a), (b)(1)(A) of Pub. L. 103–66, set out as a note under section 2025 of this title.
+Amendment by section 13941(b) of Pub. L. 103–66 effective, and to be implemented beginning on, Oct. 1, 1993, and amendment by section 13951(a) of Pub. L. 103–66 effective Oct. 1, 1991, see section 13971(a), (b)(1)(A) of Pub. L. 103–66, set out as a note under section 2025 of this title.
 
 #### Effective Date of 1991 Amendment
 

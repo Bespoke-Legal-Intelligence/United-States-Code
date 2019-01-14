@@ -2,7 +2,7 @@
 
 #### (a) Arbitration proceedings; matters subject to arbitration, procedures applicable, etc.
 
-(1) Any dispute between an employer and the plan sponsor of a multiemployer plan concerning a determination made under sections 1381 through 1399 of this title shall be resolved through arbitration. Either party may initiatethe arbitration proceeding within a 60-day period after the earlier of—
+(1) Any dispute between an employer and the plan sponsor of a multiemployer plan concerning a determination made under sections 1381 through 1399 of this title shall be resolved through arbitration. Either party may initiate the arbitration proceeding within a 60-day period after the earlier of—
 
 &emsp;(A) the date of notification to the employer under section 1399(b)(2)(B) of this title, or
 
@@ -22,7 +22,7 @@
 
 #### (b) Alternative collection proceedings; civil action subsequent to arbitration award; conduct of arbitration proceedings
 
-(1) If no arbitration proceeding has been initiated pursuant to subsection (a), the amounts demanded by the plan sponsor under section 1399(b)(1) of this title shall be due and owing on the schedule set forth by the plan sponsor. The plan sponsor may bring an action in a State or Federal court of competent jurisdiction for collection.
+(1) If no arbitration proceeding has been initiated pursuant to subsection (a), the amounts demanded by the plan sponsor under section 1399(b)(1) of this title shall be due and owing on the schedule set forth by the plan sponsor. The plan sponsor may bring an action in a State orFederal court of competent jurisdiction for collection.
 
 (2) Upon completion of the arbitration proceedings in favor of one of the parties, any party thereto may bring an action, no later than 30 days after the issuance of an arbitrator's award, in an appropriate United States district court in accordance with section 1451 of this title to enforce, vacate, or modify the arbitrator's award.
 
@@ -90,7 +90,7 @@ In general.—If—
 
 Special rule.—Notwithstanding subsection (d) and section 1399(c) of this title, if an electing person contests the plan sponsor's determination with respect to withdrawal liability payments under paragraph (1) through an arbitration proceeding pursuant to subsection (a), through an action brought in a court of competent jurisdiction for review of such an arbitration decision, or as otherwise permitted by law, the electing person shall not be obligated to make the withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor's determination, but only if the electing person—
 
-&emsp;(A) provides notice to the plan sponsor of its election to apply the special rule in this paragraph within 90 days after the plan sponsor notifies the electing person of its liability by reason of the application of section 1392(c) of this title; and
+&emsp;(A) provides notice to the plan sponsor of its election to apply the special rule in this paragraph within 90 days after the plan sponsor notifies the electing person of its liability byreason of the application of section 1392(c) of this title; and
 
 &emsp;(B) if a final decision in the arbitration proceeding, or in court, of the withdrawal liability dispute has not been rendered within 12 months from the date of such notice, the electing person provides to the plan, effective as of the first day following the 12-month period, a bond issued by a corporate surety company that is an acceptable surety for purposes of section 1112 of this title, or an amount held in escrow by a bank or similar financial institution satisfactory to the plan, in an amount equal to the sum of the withdrawal liability payments that would otherwise be due under subsection (d) and section 1399(c) of this title for the 12-month period beginning with the first anniversary of such notice. Such bond or escrow shall remain in effect until there is a final decision in the arbitration proceeding, or in court, of the withdrawal liability dispute, at which time such bond or escrow shall be paid to the plan if such final decision upholds the plan sponsor's determination.
 

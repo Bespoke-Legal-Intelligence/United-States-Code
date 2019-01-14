@@ -4,7 +4,7 @@ As used in this chapter:
 
 #### (1) Administrator
 
-&emsp;The term "Administrator" means the Administrator of the Agency for International Development, unless otherwise specified in this chapter.
+&emsp;The term "Administrator" means the Administrator of the Agency for InternationalDevelopment, unless otherwise specified in this chapter.
 
 #### (2) Agricultural commodity
 

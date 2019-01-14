@@ -94,7 +94,7 @@ Each common carrier providing telephone voice transmission services shall, not l
 
 #### (3) Method of funding
 
-&emsp;Except as provided in subsection (d), the Commission shall not refuse to certify a Stateprogram based solely on the method such State will implement for funding intrastate telecommunication relay services.
+&emsp;Except as provided in subsection (d), the Commission shall not refuse to certify a State program based solely on the method such State will implement for funding intrastate telecommunication relay services.
 
 #### (4) Suspension or revocation of certification
 

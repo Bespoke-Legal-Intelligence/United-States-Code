@@ -16,7 +16,17 @@ Safety Standards.—Nothing in this section shall be construed to prohibit the F
 
 Administration and Execution.—This section shall be carried out as part of the Commercial Remote Sensing Program at the Stennis Space Center.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3398.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3398; Pub. L. 115–232, div. A, title VIII, §836(g)(10)(B), Aug. 13, 2018, 132 Stat. 1874.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(g)(10)(B), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended as follows:</i>
+
+<i>(1) in heading, by striking "Commercial Item" and inserting "Commercial Product or Commercial Service"; and</i>
+
+<i>(2) by striking "commercial item" in the second sentence and inserting "commercial product or commercial service".</i>
+
+<i>See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -45,4 +55,12 @@ Pub. L. 105–303, title I, §107(a), (b), (d), (e), Oct. 28, 1998, 112 Stat. 28
 50115(d)
 
 42 U.S.C. 14715(e).
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–232, in heading, substituted "Commercial Product or Commercial Service" for "Commercial Item" and, in text, substituted "commercial product or commercial service" for "commercial item".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 

@@ -102,7 +102,7 @@ Grants Authorized.—
 
 &emsp;"(1)
 
-In general.—From amounts made available under subsection (k), the Secretary, jointly with theSecretary of Education, shall award grants to States to enable the States to carry out the activities described in subsection (f).
+In general.—From amounts made available under subsection (k), the Secretary, jointly with the Secretary of Education, shall award grants to States to enable the States to carry out the activities described in subsection (f).
 
 &emsp;"(2)
 
@@ -114,7 +114,7 @@ Award basis.—Grants under this subsection shall be awarded—
 
 &emsp;"(3)
 
-Duration of grants.—A grant awarded under paragraph (1) shall be for a period of not more than 1 year and may be renewed by the Secretary, jointly with the Secretary of Education, under subsection (g).
+Duration of grants.—A grant awarded under paragraph (1) shall be for a period of not more than1 year and may be renewed by the Secretary, jointly with the Secretary of Education, under subsection (g).
 
 &emsp;"(4)
 
@@ -202,7 +202,7 @@ Renewal Grants.—
 
 &emsp;"(1)
 
-In general.—The Secretary, jointly with the Secretary of Education, may use funds available under subsection (k) to award renewal grants to States described in paragraph (2) to enable such States to continue activities described in subsection (f) and to carry out additional activities described in paragraph (6).
+In general.—The Secretary, jointly with the Secretary of Education, may use funds available under subsection (k) to award renewal grants toStates described in paragraph (2) to enable such States to continue activities described in subsection (f) and to carry out additional activities described in paragraph (6).
 
 &emsp;"(2)
 
@@ -292,7 +292,7 @@ Initial grants.—A State that receives an initial grant under subsection (c)(1)
 
 &emsp;"(2)
 
-Renewal grants.—A State receiving a renewal grant under subsection (g) shall submit a follow-upreport to the Secretary not later than 6 months after the end of the grant period that includes—
+Renewal grants.—A State receiving a renewal grant under subsection (g) shall submit a follow-up report to the Secretary not later than 6 months after the end of the grant period that includes—
 
 &emsp;&emsp;"(A) information described in subparagraphs (A) through (G) of paragraph (1), as applicable and updated for the period covered by the renewal grant; and
 

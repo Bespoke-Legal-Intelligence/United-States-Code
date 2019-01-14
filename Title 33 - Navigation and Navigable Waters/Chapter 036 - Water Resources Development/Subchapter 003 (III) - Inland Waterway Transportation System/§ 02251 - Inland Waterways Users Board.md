@@ -8,7 +8,7 @@ There is hereby established an Inland Waterway Users Board (hereinafter in this 
 
 #### (1) In general
 
-&emsp;The Users Board shall meet not less frequently than semiannually to develop and make recommendations to the Secretary andCongress regarding the inland waterways and inland harbors of the United States.
+&emsp;The Users Board shall meet not less frequently than semiannually to develop and make recommendations to the Secretary and Congress regarding the inland waterways and inland harbors of the United States.
 
 #### (2) Advice and recommendations
 

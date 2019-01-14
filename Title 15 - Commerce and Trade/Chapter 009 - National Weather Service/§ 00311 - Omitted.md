@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, act Oct. 1, 1890, ch. 1266, §1, 26 Stat. 653, as amended, relating to the establishment of a Weather Bureau in the Department of Commerce, was omitted because the Weather Bureau was consolidated with the Coast and Geodetic Survey to form a new agency in the Department to be known as the Environmental Science Services Administration, and the office of Chief of the Weather Bureau was abolished, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note below. The Reorg. Plan also transferred to the Secretary of Commerce all functions of the Bureau and the Chief of the Bureau.
+Section, act Oct. 1, 1890, ch. 1266, §1, 26 Stat. 653, as amended, relating to the establishment of a WeatherBureau in the Department of Commerce, was omitted because the Weather Bureau was consolidated with the Coast and Geodetic Survey to form a new agency in the Department to be known as the Environmental Science Services Administration, and the office of Chief of the Weather Bureau was abolished, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note below. The Reorg. Plan also transferred to the Secretary of Commerce all functions of the Bureau and the Chief of the Bureau.
 
 Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out as a note under section 1511 of this title, abolished the Environmental Science Services Administration, including the offices of Administrator and Deputy Administrator, and established the National Oceanic and Atmospheric Administration within the Department of Commerce. By Department Organization Order 25–5A, republished 39 F.R. 27486, July 29, 1974, the Secretary of Commerce delegated to the National Oceanic and Atmospheric Administration a number of functions vested in him, including his functions under this chapter of the Code. By order of the Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, relating to the Administration, were changed: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey, and Weather Bureau to National Weather Service.
 
@@ -56,7 +56,7 @@ All functions vested by law in the Weather Bureau, the Chief of the Weather Bure
 
 (2) The office of Deputy Administrator may be filled at the discretion of the President by appointment (by and with the advice and consent of the Senate) from the active list of commissioned officers of the Administration in which case the appointment shall create a vacancy on the active list and while holding the office of Deputy Administrator the officer shall have rank, pay and allowances not exceeding those of a Vice Admiral.
 
-(c) The Deputy Administrator or such other official of the Department of Commerce as the Secretary shall from time to time designate shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
+(c) The Deputy Administrator or such other official of the Department of Commerce as the Secretary shallfrom time to time designate shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
 
 (d) At any one time, one principal constituent organizational entity of the Administration may, if the Secretary so elects, be headed by a commissioned officer of the Administration, who shall be designated by the Secretary. Such designation of an officer shall create a vacancy on the active list and while serving under this paragraph the officer shall have rank, pay and allowances not exceeding those of a Rear Admiral (upper half).
 
@@ -86,7 +86,7 @@ Nothing in this reorganization plan shall divest the Secretary of any function v
 
 To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 2 of 1965, prepared in accordance with the provisions of theReorganization Act of 1949, as amended, and providing for the reorganization of two major agencies of the Department of Commerce: The Weather Bureau and the Coast and Geodetic Survey.
+I transmit herewith Reorganization Plan No. 2 of 1965, prepared in accordance with the provisions of the Reorganization Act of 1949, as amended, and providing for the reorganization of two major agencies of the Department of Commerce: The Weather Bureau and the Coast and Geodetic Survey.
 
 The reorganization plan consolidates the Coast and Geodetic Survey and the Weather Bureau to form a new agency in the Department of Commerce to be known as the Environmental Science Services Administration. It is the intention of the Secretary of Commerce to transfer the Central Radio Propagation Laboratory of the National Bureau of Standards to the Administration when the reorganization plan takes effect. The new Administration will then provide a single national focus for our efforts to describe, understand, and predict the state of the oceans, the state of the lower and upper atmosphere, and the size and shape of the earth.
 

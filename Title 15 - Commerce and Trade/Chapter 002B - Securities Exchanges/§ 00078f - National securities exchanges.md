@@ -58,7 +58,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 (2) A national securities exchange may, and in cases in which the Commission, by order, directs as necessary or appropriate in the public interest or for the protection of investors shall, deny membership to any registered broker or dealer or natural person associated with a registered broker or dealer, and bar from becoming associated with a member any person, who is subject to a statutory disqualification. A national securities exchange shall file notice with the Commission not less than thirty days prior to admitting any person to membership or permitting any person to become associated with a member, if the exchange knew, or in the exercise of reasonable care should have known, that such person was subject to a statutory disqualification. The notice shall be in such form and contain such information as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
-(3)(A) A national securities exchange may deny membership to, or condition the membership of, a registered broker or dealer if (i) such broker or dealer does not meet such standards of financial responsibility or operational capability or such broker or dealer or any natural person associated with such broker or dealer does not meet such standards of training, experience,and competence as are prescribed by the rules of the exchange or (ii) such broker or dealer or person associated with such broker or dealer has engaged and there is a reasonable likelihood he may again engage in acts or practices inconsistent with just and equitable principles of trade. A national securities exchange may examine and verify the qualifications of an applicant to become a member and the natural persons associated with such an applicant in accordance with procedures established by the rules of the exchange.
+(3)(A) A national securities exchange may deny membership to, or condition the membership of, a registered broker or dealer if (i) such broker or dealer does not meet such standards of financial responsibility or operational capability or such broker or dealer or any natural person associated with such broker or dealer does not meet such standards of training, experience, and competence as are prescribed by the rules of the exchange or (ii) such broker or dealer or person associated with such broker or dealer has engaged and there is a reasonable likelihood he may again engage in acts or practices inconsistent with just and equitable principles of trade. A national securities exchange may examine and verify the qualifications of an applicant to become a member and the natural persons associated with such an applicant in accordance with procedures established by the rules of the exchange.
 
 (B) A national securities exchange may bar a natural person from becoming a member or associated with a member, or condition the membership of a natural person or association of a natural person with a member, if such natural person (i) does not meet such standards of training, experience, and competence as are prescribed by the rules of the exchange or (ii) has engaged and there is a reasonable likelihood he may again engage in acts or practices inconsistent with just and equitable principles of trade. A national securities exchange may examine and verify the qualifications of an applicant to become a person associated with a member in accordance with procedures established by the rules of the exchange and require any person associated with a member, or any class of such persons, to be registered with the exchange in accordance with procedures so established.
 
@@ -78,7 +78,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 (2) In any proceeding by a national securities exchange to determine whether a person shall be denied membership, barred from becoming associated with a member, or prohibited or limited with respect to access to services offered by the exchange or a member thereof (other than a summary proceeding pursuant to paragraph (3) of this subsection), the exchange shall notify such person of, and give him an opportunity to be heard upon, the specific grounds for denial, bar, or prohibition or limitation under consideration and keep a record. A determination by the exchange to deny membership, bar a person from becoming associated with a member, or prohibit or limit a person with respect to access to services offered by the exchange or a member thereof shall be supported by a statement setting forth the specific grounds on which the denial, bar, or prohibition or limitation is based.
 
-(3) A national securities exchange may summarily (A) suspend a member or person associated with a member who has been and is expelled or suspended from any self-regulatory organization or barred or suspended from being associated with a member of any self-regulatory organization, (B) suspend a member who is in such financial or operating difficulty that the exchange determines and so notifies the Commission that the member cannot be permitted to continue to do business as a member with safety to investors, creditors, other members, or the exchange, or (C) limit or prohibit any person with respect to access to services offered by the exchange if subparagraph (A) or (B) of this paragraph is applicable to such person or, in the case of a person who is not a member, if the exchange determines that such person does not meet the qualification requirements or other prerequisites for such access and such person cannot be permitted to continue to have such access with safety to investors, creditors, members, or the exchange. Any person aggrieved by any such summary action shall be promptly afforded an opportunity for a hearing by the exchange in accordance with the provisions ofparagraph (1) or (2) of this subsection. The Commission, by order, may stay any such summary action on its own motion or upon application by any person aggrieved thereby, if the Commission determines summarily or after notice and opportunity for hearing (which hearing may consist solely of the submission of affidavits or presentation of oral arguments) that such stay is consistent with the public interest and the protection of investors.
+(3) A national securities exchange may summarily (A) suspend a member or person associated with a member who has been and is expelled or suspended from any self-regulatory organization or barred or suspended from being associated with a member of any self-regulatory organization, (B) suspend a member who is in such financial or operating difficulty that the exchange determines and so notifies the Commission that the member cannot be permitted to continue to do business as a member with safety to investors, creditors, other members, or the exchange, or (C) limit or prohibit any person with respect to access to services offered by the exchange if subparagraph (A) or (B) of this paragraph is applicable to such person or, in the case of a person who is not a member, if the exchange determines that such person does not meet the qualification requirements or other prerequisites for such access and such person cannot be permitted to continue to have such access with safety to investors, creditors, members, or the exchange. Any person aggrieved by any such summary action shall be promptly afforded an opportunity for a hearing by the exchange in accordance with the provisions of paragraph (1) or (2) of this subsection. The Commission, by order, may stay any such summary action on its own motion or upon application by any person aggrieved thereby, if the Commission determines summarily or after notice and opportunity for hearing (which hearing may consist solely of the submission of affidavits or presentation of oral arguments) that such stay is consistent with the public interest and the protection of investors.
 
 #### (e) Commissions, allowances, discounts, and other fees
 
@@ -140,7 +140,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 #### (B) Immediate effectiveness
 
-&emsp;&emsp;Such registration shall be effective contemporaneously with the submission of notice, in written or electronic form, to the Commission, except that such registration shall not be effective if such registration would be subject to suspension or revocation.
+&emsp;&emsp;Such registration shall be effective contemporaneously with the submission of notice, in written or electronic form, to theCommission, except that such registration shall not be effective if such registration would be subject to suspension or revocation.
 
 #### (C) Termination
 
@@ -262,7 +262,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 #### (6) Deferral of options on security futures trading
 
-&emsp;No person shall offer to enter into, enter into, or confirm the execution of any put, call, straddle, option, or privilege on a security future, except that, after 3 years after December 21, 2000, the Commission and the Commodity Futures Trading Commission may by order jointly determine to permit trading of puts, calls, straddles, options, or privileges on any security future authorized to be traded under the provisions of this chapter and the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
+&emsp;No person shall offer to enter into, enter into, or confirm the execution of any put, call, straddle, option, or privilege on a security future, except that, after 3 years after December 21, 2000, the Commission and the Commodity Futures Trading Commission may by order jointly determine to permit trading of puts, calls, straddles, options, or privileges on any security future authorized to be traded underthe provisions of this chapter and the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
 
 #### (7) Deferral of linked and coordinated clearing
 
@@ -290,7 +290,7 @@ Consistent with this chapter, each national securities exchange registered pursu
 
 #### (j) Procedures and rules for security future products
 
-A national securities exchange registered pursuant to subsection (a) shall implement the procedures specified in subsection (h)(5)(A) and adopt the rules specified in subparagraphs (B) and (C) of subsection (h)(5) not later than 8months after the date of receipt of a request from an alternative trading system for such implementation and rules.
+A national securities exchange registered pursuant to subsection (a) shall implement the procedures specified in subsection (h)(5)(A) and adopt the rules specified in subparagraphs (B) and (C) of subsection (h)(5) not later than 8 months after the date of receipt of a request from an alternative trading system for such implementation and rules.
 
 #### (k) Rules relating to security futures products traded on foreign boards of trade
 
@@ -304,10 +304,6 @@ It shall be unlawful for any person to effect a transaction in a security-based 
 
 (June 6, 1934, ch. 404, title I, §6, 48 Stat. 885; Pub. L. 94–29, §4, June 4, 1975, 89 Stat. 104; Pub. L. 100–181, title III, §§309–312, Dec. 4, 1987, 101 Stat. 1255; Pub. L. 103–202, title III, §303(b), Dec. 17, 1993, 107 Stat. 2365; Pub. L. 106–554, §1(a)(5) \[title II, §§202(a), 206(a), (i), (k)(2), (l)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–416, 2763A–426, 2763A–433, 2763A–434; Pub. L. 111–203, title VII, §§721(e)(8), 734(b)(2), 763(e), title IX, §957, July 21, 2010, 124 Stat. 1671, 1718, 1777, 1906.)
 
-#### Amendment of Section
-
-<i>Unless otherwise provided, amendments by subtitle A (§§711–754) and subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of either subtitle A or B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A or B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
-
 #### References in Text
 
 This chapter, referred to in subsecs. (b) to (e), (g)(4)(A), (h)(3)(G), (7)(C)(ii), and (i), was in the original "this title". This chapter, referred to in subsec. (h)(6), was in the original "this Act". See References in Text note set out under section 78a of this title.
@@ -320,7 +316,7 @@ Subsection (k) of section 78q of this title, referred to in subsec. (g)(4)(A)(iv
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(9). Pub. L. 111–203, §957(1), designated introductory provisions and subpars. (A) to (D) as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins, redesignated former cls. (i) to (v) of subpar. (A) as subcls. (I) to (V), respectively, of cl. (i) and realigned margins, and designated concluding provisions as subpar. (B).
+<b>2010</b>—Subsec. (b)(9). Pub. L. 111–203, §957(1), designated introductory provisions and subpars. (A) to (D) as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins, redesignated former cls. (i) to (v) ofsubpar. (A) as subcls. (I) to (V), respectively, of cl. (i) and realigned margins, and designated concluding provisions as subpar. (B).
 
 Subsec. (b)(10). Pub. L. 111–203, §957(2), added par. (10).
 
@@ -394,7 +390,7 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, except for amendment of sub
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Changes in Organization and Rules of National Securities Exchanges and Registered Securities Associations
 

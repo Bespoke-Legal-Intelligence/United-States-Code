@@ -48,7 +48,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) less than 22 years of age; or
 
-&emsp;&emsp;&emsp;&emsp;(II) not less than 22 years of age, as of the expiration of the maximum period ofstay permitted under section 11222(a)(2) of this title if such individual commences such stay before reaching 22 years of age;
+&emsp;&emsp;&emsp;&emsp;(II) not less than 22 years of age, as of the expiration of the maximum period of stay permitted under section 11222(a)(2) of this title if such individual commences such stay before reaching 22 years of age;
 
 &emsp;&emsp;(B) for whom it is not possible to live in a safe environment with a relative; and
 

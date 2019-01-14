@@ -36,5 +36,5 @@ Findings.—The Congress finds that—
 
 "(b)
 
-Negotiations.—Whenever, in the course of negotiating a trade agreement under this subtitle \[subtitle A (§§1101 to 1125) of title I of Pub. L. 100–418, see Tables for classification\], the President is advised by the Secretary of the Treasury that a foreign country that is aparty to the negotiations satisfies the criteria for initiating bilateral currency negotiations listed in section 3004(b) of this Act \[22 U.S.C. 5304(b)\], the Secretary of the Treasury shall take action to initiate bilateral currency negotiations on an expedited basis with such foreign country."
+Negotiations.—Whenever, in the course of negotiating a trade agreement under this subtitle \[subtitle A (§§1101 to 1125) of title I of Pub. L. 100–418, see Tables for classification\], the President is advised by the Secretary of the Treasury that a foreign country that is a party to the negotiations satisfies the criteria for initiating bilateral currency negotiations listed in section 3004(b) of this Act \[22 U.S.C. 5304(b)\], the Secretary of the Treasury shall take action to initiate bilateral currency negotiations on an expedited basis with such foreign country."
 

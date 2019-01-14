@@ -70,11 +70,11 @@ Savings Provisions for Required Separation Age.—A reserve officer of the Navy 
 
 &emsp;&emsp;"(A) on the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\] is in an active status, and
 
-&emsp;&emsp;"(B) on the day before the effective date of this title was an officer described in section 6389(e), 6397(a), 6403(a), or 6403(b) of title 10, United States Code; and
+&emsp;&emsp;"(B) on the day before the effective date of this title was an officer described in section 6389(e) \[now 8373(e)\], \[former\] 6397(a), \[former\] 6403(a), or \[former\] 6403(b) of title 10, United States Code; and
 
 &emsp;"(2) who, on or after the effective date of this title is subject to elimination from an active status under any provision of such title,
 
-> is entitled to be treated as that officer would have been treated under section 6397 or 6403 as applicable, as in effect on the day before the effective date of this title, if that treatment would result in the date for the officer's separation from an active status being a later date than the date established under the law in effect on or after the effective date of this title.
+> is entitled to be treated as that officer would have been treated under \[former\] section 6397 or 6403 as applicable, as in effect on the day before the effective date of this title, if that treatment would result in the date for the officer's separation from an active status being a later date than the date established under the law in effect on or after the effective date of this title.
 
 "(b)
 

@@ -10,7 +10,7 @@ The grant program described under subsection (a) shall be carried out under this
 
 #### (c) Priority
 
-In awarding grants under this section, the Secretary shall give priority to projects that target small and medium-sized farms, beginning farmers, socially disadvantaged farmers, small processors, or small fresh fruit and vegetable merchant wholesalers.
+In awarding grants under this section, the Secretary shall give priority to projects that target small and medium-sized farms, beginning farmers, socially disadvantaged farmers, veteran farmers or ranchers (as defined in section 2279(a) of this title), small processors, or small fresh fruit and vegetable merchant wholesalers.
 
 #### (d) Program coordination
 
@@ -30,21 +30,15 @@ In awarding grants under this section, the Secretary shall give priority to proj
 
 #### (1) In general
 
-&emsp;In carrying out this section, the Secretary shall make competitive grants to support training, education, extension, outreach, and technical assistance projects that will help improve public health by increasing the understanding and adoption of established food safety standards, guidance, and protocols.
+&emsp;In carrying out this section, the Secretary shall make competitive grants to support training, education, extension, outreach, and technical assistance projects that will helpimprove public health by increasing the understanding and adoption of established food safety standards, guidance, and protocols.
 
 #### (2) Encouraged features
 
 &emsp;The Secretary shall encourage projects carried out using grant funds under this section to include co-management of food safety, conservation systems, and ecological health.
 
-#### (3) Maximum term and size of grant
+#### (3) Term of grant
 
-#### (A) In general
-
-&emsp;&emsp;A grant under this section shall have a term that is not more than 3 years.
-
-#### (B) Limitation on grant funding
-
-&emsp;&emsp;The Secretary may not provide grant funding to an entity under this section after such entity has received 3 years of grant funding under this section.
+&emsp;A grant under this section shall have a term that is not more than 3 years.
 
 #### (f) Grant eligibility
 
@@ -84,9 +78,9 @@ Based on evaluations of, and responses arising from, projects funded under this 
 
 #### (j) Authorization of appropriations
 
-For the purposes of making grants under this section, there are authorized to be appropriated such sums as may be necessary for fiscal years 2011 through 2015.
+For the purposes of making grants under this section, there is authorized to be appropriated $10,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 105–185, title IV, §405, as added Pub. L. 111–353, title II, §209(b), Jan. 4, 2011, 124 Stat. 3947.)
+(Pub. L. 105–185, title IV, §405, as added Pub. L. 111–353, title II, §209(b), Jan. 4, 2011, 124 Stat. 3947; amended Pub. L. 115–334, title VII, §7301, title XII, §12306(e), Dec. 20, 2018, 132 Stat. 4815, 4970.)
 
 #### References in Text
 
@@ -94,7 +88,15 @@ Section 399c(d) of title 21, referred to in subsec. (a), was in the original "se
 
 #### Prior Provisions
 
-A prior section 7625, Pub. L. 105–185, title IV, §405, June 23, 1998, 112 Stat. 572; Pub. L. 107–171, title VII,§§7130, 7207(b), May 13, 2002, 116 Stat. 435, 440, related to the Thomas Jefferson Initiative for Crop Diversification, prior to repeal by Pub. L. 110–234, title VII, §7305, May 22, 2008, 122 Stat. 1242, and Pub. L. 110–246, §4(a), title VII, §7305, June 18, 2008, 122 Stat. 1664, 2003. Repeal of prior section 7625 and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008.
+A prior section 7625, Pub. L. 105–185, title IV, §405, June 23, 1998, 112 Stat. 572; Pub. L. 107–171, title VII, §§7130, 7207(b), May 13, 2002, 116 Stat. 435, 440, related to the Thomas Jefferson Initiative for Crop Diversification, prior to repeal by Pub. L. 110–234, title VII, §7305, May 22, 2008, 122 Stat. 1242, and Pub. L. 110–246, §4(a), title VII, §7305, June 18, 2008, 122 Stat. 1664, 2003. Repeal of prior section 7625 and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–334, §12306(e), inserted "veteran farmers or ranchers (as defined in section 2279(a) of this title)," after "socially disadvantaged farmers,".
+
+Subsec. (e)(3). Pub. L. 115–334, §7301(a), amended par. (3) generally. Prior to amendment, par. (3) related to maximum term and size of grant.
+
+Subsec. (j). Pub. L. 115–334, §7301(b), substituted "there is authorized to be appropriated $10,000,000 for each of fiscal years 2019 through 2023." for "there are authorized to be appropriated such sums as may be necessary for fiscal years 2011 through 2015."
 
 #### Construction
 

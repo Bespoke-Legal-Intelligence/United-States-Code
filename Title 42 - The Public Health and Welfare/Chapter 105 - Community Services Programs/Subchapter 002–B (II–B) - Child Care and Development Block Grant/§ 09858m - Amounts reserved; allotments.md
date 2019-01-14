@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall reserve not less than 2 percent of the amount appropriated undersection 9858 of this title in each fiscal year for payments to Indian tribes and tribal organizations with applications approved under subsection (c).
+&emsp;&emsp;The Secretary shall reserve not less than 2 percent of the amount appropriated under section 9858 of this title in each fiscal year for payments to Indian tribes and tribal organizations with applications approved under subsection (c).
 
 #### (B) Limitations
 
@@ -26,7 +26,7 @@
 
 #### (4) Technical assistance
 
-&emsp;The Secretary shall reserve up to ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to support technical assistance and dissemination activities under paragraphs (3) and (4) of section 9858g(a) of this title.
+&emsp;The Secretary shall reserve up to ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to supporttechnical assistance and dissemination activities under paragraphs (3) and (4) of section 9858g(a) of this title.
 
 #### (5) Research, demonstration, and evaluation
 
@@ -162,7 +162,7 @@ The Secretary shall obtain from each appropriate Federal agency, the most recent
 
 #### (A) Reduction
 
-&emsp;&emsp;The amount of any reallotment to which a State is entitled to under paragraph (1) shallbe reduced to the extent that it exceeds the amount that the Secretary estimates will be used in the State to carry out a State plan approved under section 9858c(d) of this title.
+&emsp;&emsp;The amount of any reallotment to which a State is entitled to under paragraph (1) shall be reduced to the extent that it exceeds the amount that the Secretary estimates will be used in the State to carry out a State plan approved under section 9858c(d) of this title.
 
 #### (B) Reallotments
 

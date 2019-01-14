@@ -32,7 +32,7 @@
 
 (e) The Secretary shall use the receipts of any payment for the lease of real property under subsection (b) for the payment of the lease of a facility under subsection (c).
 
-(f)(1) Subject to paragraph (3)(A), the Secretary shall, not later than April 18, 1990, issue an invitation for offers with respect to three colocations to be carried out under this section. The invitation shall include, with respect to each such colocation, at least the following:
+(f)(1) Subject to paragraph (3)(A), the Secretary shall, not later than April 18, 1990, issuean invitation for offers with respect to three colocations to be carried out under this section. The invitation shall include, with respect to each such colocation, at least the following:
 
 &emsp;(A) Identification of the site to be developed.
 

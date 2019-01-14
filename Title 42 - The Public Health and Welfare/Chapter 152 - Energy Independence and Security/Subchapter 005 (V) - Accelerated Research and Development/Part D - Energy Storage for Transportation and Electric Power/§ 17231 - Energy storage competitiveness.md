@@ -66,7 +66,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Council shall consist of not less than 15 individuals appointed by the Secretary, based on recommendations of the National Academy of Sciences.
+&emsp;&emsp;Subject to subparagraph (B), the Council shall consist of not less than 15 individualsappointed by the Secretary, based on recommendations of the National Academy of Sciences.
 
 #### (B) Energy storage industry
 

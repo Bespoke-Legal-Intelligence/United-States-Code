@@ -44,5 +44,5 @@ Amendment by Pub. L. 102–378 effective Nov. 10, 1988, see section 9(b)(8) of P
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L.99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 100–647 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of Title 26, Internal Revenue Code.
 

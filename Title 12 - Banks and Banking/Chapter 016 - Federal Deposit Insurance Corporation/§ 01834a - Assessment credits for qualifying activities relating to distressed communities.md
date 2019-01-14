@@ -34,11 +34,11 @@
 
 &emsp;&emsp;&emsp;(i) any increase during such period in the amount of assets described in paragraph (2)(A) that has been deemed eligible for credit by the Board; and
 
-&emsp;&emsp;&emsp;(ii) any increase during such period in the amounts of deposits, loans, and otherfinancial assistance described in paragraph (2)(B) that has been deemed eligible for credit by the Board.
+&emsp;&emsp;&emsp;(ii) any increase during such period in the amounts of deposits, loans, and other financial assistance described in paragraph (2)(B) that has been deemed eligible for credit by the Board.
 
 #### (4) Determination of qualified loans and other financial assistance
 
-&emsp;Except as provided in paragraph (6), the types of loans and other assistance which the Board may determine to be qualified to be taken into account under paragraph (2)(A) for purposes of the community enterprise assessment credit, may include the following:
+&emsp;Except as provided in paragraph (6), the types of loans and other assistance which theBoard may determine to be qualified to be taken into account under paragraph (2)(A) for purposes of the community enterprise assessment credit, may include the following:
 
 &emsp;&emsp;(A) Loans insured or guaranteed by the Secretary of Housing and Urban Development, the Secretary of the Department of Veterans Affairs, the Administrator of the Small Business Administration, and the Secretary of Agriculture.
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;(A) meets the minimum area requirements under paragraph (3) and the eligibility requirements of paragraph (4); and
 
-&emsp;&emsp;(B) is designated as a distressed community by any insured depository institution inaccordance with paragraph (2) and such designation is not disapproved under such paragraph.
+&emsp;&emsp;(B) is designated as a distressed community by any insured depository institution in accordance with paragraph (2) and such designation is not disapproved under such paragraph.
 
 #### (2) Designation requirements
 
@@ -218,7 +218,7 @@
 
 #### (2) Notice to FDIC
 
-&emsp;The Board shall notify the applicant and the Federal Deposit Insurance Corporation of any determination of the Board with respect to any application referred to in paragraph (1) in sufficient time for the Corporation to include the amount of such credit in the computation of the semiannual assessment to which such credit is applicable.
+&emsp;The Board shall notify the applicant and the Federal Deposit Insurance Corporation of any determination of the Board with respect toany application referred to in paragraph (1) in sufficient time for the Corporation to include the amount of such credit in the computation of the semiannual assessment to which such credit is applicable.
 
 #### (f) Availability of funds
 
@@ -368,9 +368,9 @@ Subsec. (a)(2). Pub. L. 102–550, §931(c), amended par. (2) generally. Prior t
 
 Subsec. (a)(3). Pub. L. 102–558, §303(b)(9)(B), substituted "section 1817(b)(7)" for "section 1817(d)(4)". Pub. L. 102–550, §1605(a)(7)(B), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
-Pub. L. 102–558, §303(b)(2), which directed technical amendment to reference to section 1834b of this title tocorrect reference to corresponding section of original act, could not be executed because of prior general amendment by Pub. L. 102–550, §931(d). See below. Pub. L. 102–550, §1604(b)(2), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+Pub. L. 102–558, §303(b)(2), which directed technical amendment to reference to section 1834b of this title to correct reference to corresponding section of original act, could not be executed because of prior general amendment by Pub. L. 102–550, §931(d). See below. Pub. L. 102–550, §1604(b)(2), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
-Pub. L. 102–550, §931(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The amount of any community enterprise assessment credit available under section 1817(d)(4) of this title for any insured depository institution, or a qualified portion thereof, for any semiannual period shall be the amount which is equal to 5 percent, in the case of an institution which does not meet the community development organization requirements under section 1834b of this title, and 15 percent, in the case of an institution, or a qualified portion thereof, which meets such requirements (or any percentage designated under paragraph (5)) of the sum of—
+Pub. L. 102–550, §931(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The amount of any community enterprise assessment credit available under section 1817(d)(4) of this title for anyinsured depository institution, or a qualified portion thereof, for any semiannual period shall be the amount which is equal to 5 percent, in the case of an institution which does not meet the community development organization requirements under section 1834b of this title, and 15 percent, in the case of an institution, or a qualified portion thereof, which meets such requirements (or any percentage designated under paragraph (5)) of the sum of—
 
 &emsp;"(A) the amounts of assets described in paragraph (2)(A); and
 

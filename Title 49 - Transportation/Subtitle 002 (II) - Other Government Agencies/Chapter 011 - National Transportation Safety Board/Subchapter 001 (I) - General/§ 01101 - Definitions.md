@@ -1,8 +1,8 @@
 ### §1101. Definitions
 
-Section 2101(17a) of title 46 and section 40102(a) of this title apply to this chapter. In this chapter, the term "accident" includes damage to or destruction of vehicles in surface or air transportation or pipelines, regardless of whether the initiating event is accidental or otherwise.
+Section 2101(23) of title 46 and section 40102(a) of this title apply to this chapter. In this chapter, the term "accident" includes damage to or destruction of vehicles in surface or air transportation or pipelines, regardless of whether the initiating event is accidental or otherwise.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 746; Pub. L. 106–424, §2, Nov. 1, 2000, 114 Stat. 1883.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 746; Pub. L. 106–424, §2, Nov. 1, 2000, 114 Stat. 1883; Pub. L. 115–232, div. C, title XXXV, §3541(b)(17), Aug. 13, 2018, 132 Stat. 2324.)
 
 Historical and Revision Notes
 
@@ -23,6 +23,8 @@ A number of the source provisions of the chapter are taken from 49 App.:ch. 20. 
 This section is included to ensure that the identical definitions that are relevant are used without repeating them. The source provisions for the definitions are found in the revision note for section 40102(a) of the revised title.
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232 substituted "Section 2101(23)" for "Section 2101(17a)".
 
 <b>2000</b>—Pub. L. 106–424 amended section catchline and text generally. Prior to amendment, text read as follows: "Section 40102(a) of this title applies to this chapter."
 
@@ -45,4 +47,20 @@ Pub. L. 106–424, §1(a), Nov. 1, 2000, 114 Stat. 1883, provided that: "This Ac
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–291, title I, §101, Oct. 11, 1996, 110 Stat. 3452, provided that: "This title \[amending sections 1114, 1115, and 1118 of this title\] may be cited as the 'National Transportation Safety Board Amendments of 1996'."
+
+#### Definitions of Terms in Div. C of Pub. L. 115–254
+
+Pub. L. 115–254, div. C, §1102, Oct. 5, 2018, 132 Stat. 3429, provided that: "In this division \[enacting section 1140 of this title, amending sections 1111, 1113, 1114, 1116 to 1118, 1131, 1134, 1136, 1138, 1139, 1154, 41113, and 41313 of this title, and enacting provisions set out as notes under sections 1116, 1119, and 40101 of this title\], the following definitions apply:
+
+&emsp;"(1)
+
+Board.—The term 'Board' means the National Transportation Safety Board.
+
+&emsp;"(2)
+
+Chairman.—The term 'Chairman' means the Chairman of the National Transportation Safety Board.
+
+&emsp;"(3)
+
+Most wanted list.—The term 'Most Wanted List' means the Board publication entitled 'Most Wanted List'."
 

@@ -10,7 +10,7 @@ It shall be unlawful for any developer or agent, directly or indirectly, to make
 
 &emsp;&emsp;(B) to sell or lease any lot unless a printed property report, meeting the requirements of section 1707 of this title, has been furnished to the purchaser or lessee in advance of the signing of any contract or agreement by such purchaser or lessee;
 
-&emsp;&emsp;(C) to sell or lease any lot where any part of the statement of record or the property report contained an untrue statement of a material fact or omitted to state a materialfact required to be stated therein pursuant to sections 1704 through 1707 of this title or any regulations thereunder; or
+&emsp;&emsp;(C) to sell or lease any lot where any part of the statement of record or the property report contained an untrue statement of a material fact or omitted to state a material fact required to be stated therein pursuant to sections 1704 through 1707 of this title or any regulations thereunder; or
 
 &emsp;&emsp;(D) to display or deliver to prospective purchasers or lessees advertising and promotional material which is inconsistent with information required to be disclosed in the property report; or
 
@@ -52,7 +52,7 @@ If a contract or agreement is revoked pursuant to subsection (b), (c), or (d), i
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–153 substituted provisions setting forth criteria in par. (1) with respect to the sale or lease of any lot not exempt under section 1702 of this title, for provisions relating to the sale or lease of any lot in any subdivision with accompanying required statement of record and printed property report, and in par. (2) with respect to the sale or lease, oroffer to sell or lease, any lot not exempt under section 1702(a) of this title, for provisions relating to the sale or lease, or offer to sell or lease, any lot in a subdivision through the use of specified prohibited activities.
+<b>1979</b>—Subsec. (a). Pub. L. 96–153 substituted provisions setting forth criteria in par. (1) with respect to the sale or lease of any lot not exempt under section 1702 of this title, for provisions relating to the sale or lease of any lot in any subdivision with accompanying required statement of record and printed property report, and in par. (2) with respect to the sale or lease, or offer to sell or lease, any lot not exempt under section 1702(a) of this title, for provisions relating to the sale or lease, or offer to sell or lease, any lot in a subdivision through the use of specified prohibited activities.
 
 Subsec. (b). Pub. L. 96–153 substituted provisions relating to revocation of contracts or agreements for the sale or lease of a lot not exempt under section 1702 of this title, for provisions relating to voidability of contracts or agreements for the purchase or lease of lots in subdivisions covered by this chapter.
 

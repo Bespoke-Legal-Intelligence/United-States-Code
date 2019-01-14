@@ -10,7 +10,7 @@ The Congress so declares because it finds—
 
 &emsp;(B) that land-grant and other universities in the United States have demonstrated over many years their ability to cooperate with international agencies, educational and research institutions in other countries, the private sector, and nongovernmental organizations worldwide, in expanding global agricultural production, processing, business and trade, to the benefit of aid recipient countries and of the United States;
 
-&emsp;(C) that, in a world of growing populations with rising expectations, increased food production and improved distribution, storage, and marketing in the developing countries is necessary not only to prevent hunger and ensure human health and child survival, but to build the basis for economic growth and trade,and the social security in which democracy and a market economy can thrive, and moreover, that the greatest potential for increasing world food supplies and incomes to purchase food is in the developing countries where the gap between food need and food supply is the greatest and current incomes are lowest;
+&emsp;(C) that, in a world of growing populations with rising expectations, increased food production and improved distribution, storage, and marketing in the developing countries is necessary not only to prevent hunger and ensure human health and child survival, but to build the basis for economic growth and trade, and the social security in which democracy and a market economy can thrive, and moreover, that the greatest potential for increasing world food supplies and incomes to purchase food is in the developing countries where the gap between food need and food supply is the greatest and current incomes are lowest;
 
 &emsp;(D) that increasing and making more secure the supply of food is of greatest benefit to the poorest majority in the developing world;
 
@@ -60,7 +60,7 @@ The United States should—
 
 &emsp;&emsp;(E) United States Government foreign assistance and economic cooperation programs;
 
-&emsp;(4) generally engage the United States university community more extensively in the agricultural research, trade, and development initiatives undertaken outside the United States, with the objectives of strengthening its capacity to carry out research, teaching, and extension activities for solving problems in food production, processing, marketing, and consumption in agriculturally developing nations, and for transforming progress in global agricultural research and development into economic growth, trade, and trade benefits foraid recipient countries and United States communities and industries, and for the wise use of natural resources; and
+&emsp;(4) generally engage the United States university community more extensively in the agricultural research, trade, and development initiatives undertaken outside the United States, with the objectives of strengthening its capacity to carry out research, teaching, and extension activities for solving problems in food production, processing, marketing, and consumption in agriculturally developing nations, and for transforming progress in global agricultural research and development into economic growth, trade, and trade benefits for aid recipient countries and United States communities and industries, and for the wise use of natural resources; and
 
 &emsp;(5) ensure that all federally funded support to universities and public and private partners of universities relating to the goals of this subpart is periodically reviewed for its performance.
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Global Crop Diversity Trust
 
-Pub. L. 110–246, title III, §3202, June 18, 2008, 122 Stat. 1836, as amended by Pub. L. 113–79, title III, §3206, Feb. 7, 2014, 128 Stat. 780, provided that:
+Pub. L. 110–246, title III, §3202, June 18, 2008, 122 Stat. 1836, as amended by Pub. L. 113–79, title III, §3206, Feb. 7, 2014, 128 Stat. 780; Pub. L. 115–334, title III, §3310, Dec. 20, 2018, 132 Stat. 4622, provided that:
 
 "(a)
 
@@ -164,11 +164,23 @@ Contribution.—The Administrator of the United States Agency for International 
 
 "(b)
 
-United States Contribution Limit.—The aggregate contributions of funds of the Federal Government provided to the Trust shall not exceed 25 percent of the total amount of funds contributed to the Trust from all sources.
+United States Contribution Limit.—
+
+&emsp;"(1)
+
+In general.—The aggregate contributions of funds of the Federal Government provided to the Trust shall not exceed—
+
+&emsp;&emsp;"(A) for the period of fiscal years 2014 through 2018, 25 percent of the total amount of funds contributed to the Trust from all sources; and
+
+&emsp;&emsp;"(B) subject to paragraph (2), effective beginning with fiscal year 2019, 33 percent of the total amount of funds contributed to the Trust from all sources.
+
+&emsp;"(2)
+
+Annual limitation.—The contributions of funds of the Federal Government provided to the Trust shall not exceed $5,500,000 for each of fiscal years 2019 through 2023.
 
 "(c)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $60,000,000 for the period of fiscal years 2014 through 2018."
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $60,000,000 for the period of fiscal years 2014 through 2023."
 
 #### International Food Reserve
 

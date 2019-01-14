@@ -20,7 +20,7 @@ Composition.—(1) A board appointed under this section to inquire into the wher
 
 (3) An individual may be appointed as a member of a board under this section only if the individual has a security clearance that affords the individual access to all information relating to the whereabouts and status of the missing persons covered by the inquiry.
 
-(4) A Secretary appointing a board under this subsection shall, for purposes of providing legal counsel to the board, assign to the board a judge advocate, or appoint to the board an attorney, who has expertise in the law relating to missing persons, the determination of death of such persons, and the rights of family members and dependents of such persons.
+(4) A Secretary appointing a board under this subsection shall, for purposes of providing legal counsel to the board, assign to the board a judgeadvocate, or appoint to the board an attorney, who has expertise in the law relating to missing persons, the determination of death of such persons, and the rights of family members and dependents of such persons.
 
 (d)
 
@@ -122,7 +122,7 @@ Report to Family Members and Other Interested Persons.—Not later than 30 days 
 
 (k)
 
-Treatment of Determination.—Any determination of the status of a missing personunder subsection (i) shall be treated as the determination of the status of the person by all departments and agencies of the United States.
+Treatment of Determination.—Any determination of the status of a missing person under subsection (i) shall be treated as the determination of the status of the person by all departments and agencies of the United States.
 
 (Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 338; amended Pub. L. 104–201, div. A, title V, §578(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(2), (d), Nov. 18, 1997, 111 Stat. 1767, 1769.)
 

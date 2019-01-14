@@ -38,7 +38,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Construction
 
-&emsp;&emsp;Nothing in this chapter requires that children be classified by their disability so long as each child who has a disability listed in section 1401 of this title and who, by reasonof that disability, needs special education and related services is regarded as a child with a disability under this subchapter.
+&emsp;&emsp;Nothing in this chapter requires that children be classified by their disability so long as each child who has a disability listed in section 1401 of this title and who, by reason of that disability, needs special education and related services is regarded as a child with a disability under this subchapter.
 
 #### (4) Individualized education program
 
@@ -68,7 +68,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Additional procedural safeguards
 
-&emsp;&emsp;Procedures to ensure that testing and evaluation materials and procedures utilized for the purposes of evaluation and placement of children with disabilities for services under this chapter will be selected and administered so as not to be racially or culturally discriminatory. Such materials or procedures shall be provided and administered in the child's native language or mode of communication, unless it clearly is not feasible to do so, and no single procedure shall be the sole criterion for determining an appropriate educational program for a child.
+&emsp;&emsp;Procedures to ensure that testing and evaluation materials and procedures utilized for the purposes of evaluation and placement of children with disabilities for services under this chapter will be selected and administered so as not to be racially or culturally discriminatory. Such materials or procedures shall be provided and administered in the child's native language or mode of communication, unless it clearly is notfeasible to do so, and no single procedure shall be the sole criterion for determining an appropriate educational program for a child.
 
 #### (7) Evaluation
 
@@ -148,7 +148,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (II) Procedure
 
-&emsp;&emsp;&emsp;&emsp;If the private school official wishes to submit a complaint, the official shall provide the basis of the noncompliance with this subparagraph by the local educational agency to the State educational agency, and the local educational agency shall forward the appropriate documentation to the State educational agency. If the private school official is dissatisfied with the decision of the State educational agency, such official may submit a complaint to the Secretary by providing the basis of the noncompliance with this subparagraph by the local educational agency to the Secretary, and the State educational agencyshall forward the appropriate documentation to the Secretary.
+&emsp;&emsp;&emsp;&emsp;If the private school official wishes to submit a complaint, the official shall provide the basis of the noncompliance with this subparagraph by the local educational agency to the State educational agency, and the local educational agency shall forward the appropriate documentation to the State educational agency. If the private school official is dissatisfied with the decision of the State educational agency, such official may submit a complaint to the Secretary by providing the basis of the noncompliance with this subparagraph by the local educational agency to the Secretary, and the State educational agency shall forward the appropriate documentation to the Secretary.
 
 #### (vi) Provision of equitable services
 
@@ -248,7 +248,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (A) Establishing responsibility for services
 
-&emsp;&emsp;The Chief Executive Officer of a State or designee of the officer shall ensure that an interagency agreement or other mechanism for interagency coordination is in effect between each public agency described in subparagraph (B) and the State educational agency, in order to ensure that all services described in subparagraph (B)(i) that are needed to ensure a free appropriate public education are provided, including the provision of such services during the pendency of any dispute under clause (iii). Such agreement or mechanism shall include the following:
+&emsp;&emsp;The Chief Executive Officer of a State or designee of the officer shall ensure that an interagency agreement or other mechanism for interagency coordination is in effect between each public agency described in subparagraph (B) and the State educational agency, in order to ensure that all services described in subparagraph (B)(i) that are needed to ensure a free appropriate public education are provided, including the provision of such services during the pendency ofany dispute under clause (iii). Such agreement or mechanism shall include the following:
 
 #### (i) Agency financial responsibility
 
@@ -274,7 +274,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (ii) Reimbursement for services by public agency
 
-&emsp;&emsp;&emsp;If a public agency other than an educational agency fails to provide or pay for the special education and related services described in clause (i), the local educational agency (or State agency responsible for developing the child's IEP) shall provide or pay for such services to the child. Such local educational agency or State agency is authorized to claim reimbursement for the services from the public agency that failed to provide or pay forsuch services and such public agency shall reimburse the local educational agency or State agency pursuant to the terms of the interagency agreement or other mechanism described in subparagraph (A)(i) according to the procedures established in such agreement pursuant to subparagraph (A)(ii).
+&emsp;&emsp;&emsp;If a public agency other than an educational agency fails to provide or pay for the special education and related services described in clause (i), the local educational agency (or State agency responsible for developing the child's IEP) shall provide or pay for such services to the child. Such local educational agency or State agency is authorized to claim reimbursement for the services from the public agency that failed to provide or pay for such services and such public agency shall reimburse the local educational agency or State agency pursuant to the terms of the interagency agreement or other mechanism described in subparagraph (A)(i) according to the procedures established in such agreement pursuant to subparagraph (A)(ii).
 
 #### (C) Special rule
 
@@ -304,7 +304,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;(ii) ensure that related services personnel who deliver services in their discipline or profession meet the requirements of clause (i) and have not had certification or licensure requirements waived on an emergency, temporary, or provisional basis; and
 
-&emsp;&emsp;&emsp;(iii) allow paraprofessionals and assistants who are appropriately trained and supervised, in accordance with State law, regulation, or written policy, in meeting the requirements of this subchapter to be used to assist in the provision of special education and related services under this subchapter to children with disabilities.
+&emsp;&emsp;&emsp;(iii) allow paraprofessionals and assistants who are appropriately trained and supervised, in accordance with State law, regulation, or written policy, in meeting the requirements of this subchapter to be used to assist in the provision of specialeducation and related services under this subchapter to children with disabilities.
 
 #### (C) Qualifications for special education teachers
 
@@ -338,7 +338,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;(iv) are consistent, to the extent appropriate, with any other goals and standards for children established by the State;
 
-&emsp;&emsp;(B) has established performance indicators the State will use to assess progress towardachieving the goals described in subparagraph (A), including measurements of interim progress for children with disabilities under section 6311(c)(4)(A)(i) of this title; and
+&emsp;&emsp;(B) has established performance indicators the State will use to assess progress toward achieving the goals described in subparagraph (A), including measurements of interim progress for children with disabilities under section 6311(c)(4)(A)(i) of this title; and
 
 &emsp;&emsp;(C) will annually report to the Secretary and the public on the progress of the State, and of children with disabilities in the State, toward meeting the goals established under subparagraph (A), which may include elements of the reports required under section 6311(h) of this title.
 
@@ -372,7 +372,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (D) Reports
 
-&emsp;&emsp;The State educational agency (or, in the case of a districtwide assessment, the local educational agency) makes available to the public, and reports to the public with the same frequency and in the same detail as it reports on the assessment of nondisabled children, the following:
+&emsp;&emsp;The State educational agency (or, in the case of a districtwide assessment, the local educational agency) makes available to thepublic, and reports to the public with the same frequency and in the same detail as it reports on the assessment of nondisabled children, the following:
 
 &emsp;&emsp;&emsp;(i) The number of children with disabilities participating in regular assessments, and the number of those children who were provided accommodations in order to participate in those assessments.
 
@@ -438,7 +438,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Membership
 
-&emsp;&emsp;Such advisory panel shall consist of members appointed by the Governor, or any other official authorized under State law to make such appointments, be representative of the State population, and be composed of individuals involved in, or concerned with, the education of children with disabilities, including—
+&emsp;&emsp;Such advisory panel shall consist of members appointed by the Governor, or any otherofficial authorized under State law to make such appointments, be representative of the State population, and be composed of individuals involved in, or concerned with, the education of children with disabilities, including—
 
 &emsp;&emsp;&emsp;(i) parents of children with disabilities (ages birth through 26);
 
@@ -558,7 +558,7 @@ If the State educational agency provides free appropriate public education to ch
 
 #### (1) In general
 
-&emsp;If a State has on file with the Secretary policies and procedures that demonstrate that such State meets any requirement of subsection (a), including any policies and procedures filed under this subchapter as in effect before the effective date of the Individuals with Disabilities Education Improvement Actof 2004, the Secretary shall consider such State to have met such requirement for purposes of receiving a grant under this subchapter.
+&emsp;If a State has on file with the Secretary policies and procedures that demonstrate that such State meets any requirement of subsection (a), including any policies and procedures filed under this subchapter as in effect before the effective date of the Individuals with Disabilities Education Improvement Act of 2004, the Secretary shall consider such State to have met such requirement for purposes of receiving a grant under this subchapter.
 
 #### (2) Modifications made by State
 

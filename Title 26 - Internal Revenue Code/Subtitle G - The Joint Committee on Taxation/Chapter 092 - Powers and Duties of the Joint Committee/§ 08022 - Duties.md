@@ -32,15 +32,15 @@ It shall be the duty of the Joint Committee—
 
 &emsp;(B) Subject to amounts specifically appropriated to carry out this subparagraph, to report, at least once each Congress, to the Committee on Finance and the Committee on Ways and Means on the overall state of the Federal tax system, together with recommendations with respect to possible simplification proposals and other matters relating to the administration of the Federal tax system as it may deem advisable.
 
-&emsp;(C) To report, for each calendar year after 1998 and before 2005, to the Committees on Finance, Appropriations, and Governmental Affairs of the Senate, and to the Committees on Ways and Means, Appropriations, and Government Reform and Oversight of the House of Representatives, with respect to the matters addressed in the joint review referred to in section 8021(f)(2).
-
 #### (4) Cross reference
 
 &emsp;&emsp;<b>For duties of the Joint Committee relating to refunds of income and estate taxes, see section 6405.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 927; Pub. L. 105–206, title IV, §4002(a), July 22, 1998, 112 Stat. 784; Pub. L. 108–311, title III, §321(b), Oct. 4, 2004, 118 Stat. 1182.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 927; Pub. L. 105–206, title IV, §4002(a), July 22, 1998, 112 Stat. 784; Pub. L. 108–311, title III, §321(b), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 115–141, div. U, title IV, §401(b)(57), Mar. 23, 2018, 132 Stat. 1205.)
 
 #### Amendments
+
+<b>2018</b>—Par. (3)(C). Pub. L. 115–141 struck out subpar. (C) which read as follows: "To report, for each calendar year after 1998 and before 2005, to the Committees on Finance, Appropriations, and Governmental Affairs of the Senate, and to the Committees on Ways and Means, Appropriations, and Government Reform and Oversight of the House of Representatives, with respect to the matters addressed in the joint review referred to in section 8021(f)(2)."
 
 <b>2004</b>—Par. (3)(C). Pub. L. 108–311 substituted "2005" for "2004" and "with respect to the matters addressed in the joint review referred to in section 8021(f)(2)." for "with respect to—
 
@@ -58,15 +58,13 @@ It shall be the duty of the Joint Committee—
 
 <b>1998</b>—Par. (3). Pub. L. 105–206 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "To report, from time to time, to the Committee on Finance and the Committee on Ways and Means, and, in its discretion, to the Senate or the House of Representatives, or both, the results of its investigations, together with such recommendation as it may deem advisable."
 
-#### Change of Name
-
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
-
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–206, title IV, §4002(b), July 22, 1998, 112 Stat. 784, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\]."
+
+#### Savings Provision
+
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Analysis To Accompany Certain Legislation
 
@@ -118,7 +116,7 @@ Pub. L. 94–455, title V, §507, Oct. 4, 1976, 90 Stat. 1569, mandated a full a
 
 #### Study of Expanded Participation in Individual Retirement Accounts
 
-Pub. L. 94–455, title XV, §1509, Oct. 4, 1976, 90 Stat. 1741, directed Joint Committee on Taxation to carry out study with respect to broadening class of individuals eligible to claim deduction for retirement savings under section 219 or 220 of this title, and to report its findings to Committee on Ways and Means of the Houseof Representatives and to Committee on Finance of the Senate.
+Pub. L. 94–455, title XV, §1509, Oct. 4, 1976, 90 Stat. 1741, directed Joint Committee on Taxation to carry out study with respect to broadening class of individuals eligible to claim deduction for retirement savings under section 219 or 220 of this title, and to report its findings to Committee on Ways and Means of the House of Representatives and to Committee on Finance of the Senate.
 
 #### Tax Incentives Study
 

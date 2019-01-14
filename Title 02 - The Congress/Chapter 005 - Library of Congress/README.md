@@ -42,7 +42,7 @@
 | [142i.](%C2%A7%2000142i%20-%20United%20States%20Capitol%20Preservation%20Commission%3B%20provision%20of%20financial%20management%20services%20and%20support%20by%20Library%20of%20Congress.md) | United States Capitol Preservation Commission; provision of financial management services and support by Library of Congress. |
 | [142j.](%C2%A7%2000142j%20-%20John%20C.%20Stennis%20Center%20for%20Public%20Service%20Training%20and%20Development%3B%20disbursement%20of%20funds%2C%20computation%20and%20disbursement%20of%20basic%20pay%2C%20and%E2%80%A6.md) | John C. Stennis Center for Public Service Training and Development; disbursement of funds, computation and disbursement of basic pay, and provision of financial management services and support by Library of Congress; payment for services. |
 | [142k.](%C2%A7%2000142k%20-%20Library%20of%20Congress%20disbursing%20office%3B%20payroll%20processing%20functions.md) | Library of Congress disbursing office; payroll processing functions. |
-| 142<i>l.</i> | Disbursing Officer of Library of Congress; disbursements for Office of Compliance; voucher certifications, accountability and relief by Comptroller General. |
+| 142<i>l.</i> | Disbursing Officer of Library of Congress; disbursements for Office of Congressional Workplace Rights; voucher certifications, accountability and relief by Comptroller General. |
 | [143\.](%C2%A7%2000143%20-%20Appropriations%20for%20Library%20Building%20and%20Grounds.md) | Appropriations for Library Building and Grounds. |
 | [143a.](%C2%A7%2000143a%20-%20Disbursement%20of%20funds.md) | Disbursement of funds. |
 | [143b.](%C2%A7%2000143b%20-%20Payments%20in%20advance%20for%20subscriptions%20or%20other%20charges.md) | Payments in advance for subscriptions or other charges. |
@@ -76,6 +76,7 @@
 | [164a.](%C2%A7%2000164a%20-%20Official%20distribution%20of%20State%20legislation%20index%20and%20digest.md) | Official distribution of State legislation index and digest. |
 | [165\.](%C2%A7%2000165%20-%20Authorization%20for%20appropriation%20for%20biennial%20index.md) | Authorization for appropriation for biennial index. |
 | [166\.](%C2%A7%2000166%20-%20Congressional%20Research%20Service.md) | Congressional Research Service. |
+| [166a.](%C2%A7%2000166a%20-%20Equal%20access%20to%20Congressional%20Research%20Service%20Reports.md) | Equal access to Congressional Research Service Reports. |
 | 167 to 167h. Repealed. |  |
 | [167i.](%C2%A7%2000167i%20-%20Suspension%20of%20prohibitions%20against%20use%20of%20Library%20buildings%20and%20grounds.md) | Suspension of prohibitions against use of Library buildings and grounds. |
 | [167j.](%C2%A7%2000167j%20-%20Area%20comprising%20Library%20of%20Congress%20grounds%3B%20buildings%20and%20grounds%20defined.md) | Area comprising Library of Congress grounds; "buildings and grounds" defined. |
@@ -110,7 +111,7 @@
 | [181\.](%C2%A7%2000181%20-%20Program%20for%20exchange%20of%20information%20among%20legislative%20branch%20agencies.md) | Program for exchange of information among legislative branch agencies. |
 | [182\.](%C2%A7%2000182%20-%20Cooperative%20Acquisitions%20Program%20Revolving%20Fund.md) | Cooperative Acquisitions Program Revolving Fund. |
 | [182a.](%C2%A7%2000182a%20-%20Revolving%20fund%20for%20duplication%20services%20associated%20with%20audiovisual%20conservation%20center.md) | Revolving fund for duplication services associated with audiovisual conservation center. |
-| [182b.](%C2%A7%2000182b%20-%20Revolving%20fund%20for%20gift%20shop%2C%20decimal%20classification%2C%20photo%20duplication%2C%20and%20related%20services.md) | Revolving fund for gift shop, decimal classification, photo duplication, and related services. |
+| [182b.](%C2%A7%2000182b%20-%20Revolving%20fund%20for%20sales%20shop%20and%20other%20services.md) | Revolving fund for sales shop and other services. |
 | [182c.](%C2%A7%2000182c%20-%20Revolving%20fund%20for%20FEDLINK%20program%20and%20Federal%20Research%20program.md) | Revolving fund for FEDLINK program and Federal Research program. |
 | [182d.](%C2%A7%2000182d%20-%20Audits%20by%20Comptroller%20General.md) | Audits by Comptroller General. |
 | [182e.](%C2%A7%2000182e%20-%20Library%20of%20Congress%20National%20Collection%20Stewardship%20Fund.md) | Library of Congress National Collection Stewardship Fund. |
@@ -166,7 +167,7 @@
 - [&sect; 00142i - United States Capitol Preservation Commission; provision of financial management services and support by Library of Congress](%C2%A7%2000142i%20-%20United%20States%20Capitol%20Preservation%20Commission%3B%20provision%20of%20financial%20management%20services%20and%20support%20by%20Library%20of%20Congress.md)
 - [&sect; 00142j - John C. Stennis Center for Public Service Training and Development; disbursement of funds, computation and disbursement of basic pay, and&#8230;](%C2%A7%2000142j%20-%20John%20C.%20Stennis%20Center%20for%20Public%20Service%20Training%20and%20Development%3B%20disbursement%20of%20funds%2C%20computation%20and%20disbursement%20of%20basic%20pay%2C%20and%E2%80%A6.md)
 - [&sect; 00142k - Library of Congress disbursing office; payroll processing functions](%C2%A7%2000142k%20-%20Library%20of%20Congress%20disbursing%20office%3B%20payroll%20processing%20functions.md)
-- [&sect; 00142l - Disbursing Officer of Library of Congress; disbursements for Office of Compliance; voucher certifications, accountability and relief by&#8230;](%C2%A7%2000142l%20-%20Disbursing%20Officer%20of%20Library%20of%20Congress%3B%20disbursements%20for%20Office%20of%20Compliance%3B%20voucher%20certifications%2C%20accountability%20and%20relief%20by%E2%80%A6.md)
+- [&sect; 00142l - Disbursing Officer of Library of Congress; disbursements for Office of Congressional Workplace Rights; voucher certifications&#8230;](%C2%A7%2000142l%20-%20Disbursing%20Officer%20of%20Library%20of%20Congress%3B%20disbursements%20for%20Office%20of%20Congressional%20Workplace%20Rights%3B%20voucher%20certifications%E2%80%A6.md)
 - [&sect; 00143 - Appropriations for Library Building and Grounds](%C2%A7%2000143%20-%20Appropriations%20for%20Library%20Building%20and%20Grounds.md)
 - [&sect; 00143a - Disbursement of funds](%C2%A7%2000143a%20-%20Disbursement%20of%20funds.md)
 - [&sect; 00143b - Payments in advance for subscriptions or other charges](%C2%A7%2000143b%20-%20Payments%20in%20advance%20for%20subscriptions%20or%20other%20charges.md)
@@ -201,6 +202,7 @@
 - [&sect; 00164a - Official distribution of State legislation index and digest](%C2%A7%2000164a%20-%20Official%20distribution%20of%20State%20legislation%20index%20and%20digest.md)
 - [&sect; 00165 - Authorization for appropriation for biennial index](%C2%A7%2000165%20-%20Authorization%20for%20appropriation%20for%20biennial%20index.md)
 - [&sect; 00166 - Congressional Research Service](%C2%A7%2000166%20-%20Congressional%20Research%20Service.md)
+- [&sect; 00166a - Equal access to Congressional Research Service Reports](%C2%A7%2000166a%20-%20Equal%20access%20to%20Congressional%20Research%20Service%20Reports.md)
 - [&sect; 00167 to 167h - Repealed. Pub. L. 110&#8211;161, div. H, title I, &sect;1004(d)(1)(B), (2)(B), Dec. 26, 2007, 121 Stat. 2233, 2234, and Pub. L. 110&#8211;178&#8230;](%C2%A7%2000167%20to%20167h%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93161%2C%20div.%20H%2C%20title%20I%2C%20%C2%A71004%28d%29%281%29%28B%29%2C%20%282%29%28B%29%2C%20Dec.%2026%2C%202007%2C%20121%20Stat.%202233%2C%202234%2C%20and%20Pub.%20L.%20110%E2%80%93178%E2%80%A6.md)
 - [&sect; 00167i - Suspension of prohibitions against use of Library buildings and grounds](%C2%A7%2000167i%20-%20Suspension%20of%20prohibitions%20against%20use%20of%20Library%20buildings%20and%20grounds.md)
 - [&sect; 00167j - Area comprising Library of Congress grounds; buildings and grounds defined](%C2%A7%2000167j%20-%20Area%20comprising%20Library%20of%20Congress%20grounds%3B%20buildings%20and%20grounds%20defined.md)
@@ -236,7 +238,7 @@
 - [&sect; 00181 - Program for exchange of information among legislative branch agencies](%C2%A7%2000181%20-%20Program%20for%20exchange%20of%20information%20among%20legislative%20branch%20agencies.md)
 - [&sect; 00182 - Cooperative Acquisitions Program Revolving Fund](%C2%A7%2000182%20-%20Cooperative%20Acquisitions%20Program%20Revolving%20Fund.md)
 - [&sect; 00182a - Revolving fund for duplication services associated with audiovisual conservation center](%C2%A7%2000182a%20-%20Revolving%20fund%20for%20duplication%20services%20associated%20with%20audiovisual%20conservation%20center.md)
-- [&sect; 00182b - Revolving fund for gift shop, decimal classification, photo duplication, and related services](%C2%A7%2000182b%20-%20Revolving%20fund%20for%20gift%20shop%2C%20decimal%20classification%2C%20photo%20duplication%2C%20and%20related%20services.md)
+- [&sect; 00182b - Revolving fund for sales shop and other services](%C2%A7%2000182b%20-%20Revolving%20fund%20for%20sales%20shop%20and%20other%20services.md)
 - [&sect; 00182c - Revolving fund for FEDLINK program and Federal Research program](%C2%A7%2000182c%20-%20Revolving%20fund%20for%20FEDLINK%20program%20and%20Federal%20Research%20program.md)
 - [&sect; 00182d - Audits by Comptroller General](%C2%A7%2000182d%20-%20Audits%20by%20Comptroller%20General.md)
 - [&sect; 00182e - Library of Congress National Collection Stewardship Fund](%C2%A7%2000182e%20-%20Library%20of%20Congress%20National%20Collection%20Stewardship%20Fund.md)

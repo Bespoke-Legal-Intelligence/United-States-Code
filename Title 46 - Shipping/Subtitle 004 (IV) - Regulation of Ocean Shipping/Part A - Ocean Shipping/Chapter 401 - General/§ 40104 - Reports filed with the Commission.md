@@ -2,13 +2,33 @@
 
 (a)
 
-In General.—The Federal Maritime Commission may require a common carrier or an officer, receiver, trustee, lessee, agent, or employee of the carrier to file with the Commission a periodical or special report, an account, record, rate, or charge, or a memorandum of facts and transactions related to the business of the carrier. The report, account, record, rate, charge, or memorandum shall be made under oath if the Commission requires, and shall be filed in the form and within the time prescribed by the Commission.
+Reports.—
+
+&emsp;(1)
+
+In general.—The Federal Maritime Commission may require a common carrier or marine terminal operator, or an officer, receiver, trustee, lessee, agent, or employee of the common carrier or marine terminal operator to file with the Commission a periodical or special report, an account, record, rate, or charge, or a memorandum of facts and transactions related to the business of the common carrier or marine terminal operator, as applicable.
+
+&emsp;(2)
+
+Requirements.—Any report, account, record, rate, charge, or memorandum required to be filed under paragraph (1) shall—
+
+&emsp;&emsp;(A) be made under oath if the Commission requires; and
+
+&emsp;&emsp;(B) be filed in the form and within the time prescribed by the Commission.
+
+&emsp;(3)
+
+Limitation.—The Commission shall—
+
+&emsp;&emsp;(A) limit the scope of any filing ordered under this section to fulfill the objective of the order; and
+
+&emsp;&emsp;(B) provide a reasonable period of time for respondents to respond based upon their capabilities and the scope of the order.
 
 (b)
 
 Conference Minutes.—Conference minutes required to be filed with the Commission under this section may not be released to third parties or published by the Commission.
 
-(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1527.)
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1527; Pub. L. 115–282, title VII, §705, Dec. 4, 2018, 132 Stat. 4294.)
 
 Historical and Revision Notes
 
@@ -25,4 +45,8 @@ Historical and Revision Notes
 46 App.:1714.
 
 Pub. L. 98–237, §15, Mar. 20, 1984, 98 Stat. 84; Pub. L. 98–595, §3(b)(3), Oct. 30, 1984, 98 Stat. 3133; Pub. L. 105–258, title I, §113, Oct. 14, 1998, 112 Stat. 1912.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–282 amended subsec. (a) generally. Prior to amendment, text read as follows: "The Federal Maritime Commission may require a common carrier or an officer, receiver, trustee, lessee, agent, or employee of the carrier to file with the Commission a periodical or special report, an account, record, rate, or charge, or a memorandum of facts and transactions related to the business of the carrier. The report, account, record, rate, charge, or memorandum shall be made under oath if the Commission requires, and shall be filed in the form and within the time prescribed by the Commission."
 

@@ -82,7 +82,7 @@ Mitigation.—During the time of construction of each respective line segment, G
 
 &emsp;&emsp;"(B)
 
-Conservation.—Gateway West shall contribute $2,000 per acre of right-of-way in the Conservation Area during the time of construction of Segment 8 Revised Proposed Route (comprising 761 acres) and during the construction of Segment 9 Revised Proposed Route (comprising 1,845 acres) to the Bureau of Land Management Foundation that shall be used for the purpose of conservation, including enhancing National Landscape Conservation System Units in Idaho, also known as National Conservation Lands.
+Conservation.—Gateway West shall contribute $2,000 per acre of right-of-way in the Conservation Area during the time of construction of Segment 8 Revised Proposed Route (comprising 761 acres) and during the construction of Segment 9 Revised Proposed Route (comprising 1,845 acres) to the Bureau of Land Management Foundation that shall be used for the purpose of conservation, includingenhancing National Landscape Conservation System Units in Idaho, also known as National Conservation Lands.
 
 &emsp;&emsp;"(C)
 

@@ -22,15 +22,27 @@ No impound, trust, or other type of account for the payment of property taxes, i
 
 #### (c) Exemptions
 
-The Bureau may, by regulation, exempt from the requirements of subsection (a) a creditor that—
+#### (1) In general
 
-&emsp;(1) operates in rural or underserved areas;
+&emsp;The Bureau may, by regulation, exempt from the requirements of subsection (a) a creditor that—
 
-&emsp;(2) together with all affiliates, has total annual mortgage loan originations that do not exceed a limit set by the Bureau;
+&emsp;&emsp;(A) operates in rural or underserved areas;
 
-&emsp;(3) retains its mortgage loan originations in portfolio; and
+&emsp;&emsp;(B) together with all affiliates, has total annual mortgage loan originations that do not exceed a limit set by the Bureau;
 
-&emsp;(4) meets any asset size threshold and any other criteria the Bureau may establish, consistent with the purposes of this part.
+&emsp;&emsp;(C) retains its mortgage loan originations in portfolio; and
+
+&emsp;&emsp;(D) meets any asset size threshold and any other criteria the Bureau may establish, consistent with the purposes of this part.
+
+#### (2) Treatment of loans held by smaller institutions
+
+&emsp;The Bureau shall, by regulation, exempt from the requirements of subsection (a) any loan made by an insured depository institution or an insured credit union secured by a first lien on the principal dwelling of a consumer if—
+
+&emsp;&emsp;(A) the insured depository institution or insured credit union has assets of $10,000,000,000 or less;
+
+&emsp;&emsp;(B) during the preceding calendar year, the insured depository institution or insured credit union and its affiliates originated 1,000 or fewer loans secured by a first lien on a principal dwelling; and
+
+&emsp;&emsp;(C) the transaction satisfies the criteria in sections 1026.35(b)(2)(iii)(A), 1026.35(b)(2)(iii)(D), and 1026.35(b)(2)(v) of title 12, Code of Federal Regulations, or any successor regulation.
 
 #### (d) Duration of mandatory escrow or impound account
 
@@ -50,7 +62,7 @@ Escrow accounts need not be established for loans secured by shares in a coopera
 
 #### (f) Clarification on escrow accounts for loans not meeting statutory test
 
-For mortgages not covered by the requirements of subsection (b), no provision of this section shall be construed as precluding the establishment of an impound, trust, or other type ofaccount for the payment of property taxes, insurance premiums, or other purposes relating to the property—
+For mortgages not covered by the requirements of subsection (b), no provision of this section shall be construed as precluding the establishment of an impound, trust, or other type of account for the payment of property taxes, insurance premiums, or other purposes relating to the property—
 
 &emsp;(1) on terms mutually agreeable to the parties to the loan;
 
@@ -110,6 +122,14 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term "hazard insurance" shall have the same meaning as provided for "hazard insurance", "casualty insurance", "homeowner's insurance", or other similar term under the law of the State where the real property securing the consumer credit transaction is located.
 
+#### (3) Insured credit union
+
+&emsp;The term "insured credit union" has the meaning given the term in section 1752 of title 12.
+
+#### (4) Insured depository institution
+
+&emsp;The term "insured depository institution" has the meaning given the term in section 1813 of title 12.
+
 #### (j) Disclosure notice required for consumers who waive escrow services
 
 #### (1) In general
@@ -134,11 +154,11 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(D) Such other information as the Bureau determines necessary for the protection of the consumer.
 
-(Pub. L. 90–321, title I, §129D, as added and amended Pub. L. 111–203, title X, §1100A(2), title XIV, §§1461(a), 1462, July 21, 2010, 124 Stat. 2107, 2178, 2181; Pub. L. 114–94, div. G, title LXXXIX, §89003(2), Dec. 4, 2015, 129 Stat. 1801.)
+(Pub. L. 90–321, title I, §129D, as added and amended Pub. L. 111–203, title X, §1100A(2), title XIV, §§1461(a), 1462, July 21, 2010, 124 Stat. 2107, 2178, 2181; Pub. L. 114–94, div. G, title LXXXIX, §89003(2), Dec. 4, 2015, 129 Stat. 1801; Pub. L. 115–174, title I, §108, May 24, 2018, 132 Stat. 1304.)
 
 #### References in Text
 
-This part, referred to in subsec. (c)(4), was in the original "this subtitle", and was translated as reading "this chapter", meaning chapter 2 of title I of Pub. L. 90–321, to reflect the probable intent of Congress. Title I of Pub. L. 90–321 does not contain subtitles.
+This part, referred to in subsec. (c)(1)(D), was in the original "this subtitle", and was translated as reading "this chapter", meaning chapter 2 of title I of Pub. L. 90–321, to reflect the probable intent of Congress. Title I of Pub. L. 90–321 does not contain subtitles.
 
 The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (g)(2)(A), (4), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
@@ -148,9 +168,15 @@ The National Flood Insurance Act of 1968, referred to in subsec. (i)(1), is titl
 
 #### Amendments
 
+<b>2018</b>—Subsec. (c). Pub. L. 115–174, §108(1)(A), (B), (D), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned margins, and added par. (2).
+
+Subsec. (c)(1). Pub. L. 115–174, §108(1)(B), (C), which directed substitution of "The Bureau" for "The Board" in introductory provisions, and "the Bureau" for "the Board" wherever appearing, duplicated the amendment made by Pub. L. 111–203, §1100A(2), which had already been executed. See 2010 Amendment note below.
+
+Subsec. (i)(3), (4). Pub. L. 115–174, §108(2), added pars. (3) and (4).
+
 <b>2015</b>—Subsec. (c)(1). Pub. L. 114–94 struck out "predominantly" after "operates".
 
-<b>2010</b>—Pub. L. 111–203, §1100A(2), substituted "Bureau" for "Board" wherever appearing.
+<b>2010</b>—Pub. L. 111–203, §1100A(2), which directed substitution of "Bureau" for "Board" wherever appearing in Pub. L. 90–321, was executed to this section, which wasadded to Pub. L. 90–321 by section 1461(a) of Pub. L. 111–203.
 
 Subsec. (j). Pub. L. 111–203, §1462, added subsec. (j).
 

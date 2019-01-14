@@ -8,7 +8,7 @@ It is unlawful for any person—
 
 &emsp;(3) to ship, transport, offer for sale, sell, purchase, import, export, or have custody, control or possession of, any Antarctic marine living resource (or part or product thereof) harvested in violation of a conservation measure in force with respect to the United States pursuant to article IX of the Convention or in violation of any regulation promulgated under this chapter, without regard to the citizenship of the person that harvested, or vessel that was used in the harvesting of, the Antarctic marine living resource (or part or product thereof);
 
-&emsp;(4) to refuse to permit any authorized officer or employee of the United States to board a vessel of the United States or a vessel subject to the jurisdiction of the United States for purposes of conducting any search, investigation, or inspection in connection with the enforcement of the Convention, this chapter, or any regulations promulgated under this chapter;
+&emsp;(4) to refuse to permit any authorized officer or employee of the United States to board a vessel of the United States or a vessel subject to the jurisdiction of the United States forpurposes of conducting any search, investigation, or inspection in connection with the enforcement of the Convention, this chapter, or any regulations promulgated under this chapter;
 
 &emsp;(5) to assault, resist, oppose, impede, intimidate, or interfere with any authorized officer or employee of the United States in the conduct of any search, investigation, or inspection described in paragraph (4);
 

@@ -28,7 +28,7 @@ The State plan shall contain a description of each of the following:
 
 &emsp;(7) How the State, in using the requirements payment, will maintain the expenditures of the State for activities funded by the payment at a level that is not less than the level of such expenditures maintained by the State for the fiscal year ending prior to November 2000.
 
-&emsp;(8) How the State will adopt performance goals and measures that will be used by the State to determine its success and the success of units of local government in the State in carrying out the plan, including timetables for meeting each of the elements of the plan, descriptions of the criteria the State will use to measure performance and the process used to develop such criteria, and a description of which official is to be held responsible for ensuring that each performance goal is met.
+&emsp;(8) How the State will adopt performance goals and measures that will be used by the State to determine its success and the success of units of local government in the State in carrying out the plan, including timetables for meeting each of the elements of the plan, descriptions of the criteria the State will use tomeasure performance and the process used to develop such criteria, and a description of which official is to be held responsible for ensuring that each performance goal is met.
 
 &emsp;(9) A description of the uniform, nondiscriminatory State-based administrative complaint procedures in effect under section 21112 of this title.
 
@@ -42,7 +42,7 @@ The State plan shall contain a description of each of the following:
 
 &emsp;&emsp;(C) takes effect only after the expiration of the 30-day period which begins on the date notice of the change is published in the Federal Register in accordance with subparagraph (A).
 
-&emsp;(12) In the case of a State with a State plan in effect under this part during the previousfiscal year, a description of how the plan reflects changes from the State plan for the previous fiscal year and of how the State succeeded in carrying out the State plan for such previous fiscal year.
+&emsp;(12) In the case of a State with a State plan in effect under this part during the previous fiscal year, a description of how the plan reflects changes from the State plan for the previous fiscal year and of how the State succeeded in carrying out the State plan for such previous fiscal year.
 
 &emsp;(13) A description of the committee which participated in the development of the State plan in accordance with section 21005 of this title and the procedures followed by the committee under such section and section 21006 of this title.
 

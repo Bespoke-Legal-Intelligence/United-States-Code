@@ -52,7 +52,7 @@ Consultation Requirement.—The Secretary of Defense shall carry out the respons
 
 #### Effective Date
 
-Pub. L. 106–65, div. A, title VII, §716(d), Oct. 5, 1999, 113 Stat. 692, provided that: "The amendments made bysubsection (a) \[enacting this section\] shall take effect one year after the date of the enactment of this Act \[Oct. 5, 1999\]."
+Pub. L. 106–65, div. A, title VII, §716(d), Oct. 5, 1999, 113 Stat. 692, provided that: "The amendments made by subsection (a) \[enacting this section\] shall take effect one year after the date of the enactment of this Act \[Oct. 5, 1999\]."
 
 #### Report on Implementation
 

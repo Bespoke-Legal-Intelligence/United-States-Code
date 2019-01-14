@@ -92,7 +92,7 @@ Subsecs. (c) to (f). Pub. L. 107–107, §824(a)(3), added subsecs. (c) to (f) a
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(d)\], struck out "(except as provided in subsections (c) and (d))" after "a person must" in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(b)(1)\], inserted "and" before "(B) have completed" and struck out ", or (C) have passed an examination considered by the Secretary of Defense to demonstrate skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education in any of the disciplines listed in subparagraph (B)" after "organization and management".
+Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(b)(1)\], inserted "and" before "(B) have completed" and struck out ", or (C) have passed an examinationconsidered by the Secretary of Defense to demonstrate skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education in any of the disciplines listed in subparagraph (B)" after "organization and management".
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(b)(2)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "The Secretary of Defense shall require that a person may not be employed by the Department of Defense in the GS–1102 occupational series unless the person (except as provided in subsections (c) and (d)) meets the requirements set forth in subsection (a)(3)."
 

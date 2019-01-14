@@ -22,7 +22,7 @@
 
 #### Amendments
 
-<b>1982</b>—Par. (6). Pub. L. 97–258 substituted "section 3713(a) of title 31, United States Code" for "R.S. 3466 (31U.S.C. 191)". Notwithstanding the directory language that amendment be made to section 7430, the amendment was executed to this section to reflect the probable intent of Congress and the intervening renumbering of section 7430 as 7432 by Pub. L. 97–248.
+<b>1982</b>—Par. (6). Pub. L. 97–258 substituted "section 3713(a) of title 31, United States Code" for "R.S. 3466 (31 U.S.C. 191)". Notwithstanding the directory language that amendment be made to section 7430, the amendment was executed to this section to reflect the probable intent of Congress and the intervening renumbering of section 7430 as 7432 by Pub. L. 97–248.
 
 <b>1980</b>—Par. (1). Pub. L. 96–589, §6(d)(1), added par. (1). Former par. (1), which provided cross reference to former section 35 of title 11 for exclusion of tax liability from discharge in bankruptcy, was struck out.
 

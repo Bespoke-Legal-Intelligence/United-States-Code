@@ -86,7 +86,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 > shall notify the Corporation within ninety days of the date of the vote of the shareholders on the amendment of his or her desire.
 
-(B) Within one hundred and twenty days after the date of the vote described in subparagraph\(A), the board of directors shall approve a resolution to provide that each shareholder who has notified the corporation pursuant to subparagraph (A) shall receive either—
+(B) Within one hundred and twenty days after the date of the vote described in subparagraph (A), the board of directors shall approve a resolution to provide that each shareholder who has notified the corporation pursuant to subparagraph (A) shall receive either—
 
 &emsp;(i) alienable common stock in exchange for his or her Settlement Common Stock pursuant to paragraph (6), or
 
@@ -100,7 +100,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (ii) Alienable common stock issued in exchange for a class of Settlement Common Stock carrying greater per share voting power than Settlement Common Stock issued pursuant to subsections (g)(1)(A) and (g)(1)(B) shall carry such voting power and be subject to such other terms as may be provided in the amendment to the articles of incorporation authorizing the issuance of such class of Settlement Common Stock.
 
-(iii) In the resolution authorized by paragraph (5)(B), the board of directors shall provide that each share of Settlement Common Stock carrying the right to share in distributions made to shareholders pursuant to subsections (j) and (m) of section 1606 of this title shall be exchanged either for—
+(iii) In the resolution authorized by paragraph (5)(B), the board of directors shall provide thateach share of Settlement Common Stock carrying the right to share in distributions made to shareholders pursuant to subsections (j) and (m) of section 1606 of this title shall be exchanged either for—
 
 &emsp;(I) a share of alienable common stock carrying such right, or
 

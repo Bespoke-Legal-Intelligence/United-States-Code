@@ -2,7 +2,7 @@
 
 #### (a) Implementation of policy by Administrator; consultation with Council and Advisory Committee
 
-(1) The Administrator shall develop objectives, priorities, and a long-term plan, and implement overall policy and a strategy to carry out such plan, for all Federal juvenile delinquency programs and activities relating to prevention, diversion, training, treatment, rehabilitation, evaluation, research, and improvement of the juvenile justice system in the United States. In carrying out the functions of the Administrator, the Administrator shall consult with the Council.
+(1) The Administrator shall develop objectives, priorities, and a long-term plan to improve the juvenile justice system in the United States, taking into account scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents, and shall implement overall policy and a strategy to carry out such plan, for all Federal juvenile delinquency programs and activities relating to prevention, diversion, training, treatment, rehabilitation, evaluation, and research. In carrying out the functions of the Administrator, the Administrator shall consult with the Council.
 
 (2)(A) The plan described in paragraph (1) shall—
 
@@ -10,11 +10,7 @@
 
 &emsp;(ii) provide for coordinating the administration programs and activities under this subchapter with the administration of all other Federal juvenile delinquency programs and activities, including proposals for joint funding to be coordinated by the Administrator.
 
-(B) The Administrator shall review the plan described in paragraph (1) annually, revise the plan as the Administrator considers appropriate, and publish the plan in the Federal Register—
-
-&emsp;(i) not later than 240 days after November 4, 1992, in the case of the initial plan required by paragraph (1); and
-
-&emsp;(ii) except as provided in clause (i), in the 30-day period ending on October 1 of each year.
+(B) The Administrator shall review the plan described in paragraph (1) annually, revise the plan as the Administrator considers appropriate, and publish the plan in the Federal Register during the 30-day period ending on October 1 of each year.
 
 #### (b) Duties of Administrator
 
@@ -28,17 +24,17 @@ In carrying out the purposes of this chapter, the Administrator shall—
 
 &emsp;(4) implement Federal juvenile delinquency programs and activities among Federal departments and agencies and between Federal juvenile delinquency programs and activities and other Federal programs and activities which the Administrator determines may have an important bearing on the success of the entire Federal juvenile delinquency effort;
 
-&emsp;(5)(A) develop for each fiscal year, and publish annually in the Federal Register for public comment, a proposed comprehensive plan describing the particular activities which the Administrator intends to carry out under parts D and E in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E; and
+&emsp;(5) not later than 1 year after December 21, 2018, in consultation with Indian Tribes, develop a policy for the Office of Juvenile Justice and Delinquency Prevention to collaborate with representatives of Indian Tribes with a criminal justice function on the implementation of the provisions of this chapter relating to Indian Tribes;
 
-&emsp;(B) taking into consideration comments received during the 45-day period beginning on the date the proposed plan is published, develop and publish a final plan, before December 31 of such fiscal year, describing the particular activities which the Administrator intends to carry out under parts D and E in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E;
+&emsp;(6)(A) develop for each fiscal year, and publish annually in the Federal Register for public comment, a proposed comprehensive plan describing the particular activities which the Administrator intends to carry out under parts D and E in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E; and
 
-&emsp;(6) provide for the auditing of monitoring systems required under section 11133(a)(15) <sup>1</sup> of this title to review the adequacy of such systems; and
+&emsp;(B) taking into consideration comments received during the 45-day period beginning on the date the proposed plan is published, develop and publish a final plan, before December 31 of such fiscal year, describing the particular activities which the Administrator intends to carry out under parts D and E in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E; and
 
-&emsp;(7) not later than 1 year after November 2, 2002, issue model standards for providing mental health care to incarcerated juveniles.
+&emsp;(7) provide for the auditing of systems required under section 11133(a)(14) of this title for monitoring compliance.
 
 #### (c) Information, reports, studies, and surveys from other agencies
 
-The Administrator may require, through appropriate authority, Federal departments and agencies engaged in any activity involving any Federal juvenile delinquency program to provide the Administrator with such information as may be appropriate to prevent the duplication ofefforts, and to coordinate activities, related to the prevention of juvenile delinquency.
+The Administrator may require, through appropriate authority, Federal departments and agencies engaged in any activity involving any Federal juvenile delinquency program to provide the Administrator with such information as may be appropriate to prevent the duplication of efforts, and to coordinate activities, related to the prevention of juvenile delinquency.
 
 #### (d) Delegation of functions
 
@@ -52,21 +48,31 @@ The Administrator is authorized to utilize the services and facilities of any ag
 
 All functions of the Administrator under this subchapter shall be coordinated as appropriate with the functions of the Secretary of Health and Human Services under subchapter III of this chapter.
 
-(Pub. L. 93–415, title II, §204, Sept. 7, 1974, 88 Stat. 1113; Pub. L. 94–273, §§8(3), 12(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–115, §3(a)(3)(A), (b), Oct. 3, 1977, 91 Stat. 1048, 1049; Pub. L. 96–509, §§7, 19(d), Dec. 8, 1980, 94 Stat. 2752, 2763; Pub. L. 98–473, title II, §622, Oct. 12, 1984, 98 Stat. 2109; Pub. L. 100–690, title VII, §7253, Nov. 18, 1988, 102 Stat. 4436; Pub. L. 102–586, §2(c), Nov. 4, 1992, 106 Stat. 4984; Pub. L. 107–273, div. C, title II, §12205, Nov. 2, 2002, 116 Stat. 1872.)
+(Pub. L. 93–415, title II, §204, Sept. 7, 1974, 88 Stat. 1113; Pub. L. 94–273, §§8(3), 12(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–115, §3(a)(3)(A), (b), Oct. 3, 1977, 91 Stat. 1048, 1049; Pub. L. 96–509, §§7, 19(d), Dec. 8, 1980, 94 Stat. 2752, 2763; Pub. L. 98–473, title II, §622, Oct. 12, 1984, 98 Stat. 2109; Pub. L. 100–690, title VII, §7253, Nov. 18, 1988, 102 Stat. 4436; Pub. L. 102–586, §2(c), Nov. 4, 1992, 106 Stat. 4984; Pub. L. 107–273, div. C, title II, §12205, Nov. 2, 2002, 116 Stat. 1872; Pub. L. 115–385, title II, §201, Dec. 21, 2018, 132 Stat. 5127.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (b), (d), and (f), was in the original "this Act", meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of this title and Tables.
 
-Section 11133(a)(15) of this title, referred to in subsec. (b)(6), was redesignated section 11133(a)(14) of this title by Pub. L. 107–273, div. C, title II, §12209(1)(S), Nov. 2, 2002, 116 Stat. 1879.
-
 #### Codification
 
 Section was formerly classified to section 5614 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
-November 2, 2002, referred to in subsec. (b)(7), was in the original "the date of the enactment of this paragraph" which was translated as meaning the date of enactment of Pub. L. 107–273, which amended par. (7) generally, to reflect the probable intent of Congress.
-
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–385, §201(1)(A), substituted "a long-term plan to improve the juvenile justice system in the United States, taking into account scientific knowledge regarding adolescent developmentand behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents, and shall implement" for "a long-term plan, and implement" and "and research" for "research, and improvement of the juvenile justice system in the United States".
+
+Subsec. (a)(2)(B). Pub. L. 115–385, §201(1)(B), substituted "Federal Register during the 30-day period ending on October 1 of each year." for "Federal Register—
+
+&emsp;"(i) not later than 240 days after November 4, 1992, in the case of the initial plan required by paragraph (1); and
+
+&emsp;"(ii) except as provided in clause (i), in the 30-day period ending on October 1 of each year."
+
+Subsec. (b)(5). Pub. L. 115–385, §201(2)(C), added par. (5). Former par. (5) redesignated (6).
+
+Subsec. (b)(6). Pub. L. 115–385, §201(2)(B), (D), redesignated par. (5) as (6) and inserted "and" at end. Former par. (6) redesignated (7).
+
+Subsec. (b)(7). Pub. L. 115–385, §201(2)(A), (B), (E), redesignated par. (6) as (7), substituted "auditing of systems required under section 11133(a)(14) of this title for monitoring compliance." for "auditing of monitoring systems required under section 11133(a)(15) of this title to review the adequacy of such systems; and", and struck out former par. (7) which read as follows: "not later than 1 year after November 2, 2002, issue model standards for providing mental health care to incarcerated juveniles."
 
 <b>2002</b>—Subsec. (b)(3). Pub. L. 107–273, §12205(1)(A), struck out "and of the prospective performance and results that might be achieved by alternative programs and activities supplementary to or in lieu of those currently being administered" before semicolon at end.
 
@@ -106,7 +112,7 @@ Subsec. (c). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (f) as (
 
 Subsec. (d). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (g) as (d) and struck out former subsec. (d) which read as follows:
 
-"(1) The first annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to information required by subsection (b)(5) of this section, a detailed statement of criteria developed by the Administrator for identifying the characteristics of juvenile delinquency, juvenile delinquency prevention, diversion of youths from the juvenile justice system, and the training, treatment, and rehabilitation of juvenile delinquents.
+"(1) The first annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to information required by subsection (b)(5) of this section, a detailed statement of criteria developed by theAdministrator for identifying the characteristics of juvenile delinquency, juvenile delinquency prevention, diversion of youths from the juvenile justice system, and the training, treatment, and rehabilitation of juvenile delinquents.
 
 "(2) The second such annual report shall contain, in addition to information required by subsection (b)(5) of this section, an identification of Federal programs which are related to juvenile delinquency prevention or treatment, together with a statement of the moneys expended for each such program during the most recent complete fiscal year. Such identification shall be made by the Administrator through the use of criteria developed under paragraph (1)."
 
@@ -176,6 +182,10 @@ Subsec. (l)(1). Pub. L. 95–115, §3(b)(8), inserted "Associate" before "Admini
 
 Subsec. (b)(6). Pub. L. 94–273, §12(3), substituted "June" for "March".
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under section 11102 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 11101 of this title.
@@ -199,6 +209,4 @@ Section effective Sept. 7, 1974, except that subsec. (b)(5), (6) effective at cl
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the end of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

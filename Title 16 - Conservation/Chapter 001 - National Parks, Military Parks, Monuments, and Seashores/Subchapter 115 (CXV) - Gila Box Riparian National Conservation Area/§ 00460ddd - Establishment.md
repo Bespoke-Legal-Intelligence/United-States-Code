@@ -20,7 +20,7 @@ As soon as practicable after November 28, 1990, a map and legal description of t
 
 #### (e) Withdrawal
 
-Subject to valid existing rights, all Federal lands within the conservation area are herebywithdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and all amendments thereto.
+Subject to valid existing rights, all Federal lands within the conservation area are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and all amendments thereto.
 
 #### (f) Water
 

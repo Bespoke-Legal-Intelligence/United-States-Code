@@ -148,7 +148,7 @@ Determination.—
 
 &emsp;&emsp;"(A)
 
-In general.—The President shall, not less often than annually, determine whether at least 1 of the conditions specified in subparagraph (B) ismet, and shall notify the appropriate congressional committees of such determination.
+In general.—The President shall, not less often than annually, determine whether at least 1 of the conditions specified in subparagraph (B) is met, and shall notify the appropriate congressional committees of such determination.
 
 &emsp;&emsp;"(B)
 

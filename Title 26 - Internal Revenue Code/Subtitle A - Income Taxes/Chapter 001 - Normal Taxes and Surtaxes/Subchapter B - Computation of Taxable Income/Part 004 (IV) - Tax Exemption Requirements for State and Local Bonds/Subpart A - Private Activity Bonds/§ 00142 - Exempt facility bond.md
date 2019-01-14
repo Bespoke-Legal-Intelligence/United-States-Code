@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (A) Qualified project period
 
-&emsp;&emsp;The term "qualified project period" means the period beginning on the 1st day on which10 percent of the residential units in the project are occupied and ending on the latest of—
+&emsp;&emsp;The term "qualified project period" means the period beginning on the 1st day on which 10 percent of the residential units in the project are occupied and ending on the latest of—
 
 &emsp;&emsp;&emsp;(i) the date which is 15 years after the date on which 50 percent of the residential units in the project are occupied,
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (C) Students
 
-&emsp;&emsp;Rules similar to the rules of 42(i)(3)(D) <sup>1</sup> shall apply for purposes of this subsection.
+&emsp;&emsp;Rules similar to the rules of section 42(i)(3)(D) shall apply for purposes of this subsection.
 
 #### (D) Single-room occupancy units
 
@@ -350,7 +350,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(11), the term "high-speed intercity rail facilities" means any facility (not including rolling stock) for the fixed guideway rail transportation of passengers and their baggage between metropolitan statistical areas (within the meaning of section 143(k)(2)(B)) using vehicles that are reasonably expected to be capable of attaining a maximum speed in excess of 150 miles per hour between scheduled stops, but only if such facility will be made available to members of the general public as passengers.
+&emsp;For purposes of subsection (a)(11), the term "high-speed intercity rail facilities" means any facility (not including rolling stock) for the fixed guideway rail transportation of passengers and their baggage between metropolitan statistical areas (within the meaning of section 143(k)(2)(B)) using vehicles that are reasonably expected to be capable of attaining a maximum speed in excess of 150 miles per hour between scheduled stops, but only if suchfacility will be made available to members of the general public as passengers.
 
 #### (2) Election by nongovernmental owners
 
@@ -444,7 +444,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(14), the term "qualified green building and sustainable design project" means any project which is designated by the Secretary, after consultation with the Administrator of the Environmental Protection Agency, as a qualified green building and sustainable design project and which meets the requirements of clauses (i), (ii), (iii), and (iv) of paragraph (4)(A).
+&emsp;For purposes of subsection (a)(14), the term "qualified green building and sustainable design project" means any project which is designated by the Secretary, after consultation with the Administrator of the EnvironmentalProtection Agency, as a qualified green building and sustainable design project and which meets the requirements of clauses (i), (ii), (iii), and (iv) of paragraph (4)(A).
 
 #### (2) Designations
 
@@ -612,7 +612,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 #### (C) Allocation by Secretary of Transportation
 
-&emsp;&emsp;The Secretary of Transportation shall allocate the amount described in subparagraph (A) among qualified highway or surface freight transfer facilities in such manner as the Secretary determines appropriate.
+&emsp;&emsp;The Secretary of Transportation shall allocate the amount described in subparagraph\(A) among qualified highway or surface freight transfer facilities in such manner as the Secretary determines appropriate.
 
 #### (3) Expenditure of proceeds
 
@@ -630,7 +630,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 > &emsp;For purposes of subparagraph (A), average maturity shall be determined in accordance with section 147(b)(2)(A).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352; Pub. L. 110–289, div. C, title I, §§3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, 122 Stat. 2885–2888; Pub. L. 110–343, div. B, title III, §307(a), (b), Oct. 3, 2008, 122 Stat. 3849; Pub. L. 111–5, div. B, title I, §1504(a), Feb. 17, 2009, 123 Stat. 355.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352; Pub. L. 110–289, div. C, title I, §§3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, 122 Stat. 2885–2888; Pub. L. 110–343, div. B, title III, §307(a), (b), Oct. 3, 2008, 122 Stat. 3849; Pub. L. 111–5, div. B, title I, §1504(a), Feb. 17, 2009, 123 Stat. 355; Pub. L. 115–141, div. U, title IV, §401(a)(47), Mar. 23, 2018, 132 Stat. 1186.)
 
 #### References in Text
 
@@ -659,6 +659,8 @@ The date of the enactment of this subsection, referred to in subsec. (m)(1)(A), 
 A prior section 142, act Aug. 16, 1954, ch. 736, 68A Stat. 40, enumerated individuals not eligible for standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(2)(C). Pub. L. 115–141 inserted "section" before "42(i)(3)(D)".
 
 <b>2009</b>—Subsec. (i)(1). Pub. L. 111–5 substituted "be capable of attaining a maximum speed in excess of" for "operate at speeds in excess of".
 
@@ -764,7 +766,7 @@ Pub. L. 109–222, title II, §209(c), May 17, 2006, 120 Stat. 352, provided tha
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title XI, §11143(d), Aug. 10, 2005, 119 Stat. 1965, provided that: "The amendments made by this section \[amending this section and section 146 ofthis title\] apply to bonds issued after the date of the enactment of this Act \[Aug. 10, 2005\]."
+Pub. L. 109–59, title XI, §11143(d), Aug. 10, 2005, 119 Stat. 1965, provided that: "The amendments made by this section \[amending this section and section 146 of this title\] apply to bonds issued after the date of the enactment of this Act \[Aug. 10, 2005\]."
 
 #### Effective Date of 2004 Amendment
 
@@ -776,7 +778,7 @@ Pub. L. 107–16, title IV, §422(f), June 7, 2001, 115 Stat. 66, provided that:
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XIX, §1919(b), Oct. 24, 1992, 106 Stat. 3026, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued before, on, or after the date of the enactment of this Act \[Oct. 24, 1992\]."
+Pub. L. 102–486, title XIX, §1919(b), Oct. 24, 1992, 106 Stat. 3026, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply toobligations issued before, on, or after the date of the enactment of this Act \[Oct. 24, 1992\]."
 
 Pub. L. 102–486, title XIX, §1921(c), Oct. 24, 1992, 106 Stat. 3028, provided that: "The amendments made by this section \[amending this section and section 146 of this title\] shall apply to bonds issued after the date of the enactment of this Act \[Oct. 24, 1992\]."
 
@@ -803,6 +805,4 @@ Pub. L. 104–188, title I, §1608(b), Aug. 20, 1996, 110 Stat. 1841, provided t
 #### Tax-Exempt Bonds for Sale of Alaska Power Administration Facility
 
 Pub. L. 104–188, title I, §1804, Aug. 20, 1996, 110 Stat. 1893, provided that: "Sections 142(f)(3) (as added by section 1608) and 147(d) of the Internal Revenue Code of 1986 shall not apply in determining whether any private activity bond issued after the date of the enactment of this Act \[Aug. 20, 1996\] and used to finance the acquisition of the Snettisham hydroelectric project from the Alaska Power Administration is a qualified bond for purposes of such Code."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "section 42(i)(3)(D)".</i>
 

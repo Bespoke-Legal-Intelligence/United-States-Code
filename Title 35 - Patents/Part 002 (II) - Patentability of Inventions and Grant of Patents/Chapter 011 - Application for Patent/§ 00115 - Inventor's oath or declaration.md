@@ -84,7 +84,7 @@ In general.—Any person making a statement required under this section may with
 
 &emsp;(2)
 
-Supplemental statements not required.—If an individual has executed an oath or declaration meeting the requirements of subsection (a) or an assignment meeting the requirements of subsection (e) with respect to an application for patent, the Director may not thereafter require that individual to make any additional oath, declaration, or other statement equivalent to those required by this section in connection with the application for patent or any patent issuing thereon.
+Supplemental statements not required.—If an individual has executed an oath or declaration meeting the requirements of subsection (a) or an assignment meeting the requirements of subsection (e) with respect to an application for patent, the Director may not thereafter require that individual to make any additional oath, declaration, or otherstatement equivalent to those required by this section in connection with the application for patent or any patent issuing thereon.
 
 &emsp;(3)
 
@@ -92,7 +92,7 @@ Savings clause.—A patent shall not be invalid or unenforceable based upon the 
 
 (i)
 
-Acknowledgment of Penalties.—Any declaration or statement filed pursuant to this section shall contain an acknowledgment that any willful false statement made in such declarationor statement is punishable under section 1001 of title 18 by fine or imprisonment of not more than 5 years, or both.
+Acknowledgment of Penalties.—Any declaration or statement filed pursuant to this section shall contain an acknowledgment that any willful false statement made in such declaration or statement is punishable under section 1001 of title 18 by fine or imprisonment of not more than 5 years, or both.
 
 (July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, §14(a), Aug. 27, 1982, 96 Stat. 321; Pub. L. 105–277, div. G, title XXII, §2222(d), Oct. 21, 1998, 112 Stat. 2681–818; Pub. L. 112–29, §4(a)(1), Sept. 16, 2011, 125 Stat. 293; Pub. L. 112–211, title I, §102(4), Dec. 18, 2012, 126 Stat. 1531; Pub. L. 112–274, §1(f), Jan. 14, 2013, 126 Stat. 2456.)
 

@@ -6,6 +6,28 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–395, §1, Dec. 21, 2018, 132 Stat. 5287, provided that: "This Act \[amending sections 2258A to 2258E of this title\] may be cited as the 'CyberTipline Modernization Act of 2018'."
+
+Pub. L. 115–392, §1(a), Dec. 21, 2018, 132 Stat. 5250, provided that: "This Act \[enacting section 2429 of this title, section 645 of Title 6, Domestic Security, and section 20709a of Title 34, Crime Control and Law Enforcement, amending sections 521, 1583, 1587, 1591, 2423, 2426, 2516, and 3014 of this title, sections 187 and 473 of Title 6, sections 7103, 7105, and 7110 of Title 22, Foreign Relations and Intercourse, section 524 of Title 28, Judiciary and Judicial Procedure, section 9705 of Title 31, Money and Finance, and sections 20304, 20708, 20711, and 41309 of Title 34, and enacting provisions set out as notes under sections 20701 and 20704 of Title 34\] may be cited as the 'Abolish Human Trafficking Act of 2017'."
+
+Pub. L. 115–391, §1(a), Dec. 21, 2018, 132 Stat. 5194, provided that: "This Act \[see Tables for classification\] may be cited as the 'First Step Act of 2018'."
+
+Pub. L. 115–391, title II, §201, Dec. 21, 2018, 132 Stat. 5216, provided that: "This title \[enacting section 4050 of this title\] may be cited as the 'Lieutenant Osvaldo Albarati Correctional Officer Self-Protection Act of 2018'."
+
+Pub. L. 115–299, §1, Dec. 7, 2018, 132 Stat. 4383, provided that: "This Act \[enacting sections 2259A and 2259B of this title, amending sections 1593, 2252A, 2256, 2259, 3509, and 3613 of this title and section 20101 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as a note under section 2259 of this title\] may be cited as the 'Amy, Vicky, and Andy Child Pornography Victim Assistance Act of 2018'."
+
+Pub. L. 115–271, title VIII, §8121, Oct. 24, 2018, 132 Stat. 4108, provided that: "This subtitle \[subtitle J (§§8121, 8122) of title VIII of Pub. L. 115–271, enacting section 220 of this title\] may be cited as the 'Eliminating Kickbacks in Recovery Act of 2018'."
+
+Pub. L. 115–253, §1, Oct. 3, 2018, 132 Stat. 3183, provided that: "This Act \[amending sections 2331, 2333 and 2334 of this title and enacting provisions set out as notes under sections 2331, 2332 and 2334 of this title\] may be cited as the 'Anti-Terrorism Clarification Act of 2018'."
+
+Pub. L. 115–249, §1, Sept. 28, 2018, 132 Stat. 3162, provided that: "This Act \[amending section 247 of this title\] may be cited as the 'Protecting Religiously Affiliated Institutions Act of 2018'."
+
+Pub. L. 115–164, §1, Apr. 11, 2018, 132 Stat. 1253, provided that: "This Act \[enacting section 2421A of this title, amending sections 1591 and 1595 of this title and section 230 of Title 47, Telecommunications, and enacting provisions set out as notes under section 230 of Title 47\] may be cited as the 'Allow States and Victims to Fight Online Sex Trafficking Act of 2017'."
+
+Pub. L. 115–141, div. V, §101, Mar. 23, 2018, 132 Stat. 1213, provided that: "This division \[enacting sections 2523 and 2713 of this title, amending sections 2511, 2520, 2702, 2703, 2707, 3121, and 3124 of this title, and enacting provisions set out as notes under sections 2520, 2523, and 2703 of this title\] may be cited as the 'Clarifying Lawful Overseas Use of Data Act' or the 'CLOUD Act'."
+
 #### Short Title of 2016 Amendment
 
 Pub. L. 114–316, §1, Dec. 16, 2016, 130 Stat. 1593, provided that: "This Act \[enacting section 3273 of this title and provisions set out as a note under section 3273 of this title\] may be cited as the 'Promoting Travel, Commerce, and National Security Act of 2016'."
@@ -28,7 +50,7 @@ Pub. L. 114–22, title I, §118(a), May 29, 2015, 129 Stat. 247, provided that:
 
 #### Short Title of 2014 Amendment
 
-Pub. L. 113–104, §1, May 20, 2014, 128 Stat. 1156, provided that: "This Act \[amending section 117 of this title\] may be cited as the 'Kilah Davenport Child Protection Act of 2013'."
+Pub. L. 113–104, §1, May 20, 2014, 128 Stat. 1156, provided that: "This Act \[amending section 117 of thistitle\] may be cited as the 'Kilah Davenport Child Protection Act of 2013'."
 
 #### Short Title of 2013 Amendment
 
@@ -52,7 +74,7 @@ Pub. L. 112–186, §1, Oct. 5, 2012, 126 Stat. 1427, provided that: "This Act \
 
 Pub. L. 112–127, §1, June 5, 2012, 126 Stat. 370, provided that: "This Act \[enacting section 257 of Title 6, Domestic Security, amending sections 555, 982, 1956, and 2516 of this title, and enacting provisions set out as a note under section 555 of this title\] may be cited as the 'Border Tunnel Prevention Act of 2012'."
 
-Pub. L. 112–98, §1, Mar. 8, 2012, 126 Stat. 263, provided that: "This Act \[amending section 1752 of this title\]may be cited as the 'Federal Restricted Buildings and Grounds Improvement Act of 2011'."
+Pub. L. 112–98, §1, Mar. 8, 2012, 126 Stat. 263, provided that: "This Act \[amending section 1752 of this title\] may be cited as the 'Federal Restricted Buildings and Grounds Improvement Act of 2011'."
 
 #### Short Title of 2011 Amendment
 
@@ -186,7 +208,7 @@ Pub. L. 98–473, title II, §200, Oct. 12, 1984, 98 Stat. 1976, provided that: 
 
 Pub. L. 108–21, §2, Apr. 30, 2003, 117 Stat. 651, provided that: "If any provision of this Act \[see Tables for classification\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation."
 
-Pub. L. 107–56, §2, Oct. 26, 2001, 115 Stat. 275, provided that: "Any provision of this Act \[see Short Title of 2001 Amendment note above\] held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed so as to give it the maximum effect permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event such provision shall be deemed severable from this Act and shall not affect the remainder thereof or the application of such provision to other personsnot similarly situated or to other, dissimilar circumstances."
+Pub. L. 107–56, §2, Oct. 26, 2001, 115 Stat. 275, provided that: "Any provision of this Act \[see Short Title of 2001 Amendment note above\] held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed so as to give it the maximum effect permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event such provision shall be deemed severable from this Act and shall not affect the remainder thereof or the application of such provision to other persons not similarly situated or to other, dissimilar circumstances."
 
 Pub. L. 104–132, title IX, §904, Apr. 24, 1996, 110 Stat. 1319, provided that: "If any provision of this Act \[see Short Title of 1996 Amendments note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstance shall not be affected thereby."
 

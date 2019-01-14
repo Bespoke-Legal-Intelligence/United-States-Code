@@ -50,7 +50,7 @@ Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 203(e)(2) of Pub. L. 100–360 applicable to items and services furnished on or after Jan. 1, 1990, see section 203(g) of Pub. L. 100–360, set out as a note under section 1320c–3 of this title.
+Amendment by section 203(e)(2) of Pub. L. 100–360 applicable to items and services furnished on or after Jan.1, 1990, see section 203(g) of Pub. L. 100–360, set out as a note under section 1320c–3 of this title.
 
 Amendment by section 204(c)(1) of Pub. L. 100–360 applicable to screening mammography performed on or after Jan. 1, 1990, see section 204(e) of Pub. L. 100–360, set out as a note under section 1395m of this title.
 

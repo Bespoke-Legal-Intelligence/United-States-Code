@@ -16,7 +16,7 @@
 
 #### (B) Beneficiary rebate information
 
-&emsp;&emsp;In the case of a plan required to provide a monthly rebate under subsection (b)(1)(C) for a year, the MA organization offering the plan shall submit to the Secretary, in such form and manner and at such time as the Secretary specifies, information on—
+&emsp;&emsp;In the case of a plan required to provide a monthly rebate under subsection (b)(1)(C) fora year, the MA organization offering the plan shall submit to the Secretary, in such form and manner and at such time as the Secretary specifies, information on—
 
 &emsp;&emsp;&emsp;(i) the manner in which such rebate will be provided under clause (ii) of such subsection; and
 
@@ -102,7 +102,7 @@
 
 #### (ii) Authority to deny bids that propose significant increases in cost sharing or decreases in benefits
 
-&emsp;&emsp;&emsp;The Secretary may deny a bid submitted by an MA organization for an MA plan if it proposes significant increases in cost sharing or decreases in benefits offered under the plan.
+&emsp;&emsp;&emsp;The Secretary may deny a bid submitted by an MA organization for an MA plan if itproposes significant increases in cost sharing or decreases in benefits offered under the plan.
 
 #### (6) Submission of bid amounts by MA organizations beginning in 2006
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;(ii) The proportions of such bid amount that are attributable to—
 
-&emsp;&emsp;&emsp;&emsp;(I) the provision of benefits under the original medicare fee-for-service program option (as defined in section 1395w–22(a)(1)(B) of this title);
+&emsp;&emsp;&emsp;&emsp;(I) the provision of benefits under the original medicare fee-for-service program option (as defined in section 1395w–22(a)(1)(B) of this title), including, for plan year 2020 and subsequent plan years, the provision of additional telehealth benefits as described in section 1395w–22(m) of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) the provision of basic prescription drug coverage; and
 
@@ -122,7 +122,7 @@
 
 &emsp;&emsp;&emsp;(iii) The actuarial basis for determining the amount under clause (i) and the proportions described in clause (ii) and such additional information as the Secretary may require to verify such actuarial bases and the projected number of enrollees in each MA local area.
 
-&emsp;&emsp;&emsp;(iv) A description of deductibles, coinsurance, and copayments applicable under theplan and the actuarial value of such deductibles, coinsurance, and copayments, described in subsection (e)(4)(A).
+&emsp;&emsp;&emsp;(iv) A description of deductibles, coinsurance, and copayments applicable under the plan and the actuarial value of such deductibles, coinsurance, and copayments, described in subsection (e)(4)(A).
 
 &emsp;&emsp;&emsp;(v) With respect to qualified prescription drug coverage, the information required under section 1395w–104 of this title, as incorporated under section 1395w–111(b)(2) of this title, with respect to such coverage.
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the product of the old phase-in proportion for the year under clause (iv) and 75 percent; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the product of the new phase-in proportion for the year under clause (iv)and the final applicable rebate percentage under clause (v).
+&emsp;&emsp;&emsp;&emsp;(II) the product of the new phase-in proportion for the year under clause (iv) and the final applicable rebate percentage under clause (v).
 
 #### (iv) Old and new phase-in proportions
 
@@ -260,7 +260,7 @@
 
 #### (3) Computation of average per capita monthly savings for local plans
 
-&emsp;For purposes of paragraph (1)(C)(i), the average per capita monthly savings referred to insuch paragraph for an MA local plan and year is computed as follows:
+&emsp;For purposes of paragraph (1)(C)(i), the average per capita monthly savings referred to in such paragraph for an MA local plan and year is computed as follows:
 
 #### (A) Determination of statewide average risk adjustment for local plans
 
@@ -334,7 +334,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (1) In general
 
-&emsp;Each Medicare+Choice organization shall permit the payment of Medicare+Choice monthly basic, prescription drug, and supplemental beneficiary premiums on a monthly basis, may terminate election of individuals for a Medicare+Choice plan for failure to make premium payments only in accordance with section 1395w–21(g)(3)(B)(i) of this title, andmay not provide for cash or other monetary rebates as an inducement for enrollment or otherwise.
+&emsp;Each Medicare+Choice organization shall permit the payment of Medicare+Choice monthly basic, prescription drug, and supplemental beneficiary premiums on a monthly basis, may terminate election of individuals for a Medicare+Choice plan for failure to make premium payments only in accordance with section 1395w–21(g)(3)(B)(i) of this title, and may not provide for cash or other monetary rebates as an inducement for enrollment or otherwise.
 
 #### (2) Beneficiary's option of payment through withholding from social security payment or use of electronic funds transfer mechanism
 
@@ -378,7 +378,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (2) For supplemental benefits before 2006
 
-&emsp;For periods before 2006, if the Medicare+Choice organization provides to its members enrolled under this part in a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title with respect to supplemental benefits described in section 1395w–22(a)(3) of this title, the sum of the Medicare+Choice monthly supplemental beneficiary premium (multiplied by 12) charged and the actuarial value of its deductibles, coinsurance, and copayments charged with respect to such benefits may not exceed the adjusted community rate for such benefits (as defined in subsection (f)(3)).
+&emsp;For periods before 2006, if the Medicare+Choice organization provides to itsmembers enrolled under this part in a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title with respect to supplemental benefits described in section 1395w–22(a)(3) of this title, the sum of the Medicare+Choice monthly supplemental beneficiary premium (multiplied by 12) charged and the actuarial value of its deductibles, coinsurance, and copayments charged with respect to such benefits may not exceed the adjusted community rate for such benefits (as defined in subsection (f)(3)).
 
 #### (3) Determination on other basis
 
@@ -460,13 +460,15 @@ No State may impose a premium tax or similar tax with respect to payments to Med
 
 The Secretary shall permit a Medicare+Choice organization to elect to apply the provisions of this section uniformly to separate segments of a service area (rather than uniformly to an entire service area) as long as such segments are composed of one or more Medicare+Choice payment areas.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1854, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 308; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(C), title V, §§515(a), 516(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(1), 622(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557, 2763A–566; Pub. L. 107–188, title V, §532(b)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title II, §§222(a)(1), (b), (c), (g), 232(b), title IX, §900(e)(1)(H), Dec. 8, 2003, 117 Stat. 2193, 2196, 2199, 2203, 2208, 2371; Pub. L. 111–148, title III, §§3201(a)(2)(B), (c)–(d)(2), (e)(2)(A)(v), 3202(b)(1), (3), 3209(a), Mar. 23, 2010, 124 Stat. 444, 447, 454, 455, 460; Pub. L. 111–152, title I, §1102(a), (d), Mar. 30, 2010, 124 Stat. 1040, 1045.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1854, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 308; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(C), title V, §§515(a), 516(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(1), 622(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557, 2763A–566; Pub. L. 107–188, title V, §532(b)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title II, §§222(a)(1), (b), (c), (g), 232(b), title IX, §900(e)(1)(H), Dec. 8, 2003, 117 Stat. 2193, 2196, 2199, 2203, 2208, 2371; Pub. L. 111–148, title III, §§3201(a)(2)(B), (c)–(d)(2), (e)(2)(A)(v), 3202(b)(1), (3), 3209(a), Mar. 23, 2010, 124 Stat. 444, 447, 454, 455, 460; Pub. L. 111–152, title I, §1102(a), (d), Mar. 30, 2010, 124 Stat. 1040, 1045; Pub. L. 115–123, div. E, title III, §50323(b), Feb. 9, 2018, 132 Stat. 203.)
 
 #### References in Text
 
 Cl. (iii) of par. (1)(C), referred to in subsec. (b)(2)(C)(ii), was struck out and a new cl. (iii) was added by Pub. L. 111–152, §1102(d)(2). See 2010 Amendment note below. As so amended, par. (1)(C)(iii) no longer relates to purposes of rebates and no longer contains a subcl. (III).
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(6)(A)(ii)(I). Pub. L. 115–123 inserted ", including, for plan year 2020 and subsequent plan years, the provision of additional telehealth benefits as described in section 1395w–22(m) of this title" before semicolon at end.
 
 <b>2010</b>—Subsec. (a)(5)(C). Pub. L. 111–148, §3209(a), added subpar. (C).
 

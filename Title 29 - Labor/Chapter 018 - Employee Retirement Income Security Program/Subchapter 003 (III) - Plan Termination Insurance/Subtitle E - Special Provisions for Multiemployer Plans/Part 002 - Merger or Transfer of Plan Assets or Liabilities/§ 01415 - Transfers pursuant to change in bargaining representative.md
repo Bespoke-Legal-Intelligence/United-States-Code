@@ -34,7 +34,7 @@ In any case in which an employer has completely or partially withdrawn from a mu
 
 #### (c) Reduction of amount of withdrawal liability of employer upon transfer of appropriate amount of assets and liabilities by plan sponsor of old plan to new plan
 
-If the plan sponsor of the old plan transfers the appropriate amount of assets and liabilities under this section to the new plan, then the amount of the employer's withdrawal liability (as determined under section 1381(b) of this title without regard to such transfer and this section)with respect to the old plan shall be reduced by the amount by which—
+If the plan sponsor of the old plan transfers the appropriate amount of assets and liabilities under this section to the new plan, then the amount of the employer's withdrawal liability (as determined under section 1381(b) of this title without regard to such transfer and this section) with respect to the old plan shall be reduced by the amount by which—
 
 &emsp;(1) the value of the unfunded vested benefits allocable to the employer which were transferred by the plan sponsor of the old plan to the new plan, exceeds
 
@@ -64,7 +64,7 @@ In any case in which there is a complete or partial withdrawal described in subs
 
 (2) In any case in which a transfer of assets from the old plan to the new plan is prohibited by paragraph (1), the plan sponsor of the old plan shall transfer—
 
-&emsp;(A) all nonforfeitable benefits described in subsection (b)(2), if the value of such benefits does not exceed the withdrawal liability of the employer with respect to such withdrawal, or
+&emsp;(A) all nonforfeitable benefits described in subsection (b)(2), if the value of such benefitsdoes not exceed the withdrawal liability of the employer with respect to such withdrawal, or
 
 &emsp;(B) such nonforfeitable benefits having a value equal to the withdrawal liability of the employer, if the value of such benefits exceeds the withdrawal liability of the employer.
 

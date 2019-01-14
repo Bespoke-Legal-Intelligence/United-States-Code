@@ -2,7 +2,7 @@
 
 #### (a) Stipend; limitation; volunteer leaders; payment upon completion of term; advancement of accrued stipend; beneficiary of deceased volunteer
 
-(1)(A) The Director may provide a stipend to volunteers, while they are in training and during their assignments, enrolled for periods of service of not less than one year under this part, except that the Director may, on an individual basis, make an exception to provide a stipend to a volunteer enrolled under this part for an extended period of service not totaling one year.
+(1)(A) The Director may provide a stipend to volunteers, while they are in training and during their assignments, enrolled for periods of service of not less than one year under this part, except that the Director may, on an individual basis, make an exception to provide a stipend toa volunteer enrolled under this part for an extended period of service not totaling one year.
 
 (B) Such stipend shall be set at a rate that is not less than a minimum of $125 per month and not more than a maximum of $150 per month, subject to the availability of funds to provide such a maximum rate. The Director may provide a stipend set at a rate that is not more than a maximum of $250 per month in the case of persons who have served as volunteers under this part for at least 1 year and who, in accordance with standards established in such regulations as the Director shall prescribe, have been designated volunteer leaders on the basis of experience and special skills and a demonstrated leadership among volunteers.
 
@@ -20,7 +20,7 @@
 
 &emsp;(B) the average subsistence allowance, excluding allowances for Hawaii, Guam, American Samoa, and Alaska, is no less than 105 percent of such poverty line.
 
-(3) The Director shall adjust the subsistence allowances for volunteers serving in areas that have a higher cost of living than the nationalaverage to reflect such higher cost. The Director shall review such adjustments on an annual basis to ensure that the adjustments are current.
+(3) The Director shall adjust the subsistence allowances for volunteers serving in areas that have a higher cost of living than the national average to reflect such higher cost. The Director shall review such adjustments on an annual basis to ensure that the adjustments are current.
 
 #### (c) Child care
 
@@ -44,7 +44,7 @@ The National and Community Service Act of 1990, referred to in subsec. (a)(1)(C)
 
 <b>1993</b>—Subsec. (a)(1). Pub. L. 103–82, §325(a), designated first sentence as subpar. (A), added subpars. (B) and (C), and struck out former second sentence which read as follows: "Such stipend shall not exceed $75 per month in fiscal year 1990, $90 per month in fiscal year 1991, and $95 per month in subsequent fiscal years during the volunteer's service, except that the Director may provide a stipend not to exceed $75 per month in fiscal year 1990, $90 per month in fiscal year 1991, and $95 per month in subsequent fiscal years in the case of persons who have served for at least one year and who, in accordance with standards established in regulations which the Director shall prescribe, have been designated volunteer leaders on the basis of experience and special skills and a demonstrated leadership among volunteers."
 
-Subsec. (b)(3). Pub. L. 103–82, §325(b)(1), struck out subpar. (A), struck out subpar. (B) designation before "The Director shall adjust", and inserted at end: "The Director shall review such adjustments on an annual basis to ensure that the adjustments are current.". Prior to amendment, subpar. (A) read as follows: "The Director shall consult with regional and State offices of the ACTION Agency to make a determination of the cost of living within each State and whether there are significant local price differentials within the State."
+Subsec. (b)(3). Pub. L. 103–82, §325(b)(1), struck out subpar. (A), struck out subpar. (B) designation before "The Director shall adjust", and inserted at end: "The Director shall review such adjustments on an annual basis to ensure that the adjustments are current.". Prior to amendment, subpar. (A) read as follows: "The Director shall consult with regional and State offices ofthe ACTION Agency to make a determination of the cost of living within each State and whether there are significant local price differentials within the State."
 
 Subsec. (b)(4). Pub. L. 103–82, §325(b)(2), struck out par. (4) which read as follows: "The Director, in coordination with regional and State offices of the ACTION Agency and taking into account paragraphs (2) and (3), shall establish a method for setting subsistence allowances. The Director shall submit a report on such methods to the appropriate authorizing committees of Congress not later than 90 days after the date of enactment of the fiscal year 1990 appropriation."
 

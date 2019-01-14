@@ -8,7 +8,7 @@
 
 (3) Under no circumstances shall the Secretary of Transportation offer any of the United States shares for sale unless, before the sale date, the Secretary determines, after such consultation, that the estimated sum of the gross proceeds from the sale of all the United States shares will be an adequate amount. A determination by the Secretary under this paragraph shall not be reviewable.
 
-(4) In making a determination under paragraph (3), the Secretary shall have the goal of obtaining at least $2,000,000,000 in aggregate gross proceeds for the United States from thepublic offering and any payments made under section 1311(b) of this title.
+(4) In making a determination under paragraph (3), the Secretary shall have the goal of obtaining at least $2,000,000,000 in aggregate gross proceeds for the United States from the public offering and any payments made under section 1311(b) of this title.
 
 #### (b) Subsequent sales
 

@@ -8,9 +8,9 @@ For purposes of this subchapter:
 
 #### (2) Agency
 
-&emsp;The term "agency" means any agency of the Department designated by the Secretary or a successor agency of the Department, except that the term shall include the following (and any successor to the following):
+&emsp;The term "agency" means any agency of the Department designated by the Secretary or a successor agency of the Department, exceptthat the term shall include the following (and any successor to the following):
 
-&emsp;&emsp;(A) The Consolidated Farm Service Agency (or other office, agency, or administrative unit of the Department assigned the functions authorized for the Consolidated Farm Service Agency under section 6932 of this title).
+&emsp;&emsp;(A) The Farm Service Agency (or other office, agency, or administrative unit of the Department assigned the functions authorized for the Farm Service Agency under section 6932 of this title).
 
 &emsp;&emsp;(B) The Commodity Credit Corporation, with respect to domestic programs.
 
@@ -20,7 +20,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(E) The Rural Development Administration.
 
-&emsp;&emsp;(F) The Natural Resources Conservation Service (or other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under section 6962(b) of this title).
+&emsp;&emsp;(F) The Natural Resources Conservation Service (or other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under section 6936(b) of this title).
 
 &emsp;&emsp;(G) A State, county, or area committee established under section 590h(b)(5) of title 16.
 
@@ -52,11 +52,17 @@ For purposes of this subchapter:
 
 &emsp;The term "participant" shall have the meaning given that term by the Secretary by regulation.
 
-(Pub. L. 103–354, title II, §271, Oct. 13, 1994, 108 Stat. 3228.)
+(Pub. L. 103–354, title II, §271, Oct. 13, 1994, 108 Stat. 3228; Pub. L. 115–334, title XII, §§12404(b)(2), 12410(c)(2)(B), Dec. 20, 2018, 132 Stat. 4975, 4978.)
 
 #### References in Text
 
 This subchapter, referred to in text, was in the original "this subtitle", meaning subtitle H (§§271–283) of title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3228, which enacted this subchapter, amended sections 2006 and 5101 to 5106 of this title and section 2202e of Title 12, Banks and Banking, and repealed sections 1433e and 1983b of this title.
 
 This chapter, referred to in par. (6), was in the original "this title", meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under section 6901 of this title and Tables.
+
+#### Amendments
+
+<b>2018</b>—Par. (2)(A). Pub. L. 115–334, §12404(b)(2), substituted "Farm" for "Consolidated Farm" in two places.
+
+Par. (2)(F). Pub. L. 115–334, §12410(c)(2)(B), substituted "section 6936(b) of this title" for "section 6962(b) of this title".
 

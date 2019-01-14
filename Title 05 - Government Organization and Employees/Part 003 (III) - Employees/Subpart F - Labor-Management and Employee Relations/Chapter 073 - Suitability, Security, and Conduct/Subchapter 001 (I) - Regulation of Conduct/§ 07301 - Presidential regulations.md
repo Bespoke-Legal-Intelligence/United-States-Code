@@ -24,7 +24,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–94, §1, Oct. 6, 1993, 107 Stat. 1001, provided: "That this Act \[enacting sections 5520a and 7321 to 7326of this title and section 610 of Title 18, Crimes and Criminal Procedure, amending sections 1216, 2302, 3302 and 3303 of this title, sections 602 and 603 of Title 18, section 410 of Title 39, Postal Service, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, omitting former sections 7321 to 7328 of this title, and enacting provisions set out as notes under section 7321 of this title and section 410 of Title 39\] may be cited as the 'Hatch Act Reform Amendments of 1993'."
+Pub. L. 103–94, §1, Oct. 6, 1993, 107 Stat. 1001, provided: "That this Act \[enacting sections 5520a and 7321 to 7326 of this title and section 610 of Title 18, Crimes and Criminal Procedure, amending sections 1216, 2302, 3302 and 3303 of this title, sections 602 and 603 of Title 18, section 410 of Title 39, Postal Service, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, omitting former sections 7321 to 7328 of this title, and enacting provisions set out as notes under section 7321 of this title and section 410 of Title 39\] may be cited as the 'Hatch Act Reform Amendments of 1993'."
 
 #### Short Title of 1986 Amendment
 
@@ -33,6 +33,78 @@ Pub. L. 99–570, title VI, §6001, Oct. 27, 1986, 100 Stat. 3207–157, provide
 #### Emergency Preparedness Functions
 
 For assignment of certain emergency preparedness functions to the Director of the Office of Personnel Management, see Parts 1, 2, and 22 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+
+#### Transportation Workplace Drug and Alcohol Testing Program; Addition of Fentanyl and Other Substances
+
+Pub. L. 115–271, title VIII, §8105, Oct. 24, 2018, 132 Stat. 4105, provided that:
+
+"(a)
+
+Mandatory Guidelines for Federal Workplace Drug Testing Programs.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act \[Oct. 24, 2018\], the Secretary of Health and Human Services shall—
+
+&emsp;&emsp;"(A) determine whether a revision of the Mandatory Guidelines for Federal Workplace Drug Testing Programs to expand the opiate category on the list of authorized substance testing to include fentanyl is justified, based on the reliability and cost-effectiveness of available testing; and
+
+&emsp;&emsp;"(B) consider whether to include with the determination under subparagraph (A) a separate determination on whether a revision of the Mandatory Guidelines for Federal Workplace Drug Testing Programs to expand the list of substances authorized for testing to include any other drugs or other substances listed in schedule I and II of section 202 of the Controlled Substances Act (21 U.S.C. 812) is justified based on the criteria described in subparagraph (A).
+
+&emsp;"(2)
+
+Revision of guidelines.—If an expansion of the substance list is determined to be justified under paragraph (1), the Secretary of Health and Human Services shall—
+
+&emsp;&emsp;"(A) notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the determination; and
+
+&emsp;&emsp;"(B) publish in the Federal Register, not later than 18 months after the date of the determination under that paragraph, a final notice of the revision of the Mandatory Guidelines for Federal Workplace Drug Testing Programs to expand the list of substances authorized to be tested to include the substance or substances determined to be justified for inclusion.
+
+&emsp;"(3)
+
+Report.—If an expansion of the substance list is determined not to be justified under paragraph (1), the Secretary of Health and Human Services shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report explaining, in detail, the reasons the expansion of the list of authorized substances is not justified.
+
+"(b)
+
+Department of Transportation Drug-testing Panel.—If an expansion is determined to be justified under subsection (a)(1), the Secretary of Transportation shall publish in the Federal Register, not later than 18 months after the date the final notice is published under subsection (a)(2), a final rule revising part 40 of title 49, Code of Federal Regulations, to include such substances in the Department of Transportation's drug-testing panel, consistent with the Mandatory Guidelines for Federal Workplace Drug Testing Programs as revised by the Secretary of Health and Human Services under subsection (a).
+
+"(c)
+
+Savings Provision.—Nothing in this section may be construed as—
+
+&emsp;"(1) delaying the publication of the notices described in sections 8106 \[enacting provisions set out as a note under section 31306 of Title 49, Transportation\] and 8107 \[enacting provisions set out as a note below\] of this Act until the Secretary of Health and Human Services makes a determination or publishes a notice under this section; or
+
+&emsp;"(2) limiting or otherwise affecting any authority of the Secretary of Health and Human Services or the Secretary of Transportation to expand the list of authorized substance testing to include an additional substance."
+
+#### Mandatory Guidelines for Federal Workplace Drug Testing Programs Using Oral Fluid
+
+Pub. L. 115–271, title VIII, §8107, Oct. 24, 2018, 132 Stat. 4107, provided that:
+
+"(a)
+
+Deadline.—Not later than December 31, 2018, the Secretary of Health and Human Services shall publish in the Federal Register a final notice of the Mandatory Guidelines for Federal Workplace Drug Testing Programs using Oral Fluid, based on the notice of proposed mandatory guidelines published in the Federal Register on May 15, 2015 (94 \[probably should be 80\] FR 28054).
+
+"(b)
+
+Requirement.—To the extent practicable and consistent with the objective of the testing described in subsection (a) to detect illegal or unauthorized use of substances by the individual being tested, the final notice of scientific and technical guidelines under that subsection, as determined by the Secretary of Health and Human Services, shall eliminate the risk of positive test results, of the individual being tested, caused solely by the drug use of others and not caused by the drug use of the individual being tested.
+
+"(c)
+
+Rule of Construction.—Nothing in this section may be construed as requiring the Secretary of Health and Human Services to reissue a notice of proposed mandatory guidelines to carry out subsection (a)."
+
+#### Electronic Recordkeeping
+
+Pub. L. 115–271, title VIII, §8108(a), (b), Oct. 24, 2018, 132 Stat. 4107, provided that:
+
+"(a)
+
+Deadline.—Not later than 1 year after the date of enactment of this Act \[Oct. 24, 2018\], the Secretary of Health and Human Services shall—
+
+&emsp;"(1) ensure that each certified laboratory that requests approval for the use of completely paperless electronic Federal Drug Testing Custody and Control Forms from the National Laboratory Certification Program's Electronic Custody and Control Form systems receives approval for those completely paperless electronic forms instead of forms that include any combination of electronic traditional handwritten signatures executed on paper forms; and
+
+&emsp;"(2) establish a deadline for a certified laboratory to request approval under paragraph (1).
+
+"(b)
+
+Savings Clause.—Nothing in this section \[enacting this note and provisions set out as a note under section 322 of Title 49, Transportation\] may be construed as limiting or otherwise affecting any authority of the Secretary of Health and Human Services to grant approval to a certified laboratory for use of completely paperless electronic Federal Drug Testing Custody and Control Forms, including to grant approval outside of the process under subsection (a)."
 
 #### Continuation of Random Drug Testing Program for Certain Department of Defense Employees
 
@@ -274,7 +346,7 @@ Sec. 4. <i>Drug Testing Procedures</i>. (a) Sixty days prior to the implementati
 
 (d) The Secretary of Health and Human Services is authorized to promulgate scientific and technical guidelines for drug testing programs, and agencies shall conduct their drug testing programs in accordance with these guidelines once promulgated.
 
-Sec. 5. <i>Personnel Actions</i>. (a) Agencies shall, in addition to any appropriate personnel actions, refer any employee who is found to use illegal drugs to an Employee Assistance Program for assessment, counseling, and referral for treatment or rehabilitation as appropriate.
+Sec. 5. <i>Personnel Actions</i>. (a) Agencies shall, in addition to any appropriate personnel actions, refer any employee who is found to use illegal drugs to an Employee Assistance Program for assessment, counseling,and referral for treatment or rehabilitation as appropriate.
 
 (b) Agencies shall initiate action to discipline any employee who is found to use illegal drugs, <i>provided that</i> such action is not required for an employee who:
 
@@ -336,7 +408,7 @@ Sec. 7. <i>Definitions</i>.(a) This Order applies to all agencies of the Executi
 
 (e) For purposes of this Order, the term "employee" means all persons appointed in the Civil Service as described in 5 U.S.C. 2105 (but excluding persons appointed in the armed services as defined in 5 U.S.C. 2102(2)).
 
-(f) For purposes of this Order, the term "Employee Assistance Program" means agency-based counseling programs that offer assessment, short-term counseling, and referral services to employees for a wide range of drug, alcohol, and mental health programs that affectemployee job performance. Employee Assistance Programs are responsible for referring drug-using employees for rehabilitation and for monitoring employees' progress while in treatment.
+(f) For purposes of this Order, the term "Employee Assistance Program" means agency-based counseling programs that offer assessment, short-term counseling, and referral services to employees for a wide range of drug, alcohol, and mental health programs that affect employee job performance. Employee Assistance Programs are responsible for referring drug-using employees for rehabilitation and for monitoring employees' progress while in treatment.
 
 Sec. 8. <i>Effective Date</i>. This Order is effective immediately.
 
@@ -480,13 +552,13 @@ Sec. 2. <i>Exceptions</i>. The general policy established by this order is subje
 
 (e) The head of any agency may establish limited and narrow exceptions that are necessary to accomplish agency missions. Such exception shall be in writing, approved by the agency head, and to the fullest extent possible provide protection of nonsmokers from exposure to environmental tobacco smoke. Authority to establish such exceptions may not be delegated.
 
-Sec. 3. <i>Other Locations</i>. The heads of agencies shall evaluate the need to restrict smoking at doorways andin courtyards under executive branch control in order to protect workers and visitors from environmental tobacco smoke, and may restrict smoking in these areas in light of this evaluation.
+Sec. 3. <i>Other Locations</i>. The heads of agencies shall evaluate the need to restrict smoking at doorways and in courtyards under executive branch control in order to protect workers and visitors from environmental tobacco smoke, and may restrict smoking in these areas in light of this evaluation.
 
 Sec. 4. <i>Smoking Cessation Programs</i>. The heads of agencies are encouraged to use existing authority to establish programs designed to help employees stop smoking.
 
 Sec. 5. <i>Responsibility for Implementation</i>. The heads of agencies are responsible for implementing and ensuring compliance with the provisions of this order. "Agency" as used in this order means an Executive agency, as defined in 5 U.S.C. 105, and includes any employing unit or authority of the Federal Government, other than those of the legislative and judicial branches. Independent agencies are encouraged to comply with the provisions of this order.
 
-Sec. 6. <i>Phase-In of Implementation</i>. Implementation of the policy set forth in this order shall be achieved no later than 1 year after the date of this order. This 1 year phase-in period is designed to establish a fixed but reasonable time for implementing this policy. Agency heads are directed during this period to inform all employees and visitors to executive branch facilities about the requirements of this order, inform their employees of the health risks of exposure to environmental tobacco smoke, and undertake related activities as necessary.
+Sec. 6. <i>Phase-In of Implementation</i>. Implementation of the policy set forth in this order shall be achieved nolater than 1 year after the date of this order. This 1 year phase-in period is designed to establish a fixed but reasonable time for implementing this policy. Agency heads are directed during this period to inform all employees and visitors to executive branch facilities about the requirements of this order, inform their employees of the health risks of exposure to environmental tobacco smoke, and undertake related activities as necessary.
 
 Sec. 7. <i>Consistency with Other Laws</i>. The provisions of this order shall be implemented consistent with applicable law, including the Federal Service Labor-Management Relations Act (5 U.S.C. 7101 <i>et seq</i>.) and the National Labor Relations Act (29 U.S.C. 151 <i>et seq</i>.)\[.\] Provisions of existing collective bargaining agreements shall be honored and agencies shall consult with employee labor representatives about the implementation of this order. Nothing herein shall be construed to impair or alter the powers and duties of Federal agencies established under law. Nothing herein shall be construed to replace any agency policy currently in effect, if such policy is legally established, in writing, and consistent with the terms of this order. Agencies shall review their current policy to confirm that agency policy comports with this order, and policy found not in compliance shall be revised to comply with the terms of this order.
 
@@ -614,7 +686,7 @@ Ex. Ord. No. 13770, Jan. 28, 2017, 82 F.R. 9333, provided:
 
 By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and sections 3301 and 7301 of title 5, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Ethics Pledge</i>. Every appointee in every executive agency appointed on or after January 20, 2017, shall sign, and upon signing shall be contractuallycommitted to, the following pledge upon becoming an appointee:
+Section 1. <i>Ethics Pledge</i>. Every appointee in every executive agency appointed on or after January 20, 2017, shall sign, and upon signing shall be contractually committed to, the following pledge upon becoming an appointee:
 
 "As a condition, and in consideration, of my employment in the United States Government in an appointee position invested with the public trust, I commit myself to the following obligations, which I understand are binding on me and are enforceable under law:
 
@@ -682,7 +754,7 @@ Sec. 2. <i>Definitions</i>. As used herein and in the pledge set forth in sectio
 
 (q) "On behalf of another" means on behalf of a person or entity other than the individual signing the pledge or his or her spouse, child, or parent.
 
-(r) "Particular matter" shall have the same meaning as set forth in section 207 of title 18, United StatesCode, and section 2635.402(b)(3) of title 5, Code of Federal Regulations.
+(r) "Particular matter" shall have the same meaning as set forth in section 207 of title 18, United States Code, and section 2635.402(b)(3) of title 5, Code of Federal Regulations.
 
 (s) "Particular matter involving specific parties" shall have the same meaning as set forth in section 2641.201(h) of title 5, Code of Federal Regulations, except that it shall also include any meeting or other communication relating to the performance of one's official duties with a former employer or former client, unless the communication applies to a particular matter of general applicability and participation in the meeting or other event is open to all interested parties.
 

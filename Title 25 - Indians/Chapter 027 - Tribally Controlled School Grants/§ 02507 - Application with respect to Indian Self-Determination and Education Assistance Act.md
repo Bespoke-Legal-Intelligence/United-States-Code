@@ -80,7 +80,7 @@ The Equal Access to Justice Act, referred to in subsec. (e), is title II of Pub.
 
 #### Prior Provisions
 
-A prior section 2507, Pub. L. 100–297, title V, §5208, Apr. 28, 1988, 102 Stat. 393; Pub. L. 100–427, §13, Sept. 9,1988, 102 Stat. 1609; Pub. L. 103–382, title III, §382(c), Oct. 20, 1994, 108 Stat. 4017, related to payment of grants and investment of funds, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2506 of this title.
+A prior section 2507, Pub. L. 100–297, title V, §5208, Apr. 28, 1988, 102 Stat. 393; Pub. L. 100–427, §13, Sept. 9, 1988, 102 Stat. 1609; Pub. L. 103–382, title III, §382(c), Oct. 20, 1994, 108 Stat. 4017, related to payment of grants and investment of funds, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2506 of this title.
 
 #### Effective Date
 

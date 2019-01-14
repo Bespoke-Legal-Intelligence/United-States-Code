@@ -22,11 +22,13 @@ Integration.—None of the funds authorized to be appropriated or otherwise made
 
 (e)
 
-Sunset.—The prohibitions in subsections (a), (b), and (d) shall expire on January 1, 2019.
+Sunset.—The prohibitions in subsections (a), (b), and (d) shall expire on January 1, 2021.
 
-(Added Pub. L. 114–92, div. A, title XVI, §1671(a)(1), Nov. 25, 2015, 129 Stat. 1129; amended Pub. L. 114–328, div. A, title X, §1081(a)(1), title XVI, §1682(a)(1), (b), Dec. 23, 2016, 130 Stat. 2417, 2623, 2624.)
+(Added Pub. L. 114–92, div. A, title XVI, §1671(a)(1), Nov. 25, 2015, 129 Stat. 1129; amended Pub. L. 114–328, div. A, title X, §1081(a)(1), title XVI, §1682(a)(1), (b), Dec. 23, 2016, 130 Stat. 2417, 2623, 2624; Pub. L. 115–232, div. A, title XVI, §1678, Aug. 13, 2018, 132 Stat. 2161.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e). Pub. L. 115–232 substituted "January 1, 2021" for "January 1, 2019".
 
 <b>2016</b>—Pub. L. 114–328, §1682(a)(1)(C), added section catchline and struck out former section catchline which read as follows: "Prohibitions on providing certain missile defense information to Russian Federation".
 

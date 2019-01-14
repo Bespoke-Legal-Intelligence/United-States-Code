@@ -2,7 +2,7 @@
 
 (a)
 
-Encouragement of Transfer Required.—The Secretary of Defense shall encourage, to the extent consistent with national security objectives, the transfer of technology between laboratories and research centers of the Department ofDefense and other Federal agencies, State and local governments, colleges and universities, and private persons in cases that are likely to result in accomplishing the objectives set forth in section 2501(a) of this title.
+Encouragement of Transfer Required.—The Secretary of Defense shall encourage, to the extent consistent with national security objectives, the transfer of technology between laboratories and research centers of the Department of Defense and other Federal agencies, State and local governments, colleges and universities, and private persons in cases that are likely to result in accomplishing the objectives set forth in section 2501(a) of this title.
 
 (b)
 
@@ -166,7 +166,7 @@ Exception.—If, after payments under paragraph (1)(A), the balance of the royal
 
 &emsp;"(3)
 
-Status of payments to employees.—Any payment made to an employee under this section shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which the employee is otherwise entitled or for which the employee is otherwise eligible or limit the amount thereof except that the monetary value of an award for the same project or effort shall be deducted from the amount otherwise available under this paragraph. Payments, determined under the terms of this paragraph and made to an employee developer as such, may continue after the developer leaves the DOD laboratory or the Department of Defense or military department. Payments made under this section shall not exceed $75,000 per year to any one person, unless the President approves a larger award (with the excess over $75,000 being treated as a Presidential award under section 4504 of title 5, United States Code).
+Status of payments to employees.—Any payment made to an employee under this section shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which the employee is otherwise entitled or for which the employee is otherwise eligible or limit the amount thereof exceptthat the monetary value of an award for the same project or effort shall be deducted from the amount otherwise available under this paragraph. Payments, determined under the terms of this paragraph and made to an employee developer as such, may continue after the developer leaves the DOD laboratory or the Department of Defense or military department. Payments made under this section shall not exceed $75,000 per year to any one person, unless the President approves a larger award (with the excess over $75,000 being treated as a Presidential award under section 4504 of title 5, United States Code).
 
 "(d)
 

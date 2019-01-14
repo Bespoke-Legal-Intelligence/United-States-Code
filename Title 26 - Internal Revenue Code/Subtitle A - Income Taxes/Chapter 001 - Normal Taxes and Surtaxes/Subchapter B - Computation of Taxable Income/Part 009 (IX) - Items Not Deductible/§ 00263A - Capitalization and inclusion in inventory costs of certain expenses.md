@@ -122,7 +122,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (B) Certain persons not eligible
 
-&emsp;&emsp;No election may be made under this paragraph by a corporation, partnership, or taxshelter, if such corporation, partnership, or tax shelter is required to use an accrual method of accounting under section 447 or 448(a)(3).
+&emsp;&emsp;No election may be made under this paragraph by a corporation, partnership, or tax shelter, if such corporation, partnership, or tax shelter is required to use an accrual method of accounting under section 447 or 448(a)(3).
 
 #### (C) Special rule for citrus and almond growers
 
@@ -152,7 +152,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (A) In general
 
-&emsp;&emsp;If the taxpayer (or any related person) makes an election under subsection (d)(3), the provisions of section 168(g)(2) (relating to alternative depreciation) shall apply to all property of the taxpayer used predominantly in the farming business and placed in service in any taxable year during which any such election is in effect.
+&emsp;&emsp;If the taxpayer (or any related person) makes an election under subsection (d)(3),the provisions of section 168(g)(2) (relating to alternative depreciation) shall apply to all property of the taxpayer used predominantly in the farming business and placed in service in any taxable year during which any such election is in effect.
 
 #### (B) Related person
 
@@ -360,7 +360,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;In the case of any taxpayer (other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3)) which meets the gross receipts test of section 448(c) for any taxable year, this section shall not apply with respect to such taxpayer for such taxable year.
+&emsp;In the case of any taxpayer (other than a tax shelter prohibited from using the cash receiptsand disbursements method of accounting under section 448(a)(3)) which meets the gross receipts test of section 448(c) for any taxable year, this section shall not apply with respect to such taxpayer for such taxable year.
 
 #### (2) Application of gross receipts test to individuals, etc.
 
@@ -412,7 +412,7 @@ In general.—In the case of a personal service corporation, this subsection sha
 
 "(ii)
 
-Qualified employee-owner.—The term 'qualified employee-owner' means any individual who is anemployee-owner of the personal service corporation and who is a writer, photographer, or artist, but only if substantially all of the stock of such corporation is owned by such individual and members of his family (as defined in section 267(c)(4)).
+Qualified employee-owner.—The term 'qualified employee-owner' means any individual who is an employee-owner of the personal service corporation and who is a writer, photographer, or artist, but only if substantially all of the stock of such corporation is owned by such individual and members of his family (as defined in section 267(c)(4)).
 
 "(iii)
 
@@ -548,7 +548,7 @@ Transitional rule for capitalization of interest and taxes.—
 
 Transition property exempted from interest capitalization.—Section 263A of the Internal Revenue Code of 1986 (as added by this section) and the amendment made by subsection (b)(1) \[repealing section 189 of this title\] shall not apply to interest costs which are allocable to any property—
 
-&emsp;&emsp;"(i) to which the amendments made by section 201 \[amending sections 46, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] do not apply by reason of sections 204(a)(1)(D) and (E) and 204(a)(5)(A) \[set out as a note under section 168 of this title\], and
+&emsp;&emsp;"(i) to which the amendments made by section 201 \[amending sections 46, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title\] do not apply by reason of sections 204(a)(1)(D)and (E) and 204(a)(5)(A) \[set out as a note under section 168 of this title\], and
 
 &emsp;&emsp;"(ii) to which the amendments made by section 251 \[amending sections 46 and 48 of this title and enacting provisions set out as a note under section 46 of this title\] do not apply by reason of section 251(d)(3)(M) \[set out as a note under section 46 of this title\].
 
@@ -575,6 +575,12 @@ Treatment of certain rehabilitation project.—The amendments made by this secti
 "(7)
 
 Special rule for casualty losses.—Section 263A(d)(2) of the Internal Revenue Code of 1986 (as added by this section) shall apply to expenses incurred on or after the date of the enactment of this Act \[Oct. 22, 1986\]."
+
+#### Construction
+
+Pub. L. 115–97, title I, §13809, as added by Pub. L. 115–123, div. D, title II, §41111(a), Feb. 9, 2018, 132 Stat. 160, provided that: "Nothing in this subpart \[subpart A (§§13801–13809) of part IX of subtitle C of title I of Pub. L. 115–97, amending this section and sections 5001, 5041, 5051, 5212, 5412, 5414, and 7652 of this title and enacting provisions set out as notes under sections 5001, 5041, 5051, 5212, and 5412 of this title\], the amendments made by this subpart, or any regulation promulgated under this subpart or the amendments made by this subpart, shall be construed to preempt, supersede, or otherwise limit or restrict any State, local, or tribal law that prohibits or regulates the production or sale of distilled spirits, wine, or malt beverages."
+
+\[Pub. L. 115–123, div. D, title II, §41111(b), Feb. 9, 2018, 132 Stat. 160, provided that: "The amendment made by this section \[enacting section 13809 of Pub. L. 115–97, set out above\] shall take effect as if included in Public Law 115–97."\]
 
 #### Allocation Ratio for Apportioning Storage Costs and Related Handling Costs
 

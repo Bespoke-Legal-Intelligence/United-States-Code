@@ -1,6 +1,6 @@
 ### §689b. Hunting, pursuing, capturing in Tahquitz National Game Preserve unlawful
 
-On lands within the game preserve established in section 689a of this title, hunting, pursuing, poisoning, killing, or capturing by trapping, netting, or any other means, or attempting to hunt, pursue, kill, or capture any wild animals or birds for any purpose whatever upon the lands of the United States within the limits of said game preserve shall be unlawful except as hereinafter provided.
+On lands within the game preserve established in section 689a of this title, hunting, pursuing,poisoning, killing, or capturing by trapping, netting, or any other means, or attempting to hunt, pursue, kill, or capture any wild animals or birds for any purpose whatever upon the lands of the United States within the limits of said game preserve shall be unlawful except as hereinafter provided.
 
 (July 3, 1926, ch. 776, §3, 44 Stat. 889; June 25, 1948, ch. 645, §14, 62 Stat. 861.)
 

@@ -20,7 +20,7 @@
 
 #### (C) Rule in case of different limits
 
-&emsp;&emsp;In the case of a plan or coverage that is not described in subparagraph (A) or (B) and that includes no or different aggregate lifetime limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan or coverage with respect to mental health and substance use disorder benefits by substituting for the applicable lifetime limit an average aggregate lifetime limit that is computed taking into account the weighted average of the aggregate lifetime limits applicable to such categories.
+&emsp;&emsp;In the case of a plan or coverage that is not described in subparagraph (A) or (B) and that includes no or different aggregate lifetime limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan or coverage with respect to mental health and substance use disorder benefits by substituting for the applicable lifetime limit an average aggregatelifetime limit that is computed taking into account the weighted average of the aggregate lifetime limits applicable to such categories.
 
 #### (2) Annual limits
 
@@ -146,7 +146,7 @@ Nothing in this section shall be construed—
 
 &emsp;&emsp;&emsp;&emsp;(I) a description of the number of covered lives under the plan (or coverage) involved at the time of the notification, and as applicable, at the time of any prior election of the cost-exemption under this paragraph by such plan (or coverage);
 
-&emsp;&emsp;&emsp;&emsp;(II) for both the plan year upon which a cost exemption is sought and the year prior, a description of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan; and
+&emsp;&emsp;&emsp;&emsp;(II) for both the plan year upon which a cost exemption is sought and the yearprior, a description of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan; and
 
 &emsp;&emsp;&emsp;&emsp;(III) for both the plan year upon which a cost exemption is sought and the year prior, the actual total costs of coverage with respect to mental health and substance use disorder benefits under the plan.
 
@@ -192,7 +192,7 @@ For purposes of this section—
 
 #### (f) Secretary report
 
-The Secretary shall, by January 1, 2012, and every two years thereafter, submit to the appropriate committees of Congress a report on compliance of group health plans (and health insurance coverage offered in connection with suchplans) with the requirements of this section. Such report shall include the results of any surveys or audits on compliance of group health plans (and health insurance coverage offered in connection with such plans) with such requirements and an analysis of the reasons for any failures to comply.
+The Secretary shall, by January 1, 2012, and every two years thereafter, submit to the appropriate committees of Congress a report on compliance of group health plans (and health insurance coverage offered in connection with such plans) with the requirements of this section. Such report shall include the results of any surveys or audits on compliance of group health plans (and health insurance coverage offered in connection with such plans) with such requirements and an analysis of the reasons for any failures to comply.
 
 #### (g) Notice and assistance
 
@@ -206,7 +206,7 @@ The Secretary, in cooperation with the Secretaries of Health and Human Services 
 
 Subsec. (a)(1), (2). Pub. L. 110–343, §512(a)(8), substituted "mental health or substance use disorder benefits" for "mental health benefits" wherever appearing in pars. (1)(introductory provisions), (A), and (B)(ii) and (2)(introductory provisions), (A), and (B)(ii).
 
-Pub. L. 110–343, §512(a)(7), substituted "mental health and substance use disorder benefits" for "mental health benefits" wherever appearing in pars. (1)(B)(i) and (C) and (2)(B)(i) and (C).
+Pub. L. 110–343, §512(a)(7), substituted "mental health and substance use disorder benefits" for "mentalhealth benefits" wherever appearing in pars. (1)(B)(i) and (C) and (2)(B)(i) and (C).
 
 Subsec. (a)(3) to (5). Pub. L. 110–343, §512(a)(1), added pars. (3) to (5).
 

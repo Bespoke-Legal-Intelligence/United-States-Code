@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(iii) requirements that the brewer provide any information as the Secretary determines necessary and appropriate for purposes of carrying out this paragraph, and
 
-&emsp;&emsp;&emsp;(iv) procedures that allow for revocation of eligibility of the brewer and the importer for the reduced tax rate providedunder this paragraph in the case of any erroneous or fraudulent information provided under clause (iii) which the Secretary deems to be material to qualifying for such reduced rate.
+&emsp;&emsp;&emsp;(iv) procedures that allow for revocation of eligibility of the brewer and the importer for the reduced tax rate provided under this paragraph in the case of any erroneous or fraudulent information provided under clause (iii) which the Secretary deems to be material to qualifying for such reduced rate.
 
 #### (C) Controlled group
 
@@ -72,7 +72,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(C)(i) and the 2,000,000 barrel quantity specified in paragraph (2)(A) shall be applied to the controlled group, and the 6,000,000 barrel quantity specified in paragraph (1)(C)(i) and the 60,000 barrel quantity specified in paragraph (2)(A) shall be apportioned among the brewers who are members of such group in such manner as the Secretary or their delegate shall by regulations prescribe. For purposes of the preceding sentence, the term "controlled group" has the meaning assigned to it by subsection (a) of section 1563, except that for such purposes the phrase "more than 50 percent" shall be substituted for the phrase "at least 80 percent" in each place it appears in such subsection. Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
+&emsp;&emsp;Except as provided in subparagraph (B), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(C)(i) and the 2,000,000 barrel quantity specified in paragraph (2)(A) shall be applied to the controlled group, and the 6,000,000 barrel quantity specified in paragraph (1)(C)(i) and the 60,000 barrel quantity specified in paragraph (2)(A) shall be apportioned among the brewers who are members of such group in such manner as the Secretary or theirdelegate shall by regulations prescribe. For purposes of the preceding sentence, the term "controlled group" has the meaning assigned to it by subsection (a) of section 1563, except that for such purposes the phrase "more than 50 percent" shall be substituted for the phrase "at least 80 percent" in each place it appears in such subsection. Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
 
 #### (B) Foreign manufacturers and importers
 

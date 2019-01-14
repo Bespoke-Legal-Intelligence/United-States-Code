@@ -22,7 +22,7 @@
 
 #### (4) Pay
 
-&emsp;The Tax Court may fix and adjust the compensation for the clerk and other employees of the Tax Court without regard to the provisions of chapter 51, subchapter III of chapter 53, or section 5373 of title 5, United States Code. To the maximum extent feasible, the Tax Court shall compensate employees at rates consistent with those for employees holding comparable positions in courts established under Article III of the Constitution of the United States.
+&emsp;The Tax Court may fix and adjust the compensation for the clerk and other employees ofthe Tax Court without regard to the provisions of chapter 51, subchapter III of chapter 53, or section 5373 of title 5, United States Code. To the maximum extent feasible, the Tax Court shall compensate employees at rates consistent with those for employees holding comparable positions in courts established under Article III of the Constitution of the United States.
 
 #### (5) Programs
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(D) make an allegation of a prohibited personnel practice described under section 2302(b) of title 5, United States Code, with the Office of Special Counsel under chapter 12 of that title for action in accordance with that chapter, or
 
-&emsp;&emsp;(E) file an appeal with the Equal Employment Opportunity Commission under part1614 of title 29 of the Code of Federal Regulations,
+&emsp;&emsp;(E) file an appeal with the Equal Employment Opportunity Commission under part 1614 of title 29 of the Code of Federal Regulations,
 
 > &emsp;shall continue to be entitled to file such appeal or make such an allegation so long as the individual remains an employee of the Tax Court.
 
@@ -100,7 +100,7 @@ Subsec. (b). Pub. L. 94–455, §1906(a)(47)(B), substituted "as provided in cha
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–366, §1(b), Jan. 4, 2011, 124 Stat. 4065, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date the United States Tax Court adopts a personnel management system \[adopted effective Oct. 9, 2011\] after the date of the enactment of this Act \[Jan. 4, 2011\]."
+Pub. L. 111–366, §1(b), Jan. 4, 2011, 124 Stat. 4065, provided that: "The amendments made by this section \[amending this section\] shall take effect on the datethe United States Tax Court adopts a personnel management system \[adopted effective Oct. 9, 2011\] after the date of the enactment of this Act \[Jan. 4, 2011\]."
 
 #### Effective Date of 1986 Amendment
 

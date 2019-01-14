@@ -8,7 +8,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (A) Emergency Action Plan
 
-&emsp;&emsp;The Emergency Action Plan (EAP) of each United States mission shall address thethreat of large explosive attacks from vehicles and from complex attacks (as such term is defined in section 4866 of this title), and the safety of employees during such an explosive attack or such a complex attack. Such plan shall be reviewed and updated annually.
+&emsp;&emsp;The Emergency Action Plan (EAP) of each United States mission shall address the threat of large explosive attacks from vehicles and from complex attacks (as such term is defined in section 4866 of this title), and the safety of employees during such an explosive attack or such a complex attack. Such plan shall be reviewed and updated annually.
 
 #### (B) Security Environment Threat List
 
@@ -50,7 +50,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary determines that security considerations permit and it is in the national interest of the United States.
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if theSecretary determines that security considerations permit and it is in the national interest of the United States.
 
 #### (ii) Chancery or consulate building
 
@@ -94,7 +94,7 @@ The following security requirements shall apply with respect to United States di
 
 &emsp;&emsp;&emsp;(ii) providing personnel identified to serve on the FEST as a collateral duty;
 
-&emsp;&emsp;&emsp;(iii) providing personnel to assist in activities such as security, medical relief,public affairs, engineering, and building safety; and
+&emsp;&emsp;&emsp;(iii) providing personnel to assist in activities such as security, medical relief, public affairs, engineering, and building safety; and
 
 &emsp;&emsp;&emsp;(iv) providing such additional support as may be necessary to enable the FEST to provide support in a post-crisis environment involving mass casualties and physical damage.
 
@@ -124,7 +124,7 @@ The following security requirements shall apply with respect to United States di
 
 Nothing in this section alters or amends existing security requirements not addressed by this section.
 
-(Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §606\], Nov. 29, 1999, 113 Stat. 1536, 1501A–454; Pub. L. 114–323, title I, §102, Dec. 16, 2016, 130 Stat. 1909.)
+(Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §606\], Nov. 29, 1999, 113 Stat. 1536, 1501A–454;Pub. L. 114–323, title I, §102, Dec. 16, 2016, 130 Stat. 1909.)
 
 #### Codification
 
@@ -220,7 +220,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §602\], Nov. 29, 19
 
 &emsp;"(4) Threats continue to be made against United States diplomatic facilities.
 
-&emsp;"(5) Accountability Review Boards were convened following the bombings, as required by Public Law 99–399 \[see Tables for classification\], chaired by Admiral William J. Crowe, United States Navy (Ret.) (in this section referred to as the 'Crowe panels').
+&emsp;"(5) Accountability Review Boards were convened following the bombings, as required by Public Law99–399 \[see Tables for classification\], chaired by Admiral William J. Crowe, United States Navy (Ret.) (in this section referred to as the 'Crowe panels').
 
 &emsp;"(6) The conclusions of the Crowe panels were strikingly similar to those stated by the Commission chaired by Admiral Bobby Ray Inman, which issued an extensive embassy security report in 1985.
 
@@ -280,7 +280,7 @@ Capital Security Cost Sharing.—
 
 &emsp;"(1)
 
-Authority.—Notwithstanding any other provision of law, all agencies with personnel overseas subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927)shall participate and provide funding in advance for their share of costs of providing, maintaining, repairing, and renovating safe, secure United States diplomatic facilities, without offsets, on the basis of the total overseas presence of each agency as determined annually by the Secretary of State in consultation with such agency. Amounts advanced by such agencies to the Department of State shall be credited to the Embassy Security, Construction and Maintenance account, and remain available until expended.
+Authority.—Notwithstanding any other provision of law, all agencies with personnel overseas subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) shall participate and provide funding in advance for their share of costs of providing, maintaining, repairing, and renovating safe, secure United States diplomatic facilities, without offsets, on the basis of the total overseas presence of each agency as determined annually by the Secretary of State in consultation with such agency. Amounts advanced by such agencies to the Department of State shall be credited to the Embassy Security, Construction and Maintenance account, and remain available until expended.
 
 &emsp;"(2)
 

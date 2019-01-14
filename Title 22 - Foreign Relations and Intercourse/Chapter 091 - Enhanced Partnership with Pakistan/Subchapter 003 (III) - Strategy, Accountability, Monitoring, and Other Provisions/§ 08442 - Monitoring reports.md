@@ -10,7 +10,7 @@ Not later than 180 days after the submission of the Pakistan Assistance Strategy
 
 &emsp;(3) with respect to the plan described in section 8441(a)(3) of this title, updates to such plan and a description of best practices to improve the impact of the assistance authorized under subchapter I of this chapter;
 
-&emsp;(4) an assessment of the effectiveness of assistance provided under subchapter I of thischapter during the period covered by the report in achieving desired objectives and outcomes as guided by the plan described in section 8441(a)(3) of this title, and as updated pursuant to paragraph (3) of this subsection, including a systematic, qualitative, and where possible, quantitative basis for assessing whether desired outcomes are achieved and a timeline for completion of each project and program;
+&emsp;(4) an assessment of the effectiveness of assistance provided under subchapter I of this chapter during the period covered by the report in achieving desired objectives and outcomes as guided by the plan described in section 8441(a)(3) of this title, and as updated pursuant to paragraph (3) of this subsection, including a systematic, qualitative, and where possible, quantitative basis for assessing whether desired outcomes are achieved and a timeline for completion of each project and program;
 
 &emsp;(5) a description of any shortfall in United States financial, physical, technical, or human resources that hinder the effective use and monitoring of such funds;
 
@@ -42,7 +42,7 @@ Not later than 180 days after the submission of the Pakistan Assistance Strategy
 
 &emsp;(12) a detailed description of Pakistan's efforts to prevent proliferation of nuclear-related material and expertise;
 
-&emsp;(13) an assessment of whether assistance provided to Pakistan has directly or indirectly aided the expansion of Pakistan's nuclear weapons program, whether by the diversion of United States assistance or the reallocation of Pakistan's financial resources that would otherwise be spent for programs and activities unrelated to its nuclear weapons program;
+&emsp;(13) an assessment of whether assistance provided to Pakistan has directly or indirectly aided the expansion of Pakistan's nuclearweapons program, whether by the diversion of United States assistance or the reallocation of Pakistan's financial resources that would otherwise be spent for programs and activities unrelated to its nuclear weapons program;
 
 &emsp;(14) a detailed description of the extent to which funds obligated and expended pursuant to section 8422(b) of this title meet the requirements of such section; and
 

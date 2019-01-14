@@ -72,7 +72,7 @@ The Attorney General shall establish a program by which the Department of Justic
 
 &emsp;&emsp;(C) if the borrower is required to repay an amount to the Attorney General under subparagraph (B) and fails to repay such amount, a sum equal to that amount shall be recoverable by the Federal Government from the employee (or such employee's estate, if applicable) by such methods as are provided by law for the recovery of amounts owed to the Federal Government;
 
-&emsp;&emsp;(D) the Attorney General may waive, in whole or in part, a right of recovery underthis subsection if it is shown that recovery would be against equity and good conscience or against the public interest; and
+&emsp;&emsp;(D) the Attorney General may waive, in whole or in part, a right of recovery under this subsection if it is shown that recovery would be against equity and good conscience or against the public interest; and
 
 &emsp;&emsp;(E) the Attorney General shall make student loan payments under this section for the period of the agreement, subject to the availability of appropriations.
 
@@ -84,7 +84,7 @@ The Attorney General shall establish a program by which the Department of Justic
 
 #### (B) Merger
 
-&emsp;&emsp;Any amount credited under subparagraph (A) shall be merged with other sums in such account and shall be available for the same purposes and period, and subject to the same limitations, if any, as the sums with which the amount was merged.
+&emsp;&emsp;Any amount credited under subparagraph (A) shall be merged with other sums in such account and shall be available for the same purposes and period, and subject to the samelimitations, if any, as the sums with which the amount was merged.
 
 #### (3) Limitations
 
@@ -158,5 +158,5 @@ The Higher Education Act of 1965, referred to in subsec. (b)(3)(A)(i), (ii), is 
 
 Section was formerly classified to section 3797cc–21 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-Another section 3001 of Pub. L. 90–351 is classified to section 10681 of this title.
+Another section 3001 of Pub. L. 90–351 was classified to section 10681 of this title, prior to repeal by Pub. L. 115–391.
 

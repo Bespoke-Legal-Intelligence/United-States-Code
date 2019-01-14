@@ -1,6 +1,6 @@
 ### §892. Making extortionate extensions of credit
 
-(a) Whoever makes any extortionate extension of credit, or conspires to do so, shall be finedunder this title or imprisoned not more than 20 years, or both.
+(a) Whoever makes any extortionate extension of credit, or conspires to do so, shall be fined under this title or imprisoned not more than 20 years, or both.
 
 (b) In any prosecution under this section, if it is shown that all of the following factors were present in connection with the extension of credit in question, there is prima facie evidence that the extension of credit was extortionate, but this subsection is nonexclusive and in no way limits the effect or applicability of subsection (a):
 
@@ -22,7 +22,7 @@
 
 &emsp;(4) Upon the making of the extension of credit, the total of the extensions of credit by the creditor to the debtor then outstanding, including any unpaid interest or similar charges, exceeded $100.
 
-(c) In any prosecution under this section, if evidence has been introduced tending to show the existence of any of the circumstances described in subsection (b)(1) or (b)(2), and direct evidence of the actual belief of the debtor as to the creditor's collection practices is not available, then for the purpose of showing the understanding of the debtor and the creditor at the time the extension of credit was made, the court may in its discretion allow evidence to be introduced tending to show the reputation as to collection practices of the creditor in any community of which the debtor was a member at the time of the extension.
+(c) In any prosecution under this section, if evidence has been introduced tending to show the existence of any of the circumstances described in subsection (b)(1) or (b)(2), and direct evidence of the actual belief of the debtor as to the creditor's collection practices is not available, then for the purpose of showing the understanding of the debtor and the creditor at thetime the extension of credit was made, the court may in its discretion allow evidence to be introduced tending to show the reputation as to collection practices of the creditor in any community of which the debtor was a member at the time of the extension.
 
 (Added Pub. L. 90–321, title II, §202(a), May 29, 1968, 82 Stat. 160; amended Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 

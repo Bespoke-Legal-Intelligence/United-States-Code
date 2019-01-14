@@ -52,7 +52,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 &emsp;&emsp;&emsp;(ii) to a self-regulatory organization, in the case of an investigation that concerns an audit report for a broker or dealer that is under the jurisdiction of such self-regulatory organization;
 
-&emsp;&emsp;&emsp;(iii) to any other Federal functional regulator (as defined in section 6809 of this title), in the case of an investigation that concerns an audit report for an institution that is subject to the jurisdiction of such regulator; and
+&emsp;&emsp;&emsp;(iii) to any other Federal functional regulator (as defined in section 6809 of this title), in the case of an investigation thatconcerns an audit report for an institution that is subject to the jurisdiction of such regulator; and
 
 &emsp;&emsp;&emsp;(iv) at the direction of the Commission, to—
 
@@ -66,7 +66,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (A) Confidentiality
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), all documents and information prepared or received by or specifically for the Board, and deliberations of the Board and its employees and agents, in connection with an inspection under section 7214 of this title or with an investigation under this section, shall be confidential and privileged as an evidentiary matter (and shall not be subject to civil discovery or other legal process) in any proceeding in any Federal or State courtor administrative agency, and shall be exempt from disclosure, in the hands of an agency or establishment of the Federal Government, under the Freedom of Information Act (5 U.S.C. 552a),<sup>1</sup> or otherwise, unless and until presented in connection with a public proceeding or released in accordance with subsection (c).
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), all documents and information prepared or received by or specifically for the Board, and deliberations of the Board and its employees and agents, in connection with an inspection under section 7214 of this title or with an investigation under this section, shall be confidential and privileged as an evidentiary matter (and shall not be subject to civil discovery or other legal process) in any proceeding in any Federal or State court or administrative agency, and shall be exempt from disclosure, in the hands of an agency or establishment of the Federal Government, under the Freedom of Information Act (5 U.S.C. 552a),<sup>1</sup> or otherwise, unless and until presented in connection with a public proceeding or released in accordance with subsection (c).
 
 #### (B) Availability to Government agencies
 

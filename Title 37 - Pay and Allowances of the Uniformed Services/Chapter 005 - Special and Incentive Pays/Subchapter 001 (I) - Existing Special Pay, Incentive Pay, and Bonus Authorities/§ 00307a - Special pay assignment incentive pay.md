@@ -72,7 +72,7 @@ Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
 <b>2008</b>—Subsec. (g). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163, §628(a)(1), struck out "monthly" before "incentive pay" and inserted at end "Incentive pay payable under this section may be paid on a monthly basis, in a lump sum, or in installments."
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §628(a)(1), struck out "monthly" before "incentive pay" and inserted atend "Incentive pay payable under this section may be paid on a monthly basis, in a lump sum, or in installments."
 
 Subsec. (b). Pub. L. 109–163, §628(a)(2), designated existing provisions as par. (1), substituted "the payment of incentive pay on a monthly basis" for "incentive pay" in first sentence, and added par. (2).
 

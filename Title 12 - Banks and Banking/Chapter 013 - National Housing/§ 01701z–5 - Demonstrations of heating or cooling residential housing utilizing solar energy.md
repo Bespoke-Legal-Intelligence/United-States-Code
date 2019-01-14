@@ -8,7 +8,7 @@ In carrying out activities under section 1701z–1 of this title, the Secretary 
 
 &emsp;(2) to utilize the contract, loan, or mortgage insurance authority of any federally assisted housing program in the actual planning, development, and occupancy of such housing; and
 
-&emsp;(3) to set aside any development, construction, design, or occupancy requirements forthe purpose of any demonstration under this section if he determines that such requirements inhibit such demonstration.
+&emsp;(3) to set aside any development, construction, design, or occupancy requirements for the purpose of any demonstration under this section if he determines that such requirements inhibit such demonstration.
 
 #### (b) Evaluation by Secretary
 

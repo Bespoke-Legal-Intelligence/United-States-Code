@@ -14,3 +14,4 @@
 - [&sect; 03707 - Adjustable rate mortgages](%C2%A7%2003707%20-%20Adjustable%20rate%20mortgages.md)
 - [&sect; 03707A - Hybrid adjustable rate mortgages](%C2%A7%2003707A%20-%20Hybrid%20adjustable%20rate%20mortgages.md)
 - [&sect; 03708 - Authority to buy down interest rates pilot program](%C2%A7%2003708%20-%20Authority%20to%20buy%20down%20interest%20rates%20pilot%20program.md)
+- [&sect; 03709 - Refinancing of housing loans](%C2%A7%2003709%20-%20Refinancing%20of%20housing%20loans.md)

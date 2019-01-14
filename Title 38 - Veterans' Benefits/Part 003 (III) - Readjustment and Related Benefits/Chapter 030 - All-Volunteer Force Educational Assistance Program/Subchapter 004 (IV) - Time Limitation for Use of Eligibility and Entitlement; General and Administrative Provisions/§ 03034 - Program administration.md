@@ -22,7 +22,7 @@
 
 (2) The information referred to in paragraph (1) is information with respect to the benefits, limitations, procedures, eligibility requirements (including time-in-service requirements), and other important aspects of the basic educational assistance program under this chapter, including application forms for such basic educational assistance under section 5102 of this title.
 
-(3) The Secretary shall furnish the forms described in paragraph (2) and other educational materials to educational institutions, training establishments, and military education personnel, as the Secretary determines appropriate.
+(3) The Secretary shall furnish the forms described in paragraph (2) and other educational materials to educational institutions, trainingestablishments, and military education personnel, as the Secretary determines appropriate.
 
 (4) The Secretary shall use amounts appropriated for readjustment benefits to carry out this subsection and section 5102 of this title with respect to application forms under that section for basic educational assistance under this chapter.
 
@@ -62,7 +62,7 @@ Subsec. (a)(3). Pub. L. 101–237, §423(b)(1)(A), substituted "Secretary" for "
 
 Pub. L. 101–237, §423(a)(5)(A), substituted "employment during and since the period of such veteran's active military service)" for "employment)".
 
-Subsec. (b). Pub. L. 101–237, §415(b)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The Administrator may, pursuant to regulations which the Administrator shallprescribe, determine and define enrollment in, pursuit of, and attendance at, any program of education by an individual enrolled in or pursuing a program of education under this chapter for any period for which the individual receives educational assistance under this chapter. Subject to such reports and proof as the Administrator may require to show an individual's enrollment in and satisfactory pursuit of such individual's program, the Administrator may withhold payment of benefits to such individual until the required proof is received and the amount of the payment is appropriately adjusted."
+Subsec. (b). Pub. L. 101–237, §415(b)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The Administrator may, pursuant to regulations which the Administrator shall prescribe, determine and define enrollment in, pursuit of, and attendance at, any program of education by an individual enrolled in or pursuing a program of education under this chapter for any period for which the individual receives educational assistance under this chapter. Subject to such reports and proof as the Administrator may require to show an individual's enrollment in and satisfactory pursuit of such individual's program, the Administrator may withhold payment of benefits to such individual until the required proof is received and the amount of the payment is appropriately adjusted."
 
 Subsec. (c). Pub. L. 101–237, §423(a)(6)(B), added subsec. (c).
 
@@ -100,7 +100,7 @@ Pub. L. 105–368, title II, §206(b), Nov. 11, 1998, 112 Stat. 3328, provided t
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–446, title VI, §601(d), Nov. 2, 1994, 108 Stat. 4671, provided that: "The amendments made by this section \[amending this section, section 3241 of this title, and section 16136 of Title 10, Armed Forces\] shall take effect as of October 1, 1994."
+Pub. L. 103–446, title VI, §601(d), Nov. 2, 1994, 108 Stat. 4671, provided that: "The amendments made by thissection \[amending this section, section 3241 of this title, and section 16136 of Title 10, Armed Forces\] shall take effect as of October 1, 1994."
 
 #### Effective Date of 1989 Amendment
 
@@ -132,7 +132,7 @@ Pub. L. 101–237, title IV, §422(c), Dec. 18, 1989, 103 Stat. 2090, provided t
 
 "(2) Not later than January 31, 1994, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report on the evaluation required by paragraph (1). Such report shall include—
 
-&emsp;"(A) information, separately as to payments made under chapter 30 of title 38, United States Code, andpayments made under chapter 106 of title 10, United States Code, regarding—
+&emsp;"(A) information, separately as to payments made under chapter 30 of title 38, United States Code, and payments made under chapter 106 of title 10, United States Code, regarding—
 
 &emsp;&emsp;"(i) the number of recipients paid educational assistance allowances for flight training;
 

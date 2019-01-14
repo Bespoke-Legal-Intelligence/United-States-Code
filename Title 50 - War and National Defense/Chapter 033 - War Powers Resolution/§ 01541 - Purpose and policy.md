@@ -28,7 +28,7 @@ Pub. L. 111–84, div. A, title XII, §1227, Oct. 28, 2009, 123 Stat. 2525, as a
 
 "(a)
 
-Report Required.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], or December 31, 2010, whichever occurs later, and every 180 days thereafter, the Secretary of Defense shall submitto the appropriate congressional committees a report concerning the responsible redeployment of United States Armed Forces from Iraq in accordance with the policy announced by the President on February 27, 2009, and the Agreement Between the United States of America and the Republic of Iraq On the Withdrawal of United States Forces From Iraq and the Organization of Their Activities During Their Temporary Presence in Iraq.
+Report Required.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], or December 31, 2010, whichever occurs later, and every 180 days thereafter, the Secretary of Defense shall submit to the appropriate congressional committees a report concerning the responsible redeployment of United States Armed Forces from Iraq in accordance with the policy announced by the President on February 27, 2009, and the Agreement Between the United States of America and the Republic of Iraq On the Withdrawal of United States Forces From Iraq and the Organization of Their Activities During Their Temporary Presence in Iraq.
 
 "(b)
 
@@ -124,7 +124,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 "Whereas the United States is determined to prosecute the war on terrorism and Iraq's ongoing support for international terrorist groups combined with its development of weapons of mass destruction in direct violation of its obligations under the 1991 cease-fire and other United Nations Security Council resolutions make clear that it is in the national security interests of the United States and in furtherance of the war on terrorism that all relevant United Nations Security Council resolutions be enforced, including through the use of force if necessary;
 
-"Whereas Congress has taken steps to pursue vigorously the war on terrorism through the provision of authorities and funding requested by the President to take the necessary actions against international terrorists and terrorist organizations, including those nations, organizations, or persons who planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such persons or organizations;
+"Whereas Congress has taken steps to pursue vigorously the war on terrorism through the provision of authorities and funding requested by the President to take the necessary actions against international terrorists and terrorist organizations, including those nations, organizations, or persons who planned, authorized, committed, or aided the terrorist attacksthat occurred on September 11, 2001, or harbored such persons or organizations;
 
 "Whereas the President and Congress are determined to continue to take all appropriate actions against international terrorists and terrorist organizations, including those nations, organizations, or persons who planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such persons or organizations;
 
@@ -394,7 +394,7 @@ Pub. L. 102–1, Jan. 14, 1991, 105 Stat. 3, as amended by Pub. L. 106–113, di
 
 "Whereas the Government of Iraq without provocation invaded and occupied the territory of Kuwait on August 2, 1990;
 
-"Whereas both the House of Representatives (in H.J. Res. 658 of the 101st Congress) and the Senate (in S. Con. Res. 147 of the 101st Congress) have condemned Iraq's invasion of Kuwait and declared their support for international action to reverse Iraq's aggression;
+"Whereas both the House of Representatives (in H.J. Res. 658 of the 101st Congress) and the Senate (in S.Con. Res. 147 of the 101st Congress) have condemned Iraq's invasion of Kuwait and declared their support for international action to reverse Iraq's aggression;
 
 "Whereas, Iraq's conventional, chemical, biological, and nuclear weapons and ballistic missile programs and its demonstrated willingness to use weapons of mass destruction pose a grave threat to world peace;
 
@@ -510,7 +510,7 @@ Sec. 2. (a) The Congress finds that—
 
 "
 
-Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon,subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing the Multinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protective measures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
+Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon, subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing the Multinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protective measures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
 
 #### "reports to the congress
 
@@ -570,11 +570,11 @@ Sec. 8. (a) Any joint resolution or bill introduced to amend or repeal this Act 
 
 "(c) Such a joint resolution or bill passed by one House shall be referred to the committee of the other House named in subsection (a) and shall be reported out by such committee together with its recommendations within fifteen calendar days and shall thereupon become the pending business of such House and shall be voted upon within three calendar days, unless such House shall otherwise determine by the yeas and nays.
 
-"(d) In the case of any disagreement between the two Houses of Congress with respect to a joint resolution or bill passed by both Houses, conferees shall be promptly appointed and the committee of conference shall make and file a report with respect to such joint resolution within six calendar days after the legislation is referred to the committee of conference. Notwithstanding any rule in either House concerning the printing of conference reports in the Record or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed. In the event the conferees are unable to agree within forty-eight hours, they shall report back to their respective Houses in disagreement."
+"(d) In the case of any disagreement between the two Houses of Congress with respect to a joint resolution or bill passed by both Houses, conferees shall be promptly appointed and the committee of conference shall makeand file a report with respect to such joint resolution within six calendar days after the legislation is referred to the committee of conference. Notwithstanding any rule in either House concerning the printing of conference reports in the Record or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed. In the event the conferees are unable to agree within forty-eight hours, they shall report back to their respective Houses in disagreement."
 
 #### Adherence to War Powers Resolution
 
-Pub. L. 96–342, title X, §1008, Sept. 8, 1980, 94 Stat. 1122, provided that: "Whereas, the National Command Authority must have the capacity to carry out any military mission which is essential to the national security of the United States having in its hands in the Rapid Deployment Force an increased capability to extend the reach of our military power in an expedited manner; and whereas, without the significant safeguard of the War Powers Resolution (Public Law 93–148) \[this chapter\], United States foreign and defense policies could be subject to misinterpretation; it is thereforethe sense of the Congress that the provisions of the War Powers Resolution be strictly adhered to and that the congressional consultation process specified by such Resolution be utilized strictly according to the terms of the War Powers Resolution."
+Pub. L. 96–342, title X, §1008, Sept. 8, 1980, 94 Stat. 1122, provided that: "Whereas, the National Command Authority must have the capacity to carry out any military mission which is essential to the national security of the United States having in its hands in the Rapid Deployment Force an increased capability to extend the reach of our military power in an expedited manner; and whereas, without the significant safeguard of the War Powers Resolution (Public Law 93–148) \[this chapter\], United States foreign and defense policies could be subject to misinterpretation; it is therefore the sense of the Congress that the provisions of the War Powers Resolution be strictly adhered to and that the congressional consultation process specified by such Resolution be utilized strictly according to the terms of the War Powers Resolution."
 
 #### Delegation of Certain Reporting Authority
 

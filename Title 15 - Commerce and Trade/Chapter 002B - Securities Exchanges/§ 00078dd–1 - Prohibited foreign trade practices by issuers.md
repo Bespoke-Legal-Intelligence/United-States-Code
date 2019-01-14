@@ -36,7 +36,7 @@ Subsections (a) and (g) shall not apply to any facilitating or expediting paymen
 
 It shall be an affirmative defense to actions under subsection (a) or (g) that—
 
-&emsp;(1) the payment, gift, offer, or promise of anything of value that was made, was lawful under the written laws and regulations of theforeign official's, political party's, party official's, or candidate's country; or
+&emsp;(1) the payment, gift, offer, or promise of anything of value that was made, was lawful under the written laws and regulations of the foreign official's, political party's, party official's, or candidate's country; or
 
 &emsp;(2) the payment, gift, offer, or promise of anything of value that was made, was a reasonable and bona fide expenditure, such as travel and lodging expenses, incurred by or on behalf of a foreign official, party, party official, or candidate and was directly related to—
 

@@ -36,7 +36,7 @@
 
 #### (1) Determination
 
-&emsp;The Council, on a nondelegable basis and by a vote of not fewer than 2/3 of the voting members then serving, including an affirmative vote by the Chairperson, may determine thata foreign nonbank financial company shall be supervised by the Board of Governors and shall be subject to prudential standards, in accordance with this subchapter, if the Council determines that material financial distress at the foreign nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the foreign nonbank financial company, could pose a threat to the financial stability of the United States.
+&emsp;The Council, on a nondelegable basis and by a vote of not fewer than 2/3 of the voting members then serving, including an affirmative vote by the Chairperson, may determine that a foreign nonbank financial company shall be supervised by the Board of Governors and shall be subject to prudential standards, in accordance with this subchapter, if the Council determines that material financial distress at the foreign nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the foreign nonbank financial company, could pose a threat to the financial stability of the United States.
 
 #### (2) Considerations
 
@@ -158,7 +158,7 @@ The Council shall—
 
 #### (g) Consultation
 
-The Council shall consult with the primary financial regulatory agency, if any, for each nonbank financial company or subsidiary of a nonbank financial company that is being considered for supervision by the Board of Governors under this section before the Council makes anyfinal determination with respect to such nonbank financial company under subsection (a), (b), or (c).
+The Council shall consult with the primary financial regulatory agency, if any, for each nonbank financial company or subsidiary of a nonbank financial company that is being considered for supervision by the Board of Governors under this section before the Council makes any final determination with respect to such nonbank financial company under subsection (a), (b), or (c).
 
 #### (h) Judicial review
 
@@ -174,5 +174,5 @@ In exercising its duties under this subchapter with respect to foreign nonbank f
 
 This subchapter, referred to in subsecs. (a)(1), (b)(1), (c)(1), (3), (6), (e)(1), and (i), was in the original "this title", meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-This Act, referred to in subsec. (c)(6), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This Act, referred to in subsec. (c)(6), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For completeclassification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 

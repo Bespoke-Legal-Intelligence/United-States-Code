@@ -10,7 +10,7 @@ There is authorized to be appropriated to the Environmental Dispute Resolution F
 
 &emsp;(1) $3,000,000 shall be used to pay operations costs (including not more than $1,000 for official reception and representation expenses); and
 
-&emsp;(2) $1,000,000 shall be used for grants or other appropriate arrangements to pay the costs of services provided in a neutral manner relatingto, and to support the participation of non-Federal entities (such as State and local governments, tribal governments, nongovernmental organizations, and individuals) in, environmental conflict resolution proceedings involving Federal agencies.
+&emsp;(2) $1,000,000 shall be used for grants or other appropriate arrangements to pay the costs of services provided in a neutral manner relating to, and to support the participation of non-Federal entities (such as State and local governments, tribal governments, nongovernmental organizations, and individuals) in, environmental conflict resolution proceedings involving Federal agencies.
 
 #### (c) Training of professionals in health care and public policy
 

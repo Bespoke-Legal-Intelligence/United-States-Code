@@ -96,7 +96,7 @@ Subsecs. (d), (e). Pub. L. 95–630, §§502(b), 504(c), struck out subsec. (d),
 
 Subsec. (c)(3). Pub. L. 92–221, §2, added par. (3).
 
-Subsec. (d). Pub. L. 92–221, §1(b), substituted provisions allowing, in certain cases, a two–year period to meet the requirements for insurance following the disapproval of an application for insurance by a Federal credit union, for provisions mandating the suspension or revocation of the charter of a Federal credit union unless the credit union met the requirements for insurance and became an insured credit union within one year of the rejection of its application for insurance.
+Subsec. (d). Pub. L. 92–221, §1(b), substituted provisions allowing, in certain cases, a two–year period to meet the requirements for insurance following the disapproval of an application for insurance by a Federal credit union, for provisions mandating the suspensionor revocation of the charter of a Federal credit union unless the credit union met the requirements for insurance and became an insured credit union within one year of the rejection of its application for insurance.
 
 #### Effective Date of 1996 Amendment
 

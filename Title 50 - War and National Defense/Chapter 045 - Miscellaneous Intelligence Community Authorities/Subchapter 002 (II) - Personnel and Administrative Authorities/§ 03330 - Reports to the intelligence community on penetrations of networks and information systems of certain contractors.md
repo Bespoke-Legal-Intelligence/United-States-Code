@@ -36,7 +36,7 @@ The Director of National Intelligence shall, in consultation with appropriate of
 
 &emsp;&emsp;(A) with the approval of the contractor providing such information;
 
-&emsp;&emsp;(B) to the congressional intelligence committees or the Subcommittees on Defense of the Committees on Appropriations of theHouse of Representatives and the Senate for such committees and such Subcommittees to perform oversight; or
+&emsp;&emsp;(B) to the congressional intelligence committees or the Subcommittees on Defense of the Committees on Appropriations of the House of Representatives and the Senate for such committees and such Subcommittees to perform oversight; or
 
 &emsp;&emsp;(C) to law enforcement agencies to investigate a penetration reported under this section.
 

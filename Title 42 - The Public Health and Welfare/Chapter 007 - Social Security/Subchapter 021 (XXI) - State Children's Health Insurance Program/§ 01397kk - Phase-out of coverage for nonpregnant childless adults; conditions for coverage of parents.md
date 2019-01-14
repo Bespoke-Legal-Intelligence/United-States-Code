@@ -50,7 +50,7 @@
 
 &emsp;&emsp;Notwithstanding section 1315 of this title or any other provision of this subchapter, except as provided in this subsection—
 
-&emsp;&emsp;&emsp;(i) the Secretary shall not on or after February 4, 2009, approve or renew a waiver, experimental, pilot, or demonstration project that would allow funds made available under this subchapter to be used to provide child health assistance or other health benefits coverage to a parent of a targeted low-income child; and
+&emsp;&emsp;&emsp;(i) the Secretary shall not on or after February 4, 2009, approve or renew a waiver, experimental, pilot, or demonstrationproject that would allow funds made available under this subchapter to be used to provide child health assistance or other health benefits coverage to a parent of a targeted low-income child; and
 
 &emsp;&emsp;&emsp;(ii) notwithstanding the terms and conditions of an applicable existing waiver, the provisions of paragraphs (2) and (3) shall apply for purposes of any fiscal year beginning on or after October 1, 2011, in determining the period to which the waiver applies, the individuals eligible to be covered by the waiver, and the amount of the Federal payment under this subchapter.
 
@@ -106,7 +106,7 @@
 
 #### (vi) No increase in income eligibility level for parents
 
-&emsp;&emsp;&emsp;No payments shall be made to a State from the amount set aside under clause (i) for a fiscal year for expenditures for providing child health assistance or health benefits coverage to a parent of a targeted low-income child whose family income exceeds the income eligibility level applied under the applicable existing waiver to parents of targeted low-income children on February 4, 2009.
+&emsp;&emsp;&emsp;No payments shall be made to a State from the amount set aside under clause (i) for a fiscal year for expenditures for providing child health assistance or health benefits coverage to a parent of a targetedlow-income child whose family income exceeds the income eligibility level applied under the applicable existing waiver to parents of targeted low-income children on February 4, 2009.
 
 #### (3) Outreach or coverage benchmarks
 

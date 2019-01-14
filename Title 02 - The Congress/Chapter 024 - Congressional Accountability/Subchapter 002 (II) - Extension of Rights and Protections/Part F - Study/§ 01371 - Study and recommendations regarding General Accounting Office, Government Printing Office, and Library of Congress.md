@@ -58,7 +58,7 @@ Not later than December 31, 1996—
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsec. (b)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252, asamended. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252, as amended. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 The Age Discrimination in Employment Act of 1967, referred to in subsec. (b)(2), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
@@ -86,7 +86,7 @@ Subsec. (d)(1). Pub. L. 104–53, §309(b), substituted "Board" for "Administrat
 
 #### Change of Name
 
-General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
+General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271,set out as a note under section 702 of Title 31, Money and Finance.
 
 Government Printing Office redesignated Government Publishing Office. See section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 

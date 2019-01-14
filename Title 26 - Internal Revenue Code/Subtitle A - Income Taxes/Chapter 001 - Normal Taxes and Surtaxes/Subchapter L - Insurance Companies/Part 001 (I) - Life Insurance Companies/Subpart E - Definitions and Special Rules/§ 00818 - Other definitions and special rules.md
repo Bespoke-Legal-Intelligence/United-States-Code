@@ -86,7 +86,7 @@ For purposes of this part, the term "insurance or annuity contract" includes any
 
 #### (A) In general
 
-&emsp;&emsp;On or before September 15, 1985, any life insurance company may elect to treat items described in paragraph (1) as properly apportioned or allocated among items of gross income to the extent (and in the manner) prescribed in regulations.
+&emsp;&emsp;On or before September 15, 1985, any life insurance company may elect to treat itemsdescribed in paragraph (1) as properly apportioned or allocated among items of gross income to the extent (and in the manner) prescribed in regulations.
 
 #### (B) Election irrevocable
 

@@ -62,7 +62,7 @@ A corporation, trust, or association shall not be considered a real estate inves
 
 &emsp;&emsp;(F) income and gain derived from foreclosure property (as defined in subsection (e));
 
-&emsp;&emsp;(G) amounts (other than amounts the determination of which depends in whole or in part on the income or profits of any person) received or accrued as consideration for entering into agreements (i) to make loans secured by mortgages on real property or on interests in real property or (ii) to purchase or lease real property (including interests in real property and interests in mortgages on real property);
+&emsp;&emsp;(G) amounts (other than amounts the determination of which depends in whole or in part on the income or profits of any person) received or accrued as consideration for entering into agreements (i) to make loans secured by mortgages on real property or on interests in real property or (ii) to purchase or lease real property (including interests inreal property and interests in mortgages on real property);
 
 &emsp;&emsp;(H) gain from the sale or other disposition of a real estate asset (other than a nonqualified publicly offered REIT debt instrument) which is not a prohibited transaction solely by reason of section 857(b)(6); and
 
@@ -118,7 +118,7 @@ New capital.—The term "new capital" means any amount received by the real esta
 
 &emsp;&emsp;&emsp;&emsp;(II) in a public offering of debt obligations of such trust which have maturities of at least 5 years.
 
-&emsp;&emsp;(E) A regular or residual interest in a REMIC shall be treated as a real estate asset, and any amount includible in gross income with respect to such an interest shall be treated as interest on an obligation secured by a mortgage on real property; except that, if less than 95 percent of the assets of such REMIC are real estate assets (determined as if the real estate investment trust held such assets), such real estate investment trust shall be treated as holding directly (and as receiving directly) its proportionate share of the assets and income of the REMIC. For purposes of determining whether any interest in a REMIC qualifies under the preceding sentence, any interest held by such REMIC in another REMIC shall be treated as a real estate asset under principles similar to the principles of the preceding sentence, except that, if such REMIC's are part of a tiered structure, they shall be treated as one REMIC for purposes of this subparagraph.
+&emsp;&emsp;(E) A regular or residual interest in a REMIC shall be treated as a real estate asset, and any amount includible in gross income with respect to such an interest shall be treated as interest on an obligation secured by a mortgage on real property; except that, if less than 95 percent of the assets of such REMIC are real estate assets (determined as if the real estate investment trust held such assets), such real estate investment trust shall be treated as holding directly (and as receiving directly) its proportionate share of the assets and income of theREMIC. For purposes of determining whether any interest in a REMIC qualifies under the preceding sentence, any interest held by such REMIC in another REMIC shall be treated as a real estate asset under principles similar to the principles of the preceding sentence, except that, if such REMIC's are part of a tiered structure, they shall be treated as one REMIC for purposes of this subparagraph.
 
 &emsp;&emsp;(F) All other terms shall have the same meaning as when used in the Investment Company Act of 1940, as amended (15 U.S.C. 80a–1 and following).
 
@@ -212,7 +212,7 @@ Rules of application for failure to satisfy paragraph (4).—
 
 &emsp;&emsp;(A)
 
-In general.—A corporation, trust, or association that fails to meet the requirements of paragraph (4) (other than a failure to meet the requirements of paragraph (4)(B)(iii) which is described in subparagraph (B)(i) of this paragraph) for a particular quarter shall nevertheless be considered to have satisfied the requirements of such paragraph for such quarter if—
+In general.—A corporation, trust, or association that fails to meet the requirements of paragraph (4) (other than a failure to meet the requirements of paragraph (4)(B)(iv) which is described in subparagraph (B)(i) of this paragraph) for a particular quarter shall nevertheless be considered to have satisfied the requirements of such paragraph for such quarter if—
 
 &emsp;&emsp;&emsp;(i) following the corporation, trust, or association's identification of the failure to satisfy the requirements of such paragraph for a particular quarter, a description of each asset that causes the corporation, trust, or association to fail to satisfy the requirements of such paragraph at the close of such quarter of any taxable year is set forth in a schedule for such quarter filed in accordance with regulations prescribed by the Secretary,
 
@@ -224,7 +224,7 @@ In general.—A corporation, trust, or association that fails to meet the requir
 
 &emsp;&emsp;(B)
 
-Rule for certain de minimis failures.—A corporation, trust, or association that fails to meet the requirements of paragraph (4)(B)(iii) for a particular quarter shall nevertheless be considered to have satisfied the requirements of such paragraph for such quarter if—
+Rule for certain de minimis failures.—A corporation, trust, or association that fails to meet the requirements of paragraph (4)(B)(iv) for a particular quarter shall nevertheless be considered to have satisfied the requirements of such paragraph for such quarter if—
 
 &emsp;&emsp;&emsp;(i) such failure is due to the ownership of assets the total value of which does not exceed the lesser of—
 
@@ -258,7 +258,7 @@ Administrative provisions.—For purposes of subtitle F, the taxes imposed by th
 
 &emsp;(8)
 
-Election after tax-free reorganization.—If a corporation was a distributing corporation or a controlled corporation (other than a controlled corporation with respect to a distribution described in section 355(h)(2)(A)) with respect to any distribution to which section 355 (or so much of section 356 as relates to section 355) applied, such corporation (and any successor corporation) shall not be eligible to make any election under paragraph (1) for any taxable year beginning before the end of the 10-year period beginning on the date of such distribution.
+Election after tax-free reorganization.—If a corporation was a distributing corporation or a controlled corporation (other than a controlled corporation with respect to a distribution described in section 355(h)(2)(A)) with respect to any distribution to which section 355 (or so much of section 356 as relates tosection 355) applied, such corporation (and any successor corporation) shall not be eligible to make any election under paragraph (1) for any taxable year beginning before the end of the 10-year period beginning on the date of such distribution.
 
 &emsp;(9)
 
@@ -266,17 +266,49 @@ Special rules for certain personal property which is ancillary to real property.
 
 &emsp;&emsp;(A)
 
-Certain personal property leased in connection with real property.—Personal property shall be treated as a real estate asset for purposes of paragraph (4)(A) to the extent that rents attributable to such personal property are treated as rents from real property under subsection (d)(1)(C).
+Certain personal property leased in connection with real property.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Personal property shall be treated as a real estate asset for purposes of paragraph (4)(A) to the extent that rents attributable to such personal property are treated as rents from real property under subsection (d)(1)(C).
+
+&emsp;&emsp;&emsp;(ii)
+
+Treatment of gain on disposition.—If—
+
+&emsp;&emsp;&emsp;&emsp;(I) personal property is leased under, or in connection with, a lease of real property, for a period of not less than 1 year, and rents attributable to such personal property are treated as rents from real property under subsection (d)(1)(C),
+
+&emsp;&emsp;&emsp;&emsp;(II) any portion of such personal property and any portion of such real property are sold, or otherwise disposed of, in a single disposition (or contemporaneously in separate dispositions), and
+
+&emsp;&emsp;&emsp;&emsp;(III) the fair market value of the personal property so sold or contemporaneously disposed of (determined at the time of disposition) does not exceed 15 percent of the total fair market value of all of the personal and real property so sold or contemporaneously disposed of (determined at the time of disposition),
+
+&emsp;&emsp;&nbsp;any gain from such dispositions shall be treated for purposes of paragraphs (2)(H) and (3)(H) as gain from the disposition of a real estate asset.
 
 &emsp;&emsp;(B)
 
-Certain personal property mortgaged in connection with real property.—In the case of an obligation secured by a mortgage on both real property and personal property, if the fair market value of such personal property does not exceed 15 percent of the total fair market value of all such property, such obligation shall be treated—
+Certain personal property mortgaged in connection with real property.—
 
-&emsp;&emsp;&emsp;(i) for purposes of paragraph (3)(B), as an obligation described therein, and
+&emsp;&emsp;&emsp;(i)
 
-&emsp;&emsp;&emsp;(ii) for purposes of paragraph (4)(A), as a real estate asset.
+In general.—In the case of an obligation secured by a mortgage on both real property and personal property, if the fair market value of such personal property does not exceed 15 percent of the total fair market value of all such property, such obligation shall be treated—
 
-> &emsp;&emsp;For purposes of the preceding sentence, the fair market value of all such property shall be determined in the same manner as the fair market value of real property is determined for purposes of apportioning interest income between real property and personal property under paragraph (3)(B).
+&emsp;&emsp;&emsp;&emsp;(I) for purposes of paragraph (3)(B), as an obligation described therein,
+
+&emsp;&emsp;&emsp;&emsp;(II) for purposes of paragraph (4)(A), as a real estate asset, and
+
+&emsp;&emsp;&emsp;&emsp;(III) for purposes of paragraphs (2)(D) and (3)(C), as a mortgage on real property.
+
+&emsp;&emsp;&emsp;(ii)
+
+Determination of fair market value.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+In general.—Except as provided in subclause (II), the fair market value of all such property shall be determined for purposes of clause (i) in the same manner as the fair market value of real property is determined for purposes of apportioning interest income between real property and personal property under paragraph (3)(B).
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Gain on disposition.—For purposes of applying clause (i)(III), fair market value shall be determined at the time of sale or other disposition.
 
 &emsp;(10)
 
@@ -306,7 +338,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 &emsp;&emsp;&emsp;(i) in the case of any person which is a corporation, stock of such person possessing 10 percent or more of the total combined voting power of all classes of stock entitled to vote, or 10 percent or more of the total value of shares of all classes of stock of such person; or
 
-&emsp;&emsp;&emsp;(ii) in the case of any person which is not a corporation, an interest of 10 percent or more in the assets or net profits of such person; and
+&emsp;&emsp;&emsp;(ii) in the case of any person which is not a corporation, an interest of 10 percent ormore in the assets or net profits of such person; and
 
 &emsp;&emsp;(C) any impermissible tenant service income (as defined in paragraph (7)).
 
@@ -374,7 +406,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 #### (D) Amount attributable to impermissible services
 
-&emsp;&emsp;For purposes of subparagraph (A), the amount treated as received for any service\(or management or operation) shall not be less than 150 percent of the direct cost of the trust in furnishing or rendering the service (or providing the management or operation).
+&emsp;&emsp;For purposes of subparagraph (A), the amount treated as received for any service (or management or operation) shall not be less than 150 percent of the direct cost of the trust in furnishing or rendering the service (or providing the management or operation).
 
 #### (E) Coordination with limitations
 
@@ -436,7 +468,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 #### (A) In general
 
-&emsp;&emsp;The term "eligible independent contractor" means, with respect to any qualified lodging facility or qualified health care property (as defined in subsection (e)(6)(D)(i)), any independent contractor if, at the time such contractor enters into a management agreement or other similar service contract with the taxable REIT subsidiary to operate such qualified lodging facility or qualified health care property, such contractor (or any related person) is actively engaged in the trade or business of operating qualified lodging facilities or qualified health care properties, respectively, for any person who is not a related person withrespect to the real estate investment trust or the taxable REIT subsidiary.
+&emsp;&emsp;The term "eligible independent contractor" means, with respect to any qualified lodging facility or qualified health care property (as defined in subsection (e)(6)(D)(i)), any independent contractor if, at the time such contractor enters into a management agreement or other similar service contract with the taxable REIT subsidiary to operate such qualified lodging facility or qualified health care property, such contractor (or any related person) is actively engaged in the trade or business of operating qualified lodging facilities or qualified health care properties, respectively, for any person who is not a related person with respect to the real estate investment trust or the taxable REIT subsidiary.
 
 #### (B) Special rules
 
@@ -804,7 +836,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) any corporation which directly or indirectly operates or manages a lodging facility or a health care facility, and
 
-&emsp;&emsp;(B) any corporation which directly or indirectly provides to any other person (under afranchise, license, or otherwise) rights to any brand name under which any lodging facility or health care facility is operated.
+&emsp;&emsp;(B) any corporation which directly or indirectly provides to any other person (under a franchise, license, or otherwise) rights to any brand name under which any lodging facility or health care facility is operated.
 
 > &emsp;Subparagraph (B) shall not apply to rights provided to an eligible independent contractor to operate or manage a lodging facility or a health care facility if such rights are held by such corporation as a franchisee, licensee, or in a similar capacity and such lodging facility or health care facility is either owned by such corporation or is leased to such corporation from the real estate investment trust.
 
@@ -824,7 +856,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;In applying subclause (III) of subsection (c)(4)(B)(iii), except as otherwise determined by the Secretary in regulations, the following shall not be considered securities held by the trust:
+&emsp;In applying subclause (III) of subsection (c)(4)(B)(iv), except as otherwise determined by the Secretary in regulations, the following shall not be considered securities held by the trust:
 
 &emsp;&emsp;(A) Straight debt securities of an issuer which meet the requirements of paragraph (2).
 
@@ -870,7 +902,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of applying subclause (III) of subsection (c)(4)(B)(iii)—
+&emsp;&emsp;For purposes of applying subclause (III) of subsection (c)(4)(B)(iv)—
 
 &emsp;&emsp;&emsp;(i) a trust's interest as a partner in a partnership (as defined in section 7701(a)(2)) shall not be considered a security, and
 
@@ -880,13 +912,13 @@ For purposes of this part—
 
 &emsp;&emsp;For purposes of subparagraph (A), with respect to any taxable year beginning after the date of the enactment of this subparagraph—
 
-&emsp;&emsp;&emsp;(i) the trust's interest in the partnership assets shall be the trust's proportionate interest in any securities issued by the partnership (determined without regard to subparagraph (A)(i) and paragraph (4), but not including securities described in paragraph (1)), and
+&emsp;&emsp;&emsp;(i) the trust's interest in the partnership assets shall be the trust's proportionateinterest in any securities issued by the partnership (determined without regard to subparagraph (A)(i) and paragraph (4), but not including securities described in paragraph (1)), and
 
 &emsp;&emsp;&emsp;(ii) the value of any debt instrument shall be the adjusted issue price thereof, as defined in section 1272(a)(4).
 
 #### (4) Certain partnership debt instruments not treated as a security
 
-&emsp;For purposes of applying subclause (III) of subsection (c)(4)(B)(iii)—
+&emsp;For purposes of applying subclause (III) of subsection (c)(4)(B)(iv)—
 
 &emsp;&emsp;(A) any debt instrument issued by a partnership and not described in paragraph (1) shall not be considered a security to the extent of the trust's interest as a partner in the partnership, and
 
@@ -894,25 +926,7 @@ For purposes of this part—
 
 #### (5) Secretarial guidance
 
-&emsp;The Secretary is authorized to provide guidance (including through the issuance of a written determination, as defined in section 6110(b)) that an arrangement shall not be considered a security held by the trust for purposes of applying subclause (III) of subsection (c)(4)(B)(iii) notwithstanding that such arrangement otherwise could be considered a security under subparagraph (F) of subsection (c)(5).
-
-#### (6) Transition rule
-
-#### (A) In general
-
-&emsp;&emsp;Notwithstanding paragraph (2)(C), securities held by a trust shall not be considered securities held by the trust for purposes of subsection (c)(4)(B)(iii)(III) during any period beginning on or before October 22, 2004, if such securities—
-
-&emsp;&emsp;&emsp;(i) are held by such trust continuously during such period, and
-
-&emsp;&emsp;&emsp;(ii) would not be taken into account for purposes of such subsection by reason of paragraph (7)(C) of subsection (c) (as in effect on October 22, 2004) if the amendments made by section 243 of the American Jobs Creation Act of 2004 had never been enacted.
-
-#### (B) Rule not to apply to securities held after maturity date
-
-&emsp;&emsp;Subparagraph (A) shall not apply with respect to any security after the later of October 22, 2004, or the latest maturity date under the contract (as in effect on October 22, 2004) taking into account any renewal or extension permitted under the contract if such renewal or extension does not significantly modify any other terms of the contract.
-
-#### (C) Successors
-
-&emsp;&emsp;If the successor of a trust to which this paragraph applies acquires securities in a transaction to which section 381 applies, such trusts shall be treated as a single entity for purposes of determining the holding period of such securities under subparagraph (A).
+&emsp;The Secretary is authorized to provide guidance (including through the issuance of a written determination, as defined in section 6110(b)) that an arrangement shall not be considered a security held by the trust for purposes of applying subclause (III) of subsection (c)(4)(B)(iv) notwithstanding that such arrangement otherwise could be considered a security under subparagraph (F) of subsection (c)(5).
 
 #### (n) Rules regarding foreign currency transactions
 
@@ -964,7 +978,7 @@ For purposes of this part—
 
 &emsp;Notwithstanding this subsection or any other provision of this part, any section 988 gain derived by a corporation, trust, or association from dealing, or engaging in substantial and regular trading, in securities (as defined in section 475(c)(2)) shall constitute gross income which does not qualify under paragraph (2) or (3) of subsection (c). This paragraph shall not apply to income which does not constitute gross income by reason of subsection (c)(5)(G).
 
-(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1004; amended Pub. L. 88–272, title II, §225(k)(4), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–554, §4(b)(4), Aug. 31, 1964, 78 Stat. 763; Pub. L. 93–625, §6(a), (b), (d)(1), Jan. 3, 1975, 88 Stat. 2112–2114; Pub. L. 94–455, title XIV, §1402(b)(1)(O), (2), title XVI, §§1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746, 1748–1753, 1783, 1834; Pub. L. 95–600, title III, §363(a), (c), title VII, §701(t)(2), Nov. 6, 1978, 92 Stat. 2852, 2853, 2912; Pub. L. 98–369, div. A, title X, §1001(b)(12), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §§661(a), 662, 663, 671(b)(1), title IX, §901(d)(4)(E), Oct. 22, 1986, 100 Stat. 2299, 2300, 2302, 2317, 2380; Pub. L. 100–647, title I, §1006(p)(1), (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, 102 Stat. 3416, 3417, 3422; Pub. L. 103–66, title XIII, §13149(a), Aug. 10, 1993, 107 Stat. 445; Pub. L. 104–188, title I, §§1621(b)(5), 1704(t)(35), Aug. 20, 1996, 110 Stat. 1867, 1889; Pub. L. 105–34, title XII, §§1251(b)–1253, 1255(a), (b)(1), 1257, 1258, 1261, 1262, Aug. 5, 1997, 111 Stat. 1031–1036; Pub. L. 106–170, title V, §§532(c)(2)(H)–(K), 541–542(b)(3)(A)(i), (B)(i), 543, 551(a), 561(a), Dec. 17, 1999, 113 Stat. 1930, 1940–1943, 1948, 1949; Pub. L. 106–554, §1(a)(7) \[title III, §319(9), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title II, §243(a), (b), (d), (f)(1)–(3), title VIII, §835(b)(4), Oct. 22, 2004, 118 Stat. 1439, 1441–1444, 1593; Pub. L. 109–135, title IV, §§403(d)(1), (2), 412(hh), Dec. 21, 2005, 119 Stat. 2620, 2622, 2639; Pub. L. 110–172, §§9(b), 11(a)(18), Dec. 29, 2007, 121 Stat. 2484, 2486; Pub. L. 110–234, title XV, §§15312(a), (b), 15313(a), (b), 15314(a), May 22, 2008, 122 Stat. 1503, 1504; Pub. L. 110–246, §4(a), title XV, §§15312(a), (b), 15313(a), (b), 15314(a), June 18, 2008, 122 Stat. 1664, 2265, 2266; Pub. L. 110–289, div. C, title II, §§3031, 3032, 3041, 3061, July 30, 2008, 122 Stat. 2897, 2899–2901; Pub. L. 114–113, div. Q, title III, §§311(b), 312(a), 317(a), (b), 318(a), 319(a), (b), 321(a)(3), Dec. 18, 2015, 129 Stat. 3090, 3091, 3094–3097.)
+(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1004; amended Pub. L. 88–272, title II, §225(k)(4), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–554, §4(b)(4), Aug. 31, 1964, 78 Stat. 763; Pub. L. 93–625, §6(a), (b), (d)(1), Jan. 3, 1975, 88 Stat. 2112–2114; Pub. L. 94–455, title XIV, §1402(b)(1)(O), (2), title XVI, §§1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746, 1748–1753, 1783, 1834; Pub. L. 95–600, title III, §363(a), (c), title VII, §701(t)(2), Nov. 6, 1978, 92 Stat. 2852, 2853, 2912; Pub. L. 98–369, div. A, title X, §1001(b)(12), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §§661(a), 662, 663, 671(b)(1), title IX, §901(d)(4)(E), Oct. 22, 1986, 100 Stat. 2299, 2300, 2302, 2317, 2380; Pub. L. 100–647, title I, §1006(p)(1), (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, 102 Stat. 3416, 3417, 3422; Pub. L. 103–66, title XIII, §13149(a), Aug. 10, 1993, 107 Stat. 445; Pub. L. 104–188, title I, §§1621(b)(5), 1704(t)(35), Aug. 20, 1996, 110 Stat. 1867, 1889; Pub. L. 105–34, title XII, §§1251(b)–1253, 1255(a), (b)(1), 1257, 1258, 1261, 1262, Aug. 5, 1997, 111 Stat. 1031–1036; Pub. L. 106–170, title V, §§532(c)(2)(H)–(K), 541–542(b)(3)(A)(i), (B)(i), 543, 551(a), 561(a), Dec. 17, 1999, 113 Stat. 1930, 1940–1943, 1948, 1949; Pub. L. 106–554, §1(a)(7) \[titleIII, §319(9), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title II, §243(a), (b), (d), (f)(1)–(3), title VIII, §835(b)(4), Oct. 22, 2004, 118 Stat. 1439, 1441–1444, 1593; Pub. L. 109–135, title IV, §§403(d)(1), (2), 412(hh), Dec. 21, 2005, 119 Stat. 2620, 2622, 2639; Pub. L. 110–172, §§9(b), 11(a)(18), Dec. 29, 2007, 121 Stat. 2484, 2486; Pub. L. 110–234, title XV, §§15312(a), (b), 15313(a), (b), 15314(a), May 22, 2008, 122 Stat. 1503, 1504; Pub. L. 110–246, §4(a), title XV, §§15312(a), (b), 15313(a), (b), 15314(a), June 18, 2008, 122 Stat. 1664, 2265, 2266; Pub. L. 110–289, div. C, title II, §§3031, 3032, 3041, 3061, July 30, 2008, 122 Stat. 2897, 2899–2901; Pub. L. 114–113, div. Q, title III, §§311(b), 312(a), 317(a), (b), 318(a), 319(a), (b), 321(a)(3), Dec. 18, 2015, 129 Stat. 3090, 3091, 3094–3097; Pub. L. 115–141, div. U, title I, §101(n), title IV, §401(a)(146), (147), (b)(28), Mar. 23, 2018, 132 Stat. 1165, 1191, 1203.)
 
 #### References in Text
 
@@ -978,13 +992,23 @@ The Social Security Act, referred to in subsec. (e)(6)(D)(ii), is act Aug. 14, 1
 
 The date of the enactment of this subparagraph, referred to in subsec. (m)(3)(B), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
-Section 243 of the American Jobs Creation Act of 2004, referred to in subsec. (m)(6)(A)(ii), is section 243 of Pub. L. 108–357, which amended this section and sections 857 and 860 of this title and enacted provisions set out as a note under this section.
-
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(7)(A), (B). Pub. L. 115–141, §401(a)(146), in introductory provisions, substituted "paragraph (4)(B)(iv)" for "paragraph (4)(B)(iii)".
+
+Subsec. (c)(9)(A). Pub. L. 115–141, §101(n)(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+Subsec. (c)(9)(B). Pub. L. 115–141, §101(n)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to certain personal property mortgaged in connection with real property.
+
+Subsec. (m)(1), (3)(A), (4). Pub. L. 115–141, §401(a)(147), in introductory provisions, substituted "subsection (c)(4)(B)(iv)" for "subsection (c)(4)(B)(iii)".
+
+Subsec. (m)(5). Pub. L. 115–141, §401(a)(147), substituted "subsection (c)(4)(B)(iv)" for "subsection (c)(4)(B)(iii)".
+
+Subsec. (m)(6). Pub. L. 115–141, §401(b)(28), struck out par. (6) which related to transition rule.
 
 <b>2015</b>—Subsec. (c)(3)(H). Pub. L. 114–113, §317(a)(2), inserted "(other than a nonqualified publicly offered REIT debt instrument)" after "real estate asset".
 
@@ -1036,7 +1060,7 @@ Subsec. (c)(8). Pub. L. 110–246, §15312(b), added par. (8).
 
 Subsec. (d)(8)(B). Pub. L. 110–289, §3061(a), amended subpar. (B) generally. Prior to amendment, text read as follows: "The requirements of this subparagraph are met with respect to an interest in real property which is a qualified lodging facility leased by the trust to a taxable REIT subsidiary of the trust if the property is operated on behalf of such subsidiary by a person who is an eligible independent contractor."
 
-Subsec. (d)(9)(A), (B). Pub. L. 110–289, §3061(b), amended subpars. (A) and (B) generally. Prior to amendment, subpar. (A) defined "eligible independent contractor" with respect to any qualified lodging facility and subpar. (B) set forth reasons by which a person would not fail to be treated as an independent contractor with respect to any qualified lodging facility.
+Subsec. (d)(9)(A), (B). Pub. L. 110–289, §3061(b), amended subpars. (A) and (B) generally. Prior to amendment, subpar. (A) defined "eligible independent contractor"with respect to any qualified lodging facility and subpar. (B) set forth reasons by which a person would not fail to be treated as an independent contractor with respect to any qualified lodging facility.
 
 Subsec. (l)(3). Pub. L. 110–289, §3061(c), inserted "or a health care facility" after "a lodging facility" and "or health care facility" after "such lodging facility" in concluding provisions.
 
@@ -1270,11 +1294,15 @@ Subsec. (e). Pub. L. 93–625, §6(a), added subsec. (e).
 
 Subsec. (d). Pub. L. 88–554 inserted reference to subparagraph (C) of section 318(a)(3) of this title.
 
+#### Effective Date of 2018 Amendment
+
+Amendment by section 101(n) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
+
 #### Effective Date of 2015 Amendment
 
 Amendment by section 311(b) of Pub. L. 114–113 applicable to distributions on or after December 7, 2015, except distributions pursuant to transactions described in ruling requests pending before the Internal Revenue Service as of such date, see section 311(c) of Pub. L. 114–113, set out as a note under section 355 of this title.
 
-Pub. L. 114–113, div. Q, title III, §312(b), Dec. 18, 2015, 129 Stat. 3091, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
+Pub. L. 114–113, div. Q, title III, §312(b), Dec. 18, 2015, 129 Stat. 3091, provided that: "The amendment made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
 
 Pub. L. 114–113, div. Q, title III, §317(c), Dec. 18, 2015, 129 Stat. 3094, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2015."
 
@@ -1372,7 +1400,7 @@ Amendment by section 835(b)(4) of Pub. L. 108–357 effective Jan. 1, 2005, with
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 532(c)(2)(H)–(K) of Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
+Amendment by section 532(c)(2)(H)–(K) of Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
 Pub. L. 106–170, title V, §542(b)(3)(A)(ii), Dec. 17, 1999, 113 Stat. 1943, provided that: "The amendment made by this subparagraph \[amending this section\] shall apply to taxable years beginning after December 31, 2000."
 
@@ -1472,13 +1500,13 @@ Section 668.—The amendments made by section 668 \[amending sections 857, 858, 
 
 Retention of Existing Transitional Rule.—The amendment made by section 663(b)(2) \[amending this section\] shall not apply with respect to amounts received or accrued pursuant to loans made before May 28, 1976. For purposes of the preceding sentence, a loan is considered to be made before May 28, 1976, if such loan is made pursuant to a binding commitment entered into before May 28, 1976."
 
-Amendment by section 671(b)(1) of Pub. L. 99–514 effective Jan. 1, 1987, see section 675(a) of Pub. L. 99–514,as amended, set out as an Effective Date note under section 860A of this title.
+Amendment by section 671(b)(1) of Pub. L. 99–514 effective Jan. 1, 1987, see section 675(a) of Pub. L. 99–514, as amended, set out as an Effective Date note under section 860A of this title.
 
 Amendment by section 901(d)(4)(E) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 901(e) of Pub. L. 99–514, set out as a note under section 166 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
+Amendment by Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, seesection 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -1522,11 +1550,15 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 
 Pub. L. 86–779, §10(k), Sept. 14, 1960, 74 Stat. 1009, provided that: "The amendments made by this section \[enacting this section and sections 857 and 858 and amending sections 11, 34, 116, 243, 318, 443, 852, 855, and 1504 of this title\] shall apply with respect to taxable years of real estate investment trusts beginning after December 31, 1960."
 
+#### Savings Provision
+
+For provisions that nothing in amendment by section 401(b)(28) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+
 #### Study Relating To Taxable REIT Subsidiaries
 
 Pub. L. 106–170, title V, §547, Dec. 17, 1999, 113 Stat. 1947, provided that: "The Secretary of the Treasury shall conduct a study to determine how many taxable REIT subsidiaries are in existence and the aggregate amount of taxes paid by such subsidiaries. The Secretary shall submit a report to the Congress describing the results of such study."
 
 #### Trust Not Disqualified in Certain Cases Where Income Tests Not Met
 
-Pub. L. 94–455, title XVI, §1608(b), Oct. 4, 1976, 90 Stat. 1757, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made bysection 1602 \[amending this section and section 857 of this title\] shall apply to taxable years of real estate investment trusts beginning after the date of the enactment of this Act \[Oct. 4, 1976\]. In addition, the amendments made by section 1602 shall apply to a taxable year of a real estate investment trust beginning before the date of the enactment of this Act if, as the result of a determination (as defined in section 859(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) with respect to such trust occurring after the date of the enactment of this Act, such trust for such taxable years does not meet the requirements of section 856(c)(2) or section 856(c)(3), or of both such sections, of such Code as in effect for such taxable year. In any case, the amendment made by section 1602(a) requiring a schedule to be attached to the income tax return of certain real estate investment trusts shall apply only to taxable years of such trusts beginning after the date of the enactment of this Act. If the amendments made by section 1602 apply to a taxable year ending on or before the date of enactment of this Act, the reference to paragraph (2)(B) in section 857(b)(5) of such Code, as amended, shall be considered to be a reference to paragraph (2)(C) of section 857(b) of such Code, as in effect immediately before the enactment of this Act."
+Pub. L. 94–455, title XVI, §1608(b), Oct. 4, 1976, 90 Stat. 1757, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "The amendment made by section 1602 \[amending this section and section 857 of this title\] shall apply to taxable years of real estate investment trusts beginning after the date of the enactment of this Act \[Oct. 4, 1976\]. In addition, the amendments made by section 1602 shall apply to a taxable year of a real estate investment trust beginning before the date of the enactment of this Act if, as the result of a determination (as defined in section 859(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) with respect to such trust occurring after the date of the enactment of this Act, such trust for such taxable years does not meet the requirements of section 856(c)(2) or section 856(c)(3), or of both such sections, of such Code as in effect for such taxable year. In any case, the amendment made by section 1602(a) requiring a schedule to be attached to the income tax return of certain real estate investment trusts shall apply only to taxable years of such trusts beginning after the date of the enactment of this Act. If the amendments made by section 1602 apply to a taxable year ending on or before the date of enactment of this Act, the reference to paragraph (2)(B) in section 857(b)(5) of such Code, as amended, shall be considered to be a reference to paragraph (2)(C) of section 857(b) of such Code, as in effect immediately before the enactment of this Act."
 

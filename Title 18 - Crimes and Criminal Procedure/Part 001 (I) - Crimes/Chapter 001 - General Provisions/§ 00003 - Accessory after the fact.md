@@ -12,7 +12,7 @@ Based on title 18, U.S.C., 1940 ed., §551 (Mar. 4, 1909, ch. 321, §333, 35 Sta
 
 The first paragraph is new. It is based upon authority of <i>Skelly v. United States</i> (C. C. A. Okl. 1935, 76 F. 2d 483, certiorari denied, 1935, 55 S. Ct. 914, 295 U.S. 757, 79 L. Ed. 1699), where the court defined an accessory after the fact as—
 
-> one who knowing a felony to have been committed by another, receives, relieves, comforts, or assists the felon in order to hinder the felon's apprehension, trial, or punishment—
+> one who knowing a felony to have been committed by another, receives, relieves, comforts, or assists thefelon in order to hinder the felon's apprehension, trial, or punishment—
 
 > and cited Jones' Blackstone, books 3 and 4, page 2204; <i>U.S. v. Hartwell</i> (Fed. Cas. No. 15,318); <i>Albritton v. State</i> (32 Fla. 358, 13 So. 955); <i>State v. Davis</i> (14 R. I. 281); <i>Schleeter v. Commonwealth</i> (218 Ky. 72, 290 S. W. 1075). (See also <i>State v. Potter</i>, 1942, 221 N. C. 153, 19 S. E. 2d 257; <i>Hunter v. State</i>, 1935, 128 Tex. Cr. R. 191, 79 S. W. 2d 855; <i>State v. Wells</i>, 1940, 195 La. 754, 197 So. 419.)
 

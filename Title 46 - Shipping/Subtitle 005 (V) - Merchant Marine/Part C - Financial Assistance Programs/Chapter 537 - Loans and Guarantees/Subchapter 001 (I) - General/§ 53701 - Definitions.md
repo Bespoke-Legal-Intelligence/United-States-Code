@@ -8,7 +8,7 @@ Actual cost.—The term "actual cost" means the sum of—
 
 &emsp;&emsp;(A) all amounts paid by or for the account of the obligor as of the date on which a determination is made under section 53715(d)(1) of this title; and
 
-&emsp;&emsp;(B) all amounts that the Secretary or Administrator reasonably estimates the obligor will become obligated to pay from time to time thereafter, for the construction, reconstruction, or reconditioning of the vessel, including guarantee fees that will become payable under section 53714 of this title in connection with all obligations issued for construction, reconstruction, or reconditioning of the vessel or equipment to be delivered, and all obligations issued for the delivered vessel or equipment.
+&emsp;&emsp;(B) all amounts that the Secretary or Administrator reasonably estimates the obligor will become obligated to pay from time to time thereafter, for the construction, reconstruction, or reconditioning of the vessel, including guarantee fees that will become payable under section 53714 of this title inconnection with all obligations issued for construction, reconstruction, or reconditioning of the vessel or equipment to be delivered, and all obligations issued for the delivered vessel or equipment.
 
 &emsp;(2)
 

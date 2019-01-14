@@ -18,7 +18,7 @@ Notwithstanding the provisions of subsection (a), upon the written request of th
 
 &emsp;(3) a commitment by the Governor to adequately protect the confidentiality of such information to protect the resource from commercial exploitation,
 
-> the Federal land manager concerned shall provide to the Governor information concerning thenature and location of archaeological resources within the State of the requesting Governor.
+> the Federal land manager concerned shall provide to the Governor information concerning the nature and location of archaeological resources within the State of the requesting Governor.
 
 (Pub. L. 96–95, §9, Oct. 31, 1979, 93 Stat. 727; Pub. L. 113–287, §5(d)(8), Dec. 19, 2014, 128 Stat. 3265.)
 

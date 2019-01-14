@@ -36,13 +36,13 @@ A crime victim compensation program is an eligible crime victim compensation pro
 
 &emsp;(7) such program does not, except pursuant to rules issued by the program to prevent unjust enrichment of the offender, deny compensation to any victim because of that victim's familial relationship to the offender, or because of the sharing of a residence by the victim and the offender;
 
-&emsp;(8) such program does not provide compensation to any person who has been convicted of an offense under Federal law with respect to any time period during which the person is delinquent in paying a fine, other monetary penalty, or restitution imposed for the offense; and
+&emsp;(8) such program does not provide compensation to any person who has been convicted ofan offense under Federal law with respect to any time period during which the person is delinquent in paying a fine, other monetary penalty, or restitution imposed for the offense; and
 
 &emsp;(9) such program provides such other information and assurances related to the purposes of this section as the Director may reasonably require.
 
 #### (c) Exclusion from income, resources, and assets for purposes of means tests
 
-Notwithstanding any other law (other than title IV of Public Law 107–42), for the purpose of any maximum allowed income, resource, or asset eligibility requirement in any Federal, State, or local government program using Federal funds that provides medical or other assistance (or payment or reimbursement of the cost of such assistance), any amount of crime victim compensation that the applicant receives through a crime victim compensation program under this section shall not be included in the income, resources, or assets of the applicant, nor shall that amount reduce the amount of the assistance available to the applicant from Federal, State, or local government programs usingFederal funds, unless the total amount of assistance that the applicant receives from all such programs is sufficient to fully compensate the applicant for losses suffered as a result of the crime.
+Notwithstanding any other law (other than title IV of Public Law 107–42), for the purpose of any maximum allowed income, resource, or asset eligibility requirement in any Federal, State, or local government program using Federal funds that provides medical or other assistance (or payment or reimbursement of the cost of such assistance), any amount of crime victim compensation that the applicant receives through a crime victim compensation program under this section shall not be included in the income, resources, or assets of the applicant, nor shall that amount reduce the amount of the assistance available to the applicant from Federal, State, or local government programs using Federal funds, unless the total amount of assistance that the applicant receives from all such programs is sufficient to fully compensate the applicant for losses suffered as a result of the crime.
 
 #### (d) Definitions
 
@@ -118,7 +118,7 @@ Subsec. (b)(1). Pub. L. 100–690, §7125(c)(1), amended par. (1) generally. Pri
 
 &emsp;"(C) funeral expenses attributable to a death resulting from a compensable crime;".
 
-Subsec. (b)(5). Pub. L. 100–690, §7125(d), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "such program provides compensation to victims of crimes occurring within such State that would be compensable crimes, but for the fact that such crimesare subject to Federal jurisdiction, on the same basis that such program provides compensation to victims of compensable crimes; and".
+Subsec. (b)(5). Pub. L. 100–690, §7125(d), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "such program provides compensation to victims of crimes occurring within such State that would be compensable crimes, but for the fact that such crimes are subject to Federal jurisdiction, on the same basis that such program provides compensation to victims of compensable crimes; and".
 
 Subsec. (b)(6), (7). Pub. L. 100–690, §7125(a)(1), added pars. (6) and (7). Former par. (6) redesignated (8).
 

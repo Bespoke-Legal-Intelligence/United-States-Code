@@ -10,15 +10,27 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 &emsp;(A) is a veteran or member of the Armed Forces undergoing medical discharge from the Armed Forces;
 
-&emsp;(B) has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service on or after September 11, 2001; and
+&emsp;(B) for assistance provided under this subsection—
+
+&emsp;&emsp;(i) before the date on which the Secretary submits to Congress a certification that the Department has fully implemented the information technology system required by section 162(a) of the Caring for Our Veterans Act of 2018, has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service on or after September 11, 2001;
+
+&emsp;&emsp;(ii) during the 2-year period beginning on the date on which the Secretary submitted to Congress the certification described in clause (i), has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service—
+
+&emsp;&emsp;&emsp;(I) on or before May 7, 1975; or
+
+&emsp;&emsp;&emsp;(II) on or after September 11, 2001; or
+
+&emsp;&emsp;(iii) after the date that is 2 years after the date on which the Secretary submits to Congress the certification described in clause (i), has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service; and
 
 &emsp;(C) is in need of personal care services because of—
 
 &emsp;&emsp;(i) an inability to perform one or more activities of daily living;
 
-&emsp;&emsp;(ii) a need for supervision or protection based on symptoms or residuals of neurological or other impairment or injury; or
+&emsp;&emsp;(ii) a need for supervision or protection based on symptoms or residuals of neurological or other impairment or injury;
 
-&emsp;&emsp;(iii) such other matters as the Secretary considers appropriate.
+&emsp;&emsp;(iii) a need for regular or extensive instruction or supervision without which the ability of the veteran to function in daily life would be seriously impaired; or
+
+&emsp;&emsp;(iv) such other matters as the Secretary considers appropriate.
 
 (3)(A) As part of the program required by paragraph (1), the Secretary shall provide to family caregivers of eligible veterans the following assistance:
 
@@ -40,9 +52,15 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 &emsp;&emsp;(III) respite care of not less than 30 days annually, including 24-hour per day care of the veteran commensurate with the care provided by the family caregiver to permit extended respite;
 
-&emsp;&emsp;(IV) medical care under section 1781 of this title; and
+&emsp;&emsp;(IV) medical care under section 1781 of this title;
 
-&emsp;&emsp;(V) a monthly personal caregiver stipend.
+&emsp;&emsp;(V) a monthly personal caregiver stipend; and
+
+&emsp;&emsp;(VI) through the use of contracts with, or the provision of grants to, public or private entities—
+
+&emsp;&emsp;&emsp;(aa) financial planning services relating to the needs of injured veterans and their caregivers; and
+
+&emsp;&emsp;&emsp;(bb) legal services, including legal advice and consultation, relating to the needs of injured veterans and their caregivers.
 
 (B) Respite care provided under subparagraph (A)(ii)(III) shall be medically and age-appropriate and include in-home care.
 
@@ -50,11 +68,21 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 (ii) The Secretary shall ensure, to the extent practicable, that the schedule required by clause (i) specifies that the amount of the monthly personal caregiver stipend provided to a primary provider of personal care services for the provision of personal care services to an eligible veteran is not less than the monthly amount a commercial home health care entity would pay an individual in the geographic area of the eligible veteran to provide equivalent personal care services to the eligible veteran.
 
-(iii) If personal care services are not available from a commercial home health entity in the geographic area of an eligible veteran, the amount of the monthly personal caregiver stipend payable under the schedule required by clause (i) with respect to the eligible veteran shall be determined by taking into consideration the costs of commercial providers of personal care services in providing personal care services in geographic areas other than the geographic area of the eligible veteran with similar costs of living.
+(iii) In determining the amount and degree of personal care services provided under clause (i) with respect to an eligible veteran whose need for personal care services is based in whole or in part on a need for supervision or protection under paragraph (2)(C)(ii) or regular instruction or supervision under paragraph (2)(C)(iii), the Secretary shall take into account the following:
+
+&emsp;(I) The assessment by the family caregiver of the needs and limitations of the veteran.
+
+&emsp;(II) The extent to which the veteran can function safely and independently in the absence of such supervision, protection, or instruction.
+
+&emsp;(III) The amount of time required for the family caregiver to provide such supervision, protection, or instruction to the veteran.
+
+(iv) If personal care services are not available from a commercial home health entity in the geographic area of an eligible veteran, the amount of the monthly personal caregiver stipend payable under the schedule required by clause (i) with respect to the eligible veteran shall be determined by taking into consideration the costs of commercial providers of personal care services in providing personal care services in geographic areas other than the geographic area of the eligible veteran with similar costs of living.
+
+(D) In providing instruction, preparation, and training under subparagraph (A)(i)(I) and technical support under subparagraph (A)(i)(II) to each family caregiver who is approved as a provider of personal care services for an eligible veteran under paragraph (6), the Secretary shall periodically evaluate the needs of the eligible veteran and the skills of the family caregiver of such veteran to determine if additional instruction, preparation, training, or technical support under those subparagraphs is necessary.
 
 (4) An eligible veteran and a family member of the eligible veteran seeking to participate in the program required by paragraph (1) shall jointly submit to the Secretary an application therefor in such form and in such manner as the Secretary considers appropriate.
 
-(5) For each application submitted jointly by an eligible veteran and family member, the Secretary shall evaluate—
+(5) For each application submitted jointly by an eligible veteran and family member, the Secretary shall evaluate (in collaboration with the primary care team for the eligible veteran to the maximum extent practicable)—
 
 &emsp;(A) the eligible veteran—
 
@@ -115,6 +143,12 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 &emsp;&emsp;(II) suspending or revoking the approval of a family caregiver under paragraph (6) or the designation of a family caregiver under paragraph (7).
 
 (10) The Secretary shall carry out outreach to inform eligible veterans and family members of eligible veterans of the program required by paragraph (1) and the benefits of participating in the program.
+
+(11)(A) In providing assistance under this subsection to family caregivers of eligible veterans, the Secretary may enter into contracts, provider agreements, and memoranda of understanding with Federal agencies, States, and private, nonprofit, and other entities to provide such assistance to such family caregivers.
+
+(B) The Secretary may provide assistance under this paragraph only if such assistance is reasonably accessible to the family caregiver and is substantially equivalent or better in quality to similar services provided by the Department.
+
+(C) The Secretary may provide fair compensation to Federal agencies, States, and other entities that provide assistance under this paragraph.
 
 (b)
 
@@ -186,27 +220,41 @@ Definitions.—In this section:
 
 &emsp;(4) The term "personal care services", with respect to an eligible veteran under subsection (a) or a covered veteran under subsection (b), means services that provide the veteran the following:
 
-&emsp;&emsp;(A) Assistance with one or more independent activities of daily living.
+&emsp;&emsp;(A) Assistance with one or more activities of daily living.
 
-&emsp;&emsp;(B) Any other non-institutional extended care (as such term is used in section 1701(6)(E) of this title).
+&emsp;&emsp;(B) Supervision or protection based on symptoms or residuals of neurological or other impairment or injury.
 
-(e)
+&emsp;&emsp;(C) Regular or extensive instruction or supervision without which the ability of the veteran to function in daily life would be seriously impaired.
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out the programs required by subsections (a) and (b)—
+&emsp;&emsp;(D) Any other non-institutional extended care (as such term is used in section 1701(6)(E) of this title).
 
-&emsp;(1) $60,000,000 for fiscal year 2010;
+(Added Pub. L. 111–163, title I, §101(a)(1), May 5, 2010, 124 Stat. 1132; amended Pub. L. 114–58, title I, §103, title VI, §601(6), Sept. 30, 2015, 129 Stat. 532, 538; Pub. L. 114–228, title I, §103, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, §103, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–182, title I, §161(a)(1)(A), (2)–(b), June 6, 2018, 132 Stat. 1438–1440; Pub. L. 115–251, title I, §103, Sept. 29, 2018, 132 Stat. 3168.)
 
-&emsp;(2) $1,542,000,000 for the period of fiscal years 2011 through 2015;
+#### References in Text
 
-&emsp;(3) $625,000,000 for fiscal year 2016;
-
-&emsp;(4) $734,628,000 for fiscal year 2017; and
-
-&emsp;(5) $839,828,000 for each of fiscal years 2018 and 2019.
-
-(Added Pub. L. 111–163, title I, §101(a)(1), May 5, 2010, 124 Stat. 1132; amended Pub. L. 114–58, title I, §103, title VI, §601(6), Sept. 30, 2015, 129 Stat. 532, 538; Pub. L. 114–228, title I, §103, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, §103, Sept. 29, 2017, 131 Stat. 1161.)
+Section 162(a) of the Caring for Our Veterans Act of 2018, referred to in subsec. (a)(2)(B)(i), is section 162(a) of Pub. L. 115–182, June 6, 2018, 132 Stat. 1440, which is set out as a note under this section.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2)(B). Pub. L. 115–182, §161(a)(1)(A), amended subpar. (B) generally. Prior to amendment, text read as follows: "has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service on or after September 11, 2001; and".
+
+Subsec. (a)(2)(C)(iii), (iv). Pub. L. 115–182, §161(a)(2), added cl. (iii) and redesignated former cl. (iii) as (iv).
+
+Subsec. (a)(3)(A)(ii)(VI). Pub. L. 115–182, §161(a)(3), added subcl. (VI).
+
+Subsec. (a)(3)(C)(iii), (iv). Pub. L. 115–182, §161(a)(4), added cl. (iii) and redesignated former cl. (iii) as (iv).
+
+Subsec. (a)(3)(D). Pub. L. 115–182, §161(a)(5), added subpar. (D).
+
+Subsec. (a)(5). Pub. L. 115–182, §161(a)(6), inserted "(in collaboration with the primary care team for the eligible veteran to the maximum extent practicable)" after "evaluate" in introductory provisions.
+
+Subsec. (a)(11). Pub. L. 115–182, §161(a)(7), added par. (11).
+
+Subsec. (d)(4)(A). Pub. L. 115–182, §161(b)(1), struck out "independent" before "activities of daily living".
+
+Subsec. (d)(4)(B) to (D). Pub. L. 115–182, §161(b)(2), (3), added subpars. (B) and (C) and redesignated former subpar. (B) as (D).
+
+Subsec. (e). Pub. L. 115–251 struck out subsec. (e) which authorized appropriations from fiscal years 2010 to 2019.
 
 <b>2017</b>—Subsec. (e)(5). Pub. L. 115–62 added par. (5).
 
@@ -228,9 +276,115 @@ In general.—The amendments made by this subsection \[enacting this section\] s
 
 Implementation.—The Secretary of Veterans Affairs shall commence the programs required by subsections (a) and (b) of section 1720G of title 38, United States Code, as added by paragraph (1) of this subsection, on the date on which the amendments made by this subsection take effect."
 
+#### Publication in Federal Register
+
+Pub. L. 115–182, title I, §161(a)(1)(B), June 6, 2018, 132 Stat. 1439, as amended by Pub. L. 115–251, title II, §211(b)(5), Sept. 29, 2018, 132 Stat. 3176, provided that: "Not later than 30 days after the date on which the Secretary of Veterans Affairs submits to Congress the certification described in subsection (a)(2)(B)(i) of section 1720G of title 38, United States Code, as amended by subparagraph (A) of this paragraph, the Secretary shall publish the date specified in such subsection in the Federal Register."
+
+#### Implementation of Information Technology System of Department of Veterans Affairs To Assess and Improve the Family Caregiver Program
+
+Pub. L. 115–182, title I, §162, June 6, 2018, 132 Stat. 1440, provided that:
+
+"(a)
+
+Implementation of New System.—
+
+&emsp;"(1)
+
+In general.—Not later than October 1, 2018, the Secretary of Veterans Affairs shall implement an information technology system that fully supports the Program and allows for data assessment and comprehensive monitoring of the Program.
+
+&emsp;"(2)
+
+Elements of system.—The information technology system required to be implemented under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) The ability to easily retrieve data that will allow all aspects of the Program (at the medical center and aggregate levels) and the workload trends for the Program to be assessed and comprehensively monitored.
+
+&emsp;&emsp;"(B) The ability to manage data with respect to a number of caregivers that is more than the number of caregivers that the Secretary expects to apply for the Program.
+
+&emsp;&emsp;"(C) The ability to integrate the system with other relevant information technology systems of the Veterans Health Administration.
+
+"(b)
+
+Assessment of Program.—Not later than 180 days after implementing the system described in subsection (a), the Secretary shall, through the Under Secretary for Health, use data from the system and other relevant data to conduct an assessment of how key aspects of the Program are structured and carried out.
+
+"(c)
+
+Ongoing Monitoring of and Modifications to Program.—
+
+&emsp;"(1)
+
+Monitoring.—The Secretary shall use the system implemented under subsection (a) to monitor and assess the workload of the Program, including monitoring and assessment of data on—
+
+&emsp;&emsp;"(A) the status of applications, appeals, and home visits in connection with the Program; and
+
+&emsp;&emsp;"(B) the use by caregivers participating in the Program of other support services under the Program such as respite care.
+
+&emsp;"(2)
+
+Modifications.—Based on the monitoring and assessment conducted under paragraph (1), the Secretary shall identify and implement such modifications to the Program as the Secretary considers necessary to ensure the Program is functioning as intended and providing veterans and caregivers participating in the Program with services in a timely manner.
+
+"(d)
+
+Reports.—
+
+&emsp;"(1)
+
+Initial report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[June 6, 2018\], the Secretary shall submit to the Committee on Veterans' Affairs of the Senate, the Committee on Veterans' Affairs of the House of Representatives, and the Comptroller General of the United States a report that includes—
+
+&emsp;&emsp;&emsp;"(i) the status of the planning, development, and deployment of the system required to be implemented under subsection (a), including any changes in the timeline for the implementation of the system; and
+
+&emsp;&emsp;&emsp;"(ii) an assessment of the needs of family caregivers of veterans described in subparagraph (B), the resources needed for the inclusion of such family caregivers in the Program, and such changes to the Program as the Secretary considers necessary to ensure the successful expansion of the Program to include such family caregivers.
+
+&emsp;&emsp;"(B)
+
+Veterans described.—Veterans described in this subparagraph are veterans who are eligible for the Program under clause (ii) or (iii) of section 1720G(a)(2)(B) of title 38, United States Code, as amended by section 161(a)(1) of this title, solely due to a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service before September 11, 2001.
+
+&emsp;"(2)
+
+Notification by comptroller general.—The Comptroller General shall review the report submitted under paragraph (1) and notify the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives with respect to the progress of the Secretary in—
+
+&emsp;&emsp;"(A) fully implementing the system required under subsection (a); and
+
+&emsp;&emsp;"(B) implementing a process for using such system to monitor and assess the Program under subsection (c)(1) and modify the Program as considered necessary under subsection (c)(2).
+
+&emsp;"(3)
+
+Final report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than October 1, 2019, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate, the Committee on Veterans' Affairs of the House of Representatives, and the Comptroller General a report on the implementation of subsections (a) through (c).
+
+&emsp;&emsp;"(B)
+
+Elements.—The report required by subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) A certification by the Secretary that the information technology system described in subsection (a) has been implemented.
+
+&emsp;&emsp;&emsp;"(ii) A description of how the Secretary has implemented such system.
+
+&emsp;&emsp;&emsp;"(iii) A description of the modifications to the Program, if any, that were identified and implemented under subsection (c)(2).
+
+&emsp;&emsp;&emsp;"(iv) A description of how the Secretary is using such system to monitor the workload of the Program.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Active military, naval, or air service.—The term 'active military, naval, or air service' has the meaning given that term in section 101 of title 38, United States Code.
+
+&emsp;"(2)
+
+Program.—The term 'Program' means the program of comprehensive assistance for family caregivers under section 1720G(a) of title 38, United States Code, as amended by section 161 of this title."
+
 #### Annual Evaluation Report
 
-Pub. L. 111–163, title I, §101(c), May 5, 2010, 124 Stat. 1138, provided that:
+Pub. L. 111–163, title I, §101(c), May 5, 2010, 124 Stat. 1138, as amended by Pub. L. 115–182, title I, §163, June 6, 2018, 132 Stat. 1442, provided that:
 
 "(1)
 
@@ -248,15 +402,17 @@ Contents.—The report required by paragraph (1) shall include the following:
 
 &emsp;&emsp;"(iii) a description of the outcomes achieved by, and any measurable benefits of, carrying out such programs;
 
-&emsp;&emsp;"(iv) an assessment of the effectiveness and the efficiency of the implementation of such programs; and
+&emsp;&emsp;"(iv) an assessment of the effectiveness and the efficiency of the implementation of such programs, including a description of any barriers to accessing and receiving care and services under such programs; and
 
 &emsp;&emsp;"(v) such recommendations, including recommendations for legislative or administrative action, as the Secretary considers appropriate in light of carrying out such programs.
 
 &emsp;"(B) With respect to the program of comprehensive assistance for family caregivers required by such subsection (a)(1)—
 
-&emsp;&emsp;"(i) a description of the outreach activities carried out by the Secretary under such program; and
+&emsp;&emsp;"(i) a description of the outreach activities carried out by the Secretary under such program;
 
-&emsp;&emsp;"(ii) an assessment of the manner in which resources are expended by the Secretary under such program, particularly with respect to the provision of monthly personal caregiver stipends under paragraph (3)(A)(ii)(v) of such subsection (a).
+&emsp;&emsp;"(ii) an assessment of the manner in which resources are expended by the Secretary under such program, particularly with respect to the provision of monthly personal caregiver stipends under paragraph (3)(A)(ii)(v) of such subsection (a); and
+
+&emsp;&emsp;"(iii) an evaluation of the sufficiency and consistency of the training provided to family caregivers under such program in preparing family caregivers to provide care to veterans under such program.
 
 &emsp;"(C) With respect to the provision of general caregiver support services required by such subsection (b)(1)—
 

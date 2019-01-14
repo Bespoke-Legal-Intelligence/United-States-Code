@@ -16,9 +16,13 @@ For purposes of this part:
 
 #### (4) Substance use disorder services
 
-&emsp;The term "substance use disorder services" has the meaning given the term "substance abuse services" in section 254b(h)(5)(C) of this title.
+&emsp;The term "substance use disorder services" has the meaning given the term "substance abuse services" in section 254b(h)(5)(C) <sup>1</sup> of this title.
 
 (July 1, 1944, ch. 373, title V, §534, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 522; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4733; Pub. L. 107–251, title VI, §601(b), Oct. 26, 2002, 116 Stat. 1665; Pub. L. 114–255, div. B, title IX, §9004(e), Dec. 13, 2016, 130 Stat. 1238.)
+
+#### References in Text
+
+Section 254b(h)(5)(C) of this title, referred to in par. (4), was redesignated section 254b(h)(5)(B) of this title and the definition of "substance abuse services" was amended to define "substance use disorder services" by Pub. L. 115–123, div. E, title IX, §50901(b)(8)(B)(ii), (iii), Feb. 9, 2018, 132 Stat. 285.
 
 #### Amendments
 
@@ -27,4 +31,6 @@ For purposes of this part:
 <b>2002</b>—Par. (2). Pub. L. 107–251 substituted "254b(h)(5) " for "256(r)".
 
 <b>1990</b>—Pub. L. 101–645 amended section generally, substituting provisions relating to definitions for provisions relating to nondiscrimination.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

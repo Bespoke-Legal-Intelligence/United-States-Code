@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) The Secretary may remove, demote, or suspend a covered individual who is an employee of the Department if the Secretary determines the performance or misconduct of the covered individual warrants such removal, demotion, or suspension.
+In General.—(1) The Secretary may remove, demote, or suspend a covered individualwho is an employee of the Department if the Secretary determines the performance or misconduct of the covered individual warrants such removal, demotion, or suspension.
 
 (2) If the Secretary so removes, demotes, or suspends such a covered individual, the Secretary may—
 
@@ -62,7 +62,7 @@ Expedited Review.—(1) Upon receipt of an appeal under subsection (c)(4)(A), th
 
 (7) During the period beginning on the date on which a covered individual appeals a removal from the civil service under subsection (c) and ending on the date that the United States Court of Appeals for the Federal Circuit issues a final decision on such appeal, such covered individual may not receive any pay, awards, bonuses, incentives, allowances, differentials, student loan repayments, special payments, or benefits related to the employment of the individual by the Department.
 
-(8) To the maximum extent practicable, the Secretary shall provide to the Merit Systems Protection Board such information and assistance as may be necessary to ensure an appeal under this subsection is expedited.
+(8) To the maximum extent practicable, the Secretary shall provide to the Merit SystemsProtection Board such information and assistance as may be necessary to ensure an appeal under this subsection is expedited.
 
 (9) If an employee prevails on appeal under this section, the employee shall be entitled to backpay (as provided in section 5596 of title 5).
 

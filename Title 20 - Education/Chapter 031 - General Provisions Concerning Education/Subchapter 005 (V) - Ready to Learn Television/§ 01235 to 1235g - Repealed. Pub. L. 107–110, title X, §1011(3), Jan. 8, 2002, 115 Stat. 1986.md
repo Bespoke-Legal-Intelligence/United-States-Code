@@ -1,6 +1,6 @@
 ### §§1235 to 1235g. Repealed. Pub. L. 107–110, title X, §1011(3), Jan. 8, 2002, 115 Stat. 1986
 
-Section 1235, Pub. L. 90–247, title IV, §471, formerly Pub. L. 89–10, title IV, §4701, as added Pub. L. 102–545,§3, Oct. 27, 1992, 106 Stat. 3586; renumbered §471 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, §121(a)(1), (2)(A), May 18, 1994, 108 Stat. 649, authorized contracts, cooperative agreements, and grants to develop, produce, and distribute educational and instructional video programming for preschool and elementary school children and their parents.
+Section 1235, Pub. L. 90–247, title IV, §471, formerly Pub. L. 89–10, title IV, §4701, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3586; renumbered §471 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, §121(a)(1), (2)(A), May 18, 1994, 108 Stat. 649, authorized contracts, cooperative agreements, and grants to develop, produce, and distribute educational and instructional video programming for preschool and elementary school children and their parents.
 
 Section 1235a, Pub. L. 90–247, title IV, §472, formerly Pub. L. 89–10, title IV, §4702, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3586; renumbered §472 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, §121(a)(1), (b), May 18, 1994, 108 Stat. 649, related to development and dissemination of educational programming.
 

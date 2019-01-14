@@ -20,7 +20,7 @@ Each State and unit of local government may receive payments under this subchapt
 
 &emsp;(7) an assurance that the State or unit of local government will spend any payment it receives under this subchapter before the end of the six-calendar-month period which begins on the day after the date on which such State or local government receives such payment; and
 
-&emsp;(8) an assurance that the State or unit of local government will spend amounts received under this subchapter only in accordance with the laws and procedures applicable to the expenditure of its own revenues.
+&emsp;(8) an assurance that the State or unit of local government will spend amounts receivedunder this subchapter only in accordance with the laws and procedures applicable to the expenditure of its own revenues.
 
 (Pub. L. 94–369, title II, §205, July 22, 1976, 90 Stat. 1006.)
 

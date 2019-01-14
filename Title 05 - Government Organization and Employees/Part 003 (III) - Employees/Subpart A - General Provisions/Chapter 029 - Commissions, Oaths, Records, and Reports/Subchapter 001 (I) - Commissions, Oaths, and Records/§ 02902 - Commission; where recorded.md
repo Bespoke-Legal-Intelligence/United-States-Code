@@ -6,7 +6,7 @@
 
 (c) The commissions of judicial officers and United States attorneys and marshals, appointed by the President, by and with the advice and consent of the Senate, and other commissions which before August 8, 1888, were prepared at the Department of State on the requisition of the Attorney General, shall be made out and recorded in the Department of Justice under the seal of that department and countersigned by the Attorney General. The departmental seal may not be affixed to the commission before the commission has been signed by the President.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 411; Pub. L. 94–183, §2(3), Dec. 31, 1975, 89 Stat. 1057; Pub. L.109–241, title IX, §902(a)(2), July 11, 2006, 120 Stat. 566.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 411; Pub. L. 94–183, §2(3), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 109–241, title IX, §902(a)(2), July 11, 2006, 120 Stat. 566.)
 
 Historical and Revision Notes
 

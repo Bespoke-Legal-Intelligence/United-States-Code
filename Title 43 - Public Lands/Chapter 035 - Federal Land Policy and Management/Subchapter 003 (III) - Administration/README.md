@@ -26,5 +26,8 @@
 - [&sect; 01747 - Loans to States and political subdivisions; purposes; amounts; allocation; terms and conditions; interest rate; security; limitations&#8230;](%C2%A7%2001747%20-%20Loans%20to%20States%20and%20political%20subdivisions%3B%20purposes%3B%20amounts%3B%20allocation%3B%20terms%20and%20conditions%3B%20interest%20rate%3B%20security%3B%20limitations%E2%80%A6.md)
 - [&sect; 01748 - Funding requirements](%C2%A7%2001748%20-%20Funding%20requirements.md)
 - [&sect; 01748a - FLAME Wildfire Suppression Reserve Funds](%C2%A7%2001748a%20-%20FLAME%20Wildfire%20Suppression%20Reserve%20Funds.md)
+- [&sect; 01748a&#8211;1 - Request for additional wildfire suppression funds](%C2%A7%2001748a%E2%80%931%20-%20Request%20for%20additional%20wildfire%20suppression%20funds.md)
+- [&sect; 01748a&#8211;2 - Reporting requirements](%C2%A7%2001748a%E2%80%932%20-%20Reporting%20requirements.md)
 - [&sect; 01748b - Cohesive wildfire management strategy](%C2%A7%2001748b%20-%20Cohesive%20wildfire%20management%20strategy.md)
 - [&sect; 01748c - Bureau of Land Management Foundation](%C2%A7%2001748c%20-%20Bureau%20of%20Land%20Management%20Foundation.md)
+- [&sect; 01748d - Report on wildfire, insect infestation, and disease prevention on Federal land](%C2%A7%2001748d%20-%20Report%20on%20wildfire%2C%20insect%20infestation%2C%20and%20disease%20prevention%20on%20Federal%20land.md)

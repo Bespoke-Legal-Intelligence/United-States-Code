@@ -102,7 +102,7 @@ Notwithstanding any other provisions of this chapter it shall be unlawful to dis
 
 #### (D) Deadline for approval of petition
 
-&emsp;&emsp;A decision to add a pollutant to the list of pollutants for which modifications under this subsection are authorized must be made within 270 days after the date of promulgation of an applicable effluent guideline under section 1314 of this title.
+&emsp;&emsp;A decision to add a pollutant to the list of pollutants for which modifications under this subsection are authorized must be madewithin 270 days after the date of promulgation of an applicable effluent guideline under section 1314 of this title.
 
 #### (E) Burden of proof
 
@@ -134,7 +134,7 @@ The Administrator, with the concurrence of the State, may issue a permit under s
 
 &emsp;(9) the applicant at the time such modification becomes effective will be discharging effluent which has received at least primary or equivalent treatment and which meets the criteria established under section 1314(a)(1) of this title after initial mixing in the waters surrounding or adjacent to the point at which such effluent is discharged.
 
-> For the purposes of this subsection the phrase "the discharge of any pollutant into marine waters" refers to a discharge into deep waters of the territorial sea or the waters of the contiguous zone, or into saline estuarine waters where there is strong tidal movement and other hydrological and geological characteristics which the Administrator determines necessary to allow compliance with paragraph (2) of this subsection, and section 1251(a)(2) of this title. For the purposes of paragraph (9), "primary or equivalent treatment" means treatment by screening, sedimentation, and skimming adequate to remove at least 30 percent of the biological oxygen demanding material and of the suspended solids in the treatment works influent, and disinfection, where appropriate. A municipality which applies secondary treatment shall be eligible to receive a permit pursuant to this subsection which modifies the requirements of subsection (b)(1)(B) of this section with respect to the discharge of any pollutant from any treatment works owned by such municipality into marine waters. No permit issued under this subsection shall authorize the discharge of sewage sludge into marine waters. In order for a permit to be issued under this subsection for the discharge of a pollutant into marine waters, such marine waters must exhibit characteristics assuring that water providing dilution does notcontain significant amounts of previously discharged effluent from such treatment works. No permit issued under this subsection shall authorize the discharge of any pollutant into saline estuarine waters which at the time of application do not support a balanced indigenous population of shellfish, fish and wildlife, or allow recreation in and on the waters or which exhibit ambient water quality below applicable water quality standards adopted for the protection of public water supplies, shellfish, fish and wildlife or recreational activities or such other standards necessary to assure support and protection of such uses. The prohibition contained in the preceding sentence shall apply without regard to the presence or absence of a causal relationship between such characteristics and the applicant's current or proposed discharge. Notwithstanding any other provisions of this subsection, no permit may be issued under this subsection for discharge of a pollutant into the New York Bight Apex consisting of the ocean waters of the Atlantic Ocean westward of 73 degrees 30 minutes west longitude and northward of 40 degrees 10 minutes north latitude.
+> For the purposes of this subsection the phrase "the discharge of any pollutant into marine waters" refers to a discharge into deep waters of the territorial sea or the waters of the contiguous zone, or into saline estuarine waters where there is strong tidal movement and other hydrological and geological characteristics which the Administrator determines necessary to allow compliance with paragraph (2) of this subsection, and section 1251(a)(2) of this title. For the purposes of paragraph (9), "primary or equivalent treatment" means treatment by screening, sedimentation, and skimming adequate to remove at least 30 percent of the biological oxygen demanding material and of the suspended solids in the treatment works influent, and disinfection, where appropriate. A municipality which applies secondary treatment shall be eligible to receive a permit pursuant to this subsection which modifies the requirements of subsection (b)(1)(B) of this section with respect to the discharge of any pollutant from any treatment works owned by such municipality into marine waters. No permit issued under this subsection shall authorize the discharge of sewage sludge into marine waters. In order for a permit to be issued under this subsection for the discharge of a pollutant into marine waters, such marine waters must exhibit characteristics assuring that water providing dilution does not contain significant amounts of previously discharged effluent from such treatment works. No permit issued under this subsection shall authorize the discharge of any pollutant into saline estuarine waters which at the time of application do not support a balanced indigenous population of shellfish, fish and wildlife, or allow recreation in and on the waters or which exhibit ambient water quality below applicable water quality standards adopted for the protection of public water supplies, shellfish, fish and wildlife or recreational activities or such other standards necessary to assure support and protection of such uses. The prohibition contained in the preceding sentence shall apply without regard to the presence or absence of a causal relationship between such characteristics and the applicant's current or proposed discharge. Notwithstanding any other provisions of this subsection, no permit may be issued under this subsection for discharge of a pollutant into the NewYork Bight Apex consisting of the ocean waters of the Atlantic Ocean westward of 73 degrees 30 minutes west longitude and northward of 40 degrees 10 minutes north latitude.
 
 #### (i) Municipal time extensions
 
@@ -156,11 +156,11 @@ The Administrator, with the concurrence of the State, may issue a permit under s
 
 (1) Any application filed under this section for a modification of the provisions of—
 
-&emsp;(A) subsection (b)(1)(B) under subsection (h) of this section shall be filed not later that <sup>1</sup>the 365th day which begins after December 29, 1981, except that a publicly owned treatment works which prior to December 31, 1982, had a contractual arrangement to use a portion of the capacity of an ocean outfall operated by another publicly owned treatment works which has applied for or received modification under subsection (h), may apply for a modification of subsection (h) in its own right not later than 30 days after February 4, 1987, and except as provided in paragraph (5);
+&emsp;(A) subsection (b)(1)(B) under subsection (h) of this section shall be filed not later that <sup>1</sup> the 365th day which begins after December 29, 1981, except that a publicly owned treatment works which prior to December 31, 1982, had a contractual arrangement to use a portion of the capacity of an ocean outfall operated by another publicly owned treatment works which has applied for or received modification under subsection (h), may apply for a modification of subsection (h) in its own right not later than 30 days after February 4, 1987, and except as provided in paragraph (5);
 
 &emsp;(B) subsection (b)(2)(A) as it applies to pollutants identified in subsection (b)(2)(F) shall be filed not later than 270 days after the date of promulgation of an applicable effluent guideline under section 1314 of this title or not later than 270 days after December 27, 1977, whichever is later.
 
-(2) Subject to paragraph (3) of this section, any application for a modification filed under subsection (g) of this section shall not operate to stay any requirement under this chapter, unless in the judgment of the Administrator such a stay or the modification sought will not result in the discharge of pollutants in quantities which may reasonably be anticipated to pose an unacceptable risk to human health or the environment because of bioaccumulation, persistency in the environment, acute toxicity, chronic toxicity (including carcinogenicity, mutagenicity, or teratogenicity), or synergistic propensities, and that there is a substantial likelihood that the applicant will succeed on the merits of such application. In the case of an application filed under subsection (g) of this section, the Administrator may condition any stay granted under this paragraph on requiring the filing of a bond or other appropriate security to assure timely compliance with the requirements from which a modification is sought.
+(2) Subject to paragraph (3) of this section, any application for a modification filed undersubsection (g) of this section shall not operate to stay any requirement under this chapter, unless in the judgment of the Administrator such a stay or the modification sought will not result in the discharge of pollutants in quantities which may reasonably be anticipated to pose an unacceptable risk to human health or the environment because of bioaccumulation, persistency in the environment, acute toxicity, chronic toxicity (including carcinogenicity, mutagenicity, or teratogenicity), or synergistic propensities, and that there is a substantial likelihood that the applicant will succeed on the merits of such application. In the case of an application filed under subsection (g) of this section, the Administrator may condition any stay granted under this paragraph on requiring the filing of a bond or other appropriate security to assure timely compliance with the requirements from which a modification is sought.
 
 (3)
 
@@ -210,7 +210,7 @@ In the case of any facility subject to a permit under section 1342 of this title
 
 #### (l) Toxic pollutants
 
-Other than as provided in subsection (n) of this section, the Administrator may not modify any requirement of this section as it applies toany specific pollutant which is on the toxic pollutant list under section 1317(a)(1) of this title.
+Other than as provided in subsection (n) of this section, the Administrator may not modify any requirement of this section as it applies to any specific pollutant which is on the toxic pollutant list under section 1317(a)(1) of this title.
 
 #### (m) Modification of effluent limitation requirements for point sources
 
@@ -256,7 +256,7 @@ Other than as provided in subsection (n) of this section, the Administrator may 
 
 &emsp;&emsp;(C) the alternative requirement is no less stringent than justified by the fundamental difference; and
 
-&emsp;&emsp;(D) the alternative requirement will not result in a non-water quality environmental impact which is markedly more adverse than the impact considered by the Administrator in establishing such national effluentlimitation guideline or categorical pretreatment standard.
+&emsp;&emsp;(D) the alternative requirement will not result in a non-water quality environmental impact which is markedly more adverse than the impact considered by the Administrator in establishing such national effluent limitation guideline or categorical pretreatment standard.
 
 #### (2) Time limit for applications
 
@@ -268,7 +268,7 @@ Other than as provided in subsection (n) of this section, the Administrator may 
 
 #### (4) Submission of information
 
-&emsp;The Administrator may allow an applicant under this subsection to submit information and supporting data until the earlier of the date the application is approved or denied or the last day that the Administrator has to approve or deny such application.
+&emsp;The Administrator may allow an applicant under this subsection to submit informationand supporting data until the earlier of the date the application is approved or denied or the last day that the Administrator has to approve or deny such application.
 
 #### (5) Treatment of pending applications
 
@@ -324,7 +324,7 @@ The Administrator shall prescribe and collect from each applicant fees reflectin
 
 #### References in Text
 
-The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (p)(4), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which is classified generally to chapter 25 (§1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
+The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (p)(4), is Pub. L. 95–87, Aug.3, 1977, 91 Stat. 445, as amended, which is classified generally to chapter 25 (§1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
 #### Amendments
 
@@ -388,7 +388,7 @@ Subsec. (i)(1), (2)(B). Pub. L. 97–117, §21(a), substituted "July 1, 1988," f
 
 Subsec. (j)(1)(A). Pub. L. 97–117, §22(d), substituted "that the 365th day which begins after December 29, 1981" for "than 270 days after December 27, 1977".
 
-<b>1977</b>—Subsec. (b)(2)(A). Pub. L. 95–217, §42(b), substituted "for pollutants identified in subparagraphs (C), (D), and (F) of this paragraph" for "not later than July 1, 1983".
+<b>1977</b>—Subsec. (b)(2)(A). Pub. L. 95–217, §42(b), substituted "for pollutants identified in subparagraphs (C),\(D), and (F) of this paragraph" for "not later than July 1, 1983".
 
 Subsec. (b)(2)(C) to (F). Pub. L. 95–217, §42(a), added subpars. (C) to (F).
 
@@ -455,7 +455,7 @@ Pub. L. 98–67, title II, §214(g), Aug. 5, 1983, 97 Stat. 393, as amended by P
 
 #### Certain Municipal Compliance Deadlines Unaffected; Exception
 
-Pub. L. 97–117, §21(a), Dec. 29, 1981, 95 Stat. 1631, provided in part that: "The amendment made by this subsection \[amending this section\] shall not be interpreted or applied to extend the date for compliance with section 301(b)(1)(B) or (C) of the Federal Water Pollution Control Act \[33 U.S.C. 1311(b)(1)(B), (C)\] beyond schedules for compliance in effect as of the date of enactment of this Act \[Dec. 29, 1981\], except in cases where reductions in the amount of financial assistance under this Act \[Pub. L. 97–117, see Short Title of 1981 Amendment note set out under section 1251 of this title\] or changed conditions affecting the rate of construction beyond the control of the owner or operator will make it impossible to complete construction by July 1, 1983."
+Pub. L. 97–117, §21(a), Dec. 29, 1981, 95 Stat. 1631, provided in part that: "The amendment made by this subsection \[amending this section\] shall not be interpreted or applied to extend the date for compliance with section 301(b)(1)(B) or (C) of the Federal Water Pollution Control Act \[33 U.S.C. 1311(b)(1)(B), (C)\] beyond schedules for compliance in effect as of the date of enactment of this Act \[Dec. 29, 1981\], except in cases where reductions in the amount of financial assistance under this Act \[Pub. L. 97–117, see Short Title of 1981 Amendment note set out under section 1251 of this title\] or changed conditions affecting the rate of constructionbeyond the control of the owner or operator will make it impossible to complete construction by July 1, 1983."
 
 #### Territorial Sea and Contiguous Zone of United States
 

@@ -1,10 +1,10 @@
 ### §280b–1a. Interpersonal violence within families and among acquaintances
 
-(a) With respect to activities that are authorized in sections 280b and 280b–1 of this title, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall carry out such activities with respect to interpersonal violence within families and among acquaintances. Activities authorized in the preceding sentence include the following:
+(a) With respect to activities that are authorized in sections 280b and 280b–0 of this title, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall carry out such activities with respect to interpersonal violence within families and among acquaintances. Activities authorized in the preceding sentence include the following:
 
 &emsp;(1) Collecting data relating to the incidence of such violence.
 
-&emsp;(2) Making grants to public and nonprofit private entities for the evaluation of programs whose purpose is to prevent such violence, including the evaluation of demonstration projects under paragraph (6).
+&emsp;(2) Making grants to public and nonprofit private entities for the evaluation of programswhose purpose is to prevent such violence, including the evaluation of demonstration projects under paragraph (6).
 
 &emsp;(3) Making grants to public and nonprofit private entities for the conduct of research on identifying effective strategies for preventing such violence.
 

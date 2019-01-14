@@ -222,5 +222,5 @@ Subsec. (f)(1). Pub. L. 113–4, §201(b), substituted "$40,000,000 to remain av
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, seesection 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
 

@@ -48,7 +48,7 @@
 
 #### (B) Per-student rate
 
-&emsp;&emsp;For purposes of subparagraph (A)(i), the per-student rate for a fiscal year shall beequal to the dollar amount obtained by dividing—
+&emsp;&emsp;For purposes of subparagraph (A)(i), the per-student rate for a fiscal year shall be equal to the dollar amount obtained by dividing—
 
 &emsp;&emsp;&emsp;(i) the total amount of funds made available for that fiscal year to provide assistance under this subsection; by
 

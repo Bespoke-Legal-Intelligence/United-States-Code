@@ -42,7 +42,7 @@
 
 &emsp;(B) any court order or other similar process in the nature of garnishment for the enforcement of a judgment rendered against such employee, Member, or annuitant, for physically, sexually, or emotionally abusing a child.
 
-> In the event that the Office is served with more than 1 decree, order, or other legal process with respect to the same moneys due or payable to any individual, such moneys shall be available to satisfy such processes on a first-come, first-served basis, with any such process being satisfied out of such moneys as remain after the satisfaction of all such processes which have been previously served.
+> In the event that the Office is served with more than 1 decree, order, or other legal process withrespect to the same moneys due or payable to any individual, such moneys shall be available to satisfy such processes on a first-come, first-served basis, with any such process being satisfied out of such moneys as remain after the satisfaction of all such processes which have been previously served.
 
 (2) Paragraph (1) shall only apply to payments made by the Office under this subchapter after the date of receipt in the Office of written notice of such decree, order, other legal process, or agreement, and such additional information and documentation as the Office may prescribe.
 
@@ -56,7 +56,7 @@
 
 (k)(1) The Office shall, in accordance with this subsection, enter into an agreement with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Office shall withhold State income tax in the case of the monthly annuity of any annuitant who voluntarily requests, in writing, such withholding. The amounts withheld during any calendar quarter shall be held in the Fund and disbursed to the States during the month following that calendar quarter.
 
-(2) An annuitant may have in effect at any time only one request for withholding under thissubsection, and an annuitant may not have more than two such requests in effect during any one calendar year.
+(2) An annuitant may have in effect at any time only one request for withholding under this subsection, and an annuitant may not have more than two such requests in effect during any one calendar year.
 
 (3) Subject to paragraph (2) of this subsection, an annuitant may change the State designated by that annuitant for purposes of having withholdings made, and may request that the withholdings be remitted in accordance with such change. An annuitant also may revoke any request of that annuitant for withholding. Any change in the State designated or revocation is effective on the first day of the month after the month in which the request or the revocation is processed by the Office, but in no event later than on the first day of the second month beginning after the day on which such request or revocation is received by the Office.
 
@@ -190,7 +190,7 @@ Savings Provision.—An annuity payable from the Civil Service Retirement and Di
 
 "(c)
 
-Ratification of Erroneous Payments.—Any individual to whom an overpayment of an annuity has been made from the Civil Service Retirement and Disability Fund before the date of enactment of this Act \[Feb. 27, 1986\] shall be deemed to have been entitled to that overpayment if and to the extent that such overpayment resulted from the manner in which the Office of Personnel Management has administered section 8345(f) of title 5, United States Code.
+Ratification of Erroneous Payments.—Any individual to whom an overpayment of an annuity has been made from the Civil Service Retirement and Disability Fund before the date of enactment of this Act \[Feb. 27, 1986\] shall be deemed to have been entitled tothat overpayment if and to the extent that such overpayment resulted from the manner in which the Office of Personnel Management has administered section 8345(f) of title 5, United States Code.
 
 "(d)
 

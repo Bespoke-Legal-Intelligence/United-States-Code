@@ -28,7 +28,7 @@ Negotiated sale.—If no bids which are satisfactory as to price and responsibil
 
 (c)
 
-Demolition.—The Administrator may demolish any building declared to be surplus to the needs of the Government under this section on deciding that demolition will be in the best interest of the Government. Before proceeding with the demolition, the Administrator shall inform the Secretary of the Interior in writing of the Administrator's intention to demolish the building, and shall not proceed with the demolition until receiving written notice from the Secretary that the building is not an historic building of national significance within the meaning of chapter 3201 of title 54. If the Secretary does not notify the Administrator of the Secretary's decision as to whether the building is an historic building of national significance within 90days of the receipt of the notice of intention to demolish the building, the Administrator may proceed to demolish the building.
+Demolition.—The Administrator may demolish any building declared to be surplus to the needs of the Government under this section on deciding that demolition will be in the best interest of the Government. Before proceeding with the demolition, the Administrator shall inform the Secretary of the Interior in writing of the Administrator's intention to demolish the building, and shall not proceed with the demolition until receiving written notice from the Secretary that the building is not an historic building of national significance within the meaning of chapter 3201 of title 54. If the Secretary does not notify the Administrator of the Secretary's decision as to whether the building is an historic building of national significance within 90 days of the receipt of the notice of intention to demolish the building, the Administrator may proceed to demolish the building.
 
 (d)
 
@@ -124,9 +124,61 @@ In subsection (f), the words "as hereinafter" are omitted as obsolete. The words
 
 <b>2014</b>—Subsec. (c). Pub. L. 113–287 substituted "chapter 3201 of title 54" for "the Act of August 21, 1935 (16 U.S.C. 461 et seq.) (known as the Historic Sites, Buildings, and Antiquities Act)".
 
+#### Savings Provisions
+
+Pub. L. 115–141, div. P, title VI, §608(e), Mar. 23, 2018, 132 Stat. 1107, provided that:
+
+"(1)
+
+Real property authorities.—Nothing in this section \[enacting provisions set out as a note under this section and amending provisions set out as a note under this section\], or an amendment made by this section, shall be construed as providing any Executive agency with any new leasing or other real property authority that did not exist prior to the date of enactment of this Act \[Mar. 23, 2018\].
+
+"(2)
+
+Effect on other laws.—Nothing in this section, or an amendment made by this section, and no information submitted pursuant to this section, or pursuant to an amendment made by this section, shall be used to prevent or otherwise restrict a decision or determination by any Executive agency to sell, dispose of, declare excess or surplus, lease, reuse or redevelop any Federal real property pursuant to—
+
+&emsp;"(A) title 40 of the United States Code;
+
+&emsp;"(B) the Federal Assets Sale and Transfer Act of 2016 \[Pub. L. 114–287\] (40 U.S.C. 1303 note); or
+
+&emsp;"(C) any other law governing real property activities of the Federal Government."
+
+#### Inclusion in Federal Real Property Database of Information Related to Communications Facility Installations
+
+Pub. L. 115–141, div. P, title VI, §608(b), (c), Mar. 23, 2018, 132 Stat. 1106, provided that:
+
+"(b)
+
+Public Comment.—
+
+&emsp;"(1)
+
+In general.—Not later than 60 days after the date of enactment of this Act \[Mar. 23, 2018\], the Administrator of General Services shall issue a notice for public comment regarding the inclusion of a communications facility installation under section 21 of the Federal Assets Sale and Transfer Act of 2016 \[Pub. L. 114–287\] (40 U.S.C. 1303 note), as amended by subsection (a) of this section.
+
+&emsp;"(2)
+
+Contents.—In seeking public comment under paragraph (1), the Administrator shall include a request for recommendations on—
+
+&emsp;&emsp;"(A) the criteria that make Federal real property capable of supporting communications facility installations;
+
+&emsp;&emsp;"(B) the types of information related to the Federal real property that should be included in the database; and
+
+&emsp;&emsp;"(C) other matters that the Administrator determines necessary.
+
+"(c)
+
+Provision of Information.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the period for public comment under subsection (b)(1) ends, the Administrator of General Services shall notify the head of each Executive agency of the manner and format for submitting such information as the Administrator determines appropriate to the database established under section 21 of the Federal Assets Sale and Transfer Act of 2016 (40 U.S.C. 1303 note), as amended by subsection (a) of this section.
+
+&emsp;"(2)
+
+Submission.—Not later than 90 days after the date of the notification under paragraph (1), the head of an Executive agency shall submit the information required under paragraph (1)."
+
 #### Federal Assets Sale and Transfer
 
-Pub. L. 114–287, Dec. 16, 2016, 130 Stat. 1463, as amended by Pub. L. 114–318, §7(b), (d), Dec. 16, 2016, 130 Stat. 1616, 1617, provided that:
+Pub. L. 114–287, Dec. 16, 2016, 130 Stat. 1463, as amended by Pub. L. 114–318, §7(b), (d), Dec. 16, 2016, 130 Stat. 1616, 1617; Pub. L. 115–141, div. E, title V, §527, div. P, title VI, §608(a), Mar. 23, 2018, 132 Stat. 573, 1105; Pub. L. 115–437, §1, Jan. 14, 2019, 132 Stat. 5563; Pub. L. 115–438, §1, Jan. 14, 2019, 132 Stat. 5564, provided that:
 
 #### "SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
 
@@ -254,23 +306,15 @@ In general.—The Board shall be composed of a Chairperson appointed by the Pres
 
 &emsp;"(2)
 
-Appointments.—
+Appointments.—In selecting individuals for appointments to the Board, the President shall appoint members in the following manner:
 
-&emsp;&emsp;"(A)
+&emsp;&emsp;"(A) Two members recommended by the Speaker of the House of Representatives.
 
-In general.—In selecting individuals for appointments to the Board, the President shall appoint members in the following manner:
+&emsp;&emsp;"(B) Two members recommended by the majority leader of the Senate.
 
-&emsp;&emsp;&emsp;"(i) Two members recommended by the Speaker of the House of Representatives.
+&emsp;&emsp;"(C) One member recommended by the minority leader of the House of Representatives.
 
-&emsp;&emsp;&emsp;"(ii) Two members recommended by the majority leader of the Senate.
-
-&emsp;&emsp;&emsp;"(iii) One member recommended by the minority leader of the House of Representatives.
-
-&emsp;&emsp;&emsp;"(iv) One member recommended by the minority leader of the Senate.
-
-&emsp;&emsp;"(B)
-
-Deadline.—The appointment of members to the Board shall be made not later than 90 days after the date of enactment of this Act \[Dec. 16, 2016\].
+&emsp;&emsp;"(D) One member recommended by the minority leader of the Senate.
 
 &emsp;"(3)
 
@@ -326,7 +370,7 @@ Compensation.—
 
 &emsp;"(1)
 
-Rate of pay for members.—Each member, other than the Chairperson, shall be paid at a rate equal to the daily equivalent of the minimum annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the actual performance of duties vested in the Board.
+Rate of pay for members.—Each member, other than the Chairperson, shall be paid at a rateequal to the daily equivalent of the minimum annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the actual performance of duties vested in the Board.
 
 &emsp;"(2)
 
@@ -376,7 +420,7 @@ Personal Property.—The Board shall use personal property already in the custod
 
 #### "SEC. 10. TERMINATION.
 
-"The Board shall cease operations and terminate 6 years after the date of enactment of this Act \[Dec. 16, 2016\].
+"The Board shall cease operations and terminate 6 years after the date on which the Board members are appointed pursuant to section 4.
 
 #### "SEC. 11. DEVELOPMENT OF RECOMMENDATIONS TO BOARD.
 
@@ -488,7 +532,23 @@ Factors.—In identifying properties pursuant to paragraph (1), the Board shall 
 
 &emsp;"(4)
 
-Leaseback restrictions.—None of the existing improvements on properties sold under this subsection may be leased back to the Government.
+Leaseback restrictions.—
+
+&emsp;&emsp;"(A)
+
+In general.—None of the existing improvements on properties sold under this subsection may be leased back to the Government for a period of greater than 3 years.
+
+&emsp;&emsp;"(B)
+
+Requirements.—A leaseback under this paragraph—
+
+&emsp;&emsp;&emsp;"(i) shall expire on or before the last day of the 3-year period beginning on the date of the sale of the respective property;
+
+&emsp;&emsp;&emsp;"(ii) may not contain any options to extend or renew the leaseback;
+
+&emsp;&emsp;&emsp;"(iii) may only be entered into once for purposes of temporarily housing the Federal agency in the property at the time of the sale; and
+
+&emsp;&emsp;&emsp;"(iv) shall only be for the purpose of facilitating the sale of the respective property.
 
 &emsp;"(5)
 
@@ -528,7 +588,7 @@ Availability.—Information submitted to the Board shall be made publicly availa
 
 "(e)
 
-Accounting System.—Not later than 120 days after the date of enactment of this Act \[Dec. 16, 2016\], the Board shall identify or develop and implement a system of accounting to be used to independently evaluate the costs of and returns on the recommendations. Such accounting system shall be applied in developing the Board's recommendations and determining the highest return to the taxpayer. In applying the accounting system, the Board shall set a standard performance period of not less than 15 years.
+Accounting System.—Not later than 120 days after the date on which the Board members are appointed pursuant to section 4, the Board shall identify or develop and implement a system of accounting to be used to independently evaluate the costs of and returns on the recommendations. Such accounting system shall be applied in developing the Board's recommendations and determining the highest return to the taxpayer. In applying the accounting system, the Board shall set a standard performance period of not less than 15 years.
 
 "(f)
 
@@ -556,7 +616,7 @@ First round.—Not later than 2 years after the date of transmittal of the list 
 
 &emsp;&emsp;"(B)
 
-Second round.—Not earlier than 3 years after the date of transmittal of the first report, the Board shall transmit to the Director of OMB thesecond report required under paragraph (1). The total value of transactions contained in the second report may not exceed $4,750,000,000.
+Second round.—Not earlier than 3 years after the date of transmittal of the first report, the Board shall transmit to the Director of OMB the second report required under paragraph (1). The total value of transactions contained in the second report may not exceed $4,750,000,000.
 
 &emsp;"(3)
 
@@ -692,7 +752,7 @@ Public Benefit.—
 
 &emsp;"(1)
 
-Submission of information to hud.—The Director of OMB shall submit to the Secretary of HUD,on the same day the Director of OMB submits the Board's recommendations to Congress pursuant to paragraphs (1) and (4) of section 13(c), all known information on Federal civilian real properties that are included in the recommendations (except those recommended under section 12(b)).
+Submission of information to hud.—The Director of OMB shall submit to the Secretary of HUD, on the same day the Director of OMB submits the Board's recommendations to Congress pursuant toparagraphs (1) and (4) of section 13(c), all known information on Federal civilian real properties that are included in the recommendations (except those recommended under section 12(b)).
 
 &emsp;"(2)
 
@@ -762,7 +822,7 @@ Salaries and Expenses Account.—
 
 &emsp;"(1)
 
-Establishment.—There is established in the Treasury of the United States an account to be known as the 'Public Buildings Reform Board Salaries and Expenses Account' (in this subsection referred to as the 'Account').
+Establishment.—There is established in the Treasury of the United States an account to be known as the 'Public Buildings Reform Board Salaries and Expenses Account' (in this subsection referred to as the 'Account'). The Account shall be under the custody and control of the Chairperson of the Board and deposits in the Account shall remain available until expended.
 
 &emsp;"(2)
 
@@ -774,7 +834,7 @@ Asset Proceeds and Space Management Fund.—
 
 &emsp;"(1)
 
-Establishment.—There is established within the Federal Buildings Fund established under section 592 of title 40, United States Code, an account to be known as the Public Buildings Reform Board—Asset Proceeds and Space Management Fund (in this subsection referred to as the 'Fund').
+Establishment.—There is established in the Treasury of the United States an account to be known as the 'Public Buildings Reform Board—Asset Proceeds and Space Management Fund' (in this subsection referred to as the 'Fund'). The Fund shall be under the custody and control of the Administrator of General Services and deposits in the Fund shall remain available until expended.
 
 &emsp;"(2)
 
@@ -790,7 +850,7 @@ Deposits.—The following amounts shall be deposited into the Fund and made avai
 
 &emsp;"(4)
 
-Use of amounts to cover costs.—As provided in appropriations Acts, amounts in the Fund may be made available to cover necessary costs associated with implementing the recommendations pursuant to section 14, including costs associated with—
+Use of amounts to cover costs.—As provided in appropriations Acts, amounts in the Fund may be made available to cover necessary costs associatedwith implementing the recommendations pursuant to section 14, including costs associated with—
 
 &emsp;&emsp;"(A) sales transactions;
 
@@ -854,6 +914,8 @@ Required Information for Database.—The Administrator shall collect from the he
 
 &emsp;"(7) The replacement value of each Federal real property.
 
+&emsp;"(8) The ability of the Federal real property to support a communications facility installation.
+
 "(c)
 
 Access to Database.—
@@ -879,6 +941,20 @@ Transparency of Database.—To the extent practicable, the Administrator shall e
 "(e)
 
 Applicability.—Nothing in this section may be construed to require an agency to make available to the public information that is exempt from disclosure pursuant to section 552(b) of title 5, United States Code.
+
+"(f)
+
+Definition of Communications Facility Installation.—In this section, the term 'communications facility installation' means—
+
+&emsp;"(1) any infrastructure, including any transmitting device, tower, or support structure, and any equipment, switches, wiring, cabling, power sources, shelters, or cabinets associated with the licensed or permitted unlicensed wireless or wireline transmission of writings, signs, signals, data, images, pictures, and sounds of any kind; and
+
+&emsp;"(2) any antenna or apparatus that—
+
+&emsp;&emsp;"(A) is designed for the purpose of emitting radio frequency;
+
+&emsp;&emsp;"(B) is designed to be operated, or is operating, from a fixed location pursuant to authorization by the Federal Communications Commission or is using duly authorized devices that do not require individual licenses; and
+
+&emsp;&emsp;"(C) is added to a tower, building, or other structure.
 
 #### "SEC. 22. STREAMLINING MCKINNEY-VENTO HOMELESS ASSISTANCE ACT.
 
@@ -910,7 +986,7 @@ Net Proceeds.—Any net proceeds received shall be paid into an account in the F
 
 "(a)
 
-Definition.—In this section, the term 'property' means property located in the District of Columbia, subject to survey and as determined by the Administrator, generally consisting of Square 326 south of C Street, all in Southwest Washington, District of Columbia, including the building known as the Cotton Annex.
+Definition.—In this section, the term 'property' means property located in the District of Columbia,subject to survey and as determined by the Administrator, generally consisting of Square 326 south of C Street, all in Southwest Washington, District of Columbia, including the building known as the Cotton Annex.
 
 "(b)
 

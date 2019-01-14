@@ -32,7 +32,7 @@ Public-Private Partnerships.—(1) To achieve one or more objectives set forth i
 
 &emsp;(E) To foster cooperation between the armed forces and private industry.
 
-(3) If the Secretary concerned, or the Secretary of Defense in the case of a Defense Agency, authorizes the use of public-private partnerships under this subsection, the Secretary shall submit to Congress a report evaluating the need for loan guarantee authority, similar to the ARMS Initiative loan guarantee program under section 4555 of this title, to facilitate the establishment of public-private partnerships and the achievement of the objectives set forth in paragraph (2).
+(3) If the Secretary concerned, or the Secretary of Defense in the case of a Defense Agency, authorizes the use of public-private partnerships under this subsection, the Secretary shall submit to Congress a report evaluating the need for loan guarantee authority, similar to the ARMS Initiative loan guarantee program under section 7555 of this title, to facilitate the establishment of public-private partnerships and the achievement of the objectives set forth in paragraph (2).
 
 (c)
 
@@ -46,7 +46,7 @@ Crediting of Amounts for Performance.—Amounts received by a Center for work pe
 
 Availability of Excess Equipment to Private-Sector Partners.—Equipment or facilities of a Center of Industrial and Technical Excellence may be made available for use by a private-sector entity under this section only if—
 
-&emsp;(1) the use of the equipment or facilities will not have a significant adverse effect on thereadiness of the armed forces, as determined by the Secretary concerned or, in the case of a Center in a Defense Agency, by the Secretary of Defense; and
+&emsp;(1) the use of the equipment or facilities will not have a significant adverse effect on the readiness of the armed forces, as determined by the Secretary concerned or, in the case of a Center in a Defense Agency, by the Secretary of Defense; and
 
 &emsp;(2) the private-sector entity agrees—
 
@@ -66,9 +66,11 @@ Exclusion of Certain Expenditures From Percentage Limitation.—Amounts expended
 
 Construction of Provision.—Nothing in this section may be construed to authorize a change, otherwise prohibited by law, from the performance of work at a Center of Industrial and Technical Excellence by Department of Defense personnel to performance by a contractor.
 
-(Added Pub. L. 105–85, div. A, title III, §361(a)(1), Nov. 18, 1997, 111 Stat. 1700; amended Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–61 to 1654A–63; Pub. L. 107–107, div. A, title III, §§342, 343(b), Dec. 28, 2001, 115 Stat. 1060, 1061; Pub. L. 107–314, div. A, title III, §334, Dec. 2, 2002, 116 Stat. 2514; Pub. L. 108–375, div. A, title III, §323, title X, §1084(d)(20), Oct. 28, 2004, 118 Stat. 1846, 2062; Pub. L. 109–364, div. A, title III, §331(a), Oct. 17, 2006, 120 Stat. 2149; Pub. L. 112–81, div. A, title III, §322, Dec. 31, 2011, 125 Stat. 1362; Pub. L. 112–239, div. A, title X, §1076(d)(4), Jan. 2, 2013, 126 Stat. 1951.)
+(Added Pub. L. 105–85, div. A, title III, §361(a)(1), Nov. 18, 1997, 111 Stat. 1700; amended Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–61 to 1654A–63; Pub. L. 107–107, div. A, title III, §§342, 343(b), Dec. 28, 2001, 115 Stat. 1060, 1061; Pub. L. 107–314, div. A, title III, §334, Dec. 2, 2002, 116 Stat. 2514; Pub. L. 108–375, div. A, title III, §323, title X, §1084(d)(20), Oct. 28, 2004, 118 Stat. 1846, 2062; Pub. L. 109–364, div. A, title III, §331(a), Oct. 17, 2006, 120 Stat. 2149; Pub. L. 112–81, div. A, title III, §322, Dec. 31, 2011, 125 Stat. 1362; Pub. L. 112–239, div. A, title X, §1076(d)(4), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(3). Pub. L. 115–232 substituted "section 7555" for "section 4555".
 
 <b>2013</b>—Subsec. (d). Pub. L. 112–239 substituted "section 2667(e)" for "section 2667(d)".
 
@@ -84,7 +86,7 @@ Subsec. (f)(2). Pub. L. 108–375, §1084(d)(20), substituted "section 2466(d)" 
 
 Subsec. (f)(2), (3). Pub. L. 107–314, §334(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "The funds referred to in paragraph (1) are funds available to the military departments and Defense Agencies for depot-level maintenance and repair workloads for fiscal years 2002 through 2005."
 
-<b>2001</b>—Subsec. (e)(2)(B)(i). Pub. L. 107–107, §343(b), substituted "under the circumstances described in section 2563(c)(3) of this title" for "in a case of willful conduct or gross negligence".
+<b>2001</b>—Subsec. (e)(2)(B)(i). Pub. L. 107–107, §343(b), substituted "under the circumstances described in section2563(c)(3) of this title" for "in a case of willful conduct or gross negligence".
 
 Subsecs. (f), (g). Pub. L. 107–107, §342, added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -104,7 +106,11 @@ Pub. L. 106–398, §1 \[\[div. A\], title III, §341(c)(1), (2)\], redesignated
 
 Subsecs. (e), (f). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(e)\], added subsecs. (e) and (f).
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
 #### Reporting Requirement
 
-Pub. L. 105–85, div. A, title III, §361(c), Nov. 18, 1997, 111 Stat. 1701, provided that, not later than Mar. 1, 1999,the Secretary of Defense was to submit to Congress a report on the policies established by the Secretary pursuant to this section to implement the requirements of this section.
+Pub. L. 105–85, div. A, title III, §361(c), Nov. 18, 1997, 111 Stat. 1701, provided that, not later than Mar. 1, 1999, the Secretary of Defense was to submit to Congress a report on the policies established by the Secretary pursuant to this section to implement the requirements of this section.
 

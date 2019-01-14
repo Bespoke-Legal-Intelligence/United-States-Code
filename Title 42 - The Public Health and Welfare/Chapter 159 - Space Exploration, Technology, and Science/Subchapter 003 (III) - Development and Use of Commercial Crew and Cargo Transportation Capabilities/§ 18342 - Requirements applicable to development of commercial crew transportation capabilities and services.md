@@ -16,7 +16,7 @@
 
 #### (b) Support
 
-The Administrator may, beginning in fiscal year 2012 through the duration of the program,support follow-on commercially-developed crew transportation systems dependent upon the completion of each of the following:
+The Administrator may, beginning in fiscal year 2012 through the duration of the program, support follow-on commercially-developed crew transportation systems dependent upon the completion of each of the following:
 
 #### (1) Human rating requirements
 
@@ -46,7 +46,7 @@ The Administrator may, beginning in fiscal year 2012 through the duration of the
 
 #### References in Text
 
-The National Aeronautics and Space Act of 1958, referred to in subsec. (b)(3), is Pub. L. 85–568, July 29, 1958, 72 Stat. 426, which was classified principally to chapter 26 (§2451 et seq.) of this title and was substantially repealed and restated as chapter 201 (§20101 et seq.) of Title 51, National and Commercial Space Programs, by Pub. L. 111–314, §§3, 6, Dec. 18, 2010, 124 Stat. 3328, 3444. For complete classification of this Act to the Code, seeShort Title of 1958 Act note set out under section 10101 of Title 51 and Tables.
+The National Aeronautics and Space Act of 1958, referred to in subsec. (b)(3), is Pub. L. 85–568, July 29, 1958, 72 Stat. 426, which was classified principally to chapter 26 (§2451 et seq.) of this title and was substantially repealed and restated as chapter 201 (§20101 et seq.) of Title 51, National and Commercial Space Programs, by Pub. L. 111–314, §§3, 6, Dec. 18, 2010, 124 Stat. 3328, 3444. For complete classification of this Act to the Code, see Short Title of 1958 Act note set out under section 10101 of Title 51 and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

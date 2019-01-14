@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 June 29, 1936, ch. 858, title IX, §905(g), 49 Stat. 2016; as added Pub. L. 96–453, §3(b), Oct. 15, 1980, 94 Stat. 2008.
 
-The language in 46 App. U.S.C. 1244(g) relating to the areas and installations in the Republic of Panama isomitted because those areas and installations were turned over to Panama by the end of 1999.
+The language in 46 App. U.S.C. 1244(g) relating to the areas and installations in the Republic of Panama is omitted because those areas and installations were turned over to Panama by the end of 1999.
 

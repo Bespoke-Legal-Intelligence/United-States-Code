@@ -10,7 +10,7 @@ In this section, the term "severity of need index" means the index of the relati
 
 #### (c) Requirements for Secretarial submission
 
-When the Secretary submits to the appropriate committees of Congress the severity of need index under subsection (a), the Secretary shall provide the following:
+When the Secretary submits to the appropriate committees of Congress the severity ofneed index under subsection (a), the Secretary shall provide the following:
 
 &emsp;(1) Methodology for and rationale behind developing the severity of need index, including information related to the field testing of the severity of need index.
 

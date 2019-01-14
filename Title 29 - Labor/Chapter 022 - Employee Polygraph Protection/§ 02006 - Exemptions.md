@@ -36,7 +36,7 @@ Nothing in this chapter shall be construed to prohibit the administration, by th
 
 #### (d) Limited exemption for ongoing investigations
 
-Subject to sections 2007 and 2009 of this title, this chapter shall not prohibit an employer from requesting an employee to submit to a polygraph test if—
+Subject to sections 2007 and 2009 of this title, this chapter shall not prohibit an employer fromrequesting an employee to submit to a polygraph test if—
 
 &emsp;(1) the test is administered in connection with an ongoing investigation involving economic loss or injury to the employer's business, such as theft, embezzlement, misappropriation, or an act of unlawful industrial espionage or sabotage;
 
@@ -80,7 +80,7 @@ Subject to sections 2007 and 2009 of this title, this chapter shall not prohibit
 
 #### (2) Access
 
-&emsp;The exemption provided under this subsection shall not apply if the test is administered to a prospective employee who would notbe employed to protect facilities, materials, operations, or assets referred to in paragraph (1).
+&emsp;The exemption provided under this subsection shall not apply if the test is administered to a prospective employee who would not be employed to protect facilities, materials, operations, or assets referred to in paragraph (1).
 
 #### (f) Exemption for drug security, drug theft, or drug diversion investigations
 

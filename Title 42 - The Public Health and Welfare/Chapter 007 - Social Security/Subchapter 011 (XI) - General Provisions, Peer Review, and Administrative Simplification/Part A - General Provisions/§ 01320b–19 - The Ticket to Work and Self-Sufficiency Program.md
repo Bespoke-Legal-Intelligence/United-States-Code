@@ -80,7 +80,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (6) Quality assurance
 
-&emsp;The Commissioner shall provide for such periodic reviews as are necessary to provide for effective quality assurance in the provision of services by employment networks. The Commissioner shall solicit and consider the views of consumers and the program manager under which the employment networks serve and shall consult with providers of services to develop performance measurements. The Commissioner shall ensure that the results of the periodic reviews are made available to beneficiaries who are prospective service recipients as they select employment networks. The Commissioner shall ensure that the periodic surveys of beneficiaries receiving services under the Program are designed to measure customer service satisfaction.
+&emsp;The Commissioner shall provide for such periodic reviews as are necessary to providefor effective quality assurance in the provision of services by employment networks. The Commissioner shall solicit and consider the views of consumers and the program manager under which the employment networks serve and shall consult with providers of services to develop performance measurements. The Commissioner shall ensure that the results of the periodic reviews are made available to beneficiaries who are prospective service recipients as they select employment networks. The Commissioner shall ensure that the periodic surveys of beneficiaries receiving services under the Program are designed to measure customer service satisfaction.
 
 #### (7) Dispute resolution
 
@@ -94,7 +94,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (2) Recruitment of employment networks
 
-&emsp;A program manager shall recruit, and recommend for selection by the Commissioner, employment networks for service under the Program. The program manager shall carry out such recruitment and provide such recommendations, and shall monitor all employment networks serving in the Program in the geographic area covered under the program manager's agreement, to the extent necessary and appropriate to ensure that adequate choices of services are made available to beneficiaries. Employment networks may serve under the Program only pursuant to an agreement entered into with the Commissioner under the Program incorporating the applicable provisions of this section and regulations thereunder, and the program manager shall provide and maintain assurances to the Commissioner that payment by the Commissioner to employment networks pursuant to this section is warranted based on compliance by such employment networks with the terms of such agreement and this section. The program manager shall not impose numerical limits on thenumber of employment networks to be recommended pursuant to this paragraph.
+&emsp;A program manager shall recruit, and recommend for selection by the Commissioner, employment networks for service under the Program. The program manager shall carry out such recruitment and provide such recommendations, and shall monitor all employment networks serving in the Program in the geographic area covered under the program manager's agreement, to the extent necessary and appropriate to ensure that adequate choices of services are made available to beneficiaries. Employment networks may serve under the Program only pursuant to an agreement entered into with the Commissioner under the Program incorporating the applicable provisions of this section and regulations thereunder, and the program manager shall provide and maintain assurances to the Commissioner that payment by the Commissioner to employment networks pursuant to this section is warranted based on compliance by such employment networks with the terms of such agreement and this section. The program manager shall not impose numerical limits on the number of employment networks to be recommended pursuant to this paragraph.
 
 #### (3) Facilitation of access by beneficiaries to employment networks
 
@@ -126,7 +126,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (D) Single or associated providers allowed
 
-&emsp;&emsp;An employment network shall consist of either a single provider of such services or of an association of such providers organized so as to combine their resources into a single entity. An employment network may meet the requirements of subsection (e)(4) by providing services directly, or by entering into agreements with other individuals or entities providing appropriate employment services, vocational rehabilitation services, or other support services.
+&emsp;&emsp;An employment network shall consist of either a single provider of such services or ofan association of such providers organized so as to combine their resources into a single entity. An employment network may meet the requirements of subsection (e)(4) by providing services directly, or by entering into agreements with other individuals or entities providing appropriate employment services, vocational rehabilitation services, or other support services.
 
 #### (2) Requirements relating to provision of services
 
@@ -184,7 +184,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) No change in method of payment for beneficiaries with tickets already assigned to the employment networks
 
-&emsp;&emsp;Any election of a payment system by an employment network that would result in a change in the method of payment to the employment network for services provided to a beneficiary who is receiving services from the employment network at the time of the election shall not be effective with respect to payment for services provided to that beneficiary and the method of payment previously selected shall continue to apply with respect to such services.
+&emsp;&emsp;Any election of a payment system by an employment network that would result in achange in the method of payment to the employment network for services provided to a beneficiary who is receiving services from the employment network at the time of the election shall not be effective with respect to payment for services provided to that beneficiary and the method of payment previously selected shall continue to apply with respect to such services.
 
 #### (2) Outcome payment system
 
@@ -212,7 +212,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) Early payments upon attainment of milestones in advance of outcome payment periods
 
-&emsp;&emsp;The outcome-milestone payment system shall provide for 1 or more milestones, with respect to beneficiaries receiving services from an employment network under the Program, that are directed toward the goal of permanent employment. Such milestones shall form a part of a payment structurethat provides, in addition to payments made during outcome payment periods, payments made prior to outcome payment periods in amounts based on the attainment of such milestones.
+&emsp;&emsp;The outcome-milestone payment system shall provide for 1 or more milestones, with respect to beneficiaries receiving services from an employment network under the Program, that are directed toward the goal of permanent employment. Such milestones shall form a part of a payment structure that provides, in addition to payments made during outcome payment periods, payments made prior to outcome payment periods in amounts based on the attainment of such milestones.
 
 #### (C) Limitation on total payments to employment network
 
@@ -300,7 +300,7 @@ In this section:
 
 #### (4) Title XVI disability beneficiary
 
-&emsp;The term "title XVI disability beneficiary" means an individual eligible for supplemental security income benefits under subchapter XVI on the basis of blindness (within the meaning of section 1382c(a)(2) of this title) or disability (within the meaning of section 1382c(a)(3) of this title). An individual is a title XVI disability beneficiary for each month for which such individual is eligible for such benefits.
+&emsp;The term "title XVI disability beneficiary" means an individual eligible for supplemental security income benefits under subchapter XVI on the basis of blindness (within the meaning of section 1382c(a)(2) of this title) ordisability (within the meaning of section 1382c(a)(3) of this title). An individual is a title XVI disability beneficiary for each month for which such individual is eligible for such benefits.
 
 #### (5) Supplemental security income benefit
 
@@ -426,7 +426,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;"(6) Social Security Disability Insurance and Supplemental Security Income beneficiaries risk losing medicare or medicaid coverage that is linked to their cash benefits, a risk that is an equal, or greater, work disincentive than the loss of cash benefits associated with working.
 
-&emsp;"(7) Individuals with disabilities have greater opportunities for employment than ever before, aided by important public policy initiatives such as theAmericans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), advancements in public understanding of disability, and innovations in assistive technology, medical treatment, and rehabilitation.
+&emsp;"(7) Individuals with disabilities have greater opportunities for employment than ever before, aided by important public policy initiatives such as the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), advancements in public understanding of disability, and innovations in assistive technology, medical treatment, and rehabilitation.
 
 &emsp;"(8) Despite such historic opportunities and the desire of millions of disability recipients to work and support themselves, fewer than one-half of one percent of Social Security Disability Insurance and Supplemental Security Income beneficiaries leave the disability rolls and return to work.
 

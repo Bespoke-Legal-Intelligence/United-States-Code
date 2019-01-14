@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Under Secretary of Transportation for Security shall establish a program to deputize volunteer pilots of air carriers providing air transportation or intrastate air transportation as Federal law enforcement officers to defend the flight decks of aircraft of such air carriers against acts of criminal violence or air piracy. Such officers shall be known as "Federal flight deck officers".
+Establishment.—The Administrator shall establish a program to deputize volunteer pilots of air carriers providing air transportation or intrastate air transportation as Federal law enforcement officers to defend the flight decks of aircraft of such air carriers against acts of criminal violence or air piracy. Such officers shall be known as "Federal flight deck officers".
 
 (b)
 
@@ -10,11 +10,11 @@ Procedural Requirements.—
 
 &emsp;(1)
 
-In general.—Not later than 3 months after the date of enactment of this section, the Under Secretary shall establish procedural requirements to carry out the program under this section.
+In general.—The Administrator shall establish procedural requirements to carry out the program under this section.
 
 &emsp;(2)
 
-Commencement of program.—Beginning 3 months after the date of enactment of this section, the Under Secretary shall begin the process of training and deputizing pilots who are qualified to be Federal flight deck officers as Federal flight deck officers under the program.
+Commencement of program.—The Administrator shall train and deputize pilots who are qualified to be Federal flight deck officers as Federal flight deck officers under the program.
 
 &emsp;(3)
 
@@ -32,7 +32,7 @@ Issues to be addressed.—The procedural requirements established under paragrap
 
 &emsp;&emsp;(F) The division of responsibility between pilots in the event of an act of criminal violence or air piracy if only 1 pilot is a Federal flight deck officer and if both pilots are Federal flight deck officers.
 
-&emsp;&emsp;(G) Procedures for ensuring that the firearm of a Federal flight deck officer does not leave the cockpit if there is a disturbance in the passenger cabin of the aircraft or if the pilot leaves the cockpit for personal reasons.
+&emsp;&emsp;(G) Procedures for ensuring that the firearm of a Federal flight deck officer does notleave the cockpit if there is a disturbance in the passenger cabin of the aircraft or if the pilot leaves the cockpit for personal reasons.
 
 &emsp;&emsp;(H) Interaction between a Federal flight deck officer and a Federal air marshal on board the aircraft.
 
@@ -44,25 +44,25 @@ Issues to be addressed.—The procedural requirements established under paragrap
 
 &emsp;&emsp;(L) Methods for ensuring that pilots (including Federal flight deck officers) will be able to identify whether a passenger is a law enforcement officer who is authorized to carry a firearm aboard the aircraft.
 
-&emsp;&emsp;(M) Any other issues that the Under Secretary considers necessary.
+&emsp;&emsp;(M) Any other issues that the Administrator considers necessary.
 
-&emsp;&emsp;(N) The Under Secretary's decisions regarding the methods for implementing each of the foregoing procedural requirements shall be subject to review only for abuse of discretion.
+&emsp;&emsp;(N) The Administrator's decisions regarding the methods for implementing each of the foregoing procedural requirements shall be subject to review only for abuse of discretion.
 
 &emsp;(4)
 
-Preference.—In selecting pilots to participate in the program, the Under Secretary shall give preference to pilots who are former military or law enforcement personnel.
+Preference.—In selecting pilots to participate in the program, the Administrator shall give preference to pilots who are former military or law enforcement personnel.
 
 &emsp;(5)
 
-Classified information.—Notwithstanding section 552 of title 5 but subject to section 40119 of this title, information developed under paragraph (3)(E) shall not be disclosed.
+Classified information.—Notwithstanding section 552 of title 5 but subject to section 40119 <sup>1</sup> of this title, information developed under paragraph (3)(E) shall not be disclosed.
 
 &emsp;(6)
 
-Notice to congress.—The Under Secretary shall provide notice to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate after completing the analysis required by paragraph (3)(E).
+Notice to congress.—The Administrator shall provide notice to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate after completing the analysis required by paragraph (3)(E).
 
 &emsp;(7)
 
-Minimization of risk.—If the Under Secretary determines as a result of the analysis under paragraph (3)(E) that there is a significant risk of the catastrophic failure of an aircraft as a result of the discharge of a firearm, the Under Secretary shall take such actions as may be necessary to minimize that risk.
+Minimization of risk.—If the Administrator determines as a result of the analysis under paragraph (3)(E) that there is a significant risk of the catastrophic failure of an aircraft as a result of the discharge of a firearm, the Administrator shall take such actions as may be necessary to minimize that risk.
 
 (c)
 
@@ -70,7 +70,7 @@ Training, Supervision, and Equipment.—
 
 &emsp;(1)
 
-In general.—The Under Secretary shall only be obligated to provide the training, supervision, and equipment necessary for a pilot to be a Federal flight deck officer under this section at no expense to the pilot or the air carrier employing the pilot.
+In general.—The Administrator shall only be obligated to provide the training, supervision, and equipment necessary for a pilot to be a Federal flight deck officer under this section at no expense to the pilot or the air carrier employing the pilot.
 
 &emsp;(2)
 
@@ -78,7 +78,7 @@ Training.—
 
 &emsp;&emsp;(A)
 
-In general.—The Under Secretary shall base the requirements for the training of Federal flight deck officers under subsection (b) on the training standards applicable to Federal air marshals; except that the Under Secretary shall take into account the differing roles and responsibilities of Federal flight deck officers and Federal air marshals.
+In general.—The Administrator shall base the requirements for the training of Federal flight deck officers under subsection (b) on the training standards applicable to Federal air marshals; except that the Administrator shall take into account the differing roles and responsibilities of Federal flight deck officers and Federal air marshals.
 
 &emsp;&emsp;(B)
 
@@ -88,7 +88,7 @@ Elements.—The training of a Federal flight deck officer shall include, at a mi
 
 &emsp;&emsp;&emsp;(ii) Training to ensure that the officer maintains exclusive control over the officer's firearm at all times, including training in defensive maneuvers.
 
-&emsp;&emsp;&emsp;(iii) Training to assist the officer in determining when it is appropriate to use theofficer's firearm and when it is appropriate to use less than lethal force.
+&emsp;&emsp;&emsp;(iii) Training to assist the officer in determining when it is appropriate to use the officer's firearm and when it is appropriate to use less than lethal force.
 
 &emsp;&emsp;(C)
 
@@ -96,15 +96,39 @@ Training in use of firearms.—
 
 &emsp;&emsp;&emsp;(i)
 
-Standard.—In order to be deputized as a Federal flight deck officer, a pilot must achieve a level of proficiency with a firearm that is required by the Under Secretary. Such level shall be comparable to the level of proficiency required of Federal air marshals.
+Standard.—In order to be deputized as a Federal flight deck officer, a pilot must achieve a level of proficiency with a firearm that is required by the Administrator. Such level shall be comparable to the level of proficiency required of Federal air marshals.
 
 &emsp;&emsp;&emsp;(ii)
 
-Conduct of training.—The training of a Federal flight deck officer in the use of a firearm may be conducted by the Under Secretary or by a firearms training facility approved by the Under Secretary.
+Conduct of training.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+In general.—The training of a Federal flight deck officer in the use of a firearm may be conducted by the Administrator or by a firearms training facility.
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Access to training facilities.—The Administrator shall designate additional firearms training facilities located in various regions of the United States for Federal flight deck officers for recurrent and requalifying training relative to the number of such facilities available on the day before such <sup>2</sup> date of enactment.
 
 &emsp;&emsp;&emsp;(iii)
 
-Requalification.—The Under Secretary shall require a Federal flight deck officer to requalify to carry a firearm under the program. Such requalification shall occur at an interval required by the Under Secretary.
+Requalification.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+In general.—The Administrator shall require a Federal flight deck officer to requalify to carry a firearm under the program. Such requalification shall occur at an interval required by the Administrator.
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Use of facilities for requalification.—The Administrator shall allow a Federal flight deck officer to requalify to carry a firearm under the program through training at a Transportation Security Administration-approved firearms training facility utilizing a Transportation Security Administration-approved contractor and a curriculum developed and approved by the Transportation Security Administration.
+
+&emsp;&emsp;&emsp;(iv)
+
+Periodic review.—The Administrator shall periodically review requalification training intervals and assess whether it is appropriate and sufficient to adjust the time between each requalification training to facilitate continued participation in the program under this section while still maintaining effectiveness of the training, and update the training requirements as appropriate.
+
+&emsp;&emsp;(D)
+
+Training review.—Not later than 2 years after the date of enactment of the TSA Modernization Act, and biennially thereafter, the Administrator shall review training facilities and training requirements for initial and recurrent training for Federal flight deck officers and evaluate how training requirements, including the length of training, could be streamlined while maintaining the effectiveness of the training, and update the training requirements as appropriate.
 
 (d)
 
@@ -112,29 +136,49 @@ Deputization.—
 
 &emsp;(1)
 
-In general.—The Under Secretary may deputize, as a Federal flight deck officer under this section, a pilot who submits to the Under Secretary a request to be such an officer and whom the Under Secretary determines is qualified to be such an officer.
+In general.—The Administrator may deputize, as a Federal flight deck officer under this section, a pilot who submits to the Administrator a request to be such an officer and whom the Administrator determines is qualified to be such an officer.
 
 &emsp;(2)
 
-Qualification.—A pilot is qualified to be a Federal flight deck officer under this section if—
+Qualification.—
 
-&emsp;&emsp;(A) the pilot is employed by an air carrier;
+&emsp;&emsp;(A)
 
-&emsp;&emsp;(B) the Under Secretary determines (in the Under Secretary's discretion) that the pilot meets the standards established by the Under Secretary for being such an officer; and
+In general.—A pilot is qualified to be a Federal flight deck officer under this section if—
 
-&emsp;&emsp;(C) the Under Secretary determines that the pilot has completed the training required by the Under Secretary.
+&emsp;&emsp;&emsp;(i) the pilot is employed by an air carrier;
+
+&emsp;&emsp;&emsp;(ii) the Administrator determines (in the Administrator's discretion) that the pilot meets the standards established by the Administrator for being such an officer; and
+
+&emsp;&emsp;&emsp;(iii) the Administrator determines that the pilot has completed the training required by the Administrator.
+
+&emsp;&emsp;(B)
+
+Consistency with requirements for certain medical certificates.—In establishing standards under subparagraph (A)(ii), the Administrator may not establish medical or physical standards for a pilot to become a Federal flight deck officer that are inconsistent with or more stringent than the requirements of the Federal Aviation Administration for the issuance of the required airman medical certificate under part 67 of title 14, Code of Federal Regulations (or any corresponding similar regulation or ruling).
 
 &emsp;(3)
 
-Deputization by other federal agencies.—The Under Secretary may request another Federal agency to deputize, as Federal flight deck officers under this section, those pilots that the Under Secretary determines are qualified to be such officers.
+Deputization by other federal agencies.—The Administrator may request another Federal agency to deputize, as Federal flight deck officers under this section, those pilots that the Administrator determines are qualified to be such officers.
 
 &emsp;(4)
 
-Revocation.—The Under Secretary may,<sup>1</sup> (in the Under Secretary's discretion) revoke the deputization of a pilot as a Federal flight deck officer if the Under Secretary finds that the pilot is no longer qualified to be such an officer.
+Revocation.—The Administrator may (in the Administrator's discretion) revoke the deputization of a pilot as a Federal flight deck officer if the Administrator finds that the pilot is no longer qualified to be such an officer.
+
+&emsp;(5)
+
+Transfer from inactive to active status.—In accordance with any applicable Transportation Security Administration appeals processes, a pilot deputized as a Federal flight deck officer who moves to inactive status may return to active status upon successful completion of a recurrent training program administered within program guidelines.
 
 (e)
 
-Compensation.—Pilots participating in the program under this section shall not be eligible for compensation from the Federal Government for services provided as a Federal flight deck officer. The Federal Government and air carriers shall not be obligated to compensate a pilot for participating in the program or for the pilot's training or qualification and requalification to carry firearms under the program.
+Compensation.—
+
+&emsp;(1)
+
+In general.—Pilots participating in the program under this section shall not be eligible for compensation from the Federal Government for services provided as a Federal flight deck officer. The Federal Government and air carriers shall not be obligated to compensate a pilot for participating in the program or for the pilot's training or qualification and requalification to carry firearms under the program.
+
+&emsp;(2)
+
+Facilitation of training.—An air carrier shall permit a pilot seeking to be deputized as a Federal flight deck officer or a Federal flight deck officer to take a reasonable amount of leave to participate in initial, recurrent, or requalification training, as applicable, for the program. Leave required under this paragraph may be provided without compensation.
 
 (f)
 
@@ -142,7 +186,7 @@ Authority To Carry Firearms.—
 
 &emsp;(1)
 
-In general.—The Under Secretary shall authorize a Federal flight deck officer to carry a firearm while engaged in providing air transportation or intrastate air transportation. Notwithstanding subsection (c)(1), the officer may purchase a firearm and carry that firearm aboard an aircraft of which the officer is the pilot in accordance with this section if the firearm is of a type that may be used under the program.
+In general.—The Administrator shall authorize a Federal flight deck officer to carry a firearm while engaged in providing air transportation or intrastate air transportation. Notwithstanding subsection (c)(1), the officer may purchase a firearm and carry that firearm aboard an aircraft of which the officer is the pilot in accordance with this section if the firearm is of a type that may be used under the program.
 
 &emsp;(2)
 
@@ -150,11 +194,15 @@ Preemption.—Notwithstanding any other provision of Federal or State law, a Fed
 
 &emsp;(3)
 
-Carrying firearms outside united states.—In consultation with the Secretary of State, the Under Secretary may take such action as may be necessary to ensure that a Federal flight deck officer may carry a firearm in a foreign country whenever necessary to participate in the program.
+Carrying firearms outside united states.—In consultation with the Secretary of State, the Administrator may take such action as may be necessary to ensure that a Federal flight deck officer may carry a firearm in a foreign country whenever necessary to participate in the program.
+
+&emsp;(4)
+
+Consistency with federal air marshal program.—The Administrator shall harmonize, to the extent practicable and in a manner that does not jeopardize existing Federal air marshal agreements, the policies relating to the carriage of firearms on international flights by Federal flight deck officers with the policies of the Federal air marshal program for carrying firearms on such flights and carrying out the duties of a Federal flight deck officer, notwithstanding Annex 17 of the International Civil Aviation Organization.
 
 (g)
 
-Authority To Use Force.—Notwithstanding section 44903(d), the Under Secretary shall prescribe the standards and circumstances under which a Federal flight deck officer may use, while the program under this section is in effect, force (including lethal force) against an individual in the defense of the flight deck of an aircraft in air transportation or intrastate air transportation.
+Authority To Use Force.—Notwithstanding section 44903(d), the Administrator shall prescribe the standards and circumstances under which a Federal flight deck officer may use, while the program under this section is in effect, force (including lethal force) against an individual in the defense of the flight deck of an aircraft in air transportation or intrastate air transportation.
 
 (h)
 
@@ -174,15 +222,15 @@ Liability of federal government.—For purposes of an action against the United 
 
 (i)
 
-Procedures Following Accidental Discharges.—If an accidental discharge of a firearm under the pilot program results in the injury or death of a passenger or crew member on an aircraft, the Under Secretary—
+Procedures Following Accidental Discharges.—If an accidental discharge of a firearm under the pilot program results in the injury or death of a passenger or crew member on an aircraft, the Administrator—
 
-&emsp;(1) shall revoke the deputization of the Federal flight deck officer responsible for that firearm if the Under Secretary determines that the discharge was attributable to the negligence of the officer; and
+&emsp;(1) shall revoke the deputization of the Federal flight deck officer responsible for that firearm if the Administrator determines that the discharge was attributable to the negligence of the officer; and
 
-&emsp;(2) if the Under Secretary determines that a shortcoming in standards, training, or procedures was responsible for the accidental discharge, the Under Secretary <sup>2</sup> may temporarily suspend the program until the shortcoming is corrected.
+&emsp;(2) if the Administrator determines that a shortcoming in standards, training, or procedures was responsible for the accidental discharge, may temporarily suspend the program until the shortcoming is corrected.
 
 (j)
 
-Limitation on Authority of Air Carriers.—No air carrier shall prohibit or threatenany retaliatory action against a pilot employed by the air carrier from becoming a Federal flight deck officer under this section. No air carrier shall—
+Limitation on Authority of Air Carriers.—No air carrier shall prohibit or threaten any retaliatory action against a pilot employed by the air carrier from becoming a Federal flight deck officer under this section. No air carrier shall—
 
 &emsp;(1) prohibit a Federal flight deck officer from piloting an aircraft operated by the air carrier; or
 
@@ -190,31 +238,77 @@ Limitation on Authority of Air Carriers.—No air carrier shall prohibit or thre
 
 (k)
 
-Applicability.—
+Applicability.—This section shall not apply to air carriers operating under part 135 of title 14, Code of Federal Regulations, and to pilots employed by such carriers to the extent that such carriers and pilots are covered by section 135.119 of such title or any successor to such section.
+
+(l)
+
+Definitions.—In this section:
 
 &emsp;(1)
 
-Exemption.—This section shall not apply to air carriers operating under part 135 of title 14, Code of Federal Regulations, and to pilots employed by such carriers to the extent that such carriers and pilots are covered by section 135.119 of such title or any successor to such section.
+Administrator.—The term "Administrator" means the Administrator of the Transportation Security Administration.
 
 &emsp;(2)
 
-Pilot defined.—The term "pilot" means an individual who has final authority and responsibility for the operation and safety of the flight or any other flight deck crew member.
+Air transportation.—The term "air transportation" includes all-cargo air transportation.
 
 &emsp;(3)
 
-All-cargo air transportation.—In this section, the term "air transportation" includes all-cargo air transportation.
+Firearms training facility.—The term "firearms training facility" means a private or government-owned gun range approved by the Administrator to provide recurrent or requalification training, as applicable, for the program, utilizing a Transportation Security Administration-approved contractor and a curriculum developed and approved by the Transportation Security Administration.
 
-(Added Pub. L. 107–296, title XIV, §1402(a), Nov. 25, 2002, 116 Stat. 2300; amended Pub. L. 108–176, title VI, §609(b), Dec. 12, 2003, 117 Stat. 2570.)
+&emsp;(4)
+
+Pilot.—The term "pilot" means an individual who has final authority and responsibility for the operation and safety of the flight or any other flight deck crew member.
+
+(Added Pub. L. 107–296, title XIV, §1402(a), Nov. 25, 2002, 116 Stat. 2300; amended Pub. L. 108–176, title VI, §609(b), Dec. 12, 2003, 117 Stat. 2570; Pub. L. 115–254, div. K, title I, §1963(a)–(h), Oct. 5, 2018, 132 Stat. 3601–3603.)
 
 #### References in Text
 
-The date of enactment of this section, referred to in subsec. (b)(1), (2), is the date of enactment of Pub. L. 107–296, which was approved Nov. 25, 2002.
+Section 40119 of this title, referred to in subsec. (b)(5), was repealed by Pub. L. 115–254, div. K, title I, §1991(c)(3), Oct. 5, 2018, 132 Stat. 3627.
+
+The date of enactment of the TSA Modernization Act, referred to in subsec. (c)(2)(D), is the date of enactment of title I of div. K of Pub. L. 115–254, which was approved Oct. 5, 2018.
 
 #### Amendments
 
+<b>2018</b>—Pub. L. 115–254, §1963(h)(7), substituted "Administrator" for "Under Secretary" wherever appearing.
+
+Subsec. (a). Pub. L. 115–254, §1963(h)(1), substituted "Administrator" for "Under Secretary of Transportation for Security".
+
+Subsec. (b)(1). Pub. L. 115–254, §1963(h)(2)(A), substituted "The Administrator" for "Not later than 3 months after the date of enactment of this section, the Under Secretary".
+
+Subsec. (b)(2). Pub. L. 115–254, §1963(h)(2)(B), substituted "The Administrator shall train and deputize" for "Beginning 3 months after the date of enactment of this section, the Under Secretary shall begin the process of training and deputizing".
+
+Subsec. (b)(3)(N). Pub. L. 115–254, §1963(h)(2)(C), substituted "Administrator's" for "Under Secretary's".
+
+Subsec. (c)(2)(C)(ii). Pub. L. 115–254, §1963(a), designated existing provisions as subcl. (I), inserted heading, struck out "approved by the Under Secretary" after "facility", and added subcl. (II).
+
+Subsec. (c)(2)(C)(iii). Pub. L. 115–254, §1963(b)(1), designated existing provisions as subcl. (I), inserted heading, substituted "The Administrator shall" for "The Under Secretary shall" and "the Administrator" for "the Under Secretary", and added subcl. (II).
+
+Subsec. (c)(2)(C)(iv). Pub. L. 115–254, §1963(b)(2), added cl. (iv).
+
+Subsec. (c)(2)(D). Pub. L. 115–254, §1963(c), added subpar. (D).
+
+Subsec. (d)(2). Pub. L. 115–254, §1963(f), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), substituted "Administrator's" for "Under Secretary's" in subpar. (A)(ii), and added subpar. (B).
+
+Subsec. (d)(4). Pub. L. 115–254, §1963(h)(3), substituted "may" for "may," and "Administrator's" for "Under Secretary's".
+
+Subsec. (d)(5). Pub. L. 115–254, §1963(g), added par. (5).
+
+Subsec. (e). Pub. L. 115–254, §1963(d), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (f)(1), (3). Pub. L. 115–254, §1963(e)(1), substituted "Administrator" for "Under Secretary".
+
+Subsec. (f)(4). Pub. L. 115–254, §1963(e)(2), added par. (4).
+
+Subsec. (i)(2). Pub. L. 115–254, §1963(h)(4), substituted "may" for "the Under Secretary may".
+
+Subsec. (k). Pub. L. 115–254, §1963(h)(5), struck out par. (1) designation and heading before "This section" and struck out pars. (2) and (3) which defined "pilot" and defined "air transportation" to include all-cargo air transportation.
+
+Subsec. (l). Pub. L. 115–254, §1963(h)(6), added subsec. (l).
+
 <b>2003</b>—Subsec. (a). Pub. L. 108–176, §609(b)(1), struck out "passenger" before "air transportation" in two places.
 
-Subsec. (k)(2). Pub. L. 108–176, §609(b)(2), substituted "or any other flight deck crew member" for "or, if more than 1 pilot is required for the operation of the aircraft or by the regulations under which the flight is being conducted, the individual designated as second in command".
+Subsec. (k)(2). Pub. L. 108–176, §609(b)(2), substituted "or any other flight deck crew member" for "or, ifmore than 1 pilot is required for the operation of the aircraft or by the regulations under which the flight is being conducted, the individual designated as second in command".
 
 Subsec. (k)(3). Pub. L. 108–176, §609(b)(3), added par. (3).
 
@@ -226,9 +320,15 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 Section effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as a note under section 101 of Title 6, Domestic Security.
 
-#### Transfer of Functions
+#### Regulations
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+Pub. L. 115–254, div. K, title I, §1963(i), Oct. 5, 2018, 132 Stat. 3604, provided that: "Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\]—
+
+&emsp;"(1) the Secretary of Transportation shall revise section 15.5(b)(11) of title 49, Code of Federal Regulations, to classify information about pilots deputized as Federal flight deck officers under section 44921 of title 49, United States Code, as sensitive security information in a manner consistent with the classification of information about Federal air marshals; and
+
+&emsp;"(2) the Administrator \[of the Transportation Security Administration\] shall revise section 1520.5(b)(11) of title 49, Code of Federal Regulations, to classify information about pilots deputized as Federal flight deck officers under section 44921 of title 49, United States Code, as sensitive security information in a manner consistent with the classification of information about Federal air marshals."
+
+Pub. L. 115–254, div. K, title I, §1963(j), Oct. 5, 2018, 132 Stat. 3604, provided that: "Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\] shall prescribe such regulations as may be necessary to carry out this section \[amending this section and enacting provisions set out as a note under this section\] and the amendments made by this section."
 
 #### Equitable Implementation of 2003 Amendments
 
@@ -238,7 +338,7 @@ Pub. L. 108–176, title VI, §609(c), Dec. 12, 2003, 117 Stat. 2570, provided t
 
 Pub. L. 108–176, title VI, §609(d), Dec. 12, 2003, 117 Stat. 2570, provided that: "The requirements of subsection (e) \[section 609 of Pub. L. 108–176 has no subsec. (e)\] shall have no effect on the deadlines for implementation contained in section 44921 of title 49, United States Code, as in effect on the day before the date of enactment of this Act \[Dec. 12, 2003\]."
 
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The words "the Under Secretary" probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original.</i>
 

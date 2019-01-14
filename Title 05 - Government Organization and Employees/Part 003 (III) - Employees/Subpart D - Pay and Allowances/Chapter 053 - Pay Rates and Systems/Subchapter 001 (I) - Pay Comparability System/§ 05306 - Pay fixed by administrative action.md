@@ -28,7 +28,7 @@
 
 (e) Pay may not be paid, by reason of any exercise of authority under this section, at a rate in excess of the rate of basic pay payable for level V of the Executive Schedule.
 
-(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1949; amended Pub. L. 101–509, title V, §529 \[titleI, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1437; Pub. L. 102–378, §2(27), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 104–186, title II, §215(3), Aug. 20, 1996, 110 Stat. 1745.)
+(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1949; amended Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1437; Pub. L. 102–378, §2(27), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 104–186, title II, §215(3), Aug. 20, 1996, 110 Stat. 1745.)
 
 #### References in Text
 

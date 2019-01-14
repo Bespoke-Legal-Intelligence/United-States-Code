@@ -6,12 +6,13 @@
 | :--- | ---: |
 | [70101\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070101%20-%20Definitions.md) | Definitions. |
 | [70102\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070102%20-%20United%20States%20facility%20and%20vessel%20vulnerability%20assessments.md) | United States facility and vessel vulnerability assessments. |
+| [70102a.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070102a%20-%20Port%2C%20harbor%2C%20and%20coastal%20facility%20security.md) | Port, harbor, and coastal facility security. |
 | [70103\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070103%20-%20Maritime%20transportation%20security%20plans.md) | Maritime transportation security plans. |
 | [70104\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070104%20-%20Transportation%20security%20incident%20response.md) | Transportation security incident response. |
 | [70105\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070105%20-%20Transportation%20security%20cards.md) | Transportation security cards. |
 | [70106\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070106%20-%20Deployable%2C%20specialized%20forces.md) | Deployable, specialized forces. |
 | [70107\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070107%20-%20Grants.md) | Grants. |
-| [70107A.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070107A%20-%20Interagency%20operational%20centers%20for%20port%20security.md) | Interagency operational centers for port security. |
+| \[70107A. | Repealed.\] |
 | [70108\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070108%20-%20Foreign%20port%20assessment.md) | Foreign port assessment. |
 | [70109\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070109%20-%20Notifying%20foreign%20authorities.md) | Notifying foreign authorities. |
 | [70110\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070110%20-%20Actions%20and%20assistance%20for%20foreign%20ports%20or%20facilities%20and%20United%20States%20territories.md) | Actions and assistance for foreign ports or facilities and United States territories. |
@@ -20,7 +21,7 @@
 | [70113\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070113%20-%20Maritime%20intelligence.md) | Maritime intelligence. |
 | [70114\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070114%20-%20Automatic%20identification%20systems.md) | Automatic identification systems. |
 | [70115\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070115%20-%20Long-range%20vessel%20tracking%20system.md) | Long-range vessel tracking system. |
-| [70116\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070116%20-%20Secure%20systems%20of%20transportation.md) | Secure systems of transportation. |
+| [70116\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070116%20-%20Port%2C%20harbor%2C%20and%20coastal%20facility%20security.md) | Port, harbor, and coastal facility security. |
 | \[70117. | Repealed.\] |
 | [70118\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070118%20-%20Enforcement%20by%20State%20and%20local%20officers.md) | Enforcement by State and local officers. |
 | [70119\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070119%20-%20Civil%20penalty.md) | Civil penalty. |
@@ -43,6 +44,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–282, title IV, §§402(b)(3), 408(c), Dec. 4, 2018, 132 Stat. 4264, 4268, added items 70102a and 70116.
+
+Pub. L. 115–254, div. J, §1809(c)(1), Oct. 5, 2018, 132 Stat. 3538, struck out items 70107A "Interagency operational centers for port security" and 70116 "Secure systems of transportation".
 
 <b>2016</b>—Pub. L. 114–120, title III, §306(a)(8), Feb. 8, 2016, 130 Stat. 54, inserted a period at end of item 70107A and substituted "Security Advisory Committees" for "security advisory committees" in item 70112 and "Watch Program" for "watch program" in item 70122.
 

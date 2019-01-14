@@ -26,7 +26,7 @@ Nothing in this chapter shall be construed to apply to (or to authorize any Stat
 
 (2) The Secretary of the Interior shall have exclusive responsibility for carrying out any requirement of subchapter III of this chapter with respect to coal mining wastes or overburden for which a surface coal mining and reclamation permit is issued or approved under the Surface Mining Control and Reclamation Act of 1977 \[30 U.S.C. 1201 et seq.\]. The Secretary shall, with the concurrence of the Administrator, promulgate such regulations as may be necessary to carry out the purposes of this subsection and shall integrate such regulations with regulations promulgated under the Surface Mining Control and Reclamation Act of 1977.
 
-(Pub. L. 89–272, title II, §1006, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2802; amended Pub. L. 96–482, §3, Oct. 21, 1980, 94 Stat. 2334; Pub. L. 98–616, title I, §102, title V, §501(f)(2), Nov. 8, 1984, 98 Stat. 3225, 3276.)
+(Pub. L. 89–272, title II, §1006, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2802; amendedPub. L. 96–482, §3, Oct. 21, 1980, 94 Stat. 2334; Pub. L. 98–616, title I, §102, title V, §501(f)(2), Nov. 8, 1984, 98 Stat. 3225, 3276.)
 
 #### References in Text
 
@@ -36,7 +36,7 @@ The Atomic Energy Act of 1954, as amended, referred to in subsec. (a), is act Au
 
 The Marine Protection, Research and Sanctuaries Act of 1972, referred to in subsecs. (a) and (b), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which enacted chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
 
-The Safe Drinking Water Act, referred to in subsecs. (a) and (b), is title XIV of act July 1, 1944, as added Dec.16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Safe Drinking Water Act, referred to in subsecs. (a) and (b), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Clean Air Act, referred to in subsec. (b)(1), (2)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 

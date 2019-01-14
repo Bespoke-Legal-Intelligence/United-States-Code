@@ -66,11 +66,11 @@ If it purports to be or is represented for special dietary uses, unless its labe
 
 #### (k) Artificial flavoring, artificial coloring, or chemical preservatives
 
-If it bears or contains any artificial flavoring, artificial coloring, or chemical preservative, unless it bears labeling stating that fact, except that to the extent that compliance with the requirements of this paragraph is impracticable, exemptions shall be established by regulations promulgated by the Secretary. The provisions of this paragraph and paragraphs (g) and (i) with respect to artificial coloring shall not apply inthe case of butter, cheese, or ice cream. The provisions of this paragraph with respect to chemical preservatives shall not apply to a pesticide chemical when used in or on a raw agricultural commodity which is the produce of the soil.
+If it bears or contains any artificial flavoring, artificial coloring, or chemical preservative, unless it bears labeling stating that fact, except that to the extent that compliance with the requirements of this paragraph is impracticable, exemptions shall be established by regulations promulgated by the Secretary. The provisions of this paragraph and paragraphs (g) and (i) with respect to artificial coloring shall not apply in the case of butter, cheese, or ice cream. The provisions of this paragraph with respect to chemical preservatives shall not apply to a pesticide chemical when used in or on a raw agricultural commodity which is the produce of the soil.
 
 #### (l) Pesticide chemicals on raw agricultural commodities
 
-If it is a raw agricultural commodity which is the produce of the soil, bearing or containing a pesticide chemical applied after harvest, unless the shipping container of such commodity bears labeling which declares the presence of such chemical in or on such commodity and the common or usual name and the function of such chemical, except that no such declaration shall be required while such commodity, having been removed from the shipping container, is being held or displayed for sale at retail out of such container in accordance with the custom of the trade.
+If it is a raw agricultural commodity which is the produce of the soil, bearing or containing a pesticide chemical applied after harvest, unless the shipping container of such commodity bears labeling which declares the presence of such chemical in or on such commodity and the common or usual name and the function of such chemical, except that no such declaration shall be required while such commodity, having beenremoved from the shipping container, is being held or displayed for sale at retail out of such container in accordance with the custom of the trade.
 
 #### (m) Color additives
 
@@ -124,11 +124,11 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 > The vegetables, fruits, and raw fish to which such guidelines apply shall be determined by the Secretary by regulation and the Secretary may apply such guidelines regionally.
 
-(ii) Upon the expiration of 12 months after November 8, 1990, the Secretary shall issue a final regulation defining the circumstances that constitute substantial compliance by food retailers with the guidelines issued under subclause (i).The regulation shall provide that there is not substantial compliance if a significant number of retailers have failed to comply with the guidelines. The size of the retailers and the portion of the market served by retailers in compliance with the guidelines shall be considered in determining whether the substantial-compliance standard has been met.
+(ii) Upon the expiration of 12 months after November 8, 1990, the Secretary shall issue a final regulation defining the circumstances that constitute substantial compliance by food retailers with the guidelines issued under subclause (i). The regulation shall provide that there is not substantial compliance if a significant number of retailers have failed to comply with the guidelines. The size of the retailers and the portion of the market served by retailers in compliance with the guidelines shall be considered in determining whether the substantial-compliance standard has been met.
 
 (C)(i) Upon the expiration of 30 months after November 8, 1990, the Secretary shall issue a report on actions taken by food retailers to provide consumers with nutrition information for raw agricultural commodities and raw fish under the guidelines issued under clause (A). Such report shall include a determination of whether there is substantial compliance with the guidelines.
 
-(ii) If the Secretary finds that there is substantial compliance with the guidelines, the Secretary shall issue a report and make a determination of the type required in subclause (i) every two years.
+(ii) If the Secretary finds that there is substantial compliance with the guidelines, theSecretary shall issue a report and make a determination of the type required in subclause (i) every two years.
 
 (D)(i) If the Secretary determines that there is not substantial compliance with the guidelines issued under clause (A), the Secretary shall at the time such determination is made issue proposed regulations requiring that any person who offers raw agricultural commodities or raw fish to consumers provide, in a manner prescribed by regulations, the nutrition information required by subparagraphs (1) and (2). The Secretary shall issue final regulations imposing such requirements 6 months after issuing the proposed regulations. The final regulations shall become effective 6 months after the date of their promulgation.
 
@@ -218,7 +218,7 @@ Restaurants, Retail Food Establishments, and Vending Machines.—
 
 &emsp;(i)
 
-General requirements for restaurants and similar retail food establishments.—Except for food described in subclause (vii), in the case of food that is a standard menu item that is offered for sale in a restaurant or similar retail food establishment that is part of a chain with 20 or more locations doing business under the same name (regardless of the type of ownership of the locations) and offering for sale substantially the same menu items, the restaurant or similar retail food establishment shall disclose the information described in subclauses (ii) and (iii).
+General requirements for restaurants and similar retail food establishments.—Except for food described in subclause (vii), inthe case of food that is a standard menu item that is offered for sale in a restaurant or similar retail food establishment that is part of a chain with 20 or more locations doing business under the same name (regardless of the type of ownership of the locations) and offering for sale substantially the same menu items, the restaurant or similar retail food establishment shall disclose the information described in subclauses (ii) and (iii).
 
 &emsp;(ii)
 
@@ -278,7 +278,7 @@ Vending machines.—
 
 In general.—In the case of an article of food sold from a vending machine that—
 
-&emsp;&emsp;&emsp;(aa) does not permit a prospective purchaser to examine the Nutrition FactsPanel before purchasing the article or does not otherwise provide visible nutrition information at the point of purchase; and
+&emsp;&emsp;&emsp;(aa) does not permit a prospective purchaser to examine the Nutrition Facts Panel before purchasing the article or does not otherwise provide visible nutrition information at the point of purchase; and
 
 &emsp;&emsp;&emsp;(bb) is operated by a person who is engaged in the business of owning or operating 20 or more vending machines,
 
@@ -290,7 +290,7 @@ Voluntary provision of nutrition information.—
 
 &emsp;&emsp;(I)
 
-In general.—An authorized official of any restaurant or similar retail food establishment or vending machine operator not subject to the requirements of this clause may elect to be subject to the requirements of such clause, by registering biannually the name and address of such restaurant or similar retail food establishment or vending machine operator with the Secretary, as specified by the Secretary by regulation.
+In general.—An authorized official of any restaurant or similar retail food establishment or vending machine operator not subject to the requirements of this clausemay elect to be subject to the requirements of such clause, by registering biannually the name and address of such restaurant or similar retail food establishment or vending machine operator with the Secretary, as specified by the Secretary by regulation.
 
 &emsp;&emsp;(II)
 
@@ -350,11 +350,11 @@ Definition.—In this clause, the term "menu" or "menu board" means the primary 
 
 &emsp;&emsp;(II) the label or labeling of the food discloses the level of such fat or saturated fat in immediate proximity to such claim and with appropriate prominence which shall be no less than one-half the size of the claim with respect to the level of cholesterol,
 
-&emsp;(iv) may not be made with respect to the level of saturated fat in the food if the foodcontains cholesterol unless the label or labeling of the food discloses the level of cholesterol in the food in immediate proximity to such claim and with appropriate prominence which shall be no less than one-half the size of the claim with respect to the level of saturated fat,
+&emsp;(iv) may not be made with respect to the level of saturated fat in the food if the food contains cholesterol unless the label or labeling of the food discloses the level of cholesterol in the food in immediate proximity to such claim and with appropriate prominence which shall be no less than one-half the size of the claim with respect to the level of saturated fat,
 
 &emsp;(v) may not state that a food is high in dietary fiber unless the food is low in total fat as defined by the Secretary or the label or labeling discloses the level of total fat in the food in immediate proximity to such statement and with appropriate prominence which shall be no less than one-half the size of the claim with respect to the level of dietary fiber, and
 
-&emsp;(vi) may not be made if the Secretary by regulation prohibits the claim because the claim is misleading in light of the level of another nutrient in the food.
+&emsp;(vi) may not be made if the Secretary by regulation prohibits the claim because theclaim is misleading in light of the level of another nutrient in the food.
 
 (B) If a claim described in subparagraph (1)(A) is made with respect to a nutrient in a food and the Secretary makes a determination that the food contains a nutrient at a level that increases to persons in the general population the risk of a disease or health-related condition that is diet related, the label or labeling of such food shall contain, prominently and in immediate proximity to such claim, the following statement: "See nutrition information for \_\_\_\_\_\_ content." The blank shall identify the nutrient associated with the increased disease or health-related condition risk. In making the determination described in this clause, the Secretary shall take into account the significance of the food in the total daily diet.
 
@@ -394,7 +394,7 @@ Definition.—In this clause, the term "menu" or "menu board" means the primary 
 
 &emsp;(ii) if the food for which the claim is made does not contain, as determined by the Secretary by regulation, any nutrient in an amount which increases to persons in the general population the risk of a disease or health-related condition which is diet related, taking into account the significance of the food in the total daily diet, except that the Secretary may by regulation permit such a claim based on a finding that such a claim would assist consumers in maintaining healthy dietary practices and based on a requirement that the label contain a disclosure of the type required by subparagraph (2)(B).
 
-(B)(i) The Secretary shall promulgate regulations authorizing claims of the type described in subparagraph (1)(B) only if the Secretary determines, based on the totality of publicly available scientific evidence (including evidence from well-designed studies conducted in a manner which is consistent with generally recognized scientific procedures and principles), that there is significant scientific agreement, among experts qualified by scientific training and experience to evaluate such claims, that the claim is supported by such evidence.
+(B)(i) The Secretary shall promulgate regulations authorizing claims of the type described insubparagraph (1)(B) only if the Secretary determines, based on the totality of publicly available scientific evidence (including evidence from well-designed studies conducted in a manner which is consistent with generally recognized scientific procedures and principles), that there is significant scientific agreement, among experts qualified by scientific training and experience to evaluate such claims, that the claim is supported by such evidence.
 
 (ii) A regulation described in subclause (i) shall describe—
 
@@ -430,7 +430,7 @@ Definition.—In this clause, the term "menu" or "menu board" means the primary 
 
 (ii) Any person may petition the Secretary for permission to use in a claim described in subparagraph (1)(A) terms that are consistent with the terms defined by the Secretary under subparagraph (2)(A)(i). Within 90 days of the submission of such a petition, the Secretary shall issue a final decision denying the petition or granting such permission.
 
-(iii) Any person may petition the Secretary for permission to use an implied claim described in subparagraph (1)(A) in a brand name. After publishing notice of an opportunity to comment on the petition in the Federal Register and making the petition available to the public, the Secretary shall grant the petition if the Secretary finds that such claim is not misleading and is consistent with terms defined by the Secretary under subparagraph (2)(A)(i). The Secretary shall grant or deny the petition within 100 days of the date it is submitted to the Secretary and the petition shall be considered granted if the Secretary does not act on it within such 100 days.
+(iii) Any person may petition the Secretary for permission to use an implied claim describedin subparagraph (1)(A) in a brand name. After publishing notice of an opportunity to comment on the petition in the Federal Register and making the petition available to the public, the Secretary shall grant the petition if the Secretary finds that such claim is not misleading and is consistent with terms defined by the Secretary under subparagraph (2)(A)(i). The Secretary shall grant or deny the petition within 100 days of the date it is submitted to the Secretary and the petition shall be considered granted if the Secretary does not act on it within such 100 days.
 
 (B) A petition under clause (A)(i) respecting a claim described in subparagraph (1)(A) or (1)(B) shall include an explanation of the reasons why the claim meets the requirements of this paragraph and a summary of the scientific data which supports such reasons.
 
@@ -500,7 +500,7 @@ If—
 
 &emsp;&emsp;(ii)(I) fails to have the identity and strength that the supplement is represented to have; or
 
-&emsp;&emsp;(II) fails to meet the quality (including tablet or capsule disintegration), purity, or compositional specifications, based on validated assay or other appropriate methods, that the supplement is represented to meet.
+&emsp;&emsp;(II) fails to meet the quality (including tablet or capsule disintegration), purity, orcompositional specifications, based on validated assay or other appropriate methods, that the supplement is represented to meet.
 
 > A dietary supplement shall not be deemed misbranded solely because its label or labeling contains directions or conditions of use or warnings.
 
@@ -558,7 +558,7 @@ If—
 
 &emsp;(ii) a determination by the Secretary that the ingredient does not cause an allergic response that poses a risk to human health under a premarket approval or notification program under section 348 of this title.
 
-(B) The food ingredient may be introduced or delivered for introduction into interstate commerce as a food ingredient that is not a major food allergen 90 days after the date of receipt of the notification by the Secretary, unless the Secretary determines within the 90-day period that the notification does not meet the requirements of this paragraph, or there is insufficient scientific evidence to determine that the food ingredient does not contain allergenic protein or does not cause an allergenic response that poses a risk to human health.
+(B) The food ingredient may be introduced or delivered for introduction into interstate commerce as a food ingredient that is not a major food allergen 90 days after the date of receipt of the notification by the Secretary, unless the Secretary determines within the 90-day periodthat the notification does not meet the requirements of this paragraph, or there is insufficient scientific evidence to determine that the food ingredient does not contain allergenic protein or does not cause an allergenic response that poses a risk to human health.
 
 (C) The Secretary shall promptly post to a public site all notifications received under this subparagraph within 14 days of receipt and promptly post any objections thereto by the Secretary.
 
@@ -718,13 +718,13 @@ Pub. L. 101–535, §10(a), Nov. 8, 1990, 104 Stat. 2365, as amended by Pub. L. 
 
 &emsp;"(C) the amendments made by section 4 \[amending section 337 of this title\] shall take effect 24 months after the date of the enactment of this Act \[Nov. 8, 1990\], except that such amendments shall take effect with respect to such dietary supplements \[probably means dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances, see section 202(a)(1) of Pub. L. 102–571, set out below\] on December 31, 1993, and
 
-&emsp;"(D) the amendments made by section 5 \[amending sections 321 and 345 of this title\] shall take effect onthe date the amendments made by section 3 take effect.
+&emsp;"(D) the amendments made by section 5 \[amending sections 321 and 345 of this title\] shall take effect on the date the amendments made by section 3 take effect.
 
 "(2) Section 403(q) of the Federal Food, Drug, and Cosmetic Act (as added by section 2) shall not apply with respect to food which was labeled before the effective date of the amendments made by section 2 and section 403(r) of the Federal Food, Drug, and Cosmetic Act (as added by section 3) shall not apply with respect to food which was labeled before the effective date of the amendments made by section 3.
 
 "(3)(A) If the Secretary finds that a person who is subject to section 403(q)(4) of such Act is unable to comply with the requirements of such section upon the effective date of final regulations to implement section 403(q) of such Act or of proposed regulations to be considered as such final regulations because the Secretary has not made available to such person the information required by such section, the Secretary shall delay the application of such section to such person for such time as the Secretary may require to provide such information.
 
-"(B) If the Secretary finds that compliance with section 403(q) or 403(r)(2) of such Act would cause an undue economic hardship, the Secretary may delay the application of such sections for no more than one year."
+"(B) If the Secretary finds that compliance with section 403(q) or 403(r)(2) of such Act would cause an undueeconomic hardship, the Secretary may delay the application of such sections for no more than one year."
 
 Pub. L. 101–535, §10(c), Nov. 8, 1990, 104 Stat. 2367, as amended by Pub. L. 102–108, §1, Aug. 17, 1991, 105 Stat. 549; Pub. L. 102–571, title I, §107(17), Oct. 29, 1992, 106 Stat. 4500, provided that:
 
@@ -784,47 +784,13 @@ Nothing in amendment by Pub. L. 107–188 to be construed to limit authority of 
 
 #### Construction of Amendments by Pub. L. 101–535
 
-Pub. L. 101–535, §9, Nov. 8, 1990, 104 Stat. 2365, provided that: "The amendments made by this Act \[enacting section 343–1 of this title and amending this section and sections 321, 337, 345, and 371 of this title\] shall not be construed to alter the authority of the Secretary ofHealth and Human Services and the Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], the Federal Meat Inspection Act \[21 U.S.C. 601 et seq.\], the Poultry Products Inspection Act \[21 U.S.C. 451 et seq.\], and the Egg Products Inspection Act \[21 U.S.C. 1031 et seq.\]."
-
-#### Findings
-
-Pub. L. 108–282, title II, §202, Aug. 2, 2004, 118 Stat. 905, provided that: "Congress finds that—
-
-&emsp;"(1) it is estimated that—
-
-&emsp;&emsp;"(A) approximately 2 percent of adults and about 5 percent of infants and young children in the United States suffer from food allergies; and
-
-&emsp;&emsp;"(B) each year, roughly 30,000 individuals require emergency room treatment and 150 individuals die because of allergic reactions to food;
-
-&emsp;"(2)(A) eight major foods or food groups—milk, eggs, fish, Crustacean shellfish, tree nuts, peanuts, wheat, and soybeans—account for 90 percent of food allergies;
-
-&emsp;"(B) at present, there is no cure for food allergies; and
-
-&emsp;"(C) a food allergic consumer must avoid the food to which the consumer is allergic;
-
-&emsp;"(3)(A) in a review of the foods of randomly selected manufacturers of baked goods, ice cream, and candy in Minnesota and Wisconsin in 1999, the Food and Drug Administration found that 25 percent of sampled foods failed to list peanuts or eggs as ingredients on the food labels; and
-
-&emsp;"(B) nationally, the number of recalls because of unlabeled allergens rose to 121 in 2000 from about 35 a decade earlier;
-
-&emsp;"(4) a recent study shows that many parents of children with a food allergy were unable to correctly identify in each of several food labels the ingredients derived from major food allergens;
-
-&emsp;"(5)(A) ingredients in foods must be listed by their 'common or usual name';
-
-&emsp;"(B) in some cases, the common or usual name of an ingredient may be unfamiliar to consumers, and many consumers may not realize the ingredient is derived from, or contains, a major food allergen; and
-
-&emsp;"(C) in other cases, the ingredients may be declared as a class, including spices, flavorings, and certain colorings, or are exempt from the ingredient labeling requirements, such as incidental additives; and
-
-&emsp;"(6)(A) celiac disease is an immune-mediated disease that causes damage to the gastrointestinal tract, central nervous system, and other organs;
-
-&emsp;"(B) the current recommended treatment is avoidance of glutens in foods that are associated with celiac disease; and
-
-&emsp;"(C) a multicenter, multiyear study estimated that the prevalence of celiac disease in the United States is 0.5 to 1 percent of the general population."
+Pub. L. 101–535, §9, Nov. 8, 1990, 104 Stat. 2365, provided that: "The amendments made by this Act \[enacting section 343–1 of this title and amending this section and sections 321, 337, 345, and 371 of this title\] shall not be construed to alter the authority of the Secretary of Health and Human Services and the Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], the Federal Meat Inspection Act \[21 U.S.C. 601 et seq.\], the Poultry Products Inspection Act \[21 U.S.C. 451 et seq.\], and the Egg Products Inspection Act \[21 U.S.C. 1031 et seq.\]."
 
 #### Regulations
 
 Pub. L. 101–535, §2(b), Nov. 8, 1990, 104 Stat. 2356, as amended by Pub. L. 102–571, title II, §202(a)(2)(A), (B), Oct. 29, 1992, 106 Stat. 4500, 4501, provided that:
 
-"(1) The Secretary of Health and Human Services shall issue proposed regulations to implement section 403(q) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 343(q)\] within 12 months after the date of the enactment of this Act \[Nov. 8, 1990\], except that the Secretary shall issue, not later than June 15, 1993, proposed regulations that are applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances to implement such section. Not later than 24 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement the requirements of such section, except that the Secretary shall issue, not later than December 31, 1993, such a final regulation applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances..\[sic\] Such regulations shall—
+"(1) The Secretary of Health and Human Services shall issue proposed regulations to implement section 403(q) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 343(q)\] within 12 months after the date of the enactment of this Act \[Nov. 8, 1990\], except that the Secretary shall issue, not later than June 15, 1993, proposed regulations that are applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances to implement such section. Not later than 24 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement the requirements of such section, except that the Secretary shall issue, not later than December 31,1993, such a final regulation applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances..\[sic\] Such regulations shall—
 
 &emsp;"(A) require the required information to be conveyed to the public in a manner which enables the public to readily observe and comprehend such information and to understand its relative significance in the context of a total daily diet,
 
@@ -887,6 +853,44 @@ Pub. L. 101–535, §3(b), Nov. 8, 1990, 104 Stat. 2360, as amended by Pub. L. 1
 #### Transfer of Functions
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
+
+#### Labeling Exemption for Single Ingredient Foods and Products
+
+Pub. L. 115–334, title XII, §12516, Dec. 20, 2018, 132 Stat. 5000, provided that: "The food labeling requirements under section 403(q) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343(q)) shall not require that the nutrition facts label of any single-ingredient sugar, honey, agave, or syrup, including maple syrup, that is packaged and offered for sale as a single-ingredient food bear the declaration 'Includes X g Added Sugars.'."
+
+#### Findings
+
+Pub. L. 108–282, title II, §202, Aug. 2, 2004, 118 Stat. 905, provided that: "Congress finds that—
+
+&emsp;"(1) it is estimated that—
+
+&emsp;&emsp;"(A) approximately 2 percent of adults and about 5 percent of infants and young children in the United States suffer from food allergies; and
+
+&emsp;&emsp;"(B) each year, roughly 30,000 individuals require emergency room treatment and 150 individuals die because of allergic reactions to food;
+
+&emsp;"(2)(A) eight major foods or food groups—milk, eggs, fish, Crustacean shellfish, tree nuts, peanuts, wheat, and soybeans—account for 90 percent of food allergies;
+
+&emsp;"(B) at present, there is no cure for food allergies; and
+
+&emsp;"(C) a food allergic consumer must avoid the food to which the consumer is allergic;
+
+&emsp;"(3)(A) in a review of the foods of randomly selected manufacturers of baked goods, ice cream, and candy in Minnesota and Wisconsin in 1999, the Food and Drug Administration found that 25 percent of sampled foods failed to list peanuts or eggs as ingredients on the food labels; and
+
+&emsp;"(B) nationally, the number of recalls because of unlabeled allergens rose to 121 in 2000 from about 35 a decade earlier;
+
+&emsp;"(4) a recent study shows that many parents of children with a food allergy were unable to correctly identify in each of several food labels the ingredients derived from major food allergens;
+
+&emsp;"(5)(A) ingredients in foods must be listed by their 'common or usual name';
+
+&emsp;"(B) in some cases, the common or usual name of an ingredient may be unfamiliar to consumers, and many consumers may not realize the ingredient is derived from, or contains, a major food allergen; and
+
+&emsp;"(C) in other cases, the ingredients may be declared as a class, including spices, flavorings, and certain colorings, or are exempt from the ingredient labeling requirements, such as incidental additives; and
+
+&emsp;"(6)(A) celiac disease is an immune-mediated disease that causes damage to the gastrointestinal tract, central nervous system, and other organs;
+
+&emsp;"(B) the current recommended treatment is avoidance of glutens in foods that are associated with celiac disease; and
+
+&emsp;"(C) a multicenter, multiyear study estimated that the prevalence of celiac disease in the United States is 0.5 to 1 percent of the general population."
 
 #### Rulemaking on Labeling
 

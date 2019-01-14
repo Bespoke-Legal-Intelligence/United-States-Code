@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(iii) an alien employee who occupies a position outside the several States, the District of Columbia, and the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979);
 
-&emsp;&emsp;(iv) an employee who is subject to subchapter III of chapter 83 of this title or anyother retirement statute or retirement system applicable to an employee as defined by section 2105 of this title or a member of a uniformed service and who, at the time of separation from the service, has fulfilled the requirements for immediate annuity under such a statute or system;
+&emsp;&emsp;(iv) an employee who is subject to subchapter III of chapter 83 of this title or any other retirement statute or retirement system applicable to an employee as defined by section 2105 of this title or a member of a uniformed service and who, at the time of separation from the service, has fulfilled the requirements for immediate annuity under such a statute or system;
 
 &emsp;&emsp;(v) an employee who, at the time of separation from the service, is receiving compensation under subchapter I of chapter 81 of this title, other than one receiving this compensation concurrently with pay or on account of the death of another individual;
 
@@ -60,7 +60,7 @@
 
 > Total severance pay under this section may not exceed 1 year's pay at the rate received immediately before separation. For the purpose of this subsection, "basic pay" includes premium pay under section 5545(c)(1) of this title.
 
-(d) If an employee is reemployed by the Government of the United States or the government of the District of Columbia before the end of the period covered by payments of severance pay, the payments shall be discontinued beginning with the date of reemployment and the service represented by the unexpired portion of the period shall be recredited to the employee for use in any later computations of severance pay. For the purpose of subsection (b) (1) of this section, reemployment that causes severance pay to be discontinued is deemed employment continuous with that serving as the basis for severance pay.
+(d) If an employee is reemployed by the Government of the United States or the government of the District of Columbia before the end of the period covered by payments of severance pay, the payments shall be discontinued beginning with the date of reemployment and the service represented by the unexpired portion of the period shall be recredited to the employee for use in any later computations of severance pay. Forthe purpose of subsection (b) (1) of this section, reemployment that causes severance pay to be discontinued is deemed employment continuous with that serving as the basis for severance pay.
 
 (e) If the employee dies before the end of the period covered by payments of severance pay, the payments of severance pay with respect to the employee shall be continued as if the employee were living and shall be paid on a pay period basis to the survivor of the employee in accordance with section 5582(b) of this title.
 
@@ -116,7 +116,7 @@
 
 (4) This subsection applies with respect to severance pay payable under this section for separations taking effect on or after February 10, 1996, and before October 1, 2018.
 
-(j)(1) In the case of an employee of the Department of Energy who is entitled to severance pay under this section as a result of the establishment of the National Nuclear Security Administration, the Secretary of Energy may, upon application by the employee, pay the total amount of the severance pay to the employee in one lump sum.
+(j)(1) In the case of an employee of the Department of Energy who is entitled to severance payunder this section as a result of the establishment of the National Nuclear Security Administration, the Secretary of Energy may, upon application by the employee, pay the total amount of the severance pay to the employee in one lump sum.
 
 (2)(A) If an employee paid severance pay in a lump sum under this subsection is reemployed by the Government of the United States or the government of the District of Columbia at such time that, had the employee been paid severance pay in regular pay periods under subsection (b), the payments of such pay would have been discontinued under subsection (d) upon such reemployment, the employee shall repay to the Department of Energy an amount equal to the amount of severance pay to which the employee was entitled under this section that would not have been paid to the employee under subsection (d) by reason of such reemployment.
 
@@ -126,7 +126,7 @@
 
 (3) If an employee fails to repay to the Department of Energy an amount required to be repaid under paragraph (2)(A), that amount is recoverable from the employee as a debt due the United States.
 
-(Added Pub. L. 90–83, §1(34)(C), Sept. 11, 1967, 81 Stat. 201; amended Pub. L. 95–454, title IV, §408(a)(3), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470; Pub. L. 96–465, title II, §2305, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(2), May 30, 1988, 102 Stat. 582; Pub. L. 101–474, §5(k), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(J)\], Nov. 5, 1990, 104 Stat. 1427, 1442; Pub. L. 103–337, div. A, title III, §343(a), Oct. 5, 1994, 108 Stat. 2721; Pub. L. 104–106, div. A, title X, §1035, Feb. 10, 1996, 110 Stat. 430; Pub. L. 105–55, title III, §310(a), Oct. 7, 1997, 111 Stat. 1199; Pub. L. 105–275, title III, §§308(a), 309(a), Oct. 21, 1998, 112 Stat. 2452, 2454; Pub. L. 106–31, title V, §5006, May 21, 1999, 113 Stat. 112; Pub. L. 106–65, div. A, title XI, §1104(a), div. C, title XXXII, §3243, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 107–314, div. A, title XI, §1102(a), Dec. 2, 2002,116 Stat. 2660; Pub. L. 109–163, div. A, title XI, §1103, Jan. 6, 2006, 119 Stat. 3448; Pub. L. 109–241, title IX, §902(a)(3), July 11, 2006, 120 Stat. 566; Pub. L. 110–417, \[div. A\], title XI, §1104, Oct. 14, 2008, 122 Stat. 4617; Pub. L. 113–66, div. A, title XI, §1104, Dec. 26, 2013, 127 Stat. 886; Pub. L. 113–235, div. H, title I, §1301(b), (d), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 90–83, §1(34)(C), Sept. 11, 1967, 81 Stat. 201; amended Pub. L. 95–454, title IV, §408(a)(3), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470; Pub. L. 96–465, title II, §2305, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(2), May 30, 1988, 102 Stat. 582; Pub. L. 101–474, §5(k), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(J)\], Nov. 5, 1990, 104 Stat. 1427, 1442; Pub. L. 103–337, div. A, title III, §343(a), Oct. 5, 1994, 108 Stat. 2721; Pub. L. 104–106, div. A, title X, §1035, Feb. 10, 1996, 110 Stat. 430; Pub. L. 105–55, title III, §310(a), Oct. 7, 1997, 111 Stat. 1199; Pub. L. 105–275, title III, §§308(a), 309(a), Oct. 21, 1998, 112 Stat. 2452, 2454; Pub. L. 106–31, title V, §5006, May 21, 1999, 113 Stat. 112; Pub. L. 106–65, div. A, title XI, §1104(a), div. C, title XXXII, §3243, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 107–314, div. A, title XI, §1102(a), Dec. 2, 2002, 116 Stat. 2660; Pub. L. 109–163, div. A, title XI, §1103, Jan. 6, 2006, 119 Stat. 3448; Pub. L. 109–241, title IX, §902(a)(3), July 11, 2006, 120 Stat. 566; Pub. L. 110–417, \[div. A\], title XI, §1104, Oct. 14, 2008, 122 Stat. 4617; Pub. L. 113–66, div. A, title XI, §1104, Dec. 26, 2013, 127 Stat. 886; Pub. L. 113–235, div. H, title I, §1301(b), (d), Dec. 16, 2014, 128 Stat. 2537.)
 
 Historical and Revision Notes
 
@@ -228,7 +228,7 @@ Subsec. (b). Pub. L. 101–474, §5(k)(2), inserted at end "However, the Directo
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 3243 of Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set outas an Effective Date note under section 2401 of Title 50, War and National Defense.
+Amendment by section 3243 of Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as an Effective Date note under section 2401 of Title 50, War and National Defense.
 
 #### Effective Date of 1994 Amendment
 

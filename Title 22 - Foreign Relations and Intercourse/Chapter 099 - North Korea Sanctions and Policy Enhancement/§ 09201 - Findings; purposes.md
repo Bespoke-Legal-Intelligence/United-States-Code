@@ -26,7 +26,7 @@ Congress finds the following:
 
 &emsp;(4) North Korea has—
 
-&emsp;&emsp;(A) unilaterally withdrawn from the Agreement Concerning a Military Armistice in Korea, signed at Panmunjom July 27, 1953\(commonly referred to as the "Korean War Armistice Agreement"); and
+&emsp;&emsp;(A) unilaterally withdrawn from the Agreement Concerning a Military Armistice in Korea, signed at Panmunjom July 27, 1953 (commonly referred to as the "Korean War Armistice Agreement"); and
 
 &emsp;&emsp;(B) committed provocations against South Korea—
 
@@ -107,4 +107,8 @@ Pub. L. 115–44, title III, §301, Aug. 2, 2017, 131 Stat. 940, provided that: 
 #### Short Title
 
 Pub. L. 114–122, §1(a), Feb. 18, 2016, 130 Stat. 93, provided that: "This Act \[enacting this chapter and amending section 7814 of this title and sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'North Korea Sanctions and Policy Enhancement Act of 2016'."
+
+#### Rule of Construction for Pub. L. 115–232
+
+Nothing in Pub. L. 115–232 \[see Tables for classification\] to be construed to authorize the use of force against North Korea, see section 1295 of Pub. L. 115–232, set out as a note under section 8784 of this title.
 

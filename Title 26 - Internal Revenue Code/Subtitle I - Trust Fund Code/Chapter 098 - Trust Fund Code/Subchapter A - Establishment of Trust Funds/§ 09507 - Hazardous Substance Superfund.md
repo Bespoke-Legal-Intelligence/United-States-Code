@@ -40,7 +40,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 &emsp;&emsp;&emsp;(iii) section 111(m) of CERCLA (as so in effect), or
 
-&emsp;&emsp;(B) hereafter authorized by a law which does not authorize the expenditure out of the Superfund for a general purpose not covered by subparagraph (A) (as so in effect).
+&emsp;&emsp;(B) hereafter authorized by a law which does not authorize the expenditure out ofthe Superfund for a general purpose not covered by subparagraph (A) (as so in effect).
 
 #### (2) Exception for certain transfers, etc., of hazardous substances
 
@@ -136,7 +136,7 @@ Superfund treated as continuation of old trust fund.—The Hazardous Substance S
 
 #### Authorization of Appropriations
 
-Pub. L. 99–499, title V, §517(b), Oct. 17, 1986, 100 Stat. 1773, as amended by Pub. L. 101–508, title XI, §11231(d),Nov. 5, 1990, 104 Stat. 1388–445, provided that: "There is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to the Hazardous Substance Superfund for fiscal year—
+Pub. L. 99–499, title V, §517(b), Oct. 17, 1986, 100 Stat. 1773, as amended by Pub. L. 101–508, title XI, §11231(d), Nov. 5, 1990, 104 Stat. 1388–445, provided that: "There is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to the Hazardous Substance Superfund for fiscal year—
 
 &emsp;"(1) 1987, $250,000,000,
 

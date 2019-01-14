@@ -94,7 +94,7 @@ Actions included.—The term "adverse action"—
 
 &emsp;&emsp;(B) means—
 
-&emsp;&emsp;&emsp;(i) a denial or cancellation of, an increase in any charge for, or a reduction orother adverse or unfavorable change in the terms of coverage or amount of, any insurance, existing or applied for, in connection with the underwriting of insurance;
+&emsp;&emsp;&emsp;(i) a denial or cancellation of, an increase in any charge for, or a reduction or other adverse or unfavorable change in the terms of coverage or amount of, any insurance, existing or applied for, in connection with the underwriting of insurance;
 
 &emsp;&emsp;&emsp;(ii) a denial of employment or any other decision for employment purposes that adversely affects any current or prospective employee;
 
@@ -326,7 +326,25 @@ Subsequent disclosure.—After taking any adverse action based in whole or in pa
 
 Self-regulatory organization defined.—For purposes of this subsection, the term "self-regulatory organization" includes any self-regulatory organization (as defined in section 78c(a)(26) of this title), any entity established under title I of the Sarbanes-Oxley Act of 2002 \[15 U.S.C. 7211 et seq.\], any board of trade designated by the Commodity Futures Trading Commission, and any futures association registered with such Commission.
 
-(Pub. L. 90–321, title VI, §603, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102–537, §2(b), Oct. 27, 1992, 106 Stat. 3531; Pub. L. 104–208, div. A, title II, §2402, Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 105–347, §6(1)–(3), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §111, title II, §214(c)(1), title IV, §411(b), (c), title VI, §611, Dec. 4, 2003, 117 Stat. 1954, 1983, 2001, 2010; Pub. L. 111–203, title X, §1088(a)(1), (2)(A), (C), (3), July 21, 2010, 124 Stat. 2086, 2087.)
+(Pub. L. 90–321, title VI, §603, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102–537, §2(b), Oct. 27, 1992, 106 Stat. 3531; Pub. L. 104–208, div. A, title II, §2402, Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 105–347, §6(1)–(3), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §111, title II, §214(c)(1), title IV, §411(b), (c), title VI, §611, Dec. 4, 2003, 117 Stat. 1954, 1983, 2001, 2010; Pub. L. 111–203, title X, §1088(a)(1), (2)(A), (C), (3), July 21, 2010, 124 Stat. 2086, 2087; Pub. L. 115–174, title III, §302(b)(1), May 24, 2018, 132 Stat. 1333.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–174, title III, §302(b)(1), (e), May 24, 2018, 132 Stat. 1333, 1335, provided that, effective 1 year after May 24, 2018, this section is amended by adding at the end the following new subsections:</i>
+
+<i>(z)</i>
+
+Veteran.—The term "veteran" has the meaning given the term in section 101 of title 38.
+
+<i>(aa)</i>
+
+Veteran's Medical Debt.—The term "veteran's medical debt"—
+
+&emsp;<i>(1) means a medical collection debt of a veteran owed to a non-Department of Veterans Affairs health care provider that was submitted to the Department for payment for health care authorized by the Department of Veterans Affairs; and</i>
+
+&emsp;<i>(2) includes medical collection debt that the Department of Veterans Affairs has wrongfully charged a veteran.</i>
+
+<i>See 2018 Amendment note below.</i>
 
 #### References in Text
 
@@ -337,6 +355,8 @@ Section 1602(i) of this title, referred to in subsec. (q)(5), was redesignated s
 The Sarbanes-Oxley Act of 2002, referred to in subsec. (y)(3), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745. Title I of the Act is classified principally to subchapter I (§7211 et seq.) of chapter 98 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsecs. (z), (aa). Pub. L. 115–174 added subsecs. (z) and (aa).
 
 <b>2010</b>—Subsec. (k)(2). Pub. L. 111–203, §1088(a)(3), substituted "Bureau" for "Board of Governors of the Federal Reserve System".
 
@@ -354,7 +374,7 @@ Subsec. (d)(2)(D). Pub. L. 108–159, §611(b), inserted "or (x)" after "subsect
 
 Subsec. (d)(3). Pub. L. 108–159, §411(b)(2), added par. (3).
 
-Subsec. (i). Pub. L. 108–159, §411(c), inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: "The term 'medical information' means information or records obtained, with the consent of the individual to whom it relates, from licensed physicians or medical practitioners, hospitals, clinics, or other medical or medically related facilities."
+Subsec. (i). Pub. L. 108–159, §411(c), inserted heading and amended text of subsec. (i) generally. Prior toamendment, text read as follows: "The term 'medical information' means information or records obtained, with the consent of the individual to whom it relates, from licensed physicians or medical practitioners, hospitals, clinics, or other medical or medically related facilities."
 
 Subsecs. (q) to (w). Pub. L. 108–159, §111, added subsecs. (q) to (w).
 
@@ -381,6 +401,10 @@ Subsec. (o). Pub. L. 104–208, §2402(f), added subsec. (o).
 Subsec. (p). Pub. L. 104–208, §2402(g), added subsec. (p).
 
 <b>1992</b>—Subsec. (j). Pub. L. 102–537 added subsec. (j).
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–174, title III, §302(e), May 24, 2018, 132 Stat. 1335, provided that: "The amendments made by this section \[amending this section and sections 1681c, 1681c–1, 1681i, and 1681t of this title and enacting provisions set out as a note under section 1681c of this title\] shall take effect on the date that is 1 year after the date of enactment of this Act \[May 24, 2018\]."
 
 #### Effective Date of 2010 Amendment
 

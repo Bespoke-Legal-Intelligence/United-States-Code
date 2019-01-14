@@ -46,7 +46,7 @@ Findings.—Congress finds the following:
 
 "(b)
 
-Sense of Congress.—It is the sense of Congress that the Secretary, acting through the Legal Adviser of the Department of State, should continue to build on the Secretary's efforts to engage United States allies to develop a common coalition approach, in compliance with Common Article 3 of the Geneva Conventions and other applicable legal principles, toward the detention and humane treatment of individuals detained during Operation Iraqi Freedom, Operation Enduring Freedom, or in connection with United States counterterrorist operations.
+Sense of Congress.—It is the sense of Congress that the Secretary, acting through the Legal Adviser of the Department of State, should continue to build on the Secretary's efforts to engage United States allies todevelop a common coalition approach, in compliance with Common Article 3 of the Geneva Conventions and other applicable legal principles, toward the detention and humane treatment of individuals detained during Operation Iraqi Freedom, Operation Enduring Freedom, or in connection with United States counterterrorist operations.
 
 "(c)
 
@@ -136,7 +136,7 @@ Sec. 5. <i>Special Interagency Task Force on Interrogation and Transfer Policies
 
 &emsp;(viii) other officers or full-time or permanent part-time employees of the United States, as determined by the Chair, with the concurrence of the head of the department or agency concerned.
 
-(c) <i>Staff</i>. The Chair may designate officers and employees within the Department of Justice to serve asstaff to support the Special Task Force. At the request of the Chair, officers and employees from other departments or agencies may serve on the Special Task Force with the concurrence of the head of the department or agency that employ such individuals. Such staff must be officers or full-time or permanent part-time employees of the United States. The Chair shall designate an officer or employee of the Department of Justice to serve as the Executive Secretary of the Special Task Force.
+(c) <i>Staff</i>. The Chair may designate officers and employees within the Department of Justice to serve as staff to support the Special Task Force. At the request of the Chair, officers and employees from other departments or agencies may serve on the Special Task Force with the concurrence of the head of the department or agency that employ such individuals. Such staff must be officers or full-time or permanent part-time employees of the United States. The Chair shall designate an officer or employee of the Department of Justice to serve as the Executive Secretary of the Special Task Force.
 
 (d) <i>Operation</i>. The Chair shall convene meetings of the Special Task Force, determine its agenda, and direct its work. The Chair may establish and direct subgroups of the Special Task Force, consisting exclusively of members of the Special Task Force, to deal with particular subjects.
 

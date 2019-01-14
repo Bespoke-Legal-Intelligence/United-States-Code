@@ -6,7 +6,7 @@ The Secretary is authorized to prescribe such regulations as may be necessary or
 
 #### (b) Factors
 
-The regulations prescribed under this section shall set forth factors which are to be taken intoaccount in determining with respect to a particular factual situation whether a debtor-creditor relationship exists or a corporation-shareholder relationship exists. The factors so set forth in the regulations may include among other factors:
+The regulations prescribed under this section shall set forth factors which are to be taken into account in determining with respect to a particular factual situation whether a debtor-creditor relationship exists or a corporation-shareholder relationship exists. The factors so set forth in the regulations may include among other factors:
 
 &emsp;(1) whether there is a written unconditional promise to pay on demand or on a specified date a sum certain in money in return for an adequate consideration in money or money's worth, and to pay a fixed rate of interest,
 
@@ -22,7 +22,7 @@ The regulations prescribed under this section shall set forth factors which are 
 
 #### (1) In general
 
-&emsp;The characterization (as of the time of issuance) by the issuer as to whether an interest in a corporation is stock or indebtedness shall be binding on such issuer and on all holders of such interest (but shall not be binding on the Secretary).
+&emsp;The characterization (as of the time of issuance) by the issuer as to whether an interestin a corporation is stock or indebtedness shall be binding on such issuer and on all holders of such interest (but shall not be binding on the Secretary).
 
 #### (2) Notification of inconsistent treatment
 

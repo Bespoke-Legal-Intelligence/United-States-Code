@@ -30,7 +30,7 @@ As soon as practicable after October 8, 2010, the Chairman of the Commission sha
 
 #### (3) Representatives of other stakeholders and interested parties
 
-&emsp;Representatives of such other stakeholders and interested and affected parties as the Chairman of the Commission determines appropriate.
+&emsp;Representatives of such other stakeholders and interested and affected parties as theChairman of the Commission determines appropriate.
 
 #### (c) Development of recommendations
 
@@ -86,7 +86,7 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Adviso
 
 #### (g) Implementing recommendations
 
-The Commission shall have the authority to promulgate regulations to implement the recommendations proposed by the Advisory Committee, as well as any other regulations, technical standards, protocols, and procedures as are necessary to achieve reliable, interoperablecommunication that ensures access by individuals with disabilities to an Internet protocol-enabled emergency network, where achievable and technically feasible.
+The Commission shall have the authority to promulgate regulations to implement the recommendations proposed by the Advisory Committee, as well as any other regulations, technical standards, protocols, and procedures as are necessary to achieve reliable, interoperable communication that ensures access by individuals with disabilities to an Internet protocol-enabled emergency network, where achievable and technically feasible.
 
 #### (h) Definitions
 

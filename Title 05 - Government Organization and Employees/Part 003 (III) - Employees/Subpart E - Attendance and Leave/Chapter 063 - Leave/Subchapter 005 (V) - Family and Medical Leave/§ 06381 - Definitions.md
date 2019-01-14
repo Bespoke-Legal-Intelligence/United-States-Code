@@ -54,7 +54,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(A) in the case of a member of the Armed Forces (including a member of the National Guard or Reserves), means an injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member's active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating; and
 
-&emsp;&emsp;(B) in the case of a veteran who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during a period described in paragraph (8)(B), means an injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member's active duty and was aggravated by service in line of duty on active duty in the ArmedForces) and that manifested itself before or after the member became a veteran; and
+&emsp;&emsp;(B) in the case of a veteran who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during a period described in paragraph (8)(B), means an injury or illnessthat was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member's active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that manifested itself before or after the member became a veteran; and
 
 &emsp;(12) the term "veteran" has the meaning given the term in section 101 of title 38, United States Code.
 

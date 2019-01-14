@@ -11,7 +11,7 @@
 | [13107\.](%C2%A7%2013107%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [13108\.](%C2%A7%2013108%20-%20Computing%20amounts%20allocated%20to%20States%20and%20State%20records%20requirements.md) | Computing amounts allocated to States and State records requirements. |
 | [13109\.](%C2%A7%2013109%20-%20Consultation%2C%20cooperation%2C%20and%20regulation.md) | Consultation, cooperation, and regulation. |
-| [13110\.](%C2%A7%2013110%20-%20National%20Boating%20Safety%20Advisory%20Council.md) | National Boating Safety Advisory Council. |
+| \[13110. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -20,6 +20,8 @@
 This Chapter establishes the recreational boating safety and facility program administered by the Coast Guard. The general purpose is to encourage State participation in boating safety education and enforcement activities.
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–282, title VI, §601(c)(4)(A), Dec. 4, 2018, 132 Stat. 4289, struck out item 13110 "National Boating Safety Advisory Council".
 
 <b>2006</b>—Pub. L. 109–304, §16(b)(3), Oct. 6, 2006, 120 Stat. 1705, added item 13101 and redesignated former items 13101 to 13106 as 13102 to 13107, respectively.
 
@@ -41,4 +43,4 @@ This Chapter establishes the recreational boating safety and facility program ad
 - [&sect; 13107 - Authorization of appropriations](%C2%A7%2013107%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 13108 - Computing amounts allocated to States and State records requirements](%C2%A7%2013108%20-%20Computing%20amounts%20allocated%20to%20States%20and%20State%20records%20requirements.md)
 - [&sect; 13109 - Consultation, cooperation, and regulation](%C2%A7%2013109%20-%20Consultation%2C%20cooperation%2C%20and%20regulation.md)
-- [&sect; 13110 - National Boating Safety Advisory Council](%C2%A7%2013110%20-%20National%20Boating%20Safety%20Advisory%20Council.md)
+- [&sect; 13110 - Repealed. Pub. L. 115&#8211;282, title VI, &sect;601(c)(4)(A), Dec. 4, 2018, 132 Stat. 4289](%C2%A7%2013110%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93282%2C%20title%20VI%2C%20%C2%A7601%28c%29%284%29%28A%29%2C%20Dec.%204%2C%202018%2C%20132%20Stat.%204289.md)

@@ -18,6 +18,7 @@
 | [5114\.](%C2%A7%2005114%20-%20State%20examination%20authority.md) | State examination authority. |
 | [5115\.](%C2%A7%2005115%20-%20Reports%20and%20recommendations%20to%20Congress.md) | Reports and recommendations to Congress. |
 | [5116\.](%C2%A7%2005116%20-%20Study%20and%20reports%20on%20defaults%20and%20foreclosures.md) | Study and reports on defaults and foreclosures. |
+| [5117\.](%C2%A7%2005117%20-%20Employment%20transition%20of%20loan%20originators.md) | Employment transition of loan originators. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,3 +43,4 @@
 - [&sect; 05114 - State examination authority](%C2%A7%2005114%20-%20State%20examination%20authority.md)
 - [&sect; 05115 - Reports and recommendations to Congress](%C2%A7%2005115%20-%20Reports%20and%20recommendations%20to%20Congress.md)
 - [&sect; 05116 - Study and reports on defaults and foreclosures](%C2%A7%2005116%20-%20Study%20and%20reports%20on%20defaults%20and%20foreclosures.md)
+- [&sect; 05117 - Employment transition of loan originators](%C2%A7%2005117%20-%20Employment%20transition%20of%20loan%20originators.md)

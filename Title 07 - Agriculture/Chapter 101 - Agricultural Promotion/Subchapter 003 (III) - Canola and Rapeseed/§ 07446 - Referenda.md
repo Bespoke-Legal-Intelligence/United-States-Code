@@ -8,7 +8,7 @@
 
 #### (2) Advance notice
 
-&emsp;The Secretary shall, to the extent practicable, provide broad public notice in advance of any referendum. The notice shall be provided, without advertising expenses, by means of newspapers, county newsletters, the electronic media, and press releases, through the use of notices posted in State and county cooperative extension offices and county Consolidated Farm Service Agency offices, and by other appropriate means specified in the order. The notice shall contain information on when the referendum will be held, registration and voting requirements, rules regarding absentee voting, and other pertinent information.
+&emsp;The Secretary shall, to the extent practicable, provide broad public notice in advance of any referendum. The notice shall be provided, without advertising expenses, by means of newspapers, county newsletters, the electronic media, and press releases, through the use of notices posted in State and county cooperative extension offices and county Consolidated Farm Service Agency <sup>1</sup> offices, and by other appropriate means specified in the order. The notice shall contain information on when the referendum will be held, registration and voting requirements, rules regarding absentee voting, and other pertinent information.
 
 #### (3) Approval of order
 
@@ -36,7 +36,7 @@
 
 #### (2) Disapproval of order
 
-&emsp;If the Secretary determines, in a referendum conducted under paragraph (1), that suspension or termination of the order is favored by a majority of the producers voting in the referendum, the Secretary shall suspend or terminate, as appropriate, collection of assessments under the order within 180 days afterthe determination, and shall suspend or terminate the order, as appropriate, in an orderly manner as soon as practicable after the determination.
+&emsp;If the Secretary determines, in a referendum conducted under paragraph (1), that suspension or termination of the order is favored by a majority of the producers voting in the referendum, the Secretary shall suspend or terminate, as appropriate, collection of assessments under the order within 180 days after the determination, and shall suspend or terminate the order, as appropriate, in an orderly manner as soon as practicable after the determination.
 
 #### (3) Opportunity to request additional referenda
 
@@ -56,7 +56,7 @@
 
 #### (C) Notifications
 
-&emsp;&emsp;The Secretary shall publish a notice in the Federal Register, and the Board shall provide written notification to producers, not later than 60 days prior to the end of the period established under subparagraph (B)(i) for an in-person request, of the opportunity of producers to request an additional referendum. The notification shall explain the right of producers to an additional referendum, the procedure for a referendum, the purpose of a referendum, and the date and method by which producers may act to request an additional referendum under this paragraph. The Secretary shall take such other action as the Secretary determines is necessary to ensure that producers are made aware of the opportunity to request an additional referendum.
+&emsp;&emsp;The Secretary shall publish a notice in the Federal Register, and the Board shall provide written notification to producers, not later than 60 days prior to the end of the period established under subparagraph (B)(i) for an in-person request, of the opportunity of producers to request an additional referendum. The notification shall explain the right of producers to an additional referendum, the procedure for a referendum, thepurpose of a referendum, and the date and method by which producers may act to request an additional referendum under this paragraph. The Secretary shall take such other action as the Secretary determines is necessary to ensure that producers are made aware of the opportunity to request an additional referendum.
 
 #### (D) Action by Secretary
 
@@ -90,9 +90,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsecs. (a)(2), (b)(3)(B)(i). Pub. L. 110–246, §7511(c)(28), substituted "cooperative extension" for "Cooperative State Research, Education, and Extension Service".
 
+#### Change of Name
+
+Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments made to section 6932 of this title by Pub. L. 115–334, title XII, §12404(a), Dec. 20, 2018, 132 Stat. 4974.
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by section 7511(c)(28) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

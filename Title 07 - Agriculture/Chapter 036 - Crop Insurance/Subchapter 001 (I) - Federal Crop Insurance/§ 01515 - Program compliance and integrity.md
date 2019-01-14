@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall develop and implement a coordinated plan for the Corporation and the Farm Service Agency to reconcile all relevant information received by the Corporation or the Farm Service Agency from a producer who obtains crop insurance coverage under this subchapter.
+&emsp;The Secretary shall develop and implement a coordinated plan for the Corporation and theFarm Service Agency to reconcile all relevant information received by the Corporation or the Farm Service Agency from a producer who obtains crop insurance coverage under this subchapter.
 
 #### (2) Frequency
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the date of any subsequent correction of data by the Farm Service Agency made as a result of the verification of information, to make conforming corrections; and
 
-&emsp;&emsp;&emsp;(iii) at any time, to correct electronic transmission errors that were made by an agent or approved insurance provider, or such errors made by the Farm Service Agency or any other agency of the Department of Agriculture in transmitting the information provided by the producer for purposes of other programs of the Department to the extent an agent or approvedinsurance provider relied upon the erroneous information for crop insurance purposes.
+&emsp;&emsp;&emsp;(iii) at any time, to correct electronic transmission errors that were made by an agent or approved insurance provider, or such errors made by the Farm Service Agency or any other agency of the Department of Agriculture in transmitting the information provided by the producer for purposes of other programs of the Department to the extent an agent or approved insurance provider relied upon the erroneous information for crop insurance purposes.
 
 #### (B) Limitation
 
@@ -76,13 +76,19 @@
 
 &emsp;&emsp;(A) at the request of the Corporation or, subject to paragraph (2), on its own initiative if the Farm Service Agency has reason to suspect the existence of program fraud, waste, or abuse, conducting fact finding relative to allegations of program fraud, waste, or abuse;
 
-&emsp;&emsp;(B) reporting to the Corporation, in writing in a timely manner, the results of any fact finding conducted pursuant to subparagraph (A), any allegation of fraud, waste, or abuse, and any identified program vulnerabilities; and
+&emsp;&emsp;(B) reporting to the Corporation, in writing in a timely manner, the results of any fact finding conducted pursuant to subparagraph (A), any allegation of fraud, waste, or abuse, and any identified program vulnerabilities;
 
-&emsp;&emsp;(C) assisting the Corporation and approved insurance providers in auditing a statistically appropriate number of claims made under any policy or plan of insurance under this subchapter.
+&emsp;&emsp;(C) assisting the Corporation and approved insurance providers in auditing a statistically appropriate number of claims made under any policy or plan of insurance under this subchapter; and
+
+&emsp;&emsp;(D) using published aggregate data from the National Agricultural Statistics Service or any other data source to—
+
+&emsp;&emsp;&emsp;(i) detect yield disparities or other data anomalies that indicate potential fraud; and
+
+&emsp;&emsp;&emsp;(ii) target the relevant counties, crops, regions, companies, or agents associated with that potential fraud for audits and other enforcement actions.
 
 #### (2) FSA inquiry
 
-&emsp;If, within five calendar days after receiving a report submitted under paragraph (1)(B), the Corporation does not provide a written response that describes the intended actions of the Corporation, the Farm Service Agency may conduct its own inquiry into the alleged program fraud, waste, or abuse on approval from the State director of the Farm Service Agency of the State in which the alleged fraud, waste, or abuse occurred. If as a result of the inquiry, the Farm Service Agency concludes further investigation is warranted, but the Corporation declines to proceed with the investigation, the Farm Service Agency may refer the matter to the Inspector General of the Department of Agriculture.
+&emsp;If, within five calendar days after receiving a report submitted under paragraph (1)(B), the Corporation does not provide a written response that describes the intended actions of the Corporation, the Farm Service Agency may conduct its own inquiry into the alleged program fraud, waste, or abuse on approvalfrom the State director of the Farm Service Agency of the State in which the alleged fraud, waste, or abuse occurred. If as a result of the inquiry, the Farm Service Agency concludes further investigation is warranted, but the Corporation declines to proceed with the investigation, the Farm Service Agency may refer the matter to the Inspector General of the Department of Agriculture.
 
 #### (3) Use of field infrastructure
 
@@ -134,7 +140,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 #### (A) Review required
 
-&emsp;&emsp;The Corporation shall conduct a review of any agent identified pursuant to paragraph (1)(A), and any person identified pursuant to paragraph (1)(B), to determine whether the higher loss claims associated with the agent or the higher number of accepted or denied claims (as applicable) associated with the person are the result of fraud, waste, or abuse.
+&emsp;&emsp;The Corporation shall conduct a review of any agent identified under paragraph (1)(A), and any person identified under paragraph (1)(B), to determine whether the higher loss claims associated with the agent or the higher number of accepted or denied claims (as applicable) associated with the person are the result of fraud, waste, or abuse.
 
 #### (B) Remedial action
 
@@ -148,7 +154,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 #### (1) Types of information required
 
-&emsp;The Secretary shall establish procedures under which approved insurance providers shall submit to the Corporation the following information with respect to each policy or plan of insurance offered under this subchapter:
+&emsp;The Secretary shall establish procedures under which approved insurance providersshall submit to the Corporation the following information with respect to each policy or plan of insurance offered under this subchapter:
 
 &emsp;&emsp;(A) The name and identification number of the insured.
 
@@ -156,9 +162,23 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 &emsp;&emsp;(C) The elected coverage level, including the price election, of the insured.
 
+&emsp;&emsp;(D) The actual production history to be used to establish insurable yields.
+
 #### (2) Time for submission
 
-&emsp;The information required by paragraph (1) with respect to a policy or plan of insurance shall be submitted so as to ensure receipt by the Corporation not later than the Saturday of the week containing the calendar day that is 30 days after the applicable sales closing date for the crop to be insured.
+#### (A) In general
+
+&emsp;&emsp;The information required to be submitted under subparagraphs (A) through (C) of paragraph (1) with respect to a policy or plan of insurance shall be submitted so as to ensure receipt by the Corporation not later than the Saturday of the week containing the calendar day that is 30 days after the applicable sales closing date for the crop to be insured.
+
+#### (B) Actual production history
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The information required to be submitted under paragraph (1)(D) with respect to an applicable policy or plan of insurance for a covered commodity (as defined in section 9011 of this title) shall be submitted so as to ensure receipt by the Corporation not later than the Saturday of the week containing the calendar day that is 30 days after the applicable production reporting date for the crop to be insured.
+
+#### (ii) Correction of errors
+
+&emsp;&emsp;&emsp;Nothing in clause (i) limits the ability of an approved insurance provider to correct any error in the information submitted under paragraph (1)(D) after receipt of the information by the Corporation in accordance with clause (i).
 
 #### (h) Sanctions for program noncompliance and fraud
 
@@ -262,7 +282,23 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 &emsp;The Secretary may enter into contracts to use private sector expertise and technological resources in implementing this subsection, which shall be subject to competition on a periodic basis, as determined by the Secretary.
 
-#### (k) Funding
+#### (k) Continuing education for loss adjusters and agents
+
+#### (1) In general
+
+&emsp;The Corporation shall establish requirements for continuing education for loss adjusters and agents of approved insurance providers.
+
+#### (2) Requirements
+
+&emsp;The requirements for continuing education described in paragraph (1) shall ensure that loss adjusters and agents of approved insurance providers are familiar with—
+
+&emsp;&emsp;(A) the policies and plans of insurance available under this subchapter, including the regulations promulgated to carry out this subchapter;
+
+&emsp;&emsp;(B) efforts to promote program integrity through the elimination of waste, fraud, and abuse; and
+
+&emsp;&emsp;(C) other aspects of adjusting, delivering, and servicing policies and plans of insurance by adjustors and agents, as determined by the Secretary, including conservation activities and agronomic practices (including organic and sustainable practices) that are common and appropriate to the area in which the insured crop being inspected is produced.
+
+#### (l) Funding
 
 #### (1) Information technology
 
@@ -284,7 +320,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 &emsp;To carry out subsection (j)(2), the Corporation may use, from amounts made available from the insurance fund established under section 1516(c) of this title, not more than $4,000,000 for fiscal year 2009 and each subsequent fiscal year.
 
-(Feb. 16, 1938, ch. 30, title V, §515, as added Pub. L. 103–354, title I, §109, Oct. 13, 1994, 108 Stat. 3197; amended Pub. L. 106–224, title I, §121(a), June 20, 2000, 114 Stat. 372; Pub. L. 110–234, title XII, §§12021, 12033(c)(2), May 22, 2008, 122 Stat. 1382, 1405; Pub. L. 110–246, §4(a), title XII, §§12021, 12033(c)(2), June 18, 2008, 122 Stat. 1664, 2144, 2167; Pub. L. 110–398, §1(c), Oct. 13, 2008, 122 Stat. 4214; Pub. L. 113–79, title XI, §§11019, 11020, Feb. 7, 2014, 128 Stat. 966, 968.)
+(Feb. 16, 1938, ch. 30, title V, §515, as added Pub. L. 103–354, title I, §109, Oct. 13, 1994, 108 Stat. 3197; amended Pub. L. 106–224, title I, §121(a), June 20, 2000, 114 Stat. 372; Pub. L. 110–234, title XII, §§12021, 12033(c)(2), May 22, 2008, 122 Stat. 1382, 1405; Pub. L. 110–246, §4(a), title XII, §§12021, 12033(c)(2), June 18, 2008, 122 Stat. 1664, 2144, 2167; Pub. L. 110–398, §1(c), Oct. 13, 2008, 122 Stat. 4214; Pub. L. 113–79, title XI, §§11019, 11020, Feb. 7, 2014, 128 Stat. 966, 968; Pub. L. 115–334, title XI, §§11115–11117, Dec. 20, 2018, 132 Stat. 4925.)
 
 #### References in Text
 
@@ -300,15 +336,27 @@ The Food Security Act of 1985, referred to in subsec. (h)(3)(B)(vi), is Pub. L. 
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (h)(3)(B)(vii), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
+This subchapter, referred to in subsec. (k)(2)(A), was in the original "this Act", meaning the Federal Crop Insurance Act, which is subtitle A of title V of act Feb. 16, 1938, ch. 30.
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
-A prior section, act Feb. 16, 1938, ch. 30, title V, §515, 52 Stat. 77, provided for appointment and compensation of an advisory committee, prior to repeal by Pub. L. 96–365, title I, §108, Sept. 26, 1980, 94 Stat. 1317.
+A prior section 1515, act Feb. 16, 1938, ch. 30, title V, §515, 52 Stat. 77, provided for appointment and compensation of an advisory committee, prior to repeal by Pub. L. 96–365, title I, §108, Sept. 26, 1980, 94 Stat. 1317.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(1)(D). Pub. L. 115–334, §11115(1), added subpar. (D).
+
+Subsec. (f)(2)(A). Pub. L. 115–334, §11115(2), substituted "under paragraph" for "pursuant to paragraph" in two places.
+
+Subsec. (g)(1)(D). Pub. L. 115–334, §11116(1), added subpar. (D).
+
+Subsec. (g)(2). Pub. L. 115–334, §11116(2), designated existing provisions as subpar. (A), inserted heading, substituted "The information required to be submitted under subparagraphs (A) through (C) of paragraph (1)" for "The information required by paragraph (1)", and added subpar. (B).
+
+Subsecs. (k), (l). Pub. L. 115–334, §11117, added subsec. (k) and redesignated former subsec. (k) as (l).
 
 <b>2014</b>—Subsec. (c). Pub. L. 113–79, §11019, designated first sentence as par. (1) and second sentence as par. (2), inserted headings, and added par. (3).
 

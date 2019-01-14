@@ -42,7 +42,7 @@
 
 (7) Whoever knowingly violates section 931 shall be fined under this title, imprisoned not more than 3 years, or both.
 
-(b) Whoever, with intent to commit therewith an offense punishable by imprisonment for aterm exceeding one year, or with knowledge or reasonable cause to believe that an offense punishable by imprisonment for a term exceeding one year is to be committed therewith, ships, transports, or receives a firearm or any ammunition in interstate or foreign commerce shall be fined under this title, or imprisoned not more than ten years, or both.
+(b) Whoever, with intent to commit therewith an offense punishable by imprisonment for a term exceeding one year, or with knowledge or reasonable cause to believe that an offense punishable by imprisonment for a term exceeding one year is to be committed therewith, ships, transports, or receives a firearm or any ammunition in interstate or foreign commerce shall be fined under this title, or imprisoned not more than ten years, or both.
 
 (c)(1)(A) Except to the extent that a greater minimum sentence is otherwise provided by this subsection or by any other provision of law, any person who, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime that provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which the person may be prosecuted in a court of the United States, uses or carries a firearm, or who, in furtherance of any such crime, possesses a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime—
 
@@ -58,7 +58,7 @@
 
 &emsp;(ii) is a machinegun or a destructive device, or is equipped with a firearm silencer or firearm muffler, the person shall be sentenced to a term of imprisonment of not less than 30 years.
 
-(C) In the case of a second or subsequent conviction under this subsection, the person shall—
+(C) In the case of a violation of this subsection that occurs after a prior conviction under this subsection has become final, the person shall—
 
 &emsp;(i) be sentenced to a term of imprisonment of not less than 25 years; and
 
@@ -150,7 +150,7 @@
 
 (i)(1) A person who knowingly violates section 922(u) shall be fined under this title, imprisoned not more than 10 years, or both.
 
-(2) Nothing contained in this subsection shall be construed as indicating an intent on the partof Congress to occupy the field in which provisions of this subsection operate to the exclusion of State laws on the same subject matter, nor shall any provision of this subsection be construed as invalidating any provision of State law unless such provision is inconsistent with any of the purposes of this subsection.
+(2) Nothing contained in this subsection shall be construed as indicating an intent on the part of Congress to occupy the field in which provisions of this subsection operate to the exclusion of State laws on the same subject matter, nor shall any provision of this subsection be construed as invalidating any provision of State law unless such provision is inconsistent with any of the purposes of this subsection.
 
 (j) A person who, in the course of a violation of subsection (c), causes the death of a person through the use of a firearm, shall—
 
@@ -172,7 +172,7 @@
 
 (m) A person who steals any firearm from a licensed importer, licensed manufacturer, licensed dealer, or licensed collector shall be fined under this title, imprisoned not more than 10 years, or both.
 
-(n) A person who, with the intent to engage in conduct that constitutes a violation of section 922(a)(1)(A), travels from any State or foreign country into any other State and acquires, or attempts to acquire, a firearm in such other State in furtherance of such purpose shall be imprisoned for not more than 10 years.
+(n) A person who, with the intent to engage in conduct that constitutes a violation of section 922(a)(1)(A), travels from any State or foreign country into any other State and acquires, or attempts to acquire, a firearm in such otherState in furtherance of such purpose shall be imprisoned for not more than 10 years.
 
 (o) A person who conspires to commit an offense under subsection (c) shall be imprisoned for not more than 20 years, fined under this title, or both; and if the firearm is a machinegun or destructive device, or is equipped with a firearm silencer or muffler, shall be imprisoned for any term of years or life.
 
@@ -200,7 +200,7 @@ Review.—An action of the Secretary under this paragraph may be reviewed only a
 
 Administrative remedies.—The suspension or revocation of a license or the imposition of a civil penalty under paragraph (1) shall not preclude any administrative remedy that is otherwise available to the Secretary.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1223; Pub. L. 91–644, title II, §13, Jan. 2, 1971, 84 Stat. 1889; Pub. L. 98–473, title II, §§223(a), 1005(a), Oct. 12, 1984, 98 Stat. 2028, 2138; Pub. L. 99–308, §104(a), May 19, 1986, 100 Stat. 456; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1402, Oct. 27, 1986, 100 Stat. 3207–39; Pub. L. 100–649, §2(b), (f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 100–690, title VI, §§6211, 6212, 6451, 6460, 6462, title VII, §§7056, 7060(a), Nov. 18, 1988, 102 Stat. 4359, 4360, 4371, 4373, 4374, 4402, 4403; Pub. L. 101–647, title XI, §1101, title XVII, §1702(b)(3), title XXII, §§2203(d), 2204(c), title XXXV, §§3526–3529, Nov. 29, 1990, 104 Stat. 4829, 4845, 4857, 4924; Pub. L. 103–159, title I, §102(c), title III, §302(d), Nov. 30, 1993, 107 Stat. 1541, 1545; Pub. L. 103–322, title VI, §60013, title XI, §§110102(c), 110103(c), 110105(2), 110201(b), 110401(e), 110503, 110504(a), 110507, 110510, 110515(a), 110517, 110518(a), title XXXIII, §§330002(h), 330003(f)(2), 330011(i), (j), 330016(1)(H), (K), (L), Sept. 13, 1994, 108 Stat. 1973, 1998–2000, 2011, 2015, 2016, 2018–2020, 2140, 2141, 2145, 2147; Pub. L. 104–294, title VI, §603(m)(1), (n)–(p)(1), (q)–(s), Oct. 11, 1996, 110 Stat. 3505; Pub. L. 105–386, §1(a), Nov. 13, 1998, 112 Stat. 3469; Pub. L. 107–273, div. B, title IV, §4002(d)(1)(E), div. C, title I, §11009(e)(3), Nov. 2, 2002, 116 Stat. 1809, 1821; Pub. L. 108–174, §1(2), (3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 109–92, §§5(c)(2), 6(b), Oct. 26, 2005, 119 Stat. 2100, 2102; Pub. L. 109–304, §17(d)(3), Oct. 6, 2006, 120 Stat. 1707.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1223; Pub. L. 91–644, title II, §13, Jan. 2, 1971, 84 Stat. 1889; Pub. L. 98–473, title II, §§223(a), 1005(a), Oct. 12, 1984, 98 Stat. 2028, 2138; Pub. L. 99–308, §104(a), May 19, 1986, 100 Stat. 456; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1402, Oct. 27, 1986, 100 Stat. 3207–39; Pub. L. 100–649, §2(b), (f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 100–690, title VI, §§6211, 6212, 6451, 6460, 6462, title VII, §§7056, 7060(a), Nov. 18, 1988, 102 Stat. 4359, 4360, 4371, 4373, 4374, 4402, 4403; Pub. L. 101–647, title XI, §1101, title XVII, §1702(b)(3), title XXII, §§2203(d), 2204(c), title XXXV, §§3526–3529, Nov. 29, 1990, 104 Stat. 4829, 4845, 4857, 4924; Pub. L. 103–159, title I, §102(c), title III, §302(d), Nov. 30, 1993, 107 Stat. 1541, 1545; Pub. L. 103–322, title VI, §60013, title XI, §§110102(c), 110103(c), 110105(2), 110201(b), 110401(e), 110503, 110504(a), 110507, 110510, 110515(a), 110517, 110518(a), title XXXIII, §§330002(h), 330003(f)(2), 330011(i), (j), 330016(1)(H), (K), (L), Sept. 13, 1994, 108 Stat. 1973, 1998–2000, 2011, 2015, 2016, 2018–2020, 2140, 2141, 2145, 2147; Pub. L. 104–294, title VI, §603(m)(1), (n)–(p)(1), (q)–(s), Oct. 11, 1996, 110 Stat. 3505; Pub. L. 105–386, §1(a), Nov. 13, 1998, 112 Stat. 3469; Pub. L. 107–273, div. B, title IV, §4002(d)(1)(E), div. C, title I, §11009(e)(3), Nov. 2, 2002, 116 Stat. 1809, 1821; Pub. L. 108–174, §1(2), (3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 109–92, §§5(c)(2), 6(b), Oct. 26, 2005, 119 Stat. 2100, 2102; Pub. L. 109–304, §17(d)(3), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 115–391, title IV, §403(a), Dec. 21, 2018, 132 Stat. 5221.)
 
 #### Amendment of Section
 
@@ -212,7 +212,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(1), is set out as 
 
 Section 5845(a) of that Code, referred to in subsec. (d)(1), is classified to section 5845(a) of Title 26.
 
-The Controlled Substances Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), istitle II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
@@ -221,6 +221,8 @@ The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2),
 For information regarding constitutionality of certain provisions of this section, as added by section 1402(b) of Pub. L. 99–570, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1)(C). Pub. L. 115–391 substituted "violation of this subsection that occurs after a prior conviction under this subsection has become final" for "second or subsequent conviction under this subsection" in introductory provisions.
 
 <b>2006</b>—Subsecs. (c)(2), (e)(2)(A)(i). Pub. L. 109–304, §17(d)(3)(A), substituted "chapter 705 of title 46" for "the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)".
 
@@ -294,7 +296,7 @@ Subsec. (b). Pub. L. 103–322, §330016(1)(L), substituted "fined under this ti
 
 Subsec. (c)(1). Pub. L. 103–322, §330011(j), amended directory language of Pub. L. 101–647, §3527. See 1990 Amendment note below.
 
-Pub. L. 103–322, §110510(b), which directed the amendment of subsec. (c)(1) by striking "No person sentenced under this subsection shall be eligible for parole during the term of imprisonment imposed under this subsection.", was executed by striking the last sentence,which read "No person sentenced under this subsection shall be eligible for parole during the term of imprisonment imposed herein.", to reflect the probable intent of Congress.
+Pub. L. 103–322, §110510(b), which directed the amendment of subsec. (c)(1) by striking "No person sentenced under this subsection shall be eligible for parole during the term of imprisonment imposed under this subsection.", was executed by striking the last sentence, which read "No person sentenced under this subsection shall be eligible for parole during the term of imprisonment imposed herein.", to reflect the probable intent of Congress.
 
 Pub. L. 103–322, §§110102(c)(2), 110105(2), as amended by Pub. L. 104–294, §603(p)(1), temporarily amended subsec. (c)(1) by inserting ", or semiautomatic assault weapon," after "short-barreled shotgun". See Effective and Termination Dates of 1994 Amendment note below.
 
@@ -374,7 +376,7 @@ Subsec. (c)(1). Pub. L. 99–308, §104(a)(2)(C)–(E), designated existing prov
 
 Subsec. (c)(2), (3). Pub. L. 99–308, §104(a)(2)(F), added pars. (2) and (3).
 
-Subsec. (d). Pub. L. 99–308, §104(a)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Any firearm or ammunition involved in or used or intended to be used in, any violation of the provisions of this chapter or any rule or regulation promulgated thereunder, or any violation of any other criminal law of the United States, shall be subject to seizure and forfeiture and all provisions of the Internal Revenue Code of 1954 relating to the seizure, forfeiture,and disposition of firearms, as defined in section 5845(a) of that Code, shall, so far as applicable, extend to seizures and forfeitures under the provisions of this chapter."
+Subsec. (d). Pub. L. 99–308, §104(a)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Any firearm or ammunition involved in or used or intended to be used in, any violation of the provisions of this chapter or any rule or regulation promulgated thereunder, or any violation of any other criminal law of the United States, shall be subject to seizure and forfeiture and all provisions of the Internal Revenue Code of 1954 relating to the seizure, forfeiture, and disposition of firearms, as defined in section 5845(a) of that Code, shall, so far as applicable, extend to seizures and forfeitures under the provisions of this chapter."
 
 Subsec. (d)(1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
@@ -395,6 +397,10 @@ Subsec. (c). Pub. L. 98–473, §1005(a), amended subsec. (c) generally, substit
 Subsec. (b). Pub. L. 90–618 inserted "or any ammunition" after "a firearm".
 
 Subsecs. (c), (d). Pub. L. 90–618 added subsec. (c), redesignated former subsec. (c) as (d), and as so redesignated, substituted "section 5845(a) of that Code" for "section 5848(1) of said Code".
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–391, title IV, §403(b), Dec. 21, 2018, 132 Stat. 5222, provided that: "This section \[amending this section\], and the amendments made by this section, shall apply to any offense that was committed before the date of enactment of this Act \[Dec. 21, 2018\], if a sentence for the offense has not been imposed as of such date of enactment."
 
 #### Effective Date of 2005 Amendment
 

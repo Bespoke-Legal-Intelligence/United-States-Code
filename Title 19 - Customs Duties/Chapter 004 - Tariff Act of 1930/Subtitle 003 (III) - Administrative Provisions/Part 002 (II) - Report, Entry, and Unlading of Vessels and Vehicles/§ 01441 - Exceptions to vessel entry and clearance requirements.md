@@ -50,7 +50,7 @@ Par. (3). Pub. L. 103–182, §655(2), amended par. (3) generally. Prior to amen
 
 Pars. (4), (5). Pub. L. 103–182, §655(3), added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (6).
 
-Par. (6). Pub. L. 103–182, §655(3), (4), redesignated par. (5) as (6) and substituted "documented under chapter 121 of title 46 with a Great Lakes endorsement" for "enrolled and licensed to engage in the foreign and coasting trade in the northern, northeastern, and northwestern frontiers".
+Par. (6). Pub. L. 103–182, §655(3), (4), redesignated par. (5) as (6) and substituted "documented under chapter121 of title 46 with a Great Lakes endorsement" for "enrolled and licensed to engage in the foreign and coasting trade in the northern, northeastern, and northwestern frontiers".
 
 <b>1984</b>—Par. (3). Pub. L. 98–573 amended par. (3) generally, inserting provision referring to vessels carrying passengers on excursion from the United States Virgin Islands to the British Virgin Islands and returning.
 

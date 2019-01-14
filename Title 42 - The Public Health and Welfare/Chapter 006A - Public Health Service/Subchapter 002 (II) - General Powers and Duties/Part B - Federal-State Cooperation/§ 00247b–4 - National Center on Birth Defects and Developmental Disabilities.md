@@ -50,7 +50,7 @@
 
 #### (2) Supplies and services in lieu of award funds
 
-&emsp;(A) Upon the request of a recipient of an award of a grant or contract under paragraph (1), the Secretary may, subject to subparagraph (B), provide supplies, equipment, and services for the purpose of aiding the recipient in carrying out the purposes for which the award is made and, for such purposes, may detail to the recipient any officer or employee of the Department of Health and Human Services.
+&emsp;(A) Upon the request of a recipient of an award of a grant or contract under paragraph\(1), the Secretary may, subject to subparagraph (B), provide supplies, equipment, and services for the purpose of aiding the recipient in carrying out the purposes for which the award is made and, for such purposes, may detail to the recipient any officer or employee of the Department of Health and Human Services.
 
 &emsp;(B) With respect to a request described in subparagraph (A), the Secretary shall reduce the amount of payments under the award involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
@@ -66,7 +66,7 @@ Not later than February 1 of fiscal year 1999 and of every second such year ther
 
 &emsp;(2) contains information under paragraph (1) that is specific to various racial and ethnic groups (including Hispanics, non-Hispanic whites, Blacks, Native Americans, and Asian Americans);
 
-&emsp;(3) contains an assessment of the extent to which various approaches of preventing birthdefects, developmental disabilities, and secondary health conditions among individuals with disabilities have been effective;
+&emsp;(3) contains an assessment of the extent to which various approaches of preventing birth defects, developmental disabilities, and secondary health conditions among individuals with disabilities have been effective;
 
 &emsp;(4) describes the activities carried out under this section;
 
@@ -114,7 +114,7 @@ Subsec. (f). Pub. L. 108–154, §2(6) substituted "such sums as may be necessar
 
 <b>2000</b>—Pub. L. 106–310, §611(1), substituted "National Center on Birth Defects and Developmental Disabilities" for "Programs regarding birth defects" in section catchline.
 
-Subsec. (a). Pub. L. 106–310, §611(2), added subsec. (a) and struck out heading and text of former subsec. (a) relating to Secretary's responsibility, acting through the Centers for Disease Control and Prevention, to carry out programs regarding birth defects.
+Subsec. (a). Pub. L. 106–310, §611(2), added subsec. (a) and struck out heading and text of former subsec. (a) relating to Secretary's responsibility, acting throughthe Centers for Disease Control and Prevention, to carry out programs regarding birth defects.
 
 Subsec. (b)(1). Pub. L. 106–310, §611(3), substituted "subsection (a)(2)(A) of this section" for "subsection (a)(1) of this section" in introductory provisions.
 

@@ -16,7 +16,7 @@
 
 #### (b) Notice and comment
 
-Not later than 30 days prior to the issuance of a final guideline or annual policy guidance tocarry out this subchapter, the Administrator shall—
+Not later than 30 days prior to the issuance of a final guideline or annual policy guidance to carry out this subchapter, the Administrator shall—
 
 &emsp;(1) provide notice of the existence of a proposed guideline or annual policy guidance, and that such guideline or annual policy guidance is available for review and comment, to eligible organizations that participate in programs under this subchapter, and to other interested persons;
 
@@ -28,7 +28,7 @@ Not later than 30 days prior to the issuance of a final guideline or annual poli
 
 #### (1) In general
 
-&emsp;The Administrator shall promptly issue all necessary regulations and make revisions to agency guidelines with respect to changes in the operation or implementation of the program established under this subchapter. Not later than 270 days after the date of the enactment of the Agricultural Act of 2014, the Administrator shall issue all regulations and revisions to agency guidance necessary to implement the amendments made to this subchapter by such Act.
+&emsp;The Administrator shall promptly issue all necessary regulations and make revisions to agency guidelines with respect to changes in the operation or implementation of the program established under this subchapter. Not later than 270 days after the date of the enactment of the Agriculture Improvement Act of 2018, the Administrator shall issue all regulations and revisions to agency guidance necessary to implement the amendments made to this subchapter by such Act.
 
 #### (2) Requirements
 
@@ -84,7 +84,7 @@ The Administrator is encouraged to finalize program agreements and resource requ
 
 #### (B) Prohibition
 
-&emsp;&emsp;An individual who enters into a contract with the Administrator under subparagraph (A) shall not be considered to be an employee of the Federal Government for the purpose of any law (including regulations) administered by the Office of Personnel Management.
+&emsp;&emsp;An individual who enters into a contract with the Administrator under subparagraph\(A) shall not be considered to be an employee of the Federal Government for the purpose of any law (including regulations) administered by the Office of Personnel Management.
 
 #### (C) Personal service
 
@@ -94,17 +94,17 @@ The Administrator is encouraged to finalize program agreements and resource requ
 
 #### (A) In general
 
-&emsp;&emsp;Subject to section 1722(h)(3) of this title, in addition to other funds made available to the Administrator to carry out the monitoring of emergency food assistance, the Administrator may implement this subsection using up to $17,000,000 of the funds made available under this subchapter for each of fiscal years 2014 through 2018, except for paragraph (2)(F), for which not more than $500,000 shall be made available for each of the fiscal years 2014 through 2018.
+&emsp;&emsp;Subject to section 1722(h)(3) of this title, in addition to other funds made available to the Administrator to carry out the monitoring of emergency food assistance, the Administrator may implement this subsection using up to 1.5 percent, but not less than $17,000,000, of the funds made available under this subchapter for each of fiscal years 2014 through 2023, except for paragraph (2)(F), for which not more than $500,000 shall be made available for each of the fiscal years 2014 through 2023.
 
 #### (B) Limitations
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), of the funds made available under subparagraph (A), for each of fiscal years 2009 through 2018, not more than $8,000,000 may be used by the Administrator to carry out paragraph (2)(E).
+&emsp;&emsp;&emsp;Subject to clause (ii), of the funds made available under subparagraph (A), for each of fiscal years 2009 through 2023, not more than $8,000,000 may be used by the Administrator to carry out paragraph (2)(E).
 
 #### (ii) Condition
 
-&emsp;&emsp;&emsp;No funds shall be made available under subparagraph (A), in accordance with clause (i), unless not less than $8,000,000 is made available under chapter 1 of part I ofthe Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) for such purposes for such fiscal year.
+&emsp;&emsp;&emsp;No funds shall be made available under subparagraph (A), in accordance with clause (i), unless not less than $8,000,000 is made available under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) for such purposes for such fiscal year.
 
 #### (g) Project reporting
 
@@ -116,15 +116,23 @@ The Administrator is encouraged to finalize program agreements and resource requ
 
 &emsp;An organization or cooperative described in paragraph (1) may omit any confidential information from the copy of the report submitted for public display under that paragraph.
 
-(July 10, 1954, ch. 469, title II, §207, as added Pub. L. 99–198, title XI, §1104(a), Dec. 23, 1985, 99 Stat. 1466; amended Pub. L. 100–202, §14, Dec. 22, 1987, 101 Stat. 1329–449; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3640; Pub. L. 104–127, title II, §207(b), Apr. 4, 1996, 110 Stat. 954; Pub. L. 107–171, title III, §3007, May 13, 2002, 116 Stat. 282; Pub. L. 110–246, title III, §§3012, 3018(b), June 18, 2008, 122 Stat. 1824, 1828; Pub. L. 113–79, title III, §3006(a), (b), Feb. 7, 2014, 128 Stat. 774, 775.)
+(July 10, 1954, ch. 469, title II, §207, as added Pub. L. 99–198, title XI, §1104(a), Dec. 23, 1985, 99 Stat. 1466; amended Pub. L. 100–202, §14, Dec. 22, 1987, 101 Stat. 1329–449; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3640; Pub. L. 104–127, title II, §207(b), Apr. 4, 1996, 110 Stat. 954; Pub. L. 107–171, title III, §3007, May 13, 2002, 116 Stat. 282; Pub. L. 110–246, title III, §§3012, 3018(b), June 18, 2008, 122 Stat. 1824, 1828; Pub. L. 113–79, title III, §3006(a), (b), Feb. 7, 2014, 128 Stat. 774, 775; Pub. L. 115–334, title III, §§3106, 3107, Dec. 20, 2018, 132 Stat. 4604.)
 
 #### References in Text
 
-The Agricultural Act of 2014, referred to in subsec. (c)(1), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
+The Agriculture Improvement Act of 2018 and such Act, referred to in subsec. (c)(1), is Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4490. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 9001 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (f)(4)(B)(ii), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 1 of part I of the Act is classified generally to part I (§2151 et seq.) of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (f)(4)(B)(ii), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–334, §3106, substituted "the Agriculture Improvement Act of 2018" for "the Agricultural Act of 2014".
+
+Subsec. (f)(4)(A). Pub. L. 115–334, §3107(1), substituted "1.5 percent, but not less than $17,000,000," for "$17,000,000" and "2023" for "2018" in two places.
+
+Subsec. (f)(4)(B)(i). Pub. L. 115–334, §3107(2)(A), substituted "2023" for "2018".
+
+Subsec. (f)(4)(B)(ii). Pub. L. 115–334, §3107(2)(B), struck out "chapter 1 of part I of" before "the Foreign Assistance Act of 1961".
 
 <b>2014</b>—Subsec. (c). Pub. L. 113–79, §3006(a)(1), inserted "and guidance" after "Regulations" in heading.
 
@@ -148,7 +156,7 @@ Subsec. (c)(3). Pub. L. 110–246, §3012(2), struck out par. (3). Prior to amen
 
 Subsec. (d). Pub. L. 110–246, §3012(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "Not later than 15 days after receipt from a United States field mission of a call forward for agricultural commodities for programs that meet the requirements of this subchapter, the order for the purchase or the supply, from inventory, of such commodities or products shall be transmitted to the Commodity Credit Corporation."
 
-Subsec. (e). Pub. L. 110–246, §3018(b), struck out par. (1) designation and struck out par. (2). Prior to amendment, text read as follows: "Not later than December 1 of each year, the Administrator shall submit to the Committee on Agriculture and the Committee on International Relations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that contains—
+Subsec. (e). Pub. L. 110–246, §3018(b), struck out par. (1) designation and struck out par. (2). Prior to amendment, text read as follows: "Not later than December 1 of each year, the Administrator shall submit to the Committee on Agriculture and the Committee on International Relations of the House of Representatives andthe Committee on Agriculture, Nutrition, and Forestry of the Senate a report that contains—
 
 &emsp;"(A) a list of programs, countries, and commodities approved to date for assistance under this section; and
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(E) will remain affordable, according to binding commitments satisfactory to the Secretary, for the remaining useful life of the property, as determined by the Secretary, without regard to the term of the mortgage or to transfer of ownership, or for such other period that the Secretary determines is the longest feasible period of time consistent with sound economics and the purposes of this Act, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to take actions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure, and (ii) is not for the purpose of avoiding low income affordability restrictions, as determined by the Secretary; and
 
-&emsp;&emsp;(F) if newly constructed, meets the energy efficiency standards promulgated by theSecretary in accordance with section 12709 of this title.
+&emsp;&emsp;(F) if newly constructed, meets the energy efficiency standards promulgated by the Secretary in accordance with section 12709 of this title.
 
 #### (2) Adjustment of qualifying rent
 
@@ -96,7 +96,7 @@ Subsec. (b)(4), (5). Pub. L. 103–233, §203(a)(2), redesignated pars. (4) and 
 
 <b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–550, §208(a)(1), substituted "number of bedrooms in the unit" for "smaller and larger families".
 
-Subsec. (a)(1)(E). Pub. L. 102–550, §208(b), inserted before semicolon ", except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to take actions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure, and (ii) is not for the purpose of avoiding low income affordability restrictions, as determined by the Secretary".
+Subsec. (a)(1)(E). Pub. L. 102–550, §208(b), inserted before semicolon ", except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to takeactions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure, and (ii) is not for the purpose of avoiding low income affordability restrictions, as determined by the Secretary".
 
 Subsec. (a)(3). Pub. L. 102–550, §208(a)(2), (3), substituted "the lesser of the amount payable by the tenant under State or local law or" for "not less than" in second sentence and inserted at end "The preceding sentence shall not apply with respect to funds made available under this Act for units that have been allocated a low-income housing tax credit by a housing credit agency pursuant to section 42 of title 26."
 

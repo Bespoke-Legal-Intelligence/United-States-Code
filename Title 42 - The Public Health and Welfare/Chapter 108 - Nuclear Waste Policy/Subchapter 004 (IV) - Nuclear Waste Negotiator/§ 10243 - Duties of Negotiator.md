@@ -10,13 +10,13 @@
 
 &emsp;&emsp;(ii) the governing body of any Indian tribe on whose reservation a potential site is located; and
 
-&emsp;(B) attempt to reach a proposed agreement between the United States and any such Stateor Indian tribe specifying the terms and conditions under which such State or tribe would agree to host a repository or monitored retrievable storage facility within such State or reservation.
+&emsp;(B) attempt to reach a proposed agreement between the United States and any such State or Indian tribe specifying the terms and conditions under which such State or tribe would agree to host a repository or monitored retrievable storage facility within such State or reservation.
 
 (2) In any case in which State law authorizes any person or entity other than the Governor to negotiate a proposed agreement under this section on behalf of the State, any reference in this subchapter to the Governor shall be considered to refer instead to such other person or entity.
 
 #### (b) Consultation with affected States, subdivisions of States, and tribes
 
-In addition to entering into negotiations under subsection (a), the Negotiator shall consult with any State, affected unit of local government, or any Indian tribe that the Negotiator determines may be affected by the siting of a repository or monitored retrievable storage facility and may include in any proposed agreement such terms and conditions relating to the interest of such States, affected units of local government, or Indian tribes as the Negotiator determines to be reasonable and appropriate.
+In addition to entering into negotiations under subsection (a), the Negotiator shall consult with any State, affected unit of local government, or any Indian tribe that the Negotiator determines may be affected by the sitingof a repository or monitored retrievable storage facility and may include in any proposed agreement such terms and conditions relating to the interest of such States, affected units of local government, or Indian tribes as the Negotiator determines to be reasonable and appropriate.
 
 #### (c) Consultation with other Federal agencies
 

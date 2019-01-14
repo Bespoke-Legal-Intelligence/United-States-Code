@@ -50,7 +50,7 @@ In this section, the term "significant activities undermining cybersecurity" inc
 
 &emsp;&emsp;&emsp;(i) conducting influence operations; or
 
-&emsp;&emsp;&emsp;(ii) causing a significant misappropriation of funds, economic resources, trade secrets, personal identifications, or financial information for commercial or competitive advantage or private financial gain;
+&emsp;&emsp;&emsp;(ii) causing a significant misappropriation of funds, economic resources, tradesecrets, personal identifications, or financial information for commercial or competitive advantage or private financial gain;
 
 &emsp;(2) significant destructive malware attacks; and
 

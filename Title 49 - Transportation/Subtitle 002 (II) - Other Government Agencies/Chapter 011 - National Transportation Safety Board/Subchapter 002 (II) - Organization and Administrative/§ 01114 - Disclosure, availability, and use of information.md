@@ -2,7 +2,7 @@
 
 (a)
 
-General.—(1) Except as provided in subsections (b), (c), (d), and (f) of this section, a copy of a record, information, or investigation submitted or received by the National Transportation Safety Board, or a member or employee of the Board, shall be made available to the public on identifiable request and at reasonable cost. This subsection does not require the release of information described by section 552(b) of title 5 or protected from disclosure by another law of the United States.
+General.—(1) Except as provided in subsections (b), (c), (d), and (f) of this section, acopy of a record, information, or investigation submitted or received by the National Transportation Safety Board, or a member or employee of the Board, shall be made available to the public on identifiable request and at reasonable cost. This subsection does not require the release of information described by section 552(b) of title 5 or protected from disclosure by another law of the United States.
 
 (2) The Board shall deposit in the Treasury amounts received under paragraph (1) to be credited to the appropriation of the Board as offsetting collections.
 
@@ -26,13 +26,23 @@ Protection of Voluntary Submission of Information.—Notwithstanding any other p
 
 (c)
 
-Cockpit Recordings and Transcripts.—(1) The Board may not disclose publicly any part of a cockpit voice or video recorder recording or transcript of oral communications by and between flight crew members and ground stations related to an accident or incident investigated by the Board. However, the Board shall make public any part of a transcript or any written depiction of visual information the Board decides is relevant to the accident or incident—
+Cockpit Recordings and Transcripts.—
 
-&emsp;(A) if the Board holds a public hearing on the accident or incident, at the time of the hearing; or
+&emsp;(1)
 
-&emsp;(B) if the Board does not hold a public hearing, at the time a majority of the other factual reports on the accident or incident are placed in the public docket.
+Confidentiality of recordings.—Except as provided in paragraph (2), the Board may not disclose publicly any part of a cockpit voice or video recorder recording or transcript of oral communications by and between flight crew members and ground stations related to an accident or incident investigated by the Board.
 
-(2) This subsection does not prevent the Board from referring at any time to cockpit voice or video recorder information in making safety recommendations.
+&emsp;(2)
+
+Exception.—Subject to subsections (b) and (g), the Board shall make public any part of a transcript, any written depiction of visual information obtained from a video recorder, or any still image obtained from a video recorder the Board decides is relevant to the accident or incident—
+
+&emsp;&emsp;(A) if the Board holds a public hearing on the accident or incident, at the time of the hearing; or
+
+&emsp;&emsp;(B) if the Board does not hold a public hearing, at the time a majority of the other factual reports on the accident or incident are placed in the public docket.
+
+&emsp;(3)
+
+References to information in making safety recommendations.—This subsection does not prevent the Board from referring at any time to cockpit voice or video recorder information in making safety recommendations.
 
 (d)
 
@@ -40,13 +50,17 @@ Surface Vehicle Recordings and Transcripts.—
 
 &emsp;(1)
 
-Confidentiality of recordings.—The Board may not disclose publicly any part of a surface vehicle voice or video recorder recording or transcript of oral communications by or among drivers, train employees, or other operating employees responsible for the movement and direction of the vehicle or vessel, or between such operating employees and company communication centers, related to an accident investigated by the Board. However, the Board shall make public any part of a transcript or any written depiction of visual information that the Board decides is relevant to the accident—
+Confidentiality of recordings.—Except as provided in paragraph (2), the Board may not disclose publicly any part of a surface vehicle voice or video recorder recording or transcript of oral communications by or among drivers, train employees, or other operating employees responsible for the movement and direction of the vehicle or vessel, or between such operating employees and company communication centers, related to an accident investigated by the Board.
+
+&emsp;(2)
+
+Exception.—Subject to subsections (b) and (g), the Board shall make public any part of a transcript, any written depiction of visual information obtained from a video recorder, or any still image obtained from a video recorder the Board decides is relevant to the accident—
 
 &emsp;&emsp;(A) if the Board holds a public hearing on the accident, at the time of the hearing; or
 
 &emsp;&emsp;(B) if the Board does not hold a public hearing, at the time a majority of the other factual reports on the accident are placed in the public docket.
 
-&emsp;(2)
+&emsp;(3)
 
 References to information in making safety recommendations.—This subsection does not prevent the Board from referring at any time to voice or video recorder information in making safety recommendations.
 
@@ -86,7 +100,11 @@ In general.—Notwithstanding any other provision of law, neither the Board, nor
 
 Safety recommendations.—Nothing in this subsection shall restrict the Board at any time from referring to foreign accident investigation information in making safety recommendations.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 749; Pub. L. 104–291, title I, §§102, 103, Oct. 11, 1996, 110 Stat. 3452; Pub. L. 106–424, §§3(b)(2), 5(a), (b), Nov. 1, 2000, 114 Stat. 1884, 1885.)
+(g)
+
+Privacy Protections.—Before making public any still image obtained from a video recorder under subsection (c)(2) or subsection (d)(2), the Board shall take such action as appropriate to protect from public disclosure any information that readily identifies an individual, including a decedent.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 749; Pub. L. 104–291, title I, §§102, 103, Oct. 11, 1996, 110 Stat. 3452; Pub. L. 106–424, §§3(b)(2), 5(a), (b), Nov. 1, 2000, 114 Stat. 1884, 1885; Pub. L. 115–254, div. C, §1104(a), Oct. 5, 2018, 132 Stat. 3429.)
 
 Historical and Revision Notes
 
@@ -143,6 +161,32 @@ In subsection (d)(3), the words "laboratory record made available under paragrap
 Section 503(e) of the Supplemental Appropriations Act, 1987, referred to in subsec. (e)(1), is section 503(e) of Pub. L. 100–71, which is set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–254, §1104(a)(1)(C)(i), inserted heading and substituted "Except as provided in paragraph (2), the Board" for "The Board".
+
+Subsec. (c)(2). Pub. L. 115–254, §1104(a)(1)(C)(ii), designated second sentence of par. (1) as par. (2) and amended it generally. Prior to amendment, second sentence of par. (1) read as follows: "However, the Board shall make public any part of a transcript or any written depiction of visual information the Board decides is relevant to the accident or incident—
+
+&emsp;"(A) if the Board holds a public hearing on the accident or incident, at the time of the hearing; or
+
+&emsp;"(B) if the Board does not hold a public hearing, at the time a majority of the other factual reports on the accident or incident are placed in the public docket."
+
+> Former par. (2) redesignated (3).
+
+Subsec. (c)(3). Pub. L. 115–254, §1104(a)(1)(A), (B), redesignated par. (2) as (3) and inserted heading.
+
+Subsec. (d)(1). Pub. L. 115–254, §1104(a)(2)(B)(i), substituted "Except as provided in paragraph (2), the Board" for "The Board".
+
+Subsec. (d)(2). Pub. L. 115–254, §1104(a)(2)(B)(ii), designated second sentence of par. (1) as par. (2) and amended it generally. Prior to amendment, second sentence of par. (1) read as follows: "However, the Board shall make public any part of a transcript or any written depiction of visual information that the Board decides is relevant to the accident—
+
+&emsp;"(A) if the Board holds a public hearing on the accident, at the time of the hearing; or
+
+&emsp;"(B) if the Board does not hold a public hearing, at the time a majority of the other factual reports on the accident are placed in the public docket."
+
+Former par. (2) redesignated (3).
+
+Subsec. (d)(3). Pub. L. 115–254, §1104(a)(2)(A), redesignated par. (2) as (3).
+
+Subsec. (g). Pub. L. 115–254, §1104(a)(3), added subsec. (g).
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–424, §§3(b)(2), 5(b)(2), designated existing provisions as par. (1), substituted "(d), and (f)" for "and (e)" in first sentence, and added par. (2).
 

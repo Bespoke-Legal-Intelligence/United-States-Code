@@ -9,12 +9,7 @@
 | [5175\.](%C2%A7%2005175%20-%20Export%20bonds.md) | Export bonds. |
 | [5176\.](%C2%A7%2005176%20-%20New%20or%20renewed%20bonds.md) | New or renewed bonds. |
 | [5177\.](%C2%A7%2005177%20-%20Other%20provisions%20relating%20to%20bonds.md) | Other provisions relating to bonds. |
-| [5178\.](%C2%A7%2005178%20-%20Premises%20of%20distilled%20spirits%20plants.md) | Distilled spirits plants.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [5178\.](%C2%A7%2005178%20-%20Premises%20of%20distilled%20spirits%20plants.md) | Premises of distilled spirits plants. |
 | [5179\.](%C2%A7%2005179%20-%20Registration%20of%20stills.md) | Registration of stills. |
 | [5180\.](%C2%A7%2005180%20-%20Signs.md) | Signs. |
 | [5181\.](%C2%A7%2005181%20-%20Distilled%20spirits%20for%20fuel%20use.md) | Distilled spirits for fuel use. |
@@ -28,11 +23,11 @@ A prior subchapter B, Distilleries, consisted of part I, Establishment, part II,
 
 #### Amendments
 
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(242), Mar. 23, 2018, 132 Stat. 1195, substituted "Premises of distilled spirits plants" for "Distilled spirits plants" in item 5178.
+
 <b>1980</b>—Pub. L. 96–223, title II, §232(e)(2)(F), Apr. 2, 1980, 94 Stat. 280, added item 5181 and redesignated former item 5181 as 5182.
 
 <b>1979</b>—Pub. L. 96–39, title VIII, §807(b)(4), July 26, 1979, 93 Stat. 290, substituted "Bonds" for "Qualification bonds" in item 5173, struck out item 5174 "Withdrawal bonds", and substituted "Distilled spirits plants" for "Premises of distilled spirits plants" in item 5178.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

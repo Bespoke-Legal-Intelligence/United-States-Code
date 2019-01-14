@@ -128,7 +128,7 @@ The head of any Federal agency that owns, leases, or operates a building or hous
 
 (3)(A) The National Institute of Standards and Technology shall conduct a study and submit a report to Congress on the use, in combination, of fire detection systems, fire suppression systems, and compartmentation. Such study shall—
 
-&emsp;(i) quantify performance and reliability for fire detection systems, fire suppression systems, and compartmentation, including a field assessment of performance and determination of conditions under which a reduction or elimination of 1 or more of those systems would result in an unacceptable risk of fire loss; and
+&emsp;(i) quantify performance and reliability for fire detection systems, fire suppression systems, and compartmentation, including a field assessment of performance and determination of conditions under which a reduction or elimination of 1 or more of those systemswould result in an unacceptable risk of fire loss; and
 
 &emsp;(ii) include a comparative analysis and compartmentation using fire resistive materials and compartmentation using noncombustible materials.
 

@@ -14,7 +14,7 @@
 
 (e) On request of a party in interest, and after notice and a hearing, the court may designate any entity whose acceptance or rejection of such plan was not in good faith, or was not solicited or procured in good faith or in accordance with the provisions of this title.
 
-(f) Notwithstanding any other provision of this section, a class that is not impaired under a plan, and each holder of a claim or interest of such class, are conclusively presumed to have accepted the plan, and solicitation of acceptances with respect to such class from the holders of claims or interests of such class is not required.
+(f) Notwithstanding any other provision of this section, a class that is not impaired under a plan, and each holder of a claim or interest of such class, are conclusively presumed to haveaccepted the plan, and solicitation of acceptances with respect to such class from the holders of claims or interests of such class is not required.
 
 (g) Notwithstanding any other provision of this section, a class is deemed not to have accepted a plan if such plan provides that the claims or interests of such class do not entitle the holders of such claims or interests to receive or retain any property under the plan on account of such claims or interests.
 

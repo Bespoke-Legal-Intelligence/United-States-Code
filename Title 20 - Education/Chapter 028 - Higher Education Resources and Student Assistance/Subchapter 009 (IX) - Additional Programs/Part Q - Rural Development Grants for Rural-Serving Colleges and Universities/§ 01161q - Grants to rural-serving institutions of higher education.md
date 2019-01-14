@@ -104,7 +104,7 @@ A rural-serving institution of higher education that receives a grant under this
 
 &emsp;&emsp;(B) programs that provide students and families of rural high schools access and exposure to campuses, classes, programs, and internships of rural-serving institutions of higher education, including covering the cost of transportation to and from such institutions; and
 
-&emsp;&emsp;(C) other initiatives that assist students and families in applying for and developing interest in attending rural-serving institutions of higher education.
+&emsp;&emsp;(C) other initiatives that assist students and families in applying for and developinginterest in attending rural-serving institutions of higher education.
 
 &emsp;(2) To increase enrollment rates of nontraditional students in degree programs at rural-serving institutions of higher education, which may include—
 

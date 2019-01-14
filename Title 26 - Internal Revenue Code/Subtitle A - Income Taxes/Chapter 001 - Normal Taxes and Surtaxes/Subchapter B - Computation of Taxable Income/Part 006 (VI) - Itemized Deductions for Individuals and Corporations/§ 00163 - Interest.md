@@ -32,7 +32,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (2) Carryforward of disallowed interest
 
-&emsp;The amount not allowed as a deduction for any taxable year by reason of paragraph (1) shall be treated as investment interest paid or accrued by the taxpayer in the succeeding taxable year.
+&emsp;The amount not allowed as a deduction for any taxable year by reason of paragraph (1)shall be treated as investment interest paid or accrued by the taxpayer in the succeeding taxable year.
 
 #### (3) Investment interest
 
@@ -78,7 +78,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 &emsp;&emsp;&emsp;&emsp;(II) the net capital gain determined by only taking into account gains and losses from dispositions of property held for investment, plus
 
-&emsp;&emsp;&emsp;(iii) so much of the net capital gain referred to in clause (ii)(II) (or, if lesser, the net gain referred to in clause (ii)(I)) as thetaxpayer elects to take into account under this clause.
+&emsp;&emsp;&emsp;(iii) so much of the net capital gain referred to in clause (ii)(II) (or, if lesser, the net gain referred to in clause (ii)(I)) as the taxpayer elects to take into account under this clause.
 
 > &emsp;&emsp;Such term shall include qualified dividend income (as defined in section 1(h)(11)(B)) only to the extent the taxpayer elects to treat such income as investment income for purposes of this subsection.
 
@@ -89,10 +89,6 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 #### (D) Income and expenses from passive activities
 
 &emsp;&emsp;Investment income and investment expenses shall not include any income or expenses taken into account under section 469 in computing income or loss from a passive activity.
-
-#### (E) Reduction in investment income during phase-in of passive loss rules
-
-&emsp;&emsp;Investment income of the taxpayer for any taxable year shall be reduced by the amount of the passive activity loss to which section 469(a) does not apply for such taxable year by reason of section 469(m).<sup>1</sup> The preceding sentence shall not apply to any portion of such passive activity loss which is attributable to a rental real estate activity with respect to which the taxpayer actively participates (within the meaning of section 469(i)(6)) during such taxable year.
 
 #### (5) Property held for investment
 
@@ -122,7 +118,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (1) In general
 
-&emsp;In the case of any debt instrument issued after July 1, 1982, the portion of the original issue discount with respect to such debt instrument which is allowable as a deduction to the issuer for any taxable year shall be equal to the aggregate daily portions of the original issue discount for days during such taxable year.
+&emsp;The portion of the original issue discount with respect to any debt instrument which is allowable as a deduction to the issuer for any taxable year shall be equal to the aggregate daily portions of the original issue discount for days during such taxable year.
 
 #### (2) Definitions and special rules
 
@@ -164,13 +160,9 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 &emsp;&emsp;&emsp;(ii) who is related (within the meaning of section 267(b)) to the issuer.
 
-#### (4) Exceptions
+#### (4) Exception
 
-&emsp;This subsection shall not apply to any debt instrument described in—
-
-&emsp;&emsp;(A) subparagraph (D) of section 1272(a)(2) (relating to obligations issued by natural persons before March 2, 1984), and
-
-&emsp;&emsp;(B) subparagraph (E) of section 1272(a)(2) (relating to loans between natural persons).
+&emsp;This subsection shall not apply to any debt instrument described in section 1272(a)(2)(D) (relating to loans between natural persons).
 
 #### (5) Special rules for original issue discount on certain high yield obligations
 
@@ -210,7 +202,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (ii) Definitions
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term "disqualified yield" means the excess of the yield to maturity on the obligation over the sum referred to <sup>2</sup> subsection (i)(1)(B) plus 1 percentage point, and the term "total return" is the amount which would have been the original issue discount on the obligation if interest described in the parenthetical in section 1273(a)(2) were included in the stated redemption price at maturity.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "disqualified yield" means the excess of the yield to maturity on the obligation over the sum referred to in subsection (i)(1)(B) plus 1 percentage point, and the term "total return" is the amount which would have been the original issue discount on the obligation if interest described in the parenthetical in section 1273(a)(2) were included in the stated redemption price at maturity.
 
 #### (D) Exception for S corporations
 
@@ -224,7 +216,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (i) Temporary suspension
 
-&emsp;&emsp;&emsp;This paragraph shall not apply to any applicable high yield discount obligation issued during the period beginning on September 1, 2008, and ending on December 31, 2009, in exchange (including an exchange resulting from a modification of the debt instrument) for an obligation which is not an applicable high yield discount obligation and the issuer (or obligor) of which is the same as the issuer (or obligor) of such applicable high yield discount obligation. The preceding sentence shall not apply to any obligation the interest on which is interest described in section 871(h)(4) (without regard to subparagraph (D) thereof) or to any obligation issued to a related person (within the meaning of section 108(e)(4)).
+&emsp;&emsp;&emsp;This paragraph shall not apply to any applicable high yield discount obligationissued during the period beginning on September 1, 2008, and ending on December 31, 2009, in exchange (including an exchange resulting from a modification of the debt instrument) for an obligation which is not an applicable high yield discount obligation and the issuer (or obligor) of which is the same as the issuer (or obligor) of such applicable high yield discount obligation. The preceding sentence shall not apply to any obligation the interest on which is interest described in section 871(h)(4) (without regard to subparagraph (D) thereof) or to any obligation issued to a related person (within the meaning of section 108(e)(4)).
 
 #### (ii) Successive application
 
@@ -232,7 +224,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (iii) Secretarial authority to suspend application
 
-&emsp;&emsp;&emsp;The Secretary may apply this paragraph with respect to debt instruments issued inperiods following the period described in clause (i) if the Secretary determines that such application is appropriate in light of distressed conditions in the debt capital markets.
+&emsp;&emsp;&emsp;The Secretary may apply this paragraph with respect to debt instruments issued in periods following the period described in clause (i) if the Secretary determines that such application is appropriate in light of distressed conditions in the debt capital markets.
 
 #### (G) Cross reference
 
@@ -314,7 +306,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;&emsp;(ii) home equity indebtedness with respect to any qualified residence of the taxpayer.
 
-> &emsp;&emsp;For purposes of the preceding sentence, the determination of whether any property is a qualified residence of the taxpayer shall be made as of the time the interest is accrued.
+> &emsp;&emsp;For purposes of the preceding sentence, the determination of whether any property is aqualified residence of the taxpayer shall be made as of the time the interest is accrued.
 
 #### (B) Acquisition indebtedness
 
@@ -394,7 +386,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;&emsp;Clause (i) shall not apply to amounts—
 
-&emsp;&emsp;&emsp;&emsp;(I) paid or accrued after December 31, 2016, or
+&emsp;&emsp;&emsp;&emsp;(I) paid or accrued after December 31, 2017, or
 
 &emsp;&emsp;&emsp;&emsp;(II) properly allocable to any period after such date.
 
@@ -422,7 +414,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (ii) Treatment of limitation in taxable years after December 31, 2025
 
-&emsp;&emsp;&emsp;In the case of taxable years beginning after December 31, 2025, the limitationunder subparagraph (B)(ii) shall be applied to the aggregate amount of indebtedness of the taxpayer described in subparagraph (B)(i) without regard to the taxable year in which the indebtedness was incurred.
+&emsp;&emsp;&emsp;In the case of taxable years beginning after December 31, 2025, the limitation under subparagraph (B)(ii) shall be applied to the aggregate amount of indebtedness of the taxpayer described in subparagraph (B)(i) without regard to the taxable year in which the indebtedness was incurred.
 
 #### (iii) Treatment of refinancings of indebtedness
 
@@ -560,7 +552,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (3) Exemption for certain small businesses
 
-&emsp;In the case of any taxpayer (other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3)) which meets the gross receipts test of section 448(c) for any taxable year, paragraph (1) shall not apply to such taxpayer for such taxable year. In the case of any taxpayer which is not a corporation or a partnership, the gross receipts test of section 448(c) shall be applied in the same manner as if such taxpayer were a corporation or partnership.
+&emsp;In the case of any taxpayer (other than a tax shelter prohibited from using the cash receiptsand disbursements method of accounting under section 448(a)(3)) which meets the gross receipts test of section 448(c) for any taxable year, paragraph (1) shall not apply to such taxpayer for such taxable year. In the case of any taxpayer which is not a corporation or a partnership, the gross receipts test of section 448(c) shall be applied in the same manner as if such taxpayer were a corporation or partnership.
 
 #### (4) Application to partnerships, etc.
 
@@ -576,7 +568,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be increased by such partner's distributive share of such partnership's excess taxable income.
 
-&emsp;&emsp;&nbsp;For purposes of clause (ii)(II), a partner's distributive share of partnership excesstaxable income shall be determined in the same manner as the partner's distributive share of nonseparately stated taxable income or loss of the partnership.
+&emsp;&emsp;&nbsp;For purposes of clause (ii)(II), a partner's distributive share of partnership excess taxable income shall be determined in the same manner as the partner's distributive share of nonseparately stated taxable income or loss of the partnership.
 
 #### (B) Special rules for carryforwards
 
@@ -630,7 +622,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (6) Business interest income
 
-&emsp;For purposes of this subsection, the term "business interest income" means the amount of interest includible in the gross income of the taxpayer for the taxable year which is properly allocable to a trade or business. Such term shall not include investment income (within the meaning of subsection (d)).
+&emsp;For purposes of this subsection, the term "business interest income" means the amountof interest includible in the gross income of the taxpayer for the taxable year which is properly allocable to a trade or business. Such term shall not include investment income (within the meaning of subsection (d)).
 
 #### (7) Trade or business
 
@@ -666,7 +658,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;&emsp;(i) a farming business (as defined in section 263A(e)(4)) which makes an election under this subparagraph, or
 
-&emsp;&emsp;&emsp;(ii) any trade or business of a specified agricultural or horticultural cooperative (as defined in section 199A(g)(2) <sup>3</sup> ) with respect to which the cooperative makes an election under this subparagraph.
+&emsp;&emsp;&emsp;(ii) any trade or business of a specified agricultural or horticultural cooperative (as defined in section 199A(g)(2)) <sup>1</sup> with respect to which the cooperative makes an election under this subparagraph.
 
 > &emsp;&emsp;Any such election shall be made at such time and in such manner as the Secretary shall prescribe, and, once made, shall be irrevocable.
 
@@ -778,17 +770,31 @@ No deduction shall be allowed under this chapter for any interest paid or accrue
 
 &emsp;&emsp;<b>(5) For treatment of redeemable ground rents and real property held subject to liabilities under redeemable ground rents, see section 1055.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1), Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944; Pub. L. 108–27, title III, §302(b), May 28, 2003, 117 Stat. 762; Pub. L. 108–357, title VIII, §§838(a), 841(a), 845(a)–(d), Oct. 22, 2004, 118 Stat. 1596, 1597, 1600, 1601; Pub. L. 109–135, title IV, §403(a)(15), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–222, title V, §501(a), (b), May 17, 2006, 120 Stat. 354; Pub. L. 109–432, div. A, title IV, §419(a), (b), Dec. 20, 2006, 120 Stat. 2967; Pub. L. 110–142, §3(a), Dec. 20, 2007, 121 Stat. 1804; Pub. L. 111–5, div. B, title I, §1232(a), (b), Feb. 17, 2009, 123 Stat. 341; Pub. L. 111–147, title V, §502(a)(1), (2)(B), (C), (c), Mar. 18, 2010, 124 Stat. 107, 108; Pub. L. 111–312, title VII, §759(a), Dec. 17, 2010, 124 Stat. 3323; Pub. L. 112–240, title II, §204(a), (b), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §104(a), title II, §§220(h), 221(a)(25)(A), Dec. 19, 2014, 128 Stat. 4013, 4036, 4040; Pub. L. 114–113, div. Q, title I, §152(a), Dec. 18, 2015, 129 Stat. 3066; Pub. L. 115–97, title I, §§11043(a), 13301(a), Dec. 22, 2017, 131 Stat. 2086, 2117.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1), Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944; Pub. L. 108–27, title III, §302(b), May 28, 2003, 117 Stat. 762; Pub. L. 108–357, title VIII, §§838(a), 841(a), 845(a)–(d), Oct. 22, 2004, 118 Stat. 1596, 1597, 1600, 1601; Pub. L. 109–135, title IV, §403(a)(15), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–222, title V, §501(a), (b), May 17, 2006, 120 Stat. 354; Pub. L. 109–432, div. A, title IV, §419(a), (b), Dec. 20, 2006, 120 Stat. 2967; Pub. L. 110–142, §3(a), Dec. 20, 2007, 121 Stat. 1804; Pub. L. 111–5, div. B, title I, §1232(a), (b), Feb. 17, 2009, 123 Stat. 341; Pub. L. 111–147, title V, §502(a)(1), (2)(B), (C), (c), Mar. 18, 2010, 124 Stat. 107, 108; Pub. L. 111–312, title VII, §759(a), Dec. 17, 2010, 124 Stat. 3323; Pub. L. 112–240, title II, §204(a), (b), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §104(a), title II, §§220(h), 221(a)(25)(A), Dec. 19, 2014, 128 Stat. 4013, 4036, 4040; Pub. L. 114–113, div. Q, title I, §152(a), Dec. 18, 2015, 129 Stat. 3066; Pub. L. 115–97, title I, §§11043(a), 13301(a), Dec. 22, 2017, 131 Stat. 2086, 2117; Pub. L. 115–123, div. D, title I, §40202(a), Feb. 9, 2018, 132 Stat. 145; Pub. L. 115–141, div. U, title IV, §401(a)(48), (b)(12), (c)(1)(C), (3)(B), Mar. 23, 2018, 132 Stat. 1186, 1202, 1205, 1206.)
 
 #### References in Text
 
-Section 469(m), referred to in subsec. (d)(4)(E), was repealed by Pub. L. 113–295, div. A, title II, §221(a)(60)(A), Dec. 19, 2014, 128 Stat. 4047.
-
 The date of the enactment of this subparagraph, referred to in subsec. (h)(4)(E)(ii), is the date of enactment of Pub. L. 109–432, which was approved Dec. 20, 2006.
+
+Section 199A(g)(2), referred to in subsec. (j)(7)(C)(ii), probably should be a reference to section 199A(g)(4), which defines "specified agricultural or horticultural cooperative" after the general amendment of section 199A(g) by Pub. L. 115–141, div. T, §101(a)(1), Mar. 23, 2018, 132 Stat. 1151.
 
 Section 6664(d)(2)(A), referred to in subsec. (m), was redesignated as section 6664(d)(3)(A) by Pub. L. 111–152, title I, §1409(c)(2)(A), Mar. 30, 2010, 124 Stat. 1069.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(4)(E). Pub. L. 115–141, §401(b)(12), struck out subpar. (E). Text read as follows: "Investment income of the taxpayer for any taxable year shall be reduced by the amount of the passive activity loss to which section 469(a) does not apply for such taxable year by reason of section 469(m). The preceding sentence shall not apply to any portion of such passive activity loss which is attributable to a rental real estate activity with respect to which the taxpayer actively participates (within the meaning of section 469(i)(6)) during such taxable year."
+
+Subsec. (e)(1). Pub. L. 115–141, §401(c)(1)(C), substituted "The portion of the original issue discount with respect to any debt instrument which is" for "In the case of any debt instrument issued after July 1, 1982, the portion of the original issue discount with respect to such debt instrument which is".
+
+Subsec. (e)(4). Pub. L. 115–141, §401(c)(3)(B), amended par. (4) generally. Prior to amendment, text read as follows: "This subsection shall not apply to any debt instrument described in—
+
+&emsp;"(A) subparagraph (D) of section 1272(a)(2) (relating to obligations issued by natural persons before March 2, 1984), and
+
+&emsp;"(B) subparagraph (E) of section 1272(a)(2) (relating to loans between natural persons)."
+
+Subsec. (e)(5)(C)(ii). Pub. L. 115–141, §401(a)(48), inserted "in" before "subsection (i)(1)(B)".
+
+Subsec. (h)(3)(E)(iv)(I). Pub. L. 115–123 substituted "December 31, 2017" for "December 31, 2016".
 
 <b>2017</b>—Subsec. (h)(3)(F). Pub. L. 115–97, §11043(a), added subpar. (F).
 
@@ -1064,7 +1070,7 @@ Subsec. (d)(2). Pub. L. 94–455, §209(a)(1), among other changes, struck out p
 
 Subsec. (d)(3)(A). Pub. L. 94–455, §209(a)(2), inserted provision relating to determination of the amount of net investment income where taxpayer has investment interest for taxable year to which this subsection applies.
 
-Subsec. (d)(3)(B)(iii). Pub. L. 94–455, §§205(c)(3), 1901(b)(3)(K), substituted "1250, and 1254" for "and 1250", and "ordinary income" for "gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231". Section 205(c)(3) of Pub. L. 94–455, which directed the amendment of subsec. (d)(3)(A)(iii), was executed by amending subsec. (d)(3)(B)(iii) to reflect the probable intent of Congress.
+Subsec. (d)(3)(B)(iii). Pub. L. 94–455, §§205(c)(3), 1901(b)(3)(K), substituted "1250, and 1254" for "and1250", and "ordinary income" for "gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231". Section 205(c)(3) of Pub. L. 94–455, which directed the amendment of subsec. (d)(3)(A)(iii), was executed by amending subsec. (d)(3)(B)(iii) to reflect the probable intent of Congress.
 
 Subsec. (d)(3)(E). Pub. L. 94–455, §209(a)(3), substituted "limitation in paragraph (1)" for "limitations in paragraphs (1) and (2)(A)".
 
@@ -1092,11 +1098,19 @@ Subsec. (d)(7). Pub. L. 92–178, §304(a)(2)(B), added par. (7).
 
 <b>1963</b>—Subsecs. (c), (d). Pub. L. 88–9, §1(a), (c), added subsec. (c), redesignated former subsec. (c) as (d) and added par. (5).
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–141, div. U, title IV, §401(c)(1)(H), Mar. 23, 2018, 132 Stat. 1205, provided that: "The amendments made by this paragraph \[amending this section and sections 1271, 1272, and 1278 of this title\] shall apply to debt instruments issued on or after July 2, 1982."
+
+Pub. L. 115–141, div. U, title IV, §401(c)(3)(C), Mar. 23, 2018, 132 Stat. 1206, provided that: "The amendments made by this paragraph \[amending this section and section 1272 of this title\] shall apply to obligations issued on or after March 2, 1984."
+
+Pub. L. 115–123, div. D, title I, §40202(b), Feb. 9, 2018, 132 Stat. 145, provided that: "The amendment made by this section \[amending this section\] shall apply to amounts paid or accrued after December 31, 2016."
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–97, title I, §11043(b), Dec. 22, 2017, 131 Stat. 2087, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
 
-Pub. L. 115–97, title I, §13301(c), Dec. 22, 2017, 131 Stat. 2121, provided that: "The amendments made by this section \[amending this section and sections 381 and 382of this title\] shall apply to taxable years beginning after December 31, 2017."
+Pub. L. 115–97, title I, §13301(c), Dec. 22, 2017, 131 Stat. 2121, provided that: "The amendments made by this section \[amending this section and sections 381 and 382 of this title\] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2015 Amendment
 
@@ -1148,7 +1162,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 Pub. L. 108–357, title VIII, §838(b), Oct. 22, 2004, 118 Stat. 1597, provided that: "The amendments made by this section \[amending this section\] shall apply to transactions in taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
-Pub. L. 108–357, title VIII, §841(c), Oct. 22, 2004, 118 Stat. 1598, provided that: "The amendments made by this section \[amending this section and section 267 of this title\] shall apply to payments accrued on or after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §841(c), Oct. 22, 2004, 118 Stat. 1598, provided that: "The amendments made bythis section \[amending this section and section 267 of this title\] shall apply to payments accrued on or after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 Pub. L. 108–357, title VIII, §845(e), Oct. 22, 2004, 118 Stat. 1601, provided that: "The amendments made by this section \[amending this section\] shall apply to debt instruments issued after October 3, 2004."
 
@@ -1198,7 +1212,7 @@ Transition rule.—The amendment made by this section shall not apply to any ins
 
 Amendment by section 1703(n)(4) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(o) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
-Pub. L. 104–188, title I, §1704(f)(2)(C), Aug. 20, 1996, 110 Stat. 1879, provided that: "The amendments made bythis paragraph \[amending this section\] shall apply as if included in the amendments made by section 7210(a) of the Revenue Reconciliation Act of 1989 \[Pub. L. 101–239\]."
+Pub. L. 104–188, title I, §1704(f)(2)(C), Aug. 20, 1996, 110 Stat. 1879, provided that: "The amendments made by this paragraph \[amending this section\] shall apply as if included in the amendments made by section 7210(a) of the Revenue Reconciliation Act of 1989 \[Pub. L. 101–239\]."
 
 #### Effective Date of 1993 Amendment
 
@@ -1254,7 +1268,7 @@ Exceptions.—
 
 &emsp;&emsp;"(iii) the stated redemption price at maturity of the refinancing instrument is not greater than the stated redemption price at maturity of the refinanced instrument, and
 
-&emsp;&emsp;"(iv) the interest payments required under the refinancing instrument before maturity are not less than (and are paid not later than) the interest payments required under the refinanced instrument.
+&emsp;&emsp;"(iv) the interest payments required under the refinancing instrument before maturity are not lessthan (and are paid not later than) the interest payments required under the refinanced instrument.
 
 &emsp;"(D) The amendments made by this section shall not apply to instruments issued after July 10, 1989, pursuant to a reorganization plan in a title 11 or similar case (as defined in section 368(a)(3) of the Internal Revenue Code of 1986) if the amount of proceeds of such instruments, and the maturities of such instruments, do not exceed the amount or maturities specified in the last reorganization plan filed in such case on or before July 10, 1989."
 
@@ -1290,7 +1304,7 @@ Amendment by section 902(e)(1) of Pub. L. 99–514 applicable to taxable years e
 
 Amendment by section 1301(j)(3) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
-Amendment by sections 1803(a)(4) and 1810(e)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendmentrelates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by sections 1803(a)(4) and 1810(e)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -1348,6 +1362,10 @@ Pub. L. 88–272, title II, §224(d), Feb. 26, 1964, 78 Stat. 79, provided that:
 
 Subsec. (c) effective as of Jan. 1, 1962, and applicable with respect to taxable years ending on or after such date, see section 2 of Pub. L. 88–9, set out as an Effective Date note under section 1055 of this title.
 
+#### Savings Provision
+
+For provisions that nothing in amendment by section 401(b)(12) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+
 #### Application of Subsection (h) to Taxable Years Beginning in 1987
 
 Pub. L. 100–647, title I, §1005(c)(14), Nov. 10, 1988, 102 Stat. 3392, provided that:
@@ -1397,8 +1415,4 @@ Election.—The election under subsection (a)(2) shall be made at such time and 
 For provision that, for purposes of amendments by section 231(b) of Pub. L. 97–248, any evidence of indebtedness issued pursuant to a written commitment which was binding on July 1, 1982, and at all times thereafter be treated as issued on July 1, 1982, see section 231(e) of Pub. L. 97–248, set out as a note under section 1232A of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by "in".</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be "section 199A(g)(3)".</i>
 

@@ -6,7 +6,7 @@ In any case in which the United States is authorized or required by law to furni
 
 #### (b) Recovery of cost of pay for member of uniformed services unable to perform duties
 
-If a member of the uniformed services is injured, or contracts a disease, under circumstances creating a tort liability upon a third person (other than or in addition to the United States and except employers of seamen referred to in subsection (a)) for damages for such injury or disease and the member is unable to perform the member's regular military duties as a result of the injury or disease, the United States shall have a right (independent of the rights of the member) to recover from the third person or an insurer of the third person, or both, the amount equal to the total amount of the pay that accrues and is to accrue to the member for the period for which the member is unable to perform such duties as a result of the injury or disease and is not assigned to perform other military duties.
+If a member of the uniformed services is injured, or contracts a disease, under circumstances creating a tort liability upon a third person (other than or in addition to the United States and except employers of seamen referred to in subsection (a)) for damages for such injury or disease and the member is unable to perform the member's regular military duties as a result of the injury or disease, the United States shall have a right (independent of the rights of the member) to recover from the third person or an insurer of the third person, or both, the amountequal to the total amount of the pay that accrues and is to accrue to the member for the period for which the member is unable to perform such duties as a result of the injury or disease and is not assigned to perform other military duties.
 
 #### (c) United States deemed third party beneficiary under alternative system of compensation
 
@@ -22,7 +22,7 @@ If a member of the uniformed services is injured, or contracts a disease, under 
 
 #### (d) Enforcement procedure; intervention; joinder of parties; State or Federal court proceedings
 
-The United States may, to enforce a right under subsections (a), (b), and (c) (1) intervene or join in any action or proceeding brought by the injured or diseased person, his guardian, personal representative, estate, dependents, or survivors, against the third person who is liable for the injury or disease or the insurance carrier or other entity responsible for the payment or reimbursement of medical expenses or lost pay; or\(2) if such action or proceeding is not commenced within six months after the first day in which care and treatment is furnished or paid for by the United States in connection with the injury or disease involved, institute and prosecute legal proceedings against the third person who is liable for the injury or disease or the insurance carrier or other entity responsible for the payment or reimbursement of medical expenses or lost pay, in a State or Federal court, either alone (in its own name or in the name of the injured person, his guardian, personal representative, estate, dependents, or survivors) or in conjunction with the injured or diseased person, his guardian, personal representative, estate, dependents, or survivors.
+The United States may, to enforce a right under subsections (a), (b), and (c) (1) intervene or join in any action or proceeding brought by the injured or diseased person, his guardian, personal representative, estate, dependents, or survivors, against the third person who is liable for the injury or disease or the insurance carrier or other entity responsible for the payment or reimbursement of medical expenses or lost pay; or (2) if such action or proceeding is not commenced within six months after the first day in which care and treatment is furnished or paid for by the United States in connection with the injury or disease involved, institute and prosecute legal proceedings against the third person who is liable for the injury or disease or the insurance carrier or other entity responsible for the payment or reimbursement of medical expenses or lost pay, in a State or Federal court, either alone (in its own name or in the name of the injured person, his guardian, personal representative, estate, dependents, or survivors) or in conjunction with the injured or diseased person, his guardian, personal representative, estate, dependents, or survivors.
 
 #### (e) Veterans' exception
 
@@ -64,7 +64,7 @@ Effective date of this Act, referred to in subsec. (a), is the first day of the 
 
 <b>2006</b>—Subsec. (g)(4)(B). Pub. L. 109–241 substituted "of Homeland Security," for "of Transportation,".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–201, §1075(b)(1), inserted "(independent of the rights of the injured or diseased person)" after "a right to recover" and ", or that person's insurer," after "from said third person".
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §1075(b)(1), inserted "(independent of the rights of the injured or diseasedperson)" after "a right to recover" and ", or that person's insurer," after "from said third person".
 
 Pub. L. 104–201, §1075(a)(1), (2), inserted "or pay for" after "required by law to furnish" and substituted ", to be furnished, paid for, or to be paid for" for "or to be furnished" in two places.
 

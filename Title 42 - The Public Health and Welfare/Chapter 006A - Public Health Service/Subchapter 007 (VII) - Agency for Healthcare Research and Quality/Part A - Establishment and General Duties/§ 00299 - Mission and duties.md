@@ -82,7 +82,7 @@ References.—Any reference in law to the Agency for Health Care Policy and Rese
 
 #### Transitional and Savings Provisions
 
-Pub. L. 101–239, title VI, §6103(f), Dec. 19, 1989, 103 Stat. 2208, provided that personnel of the Department of Health and Human Services employed, and Department assets used in connection with Department functions, on Dec. 19, 1989, be transferred to the Administrator for Health Care Policy and Research for appropriate allocation, and provided that orders, rules, regulations, grants, contracts, certificates, licenses, privileges, and other determinations, actions, or official documents would continue in effect according to their terms unless changed pursuant to law.
+Pub. L. 101–239, title VI, §6103(f), Dec. 19, 1989, 103 Stat. 2208, provided that personnel of the Departmentof Health and Human Services employed, and Department assets used in connection with Department functions, on Dec. 19, 1989, be transferred to the Administrator for Health Care Policy and Research for appropriate allocation, and provided that orders, rules, regulations, grants, contracts, certificates, licenses, privileges, and other determinations, actions, or official documents would continue in effect according to their terms unless changed pursuant to law.
 
 #### IOM Reports on Best Practices for Developing Clinical Protocols
 

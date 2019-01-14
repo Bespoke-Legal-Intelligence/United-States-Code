@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(C) the good is produced entirely in the territory of one or more of the NAFTA countries exclusively from originating materials; or
 
-&emsp;&emsp;(D) except for a good provided for in chapters 61 through 63 of the HTS, the good is produced entirely in the territory of one or more of the NAFTA countries, but one or more of the nonoriginating materials, that are provided for as parts under the HTS and are used in the production of the good, does not undergo a change in tariff classification because—
+&emsp;&emsp;(D) except for a good provided for in chapters 61 through 63 of the HTS, the good isproduced entirely in the territory of one or more of the NAFTA countries, but one or more of the nonoriginating materials, that are provided for as parts under the HTS and are used in the production of the good, does not undergo a change in tariff classification because—
 
 &emsp;&emsp;&emsp;(i) the good was imported into the territory of a NAFTA country in an unassembled or a disassembled form but was classified as an assembled good pursuant to General Rule of Interpretation 2(a) of the HTS; or
 
@@ -180,7 +180,7 @@ nc
 
 &emsp;&emsp;&emsp;(i) freight, insurance, packing, and all other costs incurred in transporting the material to the location of the producer;
 
-&emsp;&emsp;&emsp;(ii) duties, taxes, and customs brokerage fees paid on the material in the territoryof one or more of the NAFTA countries; and
+&emsp;&emsp;&emsp;(ii) duties, taxes, and customs brokerage fees paid on the material in the territory of one or more of the NAFTA countries; and
 
 &emsp;&emsp;&emsp;(iii) the cost of waste and spoilage resulting from the use of the material in the production of the good, less the value of renewable scrap or by-product.
 
@@ -208,7 +208,7 @@ nc
 
 &emsp;&emsp;(A) a good that is a motor vehicle for the transport of 15 or fewer persons provided for in subheading 8702.10.00 or 8702.90.00, or a motor vehicle provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31, or
 
-&emsp;&emsp;(B) a good provided for in the tariff provisions listed in Annex 403.1 of the Agreement, that is subject to a regional value-content requirement and is for use as original equipment in the production of a motor vehicle for the transport of 15 or fewer persons provided for in subheading 8702.10.00 or 8702.90.00, or a motor vehicle provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31,
+&emsp;&emsp;(B) a good provided for in the tariff provisions listed in Annex 403.1 of the Agreement, that is subject to a regional value-content requirement and is for use as original equipment in the production of a motor vehicle for the transport of 15 or fewer persons provided for in subheading 8702.10.00 or 8702.90.00, or a motor vehicle provided for insubheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31,
 
 > &emsp;the value of nonoriginating materials used by the producer in the production of the good shall be the sum of the values of all nonoriginating materials, determined in accordance with subsection (b)(9) at the time the nonoriginating materials are received by the first person in the territory of a NAFTA country who takes title to them, that are imported from outside the territories of the NAFTA countries under the tariff provisions listed in Annex 403.1 of the Agreement and are used in the production of the good or that are used in the production of any material used in the production of the good.
 
@@ -274,7 +274,7 @@ nc
 
 &emsp;&emsp;&emsp;(ii) a good provided for in heading 8407 or 8408, or subheading 8708.40 that is for use in a motor vehicle identified in clause (i); and
 
-&emsp;&emsp;&emsp;(iii) except for a good identified in subparagraph (A)(ii) or a good provided for in subheadings 8482.10 through 8482.80, or subheading 8483.20 or 8483.30, a good identified in Annex 403.1 of the Agreement that is subject to a regional value-content requirement and is for use in a motor vehicle identified in subparagraph (A)(i) or (B)(i).
+&emsp;&emsp;&emsp;(iii) except for a good identified in subparagraph (A)(ii) or a good provided for in subheadings 8482.10 through 8482.80, or subheading 8483.20 or 8483.30, a good identified in Annex 403.1 of the Agreement that issubject to a regional value-content requirement and is for use in a motor vehicle identified in subparagraph (A)(i) or (B)(i).
 
 #### (6) New and refitted plants
 
@@ -404,7 +404,7 @@ For purposes of determining whether a good is an originating good—
 
 &emsp;(1) if originating and nonoriginating fungible materials are used in the production of the good, the determination of whether the materials are originating need not be made through the identification of any specific fungible material, but may be determined on the basis of any of the inventory management methods set out in regulations implementing this section; and
 
-&emsp;(2) if originating and nonoriginating fungible goods are commingled and exported in the same form, the determination may be made on the basis of any of the inventory management methods set out in regulations implementing this section.
+&emsp;(2) if originating and nonoriginating fungible goods are commingled and exported in thesame form, the determination may be made on the basis of any of the inventory management methods set out in regulations implementing this section.
 
 #### (g) Accessories, spare parts, or tools
 
@@ -670,7 +670,7 @@ For purposes of this section—
 
 #### (26) Royalties
 
-&emsp;The term "royalties" means payments of any kind, including payments under technical assistance or similar agreements, made as consideration for the use or right to use any copyright, literary, artistic, or scientific work, patent, trademark, design, model, plan, secret formula, or process. It does not include payments under technical assistance or similar agreements that can be related to specific services such as—
+&emsp;The term "royalties" means payments of any kind, including payments under technical assistance or similar agreements, made as consideration for the use or right to use anycopyright, literary, artistic, or scientific work, patent, trademark, design, model, plan, secret formula, or process. It does not include payments under technical assistance or similar agreements that can be related to specific services such as—
 
 &emsp;&emsp;(A) personnel training, without regard to where performed; and
 
@@ -706,7 +706,7 @@ For purposes of this section—
 
 #### (29) Shipping and packing costs
 
-&emsp;The term "shipping and packing costs" means the costs incurred in packing a good forshipment and shipping the good from the point of direct shipment to the buyer, but does not include the costs of preparing and packaging the good for retail sale.
+&emsp;The term "shipping and packing costs" means the costs incurred in packing a good for shipment and shipping the good from the point of direct shipment to the buyer, but does not include the costs of preparing and packaging the good for retail sale.
 
 #### (30) Size category
 

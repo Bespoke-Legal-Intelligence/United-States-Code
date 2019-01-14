@@ -8,7 +8,7 @@ Section 2943, Pub. L. 88–452, title VI, §603, Aug. 20, 1964, 78 Stat. 530; Pu
 
 Section 2944, Pub. L. 88–452, title VI, §604, Aug. 20, 1964, 78 Stat. 531; Pub. L. 89–794, title IX, §901(d), Nov. 8, 1966, 80 Stat. 1475; Pub. L. 90–222, title I, §108(d), Dec. 23, 1967, 81 Stat. 715; Pub. L. 94–341, §2(a)(32), (33), July 6, 1976, 90 Stat. 805, set forth appeals, notice, and hearing procedures.
 
-Section 2945, Pub. L. 88–452, title VI, §605, Aug. 20, 1964, 78 Stat. 531; Pub. L. 89–253, §27, Oct. 9, 1965, 79 Stat. 978; Pub. L. 89–794, title VI, §605, Nov. 8, 1966, 80 Stat. 1469; Pub. L. 93–644, §9(c)(3), Jan. 4, 1975, 88 Stat. 2314; Pub. L. 95–568, §13(c), Nov. 2, 1978, 92 Stat. 2435, related to establishment, etc., of National Advisory Council on Economic Opportunity.
+Section 2945, Pub. L. 88–452, title VI, §605, Aug. 20, 1964, 78 Stat. 531; Pub. L. 89–253, §27, Oct. 9, 1965, 79 Stat. 978; Pub. L. 89–794, title VI, §605, Nov. 8, 1966, 80 Stat. 1469; Pub. L. 93–644, §9(c)(3), Jan. 4, 1975, 88 Stat. 2314;Pub. L. 95–568, §13(c), Nov. 2, 1978, 92 Stat. 2435, related to establishment, etc., of National Advisory Council on Economic Opportunity.
 
 Section 2946, Pub. L. 88–452, title VI, §606, as added Pub. L. 90–222, title I, §108(e), Dec. 23, 1967, 81 Stat. 715; amended Pub. L. 95–568, §17(a)(28), Nov. 2, 1978, 92 Stat. 2442, related to announcement of research and demonstration contracts.
 

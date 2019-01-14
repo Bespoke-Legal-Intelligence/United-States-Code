@@ -20,5 +20,5 @@ For the purposes of any investigation provided for in this section, the Secretar
 
 #### Effective Date
 
-Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements ineffect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
+Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
 

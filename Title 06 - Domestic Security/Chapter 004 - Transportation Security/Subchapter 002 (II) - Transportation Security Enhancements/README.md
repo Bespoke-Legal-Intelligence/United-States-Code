@@ -12,3 +12,5 @@
 - [&sect; 01115 - TSA personnel limitations](%C2%A7%2001115%20-%20TSA%20personnel%20limitations.md)
 - [&sect; 01116 - National explosives detection canine team training program](%C2%A7%2001116%20-%20National%20explosives%20detection%20canine%20team%20training%20program.md)
 - [&sect; 01117 - Roles of the Department of Homeland Security and the Department of Transportation](%C2%A7%2001117%20-%20Roles%20of%20the%20Department%20of%20Homeland%20Security%20and%20the%20Department%20of%20Transportation.md)
+- [&sect; 01118 - Biometrics expansion](%C2%A7%2001118%20-%20Biometrics%20expansion.md)
+- [&sect; 01119 - Voluntary use of credentialing](%C2%A7%2001119%20-%20Voluntary%20use%20of%20credentialing.md)

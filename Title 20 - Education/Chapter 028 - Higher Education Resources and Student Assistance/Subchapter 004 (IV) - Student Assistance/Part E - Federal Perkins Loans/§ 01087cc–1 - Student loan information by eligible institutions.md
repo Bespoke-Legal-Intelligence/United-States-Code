@@ -42,7 +42,7 @@ Each institution of higher education shall, at or prior to the time such institu
 
 #### (b) Disclosure required prior to repayment
 
-Each institution of higher education shall enter into an agreement with the Secretary under which the institution will, prior to the start of the repayment period of the student borrower on loans made under this part, disclose to the student borrower the information required under this subsection. Any disclosure required by this subsection may be made by an institution of higher education either in a promissory note evidencing the loan or loans or in a written statement provided to the borrower. The disclosures shall include—
+Each institution of higher education shall enter into an agreement with the Secretary under which the institution will, prior to the start of the repayment period of the student borrower on loans made under this part, disclose to the student borrower the information requiredunder this subsection. Any disclosure required by this subsection may be made by an institution of higher education either in a promissory note evidencing the loan or loans or in a written statement provided to the borrower. The disclosures shall include—
 
 &emsp;(1) the name of the institution of higher education, and the address to which communications and payments should be sent;
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, seesection 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
 
 #### Effective Date of 1993 Amendment
 

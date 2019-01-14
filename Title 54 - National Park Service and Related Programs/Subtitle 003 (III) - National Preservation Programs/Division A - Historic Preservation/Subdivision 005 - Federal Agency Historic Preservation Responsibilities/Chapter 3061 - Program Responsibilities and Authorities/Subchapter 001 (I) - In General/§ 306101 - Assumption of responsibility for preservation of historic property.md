@@ -22,7 +22,7 @@ Guidelines for Federal Agency Responsibility for Agency-Owned Historic Property.
 
 (c)
 
-Professional Standards for Preservation of Federally Owned or Controlled Historic Property.—The Secretary shall establish, in consultation with the Secretary of Agriculture, the Secretary of Defense, the Smithsonian Institution, and the Administrator of General Services, professional standards for the preservation of historic property in Federal ownership or control.
+Professional Standards for Preservation of Federally Owned or Controlled Historic Property.—The Secretary shall establish,in consultation with the Secretary of Agriculture, the Secretary of Defense, the Smithsonian Institution, and the Administrator of General Services, professional standards for the preservation of historic property in Federal ownership or control.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3224.)
 

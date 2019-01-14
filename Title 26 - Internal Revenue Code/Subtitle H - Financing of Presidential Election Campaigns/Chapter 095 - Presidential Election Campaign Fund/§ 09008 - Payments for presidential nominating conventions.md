@@ -54,7 +54,7 @@ No part of any payment made under subsection (b) shall be used to defray the exp
 
 #### (e) Availability of payments
 
-The national committee of a major party or minor party may receive payments under subsection (b)(3) beginning on July 1 of the calendar year immediately preceding the calendar year in which a presidential nominating convention of the political party involved is held.
+The national committee of a major party or minor party may receive payments under subsection (b)(3) beginning on July 1 of the calendaryear immediately preceding the calendar year in which a presidential nominating convention of the political party involved is held.
 
 #### (f) Transfer to the fund
 

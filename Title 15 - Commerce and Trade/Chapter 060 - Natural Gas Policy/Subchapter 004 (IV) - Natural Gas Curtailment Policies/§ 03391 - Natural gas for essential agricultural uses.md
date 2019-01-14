@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Not later than 120 days after November 9, 1978, the Secretary of Energy shall prescribe and make effective a rule, which may be amended from time to time, which provides that, notwithstanding any other provision of law (other than subsection (b)) and to the maximum extent practicable, no curtailment plan of an interstate pipeline may provide for curtailment of deliveries of natural gas for any essential agricultural use, unless such curtailment—
+Not later than 120 days after November 9, 1978, the Secretary of Energy shall prescribe and make effective a rule, which may be amended from time to time, which provides that, notwithstanding any other provision of law (other than subsection (b)) and to the maximum extent practicable, no curtailment plan of an interstatepipeline may provide for curtailment of deliveries of natural gas for any essential agricultural use, unless such curtailment—
 
 &emsp;(1) does not reduce the quantity of natural gas delivered for such use below the use requirement specified in subsection (c); or
 

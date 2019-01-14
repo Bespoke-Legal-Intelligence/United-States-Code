@@ -34,7 +34,7 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 (3)(A) Facilities constructed to carry out this section may not be used for a purpose other than the destruction of the stockpile of lethal chemical agents and munitions that exists on November 8, 1985.
 
-(B) The prohibition in subparagraph (A) shall not apply with respect to items designated by the Secretary of Defense as lethal chemical agents, munitions, or related materials after November 8, 1985, if the State in which a destruction facility is located issues the appropriate permit or permits for the destruction of such items at the facility.
+(B) The prohibition in subparagraph (A) shall not apply with respect to items designated bythe Secretary of Defense as lethal chemical agents, munitions, or related materials after November 8, 1985, if the State in which a destruction facility is located issues the appropriate permit or permits for the destruction of such items at the facility.
 
 #### (e) Grants and cooperative agreements
 
@@ -128,29 +128,11 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 (3) The Secretary shall transmit the final report under paragraph (1) not later than 120 days following the completion of activities under this section.
 
-#### (j) Semiannual reports
+#### (j) Quarterly briefing
 
-(1) Not later than March 1 and September 1 each year until the year in which the United States completes the destruction of its entire stockpile of chemical weapons under the terms of the Chemical Weapons Convention, the Secretary of Defense shall submit to the members and committees of Congress referred to in paragraph (3) a report on the implementation by the United States of its chemical weapons destruction obligations under the Chemical Weapons Convention.
+(1) Not later than 90 days after August 13, 2018, and every 90 days thereafter until the United States completes the destruction of its entire stockpile of chemical weapons under the terms of the Chemical Weapons Convention, the Secretary of Defense shall brief the members and committees of Congress referred to in paragraph (3) on the progress made by the United States toward fulfilling its chemical weapons destruction obligations under the Chemical Weapons Convention.
 
-(2) Each report under paragraph (1) shall include the following:
-
-&emsp;(A) The anticipated schedule at the time of such report for the completion of destruction of chemical agents, munitions, and materiel at each chemical weapons demilitarization facility in the United States.
-
-&emsp;(B) A description of the options and alternatives for accelerating the completion of chemical weapons destruction at each such facility, particularly in time to meet the stockpile elimination deadline.
-
-&emsp;(C) A description of the funding required to achieve each of the options for destruction described under subparagraph (B), and a detailed life-cycle cost estimate for each of the affected facilities included in each such funding profile.
-
-&emsp;(D) A description of all actions being taken by the United States to accelerate the destruction of its entire stockpile of chemical weapons, agents, and materiel in order to meet the current stockpile elimination deadline under the Chemical Weapons Convention of April 29, 2012, or as soon thereafter as possible.
-
-&emsp;(E) A description and justification for the use of any supplemental chemical agent and munitions destruction technologies used at Pueblo Chemical Depot, Colorado, and Blue Grass Army Depot, Kentucky, during the period covered by the report, including explosive destruction technologies and any technologies developed for the treatment and disposal of energetic or agent hydrolysates. Such description and justification shall outline—
-
-&emsp;&emsp;(i) the need for the use of supplemental destruction technologies and technologies developed for the treatment and disposal of energetic or agent hydrolystates;
-
-&emsp;&emsp;(ii) site-by-site descriptions of the problematic aspects of the stockpile requiring the use of supplemental technologies;
-
-&emsp;&emsp;(iii) the type of supplemental destruction technologies used at each site; and
-
-&emsp;&emsp;(iv) any planned future use of other supplemental destruction technologies for each site.
+(2) Each briefing under paragraph (1) shall include a description of contractor costs and performance relative to schedule, the progress to date toward the complete destruction of the stockpile, and any other information the Secretary determines to be relevant.
 
 (3) The members and committees of Congress referred to in this paragraph are—
 
@@ -160,7 +142,7 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 #### (k) Authorized use of toxic chemicals
 
-Consistent with United States obligations under the Chemical Weapons Convention, the Secretary of Defense may develop, produce, otherwise acquire, retain, transfer, and use toxic chemicals and their precursors for purposes not prohibited by the Chemical Weapons Conventionif the types and quantities of such chemicals and precursors are consistent with such purposes, including for protective purposes such as protection against toxic chemicals and protection against chemical weapons.
+Consistent with United States obligations under the Chemical Weapons Convention, the Secretary of Defense may develop, produce, otherwise acquire, retain, transfer, and use toxic chemicals and their precursors for purposes not prohibited by the Chemical Weapons Convention if the types and quantities of such chemicals and precursors are consistent with such purposes, including for protective purposes such as protection against toxic chemicals and protection against chemical weapons.
 
 #### (l) Surveillance and assessment program
 
@@ -218,7 +200,7 @@ The Secretary of Defense shall conduct an ongoing comprehensive program of—
 
 (C) An incentives clause in a contract under this section shall specify the target incentive ranges of costs for completion of destruction operations and facility closure activities, respectively, as jointly agreed upon by the contracting officer and the contractor concerned. An incentives clause shall require a proportionate reduction in the maximum incentive payment amounts in the event that the contractor exceeds an agreed-upon target cost if such excess costs are the responsibility of the contractor.
 
-(D) The amount of the incentive payment earned by a contractor for a chemical demilitarization facility under an incentives clause under this subsection shall be based upon a determination by the Secretary on how early in the target incentive range specified in such clause destruction operations or facility closure activities, as the case may be, are completed.
+(D) The amount of the incentive payment earned by a contractor for a chemical demilitarization facility under an incentives clause under this subsection shall be based upon a determination by the Secretary on how early inthe target incentive range specified in such clause destruction operations or facility closure activities, as the case may be, are completed.
 
 (E) The provisions of any incentives clause under this subsection shall be consistent with the obligation of the Secretary of Defense under subsection (d)(1)(A), to provide for maximum protection for the environment, the general public, and the personnel who are involved in the destruction of the lethal chemical agents and munitions.
 
@@ -252,7 +234,7 @@ In this section:
 
 &emsp;&emsp;(B) the dismantling or other disposal of such munitions or agents so as to make them useless for military purposes and harmless to human beings under normal circumstances.
 
-(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775; Pub. L. 107–107, div. A, title X, §1048(i)(4), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 108–375, div. A, title IX, §931, Oct. 28, 2004, 118 Stat. 2031; Pub. L. 109–163, div. A, title IX, §921(a), Jan. 6, 2006, 119 Stat. 3410; Pub. L. 110–181, div. A, title IX, §§923, 924, Jan. 28, 2008, 122 Stat. 284; Pub. L. 111–383, div. A, title XIV, §1421(a), Jan. 7, 2011, 124 Stat. 4412; Pub. L. 112–239, div. A, title XIV, §1421(a), Jan. 2, 2013, 126 Stat. 2049; Pub. L. 114–92, div. A, title XIV, §1411, Nov. 25, 2015, 129 Stat. 1083.)
+(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775; Pub. L. 107–107, div. A, title X, §1048(i)(4), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 108–375, div. A, title IX, §931, Oct. 28, 2004, 118 Stat. 2031; Pub. L. 109–163, div. A, title IX, §921(a), Jan. 6, 2006, 119 Stat. 3410; Pub. L. 110–181, div. A, title IX, §§923, 924, Jan. 28, 2008, 122 Stat. 284; Pub. L. 111–383, div. A, title XIV, §1421(a), Jan. 7, 2011, 124 Stat. 4412; Pub. L. 112–239, div. A, title XIV, §1421(a), Jan. 2, 2013, 126 Stat. 2049; Pub. L. 114–92, div. A, title XIV, §1411, Nov. 25, 2015, 129 Stat. 1083; Pub. L. 115–232, div. A, title XIV, §1424, Aug. 13, 2018, 132 Stat. 2094.)
 
 #### References in Text
 
@@ -262,11 +244,17 @@ The Clean Air Act, referred to in subsec. (c)(3), is act July 14, 1955, ch. 360,
 
 #### Codification
 
-Pub. L. 109–163, §921, which directed amendment of subsec. (c)(4) of this section effective Dec. 5, 1991, andapplicable with respect to any cooperative agreement entered into on or after that date, was executed to subsec. (c)(4) of this section as in effect on the date of enactment of Pub. L. 109–163, to reflect the probable intent of Congress. This section did not contain a subsec. (c)(4) on Dec. 5, 1991. See 2006 Amendment note and Effective Date of 2006 Amendment note below.
+Pub. L. 109–163, §921, which directed amendment of subsec. (c)(4) of this section effective Dec. 5, 1991, and applicable with respect to any cooperative agreement entered into on or after that date, was executed to subsec. (c)(4) of this section as in effect on the date of enactment of Pub. L. 109–163, to reflect the probable intent of Congress. This section did not contain a subsec. (c)(4) on Dec. 5, 1991. See 2006 Amendment note and Effective Date of 2006 Amendment note below.
 
 Section was enacted as part of the Department of Defense Authorization Act, 1986, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (j). Pub. L. 115–232, §1424(1), substituted "Quarterly briefing" for "Semiannual reports" in heading.
+
+Subsec. (j)(1). Pub. L. 115–232, §1424(2), substituted "Not later than 90 days after August 13, 2018, and every 90 days thereafter until" for "Not later than March 1 and September 1 each year until the year in which", "brief the members" for "submit to the members", "onthe progress made" for "a report on the implementation", and "toward fulfilling its chemical weapons destruction obligations" for "of its chemical weapons destruction obligations".
+
+Subsec. (j)(2). Pub. L. 115–232, §1424(3), added par. (2) and struck out former par. (2) which required each report under par. (1) to include the anticipated schedule at the time of such report for the completion of destruction of chemical weapons at each facility, a description of options for accelerating such completion, a description of the funding required to achieve each of the options, a description of all actions being taken to accelerate the destruction of the entire United States stockpile, and a justification for the use of any supplemental chemical agent and munitions destruction technologies used at Pueblo Chemical Depot, Colorado, and Blue Grass Army Depot, Kentucky, during the period covered by the report.
 
 <b>2015</b>—Subsec. (b)(3). Pub. L. 114–92 substituted "December 31, 2023" for "December 31, 2017".
 
@@ -346,7 +334,7 @@ Subsec. (k)(2). Pub. L. 104–106, §1502(c)(6), substituted "Committee on Armed
 
 <b>1993</b>—Subsec. (c)(3). Pub. L. 103–160 substituted "processing, approving, and overseeing" for "processing and approving".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–484, §179(1), struck out par. (1) designation before "Notwithstanding" andstruck out par. (2) which read as follows: "Such destruction shall be carried out in conjunction with the acquisition of binary chemical weapons for use by the Armed Forces."
+<b>1992</b>—Subsec. (a). Pub. L. 102–484, §179(1), struck out par. (1) designation before "Notwithstanding" and struck out par. (2) which read as follows: "Such destruction shall be carried out in conjunction with the acquisition of binary chemical weapons for use by the Armed Forces."
 
 Subsec. (b)(5). Pub. L. 102–484, §171, substituted "December 31, 2004" for "July 31, 1999".
 
@@ -434,7 +422,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(6) The elimination of chemical weapons anywhere they exist in the world, and the prevention of their proliferation, is of utmost importance to the national security of the United States.
 
-&emsp;"(7) Section 921(b)(3) of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2359) contained a sense of Congress urging the Secretary of Defense to ensure the elimination of the United States chemical weapons stockpile in the shortest time possible, consistent with the requirement to protect public health, safety, and the environment.
+&emsp;"(7) Section 921(b)(3) of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2359) contained a sense of Congress urging the Secretary of Defense to ensure the elimination of the United States chemical weapons stockpile in the shortest time possible, consistentwith the requirement to protect public health, safety, and the environment.
 
 &emsp;"(8) Section 921(b)(4) of that Act contained a sense of Congress urging the Secretary of Defense to propose a credible treatment and disposal process with the support of affected communities. In this regard, any such process should provide for sufficient communication and consultation between representatives of the Department of Defense and representatives of affected States and communities.
 
@@ -484,7 +472,7 @@ Pub. L. 102–484, div. A, title I, §§174, 175, Oct. 23, 1992, 106 Stat. 2344,
 
 #### Sense of Congress Concerning International Consultation and Exchange Program
 
-Pub. L. 102–484, div. A, title I, §178, Oct. 23, 1992, 106 Stat. 2346, provided that: "It is the sense of Congress that the Secretary of Defense, in consultation with the Secretary of State, should establish, with other nations that are anticipated to be signatories to an international agreement or treaty banning chemical weapons, a program under which consultation and exchange concerning chemical weapons disposal technologycould be enhanced. Such a program shall be used to facilitate the exchange of technical information and advice concerning the disposal of chemical weapons among signatory nations and to further the development of safer, more cost-effective methods for the disposal of chemical weapons."
+Pub. L. 102–484, div. A, title I, §178, Oct. 23, 1992, 106 Stat. 2346, provided that: "It is the sense of Congress that the Secretary of Defense, in consultation with the Secretary of State, should establish, with other nations that are anticipated to be signatories to an international agreement or treaty banning chemical weapons, a program under which consultation and exchange concerning chemical weapons disposal technology could be enhanced. Such a program shall be used to facilitate the exchange of technical information and advice concerning the disposal of chemical weapons among signatory nations and to further the development of safer, more cost-effective methods for the disposal of chemical weapons."
 
 #### "Low-Volume Site" Defined
 

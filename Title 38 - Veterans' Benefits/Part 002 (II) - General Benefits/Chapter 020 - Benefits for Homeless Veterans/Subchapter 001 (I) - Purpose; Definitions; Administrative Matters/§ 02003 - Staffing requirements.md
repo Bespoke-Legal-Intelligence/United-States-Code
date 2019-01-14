@@ -6,7 +6,7 @@ VBA Staffing at Regional Offices.—The Secretary shall ensure that there is at 
 
 &emsp;(1) Housing programs administered by the Secretary under this title or any other provision of law.
 
-&emsp;(2) Compensation, pension, vocational rehabilitation, and education benefits programs administered by the Secretary under this title or any other provision of law.
+&emsp;(2) Compensation, pension, vocational rehabilitation, and education benefits programsadministered by the Secretary under this title or any other provision of law.
 
 &emsp;(3) The housing program for veterans supported by the Department of Housing and Urban Development.
 

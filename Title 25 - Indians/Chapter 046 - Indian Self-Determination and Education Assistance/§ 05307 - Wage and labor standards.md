@@ -26,7 +26,7 @@ Act of March 3, 1921, referred to in subsec. (a), probably means the act of Marc
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a), is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Act of April 16, 1934, referred to in subsec. (b), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known asthe Johnson-O'Malley Act, which is classified generally to section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Act of April 16, 1934, referred to in subsec. (b), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O'Malley Act, which is classified generally to section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification
 

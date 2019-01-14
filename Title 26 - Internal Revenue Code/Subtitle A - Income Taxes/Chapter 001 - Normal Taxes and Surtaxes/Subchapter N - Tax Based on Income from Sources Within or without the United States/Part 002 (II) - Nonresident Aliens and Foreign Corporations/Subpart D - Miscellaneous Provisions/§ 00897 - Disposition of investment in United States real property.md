@@ -6,11 +6,11 @@
 
 &emsp;For purposes of this title, gain or loss of a nonresident alien individual or a foreign corporation from the disposition of a United States real property interest shall be taken into account—
 
-&emsp;&emsp;(A) in the case of a nonresident alien individual, under section 871(B)(1),<sup>1</sup> or
+&emsp;&emsp;(A) in the case of a nonresident alien individual, under section 871(b)(1), or
 
 &emsp;&emsp;(B) in the case of a foreign corporation, under section 882(a)(1),
 
-> &emsp;as if the taxpayer were engaged in a trade or business within the United States during the taxable year and as if such gain or loss were effectively connected with such trade or business.
+> &emsp;as if the taxpayer were engaged in a trade or business within the United States during the taxable year and as if such gain or loss wereeffectively connected with such trade or business.
 
 #### (2) Minimum tax on nonresident alien individuals
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Under regulations, for purposes of determining whether any corporation is a United States real property holding corporation, ifany corporation (hereinafter in this paragraph referred to as the "first corporation") holds a controlling interest in a second corporation—
+&emsp;&emsp;Under regulations, for purposes of determining whether any corporation is a UnitedStates real property holding corporation, if any corporation (hereinafter in this paragraph referred to as the "first corporation") holds a controlling interest in a second corporation—
 
 &emsp;&emsp;&emsp;(i) the stock which the first corporation holds in the second corporation shall not be taken into account,
 
@@ -200,7 +200,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any real estate investment trust, and
 
-&emsp;&emsp;&emsp;(ii) any regulated investment company which is a United States real property holding corporation or which would be a United States real property holding corporation if the exceptions provided in subsections (c)(3) and (h)(2) did not apply to interests in any real estate investment trust and for purposes of determining whether a real estate investment trust is a domestically controlled qualified investment entity under this subsection or regulated investment company.
+&emsp;&emsp;&emsp;(ii) any regulated investment company which is a United States real property holding corporation or which would be a United States real property holding corporation if the exceptions provided in subsections (c)(3) and (h)(2) did not apply to interests in any real estate investment trust or regulated investment company.
 
 #### (B) Domestically controlled
 
@@ -328,7 +328,7 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 &emsp;&emsp;In the case of any distribution from a real estate investment trust, subsection (h)(1) shall be applied by substituting "10 percent" for "5 percent".
 
-#### (2) Stock held by qualified shareholders not treated as USRPI
+#### (2) Stock held by qualified shareholders not treated as United States real property interest
 
 #### (A) In general
 
@@ -340,11 +340,11 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 #### (B) Exception
 
-&emsp;&emsp;In the case of a qualified shareholder with 1 or more applicable investors—
+&emsp;&emsp;In the case of a qualified shareholder with one or more applicable investors—
 
-&emsp;&emsp;&emsp;(i) subparagraph (A)(i) shall not apply to so much of the stock of a real estate investment trust held by a qualified shareholder as bears the same ratio to the value of the interests (other than interests held solely as a creditor) held by such applicable investors in the qualified shareholder bears to value of all interests (other than interests held solely as a creditor) in the qualified shareholder, and
+&emsp;&emsp;&emsp;(i) subparagraph (A)(i) shall not apply to the applicable percentage of the stock of the real estate investment trust held by the qualified shareholder, and
 
-&emsp;&emsp;&emsp;(ii) a percentage equal to the ratio determined under clause (i) of the amounts realized by the qualified shareholder with respect to any disposition of stock in the real estate investment trust or with respect to any distribution from the real estate investment trust attributable to gain from sales or exchanges of a United States real property interest shall be treated as amounts realized from the disposition of United States real property interests.
+&emsp;&emsp;&emsp;(ii) the applicable percentage of the amounts realized by the qualified shareholder with respect to any disposition of stock in the real estate investment trust or with respect to any distribution from the real estate investment trust attributable to gain from sales or exchanges of a United States real property interest shall be treated as amounts realized from the disposition of United States real property interests.
 
 #### (C) Special rule for certain distributions treated as sale or exchange
 
@@ -352,11 +352,11 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 &emsp;&emsp;&emsp;(i) in the case of an applicable investor, subparagraph (B) shall apply with respect to such distribution, and
 
-&emsp;&emsp;&emsp;(ii) in the case of any other person, such distribution shall be treated under section 857(b)(3)(F) <sup>2</sup> as a dividend from a real estate investment trust notwithstanding any other provision of this title.
+&emsp;&emsp;&emsp;(ii) in the case of any other person, such distribution shall be treated under section 857(b)(3)(F) <sup>1</sup> as a dividend from a real estate investment trust notwithstanding any other provision of this title.
 
 #### (D) Applicable investor
 
-&emsp;&emsp;For purposes of this paragraph, the term "applicable investor" means, with respect to any qualified shareholder holding stock in a real estate investment trust, a person (other than a qualified shareholder) which—
+&emsp;&emsp;For purposes of this subsection, the term "applicable investor" means, with respect to any qualified shareholder holding stock in a real estate investment trust, a person (other than a qualified shareholder) which—
 
 &emsp;&emsp;&emsp;(i) holds an interest (other than an interest solely as a creditor) in such qualified shareholder, and
 
@@ -364,7 +364,11 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 #### (E) Constructive ownership rules
 
-&emsp;&emsp;For purposes of subparagraphs (B)(i) and (C) and paragraph (4), the constructive ownership rules under subsection (c)(6)(C) shall apply.
+&emsp;&emsp;For purposes of subparagraphs (B)(i) and (D), the constructive ownership rules under subsection (c)(6)(C) shall apply.
+
+#### (F) Applicable percentage
+
+&emsp;&emsp;For purposes of subparagraph (B), the term "applicable percentage" means the percentage of the value of the interests (other than interests held solely as a creditor) in the qualified shareholder held by applicable investors.
 
 #### (3) Qualified shareholder
 
@@ -386,15 +390,19 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 &emsp;&emsp;For purposes of this subsection, the term "qualified collective investment vehicle" means a foreign person—
 
-&emsp;&emsp;&emsp;(i) which, under the comprehensive income tax treaty described in subparagraph\(A)(i), is eligible for a reduced rate of withholding with respect to ordinary dividends paid by a real estate investment trust even if such person holds more than 10 percent of the stock of such real estate investment trust,
+&emsp;&emsp;&emsp;(i) which—
+
+&emsp;&emsp;&emsp;&emsp;(I) is eligible for benefits under the comprehensive income tax treaty described in subparagraph (A)(i)(I), but only if the dividends article of such treaty imposes conditions on the benefits allowable in the case of dividends paid by a real estate investment trust, and
+
+&emsp;&emsp;&emsp;&emsp;(II) is eligible under such treaty for a reduced rate of withholding with respect to ordinary dividends paid by a real estate investment trust even if such person holds more than 10 percent of the stock of such real estate investment trust,
 
 &emsp;&emsp;&emsp;(ii) which—
 
 &emsp;&emsp;&emsp;&emsp;(I) is a publicly traded partnership (as defined in section 7704(b)) to which subsection (a) of section 7704 does not apply,
 
-&emsp;&emsp;&emsp;&emsp;(II) is a withholding foreign partnership for purposes of chapters 3, 4, and 61,
+&emsp;&emsp;&emsp;&emsp;(II) is a withholding foreign partnership for purposes of chapters 3, 4, and 61, and
 
-&emsp;&emsp;&emsp;&emsp;(III) if such foreign partnership were a United States corporation, would be a United States real property holding corporation (determined without regard to paragraph (1)) at any time during the 5-year period ending on the date of disposition of, or distribution with respect to, such partnership's interests in a real estate investment trust, or
+&emsp;&emsp;&emsp;&emsp;(III) if such foreign partnership were a domestic corporation, would be a United States real property holding corporation (determined without regard to paragraph (1)) at any time during the 5-year period ending on the date of disposition of, or distribution with respect to, such partnership's interests in a real estate investment trust, or
 
 &emsp;&emsp;&emsp;(iii) which is designated as a qualified collective investment vehicle by the Secretary and is either—
 
@@ -428,15 +436,11 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 &emsp;&emsp;For purposes of this paragraph, an applicable investor's proportionate share of USRPI gain shall be determined on the basis of such investor's share of partnership items of income or gain (excluding gain allocated under section 704(c)), whichever results in the largest proportionate share. If the investor's share of partnership items of income or gain (excluding gain allocated under section 704(c)) may vary during the period such investor is a partner in the partnership, such share shall be the highest share such investor may receive.
 
-#### (l) Exception for interests held by foreign pension funds
+#### (l) Exception for qualified foreign pension funds
 
 #### (1) In general
 
-&emsp;This section shall not apply to any United States real property interest held directly (or indirectly through 1 or more partnerships) by, or to any distribution received from a real estate investment trust by—
-
-&emsp;&emsp;(A) a qualified foreign pension fund, or
-
-&emsp;&emsp;(B) any entity all of the interests of which are held by a qualified foreign pension fund.
+&emsp;For purposes of this section, a qualified foreign pension fund shall not be treated as a nonresident alien individual or a foreign corporation. For purposes of the preceding sentence, an entity all the interests of which are held by a qualified foreign pension fund shall be treated as such a fund.
 
 #### (2) Qualified foreign pension fund
 
@@ -444,23 +448,27 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 &emsp;&emsp;(A) which is created or organized under the law of a country other than the United States,
 
-&emsp;&emsp;(B) which is established to provide retirement or pension benefits to participants or beneficiaries that are current or former employees (or persons designated by such employees) of one or more employers in consideration for services rendered,
+&emsp;&emsp;(B) which is established—
+
+&emsp;&emsp;&emsp;(i) by such country (or one or more political subdivisions thereof) to provide retirement or pension benefits to participants or beneficiaries that are current or former employees (including self-employed individuals) or persons designated by such employees, as a result of services rendered by such employees to their employers, or
+
+&emsp;&emsp;&emsp;(ii) by one or more employers to provide retirement or pension benefits to participants or beneficiaries that are current or former employees (including self-employed individuals) or persons designated by such employees in consideration for services rendered by such employees to such employers,
 
 &emsp;&emsp;(C) which does not have a single participant or beneficiary with a right to more than five percent of its assets or income,
 
-&emsp;&emsp;(D) which is subject to government regulation and provides annual information reporting about its beneficiaries to the relevant tax authorities in the country in which it is established or operates, and
+&emsp;&emsp;(D) which is subject to government regulation and with respect to which annual information about its beneficiaries is provided, or is otherwise available, to the relevant tax authorities in the country in which it is established or operates, and
 
 &emsp;&emsp;(E) with respect to which, under the laws of the country in which it is established or operates—
 
-&emsp;&emsp;&emsp;(i) contributions to such trust, corporation, organization, or arrangement which would otherwise be subject to tax under such laws are deductible or excluded from the gross income of such entity or taxed at a reduced rate, or
+&emsp;&emsp;&emsp;(i) contributions to such trust, corporation, organization, or arrangement which would otherwise be subject to tax under such laws are deductible or excluded from the gross income of such entity or arrangement or taxed at a reduced rate, or
 
-&emsp;&emsp;&emsp;(ii) taxation of any investment income of such trust, corporation, organization or arrangement is deferred or such income is taxed at a reduced rate.
+&emsp;&emsp;&emsp;(ii) taxation of any investment income of such trust, corporation, organization or arrangement is deferred, or such income is excluded from the gross income of such entity or arrangement or is taxed at a reduced rate.
 
 #### (3) Regulations
 
 &emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection.
 
-(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6),formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 108–357, title IV, §§411(c), 418(a), Oct. 22, 2004, 118 Stat. 1504, 1512; Pub. L. 109–135, title IV, §403(p)(1), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 109–222, title V, §§504(a), 505(a), 506(a), May 17, 2006, 120 Stat. 355, 357; Pub. L. 110–343, div. C, title II, §208(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §749(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 112–240, title III, §321(a), Jan. 2, 2013, 126 Stat. 2332; Pub. L. 113–295, div. A, title I, §133(a), Dec. 19, 2014, 128 Stat. 4018; Pub. L. 114–113, div. Q, title I, §133(a), title III, §§322(a)(1), (2)(A), (b), 323(a), 325(a), Dec. 18, 2015, 129 Stat. 3055, 3098, 3101–3103; Pub. L. 115–97, title I, §12001(b)(3)(D), Dec. 22, 2017, 131 Stat. 2093.)
+(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6), formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 108–357, title IV, §§411(c), 418(a), Oct. 22, 2004, 118 Stat. 1504, 1512; Pub. L. 109–135, title IV, §403(p)(1), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 109–222, title V, §§504(a), 505(a), 506(a), May 17, 2006, 120 Stat. 355, 357; Pub. L. 110–343, div. C, title II, §208(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §749(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 112–240, title III, §321(a), Jan. 2, 2013, 126 Stat. 2332; Pub. L. 113–295, div. A, title I, §133(a), Dec. 19, 2014, 128 Stat. 4018; Pub. L. 114–113, div. Q, title I, §133(a), title III, §§322(a)(1), (2)(A), (b), 323(a), 325(a), Dec. 18, 2015, 129 Stat. 3055, 3098, 3101–3103; Pub. L. 115–97, title I, §12001(b)(3)(D), Dec. 22, 2017, 131 Stat. 2093; Pub. L. 115–141, div. U, title I, §101(p)(1)–(6), (q), title IV, §401(a)(155), (156), Mar. 23, 2018, 132 Stat. 1166, 1167, 1191.)
 
 #### References in Text
 
@@ -469,6 +477,46 @@ Section 2 of the Investment Company Act of 1940, referred to in subsec. (h)(4)(E
 Section 857(b)(3)(F), referred to in subsec. (k)(2)(C)(ii), was redesignated section 857(b)(3)(E) and a new subsec. (b)(3)(F) added by Pub. L. 115–97, title I, §13001(b)(2)(K)(i), (iv), Dec. 22, 2017, 131 Stat. 2096, 2097.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–141, §401(a)(155), substituted "section 871(b)(1)" for "section 871(B)(1)".
+
+Subsec. (h)(4)(A)(ii). Pub. L. 115–141, §101(p)(6), repealed Pub. L. 114–113, §322(b)(2), and provided that cl. (ii) shall be applied as if amendment had never been enacted. See 2015 Amendment note below.
+
+Subsec. (k)(2). Pub. L. 115–141, §401(a)(156), substituted "United States real property interest" for "USRPI" in heading.
+
+Subsec. (k)(2)(B). Pub. L. 115–141, §101(p)(1)(A), substituted "one" for "1" in introductory provisions.
+
+Subsec. (k)(2)(B)(i). Pub. L. 115–141, §101(p)(1)(A), added cl. (i) and struck out former cl. (i) which read as follows: "subparagraph (A)(i) shall not apply to so much of the stock of a real estate investment trust held by a qualified shareholder as bears the same ratio to the value of the interests (other than interests held solely as a creditor) held by such applicable investors in the qualified shareholder bears to value of all interests (other than interests held solely as a creditor) in the qualified shareholder, and".
+
+Subsec. (k)(2)(B)(ii). Pub. L. 115–141, §101(p)(1)(A), substituted "the applicable percentage of the" for "a percentage equal to the ratio determined under clause (i) of the".
+
+Subsec. (k)(2)(D). Pub. L. 115–141, §101(p)(2), substituted "subsection" for "paragraph" in introductory provisions.
+
+Subsec. (k)(2)(E). Pub. L. 115–141, §101(p)(3), substituted "and (D)" for "and (C) and paragraph (4)".
+
+Subsec. (k)(2)(F). Pub. L. 115–141, §101(p)(1)(B), added subpar. (F).
+
+Subsec. (k)(3)(B)(i). Pub. L. 115–141, §101(p)(4), substituted "which—" for "which, under the comprehensive income tax treaty described in subparagraph (A)(i), is eligible", added subcl. (I), and inserted "(II) is eligible under such treaty" before "for a reduced rate".
+
+Subsec. (k)(3)(B)(ii)(II). Pub. L. 115–141, §101(p)(5)(A), inserted "and" at end.
+
+Subsec. (k)(3)(B)(ii)(III). Pub. L. 115–141, §101(p)(5)(B), substituted "domestic corporation" for "United States corporation".
+
+Subsec. (l). Pub. L. 115–141, §101(q)(1), substituted "Exception for qualified foreign pension funds" for "Exception for interests held by foreign pension funds" in heading.
+
+Subsec. (l)(1). Pub. L. 115–141, §101(q)(1), amended par. (1) generally. Prior to amendment, text read as follows: "This section shall not apply to any United States real property interest held directly (or indirectly through 1 or more partnerships) by, or to any distribution received from a real estate investment trust by—
+
+&emsp;"(A) a qualified foreign pension fund, or
+
+&emsp;"(B) any entity all of the interests of which are held by a qualified foreign pension fund."
+
+Subsec. (l)(2)(B). Pub. L. 115–141, §101(q)(2), amended subpar.(B) generally. Prior to amendment, subpar. (B) read as follows: "which is established to provide retirement or pension benefits to participants or beneficiaries that are current or former employees (or persons designated by such employees) of one or more employers in consideration for services rendered,".
+
+Subsec. (l)(2)(D). Pub. L. 115–141, §101(q)(3), substituted "with respect to which annual information about its beneficiaries is provided, or is otherwise available, to the relevant tax authorities" for "provides annual information reporting about its beneficiaries to the relevant tax authorities".
+
+Subsec. (l)(2)(E)(i). Pub. L. 115–141, §101(q)(4)(A), substituted "such entity or arrangement" for "such entity".
+
+Subsec. (l)(2)(E)(ii). Pub. L. 115–141, §101(q)(4)(B), substituted ", or such income is excluded from the gross income of such entity or arrangement or is taxed at a reduced rate" for "or such income is taxed at a reduced rate".
 
 <b>2017</b>—Subsec. (a)(2)(A). Pub. L. 115–97 substituted "section 55(b)(1)" for "section 55(b)(1)(A)" in introductory provisions.
 
@@ -480,7 +528,7 @@ Subsec. (h)(4). Pub. L. 114–113, §322(b)(1)(B), inserted "and special rules" 
 
 Subsec. (h)(4)(A). Pub. L. 114–113, §133(a), struck out cl. (i) designation and heading before "The term 'qualified investment entity' means—", redesignated subcls. (I) and (II) of former cl. (i) as cls. (i) and (ii), respectively, and struck out former cl. (ii). Prior to amendment, text of cl. (ii) read as follows: "Clause (i)(II) shall not apply after December 31, 2014. Notwithstanding the preceding sentence, an entity described in clause (i)(II) shall be treated as a qualified investment entity for purposes of applying paragraphs (1) and (5) and section 1445 with respect to any distribution by the entity to a nonresident alien individual or a foreign corporation which is attributable directly or indirectly to a distribution to the entity from a real estate investment trust."
 
-Subsec. (h)(4)(A)(ii). Pub. L. 114–113, §322(b)(2), inserted "and for purposes of determining whether a real estate investment trust is a domestically controlled qualified investment entity under this subsection" after "real estate investment trust".
+Subsec. (h)(4)(A)(ii). Pub. L. 114–113, §322(b)(2), which directed insertion of "and for purposes of determining whether a real estate investment trust is a domestically controlled qualified investment entity under this subsection" after "real estate investment trust", was repealed by Pub. L. 115–141, §101(p)(6), with cl. (ii) to be applied as if amendment had never been enacted.
 
 Subsec. (h)(4)(E). Pub. L. 114–113, §322(b)(1)(A), added subpar. (E).
 
@@ -570,6 +618,10 @@ Subsec. (i). Pub. L. 97–34, §831(d), in par. (1)(A) substituted "holds a Unit
 
 Subsecs. (j) to (l). Pub. L. 97–34, §831(f), (g), added subsecs. (j) to (l).
 
+#### Effective Date of 2018 Amendment
+
+Amendment by section 101(p)(1)–(6), (q) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under section 11 of this title.
@@ -594,15 +646,13 @@ Amounts withheld on or before date of enactment.—In the case of a regulated in
 
 Amendment by section 322(a)(1), (2)(A) of Pub. L. 114–113 effective Dec. 18, 2015, and applicable to any disposition on and after Dec. 18, 2015, and any distribution by a real estate investment trust on or after such date which is treated as a deduction for a taxable year of such trust ending after such date, see section 322(c)(1) of Pub. L. 114–113, set out as a note under section 857 of this title.
 
-Pub. L. 114–113, div. Q, title III, §322(c)(2), (3), Dec. 18, 2015, 129 Stat. 3102, provided that:
+Pub. L. 114–113, div. Q, title III, §322(c)(2), (3), Dec. 18, 2015, 129 Stat. 3102; as amended by Pub. L. 115–141, div. U, title I, §101(p)(6), (7), Mar. 23, 2018, 132 Stat. 1167, provided that:
 
 "(2)
 
-Determination of domestic control.—The amendments made by subsection (b)(1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 18, 2015\].
+Determination of domestic control.—The amendments made by subsection (b)(1) \[amending this section\] shall apply with respect to testing periods (as defined in section 897(h)(4)(D) of the Internal Revenue Code of 1986) ending on or after the date of the enactment of this Act \[Dec. 18, 2015\]."
 
-"(3)
-
-Technical amendment.—The amendment made by subsection (b)(2) \[amending this section\] shall take effect on January 1, 2015."
+\[(3) Repealed. Pub. L. 115–141, div. U, title I, §101(p)(6), Mar. 23, 2018, 132 Stat. 1167.\]
 
 Pub. L. 114–113, div. Q, title III, §323(c), Dec. 18, 2015, 129 Stat. 3103, provided that: "The amendments made by this section \[amending this section and section 1445 of this title\] shall apply to dispositions and distributions after the date of the enactment of this Act \[Dec. 18, 2015\]."
 
@@ -704,7 +754,7 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13203(d) of Pub. L. 103–66, set out as a note under section 55 of this title.
+Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13203(d)of Pub. L. 103–66, set out as a note under section 55 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -737,6 +787,10 @@ In general.—Except as provided in subsection (b), the amendments made by this 
 "(b)
 
 Reporting.—The amendments made by section 1123 \[enacting section 6039C of this title and amending section 6652 of this title\] shall apply to 1980 and subsequent calendar years. In applying such amendments to 1980, such calendar year shall be treated as beginning on June 19, 1980, and ending on December 31, 1980."
+
+#### Repeal
+
+Pub. L. 115–141, div. U, title I, §101(p)(6), Mar. 23, 2018, 132 Stat. 1167, provided that: "Section 322 of the Protecting Americans from Tax Hikes Act of 2015 \[div. Q of Pub. L. 114–113\] is amended by striking subsections (b)(2) \[amending this section\] and (c)(3) \[formerly set out in a note under this section\], and the Internal Revenue Code of 1986 shall be applied as if such subsections, and amendments made thereby, had never been enacted."
 
 #### Savings Provision
 
@@ -774,7 +828,7 @@ In General.—For purposes of section 897 of the Internal Revenue Code of 1986, 
 
 "(b)
 
-Member of a Qualified Ownership Group.—For purposes of this section, the term 'member of a qualified ownership group' means a corporation incorporated on June 16, 1890, under the laws of the Netherlands or a corporation incorporated on October 18, 1897, under the laws of the United Kingdom or any corporation owned directly or indirectly by either or both such corporations.
+Member of a Qualified Ownership Group.—For purposes of this section, the term 'member of a qualified ownership group' means a corporation incorporated on June 16, 1890, under the laws of the Netherlands or a corporation incorporated on October 18, 1897, under the laws of the United Kingdom or any corporationowned directly or indirectly by either or both such corporations.
 
 "(c) \[Repealed. Pub. L. 100–647, title I, §1012(m)(2), Nov. 10, 1988, 102 Stat. 3513.\]
 
@@ -816,7 +870,5 @@ Nontaxed gain.—For purposes of paragraph (1), the term 'nontaxed gain' means a
 
 &emsp;"(B) because of any treaty obligation of the United States."
 
-<i><sup>1</sup></i><i> So in original. Probably should be "871(b)(1),".</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

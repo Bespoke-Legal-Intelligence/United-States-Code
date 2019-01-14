@@ -54,7 +54,7 @@ In general.—Each State shall carry out a statewide transportation planning pro
 
 &emsp;&emsp;(E) protect and enhance the environment, promote energy conservation, improve the quality of life, and promote consistency between transportation improvements and State and local planned growth and economic development patterns;
 
-&emsp;&emsp;(F) enhance the integration and connectivity of the transportation system, across and between modes throughout the State, for people and freight;
+&emsp;&emsp;(F) enhance the integration and connectivity of the transportation system, acrossand between modes throughout the State, for people and freight;
 
 &emsp;&emsp;(G) promote efficient system management and operation;
 
@@ -156,7 +156,7 @@ In general.—The long-range transportation plan shall be developed, as appropri
 
 &emsp;&emsp;&emsp;(ii)
 
-Comparison and consideration.—Consultation under clause (i) shall involve comparison of transportation plans to State and tribal conservation plans or maps, if available, and comparison of transportation plans to inventories of natural or historic resources, if available.
+Comparison and consideration.—Consultation under clause (i) shall involve comparison of transportation plans to State and tribal conservation plans ormaps, if available, and comparison of transportation plans to inventories of natural or historic resources, if available.
 
 &emsp;(3)
 
@@ -174,7 +174,7 @@ In general.—In developing the statewide transportation plan, the State shall p
 
 Methods.—In carrying out subparagraph (A), the State shall, to the maximum extent practicable—
 
-&emsp;&emsp;&emsp;(i) develop and document a consultative process to carry out subparagraph (A)(i)that is separate and discrete from the public involvement process developed under clause (ii);
+&emsp;&emsp;&emsp;(i) develop and document a consultative process to carry out subparagraph (A)(i) that is separate and discrete from the public involvement process developed under clause (ii);
 
 &emsp;&emsp;&emsp;(ii) hold any public meetings at convenient and accessible locations and times;
 
@@ -500,7 +500,7 @@ Subsec. (f)(7). Pub. L. 114–94, §1202(3)(B), substituted "shall" for "should"
 
 Subsec. (f)(8). Pub. L. 114–94, §1202(3)(C), inserted before period at end ", including consideration of the role that intercity buses may play in reducing congestion, pollution, and energy consumption in a cost-effective manner and strategies and investments that preserve and enhance intercity bus systems, including systems that are privately owned and operated".
 
-Subsec. (g)(3). Pub. L. 114–94, §1202(4), inserted "public ports," before "freight shippers" and "(including intercity bus operators)," after "private providers of transportation".
+Subsec. (g)(3). Pub. L. 114–94, §1202(4), inserted "public ports," before "freight shippers" and "(includingintercity bus operators)," after "private providers of transportation".
 
 Subsec. (i). Pub. L. 114–94, §1104(e)(3), substituted "paragraphs (5)(D) and (6) of section 104(b)" for "section 104(b)(5)".
 
@@ -508,7 +508,7 @@ Subsec. (i). Pub. L. 114–94, §1104(e)(3), substituted "paragraphs (5)(D) and 
 
 <b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to statewide transportation planning for provisions relating to, in subsec. (a), development of plans and programs by each State, in subsec. (b), coordination of State with Federal planning, in subsec. (c), scope of planning process, in subsec. (d), additional minimum requirements for each State to consider, in subsec. (e), development of a long-range transportation plan, in subsec. (f), development of a State transportation improvement program, in subsec. (g), funding, in subsec. (h), treatment of certain State laws as congestion management systems, and, in subsec. (i), review of plans and programs under the National Environmental Policy Act of 1969.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1204(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a manner that will serve all areas of the State efficiently and effectively. Subject to section 134 of this title, the State shall develop transportation plans and programs for all areas of the State. Such plans and programs shall provide for development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal State transportation system. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degreeappropriate, based on the complexity of the transportation problems."
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1204(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a manner that will serve all areas of the State efficiently and effectively. Subject to section 134 of this title, the State shall develop transportation plans and programs for all areas of the State. Such plans and programs shall provide for development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal State transportation system. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems."
 
 Subsec. (b). Pub. L. 105–178, §1204(b), inserted "and sections 5303 through 5305 of title 49" after "section 134 of this title".
 
@@ -550,7 +550,7 @@ Subsec. (c). Pub. L. 94–280 struck out subsec. (c) which provided for an annua
 
 <b>1973</b>—Subsecs. (c), (d). Pub. L. 93–87 struck out subsec. (c) which provided for apportionment of sums authorized to carry out this section in accordance with section 104(b)(3) of this title, and redesignated subsec. (d) as (c).
 
-<b>1970</b>—Subsec. (b). Pub. L. 91–605 inserted reference to the Federal-aid urban system and required that projects under this section be based on a continuing comprehensive transportation planning process carried on in accordance with section 134 of this title only in urban areas of more than fifty thousand population.
+<b>1970</b>—Subsec. (b). Pub. L. 91–605 inserted reference to the Federal-aid urban system and required that projects under this section be based on a continuing comprehensive transportation planning process carriedon in accordance with section 134 of this title only in urban areas of more than fifty thousand population.
 
 #### Effective Date of 2015 Amendment
 
@@ -578,7 +578,7 @@ Study.—The Secretary shall conduct a study on the effectiveness of the partici
 
 "(2)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretaryshall transmit to Congress a report containing the results of the study with any recommendations the Secretary determines appropriate as a result of the study."
+Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report containing the results of the study with any recommendations the Secretary determines appropriate as a result of the study."
 
 #### Advanced Travel Forecasting Procedures Program
 
@@ -706,7 +706,7 @@ Pub. L. 94–280, title I, §146, May 5, 1976, 90 Stat. 446, authorized the Secr
 
 #### Authorization of Appropriations
 
-Pub. L. 89–285, title III, §304, Oct. 22, 1965, 79 Stat. 1033, as amended by Pub. L. 97–449, §2(a), Jan. 12, 1983,96 Stat. 2439, authorized an appropriation of $500,000 to the Secretary for highway safety programs under this section.
+Pub. L. 89–285, title III, §304, Oct. 22, 1965, 79 Stat. 1033, as amended by Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, authorized an appropriation of $500,000 to the Secretary for highway safety programs under this section.
 
 #### Definitions
 

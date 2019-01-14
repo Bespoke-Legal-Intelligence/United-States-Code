@@ -50,7 +50,7 @@ An election under subsection (a) by a member of a controlled group shall apply t
 
 #### (C) Annualization
 
-&emsp;&emsp;The Secretary shall prescribe such annualization and other rules as are appropriate in the case of a termination under this paragraph.
+&emsp;&emsp;The Secretary shall prescribe such annualization and other rules as are appropriate inthe case of a termination under this paragraph.
 
 #### (e) Election after termination
 

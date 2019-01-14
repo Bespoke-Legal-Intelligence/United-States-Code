@@ -26,7 +26,7 @@ Each eligible partnership desiring a grant under this section shall submit an ap
 
 &emsp;&emsp;(B) the intended use of the grant funds; and
 
-&emsp;&emsp;(C) the commitment of the resources of the partnership to the activities assisted underthis section, including financial support, faculty participation, and time commitments, and to the continuation of the activities when the grant ends;
+&emsp;&emsp;(C) the commitment of the resources of the partnership to the activities assisted under this section, including financial support, faculty participation, and time commitments, and to the continuation of the activities when the grant ends;
 
 &emsp;(6) a description of—
 
@@ -132,11 +132,11 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 #### (2) Clinical experience and interaction
 
-&emsp;Developing and improving a sustained and high-quality preservice clinical education program to further develop the teaching skills of all prospective teachers and, as applicable, early childhood educators, involved in the program. Such program shall do the following:
+&emsp;Developing and improving a sustained and high-quality preservice clinical education program to further develop the teaching skills ofall prospective teachers and, as applicable, early childhood educators, involved in the program. Such program shall do the following:
 
 &emsp;&emsp;(A) Incorporate year-long opportunities for enrichment, including—
 
-&emsp;&emsp;&emsp;(i) clinical learning in classrooms in high-need schools served by the high-need local educational agency in the eligiblepartnership, and identified by the eligible partnership; and
+&emsp;&emsp;&emsp;(i) clinical learning in classrooms in high-need schools served by the high-need local educational agency in the eligible partnership, and identified by the eligible partnership; and
 
 &emsp;&emsp;&emsp;(ii) closely supervised interaction between prospective teachers and faculty, experienced teachers, principals, other administrators, and school leaders at early childhood education programs (as applicable), elementary schools, or secondary schools, and providing support for such interaction.
 
@@ -278,7 +278,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 #### (ii) Applications for stipends or salaries
 
-&emsp;&emsp;&emsp;Each teacher residency candidate desiring a stipend or salary during the period ofresidency shall submit an application to the eligible partnership at such time, and containing such information and assurances, as the eligible partnership may require.
+&emsp;&emsp;&emsp;Each teacher residency candidate desiring a stipend or salary during the period of residency shall submit an application to the eligible partnership at such time, and containing such information and assurances, as the eligible partnership may require.
 
 #### (iii) Agreements to serve
 
@@ -410,11 +410,11 @@ Nothing in this section shall be construed to prohibit an eligible partnership f
 
 Funds made available under this section shall be used to supplement, and not supplant, other Federal, State, and local funds that would otherwise be expended to carry out activities under this section.
 
-(Pub. L. 89–329, title II, §202, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133; amended Pub. L. 111–39, title II, §201(2), July 1, 2009, 123 Stat. 1936; Pub. L. 114–95, title IX, §§9214(c)(3), 9215(oo)(3), Dec. 10, 2015, 129 Stat. 2161, 2179.)
+(Pub. L. 89–329, title II, §202, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat.3133; amended Pub. L. 111–39, title II, §201(2), July 1, 2009, 123 Stat. 1936; Pub. L. 114–95, title IX, §§9214(c)(3), 9215(oo)(3), Dec. 10, 2015, 129 Stat. 2161, 2179.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(4)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(4)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (b)(4)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 

@@ -32,7 +32,7 @@ Subchapter V of chapter 107 of title 49, referred to in subsec. (d)(2), was omit
 
 #### Codification
 
-In subsec. (a), references to section 1202(10)(C) and (D) of this title were in the original references to section603(8)(C) and (D) of title VI of Pub. L. 97–468, and were editorially translated as section 1202(10)(C) and (D), as the probable intent of Congress, in view of section 1202(8) containing no subpars. (C) and (D) and the subject matter of section 1202(10)(C), which relates to money in the Alaska Railroad Revolving Fund being withheld from the State, and section 1202(10)(D), which relates to personal property being withheld.
+In subsec. (a), references to section 1202(10)(C) and (D) of this title were in the original references to section 603(8)(C) and (D) of title VI of Pub. L. 97–468, and were editorially translated as section 1202(10)(C) and (D), as the probable intent of Congress, in view of section 1202(8) containing no subpars. (C) and (D) and the subject matter of section 1202(10)(C), which relates to money in the Alaska Railroad Revolving Fund being withheld from the State, and section 1202(10)(D), which relates to personal property being withheld.
 
 Section is comprised of subsecs. (a) to (d) of section 605 of Pub. L. 97–468. Subsec. (e) of section 605 of Pub. L. 97–468 amended section 712 of this title.
 

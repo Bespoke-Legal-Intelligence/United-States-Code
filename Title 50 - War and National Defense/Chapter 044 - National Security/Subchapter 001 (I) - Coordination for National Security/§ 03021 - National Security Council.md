@@ -10,9 +10,11 @@ Consistent with the direction of the President, the functions of the Council sha
 
 &emsp;(1) advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security so as to enable the Armed Forces and the other departments and agencies of the United States Government to cooperate more effectively in matters involving the national security;
 
-&emsp;(2) assess and appraise the objectives, commitments, and risks of the United States in relation to the actual and potential military power of the United States, and make recommendations thereon to the President; and
+&emsp;(2) assess and appraise the objectives, commitments, and risks of the United States in relation to the actual and potential military power of the United States, and make recommendations thereon to the President;
 
-&emsp;(3) make recommendations to the President concerning policies on matters of common interest to the departments and agencies of the United States Government concerned with the national security.
+&emsp;(3) make recommendations to the President concerning policies on matters of common interest to the departments and agencies of the United States Government concerned with the national security; and
+
+&emsp;(4) coordinate, without assuming operational authority, the United States Government response to malign foreign influence operations and campaigns.
 
 #### (c) Membership
 
@@ -46,7 +48,31 @@ At meetings of the Council, the President shall preside or, in the absence of th
 
 It is the sense of Congress that there should be within the staff of the Council a Special Adviser to the President on International Religious Freedom, whose position should be comparable to that of a director within the Executive Office of the President. The Special Adviser should serve as a resource for executive branch officials, compiling and maintaining information on the facts and circumstances of violations of religious freedom (as defined in section 6402 of title 22), and making policy recommendations. The Special Adviser should serve as liaison with the Ambassador at Large for International Religious Freedom, the United States Commission on International Religious Freedom, Congress and, as advisable, religious nongovernmental organizations.
 
-(July 26, 1947, ch. 343, title I, §101, 61 Stat. 496; Aug. 10, 1949, ch. 412, §3, 63 Stat. 579; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Oct. 10, 1951, ch. 479, title V, §501(e)(1), 65 Stat. 378; Pub. L. 99–433, title II, §203, Oct. 1, 1986, 100 Stat. 1011; Pub. L. 99–500, §101(c) \[title IX, §9115(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, and Pub. L. 99–591, §101(c) \[title IX, §9115(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125; Pub. L. 99–661, div. A, title XIII, §1311(f), Nov. 14, 1986, 100 Stat. 3986; Pub. L. 100–690, title I, §1003(a)(3), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 102–496, title VII, §703, Oct. 24, 1992, 106 Stat. 3189; Pub. L. 104–293, title VIII, §§802, 804, Oct. 11, 1996, 110 Stat. 3474, 3476; Pub. L. 105–277, div. C, title VII, §713(b), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 105–292, title III, §301, Oct. 27, 1998, 112 Stat. 2800; Pub. L. 108–458, title I, §§1071(a)(1)(A)–(D), 1072(a)(1), Dec. 17, 2004, 118 Stat. 3689, 3692; Pub. L. 110–53, title XVIII, §1841(g), Aug. 3, 2007, 121 Stat. 500; Pub. L. 110–140, title IX, §932, Dec. 19, 2007, 121 Stat. 1740; Pub. L. 113–126, title VII, §702, July 7, 2014, 128 Stat. 1422; Pub. L. 114–328, div. A, title X, §1085(a), Dec. 23, 2016, 130 Stat. 2422; Pub. L. 115–44, title II, §274(a), Aug. 2, 2017, 131 Stat. 938.)
+#### (g) Coordinator for combating malign foreign influence operations and campaigns
+
+#### (1) In general
+
+&emsp;The President shall designate an employee of the National Security Council to be responsible for the coordination of the interagency process for combating malign foreign influence operations and campaigns.
+
+#### (2) Congressional briefing
+
+#### (A) In general
+
+&emsp;&emsp;Not less frequently than twice each year, the employee designated under this subsection, or the employee's designee, shall provide to the congressional committees specified in subparagraph (B) a briefing on the responsibilities and activities of the employee designated under this subsection.
+
+#### (B) Committees specified
+
+&emsp;&emsp;The congressional committees specified in this subparagraph are the following:
+
+&emsp;&emsp;&emsp;(i) The Committees on Armed Services, Foreign Affairs, and Oversight and Government Reform, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;&emsp;&emsp;(ii) The Committees on Armed Services, Foreign Relations, and Homeland Security and Governmental Affairs, and the Select Committee on Intelligence of the Senate.
+
+#### (h) Definition of malign foreign influence operations and campaigns
+
+In this section, the term "malign foreign influence operations and campaigns" means the coordinated, direct or indirect application of national diplomatic, informational, military, economic, business, corruption, educational, and other capabilities by hostile foreign powers to affect attitudes, behaviors, decisions, or outcomes within the United States.
+
+(July 26, 1947, ch. 343, title I, §101, 61 Stat. 496; Aug. 10, 1949, ch. 412, §3, 63 Stat. 579; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Oct. 10, 1951, ch. 479, title V, §501(e)(1), 65 Stat. 378; Pub. L. 99–433, title II, §203, Oct. 1, 1986, 100 Stat. 1011; Pub. L. 99–500, §101(c) \[title IX, §9115(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, and Pub. L. 99–591, §101(c) \[title IX, §9115(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125; Pub. L. 99–661, div. A, title XIII, §1311(f), Nov. 14, 1986, 100 Stat. 3986; Pub. L. 100–690, title I, §1003(a)(3), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 102–496, title VII, §703, Oct. 24, 1992, 106 Stat. 3189; Pub. L. 104–293, title VIII, §§802, 804, Oct. 11, 1996, 110 Stat. 3474, 3476; Pub. L. 105–277, div. C, title VII, §713(b), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 105–292, title III, §301, Oct. 27, 1998, 112 Stat. 2800; Pub. L. 108–458, title I, §§1071(a)(1)(A)–(D), 1072(a)(1), Dec. 17, 2004, 118 Stat. 3689, 3692; Pub. L. 110–53, title XVIII, §1841(g), Aug. 3, 2007, 121 Stat. 500; Pub. L. 110–140, title IX, §932, Dec. 19, 2007, 121 Stat. 1740; Pub. L. 113–126, title VII, §702, July 7, 2014, 128 Stat. 1422; Pub. L. 114–328, div. A, title X, §1085(a), Dec. 23, 2016, 130 Stat. 2422; Pub. L. 115–44, title II, §274(a), Aug. 2, 2017, 131 Stat. 938; Pub. L. 115–232, div. A, title X, §1043(a), Aug. 13, 2018, 132 Stat. 1957.)
 
 #### Codification
 
@@ -55,6 +81,10 @@ Section was formerly classified to section 402 of this title prior to editorial 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(4). Pub. L. 115–232, §1043(a)(1), added par. (4).
+
+Subsecs. (g), (h). Pub. L. 115–232, §1043(a)(2), added subsecs. (g) and (h).
 
 <b>2017</b>—Subsec. (c)(1). Pub. L. 115–44 inserted "the Secretary of the Treasury," before "and such other officers".
 
@@ -152,6 +182,10 @@ For rule of construction for certain duplicate provisions of Public Laws 99–50
 
 Repeals by section 542(a) of Mutual Security Act of 1954 did not repeal amendment to this section by act Oct. 10, 1951.
 
+#### Deadline for Appointment of Coordinator for Combating Malign Foreign Influence Operations and Campaigns
+
+Pub. L. 115–232, div. A, title X, §1043(c), Aug. 13, 2018, 132 Stat. 1958, provided that: "Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the President shall designate the employee of the National Security Council to be responsible for the coordination of the interagency process for combating malign foreign influence operations and campaigns pursuant to subsection (g)(1) of section 101 of the National Security Act of 1947 (50 U.S.C. 3021), as added by subsection (a)(2)."
+
 #### Pilot Program on Cryptologic Service Training
 
 Pub. L. 108–375, div. A, title IX, §922, Oct. 28, 2004, 118 Stat. 2029, which authorized the Director of the National Security Agency to carry out a pilot program on cryptologic service training for the intelligence community, was repealed by Pub. L. 111–259, title III, §313(b)(1)(C), Oct. 7, 2010, 124 Stat. 2666.
@@ -206,7 +240,7 @@ Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the
 
 &emsp;(v) ensure that national preparedness programs and activities for terrorist threats or attacks are developed and are regularly evaluated under appropriate standards and that resources are allocated to improving and sustaining preparedness based on such evaluations; and
 
-&emsp;(vi) ensure the readiness and coordinated deployment of Federal response teams to respond to terrorist threats or attacks, working with the Assistant to the President for National Security Affairs, when appropriate.
+&emsp;(vi) ensure the readiness and coordinated deployment of Federal response teams to respond to terrorist threats or attacks, working with the Assistant tothe President for National Security Affairs, when appropriate.
 
 (d) <i>Prevention</i>. The Office shall coordinate efforts to prevent terrorist attacks within the United States. In performing this function, the Office shall work with Federal, State, and local agencies, and private entities, as appropriate, to:
 
@@ -254,7 +288,7 @@ Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the
 
 (k) <i>Review of Legal Authorities and Development of Legislative Proposals</i>. The Office shall coordinate a periodic review and assessment of the legal authorities available to executive departments and agencies to permit them to perform the functions described in this order. When the Office determines that such legal authorities are inadequate, the Office shall develop, in consultation with executive departments and agencies, proposals for presidential action and legislative proposals for submission to the Office of Management and Budget to enhance the ability of executive departments and agencies to perform those functions. The Office shall work with State and local governments in assessing the adequacy of their legal authorities to permit them to detect, prepare for, prevent, protect against, and recover from terrorist threats and attacks.
 
-(l) <i>Budget Review</i>. The Assistant to the President for Homeland Security, in consultation with the Director of the Office of Management and Budget (the "Director") and the heads of executive departments and agencies, shall identify programs that contribute to the Administration's strategy for homeland security and, in the development of the President's annual budget submission, shall review and provide advice to the heads of departments and agencies for such programs. The Assistant to the President for Homeland Security shall provide advice to the Director on the level and use of funding in departments and agencies for homeland security-related activities and, prior to the Director's forwarding of the proposed annual budget submission to the President for transmittal to the Congress, shall certify to the Director the funding levels that the Assistant to the President for Homeland Security believes are necessary and appropriate for the homeland security-related activities of the executive branch.
+(l) <i>Budget Review</i>. The Assistant to the President for Homeland Security, in consultation with the Director of the Office of Management and Budget (the "Director") and the heads of executive departments and agencies, shall identify programs that contribute to the Administration's strategy for homeland security and, in the development of the President's annual budget submission, shall review and provide advice to the heads of departments and agencies for such programs. The Assistant to the President for Homeland Security shall provide advice to the Director on the level and use of funding in departments and agencies for homeland security-related activities and, prior to the Director's forwarding of the proposed annual budget submission to the President for transmittal to the Congress, shall certify to the Director the funding levels that the Assistant to the President for Homeland Security believesare necessary and appropriate for the homeland security-related activities of the executive branch.
 
 Sec. 4. <i>Administration.</i>
 
@@ -262,7 +296,7 @@ Sec. 4. <i>Administration.</i>
 
 (b) The Office of Administration within the Executive Office of the President shall provide the Office of Homeland Security with such personnel, funding, and administrative support, to the extent permitted by law and subject to the availability of appropriations, as directed by the Chief of Staff to carry out the provisions of this order.
 
-(c) Heads of executive departments and agencies are authorized, to the extent permitted by law, to detail orassign personnel of such departments and agencies to the Office of Homeland Security upon request of the Assistant to the President for Homeland Security, subject to the approval of the Chief of Staff.
+(c) Heads of executive departments and agencies are authorized, to the extent permitted by law, to detail or assign personnel of such departments and agencies to the Office of Homeland Security upon request of the Assistant to the President for Homeland Security, subject to the approval of the Chief of Staff.
 
 Sec. 5. <i>Establishment of Homeland Security Council.</i>
 
@@ -322,7 +356,7 @@ Sec. 2. <i>Definition</i>. For purposes of this order, the term "mass atrocities
 
 Sec. 3. <i>Responsibilities</i>. The Board shall seek to ensure that mass atrocities and the risk thereof are effectively considered and appropriately addressed by the U.S. Government, and shall coordinate the development and execution of policies and tools to enhance our capacity to prevent and respond to mass atrocities.
 
-(a) In order to ensure that emerging mass atrocity risks and mass atrocity situations are considered and addressed, the Board shall monitor developmentsaround the world that heighten the risk of mass atrocities, and analyze and closely review specific mass atrocity threats or situations of heightened concern.
+(a) In order to ensure that emerging mass atrocity risks and mass atrocity situations are considered and addressed, the Board shall monitor developments around the world that heighten the risk of mass atrocities, and analyze and closely review specific mass atrocity threats or situations of heightened concern.
 
 (b) The Board shall also identify any gaps related to the prevention of and response to mass atrocities in the current policies and ongoing interagency processes concerning particular regions or countries and shall make recommendations to strengthen policies, programs, resources, and tools related to mass atrocity prevention and response to relevant executive departments and agencies (agencies), including through the Board's function as an interagency policy committee, as detailed in section 4 of this order. In these efforts, the Board shall focus in particular on ways for the U.S. Government to develop, strengthen, and enhance its capabilities to:
 
@@ -540,7 +574,7 @@ Sec. 3. <i>Agency Roles and Responsibilities</i>. In furtherance of the policy d
 
 (i) serve, in conjunction with other relevant agencies, as the United States Government lead for GHSA targets relating to linking public health and law enforcement, and coordinate with INTERPOL on the GHSA and its successful implementation;
 
-(ii) facilitate implementation and coordination of FBI programs to further the GHSA, as well as provide technical expertise to measure and evaluate progress in countries the United States has made a commitment to assist; and
+(ii) facilitate implementation and coordination of FBI programs to further the GHSA, as well as providetechnical expertise to measure and evaluate progress in countries the United States has made a commitment to assist; and
 
 (iii) work, in conjunction with interagency partners and the in-country GHSA team, with other donors and nongovernmental implementers in partner countries in which FBI programs are active in order to coordinate and leverage commitments to advance the GHSA with partners.
 
@@ -678,7 +712,7 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 Since my earliest days in office, I have emphasized the importance of transparency and my commitment to making as much information as possible available to the Congress and the public about the United States use of military force and related national security operations. Doing so, I believe, not only supports the process of democratic decision making, but also demonstrates the legitimacy and strengthens the sustainability of our operations while promoting mutual understanding with our allies and partners.
 
-The United States has used military force and conducted related national security operations within legal and policy frameworks that are designed to ensure that such operations are lawful and effective and that they serve our interests and values. Consistent with my commitment to transparency, my Administration has provided to the public an unprecedented amount of information regarding these frameworks through speeches, public statements, reports, and other materials. We have attempted to explain, consistent with our national security and the proper functioning of the executive branch, when and why the United States conducts such operations, the legal basis and policy parameters for such operations, and how such operations have unfolded, so that the American people can better understand them.
+The United States has used military force and conducted related national security operations within legal and policy frameworks that are designed to ensure that such operations are lawful and effective and that they serve our interests and values. Consistentwith my commitment to transparency, my Administration has provided to the public an unprecedented amount of information regarding these frameworks through speeches, public statements, reports, and other materials. We have attempted to explain, consistent with our national security and the proper functioning of the executive branch, when and why the United States conducts such operations, the legal basis and policy parameters for such operations, and how such operations have unfolded, so that the American people can better understand them.
 
 In addition to the efforts we have made to date, there is still more work that can be done to inform the public. Thus, consistent with my Administration's previous efforts, by this memorandum I am directing national security departments and agencies to take additional steps to share with the public further information relating to the legal and policy frameworks within which the United States uses military force and conducts related national security operations. Accordingly, I hereby direct as follows:
 
@@ -716,7 +750,7 @@ The security threats facing the United States in the 21st century transcend inte
 
 The Assistant to the President for National Security Affairs (National Security Advisor) shall be responsible, as appropriate and at the President's direction, for determining the agenda for the NSC or HSC, respectively, ensuring that the necessary papers are prepared and recording Council actions and Presidential decisions in a timely manner. The Assistant to the President for Homeland Security and Counterterrorism (Homeland Security Advisor) may, at the sole discretion of the National Security Advisor, perform those functions. When international economic issues are on the agenda of the NSC, the Assistant to the President for Economic Policy may, at the sole discretion of the National Security Advisor, perform those functions.
 
-The NSC and HSC shall have as their regular attendees (both statutory and non-statutory) the President, the Vice President, the Secretary of State, the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of Energy, the Secretary of Homeland Security, the National Security Advisor, the Homeland Security Advisor, and the Representative of the United States to the United Nations. The Director of National Intelligence and the Chairman of the Joint Chiefs of Staff, as statutory advisors to the NSC, shall also be regular attendees, as will the Director of the Central Intelligence Agency.
+The NSC and HSC shall have as their regular attendees (both statutory and non-statutory) the President, the Vice President, the Secretary of State, the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of Energy, theSecretary of Homeland Security, the National Security Advisor, the Homeland Security Advisor, and the Representative of the United States to the United Nations. The Director of National Intelligence and the Chairman of the Joint Chiefs of Staff, as statutory advisors to the NSC, shall also be regular attendees, as will the Director of the Central Intelligence Agency.
 
 When international economic issues are on the agenda of the NSC, the NSC's regular attendees will include the Secretary of Commerce, the United States Trade Representative, and the Assistant to the President for Economic Policy.
 

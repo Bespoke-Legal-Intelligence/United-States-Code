@@ -6,7 +6,7 @@
 
 &emsp;(B) whether the achievement of a vocational goal currently is reasonably feasible for such veteran if it is reasonably feasible to make such determination without extended evaluation.
 
-(b) In any case in which the Secretary has determined that a veteran has a serious employment handicap and that the achievement of a vocational goal currently is reasonably feasible for such veteran, such veteran shall be provided an individualized written plan of vocational rehabilitation developed under section 3107(a) of this title.
+(b) In any case in which the Secretary has determined that a veteran has a serious employment handicap and that the achievement of a vocational goal currently is reasonably feasiblefor such veteran, such veteran shall be provided an individualized written plan of vocational rehabilitation developed under section 3107(a) of this title.
 
 (c) In any case in which the Secretary has determined that a veteran has a serious employment handicap but the Secretary is unable to determine, in an initial evaluation pursuant to subsection (a) of this section, whether or not the achievement of a vocational goal currently is reasonably feasible, such veteran shall be provided with an extended evaluation consisting of the services described in section 3104(a)(1) of this title, such services under this chapter as the Secretary determines necessary to improve such veteran's potential for participation in a program of services designed to achieve a vocational goal and enable such veteran to achieve maximum independence in daily living, and assistance as authorized by section 3108 of this title.
 

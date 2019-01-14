@@ -64,7 +64,7 @@ General Limitations.—(1) Except as provided in this section, a State may not p
 
 (c)
 
-Maxi-Cube and Vehicle Combination Limitations.—A State may not prohibit a maxi-cube vehicle or a commercial motor vehicle combination consisting of a truck tractor and 2 trailingunits on any segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary under subsection (e) of this section.
+Maxi-Cube and Vehicle Combination Limitations.—A State may not prohibit a maxi-cube vehicle or a commercial motor vehicle combination consisting of a truck tractor and 2 trailing units on any segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary under subsection (e) of this section.
 
 (d)
 
@@ -78,7 +78,7 @@ Qualifying Highways.—The Secretary by regulation shall designate as qualifying
 
 Exemptions.—(1) If the chief executive officer of a State, after consulting under paragraph (2) of this subsection, decides a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section, the chief executive officer may notify the Secretary of that decision and request the Secretary to exempt that segment from either or both provisions.
 
-(2) Before making a decision under paragraph (1) of this subsection, the chief executive officer shall consult with units of local government in the State in which the segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is located and with the chief executive officer of any adjacent State that may be directly affected by the exemption. As part of the consultations, consideration shall be given to any potential alternative route that serves the area in which the segment is located and can safely accommodate a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section.
+(2) Before making a decision under paragraph (1) of this subsection, the chief executive officer shall consult with units of local government in the State in which the segment of the Dwight D.Eisenhower System of Interstate and Defense Highways is located and with the chief executive officer of any adjacent State that may be directly affected by the exemption. As part of the consultations, consideration shall be given to any potential alternative route that serves the area in which the segment is located and can safely accommodate a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section.
 
 (3) A chief executive officer's notification under this subsection must include specific evidence of safety problems supporting the officer's decision and the results of consultations about alternative routes.
 

@@ -4,7 +4,7 @@
 
 Subject to regulations of the President—
 
-&emsp;(1) commissioned officers, chief warrant officers, warrant officers, cadets, and enlisted personnel of the Regular Coast Guard on active duty, including those on shore duty and those on detached duty; and Regular, and temporary members of the United States Coast Guard Reserve when on active duty;
+&emsp;(1) commissioned officers, chief warrant officers, warrant officers, cadets, and enlisted personnel of the Regular Coast Guard on active duty, including those on shore duty and thoseon detached duty; and Regular, and temporary members of the United States Coast Guard Reserve when on active duty;
 
 &emsp;(2) commissioned officers, ships' officers, and members of the crews of vessels of the National Oceanic and Atmospheric Administration on active duty, including those on shore duty and those on detached duty; and
 

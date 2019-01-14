@@ -18,7 +18,7 @@ To natural wine made from berries or fruit other than grapes, pure dry sugar or 
 
 &emsp;(D) Wines made exclusively from any fruit or berry with a natural fixed acid of 20 parts per thousand or more (before any correction of such fruit or berry) shall be entitled to a volume of ameliorating material not in excess of 60 percent (in lieu of 35 percent).
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1385; amended Pub. L. 89–44, title VIII,§806(b)(2), (c)(2), (3), June 21, 1965, 79 Stat. 163, 164; Pub. L. 90–619, §3(b), Oct. 22, 1968, 82 Stat. 1237; Pub. L. 105–34, title XIV, §1417(a), Aug. 5, 1997, 111 Stat. 1048.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1385; amended Pub. L. 89–44, title VIII, §806(b)(2), (c)(2), (3), June 21, 1965, 79 Stat. 163, 164; Pub. L. 90–619, §3(b), Oct. 22, 1968, 82 Stat. 1237; Pub. L. 105–34, title XIV, §1417(a), Aug. 5, 1997, 111 Stat. 1048.)
 
 #### Prior Provisions
 

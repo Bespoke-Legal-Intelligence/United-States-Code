@@ -30,7 +30,7 @@ Exception for Officers Graduating From Other-than-in-residence Programs.—(1) S
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 112–81, §503(a)(1), inserted "(or, as authorized by the Secretary in an individualcase, to a joint assignment other than a joint duty assignment)" after "to a joint duty assignment".
+<b>2011</b>—Subsec. (b)(1). Pub. L. 112–81, §503(a)(1), inserted "(or, as authorized by the Secretary in an individual case, to a joint assignment other than a joint duty assignment)" after "to a joint duty assignment".
 
 Subsec. (b)(2). Pub. L. 112–81, §503(a)(2), substituted "the assignment" for "the joint duty assignment" and "such an assignment" for "a joint duty assignment".
 
@@ -56,7 +56,7 @@ Pub. L. 108–375, §532(b), transferred subsec. (b), relating to joint military
 
 Subsec. (c). Pub. L. 108–375, §532(b), transferred subsec. (c), relating to other professional military education schools, to section 2152(c) of this title.
 
-Subsec. (d). Pub. L. 108–375, §532(c)(1)(B), (C), (E), redesignated par. (1) as subsec. (a), redesignated subpars. (A) and (B) of par. (2) as pars. (1) and (2), respectively, of subsec. (b), and struck out heading "Post-Education Joint Duty Assignments".
+Subsec. (d). Pub. L. 108–375, §532(c)(1)(B), (C), (E), redesignated par. (1) as subsec. (a), redesignated subpars.\(A) and (B) of par. (2) as pars. (1) and (2), respectively, of subsec. (b), and struck out heading "Post-Education Joint Duty Assignments".
 
 Subsec. (e). Pub. L. 108–375, §532(c)(1)(A), struck out heading and text of subsec. (e) which related to the duration of the principal course of instruction offered at the Joint Forces Staff College. See section 2156 of this title.
 

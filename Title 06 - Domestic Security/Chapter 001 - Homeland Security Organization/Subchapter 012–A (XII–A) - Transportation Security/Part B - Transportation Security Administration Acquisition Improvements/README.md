@@ -11,3 +11,4 @@ Part B—Transportation Security Administration Acquisition Improvements
 - [&sect; 00563c - Inventory utilization](%C2%A7%2000563c%20-%20Inventory%20utilization.md)
 - [&sect; 00563d - Small business contracting goals](%C2%A7%2000563d%20-%20Small%20business%20contracting%20goals.md)
 - [&sect; 00563e - Consistency with the Federal Acquisition Regulation and departmental policies and directives](%C2%A7%2000563e%20-%20Consistency%20with%20the%20Federal%20Acquisition%20Regulation%20and%20departmental%20policies%20and%20directives.md)
+- [&sect; 00563f - Diversified security technology industry marketplace](%C2%A7%2000563f%20-%20Diversified%20security%20technology%20industry%20marketplace.md)

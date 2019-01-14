@@ -30,11 +30,9 @@
 
 &emsp;&emsp;(A) a financial institution which uses the reserve method of accounting for bad debts described in section 585,
 
-&emsp;&emsp;(B) an insurance company subject to tax under subchapter L,
+&emsp;&emsp;(B) an insurance company subject to tax under subchapter L, or
 
-&emsp;&emsp;(C) a corporation to which an election under section 936 applies, or
-
-&emsp;&emsp;(D) a DISC or former DISC.
+&emsp;&emsp;(C) a DISC or former DISC.
 
 #### (3) Treatment of certain wholly owned subsidiaries
 
@@ -58,7 +56,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this title, if any corporation which was a qualified subchapter S subsidiary ceases to meet the requirements of subparagraph (B), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately beforesuch cessation from the S corporation in exchange for its stock.
+&emsp;&emsp;&emsp;For purposes of this title, if any corporation which was a qualified subchapter S subsidiary ceases to meet the requirements of subparagraph (B), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately before such cessation from the S corporation in exchange for its stock.
 
 #### (ii) Termination by reason of sale of stock
 
@@ -154,7 +152,7 @@
 
 &emsp;&emsp;&emsp;(v) In the case of a trust described in clause (v) of subparagraph (A), each potential current beneficiary of such trust shall be treated as a shareholder; except that, if for any period there is no potential current beneficiary of such trust, such trust shall be treated as the shareholder during such period. This clause shall not apply for purposes of subsection (b)(1)(C).
 
-&emsp;&emsp;&emsp;(vi) In the case of a trust described in clause (vi) of subparagraph (A), the individual for whose benefit the trust was created shall be treated as a shareholder.
+&emsp;&emsp;&emsp;(vi) In the case of a trust described in clause (vi) of subparagraph (A), the individual for whose benefit the trust was created shall be treated as the shareholder.
 
 #### (3) Estate of individual in bankruptcy may be shareholder
 
@@ -182,7 +180,7 @@
 
 #### (C) Regulations
 
-&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to provide for the proper treatment of straight debt under this subchapter and for the coordination of such treatment with other provisions of this title.
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate toprovide for the proper treatment of straight debt under this subchapter and for the coordination of such treatment with other provisions of this title.
 
 #### (6) Certain exempt organizations permitted as shareholders
 
@@ -312,7 +310,7 @@
 
 #### (2) Restricted bank director stock
 
-&emsp;For purposes of this subsection, the term "restricted bank director stock" means stock in a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1)),<sup>1</sup> if such stock—
+&emsp;For purposes of this subsection, the term "restricted bank director stock" means stock in a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1))), if such stock—
 
 &emsp;&emsp;(A) is required to be held by an individual under applicable Federal or State law in order to permit such individual to serve as a director, and
 
@@ -326,7 +324,7 @@
 
 In the case of a bank which changes from the reserve method of accounting for bad debts described in section 585 or 593 for its first taxable year for which an election under section 1362(a) is in effect, the bank may elect to take into account any adjustments under section 481 by reason of such change for the taxable year immediately preceding such first taxable year.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, §721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, §901(d)(4)(G), title XVIII, §1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, §1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, §7811(c)(6), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, 110 Stat. 1777, 1779, 1782, 1783, 1785, 1786, 1857; Pub. L. 105–34, title XVI, §1601(c)(1), (3), (4)(B), (C), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 105–206, title VI, §6007(f)(3), July 22, 1998, 112 Stat. 810; Pub. L. 106–554, §1(a)(7) \[title III, §316(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 108–357, title II, §§231(a), 232(a), 233(a), (b), 234(a), 236(a), 239(a), Oct. 22, 2004, 118 Stat. 1433–1435, 1437; Pub. L. 109–135, title IV, §§403(b), 413(a)(1), (c), Dec. 21, 2005, 119 Stat. 2620, 2641; Pub. L. 110–28, title VIII, §§8232(a), 8233(a), 8234(a), May 25, 2007, 121 Stat. 197, 198; Pub. L. 115–97, title I, §13541(a), Dec. 22, 2017, 131 Stat. 2154.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, §721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, §901(d)(4)(G), title XVIII, §1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, §1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, §7811(c)(6), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, 110 Stat. 1777, 1779, 1782, 1783, 1785, 1786, 1857; Pub. L. 105–34, title XVI, §1601(c)(1), (3), (4)(B), (C), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 105–206, title VI, §6007(f)(3), July 22, 1998, 112 Stat. 810; Pub. L. 106–554, §1(a)(7) \[title III, §316(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 108–357, title II, §§231(a), 232(a), 233(a), (b), 234(a), 236(a), 239(a), Oct. 22, 2004, 118 Stat. 1433–1435, 1437; Pub. L. 109–135, title IV, §§403(b), 413(a)(1), (c), Dec. 21, 2005, 119 Stat. 2620, 2641; Pub. L. 110–28, title VIII, §§8232(a), 8233(a), 8234(a), May 25, 2007, 121 Stat. 197, 198; Pub. L. 115–97, title I, §13541(a), Dec. 22, 2017, 131 Stat. 2154; Pub. L. 115–141, div. U, title I, §109(a), title IV, §401(a)(190), (d)(1)(D)(xvi), Mar. 23, 2018, 132 Stat. 1171, 1193, 1208.)
 
 #### References in Text
 
@@ -337,6 +335,12 @@ The date of the enactment of this clause, referred to in subsec. (c)(2)(A)(vi), 
 A prior section 1361, acts Aug. 16, 1954, ch. 736, 68A Stat. 350; Oct. 10, 1962, Pub. L. 87–792, §7(h), 76 Stat. 829; Feb. 26, 1964, Pub. L. 88–272, title II, §225(k)(5), 78 Stat. 94; Apr. 14, 1966, Pub. L. 89–389, §4(a), 80 Stat. 115, related to election of certain partnerships and proprietorships to be taxed as domestic corporations, prior to repeal by Pub. L. 89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116, effective Jan. 1, 1969.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2)(C), (D). Pub. L. 115–141, §401(d)(1)(D)(xvi), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "a corporation to which an election under section 936 applies, or".
+
+Subsec. (c)(2)(B)(vi). Pub. L. 115–141, §109(a), substituted "the shareholder" for "a shareholder".
+
+Subsec. (f)(2). Pub. L. 115–141, §401(a)(190), substituted "1813(w)(1)))," for "1813(w)(1))," in introductory provisions.
 
 <b>2017</b>—Subsec. (c)(2)(B)(v). Pub. L. 115–97 inserted at end "This clause shall not apply for purposes of subsection (b)(1)(C)."
 
@@ -440,6 +444,10 @@ Subsec. (d)(3). Pub. L. 98–369, §721(f)(2), in amending par. (3) generally, r
 
 Subsec. (d)(4). Pub. L. 98–369, §721(f)(2), in amending par. (4) generally, redesignated existing provisions as subpar. (A), inserted "Failure to meet requirements of paragraph (3)(A)" as subpar. (A) heading, substituted "of paragraph (3)(A)" for "under paragraph (3)", and added subpar. (B).
 
+#### Effective Date 2018 Amendment
+
+Amendment by section 109(a) of Pub. L. 115–141 effective as if included in section 319 of the American Jobs Creation Act of 2004, Pub. L. 108–357, see section 109(c) of Pub. L. 115–141, set out as a note under section 501 of this title.
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–97, title I, §13541(b), Dec. 22, 2017, 131 Stat. 2154, provided that: "The amendment made by this section \[amending this section\] shall take effect on January 1, 2018."
@@ -498,7 +506,7 @@ Amendment by sections 1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), and 1315
 
 Amendment by sections 1316(a), (e) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1997, see section 1316(f) of Pub. L. 104–188, set out as a note under section 170 of this title.
 
-Amendment by section 1616(b)(15) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31,1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
+Amendment by section 1616(b)(15) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -534,7 +542,7 @@ Amendment made by subsection (g)
 
 (1).—If—
 
-&emsp;"(A) any portion of a qualified stock purchase is pursuant to a binding contract entered into on or after October 19, 1982, and before the date of the enactment of this Act \[July 18, 1984\], and
+&emsp;"(A) any portion of a qualified stock purchase is pursuant to a binding contract entered into on orafter October 19, 1982, and before the date of the enactment of this Act \[July 18, 1984\], and
 
 &emsp;"(B) the purchasing corporation establishes by clear and convincing evidence that such contract was negotiated on the contemplation that, with respect to the deemed sale under section 338 of the Internal Revenue Code of 1986, paragraph (2) of section 1362(e) of such Code would apply,
 
@@ -644,7 +652,7 @@ Qualified oil corporation.—For purposes of this paragraph, the term 'qualified
 
 &emsp;&emsp;"(C)
 
-Average daily production.—For purposes of subparagraph (B), the average daily production of domestic crude oil or domestic natural gas shall be determined under section 613A(c)(2) of such Code without regard to the last sentence thereof.
+Average daily production.—For purposes of subparagraph (B), the average daily production ofdomestic crude oil or domestic natural gas shall be determined under section 613A(c)(2) of such Code without regard to the last sentence thereof.
 
 &emsp;&emsp;"(D)
 
@@ -700,6 +708,10 @@ Treatment of Certain Elections Under Prior Law.—For purposes of section 1362(g
 
 Taxable Year of S Corporations.—Section 1378 of the Internal Revenue Code of 1986 (as added by this Act \[Pub. L. 97–354\]) shall take effect on the day after the date of the enactment of this Act \[Oct. 19, 1982\]. For purposes of applying such section, the reference in subsection (a)(2) of such section to an election under section 1362(a) shall include a reference to an election under section 1372(a) of such Code as in effect on the day before the date of the enactment of this Act \[Oct. 19, 1982\]."
 
+#### Savings Provision
+
+For provisions that nothing in amendment by section 401(d)(1)(D)(xvi) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+
 #### Elimination of all Earnings and Profits Attributable to Pre-1983 Years for Certain Corporations
 
 Pub. L. 110–28, title VIII, §8235, May 25, 2007, 121 Stat. 199, provided that: "In the case of a corporation which is—
@@ -733,6 +745,4 @@ Pub. L. 97–448, title III, §305(d)(1)(B), Jan. 12, 1983, 96 Stat. 2399, as am
 &emsp;"(ii) such corporation is liquidated under section 333 of such Code before March 1, 1983,
 
 > then such stock or securities shall not be taken into account under section 333(e)(2) of such Code."
-
-<i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
 

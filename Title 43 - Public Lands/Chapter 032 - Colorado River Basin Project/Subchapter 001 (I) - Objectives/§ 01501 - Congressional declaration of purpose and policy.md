@@ -2,7 +2,7 @@
 
 (a) It is the object of this chapter to provide a program for the further comprehensive development of the water resources of the Colorado River Basin and for the provision of additional and adequate water supplies for use in the upper as well as in the lower Colorado River Basin. This program is declared to be for the purposes, among others, of regulating the flow of the Colorado River; controlling floods; improving navigation; providing for the storage and delivery of the waters of the Colorado River for reclamation of lands, including supplemental water supplies, and for municipal, industrial, and other beneficial purposes; improving water quality; providing for basic public outdoor recreation facilities; improving conditions for fish and wildlife, and the generation and sale of electrical power as an incident of the foregoing purposes.
 
-(b) It is the policy of the Congress that the Secretary of the Interior (hereinafter referred to the "Secretary") shall continue to develop, afterconsultation with affected States and appropriate Federal agencies, a regional water plan, consistent with the provisions of this chapter and with future authorizations, to serve as the framework under which projects in the Colorado River Basin may be coordinated and constructed with proper timing to the end that an adequate supply of water may be made available for such projects, whether heretofore, herein, or hereafter authorized.
+(b) It is the policy of the Congress that the Secretary of the Interior (hereinafter referred to the "Secretary") shall continue to develop, after consultation with affected States and appropriate Federal agencies, a regional water plan, consistent with the provisions of this chapter and with future authorizations, to serve as the framework under which projects in the Colorado River Basin may be coordinated and constructed with proper timing to the end that an adequate supply of water may be made available for such projects, whether heretofore, herein, or hereafter authorized.
 
 (Pub. L. 90–537, title I, §102, Sept. 30, 1968, 82 Stat. 886.)
 
@@ -26,7 +26,7 @@ In General.—Except as provided in subsection (b), if the Secretary \[of the In
 
 Exception.—No subcontract amendment executed by the Secretary under the notice of June 18, 2003 (67 Fed. Reg. 36578), shall be considered to be a contract entered into by the Secretary for purposes of subsection (a)(1)."
 
-Pub. L. 108–451, title II, §215, Dec. 10, 2004, 118 Stat. 3535, provided that: "If the Secretary \[of the Interior\] does not publish a statement of findings under section 207(c) \[118 Stat. 3519\] by December 31, 2007 \[published Dec. 14, 2007, see 72 F.R. 71143\]—
+Pub. L. 108–451, title II, §215, Dec. 10, 2004, 118 Stat. 3535, provided that: "If the Secretary \[of the Interior\]does not publish a statement of findings under section 207(c) \[118 Stat. 3519\] by December 31, 2007 \[published Dec. 14, 2007, see 72 F.R. 71143\]—
 
 &emsp;"(1) except for section 213(i) \[118 Stat. 3532\], this title \[see Short Title of 2004 Amendment note below\] is repealed effective January 1, 2008, and any action taken by the Secretary and any contract entered under any provision of this title shall be void;
 

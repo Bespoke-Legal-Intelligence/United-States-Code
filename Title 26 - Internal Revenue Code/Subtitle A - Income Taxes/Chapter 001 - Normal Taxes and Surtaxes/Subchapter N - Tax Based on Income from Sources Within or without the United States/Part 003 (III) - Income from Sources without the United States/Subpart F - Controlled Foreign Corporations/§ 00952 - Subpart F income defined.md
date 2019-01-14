@@ -76,7 +76,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (v) Qualified insurance company
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualified insurance company" means any controlled foreign corporation predominantly engaged in the active conduct of an insurance business in the taxable year and in the prior taxable years in which the deficit arose.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualified insurance company"means any controlled foreign corporation predominantly engaged in the active conduct of an insurance business in the taxable year and in the prior taxable years in which the deficit arose.
 
 #### (vi) Qualified financial institution
 
@@ -200,7 +200,7 @@ Amendment by section 14212(b)(1)(C) of Pub. L. 115–97 applicable to taxable ye
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title IV, §415(d), Oct. 22, 2004, 118 Stat. 1511, provided that: "The amendments made by this section \[amending this section and section 954 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end."
+Pub. L. 108–357, title IV, §415(d), Oct. 22, 2004, 118 Stat. 1511, provided that: "The amendments made by thissection \[amending this section and section 954 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end."
 
 #### Effective Date of 1997 Amendment
 
@@ -208,7 +208,7 @@ Pub. L. 105–34, title XI, §1112(c)(2), Aug. 5, 1997, 111 Stat. 970, provided 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1012(i)(16), (22)–(25)(A) of Pub. L. 100–647 effective, except as otherwise provided, as ifincluded in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1012(i)(16), (22)–(25)(A) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title VI, §6131(b), Nov. 10, 1988, 102 Stat. 3720, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 1221(f) of the Reform Act \[Pub. L. 99–514\]."
 

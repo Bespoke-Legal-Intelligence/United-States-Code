@@ -10,7 +10,7 @@ Technical assistance under this part shall, to the maximum extent feasible, be p
 
 #### (c) Enterprise funds
 
-Activities supported pursuant to this part may include the establishment of and the provision of support for one or more enterprise funds for the independent states of the former Soviet Union. If the President determines that an enterprise fund should be established and supported under this part, the provisions contained in section 201 of the Support for East European Democracy (SEED) Act of 1989 \[22 U.S.C. 5421\] (excluding the authorizations of appropriations provided in subsection (b) of that section) shall be deemed to apply with respect to such enterprise fund and to funds made available to such enterprise fund pursuant to this part.
+Activities supported pursuant to this part may include the establishment of and the provision of support for one or more enterprise funds for the independent states of the former Soviet Union. If the President determines that an enterprise fund should be established and supported under this part, the provisions containedin section 201 of the Support for East European Democracy (SEED) Act of 1989 \[22 U.S.C. 5421\] (excluding the authorizations of appropriations provided in subsection (b) of that section) shall be deemed to apply with respect to such enterprise fund and to funds made available to such enterprise fund pursuant to this part.
 
 #### (d) Cooperative development and research projects
 
@@ -84,7 +84,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 #### (3) Nonmarket based trade
 
-&emsp;As used in section 2295a(b)(5) of this title, the term "nonmarket based trade" includes exports, imports, exchanges, or other arrangements that are provided for goods and services (including oil and other petroleum products) on terms more favorable than those generally available in applicable markets or for comparable commodities, including—
+&emsp;As used in section 2295a(b)(5) of this title, the term "nonmarket based trade" includes exports, imports, exchanges, or other arrangements that are provided for goods and services (including oil and other petroleum products)on terms more favorable than those generally available in applicable markets or for comparable commodities, including—
 
 &emsp;&emsp;(A) exports to the Cuban Government on terms that involve a grant, concessional price, guaranty, insurance, or subsidy;
 
@@ -100,7 +100,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 &emsp;(B) For purposes of subparagraph (A), the term "agency or instrumentality of the Government of Cuba" means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28, with each reference in such section to "a foreign state" deemed to be a reference to "Cuba".
 
-(Pub. L. 87–195, pt. I, §498B, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3328; amended Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519; Pub. L. 104–114, title I,§106(c)(2), Mar. 12, 1996, 110 Stat. 796; Pub. L. 107–246, §4(b), Oct. 23, 2002, 116 Stat. 1515.)
+(Pub. L. 87–195, pt. I, §498B, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3328; amended Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519; Pub. L. 104–114, title I, §106(c)(2), Mar. 12, 1996, 110 Stat. 796; Pub. L. 107–246, §4(b), Oct. 23, 2002, 116 Stat. 1515.)
 
 #### References in Text
 

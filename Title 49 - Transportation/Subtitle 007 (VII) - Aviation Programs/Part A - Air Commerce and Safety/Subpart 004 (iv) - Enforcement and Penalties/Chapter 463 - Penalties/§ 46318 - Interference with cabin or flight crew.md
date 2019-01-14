@@ -2,7 +2,7 @@
 
 (a)
 
-General Rule.—An individual who physically assaults or threatens to physically assault a member of the flight crew or cabin crew of a civil aircraft or any other individual on the aircraft, or takes any action that poses an imminent threat to the safety of the aircraft or other individuals on the aircraft is liable to the United States Government for a civil penalty of not more than $25,000.
+General Rule.—An individual who physically or sexually assaults or threatens to physically or sexually assault a member of the flight crew or cabin crew of a civil aircraft or any other individual on the aircraft, or takes any action that poses an imminent threat to the safety of the aircraft or other individuals on the aircraft is liable to the United States Government for a civil penalty of not more than $35,000.
 
 (b)
 
@@ -16,7 +16,11 @@ Compromise.—The Secretary may compromise the amount of a civil penalty imposed
 
 Setoff.—The United States Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts the Government owes the person liable for the penalty.
 
-(Added Pub. L. 106–181, title V, §511(a), Apr. 5, 2000, 114 Stat. 142.)
+(Added Pub. L. 106–181, title V, §511(a), Apr. 5, 2000, 114 Stat. 142; amended Pub. L. 115–254, div. B, title III, §339(a), Oct. 5, 2018, 132 Stat. 3282.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–254 inserted "or sexually" after "physically" in two places and substituted "$35,000" for "$25,000".
 
 #### Effective Date
 

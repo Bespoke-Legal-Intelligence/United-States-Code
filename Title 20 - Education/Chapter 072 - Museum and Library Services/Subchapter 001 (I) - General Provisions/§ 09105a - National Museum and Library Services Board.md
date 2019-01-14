@@ -30,7 +30,7 @@ There is established within the Institute a board to be known as the "National M
 
 &emsp;&emsp;&emsp;&emsp;(I) not less than one shall be knowledgeable about electronic information and technical aspects of library and information services and sciences; and
 
-&emsp;&emsp;&emsp;&emsp;(II) not less than one other shall be knowledgeable about the library and information service needs of underserved communities; and
+&emsp;&emsp;&emsp;&emsp;(II) not less than one other shall be knowledgeable about the library and information service needs of underserved communities, including rural communities; and
 
 &emsp;&emsp;&emsp;(ii) the remainder shall have special competence in, or knowledge of, the needs for library and information services in the United States.
 
@@ -48,11 +48,11 @@ There is established within the Institute a board to be known as the "National M
 
 #### (3) Geographic and other representation
 
-&emsp;Members of the Museum and Library Services Board shall be appointed to reflect persons from various geographic regions of the United States. The Museum and Library Services Board may not include, at any time, more than three appointive members from a single State. In making such appointments, the President shall give due regard to equitable representation of women, minorities, and persons with disabilities who are involved with museums and libraries.
+&emsp;Members of the Museum and Library Services Board shall be appointed to reflect persons from, and the needs of, various geographic regions of the United States, including rural areas. The Museum and Library Services Board may not include, at any time, more than three appointive members from a single State. In making such appointments, the President shall give due regard to equitable representation of women, minorities, and persons with disabilities who are involved with museums and libraries.
 
 #### (4) Voting
 
-&emsp;The Director, the Deputy Director of the Office of Library Services, and the Deputy Director of the Office of Museum Services shall be nonvoting members of the Museum and Library Services Board.
+&emsp;The Director, the Deputy Director of the Office of Library Services, the Deputy Director of the Office of Museum Services, and the General Counsel of the Institute shall be nonvoting members of the Museum and Library Services Board.
 
 #### (c) Terms
 
@@ -62,7 +62,7 @@ There is established within the Institute a board to be known as the "National M
 
 #### (2) Authority to adjust terms
 
-&emsp;The terms of the members appointed to the Museum and Library Service Board shall beadjusted by the President as necessary to ensure that the terms of not more than four members expire in the same year. Such adjustments shall be carried out through designation of the adjusted term at the time of appointment.
+&emsp;The terms of the members appointed to the Museum and Library Service Board shall be adjusted by the President as necessary to ensure that the terms of not more than four members expire in the same year. Such adjustments shall be carried out through designation of the adjusted term at the time of appointment.
 
 #### (3) Vacancies
 
@@ -90,7 +90,11 @@ There is established within the Institute a board to be known as the "National M
 
 The Director shall serve as Chairperson of the Museum and Library Services Board.
 
-#### (f) Meetings
+#### (f) Secretary
+
+The General Counsel of the Institute shall serve as Secretary of the Museum and Library Services Board.
+
+#### (g) Meetings
 
 #### (1) In general
 
@@ -100,11 +104,11 @@ The Director shall serve as Chairperson of the Museum and Library Services Board
 
 &emsp;All decisions by the Museum and Library Services Board with respect to the exercise of its duties and powers shall be made by a majority vote of the members of the Board who are present and authorized to vote.
 
-#### (g) Quorum
+#### (h) Quorum
 
 A majority of the voting members of the Museum and Library Services Board shall constitute a quorum for the conduct of business at official meetings, but a lesser number of members may hold hearings.
 
-#### (h) Compensation and travel expenses
+#### (i) Compensation and travel expenses
 
 #### (1) Compensation
 
@@ -114,11 +118,11 @@ A majority of the voting members of the Museum and Library Services Board shall 
 
 &emsp;Each member of the Museum and Library Services Board shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
 
-#### (i) Coordination
+#### (j) Coordination
 
 The Director, with the advice of the Museum and Library Services Board, shall coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of section 9103 of this title.
 
-(Pub. L. 94–462, title II, §207, as added Pub. L. 108–81, title I, §104(2), Sept. 25, 2003, 117 Stat. 993; amended Pub. L. 111–340, title I, §104, Dec. 22, 2010, 124 Stat. 3597; Pub. L. 112–166, §2(r), Aug. 10, 2012, 126 Stat. 1288.)
+(Pub. L. 94–462, title II, §207, as added Pub. L. 108–81, title I, §104(2), Sept. 25, 2003, 117 Stat. 993; amended Pub. L. 111–340, title I, §104, Dec. 22, 2010, 124 Stat. 3597; Pub. L. 112–166, §2(r), Aug. 10, 2012, 126 Stat. 1288; Pub. L. 115–410, §4, Dec. 31, 2018, 132 Stat. 5413.)
 
 #### Prior Provisions
 
@@ -127,6 +131,14 @@ A prior section 207 of Pub. L. 94–462 was renumbered section 208 and is classi
 Another prior section 207 of Pub. L. 94–462 was classified to section 966 of this title prior to the general amendment of title II of Pub. L. 94–462 by Pub. L. 104–208.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2)(A)(i)(II). Pub. L. 115–410, §4(1), inserted ", including rural communities" after "underserved communities".
+
+Subsec. (b)(3). Pub. L. 115–410, §4(2), in first sentence, inserted ", and the needs of," after "persons from" and ", including rural areas" after "United States".
+
+Subsec. (b)(4). Pub. L. 115–410, §4(3), substituted "the Deputy Director of the Office of Museum Services, and the General Counsel of the Institute" for "and the Deputy Director of the Office of Museum Services".
+
+Subsecs. (f) to (j). Pub. L. 115–410, §4(4), (5), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
 
 <b>2012</b>—Subsec. (b)(1)(D), (E). Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate" after "President".
 

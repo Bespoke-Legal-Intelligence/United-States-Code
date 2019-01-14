@@ -68,7 +68,7 @@ Domestic Buying Preferences.—(1) In this subsection, "United States" means the
 
 &emsp;(A) unmanufactured articles, material, and supplies mined or produced in the United States; or
 
-&emsp;(B) manufactured articles, material, and supplies manufactured in the United States substantially from articles, material, and supplies mined, produced, or manufactured in the United States.
+&emsp;(B) manufactured articles, material, and supplies manufactured in the United Statessubstantially from articles, material, and supplies mined, produced, or manufactured in the United States.
 
 (3) Paragraph (2) of this subsection applies only when the cost of those articles, material, or supplies bought is at least $1,000,000.
 
@@ -214,7 +214,7 @@ Subsec. (d)(3). Pub. L. 105–134, §107(b), added par. (3).
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
 
 #### Local Products and Promotional Events
 
@@ -338,7 +338,7 @@ Consideration of Proposals.—Not later than 180 days after the deadline for the
 
 "(c)
 
-Report.—Not later than 1 year after the deadline for the receipt of proposals under subsection (a), Amtrak shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the Request for Proposals required by this section, including summary information of any proposals submitted to Amtrak and any proposals accepted by the Amtrak Board of Directors.
+Report.—Not later than 1 year after the deadline for the receipt of proposals under subsection (a), Amtrak shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of theHouse of Representatives a report on the Request for Proposals required by this section, including summary information of any proposals submitted to Amtrak and any proposals accepted by the Amtrak Board of Directors.
 
 "(d)
 
@@ -450,7 +450,7 @@ Definitions.—
 
 Pub. L. 110–432, div. B, title II, §218(b), Oct. 16, 2008, 122 Stat. 4930, provided that: "Amtrak may obtain from the Administrator of General Services, and the Administrator may provide to Amtrak, services under sections 502(a) and 602 of title 40, United States Code."
 
-Pub. L. 106–554, §1(a)(4) \[div. A, §1110\], Dec. 21, 2000, 114 Stat. 2763, 2763A–202, provided that: "Amtrak is authorized to obtain services from the Administrator of General Services, and the Administrator is authorized to provide services to Amtrak, under sections 201(b)and 211(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(b) and 491(b)) \[now 40 U.S.C. 502, 602, 603(a)(1)\] for fiscal year 2001 and each fiscal year thereafter until the fiscal year that Amtrak operates without Federal operating grant funds appropriated for its benefit, as required by sections 24101(d) and \[former\] 24104(a) of title 49, United States Code."
+Pub. L. 106–554, §1(a)(4) \[div. A, §1110\], Dec. 21, 2000, 114 Stat. 2763, 2763A–202, provided that: "Amtrak is authorized to obtain services from the Administrator of General Services, and the Administrator is authorized to provide services to Amtrak, under sections 201(b) and 211(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(b) and 491(b)) \[now 40 U.S.C. 502, 602, 603(a)(1)\] for fiscal year 2001 and each fiscal year thereafter until the fiscal year that Amtrak operates without Federal operating grant funds appropriated for its benefit, as required by sections 24101(d) and \[former\] 24104(a) of title 49, United States Code."
 
 #### Rail and Motor Carrier Passenger Service
 

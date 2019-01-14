@@ -8,7 +8,7 @@
 
 #### (2) Definition of applicable laboratory
 
-&emsp;In this section, the term "applicable laboratory" means a laboratory that, with respect to its revenues under this subchapter, a majority of such revenues are from this section, section 1395l(h) of this title, or section 1395w–4 of this title. The Secretary may establish a low volume or low expenditure threshold for excluding a laboratory from the definition of applicable laboratory under this paragraph, as the Secretary determines appropriate.
+&emsp;In this section, the term "applicable laboratory" means a laboratory that, with respect to its revenues under this subchapter, a majority of such revenues are from this section, section1395l(h) of this title, or section 1395w–4 of this title. The Secretary may establish a low volume or low expenditure threshold for excluding a laboratory from the definition of applicable laboratory under this paragraph, as the Secretary determines appropriate.
 
 #### (3) Applicable information defined
 
@@ -186,7 +186,7 @@
 
 #### (4) Recoupment if actual list charge exceeds market rate
 
-&emsp;With respect to the initial period described in paragraph (1)(A), if, after such period, theSecretary determines that the payment amount for an advanced diagnostic laboratory test under paragraph (1)(A) that was applicable during the period was greater than 130 percent of the payment amount for the test established using the methodology described in subsection (b) that is applicable after such period, the Secretary shall recoup the difference between such payment amounts for tests furnished during such period.
+&emsp;With respect to the initial period described in paragraph (1)(A), if, after such period, the Secretary determines that the payment amount for an advanced diagnostic laboratory test under paragraph (1)(A) that was applicable during the period was greater than 130 percent of the payment amount for the test established using the methodology described in subsection (b) that is applicable after such period, the Secretary shall recoup the difference between such payment amounts for tests furnished during such period.
 
 #### (5) Advanced diagnostic laboratory test defined
 
@@ -256,7 +256,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A medicare administrative contractor shall only issue a coverage policy with respect to a clinical diagnostic laboratory test in accordance with the process for making a local coverage determination (as defined in section 1395ff(f)(2)(B) of this title), including the appeals and review process for local coverage determinations under part 426 of title 42, Code of Federal Regulations (or successor regulations).
+&emsp;&emsp;A medicare administrative contractor shall only issue a coverage policy with respect to a clinical diagnostic laboratory test in accordance with the process for making a local coverage determination (as defined insection 1395ff(f)(2)(B) of this title), including the appeals and review process for local coverage determinations under part 426 of title 42, Code of Federal Regulations (or successor regulations).
 
 #### (B) No effect on national coverage determination process
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Agriculture (hereafter referred to in this section as the "Secretary") shall establish a competitive forestry, natural resources, and environmental grant program to award grants for the conduct of research as described in subsection (c).
+The Secretary of Agriculture (hereafter referred to in this section as the "Secretary") shall establish a competitive forestry, natural resources, and environmental grant program to award grants for the conduct of research or forest restoration as described in subsection (c).
 
 #### (b) Eligible entities
 
@@ -10,31 +10,61 @@ To be eligible to receive a grant under subsection (a), an entity shall—
 
 &emsp;(1) be a State agricultural experiment station, a college or university, a research institution or organization, a Federal agency, a private organization, or a corporation that has a demonstrable capacity to conduct forestry, natural resources, and environmental research as determined by the Secretary; and
 
-&emsp;(2) prepare and submit to the Secretary, an application at such time, in such manner, and containing such information as the Secretaryshall require, including the proposed use of the amounts that may be received under a grant.
+&emsp;(2) prepare and submit to the Secretary, an application at such time, in such manner, and containing such information as the Secretary shall require, including the proposed use of the amounts that may be received under a grant.
 
-#### (c) Use
+#### (c) Priorities
 
-In awarding the initial grants under subsection (a) the Secretary shall give priority to applicants who will use such grants for research concerning—
+#### (1) Research
 
-&emsp;(1) the biology of forest organisms, including physiology, genetic mechanisms, and biotechnology;
+&emsp;In awarding the initial grants under subsection (a) the Secretary shall give priority to applicants who will use such grants for research concerning—
 
-&emsp;(2) ecosystem function and management, including forest ecosystem research, biodiversity, forest productivity, pest management, water resources, and alternative silvicultural systems;
+&emsp;&emsp;(A) the biology of forest organisms, including physiology, genetic mechanisms, and biotechnology;
 
-&emsp;(3) wood as a raw material, including forest products and harvesting;
+&emsp;&emsp;(B) ecosystem function and management, including forest ecosystem research, biodiversity, forest productivity, pest management, water resources, and alternative silvicultural systems;
 
-&emsp;(4) human forest interactions, including outdoor recreation, public policy formulation, economics, sociology, and administrative behavior;
+&emsp;&emsp;(C) wood as a raw material, including forest products and harvesting;
 
-&emsp;(5) international trade, competition, and cooperation related to forest products;
+&emsp;&emsp;(D) human forest interactions, including outdoor recreation, public policy formulation, economics, sociology, and administrative behavior;
 
-&emsp;(6) alternative native crops, products, and services that can be produced from renewable natural resources associated with privately held forest lands;
+&emsp;&emsp;(E) international trade, competition, and cooperation related to forest products;
 
-&emsp;(7) viable economic production and marketing systems for alternative natural resource products and services;
+&emsp;&emsp;(F) alternative native crops, products, and services that can be produced from renewable natural resources associated with privately held forest lands;
 
-&emsp;(8) economic and environmental benefits of various conservation practices on forest lands;
+&emsp;&emsp;(G) viable economic production and marketing systems for alternative natural resource products and services;
 
-&emsp;(9) genetic tree improvement; and
+&emsp;&emsp;(H) economic and environmental benefits of various conservation practices on forest lands;
 
-&emsp;(10) market expansion.
+&emsp;&emsp;(I) genetic tree improvement; and
+
+&emsp;&emsp;(J) market expansion.
+
+#### (2) Forest restoration
+
+&emsp;Grants may be used to support programs that restore forest tree species native to American forests that may have suffered severe levels of mortality caused by non-native insects, plant pathogens, or others pests.
+
+#### (A) Required component of forest restoration strategy
+
+&emsp;&emsp;To receive a grant under this subsection, an eligible institution shall demonstrate that it offers a program with a forest restoration strategy that incorporates not less than one of the following components:
+
+&emsp;&emsp;&emsp;(i) Collection and conservation of native tree genetic material.
+
+&emsp;&emsp;&emsp;(ii) Production of propagules of native trees in numbers large enough for landscape scale restoration.
+
+&emsp;&emsp;&emsp;(iii) Site preparation of former of native tree habitat.
+
+&emsp;&emsp;&emsp;(iv) Planting of native tree seedlings.
+
+&emsp;&emsp;&emsp;(v) Post-planting maintenance of native trees.
+
+#### (B) Award of grants
+
+&emsp;&emsp;The Secretary shall award competitive grants under this subsection based on the degree to which the applicant addresses the following criteria:
+
+&emsp;&emsp;&emsp;(i) Risk posed to the forests of that State by non-native pests, as measured by such factors as the number of such pests present in the State.
+
+&emsp;&emsp;&emsp;(ii) The proportion of the State's forest composed of species vulnerable to non-native pests present in the United States.
+
+&emsp;&emsp;&emsp;(iii) The pests' rate of spread via natural or human-assisted means.
 
 #### (d) Facilities and equipment
 
@@ -58,9 +88,15 @@ The Secretary may make grants under this section for periods of not to exceed 5 
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 101–624, title XII, §1232, Nov. 28, 1990, 104 Stat. 3543.)
+(Pub. L. 101–624, title XII, §1232, Nov. 28, 1990, 104 Stat. 3543; Pub. L. 115–334, title VIII, §8708, Dec. 20, 2018, 132 Stat. 4882.)
 
 #### Codification
 
 Section was enacted as part of the Forest Stewardship Act of 1990 and as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the McIntire-Stennis Act of 1962 which comprises this subchapter.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–334, §8708(1), inserted "or forest restoration" after "research".
+
+Subsec. (c). Pub. L. 115–334, §8708(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to applicant priority based on use of grants for certain research areas.
 

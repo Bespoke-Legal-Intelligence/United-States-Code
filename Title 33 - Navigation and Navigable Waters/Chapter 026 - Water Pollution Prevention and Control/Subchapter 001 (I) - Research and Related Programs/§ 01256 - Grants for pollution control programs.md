@@ -58,7 +58,7 @@ Any sums allotted under subsection (b) in any fiscal year which are not paid sha
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a)(2). Pub. L. 100–4 inserted ", such sums as may be necessary for fiscal years 1983 through 1985, and $75,000,000 per fiscal year for each of the fiscal years 1986 through 1990" after "1982".
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–4 inserted ", such sums as may be necessary for fiscal years 1983 through1985, and $75,000,000 per fiscal year for each of the fiscal years 1986 through 1990" after "1982".
 
 <b>1980</b>—Subsec. (a)(2). Pub. L. 96–483 inserted authorization of the sum of $75,000,000 per fiscal year for fiscal years 1981 and 1982.
 

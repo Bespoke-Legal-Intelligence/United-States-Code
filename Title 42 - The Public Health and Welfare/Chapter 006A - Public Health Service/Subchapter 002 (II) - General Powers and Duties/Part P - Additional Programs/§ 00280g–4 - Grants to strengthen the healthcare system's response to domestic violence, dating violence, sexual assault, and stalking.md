@@ -46,7 +46,7 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;Grants funded under subsection (a)(3) may be used for—
 
-&emsp;&emsp;&emsp;(i) the development of training modules and policies that address the overlap of child abuse, domestic violence, dating violence, sexual assault, and stalking and elder abuse, as well as childhood exposure to domestic and sexual violence;
+&emsp;&emsp;&emsp;(i) the development of training modules and policies that address the overlap ofchild abuse, domestic violence, dating violence, sexual assault, and stalking and elder abuse, as well as childhood exposure to domestic and sexual violence;
 
 &emsp;&emsp;&emsp;(ii) the development, expansion, and implementation of sexual assault forensic medical examination or sexual assault nurse examiner programs;
 
@@ -60,7 +60,7 @@ The Secretary shall award grants for—
 
 #### (A) In general
 
-&emsp;&emsp;Grantees under this section shall ensure that all programs developed with grantfunds address issues of confidentiality and patient safety and comply with applicable confidentiality and nondisclosure requirements under section 12291(b)(2) of title 34 and the Family Violence Prevention and Services Act \[42 U.S.C. 10401 et seq.\], and that faculty and staff associated with delivering educational components are fully trained in procedures that will protect the immediate and ongoing security and confidentiality of the patients, patient records, and staff. Such grantees shall consult entities with demonstrated expertise in the confidentiality and safety needs of victims of domestic violence, dating violence, sexual assault, and stalking on the development and adequacy of confidentially and security procedures, and provide documentation of such consultation.
+&emsp;&emsp;Grantees under this section shall ensure that all programs developed with grant funds address issues of confidentiality and patient safety and comply with applicable confidentiality and nondisclosure requirements under section 12291(b)(2) of title 34 and the Family Violence Prevention and Services Act \[42 U.S.C. 10401 et seq.\], and that faculty and staff associated with delivering educational components are fully trained in procedures that will protect the immediate and ongoing security and confidentiality of the patients, patient records, and staff. Such grantees shall consult entities with demonstrated expertise in the confidentiality and safety needs of victims of domestic violence, dating violence, sexual assault, and stalking on the development and adequacy of confidentially and security procedures, and provide documentation of such consultation.
 
 #### (B) Advance notice of information disclosure
 
@@ -102,7 +102,7 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;&emsp;(iv) with respect to an application for a grant under which the grantee will have contact with patients, a plan, developed in collaboration with local victim service providers, to respond appropriately to and make correct referrals for individuals who disclose that they are victims of domestic violence, dating violence, sexual assault, stalking, or other types of violence, and documentation provided by the grantee of an ongoing collaborative relationship with a local victim service provider; and
 
-&emsp;&emsp;&emsp;(v) with respect to an application for a grant proposing to fund a program described in subsection (b)(2)(C)(ii), a certification that any sexual assault forensic medical examination and sexual assault nurse examiner programs supported with such grant funds will adhere to the guidelines set forth by the Attorney General.
+&emsp;&emsp;&emsp;(v) with respect to an application for a grant proposing to fund a program described in subsection (b)(2)(C)(ii), a certification that any sexual assault forensic medical examination and sexual assaultnurse examiner programs supported with such grant funds will adhere to the guidelines set forth by the Attorney General.
 
 #### (d) Eligible entities
 
@@ -198,7 +198,7 @@ Pub. L. 109–162, title V, §501, Jan. 5, 2006, 119 Stat. 3023, provided that: 
 
 &emsp;"(5) Each year about 324,000 pregnant women in the United States are battered by the men in their lives. This battering leads to complications of pregnancy, including low weight gain, anemia, infections, and first and second trimester bleeding.
 
-&emsp;"(6) Pregnant and recently pregnant women are more likely to be victims of homicide than to die ofany other pregnancy-related cause, and evidence exists that a significant proportion of all female homicide victims are killed by their intimate partners.
+&emsp;"(6) Pregnant and recently pregnant women are more likely to be victims of homicide than to die of any other pregnancy-related cause, and evidence exists that a significant proportion of all female homicide victims are killed by their intimate partners.
 
 &emsp;"(7) Children who witness domestic violence are more likely to exhibit behavioral and physical health problems including depression, anxiety, and violence towards peers. They are also more likely to attempt suicide, abuse drugs and alcohol, run away from home, engage in teenage prostitution, and commit sexual assault crimes.
 

@@ -18,7 +18,7 @@ To the extent practicable, each report submitted under subsection (a) shall—
 
 The initial report under subsection (a) shall include the following:
 
-&emsp;(1) An evaluation of the organ donation practices of organ procurement organizations, States, other countries, and other appropriate organizations including an examination across all populations, including those with low organ donation rates, of—
+&emsp;(1) An evaluation of the organ donation practices of organ procurement organizations,States, other countries, and other appropriate organizations including an examination across all populations, including those with low organ donation rates, of—
 
 &emsp;&emsp;(A) existing barriers to organ donation; and
 

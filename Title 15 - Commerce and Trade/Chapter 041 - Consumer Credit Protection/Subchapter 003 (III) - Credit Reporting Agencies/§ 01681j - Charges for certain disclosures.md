@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;The regulations of the Bureau under this subparagraph shall establish an effective date by which each nationwide specialty consumer reporting agency (as defined in section 1681a(w) <sup>1</sup> of this title) shall be required to comply with subsection (a), which effective date—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall be established after consideration of the ability of each nationwidespecialty consumer reporting agency to comply with subsection (a); and
+&emsp;&emsp;&emsp;&emsp;(I) shall be established after consideration of the ability of each nationwide specialty consumer reporting agency to comply with subsection (a); and
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be not later than 6 months after the date on which such regulations are issued in final form (or such additional period not to exceed 3 months, as the Bureau determines appropriate).
 
@@ -106,7 +106,7 @@ A consumer reporting agency shall not impose any charge on a consumer for provid
 
 &emsp;In the case of an advertisement broadcast by television, the disclosures required under paragraph (1) shall be included in the audio and visual part of such advertisement. In the case of an advertisement broadcast by televison <sup>3</sup> or radio, the disclosure required under paragraph (1) shall consist only of the following: "This is not the free credit report provided for by Federal law".
 
-(Pub. L. 90–321, title VI, §612, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2410, Sept. 30, 1996, 110 Stat. 3009–442; Pub. L. 108–159, title II, §211(a), Dec. 4, 2003, 117 Stat. 1968; Pub.L. 111–24, title II, §205(a), May 22, 2009, 123 Stat. 1747; Pub. L. 111–203, title X, §1088(a)(2)(A), (C), July 21, 2010, 124 Stat. 2087.)
+(Pub. L. 90–321, title VI, §612, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2410, Sept. 30, 1996, 110 Stat. 3009–442; Pub. L. 108–159, title II, §211(a), Dec. 4, 2003, 117 Stat. 1968; Pub. L. 111–24, title II, §205(a), May 22, 2009, 123 Stat. 1747; Pub. L. 111–203, title X, §1088(a)(2)(A), (C), July 21, 2010, 124 Stat. 2087.)
 
 #### References in Text
 

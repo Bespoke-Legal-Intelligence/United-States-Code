@@ -28,7 +28,7 @@ Pub. L. 103–322, title IV, §40141, Sept. 13, 1994, 108 Stat. 1918, provided t
 
 "(a)
 
-Modification of Proposed Amendment.—The proposed amendments to the Federal Rules of Evidence that are embraced by an order entered by the SupremeCourt of the United States on April 29, 1994, shall take effect on December 1, 1994, as otherwise provided by law, but with the amendment made by subsection (b).
+Modification of Proposed Amendment.—The proposed amendments to the Federal Rules of Evidence that are embraced by an order entered by the Supreme Court of the United States on April 29, 1994, shall take effect on December 1, 1994, as otherwise provided by law, but with the amendment made by subsection (b).
 
 "(b)
 
@@ -70,7 +70,7 @@ Amendment to Forms.—Form 1–A, Notice of Lawsuit and Request for Waiver of Se
 
 Pub. L. 97–462, §5, Jan. 12, 1983, 96 Stat. 2530, provided that: "The amendments to the Federal Rules of Civil Procedure \[Rule 4\], the effective date of which was delayed by the Act entitled 'An Act to delay the effective date of proposed amendments to rule 4 of the Federal Rules of Civil Procedure', approved August 2, 1982 (96 Stat. 246) \[Pub. L. 97–227, see below\], shall not take effect."
 
-Pub. L. 97–227, Aug. 2, 1982, 96 Stat. 246, provided: "That notwithstanding the provisions of section 2072 of title 28, United States Code, the amendments to rule 4 of the Federal Rules of Civil Procedure as proposed by the Supreme Court of the United States and transmitted to the Congress by the Chief Justice on April 28, 1982, shall take effect on October 1, 1983, unless previously approved, disapproved, or modified by Act of Congress.
+Pub. L. 97–227, Aug. 2, 1982, 96 Stat. 246, provided: "That notwithstanding the provisions of section 2072 of title 28, United States Code, the amendments to rule 4of the Federal Rules of Civil Procedure as proposed by the Supreme Court of the United States and transmitted to the Congress by the Chief Justice on April 28, 1982, shall take effect on October 1, 1983, unless previously approved, disapproved, or modified by Act of Congress.
 
 "Sec. 2. This Act shall be effective as of August 1, 1982, but shall not apply to the service of process that takes place between August 1, 1982, and the date of enactment of this Act \[Aug. 2, 1982\]."
 
@@ -104,7 +104,7 @@ Pub. L. 94–426, §1, Sept. 28, 1976, 90 Stat. 1334, provided: "That the rules 
 
 #### Amendments to Criminal Rules Under Supreme Court Order of April 26, 1976; Postponement of Effective Date
 
-Pub. L. 94–349, §1, July 8, 1976, 90 Stat. 822, provided: "That, notwithstanding the provisions of sections 3771 and 3772 of title 18 of the United States Code the amendments to rules 6(e), 23, 24, 40.1 and 41(c)(2) of the Rules of Criminal Procedure for the United States district courts which are embraced by the order enteredby the United States Supreme Court on April 26, 1976, and which were transmitted to the Congress on or about April 26, 1976, shall not take effect until August 1, 1977, or until and to the extent approved by Act of Congress, whichever is earlier. The remainder of the proposed amendments to the Federal Rules of Criminal Procedure \[rules 6(f), 41(a), (c)(1), and 50(b)\] shall become effective August 1, 1976, pursuant to law."
+Pub. L. 94–349, §1, July 8, 1976, 90 Stat. 822, provided: "That, notwithstanding the provisions of sections 3771 and 3772 of title 18 of the United States Code the amendments to rules 6(e), 23, 24, 40.1 and 41(c)(2) of the Rules of Criminal Procedure for the United States district courts which are embraced by the order entered by the United States Supreme Court on April 26, 1976, and which were transmitted to the Congress on or about April 26, 1976, shall not take effect until August 1, 1977, or until and to the extent approved by Act of Congress, whichever is earlier. The remainder of the proposed amendments to the Federal Rules of Criminal Procedure \[rules 6(f), 41(a), (c)(1), and 50(b)\] shall become effective August 1, 1976, pursuant to law."
 
 #### Postponement of Effective Date of Proposed Rules and Forms Governing Proceedings Under Sections 2254 and 2255 of this Title
 

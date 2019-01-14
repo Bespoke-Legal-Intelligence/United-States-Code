@@ -4,7 +4,7 @@
 
 (b) Documentary materials produced or received by the President, the President's staff, or units or individuals in the Executive Office of the President the function of which is to advise or assist the President, shall, to the extent practicable, be categorized as Presidential records or personal records upon their creation or receipt and be filed separately.
 
-(c) During the President's term of office, the President may dispose of those Presidentialrecords of such President that no longer have administrative, historical, informational, or evidentiary value if—
+(c) During the President's term of office, the President may dispose of those Presidential records of such President that no longer have administrative, historical, informational, or evidentiary value if—
 
 &emsp;(1) the President obtains the views, in writing, of the Archivist concerning the proposed disposal of such Presidential records; and
 
@@ -66,7 +66,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress,Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date
 

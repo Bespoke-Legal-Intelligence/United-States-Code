@@ -8,7 +8,7 @@ Section 3735 was editorially reclassified as section 10134 of Title 34, Crime Co
 
 Prior sections 3735 to 3739 were omitted in the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
-Section 3735, Pub. L. 90–351, title I, §305, June 19, 1968, 82 Stat. 202; Pub. L. 91–644, title I, §4(7), Jan. 2, 1971, 84Stat. 1883; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 203, related to reallocation of funds.
+Section 3735, Pub. L. 90–351, title I, §305, June 19, 1968, 82 Stat. 202; Pub. L. 91–644, title I, §4(7), Jan. 2, 1971, 84 Stat. 1883; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 203, related to reallocation of funds.
 
 Section 3736, Pub. L. 90–351, title I, §306, June 19, 1968, 82 Stat. 202; Pub. L. 91–644, title I, §4(8), Jan. 2, 1971, 84 Stat. 1883; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 203; Pub. L. 94–503, title I, §113, Oct. 15, 1976, 90 Stat. 2415, related to allocation of funds.
 

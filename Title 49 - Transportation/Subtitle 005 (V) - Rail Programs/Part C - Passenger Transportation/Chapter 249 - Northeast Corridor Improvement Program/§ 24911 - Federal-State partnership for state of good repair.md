@@ -116,7 +116,7 @@ Northeast Corridor Projects.—
 
 &emsp;(1)
 
-Compliance with usage agreements.—Grant funds may not be provided under this section to an eligible recipient for an eligible project located on the Northeast Corridor unless Amtrak and the public authorities providing commuter rail passenger transportation on the Northeast Corridor are in compliance with section 24905(c)(2).
+Compliance with usage agreements.—Grant funds may not be provided under this section to an eligible recipient for an eligible project located on the Northeast Corridor unless Amtrak and the public authorities providing commuter rail passenger transportation at the eligible project location on the Northeast Corridor are in compliance with section 24905(c)(2).
 
 &emsp;(2)
 
@@ -188,13 +188,19 @@ Availability.—Amounts appropriated for carrying out this section shall remain 
 
 (i)
 
-Grant Conditions.—Except as specifically provided in this section, the use of any amounts appropriated for grants under this section shall be subject to the grant conditions under section 24405.
+Grant Conditions.—Except as specifically provided in this section, the use of any amounts appropriated for grants under this section shall be subject to the grant conditions under section 22905.
 
-(Added Pub. L. 114–94, div. A, title XI, §11302(a), Dec. 4, 2015, 129 Stat. 1648.)
+(Added Pub. L. 114–94, div. A, title XI, §11302(a), Dec. 4, 2015, 129 Stat. 1648; amended Pub. L. 115–141, div. L, title I, Mar. 23, 2018, 132 Stat. 994; Pub. L. 115–420, §7(b)(3)(A)(i)(IV), Jan. 3, 2019, 132 Stat. 5447.)
 
 #### References in Text
 
 The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (a)(5)(C), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (i). Pub. L. 115–420 substituted "22905" for "24405".
+
+<b>2018</b>—Subsec. (e)(1). Pub. L. 115–141 substituted "transportation at the eligible project location" for "transportation".
 
 #### Effective Date
 

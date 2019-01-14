@@ -16,7 +16,7 @@ Aeronautical and space activities.—The term "aeronautical and space activities
 
 &emsp;(2)
 
-Aeronautical and space vehicles.—The term "aeronautical and space vehicles" means aircraft, missiles, satellites, and other space vehicles, manned and unmanned, together with related equipment, devices, components, and parts.
+Aeronautical and space vehicles.—The term "aeronautical and space vehicles" means aircraft, missiles, satellites, and other spacevehicles, manned and unmanned, together with related equipment, devices, components, and parts.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3332.)
 

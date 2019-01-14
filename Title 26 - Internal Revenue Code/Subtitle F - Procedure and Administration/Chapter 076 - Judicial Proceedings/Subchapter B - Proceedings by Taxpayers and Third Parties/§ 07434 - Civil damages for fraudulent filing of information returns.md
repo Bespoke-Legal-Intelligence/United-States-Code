@@ -24,7 +24,7 @@ Notwithstanding any other provision of law, an action to enforce the liability c
 
 #### (d) Copy of complaint filed with IRS
 
-Any person bringing an action under subsection (a) shall provide a copy of the complaintto the Internal Revenue Service upon the filing of such complaint with the court.
+Any person bringing an action under subsection (a) shall provide a copy of the complaint to the Internal Revenue Service upon the filing of such complaint with the court.
 
 #### (e) Finding of court to include correct amount of payment
 

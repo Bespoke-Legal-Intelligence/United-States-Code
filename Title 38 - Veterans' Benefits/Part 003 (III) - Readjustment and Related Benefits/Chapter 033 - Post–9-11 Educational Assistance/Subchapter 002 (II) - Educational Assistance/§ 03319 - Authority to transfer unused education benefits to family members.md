@@ -46,7 +46,7 @@ Time for Transfer; Revocation and Modification.—
 
 &emsp;(1)
 
-Time for transfer.—Subject to the time limitation for use of entitlement under section 3321, and except as provided in subsection (k) or (l), an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement onlywhile serving as a member of the Armed Forces when the transfer is executed.
+Time for transfer.—Subject to the time limitation for use of entitlement under section 3321, and except as provided in subsection (k) or (l), an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement only while serving as a member of the Armed Forces when the transfer is executed.
 
 &emsp;(2)
 
@@ -180,7 +180,7 @@ Failure to complete service agreement.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), if an individual transferring entitlement under this section fails to complete the service agreed to by the individual under subsection (b)(1) in accordance with the terms of the agreement of the individual under that subsection, the amount of any transferred entitlement under this section that is used by a dependent of the individual as of the date of such failure shall be treated as an overpayment of educational assistance under paragraph (1).
+In general.—Except as provided in subparagraph (B), if an individual transferring entitlement under this section fails to complete the service agreed to by the individual under subsection (b)(1) in accordance with the terms of the agreement of the individual under that subsection, the amount ofany transferred entitlement under this section that is used by a dependent of the individual as of the date of such failure shall be treated as an overpayment of educational assistance under paragraph (1).
 
 &emsp;&emsp;(B)
 

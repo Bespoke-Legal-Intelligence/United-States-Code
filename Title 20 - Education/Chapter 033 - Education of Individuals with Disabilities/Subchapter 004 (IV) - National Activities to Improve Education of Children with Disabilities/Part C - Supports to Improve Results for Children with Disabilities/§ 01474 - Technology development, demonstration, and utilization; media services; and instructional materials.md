@@ -96,7 +96,7 @@
 
 #### (B) National Instructional Materials Accessibility Standard
 
-&emsp;&emsp;The term "National Instructional Materials Accessibility Standard" means thestandard established by the Secretary to be used in the preparation of electronic files suitable and used solely for efficient conversion into specialized formats.
+&emsp;&emsp;The term "National Instructional Materials Accessibility Standard" means the standard established by the Secretary to be used in the preparation of electronic files suitable and used solely for efficient conversion into specialized formats.
 
 #### (C) Print instructional materials
 
@@ -125,6 +125,8 @@
 This chapter, referred to in subsec. (e)(3)(A), (5), was in the original "this Act" and was translated as reading "this title", meaning title VI of Pub. L. 91–230, as amended, which enacted this chapter, to reflect the probable intent of Congress.
 
 "An Act to provide books for the adult blind", approved March 3, 1931, referred to in subsec. (e)(3)(A), is act Mar. 3, 1931, ch. 400, 46 Stat. 1487, as amended, which is classified generally to sections 135a and 135b of Title 2, The Congress. For complete classification of this Act to the Code, see Tables.
+
+Section 121(d) of title 17, referred to in subsec. (e)(3)(D), was amended by Pub. L. 115–261, §2(a)(1)(D), Oct. 9, 2018, 132 Stat. 3667, and no longer defines the term "specialized formats".
 
 #### Prior Provisions
 

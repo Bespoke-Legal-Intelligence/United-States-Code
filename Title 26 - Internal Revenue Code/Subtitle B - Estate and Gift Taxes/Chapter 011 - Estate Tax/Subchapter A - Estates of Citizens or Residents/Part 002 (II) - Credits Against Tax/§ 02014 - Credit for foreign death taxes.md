@@ -30,7 +30,7 @@ The credit provided in this section with respect to such taxes paid to any forei
 
 #### (c) Valuation of property
 
-(1) The values referred to in the ratio stated in subsection (b)(1) are the values determined forpurposes of the tax imposed by such foreign country.
+(1) The values referred to in the ratio stated in subsection (b)(1) are the values determined for purposes of the tax imposed by such foreign country.
 
 (2) The values referred to in the ratio stated in subsection (b)(2) are the values determined under this chapter; but, in applying such ratio, the value of any property described in subparagraphs (A), (B), and (C) thereof shall be reduced by such amount as will properly reflect, in accordance with regulations prescribed by the Secretary, the deductions allowed in respect of such property under sections 2055 and 2056 (relating to charitable and marital deductions).
 
@@ -48,7 +48,7 @@ The credit provided in this section shall be allowed only if the taxpayer establ
 
 #### (e) Period of limitation
 
-The credit provided in this section shall be allowed only for such taxes as were actually paid and credit therefor claimed within 4 years after the filing of the return required by section 6018, except that—
+The credit provided in this section shall be allowed only for such taxes as were actually paidand credit therefor claimed within 4 years after the filing of the return required by section 6018, except that—
 
 &emsp;(1) If a petition for redetermination of a deficiency has been filed with the Tax Court within the time prescribed in section 6213(a), then within such 4-year period or before the expiration of 60 days after the decision of the Tax Court becomes final.
 
@@ -108,5 +108,5 @@ Amendment by Pub. L. 86–175 applicable with respect to estates of decedents dy
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–866, title I, §102(d), Sept. 2, 1958, 72 Stat. 1675, provided that: "The amendments made by thissection (other than by subsection (b)) \[enacting section 2208 of this title and amending this section and sections 2011 and 2053 of this title\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendment made by subsection (b) \[amending section 2501 of this title\] shall apply to gifts made after the date of the enactment of this Act."
+Pub. L. 85–866, title I, §102(d), Sept. 2, 1958, 72 Stat. 1675, provided that: "The amendments made by this section (other than by subsection (b)) \[enacting section 2208 of this title and amending this section and sections 2011 and 2053 of this title\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendment made by subsection (b) \[amending section 2501 of this title\] shall apply to gifts made after the date of the enactment of this Act."
 

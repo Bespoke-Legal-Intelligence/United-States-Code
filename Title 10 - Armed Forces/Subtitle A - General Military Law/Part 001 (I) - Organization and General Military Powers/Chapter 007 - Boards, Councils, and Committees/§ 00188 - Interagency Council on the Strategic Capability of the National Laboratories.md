@@ -84,7 +84,7 @@ Pub. L. 112–239, div. A, title X, §1040(c), Jan. 2, 2013, 126 Stat. 1930, pro
 
 "(1)
 
-In general.—Not later than September 30, 2013, the Interagency Council on the Strategic Capability of the National Laboratories established under section 188of title 10, United States Code, as added by subsection (a), shall submit to the appropriate congressional committees a report describing and assessing the following:
+In general.—Not later than September 30, 2013, the Interagency Council on the Strategic Capability of the National Laboratories established under section 188 of title 10, United States Code, as added by subsection (a), shall submit to the appropriate congressional committees a report describing and assessing the following:
 
 &emsp;"(A) The actions taken to implement the requirements of such section 188 and the charter titled 'Governance Charter for an Interagency Council on the Strategic Capability of DOE National Laboratories as National Security Assets' signed by the Secretary of Defense, the Secretary of Energy, the Secretary of Homeland Security, and the Director of National Intelligence in July 2010.
 

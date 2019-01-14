@@ -391,3 +391,4 @@
 - [Chapter 158 - Support for Pregnant and Parenting Teens and Women](Chapter%20158%20-%20Support%20for%20Pregnant%20and%20Parenting%20Teens%20and%20Women/README.md)
 - [Chapter 159 - Space Exploration, Technology, and Science](Chapter%20159%20-%20Space%20Exploration%2C%20Technology%2C%20and%20Science/README.md)
 - [Chapter 160 - Treatment of Certain Payments in Eugenics Compensation](Chapter%20160%20-%20Treatment%20of%20Certain%20Payments%20in%20Eugenics%20Compensation/README.md)
+- [Chapter 161 - Department of Energy Research and Innovation](Chapter%20161%20-%20Department%20of%20Energy%20Research%20and%20Innovation/README.md)

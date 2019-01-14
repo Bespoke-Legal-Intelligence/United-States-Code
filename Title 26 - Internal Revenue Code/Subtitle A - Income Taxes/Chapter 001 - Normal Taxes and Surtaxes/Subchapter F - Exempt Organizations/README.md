@@ -9,11 +9,13 @@
 | [V.](Part%20005%20%28V%29%20-%20Shipowners%27%20Protection%20and%20Indemnity%20Associations/README.md) | Shipowners' protection and indemnity associations. |
 | [VI.](Part%20006%20%28VI%29%20-%20Political%20Organizations/README.md) | Political organizations. |
 | [VII.](Part%20007%20%28VII%29%20-%20Certain%20Homeowners%20Associations/README.md) | Certain homeowners associations. |
-| [VIII.](Part%20008%20%28VIII%29%20-%20Certain%20Savings%20Entities/README.md) | Certain Savings Entities.<sup>1</sup> |
+| [VIII.](Part%20008%20%28VIII%29%20-%20Certain%20Savings%20Entities/README.md) | Certain Savings Entities <sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(121), Mar. 23, 2018, 132 Stat. 1190, substituted "Certain Savings Entities" for "Certain Savings Entities." in part VIII heading.
 
 <b>2014</b>—Pub. L. 113–295, div. B, title I, §102(e)(5), Dec. 19, 2014, 128 Stat. 4062, substituted "Certain Savings Entities" for "Higher education savings entities" in part VIII heading.
 

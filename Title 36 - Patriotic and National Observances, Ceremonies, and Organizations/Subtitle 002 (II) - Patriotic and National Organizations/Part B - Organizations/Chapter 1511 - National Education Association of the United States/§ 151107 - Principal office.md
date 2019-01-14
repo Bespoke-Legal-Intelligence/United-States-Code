@@ -1,6 +1,6 @@
 ### §151107. Principal office
 
-The principal office of the corporation shall be in the District of Columbia. However, the activities of the corporation may be conducted, and offices may be maintained, throughout the United States in accordance with the bylaws.
+The principal office of the corporation shall be in the District of Columbia. However, the activities of the corporation may be conducted, andoffices may be maintained, throughout the United States in accordance with the bylaws.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1398.)
 

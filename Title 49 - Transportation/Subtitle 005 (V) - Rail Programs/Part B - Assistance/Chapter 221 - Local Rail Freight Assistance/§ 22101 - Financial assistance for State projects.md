@@ -18,7 +18,7 @@ Calculating Cost-Benefit Ratio.—The Secretary shall establish a methodology fo
 
 Conditions.—(1) Assistance for a project shall be provided under this chapter only if—
 
-&emsp;(A) a rail carrier certifies that the rail line related to the project carried more than 20carloads a mile during the most recent year during which transportation was provided by the carrier on the line; and
+&emsp;(A) a rail carrier certifies that the rail line related to the project carried more than 20 carloads a mile during the most recent year during which transportation was provided by the carrier on the line; and
 
 &emsp;(B) the ratio of benefits to costs for the project, as calculated using the methodology established under subsection (b) of this section, is more than 1.0.
 

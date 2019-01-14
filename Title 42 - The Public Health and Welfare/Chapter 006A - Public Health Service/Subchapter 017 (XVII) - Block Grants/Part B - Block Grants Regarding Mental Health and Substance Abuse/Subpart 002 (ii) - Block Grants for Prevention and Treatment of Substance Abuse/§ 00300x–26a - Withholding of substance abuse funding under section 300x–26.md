@@ -10,7 +10,7 @@ The amount of funds to be committed by a State under subsection (a) shall be equ
 
 #### (c) Maintenance of expenditures for tobacco prevention programs and compliance activities
 
-The State is to maintain State expenditures in such fiscal year for tobacco prevention programs and for compliance activities at a level that is not less than the level of such expenditures maintained by the State for the preceding fiscal year, and adding to that level the additional funds for tobacco compliance activities required under subsection (a). The State is to submit a report to the Secretary on all State obligations of funds for such fiscal year and all State expenditures for the preceding fiscal year for tobacco prevention and compliance activities by program activity by July 31 of such fiscal year.
+The State is to maintain State expenditures in such fiscal year for tobacco prevention programsand for compliance activities at a level that is not less than the level of such expenditures maintained by the State for the preceding fiscal year, and adding to that level the additional funds for tobacco compliance activities required under subsection (a). The State is to submit a report to the Secretary on all State obligations of funds for such fiscal year and all State expenditures for the preceding fiscal year for tobacco prevention and compliance activities by program activity by July 31 of such fiscal year.
 
 #### (d) Timing of State obligation of additional funds
 
@@ -24,5 +24,5 @@ None of the funds appropriated by this or any subsequent appropriations Act may 
 
 #### Codification
 
-Section was enacted as part of the Department of Health and Human Services Appropriations Act, 2010,and also as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2010, and the Consolidated Appropriations Act, 2010, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Department of Health and Human Services Appropriations Act, 2010, and also as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2010, and the Consolidated Appropriations Act, 2010, and not as part of the Public Health Service Act which comprises this chapter.
 

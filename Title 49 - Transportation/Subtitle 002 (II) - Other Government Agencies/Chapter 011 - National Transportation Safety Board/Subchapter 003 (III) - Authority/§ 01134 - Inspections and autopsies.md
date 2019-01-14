@@ -6,7 +6,7 @@ Entry and Inspection.—An officer or employee of the National Transportation Sa
 
 &emsp;(1) on display of appropriate credentials and written notice of inspection authority, may enter property where a transportation accident has occurred or wreckage from the accident is located and do anything necessary to conduct an investigation; and
 
-&emsp;(2) during reasonable hours, may inspect any record, process, control, or facility related to an accident investigation under this chapter.
+&emsp;(2) during reasonable hours, may inspect any record, including an electronic record, process, control, or facility related to an accident investigation under this chapter.
 
 (b)
 
@@ -36,7 +36,7 @@ Autopsies.—(1) The Board may order an autopsy to be performed and have other t
 
 (2) With or without reimbursement, the Board may obtain a copy of an autopsy report performed by a State or local official on an individual who died because of a transportation accident investigated by the Board under this chapter.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 754.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 754; Pub. L. 115–254, div. C, §1105, Oct. 5, 2018, 132 Stat. 3431.)
 
 Historical and Revision Notes
 
@@ -107,4 +107,8 @@ In subsection (d), the word "individuals" is substituted for "persons" the 2d ti
 In subsection (e), the word "promptly" is substituted for "with reasonable promptness" to eliminate unnecessary words.
 
 In subsection (f)(1), the words "In the case of any fatal accident" in 49 App.:1441(c) are omitted as surplus. The words "to examine the remains of any deceased person aboard the aircraft at the time of the accident, who dies as a result of the accident" are omitted as unnecessary because of the authority of the Board to conduct autopsies.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(2). Pub. L. 115–254 inserted "including an electronic record," after "record,".
 

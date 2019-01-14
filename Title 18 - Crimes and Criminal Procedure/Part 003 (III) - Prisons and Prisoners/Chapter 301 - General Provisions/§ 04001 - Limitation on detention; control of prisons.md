@@ -2,7 +2,7 @@
 
 (a) No citizen shall be imprisoned or otherwise detained by the United States except pursuant to an Act of Congress.
 
-(b)(1) The control and management of Federal penal and correctional institutions, except military or naval institutions, shall be vested in the Attorney General, who shall promulgate rulesfor the government thereof, and appoint all necessary officers and employees in accordance with the civil-service laws, the Classification Act, as amended, and the applicable regulations.
+(b)(1) The control and management of Federal penal and correctional institutions, except military or naval institutions, shall be vested in the Attorney General, who shall promulgate rules for the government thereof, and appoint all necessary officers and employees in accordance with the civil-service laws, the Classification Act, as amended, and the applicable regulations.
 
 (2) The Attorney General may establish and conduct industries, farms, and other activities and classify the inmates; and provide for their proper government, discipline, treatment, care, rehabilitation, and reformation.
 
@@ -86,5 +86,5 @@ Pub. L. 102–395, title I, §111(a), Oct. 6, 1992, 106 Stat. 1842, provided tha
 
 #### Use of Inactive Department of Defense Facilities as Prisons
 
-Pub. L. 95–624, §9, Nov. 9, 1978, 92 Stat. 3463, provided that: "The Attorney General shall consult with theSecretary of Defense in order to develop a plan to assure that such suitable facilities as the Department of Defense operates which are not in active use shall be made available for operation by the Department of Justice for the confinement of United States prisoners. Such plan shall provide for the return to the management of the Department of Defense of any such facility upon a finding by the Secretary of Defense that such return is necessary to the operation of the Department."
+Pub. L. 95–624, §9, Nov. 9, 1978, 92 Stat. 3463, provided that: "The Attorney General shall consult with the Secretary of Defense in order to develop a plan to assure that such suitable facilities as the Department of Defense operates which are not in active use shall be made available for operation by the Department of Justice for the confinement of United States prisoners. Such plan shall provide for the return to the management of the Department of Defense of any such facility upon a finding by the Secretary of Defense that such return is necessary to the operation of the Department."
 

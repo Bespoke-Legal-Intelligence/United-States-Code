@@ -66,7 +66,7 @@ The Secretary shall award grants to States in order to assist in supporting the 
 
 #### (4) Match
 
-&emsp;No grant shall be made under this section to any entity other than a State or an Indian tribe unless the entity agrees that, with respect to the costs to be incurred by the entity in carrying out the program or project for which the grant is awarded, the entity will make available (directly or through donations from public or private entities) non-Federal contributions in an amount that is not less than $1 for every $5 of Federal funds providedunder the grant. The non-Federal contributions required under this paragraph may be in cash or in kind.
+&emsp;No grant shall be made under this section to any entity other than a State or an Indian tribe unless the entity agrees that, with respect to the costs to be incurred by the entity in carrying out the program or project for which the grant is awarded, the entity will make available (directly or through donations from public or private entities) non-Federal contributions in an amount that is not less than $1 for every $5 of Federal funds provided under the grant. The non-Federal contributions required under this paragraph may be in cash or in kind.
 
 #### (5) Nondisclosure of confidential or private information
 
@@ -140,13 +140,13 @@ Each grantee shall submit an annual performance report to the Secretary at such 
 
 The Age Discrimination Act of 1975, referred to in subsec. (c)(2)(A), (C)(ii), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (c)(2)(A), (C)(ii), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act,is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsec. (c)(2)(A), (C)(ii), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (c)(2)(A), (C)(ii), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 10406, Pub. L. 98–457, title III, §307, Oct. 9, 1984, 98 Stat. 1761, related to prohibition of discrimination, prior to the general amendment of this chapter by Pub. L. 111–320. See subsec. (c)(2) of this section.
+A prior section 10406, Pub. L. 98–457, title III, §307, Oct. 9, 1984, 98 Stat. 1761, related to prohibition of discrimination, prior to the general amendment of thischapter by Pub. L. 111–320. See subsec. (c)(2) of this section.
 
 A prior section 306 of Pub. L. 98–457 was classified to section 10405 of this title prior to the general amendment of this chapter by Pub. L. 111–320.
 

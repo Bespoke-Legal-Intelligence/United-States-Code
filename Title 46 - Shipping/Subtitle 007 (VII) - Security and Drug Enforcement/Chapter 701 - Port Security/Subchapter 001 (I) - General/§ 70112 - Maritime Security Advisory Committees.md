@@ -2,109 +2,181 @@
 
 (a)
 
-Establishment of Committees.—(1) The Secretary shall establish a National Maritime Security Advisory Committee. The Committee—
+National Maritime Security Advisory Committee.—
 
-&emsp;(A) may advise, consult with, report to, and make recommendations to the Secretary on matters relating to national maritime security matters;
+&emsp;(1)
 
-&emsp;(B) may make available to the Congress recommendations that the Committee makes to the Secretary; and
+Establishment.—There is established a National Maritime Security Advisory Committee (in this subsection referred to as the "Committee").
 
-&emsp;(C) shall meet at the call of—
+&emsp;(2)
 
-&emsp;&emsp;(i) the Secretary, who shall call such a meeting at least once during each calendar year; or
+Function.—The Committee shall advise the Secretary on matters relating to national maritime security, including on enhancing the sharing of information related to cybersecurity risks that may cause a transportation security incident, between relevant Federal agencies and—
 
-&emsp;&emsp;(ii) a majority of the Committee.
+&emsp;&emsp;(A) State, local, and tribal governments;
 
-(2)(A) The Secretary may—
+&emsp;&emsp;(B) relevant public safety and emergency response agencies;
 
-&emsp;(i) establish an Area Maritime Security Advisory Committee for any port area of the United States; and
+&emsp;&emsp;(C) relevant law enforcement and security organizations;
 
-&emsp;(ii) request such a committee to review the proposed Area Maritime Transportation Security Plan developed under section 70103(b) and make recommendations to the Secretary that the Committee considers appropriate.
+&emsp;&emsp;(D) maritime industry;
 
-(B) A committee established under this paragraph for an area—
+&emsp;&emsp;(E) port owners and operators; and
 
-&emsp;(i) may advise, consult with, report to, and make recommendations to the Secretary on matters relating to maritime security in that area;
+&emsp;&emsp;(F) terminal owners and operators.
 
-&emsp;(ii) may make available to the Congress recommendations that the committee makes to the Secretary; and
+&emsp;(3)
 
-&emsp;(iii) shall meet at the call of—
+Membership.—
 
-&emsp;&emsp;(I) the Secretary, who shall call such a meeting at least once during each calendar year; or
+&emsp;&emsp;(A)
 
-&emsp;&emsp;(II) a majority of the committee.
+In general.—The Committee shall consist of at least 8 members, but not more than 21 members, appointed by the Secretary in accordance with this subsection and section 15109 of this title.
+
+&emsp;&emsp;(B)
+
+Expertise.—Each member of the Committee shall have particular expertise, knowledge, and experience in matters relating to the function of the Committee.
+
+&emsp;&emsp;(C)
+
+Representation.—Each of the following shall be represented by at least 1 member of the Committee:
+
+&emsp;&emsp;&emsp;(i) Port authorities.
+
+&emsp;&emsp;&emsp;(ii) Facilities owners and operators.
+
+&emsp;&emsp;&emsp;(iii) Terminal owners and operators.
+
+&emsp;&emsp;&emsp;(iv) Vessel owners and operators.
+
+&emsp;&emsp;&emsp;(v) Maritime labor organizations.
+
+&emsp;&emsp;&emsp;(vi) The academic community.
+
+&emsp;&emsp;&emsp;(vii) State and local governments.
+
+&emsp;&emsp;&emsp;(viii) The maritime industry.
+
+&emsp;&emsp;(D)
+
+Distribution.—If the Committee consists of at least 8 members who, together, satisfy the minimum representation requirements of subparagraph (C), the Secretary shall, based on the needs of the Coast Guard, determine the number of additional members of the Committee who represent each entity specified in that subparagraph. Neither this subparagraph nor any other provision of law shall be construed to require an equal distribution of members representing each entity specified in subparagraph (C).
+
+&emsp;(4)
+
+Administration.—For purposes of section 15109 of this title, the Committee shall be treated as a committee established under chapter 151 of such title.
 
 (b)
 
-Membership.—(1) Each of the committees established under subsection (a) shall consist of not less than 7 members appointed by the Secretary, each of whom has at least 5 years practical experience in maritime security operations.
+Area Maritime Security Advisory Committees.—
 
-(2) The term of each member shall be for a period of not more than 5 years, specified by the Secretary.
+&emsp;(1)
 
-(3) Before appointing an individual to a position on such a committee, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the committee.
+In general.—
 
-(4) The Secretary may require an individual to have passed an appropriate security background examination before appointment to the Committee.
+&emsp;&emsp;(A)
 
-(5)(A) The National Maritime Security Advisory Committee shall be composed of—
+Establishment.—The Secretary may—
 
-&emsp;(i) at least 1 individual who represents the interests of the port authorities;
+&emsp;&emsp;&emsp;(i) establish an Area Maritime Security Advisory Committee for any port area of the United States; and
 
-&emsp;(ii) at least 1 individual who represents the interests of the facilities owners or operators;
+&emsp;&emsp;&emsp;(ii) request such a committee to review the proposed Area Maritime Transportation Security Plan developed under section 70103(b) and make recommendations to the Secretary that the committee considers appropriate.
 
-&emsp;(iii) at least 1 individual who represents the interests of the terminal owners or operators;
+&emsp;&emsp;(B)
 
-&emsp;(iv) at least 1 individual who represents the interests of the vessel owners or operators;
+Additional functions and meetings.—A committee established under this subsection for an area—
 
-&emsp;(v) at least 1 individual who represents the interests of the maritime labor organizations;
+&emsp;&emsp;&emsp;(i) may advise, consult with, report to, and make recommendations to the Secretary on matters relating to maritime security in that area;
 
-&emsp;(vi) at least 1 individual who represents the interests of the academic community;
+&emsp;&emsp;&emsp;(ii) may make available to the Congress recommendations that the committee makes to the Secretary; and
 
-&emsp;(vii) at least 1 individual who represents the interests of State or local governments; and
+&emsp;&emsp;&emsp;(iii) shall meet at the call of—
 
-&emsp;(viii) at least 1 individual who represents the interests of the maritime industry.
+&emsp;&emsp;&emsp;&emsp;(I) the Secretary, who shall call such a meeting at least once during each calendar year; or
 
-(B) Each Area Maritime Security Advisory Committee shall be composed of individuals who represents the interests of the port industry, terminal operators, port labor organizations, and other users of the port areas.
+&emsp;&emsp;&emsp;&emsp;(II) a majority of the committee.
 
-(c)
+&emsp;(2)
 
-Chairperson and Vice Chairperson.—(1) Each committee established under subsection (a) shall elect 1 of its members as the Chairman and 1 of its members as the Vice Chairperson.
+Membership.—
 
-(2) The Vice Chairman shall act as Chairman in the absence or incapacity of the Chairman, or in the event of a vacancy in the office of the Chairman.
+&emsp;&emsp;(A)
 
-(d)
+In general.—Each committee established under this subsection shall consist of at least 7 members appointed by the Secretary, each of whom has at least 5 years practical experience in maritime security operations.
 
-Observers.—(1) The Secretary shall, and the head of any other interested Federal agency may, designate a representative to participate as an observer with the Committee.
+&emsp;&emsp;(B)
 
-(2) The Secretary's designated representative shall act as the executive secretary of the Committee and shall perform the duties set forth in section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
+Terms.—The term of each member of a committee established under this subsection shall be for a period of not more than 5 years, specified by the Secretary.
 
-(e)
+&emsp;&emsp;(C)
 
-Consideration of Views.—The Secretary shall consider the information, advice, and recommendations of the Committee in formulating policy regarding matters affecting maritime security.
+Notice.—Before appointing an individual to a position on a committee established under this subsection, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the committee.
 
-(f)
+&emsp;&emsp;(D)
 
-Compensation and Expenses.—(1) A member of a committee established under this section, when attending meetings of the committee or when otherwise engaged in the business of the committee, is entitled to receive—
+Background examinations.—The Secretary may require an individual to have passed an appropriate security background examination before appointment to a committee established under this subsection.
 
-&emsp;(A) compensation at a rate fixed by the Secretary, not exceeding the daily equivalent of the current rate of basic pay in effect for GS–15 of the General Schedule under section 5332 of title 5 including travel time; and
+&emsp;&emsp;(E)
 
-&emsp;(B) travel or transportation expenses under section 5703 of title 5.
+Representation.—Each committee established under this subsection shall be composed of individuals who represent the interests of the port industry, terminal operators, port labor organizations, and other users of the port areas.
 
-(2) A member of such a committee shall not be considered to be an officer or employee of the United States for any purpose based on their receipt of any payment under this subsection.
+&emsp;(3)
 
-(g) FACA;
+Chairperson and vice chairperson.—
 
-Termination.—(1) The Federal Advisory Committee Act (5 U.S.C. App.)—
+&emsp;&emsp;(A)
 
-&emsp;(A) applies to the National Maritime Security Advisory Committee established under this section, except that such committee terminates on September 30, 2020; and
+In general.—Each committee established under this subsection shall elect 1 of the committee's members as the Chairperson and 1 of the committee's members as the Vice Chairperson.
 
-&emsp;(B) does not apply to Area Maritime Security Advisory Committees established under this section.
+&emsp;&emsp;(B)
 
-(2) Not later than September 30, 2018, each committee established under this section shall submit to the Congress its recommendation regarding whether the committee should be renewed and continued beyond the termination date.
+Vice chairperson acting as chairperson.—The Vice Chairperson shall act as Chairperson in the absence or incapacity of the Chairperson, or in the event of a vacancy in the office of the Chairperson.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2081; amended Pub. L. 108–293, title VIII, §806, Aug. 9, 2004, 118 Stat. 1082; Pub. L. 109–241, title IX, §901(m), July 11, 2006, 120 Stat. 565; Pub. L. 111–281, title VIII, §810, Oct. 15, 2010, 124 Stat. 2995.)
+&emsp;(4)
+
+Observers.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall, and the head of any other interested Federal agency may, designate a representative to participate as an observer with a committee established under this subsection.
+
+&emsp;&emsp;(B)
+
+Role.—The Secretary's designated representative to a committee established under this subsection shall act as the executive secretary of the committee and shall perform the duties set forth in section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
+
+&emsp;(5)
+
+Consideration of views.—The Secretary shall consider the information, advice, and recommendations of each committee established under this subsection in formulating policy regarding matters affecting maritime security.
+
+&emsp;(6)
+
+Compensation and expenses.—
+
+&emsp;&emsp;(A)
+
+In general.—A member of a committee established under this subsection, when attending meetings of the committee or when otherwise engaged in the business of the committee, is entitled to receive—
+
+&emsp;&emsp;&emsp;(i) compensation at a rate fixed by the Secretary, not exceeding the daily equivalent of the current rate of basic pay in effect for GS–15 of the General Schedule under section 5332 of title 5 including travel time; and
+
+&emsp;&emsp;&emsp;(ii) travel or transportation expenses under section 5703 of title 5.
+
+&emsp;&emsp;(B)
+
+Status.—A member of a committee established under this subsection shall not be considered to be an officer or employee of the United States for any purpose based on the receipt of any payment under this paragraph.
+
+&emsp;(7)
+
+FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to a committee established under this subsection.
+
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2081; amended Pub. L. 108–293, title VIII, §806, Aug. 9, 2004, 118 Stat. 1082; Pub. L. 109–241, title IX, §901(m), July 11, 2006, 120 Stat. 565; Pub. L. 111–281, title VIII, §810, Oct. 15, 2010, 124 Stat. 2995; Pub. L. 115–254, div. J, §1805(c)(1), Oct. 5, 2018, 132 Stat. 3534; Pub. L. 115–282, title VI, §602(a), Dec. 4, 2018, 132 Stat. 4290.)
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsecs. (d)(2) and (g)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(4)(B), (7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–282, §602(a), amended section generally. Prior to amendment, section required Secretary to establish a National Maritime Security Advisory Committee and authorized Secretary to establish an Area Maritime Security Advisory Committee for any port area of the United States.
+
+Subsec. (a)(1)(A). Pub. L. 115–254 inserted ", including on enhancing the sharing of information related to cybersecurity risks that may cause a transportation security incident, between relevant Federal agencies and—" in introductory provisions and added cls. (i) to (vi).
 
 <b>2010</b>—Subsec. (b)(5). Pub. L. 111–281, §810(1), amended par. (5) generally. Prior to amendment par. (5) read as follows: "The membership of an Area Maritime Security Advisory Committee shall include representatives of the port industry, terminal operators, port labor organizations, and other users of the port areas."
 
@@ -115,4 +187,48 @@ Subsec. (g)(2). Pub. L. 111–281, §810(2)(B), substituted "2018" for "2006".
 <b>2006</b>—Subsec. (b)(5). Pub. L. 109–241 realigned margins.
 
 <b>2004</b>—Subsec. (b)(5). Pub. L. 108–293 added par. (5).
+
+#### Treatment of Existing Committee
+
+Pub. L. 115–282, title VI, §602(b), Dec. 4, 2018, 132 Stat. 4293, provided that: "Notwithstanding any other provision of law—
+
+&emsp;"(1) an advisory committee substantially similar to the National Maritime Security Advisory Committee established under section 70112(a) of title 46, United States Code, as amended by this section, and that was in force or in effect on the day before the date of enactment of this section \[Dec. 4, 2018\], may remain in force or in effect for a period of 2 years from the date of enactment of this section, including that the charter, membership, and other aspects of the committee may remain in force or in effect; and
+
+&emsp;"(2) during the 2-year period referenced in paragraph (1)—
+
+&emsp;&emsp;"(A) requirements relating to the National Maritime Security Advisory Committee established under section 70112(a) of title 46, United StatesCode, as amended by this section, shall be treated as satisfied by the substantially similar advisory committee; and
+
+&emsp;&emsp;"(B) the enactment of this section, including the amendments made in this section, shall not be the basis—
+
+&emsp;&emsp;&emsp;"(i) to deem, find, or declare such committee, including the charter, membership, and other aspects thereof, void, not in force, or not in effect;
+
+&emsp;&emsp;&emsp;"(ii) to suspend the activities of such committee; or
+
+&emsp;&emsp;&emsp;"(iii) to bar the members of such committee from meeting."
+
+#### Cybersecurity Information Sharing and Coordination in Ports
+
+Pub. L. 115–254, div. J, §1805(a), Oct. 5, 2018, 132 Stat. 3533, provided that:
+
+"(a)
+
+Maritime Cybersecurity Risk Assessment Model.—The Secretary of Homeland Security, through the Commandant of the Coast Guard and the Under Secretary responsible for overseeing the critical infrastructure protection, cybersecurity, and other related programs of the Department of Homeland Security, shall—
+
+&emsp;"(1) not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], coordinate with the National Maritime Security Advisory Committee, the Area Maritime Security Advisory Committees, and other maritime stakeholders, as necessary, to develop and implement a maritime cybersecurity risk assessment model, consistent with the activities described in section 2(e) of the National Institute of Standards and Technology Act (15 U.S.C. 272(e)), to evaluate current and future cybersecurity risks that have the potential to affect the marine transportation system or that would cause a transportation security incident (as defined in section 70101 of title 46, United States Code) in ports; and
+
+&emsp;"(2) not less than biennially thereafter, evaluate the effectiveness of the cybersecurity risk assessment model established under paragraph (1)."
+
+#### Information Sharing
+
+Pub. L. 115–254, div. J, §1805(c)(2), Oct. 5, 2018, 132 Stat. 3534, provided that: "The Commandant of the Coast Guard and the Under Secretary responsible for overseeing the critical infrastructure protection, cybersecurity, and other related programs of the Department of Homeland Security shall—
+
+&emsp;"(A) ensure there is a process for each Area Maritime Security Advisory Committee established under section 70112 of title 46, United States Code—
+
+&emsp;&emsp;"(i) to facilitate the sharing of information related to cybersecurity risks that may cause transportation security incidents;
+
+&emsp;&emsp;"(ii) to timely report transportation security incidents to the national level; and
+
+&emsp;&emsp;"(iii) to disseminate such reports across the entire maritime transportation system via the National Cybersecurity and Communications Integration Center; and
+
+&emsp;"(B) issue voluntary guidance for the management of such cybersecurity risks in each Area Maritime Transportation Security Plan and facility security plan required under section 70103 of title 46, United States Code, approved after the date that the cybersecurity risk assessment model is developed under subsection (a) of this section \[set out as a note above\]."
 

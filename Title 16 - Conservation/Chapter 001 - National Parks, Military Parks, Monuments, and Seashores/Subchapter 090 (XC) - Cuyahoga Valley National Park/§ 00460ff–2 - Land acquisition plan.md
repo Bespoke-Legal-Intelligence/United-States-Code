@@ -12,7 +12,7 @@ Within one year after December 27, 1974, the Secretary shall submit, in writing,
 
 #### (b) Congressional intent for land acquisition completion
 
-It is the express intent of the Congress that the Secretary should substantially complete theland acquisition program contemplated by this subchapter within six years after December 27, 1974.
+It is the express intent of the Congress that the Secretary should substantially complete the land acquisition program contemplated by this subchapter within six years after December 27, 1974.
 
 (Pub. L. 93–555, §3, Dec. 27, 1974, 88 Stat. 1786; Pub. L. 106–291, title I, §149(c)(2), Oct. 11, 2000, 114 Stat. 956.)
 

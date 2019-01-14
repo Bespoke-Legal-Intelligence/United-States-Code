@@ -10,7 +10,7 @@ There shall be in the Administration a Deputy Administrator, who shall be appoin
 
 #### (c) Qualifications of Administrator and Deputy Administrator
 
-The President shall appoint the Administrator and Deputy Administrator from among individuals who, by reason of their general background and experience are specially qualified to managea full range of energy research and development programs.
+The President shall appoint the Administrator and Deputy Administrator from among individuals who, by reason of their general background and experience are specially qualified to manage a full range of energy research and development programs.
 
 #### (d) Assistant Administrators; number; appointment; qualifications
 
@@ -48,5 +48,5 @@ The Atomic Energy Act of 1954, referred to in subsec. (g), is act Aug. 1, 1946, 
 
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 
-Division of Military Application transferred to Department of Energy by former section 7158(b) of this title with that organizational unit to be deemed an organizational unit established by chapter 84 (§7101 et seq.) of this title.
+Division of Military Application transferred to Department of Energy by former section 7158(b) of thistitle with that organizational unit to be deemed an organizational unit established by chapter 84 (§7101 et seq.) of this title.
 

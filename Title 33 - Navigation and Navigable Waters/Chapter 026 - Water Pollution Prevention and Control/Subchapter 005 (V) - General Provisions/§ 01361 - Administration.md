@@ -10,7 +10,7 @@ The Administrator, with the consent of the head of any other agency of the Unite
 
 #### (c) Recordkeeping
 
-Each recipient of financial assistance under this chapter shall keep such records as the Administrator shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate effective audit.
+Each recipient of financial assistance under this chapter shall keep such records as the Administrator shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portionof the cost of the project or undertaking supplied by other sources, and such other records as will facilitate effective audit.
 
 #### (d) Audit
 
@@ -122,7 +122,7 @@ Regulation of Aboveground Storage at Farms.—
 
 &emsp;"(1)
 
-Calculation of aggregate aboveground storage capacity.—For purposes of subsection (b),the aggregate aboveground storage capacity of a farm excludes—
+Calculation of aggregate aboveground storage capacity.—For purposes of subsection (b), the aggregate aboveground storage capacity of a farm excludes—
 
 &emsp;&emsp;"(A) all containers on separate parcels that have a capacity that is 1,000 gallons or less; and
 

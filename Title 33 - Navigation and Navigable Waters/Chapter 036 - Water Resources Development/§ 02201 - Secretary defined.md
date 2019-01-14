@@ -8,6 +8,12 @@ For purposes of this Act, the term "Secretary" means the Secretary of the Army.
 
 This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–270, §1(a), Oct. 23, 2018, 132 Stat. 3765, provided that: "This Act \[see Tables for classification\] may be cited as 'America's Water Infrastructure Act of 2018'."
+
+Pub. L. 115–270, title I, §101, Oct. 23, 2018, 132 Stat. 3768, provided that: "This title \[see Tables for classification\] may be cited as the 'Water Resources Development Act of 2018'."
+
 #### Short Title of 2016 Amendment
 
 Pub. L. 114–322, §1(a), Dec. 16, 2016, 130 Stat. 1628, provided that: "This Act \[see Tables for classification\] may be cited as the 'Water Infrastructure Improvements for the Nation Act' or the 'WIIN Act'."
@@ -32,11 +38,11 @@ Pub. L. 106–53, §1(a), Aug. 17, 1999, 113 Stat. 269, provided that: "This Act
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–303, §1(a), Oct. 12, 1996, 110 Stat. 3658, provided that: "This Act \[see Tables for classification\] may be cited as the 'Water Resources Development Act of 1996'."
+Pub. L. 104–303, §1(a), Oct. 12, 1996, 110 Stat. 3658, provided that: "This Act \[see Tables for classification\]may be cited as the 'Water Resources Development Act of 1996'."
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–580, §1(a), Oct. 31, 1992, 106 Stat. 4797, provided that: "This Act \[enacting sections 59gg, 426i–1,569d to 569f, 653, 1271, 2268, and 2325 to 2329 of this title, amending sections 426j, 467f, 467j to 467l, 562, 652, 1342, 1412, 1413, 1414, 1415, 1416, 1420, 1421, 2211, 2213, 2283, and 2309a of this title, section 3036 of Title 10, Armed Forces, sections 460tt, 4702, and 4711 of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 541, 1271, 2211, 2239, 2267, and 2281 of this title, section 9505 of Title 26, Internal Revenue Code, and sections 390h–4 and 390h–5 of Title 43, Public Lands\] may be cited as the 'Water Resources Development Act of 1992'."
+Pub. L. 102–580, §1(a), Oct. 31, 1992, 106 Stat. 4797, provided that: "This Act \[enacting sections 59gg, 426i–1, 569d to 569f, 653, 1271, 2268, and 2325 to 2329 of this title, amending sections 426j, 467f, 467j to 467l, 562, 652, 1342, 1412, 1413, 1414, 1415, 1416, 1420, 1421, 2211, 2213, 2283, and 2309a of this title, section 3036 of Title 10, Armed Forces, sections 460tt, 4702, and 4711 of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 541, 1271, 2211, 2239, 2267, and 2281 of this title, section 9505 of Title 26, Internal Revenue Code, and sections 390h–4 and 390h–5 of Title 43, Public Lands\] may be cited as the 'Water Resources Development Act of 1992'."
 
 #### Short Title of 1990 Amendment
 
@@ -112,7 +118,7 @@ Limitation.—The Secretary shall not reprogram funds to the General Expenses ac
 
 #### Non-Federal Implementation Pilot Program
 
-Pub. L. 113–121, title I, §1043, June 10, 2014, 128 Stat. 1244, provided that:
+Pub. L. 113–121, title I, §1043, June 10, 2014, 128 Stat. 1244, as amended by Pub. L. 115–270, title I, §1137, Oct. 23, 2018, 132 Stat. 3783, provided that:
 
 "(a)
 
@@ -128,7 +134,7 @@ Purposes.—The purposes of the pilot program are—
 
 &emsp;&emsp;"(A) to identify project delivery and cost-saving alternatives to the existing feasibility study process;
 
-&emsp;&emsp;"(B) to evaluate the technical, financial, and organizational efficiencies of a non-Federal interestcarrying out a feasibility study of 1 or more projects; and
+&emsp;&emsp;"(B) to evaluate the technical, financial, and organizational efficiencies of a non-Federal interest carrying out a feasibility study of 1 or more projects; and
 
 &emsp;&emsp;"(C) to evaluate alternatives for the decentralization of the project planning, management, and operational decisionmaking process of the Corps of Engineers.
 
@@ -264,17 +270,19 @@ Administration.—
 
 In general.—In carrying out the pilot program, the Secretary shall—
 
-&emsp;&emsp;&emsp;"(i) identify a total of not more than 15 projects for flood risk management, hurricane and storm damage reduction (including levees, floodwalls, flood control channels, and water control structures), coastal harbor and channels, inland navigation, and aquatic ecosystem restoration that have been authorized for construction prior to the date of enactment of this Act, including—
+&emsp;&emsp;&emsp;"(i) identify a total of not more than 20 projects for flood risk management, hurricane and storm damage reduction (including levees, floodwalls, flood control channels, and water control structures), coastal harbor and channels, inland navigation, and aquatic ecosystem restoration that have been authorized for construction, including—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) not more than 12 projects that—
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) not more than 12 projects that have been authorized for construction prior to the date of enactment of this Act and that—
 
 &emsp;&emsp;&emsp;"(aa)(AA) have received Federal funds prior to the date of enactment of this Act; or
 
 &emsp;&emsp;&emsp;"(BB) for more than 2 consecutive fiscal years, have an unobligated funding balance for that project in the Corps of Engineers construction account; and
 
-&emsp;&emsp;&emsp;"(bb) to the maximum extent practicable, are located in each of the divisions of the Corps of Engineers; and
+&emsp;&emsp;&emsp;"(bb) to the maximum extent practicable, are located in each of the divisions of the Corps of Engineers;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) not more than 3 projects that have not received Federal funds in the period beginning on the date on which the project was authorized and ending on the date of enactment of this Act;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) not more than 3 projects that have been authorized for construction prior to the date of enactment of this Act and that have not received Federal funds in the period beginning on the date on which the project was authorized and ending on the date of enactment of this Act; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) not more than 5 projects that have been authorized for construction, but did not receive the authorization prior to the date of enactment of this Act;
 
 &emsp;&emsp;&emsp;"(ii) notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the identification of each project under the pilot program;
 
@@ -336,7 +344,7 @@ Termination of authority.—The authority to commence a project under this subse
 
 &emsp;"(8)
 
-Authorization of appropriations.—In addition to any amounts appropriated for a specific project, there is authorized to be appropriated to the Secretary to carry out the pilot program under this subsection, including the costs of administration of the Secretary, $25,000,000 for each of fiscal years 2015 through 2019."
+Authorization of appropriations.—In addition to any amounts appropriated for a specificproject, there is authorized to be appropriated to the Secretary to carry out the pilot program under this subsection, including the costs of administration of the Secretary, $25,000,000 for each of fiscal years 2019 through 2023."
 
 #### Water Infrastructure Public-Private Partnership Pilot Program
 
@@ -344,7 +352,7 @@ Pub. L. 113–121, title V, §5014, June 10, 2014, 128 Stat. 1329, provided that
 
 "(a)
 
-In General.—The Secretary \[of the Army\] shall establish a pilot program to evaluate the cost effectiveness and project delivery efficiency of allowing non-Federal pilot applicants to carry out authorized waterresources development projects for coastal harbor improvement, channel improvement, inland navigation, flood damage reduction, aquatic ecosystem restoration, and hurricane and storm damage reduction.
+In General.—The Secretary \[of the Army\] shall establish a pilot program to evaluate the cost effectiveness and project delivery efficiency of allowing non-Federal pilot applicants to carry out authorized water resources development projects for coastal harbor improvement, channel improvement, inland navigation, flood damage reduction, aquatic ecosystem restoration, and hurricane and storm damage reduction.
 
 "(b)
 
@@ -462,7 +470,7 @@ Non-Federal Funding.—The non-Federal pilot applicant may finance the non-Feder
 
 "(l)
 
-Applicability of Federal Law.—Any provision of Federal law that would apply to the Secretary if the Secretary were carrying out a project shall apply to anon-Federal pilot applicant carrying out a project under this section.
+Applicability of Federal Law.—Any provision of Federal law that would apply to the Secretary if the Secretary were carrying out a project shall apply to a non-Federal pilot applicant carrying out a project under this section.
 
 "(m)
 
@@ -568,13 +576,15 @@ Pub. L. 99–662, title IX, §948, Nov. 17, 1986, 100 Stat. 4201, provided that:
 
 #### "Secretary" Defined
 
+Pub. L. 115–270, title I, §102, Oct. 23, 2018, 132 Stat. 3768, provided that: "In this title \[see Tables for classification\], the term 'Secretary' means the Secretary of the Army."
+
 Pub. L. 114–322, title I, §1002, Dec. 16, 2016, 130 Stat. 1632, provided that: "In this title \[see Tables for classification\], the term 'Secretary' means the Secretary of the Army."
 
 Pub. L. 113–121, §2, June 10, 2014, 128 Stat. 1195, provided that: "In this Act \[see Tables for classification\], the term 'Secretary' means the Secretary of the Army."
 
 Pub. L. 110–114, §2, Nov. 8, 2007, 121 Stat. 1049, provided that: "In this Act \[see Tables for classification\], the term 'Secretary' means the Secretary of the Army."
 
-Pub. L. 106–541, §2, Dec. 11, 2000, 114 Stat. 2575, provided that: "In this Act \[see Tables for classification\],the term 'Secretary' means the Secretary of the Army."
+Pub. L. 106–541, §2, Dec. 11, 2000, 114 Stat. 2575, provided that: "In this Act \[see Tables for classification\], the term 'Secretary' means the Secretary of the Army."
 
 Pub. L. 106–53, §2, Aug. 17, 1999, 113 Stat. 273, provided that: "In this Act \[see Tables for classification\], the term 'Secretary' means the Secretary of the Army."
 
@@ -585,4 +595,66 @@ Pub. L. 102–580, §3, Oct. 31, 1992, 106 Stat. 4801, provided that: "For purpo
 Pub. L. 101–640, §2, Nov. 28, 1990, 104 Stat. 4605, provided that: "For purposes of this Act \[see Short Title of 1990 Amendment note above\], the term 'Secretary' means the Secretary of the Army."
 
 Pub. L. 100–676, §2, Nov. 17, 1988, 102 Stat. 4013, provided that: "For purposes of this Act \[see Short Title of 1988 Amendment note above\], the term 'Secretary' means the Secretary of the Army."
+
+#### Promoting the Reliable Supply and Delivery of Water in the West
+
+Memorandum of President of the United States, Oct. 19, 2018, 83 F.R. 53961, provided:
+
+Memorandum for the Secretary of the Interior\[,\] the Secretary of Commerce\[,\] the Secretary of Energy\[,\] the Secretary of the Army\[, and\] the Chair of the Council on Environmental Quality
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+
+Section 1. <i>Policy</i>. During the 20th Century, the Federal Government invested enormous resources in water infrastructure throughout the western United States to reduce flood risks to communities; to provide reliable water supplies for farms, families, businesses, and fish and wildlife; and to generate dependable hydropower. Decades of uncoordinated, piecemeal regulatory actions have diminished the ability of our Federal infrastructure, however, to deliver water and power in an efficient, cost-effective way.
+
+Unless addressed, fragmented regulation of water infrastructure will continue to produce inefficiencies, unnecessary burdens, and conflict among the Federal Government, States, tribes, and local public agencies that deliver water to their citizenry. To meet these challenges, the Secretary of the Interior and the Secretary of Commerce should, to the extent permitted by law, work together to minimize unnecessary regulatory burdens and foster more efficient decision-making so that water projects are better able to meet the demands of their authorized purposes.
+
+Sec. 2. <i>Streamlining Western Water Infrastructure Regulatory Processes and Removing Unnecessary Burdens</i>. To address water infrastructure challenges in the western United States, the Secretary of the Interior and the Secretary of Commerce shall undertake the following actions:
+
+(a) Within 30 days of the date of this memorandum \[Oct. 19, 2018\], the Secretary of the Interior and the Secretary of Commerce shall:
+
+(i) identify major water infrastructure projects in California for which the Department of the Interior and the Department of Commerce have joint responsibility under the Endangered Species Act of 1973 (ESA) (Public Law 93–205) \[16 U.S.C. 1531 et seq.\] or individual responsibilities under the National Environmental Policy Act of 1969 (NEPA) (Public Law 91–190) \[42 U.S.C. 4321 et seq.\]; and
+
+(ii) for each such project, work together to facilitate the designation of one official to coordinate the agencies' ESA and NEPA compliance responsibilities. Within the 30-day time period provided by this subsection, the designated official shall also identify regulations and procedures that potentially burden the project and develop a proposed plan, for consideration by the Secretaries, to appropriately suspend, revise, or rescind any regulations or procedures that unduly burden the project beyond the degree necessary to protect the public interest or otherwise comply with the law. For purposes of this memorandum, "burden" means to unnecessarily obstruct, delay, curtail, impede, or otherwise impose significant costs on the permitting, utilization, transmission, delivery, or supply of water resources and infrastructure.
+
+(b) Within 40 days of the date of this memorandum, the Secretary of the Interior and the Secretary of Commerce shall develop a timeline for completing applicable environmental compliance requirements for projects identified under section 2(a)(i) of this memorandum. Environmental compliance requirements shall be completed as expeditiously as possible, and in accordance with applicable law.
+
+(c) To the maximum extent practicable and consistent with applicable law, including the authorities granted to the Secretary of the Interior and the Secretary of Commerce under the Water Infrastructure Improvements for the Nation Act (Public Law 114–322):
+
+(i) The Secretary of the Interior and the Secretary of Commerce shall ensure that the ongoing review of the long-term coordinated operations of the Central Valley Project and the California State Water Project is completed and an updated Plan of Operations and Record of Decision is issued.
+
+(ii) The Secretary of the Interior shall issue final biological assessments for the long-term coordinated operations of the Central Valley Project and the California State Water Project not later than January 31, 2019.
+
+(iii) The Secretary of the Interior and the Secretary of Commerce shall ensure the issuance of their respective final biological opinions for the long-term coordinated operations of the Central Valley Project and the California State Water Project within 135 days of the deadline provided in section 2(c)(ii) of this memorandum. To the extent practicable and consistent with law, these shall be joint opinions.
+
+(iv) The Secretary of the Interior and the Secretary of Commerce shall complete the joint consultation presently underway for the Klamath Irrigation Project by August 2019.
+
+(d) The Secretary of the Interior and the Secretary of Commerce shall provide monthly updates to the Chair of the Council on Environmental Quality and other components of the Executive Office of the President, as appropriate, regarding progress in meeting the established timelines.
+
+Sec. 3. <i>Improve Forecasts of Water Availability</i>. To facilitate greater use of forecast-based management and use of authorities and capabilities provided by the Weather Research and Forecasting Innovation Act of 2017 (Public Law 115–25) \[15 U.S.C. 8501 et seq.\] and other applicable laws, the Secretary of the Interior and the Secretary of Commerce shall convene water experts and resource managers to develop an action plan to improve the information and modeling capabilities related to water availability and water infrastructure projects. The action plan shall be completed by January 2019 and submitted to the Chair of the Council on Environmental Quality.
+
+Sec. 4. <i>Improving Use of Technology to Increase Water Reliability</i>. To the maximum extent practicable, and pursuant to the Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI) \[43 U.S.C. 390h et seq.\], the Water Desalination Act of 1996 (Public Law 104–298) \[42 U.S.C. 10301 note\], and other applicable laws, the Secretary of the Interior shall direct appropriate bureaus to promote the expanded use of technology for improving the accuracy and reliability of water and power deliveries. This promotion of expanded use should include:
+
+(a) investment in technology and reduction of regulatory burdens to enable broader scale deployment of desalination technology;
+
+(b) investment in technology and reduction of regulatory burdens to enable broader scale use of recycled water; and
+
+(c) investment in programs that promote and encourage innovation, research, and development of technology that improve water management, using best available science through real-time monitoring of wildlife and water deliveries.
+
+Sec. 5. <i>Consideration of Locally Developed Plans in Hydroelectric Projects Licensing</i>. To the extent the Secretary of the Interior and the Secretary of Commerce participate in Federal Energy Regulatory Commission licensing activities for hydroelectric projects, and to the extent permitted by law, the Secretaries shall give appropriate consideration to any relevant information available to them in locally developed plans, where consistent with the best available information.
+
+Sec. 6. <i>Streamlining Regulatory Processes and Removing Unnecessary Burdens on the Columbia River Basin Water Infrastructure</i>. In order to address water and hydropower operations challenges in the Columbia River Basin, the Secretary of the Interior, the Secretary of Commerce, the Secretary of Energy, and the Assistant Secretary of the Army for Civil Works under the direction of the Secretary of the Army, shall develop a schedule to complete the Columbia River System Operations Environmental Impact Statement and the associated Biological Opinion due by 2020. The schedule shall be submitted to the Chair of the Council on Environmental Quality within 60 days of the date of this memorandum.
+
+Sec. 7. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of the Interior is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

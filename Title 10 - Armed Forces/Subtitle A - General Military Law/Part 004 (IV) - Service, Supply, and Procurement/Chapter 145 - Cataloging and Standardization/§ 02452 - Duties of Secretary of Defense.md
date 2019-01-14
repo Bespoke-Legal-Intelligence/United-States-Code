@@ -62,7 +62,7 @@ Pub. L. 98–94, title XII, §1215, Sept. 24, 1983, 97 Stat. 688, as amended by 
 
 "(a) Not later than 120 days after the date of the enactment of this Act \[Sept. 24, 1983\], the Secretary of Defense shall issue regulations which—
 
-&emsp;"(1) except as provided in clause (2), prohibit the purchase of any spare part or replacement equipmentwhen the price of such part or equipment, since a time in the past specified by the Secretary (in terms of days or months) or since the most recent purchase of such part or equipment by the Department of Defense, has increased in price by a percentage in excess of a percentage threshold specified by the Secretary in such regulations, and
+&emsp;"(1) except as provided in clause (2), prohibit the purchase of any spare part or replacement equipment when the price of such part or equipment, since a time in the past specified by the Secretary (in terms of days or months) or since the most recent purchase of such part or equipment by the Department of Defense, has increased in price by a percentage in excess of a percentage threshold specified by the Secretary in such regulations, and
 
 &emsp;"(2) permit the purchase of such spare part or equipment (notwithstanding the prohibition contained in clause (1)) if the contracting officer for such part or equipment certifies in writing to the head of the procuring activity before the purchase is made that—
 

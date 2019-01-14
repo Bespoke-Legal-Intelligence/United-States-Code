@@ -18,7 +18,7 @@ The recipient shall agree that no fee will be charged to any eligible person for
 
 #### (e) Confidentiality
 
-The recipient shall agree to ensure the confidentiality of the name of any individual assisted with amounts from a grant under thischapter and any other information regarding individuals receiving such assistance.
+The recipient shall agree to ensure the confidentiality of the name of any individual assisted with amounts from a grant under this chapter and any other information regarding individuals receiving such assistance.
 
 #### (f) Financial records
 

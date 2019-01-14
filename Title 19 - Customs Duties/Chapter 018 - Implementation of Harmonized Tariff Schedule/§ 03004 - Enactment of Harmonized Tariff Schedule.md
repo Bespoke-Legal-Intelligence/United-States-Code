@@ -76,7 +76,7 @@ This chapter, referred to in subsec. (c)(1)(A), (2), was in the original "this s
 
 #### Codification
 
-Section is comprised of section 1204 of Pub. L. 100–418. Subsec. (a) of section 1204 of Pub. L. 100–418 amendedtitle I of the Tariff Act of 1930, act June 17, 1930, ch. 497, title I, 46 Stat. 590. See note set out preceding section 1202 of this title.
+Section is comprised of section 1204 of Pub. L. 100–418. Subsec. (a) of section 1204 of Pub. L. 100–418 amended title I of the Tariff Act of 1930, act June 17, 1930, ch. 497, title I, 46 Stat. 590. See note set out preceding section 1202 of this title.
 
 #### Effective Date
 

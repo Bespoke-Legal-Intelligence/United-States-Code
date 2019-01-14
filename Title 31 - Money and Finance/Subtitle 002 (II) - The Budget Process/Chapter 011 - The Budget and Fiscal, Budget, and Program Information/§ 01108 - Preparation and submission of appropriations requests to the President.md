@@ -6,7 +6,7 @@
 
 (2) An officer or employee of an agency in the executive branch may submit to the President or Congress a request for legislation authorizing deficiency or supplemental appropriations for the agency only with the approval of the head of the agency.
 
-(c) The head of an agency shall include with an appropriation request submitted to the President a report that the statement of obligations submitted with the request contains obligations consistent with section 1501 of this title. The head of the agency shall support the report with a certification of the consistency and shall support the certification with records showing that the amounts have been obligated. The head of the agency shall designate officials to make the certifications, and those officials may not delegate the duty to make the certifications. The certifications and records shall be kept in the agency—
+(c) The head of an agency shall include with an appropriation request submitted to the President a report that the statement of obligations submitted with the request contains obligations consistent with section 1501 of this title. The head of the agency shall support the report with a certification of the consistency and shall support the certification with records showing that the amounts have been obligated. The head of the agency shall designate officials to make the certifications, and those officials may not delegate the duty to make the certifications. Thecertifications and records shall be kept in the agency—
 
 &emsp;(1) in a form that makes audits and reconciliations easy; and
 

@@ -74,7 +74,7 @@ For purposes of this section, the term "Medicare Advantage MSA" means an Archer 
 
 #### (d) Special rules for treatment of account after death of account holder
 
-In applying section 220(f)(8)(A) to an account which was a Medicare Advantage MSA of a decedent, the rules of section 220(f) shall apply in lieu of the rules of subsection (c) of this sectionwith respect to the spouse as the account holder of such Medicare Advantage MSA.
+In applying section 220(f)(8)(A) to an account which was a Medicare Advantage MSA of a decedent, the rules of section 220(f) shall apply in lieu of the rules of subsection (c) of this section with respect to the spouse as the account holder of such Medicare Advantage MSA.
 
 #### (e) Reports
 
@@ -92,7 +92,7 @@ In the case of a Medicare Advantage MSA, the report under section 220(h)—
 
 Subsection (i) of section 220 shall not apply to an individual with respect to a Medicare Advantage MSA, and Medicare Advantage MSAs shall not be taken into account in determining whether the numerical limitations under section 220(j) are exceeded.
 
-(Added Pub. L. 105–33, title IV, §4006(a), Aug. 5, 1997, 111 Stat. 332; amended Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(3), (b)(6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 108–311, title IV, §408(a)(5)(A)–(F), Oct. 4, 2004, 118 Stat. 1191.)
+(Added Pub. L. 105–33, title IV, §4006(a), Aug. 5, 1997, 111 Stat. 332; amended Pub. L. 106–554,§1(a)(7) \[title II, §202(a)(3), (b)(6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 108–311, title IV, §408(a)(5)(A)–(F), Oct. 4, 2004, 118 Stat. 1191.)
 
 #### References in Text
 

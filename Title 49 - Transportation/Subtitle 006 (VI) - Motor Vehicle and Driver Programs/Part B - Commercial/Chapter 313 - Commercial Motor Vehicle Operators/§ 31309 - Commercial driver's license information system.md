@@ -180,7 +180,7 @@ Pub. L. 105–178, §4011(d)(5), added subsec. (e) and struck out heading and te
 
 "(3) On request of an employer or prospective employer of an employee and after notification to the employee, the Secretary or the operator of the information system, as the case may be, may make available to the employer or prospective employer information in the information system about the employee.
 
-"(4) On the request of the Secretary, the operator of the information system shall make available to the Secretary information about the driving status and licensing of operators of commercial motor vehicles (including information required by subsection (d)(1) of this section)."
+"(4) On the request of the Secretary, the operator of the information system shall make available to theSecretary information about the driving status and licensing of operators of commercial motor vehicles (including information required by subsection (d)(1) of this section)."
 
 Subsec. (f). Pub. L. 105–178, §4011(d)(8), redesignated subsec. (f) as (d).
 

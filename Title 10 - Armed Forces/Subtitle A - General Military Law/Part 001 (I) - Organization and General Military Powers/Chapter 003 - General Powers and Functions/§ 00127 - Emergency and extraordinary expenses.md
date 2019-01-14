@@ -16,7 +16,7 @@
 
 (4)(A) Notwithstanding paragraph (1), funds may not be obligated or expended in an amount in excess of $100,000 under the authority of subsection (a) or (b) for intelligence or counter-intelligence activities until the Secretary of Defense has notified the congressional defense committees and the congressional intelligence committees of the intent to obligate or expend the funds and 15 days have elapsed since the date of the notification.
 
-(B) The Secretary of Defense may waive subparagraph (A) if the Secretary determines that such a waiver is necessary due to extraordinary circumstances that affect the national security of the United States. If the Secretary issues a waiver under this subparagraph, the Secretary shall submit to the congressional defense and congressional intelligence committees, by not later than 48 hours after issuing the waiver, written notice of and justification for the waiver.
+(B) The Secretary of Defense may waive subparagraph (A) if the Secretary determines that such a waiver is necessary due to extraordinary circumstances that affect the national security of the United States. If the Secretary issues a waiver under this subparagraph, the Secretary shall submit to the congressional defense and congressional intelligence committees, by not later than 48 hours after issuing the waiver,written notice of and justification for the waiver.
 
 (d)
 
@@ -44,7 +44,7 @@ Subsec. (d). Pub. L. 115–91, §1041(b), designated existing provisions as par.
 
 Subsec. (e). Pub. L. 115–91, §1041(c), added subsec. (e).
 
-<b>2003</b>—Subsec. (d). Pub. L. 108–136 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In any case in which funds are expended under the authority of subsections (a) and (b), the Secretaryof Defense shall submit a report of such expenditures on a quarterly basis to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives."
+<b>2003</b>—Subsec. (d). Pub. L. 108–136 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In any case in which funds are expended under the authority of subsections (a) and (b), the Secretary of Defense shall submit a report of such expenditures on a quarterly basis to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives."
 
 <b>1999</b>—Subsecs. (c)(1), (d). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 

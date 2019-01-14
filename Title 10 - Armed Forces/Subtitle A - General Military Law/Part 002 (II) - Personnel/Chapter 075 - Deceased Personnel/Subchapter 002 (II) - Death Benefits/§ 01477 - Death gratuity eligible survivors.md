@@ -50,7 +50,7 @@ Treatment of Children.—Subsection (b)(2) applies, without regard to age or mar
 
 Effect of Death Before Receipt of Gratuity.— If a person entitled to all or a portion of a death gratuity under subsection (a) or (b) dies before the person receives the death gratuity, it shall be paid to the living survivor next in the order prescribed by subsection (b).
 
-(Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1453; amended Pub. L. 101–189, div. A, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 110–28, title III, §3306, May 25, 2007, 121 Stat. 136; Pub. L. 110–181, div. A, title VI, §645(a), (b), Jan. 28, 2008, 122 Stat. 158, 159; Pub. L. 110–417, \[div. A\], title X, §1061(a)(4), Oct. 14, 2008, 122 Stat. 4612.)
+(Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1453; amended Pub. L. 101–189, div. A, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 110–28, title III, §3306, May 25, 2007, 121 Stat.136; Pub. L. 110–181, div. A, title VI, §645(a), (b), Jan. 28, 2008, 122 Stat. 158, 159; Pub. L. 110–417, \[div. A\], title X, §1061(a)(4), Oct. 14, 2008, 122 Stat. 4612.)
 
 Historical and Revision Notes
 

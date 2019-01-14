@@ -32,7 +32,7 @@ Another prior section 425 of Pub. L. 90–247 was renumbered section 423, and is
 
 <b>1994</b>—Pub. L. 103–437, which directed that section 417(a) of Pub. L. 90–247 be amended by substituting "Labor and Human Resources" for "Human Resources", could not be executed because this section, which was section 417 of Pub. L. 90–247, was renumbered section 425 and amended generally by Pub. L. 103–382.
 
-Pub. L. 103–382, §235, amended section generally, substituting single undesignated par. relating to biennial evaluation reports for former subsecs. (a) and (b) relating to annual evaluation reports and including requirement for information on contracts and grants for evaluations of programs.
+Pub. L. 103–382, §235, amended section generally, substituting single undesignated par. relating to biennialevaluation reports for former subsecs. (a) and (b) relating to annual evaluation reports and including requirement for information on contracts and grants for evaluations of programs.
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–511 substituted "December 31" for "November 1".
 

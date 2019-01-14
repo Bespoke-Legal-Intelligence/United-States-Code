@@ -56,7 +56,7 @@ Sec. 7. (a) There is hereby established a Community Adjustment and Investment Pr
 
 (c) The Department of the Treasury representative shall serve as Chair of the Finance Committee. The Chair shall be responsible for presiding over the meetings of the Finance Committee, ensuring that the views of all other members are taken into account, coordinating with other appropriate United States Government agencies in carrying out the community adjustment and investment program, and requesting meetings of the Advisory Committee pursuant to section 543(b)(4)(C) of the NAFTA Implementation Act.
 
-Sec. 8. Any advice or conclusions of reviews provided to the President by the Advisory Committee pursuantto section 543(b)(3) of the NAFTA Implementation Act \[22 U.S.C. 290m–2(b)(3)\] shall be provided through the Finance Committee.
+Sec. 8. Any advice or conclusions of reviews provided to the President by the Advisory Committee pursuant to section 543(b)(3) of the NAFTA Implementation Act \[22 U.S.C. 290m–2(b)(3)\] shall be provided through the Finance Committee.
 
 Sec. 9. Any summaries of public comments or conclusions of investigations and audits provided to the President by the ombudsman pursuant to section 543(c)(1) of the NAFTA Implementation Act shall be provided through the Finance Committee.
 

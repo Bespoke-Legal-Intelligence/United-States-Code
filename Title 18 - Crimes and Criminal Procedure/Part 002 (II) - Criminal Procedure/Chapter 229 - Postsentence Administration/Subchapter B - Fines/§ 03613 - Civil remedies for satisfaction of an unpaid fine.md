@@ -2,7 +2,7 @@
 
 (a)
 
-Enforcement.—The United States may enforce a judgment imposing a fine in accordancewith the practices and procedures for the enforcement of a civil judgment under Federal law or State law. Notwithstanding any other Federal law (including section 207 of the Social Security Act), a judgment imposing a fine may be enforced against all property or rights to property of the person fined, except that—
+Enforcement.—The United States may enforce a judgment imposing a fine in accordance with the practices and procedures for the enforcement of a civil judgment under Federal law or State law. Notwithstanding any other Federal law (including section 207 of the Social Security Act), a judgment imposing a fine may be enforced against all property or rights to property of the person fined, except that—
 
 &emsp;(1) property exempt from levy for taxes pursuant to section 6334(a)(1), (2), (3), (4), (5), (6), (7), (8), (10), and (12) of the Internal Revenue Code of 1986 shall be exempt from enforcement of the judgment under Federal law;
 
@@ -16,7 +16,7 @@ Termination of Liability.—The liability to pay a fine shall terminate the late
 
 (c)
 
-Lien.—A fine imposed pursuant to the provisions of subchapter C of chapter 227 of this title, or an order of restitution made pursuant to sections <sup>1</sup> 2248, 2259, 2264, 2327, 3663, 3663A, or 3664 of this title, is a lien in favor of the United States on all property and rights to property of the person fined as if the liability of the person fined were a liability for a tax assessed under the Internal Revenue Code of 1986. The lien arises on the entry of judgment and continues for 20 years or until the liability is satisfied, remitted, set aside, or is terminated under subsection (b).
+Lien.—A fine imposed pursuant to the provisions of subchapter C of chapter 227 of this title, an assessment imposed pursuant to section 2259A of this title, or an order of restitution made pursuant to sections <sup>1</sup> 2248, 2259, 2264, 2327, 3663, 3663A, or 3664 of this title, is a lien in favor of the United States on all property and rights to property of the person fined as if the liability of the person fined were a liability for a tax assessed under the Internal Revenue Code of 1986. The lien arises on the entry of judgment and continues for 20 years or until the liability is satisfied, remitted, set aside, or is terminated under subsection (b).
 
 (d)
 
@@ -30,7 +30,7 @@ Discharge of Debt Inapplicable.—No discharge of debts in a proceeding pursuant
 
 Applicability to Order of Restitution.—In accordance with section 3664(m)(1)(A) of this title, all provisions of this section are available to the United States for the enforcement of an order of restitution.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2005; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–647, title XXXV, §3593, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, §207(c)(3), Apr. 24, 1996, 110 Stat. 1238; Pub. L. 114–324, §2(b), Dec. 16, 2016, 130 Stat. 1948.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2005; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–647, title XXXV, §3593, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, §207(c)(3), Apr. 24, 1996, 110 Stat. 1238; Pub. L. 114–324, §2(b), Dec. 16, 2016, 130 Stat. 1948; Pub. L. 115–299, §7(a), Dec. 7, 2018, 132 Stat. 4388.)
 
 #### References in Text
 
@@ -43,6 +43,8 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(1), (c), and (d),
 For a prior section 3613, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3601 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–299 inserted "an assessment imposed pursuant to section 2259A of this title," after "pursuant to the provisions of subchapter C of chapter 227 of this title,".
 
 <b>2016</b>—Subsec. (b). Pub. L. 114–324 inserted at end "The liability to pay restitution shall terminate on the date that is the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person ordered to pay restitution. In the event of the death of the person ordered to pay restitution, the individual's estate will be held responsible for any unpaid balance of the restitution amount, and the lien provided in subsection (c) of this section shall continue until the estate receives a written release of that liability."
 

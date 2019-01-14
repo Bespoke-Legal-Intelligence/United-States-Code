@@ -10,7 +10,7 @@ Any fellow who is not a detailee, at the end of the fellowship, is entitled to b
 
 #### (c) Rights and benefits
 
-Notwithstanding section 8347(o), 8713, or 8914 of title 5 and in accordance with regulations of theOffice of Personnel Management, an employee, while serving as a fellow who is not a detailee, is entitled to the same rights and benefits as if covered by section 3582 of title 5. The Center shall reimburse the employing agency for any costs incurred under section 3582 of title 5.
+Notwithstanding section 8347(o), 8713, or 8914 of title 5 and in accordance with regulations of the Office of Personnel Management, an employee, while serving as a fellow who is not a detailee, is entitled to the same rights and benefits as if covered by section 3582 of title 5. The Center shall reimburse the employing agency for any costs incurred under section 3582 of title 5.
 
 #### (d) Compliance with Budget Act
 

@@ -66,7 +66,7 @@ The Federal Director, in consultation with the Commercial Director and the Advis
 
 #### (e) Incentives
 
-Within 90 days after December 19, 2007, the Federal Director shall identify incentives to encourage the expedited use of high-performancegreen buildings and related technology in the operations of the Federal Government, in accordance with the requirements of section 6834(a)(3)(D) of this title, including through—
+Within 90 days after December 19, 2007, the Federal Director shall identify incentives to encourage the expedited use of high-performance green buildings and related technology in the operations of the Federal Government, in accordance with the requirements of section 6834(a)(3)(D) of this title, including through—
 
 &emsp;(1) the provision of recognition awards; and
 

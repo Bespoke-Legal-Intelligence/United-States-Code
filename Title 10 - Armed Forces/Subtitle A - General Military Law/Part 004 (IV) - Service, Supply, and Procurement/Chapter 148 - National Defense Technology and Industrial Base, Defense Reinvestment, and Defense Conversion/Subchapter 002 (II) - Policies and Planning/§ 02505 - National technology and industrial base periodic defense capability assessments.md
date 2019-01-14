@@ -18,7 +18,7 @@ Assessment Process.—The Secretary of Defense shall ensure that technology and 
 
 &emsp;(5) identify technological and industrial capabilities and processes for which there is potential for the national industrial and technology base not to be able to support the achievement of national security objectives; and
 
-&emsp;(6) consider the effects of the termination of major defense acquisition programs (as theterm is defined in section 2430 of this title) or major automated information system programs (as defined in section 2445a <sup>1</sup> of this title) in the previous fiscal year on the sectors and capabilities in the assessment.
+&emsp;(6) consider the effects of the termination of major defense acquisition programs (as the term is defined in section 2430 of this title) or major automated information system programs (as defined in section 2445a <sup>1</sup> of this title) in the previous fiscal year on the sectors and capabilities in the assessment.
 
 (c)
 
@@ -26,7 +26,7 @@ Assessment of Extent of Dependency on Foreign Source Items.—Each assessment un
 
 &emsp;(1) identify cases that pose an unacceptable risk of foreign dependency, as determined by the Secretary; and
 
-&emsp;(2) present actions being taken or proposed to be taken to remedy the risk posed by the cases identified under paragraph (1), including efforts to develop a domestic source for the item in question.
+&emsp;(2) present actions being taken or proposed to be taken to remedy the risk posed by thecases identified under paragraph (1), including efforts to develop a domestic source for the item in question.
 
 (d)
 

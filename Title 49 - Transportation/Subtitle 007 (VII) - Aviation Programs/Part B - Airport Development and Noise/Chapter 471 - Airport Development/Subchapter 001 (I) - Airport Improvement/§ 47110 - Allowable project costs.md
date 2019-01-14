@@ -12,7 +12,7 @@ Allowable Cost Standards.—A project cost is allowable—
 
 &emsp;(2)(A) if the cost is incurred after the grant agreement is executed and is for airport development or airport planning carried out after the grant agreement is executed;
 
-&emsp;(B) if the cost is incurred after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatability <sup>1</sup> program (including project formulation costs) and is consistent with all applicable statutory and administrative requirements;
+&emsp;(B) if the cost is incurred after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatibility program (including project formulation costs) and is consistent with all applicable statutory and administrative requirements;
 
 &emsp;(C) if the Government's share is paid only with amounts apportioned under paragraphs (1) and (2) of section 47114(c) or section 47114(d)(3)(A) and if the cost is incurred—
 
@@ -24,7 +24,7 @@ Allowable Cost Standards.—A project cost is allowable—
 
 &emsp;(D) if the cost is for airport development and is incurred before execution of the grant agreement, but in the same fiscal year as execution of the grant agreement, and if—
 
-&emsp;&emsp;(i) the cost was incurred before execution of the grant agreement because the airport has a shortened construction season due to climactic conditions in the vicinity of the airport;
+&emsp;&emsp;(i) the cost was incurred before execution of the grant agreement because the airport has a shortened construction season due to climatic conditions in the vicinity of the airport;
 
 &emsp;&emsp;(ii) the cost is in accordance with an airport layout plan approved by the Secretary and with all statutory and administrative requirements that would have been applicable to the project if the project had been carried out after execution of the grant agreement, including submission of a complete grant application to the appropriate regional or district office of the Federal Aviation Administration;
 
@@ -92,6 +92,14 @@ Letters of intent.—The Secretary may not require an eligible agency to impose 
 
 Limitation on statutory construction.—Nothing in this section shall be construed to prohibit the obligation of amounts pursuant to a letter of intent under this subsection in the same fiscal year as the letter of intent is issued.
 
+(7)
+
+Partnership Program <sup>1</sup> Airports <sup>1</sup>.—The Secretary may issue a letter of intent under this section to an airport sponsor with an approved application under section 47134(b) if—
+
+&emsp;(A) the application was approved in fiscal year 2019; and
+
+&emsp;(B) the project meets all other requirements set forth in this chapter.
+
 (f)
 
 Nonallowable Costs.—Except as provided in subsection (d) of this section and section 47118(f) of this title, a cost is not an allowable airport development project cost if it is for—
@@ -120,7 +128,7 @@ Bird-Detecting Radar Systems.—The Administrator of the Federal Aviation Admini
 
 &emsp;(2) within 180 days after such research is concluded, issue a final report on the use of avian radar systems in the national airspace system.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222; Pub. L. 106–181, title I, §127, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(2), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§145, 149(b), 159(c), Dec. 12, 2003, 117 Stat. 2504, 2505, 2511; Pub. L. 109–115, div. A, title I, §176(b), Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title I, §§111(c)(2)(A)(ii), 138, Feb. 14, 2012, 126 Stat. 18, 25.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222; Pub. L. 106–181, title I,§127, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(2), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§145, 149(b), 159(c), Dec. 12, 2003, 117 Stat. 2504, 2505, 2511; Pub. L. 109–115, div. A, title I, §176(b), Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title I, §§111(c)(2)(A)(ii), 138, Feb. 14, 2012, 126 Stat. 18, 25; Pub. L. 115–254, div. B, title I, §184(b), title V, §539(n), Oct. 5, 2018, 132 Stat. 3234, 3371.)
 
 Historical and Revision Notes
 
@@ -205,6 +213,12 @@ In subsection (b)(2)(C)(ii), the words "before the cost is incurred" are added f
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b)(2)(B). Pub. L. 115–254, §539(n)(1), substituted "compatibility" for "compatability".
+
+Subsec. (b)(2)(D)(i). Pub. L. 115–254, §539(n)(2), substituted "climatic" for "climactic".
+
+Subsec. (e)(7). Pub. L. 115–254, §184(b), added par. (7).
+
 <b>2012</b>—Subsec. (b)(2)(D). Pub. L. 112–95, §138(a), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "if the cost is incurred after September 11, 2001, for a project described in section 47102(3)(J), 47102(3)(K), or 47102(3)(L) and shall not depend upon the date of execution of a grant agreement made under this subchapter;".
 
 Subsec. (b)(7). Pub. L. 112–95, §138(b), added par. (7).
@@ -269,7 +283,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 Pub. L. 108–7, div. I, title III, §367, Feb. 20, 2003, 117 Stat. 423, provided that:
 
-"(a) The Under Secretary of Transportation for Security may issue a letter of intent to an airport committing to obligate from future budget authority an amount, not more than the Federal Government's share of the project's cost, for an airport security improvement project (including interest costs and costs of formulating the project) at the airport. The letter shall establish a schedule under which the Under Secretary will reimburse the airport for the Government's share of the project's costs, as amounts become available, if the airport, after the Under Secretary issues the letter, carries out the project without receiving amounts under Chapter 471 of title 49 \[United States Code\].
+"(a) The Under Secretary of Transportation for Security \[now Administrator of the Transportation Security Administration\] may issue a letter of intent to an airport committing to obligate from future budget authority an amount, not more than the Federal Government's share of the project's cost, for an airport security improvement project (including interest costs and costs of formulating the project) at the airport. The letter shall establish a schedule under which the Under Secretary will reimburse the airport for the Government's share of the project's costs, as amounts become available, if the airport, after the Under Secretary issues the letter, carries out the project without receiving amounts under Chapter 471 of title 49 \[United States Code\].
 
 "(b) The airport shall notify the Under Secretary of the airport's intent to carry out the airport security improvement project before the project begins.
 
@@ -291,7 +305,7 @@ Pub. L. 108–7, div. I, title III, §367, Feb. 20, 2003, 117 Stat. 423, provide
 
 #### Letters of Intent; Duration of Authority and Approval by Congress
 
-Pub. L. 102–388, title III, §320, Oct. 6, 1992, 106 Stat. 1546, provided that: "The authority conferred by section 513(d) of the Airport and Airway Improvement Act of 1982, as amended \[see subsec. (e) of this section\], toissue letters of intent shall remain in effect subsequent to September 30, 1992. Letters of intent may be issued under such subsection to applicants determined to be qualified under such Act \[substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by first section thereof as this subchapter\]: <i>Provided</i>, That, notwithstanding any other provision of law, all such letters of intent in excess of $10,000,000 shall be submitted for approval to the Committees on Appropriations of the Senate and the House of Representatives; the Committee on Commerce, Science, and Transportation of the Senate; and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives." Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 102–388, title III, §320, Oct. 6, 1992, 106 Stat. 1546, provided that: "The authority conferred by section 513(d) of the Airport and Airway Improvement Act of 1982, as amended \[see subsec. (e) of this section\], to issue letters of intent shall remain in effect subsequent to September 30, 1992. Letters of intent may be issued under such subsection to applicants determined to be qualified under such Act \[substantially repealed byPub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by first section thereof as this subchapter\]: <i>Provided</i>, That, notwithstanding any other provision of law, all such letters of intent in excess of $10,000,000 shall be submitted for approval to the Committees on Appropriations of the Senate and the House of Representatives; the Committee on Commerce, Science, and Transportation of the Senate; and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives." Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 102–143, title III, §320, Oct. 28, 1991, 105 Stat. 942.
 
@@ -301,5 +315,5 @@ Pub. L. 101–164 title III, §326, Nov. 21, 1989, 103 Stat. 1096.
 
 Pub. L. 100–457, title III, §334, Sept. 30, 1988, 102 Stat. 2153.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "compatibility".</i>
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

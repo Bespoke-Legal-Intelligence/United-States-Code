@@ -4,7 +4,7 @@ The Administration may not award any contract for the performance of any "commer
 
 &emsp;(1) a comparison of the cost of such activity as performed by employees of the Administration and the cost of such activity as performed under the proposed contract;
 
-&emsp;(2) a comparison of the services performed by employees of the Administration and the services to be performed under the proposed contract; and
+&emsp;(2) a comparison of the services performed by employees of the Administration and theservices to be performed under the proposed contract; and
 
 &emsp;(3) an assessment of the benefits to the Federal Government of proceeding with the proposed contract.
 

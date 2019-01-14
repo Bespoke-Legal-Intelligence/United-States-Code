@@ -55,8 +55,11 @@
 | [1747\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001747%20-%20Loans%20to%20States%20and%20political%20subdivisions%3B%20purposes%3B%20amounts%3B%20allocation%3B%20terms%20and%20conditions%3B%20interest%20rate%3B%20security%3B%20limitations%E2%80%A6.md) | Loans to States and political subdivisions; purposes; amounts; allocation; terms and conditions; interest rate; security; limitations; forebearance for benefit of borrowers; recordkeeping requirements; discrimination prohibited; deposit of receipts. |
 | [1748\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001748%20-%20Funding%20requirements.md) | Funding requirements. |
 | [1748a.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001748a%20-%20FLAME%20Wildfire%20Suppression%20Reserve%20Funds.md) | FLAME Wildfire Suppression Reserve Funds. |
+| 1748a–1. | Request for additional wildfire suppression funds. |
+| 1748a–2. | Reporting requirements. |
 | [1748b.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001748b%20-%20Cohesive%20wildfire%20management%20strategy.md) | Cohesive wildfire management strategy. |
 | [1748c.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001748c%20-%20Bureau%20of%20Land%20Management%20Foundation.md) | Bureau of Land Management Foundation. |
+| [1748d.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2001748d%20-%20Report%20on%20wildfire%2C%20insect%20infestation%2C%20and%20disease%20prevention%20on%20Federal%20land.md) | Report on wildfire, insect infestation, and disease prevention on Federal land. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -75,6 +78,7 @@
 |  |  |
 | :--- | ---: |
 | [1761\.](Subchapter%20005%20%28V%29%20-%20Rights-of-Way/%C2%A7%2001761%20-%20Grant%2C%20issue%2C%20or%20renewal%20of%20rights-of-way.md) | Grant, issue, or renewal of rights-of-way. |
+| [1761a.](Subchapter%20005%20%28V%29%20-%20Rights-of-Way/%C2%A7%2001761a%20-%20Streamlining%20the%20Forest%20Service%20process%20for%20consideration%20of%20communications%20facility%20location%20applications.md) | Streamlining the Forest Service process for consideration of communications facility location applications. |
 | [1762\.](Subchapter%20005%20%28V%29%20-%20Rights-of-Way/%C2%A7%2001762%20-%20Roads.md) | Roads. |
 | [1763\.](Subchapter%20005%20%28V%29%20-%20Rights-of-Way/%C2%A7%2001763%20-%20Right-of-way%20corridors%3B%20criteria%20and%20procedures%20applicable%20for%20designation.md) | Right-of-way corridors; criteria and procedures applicable for designation. |
 | [1764\.](Subchapter%20005%20%28V%29%20-%20Rights-of-Way/%C2%A7%2001764%20-%20General%20requirements.md) | General requirements. |
@@ -85,6 +89,7 @@
 | [1769\.](Subchapter%20005%20%28V%29%20-%20Rights-of-Way/%C2%A7%2001769%20-%20Existing%20right-of-way%20or%20right-of-use%20unaffected%3B%20exceptions%3B%20rights-of-way%20for%20railroad%20and%20appurtenant%20communication%20facilities%E2%80%A6.md) | Existing right-of-way or right-of-use unaffected; exceptions; rights-of-way for railroad and appurtenant communication facilities; applicability of existing terms and conditions. |
 | [1770\.](Subchapter%20005%20%28V%29%20-%20Rights-of-Way/%C2%A7%2001770%20-%20Applicability%20of%20provisions%20to%20other%20Federal%20laws.md) | Applicability of provisions to other Federal laws. |
 | [1771\.](Subchapter%20005%20%28V%29%20-%20Rights-of-Way/%C2%A7%2001771%20-%20Coordination%20of%20applications.md) | Coordination of applications. |
+| [1772\.](Subchapter%20005%20%28V%29%20-%20Rights-of-Way/%C2%A7%2001772%20-%20Vegetation%20managment%2C1%20facility%20inspection%2C%20and%20operation%20and%20maintenance%20relating%20to%20electric%20transmission%20and%20distribution%20facility%E2%80%A6.md) | Vegetation management, facility inspection, and operation and maintenance relating to electric transmission and distribution facility rights of way. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

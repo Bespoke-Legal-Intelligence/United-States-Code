@@ -26,7 +26,7 @@ In sections 2152j to 2152j–4 of this title:
 
 #### (3) Stakeholders
 
-&emsp;The term "stakeholders" means non-governmental and private sector entities engaged inor affected by conflict prevention and stabilization, peace building, protection, security, transition initiatives, humanitarian response, or related efforts.
+&emsp;The term "stakeholders" means non-governmental and private sector entities engaged in or affected by conflict prevention and stabilization, peace building, protection, security, transition initiatives, humanitarian response, or related efforts.
 
 (Pub. L. 115–68, §9, Oct. 6, 2017, 131 Stat. 1206.)
 

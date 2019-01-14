@@ -2,7 +2,7 @@
 
 #### (a) Conduct of overall management responsibilities
 
-The Secretary of Energy shall have overall management responsibility for carrying out the program under section 2703 of this title. In carrying out such program, the Secretary of Energy, consistent with such overall management responsibility—
+The Secretary of Energy shall have overall management responsibility for carrying out theprogram under section 2703 of this title. In carrying out such program, the Secretary of Energy, consistent with such overall management responsibility—
 
 &emsp;(1) shall utilize the expertise of the Department of Transportation to the extent deemed appropriate by the Secretary of Energy; and
 

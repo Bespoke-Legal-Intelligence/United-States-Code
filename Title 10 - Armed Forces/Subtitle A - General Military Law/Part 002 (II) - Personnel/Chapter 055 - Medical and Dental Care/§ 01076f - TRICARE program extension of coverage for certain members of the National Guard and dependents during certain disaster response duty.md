@@ -2,13 +2,13 @@
 
 (a)
 
-Extended Coverage.—During a period in which a member of the National Guard is performing disaster response duty, the member may be treated as being on active duty for a period of more than 30 days for purposes of the eligibility of the member and dependents of the member for health care benefits under the TRICARE program if such period immediately follows a period in which the member served on full-time National Guard duty under section 502(f) of title 32, including pursuant to chapter 9 of such title, unless the Governor of the State (or, with respect to the District of Columbia, the mayor of the District of Columbia) determines that such extended eligibility is not in the best interest of the member or the State.
+Extended Coverage.—During a period in which a member of the National Guard is performing disaster response duty, the member may be treated as being on active duty for a period of more than 30 days for purposes of the eligibility of the member and dependents of the member for health care benefits under theTRICARE program if such period immediately follows a period in which the member served on full-time National Guard duty under section 502(f) of title 32, including pursuant to chapter 9 of such title, unless the Governor of the State (or, with respect to the District of Columbia, the mayor of the District of Columbia) determines that such extended eligibility is not in the best interest of the member or the State.
 
 (b)
 
 Contribution by State.—(1) The Secretary shall charge a State for the costs of providing coverage under the TRICARE program to members of the National Guard of the State and the dependents of the members pursuant to subsection (a). Such charges shall be paid from the funds of the State or from any other non-Federal funds.
 
-(2) Any amounts received by the Secretary under paragraph (1) shall be credited to the appropriation available for the Defense Health Program Account under section 1100 of this title, shall be merged with sums in such Account that are available for the fiscal year in which collected, and shall be available undersubsection (b) of such section, including to carry out subsection (a) of this section.
+(2) Any amounts received by the Secretary under paragraph (1) shall be credited to the appropriation available for the Defense Health Program Account under section 1100 of this title, shall be merged with sums in such Account that are available for the fiscal year in which collected, and shall be available under subsection (b) of such section, including to carry out subsection (a) of this section.
 
 (c)
 

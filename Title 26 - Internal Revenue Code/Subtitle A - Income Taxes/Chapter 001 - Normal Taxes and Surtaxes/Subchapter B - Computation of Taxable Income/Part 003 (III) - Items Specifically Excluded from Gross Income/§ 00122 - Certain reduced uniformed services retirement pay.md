@@ -8,7 +8,7 @@ In the case of a member or former member of the uniformed services of the United
 
 #### (1) Amount excluded from gross income
 
-&emsp;In the case of any individual referred to in subsection (a), all amounts received as retired or retainer pay shall be excluded from gross income until there has been so excluded anamount equal to the consideration for the contract. The preceding sentence shall apply only to the extent that the amounts received would, but for such sentence, be includible in gross income.
+&emsp;In the case of any individual referred to in subsection (a), all amounts received as retired or retainer pay shall be excluded from gross income until there has been so excluded an amount equal to the consideration for the contract. The preceding sentence shall apply only to the extent that the amounts received would, but for such sentence, be includible in gross income.
 
 #### (2) Consideration for the contract
 
@@ -28,7 +28,7 @@ A prior section 122 was renumbered section 140 of this title.
 
 <b>2014</b>—Subsec. (b)(1). Pub. L. 113–295 struck out "after December 31, 1965," after "all amounts received".
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–406, §2007(a), substituted "United States, gross income does not include the amount of any reduction in his retired or retainer pay pursuant to the provisions of chapter 73 of title 10, United States Code" for "United States who has made an election under chapter 73 of title 10 of the United States Code to receive a reduced amount of retired or retainer pay, gross income does not include the amount of any reduction after December 31, 1965, in his retired or retainer pay by reason of such election".
+<b>1974</b>—Subsec. (a). Pub. L. 93–406, §2007(a), substituted "United States, gross income does not include the amount of any reduction in his retired or retainer paypursuant to the provisions of chapter 73 of title 10, United States Code" for "United States who has made an election under chapter 73 of title 10 of the United States Code to receive a reduced amount of retired or retainer pay, gross income does not include the amount of any reduction after December 31, 1965, in his retired or retainer pay by reason of such election".
 
 Subsec. (b)(2). Pub. L. 93–406, §2005(c)(10), substituted "72(n)" for "72(o)".
 

@@ -6,7 +6,7 @@ Not later than 5 years after July 22, 2016, the Attorney General shall complete 
 
 #### (2) Interim evaluation
 
-Not later than 3 years after July 22, 2016, the Attorney General shall complete an interim evaluation assessing the nature and extent of the incidence of opioid abuse and illegal opioid distribution in the United States.
+Not later than 3 years after July 22, 2016, the Attorney General shall complete an interimevaluation assessing the nature and extent of the incidence of opioid abuse and illegal opioid distribution in the United States.
 
 #### (3) Metrics and outcomes for evaluation
 

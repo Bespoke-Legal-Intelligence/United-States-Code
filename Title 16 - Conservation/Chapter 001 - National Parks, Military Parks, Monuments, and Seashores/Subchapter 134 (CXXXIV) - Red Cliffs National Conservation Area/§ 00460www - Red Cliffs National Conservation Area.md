@@ -106,7 +106,7 @@ Subject to valid existing rights, there is established in the State the Red Clif
 
 #### (5) Wildland fire operations
 
-&emsp;Nothing in this section prohibits the Secretary, in cooperation with other Federal, State, and local agencies, as appropriate, from conducting wildland fire operations in the National Conservation Area, consistent with the purposes of this section.
+&emsp;Nothing in this section prohibits the Secretary, in cooperation with other Federal,State, and local agencies, as appropriate, from conducting wildland fire operations in the National Conservation Area, consistent with the purposes of this section.
 
 #### (f) Incorporation of acquired land and interests
 

@@ -12,7 +12,7 @@
 
 (3) The Chief Information Officer designated under paragraph (2) shall head an office responsible for ensuring agency compliance with and prompt, efficient, and effective implementation of the information policies and information resources management responsibilities established under this subchapter, including the reduction of information collection burdens on the public. The Chief Information Officer and employees of such office shall be selected with special attention to the professional qualifications required to administer the functions described under this subchapter.
 
-(4) Each agency program official shall be responsible and accountable for information resources assigned to and supporting the programs under such official. In consultation with the Chief Information Officer designated under paragraph (2) and the agency Chief Financial Officer (or comparable official), each agency program official shall define program information needs and develop strategies, systems, and capabilities to meet those needs.
+(4) Each agency program official shall be responsible and accountable for information resources assigned to and supporting the programs under such official. In consultation with theChief Information Officer designated under paragraph (2) and the agency Chief Financial Officer (or comparable official), each agency program official shall define program information needs and develop strategies, systems, and capabilities to meet those needs.
 
 (b) With respect to general information resources management, each agency shall—
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(iv) minimize the burden of the collection of information on those who are to respond, including through the use of automated collection techniques or other forms of information technology; and
 
-&emsp;(B) for any proposed collection of information contained in a proposed rule (to be reviewed by the Director under section 3507(d)), provide notice and comment through the notice of proposed rulemaking for the proposed rule and such notice shall have the same purposes specified under subparagraph (A)(i) through (iv);
+&emsp;(B) for any proposed collection of information contained in a proposed rule (to be reviewed by the Director under section 3507(d)), provide notice and comment through the notice of proposed rulemaking for the proposedrule and such notice shall have the same purposes specified under subparagraph (A)(i) through (iv);
 
 &emsp;(3) certify (and provide a record supporting such certification, including public comments received by the agency) that each collection of information submitted to the Director for review under section 3507—
 
@@ -184,7 +184,77 @@
 
 (2) Each point of contact described under paragraph (1) shall be established not later than 1 year after the date of enactment of the Small Business Paperwork Relief Act of 2002.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 171; amended Pub. L. 104–106, div. E, title LI, §5125(a), Feb. 10, 1996, 110 Stat. 684; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(b), (c), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(l)(6), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 107–296, title X, §1005(c)(3), Nov. 25, 2002, 116 Stat. 2273; Pub. L. 107–347, title III, §305(c)(3), Dec. 17, 2002, 116 Stat. 2961.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 171; amended Pub. L. 104–106, div. E, title LI, §5125(a), Feb. 10, 1996, 110 Stat. 684; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(b), (c), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(l)(6), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 107–296, title X, §1005(c)(3), Nov. 25, 2002, 116 Stat. 2273; Pub. L. 107–347, title III, §305(c)(3), Dec. 17, 2002, 116 Stat. 2961; Pub. L. 115–435, title II, §202(c)(1), Jan. 14, 2019, 132 Stat. 5536.)
+
+#### Amendment of Subsections (b) and (d)
+
+<i>Pub. L. 115–435, title II, §202(c)(1), (3), Jan. 14, 2019, 132 Stat. 5536, 5538, provided that, effective 1 year after Jan. 14, 2019, this section is amended as follows:</i>
+
+<i>(1) in subsection (b)—</i>
+
+<i>(A) by amending paragraph (2) to read as follows:</i>
+
+&emsp;<i>"(2) in accordance with guidance by the Director, develop and maintain a strategic information resources management plan that, to the extent practicable—</i>
+
+&emsp;&emsp;<i>"(A) describes how information resources management activities help accomplish agency missions;</i>
+
+&emsp;&emsp;<i>"(B) includes an open data plan for data that does not concern monetary policy that—</i>
+
+&emsp;&emsp;&emsp;<i>"(i) requires the agency to develop processes and procedures that—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(I) require data collection mechanisms created on or after the date of the enactment of the OPEN Government Data Act to be available in an open format; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(II) facilitate collaboration with non-Government entities (including businesses), researchers, and the public for the purpose of understanding how data users value and use government data;</i>
+
+&emsp;&emsp;&emsp;<i>"(ii) identifies and implements methods for collecting and analyzing digital information on data asset usage by users within and outside of the agency, including designating a point of contact within the agency to assist the public and to respond to quality issues, usability issues, recommendations for improvements, and complaints about adherence to open data requirements within a reasonable period of time;</i>
+
+&emsp;&emsp;&emsp;<i>"(iii) develops and implements a process to evaluate and improve the timeliness, completeness, consistency, accuracy, usefulness, and availability of open Government data assets;</i>
+
+&emsp;&emsp;&emsp;<i>"(iv) includes requirements for meeting the goals of the agency open data plan, including the acquisition of technology, provision of training for employees, and the implementation of procurement standards, in accordance with existing law, regulation, and policy, that allow for the acquisition of innovative solutions from public and private sectors;</i>
+
+&emsp;&emsp;&emsp;<i>"(v) identifies as priority data assets any data asset for which disclosure would be in the public interest and establishes a plan to evaluate each priority data asset for disclosure on the Federal Data Catalogue under section 3511 and for a determination under 3511(a)(2)(A)(iii)(I)(bb), including an accounting of which priority data assets have not yet been evaluated; and</i>
+
+&emsp;&emsp;&emsp;<i>"(vi) requires the agency to comply with requirements under section 3511, including any standards established by the Director under such section, when disclosing a data asset pursuant to such section; and</i>
+
+&emsp;&emsp;<i>"(C) is updated annually and made publicly available on the website of the agency not later than 5 days after each such update;";</i>
+
+<i>(B) in paragraph (4), by striking "; and" and inserting a semicolon;</i>
+
+<i>(C) in paragraph (5), by striking the period at the end and inserting "; and"; and</i>
+
+<i>(D) by adding at the end the following new paragraph:</i>
+
+&emsp;<i>"(6) in accordance with guidance by the Director—</i>
+
+&emsp;&emsp;<i>"(A) make each data asset of the agency available in an open format; and</i>
+
+&emsp;&emsp;<i>"(B) make each public data asset of the agency available—</i>
+
+&emsp;&emsp;&emsp;<i>"(i) as an open Government data asset; and</i>
+
+&emsp;&emsp;&emsp;<i>"(ii) under an open license."; and</i>
+
+<i>(2) in subsection (d)—</i>
+
+<i>(A) in paragraph (3), by striking "and" at the end;</i>
+
+<i>(B) in paragraph (4), by striking the period at the end and inserting a semicolon; and</i>
+
+<i>(C) by adding at the end the following new paragraphs:</i>
+
+&emsp;<i>"(5) ensure that any public data asset of the agency is machine-readable; and</i>
+
+&emsp;<i>"(6) engage the public in using public data assets of the agency and encourage collaboration by—</i>
+
+&emsp;&emsp;<i>"(A) publishing on the website of the agency, on a regular basis (not less than annually), information on the usage of such assets by non-Government users;</i>
+
+&emsp;&emsp;<i>"(B) providing the public with the opportunity to request specific data assets to be prioritized for disclosure and to provide suggestions for the development of agency criteria with respect to prioritizing data assets for disclosure;</i>
+
+&emsp;&emsp;<i>"(C) assisting the public in expanding the use of public data assets; and</i>
+
+&emsp;&emsp;<i>"(D) hosting challenges, competitions, events, or other initiatives designed to create additional value from public data assets of the agency."</i>
+
+<i>See 2019 Amendment notes below.</i>
 
 #### References in Text
 
@@ -197,6 +267,12 @@ A prior section 3506, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 28
 Another prior section 3506, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, provided for determination of necessity for information and hearing thereon, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3508 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(2). Pub. L. 115–435, §202(c)(1)(A)(i), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "in accordance with guidance by the Director, develop and maintain a strategic information resources management plan that shall describe how information resources management activities help accomplish agency missions;".
+
+Subsec. (b)(6). Pub. L. 115–435, §202(c)(1)(A)(ii)–(iv), added par. (6).
+
+Subsec. (d)(5), (6). Pub. L. 115–435, §202(c)(1)(B), added pars. (5) and (6).
 
 <b>2002</b>—Subsec. (c)(4). Pub. L. 107–198, §2(c), added par. (4).
 
@@ -222,6 +298,10 @@ Subsec. (a)(3), (4). Pub. L. 104–106, §5125(a)(1)(C), substituted "Chief Info
 
 Subsec. (c)(1). Pub. L. 104–106, §5125(a)(2), substituted "Chief Information Officer" for "official" in introductory provisions.
 
+#### Effective Date of 2019 Amendment
+
+Pub. L. 115–435, title II, §202(c)(3), Jan. 14, 2019, 132 Stat. 5538, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Jan. 14, 2019\]."
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as a note under section 3504 of this title.
@@ -239,6 +319,10 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 #### Effective Date
 
 Section effective Oct. 1, 1995, except as otherwise provided, see section 4(a) of Pub. L. 104–13, set out as a note under section 3501 of this title.
+
+#### Use of Open Data Assets
+
+Pub. L. 115–435, title II, §202(c)(2), Jan. 14, 2019, 132 Stat. 5538, provided that: "Not later than 1 year after the date of the enactment of this Act \[Jan. 14, 2019\], the head of each agency (as defined in section 3502 of title 44, United States Code) shall ensure that any activity by the agency meets the requirements of section 3506 of title 44, United States Code, as amended by this subsection."
 
 #### Ex. Ord. No. 13073. Year 2000 Conversion
 
@@ -280,7 +364,7 @@ Sec. 3. <i>Responsibilities of Agency Heads</i>. (a) The head of each agency sha
 
 (b) The heads of executive departments and the agencies designated by the Chair under section 2(a) of this order shall identify a responsible official to represent the head of the executive department or agency on the Council with sufficient authority and experience to commit agency resources to address the Y2K problem.
 
-Sec. 4. <i>Responsibilities of Interagency and Executive Office Councils</i>. Interagency councils and councils within the Executive Office of the President, including the President's Management Council, the Chief Information Officers Council, the Chief Financial OfficersCouncil, the President's Council on Integrity and Efficiency, the Executive Council on Integrity and Efficiency, the National Science and Technology Council, the National Performance Review, the National Economic Council, the Domestic Policy Council, and the National Security Council shall provide assistance and support to the Chair upon the Chair's request.
+Sec. 4. <i>Responsibilities of Interagency and Executive Office Councils</i>. Interagency councils and councils within the Executive Office of the President, including the President's Management Council, the Chief Information Officers Council, the Chief Financial Officers Council, the President's Council on Integrity and Efficiency, the Executive Council on Integrity and Efficiency, the National Science and Technology Council, the National Performance Review, the National Economic Council, the Domestic Policy Council, and the National Security Council shall provide assistance and support to the Chair upon the Chair's request.
 
 Sec. 5. <i>Information Coordination Center</i>. (a) To assist the Chair in the Y2K response duties included under section 2(c) of this order, there shall be established the Information Coordination Center (ICC) in the General Services Administration.
 

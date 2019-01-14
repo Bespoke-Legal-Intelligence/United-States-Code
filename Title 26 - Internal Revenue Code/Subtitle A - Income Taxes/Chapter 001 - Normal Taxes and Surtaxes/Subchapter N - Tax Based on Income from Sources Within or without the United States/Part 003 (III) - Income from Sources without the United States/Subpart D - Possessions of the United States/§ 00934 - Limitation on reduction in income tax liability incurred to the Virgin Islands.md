@@ -60,7 +60,7 @@ Pub. L. 99–514, §1876(f)(2), struck out subsec. (f) which provided that subse
 
 Subsec. (e). Pub. L. 97–248, §213(b)(2), added subsec. (e).
 
-Subsec. (f). Pub. L. 97–248, §213(b)(2), added a temporary subsec. (f) which provided that in applying subsec. (b)(2) with respect to taxable years beginning after December 31, 1982, and before January 1, 1985, "55 percent" shall be substituted for "65 percent" for taxableyears beginning in calendar year 1983 and "60 percent" shall be substituted for "65 percent" for taxable years beginning in calendar year 1984.
+Subsec. (f). Pub. L. 97–248, §213(b)(2), added a temporary subsec. (f) which provided that in applying subsec. (b)(2) with respect to taxable years beginning after December 31, 1982, and before January 1, 1985, "55 percent" shall be substituted for "65 percent" for taxable years beginning in calendar year 1983 and "60 percent" shall be substituted for "65 percent" for taxable years beginning in calendar year 1984.
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455, §1901(a)(118), struck out "For the purposes of this subsection, all amounts received by such corporation within the United States, whether derived from sources within or without the United States, shall be considered as being derived from sources within the United States".
 
@@ -94,7 +94,7 @@ Withholding.—The amendment made by subsection (b) \[enacting section 1444 of t
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, except that so much of this section to which section 936(h)(6) applies by reason of subsec. (e)(4) of this section is applicable to taxable years ending after July 1, 1982, see section 213(e)(1), (2) of Pub. L. 97–248 set out as a note under section 936 of this title.
+Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, except that so much of this section to which former section 936(h)(6) applied by reason of subsec. (e)(4) of this section was applicable to taxable years ending after July 1, 1982, see section 213(e)(1), (2) of Pub. L. 97–248 set out as a note under section 246 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -107,8 +107,4 @@ Pub. L. 86–779, §4(e)(1), Sept. 14, 1960, 74 Stat. 1000, provided that: "The 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Report on Possessions Corporations
-
-For provisions requiring the Secretary of the Treasury to submit a report to Congress respecting the operation and effect of subsec. (b) of this section for the year 1981 and each second calendar year thereafter, see section 441(a) of Pub. L. 98–369, set out as a note under section 936 of this title.
 

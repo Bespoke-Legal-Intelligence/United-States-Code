@@ -6,7 +6,7 @@ Consistent with subsection (c), the National Science Foundation shall support mu
 
 #### (b) Awards
 
-To promote development of early career researchers, in awarding funds under subsection (a) the National Science Foundation shall prioritize applications for funding submitted by early career researchers.
+To promote development of early career researchers, in awarding funds under subsection\(a) the National Science Foundation shall prioritize applications for funding submitted by early career researchers.
 
 #### (c) Coordination
 

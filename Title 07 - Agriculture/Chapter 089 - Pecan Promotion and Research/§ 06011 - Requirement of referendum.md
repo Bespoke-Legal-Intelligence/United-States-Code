@@ -26,7 +26,7 @@ The Secretary shall be reimbursed from any assessments collected by the Board fo
 
 #### (2) Advance registration
 
-&emsp;A grower, grower-sheller, or importer who chooses to vote in any referendum conductedunder this chapter shall register in person prior to the voting period at the appropriate local office of the Agricultural Stabilization and Conservation Service, as determined by the Secretary, for such grower, grower-sheller, or by mailing such a request to the Secretary on behalf of an importer.
+&emsp;A grower, grower-sheller, or importer who chooses to vote in any referendum conducted under this chapter shall register in person prior to the voting period at the appropriate local office of the Agricultural Stabilization and Conservation Service, as determined by the Secretary, for such grower, grower-sheller, or by mailing such a request to the Secretary on behalf of an importer.
 
 #### (3) Voting
 

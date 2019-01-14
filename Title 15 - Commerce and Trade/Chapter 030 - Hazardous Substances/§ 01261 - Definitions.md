@@ -148,7 +148,7 @@ Pub. L. 91–113, §5, Nov. 6, 1969, 83 Stat. 190, provided that: "The amendment
 
 #### Effective Date
 
-Pub. L. 86–613, §17, formerly §16, July 12, 1960, 74 Stat. 380, renumbered Pub. L. 91–113, §4(a), Nov. 6, 1969, 83 Stat. 189, and amended by Pub. L. 110–314, title II, §204(b)(4)(B), Aug. 14, 2008, 122 Stat. 3041, provided that: "This Act \[enacting this chapter and repealing sections 401 to 411 of this title\] shall take effect upon the date of its enactment \[July 12, 1960\]; but no penalty or condemnation shall be enforced for any violation of this Act which occurs—
+Pub. L. 86–613, §17, formerly §16, July 12, 1960, 74 Stat. 380, renumbered Pub. L. 91–113, §4(a), Nov. 6, 1969, 83Stat. 189, and amended by Pub. L. 110–314, title II, §204(b)(4)(B), Aug. 14, 2008, 122 Stat. 3041, provided that: "This Act \[enacting this chapter and repealing sections 401 to 411 of this title\] shall take effect upon the date of its enactment \[July 12, 1960\]; but no penalty or condemnation shall be enforced for any violation of this Act which occurs—
 
 &emsp;"(a) prior to the expiration of the sixth calendar month after the month in which this Act is enacted \[July 1960\], or
 
@@ -164,7 +164,7 @@ Pub. L. 98–491, §1, Oct. 17, 1984, 98 Stat. 2269, provided: "That this Act \[
 
 #### Short Title of 1969 Amendment
 
-Pub. L. 91–113, §1, Nov. 6, 1969, 83 Stat. 187, provided that: "This Act \[enacting section 1274 of this title, amending this section and section 1262 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under thissection and section 401 of this title\] may be cited as the 'Child Protection and Toy Safety Act of 1969'."
+Pub. L. 91–113, §1, Nov. 6, 1969, 83 Stat. 187, provided that: "This Act \[enacting section 1274 of this title, amending this section and section 1262 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 401 of this title\] may be cited as the 'Child Protection and Toy Safety Act of 1969'."
 
 #### Short Title of 1966 Amendment
 
@@ -194,7 +194,7 @@ Pub. L. 86–613, §18, formerly §17, July 12, 1960, 74 Stat. 380, as amended b
 
 "(2) The Federal Government and the government of any State or political subdivision of a State may establish and continue in effect a requirement applicable to a hazardous substance for its own use (or to the packaging of such a substance) which requirement is designed to protect against a risk of illness or injury associated with such substance and which is not identical to a requirement described in paragraph (1) applicable to such substance (or packaging) and designed to protect against the same risk of illness or injury if the Federal, State, or political subdivision requirement provides a higher degree of protection from such risk of illness or injury than the requirement described in paragraph (1).
 
-"(3)(A) Upon application of a State or political subdivision of a State, the Commission may, by regulation promulgated in accordance with subparagraph (B), exempt from paragraph (1), under such conditions as may be prescribed in such regulation, any requirement of such State or political subdivision designed to protect against a risk of illness or injury associated with a hazardous substance if—
+"(3)(A) Upon application of a State or political subdivision of a State, the Commission may, by regulation promulgated in accordance with subparagraph (B), exempt from paragraph (1), under such conditions as may be prescribed in such regulation, any requirement of such State or political subdivision designed to protectagainst a risk of illness or injury associated with a hazardous substance if—
 
 &emsp;"(i) compliance with the requirement would not cause the hazardous substance (or its packaging) to be in violation of the applicable requirement described in paragraph (1), and
 

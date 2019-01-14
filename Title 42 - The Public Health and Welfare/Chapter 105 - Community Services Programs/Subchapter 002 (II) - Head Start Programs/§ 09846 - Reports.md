@@ -72,7 +72,7 @@ At least once during every 5-year period, the Secretary shall prepare and submit
 
 &emsp;&emsp;(A) determine whether Head Start agencies are making timely referrals to the State or local agency responsible for providing services under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.);
 
-&emsp;&emsp;(B) identify barriers to timely evaluations and eligibility determinations by the State or local agency responsible for providing services under section 619 or part C of the Individuals with Disabilities Education Act; and
+&emsp;&emsp;(B) identify barriers to timely evaluations and eligibility determinations by the Stateor local agency responsible for providing services under section 619 or part C of the Individuals with Disabilities Education Act; and
 
 &emsp;&emsp;(C) determine under what circumstances and for what length of time Head Start agencies are providing disability-related services for children who have not been determined under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) to be children with disabilities.
 

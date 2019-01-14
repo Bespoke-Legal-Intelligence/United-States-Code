@@ -20,5 +20,5 @@ Pub. L. 109–58, title VI, §656(b), Aug. 8, 2005, 119 Stat. 814, provided that
 
 #### Effect on Other Law
 
-Pub. L. 109–58, title VI, §656(d), Aug. 8, 2005, 119 Stat. 814, provided that: "Nothing in this section \[enacting this section and provisions set out as notes under this section\] or the amendment made by this section shall waive, modify, or affect the application of chapter 51 of title 49, United States Code, part A of subtitle V of title 49, United States Code, part B of subtitle VI of title 49, United States Code, and title 23, United States Code."
+Pub. L. 109–58, title VI, §656(d), Aug. 8, 2005, 119 Stat. 814, provided that: "Nothing in this section \[enactingthis section and provisions set out as notes under this section\] or the amendment made by this section shall waive, modify, or affect the application of chapter 51 of title 49, United States Code, part A of subtitle V of title 49, United States Code, part B of subtitle VI of title 49, United States Code, and title 23, United States Code."
 

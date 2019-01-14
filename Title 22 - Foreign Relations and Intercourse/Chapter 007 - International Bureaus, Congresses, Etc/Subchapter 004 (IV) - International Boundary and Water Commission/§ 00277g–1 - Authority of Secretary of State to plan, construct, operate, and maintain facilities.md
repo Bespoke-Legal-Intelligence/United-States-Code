@@ -6,7 +6,7 @@ The Secretary of State, acting through the Commissioner, is authorized to act jo
 
 &emsp;(2) supervise construction, operation, and maintenance of,
 
-> the facilities recommended in agreements concluded pursuant to section 277g of this title andapproved by the Governments of the United States and Mexico.
+> the facilities recommended in agreements concluded pursuant to section 277g of this title and approved by the Governments of the United States and Mexico.
 
 (Pub. L. 100–465, §3, Oct. 3, 1988, 102 Stat. 2272.)
 

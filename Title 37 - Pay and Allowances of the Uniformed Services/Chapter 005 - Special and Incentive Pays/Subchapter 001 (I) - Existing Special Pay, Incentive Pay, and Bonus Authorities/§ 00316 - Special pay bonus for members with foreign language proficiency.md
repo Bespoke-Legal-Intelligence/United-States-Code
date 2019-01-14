@@ -4,7 +4,7 @@
 
 Availability of Bonus.—Subject to subsection (c), the Secretary concerned may pay a bonus under this section to a member of the uniformed services who—
 
-&emsp;(1) is qualified in a uniformed services specialty requiring proficiency in a foreign language identified by the Secretary concerned as a foreign language in which it is necessary to have personnel proficient because of national defense or public health considerations;
+&emsp;(1) is qualified in a uniformed services specialty requiring proficiency in a foreign language identified by the Secretary concerned as a foreign language in which it is necessary tohave personnel proficient because of national defense or public health considerations;
 
 &emsp;(2) received training, under regulations prescribed by the Secretary concerned, designed to develop a proficiency in such a foreign language;
 
@@ -18,7 +18,7 @@ Bonus Amount; Time for Payment.—A bonus under subsection (a) may not exceed $1
 
 (c)
 
-Certification of Proficiency.—To be eligible to receive a bonus under this section, amember described in subsection (a) must be certified by the Secretary concerned as being proficient in the foreign language for which the bonus is offered. The certification of the member shall expire at the end of the one-year period beginning on the first day of the first month beginning on or after the certification date.
+Certification of Proficiency.—To be eligible to receive a bonus under this section, a member described in subsection (a) must be certified by the Secretary concerned as being proficient in the foreign language for which the bonus is offered. The certification of the member shall expire at the end of the one-year period beginning on the first day of the first month beginning on or after the certification date.
 
 (d)
 
@@ -66,7 +66,7 @@ Subsec. (d)(1). Pub. L. 109–163, §639(d)(2)(A)(i), struck out "monthly specia
 
 Subsec. (d)(1)(C). Pub. L. 109–163, §639(d)(2)(A)(ii), substituted "under subsection (a)" for "for receipt of special pay under subsection (a) or a bonus under subsection (b), whichever applies to the member".
 
-Subsec. (d)(2). Pub. L. 109–163, §639(d)(2)(B), substituted "The Secretary concerned" for "For purposes of providing an annual bonus to a member under the authority of this subsection, the Secretary concerned".
+Subsec. (d)(2). Pub. L. 109–163, §639(d)(2)(B), substituted "The Secretary concerned" for "For purposesof providing an annual bonus to a member under the authority of this subsection, the Secretary concerned".
 
 Subsec. (d)(3). Pub. L. 109–163, §639(d)(2)(C), struck out "special pay or" before "a bonus under" and before "bonus was paid" and substituted "subsection (f)" for "subsection (h)".
 
@@ -78,7 +78,7 @@ Subsec. (e). Pub. L. 109–163, §687(b)(25), amended heading and text of subsec
 
 "(2) The Secretary concerned shall prescribe in regulations whether repayment of an amount otherwise required under paragraph (1) shall be made in whole or in part, the method for computing the amount of such repayment, and any conditions under which an exception to required repayment would apply.
 
-"(3) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States. A discharge in bankruptcyunder title 11 that is entered less than five years after the date on which the member received the bonus does not discharge the member from a debt arising under paragraph (1)."
+"(3) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States. A discharge in bankruptcy under title 11 that is entered less than five years after the date on which the member received the bonus does not discharge the member from a debt arising under paragraph (1)."
 
 Pub. L. 109–163, §639(b)(1), (c), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows:
 

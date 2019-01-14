@@ -12,7 +12,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;(A) to develop and obtain educational materials, model curricula, and methods directed toward reducing the transmission of the etiologic agent for acquired immune deficiency syndrome;
 
-&emsp;(B) to provide instruction and support for individuals who provide instruction in methods and techniques of education relating to theprevention of acquired immune deficiency syndrome and instruction in the use of the materials and curricula described in subparagraph (A); and
+&emsp;(B) to provide instruction and support for individuals who provide instruction in methods and techniques of education relating to the prevention of acquired immune deficiency syndrome and instruction in the use of the materials and curricula described in subparagraph (A); and
 
 &emsp;(C) to conduct, or to provide for the conduct of, the materials, curricula, and methods described in paragraph (1) and the efficacy of such materials, curricula, and methods in preventing infection with the the <sup>1</sup> etiologic agent for acquired immune deficiency syndrome.
 

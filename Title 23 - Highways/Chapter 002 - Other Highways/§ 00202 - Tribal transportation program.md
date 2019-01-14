@@ -220,7 +220,7 @@ In general.—After making the set asides authorized under subparagraph (C) and 
 
 &emsp;&emsp;&emsp;(ii)
 
-Tribal high priority projects.—The High Priority Projects program as included in the Tribal Transportation Allocation Methodology of part 170 of title 25, Code of Federal Regulations (as in effecton the date of enactment of the MAP–21), shall not continue in effect.
+Tribal high priority projects.—The High Priority Projects program as included in the Tribal Transportation Allocation Methodology of part 170 of title 25, Code of Federal Regulations (as in effect on the date of enactment of the MAP–21), shall not continue in effect.
 
 &emsp;&emsp;(B)
 
@@ -320,7 +320,7 @@ Contracts and agreements with indian tribes.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available to an Indian tribal government under this chapter for a tribal transportation facility program or project shall be made available, on the request of the Indian tribal government, to the Indian tribal government for use in carrying out, in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> contracts and agreements for the planning, research, design, engineering, construction, and maintenance relating to the program or project.
+In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available to an Indian tribal government under this chapter for a tribal transportation facility program or project shall be made available,on the request of the Indian tribal government, to the Indian tribal government for use in carrying out, in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> contracts and agreements for the planning, research, design, engineering, construction, and maintenance relating to the program or project.
 
 &emsp;&emsp;(B)
 
@@ -466,7 +466,7 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 #### Tribal High Priority Projects Program
 
-Pub. L. 112–141, div. A, title I, §1123, July 6, 2012, 126 Stat. 497, as amended by Pub. L. 113–159, title I, §1001(b)(2), Aug. 8, 2014, 128 Stat. 1840; Pub. L. 114–21, title I, §1001(b)(2), May 29, 2015, 129 Stat. 219; Pub. L. 114–41, title I, §1001(b)(2), July 31, 2015, 129 Stat. 444; Pub. L. 114–73, title I, §1001(b)(2), Oct. 29, 2015, 129 Stat. 569; Pub. L. 114–87, title I, §1001(b)(2), Nov. 20, 2015, 129 Stat. 678, provided that:
+Pub. L. 112–141, div. A, title I, §1123, July 6, 2012, 126 Stat. 497, as amended by Pub. L. 113–159, title I, §1001(b)(2), Aug. 8, 2014, 128 Stat. 1840; Pub. L. 114–21, title I, §1001(b)(2), May 29, 2015, 129 Stat. 219; Pub. L. 114–41, title I, §1001(b)(2), July 31, 2015, 129 Stat. 444; Pub. L. 114–73, title I, §1001(b)(2), Oct. 29, 2015, 129 Stat.569; Pub. L. 114–87, title I, §1001(b)(2), Nov. 20, 2015, 129 Stat. 678, provided that:
 
 "(a)
 
@@ -548,7 +548,7 @@ In general.—To apply for funds under this section, an eligible applicant shall
 
 &emsp;"(2)
 
-Limitation on applications.—An applicant for funds under the program may only have 1 applicationfor assistance under this section pending at any 1 time, including any emergency or disaster application.
+Limitation on applications.—An applicant for funds under the program may only have 1 application for assistance under this section pending at any 1 time, including any emergency or disaster application.
 
 &emsp;"(3)
 

@@ -18,7 +18,7 @@ Subject to section 2082(d) of this title and subsection (b) of this section, a p
 
 #### (1) In general
 
-&emsp;Whenever a former participant becomes entitled to receive payment of the lump-sum credit under subsection (a), such lump-sum credit shall be paid to the former participant and to any former spouse or former wife or husband of the former participant in accordance with paragraphs (2) through (4). The former participant's lump-sum credit shall be reduced by the amount of the lump-sum creditpayable to any former spouse or former wife or husband.
+&emsp;Whenever a former participant becomes entitled to receive payment of the lump-sum credit under subsection (a), such lump-sum credit shall be paid to the former participant and to any former spouse or former wife or husband of the former participant in accordance with paragraphs (2) through (4). The former participant's lump-sum credit shall be reduced by the amount of the lump-sum credit payable to any former spouse or former wife or husband.
 
 #### (2) Pro rata share for former spouse
 
@@ -48,7 +48,7 @@ Subject to section 2082(d) of this title and subsection (b) of this section, a p
 
 #### (c) Order of precedence of payment
 
-A lump-sum payment authorized by subsection (d) or (e) of this section 2121(d) <sup>1</sup> of this title and a payment of any accrued and unpaid annuity authorized by subsection (f) of this section shall be paid in the following order of precedence to individuals surviving the participant and alive on the date entitlement to the payment arises, upon establishment of a valid claim therefor, and such payment bars recovery by any other individual:
+A lump-sum payment authorized by subsection (d) or (e) of this section 2121(d) <sup>1</sup> of thistitle and a payment of any accrued and unpaid annuity authorized by subsection (f) of this section shall be paid in the following order of precedence to individuals surviving the participant and alive on the date entitlement to the payment arises, upon establishment of a valid claim therefor, and such payment bars recovery by any other individual:
 
 &emsp;(1) To the beneficiary or beneficiaries designated by such participant in a signed and witnessed writing received by the Director before the participant's death. For this purpose, a designation, change, or cancellation of beneficiary in a will or other document not so executed and filed with the Director shall have no force or effect.
 
@@ -103,6 +103,10 @@ Subsecs. (f), (g). Pub. L. 103–178, §202(a)(11)(B), added subsec. (f) and red
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
+
+#### Effective Date
+
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.
 
 <i><sup>1</sup></i><i> So in original. The words "of this section 2121(d)" probably should be "of this section or by section 2121(d)".</i>
 

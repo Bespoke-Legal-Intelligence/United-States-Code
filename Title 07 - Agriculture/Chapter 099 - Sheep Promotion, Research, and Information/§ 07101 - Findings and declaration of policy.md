@@ -8,7 +8,7 @@ Congress finds that—
 
 &emsp;(2) the production of sheep and sheep products play a significant role in the economy of the United States in that sheep and sheep products are produced throughout the United States and used by millions of people throughout the United States and foreign countries;
 
-&emsp;(3) sheep and sheep products must be high quality, readily available, handled properly, and marketed efficiently to ensure that consumers have an adequate supply of sheep products;
+&emsp;(3) sheep and sheep products must be high quality, readily available, handled properly,and marketed efficiently to ensure that consumers have an adequate supply of sheep products;
 
 &emsp;(4) the maintenance and expansion of existing markets and development of new markets for sheep and sheep products are vital to the welfare of sheep producers and persons concerned with marketing, using, and producing sheep and sheep products, as well as to the general economy of the United States, and necessary to ensure the ready availability and efficient marketing of sheep and sheep products;
 
@@ -36,7 +36,7 @@ Nothing in this chapter provides for the control of production, or otherwise lim
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–429, title IV, §4001, Dec. 3, 2004, 118 Stat. 2600, provided that: "This title \[amending provisionsset out as a note under this section\] may be cited as the 'Wool Suit and Textile Trade Extension Act of 2004'."
+Pub. L. 108–429, title IV, §4001, Dec. 3, 2004, 118 Stat. 2600, provided that: "This title \[amending provisions set out as a note under this section\] may be cited as the 'Wool Suit and Textile Trade Extension Act of 2004'."
 
 #### Short Title
 
@@ -44,7 +44,7 @@ Pub. L. 103–407, §1, Oct. 22, 1994, 108 Stat. 4210, provided that: "This Act 
 
 #### Agriculture Wool Apparel Manufacturers Trust Fund
 
-Pub. L. 113–79, title XII, §12315, Feb. 7, 2014, 128 Stat. 995, provided that:
+Pub. L. 113–79, title XII, §12315, Feb. 7, 2014, 128 Stat. 995, as amended by Pub. L. 115–334, title XII, §12603, Dec. 20, 2018, 132 Stat. 5005, provided that:
 
 "(a)
 
@@ -56,35 +56,19 @@ Distribution of Funds.—
 
 &emsp;"(1)
 
-In general.—From amounts in the Trust Fund, the Secretary \[of Agriculture\] may make payments annually beginning in calendar year 2014 for calendar years 2010 through 2019 as follows:
+In general.—From amounts in the Trust Fund, the Secretary \[of Agriculture\] may make payments annually beginning in calendar year 2014 for calendar years 2010 through 2023 as follows:
 
-&emsp;&emsp;"(A) To each eligible manufacturer under paragraph (3) of section 4002(c) of the Wool Suit and Textile Trade Extension Act of 2004 (Public Law 108–429; 118 Stat. 2600 \[2603\]), as amended by section 1633(c) \[1633(b)(1)\] of the Miscellaneous Trade and Technical Corrections Act of 2006 (Public Law 109–280; 120 Stat. 1166) and section 325(b) of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 (division C of Public Law 110–343; 122 Stat. 3875), and any successor-in-interest to such a manufacturer as provided for under paragraph (4) of such section 4002(c) \[118 Stat. 2603\], that submits an affidavit in accordance with paragraph (2) for the year of the payment—
+&emsp;&emsp;"(A) To each eligible manufacturer under paragraph (3) of section 4002(c) of the Wool Suit and Textile Trade Extension Act of 2004 (Public Law 108–429; 118 Stat. 2600 \[2603\]), as amended by section 1633(c) \[1633(b)(1)\] of the Miscellaneous Trade and Technical Corrections Act of 2006 (Public Law 109–280; 120 Stat. 1166) and section 325(b) of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 (division C of Public Law 110–343; 122 Stat. 3875), and any successor-in-interest to such a manufacturer as provided for under paragraph (4) of such section 4002(c) \[118 Stat. 2603\], that submits an affidavit in accordance with paragraph (2) for the year of the payment, payments in amounts authorized under that paragraph.
 
-&emsp;&emsp;&emsp;"(i) for calendar years 2010 through 2015, payments that, when added to any other payments made to the manufacturer or successor-in-interest under paragraph (3) of such section 4002(c) in such calendar years, equal the total amount of payments authorized to be provided to the manufacturer or successor-in-interest under that paragraph, or the provisions of this section, in such calendar years; and
-
-&emsp;&emsp;&emsp;"(ii) for calendar years 2016 through 2019, payments in amounts authorized under that paragraph.
-
-&emsp;&emsp;"(B) To each eligible manufacturer under paragraph (6) of such section 4002(c) \[118 Stat. 2603\]—
-
-&emsp;&emsp;&emsp;"(i) for calendar years 2010 through 2014, payments that, when added to any other payments made to eligible manufacturers under that paragraph in such calendar years, equal the total amount of payments authorized to be provided to the manufacturer under that paragraph, or the provisions of this section, in such calendar years; and
-
-&emsp;&emsp;&emsp;"(ii) for calendar years 2015 through 2019, payments in amounts authorized under that paragraph.
+&emsp;&emsp;"(B) To each eligible manufacturer under paragraph (6) of such section 4002(c) \[118 Stat. 2603\], payments in amounts authorized under that paragraph.
 
 &emsp;"(2)
 
-Submission of affidavits.—An affidavit required by paragraph (1)(A) shall be submitted—
-
-&emsp;&emsp;"(A) in each of calendar years 2010 through 2015, to the Commissioner responsible for U.S. Customs and Border Protection not later than April 15; and
-
-&emsp;&emsp;"(B) in each of calendar years 2016 through 2019, to the Secretary \[of Agriculture\], or as directed by the Secretary, and not later than March 1.
+Submission of affidavits.—An affidavit required by paragraph (1)(A) shall be submitted to the Secretary, or as directed by the Secretary, and not later than March 1.
 
 "(c)
 
-Payment of Amounts.—The Secretary shall make payments to eligible manufacturers and successors-in-interest described in paragraphs (1) and (2) of subsection (b)—
-
-&emsp;"(1) for calendar years 2010 through 2014, not later than 30 days after the transfer of amounts from the Commodity Credit Corporation to the Trust Fund under subsection (f); and
-
-&emsp;"(2) for calendar years 2015 through 2019, not later than April 15 of the year of the payment.
+Payment of Amounts.—The Secretary shall make payments to eligible manufacturers and successors-in-interest described in paragraphs (1) and (2) of subsection (b) not later than April 15 of the year of the payment.
 
 "(d)
 
@@ -108,7 +92,7 @@ Funding.—
 
 &emsp;"(1)
 
-In general.—Of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Trust Fund for each of calendar years 2014 through 2019 an amount equal to the lesser of—
+In general.—Of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Trust Fund for each of calendar years 2014 through 2023 an amount equal to the lesser of—
 
 &emsp;&emsp;"(A) the amount the Secretary determines to be necessary to make payments required by this section in that calendar year; or
 
@@ -120,11 +104,11 @@ Availability.—Amounts transferred to the Trust Fund under paragraph (1) shall 
 
 #### Wool Research and Promotion
 
-Pub. L. 113–79, title XII, §12316, Feb. 7, 2014, 128 Stat. 997, provided that:
+Pub. L. 113–79, title XII, §12316, Feb. 7, 2014, 128 Stat. 997, as amended by Pub. L. 115–334, title XII, §12604, Dec. 20, 2018, 132 Stat. 5006, provided that:
 
 "(a)
 
-In General.—Of the funds of the Commodity Credit Corporation, the Secretary \[of Agriculture\] shall use to provide grants described in section 506(d) of the Trade and Development Act of 2000 (7 U.S.C. 7101 note) \[section 506(d) of Pub. L. 106–200\] $2,250,000 for each of calendar years 2015 through 2019, to remain available until expended.
+In General.—Of the funds of the Commodity Credit Corporation, the Secretary \[of Agriculture\] shall use to provide grants described in section 506(d) of the Trade and Development Act of 2000 (7 U.S.C. 7101 note) \[section 506(d) of Pub. L. 106–200\] $2,250,000 for each of calendar years 2019 through 2023, to remain available until expended.
 
 "(b)
 

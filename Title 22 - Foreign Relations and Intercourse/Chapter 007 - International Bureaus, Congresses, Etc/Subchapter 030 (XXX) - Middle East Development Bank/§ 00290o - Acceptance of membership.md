@@ -1,6 +1,6 @@
 ### §290<i>o</i>. Acceptance of membership
 
-The President is hereby authorized to accept membership for the United States in the Bank for Economic Cooperation and Development in the Middle East and North Africa (in this subchapter referred to as the "Bank") provided for by the agreement establishing the Bank (in this subchapter referred to as the "Agreement"), signed on May 31, 1996.
+The President is hereby authorized to accept membership for the United States in the Bankfor Economic Cooperation and Development in the Middle East and North Africa (in this subchapter referred to as the "Bank") provided for by the agreement establishing the Bank (in this subchapter referred to as the "Agreement"), signed on May 31, 1996.
 
 (Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–179.)
 

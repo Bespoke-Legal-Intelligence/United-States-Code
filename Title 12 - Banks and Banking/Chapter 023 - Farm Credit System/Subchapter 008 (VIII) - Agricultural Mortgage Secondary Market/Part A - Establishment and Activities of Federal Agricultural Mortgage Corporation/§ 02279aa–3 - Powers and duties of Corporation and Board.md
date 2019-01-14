@@ -64,7 +64,7 @@ The Corporation shall be a body corporate and shall have the following powers:
 
 &emsp;(12) To acquire, hold, lease, mortgage or dispose of, at public or private sale, real and personal property, purchase or sell any securities or obligations, and otherwise exercise all the usual incidents of ownership of property necessary and convenient to the business of the Corporation.
 
-&emsp;(13) To purchase, hold, sell, or assign a qualified loan, to issue a guaranteed security, representing an interest in, or an obligation backed by, the qualified loan, and to perform all the functions and responsibilities of an agricultural mortgage marketing facility operating as a certified facility under this subchapter.
+&emsp;(13) To purchase, hold, sell, or assign a qualified loan, to issue a guaranteed security, representing an interest in, or an obligation backed by, the qualified loan, and to performall the functions and responsibilities of an agricultural mortgage marketing facility operating as a certified facility under this subchapter.
 
 &emsp;(14) To establish, acquire, and maintain affiliates (as such term is defined in section 2279aa–11(e) of this title) under applicable State laws to carry out any activities that otherwise would be performed directly by the Corporation under this subchapter.
 

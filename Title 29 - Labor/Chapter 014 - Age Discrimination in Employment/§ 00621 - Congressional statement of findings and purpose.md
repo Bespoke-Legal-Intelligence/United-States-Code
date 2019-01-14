@@ -32,7 +32,7 @@ Pub. L. 99–592, §1, Oct. 31, 1986, 100 Stat. 3342, provided that: "This Act \
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–256, §1, Apr. 6, 1978, 92 Stat. 189, provided that: "This Act \[amending sections 623, 624, 626, 631, 633a, and 634 of this title and sections 8335 and 8339 ofTitle 5, Government Organization and Employees, repealing section 3322 of Title 5, and enacting provisions set out as notes under sections 623, 626, 631, and 633a of this title\] may be cited as the 'Age Discrimination in Employment Act Amendments of 1978'."
+Pub. L. 95–256, §1, Apr. 6, 1978, 92 Stat. 189, provided that: "This Act \[amending sections 623, 624, 626, 631, 633a, and 634 of this title and sections 8335 and 8339 of Title 5, Government Organization and Employees, repealing section 3322 of Title 5, and enacting provisions set out as notes under sections 623, 626, 631, and 633a of this title\] may be cited as the 'Age Discrimination in Employment Act Amendments of 1978'."
 
 #### Short Title
 

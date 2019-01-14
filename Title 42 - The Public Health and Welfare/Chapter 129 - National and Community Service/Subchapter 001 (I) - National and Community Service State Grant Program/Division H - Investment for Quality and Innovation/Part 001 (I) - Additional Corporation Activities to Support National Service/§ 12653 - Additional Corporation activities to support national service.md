@@ -74,7 +74,7 @@ The Corporation may make grants to, and enter into contracts and cooperative agr
 
 #### (j) Call to Service Campaign
 
-Not later than 180 days after April 21, 2009, the Corporation shall conduct a nationwide "Call ToService" campaign, to encourage all people of the United States, regardless of age, race, ethnicity, religion, or economic status, to engage in full- or part-time national service, long- or short-term public service in the nonprofit sector or government, or volunteering. In conducting the campaign, the Corporation may collaborate with other Federal agencies and entities, State Commissions, Governors, nonprofit and faith-based organizations, businesses, institutions of higher education, elementary schools, and secondary schools.
+Not later than 180 days after April 21, 2009, the Corporation shall conduct a nationwide "Call To Service" campaign, to encourage all people of the United States, regardless of age, race, ethnicity, religion, or economic status, to engage in full- or part-time national service, long- or short-term public service in the nonprofit sector or government, or volunteering. In conducting the campaign, the Corporation may collaborate with other Federal agencies and entities, State Commissions, Governors, nonprofit and faith-based organizations, businesses, institutions of higher education, elementary schools, and secondary schools.
 
 #### (k) September 11th Day of Service
 
@@ -90,7 +90,7 @@ Not later than 180 days after April 21, 2009, the Corporation shall conduct a na
 
 &emsp;The Corporation may consult with and make grants or provide other forms of support to nonprofit organizations with expertise in representing families of victims of the September 11, 2001 terrorist attacks and other impacted constituencies, and in promoting the establishment of September 11 as an annually recognized National Day of Service and Remembrance.
 
-(Pub. L. 101–610, title I, §198, as added and amended Pub. L. 103–82, title I, §104(c), title IV, §405(p)(2), Sept. 21, 1993, 107 Stat. 840, 922; Pub. L. 103–304, §3(a), (b)(6), Aug. 23, 1994, 108 Stat. 1566, 1568; Pub. L. 105–354, §2(b), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 111–13, title I, §1802, Apr. 21, 2009, 123 Stat. 1552.)
+(Pub. L. 101–610, title I, §198, as added and amended Pub. L. 103–82, title I, §104(c), title IV, §405(p)(2), Sept. 21, 1993, 107 Stat. 840, 922; Pub. L. 103–304, §3(a), (b)(6), Aug. 23, 1994, 108 Stat. 1566,1568; Pub. L. 105–354, §2(b), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 111–13, title I, §1802, Apr. 21, 2009, 123 Stat. 1552.)
 
 #### References in Text
 
@@ -138,7 +138,7 @@ Amendment by section 405(p)(2) of Pub. L. 103–82 effective Apr. 4, 1994, see s
 
 #### Effective Date
 
-Division effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
 
 #### Executive Order No. 13560
 

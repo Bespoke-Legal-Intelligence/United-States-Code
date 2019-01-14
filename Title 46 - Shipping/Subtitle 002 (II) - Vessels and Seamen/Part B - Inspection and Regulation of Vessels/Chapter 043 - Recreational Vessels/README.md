@@ -13,12 +13,17 @@
 | [4309\.](%C2%A7%2004309%20-%20Investigation%20and%20reporting.md) | Investigation and reporting. |
 | [4310\.](%C2%A7%2004310%20-%20Repair%20and%20replacement%20of%20defects.md) | Repair and replacement of defects. |
 | [4311\.](%C2%A7%2004311%20-%20Penalties%20and%20injunctions.md) | Penalties and injunctions. |
+| [4312\.](%C2%A7%2004312%20-%20Engine%20cut-off%20switches.md) | Engine cut-off switches. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Historical and Revision Notes
 
 Chapter 43 contains the laws applicable to recreational vessels, which originated primarily with the enactment of the Federal Boat Safety Act of 1971 (Public Law 92–75, 85 Stat. 213). That Act embraced a number of activities, but the portion restated in this chapter deals with the establishment of national construction and performance standards for recreational vessels and their associated equipment, the necessary flexible regulatory authority for inspection and testing, Federal preemption, certain necessary prohibited acts, enforcement authority, investigation and reporting requirements, procedures for repair and defect notification, and attendant penalties and injunctive relief. These laws are a direct response to the dramatic increase in the number of recreational boats and the Congressional recognition of the maritime safety problems that recreational boating has imposed upon our more than 25 million miles of waterways.
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–282, title V, §503(b), Dec. 4, 2018, 132 Stat. 4271, added item 4312.
 
 
 ---
@@ -36,3 +41,4 @@ Chapter 43 contains the laws applicable to recreational vessels, which originate
 - [&sect; 04309 - Investigation and reporting](%C2%A7%2004309%20-%20Investigation%20and%20reporting.md)
 - [&sect; 04310 - Repair and replacement of defects](%C2%A7%2004310%20-%20Repair%20and%20replacement%20of%20defects.md)
 - [&sect; 04311 - Penalties and injunctions](%C2%A7%2004311%20-%20Penalties%20and%20injunctions.md)
+- [&sect; 04312 - Engine cut-off switches](%C2%A7%2004312%20-%20Engine%20cut-off%20switches.md)

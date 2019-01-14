@@ -66,7 +66,7 @@
 
 #### (1) In general
 
-&emsp;Dealers who fail to act according to the requirements of this section or who include falseinformation in the certification required under subsection (b), shall be subject to the penalties provided for under section 2149 of this title.
+&emsp;Dealers who fail to act according to the requirements of this section or who include false information in the certification required under subsection (b), shall be subject to the penalties provided for under section 2149 of this title.
 
 #### (2) Subsequent violations
 

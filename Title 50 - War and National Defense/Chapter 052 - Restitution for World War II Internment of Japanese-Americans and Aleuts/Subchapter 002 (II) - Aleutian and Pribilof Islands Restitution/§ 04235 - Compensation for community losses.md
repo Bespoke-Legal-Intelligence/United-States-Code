@@ -54,7 +54,7 @@ Subject to the availability of funds appropriated to the Fund, the Secretary sha
 
 #### (2) Review by the Secretary; deposit in the trust
 
-&emsp;The Secretary shall review the inventory and assessment provided under paragraph (1), and shall deposit in the trust established under subsection (b) an amount reasonably calculated by the Secretary to compensate affected Aleut villages for church property lost, damaged, or destroyed during World War II.
+&emsp;The Secretary shall review the inventory and assessment provided under paragraph (1),and shall deposit in the trust established under subsection (b) an amount reasonably calculated by the Secretary to compensate affected Aleut villages for church property lost, damaged, or destroyed during World War II.
 
 #### (3) Distribution of compensation
 

@@ -52,7 +52,7 @@ Pub. L. 111–281, title VI, §617(e), Oct. 15, 2010, 124 Stat. 2973, provided t
 
 "(1)
 
-Application.—An offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of title 46, United States Code, that is constructed under a contract entered into after the date of enactment of this Act \[Oct. 15, 2010\], or that is delivered after August 1, 2010, with an aggregate capacity of 600 cubic meters or more of oil fuel, shall comply with the requirements of Regulation 12A under Annex I to the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973, entitled Oil Fuel Tank Protection, regardless of whether such vessel is engaged in the coastwise trade or on an international voyage.
+Application.—An offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of title 46, United States Code, that is constructed under a contract entered into after the date of enactment of this Act \[Oct. 15, 2010\], or that is delivered after August 1, 2010, with an aggregate capacity of 600 cubic meters or more of oil fuel, shall comply with the requirements of Regulation 12A under Annex I to the Protocol of 1978relating to the International Convention for the Prevention of Pollution from Ships, 1973, entitled Oil Fuel Tank Protection, regardless of whether such vessel is engaged in the coastwise trade or on an international voyage.
 
 "(2)
 
@@ -64,7 +64,7 @@ Pub. L. 111–281, title VI, §617(f), Oct. 15, 2010, 124 Stat. 2974, as amended
 
 "(1)
 
-In general.—Not later than January 1, 2012, the Secretary of the department in which the Coast Guardis operating shall promulgate regulations to implement the amendments and authorities enacted by this section \[amending sections 2101, 3702, 7312, and 8104 of this title, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 2101 of this title\] for offshore supply vessels of at least 6,000 gross tons as measured under section 14302 of title 46, United States Code, and to ensure the safe carriage of oil, hazardous substances, and individuals in addition to the crew on such vessels. The final rule issued pursuant to such rulemaking may supersede the interim final rule promulgated under paragraph (2) of this subsection. In promulgating regulations under this subsection, the Secretary shall take into consideration the characteristics of offshore supply vessels, their methods of operation, and their service in support of exploration, exploitation, or production of offshore mineral or energy resources.
+In general.—Not later than January 1, 2012, the Secretary of the department in which the Coast Guard is operating shall promulgate regulations to implement the amendments and authorities enacted by this section \[amending sections 2101, 3702, 7312, and 8104 of this title, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 2101 of this title\] for offshore supply vessels of at least 6,000 gross tons as measured under section 14302 of title 46, United States Code, and to ensure the safe carriage of oil, hazardous substances, and individuals in addition to the crew on such vessels. The final rule issued pursuant to such rulemaking may supersede the interim final rule promulgated under paragraph (2) of this subsection. In promulgating regulations under this subsection, the Secretary shall take into consideration the characteristics of offshore supply vessels, their methods of operation, and their service in support of exploration, exploitation, or production of offshore mineral or energy resources.
 
 "(2)
 
@@ -312,7 +312,7 @@ Prince william sound, alaska.—
 
 &emsp;&emsp;"(A)
 
-In general.—The requirement in paragraph (1) relating to single hulled tankers in Prince William Sound, Alaska, described in that paragraph being escorted by at least 2 towing vessels or other vessels considered to be appropriate by the Secretary (including regulations promulgated in accordance with section 3703(a)(3) of title 46, United States Code, as set forth in part 168 of title 33, Code of Federal Regulations (as in effect on March 1, 2009) implementing this subsection with respect to those tankers) shall apply to double hulled tankers over 5,000 gross tons transporting oil in bulk in Prince William Sound, Alaska.
+In general.—The requirement in paragraph (1) relating to single hulled tankers in Prince William Sound, Alaska, described in that paragraph being escorted by at least 2 towing vessels or other vessels considered to be appropriate by the Secretary (including regulations promulgated in accordance with section 3703(a)(3) of title 46, United States Code, as set forth in part 168 of title 33, Code of Federal Regulations (as in effect on March 1,2009) implementing this subsection with respect to those tankers) shall apply to double hulled tankers over 5,000 gross tons transporting oil in bulk in Prince William Sound, Alaska.
 
 &emsp;&emsp;"(B)
 

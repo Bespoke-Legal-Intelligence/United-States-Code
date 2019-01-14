@@ -44,7 +44,7 @@ Agency information.—
 
 &emsp;&emsp;(C)
 
-Investment evaluation.—For each major information technology investment listed under subparagraph (A), the Chief Information Officer of the covered agency, in consultation with other appropriate agency officials, shall categorize the investment according to risk, in accordance with guidance issued by the Director.
+Investment evaluation.—For each major information technology investment listed under subparagraph (A), the Chief Information Officer of the covered agency, in consultation with other appropriate agencyofficials, shall categorize the investment according to risk, in accordance with guidance issued by the Director.
 
 &emsp;&emsp;(D)
 
@@ -234,7 +234,7 @@ GAO Report.—Not later than one year after the date on which the regulations re
 
 Definitions.—In this section:
 
-&emsp;"(1) The term 'executive agency' has the meaning given that term in section 4(1) of the Office of Federal Procurement Policy Act (former 41 U.S.C. 403(1)) \[now 41 U.S.C. 133\].
+&emsp;"(1) The term 'executive agency' has the meaning given that term in section 4(1) of the Office of FederalProcurement Policy Act (former 41 U.S.C. 403(1)) \[now 41 U.S.C. 133\].
 
 &emsp;"(2) The term 'information technology' has the meaning given that term in section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3)) \[now 40 U.S.C. 11101(6)\].
 

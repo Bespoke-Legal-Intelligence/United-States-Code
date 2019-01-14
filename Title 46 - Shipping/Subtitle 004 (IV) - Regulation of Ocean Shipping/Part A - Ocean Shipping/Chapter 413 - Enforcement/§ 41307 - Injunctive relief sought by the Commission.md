@@ -10,7 +10,7 @@ Reduction in Competition.—
 
 &emsp;(1)
 
-Action by commission.—If, at any time after the filing or effective date of an agreement under chapter 403 of this title, the Commission determines that the agreement is likely, by a reduction in competition, to produce an unreasonable reduction in transportation service or an unreasonable increase in transportation cost, the Commission, after notice to the person filing the agreement, may bring a civil action in the United States District Court for the District of Columbia to enjoin the operation of the agreement. The Commission's sole remedy with respect to an agreement likely to have such an effect is an action under this subsection.
+Action by commission.—If, at any time after the filing or effective date of an agreement under chapter 403 of this title, the Commission determines that the agreement is likely, by a reduction in competition, to produce an unreasonable reduction in transportation service or an unreasonable increase in transportation cost or to substantially lessen competition in the purchasing of certain covered services, the Commission, after notice to the person filing the agreement, may bring a civil action in the United States District Court for the District of Columbia to enjoin the operation of the agreement. The Commission's sole remedy with respect to an agreement likely to have such an effect is an action under this subsection.
 
 &emsp;(2)
 
@@ -23,6 +23,10 @@ Remedies by court.—In an action under this subsection, the court may issue—
 &emsp;(3)
 
 Burden of proof and third parties.—In an action under this subsection, the burden of proof is on the Commission. The court may not allow a third party to intervene.
+
+&emsp;(4)
+
+Competition factors.—In making a determination under this subsection regarding whether an agreement is likely to substantially lessen competition in the purchasing of certain covered services, the Commission may consider any relevant competition factors in affected markets, including, without limitation, the competitive effect of agreements other than the agreement under review.
 
 (c)
 
@@ -42,7 +46,7 @@ Representation.—The Commission may represent itself in a proceeding under this
 
 &emsp;(2) a court of appeals of the United States, with the approval of the Attorney General.
 
-(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1547.)
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1547; Pub. L. 115–282, title VII, §710(a), Dec. 4, 2018, 132 Stat. 4297.)
 
 Historical and Revision Notes
 
@@ -85,4 +89,14 @@ Pub. L. 98–237, §6(g)–(i), (k), Mar. 20, 1984, 98 Stat. 72, 73.
 41307(d)
 
 46 App.:1705(k).
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–282, §710(a)(1), inserted "or to substantially lessen competition in the purchasing of certain covered services" after "transportation cost".
+
+Subsec. (b)(4). Pub. L. 115–282, §710(a)(2), added par. (4).
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–282, title VII, §710(b), Dec. 4, 2018, 132 Stat. 4297, provided that: "Section 41307(b) of title 46, United States Code, as amended, shall apply to any agreement filed or with an effective date before, on, or after the date of enactment of this Act \[Dec. 4, 2018\]."
 

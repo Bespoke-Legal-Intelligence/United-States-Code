@@ -22,7 +22,7 @@
 
 &emsp;(B) the term "other service" includes any wire or radio communications service provided using any of the facilities of a cable operator that are used in the provision of cable service; and
 
-&emsp;(C) the term "cable operator" includes, in addition to persons within the definition of cable operator in section 522 of this title, any person who (i) is owned or controlled by, or under common ownership or control with, a cable operator, and (ii) provides any wire or radio communications service.
+&emsp;(C) the term "cable operator" includes, in addition to persons within the definition ofcable operator in section 522 of this title, any person who (i) is owned or controlled by, or under common ownership or control with, a cable operator, and (ii) provides any wire or radio communications service.
 
 #### (b) Collection of personally identifiable information using cable system
 

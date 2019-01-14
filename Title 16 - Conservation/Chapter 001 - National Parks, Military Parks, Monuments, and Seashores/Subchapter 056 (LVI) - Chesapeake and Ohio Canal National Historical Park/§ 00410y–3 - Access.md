@@ -10,7 +10,7 @@ Other uses of park lands, and utility, highway, and railway crossings, may be au
 
 #### (c) Crossing by foot at designated locations; purposes; conduct
 
-Authority is hereby granted for individuals to cross the park by foot at locations designated by the Secretary for the purpose of gaining access to the Potomac River or to non-Federal landsfor hunting purposes: <i>Provided</i>, That while such individuals are within the boundaries of the park firearms shall be unloaded, bows unstrung, and dogs on leash.
+Authority is hereby granted for individuals to cross the park by foot at locations designated by the Secretary for the purpose of gaining access to the Potomac River or to non-Federal lands for hunting purposes: <i>Provided</i>, That while such individuals are within the boundaries of the park firearms shall be unloaded, bows unstrung, and dogs on leash.
 
 (Pub. L. 91–664, §5, Jan. 8, 1971, 84 Stat. 1979.)
 

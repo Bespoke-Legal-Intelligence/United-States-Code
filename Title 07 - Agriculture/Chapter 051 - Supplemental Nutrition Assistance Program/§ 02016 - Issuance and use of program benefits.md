@@ -24,7 +24,7 @@ The Secretary shall prescribe appropriate procedures for the delivery of benefit
 
 #### (e) State issuance liability
 
-Notwithstanding any other provision of this chapter, the State agency shall be strictly liableto the Secretary for any financial losses involved in the acceptance, storage and issuance of benefits, except that in the case of losses resulting from the issuance and replacement of authorizations for benefits which are sent through the mail, the State agency shall be liable to the Secretary to the extent prescribed in the regulations promulgated by the Secretary.
+Notwithstanding any other provision of this chapter, the State agency shall be strictly liable to the Secretary for any financial losses involved in the acceptance, storage and issuance of benefits, except that in the case of losses resulting from the issuance and replacement of authorizations for benefits which are sent through the mail, the State agency shall be liable to the Secretary to the extent prescribed in the regulations promulgated by the Secretary.
 
 #### (f) Alternative benefit delivery
 
@@ -94,6 +94,16 @@ Notwithstanding any other provision of this chapter, the State agency shall be s
 
 &emsp;&emsp;&emsp;In issuing regulations to carry out this paragraph, the Secretary shall consider existing commercial practices for other point-of-sale debit transactions.
 
+#### (C) Operation of individual point of sale device by farmers' markets and direct marketing farmers
+
+&emsp;&emsp;A farmers' market or direct marketing farmer that is exempt under paragraph (2)(B)(i) shall be allowed to operate an individual electronic benefit transfer point of sale device at more than 1 location under the same supplemental nutrition assistance program authorization, if—
+
+&emsp;&emsp;&emsp;(i) the farmers' market or direct marketing farmer provides to the Secretary information on location and hours of operation at each location; and
+
+&emsp;&emsp;&emsp;(ii)(I) the point of sale device used by the farmers' market or direct marketing farmer is capable of providing location information of the device through the electronic benefit transfer system; or
+
+&emsp;&emsp;&emsp;(II) if the Secretary determines that the technology is not available for a point of sale device to meet the requirement under subclause (I), the farmers' market or direct marketing farmer provides to the Secretary any other information, as determined by the Secretary, necessary to ensure the integrity of transactions processed using the point of sale device.
+
 #### (g) Staggered issuance procedures
 
 (1) The State agency may establish a procedure for staggering the issuance of benefits to eligible households throughout the month. Upon the request of the tribal organization that exercises governmental jurisdiction over the reservation, the State agency shall stagger the issuance of benefits for eligible households located on reservations for at least 15 days of a month.
@@ -112,7 +122,7 @@ In general.—Any procedure established under paragraph (1) shall—
 
 &emsp;(B)
 
-Multiple issuances.—The procedure may include issuing benefits to a household inmore than 1 issuance during a month only when a benefit correction is necessary.
+Multiple issuances.—The procedure may include issuing benefits to a household in more than 1 issuance during a month only when a benefit correction is necessary.
 
 #### (h) Electronic benefit transfers
 
@@ -142,7 +152,7 @@ Operation.—An electronic benefit transfer system should take into account gene
 
 &emsp;&emsp;(iii) the need to permit monitoring and investigations by authorized law enforcement agencies.
 
-(2) The Secretary shall issue final regulations that establish standards for the approval of such a system. The standards shall include—
+(2) The Secretary shall issue final regulations that establish standards for the approval of such a system and shall periodically review such regulations and modify such regulations to take into account evolving technology and comparable industry standards. The standards shall include—
 
 &emsp;(A) defining the required level of recipient protection regarding privacy, ease of use, and access to and service in retail food stores;
 
@@ -150,7 +160,7 @@ Operation.—An electronic benefit transfer system should take into account gene
 
 &emsp;(C)(i) measures to maximize the security of a system using the most recent technology available that the State agency considers appropriate and cost effective and which may include personal identification numbers, photographic identification on electronic benefit transfer cards, and other measures to protect against fraud and abuse; and
 
-&emsp;(ii) unless determined by the Secretary to be located in an area with significantly limited access to food, measures that require an electronic benefit transfer system—
+&emsp;(ii) unless determined by the Secretary to be located in an area with significantly limitedaccess to food, measures that require an electronic benefit transfer system—
 
 &emsp;&emsp;(I) to set and enforce sales restrictions based on benefit transfer payment eligibility by using scanning or product lookup entry; and
 
@@ -204,7 +214,7 @@ Requirements.—The terms and conditions established by the Secretary shall prov
 
 &emsp;&emsp;&emsp;(I) the household be given the opportunity to provide the requested explanation and meet the requirements under this paragraph promptly;
 
-&emsp;&emsp;&emsp;(II) after an excessive number of lost cards, the head of the household shall be required to review program rights and responsibilities with State agency personnelauthorized to make determinations under section 2014(a) of this title; and
+&emsp;&emsp;&emsp;(II) after an excessive number of lost cards, the head of the household shall be required to review program rights and responsibilities with State agency personnel authorized to make determinations under section 2014(a) of this title; and
 
 &emsp;&emsp;&emsp;(III) any action taken, including actions required under section 2015(b)(2) of this title, other than the withholding of the electronic benefit transfer card until an explanation described in subclause (I) is provided, shall be consistent with the due process protections under section 2015(b) or 2020(e)(10) of this title, as appropriate.
 
@@ -280,15 +290,41 @@ Recovering electronic benefits.—
 
 &emsp;(A)
 
-In general.—A State agency shall establish a procedure for recovering electronic benefits from the account of a household due to inactivity.
+In general.—A State agency shall establish a procedure for recovering electronic benefits from the account of a household due to inactivity, or due to the death of all members of the household.
 
 &emsp;(B)
 
-Benefit storage.—A State agency may store recovered electronic benefits off-line in accordance with subparagraph (D), if the household has not accessed the account after 6 months.
+Benefit storage.—
+
+&emsp;&emsp;(i)
+
+In general.—A State agency may store recovered electronic benefits off-line in accordance with clause (ii), if the household has not accessed the account after 3 months.
+
+&emsp;&emsp;(ii)
+
+Notice of benefit storage.—A State agency shall—
+
+&emsp;&emsp;&emsp;(I) send notice to a household the benefits of which are stored under clause (i); and
+
+&emsp;&emsp;&emsp;(II) not later than 48 hours after request by the household, make the stored benefits available to the household.
 
 &emsp;(C)
 
-Benefit expunging.—A State agency shall expunge benefits that have not been accessed by a household after a period of 12 months.
+Benefit expunging.—
+
+&emsp;&emsp;(i)
+
+In general.—Subject to clause (ii), a State agency shall expunge benefits that have not been accessed by a household after a period of 9 months, or upon verification that all members of the household are deceased.
+
+&emsp;&emsp;(ii)
+
+Notice of benefit expunging.—Not later than 30 days before benefits are to be expunged under clause (i), a State agency shall—
+
+&emsp;&emsp;&emsp;(I) provide sufficient notice to the household that benefits will be expunged due to inactivity, and the date upon which benefits will be expunged;
+
+&emsp;&emsp;&emsp;(II) for benefits stored off-line in accordance with subparagraph (B), provide the household an opportunity to request that such benefits be restored to the household; and
+
+&emsp;&emsp;&emsp;(III) not later than 48 hours after request by the household, make the benefits available to the household.
 
 &emsp;(D)
 
@@ -300,7 +336,15 @@ Notice.—A State agency shall—
 
 (13)
 
+Fees.—
+
+&emsp;(A)
+
 Interchange fees.—No interchange fees shall apply to electronic benefit transfer transactions under this subsection.
+
+&emsp;(B)
+
+Other fees.—Effective through fiscal year 2023, neither a State, nor any agent, contractor, or subcontractor of a State who facilitates the provision of supplemental nutrition assistance program benefits in such State may impose a fee for switching (as defined in subsection (j)(1)(H)) or routing such benefits.
 
 (14)
 
@@ -308,47 +352,55 @@ Mobile technologies.—
 
 &emsp;(A)
 
-In general.—Subject to subparagraph (B), the Secretary shall approve retail food stores to redeem benefits through electronic means other than wired point of sale devices for electronic benefit transfer transactions, if the retail food stores—
-
-&emsp;&emsp;(i) establish recipient protections regarding privacy, ease of use, access, and support similar to the protections provided for transactions made in retail food stores;
-
-&emsp;&emsp;(ii) bear the costs of obtaining, installing, and maintaining mobile technologies, including mechanisms needed to process EBT cards and transaction fees;
-
-&emsp;&emsp;(iii) demonstrate the foods purchased with benefits issued under this section through mobile technologies are purchased at a price not higher than the price of the same food purchased by other methods used by the retail food store, as determined by the Secretary;
-
-&emsp;&emsp;(iv) provide adequate documentation for each authorized transaction, as determined by the Secretary; and
-
-&emsp;&emsp;(v) meet other criteria as established by the Secretary.
+In general.—Subject to subparagraph (B), the Secretary shall authorize the use of mobile technologies for the purpose of accessing supplemental nutrition assistance program benefits.
 
 &emsp;(B)
 
-Demonstration project on acceptance of benefits of mobile transactions.—
+Demonstration projects on access of benefits through mobile technologies.—
 
 &emsp;&emsp;(i)
 
-In general.—Before authorizing implementation of subparagraph (A) in all States, the Secretary shall pilot the use of mobile technologies determined by the Secretary to be appropriate to test the feasibility and implications for program integrity, by allowing retail food stores to accept benefits from recipients of supplemental nutrition assistance through mobile transactions.
+Demonstration projects.—Before authorizing implementation of subparagraph (A) in all States, the Secretary shall approve not more than 5 demonstration project proposals submitted by State agencies that will pilot the use of mobile technologies for supplemental nutrition assistance program benefits access.
 
 &emsp;&emsp;(ii)
 
-Demonstration projects.—To be eligible to participate in a demonstration project under clause (i), a retail food store shall submit to the Secretary for approval a plan that includes—
+Project requirements.—To be eligible to participate in a demonstration project under clause (i), a State agency shall submit to the Secretary for approval a plan that—
 
-&emsp;&emsp;&emsp;(I) a description of the technology;
+&emsp;&emsp;&emsp;(I) provides recipient protections regarding privacy, ease of use, household access to benefits, and support similar to the protections provided under existing methods;
 
-&emsp;&emsp;&emsp;(II) the manner by which the retail food store will provide proof of the transaction to households;
+&emsp;&emsp;&emsp;(II) ensures that all recipients, including those without access to mobile payment technology and those who shop across State borders, have a means of benefit access;
 
-&emsp;&emsp;&emsp;(III) the provision of data to the Secretary, consistent with requirements established by the Secretary, in a manner that allows the Secretary to evaluate the impact of the demonstration on participant access, ease of use, and program integrity; and
+&emsp;&emsp;&emsp;(III) requires retail food stores, unless exempt under section 2016(f)(2)(B) of this title, to bear the costs of acquiring and arranging for the implementation of point-of-sale equipment and supplies for the redemption of benefits that are accessed through mobile technologies;
 
-&emsp;&emsp;&emsp;(IV) such other criteria as the Secretary may require.
+&emsp;&emsp;&emsp;(IV) requires that foods purchased with benefits issued under this section through mobile technologies are purchased at a price not higher than the price of the same food purchased by other methods used by the retail food store, as determined by the Secretary;
+
+&emsp;&emsp;&emsp;(V) ensures adequate documentation for each authorized transaction, adequate security measures to deter fraud, and adequate access to retail food stores that accept benefits accessed through mobile technologies, as determined by the Secretary;
+
+&emsp;&emsp;&emsp;(VI) provides for an evaluation of the demonstration project, including, but not limited to, an evaluation of household access to benefits;
+
+&emsp;&emsp;&emsp;(VII) requires that the State demonstration projects are voluntary for all retail food stores and that all recipients are able to use benefits in non-participating retail food stores; and
+
+&emsp;&emsp;&emsp;(VIII) meets other criteria as established by the Secretary.
 
 &emsp;&emsp;(iii)
 
-Date of completion.—The demonstration projects under this subparagraph shall be completed and final reports submitted to the Secretary by not later than July 1, 2016.
+Priority.—The Secretary may prioritize demonstration project proposals that would—
+
+&emsp;&emsp;&emsp;(I) reduce fraud;
+
+&emsp;&emsp;&emsp;(II) encourage positive nutritional outcomes; and
+
+&emsp;&emsp;&emsp;(III) meet such other criteria as determined by the Secretary.
+
+&emsp;&emsp;(iv)
+
+Date of project approval.—The Secretary shall solicit and approve the qualifying demonstration projects required under subparagraph (B)(i) not later than January 1, 2021.
 
 &emsp;(C)
 
 Report to congress.—The Secretary shall—
 
-&emsp;&emsp;(i) by not later than January 1, 2017, authorize implementation of subparagraph (A) in all States, unless the Secretary makes a finding, based on the data provided under subparagraph (B), that implementation in all States is not in the best interest of the supplemental nutrition assistance program; and
+&emsp;&emsp;(i) by not later than January 1, 2022, authorize implementation of subparagraph (A) in all States, unless the Secretary makes a finding, based on the data provided under subparagraph (B), that implementation in all States requires further study by way of an extended pilot period or is not in the best interest of the supplemental nutrition assistance program; and
 
 &emsp;&emsp;(ii) if the determination made in clause (i) is not to implement subparagraph (A) in all States, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate that includes the basis of the finding.
 
@@ -432,7 +484,7 @@ Report to congress.—The Secretary shall—
 
 #### (H) Switching
 
-&emsp;&emsp;The term "switching" means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in 1 State to the issuer of the card that is in another State.
+&emsp;&emsp;The term "switching" means the routing of an intrastate or interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in one State to the issuer of the card that may be in the same or different State.
 
 #### (2) Requirement
 
@@ -488,7 +540,7 @@ Report to congress.—The Secretary shall—
 
 &emsp;&emsp;The total amount paid to State agencies for each fiscal year under subparagraph (A) shall not exceed $500,000.
 
-#### (k) Option to accept program benefits through on-line transactions
+#### (k) Acceptance of program benefits through online transactions
 
 #### (1) In general
 
@@ -538,19 +590,7 @@ Report to congress.—The Secretary shall—
 
 &emsp;&emsp;&emsp;(vi) such other criteria, including security criteria, as established by the Secretary.
 
-#### (C) Date of completion
-
-&emsp;&emsp;The demonstration projects under this paragraph shall be completed and final reports submitted to the Secretary by not later than July 1, 2016.
-
-#### (5) Report to Congress
-
-&emsp;The Secretary shall—
-
-&emsp;&emsp;(A) by not later than January 1, 2017, authorize implementation of paragraph (1) in all States, unless the Secretary makes a finding, based on the data provided under paragraph (4), that implementation in all States is not in the best interest of the supplemental nutrition assistance program; and
-
-&emsp;&emsp;(B) if the determination made in subparagraph (A) is not to implement in all States, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate that includes the basis of the finding.
-
-(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216; Pub. L. 106–171, §3, Feb. 11, 2000, 114 Stat. 3; Pub. L. 107–171, title IV, §4110, May 13, 2002, 116 Stat. 309; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(4), 4113–4115(a), May 22, 2008, 122 Stat. 1092, 1093, 1103; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(4), 4113–4115(a), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1864, 1865; Pub. L. 111–203, title X, §1075(b), July 21, 2010, 124 Stat. 2074; Pub. L. 113–79, title IV, §§4002(b)–(d), 4010–4011(b)(2)(A), 4030(e), Feb. 7, 2014, 128 Stat. 783, 784, 789–792, 814.)
+(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216; Pub. L. 106–171, §3, Feb. 11, 2000, 114 Stat. 3; Pub. L. 107–171, title IV, §4110, May 13, 2002, 116 Stat. 309; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(4), 4113–4115(a), May 22, 2008, 122 Stat. 1092, 1093, 1103; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(4), 4113–4115(a), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1864, 1865; Pub. L. 111–203, title X, §1075(b), July 21, 2010, 124 Stat. 2074; Pub. L. 113–79, title IV, §§4002(b)–(d), 4010–4011(b)(2)(A), 4030(e), Feb. 7, 2014, 128 Stat. 783, 784, 789–792, 814; Pub. L. 115–334, title IV, §§4001(b), 4006(a)–(e), Dec. 20, 2018, 132 Stat. 4624, 4634, 4635.)
 
 #### References in Text
 
@@ -561,6 +601,58 @@ The date of enactment of the Food, Conservation, and Energy Act of 2008, referre
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f)(5)(C). Pub. L. 115–334, §4006(a), added subpar. (C).
+
+Subsec. (h)(2). Pub. L. 115–334, §4006(b), in introductory provisions, inserted "and shall periodically review such regulations and modify such regulations to take into account evolving technology and comparable industry standards" after "such a system".
+
+Subsec. (h)(12)(A). Pub. L. 115–334, §4006(c)(1), inserted ", or due to the death of all members of the household" after "due to inactivity".
+
+Subsec. (h)(12)(B), (C). Pub. L. 115–334, §4006(c)(2), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+
+"(B)
+
+Benefit storage.—A State agency may store recovered electronic benefits off-line in accordance with subparagraph (D), if the household has not accessed the account after 6 months.
+
+"(C)
+
+Benefit expunging.—A State agency shall expunge benefits that have not been accessed by a household after a period of 12 months."
+
+Subsec. (h)(13). Pub. L. 115–334, §4006(d)(1), amended par. (13) generally. Prior to amendment, text read as follows: "No interchange fees shall apply to electronic benefit transfer transactions under this subsection."
+
+Subsec. (h)(14)(A). Pub. L. 115–334, §4006(e)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to redemption of benefits by retail food stores through electronic means other than wired point of sale devices for electronic benefit transfer transactions, if certain criteria had been met.
+
+Subsec. (h)(14)(B). Pub. L. 115–334, §4006(e)(2)(A), substituted "Demonstration projects on access of benefits through mobile technologies" for "Demonstration project on acceptance of benefits of mobile transactions" in heading.
+
+Subsec. (h)(14)(B)(i). Pub. L. 115–334, §4006(e)(2)(B), amended cl. (i) generally. Prior to amendment, text read as follows: "Before authorizing implementation of subparagraph (A) in all States, the Secretary shall pilot the use of mobile technologies determined by the Secretary to be appropriate to test the feasibility and implications for program integrity, by allowing retail food stores to accept benefits from recipients of supplemental nutrition assistance through mobile transactions."
+
+Subsec. (h)(14)(B)(ii). Pub. L. 115–334, §4006(e)(2)(C)(i)–(iii), in heading substituted "Project requirements" for "Demonstration projects" and, in introductory provisions, substituted "State agency" for "retail food store" and struck out "includes" after "a plan that".
+
+Subsec. (h)(14)(B)(ii)(I) to (VIII). Pub. L. 115–334, §4006(e)(2)(C)(iv), added subcls. (I) to (VIII) and struck out former subcls. (I) to (IV) which read as follows:
+
+"(I) a description of the technology;
+
+"(II) the manner by which the retail food store will provide proof of the transaction to households;
+
+"(III) the provision of data to the Secretary, consistent with requirements established by the Secretary, in a manner that allows the Secretary to evaluate the impact of the demonstration on participant access, ease of use, and program integrity; and
+
+"(IV) such other criteria as the Secretary may require."
+
+Subsec. (h)(14)(B)(iii), (iv). Pub. L. 115–334, §4006(e)(2)(D), (E), added cl. (iii) and amended former cl. (iii) generally, which general amendment also redesignated former cl. (iii) as (iv). Prior to amendment, text of cl. (iii) read as follows: "The demonstration projects under this subparagraph shall be completed and final reports submitted to the Secretary by not later than July 1, 2016."
+
+Subsec. (h)(14)(C)(i). Pub. L. 115–334, §4006(e)(3), substituted "2022" for "2017" and inserted "requires further study by way of an extended pilot period or" before "is not in the best interest".
+
+Subsec. (j)(1)(H). Pub. L. 115–334, §4006(d)(2), amended subpar. (H) generally. Prior to amendment, text read as follows: "The term 'switching' means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in 1 State to the issuer of the card that is in another State."
+
+Subsec. (k). Pub. L. 115–334, §4001(b)(1), substituted "Acceptance of program benefits through online transactions" for "Option to accept program benefits through on-line transactions" in heading.
+
+Subsec. (k)(4)(C). Pub. L. 115–334, §4001(b)(2), struck out subpar. (C). Text read as follows: "The demonstration projects under this paragraph shall be completed and final reports submitted to the Secretary by not later than July 1, 2016."
+
+Subsec. (k)(5). Pub. L. 115–334, §4001(b)(3), struck out par. (5). Text read as follows: "The Secretary shall—
+
+&emsp;"(A) by not later than January 1, 2017, authorize implementation of paragraph (1) in all States, unless the Secretary makes a finding, based on the data provided under paragraph (4), that implementation in all States is not in the best interest of the supplemental nutrition assistance program; and
+
+&emsp;"(B) if the determination made in subparagraph (A) is not to implement in all States, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate that includes the basis of the finding."
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–79, §4011(b)(2)(A), substituted "purchase food from retail food stores" for "purchase food in retail food stores".
 
@@ -700,7 +792,7 @@ Subsec. (h). Pub. L. 99–198, §1518, added subsec. (h).
 
 Subsec. (g). Pub. L. 97–253, §162, added subsec. (g).
 
-<b>1981</b>—Subsec. (f). Pub. L. 97–98 substituted "strictly liable" for "responsible" and inserted provision including any losses involving failure of a coupon issuer to comply with the requirements of section 2020(e)(21) of this title, except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments sent through the mail, State agency liability be to the extent prescribed in regulations.
+<b>1981</b>—Subsec. (f). Pub. L. 97–98 substituted "strictly liable" for "responsible" and inserted provision including any losses involving failure of a coupon issuer to comply with the requirements of section 2020(e)(21) ofthis title, except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments sent through the mail, State agency liability be to the extent prescribed in regulations.
 
 <b>1977</b>—Pub. L. 95–113 substituted revised provisions relating to issuance and use of coupons for provisions relating to value of the coupon allotment which are now covered by section 2017 of this title.
 
@@ -738,7 +830,7 @@ Amendment by section 1728 of Pub. L. 101–624 effective and implemented first d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–435 effective Jan. 1, 1989, except with regard to those States not implementingsection 203(a) of Pub. L. 100–435 (amending section 2017 of this title), see section 701(b)(3)(B) of Pub. L. 100–435, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 100–435 effective Jan. 1, 1989, except with regard to those States not implementing section 203(a) of Pub. L. 100–435 (amending section 2017 of this title), see section 701(b)(3)(B) of Pub. L. 100–435, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -826,7 +918,7 @@ Pub. L. 106–171, §4, Feb. 11, 2000, 114 Stat. 6, as amended by Pub. L. 110–
 
 #### Suspension of Staggered Issuance of Food Stamp Coupons
 
-Pub. L. 102–237, title IX, §908(a)(1), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, §1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, §1, Dec. 17, 1993, 107 Stat. 2418, provided that no State agency be required to implement 7 U.S.C. 2016(h)(1), regarding staggering of issuance of food stamp coupons, until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring staggered issuance of coupons no laterthan Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, §104(a), Mar. 25, 1994, 108 Stat. 107.
+Pub. L. 102–237, title IX, §908(a)(1), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, §1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, §1, Dec. 17, 1993, 107 Stat. 2418, provided that no State agency be required to implement 7 U.S.C. 2016(h)(1), regarding staggering of issuance of food stamp coupons, until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring staggered issuance of coupons no later than Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, §104(a), Mar. 25, 1994, 108 Stat. 107.
 
 #### Food Stamp Coupons, Cost Increase Suspension
 

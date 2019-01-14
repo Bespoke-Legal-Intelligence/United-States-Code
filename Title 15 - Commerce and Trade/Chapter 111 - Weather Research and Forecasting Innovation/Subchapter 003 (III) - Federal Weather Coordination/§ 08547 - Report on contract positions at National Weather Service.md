@@ -22,7 +22,7 @@ The report required by subsection (a) shall include, with respect to the most re
 
 &emsp;(7) The average salary for full-time equivalent contractors performing at each equivalent level of the General Schedule at the National Weather Service.
 
-&emsp;(8) A description of any actions taken by the Under Secretary to respond to the issues raised by the Inspector General of the Department of Commerce regarding the hiring of former National Oceanic and Atmospheric Administration employees as contractors at the National Weather Service such as the issues raised in the Investigative Report dated June 2, 2015 (OIG–12–0447).
+&emsp;(8) A description of any actions taken by the Under Secretary to respond to the issues raised by the Inspector General of the Department of Commerce regarding the hiring offormer National Oceanic and Atmospheric Administration employees as contractors at the National Weather Service such as the issues raised in the Investigative Report dated June 2, 2015 (OIG–12–0447).
 
 #### (c) Annual publication
 

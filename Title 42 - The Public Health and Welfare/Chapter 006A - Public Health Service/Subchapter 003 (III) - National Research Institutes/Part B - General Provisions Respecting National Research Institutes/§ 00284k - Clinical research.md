@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director of National Institutes of Health shall undertake activities to support and expand the involvement of the National Institutes of Health in clinical research.
+The Director of National Institutes of Health shall undertake activities to support and expandthe involvement of the National Institutes of Health in clinical research.
 
 #### (b) Requirements
 

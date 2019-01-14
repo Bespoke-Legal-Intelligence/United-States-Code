@@ -66,9 +66,21 @@ Soundproofing and acquisition of certain residential buildings and properties.�
 
 &emsp;(C) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to carry out any part of a program developed before February 18, 1980, or before implementing regulations were prescribed, if the Secretary decides the program is substantially consistent with reducing existing noncompatible uses and preventing the introduction of additional noncompatible uses and the purposes of this chapter will be furthered by promptly carrying out the program;
 
-&emsp;(D) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof a building in the noise impact area surrounding the airport that is used primarily for educationalor medical purposes and that the Secretary decides is adversely affected by airport noise; and
+&emsp;(D) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof a building in the noise impact area surrounding the airport that is used primarily for educational or medical purposes and that the Secretary decides is adversely affected by airport noise;
 
-&emsp;(E) to an airport operator of a congested airport (as defined in section 47175) and a unit of local government referred to in paragraph (1)(B) of this subsection to carry out a project to mitigate noise in the area surrounding the airport if the project is included as a commitment in a record of decision of the Federal Aviation Administration for an airport capacity enhancement project (as defined in section 47175) even if that airport has not met the requirements of part 150 of title 14, Code of Federal Regulations.
+&emsp;(E) to an airport operator of a congested airport (as defined in section 47175) and a unit of local government referred to in paragraph (1)(B) of this subsection to carry out a project to mitigate noise in the area surrounding the airport if the project is included as a commitment in a record of decision of the Federal Aviation Administration for an airport capacity enhancement project (as defined in section 47175) even if that airport has not met the requirements of part 150 of title 14, Code of Federal Regulations; and
+
+&emsp;(F) to an airport operator of a congested airport (as defined in section 47175) and a unit of local government referred to in paragraph (1)(B) to carry out a project to mitigate noise, if the project—
+
+&emsp;&emsp;(i) consists of—
+
+&emsp;&emsp;&emsp;(I) replacement windows, doors, and the installation of through-the-wall air conditioning units; or
+
+&emsp;&emsp;&emsp;(II) a contribution of the equivalent costs to be used for reconstruction if reconstruction is the preferred local solution;
+
+&emsp;&emsp;(ii) is located at a school near the airport; and
+
+&emsp;&emsp;(iii) is included in a memorandum of agreement entered into before September 30, 2002, even if the airport has not met the requirements of part 150 of title 14, Code of Federal Regulations, and only if the financial limitations of the memorandum are applied.
 
 (3) An airport operator may agree to make a grant made under paragraph (1)(A) of this subsection available to a public agency in the area surrounding the airport if the Secretary decides the agency is able to carry out the project.
 
@@ -118,7 +130,7 @@ Receipts credited as offsetting collections.—Notwithstanding section 3302 of t
 
 Determination of Fair Market Value of Residential Properties.—In approving a project to acquire residential real property using financial assistance made available under this section or chapter 471, the Secretary shall ensure that the appraisal of the property to be acquired disregards any decrease or increase in the fair market value of the real property caused by the project for which the property is to be acquired, or by the likelihood that the property would be acquired for the project, other than that due to physical deterioration within the reasonable control of the owner.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1285; Pub. L. 103–305, title I, §119, Aug. 23, 1994, 108 Stat. 1580; Pub. L. 103–429, §6(71), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 106–181, title I, §154, Apr. 5, 2000, 114 Stat. 88; Pub. L. 108–176, title I, §189, title III, §306, Dec. 12, 2003, 117 Stat. 2519, 2539; Pub. L. 112–95, title V, §§504, 505, Feb. 14, 2012, 126 Stat. 104.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1285; Pub. L. 103–305, title I, §119, Aug. 23, 1994, 108 Stat. 1580; Pub. L. 103–429, §6(71), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 106–181, title I, §154, Apr. 5, 2000, 114 Stat. 88; Pub. L. 108–176, title I, §189, title III, §306, Dec. 12, 2003, 117 Stat. 2519, 2539; Pub. L. 112–95, title V, §§504, 505, Feb. 14, 2012, 126 Stat. 104; Pub. L. 115–232, div. A, title X, §1044, Aug. 13, 2018, 132 Stat. 1958.)
 
 Historical and Revision Notes
 
@@ -166,7 +178,7 @@ Subsection (b)(2) is substituted for 49 App.:2104(b) (3d sentence) to eliminate 
 
 In subsection (c)(1)(B) and (2), the words "for which grant applications are made in accordance with such noise compatibility programs" are omitted as surplus.
 
-In subsection (c)(1), before clause (A), the words "incur obligations to" and "further . . . under this section" are omitted as surplus. In clause (C), the words "to carry out any part of a program" are substituted for "any project to carry out a noise compatibility program", and the words "or before implementing regulations were prescribed" are substituted for "or the promulgation of its implementing regulations", for clarityand consistency. The words "the purposes of" before "reducing" are omitted as surplus. The word "noncompatible" is added after "existing" for clarity and consistency. In clause (D), the words "for any project" and "determined to be" are omitted as surplus.
+In subsection (c)(1), before clause (A), the words "incur obligations to" and "further . . . under this section" are omitted as surplus. In clause (C), the words "to carry out any part of a program" are substituted for "any project to carry out a noise compatibility program", and the words "or before implementing regulations were prescribed" are substituted for "or the promulgation of its implementing regulations", for clarity and consistency. The words "the purposes of" before "reducing" are omitted as surplus. The word "noncompatible" is added after "existing" for clarity and consistency. In clause (D), the words "for any project" and "determined to be" are omitted as surplus.
 
 In subsection (c)(2), the words "in turn" are omitted as surplus.
 
@@ -183,6 +195,8 @@ This redesignates 49:47504(c)(1)(C) and (D) as 49:47504(c)(2)(C) and (D) because
 Section 301(d)(4)(B) of the Airport and Airway Safety and Capacity Expansion Act of 1987, referred to in subsec. (c)(2)(A)(i), is section 301(d)(4)(B) of Pub. L. 100–223, which was set out as a note under section 2104 of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(2)(F). Pub. L. 115–232 added subpar. (F).
 
 <b>2012</b>—Subsec. (e). Pub. L. 112–95, §504, added subsec. (e).
 

@@ -5,7 +5,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [2201\.](Subchapter%20001%20%28I%29%20-%20Improving%20Capacity%20to%20Prevent%20Food%20Safety%20Problems/%C2%A7%2002201%20-%20Performance%20standards.md) | Performance standards. |
-| [2202\.](Subchapter%20001%20%28I%29%20-%20Improving%20Capacity%20to%20Prevent%20Food%20Safety%20Problems/%C2%A7%2002202%20-%20National%20Agriculture%20and%20Food%20Defense%20strategy.md) | National Agriculture and Food Defense strategy. |
+| [2202\.](Subchapter%20001%20%28I%29%20-%20Improving%20Capacity%20to%20Prevent%20Food%20Safety%20Problems/%C2%A7%2002202%20-%20National%20Agriculture%20and%20Food%20Defense%20Strategy.md) | National Agriculture and Food Defense Strategy. |
 | [2203\.](Subchapter%20001%20%28I%29%20-%20Improving%20Capacity%20to%20Prevent%20Food%20Safety%20Problems/%C2%A7%2002203%20-%20Food%20and%20Agriculture%20Coordinating%20Councils.md) | Food and Agriculture Coordinating Councils. |
 | [2204\.](Subchapter%20001%20%28I%29%20-%20Improving%20Capacity%20to%20Prevent%20Food%20Safety%20Problems/%C2%A7%2002204%20-%20Building%20domestic%20capacity.md) | Building domestic capacity. |
 | [2205\.](Subchapter%20001%20%28I%29%20-%20Improving%20Capacity%20to%20Prevent%20Food%20Safety%20Problems/%C2%A7%2002205%20-%20Food%20allergy%20and%20anaphylaxis%20management.md) | Food allergy and anaphylaxis management. |

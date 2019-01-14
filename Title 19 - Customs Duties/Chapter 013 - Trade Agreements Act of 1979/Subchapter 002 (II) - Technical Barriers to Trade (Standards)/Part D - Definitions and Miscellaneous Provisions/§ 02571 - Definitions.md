@@ -144,5 +144,5 @@ Special representative.—The term 'Special Representative' means the Special Re
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 352 of Pub. L. 103–465, set out as a note under section 2531 of this title.
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 352 of Pub. L. 103–465, set out as a note under section 2531 of this title.
 

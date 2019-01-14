@@ -64,7 +64,7 @@ Transfers of apportionments.—
 
 &emsp;&emsp;(A)
 
-Transfer flexibility for national distribution funds.—The Governor of a State may transfer any part of the State'sapportionment under paragraph (5)(A) to supplement amounts apportioned to the State under section 5311(c) or amounts apportioned to urbanized areas under subsections (a) and (c) of section 5336.
+Transfer flexibility for national distribution funds.—The Governor of a State may transfer any part of the State's apportionment under paragraph (5)(A) to supplement amounts apportioned to the State under section 5311(c) or amounts apportioned to urbanized areas under subsections (a) and (c) of section 5336.
 
 &emsp;&emsp;(B)
 
@@ -94,7 +94,7 @@ Remaining costs.—The remainder of the net project cost shall be provided—
 
 &emsp;(8)
 
-Period of availability to recipients.—Amounts made available under this subsection may be obligated by a recipient for 3 fiscal years after the fiscal year in which the amount is apportioned. Not later than 30 days after the end of the 3-fiscal-year period described in the preceding sentence, any amount that is not obligated on the last day of such period shall be added to the amount that may be apportioned under this subsection in the next fiscal year.
+Period of availability to recipients.—Amounts made available under this subsectionmay be obligated by a recipient for 3 fiscal years after the fiscal year in which the amount is apportioned. Not later than 30 days after the end of the 3-fiscal-year period described in the preceding sentence, any amount that is not obligated on the last day of such period shall be added to the amount that may be apportioned under this subsection in the next fiscal year.
 
 &emsp;(9)
 
@@ -196,7 +196,7 @@ Low or No Emission Grants.—
 
 Definitions.—In this subsection—
 
-&emsp;&emsp;(A) the term "direct carbon emissions" means the quantity of direct greenhouse gas emissions from a vehicle, as determined by the Administrator of the Environmental Protection Agency;
+&emsp;&emsp;(A) the term "direct carbon emissions" means the quantity of direct greenhouse gas emissions from a vehicle, as determined bythe Administrator of the Environmental Protection Agency;
 
 &emsp;&emsp;(B) the term "eligible project" means a project or program of projects in an eligible area for—
 
@@ -306,7 +306,7 @@ Section 3019 of the Federal Public Transportation Act of 2015, referred to in su
 
 <b>2015</b>—Pub. L. 114–94 amended section generally, substituting provisions relating to grants for buses and bus facilities for provisions relating to bus and bus facilities formula grants.
 
-Subsec. (d)(1). Pub. L. 114–87 substituted "and $11,632,514 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $9,127,049 for the period beginning on October 1, 2015, and ending on November 20, 2015,", "$221,994 for such period" for "$174,180 for such period", and "$88,798 for such period" for "$69,672 for such period".
+Subsec. (d)(1). Pub. L. 114–87 substituted "and $11,632,514 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $9,127,049 forthe period beginning on October 1, 2015, and ending on November 20, 2015,", "$221,994 for such period" for "$174,180 for such period", and "$88,798 for such period" for "$69,672 for such period".
 
 Pub. L. 114–73 substituted "and $9,127,049 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $5,189,891 for the period beginning on October 1, 2015, and ending on October 29, 2015,", "$174,180 for such period" for "$99,044 for such period", and "$69,672 for such period" for "$39,617 for such period".
 

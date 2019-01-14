@@ -32,7 +32,27 @@ Contents and Form.—An application for a project grant under this subchapter—
 
 (c)
 
-State Standards for Airport Development.—The Secretary may approve standards (except standards for safety of approaches) that a State prescribes for airport development at nonprimary public-use airports in the State. On approval under this subsection, a State's standards apply to the nonprimary public-use airports in the State instead of the comparable standards prescribed by the Secretary under subsection (b)(3) of this section. The Secretary, or the State with the approval of the Secretary, may revise standards approved under this subsection.
+State Standards for Airport Development.—
+
+&emsp;(1)
+
+In general.—The Secretary may approve standards (except standards for safety of approaches) that a State prescribes for airport development at nonprimary public-use airports in the State. On approval under this subsection, a State's standards apply to the nonprimary public-use airports in the State instead of the comparable standards prescribed by the Secretary under subsection (b)(3) of this section. The Secretary, or the State with the approval of the Secretary, may revise standards approved under this subsection.
+
+&emsp;(2)
+
+Pavement standards.—
+
+&emsp;&emsp;(A)
+
+Technical assistance.—At the request of a State, the Secretary shall, not later than 30 days after the date of the request, provide technical assistance to the State in developing standards, acceptable to the Secretary under subparagraph (B), for pavement on nonprimary public-use airports in the State.
+
+&emsp;&emsp;(B)
+
+Requirements.—The Secretary shall—
+
+&emsp;&emsp;&emsp;(i) continue to provide technical assistance under subparagraph (A) until the standards are approved under paragraph (1); and
+
+&emsp;&emsp;&emsp;(ii) clearly indicate to the State the standards that are acceptable to the Secretary, considering, at a minimum, local conditions and locally available materials.
 
 (d)
 
@@ -46,7 +66,7 @@ Preventive Maintenance.—After January 1, 1995, the Secretary may approve an ap
 
 Notification.—The sponsor of an airport for which an amount is apportioned under section 47114(c) of this title shall notify the Secretary of the fiscal year in which the sponsor intends to submit a project grant application for the apportioned amount. The notification shall be given by the time and contain the information the Secretary prescribes.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1253; Pub. L. 103–305, title I, §§106, 107(a), Aug. 23, 1994, 108 Stat. 1572.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1253; Pub. L. 103–305, title I, §§106, 107(a), Aug. 23, 1994, 108 Stat. 1572; Pub. L. 115–254, div. B, title I, §183, Oct. 5, 2018, 132 Stat. 3233.)
 
 Historical and Revision Notes
 
@@ -108,11 +128,13 @@ In subsection (b)(2), the word "project" is substituted for "airport development
 
 In subsection (c), the words "from time to time" are eliminated as unnecessary.
 
-In subsection (d), the words "in connection with any project" are omitted as surplus. The words "that the sponsor will comply with this subchapter in carrying out the project" are substituted for "that such sponsorwill comply with all of the statutory and administrative requirements imposed on such sponsor under this chapter in connection with such project" to eliminate unnecessary words. The words "or discharge" are omitted as included in "affect". The words "including, but not limited to, the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), section 303 of title 49, title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000b) \[42 U.S.C. 2000d et seq.\], title VIII of the Act of April 11, 1968 (42 U.S.C. 3601 et seq.), and the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.)" are omitted as included in "another law of the United States".
+In subsection (d), the words "in connection with any project" are omitted as surplus. The words "that the sponsor will comply with this subchapter in carrying out the project" are substituted for "that such sponsor will comply with all of the statutory and administrative requirements imposed on such sponsor under this chapter in connection with such project" to eliminate unnecessary words. The words "or discharge" are omitted as included in "affect". The words "including, but not limited to, the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), section 303 of title 49, title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000b) \[42 U.S.C. 2000d et seq.\], title VIII of the Act of April 11, 1968 (42 U.S.C. 3601 et seq.), and the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.)" are omitted as included in "another law of the United States".
 
 In subsection (e), the words "of an airport for which" are substituted for "to which" for clarity.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–254 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 <b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–305, §106, in introductory provisions, substituted "1 or more airports" for "at least 2 airports" in two places and struck out "similar" before "projects".
 

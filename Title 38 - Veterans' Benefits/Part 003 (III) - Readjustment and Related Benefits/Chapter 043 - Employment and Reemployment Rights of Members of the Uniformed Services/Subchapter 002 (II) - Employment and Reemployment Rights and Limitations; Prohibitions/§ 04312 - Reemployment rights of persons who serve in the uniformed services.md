@@ -20,7 +20,7 @@
 
 &emsp;(4) performed by a member of a uniformed service who is—
 
-&emsp;&emsp;(A) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12304a, 12304b, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 of title 14;
+&emsp;&emsp;(A) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12304a, 12304b, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 <sup>1</sup> of title 14;
 
 &emsp;&emsp;(B) ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
 
@@ -46,7 +46,7 @@
 
 &emsp;(B) any accommodation, training, or effort referred to in subsection (a)(3), (a)(4), or (b)(2)(B) of section 4313 would impose an undue hardship on the employer, or
 
-&emsp;(C) the employment referred to in paragraph (1)(C) is for a brief, nonrecurrent period and there is no reasonable expectation that suchemployment will continue indefinitely or for a significant period,
+&emsp;(C) the employment referred to in paragraph (1)(C) is for a brief, nonrecurrent period and there is no reasonable expectation that such employment will continue indefinitely or for a significant period,
 
 > the employer shall have the burden of proving the impossibility or unreasonableness, undue hardship, or the brief or nonrecurrent nature of the employment without a reasonable expectation of continuing indefinitely or for a significant period.
 
@@ -88,9 +88,13 @@
 
 (g) The right of a person to reemployment under this section shall not entitle such person to retention, preference, or displacement rights over any person with a superior claim under the provisions of title 5, United States Code, relating to veterans and other preference eligibles.
 
-(h) In any determination of a person's entitlement to protection under this chapter, the timing, frequency, and duration of the person's training or service, or the nature of such training or service (including voluntary service) in the uniformed services, shall not be a basis fordenying protection of this chapter if the service does not exceed the limitations set forth in subsection (c) and the notice requirements established in subsection (a)(1) and the notification requirements established in subsection (e) are met.
+(h) In any determination of a person's entitlement to protection under this chapter, the timing, frequency, and duration of the person's training or service, or the nature of such training or service (including voluntary service) in the uniformed services, shall not be a basis for denying protection of this chapter if the service does not exceed the limitations set forth in subsection (c) and the notice requirements established in subsection (a)(1) and the notification requirements established in subsection (e) are met.
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3153; amended Pub. L. 104–275, title III, §311(4), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 112–81, div. A, title V, §575, Dec. 31, 2011, 125 Stat. 1428; Pub. L. 114–92, div. A, title V, §562, Nov. 25, 2015, 129 Stat. 829.)
+
+#### References in Text
+
+Sections 331, 332, 359, 360, 367, and 712 of title 14, referred to in subsec. (c)(4)(A), were redesignated sections 2127, 2128, 2308, 2309, 2314, and 3713, respectively, of title 14 by Pub. L. 115–282, title I, §§112(b), 113(b), 118(b), Dec. 4, 2018, 132 Stat. 4216, 4221, 4233, and references to section 331, 332, 359, 360, 367, or 712 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
 
 #### Prior Provisions
 
@@ -123,4 +127,6 @@ Amendment by section 311(4)(A), (B)(ii)(II), (C) of Pub. L. 104–275 effective 
 #### Effective Date
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, and with provisions relating to satisfaction of the notification requirement of subsec. (a)(1) of this section, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

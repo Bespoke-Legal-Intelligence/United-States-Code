@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(E) provide assurances that the State educational agency has established—
 
-&emsp;&emsp;&emsp;(i) procedures to ensure the timely re-enrollment of each student who has been placed in the juvenile justice system insecondary school or in a re-entry program that best meets the needs of the student, including the transfer of credits that such student earns during placement; and
+&emsp;&emsp;&emsp;(i) procedures to ensure the timely re-enrollment of each student who has been placed in the juvenile justice system in secondary school or in a re-entry program that best meets the needs of the student, including the transfer of credits that such student earns during placement; and
 
 &emsp;&emsp;&emsp;(ii) opportunities for such students to participate in credit-bearing coursework while in secondary school, postsecondary education, or career and technical education programming.
 
@@ -92,7 +92,7 @@ Any State agency that desires to receive funds to carry out a program under this
 
 &emsp;(16) provides an assurance that the State agency will work with children and youth who dropped out of school before entering the correctional facility or institution for neglected or delinquent children and youth to encourage the children and youth to reenter school and attain a regular high school diploma once the term of the incarceration is completed or provide the child or youth with the skills necessary to gain employment, continue the education of the child or youth, or attain a regular high school diploma or its recognized equivalent if the child or youth does not intend to return to school;
 
-&emsp;(17) provides an assurance that certified or licensed teachers and other qualified staff aretrained to work with children and youth with disabilities and other students with special needs taking into consideration the unique needs of such students;
+&emsp;(17) provides an assurance that certified or licensed teachers and other qualified staff are trained to work with children and youth with disabilities and other students with special needs taking into consideration the unique needs of such students;
 
 &emsp;(18) describes any additional services to be provided to children and youth, such as career counseling, distance learning, and assistance in securing student loans and grants;
 

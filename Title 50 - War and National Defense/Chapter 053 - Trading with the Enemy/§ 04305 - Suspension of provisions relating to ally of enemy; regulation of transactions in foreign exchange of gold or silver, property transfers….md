@@ -16,13 +16,15 @@ If the President shall have reasonable cause to believe that any act is about to
 
 (3) As used in this subdivision the term "United States" means the United States and any place subject to the jurisdiction thereof: <i>Provided, however</i>, That the foregoing shall not be construed as a limitation upon the power of the President, which is hereby conferred, to prescribe from time to time, definitions, not inconsistent with the purposes of this subdivision, for any or all of the terms used in this subdivision. As used in this subdivision the term "person" means an individual, partnership, association, or corporation.
 
-(4) The authority granted to the President by this section does not include the authority to regulate or prohibit, directly or indirectly, the importation from any country, or the exportation to any country, whether commercial or otherwise, regardless of format or medium of transmission, of any information or informational materials, including but not limited to, publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, compact disks, CD ROMs, artworks, and news wire feeds. The exports exempted from regulation or prohibition by this paragraph do not include those which are otherwise controlled for export under section 4604 of this title, or under section 4605 of this title to the extent that such controls promote the nonproliferation or antiterrorism policies of the United States, or with respect to which acts are prohibited by chapter 37 of title 18.
+(4) The authority granted to the President by this section does not include the authority to regulate or prohibit, directly or indirectly, the importation from any country, or the exportation to any country, whether commercial or otherwise, regardless of format or medium of transmission, of any information or informational materials, including but not limited to, publications, films, posters, phonograph records,photographs, microfilms, microfiche, tapes, compact disks, CD ROMs, artworks, and news wire feeds. The exports exempted from regulation or prohibition by this paragraph do not include those which are otherwise controlled for export under section 4604 <sup>1</sup> of this title, or under section 4605 <sup>1</sup> of this title to the extent that such controls promote the nonproliferation or antiterrorism policies of the United States, or with respect to which acts are prohibited by chapter 37 of title 18.
 
 (Oct. 6, 1917, ch. 106, §5, 40 Stat. 415; Sept. 24, 1918, ch. 176, §5, 40 Stat. 966; Mar. 9, 1933, ch. 1, §2, 48 Stat. 1; May 7, 1940, ch. 185, §1, 54 Stat. 179; Dec. 18, 1941, ch. 593, title III, §301, 55 Stat. 839; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Pub. L. 95–223, title I, §§101(a), 102, 103(b), Dec. 28, 1977, 91 Stat. 1625, 1626; Pub. L. 100–418, title II, §2502(a)(1), Aug. 23, 1988, 102 Stat. 1371; Pub. L. 103–236, title V, §525(b)(1), Apr. 30, 1994, 108 Stat. 474.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning act Oct. 6, 1917, ch. 106, 40 Stat. 411, known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4301 of this title and Tables.
+
+Sections 4604 and 4605 of this title, referred to in subsec. (b)(4), were repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Codification
 
@@ -38,9 +40,9 @@ Subsec. (b) was also formerly classified to section 95a of Title 12, Banks and B
 
 <b>1988</b>—Subsec. (b)(4). Pub. L. 100–418 added par. (4).
 
-<b>1977</b>—Subsec. (b)(1). Pub. L. 95–223, §§101(a), 102, substituted "During the time of war, the President may, through any agency that he may designate, and under such rules and regulations" for "During the time of war or during any other period of national emergency declared by the President, the President may, through any agency, that he may designate, or otherwise, andunder such rules and regulations" in provisions preceding subpar. (A), and, in provisions following subpar. (B), struck out "; and the President may, in the manner hereinabove provided, take other and further measures not inconsistent herewith for the enforcement of this subdivision" after "control of such person".
+<b>1977</b>—Subsec. (b)(1). Pub. L. 95–223, §§101(a), 102, substituted "During the time of war, the President may, through any agency that he may designate, and under such rules and regulations" for "During the time of war or during any other period of national emergency declared by the President, the President may, through any agency, that he may designate, or otherwise, and under such rules and regulations" in provisions preceding subpar. (A), and, in provisions following subpar. (B), struck out "; and the President may, in the manner hereinabove provided, take other and further measures not inconsistent herewith for the enforcement of this subdivision" after "control of such person".
 
-Subsec. (b)(3). Pub. L. 95–22, §103(b), struck out provisions that whoever willfully violated any of the provisions of this subdivision or of any license, order, rule, or regulation issued thereunder, could be fined not more than $10,000, or, if a natural person, could be imprisoned for not more than ten years, or both; and that any officer, director, or agent of any corporation who knowingly participated in that violation could be punished by a like fine, imprisonment, or both.
+Subsec. (b)(3). Pub. L. 95–223, §103(b), struck out provisions that whoever willfully violated any of the provisions of this subdivision or of any license, order, rule, or regulation issued thereunder, could be fined not more than $10,000, or, if a natural person, could be imprisoned for not more than ten years, or both; and that any officer, director, or agent of any corporation who knowingly participated in that violation could be punished by a like fine, imprisonment, or both.
 
 <b>1941</b>—Subsec. (b). Act Dec. 18, 1941, considerably broadened the powers of the President to take, administer, control, use and liquidate foreign-owned property and added a flexibility of control which enabled the President and the agencies designated by him to cope with the problems surrounding alien property, its ownership or control, on the basis of the particular facts in each case.
 
@@ -222,7 +224,7 @@ The "effective date of this Order" with respect to any foreign country not desig
 
 #### section 4. records of foreign banking and security transactions; investigations
 
-A. The Secretary of the Treasury and/or the Attorney General may require, by means of regulations, rulings, instructions, or otherwise, any person to keep a full record of, and to furnish under oath, in the form of reports or otherwise, from time to time and at any time or times, complete information relative to, any transaction referred to in section 5(b) of the Act of October6, 1917 (40 Stat. 415) \[50 U.S.C. 4305(b)\], as amended, or relative to any property in which any foreign country or any national thereof has any interest of any nature whatsoever, direct or indirect, including the production of any books of account, contracts, letters, or other papers, in connection therewith, in the custody or control of such person, either before or after such transaction is completed; and the Secretary of the Treasury and/or the Attorney General may, through any agency, investigate any such transaction or act, or any violation of the provisions of this Order.
+A. The Secretary of the Treasury and/or the Attorney General may require, by means of regulations, rulings, instructions, or otherwise, any person to keep a full record of, and to furnish under oath, in the form of reports or otherwise, from time to time and at any time or times, complete information relative to, any transaction referred to in section 5(b) of the Act of October 6, 1917 (40 Stat. 415) \[50 U.S.C. 4305(b)\], as amended, or relative to any property in which any foreign country or any national thereof has any interest of any nature whatsoever, direct or indirect, including the production of any books of account, contracts, letters, or other papers, in connection therewith, in the custody or control of such person, either before or after such transaction is completed; and the Secretary of the Treasury and/or the Attorney General may, through any agency, investigate any such transaction or act, or any violation of the provisions of this Order.
 
 B. Every person engaging in any of the transactions referred to in sections 1 and 2 of this Order shall keep a full record of each such transaction engaged in by him, regardless of whether such transaction is effected pursuant to license or otherwise, and such record shall be available for examination for at least one year after the date of such transaction.
 
@@ -248,7 +250,7 @@ E. The term "national" shall include,
 
 (i) Any person who has been domiciled in, or a subject, citizen or resident of a foreign country at any time on or since the effective date of this Order,
 
-(ii) Any partnership, association, corporation or other organization, organized under the laws of, or which on or since the effective date of this Order had or has had its principal place of business in such foreign country, or which on or since such effective date was or has been controlled by, or a substantial part of the stock, shares, bonds, debentures, notes, drafts, or other securities or obligations of which, was or has been owned or controlled by, directly or indirectly, such foreign country and/or one or more nationals thereof as herein defined.
+(ii) Any partnership, association, corporation or other organization, organized under the laws of, or which on or since the effective date of this Order had or has had its principal place of business in such foreign country, or which on or since such effective date was or has been controlled by, or a substantial part of the stock, shares, bonds, debentures, notes, drafts, or other securities or obligations of which, was or hasbeen owned or controlled by, directly or indirectly, such foreign country and/or one or more nationals thereof as herein defined.
 
 (iii) Any person to the extent that such person is, or has been, since such effective date, acting or purporting to act directly or indirectly for the benefit or on behalf of any national of such foreign country, and
 
@@ -266,7 +268,7 @@ Executive Order No. 8389 of April 10, 1940, as amended, shall no longer be deeme
 
 #### section 7. regulations by secretary of the treasury
 
-Without limitation as to any other powers or authority of the Secretary of the Treasury or the AttorneyGeneral under any other provision of this Order, the Secretary of the Treasury is authorized and empowered to prescribe from time to time regulations, rulings, and instructions to carry out the purposes of this Order and to provide therein or otherwise the conditions under which licenses may be granted by or through such officers or agencies as the Secretary of the Treasury may designate, and the decision of the Secretary with respect to the granting, denial or other disposition of an application or license shall be final.
+Without limitation as to any other powers or authority of the Secretary of the Treasury or the Attorney General under any other provision of this Order, the Secretary of the Treasury is authorized and empowered to prescribe from time to time regulations, rulings, and instructions to carry out the purposes of this Order and to provide therein or otherwise the conditions under which licenses may be granted by or through such officers or agencies as the Secretary of the Treasury may designate, and the decision of the Secretary with respect to the granting, denial or other disposition of an application or license shall be final.
 
 #### section 8. offenses and penalties under act oct. 6, 1917
 
@@ -294,21 +296,23 @@ The terms and provisions of Executive Order 9095 of March 11, 1942, as amended \
 
 #### Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act
 
-Determination of President of the United States, No. 2017–11, Sept. 8, 2017, 82 F.R. 42927, provided:
+Determination of President of the United States, No. 2018–11, Sept. 10, 2018, 83 F.R. 46347, provided:
 
 Memorandum for the Secretary of State \[and\] the Secretary of the Treasury
 
-Under section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. 4305 note), and a previous determination on September 13, 2016 (81 <i>FR</i> 64047, September 16, 2016), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to expire on September 14, 2017.
+Under section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. 4305 note), and a previous determination on September 8, 2017 (82 <i>FR</i> 42927, September 13, 2017), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to expire on September 14, 2018.
 
 I hereby determine that the continuation of the exercise of those authorities with respect to Cuba for 1 year is in the national interest of the United States.
 
-Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2018, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 C.F.R. Part 515.
+Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2019, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 C.F.R. part 515.
 
 The Secretary of the Treasury is authorized and directed to publish this determination in the Federal Register.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior extensions were contained in the following:
+
+Determination of President of the United States, No. 2017–11, Sept. 8, 2017, 82 F.R. 42927.
 
 Determination of President of the United States, No. 2016–11, Sept. 13, 2016, 81 F.R. 64047.
 
@@ -387,4 +391,6 @@ Memorandum of President of the United States, Sept. 8, 1980, 45 F.R. 59549.
 Memorandum of President of the United States, Sept. 12, 1979, 44 F.R. 53153.
 
 Memorandum of President of the United States, Sept. 8, 1978, 43 F.R. 40449.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

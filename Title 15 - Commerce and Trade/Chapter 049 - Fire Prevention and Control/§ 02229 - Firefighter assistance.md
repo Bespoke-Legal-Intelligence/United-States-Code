@@ -34,7 +34,7 @@ In this section:
 
 #### (7) Nonaffiliated EMS organization
 
-&emsp;The term "nonaffiliated EMS organization" means a public or private nonprofit emergency medical services organization that is not affiliated with a hospital and does not serve a geographic area in which the Administrator of FEMA finds that emergency medical services are adequately provided by a fire department.
+&emsp;The term "nonaffiliated EMS organization" means a public or private nonprofit emergencymedical services organization that is not affiliated with a hospital and does not serve a geographic area in which the Administrator of FEMA finds that emergency medical services are adequately provided by a fire department.
 
 #### (8) Paid-on-call
 
@@ -228,7 +228,7 @@ In this section:
 
 #### (B) Nonexclusivity
 
-&emsp;&emsp;Applications under this paragraph may be submitted instead of or in addition to any other application submitted under paragraph (1).
+&emsp;&emsp;Applications under this paragraph may be submitted instead of or in addition to anyother application submitted under paragraph (1).
 
 #### (C) Guidance
 
@@ -398,7 +398,7 @@ In awarding grants under this section, the Administrator of FEMA shall ensure th
 
 #### (A) In general
 
-&emsp;&emsp;An applicant seeking a grant to carry out an activity under subsection (d) shall agree to make available non-Federal funds tocarry out such activity in an amount equal to not less than 5 percent of the grant awarded to such applicant under such subsection.
+&emsp;&emsp;An applicant seeking a grant to carry out an activity under subsection (d) shall agree to make available non-Federal funds to carry out such activity in an amount equal to not less than 5 percent of the grant awarded to such applicant under such subsection.
 
 #### (B) Means of matching
 
@@ -496,7 +496,7 @@ Notwithstanding any other provision of law, for purposes of this section, equipm
 
 #### (n) Eligible grantee on behalf of Alaska Native villages
 
-The Alaska Village Initiatives, a non-profit organization incorporated in the State of Alaska, shall be eligible to apply for and receive agrant or other assistance under this section on behalf of Alaska Native villages.
+The Alaska Village Initiatives, a non-profit organization incorporated in the State of Alaska, shall be eligible to apply for and receive a grant or other assistance under this section on behalf of Alaska Native villages.
 
 #### (o) Training standards
 
@@ -520,7 +520,7 @@ If an applicant for a grant under this section is applying for such grant to pur
 
 #### (B) Consultation
 
-&emsp;&emsp;The Administrator of FEMA shall consult with fire service representatives and with the Comptroller General of the United States in developing the assessment system required by subparagraph (A).
+&emsp;&emsp;The Administrator of FEMA shall consult with fire service representatives and with the Comptroller General of the UnitedStates in developing the assessment system required by subparagraph (A).
 
 #### (3) Annual reports to Administrator of FEMA
 
@@ -614,7 +614,7 @@ In general.—Subject to subparagraph (B), the Director may provide assistance u
 
 Requirement for small community organizations.—In the case of an applicant whose personnel serve jurisdictions of 50,000 or fewer residents, the percent applied under the matching requirement of subparagraph (A) shall be 10 percent."
 
-Subsec. (b)(10)(A). Pub. L. 108–375, §3602(8)(A), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "A grant recipient under this section may not receive more than $750,000 under this section for any fiscal year."
+Subsec. (b)(10)(A). Pub. L. 108–375, §3602(8)(A), amended heading and text of subpar. (A) generally. Prior toamendment, text read as follows: "A grant recipient under this section may not receive more than $750,000 under this section for any fiscal year."
 
 Subsec. (b)(10)(B) to (F). Pub. L. 108–375, §3602(8)(B)–(D), redesignated subpar. (B) as (C) and added new subpars. (B) and (D) to (F).
 

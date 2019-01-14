@@ -26,7 +26,7 @@ Unless and except as permitted by regulations made as hereinafter provided in th
 
 &emsp;&emsp;&emsp;(iii) after such extirpation, it was reintroduced in the United States or its territories as a part of a program carried out by a Federal agency.
 
-(July 3, 1918, ch. 128, §2, 40 Stat. 755; June 20, 1936, ch. 634, §3, 49 Stat. 1556; Pub. L. 93–300, §1,June 1, 1974, 88 Stat. 190; Pub. L. 101–233, §15, Dec. 13, 1989, 103 Stat. 1977; Pub. L. 108–447, div. E, title I, §143(b), Dec. 8, 2004, 118 Stat. 3071.)
+(July 3, 1918, ch. 128, §2, 40 Stat. 755; June 20, 1936, ch. 634, §3, 49 Stat. 1556; Pub. L. 93–300, §1, June 1, 1974, 88 Stat. 190; Pub. L. 101–233, §15, Dec. 13, 1989, 103 Stat. 1977; Pub. L. 108–447, div. E, title I, §143(b), Dec. 8, 2004, 118 Stat. 3071.)
 
 #### Amendments
 

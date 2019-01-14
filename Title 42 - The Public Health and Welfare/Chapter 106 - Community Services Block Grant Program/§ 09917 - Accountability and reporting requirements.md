@@ -26,7 +26,7 @@
 
 &emsp;At the end of each fiscal year beginning after September 30, 1999, the Secretary shall, directly or by grant or contract, prepare a report containing—
 
-&emsp;&emsp;(A) a summary of the planned use of funds by each State, and the eligible entities in the State, under the community services block grant program, as contained in each State plan submitted pursuant to section 9908 of this title;
+&emsp;&emsp;(A) a summary of the planned use of funds by each State, and the eligible entities in the State, under the community services block grant program, as contained in eachState plan submitted pursuant to section 9908 of this title;
 
 &emsp;&emsp;(B) a description of how funds were actually spent by the State and eligible entities in the State, including a breakdown of funds spent on administrative costs and on the direct delivery of local services by eligible entities;
 

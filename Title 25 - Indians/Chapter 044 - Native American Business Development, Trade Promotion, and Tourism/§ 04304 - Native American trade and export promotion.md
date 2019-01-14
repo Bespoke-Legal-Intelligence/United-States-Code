@@ -6,7 +6,7 @@ The Secretary, acting through the Director, shall carry out a Native American ex
 
 #### (b) Coordination of Federal programs and services
 
-In carrying out the program, the Secretary, acting through the Director, and in cooperationwith the heads of appropriate Federal agencies, shall ensure the coordination of Federal programs and services designed to—
+In carrying out the program, the Secretary, acting through the Director, and in cooperation with the heads of appropriate Federal agencies, shall ensure the coordination of Federal programs and services designed to—
 
 &emsp;(1) develop the economies of Indian tribes; and
 

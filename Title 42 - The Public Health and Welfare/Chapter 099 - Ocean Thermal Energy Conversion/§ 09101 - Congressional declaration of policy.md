@@ -6,7 +6,7 @@
 
 &emsp;(2) authorize and regulate the construction, location, ownership, and operation of ocean thermal energy conversion plantships documented under the laws of the United States, consistent with the Convention on the High Seas and general principles of international law;
 
-&emsp;(3) authorize and regulate the construction, location, ownership, and operation of ocean thermal energy conversion plantships byUnited States citizens, consistent with the Convention on the High Seas and general principles of international law;
+&emsp;(3) authorize and regulate the construction, location, ownership, and operation of ocean thermal energy conversion plantships by United States citizens, consistent with the Convention on the High Seas and general principles of international law;
 
 &emsp;(4) establish a legal regime which will permit and encourage the development of ocean thermal energy conversion as a commercial energy technology;
 

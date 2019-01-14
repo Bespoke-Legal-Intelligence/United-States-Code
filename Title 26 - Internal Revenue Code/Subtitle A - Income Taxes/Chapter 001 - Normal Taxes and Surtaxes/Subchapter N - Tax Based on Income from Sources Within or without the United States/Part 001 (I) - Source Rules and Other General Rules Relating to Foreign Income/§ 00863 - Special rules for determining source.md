@@ -106,7 +106,7 @@ In the case of gross income derived from sources partly within and partly withou
 
 #### (ii) Special rule for income attributable to office or fixed place of business in the United States
 
-&emsp;&emsp;&emsp;In the case of any person (other than a United States person) who maintains an office or other fixed place of business in the United States, any international communications income attributable to such office or other fixed place of business shall be sourced in the United States.
+&emsp;&emsp;&emsp;In the case of any person (other than a United States person) who maintains anoffice or other fixed place of business in the United States, any international communications income attributable to such office or other fixed place of business shall be sourced in the United States.
 
 #### (2) Definition
 

@@ -16,7 +16,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (b) Development of periodic Renewable Resource Assessment through survey and analysis of conditions; implementation; authorization of appropriations
 
-(1) To ensure the availability of adequate data and scientific information for development of the periodic Renewable Resource Assessment provided for in section 1601 of this title, the Secretary of Agriculture shall make and keep current a comprehensive survey and analysis of the present and prospective conditions of and requirements for renewable resources of the forests and rangelands of the United States and of the supplies of such renewable resources, including a determination of the present and potential productivity of the land, and of such other factsas may be necessary and useful in the determination of ways and means needed to balance the demand for and supply of these renewable resources, benefits, and uses in meeting the needs of the people of the United States. The Secretary shall conduct the survey and analysis under such plans as the Secretary may determine to be fair and equitable, and cooperate with appropriate officials of each State and, either through them or directly, with private or other entities.
+(1) To ensure the availability of adequate data and scientific information for development of the periodic Renewable Resource Assessment provided for in section 1601 of this title, the Secretary of Agriculture shall make and keep current a comprehensive survey and analysis of the present and prospective conditions of and requirements for renewable resources of the forests and rangelands of the United States and of the supplies of such renewable resources, including a determination of the present and potential productivity of the land, and of such other facts as may be necessary and useful in the determination of ways and means needed to balance the demand for and supply of these renewable resources, benefits, and uses in meeting the needs of the people of the United States. The Secretary shall conduct the survey and analysis under such plans as the Secretary may determine to be fair and equitable, and cooperate with appropriate officials of each State and, either through them or directly, with private or other entities.
 
 (2) In implementing this subsection, the Secretary is authorized to develop and implement improved methods of survey and analysis of forest inventory information, for which purposes there are hereby authorized to be appropriated annually $10,000,000.
 
@@ -70,7 +70,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;&emsp;(i) reviewing existing information about declining health and productivity of forest ecosystems on public and private lands in North America and Europe;
 
-&emsp;&emsp;(ii) reviewing the nature and findings of all research and monitoring efforts conducted under the Program and any other relevant research and monitoring efforts related tothe effects of atmospheric pollution on forest ecosystem; and
+&emsp;&emsp;(ii) reviewing the nature and findings of all research and monitoring efforts conducted under the Program and any other relevant research and monitoring efforts related to the effects of atmospheric pollution on forest ecosystem; and
 
 &emsp;&emsp;(iii) making final recommendations for solving or mitigating problems stemming from the effects of atmospheric pollution on the health and productivity of domestic forest ecosystems.
 
@@ -144,7 +144,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (5) Protection for private property rights
 
-&emsp;The Secretary shall obtain authorization from property owners prior to collecting datafrom sample plots located on private property pursuant to paragraphs (2) and (3).
+&emsp;The Secretary shall obtain authorization from property owners prior to collecting data from sample plots located on private property pursuant to paragraphs (2) and (3).
 
 #### (6) Strategic plan
 
@@ -198,43 +198,17 @@ Subsec. (a)(4). Pub. L. 96–294, §254(2), inserted applicability to producing 
 
 Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) \[title VII, §753(f)\] of Pub. L. 105–277, set out as a note under section 343 of Title 7, Agriculture.
 
+#### Remote Sensing Technologies
+
+Pub. L. 115–334, title VIII, §8632, Dec. 20, 2018, 132 Stat. 4871, provided that: "The Chief of the Forest Service shall—
+
+&emsp;"(1) continue to find efficiencies in the operations of the forest inventory and analysis program under section 3(e) of the Forest and Rangeland Renewable Resources Research Act of 1978 (16 U.S.C. 1642(e)) through the improved use and integration of advanced remote sensing technologies to provide estimates for State- and national-level inventories, where appropriate; and
+
+&emsp;"(2) partner with States and other interested stakeholders to carry out the program described in paragraph (1)."
+
 #### Revision of Strategic Plan for Forest Inventory and Analysis
 
-Pub. L. 113–79, title VIII, §8301, Feb. 7, 2014, 128 Stat. 922, provided that:
-
-"(a)
-
-Revision Required.—Not later than 180 days after the date of enactment of this Act \[Feb. 7, 2014\], the Secretary \[of Agriculture\] shall revise the strategic plan for forest inventory and analysis initially prepared pursuant to section 3(e) of the Forest and Rangeland Renewable Resources Research Act of 1978 (16 U.S.C. 1642(e)) to address the requirements imposed by subsection (b).
-
-"(b)
-
-Elements of Revised Strategic Plan.—In revising the strategic plan, the Secretary shall describe in detail the organization, procedures, and funding needed to achieve each of the following:
-
-&emsp;"(1) Complete the transition to a fully annualized forest inventory program and include inventory and analysis of interior Alaska.
-
-&emsp;"(2) Implement an annualized inventory of trees in urban settings, including the status and trends of trees and forests, and assessments of their ecosystem services, values, health, and risk to pests and diseases.
-
-&emsp;"(3) Report information on renewable biomass supplies and carbon stocks at the local, State, regional, and national level, including by ownership type.
-
-&emsp;"(4) Engage State foresters and other users of information from the forest inventory and analysis in reevaluating the list of core data variables collected on forest inventory and analysis plots with an emphasis on demonstrated need.
-
-&emsp;"(5) Improve the timeliness of the timber product output program and accessibility of the annualized information on that database.
-
-&emsp;"(6) Foster greater cooperation among the forest inventory and analysis program, research station leaders, and State foresters and other users of information from the forest inventory and analysis.
-
-&emsp;"(7) Promote availability of and access to non-Federal resources to improve information analysis and information management.
-
-&emsp;"(8) Collaborate with the Natural Resources Conservation Service, National Aeronautics and Space Administration, National Oceanic and Atmospheric Administration, and United States Geological Survey to integrate remote sensing, spatial analysis techniques, and other new technologies in the forest inventory and analysis program.
-
-&emsp;"(9) Understand and report on changes in land cover and use.
-
-&emsp;"(10) Expand existing programs to promote sustainable forest stewardship through increased understanding, in partnership with other Federal agencies, of the over 10,000,000 family forest owners, their demographics, and the barriers to forest stewardship.
-
-&emsp;"(11) Implement procedures to improve the statistical precision of estimates at the sub-State level.
-
-"(c)
-
-Submission of Revised Strategic Plan.—The Secretary shall submit the revised strategic plan to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate."
+Pub. L. 113–79, title VIII, §8301, Feb. 7, 2014, 128 Stat. 922, which required Secretary of Agriculture to revise strategic plan for forest inventory and analysis to describe organization, procedures, and funding needed to achieve certain requirements, was repealed by Pub. L. 115–334, title VIII, §8501, Dec. 20, 2018, 132 Stat. 4847.
 
 #### Southern Forest Regeneration Program
 
@@ -264,7 +238,7 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 #### Semiarid Agroforestry Research Center
 
-Pub. L. 101–624, title XII, §1243, Nov. 28, 1990, 104 Stat. 3546, provided that:
+Pub. L. 101–624, title XII, §1243, Nov. 28, 1990, 104 Stat. 3546, as amended by Pub. L. 115–334, title VIII, §8502, Dec. 20, 2018, 132 Stat. 4847, provided that:
 
 "(a)
 
@@ -278,7 +252,7 @@ Program.—The Secretary shall establish a program at the Center and seek the pa
 
 &emsp;"(2) adapt, demonstrate, document, and model the effectiveness of agroforestry systems under different farming systems and soil or climate conditions;
 
-&emsp;"(3) develop dual use agroforestry systems compatible with paragraphs (1) and (2) which would provide high-value forestry products for commercial sale from semiarid land;
+&emsp;"(3) develop dual use agroforestry systems compatible with paragraphs (1) and (2) which would providehigh-value forestry products for commercial sale from semiarid land;
 
 &emsp;"(4) develop and improve the drought and pest resistance characteristics of trees for conservation forestry and agroforestry applications in semiarid regions, including the introduction and breeding of trees suited for the Great Plains region of the United States;
 
@@ -306,7 +280,7 @@ Information Collection and Dissemination.—The Secretary shall establish at the
 
 "(d)
 
-Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 annually to carry out this section."
+Authorization of Appropriations.—There are authorized to be appropriated $5,000,000 for each of fiscal years 2019 through 2023 to carry out this section."
 
 #### Forest Ecosystems and Atmospheric Pollution Research; Congressional Findings
 

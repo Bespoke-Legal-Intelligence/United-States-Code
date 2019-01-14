@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (2) General deductions
 
-&emsp;The term "general deductions" means the deductions provided in part VI of subchapter B (sec. 161 and following, relating to itemized deductions) and in part I of subchapter D (sec. 401 and following, relating to pension, profit sharing, stock bonus plans, etc.).
+&emsp;The term "general deductions" means the deductions provided in part VI of subchapter B\(sec. 161 and following, relating to itemized deductions) and in part I of subchapter D (sec. 401 and following, relating to pension, profit sharing, stock bonus plans, etc.).
 
 #### (d) Net premiums
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 #### (3) Treatment of annuity contracts combined with noncancellable accident and health insurance
 
-&emsp;Any annuity contract combined with noncancellable accident and health insuranceshall be treated as a noncancellable accident and health insurance contract and not as an annuity contract.
+&emsp;Any annuity contract combined with noncancellable accident and health insurance shall be treated as a noncancellable accident and health insurance contract and not as an annuity contract.
 
 #### (4) Treatment of guaranteed renewable contracts
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (2) Negative capitalization amount
 
-&emsp;For purposes of paragraph (1), the term "negative capitalization amount" means, with respect to any category of specified insurance contracts, the percentage (applicable under subsection (c)(1) to such category) of the amount (if any) by which—
+&emsp;For purposes of paragraph (1), the term "negative capitalization amount" means, withrespect to any category of specified insurance contracts, the percentage (applicable under subsection (c)(1) to such category) of the amount (if any) by which—
 
 &emsp;&emsp;(A) the amount determined under subparagraph (B) of subsection (d)(1) with respect to such category, exceeds
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 109–280 applicable to contracts issued after Dec. 31, 199
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
+Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) ofPub. L. 108–173, set out as a note under section 62 of this title.
 
 #### Effective Date of 1996 Amendment
 

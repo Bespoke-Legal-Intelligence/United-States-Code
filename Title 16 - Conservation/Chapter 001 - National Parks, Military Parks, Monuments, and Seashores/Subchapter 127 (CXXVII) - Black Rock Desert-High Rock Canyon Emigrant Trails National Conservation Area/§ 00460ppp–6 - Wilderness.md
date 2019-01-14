@@ -12,7 +12,7 @@ In furtherance of the purposes of the Wilderness Act of 1964 (16 U.S.C. 1131 et 
 
 &emsp;(4) Certain lands in the East Fork High Rock Canyon Wilderness Study Area comprised of approximately 52,800 acres, as generally depicted on a map entitled "East Fork High Rock Canyon Wilderness—Proposed" and dated October 3, 2001, and which shall be known as the East Fork High Rock Canyon Wilderness.
 
-&emsp;(5) Certain lands in the High Rock Lake Wilderness Study Area comprised of approximately 59,300 acres, as generally depicted on a map entitled "High Rock Lake Wilderness—Proposed" and dated October 3, 2001, and which shall be known as the High Rock Lake Wilderness.
+&emsp;(5) Certain lands in the High Rock Lake Wilderness Study Area comprised of approximately 59,300 acres, as generally depicted on a map entitled "High Rock Lake Wilderness—Proposed" and dated October 3, 2001, andwhich shall be known as the High Rock Lake Wilderness.
 
 &emsp;(6) Certain lands in the Little High Rock Canyon Wilderness Study Area comprised of approximately 48,700 acres, as generally depicted on a map entitled "Little High Rock Canyon Wilderness—Proposed" and dated October 3, 2001, and which shall be known as the Little High Rock Canyon Wilderness.
 

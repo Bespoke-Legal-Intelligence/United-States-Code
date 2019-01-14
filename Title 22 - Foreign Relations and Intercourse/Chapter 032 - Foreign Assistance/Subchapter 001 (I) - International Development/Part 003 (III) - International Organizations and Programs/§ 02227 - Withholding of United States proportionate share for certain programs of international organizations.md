@@ -22,7 +22,7 @@ The Secretary of State—
 
 (ii) Clause (i) shall not apply with respect to the Juragua Nuclear Power Plant near Cienfuegos, Cuba, or the Pedro Pi Nuclear Research Center unless Cuba—
 
-&emsp;(I) ratifies the Treaty on the Non-Proliferation of Nuclear Weapons (21 UST 483) or the Treaty for the Prohibition of Nuclear Weapons in Latin America (commonly known as the Treaty of Tlatelolco);
+&emsp;(I) ratifies the Treaty on the Non-Proliferation of Nuclear Weapons (21 UST 483) or theTreaty for the Prohibition of Nuclear Weapons in Latin America (commonly known as the Treaty of Tlatelolco);
 
 &emsp;(II) negotiates full-scope safeguards of the International Atomic Energy Agency not later than two years after ratification by Cuba of such Treaty; and
 

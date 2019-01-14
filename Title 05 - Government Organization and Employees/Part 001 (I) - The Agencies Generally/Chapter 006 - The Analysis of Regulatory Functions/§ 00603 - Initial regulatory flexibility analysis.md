@@ -58,5 +58,5 @@ Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29,
 
 #### Effective Date
 
-Section effective Jan. 1, 1981, except that the requirements of this section applicable only to rules for which a notice of proposed rulemaking was issued on or afterJan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under section 601 of this title.
+Section effective Jan. 1, 1981, except that the requirements of this section applicable only to rules for which a notice of proposed rulemaking was issued on or after Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under section 601 of this title.
 

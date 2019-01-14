@@ -54,7 +54,7 @@ To the maximum extent feasible, the Secretary may provide that—
 
 &emsp;(1) any return or statement required to be provided under this section may be provided as part of any return or statement required under section 6051 or 6055, and
 
-&emsp;(2) in the case of an applicable large employer offering health insurance coverage of ahealth insurance issuer, the employer may enter into an agreement with the issuer to include information required under this section with the return and statement required to be provided by the issuer under section 6055.
+&emsp;(2) in the case of an applicable large employer offering health insurance coverage of a health insurance issuer, the employer may enter into an agreement with the issuer to include information required under this section with the return and statement required to be provided by the issuer under section 6055.
 
 #### (e) Coverage provided by governmental units
 

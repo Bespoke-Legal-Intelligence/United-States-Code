@@ -22,9 +22,11 @@
 
 &emsp;In National Weather Service Regions where the Director of the National Weather Service determines that ocean and coastal data would improve forecasts, the Director, in consultation with the Assistant Administrator for Oceanic and Atmospheric Research and the Assistant Administrator of the National Ocean Service, shall—
 
-&emsp;&emsp;(A) integrate additional coastal and ocean observations, and other data and research, from the Integrated Ocean Observing System (IOOS) into regional weather forecasts to improve weather forecasts and forecasting decision support systems; and
+&emsp;&emsp;(A) integrate additional coastal and ocean observations, and other data and research, from the Integrated Ocean Observing System (IOOS) into regional weather forecasts to improve weather forecasts and forecasting decision support systems;
 
-&emsp;&emsp;(B) support the development of real-time data sharing products and forecast products in collaboration with the regional associations of such system, including contributions from the private sector, academia, and research institutions to ensure timely and accurate use of ocean and coastal data in regional forecasts.
+&emsp;&emsp;(B) support the development of real-time data sharing products and forecast products in collaboration with the regional associations of such system, including contributions from the private sector, academia, and research institutions to ensure timely and accurate use of ocean and coastal data in regional forecasts; and
+
+&emsp;&emsp;(C) support increasing use of autonomous, mobile surface, sub-surface, and submarine vehicle ocean and fresh water sensor systems and the infrastructure necessary to share and analyze these data in real-time and feed them into predictive early warning systems.
 
 #### (3) Existing monitoring and observation-capability
 
@@ -86,13 +88,119 @@
 
 #### (B) Treatment
 
-&emsp;&emsp;If the Under Secretary enters into an agreement with another organization as described in subparagraph (A), any reference in this subsection to the National Academy ofSciences shall be treated as a reference to the other organization.
+&emsp;&emsp;If the Under Secretary enters into an agreement with another organization as described in subparagraph (A), any reference in this subsection to the National Academy of Sciences shall be treated as a reference to the other organization.
 
 #### (4) Authorization of appropriations
 
 &emsp;There are authorized to be appropriated, out of funds appropriated to National <sup>1</sup> Environmental Satellite, Data, and Information Service, to carry out this subsection $1,000,000 for the period encompassing fiscal years 2018 through 2019.
 
-(Pub. L. 115–25, title III, §301, Apr. 18, 2017, 131 Stat. 101.)
+#### (c) Next generation satellite architecture
+
+#### (1) In general
+
+&emsp;The Under Secretary shall analyze, test, and plan the procurement of future data sources and satellite architectures, including respective ground system elements, identified in the National Oceanic and Atmospheric Administration's Satellite Observing System Architecture Study that—
+
+&emsp;&emsp;(A) lower the cost of observations used to meet the National Oceanic and Atmospheric Administration's mission requirements;
+
+&emsp;&emsp;(B) disaggregate current satellite systems, where appropriate;
+
+&emsp;&emsp;(C) include new, value-adding technological advancements; and
+
+&emsp;&emsp;(D) improve weather forecasting and predictions.
+
+#### (2) Quantitative assessments and partnership authority
+
+&emsp;In meeting the requirements described in paragraph (1), the Under Secretary—
+
+&emsp;&emsp;(A) may partner with the commercial and academic sectors, non-governmental and not-for-profit organizations, and other Federal agencies; and
+
+&emsp;&emsp;(B) shall, consistent with section 8517 of this title, undertake quantitative assessments for objective analyses, as the Under Secretary considers appropriate, to evaluate relative value and benefits of future data sources and satellite architectures described in paragraph (1).
+
+#### (d) Additional forms of transaction authorized
+
+#### (1) In general
+
+&emsp;Subject to paragraph (2), in order to enhance the effectiveness of data and satellite systems used by the National Oceanic and Atmospheric Administration to meet its missions, the Under Secretary may enter into and perform such transaction agreements on such terms as the Under Secretary considers appropriate to carry out basic, applied, and advanced research projects to meet the objectives described in subparagraphs (A) through (D) subsection (c)(1).
+
+#### (2) Method and scope
+
+#### (A) In general
+
+&emsp;&emsp;A transaction agreement under paragraph (1) shall be limited to research and development activities.
+
+#### (B) Permissible uses
+
+&emsp;&emsp;A transaction agreement under paragraph (1) may be used—
+
+&emsp;&emsp;&emsp;(i) for the construction, use, operation, or procurement of new, improved, innovative, or value-adding satellites, instrumentation, ground stations, and data;
+
+&emsp;&emsp;&emsp;(ii) to make determinations on how to best use existing or planned data, systems, and assets of the National Oceanic and Atmospheric Administration; and
+
+&emsp;&emsp;&emsp;(iii) only when the objectives of the National Oceanic and Atmospheric Administration cannot be met using a cooperativeresearch and development agreement, grants procurement contract, or cooperative agreement.
+
+#### (3) Termination of effectiveness
+
+&emsp;The authority provided in this subsection terminates effective September 30, 2023.
+
+#### (e) Transparency
+
+Not later than 60 days after the date that a transaction agreement is made under subsection (d), the Under Secretary shall make publicly available, in a searchable format, on the website of the National Oceanic and Atmospheric Administration all uses of the authority under subsection (d), including an estimate of committed National Oceanic and Atmospheric Administration resources and the expected benefits to National Oceanic and Atmospheric Administration objectives for the transaction agreement, with appropriate redactions for proprietary, sensitive, or classified information.
+
+#### (f) Reports
+
+#### (1) In general
+
+&emsp;Not later than 90 days after September 30 of each fiscal year through September 30, 2023, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the use of additional transaction authority by the National Oceanic and Atmospheric Administration during the previous fiscal year.
+
+#### (2) Contents
+
+&emsp;Each report shall include—
+
+&emsp;&emsp;(A) for each transaction agreement in effect during the fiscal year covered by the report—
+
+&emsp;&emsp;&emsp;(i) an indication of whether the transaction agreement is a reimbursable, non-reimbursable, or funded agreement;
+
+&emsp;&emsp;&emsp;(ii) a description of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the subject and terms;
+
+&emsp;&emsp;&emsp;&emsp;(II) the parties;
+
+&emsp;&emsp;&emsp;&emsp;(III) the responsible National Oceanic and Atmospheric Administration line office;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the value;
+
+&emsp;&emsp;&emsp;&emsp;(V) the extent of the cost sharing among Federal Government and non-Federal sources;
+
+&emsp;&emsp;&emsp;&emsp;(VI) the duration or schedule; and
+
+&emsp;&emsp;&emsp;&emsp;(VII) all milestones;
+
+&emsp;&emsp;&emsp;(iii) an indication of whether the transaction agreement was renewed during the previous fiscal year;
+
+&emsp;&emsp;&emsp;(iv) the technology areas in which research projects were conducted under that agreement;
+
+&emsp;&emsp;&emsp;(v) the extent to which the use of that agreement—
+
+&emsp;&emsp;&emsp;&emsp;(I) has contributed to a broadening of the technology and industrial base available for meeting National Oceanic and Atmospheric Administration needs; and
+
+&emsp;&emsp;&emsp;&emsp;(II) has fostered within the technology and industrial base new relationships and practices that support the United States; and
+
+&emsp;&emsp;&emsp;(vi) the total value received by the Federal Government under that agreement for that fiscal year; and
+
+&emsp;&emsp;(B) a list of all anticipated reimbursable, non-reimbursable, and funded transaction agreements for the upcoming fiscal year.
+
+#### (g) Rule of construction
+
+Nothing in this section may be construed as limiting the authority of the National Oceanic and Atmospheric Administration to use cooperative research and development agreements, grants, procurement contracts, or cooperative agreements.
+
+(Pub. L. 115–25, title III, §301, Apr. 18, 2017, 131 Stat. 101; Pub. L. 115–423, §§6, 7(a), Jan. 7, 2019, 132 Stat. 5459, 5461.)
+
+#### Amendments
+
+<b>2019</b>—Subsec. (a)(2)(C). Pub. L. 115–423, §7(a), added subpar. (C).
+
+Subsecs. (c) to (g). Pub. L. 115–423, §6, added subsecs. (c) to (g).
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

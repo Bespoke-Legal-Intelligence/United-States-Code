@@ -92,7 +92,7 @@ This subtitle, referred to in subsec. (b)(2), is subtitle K (§§1801–1808) of
 
 #### Definitions
 
-Pub. L. 111–11, title I, §1801, Mar. 30, 2009, 123 Stat. 1052, provided that: "In this subtitle \[subtitle K (§§1801–1808) of title I of Pub. L. 111–11, see References in Text note above\]:
+Pub. L. 111–11, title I, §1801, Mar. 30, 2009, 123 Stat. 1052, provided that: "In this subtitle \[subtitle K\(§§1801–1808) of title I of Pub. L. 111–11, see References in Text note above\]:
 
 &emsp;"(1)
 

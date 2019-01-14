@@ -8,35 +8,11 @@ The Commodity Credit Corporation may make available for each fiscal year such fu
 
 The Commodity Credit Corporation shall make available for each fiscal year $5,500,000,000 of credit guarantees under section 5622(a) of this title.
 
-#### (c) Market access programs
-
-#### (1) In general
-
-&emsp;The Commodity Credit Corporation or the Secretary shall make available for market access activities authorized to be carried out by the Commodity Credit Corporation under section 5623 of this title—
-
-&emsp;&emsp;(A) in addition to any funds that may be specifically appropriated to implement a market access program, not more than $90,000,000 for fiscal year 2001, $100,000,000 for fiscal year 2002, $110,000,000 for fiscal year 2003, $125,000,000 for fiscal year 2004, $140,000,000 for fiscal year 2005, and $200,000,000 for each of fiscal years 2008 through 2018, of the funds of, or an equal value of commodities owned by, the Commodity Credit Corporation; and
-
-&emsp;&emsp;(B) any funds that may be specifically appropriated to carry out a market access program under section 5623 of this title.
-
-#### (2) Program priorities
-
-&emsp;In providing any amount of funds made available under paragraph (1)(A) for any fiscal year that is in excess of the amount made available under paragraph (1)(A) for fiscal year 2001, the Secretary shall, to the maximum extent practicable—
-
-&emsp;&emsp;(A) give equal consideration to—
-
-&emsp;&emsp;&emsp;(i) proposals submitted by organizations that were participating organizations in prior fiscal years; and
-
-&emsp;&emsp;&emsp;(ii) proposals submitted by eligible trade organizations that have not previously participated in the program established under this subchapter; and
-
-&emsp;&emsp;(B) give equal consideration to—
-
-&emsp;&emsp;&emsp;(i) proposals submitted for activities in emerging markets; and
-
-&emsp;&emsp;&emsp;(ii) proposals submitted for activities in markets other than emerging markets.
-
-(Pub. L. 95–501, title II, §211, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3677; amended Pub. L. 103–66, title I, §1302(a), Aug. 10, 1993, 107 Stat. 330; Pub. L. 104–127, title II, §§243(b), 244(a)(2)(B), (c), Apr. 4, 1996, 110 Stat. 967, 968; Pub. L. 107–171, title III, §§3102(d), 3103, May 13, 2002, 116 Stat. 289; Pub. L. 110–246, title III, §§3101(b), 3102(b), June 18, 2008, 122 Stat. 1831, 1832; Pub. L. 113–79, title III, §§3101(b), 3102, Feb. 7, 2014, 128 Stat. 779.)
+(Pub. L. 95–501, title II, §211, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3677; amended Pub. L. 103–66, title I, §1302(a), Aug. 10, 1993, 107 Stat. 330; Pub. L. 104–127, title II, §§243(b), 244(a)(2)(B), (c), Apr. 4, 1996, 110 Stat. 967, 968; Pub. L. 107–171, title III, §§3102(d), 3103, May 13, 2002, 116 Stat. 289; Pub. L. 110–246, title III, §§3101(b), 3102(b), June 18, 2008, 122 Stat. 1831, 1832; Pub. L. 113–79, title III, §§3101(b), 3102, Feb. 7, 2014, 128 Stat. 779; Pub. L. 115–334, title III, §3201(b)(1)(A), Dec. 20, 2018, 132 Stat. 4616.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–334 struck out subsec. (c) which related to funding for market access programs under section 5623 of this title and program priorities.
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–79, §3101(b), amended subsec. (b) generally. Prior to amendment, subsec (b) related to credit guarantees under section 5622(a) of this title for fiscal years 1996 to 2012.
 
@@ -48,7 +24,7 @@ Subsec. (c)(1)(A). Pub. L. 110–246, §3102(b), substituted "2008 through 2012"
 
 <b>2002</b>—Subsec. (b)(1). Pub. L. 107–171, §3102(d), substituted "2007" for "2002".
 
-Subsec. (c). Pub. L. 107–171, §3103, designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), added subpar. (A) and struck out former subpar. (A) relating to funds available for market access activities authorized to be carried out by the Commodity Credit Corporation for fiscal years 1991 through 2002, and added par. (2).
+Subsec. (c). Pub. L. 107–171, §3103, designated existing provisions as par. (1), inserted heading, redesignatedformer pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), added subpar. (A) and struck out former subpar. (A) relating to funds available for market access activities authorized to be carried out by the Commodity Credit Corporation for fiscal years 1991 through 2002, and added par. (2).
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–127, §243(b), added subsec. (b) and struck out former subsec. (b) which authorized short and intermediate term export credit guarantees for each of fiscal years 1991 through 1995 and further provided for limitation on origination fees for short-term guarantees.
 

@@ -64,13 +64,13 @@ A manufacturer shall provide with each manufactured home, design and instruction
 
 &emsp;&emsp;&emsp;(i) the model manufactured home installation standards established by the Secretary under subsection (b)(2); or
 
-&emsp;&emsp;&emsp;(ii) the designs and instructions provided by manufacturers under subsection (a), ifthe Secretary determines that such designs and instructions provide protection to the residents of manufactured homes that equals or exceeds the protection provided by the model manufactured home installation standards established by the Secretary under subsection (b)(2);
+&emsp;&emsp;&emsp;(ii) the designs and instructions provided by manufacturers under subsection (a), if the Secretary determines that such designs and instructions provide protection to the residents of manufactured homes that equals or exceeds the protection provided by the model manufactured home installation standards established by the Secretary under subsection (b)(2);
 
 &emsp;&emsp;(B) the training and licensing of manufactured home installers; and
 
 &emsp;&emsp;(C) inspection of the installation of manufactured homes.
 
-(Pub. L. 93–383, title VI, §605, Aug. 22, 1974, 88 Stat. 702; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 106–569, title VI, §605(a), Dec. 27, 2000, 114 Stat. 3006.)
+(Pub. L. 93–383, title VI, §605, Aug. 22, 1974, 88 Stat. 702; Pub. L. 96–399, title III, §308(c)(4), Oct.8, 1980, 94 Stat. 1641; Pub. L. 106–569, title VI, §605(a), Dec. 27, 2000, 114 Stat. 3006.)
 
 #### Amendments
 

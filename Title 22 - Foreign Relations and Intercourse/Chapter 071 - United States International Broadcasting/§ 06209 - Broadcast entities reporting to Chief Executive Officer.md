@@ -32,7 +32,7 @@ Officers and directors of RFE/RL Inc., Radio Free Asia, and the Middle East Broa
 
 #### (e) Maintenance of the existing individual grantee brands
 
-RFE/RL, Incorporated, Radio Free Asia, and the Middle East Broadcasting Networks, Incorporated should remain brand names under which news and related programming and content maybe disseminated by the consolidated grantee. Additional brands may be created as necessary.
+RFE/RL, Incorporated, Radio Free Asia, and the Middle East Broadcasting Networks, Incorporated should remain brand names under which news and related programming and content may be disseminated by the consolidated grantee. Additional brands may be created as necessary.
 
 (Pub. L. 103–236, title III, §310, as added Pub. L. 114–328, div. A, title XII, §1288(7), Dec. 23, 2016, 130 Stat. 2553.)
 

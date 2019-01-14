@@ -6,7 +6,7 @@ All persons employed in the Forest Service of the United States shall have autho
 
 #### Codification
 
-"Forest Service of the United States" substituted for "forest reserve of the United States" as the probable intent of Congress in that the federal forest reserves were transferred from Department of the Interior to Department of Agriculture by act Feb. 1, 1905, ch. 288, §1, 33 Stat. 628, and administration of forest reserves was placed in Forest Service which was created by that act.
+"Forest Service of the United States" substituted for "forest reserve of the United States" as the probableintent of Congress in that the federal forest reserves were transferred from Department of the Interior to Department of Agriculture by act Feb. 1, 1905, ch. 288, §1, 33 Stat. 628, and administration of forest reserves was placed in Forest Service which was created by that act.
 
 Words "national forests" and "forest" substituted for "forest reserves" and "reservation", respectively, on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
 

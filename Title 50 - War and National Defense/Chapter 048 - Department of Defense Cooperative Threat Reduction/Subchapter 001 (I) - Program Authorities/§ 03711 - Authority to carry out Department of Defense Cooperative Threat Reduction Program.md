@@ -4,7 +4,7 @@
 
 The Secretary of Defense may carry out a program, referred to as the "Department of Defense Cooperative Threat Reduction Program", with respect to foreign countries to do the following:
 
-&emsp;(1) Facilitate the elimination and the safe and secure transportation and storage ofchemical, biological, or other weapons, weapons components, weapons-related materials, and associated delivery vehicles.
+&emsp;(1) Facilitate the elimination and the safe and secure transportation and storage of chemical, biological, or other weapons, weapons components, weapons-related materials, and associated delivery vehicles.
 
 &emsp;(2) Facilitate—
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) seamen for purposes of qualifying for certificates of service; and
 
-&emsp;(4) employees eligible for benefits under the Longshore and Harbor Workers' Compensation Act, as amended \[33 U.S.C. 901 et seq.\], as requested by any deputy commissioner thereunder.
+&emsp;(4) employees eligible for benefits under the Longshore and Harbor Workers' CompensationAct, as amended \[33 U.S.C. 901 et seq.\], as requested by any deputy commissioner thereunder.
 
 (b) The Secretary is authorized to provide medical, surgical, and dental treatment and hospitalization and optometric care for Federal employees (as defined in section 8901(1) of title 5) and their dependents at remote medical facilities of the Public Health Service where such care and treatment are not otherwise available. Such employees and their dependents who are not entitled to this care and treatment under any other provision of law shall be charged for it at rates established by the Secretary to reflect the reasonable cost of providing the care and treatment. Any payments pursuant to the preceding sentence shall be credited to the applicable appropriation to the Public Health Service for the year in which such payments are received.
 
@@ -38,7 +38,7 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–468 effective on date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\],pursuant to section 1203 of Title 45, Railroads, see section 615(b) of Pub. L. 97–468.
+Amendment by Pub. L. 97–468 effective on date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\], pursuant to section 1203 of Title 45, Railroads, see section 615(b) of Pub. L. 97–468.
 
 #### Transfer of Functions
 

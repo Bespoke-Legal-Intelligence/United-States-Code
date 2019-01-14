@@ -10,7 +10,7 @@ Not later than March 15, 2001, the President shall submit to Congress a proposal
 
 &emsp;(3) Whether to expand the compensation program to include other illnesses associated with exposure to toxic substances.
 
-&emsp;(4) Whether to expand the class of individuals who are members of the Special Exposure Cohort (as defined in section 7384l(14) of this title).
+&emsp;(4) Whether to expand the class of individuals who are members of the Special ExposureCohort (as defined in section 7384l(14) of this title).
 
 #### (b) Assessment of potential covered employees and required amounts
 

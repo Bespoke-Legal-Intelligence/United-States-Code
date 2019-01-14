@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;To be eligible to receive a grant under the program, each eligible applicant shall submit to the Secretary a written assurance that all laborers and mechanics employed by any contractor or subcontractor of the eligible entityduring any construction, alteration, or repair activity funded, in whole or in part, by the grant shall be paid wages at rates not less than the prevailing wages for similar construction activities in the locality, as determined by the Secretary of Labor, in accordance with sections 3141 through 3144, 3146, and 3147 of title 40.
+&emsp;To be eligible to receive a grant under the program, each eligible applicant shall submit to the Secretary a written assurance that all laborers and mechanics employed by any contractor or subcontractor of the eligible entity during any construction, alteration, or repair activity funded, in whole or in part, by the grant shall be paid wages at rates not less than the prevailing wages for similar construction activities in the locality, as determined by the Secretary of Labor, in accordance with sections 3141 through 3144, 3146, and 3147 of title 40.
 
 #### (2) Secretary of Labor
 
@@ -80,7 +80,7 @@
 
 #### (4) Annual report
 
-&emsp;Not later than 2 years after the date on which funds are initially provided to an eligible unit of local government or Indian tribe under the program, and annually thereafter, the eligible unit of local government or Indian tribe shall submit to the Secretary a report describing—
+&emsp;Not later than 2 years after the date on which funds are initially provided to an eligible unit of local government or Indian tribe under the program, and annually thereafter, the eligible unit of local government or Indiantribe shall submit to the Secretary a report describing—
 
 &emsp;&emsp;(A) the status of development and implementation of the energy efficiency and conservation strategy of the eligible unit of local government or Indian tribe; and
 
@@ -96,7 +96,7 @@
 
 #### (B) Deadline
 
-&emsp;&emsp;The State shall provide the subgrants required under subparagraph (A) by not laterthan 180 days after the date on which the Secretary approves a proposed energy efficiency and conservation strategy of the State under paragraph (3).
+&emsp;&emsp;The State shall provide the subgrants required under subparagraph (A) by not later than 180 days after the date on which the Secretary approves a proposed energy efficiency and conservation strategy of the State under paragraph (3).
 
 #### (2) Revision of conservation plan; proposed strategy
 

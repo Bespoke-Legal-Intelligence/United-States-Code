@@ -214,7 +214,7 @@ If any item or service covered by a qualified health plan is provided by a Feder
 
 This title, referred to in subsecs. (a), (b)(5), (d)(2)(C), (4), and (e)(2)(B), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
-The Public Health Service Act, referred to in subsec. (d)(2)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, whichis classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (d)(2)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 Section 2713, referred to in subsec. (e)(1)(B)(i), probably means section 2713 of act July 1, 1944, which is classified to section 300gg–13 of this title.
 
@@ -230,7 +230,7 @@ Subsec. (g). Pub. L. 111–148, §10104(b)(2), added subsec. (g).
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–93 effective as if included in the enactment of Pub. L. 111–148, see section 213(c) of Pub. L. 113–93, set out as a note under section 300gg–6 of this title.
+Amendment by Pub. L. 113–93 effective as if included in the enactment of Pub. L. 111–148, see section 213(c) ofPub. L. 113–93, set out as a note under section 300gg–6 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@ The policy developed under subsection (a) shall include—
 
 &emsp;(2) clear procedures an individual should follow in the case of an occurrence of sexual harassment, including—
 
-&emsp;&emsp;(A) a specification of the person or persons to whom an alleged occurrence of sexualharassment should be reported by an individual and options for confidential reporting, including—
+&emsp;&emsp;(A) a specification of the person or persons to whom an alleged occurrence of sexual harassment should be reported by an individual and options for confidential reporting, including—
 
 &emsp;&emsp;&emsp;(i) options and contact information for after-hours contact; and
 

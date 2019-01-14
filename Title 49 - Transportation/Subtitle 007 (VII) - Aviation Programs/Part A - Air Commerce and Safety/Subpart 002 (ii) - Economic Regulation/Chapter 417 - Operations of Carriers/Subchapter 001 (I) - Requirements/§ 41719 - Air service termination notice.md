@@ -16,7 +16,7 @@ Exceptions.—The requirements of subsection (a) shall not apply when—
 
 &emsp;(4) the carrier involved provides other transportation by jet from another airport serving the same community as the affected nonhub airport; or
 
-&emsp;(5) the carrier involved makes alternative arrangements, such as a change of aircraftsize, or other types of arrangements with a part 121 or part 135 air carrier, that continues uninterrupted service from the affected nonhub airport.
+&emsp;(5) the carrier involved makes alternative arrangements, such as a change of aircraft size, or other types of arrangements with a part 121 or part 135 air carrier, that continues uninterrupted service from the affected nonhub airport.
 
 (c)
 

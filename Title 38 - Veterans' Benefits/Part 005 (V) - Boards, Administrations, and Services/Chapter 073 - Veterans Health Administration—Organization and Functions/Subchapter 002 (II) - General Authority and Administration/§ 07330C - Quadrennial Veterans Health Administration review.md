@@ -1,0 +1,122 @@
+### §7330C. Quadrennial Veterans Health Administration review
+
+(a)
+
+Market Area Assessments.—(1) Not less frequently than every 4 years, the Secretary shall perform market area assessments regarding the health care services furnished under the laws administered by the Secretary.
+
+(2) Each market area assessment established under paragraph (1) shall include the following:
+
+&emsp;(A) An assessment of the demand for health care from the Department, disaggregated by geographic market areas as determined by the Secretary, including the number of requests for health care services under the laws administered by the Secretary.
+
+&emsp;(B) An inventory of the health care capacity of the Department across the Department's system of facilities.
+
+&emsp;(C) An assessment of the health care capacity to be provided through contracted community care providers and providers who entered into a provider agreement with the Department under section 1703A of this title, including the number of providers, the geographic location of the providers, and categories or types of health care services provided by the providers.
+
+&emsp;(D) An assessment obtained from other Federal direct delivery systems of their capacity to provide health care to veterans.
+
+&emsp;(E) An assessment of the health care capacity of non-contracted providers where there is insufficient network supply.
+
+&emsp;(F) An assessment of the health care capacity of academic affiliates and other collaborations of the Department as it relates to providing health care to veterans.
+
+&emsp;(G) An assessment of the effects on health care capacity of the access standards and standards for quality established under sections 1703B and 1703C of this title.
+
+&emsp;(H) The number of appointments for health care services under the laws administered by the Secretary, disaggregated by—
+
+&emsp;&emsp;(i) appointments at facilities of the Department; and
+
+&emsp;&emsp;(ii) appointments with non-Department health care providers.
+
+(3)(A) The Secretary shall submit to the appropriate committees of Congress the market area assessments established in paragraph (1).
+
+(B) The Secretary also shall submit to the appropriate committees of Congress the market area assessments completed by or being performed on the day before the date of the enactment of the Caring for Our Veterans Act of 2018.
+
+(4)(A) The Secretary shall use the market area assessments established under paragraph (1) to—
+
+&emsp;(i) determine the capacity of the health care provider networks established under section 1703(h) <sup>1</sup> of this title;
+
+&emsp;(ii) inform the Department budget, in accordance with subparagraph (B); and
+
+&emsp;(iii) inform and assess the appropriateness of the access standards established under section 1703B of this title and standards for quality under section 1703C of this title and to make recommendations for any changes to such standards.
+
+(B) The Secretary shall ensure that the Department budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) reflects the findings of the Secretary with respect to the most recent market area assessments under paragraph (1) and health care utilization data from the Department and non-Department entities or providers furnishing care and services to covered veterans as described in section 1703(b) <sup>1</sup> of this title.
+
+(b)
+
+Strategic Plan To Meet Health Care Demand.—(1) Not later than 1 year after the date of the enactment of the Caring for Our Veterans Act of 2018 and not less frequently than once every 4 years thereafter, the Secretary shall submit to the appropriate committees of Congress a strategic plan that specifies a 4-year forecast of—
+
+&emsp;(A) the demand for health care from the Department, disaggregated by geographic area as determined by the Secretary;
+
+&emsp;(B) the health care capacity to be provided at each medical center of the Department; and
+
+&emsp;(C) the health care capacity to be provided through community care providers.
+
+(2) In preparing the strategic plan under paragraph (1), the Secretary shall—
+
+&emsp;(A) assess the access standards and standards for quality established under sections 1703B and 1703C of this title;
+
+&emsp;(B) assess the market area assessments established under subsection (a);
+
+&emsp;(C) assess the needs of the Department based on identified services that provide management of conditions or disorders related to military service for which there is limited experience or access in the national market, theoverall health of veterans throughout their lifespan, or other services as the Secretary determines appropriate;
+
+&emsp;(D) consult with key stakeholders within the Department, the heads of other Federal agencies, and other relevant governmental and nongovernmental entities, including State, local, and tribal government officials, members of Congress, veterans service organizations, private sector representatives, academics, and other policy experts;
+
+&emsp;(E) identify emerging issues, trends, problems, and opportunities that could affect health care services furnished under the laws administered by the Secretary;
+
+&emsp;(F) develop recommendations regarding both short- and long-term priorities for health care services furnished under the laws administered by the Secretary;
+
+&emsp;(G) after consultation with veterans service organizations and other key stakeholders on survey development or modification of an existing survey, consider a survey of veterans who have used hospital care, medical services, or extended care services furnished by the Veterans Health Administration during the most recent 2-year period to assess the satisfaction of the veterans with service and quality of care;
+
+&emsp;(H) conduct a comprehensive examination of programs and policies of the Department regarding the delivery of health care services and the demand of health care services for veterans in future years;
+
+&emsp;(I) assess the remediation of medical service lines of the Department as described in section 1706A of this title in conjunction with the utilization of non-Department entities or providers to offset remediation; and
+
+&emsp;(J) consider such other matters as the Secretary considers appropriate.
+
+(c)
+
+Responsibilities.—The Secretary shall be responsible for—
+
+&emsp;(1) overseeing the transformation and organizational change across the Department to achieve a high-performing integrated health care network;
+
+&emsp;(2) developing the capital infrastructure planning and procurement processes, whether minor or major construction projects or leases; and
+
+&emsp;(3) developing a multi-year budget process that is capable of forecasting future year budget requirements and projecting the cost of delivering health care services under such a high-performing integrated health care network.
+
+(d)
+
+Appropriate Committees of Congress Defined.—In this section, the term "appropriate committees of Congress" means—
+
+&emsp;(1) the Committee on Veterans' Affairs and the Committee on Appropriations of the Senate; and
+
+&emsp;(2) the Committee on Veterans' Affairs and the Committee on Appropriations of the House of Representatives.
+
+(Added Pub. L. 115–182, title I, §106(a), June 6, 2018, 132 Stat. 1413; amended Pub. L. 115–251, title II, §211(a)(11), Sept. 29, 2018, 132 Stat. 3175.)
+
+#### References in Text
+
+The date of the enactment of the Caring for Our Veterans Act of 2018, referred to in subsecs. (a)(3)(B) and (b), is the date of enactment of Pub. L. 115–182, which was approved June 6, 2018.
+
+Section 1703 of this title, referred to in subsec. (a)(4)(A)(i), (B), probably means section 1703 of this title as amended by Pub. L. 115–182, title I, §101(a)(1), June 6, 2018, 132 Stat. 1395, which takes effect on the date specified in section 101(b) of Pub. L. 115–182. See Amendment of Section and Effective Date of 2018 Amendment notes set out under section 1703 of this title.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–251, §211(a)(11)(A)(i), substituted "Secretary shall" for "Secretary of Veterans Affairs shall".
+
+Subsec. (a)(2)(B). Pub. L. 115–251, §211(a)(11)(A)(ii)(I), substituted "Department across" for "Department of Veterans Affairs across".
+
+Subsec. (a)(2)(C). Pub. L. 115–251, §211(a)(11)(A)(ii)(II), substituted "of this title" for "of title 38, as added by section 102".
+
+Subsec. (a)(2)(H)(i). Pub. L. 115–251, §211(a)(11)(A)(ii)(III), substituted "Department" for "Department of Veterans Affairs".
+
+Subsec. (a)(4)(A)(iii). Pub. L. 115–251, §211(a)(11)(A)(iii)(I), inserted "of this title" after "section 1703C".
+
+Subsec. (a)(4)(B). Pub. L. 115–251, §211(a)(11)(A)(iii)(II), inserted "of this title" after "section 1703(b)".
+
+Subsec. (b)(2)(I). Pub. L. 115–251, §211(a)(11)(B), inserted "of this title" after "section 1706A".
+
+Subsec. (c)(1). Pub. L. 115–251, §211(a)(11)(C)(i), substituted "a high-performing" for "such high performing".
+
+Subsec. (c)(3). Pub. L. 115–251, §211(a)(11)(C)(ii), inserted "such" before "a high-performing".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

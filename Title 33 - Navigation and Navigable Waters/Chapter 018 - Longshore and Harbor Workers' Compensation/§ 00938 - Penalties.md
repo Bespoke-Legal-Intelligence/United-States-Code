@@ -18,7 +18,7 @@ This section shall not affect any other liability of the employer under this cha
 
 <b>1984</b>—Subsecs. (a), (b). Pub. L. 98–426 substituted "$10,000" for "$1,000" wherever appearing.
 
-<b>1938</b>—Act June 25, 1938, amended section generally, designating first sentence as subsec. (a) and inserting provisions respecting liability of corporate officers, adding subsec. (b), and designating second sentence as subsec. (c).
+<b>1938</b>—Act June 25, 1938, amended section generally, designating first sentence as subsec. (a) and inserting provisions respecting liability of corporate officers,adding subsec. (b), and designating second sentence as subsec. (c).
 
 #### Effective Date of 1984 Amendment
 

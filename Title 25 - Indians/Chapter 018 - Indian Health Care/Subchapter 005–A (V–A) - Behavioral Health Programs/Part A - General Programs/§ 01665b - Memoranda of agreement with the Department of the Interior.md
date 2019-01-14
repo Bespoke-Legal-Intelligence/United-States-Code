@@ -56,7 +56,7 @@ Section 703 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 #### Prior Provisions
 
-A prior section 1665b, Pub. L. 94–437, title VII, §703, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106Stat. 4573, related to Indian women treatment programs, prior to the general amendment of this subchapter by Pub. L. 111–148. See section 1665f of this title.
+A prior section 1665b, Pub. L. 94–437, title VII, §703, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4573, related to Indian women treatment programs, prior to the general amendment of this subchapter by Pub. L. 111–148. See section 1665f of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "memorandum".</i>
 

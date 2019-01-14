@@ -10,11 +10,11 @@
 
 &emsp;(3) any other cemetery, memorial, or monument transferred to the Veterans' Administration by the National Cemeteries Act of 1973, or later acquired or developed by the Secretary.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1000; amended Pub. L. 99–576, title VII, §701(52), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–527, §13(i), Oct. 25, 1988, 102 Stat. 2644; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2400 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 105–368, title IV, §403(c)(3), Nov. 11, 1998, 112 Stat. 3338.)
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1000; amended Pub. L. 99–576, title VII,§701(52), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–527, §13(i), Oct. 25, 1988, 102 Stat. 2644; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2400 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 105–368, title IV, §403(c)(3), Nov. 11, 1998, 112 Stat. 3338.)
 
 #### References in Text
 
-The National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), is Pub. L. 93–43, June 18, 1973, 87 Stat. 75, as amended, which is classified principally to this chapter (§2400 et seq.). For complete classification ofthis Act to the Code, see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under section 101 of this title and Tables.
+The National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), is Pub. L. 93–43, June 18, 1973, 87 Stat. 75, as amended, which is classified principally to this chapter (§2400 et seq.). For complete classification of this Act to the Code, see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under section 101 of this title and Tables.
 
 For national cemeteries transferred from the Department of the Army to the Veterans' Administration by the National Cemeteries Act of 1973, and any other cemetery, memorial, or monument transferred to the Veterans' Administration by the National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), see Transfer of Functions note set out under section 2404 of this title.
 
@@ -214,7 +214,7 @@ Leases.—(1) The Secretary may enter into agreements as the Secretary determine
 
 Fund.—(1) There is hereby established the Pershing Hall Revolving Fund to be administered by the Secretary of Veterans Affairs.
 
-"(2) There shall be transferred to the Pershing Hall Revolving Fund, at such time or times as the Secretarymay determine without limitation as to year, amounts as determined by the Secretary, not to exceed $1,000,000 in total, from funds appropriated to the Department of Veterans Affairs for the construction of major projects. The account from which any such amount is transferred shall be reimbursed promptly from other funds as they become part of the Pershing Hall Revolving Fund.
+"(2) There shall be transferred to the Pershing Hall Revolving Fund, at such time or times as the Secretary may determine without limitation as to year, amounts as determined by the Secretary, not to exceed $1,000,000 in total, from funds appropriated to the Department of Veterans Affairs for the construction of major projects. The account from which any such amount is transferred shall be reimbursed promptly from other funds as they become part of the Pershing Hall Revolving Fund.
 
 "(3) The Pershing Hall Memorial Fund, established in the Treasury of the United States pursuant to section 2 of the Act of June 28, 1935 (Public Law 74–171; 49 Stat. 426) \[former 36 U.S.C. 491\], is hereby abolished and the corpus of the fund, including accrued interest, is transferred to the Pershing Hall Revolving Fund.
 

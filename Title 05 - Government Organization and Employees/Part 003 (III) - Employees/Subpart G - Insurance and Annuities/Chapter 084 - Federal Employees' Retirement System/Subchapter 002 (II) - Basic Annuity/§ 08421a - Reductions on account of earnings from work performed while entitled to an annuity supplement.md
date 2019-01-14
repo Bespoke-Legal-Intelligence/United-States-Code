@@ -28,7 +28,7 @@
 
 &emsp;(5) Notwithstanding paragraphs (1) through (4), the reduction required by subsection (a) shall be effective with respect to the annuity supplement payable for each month in the 12-month period beginning on the first day of the seventh month after the end of the calendar year in which the excess earnings were earned.
 
-(c) This section shall not apply to an individual described in section 8412(e) during any period in which the individual, after separating from the service as described in that section, is employed full-time as an air traffic control instructor under contract with the Federal Aviation Administration, including an instructor working at an on-site facility (such as an airport).
+(c) This section shall not apply to an individual described in section 8412(e) during any period in which the individual, after separating from the service as described in that section, is employed full-time as an air traffic control instructor under contract with the Federal AviationAdministration, including an instructor working at an on-site facility (such as an airport).
 
 (d) The Office shall prescribe regulations under which this section shall be applied in the case of a reemployed annuitant.
 
@@ -50,5 +50,5 @@ Subsecs. (c), (d). Pub. L. 114–251, §1(2), (3), added subsec. (c) and redesig
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–394, §3(b), Oct. 30, 2000, 114 Stat. 1630, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply with respect to reductions required to be made in calendar years beginning after the date of the enactment of this Act \[Oct. 30, 2000\]."
+Pub. L. 106–394, §3(b), Oct. 30, 2000, 114 Stat. 1630, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to reductions required to be made in calendar years beginning after the date of the enactment of this Act \[Oct. 30, 2000\]."
 

@@ -12,7 +12,7 @@
 
 (C) Grants may be made under this section only during the two-year period beginning after June 14, 1980.
 
-(2) Subject to the second sentence of this paragraph, the Federal share of the costs referred to in paragraph (1) shall be 50 percent. Upon a determination by the Secretary that an applicanthas limited fiscal resources and would be unable to participate in the program under this section without receiving from the Federal Government, as its Federal share of such costs, an amount greater than the amount permitted under the first sentence of this paragraph, the Secretary may increase the Federal share which may be paid to such applicant by such amount as the Secretary considers appropriate to permit the applicant to participate in the program.
+(2) Subject to the second sentence of this paragraph, the Federal share of the costs referred to in paragraph (1) shall be 50 percent. Upon a determination by the Secretary that an applicant has limited fiscal resources and would be unable to participate in the program under this section without receiving from the Federal Government, as its Federal share of such costs, an amount greater than the amount permitted under the first sentence of this paragraph, the Secretary may increase the Federal share which may be paid to such applicant by such amount as the Secretary considers appropriate to permit the applicant to participate in the program.
 
 #### (b) Application for grants; procedures applicable for approval; programs completed before January 1, 1976; determinations respecting amount of grant
 
@@ -38,7 +38,7 @@
 
 > No grant may be awarded under this section for any asbestos hazards detection program completed before January 1, 1976.
 
-(4) After reviewing the application submitted under this section, together with any recommendations made by the Task Force, the Secretary shall determine the amount of any grant to be awarded under this section. Funds may be awarded by the Secretary for the administrative costs incurred in the preparation and supervision of the asbestos detection program and for the following activities:
+(4) After reviewing the application submitted under this section, together with any recommendations made by the Task Force, the Secretary shall determine the amount of any grant to be awarded under this section. Funds may be awarded by the Secretary for the administrativecosts incurred in the preparation and supervision of the asbestos detection program and for the following activities:
 
 &emsp;(A) Visual inspections of school buildings.
 

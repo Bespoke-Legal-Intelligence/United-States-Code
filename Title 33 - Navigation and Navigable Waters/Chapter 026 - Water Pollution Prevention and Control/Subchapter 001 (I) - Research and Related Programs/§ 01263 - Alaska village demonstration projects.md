@@ -2,7 +2,7 @@
 
 #### (a) Central community facilities for safe water; elimination or control of pollution
 
-The Administrator is authorized to enter into agreements with the State of Alaska to carryout one or more projects to demonstrate methods to provide for central community facilities for safe water and eliminate or control of pollution in those native villages of Alaska without such facilities. Such project shall include provisions for community safe water supply systems, toilets, bathing and laundry facilities, sewage disposal facilities, and other similar facilities, and educational and informational facilities and programs relating to health and hygiene. Such demonstration projects shall be for the further purpose of developing preliminary plans for providing such safe water and such elimination or control of pollution for all native villages in such State.
+The Administrator is authorized to enter into agreements with the State of Alaska to carry out one or more projects to demonstrate methods to provide for central community facilities for safe water and eliminate or control of pollution in those native villages of Alaska without such facilities. Such project shall include provisions for community safe water supply systems, toilets, bathing and laundry facilities, sewage disposal facilities, and other similar facilities, and educational and informational facilities and programs relating to health and hygiene. Such demonstration projects shall be for the further purpose of developing preliminary plans for providing such safe water and such elimination or control of pollution for all native villages in such State.
 
 #### (b) Utilization of personnel and facilities of Department of Health and Human Services
 
@@ -12,7 +12,7 @@ In carrying out this section the Administrator shall cooperate with the Secretar
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated not to exceed $2,000,000 to carry out this section. In addition, there is authorized to be appropriated to carry out this section not to exceed $200,000 for the fiscal year ending September 30, 1978, and $220,000 for the fiscal year ending September 30, 1979.
+There is authorized to be appropriated not to exceed $2,000,000 to carry out this section. In addition, there is authorized to be appropriated tocarry out this section not to exceed $200,000 for the fiscal year ending September 30, 1978, and $220,000 for the fiscal year ending September 30, 1979.
 
 #### (e) Study to develop comprehensive program for achieving sanitation services; report to Congress
 

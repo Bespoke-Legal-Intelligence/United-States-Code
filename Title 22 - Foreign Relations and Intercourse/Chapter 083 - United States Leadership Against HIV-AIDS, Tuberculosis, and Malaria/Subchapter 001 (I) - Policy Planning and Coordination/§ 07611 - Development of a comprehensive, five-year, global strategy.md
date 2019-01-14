@@ -96,7 +96,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;(15) increase support for prevention of mother-to-child transmission;
 
-&emsp;(16) build capacity within the public health sector of developing countries by improving health systems and public health infrastructure and developing indicators to measure changes in broader public health sector capabilities;
+&emsp;(16) build capacity within the public health sector of developing countries by improvinghealth systems and public health infrastructure and developing indicators to measure changes in broader public health sector capabilities;
 
 &emsp;(17) increase the coordination of HIV/AIDS programs with development programs;
 
@@ -136,7 +136,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;(C) promote responsible male behavior; and
 
-&emsp;&emsp;(D) promote male participation and leadership at the community level in efforts to promote HIV prevention, reduce stigma, promote participation in voluntary counselingand testing, and provide care, treatment, and support for persons with HIV/AIDS;
+&emsp;&emsp;(D) promote male participation and leadership at the community level in efforts to promote HIV prevention, reduce stigma, promote participation in voluntary counseling and testing, and provide care, treatment, and support for persons with HIV/AIDS;
 
 &emsp;(22) provide a plan to address the vulnerabilities and needs of orphans and children who are vulnerable to, or affected by, HIV/AIDS;
 
@@ -296,7 +296,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;&emsp;(i) an assessment of the performance of United States-assisted global HIV/AIDS programs; and
 
-&emsp;&emsp;&emsp;(ii) an evaluation of the impact on health of prevention, treatment, and care efforts that are supported by United Statesfunding, including multilateral and bilateral programs involving joint operations.
+&emsp;&emsp;&emsp;(ii) an evaluation of the impact on health of prevention, treatment, and care efforts that are supported by United States funding, including multilateral and bilateral programs involving joint operations.
 
 #### (B) Content
 
@@ -374,7 +374,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (A) Development
 
-&emsp;&emsp;The Inspectors General of the Department of State and Broadcasting Board of Governors, the Department of Health and Human Services, and the United States Agency for International Development shall jointly develop coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2018, with regard to the programs authorized under this chapter and sections 2151b–2, 2151b–3, and 2151b–4 of this title.
+&emsp;&emsp;The Inspectors General of the Department of State and Broadcasting Board of Governors, the Department of Health and Human Services, and the United States Agency for International Development shall jointly develop coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2023, with regard to the programs authorized under this chapter and sections 2151b–2, 2151b–3, and 2151b–4 of this title.
 
 #### (B) Contents
 
@@ -400,7 +400,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (iv) Subsequent plans
 
-&emsp;&emsp;&emsp;Each of the last four plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2015 through 2018, respectively.
+&emsp;&emsp;&emsp;Each of the last nine plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2015 through 2023, respectively.
 
 #### (2) Coordination
 
@@ -418,7 +418,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (1) In general
 
-&emsp;Not later than September 30, 2009, and annually thereafter through September 30, 2019, the Global AIDS Coordinator shall complete a study of treatment providers that—
+&emsp;Not later than September 30, 2009, and annually thereafter through September 30, 2024, the Global AIDS Coordinator shall complete a study of treatment providers that—
 
 &emsp;&emsp;(A) represents a range of countries and service environments;
 
@@ -432,9 +432,9 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;&emsp;(iii) other subcategories, as appropriate.
 
-#### (2) 2013 through 2018 studies
+#### (2) 2013 through 2024 studies
 
-&emsp;The studies required to be submitted by September 30, 2014, and annually thereafter through September 30, 2018, shall include, in addition to the elements set forth under paragraph (1), the following elements:
+&emsp;The studies required to be submitted by September 30, 2014, and annually thereafter through September 30, 2024, shall include, in addition to the elements set forth under paragraph (1), the following elements:
 
 &emsp;&emsp;(A) A plan for conducting cost studies of United States assistance under section 2151b–2 of this title in partner countries, taking into account the goal for more systematic collection of data, as well as the demands of such analysis on available human and fiscal resources.
 
@@ -460,13 +460,21 @@ The Global AIDS Coordinator shall develop a message, to be prominently displayed
 
 &emsp;(2) enhances awareness by program recipients that the program is an effort on behalf of the citizens of the United States.
 
-(Pub. L. 108–25, title I, §101, May 27, 2003, 117 Stat. 718; Pub. L. 110–293, title I, §101, July 30, 2008, 122 Stat. 2923; Pub. L. 113–56, §§2, 3(a), Dec. 2, 2013, 127 Stat. 648.)
+(Pub. L. 108–25, title I, §101, May 27, 2003, 117 Stat. 718; Pub. L. 110–293, title I, §101, July 30, 2008, 122 Stat. 2923; Pub. L. 113–56, §§2, 3(a), Dec. 2, 2013, 127 Stat. 648; Pub. L. 115–305, §2, Dec. 11, 2018, 132 Stat. 4402.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (c)(2)(B)(vi), (vii), (f)(1)(A), (g)(1)(B), and (h), was in the original "this Act", meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f)(1)(A). Pub. L. 115–305, §2(1)(A), substituted "2023" for "2018".
+
+Subsec. (f)(1)(C)(iv). Pub. L. 115–305, §2(1)(B), substituted "nine" for "four" and "2023" for "2018".
+
+Subsec. (g)(1). Pub. L. 115–305, §2(2)(A), substituted "2024" for "2019" in introductory provisions.
+
+Subsec. (g)(2). Pub. L. 115–305, §2(2)(B), substituted "2024" for "2018" in heading and introductory provisions.
 
 <b>2013</b>—Subsec. (f)(1)(A). Pub. L. 113–56, §2(1), substituted "coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2018" for "5 coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2013".
 

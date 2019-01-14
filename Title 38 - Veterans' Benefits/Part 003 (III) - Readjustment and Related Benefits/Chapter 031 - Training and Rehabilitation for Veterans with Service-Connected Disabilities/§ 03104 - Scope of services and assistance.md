@@ -48,13 +48,17 @@
 
 (2) Not later than 90 days before making any changes to the prioritization of the provision of services under this chapter as authorized under paragraph (1), the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a plan describing such changes.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2174, §1504; amended Pub. L. 100–323, §11(a)(3)(A), May 20, 1988, 102 Stat. 568; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §3(b)(1), Mar. 22, 1991, 105 Stat. 49; Pub. L. 102–54, §14(c)(3), June 13, 1991, 105 Stat. 285; renumbered §3104 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(d), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 114–315, title IV, §§402(a), 403, Dec. 16, 2016, 130 Stat. 1553, 1554.)
+(d) The Secretary may not assist a veteran in acquiring adaptations to the residence of the veteran under this chapter. Any such assistance may be furnished only under section 2102B of this title.
+
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2174, §1504; amended Pub. L. 100–323, §11(a)(3)(A), May 20, 1988, 102 Stat. 568; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §3(b)(1), Mar. 22, 1991, 105 Stat. 49; Pub. L. 102–54, §14(c)(3), June 13, 1991, 105 Stat. 285; renumbered §3104 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(d), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 114–315, title IV, §§402(a), 403, Dec. 16, 2016, 130 Stat. 1553, 1554; Pub. L. 115–177, §1(c)(1), June 1, 2018, 132 Stat. 1377.)
 
 #### Prior Provisions
 
 Prior section 3104 was renumbered section 5304 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–177 added subsec. (d).
 
 <b>2016</b>—Subsec. (b). Pub. L. 114–315, §402(a), inserted at end "To the maximum extent practicable, a course of education or training may be pursued by a veteran as part of a rehabilitation program under this chapter only if the course is approved for purposes of chapter 30 or 33 of this title. The Secretary may waive the requirement under the preceding sentence to the extent the Secretary determines appropriate."
 
@@ -170,5 +174,5 @@ Authorization of Appropriations.—There are authorized to be appropriated for t
 
 #### Veterans Pursuing Program of Vocational Rehabilitation Under Former Section 1504 of This Title
 
-During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of section 3108 \[formerly 1508\] of this title, as added by Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2178, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1504 of this title applied to veterans pursuing such a program under this chapter on Sept. 30,1980. See section 802(a)(4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
+During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of section 3108 \[formerly 1508\] of this title, as added by Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2178, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1504 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980. See section 802(a)(4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
 

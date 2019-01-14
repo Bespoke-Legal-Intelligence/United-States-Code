@@ -150,7 +150,7 @@ Processing for Administrative Separation.—
 
 &emsp;"(1)
 
-In general.—(A) The Secretary of Defense and the Secretary of the Department in which the CoastGuard is operating shall require the processing for administrative separation of any member of the Armed Forces described in subsection (a)(2)(A) in response to the first substantiated violation by the member of the policy required by subsection (a), when the member is not otherwise punitively discharged or dismissed from the Armed Forces for that violation.
+In general.—(A) The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall require the processing for administrative separation of any member of the Armed Forces described in subsection (a)(2)(A) in response to the first substantiated violation by the member of the policy required by subsection (a), when the member is not otherwise punitively discharged or dismissed from the Armed Forces for that violation.
 
 &emsp;"(B) The Secretary of a military department shall revise regulations applicable to the Armed Forces under the jurisdiction of that Secretary as necessary to ensure compliance with the requirement under subparagraph (A).
 
@@ -174,7 +174,7 @@ Substantiated violation.—For purposes of paragraph (1), a violation by a membe
 
 "(d)
 
-Report on Need for UCMJ Punitive Article.—Not later than 120 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing the recommendations of the Secretary regarding the need to amend chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), to create an additional article under subchapter X of such chapter to address violations of the policy required by subsection (a).
+Report on Need for UCMJ Punitive Article.—Not later than 120 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing the recommendations of the Secretary regarding the need to amend chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), tocreate an additional article under subchapter X of such chapter to address violations of the policy required by subsection (a).
 
 "(e)
 

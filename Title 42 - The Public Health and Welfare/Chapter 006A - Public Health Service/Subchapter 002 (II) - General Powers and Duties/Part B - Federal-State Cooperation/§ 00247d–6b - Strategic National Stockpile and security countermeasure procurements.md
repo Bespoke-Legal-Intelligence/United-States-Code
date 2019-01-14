@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) consult with the working group under section 247d–6(a) of this title;
 
-&emsp;&emsp;(B) ensure that adequate procedures are followed with respect to such stockpile forinventory management and accounting, and for the physical security of the stockpile;
+&emsp;&emsp;(B) ensure that adequate procedures are followed with respect to such stockpile for inventory management and accounting, and for the physical security of the stockpile;
 
 &emsp;&emsp;(C) in consultation with Federal, State, and local officials, take into consideration the timing and location of special events;
 
@@ -202,7 +202,7 @@
 
 #### (VI) Non-stockpile transfers of security countermeasures
 
-&emsp;&emsp;&emsp;&emsp;The contract shall provide that the vendor will comply with all applicableexport-related controls with respect to such countermeasure.
+&emsp;&emsp;&emsp;&emsp;The contract shall provide that the vendor will comply with all applicable export-related controls with respect to such countermeasure.
 
 #### (VII) Sales exclusivity
 
@@ -270,7 +270,7 @@
 
 #### (II) Relation to other authorities
 
-&emsp;&emsp;&emsp;&emsp;The authority under subclause (I) is in addition to any other authority to useprocedures other than competitive procedures.
+&emsp;&emsp;&emsp;&emsp;The authority under subclause (I) is in addition to any other authority to use procedures other than competitive procedures.
 
 #### (III) Applicable government-wide regulations
 
@@ -332,7 +332,7 @@ For purposes of subsection (a), the term "stockpile" includes—
 
 #### (2) Smallpox vaccine development
 
-&emsp;For the purpose of carrying out subsection (b), there are authorized to be appropriated$509,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
+&emsp;For the purpose of carrying out subsection (b), there are authorized to be appropriated $509,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
 
 #### (g) Special reserve fund
 
@@ -342,7 +342,7 @@ For purposes of subsection (a), the term "stockpile" includes—
 
 #### (2) Use of special reserve fund for advanced research and development
 
-&emsp;The Secretary may utilize not more than 50 percent of the amounts authorized to be appropriated under paragraph (1) to carry out section 247d–7e of this title (related to the Biomedical Advanced Research and Development Authority). Amounts authorized to be appropriated under this subsection to carry out section 247d–7e of this title are in addition to amounts otherwise authorized to be appropriated to carry out such section.
+&emsp;The Secretary may utilize not more than 50 percent of the amounts authorized to be appropriated under paragraph (1) to carry out section 247d–7e of this title (related to the Biomedical Advanced Research and Development Authority). Amounts authorized to be appropriated under this subsection to carry out section 247d–7e of this title are in addition toamounts otherwise authorized to be appropriated to carry out such section.
 
 #### (3) Restrictions on use of funds
 
@@ -388,7 +388,7 @@ In subsec. (c)(7)(B)(iii)(I)(bb), "section 3101(b)(1)(B) of title 41" substitute
 
 In subsec. (c)(7)(B)(iii)(II)(bb), "Section 8703(a) of title 41" substituted for "Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (41 U.S.C. 57(a) and (b))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(B)(iii)(II)(cc), "Section 4706 of title 41" substituted for "Section 304C of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254d)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011,124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(B)(iii)(II)(cc), "Section 4706 of title 41" substituted for "Section 304C of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254d)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (c)(7)(B)(iii)(II)(ee), "Section 3901 of title 41" substituted for "Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
@@ -644,7 +644,7 @@ Exceptions.—
 
 &emsp;"(A)
 
-Functions.—The transfer of functions pursuant to paragraph (1) shall not include such functionsas are explicitly assigned to the Secretary of Homeland Security by this Act \[see Short Title of 2004 Amendments note set out under section 201 of this title\] (including the amendments made by this Act).
+Functions.—The transfer of functions pursuant to paragraph (1) shall not include such functions as are explicitly assigned to the Secretary of Homeland Security by this Act \[see Short Title of 2004 Amendments note set out under section 201 of this title\] (including the amendments made by this Act).
 
 &emsp;"(B)
 

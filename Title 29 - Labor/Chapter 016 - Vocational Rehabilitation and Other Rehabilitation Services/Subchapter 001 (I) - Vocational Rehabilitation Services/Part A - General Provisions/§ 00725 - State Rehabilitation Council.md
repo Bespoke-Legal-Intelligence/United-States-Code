@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in section 721(a)(21)(A)(i) of this title, to be eligible to receive financialassistance under this subchapter a State shall establish a State Rehabilitation Council (referred to in this section as the "Council") in accordance with this section.
+&emsp;Except as provided in section 721(a)(21)(A)(i) of this title, to be eligible to receive financial assistance under this subchapter a State shall establish a State Rehabilitation Council (referred to in this section as the "Council") in accordance with this section.
 
 #### (2) Separate agency for individuals who are blind
 
@@ -200,7 +200,7 @@ The Council shall, after consulting with the State workforce development board�
 
 #### (4) Personnel conflict of interest
 
-&emsp;While assisting the Council in carrying out its duties, staff and other personnel shall not be assigned duties by the designated State unit or any other agency or office of the State, that would create a conflict of interest.
+&emsp;While assisting the Council in carrying out its duties, staff and other personnel shall notbe assigned duties by the designated State unit or any other agency or office of the State, that would create a conflict of interest.
 
 #### (e) Conflict of interest
 
@@ -238,7 +238,7 @@ Subsec. (b)(1)(A)(xi). Pub. L. 113–128, §415(1)(B), substituted "State workfo
 
 Subsec. (c). Pub. L. 113–128, §415(2)(A), substituted "State workforce development board" for "State workforce investment board" in introductory provisions.
 
-Subsec. (c)(6). Pub. L. 113–128, §415(2)(B), substituted "section 300x–3(a) of title 42 and the State workforce development board, and with the activities of entities carrying out programs under the Assistive Technology Act of 1998 (29 U.S.C. 3001 et seq.);" for "section300x–3(a) of title 42, and the State workforce investment board;".
+Subsec. (c)(6). Pub. L. 113–128, §415(2)(B), substituted "section 300x–3(a) of title 42 and the State workforce development board, and with the activities of entities carrying out programs under the Assistive Technology Act of 1998 (29 U.S.C. 3001 et seq.);" for "section 300x–3(a) of title 42, and the State workforce investment board;".
 
 <b>2004</b>—Subsec. (b)(1)(A)(ii). Pub. L. 108–446, §305(h)(2), substituted "671 of the Individuals with Disabilities Education Act" for "682(a) of the Individuals with Disabilities Education Act (as added by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; Public Law 105–17)".
 

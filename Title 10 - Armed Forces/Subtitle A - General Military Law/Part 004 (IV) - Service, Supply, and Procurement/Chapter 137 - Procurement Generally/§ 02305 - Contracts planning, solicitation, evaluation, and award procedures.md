@@ -174,7 +174,7 @@
 
 (B) Proposals referred to in the first sentence of subparagraph (A) are proposals identifying opportunities to ensure that the United States will be able to obtain on a competitive basis items procured in connection with the system that are likely to be reprocured in substantial quantities during the service life of the system. Proposals submitted in response to such requirement may include the following:
 
-&emsp;(i) Proposals to provide to the United States the right to use technical data to be provided under the contract for competitive reprocurement of the item, together with the cost to the United States, if any, of acquiring such technical data and the right to use such data.
+&emsp;(i) Proposals to provide to the United States the right to use technical data to be providedunder the contract for competitive reprocurement of the item, together with the cost to the United States, if any, of acquiring such technical data and the right to use such data.
 
 &emsp;(ii) Proposals for the qualification or development of multiple sources of supply for the item.
 
@@ -196,7 +196,7 @@ Protest File.—(1) If, in the case of a solicitation for a contract issued by, 
 
 (f)
 
-Agency Actions on Protests.—If, in connection with a protest, the head of an agency determines that a solicitation, proposed award, oraward does not comply with the requirements of law or regulation, the head of the agency—
+Agency Actions on Protests.—If, in connection with a protest, the head of an agency determines that a solicitation, proposed award, or award does not comply with the requirements of law or regulation, the head of the agency—
 
 &emsp;(1) may take any action set out in subparagraphs (A) through (F) of subsection (b)(1) of section 3554 of title 31; and
 
@@ -210,7 +210,17 @@ Prohibition on Release of Contractor Proposals.—(1) Except as provided in para
 
 (3) In this subsection, the term "proposal" means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 85–861, §1(44), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 90–268, §3, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 99–145, title XIII, §1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), Nov. 14, 1986, 100 Stat. 3853, 3932, 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010; Pub. L. 101–189, div. A, title VIII, §853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, §802(a)–(d), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–160, div. A, title XI, §1182(a)(5), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), Oct. 13, 1994, 108 Stat. 3254–3257, 3347; Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 643, 644, 653, 699; Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), Sept. 23, 1996, 110 Stat. 2609, 2659, 2660; Pub. L. 106–65, div. A, title VIII, §821, Oct. 5, 1999, 113 Stat. 714; Pub. L. 114–328, div. A, title VIII, §825(a), Dec. 23, 2016, 130 Stat. 2279; Pub. L. 115–91, div. A, title VIII, §818(b), Dec. 12, 2017, 131 Stat. 1463.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 85–861, §1(44), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 90–268, §3, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 99–145, title XIII, §1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), Nov. 14, 1986, 100 Stat. 3853, 3932, 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010; Pub. L. 101–189, div. A, title VIII, §853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, §802(a)–(d), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–160, div. A, title XI, §1182(a)(5), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), Oct. 13, 1994, 108 Stat. 3254–3257, 3347; Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 643, 644, 653, 699; Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), Sept. 23, 1996, 110 Stat. 2609, 2659, 2660; Pub. L. 106–65, div. A, title VIII, §821, Oct. 5, 1999, 113 Stat. 714; Pub. L. 114–328, div. A, title VIII, §825(a), Dec. 23, 2016, 130 Stat. 2279; Pub. L. 115–91, div. A, title VIII, §818(b), Dec. 12, 2017, 131 Stat. 1463; Pub. L. 115–232, div. A, title VIII, §836(c)(3), Aug. 13, 2018, 132 Stat. 1864.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(c)(3), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)(2), by striking "commercial items" and inserting "commercial products or commercial services"; and</i>
+
+<i>(2) in subsection (b)(5)(B)(v), by striking "commercial item" and inserting "commercial product".</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 Historical and Revision Notes<br>1956
 
@@ -264,6 +274,10 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a)(2). Pub. L. 115–232, §836(c)(3)(A), substituted "commercial products or commercial services" for "commercial items" in introductory provisions.
+
+Subsec. (b)(5)(B)(v). Pub. L. 115–232, §836(c)(3)(B), substituted "commercial product" for "commercial item".
+
 <b>2017</b>—Subsec. (b)(5)(B)(vii). Pub. L. 115–91, §818(b)(2), added cl. (vii).
 
 Subsec. (b)(5)(C) to (F). Pub. L. 115–91, §818(b)(1), (3), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
@@ -302,7 +316,7 @@ Subsec. (e)(3). Pub. L. 104–106, §5601(a), as amended by Pub. L. 104–201, �
 
 Subsec. (g). Pub. L. 104–201, §821(a), added subsec. (g).
 
-<b>1994</b>—Subsec. (a)(2). Pub. L. 103–355, §4401(b), substituted "a purchase for an amount not greater thanthe simplified acquisition threshold)" for "small purchases)" in introductory provisions.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–355, §4401(b), substituted "a purchase for an amount not greater than the simplified acquisition threshold)" for "small purchases)" in introductory provisions.
 
 Subsec. (a)(2)(A)(i). Pub. L. 103–355, §1011(a)(1), substituted "and significant subfactors" for "(and significant subfactors)" and "cost-related or price-related factors and subfactors, and noncost-related or nonprice-related factors and subfactors" for "cost- or price-related factors, and noncost- or nonprice-related factors".
 
@@ -340,7 +354,7 @@ Subsec. (b)(1). Pub. L. 101–510, §802(d)(1), inserted "and make an award" aft
 
 Subsec. (b)(3). Pub. L. 101–510, §802(d)(2), inserted "in accordance with paragraph (1)" after "shall evaluate the bids".
 
-Subsec. (b)(4)(A). Pub. L. 101–510, §802(d)(3)(A), substituted "competitive proposals in accordance with paragraph (1)" for "competitive proposals" in introductory provisions, added cls. (i) and (ii), and struck out former cls. (i) and (ii) which read as follows:
+Subsec. (b)(4)(A). Pub. L. 101–510, §802(d)(3)(A), substituted "competitive proposals in accordance withparagraph (1)" for "competitive proposals" in introductory provisions, added cls. (i) and (ii), and struck out former cls. (i) and (ii) which read as follows:
 
 "(i) after discussions conducted with the offerors at any time after receipt of the proposals and before the award of the contract; or
 
@@ -378,6 +392,10 @@ Catchline, subsecs. (a) to (d). Pub. L. 98–369 substituted "Contracts: plannin
 
 <b>1958</b>—Subsecs. (b) to (d). Pub. L. 85–861 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+
 #### Effective Date of 1996 Amendment
 
 For effective date and applicability of amendment by sections 4103(a), 4104(a), and 4202(a)(2) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of this title.
@@ -405,6 +423,96 @@ Pub. L. 99–500, §101(c) \[title X, §924(c)\], Oct. 18, 1986, 100 Stat. 1783�
 Pub. L. 98–525, title XII, §1213(b), Oct. 19, 1984, 98 Stat. 2592, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 19, 1984\]."
 
 Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 2302 of this title.
+
+#### Department of Defense Contracting Dispute Matters
+
+Pub. L. 115–232, div. A, title VIII, §822, Aug. 13, 2018, 132 Stat. 1853, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], theSecretary of Defense shall carry out a study of the frequency and effects of bid protests involving the same contract award or proposed award that have been filed at both the Government Accountability Office and the United States Court of Federal Claims. The study shall cover Department of Defense contracts and include, at a minimum—
+
+&emsp;"(1) the number of protests that have been filed with both tribunals and results;
+
+&emsp;"(2) the number of such protests where the tribunals differed in denying or sustaining the action;
+
+&emsp;"(3) the length of time, in average time and median time—
+
+&emsp;&emsp;"(A) from initial filing at the Government Accountability Office to decision in the United States Court of Federal Claims;
+
+&emsp;&emsp;"(B) from filing with each tribunal to decision by such tribunal;
+
+&emsp;&emsp;"(C) from the time at which the basis of the protest is known to the time of filing in each tribunal; and
+
+&emsp;&emsp;"(D) in the case of an appeal from a decision of the United States Court of Federal Claims, from the date of the initial filing of the appeal to decision in the appeal;
+
+&emsp;"(4) the number of protests where performance was stayed or enjoined and for how long;
+
+&emsp;"(5) if performance was stayed or enjoined, whether the requirement was obtained in the interim through another vehicle or in-house, or whether during the period of the stay or enjoining the requirement went unfulfilled;
+
+&emsp;"(6) separately for each tribunal, the number of protests where performance was stayed or enjoined and monetary damages were awarded, which shall include for how long performance was stayed or enjoined and the amount of monetary damages;
+
+&emsp;"(7) whether the protestor was a large or small business; and
+
+&emsp;"(8) whether the protestor was the incumbent in a prior contract for the same or similar product or service.
+
+"(b)
+
+Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on the Judiciary of the Senate, and the Committee on the Judiciary of the House of Representatives a report on the results of the study, along with related recommendations for improving the expediency of the bid protest process. In preparing the report, the Secretary shall consult with the Attorney General of the United States, the Comptroller General of the United States, and the United States Court of Federal Claims.
+
+"(c)
+
+Ongoing Data Collection.—Not later than 270 days after the date of the enactment of this Act, the Secretary of Defense shall establish and continuously maintain a data repository to collect on an ongoing basis the information described in subsection (a) and any additional relevant bid protest data the Secretary determines necessary and appropriate to allow the Department of Defense, the Government Accountability Office, and the United States Court of Federal Claims to assess and review bid protests over time.
+
+"(d)
+
+Establishment of Expedited Process for Small Value Contracts.—
+
+&emsp;"(1)
+
+In general.—Not later than December 1, 2019, the Secretary of Defense shall develop a plan and schedule for an expedited bid protest process for Department of Defense contracts with a value of less than $100,000.
+
+&emsp;"(2)
+
+Consultation.—In carrying out paragraph (1), the Secretary of Defense may consult with the Government Accountability Office and the United States Court of Federal Claims to the extent such entities may establish a similar process at their election.
+
+&emsp;"(3)
+
+Report.—Not later than May 1, 2019, the Secretary of Defense shall submit to the congressional defense committees a report on the plan and schedule for implementation of the expedited bid protest process, which shall include a request for any additional authorities the Secretary determines appropriate for such efforts."
+
+#### Inclusion of Best Available Information Regarding Past Performance of Subcontractors and Joint Venture Partners
+
+Pub. L. 115–232, div. A, title VIII, §823, Aug. 13, 2018, 132 Stat. 1855, provided that: "Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense, in consultation with the Federal Acquisition Regulatory Council and the Administrator for Federal Procurement Policy, shall develop policies for the Department of Defense to ensure the best information regarding past performance of certain subcontractors and joint venture partners is available when awarding Department of Defense contracts. The policies shall include proposed revisions to the Defense Federal Acquisition Regulation Supplement as follows:
+
+&emsp;"(1) Required performance evaluations, as part of a government-wide evaluation reporting tool, for first-tier subcontractors on construction and architect-engineer contracts performing a portion of the contract valued at the threshold set forth in section 42.1502(e) of the Federal Acquisition Regulation, or 20 percent of the value of the prime contract, whichever is higher, provided—
+
+&emsp;&emsp;"(A) the information included in rating the subcontractor is not inconsistent with the information included in the rating for the prime contractor;
+
+&emsp;&emsp;"(B) the subcontractor evaluation is conducted consistent with the provisions of section 42.15 of the Federal Acquisition Regulation;
+
+&emsp;&emsp;"(C) negative evaluations of a subcontractor in no way obviate the prime contractor's responsibility for successful completion of the contract and management of its subcontractors; and
+
+&emsp;&emsp;"(D) that in the judgment of the contracting officer, the overall execution of the work is impacted by the performance of the subcontractor or subcontractors.
+
+&emsp;"(2) Required performance evaluations, as part of a government-wide evaluation reporting tool, of individual partners of joint venture-awarded construction and architect-engineer contracts valued at the threshold set forth in section 42.1502(e) of the Federal Acquisition Regulation, to ensure that past performance on joint venture projects is considered in future awards to individual joint venture partners, provided—
+
+&emsp;&emsp;"(A) at a minimum, the rating for joint ventures includes an identification that allows the evaluation to be retrieved for each partner of the joint venture;
+
+&emsp;&emsp;"(B) each partner, through the joint venture, is given the same opportunity to submit comments, rebutting statements, or additional information, consistent with the provisions of section 42.15 of the Federal Acquisition Regulation; and
+
+&emsp;&emsp;"(C) the rating clearly identifies the responsibilities of joint venture partners for discrete elements of the work where the partners are not jointly and severally responsible for the project.
+
+&emsp;"(3) Processes to request exceptions from the annual evaluation requirement under section 42.1502(a) of the Federal Acquisition Regulation for construction and architect-engineer contracts where submission of the annual evaluations would not provide the best representation of the performance of a contractor, including subcontractors and joint venture partners, including—
+
+&emsp;&emsp;"(A) where no severable element of the work has been completed;
+
+&emsp;&emsp;"(B) where the contracting officer determines that—
+
+&emsp;&emsp;&emsp;"(i) an insubstantial portion of the contract work has been completed in the preceding year; and
+
+&emsp;&emsp;&emsp;"(ii) the lack of performance is at no fault to the contractor; or
+
+&emsp;&emsp;"(C) where the contracting officer determines that there is an issue in dispute which, until resolved, would likely cause the annual rating to inaccurately reflect the past performance of the contractor."
 
 #### Enhanced Post-Award Debriefing Rights; Release of Contract Award Information
 

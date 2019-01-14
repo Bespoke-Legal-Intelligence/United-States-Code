@@ -48,7 +48,7 @@
 
 &emsp;(B)(i) such matter bears on its face, in conspicuous and legible type in contrast by typography, layout, or color with other printing on its face, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>"THIS PRODUCT OR SERVICE HAS NOT BEEN APPROVED OR ENDORSED BY THE FEDERAL GOVERNMENT, AND THIS OFFER IS NOT BEING MADE BY AN AGENCY OF THE FEDERAL GOVERNMENT."</b>, or a notice to the same effect in words which the Postal Service may prescribe;
 
-&emsp;(ii) the envelope or outside cover or wrapper in which such matter is mailed bears on its face in capital letters and in conspicuous and legible type, in accordance with regulations which the Postal Service shall prescribe, the following notice: <b>"THIS IS NOT A GOVERNMENT DOCUMENT."</b>, or a notice to the same effect in words which the Postal Service may prescribe; and
+&emsp;(ii) the envelope or outside cover or wrapper in which such matter is mailed bears on its face in capital letters and in conspicuous and legible type, in accordance with regulations which the Postal Service shall prescribe, thefollowing notice: <b>"THIS IS NOT A GOVERNMENT DOCUMENT."</b>, or a notice to the same effect in words which the Postal Service may prescribe; and
 
 &emsp;(iii) such matter does not contain a false representation stating or implying that Federal Government benefits or services will be affected by any purchase or nonpurchase; or
 
@@ -102,7 +102,7 @@
 
 &emsp;(D) the term "sweepstakes" means a game of chance for which no consideration is required to enter.
 
-(2) Except as provided in paragraph (4), any matter otherwise legally acceptable in the mails which is described in paragraph (3) is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs.
+(2) Except as provided in paragraph (4), any matter otherwise legally acceptable in the mailswhich is described in paragraph (3) is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs.
 
 (3) Matter described in this paragraph is any matter that—
 
@@ -130,7 +130,7 @@
 
 &emsp;(VIII) represents that an individual is a winner of a prize unless that individual has won such prize; or
 
-&emsp;(IX) contains a representation that contradicts, or is inconsistent with sweepstakes rules or any other disclosure required to be made under this subsection, including anystatement qualifying, limiting, or explaining the rules or disclosures in a manner inconsistent with such rules or disclosures;
+&emsp;(IX) contains a representation that contradicts, or is inconsistent with sweepstakes rules or any other disclosure required to be made under this subsection, including any statement qualifying, limiting, or explaining the rules or disclosures in a manner inconsistent with such rules or disclosures;
 
 &emsp;(B)(i) includes entry materials for a skill contest or a promotion that purports to be a skill contest; and
 
@@ -188,7 +188,7 @@
 
 (o) The district courts, together with the District Court of the Virgin Islands and the District Court of Guam, shall have jurisdiction, upon cause shown, to enjoin violations of section 1716 of title 18.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 745; Pub. L. 91–662, §6(1), Jan. 8, 1971, 84 Stat. 1974; Pub. L. 92–191, §2, Dec. 15, 1971, 85 Stat. 647; Pub. L. 89–544, §26(i)(2), formerly §26(h)(2), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 423, and renumbered §26(i)(2), Pub. L. 110–234, title XIV, §14207(a)(8), May 22, 2008, 122 Stat. 1462, and Pub. L. 110–246, §4(a), title XIV, §14207(a)(8), June 18, 2008, 122 Stat. 1664, 2224; Pub. L. 97–398, §5, Dec. 31, 1982, 96 Stat. 2011; Pub. L. 101–493, §2, Oct. 31, 1990, 104 Stat. 1184; Pub. L. 101–524, §2(a), Nov. 6, 1990, 104 Stat. 2301; Pub. L. 102–71, §2(1), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§102, 103, 110(a), Dec. 12, 1999, 113 Stat. 1806, 1808, 1817; Pub. L. 109–435, title X, §1008(a), Dec. 20, 2006, 120 Stat. 3259; Pub. L. 111–155, §2, Apr. 7, 2010, 124 Stat. 1112; Pub. L. 111–170, §1, May 24, 2010, 124 Stat. 1193.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 745; Pub. L. 91–662, §6(1), Jan. 8, 1971, 84 Stat. 1974; Pub. L. 92–191, §2, Dec. 15, 1971, 85 Stat. 647; Pub. L. 89–544, §26(h)(2), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 423, renumbered §26(i)(2), Pub. L. 110–234, title XIV, §14207(a)(8), May 22, 2008, 122 Stat. 1462, and Pub. L. 110–246, §4(a), title XIV, §14207(a)(8), June 18, 2008, 122 Stat. 1664, 2224, and renumbered §26(h)(2), Pub. L. 115–334, title XII, §12616(a)(3), Dec. 20, 2018, 132 Stat. 5016; Pub. L. 97–398, §5, Dec. 31, 1982, 96 Stat. 2011; Pub. L. 101–493, §2, Oct. 31, 1990, 104 Stat. 1184; Pub. L. 101–524, §2(a), Nov. 6, 1990, 104 Stat. 2301; Pub. L. 102–71, §2(1), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§102, 103, 110(a), Dec. 12, 1999, 113 Stat. 1806, 1808, 1817; Pub. L. 109–435, title X, §1008(a), Dec. 20, 2006, 120 Stat. 3259; Pub. L. 111–155, §2, Apr. 7, 2010, 124 Stat. 1112; Pub. L. 111–170, §1, May 24, 2010, 124 Stat. 1193.)
 
 #### References in Text
 
@@ -204,7 +204,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to Pub. L. 89�
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section, as taken from section 2 of act Mar. 3, 1873, ch. 258, 17 Stat. 599, codified by Pub.L. 91–375, and amended by section 6(1) of Pub. L. 91–662, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, as taken from section 2 of act Mar. 3, 1873, ch. 258, 17 Stat. 599, codified by Pub. L. 91–375, and amended by section 6(1) of Pub. L. 91–662, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 
@@ -272,6 +272,10 @@ Subsec. (j). Pub. L. 101–524 redesignated subsec. (g) as (j).
 
 Subsec. (g). Pub. L. 92–191 added subsec. (g).
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–334 effective on the date that is one year after Dec. 20, 2018, see section 12616(e) of Pub. L. 115–334, set out as a note under section 2156 of Title 7, Agriculture.
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
@@ -282,7 +286,7 @@ Pub. L. 106–168, title I, §111, Dec. 12, 1999, 113 Stat. 1817, provided that:
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–524, §6, Nov. 6, 1990, 104 Stat. 2304, provided that: "The provisions of this Act \[enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes below\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1990\], except the amendmentsmade by section 2 \[amending this section and section 3005 of this title\] shall apply to matter deposited for mailing and delivery on or after 180 days after the date of the enactment of this Act."
+Pub. L. 101–524, §6, Nov. 6, 1990, 104 Stat. 2304, provided that: "The provisions of this Act \[enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes below\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1990\], except the amendments made by section 2 \[amending this section and section 3005 of this title\] shall apply to matter deposited for mailing and delivery on or after 180 days after the date of the enactment of this Act."
 
 Pub. L. 101–493, §3, Oct. 31, 1990, 104 Stat. 1184, provided that: "The amendments made by this Act \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Oct. 31, 1990\], and shall apply with respect to any matter mailed on or after that effective date."
 

@@ -34,7 +34,7 @@ If—
 
 &emsp;&emsp;&emsp;<b>(2) a return under subsection (c), see section 6652(1).</b><b><sup>1</sup></b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 746; Pub. L. 91–172, title I, §101(j)(35), Dec. 30, 1969, 83 Stat. 529; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct.4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, §1501(d)(1)(C), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 101–239, title VII, §7208(b)(1), (3)(A), (B), Dec. 19, 1989, 103 Stat. 2337, 2338; Pub. L. 104–188, title I, §1704(t)(17), Aug. 20, 1996, 110 Stat. 1888.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 746; Pub. L. 91–172, title I, §101(j)(35), Dec. 30, 1969, 83 Stat. 529; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, §1501(d)(1)(C), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 101–239, title VII, §7208(b)(1), (3)(A), (B), Dec. 19, 1989, 103 Stat. 2337, 2338; Pub. L. 104–188, title I, §1704(t)(17), Aug. 20, 1996, 110 Stat. 1888.)
 
 #### Amendments
 

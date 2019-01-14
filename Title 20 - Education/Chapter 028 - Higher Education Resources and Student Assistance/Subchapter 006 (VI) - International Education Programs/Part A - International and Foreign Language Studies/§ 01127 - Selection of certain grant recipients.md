@@ -14,7 +14,7 @@ The Secretary shall set criteria for grants awarded under section 1122 of this t
 
 #### (c) Equitable distribution of grants
 
-The Secretary shall, to the extent practicable, award grants under this part (other than section 1122 of this title) in such manner as to achieve an equitable distribution of the grant funds throughout the United States, based on the merit of a proposal as determined pursuant to a peer review process involving broadly representative professionals.
+The Secretary shall, to the extent practicable, award grants under this part (other than section1122 of this title) in such manner as to achieve an equitable distribution of the grant funds throughout the United States, based on the merit of a proposal as determined pursuant to a peer review process involving broadly representative professionals.
 
 (Pub. L. 89–329, title VI, §607, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1782; amended Pub. L. 110–315, title VI, §607, Aug. 14, 2008, 122 Stat. 3338.)
 
@@ -28,7 +28,7 @@ A prior section 607 of Pub. L. 89–329 was classified to section 1125a of this 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315, §607(1), substituted "evaluates—" and pars. (1) and (2) for "evaluates theapplications for comprehensive and undergraduate language and area centers and programs."
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §607(1), substituted "evaluates—" and pars. (1) and (2) for "evaluates the applications for comprehensive and undergraduate language and area centers and programs."
 
 Subsec. (b). Pub. L. 110–315, §607(2), inserted at end "In keeping with the purposes of this part, the Secretary shall take into account the degree to which activities of centers, programs, and fellowships at institutions of higher education address national needs, and generate information for and disseminate information to the public. The Secretary shall also consider an applicant's record of placing students into postgraduate employment, education, or training in areas of national need and an applicant's stated efforts to increase the number of such students that go into such placements."
 

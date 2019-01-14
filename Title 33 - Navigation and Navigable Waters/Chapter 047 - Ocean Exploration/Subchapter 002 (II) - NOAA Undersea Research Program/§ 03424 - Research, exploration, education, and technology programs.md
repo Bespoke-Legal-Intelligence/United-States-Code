@@ -10,7 +10,7 @@ The following research, exploration, education, and technology programs shall be
 
 &emsp;(3) Undersea science-based education and outreach programs to enrich ocean science education and public awareness of the oceans and Great Lakes.
 
-&emsp;(4) Development, testing, and transition of advanced undersea technology associated with ocean observatories, submersibles, advanced diving technologies, remotely operated vehicles, autonomous underwater vehicles, and new sampling and sensing technologies.
+&emsp;(4) Development, testing, and transition of advanced undersea technology associated with ocean observatories, submersibles, advanceddiving technologies, remotely operated vehicles, autonomous underwater vehicles, and new sampling and sensing technologies.
 
 &emsp;(5) Discovery, study, and development of natural resources and products from ocean, coastal, and aquatic systems.
 

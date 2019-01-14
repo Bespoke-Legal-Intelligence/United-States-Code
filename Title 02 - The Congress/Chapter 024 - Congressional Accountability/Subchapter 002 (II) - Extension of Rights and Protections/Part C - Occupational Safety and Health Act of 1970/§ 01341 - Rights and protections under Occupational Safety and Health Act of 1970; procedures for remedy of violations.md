@@ -14,9 +14,9 @@
 
 &emsp;&emsp;(B) the term "employee" as used in such Act means a covered employee;
 
-&emsp;&emsp;(C) the term "employing office" includes the Government Accountability Office, the Library of Congress, and any entity listed in subsection (a) of section 1331 of this title that is responsible for correcting a violation of this section, irrespective of whether the entity has an employment relationship with any covered employee in any employing office in which such a violation occurs; and
+&emsp;&emsp;(C) the term "employing office" includes the Government Accountability Office and any entity listed in subsection (a) of section 1331 of this title that is responsible for correcting a violation of this section, irrespective of whether the entity has an employment relationship with any covered employee in any employing office in which such a violation occurs; and
 
-&emsp;&emsp;(D) the term "employee" includes employees of the Government Accountability Office and the Library of Congress.
+&emsp;&emsp;(D) the term "employee" includes employees of the Government Accountability Office.
 
 #### (b) Remedy
 
@@ -46,7 +46,7 @@ The remedy for a violation of subsection (a) shall be an order to correct the vi
 
 #### (5) Judicial review
 
-&emsp;The General Counsel or employing office aggrieved by a final decision of the Board underparagraph (3) or (4), may file a petition for review with the United States Court of Appeals for the Federal Circuit pursuant to section 1407 of this title.
+&emsp;The General Counsel or employing office aggrieved by a final decision of the Board under paragraph (3) or (4), may file a petition for review with the United States Court of Appeals for the Federal Circuit pursuant to section 1407 of this title.
 
 #### (6) Compliance date
 
@@ -70,7 +70,7 @@ The remedy for a violation of subsection (a) shall be an order to correct the vi
 
 #### (1) Periodic inspections
 
-&emsp;On a regular basis, and at least once each Congress, the General Counsel, exercising the same authorities of the Secretary of Labor as under subsection (c)(1), shall conduct periodic inspections of all facilities of the House of Representatives, the Senate, the Office of Congressional Accessibility Services, the Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, the Office of Technology Assessment, the Library of Congress, and the Government Accountability Office to report on compliance with subsection (a).
+&emsp;On a regular basis, and at least once each Congress, the General Counsel, exercising thesame authorities of the Secretary of Labor as under subsection (c)(1), shall conduct periodic inspections of all facilities of the House of Representatives, the Senate, the Office of Congressional Accessibility Services, the Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Congressional Workplace Rights, the Office of Technology Assessment, the Library of Congress, and the Government Accountability Office to report on compliance with subsection (a).
 
 #### (2) Report
 
@@ -102,7 +102,7 @@ The period from January 23, 1995, until December 31, 1996, shall be available to
 
 &emsp;This section shall be effective with respect to the Government Accountability Office and the Library of Congress 1 year after transmission to the Congress of the study under section 1371 of this title.
 
-(Pub. L. 104–1, title II, §215, Jan. 23, 1995, 109 Stat. 16; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–437, title IV, §422(b)(4), Oct. 20, 2008, 122 Stat. 4996.)
+(Pub. L. 104–1, title II, §215, Jan. 23, 1995, 109 Stat. 16; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–437, title IV, §422(b)(4), Oct. 20, 2008, 122 Stat. 4996; Pub. L. 115–141, div. I, title I, §153(a)(2)(D), Mar. 23, 2018, 132 Stat. 785; Pub. L. 115–397, title III, §308(b)(9), Dec. 21, 2018, 132 Stat. 5326.)
 
 #### References in Text
 
@@ -110,11 +110,21 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(2), i
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a)(2)(C). Pub. L. 115–141, §153(a)(2)(D)(i), struck out ", the Library of Congress," after "the Government Accountability Office".
+
+Subsec. (a)(2)(D). Pub. L. 115–141, §153(a)(2)(D)(ii), struck out "and the Library of Congress" after "the Government Accountability Office".
+
+Subsec. (e)(1). Pub. L. 115–397 substituted "Office of Congressional Workplace Rights" for "Office of Compliance".
+
 <b>2008</b>—Subsec. (e)(1). Pub. L. 110–437 substituted "the Office of Congressional Accessibility Services," for "the Capitol Guide Service,".
 
 <b>2004</b>—Subsecs. (a)(2)(C), (D), (e)(1) . Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 Subsec. (g)(2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in heading and text.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date to be considered to refer and apply to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as a note under section 1381 of this title.
 
 #### Effective Date of 2008 Amendment
 

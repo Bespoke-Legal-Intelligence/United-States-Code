@@ -2,7 +2,7 @@
 
 #### (a) Continuing participation
 
-Each Indian tribe that is participating in the Tribal Self-Governance Demonstration Projectat the Department of the Interior under title III <sup>1</sup> on October 25, 1994, shall thereafter participate in Self-Governance under this subchapter and cease participation in the Tribal Self-Governance Demonstration Project under title III <sup>1</sup> with respect to the Department of the Interior.
+Each Indian tribe that is participating in the Tribal Self-Governance Demonstration Project at the Department of the Interior under title III <sup>1</sup> on October 25, 1994, shall thereafter participate in Self-Governance under this subchapter and cease participation in the Tribal Self-Governance Demonstration Project under title III <sup>1</sup> with respect to the Department of the Interior.
 
 #### (b) Additional participants
 

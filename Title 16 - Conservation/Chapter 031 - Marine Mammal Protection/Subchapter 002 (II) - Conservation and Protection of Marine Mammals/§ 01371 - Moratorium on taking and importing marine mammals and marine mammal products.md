@@ -62,7 +62,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(D) The authority to deter marine mammals pursuant to subparagraph (A) applies to all marine mammals, including all stocks designated as depleted under this chapter.
 
-&emsp;(5)(A)(i) Upon request therefor by citizens of the United States who engage in a specified activity (other than commercial fishing) within a specified geographical region, the Secretary shall allow, during periods of not more than five consecutive years each, the incidental, but not intentional, taking by citizens while engaging in that activity within that region of small numbers of marine mammals of a species or population stock if the Secretary, after notice (in the Federal Register and in newspapers of general circulation, and through appropriate electronic media, in the coastal areas that may be affected by such activity) and opportunity for public comment—
+&emsp;(5)(A)(i) Except as provided by clause (ii), upon request therefor by citizens of the United States who engage in a specified activity (other than commercial fishing) within a specified geographical region, the Secretary shall allow, during periods of not more than five consecutive years each, the incidental, but not intentional, taking by citizens while engaging in that activity within that region of small numbers of marine mammals of a species or population stock if the Secretary, after notice (in the Federal Register and in newspapers of general circulation, and through appropriate electronic media, in the coastal areas that may be affected by such activity) and opportunity for public comment—
 
 &emsp;&emsp;(I) finds that the total of such taking during each five-year (or less) period concerned will have a negligible impact on such species or stock and will not have an unmitigable adverse impact on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) or section 1379(f) of this title or, in the case of a cooperative agreement under both this chapter and the Whaling Convention Act of 1949 (16 U.S.C. 916 et seq.), pursuant to section 1382(c) of this title; and
 
@@ -72,9 +72,15 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;&emsp;&emsp;(bb) requirements pertaining to the monitoring and reporting of such taking.
 
-&emsp;(ii) For a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note), a determination of "least practicable adverse impact on such species or stock" under clause (i)(II)(aa) shall include consideration of personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity. Before making the required determination, the Secretary shall consult with the Department of Defense regarding personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity.
+&emsp;(ii) In the case of a military readiness activity (as defined in section 315(f) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 16 U.S.C. 703 note), clause (i) shall be applied—
 
-&emsp;(iii) Notwithstanding clause (i), for any authorization affecting a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note), the Secretary shall publish the notice required by such clause only in the Federal Register.
+&emsp;&emsp;(I) in the matter preceding clause (I), by substituting "seven consecutive years" for "five consecutive years"; and
+
+&emsp;&emsp;(II) in clause (I), by substituting "seven-year" for "five-year".
+
+&emsp;(iii) For a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note), a determination of "least practicable adverse impact on such species or stock" under clause (i)(II)(aa) shall include consideration of personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity. Before making the required determination, the Secretary shall consult with the Department of Defense regarding personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity.
+
+&emsp;(iv) Notwithstanding clause (i), for any authorization affecting a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note), the Secretary shall publish the notice required by such clause only in the Federal Register.
 
 &emsp;(B) The Secretary shall withdraw, or suspend for a time certain (either on an individual or class basis, as appropriate) the permission to take marine mammals under subparagraph (A) pursuant to a specified activity within a specified geographical region if the Secretary finds, after notice and opportunity for public comment (as required under subparagraph (A) unless subparagraph (C)(i) applies), that—
 
@@ -122,7 +128,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(iii) If, during the course of the commercial fishing season, the Secretary determines that the level of incidental mortality or serious injury from commercial fisheries for which a determination was made under clause (i) has resulted or is likely to result in an impact that is more than negligible on the endangered or threatened species or stock, the Secretary shall use the emergency authority granted under section 1387 of this title to protect such species or stock, and may modify any permit granted under this paragraph as necessary.
 
-&emsp;(iv) The Secretary may suspend for a time certain or revoke a permit granted under this subparagraph only if the Secretary determines that the conditions or limitations set forth in such permit are not being complied with. The Secretary may amend or modify, after notice and opportunity for public comment, the listof fisheries published under clause (ii) whenever the Secretary determines there has been a significant change in the information or conditions used to determine such list.
+&emsp;(iv) The Secretary may suspend for a time certain or revoke a permit granted under this subparagraph only if the Secretary determines that the conditions or limitations set forth in such permit are not being complied with. The Secretary may amend or modify, after notice and opportunity for public comment, the list of fisheries published under clause (ii) whenever the Secretary determines there has been a significant change in the information or conditions used to determine such list.
 
 &emsp;(v) Sections 1373 and 1374 of this title shall not apply to the taking of marine mammals under the authority of this subparagraph.
 
@@ -202,7 +208,7 @@ The provisions of this chapter shall not apply to a citizen of the United States
 
 (4) Not later than 30 days after issuing an exemption under paragraph (1) or an additional exemption under paragraph (3), the Secretary of Defense shall submit to the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate notice describing the exemption and the reasons therefor. The notice may be provided in classified form if the Secretary of Defense determines that use of the classified form is necessary for reasons of national security.
 
-(Pub. L. 92–522, title I, §101, Oct. 21, 1972, 86 Stat. 1029; Pub. L. 93–205, §13(e)(2), Dec. 28, 1973, 87 Stat. 903; Pub. L. 97–58, §2, Oct. 9, 1981, 95 Stat. 979; Pub. L. 98–364, title I, §101, July 17, 1984, 98 Stat. 440; Pub. L. 99–659, title IV, §411(a), Nov. 14, 1986, 100 Stat. 3741; Pub. L. 100–711, §§4(a), 5(c), (e)(1), Nov. 23, 1988, 102 Stat. 4765, 4769, 4771; Pub. L. 101–627, title IX, §901(g), Nov. 28, 1990, 104 Stat. 4467; Pub. L. 102–582, title I, §103, title IV, §401(b), Nov. 2, 1992, 106 Stat. 4903, 4909; Pub. L. 103–238, §4, Apr. 30, 1994, 108 Stat. 532; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–18, title II, §2003, June 12, 1997, 111 Stat. 174; Pub. L. 105–42, §4(a)–(c), Aug. 15, 1997, 111 Stat. 1123, 1124; Pub. L. 108–136, div. A, title III, §319(b), (c), Nov. 24, 2003, 117 Stat. 1434.)
+(Pub. L. 92–522, title I, §101, Oct. 21, 1972, 86 Stat. 1029; Pub. L. 93–205, §13(e)(2), Dec. 28, 1973, 87 Stat. 903; Pub. L. 97–58, §2, Oct. 9, 1981, 95 Stat. 979; Pub. L. 98–364, title I, §101, July 17, 1984, 98 Stat. 440; Pub. L. 99–659, title IV, §411(a), Nov. 14, 1986, 100 Stat. 3741; Pub. L. 100–711, §§4(a), 5(c), (e)(1), Nov. 23, 1988, 102 Stat. 4765, 4769, 4771; Pub. L. 101–627, title IX, §901(g), Nov. 28, 1990, 104 Stat. 4467; Pub. L. 102–582, title I, §103, title IV, §401(b), Nov. 2, 1992, 106 Stat. 4903, 4909; Pub. L. 103–238, §4, Apr. 30, 1994, 108 Stat. 532; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–18, title II, §2003, June 12, 1997, 111 Stat. 174; Pub. L. 105–42, §4(a)–(c), Aug. 15, 1997, 111 Stat. 1123, 1124; Pub. L. 108–136, div. A, title III, §319(b), (c), Nov. 24, 2003, 117 Stat. 1434; Pub. L. 115–232, div. A, title III, §316, Aug. 13, 2018, 132 Stat. 1714.)
 
 #### References in Text
 
@@ -218,6 +224,10 @@ Act of November 7, 1986, referred to in subsec. (a)(5)(E)(vi), is Pub. L. 99–6
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a)(5)(A)(i). Pub. L. 115–232, §316(1), substituted "Except as provided by clause (ii), upon request" for "Upon request" in introductory provisions.
+
+Subsec. (a)(5)(A)(ii) to (iv). Pub. L. 115–232, §316(2), (3), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+
 <b>2003</b>—Subsec. (a)(5)(A). Pub. L. 108–136, §319(c)(1), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, redesignated former subcls. (I) and (II) of former cl. (ii) as items (aa) and (bb) of subcl. (II), respectively, and added cls. (ii) and (iii).
 
 Subsec. (a)(5)(D)(vi), (vii). Pub. L. 108–136, §319(c)(2), added cls. (vi) and (vii).
@@ -228,7 +238,7 @@ Subsec. (f). Pub. L. 108–136, §319(b), added subsec. (f).
 
 <b>1997</b>—Subsec. (a)(2). Pub. L. 105–42, §4(a), (b)(4), in introductory provisions, inserted after first sentence "Such authorizations may be granted under subchapter IV with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to section 1373 of this title." and struck out "; provided that this goal shall be satisfied in the case of the incidental taking of marine mammals in the course of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable" after "serious injury rate" and, in closing provisions, substituted "For purposes of subparagraph (F)" for "For purposes of subparagraph (E)".
 
-Subsec. (a)(2)(B). Pub. L. 105–42, §4(b)(1), added subpar. (B) and struck out former subpar. (B) which contained requirement that nations exporting yellowfintuna harvested with purse seines in eastern tropical Pacific Ocean provide documentary evidence of adoption of regulatory program governing incidental taking of other mammals and comparison of the average rates of incidental taking between harvesting nation and United States.
+Subsec. (a)(2)(B). Pub. L. 105–42, §4(b)(1), added subpar. (B) and struck out former subpar. (B) which contained requirement that nations exporting yellowfin tuna harvested with purse seines in eastern tropical Pacific Ocean provide documentary evidence of adoption of regulatory program governing incidental takingof other mammals and comparison of the average rates of incidental taking between harvesting nation and United States.
 
 Subsec. (a)(2)(C) to (F). Pub. L. 105–42, §4(b)(2), (3), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
 

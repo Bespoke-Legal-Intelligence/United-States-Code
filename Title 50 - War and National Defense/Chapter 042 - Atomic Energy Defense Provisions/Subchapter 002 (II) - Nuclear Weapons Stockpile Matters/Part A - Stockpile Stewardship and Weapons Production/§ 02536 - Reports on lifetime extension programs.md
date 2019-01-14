@@ -2,7 +2,7 @@
 
 #### (a) Reports required
 
-Before proceeding beyond phase 6.2 activities with respect to any lifetime extension program,the Nuclear Weapons Council shall submit to the congressional defense committees a report on such phase 6.2 activities, including—
+Before proceeding beyond phase 6.2 activities with respect to any lifetime extension program, the Nuclear Weapons Council shall submit to the congressional defense committees a report on such phase 6.2 activities, including—
 
 &emsp;(1) an assessment of the lifetime extension options considered for the phase 6.2 activities, including whether the subsystems and components in each option are considered to be a refurbishment, reuse, or replacement of such subsystem or component; and
 

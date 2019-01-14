@@ -38,7 +38,7 @@ The activities of the Program shall include—
 
 &emsp;(7) accelerating the deployment and application of nanotechnology research and development in the private sector, including startup companies;
 
-&emsp;(8) encouraging interdisciplinary research, and ensuring that processes for solicitationand evaluation of proposals under the Program encourage interdisciplinary projects and collaborations;
+&emsp;(8) encouraging interdisciplinary research, and ensuring that processes for solicitation and evaluation of proposals under the Program encourage interdisciplinary projects and collaborations;
 
 &emsp;(9) providing effective education and training for researchers and professionals skilled in the interdisciplinary perspectives necessary for nanotechnology so that a true interdisciplinary research culture for nanoscale science, engineering, and technology can emerge;
 
@@ -84,7 +84,7 @@ The National Science and Technology Council shall oversee the planning, manageme
 
 &emsp;(7) develop a plan to utilize Federal programs, such as the Small Business Innovation Research Program and the Small Business Technology Transfer Research Program, in support of the activity stated in subsection (b)(7);
 
-&emsp;(8) identify research areas that are not being adequately addressed by the agencies' current research programs and address such research areas;
+&emsp;(8) identify research areas that are not being adequately addressed by the agencies' currentresearch programs and address such research areas;
 
 &emsp;(9) encourage progress on Program activities through the utilization of existing manufacturing facilities and industrial infrastructures such as, but not limited to, the employment of underutilized manufacturing facilities in areas of high unemployment as production engineering and research testbeds; and
 

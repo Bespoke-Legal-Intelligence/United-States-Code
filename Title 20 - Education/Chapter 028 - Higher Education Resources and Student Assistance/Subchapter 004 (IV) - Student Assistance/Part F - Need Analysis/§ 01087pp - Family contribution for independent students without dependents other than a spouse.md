@@ -197,7 +197,7 @@ In the case of a student who is divorced or separated, or whose spouse has died,
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(1)(A)(iv). Pub. L. 110–84 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "an income protection allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—
+<b>2007</b>—Subsec. (b)(1)(A)(iv). Pub. L. 110–84 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "an income protection allowance of the followingamount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—
 
 &emsp;"(I) $6,050 for single students;
 

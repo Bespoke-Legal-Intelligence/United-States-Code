@@ -30,7 +30,7 @@ Powers and Duties.—The Administrator shall carry out—
 
 (g)
 
-Limitation on Transfer of Powers and Duties.—A duty or power specified in subsection (f)(1) may only be transferred to another part ofthe Department when specifically provided by law.
+Limitation on Transfer of Powers and Duties.—A duty or power specified in subsection (f)(1) may only be transferred to another part of the Department when specifically provided by law.
 
 (h)
 
@@ -170,7 +170,7 @@ Petition Defined.—In this section, the term 'petition' means a request for—
 
 #### Prioritizing Statutory Rulemakings
 
-Pub. L. 114–94, div. A, title V, §5302, Dec. 4, 2015, 129 Stat. 1543, provided that: "The Administrator of the Federal Motor Carrier Safety Administration shall prioritize the completion of each outstanding rulemaking required by statute before beginning any other rulemaking, unless the Secretary \[of Transportation\] determines that there is a significant need for such otherrulemaking and notifies Congress of such determination."
+Pub. L. 114–94, div. A, title V, §5302, Dec. 4, 2015, 129 Stat. 1543, provided that: "The Administrator of the Federal Motor Carrier Safety Administration shall prioritize the completion of each outstanding rulemaking required by statute before beginning any other rulemaking, unless the Secretary \[of Transportation\] determines that there is a significant need for such other rulemaking and notifies Congress of such determination."
 
 #### Findings
 
@@ -224,7 +224,7 @@ Proceedings.—
 
 &emsp;"(1)
 
-In general.—The provisions of this Act shall not affect any proceedings or any application for any license pending before the Office at the time this Act takes effect \[see Effective Date of 1999 Amendment note set out under section 104 of this title\], insofar as those functions are transferred by this Act; but such proceedings and applications, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law.
+In general.—The provisions of this Act shall not affect any proceedings or any application for any license pending before the Office at the time this Act takes effect \[see Effective Date of 1999 Amendment note set out under section 104 of this title\], insofar as those functions are transferred by this Act; but such proceedings and applications, to the extent that they relate to functions so transferred, shall be continued.Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law.
 
 &emsp;"(2)
 
@@ -260,5 +260,5 @@ Exercise of Authorities.—Except as otherwise provided by law, an officer or em
 
 "(g)
 
-References.—Any reference to the Office in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertainingto the Office or an officer or employee of the Office is deemed to refer to the Administration or a member or employee of the Administration, as appropriate."
+References.—Any reference to the Office in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Office or an officer or employee of the Office is deemed to refer to the Administration or a member or employee of the Administration, as appropriate."
 

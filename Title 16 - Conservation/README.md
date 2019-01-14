@@ -126,7 +126,7 @@
 | [<b>75.</b>](Chapter%20075%20-%20High%20Seas%20Fishing%20Compliance/README.md) | <b>High Seas Fishing Compliance</b> | <b>5501</b> |
 | [<b>76.</b>](Chapter%20076%20-%20Northwest%20Atlantic%20Fisheries%20Convention/README.md) | <b>Northwest Atlantic Fisheries Convention</b> | <b>5601</b> |
 | [<b>77.</b>](Chapter%20077%20-%20Yukon%20River%20Salmon/README.md) | <b>Yukon River Salmon</b> | <b>5701</b> |
-| [<b>78.</b>](Chapter%20078%20-%20National%20Natural%20Resources%20Conservation%20Foundation/README.md) | <b>National Natural Resources Conservation Foundation</b> | <b>5801</b> |
+| [<b>78.</b>](Chapter%20078%20-%20National%20Natural%20Resources%20Conservation%20Foundation/README.md) | <b>National Natural Resources Conservation Foundation \[Repealed\]</b> | <b>5801</b> |
 | [<b>79.</b>](Chapter%20079%20-%20National%20Park%20Service%20Management/README.md) | <b>National Park Service Management \[Repealed\]</b> | <b>5901</b> |
 | [<b>80.</b>](Chapter%20080%20-%20Neotropical%20Migratory%20Bird%20Conservation/README.md) | <b>Neotropical Migratory Bird Conservation</b> | <b>6101</b> |
 | [<b>81.</b>](Chapter%20081%20-%20User%20Fees%20under%20Forest%20System%20Recreation%20Residence%20Program/README.md) | <b>User Fees Under Forest System Recreation Residence Program</b> | <b>6201</b> |

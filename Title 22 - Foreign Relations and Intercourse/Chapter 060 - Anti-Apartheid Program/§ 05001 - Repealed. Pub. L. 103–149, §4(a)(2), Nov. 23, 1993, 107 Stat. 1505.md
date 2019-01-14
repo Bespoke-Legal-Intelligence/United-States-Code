@@ -8,7 +8,7 @@ Repeal effective June 8, 1994, date on which President certified to Congress tha
 
 #### Short Title
 
-Pub. L. 99–440, §1, Oct. 2, 1986, 100 Stat. 1086, provided that Pub. L. 99–440, which enacted this chapter and sections 2151o and 2346d of this title, amended sections 2151c and 2151n of this title and section 635 of Title 12, Banks and Banking, and enacted provisions set out as a note under section 2346d of this title, could be cited as the "Comprehensive Anti-Apartheid Act of 1986", prior to repeal by Pub. L. 103–149, §4(a)(2), Nov. 23, 1993, 107 Stat. 1505.
+Pub. L. 99–440, §1, Oct. 2, 1986, 100 Stat. 1086, provided that Pub. L. 99–440, which enacted this chapter and sections 2151o and 2346d of this title, amended sections 2151c and 2151n of this title and section 635 of Title 12, Banks and Banking, and enacted provisions set out asa note under section 2346d of this title, could be cited as the "Comprehensive Anti-Apartheid Act of 1986", prior to repeal by Pub. L. 103–149, §4(a)(2), Nov. 23, 1993, 107 Stat. 1505.
 
 #### Repeal of Chapter; South African Democratic Transition Support
 
@@ -54,7 +54,7 @@ Pub. L. 103–149, Nov. 23, 1993, 107 Stat. 1503, provided that:
 
 &emsp;"(3) to the maximum extent practicable, the United States should consult closely with international financial institutions, other donors, and South African entities on a coordinated strategy to support the transition to a nonracial democracy in South Africa;
 
-&emsp;"(4) in order to provide ownership and managerial opportunities, professional advancement, training,and employment for disadvantaged South Africans and to respond to the historical inequities created under apartheid, the United States should—
+&emsp;"(4) in order to provide ownership and managerial opportunities, professional advancement, training, and employment for disadvantaged South Africans and to respond to the historical inequities created under apartheid, the United States should—
 
 &emsp;&emsp;"(A) promote the expansion of private enterprise and free markets in South Africa,
 
@@ -98,7 +98,7 @@ Other Provisions.—The following provisions are repealed or amended as follows:
 
 &emsp;"(2) Section 211 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987 (99 Stat. 432) is repealed, and section 1(b) of that Act is amended by striking the item in the table of contents relating to section 211.
 
-&emsp;"(3) Sections 1223 and 1224 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (101 Stat. 1415) is repealed, and section 1(b) of that Act is amended by striking the items in the table of contents relating to sections 1223 and 1224.
+&emsp;"(3) Sections 1223 and 1224 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (101Stat. 1415) is repealed, and section 1(b) of that Act is amended by striking the items in the table of contents relating to sections 1223 and 1224.
 
 &emsp;"(4) Section 362 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993 (105 Stat. 716) is repealed, and section 2 of that Act is amended by striking the item in the table of contents relating to section 362.
 
@@ -200,11 +200,11 @@ Tax Treaty.—The President should begin immediately to negotiate a tax treaty w
 
 "(b)
 
-OPIC.—The President should immediately initiate negotiations with the Government of South Africa for an agreement authorizing the Overseas Private Investment Corporation to carry out programs with respect to South Africa in order to expand United States investment in that country.
+OPIC.—The President should immediately initiate negotiations with the Government of South Africa for an agreement authorizing the Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\] to carry out programs with respect to South Africa in order to expand United States investment in that country.
 
 "(c)
 
-Trade and Development Agency.—In carrying out section 661 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2421\], the Director of the Trade and Development Agency should provide additional funds for activities related to projects in South Africa.
+Trade and Development Agency.—In carrying out section 661 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2421\], the Director of the Trade and DevelopmentAgency should provide additional funds for activities related to projects in South Africa.
 
 "(d)
 

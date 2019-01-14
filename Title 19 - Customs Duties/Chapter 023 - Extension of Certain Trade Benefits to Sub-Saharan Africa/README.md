@@ -10,6 +10,7 @@
 | [3704\.](Subchapter%20001%20%28I%29%20-%20Trade%20Policy%20for%20Sub-Saharan%20Africa/%C2%A7%2003704%20-%20United%20States-Sub-Saharan%20Africa%20Trade%20and%20Economic%20Cooperation%20Forum.md) | United States-Sub-Saharan Africa Trade and Economic Cooperation Forum. |
 | [3705\.](Subchapter%20001%20%28I%29%20-%20Trade%20Policy%20for%20Sub-Saharan%20Africa/%C2%A7%2003705%20-%20Reporting%20requirement.md) | Reporting requirement. |
 | [3706\.](Subchapter%20001%20%28I%29%20-%20Trade%20Policy%20for%20Sub-Saharan%20Africa/%C2%A7%2003706%20-%20Sub-Saharan%20Africa%20defined.md) | Sub-Saharan Africa defined. |
+| [3707\.](Subchapter%20001%20%28I%29%20-%20Trade%20Policy%20for%20Sub-Saharan%20Africa/%C2%A7%2003707%20-%20Activities%20in%20support%20of%20transparency.md) | Activities in support of transparency. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

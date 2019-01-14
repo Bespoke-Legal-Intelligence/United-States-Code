@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any consumer may cancel any contract with any credit repair organization without penalty or obligation by notifying the credit repair organization of the consumer's intention to do so at any time before midnight of the 3rd business day which begins after the date on which the contract or agreement between the consumer and the credit repair organization is executed or would, but for this subsection, become enforceable against the parties.
+Any consumer may cancel any contract with any credit repair organization without penalty or obligation by notifying the credit repair organization of the consumer's intention to do so at any time before midnight of the 3rd business daywhich begins after the date on which the contract or agreement between the consumer and the credit repair organization is executed or would, but for this subsection, become enforceable against the parties.
 
 #### (b) Cancellation form and other information
 
@@ -10,7 +10,7 @@ Each contract shall be accompanied by a form, in duplicate, which has the headin
 
 &emsp;"You may cancel this contract, without any penalty or obligation, at any time before midnight of the 3rd day which begins after the date the contract is signed by you.
 
-&emsp;"To cancel this contract, mail or deliver a signed, dated copy of this cancellation notice,or any other written notice to \[ name of credit repair organization \] at \[ address of credit repair organization \] before midnight on \[ date \]
+&emsp;"To cancel this contract, mail or deliver a signed, dated copy of this cancellation notice, or any other written notice to \[ name of credit repair organization \] at \[ address of credit repair organization \] before midnight on \[ date \]
 
 &emsp;"I hereby cancel this transaction,
 

@@ -2,7 +2,7 @@
 
 #### (a) Federated States of Micronesia
 
-The Compact of Free Association, as amended with respect to the Federated States of Micronesia and signed by the United States and the Government of the Federated States of Micronesia and set forth in Title II (section 201(a)) of this joint resolution, is hereby approved, and Congress hereby consents to the subsidiary agreements and amended subsidiary agreements listed in section 462 of the U.S.-FSM Compact, including Article X of the Federal Programs and Services Agreement Between the Government of the United States and the Government of the Federated States of Micronesia, as amended under the Agreement to Amend Article X that was signed by those two Governments on June 30, 2004, which shall serve as the authority to implement the provisions thereof. Subject to the provisions of this joint resolution, the President is authorized to agree, in accordance with section 411 of the U.S.-FSM Compact, to an effective date for and thereafter to implement such U.S.-FSM Compact.
+The Compact of Free Association, as amended with respect to the Federated States of Micronesia and signed by the United States and the Government of the Federated States of Micronesia and set forth in Title II (section 201(a)) of this joint resolution, is hereby approved, and Congress hereby consents to the subsidiary agreements and amended subsidiary agreements listed in section 462 of the U.S.-FSM Compact, including Article X of the Federal Programs andServices Agreement Between the Government of the United States and the Government of the Federated States of Micronesia, as amended under the Agreement to Amend Article X that was signed by those two Governments on June 30, 2004, which shall serve as the authority to implement the provisions thereof. Subject to the provisions of this joint resolution, the President is authorized to agree, in accordance with section 411 of the U.S.-FSM Compact, to an effective date for and thereafter to implement such U.S.-FSM Compact.
 
 #### (b) Republic of the Marshall Islands
 
@@ -10,7 +10,7 @@ The Compact of Free Association, as amended with respect to the Republic of the 
 
 #### (c) References to the Compact, the U.S.-FSM Compact, and the U.S.-RMI Compact; References to subsidiary agreements or separate agreements
 
-(1) Any reference in this joint resolution (except references in Title II) to "the Compact" shall be treated as a reference to the Compact of Free Association set forth in title II of Public Law 99–239, January 14, 1986, 99 Stat. 1770. Any reference in this joint resolution to the "U.S.-FSM Compact" shall be treated as a reference to the Compact of Free Association, as amendedbetween the Government of the United States of America and the Government of the Federated States of Micronesia and set forth in Title II (section 201(a)) of this joint resolution. Any reference in this joint resolution to the "U.S.-RMI Compact" shall be treated as a reference to the Compact of Free Association, as amended between the Government of the United States of America and the Government of the Republic of the Marshall Islands and set forth in Title II (section 201(b)) of this joint resolution.
+(1) Any reference in this joint resolution (except references in Title II) to "the Compact" shall be treated as a reference to the Compact of Free Association set forth in title II of Public Law 99–239, January 14, 1986, 99 Stat. 1770. Any reference in this joint resolution to the "U.S.-FSM Compact" shall be treated as a reference to the Compact of Free Association, as amended between the Government of the United States of America and the Government of the Federated States of Micronesia and set forth in Title II (section 201(a)) of this joint resolution. Any reference in this joint resolution to the "U.S.-RMI Compact" shall be treated as a reference to the Compact of Free Association, as amended between the Government of the United States of America and the Government of the Republic of the Marshall Islands and set forth in Title II (section 201(b)) of this joint resolution.
 
 (2) Any reference to the term "subsidiary agreements" or "separate agreements" in this joint resolution shall be treated as a reference to agreements listed in section 462 of the U.S.-FSM Compact and the U.S.-RMI Compact, and any other agreements that the United States may from time to time enter into with either the Government of the Federated States of Micronesia or the Government of the Republic of the Marshall Islands, or with both such governments in accordance with the provisions of the U.S.-FSM Compact and the U.S.-RMI Compact.
 
@@ -50,7 +50,7 @@ The Compact of Free Association, as amended with respect to the Federated States
 
 This joint resolution, referred to in text, is Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under this section and section 1901 of this title and amended provisions set out as a note under section 3101 of Title 5, Government Organization and Employees. Title II of this joint resolution enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1901 of this title and Tables.
 
-The Compact of Free Association, as amended with respect to the Republic of the Marshall Islands and signed by the United States and the Government of the Republic of the Marshall Islands and set forth in Title II (section 201(b)) of this joint resolution, referred to insubsecs. (b) and (c)(1), is contained in section 201(b) of Pub. L. 108–188, set out below.
+The Compact of Free Association, as amended with respect to the Republic of the Marshall Islands and signed by the United States and the Government of the Republic of the Marshall Islands and set forth in Title II (section 201(b)) of this joint resolution, referred to in subsecs. (b) and (c)(1), is contained in section 201(b) of Pub. L. 108–188, set out below.
 
 #### Amendments
 
@@ -86,7 +86,7 @@ Pub. L. 108–188, title II, §201(a), Dec. 17, 2003, 117 Stat. 2757, as amended
 
 #### "the government of the united states of america and the government of the federated states of micronesia
 
-"Affirming that their Governments and their relationship as Governments are founded upon respect for human rights and fundamental freedoms for all, and that the people of the Federated States of Micronesia have the right to enjoy self-government; and
+"Affirming that their Governments and their relationship as Governments are founded upon respect for human rights and fundamental freedoms for all, andthat the people of the Federated States of Micronesia have the right to enjoy self-government; and
 
 "Affirming the common interests of the United States of America and the Federated States of Micronesia in creating and maintaining their close and mutually beneficial relationship through the free and voluntary association of their respective Governments; and
 
@@ -102,7 +102,7 @@ Pub. L. 108–188, title II, §201(a), Dec. 17, 2003, 117 Stat. 2757, as amended
 
 "NOW, THEREFORE, MUTUALLY AGREE to continue and strengthen their relationship of free association by amending the Compact, which continues to provide a full measure of self-government for the people of the Federated States of Micronesia; and
 
-"FURTHER AGREE that the relationship of free association derives from and is as set forth in this Compact, as amended, by the Governments of the United States and the Federated States of Micronesia; and that, during such relationship of free association, therespective rights and responsibilities of the Government of the United States and the Government of the Federated States of Micronesia in regard to this relationship of free association derive from and are as set forth in this Compact, as amended.
+"FURTHER AGREE that the relationship of free association derives from and is as set forth in this Compact, as amended, by the Governments of the United States and the Federated States of Micronesia; and that, during such relationship of free association, the respective rights and responsibilities of the Government of the United States and the Government of the Federated States of Micronesia in regard to this relationship of free association derive from and are as set forth in this Compact, as amended.
 
 #### "TITLE ONE
 
@@ -158,7 +158,7 @@ Pub. L. 108–188, title II, §201(a), Dec. 17, 2003, 117 Stat. 2757, as amended
 
 #### "Section 127
 
-"Except as otherwise provided in this Compact, as amended, or its related agreements, all obligations, responsibilities, rights and benefits of the Government of the United States as Administering Authority which resulted from the application pursuant to the Trusteeship Agreement of any treaty or other international agreement to the Trust Territory of the Pacific Islands on November 2, 1986, are, as of that date, no longer assumed and enjoyed by the Government of the United States.
+"Except as otherwise provided in this Compact, as amended, or its related agreements, all obligations, responsibilities, rights and benefits of the Government of the United States as Administering Authority whichresulted from the application pursuant to the Trusteeship Agreement of any treaty or other international agreement to the Trust Territory of the Pacific Islands on November 2, 1986, are, as of that date, no longer assumed and enjoyed by the Government of the United States.
 
 #### "Article III
 
@@ -184,7 +184,7 @@ Pub. L. 108–188, title II, §201(a), Dec. 17, 2003, 117 Stat. 2757, as amended
 
 &emsp;"(1) a person who, on November 2, 1986, was a citizen of the Trust Territory of the Pacific Islands, as defined in Title 53 of the Trust Territory Code in force on January 1, 1979, and has become and remains a citizen of the Federated States of Micronesia;
 
-&emsp;"(2) a person who acquires the citizenship of the Federated States of Micronesia at birth, on or afterthe effective date of the Constitution of the Federated States of Micronesia;
+&emsp;"(2) a person who acquires the citizenship of the Federated States of Micronesia at birth, on or after the effective date of the Constitution of the Federated States of Micronesia;
 
 &emsp;"(3) an immediate relative of a person referred to in paragraphs (1) or (2) of this section, provided that such immediate relative is a naturalized citizen of the Federated States of Micronesia who has been an actual resident there for not less than five years after attaining such naturalization and who holds a certificate of actual residence, and further provided, that, in the case of a spouse, such spouse has been married to the person referred to in paragraph (1) or (2) of this section for at least five years, and further provided, that the Government of the United States is satisfied that such naturalized citizen meets the requirement of subsection (b) of section 104 of Public Law 99–239 as it was in effect on the day prior to the effective date of this Compact, as amended;
 
@@ -320,7 +320,7 @@ Pub. L. 108–188, title II, §201(a), Dec. 17, 2003, 117 Stat. 2757, as amended
 
 #### "Section 173
 
-"The Governments of the United States and the Federated States of Micronesia agree to adopt and enforce such measures, consistent with this Compact, as amended, and its related agreements, as may be necessary to protect the personnel, property, installations, services, programs and official archives and documentsmaintained by the Government of the United States in the Federated States of Micronesia pursuant to this Compact, as amended, and its related agreements and by the Government of the Federated States of Micronesia in the United States pursuant to this Compact, as amended, and its related agreements.
+"The Governments of the United States and the Federated States of Micronesia agree to adopt and enforce such measures, consistent with this Compact, as amended, and its related agreements, as may be necessary to protect the personnel, property, installations, services, programs and official archives and documents maintained by the Government of the United States in the Federated States of Micronesia pursuant to this Compact, as amended, and its related agreements and by the Government of the Federated States of Micronesia in the United States pursuant to this Compact, as amended, and its related agreements.
 
 #### "Section 174
 
@@ -394,7 +394,7 @@ Pub. L. 108–188, title II, §201(a), Dec. 17, 2003, 117 Stat. 2757, as amended
 
 #### "Section 211 - Sector Grants
 
-"(a) In order to assist the Government of the Federated States of Micronesia in its efforts to promote the economic advancement, budgetary self-reliance, and economic self-sufficiency of its people, and in recognition of the special relationship that exists between the Federated States of Micronesia and the United States, the Government of the United States shall provide assistance on a sector grant basis for a period of twenty years in the amounts set forth in section 216, commencing on the effective date of this Compact, as amended. Such grants shall be used for assistance in the sectors of education, health care, private sector development, the environment, public sector capacity building, and public infrastructure, or for other sectors as mutually agreed, with priorities in the education and health care sectors. For each year such sector grant assistance is made available, the proposed division of this amount among these sectors shall be certified to the Government of the United States by the Government of the Federated States of Micronesia and shall be subject to the concurrence of the Government of the United States. In such case, the Government of the United States shall disburse the agreed upon amounts and monitor the use of such sector grants in accordance with the provisions of this Article and the Agreement Concerning Procedures for the Implementation of United States Economic Assistance Provided in the Compact of Free Association, as amended\[,\] Between the Government of the United States of America and the Government of the Federated States of Micronesia ('Fiscal Procedures Agreement') which shall come into effect simultaneously with this Compact, as amended. The provision of any United States assistance under the Compact, as amended, the Fiscal Procedures Agreement, the Agreement Between the Government of the United States of America and the Government of the Federated States of Micronesia Implementing Section 215 and Section 216 of the Compact, as Amended, Regarding a Trust Fund (Trust Fund Agreement), or any other subsidiary agreement to the Compact, as amended, shall constitute 'a particular distribution . . . required by the terms or special nature of the assistance' for purposes of Article XII, section 1(b) of the Constitution of the Federated States of Micronesia.
+"(a) In order to assist the Government of the Federated States of Micronesia in its efforts to promote the economic advancement, budgetary self-reliance, and economic self-sufficiency of its people, and in recognition of the special relationship that exists between the Federated States of Micronesia and the United States, the Government of the United States shall provide assistance on a sector grant basis for a period of twenty years in the amounts set forth in section 216, commencing on the effective date of this Compact, as amended. Such grants shall be used for assistance in the sectors of education, health care, private sector development, the environment, public sector capacity building, and public infrastructure, or for other sectors as mutually agreed, with priorities in the education and health care sectors. For each year such sector grant assistance is made available, the proposed division of this amount among these sectors shall be certified to the Government of the United States by the Government of the Federated States of Micronesia and shall be subject to the concurrence of the Government of the United States. In such case, the Government of the United States shall disburse the agreed upon amounts and monitor the use of such sector grants in accordance with the provisions of this Article and the Agreement Concerning Procedures for the Implementation of United States Economic Assistance Provided in the Compact of Free Association, as amended\[,\] Between the Government of the United States of America and the Government of the Federated States of Micronesia ('Fiscal Procedures Agreement') which shall come into effect simultaneously with this Compact, as amended. The provision of any United States assistance under the Compact, as amended, the Fiscal Procedures Agreement, the Agreement Between the Government of the United States of America and the Government of the Federated States of Micronesia Implementing Section 215 and Section 216 of the Compact, as Amended, Regarding a Trust Fund (Trust Fund Agreement), or any other subsidiary agreement to the Compact, as amended, shall constitute 'a particular distribution. . . required by the terms or special nature of the assistance' for purposes of Article XII, section 1(b) of the Constitution of the Federated States of Micronesia.
 
 &emsp;"(1)
 
@@ -424,7 +424,7 @@ Public infrastructure.—
 
 &emsp;&emsp;"(ii)
 
-Infrastructure and maintenance Fund.—Five percent of the annual public infrastructuregrant made available under paragraph (i) of this subsection shall be set aside, with an equal contribution from the Government of the Federated States of Micronesia, as a contribution to an Infrastructure Maintenance Fund (IMF). Administration of the Infrastructure Maintenance Fund shall be governed by the Fiscal Procedures Agreement.
+Infrastructure and maintenance Fund.—Five percent of the annual public infrastructure grant made available under paragraph (i) of this subsection shall be set aside, with an equal contribution from the Government of the Federated States of Micronesia, as a contribution to an Infrastructure Maintenance Fund (IMF). Administration of the Infrastructure Maintenance Fund shall be governed by the Fiscal Procedures Agreement.
 
 "(b)
 
@@ -525,7 +525,7 @@ Services.—The Government of the United States shall make available to the Fede
 
 Programs.—
 
-&emsp;"(1) With the exception of the services and programs covered by subsection (a) of this section, and unless the Congress of the United States provides otherwise, the Government of the United States shall make available to the Federated States of Micronesia the services and programs that were available to the Federated States of Micronesia on the effective date of this Compact, as amended, to the extent that such services and programs continue to be available to State and local governments of the United States. As set forth in the Fiscal Procedures Agreement, funds provided under subsection (a) of section 211 will be considered to be local revenues of the Government of the Federated States of Micronesia when used as the local share required to obtain Federal programs and services.
+&emsp;"(1) With the exception of the services and programs covered by subsection (a) of this section, and unless the Congress of the United States provides otherwise, the Government of the United States shall make available to the Federated States of Micronesia the services and programs that were available to the Federated States of Micronesia on the effective date of this Compact, as amended, to the extent that such services and programs continue to be available to State and local governments of the United States. As set forth in the Fiscal Procedures Agreement, fundsprovided under subsection (a) of section 211 will be considered to be local revenues of the Government of the Federated States of Micronesia when used as the local share required to obtain Federal programs and services.
 
 &emsp;"(2) Unless provided otherwise by U.S. law, the services and programs described in paragraph (1) of this subsection shall be extended in accordance with the terms of the Federal Programs and Services Agreement referred to in section 231.
 
@@ -577,7 +577,7 @@ Programs.—
 
 #### "Section 242
 
-"The President shall proclaim the following tariff treatment for articles imported from the Federated States of Micronesia which shall apply during the period of effectiveness of this title:
+"The President shall proclaim the following tariff treatment for articles imported from the FederatedStates of Micronesia which shall apply during the period of effectiveness of this title:
 
 &emsp;"(a) Unless otherwise excluded, articles imported from the Federated States of Micronesia, subject to the limitations imposed under section 503(b) of title V of the Trade Act of 1974 (19 U.S.C. 2463(b)), shall be exempt from duty.
 
@@ -601,7 +601,7 @@ Programs.—
 
 #### "Section 244
 
-"(a) All products of the United States imported into the Federated States of Micronesia shall receive treatment no less favorable than that accorded like products of any foreign country with respect to customs duties or charges of a similar nature and with respect to lawsand regulations relating to importation, exportation, taxation, sale, distribution, storage or use.
+"(a) All products of the United States imported into the Federated States of Micronesia shall receive treatment no less favorable than that accorded like products of any foreign country with respect to customs duties or charges of a similar nature and with respect to laws and regulations relating to importation, exportation, taxation, sale, distribution, storage or use.
 
 "(b) The provisions of subsection (a) shall not apply to advantages accorded by the Federated States of Micronesia by virtue of their full membership in the Pacific Island Countries Trade Agreement (PICTA), done on August 18, 2001, to those governments listed in Article 26 of PICTA, as of the date the Compact, as amended, is signed.
 
@@ -643,7 +643,7 @@ Programs.—
 
 #### "Section 311
 
-"(a) The Government of the United States has full authority and responsibility for security and defense matters in or relating to the Federated States of Micronesia.
+"(a) The Government of the United States has full authority and responsibility for security and defensematters in or relating to the Federated States of Micronesia.
 
 "(b) This authority and responsibility includes:
 
@@ -711,7 +711,7 @@ Programs.—
 
 #### "Section 323
 
-"The military operating rights of the Government of the United States and the legal status and contractual arrangements of the United States Armed Forces, their members, and associated civilians, while present in the Federated States of Micronesia are set forth in separate agreements, which shall remain in effect in accordance with the terms of such agreements.
+"The military operating rights of the Government of the United States and the legal status and contractual arrangements of the United States Armed Forces, their members, and associated civilians, while present in theFederated States of Micronesia are set forth in separate agreements, which shall remain in effect in accordance with the terms of such agreements.
 
 #### "Article III
 
@@ -737,9 +737,9 @@ Programs.—
 
 "The Government of the United States shall have enrolled, at any one time, at least one qualified student from the Federated States of Micronesia, as may be nominated by the Government of the Federated States of Micronesia, in each of:
 
-"(a) The United States Coast Guard Academy pursuant to section 195 of title 14, United States Code.
+"(a) The United States Coast Guard Academy pursuant to section 195 \[now 1923\] of title 14, United States Code.
 
-"(b) The United States Merchant Marine Academy pursuant to section 1303(b)(6) of the Merchant MarineAct, 1936 (\[former\] 46 U.S.C. \[App.\] 1295b(b)(6)) \[see 46 U.S.C. 51304\], provided that the provisions of section 1303(b)(6)(C) of that Act \[now 46 U.S.C. 51304(b)(2)\] shall not apply to the enrollment of students pursuant to section 342(b) of this Compact, as amended. \[As amended Pub. L. 110–229, title VIII, §806(b)(1)(K), May 8, 2008, 122 Stat. 872.\]
+"(b) The United States Merchant Marine Academy pursuant to section 1303(b)(6) of the Merchant Marine Act, 1936 (\[former\] 46 U.S.C. \[App.\] 1295b(b)(6)) \[see 46 U.S.C. 51304\], provided that the provisions of section 1303(b)(6)(C) of that Act \[now 46 U.S.C. 51304(b)(2)\] shall not apply to the enrollment of students pursuant to section 342(b) of this Compact, as amended. \[As amended Pub. L. 110–229, title VIII, §806(b)(1)(K), May 8, 2008, 122 Stat. 872.\]
 
 #### "Article V
 
@@ -801,7 +801,7 @@ Programs.—
 
 #### "Section 421
 
-"The Government of the United States shall confer promptly at the request of the Government of the Federated States of Micronesia and that Government shall confer promptly at the request of the Government ofthe United States on matters relating to the provisions of this Compact, as amended, or of its related agreements.
+"The Government of the United States shall confer promptly at the request of the Government of the Federated States of Micronesia and that Government shall confer promptly at the request of the Government of the United States on matters relating to the provisions of this Compact, as amended, or of its related agreements.
 
 #### "Section 422
 
@@ -843,7 +843,7 @@ Programs.—
 
 #### "Section 442
 
-"Subject to section 452, this Compact, as amended, may be terminated by the Government of the United States in accordance with its constitutional processes. Such termination shall be effective on the date specified in the notice of termination by the Government of the United States but not earlier than six months following delivery of such notice. The time specified in the notice of termination may be extended. Such termination of this Compact, as amended, shall be without prejudice to the continued application of section 452 of this Compact, as amended, and the provisions of the Compact, as amended, set forth therein.
+"Subject to section 452, this Compact, as amended, may be terminated by the Government of the United States in accordance with its constitutional processes.Such termination shall be effective on the date specified in the notice of termination by the Government of the United States but not earlier than six months following delivery of such notice. The time specified in the notice of termination may be extended. Such termination of this Compact, as amended, shall be without prejudice to the continued application of section 452 of this Compact, as amended, and the provisions of the Compact, as amended, set forth therein.
 
 #### "Section 443
 
@@ -923,7 +923,7 @@ Programs.—
 
 &emsp;"(d) 'Compact' means the Compact of Free Association Between the United States and the Federated States of Micronesia and the Marshall Islands, that was approved by the United States Congress in section 201 of Public Law 99–239 (Jan. 14, 1986) and went into effect with respect to the Federated States of Micronesia on November 3, 1986.
 
-&emsp;"(e) 'Compact, as amended' means the Compact of Free Association Between the United States and the Federated States of Micronesia, as amended. The effective date of the Compact, as amended, shall be on a date to be determined by the President of the United States, and agreed to by the Government ofthe Federated States of Micronesia, following formal approval of the Compact, as amended, in accordance with section 411 of this Compact, as amended.
+&emsp;"(e) 'Compact, as amended' means the Compact of Free Association Between the United States and the Federated States of Micronesia, as amended. The effective date of the Compact, as amended, shall be on a date to be determined by the President of the United States, and agreed to by the Government of the Federated States of Micronesia, following formal approval of the Compact, as amended, in accordance with section 411 of this Compact, as amended.
 
 &emsp;"(f) 'Government of the Federated States of Micronesia' means the Government established and organized by the Constitution of the Federated States of Micronesia including all the political subdivisions and entities comprising that Government.
 
@@ -993,7 +993,7 @@ Programs.—
 
 "(a) Except as set forth in subsection (b) of this section, any reference in this Compact, as amended, to a provision of the United States Code or the Statutes at Large of the United States constitutes the incorporation of the language of such provision into this Compact, as amended, as such provision was in force on the effective date of this Compact, as amended.
 
-"(b) Any reference in Article IV and Article VI of Title One and Sections 174, 175, 178 and 342 to a provision of the United States Code or the Statutes at Large of the United States or to the Privacy Act, the Freedom of Information Act, the Administrative Procedure Act or the Immigration and Nationality Act constitutes the incorporation of the language of such provision into this Compact, as amended, as such provision was in force on the effective date of this Compact, as amended, or as it may be amended thereafter on a non-discriminatory basis according to the constitutionalprocesses of the United States. \[As amended Pub. L. 110–229, title VIII, §806(b)(1)(O), May 8, 2008, 122 Stat. 873.\]
+"(b) Any reference in Article IV and Article VI of Title One and Sections 174, 175, 178 and 342 to a provision of the United States Code or the Statutes at Large of the United States or to the Privacy Act, the Freedom of Information Act, the Administrative Procedure Act or the Immigration and Nationality Act constitutes the incorporation of the language of such provision into this Compact, as amended, as such provision was in force on the effective date of this Compact, as amended, or as it may be amended thereafter on a non-discriminatory basis according to the constitutional processes of the United States. \[As amended Pub. L. 110–229, title VIII, §806(b)(1)(O), May 8, 2008, 122 Stat. 873.\]
 
 #### "Article VII
 
@@ -1053,7 +1053,7 @@ Pub. L. 108–188, title II, §201(b), Dec. 17, 2003, 117 Stat. 2795, as amended
 
 "Recognizing that the Compact reflected their common desire to terminate the Trusteeship and establish a government-to-government relationship which was in accordance with the new political status based on the freely expressed wishes of the people of the Republic of the Marshall Islands and appropriate to their particular circumstances; and
 
-"Recognizing that the people of the Republic of the Marshall Islands have and retain their sovereignty and their sovereign right to self-determination and the inherent right to adopt and amend their own Constitution and form of government and that the approval of the entry of the Government of the Republic of the Marshall Islands into the Compact by the people of the Republic of the Marshall Islands constituted an exercise of their sovereign right to self-determination; and
+"Recognizing that the people of the Republic of the Marshall Islands have and retain their sovereignty andtheir sovereign right to self-determination and the inherent right to adopt and amend their own Constitution and form of government and that the approval of the entry of the Government of the Republic of the Marshall Islands into the Compact by the people of the Republic of the Marshall Islands constituted an exercise of their sovereign right to self-determination; and
 
 "Recognizing the common desire of the people of the United States and the people of the Republic of the Marshall Islands to maintain their close government-to-government relationship, the United States and the Republic of the Marshall Islands:
 
@@ -1147,7 +1147,7 @@ Pub. L. 108–188, title II, §201(b), Dec. 17, 2003, 117 Stat. 2795, as amended
 
 &emsp;"(4) a naturalized citizen of the Republic of the Marshall Islands who was an actual resident there for not less than five years after attaining such naturalization and who satisfied these requirements as of April 30, 2003, who continues to be an actual resident and holds a certificate of actual residence, and whose name is included in a list furnished by the Government of the Republic of the Marshall Islands to the Government of the United States no later than the effective date of the Compact, as amended, in form and content acceptable to the Government of the United States, provided, that the Government of the United States is satisfied that such naturalized citizen meets the requirement of subsection (b) of section 104 of Public Law 99–239 as it was in effect on the day prior to the effective date of this Compact, as amended; or
 
-&emsp;"(5) an immediate relative of a citizen of the Republic of the Marshall Islands, regardless of the immediate relative's country of citizenship or period of residence in the Republic of the Marshall Islands, ifthe citizen of the Republic of the Marshall Islands is serving on active duty in any branch of the United States Armed Forces, or in the active reserves.
+&emsp;"(5) an immediate relative of a citizen of the Republic of the Marshall Islands, regardless of the immediate relative's country of citizenship or period of residence in the Republic of the Marshall Islands, if the citizen of the Republic of the Marshall Islands is serving on active duty in any branch of the United States Armed Forces, or in the active reserves.
 
 "(b) Notwithstanding subsection (a) of this section, a person who is coming to the United States pursuant to an adoption outside the United States, or for the purpose of adoption in the United States, is ineligible for admission under the Compact and the Compact, as amended. This subsection shall apply to any person who is or was an applicant for admission to the United States on or after March 1, 2003, including any applicant for admission in removal proceedings (including appellate proceedings) on or after March 1, 2003, regardless of the date such proceedings were commenced. This subsection shall have no effect on the ability of the Government of the United States or any United States State or local government to commence or otherwise take any action against any person or entity who has violated any law relating to the adoption of any person.
 
@@ -1223,7 +1223,7 @@ Pub. L. 108–188, title II, §201(b), Dec. 17, 2003, 117 Stat. 2795, as amended
 
 &emsp;&emsp;"(2) shall apply the National Environmental Policy Act of 1969, 83 Stat. 852, 42 U.S.C. 4321 et seq., to its activities under the Compact, as amended, and its related agreements as if the Republic of the Marshall Islands were the United States;
 
-&emsp;&emsp;"(3) in the conduct of any activity not described in section 161(a)(1) requiring the preparation of an Environmental Impact Statement under section 161(a)(2), shall comply with standards substantively similar to those required by the following laws of the United States, taking into account the particular environment of the Republic of the Marshall Islands; the Endangered Species Act of 1973, as amended, 16 U.S.C. 1531 et seq.; the Clean Air Act, as amended, 42 U.S.C. 7401 et seq.; the Clean Water Act (Federal Water Pollution Control Act), as amended, 33 U.S.C. 1251 et seq.; Title I of the Marine Protection, Research and Sanctuaries Act of 1972 (the Ocean Dumping Act), 33 U.S.C. 1411 et seq.; the Toxic Substances Control Act, as amended, 15 U.S.C. 2601 et seq.; the Solid Waste Disposal Act, as amended, 42 U.S.C. 6901 et seq.; and such other environmental protection laws of the United States and the Republic of the Marshall Islands as may be agreed from time to time with the Government of the Republic of the Marshall Islands;
+&emsp;&emsp;"(3) in the conduct of any activity not described in section 161(a)(1) requiring the preparation of an Environmental Impact Statement under section 161(a)(2), shall comply with standards substantively similar to those required by the following laws ofthe United States, taking into account the particular environment of the Republic of the Marshall Islands; the Endangered Species Act of 1973, as amended, 16 U.S.C. 1531 et seq.; the Clean Air Act, as amended, 42 U.S.C. 7401 et seq.; the Clean Water Act (Federal Water Pollution Control Act), as amended, 33 U.S.C. 1251 et seq.; Title I of the Marine Protection, Research and Sanctuaries Act of 1972 (the Ocean Dumping Act), 33 U.S.C. 1411 et seq.; the Toxic Substances Control Act, as amended, 15 U.S.C. 2601 et seq.; the Solid Waste Disposal Act, as amended, 42 U.S.C. 6901 et seq.; and such other environmental protection laws of the United States and the Republic of the Marshall Islands as may be agreed from time to time with the Government of the Republic of the Marshall Islands;
 
 &emsp;&emsp;"(4) shall, prior to conducting any activity not described in section 161(a)(1) requiring the preparation of an Environmental Impact Statement under section 161(a)(2), develop, as agreed with the Government of the Republic of the Marshall Islands, written environmental standards and procedures to implement the substantive provisions of the laws made applicable to U.S. Government activities in the Republic of the Marshall Islands, pursuant to section 161(a)(3).
 
@@ -1267,7 +1267,7 @@ Pub. L. 108–188, title II, §201(b), Dec. 17, 2003, 117 Stat. 2795, as amended
 
 #### "Section 171
 
-"Except as provided in this Compact, as amended, or its related agreements, the application of the laws of the United States to the Trust Territory of the Pacific Islands by virtue of the Trusteeship Agreement ceased with respect to the Marshall Islands on October 21, 1986, the date the Compact went into effect.
+"Except as provided in this Compact, as amended, or its related agreements, the application of the laws ofthe United States to the Trust Territory of the Pacific Islands by virtue of the Trusteeship Agreement ceased with respect to the Marshall Islands on October 21, 1986, the date the Compact went into effect.
 
 #### "Section 172
 
@@ -1313,7 +1313,7 @@ Pub. L. 108–188, title II, §201(b), Dec. 17, 2003, 117 Stat. 2795, as amended
 
 &emsp;" '(a) The Government of the United States accepts the responsibility for compensation owing to citizens of the Marshall Islands, or the Federated States of Micronesia (or Palau) for loss or damage to property and person of the citizens of the Marshall Islands, or the Federated States of Micronesia, resulting from the nuclear testing program which the Government of the United States conducted in the Northern Marshall Islands between June 30, 1946, and August 18, 1958.
 
-&emsp;" '(b) The Government of the United States and the Government of the Marshall Islands shall set forth in a separate agreement provisions for the just and adequate settlement of all such claims which have arisen in regard to the Marshall Islands and its citizens and which have not as yet been compensated or which in the future may arise, for the continued administration by the Government of the United States of direct radiation related medical surveillance and treatment programs and radiological monitoring activities and for such additional programs and activities as may be mutually agreed, and for the assumption by the Government of the Marshall Islands of responsibility for enforcement of limitations on the utilization of affected areas developed in cooperation with the Government of the United States and for the assistance by the Government of the United States in the exercise of such responsibility as may be mutually agreed. This separate agreement shall come into effect simultaneously with this Compact and shall remain in effect in accordance with its own terms.
+&emsp;" '(b) The Government of the United States and the Government of the Marshall Islands shall set forth in a separate agreement provisions for the just and adequate settlement of all such claims which have arisen in regard to the Marshall Islands and its citizens and which have not as yet been compensated or which in the future may arise, for the continued administration by the Government of the United States of directradiation related medical surveillance and treatment programs and radiological monitoring activities and for such additional programs and activities as may be mutually agreed, and for the assumption by the Government of the Marshall Islands of responsibility for enforcement of limitations on the utilization of affected areas developed in cooperation with the Government of the United States and for the assistance by the Government of the United States in the exercise of such responsibility as may be mutually agreed. This separate agreement shall come into effect simultaneously with this Compact and shall remain in effect in accordance with its own terms.
 
 &emsp;" '(c) The Government of the United States shall provide to the Government of the Marshall Islands, on a grant basis, the amount of $150 million to be paid and distributed in accordance with the separate agreement referred to in this Section, and shall provide the services and programs set forth in this separate agreement, the language of which is incorporated into this Compact.'.
 
@@ -1417,7 +1417,7 @@ Budget and Investment Framework.—The Government of the Republic of the Marshal
 
 #### "Section 214 - Joint Economic Management and Financial Accountability Committee
 
-"The Governments of the United States and the Republic of the Marshall Islands shall establish a Joint Economic Management and Financial Accountability Committee, composed of a U.S. chair, two other members from the Government of the United States and two members from the Government of the Republic of the Marshall Islands. The Joint Economic Management and Financial Accountability Committee shall meet atleast once each year to review the audits and reports required under this Title and the Fiscal Procedures Agreement, evaluate the progress made by the Republic of the Marshall Islands in meeting the objectives identified in its framework described in subsection (f) of section 211, with particular focus on those parts of the framework dealing with the sectors and areas identified in subsection (a) of section 211, identify problems encountered, and recommend ways to increase the effectiveness of U.S. assistance made available under this Title. The establishment and operations of the Joint Economic Management and Financial Accountability Committee shall be governed by the Fiscal Procedures Agreement.
+"The Governments of the United States and the Republic of the Marshall Islands shall establish a Joint Economic Management and Financial Accountability Committee, composed of a U.S. chair, two other members from the Government of the United States and two members from the Government of the Republic of the Marshall Islands. The Joint Economic Management and Financial Accountability Committee shall meet at least once each year to review the audits and reports required under this Title and the Fiscal Procedures Agreement, evaluate the progress made by the Republic of the Marshall Islands in meeting the objectives identified in its framework described in subsection (f) of section 211, with particular focus on those parts of the framework dealing with the sectors and areas identified in subsection (a) of section 211, identify problems encountered, and recommend ways to increase the effectiveness of U.S. assistance made available under this Title. The establishment and operations of the Joint Economic Management and Financial Accountability Committee shall be governed by the Fiscal Procedures Agreement.
 
 #### "Section 215 - Annual Report
 
@@ -1476,7 +1476,7 @@ Budget and Investment Framework.—The Government of the Republic of the Marshal
 
 "(a)
 
-Services.—The Government of the United States shall make available to the Republic of the Marshall Islands, in accordance with and to the extent provided inthe Federal Programs and Services Agreement referred to in section 231, the services and related programs of:
+Services.—The Government of the United States shall make available to the Republic of the Marshall Islands, in accordance with and to the extent provided in the Federal Programs and Services Agreement referred to in section 231, the services and related programs of:
 
 &emsp;"(1) the United States Weather Service;
 
@@ -1510,7 +1510,7 @@ Programs.—
 
 #### "Section 223
 
-"The Government of the Republic of the Marshall Islands shall make available to the Government of the United States at no cost such land as may be necessary for the operations of the services and programs provided pursuant to this Article, and such facilities as are provided by the Government of the Republic of the Marshall Islands at no cost to the Government of the United States as of the effective date of this Compact, as amended, or as may be mutually agreed thereafter.
+"The Government of the Republic of the Marshall Islands shall make available to the Government of the United States at no cost such land as may be necessary for the operations of the services and programs provided pursuant to this Article, and such facilities as are provided by the Government of the Republic of the Marshall Islands at no cost to the Government of theUnited States as of the effective date of this Compact, as amended, or as may be mutually agreed thereafter.
 
 #### "Section 224
 
@@ -1534,7 +1534,7 @@ Programs.—
 
 #### "Section 234
 
-"The Government of the Republic of the Marshall Islands pledges to cooperate with, permit, and assist if reasonably requested, designated and authorized representatives of the Government of the United Statescharged with investigating whether Compact funds, or any other assistance authorized under this Compact, as amended, have, or are being, used for purposes other than those set forth in this Compact, as amended, or its subsidiary agreements. In carrying out this investigative authority, such United States Government representatives may request that the Government of the Republic of the Marshall Islands subpoena documents and records and compel testimony in accordance with the laws and Constitution of the Republic of the Marshall Islands. Such assistance by the Government of the Republic of the Marshall Islands to the Government of the United States shall not be unreasonably withheld. The obligation of the Government of the Marshall Islands to fulfill its pledge herein is a condition to its receiving payment of such funds or other assistance authorized under this Compact, as amended. The Government of the United States shall pay any reasonable costs for extraordinary services executed by the Government of the Marshall Islands in carrying out the provisions of this section.
+"The Government of the Republic of the Marshall Islands pledges to cooperate with, permit, and assist if reasonably requested, designated and authorized representatives of the Government of the United States charged with investigating whether Compact funds, or any other assistance authorized under this Compact, as amended, have, or are being, used for purposes other than those set forth in this Compact, as amended, or its subsidiary agreements. In carrying out this investigative authority, such United States Government representatives may request that the Government of the Republic of the Marshall Islands subpoena documents and records and compel testimony in accordance with the laws and Constitution of the Republic of the Marshall Islands. Such assistance by the Government of the Republic of the Marshall Islands to the Government of the United States shall not be unreasonably withheld. The obligation of the Government of the Marshall Islands to fulfill its pledge herein is a condition to its receiving payment of such funds or other assistance authorized under this Compact, as amended. The Government of the United States shall pay any reasonable costs for extraordinary services executed by the Government of the Marshall Islands in carrying out the provisions of this section.
 
 #### "Article IV
 
@@ -1570,7 +1570,7 @@ Programs.—
 
 #### "Section 244
 
-"(a) All products of the United States imported into the Republic of the Marshall Islands shall receive treatment no less favorable than that accorded like products of any foreign country with respect to customs duties or charges of a similar nature and with respect to laws and regulations relating to importation, exportation, taxation, sale, distribution, storage or use.
+"(a) All products of the United States imported into the Republic of the Marshall Islands shall receivetreatment no less favorable than that accorded like products of any foreign country with respect to customs duties or charges of a similar nature and with respect to laws and regulations relating to importation, exportation, taxation, sale, distribution, storage or use.
 
 "(b) The provisions of subsection (a) shall not apply to advantages accorded by the Republic of the Marshall Islands by virtue of their full membership in the Pacific Island Countries Trade Agreement (PICTA), done on August 18, 2001, to those governments listed in Article 26 of PICTA, as of the date the Compact, as amended, is signed.
 
@@ -1706,7 +1706,7 @@ Programs.—
 
 "The Government of the United States shall have enrolled, at any one time, at least one qualified student from the Republic of the Marshall Islands, as may be nominated by the Government of the Republic of the Marshall Islands, in each of:
 
-&emsp;"(a) The United States Coast Guard Academy pursuant to section 195 of title 14, United States Code.
+&emsp;"(a) The United States Coast Guard Academy pursuant to section 195 \[now 1923\] of title 14, United States Code.
 
 &emsp;"(b) The United States Merchant Marine Academy pursuant to section 1303(b)(6) of the Merchant Marine Act, 1936 (\[former\] 46 U.S.C. \[App.\] 1295b(b)(6)) \[see 46 U.S.C. 51304\], provided that the provisions of section 1303(b)(6)(C) of that Act \[now 46 U.S.C. 51304(b)(2)\] shall not apply to the enrollment of students pursuant to section 342(b) of this Compact, as amended. \[As amended Pub. L. 110–229, title VIII, §806(b)(2)(H), May 8, 2008, 122 Stat. 874.\]
 
@@ -1732,7 +1732,7 @@ Programs.—
 
 "(a) The Government of the United States shall not include the Government of the Republic of the Marshall Islands as a named party to a formal declaration of war, without that Government's consent.
 
-"(b) Absent such consent, this Compact, as amended, is without prejudice, on the ground of belligerence orthe existence of a state of war, to any claims for damages which are advanced by the citizens, nationals or Government of the Republic of the Marshall Islands, which arise out of armed conflict subsequent to October 21, 1986, and which are:
+"(b) Absent such consent, this Compact, as amended, is without prejudice, on the ground of belligerence or the existence of a state of war, to any claims for damages which are advanced by the citizens, nationals or Government of the Republic of the Marshall Islands, which arise out of armed conflict subsequent to October 21, 1986, and which are:
 
 &emsp;"(1) petitions to the Government of the United States for redress; or
 

@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–272 applicable to services performed after Mar. 31, 1986, see section 13205(d)(1) of Pub. L. 99–272, set out as a note under section 3121 of this title.
+Amendment by Pub. L. 99–272 applicable to services performed after Mar. 31, 1986, see section 13205(d)(1) ofPub. L. 99–272, set out as a note under section 3121 of this title.
 
 #### Effective Date of 1976 Amendment
 

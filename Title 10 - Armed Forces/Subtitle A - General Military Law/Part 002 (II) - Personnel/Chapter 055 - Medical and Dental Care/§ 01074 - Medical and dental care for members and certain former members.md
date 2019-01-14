@@ -138,7 +138,7 @@ Subsec. (c)(3)(A). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(D
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which read as follows:
 
-"(d)(1) The Secretary of Defense may require, by regulation, a private CHAMPUS provider to apply the CHAMPUS payment rules (subject to any modifications considered appropriate by the Secretary) in imposing charges for health care that the private CHAMPUS provider provides to a member of the uniformed services who is enrolled in a health care plan of a facility deemed to be a facility of the uniformed services undersection 911(a) of the Military Construction Authorization Act, 1982 (42 U.S.C. 248c(a)) when the health care is provided outside the catchment area of the facility.
+"(d)(1) The Secretary of Defense may require, by regulation, a private CHAMPUS provider to apply the CHAMPUS payment rules (subject to any modifications considered appropriate by the Secretary) in imposing charges for health care that the private CHAMPUS provider provides to a member of the uniformed services who is enrolled in a health care plan of a facility deemed to be a facility of the uniformed services under section 911(a) of the Military Construction Authorization Act, 1982 (42 U.S.C. 248c(a)) when the health care is provided outside the catchment area of the facility.
 
 "(2) In this subsection:
 
@@ -226,7 +226,7 @@ Limitation.—The declassification required by subsection (a) shall be limited t
 
 "(c)
 
-Exception.—The Secretary of Defense is not required to declassify documents under subsection (a) if the Secretary determines that declassification of those documents would materially and immediately threaten the security of the United States.
+Exception.—The Secretary of Defense is not required to declassify documents under subsection (a) if the Secretary determines that declassification of thosedocuments would materially and immediately threaten the security of the United States.
 
 "(d)
 
@@ -330,7 +330,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 "(b)
 
-Pharmaceutical Agent Defined.—In this section, the term 'pharmaceutical agent' has the meaning given that term in section 1074g(g) of title 10, United States Code."
+Pharmaceutical Agent Defined.—In this section, the term 'pharmaceutical agent' has the meaning given that term in section 1074g(g) \[now 1074g(h)\] of title 10, United States Code."
 
 #### Pilot Program on Investigational Treatment of Members of the Armed Forces for Traumatic Brain Injury and Post-Traumatic Stress Disorder
 
@@ -928,7 +928,7 @@ Report.—Not later than one year after the date of the enactment of this Act \[
 
 "(c)
 
-Plan To Obtain Health Care Records From Allies.—The Secretary of Defense shall develop a plan for obtaining all records of medical treatment provided to members of the Armed Forces by allies of the United States in Operation Enduring Freedom and Operation Iraqi Freedom. The plan shall specify the actions that are to be taken to obtain all such records.
+Plan To Obtain Health Care Records From Allies.—The Secretary of Defense shall develop a plan forobtaining all records of medical treatment provided to members of the Armed Forces by allies of the United States in Operation Enduring Freedom and Operation Iraqi Freedom. The plan shall specify the actions that are to be taken to obtain all such records.
 
 "(d)
 
@@ -1046,7 +1046,7 @@ Pub. L. 108–375, div. A, title VII, §739(b), Oct. 28, 2004, 118 Stat. 2002, p
 
 #### Inclusion of Dental Care
 
-Pub. L. 108–375, div. A, title VII, §740, as added by Pub. L. 109–163, div. A, title VII, §745(a), Jan. 6, 2006, 119 Stat. 3362, provided that: "For purposes of the plan, this subtitle \[subtitle D (§§731–740) of title VII of div. A of Pub. L. 108–375, enacting sections 1073b and 1092a of this title and enacting provisions set out as notes under this section and sections 1073b, 1074f, and 1092a of this title\], and the amendments made by this subtitle, references to medical readiness, health status, and health care shall be considered to include dental readiness, dental status, and dental care."
+Pub. L. 108–375, div. A, title VII, §740, as added by Pub. L. 109–163, div. A, title VII, §745(a), Jan. 6, 2006, 119Stat. 3362, provided that: "For purposes of the plan, this subtitle \[subtitle D (§§731–740) of title VII of div. A of Pub. L. 108–375, enacting sections 1073b and 1092a of this title and enacting provisions set out as notes under this section and sections 1073b, 1074f, and 1092a of this title\], and the amendments made by this subtitle, references to medical readiness, health status, and health care shall be considered to include dental readiness, dental status, and dental care."
 
 #### Limitation on Fiscal Year 2004 Outlays for Temporary Reserve Health Care Programs
 
@@ -1260,7 +1260,7 @@ Pub. L. 105–85, div. A, title VII, §§761, 762, 770, Nov. 18, 1997, 111 Stat.
 
 "(a)
 
-Plan Required.—The Secretary of Defense and the Secretary of Veterans Affairs, acting jointly, shallprepare a plan to provide appropriate health care to Persian Gulf veterans (and dependents eligible by law) who suffer from a Gulf War illness.
+Plan Required.—The Secretary of Defense and the Secretary of Veterans Affairs, acting jointly, shall prepare a plan to provide appropriate health care to Persian Gulf veterans (and dependents eligible by law) who suffer from a Gulf War illness.
 
 "(b)
 
@@ -1336,7 +1336,7 @@ Compatibility of Department of Defense and Department of Veterans Affairs Regist
 
 &emsp;"(1) that the data collected by and the testing protocols of the Persian Gulf War Health Surveillance System maintained by the Department of Defense are compatible with the data collected by and the testing protocols of the Persian Gulf War Veterans Health Registry maintained by the Department of Veterans Affairs; and
 
-&emsp;"(2) that all information on individuals who register with the Department of Defense for purposes of the Persian Gulf War Health Surveillance System is provided to the Secretary of Veterans Affairs for incorporation into the Persian Gulf War Veterans Health Registry.
+&emsp;"(2) that all information on individuals who register with the Department of Defense for purposes of the Persian Gulf War Health Surveillance System isprovided to the Secretary of Veterans Affairs for incorporation into the Persian Gulf War Veterans Health Registry.
 
 "(d)
 
@@ -1504,7 +1504,7 @@ Definitions.—For purposes of this section:
 
 #### Advisory Committee on Mental Health Evaluation Protections
 
-Pub. L. 101–510, div. A, title V, §554, Nov. 5, 1990, 104 Stat. 1567, as amended by Pub. L. 102–484, div. A, titleV, §546(j)\[(i)\], Oct. 23, 1992, 106 Stat. 2419, directed Secretary of Defense, not later than 60 days after Nov. 5, 1990, to establish an advisory committee to develop and recommend to the Secretary, not later than 6 months after Nov. 5, 1990, regulations on procedural protections that should be afforded to any member of the Armed Forces who is referred by a commanding officer for a mental health evaluation by a mental health professional and directed Secretary, not later than 30 days after receipt of the report, to submit to Congress the report of the advisory committee, along with such additional comments and recommendations by the Secretary as the Secretary considers appropriate.
+Pub. L. 101–510, div. A, title V, §554, Nov. 5, 1990, 104 Stat. 1567, as amended by Pub. L. 102–484, div. A, title V, §546(j)\[(i)\], Oct. 23, 1992, 106 Stat. 2419, directed Secretary of Defense, not later than 60 days after Nov. 5, 1990, to establish an advisory committee to develop and recommend to the Secretary, not later than 6 months after Nov. 5, 1990, regulations on procedural protections that should be afforded to any member of the Armed Forces who is referred by a commanding officer for a mental health evaluation by a mental health professional and directed Secretary, not later than 30 days after receipt of the report, to submit to Congress the report of the advisory committee, along with such additional comments and recommendations by the Secretary as the Secretary considers appropriate.
 
 #### Prohibition on Fee for Outpatient Care at Military Medical Treatment Facilities
 

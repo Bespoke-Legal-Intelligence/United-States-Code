@@ -84,7 +84,7 @@ Before an employee may be eligible for early retirement, separation pay, or both
 
 #### (j) Notification of exercise of authority
 
-The Director may not make an offer of early retirement, separation pay, or both, pursuant to this section until 15 days after submitting to the congressional intelligence committees a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (h), and includes <sup>1</sup> the proposed regulations issued pursuant to subsection (i).
+The Director may not make an offer of early retirement, separation pay, or both, pursuant to this section until 15 days after submitting to the congressional intelligence committees a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director undersubsection (h), and includes <sup>1</sup> the proposed regulations issued pursuant to subsection (i).
 
 #### (k) Remittance of funds
 
@@ -94,7 +94,7 @@ In addition to any other payment that is required to be made under subchapter II
 
 #### References in Text
 
-Section 4(a) of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (k), is section 4(a) ofPub. L. 103–226, which is set out as a note under section 8331 of Title 5, Government Organization and Employees.
+Section 4(a) of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (k), is section 4(a) of Pub. L. 103–226, which is set out as a note under section 8331 of Title 5, Government Organization and Employees.
 
 #### Codification
 

@@ -72,7 +72,7 @@ Quarterly, semiannual, lump-sum, and other methods of payment.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Pursuant to section 108(b) of the Indian Self-Determination and Education Assistance Act, and notwithstanding any other provision of law, for each fiscal year covered by this Contract, the Secretary shall make available to the Contractor the funds specified for the fiscal year under the annual funding agreement incorporated by reference pursuant to subsection (f)(2) by paying to the Contractor, on a quarterly basis, one-quarter of the total amount provided for in the annual funding agreement for that fiscal year, in a lump-sum payment or as semiannual payments, or any other method of payment authorized by law, in accordancewith such method as may be requested by the Contractor and specified in the annual funding agreement.
+In general.—Pursuant to section 108(b) of the Indian Self-Determination and Education Assistance Act, and notwithstanding any other provision of law, for each fiscal year covered by this Contract, the Secretary shall make available to the Contractor the funds specified for the fiscal year under the annual funding agreement incorporated by reference pursuant to subsection (f)(2) by paying to the Contractor, on a quarterly basis, one-quarter of the total amount provided for in the annual funding agreement for that fiscal year, in a lump-sum payment or as semiannual payments, or any other method of payment authorized by law, in accordance with such method as may be requested by the Contractor and specified in the annual funding agreement.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -168,7 +168,7 @@ Third-party mediation defined.—For the purposes of this Contract, the term 'th
 
 &emsp;&emsp;"(B)
 
-Alternative procedures.—In addition to, or as an alternative to, remedies and procedures prescribed by section 110 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450m–1),<sup>1</sup> the parties to this Contract may jointly—
+Alternative procedures.—In addition to, or as an alternative to, remedies and procedures prescribed by section 110 of the Indian Self-Determination and EducationAssistance Act (25 U.S.C. 450m–1),<sup>1</sup> the parties to this Contract may jointly—
 
 &emsp;&emsp;&emsp;"(i) submit disputes under this Contract to third-party mediation;
 
@@ -244,7 +244,7 @@ In general.—To the extent that the annual funding agreement provides funding f
 
 &emsp;&emsp;"(B)
 
-Trust services to individual indians.—For the purposes of this paragraph only, the term 'trust services for individualIndians' means only those services that pertain to land or financial management connected to individually held allotments.
+Trust services to individual indians.—For the purposes of this paragraph only, the term 'trust services for individual Indians' means only those services that pertain to land or financial management connected to individually held allotments.
 
 &emsp;"(5)
 
@@ -268,7 +268,7 @@ Construction of contract.—Nothing in this Contract may be construed to termina
 
 &emsp;"(2)
 
-Good faith.—To the extent that health programs are included in this Contract, and within available funds, the Secretary shall act in good faith in cooperating with the Contractor to achieve the goals set forth in the Indian Health Care Improvement Act (25 U.S.C. 1601 et seq.).
+Good faith.—To the extent that health programs are included in this Contract, and within available funds, the Secretary shall actin good faith in cooperating with the Contractor to achieve the goals set forth in the Indian Health Care Improvement Act (25 U.S.C. 1601 et seq.).
 
 &emsp;"(3)
 
@@ -332,7 +332,7 @@ Incorporation by reference.—The annual funding agreement is hereby incorporate
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in the provisions of subsec. (c) setting out the model agreement, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter. Title I of the Act was classified principally to part A (§450f et seq.) of chapter 14 of this title prior to editorial reclassification as this subchapter. Sections 105, 106, and 110 of the Act were classified to sections 450j, 450j–1, and 450m–1, respectively, of this title prior to editorial reclassification as sections 5324, 5325, and 5331, respectively, of this title. Section 102(a) of the Act is classified to section 5321(a) of this title. Section 108(b) of theAct is classified to subsec. (b) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in the provisions of subsec. (c) setting out the model agreement, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter. Title I of the Act was classified principally to part A (§450f et seq.) of chapter 14 of this title prior to editorial reclassification as this subchapter. Sections 105, 106, and 110 of the Act were classified to sections 450j, 450j–1, and 450m–1, respectively, of this title prior to editorial reclassification as sections 5324, 5325, and 5331, respectively, of this title. Section 102(a) of the Act is classified to section 5321(a) of this title. Section 108(b) of the Act is classified to subsec. (b) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Indian Civil Rights Act of 1968, referred to in section 1(b)(13) of the provisions of subsec. (c) setting out the model agreement, is title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, which is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Tables.
 

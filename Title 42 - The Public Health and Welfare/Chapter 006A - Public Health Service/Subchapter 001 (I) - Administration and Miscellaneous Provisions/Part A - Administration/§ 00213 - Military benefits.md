@@ -50,7 +50,7 @@ The Servicemembers Civil Relief Act, referred to in subsec. (e), is act Oct. 17,
 
 <b>1976</b>—Subsec. (e). Pub. L. 94–278 added subsec. (e).
 
-<b>1956</b>—Act Aug. 1, 1956, amended section generally to extend all rights, privileges, immunities, and benefits provided for commissioned officers of the Army or their surviving beneficiaries to commissioned officers of theService, with the exception of retired pay and uniform allowances, when performing duty under certain circumstances, and to provide that active service of commissioned officers shall be deemed to be active military service in the Armed Forces for the purposes of all laws administered by the Veterans' Administration (except the Servicemen's Indemnity Act of 1951) and section 417 of this title.
+<b>1956</b>—Act Aug. 1, 1956, amended section generally to extend all rights, privileges, immunities, and benefits provided for commissioned officers of the Army or their surviving beneficiaries to commissioned officers of the Service, with the exception of retired pay and uniform allowances, when performing duty under certain circumstances, and to provide that active service of commissioned officers shall be deemed to be active military service in the Armed Forces for the purposes of all laws administered by the Veterans' Administration (except the Servicemen's Indemnity Act of 1951) and section 417 of this title.
 
 <b>1954</b>—Subsec. (a)(1). Act July 15, 1954, struck out "burial payments in the event of death," after "limited to,".
 

@@ -62,7 +62,7 @@ The last paragraph of subsection (b) of this section was revised to conform with
 
 #### References in Text
 
-The Criminal Justice Act, referred to in subsec. (f), probably means Pub. L. 88–455, Aug. 20, 1964, 78 Stat. 552, known as the Criminal Justice Act of 1964, which is classified to section 3006A of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under section 3006A of Title 18.
+The Criminal Justice Act, referred to in subsec. (f), probably means Pub. L. 88–455, Aug. 20, 1964, 78 Stat.552, known as the Criminal Justice Act of 1964, which is classified to section 3006A of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under section 3006A of Title 18.
 
 #### Amendments
 

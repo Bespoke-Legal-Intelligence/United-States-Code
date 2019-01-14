@@ -86,7 +86,7 @@ Subsec. (c). Pub. L. 102–587, §5205(b), substituted "in each of the pay grade
 
 <b>1990</b>—Subsec. (f). Pub. L. 101–510 struck out subsec. (f) which read as follows: "The Secretary of Defense shall report to Congress by March 1 of each year following a calendar year in which special pay is disbursed under this section. Negative reports need not be submitted."
 
-<b>1982</b>—Subsec. (f). Pub. L. 97–322 struck out last sentence providing that the Secretary of Transportation shall make a similar report for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
+<b>1982</b>—Subsec. (f). Pub. L. 97–322 struck out last sentence providing that the Secretary of Transportationshall make a similar report for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
 <b>1980</b>—Subsec. (e). Pub. L. 96–284 made section inapplicable to a person entitled to special pay under section 302a or 302b of this title.
 

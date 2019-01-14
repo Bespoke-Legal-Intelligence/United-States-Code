@@ -12,7 +12,7 @@
 
 &emsp;&emsp;The following shall be open to public inspection at such times and in such places as the Secretary may prescribe:
 
-&emsp;&emsp;&emsp;(i) any application filed with respect to the qualification of a pension, profit-sharing, or stock bonus plan under section 401(a) or 403(a), an individual retirement account described in section 408(a), or an individual retirement annuity described in section 408(b),
+&emsp;&emsp;&emsp;(i) any application filed with respect to the qualification of a pension, profit-sharing, or stock bonus plan under section 401(a) or 403(a), an individual retirementaccount described in section 408(a), or an individual retirement annuity described in section 408(b),
 
 &emsp;&emsp;&emsp;(ii) any application filed with respect to the exemption from tax under section 501(a) of an organization forming part of a plan or account referred to in clause (i),
 
@@ -24,7 +24,7 @@
 
 #### (C) Certain names and compensation not to be opened to public inspection
 
-&emsp;&emsp;In the case of any application, document, or other papers, referred to in subparagraph (B), information from which the compensation (including deferred compensation) of any individual may be ascertained shall notbe open to public inspection under subparagraph (B).
+&emsp;&emsp;In the case of any application, document, or other papers, referred to in subparagraph (B), information from which the compensation (including deferred compensation) of any individual may be ascertained shall not be open to public inspection under subparagraph (B).
 
 #### (D) Withholding of certain other information
 
@@ -148,7 +148,7 @@ The information required to be furnished by sections 6033, 6034, and 6058, toget
 
 &emsp;&emsp;&emsp;(iv) the reports filed under section 527(j) (relating to required disclosure of expenditures and contributions) by such organization,
 
-> &emsp;&emsp;shall be made available by such organization for inspection during regular business hours by any individual at the principal office of such organization and, if such organization regularly maintains 1 or more regional or district offices having 3 or more employees, at each such regional or district office, and
+> &emsp;&emsp;shall be made available by such organization for inspection during regular business hoursby any individual at the principal office of such organization and, if such organization regularly maintains 1 or more regional or district offices having 3 or more employees, at each such regional or district office, and
 
 &emsp;&emsp;(B) upon request of an individual made at such principal office or such a regional or district office, a copy of such annual return, reports, and exempt status application materials or such notice materials shall be provided to such individual without charge other than a reasonable fee for any reproduction and mailing costs.
 
@@ -156,7 +156,7 @@ The information required to be furnished by sections 6033, 6034, and 6058, toget
 
 #### (2) 3-year limitation on inspection of returns
 
-&emsp;Paragraph (1) shall apply to an annual return filed under section 6011 or 6033 only during the 3-year period beginning on the last day prescribed for filing such return (determinedwith regard to any extension of time for filing).
+&emsp;Paragraph (1) shall apply to an annual return filed under section 6011 or 6033 only during the 3-year period beginning on the last day prescribed for filing such return (determined with regard to any extension of time for filing).
 
 #### (3) Exceptions from disclosure requirement
 
@@ -280,7 +280,7 @@ Subsec. (d). Pub. L. 98–369, §306(b), substituted "shall state the address an
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–603, §1(d)(3), struck out "6056," after "6034,".
 
-Subsec. (d). Pub. L. 96–603, §1(b), substituted in heading "annual returns" for "annual reports" and in text "section 6033 (relating to returns by exempt organizations) by any organization which is a private foundation within the meaning of section 509(a)" for "section 6056 (relating to annual reports by private foundations)" and "annual return" for "annual report" wherever appearing.
+Subsec. (d). Pub. L. 96–603, §1(b), substituted in heading "annual returns" for "annual reports" and in text"section 6033 (relating to returns by exempt organizations) by any organization which is a private foundation within the meaning of section 509(a)" for "section 6056 (relating to annual reports by private foundations)" and "annual return" for "annual report" wherever appearing.
 
 <b>1978</b>—Subsec. (a)(1)(A). Pub. L. 95–488, §1(d)(1), struck out "(other than in paragraph (21) thereof)" after "section 501(c)".
 

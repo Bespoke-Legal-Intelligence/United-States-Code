@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;&emsp;(A) any roll of tobacco wrapped in paper or in any substance not containing tobacco; and
 
-&emsp;&emsp;(B) any roll of tobacco wrapped in any substance containing tobacco which, because ofits appearance, the type of tobacco used in the filler, or its packaging and labeling, is likely to be offered to, or purchased by, consumers as a cigarette described in subparagraph (A);
+&emsp;&emsp;(B) any roll of tobacco wrapped in any substance containing tobacco which, because of its appearance, the type of tobacco used in the filler, or its packaging and labeling, islikely to be offered to, or purchased by, consumers as a cigarette described in subparagraph (A);
 
 &emsp;(2) the term "contraband cigarettes" means a quantity in excess of 10,000 cigarettes, which bear no evidence of the payment of applicable State or local cigarette taxes in the State or locality where such cigarettes are found, if the State or local government requires a stamp, impression, or other indication to be placed on packages or other containers of cigarettes to evidence payment of cigarette taxes, and which are in the possession of any person other than—
 
@@ -66,7 +66,7 @@ Pars. (6), (7). Pub. L. 109–177, §121(b)(1), added pars. (6) and (7).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date
 

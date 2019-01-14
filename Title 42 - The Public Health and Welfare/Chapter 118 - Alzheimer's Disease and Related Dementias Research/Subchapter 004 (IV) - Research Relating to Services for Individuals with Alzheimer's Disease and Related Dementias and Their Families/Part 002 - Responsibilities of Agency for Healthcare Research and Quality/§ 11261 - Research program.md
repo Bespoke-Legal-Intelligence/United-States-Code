@@ -18,7 +18,7 @@ The Director of the Agency for Healthcare Research and Quality shall ensure that
 
 &emsp;(3) concerning the costs, cost-effectiveness, and effectiveness of various interventions to provide services for individuals with Alzheimer's disease and related dementias and for their families;
 
-&emsp;(4) conducted in consultation with the Director of the National Institute on Aging and the Commissioner of the Administration on Aging, concerning the role of physicians in caring for persons with Alzheimer's disease and related dementias and for their families, including the role of a physician in connecting such persons with appropriate health care and supportive services, including those supported through State and area agencies on aging designated under section 3025(a)(1) and (2)(A) of this title; and
+&emsp;(4) conducted in consultation with the Director of the National Institute on Aging and the Commissioner of the Administration on Aging, concerning the role of physicians in caring for persons with Alzheimer's disease and related dementias and for their families, including therole of a physician in connecting such persons with appropriate health care and supportive services, including those supported through State and area agencies on aging designated under section 3025(a)(1) and (2)(A) of this title; and
 
 &emsp;(5) conducted in consultation with the Director of the National Institute on Aging and the Commissioner of the Administration on Aging, concerning legal and ethical issues, including issues associated with special care units, facing individuals with Alzheimer's disease and related dementias and facing their families.
 

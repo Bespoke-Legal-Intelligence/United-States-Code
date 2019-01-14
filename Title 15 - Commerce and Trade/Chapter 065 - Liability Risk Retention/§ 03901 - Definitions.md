@@ -90,7 +90,7 @@ Subsec. (a)(4)(A). Pub. L. 99–563, §4(a)(2), substituted "liability exposure"
 
 Subsec. (a)(4)(C). Pub. L. 99–563, §4(a)(3), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "which is chartered or licensed as an insurance company and authorized to engage in the business of insurance under the laws of any State, or which is so chartered or licensed and authorized before January 1, 1985, under the laws of Bermuda or the Cayman Islands, except that any group so chartered or licensed and authorized under the laws of Bermuda or the Cayman Islands shall be considered to be a risk retention group only after it has certified to the insurance commissioner of at least one State that it satisfies the capitalization requirements of such State;".
 
-Subsec. (a)(4)(E) to (H). Pub. L. 99–563, §4(a)(4), added subpars. (E) to (H), and struck out former subpar. (E)which read as follows: "which is composed of member each of whose principal activity consists of the manufacture, design, importation, distribution, packaging, labeling, lease, or sale of a product or products;".
+Subsec. (a)(4)(E) to (H). Pub. L. 99–563, §4(a)(4), added subpars. (E) to (H), and struck out former subpar. (E) which read as follows: "which is composed of member each of whose principal activity consists of the manufacture, design, importation, distribution, packaging, labeling, lease, or sale of a product or products;".
 
 Subsec. (a)(5). Pub. L. 99–563, §4(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: " 'purchasing group' means any group of persons which has as one of its purposes the purchase of product liability or completed operations liability insurance on a group basis;".
 

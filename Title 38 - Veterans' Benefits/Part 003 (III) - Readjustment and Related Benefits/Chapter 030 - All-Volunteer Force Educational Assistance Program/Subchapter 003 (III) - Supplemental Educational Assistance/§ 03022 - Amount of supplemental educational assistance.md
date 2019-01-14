@@ -8,7 +8,7 @@
 
 (b) In the case of a member of the Armed Forces for whom the Secretary concerned has provided for the payment of supplemental educational assistance who has a skill or specialty designated by the Secretary concerned, pursuant to regulations to be prescribed by the Secretary of Defense, as a skill or specialty in which there is a critical shortage of personnel, the Secretary concerned, pursuant to such regulations, may increase the rate of the supplemental educational assistance allowance applicable to such individual to such rate in excess of the rate prescribed under subsection (a) of this section as the Secretary concerned considers appropriate, but the amount of any such increase may not exceed $300 per month.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2559, §1422; amended Pub. L. 100–689, title I, §111(a)(5)(B), Nov. 18, 1988, 102 Stat. 4171; Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(C), Dec. 18, 1989, 103 Stat. 2092; renumbered §3022 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2559, §1422; amended Pub. L. 100–689, title I, §111(a)(5)(B), Nov. 18, 1988, 102Stat. 4171; Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(C), Dec. 18, 1989, 103 Stat. 2092; renumbered §3022 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Prior Provisions
 

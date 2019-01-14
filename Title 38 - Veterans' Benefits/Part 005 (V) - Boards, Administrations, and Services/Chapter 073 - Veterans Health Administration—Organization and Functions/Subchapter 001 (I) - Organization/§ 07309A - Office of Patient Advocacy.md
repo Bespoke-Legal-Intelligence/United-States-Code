@@ -48,7 +48,7 @@ Patient Advocacy Responsibilities.—The responsibilities of each patient advoca
 
 &emsp;(11) To understand all laws, directives, and other rules with respect to the rights and responsibilities of veterans in receiving such health care, including the appeals processes available to veterans.
 
-&emsp;(12) To ensure that veterans receiving mental health care, or the surrogate decision-makers for such veterans, are aware of the rights of veterans to seek representation from systems established under section 103 of the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10803) to protectand advocate the rights of individuals with mental illness and to investigate incidents of abuse and neglect of such individuals.
+&emsp;(12) To ensure that veterans receiving mental health care, or the surrogate decision-makers for such veterans, are aware of the rights of veterans to seek representation from systems established under section 103 of the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10803) to protect and advocate the rights of individuals with mental illness and to investigate incidents of abuse and neglect of such individuals.
 
 &emsp;(13) To fulfill requirements established by the Secretary with respect to the inspection of controlled substances.
 
@@ -70,7 +70,7 @@ The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred t
 
 #### Date Fully Operational
 
-Pub. L. 114–198, title IX, §924(c), July 22, 2016, 130 Stat. 769, provided that: "The Secretary of Veterans Affairs shall ensure that the Office of Patient Advocacy established under section 7309A of title 38, United States Code, as added by subsection (a), is fully operational not later than the date that is one year after the date of the enactment of this Act \[July 22, 2016\]."
+Pub. L. 114–198, title IX, §924(c), July 22, 2016, 130 Stat. 769, provided that: "The Secretary of Veterans Affairs shall ensure that the Office of Patient Advocacyestablished under section 7309A of title 38, United States Code, as added by subsection (a), is fully operational not later than the date that is one year after the date of the enactment of this Act \[July 22, 2016\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

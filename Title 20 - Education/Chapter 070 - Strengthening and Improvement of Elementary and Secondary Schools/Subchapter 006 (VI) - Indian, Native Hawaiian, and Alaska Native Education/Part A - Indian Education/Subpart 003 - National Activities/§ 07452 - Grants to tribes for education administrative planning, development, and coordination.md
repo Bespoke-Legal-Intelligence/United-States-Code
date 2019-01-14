@@ -28,7 +28,7 @@ In this section:
 
 #### (3) Tribal educational agency
 
-&emsp;The term "tribal educational agency" means the agency, department, or instrumentality of an Indian tribe that is primarily responsible for supporting tribal students' elementary and secondary education.
+&emsp;The term "tribal educational agency" means the agency, department, or instrumentality ofan Indian tribe that is primarily responsible for supporting tribal students' elementary and secondary education.
 
 #### (c) Grant program
 
@@ -38,7 +38,7 @@ The Secretary may award grants to—
 
 &emsp;(2) eligible applicants described under subsection (b)(1)(B), for a period of not more than 3 years, in order to—
 
-&emsp;&emsp;(A) directly administer education programs, including formula grant programs under this chapter, consistent with Statelaw and under a written agreement between the parties;
+&emsp;&emsp;(A) directly administer education programs, including formula grant programs under this chapter, consistent with State law and under a written agreement between the parties;
 
 &emsp;&emsp;(B) build capacity to administer and coordinate such education programs, and to improve the relationship and coordination between such applicants and the State educational agencies and local educational agencies that educate students from the tribe;
 

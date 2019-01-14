@@ -74,7 +74,7 @@ The Secretary shall take such action as is necessary to promote and coordinate t
 
 #### (f) Evaluation of System performance
 
-(1) The Secretary shall periodically evaluate the operation and management of each national estuarine reserve, including education and interpretive activities, and the research being conducted within the reserve.
+(1) The Secretary shall periodically evaluate the operation and management of each nationalestuarine reserve, including education and interpretive activities, and the research being conducted within the reserve.
 
 (2) If evaluation under paragraph (1) reveals that the operation and management of the reserve is deficient, or that the research being conducted within the reserve is not consistent with the research guidelines developed under subsection (c), the Secretary may suspend the eligibility of that reserve for financial assistance under subsection (e) until the deficiency or inconsistency is remedied.
 

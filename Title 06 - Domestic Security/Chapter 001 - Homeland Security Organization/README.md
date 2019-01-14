@@ -21,73 +21,58 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER II—INFORMATION ANALYSIS AND INFRASTRUCTURE PROTECTION
+#### SUBCHAPTER II—INFORMATION ANALYSIS
 
-#### Part A—Information and Analysis and Infrastructure Protection; Access to Information
+#### Part A—Information and Analysis; Access to Information
 
 |  |  |
 | :--- | ---: |
-| [121\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000121%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection.md) | Information and Analysis and Infrastructure Protection. |
-| [121a.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000121a%20-%20Homeland%20Security%20Intelligence%20Program.md) | Homeland Security Intelligence Program. |
-| [122\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000122%20-%20Access%20to%20information.md) | Access to information. |
-| [123\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000123%20-%20Terrorist%20travel%20program.md) | Terrorist travel program. |
-| [124\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124%20-%20Homeland%20Security%20Advisory%20System.md) | Homeland Security Advisory System. |
-| [124a.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124a%20-%20Homeland%20security%20information%20sharing.md) | Homeland security information sharing. |
-| [124b.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124b%20-%20Comprehensive%20information%20technology%20network%20architecture.md) | Comprehensive information technology network architecture. |
-| [124c.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124c%20-%20Coordination%20with%20information%20sharing%20environment.md) | Coordination with information sharing environment. |
-| [124d.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124d%20-%20Intelligence%20components.md) | Intelligence components. |
-| [124e.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124e%20-%20Training%20for%20employees%20of%20intelligence%20components.md) | Training for employees of intelligence components. |
-| [124f.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124f%20-%20Intelligence%20training%20development%20for%20State%20and%20local%20government%20officials.md) | Intelligence training development for State and local government officials. |
-| [124g.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124g%20-%20Information%20sharing%20incentives.md) | Information sharing incentives. |
-| [124h.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124h%20-%20Department%20of%20Homeland%20Security%20State%2C%20Local%2C%20and%20Regional%20Fusion%20Center%20Initiative.md) | Department of Homeland Security State, Local, and Regional Fusion Center Initiative. |
-| [124i.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124i%20-%20Homeland%20Security%20Information%20Sharing%20Fellows%20Program.md) | Homeland Security Information Sharing Fellows Program. |
-| [124j.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124j%20-%20Rural%20Policing%20Institute.md) | Rural Policing Institute. |
-| [124k.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124k%20-%20Interagency%20Threat%20Assessment%20and%20Coordination%20Group.md) | Interagency Threat Assessment and Coordination Group. |
-| 124<i>l.</i> | National asset database. |
-| [124m.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000124m%20-%20Classified%20Information%20Advisory%20Officer.md) | Classified Information Advisory Officer. |
-| [125\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20A%20-%20Information%20and%20Analysis%20and%20Infrastructure%20Protection%3B%20Access%20to%20Information/%C2%A7%2000125%20-%20Annual%20report%20on%20intelligence%20activities%20of%20the%20Department%20of%20Homeland%20Security.md) | Annual report on intelligence activities of the Department of Homeland Security. |
+| [121\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000121%20-%20Information%20and%20Analysis.md) | Information and Analysis. |
+| [121a.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000121a%20-%20Homeland%20Security%20Intelligence%20Program.md) | Homeland Security Intelligence Program. |
+| [122\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000122%20-%20Access%20to%20information.md) | Access to information. |
+| [123\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000123%20-%20Terrorist%20travel%20program.md) | Terrorist travel program. |
+| [124\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124%20-%20Homeland%20Security%20Advisory%20System.md) | Homeland Security Advisory System. |
+| [124a.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124a%20-%20Homeland%20security%20information%20sharing.md) | Homeland security information sharing. |
+| [124b.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124b%20-%20Comprehensive%20information%20technology%20network%20architecture.md) | Comprehensive information technology network architecture. |
+| [124c.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124c%20-%20Coordination%20with%20information%20sharing%20environment.md) | Coordination with information sharing environment. |
+| [124d.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124d%20-%20Intelligence%20components.md) | Intelligence components. |
+| [124e.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124e%20-%20Training%20for%20employees%20of%20intelligence%20components.md) | Training for employees of intelligence components. |
+| [124f.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124f%20-%20Intelligence%20training%20development%20for%20State%20and%20local%20government%20officials.md) | Intelligence training development for State and local government officials. |
+| [124g.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124g%20-%20Information%20sharing%20incentives.md) | Information sharing incentives. |
+| [124h.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124h%20-%20Department%20of%20Homeland%20Security%20State%2C%20Local%2C%20and%20Regional%20Fusion%20Center%20Initiative.md) | Department of Homeland Security State, Local, and Regional Fusion Center Initiative. |
+| [124i.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124i%20-%20Homeland%20Security%20Information%20Sharing%20Fellows%20Program.md) | Homeland Security Information Sharing Fellows Program. |
+| [124j.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124j%20-%20Rural%20Policing%20Institute.md) | Rural Policing Institute. |
+| [124k.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124k%20-%20Interagency%20Threat%20Assessment%20and%20Coordination%20Group.md) | Interagency Threat Assessment and Coordination Group. |
+| 124<i>l.</i> | Transferred. |
+| [124m.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124m%20-%20Classified%20Information%20Advisory%20Officer.md) | Classified Information Advisory Officer. |
+| [124n.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124n%20-%20Protection%20of%20certain%20facilities%20and%20assets%20from%20unmanned%20aircraft.md) | Protection of certain facilities and assets from unmanned aircraft. |
+| [125\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000125%20-%20Annual%20report%20on%20intelligence%20activities%20of%20the%20Department%20of%20Homeland%20Security.md) | Annual report on intelligence activities of the Department of Homeland Security. |
+| [126\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000126%20-%20Department%20of%20Homeland%20Security%20data%20framework.md) | Department of Homeland Security data framework. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part B—Critical Infrastructure Information
+#### Part B—Information Security
 
 |  |  |
 | :--- | ---: |
-| [131\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20B%20-%20Critical%20Infrastructure%20Information/%C2%A7%2000131%20-%20Definitions.md) | Definitions. |
-| [132\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20B%20-%20Critical%20Infrastructure%20Information/%C2%A7%2000132%20-%20Designation%20of%20critical%20infrastructure%20protection%20program.md) | Designation of critical infrastructure protection program. |
-| [133\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20B%20-%20Critical%20Infrastructure%20Information/%C2%A7%2000133%20-%20Protection%20of%20voluntarily%20shared%20critical%20infrastructure%20information.md) | Protection of voluntarily shared critical infrastructure information. |
-| [134\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20B%20-%20Critical%20Infrastructure%20Information/%C2%A7%2000134%20-%20No%20private%20right%20of%20action.md) | No private right of action. |
+| 131 to 134. | Transferred. |
+| [141\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20B%20-%20Information%20Security/%C2%A7%2000141%20-%20Procedures%20for%20sharing%20information.md) | Procedures for sharing information. |
+| [142\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20B%20-%20Information%20Security/%C2%A7%2000142%20-%20Privacy%20officer.md) | Privacy officer. |
+| 143 to 145.Transferred. |  |
+| [146\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20B%20-%20Information%20Security/%C2%A7%2000146%20-%20Cybersecurity%20workforce%20assessment%20and%20strategy.md) | Cybersecurity workforce assessment and strategy. |
+| 147 to 151. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part C—Information Security
+#### Part C—Office of Science and Technology
 
 |  |  |
 | :--- | ---: |
-| [141\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000141%20-%20Procedures%20for%20sharing%20information.md) | Procedures for sharing information. |
-| [142\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000142%20-%20Privacy%20officer.md) | Privacy officer. |
-| [143\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000143%20-%20Enhancement%20of%20Federal%20and%20non-Federal%20cybersecurity.md) | Enhancement of Federal and non-Federal cybersecurity. |
-| [144\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000144%20-%20NET%20Guard.md) | NET Guard. |
-| [145\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000145%20-%20Cyber%20Security%20Enhancement%20Act%20of%202002.md) | Cyber Security Enhancement Act of 2002. |
-| [146\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000146%20-%20Cybersecurity%20workforce%20assessment%20and%20strategy.md) | Cybersecurity workforce assessment and strategy. |
-| [147\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000147%20-%20Cybersecurity%20recruitment%20and%20retention.md) | Cybersecurity recruitment and retention. |
-| [148\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000148%20-%20National%20cybersecurity%20and%20communications%20integration%20center.md) | National cybersecurity and communications integration center. |
-| [149\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000149%20-%20Cybersecurity%20plans.md) | Cybersecurity plans. |
-| [149a.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000149a%20-%20Cybersecurity%20strategy.md) | Cybersecurity strategy. |
-| [150\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000150%20-%20Clearances.md) | Clearances. |
-| [151\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000151%20-%20Federal%20intrusion%20detection%20and%20prevention%20system.md) | Federal intrusion detection and prevention system. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part D—Office of Science and Technology
-
-|  |  |
-| :--- | ---: |
-| [161\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20D%20-%20Office%20of%20Science%20and%20Technology/%C2%A7%2000161%20-%20Establishment%20of%20Office%3B%20Director.md) | Establishment of Office; Director. |
-| [162\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20D%20-%20Office%20of%20Science%20and%20Technology/%C2%A7%2000162%20-%20Mission%20of%20Office%3B%20duties.md) | Mission of Office; duties. |
-| [163\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20D%20-%20Office%20of%20Science%20and%20Technology/%C2%A7%2000163%20-%20Definition%20of%20law%20enforcement%20technology.md) | Definition of law enforcement technology. |
-| [164\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20D%20-%20Office%20of%20Science%20and%20Technology/%C2%A7%2000164%20-%20Abolishment%20of%20Office%20of%20Science%20and%20Technology%20of%20National%20Institute%20of%20Justice%3B%20transfer%20of%20functions.md) | Abolishment of Office of Science and Technology of National Institute of Justice; transfer of functions. |
-| [165\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20D%20-%20Office%20of%20Science%20and%20Technology/%C2%A7%2000165%20-%20National%20Law%20Enforcement%20and%20Corrections%20Technology%20Centers.md) | National Law Enforcement and Corrections Technology Centers. |
+| [161\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20C%20-%20Office%20of%20Science%20and%20Technology/%C2%A7%2000161%20-%20Establishment%20of%20Office%3B%20Director.md) | Establishment of Office; Director. |
+| [162\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20C%20-%20Office%20of%20Science%20and%20Technology/%C2%A7%2000162%20-%20Mission%20of%20Office%3B%20duties.md) | Mission of Office; duties. |
+| [163\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20C%20-%20Office%20of%20Science%20and%20Technology/%C2%A7%2000163%20-%20Definition%20of%20law%20enforcement%20technology.md) | Definition of law enforcement technology. |
+| [164\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20C%20-%20Office%20of%20Science%20and%20Technology/%C2%A7%2000164%20-%20Abolishment%20of%20Office%20of%20Science%20and%20Technology%20of%20National%20Institute%20of%20Justice%3B%20transfer%20of%20functions.md) | Abolishment of Office of Science and Technology of National Institute of Justice; transfer of functions. |
+| [165\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20C%20-%20Office%20of%20Science%20and%20Technology/%C2%A7%2000165%20-%20National%20Law%20Enforcement%20and%20Corrections%20Technology%20Centers.md) | National Law Enforcement and Corrections Technology Centers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -128,6 +113,7 @@
 | [201\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20A%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security%20Responsibilities%20and%20Functions/%C2%A7%2000201%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93125%2C%20title%20VIII%2C%20%C2%A7802%28g%29%282%29%2C%20Feb.%2024%2C%202016%2C%20130%20Stat.%20212.md) | Repealed. |
 | [202\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20A%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security%20Responsibilities%20and%20Functions/%C2%A7%2000202%20-%20Border%2C%20maritime%2C%20and%20transportation%20responsibilities.md) | Border, maritime, and transportation responsibilities. |
 | [203\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20A%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security%20Responsibilities%20and%20Functions/%C2%A7%2000203%20-%20Functions%20transferred.md) | Functions transferred. |
+| [204\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20A%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security%20Responsibilities%20and%20Functions/%C2%A7%2000204%20-%20Surface%20Transportation%20Security%20Advisory%20Committee.md) | Surface Transportation Security Advisory Committee. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -165,6 +151,9 @@
 | [239\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000239%20-%20Office%20of%20Cargo%20Security%20Policy.md) | Office of Cargo Security Policy. |
 | [240\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000240%20-%20Border%20Enforcement%20Security%20Task%20Force.md) | Border Enforcement Security Task Force. |
 | [241\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000241%20-%20Prevention%20of%20international%20child%20abduction.md) | Prevention of international child abduction. |
+| [242\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000242%20-%20Department%20of%20Homeland%20Security%20Blue%20Campaign.md) | Department of Homeland Security Blue Campaign. |
+| [243\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000243%20-%20Maritime%20operations%20coordination%20plan.md) | Maritime operations coordination plan. |
+| [244\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2000244%20-%20Maritime%20security%20capabilities%20assessments.md) | Maritime security capabilities assessments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -244,7 +233,7 @@
 | [321b.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321b%20-%20Disability%20Coordinator.md) | Disability Coordinator. |
 | [321c.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321c%20-%20Department%20and%20Agency%20officials.md) | Department and Agency officials. |
 | [321d.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321d%20-%20National%20Operations%20Center.md) | National Operations Center. |
-| [321e.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321e%20-%20Chief%20Medical%20Officer.md) | Chief Medical Officer. |
+| [321e.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321e%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93387%2C%20%C2%A72%28c%29%281%29%2C%20Dec.%2021%2C%202018%2C%20132%20Stat.%205166.md) | Repealed. |
 | [321f.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321f%20-%20Nuclear%20incident%20response.md) | Nuclear incident response. |
 | [321g.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321g%20-%20Conduct%20of%20certain%20public%20health-related%20activities.md) | Conduct of certain public health-related activities. |
 | [321h.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321h%20-%20Use%20of%20national%20private%20sector%20networks%20in%20emergency%20response.md) | Use of national private sector networks in emergency response. |
@@ -281,6 +270,7 @@
 | [347\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000347%20-%20Quadrennial%20homeland%20security%20review.md) | Quadrennial homeland security review. |
 | [348\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000348%20-%20Joint%20task%20forces.md) | Joint task forces. |
 | [349\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000349%20-%20Office%20of%20Strategy%2C%20Policy%2C%20and%20Plans.md) | Office of Strategy, Policy, and Plans. |
+| [350\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000350%20-%20Workforce%20health%20and%20medical%20support.md) | Workforce health and medical support. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -524,6 +514,15 @@
 | [563c.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Transportation%20Security/Part%20B%20-%20Transportation%20Security%20Administration%20Acquisition%20Improvements/%C2%A7%2000563c%20-%20Inventory%20utilization.md) | Inventory utilization. |
 | [563d.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Transportation%20Security/Part%20B%20-%20Transportation%20Security%20Administration%20Acquisition%20Improvements/%C2%A7%2000563d%20-%20Small%20business%20contracting%20goals.md) | Small business contracting goals. |
 | [563e.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Transportation%20Security/Part%20B%20-%20Transportation%20Security%20Administration%20Acquisition%20Improvements/%C2%A7%2000563e%20-%20Consistency%20with%20the%20Federal%20Acquisition%20Regulation%20and%20departmental%20policies%20and%20directives.md) | Consistency with the Federal Acquisition Regulation and departmental policies and directives. |
+| [563f.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Transportation%20Security/Part%20B%20-%20Transportation%20Security%20Administration%20Acquisition%20Improvements/%C2%A7%2000563f%20-%20Diversified%20security%20technology%20industry%20marketplace.md) | Diversified security technology industry marketplace. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part C—Maintenance of Security-related Technology
+
+|  |  |
+| :--- | ---: |
+| [565\.](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Transportation%20Security/Part%20C%20-%20Maintenance%20of%20Security-related%20Technology/%C2%A7%2000565%20-%20Maintenance%20validation%20and%20oversight.md) | Maintenance validation and oversight. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -531,7 +530,7 @@
 
 |  |  |
 | :--- | ---: |
-| [571\.](Subchapter%20013%20%28XIII%29%20-%20Emergency%20Communications/%C2%A7%2000571%20-%20Office%20of%20Emergency%20Communications.md) | Office of Emergency Communications. |
+| [571\.](Subchapter%20013%20%28XIII%29%20-%20Emergency%20Communications/%C2%A7%2000571%20-%20Emergency%20Communications%20Division.md) | Emergency Communications Division. |
 | [572\.](Subchapter%20013%20%28XIII%29%20-%20Emergency%20Communications/%C2%A7%2000572%20-%20National%20Emergency%20Communications%20Plan.md) | National Emergency Communications Plan. |
 | [573\.](Subchapter%20013%20%28XIII%29%20-%20Emergency%20Communications/%C2%A7%2000573%20-%20Assessments%20and%20reports.md) | Assessments and reports. |
 | [574\.](Subchapter%20013%20%28XIII%29%20-%20Emergency%20Communications/%C2%A7%2000574%20-%20Coordination%20of%20Department%20emergency%20communications%20grant%20programs.md) | Coordination of Department emergency communications grant programs. |
@@ -544,18 +543,44 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XIV—DOMESTIC NUCLEAR DETECTION OFFICE
+#### SUBCHAPTER XIV—COUNTERING WEAPONS OF MASS DESTRUCTION OFFICE
 
 |  |  |
 | :--- | ---: |
-| [591\.](Subchapter%20014%20%28XIV%29%20-%20Domestic%20Nuclear%20Detection%20Office/%C2%A7%2000591%20-%20Domestic%20Nuclear%20Detection%20Office.md) | Domestic Nuclear Detection Office. |
-| [592\.](Subchapter%20014%20%28XIV%29%20-%20Domestic%20Nuclear%20Detection%20Office/%C2%A7%2000592%20-%20Mission%20of%20Office.md) | Mission of Office. |
-| [592a.](Subchapter%20014%20%28XIV%29%20-%20Domestic%20Nuclear%20Detection%20Office/%C2%A7%2000592a%20-%20Technology%20research%20and%20development%20investment%20strategy%20for%20nuclear%20and%20radiological%20detection.md) | Technology research and development investment strategy for nuclear and radiological detection. |
-| [593\.](Subchapter%20014%20%28XIV%29%20-%20Domestic%20Nuclear%20Detection%20Office/%C2%A7%2000593%20-%20Hiring%20authority.md) | Hiring authority. |
-| [594\.](Subchapter%20014%20%28XIV%29%20-%20Domestic%20Nuclear%20Detection%20Office/%C2%A7%2000594%20-%20Testing%20authority.md) | Testing authority. |
-| [595\.](Subchapter%20014%20%28XIV%29%20-%20Domestic%20Nuclear%20Detection%20Office/%C2%A7%2000595%20-%20Relationship%20to%20other%20Department%20entities%20and%20Federal%20agencies.md) | Relationship to other Department entities and Federal agencies. |
-| [596\.](Subchapter%20014%20%28XIV%29%20-%20Domestic%20Nuclear%20Detection%20Office/%C2%A7%2000596%20-%20Contracting%20and%20grant%20making%20authorities.md) | Contracting and grant making authorities. |
-| [596a.](Subchapter%20014%20%28XIV%29%20-%20Domestic%20Nuclear%20Detection%20Office/%C2%A7%2000596a%20-%20Joint%20annual%20interagency%20review%20of%20global%20nuclear%20detection%20architecture.md) | Joint annual interagency review of global nuclear detection architecture. |
+| [590\.](Subchapter%20014%20%28XIV%29%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/%C2%A7%2000590%20-%20Definitions.md) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part A—Countering Weapons of Mass Destruction
+
+|  |  |
+| :--- | ---: |
+| [591\.](Subchapter%20014%20%28XIV%29%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/Part%20A%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/%C2%A7%2000591%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office.md) | Countering Weapons of Mass Destruction Office. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Mission of the Office
+
+|  |  |
+| :--- | ---: |
+| [591g.](Subchapter%20014%20%28XIV%29%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/Part%20B%20-%20Mission%20of%20the%20Office/%C2%A7%2000591g%20-%20Mission%20of%20the%20Office.md) | Mission of the Office. |
+| [591h.](Subchapter%20014%20%28XIV%29%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/Part%20B%20-%20Mission%20of%20the%20Office/%C2%A7%2000591h%20-%20Relationship%20to%20other%20Department%20components%20and%20Federal%20agencies.md) | Relationship to other Department components and Federal agencies. |
+| [592\.](Subchapter%20014%20%28XIV%29%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/Part%20B%20-%20Mission%20of%20the%20Office/%C2%A7%2000592%20-%20Responsibilities.md) | Responsibilities. |
+| [592a.](Subchapter%20014%20%28XIV%29%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/Part%20B%20-%20Mission%20of%20the%20Office/%C2%A7%2000592a%20-%20Technology%20research%20and%20development%20investment%20strategy%20for%20nuclear%20and%20radiological%20detection.md) | Technology research and development investment strategy for nuclear and radiological detection. |
+| [593\.](Subchapter%20014%20%28XIV%29%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/Part%20B%20-%20Mission%20of%20the%20Office/%C2%A7%2000593%20-%20Hiring%20authority.md) | Hiring authority. |
+| [594\.](Subchapter%20014%20%28XIV%29%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/Part%20B%20-%20Mission%20of%20the%20Office/%C2%A7%2000594%20-%20Testing%20authority.md) | Testing authority. |
+| [595\.](Subchapter%20014%20%28XIV%29%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/Part%20B%20-%20Mission%20of%20the%20Office/%C2%A7%2000595%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93387%2C%20%C2%A72%28a%29%284%29%2C%20Dec.%2021%2C%202018%2C%20132%20Stat.%205163.md) | Repealed. |
+| [596\.](Subchapter%20014%20%28XIV%29%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/Part%20B%20-%20Mission%20of%20the%20Office/%C2%A7%2000596%20-%20Contracting%20and%20grant%20making%20authorities.md) | Contracting and grant making authorities. |
+| [596a.](Subchapter%20014%20%28XIV%29%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/Part%20B%20-%20Mission%20of%20the%20Office/%C2%A7%2000596a%20-%20Joint%20annual%20interagency%20review%20of%20global%20nuclear%20detection%20architecture.md) | Joint annual interagency review of global nuclear detection architecture. |
+| [596b.](Subchapter%20014%20%28XIV%29%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/Part%20B%20-%20Mission%20of%20the%20Office/%C2%A7%2000596b%20-%20Securing%20the%20Cities%20program.md) | Securing the Cities program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part C—Chief Medical Officer
+
+|  |  |
+| :--- | ---: |
+| [597\.](Subchapter%20014%20%28XIV%29%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/Part%20C%20-%20Chief%20Medical%20Officer/%C2%A7%2000597%20-%20Chief%20Medical%20Officer.md) | Chief Medical Officer. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -615,6 +640,42 @@
 | [642\.](Subchapter%20017%20%28XVII%29%20-%20Anti-Trafficking%20Training%20for%20Department%20of%20Homeland%20Security%20Personnel/%C2%A7%2000642%20-%20Training%20for%20Department%20personnel%20to%20identify%20human%20trafficking.md) | Training for Department personnel to identify human trafficking. |
 | [643\.](Subchapter%20017%20%28XVII%29%20-%20Anti-Trafficking%20Training%20for%20Department%20of%20Homeland%20Security%20Personnel/%C2%A7%2000643%20-%20Certification%20and%20report%20to%20Congress.md) | Certification and report to Congress. |
 | [644\.](Subchapter%20017%20%28XVII%29%20-%20Anti-Trafficking%20Training%20for%20Department%20of%20Homeland%20Security%20Personnel/%C2%A7%2000644%20-%20Assistance%20to%20non-Federal%20entities.md) | Assistance to non-Federal entities. |
+| [645\.](Subchapter%20017%20%28XVII%29%20-%20Anti-Trafficking%20Training%20for%20Department%20of%20Homeland%20Security%20Personnel/%C2%A7%2000645%20-%20Victim%20protection%20training%20for%20the%20Department%20of%20Homeland%20Security.md) | Victim protection training for the Department of Homeland Security. |
+| [645a.](Subchapter%20017%20%28XVII%29%20-%20Anti-Trafficking%20Training%20for%20Department%20of%20Homeland%20Security%20Personnel/%C2%A7%2000645a%20-%20Human%20trafficking%20assessment.md) | Human trafficking assessment. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XVIII—CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY
+
+#### Part A—Cybersecurity and Infrastructure Security
+
+|  |  |
+| :--- | ---: |
+| [651\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000651%20-%20Definitions.md) | Definitions. |
+| [652\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000652%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency.md) | Cybersecurity and Infrastructure Security Agency. |
+| [653\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000653%20-%20Cybersecurity%20Division.md) | Cybersecurity Division. |
+| [654\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000654%20-%20Infrastructure%20Security%20Division.md) | Infrastructure Security Division. |
+| [655\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000655%20-%20Enhancement%20of%20Federal%20and%20non-Federal%20cybersecurity.md) | Enhancement of Federal and non-Federal cybersecurity. |
+| [656\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000656%20-%20NET%20Guard.md) | NET Guard. |
+| [657\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000657%20-%20Cyber%20Security%20Enhancement%20Act%20of%202002.md) | Cyber Security Enhancement Act of 2002. |
+| [658\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000658%20-%20Cybersecurity%20recruitment%20and%20retention.md) | Cybersecurity recruitment and retention. |
+| [659\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000659%20-%20National%20cybersecurity%20and%20communications%20integration%20center.md) | National cybersecurity and communications integration center. |
+| [660\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000660%20-%20Cybersecurity%20plans.md) | Cybersecurity plans. |
+| [661\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000661%20-%20Cybersecurity%20strategy.md) | Cybersecurity strategy. |
+| [662\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000662%20-%20Clearances.md) | Clearances. |
+| [663\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000663%20-%20Federal%20intrusion%20detection%20and%20prevention%20system.md) | Federal intrusion detection and prevention system. |
+| [664\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000664%20-%20National%20asset%20database.md) | National asset database. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Critical Infrastructure Information
+
+|  |  |
+| :--- | ---: |
+| [671\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20B%20-%20Critical%20Infrastructure%20Information/%C2%A7%2000671%20-%20Definitions.md) | Definitions. |
+| [672\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20B%20-%20Critical%20Infrastructure%20Information/%C2%A7%2000672%20-%20Designation%20of%20critical%20infrastructure%20protection%20program.md) | Designation of critical infrastructure protection program. |
+| [673\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20B%20-%20Critical%20Infrastructure%20Information/%C2%A7%2000673%20-%20Protection%20of%20voluntarily%20shared%20critical%20infrastructure%20information.md) | Protection of voluntarily shared critical infrastructure information. |
+| [674\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20B%20-%20Critical%20Infrastructure%20Information/%C2%A7%2000674%20-%20No%20private%20right%20of%20action.md) | No private right of action. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -628,7 +689,7 @@
 - [&sect; 00103 - Use of appropriated funds](%C2%A7%2000103%20-%20Use%20of%20appropriated%20funds.md)
 - [&sect; 00104 - National biodefense strategy](%C2%A7%2000104%20-%20National%20biodefense%20strategy.md)
 - [Subchapter 001 (I) - Department of Homeland Security](Subchapter%20001%20%28I%29%20-%20Department%20of%20Homeland%20Security/README.md)
-- [Subchapter 002 (II) - Information Analysis and Infrastructure Protection](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/README.md)
+- [Subchapter 002 (II) - Information Analysis](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/README.md)
 - [Subchapter 003 (III) - Science and Technology in Support of Homeland Security](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/README.md)
 - [Subchapter 004 (IV) - Border, Maritime, and Transportation Security](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/README.md)
 - [Subchapter 005 (V) - National Emergency Management](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/README.md)
@@ -641,7 +702,8 @@
 - [Subchapter 012 (XII) - Transition](Subchapter%20012%20%28XII%29%20-%20Transition/README.md)
 - [Subchapter 012&#8211;A (XII&#8211;A) - Transportation Security](Subchapter%20012%E2%80%93A%20%28XII%E2%80%93A%29%20-%20Transportation%20Security/README.md)
 - [Subchapter 013 (XIII) - Emergency Communications](Subchapter%20013%20%28XIII%29%20-%20Emergency%20Communications/README.md)
-- [Subchapter 014 (XIV) - Domestic Nuclear Detection Office](Subchapter%20014%20%28XIV%29%20-%20Domestic%20Nuclear%20Detection%20Office/README.md)
+- [Subchapter 014 (XIV) - Countering Weapons of Mass Destruction Office](Subchapter%20014%20%28XIV%29%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/README.md)
 - [Subchapter 015 (XV) - Homeland Security Grants](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/README.md)
 - [Subchapter 016 (XVI) - Chemical Facility Anti-Terrorism Standards](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/README.md)
 - [Subchapter 017 (XVII) - Anti-Trafficking Training for Department of Homeland Security Personnel](Subchapter%20017%20%28XVII%29%20-%20Anti-Trafficking%20Training%20for%20Department%20of%20Homeland%20Security%20Personnel/README.md)
+- [Subchapter 018 (XVIII) - Cybersecurity and Infrastructure Security Agency](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/README.md)

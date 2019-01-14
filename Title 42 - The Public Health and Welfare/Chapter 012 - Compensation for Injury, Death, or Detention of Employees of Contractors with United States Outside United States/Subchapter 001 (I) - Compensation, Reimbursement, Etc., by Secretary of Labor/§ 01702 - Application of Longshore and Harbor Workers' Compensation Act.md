@@ -26,7 +26,7 @@ Subsection (m) of section 914 of title 33, referred to in subsec. (a), was repea
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a note under section 901 of Title 33, Navigation and Navigable Waters.
+Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a noteunder section 901 of Title 33, Navigation and Navigable Waters.
 
 #### Effective Date of 1958 Amendment
 

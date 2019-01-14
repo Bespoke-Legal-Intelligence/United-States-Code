@@ -6,7 +6,7 @@
 
 &emsp;(A) interpretive rules and general statements of policy with respect to unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title), and
 
-&emsp;(B) rules which define with specificity acts or practices which are unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title), except that the Commission shall not develop or promulgate any trade rule or regulationwith regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section. Rules under this subparagraph may include requirements prescribed for the purpose of preventing such acts or practices.
+&emsp;(B) rules which define with specificity acts or practices which are unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title), except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section. Rules under this subparagraph may include requirements prescribed for the purpose of preventing such acts or practices.
 
 (2) The Commission shall have no authority under this subchapter, other than its authority under this section, to prescribe any rule with respect to unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title). The preceding sentence shall not affect any authority of the Commission to prescribe rules (including interpretive rules), and general statements of policy, with respect to unfair methods of competition in or affecting commerce.
 
@@ -20,7 +20,7 @@
 
 &emsp;(ii) invite the response of interested parties with respect to such proposed rulemaking, including any suggestions or alternative methods for achieving such objectives.
 
-(B) The Commission shall submit such advance notice of proposed rulemaking to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives. The Commission may use such additional mechanisms as the Commission considers useful to obtain suggestions regarding the content of the area of inquiry before the publication of a general notice of proposed rulemaking under paragraph (1)(A).
+(B) The Commission shall submit such advance notice of proposed rulemaking to theCommittee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives. The Commission may use such additional mechanisms as the Commission considers useful to obtain suggestions regarding the content of the area of inquiry before the publication of a general notice of proposed rulemaking under paragraph (1)(A).
 
 (C) The Commission shall, 30 days before the publication of a notice of proposed rulemaking pursuant to paragraph (1)(A), submit such notice to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives.
 
@@ -60,7 +60,7 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 (2)(A) The term "Commission" as used in this subsection and subsections (b) and (c) includes any person authorized to act in behalf of the Commission in any part of the rulemaking proceeding.
 
-(B) A substantive amendment to, or repeal of, a rule promulgated under subsection (a)(1)(B) shall be prescribed, and subject to judicial review, in the same manner as a rule prescribed under such subsection. An exemption under subsection (g) shall not be treated as an amendment or repeal of a rule.
+(B) A substantive amendment to, or repeal of, a rule promulgated under subsection (a)(1)(B)shall be prescribed, and subject to judicial review, in the same manner as a rule prescribed under such subsection. An exemption under subsection (g) shall not be treated as an amendment or repeal of a rule.
 
 (3) When any rule under subsection (a)(1)(B) takes effect a subsequent violation thereof shall constitute an unfair or deceptive act or practice in violation of section 45(a)(1) of this title, unless the Commission otherwise expressly provides in such rule.
 
@@ -86,7 +86,7 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 > The term "evidence", as used in this paragraph, means any matter in the rulemaking record.
 
-(4) The judgment of the court affirming or setting aside, in whole or in part, any such ruleshall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
+(4) The judgment of the court affirming or setting aside, in whole or in part, any such rule shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
 
 (5)(A) Remedies under the preceding paragraphs of this subsection are in addition to and not in lieu of any other remedies provided by law.
 
@@ -198,7 +198,7 @@ Subsec. (f)(2). Pub. L. 102–242, §212(g)(2)(A), added par. (2) and struck out
 
 Subsec. (f)(4) to (7). Pub. L. 100–86, §715(c)(3), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–252, §§7, 11(a)(2), in provisions preceding subpar. (A) substituted "Except as provided in subsection (i), the" for "The" and in subpar. (B) inserted ", except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development andutilization of the standards and certification activities pursuant to this section" after "section 45(a)(1) of this title)".
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–252, §§7, 11(a)(2), in provisions preceding subpar. (A) substituted "Except as provided in subsection (i), the" for "The" and in subpar. (B) inserted ", except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section" after "section 45(a)(1) of this title)".
 
 Subsec. (b). Pub. L. 96–252, §§8(a), 11(a)(3), designated existing provisions as par. (1) and cls. (1) to (4) thereof as subpars. (A) to (D) and, subpar. (A) thereof, inserted "the text of the rule, including any alternatives, which the Commission proposes to promulgate, and" after "particularity", and added par. (2).
 
@@ -276,7 +276,7 @@ Section 22 of Pub. L. 96–252 required the Consumer Subcommittee of the Committ
 
 Pub. L. 93–637, title II, §202(c), Jan. 4, 1975, 88 Stat. 2198, provided that:
 
-"(1) The amendments made by subsections (a) and (b) of this section \[enacting this section and amending section 46 of this title\] shall not affect the validity of any rule which was promulgated under section 6(g) of the Federal Trade Commission Act \[section 46(g) of this title\] prior to the date of enactment of this section \[Jan. 4, 1975\]. Any proposed rule under section 6(g) of such Act with respect to which presentation of data, views, and arguments was substantially completed before such date may be promulgated in the same manner and with the same validity as such rule could have been promulgated had this section not been enacted.
+"(1) The amendments made by subsections (a) and (b) of this section \[enacting this section and amending section 46 of this title\] shall not affect the validity of any rule which was promulgated under section 6(g) of the Federal Trade Commission Act \[section 46(g) of this title\] prior to the date of enactment of this section \[Jan. 4, 1975\]. Any proposed rule under section 6(g) ofsuch Act with respect to which presentation of data, views, and arguments was substantially completed before such date may be promulgated in the same manner and with the same validity as such rule could have been promulgated had this section not been enacted.
 
 "(2) If a rule described in paragraph (1) of this subsection is valid and if section 18 of the Federal Trade Commission Act \[this section\] would have applied to such rule had such rule been promulgated after the date of enactment of this Act, any substantive change in the rule after it has been promulgated shall be made in accordance with such section 18."
 

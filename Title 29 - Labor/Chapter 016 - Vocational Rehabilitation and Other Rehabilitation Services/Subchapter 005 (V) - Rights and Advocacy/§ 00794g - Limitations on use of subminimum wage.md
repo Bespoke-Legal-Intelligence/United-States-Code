@@ -86,7 +86,7 @@ No entity, including a contractor or subcontractor of the entity, which holds a 
 
 #### (1) Before employment
 
-&emsp;Before an individual covered by subsection (a)(2) begins work for an entity described in subsection (a) at a subminimum wage, the entity shall review such documentation received by the individual under subsection (d), and provided by the individual to the entity, that indicates that the individual has completed the actions described in subparagraphs (A) and (B) of subsection (a)(2) and the entity shall maintain copies of such documentation.
+&emsp;Before an individual covered by subsection (a)(2) begins work for an entity described insubsection (a) at a subminimum wage, the entity shall review such documentation received by the individual under subsection (d), and provided by the individual to the entity, that indicates that the individual has completed the actions described in subparagraphs (A) and (B) of subsection (a)(2) and the entity shall maintain copies of such documentation.
 
 #### (2) During employment
 

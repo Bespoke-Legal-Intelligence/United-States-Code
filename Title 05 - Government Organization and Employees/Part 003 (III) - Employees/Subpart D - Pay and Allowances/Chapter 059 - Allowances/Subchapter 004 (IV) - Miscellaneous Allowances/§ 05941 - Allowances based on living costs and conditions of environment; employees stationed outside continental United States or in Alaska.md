@@ -32,7 +32,7 @@
 
 (3) No allowance rate computed under paragraph (2) may be less than zero.
 
-(4) Each allowance rate computed under paragraph (2) shall be paid as a percentage of basic pay (including any applicable locality-basedcomparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law).
+(4) Each allowance rate computed under paragraph (2) shall be paid as a percentage of basic pay (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law).
 
 (d) An employee entitled to a cost-of-living allowance under section 5924 of this title may not be paid an allowance under subsection (a) of this section based on living costs substantially higher than in the District of Columbia.
 

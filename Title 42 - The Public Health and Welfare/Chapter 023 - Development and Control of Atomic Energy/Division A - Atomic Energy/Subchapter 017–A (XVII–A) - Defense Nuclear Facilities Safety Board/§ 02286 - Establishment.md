@@ -110,7 +110,7 @@ Reporting Requirement.—The Defense Nuclear Facilities Safety Board (in this se
 
 &emsp;"(3) An assessment of the functions of the Board and whether there is a need to modify or amend such functions.
 
-&emsp;"(4) An assessment of the relative advantages and disadvantages to the Department and the public of continuing the functions of the Board with respect to Department of Energy defense nuclear facilities and replacing the activities of the Board with external regulation of such facilities.
+&emsp;"(4) An assessment of the relative advantages and disadvantages to the Department and the public of continuing the functions of the Board with respect to Department of Energy defense nuclear facilities andreplacing the activities of the Board with external regulation of such facilities.
 
 &emsp;"(5) A list of all existing or planned Department of Energy defense nuclear facilities that are similar to facilities under the regulatory jurisdiction of the Nuclear Regulatory Commission.
 
@@ -128,7 +128,7 @@ Reporting Requirement.—The Defense Nuclear Facilities Safety Board (in this se
 
 &emsp;"(B) An explanation of the determinations made under subparagraph (A).
 
-&emsp;"(10) For any existing facilities that should, in the opinion of the Board, come under the jurisdiction of an outside regulatory authority, the date when thismove would occur and the period of time necessary for the transition.
+&emsp;"(10) For any existing facilities that should, in the opinion of the Board, come under the jurisdiction of an outside regulatory authority, the date when this move would occur and the period of time necessary for the transition.
 
 &emsp;"(11) A list of any proposed Department of Energy defense nuclear facilities that should come under the Board's jurisdiction.
 

@@ -112,7 +112,7 @@ A plan meets the requirement of this subsection only if it provides that amounts
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A plan to which this subparagraph applies shall not be treated as failing to meet the requirements of this subsection or section 401(a) merely because it does not permit a participant to exercise the right described in paragraph (1)(A) if such plan provides that the participant entitled to a distribution has a right to receive the distribution in cash, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under termswhich meet the requirements of paragraph (1)(B).
+&emsp;&emsp;&emsp;A plan to which this subparagraph applies shall not be treated as failing to meet the requirements of this subsection or section 401(a) merely because it does not permit a participant to exercise the right described in paragraph (1)(A) if such plan provides that the participant entitled to a distribution has a right to receive the distribution in cash, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of paragraph (1)(B).
 
 #### (ii) Applicable plans
 
@@ -124,7 +124,7 @@ A plan meets the requirement of this subsection only if it provides that amounts
 
 #### (3) Special rule for banks
 
-&emsp;In the case of a plan established and maintained by a bank (as defined in section 581) which is prohibited by law from redeeming or purchasing its own securities, the requirements of paragraph (1)(B) shall not apply if the plan provides that participants entitled to a distribution from the plan shall have a right to receive a distribution in cash.
+&emsp;In the case of a plan established and maintained by a bank (as defined in section 581) which is prohibited by law from redeeming orpurchasing its own securities, the requirements of paragraph (1)(B) shall not apply if the plan provides that participants entitled to a distribution from the plan shall have a right to receive a distribution in cash.
 
 #### (4) Put option period
 
@@ -186,7 +186,7 @@ A plan which otherwise meets the requirements of this section shall not be treat
 
 Notwithstanding any other law or rule of law—
 
-&emsp;(1) the withdrawal from a plan which otherwise meets the requirements of this section by the employer of an amount contributed forpurposes of the matching employee plan credit shall not be considered to make the benefits forfeitable, and
+&emsp;(1) the withdrawal from a plan which otherwise meets the requirements of this section by the employer of an amount contributed for purposes of the matching employee plan credit shall not be considered to make the benefits forfeitable, and
 
 &emsp;(2) the plan shall not, by reason of such withdrawal, fail to be for the exclusive benefit of participants or their beneficiaries,
 
@@ -242,7 +242,7 @@ No gain or loss shall be recognized to the taxpayer with respect to the transfer
 
 &emsp;&emsp;(A) during the nonallocation period, for the benefit of—
 
-&emsp;&emsp;&emsp;(i) any taxpayer who makes an election under section 1042(a) with respect to employer securities,,,<sup>2</sup>
+&emsp;&emsp;&emsp;(i) any taxpayer who makes an election under section 1042(a) with respect to employer securities,
 
 &emsp;&emsp;&emsp;(ii) any individual who is related to the taxpayer (within the meaning of section 267(b)), or
 
@@ -330,7 +330,7 @@ A plan meets the requirements of this subsection if—
 
 #### (1) In general
 
-&emsp;An employee stock ownership plan holding employer securities consisting of stock in an S corporation shall provide that no portion of the assets of the plan attributable to (or allocable in lieu of) such employer securities may, during a nonallocation year, accrue (or be allocated directly or indirectly under any plan of the employer meeting the requirements ofsection 401(a)) for the benefit of any disqualified person.
+&emsp;An employee stock ownership plan holding employer securities consisting of stock in an S corporation shall provide that no portion of the assets of the plan attributable to (or allocable in lieu of) such employer securities may, during a nonallocation year, accrue (or be allocated directly or indirectly under any plan of the employer meeting the requirements of section 401(a)) for the benefit of any disqualified person.
 
 #### (2) Failure to meet requirements
 
@@ -452,7 +452,7 @@ A plan meets the requirements of this subsection if—
 
 &emsp;&emsp;The Secretary may, by regulation or other guidance of general applicability, provide that a nonallocation year occurs in any case in which the principal purpose of the ownership structure of an S corporation constitutes an avoidance or evasion of this subsection.
 
-(Added Pub. L. 95–600, title I, §141(a), Nov. 6, 1978, 92 Stat. 2787, §409A; amended Pub. L. 96–222, title I, §101(a)(7)(D)–(F), (I), (J), (L)(i)(VI), (ii)(I), (II), (iii)(V), (v)(VI), (VII), Apr. 1, 1980, 94 Stat. 198–200; Pub. L. 96–605, title II, §224(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§331(c)(1), 334, 336, 337(a), Aug. 13, 1981, 95 Stat. 293, 297, 298; Pub. L. 97–448, title I, §103(h), (i), Jan. 12, 1983, 96 Stat. 2379; renumbered §409 and amended Pub. L. 98–369, div. A, title IV, §§474(r)(15), 491(e)(1), July 18, 1984, 98 Stat. 843, 852; Pub. L. 99–514, title XI, §§1172(b)(1), 1174(a)(1), (b)(1), (2), (c)(1)(A), 1176(b), title XVIII, §§1852(a)(4)(B), 1854(a)(3)(A), (f)(1), (3)(C), 1899A(11), Oct. 22, 1986, 100 Stat. 2514, 2516, 2517, 2520, 2865, 2873, 2881, 2882, 2958; Pub. L. 100–647, title I, §§1011B(g)(1), (2), (i)(1), (3), (j)(3), (5), (k)(3), 1018(t)(4)(B), (C), (H), Nov. 10, 1988, 102 Stat. 3490, 3492, 3493, 3588, 3589; Pub. L. 101–239, title VII, §§7304(a)(2)(A), (B), 7811(h)(1), Dec. 19, 1989, 103 Stat. 2352, 2353, 2409; Pub. L. 105–34, title XV, §1506(a), Aug. 5, 1997, 111 Stat. 1064; Pub. L. 107–16, title VI, §656(a), June 7, 2001, 115 Stat. 131; Pub. L. 107–147, title IV, §411(j)(2), Mar. 9, 2002, 116 Stat. 47; Pub. L. 109–280, title IX, §901(a)(2)(B), Aug. 17, 2006, 120 Stat. 1029; Pub. L. 113–295, div. A, title II, §221(a)(54), Dec. 19, 2014, 128 Stat. 4045.)
+(Added Pub. L. 95–600, title I, §141(a), Nov. 6, 1978, 92 Stat. 2787, §409A; amended Pub. L. 96–222, title I, §101(a)(7)(D)–(F), (I), (J), (L)(i)(VI), (ii)(I), (II), (iii)(V), (v)(VI), (VII), Apr. 1, 1980, 94 Stat. 198–200; Pub. L. 96–605, title II, §224(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§331(c)(1), 334, 336, 337(a), Aug. 13, 1981, 95 Stat. 293, 297, 298; Pub. L. 97–448, title I, §103(h), (i), Jan. 12, 1983, 96 Stat. 2379; renumbered §409 and amended Pub. L. 98–369, div. A, title IV, §§474(r)(15), 491(e)(1), July 18, 1984, 98 Stat. 843, 852; Pub. L. 99–514, title XI, §§1172(b)(1), 1174(a)(1), (b)(1), (2), (c)(1)(A), 1176(b), title XVIII, §§1852(a)(4)(B), 1854(a)(3)(A), (f)(1), (3)(C), 1899A(11), Oct. 22, 1986, 100 Stat. 2514, 2516, 2517, 2520, 2865, 2873, 2881, 2882, 2958; Pub. L. 100–647, title I, §§1011B(g)(1), (2), (i)(1), (3), (j)(3), (5), (k)(3), 1018(t)(4)(B), (C), (H), Nov. 10, 1988, 102 Stat. 3490, 3492, 3493, 3588, 3589; Pub. L. 101–239, title VII, §§7304(a)(2)(A), (B), 7811(h)(1), Dec. 19, 1989, 103 Stat. 2352, 2353, 2409; Pub. L. 105–34, title XV, §1506(a), Aug. 5, 1997, 111 Stat. 1064; Pub. L. 107–16, title VI, §656(a), June 7, 2001, 115 Stat. 131; Pub. L. 107–147, title IV, §411(j)(2), Mar. 9, 2002, 116 Stat. 47; Pub. L. 109–280, title IX, §901(a)(2)(B), Aug. 17, 2006, 120 Stat. 1029; Pub. L. 113–295, div. A, title II, §221(a)(54), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 115–141, div. U, title IV, §401(a)(79), Mar. 23, 2018, 132 Stat. 1187.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -475,6 +475,8 @@ Subsec. (n) of section 48, referred to in subsecs. (g) and (m), was repealed by 
 A prior section 409, added Pub. L. 93–406, title II, §2002(c), Sept. 2, 1974, 88 Stat. 964; amended Pub. L. 94–455, title XV, §1501(b)(6), title XIX, §§1901(a)(60), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1774, 1834; Pub. L. 95–600, title I, §§156(c)(2), (3), 157(e)(1)(B), Nov. 6, 1978, 92 Stat. 2803, 2806; Pub. L. 96–222, title I, §101(a)(14)(B), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III, §311(g)(1)(D), (3), Aug. 13, 1981, 95 Stat. 281; Pub. L. 97–248, title II, §243(b)(1)(B), title III, §335(a)(2), Sept. 3, 1982, 96 Stat. 523, 628; Pub. L. 97–452, §2(c)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–369, div. A, title I, §42(a)(7), title V, §522(d)(13), July 18, 1984, 98 Stat. 557, 871, related to retirement bonds, prior to repeal by Pub. L. 98–369, div. A, title IV, §491(b), (f)(1), July 18, 1984, 98 Stat. 848, 853, applicable to obligations issued after Dec. 31, 1983.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (n)(1)(A)(i). Pub. L. 115–141 substituted "securities," for "securities,,,".
 
 <b>2014</b>—Subsec. (q). Pub. L. 113–295 struck out subsec. (q) which related to cross-references.
 
@@ -739,6 +741,4 @@ Retroactive application of amendment made by subsection (d).—In determining th
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
 

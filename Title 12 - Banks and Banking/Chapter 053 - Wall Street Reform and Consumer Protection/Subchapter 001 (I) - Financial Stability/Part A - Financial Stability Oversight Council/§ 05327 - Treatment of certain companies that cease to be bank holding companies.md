@@ -26,7 +26,7 @@ If an entity described in subsection (a) ceases to be a bank holding company at 
 
 #### (A) Proposed decision
 
-&emsp;&emsp;A Council decision to grant an appeal under this subsection shall be made by a vote of not fewer than 2/3 of the voting members then serving, including an affirmative vote by the Chairperson. Not later than 60 days after the date of a hearing under paragraph (1), the Council shall submit a report to, and may testify before, the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the proposed decision of the Council regarding an appeal under paragraph (1), which report shall include a statement of the basis for the proposed decision of the Council.
+&emsp;&emsp;A Council decision to grant an appeal under this subsection shall be made by a vote of not fewer than 2/3 of the voting members then serving, including an affirmative vote by the Chairperson. Not later than 60 days after the date of a hearing under paragraph (1), the Council shall submit a report to, and may testify before, the Committee on Banking, Housing, and Urban Affairs ofthe Senate and the Committee on Financial Services of the House of Representatives on the proposed decision of the Council regarding an appeal under paragraph (1), which report shall include a statement of the basis for the proposed decision of the Council.
 
 #### (B) Notice of final decision
 

@@ -18,7 +18,7 @@ The Administrator of AID (acting through the capital projects office), in coordi
 
 &emsp;(1) shall support capital projects in developing countries and in countries making the transition from nonmarket to market economies;
 
-&emsp;(2) shall periodically review infrastructure needs in developing countries and countries making the transition from nonmarket to market economies and shall explore opportunities for United States firms in the development of new capital projects in these countries, keeping both United States firms and the Congress informed of these reviews;
+&emsp;(2) shall periodically review infrastructure needs in developing countries and countriesmaking the transition from nonmarket to market economies and shall explore opportunities for United States firms in the development of new capital projects in these countries, keeping both United States firms and the Congress informed of these reviews;
 
 &emsp;(3) shall ensure that each capital project for which AID provides funding is developmentally sound, as determined under the criteria developed by the Development Assistance Committee of the Organization for Economic Cooperation and Development;
 

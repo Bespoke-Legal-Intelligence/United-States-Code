@@ -50,7 +50,7 @@ In the event a State exercises its authority under subsection (a), religious org
 
 #### (1) In general
 
-&emsp;If an individual described in paragraph (2) has an objection to the religious character of the organization or institution from which the individual receives, or would receive, assistance funded under any program described in subsection (a)(2), the State in which the individual resides shall provide such individual (if otherwise eligible for such assistance) within a reasonable period of time after the date of such objection with assistance from an alternative provider that is accessible to the individual and the value of which is not less than the value of the assistance which the individual would have received from such organization.
+&emsp;If an individual described in paragraph (2) has an objection to the religious character of the organization or institution from which the individual receives, or would receive, assistance funded under any program described in subsection (a)(2), the State in which the individual resides shall provide such individual (if otherwise eligible for such assistance) within a reasonable period of time after the date ofsuch objection with assistance from an alternative provider that is accessible to the individual and the value of which is not less than the value of the assistance which the individual would have received from such organization.
 
 #### (2) Individual described
 

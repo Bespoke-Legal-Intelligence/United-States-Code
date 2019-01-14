@@ -88,7 +88,7 @@ Definitions Relating to Travel and Transportation Allowances.—In this subchapt
 
 &emsp;(9) The term "dislocation allowances" means the costs associated with relocation of the household of a member of the uniformed services and the member's dependents in relation to a change in the member's permanent duty assignment location ordered for the convenience of the Government or incident to an evacuation.
 
-(Added Pub. L. 112–81, div. A, title VI, §631(b), Dec. 31, 2011, 125 Stat. 1453; amended Pub. L.113–66, div. A, title VI, §621(a)(1), Dec. 26, 2013, 127 Stat. 783.)
+(Added Pub. L. 112–81, div. A, title VI, §631(b), Dec. 31, 2011, 125 Stat. 1453; amended Pub. L. 113–66, div. A, title VI, §621(a)(1), Dec. 26, 2013, 127 Stat. 783.)
 
 #### Amendments
 

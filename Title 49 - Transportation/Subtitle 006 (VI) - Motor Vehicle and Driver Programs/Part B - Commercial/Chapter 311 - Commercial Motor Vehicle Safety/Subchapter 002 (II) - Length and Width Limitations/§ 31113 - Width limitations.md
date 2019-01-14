@@ -12,7 +12,7 @@ General Limitations.—(1) Except as provided in subsection (e) of this section,
 
 (2) Notwithstanding paragraph (1) of this subsection, a State may continue to enforce a regulation of commerce in effect on April 6, 1983, that applies to a commercial motor vehicle of more than 102 inches in width, until the date on which the State prescribes a regulation of commerce that complies with this subsection.
 
-(3) A Federal-aid highway (except an interstate highway) not designated under this subsection on June 5, 1984, may be designated underthis subsection only with the agreement of the chief executive officer of the State in which the highway is located.
+(3) A Federal-aid highway (except an interstate highway) not designated under this subsection on June 5, 1984, may be designated under this subsection only with the agreement of the chief executive officer of the State in which the highway is located.
 
 (b)
 

@@ -14,7 +14,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;(5) "Company" means a corporation, a partnership, an association, a joint-stock company, a trust, or any organized group of persons, whether incorporated or not; or any receiver, trustee in a case under title 11, or similar official, or any liquidating agent for any of the foregoing, in his capacity as such.
 
-&emsp;(6) "Convicted" includes a verdict, judgment, or plea of guilty, or a finding of guilt on a plea of nolo contendere, if such verdict, judgment, plea, or finding has not been reversed,set aside, or withdrawn, whether or not sentence has been imposed.
+&emsp;(6) "Convicted" includes a verdict, judgment, or plea of guilty, or a finding of guilt on a plea of nolo contendere, if such verdict, judgment, plea, or finding has not been reversed, set aside, or withdrawn, whether or not sentence has been imposed.
 
 &emsp;(7) The term "dealer" has the same meaning as given in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\], but does not include an insurance company or investment company.
 
@@ -38,7 +38,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;(17) The term "person associated with an investment adviser" means any partner, officer, or director of such investment adviser (or any person performing similar functions), or any person directly or indirectly controlling or controlled by such investment adviser, including any employee of such investment adviser, except that for the purposes of section 80b–3 of this title (other than subsection (f) thereof), persons associated with an investment adviser whose functions are clerical or ministerial shall not be included in the meaning of such term. The Commission may by rules and regulations classify, for the purposes of any portion of portions of this subchapter, persons, including employees controlled by an investment adviser.
 
-&emsp;(18) "Security" means any note, stock, treasury stock, security future, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil, gas, or other mineral rights, any put, call, straddle, option, or privilege on any security (including a certificate of deposit) or on any group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, or, in general,any interest or instrument commonly known as a "security", or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guaranty of, or warrant or right to subscribe to or purchase any of the foregoing.
+&emsp;(18) "Security" means any note, stock, treasury stock, security future, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil, gas, or other mineral rights, any put, call, straddle, option, or privilege on any security (including a certificate of deposit) or on any group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, or, in general, any interest or instrument commonly known as a "security", or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guaranty of, or warrant or right to subscribe to or purchase any of the foregoing.
 
 &emsp;(19) "State" means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, or any other possession of the United States.
 
@@ -103,10 +103,6 @@ No provision in this subchapter shall apply to, or be deemed to include, the Uni
 Whenever pursuant to this subchapter the Commission is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, the Commission shall also consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
 
 (Aug. 22, 1940, ch. 686, title II, §202, 54 Stat. 847; Pub. L. 86–70, §12(c), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(d), July 12, 1960, 74 Stat. 412; Pub. L. 86–750, §1, Sept. 13, 1960, 74 Stat. 885; Pub. L. 89–485, §13(j), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §23, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 95–598, title III, §311, Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title II, §201, Oct. 21, 1980, 94 Stat. 2289; Pub. L. 97–303, §6, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VII, §701, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–550, title II, §206(b), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title III, §303(c), Oct. 11, 1996, 110 Stat. 3438; Pub. L. 106–102, title II, §§217–219, 224, Nov. 12, 1999, 113 Stat. 1399, 1400, 1402; Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(2), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436; Pub. L. 109–291, §4(b)(3)(A), (B), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 109–351, title IV, §401(b)(1), Oct. 13, 2006, 120 Stat. 1973; Pub. L. 111–203, title IV, §§402(a), 409(a), title VII, §770, title IX, §986(d), July 21, 2010, 124 Stat. 1570, 1575, 1801, 1936.)
-
-#### Amendment of Section
-
-<i>Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -200,7 +196,7 @@ Amendment by Pub. L. 106–102 effective 18 months after Nov. 12, 1999, see sect
 
 #### Effective Date of 1996 Amendment
 
-Section 308(a) of title III of Pub. L. 104–290, as amended by Pub. L. 105–8, §1, Mar. 31, 1997, 111 Stat. 15, provided that: "This title \[enacting section 80b–3a of this title, amending this section, sections 80b–3 and 80b–18a of this title, and section 1002 of Title 29, Labor, and enacting provisions set out as notes under sections 80b–3a, 80b–10, and 80b–20 of this title and section 1002 of Title 29\] and the amendments made by this title shall take effect 270 days after the date of enactment of this Act \[Oct. 11, 1996\]."
+Section 308(a) of title III of Pub. L. 104–290, as amended by Pub. L. 105–8, §1, Mar. 31, 1997, 111 Stat. 15, provided that: "This title \[enacting section 80b–3a of this title, amending this section, sections 80b–3 and 80b–18a of this title, and section 1002 of Title 29, Labor, and enacting provisions set out as notes under sections 80b–3a, 80b–10, and 80b–20 of this title and section 1002 of Title 29\] and the amendments made by this titleshall take effect 270 days after the date of enactment of this Act \[Oct. 11, 1996\]."
 
 #### Effective Date of 1978 Amendment
 

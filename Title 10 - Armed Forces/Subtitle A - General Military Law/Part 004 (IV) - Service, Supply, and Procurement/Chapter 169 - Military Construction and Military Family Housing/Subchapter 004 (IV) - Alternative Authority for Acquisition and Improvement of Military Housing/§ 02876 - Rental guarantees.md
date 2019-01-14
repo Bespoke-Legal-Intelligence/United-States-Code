@@ -6,7 +6,7 @@ The Secretary concerned may enter into agreements with eligible entities that ac
 
 &emsp;(2) rental income derived from rental of such units at levels specified in the agreements.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 546; amended Pub. L. 106–65, div. B, title XXVIII, §2803(e), Oct. 5, 1999, 113 Stat. 849.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 546; amendedPub. L. 106–65, div. B, title XXVIII, §2803(e), Oct. 5, 1999, 113 Stat. 849.)
 
 #### Amendments
 

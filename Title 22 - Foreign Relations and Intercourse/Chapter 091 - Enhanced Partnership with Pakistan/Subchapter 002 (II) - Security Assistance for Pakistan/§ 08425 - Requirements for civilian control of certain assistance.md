@@ -8,7 +8,7 @@
 
 #### (2) Documentation
 
-&emsp;For fiscal years 2010 through 2014, the Secretary of State, in coordination with the Secretary of Defense, shall ensure that civilianauthorities of a civilian government of Pakistan have received a copy of final documentation provided to the United States related to non-assistance payments provided or made to the Government of Pakistan.
+&emsp;For fiscal years 2010 through 2014, the Secretary of State, in coordination with the Secretary of Defense, shall ensure that civilian authorities of a civilian government of Pakistan have received a copy of final documentation provided to the United States related to non-assistance payments provided or made to the Government of Pakistan.
 
 #### (b) Waiver
 
@@ -42,7 +42,7 @@ In this section—
 
 &emsp;(1) the term "appropriate congressional committees" means the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives and the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
 
-&emsp;(2) the term "civilian government of Pakistan" does not include any government of Pakistan whose duly elected head of government is deposed by military coup or decree.
+&emsp;(2) the term "civilian government of Pakistan" does not include any government ofPakistan whose duly elected head of government is deposed by military coup or decree.
 
 (Pub. L. 111–73, title II, §205, Oct. 15, 2009, 123 Stat. 2074.)
 

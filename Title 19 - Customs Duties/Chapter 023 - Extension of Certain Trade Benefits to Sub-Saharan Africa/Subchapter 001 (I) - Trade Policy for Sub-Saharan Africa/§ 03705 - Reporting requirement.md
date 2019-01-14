@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to United States Trade Representative by section 1(b) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
+Functions of President under this section delegated to United States Trade Representative by section 1(b)of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
 
 #### Reports on Implementation and Potential Trade Agreements
 

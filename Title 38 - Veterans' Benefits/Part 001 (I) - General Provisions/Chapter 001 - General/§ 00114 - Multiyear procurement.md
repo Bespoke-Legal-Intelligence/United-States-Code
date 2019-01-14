@@ -30,7 +30,7 @@
 
 (b)(1) A multiyear contract authorized by this section shall contain—
 
-&emsp;(A) a provision that the obligation of the United States under the contract during any fiscal year which is included in the contract period and is subsequent to the fiscal year during which the contract is entered into is contingent on the availability of sufficient appropriations (as determined by the Secretary pursuant to paragraph (2)(A) of this subsection) if,at the time the contract is entered into, appropriations are not available to cover the total estimated payments that will be required during the full term of the contract; and
+&emsp;(A) a provision that the obligation of the United States under the contract during any fiscal year which is included in the contract period and is subsequent to the fiscal year during which the contract is entered into is contingent on the availability of sufficient appropriations (as determined by the Secretary pursuant to paragraph (2)(A) of this subsection) if, at the time the contract is entered into, appropriations are not available to cover the total estimated payments that will be required during the full term of the contract; and
 
 &emsp;(B) notwithstanding section 1502(a) of title 31, a provision for the payment of reasonable cancellation charges to compensate the contractor for nonrecurring, unrecovered costs, if any, if the performance is cancelled pursuant to the provision required by subparagraph (A) of this paragraph.
 

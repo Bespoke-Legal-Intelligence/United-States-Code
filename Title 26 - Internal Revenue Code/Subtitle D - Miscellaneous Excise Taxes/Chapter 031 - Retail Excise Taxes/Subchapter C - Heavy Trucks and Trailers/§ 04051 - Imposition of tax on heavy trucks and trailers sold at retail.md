@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is hereby imposed on the first retail sale of the following articles (including in each case parts or accessories sold on or in connection therewith or with the sale thereof) a tax of 12 percent of the amount for which the article is so sold:
+&emsp;There is hereby imposed on the first retail sale of the following articles (including ineach case parts or accessories sold on or in connection therewith or with the sale thereof) a tax of 12 percent of the amount for which the article is so sold:
 
 &emsp;&emsp;(A) Automobile truck chassis.
 
@@ -22,7 +22,7 @@
 
 #### (3) Exclusion for trailers weighing 26,000 pounds or less
 
-&emsp;The tax imposed by paragraph (1) shall not apply to truck trailer and semitrailer chassis and bodies, suitable for use with a trailer or semitrailer which has a gross vehicle weight of 26,000 pounds or less (as determined under regulations prescribed by the Secretary.<sup>1</sup>
+&emsp;The tax imposed by paragraph (1) shall not apply to truck trailer and semitrailer chassis and bodies, suitable for use with a trailer or semitrailer which has a gross vehicle weight of 26,000 pounds or less (as determined under regulations prescribed by the Secretary).
 
 #### (4) Exclusion for tractors weighing 19,500 pounds or less
 
@@ -76,13 +76,15 @@ If—
 
 > there shall be allowed as a credit against the tax imposed by this subchapter an amount equal to the tax (if any) imposed by section 4071 on such tires.
 
-(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2174; amended Pub. L. 98–369, div. A, title VII, §734(g), title IX, §921, July 18, 1984, 98 Stat. 980, 1009; Pub. L. 99–514, title XVIII, §§1877(c), 1899A(47), Oct. 22, 1986, 100 Stat. 2902, 2961; Pub. L. 100–17, title V, §502(a)(2), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(1), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(1), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–34, title XIV, §§1401(a), 1402(a), 1432(a), Aug. 5, 1997, 111 Stat. 1045, 1046, 1050; Pub. L. 105–178, title IX, §9002(a)(1)(D), June 9, 1998, 112 Stat. 499; Pub. L. 109–59, title XI, §§11101(a)(1)(D), 11112(a), Aug. 10, 2005, 119 Stat. 1943, 1946; Pub. L. 112–30, title I, §142(a)(2)(B), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(a)(2)(B), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(a)(2)(B), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(2)(B), July 6, 2012, 126 Stat. 844; Pub. L. 114–94, div. C, title XXXI, §31102(a)(2)(B), Dec. 4, 2015, 129 Stat. 1727.)
+(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2174; amended Pub. L. 98–369, div. A, title VII, §734(g), title IX, §921, July 18, 1984, 98 Stat. 980, 1009; Pub. L. 99–514, title XVIII, §§1877(c), 1899A(47), Oct. 22, 1986, 100 Stat. 2902, 2961; Pub. L. 100–17, title V, §502(a)(2), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(1), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(1), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–34, title XIV, §§1401(a), 1402(a), 1432(a), Aug. 5, 1997, 111 Stat. 1045, 1046, 1050; Pub. L. 105–178, title IX, §9002(a)(1)(D), June 9, 1998, 112 Stat. 499; Pub. L. 109–59, title XI, §§11101(a)(1)(D), 11112(a), Aug. 10, 2005, 119 Stat. 1943, 1946; Pub. L. 112–30, title I, §142(a)(2)(B), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(a)(2)(B), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(a)(2)(B), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(2)(B), July 6, 2012, 126 Stat. 844; Pub. L. 114–94, div. C, title XXXI, §31102(a)(2)(B), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 115–141, div. U, title IV, §401(a)(219), Mar. 23, 2018, 132 Stat. 1194.)
 
 #### Prior Provisions
 
 A prior section 4051, act Aug. 16, 1954, ch. 736, 68A Stat. 479, defined the price for which articles were sold for purposes of determining retailers excise taxes, prior to repeal by Pub. L. 94–455, title XIX, §1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(3). Pub. L. 115–141 inserted closing parenthesis before period at end.
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–94 substituted "October 1, 2022" for "October 1, 2016".
 
@@ -156,7 +158,7 @@ Amendment by section 1877(c) of Pub. L. 99–514 effective, except as otherwise 
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title VII, §736, July 18, 1984, 98 Stat. 985, provided that: "Except as otherwise providedin this subtitle \[subtitle C (§§731–736) of title VII of div. A of Pub. L. 98–369, amending this section and sections 48, 1366, 4052, 4053, 4071 to 4073, 4081, 4082, 4216, 4218, 4221 to 4223, 4227, 4481, 6401, 6412, 6416, 6427, 6511, and 9502 of this title, repealing sections 4061 to 4063 of this title, and amending provisions set out as notes under sections 4061 and 4081 of this title\], any amendment made by this subtitle shall take effect as if included in the provisions of the Highway Revenue Act of 1982 \[Pub. L. 97–424\] to which such amendment relates."
+Pub. L. 98–369, div. A, title VII, §736, July 18, 1984, 98 Stat. 985, provided that: "Except as otherwise provided in this subtitle \[subtitle C (§§731–736) of title VII of div. A of Pub. L. 98–369, amending this section and sections 48, 1366, 4052, 4053, 4071 to 4073, 4081, 4082, 4216, 4218, 4221 to 4223, 4227, 4481, 6401, 6412, 6416, 6427, 6511, and 9502 of this title, repealing sections 4061 to 4063 of this title, and amending provisions set out as notes under sections 4061 and 4081 of this title\], any amendment made by this subtitle shall take effect as if included in the provisions of the Highway Revenue Act of 1982 \[Pub. L. 97–424\] to which such amendment relates."
 
 #### Effective Date
 
@@ -165,6 +167,4 @@ Pub. L. 97–424, title V, §512(b)(3), Jan. 6, 1983, 96 Stat. 2177, provided th
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by a closing parenthesis.</i>
 

@@ -10,5 +10,5 @@ Section 75c, based on H. Res. No. 449, Sept. 21, 1961, enacted into permanent la
 
 Section 75d, based on H. Res. No. 331, June 7, 1961, enacted into permanent law by Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693, related to basic compensation of stationery and assistant stationery clerks.
 
-Section 75e, based on H. Res. Nos. 225, 341, 402 and 773 of the 87th Congress, enacted into permanent law by Pub. L. 87–130, §103, Aug. 10, 1961, 75 Stat. 334; Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693; Pub. L. 88–248, §103, Dec. 30, 1963, 77 Stat. 817, related to compensation of certain laborers and clerks in offices of Clerk, Doorkeeper and Postmaster of House.
+Section 75e, based on H. Res. Nos. 225, 341, 402 and 773 of the 87th Congress, enacted into permanent law byPub. L. 87–130, §103, Aug. 10, 1961, 75 Stat. 334; Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693; Pub. L. 88–248, §103, Dec. 30, 1963, 77 Stat. 817, related to compensation of certain laborers and clerks in offices of Clerk, Doorkeeper and Postmaster of House.
 

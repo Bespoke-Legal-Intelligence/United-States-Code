@@ -60,7 +60,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Nothing in this paragraph shall be construed as affecting or otherwise limiting theauthority of a Federal entity for lending regulation to approve any disclosure made by a regulated lending institution for purposes of complying with subparagraph (A).
+&emsp;&emsp;Nothing in this paragraph shall be construed as affecting or otherwise limiting the authority of a Federal entity for lending regulation to approve any disclosure made by a regulated lending institution for purposes of complying with subparagraph (A).
 
 #### (7) Private flood insurance defined
 
@@ -186,7 +186,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (4) Sufficiency of demonstration
 
-&emsp;For purposes of confirming a borrower's existing flood insurance coverage, a lender or servicer for a loan shall accept from the borrower an insurance policy declarations page that includes the existing flood insurance policy number and the identity of, and contact information for, the insurance company or agent.
+&emsp;For purposes of confirming a borrower's existing flood insurance coverage, a lender or servicer for a loan shall accept from the borrower an insurance policy declarations page that includes the existing flood insurance policy number and the identity of, and contactinformation for, the insurance company or agent.
 
 #### (5) Review of determination regarding required purchase
 
@@ -268,7 +268,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (1) Authority of Federal entities for lending regulation
 
-&emsp;A Federal entity for lending regulation may require a regulated lending institution to takesuch remedial actions as are necessary to ensure that the regulated lending institution complies with the requirements of the national flood insurance program if the Federal agency for lending regulation makes a determination under paragraph (2) regarding the regulated lending institution.
+&emsp;A Federal entity for lending regulation may require a regulated lending institution to take such remedial actions as are necessary to ensure that the regulated lending institution complies with the requirements of the national flood insurance program if the Federal agency for lending regulation makes a determination under paragraph (2) regarding the regulated lending institution.
 
 #### (2) Determination of violations
 
@@ -328,11 +328,11 @@ Subsec. (b)(1). Pub. L. 112–141, §100239(a)(1), substituted "; and" for peri
 
 Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
-Subsec. (b)(2). Pub. L. 112–141, §100239(a)(2), substituted "paragraph (1)(A)" for "paragraph (1)" in two places and inserted "Each Federal agency lender shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under the preceding sentence if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such sentence." after first sentence.
+Subsec. (b)(2). Pub. L. 112–141, §100239(a)(2), substituted "paragraph (1)(A)" for "paragraph (1)" in two places and inserted "Each Federal agency lender shall accept private flood insurance as satisfaction of theflood insurance coverage requirement under the preceding sentence if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such sentence." after first sentence.
 
 Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
-Subsec. (b)(3). Pub. L. 112–141, §100239(a)(3), substituted "paragraph (1)(A). The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under paragraph (1)(A) if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such paragraph and any requirements established by the Federal NationalMortgage Association or the Federal Home Loan Mortgage Corporation, respectively, relating to the financial solvency, strength, or claims-paying ability of private insurance companies from which the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation will accept private flood insurance." for "paragraph (1)." in concluding provisions.
+Subsec. (b)(3). Pub. L. 112–141, §100239(a)(3), substituted "paragraph (1)(A). The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under paragraph (1)(A) if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such paragraph and any requirements established by the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation, respectively, relating to the financial solvency, strength, or claims-paying ability of private insurance companies from which the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation will accept private flood insurance." for "paragraph (1)." in concluding provisions.
 
 Subsec. (b)(3)(A). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
@@ -410,11 +410,11 @@ Definitions.—In this subparagraph—
 
 &emsp;&emsp;"(ii)
 
-Option to escrow flood insurance payments.—Each Federal entity for lending regulation (after consultation and coordination with the Federal Financial Institutions Examination Council) shall, by regulation, direct that each regulated lending institution or servicer of an outstanding loan shall offer and make available to a borrower the option to have the borrower's payment of premiums and fees for flood insurance under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), including the escrow of such payments, be treated in the same manner provided under section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973, as amended."
+Option to escrow flood insurance payments.—Each Federal entity for lending regulation\(after consultation and coordination with the Federal Financial Institutions Examination Council) shall, by regulation, direct that each regulated lending institution or servicer of an outstanding loan shall offer and make available to a borrower the option to have the borrower's payment of premiums and fees for flood insurance under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), including the escrow of such payments, be treated in the same manner provided under section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973, as amended."
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–141, div. F, title II, §100209(b), July 6, 2012, 126 Stat. 920, which provided that the amendment madeto this section by section 100209(a) of Pub. L. 112–141 would apply to any mortgage outstanding or entered into on or after the expiration of the 2-year period beginning on July 6, 2012, was repealed by Pub. L. 113–89, §25(b)(2), Mar. 21, 2014, 128 Stat. 1032. For effective date of amendment by section 100209(a) of Pub. L. 112–141, see Effective Date of 2014 Amendment note above.
+Pub. L. 112–141, div. F, title II, §100209(b), July 6, 2012, 126 Stat. 920, which provided that the amendment made to this section by section 100209(a) of Pub. L. 112–141 would apply to any mortgage outstanding or entered into on or after the expiration of the 2-year period beginning on July 6, 2012, was repealed by Pub. L. 113–89, §25(b)(2), Mar. 21, 2014, 128 Stat. 1032. For effective date of amendment by section 100209(a) of Pub. L. 112–141, see Effective Date of 2014 Amendment note above.
 
 #### Effective Date of 1994 Amendment
 

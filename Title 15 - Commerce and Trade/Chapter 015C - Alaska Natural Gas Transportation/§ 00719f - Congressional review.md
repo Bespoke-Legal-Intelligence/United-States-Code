@@ -58,7 +58,7 @@ Within 20 days of the transmittal of the President's decision to the Congress un
 
 (3) The resolving clause of the joint resolution referred to in this subsection is as follows: "That the House of Representatives and Senate approve the waiver of the provision of law ( ) as proposed by the President, submitted to the Congress on     , 19  ." The first blank space therein being filled with the citation to the provision of law and the second blank space therein being filled with the date on which the President submits his decision to the House of Representatives and the Senate.
 
-(4) In the case of action with respect to a joint resolution described in this subsection, thephrase "a waiver of a provision of law" shall be substituted in subsection (d) for the phrase "the Alaska natural gas transportation system.".
+(4) In the case of action with respect to a joint resolution described in this subsection, the phrase "a waiver of a provision of law" shall be substituted in subsection (d) for the phrase "the Alaska natural gas transportation system.".
 
 (Pub. L. 94–586, §8, Oct. 22, 1976, 90 Stat. 2909.)
 

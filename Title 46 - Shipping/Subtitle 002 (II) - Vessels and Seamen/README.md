@@ -114,7 +114,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Part K—National Maritime Transportation Advisory Committees
+
+|  |  |  |
+| :--- | :---: | ---: |
+| [<b>151.</b>](Part%20K%20-%20National%20Maritime%20Transportation%20Advisory%20Committees/Chapter%20151%20-%20National%20Maritime%20Transportation%20Advisory%20Committees/README.md) | <b>National Maritime Transportation Advisory Committees</b> | <b>15101</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–282, title VI, §601(b), Dec. 4, 2018, 132 Stat. 4289, added item for part K.
 
 <b>2006</b>—Pub. L. 109–304, §15(1), Oct. 6, 2006, 120 Stat. 1702, in each chapter item, capitalized first letter of each word containing 4 or more letters, struck out item for chapter 39 "Carriage of animals", and substituted "Uninspected Commercial Fishing Industry Vessels" for "Fish processing vessels" in item 45.
 
@@ -151,3 +161,4 @@ Pub. L. 100–424, §6(b), Sept. 9, 1988, 102 Stat. 1592, added item 106.
 - [Part H - Identification of Vessels](Part%20H%20-%20Identification%20of%20Vessels/README.md)
 - [Part I - State Boating Safety Programs](Part%20I%20-%20State%20Boating%20Safety%20Programs/README.md)
 - [Part J - Measurement of Vessels](Part%20J%20-%20Measurement%20of%20Vessels/README.md)
+- [Part K - National Maritime Transportation Advisory Committees](Part%20K%20-%20National%20Maritime%20Transportation%20Advisory%20Committees/README.md)

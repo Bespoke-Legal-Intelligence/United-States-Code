@@ -68,7 +68,7 @@
 
 #### (c) Advertising restriction
 
-A member bank or any subsidiary or affiliate of a member bank shall not publish any advertisement or enter into any agreement stating or suggesting that the bank shall in any way be responsible for the obligations of its affiliates.
+A member bank or any subsidiary or affiliate of a member bank shall not publish any advertisement or enter into any agreement stating orsuggesting that the bank shall in any way be responsible for the obligations of its affiliates.
 
 #### (d) Definitions
 
@@ -102,7 +102,7 @@ For the purpose of this section—
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e). Pub. L. 111–203, §608(b)(1)–(4), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of par. (1)(B), realigned margins, andstruck out concluding provisions which read as follows: "if the Board finds such exemptions or exclusions are in the public interest and are consistent with the purposes of this section."
+<b>2010</b>—Subsec. (e). Pub. L. 111–203, §608(b)(1)–(4), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of par. (1)(B), realigned margins, and struck out concluding provisions which read as follows: "if the Board finds such exemptions or exclusions are in the public interest and are consistent with the purposes of this section."
 
 Subsec. (e)(1)(B). Pub. L. 111–203, §608(b)(5)(A), inserted "subject to paragraph (2), if the Board finds that an exemption or exclusion is in the public interest and is consistent with the purposes of this section, and notifies the Federal Deposit Insurance Corporation of such finding," before "regulations" in introductory provisions.
 

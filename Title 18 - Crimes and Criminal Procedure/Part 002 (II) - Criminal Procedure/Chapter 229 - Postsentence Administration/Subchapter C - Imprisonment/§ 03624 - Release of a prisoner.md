@@ -6,7 +6,7 @@ Date of Release.—A prisoner shall be released by the Bureau of Prisons on the 
 
 (b)
 
-Credit Toward Service of Sentence for Satisfactory Behavior.—(1) Subject to paragraph (2), a prisoner who is serving a term of imprisonment of more than 1 year <sup>1</sup> other than a term of imprisonment for the duration of the prisoner's life, may receive credit toward the service of the prisoner's sentence, beyond the time served, of up to 54 days at the end of each year of the prisoner's term of imprisonment, beginning at the end of the first year of the term, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with institutional disciplinary regulations. Subject to paragraph (2), if the Bureau determines that, during that year, the prisoner has not satisfactorily complied with such institutional regulations, the prisoner shall receive no such credit toward service of the prisoner's sentence or shall receive such lesser credit as the Bureau determines to be appropriate. In awarding credit under this section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree. Credit that has not been earned may not later be granted. Subject to paragraph (2), credit for the last year or portion of a year of the term of imprisonment shall be prorated and credited within the last six weeks of the sentence.
+Credit Toward Service of Sentence for Satisfactory Behavior.—(1) Subject to paragraph (2), a prisoner who is serving a term of imprisonment of more than 1 year <sup>1</sup> other than a term of imprisonment for the duration of the prisoner's life, may receive credit toward the service of the prisoner's sentence of up to 54 days for each year of the prisoner's sentence imposed by the court, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with institutional disciplinary regulations. Subject to paragraph (2), if the Bureau determines that, during that year, the prisoner has not satisfactorily complied with such institutional regulations, the prisoner shall receive no such credit toward service of the prisoner's sentence or shall receive such lesser credit as the Bureau determines to be appropriate. In awarding credit under this section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree. Credit that has not been earned may not later be granted. Subject to paragraph (2), credit for the last year of a term of imprisonment shall be credited on the first day of the last year of the term of imprisonment.
 
 (2) Notwithstanding any other law, credit awarded under this subsection after the date of enactment of the Prison Litigation Reform Act shall vest on the date the prisoner is released from custody.
 
@@ -24,7 +24,7 @@ In general.—The Director of the Bureau of Prisons shall, to the extent practic
 
 &emsp;(2)
 
-Home confinement authority.—The authority under this subsection may be used to place a prisoner in home confinement for the shorter of 10 percent of the term of imprisonment of that prisoner or 6 months.
+Home confinement authority.—The authority under this subsection may be used to place a prisoner in home confinement for the shorter of 10 percent of the term of imprisonment of that prisoner or 6 months. The Bureau of Prisons shall, to the extent practicable, place prisoners with lower risk levels and lower needs on home confinement for the maximum amount of time permitted under this paragraph.
 
 &emsp;(3)
 
@@ -36,11 +36,11 @@ No limitations.—Nothing in this subsection shall be construed to limit or rest
 
 &emsp;(5)
 
-Reporting.—Not later than 1 year after the date of the enactment of the Second Chance Act of 2007 (and every year thereafter), the Director of the Bureau of Prisons shall transmit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report describing the Bureau's utilization of community corrections facilities. Each report under this paragraph shall set forth the number and percentage of Federal prisoners placed in community corrections facilities during the preceding year, the average length of such placements, trends in such utilization, the reasons some prisoners are not placed in community corrections facilities, and any other information that may be useful to the committees in determining if the Bureau is utilizing community corrections facilities in an effective manner.
+Reporting.—Not later than 1 year after the date of the enactment of the Second Chance Act of 2007 (and every year thereafter), the Director of the Bureau of Prisons shall transmit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report describing the Bureau's utilization of community corrections facilities. Each report under this paragraph shall set forth the number and percentage of Federal prisoners placed in community corrections facilities during the preceding year, the average length of such placements, trends in such utilization, the reasons some prisoners are not placed in community corrections facilities, and number of prisoners not being placed in community corrections facilities for each reason set forth, and any other information that may be useful to the committees in determining if the Bureau is utilizing community corrections facilities in an effective manner.
 
 &emsp;(6)
 
-Issuance of regulations.—The Director of the Bureau of Prisons shall issue regulations pursuant to this subsection not later than 90 days after the date of the enactment of the Second Chance Act of 2007, which shall ensure that placement in a community correctional facility by the Bureau of Prisons is—
+Issuance of regulations.—The Director of the Bureau of Prisons shall issue regulations pursuant to this subsection not later than 90 days after the date of the enactment of the Second Chance Reauthorization Act of 2018, which shall ensure that placement in a community correctional facility by the Bureau of Prisons is—
 
 &emsp;&emsp;(A) conducted in a manner consistent with section 3621(b) of this title;
 
@@ -82,13 +82,135 @@ Mandatory Functional Literacy Requirement.—
 
 &emsp;(5) The Chief Executive Officer of each institution shall have authority to grant waivers for good cause as determined and documented on an individual basis.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2008; amended Pub. L. 99–646, §§16(a), 17(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 101–647, title XXIX, §§2902(a), 2904, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §§20405, 20412, Sept. 13, 1994, 108 Stat. 1825, 1828; Pub. L. 104–66, title I, §1091(c), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §809(c)\], Apr. 26, 1996, 110 Stat. 1321, 1321–76; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–177, title V, §505,Jan. 7, 2008, 121 Stat. 2542; Pub. L. 110–199, title II, §251(a), Apr. 9, 2008, 122 Stat. 692.)
+(g)
+
+Prerelease Custody or Supervised Release for Risk and Needs Assessment System Participants.—
+
+&emsp;(1)
+
+Eligible prisoners.—This subsection applies in the case of a prisoner (as such term is defined in section 3635) who—
+
+&emsp;&emsp;(A) has earned time credits under the risk and needs assessment system developed under subchapter D (referred to in this subsection as the "System") in an amount that is equal to the remainder of the prisoner's imposed term of imprisonment;
+
+&emsp;&emsp;(B) has shown through the periodic risk reassessments a demonstrated recidivism risk reduction or has maintained a minimum or low recidivism risk, during the prisoner's term of imprisonment;
+
+&emsp;&emsp;(C) has had the remainder of the prisoner's imposed term of imprisonment computed under applicable law; and
+
+&emsp;&emsp;(D)(i) in the case of a prisoner being placed in prerelease custody, the prisoner—
+
+&emsp;&emsp;&emsp;(I) has been determined under the System to be a minimum or low risk to recidivate pursuant to the last 2 reassessments of the prisoner; or
+
+&emsp;&emsp;&emsp;(II) has had a petition to be transferred to prerelease custody or supervised release approved by the warden of the prison, after the warden's determination that—
+
+&emsp;&emsp;&emsp;&emsp;(aa) the prisoner would not be a danger to society if transferred to prerelease custody or supervised release;
+
+&emsp;&emsp;&emsp;&emsp;(bb) the prisoner has made a good faith effort to lower their recidivism risk through participation in recidivism reduction programs or productive activities; and
+
+&emsp;&emsp;&emsp;&emsp;(cc) the prisoner is unlikely to recidivate; or
+
+&emsp;&emsp;(ii) in the case of a prisoner being placed in supervised release, the prisoner has been determined under the System to be a minimum or low risk to recidivate pursuant to the last reassessment of the prisoner.
+
+&emsp;(2)
+
+Types of prerelease custody.—A prisoner shall be placed in prerelease custody as follows:
+
+&emsp;&emsp;(A)
+
+Home confinement.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—A prisoner placed in prerelease custody pursuant to this subsection who is placed in home confinement shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) be subject to 24-hour electronic monitoring that enables the prompt identification of the prisoner, location, and time, in the case of any violation of subclause (II);
+
+&emsp;&emsp;&emsp;&emsp;(II) remain in the prisoner's residence, except that the prisoner may leave the prisoner's home in order to, subject to the approval of the Director of the Bureau of Prisons—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) perform a job or job-related activities, including an apprenticeship, or participate in job-seeking activities;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) participate in evidence-based recidivism reduction programming or productive activities assigned by the System, or similar activities;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) perform community service;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) participate in crime victim restoration activities;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) receive medical treatment;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) attend religious activities; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(gg) participate in other family-related activities that facilitate the prisoner's successful reentry such as a family funeral, a family wedding, or to visit a family member who is seriously ill; and
+
+&emsp;&emsp;&emsp;&emsp;(III) comply with such other conditions as the Director determines appropriate.
+
+&emsp;&emsp;&emsp;(ii)
+
+Alternate means of monitoring.—If the electronic monitoring of a prisoner described in clause (i)(I) is infeasible for technical or religious reasons, the Director of the Bureau of Prisons may use alternative means of monitoring a prisoner placed in home confinement that the Director determines are as effective or more effective than the electronic monitoring described in clause (i)(I).
+
+&emsp;&emsp;&emsp;(iii)
+
+Modifications.—The Director of the Bureau of Prisons may modify the conditions described in clause (i) if the Director determines that a compelling reason exists to do so, and that the prisoner has demonstrated exemplary compliance with such conditions.
+
+&emsp;&emsp;&emsp;(iv)
+
+Duration.—Except as provided in paragraph (4), a prisoner who is placed in home confinement shall remain in home confinement until the prisoner has served not less than 85 percent of the prisoner's imposed term of imprisonment.
+
+&emsp;&emsp;(B)
+
+Residential reentry center.—A prisoner placed in prerelease custody pursuant to this subsection who is placed at a residential reentry center shall be subject to such conditions as the Director of the Bureau of Prisons determines appropriate.
+
+&emsp;(3)
+
+Supervised release.—If the sentencing court included as a part of the prisoner's sentence a requirement that the prisoner be placed on a term of supervised release after imprisonment pursuant to section 3583, the Director of the Bureau of Prisons may transfer the prisoner to begin any such term of supervised release at an earlier date, not to exceed 12 months, based on the application of time credits under section 3632.
+
+&emsp;(4)
+
+Determination of conditions.—In determining appropriate conditions for prisoners placed in prerelease custody pursuant to this subsection, the Director of the Bureau of Prisons shall, to the extent practicable, provide that increasingly less restrictive conditions shall be imposed on prisoners who demonstrate continued compliance with the conditions of such prerelease custody, so as to most effectively prepare such prisoners for reentry.
+
+&emsp;(5)
+
+Violations of conditions.—If a prisoner violates a condition of the prisoner's prerelease custody, the Director of the Bureau of Prisons may impose such additional conditions on the prisoner's prerelease custody as the Director of the Bureau of Prisons determines appropriate, or revoke the prisoner's prerelease custody and require the prisoner to serve the remainder of the term of imprisonment to which the prisoner was sentenced, or any portion thereof, in prison. If the violation is nontechnical in nature, the Director of the Bureau of Prisons shall revoke the prisoner's prerelease custody.
+
+&emsp;(6)
+
+Issuance of guidelines.—The Attorney General, in consultation with the Assistant Director for the Office of Probation and Pretrial Services, shall issue guidelines for use by the Bureau of Prisons in determining—
+
+&emsp;&emsp;(A) the appropriate type of prerelease custody or supervised release and level of supervision for a prisoner placed on prerelease custody pursuant to this subsection; and
+
+&emsp;&emsp;(B) consequences for a violation of a condition of such prerelease custody by such a prisoner, including a return to prison and a reassessment of evidence-based recidivism risk level under the System.
+
+&emsp;(7)
+
+Agreements with united states probation and pretrial services.—The Director ofthe Bureau of Prisons shall, to the greatest extent practicable, enter into agreements with United States Probation and Pretrial Services to supervise prisoners placed in home confinement under this subsection. Such agreements shall—
+
+&emsp;&emsp;(A) authorize United States Probation and Pretrial Services to exercise the authority granted to the Director pursuant to paragraphs (3) and (4); and
+
+&emsp;&emsp;(B) take into account the resource requirements of United States Probation and Pretrial Services as a result of the transfer of Bureau of Prisons prisoners to prerelease custody or supervised release.
+
+&emsp;(8)
+
+Assistance.—United States Probation and Pretrial Services shall, to the greatest extent practicable, offer assistance to any prisoner not under its supervision during prerelease custody under this subsection.
+
+&emsp;(9)
+
+Mentoring, reentry, and spiritual services.—Any prerelease custody into which a prisoner is placed under this subsection may not include a condition prohibiting the prisoner from receiving mentoring, reentry, or spiritual services from a person who provided such services to the prisoner while the prisoner was incarcerated, except that the warden of the facility at which the prisoner was incarcerated may waive the requirement under this paragraph if the warden finds that the provision of such services would pose a significant security risk to the prisoner, persons who provide such services, or any other person. The warden shall provide written notice of any such waiver to the person providing such services and to the prisoner.
+
+&emsp;(10)
+
+Time limits inapplicable.—The time limits under subsections (b) and (c) shall not apply to prerelease custody under this subsection.
+
+&emsp;(11)
+
+Prerelease custody capacity.—The Director of the Bureau of Prisons shall ensure there is sufficient prerelease custody capacity to accommodate all eligible prisoners.
+
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2008; amended Pub. L. 99–646, §§16(a), 17(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 101–647, title XXIX, §§2902(a), 2904, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §§20405, 20412, Sept. 13, 1994, 108 Stat. 1825, 1828; Pub. L. 104–66, title I, §1091(c), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §809(c)\], Apr. 26, 1996, 110 Stat. 1321, 1321–76; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–177, title V, §505, Jan. 7, 2008, 121 Stat. 2542; Pub. L. 110–199, title II, §251(a), Apr. 9, 2008, 122 Stat. 692; Pub. L. 115–391, title I, §102(b)(1), title V, §504(c), title VI, §602, Dec. 21, 2018, 132 Stat. 5210, 5233, 5238.)
 
 #### References in Text
 
 The date of enactment of the Prison Litigation Reform Act, referred to in subsec. (b)(2), probably means the date of enactment of the Prison Litigation Reform Act of 1995, section 101\[(a)\] \[title VIII\] of Pub. L. 104–134, which was approved Apr. 26, 1996.
 
-The date of the enactment of the Second Chance Act of 2007, referred to in subsec. (c)(5), (6), is the date of enactment of Pub. L. 110–199, which was approved Apr. 9, 2008.
+The date of the enactment of the Second Chance Act of 2007, referred to in subsec. (c)(5), is the date of enactment of Pub. L. 110–199, which was approved Apr. 9, 2008.
+
+The date of the enactment of the Second Chance Reauthorization Act of 2018, referred to in subsec. (c)(6), is the date of enactment of title V of Pub. L. 115–391, which was approved Dec. 21, 2018.
 
 The date of the enactment of this Act, referred to in subsec. (f)(1), probably means the date of enactment of Pub. L. 101–647, which enacted subsec. (f) and was approved Nov. 29, 1990.
 
@@ -98,11 +220,21 @@ For a prior section 3624, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–391, §102(b)(1)(A), substituted "of up to 54 days for each year of the prisoner's sentence imposed by the court," for ", beyond the time served, of up to 54 days at the end of each year of the prisoner's term of imprisonment, beginning at the end of the first year of the term," and "credit for the last year of a term of imprisonment shall be credited on the first day of the last year of the term of imprisonment" for "credit for the last year or portion of a year of the term of imprisonment shall be prorated and credited within the last six weeks of the sentence".
+
+Subsec. (c)(2). Pub. L. 115–391, §602, inserted at end "The Bureau of Prisons shall, to the extent practicable, place prisoners with lower risk levels and lower needs on home confinement for the maximum amount of time permitted under this paragraph."
+
+Subsec. (c)(5). Pub. L. 115–391, §504(c)(1), inserted ", and number of prisoners not being placed in community corrections facilities for each reason set forth" before ", and any other information".
+
+Subsec. (c)(6). Pub. L. 115–391, §504(c)(2), substituted "the Second Chance Reauthorization Act of 2018" for "the Second Chance Act of 2007" in introductory provisions.
+
+Subsec. (g). Pub. L. 115–391, §102(b)(1)(B), added subsec. (g).
+
 <b>2008</b>—Subsec. (c). Pub. L. 110–199 amended subsec. (c) generally. Prior to amendment, text read as follows: "The Bureau of Prisons shall, to the extent practicable, assure that a prisoner serving a term of imprisonment spends a reasonable part, not to exceed six months, of the last 10 per centum of the term to be served under conditions that will afford the prisoner a reasonable opportunity to adjust to and prepare for the prisoner's re-entry into the community. The authority provided by this subsection may be used to place a prisoner in home confinement. The United States Probation System shall, to the extent practicable, offer assistance to a prisoner during such pre-release custody."
 
 Subsec. (e). Pub. L. 110–177 substituted "Upon the release of a prisoner by the Bureau of Prisons to supervised release, the Bureau of Prisons shall notify such prisoner, verbally and in writing, of the requirement that the prisoner adhere to an installment schedule, not to exceed 2 years except in special circumstances, to pay for any fine imposed for the offense committed by such prisoner, and of the consequences of failure to pay such fines under sections 3611 through 3614 of this title." for "No prisoner shall be released on supervision unless such prisoner agrees to adhere to an installment schedule, not to exceed two years except in special circumstances, to pay for any fine imposed for the offense committed by such prisoner."
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(A)\], struck out at beginning "A prisoner (other than a prisoner serving a sentence for a crime of violence) who is serving a term of imprisonment of more than one year, other than a term of imprisonment for the duration of the prisoner's life, shall receive credit toward the service of the prisoner's sentence, beyond the time served, of fifty-four days at the end of each year of the prisoner's term of imprisonment, beginning at the end of the first year of the term, unless the Bureau of Prisons determines that, during that year, the prisoner has not satisfactorily complied with such institutional disciplinary regulations as have been approved by the Attorney General and issued to the prisoner."
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(A)\], struck out at beginning "A prisoner (other than a prisoner serving a sentence for a crime of violence) who is serving a term of imprisonment of more than one year, other than a term of imprisonment for the duration of the prisoner's life, shall receive credit toward the service of the prisoner's sentence, beyond the time served, of fifty-four days at the end of each year of the prisoner's term of imprisonment, beginning at the end of the first year of the term, unless the Bureau of Prisons determines that, during thatyear, the prisoner has not satisfactorily complied with such institutional disciplinary regulations as have been approved by the Attorney General and issued to the prisoner."
 
 Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(1)(B)\], in second sentence substituted "Subject to paragraph (2), a prisoner" for "A prisoner", struck out "for a crime of violence," after "1 year", and struck out "such" after "compliance with".
 
@@ -133,6 +265,18 @@ Subsec. (f). Pub. L. 101–647, §2904, added subsec. (f).
 <b>1986</b>—Subsec. (b). Pub. L. 99–646, §16(a), substituted "beginning at the end of" for "beginning after".
 
 Subsec. (e). Pub. L. 99–646, §17(a), substituted "imprisonment and runs concurrently" for "imprisonment. The term runs concurrently" and "supervised released. A term of supervised release does not run" for "supervised release, except that it does not run", struck out ", other than during limited intervals as a condition of probation or supervised release," after "person is imprisoned", and inserted "unless the imprisonment is for a period of less than 30 consecutive days" before the period at end of third sentence.
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–391, title I, §102(b)(2), (3), Dec. 21, 2018, 132 Stat. 5213, provided that:
+
+"(2)
+
+Effective date.—The amendments made by this subsection \[amending this section\] shall take effect beginning on the date that the Attorney General completes and releases the risk and needs assessment system under subchapter D of chapter 229 of title 18, United States Code, as added by section 101(a) of this Act.
+
+"(3)
+
+Applicability.—The amendments made by this subsection shall apply with respect to offenses committed before, on, or after the date of enactment of this Act \[Dec. 21, 2018\], except that such amendments shall not apply with respect to offenses committed before November 1, 1987."
 
 #### Effective Date of 1990 Amendment
 

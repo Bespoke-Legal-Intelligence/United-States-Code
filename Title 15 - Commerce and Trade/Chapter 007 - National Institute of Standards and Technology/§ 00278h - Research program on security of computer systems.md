@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Director shall establish a program of assistance to institutions of higher education that enter into partnerships with for-profit entities to support research to improve the security of computer systems. The partnerships may also include government laboratories and nonprofit research institutions. The program shall—
+The Director shall establish a program of assistance to institutions of higher education thatenter into partnerships with for-profit entities to support research to improve the security of computer systems. The partnerships may also include government laboratories and nonprofit research institutions. The program shall—
 
 &emsp;(1) include multidisciplinary, long-term research;
 
@@ -34,7 +34,7 @@ The Director shall establish a program of assistance to institutions of higher e
 
 #### (1) In general
 
-&emsp;The Director is authorized to award grants or cooperative agreements to institutions of higher education to carry out the program established under subsection (a). No funds madeavailable under this section shall be made available directly to any for-profit partners.
+&emsp;The Director is authorized to award grants or cooperative agreements to institutions of higher education to carry out the program established under subsection (a). No funds made available under this section shall be made available directly to any for-profit partners.
 
 #### (2) Eligibility
 
@@ -110,7 +110,7 @@ In this section:
 
 #### References in Text
 
-Section 278g–3 of this title, referred to in subsecs. (a)(2) and (f)(1), was amended generally by Pub. L.107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269, and, as so amended, did not contain a subsec. (d) defining "computer system" or a subsec. (f). A later amendment by Pub. L. 113–274, title II, §204(1), Dec. 18, 2014, 128 Stat. 2980, redesignated subsec. (e) of section 278g–3 of this title, relating to definitions, as subsec. (f).
+Section 278g–3 of this title, referred to in subsecs. (a)(2) and (f)(1), was amended generally by Pub. L. 107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269, and, as so amended, did not contain a subsec. (d) defining "computer system" or a subsec. (f). A later amendment by Pub. L. 113–274, title II, §204(1), Dec. 18, 2014, 128 Stat. 2980, redesignated subsec. (e) of section 278g–3 of this title, relating to definitions, as subsec. (f).
 
 The Intergovernmental Personnel Act of 1970, referred to in subsec. (d)(2), (4), is Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, as amended, which enacted sections 3371 to 3376 of Title 5, Government Organization and Employees, and chapter 62 (§4701 et seq.) of Title 42, The Public Health and Welfare, amended section 1304 of Title 5 and section 246 of Title 42, repealed sections 1881 to 1888 of Title 7, Agriculture, and section 869b of Title 20, Education, and enacted provisions set out as notes under section 3371 of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 42 and Tables.
 

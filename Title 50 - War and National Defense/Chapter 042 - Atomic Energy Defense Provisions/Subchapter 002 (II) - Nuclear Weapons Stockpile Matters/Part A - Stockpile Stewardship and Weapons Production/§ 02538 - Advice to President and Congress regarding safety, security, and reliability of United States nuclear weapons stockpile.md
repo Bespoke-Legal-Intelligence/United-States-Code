@@ -12,7 +12,7 @@
 
 #### (2) Nuclear weapons stockpile
 
-&emsp;It is in the security interest of the United States to sustain the United States nuclear weapons stockpile through a program of stockpile stewardship, carried out at the national security laboratories and nuclear weapons production facilities.
+&emsp;It is in the security interest of the United States to sustain the United States nuclearweapons stockpile through a program of stockpile stewardship, carried out at the national security laboratories and nuclear weapons production facilities.
 
 #### (3) Sense of Congress
 
@@ -56,7 +56,7 @@ In this section, the term "representative of the President" means the following:
 
 &emsp;(4) Any official of the Office of Management and Budget.
 
-(Pub. L. 107–314, div. D, title XLII, §4218, formerly Pub. L. 105–85, div. A, title XIII, §1305, Nov. 18, 1997, 111 Stat. 1952, renumbered Pub. L.107–314, div. D, title XLII, §4218, and amended Pub. L. 112–239, div. C, title XXXI, §3164(a), (b), Jan. 2, 2013, 126 Stat. 2206; Pub. L. 113–66, div. C, title XXXI, §3146(a)(2)(D), (c)(10), Dec. 26, 2013, 127 Stat. 1072, 1075; Pub. L. 113–291, div. C, title XXXI, §3142(e), Dec. 19, 2014, 128 Stat. 3900.)
+(Pub. L. 107–314, div. D, title XLII, §4218, formerly Pub. L. 105–85, div. A, title XIII, §1305, Nov. 18, 1997, 111 Stat. 1952, renumbered Pub. L. 107–314, div. D, title XLII, §4218, and amended Pub. L. 112–239, div. C, title XXXI, §3164(a), (b), Jan. 2, 2013, 126 Stat. 2206; Pub. L. 113–66, div. C, title XXXI, §3146(a)(2)(D), (c)(10), Dec. 26, 2013, 127 Stat. 1072, 1075; Pub. L. 113–291, div. C, title XXXI, §3142(e), Dec. 19, 2014, 128 Stat. 3900.)
 
 #### References in Text
 

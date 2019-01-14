@@ -12,7 +12,7 @@
 
 #### (3) Effective date
 
-&emsp;Any proposed bylaw or standard of the Association, and any proposed amendment to the bylaws or standards of the Association, shall take effect, after notice under paragraph (2)and opportunity for public comment, on such date as the Association may designate, unless suspended under section 6759(c) of this title.
+&emsp;Any proposed bylaw or standard of the Association, and any proposed amendment to the bylaws or standards of the Association, shall take effect, after notice under paragraph (2) and opportunity for public comment, on such date as the Association may designate, unless suspended under section 6759(c) of this title.
 
 #### (4) Rule of construction
 

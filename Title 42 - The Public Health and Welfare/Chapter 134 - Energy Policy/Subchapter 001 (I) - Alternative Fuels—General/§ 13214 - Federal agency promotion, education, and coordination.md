@@ -2,7 +2,7 @@
 
 #### (a) Promotion and education
 
-The Secretary, in cooperation with the Administrator of General Services, shall promote programs and educate officials and employees of Federal agencies on the merits of alternative fueled vehicles. The Secretary, in cooperation with the Administrator of General Services, shall provide and disseminate information to Federal agencies on—
+The Secretary, in cooperation with the Administrator of General Services, shall promote programs and educate officials and employees ofFederal agencies on the merits of alternative fueled vehicles. The Secretary, in cooperation with the Administrator of General Services, shall provide and disseminate information to Federal agencies on—
 
 &emsp;(1) the location of refueling and maintenance facilities available to alternative fueled vehicles in the Federal fleet;
 

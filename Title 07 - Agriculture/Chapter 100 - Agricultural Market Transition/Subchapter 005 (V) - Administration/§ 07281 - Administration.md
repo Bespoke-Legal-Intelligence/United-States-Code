@@ -28,7 +28,7 @@ For definition of "this chapter", referred to in text, see note set out under se
 
 #### Codification
 
-Section is comprised of section 161 of Pub. L. 104–127. Subsec. (b) of section 161 of Pub. L. 104–127 amended sections 714b, 714i, and 714k of Title 15, Commerce and Trade.
+Section is comprised of section 161 of Pub. L. 104–127. Subsec. (b) of section 161 of Pub. L. 104–127 amendedsections 714b, 714i, and 714k of Title 15, Commerce and Trade.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "known".</i>
 

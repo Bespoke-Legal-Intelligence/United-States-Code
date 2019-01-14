@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Under Secretary of Transportation for Security shall provide for the screening of all passengers and property, including United States mail, cargo, carry-on and checked baggage, and other articles, that will be carried aboard a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation. In the case of flights and flight segments originating in the United States, the screening shall take place before boarding and shall be carried out by a Federal Government employee (as defined in section 2105 of title 5, United States Code), except as otherwise provided in section 44919 or 44920 and except for identifying passengers and baggage for screening under the CAPPS and known shipper programs and conducting positive bag-match programs.
+In General.—The Administrator of the Transportation Security Administration shallprovide for the screening of all passengers and property, including United States mail, cargo, carry-on and checked baggage, and other articles, that will be carried aboard a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation. In the case of flights and flight segments originating in the United States, the screening shall take place before boarding and shall be carried out by a Federal Government employee (as defined in section 2105 of title 5), except as otherwise provided in section 44920 and except for identifying passengers and baggage for screening under the CAPPS and known shipper programs and conducting positive bag-match programs.
 
 (b)
 
@@ -10,7 +10,7 @@ Supervision of Screening.—All screening of passengers and property at airports
 
 (c)
 
-Checked Baggage.—A system must be in operation to screen all checked baggage at all airports in the United States as soon as practicable but not later than the 60th day following the date of enactment of the Aviation and Transportation Security Act.
+Checked Baggage.—A system must be in operation to screen all checked baggage at all airports in the United States as soon as practicable.
 
 (d)
 
@@ -18,9 +18,9 @@ Explosives Detection Systems.—
 
 &emsp;(1)
 
-In general.—The Under Secretary of Transportation for Security shall take all necessary action to ensure that—
+In general.—The Administrator of the Transportation Security Administration shall take all necessary action to ensure that—
 
-&emsp;&emsp;(A) explosives detection systems are deployed as soon as possible to ensure that all United States airports described in section 44903(c) have sufficient explosives detection systems to screen all checked baggage no later than December 31, 2002, and that as soon as such systems are in place at an airport, all checked baggage at the airport is screened by those systems; and
+&emsp;&emsp;(A) explosives detection systems are deployed as soon as possible to ensure that all United States airports described in section 44903(c) have sufficient explosives detection systems to screen all checked baggage, and that as soon as such systems are in place at an airport, all checked baggage at the airport is screened by those systems; and
 
 &emsp;&emsp;(B) all systems deployed under subparagraph (A) are fully utilized; and
 
@@ -28,53 +28,15 @@ In general.—The Under Secretary of Transportation for Security shall take all 
 
 &emsp;(2)
 
-Deadline.—
-
-&emsp;&emsp;(A)
-
-In general.—If, in his discretion or at the request of an airport, the Under Secretary of Transportation for Security determines that the Transportation Security Administration is not able to deploy explosives detection systems required to be deployed under paragraph (1) at all airports where explosives detection systems are required by December 31, 2002, then with respect to each airport for which the Under Secretary makes that determination—
-
-&emsp;&emsp;&emsp;(i) the Under Secretary shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure a detailed plan (which may be submitted in classified form) for the deployment of the number of explosives detection systems at that airport necessary to meet the requirements of paragraph (1) as soon as practicable at that airport but in no event later than December 31, 2003; and
-
-&emsp;&emsp;&emsp;(ii) the Under Secretary shall take all necessary action to ensure that alternative means of screening all checked baggage is implemented until the requirements of paragraph (1) have been met.
-
-&emsp;&emsp;(B)
-
-Criteria for determination.—In making a determination under subparagraph (A), the Under Secretary shall take into account—
-
-&emsp;&emsp;&emsp;(i) the nature and extent of the required modifications to the airport's terminal buildings, and the technical, engineering, design and construction issues;
-
-&emsp;&emsp;&emsp;(ii) the need to ensure that such installations and modifications are effective; and
-
-&emsp;&emsp;&emsp;(iii) the feasibility and cost-effectiveness of deploying explosives detection systems in the baggage sorting area or other non-public area rather than the lobby of an airport terminal building.
-
-&emsp;&emsp;(C)
-
-Response.—The Under Secretary shall respond to the request of an airport under subparagraph (A) within 14 days of receiving the request. A denial of request shall create no right of appeal or judicial review.
-
-&emsp;&emsp;(D)
-
-Airport effort required.—Each airport with respect to which the Under Secretary makes a determination under subparagraph (A) shall—
-
-&emsp;&emsp;&emsp;(i) cooperate fully with the Transportation Security Administration with respect to screening checked baggage and changes to accommodate explosives detection systems; and
-
-&emsp;&emsp;&emsp;(ii) make security projects a priority for the obligation or expenditure of funds made available under chapter 417 or 471 until explosives detection systems required to be deployed under paragraph (1) have been deployed at that airport.
-
-&emsp;(3)
-
-Reports.—Until the Transportation Security Administration has met the requirements of paragraph (1), the Under Secretary shall submit a classified report every 30 days after the date of enactment of this Act to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure describing the progress made toward meeting such requirements at each airport.
-
-&emsp;(4)
-
 Preclearance airports.—
 
 &emsp;&emsp;(A)
 
-In general.—For a flight or flight segment originating at an airport outside the United States and traveling to the United States with respect to which checked baggage has been screened in accordance with an aviation security preclearance agreement between the United States and the country in which such airport is located, the Assistant Secretary (Transportation Security Administration) may, in coordination with U.S. Customs and Border Protection, determine whether such baggage must be re-screened in the United States by an explosives detection system before such baggage continues on any additional flight or flight segment.
+In general.—For a flight or flight segment originating at an airport outside the United States and traveling to the United States with respect to which checked baggage has been screened in accordance with an aviation security preclearance agreement between the United States and the country in which such airport is located, the Administrator of the Transportation Security Administration may, in coordination with U.S. Customs and Border Protection, determine whether such baggage must be re-screened in the United States by an explosives detection system before such baggage continues on any additional flight or flight segment.
 
 &emsp;&emsp;(B)
 
-Aviation security preclearance agreement defined.—In this paragraph, the term "aviation security preclearance agreement" means an agreement that delineates and implements security standards and protocols that are determined by the Assistant Secretary, in coordination with U.S. Customs and Border Protection, to be comparable to those of the United States and therefore sufficiently effective to enable passengers to deplane into sterile areas of airports in the United States.
+Aviation security preclearance agreement defined.—In this paragraph, the term "aviation security preclearance agreement" means an agreement that delineates and implements security standards and protocols that are determined by the Administrator of the Transportation Security Administration, in coordination with U.S. Customs and Border Protection, to be comparable to those of the United States and therefore sufficiently effective to enable passengers to deplane into sterile areas of airports in the United States.
 
 &emsp;&emsp;(C)
 
@@ -82,15 +44,15 @@ Rescreening requirement.—If the Administrator of the Transportation Security A
 
 &emsp;&emsp;(D)
 
-Report.—The Assistant Secretary shall submit to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate an annual report on the re-screening of baggage under this paragraph. Each such report shall include the following for the year covered by the report:
+Report.—The Administrator of the Transportation Security Administration shall submit to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate an annual report on the re-screening of baggage under this paragraph. Each such report shall include the following for the year covered by the report:
 
-&emsp;&emsp;&emsp;(i) A list of airports outside the United States from which a flight or flight segment traveled to the United States for which the Assistant Secretary determined, in accordance with the authority under subparagraph (A), that checked baggage was not required to be re-screened in the United States by an explosives detection system before such baggage continued on an additional flight or flight segment.
+&emsp;&emsp;&emsp;(i) A list of airports outside the United States from which a flight or flight segment traveled to the United States for which the Administrator determined, in accordance with the authority under subparagraph (A), that checked baggage was not required to be re-screened in the United States by an explosives detection system before such baggage continued on an additional flight or flight segment.
 
 &emsp;&emsp;&emsp;(ii) The amount of Federal savings generated from the exercise of such authority.
 
 (e)
 
-Mandatory Screening Where EDS Not Yet Available.—As soon as practicable but not later than the 60th day following the date of enactment of the Aviation and Transportation Security Act and until the requirements of subsection (b)(1)(A) are met, the Under Secretary shall require alternative means for screening any piece of checked baggage that is not screened by an explosives detection system. Such alternative means may include 1 or more of the following:
+Mandatory Screening Where EDS Not Yet Available.—As soon as practicable and until the requirements of subsection (b)(1)(A) are met, the Administrator of the Transportation Security Administration shall require alternative means for screening any piece of checked baggage that is not screened by an explosives detection system. Such alternative means may include 1 or more of the following:
 
 &emsp;(1) A bag-match program that ensures that no checked baggage is placed aboard an aircraft unless the passenger who checked the baggage is aboard the aircraft.
 
@@ -98,11 +60,11 @@ Mandatory Screening Where EDS Not Yet Available.—As soon as practicable but no
 
 &emsp;(3) Search by canine explosives detection units in combination with other means.
 
-&emsp;(4) Other means or technology approved by the Under Secretary.
+&emsp;(4) Other means or technology approved by the Administrator.
 
 (f)
 
-Cargo Deadline.—A system must be in operation to screen, inspect, or otherwise ensure the security of all cargo that is to be transported in all-cargo aircraft in air transportation and intrastate air transportation as soon as practicable after the date of enactment of the Aviation and Transportation Security Act.
+Cargo Deadline.—A system must be in operation to screen, inspect, or otherwise ensure the security of all cargo that is to be transported in all-cargo aircraft in air transportation and intrastate air transportation as soon as practicable.
 
 (g)
 
@@ -110,45 +72,17 @@ Air Cargo on Passenger Aircraft.—
 
 &emsp;(1)
 
-In general.—Not later than 3 years after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the Secretary of Homeland Security shall establish a system to screen 100 percent of cargo transported on passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation to ensure the security of all such passenger aircraft carrying cargo.
+In general.—The Secretary of Homeland Security shall establish a system to screen 100 percent of cargo transported on passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation to ensure the security of all such passenger aircraft carrying cargo.
 
 &emsp;(2)
 
-Minimum standards.—The system referred to in paragraph (1) shall require, at a minimum, that equipment, technology, procedures, personnel, or other methods approved by the Administrator of the Transportation Security Administration, are used to screen cargo carried on passenger aircraft described in paragraph (1) to provide a level of security commensurate with the level of security for the screening of passenger checked baggage as follows:
-
-&emsp;&emsp;(A) 50 percent of such cargo is so screened not later than 18 months after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007.
-
-&emsp;&emsp;(B) 100 percent of such cargo is so screened not later than 3 years after such date of enactment.
+Minimum standards.—The system referred to in paragraph (1) shall require, at a minimum, that equipment, technology, procedures, personnel, or other methods approved by the Administrator of the Transportation Security Administration, are used to screen cargo carried on passenger aircraft described in paragraph (1) to provide a level of security commensurate with the level of security for the screening of passenger checked baggage.
 
 &emsp;(3)
 
-Regulations.—
-
-&emsp;&emsp;(A)
-
-Interim final rule.—The Secretary of Homeland Security may issue an interim final rule as a temporary regulation to implement this subsection without regard to the provisions of chapter 5 of title 5.
-
-&emsp;&emsp;(B)
-
-Final rule.—
-
-&emsp;&emsp;&emsp;(i)
-
-In general.—If the Secretary issues an interim final rule under subparagraph (A), the Secretary shall issue, not later than one year after the effective date of the interim final rule, a final rule as a permanent regulation to implement this subsection in accordance with the provisions of chapter 5 of title 5.
-
-&emsp;&emsp;&emsp;(ii)
-
-Failure to act.—If the Secretary does not issue a final rule in accordance with clause (i) on or before the last day of the one-year period referred to in clause (i), the Secretary shall submit to the Committee on Homeland Security of the House of Representatives, Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate a report explaining why the final rule was not timely issued and providing an estimate of the earliest date on which the final rule will be issued. The Secretary shall submit the first such report within 10 days after such last day and submit a report to the Committees containing updated information every 30 days thereafter until the final rule is issued.
-
-&emsp;&emsp;&emsp;(iii)
-
-Superceding <sup>1</sup> of interim final rule.—The final rule issued in accordance with this subparagraph shall supersede the interim final rule issued under subparagraph (A).
+Regulations.—The Secretary of Homeland Security shall issue a final rule as a permanent regulation to implement this subsection in accordance with the provisions of chapter 5 of title 5.
 
 &emsp;(4)
-
-Report.—Not later than 1 year after the date of establishment of the system under paragraph (1), the Secretary shall submit to the Committees referred to in paragraph (3)(B)(ii) a report that describes the system.
-
-&emsp;(5)
 
 Screening defined.—In this subsection the term "screening" means a physical examination or non-intrusive methods of assessing whether cargo poses a threat to transportation security. Methods of screening include x-ray systems, explosives detection systems, explosives trace detection, explosives detection canine teams certified by the Transportation Security Administration, or a physical search together with manifest verification. The Administrator may approve additional methods to ensure that the cargo does not pose a threat to transportation security and to assist in meeting the requirements of this subsection. Such additional cargo screening methods shall not include solely performing a review of information about the contents of cargo or verifying the identity of a shipper of the cargo that is not performed in conjunction with other security methods authorized under this subsection, including whether a known shipper is registered in the known shipper database. Such additional cargo screening methods may include a program to certify the security methods used by shippers pursuant to paragraphs (1) and (2) and alternative screening methods pursuant to exemptions referred to in subsection (b) of section 1602 of the Implementing Recommendations of the 9/11 Commission Act of 2007.
 
@@ -158,19 +92,19 @@ Deployment of Armed Personnel.—
 
 &emsp;(1)
 
-In general.—The Under Secretary shall order the deployment of law enforcement personnel authorized to carry firearms at each airport security screening location to ensure passenger safety and national security.
+In general.—The Administrator of the Transportation Security Administration shall order the deployment of law enforcement personnel authorized to carry firearms at each airport security screening location to ensure passenger safety and national security.
 
 &emsp;(2)
 
-Minimum requirements.—Except at airports required to enter into agreements under subsection (c), the Under Secretary shall order the deployment of at least 1 law enforcement officer at each airport security screening location. At the 100 largest airports in the United States, in terms of annual passenger enplanements for the most recent calendar year for which data are available, the Under Secretary shall order the deployment of additional law enforcement personnel at airport security screening locations if the Under Secretary determines that the additional deployment is necessary to ensure passenger safety and national security.
+Minimum requirements.—Except at airports required to enter into agreements under subsection (c), the Administrator of the Transportation Security Administration shall order the deployment of at least 1 law enforcement officer at each airport security screening location. At the 100 largest airports in the United States, in terms of annual passenger enplanements for the most recent calendar year for which data are available, the Administrator shall order the deployment of additional law enforcement personnel at airport security screening locations if the Administrator determines that the additional deployment is necessary to ensure passenger safety and national security.
 
 (i)
 
-Exemptions and Advising Congress on Regulations.—The Under Secretary—
+Exemptions and Advising Congress on Regulations.—The Administrator of the Transportation Security Administration—
 
 &emsp;(1) may exempt from this section air transportation operations, except scheduled passenger operations of an air carrier providing air transportation under a certificate issued under section 41102 of this title or a permit issued under section 41302 of this title; and
 
-&emsp;(2) shall advise Congress of a regulation to be prescribed under this section at least 30 days before the effective date of the regulation, unless the Under Secretary decides an emergency exists requiring the regulation to become effective in fewer than 30 days and notifies Congress of that decision.
+&emsp;(2) shall advise Congress of a regulation to be prescribed under this section at least 30 days before the effective date of the regulation, unless the Administrator decides an emergency exists requiring the regulation to become effective in fewer than 30 days and notifies Congress of that decision.
 
 (j)
 
@@ -178,9 +112,9 @@ Blast-Resistant Cargo Containers.—
 
 &emsp;(1)
 
-In general.—Before January 1, 2008, the Administrator of the Transportation Security Administration shall—
+In general.—The Administrator of the Transportation Security Administration shall—
 
-&emsp;&emsp;(A) evaluate the results of the blast-resistant cargo container pilot program that was initiated before the date of enactment of this subsection; and
+&emsp;&emsp;(A) evaluate the results of the blast-resistant cargo container pilot program that was initiated before August 3, 2007; and
 
 &emsp;&emsp;(B) prepare and distribute through the Aviation Security Advisory Committee to the appropriate Committees of Congress and air carriers a report on that evaluation which may contain nonclassified and classified sections.
 
@@ -204,19 +138,19 @@ General Aviation Airport Security Program.—
 
 &emsp;(1)
 
-In general.—Not later than one year after the date of enactment of this subsection, the Administrator of the Transportation Security Administration shall—
+In general.—The Administrator of the Transportation Security Administration shall—
 
-&emsp;&emsp;(A) develop a standardized threat and vulnerability assessment program for general aviation airports (as defined in section 47134(m)); and
+&emsp;&emsp;(A) develop a standardized threat and vulnerability assessment program for general aviation airports (as defined in section 47134(m)); <sup>1</sup> and
 
 &emsp;&emsp;(B) implement a program to perform such assessments on a risk-managed basis at general aviation airports.
 
 &emsp;(2)
 
-Grant program.—Not later than 6 months after the date of enactment of this subsection, the Administrator shall initiate and complete a study of the feasibility of a program, based on a risk-managed approach, to provide grants to operators of general aviation airports (as defined in section 47134(m)) for projects to upgrade security at such airports. If the Administrator determines that such a program is feasible, the Administrator shall establish such a program.
+Grant program.—The Administrator shall initiate and complete a study of the feasibility of a program, based on a risk-managed approach, to provide grants to operators of general aviation airports (as defined in section 47134(m)) <sup>1</sup> for projects to upgrade security at such airports. If the Administrator determines that such a program is feasible, the Administrator shall establish such a program.
 
 &emsp;(3)
 
-Application to general aviation aircraft.—Not later than 180 days after the date of enactment of this subsection, the Administrator shall develop a risk-based system under which—
+Application to general aviation aircraft.—The Administrator shall develop a risk-based system under which—
 
 &emsp;&emsp;(A) general aviation aircraft, as identified by the Administrator, in coordination with the Administrator of the Federal Aviation Administration, are required to submit passenger information and advance notification requirements for United States Customs and Border Protection before entering United States airspace; and
 
@@ -256,11 +190,11 @@ Automatic target recognition software.—The term "automatic target recognition 
 
 &emsp;(2)
 
-Use of advanced imaging technology.—Beginning June 1, 2012, the Assistant Secretary of Homeland Security (Transportation Security Administration) shall ensure that any advanced imaging technology used for the screening of passengers under this section—
+Use of advanced imaging technology.—The Administrator of the Transportation Security Administration shall ensure that any advanced imaging technology used for the screening of passengers under this section—
 
 &emsp;&emsp;(A) is equipped with and employs automatic target recognition software; and
 
-&emsp;&emsp;(B) complies with such other requirements as the Assistant Secretary determines necessary to address privacy considerations.
+&emsp;&emsp;(B) complies with such other requirements as the Administrator determines necessary to address privacy considerations.
 
 &emsp;(3)
 
@@ -268,7 +202,7 @@ Extension.—
 
 &emsp;&emsp;(A)
 
-In general.—The Assistant Secretary may extend the deadline specified in paragraph (2), if the Assistant Secretary determines that—
+In general.—The Administrator of the Transportation Security Administration may extend the deadline specified in paragraph (2), if the Administrator determines that—
 
 &emsp;&emsp;&emsp;(i) an advanced imaging technology equipped with automatic target recognition software is not substantially as effective at screening passengers as an advanced imaging technology without such software; or
 
@@ -276,7 +210,7 @@ In general.—The Assistant Secretary may extend the deadline specified in parag
 
 &emsp;&emsp;(B)
 
-Duration of extensions.—The Assistant Secretary may issue one or more extensions under subparagraph (A). The duration of each extension may not exceed one year.
+Duration of extensions.—The Administrator of the Transportation Security Administration may issue one or more extensions under subparagraph (A). The duration of each extension may not exceed one year.
 
 &emsp;(4)
 
@@ -284,13 +218,13 @@ Reports.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 60 days after the deadline specified in paragraph (2), and not later than 60 days after the date on which the Assistant Secretary issues any extension under paragraph (3), the Assistant Secretary shall submit to the appropriate congressional committees a report on the implementation of this subsection.
+In general.—Not later than 60 days after the date on which the Administrator of the Transportation Security Administration issues any extension under paragraph (3), the Administrator shall submit to the appropriate congressional committees a report on the implementation of this subsection.
 
 &emsp;&emsp;(B)
 
 Elements.—A report submitted under subparagraph (A) shall include the following:
 
-&emsp;&emsp;&emsp;(i) A description of all matters the Assistant Secretary considers relevant to the implementation of the requirements of this subsection.
+&emsp;&emsp;&emsp;(i) A description of all matters the Administrator of the Transportation Security Administration considers relevant to the implementation of the requirements of this subsection.
 
 &emsp;&emsp;&emsp;(ii) The status of compliance by the Transportation Security Administration with such requirements.
 
@@ -298,13 +232,13 @@ Elements.—A report submitted under subparagraph (A) shall include the followin
 
 &emsp;&emsp;&emsp;&emsp;(I) the reasons for the noncompliance; and
 
-&emsp;&emsp;&emsp;&emsp;(II) a timeline depicting when the Assistant Secretary expects the Administration to achieve full compliance.
+&emsp;&emsp;&emsp;&emsp;(II) a timeline depicting when the Administrator of the Transportation Security Administration expects the Administration to achieve full compliance.
 
 &emsp;&emsp;(C)
 
 Security classification.—To the greatest extent practicable, a report prepared under subparagraph (A) shall be submitted in an unclassified format. If necessary, the report may include a classified annex.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1204; Pub. L. 107–71, title I, §§101(f)(7), 110(b), Nov. 19, 2001, 115 Stat. 603, 614; Pub. L. 107–296, title IV, §425, Nov. 25, 2002, 116 Stat. 2185; Pub. L. 110–53, title XVI, §§1602(a), 1609, 1617, Aug. 3, 2007, 121 Stat. 477, 484, 488; Pub. L. 112–95, title VIII, §826, Feb. 14, 2012, 126 Stat. 132; Pub. L. 112–218, §2, Dec. 20, 2012, 126 Stat. 1593; Pub. L. 114–125, title VIII, §815, Feb. 24, 2016, 130 Stat. 220.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1204; Pub. L. 107–71, title I, §§101(f)(7), 110(b), Nov. 19, 2001, 115 Stat. 603, 614; Pub. L. 107–296, title IV, §425, Nov. 25, 2002, 116 Stat. 2185; Pub. L. 110–53, title XVI, §§1602(a), 1609, 1617, Aug. 3, 2007, 121 Stat. 477, 484, 488; Pub. L. 112–95, title VIII, §826, Feb. 14, 2012, 126 Stat. 132; Pub. L. 112–218, §2, Dec. 20, 2012, 126 Stat. 1593; Pub. L. 114–125, title VIII, §815, Feb. 24, 2016, 130 Stat. 220; Pub. L. 115–254, div. K, title I, §§1937(b)(3), 1991(d)(1), Oct. 5, 2018, 132 Stat. 3579, 3627.)
 
 Historical and Revision Notes
 
@@ -346,15 +280,79 @@ In subsection (c)(2), the words "or amendments thereto" and "or amendments" are 
 
 #### References in Text
 
-The date of enactment of the Aviation and Transportation Security Act, referred to in subsecs. (c), (e), and (f), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+Subsection (b) of section 1602 of the Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (g)(4), is section 1602(b) of Pub. L. 110–53, title XVI, Aug. 3, 2007, 121 Stat. 479, which is not classified to the Code.
 
-The date of enactment of this Act, referred to in subsec. (d)(3), probably means the date of enactment of Pub. L. 107–296, which enacted subsec. (d)(2), (3) of this section and was approved Nov. 25, 2002.
-
-The date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, such date of enactment, and the date of enactment of this subsection, referred to in subsecs. (g)(1), (2), (j)(1)(A), and (k)(1)–(3), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
-
-Subsection (b) of section 1602 of the Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (g)(5), is section 1602(b) of Pub. L. 110–53, title XVI, Aug. 3, 2007, 121 Stat. 479, which is not classified to the Code.
+Section 47134(m), referred to in subsec. (k)(1)(A), (2), is section 47134(m) of this title, which was repealed by Pub. L. 115–254, div. B, title I, §160(a)(6), Oct. 5, 2018, 132 Stat. 3221.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–254, §1991(d)(1)(A), substituted "Administrator of the Transportation Security Administration" for "Under Secretary of Transportation for Security" and struck out ", United States Code" after "title 5".
+
+Pub. L. 115–254, §1937(b)(3), struck out "44919 or" before "44920".
+
+Subsec. (c). Pub. L. 115–254, §1991(d)(1)(B), struck out "but not later than the 60th day following the date of enactment of the Aviation and Transportation Security Act" before period at end.
+
+Subsec. (d)(1). Pub. L. 115–254, §1991(d)(1)(C)(i)(I), substituted "Administrator of the Transportation Security Administration" for "Under Secretary of Transportation for Security" in introductory provisions.
+
+Subsec. (d)(1)(A). Pub. L. 115–254, §1991(d)(1)(C)(i)(II), struck out "no later than December 31, 2002" after "to screen all checked baggage".
+
+Subsec. (d)(2). Pub. L. 115–254, §1991(d)(1)(C)(ii), (iii), redesignated par. (4) as (2) and struck out former par. (2) which related to determination by the Under Secretary of Transportation for Security that the Transportation Security Administration would not be able to deploy required explosives detection systems at certain airports by Dec. 31, 2002.
+
+Subsec. (d)(2)(A). Pub. L. 115–254, §1991(d)(1)(C)(iv)(I), substituted "Administrator of the Transportation Security Administration" for "Assistant Secretary (Transportation Security Administration)".
+
+Subsec. (d)(2)(B). Pub. L. 115–254, §1991(d)(1)(C)(iv)(II), substituted "Administrator of the Transportation Security Administration" for "Assistant Secretary".
+
+Subsec. (d)(2)(D). Pub. L. 115–254, §1991(d)(1)(C)(iv)(III), in introductory provisions, substituted "Administrator of the Transportation Security Administration" for "Assistant Secretary" and, in cl. (i), substituted "Administrator" for "Assistant Secretary".
+
+Subsec. (d)(3), (4). Pub. L. 115–254, §1991(d)(1)(C)(ii), (iii), struck out par. (3) and redesignated par. (4) as (2). Prior to amendment, text of par. (3) read as follows: "Until the Transportation Security Administration has met the requirements of paragraph (1), the Under Secretary shall submit a classified report every 30 days after the date of enactment of this Act to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure describing the progress made toward meeting such requirements at each airport."
+
+Subsec. (e). Pub. L. 115–254, §1991(d)(1)(D)(i), in introductory provisions, struck out "but not later than the 60th day following the date of enactment of the Aviation and Transportation Security Act" after "practicable" and substituted "Administrator of the Transportation Security Administration" for "Under Secretary".
+
+Subsec. (e)(4). Pub. L. 115–254, §1991(d)(1)(D)(ii), substituted "Administrator" for "Under Secretary".
+
+Subsec. (f). Pub. L. 115–254, §1991(d)(1)(E), struck out "after the date of enactment of the Aviation and Transportation Security Act" before period at end.
+
+Subsec. (g)(1). Pub. L. 115–254, §1991(d)(1)(F)(i), substituted "The" for "Not later than 3 years after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the".
+
+Subsec. (g)(2). Pub. L. 115–254, §1991(d)(1)(F)(ii), substituted "baggage." for "baggage as follows:
+
+&emsp;"(A) 50 percent of such cargo is so screened not later than 18 months after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007.
+
+&emsp;"(B) 100 percent of such cargo is so screened not later than 3 years after such date of enactment."
+
+Subsec. (g)(3). Pub. L. 115–254, §1991(d)(1)(F)(iii), amended par. (3) generally. Prior to amendment, par. (3) related to the issuance by the Secretary of Homeland Security of an interim final rule and a final rule implementing subsec. (g).
+
+Subsec. (g)(4), (5). Pub. L. 115–254, §1991(d)(1)(F)(iv), (v), redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "Not later than 1 year after the date of establishment of the system under paragraph (1), the Secretary shall submit to the Committees referred to in paragraph (3)(B)(ii) a report that describes the system."
+
+Subsec. (h)(1). Pub. L. 115–254, §1991(d)(1)(G)(i), substituted "Administrator of the Transportation Security Administration" for "Under Secretary".
+
+Subsec. (h)(2). Pub. L. 115–254, §1991(d)(1)(G)(ii), substituted "Administrator of the Transportation Security Administration" for "Under Secretary" in first sentence, and "Administrator" for "Under Secretary" in two places in second sentence.
+
+Subsec. (i). Pub. L. 115–254, §1991(d)(1)(H)(i), substituted "Administrator of the Transportation Security Administration" for "Under Secretary" in introductory provisions.
+
+Subsec. (i)(2). Pub. L. 115–254, §1991(d)(1)(H)(ii), substituted "Administrator" for "Under Secretary".
+
+Subsec. (j)(1). Pub. L. 115–254, §1991(d)(1)(I)(i), substituted "The" for "Before January 1, 2008, the" in introductory provisions.
+
+Subsec. (j)(1)(A). Pub. L. 115–254, §1991(d)(1)(I)(ii), substituted "August 3, 2007" for "the date of enactment of this subsection".
+
+Subsec. (k)(1). Pub. L. 115–254, §1991(d)(1)(J)(i), substituted "The" for "Not later than one year after the date of enactment of this subsection, the" in introductory provisions.
+
+Subsec. (k)(2). Pub. L. 115–254, §1991(d)(1)(J)(ii), substituted "The" for "Not later than 6 months after the date of enactment of this subsection, the".
+
+Subsec. (k)(3). Pub. L. 115–254, §1991(d)(1)(J)(iii), substituted "The" for "Not later than 180 days after the date of enactment of this subsection, the" in introductory provisions.
+
+Subsec. (l)(2). Pub. L. 115–254, §1991(d)(1)(K)(i)(I), substituted "The Administrator of the Transportation Security Administration" for "Beginning June 1, 2012, the Assistant Secretary of Homeland Security (Transportation Security Administration)" in introductory provisions.
+
+Subsec. (l)(2)(B). Pub. L. 115–254, §1991(d)(1)(K)(i)(II), substituted "Administrator" for "Assistant Secretary".
+
+Subsec. (l)(3)(A). Pub. L. 115–254, §1991(d)(1)(K)(ii)(I), substituted "Administrator of the Transportation Security Administration may extend" for "Assistant Secretary may extend" and "Administrator determines" for "Assistant Secretary determines" in introductory provisions.
+
+Subsec. (l)(3)(B). Pub. L. 115–254, §1991(d)(1)(K)(ii)(II), substituted "Administrator of the Transportation Security Administration" for "Assistant Secretary".
+
+Subsec. (l)(4)(A). Pub. L. 115–254, §1991(d)(1)(K)(iii)(I), struck out "60 days after the deadline specified in paragraph (2), and not later than" after "Not later than" and substituted "Administrator of the Transportation Security Administration issues" for "Assistant Secretary issues" and "Administrator shall" for "Assistant Secretary shall".
+
+Subsec. (l)(4)(B)(i), (iii)(II). Pub. L. 115–254, §1991(d)(1)(K)(iii)(II), substituted "Administrator of the Transportation Security Administration" for "Assistant Secretary".
 
 <b>2016</b>—Subsec. (d)(4)(C), (D). Pub. L. 114–125 added subpar. (C) and redesignated former subpar. (C) as (D).
 
@@ -404,7 +402,7 @@ Legal Documents.—All orders, determinations, rules, regulations, permits, gran
 
 &emsp;"(1) that have been issued, made, granted, or allowed to become effective by the Federal Aviation Administration, any officer or employee thereof, or any other Government official, or by a court of competent jurisdiction, in the performance of any function that is transferred by this Act; and
 
-&emsp;"(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date), shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Under Secretary of Transportation for Security, any other authorized official, a court of competent jurisdiction, or operation of law.
+&emsp;"(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date), shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Under Secretary of Transportation for Security \[now Administrator of the Transportation Security Administration\], any other authorized official, a court of competent jurisdiction, or operation of law.
 
 "(c)
 
@@ -450,17 +448,13 @@ Exercise of Authorities.—Except as otherwise provided by law, an officer or em
 
 Act Defined.—In this section, the term 'Act' includes the amendments made by this Act."
 
-#### Transfer of Functions
-
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
 #### Transition Provisions
 
 Pub. L. 107–71, title I, §101(g), Nov. 19, 2001, 115 Stat. 603, provided that:
 
 "(1)
 
-Schedule for assumption of civil aviation security functions.—Not later than 3 months after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Security shall assume civil aviation security functions and responsibilities under chapter 449 of title 49, United States Code, as amended by this Act, in accordance with a schedule to be developed by the Secretary of Transportation, in consultation with air carriers, foreign air carriers, and the Administrator of the Federal Aviation Administration. The Under Secretary shall publish an appropriate notice of the transfer of such security functions and responsibilities before assuming the functions and responsibilities.
+Schedule for assumption of civil aviation security functions.—Not later than 3 months after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Security \[now Administrator of the Transportation Security Administration\] shall assume civil aviation security functions and responsibilities under chapter 449 of title 49, United States Code, as amended by this Act, in accordance with a schedule to be developed by the Secretary of Transportation, in consultation with air carriers, foreign air carriers, and the Administrator of the Federal Aviation Administration. The Under Secretary shall publish an appropriate notice of the transfer of such security functions and responsibilities before assuming the functions and responsibilities.
 
 "(2)
 
@@ -486,6 +480,426 @@ Transfer of ownership.—In recognition of the assumption of the financial costs
 
 Performance of under secretary's functions during interim period.—Until the Under Secretary takes office, the functions of the Under Secretary that relate to aviation security may be carried out by the Secretary or the Secretary's designee."
 
+#### Reciprocal Recognition of Security Standards
+
+Pub. L. 115–254, div. K, title I, §1914, Oct. 5, 2018, 132 Stat. 3555, provided that:
+
+"(a)
+
+In General.—The Administrator \[of the Transportation Security Administration\], in coordination with appropriate international aviation security authorities, shall develop a validation process for the reciprocal recognition of security equipment technology approvals among international security partners or recognized certification authorities for deployment.
+
+"(b)
+
+Requirement.—The validation process shall ensure that the certification by each participating international security partner or recognized certification authority complies with detection, qualification, and information security, including cybersecurity, standards of the TSA \[Transportation Security Administration\], the Department of Homeland Security, and the National Institute of Standards and Technology."
+
+#### Real-Time Security Checkpoint Wait Times
+
+Pub. L. 115–254, div. K, title I, §1922, Oct. 5, 2018, 132 Stat. 3561, provided that:
+
+"(a)
+
+In General.—Not later than 18 months after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\] shall make available to the public information on wait times at each airport security checkpoint at which security screening operations are conducted or overseen by the TSA \[Transportation Security Administration\].
+
+"(b)
+
+Requirements.—The information described in subsection (a) shall be provided in real time via technology and published—
+
+&emsp;"(1) online; and
+
+&emsp;"(2) in physical locations at applicable airport terminals.
+
+"(c)
+
+Considerations.—The Administrator shall only make the information described in subsection (a) available to the public if it can do so in a manner that does not increase public area security risks.
+
+"(d)
+
+Definition of Wait Time.—In this section, the term 'wait time' means the period beginning when a passenger enters a queue for a screening checkpoint and ending when that passenger exits the checkpoint."
+
+#### Screening Technology Review and Performance Objectives
+
+Pub. L. 115–254, div. K, title I, §1924, Oct. 5, 2018, 132 Stat. 3562, provided that:
+
+"(a)
+
+Review of Technology Acquisitions Process.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\], in coordination with relevant officials of the Department \[of Homeland Security\], shall conduct a review of existing advanced transportation security screening technology testing and evaluation, acquisitions, and procurement practices within TSA \[Transportation Security Administration\].
+
+&emsp;"(2)
+
+Contents.—Such review shall include—
+
+&emsp;&emsp;"(A) identifying process delays and obstructions within the Department and the Administration regarding how such technology is identified, tested and evaluated, acquired, and deployed;
+
+&emsp;&emsp;"(B) assessing whether the TSA can better leverage existing resources or processes of the Department for the purposes of technology testing and evaluation;
+
+&emsp;&emsp;"(C) assessing whether the TSA can further encourage innovation and competition among technology stakeholders, including through increased participation of and funding for small business concerns (as such term is described under section 3 of the Small Business Act (15 U.S.C. 632));
+
+&emsp;&emsp;"(D) identifying best practices of other Department components or United States Government entities; and
+
+&emsp;&emsp;"(E) a plan to address any problems or challenges identified by such review.
+
+"(b)
+
+Briefing.—The Administrator shall provide to the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] a briefing on the findings of the review required under this section and a plan to address any problems or challenges identified by such review.
+
+"(c)
+
+Acquisitions and Procurement Enhancement.—Incorporating the results of the review in subsection (a), the Administrator shall—
+
+&emsp;"(1) engage in outreach, coordination, and collaboration with transportation stakeholders to identify and foster innovation of new advanced transportation security screening technologies;
+
+&emsp;"(2) streamline the overall technology development, testing, evaluation, acquisitions, procurement, and deployment processes of the Administration; and
+
+&emsp;"(3) ensure the effectiveness and efficiency of such processes.
+
+"(d)
+
+Assessment.—The Secretary \[of Homeland Security\], in consultation with the Chief Privacy Officer of the Department, shall submit to the appropriate committees of Congress a compliance assessment of the TSA acquisition process relating to the health and safety risks associated with implementation of screening technologies.
+
+"(e)
+
+Performance Objectives.—The Administrator shall establish performance objectives for the testing and verification of security technology, including testing and verification conducted by appropriate third parties under section 1911 \[49 U.S.C. 114 note\], to ensure that progress is made, at a minimum, toward—
+
+&emsp;"(1) reducing time for each phase of testing while maintaining security (including testing for detection testing, operational testing, testing and verification framework, and field testing);
+
+&emsp;"(2) eliminating testing and verification delays; and
+
+&emsp;"(3) increasing accountability.
+
+"(f)
+
+Tracking.—
+
+&emsp;"(1)
+
+In general.—In carrying out subsection (e), the Administrator shall establish and continually track performance metrics for each type of security technology submitted for testing and verification, including testing and verification conducted by appropriate third parties under section 1911.
+
+&emsp;"(2)
+
+Measuring progress toward goals.—The Administrator shall use the metrics established and tracked under paragraph (1) to generate data on an ongoing basis and to measure progress toward the achievement of the performance objectives established under subsection (e).
+
+&emsp;"(3)
+
+Report required.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 2 years after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator shall submit to the appropriate committees of Congress a report assessing the extent to which the performance objectives established under subsection (e), as measured by the performance metrics established and tracked under paragraph (1) of this subsection, have been met.
+
+&emsp;&emsp;"(B)
+
+Elements.—The report required by subparagraph (A) shall include—
+
+&emsp;&emsp;&emsp;"(i) a list of the performance metrics established under paragraph (1), including the length of time for each phase of testing and verification for each type of security technology; and
+
+&emsp;&emsp;&emsp;"(ii) a comparison of the progress achieved for testing and verification of security technology conducted by the TSA and the testing and verification of security technology conducted by third parties.
+
+&emsp;&emsp;"(C)
+
+Proprietary information.—The report required by subparagraph (A) shall—
+
+&emsp;&emsp;&emsp;"(i) not include identifying information regarding an individual or entity or equipment; and
+
+&emsp;&emsp;&emsp;"(ii) protect proprietary information.
+
+"(g)
+
+Information Technology Security.—Not later than 90 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator shall submit to the appropriate committees of Congress a plan to conduct recurring reviews of the operational, technical, and management security controls for Administration information technology systems at airports."
+
+#### Computed Tomography Pilot Programs
+
+Pub. L. 115–254, div. K, title I, §1925, Oct. 5, 2018, 132 Stat. 3563, provided that:
+
+"(a)
+
+In General.—Not later than 90 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\] shall carry out a pilot program to test the use of screening equipment using computed tomography technology to screen baggage at passenger screening checkpoints at airports.
+
+"(b)
+
+Feasibility Study.—
+
+&emsp;"(1)
+
+In general.—Not later than 120 days after the date of enactment of this Act, the Administrator, in coordination with the Under Secretary for Science and Technology of the Department \[of Homeland Security\], shall submit to the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] a feasibility study regarding expanding the use of computed tomography technology for the screening of air cargo transported on passenger aircraft operated by an air carrier or foreign air carrier in air transportation, interstate air transportation, or interstate air commerce.
+
+&emsp;"(2)
+
+Considerations.—In conducting the feasibility study under paragraph (1), the Administrator shall consider the following:
+
+&emsp;&emsp;"(A) Opportunities to leverage computed tomography systems used for screening passengers and baggage.
+
+&emsp;&emsp;"(B) Costs and benefits of using computed tomography technology for screening air cargo.
+
+&emsp;&emsp;"(C) An analysis of emerging computed tomography systems that may have potential to enhance the screening of air cargo, including systems that may address aperture challenges associated with screening certain categories of air cargo.
+
+&emsp;&emsp;"(D) An analysis of emerging screening technologies, in addition to computed tomography, that may be used to enhance the screening of air cargo.
+
+"(c)
+
+Pilot Program.—Not later than 120 days after the date the feasibility study is submitted under subsection (b), the Administrator shall initiate a 2-year pilot program to achieve enhanced air cargo security screening outcomes through the use of new or emerging screening technologies, such as computed tomography technology, as identified through such study.
+
+"(d)
+
+Updates.—Not later than 60 days after the date the pilot program under subsection (c) is initiated, and biannually thereafter for 2 years, the Administrator shall brief the appropriate committees of Congress on the progress of implementation of such pilot program.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Air carrier.—The term 'air carrier' has the meaning given the term in section 40102 of title 49, United States Code.
+
+&emsp;"(2)
+
+Air transportation.—The term 'air transportation' has the meaning given the term in section 40102 of title 49, United States Code.
+
+&emsp;"(3)
+
+Foreign air carrier.—The term 'foreign air carrier' has the meaning given the term in section 40102 of title 49, United States Code.
+
+&emsp;"(4)
+
+Interstate air commerce.—The term 'interstate air commerce' has the meaning given the term in section 40102 of title 49, United States Code.
+
+&emsp;"(5)
+
+Interstate air transportation.—The term 'interstate air transportation' has the meaning given the term in section 40102 of title 49, United States Code."
+
+#### Screening Performance Assessments
+
+Pub. L. 115–254, div. K, title I, §1947, Oct. 5, 2018, 132 Stat. 3587, provided that: "Subject to part 1520 of title 49, Code of Federal Regulations, the Administrator \[of the Transportation Security Administration\] shall quarterly make available to the airport director of an airport—
+
+&emsp;"(1) an assessment of the screening performance of that airport compared to the mean average performance of all airports in the equivalent airport category for screening performance data; and
+
+&emsp;"(2) a briefing on the results of performance data reports, including—
+
+&emsp;&emsp;"(A) a scorecard of objective metrics developed by the Office of Security Operations to measure screening performance, such as results of annual proficiency reviews and covert testing, at the appropriate level of classification; and
+
+&emsp;&emsp;"(B) other performance data, including—
+
+&emsp;&emsp;&emsp;"(i) passenger throughput;
+
+&emsp;&emsp;&emsp;"(ii) wait times; and
+
+&emsp;&emsp;&emsp;"(iii) employee attrition, absenteeism, injury rates, and any other human capital measures collected by the TSA \[Transportation Security Administration\]."
+
+#### Improvements for Screening of Passengers With Disabilities
+
+Pub. L. 115–254, div. K, title I, §1950, Oct. 5, 2018, 132 Stat. 3589, provided that:
+
+"(a)
+
+Revised Training.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\], in consultation with nationally-recognized veterans and disability organizations, shall revise the training requirements for Transportation Security Officers related to the screening of passengers with disabilities, including passengers with disabilities who participate in the PreCheck program.
+
+&emsp;"(2)
+
+Training specifications.—In revising the training requirements under paragraph (1), the Administrator shall address the proper screening, and any particular sensitivities related to the screening, of a passenger with a disability—
+
+&emsp;&emsp;"(A) traveling with a medical device, including an indwelling medical device;
+
+&emsp;&emsp;"(B) traveling with a prosthetic;
+
+&emsp;&emsp;"(C) traveling with a wheelchair, walker, scooter, or other mobility device;
+
+&emsp;&emsp;"(D) traveling with a service animal; or
+
+&emsp;&emsp;"(E) with sensitivities to touch, pressure, sound, or hypersensitivity to stimuli in the environment.
+
+&emsp;"(3)
+
+Training frequency.—The Administrator shall implement the revised training under paragraph (1) during initial and recurrent training of all Transportation Security Officers.
+
+"(b)
+
+Best Practices.—The individual at the TSA \[Transportation Security Administration\] responsible for civil rights, liberties, and traveler engagement shall—
+
+&emsp;"(1) record each complaint from a passenger with a disability regarding the screening practice of the TSA;
+
+&emsp;"(2) identify the most frequent concerns raised, or accommodations requested, in the complaints;
+
+&emsp;"(3) determine the best practices for addressing the concerns and requests identified in paragraph (2); and
+
+&emsp;"(4) recommend appropriate training based on such best practices.
+
+"(c)
+
+Signage.—At each category X airport, the TSA shall place signage at each security checkpoint that—
+
+&emsp;"(1) specifies how to contact the appropriate TSA employee at the airport designated to address complaints of screening mistreatment based on disability; and
+
+&emsp;"(2) describes how to receive assistance from that individual or other qualified personnel at the security screening checkpoint.
+
+"(d)
+
+Reports to Congress.—Not later than September 30 of the first full fiscal year after the date of enactment of this Act \[Oct. 5, 2018\], and each fiscal year thereafter, the Administrator shall submit to the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] a report on the checkpoint experiences of passengers with disabilities, including the following:
+
+&emsp;"(1) The number and most frequent types of disability-related complaints received.
+
+&emsp;"(2) The best practices recommended under subsection (b) to address the top areas of concern.
+
+&emsp;"(3) The estimated wait times for assist requests for passengers with disabilities, including disabled passengers who participate in the PreCheck program."
+
+#### Air Cargo Advance Screening Program
+
+Pub. L. 115–254, div. K, title I, §1951, Oct. 5, 2018, 132 Stat. 3590, provided that:
+
+"(a)
+
+In General.—The Commissioner of U.S. Customs and Border Protection and the Administrator \[of the Transportation Security Administration\], consistent with the requirements of the Trade Act of 2002 (Public Law 107–210)\[,\] shall—
+
+&emsp;"(1) establish an air cargo advance screening program (referred to in this section as the 'ACAS Program') for the collection of advance electronic information from air carriers and other persons within the supply chain regarding cargo being transported to the United States by air;
+
+&emsp;"(2) under such program, require that such information be transmitted by such air carriers and other persons at the earliest point practicable prior to loading of such cargo onto an aircraft destined to or transiting through the United States;
+
+&emsp;"(3) establish appropriate communications systems with freight forwarders, shippers, and air carriers;
+
+&emsp;"(4) establish a system that will allow freight forwarders, shippers, and air carriers to provide shipment level data for air cargo, departing from any location that is inbound to the United States; and
+
+&emsp;"(5) identify opportunities in which the information furnished in compliance with the ACAS Program could be used by the Administrator.
+
+"(b)
+
+Inspection of High-risk Cargo.—Under the ACAS Program, the Commissioner of U.S. Customs and Border Protection and the Administrator shall ensure that all cargo that has been identified as high-risk is inspected—
+
+&emsp;"(1) prior to the loading of such cargo onto aircraft at the last point of departure; or
+
+&emsp;"(2) at an earlier point in the supply chain, before departing for the United States.
+
+"(c)
+
+Consultation.—In carrying out the ACAS Program, the Commissioner of U.S. Customs and Border Protection and the Administrator shall consult with relevant stakeholders, as appropriate, to ensure that an operationally feasible and practical approach to—
+
+&emsp;"(1) the collection of advance information with respect to cargo on aircraft departing for the United States is applied; and
+
+&emsp;"(2) the inspection of high-risk cargo recognizes the significant differences among air cargo business models and modes of transportation.
+
+"(d)
+
+Analysis.—The Commissioner of U.S. Customs and Border Protection and the Administrator may analyze the information described in subsection (a) in the Department of Homeland Security's automated targeting system and integrate such information with other intelligence to enhance the accuracy of the risk assessment process under the ACAS Program.
+
+"(e)
+
+No Duplication.—The Commissioner of U.S. Customs and Border Protection and the Administrator shall carry out this section in a manner that, after the ACAS Program is fully in effect, ensures, to the greatest extent practicable, that the ACAS Program does not duplicate other Department \[of Homeland Security\] programs or requirements relating to the submission of air cargo data or the inspection of high-risk cargo.
+
+"(f)
+
+Consideration of Industry.—In carrying out the ACAS Program, the Commissioner of U.S. Customs and Border Protection and the Administrator shall—
+
+&emsp;"(1) consider the content and timeliness of the available data may vary among entities in the air cargo industry and among countries;
+
+&emsp;"(2) explore procedures to accommodate the variations described in paragraph (1) while maximizing the contribution of such data to the risk assessment process under the ACAS Program;
+
+&emsp;"(3) test the business processes, technologies, and operational procedures required to provide advance information with respect to cargo on aircraft departing for the United States and carry out related inspection of high-risk cargo, while ensuring delays and other negative impacts on vital supply chains are minimized; and
+
+&emsp;"(4) consider the cost, benefit, and feasibility before establishing any set time period for submission of certain elements of the data for air cargo under this section in line with the regulatory guidelines specified in Executive Order 13563 \[5 U.S.C. 601 note\] or any successor Executive order or regulation.
+
+"(g)
+
+Guidance.—The Commissioner of U.S. Customs and Border Protection and the Administrator shall provide guidance for participants in the ACAS Program regarding the requirements for participation, including requirements for transmitting shipment level data.
+
+"(h)
+
+Use of Data.—The Commissioner of U.S. Customs and Border Protection and the Administrator shall use the data provided under the ACAS Program for targeting shipments for screening and aviation security purposes only.
+
+"(i)
+
+Final Rule.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Commissioner of U.S. Customs and Border Protection, in coordination with the Administrator, shall issue a final regulation to implement the ACAS Program to include the electronic transmission to U.S. Customs and Border Protection of data elements for targeting cargo, including appropriate security elements of shipment level data.
+
+"(j)
+
+Report.—Not later than 180 days after the date of the commencement of the ACAS Program, the Commissioner of U.S. Customs and Border Protection and the Administrator shall submit to the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] a report detailing the operational implementation of providing advance information under the ACAS Program and the value of such information in targeting cargo."
+
+#### Raising International Standards
+
+Pub. L. 115–254, div. K, title I, §1955(c), Oct. 5, 2018, 132 Stat. 3596, provided that: "Not later than 90 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\] shall collaborate with other aviation authorities and the United States Ambassador or the Charge d'Affaires to the United States Mission to the International Civil Aviation Organization, as applicable, to advance a global standard for each international airport to document and track the removal and disposal of any security screening equipment to ensure the screening equipment does not come into the possession of terrorists or otherwise pose a risk to security."
+
+#### International Security Standards
+
+Pub. L. 115–254, div. K, title I, §1956, Oct. 5, 2018, 132 Stat. 3596, provided that:
+
+"(a)
+
+Global Aviation Security Review.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\], in coordination with the Commissioner of the U.S. Customs and Border Protection, the Director of the Office of International Engagement of the Department of Homeland Security, and the Secretary of State, shall conduct a global aviation security review to improve aviation security standards, including standards intended to mitigate cybersecurity threats, across the global aviation system.
+
+&emsp;"(2)
+
+Best practices.—The global aviation security review shall establish best practices regarding the following:
+
+&emsp;&emsp;"(A) Collaborating with foreign partners to improve global aviation security capabilities and standards.
+
+&emsp;&emsp;"(B) Identifying foreign partners that—
+
+&emsp;&emsp;&emsp;"(i) have not successfully implemented security protocols from the International Civil Aviation Organization or the Department of Homeland Security; and
+
+&emsp;&emsp;&emsp;"(ii) have not taken steps to implement such security protocols;\[.\]
+
+&emsp;&emsp;"(C) Improving the development, outreach, and implementation process for security directives or emergency amendments issued to domestic and foreign air carriers.
+
+&emsp;&emsp;"(D) Assessing the cybersecurity risk of security screening equipment.
+
+"(b)
+
+Notification.—Not later than 90 days after the date of enactment of this Act, the Administrator, in consultation with the United States Ambassador to the International Civil Aviation Organization, shall notify the Committee on Commerce, Science, and Transportation and the Committee on Foreign Relations of the Senate, and the Committee on Homeland Security and the Committee on Foreign Affairs of the House of Representatives of the progress of the review under subsection (a) and any proposed international improvements to aviation security.
+
+"(c)
+
+ICAO.—Subject to subsection (a), the Administrator and Ambassador shall take such action at the International Civil Aviation Organization as the Administrator and Ambassador consider necessary to advance aviation security improvement proposals, including if practicable, introducing a resolution to raise minimum standards for aviation security.
+
+"(d)
+
+Briefings to Congress.—Beginning not later than 180 days after the date of enactment of this Act, and periodically thereafter, the Administrator, in consultation with the Ambassador with respect to subsection (c), shall brief the Committee on Commerce, Science, and Transportation and the Committee on Foreign Relations of the Senate, and the Committee on Homeland Security and the Committee on Foreign Affairs of the House of Representatives on the implementation of subsections (a) and (b)."
+
+#### Carriage of Weapons, Explosives, and Incendiaries by Individuals
+
+Pub. L. 115–254, div. K, title I, §1962, Oct. 5, 2018, 132 Stat. 3601, provided that:
+
+"(a)
+
+Interpretive Rule.—Subject to subsections (b) and (c), the Administrator \[of the Transportation Security Administration\] shall periodically review and amend, as necessary, the interpretive rule (68 Fed. Reg. 7444) that provides guidance to the public on the types of property considered to be weapons, explosives, and incendiaries prohibited under section 1540.111 of title 49, Code of Federal Regulations.
+
+"(b)
+
+Considerations.—Before determining whether to amend the interpretive rule to include or remove an item from the prohibited list, the Administrator shall—
+
+&emsp;"(1) research and evaluate—
+
+&emsp;&emsp;"(A) the impact, if any, the amendment would have on security risks;
+
+&emsp;&emsp;"(B) the impact, if any, the amendment would have on screening operations, including effectiveness and efficiency; and
+
+&emsp;&emsp;"(C) whether the amendment is consistent with international standards and guidance, including of the International Civil Aviation Organization; and
+
+&emsp;"(2) consult with appropriate aviation security stakeholders, including ASAC \[Aviation Security Advisory Committee\].
+
+"(c)
+
+Exceptions.—Except for plastic or round bladed butter knives, the Administrator may not amend the interpretive rule described in subsection (a) to authorize any knife to be permitted in an airport sterile area or in the cabin of an aircraft.
+
+"(d)
+
+Notification.—The Administrator shall—
+
+&emsp;"(1) publish in the Federal Register any amendment to the interpretive rule described in subsection (a); and
+
+&emsp;"(2) notify the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] of the amendment not later than 3 days before publication under paragraph (1)."
+
+#### Consideration of Privacy and Civil Liberties
+
+Pub. L. 115–141, div. F, title V, §521, Mar. 23, 2018, 132 Stat. 628, provided that: "Hereafter, in developing any process to screen aviation passengers and crews for transportation or national security purposes, the Secretary of Homeland Security shall ensure that all such processes take into consideration such passengers' and crews' privacy and civil liberties consistent with applicable laws, regulations, and guidance."
+
 #### Bottles and Breastfeeding Equipment Screening
 
 Pub. L. 114–293, Dec. 16, 2016, 130 Stat. 1503, provided that:
@@ -498,13 +912,13 @@ Pub. L. 114–293, Dec. 16, 2016, 130 Stat. 1503, provided that:
 
 "Not later than 90 days after the date of the enactment of this Act \[Dec. 16, 2016\], the Administrator of the Transportation Security Administration shall—
 
-&emsp;"(1) notify air carriers and security screening personnel of the Transportation Security Administration and personnel of private security companies providing security screening pursuant to section 44920 of title 49, United States Code, of such Administration'sguidelines regarding permitting baby formula, breast milk, purified deionized water for infants, and juice on airplanes under the Administration's guidelines known as the 3–1–1 Liquids Rule Exemption; and
+&emsp;"(1) notify air carriers and security screening personnel of the Transportation Security Administration and personnel of private security companies providing security screening pursuant to section 44920 of title 49, United States Code, of such Administration's guidelines regarding permitting baby formula, breast milk, purified deionized water for infants, and juice on airplanes under the Administration's guidelines known as the 3–1–1 Liquids Rule Exemption; and
 
 &emsp;"(2) in training procedures for security screening personnel of the Administration and private security companies providing security screening pursuant to section 44920 of title 49, United States Code, include training on special screening procedures."
 
 #### Aviation Security
 
-Pub. L. 114–190, title III, §§3001–3506, July 15, 2016, 130 Stat. 649–664, provided that:
+Pub. L. 114–190, title III, §§3001–3506, July 15, 2016, 130 Stat. 649–664, as amended by Pub. L. 115–254, div. K, title I, §§1937(b)(1), 1955(b), Oct. 5, 2018, 132 Stat. 3579, 3596, provided that:
 
 #### "SEC. 3001. SHORT TITLE.
 
@@ -530,77 +944,9 @@ Precheck program.—The term 'PreCheck Program' means the trusted traveler progr
 
 TSA.—The term 'TSA' means the Transportation Security Administration.
 
-#### "Subtitle A—TSA PreCheck Expansion
+#### "\[Subtitle A—TSA PreCheck Expansion\]
 
-#### "SEC. 3101. PRECHECK PROGRAM AUTHORIZATION.
-
-"The Administrator shall continue to administer the PreCheck Program.
-
-#### "SEC. 3102. PRECHECK PROGRAM ENROLLMENT EXPANSION.
-
-"(a)
-
-In General.—Not later than 90 days after the date of enactment of this Act \[July 15, 2016\], the Administrator shall publish PreCheck Program enrollment standards that add multiple private sector application capabilities for the PreCheck Program to increase the public's enrollment access to the program, including standards that allow the use of secure technologies, including online enrollment, kiosks, tablets, or staffed laptop stations at which individuals can apply for entry into the program.
-
-"(b)
-
-Requirements.—Upon publication of the PreCheck Program enrollment standards under subsection (a), the Administrator shall—
-
-&emsp;"(1) coordinate with interested parties—
-
-&emsp;&emsp;"(A) to deploy TSA-approved ready-to-market private sector solutions that meet the PreCheck Program enrollment standards under such subsection;
-
-&emsp;&emsp;"(B) to make available additional PreCheck Program enrollment capabilities; and
-
-&emsp;&emsp;"(C) to offer secure online and mobile enrollment opportunities;
-
-&emsp;"(2) partner with the private sector to collect biographic and biometric identification information via kiosks, mobile devices, or other mobile enrollment platforms to increase enrollment flexibility and minimize the amount of travel to enrollment centers for applicants;
-
-&emsp;"(3) ensure that any information, including biographic information, is collected in a manner that—
-
-&emsp;&emsp;"(A) is comparable with the appropriate and applicable standards developed by the National Institute of Standards and Technology; and
-
-&emsp;&emsp;"(B) protects privacy and data security, including that any personally identifiable information is collected, retained, used, and shared in a manner consistent with section 552a of title 5, United States Code (commonly known as 'Privacy Act of 1974'), and with agency regulations;
-
-&emsp;"(4) ensure that the enrollment process is streamlined and flexible to allow an individual to provide additional information to complete enrollment and verify identity;
-
-&emsp;"(5) ensure that any enrollment expansion using a private sector risk assessment instead of a fingerprint-based criminal history records check is evaluated and certified by the Secretary of Homeland Security, and verified by the Government Accountability Office or a federally funded research and development center after award to be equivalent to a fingerprint-based criminal history records check conducted through the Federal Bureau of Investigation with respect to the effectiveness of identifying individuals who are not qualified to participate in the PreCheck Program due to disqualifying criminal history; and
-
-&emsp;"(6) ensure that the Secretary has certified that reasonable procedures are in place with regard to the accuracy, relevancy, and proper utilization of information employed in private sector risk assessments.
-
-"(c)
-
-Marketing of PreCheck Program.—Upon publication of PreCheck Program enrollment standards under subsection (a), the Administrator shall—
-
-&emsp;"(1) in accordance with such standards, develop and implement—
-
-&emsp;&emsp;"(A) a continual process, including an associated timeframe, for approving private sector marketing of the PreCheck Program; and
-
-&emsp;&emsp;"(B) a long-term strategy for partnering with the private sector to encourage enrollment in such program;
-
-&emsp;"(2) submit to Congress, at the end of each fiscal year, a report on any PreCheck Program application fees collected in excess of the costs of administering the program, including to assess the feasibility of the program, for such fiscal year, and recommendations for using such fees to support marketing of the program.
-
-"(d)
-
-Identity Verification Enhancement.—Not later than 120 days after the date of enactment of this Act, the Administrator shall—
-
-&emsp;"(1) coordinate with the heads of appropriate components of the Department to leverage Department-held data and technologies to verify the citizenship of individuals enrolling in the PreCheck Program;
-
-&emsp;"(2) partner with the private sector to use biometrics and authentication standards, such as relevant standards developed by the National Institute of Standards and Technology, to facilitate enrollment in the program; and
-
-&emsp;"(3) consider leveraging the existing resources and abilities of airports to conduct fingerprint and background checks to expedite identity verification.
-
-"(e)
-
-PreCheck Program Lanes Operation.—The Administrator shall—
-
-&emsp;"(1) ensure that PreCheck Program screening lanes are open and available during peak and high-volume travel times at appropriate airports to individuals enrolled in the PreCheck Program; and
-
-&emsp;"(2) make every practicable effort to provide expedited screening at standard screening lanes during times when PreCheck Program screening lanes are closed to individuals enrolled in the program in order to maintain operational efficiency.
-
-"(f)
-
-Vetting for PreCheck Program Participants.—Not later than 90 days after the date of enactment of this Act, the Administrator shall initiate an assessment to identify any security vulnerabilities in the vetting process for the PreCheck Program, including determining whether subjecting PreCheck Program participants to recurrent fingerprint-based criminal history records checks, in addition to recurrent checks against the terrorist watchlist, could be done in a cost-effective manner to strengthen the security of the PreCheck Program.
+#### "\[SECS. 3101, 3102. Repealed. Pub. L. 115–254, div. K, title I, §1937(b)(1), Oct. 5, 2018, 132 Stat. 3579.\]
 
 #### "Subtitle B—Securing Aviation From Foreign Entry Points and Guarding Airports Through Enhanced Security
 
@@ -646,25 +992,7 @@ GAO Review.—Not later than 180 days after the submission of the plan required 
 
 "Not later than 270 days after the date of enactment of this Act \[July 15, 2016\], the Administrator shall submit to Congress a comprehensive workforce assessment of all TSA personnel within the Office of Global Strategies of the TSA or whose primary professional duties contribute to the TSA's global efforts to secure transportation security, including a review of whether such personnel are assigned in a risk-based, intelligence-driven manner.
 
-#### "SEC. 3204. DONATION OF SCREENING EQUIPMENT TO PROTECT THE UNITED STATES.
-
-"(a)
-
-In General.—The Administrator is authorized to donate security screening equipment to a foreign last point of departure airport operator if such equipment can be reasonably expected to mitigate a specific vulnerability to the security of the United States or United States citizens.
-
-"(b)
-
-Report.—Not later than 30 days before any donation of security screening equipment pursuant to subsection (a), the Administrator shall provide to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate a detailed written explanation of the following:
-
-&emsp;"(1) The specific vulnerability to the United States or United States citizens that will be mitigated by such donation.
-
-&emsp;"(2) An explanation as to why the recipient of such donation is unable or unwilling to purchase security screening equipment to mitigate such vulnerability.
-
-&emsp;"(3) An evacuation plan for sensitive technologies in case of emergency or instability in the country to which such donation is being made.
-
-&emsp;"(4) How the Administrator will ensure the security screening equipment that is being donated is used and maintained over the course of its life by the recipient.
-
-&emsp;"(5) The total dollar value of such donation.
+#### "\[SEC. 3204. Repealed. Pub. L. 115–254, div. K, title I, §1955(b), Oct. 5, 2018, 132 Stat. 3596.\]
 
 #### "SEC. 3205. NATIONAL CARGO SECURITY PROGRAM.
 
@@ -1166,7 +1494,7 @@ Considerations.—In making recommendations to improve existing passenger screen
 
 "(c)
 
-Report.—Not later than one year after the date of enactment of this Act \[July 15, 2016\], the Administrator shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the Aviation Security Advisory Committee review under this section, including any recommendations for improving passenger screening processes.
+Report.—Not later than one year after the date of enactment of this Act \[July 15, 2016\], the Administrator shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the Aviation Security Advisory Committee reviewunder this section, including any recommendations for improving passenger screening processes.
 
 #### "SEC. 3502. PILOT PROGRAM FOR INCREASED EFFICIENCY AND SECURITY AT CATEGORY X AIRPORTS.
 
@@ -1496,11 +1824,11 @@ Pub. L. 107–71, title I, §110(c), Nov. 19, 2001, 115 Stat. 616, provided that
 
 "(1)
 
-In general.—Not later than 1 year after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Security shall deploy at all airports in the United States where screening is required under section 44901 of title 49, United States Code, a sufficient number of Federal screeners, Federal Security Managers, Federal security personnel, and Federal law enforcement officers to conduct the screening of all passengers and property under section 44901 of such title at such airports.
+In general.—Not later than 1 year after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Security \[now Administrator of the Transportation Security Administration\] shall deploy at all airports in the United States where screening is required under section 44901 of title 49, United States Code, a sufficient number of Federal screeners, Federal Security Managers, Federal security personnel, and Federal law enforcement officers to conduct the screening of all passengers and property under section 44901 of such title at such airports.
 
 "(2)
 
-Certification to congress.—Not later than 1 year after the date of enactment of this Act, the Under Secretary shall transmit to Congress a certification that the requirement of paragraph (1) has been met."
+Certification to congress.—Not later than 1 year after the date of enactment of this Act, the UnderSecretary shall transmit to Congress a certification that the requirement of paragraph (1) has been met."
 
 #### Reports
 
@@ -1508,7 +1836,7 @@ Pub. L. 107–71, title I, §110(d), Nov. 19, 2001, 115 Stat. 616, provided that
 
 "(1)
 
-Deployment.—Within 6 months after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Security shall report to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Transportation and Infrastructure of the House of Representatives on the deployment of the systems required by section 44901(c) of title 49, United States Code. The Under Secretary shall include in the report—
+Deployment.—Within 6 months after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Security \[now Administrator of the Transportation Security Administration\] shall report to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Transportation and Infrastructure of the House of Representatives on the deployment of the systems required by section 44901(c) of title 49, United States Code. The Under Secretary shall include in the report—
 
 &emsp;"(A) an installation schedule;
 
@@ -1518,7 +1846,7 @@ Deployment.—Within 6 months after the date of enactment of this Act \[Nov. 19,
 
 "(2)
 
-Screening of small aircraft.—Within 1 year after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Security shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives on the screening requirements applicable to passengers boarding, and property being carried aboard, aircraft with 60 seats or less used in scheduled passenger service with recommendations for any necessary changes in those requirements."
+Screening of small aircraft.—Within 1 year after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Security \[now Administrator of the Transportation Security Administration\] shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives on the screening requirements applicable to passengers boarding, and property being carried aboard, aircraft with 60 seats or less used in scheduled passenger service with recommendations for any necessary changes in those requirements."
 
 #### Installation of Advanced Security Equipment; Agreements
 
@@ -1534,7 +1862,7 @@ Pub. L. 104–264, title III, §308, Oct. 9, 1996, 110 Stat. 3253, which provide
 
 #### Installation and Use of Explosive Detection Equipment
 
-Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 110, provided in part that: "Not later than thirty days after the date of the enactment of this Act \[June 30, 1989\], the Federal Aviation Administrator shall initiate action,including such rulemaking or other actions as necessary, to require the use of explosive detection equipment that meets minimum performance standards requiring application of technology equivalent to or better than thermal neutron analysis technology at such airports (whether located within or outside the United States) as the Administrator determines that the installation and use of such equipment is necessary to ensure the safety of air commerce. The Administrator shall complete these actions within sixty days of enactment of this Act".
+Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 110, provided in part that: "Not later than thirty days after the date of the enactment of this Act \[June 30, 1989\], the Federal Aviation Administrator shall initiate action, including such rulemaking or other actions as necessary, to require the use of explosive detection equipment that meets minimum performance standards requiring application of technology equivalent to or better than thermal neutron analysis technology at such airports (whether located within or outside the United States) as the Administrator determines that the installation and use of such equipment is necessary to ensure the safety of air commerce. The Administrator shall complete these actions within sixty days of enactment of this Act".
 
 #### Research and Development of Improved Airport Security Systems
 
@@ -1560,5 +1888,5 @@ Secure area of an airport.—The term 'secure area of an airport' means the ster
 
 For definitions of terms used in sections 101(g) and 110(c), (d), of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (ii) Additional funds
 
-&emsp;&emsp;&emsp;If, after the Secretary makes the reductions described in clause (i), additional funds become available to carry out this section for the fiscal year, the Secretary shall ratably increase the allotments, until the Secretary has allotted the entire base year amount.
+&emsp;&emsp;&emsp;If, after the Secretary makes the reductions described in clause (i), additional funds become available to carry out this section for the fiscal year, the Secretaryshall ratably increase the allotments, until the Secretary has allotted the entire base year amount.
 
 #### (C) Higher appropriation years
 
@@ -256,7 +256,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (B) Device reutilization programs
 
-&emsp;&emsp;The State shall directly, or in collaboration with public or private entities, carry out assistive technology device reutilization programs that provide for the exchange, repair, recycling, or other reutilization of assistive technology devices, which may include redistribution through device sales, loans, rentals, or donations.
+&emsp;&emsp;The State shall directly, or in collaboration with public or private entities, carryout assistive technology device reutilization programs that provide for the exchange, repair, recycling, or other reutilization of assistive technology devices, which may include redistribution through device sales, loans, rentals, or donations.
 
 #### (C) Device loan programs
 
@@ -284,7 +284,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The State shall directly, or provide support to public or private entities with demonstrated expertise in collaborating with public or private agencies that serve individuals with disabilities, to develop and disseminate training materials, conduct training, and provide technical assistance, for individuals from local settings statewide, including representatives of State and local educational agencies, other State and local agencies, early intervention programs,adult service programs, hospitals and other health care facilities, institutions of higher education, and businesses.
+&emsp;&emsp;&emsp;&emsp;The State shall directly, or provide support to public or private entities with demonstrated expertise in collaborating with public or private agencies that serve individuals with disabilities, to develop and disseminate training materials, conduct training, and provide technical assistance, for individuals from local settings statewide, including representatives of State and local educational agencies, other State and local agencies, early intervention programs, adult service programs, hospitals and other health care facilities, institutions of higher education, and businesses.
 
 #### (II) Authorized activities
 

@@ -40,7 +40,7 @@ There is authorized to be appropriated to the Secretaries to carry out this sect
 
 &emsp;(3) For activities conducted through the Office of Insular Affairs, not more than $3,000,000 for each of the fiscal years 2006 through 2010.
 
-&emsp;(4) For activities conducted through the Fish and Wildlife Service, not more than $2,000,000 for each of the fiscal years 2006 through 2010.
+&emsp;(4) For activities conducted through the Fish and Wildlife Service, not more than$2,000,000 for each of the fiscal years 2006 through 2010.
 
 &emsp;(5) For activities conducted through the United States Geological Survey, Biological Resources, not more than $1,500,000 for each of the fiscal years 2006 through 2010.
 

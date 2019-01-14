@@ -2,7 +2,7 @@
 
 #### (a) Powers of Secretary of the Treasury
 
-The Secretary of the Treasury shall establish and promulgate such rules and regulations not inconsistent with the law (including regulations establishing procedures for the issuance of binding rulings prior to the entry of the merchandise concerned), and may disseminate such information as may be necessary to secure a just, impartial, and uniform appraisement of imported merchandise and the classification and assessment of duties thereon at the various ports of entry. The Secretary may direct any customs officer to go from one port of entry to anotherfor the purpose of appraising or classifying or assisting in appraising or classifying merchandise imported at any port, and may direct any customs officer at any port to review entries of merchandise filed at any other port.
+The Secretary of the Treasury shall establish and promulgate such rules and regulations not inconsistent with the law (including regulations establishing procedures for the issuance of binding rulings prior to the entry of the merchandise concerned), and may disseminate such information as may be necessary to secure a just, impartial, and uniform appraisement of imported merchandise and the classification and assessment of duties thereon at the various ports of entry. The Secretary may direct any customs officer to go from one port of entry to another for the purpose of appraising or classifying or assisting in appraising or classifying merchandise imported at any port, and may direct any customs officer at any port to review entries of merchandise filed at any other port.
 
 #### (b) Duties of customs officers
 
@@ -16,7 +16,7 @@ It shall be the duty of all officers of the customs to execute and carry into ef
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §502, 42 Stat. 967. That section was superseded by section 502 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §502, 42Stat. 967. That section was superseded by section 502 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 A prior provision, authorizing the Secretary of the Treasury to direct appraisers for any collection district, to attend in any other collection district, was contained in R.S. §2947. Prior provisions requiring the Secretary to establish rules and regulations to secure a just, faithful, and impartial appraisal, just and proper entries, and to report such rules and regulations to the next session of Congress, were contained in R.S. §2949. Both of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
@@ -60,7 +60,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury under subsec. (a) of this section, insofar as subsec. (a) of this section provides authority to issue regulations and disseminate information and insofar as Secretary of the Treasury had responsibility under sections 1303 and 1671 et seq. of this title for functions transferred to Secretary of Commerce by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(F), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, to be exercised in consultation with Secretary of the Treasury.
+Functions of Secretary of the Treasury under subsec. (a) of this section, insofar as subsec. (a) of this section provides authority to issue regulations and disseminate information and insofar as Secretary of the Treasury had responsibility under sections 1303 and 1671 et seq. of this title for functions transferred to Secretary of Commerce by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(F), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, to be exercised in consultation with Secretary of the Treasury.
 
 Functions of Secretary of the Treasury under subsec. (b) of this section, with respect to functions transferred to Secretary of Commerce in section 1303 and 1671 et seq. of this title by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979, transferred to Secretary of Commerce pursuant to section 5(a)(1)(F) of Reorg. Plan No. 3 of 1979.
 

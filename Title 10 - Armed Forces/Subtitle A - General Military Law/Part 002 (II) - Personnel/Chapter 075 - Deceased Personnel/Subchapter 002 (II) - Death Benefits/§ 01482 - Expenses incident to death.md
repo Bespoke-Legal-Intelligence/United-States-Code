@@ -26,7 +26,7 @@
 
 (c) The following persons may be designated to direct disposition of the remains of a decedent covered by this chapter:
 
-&emsp;(1) The person identified by the decedent on the record of emergency data maintained bythe Secretary concerned (DD Form 93 or any successor to that form), as the Person Authorized to Direct Disposition (PADD), regardless of the relationship of the designee to the decedent.
+&emsp;(1) The person identified by the decedent on the record of emergency data maintained by the Secretary concerned (DD Form 93 or any successor to that form), as the Person Authorized to Direct Disposition (PADD), regardless of the relationship of the designee to the decedent.
 
 &emsp;(2) The surviving spouse of the decedent.
 
@@ -38,7 +38,7 @@
 
 (d) When the remains of a decedent covered by section 1481 of this title, whose death occurs after January 1, 1961, are determined to be nonrecoverable, the person who would have been designated under subsection (c) to direct disposition of the remains if they had been recovered may be—
 
-&emsp;(1) presented with a flag of the United States; however, if the person designated by subsection (c) is other than a parent of the deceased member, a flag of equal size may also be presented to the parents, and
+&emsp;(1) presented with a flag of the United States; however, if the person designated bysubsection (c) is other than a parent of the deceased member, a flag of equal size may also be presented to the parents, and
 
 &emsp;(2) reimbursed by the Secretary concerned for the necessary expenses of a memorial service.
 
@@ -82,7 +82,7 @@ Presentation of Flag of the United States.—(1) In the case of a decedent cover
 
 (4) The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available at the time of reimbursement for the payment of such expenses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 113; Pub. L. 85–716, Aug. 21, 1958, 72 Stat. 708; Pub. L. 91–397, Sept. 1, 1970, 84 Stat. 837; Pub. L. 91–487, Oct. 22, 1970, 84 Stat. 1086; Pub. L. 93–292, May 28, 1974, 88 Stat. 176; Pub. L. 93–649, Jan. 8, 1975, 88 Stat. 2361; Pub. L. 101–189, div. A, title VI, §§652(a)(3), 653(a)(6), title XVI, §1622(c)(4), Nov. 29, 1989, 103 Stat. 1461, 1462, 1604; Pub. L. 103–337, div. A, title VI, §652(a)(2), title XVI, §1671(c)(8), Oct. 5, 1994, 108 Stat. 2793, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(19), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–107, div. A, title VI, §638(b)(1), Dec. 28, 2001, 115 Stat. 1147; Pub. L. 110–181, div. A, title V, §591, Jan. 28, 2008, 122 Stat. 138; Pub. L. 110–417, \[div. A\], title V, §581, Oct. 14, 2008, 122 Stat. 4472; Pub. L. 112–81, div. A, title V, §528, Dec. 31, 2011, 125 Stat. 1402; Pub. L. 113–66, div. A, title VI, §§621(e), 651(a)(2)–(c), Dec. 26, 2013, 127 Stat. 784, 787, 788; Pub. L. 115–91, div. A, title VI, §632, Dec. 12, 2017, 131 Stat. 1431.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 113; Pub. L. 85–716, Aug. 21, 1958, 72 Stat. 708; Pub. L. 91–397, Sept. 1, 1970, 84 Stat. 837; Pub. L. 91–487, Oct. 22, 1970, 84 Stat. 1086; Pub. L. 93–292, May 28, 1974, 88 Stat. 176; Pub. L. 93–649, Jan. 8, 1975, 88 Stat. 2361; Pub. L. 101–189, div. A, title VI, §§652(a)(3), 653(a)(6), title XVI, §1622(c)(4), Nov. 29, 1989, 103 Stat. 1461, 1462, 1604; Pub. L. 103–337, div. A, title VI, §652(a)(2), title XVI, §1671(c)(8), Oct. 5, 1994, 108 Stat. 2793, 3014; Pub. L. 104–106, div. A, titleXV, §1501(c)(19), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–107, div. A, title VI, §638(b)(1), Dec. 28, 2001, 115 Stat. 1147; Pub. L. 110–181, div. A, title V, §591, Jan. 28, 2008, 122 Stat. 138; Pub. L. 110–417, \[div. A\], title V, §581, Oct. 14, 2008, 122 Stat. 4472; Pub. L. 112–81, div. A, title V, §528, Dec. 31, 2011, 125 Stat. 1402; Pub. L. 113–66, div. A, title VI, §§621(e), 651(a)(2)–(c), Dec. 26, 2013, 127 Stat. 784, 787, 788; Pub. L. 115–91, div. A, title VI, §632, Dec. 12, 2017, 131 Stat. 1431.)
 
 Historical and Revision Notes
 
@@ -186,7 +186,7 @@ Subsec. (e). Pub. L. 91–487 added subsec. (e).
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made bythat section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1994 Amendment
 
@@ -280,7 +280,7 @@ Duties.—Except to the extent that the person designated to direct disposition 
 
 &emsp;&emsp;&emsp;"(ii) meet the remains at the place to which transportation by air (or by rail or motor vehicle, if applicable) is made for the transfer of the remains;
 
-&emsp;&emsp;"(B) shall provide appropriate honors at the arrival of the remains referred to in subparagraph\(A)(ii) (unless airline or other security requirements do not permit such honors to be provided); and
+&emsp;&emsp;"(B) shall provide appropriate honors at the arrival of the remains referred to in subparagraph (A)(ii) (unless airline or other security requirements do not permit such honors to be provided); and
 
 &emsp;&emsp;"(C) shall participate in the transfer of the remains from an aircraft, when airport and airline security requirements permit, by carrying out the remains with a flag draped over the casket to a hearse or other form of ground transportation for travel to a funeral home or other place designated by the person designated to direct disposition of such remains.
 

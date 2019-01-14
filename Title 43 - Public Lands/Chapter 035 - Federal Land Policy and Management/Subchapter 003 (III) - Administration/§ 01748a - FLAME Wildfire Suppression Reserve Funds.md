@@ -82,7 +82,7 @@ The FLAME Funds shall be available to cover the costs of large or complex wildfi
 
 &emsp;&emsp;&emsp;(ii) the Secretary concerned should promptly make a supplemental request for additional funds to replenish the FLAME Fund if the Secretary determines that the FLAME Fund will be exhausted within 30 days; and
 
-&emsp;&emsp;&emsp;(iii) funding made available through the FLAME Fund should be used to supplement the funding otherwise appropriatedto the Secretary concerned for wildfire suppression and Federal emergency response in the Wildland Fire Management appropriation accounts.
+&emsp;&emsp;&emsp;(iii) funding made available through the FLAME Fund should be used to supplement the funding otherwise appropriated to the Secretary concerned for wildfire suppression and Federal emergency response in the Wildland Fire Management appropriation accounts.
 
 #### (3) Availability
 
@@ -106,7 +106,7 @@ The FLAME Funds shall be available to cover the costs of large or complex wildfi
 
 #### (A) In general
 
-&emsp;&emsp;Amounts in a FLAME Fund shall be available for transfer under paragraph (1) only after that Secretary concerned issues a declaration that a wildfire suppression event is eligible for funding from the FLAME Fund.
+&emsp;&emsp;Amounts in a FLAME Fund shall be available for transfer under paragraph (1) onlyafter that Secretary concerned issues a declaration that a wildfire suppression event is eligible for funding from the FLAME Fund.
 
 #### (B) Declaration criteria
 

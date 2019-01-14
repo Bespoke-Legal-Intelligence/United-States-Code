@@ -1,6 +1,6 @@
 ### §8468. Annuities and pay on reemployment
 
-(a) If an annuitant, except a disability annuitant whose annuity is terminated because of the annuitant's recovery or restoration of earning capacity, becomes employed in an appointive or elective position, an amount equal to the annuity allocable to the period of actual employment shall be deducted from the annuitant's pay, except for lump-sum leave payment purposes under section 5551. Unless the annuitant's appointment is on an intermittent basis or is to a position as a justice or judge (as defined by section 451 of title 28) or as an employee subject to another retirement system for Government employees, or unless the annuitant is serving as President, deductions for the Fund shall be withheld from the annuitant's pay under section 8422(a) and contributions under section 8423 shall be made. The deductions and contributions referred to in the preceding provisions of this subsection shall be deposited in the Treasury of the United States to the credit of the Fund. The annuitant's lump-sum credit may not be reduced by annuity paid during the reemployment.
+(a) If an annuitant, except a disability annuitant whose annuity is terminated because ofthe annuitant's recovery or restoration of earning capacity, becomes employed in an appointive or elective position, an amount equal to the annuity allocable to the period of actual employment shall be deducted from the annuitant's pay, except for lump-sum leave payment purposes under section 5551. Unless the annuitant's appointment is on an intermittent basis or is to a position as a justice or judge (as defined by section 451 of title 28) or as an employee subject to another retirement system for Government employees, or unless the annuitant is serving as President, deductions for the Fund shall be withheld from the annuitant's pay under section 8422(a) and contributions under section 8423 shall be made. The deductions and contributions referred to in the preceding provisions of this subsection shall be deposited in the Treasury of the United States to the credit of the Fund. The annuitant's lump-sum credit may not be reduced by annuity paid during the reemployment.
 
 (b)(1)(A) If an annuitant subject to deductions under the second sentence of subsection (a) serves on a full-time basis for at least 1 year, or on a part-time basis for periods equivalent to at least 1 year of full-time service, the annuitant's annuity on termination of reemployment shall be increased by an annuity computed under section 8415(a) through (i) as may apply based on the period of reemployment and the basic pay, before deduction, averaged during the reemployment.
 
@@ -22,7 +22,7 @@
 
 (f)(1) The Director of the Office of Personnel Management may, at the request of the head of an Executive agency—
 
-&emsp;(A) waive the application of the preceding provisions of this section on a case-by-casebasis for employees in positions for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
+&emsp;(A) waive the application of the preceding provisions of this section on a case-by-case basis for employees in positions for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
 
 &emsp;(B) grant authority to the head of such agency to waive the application of the preceding provisions of this section, on a case-by-case basis, for an employee serving on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances.
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 113–291 effective as of Oct. 28, 2014, see section 1107(c
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
+Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
 
 #### Effective Date of 1997 Amendment
 

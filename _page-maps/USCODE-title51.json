@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title51",
- "package": "USCODE-2017-title51",
+ "package": "USCODE-2018-title51",
  "pieces": [
   {
    "id": "51_",
@@ -13,21 +13,17 @@
      true
     ],
     [
-     "I",
-     226,
-     [
-      [
-       5,
-       "[Page 2]"
-      ]
-     ]
+     "L",
+     222,
+     "[Page 2]",
+     true
     ],
     [
      "I",
      1018,
      [
       [
-       5,
+       8,
        "[Page 3]"
       ]
      ]
@@ -62,23 +58,19 @@
    "marks": [
     [
      "I",
-     42,
+     44,
      [
       [
-       114,
+       300,
        "[Page 4]"
       ]
      ]
     ],
     [
-     "I",
-     190,
-     [
-      [
-       162,
-       "[Page 5]"
-      ]
-     ]
+     "L",
+     192,
+     "[Page 5]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - General/Chapter 101 - Definitions/§ 10101 - Definitions.md",
@@ -128,23 +120,27 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       123,
+       172,
        "[Page 6]"
       ]
      ]
     ],
     [
-     "L",
-     74,
-     "[Page 7]",
-     true
+     "I",
+     72,
+     [
+      [
+       639,
+       "[Page 7]"
+      ]
+     ]
     ],
     [
      "L",
-     154,
+     152,
      "[Page 8]",
      true
     ],
@@ -153,7 +149,7 @@
      234,
      [
       [
-       264,
+       108,
        "[Page 9]"
       ]
      ]
@@ -169,10 +165,14 @@
    "id": "51_20103",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 10]",
-     true
+     "I",
+     18,
+     [
+      [
+       129,
+       "[Page 10]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - General Program and Policy Provisions/Chapter 201 - National Aeronautics and Space Program/Subchapter 001 (I) - Short Title, Declaration of Policy, and Definitions/§ 20103 - Definitions.md",
@@ -195,23 +195,23 @@
    "marks": [
     [
      "L",
-     96,
+     88,
      "[Page 11]",
      true
     ],
     [
      "I",
-     202,
+     200,
      [
       [
-       107,
+       327,
        "[Page 12]"
       ]
      ]
     ],
     [
      "L",
-     296,
+     292,
      "[Page 13]",
      true
     ]
@@ -227,7 +227,7 @@
    "marks": [
     [
      "L",
-     30,
+     28,
      "[Page 14]",
      true
     ]
@@ -555,14 +555,10 @@
    "id": "51_20145",
    "marks": [
     [
-     "I",
-     92,
-     [
-      [
-       273,
-       "[Page 30]"
-      ]
-     ]
+     "L",
+     74,
+     "[Page 30]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - General Program and Policy Provisions/Chapter 201 - National Aeronautics and Space Program/Subchapter 003 (III) - General Administrative Provisions/§ 20145 - Lease of non-excess property.md",
@@ -593,16 +589,24 @@
    "id": "51_20148",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 31]",
-     true
+     "I",
+     4,
+     [
+      [
+       499,
+       "[Page 31]"
+      ]
+     ]
     ],
     [
-     "L",
-     162,
-     "[Page 32]",
-     true
+     "I",
+     128,
+     [
+      [
+       83,
+       "[Page 32]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - General Program and Policy Provisions/Chapter 201 - National Aeronautics and Space Program/Subchapter 003 (III) - General Administrative Provisions/§ 20148 - Indemnification; NASA launch services and reentry services.md",
@@ -615,10 +619,14 @@
    "id": "51_20149",
    "marks": [
     [
-     "L",
-     66,
-     "[Page 33]",
-     true
+     "I",
+     54,
+     [
+      [
+       83,
+       "[Page 33]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - General Program and Policy Provisions/Chapter 201 - National Aeronautics and Space Program/Subchapter 003 (III) - General Administrative Provisions/§ 20149 - Medical monitoring and research relating to human space flight.md",
@@ -665,11 +673,18 @@
   },
   {
    "id": "51_20164",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 34]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - General Program and Policy Provisions/Chapter 201 - National Aeronautics and Space Program/Subchapter 004 (IV) - Upper Atmosphere Research/§ 20164 - International cooperation.md",
    "printed_pages": [
     33,
-    33
+    34
    ]
   },
   {
@@ -677,44 +692,48 @@
    "marks": [],
    "path": "Subtitle 002 (II) - General Program and Policy Provisions/Chapter 203 - Responsibilities and Vision/README.md",
    "printed_pages": [
-    33,
-    33
+    34,
+    34
    ]
   },
   {
    "id": "51_20301",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 34]",
-     true
-    ],
-    [
      "I",
-     116,
+     96,
      [
       [
-       111,
+       107,
        "[Page 35]"
       ]
      ]
     ],
     [
      "I",
-     238,
+     216,
      [
       [
-       305,
+       141,
        "[Page 36]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     340,
+     [
+      [
+       164,
+       "[Page 37]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - General Program and Policy Provisions/Chapter 203 - Responsibilities and Vision/§ 20301 - General responsibilities.md",
    "printed_pages": [
-    33,
-    36
+    34,
+    37
    ]
   },
   {
@@ -722,26 +741,20 @@
    "marks": [
     [
      "I",
-     4,
+     78,
      [
       [
-       84,
-       "[Page 37]"
+       314,
+       "[Page 38]"
       ]
      ]
     ],
     [
-     "L",
-     106,
-     "[Page 38]",
-     true
-    ],
-    [
      "I",
-     194,
+     164,
      [
       [
-       135,
+       92,
        "[Page 39]"
       ]
      ]
@@ -749,32 +762,36 @@
    ],
    "path": "Subtitle 002 (II) - General Program and Policy Provisions/Chapter 203 - Responsibilities and Vision/§ 20302 - Vision for space exploration.md",
    "printed_pages": [
-    36,
+    37,
     39
    ]
   },
   {
    "id": "51_20303",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     82,
+     [
+      [
+       214,
+       "[Page 40]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - General Program and Policy Provisions/Chapter 203 - Responsibilities and Vision/§ 20303 - Contribution to innovation.md",
    "printed_pages": [
     39,
-    39
+    40
    ]
   },
   {
    "id": "51_20304",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 40]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - General Program and Policy Provisions/Chapter 203 - Responsibilities and Vision/§ 20304 - Basic research enhancement.md",
    "printed_pages": [
-    39,
+    40,
     40
    ]
   },
@@ -819,7 +836,7 @@
    "marks": [
     [
      "L",
-     70,
+     32,
      "[Page 41]",
      true
     ]
@@ -835,7 +852,7 @@
    "marks": [
     [
      "L",
-     124,
+     80,
      "[Page 42]",
      true
     ]
@@ -850,20 +867,20 @@
    "id": "51_30104",
    "marks": [
     [
-     "I",
-     58,
-     [
-      [
-       99,
-       "[Page 43]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 43]",
+     true
     ],
     [
-     "L",
-     142,
-     "[Page 44]",
-     true
+     "I",
+     116,
+     [
+      [
+       249,
+       "[Page 44]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 301 - Appropriations, Budgets, and Accounting/§ 30104 - Baselines and cost controls.md",
@@ -876,10 +893,14 @@
    "id": "51_-Subtitle_III-ch303",
    "marks": [
     [
-     "L",
-     109,
-     "[Page 45]",
-     true
+     "I",
+     73,
+     [
+      [
+       114,
+       "[Page 45]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 303 - Contracting and Procurement/README.md",
@@ -899,30 +920,26 @@
   },
   {
    "id": "51_30302",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 46]",
+     true
+    ]
+   ],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 303 - Contracting and Procurement/§ 30302 - Quality assurance personnel.md",
    "printed_pages": [
     45,
-    45
+    46
    ]
   },
   {
    "id": "51_30303",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       217,
-       "[Page 46]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 303 - Contracting and Procurement/§ 30303 - Tracking and data relay satellite services.md",
    "printed_pages": [
-    45,
+    46,
     46
    ]
   },
@@ -939,14 +956,10 @@
    "id": "51_30305",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       176,
-       "[Page 47]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 47]",
+     true
     ]
    ],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 303 - Contracting and Procurement/§ 30305 - Outreach program.md",
@@ -966,30 +979,26 @@
   },
   {
    "id": "51_30307",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 48]",
+     true
+    ]
+   ],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 303 - Contracting and Procurement/§ 30307 - Requirement for independent cost analysis.md",
    "printed_pages": [
     47,
-    47
+    48
    ]
   },
   {
    "id": "51_30308",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       124,
-       "[Page 48]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 303 - Contracting and Procurement/§ 30308 - Cost effectiveness calculations.md",
    "printed_pages": [
-    47,
+    48,
     48
    ]
   },
@@ -1004,94 +1013,87 @@
   },
   {
    "id": "51_30310",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     30,
+     [
+      [
+       107,
+       "[Page 49]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 303 - Contracting and Procurement/§ 30310 - Exception to alternative fuel procurement requirement.md",
    "printed_pages": [
     48,
-    48
+    49
    ]
   },
   {
    "id": "51_-Subtitle_III-ch305",
    "marks": [
     [
-     "I",
-     23,
-     [
-      [
-       214,
-       "[Page 49]"
-      ]
-     ]
-    ],
-    [
      "L",
-     103,
+     77,
      "[Page 50]",
      true
     ]
    ],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 305 - Management and Review/README.md",
    "printed_pages": [
-    48,
+    49,
     50
    ]
   },
   {
    "id": "51_30501",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 51]",
+     true
+    ]
+   ],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 305 - Management and Review/§ 30501 - Lessons learned and best practices.md",
    "printed_pages": [
     50,
-    50
+    51
    ]
   },
   {
    "id": "51_30502",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       350,
-       "[Page 51]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 305 - Management and Review/§ 30502 - Whistleblower protection.md",
    "printed_pages": [
-    50,
+    51,
     51
    ]
   },
   {
    "id": "51_30503",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 52]",
+     true
+    ]
+   ],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 305 - Management and Review/§ 30503 - Performance assessments.md",
    "printed_pages": [
     51,
-    51
+    52
    ]
   },
   {
    "id": "51_30504",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       82,
-       "[Page 52]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 305 - Management and Review/§ 30504 - Assessment of science mission extensions.md",
    "printed_pages": [
-    51,
+    52,
     52
    ]
   },
@@ -1109,19 +1111,23 @@
    "marks": [
     [
      "I",
-     42,
+     20,
      [
       [
-       102,
+       172,
        "[Page 53]"
       ]
      ]
     ],
     [
-     "L",
-     150,
-     "[Page 54]",
-     true
+     "I",
+     124,
+     [
+      [
+       339,
+       "[Page 54]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 307 - International Cooperation and Competition/§ 30701 - Competitiveness and international cooperation.md",
@@ -1159,11 +1165,22 @@
   },
   {
    "id": "51_-Subtitle_III-ch309",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     5,
+     [
+      [
+       51,
+       "[Page 55]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 309 - Awards/README.md",
    "printed_pages": [
     54,
-    54
+    55
    ]
   },
   {
@@ -1171,27 +1188,16 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 309 - Awards/§ 30901 - Congressional Space Medal of Honor.md",
    "printed_pages": [
-    54,
-    54
+    55,
+    55
    ]
   },
   {
    "id": "51_30902",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       78,
-       "[Page 55]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 309 - Awards/§ 30902 - Charles Pete Conrad Astronomy Awards.md",
    "printed_pages": [
-    54,
+    55,
     55
    ]
   },
@@ -1209,10 +1215,10 @@
    "marks": [
     [
      "I",
-     70,
+     40,
      [
       [
-       32,
+       198,
        "[Page 56]"
       ]
      ]
@@ -1228,20 +1234,20 @@
    "id": "51_31102",
    "marks": [
     [
-     "I",
-     56,
-     [
-      [
-       87,
-       "[Page 57]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 57]",
+     true
     ],
     [
-     "L",
-     152,
-     "[Page 58]",
-     true
+     "I",
+     132,
+     [
+      [
+       113,
+       "[Page 58]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 311 - Safety/§ 31102 - Drug and alcohol testing.md",
@@ -1300,10 +1306,10 @@
    "marks": [
     [
      "I",
-     68,
+     34,
      [
       [
-       108,
+       213,
        "[Page 59]"
       ]
      ]
@@ -1335,11 +1341,18 @@
   },
   {
    "id": "51_31505",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 60]",
+     true
+    ]
+   ],
    "path": "Subtitle 003 (III) - Administrative Provisions/Chapter 315 - Miscellaneous/§ 31505 - Development of enhanced-use lease policy.md",
    "printed_pages": [
     59,
-    59
+    60
    ]
   },
   {
@@ -1347,27 +1360,16 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/README.md",
    "printed_pages": [
-    59,
-    59
+    60,
+    60
    ]
   },
   {
    "id": "51_-Subtitle_IV-ch401",
-   "marks": [
-    [
-     "I",
-     7,
-     [
-      [
-       74,
-       "[Page 60]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 401 - Aeronautics/README.md",
    "printed_pages": [
-    59,
+    60,
     60
    ]
   },
@@ -1394,7 +1396,7 @@
    "marks": [
     [
      "L",
-     60,
+     40,
      "[Page 61]",
      true
     ]
@@ -1434,44 +1436,31 @@
   },
   {
    "id": "51_40111",
-   "marks": [],
-   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 401 - Aeronautics/Subchapter 002 (II) - High Priority Aeronautics Research and Development Programs/§ 40111 - Fundamental research program.md",
-   "printed_pages": [
-    61,
-    61
-   ]
-  },
-  {
-   "id": "51_40112",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       78,
-       "[Page 62]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 62]",
+     true
     ]
    ],
-   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 401 - Aeronautics/Subchapter 002 (II) - High Priority Aeronautics Research and Development Programs/§ 40112 - Research and technology programs.md",
+   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 401 - Aeronautics/Subchapter 002 (II) - High Priority Aeronautics Research and Development Programs/§ 40111 - Fundamental research program.md",
    "printed_pages": [
     61,
     62
    ]
   },
   {
-   "id": "51_40113",
+   "id": "51_40112",
    "marks": [],
-   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 401 - Aeronautics/Subchapter 002 (II) - High Priority Aeronautics Research and Development Programs/§ 40113 - Airspace systems research.md",
+   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 401 - Aeronautics/Subchapter 002 (II) - High Priority Aeronautics Research and Development Programs/§ 40112 - Research and technology programs.md",
    "printed_pages": [
     62,
     62
    ]
   },
   {
-   "id": "51_40114",
+   "id": "51_40113",
    "marks": [
     [
      "L",
@@ -1480,9 +1469,18 @@
      true
     ]
    ],
-   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 401 - Aeronautics/Subchapter 002 (II) - High Priority Aeronautics Research and Development Programs/§ 40114 - Aviation safety and security research.md",
+   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 401 - Aeronautics/Subchapter 002 (II) - High Priority Aeronautics Research and Development Programs/§ 40113 - Airspace systems research.md",
    "printed_pages": [
     62,
+    63
+   ]
+  },
+  {
+   "id": "51_40114",
+   "marks": [],
+   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 401 - Aeronautics/Subchapter 002 (II) - High Priority Aeronautics Research and Development Programs/§ 40114 - Aviation safety and security research.md",
+   "printed_pages": [
+    63,
     63
    ]
   },
@@ -1515,11 +1513,18 @@
   },
   {
    "id": "51_40131",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 64]",
+     true
+    ]
+   ],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 401 - Aeronautics/Subchapter 003 (III) - Scholarships/§ 40131 - Aeronautics scholarships.md",
    "printed_pages": [
     63,
-    63
+    64
    ]
   },
   {
@@ -1527,23 +1532,16 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 401 - Aeronautics/Subchapter 004 (IV) - Data Requests/README.md",
    "printed_pages": [
-    63,
-    63
+    64,
+    64
    ]
   },
   {
    "id": "51_40141",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 64]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 401 - Aeronautics/Subchapter 004 (IV) - Data Requests/§ 40141 - Aviation data requests.md",
    "printed_pages": [
-    63,
+    64,
     64
    ]
   },
@@ -1570,7 +1568,7 @@
    "marks": [
     [
      "L",
-     32,
+     4,
      "[Page 65]",
      true
     ]
@@ -1583,55 +1581,55 @@
   },
   {
    "id": "51_40303",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     38,
+     "[Page 66]",
+     true
+    ]
+   ],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 403 - National Space Grant College and Fellowship Program/§ 40303 - National space grant college and fellowship program.md",
    "printed_pages": [
     65,
-    65
+    66
    ]
   },
   {
    "id": "51_40304",
+   "marks": [],
+   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 403 - National Space Grant College and Fellowship Program/§ 40304 - Grants or contracts.md",
+   "printed_pages": [
+    66,
+    66
+   ]
+  },
+  {
+   "id": "51_40305",
    "marks": [
     [
      "I",
      4,
      [
       [
-       76,
-       "[Page 66]"
+       258,
+       "[Page 67]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 403 - National Space Grant College and Fellowship Program/§ 40304 - Grants or contracts.md",
-   "printed_pages": [
-    65,
-    66
-   ]
-  },
-  {
-   "id": "51_40305",
-   "marks": [],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 403 - National Space Grant College and Fellowship Program/§ 40305 - Specific national needs.md",
    "printed_pages": [
     66,
-    66
+    67
    ]
   },
   {
    "id": "51_40306",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 67]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 403 - National Space Grant College and Fellowship Program/§ 40306 - Space grant college and space grant regional consortium.md",
    "printed_pages": [
-    66,
+    67,
     67
    ]
   },
@@ -1648,14 +1646,10 @@
    "id": "51_40308",
    "marks": [
     [
-     "I",
-     30,
-     [
-      [
-       710,
-       "[Page 68]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 68]",
+     true
     ]
    ],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 403 - National Space Grant College and Fellowship Program/§ 40308 - Space grant review panel.md",
@@ -1684,11 +1678,18 @@
   },
   {
    "id": "51_40311",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 69]",
+     true
+    ]
+   ],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 403 - National Space Grant College and Fellowship Program/§ 40311 - Continuing emphasis.md",
    "printed_pages": [
     68,
-    68
+    69
    ]
   },
   {
@@ -1696,23 +1697,16 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 405 - Biomedical Research in Space/README.md",
    "printed_pages": [
-    68,
-    68
+    69,
+    69
    ]
   },
   {
    "id": "51_40501",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 69]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 405 - Biomedical Research in Space/§ 40501 - Biomedical research joint working group.md",
    "printed_pages": [
-    68,
+    69,
     69
    ]
   },
@@ -1736,11 +1730,18 @@
   },
   {
    "id": "51_40504",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 70]",
+     true
+    ]
+   ],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 405 - Biomedical Research in Space/§ 40504 - Establishment of electronic data archive.md",
    "printed_pages": [
     69,
-    69
+    70
    ]
   },
   {
@@ -1748,8 +1749,8 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 405 - Biomedical Research in Space/§ 40505 - Establishment of emergency medical service telemedicine capability.md",
    "printed_pages": [
-    69,
-    69
+    70,
+    70
    ]
   },
   {
@@ -1757,27 +1758,16 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 407 - Environmentally Friendly Aircraft/README.md",
    "printed_pages": [
-    69,
-    69
+    70,
+    70
    ]
   },
   {
    "id": "51_40701",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       81,
-       "[Page 70]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 407 - Environmentally Friendly Aircraft/§ 40701 - Research and development initiative.md",
    "printed_pages": [
-    69,
+    70,
     70
    ]
   },
@@ -1801,100 +1791,97 @@
   },
   {
    "id": "51_40704",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       84,
+       "[Page 71]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 407 - Environmentally Friendly Aircraft/§ 40704 - Research program on perceived impact of sonic booms.md",
    "printed_pages": [
     70,
-    70
+    71
    ]
   },
   {
    "id": "51_-Subtitle_IV-ch409",
    "marks": [
     [
-     "I",
-     11,
-     [
-      [
-       55,
-       "[Page 71]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     112,
-     [
-      [
-       100,
-       "[Page 72]"
-      ]
-     ]
+     "L",
+     76,
+     "[Page 72]",
+     true
     ],
     [
      "L",
-     202,
+     170,
      "[Page 73]",
      true
     ]
    ],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 409 - Miscellaneous/README.md",
    "printed_pages": [
-    70,
+    71,
     73
    ]
   },
   {
    "id": "51_40901",
-   "marks": [],
-   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 409 - Miscellaneous/§ 40901 - Science, Space, and Technology Education Trust Fund.md",
-   "printed_pages": [
-    73,
-    73
-   ]
-  },
-  {
-   "id": "51_40902",
    "marks": [
     [
      "L",
-     20,
+     28,
      "[Page 74]",
      true
     ]
    ],
-   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 409 - Miscellaneous/§ 40902 - National Aeronautics and Space Administration Endeavor Teacher Fellowship Trust Fund.md",
+   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 409 - Miscellaneous/§ 40901 - Science, Space, and Technology Education Trust Fund.md",
    "printed_pages": [
     73,
+    74
+   ]
+  },
+  {
+   "id": "51_40902",
+   "marks": [],
+   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 409 - Miscellaneous/§ 40902 - National Aeronautics and Space Administration Endeavor Teacher Fellowship Trust Fund.md",
+   "printed_pages": [
+    74,
     74
    ]
   },
   {
    "id": "51_40903",
-   "marks": [],
-   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 409 - Miscellaneous/§ 40903 - Experimental Program to Stimulate Competitive Research—merit grant competition requirements.md",
-   "printed_pages": [
-    74,
-    74
-   ]
-  },
-  {
-   "id": "51_40904",
    "marks": [
     [
      "I",
-     4,
+     72,
      [
       [
-       186,
+       104,
        "[Page 75]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 409 - Miscellaneous/§ 40904 - Microgravity research.md",
+   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 409 - Miscellaneous/§ 40903 - Experimental Program to Stimulate Competitive Research—merit grant competition requirements.md",
    "printed_pages": [
     74,
+    75
+   ]
+  },
+  {
+   "id": "51_40904",
+   "marks": [],
+   "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 409 - Miscellaneous/§ 40904 - Microgravity research.md",
+   "printed_pages": [
+    75,
     75
    ]
   },
@@ -1909,11 +1896,18 @@
   },
   {
    "id": "51_40906",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     42,
+     "[Page 76]",
+     true
+    ]
+   ],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 409 - Miscellaneous/§ 40906 - Equal access to the Administration's education programs.md",
    "printed_pages": [
     75,
-    75
+    76
    ]
   },
   {
@@ -1921,27 +1915,16 @@
    "marks": [],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 409 - Miscellaneous/§ 40907 - Museums.md",
    "printed_pages": [
-    75,
-    75
+    76,
+    76
    ]
   },
   {
    "id": "51_40908",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       401,
-       "[Page 76]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 004 (IV) - Aeronautics and Space Research and Education/Chapter 409 - Miscellaneous/§ 40908 - Continuation of certain education programs.md",
    "printed_pages": [
-    75,
+    76,
     76
    ]
   },
@@ -1986,11 +1969,21 @@
    "marks": [
     [
      "I",
-     42,
+     18,
      [
       [
-       220,
+       77,
        "[Page 77]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     92,
+     [
+      [
+       160,
+       "[Page 78]"
       ]
      ]
     ]
@@ -1998,7 +1991,7 @@
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 501 - Space Commerce/Subchapter 001 (I) - General/§ 50101 - Definitions.md",
    "printed_pages": [
     76,
-    77
+    78
    ]
   },
   {
@@ -2006,8 +1999,8 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 501 - Space Commerce/Subchapter 002 (II) - Promotion of Commercial Space Opportunities/README.md",
    "printed_pages": [
-    77,
-    77
+    78,
+    78
    ]
   },
   {
@@ -2015,56 +2008,64 @@
    "marks": [
     [
      "I",
-     44,
+     28,
      [
       [
-       212,
-       "[Page 78]"
+       78,
+       "[Page 79]"
       ]
      ]
     ],
     [
-     "L",
-     122,
-     "[Page 79]",
-     true
+     "I",
+     90,
+     [
+      [
+       75,
+       "[Page 80]"
+      ]
+     ]
     ],
     [
-     "L",
-     232,
-     "[Page 80]",
-     true
+     "I",
+     196,
+     [
+      [
+       99,
+       "[Page 81]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 501 - Space Commerce/Subchapter 002 (II) - Promotion of Commercial Space Opportunities/§ 50111 - Commercialization of Space Station.md",
    "printed_pages": [
-    77,
-    80
+    78,
+    81
    ]
   },
   {
    "id": "51_50112",
-   "marks": [],
-   "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 501 - Space Commerce/Subchapter 002 (II) - Promotion of Commercial Space Opportunities/§ 50112 - Promotion of United States Global Positioning System standards.md",
-   "printed_pages": [
-    80,
-    80
-   ]
-  },
-  {
-   "id": "51_50113",
    "marks": [
     [
      "L",
      8,
-     "[Page 81]",
+     "[Page 82]",
      true
     ]
    ],
+   "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 501 - Space Commerce/Subchapter 002 (II) - Promotion of Commercial Space Opportunities/§ 50112 - Promotion of United States Global Positioning System standards.md",
+   "printed_pages": [
+    81,
+    82
+   ]
+  },
+  {
+   "id": "51_50113",
+   "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 501 - Space Commerce/Subchapter 002 (II) - Promotion of Commercial Space Opportunities/§ 50113 - Acquisition of space science data.md",
    "printed_pages": [
-    80,
-    81
+    82,
+    82
    ]
   },
   {
@@ -2072,33 +2073,37 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 501 - Space Commerce/Subchapter 002 (II) - Promotion of Commercial Space Opportunities/§ 50114 - Administration of commercial space centers.md",
    "printed_pages": [
-    81,
-    81
+    82,
+    82
    ]
   },
   {
    "id": "51_50115",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       224,
+       "[Page 83]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 501 - Space Commerce/Subchapter 002 (II) - Promotion of Commercial Space Opportunities/§ 50115 - Sources of Earth science data.md",
    "printed_pages": [
-    81,
-    81
+    82,
+    83
    ]
   },
   {
    "id": "51_50116",
-   "marks": [
-    [
-     "L",
-     30,
-     "[Page 82]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 501 - Space Commerce/Subchapter 002 (II) - Promotion of Commercial Space Opportunities/§ 50116 - Commercial technology transfer program.md",
    "printed_pages": [
-    81,
-    82
+    83,
+    83
    ]
   },
   {
@@ -2106,37 +2111,44 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 501 - Space Commerce/Subchapter 003 (III) - Federal Acquisition of Space Transportation Services/README.md",
    "printed_pages": [
-    82,
-    82
+    83,
+    83
    ]
   },
   {
    "id": "51_50131",
    "marks": [
     [
-     "I",
-     104,
-     [
-      [
-       209,
-       "[Page 83]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 84]",
+     true
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 501 - Space Commerce/Subchapter 003 (III) - Federal Acquisition of Space Transportation Services/§ 50131 - Requirement to procure commercial space transportation services.md",
    "printed_pages": [
-    82,
-    83
+    83,
+    84
    ]
   },
   {
    "id": "51_50132",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       78,
+       "[Page 85]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 501 - Space Commerce/Subchapter 003 (III) - Federal Acquisition of Space Transportation Services/§ 50132 - Acquisition of commercial space transportation services.md",
    "printed_pages": [
-    83,
-    83
+    84,
+    85
    ]
   },
   {
@@ -2144,28 +2156,17 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 501 - Space Commerce/Subchapter 003 (III) - Federal Acquisition of Space Transportation Services/§ 50133 - Repealed. Pub. L. 115–10, title IV, §416(c), Mar. 21, 2017, 131 Stat. 35.md",
    "printed_pages": [
-    83,
-    83
+    85,
+    85
    ]
   },
   {
    "id": "51_50134",
-   "marks": [
-    [
-     "I",
-     56,
-     [
-      [
-       101,
-       "[Page 84]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 501 - Space Commerce/Subchapter 003 (III) - Federal Acquisition of Space Transportation Services/§ 50134 - Use of excess intercontinental ballistic missiles.md",
    "printed_pages": [
-    83,
-    84
+    85,
+    85
    ]
   },
   {
@@ -2173,57 +2174,49 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 503 - Commercial Reusable In-Space Transportation/README.md",
    "printed_pages": [
-    84,
-    84
+    85,
+    85
    ]
   },
   {
    "id": "51_50301",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 86]",
+     true
+    ]
+   ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 503 - Commercial Reusable In-Space Transportation/§ 50301 - Definitions.md",
    "printed_pages": [
-    84,
-    84
+    85,
+    86
    ]
   },
   {
    "id": "51_50302",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       173,
-       "[Page 85]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 87]",
+     true
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 503 - Commercial Reusable In-Space Transportation/§ 50302 - Loan guarantees for production of commercial reusable in-space transportation.md",
    "printed_pages": [
-    84,
-    85
+    86,
+    87
    ]
   },
   {
    "id": "51_-Subtitle_V-ch505",
-   "marks": [
-    [
-     "I",
-     9,
-     [
-      [
-       47,
-       "[Page 86]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 505 - Commercial Space Competitiveness/README.md",
    "printed_pages": [
-    85,
-    86
+    87,
+    87
    ]
   },
   {
@@ -2231,28 +2224,39 @@
    "marks": [
     [
      "I",
-     106,
+     22,
      [
       [
-       232,
-       "[Page 87]"
+       78,
+       "[Page 88]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 505 - Commercial Space Competitiveness/§ 50501 - Definitions.md",
    "printed_pages": [
-    86,
-    87
+    87,
+    88
    ]
   },
   {
    "id": "51_50502",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       176,
+       "[Page 89]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 505 - Commercial Space Competitiveness/§ 50502 - Launch voucher demonstration program.md",
    "printed_pages": [
-    87,
-    87
+    88,
+    89
    ]
   },
   {
@@ -2260,28 +2264,24 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 505 - Commercial Space Competitiveness/§ 50503 - Anchor tenancy and termination liability.md",
    "printed_pages": [
-    87,
-    87
+    89,
+    89
    ]
   },
   {
    "id": "51_50504",
    "marks": [
     [
-     "I",
-     30,
-     [
-      [
-       81,
-       "[Page 88]"
-      ]
-     ]
+     "L",
+     54,
+     "[Page 90]",
+     true
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 505 - Commercial Space Competitiveness/§ 50504 - Use of Government facilities.md",
    "printed_pages": [
-    87,
-    88
+    89,
+    90
    ]
   },
   {
@@ -2289,8 +2289,8 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 505 - Commercial Space Competitiveness/§ 50505 - Test facilities.md",
    "printed_pages": [
-    88,
-    88
+    90,
+    90
    ]
   },
   {
@@ -2298,53 +2298,53 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 505 - Commercial Space Competitiveness/§ 50506 - Commercial Space Achievement Award.md",
    "printed_pages": [
-    88,
-    88
+    90,
+    90
    ]
   },
   {
    "id": "51_-Subtitle_V-ch507",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       26,
-       "[Page 89]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 507 - Office of Space Commerce/README.md",
    "printed_pages": [
-    88,
-    89
+    90,
+    90
    ]
   },
   {
    "id": "51_50701",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 91]",
+     true
+    ]
+   ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 507 - Office of Space Commerce/§ 50701 - Definition of Office.md",
    "printed_pages": [
-    89,
-    89
+    90,
+    91
    ]
   },
   {
    "id": "51_50702",
    "marks": [
     [
-     "L",
-     84,
-     "[Page 90]",
-     true
+     "I",
+     92,
+     [
+      [
+       621,
+       "[Page 92]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 507 - Office of Space Commerce/§ 50702 - Establishment.md",
    "printed_pages": [
-    89,
-    90
+    91,
+    92
    ]
   },
   {
@@ -2352,8 +2352,8 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 507 - Office of Space Commerce/§ 50703 - Annual report.md",
    "printed_pages": [
-    90,
-    90
+    92,
+    92
    ]
   },
   {
@@ -2361,8 +2361,8 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/README.md",
    "printed_pages": [
-    90,
-    90
+    92,
+    92
    ]
   },
   {
@@ -2370,47 +2370,51 @@
    "marks": [
     [
      "I",
-     12,
+     18,
      [
       [
-       139,
-       "[Page 91]"
+       184,
+       "[Page 93]"
       ]
      ]
     ],
     [
      "L",
-     86,
-     "[Page 92]",
+     106,
+     "[Page 94]",
      true
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50901 - Findings and purposes.md",
    "printed_pages": [
-    90,
-    92
+    92,
+    94
    ]
   },
   {
    "id": "51_50902",
    "marks": [
     [
-     "L",
-     48,
-     "[Page 93]",
-     true
+     "I",
+     60,
+     [
+      [
+       97,
+       "[Page 95]"
+      ]
+     ]
     ],
     [
      "L",
-     164,
-     "[Page 94]",
+     182,
+     "[Page 96]",
      true
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50902 - Definitions.md",
    "printed_pages": [
-    92,
-    94
+    94,
+    96
    ]
   },
   {
@@ -2421,8 +2425,8 @@
      16,
      [
       [
-       86,
-       "[Page 95]"
+       177,
+       "[Page 97]"
       ]
      ]
     ],
@@ -2431,16 +2435,16 @@
      120,
      [
       [
-       107,
-       "[Page 96]"
+       158,
+       "[Page 98]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50903 - General authority.md",
    "printed_pages": [
-    94,
-    96
+    96,
+    98
    ]
   },
   {
@@ -2449,14 +2453,14 @@
     [
      "L",
      80,
-     "[Page 97]",
+     "[Page 99]",
      true
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50904 - Restrictions on launches, operations, and reentries.md",
    "printed_pages": [
-    96,
-    97
+    98,
+    99
    ]
   },
   {
@@ -2468,14 +2472,14 @@
      [
       [
        136,
-       "[Page 98]"
+       "[Page 100]"
       ]
      ]
     ],
     [
      "L",
      100,
-     "[Page 99]",
+     "[Page 101]",
      true
     ],
     [
@@ -2484,15 +2488,15 @@
      [
       [
        99,
-       "[Page 100]"
+       "[Page 102]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50905 - License applications and requirements.md",
    "printed_pages": [
-    97,
-    100
+    99,
+    102
    ]
   },
   {
@@ -2501,14 +2505,14 @@
     [
      "L",
      8,
-     "[Page 101]",
+     "[Page 103]",
      true
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50906 - Experimental permits.md",
    "printed_pages": [
-    100,
-    101
+    102,
+    103
    ]
   },
   {
@@ -2517,14 +2521,14 @@
     [
      "L",
      32,
-     "[Page 102]",
+     "[Page 104]",
      true
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50907 - Monitoring activities.md",
    "printed_pages": [
-    101,
-    102
+    103,
+    104
    ]
   },
   {
@@ -2532,8 +2536,8 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50908 - Effective periods, and modifications, suspensions, and revocations, of licenses.md",
    "printed_pages": [
-    102,
-    102
+    104,
+    104
    ]
   },
   {
@@ -2545,15 +2549,15 @@
      [
       [
        85,
-       "[Page 103]"
+       "[Page 105]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50909 - Prohibition, suspension, and end of launches, operation of launch sites and reentry sites, and reentries.md",
    "printed_pages": [
-    102,
-    103
+    104,
+    105
    ]
   },
   {
@@ -2561,8 +2565,8 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50910 - Preemption of scheduled launches or reentries.md",
    "printed_pages": [
-    103,
-    103
+    105,
+    105
    ]
   },
   {
@@ -2574,15 +2578,15 @@
      [
       [
        107,
-       "[Page 104]"
+       "[Page 106]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50911 - Space advertising.md",
    "printed_pages": [
-    103,
-    104
+    105,
+    106
    ]
   },
   {
@@ -2590,8 +2594,8 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50912 - Administrative hearings and judicial review.md",
    "printed_pages": [
-    104,
-    104
+    106,
+    106
    ]
   },
   {
@@ -2603,15 +2607,15 @@
      [
       [
        84,
-       "[Page 105]"
+       "[Page 107]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50913 - Acquiring United States Government property and services.md",
    "printed_pages": [
-    104,
-    105
+    106,
+    107
    ]
   },
   {
@@ -2623,7 +2627,7 @@
      [
       [
        229,
-       "[Page 106]"
+       "[Page 108]"
       ]
      ]
     ],
@@ -2633,15 +2637,15 @@
      [
       [
        109,
-       "[Page 107]"
+       "[Page 109]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50914 - Liability insurance and financial responsibility requirements.md",
    "printed_pages": [
-    105,
-    107
+    107,
+    109
    ]
   },
   {
@@ -2650,7 +2654,7 @@
     [
      "L",
      20,
-     "[Page 108]",
+     "[Page 110]",
      true
     ],
     [
@@ -2659,15 +2663,15 @@
      [
       [
        108,
-       "[Page 109]"
+       "[Page 111]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50915 - Paying claims exceeding liability insurance and financial responsibility requirements.md",
    "printed_pages": [
-    107,
-    109
+    109,
+    111
    ]
   },
   {
@@ -2676,14 +2680,14 @@
     [
      "L",
      6,
-     "[Page 110]",
+     "[Page 112]",
      true
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50916 - Disclosing information.md",
    "printed_pages": [
-    109,
-    110
+    111,
+    112
    ]
   },
   {
@@ -2691,8 +2695,8 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50917 - Enforcement and penalty.md",
    "printed_pages": [
-    110,
-    110
+    112,
+    112
    ]
   },
   {
@@ -2704,37 +2708,45 @@
      [
       [
        269,
-       "[Page 111]"
+       "[Page 113]"
       ]
      ]
     ],
     [
-     "L",
-     132,
-     "[Page 112]",
-     true
+     "I",
+     128,
+     [
+      [
+       113,
+       "[Page 114]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50918 - Consultation.md",
    "printed_pages": [
-    110,
-    112
+    112,
+    114
    ]
   },
   {
    "id": "51_50919",
    "marks": [
     [
-     "L",
-     124,
-     "[Page 113]",
-     true
+     "I",
+     110,
+     [
+      [
+       108,
+       "[Page 115]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50919 - Relationship to other executive agencies, laws, and international obligations.md",
    "printed_pages": [
-    112,
-    113
+    114,
+    115
    ]
   },
   {
@@ -2742,37 +2754,33 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50920 - User fees.md",
    "printed_pages": [
-    113,
-    113
+    115,
+    115
    ]
   },
   {
    "id": "51_50921",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     58,
+     "[Page 116]",
+     true
+    ]
+   ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50921 - Office of Commercial Space Transportation.md",
    "printed_pages": [
-    113,
-    113
+    115,
+    116
    ]
   },
   {
    "id": "51_50922",
-   "marks": [
-    [
-     "I",
-     18,
-     [
-      [
-       130,
-       "[Page 114]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50922 - Regulations.md",
    "printed_pages": [
-    113,
-    114
+    116,
+    116
    ]
   },
   {
@@ -2780,8 +2788,8 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 509 - Commercial Space Launch Activities/§ 50923 - Report to Congress.md",
    "printed_pages": [
-    114,
-    114
+    116,
+    116
    ]
   },
   {
@@ -2789,8 +2797,8 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 511 - Space Transportation Infrastructure Matching Grants/README.md",
    "printed_pages": [
-    114,
-    114
+    116,
+    116
    ]
   },
   {
@@ -2798,15 +2806,15 @@
    "marks": [
     [
      "L",
-     16,
-     "[Page 115]",
+     4,
+     "[Page 117]",
      true
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 511 - Space Transportation Infrastructure Matching Grants/§ 51101 - Definitions.md",
    "printed_pages": [
-    114,
-    115
+    116,
+    117
    ]
   },
   {
@@ -2814,28 +2822,24 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 511 - Space Transportation Infrastructure Matching Grants/§ 51102 - Grant authority.md",
    "printed_pages": [
-    115,
-    115
+    117,
+    117
    ]
   },
   {
    "id": "51_51103",
    "marks": [
     [
-     "I",
-     64,
-     [
-      [
-       60,
-       "[Page 116]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 118]",
+     true
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 511 - Space Transportation Infrastructure Matching Grants/§ 51103 - Grant applications.md",
    "printed_pages": [
-    115,
-    116
+    117,
+    118
    ]
   },
   {
@@ -2843,19 +2847,19 @@
    "marks": [
     [
      "I",
-     64,
+     60,
      [
       [
-       104,
-       "[Page 117]"
+       113,
+       "[Page 119]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 511 - Space Transportation Infrastructure Matching Grants/§ 51104 - Environmental requirements.md",
    "printed_pages": [
-    116,
-    117
+    118,
+    119
    ]
   },
   {
@@ -2863,8 +2867,8 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 511 - Space Transportation Infrastructure Matching Grants/§ 51105 - Authorization of appropriations.md",
    "printed_pages": [
-    117,
-    117
+    119,
+    119
    ]
   },
   {
@@ -2872,8 +2876,8 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 513 - Space Resource Commercial Exploration and Utilization/README.md",
    "printed_pages": [
-    117,
-    117
+    119,
+    119
    ]
   },
   {
@@ -2881,8 +2885,8 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 513 - Space Resource Commercial Exploration and Utilization/§ 51301 - Definitions.md",
    "printed_pages": [
-    117,
-    117
+    119,
+    119
    ]
   },
   {
@@ -2890,8 +2894,8 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 513 - Space Resource Commercial Exploration and Utilization/§ 51302 - Commercial exploration and commercial recovery.md",
    "printed_pages": [
-    117,
-    117
+    119,
+    119
    ]
   },
   {
@@ -2899,8 +2903,37 @@
    "marks": [],
    "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 513 - Space Resource Commercial Exploration and Utilization/§ 51303 - Asteroid resource and space resource rights.md",
    "printed_pages": [
-    117,
-    117
+    119,
+    119
+   ]
+  },
+  {
+   "id": "51_-Subtitle_V-ch515",
+   "marks": [
+    [
+     "I",
+     9,
+     [
+      [
+       74,
+       "[Page 120]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 515 - Office of Spaceports/README.md",
+   "printed_pages": [
+    119,
+    120
+   ]
+  },
+  {
+   "id": "51_51501",
+   "marks": [],
+   "path": "Subtitle 005 (V) - Programs Targeting Commercial Opportunities/Chapter 515 - Office of Spaceports/§ 51501 - Establishment of Office of Spaceports.md",
+   "printed_pages": [
+    120,
+    120
    ]
   },
   {
@@ -2908,28 +2941,17 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/README.md",
    "printed_pages": [
-    117,
-    117
+    120,
+    120
    ]
   },
   {
    "id": "51_-Subtitle_VI-ch601",
-   "marks": [
-    [
-     "I",
-     24,
-     [
-      [
-       40,
-       "[Page 118]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/README.md",
    "printed_pages": [
-    117,
-    118
+    120,
+    120
    ]
   },
   {
@@ -2937,24 +2959,38 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 001 (I) - General/README.md",
    "printed_pages": [
-    118,
-    118
+    120,
+    120
    ]
   },
   {
    "id": "51_60101",
    "marks": [
     [
-     "L",
-     76,
-     "[Page 119]",
-     true
+     "I",
+     32,
+     [
+      [
+       80,
+       "[Page 121]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     128,
+     [
+      [
+       110,
+       "[Page 122]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 001 (I) - General/§ 60101 - Definitions.md",
    "printed_pages": [
-    118,
-    119
+    120,
+    122
    ]
   },
   {
@@ -2962,8 +2998,8 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 002 (II) - Landsat/README.md",
    "printed_pages": [
-    119,
-    119
+    122,
+    122
    ]
   },
   {
@@ -2971,29 +3007,19 @@
    "marks": [
     [
      "I",
-     10,
+     44,
      [
       [
-       179,
-       "[Page 120]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     100,
-     [
-      [
-       109,
-       "[Page 121]"
+       121,
+       "[Page 123]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 002 (II) - Landsat/§ 60111 - Landsat Program Management.md",
    "printed_pages": [
-    119,
-    121
+    122,
+    123
    ]
   },
   {
@@ -3001,17 +3027,24 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 002 (II) - Landsat/§ 60112 - Transfer of Landsat 6 program responsibilities.md",
    "printed_pages": [
-    121,
-    121
+    123,
+    123
    ]
   },
   {
    "id": "51_60113",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     26,
+     "[Page 124]",
+     true
+    ]
+   ],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 002 (II) - Landsat/§ 60113 - Data policy for Landsat 7.md",
    "printed_pages": [
-    121,
-    121
+    123,
+    124
    ]
   },
   {
@@ -3019,53 +3052,42 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 003 (III) - Licensing of Private Remote Sensing Space Systems/README.md",
    "printed_pages": [
-    121,
-    121
+    124,
+    124
    ]
   },
   {
    "id": "51_60121",
-   "marks": [
-    [
-     "L",
-     30,
-     "[Page 122]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 003 (III) - Licensing of Private Remote Sensing Space Systems/§ 60121 - General licensing authority.md",
    "printed_pages": [
-    121,
-    122
+    124,
+    124
    ]
   },
   {
    "id": "51_60122",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 125]",
+     true
+    ]
+   ],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 003 (III) - Licensing of Private Remote Sensing Space Systems/§ 60122 - Conditions for operation.md",
    "printed_pages": [
-    122,
-    122
+    124,
+    125
    ]
   },
   {
    "id": "51_60123",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       234,
-       "[Page 123]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 003 (III) - Licensing of Private Remote Sensing Space Systems/§ 60123 - Administrative authority of Secretary.md",
    "printed_pages": [
-    122,
-    123
+    125,
+    125
    ]
   },
   {
@@ -3073,37 +3095,37 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 003 (III) - Licensing of Private Remote Sensing Space Systems/§ 60124 - Regulatory authority of Secretary.md",
    "printed_pages": [
-    123,
-    123
+    125,
+    125
    ]
   },
   {
    "id": "51_60125",
-   "marks": [],
-   "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 003 (III) - Licensing of Private Remote Sensing Space Systems/§ 60125 - Agency activities.md",
-   "printed_pages": [
-    123,
-    123
-   ]
-  },
-  {
-   "id": "51_60126",
    "marks": [
     [
      "I",
-     12,
+     4,
      [
       [
-       142,
-       "[Page 124]"
+       86,
+       "[Page 126]"
       ]
      ]
     ]
    ],
+   "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 003 (III) - Licensing of Private Remote Sensing Space Systems/§ 60125 - Agency activities.md",
+   "printed_pages": [
+    125,
+    126
+   ]
+  },
+  {
+   "id": "51_60126",
+   "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 003 (III) - Licensing of Private Remote Sensing Space Systems/§ 60126 - Annual reports.md",
    "printed_pages": [
-    123,
-    124
+    126,
+    126
    ]
   },
   {
@@ -3111,17 +3133,28 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 004 (IV) - Research, Development, and Demonstration/README.md",
    "printed_pages": [
-    124,
-    124
+    126,
+    126
    ]
   },
   {
    "id": "51_60131",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       165,
+       "[Page 127]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 004 (IV) - Research, Development, and Demonstration/§ 60131 - Continued Federal research and development.md",
    "printed_pages": [
-    124,
-    124
+    126,
+    127
    ]
   },
   {
@@ -3129,33 +3162,37 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 004 (IV) - Research, Development, and Demonstration/§ 60132 - Availability of federally gathered unenhanced data.md",
    "printed_pages": [
-    124,
-    124
+    127,
+    127
    ]
   },
   {
    "id": "51_60133",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 125]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 004 (IV) - Research, Development, and Demonstration/§ 60133 - Technology demonstration program.md",
    "printed_pages": [
-    124,
-    125
+    127,
+    127
    ]
   },
   {
    "id": "51_60134",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       87,
+       "[Page 128]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 004 (IV) - Research, Development, and Demonstration/§ 60134 - Preference for private sector land remote sensing system.md",
    "printed_pages": [
-    125,
-    125
+    127,
+    128
    ]
   },
   {
@@ -3163,8 +3200,8 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 005 (V) - General Provisions/README.md",
    "printed_pages": [
-    125,
-    125
+    128,
+    128
    ]
   },
   {
@@ -3172,8 +3209,8 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 005 (V) - General Provisions/§ 60141 - Nondiscriminatory data availability.md",
    "printed_pages": [
-    125,
-    125
+    128,
+    128
    ]
   },
   {
@@ -3181,15 +3218,15 @@
    "marks": [
     [
      "L",
-     8,
-     "[Page 126]",
+     62,
+     "[Page 129]",
      true
     ]
    ],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 005 (V) - General Provisions/§ 60142 - Archiving of data.md",
    "printed_pages": [
-    125,
-    126
+    128,
+    129
    ]
   },
   {
@@ -3197,8 +3234,8 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 005 (V) - General Provisions/§ 60143 - Nonreproduction.md",
    "printed_pages": [
-    126,
-    126
+    129,
+    129
    ]
   },
   {
@@ -3206,8 +3243,8 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 005 (V) - General Provisions/§ 60144 - Reimbursement for assistance.md",
    "printed_pages": [
-    126,
-    126
+    129,
+    129
    ]
   },
   {
@@ -3215,53 +3252,42 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 005 (V) - General Provisions/§ 60145 - Acquisition of equipment.md",
    "printed_pages": [
-    126,
-    126
+    129,
+    129
    ]
   },
   {
    "id": "51_60146",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       412,
-       "[Page 127]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 005 (V) - General Provisions/§ 60146 - Radio frequency allocation.md",
    "printed_pages": [
-    126,
-    127
+    129,
+    129
    ]
   },
   {
    "id": "51_60147",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 130]",
+     true
+    ]
+   ],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 005 (V) - General Provisions/§ 60147 - Consultation.md",
    "printed_pages": [
-    127,
-    127
+    129,
+    130
    ]
   },
   {
    "id": "51_60148",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 128]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 005 (V) - General Provisions/§ 60148 - Enforcement.md",
    "printed_pages": [
-    127,
-    128
+    130,
+    130
    ]
   },
   {
@@ -3269,8 +3295,8 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 006 (VI) - Prohibition of Commercialization of Weather Satellites/README.md",
    "printed_pages": [
-    128,
-    128
+    130,
+    130
    ]
   },
   {
@@ -3278,8 +3304,8 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 006 (VI) - Prohibition of Commercialization of Weather Satellites/§ 60161 - Prohibition.md",
    "printed_pages": [
-    128,
-    128
+    130,
+    130
    ]
   },
   {
@@ -3287,17 +3313,28 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 601 - Land Remote Sensing Policy/Subchapter 006 (VI) - Prohibition of Commercialization of Weather Satellites/§ 60162 - Future considerations.md",
    "printed_pages": [
-    128,
-    128
+    130,
+    130
    ]
   },
   {
    "id": "51_-Subtitle_VI-ch603",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       24,
+       "[Page 131]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 603 - Remote Sensing/README.md",
    "printed_pages": [
-    128,
-    128
+    130,
+    131
    ]
   },
   {
@@ -3305,8 +3342,8 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 603 - Remote Sensing/§ 60301 - Definitions.md",
    "printed_pages": [
-    128,
-    128
+    131,
+    131
    ]
   },
   {
@@ -3314,37 +3351,37 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 603 - Remote Sensing/§ 60302 - General responsibilities.md",
    "printed_pages": [
-    128,
-    128
+    131,
+    131
    ]
   },
   {
    "id": "51_60303",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       90,
-       "[Page 129]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 603 - Remote Sensing/§ 60303 - Pilot projects to encourage public sector applications.md",
    "printed_pages": [
-    128,
-    129
+    131,
+    131
    ]
   },
   {
    "id": "51_60304",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       504,
+       "[Page 132]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 603 - Remote Sensing/§ 60304 - Program evaluation.md",
    "printed_pages": [
-    129,
-    129
+    131,
+    132
    ]
   },
   {
@@ -3352,8 +3389,8 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 603 - Remote Sensing/§ 60305 - Data availability.md",
    "printed_pages": [
-    129,
-    129
+    132,
+    132
    ]
   },
   {
@@ -3361,37 +3398,37 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 603 - Remote Sensing/§ 60306 - Education.md",
    "printed_pages": [
-    129,
-    129
+    132,
+    132
    ]
   },
   {
    "id": "51_-Subtitle_VI-ch605",
-   "marks": [
-    [
-     "I",
-     9,
-     [
-      [
-       44,
-       "[Page 130]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 605 - Earth Science/README.md",
    "printed_pages": [
-    129,
-    130
+    132,
+    132
    ]
   },
   {
    "id": "51_60501",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     66,
+     [
+      [
+       112,
+       "[Page 133]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 605 - Earth Science/§ 60501 - Goal.md",
    "printed_pages": [
-    130,
-    130
+    132,
+    133
    ]
   },
   {
@@ -3399,24 +3436,17 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 605 - Earth Science/§ 60502 - Transitioning experimental research into operational services.md",
    "printed_pages": [
-    130,
-    130
+    133,
+    133
    ]
   },
   {
    "id": "51_60503",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 131]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 605 - Earth Science/§ 60503 - Reauthorization of Glory Mission.md",
    "printed_pages": [
-    130,
-    131
+    133,
+    133
    ]
   },
   {
@@ -3424,17 +3454,28 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 605 - Earth Science/§ 60504 - Tornadoes and other severe storms.md",
    "printed_pages": [
-    131,
-    131
+    133,
+    133
    ]
   },
   {
    "id": "51_60505",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       85,
+       "[Page 134]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 605 - Earth Science/§ 60505 - Coordination with the National Oceanic and Atmospheric Administration.md",
    "printed_pages": [
-    131,
-    131
+    133,
+    134
    ]
   },
   {
@@ -3442,8 +3483,8 @@
    "marks": [],
    "path": "Subtitle 006 (VI) - Earth Observations/Chapter 605 - Earth Science/§ 60506 - Sharing of climate related data.md",
    "printed_pages": [
-    131,
-    131
+    134,
+    134
    ]
   },
   {
@@ -3451,28 +3492,17 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/README.md",
    "printed_pages": [
-    131,
-    131
+    134,
+    134
    ]
   },
   {
    "id": "51_-Subtitle_VII-ch701",
-   "marks": [
-    [
-     "I",
-     7,
-     [
-      [
-       46,
-       "[Page 132]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 701 - Use of Space Launch System or Alternatives/README.md",
    "printed_pages": [
-    131,
-    132
+    134,
+    134
    ]
   },
   {
@@ -3480,37 +3510,33 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 701 - Use of Space Launch System or Alternatives/§ 70101 - Recovery of fair value of placing Department of Defense payloads in orbit with space launch system.md",
    "printed_pages": [
-    132,
-    132
+    134,
+    134
    ]
   },
   {
    "id": "51_70102",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 135]",
+     true
+    ]
+   ],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 701 - Use of Space Launch System or Alternatives/§ 70102 - Space launch system use policy.md",
    "printed_pages": [
-    132,
-    132
+    134,
+    135
    ]
   },
   {
    "id": "51_70103",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       79,
-       "[Page 133]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 701 - Use of Space Launch System or Alternatives/§ 70103 - Commercial payloads on space launch system.md",
    "printed_pages": [
-    132,
-    133
+    135,
+    135
    ]
   },
   {
@@ -3518,8 +3544,8 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 701 - Use of Space Launch System or Alternatives/§ 70104 - Definition of Space Launch System.md",
    "printed_pages": [
-    133,
-    133
+    135,
+    135
    ]
   },
   {
@@ -3527,8 +3553,8 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 703 - Repealed/README.md",
    "printed_pages": [
-    133,
-    133
+    135,
+    135
    ]
   },
   {
@@ -3536,17 +3562,28 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 703 - Repealed/§ 70301 to 70304 - Repealed. Pub. L. 115–10, title IV, §416(b), Mar. 21, 2017, 131 Stat. 35.md",
    "printed_pages": [
-    133,
-    133
+    135,
+    135
    ]
   },
   {
    "id": "51_-Subtitle_VII-ch705",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       36,
+       "[Page 136]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 705 - Exploration Initiatives/README.md",
    "printed_pages": [
-    133,
-    133
+    135,
+    136
    ]
   },
   {
@@ -3554,39 +3591,28 @@
    "marks": [
     [
      "I",
-     48,
+     98,
      [
       [
-       313,
-       "[Page 134]"
+       869,
+       "[Page 137]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 705 - Exploration Initiatives/§ 70501 - Space shuttle follow-on.md",
    "printed_pages": [
-    133,
-    134
+    136,
+    137
    ]
   },
   {
    "id": "51_70502",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       94,
-       "[Page 135]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 705 - Exploration Initiatives/§ 70502 - Exploration plan and programs.md",
    "printed_pages": [
-    134,
-    135
+    137,
+    137
    ]
   },
   {
@@ -3594,46 +3620,53 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 705 - Exploration Initiatives/§ 70503 - Ground-based analog capabilities.md",
    "printed_pages": [
-    135,
-    135
+    137,
+    137
    ]
   },
   {
    "id": "51_70504",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 138]",
+     true
+    ]
+   ],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 705 - Exploration Initiatives/§ 70504 - Stepping stone approach to exploration.md",
    "printed_pages": [
-    135,
-    135
+    137,
+    138
    ]
   },
   {
    "id": "51_70505",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       220,
-       "[Page 136]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 705 - Exploration Initiatives/§ 70505 - Lunar outpost.md",
    "printed_pages": [
-    135,
-    136
+    138,
+    138
    ]
   },
   {
    "id": "51_70506",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     36,
+     [
+      [
+       471,
+       "[Page 139]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 705 - Exploration Initiatives/§ 70506 - Exploration technology research.md",
    "printed_pages": [
-    136,
-    136
+    138,
+    139
    ]
   },
   {
@@ -3641,8 +3674,8 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 705 - Exploration Initiatives/§ 70507 - Technology development.md",
    "printed_pages": [
-    136,
-    136
+    139,
+    139
    ]
   },
   {
@@ -3650,8 +3683,8 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 705 - Exploration Initiatives/§ 70508 - Robotic or human servicing of spacecraft.md",
    "printed_pages": [
-    136,
-    136
+    139,
+    139
    ]
   },
   {
@@ -3659,24 +3692,17 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 707 - Human Space Flight Independent Investigation Commission/README.md",
    "printed_pages": [
-    136,
-    136
+    139,
+    139
    ]
   },
   {
    "id": "51_70701",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 137]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 707 - Human Space Flight Independent Investigation Commission/§ 70701 - Definitions.md",
    "printed_pages": [
-    136,
-    137
+    139,
+    139
    ]
   },
   {
@@ -3684,42 +3710,53 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 707 - Human Space Flight Independent Investigation Commission/§ 70702 - Establishment of Commission.md",
    "printed_pages": [
-    137,
-    137
+    139,
+    139
    ]
   },
   {
    "id": "51_70703",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       78,
+       "[Page 140]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 707 - Human Space Flight Independent Investigation Commission/§ 70703 - Tasks of Commission.md",
    "printed_pages": [
-    137,
-    137
+    139,
+    140
    ]
   },
   {
    "id": "51_70704",
-   "marks": [
-    [
-     "L",
-     50,
-     "[Page 138]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 707 - Human Space Flight Independent Investigation Commission/§ 70704 - Composition of Commission.md",
    "printed_pages": [
-    137,
-    138
+    140,
+    140
    ]
   },
   {
    "id": "51_70705",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 141]",
+     true
+    ]
+   ],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 707 - Human Space Flight Independent Investigation Commission/§ 70705 - Powers of Commission.md",
    "printed_pages": [
-    138,
-    138
+    140,
+    141
    ]
   },
   {
@@ -3727,24 +3764,17 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 707 - Human Space Flight Independent Investigation Commission/§ 70706 - Public meetings, information, and hearings.md",
    "printed_pages": [
-    138,
-    138
+    141,
+    141
    ]
   },
   {
    "id": "51_70707",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 139]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 707 - Human Space Flight Independent Investigation Commission/§ 70707 - Staff of Commission.md",
    "printed_pages": [
-    138,
-    139
+    141,
+    141
    ]
   },
   {
@@ -3752,17 +3782,24 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 707 - Human Space Flight Independent Investigation Commission/§ 70708 - Compensation and travel expenses.md",
    "printed_pages": [
-    139,
-    139
+    141,
+    141
    ]
   },
   {
    "id": "51_70709",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 142]",
+     true
+    ]
+   ],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 707 - Human Space Flight Independent Investigation Commission/§ 70709 - Security clearances for Commission members and staff.md",
    "printed_pages": [
-    139,
-    139
+    141,
+    142
    ]
   },
   {
@@ -3770,8 +3807,8 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 707 - Human Space Flight Independent Investigation Commission/§ 70710 - Reporting requirements and termination.md",
    "printed_pages": [
-    139,
-    139
+    142,
+    142
    ]
   },
   {
@@ -3779,44 +3816,38 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 709 - International Space Station/README.md",
    "printed_pages": [
-    139,
-    139
+    142,
+    142
    ]
   },
   {
    "id": "51_70901",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 140]",
-     true
-    ],
-    [
      "I",
-     80,
+     50,
      [
       [
-       155,
-       "[Page 141]"
+       1097,
+       "[Page 143]"
       ]
      ]
     ],
     [
      "I",
-     186,
+     130,
      [
       [
-       196,
-       "[Page 142]"
+       156,
+       "[Page 144]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 709 - International Space Station/§ 70901 - Peaceful uses of space station.md",
    "printed_pages": [
-    139,
-    142
+    142,
+    144
    ]
   },
   {
@@ -3824,8 +3855,8 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 709 - International Space Station/§ 70902 - Allocation of International Space Station research budget.md",
    "printed_pages": [
-    142,
-    142
+    144,
+    144
    ]
   },
   {
@@ -3833,24 +3864,28 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 709 - International Space Station/§ 70903 - International Space Station research.md",
    "printed_pages": [
-    142,
-    142
+    144,
+    144
    ]
   },
   {
    "id": "51_70904",
    "marks": [
     [
-     "L",
-     62,
-     "[Page 143]",
-     true
+     "I",
+     14,
+     [
+      [
+       138,
+       "[Page 145]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 709 - International Space Station/§ 70904 - International Space Station completion.md",
    "printed_pages": [
-    142,
-    143
+    144,
+    145
    ]
   },
   {
@@ -3858,17 +3893,28 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 709 - International Space Station/§ 70905 - National laboratory designation.md",
    "printed_pages": [
-    143,
-    143
+    145,
+    145
    ]
   },
   {
    "id": "51_70906",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     28,
+     [
+      [
+       203,
+       "[Page 146]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 709 - International Space Station/§ 70906 - International Space Station National Laboratory Advisory Committee.md",
    "printed_pages": [
-    143,
-    143
+    145,
+    146
    ]
   },
   {
@@ -3876,8 +3922,8 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 709 - International Space Station/§ 70907 - Maintaining use through at least 2024.md",
    "printed_pages": [
-    143,
-    143
+    146,
+    146
    ]
   },
   {
@@ -3885,39 +3931,28 @@
    "marks": [
     [
      "I",
-     7,
+     65,
      [
       [
-       28,
-       "[Page 144]"
+       254,
+       "[Page 147]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 711 - Near-Earth Objects/README.md",
    "printed_pages": [
-    143,
-    144
+    146,
+    147
    ]
   },
   {
    "id": "51_71101",
-   "marks": [
-    [
-     "I",
-     28,
-     [
-      [
-       159,
-       "[Page 145]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 711 - Near-Earth Objects/§ 71101 - Reaffirmation of policy.md",
    "printed_pages": [
-    144,
-    145
+    147,
+    147
    ]
   },
   {
@@ -3925,17 +3960,24 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 711 - Near-Earth Objects/§ 71102 - Requests for information.md",
    "printed_pages": [
-    145,
-    145
+    147,
+    147
    ]
   },
   {
    "id": "51_71103",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 148]",
+     true
+    ]
+   ],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 711 - Near-Earth Objects/§ 71103 - Developing policy and recommending responsible Federal agency.md",
    "printed_pages": [
-    145,
-    145
+    147,
+    148
    ]
   },
   {
@@ -3943,8 +3985,8 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 711 - Near-Earth Objects/§ 71104 - Planetary radar.md",
    "printed_pages": [
-    145,
-    145
+    148,
+    148
    ]
   },
   {
@@ -3952,8 +3994,8 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 713 - Cooperation for Safety Among Spacefaring Nations/README.md",
    "printed_pages": [
-    145,
-    145
+    148,
+    148
    ]
   },
   {
@@ -3961,27 +4003,57 @@
    "marks": [],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 713 - Cooperation for Safety Among Spacefaring Nations/§ 71301 - Common docking system standard to enable rescue.md",
    "printed_pages": [
-    145,
-    145
+    148,
+    148
    ]
   },
   {
    "id": "51_71302",
    "marks": [
     [
+     "I",
+     40,
+     [
+      [
+       322,
+       "[Page 149]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     88,
+     [
+      [
+       95,
+       "[Page 150]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     154,
+     [
+      [
+       203,
+       "[Page 151]"
+      ]
+     ]
+    ],
+    [
      "L",
-     22,
-     "[Page 146]",
+     212,
+     "[Page 152]",
      true
     ]
    ],
    "path": "Subtitle 007 (VII) - Access to Space/Chapter 713 - Cooperation for Safety Among Spacefaring Nations/§ 71302 - Information sharing to avoid physical or radio-frequency interference.md",
    "printed_pages": [
-    145,
-    146
+    148,
+    152
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2017-title51 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2018-title51 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 51 - National and Commercial Space Programs"
 }

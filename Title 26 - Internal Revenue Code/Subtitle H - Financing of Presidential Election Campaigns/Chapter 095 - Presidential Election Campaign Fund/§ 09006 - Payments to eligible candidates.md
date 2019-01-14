@@ -38,7 +38,7 @@ Subsecs. (c), (d). Pub. L. 93–443, §404(c)(8), substituted "Commission" for "
 
 Subsec. (b). Pub. L. 93–53 substituted "Presidential" for "presidential".
 
-Subsec. (c). Pub. L. 93–53 substituted provisions for payment "out of the fund", for such payment "out of the specific account in the fund" and struck out penultimate sentence limiting payments to eligible candidates from the account designated for them to the amounts in such account at the time of payment.
+Subsec. (c). Pub. L. 93–53 substituted provisions for payment "out of the fund", for such payment "out ofthe specific account in the fund" and struck out penultimate sentence limiting payments to eligible candidates from the account designated for them to the amounts in such account at the time of payment.
 
 Subsec. (d). Pub. L. 93–53 substituted provisions for payments to eligible candidates when there are insufficient amounts in the fund, for former provisions respecting transfers from general account to separate accounts to remedy insufficient moneys to satisfy any unpaid entitlement of the eligible candidates.
 

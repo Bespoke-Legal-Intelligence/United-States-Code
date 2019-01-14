@@ -48,7 +48,7 @@ Pursuant to the agreements required by subsection (a), the Secretary, through th
 
 #### (e) Solicitations for project proposals
 
-(1) Pursuant to the agreements under subsection (a), the Secretary, through the Agency for International Development, within one year after October 24, 1992, and subsequently as appropriate thereafter, shall solicit proposals from United States firms for the design, construction, testing, and operation of the project or projects identified under subsection (c) which propose to utilize a United States technology or service. Each solicitation under this section shall establish a closing date for receipt of proposals.
+(1) Pursuant to the agreements under subsection (a), the Secretary, through the Agencyfor International Development, within one year after October 24, 1992, and subsequently as appropriate thereafter, shall solicit proposals from United States firms for the design, construction, testing, and operation of the project or projects identified under subsection (c) which propose to utilize a United States technology or service. Each solicitation under this section shall establish a closing date for receipt of proposals.
 
 (2) The solicitation under this subsection shall, to the extent appropriate, be modeled after the RFP No. DE–PS01–90FE62271 Clean Coal Technology IV, as administered by the Department of Energy.
 
@@ -82,7 +82,7 @@ Not later than 6 months after October 24, 1992, the Secretary shall prepare a li
 
 #### (i) Selection of projects
 
-(1) Pursuant to the agreements under subsection (a), the Secretary, through the Agencyfor International Development, shall, not later than 120 days after receipt of proposals in response to a solicitation under subsection (e), select one or more proposals under this section.
+(1) Pursuant to the agreements under subsection (a), the Secretary, through the Agency for International Development, shall, not later than 120 days after receipt of proposals in response to a solicitation under subsection (e), select one or more proposals under this section.
 
 (2) In selecting a proposal under this section, the Secretary, through the Agency for International Development, shall consider—
 

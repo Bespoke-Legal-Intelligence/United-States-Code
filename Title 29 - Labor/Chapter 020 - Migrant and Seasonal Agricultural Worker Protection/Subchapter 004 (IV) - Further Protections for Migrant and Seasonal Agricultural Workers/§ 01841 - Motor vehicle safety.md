@@ -46,7 +46,7 @@ If an agricultural employer, agricultural association, or farm labor contractor 
 
 #### (d) Time for promulgation of regulations for standards implementing requirements; revision of standards
 
-The Secretary shall, by regulations promulgated in accordance with section 1861 of this title not later than the effective date of this chapter, prescribe the standards required for the purposes of implementing this section. Any subsequent revision of such standards shall also be accomplished by regulation promulgated in accordance with such section.
+The Secretary shall, by regulations promulgated in accordance with section 1861 of thistitle not later than the effective date of this chapter, prescribe the standards required for the purposes of implementing this section. Any subsequent revision of such standards shall also be accomplished by regulation promulgated in accordance with such section.
 
 (Pub. L. 97–470, title IV, §401, Jan. 14, 1983, 96 Stat. 2594; Pub. L. 104–49, §5(a), Nov. 15, 1995, 109 Stat. 434; Pub. L. 104–88, title III, §333, Dec. 29, 1995, 109 Stat. 953.)
 

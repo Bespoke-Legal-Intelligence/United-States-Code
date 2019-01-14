@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development is authorized to establish such a
 
 #### References in Text
 
-This Act, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, known as the Housing Act of 1949, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to theCode, see Short Title note set out under section 1441 of Title 42 and Tables.
+This Act, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, known as the Housing Act of 1949, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 #### Codification
 
@@ -20,7 +20,7 @@ Section was enacted as part of the Housing Act of 1949, and not as part of the N
 
 <b>1965</b>—Pub. L. 89–117 struck out provision that declared inapplicable the conflict-of-interest statutes in the case of members of advisory committees.
 
-<b>1954</b>—Act Aug. 2, 1954, permitted heads of constituent agencies of the Housing and Home Finance Agency to establish advisory committees, inserted provisions relating to inapplicability of the conflict-of-interest statutes with respect to committee members serving without compensation, and inserted provisions relating to payment of expenses.
+<b>1954</b>—Act Aug. 2, 1954, permitted heads of constituent agencies of the Housing and Home Finance Agency toestablish advisory committees, inserted provisions relating to inapplicability of the conflict-of-interest statutes with respect to committee members serving without compensation, and inserted provisions relating to payment of expenses.
 
 #### Termination of Advisory Committees
 

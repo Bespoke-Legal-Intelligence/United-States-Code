@@ -18,7 +18,7 @@ For purposes of this section, the term "temporary assistance" means money paymen
 
 #### (d) Maximum total amount of temporary assistance
 
-The total amount of temporary assistance provided under this section shall not exceed $1,000,000 during any fiscal year beginning afterSeptember 30, 2009, except that, in the case of fiscal years 2017 and 2018, the total amount of such assistance provided during each such fiscal year shall not exceed $25,000,000.
+The total amount of temporary assistance provided under this section shall not exceed $1,000,000 during any fiscal year beginning after September 30, 2009, except that, in the case of fiscal years 2017 and 2018, the total amount of such assistance provided during each such fiscal year shall not exceed $25,000,000.
 
 #### (e) Authority of Secretary to accept gifts
 

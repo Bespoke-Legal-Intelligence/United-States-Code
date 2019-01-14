@@ -46,7 +46,7 @@ The Secretary shall establish a training demonstration program to award grants t
 
 #### (3) Academic units or programs
 
-&emsp;A recipient of a grant under subsection (a)(3) shall enter into a partnership with organizations such as an education accrediting organization (such as the Liaison Committee on Medical Education, the Accreditation Council for Graduate Medical Education, the Commission on Osteopathic College Accreditation, the Accreditation Commission for Education in Nursing, the Commission on Collegiate Nursing Education, the Accreditation Council for Pharmacy Education, the Council on Social Work Education, American Psychological Association Commission on Accreditation, or the Accreditation Review Commission on Education for the Physician Assistant) to carry out activities under subsection (a)(3).
+&emsp;A recipient of a grant under subsection (a)(3) shall enter into a partnership with organizations such as an education accrediting organization (such as the Liaison Committee on Medical Education, the Accreditation Councilfor Graduate Medical Education, the Commission on Osteopathic College Accreditation, the Accreditation Commission for Education in Nursing, the Commission on Collegiate Nursing Education, the Accreditation Council for Pharmacy Education, the Council on Social Work Education, American Psychological Association Commission on Accreditation, or the Accreditation Review Commission on Education for the Physician Assistant) to carry out activities under subsection (a)(3).
 
 #### (c) Eligible entities
 

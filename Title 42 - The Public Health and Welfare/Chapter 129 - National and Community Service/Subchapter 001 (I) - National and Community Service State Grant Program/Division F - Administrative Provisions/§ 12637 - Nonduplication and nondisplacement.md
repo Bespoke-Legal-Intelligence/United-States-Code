@@ -28,7 +28,7 @@
 
 #### (B) Supplantation of hiring
 
-&emsp;&emsp;A participant in any program receiving assistance under the national service lawsshall not perform any services or duties, or engage in activities, that—
+&emsp;&emsp;A participant in any program receiving assistance under the national service laws shall not perform any services or duties, or engage in activities, that—
 
 &emsp;&emsp;&emsp;(i) will supplant the hiring of employed workers; or
 

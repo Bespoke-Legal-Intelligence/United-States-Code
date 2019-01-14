@@ -52,9 +52,47 @@ Public Use and Emergency Assistance.—(1) The head of a department, agency, or 
 
 (e)
 
-Transfers of Instrument Landing Systems.—An airport may transfer, without consideration, to the Administrator of the Federal Aviation Administration an instrument landing system (and associated approach lighting equipment and runway visual range equipment) that conforms to performance specifications of the Administrator if a Government airport aid program, airport development aid program, or airport improvement project grant was used to assist in purchasing the system. The Administrator shall accept the system and operate and maintain it under criteria of the Administrator.
+Transfers of Air Traffic Systems.—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1175; Pub. L. 103–305, title I, §120(a), Aug. 23, 1994, 108 Stat. 1581; Pub. L. 103–429, §6(54), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–287, §5(75), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 106–181, title I, §153, title VII, §712, Apr. 5, 2000, 114 Stat. 87, 160.)
+&emsp;(1)
+
+In general.—An airport may transfer, without consideration, to the Administrator of the Federal Aviation Administration, an eligible air traffic system or equipment that conforms to performance specifications of the Administrator if a Government airport aid program, airport development aid program, or airport improvement project grant was used to assist in purchasing the system or equipment.
+
+&emsp;(2)
+
+Acceptance.—The Administrator shall accept the eligible air traffic system or equipment and operate and maintain it under criteria of the Administrator.
+
+&emsp;(3)
+
+Definition.—In this subsection, the term "eligible air traffic system or equipment" means—
+
+&emsp;&emsp;(A) an instrument landing system consisting of a glide slope and localizer (if the Administrator has determined that a satellite navigation system cannot provide a suitable approach to an airport);
+
+&emsp;&emsp;(B) an Automated Weather Observing System weather observation system; or
+
+&emsp;&emsp;(C) a Remote Communication Air/Ground and Remote Communication Outlet communications facility.
+
+(f)
+
+Airport Space.—
+
+&emsp;(1)
+
+Restriction.—The Administrator may not require an airport owner or sponsor (as defined in section 47102) to provide to the Federal Aviation Administration without cost any of the following:
+
+&emsp;&emsp;(A) Building construction, maintenance, utilities, or expenses for services relating to air traffic control, air navigation, or weather reporting.
+
+&emsp;&emsp;(B) Space in a facility owned by the airport owner or sponsor for services relating to air traffic control, air navigation, or weather reporting.
+
+&emsp;(2)
+
+Rule of construction.—Nothing in this subsection may be construed to affect—
+
+&emsp;&emsp;(A) any agreement the Secretary may have or make with an airport owner or sponsor for the airport owner or sponsor to provide any of the items described in paragraph (1)(A) or (1)(B) at below-market rates; or
+
+&emsp;&emsp;(B) any grant assurance that requires an airport owner or sponsor to provide land to the Administration without cost for an air traffic control facility.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1175; Pub. L. 103–305, title I, §120(a), Aug. 23, 1994, 108 Stat. 1581; Pub. L. 103–429, §6(54), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–287, §5(75), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 106–181, title I, §153, title VII, §712, Apr. 5, 2000, 114 Stat. 87, 160; Pub. L. 115–254, div. B, title I, §147, Oct. 5, 2018, 132 Stat. 3213.)
 
 Historical and Revision Notes
 
@@ -182,6 +220,10 @@ This strikes 49:44502(e) and redesignates 49:44502(f) as 49:44502(e) because of 
 
 #### Amendments
 
+<b>2018</b>—Subsec. (e). Pub. L. 115–254, §147(1), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "An airport may transfer, without consideration, to the Administrator of the Federal Aviation Administration an instrument landing system (and associated approach lighting equipment and runway visual range equipment) that conforms to performance specifications of the Administrator if a Government airport aid program, airport development aid program, or airport improvement project grant was used to assist in purchasing the system. The Administrator shall accept the system and operate and maintain it under criteria of the Administrator."
+
+Subsec. (f). Pub. L. 115–254, §147(2), added subsec. (f).
+
 <b>2000</b>—Subsec. (a)(4)(B). Pub. L. 106–181, §153, substituted "each of fiscal years 2000 through 2002" for "each of fiscal years 1995 and 1996" and inserted "under new or existing contracts" after "including acquisition".
 
 Subsec. (a)(5). Pub. L. 106–181, §712, added par. (5).
@@ -212,9 +254,11 @@ Pub. L. 112–95, title V, §508, Feb. 14, 2012, 126 Stat. 106, provided that: "
 
 #### Strategy for Staffing, Hiring, and Training Flight Standards and Aircraft Certification Staff
 
-Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 730, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year".
+Pub. L. 115–141, div. L, title I, Mar. 23, 2018, 132 Stat. 977, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 730.
 
 Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2839.
 
@@ -260,7 +304,7 @@ Study.—The Administrator \[of the Federal Aviation Administration\] shall ente
 
 "(b)
 
-Report.—Not later than 180 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit to Congress a progress report on the work accomplished under the cooperative agreements detailing the evaluations performed to determine the potential of enhanced vision technology to meet the operational requirements of the intended application.
+Report.—Not later than 180 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator shall transmit to Congress a progress report on the work accomplished under the cooperative agreements detailing the evaluations performed to determine the potential of enhanced vision technology tomeet the operational requirements of the intended application.
 
 "(c)
 
@@ -294,7 +338,7 @@ Pub. L. 103–331, title III, §317, Sept. 30, 1994, 108 Stat. 2491, repealed by
 
 #### Cost Savings Associated With Purchase
 
-Pub. L. 103–305, title I, §120(b), Aug. 23, 1994, 108 Stat. 1581, provided that: "Notwithstanding other provisions of law or regulations to the contrary, the Administrator \[of the Federal Aviation Administration\] shallestablish, within 120 days after the date of the enactment of this Act \[Aug. 23, 1994\], a process through which airport sponsors may take advantage of cost savings associated with the purchase and installation of instrument landing systems, along with associated equipment, under existing or future Federal Aviation Administration contracts. The process established by the Administrator may provide for the direct reimbursement (including administrative costs) of the Administrator by an airport sponsor using grants funds under subchapter I of chapter 471 of subtitle VII of title 49, United States Code, relating to airport improvement, for the ordering of such equipment and installation or for the direct ordering of such equipment and installation by an airport sponsor, using such grant funds, from the suppliers with which the Administrator has contracted."
+Pub. L. 103–305, title I, §120(b), Aug. 23, 1994, 108 Stat. 1581, provided that: "Notwithstanding other provisions of law or regulations to the contrary, the Administrator \[of the Federal Aviation Administration\] shall establish, within 120 days after the date of the enactment of this Act \[Aug. 23, 1994\], a process through which airport sponsors may take advantage of cost savings associated with the purchase and installation of instrument landing systems, along with associated equipment, under existing or future Federal Aviation Administration contracts. The process established by the Administrator may provide for the direct reimbursement (including administrative costs) of the Administrator by an airport sponsor using grants funds under subchapter I of chapter 471 of subtitle VII of title 49, United States Code, relating to airport improvement, for the ordering of such equipment and installation or for the direct ordering of such equipment and installation by an airport sponsor, using such grant funds, from the suppliers with which the Administrator has contracted."
 
 #### Grandfather Provision for FAA Demonstration Project
 

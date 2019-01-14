@@ -10,7 +10,7 @@ Restraints and seclusion may only be imposed on a resident of a facility describ
 
 &emsp;(1) the restraints or seclusion are imposed to ensure the physical safety of the resident, a staff member, or others; and
 
-&emsp;(2) the restraints or seclusion are imposed only upon the written order of a physician, or other licensed practitioner permitted by the State and the facility to order such restraintor seclusion, that specifies the duration and circumstances under which the restraints are to be used (except in emergency circumstances specified by the Secretary until such an order could reasonably be obtained).
+&emsp;(2) the restraints or seclusion are imposed only upon the written order of a physician, or other licensed practitioner permitted by the State and the facility to order such restraint or seclusion, that specifies the duration and circumstances under which the restraints are to be used (except in emergency circumstances specified by the Secretary until such an order could reasonably be obtained).
 
 #### (c) Current law
 

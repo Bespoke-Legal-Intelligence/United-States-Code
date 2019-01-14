@@ -50,7 +50,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 (3) An owner, agent, consignee, master, or commanding officer may meet the requirements under this subsection with respect to more than one alien crewman in a single list.
 
-(4)(A) The Secretary of Labor shall compile and make available for public examination in a timely manner in Washington, D.C., a list identifying owners, agents, consignees, masters, or commanding officers which have filed lists for nonimmigrants described in section 1101(a)(15)(D)(i) of this title with respect to whom an attestation under paragraph (1) or subsection (d)(1) is made and, for each such entity, a copy of the entity's attestation under paragraph (1) or subsection (d)(1) (and accompanying documentation) and each such list filed by the entity.
+(4)(A) The Secretary of Labor shall compile and make available for public examination in a timely manner in Washington, D.C., a list identifying owners, agents, consignees, masters, or commanding officers which have filed lists for nonimmigrants described in section1101(a)(15)(D)(i) of this title with respect to whom an attestation under paragraph (1) or subsection (d)(1) is made and, for each such entity, a copy of the entity's attestation under paragraph (1) or subsection (d)(1) (and accompanying documentation) and each such list filed by the entity.
 
 (B)(i) The Secretary of Labor shall establish a process for the receipt, investigation, and disposition of complaints respecting an entity's failure to meet conditions attested to, an entity's misrepresentation of a material fact in an attestation, or, in the case described in the last sentence of paragraph (1), whether the performance of the particular activity is or is not described in paragraph (1)(B)(i).
 
@@ -64,7 +64,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 (D) Under the process established under subparagraph (B), the Secretary shall provide, within 180 days after the date a complaint is filed (or later for good cause shown), for a determination as to whether or not a basis exists to make a finding described in subparagraph (E). The Secretary shall provide notice of such determination to the interested parties and an opportunity for a hearing on the complaint within 60 days of the date of the determination.
 
-(E)(i) If the Secretary of Labor finds, after notice and opportunity for a hearing, that an entity has failed to meet a condition attested to or has made a misrepresentation of material fact in the attestation, the Secretary shall notify the Attorney General of such finding and may, in addition, impose such other administrative remedies (including civil monetary penalties in an amount not to exceed $5,000 for each alien crewman performing unauthorized longshore work) as the Secretary determines to be appropriate. Upon receipt of such notice, the AttorneyGeneral shall not permit the vessels owned or chartered by such entity to enter any port of the United States during a period of up to 1 year.
+(E)(i) If the Secretary of Labor finds, after notice and opportunity for a hearing, that an entity has failed to meet a condition attested to or has made a misrepresentation of material fact in the attestation, the Secretary shall notify the Attorney General of such finding and may, in addition, impose such other administrative remedies (including civil monetary penalties in an amount not to exceed $5,000 for each alien crewman performing unauthorized longshore work) as the Secretary determines to be appropriate. Upon receipt of such notice, the Attorney General shall not permit the vessels owned or chartered by such entity to enter any port of the United States during a period of up to 1 year.
 
 (ii) If the Secretary of Labor finds, after notice and opportunity for a hearing, that, in the case described in the last sentence of paragraph (1), the performance of the particular activity is not described in subparagraph (B)(i), the Secretary shall notify the Attorney General of such finding and, thereafter, the attestation described in paragraph (1) shall be required of the employer for the performance of the particular activity.
 
@@ -80,7 +80,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 &emsp;&emsp;(i) wherever two or more contract stevedoring companies have signed a joint collective bargaining agreement with a single labor organization described in subparagraph (D)(i), the employer may request longshore workers from only one of such contract stevedoring companies, and
 
-&emsp;&emsp;(ii) a request for longshore workers to an operator of a private dock may be made only for longshore work to be performed at that dock and only if the operator meets the requirements of section 932 of title 33;
+&emsp;&emsp;(ii) a request for longshore workers to an operator of a private dock may be made onlyfor longshore work to be performed at that dock and only if the operator meets the requirements of section 932 of title 33;
 
 &emsp;(B) the employer will employ all those United States longshore workers made available in response to the request made pursuant to subparagraph (A) who are qualified and available in sufficient numbers and who are needed to perform the longshore activity at the particular time and location;
 
@@ -118,7 +118,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 (4) Subject to subparagraphs (A) through (D) of subsection (c)(4), attestations filed under paragraph (1) of this subsection shall—
 
-&emsp;(A) expire at the end of the 1-year period beginning on the date the employer anticipatesthe longshore work to begin, as specified in the attestation filed with the Secretary of Labor, and
+&emsp;(A) expire at the end of the 1-year period beginning on the date the employer anticipates the longshore work to begin, as specified in the attestation filed with the Secretary of Labor, and
 
 &emsp;(B) apply to aliens arriving in the United States during such 1-year period if the owner, agent, consignee, master, or commanding officer states in each list under section 1281 of this title that it continues to comply with the conditions in the attestation.
 
@@ -156,7 +156,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 #### References in Text
 
-Section 4106 of the Oil Pollution Act of 1990, referred to in subsec. (b)(2), is section 4106 of Pub. L. 101–380, title IV, Aug. 18, 1990, 104 Stat. 513, which amended section 1228 of Title 33, Navigation and Navigable Waters, and sections 6101 and 9101 of Title 46, Shipping.
+Section 4106 of the Oil Pollution Act of 1990, referred to in subsec. (b)(2), is section 4106 of Pub. L. 101–380, title IV, Aug. 18, 1990, 104 Stat. 513, which amended former section 1228 of Title 33, Navigation and Navigable Waters, and sections 6101 and 9101 of Title 46, Shipping.
 
 The National Labor Relations Act, referred to in subsec. (d)(1)(D)(i), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 

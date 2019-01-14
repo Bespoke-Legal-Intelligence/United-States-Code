@@ -48,7 +48,7 @@ Every individual who—
 
 &emsp;(D) As of a date, determined under regulations of the Secretary, for nonpayment of premiums.
 
-> The regulations under subparagraph (D) may provide a grace period of not longer than 90 days, which may be extended to not to exceed180 days in any case where the Secretary determines that there was good cause for failure to pay the overdue premiums within such 90-day period. Termination of coverage under this section shall result in simultaneous termination of any coverage affected under any other part of this subchapter.
+> The regulations under subparagraph (D) may provide a grace period of not longer than 90 days, which may be extended to not to exceed 180 days in any case where the Secretary determines that there was good cause for failure to pay the overdue premiums within such 90-day period. Termination of coverage under this section shall result in simultaneous termination of any coverage affected under any other part of this subchapter.
 
 (3) The provisions of subsections (h) and (i) of section 1395p of this title apply to enrollment and nonenrollment under this section in the same manner as they apply to enrollment and nonenrollment and special enrollment periods under section 1395i–2 of this title.
 

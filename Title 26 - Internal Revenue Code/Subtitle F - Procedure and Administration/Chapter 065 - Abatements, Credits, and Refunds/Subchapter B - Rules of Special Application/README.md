@@ -20,12 +20,13 @@
 | [6427\.](%C2%A7%2006427%20-%20Fuels%20not%20used%20for%20taxable%20purposes.md) | Fuels not used for taxable purposes. |
 | \[6428, 6429. Repealed.\] |  |
 | [6430\.](%C2%A7%2006430%20-%20Treatment%20of%20tax%20imposed%20at%20Leaking%20Underground%20Storage%20Tank%20Trust%20Fund%20financing%20rate.md) | Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate. |
-| \[6431. | Repealed.\] |
-| [6432\.](%C2%A7%2006432%20-%20COBRA%20premium%20assistance.md) | COBRA premium assistance. |
+| \[6431, 6432. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(d)(7)(A), Mar. 23, 2018, 132 Stat. 1212, struck out item 6432 "COBRA premium assistance".
 
 <b>2017</b>—Pub. L. 115–97, title I, §13404(b), Dec. 22, 2017, 131 Stat. 2138, struck out item 6431 "Credit for qualified bonds allowed to issuer".
 
@@ -109,4 +110,4 @@ Act Apr. 2, 1956, ch. 160, §4(c), 70 Stat. 91, added item 6420 and renumbered f
 - [&sect; 06429 - Repealed. Pub. L. 113&#8211;295, div. A, title II, &sect;221(a)(113), Dec. 19, 2014, 128 Stat. 4054](%C2%A7%2006429%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93295%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7221%28a%29%28113%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%204054.md)
 - [&sect; 06430 - Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate](%C2%A7%2006430%20-%20Treatment%20of%20tax%20imposed%20at%20Leaking%20Underground%20Storage%20Tank%20Trust%20Fund%20financing%20rate.md)
 - [&sect; 06431 - Repealed. Pub. L. 115&#8211;97, title I, &sect;13404(b), Dec. 22, 2017, 131 Stat. 2138](%C2%A7%2006431%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9397%2C%20title%20I%2C%20%C2%A713404%28b%29%2C%20Dec.%2022%2C%202017%2C%20131%20Stat.%202138.md)
-- [&sect; 06432 - COBRA premium assistance](%C2%A7%2006432%20-%20COBRA%20premium%20assistance.md)
+- [&sect; 06432 - Repealed. Pub. L. 115&#8211;141, div. U, title IV, &sect;401(d)(7)(A), Mar. 23, 2018, 132 Stat. 1212](%C2%A7%2006432%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93141%2C%20div.%20U%2C%20title%20IV%2C%20%C2%A7401%28d%29%287%29%28A%29%2C%20Mar.%2023%2C%202018%2C%20132%20Stat.%201212.md)

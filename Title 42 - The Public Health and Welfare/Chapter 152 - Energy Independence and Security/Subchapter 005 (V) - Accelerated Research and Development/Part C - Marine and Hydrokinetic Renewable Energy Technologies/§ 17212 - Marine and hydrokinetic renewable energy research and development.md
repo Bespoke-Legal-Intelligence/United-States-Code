@@ -18,7 +18,7 @@ The Secretary, in consultation with the Secretary of the Interior and the Secret
 
 &emsp;(7) increase the reliability and survivability of marine and hydrokinetic renewable energy technologies, including development of corrosive-resistant materials;
 
-&emsp;(8) identify, in conjunction with the Secretary of Commerce, acting through the UnderSecretary of Commerce for Oceans and Atmosphere, and other Federal agencies as appropriate, the potential environmental impacts, including potential impacts on fisheries and other marine resources, of marine and hydrokinetic renewable energy technologies, measures to prevent adverse impacts, and technologies and other means available for monitoring and determining environmental impacts;
+&emsp;(8) identify, in conjunction with the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, and other Federal agencies as appropriate, the potential environmental impacts, including potential impacts on fisheries and other marine resources, of marine and hydrokinetic renewable energy technologies, measures to prevent adverse impacts, and technologies and other means available for monitoring and determining environmental impacts;
 
 &emsp;(9) identify, in conjunction with the Secretary of the Department in which the United States Coast Guard is operating, acting through the Commandant of the United States Coast Guard, the potential navigational impacts of marine and hydrokinetic renewable energy technologies and measures to prevent adverse impacts on navigation;
 

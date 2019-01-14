@@ -24,5 +24,5 @@ Section was formerly classified to section 1989c–2 of the former Appendix to t
 
 #### Reestablishment of Fund; Use of Funds
 
-For provisions that the Fund, if terminated pursuant to subsec. (d) of this section, is to be reestablished upon appropriation of additional funds, and restricting use of appropriated funds, see section 1(b), (c), of Pub. L. 103–402, set out as a note under section 4235 of this title.
+For provisions that the Fund, if terminated pursuant to subsec. (d) of this section, is to be reestablished uponappropriation of additional funds, and restricting use of appropriated funds, see section 1(b), (c), of Pub. L. 103–402, set out as a note under section 4235 of this title.
 

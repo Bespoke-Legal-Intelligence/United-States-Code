@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(E) One point for each day on which funeral honors duty is performed for at least two hours under section 12503 of this title or section 115 of title 32, unless the duty is performed while in a status for which credit is provided under another subparagraph of this paragraph.
 
-> &emsp;For the purpose of clauses (A), (B), (C), (D), and (E), service in the National Guard shall betreated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
+> &emsp;For the purpose of clauses (A), (B), (C), (D), and (E), service in the National Guard shall be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
 
 &emsp;(3) The person's years of active service in the Commissioned Corps of the Public Health Service.
 
@@ -162,7 +162,7 @@ In subsection (a)(2)(A) and (B), specific reference is made to National Guard se
 
 In subsection (a)(2)(C), the words "other than active Federal service" are omitted, since the points for membership are not reduced by active duty (see opinion of the Judge Advocate General of the Army (JAGA, 1953/2016, 3 Mar. 1953)).
 
-In subsections (a) and (b), the words "active service" are substituted for the words "active Federal service" for uniformity of expression. In clause (5), the words "transferred thereto after completion of 16 or more years of active naval service" are omitted, since other authorized fleet reserve categories have not been usedand authority for them is omitted from this revised title as unnecessary.
+In subsections (a) and (b), the words "active service" are substituted for the words "active Federal service" for uniformity of expression. In clause (5), the words "transferred thereto after completion of 16 or more years of active naval service" are omitted, since other authorized fleet reserve categories have not been used and authority for them is omitted from this revised title as unnecessary.
 
 Subsection (b)(1)–(4) is inserted because of 10:1036e(e) and (f) and 34:440m(e) and (f), which state that the service enumerated in those clauses may not be considered in determining eligibility for retired pay under this chapter. Clause (5) is based on the exclusions in 34:440m(c)(8)–(9).
 
@@ -242,7 +242,7 @@ Recommendations to Congress.—The Secretary shall submit to Congress, not later
 
 #### Coast Guard Women's Reserve; Constructive Service Credit: Retirement Benefits; Retroactive Pay
 
-Pub. L. 87–482, June 12, 1962, 76 Stat. 95, provided: "That any person who was a member of the Coast Guard Women's Reserve and who served on active duty therein for at least one year prior to July 25, 1947; who was separated therefrom under honorable conditions; and who also had membership therein for any period between November 1, 1949, and July 1, 1956, shall be deemed to have served on inactive duty with the Coast Guard Women's Reserve from July 25, 1947, to November 1, 1949, in the grade or rating satisfactorily held on active duty prior to July 25, 1947.
+Pub. L. 87–482, June 12, 1962, 76 Stat. 95, provided: "That any person who was a member of the CoastGuard Women's Reserve and who served on active duty therein for at least one year prior to July 25, 1947; who was separated therefrom under honorable conditions; and who also had membership therein for any period between November 1, 1949, and July 1, 1956, shall be deemed to have served on inactive duty with the Coast Guard Women's Reserve from July 25, 1947, to November 1, 1949, in the grade or rating satisfactorily held on active duty prior to July 25, 1947.
 
 "
 

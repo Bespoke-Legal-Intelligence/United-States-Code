@@ -2,7 +2,7 @@
 
 #### (a) Federal grants and contracts for certain research projects and related activities
 
-(1) To the extent consistent with priorities established in the 5-year plan described in section 762(h) of this title, the Director may make grants to and contracts with States and public or private agencies and organizations, including institutions of higher education, Indian tribes, and tribal organizations, to fund part of the cost of projects for the purpose of planning and conducting research, demonstration projects, training, and related activities, the purposes of which are to develop methods, procedures, and rehabilitation technology, that have practical applications and maximize the full inclusion and integration into society, employment, education, independent living, health and wellness, familysupport, and economic and social self-sufficiency of individuals with disabilities, especially individuals with the most significant disabilities, and improve the effectiveness of services authorized under this chapter.
+(1) To the extent consistent with priorities established in the 5-year plan described in section 762(h) of this title, the Director may make grants to and contracts with States and public or private agencies and organizations, including institutions of higher education, Indian tribes, and tribal organizations, to fund part of the cost of projects for the purpose of planning and conducting research, demonstration projects, training, and related activities, the purposes of which are to develop methods, procedures, and rehabilitation technology, that have practical applications and maximize the full inclusion and integration into society, employment, education, independent living, health and wellness, family support, and economic and social self-sufficiency of individuals with disabilities, especially individuals with the most significant disabilities, and improve the effectiveness of services authorized under this chapter.
 
 (2)(A) In carrying out this section, the Director shall emphasize projects that support the implementation of subchapters I, III, V, VI, and VII, including projects addressing the needs described in the State plans submitted under section 721 or 796c of this title by State agencies and from which the research findings, conclusions, or recommendations can be transferred to practice.
 
@@ -18,7 +18,7 @@
 
 &emsp;(v) studies, analyses, and other activities related to supported employment, and to promoting employment opportunities in competitive integrated employment;
 
-&emsp;(vi) related activities which hold promise of increasing knowledge and improving methods in the rehabilitation of individuals with disabilities and individuals with the most significant disabilities, particularly individuals with disabilities, and individuals with the most significant disabilities, who are members of populations that are unserved or underserved by programs under this chapter;
+&emsp;(vi) related activities which hold promise of increasing knowledge and improving methodsin the rehabilitation of individuals with disabilities and individuals with the most significant disabilities, particularly individuals with disabilities, and individuals with the most significant disabilities, who are members of populations that are unserved or underserved by programs under this chapter;
 
 &emsp;(vii) studies, analyses, and other activities related to job accommodations, including the use of rehabilitation engineering, assistive technology, and communications technology; and
 
@@ -68,7 +68,7 @@
 
 &emsp;(vi) research, dissemination, and technical assistance, on best practices in vocational rehabilitation, including supported employment and other strategies to promote competitive integrated employment for persons with the most significant disabilities.
 
-(D) Training of students preparing to be independent living or rehabilitation personnel or to provide independent living, rehabilitative, assistive, or supportive services (such as rehabilitation counseling, personal care services, direct care, job coaching, aides in school based settings, or advice or assistance in utilizing assistive technology devices, assistive technology services, and accessible electronic and information technology devices and services) shall be an important priority for each such Center.
+(D) Training of students preparing to be independent living or rehabilitation personnel or to provide independent living, rehabilitative, assistive, or supportive services (such as rehabilitation counseling, personal care services, directcare, job coaching, aides in school based settings, or advice or assistance in utilizing assistive technology devices, assistive technology services, and accessible electronic and information technology devices and services) shall be an important priority for each such Center.
 
 (E) The Director shall make grants under this paragraph to establish and support both centers dealing with multiple disabilities and centers primarily focused on particular disabilities.
 
@@ -108,7 +108,7 @@
 
 &emsp;(i) developing and disseminating innovative methods of applying advanced technology, scientific achievement, and psychological and social knowledge to—
 
-&emsp;&emsp;(I) solve independent living and rehabilitation problems and remove environmental barriers through planning and conducting research, including cooperative researchwith public or private agencies and organizations, designed to produce new scientific knowledge, and new or improved methods, equipment, and devices; and
+&emsp;&emsp;(I) solve independent living and rehabilitation problems and remove environmental barriers through planning and conducting research, including cooperative research with public or private agencies and organizations, designed to produce new scientific knowledge, and new or improved methods, equipment, and devices; and
 
 &emsp;&emsp;(II) study new or emerging technologies, products, or environments, and the effectiveness and benefits of such technologies, products, or environments;
 
@@ -182,7 +182,7 @@
 
 (C) In awarding grants under this paragraph, the Director shall take into account the location of any proposed Spinal Cord Injury Center and the appropriate geographic and regional allocation of such Centers.
 
-(5) Research grants may be used to conduct a program for end-stage renal disease research, to include support of projects and demonstrations for providing special services (including transplantation and dialysis), artificial kidneys, and supplies necessary for the rehabilitation of individuals with such disease and which will—
+(5) Research grants may be used to conduct a program for end-stage renal disease research, toinclude support of projects and demonstrations for providing special services (including transplantation and dialysis), artificial kidneys, and supplies necessary for the rehabilitation of individuals with such disease and which will—
 
 &emsp;(A) ensure dissemination of research findings;
 
@@ -352,7 +352,7 @@ Subsec. (b)(2)(B)(iv). Pub. L. 113–128, §435(2)(B)(ii)(V), inserted "independ
 
 Pub. L. 113–128, §435(2)(B)(ii)(II), redesignated cl. (iii) as (iv). Former cl. (iv) redesignated (v).
 
-Subsec. (b)(2)(B)(v). Pub. L. 113–128, §435(2)(B)(ii)(VI), added cl. (v) and struck out former cl. (v) which read asfollows: "serving as an informational and technical assistance resource to providers, individuals with disabilities, and the individuals' representatives, through conferences, workshops, public education programs, in-service training programs, and similar activities."
+Subsec. (b)(2)(B)(v). Pub. L. 113–128, §435(2)(B)(ii)(VI), added cl. (v) and struck out former cl. (v) which read as follows: "serving as an informational and technical assistance resource to providers, individuals with disabilities, and the individuals' representatives, through conferences, workshops, public education programs, in-service training programs, and similar activities."
 
 Pub. L. 113–128, §435(2)(B)(ii)(II), redesignated cl. (iv) as (v).
 

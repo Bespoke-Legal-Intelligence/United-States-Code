@@ -26,7 +26,7 @@ Early Transfer of Records.—The Archivist—
 
 &emsp;&emsp;(C) any shorter period agreed to by the originating Federal agency.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1287, §2103; Pub. L. 94–575, §4(a), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 95–416, §1(a), Oct. 5, 1978, 92 Stat. 915; renumbered §2107 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(1), Oct. 19, 1984, 98 Stat. 2280, 2285; Pub. L. 113–187, §3(a), Nov. 26, 2014, 128 Stat. 2007.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1287, §2103; Pub. L. 94–575, §4(a), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 95–416, §1(a), Oct. 5, 1978, 92 Stat. 915; renumbered §2107 and amended Pub. L. 98–497, titleI, §§102(a)(1), 107(a)(1), Oct. 19, 1984, 98 Stat. 2280, 2285; Pub. L. 113–187, §3(a), Nov. 26, 2014, 128 Stat. 2007.)
 
 #### Historical and Revision Notes
 
@@ -53,6 +53,722 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–345, §1, Oct. 6, 1994, 108 Stat. 3128, provided that: "This Act \[amending provisions set out as a note below\] may be cited as the 'President John F. Kennedy Assassination Records Collection Extension Act of 1994'."
+
+#### Civil Rights Cold Case Records Collection
+
+Pub. L. 115–426, Jan. 8, 2019, 132 Stat. 5489, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Civil Rights Cold Case Records Collection Act of 2018'.
+
+#### "SEC. 2. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Archivist.—The term 'Archivist' means the Archivist of the United States.
+
+&emsp;"(2)
+
+Civil rights cold case.—The term 'civil rights cold case' means any unsolved case—
+
+&emsp;&emsp;"(A) arising out of events which occurred during the period beginning on January 1, 1940 and ending on December 31, 1979; and
+
+&emsp;&emsp;"(B) related to—
+
+&emsp;&emsp;&emsp;"(i) section 241 of title 18, United States Code (relating to conspiracy against rights);
+
+&emsp;&emsp;&emsp;"(ii) section 242 of title 18, United States Code (relating to deprivation of rights under color of law);
+
+&emsp;&emsp;&emsp;"(iii) section 245 of title 18, United States Code (relating to federally protected activities);
+
+&emsp;&emsp;&emsp;"(iv) sections 1581 and 1584 of title 18, United States Code (relating to peonage and involuntary servitude);
+
+&emsp;&emsp;&emsp;"(v) section 901 of the Fair Housing Act (42 U.S.C. 3631); or
+
+&emsp;&emsp;&emsp;"(vi) any other Federal law that was—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) in effect on or before December 31, 1979; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) enforced by the criminal section of the Civil Rights Division of the Department of Justice before the date of enactment of this Act \[Jan. 8. 2019\].
+
+&emsp;"(3)
+
+Civil rights cold case record.—The term 'civil rights cold case record' means a record that—
+
+&emsp;&emsp;"(A) is related to a civil rights cold case; and
+
+&emsp;&emsp;"(B) was created or made available for use by, obtained by, or otherwise came into the possession of—
+
+&emsp;&emsp;&emsp;"(i) the Library of Congress;
+
+&emsp;&emsp;&emsp;"(ii) the National Archives;
+
+&emsp;&emsp;&emsp;"(iii) any executive agency;
+
+&emsp;&emsp;&emsp;"(iv) any independent agency;
+
+&emsp;&emsp;&emsp;"(v) any other entity of the Federal Government; or
+
+&emsp;&emsp;&emsp;"(vi) any State or local government, or component thereof, that provided support or assistance or performed work in connection with a Federal inquiry into a civil rights cold case.
+
+&emsp;"(4)
+
+Collection.—The term 'Collection' means the Civil Rights Cold Case Records Collection established under section 3.
+
+&emsp;"(5)
+
+Executive agency.—The term 'executive agency' means an agency, as defined in section 552(f) of title 5, United States Code.
+
+&emsp;"(6)
+
+Government office.—The term 'Government office' means any office of the Federal Government that has possession or control of 1 or more civil rights cold case records.
+
+&emsp;"(7)
+
+Government official.—The term 'Government official' means any officer or employee of the United States, including elected and appointed officials.
+
+&emsp;"(8)
+
+National archives.—The term 'National Archives' means the National Archives and Records Administration and all components thereof, including Presidential archival depositories established under section 2112 of title 44, United States Code.
+
+&emsp;"(9)
+
+Official investigation.—The term 'official investigation' means the review of a civil rights cold case conducted by any entity of the Federal Government either independently, at the request of any Presidential commission or congressional committee, or at the request of any Government official.
+
+&emsp;"(10)
+
+Originating body.—The term 'originating body' means the executive agency, Government commission, congressional committee, or other Governmental entity that created a record or particular information within a record.
+
+&emsp;"(11)
+
+Public interest.—The term 'public interest' means the compelling interest in the prompt public disclosure of civil rights cold case records for historical and Governmental purposes and for the purpose of fully informing the people of the United States about the history surrounding all civil rights cold cases in the United States.
+
+&emsp;"(12)
+
+Record.—The term 'record' has the meaning given the term in section 3301 of title 44, United States Code.
+
+&emsp;"(13)
+
+Review board.—The term 'Review Board' means the Civil Rights Cold Case Records Review Board established under section 5.
+
+#### "SEC. 3. CIVIL RIGHTS COLD CASE RECORDS COLLECTION AT THE NATIONAL ARCHIVES AND RECORD ADMINISTRATION.
+
+"(a)
+
+In General.—
+
+&emsp;"(1)
+
+Establishment of the civil rights cold case records collection.—Not later than 60 days after the date of enactment of this Act \[Jan. 8, 2019\], the Archivist shall—
+
+&emsp;&emsp;"(A) commence establishing a collection of civil rights cold case records to be known as the 'Civil Rights Cold Case Records Collection' that ensures the physical integrity and original provenance of all records in the Collection;
+
+&emsp;&emsp;"(B) commence preparing and publishing the subject guidebook and index to the Collection; and
+
+&emsp;&emsp;"(C) establish criteria for Government offices to follow when transmitting copies of civil rights coldcase records to the Archivist, to include required metadata.
+
+&emsp;"(2)
+
+Contents of collection.—The Collection shall include—
+
+&emsp;&emsp;"(A) a copy of each civil rights cold case record—
+
+&emsp;&emsp;&emsp;"(i) that has not been transmitted to the Archivist, which shall be transmitted to the Archivist in accordance with section 2107 of title 44, United States Code, by the entity described in section 2(3)(B) in possession of the civil rights cold case record, except in the case of a State or local government;
+
+&emsp;&emsp;&emsp;"(ii) that has been transmitted to the Archivist or disclosed to the public in an unredacted form before the date of the enactment of this Act;
+
+&emsp;&emsp;&emsp;"(iii) that is required to be transmitted to the Archivist; or
+
+&emsp;&emsp;&emsp;"(iv) the disclosure of which is postponed under this Act; and
+
+&emsp;&emsp;"(B) all Review Board records, as required under this Act.
+
+"(b)
+
+Disclosure of Records.—All civil rights cold case records transmitted to the Archivist for disclosure to the public—
+
+&emsp;"(1) shall be included in the Collection;
+
+&emsp;"(2) not later than 60 days after the transmission of the record to the Archivist, shall be available to the public for inspection and copying at the National Archives; and
+
+&emsp;"(3) shall be prioritized for digitization by the National Archives.
+
+"(c)
+
+Fees for Copying.—The Archivist shall—
+
+&emsp;"(1) use efficient electronic means when possible;
+
+&emsp;"(2) charge fees for copying civil rights cold case records; and
+
+&emsp;"(3) grant waivers of such fees pursuant to the standard established under section 552(a)(4) of title 5, United States Code.
+
+"(d)
+
+Additional Requirements.—The Archivist shall ensure the security of civil rights cold case records in the Collection for which disclosure is postponed.
+
+"(e)
+
+Transmission to the National Archives.—
+
+&emsp;"(1)
+
+In general.—Subject to paragraph (2), each Government office shall, in accordance with the criteria established by the Archivist under subsection (a)(1)(C)—
+
+&emsp;&emsp;"(A) as soon as is reasonably practicable, and in any event not later than 2 years after the date of the enactment of this Act, transmit to the Archivist, for the Archivist to make available to the public in accordance with subsection (b), a copy of each civil rights cold case record that can be publicly disclosed, including any such record that is publicly available on the date of enactment of this Act, without any redaction, adjustment, or withholding under the standards of this Act; and
+
+&emsp;&emsp;"(B) transmit to the Archivist upon approval for postponement by the Review Board or upon completion of other action authorized by this Act, a copy of each civil rights cold case record for which public disclosure has been postponed, in whole or in part, under the standards of this Act, to become part of the protected Collection.
+
+&emsp;"(2)
+
+Reopening of cases.—If, not later than 2 years after the date of enactment of this Act, the Attorney General submits to the Archivist a certification that the Attorney General intends to reopen and pursue prosecution of the civil rights cold case to which a civil rights cold case record relates, the Attorney General shall transmit to the Archivist the civil rights cold case record in accordance with paragraph (1)—
+
+&emsp;&emsp;"(A) not later than 90 days after—
+
+&emsp;&emsp;&emsp;"(i) final judgment is entered in the proceedings relating to the civil rights cold case; or
+
+&emsp;&emsp;&emsp;"(ii) proceedings relating to the civil rights cold case are dismissed with prejudice; or
+
+&emsp;&emsp;"(B) not later than the date that is 1 year after the date on which the Attorney General submits to the Archivist the certification, if an indictment or information has not been filed with respect to the civil rights cold case.
+
+"(f)
+
+Periodic Review of Postponed Civil Rights Cold Case Records.—
+
+&emsp;"(1)
+
+In general.—Each civil rights cold case record that is redacted or for which public disclosure is postponed shall be reviewed not later than December 31 each year by the entity submitting the record and the Archivist, consistent with the recommendations of the Review Board under section 7(c)(3)(B).
+
+&emsp;"(2)
+
+Requirements of periodic review.—The periodic review under paragraph (1) shall address the public disclosure of additional civil rights cold case records in the Collection under the standards of this Act.
+
+&emsp;"(3)
+
+Unclassified written description.—Any civil rights cold case record for which postponement of public disclosure is continued shall include an unclassified written description of the reason for such continued postponement, which shall be provided to the Archivist and made available on a publicly accessible website upon the determination to continue the postponement.
+
+&emsp;"(4)
+
+Full disclosure of civil rights cold case record required.—
+
+&emsp;&emsp;"(A)
+
+In general.—Each civil rights cold case record that is not publicly disclosed in full as of the date on which the Review Board terminates under section 5(n) shall be publicly disclosed in full and available in the Collection not later than 25 years after the date of enactment of this Act unless—
+
+&emsp;&emsp;&emsp;"(i) the head of the originating body, an executive agency, or other Government office recommends in writing the exemption of the record or information, the release of which would clearly and demonstrably be expected to—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) cause identifiable or describable damage to national security, military defense, law enforcement, intelligence operations, or the conduct of foreign relations that is of such gravity that it outweighs the public interest in disclosure; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) reveal information described in paragraphs (1) through (9) of section 3.3(b) of Executive Order 13526 (75 Fed. Reg. 707; relating to classified national security information) \[50 U.S.C. 3161 note\];
+
+&emsp;&emsp;&emsp;"(ii) the written recommendation described in clause (i)—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) is provided to the Archivist not later than 180 days before the date that is 25 years after the date of enactment of this Act; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) includes—
+
+&emsp;&emsp;&emsp;"(aa) a justification of the recommendation to postpone disclosure; and
+
+&emsp;&emsp;&emsp;"(bb) a recommended specified time at which or a specified occurrence following which the material may be appropriately disclosed to the public under this Act; and
+
+&emsp;&emsp;&emsp;"(iii) the Archivist agrees with the written recommendation described in clause (i).
+
+&emsp;&emsp;"(B)
+
+Notification.—If the Archivist does not agree with the recommendation described in subparagraph (A)(i), the Archivist shall notify the head of the originating body, executive agency, or other Government office making the recommendation not later than 90 days before the date that is 25 years after the date of enactment of this Act.
+
+"(g)
+
+Digitization of Records.—Each executive agency shall make text searchable documents available to the Review Board pursuant to standards established under section 552(a)(3) of title 5, United States Code.
+
+"(h)
+
+Notice Regarding Public Disclosure.—
+
+&emsp;"(1)
+
+Finding.—Congress finds that the public release of case-related documents and information without notice may significantly affect the victims of the events to which the case relates and their next of kin.
+
+&emsp;"(2)
+
+Notice.—Not later than 7 days before a civil rights cold case record is publicly disclosed, the executive agency releasing the civil rights cold case record, in coordination with the Government office that had possession or control of the civil rights cold case record, shall take all reasonable efforts to provide the civil rights cold case record to the victims of the events to which the civil rights cold case record relates, or their next of kin.
+
+#### "SEC. 4. GROUNDS FOR POSTPONEMENT OF PUBLIC DISCLOSURE OF RECORDS.
+
+"Disclosure of civil rights cold case records or particular information within a civil rights cold case record to the public may be postponed subject to the limitations of this Act if disclosure would clearly and demonstrably be expected to—
+
+&emsp;"(1)(A) cause identifiable or describable damage to national security, military defense, law enforcement, intelligence operations, or the conduct of foreign relations that is of such gravity that it outweighs the public interest in disclosure; or
+
+&emsp;"(B) reveal information described in paragraphs (1) through (9) of section 3.3(b) of Executive Order 13526 (75 Fed. Reg. 707; relating to classified national security information);
+
+&emsp;"(2)(A) reveal the name or identity of a living individual who provided confidential information to the United States; and
+
+&emsp;"(B) pose a substantial risk of harm to that individual;
+
+&emsp;"(3) constitute an unwarranted invasion of personal privacy;
+
+&emsp;"(4)(A) compromise the existence of an understanding of confidentiality currently requiring protection between a Government agent and a cooperating individual or group; and
+
+&emsp;"(B) be so harmful that the understanding of confidentiality outweighs the public interest;
+
+&emsp;"(5) endanger the life or physical safety of any individual; or
+
+&emsp;"(6) interfere with ongoing law enforcement proceedings.
+
+#### "SEC. 5. ESTABLISHMENT AND POWERS OF THE CIVIL RIGHTS COLD CASE RECORDS REVIEW BOARD.
+
+"(a)
+
+Establishment.—There is established, as an independent agency, a board to be known as the Civil Rights Cold Case Records Review Board.
+
+"(b)
+
+Appointment.—
+
+&emsp;"(1)
+
+In general.—The President shall appoint, by and with the advice and consent of the Senate, 5 individuals to serve as members of the Review Board, to ensure and facilitate the review, transmission to the Archivist, and public disclosure of civil rights cold case records.
+
+&emsp;"(2)
+
+Initial appointment.—
+
+&emsp;&emsp;"(A)
+
+In general.—Initial appointments to the Review Board shall, so far as practicable, be made not later than 60 days after the date of enactment of this Act \[Jan. 8, 2019\].
+
+&emsp;&emsp;"(B)
+
+Recommendations.—In making appointments to the Review Board, the President may consider any individuals recommended by the American Historical Association, the Organization of American Historians, the Society of American Archivists, and the American Bar Association.
+
+&emsp;&emsp;"(C)
+
+Extension.—If an organization described in subparagraph (B) does not recommend at least 2 nominees meeting the qualifications stated in paragraph (3) within 60 days after the date of enactment of this Act, the deadline under subparagraph (A) shall be extended until the earlier of 60 days after the date on which such recommendations are made or 120 days after the date of enactment of this Act.
+
+&emsp;&emsp;"(D)
+
+Additional recommendations.—The President may request that any organization described in subparagraph (B) submit additional recommended nominees.
+
+&emsp;"(3)
+
+Qualifications.—Individuals nominated to the Review Board shall—
+
+&emsp;&emsp;"(A) not have had any previous involvement with any official investigation or inquiry conducted by the Federal Government, or any State or local government, relating to any civil rights cold case;
+
+&emsp;&emsp;"(B) be distinguished individuals of high national professional reputation in their respective fields who are capable of exercising the independent and objective judgment necessary to fulfill their role in ensuring and facilitating the review, transmission to the public, and public disclosure of files related to civil rights cold cases and who possess an appreciation of the value of such material to the public, scholars, and government; and
+
+&emsp;&emsp;"(C) include at least 1 professional historian and 1 attorney.
+
+"(c)
+
+Security Clearances.—All Review Board nominees shall be processed for the necessary security clearances in an accelerated manner by the appropriate Federal agencies and subject to the standard procedures for granting such clearances.
+
+"(d)
+
+Vacancy.—A vacancy on the Review Board shall be filled in the same manner as the original appointment within 60 days of the occurrence of the vacancy.
+
+"(e)
+
+Chairperson.—The members of the Review Board shall elect 1 of the members as chairperson.
+
+"(f)
+
+Removal of Review Board Member.—
+
+&emsp;"(1)
+
+In general.—No member of the Review Board shall be removed from office, other than—
+
+&emsp;&emsp;"(A) by impeachment and conviction; or
+
+&emsp;&emsp;"(B) by the action of the President for inefficiency, neglect of duty, malfeasance in office, physical disability, mental incapacity, or any other condition that substantially impairs the performance of the member's duties.
+
+&emsp;"(2)
+
+Report.—
+
+&emsp;&emsp;"(A)
+
+In general.—If a member of the Review Board is removed from office, and that removal is by the President, not later than 10 days after the removal, the President shall submit to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report specifying the facts found and the grounds for the removal.
+
+&emsp;&emsp;"(B)
+
+Publication.—The President shall publish in the Federal Register a report submitted under subparagraph (A), except that the President may, if necessary to protect the rights of a person named in the report or to prevent undue interference with any pending prosecution, postpone or refrain from publishing any or all of the report until the completion of such pending cases or pursuant to privacy protection requirements in law.
+
+&emsp;"(3)
+
+Judicial review.—
+
+&emsp;&emsp;"(A)
+
+In general.—A member of the Review Board removed from office may obtain judicial review of the removal in a civil action commenced in the United States District Court for the District of Columbia.
+
+&emsp;&emsp;"(B)
+
+Relief.—The member may be reinstated or granted other appropriate relief by order of the court.
+
+"(g)
+
+Compensation of Members.—
+
+&emsp;"(1)
+
+In general.—A member of the Review Board shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the Review Board.
+
+&emsp;"(2)
+
+Travel expenses.—A member of the Review Board shall be allowed reasonable travel expenses, including per diem in lieu of subsistence, at rates for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from the member's home or regular place of business in the performance of services for the Review Board.
+
+"(h)
+
+Duties of the Review Board.—
+
+&emsp;"(1)
+
+In general.—The Review Board shall consider and render decisions on a determination by a Government office to seek to postpone the disclosure of civil rights cold case records.
+
+&emsp;"(2)
+
+Decisions.—In carrying out paragraph (1), the Review Board shall consider and render decisions on—
+
+&emsp;&emsp;"(A) whether a record constitutes a civil rights cold case record; and
+
+&emsp;&emsp;"(B) whether a civil rights cold case record or particular information in a record qualifies for postponement of disclosure under this Act.
+
+"(i)
+
+Powers.—
+
+&emsp;"(1)
+
+In general.—The Review Board shall have the authority to act in a manner prescribed under this Act including the authority to—
+
+&emsp;&emsp;"(A) obtain access to civil rights cold case records that have been identified and organized by a Government office;
+
+&emsp;&emsp;"(B) direct a Government office to make available to the Review Board, and if necessary investigate the facts surrounding, additional information, records, or testimony from individuals, which the Review Board has reason to believe is required to fulfill its functions and responsibilities under this Act;
+
+&emsp;&emsp;"(C) subpoena private persons to compel the production of documents and other records relevant to its responsibilities under this Act;
+
+&emsp;&emsp;"(D) require any Government office to account in writing for the destruction of any records relating to civil rights cold cases;
+
+&emsp;&emsp;"(E) receive information from the public regarding the identification and public disclosure of civil rights cold case records; and
+
+&emsp;&emsp;"(F) hold hearings, administer oaths, and subpoena documents and other records.
+
+&emsp;"(2)
+
+Enforcement of subpoenas.—Any subpoena issued under this subsection may be enforced by any appropriate Federal court acting pursuant to a lawful request of the Review Board.
+
+"(j)
+
+Witness Immunity.—The Review Board shall be considered to be an agency of the United States for purposes of chapter 601 of title 18, United States Code.
+
+"(k)
+
+Oversight.—
+
+&emsp;"(1)
+
+In general.—The Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate shall have continuing oversight jurisdiction with respect to the official conduct of the Review Board and the disposition of postponed records after termination of the Review Board, and shall have access to any records held or created by the Review Board.
+
+&emsp;"(2)
+
+Cooperation of review board.—The Review Board shall have a duty to cooperate with the exercise of the oversight jurisdiction described in paragraph (1).
+
+"(l)
+
+Support Services.—The Administrator of General Services shall provide administrative services for the Review Board on a reimbursable basis.
+
+"(m)
+
+Interpretive Regulations.—The Review Board may issue interpretive regulations.
+
+"(n)
+
+Termination.—
+
+&emsp;"(1)
+
+In general.—The Review Board shall terminate not later than 4 years after the date of enactment of this Act, except that the Review Board may, by majority vote, extend its term for an additional 1-year period if the Review Board has not completed its work within that 4-year period.
+
+&emsp;"(2)
+
+Reports.—Before its termination, the Review Board shall submit reports to the President and the Congress, including a complete and accurate accounting of expenditures during its existence, and shall complete all other reporting requirements under this Act.
+
+&emsp;"(3)
+
+Transfer of records.—
+
+&emsp;&emsp;"(A)
+
+In general.—Upon termination, the Review Board shall transfer all of its records to the Archivist for inclusion in the Collection.
+
+&emsp;&emsp;"(B)
+
+Preservation of records.—The records of the Review Board shall not be destroyed, except that the Archivist may destroy routine administrative records covered by a general records schedule following notification in the Federal Register and after considering comments.
+
+#### "SEC. 6. REVIEW BOARD PERSONNEL.
+
+"(a)
+
+Chief of Staff.—
+
+&emsp;"(1)
+
+Appointment.—Not later than 45 days after the initial meeting of the Review Board, and without regard to political affiliation, the Review Board shall appoint an individual to the position of Chief of Staff of the Review Board.
+
+&emsp;"(2)
+
+Requirements.—The individual appointed as Chief of Staff—
+
+&emsp;&emsp;"(A) shall be a citizen of the United States of integrity and impartiality who is a distinguished professional; and
+
+&emsp;&emsp;"(B) shall have had no previous involvement with any official investigation or inquiry relating to civil rights cold cases.
+
+&emsp;"(3)
+
+Candidate to have clearances.—A candidate for Chief of Staff shall be granted the necessary security clearances in an accelerated manner subject to the standard procedures for granting such clearances.
+
+&emsp;"(4)
+
+Approval contingent on prior clearance.—A candidate for Chief of Staff shall qualify for the necessary security clearance prior to being appointed by the Review Board.
+
+&emsp;"(5)
+
+Duties.—The Chief of Staff shall—
+
+&emsp;&emsp;"(A) serve as principal liaison to Government offices;
+
+&emsp;&emsp;"(B) be responsible for the administration and coordination of the Review Board's review of records;
+
+&emsp;&emsp;"(C) be responsible for the administration of all official activities conducted by the Review Board; and
+
+&emsp;&emsp;"(D) have no authority to decide or determine whether any record shall be disclosed to the public or postponed for disclosure.
+
+&emsp;"(6)
+
+Removal.—The Chief of Staff shall not be removed except upon a majority vote of the Review Board to remove the Chief of Staff for cause on the grounds of inefficiency, neglect of duty, malfeasance in office, physical disability, mental incapacity, or any other condition that substantially impairs the performance of the responsibilities of the Chief of Staff or the employees of the Review Board.
+
+"(b)
+
+Staff.—
+
+&emsp;"(1)
+
+Additional personnel.—The Review Board may, in accordance with the civil service laws but without regard to civil service laws and regulations for appointments in the competitive service under subchapter I of chapter 33 of title 5, United States Code, appoint and terminate additional employees as are necessary to enable the Review Board and its Chief of Staff to perform their duties.
+
+&emsp;"(2)
+
+Requirements.—An individual appointed as an employee of the Review Board—
+
+&emsp;&emsp;"(A) shall be a private citizen of integrity and impartiality; and
+
+&emsp;&emsp;"(B) shall have had no previous involvement with any official investigation or inquiry relating to civil rights cold cases.
+
+&emsp;"(3)
+
+Nominations.—Before making an appointment pursuant to paragraph (1), the Review Board shall consider individuals recommended by the American Historical Association, the Organization of American Historians, the Society of American Archivists, and the American Bar Association.
+
+&emsp;"(4)
+
+Security clearances.—A candidate shall qualify for the necessary security clearance prior to being appointed by the Review Board.
+
+"(c)
+
+Compensation.—The Review Board shall fix the compensation of the Chief of Staff and other employees in accordance with title 5, United States Code, except that the rate of pay for the Chief of Staff and other employees may not exceed the rate payable for level V of the Executive Schedule under section 5316 of that title.
+
+"(d)
+
+Advisory Committees.—The Review Board may create advisory committees to assist in fulfilling the responsibilities of the Review Board under this Act.
+
+#### "SEC. 7. REVIEW OF RECORDS BY THE REVIEW BOARD.
+
+"(a)
+
+Custody of Records Reviewed by the Board.—Pending the outcome of the Review Board's review activity, a Government office shall retain custody of a civil rights cold case record for purposes of preservation, security, and efficiency, unless—
+
+&emsp;"(1) the Review Board requires the physical transfer of records for reasons of conducting an independent and impartial review; or
+
+&emsp;"(2) such transfer is necessary for an administrative hearing or other official Review Board function.
+
+"(b)
+
+Startup Requirements.—The Review Board shall—
+
+&emsp;"(1) not later than 90 days after the date on which all members of the Review Board are appointed, publish a schedule for review of all civil rights cold case records in the Federal Register; and
+
+&emsp;"(2) not later than 180 days after the enactment of this Act \[Jan. 8, 2019\], begin its review of civil rights cold case records under this Act.
+
+"(c)
+
+Determination of the Review Board.—
+
+&emsp;"(1)
+
+In general.—The Review Board shall direct that copies of all civil rights cold case records be transmitted to the Archivist and disclosed to the public in the Collection in the absence of clear and convincing evidence that—
+
+&emsp;&emsp;"(A) a Government record is not a civil rights cold case record; or
+
+&emsp;&emsp;"(B) a Government record or particular information within a civil rights cold case record qualifies for postponement of public disclosure under this Act, which shall include consideration by the Review Board of relevant laws and policies protecting criminal records of juveniles.
+
+&emsp;"(2)
+
+Postponement.—In approving postponement of public disclosure of a civil rights cold case record, the Review Board shall work to—
+
+&emsp;&emsp;"(A) provide for the disclosure of segregable parts, substitutes, or summaries of such a record; and
+
+&emsp;&emsp;"(B) determine, in consultation with the originating body and consistent with the standards for postponement under this Act, which of the following alternative forms of disclosure shall be made by the originating body:
+
+&emsp;&emsp;&emsp;"(i) Any reasonably segregable particular information in a civil rights cold case record.
+
+&emsp;&emsp;&emsp;"(ii) A substitute record for that information which is postponed.
+
+&emsp;&emsp;&emsp;"(iii) A summary of a civil rights cold case record.
+
+&emsp;"(3)
+
+Report.—With respect to each civil rights cold case record or particular information in civil rights cold case records the public disclosure of which is postponed under section 4, or for which only substitutions or summaries have been disclosed to the public, the Review Board shall create and transmit to the Archivist a report containing—
+
+&emsp;&emsp;"(A) a description of actions by the Review Board, the originating body, the President, or any Government office (including a justification of any such action to postpone disclosure of any record or part of any record) and of any official proceedings conducted by the Review Board with regard to specific civil rights cold case records; and
+
+&emsp;&emsp;"(B) a statement, based on a review of the proceedings and in conformity with the decisions reflected therein, designating a recommended specified time at which or a specified occurrence following which the material may be appropriately disclosed to the public under this Act.
+
+&emsp;"(4)
+
+Notice.—Not later than 14 days after the Review Board makes a determination that a civil rights cold case record shall be publicly disclosed in the Collection or postponed for disclosure and held in the protected Collection, the Review Board shall notify the head of the originating body of its determination and publish a copy of the determination in the Federal Register.
+
+&emsp;"(5)
+
+Other notice.—Contemporaneous notice shall be made to the President of Review Board determinations regarding executive branch civil rights cold case records, and to the oversight committees designated in this Act in the case of legislative branch records. Such notice shall contain an unclassified written justification for public disclosure or postponement of disclosure, including an explanation of the application of any standards under section 4.
+
+"(d)
+
+Presidential Authority Over Review Board Determination.—
+
+&emsp;"(1)
+
+Public disclosure or postponement of disclosure.—After the Review Board has made a formal determination concerning the public disclosure or postponement of disclosure of an executive branch civil rights cold case record or information contained in a civil rights cold case record, obtained or developed solely within the executive branch, the President shall have the sole and nondelegable authority to require the disclosure or postponement of such record or information under the standards set forth in section 4, and the President shall provide the Review Board with an unclassified written certification specifying the President's decision within 30 days after the Review Board's determination and notice to the executive agency as required under this Act, stating the justification for the President's decision, including the applicable grounds for postponement under section 4.
+
+&emsp;"(2)
+
+Periodic review.—Any executive branch civil rights cold case record for which public disclosure is postponed by the President shall be subject to the requirements of periodic review and declassification of classified information and public disclosure in the Collection set forth in section 3.
+
+&emsp;"(3)
+
+Record of presidential postponement.—The Review Board shall, upon its receipt, publish in the Federal Register a copy of any unclassified written certification, statement, or other materials transmitted by or on behalf of the President with regard to postponement of the public disclosure of civil rights cold case records.
+
+"(e)
+
+Notice to the Public.—On each day that is on or after the date that is 60 days after the Review Board first approves the postponement of disclosure of a civil rights cold case record, the Review Board shall publish on a publicly available website a notice that summarizes the postponements approved by the Review Board or initiated by the President, including a description of the subject, originating body, length or other physical description, and each ground for postponement that is relied upon.
+
+"(f)
+
+Reports by the Review Board.—
+
+&emsp;"(1)
+
+In general.—The Review Board shall report its activities to the Speaker of the House of Representatives, the Minority Leader of the House of Representatives, the Committee on Oversight and Government Reform of the House of Representatives, the Majority Leader of the Senate, the Minority Leader of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the President, the Archivist, and the head of any Government office whose records have been the subject of Review Board activity.
+
+&emsp;"(2)
+
+Deadlines.—Not later than 1 year after the date of enactment of this Act, and every year thereafter until termination of the Review Board, the Review Board shall issue a report under paragraph (1).
+
+&emsp;"(3)
+
+Contents.—Each report under paragraph (1) shall include the following information:
+
+&emsp;&emsp;"(A) A financial report of the expenses for all official activities and requirements of the Review Board and its employees.
+
+&emsp;&emsp;"(B) The progress made on review, transmission to the Archivist, and public disclosure of civil rights cold case records.
+
+&emsp;&emsp;"(C) The estimated time and volume of civil rights cold case records involved in the completion of the Review Board's performance under this Act.
+
+&emsp;&emsp;"(D) Any special problems, including requests and the level of cooperation of Government offices, with regard to the ability of the Review Board to operate as required by this Act.
+
+&emsp;&emsp;"(E) A record of review activities, including a record of postponement decisions by the ReviewBoard or other related actions authorized by this Act, and a record of the volume of records reviewed and postponed.
+
+&emsp;&emsp;"(F) Recommendations and requests to Congress for additional authorization.
+
+&emsp;&emsp;"(G) An appendix containing copies of reports of postponed records to the Archivist required under subsection (c)(3) made since the date of the preceding report under this subsection.
+
+&emsp;"(4)
+
+Notice of termination.—Not later than 90 days before terminating, the Review Board shall provide written notice to the President and the Congress of its intention to terminate its operations at a specified date.
+
+#### "SEC. 8. DISCLOSURE OF OTHER INFORMATION AND ADDITIONAL STUDY.
+
+"(a)
+
+Materials Under the Seal of the Court.—
+
+&emsp;"(1)
+
+In general.—The Review Board may request the Attorney General to petition any court in the United States or abroad to release any information relevant to civil rights cold cases that is held under seal of court.
+
+&emsp;"(2)
+
+Grand jury materials.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Review Board may request the Attorney General to petition any court in the United States to release any information relevant to civil rights cold cases that is held under the injunction of secrecy of a grand jury.
+
+&emsp;&emsp;"(B)
+
+Particularized need.—A request for disclosure of civil rights cold case records under this Act shall be deemed to constitute a showing of particularized need under rule 6 of the Federal Rules of Criminal Procedure.
+
+&emsp;"(3)
+
+Deadline.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Attorney General shall respond to any request that is subject to this subsection within 45 days.
+
+&emsp;&emsp;"(B)
+
+Nondisclosure of grand jury information.—If the Attorney General determines that information relevant to a civil rights cold case that is held under the injunction of secrecy of a grand jury should not be made public, the Attorney General shall set forth in the response to the request the reasons for the determination.
+
+"(b)
+
+Cooperation With Agencies.—It is the sense of Congress that—
+
+&emsp;"(1) the Attorney General should assist the Review Board in good faith to unseal any records that the Review Board determines to be relevant and held under the seal by a court or under the injunction of secrecy of a grand jury; and
+
+&emsp;"(2) all departments and agencies of the United States Government should cooperate in full with the Review Board to seek the disclosure of all information relevant to civil rights cold cases consistent with the public interest.
+
+#### "SEC. 9. RULES OF CONSTRUCTION.
+
+"(a)
+
+Precedence Over Other Law.—
+
+&emsp;"(1)
+
+In general.—Subject to paragraph (2), when this Act requires transmission of a record to the Archivist or public disclosure, it shall take precedence over any other law (except section 6103 of the Internal Revenue Code of 1986 \[26 U.S.C. 6103\]), judicial decisions construing such law, or common law doctrine that would otherwise prohibit such transmission or disclosure with the exception of deeds governing access to or transfer or release of gifts and donations of records to the United States Government.
+
+&emsp;"(2)
+
+Personnel and medical files.—This Act shall not require the public disclosure of information that is exempt from disclosure under section 552(b)(6) of title 5, United States Code.
+
+"(b)
+
+Freedom of Information Act.—Nothing in this Act shall be construed to eliminate or limit any right to file any requests with any executive agency or seek judicial review of the decisions under section 552 of title 5, United States Code.
+
+"(c)
+
+Judicial Review.—Nothing in this Act shall be construed to preclude judicial review, under chapter 7 of title 5, United States Code, of final actions taken or required to be taken under this Act.
+
+"(d)
+
+Existing Authority.—Nothing in this Act revokes or limits the existing authority of the President, any executive agency, the Senate, the House of Representatives, or any other entity of the Government to publicly disclose records in its possession.
+
+#### "SEC. 10. FUNDING.
+
+"Until such time as funds are appropriated to carry out this Act, the President shall use such sums as are available for discretionary use to carry out this Act."
 
 #### National Database for Records of Servitude, Emancipation, and Post–Civil War Reconstruction
 
@@ -172,7 +888,7 @@ Purposes.—The purposes of this Act are—
 
 "(a)
 
-In General.—(1) Not later than 60 days after the date of enactment of this Act \[Oct. 26, 1992\], the National Archives and Records Administration shall commence establishment of a collection of records to be known as the President John F. Kennedy Assassination Records Collection. In so doing, the Archivist shall ensure the physical integrity and original provenance of all records. The Collection shall consist of record copies of all Government records relating to the assassination of President John F. Kennedy, which shall be transmitted to the National Archives in accordancewith section 2107 of title 44, United States Code. The Archivist shall prepare and publish a subject guidebook and index to the collection.
+In General.—(1) Not later than 60 days after the date of enactment of this Act \[Oct. 26, 1992\], the National Archives and Records Administration shall commence establishment of a collection of records to be known as the President John F. Kennedy Assassination Records Collection. In so doing, the Archivist shall ensure the physical integrity and original provenance of all records. The Collection shall consist of record copies of all Government records relating to the assassination of President John F. Kennedy, which shall be transmitted to the National Archives in accordance with section 2107 of title 44, United States Code. The Archivist shall prepare and publish a subject guidebook and index to the collection.
 
 "(2) The Collection shall include—
 
@@ -278,7 +994,7 @@ Identification Aids.—(1)(A) Not later than 45 days after the date of enactment
 
 &emsp;"(C) attach a printed copy to each assassination record it describes when it is transmitted to the Archivist.
 
-"(3) Assassination records which are in the possession of the National Archives on the date of enactment ofthis Act, and which have been publicly available in their entirety without redaction, shall be made available in the Collection without any additional review by the Review Board or another authorized office under this Act, and shall not be required to have such an identification aid unless required by the Archivist.
+"(3) Assassination records which are in the possession of the National Archives on the date of enactment of this Act, and which have been publicly available in their entirety without redaction, shall be made available in the Collection without any additional review by the Review Board or another authorized office under this Act, and shall not be required to have such an identification aid unless required by the Archivist.
 
 "(e)
 
@@ -290,7 +1006,7 @@ Transmission to the National Archives.—Each Government office shall—
 
 "(f)
 
-Custody of Postponed Assassination Records.—An assassination record the public disclosure of which has been postponed shall, pending transmission to the Archivist, be held for reasons of security and preservation by the originating body until such time as the information security program has been established at the National Archives as required in section 4(e)(2).
+Custody of Postponed Assassination Records.—An assassination record the public disclosure of which has been postponed shall, pending transmission to the Archivist, be held for reasons of security and preservation by the originating body until suchtime as the information security program has been established at the National Archives as required in section 4(e)(2).
 
 "(g)
 
@@ -564,7 +1280,7 @@ Determinations of the Review Board.—(1) The Review Board shall direct that all
 
 &emsp;&emsp;"(iii) A summary of an assassination record.
 
-"(3) With respect to each assassination record or particular information in assassination records the publicdisclosure of which is postponed pursuant to section 6, or for which only substitutions or summaries have been disclosed to the public, the Review Board shall create and transmit to the Archivist a report containing—
+"(3) With respect to each assassination record or particular information in assassination records the public disclosure of which is postponed pursuant to section 6, or for which only substitutions or summaries have been disclosed to the public, the Review Board shall create and transmit to the Archivist a report containing—
 
 &emsp;"(A) a description of actions by the Review Board, the originating body, the President, or any Government office (including a justification of any such action to postpone disclosure of any record or part of any record) and of any official proceedings conducted by the Review Board with regard to specific assassination records; and
 
@@ -572,7 +1288,7 @@ Determinations of the Review Board.—(1) The Review Board shall direct that all
 
 "(4)(A) Following its review and a determination that an assassination record shall be publicly disclosed in the Collection or postponed for disclosure and held in the protected Collection, the Review Board shall notify the head of the originating body of its determination and publish a copy of the determination in the Federal Register within 14 days after the determination is made.
 
-"(B) Contemporaneous notice shall be made to the President for Review Board determinations regarding executive branch assassination records, and to the oversight committees designated in this Act in the case of legislative branch records. Such notice shall contain a written unclassified justification for public disclosure or postponement of disclosure, including an explanation of the application of any standards contained in section 6.
+"(B) Contemporaneous notice shall be made to the President for Review Board determinations regarding executive branch assassination records, and to the oversight committees designated in this Act in the caseof legislative branch records. Such notice shall contain a written unclassified justification for public disclosure or postponement of disclosure, including an explanation of the application of any standards contained in section 6.
 
 "(d)
 
@@ -638,7 +1354,7 @@ Sense of Congress.—It is the sense of the Congress that—
 
 &emsp;"(2) the Secretary of State should contact the Government of the Republic of Russia and seek the disclosure of all records of the government of the former Soviet Union, including the records of the Komitet Gosudarstvennoy Bezopasnosti (KGB) and the Glaynoye Razvedyvatelnoye Upravleniye (GRU), relevant to the assassination of President Kennedy, and contact any other foreign government that may hold information relevant to the assassination of President Kennedy and seek disclosure of such information; and
 
-&emsp;"(3) all Executive agencies should cooperate in full with the Review Board to seek the disclosure of allinformation relevant to the assassination of President John F. Kennedy consistent with the public interest.
+&emsp;"(3) all Executive agencies should cooperate in full with the Review Board to seek the disclosure of all information relevant to the assassination of President John F. Kennedy consistent with the public interest.
 
 #### "SEC. 11. RULES OF CONSTRUCTION.
 
@@ -660,7 +1376,7 @@ Existing Authority.—Nothing in this Act revokes or limits the existing authori
 
 "(e)
 
-Rules of the Senate and House of Representatives.—To the extent that any provision of this Act establishes a procedure to be followed in the Senate or the House of Representatives, such provision is adopted—
+Rules of the Senate and House of Representatives.—To the extent that any provision of this Actestablishes a procedure to be followed in the Senate or the House of Representatives, such provision is adopted—
 
 &emsp;"(1) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and is deemed to be part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
 
@@ -689,6 +1405,8 @@ Interim Funding.—Until such time as funds are appropriated pursuant to subsect
 #### "SEC. 14. SEVERABILITY.
 
 "If any provision of this Act or the application thereof to any person or circumstance is held invalid, the remainder of this Act and the application of that provision to other persons not similarly situated or to other circumstances shall not be affected by the invalidation."
+
+\[Postponement of records from full public disclosure under section 5(g)(2)(D) of Pub. L. 102–526, set out above, continued until Oct. 26, 2021, by Memorandum of President of the United States, Oct. 26, 2017, 82 F.R. 50307; Memorandum of President of the United States, Apr. 26, 2018, 83 F.R. 19157.\]
 
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

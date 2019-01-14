@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A person may not act as an ocean transportation intermediary unless the person furnishes a bond, proof of insurance, or other surety—
+In General.—A person may not advertise, hold oneself out, or act as an ocean transportation intermediary unless the person furnishes a bond, proof of insurance, or other surety—
 
 &emsp;(1) in a form and amount determined by the Federal Maritime Commission to insure financial responsibility; and
 
@@ -30,7 +30,7 @@ Regulations on Court Judgments.—The Commission shall prescribe regulations for
 
 Resident Agent.—An ocean transportation intermediary not domiciled in the United States shall designate a resident agent in the United States for receipt of service of judicial and administrative process, including subpoenas.
 
-(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1538.)
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1538; Pub. L. 115–282, title VII, §707(c), Dec. 4, 2018, 132 Stat. 4295.)
 
 Historical and Revision Notes
 
@@ -49,4 +49,8 @@ Historical and Revision Notes
 Pub. L. 98–237, §19(b), Mar. 20, 1984; added Pub. L. 105–258, title I, §116(4), Oct. 14, 1998, 112 Stat. 1913.
 
 In subsection (b), in paragraphs (2) and (3), the words "described in section 1702(17) of this Appendix" are omitted as unnecessary.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–282 inserted "advertise, hold oneself out, or" after "may not" in introductory provisions.
 

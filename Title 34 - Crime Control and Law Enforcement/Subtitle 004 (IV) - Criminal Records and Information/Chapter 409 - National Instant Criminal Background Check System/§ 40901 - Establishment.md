@@ -26,7 +26,7 @@ The Attorney General shall expedite—
 
 #### (d) Notification of licensees
 
-On establishment of the system under this section, the Attorney General shall notify each licensee and the chief law enforcement officer of each State of the existence and purpose of the system and the means to be used to contact the system.
+On establishment of the system under this section, the Attorney General shall notify each licensee and the chief law enforcement officer of each State of the existence and purpose of thesystem and the means to be used to contact the system.
 
 #### (e) Administrative provisions
 
@@ -58,6 +58,90 @@ On establishment of the system under this section, the Attorney General shall no
 
 &emsp;&emsp;The Attorney General shall submit an annual report to Congress that describes the compliance of each department or agency with the provisions of this paragraph.
 
+#### (F) Semiannual certification and reporting
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The head of each Federal department or agency shall submit a semiannual written certification to the Attorney General indicating whether the department or agency is in compliance with the record submission requirements under subparagraph (C).
+
+#### (ii) Submission dates
+
+&emsp;&emsp;&emsp;The head of a Federal department or agency shall submit a certification to the Attorney General under clause (i)—
+
+&emsp;&emsp;&emsp;&emsp;(I) not later than July 31 of each year, which shall address all relevant records, including those that have not been transmitted to the Attorney General, in possession of the department or agency during the period beginning on January 1 of the year and ending on June 30 of the year; and
+
+&emsp;&emsp;&emsp;&emsp;(II) not later than January 31 of each year, which shall address all relevant records, including those that have not been transmitted to the Attorney General, in possession of the department or agency during the period beginning on July 1 of the previous year and ending on December 31 of the previous year.
+
+#### (iii) Contents
+
+&emsp;&emsp;&emsp;A certification required under clause (i) shall state, for the applicable period—
+
+&emsp;&emsp;&emsp;&emsp;(I) the total number of records of the Federal department or agency demonstrating that a person falls within one of the categories described in subsection (g) or (n) of section 922 of title 18;
+
+&emsp;&emsp;&emsp;&emsp;(II) for each category of records described in subclause (I), the total number of records of the Federal department or agency that have been provided to the Attorney General; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the efforts of the Federal department or agency to ensure complete and accurate reporting of relevant records, including efforts to monitor compliance and correct any reporting failures or inaccuracies.
+
+#### (G) Implementation plan
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than 1 year after March 23, 2018, the head of each Federal department or agency, in coordination with the Attorney General, shall establish a plan to ensure maximum coordination and automated reporting or making available of records to the Attorney General as required under subparagraph (C), and the verification of the accuracy of those records, including the pre-validation of those records, where appropriate, during a 4-year period specified in the plan. The records shall be limited to those of an individual described in subsection (g) or (n) of section 922 of title 18.
+
+#### (ii) Benchmark requirements
+
+&emsp;&emsp;&emsp;Each plan established under clause (i) shall include annual benchmarks to enable the Attorney General to assess implementation of the plan, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) qualitative goals and quantitative measures;
+
+&emsp;&emsp;&emsp;&emsp;(II) measures to monitor internal compliance, including any reporting failures and inaccuracies;
+
+&emsp;&emsp;&emsp;&emsp;(III) a needs assessment, including estimated compliance costs; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) an estimated date by which the Federal department or agency will fully comply with record submission requirements under subparagraph (C).
+
+#### (iii) Compliance determination
+
+&emsp;&emsp;&emsp;Not later than the end of each fiscal year beginning after the date of the establishment of a plan under clause (i), the Attorney General shall determine whether the applicable Federal department or agency has achieved substantial compliance with the benchmarks included in the plan.
+
+#### (H) Accountability
+
+&emsp;&emsp;The Attorney General shall publish, including on the website of the Department of Justice, and submit to the Committee on the Judiciary and the Committee on Appropriations of the Senate and the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives a semiannual report that discloses—
+
+&emsp;&emsp;&emsp;(i) the name of each Federal department or agency that has failed to submit a required certification under subparagraph (F);
+
+&emsp;&emsp;&emsp;(ii) the name of each Federal department or agency that has submitted a required certification under subparagraph (F), but failed to certify compliance with the record submission requirements under subparagraph (C);
+
+&emsp;&emsp;&emsp;(iii) the name of each Federal department or agency that has failed to submit an implementation plan under subparagraph (G);
+
+&emsp;&emsp;&emsp;(iv) the name of each Federal department or agency that is not in substantial compliance with an implementation plan under subparagraph (G);
+
+&emsp;&emsp;&emsp;(v) a detailed summary of the data, broken down by department or agency, contained in the certifications submitted under subparagraph (F);
+
+&emsp;&emsp;&emsp;(vi) a detailed summary of the contents and status, broken down by department or agency, of the implementation plans established under subparagraph (G); and
+
+&emsp;&emsp;&emsp;(vii) the reasons for which the Attorney General has determined that a Federal department or agency is not in substantial compliance with an implementation plan established under subparagraph (G).
+
+#### (I) Noncompliance penalties
+
+&emsp;&emsp;For each of fiscal years 2019 through 2022, each political appointee of a Federal department or agency that has failed to certify compliance with the record submission requirements under subparagraph (C), and is not in substantial compliance with an implementation plan established under subparagraph (G), shall not be eligible for the receipt of bonus pay, excluding overtime pay, until the department or agency—
+
+&emsp;&emsp;&emsp;(i) certifies compliance with the record submission requirements under subparagraph (C); or
+
+&emsp;&emsp;&emsp;(ii) achieves substantial compliance with an implementation plan established under subparagraph (G).
+
+#### (J) Technical assistance
+
+&emsp;&emsp;The Attorney General may use funds made available for the national instant criminal background check system established under subsection (b) to provide technical assistance to a Federal department or agency, at the request of the department or agency, in order to help the department or agency comply with the record submission requirements under subparagraph (C).
+
+#### (K) Application to Federal courts
+
+&emsp;&emsp;For purposes of this paragraph—
+
+&emsp;&emsp;&emsp;(i) the terms "department or agency of the United States" and "Federal department or agency" include a Federal court; and
+
+&emsp;&emsp;&emsp;(ii) the Director of the Administrative Office of the United States Courts shall perform, for a Federal court, the functions assigned to the head of a department or agency.
+
 #### (2) Other authority
 
 &emsp;The Attorney General shall develop such computer software, design and obtain such telecommunications and computer hardware, and employ such personnel, as are necessary to establish and operate the system in accordance with this section.
@@ -68,11 +152,11 @@ If the national instant criminal background check system determines that an indi
 
 #### (g) Correction of erroneous system information
 
-If the system established under this section informs an individual contacting the system that receipt of a firearm by a prospective transferee would violate subsection (g) or (n) of section 922 of title 18 or State law, the prospective transferee may request the Attorney General to provide the prospective transferee with the reasons therefor. Upon receipt of such a request, the Attorney General shall immediately comply with the request. The prospective transferee may submit to the Attorney General information to correct, clarify, or supplement records ofthe system with respect to the prospective transferee. After receipt of such information, the Attorney General shall immediately consider the information, investigate the matter further, and correct all erroneous Federal records relating to the prospective transferee and give notice of the error to any Federal department or agency or any State that was the source of such erroneous records.
+If the system established under this section informs an individual contacting the system that receipt of a firearm by a prospective transferee would violate subsection (g) or (n) of section 922 of title 18 or State law, the prospective transferee may request the Attorney General to provide the prospective transferee with the reasons therefor. Upon receipt of such a request, the Attorney General shall immediately comply with the request. The prospective transferee may submit to the Attorney General information to correct, clarify, or supplement records of the system with respect to the prospective transferee. After receipt of such information, the Attorney General shall immediately consider the information, investigate the matter further, and correct all erroneous Federal records relating to the prospective transferee and give notice of the error to any Federal department or agency or any State that was the source of such erroneous records. For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee is the subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expenses of the Federal Bureau of Investigation to comply with this subsection.
 
 #### (h) Regulations
 
-After 90 days' notice to the public and an opportunity for hearing by interested parties, the Attorney General shall prescribe regulations to ensure the privacy and security of the information of the system established under this section.
+After 90 days' notice to the public and an opportunity for hearing by interested parties, theAttorney General shall prescribe regulations to ensure the privacy and security of the information of the system established under this section.
 
 #### (i) Prohibition relating To establishment of registration systems with respect to firearms
 
@@ -98,7 +182,7 @@ As used in this section:
 
 There are authorized to be appropriated such sums as are necessary to enable the Attorney General to carry out this section.
 
-(Pub. L. 103–159, title I, §103, Nov. 30, 1993, 107 Stat. 1541; Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, §603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504; Pub. L. 110–180, title I, §101(a), Jan. 8, 2008, 121 Stat. 2561.)
+(Pub. L. 103–159, title I, §103, Nov. 30, 1993, 107 Stat. 1541; Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, §603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504; Pub. L. 110–180, title I, §101(a), Jan. 8, 2008, 121 Stat. 2561; Pub. L. 115–141, div. S, title VI, §602, Mar. 23, 2018, 132 Stat. 1132.)
 
 #### Codification
 
@@ -107,6 +191,10 @@ Section was enacted as part of the Brady Handgun Violence Prevention Act, and no
 Section was formerly classified as a note under section 922 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(1)(F) to (K). Pub. L. 115–141, §602(1), added subpars. (F) to (K).
+
+Subsec. (g). Pub. L. 115–141, §602(2), inserted at end "For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee is the subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expenses of the Federal Bureau of Investigation to comply with this subsection."
 
 <b>2008</b>—Subsec. (e)(1). Pub. L. 110–180 designated first and second sentences as subpars. (A) and (B), respectively, inserted subpar. headings, substituted "furnish electronic versions of the information described under subparagraph (A)" for "furnish such information" in subpar. (B), and added subpar. (C).
 
@@ -142,7 +230,7 @@ Pub. L. 100–690, title VI, §6213, Nov. 18, 1988, 102 Stat. 4360, provided tha
 
 "(a)
 
-Identification of Felons Ineligible To Purchase Handguns.—The Attorney General shall develop a system for immediate and accurate identification of felons who attempt to purchase 1 or more firearms but are ineligible to purchase firearms by reason of section 922(g)(1) of title 18, United States Code. The system shall be accessible to dealers but only for the purpose of determining whether a potential purchaser is a convicted felon. The Attorney General shall establish a plan (including a cost analysis of the proposed system) for implementation of the system. In developing the system, the Attorney General shall consult with the Secretary of the Treasury, other Federal, State, and local law enforcement officials with expertise in the area, and other experts. The Attorney General shall begin implementation of the system 30 days after the report to the Congress as provided in subsection (b).
+Identification of Felons Ineligible To Purchase Handguns.—The Attorney General shall develop a system for immediate and accurate identification of felons who attempt to purchase 1 or more firearms but are ineligible to purchase firearms by reason of section 922(g)(1) of title 18, United States Code. The system shall be accessible to dealers but only for the purpose of determining whether a potential purchaser is a convicted felon. The Attorney General shall establish a plan (including a cost analysis of the proposed system) for implementation of the system. In developing the system, the Attorney General shall consult with the Secretary of the Treasury, other Federal, State, andlocal law enforcement officials with expertise in the area, and other experts. The Attorney General shall begin implementation of the system 30 days after the report to the Congress as provided in subsection (b).
 
 "(b)
 
@@ -198,7 +286,7 @@ Memorandum for the Secretary of Defense\[,\] the Attorney General\[, and\] the S
 
 For more than 20 years, the Federal Government has worked to keep guns out of the wrong hands through background checks. This critical effort in addressing gun violence has prevented more than two million prohibited firearms purchases from being completed. But tens of thousands of people are still injured or killed by firearms every year—in many cases by guns that were sold legally but then stolen, misused, or discharged accidentally. Developing and promoting technology that would help prevent these tragedies is an urgent priority.
 
-In 2013, I directed the Department of Justice to review the availability and most effective use of new gun safety technologies, such as devices requiring a scan of the owner's fingerprint before a gun can fire. In its report, the Department made clear that technological advancements in this area could help reduce accidental deaths and the use of stolen guns in criminal activities.
+In 2013, I directed the Department of Justice to review the availability and most effective use of new gunsafety technologies, such as devices requiring a scan of the owner's fingerprint before a gun can fire. In its report, the Department made clear that technological advancements in this area could help reduce accidental deaths and the use of stolen guns in criminal activities.
 
 Millions of dollars have already been invested to support research into a broad range of concepts for improving gun safety. We must all do our part to continue to advance this research and encourage its practical application, and it is possible to do so in a way that makes the public safer and is consistent with the Second Amendment. The Federal Government has a unique opportunity to do so, as it is the single largest purchaser of firearms in the country. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
 

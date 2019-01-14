@@ -2,7 +2,7 @@
 
 #### (a) Inclusion in income as if bond and coupons were original issue discount bonds
 
-If any person purchases after July 1, 1982, a stripped bond or a stripped coupon, then such bond or coupon while held by such purchaser (or by any other person whose basis is determined by reference to the basis in the hands of such purchaser) shall be treated for purposes of this part as a bond originally issued on the purchase date and having an original issue discount equal to the excess (if any) of—
+If any person purchases a stripped bond or a stripped coupon, then such bond or coupon while held by such purchaser (or by any other person whose basis is determined by reference to the basis in the hands of such purchaser) shall be treated for purposes of this part as a bond originally issued on the purchase date and having an original issue discount equal to the excess (if any) of—
 
 &emsp;(1) the stated redemption price at maturity (or, in the case of coupon, the amount payable on the due date of such coupon), over
 
@@ -12,7 +12,7 @@ If any person purchases after July 1, 1982, a stripped bond or a stripped coupon
 
 #### (b) Tax treatment of person stripping bond
 
-For purposes of this subtitle, if any person strips 1 or more coupons from a bond and after July 1, 1982, disposes of the bond or such coupon—
+For purposes of this subtitle, if any person strips 1 or more coupons from a bond and disposes of the bond or such coupon—
 
 &emsp;(1) such person shall include in gross income an amount equal to the sum of—
 
@@ -28,17 +28,7 @@ For purposes of this subtitle, if any person strips 1 or more coupons from a bon
 
 > A rule similar to the rule of paragraph (4) shall apply in the case of any person whose basis in any bond or coupon is determined by reference to the basis of the person described in the preceding sentence.
 
-#### (c) Retention of existing law for stripped bonds purchased before July 2, 1982
-
-If a bond issued at any time with interest coupons—
-
-&emsp;(1) is purchased after August 16, 1954, and before January 1, 1958, and the purchaser does not receive all the coupons which first become payable more than 12 months after the date of the purchase, or
-
-&emsp;(2) is purchased after December 31, 1957, and before July 2, 1982, and the purchaser does not receive all the coupons which first become payable after the date of the purchase,
-
-> then the gain on the sale or other disposition of such bond by such purchaser (or by a person whose basis is determined by reference to the basis in the hands of such purchaser) shall be considered as ordinary income to the extent that the fair market value (determined as of the time of the purchase) of the bond with couponsattached exceeds the purchase price. If this subsection and section 1271(a)(2)(A) apply with respect to gain realized on the sale or exchange of any evidence of indebtedness, then section 1271(a)(2)(A) shall apply with respect to that part of the gain to which this subsection does not apply.
-
-#### (d) Special rules for tax-exempt obligations
+#### (c) Special rules for tax-exempt obligations
 
 #### (1) In general
 
@@ -72,7 +62,7 @@ If a bond issued at any time with interest coupons—
 
 > &emsp;&emsp;The purchaser of any stripped obligation or coupon may elect to apply clause (i) by substituting "original yield to maturity of" for "coupon rate of interest on".
 
-#### (e) Definitions and special rules
+#### (d) Definitions and special rules
 
 For purposes of this section—
 
@@ -94,23 +84,45 @@ For purposes of this section—
 
 #### (5) Coupon
 
-&emsp;The term "coupon" includes any right to receive interest on a bond (whether or not evidenced by a coupon). This paragraph shall apply for purposes of subsection (c) only in the case of purchases after July 1, 1982.
+&emsp;The term "coupon" includes any right to receive interest on a bond (whether or not evidenced by a coupon).
 
 #### (6) Purchase
 
-&emsp;The term "purchase" has the meaning given such term by section 1272(d)(1).
+&emsp;The term "purchase" has the meaning given such term by section 1272(d)(1).<sup>1</sup>
 
-#### (f) Treatment of stripped interests in bond and preferred stock funds, etc.
+#### (e) Treatment of stripped interests in bond and preferred stock funds, etc.
 
-In the case of an account or entity substantially all of the assets of which consist of bonds, preferred stock, or a combination thereof, the Secretary may by regulations provide that rules similar to the rules of this section and 305(e),<sup>1</sup> as appropriate, shall apply to interests in such account or entity to which (but for this subsection) this section or section 305(e), as the case may be, would not apply.
+In the case of an account or entity substantially all of the assets of which consist of bonds, preferred stock, or a combination thereof, the Secretary may by regulations provide that rules similar to the rules of this section and section 305(e), as appropriate, shall apply to interests in such account or entity to which (but for this subsection) this section or section 305(e), as the case may be, would not apply.
 
-#### (g) Regulation authority
+#### (f) Regulation authority
 
 The Secretary may prescribe regulations providing that where, by reason of varying rates of interest, put or call options, or other circumstances, the tax treatment under this section does not accurately reflect the income of the holder of a stripped coupon or stripped bond, or of the person disposing of such bond or coupon, as the case may be, for any period, such treatment shall be modified to require that the proper amount of income be included for such period.
 
-(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 551; amended Pub. L. 99–514, title XVIII, §§1803(a)(13)(B), 1879(s)(1), Oct. 22, 1986, 100 Stat. 2796, 2912; Pub. L. 100–647, title I, §1018(q)(4)(A), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 108–357, title VIII, §831(a), Oct. 22, 2004, 118 Stat. 1587.)
+(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 551; amended Pub. L. 99–514, title XVIII, §§1803(a)(13)(B), 1879(s)(1), Oct. 22, 1986, 100 Stat. 2796, 2912; Pub. L. 100–647, title I, §1018(q)(4)(A), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 108–357, title VIII, §831(a), Oct. 22, 2004, 118 Stat. 1587; Pub. L. 115–141, div. U, title IV, §401(a)(182), (c)(2)(A)–(C), Mar. 23, 2018, 132 Stat. 1193, 1205, 1206.)
+
+#### References in Text
+
+Section 1272(d), referred to in subsec. (d)(6), was redesignated section 1272(c) by Pub. L. 115–141, div. U, title IV, §401(c)(1)(B), Mar. 23, 2018, 132 Stat. 1205.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–141, §401(c)(2)(B), struck out "after July 1, 1982," before "a stripped bond" in introductory provisions.
+
+Subsec. (b). Pub. L. 115–141, §401(c)(2)(B), struck out "after July 1, 1982," before "disposes of the bond" in introductory provisions.
+
+Subsec. (c). Pub. L. 115–141, §401(c)(2)(A), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to retention of existing law for stripped bonds purchased before July 2, 1982.
+
+Subsec. (d). Pub. L. 115–141, §401(c)(2)(A), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+
+Subsec. (d)(5). Pub. L. 115–141, §401(c)(2)(C), struck out at end "This paragraph shall apply for purposes of subsection (c) only in the case of purchases after July 1, 1982."
+
+Subsec. (e). Pub. L. 115–141, §401(c)(2)(A), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (f). Pub. L. 115–141, §401(c)(2)(A), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Pub. L. 115–141, §401(a)(182), substituted "and section 305(e)," for "and 305(e),".
+
+Subsec. (g). Pub. L. 115–141, §401(c)(2)(A), redesignated subsec. (g) as (f).
 
 <b>2004</b>—Subsecs. (f), (g). Pub. L. 108–357 added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -140,6 +152,10 @@ Subsec. (d). Pub. L. 99–514, §1879(s)(1), amended subsec. (d) generally. Prio
 
 &emsp;"(3) subsection (c) shall be applied without regard to the requirement that the bond be purchased before July 2, 1982."
 
+#### Effective Date of 2018 Amendment
+
+Amendment by section 401(c)(2)(A)–(C) of Pub. L. 115–141 applicable to bonds purchased on or after July 2, 1982, see section 401(c)(2)(E) of Pub. L. 115–141, set out as a note under section 305 of this title.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–357 applicable to purchases and dispositions after Oct. 22, 2004, see section 831(c) of Pub. L. 108–357, set out as a note under section 305 of this title.
@@ -162,7 +178,7 @@ Pub. L. 100–647, title I, §1018(q)(4)(B), Nov. 10, 1988, 102 Stat. 3586, prov
 
 Amendment by section 1803(a)(13)(B) of Pub. L. 99–514 applicable to obligations acquired after Oct. 22, 1986, see section 1803(a)(13)(C) of Pub. L. 99–514, set out as a note under section 1276 of this title.
 
-Pub. L. 99–514, title XVIII, §1879(s)(2), Oct. 22, 1986, 100 Stat. 2913, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to any purchase or sale of any stripped tax-exempt obligation or stripped coupon from such an obligation after the date of the enactment of this Act \[Oct. 22, 1986\]."
+Pub. L. 99–514, title XVIII, §1879(s)(2), Oct. 22, 1986, 100 Stat. 2913, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to any purchase or sale of any stripped tax-exempt obligation or stripped coupon from such an obligation after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
 #### Effective Date
 
@@ -172,5 +188,5 @@ Section applicable to taxable years ending after July 18, 1984, except as otherw
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "section 305(e),".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

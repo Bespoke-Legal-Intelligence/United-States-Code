@@ -6,7 +6,7 @@ Any employee who receives any assistance under an employee protection agreement 
 
 #### (b) Filing of statement
 
-Any employee of the Rock Island Railroad who is entitled to receive assistance under this chapter shall, no later than 120 days after the effective date of any agreement entered into under section 1005(a) of this title or of any benefit schedule prescribed under section 1005(b) of this title, as the case may be, file a statement with the Board indicating whether such employee elects to receive (1) assistance under this chapter; or (2) any employee protection benefits otherwise available to such employee under the Bankruptcy Act, subtitle IV of title 49, or any applicable contract or agreement.
+Any employee of the Rock Island Railroad who is entitled to receive assistance under thischapter shall, no later than 120 days after the effective date of any agreement entered into under section 1005(a) of this title or of any benefit schedule prescribed under section 1005(b) of this title, as the case may be, file a statement with the Board indicating whether such employee elects to receive (1) assistance under this chapter; or (2) any employee protection benefits otherwise available to such employee under the Bankruptcy Act, subtitle IV of title 49, or any applicable contract or agreement.
 
 #### (c) Effect on priority, timing, etc., of employee protection payments
 
@@ -24,7 +24,7 @@ An employee shall not be eligible to receive any assistance (other than moving e
 
 #### References in Text
 
-The Bankruptcy Act, referred to in subsecs. (a) and (b), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended,which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
+The Bankruptcy Act, referred to in subsecs. (a) and (b), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
 
 This chapter, referred to in subsecs. (b) and (c), was in the original "this title", meaning title I (§101 et seq.) of Pub. L. 96–254, May 30, 1980, 94 Stat. 399, as amended, known as the Rock Island Railroad Transition and Employee Assistance Act, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 1001 of this title and Tables.
 

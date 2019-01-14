@@ -54,7 +54,7 @@ Study Required.—The Commission and the Board, in consultation with the Office 
 
 "(b)
 
-Public Participation.—The Commission shall seek public input about the prescribed methodology and research design of the study described in subsection (a), including from relevant Federal regulators, State insurance regulators, community, civil rights, consumer, and housing groups.
+Public Participation.—The Commission shall seek public input about the prescribed methodologyand research design of the study described in subsection (a), including from relevant Federal regulators, State insurance regulators, community, civil rights, consumer, and housing groups.
 
 "(c)
 
@@ -66,7 +66,7 @@ In general.—Before the end of the 24-month period beginning on the date of ena
 
 &emsp;"(2)
 
-Contents of report.—The report submitted under paragraph (1) shall include the findings and conclusions of the Commission, recommendations to address specific areas of concerns addressed in the study, and recommendations for legislative or administrative action that the Commission may determineto be necessary to ensure that credit and credit-based insurance scores are used appropriately and fairly to avoid negative effects."
+Contents of report.—The report submitted under paragraph (1) shall include the findings and conclusions of the Commission, recommendations to address specific areas of concerns addressed in the study, and recommendations for legislative or administrative action that the Commission may determine to be necessary to ensure that credit and credit-based insurance scores are used appropriately and fairly to avoid negative effects."
 
 #### FTC Study of Issues Relating to the Fair Credit Reporting Act
 

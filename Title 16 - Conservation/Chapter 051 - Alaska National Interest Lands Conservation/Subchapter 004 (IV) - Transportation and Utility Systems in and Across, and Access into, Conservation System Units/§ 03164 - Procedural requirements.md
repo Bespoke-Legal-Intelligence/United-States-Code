@@ -12,7 +12,7 @@ Notwithstanding any provision of applicable law, no action by any Federal agency
 
 #### (c) Filing
 
-Each applicant for the approval of any transportation or utility system shall file on the same day an application with each appropriate Federal agency. The applicant shall utilize the consolidated form prescribed under subsection (b) for the type of transportation or utility system concerned.
+Each applicant for the approval of any transportation or utility system shall file on thesame day an application with each appropriate Federal agency. The applicant shall utilize the consolidated form prescribed under subsection (b) for the type of transportation or utility system concerned.
 
 #### (d) Agency notice
 

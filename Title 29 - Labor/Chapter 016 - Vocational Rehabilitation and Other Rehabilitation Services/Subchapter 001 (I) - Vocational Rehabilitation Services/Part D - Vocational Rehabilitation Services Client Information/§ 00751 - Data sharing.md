@@ -30,7 +30,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(2), is 
 
 #### Prior Provisions
 
-A prior section 751, Pub. L. 93–112, title I, §131, as added Pub. L. 95–602, title I, §106, Nov. 6, 1978, 92 Stat. 2961, and amended Pub. L. 99–506, title I, §103(d)(2)(C),Oct. 21, 1986, 100 Stat. 1810, directed Secretary to submit to Congress, not less than thirty months after Nov. 6, 1978, an evaluation of programs conducted under part D of former subchapter I of this chapter, prior to repeal by Pub. L. 99–506, title X, §1002(b)(2)(A), Oct. 21, 1986, 100 Stat. 1844.
+A prior section 751, Pub. L. 93–112, title I, §131, as added Pub. L. 95–602, title I, §106, Nov. 6, 1978, 92 Stat. 2961, and amended Pub. L. 99–506, title I, §103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810, directed Secretary to submit to Congress, not less than thirty months after Nov. 6, 1978, an evaluation of programs conducted under part D of former subchapter I of this chapter, prior to repeal by Pub. L. 99–506, title X, §1002(b)(2)(A), Oct. 21, 1986, 100 Stat. 1844.
 
 A prior section 752, Pub. L. 93–112, title I, §131, formerly §132, as added Pub. L. 99–506, title II, §212(a), Oct. 21, 1986, 100 Stat. 1820; renumbered §132, Pub. L. 100–630, title II, §202(j), Nov. 7, 1988, 102 Stat. 3307, provided for study on special problems and needs of Indians with handicaps both on and off the reservation, prior to repeal by Pub. L. 102–569, title I, §135(a), Oct. 29, 1992, 106 Stat. 4396.
 

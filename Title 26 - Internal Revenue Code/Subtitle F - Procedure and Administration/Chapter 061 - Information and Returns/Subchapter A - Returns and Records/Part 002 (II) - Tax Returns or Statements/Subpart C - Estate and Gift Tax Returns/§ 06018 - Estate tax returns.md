@@ -88,7 +88,7 @@ Amendment by section 303(b)(3) of Pub. L. 111–312 applicable to estates of dec
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1)of Pub. L. 107–16, set out as a note under section 121 of this title.
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as a note under section 121 of this title.
 
 #### Effective Date of 1997 Amendment
 

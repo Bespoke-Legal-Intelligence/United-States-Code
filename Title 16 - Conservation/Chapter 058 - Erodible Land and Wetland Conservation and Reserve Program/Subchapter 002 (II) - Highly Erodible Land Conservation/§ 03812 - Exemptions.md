@@ -30,7 +30,7 @@ Operations new to compliance.—Notwithstanding section 3811(a) of this title, i
 
 &emsp;&emsp;(ii)
 
-Existing operations with prior violations.—Notwithstanding section 3811(a) of this title, in the case of a person that theSecretary determines would have been in violation of section 3811(a) of this title if the person had continued participation in the programs requiring compliance at any time after February 7, 2014, and is currently in violation of section 3811(a) of this title, the person shall have 2 reinsurance years after the date on which the payments described in section 3811(a)(1)(E) of this title become subject to section 3811 of this title to develop and comply with an approved conservation plan, as determined by the Secretary, so as to maintain eligibility for such payments.
+Existing operations with prior violations.—Notwithstanding section 3811(a) of this title, in the case of a person that the Secretary determines would have been in violation of section 3811(a) of this title if the person had continued participation in the programs requiring compliance at any time after February 7, 2014, and is currently in violation of section 3811(a) of this title, the person shall have 2 reinsurance years after the date on which the payments described in section 3811(a)(1)(E) of this title become subject to section 3811 of this title to develop and comply with an approved conservation plan, as determined by the Secretary, so as to maintain eligibility for such payments.
 
 &emsp;&emsp;(iii)
 
@@ -126,7 +126,7 @@ If a tenant is determined to be ineligible for payments and other benefits under
 
 #### (g) Preparation or revision of conservation plan
 
-The Secretary, in providing assistance to an individual in the preparation or revision of a conservation plan under this section, shall provide such individual with information—
+The Secretary, in providing assistance to an individual in the preparation or revision of aconservation plan under this section, shall provide such individual with information—
 
 &emsp;(1) concerning cost effective and applicable erosion control measures that may be available to such individual to meet the requirements of this section; and
 
@@ -156,7 +156,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–246, §2002, added subsec. (f) and struck out former subsec. (f) which related to graduated sanctions.
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–127, §301(d)(1), in first sentence, struck out "that documents the decisions of the person with respect to location, land use, tillagesystems, and conservation treatment measures and schedule and that is based on the local Soil Conservation Service technical guide and approved by the local soil conservation district, in consultation with the local committees established under section 590h(b) of this title and the Secretary, or by the Secretary" after "applying a conservation plan".
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–127, §301(d)(1), in first sentence, struck out "that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is based on the local Soil Conservation Service technical guide and approved by the local soil conservation district, in consultation with the local committees established under section 590h(b) of this title and the Secretary, or by the Secretary" after "applying a conservation plan".
 
 Subsec. (a)(3). Pub. L. 104–127, §312, substituted "shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person's conservation plan requires structures to be constructed, the person shall" for "shall, if the conservation plan established under this subchapter for such land requires structures to be constructed,".
 

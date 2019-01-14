@@ -78,7 +78,7 @@ As used in this section:
 
 The provisions of this section shall take effect as if included in this chapter as enacted on August 4, 1986.
 
-(Pub. L. 99–371, title II, §207, as added Pub. L. 102–421, title I, §137(2), Oct. 16, 1992, 106 Stat. 2159; amended Pub. L. 103–73, title II, §204(f), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §919, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, §909, Aug. 14, 2008, 122 Stat. 3453.)
+(Pub. L. 99–371, title II, §207, as added Pub. L. 102–421, title I, §137(2), Oct. 16, 1992, 106 Stat.2159; amended Pub. L. 103–73, title II, §204(f), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §919, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, §909, Aug. 14, 2008, 122 Stat. 3453.)
 
 #### Prior Provisions
 

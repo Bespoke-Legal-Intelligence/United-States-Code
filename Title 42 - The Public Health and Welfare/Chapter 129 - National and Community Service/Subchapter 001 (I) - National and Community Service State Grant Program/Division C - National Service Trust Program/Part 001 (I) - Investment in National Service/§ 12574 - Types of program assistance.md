@@ -24,3 +24,7 @@ A prior section 12574, Pub. L. 101–610, title I, §144, Nov. 16, 1990, 104 Sta
 
 A prior section 124 of Pub. L. 101–610 was renumbered section 199D, and is classified to section 12655c of this title.
 
+#### Effective Date
+
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
+

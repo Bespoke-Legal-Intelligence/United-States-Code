@@ -86,7 +86,7 @@ A State desiring to receive a grant under this section shall submit an applicati
 
 &emsp;&emsp;&emsp;(vi) the amount of time teachers spend on assessment preparation and administration;
 
-&emsp;&emsp;&emsp;(vii) the assessments that administrators, teachers, principals, other schoolleaders, parents, and students, if appropriate, do and do not find useful; and
+&emsp;&emsp;&emsp;(vii) the assessments that administrators, teachers, principals, other school leaders, parents, and students, if appropriate, do and do not find useful; and
 
 &emsp;&emsp;&emsp;(viii) other information as appropriate; and
 
@@ -94,7 +94,7 @@ A State desiring to receive a grant under this section shall submit an applicati
 
 &emsp;&emsp;&emsp;(i) eliminating any unnecessary assessments, which may include paying the cost associated with terminating procurement contracts;
 
-&emsp;&emsp;&emsp;(ii) supporting the dissemination of best practices from local educational agencies or other States that have successfully improved assessment quality and efficiency to improve teaching and learning; and
+&emsp;&emsp;&emsp;(ii) supporting the dissemination of best practices from local educational agenciesor other States that have successfully improved assessment quality and efficiency to improve teaching and learning; and
 
 &emsp;&emsp;&emsp;(iii) supporting local educational agencies or consortia of local educational agencies to carry out efforts to streamline local assessment systems and implement a regular process of review and evaluation of assessment use in local educational agencies.
 

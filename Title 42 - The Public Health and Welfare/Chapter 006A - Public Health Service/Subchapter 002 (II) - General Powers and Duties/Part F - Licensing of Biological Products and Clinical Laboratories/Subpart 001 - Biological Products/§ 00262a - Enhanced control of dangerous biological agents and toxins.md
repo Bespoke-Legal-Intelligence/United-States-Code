@@ -228,7 +228,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 &emsp;&emsp;(D) Any notification of a release of a listed agent or toxin submitted under subsections (b) and (c), or any notification of theft or loss submitted under such subsections.
 
-&emsp;&emsp;(E) Any portion of an evaluation or report of an inspection of a specific registered person conducted under subsection (f) that identifies the listed agent or toxin possessed bya specific registered person or that discloses the identity or location of a specific registered person if the agency determines that public disclosure of the information would endanger public health or safety.
+&emsp;&emsp;(E) Any portion of an evaluation or report of an inspection of a specific registered person conducted under subsection (f) that identifies the listed agent or toxin possessed by a specific registered person or that discloses the identity or location of a specific registered person if the agency determines that public disclosure of the information would endanger public health or safety.
 
 #### (2) Covered agencies
 
@@ -270,7 +270,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (1) In general
 
-&emsp;In addition to any other penalties that may apply under law, any person who violates any provision of regulations under subsection (b) or (c) shall be subject to the United States for a civil money penalty in an amount not exceeding $250,000 in the case of an individual and $500,000 in the case of any other person.
+&emsp;In addition to any other penalties that may apply under law, any person who violates anyprovision of regulations under subsection (b) or (c) shall be subject to the United States for a civil money penalty in an amount not exceeding $250,000 in the case of an individual and $500,000 in the case of any other person.
 
 #### (2) Applicability of certain provisions
 
@@ -342,7 +342,7 @@ Pub. L. 107–188, title II, §203(b), June 12, 2002, 116 Stat. 647, provided th
 
 #### Regulations
 
-Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided that: "Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, 42 U.S.C. 262 note\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[42 U.S.C. 262a\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\]."
+Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided that: "Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, 42 U.S.C. 262 note\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[42 U.S.C. 262a\], as added by section 201 of this Act. Such regulations, includingthe list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\]."
 
 #### National Science Advisory Board for Biosecurity
 

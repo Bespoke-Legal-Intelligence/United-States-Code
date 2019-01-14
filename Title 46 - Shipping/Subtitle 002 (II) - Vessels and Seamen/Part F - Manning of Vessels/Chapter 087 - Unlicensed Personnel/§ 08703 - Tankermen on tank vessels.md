@@ -2,11 +2,9 @@
 
 (a) A vessel of the United States to which chapter 37 of this title applies, that has on board oil or hazardous material in bulk as cargo or cargo residue, shall have a specified number of the crew certified as tankermen as required by the Secretary. This requirement shall be noted on the certificate of inspection issued to the vessel.
 
-\[(b) Repealed. Pub. L. 98–557, §18, Oct. 30, 1984, 98 Stat. 2869.\]
+(b) A vessel to which section 3702(b) of this title applies shall have on board as a crewmember in charge of the transfer operation an individual certified as a tankerman (qualified for the grade of fuel transferred), unless a master, mate, pilot, engineer, or operator licensed under section 7101 of this title is present in charge of the transfer. If the vessel does not have that individual on board, chapter 37 of this title applies to the vessel.
 
-(c) A vessel to which section 3702(b) of this title applies shall have on board as a crewmember in charge of the transfer operation an individual certified as a tankerman (qualifiedfor the grade of fuel transferred), unless a master, mate, pilot, engineer, or operator licensed under section 7101 of this title is present in charge of the transfer. If the vessel does not have that individual on board, chapter 37 of this title applies to the vessel.
-
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 555; Pub. L. 98–557, §18, Oct. 30, 1984, 98 Stat. 2869.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 555; Pub. L. 98–557, §18, Oct. 30, 1984, 98 Stat. 2869; Pub. L. 115–232, div. C, title XXXV, §3546(h), Aug. 13, 2018, 132 Stat. 2326.)
 
 Historical and Revision Notes
 
@@ -36,5 +34,7 @@ Subsection (c) requires a tankerman or licensed master, pilot, engineer, or oper
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–557 repealed subsec. (b) which contained duplicate tankerman manning requirements. See section 7317(a) of this title.
+<b>2018</b>—Subsecs. (b), (c). Pub. L. 115–232 redesignated subsec. (c) as (b).
+
+<b>1984</b>—Subsec. (b). Pub. L. 98–557 struck out subsec. (b) which contained duplicate tankerman manning requirements. See section 7317(a) of this title.
 

@@ -82,7 +82,7 @@ In this section:
 
 #### (C) Comparability
 
-&emsp;&emsp;The provisions of part C regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this paragraph, shall apply to funds used under subparagraph (A).
+&emsp;&emsp;The provisions of part C regarding the establishment or increase of an endowmentfund, that the Secretary determines are not inconsistent with this paragraph, shall apply to funds used under subparagraph (A).
 
 #### (d) Application, plan, and allocation
 
@@ -94,7 +94,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;A Tribal College or University desiring to receive assistance under this section shallsubmit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
+&emsp;&emsp;A Tribal College or University desiring to receive assistance under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
 
 #### (B) Streamlined process
 
@@ -166,7 +166,7 @@ Subsec. (c)(2)(G) to (N). Pub. L. 110–315, §303(2)(D)–(H), added subpars. (
 
 Subsec. (d). Pub. L. 110–315, §303(3), added subsec. (d) and struck out former subsec. (d) which related to the application process for assistance under this section.
 
-<b>2000</b>—Subsec. (d)(2). Pub. L. 106–211, §1(a), inserted after first sentence "The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section."
+<b>2000</b>—Subsec. (d)(2). Pub. L. 106–211, §1(a), inserted after first sentence "The Secretary shall, to the extentpossible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section."
 
 Subsec. (d)(3). Pub. L. 106–211, §1(b)(1), added par. (3) and struck out heading and text of former par. (3). Text read as follows: "For the purposes of this part, no Tribal College or University that is eligible for and receives funds under this section may concurrently receive other funds under this part or part B of this subchapter."
 

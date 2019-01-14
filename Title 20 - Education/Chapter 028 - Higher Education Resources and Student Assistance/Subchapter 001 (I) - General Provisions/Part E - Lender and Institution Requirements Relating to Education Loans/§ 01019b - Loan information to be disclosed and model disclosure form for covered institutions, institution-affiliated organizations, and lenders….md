@@ -92,7 +92,7 @@ Each lender that has a preferred lender arrangement with a covered institution, 
 
 &emsp;&emsp;&emsp;(ii) a detailed explanation of why such covered institution or institution-affiliated organization entered into a preferred lender arrangement with the lender, including why the terms, conditions, and provisions of each type of education loan provided pursuant to the preferred lender arrangement are beneficial for students attending such institution, or the families of such students, as applicable; and
 
-&emsp;&emsp;(B) ensure that the report required under subparagraph (A) is made available to thepublic and provided to students attending or planning to attend such covered institution and the families of such students.
+&emsp;&emsp;(B) ensure that the report required under subparagraph (A) is made available to the public and provided to students attending or planning to attend such covered institution and the families of such students.
 
 #### (3) Code of conduct
 

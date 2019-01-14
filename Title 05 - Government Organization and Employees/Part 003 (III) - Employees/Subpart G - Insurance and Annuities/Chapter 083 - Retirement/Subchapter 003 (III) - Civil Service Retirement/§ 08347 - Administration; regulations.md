@@ -16,7 +16,7 @@
 
 (g) The Office may exclude from the operation of this subchapter an employee or group of employees in or under an Executive agency whose employment is temporary or intermittent. However, the Office may not exclude any employee who occupies a position on a part-time career employment basis (as defined in section 3401(2) of this title).
 
-(h) The Office, on recommendation by the Mayor of the District of Columbia, may exclude from the operation of this subchapter an individual or group of individuals employed by thegovernment of the District of Columbia whose employment is temporary or intermittent.
+(h) The Office, on recommendation by the Mayor of the District of Columbia, may exclude from the operation of this subchapter an individual or group of individuals employed by the government of the District of Columbia whose employment is temporary or intermittent.
 
 (i) The Architect of the Capitol may exclude from the operation of this subchapter an employee under the Office of the Architect of the Capitol whose employment is temporary or of uncertain duration.
 
@@ -76,7 +76,7 @@
 
 > shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered as an employee under this subchapter during any employment described in section 2105(c) after such move.
 
-(2) Under regulations prescribed by the Office of Personnel Management, an employee of anonappropriated fund instrumentality of the Department of Defense or the Coast Guard, described in section 2105(c), who—
+(2) Under regulations prescribed by the Office of Personnel Management, an employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, described in section 2105(c), who—
 
 &emsp;(A) has not previously made an election under this subsection or had an opportunity to make an election under this paragraph;
 
@@ -250,7 +250,7 @@ Section 1043(b), (c) of Pub. L. 104–106 provided that:
 
 "(b)
 
-Regulations.—Not later than 6 months after the date of the enactment of this Act \[Feb. 10, 1996\], the Office of Personnel Management (and each of the other administrative authorities, within the meaning of subsection (c)(2)(C)(iii)) shall prescribe any regulations (or make any modifications in existing regulations) necessary to carry out this section \[amending this section and sections 3502 and 8461 of this title and enacting provisions set out as a note under section 3502 of this title\] and the amendments made by this section, including regulations to provide for the notification of individuals who may be affected by the enactment of this section. All regulations (and modifications to regulations) under the preceding sentence shall take effect on the same date.
+Regulations.—Not later than 6 months after the date of the enactment of this Act \[Feb. 10, 1996\], the Office of Personnel Management (and each of the other administrative authorities, within the meaning of subsection (c)(2)(C)(iii)) shall prescribe any regulations (or make any modifications in existing regulations) necessary to carry out this section \[amending this section and sections 3502 and 8461 of this title and enacting provisions set out as a note under section 3502 of this title\]and the amendments made by this section, including regulations to provide for the notification of individuals who may be affected by the enactment of this section. All regulations (and modifications to regulations) under the preceding sentence shall take effect on the same date.
 
 "(c)
 
@@ -330,7 +330,7 @@ Qualifying nafi service.—For purposes of this subparagraph, the term 'qualifyi
 
 &emsp;&emsp;&emsp;"(iv)
 
-Service ceases to be creditable for nafi retirement system purposes.—Any qualifying NAFI service that becomes creditable for FERS purposes by virtue of an election made under this subparagraph shall not be creditable for purposes of any retirement system referred to in clause (iii).
+Service ceases to be creditable for nafi retirement system purposes.—Any qualifying NAFI service that becomes creditable for FERS purposes by virtue of an election made under thissubparagraph shall not be creditable for purposes of any retirement system referred to in clause (iii).
 
 &emsp;&emsp;&emsp;"(v)
 
@@ -370,7 +370,7 @@ Funding requirements.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
 
-In general.—Except as provided in subclause (II), nothing in this section or in anyother provision of law or any other authority shall be considered to require any payment or transfer of monies in order for an election under this subparagraph to be effective.
+In general.—Except as provided in subclause (II), nothing in this section or in any other provision of law or any other authority shall be considered to require any payment or transfer of monies in order for an election under this subparagraph to be effective.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 

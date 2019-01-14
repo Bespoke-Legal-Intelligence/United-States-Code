@@ -110,7 +110,7 @@ As used in subsection (a):
 
 #### (2) Federal share
 
-&emsp;The term "Federal share" means that portion of the amount collected resulting from the application of the Federal medical assistance percentage in effect for the fiscal year in which the amount is distributed.
+&emsp;The term "Federal share" means that portion of the amount collected resulting fromthe application of the Federal medical assistance percentage in effect for the fiscal year in which the amount is distributed.
 
 #### (3) Federal medical assistance percentage
 
@@ -242,7 +242,7 @@ Subsec. (d). Pub. L. 98–378, §11(a)(1), added subsec. (d).
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–35, §2332(e)(1), substituted in provision preceding par. (1) "as support" for "as child support".
 
-Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding par. (1) "whom support payments" for "whom child support payments" and in pars. (1) and (2) "amounts of support payments" for "amounts of child support payments" in two places and "amounts of support so" for "amounts of child support so".
+Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding par. (1) "whom support payments" for "whom child support payments" and in pars. (1) and\(2) "amounts of support payments" for "amounts of child support payments" in two places and "amounts of support so" for "amounts of child support so".
 
 <b>1977</b>—Subsec. (c). Pub. L. 95–171, §11(a)–(c), in par. (1), substituted "amounts of child support payments which represent monthly support payments" for "such support payments" and inserted ", which represent monthly support payments," after "amounts so collected"; in par. (2), substituted "amounts of child support payments which represent monthly support payments" for "such support payments" and inserted ", which represents monthly support payments," after "amount so collected"; changed to a comma the period at end of par. (2); and inserted provision for distribution of child support proceeds.
 

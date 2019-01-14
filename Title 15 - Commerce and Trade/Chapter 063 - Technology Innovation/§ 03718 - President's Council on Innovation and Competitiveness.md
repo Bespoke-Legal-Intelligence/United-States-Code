@@ -132,7 +132,7 @@ Notwithstanding subsection (a) and paragraphs (1) and (2) of subsection (c), the
 
 #### Codification
 
-Section was enacted as part of the America Creating Opportunities to Meaningfully Promote Excellence inTechnology, Education, and Science Act, also known as the America COMPETES Act, and not as part of the Stevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
+Section was enacted as part of the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, also known as the America COMPETES Act, and not as part of the Stevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
 
 #### Designation of the Committee on Technology of the National Science and Technology Council To Carry Out Certain Requirements of the America COMPETES Act
 

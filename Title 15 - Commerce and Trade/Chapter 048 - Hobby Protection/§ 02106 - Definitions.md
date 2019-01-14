@@ -34,5 +34,5 @@ The Trademark Act of 1946, referred to in par. (9), is act July 5, 1946, ch. 540
 
 #### Effective Date
 
-Section applicable only to imitation political items and imitation numismatic items manufactured afterNov. 29, 1973, see section 8 of Pub. L. 93–167, set out as a note under section 2101 of this title.
+Section applicable only to imitation political items and imitation numismatic items manufactured after Nov. 29, 1973, see section 8 of Pub. L. 93–167, set out as a note under section 2101 of this title.
 

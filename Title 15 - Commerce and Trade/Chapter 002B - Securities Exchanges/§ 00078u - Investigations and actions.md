@@ -8,7 +8,7 @@
 
 #### (b) Attendance of witnesses; production of records
 
-For the purpose of any such investigation, or any other proceeding under this chapter, any member of the Commission or any officer designated by it is empowered to administer oathsand affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States or any State at any designated place of hearing.
+For the purpose of any such investigation, or any other proceeding under this chapter, any member of the Commission or any officer designated by it is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States or any State at any designated place of hearing.
 
 #### (c) Judicial enforcement of investigative power of Commission; refusal to obey subpena; criminal sanctions
 
@@ -56,7 +56,7 @@ Procedures for collection.—
 
 &emsp;&emsp;(i)
 
-Payment of penalty to treasury.—A penalty imposed under this section shall be payable into the Treasury of the UnitedStates, except as otherwise provided in section 7246 of this title and section 78u–6 of this title.
+Payment of penalty to treasury.—A penalty imposed under this section shall be payable into the Treasury of the United States, except as otherwise provided in section 7246 of this title and section 78u–6 of this title.
 
 &emsp;&emsp;(ii)
 
@@ -162,9 +162,9 @@ Notwithstanding the provisions of section 1407(a) of title 28, or any other prov
 
 (B) Upon a finding that the Commission has obtained financial records or information contained therein in violation of this subsection, other than paragraph (1), the court, in its discretion, may also or in the alternative issue injunctive relief to require the Commission to comply with this subsection with respect to any subpena which the Commission issues in the future for financial records of such customer for purposes of the same investigation.
 
-(C) Whenever the court determines that the Commission has failed to comply with this subsection, other than paragraph (1), and the court finds that the circumstances raise questions of whether an officer or employee of the Commission acted in a willful and intentional manner and without good faith with respect to the violation, the Office of Personnel Management shallpromptly initiate a proceeding to determine whether disciplinary action is warranted against the agent or employee who was primarily responsible for the violation. After investigating and considering the evidence submitted, the Office of Personnel Management shall submit its findings and recommendations to the Commission and shall send copies of the findings and recommendations to the officer or employee or his representative. The Commission shall take the corrective action that the Office of Personnel Management recommends.
+(C) Whenever the court determines that the Commission has failed to comply with this subsection, other than paragraph (1), and the court finds that the circumstances raise questions of whether an officer or employee of the Commission acted in a willful and intentional manner and without good faith with respect to the violation, the Office of Personnel Management shall promptly initiate a proceeding to determine whether disciplinary action is warranted against the agent or employee who was primarily responsible for the violation. After investigating and considering the evidence submitted, the Office of Personnel Management shall submit its findings and recommendations to the Commission and shall send copies of the findings and recommendations to the officer or employee or his representative. The Commission shall take the corrective action that the Office of Personnel Management recommends.
 
-(8) The relief described in paragraphs (7) and (10) shall be the only remedies or sanctions available to a customer for a violation of this subsection, other than paragraph (1), and nothing herein or in the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] shall be deemed to prohibit the use in any investigation or proceeding of financial records, or the information contained therein, obtained by a subpena issued by the Commission. In the case of an unsuccessful action under paragraph (7), the court shall award the costs of the action and attorney's fees to the Commission if the presiding judge or magistrate judge finds that the customer's claims were made in bad faith.
+(8) The relief described in paragraphs (7) and (10) shall be the only remedies or sanctions available to a customer for a violation of this subsection, other than paragraph (1), and nothing herein or in the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] shall be deemed to prohibit the use in any investigation or proceeding of financial records, or the information contained therein, obtained by a subpena issued by the Commission. In the case of an unsuccessful action under paragraph (7), thecourt shall award the costs of the action and attorney's fees to the Commission if the presiding judge or magistrate judge finds that the customer's claims were made in bad faith.
 
 (9)(A) The Commission may transfer financial records or the information contained therein to any government authority if the Commission proceeds as a transferring agency in accordance with section 1112 of the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3412\], except that the customer notice required under section 1112(b) or (c) of such Act \[12 U.S.C. 3412(b) or (c)\] may be delayed upon a showing by the Commission, in accordance with the procedure set forth in paragraphs (4) and (5), that one or more of subparagraphs (A) through (D) of paragraph (2) apply.
 
@@ -196,7 +196,7 @@ Section 21(h) of the Securities Exchange Act of 1934, referred to in the paragra
 
 #### Amendments
 
-<b>2015</b>—Subsec. (h)(6). Pub. L. 114–113 struck out par. (6) which read as follows: "The Commission shall compile an annual tabulation of the occasions on which the Commission used each separate subparagraph or clause of paragraph (2) of this subsection or the provisions ofthe Right to Financial Privacy Act of 1978 to obtain access to financial records of a customer and include it in its annual report to the Congress. Section 1121(b) of the Right to Financial Privacy Act of 1978 shall not apply with respect to the Commission."
+<b>2015</b>—Subsec. (h)(6). Pub. L. 114–113 struck out par. (6) which read as follows: "The Commission shall compile an annual tabulation of the occasions on which the Commission used each separate subparagraph or clause of paragraph (2) of this subsection or the provisions of the Right to Financial Privacy Act of 1978 to obtain access to financial records of a customer and include it in its annual report to the Congress. Section 1121(b) of the Right to Financial Privacy Act of 1978 shall not apply with respect to the Commission."
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §929F(g)(2), in first sentence, substituted ", a person associated with such a firm, or, as to any act, practice, or omission to act, while associated with such firm, a person formerly associated with such a firm" for "or a person associated with such a firm".
 

@@ -268,7 +268,7 @@ Pub. L. 105–244, §102(b)(7)(A), substituted "sections 1002(b)(1)(E) and 1002(
 
 Subsec. (j)(2). Pub. L. 105–244, §102(a)(6)(B), (b)(7)(B), amended par. (2) identically, substituting "section 1001(a)(2)" for "section 1141(a)(2)".
 
-<b>1993</b>—Subsec. (c)(2). Pub. L. 103–208, §2(i)(9)(A), inserted at end "Such criteria shall take into account any differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for profit and nonprofit institutions. The Secretary shall take into account an institution's total financial circumstances in making a determination of its ability to meet the standards herein required."
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–208, §2(i)(9)(A), inserted at end "Such criteria shall take into account any differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for profit and nonprofit institutions. The Secretary shall take into account aninstitution's total financial circumstances in making a determination of its ability to meet the standards herein required."
 
 Subsec. (c)(3). Pub. L. 103–208, §2(i)(9)(B), substituted "The Secretary shall determine" for "The Secretary may determine" in introductory provisions.
 

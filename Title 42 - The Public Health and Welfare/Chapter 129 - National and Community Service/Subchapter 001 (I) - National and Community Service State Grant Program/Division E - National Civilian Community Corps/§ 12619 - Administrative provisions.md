@@ -68,7 +68,7 @@ The Chief Executive Officer shall—
 
 #### (D) Community service credit
 
-&emsp;&emsp;Service as a member of the cadre shall be considered as a community service opportunity for purposes of section 4403 of the National Defense Authorization Act for Fiscal Year 1993 and as employment with a public service or community service organization for purposes of section 4464 of that Act.
+&emsp;&emsp;Service as a member of the cadre shall be considered as a community service opportunity for purposes of section 4403 of the National Defense Authorization Act for Fiscal Year 1993.
 
 #### (E) Training
 
@@ -76,19 +76,17 @@ The Chief Executive Officer shall—
 
 #### (3) Inapplicability of certain civil service laws
 
-&emsp;The Director, other members of the permanent cadre, and the other staff personnel shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service. The rates of pay of such persons may be established without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. In the case of a member of the permanent cadre who was recommended for appointment in accordance with 12622(b)(1) <sup>1</sup> of this title and is entitled toretired or retainer pay, section 5532 <sup>2</sup> of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre.
+&emsp;The Director, other members of the permanent cadre, and the other staff personnel shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service. The rates of pay of such persons may be established without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. In the case of a member of the permanent cadre who was recommended for appointment in accordance with 12622(b)(1) <sup>1</sup> of this title and is entitled to retired or retainer pay, section 5532 <sup>2</sup> of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre.
 
 #### (4) Voluntary services
 
 &emsp;Notwithstanding any other provision of law, the Director may accept the voluntary services of individuals. While away from their homes or regular places of business on the business of the Corps, such individuals may be allowed travel expenses, including per diem in lieu of subsistence, in the same amounts and to the same extent, as authorized under section 5703 of title 5 for persons employed intermittently in Federal Government service.
 
-(Pub. L. 101–610, title I, §159, formerly §195H, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2528; renumbered §159 and amended Pub. L. 103–82, title I, §104(b), (e)(2)(E), title IV, §§402(b)(1), 403(a)(1)–(3), (b), Sept. 21, 1993, 107 Stat. 840, 847, 918–920; Pub. L. 103–304, §3(b)(5)(B), Aug. 23, 1994, 108 Stat. 1567; Pub. L. 103–337, div. A, title VI, §640, Oct. 5, 1994, 108 Stat. 2791; Pub. L. 111–13, title I, §1509, Apr. 21, 2009, 123 Stat. 1525.)
+(Pub. L. 101–610, title I, §159, formerly §195H, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2528; renumbered §159 and amended Pub. L. 103–82, title I, §104(b), (e)(2)(E), title IV, §§402(b)(1), 403(a)(1)–(3), (b), Sept. 21, 1993, 107 Stat. 840, 847, 918–920; Pub. L. 103–304, §3(b)(5)(B), Aug. 23, 1994, 108 Stat. 1567; Pub. L. 103–337, div. A, title VI, §640, Oct. 5, 1994, 108 Stat. 2791; Pub. L. 111–13, title I, §1509, Apr. 21, 2009, 123 Stat. 1525; Pub. L. 115–232, div. A, title V, §553(b)(3), Aug. 13, 2018, 132 Stat. 1772.)
 
 #### References in Text
 
 Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (c)(2)(D), is section 4403 of Pub. L. 102–484 which is set out as a note under section 1293 of Title 10, Armed Forces.
-
-Section 4464 of that Act, referred to in subsec. (c)(2)(D), is section 4464 of Pub. L. 102–484 which is set out as a note under section 1143a of Title 10.
 
 Section 5532 of title 5, referred to in subsec. (c)(3), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
@@ -97,6 +95,8 @@ Section 5532 of title 5, referred to in subsec. (c)(3), was repealed by Pub. L. 
 Section was formerly classified to section 12653h of this title prior to renumbering by Pub. L. 103–82, §104(b).
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(2)(D). Pub. L. 115–232 struck out "and as employment with a public service or community service organization for purposes of section 4464 of that Act" before period at end.
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–13, §1509(1)(A), substituted "National Civilian Community Corps Program" for "Civilian Community Corps Demonstration Program" in introductory provisions.
 

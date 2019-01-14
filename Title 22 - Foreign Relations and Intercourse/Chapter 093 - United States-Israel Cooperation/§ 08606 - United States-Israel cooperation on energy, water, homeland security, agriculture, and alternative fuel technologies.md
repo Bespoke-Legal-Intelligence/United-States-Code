@@ -42,7 +42,7 @@ Subsec. (c)(4). Pub. L. 114–304, §2(b)(3)–(5), added par. (4).
 
 #### United States-Israel Anti-Tunnel Cooperation
 
-Pub. L. 114–92, div. A, title XII, §1279, Nov. 25, 2015, 129 Stat. 1079, as amended by Pub. L. 114–328, div. A, title XII, §1295(a), (b), Dec. 23, 2016, 130 Stat. 2562; Pub. L. 115–91, div. A, title XII, §1278(a), Dec. 12, 2017, 131 Stat. 1700, provided that:
+Pub. L. 114–92, div. A, title XII, §1279, Nov. 25, 2015, 129 Stat. 1079, as amended by Pub. L. 114–328, div. A, title XII, §1295(a), (b), Dec. 23, 2016, 130 Stat. 2562; Pub. L. 115–91, div. A, title XII, §1278(a), Dec. 12, 2017, 131 Stat. 1700; Pub. L. 115–232, div. A, title XII, §1272(a), Aug. 13, 2018, 132 Stat. 2066, provided that:
 
 "(a)
 
@@ -50,7 +50,7 @@ Authority To Establish Anti-tunnel Capabilities Program With Israel.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense, upon request of the Ministry of Defense of Israel and in consultation with the Secretary of State and the Director of National Intelligence, is authorized to carry out research, development, test, and evaluation, on a joint basis with Israel, to establish anti-tunnel capabilities to detect, map, and neutralize underground tunnels that threaten the United States or Israel. Any activities carried out pursuant to such authority shall be conducted in a manner that appropriately protects sensitive information and United States and Israel national security interests.
+In general.—The Secretary of Defense, upon request of the Ministry of Defense of Israel and in consultation with the Secretary of State and the Director of National Intelligence, is authorized to carry out research, development, test, and evaluation, on a joint basis with Israel, to establish anti-tunnel capabilities to detect, map, and neutralize underground tunnels and to establish capabilities for countering unmanned aerial systems that threaten the United States or Israel. Any activities carried out pursuant to such authority shall be conducted in a manner that appropriately protects sensitive information and United States and Israel national security interests.
 
 &emsp;"(2)
 

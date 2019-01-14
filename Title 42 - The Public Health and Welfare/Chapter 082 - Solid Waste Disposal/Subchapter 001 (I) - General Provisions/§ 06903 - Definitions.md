@@ -36,7 +36,7 @@ As used in this chapter:
 
 (14) The term "open dump" means any facility or site where solid waste is disposed of which is not a sanitary landfill which meets the criteria promulgated under section 6944 of this title and which is not a facility for disposal of hazardous waste.
 
-(15) The term "person" means an individual, trust, firm, joint stock company, corporation\(including a government corporation), partnership, association, State, municipality, commission, political subdivision of a State, or any interstate body and shall include each department, agency, and instrumentality of the United States.
+(15) The term "person" means an individual, trust, firm, joint stock company, corporation (including a government corporation), partnership, association, State, municipality, commission, political subdivision of a State, or any interstate body and shall include each department, agency, and instrumentality of the United States.
 
 (16) The term "procurement item" means any device, good, substance, material, product, or other item whether real or personal property which is the subject of any purchase, barter, or other exchange made to procure such item.
 
@@ -94,7 +94,7 @@ As used in this chapter:
 
 &emsp;(C) as a result of such use, contaminated by physical or chemical impurities.
 
-(37) The term "recycled oil" means any used oil which is reused, following its original use, for any purpose (including the purpose for which the oil was originally used). Such term includesoil which is re-refined, reclaimed, burned, or reprocessed.
+(37) The term "recycled oil" means any used oil which is reused, following its original use, for any purpose (including the purpose for which the oil was originally used). Such term includes oil which is re-refined, reclaimed, burned, or reprocessed.
 
 (38) The term "lubricating oil" means the fraction of crude oil which is sold for purposes of reducing friction in any industrial or mechanical device. Such term includes re-refined oil.
 

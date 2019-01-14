@@ -12,7 +12,7 @@ Each report under subsection (a) shall set forth, at a minimum—
 
 &emsp;(2) the number of actual violations of section 1307 of title 19 with respect to the products of the People's Republic of China that were discovered during the preceding 1-year period;
 
-&emsp;(3) in the case of each attempted entry of products of the People's Republic of China in violation of such section 1307 of title 19 discovered during the preceding 1-year period—
+&emsp;(3) in the case of each attempted entry of products of the People's Republic of China inviolation of such section 1307 of title 19 discovered during the preceding 1-year period—
 
 &emsp;&emsp;(A) the identity of the exporter of the goods;
 

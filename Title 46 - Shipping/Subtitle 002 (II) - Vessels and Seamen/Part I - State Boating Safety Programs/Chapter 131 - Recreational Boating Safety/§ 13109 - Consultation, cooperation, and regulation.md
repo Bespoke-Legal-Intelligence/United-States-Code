@@ -2,7 +2,7 @@
 
 (a) In carrying out responsibilities under this chapter, the Secretary may consult with State and local governments, public and private agencies, organizations and committees, private industry, and other persons having an interest in boating safety.
 
-(b) The Secretary may advise, assist, and cooperate with the States and other interested public and private agencies in planning, developing, and carrying out boating safety programs. Acting under section 141 of title 14, the Secretary shall ensure the fullest cooperation between the State and United States Government authorities in promoting boating safety by making agreements and other arrangements with States when possible. Subject to chapter 23 of title 14, the Secretary may make available, on request of a State, the services of members of the Coast Guard Auxiliary to assist the State in promoting boating safety on State waters.
+(b) The Secretary may advise, assist, and cooperate with the States and other interested public and private agencies in planning, developing, and carrying out boating safety programs. Acting under section 141 <sup>1</sup> of title 14, the Secretary shall ensure the fullest cooperation between the State and United States Government authorities in promoting boating safety by making agreements and other arrangements with States when possible. Subject to chapter 23 <sup>1</sup> of title 14, the Secretary may make available, on request of a State, the services of members of the Coast Guard Auxiliary to assist the State in promoting boating safety on State waters.
 
 (c) The Secretary may prescribe regulations to carry out this chapter.
 
@@ -22,6 +22,12 @@ Section 13109 authorizes the Secretary to consult with State and local governmen
 
 This section also authorizes the Secretary to advise and assist the States and other public and private agencies in the planning and carrying out of their boating safety and facilities improvement programs.
 
+#### References in Text
+
+Section 141 of title 14, referred to in subsec. (b), was redesignated section 701 of title 14 by Pub. L. 115–282, title I, §106(b), Dec. 4, 2018, 132 Stat. 4203, and references to section 141 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+
+Chapter 23 of title 14, referred to in subsec. (b), was comprised of sections 821 to 832 prior to the renumbering of such sections as sections 3901 to 3913, respectively, of title 14 by Pub. L. 115–282, title I, §119(b), Dec. 4, 2018, 132 Stat. 4236. After renumbering, such sections now comprise chapter 39 of Title 14.
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369 struck out "and facilities improvement" after "boating safety".
@@ -31,4 +37,6 @@ Subsec. (b). Pub. L. 98–369 struck out "and facilities improvement" after "and
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to fiscal years beginning after Sept. 30, 1984, see section 1013 of Pub. L. 98–369, set out as a note under section 13101 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

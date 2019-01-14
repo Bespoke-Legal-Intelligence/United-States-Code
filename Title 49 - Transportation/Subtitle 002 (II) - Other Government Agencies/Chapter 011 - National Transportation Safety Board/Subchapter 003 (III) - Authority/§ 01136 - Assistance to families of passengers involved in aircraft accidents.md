@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—As soon as practicable after being notified of an aircraft accident within the United States involving an air carrier or foreign air carrier and resulting in a major loss of life, the Chairman of the National Transportation Safety Board shall—
+In General.—As soon as practicable after being notified of an aircraft accident involvingan air carrier or foreign air carrier, resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency, the Chairman of the National Transportation Safety Board shall—
 
 &emsp;(1) designate and publicize the name and phone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the air carrier or foreign air carrier and the families; and
 
@@ -72,7 +72,7 @@ Unsolicited communications.—In the event of an accident involving an air carri
 
 &emsp;(3)
 
-Prohibition on actions to prevent mental health and counseling services.—No State or political subdivision thereof may prevent the employees, agents, or volunteers of an organization designated for an accident under subsection (a)(2) from providing mental health and counseling services under subsection (c)(1) in the 30-day period beginning on the date of the accident. The director of family support services designated for the accident under subsection (a)(1) may extend such period for not to exceed an additional 30 days if the director determines that the extension is necessary to meet the needs of the families and if State and local authorities are notified of the determination.
+Prohibition on actions to prevent mental health and counseling services.—No State or political subdivision thereof may prevent the employees, agents, or volunteers of an organization designated for an accident under subsection (a)(2) from providing mental health and counseling services under subsection (c)(1) in the 30-day period beginning on the date of the accident. The director of family support services designated for the accident under subsection (a)(1) may extend such period for not to exceed an additional 30 days if the director determines that the extensionis necessary to meet the needs of the families and if State and local authorities are notified of the determination.
 
 (h)
 
@@ -80,15 +80,17 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Aircraft accident.—The term "aircraft accident" means any aviation disaster regardless of its cause or suspected cause.
+Aircraft accident.—The term "aircraft accident" means any aviation disaster, regardless of its cause or suspected cause, for which the National Transportation Safety Board is the lead investigative agency.
 
 &emsp;(2)
 
 Passenger.—The term "passenger" includes—
 
-&emsp;&emsp;(A) an employee of an air carrier or foreign air carrier aboard an aircraft; and
+&emsp;&emsp;(A) an employee of an air carrier or foreign air carrier aboard an aircraft;
 
-&emsp;&emsp;(B) any other person aboard the aircraft without regard to whether the person paid for the transportation, occupied a seat, or held a reservation for the flight.
+&emsp;&emsp;(B) any other person aboard the aircraft without regard to whether the person paid for the transportation, occupied a seat, or held a reservation for the flight; and
+
+&emsp;&emsp;(C) any other person injured or killed in the aircraft accident, as determined appropriate by the Board.
 
 (i)
 
@@ -106,9 +108,15 @@ General rule.—This section (other than subsection (g)) shall not apply to an a
 
 Board assistance.—If this section does not apply to an aircraft accident because the Board has relinquished investigative priority with respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
 
-(Added Pub. L. 104–264, title VII, §702(a)(1), Oct. 9, 1996, 110 Stat. 3265; amended Pub. L. 106–181, title IV, §401(a)(1), (b)–(d), Apr. 5, 2000, 114 Stat. 129; Pub. L. 108–168, §3(a), Dec. 6, 2003, 117 Stat. 2033.)
+(Added Pub. L. 104–264, title VII, §702(a)(1), Oct. 9, 1996, 110 Stat. 3265; amended Pub. L. 106–181, title IV, §401(a)(1), (b)–(d), Apr. 5, 2000, 114 Stat. 129; Pub. L. 108–168, §3(a), Dec. 6, 2003, 117 Stat. 2033; Pub. L. 115–254, div. C, §1109(c), Oct. 5, 2018, 132 Stat. 3434.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–254, §1109(c)(1), in introductory provisions, substituted "aircraft accident involving an air carrier or foreign air carrier, resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency" for "aircraft accident within the United States involving an air carrier or foreign air carrier and resulting in a major loss of life".
+
+Subsec. (h)(1). Pub. L. 115–254, §1109(c)(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: "The term 'aircraft accident' means any aviation disaster regardless of its cause or suspected cause."
+
+Subsec. (h)(2)(C). Pub. L. 115–254, §1109(c)(2)(B), added subpar. (C).
 
 <b>2003</b>—Subsec. (j). Pub. L. 108–168 added subsec. (j).
 

@@ -10,7 +10,7 @@
 
 &emsp;(B) by bringing a civil action under subsection (b) of this section.
 
-(3) Whenever on the basis of any information available to him the Administrator finds that any person is in violation of section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title, or is in violation of any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by him or by a State or in a permit issued under section 1344 of this title by a State, he shall issue an order requiring such person to comply with such section or requirement, or he shall bring a civil action in accordance with subsection (b) of this section.
+(3) Whenever on the basis of any information available to him the Administrator finds that any person is in violation of section 1311, 1312, 1316, 1317, 1318, 1322(p), 1328, or 1345 of this title, or is in violation of any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by him or by a State or in a permit issued under section 1344 of this title by a State, he shall issue an order requiring such person to comply with such section or requirement, or he shall bring a civil action in accordance with subsection (b) of this section.
 
 (4) A copy of any order issued under this subsection shall be sent immediately by the Administrator to the State in which the violation occurs and other affected States. In any case in which an order under this subsection (or notice to a violator under paragraph (1) of this subsection) is issued to a corporation, a copy of such order (or notice) shall be served on any appropriate corporate officers. An order issued under this subsection relating to a violation of section 1318 of this title shall not take effect until the person to whom it is issued has had an opportunity to confer with the Administrator concerning the alleged violation.
 
@@ -22,7 +22,7 @@
 
 #### (b) Civil actions
 
-The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under subsection (a) of this section. Any action under this subsection may be brought in the district court of the UnitedStates for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the appropriate State.
+The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under subsection (a) of this section. Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the appropriate State.
 
 #### (c) Criminal penalties
 
@@ -30,7 +30,7 @@ The Administrator is authorized to commence a civil action for appropriate relie
 
 &emsp;Any person who—
 
-&emsp;&emsp;(A) negligently violates section 1311, 1312, 1316, 1317, 1318, 1321(b)(3), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title or in a permit issued under section 1344 of this title by the Secretary of the Army or by a State; or
+&emsp;&emsp;(A) negligently violates section 1311, 1312, 1316, 1317, 1318, 1321(b)(3), 1322(p), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title or in a permit issued under section 1344 of this title by the Secretary of the Army or by a State; or
 
 &emsp;&emsp;(B) negligently introduces into a sewer system or into a publicly owned treatment works any pollutant or hazardous substance which such person knew or reasonably should have known could cause personal injury or property damage or, other than in compliance with all applicable Federal, State, or local requirements or permits, which causes such treatment works to violate any effluent limitation or condition in any permit issued to the treatment works under section 1342 of this title by the Administrator or a State;
 
@@ -40,7 +40,7 @@ The Administrator is authorized to commence a civil action for appropriate relie
 
 &emsp;Any person who—
 
-&emsp;&emsp;(A) knowingly violates section 1311, 1312, 1316, 1317, 1318, 1321(b)(3), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title or in a permit issued under section 1344 of this title by the Secretary of the Army or by a State; or
+&emsp;&emsp;(A) knowingly violates section 1311, 1312, 1316, 1317, 1318, 1321(b)(3), 1322(p), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title or in a permit issued under section 1344 of this title by the Secretary of the Army or by a State; or
 
 &emsp;&emsp;(B) knowingly introduces into a sewer system or into a publicly owned treatment works any pollutant or hazardous substance which such person knew or reasonably should have known could cause personal injury or property damage or, other than in compliance with all applicable Federal, State, or local requirements or permits, which causes such treatment works to violate any effluent limitation or condition in a permit issued to the treatment works under section 1342 of this title by the Administrator or a State;
 
@@ -50,7 +50,7 @@ The Administrator is authorized to commence a civil action for appropriate relie
 
 #### (A) General rule
 
-&emsp;&emsp;Any person who knowingly violates section 1311, 1312, 1313, 1316, 1317, 1318, 1321(b)(3), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or in a permit issued under section 1344 of this title by the Secretary of the Army or by a State, and who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall, upon conviction, be subject to a fine of not more than $250,000 or imprisonment of not more than 15 years, or both. A person which is an organization shall, upon conviction of violating this subparagraph, be subject to a fine of not more than $1,000,000. If a conviction of a person is for a violation committed after a first conviction of such person under this paragraph, the maximum punishment shall be doubled with respect to both fine and imprisonment.
+&emsp;&emsp;Any person who knowingly violates section 1311, 1312, 1313, 1316, 1317, 1318, 1321(b)(3), 1322(p), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or in a permit issued under section 1344 of this title by the Secretary of the Army or by a State, and who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall, upon conviction, be subject to a fine of not more than $250,000 or imprisonment of not more than 15 years, or both. A person which is an organization shall, upon conviction of violating this subparagraph, be subject to a fine of not more than $1,000,000. If a conviction of a person is for a violation committed after a first conviction of such person under this paragraph, the maximum punishment shall be doubled with respect to both fine and imprisonment.
 
 #### (B) Additional provisions
 
@@ -94,7 +94,7 @@ The Administrator is authorized to commence a civil action for appropriate relie
 
 #### (d) Civil penalties; factors considered in determining amount
 
-Any person who violates section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator, or by a State, or in a permit issued under section 1344 of this title by a State,,<sup>1</sup> or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title, and any person who violates any order issued by the Administrator under subsection (a) of this section, shall be subject to a civil penalty not to exceed $25,000 per day for each violation. In determining the amount of a civil penalty the court shall consider the seriousness of the violation or violations, the economic benefit (if any) resulting from the violation, any history of such violations, any good-faith efforts to comply with the applicable requirements, the economic impact of the penalty on the violator, and such other matters as justice may require. For purposes of this subsection, a single operational upset which leads to simultaneous violations of more than one pollutant parameter shall be treated as a single violation.
+Any person who violates section 1311, 1312, 1316, 1317, 1318, 1322(p), 1328,,<sup>1</sup> or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator, or by a State, or in a permit issued under section 1344 of this title by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title, and any person who violates any order issued by the Administrator under subsection (a) of this section, shall be subject to a civil penalty not to exceed $25,000 per day for each violation. In determining the amount of a civil penalty the court shall consider the seriousness of the violation or violations, the economic benefit (if any) resulting from the violation, any history of such violations, any good-faith efforts to comply with the applicable requirements, the economic impact of the penalty on the violator, and such other matters as justice may require. For purposes of this subsection, a single operational upset which leads to simultaneous violations of more than one pollutant parameter shall be treated as a single violation.
 
 #### (e) State liability for judgments and expenses
 
@@ -110,7 +110,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 &emsp;Whenever on the basis of any information available—
 
-&emsp;&emsp;(A) the Administrator finds that any person has violated section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title, or has violated any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or in a permit issued under section 1344 of this title by a State, or
+&emsp;&emsp;(A) the Administrator finds that any person has violated section 1311, 1312, 1316, 1317, 1318, 1322(p), 1328, or 1345 of this title, or has violated any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or in a permit issued under section 1344 of this title by a State, or
 
 &emsp;&emsp;(B) the Secretary of the Army (hereinafter in this subsection referred to as the "Secretary") finds that any person has violated any permit condition or limitation in a permit issued under section 1344 of this title by the Secretary,
 
@@ -142,7 +142,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (C) Rights of interested persons to a hearing
 
-&emsp;&emsp;If no hearing is held under paragraph (2) before issuance of an order assessing a penalty under this subsection, any person who commented on the proposed assessment may petition, within 30 days after the issuance of such order, the Administrator or Secretary, as the case may be, to set aside such order and to provide a hearing on the penalty. If the evidence presented by the petitioner in support of the petition is material and was not considered in the issuance of the order, the Administrator or Secretary shall immediately set aside such order and provide a hearing in accordance with paragraph (2)(A) in the case of a class I civil penalty and paragraph (2)(B) in the case of a class II civil penalty. If the Administrator or Secretary denies a hearing under this subparagraph, the Administrator or Secretary shall provide to the petitioner, and publish in the Federal Register, notice of and the reasons for such denial.
+&emsp;&emsp;If no hearing is held under paragraph (2) before issuance of an order assessing a penalty under this subsection, any person who commented on the proposed assessment may petition, within 30 days after the issuance of such order, the Administrator or Secretary, as the case may be, to set aside such order and to provide a hearing on the penalty. If the evidence presented by the petitioner in support of the petition is material and was not considered in the issuance of the order, the Administrator or Secretary shall immediately set aside such order and provide a hearing in accordance with paragraph (2)(A) in the case of a class I civil penalty and paragraph (2)(B) in the case of a class II civil penalty. If the Administrator or Secretarydenies a hearing under this subparagraph, the Administrator or Secretary shall provide to the petitioner, and publish in the Federal Register, notice of and the reasons for such denial.
 
 #### (5) Finality of order
 
@@ -156,7 +156,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 &emsp;&emsp;&emsp;(i) with respect to which the Administrator or the Secretary has commenced and is diligently prosecuting an action under this subsection,
 
-&emsp;&emsp;&emsp;(ii) with respect to which a State has commenced and is diligently prosecutingan action under a State law comparable to this subsection, or
+&emsp;&emsp;&emsp;(ii) with respect to which a State has commenced and is diligently prosecuting an action under a State law comparable to this subsection, or
 
 &emsp;&emsp;&emsp;(iii) for which the Administrator, the Secretary, or the State has issued a final order not subject to further judicial review and the violator has paid a penalty assessed under this subsection, or such comparable State law, as the case may be,
 
@@ -196,19 +196,39 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (10) Subpoenas
 
-&emsp;The Administrator or Secretary, as the case may be, may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under this subsection. In case of contumacy or refusal to obey a subpoena issued pursuant to this paragraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+&emsp;The Administrator or Secretary, as the case may be, may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under thissubsection. In case of contumacy or refusal to obey a subpoena issued pursuant to this paragraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 #### (11) Protection of existing procedures
 
 &emsp;Nothing in this subsection shall change the procedures existing on the day before February 4, 1987, under other subsections of this section for issuance and enforcement of orders by the Administrator.
 
-(June 30, 1948, ch. 758, title III, §309, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 859; amended Pub. L. 95–217, §§54(b), 55, 56, 67(c)(2), Dec. 27, 1977, 91 Stat. 1591, 1592, 1606; Pub. L. 100–4, title III, §§312, 313(a)(1), (b)(1), (c), 314(a), Feb. 4, 1987, 101 Stat. 42, 45, 46; Pub. L. 101–380, title IV, §4301(c), Aug. 18, 1990, 104 Stat. 537.)
+#### (h) Implementation of integrated plans
+
+#### (1) In general
+
+&emsp;In conjunction with an enforcement action under subsection (a) or (b) relating to municipal discharges, the Administrator shall inform a municipality of the opportunity to develop an integrated plan, as defined in section 1342(s) of this title.
+
+#### (2) Modification
+
+&emsp;Any municipality under an administrative order under subsection (a) or settlement agreement (including a judicial consent decree) under subsection (b) that has developed an integrated plan consistent with section 1342(s) of this title may request a modification of the administrative order or settlement agreement based on that integrated plan.
+
+(June 30, 1948, ch. 758, title III, §309, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 859; amended Pub. L. 95–217, §§54(b), 55, 56, 67(c)(2), Dec. 27, 1977, 91 Stat. 1591, 1592, 1606; Pub. L. 100–4, title III, §§312, 313(a)(1), (b)(1), (c), 314(a), Feb. 4, 1987, 101 Stat. 42, 45, 46; Pub. L. 101–380, title IV, §4301(c), Aug. 18, 1990, 104 Stat. 537; Pub. L. 115–282, title IX, §903(c)(2), Dec. 4, 2018, 132 Stat. 4356; Pub. L. 115–436, §3(b), Jan. 14, 2019, 132 Stat. 5560.)
 
 #### References in Text
 
 The Solid Waste Disposal Act, referred to in subsec. (c)(7), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (h). Pub. L. 115–436 added subsec. (h).
+
+<b>2018</b>—Subsec. (a)(3). Pub. L. 115–282, §903(c)(2)(A), substituted "1322(p), 1328" for "1328".
+
+Subsec. (c)(1)(A), (2)(A), (3)(A). Pub. L. 115–282, §903(c)(2)(B), substituted "1322(p), 1328" for "1328".
+
+Subsec. (d). Pub. L. 115–282, §903(c)(2)(C), substituted "1322(p), 1328," for "1328" and "State," for "State,,".
+
+Subsec. (g)(1)(A). Pub. L. 115–282, §903(c)(2)(D), substituted "1322(p), 1328" for "1328".
 
 <b>1990</b>—Subsec. (c)(1)(A), (2)(A), (3)(A). Pub. L. 101–380 inserted "1321(b)(3)," after "1318,".
 
@@ -248,7 +268,7 @@ Pub. L. 100–4, title III, §313(a)(2), Feb. 4, 1987, 101 Stat. 45, provided th
 
 #### Deposit of Certain Penalties Into Oil Spill Liability Trust Fund
 
-Penalties paid pursuant to subsection (c) of this section and sections 1321 and 1501 et seq. of this title to be deposited in the Oil Spill Liability Trust Fund created under section 9509 of Title 26, Internal Revenue Code, see section 4304 of Pub. L. 101–380, set out as a note under section 9509 of Title 26.
+Penalties paid pursuant to subsection (c) of this section and sections 1321 and 1501 et seq. of this title to bedeposited in the Oil Spill Liability Trust Fund created under section 9509 of Title 26, Internal Revenue Code, see section 4304 of Pub. L. 101–380, set out as a note under section 9509 of Title 26.
 
 #### Increased Penalties Not Required Under State Programs
 

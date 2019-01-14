@@ -80,7 +80,7 @@ Schedule of Meetings.—The President shall take the necessary steps to convene 
 
 "(b)
 
-Purpose.—The purpose of the meetings scheduled under subsection (a) is to reach agreement between the United States and CBTPA beneficiary countries on the likely timing and procedures for initiating negotiations for CBTPA beneficiary countries to enter into mutually advantageous free trade agreements with the United States that contain provisions comparable to those in the NAFTA and would make substantial progress in achieving the negotiating objectives set forth in section 108(b)(5) of Public Law 103–182 (19 U.S.C. 3317(b)(5)).
+Purpose.—The purpose of the meetings scheduled under subsection (a) is to reach agreement between the United States and CBTPA beneficiary countries on the likely timing and procedures for initiating negotiations for CBTPA beneficiary countries to enter into mutually advantageous free trade agreements with the United States that contain provisions comparable to those in the NAFTA and would make substantial progress in achieving the negotiating objectives setforth in section 108(b)(5) of Public Law 103–182 (19 U.S.C. 3317(b)(5)).
 
 "(c)
 

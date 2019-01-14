@@ -12,7 +12,7 @@
 
 #### (3) Effect on warranties; employer liability
 
-&emsp;Nothing in this subsection shall affect the liability of any person under any warranty under Federal, State, or common law. Nothingin this subsection shall affect the liability of an employer who is a response action contractor to any employee of such employer under any provision of law, including any provision of any law relating to worker's compensation.
+&emsp;Nothing in this subsection shall affect the liability of any person under any warranty under Federal, State, or common law. Nothing in this subsection shall affect the liability of an employer who is a response action contractor to any employee of such employer under any provision of law, including any provision of any law relating to worker's compensation.
 
 #### (4) Governmental employees
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(C) a State or political subdivision which has entered into a contract or cooperative agreement in accordance with section 9604(d)(1) of this title; or
 
-&emsp;&emsp;(D) any potentially responsible party carrying out any agreement under section 9622 of this title (relating to settlements) or section 9606 of this title (relating to abatement).
+&emsp;&emsp;(D) any potentially responsible party carrying out any agreement under section 9622of this title (relating to settlements) or section 9606 of this title (relating to abatement).
 
 #### (3) Source of funding
 
@@ -74,7 +74,7 @@
 
 #### (i) Decision to indemnify
 
-&emsp;&emsp;&emsp;In deciding whether to enter into an indemnification agreement with a response action contractor carrying out a written contract or agreement with any potentially responsible party, the President shall determine an amount which the potentially responsible party is able to indemnify the contractor. The President may enter into such an indemnification agreement only if the President determines that such amount of indemnification is inadequate to cover any reasonable potential liability of the contractor arising out of the contractor's negligence in performing the contract or agreement with such party. The President shall make the determinations in the preceding sentences (with respect to the amount and theadequacy of the amount) taking into account the total net assets and resources of potentially responsible parties with respect to the facility at the time of such determinations.
+&emsp;&emsp;&emsp;In deciding whether to enter into an indemnification agreement with a response action contractor carrying out a written contract or agreement with any potentially responsible party, the President shall determine an amount which the potentially responsible party is able to indemnify the contractor. The President may enter into such an indemnification agreement only if the President determines that such amount of indemnification is inadequate to cover any reasonable potential liability of the contractor arising out of the contractor's negligence in performing the contract or agreement with such party. The President shall make the determinations in the preceding sentences (with respect to the amount and the adequacy of the amount) taking into account the total net assets and resources of potentially responsible parties with respect to the facility at the time of such determinations.
 
 #### (ii) Conditions
 
@@ -98,7 +98,7 @@
 
 #### (8) Study
 
-&emsp;The Comptroller General shall conduct a study in the fiscal year ending September 30, 1989, on the application of this subsection, including whether indemnification agreements under this subsection are being used, the number of claims that have been filed under such agreements, and the need for this subsection. The Comptroller General shall report the findings of the study to Congress no later than September 30, 1989.
+&emsp;The Comptroller General shall conduct a study in the fiscal year ending September 30,1989, on the application of this subsection, including whether indemnification agreements under this subsection are being used, the number of claims that have been filed under such agreements, and the need for this subsection. The Comptroller General shall report the findings of the study to Congress no later than September 30, 1989.
 
 #### (d) Exception
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) any person who is retained or hired by a person described in subparagraph (A) to provide any services relating to a response action; and
 
-&emsp;&emsp;(C) any surety who after October 16, 1990, provides a bid, performance or payment bond to a response action contractor, and begins activities to meet its obligations under suchbond, but only in connection with such activities or obligations.
+&emsp;&emsp;(C) any surety who after October 16, 1990, provides a bid, performance or payment bond to a response action contractor, and begins activities to meet its obligations under such bond, but only in connection with such activities or obligations.
 
 #### (3) Insurance
 
@@ -154,7 +154,7 @@ Response action contractors and subcontractors for program management, construct
 
 (3) If under applicable Federal law surety bonds are required for any direct Federal procurement of any response action contract, unless otherwise provided for by the procuring agency in the bond, in the event of a default, the surety's liability on a performance bond shall be only for the cost of completion of the contract work in accordance with the plans and specifications less the balance of funds remaining to be paid under the contract, up to the penal sum of the bond. The surety shall in no event be liable on bonds to indemnify or compensate the obligee for loss or liability arising from personal injury or property damage whether or not caused by a breach of the bonded contract.
 
-(4) Nothing in this subsection shall be construed as preempting, limiting, superseding, affecting, applying to, or modifying any State laws, regulations, requirements, rules, practices or procedures. Nothing in this subsection shall be construed as affecting, applying to, modifying, limiting, superseding, or preempting any rights, authorities, liabilities, demands, actions, causes of action, losses, judgments, claims, statutes of limitation, or obligations under Federal or State law, which do not arise on or under the bond.
+(4) Nothing in this subsection shall be construed as preempting, limiting, superseding, affecting, applying to, or modifying any State laws, regulations, requirements, rules, practices or procedures. Nothing in this subsection shall be construed as affecting, applying to, modifying, limiting, superseding, or preempting anyrights, authorities, liabilities, demands, actions, causes of action, losses, judgments, claims, statutes of limitation, or obligations under Federal or State law, which do not arise on or under the bond.
 
 (5) This subsection shall not apply to bonds executed before October 17, 1990.
 

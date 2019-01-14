@@ -40,7 +40,7 @@ Enforcement of copyright in restored works as against reliance parties.—As aga
 
 &emsp;&emsp;(ii)(I) the act of infringement commenced after the end of the 12-month period beginning on the date of publication of the notice in the Federal Register;
 
-&emsp;&emsp;(II) the act of infringement commenced before the end of the 12-month period describedin subclause (I) and continued after the end of that 12-month period, in which case remedies shall be available only for infringement occurring after the end of that 12-month period; or
+&emsp;&emsp;(II) the act of infringement commenced before the end of the 12-month period described in subclause (I) and continued after the end of that 12-month period, in which case remedies shall be available only for infringement occurring after the end of that 12-month period; or
 
 &emsp;&emsp;(III) copies or phonorecords of a work in which copyright has been restored under this section are made after publication of the notice of intent in the Federal Register.
 
@@ -76,7 +76,7 @@ Notices of Intent To Enforce a Restored Copyright.—
 
 &emsp;(1)
 
-Notices of intent filed with the copyright office.—(A)(i) A notice of intent filed with the Copyright Office to enforce a restored copyright shall be signed by the owner of the restored copyright or the owner of an exclusive right therein, who files the notice under subsection (d)(2)(A)(i) (hereafter in this paragraph referred to as the "owner"), or by the owner's agent, shall identify the title of the restored work, and shall include an English translation of the title and any other alternative titles known to the owner by which the restored work may be identified, and an address and telephone number at which the owner may be contacted. If the notice is signed by an agent, the agency relationship must have been constituted in a writing signed by the owner before the filing of the notice. The Copyright Office may specifically require in regulations other information to be included in the notice, but failure to provide such other information shall not invalidate the notice or be a basis for refusal to list the restored work in the Federal Register.
+Notices of intent filed with the copyright office.—(A)(i) A notice of intent filed with the Copyright Office to enforce a restored copyright shall be signed by the owner of the restored copyright or the owner of an exclusive right therein, who files the notice under subsection (d)(2)(A)(i) (hereafter in this paragraph referred to as the "owner"), or by the owner's agent, shall identify the title of the restored work, and shall include an English translation of the title and any other alternative titles known to the owner by which the restored work may be identified, and an address and telephone number at which the owner may be contacted. If the notice is signed by an agent, the agency relationship must have been constituted in a writing signed by the owner before the filing of the notice. The Copyright Office may specifically requirein regulations other information to be included in the notice, but failure to provide such other information shall not invalidate the notice or be a basis for refusal to list the restored work in the Federal Register.
 
 &emsp;(ii) If a work in which copyright is restored has no formal title, it shall be described in the notice of intent in detail sufficient to identify it.
 
@@ -240,7 +240,7 @@ Subsec. (h)(8)(B)(i). Pub. L. 105–304, §102(c)(4), inserted "of which" before
 
 Subsec. (h)(9). Pub. L. 105–304, §102(c)(5), struck out par. (9) which read as follows: "The terms 'WTO Agreement' and 'WTO member country' have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act."
 
-<b>1997</b>—Subsec. (d)(3)(A). Pub. L. 105–80, §2(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "In the case of a derivative work that is based upon a restored work and is created—
+<b>1997</b>—Subsec. (d)(3)(A). Pub. L. 105–80, §2(1), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: "In the case of a derivative work that is based upon a restored work and is created—
 
 &emsp;"(i) before the date of the enactment of the Uruguay Round Agreements Act, if the source country of the derivative work is an eligible country on such date, or
 
@@ -266,7 +266,7 @@ Subsec. (h)(2), (3). Pub. L. 105–80, §2(3), (4), amended pars. (2) and (3) ge
 
 #### Effective Date of 1998 Amendment
 
-Subsec. (h)(1)(A), (B), (E), (3)(A), (B), (E) of this section and amendment by section 102(c)(4), (5) of Pub. L. 105–304 effective Oct. 28, 1998, except as otherwise provided, subsec. (h)(1)(C), (3)(C) of this section effective Mar. 6, 2002, and subsec. (h)(1)(D), (3)(D) of this sectionand amendment by section 102(c)(3) of Pub. L. 105–304 effective May 20, 2002, see section 105(a), (b)(1)(C), (D), (2)(D)–(F) of Pub. L. 105–304, set out as a note under section 101 of this title.
+Subsec. (h)(1)(A), (B), (E), (3)(A), (B), (E) of this section and amendment by section 102(c)(4), (5) of Pub. L. 105–304 effective Oct. 28, 1998, except as otherwise provided, subsec. (h)(1)(C), (3)(C) of this section effective Mar. 6, 2002, and subsec. (h)(1)(D), (3)(D) of this section and amendment by section 102(c)(3) of Pub. L. 105–304 effective May 20, 2002, see section 105(a), (b)(1)(C), (D), (2)(D)–(F) of Pub. L. 105–304, set out as a note under section 101 of this title.
 
 #### Effective Date
 

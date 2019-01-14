@@ -128,7 +128,7 @@ Determination.—The term of a patent that is in force on or that results from a
 
 Remedies.—The remedies of sections 283, 284, and 285 shall not apply to acts which—
 
-&emsp;&emsp;(A) were commenced or for which substantial investment was made before the date that is 6 months after the date of the enactment of the Uruguay Round Agreements Act; and
+&emsp;&emsp;(A) were commenced or for which substantial investment was made before the datethat is 6 months after the date of the enactment of the Uruguay Round Agreements Act; and
 
 &emsp;&emsp;(B) became infringing by reason of paragraph (1).
 
@@ -142,7 +142,7 @@ Provisional Rights.—
 
 &emsp;(1)
 
-In general.—In addition to other rights provided by this section, a patent shall include the right to obtain a reasonable royalty fromany person who, during the period beginning on the date of publication of the application for such patent under section 122(b), or in the case of an international application filed under the treaty defined in section 351(a) designating the United States under Article 21(2)(a) of such treaty or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty, the date of publication of the application, and ending on the date the patent is issued—
+In general.—In addition to other rights provided by this section, a patent shall include the right to obtain a reasonable royalty from any person who, during the period beginning on the date of publication of the application for such patent under section 122(b), or in the case of an international application filed under the treaty defined in section 351(a) designating the United States under Article 21(2)(a) of such treaty or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty, the date of publication of the application, and ending on the date the patent is issued—
 
 &emsp;&emsp;(A)(i) makes, uses, offers for sale, or sells in the United States the invention as claimed in the published patent application or imports such an invention into the United States; or
 

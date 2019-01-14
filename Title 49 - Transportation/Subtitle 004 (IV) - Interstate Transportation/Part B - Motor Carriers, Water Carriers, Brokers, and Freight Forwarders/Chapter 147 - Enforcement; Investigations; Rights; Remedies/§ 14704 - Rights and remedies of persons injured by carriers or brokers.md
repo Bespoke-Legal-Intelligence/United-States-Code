@@ -42,7 +42,7 @@ Procedure.—
 
 &emsp;(1)
 
-In general.—When a person begins a civil action under subsection (b) of this section to enforce an order of the Board or Secretary requiring the payment of damages by a carrier or broker providing transportation or service subject to jurisdiction under chapter 135 of this title, the text of the order of the Board or Secretary must be included in the complaint. In addition to the district courts ofthe United States, a State court of general jurisdiction having jurisdiction of the parties has jurisdiction to enforce an order under this paragraph. The findings and order of the Board or Secretary are competent evidence of the facts stated in them. Trial in a civil action brought in a district court of the United States under this paragraph is in the judicial district in which the plaintiff resides or in which the principal operating office of the carrier or broker is located. In a civil action under this paragraph, the plaintiff is liable for only those costs that accrue on an appeal taken by the plaintiff.
+In general.—When a person begins a civil action under subsection (b) of this section to enforce an order of the Board or Secretary requiring the payment of damages by a carrier or broker providing transportation or service subject to jurisdiction under chapter 135 of this title, the text of the order of the Board or Secretary must be included in the complaint. In addition to the district courts of the United States, a State court of general jurisdiction having jurisdiction of the parties has jurisdiction to enforce an order under this paragraph. The findings and order of the Board or Secretary are competent evidence of the facts stated in them. Trial in a civil action brought in a district court of the United States under this paragraph is in the judicial district in which the plaintiff resides or in which the principal operating office of the carrier or broker is located. In a civil action under this paragraph, the plaintiff is liable for only those costs that accrue on an appeal taken by the plaintiff.
 
 &emsp;(2)
 
@@ -65,4 +65,8 @@ Provisions similar to those in this section were contained in section 11705 of t
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

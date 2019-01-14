@@ -20,13 +20,13 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;The interest computed under the look-back method of this paragraph shall be determined by—
 
-&emsp;&emsp;(A) first <sup>1</sup> allocating income under the contract among taxable years before the year in which the contract is completed on the basis of the actual contract price and costs instead of the estimated contract price and costs,
+&emsp;&emsp;(A) first, allocating income under the contract among taxable years before the year in which the contract is completed on the basis of the actual contract price and costs instead of the estimated contract price and costs,
 
 &emsp;&emsp;(B) second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each taxable year referred to in subparagraph (A) which would result solely from the application of subparagraph (A), and
 
 &emsp;&emsp;(C) then using the adjusted overpayment rate (as defined in paragraph (7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B).
 
-> &emsp;For purposes of the preceding sentence, any amount properly taken into account after completion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was properly taken into account) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to any contract to have the preceding sentence not apply to such contract.
+> &emsp;For purposes of the preceding sentence, any amount properly taken into account aftercompletion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was properly taken into account) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to any contract to have the preceding sentence not apply to such contract.
 
 #### (3) Special rules
 
@@ -58,7 +58,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;&emsp;(ii) in determining overpayments and underpayments for purposes of applying paragraph (2)(B)—
 
-&emsp;&emsp;&emsp;&emsp;(I) any increase in the income under the contract for any taxable year by reason of the allocation under paragraph\(2)(A) shall be treated as giving rise to an underpayment determined by applying the highest rate for such year to such increase, and
+&emsp;&emsp;&emsp;&emsp;(I) any increase in the income under the contract for any taxable year by reason of the allocation under paragraph (2)(A) shall be treated as giving rise to an underpayment determined by applying the highest rate for such year to such increase, and
 
 &emsp;&emsp;&emsp;&emsp;(II) any decrease in such income for any taxable year by reason of such allocation shall be treated as giving rise to an overpayment determined by applying the highest rate for such year to such decrease, and
 
@@ -350,19 +350,21 @@ For purposes of this section—
 
 #### (g) Contract commencement date
 
-For purposes of this section, the term "contract commencement date" means, with respectto any contract, the first date on which any costs (other than bidding expenses or expenses incurred in connection with negotiating the contract) allocable to such contract are incurred.
+For purposes of this section, the term "contract commencement date" means, with respect to any contract, the first date on which any costs (other than bidding expenses or expenses incurred in connection with negotiating the contract) allocable to such contract are incurred.
 
 #### (h) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the use of related parties, pass-thru entities, intermediaries, options, or other similar arrangements to avoid the application of this section.
 
-(Added Pub. L. 99–514, title VIII, §804(a), Oct. 22, 1986, 100 Stat. 2358; amended Pub. L. 100–203, title X, §10203(a), Dec. 22, 1987, 101 Stat. 1330–394; Pub. L. 100–647, title I, §1008(c)(1), (2), (4), title V, §5041(a)–(b)(3), (c), (d), Nov. 10, 1988, 102 Stat. 3438, 3439, 3673, 3674; Pub. L. 101–239, title VII, §§7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, 103 Stat. 2375, 2376, 2408, 2419; Pub. L. 101–508, title XI, §11812(b)(8), Nov. 5, 1990, 104 Stat. 1388–535; Pub. L. 104–188, title I, §§1702(h)(15), 1704(t)(28), Aug. 20, 1996, 110 Stat. 1874, 1888; Pub. L. 105–34, title XII, §1211(a), (b), Aug. 5, 1997, 111 Stat. 998, 999; Pub. L. 111–240, title II, §2023(a), Sept. 27, 2010, 124 Stat. 2559; Pub. L. 112–240, title III, §331(b), Jan. 2, 2013, 126 Stat. 2336; Pub. L. 113–295, div. A, title I, §125(b), Dec. 19, 2014, 128 Stat. 4016; Pub. L. 114–113, div. Q, title I, §143(a)(2), (b)(6)(I), Dec. 18, 2015, 129 Stat. 3056, 3064; Pub. L. 115–97, title I, §§13102(d), 13201(b)(2)(A), Dec. 22, 2017, 131 Stat. 2104, 2107.)
+(Added Pub. L. 99–514, title VIII, §804(a), Oct. 22, 1986, 100 Stat. 2358; amended Pub. L. 100–203, title X, §10203(a), Dec. 22, 1987, 101 Stat. 1330–394; Pub. L. 100–647, title I, §1008(c)(1), (2), (4), title V, §5041(a)–(b)(3), (c), (d), Nov. 10, 1988, 102 Stat. 3438, 3439, 3673, 3674; Pub. L. 101–239, title VII, §§7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, 103 Stat. 2375, 2376, 2408, 2419; Pub. L. 101–508, title XI, §11812(b)(8), Nov. 5, 1990, 104 Stat. 1388–535; Pub. L. 104–188, title I, §§1702(h)(15), 1704(t)(28), Aug. 20, 1996, 110 Stat. 1874, 1888; Pub. L. 105–34, title XII, §1211(a), (b), Aug. 5, 1997, 111 Stat. 998, 999; Pub. L. 111–240, title II, §2023(a), Sept. 27, 2010, 124 Stat. 2559; Pub. L. 112–240, title III, §331(b), Jan. 2, 2013, 126 Stat. 2336; Pub. L. 113–295, div. A, title I, §125(b), Dec. 19, 2014, 128 Stat. 4016; Pub. L. 114–113, div. Q, title I, §143(a)(2), (b)(6)(I), Dec. 18, 2015, 129 Stat. 3056, 3064; Pub. L. 115–97, title I, §§13102(d), 13201(b)(2)(A), Dec. 22, 2017, 131 Stat. 2104, 2107; Pub. L. 115–141, div. U, title IV, §401(a)(116), Mar. 23, 2018, 132 Stat. 1189.)
 
 #### References in Text
 
 The date of the enactment of the Revenue Reconciliation Act of 1989, referred to in subsec. (e)(4), is the date of enactment of title VII of Pub. L. 101–239, which was approved Dec. 19, 1989.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2)(A). Pub. L. 115–141 inserted comma after "first".
 
 <b>2017</b>—Subsec. (c)(6)(B)(ii). Pub. L. 115–97, §13201(b)(2)(A), substituted "January 1, 2027 (January 1, 2028" for "January 1, 2020 (January 1, 2021".
 
@@ -396,7 +398,7 @@ Subsec. (e)(6)(B). Pub. L. 104–188, §1702(h)(15), substituted "section 168(e)
 
 <b>1990</b>—Subsec. (e)(6)(A)(i). Pub. L. 101–508 substituted "section 168(e)(2)(A)(ii)" for "section 167(k)".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7621(a), substituted "Requirement that percentage of completion method be used" for "Percentage of completion-capitalized cost method" in heading and amended text generally. Prior to amendment, text read as follows:
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7621(a), substituted "Requirement that percentage of completion methodbe used" for "Percentage of completion-capitalized cost method" in heading and amended text generally. Prior to amendment, text read as follows:
 
 "(1)
 
@@ -500,7 +502,7 @@ Amendment by section 13201 of Pub. L. 115–97 applicable to property acquired a
 
 #### Effective Date of 2015 Amendment
 
-Amendment by section 143(a)(2) of Pub. L. 114–113 applicable to property placed in service after Dec. 31, 2014, in taxable years ending after such date, see section 143(a)(5) of Pub. L. 114–113, set out as a note under section 168 of this title.
+Amendment by section 143(a)(2) of Pub. L. 114–113 applicable to property placed in service after Dec. 31, 2014,in taxable years ending after such date, see section 143(a)(5) of Pub. L. 114–113, set out as a note under section 168 of this title.
 
 Amendment by section 143(b)(6)(I) of Pub. L. 114–113 applicable to property placed in service after Dec. 31, 2015, in taxable years ending after such date, see section 143(b)(7) of Pub. L. 114–113, set out as a note under section 168 of this title.
 
@@ -534,7 +536,7 @@ Amendment by section 1702(h)(15) of Pub. L. 104–188 effective, except as other
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures describedin section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -660,7 +662,7 @@ Qualified Naval Ship Contract.—For purposes of this section:
 
 &emsp;"(1)
 
-In general.—The term 'qualified naval ship contract' means any contract or portion thereof thatis for the construction in the United States of 1 ship or submarine for the Federal Government if the taxpayer reasonably expects the acceptance date will occur no later than 9 years after the construction commencement date.
+In general.—The term 'qualified naval ship contract' means any contract or portion thereof that is for the construction in the United States of 1 ship or submarine for the Federal Government if the taxpayer reasonably expects the acceptance date will occur no later than 9 years after the construction commencement date.
 
 &emsp;"(2)
 
@@ -681,6 +683,4 @@ Effective Date.—This section shall apply to contracts for ships or submarines 
 #### Amortization of Past Service Pension Costs
 
 Allocable costs (within the meaning of subsec. (c) of this section) with respect to any property to include contributions paid to or under a pension or annuity plan whether or not such contributions represent past service costs, see section 10204 of Pub. L. 100–203, set out as a note under section 263A of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

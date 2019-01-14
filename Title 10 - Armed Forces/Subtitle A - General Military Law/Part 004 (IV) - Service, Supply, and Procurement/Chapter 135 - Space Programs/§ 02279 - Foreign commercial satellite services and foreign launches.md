@@ -28,7 +28,7 @@ Exception.—The limitation in paragraph (1) shall not apply with respect to—
 
 &emsp;&emsp;(A) a launch that occurs prior to December 31, 2022; or
 
-&emsp;&emsp;(B) a contract or other agreement relating to launch services that, prior to the date that is 180 days after the date of the enactment of this subsection, was either fullypaid for by the contractor or covered by a legally binding commitment of the contractor to pay for such services.
+&emsp;&emsp;(B) a contract or other agreement relating to launch services that, prior to the date that is 180 days after the date of the enactment of this subsection, was either fully paid for by the contractor or covered by a legally binding commitment of the contractor to pay for such services.
 
 &emsp;(3)
 
@@ -36,7 +36,7 @@ Launch vehicle defined.—In this subsection, the term "launch vehicle" means a 
 
 (c)
 
-Notice and Exception.—The prohibitions in subsection <sup>1</sup> (a) and (b) shall not apply to a contract if—
+Notice and Exception.—The prohibitions in subsections (a) and (b) shall not apply to a contract if—
 
 &emsp;(1) the Secretary determines it is in the national security of the United States to enter into such contract; and
 
@@ -70,7 +70,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "cybersecurity risk" means threats to and vulnerabilities of information or information systems and any related consequences caused by or resulting from unauthorized access, use, disclosure, degradation, disruption, modification, or destruction of such information or information systems, including such related consequences caused by an act of terrorism.
 
-(Added Pub. L. 113–66, div. A, title XVI, §1602(a)(1), Dec. 26, 2013, 127 Stat. 941; amended Pub. L. 115–91, div. A, title XVI, §1603(a)–(d)(1), Dec. 12, 2017, 131 Stat. 1722, 1723.)
+(Added Pub. L. 113–66, div. A, title XVI, §1602(a)(1), Dec. 26, 2013, 127 Stat. 941; amended Pub. L. 115–91, div. A, title XVI, §1603(a)–(d)(1), Dec. 12, 2017, 131 Stat. 1722, 1723; Pub. L. 115–232, div. A, title X, §1081(a)(16), Aug. 13, 2018, 132 Stat. 1984.)
 
 #### References in Text
 
@@ -83,6 +83,8 @@ Section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 201
 A prior section 2279, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to restrictions on alien employees of contractors as to access to plans and specifications, prior to repeal by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–232 substituted "subsections (a) and (b)" for "subsection (a) and (b)" in introductory provisions.
 
 <b>2017</b>—Pub. L. 115–91, §1603(d)(1)(A), substituted "services and foreign launches" for "services" in section catchline.
 
@@ -100,11 +102,9 @@ Subsec. (d). Pub. L. 115–91, §1603(b)(1), (d)(1)(B), (E), redesignated subsec
 
 Subsec. (e). Pub. L. 115–91, §1603(b)(1), (d)(1)(B), redesignated subsec. (d) as (e) and substituted "subsection (c)" for "subsection (b)". Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 115–91, §1603(b)(1), (c), redesignated subsec. (e) as (f) and amended it generally. Prior to amendment, text read as follows: "In this section, the term 'covered foreign country' means a country described in section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2019)."
+Subsec. (f). Pub. L. 115–91, §1603(b)(1), (c), redesignated subsec. (e) as (f) and amended it generally. Priorto amendment, text read as follows: "In this section, the term 'covered foreign country' means a country described in section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2019)."
 
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–91, div. A, title XVI, §1603(e), Dec. 12, 2017, 131 Stat. 1723, provided that: "Except as otherwise specifically provided, the amendments made by this section \[amending this section\] shall apply with respect to contracts for satellite services awarded by the Secretary of Defense on or after the date of the enactment of this Act \[Dec. 12, 2017\]."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "subsections".</i>
 

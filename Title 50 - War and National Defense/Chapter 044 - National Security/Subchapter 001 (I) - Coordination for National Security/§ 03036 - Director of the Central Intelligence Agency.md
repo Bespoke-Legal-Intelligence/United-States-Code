@@ -118,7 +118,7 @@ Report on the Operation That Killed Osama Bin Laden.—Not later than 90 days af
 
 "(d)
 
-Preservation of Records.—The Director of the Central Intelligence Agency shall preserve any records, including intelligence information and assessments, used to generate the report described in subsection (c)."
+Preservation of Records.—The Director of the Central Intelligence Agency shall preserve any records,including intelligence information and assessments, used to generate the report described in subsection (c)."
 
 \[For definitions of "intelligence community" and "congressional intelligence committees" as used in section 414 of Pub. L. 112–87, set out above, see section 2 of Pub. L. 112–87, set out as a note under section 3003 of this title.\]
 

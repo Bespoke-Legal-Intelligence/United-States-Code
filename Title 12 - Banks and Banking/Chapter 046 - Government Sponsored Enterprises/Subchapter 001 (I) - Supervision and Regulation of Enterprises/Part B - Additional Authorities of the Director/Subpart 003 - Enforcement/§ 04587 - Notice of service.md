@@ -1,6 +1,6 @@
 ### §4587. Notice of service
 
-Any service required or authorized to be made by the Director under this subpart may be madeby registered mail or in such other manner reasonably calculated to give actual notice, as the Director may by regulation or otherwise provide.
+Any service required or authorized to be made by the Director under this subpart may be made by registered mail or in such other manner reasonably calculated to give actual notice, as the Director may by regulation or otherwise provide.
 
 (Pub. L. 102–550, title XIII, §1347, Oct. 28, 1992, 106 Stat. 3968; Pub. L. 110–289, div. A, title I, §1130(e)(3)(D), July 30, 2008, 122 Stat. 2711.)
 

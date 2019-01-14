@@ -28,7 +28,7 @@ In general.—Subject to paragraph (2), not less than 25 percent of the funds su
 
 &emsp;(2)
 
-Waivers.—The Secretary may waive the application of paragraph (1) with respect to a State for a fiscal year if the State certifies tothe Secretary for the fiscal year that total expenditures by the State for transportation planning under sections 134 and 135 will exceed 75 percent of the funds described in paragraph (1) and the Secretary accepts such certification.
+Waivers.—The Secretary may waive the application of paragraph (1) with respect to a State for a fiscal year if the State certifies to the Secretary for the fiscal year that total expenditures by the State for transportation planning under sections 134 and 135 will exceed 75 percent of the funds described in paragraph (1) and the Secretary accepts such certification.
 
 &emsp;(3)
 
@@ -54,7 +54,7 @@ Federal Share.—The Federal share of the cost of a project carried out using fu
 
 Administration of Sums.—Funds subject to subsection (a) shall be combined and administered by the Secretary as a single fund and shall be available for obligation for the period described in section 118(b).
 
-(Added Pub. L. 105–178, title V, §5105, June 9, 1998, 112 Stat. 432; amended Pub. L. 109–59, title V, §5205, Aug. 10, 2005, 119 Stat. 1795; Pub. L. 112–141, div. E, title II, §52005, July 6, 2012, 126 Stat. 882; Pub. L. 114–94, div. A, title I, §1104(e)(6), Dec. 4, 2015, 129 Stat. 1332.)
+(Added Pub. L. 105–178, title V, §5105, June 9, 1998, 112 Stat. 432; amended Pub. L. 109–59, titleV, §5205, Aug. 10, 2005, 119 Stat. 1795; Pub. L. 112–141, div. E, title II, §52005, July 6, 2012, 126 Stat. 882; Pub. L. 114–94, div. A, title I, §1104(e)(6), Dec. 4, 2015, 129 Stat. 1332.)
 
 #### Prior Provisions
 

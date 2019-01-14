@@ -17,6 +17,7 @@
 | [309\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000309%20-%20High-speed%20ground%20transportation.md) | High-speed ground transportation. |
 | [310\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000310%20-%20Aligning%20Federal%20environmental%20reviews.md) | Aligning Federal environmental reviews. |
 | [311\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000311%20-%20Congressional%20notification%20requirements.md) | Congressional notification requirements. |
+| [312\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000312%20-%20Alternative%20timing%20system.md) | Alternative timing system. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -55,6 +56,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–282, title V, §514(c), Dec. 4, 2018, 132 Stat. 4278, which directed amendment of the analysis for this chapter by adding item 312 at the end, was executed by adding item 312 at the end of the item for subchapter I, to reflect the probable intent of Congress.
 
 <b>2016</b>—Pub. L. 114–322, title IV, §5001(b), Dec. 16, 2016, 130 Stat. 1885, added item 311.
 

@@ -26,15 +26,31 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
 <b>1988</b>—Subsec. (b)(7). Pub. L. 100–707 struck out par. (7) expressing Congressional intent to provide disaster assistance through a long-range economic recovery program for major disaster areas.
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–254, div. D, §1202, Oct. 5, 2018, 132 Stat. 3438, provided that:
+
+"(a)
+
+Applicability for Stafford Act.—Except as otherwise expressly provided, the amendments in this division \[see section 1201 of Pub. L. 115–254, set out as a Short Title of 2018 Amendment note below\] to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) apply to each major disaster and emergency declared by the President on or after August 1, 2017, under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+
+"(b)
+
+Division Applicability.—Except as otherwise expressly provided, the authorities provided under this division \[div. D (§§1201–1246) of Pub. L. 115–254\] apply to each major disaster and emergency declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act on or after January 1, 2016."
+
 #### Effective Date
 
 Pub. L. 93–288, title VI, §605, May 22, 1974, 88 Stat. 164, provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of section 5178 of this title, prior to repeal by Pub. L. 100–707, title I, §108(b), Nov. 23, 1988, 102 Stat. 4708.
+
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–254, div. D, §1201, Oct. 5, 2018, 132 Stat. 3438, provided that: "This division \[div. D (§§1201–1246) of Pub. L. 115–254, enacting sections 5161a, 5165g, 5174a, 5174b, 5189h, 5196g, and 5205a of this title, and section 748a of Title 6, Domestic Security, amending sections 3149, 5122, 5133, 5149, 5152, 5155, 5165, 5165b, 5170a to 5170c, 5172, 5174, 5187, 5189a, 5189f, 5205 of this title, and sections 761 and 762 of Title 6, enacting provisions set out as notes under this section and sections 5122, 5133, 5155, 5170, 5170c, 5172, 5174, 5187, 5189g, 5205 of this title, and section 721 of Title 6, and amending provisions set out as a note under section 5172 of this title\] may be cited as the 'Disaster Recovery Reform Act of 2018'."
 
 #### Short Title of 2017 Amendment
 
@@ -86,7 +102,7 @@ Pub. L. 96–568, §1, Dec. 23, 1980, 94 Stat. 3334, provided: "That this Act \[
 
 #### Short Title
 
-Pub. L. 93–288, §1, May 22, 1974, 88 Stat. 143, as amended by Pub. L. 100–707, title I, §102(a), Nov. 23, 1988, 102 Stat. 4689; Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572, provided: "That this Act \[enacting this section, sections 3231 to 3236, 5122, 5131, 5132, 5141 to 5158, 5171 to 5189, 5201, and 5202 of this title, and section 1264 of former Title 31, Money and Finance, amending sections 1706c, 1709, 1715l of Title 12, Banks and Banking, sections 241–1, 646, 758 of Title 20, Education, sections 165, 5064, 5708 of Title 26, Internal Revenue Code, section 1820 \[now 3720\] of Title 38, Veterans' Benefits, section 461 of former Title 40, Public Buildings, Property, and Works, repealing sections 4401, 4402, 4411 to 4413, 4414 to 4420, 4431 to 4436, 4457 to 4462, 4481 to 4485 of this title, enacting provisions set out as notes underthis section, sections 4401 and 5178 of this title, and section 1264 of former Title 31, and amending provisions set out as a note under section 1681 of Title 48, Territories and Insular Possessions\] may be cited as the 'Robert T. Stafford Disaster Relief and Emergency Assistance Act'."
+Pub. L. 93–288, §1, May 22, 1974, 88 Stat. 143, as amended by Pub. L. 100–707, title I, §102(a), Nov. 23, 1988, 102 Stat. 4689; Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572, provided: "That this Act \[enacting this section, sections 3231 to 3236, 5122, 5131, 5132, 5141 to 5158, 5171 to 5189, 5201, and 5202 of this title, and section 1264 of former Title 31, Money and Finance, amending sections 1706c, 1709, 1715l of Title 12, Banks and Banking, sections 241–1, 646, 758 of Title 20, Education, sections 165, 5064, 5708 of Title 26, Internal Revenue Code, section 1820 \[now 3720\] of Title 38, Veterans' Benefits, section 461 of former Title 40, Public Buildings, Property, and Works, repealing sections 4401, 4402, 4411 to 4413, 4414 to 4420, 4431 to 4436, 4457 to 4462, 4481 to 4485 of this title, enacting provisions set out as notes under this section, sections 4401 and 5178 of this title, and section 1264 of former Title 31, and amending provisions set out as a note under section 1681 of Title 48, Territories and Insular Possessions\] may be cited as the 'Robert T. Stafford Disaster Relief and Emergency Assistance Act'."
 
 #### Transfer of Functions
 
@@ -160,7 +176,7 @@ Ex. Ord. No. 11749, Dec. 10, 1973, 38 F.R. 34177, which related to consolidation
 
 #### Ex. Ord. No. 11795. Delegation of Presidential Functions
 
-Ex. Ord. No. 11795, July 11, 1974, 39 F.R. 25939, as amended by Ex. Ord. No. 11910, Apr. 13, 1976, 41 F.R. 15681; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571, provided:
+Ex. Ord. No. 11795, July 11, 1974, 39 F.R. 25939, as amended by Ex. Ord. No. 11910, Apr. 13, 1976, 41 F.R.15681; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571, provided:
 
 By virtue of the authority vested in me by the Disaster Relief Act of 1974 (Public Law 93–288; 88 Stat. 143) \[see References to Disaster Relief Act of 1974 note above\], section 301 of title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 

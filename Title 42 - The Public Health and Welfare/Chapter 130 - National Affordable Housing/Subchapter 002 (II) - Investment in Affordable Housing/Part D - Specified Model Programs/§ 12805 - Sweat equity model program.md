@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall make available a model program to provide grants to public and private nonprofit organizations and community housing development organizations to provide technical and supervisory assistance to low-income and very low-income families, including the homeless, in acquiring, rehabilitating, and constructing housing by the self-help housing method.
+The Secretary shall make available a model program to provide grants to public and privatenonprofit organizations and community housing development organizations to provide technical and supervisory assistance to low-income and very low-income families, including the homeless, in acquiring, rehabilitating, and constructing housing by the self-help housing method.
 
 #### (b) Rehabilitation of properties
 
@@ -66,7 +66,7 @@ Use.—
 
 &emsp;"(1)
 
-Purpose.—Amounts from grants made under this section, including any recaptured amounts, shallbe used only for eligible expenses in connection with developing new decent, safe, and sanitary nonluxury dwellings in the United States for families and persons who otherwise would be unable to afford to purchase a dwelling.
+Purpose.—Amounts from grants made under this section, including any recaptured amounts, shall be used only for eligible expenses in connection with developing new decent, safe, and sanitary nonluxury dwellings in the United States for families and persons who otherwise would be unable to afford to purchase a dwelling.
 
 &emsp;"(2)
 

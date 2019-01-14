@@ -26,7 +26,7 @@
 
 #### (3) Assistance through international organizations
 
-&emsp;The President shall instruct the United States permanent representative or executive director, as the case may be, to the relevant United Nations voluntary agencies, including the United Nations High Commissioner for Refugees and the United Nations Office for theCoordination of Humanitarian Affairs, and other appropriate international organizations, to use the voice and vote of the United States to support appropriate assistance for internally displaced persons in Ukraine.
+&emsp;The President shall instruct the United States permanent representative or executive director, as the case may be, to the relevant United Nations voluntary agencies, including the United Nations High Commissioner for Refugees and the United Nations Office for the Coordination of Humanitarian Affairs, and other appropriate international organizations, to use the voice and vote of the United States to support appropriate assistance for internally displaced persons in Ukraine.
 
 #### (b) Assistance to the defense sector of Ukraine
 
@@ -102,13 +102,13 @@ The Secretary of State and the Secretary of Defense should assist entities in th
 
 #### (D) Authorization of appropriations
 
-&emsp;&emsp;There are authorized to be appropriated $50,000,000 in the aggregate for fiscal years2016 through 2018 to carry out activities under this paragraph.
+&emsp;&emsp;There are authorized to be appropriated $50,000,000 in the aggregate for fiscal years 2016 through 2018 to carry out activities under this paragraph.
 
 #### (3) Support from the Overseas Private Investment Corporation
 
 &emsp;The Overseas Private Investment Corporation shall—
 
-&emsp;&emsp;(A) prioritize, to the extent practicable, support for investments to help increase energy efficiency, develop domestic oil and natural gas reserves, improve and repair electricity infrastructure, and develop renewable and other sources of energy in Ukraine; and
+&emsp;&emsp;(A) prioritize, to the extent practicable, support for investments to help increase energy efficiency, develop domestic oil andnatural gas reserves, improve and repair electricity infrastructure, and develop renewable and other sources of energy in Ukraine; and
 
 &emsp;&emsp;(B) implement procedures for expedited review and, as appropriate, approval, of applications by eligible investors (as defined in section 2198 of this title) for loans, loan guarantees, and insurance for such investments.
 
@@ -150,7 +150,27 @@ The Secretary of State and the Secretary of Defense should assist entities in th
 
 &emsp;Any assistance provided pursuant to this subsection shall be conducted in as transparent of a manner as possible, consistent with the nature and goals of this subsection. The President shall provide a briefing on the activities funded by this subsection at the request of the committees specified in paragraph (2).
 
-(Pub. L. 113–272, §7, Dec. 18, 2014, 128 Stat. 2960.)
+(Pub. L. 113–272, §7, Dec. 18, 2014, 128 Stat. 2960; Pub. L. 115–254, div. F, title VI, §1470(r), Oct. 5, 2018, 132 Stat. 3518.)
+
+#### Amendment of Subsection (c)(3)
+
+<i>Pub. L. 115–254, div. F, title VI, §1470(r), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in section 9681 of this title, subsection (c)(3) of this section is amended as follows:</i>
+
+<i>(1) in the heading and introductory provisions, by striking "Overseas Private Investment Corporation" and inserting "United States International Development Finance Corporation"; and</i>
+
+<i>(2) in subparagraph (B), by striking out "by eligible investors (as defined in section 2198 of this title)" after "of applications".</i>
+
+<i>See 2018 Amendment notes below.</i>
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c)(3). Pub. L. 115–254, §1470(r)(1), (2), substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation" in heading and introductory provisions.
+
+Subsec. (c)(3)(B). Pub. L. 115–254, §1470(r)(3), struck out "by eligible investors (as defined in section 2198 of this title)" after "of applications".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of this title, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
 #### Delegation of Functions
 

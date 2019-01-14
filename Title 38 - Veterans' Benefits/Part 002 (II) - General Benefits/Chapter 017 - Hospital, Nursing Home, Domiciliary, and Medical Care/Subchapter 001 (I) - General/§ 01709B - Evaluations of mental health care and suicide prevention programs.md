@@ -14,7 +14,7 @@ Evaluations.—(1) Not less frequently than once during each period specified in
 
 &emsp;(D) measure the satisfaction of patients with respect to the care provided under each such program;
 
-&emsp;(E) propose best practices for caring for individuals who suffer from mental health disorders or are at risk of suicide, including such practices conducted or suggested by other departments or agencies of the Federal Government, including the Substance Abuse and Mental Health Services Administration of the Department of Health and Human Services; and
+&emsp;(E) propose best practices for caring for individuals who suffer from mental health disorders or are at risk of suicide, including such practices conducted or suggested by other departments or agencies of the Federal Government, including the Substance Abuse andMental Health Services Administration of the Department of Health and Human Services; and
 
 &emsp;(F) identify the mental health care and suicide prevention programs conducted by the Secretary that are most effective for women veterans and such programs with the highest satisfaction rates among women veterans.
 

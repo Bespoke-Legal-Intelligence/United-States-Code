@@ -44,7 +44,7 @@ Statutory damages.—(A) At any time before final judgment is entered, a complai
 
 &emsp;(4)
 
-Repeated violations.—In any case in which the injured party sustains the burden of proving, and the court finds, that a person has violated section 1201 or 1202 within 3 years after a final judgment was entered against the person for another such violation, the court may increase the award of damages up to triple the amount that would otherwise be awarded, as the court considers just.
+Repeated violations.—In any case in which the injured party sustains the burden ofproving, and the court finds, that a person has violated section 1201 or 1202 within 3 years after a final judgment was entered against the person for another such violation, the court may increase the award of damages up to triple the amount that would otherwise be awarded, as the court considers just.
 
 &emsp;(5)
 

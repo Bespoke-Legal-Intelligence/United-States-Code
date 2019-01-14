@@ -6,7 +6,7 @@ Subject to subsections (b) and (c), for the purposes of determining the amount o
 
 #### (b) Producer election
 
-As an alternative to the calculation method described in subsection (a), the Secretary shallprovide producers on a farm the opportunity to elect to apportion rice base acres on the farm using the 4-year average of—
+As an alternative to the calculation method described in subsection (a), the Secretary shall provide producers on a farm the opportunity to elect to apportion rice base acres on the farm using the 4-year average of—
 
 &emsp;(1) the percentages of acreage planted on the farm to long grain rice and medium grain rice during the 2003 through 2006 crop years;
 

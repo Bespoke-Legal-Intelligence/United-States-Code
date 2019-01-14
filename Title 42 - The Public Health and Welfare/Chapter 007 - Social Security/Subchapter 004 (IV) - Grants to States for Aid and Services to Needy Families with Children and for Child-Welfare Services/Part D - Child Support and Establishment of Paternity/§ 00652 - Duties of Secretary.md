@@ -26,11 +26,11 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;&emsp;(iii) for such other purposes as the Secretary may find necessary;
 
-&emsp;(5) assist States in establishing adequate reporting procedures and maintain records of the operations of programs established pursuant to this part in each State, and establish procedures to be followed by States for collecting and reporting information required to be provided under this part, and establish uniform definitions (including those necessary toenable the measurement of State compliance with the requirements of this part relating to expedited processes) to be applied in following such procedures;
+&emsp;(5) assist States in establishing adequate reporting procedures and maintain records of the operations of programs established pursuant to this part in each State, and establish procedures to be followed by States for collecting and reporting information required to be provided under this part, and establish uniform definitions (including those necessary to enable the measurement of State compliance with the requirements of this part relating to expedited processes) to be applied in following such procedures;
 
 &emsp;(6) maintain records of all amounts collected and disbursed under programs established pursuant to the provisions of this part and of the costs incurred in collecting such amounts;
 
-&emsp;(7) provide technical assistance to the States to help them establish effective systems for collecting child and spousal support and establishing paternity, and specify the minimum requirements of an affidavit to be used for the voluntary acknowledgment of paternity which shall include the social security number of each parent and, after consultation with the States, other common elements as determined by such designee;
+&emsp;(7) provide technical assistance to the States to help them establish effective systems forcollecting child and spousal support and establishing paternity, and specify the minimum requirements of an affidavit to be used for the voluntary acknowledgment of paternity which shall include the social security number of each parent and, after consultation with the States, other common elements as determined by such designee;
 
 &emsp;(8) receive applications from States for permission to utilize the courts of the United States to enforce court orders for support against noncustodial parents and, upon a finding that (A) another State has not undertaken to enforce the court order of the originating State against the noncustodial parent within a reasonable time, and (B) that utilization of the Federal courts is the only reasonable method of enforcing such order, approve such applications;
 
@@ -90,7 +90,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 #### (b) Certification of child support obligations to Secretary of the Treasury for collection
 
-The Secretary shall, upon the request of any State having in effect a State plan approvedunder this part, certify to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1986 the amount of any child support obligation (including any support obligation with respect to the parent who is living with the child and receiving assistance under the State program funded under part A) which is assigned to such State or is undertaken to be collected by such State pursuant to section 654(4) of this title. No amount may be certified for collection under this subsection except the amount of the delinquency under a court or administrative order for support and upon a showing by the State that such State has made diligent and reasonable efforts to collect such amounts utilizing its own collection mechanisms, and upon an agreement that the State will reimburse the Secretary of the Treasury for any costs involved in making the collection. All reimbursements shall be credited to the appropriation accounts which bore all or part of the costs involved in making the collections. The Secretary after consultation with the Secretary of the Treasury may, by regulation, establish criteria for accepting amounts for collection and for making certification under this subsection including imposing such limitations on the frequency of making such certifications under this subsection.
+The Secretary shall, upon the request of any State having in effect a State plan approved under this part, certify to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1986 the amount of any child support obligation (including any support obligation with respect to the parent who is living with the child and receiving assistance under the State program funded under part A) which is assignedto such State or is undertaken to be collected by such State pursuant to section 654(4) of this title. No amount may be certified for collection under this subsection except the amount of the delinquency under a court or administrative order for support and upon a showing by the State that such State has made diligent and reasonable efforts to collect such amounts utilizing its own collection mechanisms, and upon an agreement that the State will reimburse the Secretary of the Treasury for any costs involved in making the collection. All reimbursements shall be credited to the appropriation accounts which bore all or part of the costs involved in making the collections. The Secretary after consultation with the Secretary of the Treasury may, by regulation, establish criteria for accepting amounts for collection and for making certification under this subsection including imposing such limitations on the frequency of making such certifications under this subsection.
 
 #### (c) Payment of child support collections to States
 
@@ -140,11 +140,11 @@ The Secretary of the Treasury shall from time to time pay to each State for dist
 
 &emsp;&emsp;&emsp;(V) complete the alternative system in no more time than it would take to complete a single statewide system that meets such requirement; and
 
-&emsp;&emsp;&emsp;(VI) process child support cases as quickly, efficiently, and effectively as such cases would be processed through a singlestatewide system that meets such requirement;
+&emsp;&emsp;&emsp;(VI) process child support cases as quickly, efficiently, and effectively as such cases would be processed through a single statewide system that meets such requirement;
 
 &emsp;(B)(i) the waiver meets the criteria of paragraphs (1), (2), and (3) of section 1315(c) of this title; or
 
-&emsp;(ii) the State provides assurances to the Secretary that steps will be taken to otherwise improve the State's child support enforcement program; and
+&emsp;(ii) the State provides assurances to the Secretary that steps will be taken to otherwiseimprove the State's child support enforcement program; and
 
 &emsp;(C) in the case of a request to waive the single statewide system requirement, the State has submitted to the Secretary separate estimates of the total cost of a single statewide system that meets such requirement, and of any such alternative system or systems, which shall include estimates of the cost of developing and completing the system and of operating and maintaining the system for 5 years, and the Secretary has agreed with the estimates.
 
@@ -196,7 +196,7 @@ The Secretary shall issue regulations to require that State agencies administeri
 
 &emsp;(C) the term "reliable data" means the most recent data available which are found by the Secretary to be reliable for purposes of this section.
 
-> For purposes of subparagraphs (A) and (B), the total number of children shall not include any child with respect to whom assistance is being provided under the State program funded under part A by reason of the death of a parent unless paternity is established for such child or any child with respect to whom an applicant or recipient is found by the State to qualify for a good cause or other exception to cooperation pursuant to section 654(29) of this title.
+> For purposes of subparagraphs (A) and (B), the total number of children shall not include anychild with respect to whom assistance is being provided under the State program funded under part A by reason of the death of a parent unless paternity is established for such child or any child with respect to whom an applicant or recipient is found by the State to qualify for a good cause or other exception to cooperation pursuant to section 654(29) of this title.
 
 (3)(A) The Secretary may modify the requirements of this subsection to take into account such additional variables as the Secretary identifies (including the percentage of children in a State who are born out of wedlock or for whom support has not been established) that affect the ability of a State to meet the requirements of this subsection.
 
@@ -238,7 +238,7 @@ The Secretary, through the Federal Parent Locator Service, may aid State agencie
 
 &emsp;The Secretary, through the Federal Parent Locator Service, may—
 
-&emsp;&emsp;(A) compare information concerning individuals owing past-due support with information maintained by insurers (or theiragents) concerning insurance claims, settlements, awards, and payments; and
+&emsp;&emsp;(A) compare information concerning individuals owing past-due support with information maintained by insurers (or their agents) concerning insurance claims, settlements, awards, and payments; and
 
 &emsp;&emsp;(B) furnish information resulting from the data matches to the State agencies responsible for collecting child support from the individuals.
 
@@ -380,7 +380,7 @@ Subsec. (d)(3)(B)(i). Pub. L. 104–193, §108(c)(5), substituted "1315(b)" for 
 
 Subsec. (f). Pub. L. 104–193, §395(d)(1)(B), substituted "noncustodial" for "absent".
 
-Subsec. (g)(1). Pub. L. 104–193, §341(b)(2)(B), formerly §341(c)(2)(B), as redesignated by Pub. L. 105–200, §201(e)(1)(A), inserted as closing provisions "In determining compliance under this section, a State may use as its paternity establishment percentage either the State's IV–D paternity establishment percentage (as defined in paragraph (2)(A)) or the State's statewide paternity establishment percentage (as defined in paragraph (2)(B))."
+Subsec. (g)(1). Pub. L. 104–193, §341(b)(2)(B), formerly §341(c)(2)(B), as redesignated by Pub. L. 105–200, §201(e)(1)(A), inserted as closing provisions "In determining compliance under this section, a State may use as its paternity establishment percentage either theState's IV–D paternity establishment percentage (as defined in paragraph (2)(A)) or the State's statewide paternity establishment percentage (as defined in paragraph (2)(B))."
 
 Subsec. (g)(1)(A). Pub. L. 104–193, §341(b)(1), formerly §341(c)(1), as redesignated by Pub. L. 105–200, §201(e)(1)(A), substituted "90" for "75".
 

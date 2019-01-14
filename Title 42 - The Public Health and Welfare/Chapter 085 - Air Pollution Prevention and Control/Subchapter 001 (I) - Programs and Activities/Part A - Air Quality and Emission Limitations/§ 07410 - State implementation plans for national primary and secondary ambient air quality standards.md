@@ -4,7 +4,7 @@
 
 (1) Each State shall, after reasonable notice and public hearings, adopt and submit to the Administrator, within 3 years (or such shorter period as the Administrator may prescribe) after the promulgation of a national primary ambient air quality standard (or any revision thereof) under section 7409 of this title for any air pollutant, a plan which provides for implementation, maintenance, and enforcement of such primary standard in each air quality control region (or portion thereof) within such State. In addition, such State shall adopt and submit to the Administrator (either as a part of a plan submitted under the preceding sentence or separately) within 3 years (or such shorter period as the Administrator may prescribe) after the promulgation of a national ambient air quality secondary standard (or revision thereof), a plan which provides for implementation, maintenance, and enforcement of such secondary standard in each air quality control region (or portion thereof) within such State. Unless a separate public hearing is provided, each State shall consider its plan implementing such secondary standard at the hearing required by the first sentence of this paragraph.
 
-(2) Each implementation plan submitted by a State under this chapter shall be adopted by the State after reasonable notice and public hearing. Each such plan shall—
+(2) Each implementation plan submitted by a State under this chapter shall be adopted by theState after reasonable notice and public hearing. Each such plan shall—
 
 &emsp;(A) include enforceable emission limitations and other control measures, means, or techniques (including economic incentives such as fees, marketable permits, and auctions of emissions rights), as well as schedules and timetables for compliance, as may be necessary or appropriate to meet the applicable requirements of this chapter;
 
@@ -66,7 +66,7 @@
 
 (3)(A) Repealed. Pub. L. 101–549, title I, §101(d)(1), Nov. 15, 1990, 104 Stat. 2409.
 
-(B) As soon as practicable, the Administrator shall, consistent with the purposes of this chapter and the Energy Supply and Environmental Coordination Act of 1974 \[15 U.S.C. 791 et seq.\], review each State's applicable implementation plans and report to the State on whether such plans can be revised in relation to fuel burning stationary sources (or persons supplying fuel to such sources) without interfering with the attainment and maintenance of any national ambient air quality standard within the period permitted in this section. If the Administrator determines that any such plan can be revised, heshall notify the State that a plan revision may be submitted by the State. Any plan revision which is submitted by the State shall, after public notice and opportunity for public hearing, be approved by the Administrator if the revision relates only to fuel burning stationary sources (or persons supplying fuel to such sources), and the plan as revised complies with paragraph (2) of this subsection. The Administrator shall approve or disapprove any revision no later than three months after its submission.
+(B) As soon as practicable, the Administrator shall, consistent with the purposes of this chapter and the Energy Supply and Environmental Coordination Act of 1974 \[15 U.S.C. 791 et seq.\], review each State's applicable implementation plans and report to the State on whether such plans can be revised in relation to fuel burning stationary sources (or persons supplying fuel to such sources) without interfering with the attainment and maintenance of any national ambient air quality standard within the period permitted in this section. If the Administrator determines that any such plan can be revised, he shall notify the State that a plan revision may be submitted by the State. Any plan revision which is submitted by the State shall, after public notice and opportunity for public hearing, be approved by the Administrator if the revision relates only to fuel burning stationary sources (or persons supplying fuel to such sources), and the plan as revised complies with paragraph (2) of this subsection. The Administrator shall approve or disapprove any revision no later than three months after its submission.
 
 (C) Neither the State, in the case of a plan (or portion thereof) approved under this subsection, nor the Administrator, in the case of a plan (or portion thereof) promulgated under subsection (c), shall be required to revise an applicable implementation plan because one or more exemptions under section 7418 of this title (relating to Federal facilities), enforcement orders under section 7413(d) <sup>1</sup> of this title, suspensions under subsection (f) or (g) (relating to temporary energy or economic authority), orders under section 7419 of this title (relating to primary nonferrous smelters), or extensions of compliance in decrees entered under section 7413(e) <sup>1</sup> of this title (relating to iron- and steel-producing operations) have been granted, if such plan would have met the requirements of this section if no such exemptions, orders, or extensions had been granted.
 
@@ -100,7 +100,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 (1) The Administrator shall promulgate a Federal implementation plan at any time within 2 years after the Administrator—
 
-&emsp;(A) finds that a State has failed to make a required submission or finds that the plan or plan revision submitted by the State does not satisfy the minimum criteria established under subsection (k)(1)(A), or
+&emsp;(A) finds that a State has failed to make a required submission or finds that the plan or plan revision submitted by the State does notsatisfy the minimum criteria established under subsection (k)(1)(A), or
 
 &emsp;(B) disapproves a State implementation plan submission in whole or in part,
 
@@ -162,7 +162,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 (4) This subsection shall not apply in the case of a plan provision or requirement promulgated by the Administrator under subsection (c) of this section, but in any such case the President may grant a temporary emergency suspension for a four month period of any such provision or requirement if he makes the determinations and findings specified in paragraphs (1) and (2).
 
-(5) The Governor may include in any temporary emergency suspension issued under this subsection a provision delaying for a period identical to the period of such suspension any compliance schedule (or increment of progress) to which such source is subject under section 1857c–10 <sup>2</sup> of this title, as in effect before August 7, 1977, or section 7413(d) <sup>2</sup> of this title, upon a finding that such source is unable to comply with such schedule (or increment) solely because of the conditions on the basis of which a suspension was issued under this subsection.
+(5) The Governor may include in any temporary emergency suspension issued under this subsection a provision delaying for a period identical to the period of such suspension any compliance schedule (or increment of progress) to which such source is subject under section 1857c–10 <sup>1</sup> of this title, as in effect before August 7, 1977, or section 7413(d) <sup>1</sup> of this title, upon a finding that such source is unable to comply with such schedule (or increment) solely because of the conditions on the basis of which a suspension was issued under this subsection.
 
 #### (g) Governor's authority to issue temporary emergency suspensions
 
@@ -176,7 +176,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 (2) A temporary emergency suspension issued by a Governor under this subsection shall remain in effect for a maximum of four months or such lesser period as may be specified in a disapproval order of the Administrator. The Administrator may disapprove such suspension if he determines that it does not meet the requirements of this subsection.
 
-(3) The Governor may include in any temporary emergency suspension issued under this subsection a provision delaying for a period identical to the period of such suspension any compliance schedule (or increment of progress) to which such source is subject under section 1857c–10 <sup>2</sup> of this title as in effect before August 7, 1977, or under section 7413(d) <sup>2</sup> of this title upon a finding that such source is unable to comply with such schedule (or increment) solely because of the conditions on the basis of which a suspension was issued under this subsection.
+(3) The Governor may include in any temporary emergency suspension issued under this subsection a provision delaying for a period identical to the period of such suspension any compliance schedule (or increment of progress) to which such source is subject under section 1857c–10 <sup>1</sup> of this title as in effect before August 7, 1977, or under section 7413(d) <sup>1</sup> of this title upon a finding that such source is unable to comply with such schedule (or increment) solely because of the conditions on the basis of which a suspension was issued under this subsection.
 
 #### (h) Publication of comprehensive document for each State setting forth requirements of applicable implementation plan
 
@@ -186,7 +186,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 #### (i) Modification of requirements prohibited
 
-Except for a primary nonferrous smelter order under section 7419 of this title, a suspension under subsection (f) or (g) (relating to emergency suspensions), an exemption under section 7418 of this title (relating to certain Federal facilities), an order under section 7413(d) <sup>2</sup> of this title (relating to compliance orders), a plan promulgation under subsection (c), or a plan revision under subsection (a)(3); no order, suspension, plan revision, or other action modifying any requirement of an applicable implementation plan may be taken with respect to any stationary source by the State or by the Administrator.
+Except for a primary nonferrous smelter order under section 7419 of this title, a suspension under subsection (f) or (g) (relating to emergency suspensions), an exemption under section 7418 of this title (relating to certain Federal facilities), an order under section 7413(d) <sup>1</sup> of this title (relating to compliance orders), a plan promulgation under subsection (c), or a plan revision under subsection (a)(3); no order, suspension, plan revision, or other action modifying any requirement of an applicable implementation plan may be taken with respect to any stationary source by the State or by the Administrator.
 
 #### (j) Technological systems of continuous emission reduction on new or modified stationary sources; compliance with performance standards
 
@@ -198,7 +198,7 @@ As a condition for issuance of any permit required under this subchapter, the ow
 
 #### (A) Completeness criteria
 
-&emsp;&emsp;Within 9 months after November 15, 1990, the Administrator shall promulgate minimum criteria that any plan submission must meet before the Administrator is required to act on such submission under this subsection. The criteria shall be limited to the information necessary to enable the Administrator to determine whether the plan submission complies with the provisions of this chapter.
+&emsp;&emsp;Within 9 months after November 15, 1990, the Administrator shall promulgate minimum criteria that any plan submission must meet before the Administrator is required toact on such submission under this subsection. The criteria shall be limited to the information necessary to enable the Administrator to determine whether the plan submission complies with the provisions of this chapter.
 
 #### (B) Completeness finding
 
@@ -234,13 +234,13 @@ Each revision to an implementation plan submitted by a State under this chapter 
 
 #### (m) Sanctions
 
-The Administrator may apply any of the sanctions listed in section 7509(b) of this title at any time (or at any time after) the Administrator makes a finding, disapproval, or determination under paragraphs (1) through (4), respectively, of section 7509(a) of this title in relation to any plan or plan item (as that term is defined by the Administrator) required under this chapter, with respect to any portion of the State the Administrator determines reasonable and appropriate, for the purpose of ensuring that the requirements of this chapter relating to such plan or plan item are met. The Administrator shall, by rule, establish criteria for exercising his authority under the previous sentence with respect to any deficiency referred to in section 7509(a) of this title to ensure that, during the 24-month period following the finding, disapproval, or determination referred to in section 7509(a) of this title, such sanctions are not applied on a statewide basis where one or more political subdivisions covered by the applicable implementation plan are principally responsible for such deficiency.
+The Administrator may apply any of the sanctions listed in section 7509(b) of this title at any time (or at any time after) the Administrator makes a finding, disapproval, or determination under paragraphs (1) through (4), respectively, of section 7509(a) of this title in relation to any plan or plan item (as that term is defined by the Administrator) required under this chapter, with respect to any portion of the State the Administrator determines reasonable and appropriate, for the purpose of ensuring that the requirements of this chapter relating to such plan or plan item are met. The Administrator shall, by rule, establish criteria for exercising his authority under the previous sentence with respect to any deficiency referred to in section 7509(a) ofthis title to ensure that, during the 24-month period following the finding, disapproval, or determination referred to in section 7509(a) of this title, such sanctions are not applied on a statewide basis where one or more political subdivisions covered by the applicable implementation plan are principally responsible for such deficiency.
 
 #### (n) Savings clauses
 
 #### (1) Existing plan provisions
 
-&emsp;Any provision of any applicable implementation plan that was approved or promulgated by the Administrator pursuant to this section asin effect before November 15, 1990, shall remain in effect as part of such applicable implementation plan, except to the extent that a revision to such provision is approved or promulgated by the Administrator pursuant to this chapter.
+&emsp;Any provision of any applicable implementation plan that was approved or promulgated by the Administrator pursuant to this section as in effect before November 15, 1990, shall remain in effect as part of such applicable implementation plan, except to the extent that a revision to such provision is approved or promulgated by the Administrator pursuant to this chapter.
 
 #### (2) Attainment dates
 
@@ -262,7 +262,7 @@ If an Indian tribe submits an implementation plan to the Administrator pursuant 
 
 #### (p) Reports
 
-Any State shall submit, according to such schedule as the Administrator may prescribe, such reports as the Administrator may require relating to emission reductions, vehicle miles traveled, congestion levels, and any other information the Administrator may deem necessary to assess the development <sup>3</sup> effectiveness, need for revision, or implementation of any plan or plan revision required under this chapter.
+Any State shall submit, according to such schedule as the Administrator may prescribe, such reports as the Administrator may require relating to emission reductions, vehicle miles traveled, congestion levels, and any other information the Administrator may deem necessary to assess the development <sup>2</sup> effectiveness, need for revision, or implementation of any plan or plan revision required under this chapter.
 
 (July 14, 1955, ch. 360, title I, §110, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1680; amended Pub. L. 93–319, §4, June 22, 1974, 88 Stat. 256; Pub. L. 95–95, title I, §§107, 108, Aug. 7, 1977, 91 Stat. 691, 693; Pub. L. 95–190, §14(a)(1)–(6), Nov. 16, 1977, 91 Stat. 1399; Pub. L. 97–23, §3, July 17, 1981, 95 Stat. 142; Pub. L. 101–549, title I, §§101(b)–(d), 102(h), 107(c), 108(d), title IV, §412, Nov. 15, 1990, 104 Stat. 2404–2408, 2422, 2464, 2466, 2634.)
 
@@ -286,7 +286,7 @@ A prior section 110 of act July 14, 1955, was renumbered section 117 by Pub. L. 
 
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–549, §101(d)(8), substituted "3 years (or such shorter period as the Administrator may prescribe)" for "nine months" in two places.
 
-Subsec. (a)(2). Pub. L. 101–549, §101(b), amended par. (2) generally, substituting present provisions for provisions setting the time within which the Administrator was to approve or disapprove a plan or portion thereofand listing the conditions under which the plan or portion thereof was to be approved after reasonable notice and hearing.
+Subsec. (a)(2). Pub. L. 101–549, §101(b), amended par. (2) generally, substituting present provisions for provisions setting the time within which the Administrator was to approve or disapprove a plan or portion thereof and listing the conditions under which the plan or portion thereof was to be approved after reasonable notice and hearing.
 
 Subsec. (a)(3)(A). Pub. L. 101–549, §101(d)(1), struck out subpar. (A) which directed Administrator to approve any revision of an implementation plan if it met certain requirements and had been adopted by the State after reasonable notice and public hearings.
 
@@ -358,7 +358,7 @@ Subsec. (c)(1). Pub. L. 95–95, §108(d)(1), (2), substituted "plan which meets
 
 Subsec. (c)(3) to (5). Pub. L. 95–95, §108(d)(3), added pars. (3) to (5).
 
-Subsec. (d). Pub. L. 95–95, §108(f), substituted "and which implements the requirements of this section" for "and which implements a national primary or secondary ambient air quality standard in a State".
+Subsec. (d). Pub. L. 95–95, §108(f), substituted "and which implements the requirements of this section" for"and which implements a national primary or secondary ambient air quality standard in a State".
 
 Subsec. (f). Pub. L. 95–95, §107(a), substituted provisions relating to the handling of national or regional energy emergencies for provisions relating to the postponement of compliance by stationary sources or classes of moving sources with any requirement of applicable implementation plans.
 
@@ -410,7 +410,5 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

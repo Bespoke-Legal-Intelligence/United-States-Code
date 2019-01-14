@@ -62,7 +62,7 @@ After receiving a request under subsection (c) (including any such request resub
 
 #### (1) Evaluation of response of medical facility regarding insufficient facts
 
-&emsp;(A) In the case of a request under subsection (c) to which a medical facility has made theresponse specified in subsection (d)(4)(A) regarding the insufficiency of facts, the public health officer for the community in which the medical facility is located shall evaluate the request and the response, if the designated officer involved submits such documents to the officer with the request that the officer make such an evaluation.
+&emsp;(A) In the case of a request under subsection (c) to which a medical facility has made the response specified in subsection (d)(4)(A) regarding the insufficiency of facts, the public health officer for the community in which the medical facility is located shall evaluate the request and the response, if the designated officer involved submits such documents to the officer with the request that the officer make such an evaluation.
 
 &emsp;(B) As soon as is practicable after a public health officer receives a request under subparagraph (A), but not later than 48 hours after receipt of the request, the public health officer shall complete the evaluation required in such paragraph and inform the designated officer of the results of the evaluation.
 

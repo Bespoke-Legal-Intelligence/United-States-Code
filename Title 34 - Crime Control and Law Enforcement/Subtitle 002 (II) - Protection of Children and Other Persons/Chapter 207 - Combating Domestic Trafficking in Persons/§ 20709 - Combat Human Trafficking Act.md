@@ -40,13 +40,21 @@ In this section:
 
 &emsp;&emsp;The Attorney General shall ensure that each anti-human trafficking program operated by the Department of Justice, including each anti-human trafficking training program for Federal, State, or local law enforcement officers, includes technical training on—
 
-&emsp;&emsp;&emsp;(i) effective methods for investigating and prosecuting covered offenders; and
+&emsp;&emsp;&emsp;(i) effective methods for investigating and prosecuting covered offenders;
 
-&emsp;&emsp;&emsp;(ii) facilitating the provision of physical and mental health services by health care providers to persons subject to severe forms of trafficking in persons.
+&emsp;&emsp;&emsp;(ii) facilitating the provision of physical and mental health services by health care providers to persons subject to severe forms of trafficking in persons;
+
+&emsp;&emsp;&emsp;(iii) individually screening all adults and children who are suspected of engaging in commercial sex acts or who are subject to labor exploitation that may be in violation of child labor laws to determine whether each individual screened is a victim of human trafficking; and
+
+&emsp;&emsp;&emsp;(iv) how—
+
+&emsp;&emsp;&emsp;&emsp;(I) victims of sex or labor trafficking often engage in criminal acts as a direct result of severe trafficking in persons; and
+
+&emsp;&emsp;&emsp;&emsp;(II) such individuals are victims of a crime and affirmative measures should be taken to avoid arresting, charging, or prosecuting such individuals for any offense that is the direct result of their victimization.
 
 #### (B) Federal prosecutors
 
-&emsp;&emsp;The Attorney General shall ensure that each anti-human trafficking program operated by the Department of Justice forUnited States attorneys or other Federal prosecutors includes training on seeking restitution for offenses under chapter 77 of title 18 to ensure that each United States attorney or other Federal prosecutor, upon obtaining a conviction for such an offense, requests a specific amount of restitution for each victim of the offense without regard to whether the victim requests restitution.
+&emsp;&emsp;The Attorney General shall ensure that each anti-human trafficking program operated by the Department of Justice for United States attorneys or other Federal prosecutors includes training on seeking restitution for offenses under chapter 77 of title 18 to ensure that each United States attorney or other Federal prosecutor, upon obtaining a conviction for such an offense, requests a specific amount of restitution for each victim of the offense without regard to whether the victim requests restitution.
 
 #### (C) Judges
 
@@ -64,13 +72,13 @@ The Director of the Bureau of Justice Statistics shall—
 
 &emsp;(1) prepare an annual report on—
 
-&emsp;&emsp;(A) the rates of—
+&emsp;&emsp;(A) the number of—
 
-&emsp;&emsp;&emsp;(i) arrest of individuals by State law enforcement officers for a covered offense;
+&emsp;&emsp;&emsp;(i) arrests of individuals by State law enforcement officers for a covered offense, noting the number of covered offenders;
 
-&emsp;&emsp;&emsp;(ii) prosecution (including specific charges) of individuals in State court systems for a covered offense; and
+&emsp;&emsp;&emsp;(ii) prosecutions (including specific charges) of individuals in State court systems for a covered offense, noting the number of covered offenders; and
 
-&emsp;&emsp;&emsp;(iii) conviction of individuals in State court systems for a covered offense; and
+&emsp;&emsp;&emsp;(iii) convictions of individuals in State court systems for a covered offense, noting the number of covered offenders; and
 
 &emsp;&emsp;(B) sentences imposed on individuals convicted in State court systems for a covered offense; and
 
@@ -86,13 +94,51 @@ The Director of the Bureau of Justice Statistics shall—
 
 &emsp;&emsp;(E) the Attorney General.
 
-(Pub. L. 114–22, title I, §114, May 29, 2015, 129 Stat. 241.)
+#### (f) Department of Justice victim screening protocol
+
+#### (1) In general
+
+&emsp;Not later than 180 days after December 21, 2018, the Attorney General shall issue a screening protocol for use during all anti-trafficking law enforcement operations in which the Department of Justice is involved.
+
+#### (2) Requirements
+
+&emsp;The protocol required to be issued under paragraph (1) shall—
+
+&emsp;&emsp;(A) require the individual screening of all adults and children who are suspected of engaging in commercial sex acts or who are subject to labor exploitation that may be in violation of child labor laws to determine whether each individual screened is a victim of human trafficking;
+
+&emsp;&emsp;(B) require affirmative measures to avoid arresting, charging, or prosecuting human trafficking victims for any offense that is the direct result of their victimization;
+
+&emsp;&emsp;(C) require all Federal law enforcement officers and relevant department personnel who participate in human trafficking investigations to receive training on enforcement of the protocol;
+
+&emsp;&emsp;(D) be developed in consultation with State and local law enforcement agencies, the Department of Health and Human Services, survivors of human trafficking, and nongovernmental organizations that specialize in the identification, prevention, and restoration of victims of human trafficking; and
+
+&emsp;&emsp;(E) include—
+
+&emsp;&emsp;&emsp;(i) procedures and practices to ensure that the screening process minimizes trauma or revictimization of the person being screened; and
+
+&emsp;&emsp;&emsp;(ii) guidelines on assisting victims of human trafficking in identifying and receiving victim services.
+
+(Pub. L. 114–22, title I, §114, May 29, 2015, 129 Stat. 241; Pub. L. 115–393, title V, §502, Dec. 21, 2018, 132 Stat. 5276; Pub. L. 115–425, title I, §121(b), Jan. 8, 2019, 132 Stat. 5478.)
 
 #### Codification
 
 Section is comprised of section 114 of Pub. L. 114–22. Subsec. (d) of section 114 of Pub. L. 114–22 amended section 3583(k) of Title 18, Crimes and Criminal Procedure.
 
 Section was formerly classified to section 14044g of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (e)(1)(A). Pub. L. 115–425, §121(b)(1), (2), substituted "number" for "rates" in introductory provisions and inserted ", noting the number of covered offenders" after "covered offense" wherever appearing.
+
+Subsec. (e)(1)(A)(i). Pub. L. 115–425, §121(b)(3), substituted "arrests" for "arrest".
+
+Subsec. (e)(1)(A)(ii). Pub. L. 115–425, §121(b)(4), substituted "prosecutions" for "prosecution".
+
+Subsec. (e)(1)(A)(iii). Pub. L. 115–425, §121(b)(5), substituted "convictions" for "conviction".
+
+<b>2018</b>—Subsec. (c)(1)(A)(iii), (iv). Pub. L. 115–393, §502(1), added cls. (iii) and (iv).
+
+Subsec. (f). Pub. L. 115–393, §502(2), added subsec. (f).
 
 #### Using Existing Task Forces and Components To Target Offenders Who Exploit Children
 

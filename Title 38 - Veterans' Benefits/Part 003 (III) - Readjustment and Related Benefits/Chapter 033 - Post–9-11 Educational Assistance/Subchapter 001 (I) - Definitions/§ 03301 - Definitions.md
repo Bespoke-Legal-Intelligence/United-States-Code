@@ -6,7 +6,7 @@ In this chapter:
 
 &emsp;&emsp;(A) In the case of members of the regular components of the Armed Forces, the meaning given such term in section 101(21)(A).
 
-&emsp;&emsp;(B) In the case of members of the reserve components of the Armed Forces, service on active duty under a call or order to active duty under section 688, 12301(a), 12301(d), 12301(g), 12301(h), 12302, 12304, 12304a, or 12304b of title 10 or section 712 of title 14.
+&emsp;&emsp;(B) In the case of members of the reserve components of the Armed Forces, service on active duty under a call or order to active duty under section 688, 12301(a), 12301(d), 12301(g), 12301(h), 12302, 12304, 12304a, or 12304b of title 10 or section 712 <sup>1</sup> of title 14.
 
 &emsp;&emsp;(C) In the case of a member of the Army National Guard of the United States or Air National Guard of the United States, in addition to service described in subparagraph (B), full-time service—
 
@@ -31,6 +31,10 @@ In this chapter:
 &emsp;(4) The term "Secretary of Defense" means the Secretary of Defense, except that the term means the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 (Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–377, title I, §101(a), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 112–239, div. A, title VI, §681(c), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 115–48, title I, §101(a), title IV, §401(a), Aug. 16, 2017, 131 Stat. 974, 995.)
+
+#### References in Text
+
+Section 712 of title 14, referred to in par. (1)(B), was redesignated section 3713 of title 14 by Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233, and references to section 712 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
 
 #### Amendments
 
@@ -58,7 +62,7 @@ Pub. L. 115–48, title IV, §401(c), Aug. 16, 2017, 131 Stat. 995, provided tha
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–239 applicable to call or order to active duty authorized under section 712 of Title 14, Coast Guard, after Dec. 31, 2011, and deemed to have been enacted on Dec. 31, 2011, for purposes of applying the amendment to section 5538 of Title 5, Government Organization and Employees, and sections 701 and 12731 of Title 10, Armed Forces, see section 681(d) of Pub. L. 112–239, set out as a note under section 101 of Title 10.
+Amendment by Pub. L. 112–239 applicable to call or order to active duty authorized under former section 712 (now 3713) of Title 14, Coast Guard, after Dec. 31, 2011, and deemed to have been enacted on Dec. 31, 2011, for purposes of applying the amendment to section 5538 of Title 5, Government Organization and Employees, and sections 701 and 12731 of Title 10, Armed Forces, see section 681(d) of Pub. L. 112–239, set out as a note under section 101 of Title 10.
 
 #### Effective Date of 2011 Amendment
 
@@ -82,7 +86,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 #### Construction of Active Duty
 
-Pub. L. 115–48, title I, §106(b), Aug. 16, 2017, 131 Stat. 977, provided that: "Section 3301(1) of title 38, United States Code, shall be construed to include, in the case of a member of a reserve component of the Armed Forces who, before November 25, 2015, established eligibility for educational assistance under chapter 1607 of title 10, United States Code, pursuant to section 16163(a)(1) of such title, but lost eligibility for such educational assistance pursuant to section 16167(b) of such title, service on active duty (as defined in section 101 of such title) that satisfies the requirements of section 16163(a)(1) of such title."
+Pub. L. 115–48, title I, §106(b), Aug. 16, 2017, 131 Stat. 977, provided that: "Section 3301(1) of title 38, UnitedStates Code, shall be construed to include, in the case of a member of a reserve component of the Armed Forces who, before November 25, 2015, established eligibility for educational assistance under chapter 1607 of title 10, United States Code, pursuant to section 16163(a)(1) of such title, but lost eligibility for such educational assistance pursuant to section 16167(b) of such title, service on active duty (as defined in section 101 of such title) that satisfies the requirements of section 16163(a)(1) of such title."
 
 #### Improvement of Information Technology of the Veterans Benefits Administration of the Department of Veterans Affairs
 
@@ -142,7 +146,7 @@ To ensure our service members, veterans, spouses, and other family members have 
 
 Sec. 2. <i>Principles of Excellence for Educational Institutions Serving Service Members, Veterans, Spouses, and Other Family Members</i>. The Departments of Defense, Veterans Affairs, and Education shall establish Principles of Excellence (Principles) to apply to educational institutions receiving funding from Federal military and veterans educational benefits programs, including benefits programs provided by the Post-9/11 GI Bill and the Tuition Assistance Program. The Principles should ensure that these educational institutions provide meaningful information to service members, veterans, spouses, and other family members about the financial cost and quality of educational institutions to assist those prospective students in making choices about how to use their Federal educational benefits; prevent abusive and deceptive recruiting practices that target the recipients of Federal military and veterans educational benefits; and ensure that educational institutions provide high-quality academic and student support services to active-duty service members, reservists, members of the National Guard, veterans, and military families.
 
-To the extent permitted by law, the Principles, implemented pursuant to section 3 of this order, should require educational institutions receiving funding pursuant to Federal military and veterans educational benefits to:
+To the extent permitted by law, the Principles, implemented pursuant to section 3 of this order, shouldrequire educational institutions receiving funding pursuant to Federal military and veterans educational benefits to:
 
 (a) prior to enrollment, provide prospective students who are eligible to receive Federal military and veterans educational benefits with a personalized and standardized form, as developed in a manner set forth by the Secretary of Education, working with the Secretaries of Defense and Veterans Affairs, to help those prospective students understand the total cost of the educational program, including tuition and fees; the amount of that cost that will be covered by Federal educational benefits; the type and amount of financial aid they may qualify for; their estimated student loan debt upon graduation; information about student outcomes; and other information to facilitate comparison of aid packages offered by different educational institutions;
 
@@ -168,7 +172,7 @@ Sec. 3. <i>Implementation of the Principles of Excellence</i>.
 
 (c) The Secretaries of Defense, Veterans Affairs, and Education shall develop a comprehensive strategy for developing service member and veteran student outcome measures that are comparable, to the maximum extent practicable, across Federal military and veterans educational benefit programs, including, but not limited to, the Post-9/11 GI Bill and the Tuition Assistance Program. To the extent practicable, the student outcome measures should rely on existing administrative data to minimize the reporting burden on institutions participating in these benefit programs. The student outcome measures should permit comparisons across Federal educational programs and across institutions and types of institutions. The Secretary of Education, in consultation with the Secretaries of Defense and Veterans Affairs, shall also collect from educational institutions, as part of the Integrated Postsecondary Education Data System and other data collection systems, information on the amount of funding received pursuant to the Post-9/11 GI Bill and the Tuition Assistance Program. The Secretary of Education shall make this information publicly available on the College Navigator Website.
 
-(d) The Secretary of Veterans Affairs, in consultation with the Secretaries of Defense and Education, shallprovide to prospective military and veteran students, prior to using their benefits, streamlined tools to compare educational institutions using key measures of affordability and value through the Department of Veterans Affairs' eBenefits portal. The eBenefits portal shall be updated to facilitate access to school performance information, consumer protection information, and key Federal financial aid documents. The Secretaries of Defense and Veterans Affairs shall also ensure that service members and veterans have access to that information through educational counseling offered by those Departments.
+(d) The Secretary of Veterans Affairs, in consultation with the Secretaries of Defense and Education, shall provide to prospective military and veteran students, prior to using their benefits, streamlined tools to compare educational institutions using key measures of affordability and value through the Department of Veterans Affairs' eBenefits portal. The eBenefits portal shall be updated to facilitate access to school performance information, consumer protection information, and key Federal financial aid documents. The Secretaries of Defense and Veterans Affairs shall also ensure that service members and veterans have access to that information through educational counseling offered by those Departments.
 
 Sec. 4. <i>Strengthening Enforcement and Compliance Mechanisms</i>. Service members, veterans, spouses, and other family members should have access to a strong enforcement system through which to file complaints when institutions fail to follow the Principles. Within 90 days of the date of this order, the Secretaries of Defense and Veterans Affairs, in consultation with the Secretary of Education and the Director of the CFPB, as well as with the Attorney General, as appropriate, shall submit to the President a plan to strengthen enforcement and compliance mechanisms. The plan shall include proposals to:
 
@@ -180,7 +184,7 @@ Sec. 4. <i>Strengthening Enforcement and Compliance Mechanisms</i>. Service memb
 
 (d) establish procedures for targeted risk-based program reviews of institutions to ensure compliance with the Principles;
 
-(e) establish new uniform rules and strengthen existing procedures for access to military installations by educational institutions. These new rules should ensure, at a minimum, that only those institutions that enter into a memorandum of agreement pursuant to section 3(a) of this order are permitted entry onto a Federal military installation for the purposes of recruitment. The Department of Defense shall include specific steps for instructing installation commanders on commercial solicitation rules and the requirement of the Principles outlined in section 2(c) of this order; and
+(e) establish new uniform rules and strengthen existing procedures for access to military installations byeducational institutions. These new rules should ensure, at a minimum, that only those institutions that enter into a memorandum of agreement pursuant to section 3(a) of this order are permitted entry onto a Federal military installation for the purposes of recruitment. The Department of Defense shall include specific steps for instructing installation commanders on commercial solicitation rules and the requirement of the Principles outlined in section 2(c) of this order; and
 
 (f) take all appropriate steps to ensure that websites and programs are not deceptively and fraudulently marketing educational services and benefits to program beneficiaries, including initiating a process to protect the term "GI Bill" and other military or veterans-related terms as trademarks, as appropriate.
 
@@ -195,4 +199,6 @@ Sec. 5. <i>General Provisions</i>. (a) This order shall be implemented consisten
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

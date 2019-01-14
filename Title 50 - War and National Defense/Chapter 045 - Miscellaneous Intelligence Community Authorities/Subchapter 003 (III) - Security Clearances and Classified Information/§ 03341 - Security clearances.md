@@ -76,9 +76,9 @@ Except as otherwise provided, not later than 90 days after December 17, 2004, th
 
 &emsp;(7) not later than 180 days after July 7, 2014, and consistent with subsection (j)—
 
-&emsp;&emsp;(A) developing policies and procedures that permit, to the extent practicable, individuals alleging reprisal for having made a protected disclosure (provided the individual does not disclose classified information or other information contrary to law) to appeal any action affecting an employee's access to classified information and to retain their government employment status while such challenge is pending; and
+&emsp;&emsp;(A) developing policies and procedures that permit, to the extent practicable, individuals alleging reprisal for having made a protected disclosure (provided the individual does not disclose classified information or other information contrary to law) to appeal any action affecting an employee's access toclassified information and to retain their government employment status while such challenge is pending; and
 
-&emsp;&emsp;(B) developing and implementing uniform and consistent policies and procedures to ensure proper protections during the process for denying, suspending, or revoking a security clearance or access to classified information following a protected disclosure, including the ability to appeal such a denial, suspension, or revocation, except that there shall be no appeal of an agency's suspensionof a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts no longer than 1 year or the head of the agency or a designee of the head of the agency certifies that a longer suspension is needed before a final decision on denial or revocation to prevent imminent harm to the national security.
+&emsp;&emsp;(B) developing and implementing uniform and consistent policies and procedures to ensure proper protections during the process for denying, suspending, or revoking a security clearance or access to classified information following a protected disclosure, including the ability to appeal such a denial, suspension, or revocation, except that there shall be no appeal of an agency's suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts no longer than 1 year or the head of the agency or a designee of the head of the agency certifies that a longer suspension is needed before a final decision on denial or revocation to prevent imminent harm to the national security.
 
 #### (c) Performance of security clearance investigations
 
@@ -184,7 +184,7 @@ There is authorized to be appropriated such sums as may be necessary for fiscal 
 
 &emsp;Agency personnel with authority over personnel security clearance or access determinations shall not take or fail to take, or threaten to take or fail to take, any action with respect to any employee's security clearance or access determination in retaliation for—
 
-&emsp;&emsp;(A) any lawful disclosure of information to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose) or the head of the employing agency (or employee designated by the head of that agency for such purpose) by an employee that the employee reasonably believes evidences—
+&emsp;&emsp;(A) any lawful disclosure of information to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose) or the head of the employing agency (or employee designated by the head of that agency forsuch purpose) by an employee that the employee reasonably believes evidences—
 
 &emsp;&emsp;&emsp;(i) a violation of any Federal law, rule, or regulation; or
 
@@ -254,7 +254,7 @@ There is authorized to be appropriated such sums as may be necessary for fiscal 
 
 #### (A) Appeal
 
-&emsp;&emsp;Within 60 days after receiving notice of an adverse final agency determination under a proceeding under paragraph (4), an employee or former employee may appeal that determination in accordance with the procedures established under subparagraph (B).
+&emsp;&emsp;Within 60 days after receiving notice of an adverse final agency determination under aproceeding under paragraph (4), an employee or former employee may appeal that determination in accordance with the procedures established under subparagraph (B).
 
 #### (B) Policies and procedures
 
@@ -276,7 +276,11 @@ There is authorized to be appropriated such sums as may be necessary for fiscal 
 
 &emsp;Nothing in this section shall be construed to permit, authorize, or require a private cause of action to challenge the merits of a security clearance determination.
 
-(Pub. L. 108–458, title III, §3001, Dec. 17, 2004, 118 Stat. 3705; Pub. L. 113–126, title VI, §602(a)(1), (b), (c), July 7, 2014, 128 Stat. 1416, 1417, 1419; Pub. L. 113–293, title III, §310, Dec. 19, 2014, 128 Stat. 3999.)
+#### (8) Inclusion of contractor employees
+
+&emsp;In this subsection, the term "employee" includes an employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of an agency. With respect to such employees, the term "employing agency" shall be deemed to be the contracting agency.
+
+(Pub. L. 108–458, title III, §3001, Dec. 17, 2004, 118 Stat. 3705; Pub. L. 113–126, title VI, §602(a)(1), (b), (c), July 7, 2014, 128 Stat. 1416, 1417, 1419; Pub. L. 113–293, title III, §310, Dec. 19, 2014, 128 Stat. 3999; Pub. L. 115–118, title I, §110(c), Jan. 19, 2018, 132 Stat. 17.)
 
 #### References in Text
 
@@ -293,6 +297,8 @@ Section 8H of the Inspector General Act of 1978, referred to in subsec. (j)(1)(C
 Section was formerly classified to section 435b of this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (j)(8). Pub. L. 115–118 added par. (8).
 
 <b>2014</b>—Subsec. (a)(9). Pub. L. 113–126, §602(c), added par. (9).
 

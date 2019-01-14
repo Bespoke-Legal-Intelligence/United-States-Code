@@ -26,9 +26,13 @@ Required Report.—The Director of the Defense Contract Audit Agency shall prepa
 
 &emsp;(3) a summary of any recommendations of actions or resources needed to improve the audit process;
 
-&emsp;(4) a description of outreach actions toward industry to promote more effective use of audit resources; and
+&emsp;(4) a summary, set forth separately by dollar amount and percentage, of indirect costs for independent research and development incurred by contractors in the previous fiscal year;
 
-&emsp;(5) any other matters the Director considers appropriate.
+&emsp;(5) a summary, set forth separately by dollar amount and percentage, of indirect costs for bid and proposal costs incurred by contractors in the previous fiscal year;
+
+&emsp;(6) a description of outreach actions toward industry to promote more effective use of audit resources; and
+
+&emsp;(7) any other matters the Director considers appropriate.
 
 (b)
 
@@ -47,20 +51,6 @@ Definitions.—
 &emsp;(2) The term "sustained questioned costs" means questioned costs that were recovered by the Federal Government as a result of contract negotiations related to such questioned costs.
 
 (Added Pub. L. 112–81, div. A, title VIII, §805(a), Dec. 31, 2011, 125 Stat. 1486; amended Pub. L. 114–92, div. A, title VIII, §893(b), Nov. 25, 2015, 129 Stat. 952; Pub. L. 114–328, div. A, title VIII, §824(d)(1), Dec. 23, 2016, 130 Stat. 2279; Pub. L. 115–91, div. A, title VIII, §811(d)(1), title X, §1081(d)(5), Dec. 12, 2017, 131 Stat. 1460, 1600.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 114–328, div. A, title VIII, §824(d), Dec. 23, 2016, 130 Stat. 2279, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(5), Dec. 12, 2017, 131 Stat. 1600, provided that, effective Oct. 1, 2018, subsection (a) of this section is amended:</i>
-
-<i>(1) by redesignating paragraphs (4) and (5) as paragraphs (6) and (7), respectively; and</i>
-
-<i>(2) by inserting after paragraph (3) the following new paragraphs:</i>
-
-&emsp;<i>"(4) a summary, set forth separately by dollar amount and percentage, of indirect costs for inde</i><i>pendent research and development incurred by contractors in the previous fiscal year;</i>
-
-&emsp;<i>"(5) a summary, set forth separately by dollar amount and percentage, of indirect costs for bid and proposal costs incurred by contractors in the previous fiscal year;".</i>
-
-<i>See 2016 Amendment note below.</i>
 
 #### Amendments
 

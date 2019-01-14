@@ -22,7 +22,7 @@ Requirement for Specific Request.—Assistance under subsection (a) may only be 
 
 &emsp;(1) the assistance is requested by a responsible official of the organization to which the assistance is to be provided; and
 
-&emsp;(2) the assistance is not reasonably available from a commercial entity or (if so available) the official submitting the request for assistance certifies that the commercial entity thatwould otherwise provide such services has agreed to the provision of such services by the armed forces.
+&emsp;(2) the assistance is not reasonably available from a commercial entity or (if so available) the official submitting the request for assistance certifies that the commercial entity that would otherwise provide such services has agreed to the provision of such services by the armed forces.
 
 (d)
 

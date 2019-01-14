@@ -30,7 +30,7 @@ In furtherance of the objective set forth in subsection (a), the Trade Represent
 
 &emsp;&emsp;(A) the nature of the decision;
 
-&emsp;&emsp;(B) the efforts made by the United States to have the matter decided by consensus pursuant to paragraph 1 of article IX of the WTO Agreement, and the results of those efforts;
+&emsp;&emsp;(B) the efforts made by the United States to have the matter decided by consensus pursuant to paragraph 1 of article IX of theWTO Agreement, and the results of those efforts;
 
 &emsp;&emsp;(C) which countries voted for, and which countries voted against, the decision;
 
@@ -56,5 +56,5 @@ Promptly after the submission of a report under subsection (c), the Trade Repres
 
 #### Effective Date
 
-Section effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
 

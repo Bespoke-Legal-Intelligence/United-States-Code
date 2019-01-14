@@ -24,7 +24,7 @@ Sources.—The sources from which gifts and donations may be accepted under subs
 
 &emsp;(2) The government of a foreign country.
 
-&emsp;(3) A foundation or other charitable organization, including a foundation or charitable organization this is organized or operates under the laws of a foreign country.
+&emsp;(3) A foundation or other charitable organization, including a foundation or charitableorganization this is organized or operates under the laws of a foreign country.
 
 &emsp;(4) Any source in the private sector of the United States or a foreign country.
 
@@ -64,7 +64,7 @@ Gift or Donation Defined.—In this section, the term "gift or donation" means a
 
 Subsec. (a). Pub. L. 108–136, §931(b)(1)(A), struck out "Foreign" before "Gifts" in heading.
 
-Subsec. (a)(1). Pub. L. 108–136, §931(a)(1), as amended by Pub. L. 108–375, substituted "gifts and donationsfrom sources described in paragraph (2)" for "foreign gifts or donations".
+Subsec. (a)(1). Pub. L. 108–136, §931(a)(1), as amended by Pub. L. 108–375, substituted "gifts and donations from sources described in paragraph (2)" for "foreign gifts or donations".
 
 Subsec. (a)(2), (3). Pub. L. 108–136, §931(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
 

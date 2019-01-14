@@ -36,7 +36,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) 331/3 percent shall be allotted on the basis of the relative number of unemployed individuals in areas of substantial unemployment in each State, compared to the total number of unemployed individuals in areas of substantial unemployment in all States;
 
-&emsp;&emsp;&emsp;&emsp;(II) 331/3 percent shall be allotted on the basis of the relative excess number of unemployed individuals in each State, compared to the total excess number of unemployed individuals in all States; and
+&emsp;&emsp;&emsp;&emsp;(II) 331/3 percent shall be allotted on the basis of the relative excess number of unemployed individuals in each State,compared to the total excess number of unemployed individuals in all States; and
 
 &emsp;&emsp;&emsp;&emsp;(III) 331/3 percent shall be allotted on the basis of the relative number of disadvantaged adults in each State, compared to the total number of disadvantaged adults in all States, except as described in clause (iii).
 
@@ -110,7 +110,7 @@ The Secretary shall—
 
 #### (VII) Low-income level
 
-&emsp;&emsp;&emsp;&emsp;The term "low-income level" means $7,000 with respect to income in 1969, and for any later year means that amount that bears the same relationship to $7,000 as the Consumer Price Index for that year bears to the Consumer Price Index for 1969, rounded to the nearest $1,000.
+&emsp;&emsp;&emsp;&emsp;The term "low-income level" means $7,000 with respect to income in 1969, and for any later year means that amountthat bears the same relationship to $7,000 as the Consumer Price Index for that year bears to the Consumer Price Index for 1969, rounded to the nearest $1,000.
 
 #### (2) Dislocated worker employment and training activities
 
@@ -194,7 +194,7 @@ The Secretary shall—
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat.936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Amendments
 

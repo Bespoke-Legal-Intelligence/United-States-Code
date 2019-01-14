@@ -22,7 +22,7 @@ Permitted Uses.—Except as otherwise provided by law, a vessel in the fleet may
 
 &emsp;(4) for training purposes to the extent authorized by the Secretary of Transportation with the concurrence of the Secretary of Defense;
 
-&emsp;(5) on a reimbursable basis, for charter to the government of any State, locality, or Territory of the United States, except that the prior consent of the Secretary of Defense for such use shall be required with respect to anyvessel in the Ready Reserve Force or in the National Defense Reserve Fleet which is maintained in a retention status for the Department of Defense; or
+&emsp;(5) on a reimbursable basis, for charter to the government of any State, locality, or Territory of the United States, except that the prior consent of the Secretary of Defense for such use shall be required with respect to any vessel in the Ready Reserve Force or in the National Defense Reserve Fleet which is maintained in a retention status for the Department of Defense; or
 
 &emsp;(6) for civil contingency operations and Maritime Administration promotional and media events, in accordance with subsection (f).
 
@@ -66,7 +66,7 @@ Applicability of Limitations on Overhaul, Repair, and Maintenance in Foreign Shi
 
 &emsp;(1)
 
-Application of limitation.—The provisions of section 7310 of title 10, United States Code, shall apply to vessels specified in subsection (b), and to the Secretary of Transportation with respect to those vessels, in the same manner as those provisions apply to vessels specified in subsection (b) of such section, and to the Secretary of the Navy, respectively.
+Application of limitation.—The provisions of section 8680 of title 10 shall apply tovessels specified in subsection (b), and to the Secretary of Transportation with respect to those vessels, in the same manner as those provisions apply to vessels specified in subsection (b) of such section, and to the Secretary of the Navy, respectively.
 
 &emsp;(2)
 
@@ -104,17 +104,19 @@ Other matters.—Any other matters the Maritime Administrator considers appropri
 
 Vessel Status.—A vessel in the National Defense Reserve Fleet determined by the Maritime Administration to be of insufficient value to remain in the National Defense Reserve Fleet shall remain a vessel within the meaning of that term in section 3 of title 1, United States Code, and subject to the rights and responsibilities of a vessel under admiralty law at least until such time as the vessel is delivered to a dismantling facility or is disposed of otherwise from the National Defense Reserve Fleet.
 
-(Added and amended Pub. L. 115–91, div. C, title XXXV, §3502(a)(3), (b)(6), Dec. 12, 2017, 131 Stat. 1910.)
+(Added and amended Pub. L. 115–91, div. C, title XXXV, §3502(a)(3), (b)(6), Dec. 12, 2017, 131 Stat. 1910; Pub. L. 115–232, div. A, title VIII, §809(q), Aug. 13, 2018, 132 Stat. 1844.)
 
 #### References in Text
 
-Section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242), referred to in subsec. (b)(1), is section 902 of act June 29, 1936, ch. 858, 49 Stat. 2015, which was classified to section 1242 of the former Appendix to thistitle prior to repeal and restatement as chapter 563 of this title by Pub. L. 109–304, §§8(c), 19, Oct. 6, 2006, 120 Stat. 1654, 1713.
+Section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242), referred to in subsec. (b)(1), is section 902 of act June 29, 1936, ch. 858, 49 Stat. 2015, which was classified to section 1242 of the former Appendix to this title prior to repeal and restatement as chapter 563 of this title by Pub. L. 109–304, §§8(c), 19, Oct. 6, 2006, 120 Stat. 1654, 1713.
 
 #### Codification
 
 Section, as added and amended by Pub. L. 115–91, is based on act Mar. 8, 1946, ch. 82, §11, 60 Stat. 49; June 28, 1947, ch. 161, §1, 61 Stat. 190; Feb. 27, 1948, ch. 78, §1(a), 62 Stat. 38; Feb. 28, 1949, ch. 12, 63 Stat. 9; June 29, 1949, ch. 281, §1, 63 Stat. 349; June 30, 1950, ch. 427, §2, 64 Stat. 308; Pub. L. 97–31, §12(157), Aug. 6, 1981, 95 Stat. 167; Pub. L. 101–115, §6, Oct. 13, 1989, 103 Stat. 693; Pub. L. 101–225, title III, §307(12), Dec. 12, 1989, 103 Stat. 1925; Pub. L. 102–241, §57, Dec. 19, 1991, 105 Stat. 2234; Pub. L. 102–587, title VI, §6205(a), Nov. 4, 1992, 106 Stat. 5094; Pub. L. 104–106, div. A, title X, §1014(b), Feb. 10, 1996, 110 Stat. 424; Pub. L. 104–239, §9, Oct. 8, 1996, 110 Stat. 3133; Pub. L. 109–364, div. C, title XXXV, §3503, Oct. 17, 2006, 120 Stat. 2516; Pub. L. 110–181, div. C, title XXXV, §§3513, 3516, Jan. 28, 2008, 122 Stat. 594, 595; Pub. L. 112–81, div. C, title XXXV, §3502, Dec. 31, 2011, 125 Stat. 1716; Pub. L. 112–213, title IV, §410, Dec. 20, 2012, 126 Stat. 1572; Pub. L. 114–328, div. C, title XXXV, §3504, Dec. 23, 2016, 130 Stat. 2776, which was formerly classified to section 4405 of Title 50, War and National Defense, before being transferred to this chapter and renumbered as this section.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(1). Pub. L. 115–232 substituted "section 8680 of title 10" for "section 7310 of title 10, United States Code,".
 
 <b>2017</b>—Pub. L. 115–91, §3502(b)(6)(A), inserted section enumerator and catchline.
 
@@ -126,6 +128,10 @@ Subsec. (b). Pub. L. 115–91, §3502(b)(6)(B), inserted heading.
 
 Subsec. (e). Pub. L. 115–91, §3502(b)(6)(C), inserted heading and struck out "of title 46, United States Code" after "section 3703a" in text.
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
+
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
@@ -136,7 +142,7 @@ Pub. L. 104–239, §16, Oct. 8, 1996, 110 Stat. 3138, provided that:
 
 "(a)
 
-In General.—The Secretary of Transportation shall conduct a pilot program to evaluate the feasibility of using renewable contracts for the maintenance and repair of outported vessels in the Ready Reserve Force to enhance the readiness of those vessels. Under the pilot program, the Secretary, subject to the availability of appropriations and within 6 months after the date of the enactment of this Act \[Oct. 8, 1996\], shall award 9 contracts for this purpose.
+In General.—The Secretary of Transportation shall conduct a pilot program to evaluate the feasibility of using renewable contracts for the maintenance and repair of outported vessels in the Ready Reserve Force to enhance the readiness of those vessels. Under the pilot program, the Secretary, subject to the availability of appropriations and within 6 months after thedate of the enactment of this Act \[Oct. 8, 1996\], shall award 9 contracts for this purpose.
 
 "(b)
 

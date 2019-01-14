@@ -22,7 +22,7 @@
 
 #### (3) Affiliates described
 
-&emsp;Any company that would be an affiliate (as defined in sections 23A and 23B of the Federal Reserve Act) of any savings association if such savings association were a member bank (as such term is defined in such Act) shall bedeemed to be an affiliate of such savings association for purposes of paragraph (1).
+&emsp;Any company that would be an affiliate (as defined in sections 23A and 23B of the Federal Reserve Act) of any savings association if such savings association were a member bank (as such term is defined in such Act) shall be deemed to be an affiliate of such savings association for purposes of paragraph (1).
 
 #### (4) Additional restrictions authorized
 
@@ -106,7 +106,7 @@ Pub. L. 103–325, title III, §316(b), Sept. 23, 1994, 108 Stat. 2223, provided
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–242 effective upon the earlier of the date on which final regulations under section306(m)(1) of Pub. L. 102–242 become effective or 150 days after Dec. 19, 1991, see section 306(l) of Pub. L. 102–242, set out as a note under section 375b of this title.
+Amendment by Pub. L. 102–242 effective upon the earlier of the date on which final regulations under section 306(m)(1) of Pub. L. 102–242 become effective or 150 days after Dec. 19, 1991, see section 306(l) of Pub. L. 102–242, set out as a note under section 375b of this title.
 
 #### Transitional Rule for Certain Transactions With Affiliates
 
@@ -120,7 +120,7 @@ of the Federal Reserve Act \[12 U.S.C. 371c\].—Not later than 6 months after t
 
 "(b)
 
-Transitional Period.—Notwithstanding section 11(a) of the Home Owners' Loan Act \[12 U.S.C. 1468(a)\] (as added by section 301 of this Act), a thrift institution that, before May 1, 1989, had received approval from the Federal Savings and Loan Insurance Corporation pursuant to section 408(d)(6) of the National Housing Act \[former 12 U.S.C. 1730a(d)(6)\] as then in effect to purchase mortgages from a mortgage-banking affiliate may, during the 6-month period following the date on which final regulations are prescribed pursuant to subsection (a), continue to engage in transactions for which it had received such approval. Any savings association that engages in such transactions pursuant to this subsection shall comply with the standards that were applicable under section 408(d)(6) as in effect on May 1, 1989.
+Transitional Period.—Notwithstanding section 11(a) of the Home Owners' Loan Act \[12 U.S.C. 1468(a)\] (as added by section 301 of this Act), a thrift institution that, before May 1, 1989, had received approval from the Federal Savings and Loan Insurance Corporation pursuant to section 408(d)(6) of the National Housing Act\[former 12 U.S.C. 1730a(d)(6)\] as then in effect to purchase mortgages from a mortgage-banking affiliate may, during the 6-month period following the date on which final regulations are prescribed pursuant to subsection (a), continue to engage in transactions for which it had received such approval. Any savings association that engages in such transactions pursuant to this subsection shall comply with the standards that were applicable under section 408(d)(6) as in effect on May 1, 1989.
 
 "(c)
 

@@ -180,7 +180,7 @@ Each insured depository institution shall prepare—
 
 &emsp;&emsp;&emsp;&emsp;(I) any action initiated or taken by the appropriate Federal banking agency or the Corporation during such period under subsection (a), (b), (c), (e), (g), (i), (s), or (t) of section 1818 of this title;
 
-&emsp;&emsp;&emsp;&emsp;(II) any action taken by any appropriate State bank supervisor under State law which is similar to any action referred to in subclause (I); or
+&emsp;&emsp;&emsp;&emsp;(II) any action taken by any appropriate State bank supervisor under Statelaw which is similar to any action referred to in subclause (I); or
 
 &emsp;&emsp;&emsp;&emsp;(III) any assessment of any civil money penalty under any other provision of law with respect to the institution or any institution-affiliated party.
 

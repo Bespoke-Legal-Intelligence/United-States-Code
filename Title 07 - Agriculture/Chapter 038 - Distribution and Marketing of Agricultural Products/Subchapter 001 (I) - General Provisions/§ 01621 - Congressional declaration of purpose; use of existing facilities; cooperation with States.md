@@ -26,7 +26,7 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 #### Specialty Crops Competitiveness
 
-Pub. L. 108–465, §§2, 3, title I, §101, Dec. 21, 2004, 118 Stat. 3882, 3883, as amended by Pub. L. 110–234, title X, §10109, May 22, 2008, 122 Stat. 1338; Pub. L. 110–246, §4(a), title X, §10109, June 18, 2008, 122 Stat. 1664, 2100; Pub. L. 113–79, title X, §10010, Feb. 7, 2014, 128 Stat. 949, provided that:
+Pub. L. 108–465, §§2, 3, title I, §101, Dec. 21, 2004, 118 Stat. 3882, 3883, as amended by Pub. L. 110–234, title X, §10109, May 22, 2008, 122 Stat. 1338; Pub. L. 110–246, §4(a), title X, §10109, June 18, 2008, 122 Stat. 1664, 2100; Pub. L. 113–79, title X, §10010, Feb. 7, 2014, 128 Stat. 949; Pub. L. 115–334, title X, §10107, Dec. 20, 2018, 132 Stat. 4905, provided that:
 
 #### "SEC. 2. FINDINGS AND PURPOSE.
 
@@ -66,11 +66,21 @@ Purpose.—It is the purpose of this Act \[see Short Title of 2004 Amendment not
 
 "(a)
 
-Availability and Purpose of Grants.—Using the funds made available under subsection (l), the Secretary of Agriculture shall make grants to States for each of the fiscal years 2005 through 2018 to be used by State departments of agriculture solely to enhance the competitiveness of specialty crops.
+Availability and Purpose of Grants.—Using the funds made available under subsection (l), the Secretary of Agriculture shall make grants to States for each of the fiscal years 2005 through 2023 to be used by State departments of agriculture to enhance the competitiveness of specialty crops, including—
+
+&emsp;"(1) by leveraging efforts to market and promote specialty crops;
+
+&emsp;"(2) by assisting producers with research and development relevant to specialty crops;
+
+&emsp;"(3) by expanding availability and access to specialty crops;
+
+&emsp;"(4) by addressing local, regional, and national challenges confronting specialty crop producers; and
+
+&emsp;"(5) for such other purposes determined to be appropriate by the Secretary of Agriculture, in consultation with specialty crop stakeholders and relevant State departments of agriculture.
 
 "(b)
 
-Grants Based on Value and Acreage.—Subject to subsection (c), for each State whose application fora grant for a fiscal year that \[sic\] is accepted by the Secretary under subsection (f), the amount of the grant for that fiscal year to the State under this section shall bear the same ratio to the total amount made available under subsection (l)(1) for that fiscal year as—
+Grants Based on Value and Acreage.—Subject to subsection (c), for each State whose application for a grant for a fiscal year that \[sic\] is accepted by the Secretary under subsection (f), the amount of the grant for that fiscal year to the State under this section shall bear the same ratio to the total amount made available under subsection (l)(1) for that fiscal year as—
 
 &emsp;"(1) the average of the most recent available value of specialty crop production in the State and the acreage of specialty crop production in the State, as demonstrated in the most recent Census of Agriculture data; bears to
 
@@ -128,17 +138,25 @@ Use of reallocated funds.—Funds allocated to a State under this subsection sha
 
 "(j)
 
-Multistate Projects.—Not later than 180 days after the effective date of the Agricultural Act of 2014 \[Feb. 7, 2014\], the Secretary of Agriculture shall issue guidance for the purpose of making grants to multistate projects under this section for projects involving—
+Multistate Projects.—
 
-&emsp;"(1) food safety;
+&emsp;"(1)
 
-&emsp;"(2) plant pests and disease;
+In general.—Not later than 180 days after the effective date of the Agricultural Act of 2014 \[Feb. 7, 2014\], the Secretary of Agriculture shall issue guidance for the purpose of making grants to multistate projects under this section for projects involving—
 
-&emsp;"(3) research;
+&emsp;&emsp;"(A) food safety;
 
-&emsp;"(4) crop-specific projects addressing common issues; and
+&emsp;&emsp;"(B) plant pests and disease;
 
-&emsp;"(5) any other area that furthers the purposes of this section, as determined by the Secretary.
+&emsp;&emsp;"(C) research;
+
+&emsp;&emsp;"(D) crop-specific projects addressing common issues; and
+
+&emsp;&emsp;"(E) any other area that furthers the purposes of this section, as determined by the Secretary.
+
+&emsp;"(2)
+
+Administration of multistate projects from nonparticipating states.—The Secretary of Agriculture may directly administer all aspects of multistate projects under this subsection for applicants in a nonparticipating State.
 
 "(k)
 
@@ -151,6 +169,30 @@ Department.—The Secretary of Agriculture may not use more than 3 percent of th
 &emsp;"(2)
 
 States.—A State receiving a grant under this section may not use more than 8 percent of the funds received under the grant for a fiscal year for administrative expenses.
+
+&emsp;"(3)
+
+Evaluation.—
+
+&emsp;&emsp;"(A)
+
+Performance measures and review.—
+
+&emsp;&emsp;&emsp;"(i)
+
+Development.—The Secretary of Agriculture and the State departments of agriculture, in consultation with specialty crop stakeholders, shall develop performance measures to be used as the sole means of performing any evaluation of the grant program established under this section.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Review.—The Secretary of Agriculture, in consultation with the State departments of agriculture, shall periodically evaluate the performance of the grant program established under this section.
+
+&emsp;&emsp;"(B)
+
+Cooperative agreements.—The Secretary of Agriculture may enter into cooperative agreements—
+
+&emsp;&emsp;&emsp;"(i) to develop the performance measures under subparagraph (A)(i); or
+
+&emsp;&emsp;&emsp;"(ii) to evaluate the overall performance of the grant program established under this section.
 
 "(l)
 
@@ -182,7 +224,7 @@ Multistate projects.—Of the funds made available under paragraph (1), the Secr
 
 &emsp;&emsp;"(D) $4,000,000 for fiscal year 2017; and
 
-&emsp;&emsp;"(E) $5,000,000 for fiscal year 2018."
+&emsp;&emsp;"(E) $5,000,000 for fiscal year 2018 and each fiscal year thereafter."
 
 #### National Commission on Food Marketing
 

@@ -32,7 +32,7 @@ Notwithstanding the provisions of subsection (a), any individual who is eligible
 
 #### (d) Reports
 
-The Secretary shall from time to time prepare and submit to the Congress reports indicating the actions taken in carrying out the provisions of subsection (a) of this section together withany recommendations for legislation in furtherance of the purposes of this section.
+The Secretary shall from time to time prepare and submit to the Congress reports indicating the actions taken in carrying out the provisions of subsection (a) of this section together with any recommendations for legislation in furtherance of the purposes of this section.
 
 #### (e) Competitive status
 

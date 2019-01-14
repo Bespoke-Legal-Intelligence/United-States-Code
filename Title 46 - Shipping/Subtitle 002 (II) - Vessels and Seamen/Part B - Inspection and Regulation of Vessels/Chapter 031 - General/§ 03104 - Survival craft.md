@@ -14,7 +14,7 @@ Higher Standard of Safety.—The Secretary may revise part 117 or part 180 of ti
 
 (c)
 
-Innovative and Novel Designs.—The Secretary may, in lieu of the requirements set out in part 117 or part 180 of title 46, Code of Federal Regulations, as in effect on the date of the enactment of the Coast Guard Authorization Act of 2016, allow a passenger vessel to be equipped with a life-saving appliance or arrangement of an innovative or novel design that—
+Innovative and Novel Designs.—The Secretary may, in lieu of the requirements set outin part 117 or part 180 of title 46, Code of Federal Regulations, as in effect on the date of the enactment of the Coast Guard Authorization Act of 2016, allow a passenger vessel to be equipped with a life-saving appliance or arrangement of an innovative or novel design that—
 
 &emsp;(1) ensures no part of an individual is immersed in water; and
 
@@ -22,15 +22,17 @@ Innovative and Novel Designs.—The Secretary may, in lieu of the requirements s
 
 (d)
 
-Built Defined.—In this section, the term "built" has the meaning that term has under section 4503(e).
+Built Defined.—In this section, the term "built" has the meaning that term has under section 4503(d).
 
-(Added Pub. L. 111–281, title VI, §609(a), Oct. 15, 2010, 124 Stat. 2968; amended Pub. L. 112–213, title III, §303, Dec. 20, 2012, 126 Stat. 1563; Pub. L. 114–120, title III, §301(a), Feb. 8, 2016, 130 Stat. 50; Pub. L. 114–328, div. C, title XXXV, §3503(a), Dec. 23, 2016, 130 Stat. 2775.)
+(Added Pub. L. 111–281, title VI, §609(a), Oct. 15, 2010, 124 Stat. 2968; amended Pub. L. 112–213, title III, §303, Dec. 20, 2012, 126 Stat. 1563; Pub. L. 114–120, title III, §301(a), Feb. 8, 2016, 130 Stat. 50; Pub. L. 114–328, div. C, title XXXV, §3503(a), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–282, title V, §508(e), Dec. 4, 2018, 132 Stat. 4273.)
 
 #### References in Text
 
 The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsecs. (b) and (c), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–282 substituted "section 4503(d)" for "section 4503(e)".
 
 <b>2016</b>—Pub. L. 114–120 amended section generally. Prior to amendment, section related to survival craft.
 
@@ -42,7 +44,7 @@ Subsec. (c). Pub. L. 112–213, §303(2), added subsec. (c).
 
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under section 60 of Title 14, Coast Guard.
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under section 315 of Title 14, Coast Guard.
 
 #### Review; Revision of Regulations
 

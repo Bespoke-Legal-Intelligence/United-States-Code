@@ -122,7 +122,7 @@
 
 #### (ii) Recording of interest
 
-&emsp;&emsp;&emsp;On request by the Indian tribe described in clause (i)(II)(bb), a restriction relating to the acquisition by the Indian tribe of an interest in a family farm involved shall be recorded as part of the deed relating to the interest involved.
+&emsp;&emsp;&emsp;On request by the Indian tribe described in clause (i)(II)(bb), a restriction relatingto the acquisition by the Indian tribe of an interest in a family farm involved shall be recorded as part of the deed relating to the interest involved.
 
 #### (iii) Mortgage and foreclosure
 

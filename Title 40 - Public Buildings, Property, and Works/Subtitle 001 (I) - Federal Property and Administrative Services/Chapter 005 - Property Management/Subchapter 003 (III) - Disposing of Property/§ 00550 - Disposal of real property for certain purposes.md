@@ -22,7 +22,7 @@ Specified official.—The official referred to in paragraph (1) is—
 
 &emsp;&emsp;(C) the Secretary of the Interior, for property transferred under subsection (e) for public park or recreation area use;
 
-&emsp;&emsp;(D) the Secretary of Housing and Urban Development, for property transferred undersubsection (f) to provide housing or housing assistance for low-income individuals or families; and
+&emsp;&emsp;(D) the Secretary of Housing and Urban Development, for property transferred under subsection (f) to provide housing or housing assistance for low-income individuals or families; and
 
 &emsp;&emsp;(E) the Secretary of the Interior, for property transferred under subsection (h) for use as a historic monument for the benefit of the public.
 
@@ -56,7 +56,7 @@ Sale or lease.—Subject to disapproval by the Administrator within 30 days afte
 
 &emsp;(3)
 
-Fixing value.—In fixing the sale or lease value of property disposed of under paragraph (2), the Secretary of Health and Human Services shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by the State, political subdivision or instrumentality, or institution.
+Fixing value.—In fixing the sale or lease value of property disposed of under paragraph (2), the Secretary of Health and Human Services shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by theState, political subdivision or instrumentality, or institution.
 
 (e)
 
@@ -136,7 +136,7 @@ Sale, lease, or donation.—Subject to disapproval by the Administrator within 3
 
 &emsp;(3)
 
-Fixing value.—In fixing the sale or lease value of property disposed of under paragraph (2), the Chief Executive Officer shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by the entity receiving the property.
+Fixing value.—In fixing the sale or lease value of property disposed of under paragraph\(2), the Chief Executive Officer shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by the entity receiving the property.
 
 (h)
 

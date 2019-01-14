@@ -12,7 +12,7 @@ The Administrator may order a facility owner or operator (except an owner or ope
 
 &emsp;(B) No civil penalty may be assessed under this subsection unless the person accused of the violation is given notice and opportunity for a hearing with respect to the violation.
 
-&emsp;(C) In determining the amount of any penalty assessed pursuant to this subsection, the Administrator shall take into account the nature, circumstances, extent and gravity of the violation or violations and, with respect to the violator, ability to pay, any prior history of such violations, the degree of culpability, economic benefit or savings (if any) resulting from the violation, and such other matters as justice may require.
+&emsp;(C) In determining the amount of any penalty assessed pursuant to this subsection, the Administrator shall take into account the nature, circumstances, extent and gravity of the violation or violations and, with respect to theviolator, ability to pay, any prior history of such violations, the degree of culpability, economic benefit or savings (if any) resulting from the violation, and such other matters as justice may require.
 
 #### (2) Class II administrative penalty
 
@@ -46,7 +46,7 @@ The Administrator may order a facility owner or operator (except an owner or ope
 
 &emsp;&emsp;(B) that the trade secret claim is frivolous,
 
-> &emsp;the trade secret claimant is liable for a penalty of $25,000 per claim. The Administratormay assess the penalty by administrative order or may bring an action in the appropriate district court of the United States to assess and collect the penalty.
+> &emsp;the trade secret claimant is liable for a penalty of $25,000 per claim. The Administrator may assess the penalty by administrative order or may bring an action in the appropriate district court of the United States to assess and collect the penalty.
 
 #### (2) Criminal penalty for disclosure of trade secret information
 

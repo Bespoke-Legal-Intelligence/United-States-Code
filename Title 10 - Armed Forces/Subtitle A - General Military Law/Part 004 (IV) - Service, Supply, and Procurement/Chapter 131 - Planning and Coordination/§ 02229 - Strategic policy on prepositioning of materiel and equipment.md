@@ -12,7 +12,7 @@ In general.—The Secretary of Defense shall maintain a strategic policy on the 
 
 Elements.—The strategic policy required under paragraph (1) shall include the following elements:
 
-&emsp;&emsp;(A) Overarching strategic guidance concerning planning and resource priorities that link the Department of Defense's current and future needs for prepositioned stocks, such as desired responsiveness, to evolving national defense objectives.
+&emsp;&emsp;(A) Overarching strategic guidance concerning planning and resource prioritiesthat link the Department of Defense's current and future needs for prepositioned stocks, such as desired responsiveness, to evolving national defense objectives.
 
 &emsp;&emsp;(B) A description of the Department's vision for prepositioning programs and the desired end state.
 

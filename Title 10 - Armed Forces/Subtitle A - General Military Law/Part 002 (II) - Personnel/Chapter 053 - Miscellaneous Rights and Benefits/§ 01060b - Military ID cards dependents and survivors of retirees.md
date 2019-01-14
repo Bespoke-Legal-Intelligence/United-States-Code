@@ -28,5 +28,5 @@ Subsec. (a). Pub. L. 109–364, §598(a), amended heading and text of subsec. (a
 
 #### Effective Date
 
-Pub. L. 108–375, div. A, title V, §583(b), Oct. 28, 2004, 118 Stat. 1929, provided that: "Section 1060b of title 10,United States Code, as added by subsection (a), shall take effect on October 1, 2004."
+Pub. L. 108–375, div. A, title V, §583(b), Oct. 28, 2004, 118 Stat. 1929, provided that: "Section 1060b of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2004."
 

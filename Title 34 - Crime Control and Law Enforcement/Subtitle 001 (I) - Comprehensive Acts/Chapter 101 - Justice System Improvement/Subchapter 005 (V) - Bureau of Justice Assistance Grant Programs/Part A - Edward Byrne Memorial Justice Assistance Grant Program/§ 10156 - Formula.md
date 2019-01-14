@@ -20,7 +20,7 @@
 
 #### (2) Minimum allocation
 
-&emsp;If carrying out paragraph (1) would result in any State receiving an allocation less than0.25 percent of the total amount (in this paragraph referred to as a "minimum allocation State"), then paragraph (1), as so carried out, shall not apply, and the Attorney General shall instead—
+&emsp;If carrying out paragraph (1) would result in any State receiving an allocation less than 0.25 percent of the total amount (in this paragraph referred to as a "minimum allocation State"), then paragraph (1), as so carried out, shall not apply, and the Attorney General shall instead—
 
 &emsp;&emsp;(A) allocate 0.25 percent of the total amount to each State; and
 
@@ -62,7 +62,7 @@ Of the amounts allocated under subsection (a)—
 
 #### (B) Transitional rule
 
-&emsp;&emsp;Notwithstanding subparagraph (A), for fiscal years 2006, 2007, and 2008, the Attorney General shall allocate the local amount to units of local government in the same manner that, under the Local Government Law Enforcement Block Grants program in effect immediately before January 5, 2006, the reserved amount was allocated among reporting and nonreporting units of local government.
+&emsp;&emsp;Notwithstanding subparagraph (A), for fiscal years 2006, 2007, and 2008, the Attorney General shall allocate the local amount tounits of local government in the same manner that, under the Local Government Law Enforcement Block Grants program in effect immediately before January 5, 2006, the reserved amount was allocated among reporting and nonreporting units of local government.
 
 #### (3) Annexed units
 
@@ -120,7 +120,7 @@ In carrying out this section with respect to the State of Louisiana, the term "u
 
 For purposes of this section, the term "part 1 violent crimes" shall include severe forms of trafficking in persons (as defined in section 7102 of title 22).
 
-(Pub. L. 90–351, title I, §505, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3097; amended Pub. L. 114–22, title I, §107, May 29, 2015, 129 Stat. 238.)
+(Pub. L. 90–351, title I, §505, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119Stat. 3097; amended Pub. L. 114–22, title I, §107, May 29, 2015, 129 Stat. 238.)
 
 #### Codification
 

@@ -2,7 +2,7 @@
 
 The Secretary, acting through the Director, may provide technical assistance to patient safety organizations, including convening annual meetings for patient safety organizations to discuss methodology, communication, data collection, or privacy concerns.
 
-(July 1, 1944, ch. 373, title IX, §926, formerly §925, as added Pub. L. 109–41, §2(a)(5), July 29, 2005, 119 Stat. 434; renumbered §926, Pub. L. 111–148, title III, §3509(e)(1), Mar. 23, 2010, 124 Stat. 534.)
+(July 1, 1944, ch. 373, title IX, §926, formerly §925, as added Pub. L. 109–41, §2(a)(5), July 29, 2005, 119Stat. 434; renumbered §926, Pub. L. 111–148, title III, §3509(e)(1), Mar. 23, 2010, 124 Stat. 534.)
 
 #### Prior Provisions
 

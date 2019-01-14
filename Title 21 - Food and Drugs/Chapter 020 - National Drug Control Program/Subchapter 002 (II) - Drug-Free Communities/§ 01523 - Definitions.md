@@ -8,7 +8,7 @@ In this subchapter:
 
 #### (2) Advisory Commission
 
-&emsp;The term "Advisory Commission" means the Advisory Commission established under section 1541 of this title.
+&emsp;The term "Advisory Commission" means the Advisory Commission established under section 1541 <sup>1</sup> of this title.
 
 #### (3) Community
 
@@ -34,13 +34,13 @@ In this subchapter:
 
 &emsp;The term "Program" means the program established under section 1531(a) of this title.
 
-#### (9) Substance abuse
+#### (9) Substance use and misuse
 
-&emsp;The term "substance abuse" means—
+&emsp;The term "substance use and misuse" means—
 
-&emsp;&emsp;(A) the illegal use or abuse of drugs, including substances listed in schedules I through V of section 812 of this title;
+&emsp;&emsp;(A) the illegal use or misuse of drugs, including substances for which a listing is effect <sup>2</sup> under any of schedules I through V under section 812 of this title;
 
-&emsp;&emsp;(B) the abuse of inhalants; or
+&emsp;&emsp;(B) the misuse of inhalants or over-the-counter drugs; or
 
 &emsp;&emsp;(C) the use of alcohol, tobacco, or other related product as such use is prohibited by State or local law.
 
@@ -48,9 +48,17 @@ In this subchapter:
 
 &emsp;The term "youth" shall have the meaning provided that term by the Administrator, in consultation with the Advisory Commission.
 
-(Pub. L. 100–690, title I, §1023, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 225.)
+(Pub. L. 100–690, title I, §1023, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 225; amended Pub. L. 115–271, title VIII, §8203(b)(2), Oct. 24, 2018, 132 Stat. 4111.)
 
 #### References in Text
 
-Section 812 of this title, referred to in par. (9)(A), was in the original "section 112 of the Controlled Substances Act (21 U.S.C. 812)", and was translated as reading "section 202", meaning section 202 of Pub. L. 91–513, to reflect the probable intent of Congress, because Pub. L. 91–513 does not contain a section 112.
+Section 1541 of this title, referred to in par. (2), was repealed by Pub. L. 115–271, title VIII, §8203(b)(5), Oct. 24, 2018, 132 Stat. 4112.
+
+#### Amendments
+
+<b>2018</b>—Par. (9). Pub. L. 115–271, which directed adding par. (9) and striking out former par. (9), which defined "substance abuse", in section 1023 of "chapter 2 of subtitle A of title I of the National Narcotics Leadership Act of 1988", was executed to this section, which is section 1023 of chapter 2 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. The National Narcotics Leadership Act of 1988 is itself subtitle A of title I of Pub. L. 100–690.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

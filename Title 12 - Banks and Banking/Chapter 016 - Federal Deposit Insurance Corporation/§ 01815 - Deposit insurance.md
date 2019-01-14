@@ -52,7 +52,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 (2) After any branch of a foreign bank becomes an insured branch, the bank shall maintain on deposit with the Corporation, or as the Corporation may direct, surety bonds or assets or both, in such amounts and of such types as shall be determined from time to time in accordance with such regulations as the Board of Directors may prescribe. Such regulations may impose differing requirements on the basis of any factors which in the judgment of the Board of Directors are reasonably related to the purpose set forth in paragraph (4).
 
-(3) The Corporation may require of any given bank larger deposits of bonds and assets than required under paragraph (2) of this subsection if, in the judgment of the Corporation, the situation of that bank or any branch thereof is or becomes such that the deposits of bonds and assets otherwise required under this section would not adequately fulfill the purpose set forth in paragraph (4). The imposition of any such additional requirements may be without notice or opportunity for hearing, but the Corporation shall afford an opportunity to any such bank to apply for a reduction or removal of any such additional requirements so imposed.
+(3) The Corporation may require of any given bank larger deposits of bonds and assets than required under paragraph (2) of this subsection if, in the judgment of the Corporation, the situation of that bank or any branch thereof is or becomes such that the deposits of bonds and assets otherwise required under this section would not adequately fulfill the purpose set forth in paragraph (4). The imposition of any such additionalrequirements may be without notice or opportunity for hearing, but the Corporation shall afford an opportunity to any such bank to apply for a reduction or removal of any such additional requirements so imposed.
 
 (4) The purpose of the surety bonds and pledges of assets required under this subsection is to provide protection to the Deposit Insurance Fund against the risks entailed in insuring the domestic deposits of a foreign bank whose activities, assets, and personnel are in large part outside the jurisdiction of the United States. In the implementation of its authority under this subsection, however, the Corporation shall endeavor to avoid imposing requirements on such banks which would unnecessarily place them at a competitive disadvantage in relation to domestically incorporated banks.
 
@@ -220,7 +220,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;(B) 1 depository institution is controlled by another depository institution.
 
-(Sept. 21, 1950, ch. 967, §2\[5\], 64 Stat. 876; Pub. L. 95–369, §6(c)(7), Sept. 17, 1978, 92 Stat. 616; Pub. L. 97–320, title VII, §703(c), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 101–73, title II, §§201(a), 206(a), Aug. 9, 1989, 103 Stat. 187, 195; Pub. L. 102–242, title I, §115(a), title III, §302(e)(1), (2), title V, §501(a), Dec. 19, 1991, 105 Stat. 2249, 2349, 2388; Pub. L. 102–550, title XVI, §§1605(a)(5)(B), 1607(a), Oct. 28, 1992, 106 Stat. 4085, 4089; Pub. L. 102–558, title III, §§303(b)(6)(B), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–204, §9, Dec. 17, 1993, 107 Stat. 2388; Pub. L. 103–325, title III, §319(b), title VI, §602(a)(2), (3), Sept. 23, 1994, 108 Stat. 2225, 2288;Pub. L. 104–208, div. A, title II, §§2201(a), 2702(i), 2704(d)(14)(B)–(E), Sept. 30, 1996, 110 Stat. 3009–403, 3009–483, 3009–491; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(2)–(6), Feb. 15, 2006, 119 Stat. 3610, 3611; Pub. L. 109–351, title VII, §703, Oct. 13, 2006, 120 Stat. 1986.)
+(Sept. 21, 1950, ch. 967, §2\[5\], 64 Stat. 876; Pub. L. 95–369, §6(c)(7), Sept. 17, 1978, 92 Stat. 616; Pub. L. 97–320, title VII, §703(c), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 101–73, title II, §§201(a), 206(a), Aug. 9, 1989, 103 Stat. 187, 195; Pub. L. 102–242, title I, §115(a), title III, §302(e)(1), (2), title V, §501(a), Dec. 19, 1991, 105 Stat. 2249, 2349, 2388; Pub. L. 102–550, title XVI, §§1605(a)(5)(B), 1607(a), Oct. 28, 1992, 106 Stat. 4085, 4089; Pub. L. 102–558, title III, §§303(b)(6)(B), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–204, §9, Dec. 17, 1993, 107 Stat. 2388; Pub. L. 103–325, title III, §319(b), title VI, §602(a)(2), (3), Sept. 23, 1994, 108 Stat. 2225, 2288; Pub. L. 104–208, div. A, title II, §§2201(a), 2702(i), 2704(d)(14)(B)–(E), Sept. 30, 1996, 110 Stat. 3009–403, 3009–483, 3009–491; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(2)–(6), Feb. 15, 2006, 119 Stat. 3610, 3611; Pub. L. 109–351, title VII, §703, Oct. 13, 2006, 120 Stat. 1986.)
 
 #### Prior Provisions
 
@@ -282,7 +282,7 @@ Subsec. (d)(3)(E)(i). Pub. L. 103–325, §319(b)(2)(A), struck out "(and, in th
 
 Subsec. (d)(3)(E)(ii). Pub. L. 103–325, §319(b)(2)(B), struck out "or Board" after "responsible agency".
 
-Subsec. (d)(3)(E)(iv). Pub. L. 103–325, §319(b)(2)(C), struck out ", and the appropriate Federal bankingagency for any depository institution holding company," after "responsible agency", "each" before "such agency determines", and ", and any depository institution holding company which controls such institution," after "resulting depository institution".
+Subsec. (d)(3)(E)(iv). Pub. L. 103–325, §319(b)(2)(C), struck out ", and the appropriate Federal banking agency for any depository institution holding company," after "responsible agency", "each" before "such agency determines", and ", and any depository institution holding company which controls such institution," after "resulting depository institution".
 
 Subsec. (d)(3)(F). Pub. L. 103–325, §319(b)(3), substituted "A Bank" for "The Board may not approve any transaction under subparagraph (A) in which the acquiring, assuming, or resulting depository institution is a Bank" and "may not be the acquiring, assuming, or resulting depository institution in a transaction under subparagraph (A) unless" for "unless the Board determines that".
 
@@ -324,7 +324,7 @@ Subsec. (d)(3)(B)(ii). Pub. L. 102–242, §302(e)(2), as added by Pub. L. 102�
 
 <b>1989</b>—Pub. L. 101–73, §201(a), substituted references to insured depository institutions for references to insured banks wherever appearing.
 
-Subsec. (a). Pub. L. 101–73, §206(a)(1)–(4), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, and substituted "Any" for "Subject to the provisions of this chapter, any", inserted "and State savings association" after "any State nonmember bank" and after "such State nonmember bank", "or savings association" after "such bank", and "or savings association, and in the case of an application by a State savings association, the Corporation shall notify the Director of the Office of Thrift Supervision of the Corporation's approval of such application" after "books of the bank", and added pars. (2) to (7).
+Subsec. (a). Pub. L. 101–73, §206(a)(1)–(4), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, and substituted "Any" for"Subject to the provisions of this chapter, any", inserted "and State savings association" after "any State nonmember bank" and after "such State nonmember bank", "or savings association" after "such bank", and "or savings association, and in the case of an application by a State savings association, the Corporation shall notify the Director of the Office of Thrift Supervision of the Corporation's approval of such application" after "books of the bank", and added pars. (2) to (7).
 
 Subsec. (b)(4). Pub. L. 101–73, §206(a)(5), inserted "and fitness" after "character".
 
@@ -360,7 +360,7 @@ Pub. L. 102–242, title V, §501(b), Dec. 19, 1991, 105 Stat. 2391, provided th
 
 #### Repeal of Duplicative Provisions
 
-Pub. L. 102–558, title III, §305, Oct. 28, 1992, 106 Stat. 4226, provided that: "In the event of the enactment ofH.R. 5334 (An Act to amend and extend certain laws relating to housing and community development, and for other purposes) \[enacted as Pub. L. 102–550\], the following provisions of that Act, and the amendments made by such provisions, are repealed, effective on the date of enactment of this Act \[Oct. 28, 1992\]:
+Pub. L. 102–558, title III, §305, Oct. 28, 1992, 106 Stat. 4226, provided that: "In the event of the enactment of H.R. 5334 (An Act to amend and extend certain laws relating to housing and community development, and for other purposes) \[enacted as Pub. L. 102–550\], the following provisions of that Act, and the amendments made by such provisions, are repealed, effective on the date of enactment of this Act \[Oct. 28, 1992\]:
 
 &emsp;"(1) Section 1603(a)(3) of such Act \[amending section 1817 of this title and enacting provisions set out as a note under section 1817 of this title\].
 
@@ -394,7 +394,7 @@ Pub. L. 101–73, title II, §206(b), Aug. 9, 1989, 103 Stat. 205, provided that
 
 #### Definition of "Commercial Firm"
 
-Pub. L. 111–203, title VI, §602, July 21, 2010, 124 Stat. 1596, provided that: "For purposes of this title \[see Short Title note set out under section 1811 of this title\], a company is a 'commercial firm' if the annual gross revenues derived by the company and all of its affiliates from activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))) and, if applicable, from the ownership or control of one or more insured depository institutions, represent less than 15 percent of the consolidated annual gross revenues of the company."
+Pub. L. 111–203, title VI, §602, July 21, 2010, 124 Stat. 1596, provided that: "For purposes of this title \[see Short Title note set out under section 1811 of this title\], a company is a 'commercial firm' if the annual gross revenues derived by the company and all of its affiliates from activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))) and, if applicable, fromthe ownership or control of one or more insured depository institutions, represent less than 15 percent of the consolidated annual gross revenues of the company."
 
 \[For definitions of terms used in section 602 of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 

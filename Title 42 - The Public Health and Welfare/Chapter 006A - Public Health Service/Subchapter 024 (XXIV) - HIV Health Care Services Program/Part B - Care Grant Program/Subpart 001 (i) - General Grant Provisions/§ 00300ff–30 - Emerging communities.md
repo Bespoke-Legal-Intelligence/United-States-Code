@@ -36,7 +36,7 @@ A State that desires a grant under this section shall, as part of the State appl
 
 #### (d) Definitions of emerging community
 
-For purposes of this section, the term "emerging community" means a metropolitan area (as defined in section 300ff–17 of this title) for which there has been reported to and confirmed by the Director of the Centers for Disease Control and Prevention a cumulative total of at least 500, but fewer than 1,000, cases of AIDS during the most recent period of 5 calendar years for which such data are available.
+For purposes of this section, the term "emerging community" means a metropolitan area (as defined in section 300ff–17 of this title) for which there has been reported to and confirmed by the Director of the Centers for Disease Control and Prevention a cumulative total of at least 500, but fewer than 1,000, cases of AIDS during themost recent period of 5 calendar years for which such data are available.
 
 #### (e) Continued status as emerging community
 

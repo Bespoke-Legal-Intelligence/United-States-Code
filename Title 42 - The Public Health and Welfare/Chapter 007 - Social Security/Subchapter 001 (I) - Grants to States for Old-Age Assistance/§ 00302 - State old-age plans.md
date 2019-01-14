@@ -82,7 +82,7 @@ Subsec. (a)(12), (13). Pub. L. 89–97, §221(a)(3), added pars. (12) and (13).
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–778 amended subsec. (a) generally, inserting provisions relating to plans for medical assistance, and required plans that include old-age assistance to include reasonable standards, consistent with objectives of this subchapter, for determining eligibility for and extent of such assistance.
 
-Subsec. (b). Pub. L. 86–778 amended subsec. (b) generally, substituting "eligibility for assistance under theplan" for "eligibility for old-age assistance under the plan" in opening provisions, struck out provisions from par. (1) which permitted plan to impose an age requirement of as much as 70 years until Jan. 1, 1940, and inserted provisions in par. (2) requiring the Secretary to disapprove any plan, in the case of applicants for medical assistance for the aged, which excludes any individual who resides in the State.
+Subsec. (b). Pub. L. 86–778 amended subsec. (b) generally, substituting "eligibility for assistance under the plan" for "eligibility for old-age assistance under the plan" in opening provisions, struck out provisions from par. (1) which permitted plan to impose an age requirement of as much as 70 years until Jan. 1, 1940, and inserted provisions in par. (2) requiring the Secretary to disapprove any plan, in the case of applicants for medical assistance for the aged, which excludes any individual who resides in the State.
 
 Subsec. (c). Pub. L. 86–778 added subsec. (c).
 

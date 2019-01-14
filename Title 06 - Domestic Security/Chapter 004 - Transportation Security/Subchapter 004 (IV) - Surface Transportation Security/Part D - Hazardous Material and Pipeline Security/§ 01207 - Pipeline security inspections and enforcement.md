@@ -18,7 +18,7 @@ Not later than 18 months after August 3, 2007, the Secretary and the Secretary o
 
 #### (e) Funding
 
-From the amounts appropriated pursuant to section 114(w) of title 49, there shall be made available to the Secretary to carry out this section—
+From the amounts appropriated pursuant to section 114(w) <sup>1</sup> of title 49, there shall be made available to the Secretary to carry out this section—
 
 &emsp;(1) $2,000,000 for fiscal year 2008;
 
@@ -27,4 +27,10 @@ From the amounts appropriated pursuant to section 114(w) of title 49, there shal
 &emsp;(3) $2,000,000 for fiscal year 2010.
 
 (Pub. L. 110–53, title XV, §1557, Aug. 3, 2007, 121 Stat. 475.)
+
+#### References in Text
+
+Section 114(w) of title 49, referred to in subsec. (e)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, §1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §312b. Special pay: nuclear career accession bonus
 
-(a)(1) Under regulations prescribed by the Secretary of the Navy, an individual who is selected for officer naval nuclear power training and who executes a written agreement to participate in aprogram of training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants may be paid a bonus not to exceed $30,000 upon acceptance by the Secretary of the written agreement. Upon acceptance of the agreement by the Secretary, the amounts payable upon selection for training and upon completion of training, respectively, as determined under subsection (b), shall become fixed.
+(a)(1) Under regulations prescribed by the Secretary of the Navy, an individual who is selected for officer naval nuclear power training and who executes a written agreement to participate in a program of training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants may be paid a bonus not to exceed $30,000 upon acceptance by the Secretary of the written agreement. Upon acceptance of the agreement by the Secretary, the amounts payable upon selection for training and upon completion of training, respectively, as determined under subsection (b), shall become fixed.
 
 (2) An officer who does not commence or complete satisfactorily the nuclear power training specified in the agreement under paragraph (1) shall be subject to the repayment provisions of section 303a(e) of this title.
 
@@ -74,7 +74,7 @@ Pub. L. 104–106 substituted "September 30, 1997" for "September 30, 1996".
 
 <b>1991</b>—Subsec. (a)(1). Pub. L. 102–25 struck out "of this section" after "subsection (b)".
 
-<b>1990</b>—Subsecs. (c), (d). Pub. L. 101–510 redesignated subsec. (d) as (c) and struck out former subsec. (c)which read as follows: "The Secretary of the Navy shall submit to the Committees on Armed Services of the Senate and House of Representatives an annual report containing data to monitor the effectiveness of the bonus authorized by subsections (a) and (b) of this section."
+<b>1990</b>—Subsecs. (c), (d). Pub. L. 101–510 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: "The Secretary of the Navy shall submit to the Committees on Armed Services of the Senate and House of Representatives an annual report containing data to monitor the effectiveness of the bonus authorized by subsections (a) and (b) of this section."
 
 <b>1989</b>—Subsec. (d). Pub. L. 101–189 substituted "September 30, 1995" for "September 30, 1990".
 

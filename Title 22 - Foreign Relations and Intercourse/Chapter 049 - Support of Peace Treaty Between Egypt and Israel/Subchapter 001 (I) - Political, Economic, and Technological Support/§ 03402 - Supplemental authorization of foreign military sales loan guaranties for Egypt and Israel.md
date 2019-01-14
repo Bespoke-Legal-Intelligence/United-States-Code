@@ -2,7 +2,7 @@
 
 #### (a) Congressional findings; use of Arms Export Control Act procedures
 
-The Congress finds that the legitimate defense interests of Israel and Egypt require a one time extraordinary assistance package due to Israel's phased withdrawal from the Sinai and Egypt's shift from reliance on Soviet weaponry. The authorizations contained in this section do not, however, constitute Congressional approval of the sale of any particular weapons system to either country. These sales will be reviewed under the normal procedures set forth in section 36(b) of the Arms Export Control Act \[22 U.S.C. 2776(b)\].
+The Congress finds that the legitimate defense interests of Israel and Egypt require a one timeextraordinary assistance package due to Israel's phased withdrawal from the Sinai and Egypt's shift from reliance on Soviet weaponry. The authorizations contained in this section do not, however, constitute Congressional approval of the sale of any particular weapons system to either country. These sales will be reviewed under the normal procedures set forth in section 36(b) of the Arms Export Control Act \[22 U.S.C. 2776(b)\].
 
 #### (b) Authorization of appropriation
 
@@ -14,7 +14,7 @@ Funds made available pursuant to subsection (b) of this section may be used only
 
 #### (d) Repayment schedule
 
-Loans guaranteed with funds made available pursuant to subsection (b) of this section shallbe on terms calling for repayment within a period of not less than thirty years, including an initial grace period of ten years on repayment of principal.
+Loans guaranteed with funds made available pursuant to subsection (b) of this section shall be on terms calling for repayment within a period of not less than thirty years, including an initial grace period of ten years on repayment of principal.
 
 #### (e) Modification of terms of guaranteed loans
 

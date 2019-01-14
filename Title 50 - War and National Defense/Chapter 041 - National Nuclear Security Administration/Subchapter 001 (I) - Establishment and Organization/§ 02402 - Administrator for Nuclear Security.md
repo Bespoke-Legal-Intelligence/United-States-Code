@@ -86,6 +86,10 @@ Subsec. (c). Pub. L. 113–66 substituted "section 1702(c) of title 41" for "sec
 
 Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(b)\], added subsec. (e) relating to membership on Joint Nuclear Weapons Council.
 
+#### Effective Date
+
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under section 2401 of this title.
+
 #### Infrastructure Modernization Initiative
 
 Pub. L. 115–91, div. C, title XXXI, §3111(b), Dec. 12, 2017, 131 Stat. 1881, provided that:
@@ -212,7 +216,7 @@ Selection Criteria.—(1) The projects selected for the pilot program shall—
 
 > &emsp;that can support the missions of those laboratories and facilities.
 
-"(2) The Administrator may authorize the provision of Federal funds for a project under this section only if the director of the laboratory or facility managing theproject determines that the project is likely to improve the ability of that laboratory or facility to achieve technical success in meeting nuclear weapons and nuclear nonproliferation missions of the Administration.
+"(2) The Administrator may authorize the provision of Federal funds for a project under this section only if the director of the laboratory or facility managing the project determines that the project is likely to improve the ability of that laboratory or facility to achieve technical success in meeting nuclear weapons and nuclear nonproliferation missions of the Administration.
 
 "(3) The Administrator shall require the director of the laboratory or facility to consider the following criteria in selecting a project to receive Federal funds:
 
@@ -246,7 +250,7 @@ Implementation Plan.—No funds may be allocated for the pilot program until 30 
 
 "(g)
 
-Report on Implementation.—(1) Not later than February 1, 2002, the Administrator shall submit to the congressional defense committees a report on the implementation and management of the pilot program. The report shall take into consideration the results of the pilot program to date and the views of the directors of the participating laboratories and facilities. The report shall include any recommendations the Administrator may have concerning the future of the pilot program.
+Report on Implementation.—(1) Not later than February 1, 2002, the Administrator shall submit to the congressional defense committees a report on the implementation and management of the pilot program.The report shall take into consideration the results of the pilot program to date and the views of the directors of the participating laboratories and facilities. The report shall include any recommendations the Administrator may have concerning the future of the pilot program.
 
 "(2) Not later than 30 days after the date on which the Administrator submits the report required by paragraph (1), the Comptroller General shall submit to the congressional defense committees a report containing the Comptroller General's assessment of that report."
 

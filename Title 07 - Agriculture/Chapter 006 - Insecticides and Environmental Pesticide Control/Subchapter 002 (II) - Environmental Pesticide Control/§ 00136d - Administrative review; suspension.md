@@ -24,7 +24,7 @@ If it appears to the Administrator that a pesticide or its labeling or other mat
 
 #### (1) Order
 
-&emsp;If the Administrator determines that action is necessary to prevent an imminent hazard during the time required for cancellation or change in classification proceedings, the Administrator may, by order, suspend the registration of the pesticide immediately. Except as provided in paragraph (3), no order of suspension may be issued under this subsection unless the Administrator has issued, or at the same time issues, a notice of intention to cancel the registration or change the classification of the pesticide under subsection (b). Except as provided in paragraph (3), the Administrator shall notify the registrant prior to issuing any suspension order. Such notice shall include findings pertaining to the question of "imminent hazard". The registrant shall then have an opportunity, in accordance with the provisions of paragraph (2), for an expedited hearing before the Administrator on the question of whether an imminent hazard exists.
+&emsp;If the Administrator determines that action is necessary to prevent an imminent hazard during the time required for cancellation or change in classification proceedings, the Administrator may, by order, suspend the registration of the pesticide immediately. Except as provided in paragraph (3), no order of suspension may be issued under this subsection unless the Administrator has issued, or at thesame time issues, a notice of intention to cancel the registration or change the classification of the pesticide under subsection (b). Except as provided in paragraph (3), the Administrator shall notify the registrant prior to issuing any suspension order. Such notice shall include findings pertaining to the question of "imminent hazard". The registrant shall then have an opportunity, in accordance with the provisions of paragraph (2), for an expedited hearing before the Administrator on the question of whether an imminent hazard exists.
 
 #### (2) Expedite hearing
 
@@ -54,7 +54,7 @@ In the event a hearing is requested pursuant to subsection (b) or determined upo
 
 &emsp;(A) A registrant may, at any time, request that a pesticide registration of the registrant be canceled or amended to terminate one or more pesticide uses.
 
-&emsp;(B) Before acting on a request under subparagraph (A), the Administrator shall publish in the Federal Register a notice of the receiptof the request and provide for a 30-day period in which the public may comment.
+&emsp;(B) Before acting on a request under subparagraph (A), the Administrator shall publish in the Federal Register a notice of the receipt of the request and provide for a 30-day period in which the public may comment.
 
 &emsp;(C) In the case of a pesticide that is registered for a minor agricultural use, if the Administrator determines that the cancellation or termination of uses would adversely affect the availability of the pesticide for use, the Administrator—
 

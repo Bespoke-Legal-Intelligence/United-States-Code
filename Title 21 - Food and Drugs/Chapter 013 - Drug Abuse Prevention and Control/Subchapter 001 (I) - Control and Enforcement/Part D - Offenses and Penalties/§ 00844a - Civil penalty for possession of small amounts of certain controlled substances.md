@@ -26,7 +26,7 @@ The Attorney General may compromise, modify, or remit, with or without condition
 
 #### (g) Judicial review
 
-If the Attorney General issues an order pursuant to subsection (e) after a hearing described in such subsection, the individual who is the subject of the order may, before the expiration of the 30-day period beginning on the date the order is issued, bring a civil action in the appropriate district court of the United States. In such action, the law and the facts of the violation and the assessment of the civil penalty shall be determined de novo, and shall include the right of a trial by jury, the right to counsel, and the right to confront witnesses. The facts of the violation shall be proved beyond a reasonable doubt.
+If the Attorney General issues an order pursuant to subsection (e) after a hearing described insuch subsection, the individual who is the subject of the order may, before the expiration of the 30-day period beginning on the date the order is issued, bring a civil action in the appropriate district court of the United States. In such action, the law and the facts of the violation and the assessment of the civil penalty shall be determined de novo, and shall include the right of a trial by jury, the right to counsel, and the right to confront witnesses. The facts of the violation shall be proved beyond a reasonable doubt.
 
 #### (h) Civil action
 
@@ -50,7 +50,7 @@ The Attorney General shall dismiss the proceedings under this section against an
 
 &emsp;(5) the individual agrees to submit to a drug test, and such test shows the individual to be drug free.
 
-> A nonpublic record of a disposition under this subsection shall be retained by the Department of Justice solely for the purpose of determining in any subsequent proceeding whether the person qualified for a civil penalty or expungement under this section. If a record is expunged under this subsection, an individual concerning whom such an expungement has been made shall not be held thereafter under any provision of law to be guilty of perjury, false swearing, or making a false statement by reason of his failure to reciteor acknowledge a proceeding under this section or the results thereof in response to an inquiry made of him for any purpose.
+> A nonpublic record of a disposition under this subsection shall be retained by the Department of Justice solely for the purpose of determining in any subsequent proceeding whether the person qualified for a civil penalty or expungement under this section. If a record is expunged under this subsection, an individual concerning whom such an expungement has been made shall not be held thereafter under any provision of law to be guilty of perjury, false swearing, or making a false statement by reason of his failure to recite or acknowledge a proceeding under this section or the results thereof in response to an inquiry made of him for any purpose.
 
 (Pub. L. 91–513, title II, §405, formerly Pub. L. 100–690, title VI, §6486, Nov. 18, 1988, 102 Stat. 4384, renumbered §405 of Pub. L. 91–513, and amended Pub. L. 101–647, title X, §1002(g)(1), (2), Nov. 29, 1990, 104 Stat. 4828.)
 

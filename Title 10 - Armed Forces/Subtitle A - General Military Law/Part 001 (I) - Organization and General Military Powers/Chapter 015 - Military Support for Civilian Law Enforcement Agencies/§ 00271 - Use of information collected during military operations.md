@@ -60,7 +60,7 @@ Department of defense report.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than March 31 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committeeson Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report on any assistance provided by the Department of Defense to the border security mission of the Department of Homeland Security at the international borders of the United States during the fiscal year preceding the fiscal year during which the report is submitted.
+In general.—Not later than March 31 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report on any assistance provided by the Department of Defense to the border security mission of the Department of Homeland Security at the international borders of the United States during the fiscal year preceding the fiscal year during which the report is submitted.
 
 &emsp;&emsp;"(B)
 
@@ -128,7 +128,7 @@ Availability of Funds.—During fiscal years 2006 through 2020, funds for drug i
 
 "(c)
 
-Annual Report.—Not later than December 31 of each year in which the authority in subsection (a) is in effect, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report setting forth, for the one-year period ending on the date of such report, the following:
+Annual Report.—Not later than December 31 of each year in which the authority in subsection (a) is in effect, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report setting forth, forthe one-year period ending on the date of such report, the following:
 
 &emsp;"(1) An assessment of the effect on counter-drug, counter-transnational organized crime, and counter-terrorism activities and objectives of using counter-drug funds of a joint task force to provide counter-terrorism or counter-transnational organized crime support authorized by subsection (a).
 

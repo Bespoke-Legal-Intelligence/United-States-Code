@@ -50,7 +50,7 @@ The Special Education Research Commissioner shall ensure that activities assiste
 
 &emsp;(2) are carried out in accordance with the standards for the conduct and evaluation of all research and development established by the National Center for Education Research; and
 
-&emsp;(3) are objective, secular, neutral, and nonideological, and are free of partisan politicalinfluence, and racial, cultural, gender, regional, or disability bias.
+&emsp;(3) are objective, secular, neutral, and nonideological, and are free of partisan political influence, and racial, cultural, gender, regional, or disability bias.
 
 #### (c) Plan
 

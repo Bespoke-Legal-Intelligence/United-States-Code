@@ -24,9 +24,11 @@ Conditions on Leases.—A lease under subsection (a)—
 
 &emsp;(5) may provide, notwithstanding section 1302 of title 40 or any other provision of law, for the alteration, repair, or improvement, by the lessee, of the property leased as the payment of part or all of the consideration for the lease;
 
-&emsp;(6) except as otherwise provided in subsection (d), shall require the lessee to provide the covered entities specified in paragraph (1) of that subsection the right to establish and operate a community support facility or provide community support services, or seek equitable compensation for morale, welfare, and recreation programs of the Department of Defense in lieu of the operation of such a facility or the provision of such services, if the Secretary determines that the lessee will provide merchandise or services in direct competition with covered entities through the lease; and
+&emsp;(6) except as otherwise provided in subsection (d), shall require the lessee to provide the covered entities specified in paragraph (1) of that subsection the right to establish and operate a community support facility or provide community support services, or seek equitable compensation for morale, welfare, and recreation programs of the Department of Defense in lieu of the operation of such a facility or the provision of such services, if the Secretary determines that the lessee will provide merchandise or services in direct competition with covered entities through the lease;
 
-&emsp;(7) may not provide for a leaseback by the Secretary concerned with an annual payment in excess of $500,000, or otherwise commit the Secretary concerned or the Department of Defense to annual payments in excess of such amount.
+&emsp;(7) may not provide for a leaseback by the Secretary concerned with an annual payment in excess of $500,000, or otherwise commit the Secretary concerned or the Department of Defense to annual payments in excess of such amount; and
+
+&emsp;(8) shall provide that any facilities constructed on the property may be constructed using commercial standards in a manner that provides force protection safeguards appropriate to the activities conducted in, and the location of, such facilities.
 
 (c)
 
@@ -50,7 +52,7 @@ Types of In-Kind Consideration.—(1) In addition to any in-kind consideration a
 
 (d)
 
-Community Support Facilities and Community Support Services Under Lease; Waiver.—(1) In this subsection and subsection (b)(6), the term "covered entity" means each of the following:
+Community Support Facilities and Community Support Services Under Lease; Waiver.—(1) In this subsection and subsection (b)(6),the term "covered entity" means each of the following:
 
 &emsp;(A) The Army and Air Force Exchange Service.
 
@@ -120,9 +122,9 @@ Treatment of Lessee Interest in Property.—The interest of a lessee of property
 
 (g)
 
-Special Rules for Base Closure and Realignment Property.—(1) Notwithstanding subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 (to the extent those provisions are inconsistent with this subsection) or subsection (a)(2) of this section, pending the final disposition of real property and personal property located at a military installation to be closed or realigned under a base closure law, the Secretary concerned may lease the property to any individual or entity under this subsection if the Secretary determines that such a lease would facilitate State or local economic adjustment efforts.
+Special Rules for Base Closure and Realignment Property.—(1) Notwithstanding subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 (to the extent those provisions are inconsistent with this subsection) or subsection (a)(2) of this section, pending the final disposition of real property and personal property located at a military installation to be closed or realigned under a base closure law, the Secretary concerned may lease the property to any individual or entity under this subsection if theSecretary determines that such a lease would facilitate State or local economic adjustment efforts.
 
-(2) Notwithstanding subsection (b)(4), the Secretary concerned may accept consideration in an amount that is less than the fair marketvalue of the lease interest if the Secretary concerned determines that—
+(2) Notwithstanding subsection (b)(4), the Secretary concerned may accept consideration in an amount that is less than the fair market value of the lease interest if the Secretary concerned determines that—
 
 &emsp;(A) a public interest will be served as a result of the lease; and
 
@@ -190,9 +192,9 @@ Exclusion of Certain Lands.—This section does not apply to oil, mineral, or ph
 
 (k)
 
-Leases for Education.—Notwithstanding subsection (b)(4), the Secretary concerned may accept consideration in an amount that is less than the fair market value of the lease, if the lease is to a local education agency or an elementary or secondary school (as those terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)).
+Leases for Education.—Notwithstanding subsection (b)(4), the Secretary concerned may accept consideration in an amount that is lessthan the fair market value of the lease, if the lease is to a local education agency or an elementary or secondary school (as those terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, §1013, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 107–217, §3(b)(12), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1041(a)(18), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title X, §1043(b)(15), (c)(3), Nov. 24, 2003, 117 Stat. 1611, 1612; Pub. L. 108–178, §4(b)(4), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–364, div. A, title VI, §662, div. B, title XXVIII, §2831, Oct. 17, 2006, 120 Stat. 2263, 2480; Pub. L. 110–181, div. A, title X, §1063(c)(13), div. B, title XXVIII, §2823, Jan. 28, 2008, 122 Stat. 323, 544; Pub. L. 110–417, div. B, title XXVIII, §§2812(a)–(d), (f)(1), 2831, Oct. 14, 2008, 122 Stat. 4725, 4726, 4728, 4732; Pub. L. 111–84, div. A, title X, §1073(a)(26), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–350, §5(b)(44), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 111–383, div. A, title X, §1075(b)(41), div. B, title XXVIII, §§2811(g)–2813(a), Jan. 7, 2011, 124 Stat. 4371, 4463; Pub. L. 112–239, div. B, title XXVII, §2712(c)(2), Jan. 2, 2013, 126 Stat. 2145; Pub. L. 113–66, div. B, title XXVIII, §2812, Dec. 26, 2013, 127 Stat. 1014; Pub. L. 113–291, div. B, title XXVIII, §2811, Dec. 19, 2014, 128 Stat. 3700; Pub. L. 114–92, div. B, title XXVIII, §2814, Nov. 25, 2015, 129 Stat. 1175; Pub. L. 115–91, div. A, title X, §1081(a)(46), (47), div. B, title XXVIII, §§2811(e), 2835, Dec. 12, 2017, 131 Stat. 1596, 1597, 1848, 1859.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, §1013, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 107–217, §3(b)(12), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1041(a)(18), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title X, §1043(b)(15), (c)(3), Nov. 24, 2003, 117 Stat. 1611, 1612; Pub. L. 108–178, §4(b)(4), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–364, div. A, title VI, §662, div. B, title XXVIII, §2831, Oct. 17, 2006, 120 Stat. 2263, 2480; Pub. L. 110–181, div. A, title X, §1063(c)(13), div. B, title XXVIII, §2823, Jan. 28, 2008, 122 Stat. 323, 544; Pub. L. 110–417, div. B, title XXVIII, §§2812(a)–(d), (f)(1), 2831, Oct. 14, 2008, 122 Stat. 4725, 4726, 4728, 4732; Pub. L. 111–84, div. A, title X, §1073(a)(26), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–350, §5(b)(44), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 111–383, div. A, title X, §1075(b)(41), div. B, title XXVIII, §§2811(g)–2813(a), Jan. 7, 2011, 124 Stat. 4371, 4463; Pub. L. 112–239, div. B, title XXVII, §2712(c)(2), Jan. 2, 2013, 126 Stat. 2145; Pub. L. 113–66, div. B, title XXVIII, §2812, Dec. 26, 2013, 127 Stat. 1014; Pub. L. 113–291, div. B, title XXVIII, §2811, Dec. 19, 2014, 128 Stat. 3700; Pub. L. 114–92, div. B, title XXVIII, §2814, Nov. 25, 2015, 129 Stat. 1175; Pub. L. 115–91, div. A, title X, §1081(a)(46), (47), div. B, title XXVIII, §§2811(e), 2835, Dec. 12, 2017, 131 Stat. 1596, 1597, 1848, 1859; Pub. L. 115–232, div. B, title XXVIII, §2802(a), Aug. 13, 2018, 132 Stat. 2261.)
 
 Historical and Revision Notes
 
@@ -280,6 +282,8 @@ The date of the enactment of this paragraph, referred to in subsec. (h)(4)(A)(i)
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b)(8). Pub. L. 115–232 added par. (8).
+
 <b>2017</b>—Subsec. (c)(1)(D). Pub. L. 115–91, §2835, inserted ", which shall prioritize energy resilience in the event of commercial grid outages" after "Secretary concerned".
 
 Subsec. (d)(3). Pub. L. 115–91, §2811(e), substituted "submit, in an electronic medium pursuant to section 480 of this title, to the congressional defense committees a notice" for "provide to the congressional defense committees written notice".
@@ -288,7 +292,7 @@ Subsec. (e)(1)(E). Pub. L. 115–91, §1081(a)(46)(A), substituted "a military m
 
 Subsec. (e)(4). Pub. L. 115–91, §1081(a)(46)(B), substituted "shall be deposited into the Department of Defense Base Closure Account" for "before January 1, 2005, shall be deposited into the account".
 
-Subsec. (e)(5). Pub. L. 115–91, §1081(a)(46)(C), struck out par. (5) which read as follows: "Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law on or after January 1, 2005, shall be deposited into the account established under section 2906A(a) of the DefenseBase Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note)."
+Subsec. (e)(5). Pub. L. 115–91, §1081(a)(46)(C), struck out par. (5) which read as follows: "Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law on or after January 1, 2005, shall be deposited into the account established under section 2906A(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note)."
 
 Subsec. (k). Pub. L. 115–91, §1081(a)(47), substituted "section 8101" for "section 9101".
 
@@ -512,6 +516,10 @@ Subsec. (f). Pub. L. 96–513, §511(92)(D), substituted "the Secretary" for "Th
 
 <b>1975</b>—Subsec. (f). Pub. L. 94–107 added subsec. (f).
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–232, div. B, title XXVIII, §2802(b), Aug. 13, 2018, 132 Stat. 2261, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to leases entered into during fiscal year 2019 or any of the four succeeding fiscal years."
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(13) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
@@ -526,7 +534,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Savings Provision
 
-Amendment by Pub. L. 94–412 not to affect any action taken or proceeding pending at the time of amendment, see section 501(h) of Pub. L. 94–412, set out as a note under section 1601 of Title 50, War and National Defense.
+Amendment by Pub. L. 94–412 not to affect any action taken or proceeding pending at the time of amendment, see section 501(h) of Pub. L. 94–412, set out as a noteunder section 1601 of Title 50, War and National Defense.
 
 #### Temporary Installation Reutilization Authority for Arsenals, Depots, and Plants
 

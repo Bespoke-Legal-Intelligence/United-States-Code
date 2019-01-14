@@ -72,7 +72,7 @@ In this subchapter:
 
 &emsp;The term "elder abuse" means any action against a person who is 50 years of age or older that constitutes the willful—
 
-&emsp;&emsp;(A) infliction of injury, unreasonable confinement, intimidation, or cruel punishmentwith resulting physical harm, pain, or mental anguish; or
+&emsp;&emsp;(A) infliction of injury, unreasonable confinement, intimidation, or cruel punishment with resulting physical harm, pain, or mental anguish; or
 
 &emsp;&emsp;(B) deprivation by a person, including a caregiver, of goods or services with intent to cause physical harm, mental anguish, or mental illness.
 
@@ -116,7 +116,7 @@ In this subchapter:
 
 #### (20) Personally identifying information or personal information
 
-&emsp;The term "personally identifying information" or "personal information" means individually identifying information for or about an individual including information likely to disclose the location of a victim of domestic violence, dating violence, sexual assault, or stalking, regardless of whether the information is encoded, encrypted, hashed, or otherwise protected, including—
+&emsp;The term "personally identifying information" or "personal information" means individually identifying information for or aboutan individual including information likely to disclose the location of a victim of domestic violence, dating violence, sexual assault, or stalking, regardless of whether the information is encoded, encrypted, hashed, or otherwise protected, including—
 
 &emsp;&emsp;(A) a first and last name;
 
@@ -196,7 +196,7 @@ In this subchapter:
 
 #### (33) State sexual assault coalition
 
-&emsp;The term "State sexual assault coalition" means a program determined by the Center for Injury Prevention and Control of the Centers for Disease Control and Prevention under the Public Health Service Act (42 U.S.C. 280b et seq.).
+&emsp;The term "State sexual assault coalition" means a program determined by the Center forInjury Prevention and Control of the Centers for Disease Control and Prevention under the Public Health Service Act (42 U.S.C. 280b et seq.).
 
 #### (34) Territorial domestic violence or sexual assault coalition
 
@@ -378,7 +378,7 @@ In this subchapter:
 
 #### (11) Technical assistance
 
-&emsp;Of the total amounts appropriated under this subchapter, not less than 3 percent and upto 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes of this subchapter to improve the capacity of the grantees, subgrantees, and other entities. If there is a demonstrated history that the Office on Violence Against Women has previously set aside amounts greater than 8 percent for technical assistance and training relating to grant programs authorized under this subchapter, the Office has the authority to continue setting aside amounts greater than 8 percent.
+&emsp;Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes of this subchapter to improve the capacity of the grantees, subgrantees, and other entities. If there is a demonstrated history that the Office on Violence Against Women has previously set aside amounts greater than 8 percent for technical assistance and training relating to grant programs authorized under this subchapter, the Office has the authority to continue setting aside amounts greater than 8 percent.
 
 #### (12) Delivery of legal assistance
 
@@ -448,7 +448,7 @@ In this subchapter:
 
 #### (ii) Definition
 
-&emsp;&emsp;&emsp;In this paragraph, the term "unresolved audit finding" means a finding in the final audit report of the Inspector General of the Department of Justice that the audited grantee has utilized grant funds for an unauthorized expenditure or otherwiseunallowable cost that is not closed or resolved within 12 months from the date when the final audit report is issued.
+&emsp;&emsp;&emsp;In this paragraph, the term "unresolved audit finding" means a finding in the final audit report of the Inspector General of the Department of Justice that the audited grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 12 months from the date when the final audit report is issued.
 
 #### (iii) Mandatory exclusion
 
@@ -484,7 +484,7 @@ In this subchapter:
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;No amounts authorized to be appropriated to the Department of Justice under this Act may be used by the Attorney General, or by any individual or organization awarded discretionary funds through a cooperative agreement under this Act, to host or support any expenditure for conferences that uses more than $20,000 in Department funds, unless the Deputy Attorney General or such Assistant Attorney Generals, Directors, or principal deputies as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
+&emsp;&emsp;&emsp;No amounts authorized to be appropriated to the Department of Justice underthis Act may be used by the Attorney General, or by any individual or organization awarded discretionary funds through a cooperative agreement under this Act, to host or support any expenditure for conferences that uses more than $20,000 in Department funds, unless the Deputy Attorney General or such Assistant Attorney Generals, Directors, or principal deputies as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
 
 #### (ii) Written approval
 
@@ -512,7 +512,7 @@ In this subchapter:
 
 This subchapter, referred to in text, was in the original "this title", meaning title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902, known as the Violence Against Women Act of 1994. For complete classification of title IV to the Code, see Short Title of 1994 Act note set out under section 10101 of this title and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (a)(1), (16), (36)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, seeShort Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (a)(1), (16), (36)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (a)(15), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
@@ -660,7 +660,7 @@ Subsec. (a)(31) to (37). Pub. L. 109–271, §1(e)(2), (3), added par. (31) and 
 
 Subsec. (b)(1). Pub. L. 109–271, §1(f), added par. (1) and struck out former par. (1) which read as follows: "No matching funds shall be required for a grant or subgrant made under this subchapter for any tribe, territory, victim service provider, or any entity that the Attorney General determines has adequately demonstrated financial need."
 
-Subsec. (b)(11). Pub. L. 109–271, §2(e), inserted "Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes of this subchapter to improve the capacity of the grantees, subgrantees, and other entities." before "If there is a demonstrated history".
+Subsec. (b)(11). Pub. L. 109–271, §2(e), inserted "Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes ofthis subchapter to improve the capacity of the grantees, subgrantees, and other entities." before "If there is a demonstrated history".
 
 #### Effective Date of 2013 Amendment
 
@@ -718,7 +718,7 @@ Pub. L. 109–162, title II, §201, Jan. 5, 2006, 119 Stat. 2993, provided that:
 
 &emsp;"(12) Battered immigrant women who attempt to flee abusive relationships may not have access to bilingual shelters or bilingual professionals, and face restrictions on public or financial assistance. They may also lack assistance of a certified interpreter in court, when reporting complaints to the police or a 9–1–1 operator, or even in acquiring information about their rights and the legal system.
 
-&emsp;"(13) More than 500 men and women call the National Domestic Violence Hotline every day to getimmediate, informed, and confidential assistance to help deal with family violence.
+&emsp;"(13) More than 500 men and women call the National Domestic Violence Hotline every day to get immediate, informed, and confidential assistance to help deal with family violence.
 
 &emsp;"(14) The National Domestic Violence Hotline service is available, toll-free, 24 hours a day and 7 days a week, with bilingual staff, access to translators in 150 languages, and a TTY line for the hearing-impaired.
 

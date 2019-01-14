@@ -132,7 +132,7 @@ Eligible Civilian Employment Staffing Agencies.—In consultation with the progr
 
 "(e)
 
-Payment of Staffing Agency Fees.—To encourage employers to employ an eligible member of the Armed Forces under the program if executed under this section, the Secretary of Defense shall pay a participating civilian employment staffing agency a portion of its agency fee (not to exceed 50 percent above the member's hourly wage). Payment of the agency fee will only be made after the member has been employed and paid by the private sector and the hours worked have beenverified by the Secretary. The staffing agency shall be paid on a weekly basis only for hours the member worked, but not to exceed a total of 800 hours.
+Payment of Staffing Agency Fees.—To encourage employers to employ an eligible member of the Armed Forces under the program if executed under this section, the Secretary of Defense shall pay a participating civilian employment staffing agency a portion of its agency fee (not to exceed 50 percent above the member's hourly wage). Payment of the agency fee will only be made after the member has been employed and paid by the private sector and the hours worked have been verified by the Secretary. The staffing agency shall be paid on a weekly basis only for hours the member worked, but not to exceed a total of 800 hours.
 
 "(f)
 
@@ -160,7 +160,7 @@ Comparison with other programs.—The report shall include a comparison of the r
 
 &emsp;"(3)
 
-Appropriate congressional committees defined.—In this section, the term 'appropriate congressional committees' means the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
+Appropriate congressional committees defined.—In this section, the term 'appropriate congressional committees' means the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Transportationand Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
 
 "(i)
 
@@ -228,7 +228,7 @@ Provision of Assistance.—
 
 &emsp;"(1)
 
-Determination of amount.—The amount of assistance provided under subsection (a) to a member ofthe Armed Forces shall be equal to the anticipated cost of providing services to the member through an upward bound project, subject to the limitation that such amount may not exceed the monthly basic pay to which the member is entitled at the time of the separation of the member. The Secretary of Defense may provide assistance in excess of that limitation if the Secretary determines, on a case by case basis, that such assistance is warranted by the special training needs of the member.
+Determination of amount.—The amount of assistance provided under subsection (a) to a member of the Armed Forces shall be equal to the anticipated cost of providing services to the member through an upward bound project, subject to the limitation that such amount may not exceed the monthly basic pay to which the member is entitled at the time of the separation of the member. The Secretary of Defense may provide assistance in excess of that limitation if the Secretary determines, on a case by case basis, that such assistance is warranted by the special training needs of the member.
 
 &emsp;"(2)
 
@@ -244,7 +244,7 @@ Reimbursement.—Upon submission to the Secretary of Defense of a request for re
 
 "(g)
 
-Funding for Fiscal Year 1993.—Of the amount authorized to be appropriated in section 301 \[106 Stat. 2360\] for Defense Agencies, $5,000,000 shall be available to provide assistance under this section.
+Funding for Fiscal Year 1993.—Of the amount authorized to be appropriated in section 301 \[106 Stat.2360\] for Defense Agencies, $5,000,000 shall be available to provide assistance under this section.
 
 "(h)
 
@@ -306,7 +306,7 @@ State Agencies.—(1) The implementing official may enter into contracts or agre
 
 "(c)
 
-Expeditious Implementation.—A requirement in this subtitle to issue regulations shall not be the basisfor a delay in carrying out this program within the time limit established by subsection (a).
+Expeditious Implementation.—A requirement in this subtitle to issue regulations shall not be the basis for a delay in carrying out this program within the time limit established by subsection (a).
 
 #### "SEC. 4485. ELIGIBILITY FOR PROGRAM; PERIOD OF TRAINING.
 
@@ -540,7 +540,7 @@ Rate of Completion.—(1) If the implementing official determines that the rate 
 
 "(a)
 
-Records.—The records and accounts of employers pertaining to eligible persons on behalf of whom assistance has been paid under this subtitle, as well asother records that the implementing official determines to be necessary to ascertain compliance with the requirements established under this subtitle, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
+Records.—The records and accounts of employers pertaining to eligible persons on behalf of whom assistance has been paid under this subtitle, as well as other records that the implementing official determines to be necessary to ascertain compliance with the requirements established under this subtitle, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
 
 "(b)
 
@@ -560,7 +560,7 @@ Department of Labor.—Functions may be administered under subsections (b) and (
 
 Veterans Education Programs.—(1) Assistance may not be paid under this subtitle to an employer on behalf of an eligible person for any period of time described in paragraph (2) and to such eligible person under chapter 30, 31, 32, 35, or 36 of title 38, United States Code, or chapter 106 of title 10, United States Code, for the same period of time.
 
-"(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the eligible person enters into an approved program of job training of an employer for purposes of assistance under this subtitle and ending on the last date for which such assistance is payable.
+"(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the eligible person enters into an approved program of jobtraining of an employer for purposes of assistance under this subtitle and ending on the last date for which such assistance is payable.
 
 "(b)
 
@@ -632,7 +632,7 @@ Agency Resources.—(1) The Secretary, the Secretary of Veterans Affairs, and th
 
 "(d)
 
-Small Business.—The implementing official shall request and obtain from the Administrator of the Small Business Administration a list of small business concerns and shall, on a regular basis, update such list. Such list shall be used to identify and promote possible training and employment opportunities for eligible persons.
+Small Business.—The implementing official shall request and obtain from the Administrator of the Small Business Administration a list of small businessconcerns and shall, on a regular basis, update such list. Such list shall be used to identify and promote possible training and employment opportunities for eligible persons.
 
 "(e)
 

@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) application of the standard would be adverse to the interests of plan participants in the aggregate,
 
-> &emsp;&emsp;the Secretary may, subject to subparagraph (C), waive the requirements of subsection (a) for such year with respect to all or any portion of the minimum funding standard. The Secretary shall not waive the minimum funding standard with respect to a plan for more than 3 of any 15 (5 of any 15 in the case of a multiemployer plan) consecutive plan years <sup>1</sup>
+> &emsp;&emsp;the Secretary may, subject to subparagraph (C), waive the requirements of subsection (a) for such year with respect to all or any portion of the minimum funding standard. The Secretary shall not waive the minimum funding standard with respect to a plan for more than 3 of any 15 (5 of any 15 in the case of a multiemployer plan) consecutive plan years.
 
 #### (B) Effects of waiver
 
@@ -90,7 +90,7 @@
 
 #### (B) Consultation with the Pension Benefit Guaranty Corporation
 
-&emsp;&emsp;Except as provided in subparagraph (C), the Secretary shall, before granting or modifying a waiver under this subsection or an extension under 433(d) <sup>2</sup> with respect to a plan described in subparagraph (A)(i)—
+&emsp;&emsp;Except as provided in subparagraph (C), the Secretary shall, before granting or modifying a waiver under this subsection or an extension under section 433(d) with respect to a plan described in subparagraph (A)(i)—
 
 &emsp;&emsp;&emsp;(i) provide the Pension Benefit Guaranty Corporation with—
 
@@ -164,7 +164,7 @@
 
 &emsp;&emsp;&emsp;(ii) only repeals an amendment described in subsection (d)(2), or
 
-&emsp;&emsp;&emsp;(iii) is required as a condition of qualification under part I of subchapter D,<sup>3</sup> of chapter 1.
+&emsp;&emsp;&emsp;(iii) is required as a condition of qualification under part I of subchapter D of chapter 1.
 
 #### (d) Miscellaneous rules
 
@@ -180,7 +180,7 @@
 
 &emsp;&emsp;(B) does not reduce the accrued benefit of any participant determined as of the beginning of the first plan year to which the amendment applies, and
 
-&emsp;&emsp;(C) does not reduce the accrued benefit of any participant determined as of the time ofadoption except to the extent required by the circumstances,
+&emsp;&emsp;(C) does not reduce the accrued benefit of any participant determined as of the time of adoption except to the extent required by the circumstances,
 
 > &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary notifying him of such amendment and the Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary unless the Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan or a CSEC plan, any extension of the amortization period under section 431(d) or section 433(d)) is unavailable or inadequate.
 
@@ -238,7 +238,7 @@
 
 &emsp;This section applies with respect to a terminated multiemployer plan to which section 4021 of the Employee Retirement Income Security Act of 1974 applies until the last day of the plan year in which the plan terminates (within the meaning of section 4041A(a)(2) of such Act).
 
-(Added Pub. L. 93–406, title II, §1013(a), Sept. 2, 1974, 88 Stat. 914; amended Pub. L. 94–455, title XIX, §§1901(a)(63), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 96–364, title II, §§203, 208(c), Sept. 26, 1980, 94 Stat. 1285, 1289; Pub. L. 98–369, div. A, title IV, §491(d)(25), July 18, 1984, 98 Stat. 850; Pub. L. 99–272, title XI, §§11015(a)(2), (b)(2), 11016(c)(4), Apr. 7, 1986, 100 Stat. 265, 267, 273; Pub. L. 100–203, title IX, §§9301(a), 9303(a), (d)(1), 9304(a)(1), (b)(1), (e)(1), 9305(b)(1), 9306(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), 9307(a)(1), (b)(1), (e)(1), Dec. 22, 1987, 101 Stat. 1330–331, 1330–333, 1330–342 to 1330–344, 1330–348, 1330–351, 1330–352, 1330–354 to 1330–357; Pub. L. 100–647, title II, §2005(a)(2)(A), (d)(1), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §7881(a)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (b)(1)(A), (2)(A), (3)(A), (4)(A), (6)(A), (c)(1), (d)(1)(A), Dec. 19, 1989, 103 Stat. 2435–2439; Pub. L. 103–465, title VII, §§751(a)(1)–(9)(A), (10), 752(a), 753(a), 754(a), 768(a), Dec. 8, 1994, 108 Stat. 5012–5019, 5021–5023, 5040; Pub. L. 105–34, title XV, §1521(a), (c)(1), (3)(A), title XVI, §1604(b)(2)(A), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(a), 661(a), June 7, 2001, 115 Stat. 129, 141; Pub. L. 107–147, title IV, §§405(a), 411(v)(1), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I,§§101(b)(1)–(3), 102(b), 104(b), Apr. 10, 2004, 118 Stat. 597, 598, 601, 606; Pub. L. 109–135, title IV, §412(x)(1), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title I, §111(a), title II, §212(c), title III, §301(b), Aug. 17, 2006, 120 Stat. 820, 917, 919; Pub. L. 110–458, title I, §§101(a)(2), 102(b)(2)(H), Dec. 23, 2008, 122 Stat. 5093, 5103; Pub. L. 113–97, title II, §202(c)(1), (2), Apr. 7, 2014, 128 Stat. 1135.)
+(Added Pub. L. 93–406, title II, §1013(a), Sept. 2, 1974, 88 Stat. 914; amended Pub. L. 94–455, title XIX, §§1901(a)(63), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 96–364, title II, §§203, 208(c), Sept. 26, 1980, 94 Stat. 1285, 1289; Pub. L. 98–369, div. A, title IV, §491(d)(25), July 18, 1984, 98 Stat. 850; Pub. L. 99–272, title XI, §§11015(a)(2), (b)(2), 11016(c)(4), Apr. 7, 1986, 100 Stat. 265, 267, 273; Pub. L. 100–203, title IX, §§9301(a), 9303(a), (d)(1), 9304(a)(1), (b)(1), (e)(1), 9305(b)(1), 9306(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), 9307(a)(1), (b)(1), (e)(1), Dec. 22, 1987, 101 Stat. 1330–331, 1330–333, 1330–342 to 1330–344, 1330–348, 1330–351, 1330–352, 1330–354 to 1330–357; Pub. L. 100–647, title II, §2005(a)(2)(A), (d)(1), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §7881(a)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (b)(1)(A), (2)(A), (3)(A), (4)(A), (6)(A), (c)(1), (d)(1)(A), Dec. 19, 1989, 103 Stat. 2435–2439; Pub. L. 103–465, title VII, §§751(a)(1)–(9)(A), (10), 752(a), 753(a), 754(a), 768(a), Dec. 8, 1994, 108 Stat. 5012–5019, 5021–5023, 5040; Pub. L. 105–34, title XV, §1521(a), (c)(1), (3)(A), title XVI, §1604(b)(2)(A), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(a), 661(a), June 7, 2001, 115 Stat. 129, 141; Pub. L. 107–147, title IV, §§405(a), 411(v)(1), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(b)(1)–(3), 102(b), 104(b), Apr. 10, 2004, 118 Stat. 597, 598, 601, 606; Pub. L. 109–135, title IV, §412(x)(1), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title I, §111(a), title II, §212(c), title III, §301(b), Aug. 17, 2006, 120 Stat. 820, 917, 919; Pub. L. 110–458, title I, §§101(a)(2), 102(b)(2)(H), Dec. 23, 2008, 122 Stat. 5093, 5103; Pub. L. 113–97, title II, §202(c)(1), (2), Apr. 7, 2014, 128 Stat. 1135; Pub. L.115–141, div. U, title IV, §401(a)(83)–(85), Mar. 23, 2018, 132 Stat. 1188.)
 
 #### References in Text
 
@@ -247,6 +247,12 @@ The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)
 The effective date of this section, referred to in subsec. (e)(1), probably means the effective date of Pub. L. 109–280, §111(a), which amended this section. See Effective Date of 2006 Amendment note below.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1)(A). Pub. L. 115–141, §401(a)(83), inserted period at end of concluding provisions.
+
+Subsec. (c)(4)(B). Pub. L. 115–141, §401(a)(84), inserted "section" before "433(d)" in introductory provisions.
+
+Subsec. (c)(7)(B)(iii). Pub. L. 115–141, §401(a)(85), struck out comma after "subchapter D".
 
 <b>2014</b>—Subsec. (a)(2)(A). Pub. L. 113–97, §202(c)(2)(A), substituted "multiemployer plan or a CSEC plan" for "multiemployer plan".
 
@@ -326,7 +332,7 @@ Subsec. (m)(7). Pub. L. 107–147, §405(a)(2), added par. (7).
 
 Subsec. (c)(7)(F). Pub. L. 107–16, §651(a)(2), reenacted heading and introductory provisions without change and amended table generally, substituting present provisions for provisions which had set out applicable percentage of 155 in the case of any plan year beginning in 1999 or 2000, 160 in the case of any plan year beginning in 2001 or 2002, 165 in the case of any plan year beginning in 2003 or 2004, and 170 in the case of any plan year beginning in 2005 and succeeding years.
 
-Subsec. (c)(9). Pub. L. 107–16, §661(a), reenacted heading without change and amended text of par. (9) generally. Prior to amendment, text read as follows: "For purposes of this section, a determination of experiencegains and losses and a valuation of the plan's liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary."
+Subsec. (c)(9). Pub. L. 107–16, §661(a), reenacted heading without change and amended text of par. (9) generally. Prior to amendment, text read as follows: "For purposes of this section, a determination of experience gains and losses and a valuation of the plan's liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary."
 
 <b>1997</b>—Subsec. (b)(2)(E). Pub. L. 105–34, §1521(c)(1), added subpar. (E).
 
@@ -827,10 +833,4 @@ General rule.—In the case of any multiemployer plan (as defined in section 414
 &emsp;"(2)
 
 Limitation.—In the case of a plan which makes an election under paragraph (1), the aggregate of the charges required under such paragraph for a plan year shall not be less than the interest on the unfunded past service liabilities described in clauses (i), (ii), and (iii) of \[former\] section 412(b)(2)(B) of the Internal Revenue Code of 1986."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by "section".</i>
-
-<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

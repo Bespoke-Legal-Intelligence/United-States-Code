@@ -20,13 +20,15 @@
 
 #### (1) In general
 
-&emsp;The Secretary, on the Secretary's own initiative or in response to a petition, may, in accordance with paragraph (2), debar—
+&emsp;The Secretary, on the Secretary's own initiative or in response to a petition, may, in accordance with paragraph (2) or (3), debar—
 
-&emsp;&emsp;(A) a person other than an individual from submitting or assisting in the submission of any abbreviated drug application,
+&emsp;&emsp;(A) a person other than an individual from submitting or assisting in the submission of any abbreviated drug application;
 
-&emsp;&emsp;(B) an individual from providing services in any capacity to a person that has an approved or pending drug product application, or
+&emsp;&emsp;(B) an individual from providing services in any capacity to a person that has an approved or pending drug product application;
 
-&emsp;&emsp;(C) a person from importing an article of food or offering such an article for import into the United States.
+&emsp;&emsp;(C) a person from importing an article of food or offering such an article for import into the United States; or
+
+&emsp;&emsp;(D) a person from importing or offering for import into the United States a drug.
 
 #### (2) Persons subject to permissive debarment; certain drug applications
 
@@ -68,7 +70,7 @@
 
 &emsp;&emsp;(iv) Any high managerial agent whom the Secretary finds—
 
-&emsp;&emsp;&emsp;(I) worked for, or worked as a consultant for, the same person as another individual during the period in which such other individual took actions for which a felony conviction was obtained and which resulted in the debarment under subsection (a)(2), or clause (i), of such other individual,
+&emsp;&emsp;&emsp;(I) worked for, or worked as a consultant for, the same person as another individualduring the period in which such other individual took actions for which a felony conviction was obtained and which resulted in the debarment under subsection (a)(2), or clause (i), of such other individual,
 
 &emsp;&emsp;&emsp;(II) had actual knowledge of the actions described in subclause (I) of such other individual, or took action to avoid such actual knowledge, or failed to take action for the purpose of avoiding such actual knowledge,
 
@@ -78,17 +80,33 @@
 
 > &emsp;&emsp;if the Secretary finds that the type of conduct which served as the basis for such other individual's conviction undermines the process for the regulation of drugs.
 
-#### (3) Persons subject to permissive debarment; food importation
+#### (3) Persons subject to permissive debarment; food or drug importation
 
 &emsp;A person is subject to debarment under paragraph (1)(C) if—
 
-&emsp;&emsp;(A) the person has been convicted of a felony for conduct relating to the importation into the United States of any food; or
+&emsp;&emsp;(A) the person has been convicted of a felony for conduct relating to the importation into the United States of any food;
 
-&emsp;&emsp;(B) the person has engaged in a pattern of importing or offering for import adulterated food that presents a threat of serious adverse health consequences or death to humans or animals.
+&emsp;&emsp;(B) the person has engaged in a pattern of importing or offering for import adulterated food that presents a threat of serious adverse health consequences or death to humans or animals;
+
+&emsp;&emsp;(C) the person has been convicted of a felony for conduct relating to the importation into the United States of any drug or controlled substance (as defined in section 802 of this title);
+
+&emsp;&emsp;(D) the person has engaged in a pattern of importing or offering for import—
+
+&emsp;&emsp;&emsp;(i) controlled substances that are prohibited from importation under section 1401(m) of title 19; or
+
+&emsp;&emsp;&emsp;(ii) adulterated or misbranded drugs that are—
+
+&emsp;&emsp;&emsp;&emsp;(I) not designated in an authorized electronic data interchange system as a product that is regulated by the Secretary; or
+
+&emsp;&emsp;&emsp;&emsp;(II) knowingly or intentionally falsely designated in an authorized electronic data interchange system as a product that is regulated by the Secretary.
 
 #### (4) Stay of certain orders
 
 &emsp;An order of the Secretary under clause (iii) or (iv) of paragraph (2)(B) shall not take effect until 30 days after the order has been issued.
+
+#### (5) Definition
+
+&emsp;For purposes of paragraph (3)(D), the term "pattern of importing or offering for import" means importing or offering for import a drug described in clause (i) or (ii) of paragraph (3)(D) in an amount, frequency, or dosage that is inconsistent with personal or household use by the importer.
 
 #### (c) Debarment period and considerations
 
@@ -178,7 +196,7 @@
 
 #### (A) Application
 
-&emsp;&emsp;Any person that is debarred under subsection (a)(1) (other than a person permanently debarred under subsection (c)(2)(A)(i)) or any individual who is debarred under subsection (a)(2) may apply to the Secretary for special termination of debarment under thissubsection. Any information submitted to the Secretary under this subparagraph does not constitute an amendment or supplement to pending or approved abbreviated drug applications.
+&emsp;&emsp;Any person that is debarred under subsection (a)(1) (other than a person permanently debarred under subsection (c)(2)(A)(i)) or any individual who is debarred under subsection (a)(2) may apply to the Secretary for special termination of debarment under this subsection. Any information submitted to the Secretary under this subparagraph does not constitute an amendment or supplement to pending or approved abbreviated drug applications.
 
 #### (B) Corporations
 
@@ -242,7 +260,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 &emsp;&emsp;Except as provided in subparagraph (B), a denial of approval of an application of a person under paragraph (1) shall be in effect for a period determined by the Secretary but not to exceed 18 months beginning on the date the Secretary finds that the conditions described in subparagraphs (A), (B), and (C) of paragraph (1) exist. The Secretary shall terminate such denial—
 
-&emsp;&emsp;&emsp;(i) if the investigation with respect to which the finding was made does not resultin a criminal charge against such person, if criminal charges have been brought and the charges have been dismissed, or if a judgment of acquittal has been entered, or
+&emsp;&emsp;&emsp;(i) if the investigation with respect to which the finding was made does not result in a criminal charge against such person, if criminal charges have been brought and the charges have been dismissed, or if a judgment of acquittal has been entered, or
 
 &emsp;&emsp;&emsp;(ii) if the Secretary determines that such finding was in error.
 
@@ -302,7 +320,7 @@ The Secretary may not take any action under subsection (a), (b), (c), (d)(3), (g
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), any person that is the subject of an adverse decisionunder subsection (a), (b), (c), (d), (f), (g), or (h) may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary's decision) a petition requesting that the decision be modified or set aside.
+&emsp;Except as provided in paragraph (2), any person that is the subject of an adverse decision under subsection (a), (b), (c), (d), (f), (g), or (h) may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary's decision) a petition requesting that the decision be modified or set aside.
 
 #### (2) Exception
 
@@ -350,13 +368,23 @@ Any application for approval of a drug product shall include—
 
 &emsp;Subsections (c)(3), (d), (e), (i), (j), and (l)(1) apply with respect to a person (other than an individual) or an individual who is debarred under paragraph (1) to the same extent and in the same manner as such subsections apply with respect to a person who is debarred under subsection (a)(1), or an individual who is debarred under subsection (a)(2), respectively.
 
-(June 25, 1938, ch. 675, §306, as added Pub. L. 102–282, §2, May 13, 1992, 106 Stat. 150; amended Pub. L. 105–115, title I, §125(b)(2)(C), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 107–188, title III, §304(a)–(c), June 12, 2002, 116 Stat. 665, 666; Pub. L. 107–250, title II, §203, Oct. 26, 2002, 116 Stat. 1610.)
+(June 25, 1938, ch. 675, §306, as added Pub. L. 102–282, §2, May 13, 1992, 106 Stat. 150; amended Pub. L. 105–115, title I, §125(b)(2)(C), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 107–188, title III, §304(a)–(c), June 12, 2002, 116 Stat. 665, 666; Pub. L. 107–250, title II, §203, Oct. 26, 2002, 116 Stat. 1610; Pub. L. 115–271, title III, §3022(b)(2), Oct. 24, 2018, 132 Stat. 3938.)
 
 #### Prior Provisions
 
 A prior section 306 of act June 25, 1938, was renumbered section 309 and is classified to section 336 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–271, §3022(b)(2)(A)(i), inserted "or (3)" after "paragraph (2)" in introductory provisions.
+
+Subsec. (b)(1)(D). Pub. L. 115–271, §3022(b)(2)(A)(ii)–(v), added subpar. (D).
+
+Subsec. (b)(3). Pub. L. 115–271, §3022(b)(2)(B)(i), inserted "or drug" after "food" in heading.
+
+Subsec. (b)(3)(C), (D). Pub. L. 115–271, §3022(b)(2)(B)(ii)–(iv), added subpars. (C) and (D).
+
+Subsec. (b)(5). Pub. L. 115–271, §3022(b)(2)(C), added par. (5).
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–188, §304(b)(1), substituted "Mandatory debarment; certain drug applications" for "Mandatory debarment" in heading.
 
@@ -388,7 +416,7 @@ Subsec. (m). Pub. L. 107–250 added subsec. (m).
 
 #### Construction
 
-Pub. L. 102–282, §7, May 13, 1992, 106 Stat. 162, provided that: "No amendment made by this Act \[enacting this section and sections 335b and 335c of this title and amending sections 321, 336, 337, and 355 of this title\] shall preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by this Act."
+Pub. L. 102–282, §7, May 13, 1992, 106 Stat. 162, provided that: "No amendment made by this Act \[enacting this section and sections 335b and 335c of this title andamending sections 321, 336, 337, and 355 of this title\] shall preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by this Act."
 
 #### Congressional Findings
 

@@ -86,13 +86,13 @@ Preventing increases in methane concentrations.—Not later than 2 years after t
 
 Natural Sources.—Not later than 2 years after the enactment of this Act \[Nov. 15, 1990\], the Administrator shall prepare and submit to the Congress a report on—
 
-&emsp;"(1) methane emissions from biogenic sources such as (A) tropical, temperate, and subarctic forests, (B) tundra, and (C) freshwater and saltwater wetlands; and
+&emsp;"(1) methane emissions from biogenic sources such as (A) tropical, temperate, and subarctic forests, (B)tundra, and (C) freshwater and saltwater wetlands; and
 
 &emsp;"(2) the changes in methane emissions from biogenic sources that may occur as a result of potential increases in temperatures and atmospheric concentrations of carbon dioxide.
 
 "(e)
 
-Study of Measures To Limit Growth in Methane Concentrations.—Not later than 2 years after the completion of the studies in subsections (b), (c), and (d), the Administrator shall prepare and submit to the Congress a report that presents options outlining measures that could be implemented to stop or reduce the growth in atmospheric concentrations of methane from sources within the United States referred to in paragraphs (1) through (6) of subsection (b). This study shall identify and evaluate the technical options for reducing methane emissions from each of the activities listed in subsection (b), as well as other activities orsources deemed by such agencies to be significant, and shall include an evaluation of costs, technology, safety, energy, and other factors. The study shall be based on the other studies under this section. The study shall also identify programs of the United States and international lending agencies that could be used to induce lesser developed countries to undertake measures that will reduce methane emissions and the resource needs of such programs.
+Study of Measures To Limit Growth in Methane Concentrations.—Not later than 2 years after the completion of the studies in subsections (b), (c), and (d), the Administrator shall prepare and submit to the Congress a report that presents options outlining measures that could be implemented to stop or reduce the growth in atmospheric concentrations of methane from sources within the United States referred to in paragraphs (1) through (6) of subsection (b). This study shall identify and evaluate the technical options for reducing methane emissions from each of the activities listed in subsection (b), as well as other activities or sources deemed by such agencies to be significant, and shall include an evaluation of costs, technology, safety, energy, and other factors. The study shall be based on the other studies under this section. The study shall also identify programs of the United States and international lending agencies that could be used to induce lesser developed countries to undertake measures that will reduce methane emissions and the resource needs of such programs.
 
 "(f)
 

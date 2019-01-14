@@ -12,7 +12,7 @@ All appropriations made to the Energy Research and Development Administration or
 
 &emsp;(B) grants to any organization for purchase or construction of research facilities.
 
-> No such funds shall be used under this subsection for the acquisition of land. Fee title to all such facilities and items of equipment shall be vested in the United States, unless the Administrator or his designee determines in writing that the research, development, and demonstration authorized by such Act would best be implemented by permitting fee title or any other property interest to be vested in an entity other than the United States; but before approving the vesting of such title or interest in such entity, the Administrator shall (i) transmit such determination, together with all pertinent data, to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate and (ii) wait a period of thirty calendar days (not including any day in which either House of Congress is not in session because of adjournment of more than three calendar days to a day certain), unless prior to the expiration of such period each such committee has transmitted to the Administrator written notice to the effect that such committee has no objection to the proposed action.
+> No such funds shall be used under this subsection for the acquisition of land. Fee title to all such facilities and items of equipment shall be vested in the United States, unless the Administrator or his designee determines in writing that the research, development, and demonstration authorized by such Act would best be implemented by permitting fee title or any other property interest to be vested in an entity other than the United States; but before approving the vesting of such title or interest in such entity, the Administrator shall (i) transmit suchdetermination, together with all pertinent data, to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate and (ii) wait a period of thirty calendar days (not including any day in which either House of Congress is not in session because of adjournment of more than three calendar days to a day certain), unless prior to the expiration of such period each such committee has transmitted to the Administrator written notice to the effect that such committee has no objection to the proposed action.
 
 (2) No funds shall be used under paragraph (1) for any facility or major item of equipment, including collateral equipment, if the estimated cost to the Federal Government exceeds $5,000,000 in the case of such a facility or $2,000,000 in the case of such an item of equipment, unless such facility or item has been previously authorized by the appropriate committees of the House of Representatives and the Senate, or the Administrator—
 
@@ -62,7 +62,7 @@ When so specified in appropriation Acts, any moneys received by the Administrati
 
 &emsp;(1) this subsection shall not apply with respect to sums received from disposal of property under the Atomic Energy Community Act of 1955 \[42 U.S.C. 2301 et seq.\] or the Strategic and Critical Materials Stockpiling Act, as amended \[50 U.S.C. 98 et seq.\], or with respect to fees received for tests or investigations under the Act of May 16, 1910, as amended (30 U.S.C. 7); and
 
-&emsp;(2) revenues received by the Administration from the enrichment of uranium shall (when so specified) be retained and used for the specific purpose of offsetting costs incurred bythe Administration in providing uranium enrichment service activities.
+&emsp;(2) revenues received by the Administration from the enrichment of uranium shall (when so specified) be retained and used for the specific purpose of offsetting costs incurred by the Administration in providing uranium enrichment service activities.
 
 #### (i) Requirements respecting transfers of sums appropriated for operating expenses to other Government agencies; merger of transferred sums
 
@@ -126,5 +126,5 @@ Pub. L. 95–238, title II, §209, Feb. 25, 1978, 92 Stat. 76, provided that:
 
 "(2) The term 'research and development' as used in this section, is defined by section 11 x., of the Atomic Energy Act of 1954, as amended (Public Law 83–703, as amended; 42 U.S.C. 2014).
 
-"(3) The term 'common defense and security' means the common defense and security of the United States as used in the Atomic Energy Act of 1954, as amended (Public Law 83–703, as amended) \[section 2011 et seq. of this title\]."
+"(3) The term 'common defense and security' means the common defense and security of the United Statesas used in the Atomic Energy Act of 1954, as amended (Public Law 83–703, as amended) \[section 2011 et seq. of this title\]."
 

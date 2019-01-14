@@ -56,7 +56,7 @@
 | :--- | ---: |
 | [9251\.](Subchapter%20004%20%28IV%29%20-%20General%20Authorities/%C2%A7%2009251%20-%20Suspension%20of%20sanctions%20and%20other%20measures.md) | Suspension of sanctions and other measures. |
 | [9252\.](Subchapter%20004%20%28IV%29%20-%20General%20Authorities/%C2%A7%2009252%20-%20Termination%20of%20sanctions%20and%20other%20measures.md) | Termination of sanctions and other measures. |
-| [9253\.](Subchapter%20004%20%28IV%29%20-%20General%20Authorities/%C2%A7%2009253%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [9253\.](Subchapter%20004%20%28IV%29%20-%20General%20Authorities/%C2%A7%2009253%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93198%2C%20%C2%A79%2C%20July%2020%2C%202018%2C%20132%20Stat.%201525.md) | Repealed. |
 | [9254\.](Subchapter%20004%20%28IV%29%20-%20General%20Authorities/%C2%A7%2009254%20-%20Rulemaking.md) | Rulemaking. |
 | [9255\.](Subchapter%20004%20%28IV%29%20-%20General%20Authorities/%C2%A7%2009255%20-%20Authority%20to%20consolidate%20reports.md) | Authority to consolidate reports. |
 

@@ -146,7 +146,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, upon obtaining, where appropriate, advice on scientific matters fromthe Tobacco Products Scientific Advisory Committee, and after due notice and opportunity for informal hearing for a tobacco product for which an order was issued under subsection (c)(1)(A)(i), issue an order withdrawing the order if the Secretary finds—
+&emsp;The Secretary shall, upon obtaining, where appropriate, advice on scientific matters from the Tobacco Products Scientific Advisory Committee, and after due notice and opportunity for informal hearing for a tobacco product for which an order was issued under subsection (c)(1)(A)(i), issue an order withdrawing the order if the Secretary finds—
 
 &emsp;&emsp;(A) that the continued marketing of such tobacco product no longer is appropriate for the protection of the public health;
 

@@ -18,7 +18,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3), and—
 
 > In the case of a plan providing retirement benefits based on compensation during any period, the normal retirement benefit to which a participant would be entitled shall be determined as if he continued to earn annually the average rate of compensation which he earned during consecutive years of service, not in excess of 10, for which his compensation was the highest. For purposes of this subparagraph, social security benefits and all other relevant factors used to compute benefits shall be treated as remaining constant as of the current year for all years after such current year.
 
-(B) A defined benefit plan satisfies the requirements of this paragraph of a particular plan year if under the plan the accrued benefit payable at the normal retirement age is equal to the normal retirement benefit and the annual rate at which any individual who is or could be a participant can accrue the retirement benefits payable at normal retirement age under the plan for any later plan year is not more than 1331/3 percent of the annual rate at which he can accrue benefits for any plan year beginning on or after such particular plan year and before such later plan year. For purposes of this subparagraph—
+(B) A defined benefit plan satisfies the requirements of this paragraph of a particular plan year if under the plan the accrued benefit payable at the normal retirement age is equal to the normal retirement benefit and the annual rate at which any individual who is or could be a participant can accrue the retirement benefits payable at normal retirement age under theplan for any later plan year is not more than 1331/3 percent of the annual rate at which he can accrue benefits for any plan year beginning on or after such particular plan year and before such later plan year. For purposes of this subparagraph—
 
 &emsp;(i) any amendment to the plan which is in effect for the current year shall be treated as in effect for all other plan years;
 
@@ -84,7 +84,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3), and—
 
 (4)(A) For purposes of determining an employee's accrued benefit, the term "year of participation" means a period of service (beginning at the earliest date on which the employee is a participant in the plan and which is included in a period of service required to be taken into account under section 1052(b) of this title, determined without regard to section 1052(b)(5) of this title) as determined under regulations prescribed by the Secretary which provide for the calculation of such period on any reasonable and consistent basis.
 
-(B) For purposes of this paragraph, except as provided in subparagraph (C), in the case of any employee whose customary employment is less than full time, the calculation of such employee's service on any basis which provides less than a ratable portion of the accrued benefit towhich he would be entitled under the plan if his customary employment were full time shall not be treated as made on a reasonable and consistent basis.
+(B) For purposes of this paragraph, except as provided in subparagraph (C), in the case of any employee whose customary employment is less than full time, the calculation of such employee's service on any basis which provides less than a ratable portion of the accrued benefit to which he would be entitled under the plan if his customary employment were full time shall not be treated as made on a reasonable and consistent basis.
 
 (C) For purposes of this paragraph, in the case of any employee whose service is less than 1,000 hours during any calendar year, plan year or other 12-consecutive-month period designated by the plan (and not prohibited under regulations prescribed by the Secretary) the calculation of his period of service shall not be treated as not made on a reasonable and consistent basis merely because such service is not taken into account.
 
@@ -162,7 +162,7 @@ In general.—The term "applicable plan amendment" means an amendment to a defin
 
 &emsp;&emsp;&emsp;(II)
 
-Special rule for coordinated benefits.—If the benefits of 2 or more defined benefit plans established or maintained byan employer are coordinated in such a manner as to have the effect of the adoption of an amendment described in subclause (I), the sponsor of the defined benefit plan or plans providing for such coordination shall be treated as having adopted such a plan amendment as of the date such coordination begins.
+Special rule for coordinated benefits.—If the benefits of 2 or more defined benefit plans established or maintained by an employer are coordinated in such a manner as to have the effect of the adoption of an amendment described in subclause (I), the sponsor of the defined benefit plan or plans providing for such coordination shall be treated as having adopted such a plan amendment as of the date such coordination begins.
 
 &emsp;&emsp;&emsp;(III)
 
@@ -194,7 +194,7 @@ Indexing permitted.—
 
 &emsp;&emsp;(i)
 
-In general.—A plan shall not be treated as failing to meet the requirements of paragraph (1)(H) solely because the plan provides for indexing of accrued benefits under the plan.
+In general.—A plan shall not be treated as failing to meet the requirements ofparagraph (1)(H) solely because the plan provides for indexing of accrued benefits under the plan.
 
 &emsp;&emsp;(ii)
 
@@ -282,7 +282,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;(B) eliminating an optional form of benefit,
 
-> with respect to benefits attributable to service before the amendment shall be treated as reducing accrued benefits. In the case of a retirement-type subsidy, the preceding sentence shall apply only with respect to a participant who satisfies (either before or after the amendment) the preamendment conditions for the subsidy. The Secretary of the Treasury shall by regulations provide that this paragraph shall not apply to any plan amendment which reduces or eliminates benefits or subsidies which create significant burdens or complexities for the plan and plan participants, unless such amendment adverselyaffects the rights of any participant in a more than de minimis manner. The Secretary of the Treasury may by regulations provide that this subparagraph shall not apply to a plan amendment described in subparagraph (B) (other than a plan amendment having an effect described in subparagraph (A)).
+> with respect to benefits attributable to service before the amendment shall be treated as reducing accrued benefits. In the case of a retirement-type subsidy, the preceding sentence shall apply only with respect to a participant who satisfies (either before or after the amendment) the preamendment conditions for the subsidy. The Secretary of the Treasury shall by regulations provide that this paragraph shall not apply to any plan amendment which reduces or eliminates benefits or subsidies which create significant burdens or complexities for the plan and plan participants, unless such amendment adversely affects the rights of any participant in a more than de minimis manner. The Secretary of the Treasury may by regulations provide that this subparagraph shall not apply to a plan amendment described in subparagraph (B) (other than a plan amendment having an effect described in subparagraph (A)).
 
 (3) For purposes of this subsection, any—
 
@@ -384,7 +384,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;(D) was adopted prior to, or pursuant to a collective bargaining agreement entered into prior to, the date on which the employer became a debtor in a case under title 11 or similar Federal or State law.
 
-(3) This subsection shall apply only to plans (other than multiemployer plans or CSEC plans) covered under section 1321 of this title for which the funding target attainment percentage (as defined in section 1083(d)(2) of this title) is less than 100 percent after taking into account the effect of the amendment.
+(3) This subsection shall apply only to plans (other than multiemployer plans or CSEC plans)covered under section 1321 of this title for which the funding target attainment percentage (as defined in section 1083(d)(2) of this title) is less than 100 percent after taking into account the effect of the amendment.
 
 (4) For purposes of this subsection, the term "employer" has the meaning set forth in section 1082(b)(1) of this title, without regard to section 1082(b)(2) of this title.
 
@@ -528,7 +528,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 #### (1) In general
 
-&emsp;Notwithstanding section 1002(24) of this title, an applicable plan shall not be treated asfailing to meet any requirement of this subchapter, or as failing to have a uniform normal retirement age for purposes of this subchapter, solely because the plan provides for a normal retirement age described in paragraph (2).
+&emsp;Notwithstanding section 1002(24) of this title, an applicable plan shall not be treated as failing to meet any requirement of this subchapter, or as failing to have a uniform normal retirement age for purposes of this subchapter, solely because the plan provides for a normal retirement age described in paragraph (2).
 
 #### (2) Applicable plan
 
@@ -560,7 +560,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;&emsp;<b>For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title.</b>
 
-(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52; Pub. L. 109–280, title I, §108(a)(5)–(8), formerly §107(a)(5)–(8), title V, §502(c)(1), title VII, §701(a)(1), title IX, §901(b)(1), Aug. 17, 2006, 120 Stat. 819, 941, 981, 1029, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(2), (3), Dec. 23, 2008, 122 Stat. 5107; Pub. L. 113–97, title I, §102(b)(4), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–235, div. P, §2(a), Dec. 16, 2014, 128 Stat. 2827.)
+(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX,§9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52; Pub. L. 109–280, title I, §108(a)(5)–(8), formerly §107(a)(5)–(8), title V, §502(c)(1), title VII, §701(a)(1), title IX, §901(b)(1), Aug. 17, 2006, 120 Stat. 819, 941, 981, 1029, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(2), (3), Dec. 23, 2008, 122 Stat. 5107; Pub. L. 113–97, title I, §102(b)(4), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–235, div. P, §2(a), Dec. 16, 2014, 128 Stat. 2827.)
 
 #### References in Text
 
@@ -636,7 +636,7 @@ Subsec. (c)(2)(B). Pub. L. 101–239, §7881(m)(2)(B), inserted heading and amen
 
 "(i) In the case of a defined benefit plan providing an annual benefit in the form of a single life annuity (without ancillary benefits) commencing at normal retirement age, the accrued benefit derived from contributions made by an employee as of any applicable date is the annual benefit equal to the employee's accumulated contributions multiplied by the appropriate conversion factor.
 
-"(ii) For purposes of clause (i), the term 'appropriate conversion factor' means the factor necessary to convert an amount equal to the accumulated contributions to a single life annuity (without ancillary benefits) commencing at normal retirement age and shall be 10 percent for a normal retirement age of 65 years. For other normal retirement ages the conversion factor shall be determined in accordance with regulations prescribed by the Secretary of the Treasury or his delegate."
+"(ii) For purposes of clause (i), the term 'appropriate conversion factor' means the factor necessary to convert an amount equal to the accumulated contributionsto a single life annuity (without ancillary benefits) commencing at normal retirement age and shall be 10 percent for a normal retirement age of 65 years. For other normal retirement ages the conversion factor shall be determined in accordance with regulations prescribed by the Secretary of the Treasury or his delegate."
 
 Subsec. (c)(2)(C)(iii). Pub. L. 101–239, §7881(m)(2)(A), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "interest on the sum of the amounts determined under clauses (i) and (ii) compounded annually at the rate of 120 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of a plan year) from the beginning of the first plan year to which section 1053(a)(2) of this title applies (by reason of the applicable effective date) to the date upon which the employee would attain normal retirement age."
 
@@ -758,7 +758,7 @@ Plan amendments not required until january 1, 1989.—If any amendment made by t
 
 Amendment by section 1113(e)(4)(B) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
-Pub. L. 99–514, title XVIII, §1879(u)(5), formerly §1879(u)(4), Oct. 22, 1986, 100 Stat. 2913, as redesignatedand amended by Pub. L. 101–239, title VII, §7862(b)(1)(A), (B), Dec. 19, 1989, 103 Stat. 2432, provided that:
+Pub. L. 99–514, title XVIII, §1879(u)(5), formerly §1879(u)(4), Oct. 22, 1986, 100 Stat. 2913, as redesignated and amended by Pub. L. 101–239, title VII, §7862(b)(1)(A), (B), Dec. 19, 1989, 103 Stat. 2432, provided that:
 
 "(A)
 
@@ -788,7 +788,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub.L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Plan Amendments Reflecting Amendments by Section 7881(m) of Pub. L. 101–239 Not Treated as Reducing Accrued Benefit
 

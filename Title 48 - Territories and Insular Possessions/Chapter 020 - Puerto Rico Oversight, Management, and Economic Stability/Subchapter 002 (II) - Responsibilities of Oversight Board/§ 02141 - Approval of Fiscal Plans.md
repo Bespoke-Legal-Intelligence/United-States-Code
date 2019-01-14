@@ -40,7 +40,7 @@ As soon as practicable after all of the members and the Chair have been appointe
 
 &emsp;&emsp;(M) ensure that assets, funds, or resources of a territorial instrumentality are not loaned to, transferred to, or otherwise used for the benefit of a covered territory or another covered territorial instrumentality of a covered territory, unless permitted by the constitution of the territory, an approved plan of adjustment under subchapter III, or a Qualifying Modification approved under subchater VI; and
 
-&emsp;&emsp;(N) respect the relative lawful priorities or lawful liens, as may be applicable, in the constitution, other laws, or agreements of a covered territory or covered territorial instrumentality in effect prior to June 30, 2016.
+&emsp;&emsp;(N) respect the relative lawful priorities or lawful liens, as may be applicable, in theconstitution, other laws, or agreements of a covered territory or covered territorial instrumentality in effect prior to June 30, 2016.
 
 #### (2) Term
 

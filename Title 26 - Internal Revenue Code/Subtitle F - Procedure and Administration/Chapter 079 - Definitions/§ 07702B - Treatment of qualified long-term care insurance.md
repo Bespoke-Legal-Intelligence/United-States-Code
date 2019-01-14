@@ -154,7 +154,7 @@ For purposes of this section—
 
 #### (e) Treatment of coverage provided as part of a life insurance or annuity contract
 
-Except as otherwise provided in regulations prescribed by the Secretary, in the case of any long-term care insurance coverage (whether or not qualified) provided by a rider on or as part of a life insurance contract or an annuity contract—
+Except as otherwise provided in regulations prescribed by the Secretary, in the case of any long-term care insurance coverage (whether or not qualified) provided by a rider on or as partof a life insurance contract or an annuity contract—
 
 #### (1) In general
 
@@ -330,7 +330,7 @@ The Social Security Act, referred to in subsec. (b)(1)(B), (2)(B)(i), is act Aug
 
 #### Amendments
 
-<b>2006</b>—Subsec. (e). Pub. L. 109–280, §844(c), amended subsec. (e) generally. Prior to amendment, subsec. (e)related to treatment of coverage provided as part of a life insurance contract.
+<b>2006</b>—Subsec. (e). Pub. L. 109–280, §844(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to treatment of coverage provided as part of a life insurance contract.
 
 Subsec. (e)(1). Pub. L. 109–280, §844(f), substituted "title" for "section".
 

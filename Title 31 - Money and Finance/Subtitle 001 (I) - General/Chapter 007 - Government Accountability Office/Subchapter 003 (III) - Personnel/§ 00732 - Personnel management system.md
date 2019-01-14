@@ -1,6 +1,6 @@
 ### §732. Personnel management system
 
-(a) The Comptroller General shall maintain a personnel management system. The Comptroller General may prescribe a regulation about the system only after notice and opportunity for public comment. A reprisal or threat of reprisal may not be made against an officer or employeeof the Government Accountability Office because of comments on a proposed regulation about the system.
+(a) The Comptroller General shall maintain a personnel management system. The ComptrollerGeneral may prescribe a regulation about the system only after notice and opportunity for public comment. A reprisal or threat of reprisal may not be made against an officer or employee of the Government Accountability Office because of comments on a proposed regulation about the system.
 
 (b) The personnel management system shall—
 
@@ -48,11 +48,11 @@
 
 (d) The personnel management system shall provide—
 
-&emsp;(1) for a system to appraise the performance of officers and employees of the General Accounting Office <sup>2</sup> that meets the requirements of section 4302 of title 5 and in addition includes—
+&emsp;(1) for a system to appraise the performance of officers and employees of the General Accounting Office <sup>2</sup> that meets the requirementsof section 4302 of title 5 and in addition includes—
 
 &emsp;&emsp;(A) a link between the performance management system and the agency's strategic plan;
 
-&emsp;&emsp;(B) adequate training and retraining for supervisors, managers, and employees in theimplementation and operation of the performance management system;
+&emsp;&emsp;(B) adequate training and retraining for supervisors, managers, and employees in the implementation and operation of the performance management system;
 
 &emsp;&emsp;(C) a process for ensuring ongoing performance feedback and dialogue between supervisors, managers, and employees throughout the appraisal period and setting timetables for review;
 
@@ -208,7 +208,7 @@ In the section, the words "officers and" are added for consistency in the revise
 
 In subsection (a), the words "not later than October 1, 1980" and 31:52–5(b) are omitted as executed. The word "maintain" is substituted for "establish by regulation" to omit executed words. The words "for the General Accounting Office (hereinafter referred to as the 'personnel system') which shall meet the requirements of subsections (b) through (h)", and "or any amendment" are omitted as surplus. The words "about the system" are substituted for "thereto" for clarity.
 
-In subsection (b)(1), the words "merit system" are omitted as surplus. In clause (5), the words "of the United States Government" are added for consistency. In clause (6), the words "the principles of" are omitted as surplus.
+In subsection (b)(1), the words "merit system" are omitted as surplus. In clause (5), the words "of theUnited States Government" are added for consistency. In clause (6), the words "the principles of" are omitted as surplus.
 
 In subsection (c)(2), the words "payable . . . under the General Schedule" are omitted as surplus. In clause (4), the words "not more than 100 positions" are substituted for "up to one hundred employees" for consistency. The words "payable . . . grade . . . of the General Schedule" are omitted as surplus. In clause (5), the words "the principles of" are omitted as surplus.
 
@@ -296,7 +296,7 @@ Effective date.—Subject to paragraph (3), the amendment made by paragraph (1) 
 
 "(3)
 
-Savings provisions.—If, before the effective date determined under paragraph (2), specific notice of a reduction-in-force action is given to an individual in accordance with section 1 of chapter 5 of GAO Order 2351.1\(dated February 28, 1996), then, for purposes of determining such individual's rights in connection with such action, the amendment made by paragraph (1) shall be treated as if it had never been enacted."
+Savings provisions.—If, before the effective date determined under paragraph (2), specific notice of a reduction-in-force action is given to an individual in accordance with section 1 of chapter 5 of GAO Order 2351.1 (dated February 28, 1996), then, for purposes of determining such individual's rights in connection with such action, the amendment made by paragraph (1) shall be treated as if it had never been enacted."
 
 Pub. L. 106–303, §3(b)(2), Oct. 13, 2000, 114 Stat. 1068, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 13, 2000\]."
 
@@ -388,7 +388,7 @@ Agency contributions and payment to the fund.—Not later than 9 months after th
 
 "(g)
 
-Exclusive Remedy.—This section constitutes the exclusive remedy that any individuals to whom this section applies (as described in subsection (a)) have for any claim that they are owed any monies denied to them in the form of a pay increase for 2006 or 2007 under section 732(c)(3) of title 31, United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action orother civil proceeding based on the claim of such individuals that they were due money in the form of a pay increase for 2006 or 2007 pursuant to such section 732(c)(3) or any other law."
+Exclusive Remedy.—This section constitutes the exclusive remedy that any individuals to whom this section applies (as described in subsection (a)) have for any claim that they are owed any monies denied to them in the form of a pay increase for 2006 or 2007 undersection 732(c)(3) of title 31, United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action or other civil proceeding based on the claim of such individuals that they were due money in the form of a pay increase for 2006 or 2007 pursuant to such section 732(c)(3) or any other law."
 
 #### Lump-Sum Payment for Certain Performance-Based Compensation
 

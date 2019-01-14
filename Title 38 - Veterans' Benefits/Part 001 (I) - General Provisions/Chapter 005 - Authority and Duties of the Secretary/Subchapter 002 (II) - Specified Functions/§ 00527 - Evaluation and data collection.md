@@ -12,6 +12,18 @@
 
 Provisions similar to those in this section were contained in section 219 of this title prior to repeal by Pub. L. 102–83, §2(a).
 
+#### Education Campaign for Airborne Hazards and Open Burn Pit Registry
+
+Pub. L. 115–232, div. A, title X, §1050, Aug. 13, 2018, 132 Stat. 1962, provided that:
+
+"(a)
+
+Education Campaign.—Beginning not later than one year after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall carry out an annual education campaign to inform individuals who may be eligible to enroll in the Airborne Hazards and Open Burn Pit Registry of such eligibility. Each such campaign shall include at least one electronic method and one physical mailing method to provide such information.
+
+"(b)
+
+Airborne Hazards and Open Burn Pit Registry Defined.—In this section, the term 'Airborne Hazards and Open Burn Pit Registry' means the registry established by the Secretary of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note) \[set out below\]."
+
 #### Coordination by Veterans Health Administration of Efforts To Understand Effects of Burn Pits
 
 Pub. L. 115–91, div. A, title VII, §738, Dec. 12, 2017, 131 Stat. 1446, provided that: "The Under Secretary for Health of the Department of Veterans Affairs, acting through the Office of Public Health of the Veterans Health Administration, shall coordinate efforts related to furthering understanding of burn pits, the effect of burn pits on veterans, and effective treatments relating to such effects, including with respect to research efforts and training of clinical staff on related matters."
@@ -30,7 +42,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 "(b)
 
-Inclusion of Certain Information.—The Secretary of Defense shall include in the information submitted to the Secretary of Veterans Affairs under subsection (a) information on any research and surveillance efforts conducted by the Department of Defense to evaluate the incidence and prevalence of respiratoryillnesses among members of the Armed Forces who were exposed to open burn pits while deployed overseas."
+Inclusion of Certain Information.—The Secretary of Defense shall include in the information submitted to the Secretary of Veterans Affairs under subsection (a) information on any research and surveillance efforts conducted by the Department of Defense to evaluate the incidence and prevalence of respiratory illnesses among members of the Armed Forces who were exposed to open burn pits while deployed overseas."
 
 #### Establishment of Open Burn Pit Registry
 
@@ -160,7 +172,7 @@ Relation to Department of Defense Registry.—The Secretary of Veterans Affairs,
 
 "(f)
 
-Ongoing Outreach to Individuals Listed in Registry.—The Secretary of Veterans Affairs shall, from time to time, notify individuals listed in the Registry of significant developments in research on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
+Ongoing Outreach to Individuals Listed in Registry.—The Secretary of Veterans Affairs shall,from time to time, notify individuals listed in the Registry of significant developments in research on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
 
 #### "SEC. 703. HEALTH EXAMINATIONS AND COUNSELING FOR VETERANS ELIGIBLE FOR INCLUSION IN CERTAIN HEALTH-RELATED REGISTRIES.
 
@@ -242,7 +254,7 @@ Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense join
 
 Report.—(1) The agreement under this section shall require the National Academy of Sciences to submit to the committees and secretaries referred to in paragraph (2) a report on the results of the review carried out under the agreement. Such report shall contain the following:
 
-&emsp;"(A) An assessment of the effectiveness of actions taken by the Secretary of Veterans Affairs and the Secretary of Defense to collect and maintain information that is potentially useful for assessing thehealth consequences of the military service referred to in subsection (a).
+&emsp;"(A) An assessment of the effectiveness of actions taken by the Secretary of Veterans Affairs and the Secretary of Defense to collect and maintain information that is potentially useful for assessing the health consequences of the military service referred to in subsection (a).
 
 &emsp;"(B) Recommendations on means of improving the collection and maintenance of such information.
 
@@ -316,5 +328,5 @@ Outreach.—The head of the department or agency designated under subsection (a)
 
 #### Services for Homeless Veterans
 
-Pub. L. 102–405, title I, §107, Oct. 9, 1992, 106 Stat. 1976, as amended by Pub. L. 103–446, title X, §1002, Nov. 2, 1994, 108 Stat. 4679, required Secretary of Veterans' Affairs and directors of each medical center or benefits office to assess needs of homeless veterans and programs which have been developed to assist homeless veterans, and to replicate programs which have successfully rehabilitated homeless veterans, prior to repeal by Pub. L. 105–114, title II, §202(c)(2), Nov. 21, 1997, 111 Stat. 2287.
+Pub. L. 102–405, title I, §107, Oct. 9, 1992, 106 Stat. 1976, as amended by Pub. L. 103–446, title X, §1002, Nov. 2, 1994, 108 Stat. 4679, required Secretary of Veterans' Affairs and directors of each medical center or benefits office to assess needs of homeless veterans and programs which have been developed to assist homelessveterans, and to replicate programs which have successfully rehabilitated homeless veterans, prior to repeal by Pub. L. 105–114, title II, §202(c)(2), Nov. 21, 1997, 111 Stat. 2287.
 

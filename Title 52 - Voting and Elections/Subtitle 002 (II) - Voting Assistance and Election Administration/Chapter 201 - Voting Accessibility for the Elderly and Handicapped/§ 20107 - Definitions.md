@@ -18,5 +18,9 @@ As used in this chapter, the term—
 
 Section was formerly classified to section 1973ee–6 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### Effective Date
+
+Section applicable with respect to elections taking place after Dec. 31, 1985, see section 9 of Pub. L. 98–435, set out as a note under section 20101 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be "possession".</i>
 

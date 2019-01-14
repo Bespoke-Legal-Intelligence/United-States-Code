@@ -24,7 +24,7 @@ Copies of reports.—
 
 &emsp;&emsp;(A)
 
-In general.—No department, bureau, agency, officer, or employee of the United States (except the Director in carrying out this chapter) may require, for any reason, a copy of any report that has been filed under section 6302(b)(3)(B) or section 6314(b) with the Bureau or retained by an individual respondent.
+In general.—No department, bureau, agency, officer, or employee of the United States (except the Director in carrying out this chapter) may require, for any reason, acopy of any report that has been filed under section 6302(b)(3)(B) or section 6314(b) with the Bureau or retained by an individual respondent.
 
 &emsp;&emsp;(B)
 

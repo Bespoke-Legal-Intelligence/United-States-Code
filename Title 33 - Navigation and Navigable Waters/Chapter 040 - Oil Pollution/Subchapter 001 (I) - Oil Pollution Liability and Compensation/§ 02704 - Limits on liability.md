@@ -36,7 +36,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (2) Treated as facility for excess liability
 
-&emsp;To the extent that removal costs and damages from any incident described in paragraph\(1) exceed the amount for which a responsible party is liable (as that amount may be limited under subsection (a)(1)), the mobile offshore drilling unit is deemed to be an offshore facility. For purposes of applying subsection (a)(3), the amount specified in that subsection shall be reduced by the amount for which the responsible party is liable under paragraph (1).
+&emsp;To the extent that removal costs and damages from any incident described in paragraph (1) exceed the amount for which a responsible party is liable (as that amount may be limited under subsection (a)(1)), the mobile offshore drilling unit is deemed to be an offshore facility. For purposes of applying subsection (a)(3), the amount specified in that subsection shall be reduced by the amount for which the responsible party is liable under paragraph (1).
 
 #### (c) Exceptions
 
@@ -90,7 +90,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (C) Rulemaking proceeding
 
-&emsp;&emsp;If the Secretary determines, based on the results of the study conducted under this <sup>2</sup> subparagraph (A), that the use of deepwater ports in connection with the transportation of oil by vessel results in a lower operational or environmental risk than the use of other ports, the Secretary shall initiate, not later than the 180th day following the date of submission of the report to the Congress under subparagraph (B), a rulemaking proceeding to lower the limits of liability under this section for deepwater ports as the Secretary determines appropriate. The Secretary may establish a limit of liability of less than $350,000,000, but not less than $50,000,000, in accordance with paragraph (1).
+&emsp;&emsp;If the Secretary determines, based on the results of the study conducted under subparagraph (A), that the use of deepwater ports in connection with the transportation of oil by vessel results in a lower operational or environmental risk than the use of other ports, the Secretary shall initiate, not later than the 180th day following the date of submission of the report to the Congress under subparagraph (B), a rulemaking proceeding to lower the limits of liability under this section for deepwater ports as the Secretary determines appropriate. The Secretary may establish a limit of liability of less than $350,000,000, but not less than $50,000,000, in accordance with paragraph (1).
 
 #### (3) Periodic reports
 
@@ -100,15 +100,17 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 &emsp;The President, by regulations issued not later than 3 years after July 11, 2006, and not less than every 3 years thereafter, shall adjust the limits on liability specified in subsection (a) to reflect significant increases in the Consumer Price Index.
 
-(Pub. L. 101–380, title I, §1004, Aug. 18, 1990, 104 Stat. 491; Pub. L. 104–55, §2(d)(1), Nov. 20, 1995, 109 Stat. 546; Pub. L. 105–383, title IV, §406, Nov. 13, 1998, 112 Stat. 3429; Pub. L. 109–241, title VI, §603(a)(1), (2), (b), July 11, 2006, 120 Stat. 553, 554; Pub. L. 111–281, title IX, §903(a)(2), (e)(1), Oct. 15, 2010, 124 Stat. 3010, 3011.)
+(Pub. L. 101–380, title I, §1004, Aug. 18, 1990, 104 Stat. 491; Pub. L. 104–55, §2(d)(1), Nov. 20, 1995, 109 Stat. 546; Pub. L. 105–383, title IV, §406, Nov. 13, 1998, 112 Stat. 3429; Pub. L. 109–241, title VI, §603(a)(1), (2), (b), July 11, 2006, 120 Stat. 553, 554; Pub. L. 111–281, title IX, §903(a)(2), (e)(1), Oct. 15, 2010, 124 Stat. 3010, 3011; Pub. L. 115–232, div. C, title XXXV, §3547(c), Aug. 13, 2018, 132 Stat. 2328.)
 
 #### References in Text
 
-This Act, referred to in subsec. (b)(1), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, knownas the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsec. (b)(1), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The Intervention on the High Seas Act, referred to in subsec. (c)(2)(C), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(2)(C). Pub. L. 115–232 substituted "under subparagraph (A)" for "under this subparagraph (A)".
 
 <b>2010</b>—Subsec. (a)(2). Pub. L. 111–281, §903(e)(1), struck out first comma after "$800,000".
 
@@ -165,6 +167,4 @@ Contents.—The report shall include, at a minimum, the following:
 "(3)
 
 Annual updates.—The Secretary shall provide an update of the report to the Committees referred to in paragraph (1) not later than January 30 of the year following each year in which occurs an oil discharge from a vessel or nonvessel source that results or is likely to result in removal costs and damages (as those terms are defined in section 1001 of the Oil Pollution Act of 1990 (33 U.S.C. 2701)) that exceed liability limits established under section 1004 of the Oil Pollution Act of 1990 (33 U.S.C. 2704)."
-
-<i><sup>2</sup></i><i> So in original. The word "this" probably should not appear.</i>
 

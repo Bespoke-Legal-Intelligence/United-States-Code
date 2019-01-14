@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—An individual entitled to educational assistance under this chapter who is also eligible for educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 or section 510 of title 10, or the provisions of the Hostage Relief Act of 1980 (Public Law 96–449; 5 U.S.C. 5561 note) may not receiveassistance under two or more such programs concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter or provisions to receive educational assistance.
+In General.—An individual entitled to educational assistance under this chapter who is also eligible for educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 or section 510 of title 10, or the provisions of the Hostage Relief Act of 1980 (Public Law 96–449; 5 U.S.C. 5561 note) may not receive assistance under two or more such programs concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter or provisions to receive educational assistance.
 
 (b)
 
@@ -22,7 +22,7 @@ Bar To Concurrent Receipt of Transferred Education Benefits and Marine Gunnery S
 
 (f)
 
-Bar To Receipt of Compensation and Pension and Marine Gunnery Sergeant John David Fry Scholarship Assistance.—The commencement of a program of education under section 3311(b)(9) shall be a bar to the following:
+Bar To Receipt of Compensation and Pension and Marine Gunnery Sergeant JohnDavid Fry Scholarship Assistance.—The commencement of a program of education under section 3311(b)(9) shall be a bar to the following:
 
 &emsp;(1) Subsequent payments of dependency and indemnity compensation or pension based on the death of a parent to an eligible person over the age of 18 years by reason of pursuing a course in an educational institution.
 
@@ -82,5 +82,5 @@ Pub. L. 111–377, title II, §202(c), Jan. 4, 2011, 124 Stat. 4124, provided th
 
 #### Effective Date
 
-Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008Amendment note under section 16163 of Title 10, Armed Forces.
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
 

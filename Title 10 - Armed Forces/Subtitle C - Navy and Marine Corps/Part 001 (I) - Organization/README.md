@@ -2,22 +2,18 @@
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
-| [<b>501.</b>](Chapter%20501%20-%20Definitions/README.md) | <b>Definitions</b> | <b>5001</b> |
-| [<b>503.</b>](Chapter%20503%20-%20Department%20of%20the%20Navy/README.md) | <b>Department of the Navy</b> | <b>5011</b> |
-| [<b>505.</b>](Chapter%20505%20-%20Office%20of%20the%20Chief%20of%20Naval%20Operations/README.md) | <b>Office of the Chief of Naval Operations</b> | <b>5031</b> |
-| [<b>506.</b>](Chapter%20506%20-%20Headquarters%2C%20Marine%20Corps/README.md) | <b>Headquarters, Marine Corps</b> | <b>5041</b> |
-| [<b>507.</b>](Chapter%20507%20-%20Composition%20of%20the%20Department%20of%20the%20Navy/README.md) | <b>Composition of the Department of the Navy</b> | <b>5061</b> |
-| <b>\[509.</b> | <b>Repealed.\]</b> |  |
-| <b>\[511.</b> | <b>Repealed.\]</b> |  |
-| [<b>513.</b>](Chapter%20513%20-%20Bureaus%3B%20Office%20of%20the%20Judge%20Advocate%20General/README.md) | <b>Bureaus; Office of the Judge Advocate General</b> | <b>5131</b> |
-| <b>\[515.</b> | <b>Repealed.\]</b> |  |
-| <b>\[516.</b> | <b>Repealed.\]</b> |  |
-| <b>\[517.</b> | <b>Repealed.\]</b> |  |
-| <b>\[519.</b> | <b>Repealed.\]</b> |  |
+| [<b>801.</b>](Chapter%20801%20-%20Definitions/README.md) | <b>Definitions</b> | <b>8001</b> |
+| [<b>803.</b>](Chapter%20803%20-%20Department%20of%20the%20Navy/README.md) | <b>Department of the Navy</b> | <b>8011</b> |
+| [<b>805.</b>](Chapter%20805%20-%20Office%20of%20the%20Chief%20of%20Naval%20Operations/README.md) | <b>Office of the Chief of Naval Operations</b> | <b>8031</b> |
+| [<b>806.</b>](Chapter%20806%20-%20Headquarters%2C%20Marine%20Corps/README.md) | <b>Headquarters, Marine Corps</b> | <b>8041</b> |
+| [<b>807.</b>](Chapter%20807%20-%20Composition%20of%20the%20Department%20of%20the%20Navy/README.md) | <b>Composition of the Department of the Navy</b> | <b>8061</b> |
+| [<b>809.</b>](Chapter%20809%20-%20Bureaus%3B%20Office%20of%20the%20Judge%20Advocate%20General/README.md) | <b>Bureaus; Office of the Judge Advocate General</b> | <b>8071</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 501 to 513 as 801 to 809 and redesignated section numbers 5001 to 5131 as 8001 to 8071.
 
 <b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1673(a)(2), Oct. 5, 1994, 108 Stat. 3015, struck out item for chapter 519 "Naval Reserve and Marine Corps Reserve".
 
@@ -36,15 +32,9 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Chapter 501 - Definitions](Chapter%20501%20-%20Definitions/README.md)
-- [Chapter 503 - Department of the Navy](Chapter%20503%20-%20Department%20of%20the%20Navy/README.md)
-- [Chapter 505 - Office of the Chief of Naval Operations](Chapter%20505%20-%20Office%20of%20the%20Chief%20of%20Naval%20Operations/README.md)
-- [Chapter 506 - Headquarters, Marine Corps](Chapter%20506%20-%20Headquarters%2C%20Marine%20Corps/README.md)
-- [Chapter 507 - Composition of the Department of the Navy](Chapter%20507%20-%20Composition%20of%20the%20Department%20of%20the%20Navy/README.md)
-- [Chapter 509 - Repealed](Chapter%20509%20-%20Repealed/README.md)
-- [Chapter 511 - Repealed](Chapter%20511%20-%20Repealed/README.md)
-- [Chapter 513 - Bureaus; Office of the Judge Advocate General](Chapter%20513%20-%20Bureaus%3B%20Office%20of%20the%20Judge%20Advocate%20General/README.md)
-- [Chapter 515 - Repealed](Chapter%20515%20-%20Repealed/README.md)
-- [Chapter 516 - Repealed](Chapter%20516%20-%20Repealed/README.md)
-- [Chapter 517 - Repealed](Chapter%20517%20-%20Repealed/README.md)
-- [Chapter 519 - Repealed](Chapter%20519%20-%20Repealed/README.md)
+- [Chapter 801 - Definitions](Chapter%20801%20-%20Definitions/README.md)
+- [Chapter 803 - Department of the Navy](Chapter%20803%20-%20Department%20of%20the%20Navy/README.md)
+- [Chapter 805 - Office of the Chief of Naval Operations](Chapter%20805%20-%20Office%20of%20the%20Chief%20of%20Naval%20Operations/README.md)
+- [Chapter 806 - Headquarters, Marine Corps](Chapter%20806%20-%20Headquarters%2C%20Marine%20Corps/README.md)
+- [Chapter 807 - Composition of the Department of the Navy](Chapter%20807%20-%20Composition%20of%20the%20Department%20of%20the%20Navy/README.md)
+- [Chapter 809 - Bureaus; Office of the Judge Advocate General](Chapter%20809%20-%20Bureaus%3B%20Office%20of%20the%20Judge%20Advocate%20General/README.md)

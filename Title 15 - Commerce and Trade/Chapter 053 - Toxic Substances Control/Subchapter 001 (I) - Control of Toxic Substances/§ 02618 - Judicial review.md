@@ -10,7 +10,7 @@
 
 (ii) The United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction over a civil action filed under this subparagraph.
 
-(2) Copies of any petition filed under paragraph (1)(A) shall be transmitted forthwith to the Administrator and to the Attorney General by the clerk of the court with which such petition was filed. The provisions of section 2112 of title 28 shall apply to the filing of the record of proceedings on which the Administrator based the rule or order being reviewed under this section and to the transfer of proceedings between United States courts of appeals.
+(2) Copies of any petition filed under paragraph (1)(A) shall be transmitted forthwith to the Administrator and to the Attorney General by the clerk of the court with which such petition was filed. The provisions of section 2112 of title 28 shall apply to the filing of the record of proceedings on which the Administrator basedthe rule or order being reviewed under this section and to the transfer of proceedings between United States courts of appeals.
 
 #### (b) Additional submissions and presentations; modifications
 

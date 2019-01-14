@@ -102,7 +102,7 @@ For purposes of this section:
 
 &emsp;An "emergency area" is a geographical area in which, and an "emergency period" is the period during which, there exists—
 
-&emsp;&emsp;(A) an emergency or disaster declared by the President pursuant to the National Emergencies Act \[50 U.S.C. 1601 et seq.\] or the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\]; and
+&emsp;&emsp;(A) an emergency or disaster declared by the President pursuant to the National Emergencies Act \[50 U.S.C. 1601 et seq.\] orthe Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\]; and
 
 &emsp;&emsp;(B) a public health emergency declared by the Secretary pursuant to section 247d of this title.
 
@@ -138,7 +138,7 @@ Subsec. (b)(7). Pub. L. 108–276, §9(2)–(4), added par. (7).
 
 #### Change of Name
 
-References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriatetransition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 #### Effective Date of 2006 Amendment
 

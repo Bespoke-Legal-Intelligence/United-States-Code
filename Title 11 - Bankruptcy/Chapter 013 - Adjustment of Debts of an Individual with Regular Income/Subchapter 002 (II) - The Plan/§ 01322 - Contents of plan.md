@@ -2,7 +2,7 @@
 
 (a) The plan—
 
-&emsp;(1) shall provide for the submission of all or such portion of future earnings or other future income of the debtor to the supervision and control of the trustee as is necessary for the execution of the plan;
+&emsp;(1) shall provide for the submission of all or such portion of future earnings or other futureincome of the debtor to the supervision and control of the trustee as is necessary for the execution of the plan;
 
 &emsp;(2) shall provide for the full payment, in deferred cash payments, of all claims entitled to priority under section 507 of this title, unless the holder of a particular claim agrees to a different treatment of such claim;
 
@@ -30,7 +30,7 @@
 
 &emsp;(9) provide for the vesting of property of the estate, on confirmation of the plan or at a later time, in the debtor or in any other entity;
 
-&emsp;(10) provide for the payment of interest accruing after the date of the filing of the petition on unsecured claims that are nondischargeable under section 1328(a), except that such interest may be paid only to the extent that the debtor has disposable incomeavailable to pay such interest after making provision for full payment of all allowed claims; and
+&emsp;(10) provide for the payment of interest accruing after the date of the filing of the petition on unsecured claims that are nondischargeable under section 1328(a), except that such interest may be paid only to the extent that the debtor has disposable income available to pay such interest after making provision for full payment of all allowed claims; and
 
 &emsp;(11) include any other appropriate provision not inconsistent with this title.
 
@@ -62,7 +62,7 @@
 
 (e) Notwithstanding subsection (b)(2) of this section and sections 506(b) and 1325(a)(5) of this title, if it is proposed in a plan to cure a default, the amount necessary to cure the default, shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 
-(f) A plan may not materially alter the terms of a loan described in section 362(b)(19) and any amounts required to repay such loan shall not constitute "disposable income" under section 1325.
+(f) A plan may not materially alter the terms of a loan described in section 362(b)(19) and anyamounts required to repay such loan shall not constitute "disposable income" under section 1325.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2648; Pub. L. 98–353, title III, §§316, 528, July 10, 1984, 98 Stat. 356, 389; Pub. L. 103–394, title III, §§301, 305(c), Oct. 22, 1994, 108 Stat. 4131, 4134; Pub. L. 109–8, title II, §§213(8), (9), 224(d), title III, §318(1), Apr. 20, 2005, 119 Stat. 53, 65, 93; Pub. L. 111–327, §2(a)(43), Dec. 22, 2010, 124 Stat. 3562.)
 
@@ -136,7 +136,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (d), dollar amount "675" was adjusted to "700" each time it appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (d), dollar amount "700" was adjusted to "750" each time it appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (d), dollar amount "675" was adjusted to "700" each time it appeared.
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (d), dollar amount "625" was adjusted to "675" each time it appeared.
 

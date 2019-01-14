@@ -16,7 +16,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), no person shall import a dog into the United Statesfor purposes of resale unless, as determined by the Secretary, the dog—
+&emsp;Except as provided in paragraph (2), no person shall import a dog into the United States for purposes of resale unless, as determined by the Secretary, the dog—
 
 &emsp;&emsp;(A) is in good health;
 

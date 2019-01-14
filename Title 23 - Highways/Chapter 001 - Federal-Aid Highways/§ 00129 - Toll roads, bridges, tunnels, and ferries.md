@@ -40,7 +40,7 @@ Limitations on use of revenues.—
 
 &emsp;&emsp;(A)
 
-In general.—A public authority with jurisdiction over a toll facility shall ensure that all toll revenues received from operation of the toll facility are used only for—
+In general.—A public authority with jurisdiction over a toll facility shall ensurethat all toll revenues received from operation of the toll facility are used only for—
 
 &emsp;&emsp;&emsp;(i) debt service with respect to the projects on or for which the tolls are authorized, including funding of reasonable reserves and debt service on refinancing;
 
@@ -202,13 +202,13 @@ Toll facility.—The term "toll facility" means a toll highway, bridge, or tunne
 
 &emsp;(B) The Federal share of any proceeds from a disposition referred to in subparagraph (A) shall be used for eligible purposes under this title.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–657, §§5, 8(a), July 14, 1960, 74 Stat. 523, 524; Pub. L. 90–495, §28, Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §§133, 139, Dec. 31, 1970, 84 Stat. 1732, 1736; Pub. L. 92–434, §7, Sept. 26, 1972, 86 Stat. 732; Pub. L. 93–87, title I, §§118, 132, 139, Aug. 13, 1973, 87 Stat. 259, 267, 270; Pub. L. 93–643, §108, Jan. 4, 1975, 88 Stat. 2284; Pub. L. 94–280, title I, §121, May 5, 1976, 90 Stat. 438; Pub. L. 95–599, title I, §120, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 100–17, title I, §120(a), (b), Apr. 2, 1987, 101 Stat. 157, 158; Pub. L. 100–202, §101(l) \[title III, §347(d)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 100–457, title III, §§326, 335, Sept. 30, 1988, 102 Stat. 2150, 2153; Pub. L. 102–240, title I, §1012(a), (c), Dec. 18, 1991, 105 Stat. 1936, 1938; Pub. L. 102–388, title IV, §410, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 104–59, title III, §313(a)–(c), Nov. 28, 1995, 109 Stat. 585, 586; Pub. L. 105–178, title I, §§1106(c)(1)(C), 1207(a), 1211(f), formerly 1211(g), June 9, 1998, 112 Stat. 136, 185, 189; Pub. L. 105–206, title IX, §9003(d)(5), July 22, 1998, 112 Stat. 840; Pub. L. 109–59, title I, §1801(f), Aug. 10, 2005, 119 Stat. 1456; Pub. L. 112–141, div. A, title I, §1512(a), July 6, 2012, 126 Stat. 567; Pub. L. 114–94, div. A, title I, §§1112(c), 1411(a), Dec. 4, 2015, 129 Stat. 1346, 1412.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–657, §§5, 8(a), July 14, 1960, 74 Stat. 523, 524; Pub. L. 90–495, §28, Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §§133, 139, Dec. 31, 1970, 84 Stat. 1732, 1736; Pub. L. 92–434, §7, Sept. 26, 1972, 86 Stat. 732; Pub. L. 93–87, title I, §§118, 132, 139,Aug. 13, 1973, 87 Stat. 259, 267, 270; Pub. L. 93–643, §108, Jan. 4, 1975, 88 Stat. 2284; Pub. L. 94–280, title I, §121, May 5, 1976, 90 Stat. 438; Pub. L. 95–599, title I, §120, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 100–17, title I, §120(a), (b), Apr. 2, 1987, 101 Stat. 157, 158; Pub. L. 100–202, §101(l) \[title III, §347(d)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 100–457, title III, §§326, 335, Sept. 30, 1988, 102 Stat. 2150, 2153; Pub. L. 102–240, title I, §1012(a), (c), Dec. 18, 1991, 105 Stat. 1936, 1938; Pub. L. 102–388, title IV, §410, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 104–59, title III, §313(a)–(c), Nov. 28, 1995, 109 Stat. 585, 586; Pub. L. 105–178, title I, §§1106(c)(1)(C), 1207(a), 1211(f), formerly 1211(g), June 9, 1998, 112 Stat. 136, 185, 189; Pub. L. 105–206, title IX, §9003(d)(5), July 22, 1998, 112 Stat. 840; Pub. L. 109–59, title I, §1801(f), Aug. 10, 2005, 119 Stat. 1456; Pub. L. 112–141, div. A, title I, §1512(a), July 6, 2012, 126 Stat. 567; Pub. L. 114–94, div. A, title I, §§1112(c), 1411(a), Dec. 4, 2015, 129 Stat. 1346, 1412.)
 
 #### References in Text
 
 For the effective date of title I of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (a)(6), see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of this title.
 
-The date of enactment of the MAP–21, referred to in subsec. (a)(8), is deemed to be Oct. 1, 2012, see section3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
+The date of enactment of the MAP–21, referred to in subsec. (a)(8), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
 
 #### Amendments
 
@@ -264,7 +264,7 @@ Subsec. (c)(2). Pub. L. 102–388, §410(2), amended par. (2) generally. Prior t
 
 Subsec. (b). Pub. L. 102–240, §1012(c)(1), (2), redesignated subsec. (f) as (b) and struck out former subsec. (b) which authorized Secretary to approve toll roads, bridges and tunnels as part of Interstate System, authorized expenditure of Federal-aid highway funds on toll roads after they became toll-free, and required agreements between Secretary and State highway departments on construction of Interstate projects to forbid construction of toll roads, but not toll bridges and tunnels, on interstate highway route without official concurrence of Secretary, after June 30, 1968.
 
-Subsec. (c). Pub. L. 102–240, §1012(c), redesignated subsec. (g) as (c), inserted "and ferry terminal facilities" after "boats" in introductory provisions, added par. (3) and struck out former par. (3) which read as follows: "Such ferry shall be publicly owned and operated.", in par. (4), inserted "or other public entity" after "State" and ", debt service, negotiated management fees, and,in the case of a privately operated toll ferry, for a reasonable rate of return" before period at end, and struck out former subsec. (c) which made available funds authorized for expenditure on Federal-aid highway systems for projects approaching toll roads, bridges or tunnels up to point where project had use irrespective of use for toll road, bridge or tunnel.
+Subsec. (c). Pub. L. 102–240, §1012(c), redesignated subsec. (g) as (c), inserted "and ferry terminal facilities" after "boats" in introductory provisions, added par. (3) and struck out former par. (3) which read as follows: "Such ferry shall be publicly owned and operated.", in par. (4), inserted "or other public entity" after "State" and ", debt service, negotiated management fees, and, in the case of a privately operated toll ferry, for a reasonable rate of return" before period at end, and struck out former subsec. (c) which made available funds authorized for expenditure on Federal-aid highway systems for projects approaching toll roads, bridges or tunnels up to point where project had use irrespective of use for toll road, bridge or tunnel.
 
 Subsec. (d). Pub. L. 102–240, §1012(c)(1), (2), redesignated subsec. (j) as (d) and struck out former subsec. (d) which made available funds authorized for expenditure on Interstate System for Interstate System projects approaching toll road and having no other use, if agreement was reached that section of toll road would become free to public upon collection of tolls sufficient to liquidate cost of road and outstanding bonds and cost of maintenance, operation and debt service during period of toll collection, and that there was a reasonably satisfactory alternative free route available to bypass toll section.
 
@@ -326,7 +326,7 @@ Subsec. (e). Pub. L. 86–657, §5(a), added subsec. (e).
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 
@@ -572,7 +572,7 @@ Limitations on use of revenues; audits.—Before the Secretary \[of Transportati
 
 "(7)
 
-Limitation on use of interstate maintenance funds.—During the term of the pilot program, funds apportioned for Interstate maintenance under \[former\] section 104(b)(4) of title 23, United States Code, may notbe used on a facility for which tolls are being collected under the program.
+Limitation on use of interstate maintenance funds.—During the term of the pilot program, funds apportioned for Interstate maintenance under \[former\] section 104(b)(4) of title 23, United States Code, may not be used on a facility for which tolls are being collected under the program.
 
 "(8)
 
@@ -692,7 +692,7 @@ Limitations on use of revenues; audits.—Before the Secretary may permit a Stat
 
 &emsp;&emsp;"(ii) reasonable return on investment of any private person financing the project; and
 
-&emsp;&emsp;"(iii) any costs necessary for the improvement of and the proper operation and maintenance of thetoll facility, including reconstruction, resurfacing, restoration, and rehabilitation of the toll facility; and
+&emsp;&emsp;"(iii) any costs necessary for the improvement of and the proper operation and maintenance of the toll facility, including reconstruction, resurfacing, restoration, and rehabilitation of the toll facility; and
 
 &emsp;"(B) regular audits will be conducted to ensure compliance with subparagraph (A) and the results of such audits will be transmitted to the Secretary.
 
@@ -756,5 +756,5 @@ Pub. L. 95–599, title I, §164, Nov. 6, 1978, 92 Stat. 2721, as amended by Pub
 
 #### Richmond-Petersburg Turnpike
 
-Pub. L. 91–605, title I, §131, Dec. 31, 1970, 84 Stat. 1732, provided that: "The Secretary of Transportation is authorized to amend any agreement heretofore entered into under the provisions of section 129(d) of title 23, United States Code, in order to permit the continuation of tolls on the existing Richmond-Petersburg Turnpike to finance the construction within the existing termini of such turnpike of two lanes thereon in addition to the lanes in existence on the date of enactment of this section \[Dec. 31, 1970\] necessary to meet traffic and highway safety requirements. Any amended agreement entered into for such purposes shall provide assurances that the existing turnpike (including the additional lanes) shall become free to the public upon the collection of tolls sufficient to liquidate all construction costs, and the costs of maintenance, operation, and debt service during the period of toll collections to liquidate such construction costs, but in no event shall tolls be collected after date of maturity of those bonds outstanding on the date of enactment of this section \[Dec. 31, 1970\] issued for construction of such turnpike having the latest maturity date."
+Pub. L. 91–605, title I, §131, Dec. 31, 1970, 84 Stat. 1732, provided that: "The Secretary of Transportation is authorized to amend any agreement heretofore entered into under the provisions of section 129(d) of title 23, United States Code, in order to permit the continuation of tolls on the existing Richmond-Petersburg Turnpike to finance the construction within the existing termini of such turnpike of two lanes thereon in addition to the lanes in existence on the date of enactment of this section \[Dec. 31, 1970\] necessary to meet traffic and highway safety requirements. Any amended agreement entered into for such purposes shall provide assurances that the existing turnpike (including the additional lanes) shall become free to the public upon the collection of tolls sufficient to liquidate all construction costs, and the costs of maintenance, operation, and debt service during the period of toll collections to liquidate such construction costs, but in no event shall tolls be collected after date of maturity ofthose bonds outstanding on the date of enactment of this section \[Dec. 31, 1970\] issued for construction of such turnpike having the latest maturity date."
 

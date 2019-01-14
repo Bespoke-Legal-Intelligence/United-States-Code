@@ -94,7 +94,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Implementation of Subsection (d)
 
-Pub. L. 101–510, div. A, title VI, §618(b), Nov. 5, 1990, 104 Stat. 1579, provided that: "The Secretary of Defense may not implement subsection (d) of section 302c of title 37, United States Code (as added by subsection (a)), unless the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report—
+Pub. L. 101–510, div. A, title VI, §618(b), Nov. 5, 1990, 104 Stat. 1579, provided that: "The Secretary of Defensemay not implement subsection (d) of section 302c of title 37, United States Code (as added by subsection (a)), unless the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report—
 
 &emsp;"(1) justifying the need of the military departments for the authority provided in such subsection; and
 

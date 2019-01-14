@@ -8,7 +8,7 @@ In this subchapter:
 
 #### (2) Immigration benefit application
 
-&emsp;The term "immigration benefit application" means any application or petition to confer, certify, change, adjust, or extend any status granted under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\].
+&emsp;The term "immigration benefit application" means any application or petition to confer,certify, change, adjust, or extend any status granted under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\].
 
 (Pub. L. 106–313, title II, §203, Oct. 17, 2000, 114 Stat. 1263.)
 

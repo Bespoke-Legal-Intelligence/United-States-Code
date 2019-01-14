@@ -28,13 +28,13 @@ As soon as practicable after the acquisition of any land or interest under this 
 
 &emsp;(A) Any lands acquired within the area depicted on the map as being located within Zone B shall be transferred to the Secretary of Agriculture and shall be added to and managed as part of the Rio Grande National Forest.
 
-&emsp;(B) For the purposes of sections 100506(c) and 200306 of title 54, the boundaries of the Rio Grande National Forest, as revised by the transfer of land under paragraph (A), shall be considered to be the boundaries of the national forest.
+&emsp;(B) For the purposes of sections 100506(c) and 200306 of title 54, the boundaries of the Rio Grande National Forest, as revised by the transfer of land under paragraph (A), shall beconsidered to be the boundaries of the national forest.
 
 (Pub. L. 106–530, §8, Nov. 22, 2000, 114 Stat. 2532.)
 
 #### Codification
 
-In subsec. (c)(2)(B), "sections 100506(c) and 200306 of title 54" substituted for "section 7 of the Land andWater Conservation Fund Act of 1965 (16 U.S.C. 460l–9)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+In subsec. (c)(2)(B), "sections 100506(c) and 200306 of title 54" substituted for "section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection (c)".</i>
 

@@ -32,7 +32,7 @@ For purposes of this chapter—
 
 #### (4) 1992 UMWA Benefit Plan
 
-&emsp;The term "1992 UMWA Benefit Plan" means the plan referred to in section 9713A.<sup>1</sup>
+&emsp;The term "1992 UMWA Benefit Plan" means the plan referred to in section 9712.
 
 #### (5) Combined Fund
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (6) Operators of dependent beneficiaries
 
-&emsp;For purposes of this chapter, the signatory operator, last signatory operator, or assigned operator of any eligible beneficiary under this chapter who is a coal industry retiree shall be considered to be the signatory operator, last signatory operator, or assigned operator with respect to any other individual who is an eligible beneficiary under this chapter by reason of a relationship to the retiree.
+&emsp;For purposes of this chapter, the signatory operator, last signatory operator, or assignedoperator of any eligible beneficiary under this chapter who is a coal industry retiree shall be considered to be the signatory operator, last signatory operator, or assigned operator with respect to any other individual who is an eligible beneficiary under this chapter by reason of a relationship to the retiree.
 
 #### (7) Business
 
@@ -136,15 +136,15 @@ For purposes of this section—
 
 For purposes of this chapter, the term "enactment date" means the date of the enactment of this chapter.
 
-(Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3037; amended Pub. L. 109–432, div. C, title II, §211(d), Dec. 20, 2006, 120 Stat. 3023.)
+(Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3037; amended Pub. L. 109–432, div. C, title II, §211(d), Dec. 20, 2006, 120 Stat. 3023; Pub. L. 115–141, div. U, title IV, §401(a)(343), Mar. 23, 2018, 132 Stat. 1200.)
 
 #### References in Text
-
-Section 9713A, referred to in subsec. (a)(4), probably should be a reference to section 9712 which provided for the establishment of the United Mine Workers of America 1992 Benefit Plan, referred to in that section as the "1992 UMWA Benefit Plan". No section 9713A of this title has been enacted.
 
 The date of the enactment of this chapter, referred to in subsec. (d), is the date of the enactment of Pub. L. 102–486, which was approved Oct. 24, 1992.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(4). Pub. L. 115–141 substituted "section 9712" for "section 9713A".
 
 <b>2006</b>—Subsec. (c)(8). Pub. L. 109–432 added par. (8).
 
@@ -173,6 +173,4 @@ Statement of Policy.—It is the policy of this subtitle \[subtitle C (§§19141
 &emsp;"(2) to allow for sufficient operating assets for such plans; and
 
 &emsp;"(3) to provide for the continuation of a privately financed self-sufficient program for the delivery of health care benefits to the beneficiaries of such plans."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

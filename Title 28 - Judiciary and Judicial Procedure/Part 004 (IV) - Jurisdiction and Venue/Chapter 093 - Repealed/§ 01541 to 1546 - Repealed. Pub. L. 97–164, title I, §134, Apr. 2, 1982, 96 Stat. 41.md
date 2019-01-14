@@ -10,7 +10,7 @@ Section 1544, added Pub. L. 89–651, §8(c)(1), Oct. 14, 1966, 80 Stat. 901, ga
 
 Section 1545, added Pub. L. 91–577, title III, §143(a), Dec. 24, 1970, 84 Stat. 1558, gave the Court of Customs and Patent Appeals nonexclusive jurisdiction of appeals under section 71 of the Plant Variety Protection Act, classified to section 2461 of Title 7, Agriculture. See section 1295(a)(8) of this title.
 
-Section 1546, added Pub. L. 96–417, title IV, §402(a), Oct. 10, 1980, 94 Stat. 1740, gave the Court of Customs and Patent Appeals all of the powers in law and in equity of, or conferred by statute upon, a court of appeals of the United States.
+Section 1546, added Pub. L. 96–417, title IV, §402(a), Oct. 10, 1980, 94 Stat. 1740, gave the Court of Customsand Patent Appeals all of the powers in law and in equity of, or conferred by statute upon, a court of appeals of the United States.
 
 #### Effective Date of Repeal
 

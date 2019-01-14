@@ -8,7 +8,7 @@
 
 &emsp;(A) submits to the Secretary an original application for educational assistance under chapter 35 of this title within one year of the date that the Secretary makes the rating decision;
 
-&emsp;(B) claims such educational assistance for pursuit of an approved program of educationduring a period preceding the one-year period ending on the date on which the application was received by the Secretary; and
+&emsp;(B) claims such educational assistance for pursuit of an approved program of education during a period preceding the one-year period ending on the date on which the application was received by the Secretary; and
 
 &emsp;(C) would have been entitled to such educational assistance for such course pursuit if the individual had submitted such an application on the individual's eligibility date.
 

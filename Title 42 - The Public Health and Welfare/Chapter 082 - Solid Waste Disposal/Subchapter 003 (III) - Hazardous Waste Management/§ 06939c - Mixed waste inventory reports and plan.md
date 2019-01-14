@@ -56,7 +56,7 @@
 
 #### (5) Requests for additional information
 
-&emsp;Nothing in this subsection limits or restricts the authority of States or the Administrator to request additional information from the Secretary of Energy.
+&emsp;Nothing in this subsection limits or restricts the authority of States or the Administratorto request additional information from the Secretary of Energy.
 
 #### (b) Plan for development of treatment capacities and technologies
 
@@ -102,7 +102,7 @@
 
 #### (1) Schedule
 
-&emsp;Not later than 6 months after October 6, 1992, the Secretary of Energy shall publish in the Federal Register a schedule for submitting the plans required under subsection (b).
+&emsp;Not later than 6 months after October 6, 1992, the Secretary of Energy shall publish inthe Federal Register a schedule for submitting the plans required under subsection (b).
 
 #### (2) Progress reports
 
@@ -122,7 +122,7 @@
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### GAO Report
 

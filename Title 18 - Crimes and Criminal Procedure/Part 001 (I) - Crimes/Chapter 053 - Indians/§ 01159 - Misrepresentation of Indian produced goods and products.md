@@ -20,7 +20,7 @@ Penalty.—Any person that knowingly violates subsection (a) shall—
 
 &emsp;&emsp;&emsp;(ii) in the case of a person other than an individual, be fined not more than $100,000; and
 
-&emsp;(2) in the case of a subsequent violation by that person, regardless of the amount forwhich any good is offered or displayed for sale or sold—
+&emsp;(2) in the case of a subsequent violation by that person, regardless of the amount for which any good is offered or displayed for sale or sold—
 
 &emsp;&emsp;(A) in the case of an individual, be fined under this title, imprisoned for not more than 15 years, or both; and
 
@@ -46,7 +46,7 @@ Penalty.—Any person that knowingly violates subsection (a) shall—
 
 &emsp;(4) the term "Indian arts and crafts organization" means any legally established arts and crafts marketing organization composed of members of Indian tribes.
 
-(d) In the event that any provision of this section is held invalid, it is the intent of Congress that the remaining provisions of this section shall continue in full force and effect.
+(d) In the event that any provision of this section is held invalid, it is the intent of Congressthat the remaining provisions of this section shall continue in full force and effect.
 
 (June 25, 1948, ch. 645, 62 Stat. 759; Pub. L. 101–644, title I, §104(a), Nov. 29, 1990, 104 Stat. 4663; Pub. L. 111–211, title I, §103, July 29, 2010, 124 Stat. 2260.)
 

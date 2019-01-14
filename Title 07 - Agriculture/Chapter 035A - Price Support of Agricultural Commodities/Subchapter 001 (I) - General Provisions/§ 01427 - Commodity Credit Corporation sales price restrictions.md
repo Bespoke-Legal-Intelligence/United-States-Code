@@ -36,7 +36,7 @@ In determining sales policies for basic agricultural commodities or storable non
 
 #### (5) Upland cotton
 
-&emsp;The Commodity Credit Corporation shall sell upland cotton for unrestricted use at the same price the Corporation sells upland cotton for export, but in no event at less than the amount provided for in paragraph (1).
+&emsp;The Commodity Credit Corporation shall sell upland cotton for unrestricted use at thesame price the Corporation sells upland cotton for export, but in no event at less than the amount provided for in paragraph (1).
 
 #### (d) Nonapplication of sales price restrictions
 
@@ -74,7 +74,7 @@ The foregoing restrictions of this section shall not apply to—
 
 #### (2) Costs
 
-&emsp;Except on a reimbursable basis, the Corporation shall not bear any costs in connection with making the commodity available underthis subsection beyond the cost of the commodities to the Corporation in—
+&emsp;Except on a reimbursable basis, the Corporation shall not bear any costs in connection with making the commodity available under this subsection beyond the cost of the commodities to the Corporation in—
 
 &emsp;&emsp;(A) the storage of the commodity; and
 
@@ -132,7 +132,7 @@ Pub. L. 99–198, §503, temporarily reenacted substantially without change the 
 
 <b>1977</b>—Pub. L. 95–113 temporarily reenacted without change the amendments made in 1970 by section 409 of Pub. L. 91–524 which had established a floor for sales of wheat and feed grains in inventory for unrestricted use at 115 per centum of the current national average loan rate for the commodity adjusted for current market differentials reflecting grade, quality, location, and other value factors, plus reasonable carrying charges, and which had changed the price at which purchases had to be made to offset sales in the interest of the efficient conduct of the Corporation's operations to an amount not exceeding the minimum sales price for the commodity for unrestricted use, and reenacted the amendment made in 1970 by section 603 of Pub. L. 91–524 with regard to the sale of upland cotton by the Corporation with the single change of substituting "at less than 115 per centum of the loan rate for Strict Low Middling one and one-sixteenth inch upland cotton" for "at less than 110 per centum of the loan rate for Middling one-inch upland cotton" in provisions setting the minimum price at which the Corporation shall sell upland cotton for unrestricted use. See Effective and Termination Dates of 1977 Amendment note below.
 
-<b>1970</b>—Pub. L. 91–524 temporarily established a floor for sales of wheat and feed grains in inventory for unrestricted use at 115 per centum of the current national average loan rate for the commodity adjusted for current market differentials reflecting grade, quality, location, and other value factors, plus reasonable carrying charges, changed the price at which purchases must be made to offset sales in the interest of the efficient conduct of the Corporation's operations to an amount not exceeding the minimum sales price for the commodity for unrestricted use, and provided for sale of upland cotton by the Corporation for unrestricted use at the same prices as it sold for export, in no event, however, at less than 110 percent of the loan rate for Middling one-inch cotton (micronaire 3.5 through 4.9) adjusted for such current market differentials reflecting grade, quality, location, and other value factors as deemed appropriate by the Secretary, plus reasonable carrying charges. See Effective and Termination Dates of 1970 Amendment note below.
+<b>1970</b>—Pub. L. 91–524 temporarily established a floor for sales of wheat and feed grains in inventory for unrestricted use at 115 per centum of the current national average loan rate for the commodity adjusted for current market differentials reflecting grade, quality, location, and other value factors, plus reasonable carrying charges, changed the price at which purchases must be made to offset sales in the interest of the efficient conduct of the Corporation's operations to an amount not exceeding the minimum sales price for the commodity for unrestricted use, and provided for sale of upland cotton by the Corporation for unrestricted use at the same prices as it sold for export, in no event, however, at less than 110 percent of the loan rate for Middling one-inch cotton (micronaire 3.5 through 4.9) adjusted for such current market differentials reflecting grade, quality, location, and other value factors asdeemed appropriate by the Secretary, plus reasonable carrying charges. See Effective and Termination Dates of 1970 Amendment note below.
 
 <b>1968</b>—Pub. L. 90–559 extended termination date for sale of upland cotton from July 31, 1970, to July 31, 1971.
 
@@ -260,7 +260,7 @@ Other Commodities.—The Secretary may, at the request of a domestic producer of
 
 #### Emergency Feed Assistance
 
-Pub. L. 98–180, title III, §303, Nov. 29, 1983, 97 Stat. 1151, which authorized Secretary of Agriculture to make damaged corn available to assist eligible farmers and ranchers in areas adversely affected by drought, hot weather, or related disaster to preserve and maintain foundation herds of livestock and poultry, which corn was to be available until Sept. 30, 1984, or date, as determined by the Secretary, on which emergency no longer exists, was repealed by Pub. L. 100–387, title I, §101(b)(5), Aug. 11, 1988, 102 Stat. 932, eff. 15 days after Aug. 11, 1988.
+Pub. L. 98–180, title III, §303, Nov. 29, 1983, 97 Stat. 1151, which authorized Secretary of Agriculture to make damaged corn available to assist eligible farmers and ranchers in areas adversely affected by drought, hot weather, or related disaster to preserve and maintain foundation herds of livestock and poultry, which corn was to be available until Sept. 30, 1984, or date, as determined by the Secretary, on which emergency no longer exists, was repealed by Pub. L. 100–387, title I,§101(b)(5), Aug. 11, 1988, 102 Stat. 932, eff. 15 days after Aug. 11, 1988.
 
 #### Sale of Feed for Livestock in Emergency Areas; Designation of Emergency Area; Conditions; Penalty
 

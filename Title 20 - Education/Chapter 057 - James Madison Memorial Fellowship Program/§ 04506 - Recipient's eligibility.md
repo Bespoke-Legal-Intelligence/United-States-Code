@@ -26,7 +26,7 @@ Each student receiving a Fellowship under this chapter <sup>1</sup> shall enter
 
 #### References in Text
 
-This chapter, referred to in provisions preceding par. (a), was in the original "this Act" and was translated as reading "this title" meaning title VIII of section 101(b) of Pub. L. 99–500 and Pub. L. 99–591 which enacted this chapter, to reflect the probable intent of Congress.
+This chapter, referred to in provisions preceding par. (a), was in the original "this Act" and was translated as reading "this title" meaning title VIII of section101(b) of Pub. L. 99–500 and Pub. L. 99–591 which enacted this chapter, to reflect the probable intent of Congress.
 
 #### Codification
 

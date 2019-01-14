@@ -14,5 +14,5 @@ Section 8 of the Farmer-to-Consumer Direct Marketing Act of 1976, referred to in
 
 #### Prior Provisions
 
-A prior section 1150c, act Dec. 20, 1944, ch. 623, §4, 58 Stat. 837, related to false representations, acceptance of fees, etc., prior to repeal by act June 25, 1948, 645 §21,62 Stat. 862, effective Sept. 1, 1948. See sections 217 and 1026 of Title 18, Crimes and Criminal Procedure.
+A prior section 1150c, act Dec. 20, 1944, ch. 623, §4, 58 Stat. 837, related to false representations, acceptance of fees, etc., prior to repeal by act June 25, 1948, 645 §21, 62 Stat. 862, effective Sept. 1, 1948. See sections 217 and 1026 of Title 18, Crimes and Criminal Procedure.
 

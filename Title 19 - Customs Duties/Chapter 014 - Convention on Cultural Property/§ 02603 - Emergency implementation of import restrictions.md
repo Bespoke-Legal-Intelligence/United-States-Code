@@ -38,5 +38,5 @@ Section effective on the 90th day after Jan. 12, 1983, or on any date which the 
 
 #### Delegation of Functions
 
-For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986,51 F.R. 8475, set out as a note under section 2602 of this title.
+For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, set out as a note under section 2602 of this title.
 

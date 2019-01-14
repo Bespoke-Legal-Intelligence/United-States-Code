@@ -50,7 +50,7 @@ Subsec. (f)(2). Pub. L. 95–105, §109(a)(1)(B), substituted "Assistant Secreta
 
 <b>1972</b>—Subsec. (e). Pub. L. 92–226 added subsec. (e).
 
-<b>1969</b>—Subsec. (d)(2)(A). Pub. L. 91–175, §304(1), inserted provision including the Overseas Private Investment Corporation in Inspector General's reviews and audits, and inserted provision authorizing the conduct of suchreviews and audits for programs under section 290f of this title.
+<b>1969</b>—Subsec. (d)(2)(A). Pub. L. 91–175, §304(1), inserted provision including the Overseas Private Investment Corporation in Inspector General's reviews and audits, and inserted provision authorizing the conduct of such reviews and audits for programs under section 290f of this title.
 
 Subsec. (d)(5), (7). Pub. L. 91–175, §304(2), (3), included section 290f of this title within provisions of this section.
 
@@ -58,7 +58,7 @@ Subsec. (d)(5), (7). Pub. L. 91–175, §304(2), (3), included section 290f of t
 
 <b>1966</b>—Subsec. (d)(8). Pub. L. 89–583 added par. (8).
 
-<b>1965</b>—Subsec. (b). Pub. L. 89–171, §302(b)(1), struck out "paragraph (3) of" before "subsection (a) of this section" the second time it appears and substituted "of one or more of said officers" for "of the officers provided for in paragraphs (1) and (2) of that subsection".
+<b>1965</b>—Subsec. (b). Pub. L. 89–171, §302(b)(1), struck out "paragraph (3) of" before "subsection (a) of this section" the second time it appears and substituted "ofone or more of said officers" for "of the officers provided for in paragraphs (1) and (2) of that subsection".
 
 Subsec. (d)(2)(A), (5), (7). Pub. L. 89–171, §302(b)(2), substituted "the Latin American Development Act, as amended" for "Public Law 86–735".
 

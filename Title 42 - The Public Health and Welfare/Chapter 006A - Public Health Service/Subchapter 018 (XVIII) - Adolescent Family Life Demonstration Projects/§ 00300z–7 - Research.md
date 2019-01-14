@@ -2,7 +2,7 @@
 
 #### (a) Grants and contracts; duration; renewal; amount
 
-(1) The Secretary may make grants and enter into contracts with public agencies or private organizations or institutions of higher education to support the research and dissemination activities described in paragraphs (4), (5), and (6) of section 300z(b) of this title.
+(1) The Secretary may make grants and enter into contracts with public agencies or privateorganizations or institutions of higher education to support the research and dissemination activities described in paragraphs (4), (5), and (6) of section 300z(b) of this title.
 
 (2) The Secretary may make grants or enter into contracts under this section for a period of one year. A grant or contract under this section for a project may be renewed for four additional one-year periods, which need not be consecutive.
 

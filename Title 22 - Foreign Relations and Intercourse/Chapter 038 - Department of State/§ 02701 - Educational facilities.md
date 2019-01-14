@@ -12,7 +12,7 @@ The Foreign Service Buildings Act, 1926, referred to in text, is act May 7, 1926
 
 <b>2016</b>—Pub. L. 114–323 inserted "physical security enhancements and" after "may include".
 
-<b>1998</b>—Pub. L. 105–277 inserted at end "Notwithstanding any other provision of law, where the child of aUnited States citizen employee of an agency of the United States Government who is stationed outside the United States attends an educational facility assisted by the Secretary of State under this section, the head of that agency is authorized to reimburse, or credit with advance payment, the Department of State for funds used in providing assistance to such educational facilities, by grant or otherwise, under this section."
+<b>1998</b>—Pub. L. 105–277 inserted at end "Notwithstanding any other provision of law, where the child of a United States citizen employee of an agency of the United States Government who is stationed outside the United States attends an educational facility assisted by the Secretary of State under this section, the head of that agency is authorized to reimburse, or credit with advance payment, the Department of State for funds used in providing assistance to such educational facilities, by grant or otherwise, under this section."
 
 #### Effective Date
 

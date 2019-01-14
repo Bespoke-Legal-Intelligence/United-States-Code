@@ -10,7 +10,7 @@ Assistance Authorized.—The Secretary of Defense may provide technical and othe
 
 (c)
 
-Financial Commitment of Non-Federal Government Participants.—(1) The total amount of funds provided by the Federal Government for a project conducted under the program may not exceed 50 percent of the total cost of the project. However, the Secretary of Defense may agree to a project in which the totalamount of funds provided by the Federal Government exceeds 50 percent if the Secretary determines the project is particularly meritorious, but the project would not otherwise have sufficient non-Federal funding or in-kind contributions.
+Financial Commitment of Non-Federal Government Participants.—(1) The total amount of funds provided by the Federal Government for a project conducted under the program may not exceed 50 percent of the total cost of the project. However, the Secretary of Defense may agree to a project in which the total amount of funds provided by the Federal Government exceeds 50 percent if the Secretary determines the project is particularly meritorious, but the project would not otherwise have sufficient non-Federal funding or in-kind contributions.
 
 (2) The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a project conducted under the program for the purpose of calculating the share of the project costs that has been or is being undertaken by such participants. In such regulations, the Secretary may authorize a participant that is a small business concern to use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of project activities. Any such funds so used may be considered in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity percentage contribution in the project from non-Federal sources.
 
@@ -64,7 +64,7 @@ Subsec. (e). Pub. L. 103–160, §1317(c), struck out ", except that procedures
 
 #### Dual-Use Science and Technology Program
 
-Pub. L. 105–85, div. A, title II, §203, Nov. 18, 1997, 111 Stat. 1655, as amended by Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that:
+Pub. L. 105–85, div. A, title II, §203, Nov. 18, 1997, 111 Stat. 1655, as amended by Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 115–232, div. A, title VIII, §811(h), Aug. 13, 2018, 132 Stat. 1846, provided that:
 
 "(a)
 
@@ -90,17 +90,7 @@ Goals.—(1) Subject to paragraph (3), it shall be the objective of the Secretar
 
 &emsp;"(B) notifies Congress of the determination and the reasons for the determination.
 
-"(c)
-
-Designation of Official for Dual-Use Programs.—(1) The Secretary of Defense shall designate a senior official in the Office of the Secretary of Defense to carry out responsibilities for dual-use projects under this subsection. The designated official shall report directly to the Under Secretary of Defense for Acquisition, Technology, and Logistics.
-
-"(2) The primary responsibilities of the designated official shall include developing policy and overseeing the establishment of, and adherence to, procedures for ensuring that dual-use projects are initiated and administered effectively and that applicable commercial technologies are integrated into current and future military systems.
-
-"(3) In carrying out the responsibilities, the designated official shall ensure that—
-
-&emsp;"(A) dual-use projects are consistent with the joint warfighting science and technology plan referred to in section 270 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 10 U.S.C. 2501 note); and
-
-&emsp;"(B) the dual-use projects of the military departments and defense agencies of the Department of Defense are coordinated and avoid unnecessary duplication.
+"\[(c) Repealed. Pub. L. 115–232, div. A, title VIII, §811(h), Aug. 13, 2018, 132 Stat. 1846.\]
 
 "(d)
 

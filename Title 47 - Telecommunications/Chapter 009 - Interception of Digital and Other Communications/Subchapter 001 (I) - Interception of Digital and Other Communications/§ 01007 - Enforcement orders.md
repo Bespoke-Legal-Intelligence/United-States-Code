@@ -18,7 +18,7 @@ An order enforcing this subchapter may not—
 
 &emsp;(1) require a telecommunications carrier to meet the Government's <sup>1</sup> demand for interception of communications and acquisition of call-identifying information to any extent in excess of the capacity for which the Attorney General has agreed to reimburse such carrier;
 
-&emsp;(2) require any telecommunications carrier to comply with assistance capability requirement <sup>2</sup> of section 1002 of this title if the Commission has determined (pursuant to section 1008(b)(1) of this title) that compliance is not reasonably achievable, unless the Attorney General has agreed (pursuant to section 1008(b)(2) of this title) to pay the costs described in section 1008(b)(2)(A) of this title; or
+&emsp;(2) require any telecommunications carrier to comply with assistance capability requirement <sup>2</sup> of section 1002 of this title if the Commission has determined (pursuant to section 1008(b)(1) of this title) that compliance is notreasonably achievable, unless the Attorney General has agreed (pursuant to section 1008(b)(2) of this title) to pay the costs described in section 1008(b)(2)(A) of this title; or
 
 &emsp;(3) require a telecommunications carrier to modify, for the purpose of complying with the assistance capability requirements of section 1002 of this title, any equipment, facility, or service deployed on or before January 1, 1995, unless—
 

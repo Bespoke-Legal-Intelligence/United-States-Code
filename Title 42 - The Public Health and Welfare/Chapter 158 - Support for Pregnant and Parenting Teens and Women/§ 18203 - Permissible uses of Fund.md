@@ -112,7 +112,7 @@ A State may use amounts received under a grant under section 18202 of this title
 
 #### (2) Eligibility
 
-&emsp;To be eligible for a grant under paragraph (1), a State Attorney General shall submit anapplication to the designated State agency at such time, in such manner, and containing such information, as specified by the State.
+&emsp;To be eligible for a grant under paragraph (1), a State Attorney General shall submit an application to the designated State agency at such time, in such manner, and containing such information, as specified by the State.
 
 #### (3) Technical assistance and training described
 

@@ -16,7 +16,7 @@ Except as provided in subsection (b), a State may not—
 
 #### (1) In general
 
-&emsp;A State may reduce State aid to a local educational agency that receives a payment under section 7702 or 7703(b) of this title (except the amount calculated in excess of 1.0 under section 7703(a)(2)(B) of this title and, with respect to a local educational agency that receives a payment under section 7703(b)(2) of this title, the amount in excess of the amount that the agency would receive if the agency were deemed to be an agency eligible to receive a payment under section 7703(b)(1) of this title and not section 7703(b)(2) of this title) for any fiscal year if the Secretary determines, and certifies under subsection (c)(3)(A), that the State has in effect a program of State aid that equalizes expenditures for free public education among local educational agencies in the State.
+&emsp;A State may reduce State aid to a local educational agency that receives a payment under section 7702 or 7703(b) of this title (except the amount calculated in excess of 1.0 under section 7703(a)(2)(B) of this title and, with respect to a local educational agency that receives a payment under section 7703(b)(2) of this title, the amount in excess of the amount that the agency would receive if the agency were deemed to be an agency eligible to receive a payment under section 7703(b)(1) of this title and not section 7703(b)(2) of this title) for any fiscal year if the Secretary determines, andcertifies under subsection (c)(3)(A), that the State has in effect a program of State aid that equalizes expenditures for free public education among local educational agencies in the State.
 
 #### (2) Computation
 
@@ -90,7 +90,7 @@ Except as provided in subsection (b), a State may not—
 
 #### (1) In general
 
-&emsp;The Secretary or any aggrieved local educational agency may, not earlier than 150 days after an adverse determination by the Secretary against a State for violation of subsections (a) or (d)(2) or for failure to carry out an assurance under subsection (b)(3)(B), and if an administrative proceeding has not been concluded within such time, bring an action in a United States district court against such State for such violations or failure.
+&emsp;The Secretary or any aggrieved local educational agency may, not earlier than 150 days after an adverse determination by the Secretary against a State for violation of subsections (a) or (d)(2) or for failure to carry out an assurance under subsection (b)(3)(B), and if an administrative proceeding has not beenconcluded within such time, bring an action in a United States district court against such State for such violations or failure.
 
 #### (2) Immunity
 

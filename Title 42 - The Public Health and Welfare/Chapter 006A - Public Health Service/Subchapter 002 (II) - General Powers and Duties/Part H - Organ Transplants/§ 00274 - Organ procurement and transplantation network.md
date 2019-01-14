@@ -100,7 +100,7 @@ Subsec. (b)(2)(K), (L). Pub. L. 101–616, §202(b)(2)–(4), added subpars. (K)
 
 <b>1988</b>—Subsec. (b)(2)(B), (C). Pub. L. 100–607, §403(a)(1), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-Subsec. (b)(2)(D). Pub. L. 100–607, §403(a)(1), (2), redesignated former subpar. (C) as (D) and substituted "organs" for "organs which cannot be placed within theservice areas of the organizations". Former subpar. (D) redesignated (E).
+Subsec. (b)(2)(D). Pub. L. 100–607, §403(a)(1), (2), redesignated former subpar. (C) as (D) and substituted "organs" for "organs which cannot be placed within the service areas of the organizations". Former subpar. (D) redesignated (E).
 
 Subsec. (b)(2)(E). Pub. L. 100–607, §403(a)(1), (3), redesignated former subpar. (D) as (E) and inserted "including standards for preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome," after "organs,". Former subpar. (E) redesignated (F).
 

@@ -26,7 +26,7 @@ Notice.—The prime contractor shall notify the contracting officer when an amou
 
 (d)
 
-Offset, Direction, or Order is Claim of Federal Government.—An offset under subsection (b) or a direction or order of a contracting officer under subsection (c) is a claim by theFederal Government for the purposes of chapter 71 of this title.
+Offset, Direction, or Order is Claim of Federal Government.—An offset under subsection (b) or a direction or order of a contracting officer under subsection (c) is a claim by the Federal Government for the purposes of chapter 71 of this title.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3840.)
 

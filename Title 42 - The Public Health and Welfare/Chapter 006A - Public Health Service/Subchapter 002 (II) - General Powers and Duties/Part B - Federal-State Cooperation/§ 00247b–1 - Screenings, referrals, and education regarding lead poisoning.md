@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and political subdivisions of States for the initiation and expansion of community programs designed—
+&emsp;Subject to paragraph (2), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may makegrants to States and political subdivisions of States for the initiation and expansion of community programs designed—
 
 &emsp;&emsp;(A) to provide, for infants and children—
 
@@ -154,7 +154,7 @@ The reference to section 254b of this title the first place appearing, referred 
 
 Section 256a of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
-The Social Security Act, referred to in subsecs. (b)(1) and (d)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XIX of the Act are classified generally to subchapters V (§701 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. Forcomplete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (b)(1) and (d)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XIX of the Act are classified generally to subchapters V (§701 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 

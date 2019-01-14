@@ -82,7 +82,7 @@ Pub. L. 109–163, §622(e), substituted "December 31, 2006" for "December 31, 2
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–181 effective as of Dec. 31, 2007, and subject to various special provisions, see section 610 of Pub. L. 110–181, set out as a Correction ofLapsed Authorities for Payment of Bonuses, Special Pays, and Similar Benefits for Members of the Uniformed Services note under section 2130a of Title 10, Armed Forces.
+Amendment by Pub. L. 110–181 effective as of Dec. 31, 2007, and subject to various special provisions, see section 610 of Pub. L. 110–181, set out as a Correction of Lapsed Authorities for Payment of Bonuses, Special Pays, and Similar Benefits for Members of the Uniformed Services note under section 2130a of Title 10, Armed Forces.
 
 #### Effective Date of 2006 Amendment
 

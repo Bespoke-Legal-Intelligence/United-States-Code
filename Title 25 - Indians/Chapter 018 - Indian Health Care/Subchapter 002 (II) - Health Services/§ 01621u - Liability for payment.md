@@ -12,7 +12,7 @@ The Secretary shall notify a contract care provider and any patient who receives
 
 Following receipt of the notice provided under subsection (b), or, if a claim has been deemed accepted under section 1621s(b) of this title, the provider shall have no further recourse against the patient who received the services.
 
-(Pub. L. 94–437, title II, §222, as added Pub. L. 102–573, title II, §215, Oct. 29, 1992, 106 Stat. 4559; amended Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, §222, as added Pub. L. 102–573, title II, §215, Oct. 29, 1992, 106 Stat. 4559;amended Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### Codification
 

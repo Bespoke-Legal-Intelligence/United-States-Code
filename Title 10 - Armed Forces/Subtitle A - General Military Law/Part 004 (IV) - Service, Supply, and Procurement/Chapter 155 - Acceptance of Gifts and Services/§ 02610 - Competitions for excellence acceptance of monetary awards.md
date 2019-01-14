@@ -6,7 +6,7 @@ Acceptance Authorized.—The Secretary of Defense may accept a monetary award gi
 
 (b)
 
-Disposition of Awards.—A monetary award accepted under subsection (a) shall be credited to one or more nonappropriated fund accounts supporting morale, welfare, and recreation activities for the command, installation,or other activity that is recognized for the award. Amounts so credited may be expended only for such activities.
+Disposition of Awards.—A monetary award accepted under subsection (a) shall be credited to one or more nonappropriated fund accounts supporting morale, welfare, and recreation activities for the command, installation, or other activity that is recognized for the award. Amounts so credited may be expended only for such activities.
 
 (c)
 

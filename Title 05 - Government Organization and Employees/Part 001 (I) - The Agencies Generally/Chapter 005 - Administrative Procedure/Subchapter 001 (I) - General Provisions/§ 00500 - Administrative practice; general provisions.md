@@ -8,7 +8,7 @@
 
 (b) An individual who is a member in good standing of the bar of the highest court of a State may represent a person before an agency on filing with the agency a written declaration that he is currently qualified as provided by this subsection and is authorized to represent the particular person in whose behalf he acts.
 
-(c) An individual who is duly qualified to practice as a certified public accountant in a Statemay represent a person before the Internal Revenue Service of the Treasury Department on filing with that agency a written declaration that he is currently qualified as provided by this subsection and is authorized to represent the particular person in whose behalf he acts.
+(c) An individual who is duly qualified to practice as a certified public accountant in a State may represent a person before the Internal Revenue Service of the Treasury Department on filing with that agency a written declaration that he is currently qualified as provided by this subsection and is authorized to represent the particular person in whose behalf he acts.
 
 (d) This section does not—
 

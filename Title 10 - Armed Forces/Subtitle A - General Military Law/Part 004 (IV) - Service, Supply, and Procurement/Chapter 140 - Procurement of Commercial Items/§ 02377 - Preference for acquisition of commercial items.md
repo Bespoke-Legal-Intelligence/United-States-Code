@@ -72,9 +72,111 @@ Market Research Training Required.—The Secretary of Defense shall provide mand
 
 &emsp;(3) provide methodologies for establishing standard processes and reports for collecting and sharing market research across the Department.
 
-(Added Pub. L. 103–355, title VIII, §8104(a), Oct. 13, 1994, 108 Stat. 3390; amended Pub. L. 110–181, div. A, title VIII, §826(a), Jan. 28, 2008, 122 Stat. 227; Pub. L. 114–92, div. A, title VIII, §844(a), Nov. 25, 2015, 129 Stat. 915; Pub. L. 114–328, div. A, title VIII, §871, Dec. 23, 2016, 130 Stat. 2307.)
+(Added Pub. L. 103–355, title VIII, §8104(a), Oct. 13, 1994, 108 Stat. 3390; amended Pub. L. 110–181, div. A, title VIII, §826(a), Jan. 28, 2008, 122 Stat. 227; Pub. L. 114–92, div. A, title VIII, §844(a), Nov. 25, 2015, 129 Stat. 915; Pub. L. 114–328, div. A, title VIII, §871, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–232, div. A, title VIII, §836(d)(3), (8)(C), Aug. 13, 2018, 132 Stat. 1866, 1868.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(d)(3), (8)(C), (h), Aug. 13, 2018, 132 Stat. 1866, 1868, 1874, made amendments to this section, effective Jan. 1, 2020, subject to a savings provision. After Jan. 1, 2020, this section will read as follows:</i>
+
+#### §2377. Preference for commercial products and commercial services
+
+(a)
+
+Preference.—The head of an agency shall ensure that, to the maximum extent practicable—
+
+&emsp;(1) requirements of the agency with respect to a procurement of supplies or services are stated in terms of—
+
+&emsp;&emsp;(A) functions to be performed;
+
+&emsp;&emsp;(B) performance required; or
+
+&emsp;&emsp;(C) essential physical characteristics;
+
+&emsp;(2) such requirements are defined so that commercial services or commercial products or, to the extent that commercial products suitable to meet the agency's needs are not available, nondevelopmental items other than commercial products, may be procured to fulfill such requirements; and
+
+&emsp;(3) offerors of commercial services, commercial products, and nondevelopmental items other than commercial products are provided an opportunity to compete in any procurement to fill such requirements.
+
+(b)
+
+Implementation.—The head of an agency shall ensure that procurement officials in that agency, to the maximum extent practicable—
+
+&emsp;(1) acquire commercial services, commercial products, or nondevelopmental items other than commercial products to meet the needs of the agency;
+
+&emsp;(2) require prime contractors and subcontractors at all levels under the agency contracts to incorporate commercial services, commercial products, or nondevelopmental items other than commercial products as components of items supplied to the agency;
+
+&emsp;(3) modify requirements in appropriate cases to ensure that the requirements can be met by commercial services or commercial products or, to the extent that commercial products suitable to meet the agency's needs are not available, nondevelopmental items other than commercial products;
+
+&emsp;(4) state specifications in terms that enable and encourage bidders and offerors to supply commercial services or commercial products or, to the extent that commercial products suitable to meet the agency's needs are not available, nondevelopmental items other than commercial products in response to the agency solicitations;
+
+&emsp;(5) revise the agency's procurement policies, practices, and procedures not required by law to reduce any impediments in those policies, practices, and procedures to the acquisition of commercial products and commercial services; and
+
+&emsp;(6) require training of appropriate personnel in the acquisition of commercial products and commercial services.
+
+(c)
+
+Preliminary Market Research.—(1) The head of an agency shall conduct market research appropriate to the circumstances—
+
+&emsp;(A) before developing new specifications for a procurement by that agency;
+
+&emsp;(B) before soliciting bids or proposals for a contract in excess of the simplified acquisition threshold; and
+
+&emsp;(C) before awarding a task order or delivery order in excess of the simplified acquisition threshold.
+
+(2) The head of an agency shall use the results of market research to determine whether there are commercial services or commercial products or, to the extent that commercial products suitable to meet the agency's needs are not available, nondevelopmental items other than commercial products available that—
+
+&emsp;(A) meet the agency's requirements;
+
+&emsp;(B) could be modified to meet the agency's requirements; or
+
+&emsp;(C) could meet the agency's requirements if those requirements were modified to a reasonable extent.
+
+(3) In conducting market research, the head of an agency should not require potential sources to submit more than the minimum information that is necessary to make the determinations required in paragraph (2).
+
+(4) The head of an agency shall take appropriate steps to ensure that any prime contractor of a contract (or task order or delivery order) in an amount in excess of $5,000,000 for the procurement of products other than commercial products or services other than commercial services engages in such market research as may be necessary to carry out the requirements of subsection (b)(2) before making purchases for or on behalf of the Department of Defense.
+
+(d)
+
+Market Research for Price Analysis.—The Secretary of Defense shall ensure that procurement officials in the Department of Defense conduct or obtain market research to support the determination of the reasonableness of price for commercial products or commercial services contained in any bid or offer submitted in response to an agency solicitation. To the extent necessary to support such market research, the procurement official for the solicitation—
+
+&emsp;(1) in the case of products or services acquired under section 2379 of this title, shall use information submitted under subsection (d) of that section; and
+
+&emsp;(2) in the case of other products or services, may require the offeror to submit relevant information.
+
+(e)
+
+Market Research Training Required.—The Secretary of Defense shall provide mandatory training for members of the armed forces and employees of the Department of Defense responsible for the conduct of market research required under subsections (c) and (d). Such mandatory training shall, at a minimum—
+
+&emsp;(1) provide comprehensive information on the subject of market research and the function of market research in the acquisition of commercial products and commercial services;
+
+&emsp;(2) teach best practices for conducting and documenting market research; and
+
+&emsp;(3) provide methodologies for establishing standard processes and reports for collecting and sharing market research across the Department.
+
+<i>See 2018 Amendment notes below.</i>
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, §836(d)(8)(C), substituted "commercial products and commercial services" for "acquisition of commercial items" in section catchline.
+
+Subsec. (a)(2). Pub. L. 115–232, §836(d)(3)(A)(i), substituted "commercial services or commercial products or, to the extent that commercial products suitable to meet the agency's needs are not available, nondevelopmental items other than commercial products" for "commercial items or, to the extent that commercial items suitable to meet the agency's needs are not available, nondevelopmental items other than commercial items".
+
+Subsec. (a)(3). Pub. L. 115–232, §836(d)(3)(A)(ii), substituted "commercial services, commercial products, and nondevelopmental items other than commercial products" for "commercial items and nondevelopmental items other than commercial items".
+
+Subsec. (b)(1), (2). Pub. L. 115–232, §836(d)(3)(B)(i), substituted "commercial services, commercial products, or nondevelopmental items other than commercial products" for "commercial items or nondevelopmental items other than commercial items".
+
+Subsec. (b)(3), (4). Pub. L. 115–232, §836(d)(3)(B)(ii), substituted "commercial services or commercial products or, to the extent that commercial products suitable to meet the agency's needs are not available, nondevelopmental items other than commercial products" for "commercial items or, to the extent that commercial items suitable to meet the agency's needs are not available, nondevelopmental items other than commercial items".
+
+Subsec. (b)(5), (6). Pub. L. 115–232, §836(d)(3)(B)(iii), substituted "commercial products and commercial services" for "commercial items".
+
+Subsec. (c)(2). Pub. L. 115–232, §836(d)(3)(C)(i), in introductory provisions, substituted "commercial services or commercial products or, to the extent that commercial products suitable to meet the agency's needs are not available, nondevelopmental items other than commercial products" for "commercial items or, to the extent that commercial items suitable to meet the agency's needs are not available, nondevelopmental items other than commercial items".
+
+Subsec. (c)(4). Pub. L. 115–232, §836(d)(3)(C)(ii), substituted "products other than commercial products or services other than commercial services" for "items other than commercial items".
+
+Subsec. (d). Pub. L. 115–232, §836(d)(3)(D)(i), substituted "commercial products or commercial services" for "commercial items" in introductory provisions.
+
+Subsec. (d)(1), (2). Pub. L. 115–232, §836(d)(3)(D)(ii), (iii), substituted "products or services" for "items".
+
+Subsec. (e)(1). Pub. L. 115–232, §836(d)(3)(E), substituted "commercial products and commercial services" for "commercial items".
 
 <b>2016</b>—Subsecs. (d), (e). Pub. L. 114–328 added subsec. (d), redesignated former subsec. (d) as (e), and in introductory provisions of subsec. (e), substituted "subsections (c) and (d)" for "subsection (c)".
 
@@ -84,9 +186,13 @@ Market Research Training Required.—The Secretary of Defense shall provide mand
 
 Subsec. (c)(4). Pub. L. 110–181, §826(a)(2), added par. (4).
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+
 #### Commercial Operational and Support Savings Initiative
 
-Pub. L. 114–328, div. A, title VIII, §849(d), Dec. 23, 2016, 130 Stat. 2294, provided that:
+Pub. L. 114–328, div. A, title VIII, §849(d), Dec. 23, 2016, 130 Stat. 2294, as amended by Pub. L. 115–232, div. A, title VIII, §836(f)(7), Aug. 13, 2018, 132 Stat. 1871, provided that:
 
 "(1)
 
@@ -142,6 +248,18 @@ Phase ii.—(i) Phase II shall include the purchase of limited production quanti
 
 Treatment as competitive procedures.—The use of a merit-based process for selection of projects under the commercial operational and support savings initiative shall be considered to be the use of competitive procedures for purposes of chapter 137 of title 10, United States Code."
 
+<i>\[Pub. L. 115–232, div. A, title VIII, §836(f)(7), (h), Aug. 13, 2018, 132 Stat. 1871, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, section 849(d) of Pub. L. 114–328, set out above, is amended:</i>
+
+&emsp;<i>\[(1) in paragraph (1), by striking "commercial items" and inserting "commercial products";</i>
+
+&emsp;<i>\[(2) in paragraph (3)(B)(i), by striking "commercial item" and inserting "commercial product"; and</i>
+
+&emsp;<i>\[(3) by adding at the end the following new paragraph:</i>
+
+&emsp;<i>\["(5)</i>
+
+Definition.—In this subsection, the term 'commercial product' has the meaning given that term in section 103 of title 41."\]
+
 #### Preference for Commercial Services
 
 Pub. L. 114–328, div. A, title VIII, §876, Dec. 23, 2016, 130 Stat. 2311, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall revise the guidance issued pursuant to section 855 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2377 note) to provide that—
@@ -168,7 +286,7 @@ Guidance Required.—Not later than 90 days after the date of the enactment of t
 
 "(b)
 
-Review Required.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Chairman and the Vice Chairman of the Joint Chiefs of Staff, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall review Chairman of the Joint Chiefs of Staff Instruction 3170.01, the Manual for the Operation of the Joint Capabilities Integration and Development System, and other documents governing the requirements development process and revise these documents as necessary to ensure that the Department of Defense fully complies with the requirement in section 2377(c) of title 10, United States Code, and section 10.001 of the FederalAcquisition Regulation for Federal agencies to conduct appropriate market research before developing new requirements.
+Review Required.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Chairman and the Vice Chairman of the Joint Chiefs of Staff, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall review Chairman of the Joint Chiefs of Staff Instruction 3170.01, the Manual for the Operation of the Joint Capabilities Integration and Development System, and other documents governing the requirements development process and revise these documents as necessary to ensure that the Department of Defense fully complies with the requirement in section 2377(c) of title 10, United States Code, and section 10.001 of the Federal Acquisition Regulation for Federal agencies to conduct appropriate market research before developing new requirements.
 
 "(c)
 
@@ -176,7 +294,7 @@ Market Research Defined.—For the purposes of this section, the term 'market re
 
 #### Limitation on Conversion of Procurements From Commercial Acquisition Procedures
 
-Pub. L. 114–92, div. A, title VIII, §856, Nov. 25, 2015, 129 Stat. 920, provided that:
+Pub. L. 114–92, div. A, title VIII, §856, Nov. 25, 2015, 129 Stat. 920, as amended by Pub. L. 115–232, div. A, title VIII, §836(f)(8), Aug. 13, 2018, 132 Stat. 1872, provided that:
 
 "(a)
 
@@ -221,6 +339,8 @@ Reporting Requirement.—Not later than one year after the date of the enactment
 "(e)
 
 Sunset.—The requirements of this section shall terminate 5 years after the date of the enactment of this Act \[Nov. 25, 2015\]."
+
+<i>\[Pub. L. 115–232, div. A, title VIII, §836(f)(8), (h), Aug. 13, 2018, 132 Stat. 1872, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, section 856(a)(1) of Pub. L. 114–92, set out above, is amended by striking "commercial items or services" and inserting "a commercial product or a commercial service, as defined in sections 103 and 103a, respectively, of title 41,".\]</i>
 
 #### Commercial Software Reuse Preference
 

@@ -2,11 +2,11 @@
 
 (a)
 
-Requirement.—Not later than 1 year after the date of enactment of the SAFE Port Act, the Secretary, in consultation with the Attorney General and the Secretary of State, shall require crewmembers on vessels calling at United States ports to carry and present on demand any identification that the Secretary decides is necessary.
+Requirement.—Not later than 1 year after the date of enactment of the SAFE Port Act, the Secretary, in consultation with the AttorneyGeneral and the Secretary of State, shall require crewmembers on vessels calling at United States ports to carry and present on demand any identification that the Secretary decides is necessary.
 
 (b)
 
-Forms and Process.—Not later than 1 year after the date of enactment of the SAFE Port Act, the Secretary, in consultation with the Attorney General and the Secretary of State, shallestablish the proper forms and process that shall be used for identification and verification of crewmembers.
+Forms and Process.—Not later than 1 year after the date of enactment of the SAFE Port Act, the Secretary, in consultation with the Attorney General and the Secretary of State, shall establish the proper forms and process that shall be used for identification and verification of crewmembers.
 
 (Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2080; amended Pub. L. 109–347, title I, §110, Oct. 13, 2006, 120 Stat. 1893.)
 

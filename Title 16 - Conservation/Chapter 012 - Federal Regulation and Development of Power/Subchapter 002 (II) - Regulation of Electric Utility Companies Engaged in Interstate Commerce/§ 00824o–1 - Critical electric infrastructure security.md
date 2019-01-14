@@ -34,7 +34,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A)(i) a malicious act using electronic communication or an electromagnetic pulse, or a geomagnetic storm event, that could disrupt the operation of those electronic devices or communications networks, including hardware, software, and data, that are essential to the reliability of critical electric infrastructure or of defense critical electric infrastructure; and
 
-&emsp;&emsp;(ii) disruption of the operation of such devices or networks, with significant adverseeffects on the reliability of critical electric infrastructure or of defense critical electric infrastructure, as a result of such act or event; or
+&emsp;&emsp;(ii) disruption of the operation of such devices or networks, with significant adverse effects on the reliability of critical electric infrastructure or of defense critical electric infrastructure, as a result of such act or event; or
 
 &emsp;&emsp;(B)(i) a direct physical attack on critical electric infrastructure or on defense critical electric infrastructure; and
 

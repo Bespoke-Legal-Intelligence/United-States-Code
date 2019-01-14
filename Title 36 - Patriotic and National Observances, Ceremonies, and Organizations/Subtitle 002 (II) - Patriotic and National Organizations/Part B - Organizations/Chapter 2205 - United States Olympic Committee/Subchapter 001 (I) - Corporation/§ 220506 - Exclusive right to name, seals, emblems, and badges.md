@@ -18,7 +18,7 @@ Contributors and Suppliers.—The corporation may authorize contributors and sup
 
 (c)
 
-Civil Action for Unauthorized Use.—Except as provided in subsection (d) of this section, the corporation may file a civil action against a person for the remedies provided in the Act of July 5, 1946 (15 U.S.C. 1051 et seq.) (popularly known as the Trademark Act of 1946) if the person, without the consent of the corporation, uses for the purpose of trade, to induce the sale of any goods or services, or to promote any theatrical exhibition, athletic performance, or competition—
+Civil Action for Unauthorized Use.—Except as provided in subsection (d) of this section, the corporation may file a civil action against a person for the remedies provided in the Act of July 5, 1946 (15 U.S.C. 1051 et seq.) (popularly known as the Trademark Act of 1946) if the person, without the consent of the corporation, uses for the purpose of trade, to induce the saleof any goods or services, or to promote any theatrical exhibition, athletic performance, or competition—
 
 &emsp;(1) the symbol described in subsection (a)(2) of this section;
 
@@ -88,7 +88,7 @@ In subsection (d)(2), the words "the words or any combination of the words descr
 
 #### References in Text
 
-The Trademark Act of 1946, referred to in subsec. (c), is act July 5, 1946, ch. 540, 60 Stat. 427, as amended, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§1051 et seq.) of Title 15,Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
+The Trademark Act of 1946, referred to in subsec. (c), is act July 5, 1946, ch. 540, 60 Stat. 427, as amended, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
 
 #### Amendments
 

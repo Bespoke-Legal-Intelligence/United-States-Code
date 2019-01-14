@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) as a result of such incentives, many small business concerns with economically sound financing needs are unable to obtain access to needed debt capital;
 
-&emsp;(6) the small business capital access programs implemented by certain States are a flexible and efficient tool to assist financial institutions in providing access to needed debt capital for many small business concerns in a manner consistent with safety and soundness regulations;
+&emsp;(6) the small business capital access programs implemented by certain States are a flexible and efficient tool to assist financial institutions in providing access to needed debt capital for many small business concerns in amanner consistent with safety and soundness regulations;
 
 &emsp;(7) a small business capital access program would complement other programs which assist small business concerns in obtaining access to capital; and
 
@@ -126,7 +126,7 @@ Eligible institution.—The term 'eligible institution' means—
 
 &emsp;&emsp;"(B) any bank holding company which has total consolidated assets of equal to or less than $10,000,000,000, as reported in the call report of the bank holding company as of the end of the fourth quarter of calendar year 2009;
 
-&emsp;&emsp;"(C) any savings and loan holding company which has total consolidated assets of equal to or less than $10,000,000,000, as reported in the call report of the savings and loan holding company as of the end of the fourth quarter of calendar year 2009; and
+&emsp;&emsp;"(C) any savings and loan holding company which has total consolidated assets of equal to or lessthan $10,000,000,000, as reported in the call report of the savings and loan holding company as of the end of the fourth quarter of calendar year 2009; and
 
 &emsp;&emsp;"(D) any community development financial institution loan fund which has total assets of equal to or less than $10,000,000,000, as reported in audited financial statements for the fiscal year of the community development financial institution loan fund that ends in calendar year 2009.
 
@@ -136,7 +136,7 @@ Fund.—The term 'Fund' means the Small Business Lending Fund established under 
 
 &emsp;"(13)
 
-Insured depository institution.—The term 'insured depository institution' has the meaninggiven such term under section 3(c)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c)(2)).
+Insured depository institution.—The term 'insured depository institution' has the meaning given such term under section 3(c)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c)(2)).
 
 &emsp;"(14)
 
@@ -446,7 +446,7 @@ Minimum underwriting standards.—The appropriate Federal banking agency for an 
 
 #### "SEC. 4104. ADDITIONAL AUTHORITIES OF THE SECRETARY.
 
-"The Secretary may take such actions as the Secretary deems necessary to carry out the authorities in this subtitle, including, without limitation, the following:
+"The Secretary may take such actions as the Secretary deems necessary to carry out the authorities inthis subtitle, including, without limitation, the following:
 
 &emsp;"(1) The Secretary may use the services of any agency or instrumentality of the United States or component thereof on a reimbursable basis, and any such agency or instrumentality or component thereof is authorized to provide services as requested by the Secretary using all authorities vested in or delegated to that agency, instrumentality, or component.
 
@@ -558,7 +558,7 @@ Required Certifications.—
 
 &emsp;"(1)
 
-Eligible institution certification.—Each eligible institution that participates in the Program must certify that such institution is in compliance with the requirements of section 103.121 of title 31, Code of Federal Regulations, a regulation that, at a minimum, requires financial institutions, as that term is defined in 31 U.S.C. 5312(a)(2) and (c)(1)(A), to implement reasonable procedures to verify the identity of any person seeking to open an account, to the extent reasonable and practicable, maintain records of the information used to verify the person's identity, and determine whether the person appears on any lists of known or suspected terrorists or terroristorganizations provided to the financial institution by any government agency.
+Eligible institution certification.—Each eligible institution that participates in the Program must certify that such institution is in compliance with the requirements of section 103.121 of title 31, Code of Federal Regulations, a regulation that, at a minimum, requires financial institutions, as that term is defined in 31 U.S.C. 5312(a)(2) and (c)(1)(A), to implement reasonable procedures to verify the identity of any person seeking to open an account, to the extent reasonable and practicable, maintain records of the information used to verify the person's identity, and determine whether the person appears on any lists of known or suspected terrorists or terrorist organizations provided to the financial institution by any government agency.
 
 &emsp;"(2)
 

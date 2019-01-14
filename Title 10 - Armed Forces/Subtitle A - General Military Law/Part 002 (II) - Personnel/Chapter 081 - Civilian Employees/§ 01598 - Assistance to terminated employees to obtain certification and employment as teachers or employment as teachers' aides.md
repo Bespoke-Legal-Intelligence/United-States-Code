@@ -30,7 +30,7 @@ Eligible Employees.—(1) A civilian employee of the Department of Defense or th
 
 &emsp;(C) satisfies such other criteria for selection as the Secretary of Defense may prescribe.
 
-(2) The Secretary of Defense may accept an application from a civilian employee referred to in paragraph (1) who was terminated during the period beginning on October 1, 1990, and ending on October 1, 1992, if the employee otherwise satisfies the eligibility criteria specified in that paragraph.
+(2) The Secretary of Defense may accept an application from a civilian employee referred to inparagraph (1) who was terminated during the period beginning on October 1, 1990, and ending on October 1, 1992, if the employee otherwise satisfies the eligibility criteria specified in that paragraph.
 
 (c)
 
@@ -38,7 +38,7 @@ Selection of Participants.—(1) Selection of civilian employees to participate 
 
 (2) In selecting participants to receive assistance for placement as elementary or secondary school teachers, the Secretary of Defense shall give priority to civilian employees who—
 
-&emsp;(A) have educational, military, or employment experience in science, mathematics, orengineering and agree to seek employment as science, mathematics, or engineering teachers in elementary or secondary schools; or
+&emsp;(A) have educational, military, or employment experience in science, mathematics, or engineering and agree to seek employment as science, mathematics, or engineering teachers in elementary or secondary schools; or
 
 &emsp;(B) have educational, military, or employment experience in another subject area identified by the Secretary, in consultation with the Secretary of Education, as important for national educational objectives and agree to seek employment in that subject area in elementary or secondary schools.
 

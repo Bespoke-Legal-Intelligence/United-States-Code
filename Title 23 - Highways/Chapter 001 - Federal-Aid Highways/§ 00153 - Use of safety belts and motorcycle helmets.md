@@ -52,7 +52,7 @@ Eligibility for Grants.—
 
 &emsp;(1)
 
-General rule.—A State is eligible in a fiscal year for a grant under this section only if the State enters into such agreements with the Secretary as the Secretary may require to ensure that the State implements in such fiscal year a traffic safety program described in subsection (b).
+General rule.—A State is eligible in a fiscal year for a grant under this section onlyif the State enters into such agreements with the Secretary as the Secretary may require to ensure that the State implements in such fiscal year a traffic safety program described in subsection (b).
 
 &emsp;(2)
 
@@ -134,7 +134,7 @@ Authorization of Appropriations.—There is authorized to be appropriated out of
 
 Applicability of Chapter 1
 
-Provisions.—All provisions of this chapter that are applicable to National Highway System funds, other than provisions relating to the apportionment formula and provisions limiting the expenditures of such funds to Federal-aid systems, shall apply to funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that sums authorized by this section shall remain available until expended.
+Provisions.—All provisions of this chapter that are applicable to National Highway System funds, other than provisions relating to the apportionment formula and provisions limiting the expenditures of such funds to Federal-aid systems, shall apply to funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this sectionand except that sums authorized by this section shall remain available until expended.
 
 (Added Pub. L. 102–240, title I, §1031(a)(1), Dec. 18, 1991, 105 Stat. 1970; amended Pub. L. 104–59, title II, §205(e), Nov. 28, 1995, 109 Stat. 577; Pub. L. 112–141, div. A, title I, §1404(e), July 6, 2012, 126 Stat. 558; Pub. L. 114–94, div. A, title I, §1446(a)(7), Dec. 4, 2015, 129 Stat. 1437.)
 

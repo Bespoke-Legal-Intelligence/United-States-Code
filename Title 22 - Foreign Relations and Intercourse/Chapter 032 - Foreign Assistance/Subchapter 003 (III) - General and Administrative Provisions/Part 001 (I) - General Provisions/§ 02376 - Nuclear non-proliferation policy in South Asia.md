@@ -18,7 +18,7 @@ The Congress finds that—
 
 &emsp;(7) a critical part of this treaty is Protocol II which prohibits nuclear attacks by nuclear weapons states on signatories to the treaty;
 
-&emsp;(8) in 1991, a proposal was made for a regional conference on non-proliferation in South Asia which would include Pakistan, India, the People's Republic of China, the Soviet Union, and the United States; and
+&emsp;(8) in 1991, a proposal was made for a regional conference on non-proliferation inSouth Asia which would include Pakistan, India, the People's Republic of China, the Soviet Union, and the United States; and
 
 &emsp;(9) thus far, Pakistan, China, Russia, and the United States have expressed interest in attending such a conference, whereas India has refused to attend.
 
@@ -30,7 +30,7 @@ It is the sense of the Congress that the President should pursue a policy which 
 
 #### Amendments
 
-<b>2014</b>—Subsec. (c). Pub. L. 113–188 struck out subsec. (c). Text read as follows: "Not later than April 1 of each year, the President shall submit a report to the Committees on Appropriations, the Speaker of the House of Representatives, and the chairman of the Committee on Foreign Relations of the Senate, on nuclear proliferation in South Asia, including efforts taken by theUnited States to achieve a regional agreement on nuclear non-proliferation, and including a comprehensive list of the obstacles to concluding such a regional agreement."
+<b>2014</b>—Subsec. (c). Pub. L. 113–188 struck out subsec. (c). Text read as follows: "Not later than April 1 of each year, the President shall submit a report to the Committees on Appropriations, the Speaker of the House of Representatives, and the chairman of the Committee on Foreign Relations of the Senate, on nuclear proliferation in South Asia, including efforts taken by the United States to achieve a regional agreement on nuclear non-proliferation, and including a comprehensive list of the obstacles to concluding such a regional agreement."
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–277, which directed the substitution of "Not later than April 1 of each year," for "Not later than April 1, 1993 and every six months thereafter," was executed by making the substitution for text which contained a comma after "1993" to reflect the probable intent of Congress.
 

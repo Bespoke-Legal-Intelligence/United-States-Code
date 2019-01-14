@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Accept Contributions.—The Secretary of Defense, after consultation with the Secretary of State, may accept cashcontributions from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State, for the purposes specified in subsection (c).
+Authority To Accept Contributions.—The Secretary of Defense, after consultation with the Secretary of State, may accept cash contributions from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State, for the purposes specified in subsection (c).
 
 (b)
 
@@ -118,7 +118,7 @@ Prohibition on Use of Contributions To Offset Burden Sharing Contributions.—Co
 
 "(d)
 
-Notice.—When a decision is made to carry out a project using contributions accepted under subsection (a) and the estimated cost of the project will exceed the thresholds prescribed by section 2805 of title 10, United States Code, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives written notice of decision, the justification for the project, and the estimated cost of the project.
+Notice.—When a decision is made to carry out a project using contributions accepted under subsection\(a) and the estimated cost of the project will exceed the thresholds prescribed by section 2805 of title 10, United States Code, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives written notice of decision, the justification for the project, and the estimated cost of the project.
 
 "(e)
 

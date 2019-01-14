@@ -6,7 +6,7 @@ Each State or unit of local government which receives a grant under this subchap
 
 &emsp;(2) such other information as the Attorney General may require.
 
-(Pub. L. 90–351, title I, §2406, as added Pub. L. 103–322, title XXI, §210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2067; amended Pub. L. 112–189, §2(a), Oct. 5, 2012, 126 Stat. 1435.)
+(Pub. L. 90–351, title I, §2406, as added Pub. L. 103–322, title XXI, §210302(c)(1)(C), Sept. 13, 1994,108 Stat. 2067; amended Pub. L. 112–189, §2(a), Oct. 5, 2012, 126 Stat. 1435.)
 
 #### Codification
 

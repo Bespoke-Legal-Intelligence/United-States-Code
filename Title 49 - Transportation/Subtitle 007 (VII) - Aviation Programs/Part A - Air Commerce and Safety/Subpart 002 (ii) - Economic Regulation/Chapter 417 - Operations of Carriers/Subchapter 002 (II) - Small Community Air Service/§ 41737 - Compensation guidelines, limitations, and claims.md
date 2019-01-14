@@ -32,7 +32,7 @@ Claims.—Not later than 15 days after receiving a written claim from an air car
 
 Authority To Make Agreements and Incur Obligations.—(1) The Secretary may make agreements and incur obligations from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to pay compensation under this subchapter. An agreement by the Secretary under this subsection is a contractual obligation of the Government to pay the Government's share of the compensation.
 
-(2) Not more than $38,600,000 is available to the Secretary out of the Fund for each of the fiscal years ending September 30, 1993–1998, to incur obligations under this section. Amounts made available under this section remain available until expended.
+(2) Not more than $38,600,000 is available to the Secretary out of the Fund for each of the fiscal years ending September 30, 1993–1998, to incurobligations under this section. Amounts made available under this section remain available until expended.
 
 (e)
 
@@ -102,7 +102,7 @@ Pub. L. 108–176, title IV, §402(b), Dec. 12, 2003, 117 Stat. 2543, provided t
 
 #### Emergency Across-the-Board Adjustment to Compensation for Significantly Increased Costs
 
-Pub. L. 112–95, title IV, §426(a), Feb. 14, 2012, 126 Stat. 98, provided that: "Subject to the availability of funds, the Secretary may increase the rates of compensation payable to air carriers under subchapter II of chapter 417 of title 49, United States Code, to compensate such carriers for increased aviation fuel costs without regard to any agreement or requirement relating to the renegotiation of contracts or any notice requirement under section 41734 of such title."
+Pub. L. 112–95, title IV, §426(a), Feb. 14, 2012, 126 Stat. 98; Pub. L. 115–254, div. B, title V, §539(s)(1), Oct. 5, 2018, 132 Stat. 3371, provided that: "Subject to the availability of funds, the Secretary of Transportation may increase the rates of compensation payable to air carriers under subchapter II of chapter 417 of title 49, United States Code, to compensate such carriers for increased aviation fuel costs without regard to any agreement or requirement relating to the renegotiation of contracts or any notice requirement under section 41734 of such title."
 
 #### Deadline for Issuance of Revised Guidance
 

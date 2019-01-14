@@ -34,7 +34,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 &emsp;(5) delineate the responsibilities of the Bureau of Indian Affairs and the Service, including mental health identification, prevention, education, referral, and treatment services (including services through multidisciplinary resource teams), at the central, area, and agency and service unit levels to address the problems identified in paragraph (1);
 
-&emsp;(6) provide a strategy for the comprehensive coordination of the mental health servicesprovided by the Bureau of Indian Affairs and the Service to meet the needs identified pursuant to paragraph (1), including—
+&emsp;(6) provide a strategy for the comprehensive coordination of the mental health services provided by the Bureau of Indian Affairs and the Service to meet the needs identified pursuant to paragraph (1), including—
 
 &emsp;&emsp;(A) the coordination of alcohol and substance abuse programs of the Service, the Bureau of Indian Affairs, and the various tribes (developed under the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 \[25 U.S.C. 2401 et seq.\]) with the mental health initiatives pursuant to this chapter, particularly with respect to the referral and treatment of dually-diagnosed individuals requiring mental health and substance abuse treatment; and
 
@@ -58,7 +58,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 #### (1) Study; list
 
-&emsp;The Secretary, acting through the Service, and the Secretary of the Interior, in consultation with Indian tribes and tribal organizations, shall conduct a study and compile a list of the types of staff positions specified in paragraph (2) whose qualifications include, or should include, training in the identification, prevention, education, referral, or treatment of mental illness, or dysfunctional and self destructive behavior.
+&emsp;The Secretary, acting through the Service, and the Secretary of the Interior, in consultation with Indian tribes and tribal organizations, shall conduct a study and compile a list of the types of staff positions specified in paragraph (2) whose qualifications include, orshould include, training in the identification, prevention, education, referral, or treatment of mental illness, or dysfunctional and self destructive behavior.
 
 #### (2) Positions
 
@@ -124,7 +124,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 &emsp;(B) employs such technicians in the provision of community-based mental health care that includes identification, prevention, education, referral, and treatment services.
 
-(2) In carrying out paragraph (1)(A), the Secretary shall provide high standard paraprofessional training in mental health care necessary to provide quality care to the Indian communities to be served. Such training shall be based upon a curriculum developed or approved by the Secretary which combines education in the theory of mental health care with supervised practical experience in the provision of such care.
+(2) In carrying out paragraph (1)(A), the Secretary shall provide high standard paraprofessional training in mental health care necessary to provide quality care to the Indian communities to be served. Such training shall be based upon a curriculum developed or approved by theSecretary which combines education in the theory of mental health care with supervised practical experience in the provision of such care.
 
 (3) The Secretary shall supervise and evaluate the mental health technicians in the training program.
 
@@ -222,7 +222,7 @@ This chapter, referred to in subsecs. (b)(6)(A) and (l), was in the original "th
 
 The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (d)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Indian Self-Determination Act, referred to in subsecs. (k)(3) and (l), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally tosubchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsecs. (k)(3) and (l), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification
 

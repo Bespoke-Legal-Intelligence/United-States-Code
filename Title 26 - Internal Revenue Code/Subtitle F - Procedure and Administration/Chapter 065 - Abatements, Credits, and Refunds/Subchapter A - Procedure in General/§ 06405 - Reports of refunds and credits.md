@@ -2,7 +2,7 @@
 
 #### (a) By Treasury to Joint Committee
 
-No refund or credit of any income, war profits, excess profits, estate, or gift tax, or any tax imposed with respect to public charities, private foundations, operators' trust funds, pension plans, or real estate investment trusts under chapter 41, 42, 43, or 44, in excess of $2,000,000 ($5,000,000 in the case of a C corporation) shall bemade until after the expiration of 30 days from the date upon which a report giving the name of the person to whom the refund or credit is to be made, the amount of such refund or credit, and a summary of the facts and the decision of the Secretary, is submitted to the Joint Committee on Taxation.
+No refund or credit of any income, war profits, excess profits, estate, or gift tax, or any tax imposed with respect to public charities, private foundations, operators' trust funds, pension plans, or real estate investment trusts under chapter 41, 42, 43, or 44, in excess of $2,000,000 ($5,000,000 in the case of a C corporation) shall be made until after the expiration of 30 days from the date upon which a report giving the name of the person to whom the refund or credit is to be made, the amount of such refund or credit, and a summary of the facts and the decision of the Secretary, is submitted to the Joint Committee on Taxation.
 
 #### (b) Tentative adjustments
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, an
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XII, §1210(d)(1), Oct. 4, 1976, 90 Stat. 1711, as amended by Pub. L. 99–514, §2, Oct. 22,1986, 100 Stat. 2095, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 4, 1976\], except that such amendments shall not apply with respect to any refund or credit with respect to which a report has been made before the date of enactment of this Act \[Oct. 4, 1976\] under subsection (a) or (c) of section 6405 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]."
+Pub. L. 94–455, title XII, §1210(d)(1), Oct. 4, 1976, 90 Stat. 1711, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 4, 1976\], except that such amendments shall not apply with respect to any refund or credit with respect to which a report has been made before the date of enactment of this Act \[Oct. 4, 1976\] under subsection (a) or (c) of section 6405 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]."
 
 #### Effective Date of 1972 Amendment
 

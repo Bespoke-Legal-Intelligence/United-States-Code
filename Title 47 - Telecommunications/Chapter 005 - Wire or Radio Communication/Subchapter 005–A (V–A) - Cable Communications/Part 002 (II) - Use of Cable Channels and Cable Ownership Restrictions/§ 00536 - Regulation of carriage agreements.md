@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-Within one year after October 5, 1992, the Commission shall establish regulations governing program carriage agreements and related practices between cable operators or other multichannel video programming distributors andvideo programming vendors. Such regulations shall—
+Within one year after October 5, 1992, the Commission shall establish regulations governing program carriage agreements and related practices between cable operators or other multichannel video programming distributors and video programming vendors. Such regulations shall—
 
 &emsp;(1) include provisions designed to prevent a cable operator or other multichannel video programming distributor from requiring a financial interest in a program service as a condition for carriage on one or more of such operator's systems;
 

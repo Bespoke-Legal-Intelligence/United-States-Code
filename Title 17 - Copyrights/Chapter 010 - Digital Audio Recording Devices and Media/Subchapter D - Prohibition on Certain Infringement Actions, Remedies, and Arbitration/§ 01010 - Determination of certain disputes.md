@@ -18,7 +18,7 @@ Proceeding.—The Copyright Royalty Judges shall conduct a proceeding with respe
 
 (e)
 
-Judicial Review.—Any determination of the Copyright Royalty Judges under subsection (d) may be appealed, by a party to the proceeding, in accordance with section 803(d) of this title. The pendency of an appeal under this subsection shall not stay the determination of the Copyright Royalty Judges. If the court modifies the determination of the Copyright Royalty Judges, the court shall have jurisdiction to enter its own decision in accordance with itsfinal judgment. The court may further vacate the determination of the Copyright Royalty Judges and remand the case for proceedings as provided in this section.
+Judicial Review.—Any determination of the Copyright Royalty Judges under subsection (d) may be appealed, by a party to the proceeding, in accordance with section 803(d) of this title. The pendency of an appeal under this subsection shall not stay the determination of the Copyright Royalty Judges. If the court modifies the determination of the Copyright Royalty Judges, the court shall have jurisdiction to enter its own decision in accordance with its final judgment. The court may further vacate the determination of the Copyright Royalty Judges and remand the case for proceedings as provided in this section.
 
 (Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4246; amended Pub. L. 103–198, §6(b)(5), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 108–419, §5(i)(4)(A), Nov. 30, 2004, 118 Stat. 2368.)
 

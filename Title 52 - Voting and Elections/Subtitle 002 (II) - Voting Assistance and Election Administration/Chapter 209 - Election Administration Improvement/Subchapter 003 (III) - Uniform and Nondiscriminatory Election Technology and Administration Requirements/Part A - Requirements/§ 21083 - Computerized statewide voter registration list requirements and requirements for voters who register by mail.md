@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) under section 8(a)(3)(B) of such Act (42 U.S.C. 1973gg–6(a)(3)(B)) \[now 52 U.S.C. 20507(a)(3)(B)\], the State shall coordinate the computerized list with State agency records on felony status; and
 
-&emsp;&emsp;&emsp;&emsp;(II) by reason of the death of the registrant under section 8(a)(4)(A) of such Act (42 U.S.C. 1973gg–6(a)(4)(A)) \[now 52U.S.C. 20507(a)(4)(A)\], the State shall coordinate the computerized list with State agency records on death.
+&emsp;&emsp;&emsp;&emsp;(II) by reason of the death of the registrant under section 8(a)(4)(A) of such Act (42 U.S.C. 1973gg–6(a)(4)(A)) \[now 52 U.S.C. 20507(a)(4)(A)\], the State shall coordinate the computerized list with State agency records on death.
 
 &emsp;&emsp;&emsp;(iii) Notwithstanding the preceding provisions of this subparagraph, if a State is described in section 4(b) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–2(b)) \[now 52 U.S.C. 20503(b)\], that State shall remove the names of ineligible voters from the computerized list in accordance with State law.
 
@@ -174,7 +174,7 @@
 
 &emsp;&emsp;The mail voter registration form developed under section 6 of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–4) \[now 52 U.S.C. 20505\] shall include the following:
 
-&emsp;&emsp;&emsp;(i) The question "Are you a citizen of the United States of America?" and boxes for the applicant to check to indicate whether the applicant is or is not a citizen of the United States.
+&emsp;&emsp;&emsp;(i) The question "Are you a citizen of the United States of America?" and boxes forthe applicant to check to indicate whether the applicant is or is not a citizen of the United States.
 
 &emsp;&emsp;&emsp;(ii) The question "Will you be 18 years of age on or before election day?" and boxes for the applicant to check to indicate whether or not the applicant will be 18 years of age or older on election day.
 

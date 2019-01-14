@@ -4,7 +4,7 @@
 
 (1) The Secretary shall make all loans under this subchapter upon the full personal liability of the borrower and upon such security as the Secretary may prescribe. The interest rates on such loans, except for guaranteed loans and loans as provided in paragraphs (2) and (3),<sup>1</sup> shall be as determined by the Secretary, but not in excess of the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, plus an additional charge not to exceed 1 per centum as determined by the Secretary, which charge shall be deposited in the Rural Development Insurance Fund or the Agricultural Credit Insurance Fund, as appropriate, and adjusted to the nearest one-eighth of 1 per centum. The interest rate on any guaranteed loan made under this subchapter shall be such rate as may be agreed upon by the borrower and lender, but not in excess of a rate as may be determined by the Secretary.
 
-(2) The interest rate on a microloan to a beginning farmer or rancher or veteran farmer or rancher (as defined in section 2279(e) of this title), or any loan (other than a guaranteed loan) to a low income, limited resource borrower under this subchapter shall not be—
+(2) The interest rate on a microloan to a beginning farmer or rancher or veteran farmer or rancher (as defined in section 2279(e) <sup>1</sup> of this title), or any loan (other than a guaranteed loan) to a low income, limited resource borrower under this subchapter shall not be—
 
 &emsp;(A) greater than the sum of—
 
@@ -16,7 +16,7 @@
 
 #### (b) Payment period; consolidation and rescheduling of loans
 
-Loans made under this subchapter shall be payable in not to exceed seven years. The Secretary may consolidate or reschedule outstanding loans for payment over a period not to exceed seven years (or, in the case of loans for farm operating purposes, fifteen years) from the date of such consolidation or rescheduling, and the amount of unpaid principal and interest of the prior loans so consolidated or rescheduled shall not create a new charge against any loan levels authorized by law. A new loan may be included in a consolidation. Such new loan shall be charged against any loan level authorized by law. Except as otherwise provided for farm loans under section 1981b of this title, the interest rate on such consolidated or rescheduled loans, other than guaranteed loans, may be changed by the Secretary to a rate not to exceed the rate being charged for loans made under this subchapter at the time of the consolidation or rescheduling. The interest rate on any guaranteed loan under this subchapter that may be consolidated or rescheduled for payment shall be such rate as may be agreed upon by the borrower and the lender, but not in excess of a rate as may be determined by the Secretary.
+Loans made under this subchapter shall be payable in not to exceed seven years. The Secretary may consolidate or reschedule outstanding loans for payment over a period not to exceed seven years (or, in the case of loans for farm operating purposes, fifteen years) from the date of such consolidation or rescheduling, and the amount of unpaid principal and interest of the prior loans so consolidated or rescheduled shall not create a new charge against any loan levels authorized by law. A new loan may be included in a consolidation. Such new loan shall be charged against any loan level authorized by law. Except as otherwise provided for farm loansunder section 1981b of this title, the interest rate on such consolidated or rescheduled loans, other than guaranteed loans, may be changed by the Secretary to a rate not to exceed the rate being charged for loans made under this subchapter at the time of the consolidation or rescheduling. The interest rate on any guaranteed loan under this subchapter that may be consolidated or rescheduled for payment shall be such rate as may be agreed upon by the borrower and the lender, but not in excess of a rate as may be determined by the Secretary.
 
 #### (c) Line-of-credit loans
 
@@ -57,6 +57,8 @@ Loans made under this subchapter shall be payable in not to exceed seven years. 
 #### References in Text
 
 Paragraph (3), referred to in subsec. (a)(1), was repealed by Pub. L. 104–127, title VI, §661(g), Apr. 4, 1996, 110 Stat. 1107.
+
+Section 2279(e) of this title, referred to in subsec. (a)(2), was redesignated section 2279(a) of this title by section 12301(b)(3) of Pub. L. 115–334.
 
 #### Amendments
 

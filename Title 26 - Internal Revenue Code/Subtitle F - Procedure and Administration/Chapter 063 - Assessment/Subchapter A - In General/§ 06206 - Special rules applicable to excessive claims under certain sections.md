@@ -22,7 +22,7 @@ A prior section 6206 was renumbered 6207 of this title.
 
 <b>1970</b>—Pub. L. 91–258 inserted reference to section 6427 in section catchline, inserted reference to section 6427 in first and second sentences, and substituted "by section 4081 (with respect to payments under sections 6420 and 6421), 4091 (with respect to payments under section 6424), or 4041 (with respect to payments under section 6427)" for "by section 4081 (or, in the case of lubricating oil, by section 4091)", in first sentence, respectively.
 
-<b>1965</b>—Pub. L. 89–44 struck out "6420 and 6421" wherever appearing in section catchline and text and substituted therefor "6420, 6421, and 6424" and inserted"(or, in the case of lubricating oil, by section 4091)" after "4081" in text.
+<b>1965</b>—Pub. L. 89–44 struck out "6420 and 6421" wherever appearing in section catchline and text and substituted therefor "6420, 6421, and 6424" and inserted "(or, in the case of lubricating oil, by section 4091)" after "4081" in text.
 
 <b>1956</b>—Act June 29, 1956, inserted reference to excessive claims under section 6421 in section catchline and text.
 

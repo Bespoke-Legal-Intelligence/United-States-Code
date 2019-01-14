@@ -10,7 +10,7 @@ In General.—The Federal Maritime Commission shall investigate whether any laws
 
 (b)
 
-Initiation of Investigation.—An investigation under subsection (a) may be initiatedby the Commission on its own motion or on the petition of any person, including another component of the United States Government.
+Initiation of Investigation.—An investigation under subsection (a) may be initiated by the Commission on its own motion or on the petition of any person, including another component of the United States Government.
 
 (c)
 

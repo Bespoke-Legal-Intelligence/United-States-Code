@@ -36,7 +36,7 @@ In any dispute settlement proceeding conducted pursuant to the Dispute Settlemen
 
 #### (e) Public file
 
-The Trade Representative shall maintain a file accessible to the public on each dispute settlement proceeding to which the United States is a party that is conducted pursuant to the Dispute Settlement Understanding. The file shall include all United States submissions in the proceeding and a listing of any submissions to the Trade Representative from the public with respect to the proceeding, as well as the report ofthe dispute settlement panel and the report of the Appellate Body.
+The Trade Representative shall maintain a file accessible to the public on each dispute settlement proceeding to which the United States is a party that is conducted pursuant to the Dispute Settlement Understanding. The file shall include all United States submissions in the proceeding and a listing of any submissions to the Trade Representative from the public with respect to the proceeding, as well as the report of the dispute settlement panel and the report of the Appellate Body.
 
 (Pub. L. 103–465, title I, §127, Dec. 8, 1994, 108 Stat. 4835.)
 
@@ -46,5 +46,5 @@ Section is comprised of section 127 of Pub. L. 103–465. Subsec. (f) of section
 
 #### Effective Date
 
-Section effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
 

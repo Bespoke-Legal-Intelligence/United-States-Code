@@ -24,11 +24,11 @@
 
 #### (c) Increased agricultural production in least developed countries
 
-The Congress finds that the greatest potential for significantly expanding availability of food for people in rural areas and augmenting world food production at relatively low cost lies in increasing the productivity of small farmers who constitute a majority of the agricultural producers in developing countries. Increasing the emphasis on rural development and expandedfood production in the poorest nations of the developing world is a matter of social justice and a principal element contributing to broadly based economic growth, as well as an important factor in alleviating inflation in the industrialized countries. In the allocation of funds under this section, special attention shall be given to increasing agricultural production in countries which have been designated as "least developed" by the United Nations General Assembly.
+The Congress finds that the greatest potential for significantly expanding availability of food for people in rural areas and augmenting world food production at relatively low cost lies in increasing the productivity of small farmers who constitute a majority of the agricultural producers in developing countries. Increasing the emphasis on rural development and expanded food production in the poorest nations of the developing world is a matter of social justice and a principal element contributing to broadly based economic growth, as well as an important factor in alleviating inflation in the industrialized countries. In the allocation of funds under this section, special attention shall be given to increasing agricultural production in countries which have been designated as "least developed" by the United Nations General Assembly.
 
 #### (d) Coordination with population planning and health programs
 
-Assistance provided under this section shall also be used in coordination with programs carried out under section 2151b of this title to help improve nutrition of the people of developing countries through encouragement of increased production of crops with greater nutritional value; improvement of planning, research, and education with respect to nutrition, particularly with reference to improvement and expanded use of indigenously produced foodstuffs; and the undertaking of pilot or demonstration programs explicitly addressing the problem of malnutrition of poor and vulnerable people. In particular, the President is encouraged—
+Assistance provided under this section shall also be used in coordination with programs carried out under section 2151b of this title to help improve nutrition of the people of developing countries through encouragement of increased production of crops with greater nutritional value; improvement of planning, research, and education with respect to nutrition, particularly with reference to improvement and expanded use of indigenously produced foodstuffs; and the undertaking of pilot or demonstration programsexplicitly addressing the problem of malnutrition of poor and vulnerable people. In particular, the President is encouraged—
 
 &emsp;(1) to devise and carry out in partnership with developing countries a strategy for programs of nutrition and health improvement for mothers and children, including breast feeding; and
 
@@ -131,6 +131,8 @@ Pub. L. 96–533, title III, §316, Dec. 16, 1980, 94 Stat. 3149, provided:
 "(b) As a means of carrying out subsection (a), and to ensure the effectiveness of private and voluntary organizations in dealing with world hunger abroad, the Director is urged to provide assistance to private and voluntary organizations engaged in facilitating public discussion of hunger and other related issues."
 
 \[For abolition of United States International Development Cooperation Agency (other than Agency for International Development and Overseas Private Investment Corporation), transfer of functions, and treatment of references thereto, see sections 6561, 6562, and 6571 of this title.\]
+
+\[For transfer of functions, personnel, assets, and liabilities of Overseas Private Investment Corporation to United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of this title.\]
 
 #### Reduction of Postharvest Losses of Food
 

@@ -4,7 +4,7 @@
 
 #### (1) Expansion of activities
 
-&emsp;The Director of NIH (in this section referred to as the "Director") shall, subject to the availability of appropriations, expand, intensify, and coordinate the activities of the National Institutes of Health with respect to research on autism spectrum disorder, including basic and clinical research in fields including pathology, developmental neurobiology, genetics, epigenetics, pharmacology, nutrition, immunology, neuroimmunology, neurobehavioral development, endocrinology, gastroenterology, and toxicology. Such research shall investigate the cause (including possible environmental causes), diagnosis or rule out, early detection, prevention, services, supports, intervention, and treatment of autism spectrum disorder.
+&emsp;The Director of NIH (in this section referred to as the "Director") shall, subject to the availability of appropriations, expand, intensify, and coordinate the activities of the National Institutes of Health with respect to research on autism spectrum disorder, including basic and clinical research in fields including pathology, developmental neurobiology, genetics, epigenetics, pharmacology, nutrition, immunology, neuroimmunology, neurobehavioral development, endocrinology, gastroenterology, and toxicology. Such research shall investigate the cause (includingpossible environmental causes), diagnosis or rule out, early detection, prevention, services, supports, intervention, and treatment of autism spectrum disorder.
 
 #### (2) Consolidation
 

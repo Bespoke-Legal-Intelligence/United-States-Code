@@ -46,7 +46,7 @@ An individual may not receive, through national service educational awards and s
 
 #### (2) Exception
 
-&emsp;The Corporation may extend the period within which an individual may use a nationalservice educational award, summer of service educational award, or silver scholar educational award if the Corporation determines that the individual—
+&emsp;The Corporation may extend the period within which an individual may use a national service educational award, summer of service educational award, or silver scholar educational award if the Corporation determines that the individual—
 
 &emsp;&emsp;(A) was unavoidably prevented from using the national service educational award, summer of service educational award, or silver scholar educational award during the original 7-year period, or 10-year period, as appropriate; or
 
@@ -125,7 +125,7 @@ Subsec. (a)(3), (4). Pub. L. 111–13, §1402(2)(B), (C), redesignated par. (4) 
 
 Subsec. (b). Pub. L. 111–13, §1402(3), designated existing provisions as par. (1), inserted par. (1) heading, and added pars. (2) and (3).
 
-Subsec. (c). Pub. L. 111–13, §1402(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "Although an individual mayserve more than 2 terms of service described in subsection (b) of this section in an approved national service position, the individual shall receive a national service educational award from the National Service Trust only on the basis of the first and second of such terms of service."
+Subsec. (c). Pub. L. 111–13, §1402(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "Although an individual may serve more than 2 terms of service described in subsection (b) of this section in an approved national service position, the individual shall receive a national service educational award from the National Service Trust only on the basis of the first and second of such terms of service."
 
 Subsec. (d)(1). Pub. L. 111–13, §1402(5)(A)(i), substituted "In general" for "Seven-year requirement" in heading.
 
@@ -147,13 +147,17 @@ Subsec. (e)(1). Pub. L. 111–13, §1402(6), inserted "or under section 12563(c)
 
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
+#### Effective Date
+
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
+
 #### Study To Evaluate the Effectiveness of Agency Coordination
 
 Pub. L. 111–13, title I, §1711, Apr. 21, 2009, 123 Stat. 1550, provided that:
 
 "(a)
 
-Study.—In order to reduce administrative burdens and lower costs for national service programs carried out under the national service laws, the Corporation shall conduct a study to determine the feasibility and effectiveness of implementing a data matching system under which the statements of an individual declaring that such individual is in compliance with the requirements of section 146(a)(3) of the National and Community Service Act of 1990 (42 U.S.C. 12602(a)(3)) shall be verified by the Corporation by comparing information provided by the individual with information relevant to such a declaration in the possession of other Federal agencies. Such study shall—
+Study.—In order to reduce administrative burdens and lower costs for national service programs carried out under the national service laws, the Corporation shall conduct a study to determine the feasibility and effectiveness of implementing a data matching system under which the statements of an individual declaring that such individual is in compliance with therequirements of section 146(a)(3) of the National and Community Service Act of 1990 (42 U.S.C. 12602(a)(3)) shall be verified by the Corporation by comparing information provided by the individual with information relevant to such a declaration in the possession of other Federal agencies. Such study shall—
 
 &emsp;"(1) review the feasibility of—
 

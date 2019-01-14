@@ -84,7 +84,7 @@ Subsecs. (f), (g). Pub. L. 110–181, §843(a)(2)(A), redesignated subsecs. (e) 
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title VIII, §843(a)(3)(B), Jan. 28, 2008, 122 Stat. 238, provided that: "The amendmentsmade by paragraph (2) \[amending this section\] shall take effect on the date that is 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], and shall apply with respect to any task or delivery order awarded on or after such date."
+Pub. L. 110–181, div. A, title VIII, §843(a)(3)(B), Jan. 28, 2008, 122 Stat. 238, provided that: "The amendments made by paragraph (2) \[amending this section\] shall take effect on the date that is 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], and shall apply with respect to any task or delivery order awarded on or after such date."
 
 #### Effective Date
 

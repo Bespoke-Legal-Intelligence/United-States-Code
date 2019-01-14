@@ -52,7 +52,7 @@ For purposes of this section:
 
 &emsp;(C) the appropriate Federal banking agency (as defined in section 1813(q) of title 12) or, in the case of a Federal credit union, the National Credit Union Administration, has given its prior approval if the materials to be provided under subparagraph (B) are requested by the foreign law enforcement agency for the purpose of investigating, or engaging in enforcement proceedings based on, possible violations of law by a bank, a savings and loan institution described in section 57a(f)(3) of this title, or a Federal credit union described in section 57a(f)(4) of this title; and
 
-&emsp;(D) the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) of title 50.
+&emsp;(D) the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) <sup>1</sup> of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) <sup>1</sup> of title 50.
 
 > Nothing in the preceding sentence authorizes the disclosure of material obtained in connection with the administration of the Federal antitrust laws or foreign antitrust laws (as defined in paragraphs (5) and (7), respectively, of section 6211 of this title) to any officer or employee of a foreign law enforcement agency.
 
@@ -62,7 +62,7 @@ For purposes of this section:
 
 &emsp;(B) transmit in writing to the person who produced the material or testimony notice as to the identity and address of the successor so designated.
 
-> Any successor designated under paragraph (2)(A) as a result of the requirements of this paragraph shall have (with regard to the material involved) all duties and responsibilities imposed by this section upon his predecessor in office with regard to such material, except that he shall notbe held responsible for any default or dereliction which occurred before his designation.
+> Any successor designated under paragraph (2)(A) as a result of the requirements of this paragraph shall have (with regard to the material involved) all duties and responsibilities imposed by this section upon his predecessor in office with regard to such material, except that he shall not be held responsible for any default or dereliction which occurred before his designation.
 
 #### (c) Information considered confidential
 
@@ -78,7 +78,7 @@ For purposes of this section:
 
 &emsp;(A) the disclosure of information to either House of the Congress or to any committee or subcommittee of the Congress, except that the Commission immediately shall notify the owner or provider of any such information of a request for information designated as confidential by the owner or provider;
 
-&emsp;(B) the disclosure of the results of any investigation or study carried out or prepared by the Commission, except that no information shall be identified nor shall information be disclosed in such a manner as to disclose a trade secret of any person supplying the trade secret, or to disclose any commercial or financial information which is obtained from any person and which is privileged or confidential;
+&emsp;(B) the disclosure of the results of any investigation or study carried out or prepared bythe Commission, except that no information shall be identified nor shall information be disclosed in such a manner as to disclose a trade secret of any person supplying the trade secret, or to disclose any commercial or financial information which is obtained from any person and which is privileged or confidential;
 
 &emsp;(C) the disclosure of relevant and material information in Commission adjudicative proceedings or in judicial proceedings to which the Commission is a party; or
 
@@ -112,7 +112,7 @@ Nothing in this section shall supersede any statutory provision which expressly 
 
 &emsp;&emsp;Nothing in this subsection shall authorize the Commission to withhold information from the Congress or prevent the Commission from complying with an order of a court of the United States in an action commenced by the United States or the Commission.
 
-(Sept. 26, 1914, ch. 311, §21, as added Pub. L. 96–252, §14, May 28, 1980, 94 Stat. 385; amended Pub. L. 103–312, §8, Aug. 26, 1994, 108 Stat. 1694; Pub. L. 109–455, §§6, 13, Dec. 22, 2006, 120 Stat.3376, 3382; Pub. L. 112–203, §1, Dec. 4, 2012, 126 Stat. 1484.)
+(Sept. 26, 1914, ch. 311, §21, as added Pub. L. 96–252, §14, May 28, 1980, 94 Stat. 385; amended Pub. L. 103–312, §8, Aug. 26, 1994, 108 Stat. 1694; Pub. L. 109–455, §§6, 13, Dec. 22, 2006, 120 Stat. 3376, 3382; Pub. L. 112–203, §1, Dec. 4, 2012, 126 Stat. 1484.)
 
 #### Amendment of Section
 
@@ -121,6 +121,8 @@ Nothing in this section shall supersede any statutory provision which expressly 
 #### References in Text
 
 Section 552(e) of title 5, referred to in subsec. (a)(2), was redesignated section 552(f) of Title 5, Government Organization and Employees, by section 1802(b) of Pub. L. 99–570.
+
+Section 4605(j) of title 50, referred to in subsec. (b)(6)(D), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of title 50, see section 4813(c) of title 50, as enacted by Pub. L. 115–232.
 
 Section 3512 of title 44, referred to in subsec. (d)(1)(D), which related to requirements for the collection of information by independent Federal regulatory agencies, was a part of chapter 35 of Title 44, Public Printing and Documents. Chapter 35 was amended generally by the Paperwork Reduction Act of 1980 (Pub. L. 96–511) and subsequently by the Paperwork Reduction Act of 1995 (Pub. L. 104–13).
 

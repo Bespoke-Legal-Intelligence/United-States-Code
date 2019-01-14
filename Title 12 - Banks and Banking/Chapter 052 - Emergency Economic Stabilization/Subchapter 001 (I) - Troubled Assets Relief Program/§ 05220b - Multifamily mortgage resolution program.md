@@ -42,7 +42,7 @@ For purposes of this section, the term "multifamily properties" means a resident
 
 #### (3) Report
 
-&emsp;The Secretary shall report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate regarding the implementation of this provision.The report shall also describe the steps taken to implement this subsection.
+&emsp;The Secretary shall report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate regarding the implementation of this provision. The report shall also describe the steps taken to implement this subsection.
 
 (Pub. L. 111–203, title XIV, §1481, July 21, 2010, 124 Stat. 2202.)
 

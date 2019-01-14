@@ -130,7 +130,7 @@
 
 &emsp;The accompanying information shall—
 
-&emsp;&emsp;(A) with respect to providers described in subparagraphs (A) and (C) of subsection (a)(2), consist of information provided by such providers, disaggregated by local areas served, as applicable, in accordance with subsection (b);
+&emsp;&emsp;(A) with respect to providers described in subparagraphs (A) and (C) of subsection\(a)(2), consist of information provided by such providers, disaggregated by local areas served, as applicable, in accordance with subsection (b);
 
 &emsp;&emsp;(B) with respect to providers described in subsection (b)(4), consist of information provided by such providers in accordance with subsection (b)(4); and
 
@@ -146,7 +146,7 @@
 
 #### (e) Opportunity to submit comments
 
-In establishing, under this section, criteria, information requirements, procedures, and thelist of eligible providers described in subsection (d), the Governor shall provide an opportunity for interested members of the public to make recommendations and submit comments regarding such criteria, information requirements, procedures, and list.
+In establishing, under this section, criteria, information requirements, procedures, and the list of eligible providers described in subsection (d), the Governor shall provide an opportunity for interested members of the public to make recommendations and submit comments regarding such criteria, information requirements, procedures, and list.
 
 #### (f) Enforcement
 
@@ -192,7 +192,7 @@ The Governor and local boards shall implement the requirements of this section n
 
 #### References in Text
 
-The National Apprenticeship Act, referred to in subsec. (a)(2)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
+The National Apprenticeship Act, referred to in subsec. (a)(2)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664,which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsecs. (f)(1)(B), (C), and (i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to chapter 30 (§2801 et seq.) of this title. Chapter 5 of subtitle B of title I of the Act was classified generally to part E (§2861 et seq.) of subchapter II of chapter 30 of this title. For complete classification of this Act to the Code, see Tables.
 

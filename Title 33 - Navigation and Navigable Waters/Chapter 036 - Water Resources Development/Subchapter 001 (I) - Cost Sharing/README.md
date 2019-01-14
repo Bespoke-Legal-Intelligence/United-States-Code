@@ -20,6 +20,6 @@
 - [&sect; 02222 - Use of other Federal funds](%C2%A7%2002222%20-%20Use%20of%20other%20Federal%20funds.md)
 - [&sect; 02223 - Transfer of excess credit](%C2%A7%2002223%20-%20Transfer%20of%20excess%20credit.md)
 - [&sect; 02224 - Crediting authority for federally authorized navigation projects](%C2%A7%2002224%20-%20Crediting%20authority%20for%20federally%20authorized%20navigation%20projects.md)
-- [&sect; 02225 - Credit in lieu of reimbursement](%C2%A7%2002225%20-%20Credit%20in%20lieu%20of%20reimbursement.md)
+- [&sect; 02225 - Credit or reimbursement](%C2%A7%2002225%20-%20Credit%20or%20reimbursement.md)
 - [&sect; 02226 - Water resources projects on Federal land](%C2%A7%2002226%20-%20Water%20resources%20projects%20on%20Federal%20land.md)
 - [&sect; 02227 - Clarification of impacts to other Federal facilities](%C2%A7%2002227%20-%20Clarification%20of%20impacts%20to%20other%20Federal%20facilities.md)

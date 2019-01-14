@@ -14,7 +14,7 @@ Early Termination.—The court, after considering the factors set forth in secti
 
 (d)
 
-Extension.—The court may, after a hearing, extend a term of probation, if less than themaximum authorized term was previously imposed, at any time prior to the expiration or termination of the term of probation, pursuant to the provisions applicable to the initial setting of the term of probation.
+Extension.—The court may, after a hearing, extend a term of probation, if less than the maximum authorized term was previously imposed, at any time prior to the expiration or termination of the term of probation, pursuant to the provisions applicable to the initial setting of the term of probation.
 
 (e)
 

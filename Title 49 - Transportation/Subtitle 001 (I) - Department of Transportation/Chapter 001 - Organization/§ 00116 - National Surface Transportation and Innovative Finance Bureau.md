@@ -96,7 +96,7 @@ Review.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The Comptroller General of the United States shall review thecompliance of the Executive Director with the requirements of this paragraph.
+In general.—The Comptroller General of the United States shall review the compliance of the Executive Director with the requirements of this paragraph.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -190,7 +190,7 @@ Project Procurement.—
 
 &emsp;(1)
 
-In general.—The Bureau shall promote best practices in procurement for a project receiving assistance under a program referred to in subsection (d)(1) by developing, in coordination with modal administrations within theDepartment as appropriate, procurement benchmarks in order to ensure accountable expenditure of Federal assistance over the life cycle of the project.
+In general.—The Bureau shall promote best practices in procurement for a project receiving assistance under a program referred to in subsection (d)(1) by developing, in coordination with modal administrations within the Department as appropriate, procurement benchmarks in order to ensure accountable expenditure of Federal assistance over the life cycle of the project.
 
 &emsp;(2)
 
@@ -248,11 +248,11 @@ Budgetary resources.—
 
 &emsp;&emsp;&emsp;(i)
 
-Transfer of funds from eliminated or consolidated offices.—During the 2-year period beginning on the date of enactment of this section, the Secretary may transfer to the Bureau funds allocated to any office or office function that is eliminated or consolidated under this subsection to carry out the purposes of the Bureau.
+Transfer of funds from eliminated or consolidated offices.—The Secretary may transfer to the Bureau funds allocated to any office or office function that is eliminated or consolidated under this subsection to carry out the purposes of the Bureau. Any such funds or limitation of obligations or portions thereof transferred to the Bureau may be transferred back to and merged with the original account.
 
 &emsp;&emsp;&emsp;(ii)
 
-Transfer of funds allocated to administrative costs.—During the 2-year period beginning on the date of enactment of this section, the Secretary may transfer to the Bureau funds allocated to the administrative costs of processing applications for the programs referred to in subsection (d)(1).
+Transfer of funds allocated to administrative costs.—The Secretary may transfer to the Bureau funds allocated to the administrative costs of processing applications for the programs referred to in subsection (d)(1). Any such funds or limitation of obligations or portions thereof transferred to the Bureau may be transferred back to and merged with the original account.
 
 &emsp;(4)
 
@@ -310,15 +310,19 @@ Multimodal project.—The term "multimodal project" means a project involving th
 
 Project.—The term "project" means a highway project, public transportation capital project, freight or passenger rail project, or multimodal project.
 
-(Added Pub. L. 114–94, div. A, title IX, §9001(a), Dec. 4, 2015, 129 Stat. 1612.)
+(Added Pub. L. 114–94, div. A, title IX, §9001(a), Dec. 4, 2015, 129 Stat. 1612; amended Pub. L. 115–56, div. D, §164(a), as added Pub. L. 115–123, div. B, §20101(2), Feb. 9, 2018, 132 Stat. 121.)
 
 #### References in Text
 
 Section 142 of the Internal Revenue Code of 1986, referred to in subsec. (d)(1)(C), is classified to section 142 of Title 26, Internal Revenue Code.
 
-The date of enactment of this section, referred to in subsecs. (d)(5), (6)(B)(iii), (h)(3)(D), (4), and (i)(3), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+The date of enactment of this section, referred to in subsecs. (d)(5), (6)(B)(iii), (h)(4), and (i)(3), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (f)(2)(D), (3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (h)(3)(D)(i), (ii). Pub. L. 115–56, §164(a), as added by Pub. L. 115–123, §20101(2), substituted "The" for "During the 2-year period beginning on the date of enactment of this section, the" and inserted at end "Any such funds or limitation of obligations or portions thereof transferred to the Bureau may be transferred back to and merged with the original account."
 
 #### Effective Date
 

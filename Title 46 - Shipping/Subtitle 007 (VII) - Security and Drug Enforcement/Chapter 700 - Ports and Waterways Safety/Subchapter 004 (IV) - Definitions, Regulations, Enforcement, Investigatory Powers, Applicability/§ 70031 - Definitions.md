@@ -1,0 +1,26 @@
+### §70031. Definitions
+
+As used in subchapters A through C <sup>1</sup> and this subchapter, unless the context otherwise requires:
+
+&emsp;(1) The term "marine environment" means—
+
+&emsp;&emsp;(A) the navigable waters of the United States and the land and resources therein and thereunder;
+
+&emsp;&emsp;(B) the waters and fishery resources of any area over which the United States asserts exclusive fishery management authority;
+
+&emsp;&emsp;(C) the seabed and subsoil of the Outer Continental Shelf of the United States, the resources thereof, and the waters superjacent thereto; and
+
+&emsp;&emsp;(D) the recreational, economic, and scenic values of such waters and resources.
+
+&emsp;(2) The term "Secretary" means the Secretary of the department in which the Coast Guard is operating, except that such term means the Secretary of Transportation with respect to the application of this chapter to the Saint Lawrence Seaway.
+
+&emsp;(3) The term "navigable waters of the United States" includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
+
+(Added Pub. L. 115–282, title IV, §401(a), Dec. 4, 2018, 132 Stat. 4261.)
+
+#### References in Text
+
+Presidential Proclamation No. 5928, referred to in par. (3), is set out under section 1331 of Title 43, Public Lands.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "subchapters I through III".</i>
+

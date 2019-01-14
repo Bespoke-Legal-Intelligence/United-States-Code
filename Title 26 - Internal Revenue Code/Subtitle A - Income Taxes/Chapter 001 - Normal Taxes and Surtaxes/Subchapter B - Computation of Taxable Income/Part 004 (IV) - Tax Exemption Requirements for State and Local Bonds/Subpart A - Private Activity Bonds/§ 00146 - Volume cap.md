@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The volume cap for any constitutional home rule city for any calendar year shall bedetermined under paragraph (1) of subsection (c) by substituting "100 percent" for "50 percent".
+&emsp;&emsp;The volume cap for any constitutional home rule city for any calendar year shall be determined under paragraph (1) of subsection (c) by substituting "100 percent" for "50 percent".
 
 #### (B) Coordination with other allocations
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If the population of any possession of the United States for any calendar year is less than the population of the least populous State (other than a possession) for such calendar year, the limitation under paragraph (1)(A) shall not be less than the amount determined under subparagraph (B) for such calendar year.
+&emsp;&emsp;If the population of any possession of the United States for any calendar year is less than the population of the least populousState (other than a possession) for such calendar year, the limitation under paragraph (1)(A) shall not be less than the amount determined under subparagraph (B) for such calendar year.
 
 #### (B) Limitation
 

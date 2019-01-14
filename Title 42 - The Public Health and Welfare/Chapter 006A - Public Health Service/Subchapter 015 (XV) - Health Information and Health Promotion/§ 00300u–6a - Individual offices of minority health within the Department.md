@@ -10,7 +10,7 @@ The agencies referred to in subsection (a) are the Centers for Disease Control a
 
 #### (c) Director; appointment
 
-Each Office of Minority Health established in an agency listed in subsection (a) <sup>2</sup> shall be headed by a director, with documented experience and expertise in minority health services research and health disparities elimination.
+Each Office of Minority Health established in an agency listed in subsection (a) <sup>2</sup> shall be headed by a director, with documented experienceand expertise in minority health services research and health disparities elimination.
 
 #### (d) References
 
@@ -30,7 +30,7 @@ Except as otherwise specified, any reference in Federal law to an Office of Mino
 
 #### Construction
 
-Pub. L. 111–148, title X, §10334(b)(2), Mar. 23, 2010, 124 Stat. 973, provided that: "Nothing in this subsection \[enacting this section and provisions set out as a note under this section\] and the amendments made by this subsection may be construed as establishing regulatoryauthority or modifying any existing regulatory authority."
+Pub. L. 111–148, title X, §10334(b)(2), Mar. 23, 2010, 124 Stat. 973, provided that: "Nothing in this subsection \[enacting this section and provisions set out as a note under this section\] and the amendments made by this subsection may be construed as establishing regulatory authority or modifying any existing regulatory authority."
 
 #### Application of Allocation Requirements
 

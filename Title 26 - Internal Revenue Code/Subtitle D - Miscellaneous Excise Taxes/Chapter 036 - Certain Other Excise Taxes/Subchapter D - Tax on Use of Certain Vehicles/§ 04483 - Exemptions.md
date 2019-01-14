@@ -54,7 +54,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed by sectio
 
 #### (4) Relief from liability for tax under certain circumstances where truck is transferred
 
-&emsp;Under regulations prescribed by the Secretary, the owner of a highway motor vehicle with respect to which the collection of the tax imposed by section 4481 is suspended under paragraph (1) shall not be liable for the tax imposed by section 4481 (and the new owner shall be liable for such tax) with respect to such vehicle if—
+&emsp;Under regulations prescribed by the Secretary, the owner of a highway motor vehiclewith respect to which the collection of the tax imposed by section 4481 is suspended under paragraph (1) shall not be liable for the tax imposed by section 4481 (and the new owner shall be liable for such tax) with respect to such vehicle if—
 
 &emsp;&emsp;(A) such vehicle is transferred to a new owner,
 

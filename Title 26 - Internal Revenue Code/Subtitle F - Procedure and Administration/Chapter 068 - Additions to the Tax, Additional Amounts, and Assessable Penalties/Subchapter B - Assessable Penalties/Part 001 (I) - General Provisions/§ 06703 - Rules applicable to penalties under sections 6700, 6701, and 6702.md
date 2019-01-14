@@ -16,11 +16,11 @@ Subchapter B of chapter 63 (relating to deficiency procedures) shall not apply w
 
 #### (2) Person must bring suit in district court to determine his liability for penalty
 
-&emsp;If, within 30 days after the day on which his claim for refund of any partial payment of anypenalty under section 6700 or 6701 is denied (or, if earlier, within 30 days after the expiration of 6 months after the day on which he filed the claim for refund), the person fails to begin a proceeding in the appropriate United States district court for the determination of his liability for such penalty, paragraph (1) shall cease to apply with respect to such penalty, effective on the day following the close of the applicable 30-day period referred to in this paragraph.
+&emsp;If, within 30 days after the day on which his claim for refund of any partial payment of any penalty under section 6700 or 6701 is denied (or, if earlier, within 30 days after the expiration of 6 months after the day on which he filed the claim for refund), the person fails to begin a proceeding in the appropriate United States district court for the determination of his liability for such penalty, paragraph (1) shall cease to apply with respect to such penalty, effective on the day following the close of the applicable 30-day period referred to in this paragraph.
 
 #### (3) Suspension of running of period of limitations on collection
 
-&emsp;The running of the period of limitations provided in section 6502 on the collection by levy or by a proceeding in court in respect of any penalty described in paragraph (1) shall be suspended for the period during which the Secretary is prohibited from collecting by levy or a proceeding in court.
+&emsp;The running of the period of limitations provided in section 6502 on the collection by levyor by a proceeding in court in respect of any penalty described in paragraph (1) shall be suspended for the period during which the Secretary is prohibited from collecting by levy or a proceeding in court.
 
 (Added Pub. L. 97–248, title III, §322(a), Sept. 3, 1982, 96 Stat. 612; amended Pub. L. 101–239, title VII, §§7736(a), 7737(a), Dec. 19, 1989, 103 Stat. 2404.)
 

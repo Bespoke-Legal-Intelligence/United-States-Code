@@ -48,7 +48,7 @@ There are established on the books of the Treasury of the United States for revo
 
 &emsp;(ii) premiums received in fiscal years specified in subclauses (I) through (V) of clause (i) shall be allocated in order first to the noninterest-bearing account in the amount specified and second to any other accounts within such fund; and
 
-&emsp;(iii) financial assistance, as provided under section 1431 of this title, shall be withdrawn proportionately from the noninterest-bearing and other accounts within the fund.
+&emsp;(iii) financial assistance, as provided under section 1431 of this title, shall be withdrawnproportionately from the noninterest-bearing and other accounts within the fund.
 
 #### (c) Repealed. Pub. L. 112–141, div. D, title II, §40234(a), July 6, 2012, 126 Stat. 858
 

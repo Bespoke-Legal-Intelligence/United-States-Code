@@ -30,7 +30,7 @@ An order issued under section 2903(b) of this title shall contain the following 
 
 &emsp;&emsp;(ii) ensure that segments of the beef industry that enjoy a unique consumer identity receive equitable and fair treatment under this chapter.
 
-&emsp;(C) The Committee shall be responsible for developing and submitting to the Board, for its approval, budgets on a fiscal year basis of its anticipated expenses and disbursements, including probable costs of advertising and promotion, research, consumer information, and industry information projects. The Board shall approve or disapprove such budgets and, if approved, shall submit such budget to the Secretary for the Secretary's approval.
+&emsp;(C) The Committee shall be responsible for developing and submitting to the Board, for its approval, budgets on a fiscal year basis ofits anticipated expenses and disbursements, including probable costs of advertising and promotion, research, consumer information, and industry information projects. The Board shall approve or disapprove such budgets and, if approved, shall submit such budget to the Secretary for the Secretary's approval.
 
 &emsp;(D) The total costs of collection of assessments and administrative staff incurred by the Board during any fiscal year shall not exceed 5 per centum of the projected total assessments to be collected by the Board for such fiscal year. The Board shall use, to the extent possible, the resources, staffs, and facilities of existing organizations.
 
@@ -38,7 +38,7 @@ An order issued under section 2903(b) of this title shall contain the following 
 
 &emsp;(6) The order shall provide that, to ensure coordination and efficient use of funds, the Committee shall enter into contracts or agreements for implementing and carrying out the activities authorized by this chapter with established national nonprofit industry-governed organizations, including the federation referred to in paragraph (4), to implement programs of promotion, research, consumer information, and industry information. Any such contract or agreement shall provide that—
 
-&emsp;&emsp;(A) the person entering the contract or agreement shall develop and submit to the Committee a plan or project together with abudget or budgets that shows estimated costs to be incurred for the plan or project;
+&emsp;&emsp;(A) the person entering the contract or agreement shall develop and submit to the Committee a plan or project together with a budget or budgets that shows estimated costs to be incurred for the plan or project;
 
 &emsp;&emsp;(B) the plan or project shall become effective on the approval of the Secretary; and
 

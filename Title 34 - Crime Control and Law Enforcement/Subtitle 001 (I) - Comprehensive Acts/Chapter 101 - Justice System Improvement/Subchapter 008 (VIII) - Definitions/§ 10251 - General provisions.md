@@ -64,7 +64,7 @@ As used in this chapter—
 
 &emsp;(22) "correctional option" includes community-based incarceration, weekend incarceration, boot camp prison, electronic monitoring of offenders, intensive probation, and any other innovative punishment designed to have the greatest impact on offenders who can be punished more effectively in an environment other than a traditional correctional facility;
 
-&emsp;(23) "boot camp prison" includes a correctional facility in which inmates are required to participate in a highly regimented programthat provides strict discipline, physical training, and hard labor, together with extensive rehabilitative activities and with educational, job training, and drug treatment support;
+&emsp;(23) "boot camp prison" includes a correctional facility in which inmates are required to participate in a highly regimented program that provides strict discipline, physical training, and hard labor, together with extensive rehabilitative activities and with educational, job training, and drug treatment support;
 
 &emsp;(24) the term "young offender" means a non-violent first-time offender or a non-violent offender with a minor criminal record who is 22 years of age or younger (including juveniles);
 

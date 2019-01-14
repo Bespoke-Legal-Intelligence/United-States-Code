@@ -18,7 +18,7 @@ A permit may be issued pursuant to an application under subsection (a) if the Fe
 
 #### (c) Notification to Indian tribes of possible harm to or destruction of sites having religious or cultural importance
 
-If a permit issued under this section may result in harm to, or destruction of, any religiousor cultural site, as determined by the Federal land manager, before issuing such permit, the Federal land manager shall notify any Indian tribe which may consider the site as having religious or cultural importance. Such notice shall not be deemed a disclosure to the public for purposes of section 470hh of this title.
+If a permit issued under this section may result in harm to, or destruction of, any religious or cultural site, as determined by the Federal land manager, before issuing such permit, the Federal land manager shall notify any Indian tribe which may consider the site as having religious or cultural importance. Such notice shall not be deemed a disclosure to the public for purposes of section 470hh of this title.
 
 #### (d) Terms and conditions of permit
 
@@ -30,7 +30,7 @@ Each permit under this section shall identify the individual who shall be respon
 
 #### (f) Suspension or revocation of permits; grounds
 
-Any permit issued under this section may be suspended by the Federal land manager upon his determination that the permittee has violated any provision of subsection (a), (b), or (c) of section 470ee of this title. Any such permit may be revoked by such Federal land manager upon assessment of a civil penalty under section 470ff of this title against the permittee or upon the permittee's conviction under section 470ee of this title.
+Any permit issued under this section may be suspended by the Federal land manager upon his determination that the permittee has violated any provision of subsection (a), (b), or (c) of section 470ee of this title. Any such permit may berevoked by such Federal land manager upon assessment of a civil penalty under section 470ff of this title against the permittee or upon the permittee's conviction under section 470ee of this title.
 
 #### (g) Excavation or removal by Indian tribes or tribe members; excavation or removal of resources located on Indian lands
 

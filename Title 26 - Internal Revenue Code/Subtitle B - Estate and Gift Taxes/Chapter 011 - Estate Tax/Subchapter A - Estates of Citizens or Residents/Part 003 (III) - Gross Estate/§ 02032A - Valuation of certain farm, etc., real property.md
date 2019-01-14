@@ -186,7 +186,7 @@
 
 &emsp;&emsp;&emsp;(i) no tax shall be imposed under paragraph (1) by reason of the failure by the qualified heir to so use such property before the commencement date, and
 
-&emsp;&emsp;&emsp;(ii) the 10-year period under paragraph (1) shall be extended by the period afterthe decedent's death and before the commencement date.
+&emsp;&emsp;&emsp;(ii) the 10-year period under paragraph (1) shall be extended by the period after the decedent's death and before the commencement date.
 
 #### (B) Active management by eligible qualified heir treated as material participation
 
@@ -294,7 +294,7 @@ For purposes of this section—
 
 &emsp;&emsp;Except as provided in subparagraph (B), the value of a farm for farming purposes shall be determined by dividing—
 
-&emsp;&emsp;&emsp;(i) the excess of the average annual gross cash rental for comparable land used for farming purposes and located in the locality of such farm over the average annual State and local real estate taxes for such comparable land, by
+&emsp;&emsp;&emsp;(i) the excess of the average annual gross cash rental for comparable land used forfarming purposes and located in the locality of such farm over the average annual State and local real estate taxes for such comparable land, by
 
 &emsp;&emsp;&emsp;(ii) the average annual effective interest rate for all new Federal Land Bank loans.
 
@@ -352,7 +352,7 @@ For purposes of this section—
 
 #### (11) Bond in lieu of personal liability
 
-&emsp;If the qualified heir makes written application to the Secretary for determination of the maximum amount of the additional tax whichmay be imposed by subsection (c) with respect to the qualified heir's interest, the Secretary (as soon as possible, and in any event within 1 year after the making of such application) shall notify the heir of such maximum amount. The qualified heir, on furnishing a bond in such amount and for such period as may be required, shall be discharged from personal liability for any additional tax imposed by subsection (c) and shall be entitled to a receipt or writing showing such discharge.
+&emsp;If the qualified heir makes written application to the Secretary for determination of the maximum amount of the additional tax which may be imposed by subsection (c) with respect to the qualified heir's interest, the Secretary (as soon as possible, and in any event within 1 year after the making of such application) shall notify the heir of such maximum amount. The qualified heir, on furnishing a bond in such amount and for such period as may be required, shall be discharged from personal liability for any additional tax imposed by subsection (c) and shall be entitled to a receipt or writing showing such discharge.
 
 #### (12) Active management
 
@@ -516,7 +516,7 @@ The Secretary shall prescribe regulations setting forth the application of this 
 
 &emsp;For purposes of this subsection, the term "qualified exchange property" means real property which is to be used for the qualified use set forth in subparagraph (A) or (B) of subsection (b)(2) under which the real property exchanged therefor originally qualified under subsection (a).
 
-(Added Pub. L. 94–455, title XX, §2003(a), Oct. 4, 1976, 90 Stat. 1856; amended Pub. L. 95–472, §4(a), (c), Oct. 17, 1978, 92 Stat. 1334, 1336; Pub. L. 95–600, title VII, §702(d)(1), (2), (4), (5), Nov. 6, 1978, 92 Stat. 2928, 2929; Pub. L. 97–34, title IV, §421(a)–(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, 95 Stat. 306–313; Pub. L. 97–448, title I, §104(b)(1), (2), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 98–369, div. A, title X, §1025(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title I, §104(b)(3), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 100–647, title VI, §6151(a), Nov. 10, 1988, 102 Stat. 3724; Pub. L. 101–508, title XI, §11802(f)(5), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 105–34, title V, §§501(b), 504(a), (b), 508(c), title XIII, §1313(a), Aug. 5, 1997,111 Stat. 845, 853, 854, 860, 1045; Pub. L. 108–311, title II, §207(22), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 115–97, title I, §11002(d)(1)(DD), Dec. 22, 2017, 131 Stat. 2060.)
+(Added Pub. L. 94–455, title XX, §2003(a), Oct. 4, 1976, 90 Stat. 1856; amended Pub. L. 95–472, §4(a), (c), Oct. 17, 1978, 92 Stat. 1334, 1336; Pub. L. 95–600, title VII, §702(d)(1), (2), (4), (5), Nov. 6, 1978, 92 Stat. 2928, 2929; Pub. L. 97–34, title IV, §421(a)–(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, 95 Stat. 306–313; Pub. L. 97–448, title I, §104(b)(1), (2), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 98–369, div. A, title X, §1025(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title I, §104(b)(3), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 100–647, title VI, §6151(a), Nov. 10, 1988, 102 Stat. 3724; Pub. L. 101–508, title XI, §11802(f)(5), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 105–34, title V, §§501(b), 504(a), (b), 508(c), title XIII, §1313(a), Aug. 5, 1997, 111 Stat. 845, 853, 854, 860, 1045; Pub. L. 108–311, title II, §207(22), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 115–97, title I, §11002(d)(1)(DD), Dec. 22, 2017, 131 Stat. 2060.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -540,7 +540,7 @@ Subsec. (c)(7)(E). Pub. L. 105–34, §504(a), added subpar. (E).
 
 Subsec. (c)(8). Pub. L. 105–34, §508(c), added par. (8).
 
-Subsec. (d)(3). Pub. L. 105–34, §1313(a), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "The Secretary shall prescribe procedures which provide that in any case in which—
+Subsec. (d)(3). Pub. L. 105–34, §1313(a), amended heading and text of par. (3) generally. Prior to amendment,text read as follows: "The Secretary shall prescribe procedures which provide that in any case in which—
 
 &emsp;"(A) the executor makes an election under paragraph (1) within the time prescribed for filing such election, and
 
@@ -630,7 +630,7 @@ Subsec. (h). Pub. L. 95–472, §4(a), added subsec. (h).
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e)of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -708,7 +708,7 @@ In general.—The amendments made by subsections (b)(1), (j)(1), and (j)(2) \[am
 
 &emsp;"(B)
 
-Timely election required.—Subparagraph (A) shall only apply in the case of an estate if a timely election under section 2032A was made with respect to such estate. If the estate of any decedent would not qualify under section 2032A of the Internal Revenue Code of 1986 but for the amendments described in subparagraph (A) and the time for making an election under section 2032A with respect to such estate would\(but for this sentence) expire after July 28, 1980, the time for making such election shall not expire before the close of February 16, 1982.
+Timely election required.—Subparagraph (A) shall only apply in the case of an estate if a timely election under section 2032A was made with respect to such estate. If the estate of any decedent would not qualify under section 2032A of the Internal Revenue Code of 1986 but for the amendments described in subparagraph (A) and the time for making an election under section 2032A with respect to such estate would (but for this sentence) expire after July 28, 1980, the time for making such election shall not expire before the close of February 16, 1982.
 
 &emsp;"(C)
 
@@ -730,7 +730,7 @@ Pub. L. 94–455, title XX, §2003(e), Oct. 4, 1976, 90 Stat. 1862, provided tha
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Waiver of Statute of Limitation for Taxes on Certain Farm Valuations
 

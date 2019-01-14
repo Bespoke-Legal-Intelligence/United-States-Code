@@ -86,11 +86,15 @@ In general.—The collateral provided by the small business concern shall genera
 
 &emsp;&emsp;(ii)
 
-Appraisals.—With respect to commercial real property provided by the small business concern as collateral, an appraisal of the property by a State licensed or certified appraiser—
+Appraisals.—
 
-&emsp;&emsp;&emsp;(I) shall be required by the Administration before disbursement of the loan if the estimated value of that property is more than $250,000; or
+&emsp;&emsp;&emsp;(I) In general.—With respect to commercial real property provided by the small business concern as collateral, an appraisal of the property by a State licensed or certified appraiser—
 
-&emsp;&emsp;&emsp;(II) may be required by the Administration or the lender before disbursement of the loan if the estimated value of that property is $250,000 or less, and such appraisal is necessary for appropriate evaluation of creditworthiness.
+&emsp;&emsp;&emsp;&emsp;(aa) shall be required by the Administration before disbursement of the loan if the estimated value of that property is more than the Federal banking regulator appraisal threshold; or
+
+&emsp;&emsp;&emsp;&emsp;(bb) may be required by the Administration or the lender before disbursement of the loan if the estimated value of that property is equal to or less than the Federal banking regulator appraisal threshold, and such appraisal is necessary for appropriate evaluation of creditworthiness.
+
+&emsp;&emsp;&emsp;(II) Federal banking regulator appraisal threshold defined.—For purposes of this clause, the term "Federal banking regulator appraisal threshold" means the lesser of the threshold amounts set by the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Federal Deposit Insurance Corporation for when a federally related transaction that is a commercial real estate transaction requires an appraisal prepared by a State licensed or certified appraiser.
 
 (4) If the project is to construct a new facility, up to 33 per centum of the total project may be leased, if reasonable projections of growth demonstrate that the assisted small business concern will need additional space within three years and will fully utilize such additional space within ten years.
 
@@ -112,7 +116,7 @@ In general.—Any financing approved under this subchapter may include a limited
 
 &emsp;(B)
 
-Expansions.—If the project involves expansion of a small business concern, any amount of existing indebtedness that does not exceed 50 percent of the project cost of the expansion may be refinanced and added to the expansion cost, if—
+Expansions.—If the project involves expansion of a small business concern, any amount of existing indebtedness that does notexceed 50 percent of the project cost of the expansion may be refinanced and added to the expansion cost, if—
 
 &emsp;&emsp;(i) the proceeds of the indebtedness were used to acquire land, including a building situated thereon, to construct a building thereon, or to purchase equipment;
 
@@ -130,9 +134,11 @@ Expansions.—If the project involves expansion of a small business concern, any
 
 &emsp;(C) <sup>2</sup> Repealed. Pub. L. 111–240, title I, §1122(b), Sept. 27, 2010, 124 Stat. 2512.
 
-(Pub. L. 85–699, title V, §502, Aug. 21, 1958, 72 Stat. 697; Pub. L. 87–27, §26, May 1, 1961, 75 Stat. 63; Pub. L. 87–341, §10, Oct. 3, 1961, 75 Stat. 756; Pub. L. 94–305, title I, §§108(a), 110, June 4, 1976, 90 Stat. 666, 667; Pub. L. 95–507, title I, §112, Oct. 24, 1978, 92 Stat. 1760; Pub. L. 97–35, title XIX, §1909, Aug. 13, 1981, 95 Stat. 778; Pub. L. 100–418, title VIII, §8007(b), Aug. 23, 1988, 102 Stat. 1561; Pub. L. 100–590, title I, §116(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997, 2998; Pub. L. 101–574, title II, §214(c), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 104–208, div. D, title II, §202(a), Sept. 30, 1996, 110 Stat. 3009–734; Pub. L. 105–135, title II, §221, Dec. 2, 1997, 111 Stat. 2603; Pub. L. 106–554, §1(a)(9) \[title II, §208(b), title III, §303, title VIII, §802(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–683, 2763A–684, 2763A–702; Pub. L. 108–447, div. K, title I, §104, Dec. 8, 2004, 118 Stat. 3444; Pub. L. 110–140, title XII, §1204(b), Dec. 19, 2007, 121 Stat. 1772; Pub. L. 111–5, div. A, title V, §504(a), Feb. 17, 2009, 123 Stat. 155; Pub. L. 111–240, title I, §§1112, 1122, Sept. 27, 2010, 124 Stat. 2508, 2510.)
+(Pub. L. 85–699, title V, §502, Aug. 21, 1958, 72 Stat. 697; Pub. L. 87–27, §26, May 1, 1961, 75 Stat. 63; Pub. L. 87–341, §10, Oct. 3, 1961, 75 Stat. 756; Pub. L. 94–305, title I, §§108(a), 110, June 4, 1976, 90 Stat. 666, 667; Pub. L. 95–507, title I, §112, Oct. 24, 1978, 92 Stat. 1760; Pub. L. 97–35, title XIX, §1909, Aug. 13, 1981, 95 Stat. 778; Pub. L. 100–418, title VIII, §8007(b), Aug. 23, 1988, 102 Stat. 1561; Pub. L. 100–590, title I, §116(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997, 2998; Pub. L. 101–574, title II, §214(c), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 104–208, div. D, title II, §202(a), Sept. 30, 1996, 110 Stat. 3009–734; Pub. L. 105–135, title II, §221, Dec. 2, 1997, 111 Stat. 2603; Pub. L. 106–554, §1(a)(9) \[title II, §208(b), title III, §303, title VIII, §802(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–683, 2763A–684, 2763A–702; Pub. L. 108–447, div. K, title I, §104, Dec. 8, 2004, 118 Stat. 3444; Pub. L. 110–140, title XII, §1204(b), Dec. 19, 2007, 121 Stat. 1772; Pub. L. 111–5, div. A, title V, §504(a), Feb. 17, 2009, 123 Stat. 155; Pub. L. 111–240, title I, §§1112, 1122, Sept. 27, 2010, 124 Stat. 2508, 2510; Pub. L. 115–371, §2, Dec. 21, 2018, 132 Stat. 5106.)
 
 #### Amendments
+
+<b>2018</b>—Par. (3)(E)(ii). Pub. L. 115–371 redesignated introductory provisions of cl. (ii) as subcl. (I) of cl. (ii) and inserted heading, redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, of subcl. (I) and realigned margins, in item (aa), substituted "is more than the Federal banking regulator appraisal threshold" for "is more than $250,000", in item (bb), substituted "is equal to or less than the Federal banking regulator appraisal threshold" for "is $250,000 or less", and added subcl. (II).
 
 <b>2010</b>—Par. (2)(A)(i). Pub. L. 111–240, §1122(c), substituted "clause (ii), (iii), (iv), or (v)" for "subparagraph (B) or (C)".
 
@@ -316,7 +322,7 @@ Pub. L. 114–113, div. E, title V, §521(a), Dec. 18, 2015, 129 Stat. 2463, pro
 
 &emsp;"(1) subclause (I)(bb) and subclause (II) of clause (iv) of such subparagraph (C) shall not be in effect;
 
-&emsp;"(2) unless, upon application by a development company and after determining that the refinance loan is needed for good cause, the Administrator of the Small Business Administration waives this paragraph, a development company shall limit its financings under section 502 of the Small Business Investment Act of 1958 (15 U.S.C. 696) so that, during any fiscal year, new financings under such subparagraph (C) shall not exceed 50 percent of the dollars loaned under title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.) during the previous fiscal year; and
+&emsp;"(2) unless, upon application by a development company and after determining that the refinance loan is needed for good cause, the Administrator of the Small Business Administration waives this paragraph, a development company shall limit its financings under section 502 of the Small Business Investment Act of 1958 (15 U.S.C. 696) so that, during any fiscal year, new financings under such subparagraph (C) shall not exceed 50 percent of the dollars loaned under title V of the Small Business Investment Act of1958 (15 U.S.C. 695 et seq.) during the previous fiscal year; and
 
 &emsp;"(3) clause (iv)(I)(aa) of such subparagraph (C) shall be applied by substituting 'job creation and retention' for 'job creation'."
 

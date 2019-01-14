@@ -26,7 +26,7 @@
 
 (g) Subsection (c) of this section does not repeal or modify any provision of statute authorizing the provision of quarters or facilities, either without charge or at rates or charges specifically fixed by statute.
 
-(h) A member of the uniformed service on a permanent change of duty station or temporaryduty orders and occupying unaccompanied personnel housing—
+(h) A member of the uniformed service on a permanent change of duty station or temporary duty orders and occupying unaccompanied personnel housing—
 
 &emsp;(1) is exempt from the requirement of subsection (c) to pay a rental rate or charge based on the reasonable value of the quarters and facilities provided; and
 
@@ -100,7 +100,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L. 99–145, formerly set out in a Military Family Policy and Programs note under section 113 of Title 10, Armed Forces.
+Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L. 99–145, formerly set out in aMilitary Family Policy and Programs note under section 113 of Title 10, Armed Forces.
 
 #### Delegation of Functions
 

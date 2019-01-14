@@ -122,7 +122,7 @@ Pub. L. 102–232, title III, §302(e)(8), Dec. 12, 1991, 105 Stat. 1746, provid
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, seesection 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -176,7 +176,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §237\], Nov. 29, 19
 
 "(a)
 
-Policy.—It shall be the policy of the Department of State to process immigrant visa applications of immediate relatives of United States citizens and nonimmigrant K–1 visa applications of fiances of United States citizens within 30 days of the receipt of all necessary documents from the applicant and the Immigration and Naturalization Service. In the case of an immigrant visa application where the sponsor of such applicant is a relative other than an immediate relative, it should be the policy of the Department of State toprocess such an application within 60 days of the receipt of all necessary documents from the applicant and the Immigration and Naturalization Service.
+Policy.—It shall be the policy of the Department of State to process immigrant visa applications of immediate relatives of United States citizens and nonimmigrant K–1 visa applications of fiances of United States citizens within 30 days of the receipt of all necessary documents from the applicant and the Immigration and Naturalization Service. In the case of an immigrant visa application where the sponsor of such applicant is a relative other than an immediate relative, it should be the policy of the Department of State to process such an application within 60 days of the receipt of all necessary documents from the applicant and the Immigration and Naturalization Service.
 
 "(b)
 
@@ -212,7 +212,7 @@ Aliens Covered.—An alien is described in this subsection if the alien—
 
 &emsp;"(1)(A) is chargeable under section 202 of the Immigration and Nationality Act \[8 U.S.C. 1152\] to Hong Kong or China, and
 
-&emsp;"(B)(i) is residing in Hong Kong as of the date of the enactment of this Act \[Nov. 29, 1990\] and is issued an immigrant visa under paragraph (1), (2), (4), or (5) of section 203(a) of the Immigration and Nationality Act \[8 U.S.C. 1153(a)\] (as in effect on the date of the enactment of this Act) or under section 203(a) or 203(b)(1) of such Act (as in effect on and after October 1, 1991), or (ii) is the spouse or child (as defined in subsection (d)) of an alien described in clause (i), if accompanying or following to join the alien in coming to the United States; or
+&emsp;"(B)(i) is residing in Hong Kong as of the date of the enactment of this Act \[Nov. 29, 1990\] and is issued an immigrant visa under paragraph (1), (2), (4), or (5) of section 203(a) of the Immigration and Nationality Act \[8 U.S.C. 1153(a)\] (as in effect on the date of the enactment of this Act) or under section 203(a) or 203(b)(1) of such Act (as in effect on and after October 1, 1991), or (ii) is the spouse or child (as defined insubsection (d)) of an alien described in clause (i), if accompanying or following to join the alien in coming to the United States; or
 
 &emsp;"(2) is issued a visa under section 124 of this Act \[enacting provisions set out as a note under section 1153 of this title\].
 

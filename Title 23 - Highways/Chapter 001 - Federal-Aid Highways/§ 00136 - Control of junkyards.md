@@ -24,7 +24,7 @@
 
 (l) Nothing in this section shall prohibit a State from establishing standards imposing stricter limitations with respect to outdoor junkyards on the Federal-aid highway systems than those established under this section.
 
-(m) There is authorized to be appropriated to carry out this section, out of any money in the Treasury not otherwise appropriated, not to exceed $20,000,000 for the fiscal year ending June 30, 1966, not to exceed $20,000,000 for the fiscal year ending June 30, 1967, not to exceed $3,000,000 for the fiscal year ending June 30, 1970, not to exceed $3,000,000 for the fiscal year ending June 30, 1971, not to exceed $3,000,000 for the fiscal year ending June 30, 1972, and not to exceed $5,000,000 for the fiscal year ending June 30, 1973. The provisions of this chapter relating to the obligation, period of availability, and expenditure of Federal-aid primary highway funds shall apply to the funds authorized to be appropriated to carry out this section after June 30, 1967.
+(m) There is authorized to be appropriated to carry out this section, out of any money in the Treasury not otherwise appropriated, not to exceed $20,000,000 for the fiscal year ending June30, 1966, not to exceed $20,000,000 for the fiscal year ending June 30, 1967, not to exceed $3,000,000 for the fiscal year ending June 30, 1970, not to exceed $3,000,000 for the fiscal year ending June 30, 1971, not to exceed $3,000,000 for the fiscal year ending June 30, 1972, and not to exceed $5,000,000 for the fiscal year ending June 30, 1973. The provisions of this chapter relating to the obligation, period of availability, and expenditure of Federal-aid primary highway funds shall apply to the funds authorized to be appropriated to carry out this section after June 30, 1967.
 
 (n)
 
@@ -40,7 +40,7 @@ Definitions.—For purposes of this section, the terms "primary system" and "Fed
 
 Subsec. (n). Pub. L. 112–141, §1404(b)(2), added subsec. (n).
 
-<b>1975</b>—Subsec. (j). Pub. L. 93–643 substituted provision that compensation shall be paid the owner for the relocation, removal, or disposal of junkyards lawfully established under State law, for provision relating topayment of just compensation for relocation, removal, or disposal of junkyards (1) lawfully in existence on Oct. 22, 1965, (2) lawfully along any highway made a part of the interstate or primary system on or after Oct. 22, 1965, and before Jan. 1, 1968, and (3) lawfully established on or after Jan. 1, 1968.
+<b>1975</b>—Subsec. (j). Pub. L. 93–643 substituted provision that compensation shall be paid the owner for the relocation, removal, or disposal of junkyards lawfully established under State law, for provision relating to payment of just compensation for relocation, removal, or disposal of junkyards (1) lawfully in existence on Oct. 22, 1965, (2) lawfully along any highway made a part of the interstate or primary system on or after Oct. 22, 1965, and before Jan. 1, 1968, and (3) lawfully established on or after Jan. 1, 1968.
 
 <b>1970</b>—Subsec. (m). Pub. L. 91–605 authorized to be appropriated not to exceed $3,000,000, $3,000,000, and $5,000,000, for the fiscal years ending June 30, 1971, 1972, and 1973, respectively.
 

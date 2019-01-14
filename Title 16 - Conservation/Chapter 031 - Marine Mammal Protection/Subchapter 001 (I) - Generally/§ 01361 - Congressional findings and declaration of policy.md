@@ -34,6 +34,10 @@ Par. (5). Pub. L. 103–238, §3(2), inserted "and their habitats" before "is th
 
 Pub. L. 92–522, §4, Oct. 21, 1972, 86 Stat. 1029, provided that: "The provisions of this Act \[enacting this chapter\] shall take effect upon the expiration of the sixty-day period following the date of its enactment \[Oct. 21, 1972\]."
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–329, §1, Dec. 18, 2018, 132 Stat. 4475, provided that: "This Act \[amending section 1389 of this title and enacting provisions set out as a note under section 1389 of this title\] may be cited as the 'Endangered Salmon Predation Prevention Act'."
+
 #### Short Title of 2007 Amendment
 
 Pub. L. 109–479, title IX, §901, Jan. 12, 2007, 120 Stat. 3660, provided that: "This title \[enacting subchapter VI of this chapter and amending section 1377 of this title\] may be cited as the 'United States-Russia Polar Bear Conservation and Management Act of 2006'."
@@ -110,7 +114,7 @@ Pub. L. 103–238, §14, Apr. 30, 1994, 108 Stat. 558, provided that: "Nothing i
 
 #### Study on Effects of Dolphin Feeding
 
-Pub. L. 102–567, title III, §306, Oct. 29, 1992, 106 Stat. 4284, directed Secretary of Commerce to conduct a study in the eastern Gulf of Mexico on the effects offeeding of noncaptive dolphins by human beings, such study to be designed to detect any behavior or diet modification resulting from this feeding and to identify the effects, if any, of these modifications on the health and well-being of the dolphins, directed Secretary to consult with National Academy of Sciences and Marine Mammal Commission in design and conduct of the study, and directed Secretary, within 18 months after Oct. 29, 1992, to submit to Congress a report on results of the study.
+Pub. L. 102–567, title III, §306, Oct. 29, 1992, 106 Stat. 4284, directed Secretary of Commerce to conduct a study in the eastern Gulf of Mexico on the effects of feeding of noncaptive dolphins by human beings, such study to be designed to detect any behavior or diet modification resulting from this feeding and to identify the effects, if any, of these modifications on the health and well-being of the dolphins, directed Secretary to consult with National Academy of Sciences and Marine Mammal Commission in design and conduct of the study, and directed Secretary, within 18 months after Oct. 29, 1992, to submit to Congress a report on results of the study.
 
 #### Study on Mortality of Atlantic Dolphin
 

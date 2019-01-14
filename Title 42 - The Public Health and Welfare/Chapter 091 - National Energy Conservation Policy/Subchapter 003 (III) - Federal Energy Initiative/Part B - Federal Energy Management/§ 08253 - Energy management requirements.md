@@ -16,7 +16,7 @@
 | &nbsp;2011 | 18&nbsp;&nbsp; |
 | &nbsp;2012 | 21&nbsp;&nbsp; |
 | &nbsp;2013 | 24&nbsp;&nbsp; |
-| &nbsp;2014 | 27&nbsp;&nbsp; |
+| &nbsp;2014 | 27   |
 | &nbsp;2015 | 30\. |
 
 (2) An agency may exclude from the requirements of paragraph (1) any building, and the associated energy consumption and gross square footage, in which energy intensive activities are carried out. Each agency shall identify and list in each report made under section 8258(a) of this title the buildings designated by it for such exclusion.
@@ -103,7 +103,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;&emsp;(ii) include recommendations concerning the amount of funds and the number of trained personnel necessary to gather and use the metering information to track and reduce energy use;
 
-&emsp;&emsp;&emsp;(iii) establish priorities for types and locations of buildings to be metered based oncost-effectiveness and a schedule of one or more dates, not later than 1 year after the date of issuance of the guidelines, on which the requirements specified in paragraph (1) shall take effect; and
+&emsp;&emsp;&emsp;(iii) establish priorities for types and locations of buildings to be metered based on cost-effectiveness and a schedule of one or more dates, not later than 1 year after the date of issuance of the guidelines, on which the requirements specified in paragraph (1) shall take effect; and
 
 &emsp;&emsp;&emsp;(iv) establish exclusions from the requirements specified in paragraph (1) based on the de minimis quantity of energy use of a Federal building, industrial process, or structure.
 
@@ -157,7 +157,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;&emsp;&emsp;(II) the operational needs of the owner of the facility, including preparation of operation personnel; and
 
-&emsp;&emsp;&emsp;(ii) the primary goal of which is to ensure fully functional systems that can be properly operated and maintained during the useful life of the facility.
+&emsp;&emsp;&emsp;(ii) the primary goal of which is to ensure fully functional systems that can beproperly operated and maintained during the useful life of the facility.
 
 #### (B) Energy manager
 
@@ -399,7 +399,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (1) In general
 
-&emsp;Each Federal agency shall ensure that any large capital energy investment in an existing building that is not a major renovation but involves replacement of installed equipment (such as heating and cooling systems), or involves renovation, rehabilitation, expansion, or remodeling of existing space, employs themost energy efficient designs, systems, equipment, and controls that are life-cycle cost effective.
+&emsp;Each Federal agency shall ensure that any large capital energy investment in an existing building that is not a major renovation but involves replacement of installed equipment (such as heating and cooling systems), or involves renovation, rehabilitation, expansion, or remodeling of existing space, employs the most energy efficient designs, systems, equipment, and controls that are life-cycle cost effective.
 
 #### (2) Process for review of investment decisions
 
@@ -467,7 +467,7 @@ Subsecs. (b), (c). Pub. L. 102–486, §152(b)(4), added subsecs. (b) and (c). F
 
 Subsec. (d). Pub. L. 102–486, §152(b)(4), (c)(1), redesignated subsec. (b) as (d) and in introductory provisions substituted "The Secretary shall consult with the Secretary of Defense and the Administrator of General Services in developing guidelines for the implementation of this part. To meet the requirements of this section," for "To achieve the goal established in subsection (a),".
 
-Subsec. (d)(1). Pub. L. 102–486, §152(c)(2), added par. (1) and struck out former par. (1) which read as follows:"prepare or update, within 6 months after November 5, 1988, a plan describing how the agency intends to meet such goal, including how it will implement this part, designate personnel primarily responsible for achieving such goal, and identify high priority projects;".
+Subsec. (d)(1). Pub. L. 102–486, §152(c)(2), added par. (1) and struck out former par. (1) which read as follows: "prepare or update, within 6 months after November 5, 1988, a plan describing how the agency intends to meet such goal, including how it will implement this part, designate personnel primarily responsible for achieving such goal, and identify high priority projects;".
 
 Subsec. (d)(2). Pub. L. 102–486, §152(c)(3), inserted before semicolon at end "and update such surveys as needed, incorporating any relevant information obtained from the survey conducted pursuant to section 8258b of this title".
 

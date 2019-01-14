@@ -7,7 +7,7 @@ Subpart A—Nonrefundable Personal Credits
 | [23\.](%C2%A7%2000023%20-%20Adoption%20expenses.md) | Adoption expenses. |
 | [24\.](%C2%A7%2000024%20-%20Child%20tax%20credit.md) | Child tax credit. |
 | [25\.](%C2%A7%2000025%20-%20Interest%20on%20certain%20home%20mortgages.md) | Interest on certain home mortgages. |
-| [25A.](%C2%A7%2000025A%20-%20Hope%20and%20Lifetime%20Learning%20credits.md) | Hope and Lifetime Learning credits. |
+| [25A.](%C2%A7%2000025A%20-%20American%20Opportunity%20and%20Lifetime%20Learning%20credits.md) | American Opportunity and Lifetime Learning credits. |
 | [25B.](%C2%A7%2000025B%20-%20Elective%20deferrals%20and%20IRA%20contributions%20by%20certain%20individuals.md) | Elective deferrals and IRA contributions by certain individuals. |
 | [25C.](%C2%A7%2000025C%20-%20Nonbusiness%20energy%20property.md) | Nonbusiness energy property. |
 | [25D.](%C2%A7%2000025D%20-%20Residential%20energy%20efficient%20property.md) | Residential energy efficient property. |
@@ -16,6 +16,8 @@ Subpart A—Nonrefundable Personal Credits
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title I, §101(l)(10), Mar. 23, 2018, 132 Stat. 1165, substituted "American Opportunity and Lifetime Learning credits" for "Hope and Lifetime Learning credits" in item 25A.
 
 <b>2010</b>—Pub. L. 111–148, title X, §10909(b)(2)(O), (c), Mar. 23, 2010, 124 Stat. 1023, as amended by Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298, temporarily struck out item 23 "Adoption expenses". See Effective and Termination Dates of 2010 Amendment note set out under section 1 of this title.
 
@@ -57,7 +59,7 @@ Pub. L. 97–414, §4(c)(1), Jan. 4, 1983, 96 Stat. 2056, added item 44H.
 
 <b>1975</b>—Pub. L. 94–164, §3(a)(2), Dec. 23, 1975, 89 Stat. 973, substituted "Taxable income credit" for "Credit for personal exemptions" in item 42.
 
-Pub. L. 94–12, title II, §§203(b)(1), 204(c), 208(d)(1), Mar. 29, 1975, 89 Stat. 30, 32, 35, renumbered item 42 as 45 andadded item 42 applicable to taxable years ending after Dec. 31, 1974, but to cease to apply to taxable years ending after Dec. 31, 1975, item 43 applicable to taxable years beginning after Dec. 31, 1974, but before Jan. 1, 1976, and item 44.
+Pub. L. 94–12, title II, §§203(b)(1), 204(c), 208(d)(1), Mar. 29, 1975, 89 Stat. 30, 32, 35, renumbered item 42 as 45 and added item 42 applicable to taxable years ending after Dec. 31, 1974, but to cease to apply to taxable years ending after Dec. 31, 1975, item 43 applicable to taxable years beginning after Dec. 31, 1974, but before Jan. 1, 1976, and item 44.
 
 <b>1971</b>—Pub. L. 92–178, title VI, §601(c)(2), Dec. 10, 1971, 85 Stat. 557, added items 40 and 41, and redesignated former item 40 as 42.
 
@@ -79,7 +81,7 @@ Pub. L. 94–12, title II, §§203(b)(1), 204(c), 208(d)(1), Mar. 29, 1975, 89 S
 - [&sect; 00023 - Adoption expenses](%C2%A7%2000023%20-%20Adoption%20expenses.md)
 - [&sect; 00024 - Child tax credit](%C2%A7%2000024%20-%20Child%20tax%20credit.md)
 - [&sect; 00025 - Interest on certain home mortgages](%C2%A7%2000025%20-%20Interest%20on%20certain%20home%20mortgages.md)
-- [&sect; 00025A - Hope and Lifetime Learning credits](%C2%A7%2000025A%20-%20Hope%20and%20Lifetime%20Learning%20credits.md)
+- [&sect; 00025A - American Opportunity and Lifetime Learning credits](%C2%A7%2000025A%20-%20American%20Opportunity%20and%20Lifetime%20Learning%20credits.md)
 - [&sect; 00025B - Elective deferrals and IRA contributions by certain individuals](%C2%A7%2000025B%20-%20Elective%20deferrals%20and%20IRA%20contributions%20by%20certain%20individuals.md)
 - [&sect; 00025C - Nonbusiness energy property](%C2%A7%2000025C%20-%20Nonbusiness%20energy%20property.md)
 - [&sect; 00025D - Residential energy efficient property](%C2%A7%2000025D%20-%20Residential%20energy%20efficient%20property.md)

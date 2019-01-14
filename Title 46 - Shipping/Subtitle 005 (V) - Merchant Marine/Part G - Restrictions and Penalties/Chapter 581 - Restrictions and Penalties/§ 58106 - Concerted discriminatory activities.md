@@ -6,7 +6,7 @@ Prohibition.—A contractor receiving an operating-differential subsidy, or a ch
 
 (b)
 
-Government Payment Prohibited.—No payment or subsidy of any kind may be paid, directly or indirectly, out of funds of the United States Government to a contractor or charterer that has violated subsection (a).
+Government Payment Prohibited.—No payment or subsidy of any kind may be paid, directly or indirectly, out of funds of the UnitedStates Government to a contractor or charterer that has violated subsection (a).
 
 (c)
 

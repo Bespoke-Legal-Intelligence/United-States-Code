@@ -2,7 +2,7 @@
 
 (a)
 
-Rights of Sexual Assault Survivors.—In addition to those rights provided in section 3771,a sexual assault survivor has the following rights:
+Rights of Sexual Assault Survivors.—In addition to those rights provided in section 3771, a sexual assault survivor has the following rights:
 
 &emsp;(1) The right not to be prevented from, or charged for, receiving a medical forensic examination.
 

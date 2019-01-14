@@ -6,7 +6,7 @@ Notwithstanding section 3302 of title 31, any moneys on and after November 5, 19
 
 #### Codification
 
-Section enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1991, and not as part of the Outer Continental Shelf Lands Act which comprises this subchapter.
+Section enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1991,and not as part of the Outer Continental Shelf Lands Act which comprises this subchapter.
 
 #### Amendments
 

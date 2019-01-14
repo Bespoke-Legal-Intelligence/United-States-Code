@@ -1,6 +1,6 @@
 ### §8141. Civil Air Patrol volunteers
 
-(a) Subject to the provisions of this section, this subchapter applies to a volunteer civilianmember of the Civil Air Patrol, except a Civil Air Patrol Cadet under 18 years of age.
+(a) Subject to the provisions of this section, this subchapter applies to a volunteer civilian member of the Civil Air Patrol, except a Civil Air Patrol Cadet under 18 years of age.
 
 (b) In administering this subchapter for a member of the Civil Air Patrol covered by this section—
 
@@ -18,7 +18,7 @@
 
 &emsp;(4) "performance of duty" means only active service, and travel to and from that service, rendered in performance or support of operational missions of the Civil Air Patrol under direction of the Department of the Air Force and under written authorization by competent authority covering a specific assignment and prescribing a time limit for the assignment; and
 
-&emsp;(5) the Secretary of Labor or his designee shall inform the Commissioner of Social Security when a claim is filed and eligibility for compensation is established under section 8133(a)(2) or (3) of this title, and the Commissioner of Social Security shall certify to the Secretary of Labor as to whether or not the member concerned was fully or currently insured under subchapter II of chapter 7 of title 42 at the time of his death.
+&emsp;(5) the Secretary of Labor or his designee shall inform the Commissioner of Social Security when a claim is filed and eligibility for compensation is established under section8133(a)(2) or (3) of this title, and the Commissioner of Social Security shall certify to the Secretary of Labor as to whether or not the member concerned was fully or currently insured under subchapter II of chapter 7 of title 42 at the time of his death.
 
 (c) The Secretary of Labor or his designee may inform the Secretary of the Air Force or his designee when a claim is filed. The Secretary of the Air Force, on request of the Secretary of Labor, shall advise him of the facts concerning the injury and whether or not the member was rendering service, or engaged in travel to or from service, in performance or support of an operational mission of the Civil Air Patrol at the time of injury. This subsection does not dispense with the report of the immediate superior of the member required by section 8120 of this title, or other reports agreed on under that section.
 

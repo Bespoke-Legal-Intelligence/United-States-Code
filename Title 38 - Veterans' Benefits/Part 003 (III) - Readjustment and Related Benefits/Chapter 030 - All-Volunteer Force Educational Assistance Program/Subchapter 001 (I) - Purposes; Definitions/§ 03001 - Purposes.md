@@ -6,7 +6,7 @@ The purposes of this chapter are—
 
 &emsp;(2) to extend the benefits of a higher education to qualifying men and women who might not otherwise be able to afford such an education;
 
-&emsp;(3) to provide for vocational readjustment and to restore lost educational opportunitiesto those service men and women who served on active duty after June 30, 1985;
+&emsp;(3) to provide for vocational readjustment and to restore lost educational opportunities to those service men and women who served on active duty after June 30, 1985;
 
 &emsp;(4) to promote and assist the All-Volunteer Force program and the Total Force Concept of the Armed Forces by establishing a new program of educational assistance based upon service on active duty or a combination of service on active duty and in the Selected Reserve (including the National Guard) to aid in the recruitment and retention of highly qualified personnel for both the active and reserve components of the Armed Forces;
 
@@ -28,7 +28,7 @@ Prior section 3001 was renumbered section 5101 of this title.
 
 #### Department of Veterans Affairs High Technology Pilot Program
 
-Pub. L. 115–48, title I, §116, Aug. 16, 2017, 131 Stat. 986, provided that:
+Pub. L. 115–48, title I, §116, Aug. 16, 2017, 131 Stat. 986, as amended by Pub. L. 115–407, title I, §105, Dec. 31, 2018, 132 Stat. 5371, provided that:
 
 "(a)
 
@@ -84,9 +84,9 @@ Housing Stipend.—The Secretary shall pay to each eligible veteran who is enrol
 
 &emsp;"(1) of—
 
-&emsp;&emsp;"(A) in the case of a veteran pursuing resident training, the monthly amount of the basic allowance for housing payable under section 403 of title 37, United States Code, for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution at which the individual is enrolled; or
+&emsp;&emsp;"(A) in the case of a veteran pursuing resident training, the monthly amount of the basic allowance for housing payable under section 403 of title 37, United States Code, for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the campus of the institution where the individual physically participates in a majority of classes; or
 
-&emsp;&emsp;"(B) in the case of a veteran pursuing a program of education through distance learning, a monthly amount equal to 50 percent of the amount payable under subparagraph (A), multiplied by
+&emsp;&emsp;"(B) in the case of a veteran pursuing a program of education through distance learning, a monthly amount equal to 50 percent of the national average of the monthly amount of the basic allowance for housing payable under section 403 of title 37, United States Code, for a member with dependents in pay grade E–5, multiplied by
 
 &emsp;"(2) the lesser of—
 

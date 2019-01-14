@@ -46,7 +46,7 @@
 
 &emsp;&emsp;Subject to subparagraphs (C) and (D), in the case of income not from a trust, unless the instrument providing the income otherwise specifically provides—
 
-&emsp;&emsp;&emsp;(i) if payment of income is made solely in the name of the institutionalized spouseor the community spouse, the income shall be considered available only to that respective spouse;
+&emsp;&emsp;&emsp;(i) if payment of income is made solely in the name of the institutionalized spouse or the community spouse, the income shall be considered available only to that respective spouse;
 
 &emsp;&emsp;&emsp;(ii) if payment of income is made in the names of the institutionalized spouse and the community spouse, one-half of the income shall be considered available to each of them; and
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) if payment of income is made to both the institutionalized spouse and the community spouse, one-half of the income shall be considered available to each of them; and
 
-&emsp;&emsp;&emsp;&emsp;(III) if payment of income is made to the institutionalized spouse or the community spouse, or both, and to another person or persons, the income shall be considered available to each spouse in proportion to the spouse's interest (or, if payment is made with respect to both spouses and no such interest is specified, one-half of the joint interest shall be considered available to each spouse).
+&emsp;&emsp;&emsp;&emsp;(III) if payment of income is made to the institutionalized spouse or the community spouse, or both, and to another person or persons, the income shall be considered available to each spouse in proportion to the spouse's interest (or, ifpayment is made with respect to both spouses and no such interest is specified, one-half of the joint interest shall be considered available to each spouse).
 
 #### (C) Property with no instrument
 
@@ -110,7 +110,7 @@
 
 #### (4) Separate treatment of resources after eligibility for benefits established
 
-&emsp;During the continuous period in which an institutionalized spouse is in an institution andafter the month in which an institutionalized spouse is determined to be eligible for benefits under this subchapter, no resources of the community spouse shall be deemed available to the institutionalized spouse.
+&emsp;During the continuous period in which an institutionalized spouse is in an institution and after the month in which an institutionalized spouse is determined to be eligible for benefits under this subchapter, no resources of the community spouse shall be deemed available to the institutionalized spouse.
 
 #### (5) Resources defined
 
@@ -186,7 +186,7 @@
 
 #### (6) Application of "income first" rule to revision of community spouse resource allowance
 
-&emsp;For purposes of this subsection and subsections (c) and (e), a State must consider that all income of the institutionalized spouse that could be made available to a community spouse, in accordance with the calculation of the community spouse monthly income allowance under this subsection, has been madeavailable before the State allocates to the community spouse an amount of resources adequate to provide the difference between the minimum monthly maintenance needs allowance and all income available to the community spouse.
+&emsp;For purposes of this subsection and subsections (c) and (e), a State must consider that all income of the institutionalized spouse that could be made available to a community spouse, in accordance with the calculation of the community spouse monthly income allowance under this subsection, has been made available before the State allocates to the community spouse an amount of resources adequate to provide the difference between the minimum monthly maintenance needs allowance and all income available to the community spouse.
 
 #### (e) Notice and fair hearing
 
@@ -256,7 +256,7 @@
 
 #### (g) Indexing dollar amounts
 
-For services furnished during a calendar year after 1989, the dollar amounts specified in subsections (d)(3)(C), (f)(2)(A)(i), and (f)(2)(A)(ii)(II)shall be increased by the same percentage as the percentage increase in the consumer price index for all urban consumers (all items; U.S. city average) between September 1988 and the September before the calendar year involved.
+For services furnished during a calendar year after 1989, the dollar amounts specified in subsections (d)(3)(C), (f)(2)(A)(i), and (f)(2)(A)(ii)(II) shall be increased by the same percentage as the percentage increase in the consumer price index for all urban consumers (all items; U.S. city average) between September 1988 and the September before the calendar year involved.
 
 #### (h) Definitions
 
@@ -336,7 +336,7 @@ Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Hea
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 13611(d)(2) of Pub. L. 103–66 applicable, except as otherwise provided, to paymentsunder this subchapter for calendar quarters beginning on or after Oct. 1, 1993, without regard to whether or not final regulations to carry out the amendments by section 13611 of Pub. L. 103–66 have been promulgated by such date, see section 13611(e) of Pub. L. 103–66, set out as a note under section 1396p of this title.
+Amendment by section 13611(d)(2) of Pub. L. 103–66 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after Oct. 1, 1993, without regard to whether or not final regulations to carry out the amendments by section 13611 of Pub. L. 103–66 have been promulgated by such date, see section 13611(e) of Pub. L. 103–66, set out as a note under section 1396p of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -358,7 +358,7 @@ Pub. L. 100–360, title III, §303(g), July 1, 1988, 102 Stat. 763, as amended 
 
 "(B) Section 1924 of the Social Security Act \[42 U.S.C. 1396r–5\] (as inserted by subsection (a)) shall only apply to institutionalized individuals who begin continuous periods of institutionalization on or after September 30, 1989, except that subsections (b) and (d) of such section (and so much of subsection (e) of such section as relates to such other subsections) shall apply as of such date to individuals institutionalized on or after such date.
 
-"(2)(A) The amendment made by subsection (b) \[amending section 1396p of this title\] and section 1902(a)(51)(B) of the Social Security Act \[42 U.S.C. 1396a(a)(51)(B)\], apply (except as provided in paragraph (5)) to payments under title XIX of the Social Security Act for calendar quarters beginning on or after July 1, 1988, or the date of the enactment of this Act \[July 1, 1988\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+"(2)(A) The amendment made by subsection (b) \[amending section 1396p of this title\] and section1902(a)(51)(B) of the Social Security Act \[42 U.S.C. 1396a(a)(51)(B)\], apply (except as provided in paragraph (5)) to payments under title XIX of the Social Security Act for calendar quarters beginning on or after July 1, 1988, or the date of the enactment of this Act \[July 1, 1988\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 "(B) Section 1917(c) of the Social Security Act \[42 U.S.C. 1396p(c)\], as amended by subsection (b) of this section, shall apply to resources disposed of on or after July 1, 1988, except that such section shall not apply with respect to inter-spousal transfers occurring before October 1, 1989.
 

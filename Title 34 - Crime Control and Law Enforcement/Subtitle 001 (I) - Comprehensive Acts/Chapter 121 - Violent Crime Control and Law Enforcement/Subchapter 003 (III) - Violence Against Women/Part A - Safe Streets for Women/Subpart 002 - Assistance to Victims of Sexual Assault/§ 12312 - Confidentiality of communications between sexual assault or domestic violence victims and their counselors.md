@@ -14,7 +14,7 @@ The Attorney General shall—
 
 &emsp;&emsp;(C) consideration of what limitations on the disclosure of confidential communications between victims of these crimes and their counselors, short of an absolute privilege, are most likely to ensure that the counseling programs will not be undermined, and specifically whether no such disclosure should be allowed unless, at a minimum, there has been a particularized showing by a criminal defendant of a compelling need for records of such communications, and adequate procedural safeguards are in place to prevent unnecessary or damaging disclosures; and
 
-&emsp;(3) prepare and disseminate to State authorities the findings made and model legislationdeveloped as a result of the study and evaluation.
+&emsp;(3) prepare and disseminate to State authorities the findings made and model legislation developed as a result of the study and evaluation.
 
 #### (b) Report and recommendations
 

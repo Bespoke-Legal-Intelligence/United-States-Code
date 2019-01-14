@@ -58,7 +58,7 @@ For purposes only of determining under subsection (a) whether or not an insuranc
 
 #### (e) Guaranteed renewable contracts
 
-For purposes of this part, guaranteed renewable life, accident, and health insurance shall betreated in the same manner as noncancellable life, accident, and health insurance.
+For purposes of this part, guaranteed renewable life, accident, and health insurance shall be treated in the same manner as noncancellable life, accident, and health insurance.
 
 #### (f) Amounts not involving life, accident, or health contingencies
 
@@ -116,7 +116,7 @@ Pub. L. 98–369, div. A, title II, §217(i), July 18, 1984, 98 Stat. 764, as am
 
 "(1)
 
-In general.—A mutual life insurance company may elect to treat all individual noncancellable (or guaranteed renewable) accident and health insurance contracts as though they were cancellable for purposes of section 816 of subchapter L of chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
+In general.—A mutual life insurance company may elect to treat all individual noncancellable (or guaranteed renewable) accident and health insurance contracts as though they were cancellable for purposesof section 816 of subchapter L of chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
 "(2)
 

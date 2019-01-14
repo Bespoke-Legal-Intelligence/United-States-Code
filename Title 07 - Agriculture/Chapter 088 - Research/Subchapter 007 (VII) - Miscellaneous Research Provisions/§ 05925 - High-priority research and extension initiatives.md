@@ -2,7 +2,37 @@
 
 #### (a) Competitive specialized research and extension grants authorized
 
-The Secretary of Agriculture (referred to in this section as the "Secretary") may make competitive grants to support research and extension activities specified in subsections (d) through (g). The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
+#### (1) In general
+
+&emsp;The Secretary of Agriculture (referred to in this section as the "Secretary") may make competitive grants to support research and extension activities specified in subsections (d) through (g).
+
+#### (2) Matching funds requirement
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (C), an entity receiving a grant under paragraph (1) shall provide non-Federal matching funds (including funds from an agricultural commodity promotion, research, and information program) equal to not less than the amount of the grant.
+
+#### (B) In-kind support
+
+&emsp;&emsp;Non-Federal matching funds described in subparagraph (A) may include in-kind support.
+
+#### (C) Waiver
+
+&emsp;&emsp;The Secretary may waive the matching funds requirement under subparagraph (A) with respect to a research project if the Secretary determines that—
+
+&emsp;&emsp;&emsp;(i) the results of the project are of a particular benefit to a specific agricultural commodity, but those results are likely to be applicable to agricultural commodities generally; or
+
+&emsp;&emsp;&emsp;(ii)(I) the project—
+
+&emsp;&emsp;&emsp;&emsp;(aa) involves a minor commodity; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) deals with scientifically important research; and
+
+&emsp;&emsp;&emsp;(II) the recipient is unable to satisfy the matching funds requirement.
+
+#### (3) Consultation
+
+&emsp;The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
 
 #### (b) Administration
 
@@ -48,9 +78,9 @@ Following the completion of a peer review process for grant proposals received u
 
 &emsp;Research and extension grants may be made under this section to increase participation by women and underrepresented minorities from rural areas in the fields of science, technology, engineering, and mathematics, with priority given to eligible institutions that carry out continuing programs funded by the Secretary.
 
-#### (8) Alfalfa and forage research program
+#### (8) Alfalfa seed and alfalfa forage systems research program
 
-&emsp;Research and extension grants may be made under this section for the purpose of studying improvements in alfalfa and forage yields, biomass and persistence, pest pressures, the bioenergy potential of alfalfa and other forages, and systems to reduce losses during harvest and storage.
+&emsp;Research and extension grants may be made under this section for the purpose of studying improvements in alfalfa seed and alfalfa forage systems yields, biomass and persistence, pest pressures, the bioenergy potential of alfalfa seed and other alfalfa forage systems to reduce losses during harvest and storage.
 
 #### (9) Coffee plant health initiative
 
@@ -63,6 +93,104 @@ Following the completion of a peer review process for grant proposals received u
 #### (10) Corn, soybean meal, cereal grains, and grain byproducts research and extension
 
 &emsp;Research and extension grants may be made under this section for the purpose of carrying out or enhancing research to improve the digestibility, nutritional value, and efficiency of the use of corn, soybean meal, cereal grains, and grain byproducts for the poultry and food animal production industries.
+
+#### (11) Macadamia tree health initiative
+
+&emsp;Research and extension grants may be made under this section for the purposes of—
+
+&emsp;&emsp;(A) developing and disseminating science-based tools and treatments to combat the macadamia felted coccid (<i>Eriococcus ironsidei</i>); and
+
+&emsp;&emsp;(B) establishing an areawide integrated pest management program in areas affected by, or areas at risk of being affected by, the macadamia felted coccid.
+
+#### (12) National turfgrass research initiative
+
+&emsp;Research and extension grants may be made under this section for the purposes of—
+
+&emsp;&emsp;(A) carrying out or enhancing research related to turfgrass and sod issues;
+
+&emsp;&emsp;(B) enhancing production and uses of turfgrass for the general public;
+
+&emsp;&emsp;(C) identifying new turfgrass varieties with superior drought, heat, cold, and pest tolerance to reduce water, fertilizer, and pesticide use;
+
+&emsp;&emsp;(D) selecting genetically superior turfgrasses and developing improved technologies for managing commercial, residential, and recreational turfgrass areas;
+
+&emsp;&emsp;(E) producing turfgrasses that—
+
+&emsp;&emsp;&emsp;(i) aid in mitigating soil erosion;
+
+&emsp;&emsp;&emsp;(ii) protect against pollutant runoff into waterways; or
+
+&emsp;&emsp;&emsp;(iii) provide other environmental benefits;
+
+&emsp;&emsp;(F) investigating, preserving, and protecting native plant species, including grasses not currently utilized in turfgrass systems;
+
+&emsp;&emsp;(G) creating systems for more economical and viable turfgrass seed and sod production throughout the United States; and
+
+&emsp;&emsp;(H) investigating the turfgrass phytobiome and developing biologic products to enhance soil, enrich plants, and mitigate pests.
+
+#### (13) Fertilizer management initiative
+
+#### (A) In general
+
+&emsp;&emsp;Research and extension grants may be made under this section for the purpose of carrying out research to improve fertilizer use efficiency in crops—
+
+&emsp;&emsp;&emsp;(i) to maximize crop yield; and
+
+&emsp;&emsp;&emsp;(ii) to minimize nutrient losses to surface and groundwater and the atmosphere.
+
+#### (B) Priority
+
+&emsp;&emsp;In awarding grants under subparagraph (A), the Secretary shall give priority to research examining the impact of the source, rate, timing, and placement of plant nutrients.
+
+#### (14) Cattle fever tick program
+
+&emsp;Research and extension grants may be made under this section to study cattle fever ticks—
+
+&emsp;&emsp;(A) to facilitate the understanding of the role of wildlife in the persistence and spread of cattle fever ticks;
+
+&emsp;&emsp;(B) to develop advanced methods for eradication of cattle fever ticks, including—
+
+&emsp;&emsp;&emsp;(i) alternative treatment methods for cattle and other susceptible species;
+
+&emsp;&emsp;&emsp;(ii) field treatment for premises, including corral pens and pasture loafing areas;
+
+&emsp;&emsp;&emsp;(iii) methods for treatment and control on infested wildlife;
+
+&emsp;&emsp;&emsp;(iv) biological control agents; and
+
+&emsp;&emsp;&emsp;(v) new and improved vaccines;
+
+&emsp;&emsp;(C) to evaluate rangeland vegetation that impacts the survival of cattle fever ticks;
+
+&emsp;&emsp;(D) to improve management of diseases relating to cattle fever ticks that are associated with wildlife, livestock, and human health;
+
+&emsp;&emsp;(E) to improve diagnostic detection of tick-infested or infected animals and pastures; and
+
+&emsp;&emsp;(F) to conduct outreach to impacted ranchers, hunters, and landowners to integrate tactics and document sustainability of best practices.
+
+#### (15) Laying hen and turkey research program
+
+&emsp;Research grants may be made under this section for the purpose of improving the efficiency and sustainability of laying hen and turkey production through integrated, collaborative research and technology transfer. Emphasis may be placed on laying hen and turkey disease prevention, antimicrobial resistance, nutrition, gut health, and alternative housing systems under extreme seasonal weather conditions.
+
+#### (16) Chronic wasting disease
+
+&emsp;Research and extension grants may be made under this section for the purposes of supporting research projects at land-grant colleges and universities (as defined in section 3103 of this title) with established deer research programs for the purposes of treating, mitigating, or eliminating chronic wasting disease.
+
+#### (17) Algae agriculture research program
+
+&emsp;Research and extension grants may be made under this section for the development and testing of algae and algae systems (including micro- and macro-algae systems).
+
+#### (18) Nutrient management
+
+&emsp;Research and extension grants may be made under this section for the purposes of examining nutrient management based on the source, rate, timing, and placement of crop nutrients.
+
+#### (19) Dryland farming agricultural systems
+
+&emsp;Research and extension grants may be made under this section for the purposes of carrying out or enhancing research on the utilization of big data for more precise management of dryland farming agricultural systems.
+
+#### (20) Hop plant health initiative
+
+&emsp;Research and extension grants may be made under this section for the purposes of developing and disseminating science-based tools and treatments to combat diseases of hops caused by the plant pathogens <i>Podosphaera macularis</i> and <i>Pseudoperonospora humuli</i>.
 
 #### (e) Pulse crop health initiative
 
@@ -124,13 +252,13 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (5) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2014 through 2018.
+&emsp;There are authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2014 through 2023.
 
 #### (f) Training coordination for food and agriculture protection
 
 #### (1) In general
 
-&emsp;The Secretary shall make a competitive grant to, or enter into a contract or a cooperative agreement with, an eligible entity (described in paragraph (2)) for purposes of establishing an internationally integrated training system to enhance the protection of the food supply in the United States, to be known as the "Comprehensive Food Safety TrainingNetwork" (referred to in this subsection as the "Network").
+&emsp;The Secretary shall make a competitive grant to, or enter into a contract or a cooperative agreement with, an eligible entity (described in paragraph (2)) for purposes of establishing an internationally integrated training system to enhance the protection of the food supply in the United States, to be known as the "Comprehensive Food Safety Training Network" (referred to in this subsection as the "Network").
 
 #### (2) Eligibility
 
@@ -170,7 +298,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (5) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
+&emsp;There are authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2014 through 2023, to remain available until expended.
 
 #### (g) Pollinator protection
 
@@ -196,7 +324,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (B) Authorization of appropriations
 
-&emsp;&emsp;There is authorized to be appropriated to carry out this paragraph $10,000,000 for each of fiscal years 2008 through 2018.
+&emsp;&emsp;There is authorized to be appropriated to carry out this paragraph $10,000,000 for each of fiscal years 2008 through 2023.
 
 #### (2) Department of Agriculture capacity and infrastructure
 
@@ -210,21 +338,111 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (B) Authorization of appropriations
 
-&emsp;&emsp;There is authorized to be appropriated to carry out this paragraph $7,250,000 for each of fiscal years 2008 through 2018.
+&emsp;&emsp;There is authorized to be appropriated to carry out this paragraph $7,250,000 for each of fiscal years 2008 through 2023.
 
 #### (3) Honey bee surveillance
 
-&emsp;There is authorized to be appropriated to conduct a nationwide honey bee pest, pathogen, health, and population status surveillance program $2,750,000 for each of fiscal years 2008 through 2018.
+&emsp;There is authorized to be appropriated to conduct a nationwide honey bee pest, pathogen, health, and population status surveillance program $2,750,000 for each of fiscal years 2008 through 2023.
 
-#### (4) Consultation
+#### (4) Enhanced coordination of honeybee and pollinator research
+
+#### (A) In general
+
+&emsp;&emsp;The Chief Scientist of the Department of Agriculture shall coordinate research, extension, education, and economic activities in the Department of Agriculture relating to native and managed pollinator health and habitat.
+
+#### (B) Duties
+
+&emsp;&emsp;In carrying out subparagraph (A), the Chief Scientist shall—
+
+&emsp;&emsp;&emsp;(i) assign an individual to serve in the Office of the Chief Scientist as a Honeybee and Pollinator Research Coordinator who shall be responsible for leading the efforts of the Chief Scientist in carrying out such subparagraph;
+
+&emsp;&emsp;&emsp;(ii) implement and coordinate pollinator health research efforts of the Department, as recommended by the Pollinator Health Task Force;
+
+&emsp;&emsp;&emsp;(iii) establish annual strategic priorities and goals for the Department for native and managed pollinator research;
+
+&emsp;&emsp;&emsp;(iv) communicate such priorities and goals to each agency or office of the Department of Agriculture, the managed pollinator industry, and relevant grant recipients under programs administered by the Secretary; and
+
+&emsp;&emsp;&emsp;(v) coordinate and identify all research on native and managed pollinator health needed and conducted by the Department of Agriculture and relevant grant recipients under programs administered by the Secretary to ensure consistency and reduce unintended duplication of effort.
+
+#### (C) Research
+
+&emsp;&emsp;In coordinating research activities under subparagraph (A), the Chief Scientist shall ensure that such research—
+
+&emsp;&emsp;&emsp;(i) identifies and addresses the multiple stressors on pollinator health, including pests and pathogens, reduced habitat, lack of nutritional resources, and exposure to pesticides;
+
+&emsp;&emsp;&emsp;(ii) evaluates stewardship and management practices of managed pollinators that would impact managed pollinator health;
+
+&emsp;&emsp;&emsp;(iii) documents the prevalence of major pests, such as <i>varroa destructor</i> (commonly referred to as the varroa mite), and diseases that are transported between States through practices involving managed pollinators;
+
+&emsp;&emsp;&emsp;(iv) evaluates the impact of overcrowding of colonies for pollination services and the impact of such overcrowding on pollinator health status and pollinator health recovery;
+
+&emsp;&emsp;&emsp;(v) evaluates and reports on the health differences of managed pollinators in—
+
+&emsp;&emsp;&emsp;&emsp;(I) crops not requiring contract pollination;
+
+&emsp;&emsp;&emsp;&emsp;(II) crops requiring contract pollination; and
+
+&emsp;&emsp;&emsp;&emsp;(III) native habitat;
+
+&emsp;&emsp;&emsp;(vi) evaluates the impact of horticultural and agricultural pest management practices on native and managed pollinator colonies in diverse agroecosystems;
+
+&emsp;&emsp;&emsp;(vii) documents pesticide residues that are—
+
+&emsp;&emsp;&emsp;&emsp;(I) found in native and managed pollinator colonies; and
+
+&emsp;&emsp;&emsp;&emsp;(II) associated with typical localized commercial crop pest management practices;
+
+&emsp;&emsp;&emsp;(viii) with respect to native and managed pollinator colonies visiting crops for crop pollination or honey production purposes, documents—
+
+&emsp;&emsp;&emsp;&emsp;(I) the strength and health of such colonies;
+
+&emsp;&emsp;&emsp;&emsp;(II) the survival, growth, reproduction, and production of such colonies;
+
+&emsp;&emsp;&emsp;&emsp;(III) pests, pathogens, and viruses that affect such colonies;
+
+&emsp;&emsp;&emsp;&emsp;(IV) environmental conditions of such colonies;
+
+&emsp;&emsp;&emsp;&emsp;(V) beekeeper practices; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) any other relevant information, as determined by the Chief Scientist;
+
+&emsp;&emsp;&emsp;(ix) documents, with respect to healthy populations of managed pollinators, bestmanagement practices and other practices for managed pollinators and crop managers;
+
+&emsp;&emsp;&emsp;(x) evaluates the effectiveness of—
+
+&emsp;&emsp;&emsp;&emsp;(I) conservation practices that target the specific needs of native and managed pollinator habitats;
+
+&emsp;&emsp;&emsp;&emsp;(II) incentives that allow for the expansion of native and managed pollinator forage acreage; and
+
+&emsp;&emsp;&emsp;&emsp;(III) managed pollinator breeding practices and efforts to, with respect to managed pollinators, avoid creating a genetic bottleneck and improve genetic diversity;
+
+&emsp;&emsp;&emsp;(xi) in the case of commercially managed pollinator colonies, continues to gather data—
+
+&emsp;&emsp;&emsp;&emsp;(I) on an annual basis with respect to losses of such colonies, splits of such colonies, and the total number of pollinator colonies;
+
+&emsp;&emsp;&emsp;&emsp;(II) on rising input costs; and
+
+&emsp;&emsp;&emsp;&emsp;(III) overall economic value to the food economy; and
+
+&emsp;&emsp;&emsp;(xii) addresses any other issue relating to native and managed pollinators, as determined by the Chief Scientist, in consultation with scientific experts.
+
+#### (D) Publication
+
+&emsp;&emsp;The Chief Scientist, to the maximum extent practicable, shall—
+
+&emsp;&emsp;&emsp;(i) make publicly available the results of the research described in subparagraph (C); and
+
+&emsp;&emsp;&emsp;(ii) in the case of the research described in subparagraph (C)(vi), publish any data or reports that were produced by the Department of Agriculture but not made publicly available during the period beginning on January 1, 2008, and ending on December 20, 2018.
+
+#### (5) Consultation
 
 &emsp;The Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency, shall publish guidance on enhancing pollinator health and the long-term viability of populations of pollinators, including recommendations related to—
 
-&emsp;&emsp;(A) allowing for managed honey bees to forage on National Forest System landswhere compatible with other natural resource management priorities; and
+&emsp;&emsp;(A) allowing for managed honey bees to forage on National Forest System lands where compatible with other natural resource management priorities; and
 
 &emsp;&emsp;(B) planting and maintaining managed honey bee and native pollinator foraging on National Forest System lands where compatible with other natural resource management priorities.
 
-#### (5) Annual report on response to honey bee colony collapse disorder
+#### (6) Annual report on response to honey bee colony collapse disorder
 
 &emsp;The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report—
 
@@ -242,9 +460,9 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2018.
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2023.
 
-(Pub. L. 101–624, title XVI, §1672, Nov. 28, 1990, 104 Stat. 3770; Pub. L. 102–237, title IV, §§406, 407(11), Dec. 13, 1991, 105 Stat. 1864, 1865; Pub. L. 104–127, title VIII, §§836, 863, 888, Apr. 4, 1996, 110 Stat. 1169, 1174, 1180; Pub. L. 105–185, title II, §242, June 23, 1998, 112 Stat. 549; Pub. L. 107–171, title VII, §§7119, 7208(b), May 13, 2002, 116 Stat. 434, 442; Pub. L. 108–465, title III, §302, Dec. 21, 2004, 118 Stat. 3885; Pub. L. 110–234, title VII, §§7203, 7204, May 22, 2008, 122 Stat. 1233; Pub. L. 110–246, §4(a), title VII, §§7203, 7204, June 18, 2008, 122 Stat. 1664, 1994; Pub. L. 113–79, title VII, §§7128(b)(2)(C), 7209, Feb. 7, 2014, 128 Stat. 879, 881.)
+(Pub. L. 101–624, title XVI, §1672, Nov. 28, 1990, 104 Stat. 3770; Pub. L. 102–237, title IV, §§406, 407(11), Dec. 13, 1991, 105 Stat. 1864, 1865; Pub. L. 104–127, title VIII, §§836, 863, 888, Apr. 4, 1996, 110 Stat. 1169, 1174, 1180; Pub. L. 105–185, title II, §242, June 23, 1998, 112 Stat. 549; Pub. L. 107–171, title VII, §§7119, 7208(b), May 13, 2002, 116 Stat. 434, 442; Pub. L. 108–465, title III, §302, Dec. 21, 2004, 118 Stat. 3885; Pub. L. 110–234, title VII, §§7203, 7204, May 22, 2008, 122 Stat. 1233; Pub. L. 110–246, §4(a), title VII, §§7203, 7204, June 18, 2008, 122 Stat. 1664, 1994; Pub. L. 113–79, title VII, §§7128(b)(2)(C), 7209, Feb. 7, 2014, 128 Stat. 879, 881; Pub. L. 115–334, title VII, §§7209, 7614(b)(2)(C), Dec. 20, 2018, 132 Stat. 4806, 4834.)
 
 #### References in Text
 
@@ -257,6 +475,22 @@ The Agricultural Act of 2014, referred to in subsec. (f)(3)(F), is Pub. L. 113�
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–334, §7614(b)(2)(C), designated first and second sentences as pars. (1) and (3), respectively, inserted headings, and added par. (2).
+
+Subsec. (d)(8). Pub. L. 115–334, §7209(1)(A), substituted, in heading, "Alfalfa seed and alfalfa forage systems" for "Alfalfa and forage", and in text, substituted "alfalfa seed and alfalfa forage systems" for "alfalfa and forage" and "alfalfa seed and other alfalfa forage" for "alfalfa and other forages, and".
+
+Subsec. (d)(11) to (20). Pub. L. 115–334, §7209(1)(B), added pars. (11) to (20).
+
+Subsec. (e)(5). Pub. L. 115–334, §7209(2), substituted "2023" for "2018".
+
+Subsec. (f)(5). Pub. L. 115–334, §7209(3), substituted "2023" for "2018".
+
+Subsec. (g)(1)(B), (2)(B), (3). Pub. L. 115–334, §7209(4)(A), substituted "2023" for "2018".
+
+Subsec. (g)(4) to (6). Pub. L. 115–334, §7209(4)(B), (C), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
+Subsec. (h). Pub. L. 115–334, §7209(5), substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–79, §7209(1), substituted "subsections (d) through (g)" for "subsections (e) through (i)".
 
@@ -354,7 +588,7 @@ Subsec. (g). Pub. L. 104–127, §863, redesignated subsec. (k) as (g) and struc
 
 &emsp;"(2) that experience difficulty in delivering products to market due to geographic isolation."
 
-Subsec. (h). Pub. L. 104–127, §863(1), struck out subsec. (h) which provided that Secretary of Agriculture may establish and carry out a program to conduct research on disease of scrapie in sheep and goats.
+Subsec. (h). Pub. L. 104–127, §863(1), struck out subsec. (h) which provided that Secretary of Agriculture mayestablish and carry out a program to conduct research on disease of scrapie in sheep and goats.
 
 Subsec. (i). Pub. L. 104–127, §§836, 863(2), redesignated subsec. (i) as (f) and substituted "1997" for "1995".
 
@@ -371,6 +605,10 @@ Subsec. (k). Pub. L. 104–127, §863(2), redesignated subsec. (k) as (g).
 Subsec. (i). Pub. L. 102–237, §406(1), substituted "Secretary of Agriculture, acting through the Cooperative State Research Service, to make competitive grants" for "Agricultural Research Service".
 
 Subsec. (k)(1). Pub. L. 102–237, §406(2), substituted "Research" for "Except for research funded under subsection (i), research".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by section 7614(b)(2)(C) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under section 3151 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -442,7 +680,7 @@ Sec. 2. <i>Mission and Function of the Task Force</i>. Within 180 days of the da
 
 (iii) assessments of the status of native pollinators, including the Monarch butterfly and bees, and modeling of native pollinator populations and habitats;
 
-(iv) strategies for developing affordable seed mixes, including native pollinator-friendly plants, for maintenance of honey bees and other pollinators, and guidelines for and evaluations of the effectiveness of using pollinator-friendly seed mixes for restoration and reclamation projects;
+(iv) strategies for developing affordable seed mixes, including native pollinator-friendly plants, for maintenance of honey bees and other pollinators, and guidelines for and evaluations of the effectiveness of usingpollinator-friendly seed mixes for restoration and reclamation projects;
 
 (v) identification of existing and new methods and best practices to reduce pollinator exposure to pesticides, and new cost-effective ways to control bee pests and diseases; and
 
@@ -468,7 +706,7 @@ Sec. 3. <i>Increasing and Improving Pollinator Habitat</i>. Unless otherwise spe
 
 (f) The Departments of Agriculture and the Interior shall establish a reserve of native seed mixes, including pollinator-friendly plants, for use on post-fire rehabilitation projects and other restoration activities.
 
-(g) The Department of Agriculture shall, as appropriate and consistent with applicable law, substantially increase both the acreage and forage value of pollinator habitat in the Department's conservation programs, including the Conservation Reserve Program, and provide technical assistance, through collaboration with the land-grant university-based cooperative extension services, to executive departments and agencies, State,local, and tribal governments, and other entities and individuals, including farmers and ranchers, in planting the most suitable pollinator-friendly habitats.
+(g) The Department of Agriculture shall, as appropriate and consistent with applicable law, substantially increase both the acreage and forage value of pollinator habitat in the Department's conservation programs, including the Conservation Reserve Program, and provide technical assistance, through collaboration with the land-grant university-based cooperative extension services, to executive departments and agencies, State, local, and tribal governments, and other entities and individuals, including farmers and ranchers, in planting the most suitable pollinator-friendly habitats.
 
 (h) The Department of the Interior shall assist States and State wildlife organizations, as appropriate, in identifying and implementing projects to conserve pollinators at risk of endangerment and further pollinator conservation through the revision and implementation of individual State Wildlife Action Plans. The Department of the Interior shall, upon request, provide technical support for these efforts, and keep the Task Force apprised of such collaborations.
 

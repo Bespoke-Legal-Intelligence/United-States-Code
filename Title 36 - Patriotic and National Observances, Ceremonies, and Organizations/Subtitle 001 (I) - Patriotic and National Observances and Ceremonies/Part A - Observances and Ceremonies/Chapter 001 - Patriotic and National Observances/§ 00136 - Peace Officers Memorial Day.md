@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 Oct. 1, 1962, Pub. L. 87–726, cls. (1), (2), (4) (related to Peace Officers Memorial Day), 76 Stat. 676; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320922(a)(2)–(4), 108 Stat. 2131.
 
-In clause (2), the reference to section 7(m) of title 4 is substituted for the reference to section 175(m) of title 36 because the latter provision is being restated in title 4. See section 2 of the bill.
+In clause (2), the reference to section 7(m) of title 4 is substituted for the reference to section 175(m) of title36 because the latter provision is being restated in title 4. See section 2 of the bill.
 

@@ -80,7 +80,7 @@ Historical and Revision Notes
 
 July 31, 1946, ch. 707, §1, 60 Stat. 718; Pub. L. 90–108, §1(a), Oct. 20, 1967, 81 Stat. 275; Pub. L. 93–198, §739(g)(7), Dec. 24, 1973, 87 Stat. 829; Pub. L. 96–432, §2, Oct. 10, 1980, 94 Stat. 1852.
 
-In subsection (b)(2), the words "Mayor of the District of Columbia" are substituted for "Commissioners of the District of Columbia" \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to "Commissioner of the District of Columbia" because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Aug. 11, 1967, 81 Stat. 951)\] because of section421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789). In subparagraph (A), the words "Washington Avenue Southwest" are substituted for "Canal Street S. W." and "Canal Street Southwest" because of section 2 of D.C. Law 8–39. See section 7–451 note of the District of Columbia Code.
+In subsection (b)(2), the words "Mayor of the District of Columbia" are substituted for "Commissioners of the District of Columbia" \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to "Commissioner of the District of Columbia" because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Aug. 11, 1967, 81 Stat. 951)\] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789). In subparagraph (A), the words "Washington Avenue Southwest" are substituted for "Canal Street S. W." and "Canal Street Southwest" because of section 2 of D.C. Law 8–39. See section 7–451 note of the District of Columbia Code.
 
 #### References in Text
 
@@ -188,7 +188,7 @@ In general.—Administrative jurisdiction over each of the following properties 
 
 &emsp;&emsp;"(E) An unimproved portion of Western Avenue Northwest, north of Oregon Avenue Northwest, that abuts U.S. Reservation 339 (National Park Service property).
 
-&emsp;&emsp;"(F) An unimproved portion of 17th Street Northwest, south of Shepherd Street Northwest, thatabuts U.S. Reservation 339 (National Park Service property).
+&emsp;&emsp;"(F) An unimproved portion of 17th Street Northwest, south of Shepherd Street Northwest, that abuts U.S. Reservation 339 (National Park Service property).
 
 &emsp;&emsp;"(G) An unimproved portion of 30th Street Northwest, north of Broad Branch Road Northwest, that is within the boundaries of U.S. Reservation 515 (National Park Service property).
 
@@ -260,7 +260,7 @@ Review.—If the Secretary agrees to the conveyance under subsection (b), or if 
 
 "(d)
 
-Study.—The Architect of the Capitol shall not construct a mail screening facility on any real property conveyed under this section unless each of the following conditions is satisfied:
+Study.—The Architect of the Capitol shall not construct a mail screening facility on any real propertyconveyed under this section unless each of the following conditions is satisfied:
 
 &emsp;"(1) A study is completed that analyzes—
 
@@ -362,7 +362,7 @@ Definition.—Section 5102 of title 40, United States Code, is amended to includ
 
 &emsp;&emsp;"(B)
 
-Jurisdiction of capitol police.—The United States Capitol Police shall have jurisdiction over the parcels of Federal real property described in subsection (a)(2) in accordance with section 9 of the Act entitled 'An Act to define the United States Capitol Grounds, to regulate the use thereof, and for other purposes', approved July 31, 1946 (2 U.S.C. 1961).
+Jurisdiction of capitol police.—The United States Capitol Police shall have jurisdiction over the parcels of Federal real property described insubsection (a)(2) in accordance with section 9 of the Act entitled 'An Act to define the United States Capitol Grounds, to regulate the use thereof, and for other purposes', approved July 31, 1946 (2 U.S.C. 1961).
 
 &emsp;"(3)
 
@@ -590,7 +590,7 @@ NOW, THEREFORE, in formal compliance with the aforecited provisions of the Addit
 
 &nbsp;1. The Rayburn House Office Building, the subway connecting such building to the Capitol Building, the pedestrian tunnels connecting such building to the Longworth House Office Building, the underground garages in Squares 637 and 691 and the tunnels connecting these garages to the House Office Buildings, are hereby declared to be House Office Buildings and, as such, are hereby made subject to those provisions of the Act of July 31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments to such Act, which are applicable to the Capitol Buildings, and to the Act of Mar. 4, 1907 (40 U.S.C. 175) \[now 2 U.S.C. 2001\].
 
-&nbsp;2. All other real property acquired by the Architect of the Capitol under authority of the Additional House Office Building Act is hereby declared to be part of the United States Capitol Grounds and is hereby made subject to the Act of July31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments to such Act.
+&nbsp;2. All other real property acquired by the Architect of the Capitol under authority of the Additional House Office Building Act is hereby declared to be part of the United States Capitol Grounds and is hereby made subject to the Act of July 31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments to such Act.
 
 &nbsp;3. Nothing herein shall be construed to contravene (a) the provisions of Public Law 89–260 authorizing the future use of Squares 732 north and south as a site for the Library of Congress James Madison Memorial Building; or (b) the authority delegated by the House Office Building Commission to the Select House Committee under authority of H. Res. 514, 90th Congress, pertaining to the direction and supervision of the use and operation of the four House Garages and outdoor parking lots.
 

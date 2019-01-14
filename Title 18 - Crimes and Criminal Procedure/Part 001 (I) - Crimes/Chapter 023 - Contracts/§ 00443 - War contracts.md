@@ -12,7 +12,7 @@ The Administrator of General Services, by regulation, may authorize the destruct
 
 The definitions of terms in section 103 <sup>1</sup> of Title 41 shall apply to similar terms used in this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 704; Oct. 31, 1951, ch. 655, §20(a), 65 Stat. 717; Pub. L. 103–322, titleXXXIII, §§330004(17), 330016(2)(F), Sept. 13, 1994, 108 Stat. 2142, 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 704; Oct. 31, 1951, ch. 655, §20(a), 65 Stat. 717; Pub. L. 103–322, title XXXIII, §§330004(17), 330016(2)(F), Sept. 13, 1994, 108 Stat. 2142, 2148.)
 
 #### Historical and Revision Notes
 

@@ -66,7 +66,7 @@ Pub. L. 104–204, title IV, §422(b), (c), Sept. 26, 1996, 110 Stat. 2927, prov
 
 "(2) Section 1151 of title 38, United States Code (as amended by subsection (a)), shall govern all administrative and judicial determinations of eligibility for benefits under such section that are made with respect to claims filed on or after the effective date set forth in paragraph (1) \[Oct. 1, 1996\], including those based on original applications and applications seeking to reopen, revise, reconsider, or otherwise readjudicate on any basis claims for benefits under such section 1151 or any provision of law that is a predecessor of such section.
 
-"(c) Nothwithstanding \[sic\] subsection (b)(1), section 421(d) \[set out as a note under section 1801 of this title\], or any other provision of this Act \[see Tables for classification\], section 421 \[enacting sections 1801 to 1806 of this title, amending section 5312 of this title, and enacting provisions set out as notes under section 1801 of this title\] and this section \[amending this section\] shall not take effect until October 1, 1997, unless legislation other than this Act is enacted to provide for an earlier effective date."
+"(c) Nothwithstanding \[sic\] subsection (b)(1), section 421(d) \[set out as a note under section 1801 of this title\], or any other provision of this Act \[see Tables for classification\], section 421 \[enacting sections 1801 to 1806 of this title, amending section 5312 of this title, and enacting provisions set out as notes under section 1801 ofthis title\] and this section \[amending this section\] shall not take effect until October 1, 1997, unless legislation other than this Act is enacted to provide for an earlier effective date."
 
 #### Effective Date of 1976 Amendment
 

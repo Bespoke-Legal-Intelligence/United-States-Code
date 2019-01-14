@@ -13,9 +13,13 @@
 | [53909\.](%C2%A7%2053909%20-%20War%20risk%20insurance%20revolving%20fund.md) | War risk insurance revolving fund. |
 | [53910\.](%C2%A7%2053910%20-%20Administrative.md) | Administrative. |
 | [53911\.](%C2%A7%2053911%20-%20Civil%20actions%20for%20losses.md) | Civil actions for losses. |
-| [53912\.](%C2%A7%2053912%20-%20Expiration%20date.md) | Expiration date. |
+| \[53912. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. C, title XXXV, §3504(b), Aug. 13, 2018, 132 Stat. 2308, struck out item 53912 "Expiration date".
 
 
 ---
@@ -33,4 +37,4 @@
 - [&sect; 53909 - War risk insurance revolving fund](%C2%A7%2053909%20-%20War%20risk%20insurance%20revolving%20fund.md)
 - [&sect; 53910 - Administrative](%C2%A7%2053910%20-%20Administrative.md)
 - [&sect; 53911 - Civil actions for losses](%C2%A7%2053911%20-%20Civil%20actions%20for%20losses.md)
-- [&sect; 53912 - Expiration date](%C2%A7%2053912%20-%20Expiration%20date.md)
+- [&sect; 53912 - Repealed. Pub. L. 115&#8211;232, div. C, title XXXV, &sect;3504(a), Aug. 13, 2018, 132 Stat. 2308](%C2%A7%2053912%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93232%2C%20div.%20C%2C%20title%20XXXV%2C%20%C2%A73504%28a%29%2C%20Aug.%2013%2C%202018%2C%20132%20Stat.%202308.md)

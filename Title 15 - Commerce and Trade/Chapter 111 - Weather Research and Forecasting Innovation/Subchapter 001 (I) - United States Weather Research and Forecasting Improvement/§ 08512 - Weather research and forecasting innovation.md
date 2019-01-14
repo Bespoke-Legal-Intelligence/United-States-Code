@@ -36,7 +36,25 @@ The program described in subsection (a) shall focus on the following activities:
 
 &emsp;&emsp;(G) additional sources of weather data and information, including commercial observing systems.
 
-&emsp;(4) A technology transfer initiative, carried out jointly and in coordination with the Director of the National Weather Service, and in cooperation with the United States weather industry and academic partners, to ensure continuous development and transition of the latest scientific and technological advances into operations of the National Weather Service and to establish a process to sunset outdated and expensive operational methods and tools to enable cost-effective transfer of new methods and tools into operations.
+&emsp;(4) <sup>1</sup> A technology transfer initiative, carried out jointly and in coordination with the Director of the National Weather Service, and in cooperation with the United States weather industry and academic partners, to ensure continuous development and transition of the latest scientific and technological advances into operations of the National Weather Service and to establish a process to sunset outdated and expensive operational methods and tools to enable cost-effective transfer of new methods and tools into operations.
+
+&emsp;(4) <sup>1</sup> Advancing weather modeling skill, reclaiming and maintaining international leadership in the area of numerical weather prediction, and improving the transition of research into operations by—
+
+&emsp;&emsp;(A) leveraging the weather enterprise to provide expertise on removing barriers to improving numerical weather prediction;
+
+&emsp;&emsp;(B) enabling scientists and engineers to effectively collaborate in areas important for improving operational global numerical weather prediction skill, including model development, data assimilation techniques, systems architecture integration, and computational efficiencies;
+
+&emsp;&emsp;(C) strengthening the National Oceanic and Atmospheric Administration's ability to undertake research projects in pursuit of substantial advancements in weather forecast skill;
+
+&emsp;&emsp;(D) utilizing and leverage existing resources across the National Oceanic and Atmospheric Administration enterprise; and
+
+&emsp;&emsp;(E) creating a community global weather research modeling system that—
+
+&emsp;&emsp;&emsp;(i) is accessible by the public;
+
+&emsp;&emsp;&emsp;(ii) meets basic end-user requirements for running on public computers and networks located outside of secure National Oceanic and Atmospheric Administration information and technology systems; and
+
+&emsp;&emsp;&emsp;(iii) utilizes, whenever appropriate and cost-effective, innovative strategies and methods, including cloud-based computing capabilities, for hosting and management of part or all of the system described in this subsection.
 
 #### (c) Extramural research
 
@@ -50,7 +68,13 @@ The program described in subsection (a) shall focus on the following activities:
 
 #### (d) Annual report
 
-Each year, concurrent with the annual budget request submitted by the President to Congressunder section 1105 of title 31 for the National Oceanic and Atmospheric Administration, the Under Secretary shall submit to Congress a description of current and planned activities under this section.
+Each year, concurrent with the annual budget request submitted by the President to Congress under section 1105 of title 31 for the National Oceanic and Atmospheric Administration, the Under Secretary shall submit to Congress a description of current and planned activities under this section.
 
-(Pub. L. 115–25, title I, §102, Apr. 18, 2017, 131 Stat. 92.)
+(Pub. L. 115–25, title I, §102, Apr. 18, 2017, 131 Stat. 92; Pub. L. 115–423, §4(a), Jan. 7, 2019, 132 Stat. 5456.)
+
+#### Amendments
+
+<b>2019</b>—Subsec. (b)(4). Pub. L. 115–423 added par. (4) relating to advancing weather modeling skill.
+
+<i><sup>1</sup></i><i> So in original. Two pars. (4) have been enacted.</i>
 

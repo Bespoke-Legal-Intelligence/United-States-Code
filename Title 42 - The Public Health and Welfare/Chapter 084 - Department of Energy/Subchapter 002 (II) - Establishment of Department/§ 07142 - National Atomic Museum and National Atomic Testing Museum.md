@@ -34,7 +34,7 @@ The museum operated by the Department of Energy and currently located at Buildin
 
 &emsp;(C) exhibit, perform, display, and publish information and materials concerning museum mementos, items, memorabilia, and replicas thereof in any media or place anywhere in the world, at reasonable fees or charges where feasible and appropriate, to substantially cover costs.
 
-(2) The net proceeds of activities authorized under subparagraphs (B) and (C) of paragraph (1) may be used by the National Atomic Museum for activities of the museum.
+(2) The net proceeds of activities authorized under subparagraphs (B) and (C) of paragraph (1)may be used by the National Atomic Museum for activities of the museum.
 
 #### (d) Recognition and status of National Atomic Testing Museum
 

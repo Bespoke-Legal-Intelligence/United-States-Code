@@ -6,7 +6,7 @@ The Secretary is authorized to acquire, and it is the intent of Congress that he
 
 #### (b) Payment for acquisition; fair market value
 
-The Secretary is authorized to pay for any acquisitions which he makes by purchase under sections 459c to 459c–7 of this title their fair market value, as determined by the Secretary, who may in his discretion base his determination on an independent appraisal obtained by him.
+The Secretary is authorized to pay for any acquisitions which he makes by purchase under sections 459c to 459c–7 of this title their fair market value, as determined by the Secretary,who may in his discretion base his determination on an independent appraisal obtained by him.
 
 #### (c) Exchange of property; cash equalization payments
 

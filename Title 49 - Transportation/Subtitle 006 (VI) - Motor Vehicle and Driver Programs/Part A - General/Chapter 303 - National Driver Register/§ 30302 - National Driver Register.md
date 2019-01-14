@@ -18,7 +18,7 @@ Accuracy of Information.—The Secretary is not responsible for the accuracy of 
 
 (c)
 
-Transition From Prior Register.—(1) The Secretary shall provide by regulation for the orderly transition from the register maintainedunder the Act of July 14, 1960 (Public Law 86–660, 74 Stat. 526), as restated by section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), to the Register maintained under this chapter.
+Transition From Prior Register.—(1) The Secretary shall provide by regulation for the orderly transition from the register maintained under the Act of July 14, 1960 (Public Law 86–660, 74 Stat. 526), as restated by section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), to the Register maintained under this chapter.
 
 (2)(A) The Secretary shall delete from the Register a report or information that was compiled under the Act of July 14, 1960 (Public Law 86–660, 74 Stat. 526), as restated by section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), and transferred to the Register, after the earlier of—
 

@@ -114,7 +114,7 @@ Savings Clause.—The Secretary shall not withhold any grant or impose any requi
 
 (f)
 
-Federal Share.—The Federal share of the cost of carrying out a project under this sectionshall be 80 percent, except that, in the case of any scenic byway project along a public road that provides access to or within Federal or Indian land, a Federal land management agency may use funds authorized for use by the agency as the non-Federal share.
+Federal Share.—The Federal share of the cost of carrying out a project under this section shall be 80 percent, except that, in the case of any scenic byway project along a public road that provides access to or within Federal or Indian land, a Federal land management agency may use funds authorized for use by the agency as the non-Federal share.
 
 (Added Pub. L. 105–178, title I, §1219(a), June 9, 1998, 112 Stat. 219; amended Pub. L. 109–59, title I, §1802, Aug. 10, 2005, 119 Stat. 1456; Pub. L. 110–244, title I, §101(o), June 6, 2008, 122 Stat. 1576.)
 

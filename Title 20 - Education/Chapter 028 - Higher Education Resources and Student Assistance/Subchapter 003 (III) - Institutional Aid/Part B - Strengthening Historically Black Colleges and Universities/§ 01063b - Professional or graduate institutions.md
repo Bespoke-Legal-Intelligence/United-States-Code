@@ -106,7 +106,7 @@ Any institution eligible for a grant under this section shall submit an applicat
 
 #### (2) Qualified graduate program
 
-&emsp;(A) For the purposes of this section, the term "qualified graduate program" means a graduate or professional program that provides a program of instruction in law or in the physical or natural sciences, engineering, mathematics, psychometrics, or other scientific discipline in which African Americans are underrepresented and has students enrolled in such program at the time of application for a grant under this section.
+&emsp;(A) For the purposes of this section, the term "qualified graduate program" means a graduate or professional program that provides a program of instruction in law or in thephysical or natural sciences, engineering, mathematics, psychometrics, or other scientific discipline in which African Americans are underrepresented and has students enrolled in such program at the time of application for a grant under this section.
 
 &emsp;(B) Notwithstanding the enrollment requirement contained in subparagraph (A), an institution may use an amount equal to not more than 10 percent of the institution's grant under this section for the development of a new qualified graduate program.
 

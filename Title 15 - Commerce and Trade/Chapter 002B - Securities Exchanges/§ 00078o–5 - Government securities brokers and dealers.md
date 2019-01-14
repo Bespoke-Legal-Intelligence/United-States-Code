@@ -56,7 +56,7 @@ Cooperation in implementation.—In developing and implementing reporting requir
 
 &emsp;&emsp;(ii)
 
-Use of banking agency reports.—A registered government securities broker or government securities dealer shall be in compliance with any recordkeeping or reporting requirement adopted pursuant to subparagraph (A) of this paragraph concerning an associated person that is subject toexamination by or reporting requirements of a Federal banking agency if such government securities broker or government securities dealer utilizes for such recordkeeping or reporting requirement copies of reports filed by the associated person with the Federal banking agency pursuant to section 161 of title 12, subchapter VIII of chapter 3 of title 12, section 1817(a) of title 12, section 1467a(b) of title 12, or section 1847 of title 12. The Secretary may, however, by rule adopted pursuant to subparagraph (A), require any registered government securities broker or government securities dealer filing such reports with the appropriate regulatory agency to obtain, maintain, or report supplemental information if the Secretary makes an explicit finding, based on information provided by the appropriate regulatory agency, that such supplemental information is necessary to inform the appropriate regulatory agency regarding potential risks to such government securities broker or government securities dealer. Prior to requiring any such supplemental information, the Secretary shall first request the Federal banking agency to expand its reporting requirements to include such information.
+Use of banking agency reports.—A registered government securities broker or government securities dealer shall be in compliance with any recordkeeping or reporting requirement adopted pursuant to subparagraph (A) of this paragraph concerning an associated person that is subject to examination by or reporting requirements of a Federal banking agency if such government securities broker or government securities dealer utilizes for such recordkeeping or reporting requirement copies of reports filed by the associated person with the Federal banking agency pursuant to section 161 of title 12, subchapter VIII of chapter 3 of title 12, section 1817(a) of title 12, section 1467a(b) of title 12, or section 1847 of title 12. The Secretary may, however, by rule adopted pursuant to subparagraph (A), require any registered government securities broker or government securities dealer filing such reports with the appropriate regulatory agency to obtain, maintain, or report supplemental information if the Secretary makes an explicit finding, based on information provided by the appropriate regulatory agency, that such supplemental information is necessary to inform the appropriate regulatory agency regarding potential risks to such government securities broker or government securities dealer. Prior to requiring any such supplemental information, the Secretary shall first request the Federal banking agency to expand its reporting requirements to include such information.
 
 &emsp;&emsp;(iii)
 
@@ -172,7 +172,7 @@ Limitation; construction.—The Commission shall not utilize its authority under
 
 &emsp;(C)
 
-Procedures for requiring information.—At the time the Commission requests any information pursuant to subparagraph (A) with respect to any government securities broker or government securities dealer for which the Commission is not the appropriate regulatory agency, the Commission shall notify the appropriate regulatory agency for such government securities broker or government securities dealer and, upon request, furnish to the appropriate regulatory agency any information supplied to the Commission.
+Procedures for requiring information.—At the time the Commission requests any information pursuant to subparagraph (A) with respect to any government securities broker or government securities dealer for which the Commission is not the appropriate regulatory agency, the Commission shall notify the appropriate regulatory agency forsuch government securities broker or government securities dealer and, upon request, furnish to the appropriate regulatory agency any information supplied to the Commission.
 
 &emsp;(D)
 
@@ -184,7 +184,7 @@ Exclusion for examination reports.—Nothing in this paragraph shall be construe
 
 &emsp;(F)
 
-Authority to limit disclosure of information.—Notwithstanding any other provision of law, the Commission and the appropriate regulatory agencies shall not be compelled to disclose any information required or obtained under this paragraph. Nothing in this paragraph shall authorize the Commission or any appropriate regulatory agency to withhold information from Congress, or prevent the Commission or any appropriate regulatory agency from complying with a request for informationfrom any other Federal department or agency requesting information for purposes within the scope of its jurisdiction, or from complying with an order of a court of the United States in an action brought by the United States, the Commission, or the appropriate regulatory agency. For purposes of section 552 of title 5, this subparagraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+Authority to limit disclosure of information.—Notwithstanding any other provision of law, the Commission and the appropriate regulatory agencies shall not be compelled to disclose any information required or obtained under this paragraph. Nothing in this paragraph shall authorize the Commission or any appropriate regulatory agency to withhold information from Congress, or prevent the Commission or any appropriate regulatory agency from complying with a request for information from any other Federal department or agency requesting information for purposes within the scope of its jurisdiction, or from complying with an order of a court of the United States in an action brought by the United States, the Commission, or the appropriate regulatory agency. For purposes of section 552 of title 5, this subparagraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
 #### (e) Membership in national securities exchange; exemptions
 
@@ -226,7 +226,7 @@ Authority to limit disclosure of information.—Notwithstanding any other provis
 
 #### (5) Exemptions
 
-&emsp;Consistent with the public interest and the protection of investors, the Secretary by rule or order may exempt in whole or in part, conditionally or unconditionally, any person or class of persons, or any transaction or class of transactions, from the requirements of this subsection.
+&emsp;Consistent with the public interest and the protection of investors, the Secretary by ruleor order may exempt in whole or in part, conditionally or unconditionally, any person or class of persons, or any transaction or class of transactions, from the requirements of this subsection.
 
 #### (6) Limitation on disclosure of information
 
@@ -236,7 +236,7 @@ Authority to limit disclosure of information.—Notwithstanding any other provis
 
 (1) Nothing in this section except paragraph (2) of this subsection shall be construed to impair or limit the authority under any other provision of law of the Commission, the Secretary of the Treasury, the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Secretary of Housing and Urban Development, and the Government National Mortgage Association.
 
-(2) Notwithstanding any other provision of this chapter, the Commission shall not have anyauthority to make investigations of, require the filing of a statement by, or take any other action under this chapter against a government securities broker or government securities dealer, or any person associated with a government securities broker or government securities dealer, for any violation or threatened violation of the provisions of this section, other than subsection (d)(3) <sup>3</sup> or the rules or regulations thereunder, unless the Commission is the appropriate regulatory agency for such government securities broker or government securities dealer. Nothing in the preceding sentence shall be construed to limit the authority of the Commission with respect to violations or threatened violations of any provision of this chapter other than this section (except subsection (d)(3)), the rules or regulations under any such other provision, or investigations pursuant to section 78u(a)(2) of this title to assist a foreign securities authority.
+(2) Notwithstanding any other provision of this chapter, the Commission shall not have any authority to make investigations of, require the filing of a statement by, or take any other action under this chapter against a government securities broker or government securities dealer, or any person associated with a government securities broker or government securities dealer, for any violation or threatened violation of the provisions of this section, other than subsection (d)(3) <sup>3</sup> or the rules or regulations thereunder, unless the Commission is the appropriate regulatory agency for such government securities broker or government securities dealer. Nothing in the preceding sentence shall be construed to limit the authority of the Commission with respect to violations or threatened violations of any provision of this chapter other than this section (except subsection (d)(3)), the rules or regulations under any such other provision, or investigations pursuant to section 78u(a)(2) of this title to assist a foreign securities authority.
 
 #### (h) Emergency authority
 
@@ -266,7 +266,7 @@ Subsec. (c)(1)(C). Pub. L. 111–203, §929F(b)(1), substituted "any person who 
 
 Subsec. (c)(2)(A), (B). Pub. L. 111–203, §929F(b)(2)(A), (B), inserted ", seeking to become associated, or, at the time of the alleged misconduct, associated or seeking to become associated" after "any person associated".
 
-Subsec. (g)(1). Pub. L. 111–203, §376(3), struck out "the Director of the Office of Thrift Supervision, the Federal Savings and Loan Insurance Corporation," after "the Federal Deposit Insurance Corporation,".
+Subsec. (g)(1). Pub. L. 111–203, §376(3), struck out "the Director of the Office of Thrift Supervision, the FederalSavings and Loan Insurance Corporation," after "the Federal Deposit Insurance Corporation,".
 
 <b>2004</b>—Subsec. (h). Pub. L. 108–458 added subsec. (h).
 

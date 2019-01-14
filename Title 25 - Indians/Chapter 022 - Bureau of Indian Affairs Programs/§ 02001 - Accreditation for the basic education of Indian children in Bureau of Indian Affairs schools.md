@@ -156,7 +156,7 @@
 
 #### (D) Failure of school plan of Bureau-operated school
 
-&emsp;&emsp;With respect to a Bureau-operated school that fails to be accredited at the end of thethird full year immediately following the date that the school's plan was first in effect under paragraph (7), the Secretary may take one or more of the following corrective actions:
+&emsp;&emsp;With respect to a Bureau-operated school that fails to be accredited at the end of the third full year immediately following the date that the school's plan was first in effect under paragraph (7), the Secretary may take one or more of the following corrective actions:
 
 &emsp;&emsp;&emsp;(i) Institute and fully implement actions suggested by the accrediting agency.
 
@@ -198,7 +198,7 @@
 
 #### (vi) Consistent
 
-&emsp;&emsp;&emsp;The provisions of this subparagraph shall be construed to be consistent with the provisions of the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\] and theIndian Self-Determination Act \[25 U.S.C. 5321 et seq.\] as in effect on the day before January 8, 2002, and shall not be construed as expanding the authority of the Secretary under any other law.
+&emsp;&emsp;&emsp;The provisions of this subparagraph shall be construed to be consistent with the provisions of the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\] and the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\] as in effect on the day before January 8, 2002, and shall not be construed as expanding the authority of the Secretary under any other law.
 
 #### (F) Hearing
 
@@ -420,7 +420,7 @@ Another prior section 2001, Pub. L. 95–561, title XI, §1121, Nov. 1, 1978, 92
 
 #### Amendments
 
-<b>2005</b>—Subsec. (d)(7). Pub. L. 109–54 added par. (7) and struck out heading and text of former par. (7). Text read as follows: "The Secretary may, with the approval of the tribal governing body, terminate, contract,transfer to any other authority, consolidate, or substantially curtail the operation or facilities of—
+<b>2005</b>—Subsec. (d)(7). Pub. L. 109–54 added par. (7) and struck out heading and text of former par. (7). Text read as follows: "The Secretary may, with the approval of the tribal governing body, terminate, contract, transfer to any other authority, consolidate, or substantially curtail the operation or facilities of—
 
 &emsp;"(A) any Bureau-funded school that is operated on or after January 1, 1999;
 

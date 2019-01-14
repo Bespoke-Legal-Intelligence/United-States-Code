@@ -2,7 +2,7 @@
 
 (a)
 
-Rules.—The Attorney General shall, within a reasonable time after the effective date of this section, issue rules requiring uniform forms for (and from time to time thereafter to appropriately modify and approve)—
+Rules.—The Attorney General shall, within a reasonable time after the effective date ofthis section, issue rules requiring uniform forms for (and from time to time thereafter to appropriately modify and approve)—
 
 &emsp;(1) final reports by trustees in cases under chapters 7, 12, and 13 of title 11; and
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Each agency of the Federal Government, and every facility operated by the Federal Government (or operated under contract with the Federal Government), that hires (or contracts for hire) individuals involved with the provision to children under the age of 18 of child care services shall assure that all existing and newly-hired employees undergo a criminal history background check. All existing staff shall receive such checks not later than May 29, 1991. Except as provided in subsection (b)(3), no additional staff shall be hired without a check having been completed.
+(1) Each agency of the Federal Government, and every facility operated by the Federal Government (or operated under contract with the Federal Government), that hires (or contractsfor hire) individuals involved with the provision to children under the age of 18 of child care services shall assure that all existing and newly-hired employees undergo a criminal history background check. All existing staff shall receive such checks not later than May 29, 1991. Except as provided in subsection (b)(3), no additional staff shall be hired without a check having been completed.
 
 (2) For the purposes of this section, the term "child care services" means child protective services (including the investigation of child abuse and neglect reports), social services, health and mental health care, child (day) care, education (whether or not directly involved in teaching), foster care, residential care, recreational or rehabilitative programs, and detention, correctional, or treatment services.
 
@@ -32,7 +32,7 @@ Any conviction for a sex crime, an offense involving a child victim, or a drug f
 
 #### (e) Encouragement of voluntary criminal history checks for others who may have contact with children
 
-Federal agencies and facilities are encouraged to submit identifying information for criminal history checks on volunteers working in any ofthe positions listed in subsection (a) and on adult household members in places where child care or foster care services are being provided in a home.
+Federal agencies and facilities are encouraged to submit identifying information for criminal history checks on volunteers working in any of the positions listed in subsection (a) and on adult household members in places where child care or foster care services are being provided in a home.
 
 (Pub. L. 101–647, title II, §231, Nov. 29, 1990, 104 Stat. 4808; Pub. L. 102–190, div. A, title X, §1094(a), Dec. 5, 1991, 105 Stat. 1488.)
 

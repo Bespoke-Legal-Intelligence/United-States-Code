@@ -4,7 +4,7 @@
 
 (1) The Secretary may permit, under such terms and conditions as he shall prescribe—
 
-&emsp;(A) any act otherwise prohibited by section 1538 of this title for scientific purposes or to enhance the propagation or survival of the affected species, including, but not limited to,acts necessary for the establishment and maintenance of experimental populations pursuant to subsection (j); or
+&emsp;(A) any act otherwise prohibited by section 1538 of this title for scientific purposes or to enhance the propagation or survival of the affected species, including, but not limited to, acts necessary for the establishment and maintenance of experimental populations pursuant to subsection (j); or
 
 &emsp;(B) any taking otherwise prohibited by section 1538(a)(1)(B) of this title if such taking is incidental to, and not the purpose of, the carrying out of an otherwise lawful activity.
 
@@ -50,11 +50,11 @@
 
 #### (c) Notice and review
 
-The Secretary shall publish notice in the Federal Register of each application for an exemption or permit which is made under this section. Each notice shall invite the submission from interested parties, within thirty days after the date of the notice, of written data, views, or arguments with respect to the application; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretary in the Federal Register within ten days following the issuance of the exemption or permit. Information received by the Secretary as a part of any application shall be available to the public as a matter of public record at every stage of the proceeding.
+The Secretary shall publish notice in the Federal Register of each application for an exemption or permit which is made under this section. Each notice shall invite the submission from interested parties, within thirty days after thedate of the notice, of written data, views, or arguments with respect to the application; except that such thirty-day period may be waived by the Secretary in an emergency situation where the health or life of an endangered animal is threatened and no reasonable alternative is available to the applicant, but notice of any such waiver shall be published by the Secretary in the Federal Register within ten days following the issuance of the exemption or permit. Information received by the Secretary as a part of any application shall be available to the public as a matter of public record at every stage of the proceeding.
 
 #### (d) Permit and exemption policy
 
-The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this section onlyif he finds and publishes his finding in the Federal Register that (1) such exceptions were applied for in good faith, (2) if granted and exercised will not operate to the disadvantage of such endangered species, and (3) will be consistent with the purposes and policy set forth in section 1531 of this title.
+The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this section only if he finds and publishes his finding in the Federal Register that (1) such exceptions were applied for in good faith, (2) if granted and exercised will not operate to the disadvantage of such endangered species, and (3) will be consistent with the purposes and policy set forth in section 1531 of this title.
 
 #### (e) Alaska natives
 

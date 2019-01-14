@@ -34,7 +34,7 @@ Motor Vehicle Safety Guidelines.—
 
 &emsp;(1)
 
-In general.—No guidelines issued by the Secretary with respect to motor vehicle safety shall confer any rights on any person, State, or locality, nor shall operate to bind the Secretary or any person to the approach recommended in such guidelines. In any enforcement action with respect to motor vehicle safety, the Secretary shall allege a violation of a provision of this subtitle, a motor vehicle safety standard issued under this subtitle, or another relevant statute or regulation. The Secretary may not base an enforcement action on, or execute a consent order based on, practices that are alleged to be inconsistent with any such guidelines, unless the practices allegedly violate a provision of this subtitle, a motor vehicle safety standard issued under this subtitle, or another relevant statute or regulation.
+In general.—No guidelines issued by the Secretary with respect to motor vehicle safety shall confer any rights on any person, State, or locality, nor shall operate to bind the Secretary or any person to the approach recommended in such guidelines. In any enforcement action with respect to motor vehicle safety, the Secretary shall allege a violation of a provision of this subtitle, a motor vehiclesafety standard issued under this subtitle, or another relevant statute or regulation. The Secretary may not base an enforcement action on, or execute a consent order based on, practices that are alleged to be inconsistent with any such guidelines, unless the practices allegedly violate a provision of this subtitle, a motor vehicle safety standard issued under this subtitle, or another relevant statute or regulation.
 
 &emsp;(2)
 
@@ -80,7 +80,7 @@ Sept. 9, 1966, Pub. L. 89–563, §§102(13), 103(a)–(c), (e), (f), 107 (relat
 
 Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §103(j); added Dec. 18, 1991, Pub. L. 102–240, §2505, 105 Stat. 2084.
 
-In subsection (a), the words "shall prescribe" are substituted for "shall establish by order" in 15:1392(a) and"may by order" in 15:1392(e) (1st sentence) for consistency. The words "amend or revoke" in 15:1392(e) (1st sentence) and 1397(b)(1) (last sentence) are omitted because they are included in "prescribe". The words "appropriate Federal" in 15:1392(a) and "Federal" in 15:1392(e) (1st sentence) are omitted as surplus. The words "established under this section" are omitted because of the restatement. The text of 15:1392(b) is omitted as surplus because 5:chs. 5, subch. II, and 7 apply unless otherwise stated.
+In subsection (a), the words "shall prescribe" are substituted for "shall establish by order" in 15:1392(a) and "may by order" in 15:1392(e) (1st sentence) for consistency. The words "amend or revoke" in 15:1392(e) (1st sentence) and 1397(b)(1) (last sentence) are omitted because they are included in "prescribe". The words "appropriate Federal" in 15:1392(a) and "Federal" in 15:1392(e) (1st sentence) are omitted as surplus. The words "established under this section" are omitted because of the restatement. The text of 15:1392(b) is omitted as surplus because 5:chs. 5, subch. II, and 7 apply unless otherwise stated.
 
 In subsection (b)(1), the words "including the results of research, development, testing and evaluation activities conducted pursuant to this chapter" are omitted as surplus.
 
@@ -362,7 +362,7 @@ Availability.—The Secretary shall make the information contained in the databa
 
 "(a)
 
-In General.—Not later than 9 months after the date of the enactment of this Act \[Feb. 28, 2008\], the Secretary shall provide information about hazards to children in nontraffic, noncrash incident situations by—
+In General.—Not later than 9 months after the date of the enactment of this Act \[Feb. 28, 2008\], theSecretary shall provide information about hazards to children in nontraffic, noncrash incident situations by—
 
 &emsp;"(1) supplementing an existing consumer information program relating to child safety; or
 

@@ -2,13 +2,13 @@
 
 (a)
 
-Employment Investigation Requirement.—(1)(A) The Under Secretary of Transportation for Security shall require by regulation that an employment investigation, including acriminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security,,<sup>1</sup> shall be conducted of each individual employed in, or applying for, a position as a security screener under section 44935(e) or a position in which the individual has unescorted access, or may permit other individuals to have unescorted access, to—
+Employment Investigation Requirement.—(1)(A) The Administrator shall require by regulation that an employment investigation, including a criminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Administrator, shall be conducted of each individual employed in, or applying for, a position as a security screener under section 44935(e) or a position in which the individual has unescorted access, or may permit other individuals to have unescorted access, to—
 
 &emsp;(i) aircraft of an air carrier or foreign air carrier; or
 
-&emsp;(ii) a secured area of an airport in the United States the Under Secretary designates that serves an air carrier or foreign air carrier.
+&emsp;(ii) a secured area of an airport in the United States the Administrator designates that serves an air carrier or foreign air carrier.
 
-(B) The Under Secretary shall require by regulation that an employment investigation (including a criminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security) be conducted for—
+(B) The Administrator shall require by regulation that an employment investigation (including a criminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Administrator) be conducted for—
 
 &emsp;(i) individuals who are responsible for screening passengers or property under section 44901 of this title;
 
@@ -16,23 +16,15 @@ Employment Investigation Requirement.—(1)(A) The Under Secretary of Transporta
 
 &emsp;(iii) individuals who regularly have escorted access to aircraft of an air carrier or foreign air carrier or a secured area of an airport in the United States the Administrator designates that serves an air carrier or foreign air carrier; and
 
-&emsp;(iv) such other individuals who exercise security functions associated with baggage or cargo, as the Under Secretary determines is necessary to ensure air transportation security.
+&emsp;(iv) such other individuals who exercise security functions associated with baggage or cargo, as the Administrator determines is necessary to ensure air transportation security.
 
 (C)
 
-Background checks of current employees.—
+Exemption.—An employment investigation, including a criminal history record check, shall not be required under this subsection for an individual who is exempted under section 107.31(m)(1) or (2) of title 14, Code of Federal Regulations, as in effect on November 22, 2000. The Administrator shall work with the International Civil Aviation Organization and with appropriate authorities of foreign countries to ensure that individuals exempted under this subparagraph do not pose a threat to aviation or national security.
 
-&emsp;(i) A new background check (including a criminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security <sup>2</sup> shall be required for any individual who is employed in a position described in subparagraphs (A) and (B) on the date of enactment of the Aviation and Transportation Security Act.
+(2) An air carrier, foreign air carrier, airport operator, or government that employs, or authorizes or makes a contract for the services of,an individual in a position described in paragraph (1) of this subsection shall ensure that the investigation the Administrator requires is conducted.
 
-&emsp;(ii) The Under Secretary may provide by order (without regard to the provisions of chapter 5 of title 5, United States Code) for a phased-in implementation of the requirements of this subparagraph.
-
-(D)
-
-Exemption.—An employment investigation, including a criminal history record check, shall not be required under this subsection for an individual who is exempted under section 107.31(m)(1) or (2) of title 14, Code of Federal Regulations, as in effect on November 22, 2000. The Under Secretary shall work with the International Civil Aviation Organization and with appropriate authorities of foreign countries to ensure that individuals exempted under this subparagraph do not pose a threat to aviation or national security.
-
-(2) An air carrier, foreign air carrier, airport operator, or government that employs, or authorizes or makes a contract for the services of, an individual in a position described in paragraph (1) of this subsection shall ensure that the investigation the Under Secretary requires is conducted.
-
-(3) The Under Secretary shall provide for the periodic audit of the effectiveness of criminal history record checks conducted under paragraph (1) of this subsection.
+(3) The Administrator shall provide for the periodic audit of the effectiveness of criminal history record checks conducted under paragraph (1) of this subsection.
 
 (b)
 
@@ -86,19 +78,19 @@ Prohibited Employment.—(1) Except as provided in paragraph (3) of this subsect
 
 &emsp;&emsp;&emsp;(VIII) bribery; and
 
-&emsp;&emsp;&emsp;(IX) illegal possession of a controlled substance punishable by a maximum term of imprisonment of more than 1 year, or any other crime classified as a felony that the Under Secretary determines indicates a propensity for placing contraband aboard an aircraft in return for money; or
+&emsp;&emsp;&emsp;(IX) illegal possession of a controlled substance punishable by a maximum term of imprisonment of more than 1 year, or any other crime classified as a felony that the Administrator determines indicates a propensity for placing contraband aboard an aircraft in return for money; or
 
 &emsp;&emsp;(xv) conspiracy to commit any of the acts referred to in clauses (i) through (xiv).
 
-(2) The Under Secretary may specify other factors that are sufficient to prohibit the employment of an individual in a position described in subsection (a)(1) of this section.
+(2) The Administrator may specify other factors that are sufficient to prohibit the employment of an individual in a position described in subsection (a)(1) of this section.
 
-(3) An air carrier, foreign air carrier, airport operator, or government may employ, or authorize or contract for the services of, an individual in a position described in subsection (a)(1) of this section without carrying out the investigation required under this section, if the Under Secretary approves a plan to employ the individual that provides alternate security arrangements.
+(3) An air carrier, foreign air carrier, airport operator, or government may employ, or authorize or contract for the services of, an individual in a position described in subsection (a)(1) of this section without carrying out the investigation required under this section, if the Administrator approves a plan to employ the individual that provides alternate security arrangements.
 
 (c)
 
-Fingerprinting and Record Check Information.—(1) If the Under Secretary requires an identification and criminal history record check, to be conducted by the Attorney General, as part of an investigation under this section, the Under Secretary shall designate an individual to obtain fingerprints and submit those fingerprints to the Attorney General. The Attorney General may make the results of a check available to an individual the Under Secretary designates. Before designating an individual to obtain and submit fingerprints or receive results of a check, the Under Secretary shall consult with the Attorney General. All Federal agencies shall cooperate with the Under Secretary and the Under Secretary's designee in the process of collecting and submitting fingerprints.
+Fingerprinting and Record Check Information.—(1) If the Administrator requires an identification and criminal history record check, to be conducted by the Attorney General, as part of an investigation under this section, the Administrator shall designate an individual to obtain fingerprints and submit those fingerprints to the Attorney General. The Attorney General may make the results of a check available to an individual the Administrator designates. Before designating an individual to obtain and submit fingerprints or receive results of a check, the Administrator shall consult with the Attorney General. All Federal agencies shall cooperate with the Administrator and the Administrator's designee in the process of collecting and submitting fingerprints.
 
-(2) The Under Secretary shall prescribe regulations on—
+(2) The Administrator shall prescribe regulations on—
 
 &emsp;(A) procedures for taking fingerprints; and
 
@@ -116,13 +108,17 @@ Fingerprinting and Record Check Information.—(1) If the Under Secretary requir
 
 (d)
 
-Fees and Charges.—The Under Secretary and the Attorney General shall establish reasonable fees and charges to pay expenses incurred in carrying out this section. The employer of the individual being investigated shall pay the costs of a record check of the individual. Money collected under this section shall be credited to the account in the Treasury from which the expenses were incurred and are available to the Under Secretary and the Attorney General for those expenses.
+Fees and Charges.—The Administrator and the Attorney General shall establish reasonable fees and charges to pay expenses incurred in carrying out this section. The employer of the individual being investigated shall pay the costs of a record check of the individual. Money collected under this section shall be credited to the account in the Treasury from which the expenses were incurred and are available to the Administrator and the Attorney General for those expenses.
 
 (e)
 
 When Investigation or Record Check Not Required.—This section does not require an investigation or record check when the investigation or record check is prohibited by a law of a foreign country.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1218; Pub. L. 104–264, title III, §§304(a), 306, title V, §502(a), Oct. 9, 1996, 110 Stat. 3251, 3252, 3259; Pub. L. 105–102, §2(25), Nov. 20, 1997, 111 Stat. 2205; Pub. L. 105–142, §1, Dec. 5, 1997, 111 Stat. 2650; Pub. L. 106–181, title V, §508, Apr. 5, 2000, 114 Stat. 140; Pub. L. 106–528, §2(c), (d), Nov. 22, 2000, 114 Stat. 2517, 2518; Pub. L. 107–71, title I, §§101(f)(7), (9), 111(b), 138(a), (b)(1), 140(a)(1), Nov. 19, 2001, 115 Stat. 603, 620, 639–641.)
+(f)
+
+Definition of Administrator.—In this section, the term "Administrator" means the Administrator of the Transportation Security Administration.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1218; Pub. L. 104–264, title III, §§304(a), 306, title V, §502(a), Oct. 9, 1996, 110 Stat. 3251, 3252, 3259; Pub. L. 105–102, §2(25), Nov. 20, 1997, 111 Stat. 2205; Pub. L. 105–142, §1, Dec. 5, 1997, 111 Stat. 2650; Pub. L. 106–181, title V, §508, Apr. 5, 2000, 114 Stat. 140; Pub. L. 106–528, §2(c), (d), Nov. 22, 2000, 114 Stat. 2517, 2518; Pub. L. 107–71, title I, §§101(f)(7), (9), 111(b), 138(a), (b)(1), 140(a)(1), Nov. 19, 2001, 115 Stat. 603, 620, 639–641; Pub. L. 115–254, div. K, title I, §1991(d)(27), Oct. 5, 2018, 132 Stat. 3638.)
 
 Historical and Revision Notes
 
@@ -182,11 +178,19 @@ In subsection (e), the words "a law of a foreign country" are substituted for "a
 
 This amends 49:44936(f)(1)(C) to reflect the redesignation of 49:30305(b)(7) as 49:30305(b)(8) by section 207(b) of the Coast Guard Authorization Act of 1996 (Public Law 104–324, 110 Stat. 3908).
 
-#### References in Text
-
-The date of enactment of the Aviation and Transportation Security Act, referred to in subsec. (a)(1)(C)(i), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
-
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–254, §1991(d)(27)(C), substituted "Administrator" for "Under Secretary" wherever appearing.
+
+Subsec. (a). Pub. L. 115–254, §1991(d)(27)(A)(i), which directed substitution of "Administrator" for "Under Secretary of Transportation for Security" wherever appearing, was executed by making the substitution for "Under Secretary of Transportation for Security" before "shall require" and for "Under Secretary of Transportation for Transportation Security" after "determined practicable by the" in two places, to reflect the probable intent of Congress.
+
+Subsec. (a)(1)(A). Pub. L. 115–254, §1991(d)(27)(A)(ii)(I), substituted ", shall be conducted" for ",, shall be conducted" in introductory provisions.
+
+Subsec. (a)(1)(C), (D). Pub. L. 115–254, §1991(d)(27)(A)(ii)(II), (iii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which related to background checks of current employees.
+
+Subsec. (c)(1). Pub. L. 115–254, §1991(d)(27)(B), substituted "Administrator's" for "Under Secretary's".
+
+Subsec. (f). Pub. L. 115–254, §1991(d)(27)(D), added subsec. (f).
 
 <b>2001</b>—Subsec. (a)(1)(A). Pub. L. 107–71, §138(a)(1), inserted "and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security," after "record check" in introductory provisions.
 
@@ -294,7 +298,7 @@ Subsecs. (f) to (h). Pub. L. 104–264, §502(a), added subsecs. (f) to (h).
 
 Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see section 9 of Pub. L. 106–528, set out as a note under section 106 of this title.
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -303,10 +307,6 @@ Pub. L. 104–264, title III, §304(b), Oct. 9, 1996, 110 Stat. 3252, provided t
 Amendment by section 502(a) of Pub. L. 104–264 applicable to any air carrier hiring an individual as a pilot whose application was first received by the carrier on or after the 120th day following Oct. 9, 1996, see section 502(d) of Pub. L. 104–264, set out as a note under section 30305 of this title.
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
-
-#### Transfer of Functions
-
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Criminal History Record Checks
 
@@ -335,8 +335,4 @@ Interim report.—Not later than 1 year after the date of enactment of this Act 
 &emsp;"(2)
 
 Notification concerning sufficiency of operation.—If the Administrator determines that the program described in subsection (a) is not sufficiently operational 2 years after the date of enactment of this Act to permit its utilization in accordance with subsection (a), the Administrator shall notify the committees referred to in paragraph (1) of that determination."
-
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

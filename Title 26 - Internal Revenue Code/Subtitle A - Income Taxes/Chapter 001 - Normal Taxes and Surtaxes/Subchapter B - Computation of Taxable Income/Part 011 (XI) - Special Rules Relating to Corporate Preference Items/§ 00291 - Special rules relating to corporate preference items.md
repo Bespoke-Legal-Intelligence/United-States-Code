@@ -16,7 +16,7 @@ For purposes of this subtitle, in the case of a corporation—
 
 #### (2) Reduction in percentage depletion
 
-&emsp;In the case of iron ore and coal (including lignite), the amount allowable as a deduction under section 613 with respect to any property (as defined in section 614) shall be reduced by 20 percent of the amount of the excess (if any) of—
+&emsp;In the case of iron ore and coal (including lignite), the amount allowable as a deduction under section 613 with respect to any property (as defined in section 614) shall be reduced by20 percent of the amount of the excess (if any) of—
 
 &emsp;&emsp;(A) the amount of the deduction allowable under section 613 for the taxable year (determined without regard to this paragraph), over
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;Unless the taxpayer (under regulations prescribed by the Secretary) establishes otherwise, the amount determined under clause (i) shall be an amount which bears the same ratio to the aggregate amount allowable (determined without regard to this section and section 265(b)) to the taxpayer as a deduction for interest for the taxable year as—
 
-&emsp;&emsp;&emsp;&emsp;(I) the taxpayer's average adjusted basis (within the meaning of section 1016) of obligations described in clause (i), bears to
+&emsp;&emsp;&emsp;&emsp;(I) the taxpayer's average adjusted basis (within the meaning of section1016) of obligations described in clause (i), bears to
 
 &emsp;&emsp;&emsp;&emsp;(II) such average adjusted basis for all assets of the taxpayer.
 
@@ -264,7 +264,7 @@ In general.—Except as provided in this subsection, the amendments made by this
 
 "(2) 1250
 
-gain.—The amendments made by this section to section 291(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and the amendment made by subsection (c)(2) of this section \[amending section 57 of this title\], shall apply to sales or other dispositions after December 31, 1984, in taxable years ending after such date.
+gain.—The amendments made by this section to section 291(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and the amendment made by subsection (c)(2) of this section \[amending section 57 of this title\], shall apply to sales or other dispositionsafter December 31, 1984, in taxable years ending after such date.
 
 "(3)
 

@@ -14,7 +14,7 @@ Creation of Memorial Fund.—(1) There is hereby created in the Treasury a fund 
 
 &emsp;(B) Obligations obtained under paragraph (3).
 
-&emsp;(C) The amount of surcharges paid to the Commission for the World War II memorial under the World War II 50th Anniversary Commemorative Coins Act (31 U.S.C. 5112 note).
+&emsp;(C) The amount of surcharges paid to the Commission for the World War II memorialunder the World War II 50th Anniversary Commemorative Coins Act (31 U.S.C. 5112 note).
 
 &emsp;(D) Amounts borrowed using the authority provided under subsection (d).
 
@@ -36,7 +36,7 @@ Use of Fund.—The fund shall be available to the Commission—
 
 (d)
 
-Special Borrowing Authority.—(1) To assure that groundbreaking, construction, and dedication of the World War II memorial arecarried out on a timely basis, the Commission may borrow money from the Treasury of the United States in such amounts as the Commission considers necessary, but not to exceed a total of $65,000,000. Borrowed amounts shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the month in which the obligations of the Commission are issued. The interest payments on such obligations may be deferred with the approval of the Secretary, but any interest payment so deferred shall also bear interest.
+Special Borrowing Authority.—(1) To assure that groundbreaking, construction, and dedication of the World War II memorial are carried out on a timely basis, the Commission may borrow money from the Treasury of the United States in such amounts as the Commission considers necessary, but not to exceed a total of $65,000,000. Borrowed amounts shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the month in which the obligations of the Commission are issued. The interest payments on such obligations may be deferred with the approval of the Secretary, but any interest payment so deferred shall also bear interest.
 
 (2) The borrowing of money by the Commission under paragraph (1) shall be subject to such maturities, terms, and conditions as may be agreed upon by the Commission and the Secretary, except that the maturities may not exceed 20 years and such borrowings may be redeemable at the option of the Commission before maturity.
 
@@ -64,7 +64,7 @@ Treatment of Certain Contracts.—A contract entered into by the Commission for 
 
 (h)
 
-Extension of Authority To Establish Memorial.—Notwithstanding section 8903(e) of title 40, the authority for the construction of the World War II memorial provided by Public Law 103–32 (40 U.S.C. 8903 note) expires on December 31, 2005.
+Extension of Authority To Establish Memorial.—Notwithstanding section 8903(e) of title 40, the authority for the construction of the World War II memorial provided by PublicLaw 103–32 (40 U.S.C. 8903 note) expires on December 31, 2005.
 
 (Added Pub. L. 106–117, title VI, §601(a)(1), Nov. 30, 1999, 113 Stat. 1576; amended Pub. L. 108–178, §4(h), Dec. 15, 2003, 117 Stat. 2641.)
 

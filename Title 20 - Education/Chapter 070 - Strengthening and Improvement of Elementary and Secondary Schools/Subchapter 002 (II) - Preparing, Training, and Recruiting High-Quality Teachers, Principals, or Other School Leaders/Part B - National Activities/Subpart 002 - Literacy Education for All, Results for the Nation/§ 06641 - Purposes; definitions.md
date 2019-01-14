@@ -20,7 +20,7 @@ In this subpart:
 
 &emsp;&emsp;(B) includes age-appropriate, explicit, systematic, and intentional instruction in phonological awareness, phonic decoding, vocabulary, language structure, reading fluency, and reading comprehension;
 
-&emsp;&emsp;(C) includes age-appropriate, explicit instruction in writing, including opportunities for children to write with clear purposes,with critical reasoning appropriate to the topic and purpose, and with specific instruction and feedback from instructional staff;
+&emsp;&emsp;(C) includes age-appropriate, explicit instruction in writing, including opportunities for children to write with clear purposes, with critical reasoning appropriate to the topic and purpose, and with specific instruction and feedback from instructional staff;
 
 &emsp;&emsp;(D) makes available and uses diverse, high-quality print materials that reflect the reading and development levels, and interests, of children;
 

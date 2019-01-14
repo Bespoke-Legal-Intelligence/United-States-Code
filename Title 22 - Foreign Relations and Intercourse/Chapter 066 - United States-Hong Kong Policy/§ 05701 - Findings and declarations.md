@@ -20,7 +20,7 @@ The Congress makes the following findings and declarations:
 
 &emsp;(4) Hong Kong plays an important role in today's regional and world economy. This role is reflected in strong economic, cultural, and other ties with the United States that give the United States a strong interest in the continued vitality, prosperity, and stability of Hong Kong.
 
-&emsp;(5) Support for democratization is a fundamental principle of United States foreignpolicy. As such, it naturally applies to United States policy toward Hong Kong. This will remain equally true after June 30, 1997.
+&emsp;(5) Support for democratization is a fundamental principle of United States foreign policy. As such, it naturally applies to United States policy toward Hong Kong. This will remain equally true after June 30, 1997.
 
 &emsp;(6) The human rights of the people of Hong Kong are of great importance to the United States and are directly relevant to United States interests in Hong Kong. A fully successful transition in the exercise of sovereignty over Hong Kong must safeguard human rights in and of themselves. Human rights also serve as a basis for Hong Kong's continued economic prosperity.
 

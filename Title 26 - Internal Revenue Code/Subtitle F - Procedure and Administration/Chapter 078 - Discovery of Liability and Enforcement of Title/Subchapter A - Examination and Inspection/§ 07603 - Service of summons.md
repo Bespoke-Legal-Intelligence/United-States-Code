@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A summons issued under section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602 shall be served by theSecretary, by an attested copy delivered in hand to the person to whom it is directed, or left at his last and usual place of abode; and the certificate of service signed by the person serving the summons shall be evidence of the facts it states on the hearing of an application for the enforcement of the summons. When the summons requires the production of books, papers, records, or other data, it shall be sufficient if such books, papers, records, or other data are described with reasonable certainty.
+A summons issued under section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602 shall be served by the Secretary, by an attested copy delivered in hand to the person to whom it is directed, or left at his last and usual place of abode; and the certificate of service signed by the person serving the summons shall be evidence of the facts it states on the hearing of an application for the enforcement of the summons. When the summons requires the production of books, papers, records, or other data, it shall be sufficient if such books, papers, records, or other data are described with reasonable certainty.
 
 #### (b) Service by mail to third-party recordkeepers
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 98–369 effective Aug. 1, 1984, see section 911(e) of Pub.
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–424 applicable with respect to articles sold after Jan. 6, 1983, see section 515(c) ofPub. L. 97–424, set out as a note under section 34 of this title.
+Amendment by Pub. L. 97–424 applicable with respect to articles sold after Jan. 6, 1983, see section 515(c) of Pub. L. 97–424, set out as a note under section 34 of this title.
 
 #### Effective Date of 1980 Amendment
 

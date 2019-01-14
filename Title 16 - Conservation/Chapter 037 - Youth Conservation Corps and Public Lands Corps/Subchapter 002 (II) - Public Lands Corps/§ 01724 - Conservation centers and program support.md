@@ -28,7 +28,7 @@
 
 #### (b) Logistical support
 
-The Secretary may make arrangements with the Secretary of Defense to have logistical support provided by the Armed Forces to the Corps and any conservation center established under this section, where feasible. Logistical supportmay include the provision of temporary tent shelters where needed, transportation, and residential supervision.
+The Secretary may make arrangements with the Secretary of Defense to have logistical support provided by the Armed Forces to the Corps and any conservation center established under this section, where feasible. Logistical support may include the provision of temporary tent shelters where needed, transportation, and residential supervision.
 
 #### (c) Use of military installations
 

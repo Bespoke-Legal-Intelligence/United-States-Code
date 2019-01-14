@@ -4,7 +4,7 @@ The purpose of this subchapter is to allow tribes an opportunity to manage triba
 
 &emsp;(1) give Indian tribal governments greater control over the management of such trust funds; or
 
-&emsp;(2) otherwise demonstrate how the principles of self-determination can work with respect tothe management of such trust funds, in a manner consistent with the trust responsibility of the United States.
+&emsp;(2) otherwise demonstrate how the principles of self-determination can work with respect to the management of such trust funds, in a manner consistent with the trust responsibility of the United States.
 
 (Pub. L. 103–412, title II, §201, Oct. 25, 1994, 108 Stat. 4242.)
 

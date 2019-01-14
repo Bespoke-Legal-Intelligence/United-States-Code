@@ -10,7 +10,7 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–446 before period at end substituted "section 5302(b) of this title, if the veteran is eligible for relief under that section" for "subsection 5302(b) of this title, if eligible thereunder".
+<b>1994</b>—Subsec. (b). Pub. L. 103–446 before period at end substituted "section 5302(b) of this title, if the veteranis eligible for relief under that section" for "subsection 5302(b) of this title, if eligible thereunder".
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1813 of this title as this section.
 

@@ -48,7 +48,7 @@ Notwithstanding subsection (a), if the Director of the Division of Enforcement, 
 
 #### (2) Authority to hire experts
 
-&emsp;The Comptroller General of the United States may hire independent consultants with specialized expertise in any area relevant tothe duties of the Comptroller General described in this section, in order to assist the Comptroller General in carrying out such duties.
+&emsp;The Comptroller General of the United States may hire independent consultants with specialized expertise in any area relevant to the duties of the Comptroller General described in this section, in order to assist the Comptroller General in carrying out such duties.
 
 (Pub. L. 111–203, title IX, §961, July 21, 2010, 124 Stat. 1907.)
 

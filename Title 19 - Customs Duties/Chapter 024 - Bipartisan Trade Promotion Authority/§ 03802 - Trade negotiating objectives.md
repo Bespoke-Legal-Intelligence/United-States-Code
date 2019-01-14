@@ -94,7 +94,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(B) to secure fair, equitable, and nondiscriminatory market access opportunities for United States persons that rely upon intellectual property protection; and
 
-&emsp;&emsp;(C) to respect the Declaration on the TRIPS Agreement and Public Health, adopted by the World Trade Organization at theFourth Ministerial Conference at Doha, Qatar on November 14, 2001.
+&emsp;&emsp;(C) to respect the Declaration on the TRIPS Agreement and Public Health, adopted by the World Trade Organization at the Fourth Ministerial Conference at Doha, Qatar on November 14, 2001.
 
 #### (5) Transparency
 
@@ -164,7 +164,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(ii) reducing tariffs to levels that are the same as or lower than those in the United States;
 
-&emsp;&emsp;(iii) reducing or eliminating subsidies that decrease market opportunities for UnitedStates exports or unfairly distort agriculture markets to the detriment of the United States;
+&emsp;&emsp;(iii) reducing or eliminating subsidies that decrease market opportunities for United States exports or unfairly distort agriculture markets to the detriment of the United States;
 
 &emsp;&emsp;(iv) allowing the preservation of programs that support family farms and rural communities but do not distort trade;
 
@@ -234,7 +234,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(B) to seek to strengthen the capacity of the Trade Policy Review Mechanism of the World Trade Organization to review compliance with commitments;
 
-&emsp;&emsp;(C) to seek adherence by panels convened under the Dispute Settlement Understanding and by the Appellate Body to the standard of review applicable under the Uruguay Round Agreement involved in the dispute, including greater deference, where appropriate, to the fact-finding and technical expertise of national investigating authorities;
+&emsp;&emsp;(C) to seek adherence by panels convened under the Dispute Settlement Understandingand by the Appellate Body to the standard of review applicable under the Uruguay Round Agreement involved in the dispute, including greater deference, where appropriate, to the fact-finding and technical expertise of national investigating authorities;
 
 &emsp;&emsp;(D) to seek provisions encouraging the early identification and settlement of disputes through consultation;
 

@@ -84,7 +84,7 @@ Consortium.—For purposes of subparagraph (A), a consortium shall be made up of
 
 &emsp;"(4)
 
-Limitations.—With respect to grant funds received under this section, a State may not provide in excess of $500,000 in assistance from such funds to any single applicant.
+Limitations.—With respect to grant funds received under this section, a State may not provide inexcess of $500,000 in assistance from such funds to any single applicant.
 
 "(e)
 

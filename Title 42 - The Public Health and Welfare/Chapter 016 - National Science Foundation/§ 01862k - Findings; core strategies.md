@@ -120,7 +120,7 @@ Sense of the Congress.—
 
 &emsp;"(1)
 
-In general.—It is the sense of the Congress that the Director should, to the greatest extent practicable and in a manner consistent with applicable Federal law (including Executive Order No. 12999 \[40 U.S.C. 549 note\]), donate educationally useful Federal equipment to schools in order to enhance the science and mathematics programs of those schools.
+In general.—It is the sense of the Congress that the Director should, to the greatest extent practicable and in a manner consistent with applicable Federal law (including Executive Order No. 12999 \[40U.S.C. 549 note\]), donate educationally useful Federal equipment to schools in order to enhance the science and mathematics programs of those schools.
 
 &emsp;"(2)
 

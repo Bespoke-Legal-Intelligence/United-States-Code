@@ -12,7 +12,7 @@ The Congress declares that the National Education Goals are the following:
 
 &emsp;&emsp;(ii) every parent in the United States will be a child's first teacher and devote time each day to helping such parent's preschool child learn, and parents will have access to the training and support parents need; and
 
-&emsp;&emsp;(iii) children will receive the nutrition, physical activity experiences, and health care needed to arrive at school with healthy minds and bodies, and to maintain the mental alertness necessary to be prepared to learn, and the number of low-birthweight babies will be significantly reduced through enhanced prenatal health systems.
+&emsp;&emsp;(iii) children will receive the nutrition, physical activity experiences, and healthcare needed to arrive at school with healthy minds and bodies, and to maintain the mental alertness necessary to be prepared to learn, and the number of low-birthweight babies will be significantly reduced through enhanced prenatal health systems.
 
 #### (2) School completion
 

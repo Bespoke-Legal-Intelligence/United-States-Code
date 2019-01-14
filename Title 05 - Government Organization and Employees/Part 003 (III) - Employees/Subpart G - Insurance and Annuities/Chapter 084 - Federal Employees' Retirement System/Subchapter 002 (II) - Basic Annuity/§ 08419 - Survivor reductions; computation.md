@@ -10,7 +10,7 @@
 
 &emsp;(A) after the death of the spouse; or
 
-&emsp;(B) after the dissolution of the spouse's marriage to the employee or Member, except that an appropriate reduction shall be made thereafter if the spouse is entitled, as a former spouse, to a survivor annuity under section 8445.
+&emsp;(B) after the dissolution of the spouse's marriage to the employee or Member, except thatan appropriate reduction shall be made thereafter if the spouse is entitled, as a former spouse, to a survivor annuity under section 8445.
 
 (2) Any reduction in an annuity for the purpose of providing a survivor annuity for a former spouse of a retired employee or Member shall be terminated for each full month after the former spouse remarries before reaching age 55 or dies. This reduction shall be replaced by appropriate reductions under subsection (a) if the retired employee or Member has one or more of the following:
 

@@ -6,7 +6,7 @@
 | :--- | ---: |
 | [701\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000701%20-%20Omitted.md) | Omitted. |
 | [702\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000702%20-%20Definitions.md) | Definitions. |
-| [703\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000703%20-%20Satellite%20service%20report.md) | Satellite service report. |
+| [703\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000703%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93141%2C%20div.%20P%2C%20title%20IV%2C%20%C2%A7402%28b%29%2C%20Mar.%2023%2C%202018%2C%20132%20Stat.%201089.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -77,7 +77,7 @@
 | [765b.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20C%20-%20Deregulation%20and%20Other%20Statutory%20Changes/%C2%A7%2000765b%20-%20Elimination%20of%20procurement%20preferences.md) | Elimination of procurement preferences. |
 | [765c.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20C%20-%20Deregulation%20and%20Other%20Statutory%20Changes/%C2%A7%2000765c%20-%20ITU%20functions.md) | ITU functions. |
 | [765d.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20C%20-%20Deregulation%20and%20Other%20Statutory%20Changes/%C2%A7%2000765d%20-%20Termination%20of%20provisions%20of%20this%20chapter.md) | Termination of provisions of this chapter. |
-| [765e.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20C%20-%20Deregulation%20and%20Other%20Statutory%20Changes/%C2%A7%2000765e%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
+| [765e.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20C%20-%20Deregulation%20and%20Other%20Statutory%20Changes/%C2%A7%2000765e%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93141%2C%20div.%20P%2C%20title%20IV%2C%20%C2%A7402%28a%29%2C%20Mar.%2023%2C%202018%2C%20132%20Stat.%201089.md) | Repealed. |
 | [765f.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20C%20-%20Deregulation%20and%20Other%20Statutory%20Changes/%C2%A7%2000765f%20-%20Satellite%20auctions.md) | Satellite auctions. |
 | [765g.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20C%20-%20Deregulation%20and%20Other%20Statutory%20Changes/%C2%A7%2000765g%20-%20Exclusivity%20arrangements.md) | Exclusivity arrangements. |
 

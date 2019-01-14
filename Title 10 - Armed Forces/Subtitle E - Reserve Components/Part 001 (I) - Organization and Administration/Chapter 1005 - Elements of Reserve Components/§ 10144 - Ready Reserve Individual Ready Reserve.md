@@ -12,7 +12,7 @@
 
 (3) The Secretary shall designate the grades and military skills or specialities of members to be eligible for placement in such mobilization category.
 
-(4) A member in such mobilization category shall be eligible for benefits (other than pay and training) as are normally available to members of the Selected Reserve, as determined by the Secretary of Defense.
+(4) A member in such mobilization category shall be eligible for benefits (other than pay and training) as are normally available to membersof the Selected Reserve, as determined by the Secretary of Defense.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2973; amended Pub. L. 105–85, div. A, title V, §511(a), Nov. 18, 1997, 111 Stat. 1728.)
 

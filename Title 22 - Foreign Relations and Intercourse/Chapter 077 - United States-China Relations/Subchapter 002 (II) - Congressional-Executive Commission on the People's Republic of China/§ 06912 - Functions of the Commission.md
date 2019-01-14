@@ -52,7 +52,7 @@ The Commission shall monitor the development of the rule of law in the People's 
 
 &emsp;(2) processes by which statutes, regulations, rules, and other legal acts of the Government of the People's Republic of China are developed and become binding within the People's Republic of China;
 
-&emsp;(3) the extent to which statutes, regulations, rules, administrative and judicial decisions,and other legal acts of the Government of the People's Republic of China are published and are made accessible to the public;
+&emsp;(3) the extent to which statutes, regulations, rules, administrative and judicial decisions, and other legal acts of the Government of the People's Republic of China are published and are made accessible to the public;
 
 &emsp;(4) the extent to which administrative and judicial decisions are supported by statements of reasons that are based upon written statutes, regulations, rules, and other legal acts of the Government of the People's Republic of China;
 

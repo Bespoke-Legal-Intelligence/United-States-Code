@@ -16,7 +16,7 @@ The district courts of the United States shall have exclusive jurisdiction of an
 
 #### (d) Venue and service of process
 
-An action under this section may be brought in the district where the plan is administered orwhere a defendant resides or does business, and process may be served in any district where a defendant resides, does business, or may be found.
+An action under this section may be brought in the district where the plan is administered or where a defendant resides or does business, and process may be served in any district where a defendant resides, does business, or may be found.
 
 #### (e) Costs and expenses
 

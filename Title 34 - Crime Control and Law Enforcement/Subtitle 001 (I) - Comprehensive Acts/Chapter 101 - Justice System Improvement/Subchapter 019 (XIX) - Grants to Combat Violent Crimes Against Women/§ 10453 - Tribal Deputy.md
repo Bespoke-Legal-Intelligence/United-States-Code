@@ -52,7 +52,7 @@ There is established in the Office on Violence Against Women a Deputy Director f
 
 #### References in Text
 
-This Act, referred to in subsecs. (b)(1)(B) and (c)(1), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, known as the Omnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
+This Act, referred to in subsecs. (b)(1)(B) and (c)(1), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, known as theOmnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
 Section 20126 of this title, referred to in subsec. (b)(1)(E), was in the original "section 903" and was translated as meaning section 903 of Pub. L. 109–162, to reflect the probable intent of Congress, because there is no section 903 of Pub. L. 90–351.
 

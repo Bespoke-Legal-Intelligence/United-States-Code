@@ -64,7 +64,7 @@ Pub. L. 108–87, title VIII, §8025, Sept. 30, 2003, 117 Stat. 1077, as amended
 
 "(b) During the current fiscal year and hereafter, a business concern which has negotiated with a military service or defense agency a subcontracting plan for the participation by small business concerns pursuant to section 8(d) of the Small Business Act (15 U.S.C. 637(d)) shall be given credit toward meeting that subcontracting goal for any purchases made from qualified nonprofit agencies for the blind or other severely handicapped.
 
-"(c) For the purpose of this section, the phrase 'qualified nonprofit agency for the blind or other severely handicapped' means a nonprofit agency for the blind or other severely handicapped that has been approved by the Committee for the Purchase from the Blind andOther Severely Handicapped under chapter 85 of title 41, United States Code."
+"(c) For the purpose of this section, the phrase 'qualified nonprofit agency for the blind or other severely handicapped' means a nonprofit agency for the blind or other severely handicapped that has been approved by the Committee for the Purchase from the Blind and Other Severely Handicapped under chapter 85 of title 41, United States Code."
 
 Similar provisions were contained in the following prior appropriation acts:
 

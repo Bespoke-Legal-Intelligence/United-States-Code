@@ -102,7 +102,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 &emsp;(A) the claims have been submitted to the State agencies not later than 60 days after the last day of the month for which the reimbursement is claimed; and
 
-&emsp;(B) the final program operations report for the month is submitted to the Secretary notlater than 90 days after the last day of the month.
+&emsp;(B) the final program operations report for the month is submitted to the Secretary not later than 90 days after the last day of the month.
 
 (2) The Secretary may waive the requirements of paragraph (1) at the discretion of the Secretary.
 
@@ -226,7 +226,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary shall require that a school food authority purchase, to the maximum extent practicable, domestic commodities or products.
+&emsp;&emsp;Subject to subparagraph (B), the Secretary shall require that a school food authoritypurchase, to the maximum extent practicable, domestic commodities or products.
 
 #### (B) Limitations
 
@@ -306,7 +306,7 @@ In acquiring a good or service for programs under this chapter or the Child Nutr
 
 #### (B) Non-Federal sources
 
-&emsp;&emsp;For the purposes of subparagraph (A), non-Federal sources does not include revenue from the sale of foods sold in competition with meals served under the school lunch program authorized under this chapter or the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
+&emsp;&emsp;For the purposes of subparagraph (A), non-Federal sources does not include revenuefrom the sale of foods sold in competition with meals served under the school lunch program authorized under this chapter or the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773).
 
 #### (C) Other programs
 
@@ -352,7 +352,7 @@ In acquiring a good or service for programs under this chapter or the Child Nutr
 
 Any school, institution, service institution, facility, or individual that has been terminated from any program authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) and is on a list of disqualified institutions and individuals under section 1761 of this title or section 1766(d)(5)(E) of this title may not be approved to participate in or administer any program authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
 
-(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; renumbered §12 and amended Pub. L. 87–823, §5, Oct. 15, 1962, 76 Stat. 945; Pub. L. 91–248, §1(b), May 14, 1970, 84 Stat. 208; Pub. L. 94–105, §9, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §§3, 19(c), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §§6(a), 10(a), (b), Nov. 10, 1978, 92 Stat. 3620, 3623; Pub. L. 96–499, title II, §205, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c), Aug. 13, 1981, 95 Stat. 527, 530, 533; Pub. L. 99–500, title III, §§325(a), 326, 373(a), Oct. 18, 1986, 100 Stat. 1783–361, 1783–369, and Pub. L. 99–591, title III, §§325(a), 326, 373(a), Oct. 30, 1986, 100 Stat. 3341–364, 3341–365, 3341–372; Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), Nov. 14, 1986, 100 Stat. 4072, 4073, 4081; Pub. L. 100–71, title I, §101(a), July 11, 1987, 101 Stat. 429; Pub. L. 101–147, title III, §§306, 312(1), Nov. 10, 1989, 103 Stat. 914, 916; Pub. L. 103–448, title I, §§112(a)(1), (b)–(d), 113, Nov. 2, 1994, 108 Stat. 4708–4712; Pub. L. 104–193, title VII, §§701(b), 705, Aug. 22, 1996,110 Stat. 2288, 2290; Pub. L. 105–336, title I, §§104, 107(j)(3)(A), Oct. 31, 1998, 112 Stat. 3147, 3153; Pub. L. 106–224, title II, §242(b)(3), June 20, 2000, 114 Stat. 412; Pub. L. 107–171, title IV, §4304, May 13, 2002, 116 Stat. 331; Pub. L. 108–265, title I, §§108(b), 114, 115, title II, §203(i)(2), June 30, 2004, 118 Stat. 746, 748, 780; Pub. L. 111–296, title II, §§205, 206, title III, §§361, 362, title IV, §§403, 441(a)(4), Dec. 13, 2010, 124 Stat. 3218, 3220, 3258, 3259, 3261; Pub. L. 114–95, title IX, §9215(nnn), Dec. 10, 2015, 129 Stat. 2188.)
+(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; renumbered §12 and amended Pub. L. 87–823, §5, Oct. 15, 1962, 76 Stat. 945; Pub. L. 91–248, §1(b), May 14, 1970, 84 Stat. 208; Pub. L. 94–105, §9, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §§3, 19(c), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §§6(a), 10(a), (b), Nov. 10, 1978, 92 Stat. 3620, 3623; Pub. L. 96–499, title II, §205, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c), Aug. 13, 1981, 95 Stat. 527, 530, 533; Pub. L. 99–500, title III, §§325(a), 326, 373(a), Oct. 18, 1986, 100 Stat. 1783–361, 1783–369, and Pub. L. 99–591, title III, §§325(a), 326, 373(a), Oct. 30, 1986, 100 Stat. 3341–364, 3341–365, 3341–372; Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), Nov. 14, 1986, 100 Stat. 4072, 4073, 4081; Pub. L. 100–71, title I, §101(a), July 11, 1987, 101 Stat. 429; Pub. L. 101–147, title III, §§306, 312(1), Nov. 10, 1989, 103 Stat. 914, 916; Pub. L. 103–448, title I, §§112(a)(1), (b)–(d), 113, Nov. 2, 1994, 108 Stat. 4708–4712; Pub. L. 104–193, title VII, §§701(b), 705, Aug. 22, 1996, 110 Stat. 2288, 2290; Pub. L. 105–336, title I, §§104, 107(j)(3)(A), Oct. 31, 1998, 112 Stat. 3147, 3153; Pub. L. 106–224, title II, §242(b)(3), June 20, 2000, 114 Stat. 412; Pub. L. 107–171, title IV, §4304, May 13, 2002, 116 Stat. 331; Pub. L. 108–265, title I, §§108(b), 114, 115, title II, §203(i)(2), June 30, 2004, 118 Stat. 746, 748, 780; Pub. L. 111–296, title II, §§205, 206, title III, §§361, 362, title IV, §§403, 441(a)(4), Dec. 13, 2010, 124 Stat. 3218, 3220, 3258, 3259, 3261; Pub. L. 114–95, title IX, §9215(nnn), Dec. 10, 2015, 129 Stat. 2188.)
 
 #### References in Text
 
@@ -450,7 +450,7 @@ Pub. L. 104–193, §705(e)(1), (2), redesignated par. (3) as (1) and struck out
 
 Subsec. (k)(2). Pub. L. 104–193, §705(e)(1), (2), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: "Notwithstanding chapter 5 of title 5, not later than 45 days after the publication of the proposed regulations permitting the use of food-based menu systems, the Secretary shall publish notice in the Federal Register of, and hold, a public meeting with—
 
-&emsp;"(A) representatives of affected parties, such as Federal, State, and local administrators, school food service administrators, other school food service personnel, parents, and teachers; and
+&emsp;"(A) representatives of affected parties, such as Federal, State, and local administrators, school foodservice administrators, other school food service personnel, parents, and teachers; and
 
 &emsp;"(B) organizations representing affected parties, such as public interest antihunger organizations, doctors specializing in pediatric nutrition, health and consumer groups, commodity groups, food manufacturers and vendors, and nutritionists involved with the implementation and operation of programs under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.);
 
@@ -627,6 +627,42 @@ Amendment by Pub. L. 87–688 applicable only with respect to funds appropriated
 #### Effective Date of 1952 Amendment
 
 Amendment by act July 12, 1952, effective only with respect to funds appropriated after July 12, 1952, see section 1(d) of act July 12, 1952, set out as a note under section 1753 of this title.
+
+#### Buy American Requirements
+
+Pub. L. 115–334, title IV, §4207, Dec. 20, 2018, 132 Stat. 4666, provided that:
+
+"(a)
+
+Enforcement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2018\], the Secretary of Agriculture shall—
+
+&emsp;"(1) enforce full compliance with the requirements of section 12(n) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(n)) for purchases of agricultural commodities, including fish, meats, vegetables, and fruits, and the products thereof, and
+
+&emsp;"(2) ensure that States and school food authorities fully understand their responsibilities under such Act \[42 U.S.C. 1751 et seq.\].
+
+"(b)
+
+Requirement.—The products of the agricultural commodities described in subsection (a)(1) shall be processed in the United States and substantially contain—
+
+&emsp;"(1) meats, vegetables, fruits, and other agricultural commodities produced in—
+
+&emsp;&emsp;"(A) a State,
+
+&emsp;&emsp;"(B) the District of Columbia,
+
+&emsp;&emsp;"(C) the Commonwealth of Puerto Rico, or
+
+&emsp;&emsp;"(D) any territory or possession of the United States, or
+
+&emsp;"(2) fish harvested—
+
+&emsp;&emsp;"(A) within the Exclusive Economic Zone of the United States, as described in Presidential Proclamation 5030 (48 Fed. Reg. 10605; March 10, 1983) \[16 U.S.C. 1453 note\], or
+
+&emsp;&emsp;"(B) by a United States flagged vessel.
+
+"(c)
+
+Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to Congress a report on the actions the Secretary has taken, and plans to take, to comply with this section."
 
 #### Study of Cost Accounting Requirements
 

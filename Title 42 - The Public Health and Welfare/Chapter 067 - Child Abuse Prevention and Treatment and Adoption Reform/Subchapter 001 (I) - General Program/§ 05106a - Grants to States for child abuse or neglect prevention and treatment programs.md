@@ -22,7 +22,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;(6) developing, strengthening, and facilitating training including—
 
-&emsp;&emsp;(A) training regarding research-based strategies, including the use of differentialresponse, to promote collaboration with the families;
+&emsp;&emsp;(A) training regarding research-based strategies, including the use of differential response, to promote collaboration with the families;
 
 &emsp;&emsp;(B) training regarding the legal duties of such individuals;
 
@@ -96,7 +96,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(i) provisions or procedures for an individual to report known and suspected instances of child abuse and neglect, including a State law for mandatory reporting by individuals required to report such instances;
 
-&emsp;&emsp;&emsp;(ii) policies and procedures (including appropriate referrals to child protection service systems and for other appropriateservices) to address the needs of infants born with and identified as being affected by substance abuse or withdrawal symptoms resulting from prenatal drug exposure, or a Fetal Alcohol Spectrum Disorder, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
+&emsp;&emsp;&emsp;(ii) policies and procedures (including appropriate referrals to child protection service systems and for other appropriate services) to address the needs of infants born with and identified as being affected by substance abuse or withdrawal symptoms resulting from prenatal drug exposure, or a Fetal Alcohol Spectrum Disorder, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
 
 &emsp;&emsp;&emsp;&emsp;(I) establish a definition under Federal law of what constitutes child abuse or neglect; or
 
@@ -114,7 +114,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(vi) procedures for immediate steps to be taken to ensure and protect the safety of a victim of child abuse or neglect and of any other child under the same care who may also be in danger of child abuse or neglect and ensuring their placement in a safe environment;
 
-&emsp;&emsp;&emsp;(vii) provisions for immunity from prosecution under State and local laws and regulations for individuals making good faith reports of suspected or known instances of child abuse or neglect;
+&emsp;&emsp;&emsp;(vii) provisions for immunity from civil or criminal liability under State and local laws and regulations for individuals making good faith reports of suspected or known instances of child abuse or neglect, or who otherwise provide information or assistance, including medical evaluations or consultations, in connection with a report, investigation, or legal intervention pursuant to a good faith report of child abuse or neglect;
 
 &emsp;&emsp;&emsp;(viii) methods to preserve the confidentiality of all records in order to protect the rights of the child and of the child's parents or guardians, including requirements ensuring that reports and records made and maintained pursuant to the purposes of this subchapter and subchapter III shall only be made available to—
 
@@ -152,7 +152,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;&emsp;(II) by which individuals who disagree with an official finding of child abuse or neglect can appeal such finding;
 
-&emsp;&emsp;&emsp;(xvi) provisions, procedures, and mechanisms that assure that the State does notrequire reunification of a surviving child with a parent who has been found by a court of competent jurisdiction—
+&emsp;&emsp;&emsp;(xvi) provisions, procedures, and mechanisms that assure that the State does not require reunification of a surviving child with a parent who has been found by a court of competent jurisdiction—
 
 &emsp;&emsp;&emsp;&emsp;(I) to have committed murder (which would have been an offense under section 1111(a) of title 18 if the offense had occurred in the special maritime or territorial jurisdiction of the United States) of another child of such parent;
 
@@ -170,7 +170,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(xviii) provisions and procedures to require that a representative of the child protective services agency shall, at the initial time of contact with the individual subject to a child abuse or neglect investigation, advise the individual of the complaints or allegations made against the individual, in a manner that is consistent with laws protecting the rights of the informant;
 
-&emsp;&emsp;&emsp;(xix) provisions addressing the training of representatives of the child protective services system regarding the legal duties of the representatives, which may consist of various methods of informing such representatives of such duties, in order to protect the legal rights and safety of children and families from the initial time of contact during investigation through treatment;
+&emsp;&emsp;&emsp;(xix) provisions addressing the training of representatives of the child protective services system regarding the legal dutiesof the representatives, which may consist of various methods of informing such representatives of such duties, in order to protect the legal rights and safety of children and families from the initial time of contact during investigation through treatment;
 
 &emsp;&emsp;&emsp;(xx) provisions and procedures for improving the training, retention, and supervision of caseworkers;
 
@@ -198,7 +198,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(ii) the training to be provided under the grant to support direct line and supervisory personnel in report taking, screening, assessment, decision making, and referral for investigating suspected instances of child abuse and neglect;
 
-&emsp;&emsp;&emsp;(iii) the training to be provided under the grant for individuals who are requiredto report suspected cases of child abuse and neglect;
+&emsp;&emsp;&emsp;(iii) the training to be provided under the grant for individuals who are required to report suspected cases of child abuse and neglect;
 
 &emsp;&emsp;&emsp;(iv) policies and procedures encouraging the appropriate involvement of families in decisionmaking pertaining to children who experienced child abuse or neglect;
 
@@ -216,7 +216,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 #### (3) Limitation
 
-&emsp;With regard to clauses (vi) and (vii) of paragraph (2)(B), nothing in this section shall be construed as restricting the ability of a State to refuse to disclose identifying information concerning the individual initiating a report or complaint alleging suspected instances of child abuse or neglect, except that the State may not refuse such a disclosure where a court orders such disclosure after such court has reviewed, in camera, the record of the State related to the report or complaint and has found it has reason to believe that the reporter knowingly made a false report.
+&emsp;With regard to clauses (vi) and (vii) of paragraph (2)(B), nothing in this section shall be construed as restricting the ability of a Stateto refuse to disclose identifying information concerning the individual initiating a report or complaint alleging suspected instances of child abuse or neglect, except that the State may not refuse such a disclosure where a court orders such disclosure after such court has reviewed, in camera, the record of the State related to the report or complaint and has found it has reason to believe that the reporter knowingly made a false report.
 
 #### (4) Definitions
 
@@ -358,7 +358,7 @@ Each State to which a grant is made under this section shall annually work with 
 
 &emsp;(13) The annual report containing the summary of the activities of the citizen review panels of the State required by subsection (c)(6).
 
-&emsp;(14) The number of children under the care of the State child protection system who aretransferred into the custody of the State juvenile justice system.
+&emsp;(14) The number of children under the care of the State child protection system who are transferred into the custody of the State juvenile justice system.
 
 &emsp;(15) The number of children referred to a child protective services system under subsection (b)(2)(B)(ii).
 
@@ -432,11 +432,11 @@ Within 6 months after receiving the State reports under subsection (d), the Secr
 
 &emsp;Notwithstanding paragraphs (2) and (4), except as provided in paragraph (3), no State or territory shall receive a grant under this section in an amount that is less than the amount such State or territory received under this section for fiscal year 2009.
 
-(Pub. L. 93–247, title I, §106, formerly §8, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 110; renumbered title I, §107, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; amended Pub. L. 102–295, title I, §114(a)–(c), May 28, 1992, 106 Stat. 192, 195; Pub. L. 102–586, §9(b), Nov. 4, 1992, 106 Stat. 5037; renumbered §106 and amended Pub. L. 104–235, title I, §§107, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3071, 3079; Pub. L. 108–36, title I, §114(a)–(d), June 25, 2003, 117 Stat. 808–812; Pub. L. 111–320, title I, §115, Dec. 20, 2010, 124 Stat. 3467; Pub. L. 114–22, title VIII, §802(b), May 29, 2015, 129 Stat. 263; Pub. L. 114–198, title V, §503(b), (c), July 22, 2016, 130 Stat. 729, 730.)
+(Pub. L. 93–247, title I, §106, formerly §8, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 110; renumbered title I, §107, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; amended Pub. L. 102–295, title I, §114(a)–(c), May 28, 1992, 106 Stat. 192, 195; Pub. L. 102–586, §9(b), Nov. 4, 1992, 106 Stat. 5037; renumbered §106 and amended Pub. L. 104–235, title I, §§107, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3071, 3079; Pub. L. 108–36, title I, §114(a)–(d), June 25, 2003, 117 Stat. 808–812; Pub. L. 111–320, title I, §115, Dec. 20, 2010, 124 Stat. 3467; Pub. L. 114–22, title VIII, §802(b), May 29, 2015, 129 Stat. 263; Pub. L. 114–198, title V, §503(b), (c), July 22, 2016, 130 Stat. 729, 730; Pub. L. 115–424, §3(a), Jan. 7, 2019, 132 Stat. 5470.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(2)(A), (E), (F) and (c)(4)(A), is act Aug. 14, 1935, ch.531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to part B (§620 et seq.) and part E (§670 et seq.), respectively, of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (b)(2)(A), (E), (F) and (c)(4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to part B (§620 et seq.) and part E (§670 et seq.), respectively, of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (b)(2)(B)(xxi) and (d)(16), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
@@ -447,6 +447,8 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(2)(F), is
 A prior section 106 of Pub. L. 93–247 was renumbered section 105 and is classified to section 5106 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(2)(B)(vii). Pub. L. 115–424 amended cl. (vii) generally. Prior to amendment, cl. (vii) read as follows: "provisions for immunity from prosecution under State and local laws and regulations for individuals making good faith reports of suspected or known instances of child abuse or neglect;".
 
 <b>2016</b>—Subsec. (b)(2)(B)(ii). Pub. L. 114–198, §503(b)(1), substituted "substance abuse" for "illegal substance abuse" in introductory provisions.
 
@@ -642,7 +644,7 @@ Subsec. (c)(4)(A)(iii)(I). Pub. L. 108–36, §114(c)(1)(A)(ii), substituted "St
 
 Subsec. (c)(4)(C). Pub. L. 108–36, §114(c)(1)(B), added subpar. (C).
 
-Subsec. (c)(6). Pub. L. 108–36, §114(c)(2), substituted "State and the public" for "public" and inserted before period at end "and recommendations to improve the child protection services system at the State and local levels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems and the citizen review panel that describes whether or how the State will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system".
+Subsec. (c)(6). Pub. L. 108–36, §114(c)(2), substituted "State and the public" for "public" and inserted before period at end "and recommendations to improve the child protection services system at the State and local levels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems and the citizen review panel that describes whether or how theState will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system".
 
 Subsec. (d)(13), (14). Pub. L. 108–36, §114(d), added pars. (13) and (14).
 

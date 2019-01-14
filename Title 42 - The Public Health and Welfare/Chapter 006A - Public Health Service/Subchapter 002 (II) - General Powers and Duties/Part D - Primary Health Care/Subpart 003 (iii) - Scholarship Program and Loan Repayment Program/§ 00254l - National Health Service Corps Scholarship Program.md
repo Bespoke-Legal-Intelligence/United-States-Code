@@ -36,7 +36,7 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (ii) During the period in which a health professional is planning and making the transition to private practice from obligated service under the Scholarship Program, the Secretary may provide assistance to the professional regarding such transition if the professional is remaining in a health professional shortage area and is continuing to provide primary health services.
 
-(C) In the case of entities to which participants in the Scholarship Program are assigned under section 254f of this title, the Secretary shall encourage the entities to provide options with respect to assisting the participants in remaining in the health professional shortage areas involved, and in continuing to provide primary health services, after the period of obligated service under the Scholarship Program is completed. The options with respect to which the Secretary provides such encouragement may include options regarding the sharing of a single employment position in the health professions by 2 or more health professionals, and options regarding the recruitment of couples where both of the individuals are health professionals.
+(C) In the case of entities to which participants in the Scholarship Program are assigned under section 254f of this title, the Secretary shall encourage the entities to provide options with respect to assisting the participants in remaining in the health professional shortage areas involved, and in continuing to provide primary health services, after the period of obligated service under the Scholarship Program is completed. The options with respect to whichthe Secretary provides such encouragement may include options regarding the sharing of a single employment position in the health professions by 2 or more health professionals, and options regarding the recruitment of couples where both of the individuals are health professionals.
 
 #### (d) Factors considered in providing contracts; priorities
 
@@ -50,7 +50,7 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (2) In providing contracts under the Scholarship Program, the Secretary shall give priority—
 
-&emsp;(A) first, to any application for such a contract submitted by an individual who has previously received a scholarship under this section or under section 294z <sup>1</sup> of this title;
+&emsp;(A) first, to any application for such a contract submitted by an individual who has previously received a scholarship under this section or under section 294z <sup>2</sup> of this title;
 
 &emsp;(B) second, to any application for such a contract submitted by an individual who has characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) is completed; and
 
@@ -68,7 +68,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;(1) an agreement that—
 
-&emsp;&emsp;(A) subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g)) in each such school year or years for a period of years (not to exceed four school years) determined by the individual, during which periodthe individual is pursuing a course of study described in subsection (b)(1)(B), and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
+&emsp;&emsp;(A) subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g)) in each such school year or years for a period of years (not to exceed four school years) determined by the individual, during which period the individual is pursuing a course of study described in subsection (b)(1)(B), and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
 
 &emsp;&emsp;(B) subject to paragraph (2), the individual agrees—
 
@@ -120,7 +120,7 @@ Notwithstanding any other provision of law, individuals who have entered into wr
 
 Section 294z of this title, referred to in subsec. (d)(2)(A), was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994.
 
-Section 292k of this title, referred to in subsec. (g)(1)(A), was in the original a reference to section 711 of act July 1, 1944. Section 711 of that Act was renumbered as section 710 by Pub. L. 97–35, title XXVII, §2720(b), Aug. 13, 1981, 95 Stat. 915, and subsequentlyomitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 710 of act July 1, 1944, relating to insurance accounts, a new section 711, relating to powers and responsibilities of the Secretary, and a new section 712, relating to participation by Federal credit unions, which are classified to sections 292i, 292j, and 292k, respectively, of this title.
+Section 292k of this title, referred to in subsec. (g)(1)(A), was in the original a reference to section 711 of act July 1, 1944. Section 711 of that Act was renumbered as section 710 by Pub. L. 97–35, title XXVII, §2720(b), Aug. 13, 1981, 95 Stat. 915, and subsequently omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 710 of act July 1, 1944, relating to insurance accounts, a new section 711, relating to powers and responsibilities of the Secretary, and a new section 712, relating to participation by Federal credit unions, which are classified to sections 292i, 292j, and 292k, respectively, of this title.
 
 The General Schedule, referred to in subsec. (g)(3), is set out under section 5332 of Title 5, Government Organization and Employees.
 

@@ -34,7 +34,7 @@ In the course of the study, the Secretary shall consult with the Secretary of En
 
 #### (e) Report to President and Congress; annual report to Congress
 
-The Secretary shall submit the study and his findings to the President and the Congress no later than eight years after December 2, 1980. The Secretary shall submit annual reports to Congress on the progress in carrying out this subchapter.
+The Secretary shall submit the study and his findings to the President and the Congress no later than eight years after December 2, 1980. The Secretary shall submit annual reports toCongress on the progress in carrying out this subchapter.
 
 #### (f) Selection and conveyance of land by State and Natives unaffected
 

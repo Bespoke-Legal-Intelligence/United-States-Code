@@ -12,5 +12,5 @@
 
 \[Section 1129 (enacted as section 1128)\] Subsection (a) requires that there be a hearing in every case on the confirmation of the plan. Notice is required.
 
-Subsection (b) permits any party in interest to object to the confirmation of the plan. The Securities and Exchange Commission and indenture trustees, as parties in interest under section 1109, may object to confirmation of the plan.
+Subsection (b) permits any party in interest to object to the confirmation of the plan. The Securities and Exchange Commission and indenture trustees, as partiesin interest under section 1109, may object to confirmation of the plan.
 

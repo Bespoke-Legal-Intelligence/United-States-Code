@@ -18,7 +18,7 @@ Subject to subsections (g), (i), and (j), the State plan shall provide that in t
 
 &emsp;&emsp;(E) services furnished to an individual who is receiving hospice care (as defined in section 1396d(o) of this title); and
 
-&emsp;(3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of "nominal" under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria asthe Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to the satisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
+&emsp;(3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of "nominal" under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to the satisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
 
 #### (b) Imposition of certain charges under plan in case of individuals other than those described in section 1396a(a)(10)(A) or (E)
 
@@ -52,7 +52,7 @@ The State plan shall provide that in the case of individuals other than those de
 
 #### (d) Premiums for qualified disabled and working individuals described in section 1396d(s)
 
-With respect to a qualified disabled and working individual described in section 1396d(s) of this title whose income (as determined under paragraph (3) of that section) exceeds 150 percent of the official poverty line referred to in that paragraph, the State plan of a State mayprovide for the charging of a premium (expressed as a percentage of the medicare cost-sharing described in section 1396d(p)(3)(A)(i) of this title provided with respect to the individual) according to a sliding scale under which such percentage increases from 0 percent to 100 percent, in reasonable increments (as determined by the Secretary), as the individual's income increases from 150 percent of such poverty line to 200 percent of such poverty line.
+With respect to a qualified disabled and working individual described in section 1396d(s) of this title whose income (as determined under paragraph (3) of that section) exceeds 150 percent of the official poverty line referred to in that paragraph, the State plan of a State may provide for the charging of a premium (expressed as a percentage of the medicare cost-sharing described in section 1396d(p)(3)(A)(i) of this title provided with respect to the individual) according to a sliding scale under which such percentage increases from 0 percent to 100 percent, in reasonable increments (as determined by the Secretary), as the individual's income increases from 150 percent of such poverty line to 200 percent of such poverty line.
 
 #### (e) Prohibition of denial of services on basis of individual's inability to pay certain charges
 
@@ -60,7 +60,7 @@ The State plan shall require that no provider participating under the State plan
 
 #### (f) Charges imposed under waiver authority of Secretary
 
-No deduction, cost sharing, or similar charge may be imposed under any waiver authority of the Secretary, except as provided in subsections (a)(3) and (b)(3) and section 1396o–1 of this title, unless such waiver is for a demonstration project which the Secretary finds after public notice and opportunity for comment—
+No deduction, cost sharing, or similar charge may be imposed under any waiver authority of the Secretary, except as provided in subsections (a)(3) and (b)(3) and section 1396o–1 of this title,unless such waiver is for a demonstration project which the Secretary finds after public notice and opportunity for comment—
 
 &emsp;(1) will test a unique and previously untested use of copayments,
 
@@ -116,7 +116,7 @@ In applying this section and subsections (c) and (e) of section 1396o–1 of thi
 
 #### (B) No reduction in amount of payment to Indian health providers
 
-&emsp;&emsp;Payment due under this subchapter to the Indian Health Service, an Indian Tribe, Tribal Organization, or Urban Indian Organization, or a health care provider through referral under contract health services for the furnishing of an item or service to an Indian who is eligible for assistance under such subchapter, may not be reduced by the amount of any enrollment fee, premium, or similar charge, or any deduction, copayment, cost sharing, or similar charge that would be due from the Indian but for the operation of subparagraph (A).
+&emsp;&emsp;Payment due under this subchapter to the Indian Health Service, an Indian Tribe, Tribal Organization, or Urban Indian Organization, or a health care provider through referral under contract health services for the furnishing of an item or service to an Indian who is eligible for assistance under such subchapter, may not be reduced by the amount of any enrollment fee, premium, or similarcharge, or any deduction, copayment, cost sharing, or similar charge that would be due from the Indian but for the operation of subparagraph (A).
 
 #### (2) Rule of construction
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contract
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after July 1, 1990, without regard to whether or not final regulations have been promulgated by such date, see section 6408(d)(5) of Pub. L. 101–239, set out as a note under section 1396a of this title.
+Amendment by Pub. L. 101–239 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after July 1, 1990,without regard to whether or not final regulations have been promulgated by such date, see section 6408(d)(5) of Pub. L. 101–239, set out as a note under section 1396a of this title.
 
 #### Effective Date of 1988 Amendment
 

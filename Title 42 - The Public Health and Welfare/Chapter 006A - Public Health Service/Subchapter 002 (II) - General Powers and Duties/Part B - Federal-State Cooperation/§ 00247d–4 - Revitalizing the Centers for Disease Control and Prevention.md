@@ -56,7 +56,7 @@
 
 #### (2) Strategy and implementation plan
 
-&emsp;Not later than 180 days after March 13, 2013, the Secretary shall submit to the appropriate committees of Congress a coordinated strategy and an accompanying implementationplan that identifies and demonstrates the measurable steps the Secretary will carry out to—
+&emsp;Not later than 180 days after March 13, 2013, the Secretary shall submit to the appropriate committees of Congress a coordinated strategy and an accompanying implementation plan that identifies and demonstrates the measurable steps the Secretary will carry out to—
 
 &emsp;&emsp;(A) develop, implement, and evaluate the network described in paragraph (1), utilizing the elements described in paragraph (3);
 
@@ -108,7 +108,7 @@
 
 #### (1) In general
 
-&emsp;To implement the network described in subsection (c), the Secretary may award grants to States or consortia of States to enhance the ability of such States or consortia of States to establish or operate a coordinated public health situational awareness system for regional or Statewide early detection of, rapid response to, and management of potentially catastrophic infectious disease outbreaks and public health emergencies, in collaboration with appropriate public health agencies, sentinel hospitals, clinical laboratories, pharmacies, poison control centers, other health care organizations, and animal health organizations within such States.
+&emsp;To implement the network described in subsection (c), the Secretary may award grants to States or consortia of States to enhance the ability of such States or consortia of States to establish or operate a coordinated public health situational awareness system for regional or Statewide early detection of, rapid response to, and management of potentially catastrophic infectious disease outbreaks andpublic health emergencies, in collaboration with appropriate public health agencies, sentinel hospitals, clinical laboratories, pharmacies, poison control centers, other health care organizations, and animal health organizations within such States.
 
 #### (2) Eligibility
 
@@ -180,7 +180,7 @@ There are authorized to be appropriated to carry out this section, $138,300,000 
 
 For purposes of this section the term "biosurveillance" means the process of gathering near real-time biological data that relates to human and zoonotic disease activity and threats to human or animal health, in order to achieve early warning and identification of such health threats, early detection and prompt ongoing tracking of health events, and overall situational awareness of disease activity.
 
-(July 1, 1944, ch. 373, title III, §319D, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114Stat. 2318; amended Pub. L. 107–188, title I, §103, June 12, 2002, 116 Stat. 603; Pub. L. 109–417, title II, §§202, 204(b)(2), Dec. 19, 2006, 120 Stat. 2845, 2851; Pub. L. 113–5, title II, §204(a), Mar. 13, 2013, 127 Stat. 177.)
+(July 1, 1944, ch. 373, title III, §319D, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2318; amended Pub. L. 107–188, title I, §103, June 12, 2002, 116 Stat. 603; Pub. L. 109–417, title II, §§202, 204(b)(2), Dec. 19, 2006, 120 Stat. 2845, 2851; Pub. L. 113–5, title II, §204(a), Mar. 13, 2013, 127 Stat. 177.)
 
 #### Amendments
 

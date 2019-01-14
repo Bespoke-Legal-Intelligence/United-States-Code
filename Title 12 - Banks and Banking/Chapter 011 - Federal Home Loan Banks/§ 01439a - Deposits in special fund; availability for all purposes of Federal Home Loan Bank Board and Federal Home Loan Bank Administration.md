@@ -2,7 +2,7 @@
 
 All moneys and funds heretofore deposited in the Treasury of the United States under the last sentence of section 1439 <sup>1</sup> of this title (including unexpended balances of moneys appropriated therefrom for administrative expenses), and hereafter all moneys and funds which would, except for this provision, be so depositable thereunder, shall be deposited with the Treasurer of the United States in a special deposit account and shall be available, retroactively as well as prospectively, for expenditure for all purposes of the Federal Home Loan Bank Board and the Federal Home Loan Bank Administration, subject to subsections (a) and (b) of section 712a of title 15.
 
-(June 26, 1943, ch. 145, title I, §101, 57 Stat. 186; 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R.4981, 61 Stat. 954; Aug. 11, 1955, ch. 783, title I, §109(a)(3), 69 Stat. 640.)
+(June 26, 1943, ch. 145, title I, §101, 57 Stat. 186; 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954; Aug. 11, 1955, ch. 783, title I, §109(a)(3), 69 Stat. 640.)
 
 #### References in Text
 

@@ -36,7 +36,7 @@ In general.—It is an affirmative defense to a prosecution for a violation of s
 
 &emsp;&emsp;(C) lawfully operated in government-regulated or licensed activity, including commerce, research, or exploration; or
 
-&emsp;&emsp;(D) equipped with and using an operable automatic identification system, vesselmonitoring system, or long range identification and tracking system.
+&emsp;&emsp;(D) equipped with and using an operable automatic identification system, vessel monitoring system, or long range identification and tracking system.
 
 &emsp;(2)
 

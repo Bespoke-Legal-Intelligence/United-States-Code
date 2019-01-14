@@ -10,7 +10,7 @@ Deduction Upon Failure of Carrier To Settle.—In the case of a loss or damage o
 
 (c)
 
-Inapplicability of Related Limits.—The limitations on amounts of claims that may besettled under section 3721(b) of title 31 do not apply to a carrier's contractual obligation to pay full replacement value under this section.
+Inapplicability of Related Limits.—The limitations on amounts of claims that may be settled under section 3721(b) of title 31 do not apply to a carrier's contractual obligation to pay full replacement value under this section.
 
 (d)
 

@@ -164,7 +164,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 60 days after the date on which the Executive Director must make aspecific entry for the project on the Dashboard under subsection (b)(2)(A), the facilitating or lead agency, as applicable, in consultation with each coordinating and participating agency, shall establish a concise plan for coordinating public and agency participation in, and completion of, any required Federal environmental review and authorization for the project.
+&emsp;&emsp;Not later than 60 days after the date on which the Executive Director must make a specific entry for the project on the Dashboard under subsection (b)(2)(A), the facilitating or lead agency, as applicable, in consultation with each coordinating and participating agency, shall establish a concise plan for coordinating public and agency participation in, and completion of, any required Federal environmental review and authorization for the project.
 
 #### (B) Required information
 

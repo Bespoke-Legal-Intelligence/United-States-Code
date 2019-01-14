@@ -52,7 +52,7 @@
 
 &emsp;(3) a reduction in force, removal, or an adverse action involving discharge from technician employment, suspension, furlough without pay, or reduction in rank or compensation shall be accomplished by the adjutant general of the jurisdiction concerned;
 
-&emsp;(4) a right of appeal which may exist with respect to paragraph (1), (2), or (3) shall not extend beyond the adjutant general of the jurisdiction concerned when the appeal concerns activity occurring while the member is in a military pay status, or concerns fitness for duty in the reserve components;
+&emsp;(4) a right of appeal which may exist with respect to paragraph (1), (2), or (3) shall not extend beyond the adjutant general of the jurisdiction concerned when the appeal concernsactivity occurring while the member is in a military pay status, or concerns fitness for duty in the reserve components;
 
 &emsp;(5) with respect to an appeal concerning any activity not covered by paragraph (4), the provisions of sections 7511, 7512, and 7513 of title 5, and section 717 of the Civil Rights Act of 1991 <sup>1</sup> (42 U.S.C. 2000e–16) shall apply; and
 
@@ -124,7 +124,7 @@ June 3, 1916, ch. 134, §90; restated June 4, 1920, ch. 227, subch. I, §46; res
 
 June 25, 1938, ch. 688, 52 Stat. 1173.
 
-In subsection (a), the words "may be spent" are substituted for the words "shall be available". The reference to animals for military purposes and forage, bedding, and other supplies and services for them, is omitted as obsolete, since animals are not now authorized for the National Guard. The word "persons" is substituted for the word "help". The words "Army National Guard" and "Air National Guard" are substituted for the words "organizations of all kinds". The words "the support of" are omitted as surplusage. The words "A caretaker employed under this subsection" are substituted for the words "Moneys hereafter appropriated under the provisions of this title for compensation of help for care of material, animals, armament,and equipment, in the hands of the National Guard of the several States, Territories, and the District of Columbia shall be available for the hire of caretakers". The words "and other duties that do not interfere with the performance of his duties as caretaker" are substituted for 32:42a (1st proviso). 32:42a (2d and 3d provisos) is omitted as executed.
+In subsection (a), the words "may be spent" are substituted for the words "shall be available". The reference to animals for military purposes and forage, bedding, and other supplies and services for them, is omitted as obsolete, since animals are not now authorized for the National Guard. The word "persons" is substituted for the word "help". The words "Army National Guard" and "Air National Guard" are substituted for the words "organizations of all kinds". The words "the support of" are omitted as surplusage. The words "A caretaker employed under this subsection" are substituted for the words "Moneys hereafter appropriated under the provisions of this title for compensation of help for care of material, animals, armament, and equipment, in the hands of the National Guard of the several States, Territories, and the District of Columbia shall be available for the hire of caretakers". The words "and other duties that do not interfere with the performance of his duties as caretaker" are substituted for 32:42a (1st proviso). 32:42a (2d and 3d provisos) is omitted as executed.
 
 In subsection (b), the words "However, if a unit has more than one caretaker" are substituted for the words "but if there are as many as two caretakers in any unit". The words "under this section", in the first sentence of the revised subsection, are inserted for clarity. The words "under this section", in the second sentence of the revised subsection, are substituted for the words "paid to caretakers who belong to the National Guard, as herein authorized". The words "under any of the provisions of this title" are omitted as surplusage.
 
@@ -188,7 +188,7 @@ Subsec. (b). Pub. L. 90–486 substituted provisions requiring, except as prescr
 
 Subsec. (c). Pub. L. 90–486 substituted provisions authorizing the Secretary concerned to designate adjutants general to employ and administer the technicians authorized by this section for provisions authorizing the Secretary concerned to place in a common pool for care, maintenance, and storage the material, armament, and equipment of the Army National Guard or Air National Guard, with proviso that not more than 15 caretakers be employed for each pool.
 
-Subsec. (d). Pub. L. 90–486 substituted provisions that a technician employed under subsec. (a) is an employee of the particular department concerned, and an employee of the United States, with proviso that a position authorized by this section is outside competitiveservice if technician so employed is required under subsec. (b) to be a member of the National Guard, for provisions that one commissioned officer of the National Guard in a grade below major may be employed for each pool set up and for each squadron of the Air National Guard.
+Subsec. (d). Pub. L. 90–486 substituted provisions that a technician employed under subsec. (a) is an employee of the particular department concerned, and an employee of the United States, with proviso that a position authorized by this section is outside competitive service if technician so employed is required under subsec. (b) to be a member of the National Guard, for provisions that one commissioned officer of the National Guard in a grade below major may be employed for each pool set up and for each squadron of the Air National Guard.
 
 Subsec. (e). Pub. L. 90–486 substituted provisions authorizing the adjutant general of the jurisdiction concerned to separate from technicians employment any technician for the specified grounds, provisions requiring the technician concerned to be notified in writing of the termination of his employment at least 30 days prior to the termination date of such employment, and provisions granting a limited right of appeal from such termination, for provisions appropriating funds by Congress for the National Guard as additional to funds appropriated by the several states and territories, etc., and provisions making such funds available for the hire of caretakers and clerks.
 
@@ -246,7 +246,7 @@ Covered Individuals.—Subsection (a) applies in the case of an individual who�
 
 "(c)
 
-Regulations.—The Office of Personnel Management shall prescribe regulations to carry out subsection (a). Such regulations shall be prescribed notlater than 60 days after the date of the enactment of this Act \[Nov. 14, 1986\]."
+Regulations.—The Office of Personnel Management shall prescribe regulations to carry out subsection (a). Such regulations shall be prescribed not later than 60 days after the date of the enactment of this Act \[Nov. 14, 1986\]."
 
 #### Savings Provision for Accrued Claims; Conversion to Federal Employee Status; Credit for Past Service; Leave Credit
 
@@ -264,7 +264,7 @@ Pub. L. 90–486, §3, Aug. 13, 1968, 82 Stat. 756, as amended by Pub. L. 101–
 
 \["(1)
 
-General rule.—Except as provided in paragraph (2), the amendment made by section 2 \[amending section 3 of Pub. L. 90–486, set out above\] applies only with respect to an individual performing service as an officer or employee of the Government on or after the date of enactment of this Act \[Nov. 6, 1990\] and only to determine—
+General rule.—Except as provided in paragraph (2), the amendment made by section 2 \[amendingsection 3 of Pub. L. 90–486, set out above\] applies only with respect to an individual performing service as an officer or employee of the Government on or after the date of enactment of this Act \[Nov. 6, 1990\] and only to determine—
 
 &emsp;\["(A) any annual leave accruing under section 6303 of title 5, United States Code, to the individual on or after such date; and
 

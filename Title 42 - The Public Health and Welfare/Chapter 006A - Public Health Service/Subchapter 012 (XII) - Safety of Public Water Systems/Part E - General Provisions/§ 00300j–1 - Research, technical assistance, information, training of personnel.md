@@ -4,7 +4,7 @@
 
 (1) The Administrator may conduct research, studies, and demonstrations relating to the causes, diagnosis, treatment, control, and prevention of physical and mental diseases and other impairments of man resulting directly or indirectly from contaminants in water, or to the provision of a dependably safe supply of drinking water, including—
 
-&emsp;(A) improved methods (i) to identify and measure the existence of contaminants in drinking water (including methods which maybe used by State and local health and water officials), and (ii) to identify the source of such contaminants;
+&emsp;(A) improved methods (i) to identify and measure the existence of contaminants in drinking water (including methods which may be used by State and local health and water officials), and (ii) to identify the source of such contaminants;
 
 &emsp;(B) improved methods to identify and measure the health effects of contaminants in drinking water;
 
@@ -56,7 +56,7 @@ The Administrator shall—
 
 &emsp;(1) provide training for, and make grants for training (including postgraduate training) of (A) personnel of State agencies which have primary enforcement responsibility and of agencies or units of local government to which enforcement responsibilities have been delegated by the State, and (B) personnel who manage or operate public water systems, and
 
-&emsp;(2) make grants for postgraduate training of individuals (including grants to educational institutions for traineeships) for purposes of qualifying such individuals to work as personnel referred to in paragraph (1).
+&emsp;(2) make grants for postgraduate training of individuals (including grants to educationalinstitutions for traineeships) for purposes of qualifying such individuals to work as personnel referred to in paragraph (1).
 
 &emsp;(3) make grants to, and enter into contracts with, any public agency, educational institution, and any other organization, in accordance with procedures prescribed by the Administrator, under which he may pay all or part of the costs (as may be determined by the Administrator) of any project or activity which is designed—
 

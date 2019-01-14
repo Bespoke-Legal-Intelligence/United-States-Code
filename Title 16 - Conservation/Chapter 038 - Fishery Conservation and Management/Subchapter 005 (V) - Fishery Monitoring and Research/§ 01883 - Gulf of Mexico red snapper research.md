@@ -42,7 +42,7 @@ Any fishery management plan, plan amendment, or regulation submitted by the Gulf
 
 &emsp;(2) ensure that such quotas reflect allocations among such sectors and do not reflect any harvests in excess of such allocations.
 
-(Pub. L. 94–265, title IV, §407, as added Pub. L. 104–297, title II, §207(b), Oct. 11, 1996, 110 Stat.3612; amended Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(a)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238; Pub. L. 109–479, §3(d)(1)(B), Jan. 12, 2007, 120 Stat. 3578.)
+(Pub. L. 94–265, title IV, §407, as added Pub. L. 104–297, title II, §207(b), Oct. 11, 1996, 110 Stat. 3612; amended Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(a)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238; Pub. L. 109–479, §3(d)(1)(B), Jan. 12, 2007, 120 Stat. 3578.)
 
 #### References in Text
 

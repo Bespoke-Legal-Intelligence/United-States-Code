@@ -1,6 +1,6 @@
 ### §1321. Eligibility requirements for transfer of funds; reimbursement by State; application; certification; limitation
 
-(a)(1) Advances shall be made to the States from the Federal unemployment account in the Unemployment Trust Fund as provided in this section, and shall be repayable, with interest to the extent provided in section 1322(b) of this title, in the manner provided in sections 1101(d)(1), 1103(b)(2), and 1322 of this title. An advance to a State for the payment of compensation in any 3-month period may be made if—
+(a)(1) Advances shall be made to the States from the Federal unemployment account in theUnemployment Trust Fund as provided in this section, and shall be repayable, with interest to the extent provided in section 1322(b) of this title, in the manner provided in sections 1101(d)(1), 1103(b)(2), and 1322 of this title. An advance to a State for the payment of compensation in any 3-month period may be made if—
 
 &emsp;(A) the Governor of the State applies therefor no earlier than the first day of the month preceding the first month of such 3-month period, and
 
@@ -42,7 +42,7 @@ Subsec. (b). Pub. L. 94–566, §213(c), provided that the transfer of amounts b
 
 Subsec. (b). Pub. L. 86–778 amended subsec. (b) generally, striking out provision for repayment of advances which is now incorporated in subsec. (a)(1) in the reference to repayment under sections 1101(d)(1) and 1322 of this title.
 
-<b>1954</b>—Act Aug. 5, 1954, amended section generally to provide that: (1) the first condition of eligibility for an advance is that the balance in the State unemployment fund at the close of a calendar quarter be less than the total of cash payments made by the State to individuals during the 12-month period which ends with such quarter; (2) the Governor of the State must apply for an advance during the quarter following the quarter specified in paragraph (1) of this section; and (3) the total amount certified for any one application may not exceed the amount paid out by the State for cash benefits in that particular quarter.
+<b>1954</b>—Act Aug. 5, 1954, amended section generally to provide that: (1) the first condition of eligibility for an advance is that the balance in the State unemployment fund at the close of a calendar quarter be less than the total of cash payments made by the State to individuals during the 12-month period which ends with such quarter; (2) the Governor of the State must apply for anadvance during the quarter following the quarter specified in paragraph (1) of this section; and (3) the total amount certified for any one application may not exceed the amount paid out by the State for cash benefits in that particular quarter.
 
 <b>1950</b>—Subsec. (a). Act Aug. 28, 1950, substituted "January 1, 1952" for "January 1, 1950".
 
@@ -76,5 +76,5 @@ Pub. L. 86–778, title V, §522(b), Sept. 13, 1960, 74 Stat. 979, provided that
 
 #### Advances to Alaska
 
-Act June 1, 1955, ch. 118, 69 Stat. 81, authorized the Governor of Alaska to obtain from the Federal Unemployment Fund such advances as the Territory of Alaska might qualify for and as might be necessary to obtain for the payment of unemployment compensation benefits to claimants entitled thereto under the Alaskaemployment security law and provided for the reimbursement of the general fund of the Territory of Alaska from which advances have been made for the payment of unemployment compensation benefits from advances made through the Governor of Alaska from the Federal Unemployment Fund.
+Act June 1, 1955, ch. 118, 69 Stat. 81, authorized the Governor of Alaska to obtain from the Federal Unemployment Fund such advances as the Territory of Alaska might qualify for and as might be necessary to obtain for the payment of unemployment compensation benefits to claimants entitled thereto under the Alaska employment security law and provided for the reimbursement of the general fund of the Territory of Alaska from which advances have been made for the payment of unemployment compensation benefits from advances made through the Governor of Alaska from the Federal Unemployment Fund.
 

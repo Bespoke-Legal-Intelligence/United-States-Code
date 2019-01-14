@@ -12,7 +12,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (b) Current year business credit
 
-For purposes of this subpart, the amount of the current year business credit is the sum ofthe following credits determined for the taxable year:
+For purposes of this subpart, the amount of the current year business credit is the sum of the following credits determined for the taxable year:
 
 &emsp;(1) the investment credit determined under section 46,
 
@@ -60,33 +60,23 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 &emsp;(23) the new energy efficient home credit determined under section 45L(a),
 
-&emsp;(24) the energy efficient appliance credit determined under section 45M(a),
+&emsp;(24) the portion of the alternative motor vehicle credit to which section 30B(g)(1) applies,
 
-&emsp;(25) the portion of the alternative motor vehicle credit to which section 30B(g)(1) applies,
+&emsp;(25) the portion of the alternative fuel vehicle refueling property credit to which section 30C(d)(1) applies,
 
-&emsp;(26) the portion of the alternative fuel vehicle refueling property credit to which section 30C(d)(1) applies,
+&emsp;(26) the mine rescue team training credit determined under section 45N(a),
 
-&emsp;(27) the Hurricane Katrina housing credit determined under section 1400P(b),
+&emsp;(27) in the case of an eligible agricultural business (as defined in section 45O(e)), the agricultural chemicals security credit determined under section 45O(a),
 
-&emsp;(28) the Hurricane Katrina employee retention credit determined under section 1400R(a),
+&emsp;(28) the differential wage payment credit determined under section 45P(a),
 
-&emsp;(29) the Hurricane Rita employee retention credit determined under section 1400R(b),
+&emsp;(29) the carbon dioxide sequestration credit determined under section 45Q(a),
 
-&emsp;(30) the Hurricane Wilma employee retention credit determined under section 1400R(c),
+&emsp;(30) the portion of the new qualified plug-in electric drive motor vehicle credit to which section 30D(c)(1) applies,
 
-&emsp;(31) the mine rescue team training credit determined under section 45N(a),
+&emsp;(31) the small employer health insurance credit determined under section 45R, plus
 
-&emsp;(32) in the case of an eligible agricultural business (as defined in section 45O(e)), the agricultural chemicals security credit determined under section 45O(a),
-
-&emsp;(33) the differential wage payment credit determined under section 45P(a),
-
-&emsp;(34) the carbon dioxide sequestration credit determined under section 45Q(a) <sup>1</sup>
-
-&emsp;(35) the portion of the new qualified plug-in electric drive motor vehicle credit to which section 30D(c)(1) applies,
-
-&emsp;(36) the small employer health insurance credit determined under section 45R, plus
-
-&emsp;(37) in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a).
+&emsp;(32) in the case of an eligible employer (as defined in section 45S(c)), the paid family andmedical leave credit determined under section 45S(a).
 
 #### (c) Limitation based on amount of tax
 
@@ -112,29 +102,13 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 &emsp;&emsp;&emsp;&emsp;(I) 75 percent of the tentative minimum tax shall be substituted for the tentative minimum tax under subparagraph (A) thereof, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the empowerment zone employment credit, the New York Liberty Zone business employee credit, the eligible small business credits, and the specified credits).
+&emsp;&emsp;&emsp;&emsp;(II) the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the empowerment zone employment credit and the specified credits).
 
 #### (B) Empowerment zone employment credit
 
 &emsp;&emsp;For purposes of this paragraph, the term "empowerment zone employment credit" means the portion of the credit under subsection (a) which is attributable to the credit determined under section 1396 (relating to empowerment zone employment credit).
 
-#### (3) Special rules for New York Liberty Zone business employee credit
-
-#### (A) In general
-
-&emsp;&emsp;In the case of the New York Liberty Zone business employee credit—
-
-&emsp;&emsp;&emsp;(i) this section and section 39 shall be applied separately with respect to such credit, and
-
-&emsp;&emsp;&emsp;(ii) in applying paragraph (1) to such credit—
-
-&emsp;&emsp;&emsp;&emsp;(I) the tentative minimum tax shall be treated as being zero, and
-
-&emsp;&emsp;&emsp;&emsp;(II) the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the New York Liberty Zone business employee credit, the eligible small business credits, and the specified credits).
-
-#### (B) New York Liberty Zone business employee credit
-
-&emsp;&emsp;For purposes of this subsection, the term "New York Liberty Zone business employee credit" means the portion of work opportunity credit under section 51 determined under section 1400L(a).
+#### \[(3) Repealed. Pub. L. 115–141, div. U, title IV, §401(d)(6)(B)(iii), Mar. 23, 2018, 132 Stat. 1211\]
 
 #### (4) Special rules for specified credits
 
@@ -148,7 +122,7 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 &emsp;&emsp;&emsp;&emsp;(I) the tentative minimum tax shall be treated as being zero, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the eligible small business credits and the specified credits).
+&emsp;&emsp;&emsp;&emsp;(II) the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the specified credits).
 
 #### (B) Specified credits
 
@@ -156,7 +130,7 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 &emsp;&emsp;&emsp;(i) for taxable years beginning after December 31, 2004, the credit determined under section 40,
 
-&emsp;&emsp;&emsp;(ii) the credit determined under section 41 for the taxable year with respect to an eligible small business (as defined in paragraph (5)(C), after application of rules similar to the rules of paragraph (5)(D)),
+&emsp;&emsp;&emsp;(ii) the credit determined under section 41 for the taxable year with respect to an eligible small business (as defined in paragraph (5)(A) after application of the rules of paragraph (5)(B)),
 
 &emsp;&emsp;&emsp;(iii) the credit determined under section 42 to the extent attributable to buildings placed in service after December 31, 2007,
 
@@ -182,25 +156,9 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 &emsp;&emsp;&emsp;(xii) the credit determined under section 51.
 
-#### (5) Special rules for eligible small business credits in 2010
+#### (5) Rules related to eligible small businesses
 
-#### (A) In general
-
-&emsp;&emsp;In the case of eligible small business credits determined in taxable years beginning in 2010—
-
-&emsp;&emsp;&emsp;(i) this section and section 39 shall be applied separately with respect to such credits, and
-
-&emsp;&emsp;&emsp;(ii) in applying paragraph (1) to such credits—
-
-&emsp;&emsp;&emsp;&emsp;(I) the tentative minimum tax shall be treated as being zero, and
-
-&emsp;&emsp;&emsp;&emsp;(II) the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the eligible small business credits).
-
-#### (B) Eligible small business credits
-
-&emsp;&emsp;For purposes of this subsection, the term "eligible small business credits" means the sum of the credits listed in subsection (b) which are determined for the taxable year with respect to an eligible small business. Such credits shall not be taken into account under paragraph (2), (3), or (4).
-
-#### (C) Eligible small business
+#### (A) Eligible small business
 
 &emsp;&emsp;For purposes of this subsection, the term "eligible small business" means, with respect to any taxable year—
 
@@ -212,9 +170,9 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 > &emsp;&emsp;if the average annual gross receipts of such corporation, partnership, or sole proprietorship for the 3-taxable-year period preceding such taxable year does not exceed $50,000,000. For purposes of applying the test under the preceding sentence, rules similar to the rules of paragraphs (2) and (3) of section 448(c) shall apply.
 
-#### (D) Treatment of partners and S corporation shareholders
+#### (B) Treatment of partners and S corporation shareholders
 
-&emsp;&emsp;Credits determined with respect to a partnership or S corporation shall not be treatedas eligible small business credits by any partner or shareholder unless such partner or shareholder meets the gross receipts test under subparagraph (C) for the taxable year in which such credits are treated as current year business credits.
+&emsp;&emsp;For purposes of paragraph (4)(B)(ii), any credit determined under section 41 with respect to a partnership or S corporation shall not be treated as a specified credit by any partner or shareholder unless such partner or shareholder meets the gross receipts test under subparagraph (A) for the taxable year in which such credit is treated as a current year business credit.
 
 #### (6) Special rules
 
@@ -250,7 +208,7 @@ For purposes of any provision of this title where it is necessary to ascertain t
 
 &emsp;The order in which the credits listed in section 46 are used shall be determined on the basis of the order in which such credits are listed in section 46 as of the close of the taxable year in which the credit is used.
 
-(Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–609; Pub. L. 107–16, title II, §205(b)(1), title VI, §619(b), June 7, 2001, 115 Stat. 53, 110; Pub. L. 107–147, title III, §301(b)(1), (2), title IV, §411(d)(2), Mar. 9, 2002, 116 Stat. 39, 46; Pub. L. 108–357, title II, §245(c)(1), title III, §§302(b), 339(b), 341(b), title VII, §711(a), (b), Oct. 22, 2004, 118 Stat. 1448, 1465, 1484, 1487, 1557, 1558; Pub. L. 109–58, title XIII, §§1306(b), 1322(a)(2), 1332(b), 1334(b), 1341(b)(1), 1342(b)(1), Aug. 8, 2005, 119 Stat. 999, 1011, 1026, 1033, 1049, 1051; Pub. L. 109–59, title XI, §§11126(b), 11151(d)(1), Aug. 10, 2005, 119 Stat. 1958, 1968; Pub. L. 109–135, title I, §103(b)(1), title II, §201(b)(1), title IV, §412(f), Dec. 21, 2005, 119 Stat. 2595, 2607, 2637; Pub. L. 109–432, div. A, title IV, §405(b), Dec. 20, 2006, 120 Stat. 2957; Pub. L. 110–28, title VIII, §8214(a), May 25, 2007, 121 Stat. 193; Pub. L. 110–172, §11(a)(6), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15343(b), May 22, 2008, 122 Stat. 1519; Pub. L. 110–245, title I, §111(b), June 17, 2008, 122 Stat. 1635; Pub. L. 110–246, §4(a), title XV, §15343(b), June 18, 2008, 122 Stat. 1664, 2281; Pub. L. 110–289, div. C, title I, §3022(b), (c), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. B, title I, §§103(b), 115(b), title II, §205(c), div. C, title III, §316(b), Oct. 3, 2008, 122 Stat. 3811, 3831, 3838, 3872; Pub. L. 111–5, div. B, title I, §1141(b)(2), Feb. 17, 2009, 123 Stat. 328; Pub. L. 111–148, title I, §1421(b), (c), Mar. 23, 2010, 124 Stat. 241, 242; Pub. L. 111–240, title II, §2013(a), (c), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 113–295, div. A, title II, §§209(f)(1), 220(b), 221(a)(2)(B), (6), Dec. 19, 2014, 128 Stat. 4028, 4035, 4037, 4038; Pub. L. 114–113, div. Q, title I, §§121(b), 186(d)(1), Dec. 18, 2015, 129 Stat. 3049, 3074; Pub. L. 115–97, title I, §§12001(b)(1), 13403(b), (c), Dec. 22, 2017, 131 Stat. 2092, 2137.)
+(Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–609; Pub. L. 107–16, title II, §205(b)(1), title VI, §619(b), June 7, 2001, 115 Stat. 53, 110; Pub. L. 107–147, title III, §301(b)(1), (2), title IV, §411(d)(2), Mar. 9, 2002, 116 Stat. 39, 46; Pub. L. 108–357, title II, §245(c)(1), title III, §§302(b), 339(b), 341(b), title VII, §711(a), (b), Oct. 22, 2004, 118 Stat. 1448, 1465, 1484, 1487, 1557, 1558; Pub. L. 109–58, title XIII, §§1306(b), 1322(a)(2), 1332(b), 1334(b), 1341(b)(1), 1342(b)(1), Aug. 8, 2005, 119 Stat. 999, 1011, 1026, 1033, 1049, 1051; Pub. L. 109–59, title XI, §§11126(b), 11151(d)(1), Aug. 10, 2005, 119 Stat. 1958, 1968; Pub. L. 109–135, title I, §103(b)(1), title II, §201(b)(1), title IV, §412(f), Dec. 21, 2005, 119 Stat. 2595, 2607, 2637; Pub. L. 109–432, div. A, title IV, §405(b), Dec. 20, 2006, 120 Stat. 2957; Pub. L. 110–28, title VIII, §8214(a), May 25, 2007, 121 Stat. 193; Pub. L. 110–172, §11(a)(6), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15343(b), May 22, 2008, 122 Stat. 1519; Pub. L. 110–245, title I, §111(b), June 17, 2008, 122 Stat. 1635; Pub. L. 110–246, §4(a), title XV, §15343(b), June 18, 2008, 122 Stat. 1664, 2281; Pub. L. 110–289, div. C, title I, §3022(b), (c), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. B, title I, §§103(b), 115(b), title II, §205(c), div. C, title III, §316(b), Oct. 3, 2008, 122 Stat. 3811, 3831, 3838, 3872; Pub. L. 111–5, div. B, title I, §1141(b)(2), Feb. 17, 2009, 123 Stat. 328; Pub. L. 111–148, title I, §1421(b), (c), Mar. 23, 2010, 124 Stat. 241, 242; Pub. L. 111–240, title II, §2013(a), (c), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 113–295, div. A, title II, §§209(f)(1), 220(b), 221(a)(2)(B), (6), Dec. 19, 2014, 128 Stat. 4028, 4035, 4037, 4038; Pub. L. 114–113, div. Q, title I, §§121(b), 186(d)(1), Dec. 18, 2015, 129 Stat. 3049, 3074; Pub. L. 115–97, title I, §§12001(b)(1), 13403(b), (c), Dec. 22, 2017, 131 Stat. 2092, 2137; Pub. L. 115–141, div. U, title IV, §401(a)(8), (b)(5)(A)–(D), (d)(2)(B), (6)(B)(i)–(iii), Mar. 23, 2018, 132 Stat. 1184, 1201, 1208, 1211.)
 
 #### References in Text
 
@@ -269,6 +227,36 @@ A prior section 38, added Pub. L. 87–834, §2(a), Oct. 16, 1962, 76 Stat. 962;
 Another prior section 38 was renumbered section 37 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(24), (25). Pub. L. 115–141, §401(d)(2)(B), redesignated pars. (25) and (26) as (24) and (25), respectively, and struck out former par. (24) which read as follows: "the energy efficient appliance credit determined under section 45M(a),".
+
+Subsec. (b)(26) to (29). Pub. L. 115–141, §401(d)(2)(B), (6)(B)(i), redesignated pars. (31) to (34) first as (30) to (33), and then as (26) to (29), respectively. Former par. (26) redesignated (25), and former pars. (27) to (29) redesignated (26) to (28), respectively, and then struck out.
+
+Pub. L. 115–141, §401(d)(2)(B), (6)(B)(i), redesignated pars. (27) to (30) as (26) to (29), respectively, and then struck them out. Prior to amendment, these four pars. set out credits for the Hurricane Katrina housing credit determined under section 1400P(b), the Hurricane Katrina employee retention credit determined under section 1400R(a), the Hurricane Rita employee retention credit determined under section 1400R(b), and the Hurricane Wilma employee retention credit determined under section 1400R(c).
+
+Subsec. (b)(30) to (32). Pub. L. 115–141, §401(d)(2)(B), (6)(B)(i), redesignated pars. (35) to (37) first as (34) to (36), and then as (30) to (32), respectively. Former par. (30) redesignated (29) and then struck out, and former pars. (31) and (32) first redesignated (30) and (31), then (26) and (27), respectively.
+
+Subsec. (b)(33) to (37). Pub. L. 115–141, §401(a)(8), (d)(2)(B), (6)(B)(i), inserted comma at end of par. (34) and subsequently redesignated pars. (33) to (37) first as (32) to (36), and then as (28) to (32), respectively.
+
+Subsec. (c)(2)(A)(ii)(II). Pub. L. 115–141, §401(d)(6)(B)(ii), struck out ", the New York Liberty Zone business employee credit," after "empowerment zone employment credit".
+
+Pub. L. 115–141, §401(b)(5)(B), struck out "the eligible small business credits," before "and the specified credits".
+
+Subsec. (c)(3). Pub. L. 115–141, §401(d)(6)(B)(iii), struck out par. (3) which related to special rules for New York Liberty Zone business employee credit.
+
+Subsec. (c)(4)(A)(ii)(II). Pub. L. 115–141, §401(b)(5)(C), struck out "the eligible small business credits and" before "the specified credits".
+
+Subsec. (c)(4)(B)(ii). Pub. L. 115–141, §401(b)(5)(D), substituted "(as defined in paragraph (5)(A) after application of the rules of paragraph (5)(B))" for "(as defined in paragraph (5)(C), after application of rules similar to the rules of paragraph (5)(D))".
+
+Subsec. (c)(5). Pub. L. 115–141, §401(b)(5)(A)(i), substituted "Rules related to eligible small businesses" for "Special rules for eligible small business credits in 2010" in heading.
+
+Subsec. (c)(5)(A). Pub. L. 115–141, §401(b)(5)(A)(i), (ii), redesignated subpar. (C) as (A) and struck out former subpar. (A) which related to eligible small business credits determined in taxable years beginning in 2010.
+
+Subsec. (c)(5)(B). Pub. L. 115–141, §401(b)(5)(A)(iii), amended subpar. (B) generally. Prior to amendment, text read as follows: "Credits determined with respect to a partnership or S corporation shall not be treated as eligible small business credits by any partner or shareholder unless such partner or shareholder meets the gross receipts test under subparagraph (C) for the taxable year in which such credits are treated as current year business credits."
+
+Pub. L. 115–141, §401(b)(5)(A)(i), (ii), redesignated subpar. (D) as (B) and struck out former subpar. (B) which defined "eligible small business credits".
+
+Subsec. (c)(5)(C), (D). Pub. L. 115–141, §401(b)(5)(A)(ii), redesignated subpars. (C) and (D) as (A) and (B), respectively.
 
 <b>2017</b>—Subsec. (b)(35) to (37). Pub. L. 115–97, §13403(b), struck out "plus" at end of par. (35), substituted ", plus" for period at end of par. (36), and added par. (37).
 
@@ -502,7 +490,7 @@ Pub. L. 114–113, div. Q, title I, §121(d), Dec. 18, 2015, 129 Stat. 3052, pro
 
 "(1)
 
-Extension.—The amendments made by subsection (a) \[amending sections 41 and 45C of this title\]shall apply to shall apply to \[sic\] amounts paid or incurred after December 31, 2014.
+Extension.—The amendments made by subsection (a) \[amending sections 41 and 45C of this title\] shall apply to shall apply to \[sic\] amounts paid or incurred after December 31, 2014.
 
 "(2)
 
@@ -582,7 +570,7 @@ Pub. L. 109–59, title XI, §11151(d)(2), Aug. 10, 2005, 119 Stat. 1968, provid
 
 Pub. L. 109–59, title XI, §11151(f)(3), Aug. 10, 2005, 119 Stat. 1969, provided that: "The amendments made by subsections (d)(1) and (e)(2) \[amending this section and sections 4041 and 6426 of this title\] shall take effect as if included in the provision of the Energy Tax Incentives Act of 2005 \[Pub. L. 109–58, title XIII\] to which they relate."
 
-Pub. L. 109–58, title XIII, §1306(d), Aug. 8, 2005, 119 Stat. 999, provided that: "The amendments made bythis section \[enacting section 45J of this title and amending this section\] shall apply to production in taxable years beginning after the date of the enactment of this Act \[Aug. 8, 2005\]."
+Pub. L. 109–58, title XIII, §1306(d), Aug. 8, 2005, 119 Stat. 999, provided that: "The amendments made by this section \[enacting section 45J of this title and amending this section\] shall apply to production in taxable years beginning after the date of the enactment of this Act \[Aug. 8, 2005\]."
 
 Amendment by section 1322(a)(2) of Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 for taxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
 
@@ -614,7 +602,7 @@ Amendment by section 411(d)(2) of Pub. L. 107–147 effective as if included in 
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–16, title II, §205(c), June 7, 2001, 115 Stat. 53, provided that: "The amendments made by this section \[enacting section 45F of this title and amending this section and section 1016 of this title\] shall apply to taxable years beginning after December 31, 2001."
+Pub. L. 107–16, title II, §205(c), June 7, 2001, 115 Stat. 53, provided that: "The amendments made by this section \[enacting section 45F of this title and amendingthis section and section 1016 of this title\] shall apply to taxable years beginning after December 31, 2001."
 
 Pub. L. 107–16, title VI, §619(d), June 7, 2001, 115 Stat. 110, as amended by Pub. L. 107–147, title IV, §411(n)(2), Mar. 9, 2002, 116 Stat. 48, provided that: "The amendments made by this section \[enacting section 45E of this title and amending this section and sections 39 and 196 of this title\] shall apply to costs paid or incurred in taxable years beginning after December 31, 2001, with respect to qualified employer plans first effective after such date."
 
@@ -692,9 +680,13 @@ Amendment by Pub. L. 98–369 applicable to interest paid or accrued after Decem
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 21 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, seesection 475(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 21 of this title.
 
 #### Savings Provision
+
+For provisions that amendment made by section 401(6)(B)(i)–(iii) of Pub. L. 115–141 not apply, in the case of certain repeals, to various types of wages, bonds, property, or other items before specific dates, see section 401(d)(6)(C) of Pub. L. 115–141, set out as a note under former section 1400L of this title.
+
+For provisions that nothing in amendment by section 401(b)(5)(A)–(D), (d)(2)(B), (6)(B)(i)–(iii) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 For provisions that nothing in amendment by section 11813(b)(2) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
@@ -712,7 +704,7 @@ In General.—In the case of any taxable year ending after the date of the enact
 
 "(b)
 
-Retained Worker.—For purposes of this section, the term 'retained worker' means any qualified individual (as defined in section 3111(d)(3) or section 3221(c)(3) of the Internal Revenue Code of 1986)—
+Retained Worker.—For purposes of this section, the term 'retained worker' means any qualified individual (as defined in \[former\] section 3111(d)(3) or \[former\] section 3221(c)(3) of the Internal Revenue Code of 1986)—
 
 &emsp;"(1) who was employed by the taxpayer on any date during the taxable year,
 
@@ -858,7 +850,7 @@ Amount.—For purposes of subsection (a), the amount determined under this subse
 
 "(c)
 
-Corporation Making Election May Not Use Same Amounts Under Section 38.—In the case of a qualified corporation which makes an election under subsection (a), the portion of such corporation's existing carryforwards to which such an election applies shall not be taken into account under section 38 of theInternal Revenue Code of 1986 for any taxable year beginning after December 31, 1986.
+Corporation Making Election May Not Use Same Amounts Under Section 38.—In the case of a qualified corporation which makes an election under subsection (a), the portion of such corporation's existing carryforwards to which such an election applies shall not be taken into account under section 38 of the Internal Revenue Code of 1986 for any taxable year beginning after December 31, 1986.
 
 "(d)
 
@@ -1059,6 +1051,4 @@ Pub. L. 88–272, title II, §203(e), Feb. 26, 1964, 78 Stat. 35, as amended by 
 > to reduce such taxpayer's Federal income taxes for the purpose of establishing the cost of service of the taxpayer or to accomplish a similar result by any other method."
 
 Section 203(e) of Pub. L. 88–272, not applicable to public utility property to which section 46(e) of this title applies, see section 105(e) of Pub. L. 92–178, set out as a note under section 46 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

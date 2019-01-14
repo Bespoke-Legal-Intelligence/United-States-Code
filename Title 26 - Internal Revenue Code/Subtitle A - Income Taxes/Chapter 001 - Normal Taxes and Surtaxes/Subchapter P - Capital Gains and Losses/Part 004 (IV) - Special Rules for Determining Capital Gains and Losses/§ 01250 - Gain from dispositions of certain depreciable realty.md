@@ -52,7 +52,7 @@ Except as otherwise provided in this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of section 1250 property with respect to which a mortgage is insured under section 221(d)(3) or 236 of the National Housing Act, or housing financed or assisted by direct loan or tax abatement under similar provisions of State or local laws, and with respect to which the owner is subject to the restrictions described in section 1039(b)(1)(B) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 20 full months;
 
-&emsp;&emsp;&emsp;(iii) in the case of residential rental property (as defined in section 167(j)(2)(B)) other than that covered by clauses (i) and\(ii), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 100 full months;
+&emsp;&emsp;&emsp;(iii) in the case of residential rental property (as defined in section 167(j)(2)(B)) other than that covered by clauses (i) and (ii), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 100 full months;
 
 &emsp;&emsp;&emsp;(iv) in the case of section 1250 property with respect to which a depreciation deduction for rehabilitation expenditures was allowed under section 167(k), 100 percent minus 1 percentage point for each full month in excess of 100 full months after the date on which such property was placed in service; and
 
@@ -132,7 +132,7 @@ For purposes of this section, the term "section 1250 property" means any real pr
 
 #### (3) Certain tax-free transactions
 
-&emsp;If the basis of property in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a) shall not exceed the amount of gain recognized to the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (9), this paragraph shall not apply to a disposition to an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
+&emsp;If the basis of property in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a) shall not exceed the amount of gain recognized to the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (6), this paragraph shall not apply to a disposition to an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
 
 #### (4) Like kind exchanges; involuntary conversions, etc.
 
@@ -180,9 +180,9 @@ For purposes of this section, the term "section 1250 property" means any real pr
 
 &emsp;&emsp;In respect of any property described in subparagraph (A), the additional depreciation attributable to periods before the distribution by the partnership shall be—
 
-&emsp;&emsp;&emsp;(i) the amount of the gain to which subsection (a) would have applied if such property had been sold by the partnership immediately before the distribution at itsfair market value at such time and the applicable percentage for the property had been 100 percent, reduced by
+&emsp;&emsp;&emsp;(i) the amount of the gain to which subsection (a) would have applied if such property had been sold by the partnership immediately before the distribution at its fair market value at such time and the applicable percentage for the property had been 100 percent, reduced by
 
-&emsp;&emsp;&emsp;(ii) if section 751(b) applied to any part of such gain, the amount of such gain to which section 751(b) would have applied if the applicable percentage for the property had been 100 percent.
+&emsp;&emsp;&emsp;(ii) if section 751(b) applied to any part of such gain, the amount of such gain towhich section 751(b) would have applied if the applicable percentage for the property had been 100 percent.
 
 #### (6) Transfers to tax-exempt organization where property will be used in unrelated business
 
@@ -278,7 +278,7 @@ The Secretary shall prescribe such regulations as he may deem necessary to provi
 
 This section shall apply notwithstanding any other provision of this subtitle.
 
-(Added Pub. L. 88–272, title II, §231(a), Feb. 26, 1964, 78 Stat. 100; amended Pub. L. 91–172, title V, §521(b), (c), (e), title VII, §704(b)(5), title IX, §910(b), Dec. 30, 1969, 83 Stat. 652, 653, 670, 720; Pub. L. 92–178, title III, §303(c)(3), Dec. 10, 1971, 85 Stat. 522; Pub. L. 93–625, §5(c), Jan. 3, 1975, 88 Stat. 2112; Pub. L. 94–81, §2(b), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §202(a)–(c)(1), (2), title XIX, §§1901(b)(3)(K), (31)(A), (B), (E), 1906(b)(13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(4), 2124(a)(3)(D), Oct. 4, 1976, 90 Stat. 1527, 1529, 1530, 1793, 1799, 1800, 1834, 1840, 1915, 1918; Pub. L. 95–600, title IV, §§404(c)(7), 405(c)(4), title VII, §701(f)(3)(C), (E), Nov. 6, 1978, 92 Stat. 2870, 2871, 2901; Pub. L. 96–222, title I, §107(a)(1)(D), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title II, §251(a)(2)(D), Apr. 2, 1980, 94 Stat. 287; Pub. L. 97–34, title II, §§204(e), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 223, 239; Pub. L. 97–448, title I, §102(a)(7), Jan. 12, 1983, 96 Stat. 2368; Pub. L. 98–369, div. A, title VII, §712(a)(1)(B), July 18, 1984, 98 Stat. 946; Pub. L. 99–514, title II, §242(b)(2), Oct. 22, 1986, 100 Stat. 2181; Pub. L. 100–647, title I, §1002(a)(1), Nov. 10, 1988, 102 Stat. 3352; Pub. L. 101–239, title VII, §7831(b), Dec. 19, 1989, 103 Stat. 2426; Pub. L. 101–508, title XI, §§11801(c)(6)(F), (8)(I), (15), 11812(b)(11), (12), Nov. 5, 1990, 104 Stat. 1388–524, 1388–527, 1388–536; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1702(h)(18), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title III, §312(d)(10), Aug. 5, 1997, 111 Stat. 840; Pub. L. 105–206, title VI, §6023(12), July 22, 1998, 112 Stat. 825; Pub. L. 109–58, title XIII, §1331(b)(3), Aug. 8, 2005, 119 Stat. 1024; Pub. L. 109–135, title IV, §402(a)(7), (h), Dec. 21, 2005, 119 Stat. 2610, 2611.)
+(Added Pub. L. 88–272, title II, §231(a), Feb. 26, 1964, 78 Stat. 100; amended Pub. L. 91–172, title V, §521(b), (c), (e), title VII, §704(b)(5), title IX, §910(b), Dec. 30, 1969, 83 Stat. 652, 653, 670, 720; Pub. L. 92–178, title III, §303(c)(3), Dec. 10, 1971, 85 Stat. 522; Pub. L. 93–625, §5(c), Jan. 3, 1975, 88 Stat. 2112; Pub. L. 94–81, §2(b), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §202(a)–(c)(1), (2), title XIX, §§1901(b)(3)(K), (31)(A), (B), (E), 1906(b)(13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(4), 2124(a)(3)(D), Oct. 4, 1976, 90 Stat. 1527, 1529, 1530, 1793, 1799, 1800, 1834, 1840, 1915, 1918; Pub. L. 95–600, title IV, §§404(c)(7), 405(c)(4), title VII, §701(f)(3)(C), (E), Nov. 6, 1978, 92 Stat. 2870, 2871, 2901; Pub. L. 96–222, title I, §107(a)(1)(D), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title II, §251(a)(2)(D), Apr. 2, 1980, 94 Stat. 287; Pub. L. 97–34, title II, §§204(e), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 223, 239; Pub. L. 97–448, title I, §102(a)(7), Jan. 12, 1983, 96 Stat. 2368; Pub. L. 98–369, div. A, title VII, §712(a)(1)(B), July 18, 1984, 98 Stat. 946; Pub. L. 99–514, title II, §242(b)(2), Oct. 22, 1986, 100 Stat. 2181; Pub. L. 100–647, title I, §1002(a)(1), Nov. 10, 1988, 102 Stat. 3352; Pub. L. 101–239, title VII, §7831(b), Dec. 19, 1989, 103 Stat. 2426; Pub. L. 101–508, title XI, §§11801(c)(6)(F), (8)(I), (15), 11812(b)(11), (12), Nov. 5, 1990, 104 Stat. 1388–524, 1388–527, 1388–536; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1702(h)(18), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title III, §312(d)(10), Aug. 5, 1997, 111 Stat. 840; Pub. L. 105–206, title VI, §6023(12), July 22, 1998, 112 Stat. 825; Pub. L. 109–58, title XIII, §1331(b)(3), Aug. 8, 2005, 119 Stat. 1024; Pub. L. 109–135, title IV, §402(a)(7), (h), Dec. 21, 2005, 119 Stat. 2610, 2611; Pub. L. 115–141, div. U, title IV, §401(a)(174), Mar. 23, 2018, 132 Stat. 1192.)
 
 #### References in Text
 
@@ -302,6 +302,8 @@ Such sentence, referred to in subsec. (d)(4)(D), probably should be a reference 
 
 #### Amendments
 
+<b>2018</b>—Subsec. (d)(3). Pub. L. 115–141 substituted "paragraph (6)" for "paragraph (9)".
+
 <b>2005</b>—Subsec. (b)(3). Pub. L. 109–135, §402(h), struck out "or by section 179D" after "190, or 193)".
 
 Pub. L. 109–58, §1331(b)(3), inserted "or by section 179D" after "190, or 193)".
@@ -314,7 +316,7 @@ Subsec. (e)(2). Pub. L. 109–135, §402(a)(7)(B), substituted "or (3)" for "(3)
 
 <b>1997</b>—Subsec. (d)(7) to (10). Pub. L. 105–34, §312(d)(10)(A), redesignated pars. (9) and (10) as (7) and (8), respectively, and struck out heading and text of former par. (7). Text read as follows: "Subsection (a) shall not apply to a disposition of—
 
-&emsp;"(A) property to the extent used by the taxpayer as his principal residence (within the meaning of section1034, relating to rollover of gain on sale of principal residence), and
+&emsp;"(A) property to the extent used by the taxpayer as his principal residence (within the meaning of section 1034, relating to rollover of gain on sale of principal residence), and
 
 &emsp;"(B) property in respect of which the taxpayer meets the age and ownership requirements of section 121 (relating to one-time exclusion of gain from sale of principal residence by individual who has attained age 55) but only to the extent that he meets the use requirements of such section in respect of such property."
 
@@ -400,7 +402,7 @@ Subsec. (d)(4)(B). Pub. L. 94–455, §1901(b)(31)(A), substituted reference to 
 
 Subsec. (d)(4)(C). Pub. L. 94–455, §1901(b)(31)(B), substituted reference to section "1033(a)(2)" for "1033(a)(3)".
 
-Subsec. (d)(4)(D). Pub. L. 94–455, §§1901(b)(31)(B), (E), 1906(b)(13)(A), substituted reference to sections "1033(a)(2)" and "1033(b)" for "1033(a)(3)" and "1033(c)", respectively, and struck out "or his delegate" after "Secretary".
+Subsec. (d)(4)(D). Pub. L. 94–455, §§1901(b)(31)(B), (E), 1906(b)(13)(A), substituted reference to sections"1033(a)(2)" and "1033(b)" for "1033(a)(3)" and "1033(c)", respectively, and struck out "or his delegate" after "Secretary".
 
 Subsec. (d)(5), (8)(F)(ii). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
@@ -472,7 +474,7 @@ Amendment by Pub. L. 101–239 effective as if included in the provision of the 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -550,7 +552,7 @@ Pub. L. 88–272, title II, §231(c), Feb. 26, 1964, 78 Stat. 105, provided that
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

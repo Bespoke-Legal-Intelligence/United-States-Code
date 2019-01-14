@@ -10,7 +10,7 @@ With the consent of a private owner of land within the boundaries of the Preserv
 
 #### (c) Facilities
 
-For purposes of carrying out the duties of the Secretary under sections 698u to 698u–7 of this title relating to the Preserve, the Secretary may, with the consent of a landowner, directlyor by contract, construct, reconstruct, rehabilitate, or develop essential buildings, structures, and related facilities including roads, trails, and other interpretive facilities on real property that is not owned by the Federal Government and is located within the Preserve.
+For purposes of carrying out the duties of the Secretary under sections 698u to 698u–7 of this title relating to the Preserve, the Secretary may, with the consent of a landowner, directly or by contract, construct, reconstruct, rehabilitate, or develop essential buildings, structures, and related facilities including roads, trails, and other interpretive facilities on real property that is not owned by the Federal Government and is located within the Preserve.
 
 #### (d) Liability
 
@@ -42,7 +42,7 @@ The Preserve shall be a unit of the National Park System for all purposes, inclu
 
 #### (1) In general
 
-&emsp;Not later than the end of the third full fiscal year beginning after November 12, 1996, the Secretary shall prepare and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives a general management plan for the Preserve.
+&emsp;Not later than the end of the third full fiscal year beginning after November 12, 1996, theSecretary shall prepare and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives a general management plan for the Preserve.
 
 #### (2) Consultation
 
@@ -80,7 +80,7 @@ The Preserve shall be a unit of the National Park System for all purposes, inclu
 
 #### (5) Financial analysis
 
-&emsp;As part of the development of the general management plan, the Secretary shall preparea financial analysis indicating how the management of the Preserve may be fully supported through fees, private donations, and other forms of non-Federal funding.
+&emsp;As part of the development of the general management plan, the Secretary shall prepare a financial analysis indicating how the management of the Preserve may be fully supported through fees, private donations, and other forms of non-Federal funding.
 
 (Pub. L. 104–333, div. I, title X, §1005, Nov. 12, 1996, 110 Stat. 4205; Pub. L. 106–176, title I, §122(3), Mar. 10, 2000, 114 Stat. 29.)
 

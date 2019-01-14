@@ -72,7 +72,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a group health plan from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for the purposes of applying the regulations promulgated by the Secretary of Health and Human Services under part C of title XI of the Social Security Act and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection (a).
+&emsp;&emsp;Nothing in paragraph (1) shall be construed to preclude a group health plan from obtaining and using the results of a genetic test in making a determination regarding payment (as such term is defined for thepurposes of applying the regulations promulgated by the Secretary of Health and Human Services under part C of title XI of the Social Security Act and section 264 of the Health Insurance Portability and Accountability Act of 1996, as may be revised from time to time) consistent with subsection (a).
 
 #### (B) Limitation
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(C) No genetic information collected or acquired under this paragraph shall be used for underwriting purposes.
 
-&emsp;&emsp;(D) The plan notifies the Secretary in writing that the plan is conducting activities pursuant to the exception provided forunder this paragraph, including a description of the activities conducted.
+&emsp;&emsp;(D) The plan notifies the Secretary in writing that the plan is conducting activities pursuant to the exception provided for under this paragraph, including a description of the activities conducted.
 
 &emsp;&emsp;(E) The plan complies with such other conditions as the Secretary may by regulation require for activities conducted under this paragraph.
 

@@ -30,7 +30,7 @@ The chief State election official of a State shall make the forms described in s
 
 #### (d) Undelivered notices
 
-If a notice of the disposition of a mail voter registration application under section 20507(a)(2)of this title is sent by nonforwardable mail and is returned undelivered, the registrar may proceed in accordance with section 20507(d) of this title.
+If a notice of the disposition of a mail voter registration application under section 20507(a)(2) of this title is sent by nonforwardable mail and is returned undelivered, the registrar may proceed in accordance with section 20507(d) of this title.
 
 (Pub. L. 103–31, §6, May 20, 1993, 107 Stat. 79.)
 

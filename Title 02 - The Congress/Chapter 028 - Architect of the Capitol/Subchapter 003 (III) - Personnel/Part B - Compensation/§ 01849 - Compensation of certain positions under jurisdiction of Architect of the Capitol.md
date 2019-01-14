@@ -10,7 +10,7 @@ Section was classified to section 166b–3b of former Title 40, prior to the ena
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–316 amended section generally. Prior to amendment, section related to compensation of certain positions under jurisdiction of Architect of the Capitol, specifying twelve positions fixed in relation to Senior Executive Service, nine positions fixed in relation to the General Schedule, and four positions for Executive Project Directors.
+<b>2010</b>—Pub. L. 111–316 amended section generally. Prior to amendment, section related to compensation of certain positions under jurisdiction of Architect of the Capitol, specifying twelve positions fixed in relation toSenior Executive Service, nine positions fixed in relation to the General Schedule, and four positions for Executive Project Directors.
 
 <b>2005</b>—Subsec. (b). Pub. L. 109–55 substituted "9 positions" for "8 positions".
 
@@ -52,7 +52,7 @@ Subsec. (b)(1)(A), (B). Pub. L. 105–55, §311(b)(2), substituted "the highest 
 
 <b>1991</b>—Subsec. (b)(1). Pub. L. 102–90, §104(a)(3), inserted sentence at end relating to maximum rate allowable for Senior Executive Service.
 
-Subsec. (b)(1)(A). Pub. L. 102–90, §104(a)(1), substituted "90 percent of the maximum rate allowable forthe Senior Executive Service;" for "the rate payable for grade GS–18 of the General Schedule;".
+Subsec. (b)(1)(A). Pub. L. 102–90, §104(a)(1), substituted "90 percent of the maximum rate allowable for the Senior Executive Service;" for "the rate payable for grade GS–18 of the General Schedule;".
 
 Subsec. (b)(1)(B). Pub. L. 102–90, §104(a)(2), substituted "85 percent of the maximum rate allowable for the Senior Executive Service." for "the rate payable for step 2 of grade GS–17 of the General Schedule."
 

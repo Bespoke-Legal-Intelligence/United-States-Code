@@ -40,7 +40,7 @@
 
 #### (4) Indian tribes
 
-&emsp;The Secretary shall reserve not less than 1 percent, and not more than 2 percent, of the aggregate amount appropriated to carry out this section in each fiscal year for payments to Indian tribes and tribal organizations.
+&emsp;The Secretary shall reserve not less than 1 percent, and not more than 2 percent, of theaggregate amount appropriated to carry out this section in each fiscal year for payments to Indian tribes and tribal organizations.
 
 #### (5) Data used to determine State and Federal shares of expenditures
 
@@ -54,7 +54,7 @@
 
 #### (2) Use for certain populations
 
-&emsp;A State shall ensure that not less than 70 percent of the total amount of funds received by the State in a fiscal year under this section are used to provide child care assistance tofamilies who are receiving assistance under a State program under this part, families who are attempting through work activities to transition off of such assistance program, and families who are at risk of becoming dependent on such assistance program.
+&emsp;A State shall ensure that not less than 70 percent of the total amount of funds received by the State in a fiscal year under this section are used to provide child care assistance to families who are receiving assistance under a State program under this part, families who are attempting through work activities to transition off of such assistance program, and families who are at risk of becoming dependent on such assistance program.
 
 #### (c) Application of Child Care and Development Block Grant Act of 1990
 

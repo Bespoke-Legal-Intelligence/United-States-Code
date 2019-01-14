@@ -104,7 +104,7 @@ In this chapter (other than subchapter III):
 
 #### (18) United States Premium Factor
 
-&emsp;The term "United States Premium Factor" means the percentage by which the differencein the United States loan schedule premiums for Strict Middling (SM) 11/8-inch upland cotton and for Middling (M) 13/32-inch upland cotton exceeds the difference in the applicable premiums for comparable international qualities.
+&emsp;The term "United States Premium Factor" means the percentage by which the difference in the United States loan schedule premiums for Strict Middling (SM) 11/8-inch upland cotton and for Middling (M) 13/32-inch upland cotton exceeds the difference in the applicable premiums for comparable international qualities.
 
 (Pub. L. 110–234, title I, §1001, May 22, 2008, 122 Stat. 936; Pub. L. 110–246, §4(a), title I, §1001, June 18, 2008, 122 Stat. 1664.)
 

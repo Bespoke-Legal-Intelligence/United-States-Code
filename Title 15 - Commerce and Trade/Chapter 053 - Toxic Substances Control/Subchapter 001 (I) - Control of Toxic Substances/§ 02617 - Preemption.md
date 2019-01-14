@@ -60,7 +60,7 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in this chapter, nor any amendment made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act, nor any rule, standard of performance, risk evaluation, or scientific assessment implemented pursuant to this chapter, shall affect the right of a State or a political subdivision of a State to adopt or enforce any rule, standard of performance, risk evaluation, scientific assessment, or any other protection for public health or the environment that—
+&emsp;&emsp;Nothing in this chapter, nor any amendment made by the Frank R. LautenbergChemical Safety for the 21st Century Act, nor any rule, standard of performance, risk evaluation, or scientific assessment implemented pursuant to this chapter, shall affect the right of a State or a political subdivision of a State to adopt or enforce any rule, standard of performance, risk evaluation, scientific assessment, or any other protection for public health or the environment that—
 
 &emsp;&emsp;&emsp;(i) is adopted or authorized under the authority of any other Federal law or adopted to satisfy or obtain authorization or approval under any other Federal law;
 
@@ -98,7 +98,7 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 #### (B) Certain chemical substances and mixtures
 
-&emsp;&emsp;With respect to a chemical substance or mixture for which any rule or order was promulgated or issued under section 2605 of this title prior to the effective date of the Frank R. Lautenberg Chemical Safety for the 21st Century Act with respect to manufacturing, processing, distribution in commerce, use, or disposal of the chemical substance or mixture, nothing in this section shall be construed as modifying the preemptive effect of this section as in effect prior to the enactment of the Frank R. Lautenberg Chemical Safety for the 21st Century Act of any rule or order that is promulgated or issued with respect to such chemical substance or mixture under section 2605 of this title after that effective date, unless the latter rule or order is with respect to a chemical substance or mixture containing a chemical substance and follows a designation of thatchemical substance as a high-priority substance under section 2605(b)(1)(B)(i) of this title, the identification of that chemical substance under section 2605(b)(2)(A) of this title, or the selection of that chemical substance for risk evaluation under section 2605(b)(4)(E)(iv)(II) of this title.
+&emsp;&emsp;With respect to a chemical substance or mixture for which any rule or order was promulgated or issued under section 2605 of this title prior to the effective date of the Frank R. Lautenberg Chemical Safety for the 21st Century Act with respect to manufacturing, processing, distribution in commerce, use, or disposal of the chemical substance or mixture, nothing in this section shall be construed as modifying the preemptive effect of this section as in effect prior to the enactment of the Frank R. Lautenberg Chemical Safety for the 21st Century Act of any rule or order that is promulgated or issued with respect to such chemical substance or mixture under section 2605 of this title after that effective date, unless the latter rule or order is with respect to a chemical substance or mixture containing a chemical substance and follows a designation of that chemical substance as a high-priority substance under section 2605(b)(1)(B)(i) of this title, the identification of that chemical substance under section 2605(b)(2)(A) of this title, or the selection of that chemical substance for risk evaluation under section 2605(b)(4)(E)(iv)(II) of this title.
 
 #### (e) Preservation of certain laws
 
@@ -118,7 +118,7 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 #### (1) Discretionary exemptions
 
-&emsp;Upon application of a State or political subdivision of a State, the Administrator may, by rule, exempt from subsection (a), under such conditions as may be prescribed in the rule, a statute, criminal penalty, or administrative action of that State or political subdivision of the State that relates to the effects of exposure to a chemical substance under the conditions of use if the Administrator determines that—
+&emsp;Upon application of a State or political subdivision of a State, the Administrator may, byrule, exempt from subsection (a), under such conditions as may be prescribed in the rule, a statute, criminal penalty, or administrative action of that State or political subdivision of the State that relates to the effects of exposure to a chemical substance under the conditions of use if the Administrator determines that—
 
 &emsp;&emsp;(A) compelling conditions warrant granting the waiver to protect health or the environment;
 
@@ -186,7 +186,7 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 #### (B) Requirements
 
-&emsp;&emsp;Notwithstanding paragraph (6), approval of a waiver application under subparagraph (A) for failure to meet the deadline under paragraph (3)(B) shall not be considered final agency action or be subject to judicial review or public notice and comment.
+&emsp;&emsp;Notwithstanding paragraph (6), approval of a waiver application under subparagraph (A)for failure to meet the deadline under paragraph (3)(B) shall not be considered final agency action or be subject to judicial review or public notice and comment.
 
 #### (g) Savings
 

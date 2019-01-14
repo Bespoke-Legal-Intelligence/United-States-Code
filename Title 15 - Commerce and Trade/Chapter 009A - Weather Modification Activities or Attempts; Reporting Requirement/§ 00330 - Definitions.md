@@ -34,7 +34,7 @@ Declaration of Policy.
 
 Findings.—The Congress finds and declares the following:
 
-&emsp;"(1) Weather-related disasters and hazards, including drought, hurricanes, tornadoes, hail, lightning, fog, floods, and frost, result in substantial human suffering and loss of life, billions of dollars of annual economic losses to owners of crops and other property, and substantial financial loss to the United States Treasury;
+&emsp;"(1) Weather-related disasters and hazards, including drought, hurricanes, tornadoes, hail, lightning,fog, floods, and frost, result in substantial human suffering and loss of life, billions of dollars of annual economic losses to owners of crops and other property, and substantial financial loss to the United States Treasury;
 
 &emsp;"(2) Weather modification technology has significant potential for preventing, diverting, moderating, or ameliorating the adverse effects of such disasters and hazards and enhancing crop production and the availability of water;
 

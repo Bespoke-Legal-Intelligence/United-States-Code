@@ -122,7 +122,7 @@ Subsecs. (b), (c). Pub. L. 98–216, §1(2)(C)–(E), redesignated subsec. (c) a
 
 #### Preventing Abuse of Interagency Contracts
 
-Pub. L. 110–417, \[div. A\], title VIII, §865, Oct. 14, 2008, 122 Stat. 4550, provided that:
+Pub. L. 110–417, \[div. A\], title VIII, §865, Oct. 14, 2008, 122 Stat. 4550, as amended by Pub. L. 115–232, div. A, title VIII, §875, Aug. 13, 2018, 132 Stat. 1906, provided that:
 
 "(a)
 
@@ -152,13 +152,11 @@ Regulations Required.—
 
 &emsp;"(1)
 
-In general.—Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], the Federal Acquisition Regulation shall be revised to require that all interagency acquisitions—
+In general.—Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], the Federal Acquisition Regulation shall be revised to require that—
 
-&emsp;&emsp;"(A) include a written agreement between the requesting agency and the servicing agency assigning responsibility for the administration and management of the contract;
+&emsp;&emsp;"(A) all interagency assisted acquisitions include a written agreement between the requesting agency and the servicing agency assigning responsibility for the administration and management of the contract; and
 
-&emsp;&emsp;"(B) include a determination that an interagency acquisition is the best procurement alternative; and
-
-&emsp;&emsp;"(C) include sufficient documentation to ensure an adequate audit.
+&emsp;&emsp;"(B) all interagency assisted acquisitions include sufficient documentation to ensure an adequate audit.
 
 &emsp;"(2)
 
@@ -228,7 +226,7 @@ Pub. L. 103–355, title I, §1074, Oct. 13, 1994, 108 Stat. 3271, provided that
 
 Pub. L. 105–261, div. A, title VIII, §814, Oct. 17, 1998, 112 Stat. 2087, which directed Secretary of Defense, not later than 90 days after Oct. 17, 1998, to revise regulations issued pursuant to section 844 of the National Defense Authorization Act for Fiscal Year 1994 (Pub. L. 103–160, see below) to cover certain purchases greater than the micro-purchase threshold and to provide for a streamlined method of compliance for any such purchase that is not greater than the simplified acquisition threshold, ceased to be effective 1 year after date on which final regulations took effect. Final regulations were published in the Federal Register Mar. 25, 1999, effective on that date. See 64 F.R. 14399.
 
-Pub. L. 103–160, div. A, title VIII, §844, Nov. 30, 1993, 107 Stat. 1720, directed Secretary of Defense, not later than six months after Nov. 30, 1993, to prescribe regulations governing exercise by Department of Defense of authority under this section to purchase goods and services under contracts entered into or administered by another agency, and provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
+Pub. L. 103–160, div. A, title VIII, §844, Nov. 30, 1993, 107 Stat. 1720, directed Secretary of Defense, not later than six months after Nov. 30, 1993, to prescribe regulations governing exercise by Department of Defense of authority under this section to purchase goods and services under contracts entered into or administered by another agency, and provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published inthe Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
 
 #### Acquisition of Goods, Services, or Space by Secretary of Senate and Sergeant at Arms and Doorkeeper of Senate
 

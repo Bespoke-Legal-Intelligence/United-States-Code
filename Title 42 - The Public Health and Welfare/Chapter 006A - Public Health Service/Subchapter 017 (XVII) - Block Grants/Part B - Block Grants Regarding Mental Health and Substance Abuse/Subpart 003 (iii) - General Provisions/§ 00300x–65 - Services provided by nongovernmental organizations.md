@@ -74,7 +74,7 @@ A religious organization providing services through a grant, contract, or cooper
 
 #### (2) Limited audit
 
-&emsp;Such organization shall segregate government funds provided under such substance abuse program into a separate account. Onlythe government funds shall be subject to audit by the government.
+&emsp;Such organization shall segregate government funds provided under such substance abuse program into a separate account. Only the government funds shall be subject to audit by the government.
 
 #### (h) Compliance
 

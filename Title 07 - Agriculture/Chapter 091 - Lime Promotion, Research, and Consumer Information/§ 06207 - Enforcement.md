@@ -50,7 +50,7 @@ Any person who fails to obey a cease and desist order issued by the Secretary af
 
 #### (f) Failure to pay penalties
 
-If a person fails to pay an assessment of a civil penalty after it has become a final and unappealable order issued by the Secretary, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States in any district in which the person resides or conducts business. In such action, the validity and appropriateness of the final order imposing such civil penalty shall not be subject to review.
+If a person fails to pay an assessment of a civil penalty after it has become a final and unappealable order issued by the Secretary, orafter the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States in any district in which the person resides or conducts business. In such action, the validity and appropriateness of the final order imposing such civil penalty shall not be subject to review.
 
 (Pub. L. 101–624, title XIX, §1958, Nov. 28, 1990, 104 Stat. 3877; Pub. L. 102–237, title VIII, §805(2), Dec. 13, 1991, 105 Stat. 1882.)
 

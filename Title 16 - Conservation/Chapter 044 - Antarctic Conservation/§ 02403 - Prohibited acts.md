@@ -18,7 +18,7 @@ It is unlawful for any person—
 
 &emsp;(7) to damage, remove, or destroy a historic site or monument;
 
-&emsp;(8) to refuse permission to any authorized officer or employee of the United States to board a vessel, vehicle, or aircraft of the United States, or subject to the jurisdiction of the United States, for the purpose of conducting any search or inspection in connection with the enforcement of this chapter or any regulation promulgated or permit issued under this chapter;
+&emsp;(8) to refuse permission to any authorized officer or employee of the United States to board a vessel, vehicle, or aircraft of the United States, or subject to the jurisdiction of the United States, for the purpose of conducting any search or inspection in connectionwith the enforcement of this chapter or any regulation promulgated or permit issued under this chapter;
 
 &emsp;(9) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any authorized officer or employee of the United States in the conduct of any search or inspection described in paragraph (8);
 
@@ -56,7 +56,7 @@ No act described in subsection (a)(1), (2), (3), (4), (5), (7), (12), or (13) or
 
 #### References in Text
 
-The Act to Prevent Pollution from Ships, referred to in subsecs. (a)(5) and (b)(1), is Pub. L. 96–478, Oct. 21,1980, 94 Stat. 2297, as amended, which is classified principally to chapter 33 (§1901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 33 and Tables.
+The Act to Prevent Pollution from Ships, referred to in subsecs. (a)(5) and (b)(1), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, as amended, which is classified principally to chapter 33 (§1901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 33 and Tables.
 
 #### Amendments
 

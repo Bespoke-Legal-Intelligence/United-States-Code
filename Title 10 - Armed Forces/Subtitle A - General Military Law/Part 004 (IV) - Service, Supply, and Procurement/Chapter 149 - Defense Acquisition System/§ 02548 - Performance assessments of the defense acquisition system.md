@@ -6,9 +6,9 @@ Performance Assessments Required.—The Secretary of Defense, acting through the
 
 &emsp;(1) determining the extent to which such elements of the defense acquisition system deliver value to the Department of Defense, taking into consideration the performance elements identified in subsection (b);
 
-&emsp;(2) assisting senior officials of the Department of Defense in identifying and developing lessons learned from best practices and shortcomings in the performance of such elements of the defense acquisition system; and
+&emsp;(2) assisting senior officials of the Department of Defense in identifying and developinglessons learned from best practices and shortcomings in the performance of such elements of the defense acquisition system; and
 
-&emsp;(3) assisting senior officials of the Department of Defense in developing acquisitionworkforce excellence under section 1701a of this title.
+&emsp;(3) assisting senior officials of the Department of Defense in developing acquisition workforce excellence under section 1701a of this title.
 
 (b)
 

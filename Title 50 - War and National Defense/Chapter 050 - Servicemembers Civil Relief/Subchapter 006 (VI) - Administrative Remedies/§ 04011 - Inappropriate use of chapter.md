@@ -14,3 +14,7 @@ A prior section 601 of act Oct. 17, 1940, ch. 888, art. VI, 54 Stat. 1190; Jan. 
 
 Provisions similar to this section were contained in section 600 of act Oct. 17, 1940, ch. 888, art. VI, 54 Stat. 1190; Pub. L. 102–12, §9(25), Mar. 18, 1991, 105 Stat. 41, prior to the general amendment of this Act by Pub. L. 108–189.
 
+#### Effective Date
+
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under section 3901 of this title.
+

@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(G) State, local, and tribal government catastrophic incident preparedness; and
 
-&emsp;&emsp;(H) covering increases in the fixed costs or expenses of the Agency, including rent or property acquisition costs or expenses, taxes, contributions to the working capital fund of the Department, and security costs for the year after the year in which such estimate is submitted.
+&emsp;&emsp;(H) covering increases in the fixed costs or expenses of the Agency, including rent or property acquisition costs or expenses,taxes, contributions to the working capital fund of the Department, and security costs for the year after the year in which such estimate is submitted.
 
 #### (c) State preparedness report
 

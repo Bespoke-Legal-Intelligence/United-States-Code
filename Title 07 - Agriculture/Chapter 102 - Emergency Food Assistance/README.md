@@ -19,7 +19,8 @@
 | [7514\.](%C2%A7%2007514%20-%20Incorporation%20of%20additional%20commodities.md) | Incorporation of additional commodities. |
 | [7515\.](%C2%A7%2007515%20-%20Allotment%20and%20delivery%20of%20commodities.md) | Allotment and delivery of commodities. |
 | [7516\.](%C2%A7%2007516%20-%20Settlement%20and%20adjustment%20of%20claims.md) | Settlement and adjustment of claims. |
-| [7517\.](%C2%A7%2007517%20-%20Food%20insecurity%20nutrition%20incentive.md) | Food insecurity nutrition incentive. |
+| [7517\.](%C2%A7%2007517%20-%20The%20Gus%20Schumacher%20nutrition%20incentive%20program.md) | The Gus Schumacher nutrition incentive program. |
+| [7518\.](%C2%A7%2007518%20-%20Micro-grants%20for%20food%20security.md) | Micro-grants for food security. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -49,4 +50,5 @@ This chapter is comprised principally of title II (§§201–215) of Pub. L. 98�
 - [&sect; 07514 - Incorporation of additional commodities](%C2%A7%2007514%20-%20Incorporation%20of%20additional%20commodities.md)
 - [&sect; 07515 - Allotment and delivery of commodities](%C2%A7%2007515%20-%20Allotment%20and%20delivery%20of%20commodities.md)
 - [&sect; 07516 - Settlement and adjustment of claims](%C2%A7%2007516%20-%20Settlement%20and%20adjustment%20of%20claims.md)
-- [&sect; 07517 - Food insecurity nutrition incentive](%C2%A7%2007517%20-%20Food%20insecurity%20nutrition%20incentive.md)
+- [&sect; 07517 - The Gus Schumacher nutrition incentive program](%C2%A7%2007517%20-%20The%20Gus%20Schumacher%20nutrition%20incentive%20program.md)
+- [&sect; 07518 - Micro-grants for food security](%C2%A7%2007518%20-%20Micro-grants%20for%20food%20security.md)

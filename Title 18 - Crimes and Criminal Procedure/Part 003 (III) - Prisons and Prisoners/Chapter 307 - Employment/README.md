@@ -11,10 +11,13 @@
 | [4127\.](%C2%A7%2004127%20-%20Prison%20Industries%20report%20to%20Congress.md) | Prison Industries report to Congress. |
 | [4128\.](%C2%A7%2004128%20-%20Enforcement%20by%20Attorney%20General.md) | Enforcement by Attorney General. |
 | [4129\.](%C2%A7%2004129%20-%20Authority%20to%20borrow%20and%20invest.md) | Authority to borrow and invest. |
+| [4130\.](%C2%A7%2004130%20-%20Additional%20markets.md) | Additional markets. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–391, title VI, §605(b), Dec. 21, 2018, 132 Stat. 5242, added item 4130.
 
 <b>1990</b>—Pub. L. 101–647, title XXXV, §3599A, Nov. 29, 1990, 104 Stat. 4931, substituted "Fund" for "fund" in item 4126.
 
@@ -34,3 +37,4 @@
 - [&sect; 04127 - Prison Industries report to Congress](%C2%A7%2004127%20-%20Prison%20Industries%20report%20to%20Congress.md)
 - [&sect; 04128 - Enforcement by Attorney General](%C2%A7%2004128%20-%20Enforcement%20by%20Attorney%20General.md)
 - [&sect; 04129 - Authority to borrow and invest](%C2%A7%2004129%20-%20Authority%20to%20borrow%20and%20invest.md)
+- [&sect; 04130 - Additional markets](%C2%A7%2004130%20-%20Additional%20markets.md)

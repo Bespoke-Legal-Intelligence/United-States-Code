@@ -2,7 +2,7 @@
 
 (a)
 
-Process and Policies.—The Secretary and the Administrator shall maintain a process and policies for identifying, and selecting, an eligible entity to which a historic light station could be conveyed for education, park, recreation, cultural, or historic preservation purposes, and to monitor the use of the light station by the eligible entity.
+Process and Policies.—The Secretary and the Administrator shall maintain a process andpolicies for identifying, and selecting, an eligible entity to which a historic light station could be conveyed for education, park, recreation, cultural, or historic preservation purposes, and to monitor the use of the light station by the eligible entity.
 
 (b)
 
@@ -26,7 +26,7 @@ Conveyance or Sale of Historic Light Stations.—
 
 &emsp;(1)
 
-Conveyance by administrator.—Except as provided in paragraph (2), after the Secretary's selection of an eligible entity, the Administrator shall convey, by quitclaim deed, without consideration, all right, title, and interest of the United States in and to a historic light station, subject to the conditions set forth in section 305104 of this title. The conveyance of a historic light station under this chapter shall not be subject to the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.) or section 416(d) of the Coast Guard Authorization Act of 1998 (Public Law 105–383, 14 U.S.C. 93 note).
+Conveyance by administrator.—Except as provided in paragraph (2), after the Secretary's selection of an eligible entity, the Administrator shall convey, by quitclaim deed, without consideration, all right, title, and interest of the United States in and to a historic light station, subject to the conditions set forth in section 305104 of this title. The conveyance of a historic light station under this chapter shall not be subject to the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.) or section 416(d) of the Coast Guard Authorization Act of 1998 (Public Law 105–383, 14 U.S.C. 93 note).<sup>1</sup>
 
 &emsp;(2)
 
@@ -69,4 +69,8 @@ Pub. L. 89–665, title III, §308(b), as added Pub. L. 106–355, §2, Oct. 24,
 #### References in Text
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (c)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+
+Section 416(d) of the Coast Guard Authorization Act of 1998, referred to in subsec. (c)(1), which was formerly set out as a note under section 93 of Title 14, Coast Guard, was transferred and is now set out as a note under section 504 of Title 14.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Treasury, in consultation with the Secretary of Commerce and other appropriate Federal agencies, shall prepare reports on the implementation of financial stabilization programs (and any material terms and conditions thereof) led by the International Monetary Fund in countries in connection with which the United States has made a commitment to provide, or has provided financing from the stabilization fund established under section 5302 of title 31. The reports shall include the following:
+The Secretary of the Treasury, in consultation with the Secretary of Commerce and other appropriate Federal agencies, shall prepare reports on the implementation of financial stabilization programs (and any material terms and conditions thereof) led by the International Monetary Fund in countries in connection with which theUnited States has made a commitment to provide, or has provided financing from the stabilization fund established under section 5302 of title 31. The reports shall include the following:
 
 &emsp;(1) A description of the condition of the economies of countries requiring the financial stabilization programs, including the monetary, fiscal, and exchange rate policies of the countries.
 

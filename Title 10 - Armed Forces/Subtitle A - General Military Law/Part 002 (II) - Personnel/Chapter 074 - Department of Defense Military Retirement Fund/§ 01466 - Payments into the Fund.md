@@ -30,7 +30,7 @@
 
 (3) The Secretary of Defense shall promptly certify the amount determined under paragraph (2) each year to the Secretary of the Treasury.
 
-(c)(1) The Secretary of Defense shall pay into the Fund at the beginning of each fiscal year such amount as may be necessary to pay the cost to the Fund for that fiscal year resulting from the repeal, as of October 1, 1999, of section 5532 of title 5, including any actuarial loss to the Fund resulting from increased benefits paid from the Fund that are not fully covered by the payments made to the Fund for that fiscal year under subsections (a) and (b).
+(c)(1) The Secretary of Defense shall pay into the Fund at the beginning of each fiscal year such amount as may be necessary to pay the cost to the Fund for that fiscal year resulting from the repeal, as of October 1, 1999, of section 5532 of title 5, including any actuarial loss to theFund resulting from increased benefits paid from the Fund that are not fully covered by the payments made to the Fund for that fiscal year under subsections (a) and (b).
 
 (2) Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.
 
@@ -104,7 +104,7 @@ Pub. L. 100–26, §12(b), Apr. 21, 1987, 101 Stat. 289, provided that: "The ame
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–661 applicable to payments required to be made under subsec. (a) of this section for months beginning on or after Nov. 14, 1986, see section 661(d) of Pub. L. 99–661, set out as a note under section 1465 of this title.
+Amendment by Pub. L. 99–661 applicable to payments required to be made under subsec. (a) of this section formonths beginning on or after Nov. 14, 1986, see section 661(d) of Pub. L. 99–661, set out as a note under section 1465 of this title.
 
 Amendment by section 101(c) \[title IX, §9131\] of Pub. L. 99–500 and Pub. L. 99–591 effective Oct. 18, 1986, and applicable to payments required to be made under subsec. (a) of this section for months beginning on or after that date, see section 642(c) of S. 2638, as enacted into law, set out as a note under section 1465 of this title.
 

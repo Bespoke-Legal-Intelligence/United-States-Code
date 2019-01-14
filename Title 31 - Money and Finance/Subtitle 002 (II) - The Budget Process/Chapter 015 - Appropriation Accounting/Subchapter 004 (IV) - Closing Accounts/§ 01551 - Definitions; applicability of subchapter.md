@@ -60,7 +60,7 @@ Pub. L. 101–510, div. A, title XIV, §1405(b), Nov. 5, 1990, 104 Stat. 1679, a
 
 "(1)
 
-Application of amendments.—The amendments made by subsection (a) \[amending this section and sections 1552 to 1557 of this title\] shall apply to any appropriation account the obligated balance of which, on the date of the enactment of this Act \[Nov. 5, 1990\], has not been transferred under section 1552(a)(1) of title 31,United States Code, as in effect on the day before the date of the enactment of this section.
+Application of amendments.—The amendments made by subsection (a) \[amending this section and sections 1552 to 1557 of this title\] shall apply to any appropriation account the obligated balance of which, on the date of the enactment of this Act \[Nov. 5, 1990\], has not been transferred under section 1552(a)(1) of title 31, United States Code, as in effect on the day before the date of the enactment of this section.
 
 "(2)
 

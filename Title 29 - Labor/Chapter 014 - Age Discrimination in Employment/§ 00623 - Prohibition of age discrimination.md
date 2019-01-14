@@ -6,7 +6,7 @@ It shall be unlawful for an employer—
 
 &emsp;(1) to fail or refuse to hire or to discharge any individual or otherwise discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment, because of such individual's age;
 
-&emsp;(2) to limit, segregate, or classify his employees in any way which would deprive or tend to deprive any individual of employmentopportunities or otherwise adversely affect his status as an employee, because of such individual's age; or
+&emsp;(2) to limit, segregate, or classify his employees in any way which would deprive or tend to deprive any individual of employment opportunities or otherwise adversely affect his status as an employee, because of such individual's age; or
 
 &emsp;(3) to reduce the wage rate of any employee in order to comply with this chapter.
 
@@ -26,7 +26,7 @@ It shall be unlawful for a labor organization—
 
 #### (d) Opposition to unlawful practices; participation in investigations, proceedings, or litigation
 
-It shall be unlawful for an employer to discriminate against any of his employees or applicants for employment, for an employment agency to discriminate against any individual, or for a labor organization to discriminate against any member thereof or applicant for membership, because such individual, member or applicant for membership has opposed any practice made unlawful by this section, or because such individual, member or applicant for membership has made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or litigation under this chapter.
+It shall be unlawful for an employer to discriminate against any of his employees or applicants for employment, for an employment agency to discriminate against any individual, or for a labor organization to discriminate against any member thereof or applicant for membership,because such individual, member or applicant for membership has opposed any practice made unlawful by this section, or because such individual, member or applicant for membership has made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or litigation under this chapter.
 
 #### (e) Printing or publication of notice or advertisement indicating preference, limitation, etc.
 
@@ -148,7 +148,7 @@ Preservation of capital.—An interest credit (or an equivalent amount) of less 
 
 &emsp;&emsp;&emsp;(III)
 
-Market rate of return.—The Secretary of the Treasury may provide by regulation for rules governing the calculation of a market rate of return for purposes of subclause (I) and for permissible methods of crediting interest to the account (including fixed or variable interest rates) resulting in effective rates of return meeting the requirements of subclause (I). In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest established pursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.
+Market rate of return.—The Secretary of the Treasury may provide by regulation for rules governing the calculation of a market rate of return for purposes of subclause (I) and for permissible methods of crediting interest to the account (including fixed or variable interest rates) resulting in effective rates of return meetingthe requirements of subclause (I). In the case of a governmental plan (as defined in the first sentence of section 414(d) of title 26), a rate of return or a method of crediting interest established pursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.
 
 &emsp;&emsp;(ii)
 
@@ -192,7 +192,7 @@ Termination requirements.—An applicable defined benefit plan shall not be trea
 
 &emsp;&emsp;&emsp;(I) if the interest credit rate (or an equivalent amount) under the plan is a variable rate, the rate of interest used to determine accrued benefits under the plan shall be equal to the average of the rates of interest used under the plan during the 5-year period ending on the termination date, and
 
-&emsp;&emsp;&emsp;(II) the interest rate and mortality table used to determine the amount of any benefit under the plan payable in the form of an annuity payable at normal retirement age shall be the rate and table specifiedunder the plan for such purpose as of the termination date, except that if such interest rate is a variable rate, the interest rate shall be determined under the rules of subclause (I).
+&emsp;&emsp;&emsp;(II) the interest rate and mortality table used to determine the amount of any benefit under the plan payable in the form of an annuity payable at normal retirement age shall be the rate and table specified under the plan for such purpose as of the termination date, except that if such interest rate is a variable rate, the interest rate shall be determined under the rules of subclause (I).
 
 &emsp;(C)
 
@@ -336,7 +336,7 @@ Subparagraphs (C) and (D) of section 411(b)(2) of title 26, referred to in subse
 
 Section 1054(g)(2)(A) of this title, referred to in subsec. (i)(10)(F), was in the original "section 203(g)(2)(A) of the Employee Retirement Income Security Act of 1974", and was translated as reading section 204(g)(2)(A) of that Act to reflect the probable intent of Congress, because section 203 does not contain a subsec. (g).
 
-Section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996, referred to in subsec. (j)(1), probably means Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[2(d)(2)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23, 3009–25, which is set out as a note under this section.
+Section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996, referred to in subsec. (j)(1), probably means Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[2(d)(2)\]\], Sept. 30, 1996, 110 Stat. 3009,3009–23, 3009–25, which is set out as a note under this section.
 
 The Social Security Act, referred to in subsec. (l)(1)(A)(ii)(II), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVIII of the Act are classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -392,7 +392,7 @@ Subsec. (h). Pub. L. 99–272, §9201(b)(3), and Pub. L. 99–592, §2(b), made 
 
 Subsec. (i). Pub. L. 99–592, §3, temporarily added subsec. (i) which read as follows: "It shall not be unlawful for an employer which is a State, a political subdivision of a State, an agency or instrumentality of a State or a political subdivision of a State, or an interstate agency to fail or refuse to hire or to discharge any individual because of such individual's age if such action is taken—
 
-&emsp;"(1) with respect to the employment of an individual as a firefighter or as a law enforcement officerand the individual has attained the age of hiring or retirement in effect under applicable State or local law on March 3, 1983, and
+&emsp;"(1) with respect to the employment of an individual as a firefighter or as a law enforcement officer and the individual has attained the age of hiring or retirement in effect under applicable State or local law on March 3, 1983, and
 
 &emsp;"(2) pursuant to a bona fide hiring or retirement plan that is not a subterfuge to evade the purposes of this chapter."
 
@@ -598,7 +598,7 @@ Applicability of Amendments Relating to Normal Retirement Age.—The amendments 
 
 "(c)
 
-Plan Amendments.—If any amendment made by this subtitle \[subtitle C (§§9201–9204) of title IX of Pub.L. 99–509, amending this section, sections 1002, 1052, and 1054 of this title, and sections 410 and 411 of Title 26\] requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after January 1, 1989, if—
+Plan Amendments.—If any amendment made by this subtitle \[subtitle C (§§9201–9204) of title IX of Pub. L. 99–509, amending this section, sections 1002, 1052, and 1054 of this title, and sections 410 and 411 of Title 26\] requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after January 1, 1989, if—
 
 &emsp;"(1) during the period after such amendment takes effect and before such first plan year, the plan is operated in accordance with the requirements of such amendment, and
 

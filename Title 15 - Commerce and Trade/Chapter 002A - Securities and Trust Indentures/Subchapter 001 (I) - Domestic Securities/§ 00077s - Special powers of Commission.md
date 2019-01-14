@@ -46,7 +46,7 @@ For the purpose of all investigations which, in the opinion of the Commission, a
 
 &emsp;(D) a substantial reduction in costs and paperwork to diminish the burdens of raising investment capital (particularly by small business) and to diminish the costs of the administration of the Government programs involved.
 
-(3) The purpose of this subsection is to engender cooperation between the Commission, any such association of State securities officials, and other duly constituted securities associations in the following areas:
+(3) The purpose of this subsection is to engender cooperation between the Commission, anysuch association of State securities officials, and other duly constituted securities associations in the following areas:
 
 &emsp;(A) the sharing of information regarding the registration or exemption of securities issues applied for in the various States;
 

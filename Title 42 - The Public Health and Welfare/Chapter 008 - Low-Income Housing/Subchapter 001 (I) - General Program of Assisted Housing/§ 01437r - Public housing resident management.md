@@ -14,7 +14,7 @@ The purpose of this section is to encourage increased resident management of pub
 
 #### (1) Resident council
 
-&emsp;As a condition of entering into a resident management program, the elected resident council of a public housing project shall approve the establishment of a resident management corporation. When such approval is made by the elected resident council of a building or row house area, the resident management program shall not interfere with the rights of other families residing in the project or harm the efficient operation of the project. The resident management corporation and the resident council may be the same organization, if the organization complies with the requirements applicable to both the corporation and council. The corporation shall be a nonprofit corporation organized under the laws of the State in which the project is located, and the tenants of the project shall be the sole voting members of the corporation. If there is no elected resident council, a majority of the households of the public housing project shall approve the establishment of a resident council to determine the feasibility of establishinga resident management corporation to manage the project.
+&emsp;As a condition of entering into a resident management program, the elected resident council of a public housing project shall approve the establishment of a resident management corporation. When such approval is made by the elected resident council of a building or row house area, the resident management program shall not interfere with the rights of other families residing in the project or harm the efficient operation of the project. The resident management corporation and the resident council may be the same organization, if the organization complies with the requirements applicable to both the corporation and council. The corporation shall be a nonprofit corporation organized under the laws of the State in which the project is located, and the tenants of the project shall be the sole voting members of the corporation. If there is no elected resident council, a majority of the households of the public housing project shall approve the establishment of a resident council to determine the feasibility of establishing a resident management corporation to manage the project.
 
 #### (2) Public housing management specialist
 
@@ -36,7 +36,7 @@ The purpose of this section is to encourage increased resident management of pub
 
 A contract under this section for management of a public housing project by a resident management corporation shall provide for—
 
-&emsp;(1) the public housing agency to provide a portion of the assistance to agency from the Capital and Operating Funds to the resident management corporation in accordance with subsection (e) for purposes of operating the public housing project covered by the contract and performing such other eligible activities with respect to the project as may be provided under the contract;
+&emsp;(1) the public housing agency to provide a portion of the assistance to agency from the Capital and Operating Funds to the resident management corporation in accordance with subsection (e) for purposes of operating thepublic housing project covered by the contract and performing such other eligible activities with respect to the project as may be provided under the contract;
 
 &emsp;(2) the amount of income expected to be derived from the project itself (from sources such as rents and charges);
 
@@ -72,7 +72,7 @@ A contract under this section for management of a public housing project by a re
 
 #### (2) Use of assistance
 
-&emsp;Any assistance from the Operating and Capital Funds provided to a resident management corporation pursuant to this subsection shallbe used for purposes of operating the public housing developments of the agency and performing such other eligible activities with respect to public housing as may be provided under the contract.
+&emsp;Any assistance from the Operating and Capital Funds provided to a resident management corporation pursuant to this subsection shall be used for purposes of operating the public housing developments of the agency and performing such other eligible activities with respect to public housing as may be provided under the contract.
 
 #### (3) Responsibility of public housing agency
 

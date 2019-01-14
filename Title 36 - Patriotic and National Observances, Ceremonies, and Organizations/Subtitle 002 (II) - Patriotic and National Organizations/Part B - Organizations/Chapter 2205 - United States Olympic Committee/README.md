@@ -32,14 +32,39 @@
 | [220527\.](Subchapter%20002%20%28II%29%20-%20National%20Governing%20Bodies/%C2%A7%20220527%20-%20Complaints%20against%20national%20governing%20bodies.md) | Complaints against national governing bodies. |
 | [220528\.](Subchapter%20002%20%28II%29%20-%20National%20Governing%20Bodies/%C2%A7%20220528%20-%20Applications%20to%20replace%20an%20incumbent%20national%20governing%20body.md) | Applications to replace an incumbent national governing body. |
 | [220529\.](Subchapter%20002%20%28II%29%20-%20National%20Governing%20Bodies/%C2%A7%20220529%20-%20Arbitration%20of%20corporation%20determinations.md) | Arbitration of corporation determinations. |
+| [220530\.](Subchapter%20002%20%28II%29%20-%20National%20Governing%20Bodies/%C2%A7%20220530%20-%20Other%20amateur%20sports%20organizations.md) | Other amateur sports organizations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER III <sup>1</sup> —GRANT TO KEEP YOUNG ATHLETES SAFE
+
+|  |  |
+| :--- | ---: |
+| [220531\.](Subchapter%20003%20%28III%29%20-%20Grant%20to%20Keep%20Young%20Athletes%20Safe/%C2%A7%20220531%20-%20Grant%20to%20protect%20young%20athletes%20from%20abuse.md) | Grant to protect young athletes from abuse. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER III <sup>1</sup> —UNITED STATES CENTER FOR SAFE SPORT
+
+|  |  |
+| :--- | ---: |
+| [220541\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Center%20for%20Safe%20Sport/%C2%A7%20220541%20-%20Designation%20of%20United%20States%20Center%20for%20Safe%20Sport.md) | Designation of United States Center for Safe Sport. |
+| [220542\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Center%20for%20Safe%20Sport/%C2%A7%20220542%20-%20Additional%20duties.1.md) | Additional duties. |
+| [220543\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Center%20for%20Safe%20Sport/%C2%A7%20220543%20-%20Records%2C%20audits%2C%20and%20reports.md) | Records, audits, and reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+<b>2018</b>—Pub. L. 115–141, div. S, title III, §302(b), Mar. 23, 2018, 132 Stat. 1128, added item for subchapter III relating to grant to keep young athletes safe and item 220531.
+
+Pub. L. 115–126, title II, §§202(c), 204(b), Feb. 14, 2018, 132 Stat. 323, 325, added item for subchapter III relating to United States Center for Safe Sport and items 220530 and 220541 to 220543.
+
 <b>2006</b>—Pub. L. 109–284, §5(12), Sept. 27, 2006, 120 Stat. 1212, substituted "Short title and definitions" for "Definitions" in item 220501.
 
 <b>1998</b>—Pub. L. 105–277, div. C. title I, §142(j)(2), (k)(2), Oct. 21, 1998, 112 Stat. 2681–606, 2681–607, substituted "Report" for "Annual report" in item 220511 and added item 220512.
+
+<i><sup>1</sup></i><i> So in original. Two items for subchapter III have been enacted.</i>
 
 
 ---
@@ -48,3 +73,5 @@
 
 - [Subchapter 001 (I) - Corporation](Subchapter%20001%20%28I%29%20-%20Corporation/README.md)
 - [Subchapter 002 (II) - National Governing Bodies](Subchapter%20002%20%28II%29%20-%20National%20Governing%20Bodies/README.md)
+- [Subchapter 003 (III) - Grant to Keep Young Athletes Safe](Subchapter%20003%20%28III%29%20-%20Grant%20to%20Keep%20Young%20Athletes%20Safe/README.md)
+- [Subchapter 003 (III) - United States Center for Safe Sport](Subchapter%20003%20%28III%29%20-%20United%20States%20Center%20for%20Safe%20Sport/README.md)

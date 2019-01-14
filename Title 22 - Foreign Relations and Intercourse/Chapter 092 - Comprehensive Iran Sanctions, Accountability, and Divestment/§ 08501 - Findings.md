@@ -20,7 +20,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(B) Iran's ongoing clandestine nuclear program, as evidenced by its work on the secret uranium enrichment facility at Qom, its subsequent refusal to cooperate fully with inspectors from the International Atomic Energy Agency, and its announcement that it would build 10 new uranium enrichment facilities.
 
-&emsp;&emsp;(C) Iran's official notification to the International Atomic Energy Agency that itwould enrich uranium to the 20 percent level, followed soon thereafter by its providing to that Agency a laboratory result showing that Iran had indeed enriched some uranium to 19.8 percent.
+&emsp;&emsp;(C) Iran's official notification to the International Atomic Energy Agency that it would enrich uranium to the 20 percent level, followed soon thereafter by its providing to that Agency a laboratory result showing that Iran had indeed enriched some uranium to 19.8 percent.
 
 &emsp;&emsp;(D) A February 18, 2010, report by the International Atomic Energy Agency expressing "concerns about the possible existence in Iran of past or current undisclosed activities related to the development of a nuclear payload for a missile. These alleged activities consist of a number of projects and sub-projects, covering nuclear and missile related aspects, run by military-related organizations.".
 

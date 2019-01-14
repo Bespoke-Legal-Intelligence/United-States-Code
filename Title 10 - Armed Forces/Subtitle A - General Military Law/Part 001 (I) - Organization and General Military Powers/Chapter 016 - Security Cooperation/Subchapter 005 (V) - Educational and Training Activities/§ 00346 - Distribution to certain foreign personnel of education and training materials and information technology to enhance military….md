@@ -2,7 +2,7 @@
 
 (a)
 
-Distribution Authorized.—To enhance interoperability between the armed forces andmilitary forces of friendly foreign countries, the Secretary of Defense, with the concurrence of the Secretary of State, may—
+Distribution Authorized.—To enhance interoperability between the armed forces and military forces of friendly foreign countries, the Secretary of Defense, with the concurrence of the Secretary of State, may—
 
 &emsp;(1) provide to personnel referred to in subsection (b) electronically-distributed learning content for the education and training of such personnel for the development or enhancement of allied and friendly military and civilian capabilities for multinational operations, including joint exercises and coalition operations; and
 

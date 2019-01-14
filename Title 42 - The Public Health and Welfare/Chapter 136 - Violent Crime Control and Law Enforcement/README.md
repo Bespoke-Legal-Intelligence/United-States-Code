@@ -30,9 +30,9 @@
 
 #### Part B—Local Crime Prevention Block Grant Program
 
-|  |
-| :--- |
-| 13751 to 13758. Repealed. |
+|  |  |
+| :--- | ---: |
+| 13751 to 13758. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,9 +54,9 @@
 
 #### Part E—Assistance for Delinquent and At-Risk Youth
 
-|  |
-| :--- |
-| 13801, 13802. Repealed. |
+|  |  |
+| :--- | ---: |
+| 13801, 13802. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -376,9 +376,9 @@
 
 #### SUBCHAPTER VI—CRIMES AGAINST CHILDREN
 
-|  |
-| :--- |
-| 14071 to 14073. Repealed. |
+|  |  |
+| :--- | ---: |
+| 14071 to 14073. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

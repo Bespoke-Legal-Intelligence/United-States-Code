@@ -90,7 +90,7 @@ Pub. L. 102–244, §4, Feb. 7, 1992, 106 Stat. 4, provided that:
 
 "(a)
 
-In General.—Notwithstanding any other provision of law, if a qualified taxpayer is required to pay additional taxes for taxable years beginning in 1991 with respect to any employment in any State by reason of such State being declared a credit reduction State, such taxpayer may elect to defer the filing and payment of such additional taxes to a date no later than June 30, 1992.
+In General.—Notwithstanding any other provision of law, if a qualified taxpayer is required to pay additional taxes for taxable years beginning in 1991with respect to any employment in any State by reason of such State being declared a credit reduction State, such taxpayer may elect to defer the filing and payment of such additional taxes to a date no later than June 30, 1992.
 
 "(b)
 

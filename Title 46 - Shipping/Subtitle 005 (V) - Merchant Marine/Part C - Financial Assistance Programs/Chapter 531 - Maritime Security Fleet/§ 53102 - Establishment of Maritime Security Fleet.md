@@ -20,7 +20,7 @@ Vessel Eligibility.—A vessel is eligible to be included in the Fleet if—
 
 &emsp;(4) the vessel—
 
-&emsp;&emsp;(A) is suitable for use by the United States for national defense or military purposes in time of war or national emergency, as determined by the Secretary of Defense; and
+&emsp;&emsp;(A) is suitable for use by the United States for national defense or military purposes intime of war or national emergency, as determined by the Secretary of Defense; and
 
 &emsp;&emsp;(B) is commercially viable, as determined by the Secretary; and
 
@@ -158,7 +158,7 @@ Subsec. (g). Pub. L. 114–328, §3502(a)(1), added subsec. (g).
 
 Subsec. (d). Pub. L. 109–304, §13(a)(1)(C), substituted "section 501 of this title" for "the first section of Public Law 81–891 (64 Stat. 1120; 46 U.S.C. App. note prec. 3)".
 
-Subsec. (e)(1). Pub. L. 109–304, §13(a)(1)(D), substituted "documented under chapter 121 of this title," for "adocumented vessel (as that term is defined in section 12101 of this title)" in introductory provisions and "documented under chapter 121" for "a documented vessel (as defined in that section)" in subpar. (B).
+Subsec. (e)(1). Pub. L. 109–304, §13(a)(1)(D), substituted "documented under chapter 121 of this title," for "a documented vessel (as that term is defined in section 12101 of this title)" in introductory provisions and "documented under chapter 121" for "a documented vessel (as defined in that section)" in subpar. (B).
 
 #### Vessel Standards
 

@@ -30,7 +30,7 @@
 
 (2) The Secretary concerned may not make an exchange under paragraph (1) unless the monetary value of property transferred, or services provided, to the United States under the exchange is not less than the value of the property transferred by the United States. The Secretary concerned may waive the limitation in the preceding sentence in the case of an exchange of property for property in any case in which the Secretary determines that the item to be received by the United States in the exchange will significantly enhance the historical collection of the property administered by the Secretary.
 
-(c) This section applies to the following types of property held by a military department or the Coast Guard: books, manuscripts, works of art, historical artifacts, drawings, plans, models, and condemned or obsolete combat materiel.
+(c) This section applies to the following types of property held by a military department or theCoast Guard: books, manuscripts, works of art, historical artifacts, drawings, plans, models, and condemned or obsolete combat materiel.
 
 (d)(1) A loan or gift made under this section shall be subject to regulations prescribed by the Secretary concerned and to regulations under section 121 of title 40. The Secretary concerned shall ensure that an item authorized to be donated under this section is demilitarized in the interest of public safety, as determined necessary by the Secretary or the Secretary's delegee.
 
@@ -100,7 +100,7 @@ Subsec. (a)(2). Pub. L. 107–107, §1043(d)(2), substituted "servicemen's monum
 
 Subsec. (a)(4). Pub. L. 107–107, §1043(d)(3), inserted "or memorial" after "An incorporated museum".
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–106 substituted "not needed by the armed forces for any of the following items or services if such items or services directly benefit the historical collection of the armed forces:" for "not needed by the armed forces for similar items held by any individual, organization, institution, agency, or nation or for search, salvage, transportation, and restoration services which directly benefit the historical collection of the armed forces." and added subpars. (A) to (E).
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–106 substituted "not needed by the armed forces for any of the following items or services if such items or services directly benefit the historical collection of the armed forces:" for "not needed by the armed forces for similar items held by any individual, organization, institution, agency, or nation or for search, salvage, transportation, and restoration services which directly benefit the historicalcollection of the armed forces." and added subpars. (A) to (E).
 
 <b>1994</b>—Subsec. (b)(1). Pub. L. 103–337 inserted "transportation," after "salvage,".
 
@@ -136,7 +136,7 @@ Pub. L. 115–91, div. B, title XXVIII, §2864(d), Dec. 12, 2017, 131 Stat. 1869
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1980 Amendment
 

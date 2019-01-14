@@ -58,7 +58,7 @@ Guidance Required.—The Secretary of Defense shall develop and issue guidance t
 
 &emsp;"(1) of the Department, in the case of the Director of Small Business Programs in the Department of Defense; and
 
-&emsp;"(2) of the military department concerned, in the case of the Director of Small Business Programs in the Department of the Army, in the Department of the Navy, and in the Department of the Air Force.
+&emsp;"(2) of the military department concerned, in the case of the Director of Small Business Programs inthe Department of the Army, in the Department of the Navy, and in the Department of the Air Force.
 
 "(b)
 

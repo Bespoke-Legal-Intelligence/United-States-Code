@@ -8,19 +8,16 @@
 | [950d.](%C2%A7%2000950d%20-%20Interlocutory%20appeals%20by%20the%20United%20States.md) | Interlocutory appeals by the United States. |
 | [950e.](%C2%A7%2000950e%20-%20Rehearings.md) | Rehearings. |
 | [950f.](%C2%A7%2000950f%20-%20Review%20by%20United%20States%20Court%20of%20Military%20Commission%20Review.md) | Review by United States Court of Military Commission Review. |
-| [950g.](%C2%A7%2000950g%20-%20Review%20by%20United%20States%20Court%20of%20Appeals%20for%20the%20District%20of%20Columbia%20Circuit%3B%20writ%20of%20certiorari%20to%20Supreme%20Court.md) | Review by United States Court of Court of Appeals for the District of Columbia Circuit; writ of certiorari to Supreme Court.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [950g.](%C2%A7%2000950g%20-%20Review%20by%20United%20States%20Court%20of%20Appeals%20for%20the%20District%20of%20Columbia%20Circuit%3B%20writ%20of%20certiorari%20to%20Supreme%20Court.md) | Review by United States Court of Appeals for the District of Columbia Circuit; writ of certiorari to Supreme Court. |
 | [950h.](%C2%A7%2000950h%20-%20Appellate%20counsel.md) | Appellate counsel. |
 | [950i.](%C2%A7%2000950i%20-%20Execution%20of%20sentence%3B%20suspension%20of%20sentence.md) | Execution of sentence; suspension of sentence. |
 | [950j.](%C2%A7%2000950j%20-%20Finality%20of%20proceedings%2C%20findings%2C%20and%20sentences.md) | Finality of proceedings, findings, and sentences. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(a)(11), Aug. 13, 2018, 132 Stat. 1983, substituted "United States Court of Appeals" for "United States Court of Court of Appeals" in item 950g.
 
 
 ---

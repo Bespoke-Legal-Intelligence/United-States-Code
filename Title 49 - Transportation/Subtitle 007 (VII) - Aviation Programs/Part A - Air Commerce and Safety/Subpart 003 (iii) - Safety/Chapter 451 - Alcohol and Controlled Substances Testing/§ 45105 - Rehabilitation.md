@@ -2,7 +2,7 @@
 
 (a)
 
-Program for Employees of Air Carriers and Foreign Air Carriers.—The Administrator of the Federal Aviation Administration shall prescribe regulations establishing requirements for rehabilitation programs that at least provide for the identification and opportunity for treatment of employees of air carriers and foreign air carriers referred to in section 45102(a)(1) of this title who need assistance in resolving problems with the use of alcohol or a controlled substance in violation of law or a United States Government regulation. Each air carrier and foreign air carrier is encouraged to make such a program available to all its employees in addition to the employees referred to in section 45102(a)(1). The Administrator shall decide on the circumstances under which employees shall be required to participate in a program. This subsection does not prevent an air carrier or foreign air carrier from establishing a program under this subsection in cooperation with another air carrier or foreign air carrier.
+Program for Employees of Air Carriers and Foreign Air Carriers.—The Administrator of the Federal Aviation Administration shall prescribe regulations establishing requirements for rehabilitation programs that at least provide for the identification and opportunity for treatment of employees of air carriers and foreign air carriers referred to in section 45102(a)(1) of this title who need assistance in resolving problems with the use of alcohol or a controlled substance in violation of law or a United States Government regulation. Each air carrier and foreign air carrier is encouraged to make such a program available to all its employees in addition to theemployees referred to in section 45102(a)(1). The Administrator shall decide on the circumstances under which employees shall be required to participate in a program. This subsection does not prevent an air carrier or foreign air carrier from establishing a program under this subsection in cooperation with another air carrier or foreign air carrier.
 
 (b)
 
@@ -45,6 +45,10 @@ This amends 49:45105(a) to correct an error in the codification enacted by secti
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Prioritizing and Supporting the Human Intervention Motivation Study (HIMS) Program and the Flight Attendant Drug and Alcohol Program (FADAP)
+
+Pub. L. 115–254, div. B, title V, §554(a), Oct. 5, 2018, 132 Stat. 3380, provided that: "The \[Federal Aviation\] Administration shall continue to prioritize and support the Human Intervention Motivation Study (HIMS) program for flight crewmembers and the Flight Attendant Drug and Alcohol Program (FADAP) for flight attendants."
 
 #### Human Intervention Motivation Study
 

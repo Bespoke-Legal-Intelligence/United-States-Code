@@ -12,7 +12,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;(2) conduct, directly or by grant or contract with public or private organizations, ongoing, extensive recruitment efforts on a national level, including efforts to promote the adoption of older children, minority children, and children with special needs, develop national public awareness efforts to unite children in need of adoption with appropriate adoptive parents, and establish a coordinated referral system of recruited families with appropriate State or regional adoption resources to ensure that families are served in a timely fashion;
 
-&emsp;(3) notwithstanding any other provision of law, provide (directly or by grant to or contract with public or private agencies or organizations) for (A) the operation of a national adoption information exchange system (including only such information as is necessary to facilitate the adoptive placement of children, utilizing computers and data processing methods to assist in the location of children who would benefit by adoption and in the placement in adoptive homes of children awaiting adoption); and (B) the coordination of such system with similar State and regional systems;
+&emsp;(3) notwithstanding any other provision of law, provide (directly or by grant to or contract with public or private agencies or organizations) for (A) the operation of a national adoption information exchange system (including only such information as is necessary to facilitate the adoptive placement of children, utilizing computers and data processing methods to assist in the location of children who would benefit by adoption and in theplacement in adoptive homes of children awaiting adoption); and (B) the coordination of such system with similar State and regional systems;
 
 &emsp;(4) provide (directly or by grant to or contract with public or private agencies or organizations, including adoptive family groups and minority groups) for the provision of technical assistance in the planning, improving, developing, and carrying out of programs and activities relating to adoption, and to promote professional leadership training of minorities in the adoption field;
 
@@ -160,7 +160,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;&emsp;(D) developing training materials and training social workers on preparing and moving children across State lines; and
 
-&emsp;&emsp;(E) developing and supporting initiative models for networking among agencies, adoption exchanges, and parent support groups across jurisdictional boundaries.
+&emsp;&emsp;(E) developing and supporting initiative models for networking among agencies,adoption exchanges, and parent support groups across jurisdictional boundaries.
 
 (Pub. L. 95–266, title II, §203, Apr. 24, 1978, 92 Stat. 209; Pub. L. 98–457, title II, §203, Oct. 9, 1984, 98 Stat. 1756; Pub. L. 100–294, title II, §202, Apr. 25, 1988, 102 Stat. 122; Pub. L. 102–295, title IV, §403, May 28, 1992, 106 Stat. 213; Pub. L. 104–235, title II, §212, Oct. 3, 1996, 110 Stat. 3090; Pub. L. 108–36, title II, §202, June 25, 2003, 117 Stat. 819; Pub. L. 111–320, title III, §301(b), Dec. 20, 2010, 124 Stat. 3511.)
 

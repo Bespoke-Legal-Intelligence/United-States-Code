@@ -132,7 +132,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) was purchased to cover payment of burial expenses or in connection with prearranged funeral expenses.
 
-> &emsp;For purposes of subparagraph (C), the initial death benefit of a contract shall be determined by treating all contracts issued to the same contract owner as 1 contract.
+> &emsp;For purposes of subparagraph (C), the initial death benefit of a contract shall be determinedby treating all contracts issued to the same contract owner as 1 contract.
 
 #### (f) Other definitions and special rules
 
@@ -232,7 +232,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of a contract to which subsection (a)(2) applies, the greater of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the excess of the aggregate premiums paid under the contract, immediately before the reduction, over the guideline premium limitation for the contract (determined under subsection (c)(2), taking into account the adjustment described in subparagraph (A)), or
+&emsp;&emsp;&emsp;&emsp;(I) the excess of the aggregate premiums paid under the contract, immediately before the reduction, over the guideline premium limitation for thecontract (determined under subsection (c)(2), taking into account the adjustment described in subparagraph (A)), or
 
 &emsp;&emsp;&emsp;&emsp;(II) the excess of the cash surrender value of the contract, immediately before the reduction, over the cash value corridor of subsection (d) (determined immediately after the reduction).
 
@@ -300,7 +300,7 @@ For purposes of this section—
 
 #### (3) Contract continues to be treated as insurance contract
 
-&emsp;If any contract which is a life insurance contract under the applicable law does not meet the definition of life insurance contract under subsection (a), such contract shall, notwithstanding such failure, be treated as an insurance contract for purposes of this title.
+&emsp;If any contract which is a life insurance contract under the applicable law does not meetthe definition of life insurance contract under subsection (a), such contract shall, notwithstanding such failure, be treated as an insurance contract for purposes of this title.
 
 #### (h) Endowment contracts receive same treatment
 
@@ -394,7 +394,7 @@ Subsec. (f)(1)(A). Pub. L. 99–514, §1825(b)(2), substituted "less any excess 
 
 Subsec. (f)(7). Pub. L. 99–514, §1825(b)(1), amended par. (7) generally. Prior to amendment, par. (7)(A), in general, read as follows: "In the event of a change in the future benefits or any qualified additional benefit (or in any other terms) under the contract which was not reflected in any previous determination made under this section, under regulations prescribed by the Secretary, there shall be proper adjustments in future determinations made under this section.", and par. (7)(B), certain changes treated as exchange, read as follows: "In the case of any change which reduces the future benefits under the contract, such change shall be treated as an exchange of the contract for another contract."
 
-Subsec. (g)(1)(B)(ii). Pub. L. 99–514, §1825(c), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the amount of premiums paid under the contract during the taxable year reduced by any policyholder dividends received during such taxable year."
+Subsec. (g)(1)(B)(ii). Pub. L. 99–514, §1825(c), amended cl. (ii) generally. Prior to amendment, cl. (ii) read asfollows: "the amount of premiums paid under the contract during the taxable year reduced by any policyholder dividends received during such taxable year."
 
 #### Effective Date of 2017 Amendment
 
@@ -468,7 +468,7 @@ In general.—Except as provided in subclause (II), terms used in clause (i) sha
 
 &emsp;&emsp;&emsp;"(II)
 
-Net single premium.—The term 'net single premium' shall be determined by substituting '3 percent' for '4 percent' in section 7702(b)(2) ofsuch Code, by using the 1958 standard ordinary mortality and morbidity tables of the National Association of Insurance Commissioners, and by assuming a level death benefit.
+Net single premium.—The term 'net single premium' shall be determined by substituting '3 percent' for '4 percent' in section 7702(b)(2) of such Code, by using the 1958 standard ordinary mortality and morbidity tables of the National Association of Insurance Commissioners, and by assuming a level death benefit.
 
 "(3)
 
@@ -496,7 +496,7 @@ Standards before regulations take effect.—In the case of any contract to which
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Treatment of Flexible Premium Contracts Issued During 1984 Which Meet New Requirements
 

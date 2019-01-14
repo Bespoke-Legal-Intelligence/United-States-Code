@@ -32,7 +32,7 @@ The Administrator of General Services shall provide to the Council, on a reimbur
 
 (1) The Council may establish, for such period of time as the Council determines appropriate, subcouncils of public and private leaders to analyze specific competitive issues.
 
-(2) Any such subcouncil shall include representatives of business, labor, government, and other individuals or representatives of groups whose participation is considered by the Councilto be important to developing a full understanding of the subject with which the subcouncil is concerned.
+(2) Any such subcouncil shall include representatives of business, labor, government, and other individuals or representatives of groups whose participation is considered by the Council to be important to developing a full understanding of the subject with which the subcouncil is concerned.
 
 (3) Any such subcouncil shall include a representative of the Federal Government.
 

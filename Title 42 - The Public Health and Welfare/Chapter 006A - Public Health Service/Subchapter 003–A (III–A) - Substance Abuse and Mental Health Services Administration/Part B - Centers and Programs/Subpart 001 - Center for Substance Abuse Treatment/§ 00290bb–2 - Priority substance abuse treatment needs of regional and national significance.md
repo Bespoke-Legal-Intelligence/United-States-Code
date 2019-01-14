@@ -20,7 +20,7 @@ The Secretary shall address priority substance use disorder treatment needs of r
 
 #### (2) Special consideration
 
-&emsp;In developing program priorities under paragraph (1), the Secretary shall give special consideration to promoting the integration of substance use disorder treatment services into primary health care systems.
+&emsp;In developing program priorities under paragraph (1), the Secretary shall give special consideration to promoting the integration ofsubstance use disorder treatment services into primary health care systems.
 
 #### (c) Requirements
 
@@ -34,7 +34,7 @@ The Secretary shall address priority substance use disorder treatment needs of r
 
 #### (3) Matching funds
 
-&emsp;The Secretary may, for projects carried out under subsection (a), require that entities thatapply for grants, contracts, or cooperative agreements under that project provide non-Federal matching funds, as determined appropriate by the Secretary, to ensure the institutional commitment of the entity to the projects funded under the grant, contract, or cooperative agreement. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
+&emsp;The Secretary may, for projects carried out under subsection (a), require that entities that apply for grants, contracts, or cooperative agreements under that project provide non-Federal matching funds, as determined appropriate by the Secretary, to ensure the institutional commitment of the entity to the projects funded under the grant, contract, or cooperative agreement. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
 
 #### (4) Maintenance of effort
 

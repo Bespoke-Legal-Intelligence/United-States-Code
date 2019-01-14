@@ -112,7 +112,7 @@
 
 #### (3) Right of representation
 
-&emsp;If, under this subsection, all or any part of the estate of a decedent is to pass to children of a deceased child by right of representation, that part is to be divided into as many equal shares as there are living children of the decedent and pre-deceased children who left issuewho survive the decedent. Each living child of the decedent, if any, shall receive 1 share, and the share of each pre-deceased child shall be divided equally among the pre-deceased child's children.
+&emsp;If, under this subsection, all or any part of the estate of a decedent is to pass to children of a deceased child by right of representation, that part is to be divided into as many equal shares as there are living children of the decedent and pre-deceased children who left issue who survive the decedent. Each living child of the decedent, if any, shall receive 1 share, and the share of each pre-deceased child shall be divided equally among the pre-deceased child's children.
 
 #### (4) Special rule relating to survival
 
@@ -124,7 +124,7 @@
 
 #### (5) Status of inherited interests
 
-&emsp;Except as provided in paragraphs (2)(A) and (D) regarding the life estate of a surviving spouse, a trust or restricted interest in land or trust personalty that descends under the provisions of this subsection shall vest in the heir in the same trust or restricted status as such interest was held immediately prior to the decedent's death.
+&emsp;Except as provided in paragraphs (2)(A) and (D) regarding the life estate of a surviving spouse, a trust or restricted interest in land or trust personalty that descends under the provisions of this subsection shall vest in the heir in the same trust or restricted status as suchinterest was held immediately prior to the decedent's death.
 
 #### (2) <sup>3</sup> Intestate descent of permanent improvements
 
@@ -200,7 +200,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Notwithstanding clause (i), in any case in which a resolution, law, or other dulyadopted enactment of the Indian tribe with jurisdiction over the land of which an interest described in clause (i) is a part requests the Secretary to apply subparagraph (A)(ii) to devises of trust or restricted land under the jurisdiction of the Indian tribe, the interest may be devised in fee in accordance with subparagraph (A)(ii).
+&emsp;&emsp;&emsp;&emsp;Notwithstanding clause (i), in any case in which a resolution, law, or other duly adopted enactment of the Indian tribe with jurisdiction over the land of which an interest described in clause (i) is a part requests the Secretary to apply subparagraph (A)(ii) to devises of trust or restricted land under the jurisdiction of the Indian tribe, the interest may be devised in fee in accordance with subparagraph (A)(ii).
 
 #### (II) Effect
 
@@ -208,7 +208,7 @@
 
 #### (III) Notice of request
 
-&emsp;&emsp;&emsp;&emsp;An Indian tribe shall provide to the Secretary a copy of any resolution, law, or other enactment of the Indian tribe that requests the Secretary to apply subparagraph (A)(ii) to devises of trust or restricted land under the jurisdiction of the Indian tribe.
+&emsp;&emsp;&emsp;&emsp;An Indian tribe shall provide to the Secretary a copy of any resolution, law, or other enactment of the Indian tribe that requests the Secretary to apply subparagraph (A)(ii) to devises of trust orrestricted land under the jurisdiction of the Indian tribe.
 
 #### (iii) Effect
 
@@ -450,7 +450,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (A) In general
 
-&emsp;&emsp;If a person has been charged, whether by indictment, information, or otherwise by the United States, a tribe, or any State, with voluntary manslaughter or homicide in connection with a decedent's death, then any and all trust or restricted land or trust personalty that would otherwise pass to that person from the decedent's estate shall not pass or be distributed by the Secretary until the charges have been resolved in accordance with the provisions of this paragraph.
+&emsp;&emsp;If a person has been charged, whether by indictment, information, or otherwise by theUnited States, a tribe, or any State, with voluntary manslaughter or homicide in connection with a decedent's death, then any and all trust or restricted land or trust personalty that would otherwise pass to that person from the decedent's estate shall not pass or be distributed by the Secretary until the charges have been resolved in accordance with the provisions of this paragraph.
 
 #### (B) Dismissal or withdrawal
 
@@ -514,7 +514,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a testator executed the will of the testator before the birth or adoption of 1 ormore children of the testator, and the omission of the children from the will is a product of inadvertence rather than an intentional omission, the children shall share in the trust or restricted interests in land and trust personalty as if the decedent had died intestate.
+&emsp;&emsp;&emsp;If a testator executed the will of the testator before the birth or adoption of 1 or more children of the testator, and the omission of the children from the will is a product of inadvertence rather than an intentional omission, the children shall share in the trust or restricted interests in land and trust personalty as if the decedent had died intestate.
 
 #### (ii) Adopted heirs
 
@@ -584,7 +584,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (B) Combined notices
 
-&emsp;&emsp;The notice under subparagraph (A) may, at the discretion of the Secretary, be providedwith the notice required under subsection (a) of section 8 of the American Indian Probate Reform Act of 2004.
+&emsp;&emsp;The notice under subparagraph (A) may, at the discretion of the Secretary, be provided with the notice required under subsection (a) of section 8 of the American Indian Probate Reform Act of 2004.
 
 #### (8) Renunciation or disclaimer of interests
 
@@ -670,7 +670,7 @@ After receiving a written request by any owner of a trust or restricted interest
 
 #### (B) Limitation
 
-&emsp;&emsp;The organization or activities of any entity under the pilot project shall not be construed to impair, impede, replace, abrogate, or modify in any respect the trust duties or responsibilities of the Secretary, nor shall anything in this subsection or in any rules, regulations, or guidelines developed under this subsection enable any private or family trustee of trust or restricted interests in land to exercise any powers over such interests greater than that held by the Secretary with respect to such interests.
+&emsp;&emsp;The organization or activities of any entity under the pilot project shall not be construed to impair, impede, replace, abrogate, or modify in any respect the trust duties orresponsibilities of the Secretary, nor shall anything in this subsection or in any rules, regulations, or guidelines developed under this subsection enable any private or family trustee of trust or restricted interests in land to exercise any powers over such interests greater than that held by the Secretary with respect to such interests.
 
 #### (C) Secretarial approval of transactions
 
@@ -820,7 +820,7 @@ Act of July 8, 1940, referred to in subsec. (j)(2)(B)(ii), is act July 8, 1940, 
 
 #### Prior Provisions
 
-A prior section 2206, Pub. L. 97–459, title II, §207, Jan. 12, 1983, 96 Stat. 2519; Pub. L. 98–608, §1(4), Oct. 30, 1984, 98 Stat. 3172; Pub. L. 101–644, title III, §301(a), Nov. 29, 1990, 104 Stat. 4666, related to escheat to tribe of trust or restricted or controlled lands, fractional interests, and Indian tribal codes, prior to repeal by Pub. L. 106–462, title I, §103(4), Nov. 7, 2000, 114 Stat. 1995.
+A prior section 2206, Pub. L. 97–459, title II, §207, Jan. 12, 1983, 96 Stat. 2519; Pub. L. 98–608, §1(4), Oct. 30, 1984,98 Stat. 3172; Pub. L. 101–644, title III, §301(a), Nov. 29, 1990, 104 Stat. 4666, related to escheat to tribe of trust or restricted or controlled lands, fractional interests, and Indian tribal codes, prior to repeal by Pub. L. 106–462, title I, §103(4), Nov. 7, 2000, 114 Stat. 1995.
 
 #### Amendments
 

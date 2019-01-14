@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after July 29, 2010, the Secretary shall establish procedures to enter into memoranda of agreement for the use (with or without reimbursement) of the personnel or facilities of a Federal, tribal, State, or other government agency to aid in the enforcement or carrying out in Indian country of a law of either the United States oran Indian tribe that has authorized the Secretary to enforce tribal laws.
+&emsp;Not later than 180 days after July 29, 2010, the Secretary shall establish procedures to enter into memoranda of agreement for the use (with or without reimbursement) of the personnel or facilities of a Federal, tribal, State, or other government agency to aid in the enforcement or carrying out in Indian country of a law of either the United States or an Indian tribe that has authorized the Secretary to enforce tribal laws.
 
 #### (2) Certain activities
 

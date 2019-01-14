@@ -35,12 +35,7 @@
 | [1076e.](%C2%A7%2001076e%20-%20TRICARE%20program%20TRICARE%20Retired%20Reserve%20coverage%20for%20certain%20members%20of%20the%20Retired%20Reserve%20who%20are%20qualified%20for%20a%20non-regular%E2%80%A6.md) | TRICARE program: TRICARE Retired Reserve coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60. |
 | [1076f.](%C2%A7%2001076f%20-%20TRICARE%20program%20extension%20of%20coverage%20for%20certain%20members%20of%20the%20National%20Guard%20and%20dependents%20during%20certain%20disaster%20response%20duty.md) | TRICARE program: extension of coverage for certain members of the National Guard and dependents during certain disaster response duty. |
 | [1077\.](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md) | Medical care for dependents: authorized care in facilities of uniformed services. |
-| [1077a.](%C2%A7%2001077a%20-%20Access%20to%20military%20medical%20treatment%20facilities%20and%20other%20facilities.md) | Access to military medical treatment facilities and other facilities <sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [1077a.](%C2%A7%2001077a%20-%20Access%20to%20military%20medical%20treatment%20facilities%20and%20other%20facilities.md) | Access to military medical treatment facilities and other facilities. |
 | [1078\.](%C2%A7%2001078%20-%20Medical%20and%20dental%20care%20for%20dependents%20charges.md) | Medical and dental care for dependents: charges. |
 | [1078a.](%C2%A7%2001078a%20-%20Continued%20health%20benefits%20coverage.md) | Continued health benefits coverage. |
 | [1078b.](%C2%A7%2001078b%20-%20Provision%20of%20food%20to%20certain%20members%20and%20dependents%20not%20receiving%20inpatient%20care%20in%20military%20medical%20treatment%20facilities.md) | Provision of food to certain members and dependents not receiving inpatient care in military medical treatment facilities. |
@@ -102,6 +97,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(a)(13), Aug. 13, 2018, 132 Stat. 1984, inserted period at end of item 1077a.
 
 <b>2017</b>—Pub. L. 115–91, div. A, title VII, §703(a)(2), Dec. 12, 2017, 131 Stat. 1435, added item 1074<i>o.</i>
 
@@ -169,7 +166,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 
 <b>1985</b>—Pub. L. 99–145, title VI, §§651(a)(2), 653(a)(2), Nov. 8, 1985, 99 Stat. 656, 658, added items 1076a and 1094.
 
-<b>1984</b>—Pub. L. 98–525, title VI, §631(a)(2), title XIV, §1401(e)(2)(B), (5)(B), Oct. 19, 1984, 98 Stat. 2543, 2616, 2618, substituted in item 1074a "Medical and dental care: members on duty other than active duty; injuries, diseases, and illnesses incident to duty" for "Medical and dental care for members of the uniformed services for injuries incurred or aggravated while traveling to and from inactive duty training" and added items 1074b and 1093.
+<b>1984</b>—Pub. L. 98–525, title VI, §631(a)(2), title XIV, §1401(e)(2)(B), (5)(B), Oct. 19, 1984, 98 Stat. 2543, 2616, 2618, substituted in item 1074a "Medical and dental care: members on duty other than active duty; injuries, diseases, and illnesses incident to duty" for "Medical and dental care for members of the uniformed services for injuries incurred or aggravated while traveling toand from inactive duty training" and added items 1074b and 1093.
 
 <b>1983</b>—Pub. L. 98–94, title IX, §§932(a)(2), 933(a)(2), title X, §1012(a)(2), title XII, §1268(5)(B), Sept. 24, 1983, 97 Stat. 650, 651, 665, 706, added items 1074a, 1091, and 1092, and struck out "; reports" at end of item 1081.
 
@@ -186,8 +183,6 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 <b>1965</b>—Pub. L. 89–264, §2, Oct. 19, 1965, 79 Stat. 989, substituted "executive department" for "uniformed service" in item 1085.
 
 <b>1958</b>—Pub. L. 85–861, §1(25)(A), (C), Sept. 2, 1958, 72 Stat. 1445, 1450, substituted "Medical and Dental Care" for "Voting by Members of Armed Forces" in heading of chapter, and substituted items 1071 to 1085 for former items 1071 to 1086.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---

@@ -16,7 +16,7 @@
 
 (b) Whoever, otherwise than as provided by law for the proper discharge of official duties, directly or indirectly—
 
-&emsp;(1) demands, seeks, receives, accepts, or agrees to receive or accept any compensation for any representational services, as agent or attorney or otherwise, rendered or to be rendered either personally or by another, at a time when such person is an officer or employee of the District of Columbia, in relation to any proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter in which the District of Columbia is a party or has a direct and substantial interest, before any department, agency, court, officer, or commission; or
+&emsp;(1) demands, seeks, receives, accepts, or agrees to receive or accept any compensation for any representational services, as agent or attorney or otherwise, rendered or to be rendered either personally or by another, at a time when such person is an officer or employee of the District of Columbia, in relation to any proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest,or other particular matter in which the District of Columbia is a party or has a direct and substantial interest, before any department, agency, court, officer, or commission; or
 
 &emsp;(2) knowingly gives, promises, or offers any compensation for any such representational services rendered or to be rendered at a time when the person to whom the compensation is given, promised, or offered, is or was an officer or employee of the District of Columbia;
 
@@ -36,7 +36,7 @@
 
 > subject to approval by the Government official responsible for appointment to his position.
 
-(e) Nothing in this section prevents a special Government employee from acting as agent or attorney for another person in the performance of work under a grant by, or a contract with or for the benefit of, the United States if the headof the department or agency concerned with the grant or contract certifies in writing that the national interest so requires and publishes such certification in the Federal Register.
+(e) Nothing in this section prevents a special Government employee from acting as agent or attorney for another person in the performance of work under a grant by, or a contract with or for the benefit of, the United States if the head of the department or agency concerned with the grant or contract certifies in writing that the national interest so requires and publishes such certification in the Federal Register.
 
 (f) Nothing in this section prevents an individual from giving testimony under oath or from making statements required to be made under penalty of perjury.
 
@@ -80,7 +80,7 @@ Subsec. (a)(1). Pub. L. 99–646, §47(a)(1), substituted "(1) demands, seeks, r
 
 Subsec. (a)(2). Pub. L. 99–646, §47(a)(2), redesignated former subsec. (b) as par. (2) and substituted "knowingly gives" for "Whoever, knowingly, otherwise than as provided by law for the proper discharge of official duties, directly or indirectly gives" and "employee;" for "employee—".
 
-Subsecs. (b), (c). Pub. L. 99–646, §47(a)(3), (4), redesignated former subsec. (c) as (b) and substituted "parties—" for "parties", "such employee" for "he", "otherwise; or" for "otherwise, or", and "in which such employee is serving except that paragraph (2) of this subsection" for "in which he is serving: <i>Provided</i>, That clause (2)". Former subsec. (b) redesignated (a)(2).
+Subsecs. (b), (c). Pub. L. 99–646, §47(a)(3), (4), redesignated former subsec. (c) as (b) and substituted "parties—" for "parties", "such employee" for "he","otherwise; or" for "otherwise, or", and "in which such employee is serving except that paragraph (2) of this subsection" for "in which he is serving: <i>Provided</i>, That clause (2)". Former subsec. (b) redesignated (a)(2).
 
 <b>1970</b>—Subsec. (a)(1). Pub. L. 91–405, §204(d)(2), included references to Delegate from District of Columbia and Delegate Elect from District of Columbia.
 
@@ -106,7 +106,7 @@ Authority of President under subsec. (d) of this section to grant exemptions or 
 
 #### Exemptions
 
-Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, provided in part that: "All exemptions from the provisions of sections 281, 282, 283, 284, 434, or 1914 of title 18 of the United States Code heretofore created or authorized by statute which are in force on the effective date of this Act \[see Effective Date note under section 201 of this title\] shall, on and after that date, be deemed to be exemptions from sections 203, 204, 205, 207, 208, or 209, respectively, of title 18 of the United States Code except to the extent that they affect officers or employees of the executive branch of the United States Government, of any independent agency of the United States, or ofthe District of Columbia, as to whom they are no longer applicable."
+Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, provided in part that: "All exemptions from the provisions of sections 281, 282, 283, 284, 434, or 1914 of title 18 of the United States Code heretofore created or authorized by statute which are in force on the effective date of this Act \[see Effective Date note under section 201 of this title\] shall, on and after that date, be deemed to be exemptions from sections 203, 204, 205, 207, 208, or 209, respectively, of title 18 of the United States Code except to the extent that they affect officers or employees of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, as to whom they are no longer applicable."
 
 #### Private Sector Representatives on United States Delegations to International Telecommunications Meetings and Conferences
 

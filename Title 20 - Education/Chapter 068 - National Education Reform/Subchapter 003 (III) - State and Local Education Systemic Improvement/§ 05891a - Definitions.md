@@ -22,7 +22,7 @@ In this Act:
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 106–25, Apr. 29, 1999, 113 Stat. 41, known as the Education Flexibility Partnership Act of 1999, which enacted sections 5891a and 5891b of this title, amended section 1415 of this title, and enacted provisions set out as notes under sections 1415 and 5891a of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 5801 of this title and Tables.
+This Act, referred to in text, is Pub. L. 106–25, Apr. 29, 1999, 113 Stat. 41, known as the Education FlexibilityPartnership Act of 1999, which enacted sections 5891a and 5891b of this title, amended section 1415 of this title, and enacted provisions set out as notes under sections 1415 and 5891a of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 5801 of this title and Tables.
 
 #### Codification
 

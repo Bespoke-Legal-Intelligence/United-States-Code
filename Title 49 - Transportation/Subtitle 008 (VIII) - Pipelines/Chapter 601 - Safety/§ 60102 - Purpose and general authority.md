@@ -140,7 +140,7 @@ Public Safety Program Requirements.—(1) The Secretary shall include in the sta
 
 &emsp;(C) the Secretary decides will protect a facility adequately against a hazard caused by demolition, excavation, tunneling, or construction.
 
-(2) To the extent a public safety program referred to in paragraph (1) of this subsection isnot available, the Secretary shall prescribe standards requiring an operator to take action the Secretary prescribes to provide services comparable to services that would be available under a public safety program.
+(2) To the extent a public safety program referred to in paragraph (1) of this subsection is not available, the Secretary shall prescribe standards requiring an operator to take action the Secretary prescribes to provide services comparable to services that would be available under a public safety program.
 
 (3) The Secretary may include in the standards prescribed under subsection (a) of this section a requirement that an operator of a hazardous liquid pipeline facility participate in a public safety program meeting the requirements of paragraph (1) of this subsection or maintain and carry out a damage prevention program that provides services comparable to services that would be available under a public safety program.
 
@@ -202,7 +202,7 @@ Minimum safety standards.—The Secretary shall prescribe minimum safety standar
 
 &emsp;&emsp;(A) the design and construction of new natural gas transmission pipeline or hazardous liquid pipeline facilities, and
 
-&emsp;&emsp;(B) when the replacement of existing natural gas transmission pipeline or hazardous liquid pipeline facilities or equipment is required, the replacement of such existing facilities be carried out, to the extent practicable, in a manner so as to accommodate the passage through such natural gas transmission pipeline or hazardous liquid pipeline facilities of instrumented internal inspection devices (commonly referred to as "smart pigs"). The Secretary may extendsuch standards to require existing natural gas transmission pipeline or hazardous liquid pipeline facilities, whose basic construction would accommodate an instrumented internal inspection device to be modified to permit the inspection of such facilities with instrumented internal inspection devices.
+&emsp;&emsp;(B) when the replacement of existing natural gas transmission pipeline or hazardous liquid pipeline facilities or equipment is required, the replacement of such existing facilities be carried out, to the extent practicable, in a manner so as to accommodate the passage through such natural gas transmission pipeline or hazardous liquid pipeline facilities of instrumented internal inspection devices (commonly referred to as "smart pigs"). The Secretary may extend such standards to require existing natural gas transmission pipeline or hazardous liquid pipeline facilities, whose basic construction would accommodate an instrumented internal inspection device to be modified to permit the inspection of such facilities with instrumented internal inspection devices.
 
 &emsp;(2)
 
@@ -250,7 +250,7 @@ Limitation on statutory construction.—Nothing in this subsection authorizes th
 
 Emergency Flow Restricting Devices.—(1) Not later than October 24, 1994, the Secretary shall survey and assess the effectiveness of emergency flow restricting devices (including remotely controlled valves and check valves) and other procedures, systems, and equipment used to detect and locate hazardous liquid pipeline ruptures and minimize product releases from hazardous liquid pipeline facilities.
 
-(2) Not later than 2 years after the survey and assessment are completed, the Secretary shall prescribe standards on the circumstances under which an operator of a hazardous liquid pipeline facility must use an emergency flow restricting device or other procedure, system, or equipment described in paragraph (1) of this subsection on the facility.
+(2) Not later than 2 years after the survey and assessment are completed, the Secretary shall prescribe standards on the circumstances under which an operator of a hazardous liquid pipelinefacility must use an emergency flow restricting device or other procedure, system, or equipment described in paragraph (1) of this subsection on the facility.
 
 (k)
 
@@ -512,7 +512,7 @@ In subsection (c)(2), the word "prescribe" is substituted for "provide" for cons
 
 In subsection (c)(3), the words "participate in a public safety program meeting the requirements of paragraph (1) of this subsection" are substituted for 49 App.:2002(e)(1) to eliminate unnecessary words.
 
-In subsection (d), before clause (1), the words "Not later than 1 year after October 31, 1988" are omitted as obsolete. The word "prescribe" is substituted for "establish by regulation" for consistency in the revised title and with other titles of the Code. The word "maintain" is substituted for "provide, and revise as necessary" and "completed and maintained" to eliminate unnecessary words. The words "as the case may be" are omitted as surplus. In clause (2), before subclause (A), the words "map or" and "appropriate" are omitted as surplus. In clause (5)(B), the word "government" is omitted as surplus and for consistency in this chapter. In clause (6), the words "and necessary" are omitted as surplus.
+In subsection (d), before clause (1), the words "Not later than 1 year after October 31, 1988" are omitted as obsolete. The word "prescribe" is substituted for "establish by regulation" for consistency in the revised title and with other titles of the Code. The word "maintain" is substituted for "provide, and revise as necessary" and "completed and maintained" to eliminate unnecessary words. The words "as the case may be" are omitted as surplus. In clause (2), before subclause (A), the words "map or" and "appropriate" are omitted as surplus. In clause (5)(B), the word "government" isomitted as surplus and for consistency in this chapter. In clause (6), the words "and necessary" are omitted as surplus.
 
 In subsections (e) and (f), the word "prescribe" is substituted for "by regulation, establish" for consistency in the revised title and with other titles of the Code.
 
@@ -596,7 +596,7 @@ Subsec. (e). Pub. L. 104–304, §4(d)(2), substituted "transportation" for "tra
 
 Pub. L. 104–304, §4(d)(1), in introductory provisions, directed striking out "and, to the extent the Secretary considers necessary, an operator of a gathering line that is not a regulated gather line (as defined under section 60101(b)(2) of this title)," after "subject to this chapter", which was executed by striking out text which read in part "regulated gathering line" instead of "regulated gather line", to reflect the probable intent of Congress.
 
-Subsec. (f)(1). Pub. L. 104–304, §4(e)(1), added heading and text of par. (1) and struck out former par. (1) which read as follows: "The Secretary shall prescribe minimum safety standards requiring that the design and construction of a new gas pipeline transmission facility or hazardous liquid pipeline facility, and the required replacement of an existing gas pipeline transmission facility, hazardous liquid pipeline facility, or equipment, be carried out, to the extent practicable, in a way that accommodates the passage through the facility of an instrumented internal inspection device (commonly referred to as a 'smart pig'). The Secretary may apply the standard to an existing gas or hazardous liquid transmission facility and require the facility to be changed to allow the facility to be inspected with an instrumented internal inspection device if the basic construction of the facility will accommodate the device."
+Subsec. (f)(1). Pub. L. 104–304, §4(e)(1), added heading and text of par. (1) and struck out former par. (1) which read as follows: "The Secretary shall prescribe minimum safety standards requiring that the design and construction of a new gas pipeline transmission facility or hazardous liquid pipeline facility, and the requiredreplacement of an existing gas pipeline transmission facility, hazardous liquid pipeline facility, or equipment, be carried out, to the extent practicable, in a way that accommodates the passage through the facility of an instrumented internal inspection device (commonly referred to as a 'smart pig'). The Secretary may apply the standard to an existing gas or hazardous liquid transmission facility and require the facility to be changed to allow the facility to be inspected with an instrumented internal inspection device if the basic construction of the facility will accommodate the device."
 
 Subsec. (f)(2). Pub. L. 104–304, §§4(e)(2), 20(g), inserted heading, realigned margins, inserted ", if necessary, additional" after "the Secretary shall prescribe", and substituted "standards" for "regulations" in two places.
 
@@ -615,6 +615,8 @@ Pub. L. 114–183, §18, June 22, 2016, 130 Stat. 527, provided that: "Each owne
 &emsp;"(2) include procedures and resources for responding to such discharge in the plan."
 
 #### Rulemaking To Expand Applicability of Comprehensive Oil Spill Response Plans
+
+Pub. L. 115–141, div. L, title I, Mar. 23, 2018, 132 Stat. 1001, provided in part: "That the Secretary of Transportation shall issue a final rule to expand the applicability of comprehensive oil spill response plans within 5 days of enactment of this Act \[Mar. 23, 2018\]."
 
 Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 752, provided in part: "That the Secretary of Transportation shall issue a final rule to expand the applicability of comprehensive oil spill response plans no later than August 1, 2017".
 

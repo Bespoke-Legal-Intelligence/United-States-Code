@@ -6,11 +6,11 @@ In this section through section 1308–5 of this title:
 
 #### (1) Covered commodity
 
-&emsp;The term "covered commodity" has the meaning given that term in section 1001 of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8702\].
+&emsp;The term "covered commodity" has the meaning given that term in section 1111 of the Agricultural Act of 2014 (7 U.S.C. 9011).
 
 #### (2) Family member
 
-&emsp;The term "family member" means a person to whom a member in the farming operation is related as lineal ancestor, lineal descendant, sibling, spouse, or otherwise by marriage.
+&emsp;The term "family member" means a person to whom a member in the farming operation is related as lineal ancestor, lineal descendant, sibling, first cousin, niece, nephew, spouse, or otherwise by marriage.
 
 #### (3) Legal entity
 
@@ -30,11 +30,11 @@ In this section through section 1308–5 of this title:
 
 #### (b) Limitation on payments for covered commodities (other than peanuts)
 
-The total amount of payments received, directly or indirectly, by a person or legal entity (except a joint venture or general partnership) for any crop year under sections 1116 and 1117 \[7 U.S.C. 9016, 9017\] and as marketing loan gains or loan deficiency payments under subtitle B of title I of the Agricultural Act of 2014 \[7 U.S.C. 9031 et seq.\] (other than for peanuts) may not exceed $125,000.
+The total amount of payments received, directly or indirectly, by a person or legal entity (except a joint venture or general partnership) for any crop year under sections 1116 and 1117 of the Agricultural Act of 2014 (7 U.S.C. 9016, 9017) (other than for peanuts) may not exceed $125,000.
 
 #### (c) Limitation on payments for peanuts
 
-The total amount of payments received, directly or indirectly, by a person or legal entity (except a joint venture or general partnership) for any crop year under sections 1116 and 1117 \[7 U.S.C. 9016, 9017\] and as marketing loan gains or loan deficiency payments under subtitle B of title I of the Agricultural Act of 2014 \[7 U.S.C. 9031 et seq.\] for peanuts may not exceed $125,000.
+The total amount of payments received, directly or indirectly, by a person or legal entity (except a joint venture or general partnership) for any crop year under sections 1116 and 1117 of the Agricultural Act of 2014 (7 U.S.C. 9016, 9017) for peanuts may not exceed $125,000.
 
 #### (d) Limitation on applicability
 
@@ -84,7 +84,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any payments made to a first-tier legal entity that is owned (in whole or in part)by another legal entity (a second-tier legal entity) shall be attributed to the second-tier legal entity in proportion to the ownership of the second-tier legal entity in the first-tier legal entity.
+&emsp;&emsp;&emsp;Any payments made to a first-tier legal entity that is owned (in whole or in part) by another legal entity (a second-tier legal entity) shall be attributed to the second-tier legal entity in proportion to the ownership of the second-tier legal entity in the first-tier legal entity.
 
 #### (ii) Ownership by a person
 
@@ -200,6 +200,10 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 &emsp;&emsp;Payments made under this paragraph shall not exceed the amount to which the previous owner was entitled to receive under the terms of the contract at the time of the death of the prior owner.
 
+#### (9) Administration of reduction
+
+&emsp;The Secretary shall apply any order described in section 1614(d)(1) of the Agricultural Act of 2014 (7 U.S.C. 9097(d)(1)) to payments under sections 1116 and 1117 of that Act (7 U.S.C. 9016, 9017) prior to applying payment limitations under this section.
+
 #### (g) Public schools
 
 #### (1) In general
@@ -220,11 +224,11 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section or section 1308–1 of this title, to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
 
-(Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902; Pub. L. 107–171, title I, §1603(a), (b), May 13, 2002, 116 Stat. 213, 214; Pub. L. 110–234, title I, §1603(a), (b), May 22, 2008, 122 Stat. 1002; Pub. L. 110–246, §4(a), title I, §1603(a), (b), June 18, 2008, 122 Stat. 1664, 1730; Pub. L. 113–79, title I, §§1603(a)–(b)(2), 1605(f), Feb. 7, 2014, 128 Stat. 705, 706, 708.)
+(Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902; Pub. L. 107–171, title I, §1603(a), (b), May 13, 2002, 116 Stat. 213, 214; Pub. L. 110–234, title I, §1603(a), (b), May 22, 2008, 122 Stat. 1002; Pub. L. 110–246, §4(a), title I, §1603(a), (b), June 18, 2008, 122 Stat. 1664, 1730; Pub. L. 113–79, title I, §§1603(a)–(b)(2), 1605(f), Feb. 7, 2014, 128 Stat. 705, 706, 708; Pub. L. 115–334, title I, §1703(a), Dec. 20, 2018, 132 Stat. 4525.)
 
 #### References in Text
 
-The Agricultural Act of 2014, referred to in subsecs. (b) to (d) and (f)(5)(A), (6)(A), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§9001 et seq.) of this title. Subtitle B of title I of the Act is classified generally to subchapter II (§9031 et seq.) of chapter 115 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
+The Agricultural Act of 2014, referred to in subsecs. (d) and (f)(5)(A), (6)(A), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Title I of the Act is classified principally to chapter 115 (§9001 et seq.) of this title. Subtitle B of title I of the Act is classified generally to subchapter II (§9031 et seq.) of chapter 115 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
 
 Pars. (1) and (2) of section 1308–3a(b) of this title, referred to in subsec. (e)(1), were repealed, and new pars. (1) and (2) were enacted, by Pub. L. 113–79, title I, §1605(a)(2), Feb. 7, 2014, 128 Stat. 707.
 
@@ -244,9 +248,17 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 A prior section 1308, Pub. L. 97–98, title XI, §1101, Dec. 22, 1981, 95 Stat. 1263; Pub. L. 98–88, §6, Aug. 26, 1983, 97 Stat. 499, related to programs for 1982 through 1985 crops.
 
-Another prior section 1308, Pub. L. 95–113, title I, §101, Sept. 29, 1977, 91 Stat. 917; Pub. L. 96–213, §5, Mar. 18,1980, 94 Stat. 120, related to programs for 1978 through 1981 crops.
+Another prior section 1308, Pub. L. 95–113, title I, §101, Sept. 29, 1977, 91 Stat. 917; Pub. L. 96–213, §5, Mar. 18, 1980, 94 Stat. 120, related to programs for 1978 through 1981 crops.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–334, §1703(a)(1)(A), substituted "section 1111 of the Agricultural Act of 2014 (7 U.S.C. 9011)" for "section 1001 of the Food, Conservation, and Energy Act of 2008".
+
+Subsec. (a)(2). Pub. L. 115–334, §1703(a)(1)(B), inserted "first cousin, niece, nephew," after "sibling,".
+
+Subsecs. (b), (c). Pub. L. 115–334, §1703(a)(2), substituted "sections 1116 and 1117 of the Agricultural Act of 2014 (7 U.S.C. 9016, 9017)" for "sections 1116 and 1117 and as marketing loan gains or loan deficiency payments under subtitle B of title I of the Agricultural Act of 2014".
+
+Subsec. (f)(9). Pub. L. 115–334, §1703(a)(3), added par. (9).
 
 <b>2014</b>—Subsecs. (b), (c). Pub. L. 113–79, §1603(a), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c). Prior to amendment, subsec. (b) related to limitations on direct payments, counter-cyclical payments, and ACRE payments for covered commodities other than peanuts, and subsec. (c) related to limitations on direct payments, counter-cyclical payments, and ACRE payments for peanuts.
 
@@ -300,7 +312,7 @@ Par. (2)(B)(vi). Pub. L. 101–624, §1111(a)(3)(D), substituted "section 107B(f
 
 Par. (5)(B)(ii)(III). Pub. L. 101–624, §1111(e), added subcl. (III).
 
-Par. (5)(B)(iii). Pub. L. 101–624, §1111(c), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "Such regulations shall provide that, with respect to any married couple, the husband and wife shall be considered to be one person, except that any married couple consisting of spouses who, prior to their marriage, were separately engaged in unrelated farming operations, each spouse shall be treated as a separate person with respect to the farming operation brought into the marriage by such spouse so long as such operation remains as a separate farming operation, for the purposes of the application of the limitations under this section."
+Par. (5)(B)(iii). Pub. L. 101–624, §1111(c), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "Such regulations shall provide that, with respect to any married couple, the husband and wife shall be considered to be one person, except that any married couple consisting of spouses who, prior to their marriage, were separately engaged in unrelated farming operations, each spouse shall be treated as a separate person with respect to the farming operation brought intothe marriage by such spouse so long as such operation remains as a separate farming operation, for the purposes of the application of the limitations under this section."
 
 <b>1989</b>—Par. (5)(D). Pub. L. 101–217, §2, amended subpar. (D) generally, striking out cl. (i) designation, substituting "Any" for "Except as provided in clause (ii), any" and "ineligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land" for "considered the same person as the landlord", and struck out cls. (ii) and (iii) which read as follows:
 
@@ -342,6 +354,10 @@ Par. (5)(A). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(2), temporarily ins
 
 Par. (6). Pub. L. 99–500 and Pub. L. 99–591, §108(a)(3), temporarily substituted "lands or animals owned" for "lands owned" and inserted "or animals are husbanded". See Effective and Termination Dates of 1986 Amendment note below.
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–334, title I, §1703(b), Dec. 20, 2018, 132 Stat. 4526, provided that: "The amendments made by this section \[amending this section\] shall apply beginning with the 2019 crop year."
+
 #### Effective Date of 2014 Amendment
 
 Pub. L. 113–79, title I, §1603(c), Feb. 7, 2014, 128 Stat. 706, provided that: "The amendments made by this section \[amending this section and section 1308–3 of this title\] shall apply beginning with the 2014 crop year."
@@ -358,7 +374,7 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 Pub. L. 101–217, §1, Dec. 11, 1989, 103 Stat. 1857, provided that the amendment made by that section is effective only for the 1989 crops.
 
-Pub. L. 101–217, §2, Dec. 11, 1989, 103 Stat. 1857, as amended by Pub. L. 101–624, title XI, §1111(i), Nov. 28, 1990, 104 Stat. 3500, provided that the amendment made by that section is effective beginning with the 1990 crops.
+Pub. L. 101–217, §2, Dec. 11, 1989, 103 Stat. 1857, as amended by Pub. L. 101–624, title XI, §1111(i), Nov. 28,1990, 104 Stat. 3500, provided that the amendment made by that section is effective beginning with the 1990 crops.
 
 #### Effective Date of 1987 Amendment
 
@@ -436,7 +452,7 @@ Pub. L. 100–203, title I, §1305(d), Dec. 22, 1987, 101 Stat. 1330–18, provi
 
 Pub. L. 99–500, §108(c), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99–591, §108(c), Oct. 30, 1986, 100 Stat. 3341–347, provided that:
 
-"(1)(A) The Secretary of Agriculture shall review the regulations in effect on the date of enactment of this Act \[Oct. 18, 1986\] that define 'person' under section 1001 of the Food Security Act of 1985 \[this section\] and related regulations in effect on such date otherwise affecting the payment limitations under such section, to determine ways in which such regulations can be revised to better ensure the fair and reasonable application of limitations and eliminate fraud and abuse in the application of such payment limitations.
+"(1)(A) The Secretary of Agriculture shall review the regulations in effect on the date of enactment of this Act \[Oct. 18, 1986\] that define 'person' under section 1001of the Food Security Act of 1985 \[this section\] and related regulations in effect on such date otherwise affecting the payment limitations under such section, to determine ways in which such regulations can be revised to better ensure the fair and reasonable application of limitations and eliminate fraud and abuse in the application of such payment limitations.
 
 "(B) The Secretary also shall review the amendments to section 1001 of the Food Security Act of 1985 made by this section.
 

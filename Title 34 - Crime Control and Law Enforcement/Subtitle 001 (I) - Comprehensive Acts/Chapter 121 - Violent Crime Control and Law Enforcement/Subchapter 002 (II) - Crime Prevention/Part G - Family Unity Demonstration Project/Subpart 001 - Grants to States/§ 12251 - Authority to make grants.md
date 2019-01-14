@@ -32,7 +32,7 @@ For the purpose of making grants under subsection (a), the Attorney General shal
 
 #### (c) Selection of grantees
 
-The Attorney General shall make grants under subsection (a) on a competitive basis, based onsuch criteria as the Attorney General shall issue by rule and taking into account the preferences described in subsection (b).
+The Attorney General shall make grants under subsection (a) on a competitive basis, based on such criteria as the Attorney General shall issue by rule and taking into account the preferences described in subsection (b).
 
 (Pub. L. 103–322, title III, §31911, Sept. 13, 1994, 108 Stat. 1894.)
 

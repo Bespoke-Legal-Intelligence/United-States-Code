@@ -34,7 +34,7 @@ The Secretary may carry out this section in a manner that recognizes the differe
 
 #### (2) Waivers
 
-&emsp;If the Secretary establishes a matching requirement under paragraph (1), the Secretary shall retain an option to waive the requirement for an eligible institution for any fiscal year if the Secretary determines that the institution will be unlikely to meet the matching requirement for the fiscal year.
+&emsp;If the Secretary establishes a matching requirement under paragraph (1), the Secretary shall retain an option to waive the requirement for an eligible institution for any fiscalyear if the Secretary determines that the institution will be unlikely to meet the matching requirement for the fiscal year.
 
 #### (f) Authorization of appropriations
 
@@ -42,15 +42,17 @@ There is authorized to be appropriated to carry out this section—
 
 &emsp;(1) such sums as are necessary for each of fiscal years 2002 through 2013; and
 
-&emsp;(2) $2,000,000 for each of fiscal years 2014 through 2018.
+&emsp;(2) $2,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 95–113, title XIV, §1490, as added Pub. L. 107–171, title VII, §7503, May 13, 2002, 116 Stat. 464; amended Pub. L. 110–234, title VII, §7143(a), May 22, 2008, 122 Stat. 1232; Pub. L. 110–246, §4(a), title VII, §7143(a), June 18, 2008, 122 Stat. 1664, 1994; Pub. L. 113–79, title VII, §7127(a), Feb. 7, 2014, 128 Stat. 877.)
+(Pub. L. 95–113, title XIV, §1490, as added Pub. L. 107–171, title VII, §7503, May 13, 2002, 116 Stat. 464; amended Pub. L. 110–234, title VII, §7143(a), May 22, 2008, 122 Stat. 1232; Pub. L. 110–246, §4(a), title VII, §7143(a), June 18, 2008, 122 Stat. 1664, 1994; Pub. L. 113–79, title VII, §7127(a), Feb. 7, 2014, 128 Stat. 877; Pub. L. 115–334, title VII, §7136(a), Dec. 20, 2018, 132 Stat. 4802.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f)(2). Pub. L. 115–334 substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–79, §7127(a)(1), struck out "or noncompetitive" after "competitive".
 

@@ -26,7 +26,7 @@ High-speed rail.—The term "high-speed rail" means intercity passenger rail ser
 
 &emsp;(5)
 
-Intercity passenger rail service.—The term "intercity passenger rail service" has the meaning given the term "intercity rail passenger transportation" in section 24102 of this title.
+Intercity passenger rail service.—The term "intercity passenger rail service" hasthe meaning given the term "intercity rail passenger transportation" in section 24102 of this title.
 
 &emsp;(6)
 
@@ -60,7 +60,7 @@ Grant criteria.—The Secretary, in selecting the recipients of high-speed rail 
 
 &emsp;&emsp;(A) require—
 
-&emsp;&emsp;&emsp;(i) that the project be part of a State rail plan developed under chapter 227 of this title, or under the plan required by section211 of the Passenger Rail Investment and Improvement Act of 2008;
+&emsp;&emsp;&emsp;(i) that the project be part of a State rail plan developed under chapter 227 of this title, or under the plan required by section 211 of the Passenger Rail Investment and Improvement Act of 2008;
 
 &emsp;&emsp;&emsp;(ii) that the applicant or recipient has or will have the legal, financial, and technical capacity to carry out the project, satisfactory continuing control over the use of the equipment or facilities, and the capability and willingness to maintain the equipment or facilities;
 
@@ -120,13 +120,13 @@ Grant criteria.—The Secretary, in selecting the recipients of high-speed rail 
 
 &emsp;&emsp;&emsp;&emsp;(I) donated property interests or services;
 
-&emsp;&emsp;&emsp;&emsp;(II) financial contributions by intercity passenger, freight, and commuter rail carriers commensurate with the benefit expected to their operations; and
+&emsp;&emsp;&emsp;&emsp;(II) financial contributions by intercity passenger, freight, and commuterrail carriers commensurate with the benefit expected to their operations; and
 
 &emsp;&emsp;&emsp;&emsp;(III) financial commitments from host railroads, non-Federal governmental entities, non-governmental entities, and others.
 
 &emsp;(3)
 
-Grant conditions.—The Secretary shall require each recipient of a grant under this chapter to comply with the grant requirements of section 24405 of this title.
+Grant conditions.—The Secretary shall require each recipient of a grant under this chapter to comply with the grant requirements of section 22905.
 
 &emsp;(4)
 
@@ -154,7 +154,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 &emsp;(5) $350,000,000 for fiscal year 2013.
 
-(Added Pub. L. 110–432, div. B, title V, §501(d), Oct. 16, 2008, 122 Stat. 4960.)
+(Added Pub. L. 110–432, div. B, title V, §501(d), Oct. 16, 2008, 122 Stat. 4960; amended Pub. L. 115–420, §7(b)(3)(A)(ii), Jan. 3, 2019, 132 Stat. 5447.)
 
 #### References in Text
 
@@ -172,9 +172,13 @@ Section 22506 of this title, referred to in subsec. (e)(4), probably should be a
 
 The date of enactment of this section, referred to in subsec. (g), is the date of enactment of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
+#### Amendments
+
+<b>2019</b>—Subsec. (e)(3). Pub. L. 115–420 substituted "22905" for "24405 of this title".
+
 #### Additional High-Speed Rail Projects
 
-Pub. L. 110–432, div. B, title V, §502, Oct. 16, 2008, 122 Stat. 4963, provided that:
+Pub. L. 110–432, div. B, title V, §502, Oct. 16, 2008, 122 Stat. 4963, as amended by Pub. L. 115–420, §7(b)(3)(B)(ii), Jan. 3, 2019, 132 Stat. 5447, provided that:
 
 "(a)
 
@@ -242,13 +246,13 @@ Contents.—A proposal submitted under this subsection shall include—
 
 &emsp;&emsp;&emsp;"(v) the projected levels of capital investments required both initially and in subsequent years to maintain a state-of-good-repair necessary to provide the initially proposed level of service or higher levels of service;
 
-&emsp;&emsp;&emsp;"(vi) projected levels of private investment and sources thereof, including the identity of any person or entity that has made or is expected to make a commitment to provide or secure funding and the amount of such commitment; and
+&emsp;&emsp;&emsp;"(vi) projected levels of private investment and sources thereof, including the identity of any person or entity that has made or is expected tomake a commitment to provide or secure funding and the amount of such commitment; and
 
 &emsp;&emsp;&emsp;"(vii) projected funding for the full fair market compensation for any asset, property right or interest, or service acquired from, owned, or held by a private person or Federal entity that would be acquired, impaired, or diminished in value as a result of a project, except as otherwise agreed to by the private person or entity;
 
 &emsp;&emsp;"(H) a description of how the project would contribute to the development of a national high-speed rail system and an intermodal plan describing how the system will facilitate convenient travel connections with other transportation services;
 
-&emsp;&emsp;"(I) a description of how the project will ensure compliance with Federal laws governing the rights and status of employees associated with the route and service, including those specified in section 24405 of title 49, United States Code;
+&emsp;&emsp;"(I) a description of how the project will ensure compliance with Federal laws governing the rights and status of employees associated with the route and service, including those specified in section 22905 of title 49, United States Code;
 
 &emsp;&emsp;"(J) a description of how the design, construction, implementation, and operation of the project will accommodate and allow for future growth of existing and projected intercity, commuter, and freight rail service;
 

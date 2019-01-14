@@ -34,7 +34,7 @@ Activities described in this subsection are as follows:
 
 &emsp;&emsp;(A) The entity has demonstrated capability to carry out the activities described in subsection (b).
 
-&emsp;&emsp;(B) In carrying out such activities, the entity agrees to cooperate with the Inspector General of the Department of Health and Human Services, the Attorney General, and other law enforcement agencies, as appropriate, in the investigation and deterrence of fraud and abuse in relation to this subchapter and in other cases arising out of such activities.
+&emsp;&emsp;(B) In carrying out such activities, the entity agrees to cooperate with the InspectorGeneral of the Department of Health and Human Services, the Attorney General, and other law enforcement agencies, as appropriate, in the investigation and deterrence of fraud and abuse in relation to this subchapter and in other cases arising out of such activities.
 
 &emsp;&emsp;(C) The entity complies with such conflict of interest standards as are generally applicable to Federal acquisition and procurement.
 
@@ -110,7 +110,7 @@ Activities described in this subsection are as follows:
 
 #### (3) Increase in CMS staffing devoted to protecting Medicaid program integrity
 
-&emsp;From the amounts appropriated under paragraph (1), the Secretary shall increase by 100, or such number as determined necessary by the Secretary to carry out the Program, the number of full-time equivalent employees whose duties consist solely of protecting the integrity of the Medicaid program established under this section by providing effective support and assistance to States to combat provider fraud and abuse.
+&emsp;From the amounts appropriated under paragraph (1), the Secretary shall increase by 100,or such number as determined necessary by the Secretary to carry out the Program, the number of full-time equivalent employees whose duties consist solely of protecting the integrity of the Medicaid program established under this section by providing effective support and assistance to States to combat provider fraud and abuse.
 
 #### (4) Evaluations
 
@@ -152,7 +152,7 @@ Subsec. (e)(4), (5). Pub. L. 111–148, §6402(j)(2)(B), added par. (4) and rede
 
 <b>2008</b>—Subsec. (b)(4). Pub. L. 110–379, §5(a)(1)(A), substituted "Education or training, including at such national, State, or regional conferences as the Secretary may establish, of State or local officers, employees, or independent contractors responsible for the administration or the supervision of the administration of the State plan under this subchapter," for "Education of".
 
-Subsec. (e)(2). Pub. L. 110–379, §5(a)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Amounts appropriated pursuantto paragraph (1) shall remain available until expended."
+Subsec. (e)(2). Pub. L. 110–379, §5(a)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Amounts appropriated pursuant to paragraph (1) shall remain available until expended."
 
 Subsec. (e)(2)(B)(ii). Pub. L. 110–379, §5(b)(1), added cl. (ii).
 

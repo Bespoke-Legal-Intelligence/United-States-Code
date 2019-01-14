@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is created within the Centers for Medicare \& Medicaid Services a Center for Medicare and Medicaid Innovation (in this section referred to as the "CMI") to carry out the duties described in this section. The purpose of the CMI is to test innovative payment and service delivery models to reduce program expenditures under the applicable subchapters while preserving or enhancing the quality of care furnished to individuals under such subchapters. In selecting such models, the Secretary shall give preference to models that also improve the coordination, quality, and efficiency of health care services furnished to applicable individuals defined in paragraph (4)(A).
+&emsp;There is created within the Centers for Medicare \& Medicaid Services a Center for Medicare and Medicaid Innovation (in this section referred to as the "CMI") to carry out the duties described in this section. The purpose of the CMI is to test innovative payment and service delivery models to reduce program expenditures under the applicable subchapters while preserving or enhancing the quality ofcare furnished to individuals under such subchapters. In selecting such models, the Secretary shall give preference to models that also improve the coordination, quality, and efficiency of health care services furnished to applicable individuals defined in paragraph (4)(A).
 
 #### (2) Deadline
 
@@ -114,6 +114,12 @@
 
 &emsp;&emsp;&emsp;(xxiv) Focusing primarily on subchapter XIX, working in conjunction with the Center for Medicaid and CHIP Services.
 
+&emsp;&emsp;&emsp;(xxv) Providing, for the adoption and use of certified EHR technology (as defined in section 1395w–4(o)(4) of this title) to improve the quality and coordination of care through the electronic documentation and exchange of health information, incentive payments to behavioral health providers (such as psychiatric hospitals (as defined in section 1395x(f) of this title), community mental health centers (as defined in section 1395x(ff)(3)(B) of this title), hospitals that participate in a State plan under subchapter XIX or a waiver of such plan, treatment facilities that participate in such a State plan or such a waiver, mental health or substance use disorder providers that participate in such a State plan or such a waiver, clinical psychologists (as defined in section 1395x(ii) of this title), nurse practitioners (as defined in section 1395x(aa)(5) of this title) with respect to the provision of psychiatric services, and clinical social workers (as defined in section 1395x(hh)(1) of this title)).
+
+&emsp;&emsp;&emsp;(xxvi) Supporting ways to familiarize individuals with the availability of coverageunder part B of subchapter XVIII for qualified psychologist services (as defined in section 1395x(ii) of this title).
+
+&emsp;&emsp;&emsp;(xxvii) Exploring ways to avoid unnecessary hospitalizations or emergency department visits for mental and behavioral health services (such as for treating depression) through use of a 24-hour, 7-day a week help line that may inform individuals about the availability of treatment options, including the availability of qualified psychologist services (as defined in section 1395x(ii) of this title).
+
 #### (C) Additional factors for consideration
 
 &emsp;&emsp;In selecting models for testing under subparagraph (A), the CMI may consider the following additional factors:
@@ -142,7 +148,7 @@
 
 #### (B) Termination or modification
 
-&emsp;&emsp;The Secretary shall terminate or modify the design and implementation of a model unless the Secretary determines (and the Chief Actuary of the Centers for Medicare \&Medicaid Services, with respect to program spending under the applicable subchapter, certifies), after testing has begun, that the model is expected to—
+&emsp;&emsp;The Secretary shall terminate or modify the design and implementation of a model unless the Secretary determines (and the Chief Actuary of the Centers for Medicare \& Medicaid Services, with respect to program spending under the applicable subchapter, certifies), after testing has begun, that the model is expected to—
 
 &emsp;&emsp;&emsp;(i) improve the quality of care (as determined by the Administrator of the Centers for Medicare \& Medicaid Services) without increasing spending under the applicable subchapter;
 
@@ -238,13 +244,17 @@ The Center may carry out activities under this section with respect to subchapte
 
 Beginning in 2012, and not less than once every other year thereafter, the Secretary shall submit to Congress a report on activities under this section. Each such report shall describe the models tested under subsection (b), including the number of individuals described in subsection (a)(4)(A)(i) and of individuals described in subsection (a)(4)(A)(ii) participating in such models and payments made under applicable subchapters for services on behalf of such individuals, any models chosen for expansion under subsection (c), and the results from evaluations under subsection (b)(4). In addition, each such report shall provide such recommendations as the Secretary determines are appropriate for legislative action to facilitate the development and expansion of successful payment models.
 
-(Aug. 14, 1935, ch. 531, title XI, §1115A, as added and amended Pub. L. 111–148, title III, §3021(a), title X, §10306, Mar. 23, 2010, 124 Stat. 389, 939; Pub. L. 114–10, title I, §101(e)(4), Apr. 16, 2015, 129 Stat. 122; Pub. L. 114–85, §1, Nov. 5, 2015, 129 Stat. 674.)
+(Aug. 14, 1935, ch. 531, title XI, §1115A, as added and amended Pub. L. 111–148, title III, §3021(a), title X, §10306, Mar. 23, 2010, 124 Stat. 389, 939; Pub. L. 114–10, title I, §101(e)(4), Apr. 16, 2015, 129 Stat. 122; Pub. L. 114–85, §1, Nov. 5, 2015, 129 Stat. 674; Pub. L. 115–271, title VI, §§6001, 6085(a), Oct. 24, 2018, 132 Stat. 3976, 3996.)
 
 #### References in Text
 
 Section 4016 of the Balanced Budget Act of 1997, referred to in subsec. (b)(2)(B)(xx), is section 4016 of Pub. L. 105–33, which is set out as a note under section 1395b–1 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2)(B)(xxv). Pub. L. 115–271, §6001, added cl. (xxv).
+
+Subsec. (b)(2)(B)(xxvi), (xxvii). Pub. L. 115–271, §6085(a), added cls. (xxvi) and (xxvii).
 
 <b>2015</b>—Subsec. (b)(2)(B)(xxi) to (xxiv). Pub. L. 114–10, §101(e)(4)(A), added cls. (xxi) to (xxiv).
 

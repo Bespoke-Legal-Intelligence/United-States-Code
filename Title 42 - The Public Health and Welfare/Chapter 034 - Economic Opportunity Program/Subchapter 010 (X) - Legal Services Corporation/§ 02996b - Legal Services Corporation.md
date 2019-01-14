@@ -38,7 +38,7 @@ Pub. L. 93–355, §3(a)–(d)(1), (e), July 25, 1974, 88 Stat. 389, 390, provid
 
 &emsp;"(D) to arrange for the orderly continuation by such Corporation of financial assistance to legal services programs and activities assisted pursuant to the Economic Opportunity Act of 1964 \[this chapter\] or successor authority.
 
-> Whenever the Director of the Office of Economic Opportunity or the head of any successor authority determines that an obligation to provide financial assistance pursuant to any contract or grant for such legal services will extend beyond six months after the date of enactment of this Act \[July 25, 1974\], he shall include, in any such contract or grant, provisions to assure that the obligation to provide such financial assistance may be assumed by the Legal Services Corporation, subject to such modifications of the terms and conditions of such contract or grant as the Corporation determines to be necessary.
+> Whenever the Director of the Office of Economic Opportunity or the head of any successor authority determines that an obligation to provide financial assistance pursuant to any contract or grant for such legal services will extend beyond six months after the date of enactment of this Act \[July 25, 1974\], he shall include, in any such contract or grant, provisions to assure that the obligation to provide such financial assistance may be assumed by the Legal Services Corporation, subjectto such modifications of the terms and conditions of such contract or grant as the Corporation determines to be necessary.
 
 "(2) \[Omitted. Provided for the repeal of section 2809(a)(3) of this title.\]
 

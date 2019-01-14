@@ -24,7 +24,7 @@ In any case in which the proceedings are conducted under this section, notwithst
 
 #### (d) Discontinuance of proceedings
 
-At any time before a decision entered in a case in which the proceedings are conducted underthis section becomes final, the taxpayer or the Secretary may request that further proceedings under this section in such case be discontinued. The Tax Court, or the division thereof hearing such case, may, if it finds that (1) there are reasonable grounds for believing that the amount of the deficiency placed in dispute, or the amount of an overpayment, exceeds the applicable jurisdictional amount described in subsection (a), and (2) the amount of such excess is large enough to justify granting such request, discontinue further proceedings in such case under this section. Upon any such discontinuance, proceedings in such case shall be conducted in the same manner as cases to which the provisions of sections 6214(a) and 6512(b) apply.
+At any time before a decision entered in a case in which the proceedings are conducted under this section becomes final, the taxpayer or the Secretary may request that further proceedings under this section in such case be discontinued. The Tax Court, or the division thereof hearing such case, may, if it finds that (1) there are reasonable grounds for believing that the amount of the deficiency placed in dispute, or the amount of an overpayment, exceeds the applicable jurisdictional amount described in subsection (a), and (2) the amount of such excess is large enough to justify granting such request, discontinue further proceedings in such case under this section. Upon any such discontinuance, proceedings in such case shall be conducted in the same manner as cases to which the provisions of sections 6214(a) and 6512(b) apply.
 
 #### (e) Amount of deficiency in dispute
 
@@ -66,7 +66,7 @@ Subsec. (a). Pub. L. 98–369, §461(a)(1), substituted "$10,000" for "$5,000" i
 
 <b>1978</b>—Pub. L. 95–600, §502(a)(2)(A), substituted "$5,000" for "$1,500" in section catchline.
 
-Subsec. (a). Pub. L. 95–600, §502(a)(1), "$5,000 for any one taxable year, in the case of the taxes imposed by subtitle A" for "$1,500 for any one taxable year, in the case of the taxes imposed by subtitle A and chapter 12, or" in par. (1), "$5,000, in the case of the tax imposed by chapter 11, or" for "$1,500 in the case of the tax imposed by chapter 11," in par. (2), and added par. (3).
+Subsec. (a). Pub. L. 95–600, §502(a)(1), "$5,000 for any one taxable year, in the case of the taxes imposed by subtitle A" for "$1,500 for any one taxable year, in the case of the taxes imposed by subtitle A and chapter 12, or" in par. (1), "$5,000, in the case of the tax imposedby chapter 11, or" for "$1,500 in the case of the tax imposed by chapter 11," in par. (2), and added par. (3).
 
 Subsec. (g). Pub. L. 95–600, §502(b), added subsec. (g).
 
@@ -114,7 +114,7 @@ and (c).—The amendments made by subsection (b) \[amending this section\] and (
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–512, title II, §204, Oct. 20, 1972, 86 Stat. 945, as amended by Pub. L. 94–455, title XXI, §2116(a), Oct.4, 1976, 90 Stat. 1910; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 92–512, title II, §204, Oct. 20, 1972, 86 Stat. 945, as amended by Pub. L. 94–455, title XXI, §2116(a), Oct. 4, 1976, 90 Stat. 1910; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(a)
 

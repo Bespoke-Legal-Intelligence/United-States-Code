@@ -88,7 +88,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (C) Earnings and profits
 
-&emsp;&emsp;For purposes of subchapter C, the accumulated earnings and profits at any time shallnot be less than they would be if this subsection had applied to the computation of earnings and profits for all taxable years beginning after July 18, 1984.
+&emsp;&emsp;For purposes of subchapter C, the accumulated earnings and profits at any time shall not be less than they would be if this subsection had applied to the computation of earnings and profits for all taxable years beginning after July 18, 1984.
 
 #### (9) Special rule for capital gains and losses of foreign corporations
 
@@ -150,7 +150,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 Subsec. (c)(5). Pub. L. 115–97, §13001(b)(5)(B), amended par. (5) generally. Prior to amendment, text read as follows: "For denial of credit provided in paragraph (2) or (3) where multiple corporations are formed to avoid tax, see section 1551, and for limitation on such credit in the case of certain controlled corporations, see section 1561."
 
-<b>2014</b>—Subsec. (b)(1). Pub. L. 113–295 substituted "section 531 or the personal holding company tax imposedby section 541." for "section 531, the personal holding company tax imposed by section 541, or the taxes imposed by corresponding sections of a prior income tax law."
+<b>2014</b>—Subsec. (b)(1). Pub. L. 113–295 substituted "section 531 or the personal holding company tax imposed by section 541." for "section 531, the personal holding company tax imposed by section 541, or the taxes imposed by corresponding sections of a prior income tax law."
 
 <b>2005</b>—Subsec. (b)(10). Pub. L. 109–135 added par. (10).
 
@@ -206,7 +206,7 @@ Subsec. (c)(2), (3). Pub. L. 85–866, §205(a), substituted "$100,000" for "$60
 
 #### Effective Date of 2017 Amendment
 
-Amendment by section 13001(b)(5)(B) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
+Amendment by section 13001(b)(5)(B) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31,2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
 Amendment by section 14301(c)(4) of Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
 

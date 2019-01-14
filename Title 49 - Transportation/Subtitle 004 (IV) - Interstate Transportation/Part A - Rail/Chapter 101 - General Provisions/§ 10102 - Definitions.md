@@ -68,7 +68,7 @@ Section 10311, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1345, required Commissi
 
 Section 10321, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1345; Pub. L. 97–261, §24, Sept. 20, 1982, 96 Stat. 1124; Pub. L. 103–272, §4(j)(12), July 5, 1994, 108 Stat. 1368, related to powers of Commission.
 
-Section 10322, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1346; Pub. L. 96–296, §25(a), July 1, 1980, 94 Stat. 816; Pub. L. 96–454, §5(b), Oct. 15, 1980, 94 Stat. 2014; Pub. L. 97–261, §§6(e), 16(c), 17(b), 28(a), Sept. 20, 1982, 96 Stat. 1107, 1117, 1119, 1128; Pub. L. 98–554, title II, §226(c)(1), Oct. 30, 1984, 98 Stat. 2851; Pub. L. 103–272, §5(m)(14), July 5, 1994, 108 Stat. 1377, related to Commission action and appellate procedure in non-rail proceedings.
+Section 10322, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1346; Pub. L. 96–296, §25(a), July 1, 1980, 94 Stat. 816; Pub. L. 96–454, §5(b), Oct. 15, 1980, 94 Stat. 2014; Pub. L. 97–261, §§6(e), 16(c), 17(b), 28(a), Sept. 20, 1982, 96 Stat. 1107, 1117, 1119, 1128; Pub. L. 98–554, title II, §226(c)(1),Oct. 30, 1984, 98 Stat. 2851; Pub. L. 103–272, §5(m)(14), July 5, 1994, 108 Stat. 1377, related to Commission action and appellate procedure in non-rail proceedings.
 
 A prior section 10323, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1346, related to rehearing, reargument, and reconsideration in nonrail proceedings, prior to repeal by Pub. L. 96–296, §25(b), July 1, 1980, 94 Stat. 818.
 
@@ -117,4 +117,8 @@ Section 10386, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1358, related to report
 Section 10387, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1358, related to budget requests and estimates of Office of Rail Public Counsel.
 
 Section 10388, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1358; Pub. L. 96–73, title III, §301, Sept. 29, 1979, 93 Stat. 557, authorized appropriations for Office of Rail Public Counsel for fiscal year ending Sept. 30, 1980.
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

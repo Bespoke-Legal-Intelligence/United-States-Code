@@ -18,7 +18,7 @@ This subchapter is comprised of Pub. L. 96–428, as amended. Pub. L. 96–428 i
 
 #### Short Title of 2017 Amendment
 
-Pub. L. 115–108, §1, Jan. 8, 2018, 131 Stat. 2267, provided that: "This Act \[amending this section and sections 460bbbb–1, 460bbbb–2, and 460bbbb–4 of this title and enacting provisions set out as a note under this section\] may be cited as the 'Martin Luther King, Jr. National Historical Park Act of 2017'."
+Pub. L. 115–108, §1, Jan. 8, 2018, 131 Stat. 2267, provided that: "This Act \[amending this section and sections 460bbbb–1, 460bbbb–2, and 460bbbb–4 of this title and enacting provisions set out as a note under this section\] may be cited as the 'Martin Luther King, Jr. National Historical Park Act of 2017'.
 
 #### Short Title of 2004 Amendment
 

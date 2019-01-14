@@ -20,3 +20,7 @@ Section 11167, added Pub. L. 96–448, title III, §302(a), Oct. 14, 1980, 94 St
 
 Section 11168, added Pub. L. 96–448, title III, §302(a), Oct. 14, 1980, 94 Stat. 1938, authorized appropriations for fiscal years 1981 to 1983.
 
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+

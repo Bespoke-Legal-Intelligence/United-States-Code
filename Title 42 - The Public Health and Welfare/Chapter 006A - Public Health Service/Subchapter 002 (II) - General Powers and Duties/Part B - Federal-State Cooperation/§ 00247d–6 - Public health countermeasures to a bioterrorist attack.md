@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in collaboration with the Secretary of Defense, and in consultation with relevant public and private entities, shall develop core health and medical response curricula and trainings by adapting applicable existing curricula and training programs to improve responses to public health emergencies.
+&emsp;The Secretary, in collaboration with the Secretary of Defense, and in consultation withrelevant public and private entities, shall develop core health and medical response curricula and trainings by adapting applicable existing curricula and training programs to improve responses to public health emergencies.
 
 #### (2) Curriculum
 
@@ -144,7 +144,7 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 #### (1) In general
 
-&emsp;With respect to pathogens of potential use in a bioterrorist attack, and other agents thatmay cause a public health emergency, the Secretary, taking into consideration any recommendations of the working group under subsection (a), shall conduct, and award grants, contracts, or cooperative agreements for, research, investigations, experiments, demonstrations, and studies in the health sciences relating to—
+&emsp;With respect to pathogens of potential use in a bioterrorist attack, and other agents that may cause a public health emergency, the Secretary, taking into consideration any recommendations of the working group under subsection (a), shall conduct, and award grants, contracts, or cooperative agreements for, research, investigations, experiments, demonstrations, and studies in the health sciences relating to—
 
 &emsp;&emsp;(A) the epidemiology and pathogenesis of such pathogens;
 
@@ -222,7 +222,7 @@ Subsecs. (i), (j). Pub. L. 109–417, §304(5), struck out subsecs. (i) and (j) 
 
 Subsec. (h)(4)(B). Pub. L. 108–276, §2(d)(2), substituted "to treat, identify, or prevent conditions" for "to diagnose conditions".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–188, §108, added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "The Secretary, in coordination with the Secretary of Defense, shall establish a joint interdepartmental working group on preparednessand readiness for the medical and public health effects of a bioterrorist attack on the civilian population. Such joint working group shall—
+<b>2002</b>—Subsec. (a). Pub. L. 107–188, §108, added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "The Secretary, in coordination with the Secretary of Defense, shall establish a joint interdepartmental working group on preparedness and readiness for the medical and public health effects of a bioterrorist attack on the civilian population. Such joint working group shall—
 
 &emsp;"(1) coordinate research on pathogens likely to be used in a bioterrorist attack on the civilian population as well as therapies to treat such pathogens;
 

@@ -40,11 +40,11 @@ In this part:
 
 #### (6) Exclusive distributor
 
-&emsp;The term "exclusive distributor" means the wholesale distributor that directly purchased the product from the manufacturer and is the sole distributor of that manufacturer's product to a subsequent repackager, wholesale distributor, or dispenser.
+&emsp;The term "exclusive distributor" means the wholesale distributor that directly purchasedthe product from the manufacturer and is the sole distributor of that manufacturer's product to a subsequent repackager, wholesale distributor, or dispenser.
 
 #### (7) Homogeneous case
 
-&emsp;The term "homogeneous case" means a sealed case containing only product that has asingle National Drug Code number belonging to a single lot.
+&emsp;The term "homogeneous case" means a sealed case containing only product that has a single National Drug Code number belonging to a single lot.
 
 #### (8) Illegitimate product
 
@@ -122,7 +122,7 @@ In this part:
 
 #### (19) Specific patient need
 
-&emsp;The term "specific patient need" refers to the transfer of a product from one pharmacy to another to fill a prescription for an identified patient. Such term does not include the transfer of a product from one pharmacy toanother for the purpose of increasing or replenishing stock in anticipation of a potential need.
+&emsp;The term "specific patient need" refers to the transfer of a product from one pharmacy to another to fill a prescription for an identified patient. Such term does not include the transfer of a product from one pharmacy to another for the purpose of increasing or replenishing stock in anticipation of a potential need.
 
 #### (20) Standardized numerical identifier
 
@@ -288,7 +288,7 @@ In this part:
 
 #### References in Text
 
-The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in par. (24)(B)(xiii)(II), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in par. (24)(B)(xiii)(II), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§801 et seq.) of this title. For complete classification of this Act to theCode, see Short Title note set out under section 801 of this title and Tables.
 
 The Drug Supply Chain Security Act, referred to in par. (27)(A), (B), is Pub. L. 113–54, title II, Nov. 27, 2013, 127 Stat. 599. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 

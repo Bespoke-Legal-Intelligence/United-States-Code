@@ -10,7 +10,7 @@ Subsection (a) of this section shall not apply—
 
 &emsp;(1) with respect to assistance rendered under section 515(c) of the Omnibus Crime Control and Safe Streets Act of 1968,<sup>1</sup> with respect to any authority of the Drug Enforcement Administration or the Federal Bureau of Investigation which relates to crimes of the nature which are unlawful under the laws of the United States, or with respect to assistance authorized under section 2291a of this title;
 
-&emsp;(2) to any contract entered into prior to December 30, 1974, with any person, organization, or agency of the United States Government to provide personnel to conduct, or assist in conducting, any such program;
+&emsp;(2) to any contract entered into prior to December 30, 1974, with any person, organization,or agency of the United States Government to provide personnel to conduct, or assist in conducting, any such program;
 
 &emsp;(3) with respect to assistance, including training, in maritime law enforcement and other maritime skills;
 
@@ -80,7 +80,7 @@ Notification to Congress.—At least 15 days before any transfer under subsectio
 
 "(c)
 
-Coordination With International Narcotics Control Assistance Program.—Assistance provided pursuant to this section shall be coordinated with international narcotics control assistance under chapter 8 of part 1 of the Foreign Assistance Act of 1961 (22 U.S.C. 2291 et seq.)."
+Coordination With International Narcotics Control Assistance Program.—Assistance provided pursuant to this section shall be coordinated withinternational narcotics control assistance under chapter 8 of part 1 of the Foreign Assistance Act of 1961 (22 U.S.C. 2291 et seq.)."
 
 Pub. L. 102–583, §7, Nov. 2, 1992, 106 Stat. 4933, provided for exemption of narcotics-related military assistance for fiscal years 1993 and 1994 from prohibition on assistance for law enforcement agencies, prior to repeal by Pub. L. 103–447, title I, §103(a), Nov. 2, 1994, 108 Stat. 4693.
 

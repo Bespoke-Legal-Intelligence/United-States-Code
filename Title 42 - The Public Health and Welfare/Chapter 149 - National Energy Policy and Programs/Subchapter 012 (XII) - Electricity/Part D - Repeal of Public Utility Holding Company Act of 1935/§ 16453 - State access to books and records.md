@@ -20,7 +20,7 @@ The production of books, accounts, memoranda, and other records under subsection
 
 #### (d) Effect on State law
 
-Nothing in this section shall preempt applicable State law concerning the provision of books,accounts, memoranda, and other records, or in any way limit the rights of any State to obtain books, accounts, memoranda, and other records under any other Federal law, contract, or otherwise.
+Nothing in this section shall preempt applicable State law concerning the provision of books, accounts, memoranda, and other records, or in any way limit the rights of any State to obtain books, accounts, memoranda, and other records under any other Federal law, contract, or otherwise.
 
 #### (e) Court jurisdiction
 
@@ -30,5 +30,5 @@ Any United States district court located in the State in which the State commiss
 
 #### References in Text
 
-The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (b), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 16, Conservation, and Tables.
+The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (b), is Pub. L. 95–617, Nov. 9, 1978,92 Stat. 3117, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 16, Conservation, and Tables.
 

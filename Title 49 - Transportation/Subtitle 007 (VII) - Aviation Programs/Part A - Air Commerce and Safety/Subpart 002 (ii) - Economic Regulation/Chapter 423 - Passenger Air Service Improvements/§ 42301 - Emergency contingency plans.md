@@ -34,7 +34,7 @@ Contents.—An emergency contingency plan submitted by an air carrier for an air
 
 &emsp;(3)
 
-Deplaning following an excessive tarmac delay.—For purposes of paragraph\(2)(C), an emergency contingency plan submitted by an air carrier under subsection (a) shall incorporate the following requirements:
+Deplaning following an excessive tarmac delay.—For purposes of paragraph (2)(C), an emergency contingency plan submitted by an air carrier under subsection (a) shall incorporate the following requirements:
 
 &emsp;&emsp;(A) A passenger shall have the option to deplane an aircraft and return to the airport terminal when there is an excessive tarmac delay.
 
@@ -96,7 +96,7 @@ Minimum Standards.—The Secretary shall establish, as necessary or desirable, m
 
 (g)
 
-Public Access.—An air carrier or airport operator required to submit an emergency contingency plan under this section shall ensure public access to the plan after its approval under this section on the Internet Web site of the carrier or operator or by such other means as determined by the Secretary.
+Public Access.—An air carrier or airport operator required to submit an emergency contingency plan under this section shall ensure public access to the plan after its approvalunder this section on the Internet Web site of the carrier or operator or by such other means as determined by the Secretary.
 
 (h)
 

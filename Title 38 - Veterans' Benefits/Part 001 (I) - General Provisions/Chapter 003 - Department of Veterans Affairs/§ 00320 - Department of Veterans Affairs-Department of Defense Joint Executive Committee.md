@@ -56,7 +56,7 @@ Subsec. (e). Pub. L. 114–92, §561(2), added subsec. (e).
 
 #### Effective Date
 
-Pub. L. 108–136, div. A, title V, §583(d)(2), Nov. 24, 2003, 117 Stat. 1492, provided that: "If this Act is enacted on or after October 1, 2003, the amendments made by this section \[enacting this section and amending section 8111 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 24, 2003\]."
+Pub. L. 108–136, div. A, title V, §583(d)(2), Nov. 24, 2003, 117 Stat. 1492, provided that: "If this Act is enacted on or after October 1, 2003, the amendments made by this section \[enacting this section and amending section8111 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 24, 2003\]."
 
 #### Joint Program for Development and Evaluation of Integrated Healing Care Practices for Members of the Armed Forces and Veterans
 

@@ -30,7 +30,7 @@ Any finding under subsection (b) shall be accompanied by such information and an
 
 #### (d) Submission of State emergency conservation plan
 
-(1) <sup>2</sup> The Governor of a State in which all or any portion of the standby Federal conservation plan is or will be in effect may submit at any time a State emergency conservation plan, and if it is approved under section 8512(c) of this title, all or such portion of the standby Federal conservation plan shall cease to be effective in that State. Nothing in this paragraph shall affect any action or pending proceedings, administrative or civil, not finally determined on such date, nor any administrative or civil action or proceeding, whether or not pending, based upon any act committed or liability incurred prior to such cessation of effectiveness.
+(1) <sup>2</sup> The Governor of a State in which all or any portion of the standby Federal conservation plan is or will be in effect may submit at anytime a State emergency conservation plan, and if it is approved under section 8512(c) of this title, all or such portion of the standby Federal conservation plan shall cease to be effective in that State. Nothing in this paragraph shall affect any action or pending proceedings, administrative or civil, not finally determined on such date, nor any administrative or civil action or proceeding, whether or not pending, based upon any act committed or liability incurred prior to such cessation of effectiveness.
 
 #### (e) State substitute emergency conservation measures
 
@@ -44,7 +44,7 @@ Any finding under subsection (b) shall be accompanied by such information and an
 
 &emsp;(C) such measures would be approved under section 8512(c)(1)(B), (C), and (D) of this title.
 
-(3) If the Secretary approves measures under this subsection such Federal measure shall cease to be effective in that State or political subdivision. Nothing in this paragraph shall affect any action or pending proceedings, administrative or civil, not finally determined on the date the Federal measure ceases to be effective in that State or political subdivision, nor any administrative or civil action or proceeding, whether ornot pending, based upon any act committed or liability incurred prior to such cessation of effectiveness.
+(3) If the Secretary approves measures under this subsection such Federal measure shall cease to be effective in that State or political subdivision. Nothing in this paragraph shall affect any action or pending proceedings, administrative or civil, not finally determined on the date the Federal measure ceases to be effective in that State or political subdivision, nor any administrative or civil action or proceeding, whether or not pending, based upon any act committed or liability incurred prior to such cessation of effectiveness.
 
 (4) If the Secretary finds after a reasonable period of time that the requirements of this subsection are not being met under the measures in effect under this subsection he may reimpose the Federal measure referred to in paragraph (1).
 

@@ -6,7 +6,7 @@ The Secretary, on the basis of the best scientific evidence available and in con
 
 #### (b) Factors considered in prescribing regulations
 
-In prescribing such regulations, the Secretary shall give full consideration to all factors whichmay affect the extent to which such animals may be taken or imported, including but not limited to the effect of such regulations on—
+In prescribing such regulations, the Secretary shall give full consideration to all factors which may affect the extent to which such animalsmay be taken or imported, including but not limited to the effect of such regulations on—
 
 &emsp;(1) existing and future levels of marine mammal species and population stocks;
 

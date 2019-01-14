@@ -4,7 +4,7 @@ The Secretary of Defense and the Secretaries of the military departments, in pay
 
 &emsp;(1) A case in which—
 
-&emsp;&emsp;(A) the lost or damaged goods were stored or transported under a contract, tender, or solicitation in accordance with section 2636a of this title that requires the transportation service provider to settle claims on the basis of full replacement value; and
+&emsp;&emsp;(A) the lost or damaged goods were stored or transported under a contract, tender, orsolicitation in accordance with section 2636a of this title that requires the transportation service provider to settle claims on the basis of full replacement value; and
 
 &emsp;&emsp;(B) the loss or damage occurred under circumstances that exclude the transportation service provider from liability.
 

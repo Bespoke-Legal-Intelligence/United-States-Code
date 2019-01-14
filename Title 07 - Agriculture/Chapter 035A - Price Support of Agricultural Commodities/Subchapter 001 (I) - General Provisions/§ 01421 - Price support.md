@@ -34,7 +34,7 @@ The level of price support for any commodity shall be determined upon the basis 
 
 #### References in Text
 
-This Act, referred to in subsec. (b), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in subsec. (b), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 The Disaster Relief and Emergency Assistance Act, referred to in subsec. (c), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
@@ -138,7 +138,7 @@ Prior Crops.—Except as otherwise specifically provided and notwithstanding any
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–198, title IX, §903(b), Dec. 23, 1985, 99 Stat. 1444, provided that: "The amendments made by thissection \[amending this section\] shall apply to nonpayments occurring after January 1, 1985."
+Pub. L. 99–198, title IX, §903(b), Dec. 23, 1985, 99 Stat. 1444, provided that: "The amendments made by this section \[amending this section\] shall apply to nonpayments occurring after January 1, 1985."
 
 #### Short Title of 1993 Amendment
 
@@ -198,7 +198,7 @@ Pub. L. 96–213, §1, Mar. 18, 1980, 94 Stat. 119, provided: "That this Act \[a
 
 #### Short Title
 
-Act Oct. 31, 1949, ch. 792, §1, 63 Stat. 1051, provided: "That this Act \[enacting this section and sections 1422to 1431, 1432, 1433, 1441, 1443 to 1445a, 1446, 1446a, 1446d, 1447 to 1449, and 1461 to 1468 of this title, amending sections 612c, 1301, 1322, 1328, 1343, 1344, 1345, and 1353 to 1356 of this title, and repealing section 1302 of this title; amending sections 1134c and 1134j of Title 12, Banks and Banking, section 713a–4 of Title 15, Commerce and Trade, section 410 of Title 42, The Public Health and Welfare\] may be cited as the 'Agricultural Act of 1949'."
+Act Oct. 31, 1949, ch. 792, §1, 63 Stat. 1051, provided: "That this Act \[enacting this section and sections 1422 to 1431, 1432, 1433, 1441, 1443 to 1445a, 1446, 1446a, 1446d, 1447 to 1449, and 1461 to 1468 of this title, amending sections 612c, 1301, 1322, 1328, 1343, 1344, 1345, and 1353 to 1356 of this title, and repealing section 1302 of this title; amending sections 1134c and 1134j of Title 12, Banks and Banking, section 713a–4 of Title 15, Commerce and Trade, section 410 of Title 42, The Public Health and Welfare\] may be cited as the 'Agricultural Act of 1949'."
 
 #### Repeals
 
@@ -266,7 +266,7 @@ Pub. L. 106–31, title I, §101, May 21, 1999, 113 Stat. 61, provided for crop 
 
 Pub. L. 106–31, title I, §104, May 21, 1999, 113 Stat. 62, provided an additional amount for the Livestock Assistance Program under Pub. L. 105–277 (see section 101(a) \[title XI\] of Pub. L. 105–277, formerly set out as a note below).
 
-Pub. L. 105–277, div. A, §101(a) \[title XI\], Oct. 21, 1998, 112 Stat. 2681, 2681–42, as amended by Pub. L. 106–31, title III, §3018, May 21, 1999, 113 Stat. 99; Pub. L. 106–78, title VIII, §817(a)(2), title IX, §913(b), Oct. 22, 1999, 113 Stat. 1184, 1205; Pub. L. 106–387, §1(a) \[title VII, §754\], Oct. 28, 2000, 114 Stat. 1549, 1549A–42; Pub. L. 107–25, §9, Aug. 13, 2001, 115 Stat. 203, provided emergency assistance for crop and livestock feed losses, for market loss assistance, and for other assistance to agricultural producers who incurred losses in the 1998 crop year due todisaster or who incurred multiyear losses in the period including 1998 and preceding crop years.
+Pub. L. 105–277, div. A, §101(a) \[title XI\], Oct. 21, 1998, 112 Stat. 2681, 2681–42, as amended by Pub. L. 106–31, title III, §3018, May 21, 1999, 113 Stat. 99; Pub. L. 106–78, title VIII, §817(a)(2), title IX, §913(b), Oct. 22, 1999, 113 Stat. 1184, 1205; Pub. L. 106–387, §1(a) \[title VII, §754\], Oct. 28, 2000, 114 Stat. 1549, 1549A–42; Pub. L. 107–25, §9, Aug. 13, 2001, 115 Stat. 203, provided emergency assistance for crop and livestock feed losses, for market loss assistance, and for other assistance to agricultural producers who incurred losses in the 1998 crop year due to disaster or who incurred multiyear losses in the period including 1998 and preceding crop years.
 
 #### Programs for Farmers and Ranchers Who Were Activated Reservists During Persian Gulf Conflict
 
@@ -294,7 +294,7 @@ Pub. L. 101–624, title XXV, §2515, Nov. 28, 1990, 104 Stat. 4075, authorized 
 
 #### Recordkeeping Improvement
 
-Pub. L. 101–624, title XXV, §2516, Nov. 28, 1990, 104 Stat. 4075, which provided that section could be cited as "Agricultural Program Reporting and Recordkeeping Improvement Act of 1990", directed Secretary of Agriculture, not later than 240 days after Nov. 28, 1990, to submit to Congress a report containing specific proposals for reducing and simplifying recordkeeping and other paperwork required of producers participating in programs administered by Secretary and directed Secretary to take appropriate action to integrate various data bases of Department relating to agricultural program data, and to facilitate sharing of relevant data among various agencies of Department.
+Pub. L. 101–624, title XXV, §2516, Nov. 28, 1990, 104 Stat. 4075, which provided that section could be cited as"Agricultural Program Reporting and Recordkeeping Improvement Act of 1990", directed Secretary of Agriculture, not later than 240 days after Nov. 28, 1990, to submit to Congress a report containing specific proposals for reducing and simplifying recordkeeping and other paperwork required of producers participating in programs administered by Secretary and directed Secretary to take appropriate action to integrate various data bases of Department relating to agricultural program data, and to facilitate sharing of relevant data among various agencies of Department.
 
 #### Readjustment of Support Levels
 

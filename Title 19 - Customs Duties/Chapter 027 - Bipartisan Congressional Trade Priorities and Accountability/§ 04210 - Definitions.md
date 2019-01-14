@@ -26,7 +26,7 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "common multilateral environmental agreement" means any agreementspecified in subparagraph (B) or included under subparagraph (C) to which both the United States and one or more other parties to the negotiations are full parties, including any current or future mutually agreed upon protocols, amendments, annexes, or adjustments to such an agreement.
+&emsp;&emsp;The term "common multilateral environmental agreement" means any agreement specified in subparagraph (B) or included under subparagraph (C) to which both the United States and one or more other parties to the negotiations are full parties, including any current or future mutually agreed upon protocols, amendments, annexes, or adjustments to such an agreement.
 
 #### (B) Agreements specified
 

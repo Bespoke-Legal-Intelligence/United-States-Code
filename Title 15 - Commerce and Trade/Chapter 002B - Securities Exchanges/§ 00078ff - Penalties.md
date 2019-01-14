@@ -40,7 +40,7 @@ Subsec. (c)(2). Pub. L. 105–366, §2(d)(3), amended par. (2) generally. Prior 
 
 "(C) Any officer, director, employee, or agent of an issuer, or stockholder acting on behalf of such issuer, who violates section 78dd–1(a) of this title shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Commission."
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–704 substituted "$1,000,000" for "$100,000", "10 years" for "five years","is a person other than a natural person" for "is an exchange", and "$2,500,000" for "$500,000".
+<b>1988</b>—Subsec. (a). Pub. L. 100–704 substituted "$1,000,000" for "$100,000", "10 years" for "five years", "is a person other than a natural person" for "is an exchange", and "$2,500,000" for "$500,000".
 
 Subsec. (c). Pub. L. 100–418 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 

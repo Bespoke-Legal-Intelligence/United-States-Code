@@ -8,7 +8,7 @@ Designation of Offices on Military Installations as Voter Assistance Offices.—
 
 &emsp;(2) Information and assistance, if requested, including access to the Internet where practicable, to register to vote in an election for Federal office.
 
-&emsp;(3) Information and assistance, if requested, including access to the Internet where practicable, to update the individual's voter registration information, including instructions for absent uniformed services voters to change their address by submitting the official post card form prescribed under section 101 of the Uniformed and Overseas Citizens Absentee Voting Act to the appropriate State election official.
+&emsp;(3) Information and assistance, if requested, including access to the Internet where practicable, to update the individual's voter registration information, including instructions for absent uniformed services voters to changetheir address by submitting the official post card form prescribed under section 101 of the Uniformed and Overseas Citizens Absentee Voting Act to the appropriate State election official.
 
 &emsp;(4) Information and assistance, if requested, to request an absentee ballot under the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.).<sup>1</sup>
 

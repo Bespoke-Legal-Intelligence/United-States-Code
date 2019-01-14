@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Administrator shall carry out a program to provide financial assistance to States and communities, using amounts made available from the National Flood Mitigation Fund under section 4104d of this title, for planning and carrying out activities designed to reduce the risk of flood damage to structures covered under contracts for flood insurance under this chapter. Such financial assistance shall be made available—
+The Administrator shall carry out a program to provide financial assistance to States andcommunities, using amounts made available from the National Flood Mitigation Fund under section 4104d of this title, for planning and carrying out activities designed to reduce the risk of flood damage to structures covered under contracts for flood insurance under this chapter. Such financial assistance shall be made available—
 
 &emsp;(1) to States and communities in the form of grants under this section for carrying out mitigation activities;
 
@@ -56,7 +56,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 &emsp;&emsp;(I) other mitigation activities not described in subparagraphs (A) through (G) or the regulations issued under subparagraph (H), that are described in the mitigation plan of a State or community; and
 
-&emsp;&emsp;(J) without regard to the requirements under paragraphs (1) and (2) of subsection (d), and if the State applied for and was awarded at least $1,000,000 in grants available under this section in the prior fiscal year, technical assistance to communities to identify eligible activities, to develop grant applications, and to implement grants awarded under this section, not to exceed $50,000 to any 1 State in any fiscal year.
+&emsp;&emsp;(J) without regard to the requirements under paragraphs (1) and (2) of subsection (d), and if the State applied for and was awarded at least $1,000,000 in grants available under this section in the prior fiscalyear, technical assistance to communities to identify eligible activities, to develop grant applications, and to implement grants awarded under this section, not to exceed $50,000 to any 1 State in any fiscal year.
 
 #### (4) Eligibility of demolition and rebuilding of properties
 
@@ -222,7 +222,7 @@ Pub. L. 103–325, title V, §553(b), Sept. 23, 1994, 108 Stat. 2273, required t
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

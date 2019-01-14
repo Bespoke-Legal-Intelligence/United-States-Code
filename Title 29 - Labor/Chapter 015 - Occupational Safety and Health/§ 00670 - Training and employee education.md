@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary of Health and Human Services to conduct education and informational programs; consultations
 
-The Secretary of Health and Human Services, after consultation with the Secretary and with other appropriate Federal departments and agencies, shall conduct, directly or by grants or contracts (1) education programs to provide anadequate supply of qualified personnel to carry out the purposes of this chapter, and (2) informational programs on the importance of and proper use of adequate safety and health equipment.
+The Secretary of Health and Human Services, after consultation with the Secretary and with other appropriate Federal departments and agencies, shall conduct, directly or by grants or contracts (1) education programs to provide an adequate supply of qualified personnel to carry out the purposes of this chapter, and (2) informational programs on the importance of and proper use of adequate safety and health equipment.
 
 #### (b) Authority of Secretary of Labor to conduct short-term training of personnel
 
@@ -14,7 +14,7 @@ The Secretary, in consultation with the Secretary of Health and Human Services, 
 
 #### (d) Compliance assistance program
 
-(1) The Secretary shall establish and support cooperative agreements with the States under which employers subject to this chapter may consult with State personnel with respect to—
+(1) The Secretary shall establish and support cooperative agreements with the States underwhich employers subject to this chapter may consult with State personnel with respect to—
 
 &emsp;(A) the application of occupational safety and health requirements under this chapter or under State plans approved under section 667 of this title; and
 

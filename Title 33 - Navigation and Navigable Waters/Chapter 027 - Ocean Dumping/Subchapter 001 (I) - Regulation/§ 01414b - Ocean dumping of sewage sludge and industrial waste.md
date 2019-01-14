@@ -222,7 +222,7 @@
 
 #### (3) Use of unexpended amounts
 
-&emsp;Upon a determination by the Administrator that a person has terminated ocean dumping of sewage sludge or industrial waste, the balance of amounts in an account established by the person under this subsection shall be paid to the person for use—
+&emsp;Upon a determination by the Administrator that a person has terminated ocean dumpingof sewage sludge or industrial waste, the balance of amounts in an account established by the person under this subsection shall be paid to the person for use—
 
 &emsp;&emsp;(A) for debts incurred by the person in complying with this Act or the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\];
 
@@ -296,7 +296,7 @@
 
 #### (4) Deposits into Treasury as offsetting collections
 
-&emsp;Amounts of fees and penalties paid to the Administrator pursuant to subsection (b)(2)(B) or (d)(2)(B) which are used by an agency in accordance with paragraph (1) shall be deposited into the Treasury as offsetting collections of the agency.
+&emsp;Amounts of fees and penalties paid to the Administrator pursuant to subsection (b)(2)(B)or (d)(2)(B) which are used by an agency in accordance with paragraph (1) shall be deposited into the Treasury as offsetting collections of the agency.
 
 #### (g) Enforcement
 

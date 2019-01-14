@@ -28,9 +28,9 @@
 
 The instruments under which the loan is made and the security given shall—
 
-&emsp;(1) provide for security upon the applicant's equity in the farm or such other security orcollateral, if any, as may be found necessary by the Secretary reasonably to assure repayment of the indebtedness;
+&emsp;(1) provide for security upon the applicant's equity in the farm or such other security or collateral, if any, as may be found necessary by the Secretary reasonably to assure repayment of the indebtedness;
 
-&emsp;(2) provide for the repayment of principal and interest in accordance with schedules and repayment plans prescribed by the Secretary, except that any prepayment of a loan made or insured under section 1484 or 1485 of this title shall be subject to the provisions of subsection (c);
+&emsp;(2) provide for the repayment of principal and interest in accordance with schedules and repayment plans prescribed by the Secretary,except that any prepayment of a loan made or insured under section 1484 or 1485 of this title shall be subject to the provisions of subsection (c);
 
 &emsp;(3) except for guaranteed loans, contain the agreement of the borrower that he will, at the request of the Secretary, proceed with diligence to refinance the balance of the indebtedness through cooperative or other responsible private credit sources whenever the Secretary determines, in the light of the borrower's circumstances, including his earning capacity and the income from the farm, that he is able to do so upon reasonable terms and conditions;
 
@@ -208,7 +208,7 @@ On and after November 30, 1983—
 
 (1) A loan which may be made or insured under this section with respect to housing shall be made or insured with respect to a manufactured home or with respect to a manufactured home and lot, whether such home or such home and lot is real property, personal property, or mixed real and personal property, if—
 
-&emsp;(A) the manufactured home meets the standards prescribed pursuant to title VI of the Housing and Community Development Act of 1974 \[42 U.S.C. 5401 et seq.\];
+&emsp;(A) the manufactured home meets the standards prescribed pursuant to title VI of theHousing and Community Development Act of 1974 \[42 U.S.C. 5401 et seq.\];
 
 &emsp;(B) the manufactured home, or the manufactured home and lot, meets the installation, structural, and site requirements which would apply under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\]; and
 
@@ -274,7 +274,7 @@ On and after November 30, 1983—
 
 &emsp;(A) In providing guaranteed loans under this subsection, the Secretary shall give priority to first-time homebuyers (as defined in paragraph (17)).
 
-&emsp;(B) The Secretary may require that, as a condition of receiving a guaranteed loan pursuant to this subsection, a borrower who is afirst-time homebuyer successfully complete a program of homeownership counseling under section 1701x(a)(1)(iii) of title 12 and obtain certification from the provider of the program that the borrower is adequately prepared for the obligations of homeownership.
+&emsp;(B) The Secretary may require that, as a condition of receiving a guaranteed loan pursuant to this subsection, a borrower who is a first-time homebuyer successfully complete a program of homeownership counseling undersection 1701x(a)(1)(iii) of title 12 and obtain certification from the provider of the program that the borrower is adequately prepared for the obligations of homeownership.
 
 #### (6) Eligible lenders
 
@@ -336,7 +336,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;(E) the Secretary may authorize compensation to the mortgagee for lost income on monthly mortgage payments due to interest rate reduction;
 
-&emsp;&emsp;(F) the Secretary may reimburse the mortgagee from the appropriate guaranty fund inconnection with any activities that the mortgagee is required to undertake concerning repayment by the mortgagor of the amount owed to the Secretary;
+&emsp;&emsp;(F) the Secretary may reimburse the mortgagee from the appropriate guaranty fund in connection with any activities that the mortgagee is required to undertake concerning repayment by the mortgagor of the amount owed to the Secretary;
 
 &emsp;&emsp;(G) the Secretary may authorize payments to the mortgagee on behalf of the borrower, under such terms and conditions as are defined by the Secretary, based on successful performance under the terms of the mortgage modification, which shall be used to reduce the principal obligation under the modified mortgage; and
 
@@ -444,19 +444,19 @@ On and after November 30, 1983—
 
 #### (1) Authority; maximum amount
 
-&emsp;The Secretary may assess and collect a fee for a lender to access the automated underwriting systems of the Department in connection with such lender's participation in the single family loan program under this section and only in an amount necessary to cover the costs of information technology enhancements, improvements, maintenance, and development for automated underwriting systems used in connection with the single family loan program under this section, except that such fee shall not exceed $50 per loan.
+&emsp;To the extent provided in advance in appropriations Acts, the Secretary may assess and collect a fee for a lender to access the automated underwriting systems of the Department in connection with such lender's participation in the single family loan program under this section and only in an amount necessary to cover the costs of information technology enhancements, improvements, maintenance, and development for automated underwriting systems used in connection with the single family loan program under this section, except that such fee shall not exceed $50 per loan.
 
 #### (2) Crediting; availability
 
 &emsp;Any amounts collected from such fees shall be credited to the Rural Development Expense Account as offsetting collections and shall remain available until expended, in the amounts provided in appropriation Acts, solely for expenses described in paragraph (1).
 
-(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title I \[title V, §503(a), (d)\], Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat. 2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663; Pub. L. 106–569, title VII, §701, Dec. 27, 2000, 114 Stat. 3013; Pub. L. 108–285, §3(b), (c), Aug. 2, 2004, 118 Stat. 917, 918; Pub. L. 108–447, div. A, title VII, §726(b), Dec. 8, 2004, 118 Stat. 2842; Pub. L. 111–22, div. A, title I, §101(a), (b), May 20, 2009, 123 Stat. 1633, 1635; Pub. L. 111–212, title I, §102(a), July 29, 2010, 124 Stat. 2303; Pub. L. 114–201, title II, §§201, 202, July 29, 2016, 130 Stat. 805.)
+(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title I \[title V, §503(a), (d)\], Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat. 2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663; Pub. L. 106–569, title VII, §701, Dec. 27, 2000, 114 Stat. 3013; Pub. L. 108–285, §3(b), (c), Aug. 2, 2004, 118 Stat. 917, 918; Pub. L. 108–447, div. A, title VII, §726(b), Dec. 8, 2004, 118 Stat. 2842; Pub. L. 111–22, div. A, title I, §101(a), (b), May 20, 2009, 123 Stat. 1633, 1635; Pub. L. 111–212, title I, §102(a), July 29, 2010, 124 Stat. 2303; Pub. L. 114–201, title II, §§201, 202, July 29, 2016, 130 Stat. 805; Pub. L. 115–141, div. A, title VII, §758, Mar. 23, 2018, 132 Stat. 395.)
 
 #### References in Text
 
 Section 1484(j) of this title, referred to in subsec. (c)(4)(B)(iv), was repealed by Pub. L. 106–569, title VII, §708(b), Dec. 27, 2000, 114 Stat. 3018.
 
-The Housing and Community Development Act of 1974, referred to in subsec. (e)(1)(A), (2)(B), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title VI of the Housing and Community Development Act of 1974 is known as the National Manufactured Housing Construction and Safety Standards Act of 1974 and is classified generallyto chapter 70 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (e)(1)(A), (2)(B), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title VI of the Housing and Community Development Act of 1974 is known as the National Manufactured Housing Construction and Safety Standards Act of 1974 and is classified generally to chapter 70 (§5401 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The National Housing Act, referred to in subsec. (e)(1)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the National Housing Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
@@ -465,6 +465,8 @@ Section 502, referred to in subsec. (h), means section 502 of act July 15, 1949,
 This chapter, referred to in subsec. (h)(15)(A), appearing in the original is unidentifiable because title V of act July 15, 1949, does not contain chapters.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (i)(1). Pub. L. 115–141 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Secretary may assess and collect a fee for a lender to access the automated underwriting systems of the Department in connection with such lender's participation in the single family loan program under this section and only in an amount necessary to cover the costs of information technology enhancements, improvements, maintenance, and development for automated underwriting systems used in connection with the single family loan program under this section, except that such fee shall not exceed $50 per loan."
 
 <b>2016</b>—Subsec. (h)(18). Pub. L. 114–201, §201, added par. (18).
 
@@ -606,13 +608,13 @@ Pub. L. 98–479, title I, §105(b)(2), Oct. 17, 1984, 98 Stat. 2226, provided t
 
 Pub. L. 101–625, title VII, §704(b), Nov. 28, 1990, 104 Stat. 4283, provided that: "Not later than the expiration of the 120-day period beginning on the date of enactment of this Act \[Nov. 28, 1990\], the Secretary of Agriculture shall issue any regulations necessary to carry out the amendment made by subsection (a) \[amending this section\]."
 
-Pub. L. 101–625, title VII, §705(b), Nov. 28, 1990, 104 Stat. 4283, provided that: "Not later than the expiration of the 120-day period beginning on the date of enactment of this Act \[Nov. 28, 1990\], the Secretary of Agriculture shall issue any regulations necessary to carry out the amendment made by subsection (a) \[amending this section\]."
+Pub. L. 101–625, title VII, §705(b), Nov. 28, 1990, 104 Stat. 4283, provided that: "Not later than the expiration of the 120-day period beginning on the date of enactment of this Act \[Nov. 28, 1990\], the Secretary of Agriculture shall issue any regulations necessary to carryout the amendment made by subsection (a) \[amending this section\]."
 
 Pub. L. 101–625, title VII, §706(d), Nov. 28, 1990, 104 Stat. 4286, provided that:
 
 "(1)
 
-Proposed regulations and comment period.—Not later than 120 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary of Agriculture shall publish in the Federal Register proposed regulations to implement the amendments made by this section \[amending this section and section 1701x of Title 12, Banks and Banking\]. The Secretary shall receivecomments regarding the regulations during the 30-day period beginning on the date of the publication of the proposed regulations.
+Proposed regulations and comment period.—Not later than 120 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary of Agriculture shall publish in the Federal Register proposed regulations to implement the amendments made by this section \[amending this section and section 1701x of Title 12, Banks and Banking\]. The Secretary shall receive comments regarding the regulations during the 30-day period beginning on the date of the publication of the proposed regulations.
 
 "(2)
 
@@ -702,7 +704,7 @@ Purpose.—The purpose of this section \[amending this section and section 1701x
 
 #### Rural Housing Guaranteed Loan Demonstration
 
-Pub. L. 100–242, title III, §304, Feb. 5, 1988, 101 Stat. 1894, as amended by Pub. L. 100–628, title X, §1041(a), (b), Nov. 7, 1988, 102 Stat. 3272, provided for establishment by Secretary of Agriculture of a rural housing guaranteed loan demonstration to provide guaranteed loans in accordance with section 1487(d) of this title and last sentence of section 1490(a)(1)(A) of this title, authorized amount available for such loans, established loan criteria, directed Secretary to submit to Congress, as soon as practicable after Sept. 30, 1989, an interim report setting forth findings and recommendations as aresult of the demonstration and a final report on such findings and recommendations as soon as practicable after Sept. 30, 1991, prohibited Secretary from providing any guaranteed loans after Sept. 30, 1991, except pursuant to a commitment entered into on or before such date, and excluded applicability of subsec. (d) of this section and second sentence of section 1487(e) of this title to loan demonstration.
+Pub. L. 100–242, title III, §304, Feb. 5, 1988, 101 Stat. 1894, as amended by Pub. L. 100–628, title X, §1041(a),\(b), Nov. 7, 1988, 102 Stat. 3272, provided for establishment by Secretary of Agriculture of a rural housing guaranteed loan demonstration to provide guaranteed loans in accordance with section 1487(d) of this title and last sentence of section 1490(a)(1)(A) of this title, authorized amount available for such loans, established loan criteria, directed Secretary to submit to Congress, as soon as practicable after Sept. 30, 1989, an interim report setting forth findings and recommendations as a result of the demonstration and a final report on such findings and recommendations as soon as practicable after Sept. 30, 1991, prohibited Secretary from providing any guaranteed loans after Sept. 30, 1991, except pursuant to a commitment entered into on or before such date, and excluded applicability of subsec. (d) of this section and second sentence of section 1487(e) of this title to loan demonstration.
 
 #### Prohibition on Acceptance of Prepayment of Certain Loans
 

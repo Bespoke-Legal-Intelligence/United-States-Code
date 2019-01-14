@@ -50,7 +50,7 @@
 
 #### (4) Carryover of appropriations
 
-&emsp;Funds appropriated pursuant to this section during any fiscal year shall remain available until expended. Funds obligated, but subsequently unspent and deobligated, may remain available, to the extent as may <sup>2</sup> provided inappropriations Acts, for the purpose described in section 12102(a)(4) of this title for any subsequent fiscal year. The further obligation of such funds by an official for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
+&emsp;Funds appropriated pursuant to this section during any fiscal year shall remain available until expended. Funds obligated, but subsequently unspent and deobligated, may remain available, to the extent as may <sup>2</sup> provided in appropriations Acts, for the purpose described in section 12102(a)(4) of this title for any subsequent fiscal year. The further obligation of such funds by an official for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
 
 #### (5) Matching funds
 

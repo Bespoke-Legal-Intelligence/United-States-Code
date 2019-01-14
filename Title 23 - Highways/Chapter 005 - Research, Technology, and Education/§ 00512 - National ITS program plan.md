@@ -108,7 +108,7 @@ Scope.—Subject to the provisions of this subtitle \[subtitle C (§§5301–531
 
 "(b)
 
-Policy.—Intelligent transportation system research projects and operational tests funded pursuantto this subtitle shall encourage and not displace public-private partnerships or private sector investment in such tests and projects.
+Policy.—Intelligent transportation system research projects and operational tests funded pursuant to this subtitle shall encourage and not displace public-private partnerships or private sector investment in such tests and projects.
 
 "(c)
 
@@ -252,7 +252,7 @@ In General.—The Secretary \[of Transportation\] shall carry out a comprehensiv
 
 Priority Areas.—Under the program, the Secretary shall give higher priority to funding projects that—
 
-&emsp;"(1) enhance mobility and productivity through improved traffic management, incident management,transit management, freight management, road weather management, toll collection, traveler information, or highway operations systems and remote sensing products;
+&emsp;"(1) enhance mobility and productivity through improved traffic management, incident management, transit management, freight management, road weather management, toll collection, traveler information, or highway operations systems and remote sensing products;
 
 &emsp;"(2) utilize interdisciplinary approaches to develop traffic management strategies and tools to address multiple impacts of congestion concurrently;
 
@@ -520,7 +520,7 @@ State.—The term 'State' has the meaning given the term under section 101 of ti
 
 &emsp;"(8)
 
-Transportation systems management and operations.—The term 'transportation systems management and operations' has the meaning given theterm under section 101(a) of title 23, United States Code \[section 101(a) of this title does not define the term\]."
+Transportation systems management and operations.—The term 'transportation systems management and operations' has the meaning given the term under section 101(a) of title 23, United States Code \[section 101(a) of this title does not define the term\]."
 
 #### Environmental Review of Activities That Support Deployment of Intelligent Transportation Systems
 

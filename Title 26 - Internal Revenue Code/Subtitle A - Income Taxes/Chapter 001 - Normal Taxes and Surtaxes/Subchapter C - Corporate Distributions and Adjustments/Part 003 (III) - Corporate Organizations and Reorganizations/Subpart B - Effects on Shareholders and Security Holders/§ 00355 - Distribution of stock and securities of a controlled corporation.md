@@ -58,11 +58,11 @@
 
 #### (C) Property attributable to accrued interest
 
-&emsp;&emsp;Neither paragraph (1) nor so much of section 356 as relates to paragraph (1) shallapply to the extent that any stock (including nonqualified preferred stock, as defined in section 351(g)(2)), securities, or other property received is attributable to interest which has accrued on securities on or after the beginning of the holder's holding period.
+&emsp;&emsp;Neither paragraph (1) nor so much of section 356 as relates to paragraph (1) shall apply to the extent that any stock (including nonqualified preferred stock, as defined in section 351(g)(2)), securities, or other property received is attributable to interest which has accrued on securities on or after the beginning of the holder's holding period.
 
 #### (D) Nonqualified preferred stock
 
-&emsp;&emsp;Nonqualified preferred stock (as defined in section 351(g)(2)) received in a distribution with respect to stock other than nonqualified preferred stock (as so defined) shall not be treated as stock or securities.
+&emsp;&emsp;Nonqualified preferred stock (as defined in section 351(g)(2)) received in a distributionwith respect to stock other than nonqualified preferred stock (as so defined) shall not be treated as stock or securities.
 
 #### (4) Cross references
 
@@ -140,7 +140,7 @@
 
 #### (C) Treatment of liabilities
 
-&emsp;&emsp;If any property distributed in the distribution referred to in paragraph (1) is subject to a liability or the shareholder assumes a liability of the distributing corporation in connection with the distribution, then, for purposes of subparagraph (A), the fair market value of such property shall be treated as not less than the amount of such liability.
+&emsp;&emsp;If any property distributed in the distribution referred to in paragraph (1) is subject toa liability or the shareholder assumes a liability of the distributing corporation in connection with the distribution, then, for purposes of subparagraph (A), the fair market value of such property shall be treated as not less than the amount of such liability.
 
 #### (3) Coordination with sections 311 and 336(a)
 
@@ -478,13 +478,13 @@ Except as provided in regulations, this section (or so much of section 356 as re
 
 &emsp;This section (and so much of section 356 as relates to this section) shall not apply to any distribution if either the distributing corporation or controlled corporation is a real estate investment trust.
 
-#### (2) Exceptions for certain spinoffs
+#### (2) Exceptions for certain distributions
 
-#### (A) Spinoffs of a real estate investment trust by another real estate investment trust
+#### (A) Distributions of a real estate investment trust by another real estate investment trust
 
 &emsp;&emsp;Paragraph (1) shall not apply to any distribution if, immediately after the distribution, the distributing corporation and the controlled corporation are both real estate investment trusts.
 
-#### (B) Spinoffs of certain taxable REIT subsidiaries
+#### (B) Distributions of certain taxable REIT subsidiaries
 
 &emsp;&emsp;Paragraph (1) shall not apply to any distribution if—
 
@@ -492,17 +492,27 @@ Except as provided in regulations, this section (or so much of section 356 as re
 
 &emsp;&emsp;&emsp;(ii) the controlled corporation has been a taxable REIT subsidiary (as defined in section 856(l)) of the distributing corporation at all times during such period, and
 
-&emsp;&emsp;&emsp;(iii) the distributing corporation had control (as defined in section 368(c) appliedby taking into account stock owned directly or indirectly, including through one or more corporations or partnerships, by the distributing corporation) of the controlled corporation at all times during such period.
+&emsp;&emsp;&emsp;(iii) the distributing corporation had control (as defined in section 368(c) applied by taking into account stock owned directly or indirectly, including through one or more corporations or partnerships, by the distributing corporation) of the controlled corporation at all times during such period.
 
-> &emsp;&emsp;A controlled corporation will be treated as meeting the requirements of clauses (ii) and (iii) if the stock of such corporation was distributed by a taxable REIT subsidiary in a transaction to which this section (or so much of section 356 as relates to this section) applies and the assets of such corporation consist solely of the stock or assets of assets held by one or more taxable REIT subsidiaries of the distributing corporation meeting the requirements of clauses (ii) and (iii). For purposes of clause (iii), control of a partnership means ownership of 80 percent of the profits interest and 80 percent of the capital interests.
+> &emsp;&emsp;A controlled corporation will be treated as meeting the requirements of clauses (ii) and\(iii) if the stock of such corporation was distributed by a taxable REIT subsidiary in a transaction to which this section (or so much of section 356 as relates to this section) applies and the assets of such corporation consist solely of the stock or assets held by one or more taxable REIT subsidiaries of the distributing corporation meeting the requirements of clauses (ii) and (iii). For purposes of clause (iii), control of a partnership means ownership of at least 80 percent of the profits interest and at least 80 percent of the capital interests.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 113; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §4(e)(2), Dec. 24, 1980, 94 Stat. 3403; Pub. L. 100–203, title X, §10223(b), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, §1018(d)(5)(C), title II, §2004(k)(1), Nov. 10, 1988, 102 Stat. 3580, 3605; Pub. L. 101–508, title XI, §§11321(a), 11702(e)(2), Nov. 5, 1990, 104 Stat. 1388–460, 1388–515; Pub. L. 104–188, title I, §1704(t)(31), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 105–34, title X, §§1012(a), (b)(1), 1014(c), (e)(1), (2), Aug. 5, 1997, 111 Stat. 914, 916, 921; Pub. L. 105–206, title VI, §6010(c)(2), July 22, 1998, 112 Stat. 813; Pub. L. 109–222, title II, §202, title V, §507(a), May 17, 2006, 120 Stat. 348, 358; Pub. L. 109–432, div. A, title IV, §410(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 110–172, §4(b)(1), (2), Dec. 29, 2007, 121 Stat. 2476; Pub. L. 113–295, div. A, title II, §221(a)(50), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 114–113, div. Q, title III, §311(a), Dec. 18, 2015, 129 Stat. 3090.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 113; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §4(e)(2), Dec. 24, 1980, 94 Stat. 3403; Pub. L. 100–203, title X, §10223(b), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, §1018(d)(5)(C), title II, §2004(k)(1), Nov. 10, 1988, 102 Stat. 3580, 3605; Pub. L. 101–508, title XI, §§11321(a), 11702(e)(2), Nov. 5, 1990, 104 Stat. 1388–460, 1388–515; Pub. L. 104–188, title I, §1704(t)(31), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 105–34, title X, §§1012(a), (b)(1), 1014(c), (e)(1), (2), Aug. 5, 1997, 111 Stat. 914, 916, 921; Pub. L. 105–206, title VI, §6010(c)(2), July 22, 1998, 112 Stat. 813; Pub. L. 109–222, title II, §202, title V, §507(a), May 17, 2006, 120 Stat. 348, 358; Pub. L. 109–432, div. A, title IV, §410(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 110–172, §4(b)(1), (2), Dec. 29, 2007, 121 Stat. 2476; Pub. L. 113–295, div. A, title II, §221(a)(50), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 114–113, div. Q, title III, §311(a), Dec. 18, 2015, 129 Stat. 3090; Pub. L. 115–141, div. U, title I, §101(m), title IV, §401(a)(65), Mar. 23, 2018, 132 Stat. 1165, 1187.)
 
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (g)(2)(A)(i), is the date of enactment of Pub. L. 109–222, which was approved May 17, 2006.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (h)(2). Pub. L. 115–141, §101(m)(2)(A), substituted "distributions" for "spinoffs" in heading.
+
+Subsec. (h)(2)(A). Pub. L. 115–141, §101(m)(2)(B), substituted "Distributions" for "Spinoffs" in heading.
+
+Subsec. (h)(2)(B). Pub. L. 115–141, §401(a)(65), struck out "of assets" after "the stock or assets" in concluding provisions.
+
+Pub. L. 115–141, §101(m)(2)(B), substituted "Distributions" for "Spinoffs" in heading.
+
+Pub. L. 115–141, §101(m)(1), in concluding provisions, substituted "at least 80 percent" for "80 percent" in two places.
 
 <b>2015</b>—Subsec. (h). Pub. L. 114–113 added subsec. (h).
 
@@ -598,6 +608,10 @@ Subsec. (a)(4). Pub. L. 96–589, §4(e)(2), designated existing provisions as s
 
 <b>1976</b>—Subsec. (a)(1)(D)(ii). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
+#### Effective Date of 2018 Amendment
+
+Amendment by section 101(m) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–113, div. Q, title III, §311(c), Dec. 18, 2015, 129 Stat. 3091, provided that: "The amendments made by this section \[amending this section and section 856 of this title\] shall apply to distributions on or after December 7, 2015, but shall not apply to any distribution pursuant to a transaction described in a ruling request initially submitted to the Internal Revenue Service on or before such date, which request has not been withdrawn and with respect to which a ruling has not been issued or denied in its entirety as of such date."
@@ -688,7 +702,7 @@ Binding contract exception.—The amendments made by this section shall not appl
 
 "(3)
 
-Transitional rules.—For purposes of subparagraphs (A) and (B) of section 355(d)(3) of the InternalRevenue Code of 1986 (as amended by subsection (a)), an acquisition shall be treated as occurring on or before October 9, 1990, if—
+Transitional rules.—For purposes of subparagraphs (A) and (B) of section 355(d)(3) of the Internal Revenue Code of 1986 (as amended by subsection (a)), an acquisition shall be treated as occurring on or before October 9, 1990, if—
 
 &emsp;"(A) such acquisition is pursuant to a written binding contract in effect on October 9, 1990, and at all times thereafter before such acquisition,
 

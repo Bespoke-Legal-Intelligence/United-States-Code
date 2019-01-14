@@ -76,7 +76,7 @@ In this section:
 
 &emsp;&emsp;&emsp;The Secretary may require a recipient of a grant under this section—
 
-&emsp;&emsp;&emsp;&emsp;(I) to make a matching contribution of not more than 50 percent of the total cost of the proposed project for which the grant is awarded; and
+&emsp;&emsp;&emsp;&emsp;(I) to make a matching contribution of not more than 50 percent of the totalcost of the proposed project for which the grant is awarded; and
 
 &emsp;&emsp;&emsp;&emsp;(II) to repay to the Secretary the amount of the grant (or a portion thereof), interest on such amount at an appropriate rate, and such charges for administration of the grant as the Secretary determines appropriate.
 
@@ -110,7 +110,7 @@ Not later than one year after August 3, 2007, and every 5 years thereafter, the 
 
 #### (f) Animal and zoonotic diseases
 
-As part of the international cooperative activities authorized in this section, the Under Secretary, in coordination with the Chief Medical Officer, the Department of State, and appropriate officials of the Department of Agriculture, the Department of Defense, and the Department of Health and Human Services, may enter into cooperative activities with foreign countries, including African nations, to strengthen American preparedness against foreign animal and zoonotic diseases overseas that could harm the Nation's agricultural and public health sectors if they were to reach the United States.
+As part of the international cooperative activities authorized in this section, the Under Secretary, in coordination with the Assistant Secretary for the Countering Weapons of Mass Destruction Office, the Department of State, and appropriate officials of the Department of Agriculture, the Department of Defense, and the Department of Health and Human Services, may enter into cooperative activities with foreign countries, including African nations, to strengthen American preparedness against foreign animal and zoonotic diseases overseas that could harm the Nation's agricultural and public health sectors if they were to reach the United States.
 
 #### (g) Cybersecurity
 
@@ -134,13 +134,15 @@ Nothing in this section shall be construed to alter or affect the following prov
 
 There are authorized to be appropriated to carry out this section such sums as are necessary.
 
-(Pub. L. 107–296, title III, §317, as added Pub. L. 110–53, title XIX, §1901(b)(1), Aug. 3, 2007, 121 Stat. 505; amended Pub. L. 114–304, §2(a), Dec. 16, 2016, 130 Stat. 1519.)
+(Pub. L. 107–296, title III, §317, as added Pub. L. 110–53, title XIX, §1901(b)(1), Aug. 3, 2007, 121 Stat. 505; amended Pub. L. 114–304, §2(a), Dec. 16, 2016, 130 Stat. 1519; Pub. L. 115–387, §2(f)(3), Dec. 21, 2018, 132 Stat. 5168.)
 
 #### References in Text
 
 The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec. (h)(1), is Pub. L. 95–426, Oct. 7, 1978, 92 Stat. 963. Title V of the Act is classified generally to sections 2656a to 2656d of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f). Pub. L. 115–387 substituted "the Assistant Secretary for the Countering Weapons of Mass Destruction Office," for "the Chief Medical Officer,".
 
 <b>2016</b>—Subsec. (e)(3), (4). Pub. L. 114–304, §2(a)(1), added pars. (3) and (4).
 
@@ -152,7 +154,7 @@ Pub. L. 110–53, title XIX, §1901(a), Aug. 3, 2007, 121 Stat. 505, provided th
 
 &emsp;"(1) The development and implementation of technology is critical to combating terrorism and other high consequence events and implementing a comprehensive homeland security strategy.
 
-&emsp;"(2) The United States and its allies in the global war on terrorism share a common interest in facilitating research, development, testing, and evaluation of equipment, capabilities, technologies, and services that will aid in detecting, preventing, responding to, recovering from, and mitigating against acts of terrorism.
+&emsp;"(2) The United States and its allies in the global war on terrorism share a common interest in facilitating research, development, testing, and evaluationof equipment, capabilities, technologies, and services that will aid in detecting, preventing, responding to, recovering from, and mitigating against acts of terrorism.
 
 &emsp;"(3) Certain United States allies in the global war on terrorism, including Israel, the United Kingdom, Canada, Australia, and Singapore have extensive experience with, and technological expertise in, homeland security.
 

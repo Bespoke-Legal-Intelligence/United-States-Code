@@ -20,7 +20,7 @@ There is established, under the Oversight Board, the position of the Revitalizat
 
 &emsp;In selecting nominees under paragraph (1)(A), the Oversight Board shall only nominate persons who—
 
-&emsp;&emsp;(A) have substantial knowledge and expertise in the planning, predevelopment, financing, development, operations, engineering, or market participation of infrastructure projects, provided that stronger consideration may be given to candidates who haveexperience with Energy Projects and the laws and regulations of Puerto Rico that may be subject to an Expedited Permitting Process;
+&emsp;&emsp;(A) have substantial knowledge and expertise in the planning, predevelopment, financing, development, operations, engineering, or market participation of infrastructure projects, provided that stronger consideration may be given to candidates who have experience with Energy Projects and the laws and regulations of Puerto Rico that may be subject to an Expedited Permitting Process;
 
 &emsp;&emsp;(B) does <sup>1</sup> not currently provide goods or services to the government of Puerto Rico (and, as applicable, is <sup>2</sup> not the spouse, parent, child, or sibling of a person who provides or has provided goods and services to the government of Puerto Rico in the preceding 3 calendar years); and
 

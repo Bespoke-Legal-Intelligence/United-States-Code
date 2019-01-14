@@ -1,12 +1,14 @@
 ### §7113. Accountability
 
-All grants awarded by the Attorney General under this title or an Act amended by this title shall be subject to the following accountability provisions:
+#### (a) In general
+
+For fiscal year 2013, and each fiscal year thereafter, all grants awarded by the Attorney General under this title or an Act amended by this title shall be subject to the following accountability provisions:
 
 #### (1) Audit requirement
 
 #### (A) Definition
 
-&emsp;&emsp;In this paragraph, the term "unresolved audit finding" means an audit report findingin the final audit report of the Inspector General of the Department of Justice that the grantee has used grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved during the 12-month period beginning on the date on which the final audit report is issued <sup>1</sup>
+&emsp;&emsp;In this paragraph, the term "unresolved audit finding" means an audit report finding in the final audit report of the Inspector General of the Department of Justice that the grantee has used grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved during the 12-month period beginning on the date on which the final audit report is issued <sup>1</sup>
 
 #### (B) Requirement
 
@@ -40,7 +42,7 @@ All grants awarded by the Attorney General under this title or an Act amended by
 
 #### (C) Disclosure
 
-&emsp;&emsp;Each nonprofit organization that is awarded a grant under this title or an Act amended by this title and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees and key employees, shall disclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information disclosed under this subparagraph available for public inspection.
+&emsp;&emsp;Each nonprofit organization that is awarded a grant under this title or an Act amended by this title and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees and key employees, shall disclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiationof the deliberation and decision. Upon request, the Attorney General shall make the information disclosed under this subparagraph available for public inspection.
 
 #### (3) Conference expenditures
 
@@ -68,7 +70,15 @@ All grants awarded by the Attorney General under this title or an Act amended by
 
 &emsp;&emsp;(D) includes a list of any grant recipients excluded under paragraph (1) from the previous year.
 
-(Pub. L. 113–4, title XII, §1236, Mar. 7, 2013, 127 Stat. 147.)
+#### (b) Application to additional grants
+
+For purposes of subsection (a), for fiscal year 2018, and each fiscal year thereafter, the term "grant awarded by the Attorney General under this title or an Act amended by this title" includes a grant under any of the following:
+
+&emsp;(1) Section 20333 of title 34.
+
+&emsp;(2) The program under section 20709c of title 34.
+
+(Pub. L. 113–4, title XII, §1236, Mar. 7, 2013, 127 Stat. 147; Pub. L. 115–393, title VI, §601, Dec. 21, 2018, 132 Stat. 5278.)
 
 #### References in Text
 
@@ -77,6 +87,10 @@ This title, referred to in text, means title XII of Pub. L. 113–4, Mar. 7, 201
 #### Codification
 
 Section was enacted as part of the Violence Against Women Reauthorization Act of 2013, and not as part of the Trafficking Victims Protection Act of 2000 which comprises this chapter.
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–393 designated existing provisions as subsec. (a), inserted heading, substituted "For fiscal year 2013, and each fiscal year thereafter, all grants" for "All grants" in introductory provisions, and added subsec. (b).
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

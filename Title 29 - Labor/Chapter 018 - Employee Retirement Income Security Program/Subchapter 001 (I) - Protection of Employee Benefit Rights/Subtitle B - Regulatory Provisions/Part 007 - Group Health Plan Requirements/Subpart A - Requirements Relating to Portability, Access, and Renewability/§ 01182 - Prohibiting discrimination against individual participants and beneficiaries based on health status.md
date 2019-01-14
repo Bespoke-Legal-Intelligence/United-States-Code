@@ -56,7 +56,7 @@
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Nothing in subparagraph (A) or in paragraphs (1) and (2) of subsection (d) shall be construed to limit the ability of a health insurance issuer offering health insurance coverage in connection with a group health plan to increase the premium for an employer based on the manifestation of a disease or disorder of an individual who is enrolled in the plan. In such case, the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other group members and to further increase the premium for the employer.
+&emsp;&emsp;Nothing in subparagraph (A) or in paragraphs (1) and (2) of subsection (d) shall be construed to limit the ability of a health insurance issuer offering health insurance coverage in connection with a group health plan to increase the premium for an employer based on the manifestation of a disease or disorder of an individual who is enrolled inthe plan. In such case, the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other group members and to further increase the premium for the employer.
 
 #### (c) Genetic testing
 
@@ -122,7 +122,7 @@ Any reference in this part to genetic information concerning an individual or fa
 
 &emsp;(2) with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the individual or family member.
 
-(Pub. L. 93–406, title I, §702, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat. 1945; amended Pub. L. 110–233, title I, §101(a)–(c), May 21, 2008, 122 Stat. 883, 885.)
+(Pub. L. 93–406, title I, §702, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat.1945; amended Pub. L. 110–233, title I, §101(a)–(c), May 21, 2008, 122 Stat. 883, 885.)
 
 #### References in Text
 

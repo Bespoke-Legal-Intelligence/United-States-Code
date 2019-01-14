@@ -106,7 +106,7 @@ Except as provided in regulations, in the case of any taxable bond—
 
 Subsec. (b)(2), (3)(B). Pub. L. 113–295, §221(a)(29)(B), substituted "paragraph (1)(B)(i)" for "paragraph (1)(B)(ii)".
 
-<b>2004</b>—Subsec. (c)(2). Pub. L. 108–357, §413(c)(2)(B), which directed amendment of par. (2) by striking out ", or foreign personal holding company", was executed by striking out "or foreign personal holding company" after "the common trust fund", to reflect the probable intent of Congress.
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–357, §413(c)(2)(B), which directed amendment of par. (2) by striking out", or foreign personal holding company", was executed by striking out "or foreign personal holding company" after "the common trust fund", to reflect the probable intent of Congress.
 
 Pub. L. 108–357, §413(c)(2)(A), struck out ", or by a foreign personal holding company, as defined in section 552" after "section 584(a)".
 
@@ -134,7 +134,7 @@ Subsec. (a)(4). Pub. L. 94–455, §1901(b)(1)(E)(iii), redesignated par. (4) as
 
 Subsec. (b)(1)(B)(i). Pub. L. 94–455, §1951(b)(5)(A)(ii), substituted "clause (ii) applies, or" for "clause (ii) or (iii) applies" after "bond to which" and inserted "and" at the end.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 94–455, §§1901(b)(1)(E)(iv), 1951(b)(5)(A)(iii), substituted "subsection (a)(1)" for"subsection (c)(1)(B)" after "bond described in" and "and" for "or" after "1957".
+Subsec. (b)(1)(B)(ii). Pub. L. 94–455, §§1901(b)(1)(E)(iv), 1951(b)(5)(A)(iii), substituted "subsection (a)(1)" for "subsection (c)(1)(B)" after "bond described in" and "and" for "or" after "1957".
 
 Subsec. (b)(1)(B)(iii). Pub. L. 94–455, §1951(b)(5)(A)(i), struck out cl. (iii) relating to certain bonds acquired before 1958.
 

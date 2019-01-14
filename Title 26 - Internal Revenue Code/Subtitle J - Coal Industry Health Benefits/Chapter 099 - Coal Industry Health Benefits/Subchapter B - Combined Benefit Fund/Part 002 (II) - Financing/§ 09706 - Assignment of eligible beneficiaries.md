@@ -114,7 +114,7 @@ The 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall, by the later of
 
 #### (g) Confidentiality of information
 
-Any person to which information is provided by the Commissioner of Social Security underthis section shall not disclose such information except in any proceedings related to this section. Any civil or criminal penalty which is applicable to an unauthorized disclosure under section 6103 shall apply to any unauthorized disclosure under this section.
+Any person to which information is provided by the Commissioner of Social Security under this section shall not disclose such information except in any proceedings related to this section. Any civil or criminal penalty which is applicable to an unauthorized disclosure under section 6103 shall apply to any unauthorized disclosure under this section.
 
 #### (h) Assignments as of October 1, 2007
 

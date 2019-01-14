@@ -22,7 +22,7 @@ During the 7-year period described in subsection (a) for an approved application
 
 #### (1) In general
 
-&emsp;If a sponsor of a drug that is designated under section 360bb of this title and is otherwise the same, as determined by the Secretary, as an already approved or licensed drug is seeking exclusive approval or exclusive licensure described in subsection (a) for the same rare disease or condition as the already approved drug, the Secretary shall require such sponsor, as a condition of such exclusive approval or licensure, to demonstrate that such drug is clinically superior to any already approved or licensed drug that is the same drug.
+&emsp;If a sponsor of a drug that is designated under section 360bb of this title and is otherwise the same, as determined by the Secretary, as an already approved or licensed drug is seeking exclusive approval or exclusive licensure described in subsection (a) for the same rare disease or condition as the already approved drug, the Secretary shall require such sponsor, as a condition of such exclusive approval or licensure, to demonstrate that such drug is clinically superior to any alreadyapproved or licensed drug that is the same drug.
 
 #### (2) Definition
 

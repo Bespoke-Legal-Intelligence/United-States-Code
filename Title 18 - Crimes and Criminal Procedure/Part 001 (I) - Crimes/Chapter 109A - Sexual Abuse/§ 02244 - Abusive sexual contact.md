@@ -4,7 +4,7 @@
 
 Sexual Conduct in Circumstances Where Sexual Acts Are Punished by This Chapter.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in or causes sexual contact with or by another person, if so to do would violate—
 
-&emsp;(1) subsection (a) or (b) of section 2241 of this title had the sexual contact been a sexual act,shall be fined under this title, imprisoned not more than ten years, or both;
+&emsp;(1) subsection (a) or (b) of section 2241 of this title had the sexual contact been a sexual act, shall be fined under this title, imprisoned not more than ten years, or both;
 
 &emsp;(2) section 2242 of this title had the sexual contact been a sexual act, shall be fined under this title, imprisoned not more than three years, or both;
 
@@ -44,7 +44,7 @@ Subsec. (a)(5). Pub. L. 109–248, §206(a)(2)(A)(ii)–(iv), added par. (5).
 
 Subsec. (b). Pub. L. 109–248, §207(2), inserted comma after "Attorney General".
 
-Pub. L. 109–162, §1177(a)(5), (b)(2), inserted "or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General" after "in a Federal prison," and substituted "two years" for "six months".
+Pub. L. 109–162, §1177(a)(5), (b)(2), inserted "or in any prison, institution, or facility in which persons are heldin custody by direction of or pursuant to a contract or agreement with the Attorney General" after "in a Federal prison," and substituted "two years" for "six months".
 
 Subsec. (c). Pub. L. 109–248, §206(a)(2)(B), inserted "(other than subsection (a)(5))" after "violates this section".
 

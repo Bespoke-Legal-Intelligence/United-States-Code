@@ -92,7 +92,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (2) Direct marketers
 
-&emsp;A processor that markets popcorn produced by the processor directly to consumers shall pay and remit the assessments on the popcorn directly to the Board in the manner prescribed in the order.
+&emsp;A processor that markets popcorn produced by the processor directly to consumers shallpay and remit the assessments on the popcorn directly to the Board in the manner prescribed in the order.
 
 #### (3) Rate
 

@@ -2,7 +2,7 @@
 
 #### (a) Limitations on authorization of appropriations
 
-In addition to any amount appropriated pursuant to section 629f of this title, there are authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2012 through 2016.
+In addition to any amount appropriated pursuant to section 629f of this title, there are authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2017 through 2021.
 
 #### (b) Reservation of certain amounts
 
@@ -20,15 +20,19 @@ From the amount (if any) appropriated pursuant to subsection (a) for a fiscal ye
 
 &emsp;The Secretary shall reserve 3 percent for allotment to Indian tribes or tribal consortia in accordance with subsection (c)(1).
 
+#### (4) Improving the interstate placement of children
+
+&emsp;The Secretary shall reserve $5,000,000 of the amount made available for fiscal year 2018 for grants under subsection (g), and the amount so reserved shall remain available through fiscal year 2022.
+
 #### (c) Allotments
 
 #### (1) Indian tribes or tribal consortia
 
-&emsp;From the amount (if any) reserved pursuant to subsection (b)(3) for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, as determined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes applies and is approved for a grant under this section, the Secretary shall allot to the consortium anamount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
+&emsp;From the amount (if any) reserved pursuant to subsection (b)(3) for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, as determined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes applies and is approved for a grant under this section, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
 
 #### (2) Territories
 
-&emsp;From the amount (if any) appropriated pursuant to subsection (a) for any fiscal year that remains after applying subection <sup>1</sup> (b) for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title.
+&emsp;From the amount (if any) appropriated pursuant to subsection (a) for any fiscal year that remains after applying subection <sup>1</sup> (b) for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to eachof such jurisdictions is determined under section 623 of this title.
 
 #### (3) Other States
 
@@ -46,7 +50,7 @@ The Secretary may make a grant to a State which has a plan approved under this s
 
 The rules of subsections (b) and (c) of section 629d of this title shall apply in like manner to the amounts made available pursuant to subsection (a).
 
-#### (f) Targeted grants to increase the well-being of, and to improve the permanency outcomes for, children affected by substance abuse
+#### (f) Targeted grants to implement IV–E prevention services, and improve the well-being of, and improve permanency outcomes for, children and families affected by heroin, opioids, and other substance abuse
 
 #### (1) Purpose
 
@@ -54,73 +58,77 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (2) Regional partnership defined
 
-#### (A) In general
+&emsp;In this subsection, the term "regional partnership" means a collaborative agreement (which may be established on an interstate, State, or intrastate basis) entered into by the following:
 
-&emsp;&emsp;In this subsection, the term "regional partnership" means a collaborative agreement (which may be established on an interstate or intrastate basis) entered into by at least 2 of the following:
+#### (A) Mandatory partners for all partnership grants
 
-&emsp;&emsp;&emsp;(i) The State child welfare agency that is responsible for the administration of the State plan under this part and part E.
+&emsp;&emsp;(i) The State child welfare agency that is responsible for the administration of the State plan under this part and part E.
 
-&emsp;&emsp;&emsp;(ii) The State agency responsible for administering the substance abuse prevention and treatment block grant provided under subpart II of part B of title XIX of the Public Health Service Act \[42 U.S.C. 300x–21 et seq.\].
+&emsp;&emsp;(ii) The State agency responsible for administering the substance abuse prevention and treatment block grant provided under subpart II of part B of title XIX of the Public Health Service Act \[42 U.S.C. 300x–21 et seq.\].
 
-&emsp;&emsp;&emsp;(iii) An Indian tribe or tribal consortium.
+#### (B) Mandatory partners for partnership grants proposing to serve children in out-of-home placements
 
-&emsp;&emsp;&emsp;(iv) Nonprofit child welfare service providers.
+&emsp;&emsp;If the partnership proposes to serve children in out-of-home placements, the Juvenile Court or Administrative Office of the Court that is most appropriate to oversee the administration of court programs in the region to address the population of families who come to the attention of the court due to child abuse or neglect.
 
-&emsp;&emsp;&emsp;(v) For-profit child welfare service providers.
+#### (C) Optional partners
 
-&emsp;&emsp;&emsp;(vi) Community health service providers.
+&emsp;&emsp;At the option of the partnership, any of the following:
 
-&emsp;&emsp;&emsp;(vii) Community mental health providers.
+&emsp;&emsp;&emsp;(i) An Indian tribe or tribal consortium.
 
-&emsp;&emsp;&emsp;(viii) Local law enforcement agencies.
+&emsp;&emsp;&emsp;(ii) Nonprofit child welfare service providers.
 
-&emsp;&emsp;&emsp;(ix) Judges and court personnel.
+&emsp;&emsp;&emsp;(iii) For-profit child welfare service providers.
 
-&emsp;&emsp;&emsp;(x) Juvenile justice officials.
+&emsp;&emsp;&emsp;(iv) Community health service providers, including substance abuse treatment providers.
 
-&emsp;&emsp;&emsp;(xi) School personnel.
+&emsp;&emsp;&emsp;(v) Community mental health providers.
 
-&emsp;&emsp;&emsp;(xii) Tribal child welfare agencies (or a consortia of such agencies).
+&emsp;&emsp;&emsp;(vi) Local law enforcement agencies.
 
-&emsp;&emsp;&emsp;(xiii) Any other providers, agencies, personnel, officials, or entities that are related to the provision of child and family services under this subpart.
+&emsp;&emsp;&emsp;(vii) School personnel.
 
-#### (B) Requirements
+&emsp;&emsp;&emsp;(viii) Tribal child welfare agencies (or a consortia of the agencies).
 
-#### (i) State child welfare agency partner
+&emsp;&emsp;&emsp;(ix) Any other providers, agencies, personnel, officials, or entities that are related to the provision of child and family services under a State plan approved under this subpart.
 
-&emsp;&emsp;&emsp;Subject to clause (ii)(I), a regional partnership entered into for purposes of this subsection shall include the State child welfare agency that is responsible for the administration of the State plan under this part and part E as 1 of the partners.
+#### (D) Exception for regional partnerships where the lead applicant is an Indian tribe or tribal consortia
 
-#### (ii) Regional partnerships entered into by Indian tribes or tribal consortia
+&emsp;&emsp;If an Indian tribe or tribal consortium enters into a regional partnership for purposes of this subsection, the Indian tribe or tribal consortium—
 
-&emsp;&emsp;&emsp;If an Indian tribe or tribal consortium enters into a regional partnership for purposes of this subsection, the Indian tribe or tribal consortium—
+&emsp;&emsp;&emsp;(i) may (but is not required to) include the State child welfare agency as a partner in the collaborative agreement;
 
-&emsp;&emsp;&emsp;&emsp;(I) may (but is not required to) include such State child welfare agency as a partner in the collaborative agreement; and
+&emsp;&emsp;&emsp;(ii) may not enter into a collaborative agreement only with tribal child welfare agencies (or a consortium of the agencies); and
 
-&emsp;&emsp;&emsp;&emsp;(II) may not enter into a collaborative agreement only with tribal child welfare agencies (or a consortium of such agencies).
-
-#### (iii) No State agency only partnerships
-
-&emsp;&emsp;&emsp;If a State agency described in clause (i) or (ii) of subparagraph (A) enters into a regional partnership for purposes of this subsection, the State agency may not enter into a collaborative agreement only with the other State agency described in such clause (i) or (ii).
+&emsp;&emsp;&emsp;(iii) if the condition described in paragraph (2)(B) applies, may include tribal court organizations in lieu of other judicial partners.
 
 #### (3) Authority to award grants
 
 #### (A) In general
 
-&emsp;&emsp;In addition to amounts authorized to be appropriated to carry out this section, the Secretary shall award grants under this subsection, from the amounts reserved for each of fiscal years 2012 through 2016 under section 629f(b)(5) of this title, to regional partnerships that satisfy the requirements of this subsection, in amounts that are not lessthan $500,000 and not more than $1,000,000 per grant per fiscal year.
+&emsp;&emsp;In addition to amounts authorized to be appropriated to carry out this section, the Secretary shall award grants under this subsection, from the amounts reserved for each of fiscal years 2017 through 2021 under section 629f(b)(5) of this title, to regional partnerships that satisfy the requirements of this subsection, in amounts that are not less than $250,000 and not more than $1,000,000 per grant per fiscal year.
 
-#### (B) Required minimum period of approval
+#### (B) Required minimum period of approval; planning
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A grant shall be awarded under this subsection for a period of not less than 2, and not more than 5, fiscal years, subject to clause (ii).
+&emsp;&emsp;&emsp;A grant shall be awarded under this subsection for a period of not less than 2, and not more than 5, fiscal years, subject to clauses (ii) and (iii).
 
 #### (ii) Extension of grant
 
 &emsp;&emsp;&emsp;On application of the grantee, the Secretary may extend for not more than 2 fiscal years the period for which a grant is awarded under this subsection.
 
+#### (iii) Sufficient planning
+
+&emsp;&emsp;&emsp;A grant awarded under this subsection shall be disbursed in two phases: a planning phase (not to exceed 2 years) and an implementation phase. The total disbursement to a grantee for the planning phase may not exceed $250,000, and may not exceed the total anticipated funding for the implementation phase.
+
 #### (C) Multiple grants allowed
 
 &emsp;&emsp;This subsection shall not be interpreted to prevent a grantee from applying for, or being awarded, separate grants under this subsection.
+
+#### (D) Limitation on payment for a fiscal year
+
+&emsp;&emsp;No payment shall be made under subparagraph (A) or (C) for a fiscal year until the Secretary determines that the eligible partnership has made sufficient progress in meeting the goals of the grant and that the members of the eligible partnership are coordinating to a reasonable degree with the other members of the eligible partnership.
 
 #### (4) Application requirements
 
@@ -130,35 +138,29 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;(B) A description of the goals and outcomes to be achieved during the funding period for the grant that will—
 
-&emsp;&emsp;&emsp;(i) enhance the well-being of children receiving services or taking part in activities conducted with funds provided under the grant;
+&emsp;&emsp;&emsp;(i) enhance the well-being of children, parents, and families receiving services or taking part in activities conducted with funds provided under the grant;
 
-&emsp;&emsp;&emsp;(ii) lead to safety and permanence for such children; and
+&emsp;&emsp;&emsp;(ii) lead to safe, permanent caregiving relationships for the children;
 
-&emsp;&emsp;&emsp;(iii) decrease the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region.
+&emsp;&emsp;&emsp;(iii) improve the substance abuse treatment outcomes for parents including retention in treatment and successful completion of treatment;
+
+&emsp;&emsp;&emsp;(iv) facilitate the implementation, delivery, and effectiveness of prevention services and programs under section 671(e) of this title; and
+
+&emsp;&emsp;&emsp;(v) decrease the number of out-of-home placements for children, increase reunification rates for children who have been placed in out-of-home care, or decrease the number of children who are at risk of being placed in an out-of-home placement, in the partnership region.
 
 &emsp;&emsp;(C) A description of the joint activities to be funded in whole or in part with the funds provided under the grant, including the sequencing of the activities proposed to be conducted under the funding period for the grant.
 
-&emsp;&emsp;(D) A description of the strategies for integrating programs and services determined to be appropriate for the child and where appropriate, the child's family.
+&emsp;&emsp;(D) A description of the strategies for integrating programs and services determined to be appropriate for the child and the child's family.
 
-&emsp;&emsp;(E) A description of the strategies for—
+&emsp;&emsp;(E) A description of a plan for sustaining the services provided by or activities funded under the grant after the conclusion of the grant period, including through the use of prevention services and programs under section 671(e) of this title and other funds provided to the State for child welfare and substance abuse prevention and treatment services.
 
-&emsp;&emsp;&emsp;(i) collaborating with the State child welfare agency described in paragraph (2)(A)(i) (unless that agency is the lead applicant for the regional partnership); and
-
-&emsp;&emsp;&emsp;(ii) consulting, as appropriate, with—
-
-&emsp;&emsp;&emsp;&emsp;(I) the State agency described in paragraph (2)(A)(ii); and
-
-&emsp;&emsp;&emsp;&emsp;(II) the State law enforcement and judicial agencies.
-
-> &emsp;&emsp;To the extent the Secretary determines that the requirement of this subparagraph would be inappropriate to apply to a regional partnership that includes an Indian tribe, tribal consortium, or a tribal child welfare agency or a consortium of such agencies, the Secretary may exempt the regional partnership from the requirement.
-
-&emsp;&emsp;(F) Such other information as the Secretary may require.
+&emsp;&emsp;(F) Additional information needed by the Secretary to determine that the proposed activities and implementation will be consistent with research or evaluations showing which practices and approaches are most effective.
 
 #### (5) Use of funds
 
 &emsp;Funds made available under a grant made under this subsection shall only be used for services or activities that are consistent with the purpose of this subsection and may include the following:
 
-&emsp;&emsp;(A) Family-based comprehensive long-term substance abuse treatment services.
+&emsp;&emsp;(A) Family-based comprehensive long-term substance use disorder treatment including medication assisted treatment and in-home substance abuse disorder treatment and recovery services.
 
 &emsp;&emsp;(B) Early intervention and preventative services.
 
@@ -194,39 +196,39 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;In awarding grants under this subsection, the Secretary shall take into consideration the extent to which applicant regional partnerships—
 
-&emsp;&emsp;(A) demonstrate that substance abuse by parents or caretakers has had a substantial impact on the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region;
+&emsp;&emsp;(A) demonstrate that substance abuse by parents or caretakers has had a substantialimpact on the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region;
 
 &emsp;&emsp;(B) have limited resources for addressing the needs of children affected by such abuse;
 
-&emsp;&emsp;(C) have a lack of capacity for, or access to, comprehensive family treatment services; and
+&emsp;&emsp;(C) have a lack of capacity for, or access to, comprehensive family treatment services;
 
-&emsp;&emsp;(D) demonstrate a plan for sustaining the services provided by or activities fundedunder the grant after the conclusion of the grant period.
+&emsp;&emsp;(D) demonstrate a track record of successful collaboration among child welfare, substance abuse disorder treatment and mental health agencies; and
+
+&emsp;&emsp;(E) demonstrate a plan for sustaining the services provided by or activities funded under the grant after the conclusion of the grant period.
 
 #### (8) Performance indicators
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 9 months after September 28, 2006, the Secretary shall establish indicators that will be used to assess periodically the performance of the grant recipients under this subsection in using funds made available under such grants to achieve the purpose of this subsection.
+&emsp;&emsp;Not later than 9 months after September 28, 2006, the Secretary shall review indicators that are used to assess periodically the performance of the grant recipients under this subsection and establish a set of core indicators related to child safety, parental recovery, parenting capacity, and family well-being. In developing the core indicators, to the extent possible, indicators shall be made consistent with the outcome measures described in section 671(e)(6) of this title.
 
 #### (B) Consultation required
 
-&emsp;&emsp;In establishing the performance indicators required by subparagraph (A), the Secretary shall consult with the following:
+&emsp;&emsp;In establishing the performance indicators required by subparagraph (A), the Secretary shall base the performance measures on lessons learned from prior rounds of regional partnership grants under this subsection, and consult with the following:
 
 &emsp;&emsp;&emsp;(i) The Assistant Secretary for the Administration for Children and Families.
 
 &emsp;&emsp;&emsp;(ii) The Administrator of the Substance Abuse and Mental Health Services Administration.
 
-&emsp;&emsp;&emsp;(iii) Representatives of States in which a State agency described in clause (i) or (ii) of paragraph (2)(A) is a member of a regional partnership that is a grant recipient under this subsection.
-
-&emsp;&emsp;&emsp;(iv) Representatives of Indian tribes, tribal consortia, or tribal child welfare agencies that are members of a regional partnership that is a grant recipient under this subsection.
+&emsp;&emsp;&emsp;(iii) Other stakeholders or constituencies as determined by the Secretary.
 
 #### (9) Reports
 
 #### (A) Grantee reports
 
-#### (i) Annual report
+#### (i) Semiannual reports
 
-&emsp;&emsp;&emsp;Not later than September 30 of the first fiscal year in which a recipient of a grant under this subsection is paid funds under the grant, and annually thereafter until September 30 of the last fiscal year in which the recipient is paid funds under the grant, the recipient shall submit to the Secretary a report on the services provided or activities carried out during that fiscal year with such funds. The report shall contain such information as the Secretary determines is necessary to provide an accurate description of the services provided or activities conducted with such funds.
+&emsp;&emsp;&emsp;Not later than September 30 of each fiscal year in which a recipient of a grant under this subsection is paid funds under the grant, and every 6 months thereafter, the grant recipient shall submit to the Secretary a report on the services provided and activities carried out during the reporting period, progress made in achieving the goals of the program, the number of children, adults, and families receiving services, and such additional information as the Secretary determines is necessary. The report due not later than September 30 of the last such fiscal year shall include, at a minimum, data on each of the performance indicators included in the evaluation of the regional partnership.
 
 #### (ii) Incorporation of information related to performance indicators
 
@@ -244,9 +246,65 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (10) Limitation on use of funds for administrative expenses of the Secretary
 
-&emsp;Not more than 5 percent of the amounts appropriated or reserved for awarding grants under this subsection for each of fiscal years 2012 through 2016 may be used by the Secretary for salaries and Department of Health and Human Services administrative expenses in administering this subsection.
+&emsp;Not more than 5 percent of the amounts appropriated or reserved for awarding grants under this subsection for each of fiscal years 2017 through 2021 may be used by the Secretary for salaries and Department of Health and Human Services administrative expenses in administering this subsection.
 
-(Aug. 14, 1935, ch. 531, title IV, §437, as added Pub. L. 107–133, title I, §106(b), Jan. 17, 2002, 115 Stat. 2417; amended Pub. L. 109–288, §§3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, 120 Stat. 1234, 1238, 1242, 1243, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–34, title I, §§102(a)(2), 103(c)(1), (2), Sept. 30, 2011, 125 Stat. 371, 373.)
+#### (g) Funding for the development of an electronic interstate case-processing system to expedite the interstate placement of children in foster care or guardianship, or for adoption
+
+#### (1) Purpose
+
+&emsp;The purpose of this subsection is to facilitate the development of an electronic interstate case-processing system for the exchange of data and documents to expedite the placements of children in foster, guardianship, or adoptive homes across State lines.
+
+#### (2) Requirements
+
+&emsp;A State that seeks funding under this subsection shall submit to the Secretary the following:
+
+&emsp;&emsp;(A) A description of the goals and outcomes to be achieved, which goals and outcomes must result in—
+
+&emsp;&emsp;&emsp;(i) reducing the time it takes for a child to be provided with a safe and appropriate permanent living arrangement across State lines;
+
+&emsp;&emsp;&emsp;(ii) improving administrative processes and reducing costs in the foster care system; and
+
+&emsp;&emsp;&emsp;(iii) the secure exchange of relevant case files and other necessary materials in real time, and timely communications and placement decisions regarding interstate placements of children.
+
+&emsp;&emsp;(B) A description of the activities to be funded in whole or in part with the funds, including the sequencing of the activities.
+
+&emsp;&emsp;(C) A description of the strategies for integrating programs and services for children who are placed across State lines.
+
+&emsp;&emsp;(D) Such other information as the Secretary may require.
+
+#### (3) Funding authority
+
+&emsp;The Secretary may provide funds to a State that complies with paragraph (2). In providing funds under this subsection, the Secretary shall prioritize States that are not yet connected with the electronic interstate case-processing system referred to in paragraph (1).
+
+#### (4) Use of funds
+
+&emsp;A State to which funding is provided under this subsection shall use the funding to support the State in connecting with, or enhancing or expediting services provided under, the electronic interstate case-processing system referred to in paragraph (1).
+
+#### (5) Evaluations
+
+&emsp;Not later than 1 year after the final year in which funds are awarded under this subsection, the Secretary shall submit to the Congress, and make available to the general public by posting on a website, a report that contains the following information:
+
+&emsp;&emsp;(A) How using the electronic interstate case-processing system developed pursuant to paragraph (4) has changed the time it takes for children to be placed across State lines.
+
+&emsp;&emsp;(B) The number of cases subject to the Interstate Compact on the Placement of Children that were processed through the electronic interstate case-processing system, and the number of interstate child placement cases that were processed outside the electronic interstate case-processing system, by each State in each year.
+
+&emsp;&emsp;(C) The progress made by States in implementing the electronic interstate case-processing system.
+
+&emsp;&emsp;(D) How using the electronic interstate case-processing system has affected various metrics related to child safety and well-being, including the time it takes for children to be placed across State lines.
+
+&emsp;&emsp;(E) How using the electronic interstate case-processing system has affected administrative costs and caseworker time spent on placing children across State lines.
+
+#### (6) Data integration
+
+&emsp;The Secretary, in consultation with the Secretariat for the Interstate Compact on the Placement of Children and the States, shall assess how the electronic interstate case-processing system developed pursuant to paragraph (4) could be used to better serve and protect children that come to the attention of the child welfare system, by—
+
+&emsp;&emsp;(A) connecting the system with other data systems (such as systems operated by State law enforcement and judicial agencies, systems operated by the Federal Bureau of Investigation for the purposes of the Innocence Lost National Initiative, and other systems);
+
+&emsp;&emsp;(B) simplifying and improving reporting related to paragraphs (34) and (35) of section 671(a) of this title regarding children or youth who have been identified as being a sex trafficking victim <sup>2</sup> or children missing from foster care; and
+
+&emsp;&emsp;(C) improving the ability of States to quickly comply with background check requirements of section 671(a)(20) of this title, including checks of child abuse and neglect registries as required by section 671(a)(20)(B) of this title.
+
+(Aug. 14, 1935, ch. 531, title IV, §437, as added Pub. L. 107–133, title I, §106(b), Jan. 17, 2002, 115 Stat. 2417; amended Pub. L. 109–288, §§3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, 120 Stat. 1234, 1238, 1242, 1243, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–34, title I, §§102(a)(2), 103(c)(1), (2), Sept. 30, 2011, 125 Stat. 371, 373; Pub. L. 115–123, div. E, title VII, §§50722(c), (d), 50723, 50752(b)(2), Feb. 9, 2018, 132 Stat. 246–248, 263.)
 
 #### References in Text
 
@@ -262,6 +320,74 @@ A prior section 437 of act Aug. 14, 1935, was classified to section 637 of this 
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a). Pub. L. 115–123, §50752(b)(2), substituted "2017 through 2021" for "2012 through 2016".
+
+Subsec. (b)(4). Pub. L. 115–123, §50722(d), added par. (4).
+
+Subsec. (f). Pub. L. 115–123, §50723(1), substituted "implement IV–E prevention services, and improve the well-being of, and improve permanency outcomes for, children and families affected by heroin, opioids, and other" for "increase the well-being of, and to improve the permanency outcomes for, children affected by" in heading.
+
+Subsec. (f)(2). Pub. L. 115–123, §50723(2), added par. (2) and struck out former par. (2) which defined regional partnership to mean a collaborative agreement, which may be established on an interstate or intrastate basis, entered into by at least 2 of certain entities.
+
+Subsec. (f)(3)(A). Pub. L. 115–123, §50723(3)(A), substituted "2017 through 2021" for "2012 through 2016" and "$250,000 and not more than $1,000,000" for "$500,000 and not more than $1,000,000".
+
+Subsec. (f)(3)(B). Pub. L. 115–123, §50723(3)(B)(i), inserted "; planning" after "approval" in heading.
+
+Subsec. (f)(3)(B)(i). Pub. L. 115–123, §50723(3)(B)(ii), substituted "clauses (ii) and (iii)" for "clause (ii)".
+
+Subsec. (f)(3)(B)(iii). Pub. L. 115–123, §50723(3)(B)(iii), added cl. (iii).
+
+Subsec. (f)(3)(D). Pub. L. 115–123, §50723(3)(C), added subpar. (D).
+
+Subsec. (f)(4)(B)(i). Pub. L. 115–123, §50723(4)(A)(i), inserted ", parents, and families" after "children".
+
+Subsec. (f)(4)(B)(ii). Pub. L. 115–123, §50723(4)(A)(ii), substituted "safe, permanent caregiving relationshipsfor the children;" for "safety and permanence for such children; and".
+
+Subsec. (f)(4)(B)(iii). Pub. L. 115–123, §50723(4)(A)(iv), added cl. (iii). Former cl. (iii) redesignated (v).
+
+Pub. L. 115–123, §50723(4)(A)(iii), substituted "increase reunification rates for children who have been placed in out-of-home care, or decrease" for "or".
+
+Subsec. (f)(4)(B)(iv). Pub. L. 115–123, §50723(4)(A)(iv), added cl. (iv).
+
+Subsec. (f)(4)(B)(v). Pub. L. 115–123, §50723(4)(A)(iv), redesignated cl. (iii) as (v).
+
+Subsec. (f)(4)(D). Pub. L. 115–123, §50723(4)(B), struck out "where appropriate," before "the child's family".
+
+Subsec. (f)(4)(E), (F). Pub. L. 115–123, §50723(4)(C), added subpars. (E) and (F) and struck out former subpars. (E) and (F) which read as follows:
+
+"(E) A description of the strategies for—
+
+&emsp;"(i) collaborating with the State child welfare agency described in paragraph (2)(A)(i) (unless that agency is the lead applicant for the regional partnership); and
+
+&emsp;"(ii) consulting, as appropriate, with—
+
+&emsp;&emsp;"(I) the State agency described in paragraph (2)(A)(ii); and
+
+&emsp;&emsp;"(II) the State law enforcement and judicial agencies.
+
+> To the extent the Secretary determines that the requirement of this subparagraph would be inappropriate to apply to a regional partnership that includes an Indian tribe, tribal consortium, or a tribal child welfare agency or a consortium of such agencies, the Secretary may exempt the regional partnership from the requirement.
+
+"(F) Such other information as the Secretary may require."
+
+Subsec. (f)(5)(A). Pub. L. 115–123, §50723(5), substituted "use disorder treatment including medication assisted treatment and in-home substance abuse disorder treatment and recovery" for "abuse treatment".
+
+Subsec. (f)(7)(D), (E). Pub. L. 115–123, §50723(6), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (f)(8)(A). Pub. L. 115–123, §50723(7)(A), substituted "review indicators that are" for "establish indicators that will be" and "and establish a set of core indicators related to child safety, parental recovery, parenting capacity, and family well-being. In developing the core indicators, to the extent possible, indicators shall be made consistent with the outcome measures described in section 671(e)(6) of this title" for "in using funds made available under such grants to achieve the purpose of this subsection".
+
+Subsec. (f)(8)(B). Pub. L. 115–123, §50723(7)(B)(i), inserted "base the performance measures on lessons learned from prior rounds of regional partnership grants under this subsection, and" before "consult" in introductory provisions.
+
+Subsec. (f)(8)(B)(iii), (iv). Pub. L. 115–123, §50723(7)(B)(ii), added cl. (iii) and struck out former cls. (iii) and (iv) which read as follows:
+
+"(iii) Representatives of States in which a State agency described in clause (i) or (ii) of paragraph (2)(A) is a member of a regional partnership that is a grant recipient under this subsection.
+
+"(iv) Representatives of Indian tribes, tribal consortia, or tribal child welfare agencies that are members of a regional partnership that is a grant recipient under this subsection."
+
+Subsec. (f)(9)(A)(i). Pub. L. 115–123, §50723(8), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "Not later than September 30 of the first fiscal year in which a recipient of a grant under this subsection is paid funds under the grant, and annually thereafter until September 30 of the last fiscal year in which the recipient is paid funds under the grant, the recipient shall submit to the Secretary a report on the services provided or activities carried out during that fiscal year with such funds. The report shall contain such information as the Secretary determines is necessary to provide an accurate description of the services provided or activities conducted with such funds."
+
+Subsec. (f)(10). Pub. L. 115–123, §50723(9), substituted "2017 through 2021" for "2012 through 2016".
+
+Subsec. (g). Pub. L. 115–123, §50722(c), added subsec. (g).
+
 <b>2011</b>—Subsec. (a). Pub. L. 112–34, §102(a)(2), substituted "2012 through 2016" for "2007 through 2011".
 
 Subsec. (f). Pub. L. 112–34, §103(c)(2)(A), struck out "methamphetamine or other" before "substance abuse" in heading.
@@ -276,7 +402,7 @@ Subsec. (f)(4)(A). Pub. L. 112–34, §103(c)(2)(B), struck out "methamphetamine
 
 Subsec. (f)(6)(A)(iv), (v). Pub. L. 112–34, §103(c)(2)(D), added cls. (iv) and (v).
 
-Subsec. (f)(7). Pub. L. 112–34, §103(c)(2)(E), substituted "shall" for "shall—", struck out subpar. (A) designation before "take", substituted period for "; and" at end of cl. (iv), redesignated cls. (i) to (iv) of former subpar. (A) as subpars. (A) to (D), respectively, of par. (7)and realigned margins, and struck out subpar. (B) which read as follows: "after taking such factors into consideration, give greater weight to awarding grants to regional partnerships that propose to address methamphetamine abuse and addiction in the partnership region (alone or in combination with other drug abuse and addiction) and which demonstrate that methamphetamine abuse and addiction (alone or in combination with other drug abuse and addiction) is adversely affecting child welfare in the partnership region."
+Subsec. (f)(7). Pub. L. 112–34, §103(c)(2)(E), substituted "shall" for "shall—", struck out subpar. (A) designation before "take", substituted period for "; and" at end of cl. (iv), redesignated cls. (i) to (iv) of former subpar. (A) as subpars. (A) to (D), respectively, of par. (7) and realigned margins, and struck out subpar. (B) which read as follows: "after taking such factors into consideration, give greater weight to awarding grants to regional partnerships that propose to address methamphetamine abuse and addiction in the partnership region (alone or in combination with other drug abuse and addiction) and which demonstrate that methamphetamine abuse and addiction (alone or in combination with other drug abuse and addiction) is adversely affecting child welfare in the partnership region."
 
 Subsec. (f)(7)(A)(i). Pub. L. 112–34, §103(c)(2)(B), struck out "methamphetamine or other" before "substance abuse".
 
@@ -302,6 +428,10 @@ Subsec. (e). Pub. L. 109–288, §4(b)(2)(B)(ii), substituted "subsection (a)" f
 
 Subsec. (f). Pub. L. 109–288, §4(b)(2)(A), added subsec. (f).
 
+#### Effective Date of 2018 Amendment
+
+Amendment by sections 50722(c), (d) and 50723 of Pub. L. 115–123 effective Oct. 1, 2018, subject to transition rules for required State legislation or tribal action, see section 50734 of Pub. L. 115–123, set out as a note under section 622 of this title.
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
@@ -321,4 +451,6 @@ Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payment
 Section effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L. 107–133, set out as an Effective Date of 2002 Amendment note under section 629 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "being sex trafficking victims".</i>
 

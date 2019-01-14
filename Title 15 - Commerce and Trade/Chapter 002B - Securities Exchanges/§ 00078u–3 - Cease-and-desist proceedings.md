@@ -28,7 +28,7 @@ The notice instituting proceedings pursuant to subsection (a) shall fix a hearin
 
 #### (ii) Standard
 
-&emsp;&emsp;&emsp;A temporary order shall be entered under clause (i), only after notice and opportunity for a hearing, unless the court determines that notice and hearing priorto entry of the order would be impracticable or contrary to the public interest.
+&emsp;&emsp;&emsp;A temporary order shall be entered under clause (i), only after notice and opportunity for a hearing, unless the court determines that notice and hearing prior to entry of the order would be impracticable or contrary to the public interest.
 
 #### (iii) Effective period
 
@@ -52,7 +52,7 @@ The notice instituting proceedings pursuant to subsection (a) shall fix a hearin
 
 #### (ii) Violations not charged
 
-&emsp;&emsp;&emsp;If the issuer or other person described in subparagraph (A) is not charged with any violation of the Federal securities laws before the expiration of the effective period of a temporary order under subparagraph (A) (including any applicable extension period), the escrow shall terminate at the expiration of the 45-day effective period (or the expiration of any extension period, as applicable), and the disputed payments (with accrued interest) shall be returned to the issuer or other affected person.
+&emsp;&emsp;&emsp;If the issuer or other person described in subparagraph (A) is not charged with anyviolation of the Federal securities laws before the expiration of the effective period of a temporary order under subparagraph (A) (including any applicable extension period), the escrow shall terminate at the expiration of the 45-day effective period (or the expiration of any extension period, as applicable), and the disputed payments (with accrued interest) shall be returned to the issuer or other affected person.
 
 #### (d) Review of temporary orders
 

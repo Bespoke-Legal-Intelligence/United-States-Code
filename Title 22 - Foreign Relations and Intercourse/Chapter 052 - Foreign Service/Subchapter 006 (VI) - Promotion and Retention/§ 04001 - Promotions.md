@@ -2,7 +2,7 @@
 
 #### (a) Method of promotion
 
-Career members of the Senior Foreign Service are promoted by appointment under section3942(a) of this title to a higher salary class in the Senior Foreign Service. Members of the Senior Foreign Service serving under career candidate appointments or noncareer appointments are promoted by appointment under section 3943 of this title to a higher salary class in the Senior Foreign Service. Foreign Service officers, and Foreign Service personnel who are assigned to a class in the Foreign Service Schedule, are promoted by appointment under section 3942(a) of this title as career members of the Senior Foreign Service or by assignment under section 3964 of this title to a higher salary class in the Foreign Service Schedule.
+Career members of the Senior Foreign Service are promoted by appointment under section 3942(a) of this title to a higher salary class in the Senior Foreign Service. Members of the Senior Foreign Service serving under career candidate appointments or noncareer appointments are promoted by appointment under section 3943 of this title to a higher salary class in the Senior Foreign Service. Foreign Service officers, and Foreign Service personnel who are assigned to a class in the Foreign Service Schedule, are promoted by appointment under section 3942(a) of this title as career members of the Senior Foreign Service or by assignment under section 3964 of this title to a higher salary class in the Foreign Service Schedule.
 
 #### (b) Recommendations and rankings of selection boards
 
@@ -64,7 +64,7 @@ Except as provided in section 4006(a) of this title, promotions of—
 
 #### Amendments
 
-<b>2016</b>—Subsec. (c)(4). Pub. L. 114–323, §715(b)(5), struck out par. (4) which read as follows: "Not later than March 1, 2001, and every four years thereafter, the Secretary of State shall submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate which shall include a workforce plan for the subsequent five years, including projected personnel needs, by grade and by skill. Each such plan shall include for each category the needs for foreign language proficiency, geographic and functional expertise, and specialist technical skills. Each workforce plan shall specifically account for the training needs of Foreign Service personnel and shall delineate an intake program of generalist and specialist Foreign Service personnel to meet projected future requirements."
+<b>2016</b>—Subsec. (c)(4). Pub. L. 114–323, §715(b)(5), struck out par. (4) which read as follows: "Not later thanMarch 1, 2001, and every four years thereafter, the Secretary of State shall submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate which shall include a workforce plan for the subsequent five years, including projected personnel needs, by grade and by skill. Each such plan shall include for each category the needs for foreign language proficiency, geographic and functional expertise, and specialist technical skills. Each workforce plan shall specifically account for the training needs of Foreign Service personnel and shall delineate an intake program of generalist and specialist Foreign Service personnel to meet projected future requirements."
 
 Pub. L. 114–291 substituted "include a workforce plan" for "include the following:
 

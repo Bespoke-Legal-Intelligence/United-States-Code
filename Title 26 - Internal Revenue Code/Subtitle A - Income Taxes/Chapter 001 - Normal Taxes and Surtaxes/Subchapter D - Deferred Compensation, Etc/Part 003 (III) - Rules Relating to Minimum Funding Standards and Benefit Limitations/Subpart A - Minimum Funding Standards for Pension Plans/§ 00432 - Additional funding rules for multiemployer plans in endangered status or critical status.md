@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (2) Critical status
 
-&emsp;A multiemployer plan is in critical status for a plan year if, as determined by the plan actuary under paragraph (3), the plan is described in 1 or more of the following subparagraphs as of the beginning of the plan year:
+&emsp;A multiemployer plan is in critical status for a plan year if, as determined by the planactuary under paragraph (3), the plan is described in 1 or more of the following subparagraphs as of the beginning of the plan year:
 
 &emsp;&emsp;(A) A plan is described in this subparagraph if—
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;Not later than the 90th day of each plan year of a multiemployer plan, the plan actuary shall certify to the Secretary and to the plan sponsor—
 
-&emsp;&emsp;&emsp;(i) whether or not the plan is in endangered status for such plan year, or would be in endangered status for such plan year but for paragraph (5),,<sup>1</sup> whether or not the plan is or will be in critical status for such plan year or for any of the succeeding 5 plan years, and whether or not the plan is or will be in critical and declining status for such plan year, and
+&emsp;&emsp;&emsp;(i) whether or not the plan is in endangered status for such plan year, or would be in endangered status for such plan year but for paragraph (5), whether or not the plan is or will be in critical status for such plan year or for any of the succeeding 5 plan years, and whether or not the plan is or will be in critical and declining status for such plan year, and
 
 &emsp;&emsp;&emsp;(ii) in the case of a plan which is in a funding improvement or rehabilitation period, whether or not the plan is making the scheduled progress in meeting the requirements of its funding improvement or rehabilitation plan.
 
@@ -108,11 +108,11 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;Any projection of activity in the industry or industries covered by the plan, including future covered employment and contribution levels, shall be based on information provided by the plan sponsor, which shall act reasonably and in good faith.
 
-#### (iv) <sup>2</sup> Projections relating to critical status in succeeding plan years
+#### (iv) Projections relating to critical status in succeeding plan years
 
 &emsp;&emsp;&emsp;Clauses (i) and (ii) (other than the 2nd sentence of clause (i)) may be disregarded by a plan actuary in the case of any certification of whether a plan will be in critical status in a succeeding plan year, except that a plan sponsor may not elect to be in critical status for a plan year under paragraph (4) in any case in which the certification upon which such election would be based is made without regard to such clauses.
 
-#### (iv) <sup>2</sup> Projections of critical and declining status
+#### (v) Projections of critical and declining status
 
 &emsp;&emsp;&emsp;In determining whether a plan is in critical and declining status as described in subsection (e)(9), clauses (i), (ii), and (iii) shall apply, except that—
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (iv) Model notice
 
-&emsp;&emsp;&emsp;The Secretary, in consultation with the Secretary of Labor <sup>3</sup> shall prescribe a model notice that a multiemployer plan may use to satisfy the requirements under clauses (ii) and (iii).
+&emsp;&emsp;&emsp;The Secretary, in consultation with the Secretary of Labor, shall prescribe a model notice that a multiemployer plan may use to satisfy the requirements under clauses (ii) and (iii).
 
 #### (v) Notice of projection to be in critical status in a future plan year
 
@@ -168,7 +168,7 @@ For purposes of this section—
 
 #### (6) Critical and declining status
 
-&emsp;For purposes of this section, a plan in critical status shall be treated as in critical anddeclining status if the plan is described in one or more of subparagraphs (A), (B), (C), and (D) of paragraph (2) and the plan is projected to become insolvent within the meaning of section 418E during the current plan year or any of the 14 succeeding plan years (19 succeeding plan years if the plan has a ratio of inactive participants to active participants that exceeds 2 to 1 or if the funded percentage of the plan is less than 80 percent).
+&emsp;For purposes of this section, a plan in critical status shall be treated as in critical and declining status if the plan is described in one or more of subparagraphs (A), (B), (C), and (D) of paragraph (2) and the plan is projected to become insolvent within the meaning of section 418E during the current plan year or any of the 14 succeeding plan years (19 succeeding plan years if the plan has a ratio of inactive participants to active participants that exceeds 2 to 1 or if the funded percentage of the plan is less than 80 percent).
 
 #### (c) Funding improvement plan must be adopted for multiemployer plans in endangered status
 
@@ -284,7 +284,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) a collective bargaining agreement providing for contributions under a multiemployer plan that was in effect at the time the plan entered endangered status expires, and
 
-&emsp;&emsp;&emsp;(ii) after receiving one or more schedules from the plan sponsor under paragraph (1)(B), the bargaining parties with respect to such agreement fail to adopt a contribution schedule with terms consistent with the funding improvement plan and a schedule from the plan sponsor,
+&emsp;&emsp;&emsp;(ii) after receiving one or more schedules from the plan sponsor under paragraph (1)(B), the bargaining parties with respectto such agreement fail to adopt a contribution schedule with terms consistent with the funding improvement plan and a schedule from the plan sponsor,
 
 > &emsp;&emsp;the plan sponsor shall implement the schedule described in paragraph (1)(B)(i)(I) beginning on the date specified in subparagraph (C).
 
@@ -360,7 +360,7 @@ For purposes of this section—
 
 &emsp;&emsp;A rehabilitation plan is a plan which consists of—
 
-&emsp;&emsp;&emsp;(i) actions, including options or a range of options to be proposed to the bargaining parties, formulated, based on reasonably anticipated experience and reasonable actuarial assumptions, to enable the plan tocease to be in critical status by the end of the rehabilitation period and may include reductions in plan expenditures (including plan mergers and consolidations), reductions in future benefit accruals or increases in contributions, if agreed to by the bargaining parties, or any combination of such actions, or
+&emsp;&emsp;&emsp;(i) actions, including options or a range of options to be proposed to the bargaining parties, formulated, based on reasonably anticipated experience and reasonable actuarial assumptions, to enable the plan to cease to be in critical status by the end of the rehabilitation period and may include reductions in plan expenditures (including plan mergers and consolidations), reductions in future benefit accruals or increases in contributions, if agreed to by the bargaining parties, or any combination of such actions, or
 
 &emsp;&emsp;&emsp;(ii) if the plan sponsor determines that, based on reasonable actuarial assumptions and upon exhaustion of all reasonable measures, the plan can not reasonably be expected to emerge from critical status by the end of the rehabilitation period, reasonable measures to emerge from critical status at a later time or to forestall possible insolvency (within the meaning of section 4245 of the Employee Retirement Income Security Act of 1974).
 
@@ -542,19 +542,19 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;Any notice under clause (i)—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall be provided in a form and manner prescribed in regulations of the Secretary, in consultation with the Secretary of Labor,
+&emsp;&emsp;&emsp;&emsp;(I) shall be provided in a form and manner prescribed in regulations of theSecretary, in consultation with the Secretary of Labor,
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be written in a manner so as to be understood by the average plan participant, and
 
 &emsp;&emsp;&emsp;&emsp;(III) may be provided in written, electronic, or other appropriate form to the extent such form is reasonably accessible to persons to whom the notice is required to be provided.
 
-&emsp;&emsp;&nbsp;the <sup>4</sup> Secretary shall in the regulations prescribed under subclause (I) establish a model notice that a plan sponsor may use to meet the requirements of this subparagraph.
+&emsp;&emsp;&nbsp;The Secretary shall in the regulations prescribed under subclause (I) establish a model notice that a plan sponsor may use to meet the requirements of this subparagraph.
 
 #### (9) Benefit suspensions for multiemployer plans in critical and declining status
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding section 411(d)(6) and subject to subparagraphs (B) through (I), theplan sponsor of a plan in critical and declining status may, by plan amendment, suspend benefits which the sponsor deems appropriate.
+&emsp;&emsp;Notwithstanding section 411(d)(6) and subject to subparagraphs (B) through (I), the plan sponsor of a plan in critical and declining status may, by plan amendment, suspend benefits which the sponsor deems appropriate.
 
 #### (B) Suspension of benefits
 
@@ -622,7 +622,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) The monthly benefit of any participant or beneficiary may not be reduced below 110 percent of the monthly benefit which is guaranteed by the Pension Benefit Guaranty Corporation under section 4022A of the Employee Retirement Income Security Act of 1974 on the date of the suspension.
 
-&emsp;&emsp;&emsp;(ii)(I) In the case of a participant or beneficiary who has attained 75 years of age as of the effective date of the suspension, not more than the applicable percentage of the maximum suspendable benefits of suchparticipant or beneficiary may be suspended under this paragraph.
+&emsp;&emsp;&emsp;(ii)(I) In the case of a participant or beneficiary who has attained 75 years of age as of the effective date of the suspension, not more than the applicable percentage of the maximum suspendable benefits of such participant or beneficiary may be suspended under this paragraph.
 
 &emsp;&emsp;&emsp;(II) For purposes of subclause (I), the maximum suspendable benefits of a participant or beneficiary is the portion of the benefits of such participant or beneficiary that would be suspended pursuant to this paragraph without regard to this clause;
 
@@ -678,7 +678,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The plan sponsor may, in its sole discretion, provide benefit improvements while any suspension of benefits under the plan remains in effect, except that the plan sponsor may not increase the liabilities of the plan by reason of any benefit improvement for any participant or beneficiary not in pay status by the first day of the plan year for which the benefit improvement takes effect, unless—
+&emsp;&emsp;&emsp;The plan sponsor may, in its sole discretion, provide benefit improvements while any suspension of benefits under the plan remains in effect, except that the plan sponsor may not increase the liabilities ofthe plan by reason of any benefit improvement for any participant or beneficiary not in pay status by the first day of the plan year for which the benefit improvement takes effect, unless—
 
 &emsp;&emsp;&emsp;&emsp;(I) such action is accompanied by equitable benefit improvements in accordance with clause (ii) for all participants and beneficiaries whose benefit commencement dates were before the first day of the plan year for which the benefit improvement for such participant or beneficiary not in pay status took effect; and
 
@@ -746,7 +746,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;Any notice under clause (i)—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall be provided in a form and manner prescribed in guidance by theSecretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, notwithstanding any other provision of law,
+&emsp;&emsp;&emsp;&emsp;(I) shall be provided in a form and manner prescribed in guidance by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, notwithstanding any other provision of law,
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be written in a manner so as to be understood by the average plan participant, and
 
@@ -790,7 +790,7 @@ For purposes of this section—
 
 #### (ii) Administration of vote
 
-&emsp;&emsp;&emsp;Not later than 30 days after approval of the suspension by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, under subparagraph (G), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall administer a vote of participants and beneficiaries of the plan. Except as provided in clause (v), the suspension shall go into effect following the vote unless a majority of all participants and beneficiaries of the plan vote to reject the suspension. The plan sponsor may submit a new suspension application to the Secretary of the Treasury for approval in any case in which a suspension is prohibited from taking effect pursuant to a vote under this subparagraph.
+&emsp;&emsp;&emsp;Not later than 30 days after approval of the suspension by the Secretary of theTreasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, under subparagraph (G), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall administer a vote of participants and beneficiaries of the plan. Except as provided in clause (v), the suspension shall go into effect following the vote unless a majority of all participants and beneficiaries of the plan vote to reject the suspension. The plan sponsor may submit a new suspension application to the Secretary of the Treasury for approval in any case in which a suspension is prohibited from taking effect pursuant to a vote under this subparagraph.
 
 #### (iii) Ballots
 
@@ -838,7 +838,7 @@ For purposes of this section—
 
 #### (vi) Final authorization to suspend
 
-&emsp;&emsp;&emsp;In any case in which a suspension goes into effect following a vote pursuant to clause (ii) (or following a determination under clause (v) that the plan is a systemically important plan), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall issue a final authorization to suspend with respect to the suspension not later than 7 days after such vote (or, in the case of a suspension that goes into effect under clause (v), at a time sufficient to allow the implementation of the suspension prior to the end of the 90-day period described in clause (v)(I)).
+&emsp;&emsp;&emsp;In any case in which a suspension goes into effect following a vote pursuant to clause (ii) (or following a determination under clause (v) that the plan is a systemically important plan), the Secretary of the Treasury, in consultation with thePension Benefit Guaranty Corporation and the Secretary of Labor, shall issue a final authorization to suspend with respect to the suspension not later than 7 days after such vote (or, in the case of a suspension that goes into effect under clause (v), at a time sufficient to allow the implementation of the suspension prior to the end of the 90-day period described in clause (v)(I)).
 
 #### (I) Judicial review
 
@@ -924,7 +924,7 @@ For purposes of this section—
 
 #### (1) Benefit reduction
 
-&emsp;Any benefit reductions under subsection (e)(8) or (f), or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)),<sup>5</sup> unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status, shall be disregarded in determining a plan's unfunded vested benefits for purposes of determining an employer's withdrawal liability under section 4201 of the Employee Retirement Income Security Act of 1974.
+&emsp;Any benefit reductions under subsection (e)(8) or (f), or benefit reductions or suspensions while in critical and declining status under subsection (e)(9), unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status, shall be disregarded in determining a plan's unfunded vested benefits for purposes of determining an employer's withdrawal liability under section 4201 of the Employee Retirement Income Security Act of 1974.
 
 #### (2) Surcharges
 
@@ -1032,7 +1032,7 @@ For purposes of this section—
 
 &emsp;The term "benefit commencement date" means the annuity starting date (or in the case of a retroactive annuity starting date, the date on which benefit payments begin).
 
-(Added Pub. L. 109–280, title II, §212(a), Aug. 17, 2006, 120 Stat. 899; amended Pub. L. 110–458, title I, §102(b)(2)(A)–(G), Dec. 23, 2008, 122 Stat. 5101, 5102; Pub. L. 113–235, div. O, title I, §§102(b), 103(b), 104(b), 105(b), 106(b), 107(b), 109(b), title II, §201(b)(1)–(6), Dec. 16, 2014, 128 Stat. 2776, 2778, 2780–2782, 2784, 2790, 2810–2822.)
+(Added Pub. L. 109–280, title II, §212(a), Aug. 17, 2006, 120 Stat. 899; amended Pub. L. 110–458, title I, §102(b)(2)(A)–(G), Dec. 23, 2008, 122 Stat. 5101, 5102; Pub. L. 113–235, div. O, title I, §§102(b), 103(b), 104(b), 105(b), 106(b), 107(b), 109(b), title II, §201(b)(1)–(6), Dec. 16, 2014, 128 Stat. 2776, 2778, 2780–2782, 2784, 2790, 2810–2822; Pub. L. 115–141, div. U, title IV, §401(a)(102)–(107), Mar. 23, 2018, 132 Stat. 1189.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -1044,11 +1044,23 @@ The Employee Retirement Income Security Act of 1974, referred to in text, is Pub
 
 The enactment of the Pension Protection Act of 2006, referred to in subsec. (e)(4)(B)(i)(II), means the enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
-The date of enactment of the Multiemployer Pension Reform Act of 2014, referred to in subsec. (e)(9)(D)(vii)(III), is the date of enactment of div. O of Pub. L. 113–235, which was approved Dec. 16, 2014.
+The date of enactment of the Multiemployer Pension Reform Act of 2014, referred to in subsec.\(e)(9)(D)(vii)(III), is the date of enactment of div. O of Pub. L. 113–235, which was approved Dec. 16, 2014.
 
 Section 230 of the Social Security Act, referred to in subsec. (e)(9)(H)(v)(III)(bb), is classified to section 430 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(3)(A)(i). Pub. L. 115–141, §401(a)(102), substituted "in endangered status for such plan year, or would be in endangered status for such plan year but for paragraph (5), whether or not" for "in endangered status for such plan year, whether or not".
+
+Subsec. (b)(3)(B)(iv), (v). Pub. L. 115–141, §401(a)(103), redesignated cl. (iv), relating to projections of critical and declining status, as (v).
+
+Subsec. (b)(3)(D)(iv). Pub. L. 115–141, §401(a)(104), inserted comma after "Labor".
+
+Subsec. (e)(8)(C)(iii). Pub. L. 115–141, §401(a)(105), substituted "The Secretary shall" for "the Secretary shall" in concluding provisions.
+
+Subsec. (f)(3). Pub. L. 115–141, §401(a)(106), amended introductory provisions generally. Prior to amendment, text read as follows: "During the rehabilitation plan adoption period—".
+
+Subsec. (g)(1). Pub. L. 115–141, §401(a)(107), substituted "subsection (e)(9)" for "subsection (e)(9))".
 
 <b>2014</b>—Subsec. (a)(3). Pub. L. 113–235, §201(b)(1), added par. (3).
 
@@ -1056,7 +1068,7 @@ Subsec. (b)(1). Pub. L. 113–235, §104(b)(1)(A), substituted "the plan is not 
 
 Subsec. (b)(3)(A)(i). Pub. L. 113–235, §201(b)(3), substituted ", whether" for "and whether" and inserted ", and whether or not the plan is or will be in critical and declining status for such plan year" before ", and" at end.
 
-Pub. L. 113–235, §104(b)(3), which directed insertion of ", or would be in endangered status for such plan year but for paragraph (5)," after "endangered status for a plan year", was executed by making the insertion after "endangered status for such plan year" to reflect the probable intent of Congress.
+Pub. L. 113–235, §104(b)(3), which directed insertion of ", or would be in endangered status for such plan year but for paragraph (5)," after "endangered status for a plan year", could not be executed because the phrase "endangered status for a plan year" did not appear in cl. (i).
 
 Pub. L. 113–235, §102(b)(2)(A), substituted "or for any of the succeeding 5 plan years, and" for ", and" at end.
 
@@ -1100,11 +1112,11 @@ Subsec. (e)(9). Pub. L. 113–235, §201(b)(5), added par. (9).
 
 Pub. L. 113–235, §109(b)(1), struck out par. (9) which related to adjustments disregarded in withdrawal liability determination.
 
-Subsec. (f)(3). Pub. L. 113–235, §109(b)(2)(B), which directed amendment of par. (4) as redesignated by section 109(b)(2)(A) of Pub. L. 113–235 by substituting "During the period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the date of the adoption of a rehabilitation plan—" for "During the rehabilitation plan adoption period—", was executed by making the substitution in par. (3) as so redesignated, to reflect the probable intent of Congress. See below.
+Subsec. (f)(3). Pub. L. 113–235, §109(b)(2)(A), redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows "Any benefit reductions under this subsection shall be disregarded in determining a plan's unfunded vested benefits for purposes of determining an employer's withdrawal liability under section 4201 of the Employee Retirement Income Security Act of 1974."
 
-Pub. L. 113–235, §109(b)(2)(A), redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows "Any benefit reductions under this subsection shall be disregarded in determining a plan's unfunded vested benefits for purposes of determining an employer's withdrawal liability under section 4201 of the Employee Retirement Income Security Act of 1974."
+Subsec. (f)(4). Pub. L. 113–235, §109(b)(2)(B), which directed amendment of par. (4) as redesignated by section 109(b)(2)(A) of Pub. L. 113–235 by substituting "During the period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the date of the adoption of a rehabilitation plan—" for "During the rehabilitation plan adoption period—", could not be executed because there was no par. (4) after the amendment by Pub. L. 113–295, §109(b)(2)(A). See below.
 
-Subsec. (f)(4). Pub. L. 113–235, §109(b)(2)(A), redesignated par. (4) as (3).
+Pub. L. 113–235, §109(b)(2)(A), redesignated par. (4) as (3).
 
 Subsec. (g). Pub. L. 113–235, §109(b)(4), added subsec. (g). Former subsec. (g) redesignated (h).
 
@@ -1234,7 +1246,7 @@ Notice to participants.—
 
 &emsp;&emsp;"(A)
 
-In general.—Notwithstanding section 305(b)(3)(D) of such Act and section 431(b)(3)(D) ofsuch Code, if the plan is neither in endangered nor critical status by reason of an election made under subsection (a)—
+In general.—Notwithstanding section 305(b)(3)(D) of such Act and section 431(b)(3)(D) of such Code, if the plan is neither in endangered nor critical status by reason of an election made under subsection (a)—
 
 &emsp;&emsp;&emsp;"(i) the plan sponsor of a multiemployer plan shall not be required to provide notice under such sections, and
 
@@ -1279,14 +1291,4 @@ Effective Date.—This section shall apply to plan years beginning after Decembe
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 
 For applicability of this section to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> So in original. Two cls. (iv) have been enacted.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>5</sup></i><i> So in original. The second parenthesis probably should not appear.</i>
 

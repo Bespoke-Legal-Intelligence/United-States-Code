@@ -10,7 +10,7 @@ The assignment of volunteers under this section, and the provision of support fo
 
 #### (c) Criteria and priorities
 
-In carrying out this section and section 4993 of this title, the Director shall establish criteria and priorities for awarding grants and entering into contracts under this part in each fiscalyear. No grant or contract exceeding $100,000 shall be made under this part unless the recipient of the grant or contractor has been selected by a competitive process that includes public announcement of the availability of funds for such grant or contract, general criteria for the selection of recipients or contractors, and a description of the application process and application review process.
+In carrying out this section and section 4993 of this title, the Director shall establish criteria and priorities for awarding grants and entering into contracts under this part in each fiscal year. No grant or contract exceeding $100,000 shall be made under this part unless the recipient of the grant or contractor has been selected by a competitive process that includes public announcement of the availability of funds for such grant or contract, general criteria for the selection of recipients or contractors, and a description of the application process and application review process.
 
 (Pub. L. 93–113, title I, §122, Oct. 1, 1973, 87 Stat. 401; Pub. L. 94–293, §3(a), May 27, 1976, 90 Stat. 525; Pub. L. 96–143, §7(a)–(c), Dec. 13, 1979, 93 Stat. 1075, 1076; Pub. L. 98–288, §§12, 30(b)(2), May 21, 1984, 98 Stat. 192, 197; Pub. L. 99–551, §§6(a), 10(d), (i)(4), Oct. 27, 1986, 100 Stat. 3074, 3077, 3078; Pub. L. 101–204, title III, §301, Dec. 7, 1989, 103 Stat. 1813; Pub. L. 103–82, title III, §331, Sept. 21, 1993, 107 Stat. 903.)
 

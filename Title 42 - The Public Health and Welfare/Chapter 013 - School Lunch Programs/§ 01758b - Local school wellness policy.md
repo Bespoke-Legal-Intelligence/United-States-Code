@@ -40,7 +40,7 @@ The local educational agency shall use the guidelines promulgated by the Secreta
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Secretary of Education and the Secretary of Health and Human Services, acting through the Centers for Disease Control and Prevention, shall provide information and technical assistance to local educational agencies, school food authorities, and State educational agencies for use in establishing healthy school environments that are intended to promote student health and wellness.
+&emsp;The Secretary, in consultation with the Secretary of Education and the Secretary ofHealth and Human Services, acting through the Centers for Disease Control and Prevention, shall provide information and technical assistance to local educational agencies, school food authorities, and State educational agencies for use in establishing healthy school environments that are intended to promote student health and wellness.
 
 #### (2) Content
 

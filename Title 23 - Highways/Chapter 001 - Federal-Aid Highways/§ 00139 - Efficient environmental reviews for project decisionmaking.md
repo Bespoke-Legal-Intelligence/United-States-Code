@@ -220,7 +220,7 @@ Use of document.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—To the maximum extent practicable, the lead agency shall develop an environmental document sufficient tosatisfy the requirements for any Federal approval or other Federal action required for the project, including permits issued by other Federal agencies.
+In general.—To the maximum extent practicable, the lead agency shall develop an environmental document sufficient to satisfy the requirements for any Federal approval or other Federal action required for the project, including permits issued by other Federal agencies.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -416,7 +416,7 @@ Coordination plan.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 90 days after the date of publication of a notice ofintent to prepare an environmental impact statement or the initiation of an environmental assessment, the lead agency shall establish a plan for coordinating public and agency participation in and comment on the environmental review process for a project or category of projects. The coordination plan may be incorporated into a memorandum of understanding.
+In general.—Not later than 90 days after the date of publication of a notice of intent to prepare an environmental impact statement or the initiation of an environmental assessment, the lead agency shall establish a plan for coordinating public and agency participation in and comment on the environmental review process for a project or category of projects. The coordination plan may be incorporated into a memorandum of understanding.
 
 &emsp;&emsp;(B)
 
@@ -506,7 +506,7 @@ Participating agency responsibilities.—Based on information received from the 
 
 &emsp;(4)
 
-Issue resolution.—Any issue resolved by the lead agency with the concurrence of participating agencies may not be reconsideredunless significant new information or circumstances arise.
+Issue resolution.—Any issue resolved by the lead agency with the concurrence of participating agencies may not be reconsidered unless significant new information or circumstances arise.
 
 &emsp;(5)
 
@@ -586,7 +586,7 @@ In general.—If resolution is not achieved by not later than 30 days after the 
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Meeting.—Not later than 30 days after the date of receipt of a referral from the Secretary under subclause (I), the Council on Environmental Quality shall hold an issue resolution meeting with the lead agency, the heads of relevant participating agencies, and the project sponsor (including the Governor only if an initial request for an issue resolution meeting came from the Governor).
+Meeting.—Not later than 30 days after the date of receipt of a referral from the Secretary under subclause (I), the Council on Environmental Quality shall hold an issue resolution meetingwith the lead agency, the heads of relevant participating agencies, and the project sponsor (including the Governor only if an initial request for an issue resolution meeting came from the Governor).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -606,7 +606,7 @@ Failure to decide.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—If an agency described in subparagraph (A) fails to render a decision under any Federal law relating to a project that requires the preparation of an environmental impact statement or environmental assessment, including the issuance or denial of a permit, license, or other approval by the date described in clause (ii), an amount of funding equal to the amounts specified in subclause (I) or (II) shall be rescinded from the applicable office of the head of the agency, or equivalent office to which the authority for rendering the decision has been delegated bylaw by not later than 1 day after the applicable date under clause (ii), and once each week thereafter until a final decision is rendered, subject to subparagraph (C)—
+In general.—If an agency described in subparagraph (A) fails to render a decision under any Federal law relating to a project that requires the preparation of an environmental impact statement or environmental assessment, including the issuance or denial of a permit, license, or other approval by the date described in clause (ii), an amount of funding equal to the amounts specified in subclause (I) or (II) shall be rescinded from the applicable office of the head of the agency, or equivalent office to which the authority for rendering the decision has been delegated by law by not later than 1 day after the applicable date under clause (ii), and once each week thereafter until a final decision is rendered, subject to subparagraph (C)—
 
 &emsp;&emsp;&emsp;&emsp;(I) $20,000 for any project for which an annual financial plan is required under subsection (h) or (i) of section 106; or
 
@@ -858,7 +858,7 @@ Federal agencies.—A Federal agency participating in the environmental review o
 
 &emsp;&emsp;(B)
 
-State and local agencies.—The Secretary shall encourage State and local agencies participating in the environmental review permitting process for a project to provide information regarding the status and progress of the approval of the project for publication on the Internet website referred to in paragraph (1)(A).
+State and local agencies.—The Secretary shall encourage State and local agencies participating in the environmental review permitting process for a project to provide information regarding the status andprogress of the approval of the project for publication on the Internet website referred to in paragraph (1)(A).
 
 &emsp;(3)
 
@@ -876,7 +876,7 @@ Section 204 of this title, referred to in subsec. (j)(3), was repealed and a new
 
 The date of enactment of this subsection, referred to in subsec. (o)(1), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
-Section 41003(b) of the FAST Act, referred to in subsec. (o)(1)(A), is section 41003(b) of Pub. L. 114–94, knownas the FAST Act and also known as the Fixing America's Surface Transportation Act, which is classified to section 4370m–2(b) of Title 42, The Public Health and Welfare.
+Section 41003(b) of the FAST Act, referred to in subsec. (o)(1)(A), is section 41003(b) of Pub. L. 114–94, known as the FAST Act and also known as the Fixing America's Surface Transportation Act, which is classified to section 4370m–2(b) of Title 42, The Public Health and Welfare.
 
 #### Codification
 

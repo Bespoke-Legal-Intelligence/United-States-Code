@@ -42,7 +42,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 &emsp;&emsp;(A) approve and adopt comprehensive System budgets developed and maintained by the Interagency Ocean Observation Committee to support System operations, including operations of both Federal and non-Federal assets;
 
-&emsp;&emsp;(B) ensure coordination of the System with other domestic and international earth observing activities including the Global Ocean Observing System and the Global Earth Observing System of Systems, and provide, as appropriate, support for and representation on United States delegations to international meetings on coastal and ocean observing programs; and
+&emsp;&emsp;(B) ensure coordination of the System with other domestic and international earth observing activities including the Global Ocean Observing System and the Global Earth Observing System of Systems, andprovide, as appropriate, support for and representation on United States delegations to international meetings on coastal and ocean observing programs; and
 
 &emsp;&emsp;(C) encourage coordinated intramural and extramural research and technology development, and a process to transition developing technology and methods into operations of the System.
 

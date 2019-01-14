@@ -14,7 +14,7 @@ In order to help retired individuals and working older individuals to share thei
 
 #### (b) Proportion of required local contribution; exceptions
 
-In no event shall the required proportion of the local contribution (including in-kind contributions) for a grant or contract made under this section be more than 10 per centum in the first year of assistance under this section, 20 per centum in the second such year, and 30 per centum in any subsequent such years: <i>Provided,</i><i>however</i>, That the Director may make exceptions in cases of demonstrated need, determined (in accordance with regulations which the Director shall prescribe) on the basis of the financial capability of a particular recipient of assistance under this section, to permit a lesser local contribution proportion than any required contribution proportion established by the Director in generally applicable regulations.
+In no event shall the required proportion of the local contribution (including in-kind contributions) for a grant or contract made under this section be more than 10 per centum in the first year of assistance under this section, 20 per centum in the second such year, and 30 per centum in any subsequent such years: <i>Provided, however</i>, That the Director may make exceptions in cases of demonstrated need, determined (in accordance with regulations which the Director shall prescribe) on the basis of the financial capability of a particular recipient of assistance under this section, to permit a lesser local contribution proportion than any required contribution proportion established by the Director in generally applicable regulations.
 
 #### (c) Conditions upon award of grant or contract
 
@@ -44,7 +44,7 @@ Notwithstanding any other provision of law, volunteer service under this part sh
 
 &emsp;(iv) ensure that—
 
-&emsp;&emsp;(I) the grants or contracts awarded under this section through the competitive process for a grant or contract cycle support an aggregate number of volunteer service years for a given geographic service area that is not less than the aggregate number of volunteer service years supported under this section for such service area for the previous grant or contract cycle;
+&emsp;&emsp;(I) the grants or contracts awarded under this section through the competitive process for a grant or contract cycle support an aggregate number of volunteer service years for a given geographic service area that isnot less than the aggregate number of volunteer service years supported under this section for such service area for the previous grant or contract cycle;
 
 &emsp;&emsp;(II) the grants or contracts awarded under this section through the competitive process for a grant or contract cycle maintain a similar program distribution, as compared to the program distribution for the previous grant or contract cycle; and
 
@@ -188,7 +188,7 @@ Pub. L. 94–135, title II, §205(c), Nov. 28, 1975, 89 Stat. 727, as amended by
 
 "(3) For purposes of this subsection—
 
-&emsp;"(A) the term 'Corporation' means the Corporation for National and Community Service established by section 191 of the National and Community Service Act of 1990 \[42 U.S.C. 12651\].\[;\]
+&emsp;"(A) the term 'Corporation' means the Corporation for National and Community Service established bysection 191 of the National and Community Service Act of 1990 \[42 U.S.C. 12651\].\[;\]
 
 &emsp;"(B) the term 'primary responsibility' means the devotion of more than one-half of regular working hours to the performance of duties described in paragraph (2)(B); and
 

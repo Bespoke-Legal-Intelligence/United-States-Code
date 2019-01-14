@@ -60,7 +60,7 @@ The Associate Administrator—
 
 &emsp;&emsp;&emsp;(iv) reducing paperwork and administrative burdens on veterans in accessing business development and entrepreneurship opportunities;
 
-&emsp;&emsp;&emsp;(v) increasing and improving training and counseling services provided to small business concerns owned and controlled by veterans; and
+&emsp;&emsp;&emsp;(v) increasing and improving training and counseling services provided to smallbusiness concerns owned and controlled by veterans; and
 
 &emsp;&emsp;&emsp;(vi) making other improvements relating to the support for veterans business development by the Federal Government.
 
@@ -108,13 +108,29 @@ There are authorized to be appropriated to carry out this section—
 
 &emsp;(2) $2,000,000 for fiscal year 2006.
 
-(Pub. L. 85–536, §2\[32\], as added Pub. L. 106–50, title II, §201(b)(2), Aug. 17, 1999, 113 Stat. 235; amended Pub. L. 108–447, div. K, title I, §145, Dec. 8, 2004, 118 Stat. 3455; Pub. L. 110–186, title I, §§102, 104, Feb. 14, 2008, 122 Stat. 624, 625.)
+#### (g) Access to surplus property for veteran-owned small businesses
+
+#### (1) Definitions
+
+&emsp;In this subsection—
+
+&emsp;&emsp;(A) the term "foreign excess property" has the meaning given the term in section 102 of title 40; and
+
+&emsp;&emsp;(B) the term "state agency" has the meaning given the term, including the roles and responsibilities assigned, in section 549 of title 40.
+
+#### (2) Requirement
+
+&emsp;The Administrator, in coordination with the Administrator of General Services, shall provide access to and manage the distribution of surplus property, and foreign excess property returned to a State for handling as surplus property, owned by the United States under chapter 7 of title 40, to small business concerns owned and controlled by veterans (as verified by the Secretary of Veterans Affairs under section 8127 of title 38) pursuant to a memorandum of agreement between the Administrator, the Administrator of General Services, and the head of the applicable state agency for surplus properties and in accordance with section 549 of title 40.
+
+(Pub. L. 85–536, §2\[32\], as added Pub. L. 106–50, title II, §201(b)(2), Aug. 17, 1999, 113 Stat. 235; amended Pub. L. 108–447, div. K, title I, §145, Dec. 8, 2004, 118 Stat. 3455; Pub. L. 110–186, title I, §§102, 104, Feb. 14, 2008, 122 Stat. 624, 625; Pub. L. 115–416, §2, Jan. 3, 2019, 132 Stat. 5436.)
 
 #### Prior Provisions
 
-A prior section 2\[32\] of Pub. L. 85–536 was renumbered section 2\[47\] and is set out as a note under section 631 of this title.
+A prior section 2\[32\] of Pub. L. 85–536 was renumbered section 2\[49\] and is set out as a note under section 631 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (g). Pub. L. 115–416 added subsec. (g).
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–186, §102(2), added subsec. (c). Former subsec. (c) redesignated (f).
 
@@ -282,7 +298,7 @@ In general.—The Committee shall meet, not less than three times per year, at t
 
 &emsp;"(2)
 
-Location.—Each meeting of the full Committee shall be held at the headquarters of the SmallBusiness Administration located in Washington, District of Columbia. The Administrator shall provide suitable meeting facilities and such administrative support as may be necessary for each full meeting of the Committee.
+Location.—Each meeting of the full Committee shall be held at the headquarters of the Small Business Administration located in Washington, District of Columbia. The Administrator shall provide suitable meeting facilities and such administrative support as may be necessary for each full meeting of the Committee.
 
 &emsp;"(3)
 
@@ -310,7 +326,7 @@ Pub. L. 106–50, title III, §301, Aug. 17, 1999, 113 Stat. 242, provided that:
 
 "(a)
 
-In General.—The Administrator of the Small Business Administration shall enter into a memorandum of understanding with the Service Core \[probably should be "Corps"\] of Retired Executives (described in section 8(b)(1)(B) of the Small Business Act (15 U.S.C. 637(b)(1)(B)) and in this section referred to as 'SCORE') to provide for the following:
+In General.—The Administrator of the Small Business Administration shall enter into a memorandum of understanding with the Service Core \[probablyshould be "Corps"\] of Retired Executives (described in section 8(b)(1)(B) of the Small Business Act (15 U.S.C. 637(b)(1)(B)) and in this section referred to as 'SCORE') to provide for the following:
 
 &emsp;"(1) The appointment by SCORE in its national office of an individual to act as National Veterans Business Coordinator, whose duties shall relate exclusively to veterans business matters, and who shall be responsible for the establishment and administration of a program to coordinate counseling and training regarding entrepreneurship to veterans through the chapters of SCORE throughout the United States.
 
@@ -366,7 +382,7 @@ Information on Federal Procurement Practices.—The Administrator of the Small B
 
 "(b)
 
-Identification of Small Business Concerns Owned by Eligible Veterans.—Each fiscal year, theSecretary of Veterans Affairs shall, in consultation with the Assistant Secretary of Labor for Veterans' Employment and Training and the Administrator of the Small Business Administration, identify small business concerns owned and controlled by veterans in the United States. The Secretary shall inform each small business concern identified under this paragraph that information on Federal procurement is available from the Administrator.
+Identification of Small Business Concerns Owned by Eligible Veterans.—Each fiscal year, the Secretary of Veterans Affairs shall, in consultation with the Assistant Secretary of Labor for Veterans' Employment and Training and the Administrator of the Small Business Administration, identify small business concerns owned and controlled by veterans in the United States. The Secretary shall inform each small business concern identified under this paragraph that information on Federal procurement is available from the Administrator.
 
 "(c)
 

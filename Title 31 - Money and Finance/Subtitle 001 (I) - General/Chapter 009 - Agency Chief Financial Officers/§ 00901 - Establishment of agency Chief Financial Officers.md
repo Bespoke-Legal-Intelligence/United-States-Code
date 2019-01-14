@@ -122,7 +122,7 @@ Pub. L. 106–58, title VI, §638(b)–(e), Sept. 29, 1999, 113 Stat. 475, provi
 
 "(b)
 
-Plan for Implementation.—Not later than 90 days after the effective date of this section \[noon onJan. 20, 2001\], the President shall communicate in writing, to the Chairmen of the Committees on Appropriations, the Chairman of the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Chairman of the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, a plan for implementation of the provisions of, and amendments made by, this section \[amending this section and sections 503 and 1105 of this title\].
+Plan for Implementation.—Not later than 90 days after the effective date of this section \[noon on Jan. 20, 2001\], the President shall communicate in writing, to the Chairmen of the Committees on Appropriations, the Chairman of the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Chairman of the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, a plan for implementation of the provisions of, and amendments made by, this section \[amending this section and sections 503 and 1105 of this title\].
 
 "(c)
 

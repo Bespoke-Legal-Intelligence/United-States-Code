@@ -34,7 +34,7 @@ Any suit brought under this section shall be brought—
 
 #### (d) Costs; attorney fees; witness fees
 
-The court, in issuing any final order in any action brought pursuant to this section, may award costs of litigation (including reasonableattorney and expert witness fees) to any party including the Federal Government.
+The court, in issuing any final order in any action brought pursuant to this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any party including the Federal Government.
 
 #### (e) Federal intervention
 

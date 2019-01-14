@@ -46,7 +46,7 @@ In this section:
 
 #### (10) State
 
-&emsp;The term "State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
+&emsp;The term "State" means a State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, and any other territory or possession of the United States.
 
 #### (b) Named Storm Event Model and post-storm assessment
 
@@ -138,7 +138,7 @@ In this section:
 
 #### (5) Coordinated deployments and data collection practices
 
-&emsp;The Administrator shall, in consultation with the Office of the Federal Coordinator for Meteorology, coordinate the deployment of sensors as part of the protocol established under paragraph (1) and related data collection carried out by Federal, State, academic, and private entities who choose to cooperate with the Administrator in carrying out this subsection.
+&emsp;The Administrator shall, in consultation with the Office of the Federal Coordinator for Meteorology, coordinate the deployment of sensors as part of the protocol established under paragraph (1) and related data collection carried out by Federal, State, academic, and private entities who choose to cooperatewith the Administrator in carrying out this subsection.
 
 #### (6) Priority acquisition and deployment
 
@@ -234,7 +234,7 @@ Not later than 1 year after July 6, 2012, the Comptroller General of the United 
 
 #### References in Text
 
-The Consumer Option for an Alternative System to Allocate Losses Act of 2012, referred to in subsec. (g)(1), is subtitle B (§§100251–100253) of title II of div. F of Pub. L 112–141, which enacted this section, section 4057 of Title 42, the Public Health and Welfare, and provisions set out as a note under section 4001 of Title 42. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under section 4001 of Title 42 and Tables.
+The Consumer Option for an Alternative System to Allocate Losses Act of 2012, referred to in subsec. (g)(1),is subtitle B (§§100251–100253) of title II of div. F of Pub. L 112–141, which enacted this section, section 4057 of Title 42, the Public Health and Welfare, and provisions set out as a note under section 4001 of Title 42. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under section 4001 of Title 42 and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "Committee on".</i>
 

@@ -10,7 +10,7 @@ Transitory Digital Network Communications.—A service provider shall not be lia
 
 &emsp;(3) the service provider does not select the recipients of the material except as an automatic response to the request of another person;
 
-&emsp;(4) no copy of the material made by the service provider in the course of such intermediateor transient storage is maintained on the system or network in a manner ordinarily accessible to anyone other than anticipated recipients, and no such copy is maintained on the system or network in a manner ordinarily accessible to such anticipated recipients for a longer period than is reasonably necessary for the transmission, routing, or provision of connections; and
+&emsp;(4) no copy of the material made by the service provider in the course of such intermediate or transient storage is maintained on the system or network in a manner ordinarily accessible to anyone other than anticipated recipients, and no such copy is maintained on the system or network in a manner ordinarily accessible to such anticipated recipients for a longer period than is reasonably necessary for the transmission, routing, or provision of connections; and
 
 &emsp;(5) the material is transmitted through the system or network without modification of its content.
 
@@ -26,7 +26,7 @@ Limitation on liability.—A service provider shall not be liable for monetary r
 
 &emsp;&emsp;(B) the material is transmitted from the person described in subparagraph (A) through the system or network to a person other than the person described in subparagraph (A) at the direction of that other person; and
 
-&emsp;&emsp;(C) the storage is carried out through an automatic technical process for the purpose of making the material available to users of the system or network who, after the material is transmitted as described in subparagraph (B), request access to the material from the person described in subparagraph (A),
+&emsp;&emsp;(C) the storage is carried out through an automatic technical process for the purpose of making the material available to users of the system or network who, after the material is transmitted as described in subparagraph (B), request access to the materialfrom the person described in subparagraph (A),
 
 > &emsp;if the conditions set forth in paragraph (2) are met.
 
@@ -86,7 +86,7 @@ Designated agent.—The limitations on liability established in this subsection 
 
 Elements of notification.—
 
-&emsp;&emsp;(A) To be effective under this subsection, a notification of claimed infringement must be a written communication provided to the designated agent of a service provider that includes substantially the following:
+&emsp;&emsp;(A) To be effective under this subsection, a notification of claimed infringement mustbe a written communication provided to the designated agent of a service provider that includes substantially the following:
 
 &emsp;&emsp;&emsp;(i) A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 

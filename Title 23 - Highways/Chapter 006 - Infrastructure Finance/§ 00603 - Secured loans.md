@@ -242,7 +242,7 @@ Loan Guarantees.—
 
 &emsp;(1)
 
-In general.—The Secretary may provide a loan guarantee to a lender in lieu of makinga secured loan under this section if the Secretary determines that the budgetary cost of the loan guarantee is substantially the same as that of a secured loan.
+In general.—The Secretary may provide a loan guarantee to a lender in lieu of making a secured loan under this section if the Secretary determines that the budgetary cost of the loan guarantee is substantially the same as that of a secured loan.
 
 &emsp;(2)
 
@@ -266,7 +266,7 @@ Terms.—In establishing the streamlined application process required by this su
 
 &emsp;&emsp;(C) repayment of the loan commences not later than 5 years after disbursement.
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 245, §183; renumbered §603 and amended Pub. L. 109–59, title I, §§1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 614; Pub. L. 114–94, div. A, title II, §2001(c), Dec. 4, 2015, 129 Stat. 1442.)
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 245, §183; renumbered §603 andamended Pub. L. 109–59, title I, §§1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 614; Pub. L. 114–94, div. A, title II, §2001(c), Dec. 4, 2015, 129 Stat. 1442.)
 
 #### References in Text
 

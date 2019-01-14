@@ -76,7 +76,7 @@ There shall be allowed as a credit against so much of the tax imposed by section
 
 &emsp;(2) the amount of such payments taken into account under this subsection for all prior periods.
 
-> The preceding sentence shall also apply to amounts paid by the taxpayer into the Trans-Alaska Pipeline Liability Fund to the extent of amounts transferred from such Fund into the Oil Spill Liability Trust Fund. For purposes of this subsection, all taxpayers which would be members of the same affiliated group (as defined in section 1504(a)) if section 1504(a)(2) were applied by substituting "100 percent" for "80 percent" shall be treated as 1 taxpayer.
+> The preceding sentence shall also apply to amounts paid by the taxpayer into the Trans-Alaska Pipeline Liability Fund to the extent of amounts transferred from such Fund into the Oil Spill Liability Trust Fund. For purposes of this subsection, all taxpayers which would be members of the same affiliated group (as definedin section 1504(a)) if section 1504(a)(2) were applied by substituting "100 percent" for "80 percent" shall be treated as 1 taxpayer.
 
 #### (e) Income tax credit for unused payments into Trans-Alaska Pipeline Liability Fund
 
@@ -104,7 +104,7 @@ There shall be allowed as a credit against so much of the tax imposed by section
 
 &emsp;&emsp;&emsp;The amount determined under this clause with respect to any taxpayer is the excess of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of credit which would have been allowed under subsection (d) to the taxpayer for periods before the termination date specified in section 4611(f)(1), if amounts in the Trans-Alaska Pipeline Liability Fund which are actually transferred into the Oil Spill Liability Fund were tranferred <sup>1</sup> on January 1, 1990, and the Oil Spill Liability Trust Fund financing rate did not terminate before such termination date, over
+&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of credit which would have been allowed under subsection (d) to the taxpayer for periods before the termination date specified in section 4611(f)(1), if amounts in the Trans-Alaska Pipeline Liability Fund which are actually transferred into the Oil Spill Liability Fund were transferred on January 1, 1990, and the Oil Spill Liability Trust Fund financing rate did not terminate before such termination date, over
 
 &emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of the credit allowed under subsection (d) to the taxpayer.
 
@@ -126,7 +126,7 @@ There shall be allowed as a credit against so much of the tax imposed by section
 
 The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4611.
 
-(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2798; amended Pub. L. 99–499, title V, §512(c), Oct. 17, 1986, 100 Stat. 1761; Pub. L. 99–509, title VIII, §8032(b), Oct. 21, 1986, 100 Stat. 1957; Pub. L. 101–239, title VII, §7505(c), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–380, title IX, §9002, Aug. 18, 1990, 104 Stat. 574; Pub. L. 102–486, title XIX, §1922(a), Oct. 24, 1992, 106 Stat. 3028.)
+(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2798; amended Pub. L. 99–499, title V, §512(c), Oct. 17, 1986, 100 Stat. 1761; Pub. L. 99–509, title VIII, §8032(b), Oct. 21, 1986, 100 Stat. 1957; Pub. L. 101–239, title VII, §7505(c), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–380, title IX, §9002, Aug. 18, 1990, 104 Stat. 574; Pub. L. 102–486, title XIX, §1922(a), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 115–141, div. U, title IV, §401(a)(223), Mar. 23, 2018, 132 Stat. 1194.)
 
 #### References in Text
 
@@ -137,6 +137,8 @@ The date of the enactment of this paragraph, referred to in subsec. (e)(4), is t
 Amendments by Pub. L. 99–509, title VIII, §8031(c), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (c) and (d) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, §8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(2)(B)(ii)(I). Pub. L. 115–141 substituted "were transferred" for "were tranferred".
 
 <b>1992</b>—Subsecs. (e), (f). Pub. L. 102–486 added subsec. (e) and redesignated former subsec. (e) as (f).
 
@@ -154,7 +156,7 @@ Subsec. (e). Pub. L. 99–509 redesignated former subsec. (d) as (e).
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XIX, §1922(b), Oct. 24, 1992, 106 Stat. 3029, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 24, 1992\]."
+Pub. L. 102–486, title XIX, §1922(b), Oct. 24, 1992, 106 Stat. 3029, provided that: "The amendments made bythis section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 24, 1992\]."
 
 #### Effective Date of 1990 Amendment
 
@@ -162,13 +164,11 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–509 effective on commencement date as defined in section 4611(f)(2), see section8032(d) of Pub. L. 99–509, set out as a note under section 4611 of this title.
+Amendment by Pub. L. 99–509 effective on commencement date as defined in section 4611(f)(2), see section 8032(d) of Pub. L. 99–509, set out as a note under section 4611 of this title.
 
 Amendment by Pub. L. 99–499 effective Jan. 1, 1987, see section 512(d) of Pub. L. 99–499, set out as a note under section 4611 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "transferred".</i>
 

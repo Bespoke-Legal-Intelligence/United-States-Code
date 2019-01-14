@@ -6,7 +6,7 @@
 
 &emsp;(2) completing such investigation as he considers necessary.
 
-(b)(1) Before review under section 8128(a) of this title, a claimant for compensation not satisfied with a decision of the Secretary under subsection (a) of this section is entitled, on request made within 30 days after the date of the issuance of the decision, to a hearing on his claim before a representative of the Secretary. At the hearing, the claimant is entitled to present evidence in further support of his claim. Within 30 days after the hearing ends, the Secretary shall notify the claimant in writing of his further decision and any modifications of theaward he may make and of the basis of his decision.
+(b)(1) Before review under section 8128(a) of this title, a claimant for compensation not satisfied with a decision of the Secretary under subsection (a) of this section is entitled, on request made within 30 days after the date of the issuance of the decision, to a hearing on his claim before a representative of the Secretary. At the hearing, the claimant is entitled to present evidence in further support of his claim. Within 30 days after the hearing ends, the Secretary shall notify the claimant in writing of his further decision and any modifications of the award he may make and of the basis of his decision.
 
 (2) In conducting the hearing, the representative of the Secretary is not bound by common law or statutory rules of evidence, by technical or formal rules of procedure, or by section 554 of this title except as provided by this subchapter, but may conduct the hearing in such manner as to best ascertain the rights of the claimant. For this purpose, he shall receive such relevant evidence as the claimant adduces and such other evidence as he determines necessary or useful in evaluating the claim.
 
@@ -52,7 +52,7 @@ July 4, 1966, Pub. L. 89–488, §11(b), 80 Stat. 255.
 
 In subsection (b)(1), the words "section 8128(a) of this title" are substituted for "section 37" to reflect the codification of section 37 in title 5, United States Code. The words "a claimant \* \* \* is entitled \* \* \* to a hearing" are substituted for "any claimant \* \* \* shall \* \* \* be afforded an opportunity for a hearing". The words "under subsection (a) of this section" are substituted for "under this section" for clarity. In the second sentence, the words "is entitled to present evidence" are substituted for "shall be afforded an opportunity to present evidence".
 
-In subsection (b)(2), the words "section 554 of this title \* \* \* this subchapter" are substituted for "section 5 of the Administrative Procedure Act \* \* \* this Act" to reflect the codification of the cited section and act in title 5. In the second sentence, the words "shall, in addition, receive" are omitted as unnecessary.
+In subsection (b)(2), the words "section 554 of this title \* \* \* this subchapter" are substituted for "section5 of the Administrative Procedure Act \* \* \* this Act" to reflect the codification of the cited section and act in title 5. In the second sentence, the words "shall, in addition, receive" are omitted as unnecessary.
 
 #### Personnel Not Affected by 1967 Increase
 

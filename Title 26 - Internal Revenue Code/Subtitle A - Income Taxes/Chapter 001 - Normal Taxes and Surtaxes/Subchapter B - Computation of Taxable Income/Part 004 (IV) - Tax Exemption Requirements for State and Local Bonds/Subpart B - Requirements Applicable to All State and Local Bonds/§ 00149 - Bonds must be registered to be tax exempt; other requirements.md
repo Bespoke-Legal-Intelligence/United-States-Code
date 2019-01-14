@@ -50,13 +50,13 @@
 
 &emsp;&emsp;A bond shall not be treated as federally guaranteed by reason of—
 
-&emsp;&emsp;&emsp;(i) any guarantee by the Federal Housing Administration, the Veterans' Administration, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or the Government National Mortgage Association,
+&emsp;&emsp;&emsp;(i) any guarantee by the Federal Housing Administration, the Department of Veterans Affairs, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or the Government National Mortgage Association,
 
 &emsp;&emsp;&emsp;(ii) any guarantee of student loans and any guarantee by the Student Loan Marketing Association to finance student loans,
 
 &emsp;&emsp;&emsp;(iii) any guarantee by the Bonneville Power Authority pursuant to the Northwest Power Act (16 U.S.C. 839d) as in effect on the date of the enactment of the Tax Reform Act of 1984, or
 
-&emsp;&emsp;&emsp;(iv) subject to subparagraph (E), any guarantee by a Federal home loan bankmade in connection with the original issuance of a bond during the period beginning on the date of the enactment of this clause and ending on December 31, 2010 (or a renewal or extension of a guarantee so made).
+&emsp;&emsp;&emsp;(iv) subject to subparagraph (E), any guarantee by a Federal home loan bank made in connection with the original issuance of a bond during the period beginning on the date of the enactment of this clause and ending on December 31, 2010 (or a renewal or extension of a guarantee so made).
 
 #### (B) Debt service, etc.
 
@@ -224,7 +224,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The requirement of this paragraph is met with respect to an issue if the issuer receivesprior to issuance written loan commitments identifying the ultimate potential borrowers of at least 30 percent of the net proceeds of such issue.
+&emsp;&emsp;The requirement of this paragraph is met with respect to an issue if the issuer receives prior to issuance written loan commitments identifying the ultimate potential borrowers of at least 30 percent of the net proceeds of such issue.
 
 #### (B) Exception
 
@@ -366,7 +366,7 @@
 
 &emsp;The Secretary may prescribe regulations to prevent the avoidance of the rules of this subsection, including through the aggregation of projects within a single issue.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2646; amended Pub. L. 100–647, title I, §1013(a)(20)–(22), title V, §5051(a), Nov. 10, 1988, 102 Stat. 3542, 3676; Pub. L. 101–239, title VII, §7651(a), Dec. 19, 1989, 103 Stat. 2383; Pub. L. 104–188, title I, §1704(b)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 109–222, title V, §508(a), (b), (d)(1), (2), May 17, 2006, 120 Stat. 361, 362; Pub. L. 110–289, div. C, title I, §3023(a), (b), July 30, 2008, 122 Stat. 2894, 2895; Pub. L. 111–147, title V, §502(a)(2)(A), Mar. 18, 2010, 124 Stat. 107; Pub. L. 115–97, title I, §13532(a), (b)(1), Dec. 22, 2017, 131 Stat. 2154.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2646; amended Pub. L. 100–647, title I, §1013(a)(20)–(22), title V, §5051(a), Nov. 10, 1988, 102 Stat. 3542, 3676; Pub. L. 101–239, title VII, §7651(a), Dec. 19, 1989, 103 Stat. 2383; Pub. L. 104–188, title I, §1704(b)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 109–222, title V, §508(a), (b), (d)(1), (2), May 17, 2006, 120 Stat. 361, 362; Pub. L. 110–289, div. C, title I, §3023(a), (b), July 30, 2008, 122 Stat. 2894, 2895; Pub. L. 111–147, title V, §502(a)(2)(A), Mar. 18, 2010, 124 Stat. 107; Pub. L. 115–97, title I, §13532(a), (b)(1), Dec. 22, 2017, 131 Stat. 2154; Pub. L. 115–141, div. U, title IV, §401(a)(2)(A), Mar. 23, 2018, 132 Stat. 1184.)
 
 #### References in Text
 
@@ -383,6 +383,8 @@ Section 608(a)(6)(A) of Pub. L. 97–468, referred to in subsec. (c)(2)(C)(ii), 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (c)(2)(C)(ii), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(3)(A)(i). Pub. L. 115–141 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
 <b>2017</b>—Subsec. (d)(1). Pub. L. 115–97, §13532(a), substituted "to advance refund another bond." for "as part of an issue described in paragraph (2), (3), or (4)."
 
@@ -417,10 +419,6 @@ Subsec. (b)(4)(A). Pub. L. 100–647, §1013(a)(21), substituted "and a qualifie
 Subsec. (e)(3). Pub. L. 100–647, §1013(a)(22), substituted "the failure to file in a timely fashion is not due to willful neglect" for "there is reasonable cause for the failure to file such statement in a timely fashion".
 
 Subsec. (f). Pub. L. 100–647, §5051(a), added subsec. (f).
-
-#### Change of Name
-
-Reference to Veterans' Administration deemed to refer to Department of Veterans Affairs pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 2017 Amendment
 

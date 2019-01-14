@@ -156,7 +156,7 @@ Analysis.—The Secretary shall—
 
 &emsp;&emsp;"(B) as soon as practicable after completion of the updated analysis under subparagraph (A), solicit public comment in the Federal Register on the analysis for a period of not more than 30 days; and
 
-&emsp;&emsp;"(C) not later than 60 days after the end of the public comment period under subparagraph (B),post the final updated regulatory impact analysis on the Department of Transportation's Internet Web site.
+&emsp;&emsp;"(C) not later than 60 days after the end of the public comment period under subparagraph (B), post the final updated regulatory impact analysis on the Department of Transportation's Internet Web site.
 
 &emsp;"(2)
 
@@ -170,7 +170,7 @@ Determination.—Not later than 2 years after the date of enactment of this Act,
 
 &emsp;"(3)
 
-Savings clause.—Nothing in this section shall be construed to prohibit the Secretary from implementing the final rule described under subsection (b)(2)(A) prior to the determination required under subsection (c)(2) of this section, or require the Secretary to promulgate a new rule on the provisions of such final rule, other than on the applicable ECP brake system requirements, if the Secretary does not determine that the applicable ECP brake system requirements are justified pursuant to this subsection.
+Savings clause.—Nothing in this section shall be construed to prohibit the Secretary from implementing the final rule described under subsection\(b)(2)(A) prior to the determination required under subsection (c)(2) of this section, or require the Secretary to promulgate a new rule on the provisions of such final rule, other than on the applicable ECP brake system requirements, if the Secretary does not determine that the applicable ECP brake system requirements are justified pursuant to this subsection.
 
 "(d)
 

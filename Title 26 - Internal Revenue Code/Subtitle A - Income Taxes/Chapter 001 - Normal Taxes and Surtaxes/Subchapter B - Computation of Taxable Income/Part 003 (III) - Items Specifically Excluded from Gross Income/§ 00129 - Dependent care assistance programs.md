@@ -58,7 +58,7 @@ No amount paid or incurred during the taxable year of an employee by an employer
 
 #### (3) Eligibility
 
-&emsp;The program shall benefit employees who qualify under a classification set up by the employer and found by the Secretary not to be discriminatory in favor of employees described in paragraph (2), or their dependents.
+&emsp;The program shall benefit employees who qualify under a classification set up by theemployer and found by the Secretary not to be discriminatory in favor of employees described in paragraph (2), or their dependents.
 
 #### (4) Principal shareholders or owners
 
@@ -300,7 +300,7 @@ Amendment by Pub. L. 100–485 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 104(b)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 104(b)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Amendment by section 1114(b)(4) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1987, see section 1114(c)(2) of Pub. L. 99–514, set out as a note under section 414 of this title.
 

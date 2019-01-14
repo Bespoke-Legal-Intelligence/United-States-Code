@@ -6,7 +6,7 @@
 
 (b) The Administrator of General Services shall prescribe the mileage reimbursement rates for use on official business of privately owned airplanes, privately owned automobiles, and privately owned motorcycles while engaged on official business as provided for in section 5704 of this title as follows:
 
-&emsp;(1)(A) The Administrator of General Services shall conduct periodic investigations of the cost of travel and the operation of privately owned airplanes and privately owned motorcycles by employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.
+&emsp;(1)(A) The Administrator of General Services shall conduct periodic investigations of thecost of travel and the operation of privately owned airplanes and privately owned motorcycles by employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.
 
 &emsp;(B) In conducting the periodic investigations, the Administrator shall review and analyze among other factors—
 
@@ -48,7 +48,7 @@
 
 &emsp;(B) a description of any new regulations promulgated or changes to existing regulations authorized under this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 94–22, §6(a), May 19, 1975, 89 Stat. 85; Pub. L.99–234, title I, §104, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 101–391, §5(a)(1), Sept. 25, 1990, 104 Stat. 750; Pub. L. 103–329, title VI, §634(b), (c), Sept. 30, 1994, 108 Stat. 2429, 2430; Pub. L. 104–201, div. A, title XVI, §1614(a)(1), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 104–316, title I, §103(e), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 113–291, div. A, title IX, §915(b), Dec. 19, 2014, 128 Stat. 3475; Pub. L. 115–34, §3, May 16, 2017, 131 Stat. 846.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 94–22, §6(a), May 19, 1975, 89 Stat. 85; Pub. L. 99–234, title I, §104, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 101–391, §5(a)(1), Sept. 25, 1990, 104 Stat. 750; Pub. L. 103–329, title VI, §634(b), (c), Sept. 30, 1994, 108 Stat. 2429, 2430; Pub. L. 104–201, div. A, title XVI, §1614(a)(1), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 104–316, title I, §103(e), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 113–291, div. A, title IX, §915(b), Dec. 19, 2014, 128 Stat. 3475; Pub. L. 115–34, §3, May 16, 2017, 131 Stat. 846.)
 
 Historical and Revision Notes
 
@@ -130,7 +130,7 @@ Transportation network company.—The term 'transportation network company'—
 
 #### Reports Regarding Foreign Travel
 
-Pub. L. 105–277, div. G, subdiv. B, title XXV, §2505, Oct. 21, 1998, 112 Stat. 2681–837, as amended by Pub. L.106–113, div. B, §1000(a)(7) \[div. A, title VII, §707\], Nov. 29, 1999, 113 Stat. 1536, 1501A–461; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
+Pub. L. 105–277, div. G, subdiv. B, title XXV, §2505, Oct. 21, 1998, 112 Stat. 2681–837, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §707\], Nov. 29, 1999, 113 Stat. 1536, 1501A–461; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 "(a)
 
@@ -170,7 +170,7 @@ Exceptions.—This section shall not apply to travel by—
 
 &emsp;"(1) the President or the Vice President;
 
-&emsp;"(2) any officer or employee who is carrying out an intelligence or intelligence-related activity, who is performing a protective function, or who is engaged in a sensitive diplomatic mission; or
+&emsp;"(2) any officer or employee who is carrying out an intelligence or intelligence-related activity, who isperforming a protective function, or who is engaged in a sensitive diplomatic mission; or
 
 &emsp;"(3) any officer or employee who travels prior to January 1, 1999.
 

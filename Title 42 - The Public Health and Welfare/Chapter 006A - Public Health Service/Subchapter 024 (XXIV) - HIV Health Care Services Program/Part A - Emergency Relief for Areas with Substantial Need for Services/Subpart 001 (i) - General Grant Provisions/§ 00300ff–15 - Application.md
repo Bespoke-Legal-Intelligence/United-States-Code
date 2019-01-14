@@ -10,7 +10,7 @@ To be eligible to receive a grant under section 300ff–11 of this title, an eli
 
 &emsp;(C) that political subdivisions within the eligible area will not use funds received under a grant awarded under this subpart in maintaining the level of expenditures for HIV-related services as required in subparagraph (B);
 
-&emsp;(2) that the eligible area has an HIV health services planning council and has entered into intergovernmental agreements pursuant tosection 300ff–12 of this title, and has developed or will develop the comprehensive plan in accordance with section 300ff–12(b)(3)(B) <sup>1</sup> of this title;
+&emsp;(2) that the eligible area has an HIV health services planning council and has entered into intergovernmental agreements pursuant to section 300ff–12 of this title, and has developed or will develop the comprehensive plan in accordance with section 300ff–12(b)(3)(B) <sup>1</sup> of this title;
 
 &emsp;(3) that entities within the eligible area that receive funds under a grant under this subpart will maintain appropriate relationships with entities in the eligible area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>2</sup> 300ff–14(b)(3) <sup>1</sup> and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV/AIDS and individuals knowledgeable of their HIV status but not in care;
 
@@ -66,13 +66,13 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 #### (2) Grant award
 
-&emsp;The Secretary may phase in the awarding of a single grant to an eligible area that submits an approved application under paragraph (1) for a fiscal year.
+&emsp;The Secretary may phase in the awarding of a single grant to an eligible area that submitsan approved application under paragraph (1) for a fiscal year.
 
 #### (d) Date certain for submission
 
 #### (1) Requirement
 
-&emsp;Except as provided in paragraph (2), to be eligible to receive a grant under section300ff–11(a) of this title for a fiscal year, an application under subsection (a) shall be submitted not later than 45 days after the date on which appropriations are made under section 300ff–77 of this title for the fiscal year.
+&emsp;Except as provided in paragraph (2), to be eligible to receive a grant under section 300ff–11(a) of this title for a fiscal year, an application under subsection (a) shall be submitted not later than 45 days after the date on which appropriations are made under section 300ff–77 of this title for the fiscal year.
 
 #### (2) Exception
 
@@ -128,7 +128,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 Section 300ff–12(b) of this title, referred to in subsec. (a)(2), was amended by Pub. L. 104–146, §3(b)(1)(D), May 20, 1996, 110 Stat. 1348, to redesignate pars. (2) and (3) as (3) and (4), respectively. As so redesignated, par. (3)(B) relates to consideration regarding designation of councils and par. (4)(B) relates to development of a comprehensive plan.
 
-Section 300ff–14 of this title, referred to in subsecs. (a)(3) and (e)(4), was amended generally by Pub. L. 109–415, title I, §105, Dec. 19, 2006, 120 Stat. 2776, and as so amended, it does not contain a subsec. (b)(3) and subsec. (d)(2) does not relate to waivers.
+Section 300ff–14 of this title, referred to in subsecs. (a)(3) and (e)(4), was amended generally by Pub. L. 109–415, title I, §105, Dec. 19, 2006, 120 Stat. 2776, and as so amended, it does not contain a subsec. (b)(3) and subsec. (d)(2) does not relate to waivers. Provisions similar to those in former subsecs. (b)(3) and (d)(2) are contained in subsecs. (e) and (g)(2), respectively.
 
 #### Prior Provisions
 
@@ -136,7 +136,7 @@ A prior section 2605 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this sectionas in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 Subsec. (b)(1). Pub. L. 111–87, §6(c), inserted ", including the identification of individuals with HIV/AIDS as described in clauses (i) through (iii) of section 300ff–13(b)(2)(A) of this title" before semicolon.
 

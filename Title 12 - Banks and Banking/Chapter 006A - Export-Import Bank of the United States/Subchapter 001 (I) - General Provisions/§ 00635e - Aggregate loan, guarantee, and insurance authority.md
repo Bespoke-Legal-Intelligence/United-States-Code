@@ -60,7 +60,7 @@ Subsecs. (b), (c). Pub. L. 114–94, §51002(a), added subsec. (b) and redesigna
 
 <b>2006</b>—Subsec. (a)(2)(E). Pub. L. 109–438 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "during fiscal year 2006, $100,000,000,000."
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–189 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: "The Export-Import Bank of the United States shall not have outstanding at any one time loans, guaranties, and insurance in an aggregate amount in excess of $75,000,000,000. All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts."
+<b>2002</b>—Subsec. (a). Pub. L. 107–189 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Export-Import Bank of the United States shall not have outstanding at any one time loans, guaranties, and insurance in an aggregate amount in excess of $75,000,000,000. All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts."
 
 <b>2000</b>—Subsec. (b)(2), (3). Pub. L. 106–569 redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: "Not later than April 15 of each year, the President of the United States shall transmit to the Congress a report on such determination."
 

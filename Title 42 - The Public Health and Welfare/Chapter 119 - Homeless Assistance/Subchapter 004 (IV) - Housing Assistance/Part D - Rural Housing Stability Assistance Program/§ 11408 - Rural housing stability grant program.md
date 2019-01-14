@@ -22,7 +22,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 &emsp;&emsp;(C) short-term emergency lodging in motels or shelters, either directly or through vouchers;
 
-&emsp;&emsp;(D) construction of new housing units to provide transitional or permanent housingto homeless individuals and families and individuals and families at risk of homelessness;
+&emsp;&emsp;(D) construction of new housing units to provide transitional or permanent housing to homeless individuals and families and individuals and families at risk of homelessness;
 
 &emsp;&emsp;(E) acquisition or rehabilitation of a structure to provide supportive services or to provide transitional or permanent housing, other than emergency shelter, to homeless individuals and families and individuals and families at risk of homelessness;
 
@@ -68,7 +68,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 &emsp;&emsp;&emsp;(xvi) referrals to veterans services and legal services; and
 
-&emsp;&emsp;(K) costs associated with making use of Federal inventory property programs to house homeless families, including the program established under subchapter V of this chapter and the Single Family Property Disposition Program established pursuant to section 1710(g) of title 12.
+&emsp;&emsp;(K) costs associated with making use of Federal inventory property programs tohouse homeless families, including the program established under subchapter V of this chapter and the Single Family Property Disposition Program established pursuant to section 1710(g) of title 12.
 
 #### (2) Capacity building activities
 
@@ -146,7 +146,7 @@ The Secretary shall establish criteria for selecting recipients of grants under 
 
 &emsp;(3) the degree of collaboration with others in the community to meet the goals described in subsection (a);
 
-&emsp;(4) the performance of the organization in improving housing situations, taking account of the severity of barriers of individuals and families served by the organization;
+&emsp;(4) the performance of the organization in improving housing situations, taking accountof the severity of barriers of individuals and families served by the organization;
 
 &emsp;(5) for organizations that have previously received funding under this section, the extent of improvement in homelessness and the worst housing situations in the community since such funding began;
 
@@ -196,7 +196,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) located in a county where at least 75 percent of the population is rural; or
 
-&emsp;&emsp;(C) any area or community, respectively, located in a State that has population density of less than 30 persons per square mile (as reported in the most recent decennial census), and of which at least 1.25 percent of the total acreage of such State is under Federal jurisdiction, provided that no metropolitan city (as such term is defined in section 5302 of this title) in such State is thesole beneficiary of the grant amounts awarded under this section.
+&emsp;&emsp;(C) any area or community, respectively, located in a State that has population density of less than 30 persons per square mile (as reported in the most recent decennial census), and of which at least 1.25 percent of the total acreage of such State is under Federal jurisdiction, provided that no metropolitan city (as such term is defined in section 5302 of this title) in such State is the sole beneficiary of the grant amounts awarded under this section.
 
 #### (3) Secretary
 
@@ -220,7 +220,7 @@ For any fiscal year, in addition to funds awarded under part B, funds under this
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(2), was in the original "this Act", meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+This chapter, referred to in subsec. (c)(2), was in the original "this Act", meaning Pub. L. 100–77, July 22,1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 Title IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, referred to in subsec. (h), is title IV of div. B of Pub. L. 111–22, which amended this section.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (d), the Secretary may make loan deficiency payments available to producers on a farm that, although eligible to obtain a marketing assistance loan under section 9031 of this title withrespect to a loan commodity, agree to forgo obtaining the loan for the commodity in return for loan deficiency payments under this section.
+&emsp;Except as provided in subsection (d), the Secretary may make loan deficiency payments available to producers on a farm that, although eligible to obtain a marketing assistance loan under section 9031 of this title with respect to a loan commodity, agree to forgo obtaining the loan for the commodity in return for loan deficiency payments under this section.
 
 #### (2) Unshorn pelts, hay, and silage
 
@@ -14,7 +14,7 @@
 
 #### (B) Loan deficiency payment
 
-&emsp;&emsp;Effective for each of the 2014 through 2018 crop years, the Secretary may make loan deficiency payments available under this section to producers on a farm that produce unshorn pelts or hay and silage derived from a loan commodity.
+&emsp;&emsp;Effective for each of the 2014 through 2023 crop years, the Secretary may make loan deficiency payments available under this section to producers on a farm that produce unshorn pelts or hay and silage derived from a loan commodity.
 
 #### (b) Computation
 
@@ -58,5 +58,9 @@ This section shall not apply with respect to extra long staple cotton.
 
 The Secretary shall determine the amount of the loan deficiency payment to be made under this section to the producers on a farm with respect to a quantity of a loan commodity or commodity referred to in subsection (a)(2) using the payment rate in effect under subsection (c) as of the date the producers request the payment.
 
-(Pub. L. 113–79, title I, §1205, Feb. 7, 2014, 128 Stat. 679.)
+(Pub. L. 113–79, title I, §1205, Feb. 7, 2014, 128 Stat. 679; Pub. L. 115–334, title I, §1201(c)(1), Dec. 20, 2018, 132 Stat. 4509.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(2)(B). Pub. L. 115–334 substituted "2023" for "2018".
 

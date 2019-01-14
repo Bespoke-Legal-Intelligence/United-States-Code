@@ -30,7 +30,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "covered project" means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, or any other sector as determined by a majority vote of the Council that—
+&emsp;&emsp;The term "covered project" means any activity in the United States that requires authorization or environmental review by aFederal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, or any other sector as determined by a majority vote of the Council that—
 
 &emsp;&emsp;&emsp;(i)(I) is subject to NEPA;
 
@@ -124,7 +124,7 @@ Section was enacted as part of the Fixing America's Surface Transportation Act, 
 
 Pub. L. 114–94, div. A, title XI, §11503(b), Dec. 4, 2015, 129 Stat. 1692, provided that: "Except as expressly provided in section 41003(f) \[42 U.S.C. 4370m–2(f)\] and subsection (o) of section 139 of title 23, United States Code, the requirements and other provisions of title 41 of this Act \[probably means title XLI of div. D of Pub. L. 114–94, 42 U.S.C. 4370m et seq.\] shall not apply to—
 
-&emsp;"(1) programs administered now and in the future by the Department of Transportation or its operating administrations under title 23, 46, or 49, United States Code, including direct loan and loan guarantee programs, or other Federal statutes or programs or projects administered by an agency pursuant to their authority under title 49, United States Code; or
+&emsp;"(1) programs administered now and in the future by the Department of Transportation or its operating administrations under title 23, 46, or 49, United States Code, including direct loan and loan guarantee programs, or other Federal statutes or programs orprojects administered by an agency pursuant to their authority under title 49, United States Code; or
 
 &emsp;"(2) any project subject to section 2045 of the Water Resources Development Act of 2007 (33 U.S.C. 2348)."
 
@@ -142,7 +142,7 @@ Section 1. <i>Purpose</i>. Infrastructure investment strengthens our economic pl
 
 Sec. 2. <i>Identification of High Priority Infrastructure Projects</i>. With respect to infrastructure projects for which Federal reviews and approvals are required, upon request by the Governor of a State, or the head of any executive department or agency (agency), or on his or her own initiative, the Chairman of the White House Council on Environmental Quality (CEQ) shall, within 30 days after a request is made, decide whether an infrastructure project qualifies as a "high priority" infrastructure project. This determination shall be made after consideration of the project's importance to the general welfare, value to the Nation, environmental benefits, and such other factors as the Chairman deems relevant.
 
-Sec. 3. <i>Deadlines</i>. With respect to any project designated as a high priority under section 2 of this order, the Chairman of the CEQ shall coordinate with the head of the relevant agency to establish, in a manner consistent with law, expedited procedures and deadlines for completion of environmental reviews and approvals for such projects. All agencies shall give highest priority to completing such reviews and approvals by the established deadlines using all necessary and appropriate means. With respect to deadlines established consistent with this section that are not met, the head of the relevant agency shall provide a written explanation to the Chairman explaining the causes for thedelay and providing concrete actions taken by the agency to complete such reviews and approvals as expeditiously as possible.
+Sec. 3. <i>Deadlines</i>. With respect to any project designated as a high priority under section 2 of this order, the Chairman of the CEQ shall coordinate with the head of the relevant agency to establish, in a manner consistent with law, expedited procedures and deadlines for completion of environmental reviews and approvals for such projects. All agencies shall give highest priority to completing such reviews and approvals by the established deadlines using all necessary and appropriate means. With respect to deadlines established consistent with this section that are not met, the head of the relevant agency shall provide a written explanation to the Chairman explaining the causes for the delay and providing concrete actions taken by the agency to complete such reviews and approvals as expeditiously as possible.
 
 Sec. 4. <i>General Provisions</i>. (a) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
@@ -236,7 +236,7 @@ Sec. 4. <i>Agency Performance Accountability</i>. Federal agencies should follow
 
 &emsp;(D) the Director of OMB will consider each agency's performance during budget formulation and determine whether appropriate penalties, including those authorized at 23 U.S.C. 139(h)(7) and 33 U.S.C. 2348(h)(5), must or should be imposed, to the extent required or permitted by law, for those that significantly fail to meet a permitting timetable milestone or in other situations deemed appropriate by the Director of OMB after considering the causes of any poor performance.
 
-(iii) <i>Best Practices</i>. Agencies shall implement the techniques and strategies the FPISC annually identifies as best practices pursuant to 42 U.S.C. 4370m–1(c)(2)(B), as appropriate. The performance accountability system shall track and score agencies on the incorporation and implementation of appropriate best practices for all infrastructure projects, including the implementation of such best practices at an agency's field level.
+(iii) <i>Best Practices</i>. Agencies shall implement the techniques and strategies the FPISC annually identifies as best practices pursuant to 42 U.S.C. 4370m–1(c)(2)(B), as appropriate. The performance accountability system shall track and score agencies on the incorporation and implementation of appropriate best practices for all infrastructure projects, includingthe implementation of such best practices at an agency's field level.
 
 Sec. 5. <i>Process Enhancements</i>. In furtherance of the policy described in section 2 of this order, Federal agencies shall follow a more unified environmental review and authorization process.
 
@@ -258,7 +258,7 @@ Sec. 5. <i>Process Enhancements</i>. In furtherance of the policy described in s
 
 (iv) The Council on Environmental Quality (CEQ) and OMB shall develop the framework for implementing One Federal Decision, in consultation with the FPISC.
 
-&emsp;(A) The framework should be consistent with the model processes established under 42 U.S.C. 4370m–2, 23 U.S.C. 139, 33 U.S.C. 2348, the 2015 "Red Book" (officially entitled "Synchronizing Environmental Reviews for Transportation and Other InfrastructureProjects"), and CEQ guidance on efficient and timely environmental reviews under NEPA.
+&emsp;(A) The framework should be consistent with the model processes established under 42 U.S.C. 4370m–2, 23 U.S.C. 139, 33 U.S.C. 2348, the 2015 "Red Book" (officially entitled "Synchronizing Environmental Reviews for Transportation and Other Infrastructure Projects"), and CEQ guidance on efficient and timely environmental reviews under NEPA.
 
 &emsp;(B) The framework shall also include guidance on the development of permitting timetables by the lead Federal agencies, in collaboration with Federal cooperating and participating agencies. Permitting timetables shall identify estimated intermediate and final completion dates for all environmental reviews and authorizations that are reasonably anticipated as being needed for a project, including the process for granting extensions of any established dates. The guidance shall specify that lead Federal agencies need not include the estimated intermediate and final completion dates of any such reviews or authorizations until the design of a project has sufficiently advanced so that they can be developed. In such cases, the guidance shall instruct lead Federal agencies to estimate when the project's design will be advanced enough to determine such dates. The timelines shall account for any federally required decisions or permits that are assumed by, or delegated to, State, tribal, or local agencies and the extent to which any approval or permit to be issued by a Federal agency is dependent upon the issuance of such a decision or permit.
 

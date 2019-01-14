@@ -10,7 +10,7 @@ Three-Phase Approach.—The Secretary of Defense shall implement a three-phase a
 
 &emsp;&emsp;(A) a joint professional military education curriculum taught in residence at, or offered through, the Joint Forces Staff College or a senior level service school that has been designated and certified by the Secretary of Defense as a joint professional military education institution; or
 
-&emsp;&emsp;(B) a senior level service course of at least ten months that has been designated and certified by the Secretary of Defense as a joint professional military education course.
+&emsp;&emsp;(B) a senior level service course of at least ten months that has been designated andcertified by the Secretary of Defense as a joint professional military education course.
 
 &emsp;(3) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as the Capstone course, for officers selected for promotion to the grade of brigadier general or, in the case of the Navy, rear admiral (lower half) and offered in accordance with section 2153 of this title.
 

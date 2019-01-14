@@ -76,7 +76,7 @@ In subsection (b)(5), the words "related to the maintenance, rehabilitation, res
 
 In subsection (b)(7), the words "make arrangements" are substituted for "enter into such contracts, cooperative agreements, or other transactions" to eliminate unnecessary words. The words "as may be necessary" after "transactions" are omitted as surplus. The words "to carry out this section" are substituted for "in the conduct of its functions and duties" for clarity and consistency.
 
-In subsection (c), the words "The Secretary shall make the appointments" and the words "Each of those trade associations may submit a list of not more than" are added for clarity and because of the restatement of the section.
+In subsection (c), the words "The Secretary shall make the appointments" and the words "Each of thosetrade associations may submit a list of not more than" are added for clarity and because of the restatement of the section.
 
 In subsection (d), the words "in carrying out this section" are substituted for "in connection with the performance of its functions" for clarity and consistency.
 

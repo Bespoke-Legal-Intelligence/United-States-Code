@@ -10,7 +10,7 @@ Personnel for Functions of National Guard Bureau.—
 
 &emsp;(1)
 
-In general.—The Chief of the National Guard Bureau may program for, appoint, employ, administer, detail, and assign persons under sections 2103, 2105, and 3101 of title 5, or section 328 of title 32, within the National Guard Bureau and the National Guard of each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands to execute the functions of the National Guard Bureau and the missions of the National Guard, and missions as assigned by the Chief of the National Guard Bureau.
+In general.—The Chief of the National Guard Bureau may program for, appoint, employ, administer, detail, and assign persons under sections 2102, 2103, 2105, and 3101 of title 5, subchapter IV of chapter 53 of title 5, or section 328 of title 32, within the National Guard Bureau and the National Guard of each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands to execute the functions of the National Guard Bureau and the missions of the National Guard, and missions as assigned by the Chief of the National Guard Bureau.
 
 &emsp;(2)
 
@@ -30,7 +30,7 @@ Administrative actions.—Notwithstanding the Intergovernmental Personnel Act of
 
 &emsp;&emsp;(E) Any settlement, judgment, or costs arising from an action described in subparagraph (A) or (C) shall be paid from appropriated funds allocated to the National Guard of the jurisdiction concerned.
 
-(Added Pub. L. 110–181, div. A, title XVIII, §1812(b)(1), Jan. 28, 2008, 122 Stat. 497; amended Pub. L. 114–328, div. A, title IX, §932, Dec. 23, 2016, 130 Stat. 2363.)
+(Added Pub. L. 110–181, div. A, title XVIII, §1812(b)(1), Jan. 28, 2008, 122 Stat. 497; amended Pub. L. 114–328, div. A, title IX, §932, Dec. 23, 2016, 130 Stat. 2363; Pub. L. 115–232, div. A, title V, §517, Aug. 13, 2018, 132 Stat. 1754.)
 
 #### References in Text
 
@@ -41,6 +41,8 @@ The Intergovernmental Personnel Act of 1970, referred to in subsec. (b)(3), is P
 A prior section 10508, added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2827, defined "State" for purposes of this chapter, prior to repeal by Pub. L. 104–106, div. A, title XV, §1501(b)(7)(A), Feb. 10, 1996, 110 Stat. 496.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–232 substituted "sections 2102, 2103, 2105, and 3101 of title 5, subchapter IV of chapter 53 of title 5, or section 328 of title 32," for "sections 2103, 2105, and 3101 of title 5, or section 328 of title 32,".
 
 <b>2016</b>—Pub. L. 114–328 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

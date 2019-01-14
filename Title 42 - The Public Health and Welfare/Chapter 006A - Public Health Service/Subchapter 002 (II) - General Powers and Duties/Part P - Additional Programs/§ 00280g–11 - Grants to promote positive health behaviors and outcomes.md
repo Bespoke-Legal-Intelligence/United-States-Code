@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-The Director of the Centers for Disease Control and Prevention, in collaboration with theSecretary, shall award grants to eligible entities to promote positive health behaviors and outcomes for populations in medically underserved communities through the use of community health workers.
+The Director of the Centers for Disease Control and Prevention, in collaboration with the Secretary, shall award grants to eligible entities to promote positive health behaviors and outcomes for populations in medically underserved communities through the use of community health workers.
 
 #### (b) Use of funds
 
@@ -90,7 +90,7 @@ In this section:
 
 #### (3) Eligible entity
 
-&emsp;The term "eligible entity" means a public or nonprofit private entity (including a State or public subdivision of a State, a public health department, a free health clinic, a hospital, or a Federally-qualified health center (as definedin section 1861(aa) of the Social Security Act \[42 U.S.C. 1395x(aa)\])), or a consortium of any such entities.
+&emsp;The term "eligible entity" means a public or nonprofit private entity (including a State or public subdivision of a State, a public health department, a free health clinic, a hospital, or a Federally-qualified health center (as defined in section 1861(aa) of the Social Security Act \[42 U.S.C. 1395x(aa)\])), or a consortium of any such entities.
 
 #### (4) Medically underserved community
 

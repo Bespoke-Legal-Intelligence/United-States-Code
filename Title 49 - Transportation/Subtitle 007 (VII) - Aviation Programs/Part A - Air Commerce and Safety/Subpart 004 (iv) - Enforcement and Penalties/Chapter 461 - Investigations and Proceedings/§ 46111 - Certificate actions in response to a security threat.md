@@ -2,15 +2,15 @@
 
 (a)
 
-Orders.—The Administrator of Federal Aviation Administration shall issue an order amending, modifying, suspending, or revoking any part of a certificate issued under this title if the Administrator is notified by the Under Secretary for Border and Transportation Security of the Department of Homeland Security that the holder of the certificate poses, or is suspected of posing, a risk of air piracy or terrorism or a threat to airline or passenger safety. If requested by the Under Secretary, the order shall be effective immediately.
+Orders.—The Administrator of the Federal Aviation Administration shall issue an order amending, modifying, suspending, or revoking any part of a certificate issued under this title if the Administrator of the Federal Aviation Administration is notified by the Administrator of the Transportation Security Administration that the holder of the certificate poses, or is suspected of posing, a risk of air piracy or terrorism or a threat to airline or passenger safety. If requested by the Administrator of the Transportation Security Administration, the order shall be effective immediately.
 
 (b)
 
-Hearings for Citizens.—An individual who is a citizen of the United States who is adversely affected by an order of the Administrator under subsection (a) is entitled to a hearing on the record.
+Hearings for Citizens.—An individual who is a citizen of the United States who is adversely affected by an order of the Administrator of the Federal Aviation Administration under subsection (a) is entitled to a hearing on the record.
 
 (c)
 
-Hearings.—When conducting a hearing under this section, the administrative law judge shall not be bound by findings of fact or interpretations of laws and regulations of the Administrator or the Under Secretary.
+Hearings.—When conducting a hearing under this section, the administrative law judge shall not be bound by findings of fact or interpretations of laws and regulations of the Administrator of the Federal Aviation Administration or the Administrator of the Transportation Security Administration.
 
 (d)
 
@@ -18,7 +18,7 @@ Appeals.—An appeal from a decision of an administrative law judge as the resul
 
 (e)
 
-Review.—A person substantially affected by an action of a panel under subsection (d), or the Under Secretary when the Under Secretary decides that the action of the panel under this section will have a significant adverse impact on carrying out this part, may obtain review of the order under section 46110. The Under Secretary and the Administrator shall be made a party to the review proceedings. Findings of fact of the panel are conclusive if supported by substantial evidence.
+Review.—A person substantially affected by an action of a panel under subsection (d), or the Administrator of the Transportation Security Administration when the Administrator of the Transportation Security Administration decides that the action of the panel under this section will have a significant adverse impact on carrying out this part, may obtain review of the order under section 46110. The Administrator of the Transportation Security Administration and the Administrator of the Federal Aviation Administration shall be made a party to the review proceedings. Findings of fact of the panel are conclusive if supported by substantial evidence.
 
 (f)
 
@@ -30,7 +30,7 @@ Classified Evidence.—
 
 &emsp;(1)
 
-In general.—The Under Secretary, in consultation with the Administrator and the Director of Central Intelligence, shall issue regulations to establish procedures by which the Under Secretary, as part of a hearing conducted under this section, may provide an unclassified summary of classified evidence upon which the order of the Administrator was based to the individual adversely affected by the order.
+In general.—The Administrator of the Transportation Security Administration, in consultation with the Administrator of the Federal Aviation Administration and the Director of Central Intelligence, shall issue regulations to establish procedures by which the Administrator of the Transportation Security Administration, as part of a hearing conducted under this section, may provide an unclassified summary of classified evidence upon which the order of the Administrator of the Federal Aviation Administration was based to the individual adversely affected by the order.
 
 &emsp;(2)
 
@@ -38,21 +38,33 @@ Review of classified evidence by administrative law judge.—
 
 &emsp;&emsp;(A)
 
-Review.—As part of a hearing conducted under this section, if the order of the Administrator issued under subsection (a) is based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.),<sup>1</sup> such information may be submitted by the Under Secretary to the reviewing administrative law judge, pursuant to appropriate security procedures, and shall be reviewed by the administrative law judge ex parte and in camera.
+Review.—As part of a hearing conducted under this section, if the order of the Administrator of the Federal Aviation Administration issued under subsection (a) is based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.)), such information may be submitted by the Administrator of the Transportation Security Administration to the reviewing administrative law judge, pursuant to appropriate security procedures, and shall be reviewed by the administrative law judge ex parte and in camera.
 
 &emsp;&emsp;(B)
 
-Security clearances.—Pursuant to existing procedures and requirements, the Under Secretary shall, in coordination, as necessary, with the heads of other affected departments or agencies, ensure that administrative law judges reviewing orders of the Administrator under this section possess security clearances appropriate for their work under this section.
+Security clearances.—Pursuant to existing procedures and requirements, the Administrator of the Transportation Security Administration shall, in coordination, as necessary, with the heads of other affected departments or agencies, ensure that administrative law judges reviewing orders of the Administrator of the Federal Aviation Administration under this section possess security clearances appropriate for their work under this section.
 
 &emsp;(3)
 
-Unclassified summaries of classified evidence.—As part of a hearing conducted under this section and upon the request of the individual adversely affected by an order of the Administrator under subsection (a), the Under Secretary shall provide to the individual and reviewing administrative law judge, consistent with the procedures established under paragraph (1), an unclassified summary of any classified information upon which the order of the Administrator is based.
+Unclassified summaries of classified evidence.—As part of a hearing conducted under this section and upon the request of the individual adversely affected by an order of the Administrator of the Federal Aviation Administration under subsection (a), the Administrator of the Transportation Security Administration shall provide to the individual and reviewing administrative law judge, consistent with the procedures established under paragraph (1), an unclassified summary of any classified information upon which the order of the Administrator of the Federal Aviation Administration is based.
 
-(Added Pub. L. 108–176, title VI, §601(a), Dec. 12, 2003, 117 Stat. 2561.)
+(Added Pub. L. 108–176, title VI, §601(a), Dec. 12, 2003, 117 Stat. 2561; amended Pub. L. 115–254, div. B, title V, §539(l), div. K, title I, §1991(f)(9), Oct. 5, 2018, 132 Stat. 3371, 3643.)
 
 #### References in Text
 
 Section 1(a) of the Classified Information Procedures Act, referred to in subsec. (g)(2)(A), is section 1(a) of Pub. L. 96–456, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–254, §1991(f)(9)(D), substituted "Administrator of the Transportation Security Administration" for "Under Secretary" wherever appearing.
+
+Subsec. (a). Pub. L. 115–254, §1991(f)(9)(A), inserted "the" before "Federal Aviation Administration shall issue" and substituted "Administrator of the Federal Aviation Administration is notified by the Administrator of the Transportation Security Administration" for "Administrator is notified by the Under Secretary for Border and Transportation Security of the Department of Homeland Security".
+
+Subsecs. (b), (c), (e). Pub. L. 115–254, §1991(f)(9)(B), substituted "Administrator of the Federal Aviation Administration" for "Administrator".
+
+Subsec. (g). Pub. L. 115–254, §1991(f)(9)(B), substituted "Administrator of the Federal Aviation Administration" for "Administrator" wherever appearing.
+
+Subsec. (g)(2)(A). Pub. L. 115–254, §§539(l), 1991(f)(9)(C), made identical amendments, substituting "(18 U.S.C. App.))" for "(18 U.S.C. App.)".
 
 #### Effective Date
 
@@ -60,7 +72,5 @@ Section applicable only to fiscal years beginning after Sept. 30, 2003, except a
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "App.)),".</i>
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National andCommercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 

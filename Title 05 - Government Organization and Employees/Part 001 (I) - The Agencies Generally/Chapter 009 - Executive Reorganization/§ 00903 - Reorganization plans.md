@@ -50,7 +50,7 @@ Section 1(99) amends section 903(a)(5) of title 5, United States Code, to confor
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–614, §4, inserted "In addition, the President's message shall include an implementation section which shall (1) describe in detail (A) the actions necessary or planned to complete the reorganization, (B) the anticipated nature and substance of any orders, directives, and other administrative and operational actions which are expected to be required for completing or implementing the reorganization, and (C) any preliminary actions which have been taken in the implementation process, and (2) contain a projected timetable for completion of the implementation process. The President shall also submit such furtherbackground or other information as the Congress may require for its consideration of the plan."
+<b>1984</b>—Subsec. (b). Pub. L. 98–614, §4, inserted "In addition, the President's message shall include an implementation section which shall (1) describe in detail (A) the actions necessary or planned to complete the reorganization, (B) the anticipated nature and substance of any orders, directives, and other administrative and operational actions which are expected to be required for completing or implementing the reorganization, and (C) any preliminary actions which have been taken in the implementation process, and (2) contain a projected timetable for completion of the implementation process. The President shall also submit such further background or other information as the Congress may require for its consideration of the plan."
 
 Subsec. (c). Pub. L. 98–614, §3(b)(1), (2), substituted "60 calendar days" for "thirty calendar days", and "90 calendar days" for "sixty calendar days".
 

@@ -106,7 +106,7 @@ Subsec. (c)(2). Pub. L. 102–237, §109(3), added par. (2) and struck out forme
 
 Subsec. (c)(3), (4). Pub. L. 102–237, §109(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
-<b>1990</b>—Pub. L. 101–624, §1121(a), amended section generally, substituting provisions relating to deficiency and land diversion payments for the 1991 through 1995 crops of wheat, feed grains, upland cotton, and rice for provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice.
+<b>1990</b>—Pub. L. 101–624, §1121(a), amended section generally, substituting provisions relating to deficiency andland diversion payments for the 1991 through 1995 crops of wheat, feed grains, upland cotton, and rice for provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice.
 
 Pub. L. 101–624, §1121(c), amended Pub. L. 99–198. See 1985 Amendment note below.
 
@@ -126,11 +126,11 @@ Subsec. (a)(2)(F)(iii). Pub. L. 100–203, §1110(2), temporarily added cl. (iii
 
 <b>1985</b>—Pub. L. 99–198, as amended by Pub. L. 101–624, §1121(c), amended section generally, substituting provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton and rice for provisions relating to advance deficiency payments for the 1982 through 1985 crops of wheat, feed grains, upland cotton and rice.
 
-#### Effective Date of 1990 Amendments
+#### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under section 1421 of this title.
 
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under section 940d of this title.
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as a note under section 1994 of this title.
 
 #### Effective and Termination Dates of 1989 Amendment
 

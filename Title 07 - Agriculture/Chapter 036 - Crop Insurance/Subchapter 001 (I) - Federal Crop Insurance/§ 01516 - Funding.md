@@ -12,9 +12,9 @@
 
 &emsp;&emsp;(A) The administrative and operating expenses of the Corporation for the sales commissions of agents.
 
-&emsp;&emsp;(B) Premium subsidies, including the administrative and operating expenses of anapproved insurance provider for the delivery of policies with additional coverage.
+&emsp;&emsp;(B) Premium subsidies, including the administrative and operating expenses of an approved insurance provider for the delivery of policies with additional coverage.
 
-&emsp;&emsp;(C) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title, subject to the limitations in subsections (a)(3)(E)(ii) and (b)(10) of section 1523 of this title.
+&emsp;&emsp;(C) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title,subject to the limitations in subsection (a)(3)(E)(ii) of that section.
 
 &emsp;&emsp;(D) Costs associated with the reimbursement, contracting, and partnerships for research and development under section 1522 of this title.
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(C) All administrative and operating expense reimbursements due under a reinsurance agreement with an approved insurance provider.
 
-&emsp;&emsp;(D) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title, subject to the limitations in subsections (a)(3)(E)(ii) and (b)(10) of section 1523 of this title.
+&emsp;&emsp;(D) Costs associated with the conduct of livestock and wild salmon pilot programs carried out under section 1523 of this title, subject to the limitations in subsection (a)(3)(E)(ii) of that section.
 
 &emsp;&emsp;(E) Costs associated with the reimbursement, contracting, and partnerships for research and development under section 1522 of this title.
 
@@ -52,7 +52,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each of the 2014 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $9,000,000 for each fiscal year, to pay costs—
+&emsp;&emsp;&emsp;For each of the 2014 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $7,000,000 for each fiscal year, to pay costs—
 
 &emsp;&emsp;&emsp;&emsp;(I) to reimburse expenses incurred for the operations and review of policies, plans of insurance, and related materials (including actuarial and related information); and
 
@@ -84,13 +84,17 @@
 
 &emsp;&emsp;(B) the Secretary may use the funds of the Commodity Credit Corporation to carry out subsection (b).
 
-(Feb. 16, 1938, ch. 30, title V, §516, 52 Stat. 77; June 21, 1941, ch. 214, §§6, 8, 55 Stat. 255, 256; Aug. 3, 1956, ch. 950, §10, 70 Stat. 1034; Pub. L. 96–365, title I, §§109, 110, Sept. 26, 1980, 94 Stat. 1317, 1318; Pub. L. 97–11, May 22, 1981, 95 Stat. 13; Pub. L. 99–198, title X, §1021, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 103–354, title I, §110, Oct. 13, 1994, 108 Stat. 3198; Pub. L. 104–127, title I, §193(e), Apr. 4, 1996, 110 Stat. 945; Pub. L. 105–185, title V, §531, June 23, 1998, 112 Stat. 580; Pub. L. 106–224, title I, §147, June 20, 2000, 114 Stat. 393; Pub. L. 113–79, title XI, §11021, Feb. 7, 2014, 128 Stat. 968.)
+(Feb. 16, 1938, ch. 30, title V, §516, 52 Stat. 77; June 21, 1941, ch. 214, §§6, 8, 55 Stat. 255, 256; Aug. 3, 1956, ch. 950, §10, 70 Stat. 1034; Pub. L. 96–365, title I, §§109, 110, Sept. 26, 1980, 94 Stat. 1317, 1318; Pub. L. 97–11, May 22, 1981, 95 Stat. 13; Pub. L. 99–198, title X, §1021, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 103–354, title I, §110, Oct. 13, 1994, 108 Stat. 3198; Pub. L. 104–127, title I, §193(e), Apr. 4, 1996, 110 Stat. 945; Pub. L. 105–185, title V, §531, June 23, 1998, 112 Stat. 580; Pub. L. 106–224, title I, §147, June 20, 2000, 114 Stat. 393; Pub. L. 113–79, title XI, §11021, Feb. 7, 2014, 128 Stat. 968; Pub. L. 115–123, div. F, §60101(c)(2), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title XI, §11118, Dec. 20, 2018, 132 Stat. 4926.)
 
 #### Amendments
 
+<b>2018</b>—Subsecs. (a)(2)(C), (b)(1)(D). Pub. L. 115–123 substituted "subsection (a)(3)(E)(ii) of that section" for "subsections (a)(3)(E)(ii) and (b)(10) of section 1523 of this title".
+
+Subsec. (b)(2)(C)(i). Pub. L. 115–334 substituted "$7,000,000" for "$9,000,000" in introductory provisions.
+
 <b>2014</b>—Subsec. (b)(2)(C). Pub. L. 113–79 added subpar. (C).
 
-<b>2000</b>—Subsec. (a)(2). Pub. L. 106–224, §147(a), in introductory provisions, substituted "years the following:" for "years—", in subpar. (A), substituted "The" for "the" and a period for "; and" at end, in subpar. (B), substituted "Premium" for "premium", and added subpars. (C) and (D).
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–224, §147(a), in introductory provisions, substituted "years the following:" for "years—", in subpar. (A), substituted "The" for"the" and a period for "; and" at end, in subpar. (B), substituted "Premium" for "premium", and added subpars. (C) and (D).
 
 Subsec. (b)(1). Pub. L. 106–224, §147(b), in introductory provisions, substituted "including the following:" for "including—", in subpar. (A), substituted "Premium" for "premium" and a period for the semicolon at end, in subpar. (B), substituted "Administrative" for "administrative" and a period for "; and" at end, in subpar. (C), substituted "All" for "all", and added subpars. (D) and (E).
 
@@ -166,7 +170,7 @@ Pub. L. 96–365, title I, §110, Sept. 26, 1980, 94 Stat. 1318, provided that t
 
 #### Transfer of Functions
 
-Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
+Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
 
 Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
 

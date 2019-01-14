@@ -12,11 +12,11 @@
 
 #### (3) Low power station carriage optional
 
-&emsp;No low power television station whose signals are provided under section 119(a)(14) <sup>1</sup> oftitle 17 shall be entitled to insist on carriage under this section, regardless of whether the satellite carrier provides secondary transmissions of the primary transmissions of other stations in the same local market pursuant to section 122 of such title, nor shall any such carriage be considered in connection with the requirements of subsection (c) of this section.
+&emsp;No low power television station whose signals are provided under section 119(a)(14) <sup>1</sup> of title 17 shall be entitled to insist on carriage under this section, regardless of whether the satellite carrier provides secondary transmissions of the primary transmissions of other stations in the same local market pursuant to section 122 of such title, nor shall any such carriage be considered in connection with the requirements of subsection (c) of this section.
 
 #### (4) Carriage of signals of local stations in certain markets
 
-&emsp;A satellite carrier that offers multichannel video programming distribution service in the United States to more than 5,000,000 subscribers shall (A) within 1 year after December 8, 2004, retransmit the signals originating as analog signals of each television broadcast station located in any local market within a State that is not part of the contiguous United States, and (B) within 30 months after December 8, 2004, retransmit the signals originating as digital signals of each such station. The retransmissions of such stations shall be made available to substantially all of the satellite carrier's subscribers in each station's local market, and the retransmissions of the stations in at least one market in the State shall be made available to substantially all of the satellite carrier's subscribers in areas of the State that are not within a designated market area. The cost to subscribers of such retransmissions shall not exceed the cost of retransmissions of local television stations in other States. Within 1 year after December 8, 2004, the Commission shall promulgate regulations concerning elections by television stations in such State between mandatory carriage pursuant to this section and retransmission consent pursuant to section 325(b) of this title, which shall take into account the schedule on which local television stations are made available to viewers in such State.
+&emsp;A satellite carrier that offers multichannel video programming distribution service in the United States to more than 5,000,000 subscribers shall (A) within 1 year after December 8, 2004, retransmit the signals originating as analog signals of each television broadcast station located in any local market within a State that is not part of the contiguous United States, and (B) within 30 months after December 8, 2004, retransmit the signals originating as digital signals of each such station. The retransmissions of such stations shall be made available to substantially all of the satellite carrier's subscribers in each station's local market, and the retransmissions of the stations in at least one market in the State shall be made available to substantially all of thesatellite carrier's subscribers in areas of the State that are not within a designated market area. The cost to subscribers of such retransmissions shall not exceed the cost of retransmissions of local television stations in other States. Within 1 year after December 8, 2004, the Commission shall promulgate regulations concerning elections by television stations in such State between mandatory carriage pursuant to this section and retransmission consent pursuant to section 325(b) of this title, which shall take into account the schedule on which local television stations are made available to viewers in such State.
 
 #### (5) Nondiscrimination in carriage of high definition signals of noncommercial educational television stations
 
@@ -64,7 +64,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (1) Complaints by broadcast stations
 
-&emsp;Whenever a local television broadcast station believes that a satellite carrier has failed to meet its obligations under subsections (b) through (e) of this section, such station shall notify the carrier, in writing, of the alleged failure and identify its reasons for believing that the satellite carrier failed to comply with such obligations. The satellite carrier shall, within 30 days after such written notification, respond in writing to such notification and comply with such obligations or state its reasons for believing that it is in compliance with such obligations. A local television broadcast station that disputes a response by a satellite carrier that it is in compliance with such obligations may obtain review of such denial or response by filing a complaint with the Commission. Such complaint shall allege the manner in which such satellite carrier has failed to meet its obligations and the basis for such allegations.
+&emsp;Whenever a local television broadcast station believes that a satellite carrier has failed to meet its obligations under subsections (b) through (e) of this section, such station shall notify the carrier, in writing, of the alleged failure and identify its reasons for believing that the satellite carrier failed to comply with such obligations. The satellite carrier shall, within 30 days after such written notification, respond in writing to such notification and comply with such obligations or state its reasons for believing that it is in compliance with such obligations. A local television broadcast station that disputes a response by a satellitecarrier that it is in compliance with such obligations may obtain review of such denial or response by filing a complaint with the Commission. Such complaint shall allege the manner in which such satellite carrier has failed to meet its obligations and the basis for such allegations.
 
 #### (2) Opportunity to respond
 
@@ -364,7 +364,7 @@ Pub. L. 111–175, §207(b)(1), redesignated pars. (6) to (8) as (7) to (9), res
 
 Subsec. (k)(10). Pub. L. 111–175, §207(b)(3), redesignated par. (9) as (10).
 
-<b>2004</b>—Subsec. (a)(1) to (3). Pub. L. 108–447, §203(b)(1), added pars. (1) and (2) and the par. (3) relating to lowpower station carriage and struck out former pars. (1) and (2) which required each satellite carrier providing secondary transmissions within the local market of a television broadcast station of a primary transmission made by that station to carry upon request the signals of all television broadcast stations within that local market and provided for remedies for failure to carry.
+<b>2004</b>—Subsec. (a)(1) to (3). Pub. L. 108–447, §203(b)(1), added pars. (1) and (2) and the par. (3) relating to low power station carriage and struck out former pars. (1) and (2) which required each satellite carrier providing secondary transmissions within the local market of a television broadcast station of a primary transmission made by that station to carry upon request the signals of all television broadcast stations within that local market and provided for remedies for failure to carry.
 
 Subsec. (a)(4). Pub. L. 108–447, §210, added par. (4).
 
@@ -386,7 +386,7 @@ Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pu
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–447, div. J, title IX \[title II, §206(b)\], Dec. 8, 2004, 118 Stat. 3428, provided that: "Section 338(i) of the Communications Act of 1934 (47 U.S.C. 338(i)) as amended by subsection (a) of this section shall be effective 60 days after the date of enactment of this Act \[Dec. 8, 2004\]."
+Pub. L. 108–447, div. J, title IX \[title II, §206(b)\], Dec. 8, 2004, 118 Stat. 3428, provided that: "Section 338(i) of the Communications Act of 1934 (47 U.S.C. 338(i)) asamended by subsection (a) of this section shall be effective 60 days after the date of enactment of this Act \[Dec. 8, 2004\]."
 
 #### Market Modification Process
 

@@ -4,7 +4,7 @@
 
 #### (1) Population allocation
 
-&emsp;Eighty-five percent of the amount made available to carry out this subchapter in each fiscal year shall be allocated to each State that meets the requirements of section 10562 of this title so that each State shall receive anamount that bears the same ratio to the 85 percent of the total amount made available to carry out this subchapter for that fiscal year as the population of the State bears to the population of all States.
+&emsp;Eighty-five percent of the amount made available to carry out this subchapter in each fiscal year shall be allocated to each State that meets the requirements of section 10562 of this title so that each State shall receive an amount that bears the same ratio to the 85 percent of the total amount made available to carry out this subchapter for that fiscal year as the population of the State bears to the population of all States.
 
 #### (2) Discretionary allocation
 

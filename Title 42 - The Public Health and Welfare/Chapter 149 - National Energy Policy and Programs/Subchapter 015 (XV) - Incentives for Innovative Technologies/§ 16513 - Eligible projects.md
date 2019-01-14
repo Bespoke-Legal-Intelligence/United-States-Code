@@ -82,7 +82,7 @@ The Secretary may make guarantees for the following gasification projects:
 
 #### (2) Industrial gasification projects
 
-&emsp;Facilities that gasify coal, biomass, or petroleum coke in any combination to produce synthesis gas for use as a fuel or feedstock and for which electricity accounts for less than 65 percent of the useful energy output of the facility.
+&emsp;Facilities that gasify coal, biomass, or petroleum coke in any combination to producesynthesis gas for use as a fuel or feedstock and for which electricity accounts for less than 65 percent of the useful energy output of the facility.
 
 #### (3) Petroleum coke gasification projects
 

@@ -8,7 +8,7 @@ Applications for grants under this subchapter, and all application modifications
 
 #### (c) Application of Indian Self-Determination and Education Assistance Act
 
-All provisions of sections 5, 6, 7, 105, 109, and 110 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450c et seq.),<sup>1</sup> except those provisions pertaining to indirect costs and length of contract, shall apply to grants provided under this subchapter.
+All provisions of sections 5, 6, 7, 105, 109, and 110 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450c et seq.),<sup>1</sup> except those provisions pertaining to indirectcosts and length of contract, shall apply to grants provided under this subchapter.
 
 #### (d) Regulations
 

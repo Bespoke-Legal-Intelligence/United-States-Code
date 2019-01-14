@@ -32,7 +32,7 @@ Not later than 1 year after January 4, 2011, the Secretary shall issue guidance 
 
 &emsp;The regulations promulgated under paragraph (1)—
 
-&emsp;&emsp;(A) shall require that the foreign supplier verification program of each importer beadequate to provide assurances that each foreign supplier to the importer produces the imported food in compliance with—
+&emsp;&emsp;(A) shall require that the foreign supplier verification program of each importer be adequate to provide assurances that each foreign supplier to the importer produces the imported food in compliance with—
 
 &emsp;&emsp;&emsp;(i) processes and procedures, including reasonably appropriate risk-based preventive controls, that provide the same level of public health protection as those required under section 350g of this title or section 350h of this title (taking into consideration variances granted under section 350h of this title), as appropriate; and
 
@@ -70,7 +70,7 @@ The Secretary, by notice published in the Federal Register, shall establish an e
 
 #### (g) Publication of list of participants
 
-The Secretary shall publish and maintain on the Internet Web site of the Food and Drug Administration a current list that includes the name of, location of, and other information deemed necessary by the Secretary about, importers participating under this section.
+The Secretary shall publish and maintain on the Internet Web site of the Food and Drug Administration a current list that includes the name of, location of, and other informationdeemed necessary by the Secretary about, importers participating under this section.
 
 (June 25, 1938, ch. 675, §805, as added Pub. L. 111–353, title III, §301(a), Jan. 4, 2011, 124 Stat. 3953.)
 

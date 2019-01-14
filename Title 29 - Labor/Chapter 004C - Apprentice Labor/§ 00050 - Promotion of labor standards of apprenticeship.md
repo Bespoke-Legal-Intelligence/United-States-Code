@@ -28,7 +28,7 @@ The act of Aug. 16, 1937, ch. 663, 50 Stat. 664, which enacted this chapter, is 
 
 "Secretary of Education" substituted in text for "Office of Education under the Department of Health, Education, and Welfare", pursuant to section 301(a)(1) of Pub. L. 96–88, which is classified to section 3441(a)(1) of Title 20, Education, and which transferred all functions of Office of Education to Secretary of Education.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfareand all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 Reorg. Plan No. I of 1939, consolidated National Youth Administration and Office of Education, with other agencies, into Federal Security Agency under supervision and direction of Federal Security Administrator.
 

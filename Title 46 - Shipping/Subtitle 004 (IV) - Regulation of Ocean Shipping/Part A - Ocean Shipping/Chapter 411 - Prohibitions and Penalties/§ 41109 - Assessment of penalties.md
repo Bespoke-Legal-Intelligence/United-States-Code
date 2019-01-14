@@ -10,7 +10,7 @@ Factors in Determining Amount.—In determining the amount of a civil penalty, t
 
 (c)
 
-Exception.—A civil penalty may not be imposed for conspiracy to violate section 41102(a) or 41104(1) or (2) of this title or to defraud the Commission by concealing such a violation.
+Exception.—A civil penalty may not be imposed for conspiracy to violate section 41102(a) or 41104(1) or (2) <sup>1</sup> of this title or to defraud the Commission by concealing such a violation.
 
 (d)
 
@@ -69,4 +69,10 @@ Pub. L. 98–237, §13(c)–(f), Mar. 20, 1984, 98 Stat. 82; Pub. L. 105–258, 
 41109(g)
 
 46 App.:1712(e).
+
+#### References in Text
+
+Pars. (1) and (2) of section 41104 of this title, referred to in subsec. (c), were redesignated as pars. (1) and (2), respectively, of section 41104(a) of this title by Pub. L. 115–282, title VII, §708(a)(1), Dec. 4, 2018, 132 Stat. 4295.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

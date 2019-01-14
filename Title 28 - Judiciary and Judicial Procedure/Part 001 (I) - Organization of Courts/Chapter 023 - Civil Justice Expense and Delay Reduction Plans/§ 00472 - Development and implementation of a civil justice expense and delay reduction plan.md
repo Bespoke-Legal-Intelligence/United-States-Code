@@ -22,7 +22,7 @@
 
 &emsp;(D) examine the extent to which costs and delays could be reduced by a better assessment of the impact of new legislation on the courts.
 
-(2) In developing its recommendations, the advisory group of a district court shall take into account the particular needs and circumstances of the district court, litigants in such court, and the litigants' attorneys.
+(2) In developing its recommendations, the advisory group of a district court shall take intoaccount the particular needs and circumstances of the district court, litigants in such court, and the litigants' attorneys.
 
 (3) The advisory group of a district court shall ensure that its recommended actions include significant contributions to be made by the court, the litigants, and the litigants' attorneys toward reducing cost and delay and thereby facilitating access to the courts.
 

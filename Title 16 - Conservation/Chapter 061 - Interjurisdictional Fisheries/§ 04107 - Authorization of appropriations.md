@@ -64,7 +64,7 @@ In addition to the amounts authorized under subsections (a) and (b), there are a
 
 &emsp;(D) an estimate of conservation benefits (such as reduction in fishing mortality) directly attributable to the fishing capacity reduction program.
 
-(Pub. L. 99–659, title III, §308, Nov. 14, 1986, 100 Stat. 3736; Pub. L. 101–627, title V, §§502, 503, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–396, title IX, §9135, Oct. 6, 1992, 106 Stat. 1937; Pub. L. 103–206, title VIII, §811, Dec. 20, 1993, 107 Stat. 2454; Pub. L. 103–238, §21, Apr. 30, 1994, 108 Stat. 561; Pub. L. 104–134, title I, §101\[(a)\] \[title II, §211\], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–297, title IV, §402, Oct. 11, 1996, 110 Stat. 3618; Pub. L. 107–372, title III, §302(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 109–479, title III, §302(g), Jan. 12, 2007, 120 Stat. 3624; Pub. L. 111–348, title I, §104, Jan. 4, 2011, 124 Stat. 3671.)
+(Pub. L. 99–659, title III, §308, Nov. 14, 1986, 100 Stat. 3736; Pub. L. 101–627, title V, §§502, 503, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–396, title IX, §9135, Oct. 6, 1992, 106 Stat. 1937; Pub. L. 103–206, title VIII, §811, Dec. 20, 1993, 107 Stat. 2454; Pub. L. 103–238, §21, Apr. 30, 1994, 108 Stat. 561; Pub. L. 104–134, title I, §101\[(a)\] \[title II, §211\], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–297, title IV, §402, Oct. 11, 1996, 110 Stat. 3618; Pub. L. 107–372, title III,§302(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 109–479, title III, §302(g), Jan. 12, 2007, 120 Stat. 3624; Pub. L. 111–348, title I, §104, Jan. 4, 2011, 124 Stat. 3671.)
 
 #### References in Text
 
@@ -80,9 +80,11 @@ Public Law 81–66, referred to in subsec. (c)(3), is act May 19, 1949, ch. 128,
 
 In subsec. (d)(4)(C), "section 12113(a) of title 46" substituted for "section 12108(a) of title 46, United States Code," on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 12113 of Title 46, Shipping.
 
+Section 104 of Pub. L. 111–348, cited as a credit to this section, was repealed, and a new section 104, set out as a note under section 1826i of this title, was enacted by Pub. L. 115–228, §2(1), Aug. 2, 2018, 132 Stat. 1628.
+
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–348 substituted "2010, and $2,500,000 for each of fiscal years 2011 and 2012." for "2012."
+<b>2011</b>—Subsec. (a). Pub. L. 111–348, §104, which substituted "2010, and $2,500,000 for each of fiscal years 2011 and 2012." for "2012.", was repealed by Pub. L. 115–228, §2(1), Aug. 2, 2018, 132 Stat. 1628. See Codification note above.
 
 <b>2007</b>—Subsec. (a). Pub. L. 109–479, §302(g)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: "There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter—
 

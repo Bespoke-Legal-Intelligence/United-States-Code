@@ -14,11 +14,11 @@ In order to effectuate the purposes of this chapter, the Federal coordinating of
 
 &emsp;(3) coordinate the administration of relief, including activities of the State and local governments, the American National Red Cross, the Salvation Army, the Mennonite Disaster Service, and other relief or disaster assistance organizations, which agree to operate under his advice or direction, except that nothing contained in this chapter shall limit or in any way affect the responsibilities of the American National Red Cross under chapter 3001 of title 36; and
 
-&emsp;(4) take such other action, consistent with authority delegated to him by the President, and consistent with the provisions of this chapter, as he may deem necessary to assist local citizens and public officials in promptly obtaining assistance to which they are entitled.
+&emsp;(4) take such other action, consistent with authority delegated to him by the President, and consistent with the provisions of this chapter, as he may deem necessary to assist local citizens and public officials in promptlyobtaining assistance to which they are entitled.
 
 #### (c) State coordinating officer
 
-When the President determines assistance under this chapter is necessary, he shall requestthat the Governor of the affected State designate a State coordinating officer for the purpose of coordinating State and local disaster assistance efforts with those of the Federal Government.
+When the President determines assistance under this chapter is necessary, he shall request that the Governor of the affected State designate a State coordinating officer for the purpose of coordinating State and local disaster assistance efforts with those of the Federal Government.
 
 #### (d) Single Federal coordinating officer for multistate area
 

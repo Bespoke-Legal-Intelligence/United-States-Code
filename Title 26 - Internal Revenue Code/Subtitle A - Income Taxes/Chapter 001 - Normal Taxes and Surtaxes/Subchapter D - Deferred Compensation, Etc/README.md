@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [I.](Part%20001%20%28I%29%20-%20Pension%2C%20Profit-Sharing%2C%20Stock%20Bonus%20Plans%2C%20Etc/README.md) | Pension, profit-sharing, stock bonus plans, etc. |
 | [II.](Part%20002%20%28II%29%20-%20Certain%20Stock%20Options/README.md) | Certain stock options. |
-| [III](Part%20003%20%28III%29%20-%20Rules%20Relating%20to%20Minimum%20Funding%20Standards%20and%20Benefit%20Limitations/README.md) | Rules relating to minimum funding standards and benefit limitations.<sup>1</sup> |
+| III.<sup>1</sup> | Rules relating to minimum funding standards and benefit limitations.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

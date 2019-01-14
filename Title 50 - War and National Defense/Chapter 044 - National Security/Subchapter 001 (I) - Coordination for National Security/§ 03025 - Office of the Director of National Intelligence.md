@@ -6,7 +6,7 @@ There is an Office of the Director of National Intelligence.
 
 #### (b) Function
 
-The function of the Office of the Director of National Intelligence is to assist the Director of National Intelligence in carrying out the duties and responsibilities of the Director under this Act and other applicable provisions of law, and to carry out such other duties as may be prescribed by the President or by law.
+The function of the Office of the Director of National Intelligence is to assist the Director ofNational Intelligence in carrying out the duties and responsibilities of the Director under this Act and other applicable provisions of law, and to carry out such other duties as may be prescribed by the President or by law.
 
 #### (c) Composition
 
@@ -92,7 +92,7 @@ Subsec. (e). Pub. L. 111–259, §403, amended subsec. (e) generally. Prior to a
 
 #### Effective Date
 
-For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
+For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President ofthe United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 

@@ -62,11 +62,11 @@
 
 &emsp;(vii) concerning bankruptcy procedures and rights.
 
-(f) A bankruptcy petition preparer shall not use the word "legal" or any similar term in any advertisements, or advertise under any category that includes the word "legal" or any similar term.
+(f) A bankruptcy petition preparer shall not use the word "legal" or any similar term in anyadvertisements, or advertise under any category that includes the word "legal" or any similar term.
 
 (g) A bankruptcy petition preparer shall not collect or receive any payment from the debtor or on behalf of the debtor for the court fees in connection with filing the petition.
 
-(h)(1) The Supreme Court may promulgate rules under section 2075 of title 28, or the Judicial Conference of the United States may prescribe guidelines, for setting a maximum allowable fee chargeable by a bankruptcy petition preparer. A bankruptcy petition preparer shall notify the debtor of any such maximum amount before preparing any document for filing for thedebtor or accepting any fee from or on behalf of the debtor.
+(h)(1) The Supreme Court may promulgate rules under section 2075 of title 28, or the Judicial Conference of the United States may prescribe guidelines, for setting a maximum allowable fee chargeable by a bankruptcy petition preparer. A bankruptcy petition preparer shall notify the debtor of any such maximum amount before preparing any document for filing for the debtor or accepting any fee from or on behalf of the debtor.
 
 (2) A declaration under penalty of perjury by the bankruptcy petition preparer shall be filed together with the petition, disclosing any fee received from or on behalf of the debtor within 12 months immediately prior to the filing of the case, and any unpaid fee charged to the debtor. If rules or guidelines setting a maximum fee for services have been promulgated or prescribed under paragraph (1), the declaration under this paragraph shall include a certification that the bankruptcy petition preparer complied with the notification requirement under paragraph (1).
 
@@ -192,7 +192,7 @@ Pub. L. 109–8, §221(8)(A) redesignated par. (3) as (4). Former par. (4) redes
 
 Subsec. (h)(5). Pub. L. 109–8, §221(8)(A) redesignated par. (4) as (5).
 
-Subsec. (i)(1). Pub. L. 109–8, §221(9), inserted introductory provisions and struck out former introductory provisions which read as follows: "If a bankruptcy case or related proceeding is dismissed because of the failure to file bankruptcy papers, including papers specified in section 521(1) of this title, the negligence or intentional disregard of this title or the Federal Rules of Bankruptcy Procedure by a bankruptcy petition preparer, or if a bankruptcy petition preparer violates this section or commits any fraudulent, unfair, or deceptive act, the bankruptcy court shall certify that fact to the district court, and the district court, on motion of the debtor, the trustee, or a creditor and after a hearing, shall order the bankruptcy petition preparer to pay to the debtor—".
+Subsec. (i)(1). Pub. L. 109–8, §221(9), inserted introductory provisions and struck out former introductory provisions which read as follows: "If a bankruptcy case or related proceeding is dismissed because of the failure to file bankruptcy papers, including papers specified in section 521(1) of this title, the negligence or intentional disregard of this title or the Federal Rules of Bankruptcy Procedure by a bankruptcy petition preparer, or if a bankruptcy petition preparer violates this sectionor commits any fraudulent, unfair, or deceptive act, the bankruptcy court shall certify that fact to the district court, and the district court, on motion of the debtor, the trustee, or a creditor and after a hearing, shall order the bankruptcy petition preparer to pay to the debtor—".
 
 Subsec. (j)(2)(A)(i)(I). Pub. L. 109–8, §221(10)(A)(i), struck out "a violation of which subjects a person to criminal penalty" after "any provision of this title".
 

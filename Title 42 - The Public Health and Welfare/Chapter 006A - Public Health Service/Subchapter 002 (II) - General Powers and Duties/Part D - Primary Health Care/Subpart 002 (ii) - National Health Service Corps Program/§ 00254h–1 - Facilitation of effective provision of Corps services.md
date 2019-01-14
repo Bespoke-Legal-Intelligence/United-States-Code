@@ -18,7 +18,7 @@ In making an assignment of a Corps member to an entity that has had an applicati
 
 #### (3) Extent of counseling services
 
-&emsp;With respect to individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, this subsection shall be carried out regarding such individuals throughout the period of obligated service (and, additionally, throughout the period specified in paragraph (2)(B), in the case of the Scholarship Program). With respect to Corps members generally, this subsection shall be carried out to the extent practicable.
+&emsp;With respect to individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, this subsection shall be carried out regarding such individuals throughout the period of obligated service (and, additionally,throughout the period specified in paragraph (2)(B), in the case of the Scholarship Program). With respect to Corps members generally, this subsection shall be carried out to the extent practicable.
 
 #### (c) Grants regarding preparation of students for practice
 

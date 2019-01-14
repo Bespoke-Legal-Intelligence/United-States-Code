@@ -68,7 +68,7 @@
 
 #### (A) Issuance
 
-&emsp;&emsp;An employer may require that a claim that an employee is unable to return towork because of the continuation, recurrence, or onset of the serious health condition described in paragraph (2)(B)(i) be supported by—
+&emsp;&emsp;An employer may require that a claim that an employee is unable to return to work because of the continuation, recurrence, or onset of the serious health condition described in paragraph (2)(B)(i) be supported by—
 
 &emsp;&emsp;&emsp;(i) a certification issued by the health care provider of the son, daughter, spouse, or parent of the employee, as appropriate, in the case of an employee unable to return to work because of a condition specified in section 2612(a)(1)(C) of this title;
 

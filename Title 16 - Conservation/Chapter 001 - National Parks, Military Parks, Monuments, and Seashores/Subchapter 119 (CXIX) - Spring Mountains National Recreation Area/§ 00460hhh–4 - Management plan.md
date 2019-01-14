@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) wild horse and burro herd management plans for the Recreation Area prepared in consultation with appropriate departments and commissions of the State of Nevada; and
 
-&emsp;&emsp;(G) an inventory of all lands within the Recreation Area not presently managed as National Forest lands that will permit the Secretary to evaluate possible future acquisitions.
+&emsp;&emsp;(G) an inventory of all lands within the Recreation Area not presently managed asNational Forest lands that will permit the Secretary to evaluate possible future acquisitions.
 
 #### (3) Consultation
 

@@ -12,7 +12,7 @@
 
 (c) Nothing in this section shall be construed to prohibit the inclusion in the future-years defense program of amounts for management contingencies, subject to the requirements of subsection (b).
 
-(d)(1) The Secretary of Defense shall make available to Congress, the Congressional Budget Office, the Comptroller General of the United States, and the Congressional Research Serviceeach future-years defense program under this section as follows:
+(d)(1) The Secretary of Defense shall make available to Congress, the Congressional Budget Office, the Comptroller General of the United States, and the Congressional Research Service each future-years defense program under this section as follows:
 
 &emsp;(A) By making such program available electronically in the form of an unclassified electronic database.
 
@@ -51,6 +51,86 @@ Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted "multiy
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–91, div. A, title X, §1042(d), Dec. 12, 2017, 131 Stat. 1554, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 12, 2017\], and shall apply to future-years defense programs submitted at the time of budgets of the President for fiscal years beginning after fiscal year 2018."
+
+#### Reporting on Future Years Budgeting by Subactivity Group
+
+Pub. L. 115–232, div. A, title III, §357, Aug. 13, 2018, 132 Stat. 1732, provided that: "Along with the budget for each fiscal year submitted by the President pursuant to section 1105(a) of title 31, United States Code, the Secretary of Defense and the Secretaries of the military departments shall include in the OP-5 Justification Books, as detailed by Department of Defense Financial Management Regulation 7000.14–R, the amount for each individual subactivity group, as detailed in the Department's future years defense program pursuant to section 221 of title 10, United States Code."
+
+#### Inclusion of Aircraft Carrier Refueling Overhaul Budget Request in Annual Budget Justification Materials
+
+Pub. L. 115–232, div. A, title X, §1018, Aug. 13, 2018, 132 Stat. 1951, provided that: "The Secretary of Defense shall include in the budget justification materials submitted to Congress by the Secretary in support of the budget of the President for fiscal year 2020 and each subsequent fiscal year, as part of the budget request for Shipbuilding and Conversion, Navy, a detailed aircraft carrier refueling overhaul budget request, by hull number, including all funding requested for reactor power units and reactor components."
+
+#### Budget Display for Cyber Vulnerability Evaluations and Mitigation Activities for Major Weapon Systems of the Department of Defense
+
+Pub. L. 115–232, div. A, title XVI, §1637, Aug. 13, 2018, 132 Stat. 2127, provided that:
+
+"(a)
+
+Budget Required.—Beginning in fiscal year 2021 and in each fiscal year thereafter, the Secretary of Defense shall submit to Congress, as a part of the documentation that supports the President's annual budget for the Department of Defense, a consolidated Cyber Vulnerability Evaluation and Mitigation budget justification display for each major weapons system of the Department of Defense that includes the following:
+
+&emsp;"(1)
+
+Cyber vulnerability evaluations.—
+
+&emsp;&emsp;"(A)
+
+Status.—Whether, in accordance with paragraph (1) of section 1647(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1118), the cyber vulnerability evaluation for each such major weapon system is pending, in progress, complete, or, pursuant to paragraph (2) of such section, waived.
+
+&emsp;&emsp;"(B)
+
+Funding.—The funding required for the fiscal year with respect to which the budget is submitted and for at least the four succeeding fiscal years required to complete the pending or in progress cyber vulnerability evaluation of each such major weapon system.
+
+&emsp;&emsp;"(C)
+
+Description.—A description of the activities planned in the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years to complete the required evaluation for each such major weapon system.
+
+&emsp;&emsp;"(D)
+
+Risk analysis.—A description of operational or security risks associated with cyber vulnerabilities identified as a result of such cyber vulnerability evaluations that require mitigation.
+
+&emsp;"(2)
+
+Mitigation activities.—
+
+&emsp;&emsp;"(A)
+
+Status.—Whether activities to address identified cyber vulnerabilities of such major weapon systems resulting in operational or security risks requiring mitigation are pending, in progress, or complete.
+
+&emsp;&emsp;"(B)
+
+Funding.—The funding required for the fiscal year with respect to which the budget is submitted and for at least the four succeeding fiscal years required to complete the pending or in progress mitigation activities referred to in subparagraph (A) related to such major weapon systems.
+
+&emsp;&emsp;"(C)
+
+Description.—A description of the activities planned in the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years to complete any necessary mitigation.
+
+"(b)
+
+Form.—The display required under subsection (a) should, to the extent practicable, be submitted in an unclassified form, and shall include a classified annex as required."
+
+#### Budget Exhibit on Support Provided to Executive Office of the President
+
+Pub. L. 115–232, div. A, title XVI, §1697, Aug. 13, 2018, 132 Stat. 2171, provided that:
+
+"(a)
+
+In General.—The Under Secretary of Defense (Comptroller) shall include in the budget justification materials submitted to Congress in support of the Department of Defense budget for each fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code) a single budget exhibit containing relevant details pertaining to support provided by the Department of Defense to the Executive Office of the President related to senior leadercommunications and continuity of Government programs.
+
+"(b)
+
+Inclusions.—The budget exhibit required by subsection (a) shall include—
+
+&emsp;"(1) support provided by the White House Military Office, the White House Communications Agency, special mission area activities of the Defense Information Systems Agency, and other relevant programs; and
+
+&emsp;"(2) specific appropriation and line numbers where appropriate.
+
+"(c)
+
+Form.—The budget exhibit required by subsection (a) shall be submitted in unclassified form, but may include a classified annex."
+
+#### Submission of Future Year Defense Program for Construction Projects Related to European Reassurance Initiative and European Deterrence Initiative
+
+Pub. L. 115–141, div. J, title IV, §402, Mar. 23, 2018, 132 Stat. 831, provided that: "Notwithstanding any other provision of law, the Secretary of Defense is directed to provide the congressional defense committees \[Committees on Armed Services of the House of Representatives and the Senate, the Subcommittee on Military Construction and Veterans Affairs of the Committee on Appropriations of the Senate, and the Subcommittee on Military Construction and Veterans Affairs of the Committee on Appropriations of the House of Representatives\] a future years defense program for funds appropriated to the Department of Defense for construction projects related to European Reassurance Initiative and European Deterrence Initiative beginning in fiscal year 2018 and each subsequent fiscal year that funding is requested for either initiative. Further, the Secretary of Defense is directed to submit the future years defense program with each fiscal year budget submission."
 
 #### DoD Guidance
 
@@ -116,7 +196,7 @@ Pub. L. 113–66, div. A, title II, §219, Dec. 26, 2013, 127 Stat. 708, provide
 
 "(a)
 
-Project Codes for Budget Submissions.—In the budget submitted by the President to Congress under section 1105 of title 31, United States Code, for fiscal year 2015 and each subsequent fiscal year, each capability component within the distributed common ground system program shall be set forth as a separate project code within the program element line, and each covered official shall submit supporting justification for the project code within the program element descriptive summary.
+Project Codes for Budget Submissions.—In the budget submitted by the President to Congress under section 1105 of title 31, United States Code, for fiscal year 2015 and each subsequent fiscal year, each capability component within the distributed common ground system program shall be set forth as a separate project code within the program element line, and each covered official shall submit supporting justification forthe project code within the program element descriptive summary.
 
 "(b)
 
@@ -202,7 +282,7 @@ Pub. L. 112–81, div. A, title X, §1094, Dec. 31, 2011, 125 Stat. 1607, provid
 
 "(a)
 
-Submission With Annual Budget Justification Documents.—For fiscal year 2013 and each subsequentfiscal year, the Secretary of Defense shall submit to the President, for inclusion with the budget materials submitted to Congress under section 1105(a) of title 31, United States Code, a budget justification display that covers all programs and activities associated with the procurement of organizational clothing and individual equipment.
+Submission With Annual Budget Justification Documents.—For fiscal year 2013 and each subsequent fiscal year, the Secretary of Defense shall submit to the President, for inclusion with the budget materials submitted to Congress under section 1105(a) of title 31, United States Code, a budget justification display that covers all programs and activities associated with the procurement of organizational clothing and individual equipment.
 
 "(b)
 
@@ -222,7 +302,7 @@ Pub. L. 111–383, div. A, title II, §213, Jan. 7, 2011, 124 Stat. 4163, provid
 
 #### Separate Procurement Line Item for Body Armor
 
-Pub. L. 111–84, div. A, title I, §141(b), Oct. 28, 2009, 123 Stat. 2223, provided that: "In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to section 1105 of title 31, United States Code, of the budget for fiscal year 2011, and each subsequent fiscal year, the Secretary shall ensure that within each military department procurement account, a separate, dedicated procurement line item is designated for body armor."
+Pub. L. 111–84, div. A, title I, §141(b), Oct. 28, 2009, 123 Stat. 2223, provided that: "In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuantto section 1105 of title 31, United States Code, of the budget for fiscal year 2011, and each subsequent fiscal year, the Secretary shall ensure that within each military department procurement account, a separate, dedicated procurement line item is designated for body armor."
 
 #### Separate Program Elements Required for Research and Development of Individual Body Armor and Associated Components
 
@@ -282,7 +362,7 @@ Pub. L. 110–417, \[div. A\], title II, §214, Oct. 14, 2008, 122 Stat. 4386, p
 
 #### Display of Annual Budget Requirements for Air Sovereignty Alert Mission
 
-Pub. L. 110–417, \[div. A\], title III, §354, Oct. 14, 2008, 122 Stat. 4426, which required the Secretary of Defenseto submit to the President a display of annual budget requirements for the Air Sovereignty Alert Mission of the Air Force, was repealed by Pub. L. 113–188, title IV, §401(a), Nov. 26, 2014, 128 Stat. 2019.
+Pub. L. 110–417, \[div. A\], title III, §354, Oct. 14, 2008, 122 Stat. 4426, which required the Secretary of Defense to submit to the President a display of annual budget requirements for the Air Sovereignty Alert Mission of the Air Force, was repealed by Pub. L. 113–188, title IV, §401(a), Nov. 26, 2014, 128 Stat. 2019.
 
 \[Pub. L. 113–291, div. A, title X, §1060(b), Dec. 19, 2014, 128 Stat. 3502, which directed repeal of section 354 of Pub. L. 110–417, formerly set out above, could not be executed because of the prior repeal by Pub. L. 113–188, title IV, §401(a), Nov. 26, 2014, 128 Stat. 2019.\]
 
@@ -366,7 +446,7 @@ Pub. L. 109–163, div. A, title II, §214, Jan. 6, 2006, 119 Stat. 3168, provid
 
 "(a)
 
-Program Elements Specified.—Effective for the budget of the President submitted to Congress undersection 1105(a) of title 31, United States Code, for fiscal year 2008 and each fiscal year thereafter, the Secretary of Defense shall ensure that a separate, dedicated program element is assigned to each of the following systems development and demonstration projects of the Armored Systems Modernization program:
+Program Elements Specified.—Effective for the budget of the President submitted to Congress under section 1105(a) of title 31, United States Code, for fiscal year 2008 and each fiscal year thereafter, the Secretary of Defense shall ensure that a separate, dedicated program element is assigned to each of the following systems development and demonstration projects of the Armored Systems Modernization program:
 
 &emsp;"(1) Manned Ground Vehicles.
 
@@ -428,6 +508,10 @@ Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided t
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 115–245, div. A, title VIII, §8074, Sept. 28, 2018, 132 Stat. 3018.
+
+Pub. L. 115–141, div. C, title VIII, §8075, Mar. 23, 2018, 132 Stat. 482.
+
 Pub. L. 115–31, div. C, title VIII, §8076, May 5, 2017, 131 Stat. 265.
 
 Pub. L. 114–113, div. C, title VIII, §8075, Dec. 18, 2015, 129 Stat. 2370.
@@ -464,7 +548,7 @@ Pub. L. 106–79, title VIII, §8110, Oct. 25, 1999, 113 Stat. 1257.
 
 #### Budget Submissions on Active and Reserve Military Personnel Accounts
 
-Pub. L. 105–262, title VIII, §8093, Oct. 17, 1998, 112 Stat. 2319, provided that: "At the time the President submitshis budget for fiscal year 2000 and any fiscal year thereafter, the Department of Defense shall transmit to the congressional defense committees \[Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate\] a budget justification document for the active and reserve Military Personnel accounts, to be known as the 'M–1', which shall identify, at the budget activity, activity group, and subactivity group level, the amounts requested by the President to be appropriated to the Department of Defense for military personnel in any budget request, or amended budget request, for that fiscal year."
+Pub. L. 105–262, title VIII, §8093, Oct. 17, 1998, 112 Stat. 2319, provided that: "At the time the President submits his budget for fiscal year 2000 and any fiscal year thereafter, the Department of Defense shall transmit to the congressional defense committees \[Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate\] a budget justification document for the active and reserve Military Personnel accounts, to be known as the 'M–1', which shall identify, at the budget activity, activity group, and subactivity group level, the amounts requested by the President to be appropriated to the Department of Defense for military personnel in any budget request, or amended budget request, for that fiscal year."
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -531,4 +615,8 @@ Pub. L. 101–510, div. A, title XIV, §1402(b), Nov. 5, 1990, 104 Stat. 1674, p
 #### Mission Oriented Presentation of Department of Defense Matters in Budget
 
 Pub. L. 101–510, div. A, title XIV, §1404, Nov. 5, 1990, 104 Stat. 1675, directed President to submit with budget submitted to Congress each year of programs of Department of Defense, a budget that organizes programs within major functional category 050 (National Defense) on basis of major roles and missions of Department of Defense, prior to repeal by Pub. L. 102–484, div. A, title X, §1002(b), Oct. 23, 1992, 106 Stat. 2480. See section 222 of this title.
+
+#### Definition of "Congressional Defense Committees"
+
+Pub. L. 115–141, div. J, title I, §127, Mar. 23, 2018, 132 Stat. 804, provided that: "For the purposes of this Act \[div. J of Pub. L. 115–141, 132 Stat. 796, see Tables for classification\], the term 'congressional defense committees' means the Committees on Armed Services of the House of Representatives and the Senate, the Subcommittee on Military Construction and Veterans Affairs of the Committee on Appropriations of the Senate, and the Subcommittee on Military Construction and Veterans Affairs of the Committee on Appropriations of the House of Representatives."
 

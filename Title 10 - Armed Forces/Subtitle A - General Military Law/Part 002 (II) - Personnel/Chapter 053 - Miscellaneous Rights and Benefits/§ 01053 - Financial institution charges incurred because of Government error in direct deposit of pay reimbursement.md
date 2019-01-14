@@ -4,7 +4,7 @@
 
 (2) A covered late-deposit charge for purposes of paragraph (1) is a charge (including an overdraft charge or a minimum balance or average balance charge) that is levied by a financial institution and that results from an administrative or mechanical error on the part of the Government that causes the pay of the person concerned to be deposited late or in an incorrect manner or amount.
 
-(b) Reimbursements under this section shall be made from appropriations available for the pay and allowances of members of the armed force concerned.
+(b) Reimbursements under this section shall be made from appropriations available for thepay and allowances of members of the armed force concerned.
 
 (c) The Secretaries concerned shall prescribe regulations to carry out this section, including regulations for the manner in which reimbursement under this section is to be made.
 
@@ -34,7 +34,7 @@ Subsec. (d). Pub. L. 101–189, §664(a)(2), amended subsec. (d) generally. Prio
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made bythat section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1989 Amendment
 

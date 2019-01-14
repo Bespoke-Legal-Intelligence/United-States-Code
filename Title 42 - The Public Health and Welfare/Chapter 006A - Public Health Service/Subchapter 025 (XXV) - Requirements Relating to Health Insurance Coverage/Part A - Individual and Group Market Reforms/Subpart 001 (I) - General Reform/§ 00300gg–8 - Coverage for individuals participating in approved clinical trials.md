@@ -60,7 +60,7 @@ This section shall not be construed to require a group health plan, or a health 
 
 &emsp;&emsp;(A)
 
-Federally funded trials.—The study or investigation is approved or funded (which may include funding through in-kind contributions) by one or more of the following:
+Federally funded trials.—The study or investigation is approved or funded\(which may include funding through in-kind contributions) by one or more of the following:
 
 &emsp;&emsp;&emsp;(i) The National Institutes of Health.
 

@@ -2,7 +2,7 @@
 
 For purposes of determining the eligibility of any individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds—
 
-&emsp;(1) any credit or refund allowed or made to any individual by reason of section 36B of title 26 (as added by section 1401) <sup>1</sup> shall not betaken into account as income and shall not be taken into account as resources for the month of receipt and the following 2 months; and
+&emsp;(1) any credit or refund allowed or made to any individual by reason of section 36B of title 26 (as added by section 1401) <sup>1</sup> shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following 2 months; and
 
 &emsp;(2) any cost-sharing reduction payment or advance payment of the credit allowed under such section 36B that is made under section 18071 or 18082 of this title shall be treated as made to the qualified health plan in which an individual is enrolled and not to that individual.
 

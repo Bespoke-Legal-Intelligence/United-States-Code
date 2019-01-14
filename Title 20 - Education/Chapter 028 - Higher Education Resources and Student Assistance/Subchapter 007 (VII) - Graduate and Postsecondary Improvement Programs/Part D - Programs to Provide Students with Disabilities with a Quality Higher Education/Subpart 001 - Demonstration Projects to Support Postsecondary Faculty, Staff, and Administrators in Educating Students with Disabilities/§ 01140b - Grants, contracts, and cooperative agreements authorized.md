@@ -100,7 +100,7 @@ In awarding grants, contracts, or cooperative agreements under this subpart, the
 
 #### (2) Subsequent report
 
-&emsp;Not later than three years after the date of the first award of a grant under this subpartafter August 14, 2008, the Secretary shall prepare and submit to the authorizing committees, and make available to the public, a report that—
+&emsp;Not later than three years after the date of the first award of a grant under this subpart after August 14, 2008, the Secretary shall prepare and submit to the authorizing committees, and make available to the public, a report that—
 
 &emsp;&emsp;(A) reviews the activities and program performance of the demonstration projects authorized under this subpart; and
 

@@ -98,7 +98,7 @@ In addition to the report required by subsection (a), the President, at the time
 
 &emsp;&emsp;(B) the extent of the risk for United States military personnel who are captured while participating in multinational forces in cases where their captors fail to respect the 1949 Geneva Conventions and other international agreements intended to protect prisoners of war; and
 
-&emsp;&emsp;(C) the specific steps that have been taken to protect United States military personnel participating in multinational forces, together (if necessary) with any recommendations for the enactment of legislation to achieve that objective.
+&emsp;&emsp;(C) the specific steps that have been taken to protect United States military personnelparticipating in multinational forces, together (if necessary) with any recommendations for the enactment of legislation to achieve that objective.
 
 #### (5) Human rights and U.N. peacekeeping forces
 
@@ -134,7 +134,7 @@ In addition to the report required by subsection (a), the President, at the time
 
 &emsp;&emsp;&emsp;(iv) A description of any other United States assistance to or support for the operation (including the provision of facilities, training, transportation, communication, and logistical support, but not including intelligence activities reportable under title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\]), and an estimate of the cost to the United States of such assistance or support.
 
-&emsp;&emsp;&emsp;(v) A reprogramming of funds pursuant to section 2706 of this title, submitted in accordance with the procedures set forth in such section, describing the source of funds that will be used to pay for the costof the new United Nations peacekeeping operation, provided that such notification shall also be submitted to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate.
+&emsp;&emsp;&emsp;(v) A reprogramming of funds pursuant to section 2706 of this title, submitted in accordance with the procedures set forth in such section, describing the source of funds that will be used to pay for the cost of the new United Nations peacekeeping operation, provided that such notification shall also be submitted to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate.
 
 #### (3) Form and timing of information
 
@@ -208,7 +208,7 @@ Subsec. (c)(1)(D). Pub. L. 114–323, §306(a)(2), amended subpar. (D) generally
 
 Subsec. (c)(1)(E). Pub. L. 114–323, §306(a)(3), added subpar. (E).
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–228, §405(a)(1), (2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "Not later than 3 days (excluding Saturdays, Sundays, and legal holidays) after adoption of any resolution by the Security Council, the Secretary of State shall transmit the text ofsuch resolution and any supporting documentation to the designated congressional committees."
+<b>2002</b>—Subsec. (b). Pub. L. 107–228, §405(a)(1), (2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "Not later than 3 days (excluding Saturdays, Sundays, and legal holidays) after adoption of any resolution by the Security Council, the Secretary of State shall transmit the text of such resolution and any supporting documentation to the designated congressional committees."
 
 Subsecs. (c), (d). Pub. L. 107–228, §405(a)(1), (4), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c). Text read as follows: "The Secretary of State shall promptly transmit to the designated congressional committees any published report prepared by the United Nations and distributed to the members of the Security Council that contains assessments of any proposed, ongoing, or concluded United Nations peacekeeping operation."
 
@@ -234,7 +234,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (a) of this se
 
 #### Delegation of Functions
 
-For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, 46074, set out as a note under section 301 of Title 3, The President.
+For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord.No. 13313, July 31, 2003, 68 F.R. 46073, 46074, set out as a note under section 301 of Title 3, The President.
 
 #### Public Availability of Information
 

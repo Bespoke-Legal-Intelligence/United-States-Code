@@ -48,7 +48,7 @@ In this part (except chapter 329 and except as provided in section 33101)—
 
 &emsp;(12) "State" means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
 
-&emsp;(13) "United States district court" means a district court of the United States, a UnitedStates court for Guam, the Virgin Islands, and American Samoa, and the district court for the Northern Mariana Islands.
+&emsp;(13) "United States district court" means a district court of the United States, a United States court for Guam, the Virgin Islands, and American Samoa, and the district court for the Northern Mariana Islands.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1034; Pub. L. 103–429, §6(27), Oct. 31, 1994, 108 Stat. 4380.)
 

@@ -12,7 +12,7 @@ The Congress makes the following findings:
 
 #### (b) Objective
 
-It is the objective of this section to improve the efficiency of the local guard programs abroad administered by the Bureau of Diplomatic Security of the Department of State and to ensure maximum competition for local guard contracts abroad concerning Foreign Service buildings.
+It is the objective of this section to improve the efficiency of the local guard programsabroad administered by the Bureau of Diplomatic Security of the Department of State and to ensure maximum competition for local guard contracts abroad concerning Foreign Service buildings.
 
 #### (c) Participation of United States contractors in local guard contracts abroad
 
@@ -92,7 +92,7 @@ In evaluating proposals for local guard contracts under this section, the Secret
 
 #### Codification
 
-Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991, and not as part of the Diplomatic Security Act which comprises this chapter.
+Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991, and notas part of the Diplomatic Security Act which comprises this chapter.
 
 #### Amendments
 

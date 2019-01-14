@@ -140,7 +140,7 @@ The Secretary shall reimburse a State for costs related to the inspection of sel
 
 #### (1) Establishment
 
-&emsp;Not later than 180 days after the effective date described in subsection (j), the Secretary shall establish in the Food Safety and Inspection Service of the Department of Agriculture a technical assistance division to coordinate the initiatives of any other appropriate agency of the Department of Agriculture to provide—
+&emsp;Not later than 180 days after the effective date described in subsection (j), the Secretaryshall establish in the Food Safety and Inspection Service of the Department of Agriculture a technical assistance division to coordinate the initiatives of any other appropriate agency of the Department of Agriculture to provide—
 
 &emsp;&emsp;(A) outreach, education, and training to very small or certain small establishments (as defined by the Secretary); and
 

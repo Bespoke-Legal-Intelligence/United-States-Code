@@ -46,7 +46,7 @@ Nothing in this section shall be construed to modify or affect the provisions of
 
 #### (1) In general
 
-&emsp;If an individual who is a program beneficiary or a prospective program beneficiary objectsto the religious character of a program participant, within a reasonable period of time after the date of such objection such program participant shall refer such individual to, and the appropriate Federal, State, or local government that administers a designated program or is a program participant shall provide to such individual (if otherwise eligible for such services), program services that—
+&emsp;If an individual who is a program beneficiary or a prospective program beneficiary objects to the religious character of a program participant, within a reasonable period of time after the date of such objection such program participant shall refer such individual to, and the appropriate Federal, State, or local government that administers a designated program or is a program participant shall provide to such individual (if otherwise eligible for such services), program services that—
 
 &emsp;&emsp;(A) are from an alternative provider that is accessible to, and has the capacity to provide such services to, such individual; and
 

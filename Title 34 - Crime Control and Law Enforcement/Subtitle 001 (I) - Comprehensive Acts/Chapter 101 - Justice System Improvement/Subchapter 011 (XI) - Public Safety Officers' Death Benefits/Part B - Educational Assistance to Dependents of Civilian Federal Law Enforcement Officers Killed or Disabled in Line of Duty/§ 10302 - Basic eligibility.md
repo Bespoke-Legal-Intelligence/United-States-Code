@@ -40,7 +40,7 @@ No person shall receive assistance under this part for a period in excess of for
 
 &emsp;&emsp;&emsp;(ii) ending on the date on which the claim for benefits is approved.
 
-(Pub. L. 90–351, title I, §1212, as added Pub. L. 104–238, §2(2), Oct. 3, 1996, 110 Stat. 3114; amendedPub. L. 105–390, §2(3), Nov. 13, 1998, 112 Stat. 3495; Pub. L. 112–239, div. A, title X, §1086(b)(1)(G), (H), Jan. 2, 2013, 126 Stat. 1968; Pub. L. 115–36, §3, June 2, 2017, 131 Stat. 851.)
+(Pub. L. 90–351, title I, §1212, as added Pub. L. 104–238, §2(2), Oct. 3, 1996, 110 Stat. 3114; amended Pub. L. 105–390, §2(3), Nov. 13, 1998, 112 Stat. 3495; Pub. L. 112–239, div. A, title X, §1086(b)(1)(G), (H), Jan. 2, 2013, 126 Stat. 1968; Pub. L. 115–36, §3, June 2, 2017, 131 Stat. 851.)
 
 #### Codification
 

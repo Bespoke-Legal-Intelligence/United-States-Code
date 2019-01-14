@@ -8,7 +8,7 @@
 
 &emsp;(C) a combination of payments described in subparagraphs (A) and (B) of this paragraph.
 
-(2) Any per diem allowance or maximum amount of reimbursement shall be established, to the extent feasible, by locality.
+(2) Any per diem allowance or maximum amount of reimbursement shall be established, to the extent feasible, by locality. The Secretary of Defense shall not alter the amount of the per diem allowance, or the maximum amount of reimbursement, for a locality based on the duration of the travel in the locality of an employee of the Department.
 
 (3) For travel consuming less than a full day, the payment prescribed by regulation shall be allocated in such manner as the Administrator may prescribe.
 
@@ -16,7 +16,7 @@
 
 &emsp;(A) because of an incapacitating illness or injury which is not due to the employee's own misconduct is entitled to reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and to payments pursuant to subsection (a) of this section until that location is reached; or
 
-&emsp;(B) because of a personal emergency situation (such as serious illness, injury, or death of a member of the employee's family, or an emergency situation such as fire, flood, or act of God), may be allowed, with the approval of an appropriate official of the agency concerned, reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and payments pursuant to subsection (a) of this section until that location is reached.
+&emsp;(B) because of a personal emergency situation (such as serious illness, injury, or death of a member of the employee's family, or an emergency situation such as fire, flood, or act of God), may be allowed, with the approval ofan appropriate official of the agency concerned, reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and payments pursuant to subsection (a) of this section until that location is reached.
 
 (2)(A) Under regulations prescribed pursuant to section 5707 of this title, an employee who is described in subsection (a) of this section and who, with the approval of an appropriate official of the agency concerned, interrupts the travel assignment prior to its completion for a reason specified in subparagraph (A) or (B) of paragraph (1) of this subsection, may be allowed (subject to the limitation provided in subparagraph (B) of this paragraph)—
 
@@ -32,7 +32,7 @@
 
 (c) This section does not apply to a justice or judge, except to the extent provided by section 456 of title 28.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 498; Pub. L. 91–114, §1, Nov. 10, 1969, 83 Stat. 190; Pub. L. 94–22, §3, May 19, 1975, 89 Stat. 84; Pub. L. 96–54, §2(a)(36), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–346, §1, Sept. 10, 1980, 94 Stat. 1148; Pub. L. 99–234, title I, §102, Jan. 2, 1986, 99 Stat. 1756; Pub. L. 102–378, §2(47), Oct. 2, 1992, 106 Stat. 1353.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 498; Pub. L. 91–114, §1, Nov. 10, 1969, 83 Stat. 190; Pub. L. 94–22, §3, May 19, 1975, 89 Stat. 84; Pub. L. 96–54, §2(a)(36), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–346, §1, Sept. 10, 1980, 94 Stat. 1148; Pub. L. 99–234, title I, §102, Jan. 2, 1986, 99 Stat. 1756; Pub. L. 102–378, §2(47), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 115–232, div. A, title VI, §603(b), Aug. 13, 2018, 132 Stat. 1794.)
 
 Historical and Revision Notes
 
@@ -67,6 +67,8 @@ In subsection (c), the words "Under regulations prescribed under section 5707 of
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2). Pub. L. 115–232 inserted at end "The Secretary of Defense shall not alter the amount of the per diem allowance, or the maximum amount of reimbursement, for a locality based on the duration of the travel in the locality of an employee of the Department."
 
 <b>1992</b>—Pub. L. 102–378 substituted "employees" for "employee" in section catchline.
 
@@ -152,7 +154,7 @@ Applicability.—This section shall apply with respect to promotional items rece
 
 #### Cost Savings for Official Travel
 
-Pub. L. 103–355, title VI, §6008, Oct. 13, 1994, 108 Stat. 3367, related to maximizing practicable cost savings for official travel through use of frequent traveler programs, prior to repeal by Pub. L. 107–107, div. A, title XI, §1116(e), Dec. 28, 2001, 115 Stat. 1241.
+Pub. L. 103–355, title VI, §6008, Oct. 13, 1994, 108 Stat. 3367, related to maximizing practicable cost savings forofficial travel through use of frequent traveler programs, prior to repeal by Pub. L. 107–107, div. A, title XI, §1116(e), Dec. 28, 2001, 115 Stat. 1241.
 
 #### Reports to Congress of Per Diem and Mileage Allowance Payments for Fiscal Years 1979
 

@@ -1,0 +1,36 @@
+### §2304. Disposal of public land
+
+#### (a) In general
+
+The Secretary shall establish a program, using funds made available under section 2305 of this title—
+
+&emsp;(1) to complete appraisals and satisfy other legal requirements for the sale or exchange of public land identified for disposal under approved land use plans under section 1712 of this title;
+
+&emsp;(2) not later than 180 days after March 23, 2018, to establish and make available to the public, on the website of the Department ofthe Interior, a database containing a comprehensive list of all the land referred to in paragraph (1); and
+
+&emsp;(3) to maintain the database referred to in paragraph (2).
+
+#### (b) Sale of public land
+
+#### (1) In general
+
+&emsp;The sale of public land so identified shall be conducted in accordance with sections 1713 and 1719 of this title.
+
+#### (2) Exceptions to competitive bidding requirements
+
+&emsp;The exceptions to competitive bidding requirements under section 1713(f) of this title shall apply to this section in cases in which the Secretary determines it to be necessary.
+
+#### (c) Report in Public Land Statistics
+
+The Secretary shall provide in the annual publication of Public Land Statistics, a report of activities under this section.
+
+(Pub. L. 106–248, title II, §205, July 25, 2000, 114 Stat. 615; Pub. L. 111–212, title III, §3007(a), July 29, 2010, 124 Stat. 2339; Pub. L. 115–141, div. O, title III, §302(4), Mar. 23, 2018, 132 Stat. 1075.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–141, §302(4)(A), substituted "section 2305 of this title—" and pars. (1) to (3) for "section 2305 of this title, to complete appraisals and satisfy other legal requirements for the sale or exchange of public land identified for disposal under approved land use plans (as in effect on July 25, 2000) under section 1712 of this title."
+
+Subsec. (d). Pub. L. 115–141, §302(4)(B), struck out subsec. (d). Text read as follows: "The authority provided under this section shall terminate 11 years after July 25, 2000."
+
+<b>2010</b>—Subsec. (d). Pub. L. 111–212 substituted "11 years" for "10 years".
+

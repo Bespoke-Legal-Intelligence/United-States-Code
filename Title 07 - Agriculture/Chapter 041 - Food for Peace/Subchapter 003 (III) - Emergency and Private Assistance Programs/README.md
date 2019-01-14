@@ -12,5 +12,5 @@
 - [&sect; 01725 - Food Aid Consultative Group](%C2%A7%2001725%20-%20Food%20Aid%20Consultative%20Group.md)
 - [&sect; 01726 - Repealed. Pub. L. 107&#8211;171, title III, &sect;3006, May 13, 2002, 116 Stat. 282](%C2%A7%2001726%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20III%2C%20%C2%A73006%2C%20May%2013%2C%202002%2C%20116%20Stat.%20282.md)
 - [&sect; 01726a - Administration](%C2%A7%2001726a%20-%20Administration.md)
-- [&sect; 01726b - Assistance for stockpiling and rapid transportation, delivery, and distribution of shelf-stable prepackaged foods](%C2%A7%2001726b%20-%20Assistance%20for%20stockpiling%20and%20rapid%20transportation%2C%20delivery%2C%20and%20distribution%20of%20shelf-stable%20prepackaged%20foods.md)
+- [&sect; 01726b - International food relief partnership](%C2%A7%2001726b%20-%20International%20food%20relief%20partnership.md)
 - [&sect; 01726c - Local and regional food aid procurement projects](%C2%A7%2001726c%20-%20Local%20and%20regional%20food%20aid%20procurement%20projects.md)

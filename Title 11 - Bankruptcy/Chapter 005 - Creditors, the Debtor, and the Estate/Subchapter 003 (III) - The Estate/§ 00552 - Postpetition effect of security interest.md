@@ -12,7 +12,7 @@
 
 #### legislative statements
 
-Section 552(a) is derived from the House bill and the alternative provision in the Senate amendment is rejected. Section 552(b) represents a compromise between the House bill and the Senate amendment. Proceeds coverage, but not after acquired property clauses, are valid under title 11. The provision allows the court to consider the equities in each case. In the course of such consideration the court may evaluate any expenditures by the estate relating to proceeds and any related improvement in position of the secured party. Although this section grants a secured party a security interest in proceeds, product, offspring, rents, or profits, the section is explicitly subject to other sections of title 11. For example, the trustee or debtor in possession may use, sell, or lease proceeds, product, offspring, rents or profits under section 363.
+Section 552(a) is derived from the House bill and the alternative provision in the Senate amendment is rejected. Section 552(b) represents a compromise between the House bill and the Senate amendment. Proceeds coverage, but not after acquired property clauses, are valid under title 11. The provision allows the court to consider the equities in each case. In the course of such consideration the court may evaluate any expenditures by the estate relating to proceeds and any related improvement in position of the secured party. Althoughthis section grants a secured party a security interest in proceeds, product, offspring, rents, or profits, the section is explicitly subject to other sections of title 11. For example, the trustee or debtor in possession may use, sell, or lease proceeds, product, offspring, rents or profits under section 363.
 
 #### senate report no. 95–989
 

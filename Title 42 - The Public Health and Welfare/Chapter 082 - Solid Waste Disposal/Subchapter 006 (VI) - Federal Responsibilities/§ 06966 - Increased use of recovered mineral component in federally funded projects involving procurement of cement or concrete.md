@@ -60,7 +60,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) the energy savings and environmental benefits associated with the substitution;
 
-&emsp;&emsp;(B) identify all barriers in procurement requirements to greater realization of energy savings and environmental benefits, including barriers resulting from exceptions from the law; and
+&emsp;&emsp;(B) identify all barriers in procurement requirements to greater realization of energysavings and environmental benefits, including barriers resulting from exceptions from the law; and
 
 &emsp;&emsp;(C)(i) identify potential mechanisms to achieve greater substitution of recovered mineral component in types of cement or concrete projects for which recovered mineral components historically have not been used or have been used only minimally;
 

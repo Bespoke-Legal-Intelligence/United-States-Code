@@ -28,7 +28,7 @@ Limitations.—
 
 &emsp;&emsp;&emsp;(i)
 
-Percentage limitation.—In each fiscal year, no more than 12 percent of the proceeds of all dispositions of surplus realand related personal property may be paid to meet direct expenses incurred in connection with the dispositions.
+Percentage limitation.—In each fiscal year, no more than 12 percent of the proceeds of all dispositions of surplus real and related personal property may be paid to meet direct expenses incurred in connection with the dispositions.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -92,7 +92,7 @@ Proceeds.—
 
 &emsp;&emsp;(A)
 
-Deposit in special account.—For a transfer or disposition of property pursuant to paragraph (4), the Administrator shall deposit any proceeds (less expenses of the transfer or disposition as provided in subsection (a)) in a special account in the Treasury.
+Deposit in special account.—For a transfer or disposition of property pursuantto paragraph (4), the Administrator shall deposit any proceeds (less expenses of the transfer or disposition as provided in subsection (a)) in a special account in the Treasury.
 
 &emsp;&emsp;(B)
 

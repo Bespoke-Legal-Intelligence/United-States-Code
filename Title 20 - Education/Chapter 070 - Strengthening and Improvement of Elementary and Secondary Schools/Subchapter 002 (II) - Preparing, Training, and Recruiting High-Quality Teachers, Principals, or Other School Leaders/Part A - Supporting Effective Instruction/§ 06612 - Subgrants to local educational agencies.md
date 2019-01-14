@@ -16,7 +16,7 @@
 
 #### (3) Rule of construction
 
-&emsp;Nothing in this section shall be construed to prohibit a consortium of local educationalagencies that are designated with a locale code of 41, 42, or 43, or such local educational agencies designated with a locale code of 41, 42, or 43 that work in cooperation with an educational service agency, from voluntarily combining allocations received under this part for the collective use of funding by the consortium for activities under this section.
+&emsp;Nothing in this section shall be construed to prohibit a consortium of local educational agencies that are designated with a locale code of 41, 42, or 43, or such local educational agencies designated with a locale code of 41, 42, or 43 that work in cooperation with an educational service agency, from voluntarily combining allocations received under this part for the collective use of funding by the consortium for activities under this section.
 
 #### (b) Local applications
 

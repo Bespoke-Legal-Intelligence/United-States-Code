@@ -12,7 +12,7 @@ In General.—The head of each agency shall—
 
 &emsp;&emsp;&emsp;(ii) information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency;
 
-&emsp;&emsp;(B) complying with the requirements of this subchapter and related policies, procedures, standards, and guidelines, including—
+&emsp;&emsp;(B) complying with the requirements of this subchapter, subchapter III of chapter 13 of title 41, and related policies, procedures, standards, and guidelines, including—
 
 &emsp;&emsp;&emsp;(i) information security standards promulgated under section 11331 of title 40;
 
@@ -20,9 +20,11 @@ In General.—The head of each agency shall—
 
 &emsp;&emsp;&emsp;(iii) policies and procedures issued by the Director;
 
-&emsp;&emsp;&emsp;(iv) information security standards and guidelines for national security systems issued in accordance with law and as directed by the President; and
+&emsp;&emsp;&emsp;(iv) information security standards and guidelines for national security systems issued in accordance with law and as directed by the President;
 
 &emsp;&emsp;&emsp;(v) emergency directives issued by the Secretary under section 3553(h); and
+
+&emsp;&emsp;&emsp;(vi) responsibilities relating to assessing and avoiding, mitigating, transferring, or accepting supply chain risks under section 1326 of title 41, and complying with exclusion and removal orders issued under section 1323 of such title; and
 
 &emsp;&emsp;(C) ensuring that information security management processes are integrated with agency strategic, operational, and budgetary planning processes;
 
@@ -50,7 +52,7 @@ In General.—The head of each agency shall—
 
 &emsp;&emsp;(B) developing and maintaining an agencywide information security program as required by subsection (b);
 
-&emsp;&emsp;(C) developing and maintaining information security policies, procedures, and control techniques to address all applicable requirements, including those issued undersection 3553 of this title and section 11331 of title 40;
+&emsp;&emsp;(C) developing and maintaining information security policies, procedures, and control techniques to address all applicable requirements, including those issued under section 3553 of this title and section 11331 of title 40;
 
 &emsp;&emsp;(D) training and overseeing personnel with significant responsibilities for information security with respect to such responsibilities; and
 
@@ -198,7 +200,7 @@ Performance Plan.—(1) In addition to the requirements of subsection (c), each 
 
 Public Notice and Comment.—Each agency shall provide the public with timely notice and opportunities for comment on proposed information security policies and procedures to the extent that such policies and procedures affect communication with the public.
 
-(Added Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3078; amended Pub. L. 114–113, div. N, title II, §229(b), Dec. 18, 2015, 129 Stat. 2974.)
+(Added Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3078; amended Pub. L. 114–113, div. N, title II, §229(b), Dec. 18, 2015, 129 Stat. 2974; Pub. L. 115–390, title II, §204(a)(2), Dec. 21, 2018, 132 Stat. 5193.)
 
 #### Prior Provisions
 
@@ -206,7 +208,15 @@ Provisions similar to this section were contained in sections 3534 and 3544 of t
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a)(1)(B). Pub. L. 115–390, §204(a)(2)(A), inserted ", subchapter III of chapter 13 of title 41," after "complying with the requirements of this subchapter" in introductory provisions.
+
+Subsec. (a)(1)(B)(vi). Pub. L. 115–390, §204(a)(2)(B), (C), added cl. (vi).
+
 <b>2015</b>—Subsec. (a)(1)(B)(v). Pub. L. 114–113 added cl. (v).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see section 205 of Pub. L. 115–390, set out as an Effective Date note under section 1321 of Title 41, Public Contracts.
 
 #### Major Incident
 

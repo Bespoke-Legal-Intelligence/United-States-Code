@@ -8,6 +8,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title II, §206(p)(9), Mar. 23, 2018, 132 Stat. 1182, amended part I heading generally, reenacting heading without change.
+
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 

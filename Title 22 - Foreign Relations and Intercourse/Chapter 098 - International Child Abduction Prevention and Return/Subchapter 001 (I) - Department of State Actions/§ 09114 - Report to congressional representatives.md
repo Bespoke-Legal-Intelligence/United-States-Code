@@ -10,7 +10,7 @@ The Secretary of State shall submit written notification to the Member of Congre
 
 #### (b) Timing
 
-At the request of any person who is a left-behind parent, including a left-behind parent who previously reported an abduction to the Central Authority of the United States before August 8, 2014, the notification required under subsection (a) shall be provided as soon as is practicable.
+At the request of any person who is a left-behind parent, including a left-behind parent whopreviously reported an abduction to the Central Authority of the United States before August 8, 2014, the notification required under subsection (a) shall be provided as soon as is practicable.
 
 (Pub. L. 113–150, title I, §104, Aug. 8, 2014, 128 Stat. 1816.)
 

@@ -12,5 +12,5 @@ Election.—A veteran or other individual pursuing a course of education describ
 
 #### Effective Date
 
-Pub. L. 115–48, title III, §308(c), Aug. 16, 2017, 131 Stat. 994, provided that: "Section 3699A of title 38, UnitedStates Code, as added by this section, shall take effect on August 1, 2018."
+Pub. L. 115–48, title III, §308(c), Aug. 16, 2017, 131 Stat. 994, provided that: "Section 3699A of title 38, United States Code, as added by this section, shall take effect on August 1, 2018."
 

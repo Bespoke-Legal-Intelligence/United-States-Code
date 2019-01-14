@@ -22,7 +22,7 @@ First Violation or Committing Felony.—(1) Except as provided in paragraph (2) 
 
 (c)
 
-Second and Multiple Violations.—(1) Subject to paragraph (2) of this subsection, the Secretary shall disqualify from operating a commercial motor vehicle for life an individual—
+Second and Multiple Violations.—(1) Subject to paragraph (2) of this subsection, theSecretary shall disqualify from operating a commercial motor vehicle for life an individual—
 
 &emsp;(A) committing more than one violation of driving a commercial motor vehicle under the influence of alcohol or a controlled substance;
 
@@ -94,7 +94,7 @@ Out-of-Service Orders.—(1)(A) To enforce section 392.5 of title 49, Code of Fe
 
 (B) The Secretary shall prescribe regulations establishing and enforcing requirements for reporting out-of-service orders issued under regulations prescribed under subparagraph (A) of this paragraph. Regulations prescribed under this subparagraph shall require at least that an operator of a commercial motor vehicle who is issued an out-of-service order to report the issuance to the individual's employer and to the State that issued the operator a driver's license.
 
-(2) The Secretary shall prescribe regulations establishing sanctions and penalties related to violations of out-of-service orders by individuals operating commercial motor vehicles. The regulations shall require at least that—
+(2) The Secretary shall prescribe regulations establishing sanctions and penalties related toviolations of out-of-service orders by individuals operating commercial motor vehicles. The regulations shall require at least that—
 
 &emsp;(A) an operator of a commercial motor vehicle found to have committed a first violation of an out-of-service order shall be disqualified from operating such a vehicle for at least 180 days and liable for a civil penalty of at least $2,500;
 

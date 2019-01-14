@@ -28,5 +28,5 @@ A prior section 524 of act July 1, 1944, was renumbered section 545 by section 6
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–645 amended section generally, substituting provisions relating to determination ofamount of allotment for provisions relating to requiring provision of certain mental health services.
+<b>1990</b>—Pub. L. 101–645 amended section generally, substituting provisions relating to determination of amount of allotment for provisions relating to requiring provision of certain mental health services.
 

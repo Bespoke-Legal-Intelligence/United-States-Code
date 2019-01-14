@@ -16,7 +16,7 @@
 
 #### (b) Reduction in United States payments to international financial institutions
 
-If any international financial institution approves a loan or other assistance to the Cuban Government over the opposition of the United States, then the Secretary of the Treasury shall withhold from payment to such institution an amount equal to the amount of the loan or other assistance, with respect to either of the following types of payment:
+If any international financial institution approves a loan or other assistance to the Cuban Government over the opposition of the United States, then the Secretary of the Treasury shallwithhold from payment to such institution an amount equal to the amount of the loan or other assistance, with respect to either of the following types of payment:
 
 &emsp;(1) The paid-in portion of the increase in capital stock of the institution.
 

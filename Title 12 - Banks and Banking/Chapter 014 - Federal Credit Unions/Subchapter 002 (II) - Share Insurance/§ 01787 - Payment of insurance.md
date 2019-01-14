@@ -40,7 +40,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;The Board may, as conservator or liquidating agent—
 
-&emsp;&emsp;&emsp;(i) take over the assets of and operate the credit union with all the powers of the members or shareholders, the directors, and the officers of the credit union and shall be authorized to conduct all business of the credit union;
+&emsp;&emsp;&emsp;(i) take over the assets of and operate the credit union with all the powers of the members or shareholders, the directors,and the officers of the credit union and shall be authorized to conduct all business of the credit union;
 
 &emsp;&emsp;&emsp;(ii) collect all obligations and money due the credit union;
 
@@ -212,7 +212,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;(ii) the date of any notice of disallowance of such claim pursuant to paragraph (5)(A)(i),
 
-> &emsp;&emsp;the claimant may request administrative review of the claim in accordance with subparagraph (A) or (B) of paragraph (7) or file suit on such claim (or continue an action commenced before the appointment of the liquidating agent) in the district or territorial court of the United States for the district within which the credit union's principal place of business is located or the United States District Court for the District of Columbia (and such court shall have jurisdiction to hear such claim).
+> &emsp;&emsp;the claimant may request administrative review of the claim in accordance with subparagraph (A) or (B) of paragraph (7) or file suit on such claim (or continue an action commenced before the appointment of theliquidating agent) in the district or territorial court of the United States for the district within which the credit union's principal place of business is located or the United States District Court for the District of Columbia (and such court shall have jurisdiction to hear such claim).
 
 #### (B) Statute of limitations
 
@@ -228,7 +228,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (A) Administrative hearing
 
-&emsp;&emsp;If any claimant requests review under this subparagraph in lieu of filing or continuing any action under paragraph (6) and theBoard agrees to such request, the Board shall consider the claim after opportunity for a hearing on the record. The final determination of the Board with respect to such claim shall be subject to judicial review under chapter 7 of title 5.
+&emsp;&emsp;If any claimant requests review under this subparagraph in lieu of filing or continuing any action under paragraph (6) and the Board agrees to such request, the Board shall consider the claim after opportunity for a hearing on the record. The final determination of the Board with respect to such claim shall be subject to judicial review under chapter 7 of title 5.
 
 #### (B) Other review procedures
 
@@ -310,7 +310,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (B) Payment of dividends on claims
 
-&emsp;&emsp;The liquidating agent may, in the liquidating agent's sole discretion, pay dividends onproved claims at any time, and no liability shall attach to the Board (in such Board's corporate capacity or as liquidating agent), by reason of any such payment, for failure to pay dividends to a claimant whose claim is not proved at the time of any such payment.
+&emsp;&emsp;The liquidating agent may, in the liquidating agent's sole discretion, pay dividends on proved claims at any time, and no liability shall attach to the Board (in such Board's corporate capacity or as liquidating agent), by reason of any such payment, for failure to pay dividends to a claimant whose claim is not proved at the time of any such payment.
 
 #### (11) Distribution of assets
 
@@ -402,7 +402,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (B) Annual accounting or report
 
-&emsp;&emsp;With respect to each conservatorship or liquidation to which the Board was appointed, the Board shall make an annual accounting or report, as appropriate, availableto the Comptroller General of the United States or, in the case of a State-chartered credit union, the authority which appointed the Board as conservator or liquidating agent.
+&emsp;&emsp;With respect to each conservatorship or liquidation to which the Board was appointed, the Board shall make an annual accounting or report, as appropriate, available to the Comptroller General of the United States or, in the case of a State-chartered credit union, the authority which appointed the Board as conservator or liquidating agent.
 
 #### (C) Availability of reports
 
@@ -572,7 +572,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (ii) No liability after assignment and sale
 
-&emsp;&emsp;&emsp;If an assignment and sale described in clause (i) is consummated, the conservatoror liquidating agent shall have no further liability under the contract described in subparagraph (A) or with respect to the real property which was the subject of such contract.
+&emsp;&emsp;&emsp;If an assignment and sale described in clause (i) is consummated, the conservator or liquidating agent shall have no further liability under the contract described in subparagraph (A) or with respect to the real property which was the subject of such contract.
 
 #### (7) Provisions applicable to service contracts
 
@@ -678,7 +678,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;&emsp;(VIII) any option to enter into any agreement or transaction referred to in this clause;
 
-&emsp;&emsp;&emsp;&emsp;(IX) a master agreement that provides for an agreement or transaction referred to in subclause (I), (II), (III), (IV), (V), (VI), (VII), or (VIII), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a commodity contract under this clause, except that the master agreement shall be considered to be a commodity contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), (III), (IV), (V), (VI), (VII), or (VIII); or
+&emsp;&emsp;&emsp;&emsp;(IX) a master agreement that provides for an agreement or transaction referred to in subclause (I), (II), (III), (IV), (V),\(VI), (VII), or (VIII), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a commodity contract under this clause, except that the master agreement shall be considered to be a commodity contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), (III), (IV), (V), (VI), (VII), or (VIII); or
 
 &emsp;&emsp;&emsp;&emsp;(X) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this clause, including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in this clause.
 
@@ -712,7 +712,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;&emsp;(VI) means any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in subclause (I), (III), (IV), or (V), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such subclause.
 
-&emsp;&emsp;&nbsp;For purposes of this clause, the term "qualified foreign government security" means a security that is a direct obligation of, or that is fully guaranteed by, the central government of a member of the Organization for Economic Cooperation and Development (as determined by regulation or order adopted by the appropriate Federal banking authority).
+&emsp;&emsp;&nbsp;For purposes of this clause, the term "qualified foreign government security" means a security that is a direct obligation of, or that is fully guaranteed by, thecentral government of a member of the Organization for Economic Cooperation and Development (as determined by regulation or order adopted by the appropriate Federal banking authority).
 
 #### (vi) Swap agreement
 
@@ -720,7 +720,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;&emsp;(I) any agreement, including the terms and conditions incorporated by reference in any such agreement, which is an interest rate swap, option, future, or forward agreement, including a rate floor, rate cap, rate collar, cross-currency rate swap, and basis swap; a spot, same day-tomorrow, tomorrow-next, forward, or other foreign exchange, precious metals, or other commodity agreement; a currency swap, option, future, or forward agreement; an equity index or equity swap, option, future, or forward agreement; a debt index or debt swap, option, future, or forward agreement; a total return, credit spread or credit swap, option, future, or forward agreement; a commodity index or commodity swap, option, future, or forward agreement; weather swap, option, future, or forward agreement; an emissions swap, option, future, or forward agreement; or an inflation swap, option, future, or forward agreement;
 
-&emsp;&emsp;&emsp;&emsp;(II) any agreement or transaction that is similar to any other agreement ortransaction referred to in this clause and that is of a type that has been, is presently, or in the future becomes, the subject of recurrent dealings in the swap or other derivatives markets (including terms and conditions incorporated by reference in such agreement) and that is a forward, swap, future, option, or spot transaction on one or more rates, currencies, commodities, equity securities or other equity instruments, debt securities or other debt instruments, quantitative measures associated with an occurrence, extent of an occurrence, or contingency associated with a financial, commercial, or economic consequence, or economic or financial indices or measures of economic or financial risk or value;
+&emsp;&emsp;&emsp;&emsp;(II) any agreement or transaction that is similar to any other agreement or transaction referred to in this clause and that is of a type that has been, is presently, or in the future becomes, the subject of recurrent dealings in the swap or other derivatives markets (including terms and conditions incorporated by reference in such agreement) and that is a forward, swap, future, option, or spot transaction on one or more rates, currencies, commodities, equity securities or other equity instruments, debt securities or other debt instruments, quantitative measures associated with an occurrence, extent of an occurrence, or contingency associated with a financial, commercial, or economic consequence, or economic or financial indices or measures of economic or financial risk or value;
 
 &emsp;&emsp;&emsp;&emsp;(III) any combination of agreements or transactions referred to in this clause;
 
@@ -766,7 +766,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (ii) Limited suspension of certain obligations
 
-&emsp;&emsp;&emsp;In the case of a qualified financial contract referred to in clause (i), any payment or delivery obligations otherwise due froma party pursuant to the qualified financial contract shall be suspended from the time the liquidating agent is appointed until the earlier of—
+&emsp;&emsp;&emsp;In the case of a qualified financial contract referred to in clause (i), any payment or delivery obligations otherwise due from a party pursuant to the qualified financial contract shall be suspended from the time the liquidating agent is appointed until the earlier of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the time such party receives notice that such contract has been transferred pursuant to subparagraph (A); or
 
@@ -804,7 +804,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (C) Transfer of contracts subject to the rules of a clearing organization
 
-&emsp;&emsp;In the event that a conservator or liquidating agent transfers any qualified financial contract and related claims, property, and credit enhancements pursuant to subparagraph (A)(i) and such contract is cleared by or subject to the rules of a clearing organization, the clearing organization shall not be required to accept the transferee as a member by virtue of the transfer.
+&emsp;&emsp;In the event that a conservator or liquidating agent transfers any qualified financial contract and related claims, property,and credit enhancements pursuant to subparagraph (A)(i) and such contract is cleared by or subject to the rules of a clearing organization, the clearing organization shall not be required to accept the transferee as a member by virtue of the transfer.
 
 #### (D) Definitions
 
@@ -824,7 +824,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;(ii) the transfer includes any qualified financial contract,
 
-> &emsp;&emsp;the conservator or liquidating agent shall notify any person who is a party to any such contract of such transfer by 5:00 p.m. (eastern time) on the business day following the date of the appointment of the liquidatingagent in the case of a liquidation, or the business day following such transfer in the case of a conservatorship.
+> &emsp;&emsp;the conservator or liquidating agent shall notify any person who is a party to any such contract of such transfer by 5:00 p.m. (eastern time) on the business day following the date of the appointment of the liquidating agent in the case of a liquidation, or the business day following such transfer in the case of a conservatorship.
 
 #### (B) Certain rights not enforceable
 
@@ -938,7 +938,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (2) Dividends on subrogated amounts
 
-&emsp;The subrogation of the Board under paragraph (1) with respect to any insured credit union shall include the right on the part of the Board to receive the same dividends from the proceeds of the assets of such credit union as would have been payable to the accountholder on a claim for the insured deposit, but such accountholder shall retain such claim for any uninsured or unassumed portion of the deposit.
+&emsp;The subrogation of the Board under paragraph (1) with respect to any insured creditunion shall include the right on the part of the Board to receive the same dividends from the proceeds of the assets of such credit union as would have been payable to the accountholder on a claim for the insured deposit, but such accountholder shall retain such claim for any uninsured or unassumed portion of the deposit.
 
 #### (f) Valuation of claims in default
 
@@ -954,7 +954,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (A) In general
 
-&emsp;&emsp;The Board may, in its discretion and in the interests of minimizing its losses, use its own resources to make additional payments or credit additional amounts to or with respect to or for the account of any claimant or category of claimants. The Board shall not be obligated, as a result of having madeany such payment or credited any such amount to or with respect to or for the account of any claimant or category of claimants, to make payments to any other claimant or category of claimants.
+&emsp;&emsp;The Board may, in its discretion and in the interests of minimizing its losses, use its own resources to make additional payments or credit additional amounts to or with respect to or for the account of any claimant or category of claimants. The Board shall not be obligated, as a result of having made any such payment or credited any such amount to or with respect to or for the account of any claimant or category of claimants, to make payments to any other claimant or category of claimants.
 
 #### (B) Manner of payment
 
@@ -994,7 +994,7 @@ Whenever any insured State-chartered credit union shall have been closed by acti
 
 #### (B) Aggregation
 
-&emsp;&emsp;Determination of the net amount of share insurance under subparagraph (A), shall be in accordance with such regulations as the Board may prescribe, and, in determining the amount payable to any member, there shall be added together all accounts in the credit union maintained by that member for that member's own benefit, either in the member's own name or in the names of others.
+&emsp;&emsp;Determination of the net amount of share insurance under subparagraph (A), shall bein accordance with such regulations as the Board may prescribe, and, in determining the amount payable to any member, there shall be added together all accounts in the credit union maintained by that member for that member's own benefit, either in the member's own name or in the names of others.
 
 #### (C) Authority to define the extent of coverage
 
@@ -1060,7 +1060,7 @@ Whenever any insured State-chartered credit union shall have been closed by acti
 
 #### (D) Rule of construction
 
-&emsp;&emsp;No provision of this paragraph shall be construed as authorizing an insured credit union to accept the deposits of an employee benefit plan in an amount greater than such credit union is authorized to accept under any other provision of Federal or State law.
+&emsp;&emsp;No provision of this paragraph shall be construed as authorizing an insured creditunion to accept the deposits of an employee benefit plan in an amount greater than such credit union is authorized to accept under any other provision of Federal or State law.
 
 #### (5) Coverage for interest on lawyers trust accounts (IOLTA) and other similar escrow accounts
 
@@ -1084,7 +1084,7 @@ Whenever any insured State-chartered credit union shall have been closed by acti
 
 #### (i) Interest on lawyers trust account
 
-&emsp;&emsp;&emsp;The terms "interest on lawyers trust account" and "IOLTA" mean a system in which lawyers place certain client funds in interest-bearing or dividend-bearing accounts, with the interest or dividends thenused to fund programs such as legal service organizations who provide services to clients in need.
+&emsp;&emsp;&emsp;The terms "interest on lawyers trust account" and "IOLTA" mean a system in which lawyers place certain client funds in interest-bearing or dividend-bearing accounts, with the interest or dividends then used to fund programs such as legal service organizations who provide services to clients in need.
 
 #### (ii) Pass-through share insurance
 
@@ -1180,7 +1180,7 @@ Subsec. (k)(2)(A). Pub. L. 113–252, §2(2), struck out "(as determined under p
 
 Subsec. (k)(5), (6). Pub. L. 113–252, §2(3), (4), added par. (5) and redesignated former par. (5) as (6).
 
-<b>2010</b>—Subsec. (k)(1)(A). Pub. L. 111–203, §343(b)(3)(A), struck out cl. (i) designation and heading, substituted "Subject to the provisions of paragraph (2), the net amount" for "Subject to clause (ii) and the provisions of paragraph (2), the net amount", and struck out cls. (ii) and (iii) which related to insurance for noninterest-bearing transaction accounts and defined "noninterest-bearing transaction account", respectively.
+<b>2010</b>—Subsec. (k)(1)(A). Pub. L. 111–203, §343(b)(3)(A), struck out cl. (i) designation and heading, substituted "Subject to the provisions of paragraph (2), the net amount" for "Subject to clause (ii) and the provisions of paragraph (2), the net amount", and struck out cls.\(ii) and (iii) which related to insurance for noninterest-bearing transaction accounts and defined "noninterest-bearing transaction account", respectively.
 
 Pub. L. 111–203, §343(b)(1)(A), designated existing provisions as cl. (i), inserted heading, substituted "Subject to clause (ii) and the provisions of paragraph (2), the net amount" for "Subject to the provisions of paragraph (2), the net amount", and added cls. (ii) and (iii).
 

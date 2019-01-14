@@ -12,7 +12,7 @@ Establishment of Centers.—(1) The Secretary shall establish four medical emerg
 
 Mission.—The mission of the centers shall be as follows:
 
-&emsp;(1) To carry out research on, and to develop methods of detection, diagnosis, prevention, and treatment of injuries, diseases, and illnesses arising from the use of chemical, biological, radiological, incendiary or other explosive weapons or devices posing threats to the public health and safety.
+&emsp;(1) To carry out research on, and to develop methods of detection, diagnosis, prevention,and treatment of injuries, diseases, and illnesses arising from the use of chemical, biological, radiological, incendiary or other explosive weapons or devices posing threats to the public health and safety.
 
 &emsp;(2) To provide education, training, and advice to health care professionals, including health care professionals outside the Veterans Health Administration, through the National Disaster Medical System established pursuant to section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b)) <sup>1</sup> or through interagency agreements entered into by the Secretary for that purpose.
 
@@ -44,7 +44,7 @@ Research Activities.—Each center shall conduct research on improved medical pr
 
 (e)
 
-Dissemination of Research Products.—(1) The Under Secretary for Health and the Assistant Secretary with responsibility for operations, preparedness, security, and law enforcement functions shall ensure that information produced by the research, education and training,and clinical activities of centers established under this section is made available, as appropriate, to health-care providers in the United States. Dissemination of such information shall be made through publications, through programs of continuing medical and related education provided through regional medical education centers under subchapter VI of chapter 74 of this title, and through other means. Such programs of continuing medical education shall receive priority in the award of funding.
+Dissemination of Research Products.—(1) The Under Secretary for Health and the Assistant Secretary with responsibility for operations, preparedness, security, and law enforcement functions shall ensure that information produced by the research, education and training, and clinical activities of centers established under this section is made available, as appropriate, to health-care providers in the United States. Dissemination of such information shall be made through publications, through programs of continuing medical and related education provided through regional medical education centers under subchapter VI of chapter 74 of this title, and through other means. Such programs of continuing medical education shall receive priority in the award of funding.
 
 (2) The Secretary shall ensure that the work of the centers is conducted in close coordination with other Federal departments and agencies and that research products or other information of the centers shall be coordinated and shared with other Federal departments and agencies.
 
@@ -54,7 +54,7 @@ Coordination of Activities.—The Secretary shall take appropriate actions to en
 
 &emsp;(1) in close coordination with the Department of Defense, the Department of Health and Human Services, and other departments, agencies, and elements of the Government charged with coordination of plans for United States homeland security; and
 
-&emsp;(2) after taking into consideration applicable recommendations of the working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies established under section 319F(a) of the Public Health Service Act (42 U.S.C. 247d–6(a)) or any other joint interagency advisory group or committee designated by the President or the President's designee to coordinate Federal research on weapons of mass destruction.
+&emsp;(2) after taking into consideration applicable recommendations of the working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies established under section 319F(a) of the Public Health Service Act (42 U.S.C. 247d–6(a)) or anyother joint interagency advisory group or committee designated by the President or the President's designee to coordinate Federal research on weapons of mass destruction.
 
 (g)
 
@@ -100,7 +100,7 @@ Peer Review Panel.—In order to assist the Secretary of Veterans Affairs in sel
 
 "(b)
 
-Proposals.—The Secretary shall solicit proposals for designation of facilities as described in subsection (a). The announcement of the solicitation of such proposals shall be issued not later than 60 days after the date of the enactment of this Act, and the deadline for the submission of proposals in response to such solicitation shall be not later than 90 days after the date of such announcement. The peer review panel established under subsection (a) shall complete its review of the proposals and submit its recommendationsto the Secretary not later than 60 days after the date of the deadline for the submission of proposals. The Secretary shall then select the four sites for the location of such centers not later than 45 days after the date on which the peer review panel submits its recommendations to the Secretary."
+Proposals.—The Secretary shall solicit proposals for designation of facilities as described in subsection (a). The announcement of the solicitation of such proposals shall be issued not later than 60 days after the date of the enactment of this Act, and the deadline for the submission of proposals in response to such solicitation shall be not later than 90 days after the date of such announcement. The peer review panel established under subsection (a) shall complete its review of the proposals and submit its recommendations to the Secretary not later than 60 days after the date of the deadline for the submission of proposals. The Secretary shall then select the four sites for the location of such centers not later than 45 days after the date on which the peer review panel submits its recommendations to the Secretary."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

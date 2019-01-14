@@ -16,7 +16,7 @@ A school participating in the program shall make free fresh fruits and vegetable
 
 #### (2) Additional funding
 
-&emsp;Of the funds remaining after grants are made under paragraph (1), the Secretary shall allocate additional funds to each State that is operating a school lunch program under section 4 based on the proportion that—
+&emsp;Of the funds remaining after grants are made under paragraph (1), the Secretary shall allocate additional funds to each State that is operating a school lunch program under section 1753 of this title based on the proportion that—
 
 &emsp;&emsp;(A) the population of the State; bears to
 
@@ -44,7 +44,7 @@ A school participating in the program shall make free fresh fruits and vegetable
 
 &emsp;&emsp;&emsp;(ii) a certification of support for participation in the program signed by the school food manager, the school principal, and the district superintendent (or equivalent positions, as determined by the school);
 
-&emsp;&emsp;&emsp;(iii) a plan for implementation of the program, including efforts to integrate activities carried out under this section with other efforts to promote sound health andnutrition, reduce overweight and obesity, or promote physical activity; and
+&emsp;&emsp;&emsp;(iii) a plan for implementation of the program, including efforts to integrate activities carried out under this section with other efforts to promote sound health and nutrition, reduce overweight and obesity, or promote physical activity; and
 
 &emsp;&emsp;&emsp;(iv) such other information as may be requested by the Secretary; and
 
@@ -58,7 +58,7 @@ A school participating in the program shall make free fresh fruits and vegetable
 
 #### (A) In general
 
-&emsp;&emsp;Prior to making decisions regarding school participation in the program, a State agency shall inform the schools within the State with the highest proportion of free and reduced price meal eligibility, including Native American schools, of the eligibility of the schools for the program with respect to priority granted to schools with the highest proportion of free and reduced price eligibility under paragraph (1)(B).
+&emsp;&emsp;Prior to making decisions regarding school participation in the program, a State agencyshall inform the schools within the State with the highest proportion of free and reduced price meal eligibility, including Native American schools, of the eligibility of the schools for the program with respect to priority granted to schools with the highest proportion of free and reduced price eligibility under paragraph (1)(B).
 
 #### (B) Requirement
 
@@ -148,7 +148,7 @@ To the maximum extent practicable, each State agency shall ensure that in making
 
 &emsp;&emsp;A State that receives a grant under this section may reallocate any amounts made available under the grant that are not obligated or expended by a date determined by the Secretary.
 
-(June 4, 1946, ch. 281, §19, as added Pub. L. 110–234, title IV, §4304(a)(1), May 22, 2008, 122 Stat. 1127, and Pub. L. 110–246, §4(a), title IV, §4304(a)(1), June 18, 2008, 122 Stat. 1664, 1888.)
+(June 4, 1946, ch. 281, §19, as added Pub. L. 110–234, title IV, §4304(a)(1), May 22, 2008, 122Stat. 1127, and Pub. L. 110–246, §4(a), title IV, §4304(a)(1), June 18, 2008, 122 Stat. 1664, 1888.)
 
 #### References in Text
 
@@ -234,7 +234,7 @@ Pub. L. 110–234, title IV, §4304(a)(2), May 22, 2008, 122 Stat. 1130, and Pub
 
 "(A)
 
-Existing secondary schools.—Section 19(d)(1)(C) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1769a(d)(1)(C)\] (as amended byparagraph (1)) may be waived by a State until July 1, 2010, for each secondary school in the State that has been awarded funding under section 18(f) of that Act (42 U.S.C. 1769(f)) for the school year beginning July 1, 2008.
+Existing secondary schools.—Section 19(d)(1)(C) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1769a(d)(1)(C)\] (as amended by paragraph (1)) may be waived by a State until July 1, 2010, for each secondary school in the State that has been awarded funding under section 18(f) of that Act (42 U.S.C. 1769(f)) for the school year beginning July 1, 2008.
 
 "(B)
 
@@ -244,7 +244,7 @@ School year beginning july 1, 2008.—To facilitate transition from the program 
 
 &emsp;"(ii) funds made available under that Act \[42 U.S.C. 1751 et seq.\] for fiscal year 2009 may be used to support the participation of any schools selected to participate in the program authorized under section 18(f) of that Act (42 U.S.C. 1769(f)) (as in effect on the day before the date of enactment of this Act \[June 18, 2008\])."
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

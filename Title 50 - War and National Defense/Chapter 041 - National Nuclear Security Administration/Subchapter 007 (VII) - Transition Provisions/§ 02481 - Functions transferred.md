@@ -22,7 +22,7 @@ The Secretary of Energy may transfer to the Administrator any other facility, mi
 
 #### (c) Environmental remediation and waste management activities
 
-In the case of any environmental remediation and waste management activity of any element of the Administration, the Secretary of Energy may determine to transfer responsibility for that activity to another element of the Department.
+In the case of any environmental remediation and waste management activity of any elementof the Administration, the Secretary of Energy may determine to transfer responsibility for that activity to another element of the Department.
 
 #### (d) Transfer of funds
 
@@ -42,7 +42,7 @@ In the case of any environmental remediation and waste management activity of an
 
 (2) The authorized strength in civilian employees of any element of the Department of Energy from which employees are transferred under this section is reduced by the number of employees so transferred.
 
-(Pub. L. 106–65, div. C, title XXXII, §3291, Oct. 5, 1999, 113 Stat. 968; Pub. L. 112–239, div. C, title XXXI, §3132(b)(1), Jan. 2, 2013, 126 Stat. 2185;Pub. L. 113–66, div. C, title XXXI, §3145(j), Dec. 26, 2013, 127 Stat. 1072.)
+(Pub. L. 106–65, div. C, title XXXII, §3291, Oct. 5, 1999, 113 Stat. 968; Pub. L. 112–239, div. C, title XXXI, §3132(b)(1), Jan. 2, 2013, 126 Stat. 2185; Pub. L. 113–66, div. C, title XXXI, §3145(j), Dec. 26, 2013, 127 Stat. 1072.)
 
 #### Amendments
 
@@ -53,6 +53,10 @@ Subsec. (d). Pub. L. 112–239, §3132(b)(1)(B), added subsec. (d).
 Subsec. (d)(1). Pub. L. 113–66 realigned margins of concluding provisions.
 
 Subsec. (e). Pub. L. 112–239, §3132(b)(1)(B), added subsec. (e).
+
+#### Effective Date
+
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under section 2401 of this title.
 
 #### Construction
 

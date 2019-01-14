@@ -2,7 +2,7 @@
 
 In chapters 33, 45, 51, 81, and 87 of this title, "Aleutian trade" means the transportation of cargo (including fishery related products) for hire on board a fish tender vessel to or from a place in Alaska west of 153 degrees west longitude and east of 172 degrees east longitude, if that place receives weekly common carrier service by water, to or from a place in the United States (except a place in Alaska).
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 505; Pub. L. 98–369, div. A, title X, §1011(a), July 18, 1984, 98Stat. 1013; Pub. L. 99–509, title V, §5102(b)(2), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 101–595, title VI, §602(a), Nov. 16, 1990, 104 Stat. 2990; Pub. L. 109–304, §§15(3), 16(a), Oct. 6, 2006, 120 Stat. 1702, 1705.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 505; Pub. L. 98–369, div. A, title X, §1011(a), July 18, 1984, 98 Stat. 1013; Pub. L. 99–509, title V, §5102(b)(2), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 101–595, title VI, §602(a), Nov. 16, 1990, 104 Stat. 2990; Pub. L. 109–304, §§15(3), 16(a), Oct. 6, 2006, 120 Stat. 1702, 1705.)
 
 Historical and Revision Notes
 
@@ -34,5 +34,5 @@ Par. (5). Pub. L. 98–369, §1011(a)(3), redesignated par. (5) as (3).
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to fiscal years beginning after Sept. 30, 1984, see section 1013 of Pub. L. 98–369, set out as a note under section 13101 of this title.
+Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to fiscal years beginning after Sept.30, 1984, see section 1013 of Pub. L. 98–369, set out as a note under section 13101 of this title.
 

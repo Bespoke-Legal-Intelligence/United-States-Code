@@ -14,5 +14,5 @@ A prior section 2401 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 #### Effective Date
 
-Pub. L. 103–322, title XXI, §210302(c)(4), Sept. 13, 1994, 108 Stat. 2068, provided that: "The amendments made by this section \[enacting this subchapter and amending sections 10152, 10154, 10261, and 10541 of this title\] shall take effect on the date that is 60 days after the date of enactment of this Act \[Sept. 13, 1994\]."
+Pub. L. 103–322, title XXI, §210302(c)(4), Sept. 13, 1994, 108 Stat. 2068, provided that: "The amendments madeby this section \[enacting this subchapter and amending sections 10152, 10154, 10261, and 10541 of this title\] shall take effect on the date that is 60 days after the date of enactment of this Act \[Sept. 13, 1994\]."
 

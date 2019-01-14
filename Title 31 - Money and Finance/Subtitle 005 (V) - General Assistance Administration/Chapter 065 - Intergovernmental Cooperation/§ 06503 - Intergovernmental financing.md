@@ -26,7 +26,7 @@
 
 (3)(A) Amounts paid by a State under paragraph (1) as interest on funds paid to a State from a trust fund for which the Secretary is the trustee shall be credited to such trust fund.
 
-(B) Notwithstanding any other provision of this section, amounts of interest paid by a State, on funds drawn from its account in the Unemployment Trust Fund, shall be deposited into that account and shall consist of actual interest earnings by the State, less related banking costs incurred by the State, for the period for which interest is calculated.
+(B) Notwithstanding any other provision of this section, amounts of interest paid by aState, on funds drawn from its account in the Unemployment Trust Fund, shall be deposited into that account and shall consist of actual interest earnings by the State, less related banking costs incurred by the State, for the period for which interest is calculated.
 
 (d)(1) If a State disburses its own funds for program purposes in accordance with Federal law, Federal regulation, or Federal-State agreement, the State shall be entitled to interest from the time the State's funds are paid out to redeem checks or warrants, or make payments by other means, until the Federal funds are deposited to the State's bank account. The Secretary shall pay, out of any money in the Treasury not otherwise appropriated, such amounts as may be necessary for interest owed to a State under this subsection. Such interest shall be calculated, at a rate equal to the average of the bond equivalent rates of 13-week Treasury bills auctioned during the period for which interest is calculated, as determined by the Secretary.
 

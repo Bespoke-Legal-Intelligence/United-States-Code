@@ -18,7 +18,7 @@ Not later than 240 days after publication of the proposed order, the Secretary s
 
 #### (A) In general
 
-&emsp;&emsp;On issuance of an order under section 4605 of this title reflecting the amendments made by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998, the Secretary shall conduct a referendum under this section for the sole purpose of determining whether the order as amended shall become effective.
+&emsp;&emsp;On issuance of an order under section 4605 of this title reflecting the amendments madeby section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998, the Secretary shall conduct a referendum under this section for the sole purpose of determining whether the order as amended shall become effective.
 
 #### (B) Individual provisions
 
@@ -26,7 +26,7 @@ Not later than 240 days after publication of the proposed order, the Secretary s
 
 #### (2) Eligible voters
 
-&emsp;The Secretary shall conduct the referendum among persons subject to assessment underthe order that have been producers, producer-packers, importers, or handlers during the 2-calendar-year period that precedes the referendum, which period shall be considered to be the representative period.
+&emsp;The Secretary shall conduct the referendum among persons subject to assessment under the order that have been producers, producer-packers, importers, or handlers during the 2-calendar-year period that precedes the referendum, which period shall be considered to be the representative period.
 
 #### (3) Determination of quantity
 

@@ -178,9 +178,13 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 #### Social Security Contribution and Benefit Base
 
+<b>2019</b>—By notice of the Commissioner of Social Security, Oct. 24, 2018, 83 F.R. 53702, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2019 is $132,900.
+
+<b>2018</b>—By notice of the Commissioner of Social Security, Dec. 15, 2017, 82 F.R. 59937, it was determined andannounced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2018 is $128,400.
+
 <b>2017</b>—By notice of the Commissioner of Social Security, Oct. 26, 2016, 81 F.R. 74854, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2017 is $127,200.
 
-<b>2016</b>—By notice of the Commissioner of Social Security, Oct. 26, 2015, 80 F.R. 66963, it was determined andannounced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2016 is $118,500.
+<b>2016</b>—By notice of the Commissioner of Social Security, Oct. 26, 2015, 80 F.R. 66963, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2016 is $118,500.
 
 <b>2015</b>—By notice of the Commissioner of Social Security, Oct. 29, 2014, 79 F.R. 64455, as corrected Nov. 4, 2014, 79 F.R. 65472, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2015 is $118,500.
 
@@ -232,7 +236,7 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 <b>1991</b>—By notice of the Secretary of Health and Human Services, Oct. 25, 1990, 55 F.R. 45856, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1991 is $53,400.
 
-<b>1990</b>—By notice of the Secretary of Health and Human Services, Oct. 26, 1989, 54 F.R. 45803, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employmentincome earned in taxable years beginning in, 1990 is $50,400.
+<b>1990</b>—By notice of the Secretary of Health and Human Services, Oct. 26, 1989, 54 F.R. 45803, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1990 is $50,400.
 
 <b>1989</b>—By notice of the Secretary of Health and Human Services, Oct. 27, 1988, 53 F.R. 43932, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1989 is $48,000.
 

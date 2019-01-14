@@ -1,0 +1,30 @@
+### §7562. Clothing
+
+The President may prescribe the quantity and kind of clothing to be issued annually to members of the Army.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 256, §4562; renumbered §7562, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+4562
+
+10:831.
+
+R.S. 1296 (less 1st 9 words).
+
+The words "members of the Army" are substituted for the words "troops of the United States".
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–232 renumbered section 4562 of this title as this section.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+

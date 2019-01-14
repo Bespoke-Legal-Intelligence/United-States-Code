@@ -14,7 +14,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) ends with (and includes) the earlier of—
 
-&emsp;&emsp;&emsp;(i) the day on which a determination is made with respect to the eligibility of the woman for medical assistance under the State plan, or
+&emsp;&emsp;&emsp;(i) the day on which a determination is made with respect to the eligibility of thewoman for medical assistance under the State plan, or
 
 &emsp;&emsp;&emsp;(ii) in the case of a woman who does not file an application by the last day of the month following the month during which the provider makes the determination referred to in subparagraph (A), such last day; and
 

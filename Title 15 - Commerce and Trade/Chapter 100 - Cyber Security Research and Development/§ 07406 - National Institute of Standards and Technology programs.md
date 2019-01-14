@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) the number of agencies that use a particular system or security tool;
 
-&emsp;&emsp;(C) the usefulness of the standards, reference materials, or checklists to Federal agencies that are users or potential users of the system;
+&emsp;&emsp;(C) the usefulness of the standards, reference materials, or checklists to Federalagencies that are users or potential users of the system;
 
 &emsp;&emsp;(D) the effectiveness of the associated standard, reference material, or checklist in creating or enabling continuous monitoring of information security; or
 
@@ -28,7 +28,7 @@
 
 #### (4) Dissemination of standards and related materials
 
-&emsp;The Director of the National Institute of Standards and Technology shall ensure thatFederal agencies are informed of the availability of any standard, reference material, checklist, or other item developed under this subsection.
+&emsp;The Director of the National Institute of Standards and Technology shall ensure that Federal agencies are informed of the availability of any standard, reference material, checklist, or other item developed under this subsection.
 
 #### (5) Agency use requirements
 

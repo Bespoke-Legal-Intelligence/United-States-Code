@@ -36,7 +36,7 @@ The entries referred to in subsection (a) are as follows:
 
 #### Effective Date
 
-Section effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 116(a) of Pub. L. 103–465, set out as a note under section 3521 of this title.
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 116(a) of Pub. L. 103–465, set out as a note under section 3521 of this title.
 
 #### Transfer of Functions
 

@@ -26,7 +26,7 @@ In developing strategies under subsection (a), the Secretary shall consult with 
 
 #### (2) Report
 
-&emsp;The Secretary shall transmit to Congress a report on the results of the study conducted under paragraph (1), together with any recommendations of the Secretary that may be developed in a strategy under subsection (a).
+&emsp;The Secretary shall transmit to Congress a report on the results of the study conductedunder paragraph (1), together with any recommendations of the Secretary that may be developed in a strategy under subsection (a).
 
 #### (e) Great Lakes tributary model
 
@@ -69,6 +69,18 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 <b>2000</b>—Subsec. (e)(3). Pub. L. 106–541, §505(1), added par. (3).
 
 Subsec. (g). Pub. L. 106–541, §505(2), designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
+
+#### Dredged Material Management Plans
+
+Pub. L. 115–270, title I, §1116, Oct. 23, 2018, 132 Stat. 3776, provided that:
+
+"(a)
+
+In General.—For purposes of dredged material management plans initiated after the date of enactment of this Act \[Oct. 23, 2018\], the Secretary \[of the Army\] shall expedite the dredged material management plan process in order that such plans make maximum use of existing information, studies, and innovative dredged material management practices, and avoid any redundant information collection and studies.
+
+"(b)
+
+Report.—Not later than 60 days after the date of enactment of this Act, the Secretary shall submit to Congress a report on how the Corps of Engineers intends to meet the requirements of subsection (a)."
 
 #### New York-New Jersey Harbor, New York and New Jersey
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director shall, by regulation, establish annual goals for the purchase by each enterprise of the following types of mortgages for the following categories of families:
+The Director shall, by regulation, establish annual goals for the purchase by each enterpriseof the following types of mortgages for the following categories of families:
 
 #### (1) Purchase-money mortgages
 
@@ -78,7 +78,7 @@ The Director shall require each enterprise to report the number of rental housin
 
 #### (3) Authority to adjust targets
 
-&emsp;The Director may, by regulation, adjust the percentage targets previously established by regulation pursuant to paragraph (2)(B) for any year, to reflect subsequent available data and market developments.
+&emsp;The Director may, by regulation, adjust the percentage targets previously established byregulation pursuant to paragraph (2)(B) for any year, to reflect subsequent available data and market developments.
 
 #### (4) HMDA information
 
@@ -86,7 +86,7 @@ The Director shall require each enterprise to report the number of rental housin
 
 #### (5) Conforming mortgages
 
-&emsp;In determining whether a mortgage is a conforming mortgage for purposes of this paragraph, the Director shall consider the originalprincipal balance of the mortgage loan to be the principal balance as reported in the information referred to in paragraph (4), as rounded to the nearest thousand dollars.
+&emsp;In determining whether a mortgage is a conforming mortgage for purposes of this paragraph, the Director shall consider the original principal balance of the mortgage loan to be the principal balance as reported in the information referred to in paragraph (4), as rounded to the nearest thousand dollars.
 
 #### (f) Notice of determination and enterprise comment
 

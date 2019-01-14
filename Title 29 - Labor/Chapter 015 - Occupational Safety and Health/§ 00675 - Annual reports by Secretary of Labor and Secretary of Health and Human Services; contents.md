@@ -14,5 +14,5 @@ For termination, effective May 15, 2000, of provisions in this section relating 
 
 #### Study of Occupationally Related Pulmonary and Respiratory Diseases; Study To Be Completed and Report Submitted by September 1, 1979
 
-Pub. L. 95–239, §17, Mar. 1, 1978, 92 Stat. 105, authorized Secretary of Labor, in cooperation with Director of National Institute for Occupational Safety and Health,to conduct a study of occupationally related pulmonary and respiratory diseases and to complete such study and report findings to President and Congress not later than 18 months after Mar. 1, 1978.
+Pub. L. 95–239, §17, Mar. 1, 1978, 92 Stat. 105, authorized Secretary of Labor, in cooperation with Director of National Institute for Occupational Safety and Health, to conduct a study of occupationally related pulmonary and respiratory diseases and to complete such study and report findings to President and Congress not later than 18 months after Mar. 1, 1978.
 

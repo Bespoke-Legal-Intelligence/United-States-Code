@@ -72,7 +72,7 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 &emsp;(iii) the enforcement of the requirement to meet the obligation or make the payment would be unconscionable.
 
-(E) Notwithstanding any other provision of law, in any case of extreme hardship or for other good cause shown, the Secretary may waive, in whole or in part, the right of the United States to recover funds made available under this section.
+(E) Notwithstanding any other provision of law, in any case of extreme hardship or for other good cause shown, the Secretary may waive, inwhole or in part, the right of the United States to recover funds made available under this section.
 
 (F) Notwithstanding any other provision of law, with respect to a recipient of an Indian Health Scholarship, no obligation for payment may be released by a discharge in bankruptcy under title 11, unless that discharge is granted after the expiration of the 5-year period beginning on the initial date on which that payment is due, and only if the bankruptcy court finds that the nondischarge of the obligation would be unconscionable.
 
@@ -104,7 +104,7 @@ Subsec. (b)(3)(D). Pub. L. 104–313, §2(b)(1)(E), substituted "Subject to subp
 
 Pub. L. 104–313, §2(b)(1)(B), redesignated subpar. (C) as (D).
 
-Subsec. (b)(4)(B). Pub. L. 104–313, §2(b)(2)(A), substituted "the period of obligated service described inparagraph (3)(A) shall be equal to the greater of—" for "the period of obligated service specified in section 254l(f)(1)(B)(iv) of title 42 shall be equal to the greater of—" in introductory provisions.
+Subsec. (b)(4)(B). Pub. L. 104–313, §2(b)(2)(A), substituted "the period of obligated service described in paragraph (3)(A) shall be equal to the greater of—" for "the period of obligated service specified in section 254l(f)(1)(B)(iv) of title 42 shall be equal to the greater of—" in introductory provisions.
 
 Subsec. (b)(4)(C). Pub. L. 104–313, §2(b)(2)(B), made technical amendment to reference in original act which appears in text as reference to section 254l(g)(1)(B) of title 42.
 

@@ -18,7 +18,7 @@ Any program of United States Government television broadcasts to Cuba authorized
 
 (2) No Federal branch or agency shall compel an incumbent domestic licensee to change its frequency in order to eliminate objectionable interference caused by broadcasting of the Service.
 
-(3) For purposes of section 305 of the Communications Act of 1934 \[47 U.S.C. 305\], a television broadcast station established for purposes ofthis subchapter shall be treated as a government station, but the Federal Communications Commission shall exercise the authority of the President under such section to assign a frequency to such station.
+(3) For purposes of section 305 of the Communications Act of 1934 \[47 U.S.C. 305\], a television broadcast station established for purposes of this subchapter shall be treated as a government station, but the Federal Communications Commission shall exercise the authority of the President under such section to assign a frequency to such station.
 
 #### (e) Interference with domestic broadcasting
 

@@ -8,7 +8,7 @@ There is in the Administration a Deputy Administrator for Defense Programs, who 
 
 Subject to the authority, direction, and control of the Administrator, the Deputy Administrator for Defense Programs shall perform such duties and exercise such powers as the Administrator may prescribe, including the following:
 
-&emsp;(1) Maintaining and enhancing the safety, reliability, and performance of the UnitedStates nuclear weapons stockpile, including the ability to design, produce, and test, in order to meet national security requirements.
+&emsp;(1) Maintaining and enhancing the safety, reliability, and performance of the United States nuclear weapons stockpile, including the ability to design, produce, and test, in order to meet national security requirements.
 
 &emsp;(2) Directing, managing, and overseeing the nuclear weapons production facilities and the national security laboratories.
 
@@ -19,4 +19,8 @@ Subject to the authority, direction, and control of the Administrator, the Deput
 #### Amendments
 
 <b>2001</b>—Subsec. (c). Pub. L. 107–107 struck out heading and text of subsec. (c). Text read as follows: "The head of each national security laboratory and nuclear weapons production facility shall, consistent with applicable contractual obligations, report to the Deputy Administrator for Defense Programs."
+
+#### Effective Date
+
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under section 2401 of this title.
 

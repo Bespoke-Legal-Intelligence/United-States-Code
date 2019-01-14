@@ -6,7 +6,7 @@ There is created in the Department of Labor a Wage and Hour Division which shall
 
 #### (b) Appointment, selection, classification, and promotion of employees by Administrator
 
-The Administrator may, subject to the civil-service laws, appoint such employees as he deems necessary to carry out his functions and duties under this chapter and shall fix their compensation in accordance with chapter 51 andsubchapter III of chapter 53 of title 5. The Administrator may establish and utilize such regional, local, or other agencies, and utilize such voluntary and uncompensated services, as may from time to time be needed. Attorneys appointed under this section may appear for and represent the Administrator in any litigation, but all such litigation shall be subject to the direction and control of the Attorney General. In the appointment, selection, classification, and promotion of officers and employees of the Administrator, no political test or qualification shall be permitted or given consideration, but all such appointments and promotions shall be given and made on the basis of merit and efficiency.
+The Administrator may, subject to the civil-service laws, appoint such employees as he deems necessary to carry out his functions and duties under this chapter and shall fix their compensation in accordance with chapter 51 and subchapter III of chapter 53 of title 5. The Administrator may establish and utilize such regional, local, or other agencies, and utilize such voluntary and uncompensated services, as may from time to time be needed. Attorneys appointed under this section may appear for and represent the Administrator in any litigation, but all such litigation shall be subject to the direction and control of the Attorney General. In the appointment, selection, classification, and promotion of officers and employees of the Administrator, no political test or qualification shall be permitted or given consideration, but all such appointments and promotions shall be given and made on the basis of merit and efficiency.
 
 #### (c) Principal office of Administrator; jurisdiction
 
@@ -36,7 +36,7 @@ The effective date of the Fair Labor Standards Amendments of 1974, referred to i
 
 #### Codification
 
-In subsec. (a), provisions that prescribed the compensation of the Administrator were omitted to conform to the provisions of the Executive Schedule. Seesection 5316 of Title 5, Government Organization and Employees.
+In subsec. (a), provisions that prescribed the compensation of the Administrator were omitted to conform to the provisions of the Executive Schedule. See section 5316 of Title 5, Government Organization and Employees.
 
 In subsec. (b), "chapter 51 and subchapter III of chapter 53 of title 5" substituted for "the Classification Act of 1949, as amended" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
@@ -84,7 +84,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 Functions relating to enforcement and administration of equal pay provisions vested by subsecs. (d)(1) and (f) in Secretary of Labor and Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 
-"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (f), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (f), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 Functions of all other officers of Department of Labor and functions of all agencies and employees of that Department, with exception of functions vested by Administrative Procedure Act (now covered by sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees) in hearing examiners employed by Department, transferred to Secretary of Labor, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 

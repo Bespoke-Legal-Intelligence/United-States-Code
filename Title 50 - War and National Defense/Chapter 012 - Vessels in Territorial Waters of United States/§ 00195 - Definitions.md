@@ -20,7 +20,7 @@ Presidential Proclamation 5928 of December 27, 1988, referred to in par. (2), is
 
 #### Codification
 
-Section was formerly classified to section 40 of this title. In the original this section defined "United States" as used in act June 15, 1917. Other provisions of that act were contained in sections 31 to 42 of this title and certain sections of former Title 18, Criminal Code and Criminal Procedure. The definition of "United States" as used in present provisions derived from those former sections is covered by section 5 of Title 18, Crimes and Criminal Procedure.
+Section was formerly classified to section 40 of this title. In the original this section defined "UnitedStates" as used in act June 15, 1917. Other provisions of that act were contained in sections 31 to 42 of this title and certain sections of former Title 18, Criminal Code and Criminal Procedure. The definition of "United States" as used in present provisions derived from those former sections is covered by section 5 of Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
 
@@ -30,5 +30,9 @@ Section was formerly classified to section 40 of this title. In the original thi
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
+
+#### Separability
+
+Act June 15, 1917, ch. 30, title XIII, §4, 40 Stat. 231, provided: "If any clause, sentence, paragraph, or part of this Act \[see Tables for classification\] shall for any reason be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder thereof but shall be confined in its operation to the clause, sentence, paragraph, or part thereof directly involved in the controversy in which such judgment shall have been rendered."
 

@@ -28,7 +28,7 @@ Subject to subsections (c) and (d), a grant awarded for the purpose set forth in
 
 #### (1) States receiving minimum grant amount
 
-&emsp;With respect to a State that receives a grant under this subchapter (including grants received by units of local government within a State) in an amount that does not exceed 0.6 percent of the total amount made available tocarry out this subchapter for a fiscal year, not more than 80 percent of the total amount of the grant may be used for the costs of any new facility constructed as part of a program described in subsection (a).
+&emsp;With respect to a State that receives a grant under this subchapter (including grants received by units of local government within a State) in an amount that does not exceed 0.6 percent of the total amount made available to carry out this subchapter for a fiscal year, not more than 80 percent of the total amount of the grant may be used for the costs of any new facility constructed as part of a program described in subsection (a).
 
 #### (2) Other States
 

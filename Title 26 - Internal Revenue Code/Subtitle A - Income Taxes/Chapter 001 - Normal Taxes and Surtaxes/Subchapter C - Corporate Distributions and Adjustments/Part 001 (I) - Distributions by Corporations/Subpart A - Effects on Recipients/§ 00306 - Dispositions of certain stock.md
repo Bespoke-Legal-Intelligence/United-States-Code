@@ -58,7 +58,7 @@ Subsection (a) shall not apply—
 
 #### (3) Where gain or loss is not recognized
 
-&emsp;To the extent that, under any provision of this subtitle, gain or loss to the shareholder isnot recognized with respect to the disposition of the section 306 stock.
+&emsp;To the extent that, under any provision of this subtitle, gain or loss to the shareholder is not recognized with respect to the disposition of the section 306 stock.
 
 #### (4) Transactions not in avoidance
 

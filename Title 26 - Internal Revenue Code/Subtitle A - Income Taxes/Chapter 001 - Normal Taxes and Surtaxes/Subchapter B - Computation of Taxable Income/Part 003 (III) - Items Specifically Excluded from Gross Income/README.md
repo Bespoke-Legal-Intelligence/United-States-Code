@@ -53,7 +53,7 @@
 | [139\.](%C2%A7%2000139%20-%20Disaster%20relief%20payments.md) | Disaster relief payments. |
 | [139A.](%C2%A7%2000139A%20-%20Federal%20subsidies%20for%20prescription%20drug%20plans.md) | Federal subsidies for prescription drug plans. |
 | [139B.](%C2%A7%2000139B%20-%20Benefits%20provided%20to%20volunteer%20firefighters%20and%20emergency%20medical%20responders.md) | Benefits provided to volunteer firefighters and emergency medical responders. |
-| [139C.](%C2%A7%2000139C%20-%20COBRA%20premium%20assistance.md) | COBRA premium assistance. |
+| \[139C. | Repealed.\] |
 | [139D.](%C2%A7%2000139D%20-%20Indian%20health%20care%20benefits.md) | Indian health care benefits. |
 | [139E.](%C2%A7%2000139E%20-%20Indian%20general%20welfare%20benefits.md) | Indian general welfare benefits. |
 | [139F.](%C2%A7%2000139F%20-%20Certain%20amounts%20received%20by%20wrongfully%20incarcerated%20individuals.md) | Certain amounts received by wrongfully incarcerated individuals. |
@@ -63,6 +63,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(d)(7)(C), Mar. 23, 2018, 132 Stat. 1212, struck out item 139C "COBRA premium assistance".
 
 <b>2017</b>—Pub. L. 115–97, title I, §13821(a)(2), Dec. 22, 2017, 131 Stat. 2178, added item 139G.
 
@@ -259,7 +261,7 @@ No inference.—Nothing in this Act \[see Tables for classification\] shall be c
 - [&sect; 00139 - Disaster relief payments](%C2%A7%2000139%20-%20Disaster%20relief%20payments.md)
 - [&sect; 00139A - Federal subsidies for prescription drug plans](%C2%A7%2000139A%20-%20Federal%20subsidies%20for%20prescription%20drug%20plans.md)
 - [&sect; 00139B - Benefits provided to volunteer firefighters and emergency medical responders](%C2%A7%2000139B%20-%20Benefits%20provided%20to%20volunteer%20firefighters%20and%20emergency%20medical%20responders.md)
-- [&sect; 00139C - COBRA premium assistance](%C2%A7%2000139C%20-%20COBRA%20premium%20assistance.md)
+- [&sect; 00139C - Repealed. Pub. L. 115&#8211;141, div. U, title IV, &sect;401(d)(7)(C), Mar. 23, 2018, 132 Stat. 1212](%C2%A7%2000139C%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93141%2C%20div.%20U%2C%20title%20IV%2C%20%C2%A7401%28d%29%287%29%28C%29%2C%20Mar.%2023%2C%202018%2C%20132%20Stat.%201212.md)
 - [&sect; 00139D - Indian health care benefits](%C2%A7%2000139D%20-%20Indian%20health%20care%20benefits.md)
 - [&sect; 00139E - Indian general welfare benefits](%C2%A7%2000139E%20-%20Indian%20general%20welfare%20benefits.md)
 - [&sect; 00139F - Certain amounts received by wrongfully incarcerated individuals](%C2%A7%2000139F%20-%20Certain%20amounts%20received%20by%20wrongfully%20incarcerated%20individuals.md)

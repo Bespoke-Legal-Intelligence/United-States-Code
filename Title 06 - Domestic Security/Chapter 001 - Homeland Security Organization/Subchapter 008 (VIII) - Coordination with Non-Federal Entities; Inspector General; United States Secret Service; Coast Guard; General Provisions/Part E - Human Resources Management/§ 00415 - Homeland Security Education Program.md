@@ -36,7 +36,7 @@ To maximize efficiency and effectiveness in carrying out the Program, the Admini
 
 #### (A) Exemption
 
-&emsp;&emsp;An employee who leaves the service of the sponsoring agency to enter into the service of another agency in any branch of the Government shall not be required to make a payment under paragraph (1)(B), unless the head of the agency that sponsored the education of the employee notifies that employee before the date on which the employee enters the service of the other agencythat payment is required under that paragraph.
+&emsp;&emsp;An employee who leaves the service of the sponsoring agency to enter into the service of another agency in any branch of the Government shall not be required to make a payment under paragraph (1)(B), unless the head of the agency that sponsored the education of the employee notifies that employee before the date on which the employee enters the service of the other agency that payment is required under that paragraph.
 
 #### (B) Amount of payment
 

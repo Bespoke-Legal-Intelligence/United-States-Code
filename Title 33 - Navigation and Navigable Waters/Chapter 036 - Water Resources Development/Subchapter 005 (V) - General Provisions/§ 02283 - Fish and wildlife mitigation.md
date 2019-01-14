@@ -88,7 +88,7 @@ Costs incurred after November 17, 1986, including lands, easements, rights-of-wa
 
 #### (B) Consultation
 
-&emsp;&emsp;In determining whether a mitigation plan is successful under subparagraph (A), the Secretary shall consult annually with appropriate Federal agencies and each State in which the applicable project is located on at least the following:
+&emsp;&emsp;In determining whether a mitigation plan is successful under subparagraph (A), theSecretary shall consult annually with appropriate Federal agencies and each State in which the applicable project is located on at least the following:
 
 &emsp;&emsp;&emsp;(i) The ecological success of the mitigation as of the date on which the report is submitted.
 
@@ -116,7 +116,7 @@ In those cases when the Secretary, as part of any report to Congress, recommends
 
 #### (f) National benefits from enhancement measures for Atchafalaya Floodway System and Mississippi Delta Region projects
 
-Fish and wildlife enhancement measures carried out as part of the project for Atchafalaya Floodway System, Louisiana, authorized by Public Law 99–88, and the project for Mississippi Delta Region, Louisiana, authorized by the Flood Control Act of 1965, shall be considered toprovide benefits that are national for purposes of this section.
+Fish and wildlife enhancement measures carried out as part of the project for Atchafalaya Floodway System, Louisiana, authorized by Public Law 99–88, and the project for Mississippi Delta Region, Louisiana, authorized by the Flood Control Act of 1965, shall be considered to provide benefits that are national for purposes of this section.
 
 #### (g) Fish and Wildlife Coordination Act supplementation
 
@@ -192,7 +192,7 @@ The provisions of subsections (a), (b), and (d) shall be deemed to supplement th
 
 #### (9) Consideration in project development and permitting
 
-&emsp;If a programmatic environmental mitigation plan has been developed under this subsection, any Federal agency responsible for environmental reviews, permits, or approvals for a water resources development project may use the recommendations in that programmatic environmental mitigation plan when carrying out the responsibilities of the agency underthe National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+&emsp;If a programmatic environmental mitigation plan has been developed under this subsection, any Federal agency responsible for environmental reviews, permits, or approvals for a water resources development project may use the recommendations in that programmatic environmental mitigation plan when carrying out the responsibilities of the agency under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 #### (10) Preservation of existing authorities
 
@@ -262,7 +262,7 @@ The Flood Control Act of 1965, referred to in subsec. (f), is title II of Pub. L
 
 The Fish and Wildlife Coordination Act referred to in subsec. (g), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 16 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (h)(9), (10), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health andWelfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (h)(9), (10), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 
@@ -310,7 +310,7 @@ Investigation.—
 
 &emsp;"(A)
 
-In general.—The Comptroller General shall conduct an investigation of the effectiveness of the concurrent mitigation requirements of section 906 of the Water Resources Development Act of 1986 (33 U.S.C. 2283). In carrying out the investigation, the Comptroller General shall determine—
+In general.—The Comptroller General shall conduct an investigation of the effectiveness of the concurrent mitigation requirements of section 906 of the Water Resources Development Act of 1986 (33U.S.C. 2283). In carrying out the investigation, the Comptroller General shall determine—
 
 &emsp;&emsp;"(i) whether or not there are instances in which less than 50 percent of required mitigation is completed before initiation of project construction and the number of such instances; and
 

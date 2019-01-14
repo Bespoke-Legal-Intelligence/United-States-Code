@@ -72,6 +72,48 @@ Subsec. (c)(1). Pub. L. 103–160, §842(b), inserted at end "Such term does not
 
 Pub. L. 102–484, div. A, title VIII, §836(b), Oct. 23, 1992, 106 Stat. 2463, provided that: "Section 2536 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into after the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\]."
 
+#### Removal of National Interest Determination Requirements for Certain Entities
+
+Pub. L. 115–232, div. A, title VIII, §842, Aug. 13, 2018, 132 Stat. 1878, provided that:
+
+"(a)
+
+In General.—Effective October 1, 2020, a covered NTIB entity operating under a special security agreement pursuant to the National Industrial Security Program shall not be required to obtain a national interest determination as a condition for access to proscribed information.
+
+"(b)
+
+Acceleration Authorized.—Notwithstanding the effective date of this section, the Secretary of Defense, in consultation with the Director of the Information Security Oversight Office, may waive the requirement to obtain a national interest determination for a covered NTIB entity operating under such a special security agreement that has—
+
+&emsp;"(1) a demonstrated successful record of compliance with the National Industrial Security Program; and
+
+&emsp;"(2) previously been approved for access to proscribed information.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered ntib entity.—The term 'covered NTIB entity' means a person that is a subsidiary located in the United States—
+
+&emsp;&emsp;"(A) for which the ultimate parent company and any intermediate parent companies of such subsidiary are located in a country that is part of the national technology and industrial base (as defined in section 2500 of title 10, United States Code); and
+
+&emsp;&emsp;"(B) that is subject to the foreign ownership, control, or influence requirements of the National Industrial Security Program.
+
+&emsp;"(2)
+
+Proscribed information.—The term 'proscribed information' means information that is—
+
+&emsp;&emsp;"(A) classified at the level of top secret;
+
+&emsp;&emsp;"(B) communications security information (excluding controlled cryptographic items when un-keyed or utilized with unclassified keys);
+
+&emsp;&emsp;"(C) restricted data (as defined in section 11 of the Atomic Energy Act of 1954 (42 U.S.C. 2014));
+
+&emsp;&emsp;"(D) special access program information under section 4.3 of Executive Order No. 13526 (75 Fed. Reg. 707; 50 U.S.C. 3161 note) or successor order; or
+
+&emsp;&emsp;"(E) designated as sensitive compartmented information."
+
 #### Review Regarding Applicability of Foreign Ownership, Control, or Influence Requirements of National Industrial Security Program to National Technology and Industrial Base Companies
 
 Pub. L. 115–91, div. A, title XVII, §1712, Dec. 12, 2017, 131 Stat. 1811, provided that:
@@ -102,7 +144,7 @@ Determinations of eligibility.—Under a program established under this subsecti
 
 Exercise of authority.—The authority under this subsection may be exercised beginning on the date that is the later of—
 
-&emsp;&emsp;"(A) the date that is 60 days after the Secretary of Defense, in consultation with the Secretary of State and the Director of the Information Security Oversight Office, submits to the appropriate congressional committees a report summarizing the review conducted under subsection (a); and
+&emsp;&emsp;"(A) the date that is 60 days after the Secretary of Defense, in consultation with the Secretary ofState and the Director of the Information Security Oversight Office, submits to the appropriate congressional committees a report summarizing the review conducted under subsection (a); and
 
 &emsp;&emsp;"(B) the date that is 30 days after the Secretary of Defense, in consultation with the Secretary of State and the Director of the Information Security Oversight Office, submits to the appropriate congressional committees a written notification of a determination made under paragraph (2), including a discussion of the issues related to the foreign ownership or control of the organization that were considered as part of the determination.
 

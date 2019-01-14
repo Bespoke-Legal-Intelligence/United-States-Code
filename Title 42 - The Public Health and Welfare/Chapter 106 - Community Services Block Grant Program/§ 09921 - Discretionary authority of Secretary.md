@@ -38,7 +38,7 @@
 
 #### (4) Neighborhood innovation projects
 
-&emsp;The Secretary shall provide the assistance described in paragraph (1) for neighborhood innovation projects, which shall include providing grants to neighborhood-based private, nonprofit organizations to test or assist in the development of new approaches or methods that will aid in overcoming special problems identified by communities or neighborhoods or otherwise assist in furthering the purposes of this chapter, and which may include providing assistance for projects that are designed to serve low-income individuals and families who are not being effectively served by other programs.
+&emsp;The Secretary shall provide the assistance described in paragraph (1) for neighborhood innovation projects, which shall include providing grants to neighborhood-based private, nonprofit organizations to test or assist in the development of new approaches or methods that will aid in overcoming special problems identified by communities or neighborhoods or otherwise assist in furthering the purposes ofthis chapter, and which may include providing assistance for projects that are designed to serve low-income individuals and families who are not being effectively served by other programs.
 
 #### (b) Evaluation
 
@@ -60,9 +60,13 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 #### Procedures To Permit Grant Funds or Intangible Property Acquired by Grant Funds To Become Sole Property of Grantees
 
-Pub. L. 115–31, div. H, title II, May 5, 2017, 131 Stat. 533, provided in part: "That the Secretary \[of Health and Human Services\] shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act \[Community Services Block Grant Act, 42 U.S.C. 9921\] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act \[42 U.S.C. 9921(a)(2)(A)\]: <i>Provided further</i>, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: <i>Provided further</i>, That these procedures shall apply to such grant funds made available after November 29, 1999".
+Pub. L. 115–245, div. B, title II, Sept. 28, 2018, 132 Stat. 3084, provided in part: "That the Secretary \[of Health and Human Services\] shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act \[Community Services Block Grant Act, 42 U.S.C. 9921\] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act \[42 U.S.C. 9921(a)(2)(A)\]: <i>Provided further</i>, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: <i>Provided further</i>, That these procedures shall apply to such grant funds made available after November 29, 1999".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–141, div. H, title II, Mar. 23, 2018, 132 Stat. 730.
+
+Pub. L. 115–31, div. H, title II, May 5, 2017, 131 Stat. 533.
 
 Pub. L. 114–113, div. H, title II, Dec. 18, 2015, 129 Stat. 2614.
 

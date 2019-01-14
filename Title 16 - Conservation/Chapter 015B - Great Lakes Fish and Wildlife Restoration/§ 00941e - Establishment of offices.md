@@ -12,7 +12,7 @@
 
 #### (3) Responsibilities
 
-&emsp;The responsibilities of the Lower Great Lakes Fish and Wildlife Conservation Office shall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Lower Great Lakes.
+&emsp;The responsibilities of the Lower Great Lakes Fish and Wildlife Conservation Officeshall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Lower Great Lakes.
 
 #### (b) Upper Great Lakes Fish and Wildlife Conservation Offices
 

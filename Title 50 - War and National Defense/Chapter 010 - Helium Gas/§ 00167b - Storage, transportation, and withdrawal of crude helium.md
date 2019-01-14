@@ -48,7 +48,7 @@ In subsec. (c)(2), "chapters 1 to 11 of title 40 and division C (except sections
 
 #### Prior Provisions
 
-A prior section 4 of act Mar. 3, 1925, related to exportation of helium gas and was classified to section 165 of this title, prior to repeal by act Aug. 26, 1954, ch. 937, title V, §542(a)(13), 68 Stat. 861.
+A prior section 4 of act Mar. 3, 1925, related to exportation of helium gas and was classified to section 165 ofthis title, prior to repeal by act Aug. 26, 1954, ch. 937, title V, §542(a)(13), 68 Stat. 861.
 
 #### Amendments
 

@@ -16,7 +16,7 @@ Any person who violates any provision of this chapter or the rules or regulation
 
 #### (3) Controlling person liability
 
-&emsp;No person shall be liable under this section solely by reason of employing another person who is liable under this section, but the liability of a controlling person under this section shall be subject to section 78t(a) of this title.
+&emsp;No person shall be liable under this section solely by reason of employing another personwho is liable under this section, but the liability of a controlling person under this section shall be subject to section 78t(a) of this title.
 
 #### (4) Statute of limitations
 

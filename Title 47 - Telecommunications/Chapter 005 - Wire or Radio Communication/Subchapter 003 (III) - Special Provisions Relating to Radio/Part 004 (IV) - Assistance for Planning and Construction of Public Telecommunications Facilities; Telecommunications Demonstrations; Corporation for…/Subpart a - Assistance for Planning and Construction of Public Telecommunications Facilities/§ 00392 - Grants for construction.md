@@ -2,7 +2,7 @@
 
 #### (a) Applications for grants
 
-For each project for the construction of public telecommunications facilities there shall be submitted to the Secretary an application for a grant containing such information with respect to such project as the Secretary may require, including the total cost of such project, the amount of the grant requested for such project, and a 5-year plan outlining the applicant's projected facilities requirements and the projectedcosts of such facilities requirements. Each applicant shall also provide assurances satisfactory to the Secretary that—
+For each project for the construction of public telecommunications facilities there shall be submitted to the Secretary an application for a grant containing such information with respect to such project as the Secretary may require, including the total cost of such project, the amount of the grant requested for such project, and a 5-year plan outlining the applicant's projected facilities requirements and the projected costs of such facilities requirements. Each applicant shall also provide assurances satisfactory to the Secretary that—
 
 &emsp;(1) the applicant is (A) a public broadcast station; (B) a noncommercial telecommunications entity; (C) a system of public telecommunications entities; (D) a nonprofit foundation, corporation, institution, or association organized primarily for educational or cultural purposes; or (E) a State or local government (or any agency thereof), or a political or special purpose subdivision of a State;
 
@@ -52,7 +52,7 @@ Each recipient of assistance under this subpart shall keep such records as may b
 
 #### (i) Accessibility of records
 
-The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for thepurpose of audit and examination to any books, documents, papers, and records of any recipient of assistance under this subpart that are pertinent to assistance received under this subpart.
+The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of any recipient of assistance under this subpart that are pertinent to assistance received under this subpart.
 
 (June 19, 1934, ch. 652, title III, §392, as added Pub. L. 87–447, May 1, 1962, 76 Stat. 65; amended Pub. L. 90–129, title I, §§102, 103(b)–(e), 104, Nov. 7, 1967, 81 Stat. 365–367; Pub. L. 94–309, §4, June 5, 1976, 90 Stat. 683; Pub. L. 95–567, title I, §103(a), Nov. 2, 1978, 92 Stat. 2405; Pub. L. 97–35, title XII, §1223, Aug. 13, 1981, 95 Stat. 725.)
 
@@ -116,7 +116,7 @@ Pub. L. 95–567, title I, §103(b), Nov. 2, 1978, 92 Stat. 2407, provided that:
 
 &emsp;"(A) make such determinations as may be necessary with regard to the transfer of the functions transferred to the Secretary of Commerce from the Secretary of Health, Education, and Welfare by paragraph (1); and
 
-&emsp;"(B) make such additional incidental dispositions of personnel, assets, liabilities, contracts, property,records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, arising from, available for, or to be made available for, or in connection with, the functions described in subparagraph (A);
+&emsp;"(B) make such additional incidental dispositions of personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, arising from, available for, or to be made available for, or in connection with, the functions described in subparagraph (A);
 
 > as the Director may deem necessary to accomplish the purposes of this Act \[see Short Title of 1978 Amendment note set out under section 609 of this title\] and the amendments made by this Act."
 

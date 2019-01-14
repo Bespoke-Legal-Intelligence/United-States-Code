@@ -58,7 +58,7 @@ Not later than 1 year after December 19, 2007, the Secretary shall develop a met
 
 #### (2) State coordination
 
-&emsp;The Secretary shall consult with State geological surveys and other relevant entities toensure, to the maximum extent practicable, the usefulness and success of the assessment.
+&emsp;The Secretary shall consult with State geological surveys and other relevant entities to ensure, to the maximum extent practicable, the usefulness and success of the assessment.
 
 #### (d) External review and publication
 

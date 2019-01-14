@@ -2,12 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [6651\.](%C2%A7%2006651%20-%20Failure%20to%20file%20tax%20return%20or%20to%20pay%20tax.md) | Failure to file tax return or pay tax.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [6651\.](%C2%A7%2006651%20-%20Failure%20to%20file%20tax%20return%20or%20to%20pay%20tax.md) | Failure to file tax return or to pay tax. |
 | [6652\.](%C2%A7%2006652%20-%20Failure%20to%20file%20certain%20information%20returns%2C%20registration%20statements%2C%20etc.md) | Failure to file certain information returns, registration statements, etc. |
 | [6653\.](%C2%A7%2006653%20-%20Failure%20to%20pay%20stamp%20tax.md) | Failure to pay stamp tax. |
 | [6654\.](%C2%A7%2006654%20-%20Failure%20by%20individual%20to%20pay%20estimated%20income%20tax.md) | Failure by individual to pay estimated income tax. |
@@ -20,6 +15,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(298), Mar. 23, 2018, 132 Stat. 1198, substituted "Failure to file tax return or to pay tax" for "Failure to file tax return or pay tax" in item 6651.
 
 <b>1996</b>—Pub. L. 104–188, title I, §1704(t)(19), Aug. 20, 1996, 110 Stat. 1888, struck out item 6662 "Applicable rules".
 
@@ -40,8 +37,6 @@
 <b>1974</b>—Pub. L. 93–406, title II, §1031(b)(1)(B)(ii), Sept. 2, 1974, 88 Stat. 946, inserted ", registration statements, etc." in item 6652.
 
 <b>1969</b>—Pub. L. 91–172, title IX, §943(c)(5), 83 Stat. 729, inserted "or pay tax" in item 6651.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

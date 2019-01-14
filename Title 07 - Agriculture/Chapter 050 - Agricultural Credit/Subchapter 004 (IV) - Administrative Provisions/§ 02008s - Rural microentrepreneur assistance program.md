@@ -124,9 +124,13 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) are seeking a loan from the microenterprise development organization under paragraph (3).
 
-#### (ii) Maximum amount of grant
+#### (ii) Amount of grant
 
-&emsp;&emsp;&emsp;A microenterprise development organization shall be eligible to receive an annual grant under this subparagraph in an amount equal to not more than 25 percent of the total outstanding balance of microloans made by the microenterprise development organization under paragraph (3), as of the date the grant is awarded.
+&emsp;&emsp;&emsp;A microenterprise development organization shall be eligible to receive an annual grant under this subparagraph in an amount equal to not less than 20 percent and not more than 25 percent of the total outstanding balance of microloans made by the microenterprise development organization under paragraph (3), as of the date the grant is awarded, subject to—
+
+&emsp;&emsp;&emsp;&emsp;(I) satisfactory performance by the microenterprise development organization under this section, and
+
+&emsp;&emsp;&emsp;&emsp;(II) the availability of funding.
 
 #### (C) Administrative expenses
 
@@ -156,29 +160,21 @@ In this section:
 
 &emsp;At a minimum, not later than December 1 of each fiscal year, a microenterprise development organization that receives a loan or grant under this section shall provide to the Secretary such information as the Secretary may require to ensure that assistance provided under this section is used for the purposes for which the loan or grant was made.
 
-#### (d) Funding
+#### (d) Authorization of appropriations
 
-#### (1) Mandatory funding
+There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2019 through 2023.
 
-&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry outthis section, to remain available until expended—
-
-&emsp;&emsp;(A) $4,000,000 for each of fiscal years 2009 through 2011;
-
-&emsp;&emsp;(B) $3,000,000 for fiscal year 2012; and
-
-&emsp;&emsp;(C) $3,000,000 for each of fiscal years 2014 through 2018.
-
-#### (2) Discretionary funding
-
-&emsp;In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2009 through 2018.
-
-(Pub. L. 87–128, title III, §379E, as added Pub. L. 110–234, title VI, §6022, May 22, 2008, 122 Stat. 1173, and Pub. L. 110–246, §4(a), title VI, §6022, June 18, 2008, 122 Stat. 1664, 1934; amended Pub. L. 113–79, title VI, §6023, Feb. 7, 2014, 128 Stat. 848.)
+(Pub. L. 87–128, title III, §379E, as added Pub. L. 110–234, title VI, §6022, May 22, 2008, 122 Stat. 1173, and Pub. L. 110–246, §4(a), title VI, §6022, June 18, 2008, 122 Stat. 1664, 1934; amended Pub. L. 113–79, title VI, §6023, Feb. 7, 2014, 128 Stat. 848; Pub. L. 115–334, title VI, §6422, Dec. 20, 2018, 132 Stat. 4765.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(4)(B)(ii). Pub. L. 115–334, §6422(1), substituted "Amount" for "Maximum amount" in heading and, in text, inserted "not less than 20 percent and" before "not more than 25 percent", substituted ", subject to—" for period at end, and added subcls. (I) and (II).
+
+Subsec. (d). Pub. L. 115–334, §6422(2), added subsec. (d) and struck out former subsec. (d) which related to funding for fiscal years 2009 through 2018.
 
 <b>2014</b>—Subsec. (d)(1)(C). Pub. L. 113–79, §6023(1), added subpar. (C).
 

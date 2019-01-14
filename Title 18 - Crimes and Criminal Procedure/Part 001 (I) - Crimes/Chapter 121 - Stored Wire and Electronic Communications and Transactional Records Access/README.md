@@ -14,10 +14,13 @@
 | [2710\.](%C2%A7%2002710%20-%20Wrongful%20disclosure%20of%20video%20tape%20rental%20or%20sale%20records.md) | Wrongful disclosure of video tape rental or sale records. |
 | [2711\.](%C2%A7%2002711%20-%20Definitions%20for%20chapter.md) | Definitions for chapter. |
 | [2712\.](%C2%A7%2002712%20-%20Civil%20actions%20against%20the%20United%20States.md) | Civil actions against the United States. |
+| [2713\.](%C2%A7%2002713%20-%20Required%20preservation%20and%20disclosure%20of%20communications%20and%20records.md) | Required preservation and disclosure of communications and records. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. V, §103(a)(2), Mar. 23, 2018, 132 Stat. 1214, added item 2713.
 
 <b>2002</b>—Pub. L. 107–273, div. B, title IV, §4005(b), Nov. 2, 2002, 116 Stat. 1812, made technical correction to directory language of Pub. L. 107–56, title II, §223(c)(2), Oct. 26, 2001, 115 Stat. 295, effective Oct. 26, 2001. See 2001 Amendment note below.
 
@@ -46,3 +49,4 @@ Pub. L. 100–618, §2(b), Nov. 5, 1988, 102 Stat. 3197, added item 2710 and red
 - [&sect; 02710 - Wrongful disclosure of video tape rental or sale records](%C2%A7%2002710%20-%20Wrongful%20disclosure%20of%20video%20tape%20rental%20or%20sale%20records.md)
 - [&sect; 02711 - Definitions for chapter](%C2%A7%2002711%20-%20Definitions%20for%20chapter.md)
 - [&sect; 02712 - Civil actions against the United States](%C2%A7%2002712%20-%20Civil%20actions%20against%20the%20United%20States.md)
+- [&sect; 02713 - Required preservation and disclosure of communications and records](%C2%A7%2002713%20-%20Required%20preservation%20and%20disclosure%20of%20communications%20and%20records.md)

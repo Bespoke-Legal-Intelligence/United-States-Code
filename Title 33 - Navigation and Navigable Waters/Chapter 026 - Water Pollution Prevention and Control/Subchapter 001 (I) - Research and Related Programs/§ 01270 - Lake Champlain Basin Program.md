@@ -150,7 +150,7 @@ Subsec. (i). Pub. L. 107–303, §202(8), substituted "section—" for "section 
 
 #### Federal Program Coordination
 
-Section 304 of Pub. L. 101–596, as amended by Pub. L. 104–127, title III, §336(a)(2)(F), Apr. 4, 1996, 110 Stat. 1005, provided that:
+Pub. L. 101–596, title III, §304, Nov. 16, 1990, 104 Stat. 3008, as amended by Pub. L. 104–127, title III, §336(a)(2)(F), Apr. 4, 1996, 110 Stat. 1005; Pub. L. 115–334, title II, §2301(d)(2)(F), Dec. 20, 2018, 132 Stat. 4555, provided that:
 
 "(a)
 
@@ -158,7 +158,7 @@ Designation of Lake Champlain as a Priority Area Under the Environmental Quality
 
 &emsp;"(1)
 
-In general.—Notwithstanding any other provision of law, the Lake Champlain basin, as defined under section 120(h) of the Federal Water Pollution Control Act \[33 U.S.C. 1270(h)\], shall be designated by the Secretary of Agriculture as a priority area under the environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa et seq.\].
+In general.—Notwithstanding any other provision of law, the Lake Champlain basin, as defined under section 120(h) of the Federal Water Pollution Control Act \[33 U.S.C. 1270(h)\], shall be designated by the Secretary of Agriculture as a priority area under the environmental quality incentives program established under subchapter A of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa et seq.\].
 
 &emsp;"(2)
 
@@ -212,7 +212,7 @@ Resource conservation program.—The Secretary of the Interior, acting through t
 
 "(d)
 
-Authorizations.—(1) There is authorized to be appropriated to the Department of Agriculture$2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsection (a) of this section.
+Authorizations.—(1) There is authorized to be appropriated to the Department of Agriculture $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsection (a) of this section.
 
 "(2) There is authorized to be appropriated to the Department of \[the\] Interior $1,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsections (b) and (c) of this section."
 

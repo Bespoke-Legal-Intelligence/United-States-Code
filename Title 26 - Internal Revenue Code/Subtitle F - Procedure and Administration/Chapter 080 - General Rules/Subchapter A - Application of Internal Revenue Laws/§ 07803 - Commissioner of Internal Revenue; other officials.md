@@ -70,7 +70,7 @@
 
 #### (2) Duties
 
-&emsp;The Chief Counsel shall be the chief law officer for the Internal Revenue Service and shallperform such duties as may be prescribed by the Secretary, including the duty—
+&emsp;The Chief Counsel shall be the chief law officer for the Internal Revenue Service and shall perform such duties as may be prescribed by the Secretary, including the duty—
 
 &emsp;&emsp;(A) to be legal advisor to the Commissioner and the Commissioner's officers and employees;
 
@@ -150,7 +150,7 @@
 
 #### (i) Objectives
 
-&emsp;&emsp;&emsp;Not later than June 30 of each calendar year, the National Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the objectives of the Office of the Taxpayer Advocate for the fiscal year beginning in such calendar year. Any such report shall contain full and substantiveanalysis, in addition to statistical information.
+&emsp;&emsp;&emsp;Not later than June 30 of each calendar year, the National Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the objectives of the Office of the Taxpayer Advocate for the fiscal year beginning in such calendar year. Any such report shall contain full and substantive analysis, in addition to statistical information.
 
 #### (ii) Activities
 
@@ -242,7 +242,7 @@
 
 &emsp;&emsp;(A) an evaluation of the compliance of the Internal Revenue Service with—
 
-&emsp;&emsp;&emsp;(i) restrictions under section 1204 of the Internal Revenue Service Restructuring and Reform Act of 1998 on the use of enforcement statistics to evaluate Internal Revenue Service employees;
+&emsp;&emsp;&emsp;(i) restrictions under section 1204 of the Internal Revenue Service Restructuringand Reform Act of 1998 on the use of enforcement statistics to evaluate Internal Revenue Service employees;
 
 &emsp;&emsp;&emsp;(ii) restrictions under section 7521 on directly contacting taxpayers who have indicated that they prefer their representatives be contacted;
 

@@ -2,7 +2,7 @@
 
 #### (a) Subchapter II
 
-No funds provided under subchapter II of this chapter shall be used to develop or undertake assessments that will be used to make decisionsregarding the graduation, grade promotion, or retention of students for 5 years after March 31, 1994.
+No funds provided under subchapter II of this chapter shall be used to develop or undertake assessments that will be used to make decisions regarding the graduation, grade promotion, or retention of students for 5 years after March 31, 1994.
 
 #### (b) Subchapter III <sup>1</sup>
 

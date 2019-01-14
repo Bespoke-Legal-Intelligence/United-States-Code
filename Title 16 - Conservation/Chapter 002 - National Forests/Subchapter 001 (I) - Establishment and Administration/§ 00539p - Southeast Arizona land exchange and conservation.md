@@ -50,7 +50,7 @@ In this section:
 
 #### (11) Resolution mine plan of operations
 
-&emsp;The term "Resolution mine plan of operations" means the mine plan of operations submitted to the Secretary by Resolution Copper in November, 2013, including any amendments or supplements.
+&emsp;The term "Resolution mine plan of operations" means the mine plan of operationssubmitted to the Secretary by Resolution Copper in November, 2013, including any amendments or supplements.
 
 #### (c) Land exchange
 
@@ -140,7 +140,7 @@ In this section:
 
 #### (iii) Disposition and use of proceeds
 
-&emsp;&emsp;&emsp;Any amounts received by the United States under this subparagraph shall be deposited in the fund established under section 484a of this title and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
+&emsp;&emsp;&emsp;Any amounts received by the United States under this subparagraph shall be deposited in the fund established undersection 484a of this title and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
 
 #### (C) Surplus of non-Federal land
 
@@ -154,7 +154,7 @@ In this section:
 
 #### (A) Permits
 
-&emsp;&emsp;Subject to the provisions of this paragraph and notwithstanding any withdrawal of theOak Flat Withdrawal Area from the mining, mineral leasing, or public land laws, the Secretary, upon enactment of this Act, shall issue to Resolution Copper—
+&emsp;&emsp;Subject to the provisions of this paragraph and notwithstanding any withdrawal of the Oak Flat Withdrawal Area from the mining, mineral leasing, or public land laws, the Secretary, upon enactment of this Act, shall issue to Resolution Copper—
 
 &emsp;&emsp;&emsp;(i) if so requested by Resolution Copper, within 30 days of such request, a special use permit to carry out mineral exploration activities under the Oak Flat Withdrawal Area from existing drill pads located outside the Area, if the activities would not disturb the surface of the Area; and
 
@@ -294,7 +294,7 @@ In this section:
 
 #### (2) Payment on production
 
-&emsp;If the cumulative production of valuable locatable minerals produced in commercial quantities from the Federal land conveyed to Resolution Copper under subsection (c) exceeds the quantity of production of locatable minerals from the Federal land used in the income capitalization approach analysis prepared under subsection (c)(4)(C), ResolutionCopper shall pay to the United States, by not later than March 15 of each applicable calendar year, a value adjustment payment for the quantity of excess production at the same rate assumed for the income capitalization approach analysis prepared under subsection (c)(4)(C).
+&emsp;If the cumulative production of valuable locatable minerals produced in commercial quantities from the Federal land conveyed to Resolution Copper under subsection (c) exceeds the quantity of production of locatable minerals from the Federal land used in the income capitalization approach analysis prepared under subsection (c)(4)(C), Resolution Copper shall pay to the United States, by not later than March 15 of each applicable calendar year, a value adjustment payment for the quantity of excess production at the same rate assumed for the income capitalization approach analysis prepared under subsection (c)(4)(C).
 
 #### (3) State law unaffected
 
@@ -384,7 +384,7 @@ Subject to valid existing rights, Apache Leap and any land acquired by the Unite
 
 &emsp;&emsp;(B) The reversionary interest and any reserved mineral interest of the United States in the approximately 265 acres of land located in Pinal County, Arizona, as depicted on the map entitled "Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Reversionary Interest–Superior Airport" and dated March 2011.
 
-&emsp;&emsp;(C) The approximately 250 acres of land located in Pinal County, Arizona, as depictedon the map entitled "Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Parcel–Superior Airport Contiguous Parcels" and dated March 2011.
+&emsp;&emsp;(C) The approximately 250 acres of land located in Pinal County, Arizona, as depicted on the map entitled "Southeast Arizona Land Exchange and Conservation Act of 2011–Federal Parcel–Superior Airport Contiguous Parcels" and dated March 2011.
 
 #### (2) Payment
 
@@ -446,7 +446,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(9), is
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2)(B)(ii), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-The Geothermal Steam Act of 1970, referred to in subsec. (i)(1)(B), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (i)(1)(B), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat.1566, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 
 #### Codification
 

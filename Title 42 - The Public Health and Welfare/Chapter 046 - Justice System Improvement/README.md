@@ -272,7 +272,7 @@
 
 |  |  |
 | :--- | ---: |
-| 3797a to 3797e. | Transferred or Omitted. |
+| 3797a to 3797e. | Repealed, Transferred, or Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -296,7 +296,7 @@
 
 |  |
 | :--- |
-| 3797s to 3797s–6. Transferred or Omitted. |
+| 3797s to 3797s–6. Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

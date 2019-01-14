@@ -1,6 +1,6 @@
 ### §6316. United States Code Annotated or United States Code Service; procurement for Senators
 
-In lieu of the volumes of the Code of Laws of the United States, and the supplements thereto, supplied a Senator under section 212 of title 1, the Secretary of the Senate is authorized and directed to supply to a Senator upon written request of, and as specified by, that Senator—
+In lieu of the volumes of the Code of Laws of the United States, and the supplements thereto,supplied a Senator under section 212 of title 1, the Secretary of the Senate is authorized and directed to supply to a Senator upon written request of, and as specified by, that Senator—
 
 &emsp;(1) one copy of each of the volumes of the United States Code Annotated being published at the time the Senator takes office, and, as long as that Senator holds office, one copy of each replacement volume, each annual pocket part, and each pamphlet supplementing each such pocket part to the United States Code Annotated; or
 

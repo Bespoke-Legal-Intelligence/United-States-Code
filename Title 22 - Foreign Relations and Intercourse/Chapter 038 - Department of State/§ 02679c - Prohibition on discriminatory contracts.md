@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-(1) Except for real estate leases and as provided in subsection (b), the Department of Statemay not enter into any contract that expends funds appropriated to the Department of State for an amount in excess of the small purchase threshold (as defined in section 134 of title 41— <sup>1</sup>
+(1) Except for real estate leases and as provided in subsection (b), the Department of State may not enter into any contract that expends funds appropriated to the Department of State for an amount in excess of the small purchase threshold (as defined in section 134 of title 41— <sup>1</sup>
 
 &emsp;(A) with a foreign person that complies with the Arab League boycott of Israel, or
 
@@ -10,11 +10,11 @@
 
 (2) For purposes of this section—
 
-&emsp;(A) a foreign person complies with the boycott of Israel by Arab League countries when that foreign person takes or knowingly agrees to take any action, with respect to the boycott of Israel by Arab League countries, which section 4607(a) of title 50 prohibits a United States person from taking, except that for purposes of this paragraph, the term "United States person" as used in subparagraphs (B) and (C) of section 4607(a)(1) of title 50 shall be deemed to mean "person"; and
+&emsp;(A) a foreign person complies with the boycott of Israel by Arab League countries when that foreign person takes or knowingly agrees to take any action, with respect to the boycott of Israel by Arab League countries, which section 4607(a) <sup>2</sup> of title 50 prohibits a United States person from taking, except that for purposes of this paragraph, the term "United States person" as used in subparagraphs (B) and (C) of section 4607(a)(1) <sup>2</sup> of title 50 shall be deemed to mean "person"; and
 
-&emsp;(B) the term "foreign person" means any person other than a United States person as defined in section 4618(2) of title 50.
+&emsp;(B) the term "foreign person" means any person other than a United States person as defined in section 4618(2) <sup>2</sup> of title 50.
 
-(3) For purposes of paragraph (1), a foreign person shall be deemed not to comply with the boycott of Israel by Arab League countries if that person, or the Secretary of State or his designee on the basis of available information, certifies that the person violates or otherwise does not comply with the boycott of Israel by Arab League countries by taking any actions prohibited by section 4607(a) of title 50. Certification by the Secretary of State or his designee may occur only 30 days after notice has been given to the Congress that this certification procedure will be utilized at a specific overseas mission.
+(3) For purposes of paragraph (1), a foreign person shall be deemed not to comply with the boycott of Israel by Arab League countries if that person, or the Secretary of State or his designee on the basis of available information, certifies that the person violates or otherwise does not comply with the boycott of Israel by Arab League countries by taking any actions prohibited by section 4607(a) <sup>2</sup> of title 50. Certification by the Secretary of State or his designee may occur only 30 days after notice has been given to the Congress that this certification procedure will be utilized at a specific overseas mission.
 
 #### (b) Waiver by Secretary of State
 
@@ -44,7 +44,7 @@ Certification.—By submitting this offer, the Offeror certifies that it is not�
 
 (2) An Offeror would not be required to include the certification required by paragraph (1), if the Offeror is deemed not to comply with the Arab League boycott of Israel by the Secretary of State or a designee on the basis of available information. Certification by the Secretary of State or a designee may occur only 30 days after notice has been given to the Congress that this certification procedure will be utilized at a specific overseas mission.
 
-(3) The Secretary of State shall ensure that all State Department contract solicitations include a detailed explanation of the requirements of section 4607(a) of title 50.
+(3) The Secretary of State shall ensure that all State Department contract solicitations include a detailed explanation of the requirements of section 4607(a) <sup>2</sup> of title 50.
 
 #### (d) Review and termination
 
@@ -56,7 +56,11 @@ Certification.—By submitting this offer, the Offeror certifies that it is not�
 
 #### References in Text
 
-Section 8(a) of the Export Administration Act of 1979 (50 U.S.C. App. 2407(a)), referred to in subsec. (c)(1) in the quoted clause, is section 8(a) of Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 521, which was editorially transferred to section 4607(a) of Title 50, War and National Defense.
+Section 4607(a) of title 50, referred to in subsecs. (a)(2)(A), (3) and (c)(3), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
+
+Section 4618(2) of title 50, referred to in subsec. (a)(2)(B), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
+
+Section 8(a) of the Export Administration Act of 1979 (50 U.S.C. App. 2407(a)), referred to in subsec. (c)(1) in the quoted clause, is section 8(a) of Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 521, which was editorially transferred to section 4607(a) of Title 50, War and National Defense, and was subsequently repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Codification
 
@@ -75,4 +79,6 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 Pub. L. 103–236, title V, §561, Apr. 30, 1994, 108 Stat. 483, provided that: "This part \[part C (§§561–565) of title V of Pub. L. 103–236, enacting this section and provisions set out as a note under section 2751 of this title\] may be cited as the 'Anti-Economic Discrimination Act of 1994'."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "41)—".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

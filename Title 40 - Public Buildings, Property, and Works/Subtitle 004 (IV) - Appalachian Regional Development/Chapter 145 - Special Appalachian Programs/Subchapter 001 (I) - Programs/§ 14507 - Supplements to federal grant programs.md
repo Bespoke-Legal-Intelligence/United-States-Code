@@ -146,7 +146,7 @@ The Public Health Service Act, referred to in subsec. (a)(1)(A)(vi), is act July
 
 The Housing and Community Development Act of 1974, referred to in subsec. (a)(1)(A)(viii), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
-The Communications Act of 1934, referred to in subsec. (a)(1)(A)(ix), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended. Part IV of title III of the Act is classified generally to part IV (§390 et seq.) of subchapter III of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (a)(1)(A)(ix), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended. Part IV of title III of the Act is classified generally to part IV (§390 et seq.) of subchapter III of chapter 5 of Title 47, Telecommunications. Forcomplete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 #### Amendments
 

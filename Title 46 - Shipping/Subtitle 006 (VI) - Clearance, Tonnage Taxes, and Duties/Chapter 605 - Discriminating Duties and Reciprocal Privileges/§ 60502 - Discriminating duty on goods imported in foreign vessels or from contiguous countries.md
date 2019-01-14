@@ -10,7 +10,7 @@ Imposition of Duty.—A discriminating duty of 10 percent ad valorem (in additio
 
 &emsp;&emsp;(B)(i) is owned only by citizens of the United States; and
 
-&emsp;&emsp;(ii) after entering a port of the United States, becomes documented as a vessel of the United States before leaving that port; or
+&emsp;&emsp;(ii) after entering a port of the United States, becomes documented as a vessel ofthe United States before leaving that port; or
 
 &emsp;(2) produced or manufactured in a foreign country not contiguous to the United States and imported from a country contiguous to the United States, unless imported in the usual course of strictly retail trade.
 

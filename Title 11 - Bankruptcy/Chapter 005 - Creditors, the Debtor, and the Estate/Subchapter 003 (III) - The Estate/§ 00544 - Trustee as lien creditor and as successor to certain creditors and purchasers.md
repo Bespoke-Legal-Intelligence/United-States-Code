@@ -26,7 +26,7 @@ The House amendment deletes section 544(c) of the House bill.
 
 Subsection (a) is the "strong arm clause" of current law, now found in Bankruptcy Act §70c \[section 110(c) of former title 11\]. It gives the trustee the rights of a creditor on a simple contract with a judicial lien on the property of the debtor as of the date of the petition; of a creditor with a writ of execution against the property of the debtor unsatisfied as of the date of the petition; and a bona fide purchaser of the real property of the debtor as of the date of the petition. "Simple contract" as used here is derived from Bankruptcy Act §60a(4) \[section 96(a)(4) of former title 11\]. The third status, that of a bona fide purchaser of real property, is new.
 
-Subsection (b) is derived from current section 70e \[section 110(e) of former title 11\]. It gives the trustee the rights of actual unsecured creditors under applicable law to void transfers. It follows <i>Moore v. Bay</i>, 284 U.S. 4 (1931), and overrules those cases that hold section 70e gives the trustee the rights of secured creditors.
+Subsection (b) is derived from current section 70e \[section 110(e) of former title 11\]. It gives the trusteethe rights of actual unsecured creditors under applicable law to void transfers. It follows <i>Moore v. Bay</i>, 284 U.S. 4 (1931), and overrules those cases that hold section 70e gives the trustee the rights of secured creditors.
 
 #### Amendments
 

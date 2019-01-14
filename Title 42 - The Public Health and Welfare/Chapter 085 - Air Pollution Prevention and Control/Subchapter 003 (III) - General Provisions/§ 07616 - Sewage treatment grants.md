@@ -14,7 +14,7 @@ The Administrator may withhold, condition, or restrict the making of any grant f
 
 &emsp;(3) the construction of such treatment works would create new sewage treatment capacity which—
 
-&emsp;&emsp;(A) may reasonably be anticipated to cause or contribute to, directly or indirectly, an increase in emissions of any air pollutant in excess of the increase providedfor under the provisions referred to in paragraph (2) for any such area, or
+&emsp;&emsp;(A) may reasonably be anticipated to cause or contribute to, directly or indirectly, an increase in emissions of any air pollutant in excess of the increase provided for under the provisions referred to in paragraph (2) for any such area, or
 
 &emsp;&emsp;(B) would otherwise not be in conformity with the applicable implementation plan, or
 

@@ -28,7 +28,7 @@
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–85, §1107(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 105–85, §1107(c)(1), substituted "approved places of public accommodation" for "places of public accommodation that meet the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974" and struck out "as defined in section 4 of the Federal Fire Prevention and Control Act of 1974" after "that is not a State".
+Subsec. (b). Pub. L. 105–85, §1107(c)(1), substituted "approved places of public accommodation" for "places of public accommodation that meet the requirements of the fire prevention and control guidelines describedin section 29 of the Federal Fire Prevention and Control Act of 1974" and struck out "as defined in section 4 of the Federal Fire Prevention and Control Act of 1974" after "that is not a State".
 
 Pub. L. 105–85, §1107(a)(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 

@@ -14,7 +14,7 @@ There is hereby established a commission to be known as the Commission on Safegu
 
 &emsp;(C) Two shall be appointed by the chairman of the Committee on Armed Services of the House of Representatives, in consultation with the ranking member of that Committee.
 
-&emsp;(D) One shall be appointed by the ranking member of the Committee on Armed Servicesof the House of Representatives, in consultation with the chairman of that Committee.
+&emsp;(D) One shall be appointed by the ranking member of the Committee on Armed Services of the House of Representatives, in consultation with the chairman of that Committee.
 
 &emsp;(E) One shall be appointed by the Secretary of Defense.
 
@@ -66,7 +66,7 @@ There is hereby established a commission to be known as the Commission on Safegu
 
 #### (d) Reports
 
-(1) Not later than February 15 each year, the Commission shall submit to the Secretary of Energy and to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the activities of the Commission during the preceding year. The report shall be submitted in unclassified form, but may include a classified annex.
+(1) Not later than February 15 each year, the Commission shall submit to the Secretary of Energy and to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the activities of the Commission duringthe preceding year. The report shall be submitted in unclassified form, but may include a classified annex.
 
 (2) Each report—
 
@@ -84,7 +84,7 @@ There is hereby established a commission to be known as the Commission on Safegu
 
 (2) The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission.
 
-(3)(A) The Commission may, without regard to the civil service laws and regulations, appointand terminate such personnel as may be necessary to enable the Commission to perform its duties.
+(3)(A) The Commission may, without regard to the civil service laws and regulations, appoint and terminate such personnel as may be necessary to enable the Commission to perform its duties.
 
 (B) The Commission may fix the compensation of the personnel of the Commission without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates.
 

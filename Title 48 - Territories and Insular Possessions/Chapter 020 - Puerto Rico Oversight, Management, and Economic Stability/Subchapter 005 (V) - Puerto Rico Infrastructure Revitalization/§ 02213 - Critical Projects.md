@@ -48,7 +48,7 @@
 
 #### (C) Implementation and prioritization
 
-&emsp;&emsp;The Revitalization Coordinator shall require Puerto Rico Agencies to implement the Expedited Permitting Process for Critical Projects. Critical Projects shall be prioritized to the maximum extent possible in each Puerto Rico Agency regardless of anyagreements transferring or delegating permitting authority to any other Territorial Instrumentality or municipality.
+&emsp;&emsp;The Revitalization Coordinator shall require Puerto Rico Agencies to implement the Expedited Permitting Process for Critical Projects. Critical Projects shall be prioritized to the maximum extent possible in each Puerto Rico Agency regardless of any agreements transferring or delegating permitting authority to any other Territorial Instrumentality or municipality.
 
 #### (b) Critical Project Report
 

@@ -6,5 +6,5 @@ Section 5611 was editorially reclassified as section 11111 of Title 34, Crime Co
 
 #### Education and Outreach to Trafficking Survivors
 
-Pub. L. 114–22, title I, §119, May 29, 2015, 129 Stat. 247, which required the Attorney General to make available, on the website of the Office of Juvenile Justiceand Delinquency Prevention, educational and outreach information for trafficking victim advocates, crisis hotline personnel, foster parents, law enforcement personnel, and crime survivors, was editorially reclassified as section 20710 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 114–22, title I, §119, May 29, 2015, 129 Stat. 247, which required the Attorney General to make available, on the website of the Office of Juvenile Justice and Delinquency Prevention, educational and outreach information for trafficking victim advocates, crisis hotline personnel, foster parents, law enforcement personnel, and crime survivors, was editorially reclassified as section 20710 of Title 34, Crime Control and Law Enforcement.
 

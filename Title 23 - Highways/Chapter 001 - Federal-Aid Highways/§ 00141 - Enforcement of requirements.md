@@ -1,6 +1,6 @@
 ### §141. Enforcement of requirements
 
-(a) Each State shall certify to the Secretary before January 1 of each year that it is enforcing all State laws respecting maximum vehiclesize and weights permitted on the Federal-aid primary system, the Federal-aid urban system, and the Federal-aid secondary system, including the Interstate System in accordance with section 127 of this title. Each State shall also certify that it is enforcing and complying with the provisions of section 127(d) of this title and section 31112 of title 49.
+(a) Each State shall certify to the Secretary before January 1 of each year that it is enforcing all State laws respecting maximum vehicle size and weights permitted on the Federal-aid primary system, the Federal-aid urban system, and the Federal-aid secondary system, including the Interstate System in accordance with section 127 of this title. Each State shall also certify that it is enforcing and complying with the provisions of section 127(d) of this title and section 31112 of title 49.
 
 (b)(1) Each State shall submit to the Secretary such information as the Secretary shall, by regulation, require as necessary, in his opinion, to verify the certification of such State under subsection (b) of this section.
 
@@ -56,7 +56,7 @@ Pub. L. 104–59, title II, §205(d)(3), Nov. 28, 1995, 109 Stat. 577, provided 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriatedor made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 #### Effective Date of 1978 Amendment
 

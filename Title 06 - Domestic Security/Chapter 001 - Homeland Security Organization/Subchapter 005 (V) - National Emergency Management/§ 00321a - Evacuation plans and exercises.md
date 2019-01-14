@@ -20,7 +20,7 @@ In developing the mass evacuation plans authorized under subsection (a), each St
 
 &emsp;(3) identify primary and alternative evacuation routes and methods to increase evacuation capabilities along such routes such as conversion of two-way traffic to one-way evacuation routes;
 
-&emsp;(4) identify evacuation transportation modes and capabilities, including the use of mass and public transit capabilities, and coordinating and integrating evacuation plans for all populations including for those individuals located in hospitals, nursing homes, and other institutional living facilities;
+&emsp;(4) identify evacuation transportation modes and capabilities, including the use of mass andpublic transit capabilities, and coordinating and integrating evacuation plans for all populations including for those individuals located in hospitals, nursing homes, and other institutional living facilities;
 
 &emsp;(5) develop procedures for informing the public of evacuation plans before and during an evacuation, including individuals—
 

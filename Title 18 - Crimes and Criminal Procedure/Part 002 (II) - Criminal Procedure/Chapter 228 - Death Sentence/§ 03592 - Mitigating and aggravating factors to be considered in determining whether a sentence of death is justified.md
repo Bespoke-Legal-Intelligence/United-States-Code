@@ -50,7 +50,7 @@ Grave risk to national security.—In the commission of the offense the defendan
 
 &emsp;(3)
 
-Grave risk of death.—In the commission of the offense the defendant knowinglycreated a grave risk of death to another person.
+Grave risk of death.—In the commission of the offense the defendant knowingly created a grave risk of death to another person.
 
 > The jury, or if there is no jury, the court, may consider whether any other aggravating factor for which notice has been given exists.
 
@@ -174,7 +174,7 @@ Using minors in trafficking.—The offense, or a continuing criminal enterprise 
 
 &emsp;(8)
 
-Lethal adulterant.—The offense involved the importation, manufacture, or distribution of a controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)), mixed with a potentially lethal adulterant, and the defendant was aware of the presence of the adulterant.
+Lethal adulterant.—The offense involved the importation, manufacture, or distribution of a controlled substance (as defined in section 102 of the Controlled Substances Act\(21 U.S.C. 802)), mixed with a potentially lethal adulterant, and the defendant was aware of the presence of the adulterant.
 
 > The jury, or if there is no jury, the court, may consider whether any other aggravating factor for which notice has been given exists.
 

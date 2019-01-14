@@ -6,7 +6,7 @@
 
 (c)(1) A person may file a complaint with the Board under section 11701(b) of this title or bring a civil action under subsection (b) of this section to enforce liability against a rail carrier providing transportation subject to the jurisdiction of the Board under this part.
 
-(2) When the Board makes an award under subsection (b) of this section, the Board shall order the rail carrier to pay the amount awarded by a specific date. The Board may order a rail carrier providing transportation subject to the jurisdiction of the Board under this part to pay damages only when the proceeding is on complaint. The person for whose benefit an order of the Board requiring the payment of money is made may bring a civil action to enforce that order under this paragraph if the rail carrier does not paythe amount awarded by the date payment was ordered to be made.
+(2) When the Board makes an award under subsection (b) of this section, the Board shall order the rail carrier to pay the amount awarded by a specific date. The Board may order a rail carrier providing transportation subject to the jurisdiction of the Board under this part to pay damages only when the proceeding is on complaint. The person for whose benefit an order of the Board requiring the payment of money is made may bring a civil action to enforce that order under this paragraph if the rail carrier does not pay the amount awarded by the date payment was ordered to be made.
 
 (d)(1) When a person begins a civil action under subsection (b) of this section to enforce an order of the Board requiring the payment of damages by a rail carrier providing transportation subject to the jurisdiction of the Board under this part, the text of the order of the Board must be included in the complaint. In addition to the district courts of the United States, a State court of general jurisdiction having jurisdiction of the parties has jurisdiction to enforce an order under this paragraph. The findings and order of the Board are competent evidence of the facts stated in them. Trial in a civil action brought in a district court of the United States under this paragraph is in the judicial district—
 
@@ -18,7 +18,7 @@
 
 > In a civil action under this paragraph, the plaintiff is liable for only those costs that accrue on an appeal taken by the plaintiff.
 
-(2) All parties in whose favor the award was made may be joined as plaintiffs in a civil action brought in a district court of the United States under this subsection and all the rail carriers that are parties to the order awarding damages may be joined as defendants. Trial in the action is in the judicial district in which any one of the plaintiffs could bring the action against any one of the defendants. Process may be served on a defendant at its principal operating office when that defendant is not in the district in which the action is brought. A judgment ordering recovery may be made in favor of any of those plaintiffs against the defendant found to be liable to that plaintiff.
+(2) All parties in whose favor the award was made may be joined as plaintiffs in a civil action brought in a district court of the United States under this subsection and all the rail carriers that are parties to the order awarding damages may be joined as defendants. Trial in the action is in the judicial district in which any one of the plaintiffs could bring the action against any one of the defendants. Process maybe served on a defendant at its principal operating office when that defendant is not in the district in which the action is brought. A judgment ordering recovery may be made in favor of any of those plaintiffs against the defendant found to be liable to that plaintiff.
 
 (3) The district court shall award a reasonable attorney's fee as a part of the damages for which a rail carrier is found liable under this subsection. The district court shall tax and collect that fee as a part of the costs of the action.
 
@@ -29,4 +29,8 @@
 Provisions similar to those in this section were contained in section 11705 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 A prior section 11704, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1451, related to actions by private persons to enjoin abandonment of service, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

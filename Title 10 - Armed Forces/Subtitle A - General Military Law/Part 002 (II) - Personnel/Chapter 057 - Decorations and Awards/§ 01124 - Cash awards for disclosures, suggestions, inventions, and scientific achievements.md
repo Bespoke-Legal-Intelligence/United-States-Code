@@ -8,7 +8,7 @@
 
 (d) A cash award under this section is in addition to the pay and allowances of the recipient. The acceptance of such an award shall constitute—
 
-&emsp;(1) an agreement by the member that the use by the United States of any idea, method, or device for which the award is made may not be the basis of a claim against the United States by the member, his heirs, or assigns, or by any person whose claim is alleged to be derived through the member; and
+&emsp;(1) an agreement by the member that the use by the United States of any idea, method, ordevice for which the award is made may not be the basis of a claim against the United States by the member, his heirs, or assigns, or by any person whose claim is alleged to be derived through the member; and
 
 &emsp;(2) a warranty by the member that he has not at the time of acceptance transferred, assigned, or otherwise divested himself of legal or equitable title in any property right residing in the idea, method, or device for which the award is made.
 

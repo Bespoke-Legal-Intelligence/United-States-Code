@@ -6,7 +6,7 @@ There is hereby established in the Department of the Interior and the Department
 
 #### (b) Participants
 
-The Corps shall consist of individuals between the ages of 16 and 30, inclusive, who are enrolled as participants in the Corps by the Secretary. To be eligible for enrollment in the Corps, an individual shall satisfy the criteria specified in section 12591(b) of title 42. The Secretary may enroll such individuals in the Corps without regard to the civil service and classification laws, rules, or regulations of the United States. The Secretary may establish a preference for the enrollment in the Corps of individuals who are economically, physically, or educationally disadvantaged.
+The Corps shall consist of individuals between the ages of 16 and 30, inclusive, who are enrolledas participants in the Corps by the Secretary. To be eligible for enrollment in the Corps, an individual shall satisfy the criteria specified in section 12591(b) of title 42. The Secretary may enroll such individuals in the Corps without regard to the civil service and classification laws, rules, or regulations of the United States. The Secretary may establish a preference for the enrollment in the Corps of individuals who are economically, physically, or educationally disadvantaged.
 
 #### (c) Qualified youth or conservation corps
 
@@ -18,7 +18,7 @@ The Corps shall consist of individuals between the ages of 16 and 30, inclusive,
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of entering into contracts and cooperative agreements under paragraph\(1), the Secretary may give preference to qualified youth or conservation corps located in a specific area that have a substantial portion of members who are economically, physically, or educationally disadvantaged to carry out projects within the area.
+&emsp;&emsp;For purposes of entering into contracts and cooperative agreements under paragraph (1), the Secretary may give preference to qualified youth or conservation corps located in a specific area that have a substantial portion of members who are economically, physically, or educationally disadvantaged to carry out projects within the area.
 
 #### (B) Priority projects
 

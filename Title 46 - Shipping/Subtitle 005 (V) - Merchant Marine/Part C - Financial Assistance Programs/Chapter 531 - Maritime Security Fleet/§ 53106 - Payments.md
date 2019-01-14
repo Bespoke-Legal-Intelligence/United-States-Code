@@ -8,19 +8,11 @@ Annual Payment.—
 
 In general.—The Secretary, subject to the availability of appropriations and the other provisions of this section, shall pay to the contractor for an operating agreement, for each vessel that is covered by the operating agreement, an amount equal to—
 
-&emsp;&emsp;(A) $2,600,000 for each of fiscal years 2006, 2007, and 2008;
+&emsp;&emsp;(A) $5,000,000 for each of fiscal years 2018, 2019, and 2020;
 
-&emsp;&emsp;(B) $2,900,000 for each of fiscal years 2009, 2010, and 2011;
+&emsp;&emsp;(B) $5,233,463 for fiscal year 2021; and
 
-&emsp;&emsp;(C) $3,100,000 for each of fiscal years 2012, 2013, 2014, and 2015;
-
-&emsp;&emsp;(D) $4,999,950 for fiscal year 2017;
-
-&emsp;&emsp;(E) $5,000,000 for each of fiscal years 2018, 2019, and 2020;
-
-&emsp;&emsp;(F) $5,233,463 for fiscal year 2021; and
-
-&emsp;&emsp;(G) $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
+&emsp;&emsp;(C) $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
 
 &emsp;(2)
 
@@ -48,7 +40,7 @@ General Limitations.—The Secretary of Transportation shall not make any paymen
 
 Reductions in Payments.—With respect to payments under this chapter for a vessel covered by an operating agreement, the Secretary—
 
-&emsp;(1) except as provided in paragraph (2), shall not reduce any payment for the operation ofthe vessel to carry military or other preference cargoes under section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10, or any other cargo preference law of the United States;
+&emsp;(1) except as provided in paragraph (2), shall not reduce any payment for the operation of the vessel to carry military or other preference cargoes under section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10, or any other cargo preference law of the United States;
 
 &emsp;(2) shall not make any payment for any day that the vessel is engaged in transporting more than 7,500 tons of civilian bulk preference cargoes pursuant to section 55302(a), 55305, or 55314 of this title that is bulk cargo; and
 
@@ -70,9 +62,11 @@ Limitation on application.—Paragraph (1) shall not apply to any person that is
 
 Participates in a noncontiguous domestic trade defined.—In this subsection the term "participates in a noncontiguous domestic trade" means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–113, div. O, title I, §101(e)(1), Dec. 18, 2015, 129 Stat. 2988; Pub. L. 114–328, div. C, title XXXV, §3502(b), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–91, div. C, title XXXV, §3503(b), Dec. 12, 2017, 131 Stat. 1911.)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–113, div. O, title I, §101(e)(1), Dec. 18, 2015, 129 Stat. 2988; Pub. L. 114–328, div. C, title XXXV, §3502(b), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–91, div. C, titleXXXV, §3503(b), Dec. 12, 2017, 131 Stat. 1911; Pub. L. 115–232, div. C, title XXXV, §3546(o), Aug. 13, 2018, 132 Stat. 2327.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–232 redesignated subpars. (E) to (G) as (A) to (C), respectively, and struck out former subpars. (A) to (D) which set out payment amounts for fiscal years 2006 to 2017.
 
 <b>2017</b>—Subsec. (b). Pub. L. 115–91, §3503(b)(1), substituted "paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel," for "section 53105(a)(1)".
 

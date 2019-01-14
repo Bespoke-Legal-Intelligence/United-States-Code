@@ -20,7 +20,7 @@ Offsets for Delinquent Travel Card Charges.—(1) The Secretary of Defense may r
 
 (3) The amount of pay deducted and withheld from the pay owed to an employee or member with respect to a pay period under paragraph (1) may not exceed 15 percent of the disposable pay of the employee or member for that pay period, except that a higher amount may be deducted and withheld with the written consent of the employee or member.
 
-(4) The Secretary of Defense shall prescribe procedures for deducting and withholding amounts from pay under this subsection. The procedures shall be substantially equivalent to the procedures under section 3716 of title 31.
+(4) The Secretary of Defense shall prescribe procedures for deducting and withholding amounts from pay under this subsection. Theprocedures shall be substantially equivalent to the procedures under section 3716 of title 31.
 
 (c)
 

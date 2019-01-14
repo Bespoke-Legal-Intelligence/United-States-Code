@@ -14,7 +14,7 @@ Ex. Ord. No. 12729, Sept. 24, 1990, 55 F.R. 39389, which established the Preside
 
 #### Executive Order No. 12900
 
-Ex. Ord. No. 12900, Feb. 22, 1994, 59 F.R. 9061, which established in the Department of Education the President's Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiativeon Educational Excellence for Hispanic Americans and directed the Secretary of Education to submit to the President an Annual Federal Plan to Promote Hispanic American Educational Excellence and the Director of the Office of Personnel Management to develop a program to promote recruitment of Hispanic students for positions in the Federal Government, was revoked by Ex. Ord. No. 13230, §9, Oct. 12, 2001, 66 F.R. 52843, formerly set out below.
+Ex. Ord. No. 12900, Feb. 22, 1994, 59 F.R. 9061, which established in the Department of Education the President's Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans and directed the Secretary of Education to submit to the President an Annual Federal Plan to Promote Hispanic American Educational Excellence and the Director of the Office of Personnel Management to develop a program to promote recruitment of Hispanic students for positions in the Federal Government, was revoked by Ex. Ord. No. 13230, §9, Oct. 12, 2001, 66 F.R. 52843, formerly set out below.
 
 #### Executive Order No. 13230
 
@@ -40,7 +40,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. At more than 52 million strong, including 4 million in Puerto Rico, Hispanics constitute the country's largest and fastest growing minority group. They have had a profound and positive impact on our country through, among other things, their community's strong commitment to family, faith, hard work, and service. Many Hispanics contribute to this Nation bilingually in the English and Spanish languages—a true asset for our country in an increasingly global, interdependent world.
 
-Hispanic students are the largest minority group in our Nation's schools, numbering more than 11 million in our public elementary and secondary school system, and constituting more than 22 percent of all pre-K-12 students. Hispanic students face educational challenges of crisis proportions. Fewer than half of all Hispanic children participate in early childhood education programs, and far too few Hispanic students graduate from high school; of those who do complete high school, many are not adequately prepared for college. Only 12 percent of adult Hispanics have a bachelor's degree, and just 3 percent have completed graduate or professional degree programs. At the same time, large numbers of Hispanic adults lack the education or literacy skills they need to advance their careers; they also are less likely than members of other groups to have taken job- or career-related courses, with the exception of basic education classes, such as English as a second language.
+Hispanic students are the largest minority group in our Nation's schools, numbering more than 11 million in our public elementary and secondary school system, and constituting more than 22 percent of all pre-K-12 students. Hispanic students face educational challenges of crisis proportions. Fewer than half of all Hispanic children participate in early childhood education programs, and far too few Hispanic students graduate from high school; of those who do complete high school, many are not adequately prepared for college. Only 12 percent of adult Hispanics have a bachelor's degree, and just 3 percent have completed graduate or professional degree programs. At the same time, large numbers ofHispanic adults lack the education or literacy skills they need to advance their careers; they also are less likely than members of other groups to have taken job- or career-related courses, with the exception of basic education classes, such as English as a second language.
 
 Our country was built on and continues to thrive on its diversity, and there is no doubt that the future of the United States is inextricably linked to the future of the Hispanic community. To reach the ambitious education goals we have set for our Nation, as well as to ensure equality of opportunity for all, we must provide the opportunities that will enable Hispanic students to raise their educational attainment at every level of the American education system. America's future competitiveness in our global economy will be substantially enhanced by improving educational outcomes for Hispanics.
 
@@ -182,7 +182,7 @@ Sec. 2. <i>White House Initiative on Educational Excellence for African American
 
 &emsp;(ii) increasing the percentage of African American children who enter kindergarten ready for success by improving their access to high-quality programs and services that enable early learning and development of children from birth through age 5;
 
-&emsp;(iii) decreasing the disproportionate number of referrals of African American children from general education to special education by addressing the rootcauses of the referrals and eradicating discriminatory referrals;
+&emsp;(iii) decreasing the disproportionate number of referrals of African American children from general education to special education by addressing the root causes of the referrals and eradicating discriminatory referrals;
 
 &emsp;(iv) implementing successful and innovative education reform strategies and practices in America's public schools to ensure that African American students receive a rigorous and well-rounded education in safe and healthy environments, and have access to high-level, rigorous course work and support services that will prepare them for college, a career, and civic participation;
 
@@ -232,7 +232,7 @@ Sec. 3. <i>President's Advisory Commission on Educational Excellence for African
 
 (1) the development, implementation, and coordination of educational programs and initiatives at the Department and other agencies to improve educational opportunities and outcomes for African Americans of all ages;
 
-(2) efforts to increase the participation of the African American community and institutions that serve theAfrican American community in the Department's programs and in education programs at other agencies;
+(2) efforts to increase the participation of the African American community and institutions that serve the African American community in the Department's programs and in education programs at other agencies;
 
 (3) efforts to engage the philanthropic, business, nonprofit, and education communities in a national dialogue on the mission and objectives of this order; and
 
@@ -280,7 +280,7 @@ Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30,
 
 #### Creating and Expanding Ladders of Opportunity for Boys and Young Men of Color
 
-Memorandum of President of the United States, Feb. 27, 2014, 79 F.R. 12923, as amended by Memorandum of President of the United States, §1, Feb. 13, 2017, 82 F.R. 7623, provided:
+Memorandum of President of the United States, Feb. 27, 2014, 79 F.R. 12923, as amended by Memorandum of President of the United States, §1, Jan. 13, 2017, 82 F.R. 7623, provided:
 
 Memorandum for the Heads of Executive Departments and Agencies
 
@@ -290,7 +290,7 @@ Many boys and young men of color will arrive at kindergarten less prepared than 
 
 By focusing on the critical challenges, risk factors, and opportunities for boys and young men of color at key life stages, we can improve their long-term outcomes and ability to contribute to the Nation's competiveness, economic mobility and growth, and civil society. Unlocking their full potential will benefit not only them, but all Americans.
 
-Therefore, I am establishing the Task Force on Improving the Lives of Boys and Young Men of Color and Underserved Youth, an interagency effort to improve measurably the expected educational and life outcomes for and address the persistent opportunity gaps faced by boys and young men of color. The Task Force will help us determine the public and private efforts thatare working and how to expand upon them, how the Federal Government's own policies and programs can better support these efforts, and how to better involve State and local officials, the private sector, and the philanthropic community.
+Therefore, I am establishing the Task Force on Improving the Lives of Boys and Young Men of Color and Underserved Youth, an interagency effort to improve measurably the expected educational and life outcomes for and address the persistent opportunity gaps faced by boys and young men of color. The Task Force will help us determine the public and private efforts that are working and how to expand upon them, how the Federal Government's own policies and programs can better support these efforts, and how to better involve State and local officials, the private sector, and the philanthropic community.
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
 
@@ -348,7 +348,7 @@ Section 1. <i>Task Force on Improving the Lives of Boys and Young Men of Color a
 
 Sec. 2. <i>Mission and Function of the Task Force</i>. (a) The Task Force shall, consistent with applicable law, work across executive departments and agencies to:
 
-(i) develop a comprehensive public Web site, to be maintained by the Department of Education as appropriate, that will assess, on an ongoing basis and in consultation with the Office of Management and Budget, including the Office of the Chief Statistician of the United States, as appropriate, critical indicators of life outcomes for boys and young men of color (and other ethnic, income, and relevant subgroups) in absolute and relative terms;
+(i) develop a comprehensive public Web site, to be maintained by the Department of Education as appropriate, that will assess, on an ongoing basis and in consultation with the Office of Management and Budget, including the Office of the Chief Statistician of theUnited States, as appropriate, critical indicators of life outcomes for boys and young men of color (and other ethnic, income, and relevant subgroups) in absolute and relative terms;
 
 (ii) assess the impact of Federal policies, regulations, and programs of general applicability on boys and young men of color, so as to develop proposals that will enhance positive outcomes and eliminate or reduce negative ones;
 

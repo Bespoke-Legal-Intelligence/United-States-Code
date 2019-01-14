@@ -82,7 +82,7 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 #### (1) Consultation
 
-&emsp;In developing recommendations to present to the Congress with respect to the goals, and plans for meeting the goals, for human generic drug activities for the first 5 fiscal years after fiscal year 2022, and for the reauthorization ofthis subpart for such fiscal years, the Secretary shall consult with—
+&emsp;In developing recommendations to present to the Congress with respect to the goals, and plans for meeting the goals, for human generic drug activities for the first 5 fiscal years after fiscal year 2022, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
 
 &emsp;&emsp;(A) the Committee on Energy and Commerce of the House of Representatives;
 
@@ -110,7 +110,7 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 #### (3) Periodic consultation
 
-&emsp;Not less frequently than once every month during negotiations with the generic drug industry, the Secretary shall hold discussions with representatives of patient and consumer advocacy groups to continue discussions of their views on the reauthorization and their suggestions for changes to this subpart as expressed under paragraph (2).
+&emsp;Not less frequently than once every month during negotiations with the generic drug industry, the Secretary shall hold discussions with representatives of patient and consumer advocacy groups to continue discussions oftheir views on the reauthorization and their suggestions for changes to this subpart as expressed under paragraph (2).
 
 #### (4) Public review of recommendations
 

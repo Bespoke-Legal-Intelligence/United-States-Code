@@ -8,7 +8,7 @@
 
 &emsp;(3) the goals and strategy formulated pursuant to section 300u(a)(1) of this title, the models and standards developed under this subchapter, and the results of the study required by subsection (b) of this section; and
 
-&emsp;(4) such recommendations as the Secretary considers appropriate for legislation respecting health information and health promotion, preventive health services, and education in the appropriate use of health care, including recommendations for revisions to and extension of this subchapter.
+&emsp;(4) such recommendations as the Secretary considers appropriate for legislation respecting health information and health promotion, preventive health services, and education inthe appropriate use of health care, including recommendations for revisions to and extension of this subchapter.
 
 (b) The Secretary shall conduct a study of health education services and preventive health services to determine the coverage of such services under public and private health insurance programs, including the extent and nature of such coverage and the cost sharing requirements required by such programs for coverage of such services.
 

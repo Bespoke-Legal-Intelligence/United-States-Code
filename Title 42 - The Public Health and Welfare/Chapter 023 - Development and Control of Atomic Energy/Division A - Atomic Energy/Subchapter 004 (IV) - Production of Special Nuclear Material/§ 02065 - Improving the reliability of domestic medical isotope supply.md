@@ -90,7 +90,7 @@ The Secretary shall carry out a program to provide assistance for—
 
 #### (5) Authorized use of funds
 
-&emsp;Subject to the availability of appropriations, the Secretary may obligate and expend funds received under leases entered into under this subsection, which shall remain available until expended, for the purpose of carrying out the activities authorized by this subtitle, including activities related to the final disposition of spent nuclear fuel and radioactive waste for which the Department is responsible under paragraph (3).
+&emsp;Subject to the availability of appropriations, the Secretary may obligate and expend funds received under leases entered into under this subsection, which shall remain available until expended, for the purpose of carrying out theactivities authorized by this subtitle, including activities related to the final disposition of spent nuclear fuel and radioactive waste for which the Department is responsible under paragraph (3).
 
 #### (6) Exchange of uranium for services
 

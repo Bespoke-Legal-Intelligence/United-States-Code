@@ -24,7 +24,7 @@ Annual Report.—
 
 &emsp;(1)
 
-In general.—The Director of the Office of Management and Budget shall submit an annual report to Congressional committees identified in subsection (e) on the use of cost-reimbursement contracts and task or delivery orders by all executive agencies.
+In general.—The Director of the Office of Management and Budget shall submit an annual report to Congressional committeesidentified in subsection (e) on the use of cost-reimbursement contracts and task or delivery orders by all executive agencies.
 
 &emsp;(2)
 

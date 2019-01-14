@@ -2,7 +2,7 @@
 
 The purposes of this chapter are—
 
-&emsp;(1) to mandate United States sanctions, and to encourage international sanctions, against countries that use chemical or biological weapons in violation of international law or use lethal chemical or biological weapons against their own nationals, and to impose sanctions against companies that aid in the proliferation of chemical and biological weapons;
+&emsp;(1) to mandate United States sanctions, and to encourage international sanctions, against countries that use chemical or biological weapons in violation of international law or use lethal chemical or biological weapons against their own nationals, and to impose sanctions against companies that aid in theproliferation of chemical and biological weapons;
 
 &emsp;(2) to support multilaterally coordinated efforts to control the proliferation of chemical and biological weapons;
 
@@ -88,7 +88,7 @@ Industry.—The term 'industry' means any corporate or private sector entity eng
 
 "(a)
 
-National Security Trial Investigations and Trial Visits.—The President shall conduct a series of national security trial investigations and trial visits, both during and following negotiations to develop a compliance protocol to the Biological Weapons Convention, with the objective of ensuring that the compliance procedures of the protocol are effective and adequately protect the national security of the United States. These trial investigations and trial visits shall be conducted at such sites as United States Government facilities, installations, and national laboratories.
+National Security Trial Investigations and Trial Visits.—The President shall conduct a series ofnational security trial investigations and trial visits, both during and following negotiations to develop a compliance protocol to the Biological Weapons Convention, with the objective of ensuring that the compliance procedures of the protocol are effective and adequately protect the national security of the United States. These trial investigations and trial visits shall be conducted at such sites as United States Government facilities, installations, and national laboratories.
 
 "(b)
 

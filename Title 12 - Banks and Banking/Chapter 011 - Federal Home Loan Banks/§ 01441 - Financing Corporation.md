@@ -112,7 +112,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (2) Aggregate dollar amount limitation on all investments
 
-&emsp;The aggregate amount of funds invested by all Federal Home Loan Banks in nonvoting capital stock of the Financing Corporation shall not exceed $3,000,000,000.
+&emsp;The aggregate amount of funds invested by all Federal Home Loan Banks in nonvotingcapital stock of the Financing Corporation shall not exceed $3,000,000,000.
 
 #### (3) Maximum investment amount limitation for each Federal Home Loan Bank
 
@@ -174,7 +174,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (B) Allocation of excess amount among remaining Home Loan Banks
 
-&emsp;&emsp;The amount each remaining Federal Home Loan Bank shall be required to invest undersubparagraph (A)(i) is the amount determined by the Director by multiplying the excess amount by the percentage arrived at by dividing—
+&emsp;&emsp;The amount each remaining Federal Home Loan Bank shall be required to invest under subparagraph (A)(i) is the amount determined by the Director by multiplying the excess amount by the percentage arrived at by dividing—
 
 &emsp;&emsp;&emsp;(i) the amount of capital stock of the Financing Corporation held by such remaining bank at the time of such determination; by
 
@@ -264,7 +264,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (B) Exception
 
-&emsp;&emsp;The Financing Corporation, like the Federal Home Loan Banks, shall be treated asan agency of the United States for purposes of the first sentence of section 3124(b) of title 31 (relating to determination of tax status of interest on obligations).
+&emsp;&emsp;The Financing Corporation, like the Federal Home Loan Banks, shall be treated as an agency of the United States for purposes of the first sentence of section 3124(b) of title 31 (relating to determination of tax status of interest on obligations).
 
 #### (8) Obligations are exempt securities
 
@@ -414,7 +414,7 @@ A prior section 1441, act July 22, 1932, ch. 522, §21, 47 Stat. 738, related to
 
 Subsec. (b)(5). Pub. L. 110–289, §1204(6), substituted "Director" for "Chairperson of the Federal Housing Finance Board".
 
-Subsec. (f)(2). Pub. L. 110–289, §1204(8), which directed amendment of the Federal Home Loan Bank Act (thischapter) by substituting "the Director" for "the Board" wherever appearing, was not executed to subsec. (f)(2) to reflect the probable intent of Congress.
+Subsec. (f)(2). Pub. L. 110–289, §1204(8), which directed amendment of the Federal Home Loan Bank Act (this chapter) by substituting "the Director" for "the Board" wherever appearing, was not executed to subsec. (f)(2) to reflect the probable intent of Congress.
 
 <b>2006</b>—Subsec. (f)(2). Pub. L. 109–173, §9(d)(2)(A), struck out before period at end ", except that—
 
@@ -430,7 +430,7 @@ BIF-assessable deposits.—The term 'BIF-assessable deposit' means a deposit tha
 
 "(B)
 
-SAIF-assessable deposit.—The term 'SAIF-assessable deposit' has the meaning given to such term in section 2710 of the Deposit Insurance Funds Act of 1996."
+SAIF-assessable deposit.—The term 'SAIF-assessable deposit' has the meaning given to such term insection 2710 of the Deposit Insurance Funds Act of 1996."
 
 <b>1996</b>—Subsec. (f)(2). Pub. L. 104–208, §2703(a)(1)(A), in introductory provisions, substituted "In addition to the amounts obtained pursuant to paragraph (1)," for "To the extent the amounts available pursuant to paragraph (1) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees,", "insured depository institution" for "Savings Association Insurance Fund member", and "against such institutions" for "against such members".
 
@@ -520,7 +520,7 @@ Subsec. (e)(7), (8). Pub. L. 101–73, §512(12)(A), redesignated pars. (8) and 
 
 Subsec. (e)(9), (10). Pub. L. 101–73, §§512(2), (12)(A), 701(b)(2), redesignated par. (10) as (9) and substituted "Chairperson" for "Chairman" and "Federal Housing Finance Board" for "Board". Former par. (9) redesignated (8).
 
-Subsec. (f). Pub. L. 101–73, §512(13), amended subsec. (f) generally, substituting provisions enumerating various sources from which Financing Corporation shall obtain funds for anticipated interest payments, issuance costs, and custodial fees on obligations issued from preenactment assessments, new assessment authority, and receivership proceeds, for former provisions which had outlined assessment authority of Financing Corporation, setting up supplementary assessment authority, setting limits on total amount assessed, and providing for termination assessments.
+Subsec. (f). Pub. L. 101–73, §512(13), amended subsec. (f) generally, substituting provisions enumerating various sources from which Financing Corporation shallobtain funds for anticipated interest payments, issuance costs, and custodial fees on obligations issued from preenactment assessments, new assessment authority, and receivership proceeds, for former provisions which had outlined assessment authority of Financing Corporation, setting up supplementary assessment authority, setting limits on total amount assessed, and providing for termination assessments.
 
 Subsec. (g)(1). Pub. L. 101–73, §512(14), inserted reference to before August 9, 1989, and after August 9, 1989, in capital certificates issued by the FSLIC Resolution Fund.
 

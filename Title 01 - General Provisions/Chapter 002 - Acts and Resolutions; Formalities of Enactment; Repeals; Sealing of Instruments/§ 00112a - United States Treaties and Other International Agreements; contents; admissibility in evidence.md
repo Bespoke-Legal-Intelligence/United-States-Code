@@ -12,7 +12,7 @@
 
 (c) Any determination pursuant to subsection (b) shall be published in the Federal Register.
 
-(d) The Secretary of State shall make publicly available through the Internet website of the Department of State each treaty or international agreement proposed to be published in the compilation entitled "United States Treaties and Other International Agreements" not later than 180 days after the date on which the treaty or agreement enters into force.
+(d) The Secretary of State shall make publicly available through the Internet website of theDepartment of State each treaty or international agreement proposed to be published in the compilation entitled "United States Treaties and Other International Agreements" not later than 180 days after the date on which the treaty or agreement enters into force.
 
 (Added Sept. 23, 1950, ch. 1001, §2, 64 Stat. 980; amended Pub. L. 103–236, title I, §138, Apr. 30, 1994, 108 Stat. 397; Pub. L. 108–458, title VII, §7121(a), Dec. 17, 2004, 118 Stat. 3807.)
 
@@ -28,7 +28,7 @@ The date of enactment of the Foreign Relations Authorization Act, Fiscal Years 1
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–458, title VII, §7122, Dec. 17, 2004, 118 Stat. 3808, provided that: "Notwithstanding any other provision of this Act \[see Tables for classification\], this subtitle \[subtitle A (§§7101–7122) of title VII of Pub. L. 108–458, enacting sections 2228, 2732, 3922b, 4029, 7536a, and 7555 of Title 22, Foreign Relations and Intercourse, amending this section, section 112b of this title, section 1189 of Title 8, Aliens and Nationality, sections 2651a, 2656f, 4003, 7513, 7514, 7518, 7536, 7537, 7538, and 7554 of Title 22, and section 4605 of Title 50, War and National Defense, repealing section 2374 of Title 22, enacting provisions set out as notes under section 1189 of Title 8, sections 1431, 2451, 2452, 2651a, 2656, 2656f, 7501, 7511, 7513, 7514, and 7536 of Title 22, and section 4605 of Title 50,and amending provisions set out as a note under section 112b of this title\] shall take effect on the date of enactment of this Act \[Dec. 17, 2004\]."
+Pub. L. 108–458, title VII, §7122, Dec. 17, 2004, 118 Stat. 3808, provided that: "Notwithstanding any other provision of this Act \[see Tables for classification\], this subtitle \[subtitle A (§§7101–7122) of title VII of Pub. L. 108–458, enacting sections 2228, 2732, 3922b, 4029, 7536a, and 7555 of Title 22, Foreign Relations and Intercourse, amending this section, section 112b of this title, section 1189 of Title 8, Aliens and Nationality, sections 2651a, 2656f, 4003, 7513, 7514, 7518, 7536, 7537, 7538, and 7554 of Title 22, and section 4605 of Title 50, War and National Defense, repealing section 2374 of Title 22, enacting provisions set out as notes under section 1189 of Title 8, sections 1431, 2451, 2452, 2651a, 2656, 2656f, 7501, 7511, 7513, 7514, and 7536 of Title 22, and section 4605 of Title 50, and amending provisions set out as a note under section 112b of this title\] shall take effect on the date of enactment of this Act \[Dec. 17, 2004\]."
 
 #### Effect of Repeal of Section 73 of Act Jan. 12, 1895
 

@@ -96,7 +96,7 @@ There is established within the Administration a program to be carried out by th
 
 There is authorized to be appropriated to carry out the program established by this section $10,000,000 for each of fiscal years 2004 through 2006.
 
-(Pub. L. 85–536, §2\[31\], as added Pub. L. 105–135, title VI, §602(b)(1)(B), Dec. 2, 1997, 111 Stat. 2629; amended Pub. L. 106–554, §1(a)(9) \[title V,§503(b), title VI, §612(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–699; Pub. L. 108–447, div. K, title I, §§153, 154, Dec. 8, 2004, 118 Stat. 3458; Pub. L. 111–240, title I, §1347(b)(1), (c), Sept. 27, 2010, 124 Stat. 2547; Pub. L. 114–92, div. A, title VIII, §866(c), Nov. 25, 2015, 129 Stat. 932; Pub. L. 115–91, div. A, title XVII, §1701(a)(1), (2), (b)–(e), (g), (h), Dec. 12, 2017, 131 Stat. 1795–1798, 1800.)
+(Pub. L. 85–536, §2\[31\], as added Pub. L. 105–135, title VI, §602(b)(1)(B), Dec. 2, 1997, 111 Stat. 2629; amended Pub. L. 106–554, §1(a)(9) \[title V, §503(b), title VI, §612(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–699; Pub. L. 108–447, div. K, title I, §§153, 154, Dec. 8, 2004, 118 Stat. 3458; Pub. L. 111–240, title I, §1347(b)(1), (c), Sept. 27, 2010, 124 Stat. 2547; Pub. L. 114–92, div. A, title VIII, §866(c), Nov. 25, 2015, 129 Stat. 932; Pub. L. 115–91, div. A, title XVII, §1701(a)(1), (2), (b)–(e), (g), (h), Dec. 12, 2017, 131 Stat. 1795–1798, 1800.)
 
 #### Amendment of Section
 
@@ -252,7 +252,7 @@ In this section:
 
 &emsp;&emsp;&emsp;A census tract or nonmetropolitan county shall be considered to be a qualified disaster area under clause (i) only for the period of time ending on the date the area ceases to be a qualified census tract under subparagraph (A) or a qualified nonmetropolitan county under subparagraph (B), in accordance with the online tool prepared by the Administrator described under subsection (d)(7) and beginning—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of a major disaster, on the date on which the President declared the major disaster for the area in whichthe census tract or nonmetropolitan county, as applicable, is located; or
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a major disaster, on the date on which the President declared the major disaster for the area in which the census tract or nonmetropolitan county, as applicable, is located; or
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a catastrophic incident, on the date on which the catastrophic incident occurred in the area in which the census tract or nonmetropolitan county, as applicable, is located.
 
@@ -338,7 +338,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) any lands that are located within a State in which a tribe did not exercise governmental jurisdiction on December 21, 2000, unless that tribe is recognized after December 21, 2000, by either an Act of Congress or pursuant to regulations of the Secretary of the Interior for the administrative recognition that an Indian group exists as an Indian tribe (part 83 of title 25, Code of Federal Regulations); and
 
-&emsp;&emsp;&emsp;&emsp;(II) lands taken into trust or acquired by an Indian tribe after December 21,2000, if such lands are not located within the external boundaries of an Indian reservation or former reservation or are not contiguous to the lands held in trust or restricted status on December 21, 2000; and
+&emsp;&emsp;&emsp;&emsp;(II) lands taken into trust or acquired by an Indian tribe after December 21, 2000, if such lands are not located within the external boundaries of an Indian reservation or former reservation or are not contiguous to the lands held in trust or restricted status on December 21, 2000; and
 
 &emsp;&emsp;&emsp;(ii) in the State of Oklahoma, means lands that—
 
@@ -382,7 +382,7 @@ In this section:
 
 #### (C) Appeals
 
-&emsp;&emsp;Not later than 5 days from the date the Administration is notified of a procurement officer's decision not to award a contract opportunity under this section to a qualified HUBZone small business concern, the Administrator may notify the contracting officer of the intent to appeal the contracting officer's decision, and within 15 days of such date the Administrator may file a written request for reconsideration of the contracting officer's decision with the Secretary of the department or agency head.
+&emsp;&emsp;Not later than 5 days from the date the Administration is notified of a procurementofficer's decision not to award a contract opportunity under this section to a qualified HUBZone small business concern, the Administrator may notify the contracting officer of the intent to appeal the contracting officer's decision, and within 15 days of such date the Administrator may file a written request for reconsideration of the contracting officer's decision with the Secretary of the department or agency head.
 
 #### (3) Price evaluation preference in full and open competitions
 
@@ -410,7 +410,7 @@ In this section:
 
 #### (4) Relationship to other contracting preferences
 
-&emsp;A procurement may not be made from a source on the basis of a preference provided in paragraph (2) or (3), if the procurement wouldotherwise be made from a different source under section 4124 or 4125 of title 18 or chapter 85 of title 41.
+&emsp;A procurement may not be made from a source on the basis of a preference provided in paragraph (2) or (3), if the procurement would otherwise be made from a different source under section 4124 or 4125 of title 18 or chapter 85 of title 41.
 
 #### (d) Eligibility requirements; enforcement
 
@@ -442,7 +442,7 @@ In this section:
 
 #### (5) Examinations
 
-&emsp;The Administrator shall conduct program examinations of qualified HUBZone small business concerns, using a risk-based analysis to select which concerns are examined, to ensure that any concern examined meets the requirements of paragraph (1).
+&emsp;The Administrator shall conduct program examinations of qualified HUBZone small business concerns, using a risk-based analysisto select which concerns are examined, to ensure that any concern examined meets the requirements of paragraph (1).
 
 #### (6) Loss of certification
 
@@ -480,7 +480,7 @@ In this section:
 
 #### (9) Provision of data
 
-&emsp;Upon the request of the Administrator, the Secretary of Labor, the Administrator of the Federal Emergency Management Agency, theSecretary of Housing and Urban Development, and the Secretary of the Interior (or the Assistant Secretary for Indian Affairs), shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
+&emsp;Upon the request of the Administrator, the Secretary of Labor, the Administrator of the Federal Emergency Management Agency, the Secretary of Housing and Urban Development, and the Secretary of the Interior (or the Assistant Secretary for Indian Affairs), shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
 
 #### (10) Penalties
 
@@ -516,11 +516,11 @@ In subsec. (b)(1)(A), "section 2101(1) of title 41" substituted for "section 27(
 
 In subsec. (b)(1)(B), "section 107 of title 41" substituted for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(4), "chapter 85 of title 41" substituted for "the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(4), "chapter 85 of title 41" substituted for "the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)"on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 
-A prior section 2\[31\] of Pub. L. 85–536 was renumbered section 2\[47\] and is set out as a note under section 631 of this title.
+A prior section 2\[31\] of Pub. L. 85–536 was renumbered section 2\[49\] and is set out as a note under section 631 of this title.
 
 #### Amendments
 
@@ -558,7 +558,7 @@ Subsec. (b)(3)(D)(ii). Pub. L. 115–91, §1701(c)(1), amended cl. (ii) generall
 
 &emsp;"(I) with respect to a census tract or nonmetropolitan county described in clause (i), for a period of not less than 8 years, beginning on the date the military installation undergoes final closure and ending on the date the Administrator makes a final determination as to whether or not to implement the applicable designation described in subparagraph (A) or (B) in accordance with the results of the decennial census conducted after the area was initially designated as a base closure area; and
 
-&emsp;"(II) if such area was treated as a HUBZone at any time after 2010, until such time as the Administrator makes a final determination as to whether or not to implement the applicable designation described insubparagraph (A) or (B), after the 2020 decennial census."
+&emsp;"(II) if such area was treated as a HUBZone at any time after 2010, until such time as the Administrator makes a final determination as to whether or not to implement the applicable designation described in subparagraph (A) or (B), after the 2020 decennial census."
 
 Subsec. (b)(3)(E). Pub. L. 115–91, §1701(c)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E) consisted of cls. (i) and (ii) defining "qualified disaster area" generally and limiting the period of time a qualified disaster is treated as a HUBZone, respectively.
 
@@ -606,7 +606,11 @@ Subsec. (d). Pub. L. 106–554, §1(a)(9) \[title V, §503(b)\], added subsec. (
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 2323 of Title 10, Armed Forces.
+Pub. L. 115–91, div. A, title XVII, §1701(j), Dec. 12, 2017, 131 Stat. 1803, provided that: "The provisions of this section shall take effect—
+
+&emsp;"(1) with respect to subsection (i) \[enacting provisions set out as a note under this section\], on the date of the enactment of this section \[Dec. 12, 2017\]; and
+
+&emsp;"(2) with respect to subsections (a) through (h) \[amending this section, sections 632 and 637 of this title, section 2323 of Title 10, Armed Forces, section 3718 of Title 31, Money and Finance, sections 1122 and 1713 of Title 41, Public Contracts, and sections 47107 and 47113 of Title 49, Transportation, amending provisions set out as notes under section 2302 of Title 10 and section 637 of this title, and repealing provisions set out as a note under section 632 of this title\], on January 1, 2020."
 
 #### Effective Date
 

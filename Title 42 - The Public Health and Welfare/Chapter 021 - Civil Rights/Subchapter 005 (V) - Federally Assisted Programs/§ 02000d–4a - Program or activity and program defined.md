@@ -4,7 +4,7 @@ For the purposes of this subchapter, the term "program or activity" and the term
 
 &emsp;(1)(A) a department, agency, special purpose district, or other instrumentality of a State or of a local government; or
 
-&emsp;(B) the entity of such State or local government that distributes such assistance and each such department or agency (and each other State or local government entity) to which the assistance is extended, in the case of assistance to a State or local government;
+&emsp;(B) the entity of such State or local government that distributes such assistance and eachsuch department or agency (and each other State or local government entity) to which the assistance is extended, in the case of assistance to a State or local government;
 
 &emsp;(2)(A) a college, university, or other postsecondary institution, or a public system of higher education; or
 

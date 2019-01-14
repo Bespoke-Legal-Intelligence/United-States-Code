@@ -46,7 +46,7 @@ The Secretary of Homeland Security and the Secretary of State are authorized to 
 
 #### (8) Round-trip ticket
 
-&emsp;The alien is in possession of a round-trip transportation ticket (unless this requirement is waived by the Secretary of Homeland Security under regulations or the alien is arriving at the port of entry on an aircraft operated under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations).
+&emsp;The alien is in possession of a round-trip transportation ticket (unless this requirementis waived by the Secretary of Homeland Security under regulations or the alien is arriving at the port of entry on an aircraft operated under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations).
 
 #### (9) Automated system check
 
@@ -70,7 +70,7 @@ The Secretary of Homeland Security and the Secretary of State are authorized to 
 
 &emsp;&emsp;&emsp;&emsp;(I) in Iraq or Syria;
 
-&emsp;&emsp;&emsp;&emsp;(II) in a country that is designated by the Secretary of State under section 4605(j) of title 50 (as continued in effect under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)), section 2780 of title 22, section 2371 of title 22, or any other provision of law,as a country, the government of which has repeatedly provided support of acts of international terrorism; or
+&emsp;&emsp;&emsp;&emsp;(II) in a country that is designated by the Secretary of State under section 4605(j) <sup>2</sup> of title 50 (as continued in effect under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)), section 2780 of title 22, section 2371 of title 22, or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
 
 &emsp;&emsp;&emsp;&emsp;(III) in any other country or area of concern designated by the Secretary of Homeland Security under subparagraph (D); and
 
@@ -78,7 +78,7 @@ The Secretary of Homeland Security and the Secretary of State are authorized to 
 
 &emsp;&emsp;&emsp;&emsp;(I) Iraq or Syria;
 
-&emsp;&emsp;&emsp;&emsp;(II) a country that is designated, at the time the alien applies for admission, by the Secretary of State under section 4605(j) of title 50 (as continued in effect under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)), section 2780 of title 22, section 2371 of title 22, or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
+&emsp;&emsp;&emsp;&emsp;(II) a country that is designated, at the time the alien applies for admission, by the Secretary of State under section 4605(j) <sup>2</sup> of title 50 (as continued in effect under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)), section 2780 of title 22, section 2371 of title 22, or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
 
 &emsp;&emsp;&emsp;&emsp;(III) any other country that is designated, at the time the alien applies for admission, by the Secretary of Homeland Security under subparagraph (D).
 
@@ -178,7 +178,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (F) Passenger information exchange
 
-&emsp;&emsp;The government of the country enters into an agreement with the United States to share information regarding whether citizens and nationals of that country traveling to the United States represent a threat to the security or welfare of the United States or its citizens, and fully implements such agreement.
+&emsp;&emsp;The government of the country enters into an agreement with the United States toshare information regarding whether citizens and nationals of that country traveling to the United States represent a threat to the security or welfare of the United States or its citizens, and fully implements such agreement.
 
 #### (G) Interpol screening
 
@@ -208,7 +208,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (ii) Low nonimmigrant visa refusal rate in each of the 2 previous years
 
-&emsp;&emsp;&emsp;The average number of refusals of nonimmigrant visitor visas for nationals of that country during either of such two previous full fiscal years was less than 2.5 percent of the total number of nonimmigrantvisitor visas for nationals of that country which were granted or refused during that year.
+&emsp;&emsp;&emsp;The average number of refusals of nonimmigrant visitor visas for nationals of that country during either of such two previous full fiscal years was less than 2.5 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during that year.
 
 #### (4) Initial period
 
@@ -334,7 +334,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (ii) Notification to Congress
 
-&emsp;&emsp;&emsp;The Secretary shall notify Congress in writing of the date on which the air exitsystem under clause (i) fully satisfies the biometric requirements specified in subsection (i).
+&emsp;&emsp;&emsp;The Secretary shall notify Congress in writing of the date on which the air exit system under clause (i) fully satisfies the biometric requirements specified in subsection (i).
 
 #### (iii) Temporary suspension of waiver authority
 
@@ -364,7 +364,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (i) Requirement to establish
 
-&emsp;&emsp;&emsp;After certification by the Secretary under subparagraph (A), the Secretary and the Secretary of State jointly shall use information from the air exit system referred to in such subparagraph to establish a maximum visa overstay rate for countries participating in the program pursuant to a waiver under subparagraph (B). The Secretary of Homeland Security shall certify to Congress that such rate would not compromise the law enforcement, security interests, or enforcement of the immigration laws of the United States.
+&emsp;&emsp;&emsp;After certification by the Secretary under subparagraph (A), the Secretary and the Secretary of State jointly shall use information from the air exit system referred to in such subparagraph to establish a maximum visa overstay rate for countries participating in the program pursuant to a waiver under subparagraph (B). The Secretary of Homeland Security shall certify to Congress that such rate wouldnot compromise the law enforcement, security interests, or enforcement of the immigration laws of the United States.
 
 #### (ii) Visa overstay rate defined
 
@@ -398,7 +398,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (A) In general
 
-&emsp;&emsp;Prior to the admission of a new country into the program under this section, and inconjunction with the periodic evaluations required under subsection (c)(5)(A), the Director of National Intelligence shall conduct an independent intelligence assessment of a nominated country and member of the program.
+&emsp;&emsp;Prior to the admission of a new country into the program under this section, and in conjunction with the periodic evaluations required under subsection (c)(5)(A), the Director of National Intelligence shall conduct an independent intelligence assessment of a nominated country and member of the program.
 
 #### (B) Reporting requirement
 
@@ -458,7 +458,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 #### (1) In general
 
-&emsp;The agreement referred to in subsection (a)(4) is an agreement between a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title and the Secretary of Homeland Security under which the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domesticcorporation conducting operations under part 91 of that title agrees, in consideration of the waiver of the visa requirement with respect to a nonimmigrant visitor under the program—
+&emsp;The agreement referred to in subsection (a)(4) is an agreement between a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title and the Secretary of Homeland Security under which the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title agrees, in consideration of the waiver of the visa requirement with respect to a nonimmigrant visitor under the program—
 
 &emsp;&emsp;(A) to indemnify the United States against any costs for the transportation of the alien from the United States if the visitor is refused admission to the United States or remains in the United States unlawfully after the 90-day period described in subsection (a)(1)(A),
 
@@ -476,11 +476,11 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations <sup>2</sup> that owns or operates a noncommercial aircraft is a corporation that is organized under the laws of any of the States of the United States or the District of Columbia and is accredited by or a member of a national organization that sets business aviation standards. The Secretary of Homeland Security shall prescribe by regulation the provision of such information as the Secretary of Homeland Security deems necessary to identify the domestic corporation, its officers, employees, shareholders, its place of business, and its business activities.
+&emsp;&emsp;For purposes of this section, a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations <sup>1</sup> that owns or operates a noncommercial aircraft is a corporation that is organized under the laws of any of the States of the United States or the District of Columbia and is accredited by or a member of a national organization that sets business aviation standards. The Secretary of Homeland Security shall prescribe by regulation the provision of such information as the Secretary of Homeland Security deems necessary to identify the domestic corporation, its officers, employees, shareholders, its place of business, and its business activities.
 
 #### (B) Collections
 
-&emsp;&emsp;In addition to any other fee authorized by law, the Secretary of Homeland Security is authorized to charge and collect, on a periodic basis, an amount from each domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, for nonimmigrant visa waiver admissions on noncommercial aircraft owned or operated by such domestic corporation equal to the total amount of fees assessed for issuance of nonimmigrant visa waiver arrival/departure forms at land border ports of entry. All fees collected under this paragraph shall be deposited into the Immigration User Fee Account established under section 1356(h) of this title.
+&emsp;&emsp;In addition to any other fee authorized by law, the Secretary of Homeland Security is authorized to charge and collect, on a periodic basis, an amount from each domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, for nonimmigrant visa waiver admissions on noncommercial aircraft owned or operated by such domestic corporation equal to the total amount of fees assessed for issuance of nonimmigrant visa waiver arrival/departure forms at land border ports of entry. All fees collected under this paragraph shall be deposited into the Immigration User FeeAccount established under section 1356(h) of this title.
 
 #### (f) Duration and termination of designation
 
@@ -580,7 +580,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (i) Percentage of nationals lacking departure record
 
-&emsp;&emsp;&emsp;As part of the annual report required to be submitted under section 1365a(e)(1) ofthis title, the Secretary of Homeland Security shall include a section containing the calculation described in subparagraph (B)(iii) for each program country for the previous fiscal year, together with an analysis of that information.
+&emsp;&emsp;&emsp;As part of the annual report required to be submitted under section 1365a(e)(1) of this title, the Secretary of Homeland Security shall include a section containing the calculation described in subparagraph (B)(iii) for each program country for the previous fiscal year, together with an analysis of that information.
 
 #### (ii) System effectiveness
 
@@ -646,13 +646,13 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (iii) Sunset of Travel Promotion Fund fee
 
-&emsp;&emsp;&emsp;The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after September 30, 2020.
+&emsp;&emsp;&emsp;The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after September 30, 2027.
 
 #### (C) Validity
 
 #### (i) Period
 
-&emsp;&emsp;&emsp;The Secretary of Homeland Security, in consultation with the Secretary of State, shall prescribe regulations that provide for a period, not to exceed three years, during which a determination of eligibility to travel under the program will be valid. Notwithstanding any other provisionunder this section, the Secretary of Homeland Security may revoke any such determination or shorten the period of eligibility under any such determination at any time and for any reason.
+&emsp;&emsp;&emsp;The Secretary of Homeland Security, in consultation with the Secretary of State, shall prescribe regulations that provide for a period, not to exceed three years, during which a determination of eligibility to travel under the program will be valid. Notwithstanding any other provision under this section, the Secretary of Homeland Security may revoke any such determination or shorten the period of eligibility under any such determination at any time and for any reason.
 
 #### (ii) Limitation
 
@@ -700,15 +700,19 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 &emsp;&emsp;(B) the procedures by which the Secretary shall improve the method of calculating the rates of nonimmigrants who overstay their authorized period of stay in the United States.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(l)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May 14, 2002, 116 Stat. 556; Pub. L. 110–53, title VII, §711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341; Pub. L. 111–145, §9(h), formerly §9(e), Mar. 4, 2010, 124 Stat. 62, renumbered Pub. L. 113–235, div. B, title VI, §606(1), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 111–198, §5(a), July 2, 2010, 124 Stat. 1357; Pub. L. 113–235, div. B, title VI, §605(b), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 114–113, div. O, title II, §§202(a), (b), 203–205(a), 206, 207(a), 209, Dec. 18, 2015, 129 Stat. 2989–2995.)
+(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(l)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May 14, 2002, 116 Stat. 556; Pub. L. 110–53, title VII, §711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341; Pub. L. 111–145, §9(h), formerly §9(e), Mar. 4, 2010, 124 Stat. 62, renumbered Pub. L. 113–235, div. B, title VI, §606(1), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 111–198, §5(a), July 2, 2010, 124 Stat. 1357; Pub. L. 113–235, div. B, title VI, §605(b), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 114–113, div. O, title II, §§202(a), (b), 203–205(a), 206, 207(a), 209, Dec. 18, 2015, 129 Stat. 2989–2995; Pub. L. 115–123, div. C, title II, §30203(a), Feb. 9, 2018, 132 Stat. 126.)
 
 #### References in Text
+
+Section 4605(j) of title 50, referred to in subsec. (a)(12)(A)(i)(II), (ii)(II), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of title 50, see section 4813(c) of title 50, as enacted by Pub. L. 115–232.
 
 The International Emergency Economic Powers Act, referred to in subsec. (a)(12)(A)(i)(II), (ii)(II), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 This chapter, referred to in subsecs. (b)(1) and (c)(7)(B)(iv), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (h)(3)(B)(iii). Pub. L. 115–123 substituted "September 30, 2027" for "September 30, 2020".
 
 <b>2015</b>—Pub. L. 114–113, §209(b)(1), substituted "electronic system for travel authorization" for "electronic travel authorization system" wherever appearing.
 
@@ -942,7 +946,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–53, title VII, §711(d)(2), Aug. 3, 2007, 121 Stat. 345, provided that: "Section 217(a)(11) of the Immigration and Nationality Act \[8 U.S.C. 1187(a)(11)\], as added by paragraph (1)(A)(ii), shall take effect on the date that is 60 days after the date on which the Secretary of Homeland Security publishes notice in the Federal Register of the requirement under such paragraph. \[Notice published in Federal Register, Nov. 13, 2008, 73 F.R. 67354.\]"
+Pub. L. 110–53, title VII, §711(d)(2), Aug. 3, 2007, 121 Stat. 345, provided that: "Section 217(a)(11) of the Immigration and Nationality Act \[8 U.S.C. 1187(a)(11)\], asadded by paragraph (1)(A)(ii), shall take effect on the date that is 60 days after the date on which the Secretary of Homeland Security publishes notice in the Federal Register of the requirement under such paragraph. \[Notice published in Federal Register, Nov. 13, 2008, 73 F.R. 67354.\]"
 
 #### Effective Date of 1996 Amendment
 
@@ -1036,7 +1040,7 @@ Details in Report.—The report shall include—
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be "subsection".</i>
 

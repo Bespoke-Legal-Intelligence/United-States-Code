@@ -18,7 +18,7 @@ Each State shall, as expeditiously as practicable, undertake a continuing progra
 
 #### (b) Environmental Protection Agency program
 
-If the Administrator determines that any State program under subsection (a) is not adequately providing information respecting the sites in such State referred to in subsection (a), the Administrator shall notify the State. If within ninety days following such notification, the State program has not been revised or amended in such manner as will adequately provide such information, the Administrator shall carry out the inventory program in such State. In any such case—
+If the Administrator determines that any State program under subsection (a) is not adequately providing information respecting the sites in such State referred to in subsection (a),the Administrator shall notify the State. If within ninety days following such notification, the State program has not been revised or amended in such manner as will adequately provide such information, the Administrator shall carry out the inventory program in such State. In any such case—
 
 &emsp;(1) the Administrator shall have the authorities provided with respect to State programs under subsection (a);
 
@@ -28,7 +28,7 @@ If the Administrator determines that any State program under subsection (a) is n
 
 #### (c) Grants
 
-(1) Upon receipt of an application submitted by any State to carry out a program under this section, the Administrator may make grants to the States for purposes of carrying out such a program. Grants under this section shall be allocated among the several States by the Administrator based upon such regulations as he prescribes to carry out the purposes of this section. The Administrator may make grants to any State which has conducted an inventory program which effectively carried out the purposesof this section before October 21, 1980, to reimburse such State for all, or any portion of, the costs incurred by such State in conducting such program.
+(1) Upon receipt of an application submitted by any State to carry out a program under this section, the Administrator may make grants to the States for purposes of carrying out such a program. Grants under this section shall be allocated among the several States by the Administrator based upon such regulations as he prescribes to carry out the purposes of this section. The Administrator may make grants to any State which has conducted an inventory program which effectively carried out the purposes of this section before October 21, 1980, to reimburse such State for all, or any portion of, the costs incurred by such State in conducting such program.
 
 (2) There are authorized to be appropriated to carry out this section $25,000,000 for each of the fiscal years 1985 through 1988.
 

@@ -34,7 +34,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The manufacturer, packer, or distributor of a dietary supplement whose name (pursuant to section 343(e)(1) of this title) appears on the label of a dietary supplement marketed in the United States (referred to in this section as the "responsible person") shall submit to the Secretary any report received of a serious adverse event associated with such dietary supplement when used in the United States, accompanied by a copy of the label on or within the retail packaging of such dietary supplement.
+&emsp;The manufacturer, packer, or distributor of a dietary supplement whose name (pursuant to section 343(e)(1) of this title) appears on the label of a dietary supplement marketed in theUnited States (referred to in this section as the "responsible person") shall submit to the Secretary any report received of a serious adverse event associated with such dietary supplement when used in the United States, accompanied by a copy of the label on or within the retail packaging of such dietary supplement.
 
 #### (2) Retailer
 

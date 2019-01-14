@@ -8,7 +8,7 @@
 
 #### (2) Entities
 
-&emsp;The entities with which the Secretary may enter into contracts shall include only entities which the Secretary determines are qualified to provide such services and supplies and will comply with the procedures applicable to the award of such contracts. In the case of awarding contracts for the origination, servicing, and collection of loans under this part, the Secretary shall enter into contracts only with entities that have extensive and relevant experience and demonstrated effectiveness. The entities with which the Secretary may enter into such contracts shall include, where practicable, agencies with agreements with the Secretary under sections 1078(b) and (c) of this title, if such agencies meet the qualifications as determined by the Secretary under this subsection and if those agencies have such experience and demonstrated effectiveness. In awarding contracts to such State agencies, the Secretary shall, to the extent practicable and consistent with the purposes of this part, give special consideration to State agencies with a history of high quality performance to perform services for institutions of higher education within their State.
+&emsp;The entities with which the Secretary may enter into contracts shall include only entities which the Secretary determines are qualified to provide such services and supplies and will comply with the procedures applicable to the award of such contracts. In the case of awarding contracts for the origination, servicing, and collection of loans under this part, the Secretary shall enter into contracts only with entities that have extensive and relevant experience and demonstrated effectiveness. The entities with which the Secretary may enter into such contracts shall include, where practicable, agencies with agreements with theSecretary under sections 1078(b) and (c) of this title, if such agencies meet the qualifications as determined by the Secretary under this subsection and if those agencies have such experience and demonstrated effectiveness. In awarding contracts to such State agencies, the Secretary shall, to the extent practicable and consistent with the purposes of this part, give special consideration to State agencies with a history of high quality performance to perform services for institutions of higher education within their State.
 
 #### (3) Rule of construction
 
@@ -53,4 +53,14 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date
 
 Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+
+#### Selection of Student Loan Servicer
+
+Pub. L. 115–245, div. B, title III, Sept. 28, 2018, 132 Stat. 3102, provided in part: "That for student loan contracts awarded prior to October 1, 2017, the Secretary \[of Education\] shall allow student loan borrowers who are consolidating Federal student loans to select from any student loan servicer to service their new consolidated student loan".
+
+Pub. L. 115–141, div. H, title III, Mar. 23, 2018, 132 Stat. 746, provided in part: "That the Secretary \[of Education\] shall, no later than September 30, 2017, allow student loan borrowers who are consolidating Federal student loans to select from any student loan servicer to service their new consolidated student loan under the current student loan servicing contracts".
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 115–31, div. H, title III, May 5, 2017, 131 Stat. 549.
 

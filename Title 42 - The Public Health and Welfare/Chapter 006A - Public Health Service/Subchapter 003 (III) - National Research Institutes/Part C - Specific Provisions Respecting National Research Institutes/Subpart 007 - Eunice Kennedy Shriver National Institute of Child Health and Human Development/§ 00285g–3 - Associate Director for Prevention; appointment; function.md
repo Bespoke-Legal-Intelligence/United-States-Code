@@ -2,7 +2,7 @@
 
 There shall be in the Institute an Associate Director for Prevention to coordinate and promote the programs in the Institute concerning the prevention of health problems of mothers and children. The Associate Director shall be appointed by the Director of the Institute from individuals who because of their professional training or experience are experts in public health or preventive medicine.
 
-(July 1, 1944, ch. 373, title IV, §451, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 856; amendedPub. L. 105–362, title VI, §601(a)(1)(E), Nov. 10, 1998, 112 Stat. 3285.)
+(July 1, 1944, ch. 373, title IV, §451, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 856; amended Pub. L. 105–362, title VI, §601(a)(1)(E), Nov. 10, 1998, 112 Stat. 3285.)
 
 #### Amendments
 

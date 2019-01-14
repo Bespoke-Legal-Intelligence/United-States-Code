@@ -48,7 +48,7 @@ Definition.—For purposes of this section, the term 'victim' includes the indiv
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–132, §205(e)(1), inserted "or 3663A" after "3663".
 
-Subsec. (b)(1). Pub. L. 104–132, §205(e)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The order of restitution under this section shall direct that—
+Subsec. (b)(1). Pub. L. 104–132, §205(e)(2)(A), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: "The order of restitution under this section shall direct that—
 
 &emsp;"(A) the defendant pay to the victim (through the appropriate court mechanism) the full amount of the victim's losses as determined by the court, pursuant to paragraph (3); and
 
@@ -58,7 +58,7 @@ Subsec. (b)(2). Pub. L. 104–132, §205(e)(2)(B), struck out "by victim" after 
 
 Subsec. (b)(4)(C), (D). Pub. L. 104–132, §205(e)(2)(C), struck out subpars. (C) and (D), which related to court's consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court's entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
 
-Subsec. (b)(5) to (10). Pub. L. 104–132, §205(e)(2)(D), struck out pars. (5) to (10), which related, respectively,to more than 1 offender, more than 1 victim, payment schedule, setoff, effect on other sources of compensation, and condition of probation or supervised release.
+Subsec. (b)(5) to (10). Pub. L. 104–132, §205(e)(2)(D), struck out pars. (5) to (10), which related, respectively, to more than 1 offender, more than 1 victim, payment schedule, setoff, effect on other sources of compensation, and condition of probation or supervised release.
 
 Subsec. (c). Pub. L. 104–294, which directed substitution of "designee" for "delegee" wherever appearing, could not be executed because of amendment by Pub. L. 104–132, §205(e)(3), (4). See below.
 

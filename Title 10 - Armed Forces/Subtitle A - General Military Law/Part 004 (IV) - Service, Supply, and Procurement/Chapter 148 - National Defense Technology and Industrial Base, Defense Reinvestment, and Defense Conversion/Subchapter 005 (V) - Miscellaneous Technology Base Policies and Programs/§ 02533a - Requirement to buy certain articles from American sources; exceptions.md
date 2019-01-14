@@ -64,11 +64,11 @@ Exception for Commissaries, Exchanges, and Other Nonappropriated Fund Instrument
 
 (h)
 
-Exception for Small Purchases.—Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of this title.
+Exception for Small Purchases.—Subsection (a) does not apply to purchases foramounts not greater than the simplified acquisition threshold referred to in section 2304(g) of this title.
 
 (i)
 
-Applicability to Contracts and Subcontracts for Procurement of Commercial Items.—This section is applicable to contracts and subcontracts for the procurement of commercial items notwithstanding section 1906 of title 41.
+Applicability to Contracts and Subcontracts for Procurement of Commercial Products.—This section is applicable to contracts and subcontracts for the procurement of commercial products notwithstanding section 1906 of title 41.
 
 (j)
 
@@ -80,9 +80,11 @@ Notification Required Within 7
 
 Days After Contract Award If Certain Exceptions Applied.—In the case of any contract for the procurement of an item described in subparagraph (B), (C), (D), or (E) of subsection (b)(1), if the Secretary of Defense or of the military department concerned applies an exception set forth in subsection (c) or (e) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOpps.gov (or any successor site).
 
-(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388; Pub. L. 109–364, div. A, title VIII, §842(a)(3), Oct. 17, 2006, 120 Stat. 2337; Pub. L. 111–350, §5(b)(38), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title VIII, §847, title X, §1075(b)(38), Jan. 7, 2011, 124 Stat. 4286, 4371; Pub. L. 112–81, div. A, title VIII, §821, Dec. 31, 2011, 125 Stat. 1502; Pub. L. 112–239, div. A, title X, §1076(f)(29), Jan. 2, 2013, 126 Stat. 1953.)
+(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388; Pub. L. 109–364, div. A, title VIII, §842(a)(3), Oct. 17, 2006, 120 Stat. 2337; Pub. L. 111–350, §5(b)(38), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title VIII, §847, title X, §1075(b)(38), Jan. 7, 2011, 124 Stat. 4286, 4371; Pub. L. 112–81, div. A, title VIII, §821, Dec. 31, 2011, 125 Stat. 1502; Pub. L. 112–239, div. A, title X, §1076(f)(29), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 115–232, div. A, title VIII, §837(b), Aug. 13, 2018, 132 Stat. 1875.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (i). Pub. L. 115–232 substituted "Products" for "Items" in heading and "commercial products" for "commercial items" in text.
 
 <b>2013</b>—Subsec. (k). Pub. L. 112–239 substituted "FedBizOpps.gov" for "FedBizOps.gov".
 
@@ -162,7 +164,7 @@ Authority To Procure.—The Secretary of Defense may procure fire resistant rayo
 
 "(b)
 
-Submission to Congress.—Not later than 30 days after making a determination under subsection (a), the Secretary shall submit to Congress a copy of the determination.
+Submission to Congress.—Not later than 30 days after making a determination under subsection (a), theSecretary shall submit to Congress a copy of the determination.
 
 "(c)
 

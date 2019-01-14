@@ -138,7 +138,7 @@ Purposes.—The purposes of this title \[see Short Title of 2001 Amendment note 
 
 &emsp;"(7) to provide guidance to domestic financial institutions on particular foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts that are of primary money laundering concern to the United States Government;
 
-&emsp;"(8) to ensure that the forfeiture of any assets in connection with the anti-terrorist efforts of theUnited States permits for adequate challenge consistent with providing due process rights;
+&emsp;"(8) to ensure that the forfeiture of any assets in connection with the anti-terrorist efforts of the United States permits for adequate challenge consistent with providing due process rights;
 
 &emsp;"(9) to clarify the terms of the safe harbor from civil liability for filing suspicious activity reports;
 
@@ -210,7 +210,7 @@ Reports to the Financial Services Industry on Suspicious Financial Activities.�
 
 #### Report and Recommendation on Legislative Action on International Counter Money Laundering Provisions
 
-Pub. L. 107–56, title III, §324, Oct. 26, 2001, 115 Stat. 316, provided that: "Not later than 30 months after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the Attorney General, the Federal banking agencies (as defined at section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]), the National Credit Union Administration Board, the Securities and Exchange Commission, and such other agencies as the Secretary may determine, at the discretion of the Secretary, shall evaluate the operations of the provisions of this subtitle \[subtitle A (§§311–330) of title III of Pub. L. 107–56, enacting section 5318A of this title, amending sections 5312 and 5318 of this title, sections 1828 and 1842 of Title 12, Banks and Banking, sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 5318 of this title, sections 1828 and 1842 of Title 12, and section 983 of Title 18\] and make recommendations to Congress as to any legislative action with respect to this subtitle as the Secretary may determine to be necessary or advisable."
+Pub. L. 107–56, title III, §324, Oct. 26, 2001, 115 Stat. 316, provided that: "Not later than 30 months after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the Attorney General, the Federal banking agencies (as defined at section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]), the National Credit Union Administration Board, the Securities and Exchange Commission, and such other agencies as the Secretary may determine, at the discretion of the Secretary, shall evaluate the operations of the provisions of this subtitle \[subtitle A (§§311–330) of title III of Pub. L. 107–56, enacting section 5318A of this title, amending sections 5312 and 5318 of this title, sections 1828 and 1842 of Title 12, Banks and Banking, sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 5318 of this title, sections 1828 and 1842 of Title 12, andsection 983 of Title 18\] and make recommendations to Congress as to any legislative action with respect to this subtitle as the Secretary may determine to be necessary or advisable."
 
 #### International Cooperation on Identification of Originators of Wire Transfers
 
@@ -416,7 +416,7 @@ Study Required.—The Comptroller General of the United States shall conduct a f
 
 Specific Requirements.—In conducting the study required under subsection (a), the Comptroller General shall examine and evaluate—
 
-&emsp;"(1) the extent to which Federal, State, and local governmental and nongovernmental organizations are voluntarily providing information which is necessary for the system to be useful for law enforcement purposes;
+&emsp;"(1) the extent to which Federal, State, and local governmental and nongovernmental organizationsare voluntarily providing information which is necessary for the system to be useful for law enforcement purposes;
 
 &emsp;"(2) the extent to which the operational guidelines established for the system provide for the coordinated and efficient entry of information into, and withdrawal of information from, the system;
 

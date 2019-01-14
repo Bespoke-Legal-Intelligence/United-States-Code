@@ -30,9 +30,29 @@ Information to submit.—To the extent necessary to make a determination under p
 
 &emsp;&emsp;(A) prices paid for the same or similar commercial items under comparable terms and conditions by both government and commercial customers; and
 
-&emsp;&emsp;(B) if the contracting officer determines that the information described in subparagraph (A) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
+&emsp;&emsp;(B) if the contracting officer determines that the information described in subparagraph (A) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost,including information on labor costs, material costs, and overhead rates.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3764.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3764; Pub. L. 115–232, div. A, title VIII, §836(b)(11), Aug. 13, 2018, 132 Stat. 1863.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(b)(11), (h), Aug. 13, 2018, 132 Stat. 1863, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)—</i>
+
+<i>(A) by striking paragraph (1);</i>
+
+<i>(B) by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively; and</i>
+
+<i>(C) in paragraph (2) (as so redesignated), by striking "commercial items" and inserting "commercial products or commercial services"; and</i>
+
+<i>(2) in subsection (b)—</i>
+
+<i>(A) in the heading for paragraph (1), by striking "item"; and</i>
+
+<i>(B) in paragraphs (1) and (2)(A), by striking "commercial items" and inserting "commercial services".</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -59,4 +79,16 @@ Pub. L. 110–417, \[div. A\], title VIII, §868, Oct. 14, 2008, 122 Stat. 4552.
 Subsection (a) of Pub. L. 110–417, §868 is omitted as unnecessary.
 
 In subsection (b)(1), the words "The Federal Acquisition Regulation" are substituted for "The regulations modified pursuant to subsection (a)" for clarity and conformity with the revised title.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–232, §836(b)(11)(A), redesignated pars. (2) and (3) as (1) and (2), respectively, substituted "commercial products or commercial services" for "commercial items" in par. (2), as redesignated, and struck out former par. (1), which defined "commercial item".
+
+Subsec. (b)(1). Pub. L. 115–232, §836(b)(11)(B), in heading, struck out "item" before "authority" and, in text, substituted "commercial services" for "commercial items".
+
+Subsec. (b)(2)(A). Pub. L. 115–232, §836(b)(11)(B)(ii), substituted "commercial services" for "commercial items".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 

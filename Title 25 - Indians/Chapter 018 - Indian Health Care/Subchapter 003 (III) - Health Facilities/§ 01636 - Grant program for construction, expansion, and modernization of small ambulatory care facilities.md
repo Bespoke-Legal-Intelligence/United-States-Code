@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(iii) provide ambulatory care in a service area (specified in the contract entered into under the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\]) with a population of not less than 2,000 eligible Indians.
 
-(2) The requirements of clauses (ii) and (iii) of paragraph (1)(C) shall not apply to a tribe ortribal organization applying for a grant under this section whose tribal government offices are located on an island.
+(2) The requirements of clauses (ii) and (iii) of paragraph (1)(C) shall not apply to a tribe or tribal organization applying for a grant under this section whose tribal government offices are located on an island.
 
 #### (c) Application for grant
 

@@ -98,7 +98,7 @@ No activity under this section shall affect the date of completion of any other 
 
 #### (2) Project planning, design, construction, and evaluation
 
-&emsp;Except for reconnaissance studies, the Federal share of the cost of planning, design, construction, and evaluation of a project underparagraph (3) or (4) of subsection (c) shall be 65 percent.
+&emsp;Except for reconnaissance studies, the Federal share of the cost of planning, design, construction, and evaluation of a project under paragraph (3) or (4) of subsection (c) shall be 65 percent.
 
 #### (3) Non-Federal share
 

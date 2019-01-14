@@ -78,7 +78,7 @@
 
 (3) The Board shall by rule indicate any other category of significant Board action which the Board determines should be subject to the provisions of this subsection.
 
-(4) It shall be the duty of the Board, an administrative law judge, or employee designated bythe Board to hear any proceeding under this section to expedite to the extent practicable that proceeding.
+(4) It shall be the duty of the Board, an administrative law judge, or employee designated by the Board to hear any proceeding under this section to expedite to the extent practicable that proceeding.
 
 (j) In determining the appealability under this section of any case involving a removal from the service (other than the removal of a reemployed annuitant), neither an individual's status under any retirement system established by or under Federal statute nor any election made by such individual under any such system may be taken into account.
 
@@ -168,5 +168,5 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (i)(
 
 #### Executive Order No. 11787
 
-Ex. Ord. No. 11787, June 11, 1974, 39 F.R. 20675; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which provided thatthe appeals system established by the Merit Systems Protection Board is the sole system of appeal for an employee covered by that appeal system, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 11787, June 11, 1974, 39 F.R. 20675; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which provided that the appeals system established by the Merit Systems Protection Board is the sole system of appeal for an employee covered by that appeal system, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 

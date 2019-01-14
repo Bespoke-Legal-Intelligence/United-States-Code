@@ -26,7 +26,7 @@ Pub. L. 106–200, title IV, §411(b), May 18, 2000, 114 Stat. 298, provided tha
 
 #### Prohibition on Use of Funds To Prevent Enforcement of Ban on Importation of Convict-Made Goods
 
-Pub. L. 108–90, title V, §514, Oct. 1, 2003, 117 Stat. 1154, provided that: "For fiscal year 2004 and thereafter, none of the funds appropriated or otherwise made available to the Department of Homeland Security shall be available for any activity or for paying the salary of any Government employee where funding an activity or paying a salary to a Government employee would result in a determination, regulation, or policy that would prohibit the enforcement of section 307 of the Tariff Act of 1930 (19 U.S.C. 1307)."
+Pub. L. 108–90, title V, §514, Oct. 1, 2003, 117 Stat. 1154, provided that: "For fiscal year 2004 and thereafter, none of the funds appropriated or otherwise made available to the Department of Homeland Security shall be available for any activity or for paying the salary of any Government employee where funding an activity orpaying a salary to a Government employee would result in a determination, regulation, or policy that would prohibit the enforcement of section 307 of the Tariff Act of 1930 (19 U.S.C. 1307)."
 
 #### Prohibition on Use of Funds To Allow Importation of Forced or Indentured Child Labor
 

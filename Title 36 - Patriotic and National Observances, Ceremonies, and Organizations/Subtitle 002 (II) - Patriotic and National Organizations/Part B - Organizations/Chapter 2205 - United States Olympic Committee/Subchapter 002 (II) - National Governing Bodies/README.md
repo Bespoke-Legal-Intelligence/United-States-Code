@@ -14,3 +14,4 @@
 - [&sect; 220527 - Complaints against national governing bodies](%C2%A7%20220527%20-%20Complaints%20against%20national%20governing%20bodies.md)
 - [&sect; 220528 - Applications to replace an incumbent national governing body](%C2%A7%20220528%20-%20Applications%20to%20replace%20an%20incumbent%20national%20governing%20body.md)
 - [&sect; 220529 - Arbitration of corporation determinations](%C2%A7%20220529%20-%20Arbitration%20of%20corporation%20determinations.md)
+- [&sect; 220530 - Other amateur sports organizations](%C2%A7%20220530%20-%20Other%20amateur%20sports%20organizations.md)

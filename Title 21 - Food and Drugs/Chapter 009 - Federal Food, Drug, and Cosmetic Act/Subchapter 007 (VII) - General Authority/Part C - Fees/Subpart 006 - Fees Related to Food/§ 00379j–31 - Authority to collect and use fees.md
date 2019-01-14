@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the responsible party for a domestic facility (as defined in section 350d(b) of this title) and an importer who does not comply with a recall order under section 350l of this title or under section 350a(f) of this title in such fiscal year, to cover food recall activities associated with such order performed by the Secretary, including technical assistance, follow-up effectiveness checks, and public notifications, for such year;
 
-&emsp;&emsp;(C) each importer participating in the voluntary qualified importer program undersection 384b of this title in such year, to cover the administrative costs of such program for such year; and
+&emsp;&emsp;(C) each importer participating in the voluntary qualified importer program under section 384b of this title in such year, to cover the administrative costs of such program for such year; and
 
 &emsp;&emsp;(D) each importer subject to a reinspection in such fiscal year, to cover reinspection-related costs for such year.
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) the term "reinspection" means—
 
-&emsp;&emsp;&emsp;(i) with respect to domestic facilities (as defined in section 350d(b) of this title), 1 or more inspections conducted under section 374 of this title subsequent to an inspection conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary's satisfaction; and
+&emsp;&emsp;&emsp;(i) with respect to domestic facilities (as defined in section 350d(b) of this title), 1 or more inspections conducted under section 374 of this title subsequent to an inspection conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whethercompliance has been achieved to the Secretary's satisfaction; and
 
 &emsp;&emsp;&emsp;(ii) with respect to importers, 1 or more examinations conducted under section 381 of this title subsequent to an examination conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary's satisfaction;
 
@@ -78,7 +78,7 @@
 
 #### (1) In general
 
-&emsp;Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year2010 unless the amount of the total appropriations for food safety activities at the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) is equal to or greater than the amount of appropriations for food safety activities at the Food and Drug Administration for fiscal year 2009 (excluding the amount of fees appropriated for such fiscal year), multiplied by the adjustment factor under paragraph (3).
+&emsp;Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year 2010 unless the amount of the total appropriations for food safety activities at the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) is equal to or greater than the amount of appropriations for food safety activities at the Food and Drug Administration for fiscal year 2009 (excluding the amount of fees appropriated for such fiscal year), multiplied by the adjustment factor under paragraph (3).
 
 #### (2) Authority
 

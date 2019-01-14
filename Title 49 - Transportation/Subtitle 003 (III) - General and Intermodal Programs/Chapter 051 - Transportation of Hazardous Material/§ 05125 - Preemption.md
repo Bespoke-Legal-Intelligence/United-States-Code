@@ -18,7 +18,7 @@ Substantive Differences.—(1) Except as provided in subsection (c) of this sect
 
 &emsp;(C) the preparation, execution, and use of shipping documents related to hazardous material and requirements related to the number, contents, and placement of those documents.
 
-&emsp;(D) the written notification, recording, and reporting of the unintentional release in transportation of hazardous material and other written hazardous materials transportation incident reporting involving State orlocal emergency responders in the initial response to the incident.
+&emsp;(D) the written notification, recording, and reporting of the unintentional release in transportation of hazardous material and other written hazardous materials transportation incident reporting involving State or local emergency responders in the initial response to the incident.
 
 &emsp;(E) the designing, manufacturing, fabricating, inspecting, marking, maintaining, reconditioning, repairing, or testing a package, container, or packaging component that is represented, marked, certified, or sold as qualified for use in transporting hazardous material in commerce.
 
@@ -74,7 +74,7 @@ Application of Each Preemption Standard.—Each standard for preemption in subse
 
 (h)
 
-Non-Federal Enforcement Standards.—This section does not apply to any procedure,penalty, required mental state, or other standard utilized by a State, political subdivision of a State, or Indian tribe to enforce a requirement applicable to the transportation of hazardous material.
+Non-Federal Enforcement Standards.—This section does not apply to any procedure, penalty, required mental state, or other standard utilized by a State, political subdivision of a State, or Indian tribe to enforce a requirement applicable to the transportation of hazardous material.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 781; Pub. L. 103–311, title I, §§107, 117(a)(2), 120(b), Aug. 26, 1994, 108 Stat. 1674, 1678, 1681; Pub. L. 103–429, §6(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(b), Nov. 25, 2002, 116 Stat. 2320; Pub. L. 109–59, title VII, §§7122, 7123(a), 7126, Aug. 10, 2005, 119 Stat. 1907, 1909; Pub. L. 110–244, title III, §302(c), June 6, 2008, 122 Stat. 1618; Pub. L. 112–141, div. C, title III, §§33006(d), 33011, 33013(b), July 6, 2012, 126 Stat. 835, 838, 839.)
 

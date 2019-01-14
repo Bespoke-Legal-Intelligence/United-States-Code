@@ -22,7 +22,7 @@ The purposes of this subchapter are—
 
 &emsp;(7) to increase the number and percentage of low-income children in high-quality child care settings.
 
-(Pub. L. 97–35, title VI, §658A, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §602, Aug. 22, 1996, 110 Stat. 2279; Pub. L. 113–186, §2, Nov. 19, 2014, 128 Stat. 1971.)
+(Pub. L. 97–35, title VI, §658A, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat.1388–236; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §602, Aug. 22, 1996, 110 Stat. 2279; Pub. L. 113–186, §2, Nov. 19, 2014, 128 Stat. 1971.)
 
 #### Codification
 

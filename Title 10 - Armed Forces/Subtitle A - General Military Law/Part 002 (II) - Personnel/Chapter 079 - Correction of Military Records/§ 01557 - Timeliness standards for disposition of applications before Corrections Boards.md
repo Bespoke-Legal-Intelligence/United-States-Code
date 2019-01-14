@@ -16,7 +16,7 @@ Ten-Month Clearance Percentage.—Of the applications received by a Corrections 
 
 (b)
 
-Clearance Deadline for All Applications.—Final action by a Corrections Board onall applications received by the Corrections Board (other than those applications considered suitable for administrative correction) shall be completed within 18 months of receipt.
+Clearance Deadline for All Applications.—Final action by a Corrections Board on all applications received by the Corrections Board (other than those applications considered suitable for administrative correction) shall be completed within 18 months of receipt.
 
 (c)
 

@@ -11,11 +11,13 @@
 | [7445\.](%C2%A7%2007445%20-%20Offices.md) | Offices. |
 | [7446\.](%C2%A7%2007446%20-%20Times%20and%20places%20of%20sessions.md) | Times and places of sessions. |
 | [7447\.](%C2%A7%2007447%20-%20Retirement.md) | Retirement. |
-| [7448\.](%C2%A7%2007448%20-%20Annuities%20to%20surviving%20spouses%20and%20dependent%20children%20of%20judges%20and%20special%20trial%20judges.md) | Annuities of surviving spouses and dependent children.<sup>1</sup> |
+| [7448\.](%C2%A7%2007448%20-%20Annuities%20to%20surviving%20spouses%20and%20dependent%20children%20of%20judges%20and%20special%20trial%20judges.md) | Annuities to surviving spouses and dependent children of judges and special trial judges. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(326), Mar. 23, 2018, 132 Stat. 1200, substituted "Annuities to surviving spouses and dependent children of judges and special trial judges" for "Annuities of surviving spouses and dependent children" in item 7448.
 
 <b>2008</b>—Pub. L. 110–458 repealed amendment made by section 856 of Pub. L. 109–280. See 2006 Amendment note below.
 
@@ -28,8 +30,6 @@ Pub. L. 109–280, title VIII, §854(c)(2), Aug. 17, 2006, 120 Stat. 1018, which
 <b>1976</b>—Pub. L. 94–455, title XIX, §1906(b)(10), Oct. 4, 1976, 90 Stat. 1834, substituted "Annuities of surviving spouses and dependent children" for "Annuities to widows and dependent children of judges" in item 7448.
 
 <b>1961</b>—Pub. L. 87–370, §2, Oct. 4, 1961, 75 Stat. 801, added item 7448.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

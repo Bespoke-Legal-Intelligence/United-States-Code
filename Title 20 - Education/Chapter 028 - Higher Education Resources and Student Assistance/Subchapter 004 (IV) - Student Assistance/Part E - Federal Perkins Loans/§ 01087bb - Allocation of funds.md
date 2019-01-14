@@ -152,7 +152,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For fiscal year 2000 and any succeeding fiscal year, any institution with a cohort default rate (as defined in subsection (g)) that equals or exceeds 50 percent for each of the 3 most recent years for which data are available shall not be eligible to participate in a program under this part for the fiscal year for which the determination is made and the 2 succeeding fiscal years, unless, within 30 days of receiving notification from the Secretary of the loss of eligibility under this paragraph, the institution appeals the loss of eligibility to the Secretary. The Secretaryshall issue a decision on any such appeal within 45 days after the submission of the appeal. Such decision may permit the institution to continue to participate in a program under this part if—
+&emsp;&emsp;For fiscal year 2000 and any succeeding fiscal year, any institution with a cohort default rate (as defined in subsection (g)) that equals or exceeds 50 percent for each of the 3 most recent years for which data are available shall not be eligible to participate in a program under this part for the fiscal year for which the determination is made and the 2 succeeding fiscal years, unless, within 30 days of receiving notification from the Secretary of the loss of eligibility under this paragraph, the institution appeals the loss of eligibility to the Secretary. The Secretary shall issue a decision on any such appeal within 45 days after the submission of the appeal. Such decision may permit the institution to continue to participate in a program under this part if—
 
 &emsp;&emsp;&emsp;(i) the institution demonstrates to the satisfaction of the Secretary that the calculation of the institution's cohort default rate is not accurate, and that recalculation would reduce the institution's cohort default rate for any of the 3 fiscal years below 50 percent; or
 
@@ -160,7 +160,7 @@
 
 #### (B) Continued participation
 
-&emsp;&emsp;During an appeal under subparagraph (A), the Secretary may permit the institution to continue to participate in a program under this part.
+&emsp;&emsp;During an appeal under subparagraph (A), the Secretary may permit the institution tocontinue to participate in a program under this part.
 
 #### (C) Return of funds
 

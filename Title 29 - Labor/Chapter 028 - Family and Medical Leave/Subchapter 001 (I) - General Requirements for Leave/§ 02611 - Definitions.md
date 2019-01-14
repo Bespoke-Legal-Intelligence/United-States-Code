@@ -32,7 +32,7 @@ As used in this subchapter:
 
 #### (i) Determination
 
-&emsp;&emsp;&emsp;For purposes of determining whether an employee who is a flight attendant or flight crewmember (as such terms are defined in regulations of the Federal Aviation Administration) meets the hours ofservice requirement specified in subparagraph (A)(ii), the employee will be considered to meet the requirement if—
+&emsp;&emsp;&emsp;For purposes of determining whether an employee who is a flight attendant or flight crewmember (as such terms are defined in regulations of the Federal Aviation Administration) meets the hours of service requirement specified in subparagraph (A)(ii), the employee will be considered to meet the requirement if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the employee has worked or been paid for not less than 60 percent of the applicable total monthly guarantee, or the equivalent, for the previous 12-month period, for or by the employer with respect to whom leave is requested under section 2612 of this title; and
 
@@ -130,7 +130,7 @@ As used in this subchapter:
 
 &emsp;The term "covered active duty" means—
 
-&emsp;&emsp;(A) in the case of a member of a regular component of the Armed Forces, duty duringthe deployment of the member with the Armed Forces to a foreign country; and
+&emsp;&emsp;(A) in the case of a member of a regular component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country; and
 
 &emsp;&emsp;(B) in the case of a member of a reserve component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10.
 

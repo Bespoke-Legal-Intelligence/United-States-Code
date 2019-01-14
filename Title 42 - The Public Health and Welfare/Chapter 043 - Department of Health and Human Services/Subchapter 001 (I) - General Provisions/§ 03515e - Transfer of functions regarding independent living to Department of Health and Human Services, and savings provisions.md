@@ -112,7 +112,7 @@ The Administrator of the Administration for Community Living is authorized to ut
 
 &emsp;&emsp;(A) the term "NIDILRR" means the National Institute on Disability, Independent Living, and Rehabilitation Research of the Administration for Community Living of the Department of Health and Human Services; and
 
-&emsp;&emsp;(B) the term "NIDRR" means the National Institute on Disability and Rehabilitation Research of the Office of Special Education and Rehabilitative Services of the Department of Education.
+&emsp;&emsp;(B) the term "NIDRR" means the National Institute on Disability and RehabilitationResearch of the Office of Special Education and Rehabilitative Services of the Department of Education.
 
 #### (2) Transfer of functions
 

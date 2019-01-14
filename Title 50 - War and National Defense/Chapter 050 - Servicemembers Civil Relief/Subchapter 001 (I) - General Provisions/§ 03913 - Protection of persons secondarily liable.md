@@ -2,7 +2,7 @@
 
 #### (a) Extension of protection when actions stayed, postponed, or suspended
 
-Whenever pursuant to this chapter a court stays, postpones, or suspends (1) the enforcement of an obligation or liability, (2) the prosecution of a suit or proceeding, (3) the entry orenforcement of an order, writ, judgment, or decree, or (4) the performance of any other act, the court may likewise grant such a stay, postponement, or suspension to a surety, guarantor, endorser, accommodation maker, comaker, or other person who is or may be primarily or secondarily subject to the obligation or liability the performance or enforcement of which is stayed, postponed, or suspended.
+Whenever pursuant to this chapter a court stays, postpones, or suspends (1) the enforcement of an obligation or liability, (2) the prosecution of a suit or proceeding, (3) the entry or enforcement of an order, writ, judgment, or decree, or (4) the performance of any other act, the court may likewise grant such a stay, postponement, or suspension to a surety, guarantor, endorser, accommodation maker, comaker, or other person who is or may be primarily or secondarily subject to the obligation or liability the performance or enforcement of which is stayed, postponed, or suspended.
 
 #### (b) Vacation or set-aside of judgments
 
@@ -31,4 +31,8 @@ Section was formerly classified to section 513 of the former Appendix to this ti
 #### Prior Provisions
 
 A prior section 103 of acts Oct. 17, 1940, ch. 888, art. I, 54 Stat. 1179; Oct. 6, 1942, ch. 581, §§2, 3, 56 Stat. 769; Pub. L. 102–12, §9(3), Mar. 18, 1991, 105 Stat. 39, related to protection of persons secondarily liable, prior to the general amendment of this Act by Pub. L. 108–189.
+
+#### Effective Date
+
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under section 3901 of this title.
 

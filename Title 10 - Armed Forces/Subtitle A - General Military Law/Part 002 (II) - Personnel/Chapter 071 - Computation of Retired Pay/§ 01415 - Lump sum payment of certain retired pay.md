@@ -54,7 +54,7 @@ In general.—An eligible person entitled to covered retired pay (including an e
 
 Discounted present value.—The Secretary of Defense shall compute the discounted present value of amounts of covered retired pay that an eligible person is otherwise entitled to receive for a period for purposes of paragraph (1)(A) by—
 
-&emsp;&emsp;(A) estimating the aggregate amount of retired pay the person would receive for the period, taking into account cost-of-living adjustments under section 1401a of this title projected by the Secretary at the time the person separates from service and wouldotherwise begin receiving covered retired pay; and
+&emsp;&emsp;(A) estimating the aggregate amount of retired pay the person would receive for the period, taking into account cost-of-living adjustments under section 1401a of this title projected by the Secretary at the time the person separates from service and would otherwise begin receiving covered retired pay; and
 
 &emsp;&emsp;(B) reducing the aggregate amount estimated pursuant to subparagraph (A) by an appropriate percentage determined by the Secretary—
 
@@ -104,9 +104,9 @@ Payment of Retired Pay to Persons Not Making Election.—An eligible person who 
 
 (e)
 
-Regulations.—The Secretary of Defense concerned <sup>1</sup> shall prescribe regulations to carry out the provisions of this section.
+Regulations.—The Secretary of Defense shall prescribe regulations to carry out the provisions of this section.
 
-(Added Pub. L. 114–92, div. A, title VI, §633(a)(1), Nov. 25, 2015, 129 Stat. 847; amended Pub. L. 114–328, div. A, title X, §1081(a)(4), Dec. 23, 2016, 130 Stat. 2417.)
+(Added Pub. L. 114–92, div. A, title VI, §633(a)(1), Nov. 25, 2015, 129 Stat. 847; amended Pub. L. 114–328, div. A, title X, §1081(a)(4), Dec. 23, 2016, 130 Stat. 2417; Pub. L. 115–232, div. A, title X, §1081(a)(14), Aug. 13, 2018, 132 Stat. 1984.)
 
 #### References in Text
 
@@ -116,11 +116,11 @@ The Public Health Service Act, referred to in subsec. (a)(1)(D), is act July 1, 
 
 #### Amendments
 
+<b>2018</b>—Subsec. (e). Pub. L. 115–232 struck out "concerned" after "The Secretary of Defense".
+
 <b>2016</b>—Subsec. (b)(1)(B)(ii). Pub. L. 114–328 inserted period at end.
 
 #### Effective Date; Implementation
 
 Section effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as an Effective Date of 2015 Amendment; Implementation note under section 8432 of Title 5, Government Organization and Employees.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

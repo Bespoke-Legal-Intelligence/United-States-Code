@@ -6,7 +6,7 @@ For purposes of part V of subchapter B of chapter 1 and those provisions of this
 
 &emsp;(1) the determination of whether an individual is married shall be made as of the close of his taxable year; except that if his spouse dies during his taxable year such determination shall be made as of the time of such death; and
 
-&emsp;(2) an individual legally separated from his spouse under a decree of divorce or of separatemaintenance shall not be considered as married.
+&emsp;(2) an individual legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married.
 
 #### (b) Certain married individuals living apart
 
@@ -38,7 +38,7 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date
 

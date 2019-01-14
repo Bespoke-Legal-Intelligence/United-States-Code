@@ -8,7 +8,7 @@
 
 #### (2) Cost recovery authority
 
-&emsp;The non-Federal interest may recover the costs assigned to the additional capacity through fees assessed on third parties whose dredged material is deposited at the facility and who enter into agreements with the non-Federal interest for the use of the facility. The amount of such fees may be determined by the non-Federal interest.
+&emsp;The non-Federal interest may recover the costs assigned to the additional capacitythrough fees assessed on third parties whose dredged material is deposited at the facility and who enter into agreements with the non-Federal interest for the use of the facility. The amount of such fees may be determined by the non-Federal interest.
 
 #### (b) Non-Federal use of disposal facilities
 
@@ -112,7 +112,7 @@
 
 #### References in Text
 
-The Budget Act, referred to in subsec. (d)(2)(E) heading, probably means the Congressional Budget Act of1974, titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
+The Budget Act, referred to in subsec. (d)(2)(E) heading, probably means the Congressional Budget Act of 1974, titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
 #### Codification
 

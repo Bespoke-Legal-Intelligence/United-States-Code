@@ -2,7 +2,7 @@
 
 (a)
 
-Modular Open System Approach Requirement.—A major defense acquisition program that receives Milestone A or Milestone B approval after January 1, 2019, shall be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.
+Modular Open System Approach Requirement.—A major defense acquisition program that receives Milestone A or Milestone B approval after January 1, 2019, shall be designed and developed, to the maximum extent practicable, with a modular open system approach toenable incremental development and enhance competition, innovation, and interoperability.
 
 (b)
 

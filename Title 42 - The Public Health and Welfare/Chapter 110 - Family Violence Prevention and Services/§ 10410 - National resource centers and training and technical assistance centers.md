@@ -70,7 +70,7 @@
 
 &emsp;&emsp;An eligible entity shall use a grant provided under this paragraph—
 
-&emsp;&emsp;&emsp;(i) to offer a comprehensive array of technical assistance and training resources to Indian tribes, tribal organizations, and providers of services to Indians (including Alaska Natives) or Native Hawaiians, specifically designed to enhance the capacity of the tribes, organizations, and providers to respond to domestic violence, including offering the resources in States in which the population of Indians (including Alaska Natives) or Native Hawaiians exceeds 2.5 percent of the total population of the State;
+&emsp;&emsp;&emsp;(i) to offer a comprehensive array of technical assistance and training resources to Indian tribes, tribal organizations, and providers of services to Indians (including Alaska Natives) or Native Hawaiians, specifically designed to enhance the capacity of the tribes, organizations,and providers to respond to domestic violence, including offering the resources in States in which the population of Indians (including Alaska Natives) or Native Hawaiians exceeds 2.5 percent of the total population of the State;
 
 &emsp;&emsp;&emsp;(ii) to coordinate all projects and activities with the national resource center described in paragraph (1)(B), including projects and activities that involve working with nontribal State and local governments to enhance their capacity to understand the unique needs of Indians (including Alaska Natives) and Native Hawaiians; and
 
@@ -126,13 +126,13 @@
 
 #### (d) Reports and evaluation
 
-Each entity receiving a grant under this section shall submit a performance report to theSecretary annually and in such manner as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of the activities, and provide such additional information as the Secretary may reasonably require.
+Each entity receiving a grant under this section shall submit a performance report to the Secretary annually and in such manner as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of the activities, and provide such additional information as the Secretary may reasonably require.
 
 (Pub. L. 98–457, title III, §310, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3497.)
 
 #### References in Text
 
-Sections 901 and 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005, referred to in subsecs. (b)(1)(B)(i), (ii) and (c)(2)(A), (B), are sections 901 and 902, respectively, of Pub. L. 109–162, which were set out as a note under section 3796gg–10 of this title, prior to editorial reclassification as a note under section 10452 of Title 34, Crime Control and Law Enforcement.
+Sections 901 and 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005,referred to in subsecs. (b)(1)(B)(i), (ii) and (c)(2)(A), (B), are sections 901 and 902, respectively, of Pub. L. 109–162, which were set out as a note under section 3796gg–10 of this title, prior to editorial reclassification as a note under section 10452 of Title 34, Crime Control and Law Enforcement.
 
 #### Prior Provisions
 

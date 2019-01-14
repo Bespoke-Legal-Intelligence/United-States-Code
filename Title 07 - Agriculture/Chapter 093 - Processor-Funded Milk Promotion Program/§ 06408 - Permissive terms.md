@@ -14,7 +14,7 @@ The order may provide for establishing and carrying out research projects and st
 
 #### (d) Reserve funds
 
-The order may provide authority to accumulate reserve funds from assessments collected pursuant to the order, to permit an effective and continuous coordinated program of research andadvertising in years when the assessment income may be reduced, except that the total reserve fund may not exceed 25 percent of the amount budgeted for the operation in the current fiscal year of the order.
+The order may provide authority to accumulate reserve funds from assessments collected pursuant to the order, to permit an effective and continuous coordinated program of research and advertising in years when the assessment income may be reduced, except that the total reserve fund may not exceed 25 percent of the amount budgeted for the operation in the current fiscal year of the order.
 
 #### (e) Other terms
 

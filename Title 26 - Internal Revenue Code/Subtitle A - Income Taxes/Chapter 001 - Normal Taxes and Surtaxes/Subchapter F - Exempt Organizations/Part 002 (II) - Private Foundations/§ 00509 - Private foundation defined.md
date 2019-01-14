@@ -42,7 +42,7 @@ For purposes of this title, the term "private foundation" means a domestic or fo
 
 #### (b) Continuation of private foundation status
 
-For purposes of this title, if an organization is a private foundation (within the meaning of subsection (a)) on October 9, 1969, or becomes a private foundation on any subsequent date, such organization shall be treated as a private foundation for all periods after October 9, 1969, or after such subsequent date, unless its status as such is terminated under section 507.
+For purposes of this title, if an organization is a private foundation (within the meaning of subsection (a)) on October 9, 1969, or becomes a private foundation on any subsequent date, suchorganization shall be treated as a private foundation for all periods after October 9, 1969, or after such subsequent date, unless its status as such is terminated under section 507.
 
 #### (c) Status of organization after termination of private foundation status
 
@@ -132,7 +132,7 @@ Sections 1221(a)(2) and 1241(a), (b) of Pub. L. 109–280, which directed the am
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(3)(B). Pub. L. 109–280, §1241(a), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: "is operated, supervised, or controlled by or in connection with one or more organizations described in paragraph (1) or (2), and". See Codification note above.
+<b>2006</b>—Subsec. (a)(3)(B). Pub. L. 109–280, §1241(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "is operated, supervised, or controlled by or in connection with one or more organizations described in paragraph (1) or (2), and". See Codification note above.
 
 Subsec. (e). Pub. L. 109–280, §1221(a)(2), inserted at end "Such term shall also include income from sources similar to those in the preceding sentence." See Codification note above.
 

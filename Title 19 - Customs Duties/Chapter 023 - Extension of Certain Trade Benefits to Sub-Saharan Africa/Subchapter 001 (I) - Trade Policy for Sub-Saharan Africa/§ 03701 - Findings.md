@@ -32,6 +32,10 @@ Congress finds that—
 
 Pub. L. 112–163, §1(d), Aug. 10, 2012, 126 Stat. 1274, provided that: "The amendments made by this section \[amending this section and sections 3706 and 3721 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2012\]."
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–167, §1, Apr. 23, 2018, 132 Stat. 1276, provided that: "This Act \[enacting section 3707 of this title, amending sections 7703, 7705, 7706, 7708, 7709, 7711, 7712, and 7715 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, section 3707 of this title, and section 7708 of Title 22\] may be cited as the 'African Growth and Opportunity Act and Millennium Challenge Act Modernization Act' or the 'AGOA and MCA Modernization Act'."
+
 #### Short Title of 2015 Amendment
 
 Pub. L. 114–27, title I, §101, June 29, 2015, 129 Stat. 363, provided that: "This title \[amending sections 2466a, 2466b, 3702, 3703, and 3721 of this title, enacting provisions set out as notes under this section and sections 2466a and 3705 of this title, and amending provisions set out as a note under this section\] may be cited as the 'AGOA Extension and Enhancement Act of 2015'."
@@ -45,6 +49,14 @@ Pub. L. 109–432, div. D, title VI, §6001, Dec. 20, 2006, 120 Stat. 3190, prov
 Pub. L. 106–200, §1(a), May 18, 2000, 114 Stat. 251, provided that: "This Act \[see Tables for classification\] may be cited as the 'Trade and Development Act of 2000'."
 
 Pub. L. 106–200, title I, §101, May 18, 2000, 114 Stat. 252, provided that: "This title \[enacting this chapter and sections 2466a and 2466b of this title and amending section 2463 of this title and sections 2193 and 2293 of Title 22, Foreign Relations and Intercourse\] may be cited as the 'African Growth and Opportunity Act'."
+
+#### Statement of Policy
+
+Pub. L. 115–167, title I, §101, Apr. 23, 2018, 132 Stat. 1276, provided that: "It is the policy of the United States to support efforts to—
+
+&emsp;"(1) improve the rule of law, promote free and fair elections, strengthen and expand the private sector, and fight corruption in sub-Saharan Africa; and
+
+&emsp;"(2) promote the role of women in social, political, and economic development in sub-Saharan Africa."
 
 #### Findings Relating to Extension and Enhancement of African Growth and Opportunity Act
 
@@ -210,7 +222,7 @@ Entries.—The entries referred to in subsection (a) are entries of apparel arti
 
 "(a)
 
-Reports.—The President shall, by not later than 1 year after the date of the enactment of this Act \[July13, 2004\], conduct a study on each eligible sub-Saharan African country, that—
+Reports.—The President shall, by not later than 1 year after the date of the enactment of this Act \[July 13, 2004\], conduct a study on each eligible sub-Saharan African country, that—
 
 &emsp;"(1) identifies sectors of the economy of that country with the greatest potential for growth, including through export sales;
 
@@ -220,7 +232,7 @@ Reports.—The President shall, by not later than 1 year after the date of the e
 
 "(b)
 
-Dissemination of Information.—The President shall disseminate information in each study conducted under subsection (a) to the appropriate United States agencies for the purpose of implementing recommendations on the provision of technical assistance and in identifying opportunities for United States investors, businesses, and farmers.
+Dissemination of Information.—The President shall disseminate information in each study conductedunder subsection (a) to the appropriate United States agencies for the purpose of implementing recommendations on the provision of technical assistance and in identifying opportunities for United States investors, businesses, and farmers.
 
 #### "SEC. 10. ACTIVITIES IN SUPPORT OF INFRASTRUCTURE TO SUPPORT INCREASING TRADE CAPACITY AND ECOTOURISM.
 
@@ -318,7 +330,7 @@ Coordination.—The President shall take such measures as are necessary to ensur
 
 #### "SEC. 14. TRADE ADVISORY COMMITTEE ON AFRICA.
 
-"The President shall convene the trade advisory committee on Africa established by Executive Order 11846 of March 27, 1975 \[19 U.S.C. 2111 note\], under section 135(c) of the Trade Act of 1974 \[19 U.S.C. 2155(c)\], in order to facilitate the goals and objectives of the African Growth and Opportunity Act \[19 U.S.C. 3701 et seq.\] and this Act, and to maintain ongoing discussions with African trade and agriculture ministries and private sector organizations on issues of mutual concern, including regional and international trade concerns and World Trade Organization issues."
+"The President shall convene the trade advisory committee on Africa established by Executive Order 11846of March 27, 1975 \[19 U.S.C. 2111 note\], under section 135(c) of the Trade Act of 1974 \[19 U.S.C. 2155(c)\], in order to facilitate the goals and objectives of the African Growth and Opportunity Act \[19 U.S.C. 3701 et seq.\] and this Act, and to maintain ongoing discussions with African trade and agriculture ministries and private sector organizations on issues of mutual concern, including regional and international trade concerns and World Trade Organization issues."
 
 \[Functions of President under section 13(c) of Pub. L. 108–274, set out above, assigned to Administrator of United States Agency for International Development, in collaboration with Secretary of Agriculture, see Ex. Ord. No. 13720, §1(c), Feb. 26, 2016, 81 F.R. 11089, set out as a note under section 2466a of this title.\]
 

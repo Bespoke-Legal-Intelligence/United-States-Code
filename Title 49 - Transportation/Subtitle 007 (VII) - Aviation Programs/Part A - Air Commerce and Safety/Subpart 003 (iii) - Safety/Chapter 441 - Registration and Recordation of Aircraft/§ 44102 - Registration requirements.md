@@ -48,7 +48,7 @@ Aug. 23, 1958, Pub. L. 85–726, §501(b), 72 Stat. 772; restated Nov. 9, 1977, 
 
 49 App.:1401(b) (last sentence).
 
-In subsection (a), before clause (1), the words "may be registered" are substituted for "shall be eligible for registration", and the words "under section 44103 of this title" are added, for clarity. The words "only when" are substituted for "if, but only if" for consistency. In subclause (C), the words "not a citizen of the United States" are substituted for "(other than a corporation which is a citizen of the United States)" to eliminate unnecessary words. The word "lawfully" is omitted as surplus.
+In subsection (a), before clause (1), the words "may be registered" are substituted for "shall be eligible for registration", and the words "under section 44103 of this title" are added, for clarity. The words "only when" are substituted for "if, but only if" for consistency. In subclause (C), the words "not a citizen of the United States" are substituted for "(other than a corporation which is a citizen of the United States)" toeliminate unnecessary words. The word "lawfully" is omitted as surplus.
 
 In subsection (b), the words "In carrying out subsection (a)(1)(C) of this section" are added because of the restatement. The words "by regulation" are omitted as unnecessary because of 49:322(a).
 

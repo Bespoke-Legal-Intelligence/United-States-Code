@@ -36,7 +36,7 @@ It shall be unlawful for any person to effect, in contravention of such rules an
 
 &emsp;&emsp;(C) such security-based swap; or
 
-&emsp;(3) any transaction in any security for the account of any person who such person has reason to believe has, and who actually has, directly or indirectly, any interest in any—
+&emsp;(3) any transaction in any security for the account of any person who such person hasreason to believe has, and who actually has, directly or indirectly, any interest in any—
 
 &emsp;&emsp;(A) such put, call, straddle, option, or privilege;
 
@@ -58,7 +58,7 @@ The terms "put", "call", "straddle", "option", or "privilege" as used in this se
 
 #### (f) Persons liable; suits at law or in equity
 
-Any person who willfully participates in any act or transaction in violation of subsections (a), (b), or (c) of this section, shall be liable to any person who shall purchase or sell any security at a price which was affected by such act or transaction, and the person so injured may sue in law or in equity in any court of competent jurisdiction to recover the damages sustained as a result of any such act or transaction. In anysuch suit the court may, in its discretion, require an undertaking for the payment of the costs of such suit, and assess reasonable costs, including reasonable attorneys' fees, against either party litigant. Every person who becomes liable to make any payment under this subsection may recover contribution as in cases of contract from any person who, if joined in the original suit, would have been liable to make the same payment. No action shall be maintained to enforce any liability created under this section, unless brought within one year after the discovery of the facts constituting the violation and within three years after such violation.
+Any person who willfully participates in any act or transaction in violation of subsections (a), (b), or (c) of this section, shall be liable to any person who shall purchase or sell any security at a price which was affected by such act or transaction, and the person so injured may sue in law or in equity in any court of competent jurisdiction to recover the damages sustained as a result of any such act or transaction. In any such suit the court may, in its discretion, require an undertaking for the payment of the costs of such suit, and assess reasonable costs, including reasonable attorneys' fees, against either party litigant. Every person who becomes liable to make any payment under this subsection may recover contribution as in cases of contract from any person who, if joined in the original suit, would have been liable to make the same payment. No action shall be maintained to enforce any liability created under this section, unless brought within one year after the discovery of the facts constituting the violation and within three years after such violation.
 
 #### (g) Subsection (a) not applicable to exempted securities
 
@@ -86,13 +86,9 @@ The authority of the Commission under this section with respect to security-base
 
 #### (j) <sup>1</sup> Regulations relating to security-based swaps
 
-It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of interstate commerce or of the mails, or of any facility of any national securities exchange, to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any security-based swap, in connection with which such person engages in any fraudulent, deceptive, or manipulative act or practice, makes any fictitious quotation, or engages in any transaction, practice, or course of business which operates as a fraud or deceit upon any person. The Commission shall, for the purposes of this subsection, by rules and regulations define, and prescribe means reasonably designed to prevent, such transactions, acts, practices, and courses of business as are fraudulent, deceptive, or manipulative, and such quotations as are fictitious.
+It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of interstate commerce or of the mails, or of any facility of any national securities exchange, to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any security-based swap, in connection with which such person engages in any fraudulent, deceptive, or manipulative act or practice, makes any fictitious quotation, or engages inany transaction, practice, or course of business which operates as a fraud or deceit upon any person. The Commission shall, for the purposes of this subsection, by rules and regulations define, and prescribe means reasonably designed to prevent, such transactions, acts, practices, and courses of business as are fraudulent, deceptive, or manipulative, and such quotations as are fictitious.
 
 (June 6, 1934, ch. 404, title I, §9, 48 Stat. 889; Pub. L. 97–303, §3, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 101–432, §6(a), Oct. 16, 1990, 104 Stat. 975; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(1), (2), title III, §303(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–425, 2763A–426, 2763A–453, 2763A–454; Pub. L. 111–203, title VII, §§762(d)(2), 763(f), (g), title IX, §§929L(1), 929X(b), July 21, 2010, 124 Stat. 1760, 1777, 1861, 1870.)
-
-#### Amendment of Section
-
-<i>Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 
@@ -156,7 +152,7 @@ Subsec. (g). Pub. L. 97–303, §3(2), added subsec. (g).
 
 Amendment by sections 929L(1) and 929X(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 Title 12, Banks and Banking.
 
-Amendment by sections 762(d)(2) and 763(f), (g) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
+Amendment by sections 762(d)(2) and 763(f), (g) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B\(§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
 #### Transfer of Functions
 

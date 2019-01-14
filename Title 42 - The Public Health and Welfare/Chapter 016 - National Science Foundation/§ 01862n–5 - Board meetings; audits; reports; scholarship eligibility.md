@@ -18,7 +18,7 @@
 
 #### (5) Materials relating to closed portions of meetings
 
-&emsp;To facilitate the audit required under paragraph (3) of this subsection, the Office of theNational Science Board shall maintain the General Counsel's certificate, the presiding officer's statement, and a transcript or recording of any closed meeting, for at least 3 years after such meeting.
+&emsp;To facilitate the audit required under paragraph (3) of this subsection, the Office of the National Science Board shall maintain the General Counsel's certificate, the presiding officer's statement, and a transcript or recording of any closed meeting, for at least 3 years after such meeting.
 
 #### (b), (c) Omitted
 

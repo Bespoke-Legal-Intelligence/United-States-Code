@@ -16,7 +16,7 @@
 
 #### (b) Withdrawal from customs bonded warehouses
 
-Notwithstanding any other provisions of law, distilled spirits entered into customs bonded warehouses under the provisions of subsection (a) may, under such regulations as the Secretary may prescribe, be withdrawn from such warehouses for consumption in the United States by and for the official or family use of such foreign governments, organizations, and individuals who are entitled to withdraw imported distilled spirits from such warehouses free of tax. Distilled spirits transferred to customs bonded warehouses under the provisions of this section shall be entered, stored, and accounted for in such warehouses under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported distilled spirits.
+Notwithstanding any other provisions of law, distilled spirits entered into customs bonded warehouses under the provisions of subsection\(a) may, under such regulations as the Secretary may prescribe, be withdrawn from such warehouses for consumption in the United States by and for the official or family use of such foreign governments, organizations, and individuals who are entitled to withdraw imported distilled spirits from such warehouses free of tax. Distilled spirits transferred to customs bonded warehouses under the provisions of this section shall be entered, stored, and accounted for in such warehouses under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported distilled spirits.
 
 #### (c) Withdrawal for domestic use
 
@@ -24,19 +24,17 @@ Distilled spirits entered into customs bonded warehouses as authorized by this s
 
 #### (d) Sale or unauthorized use prohibited
 
-No distilled spirits withdrawn from customs bonded warehouses or otherwise brought into the United States free of tax for the official or family use of such foreign governments, organizations, or individuals as are authorized to obtain distilled spirits free of tax shall be sold, or shall be disposed of or possessed for any use other than an authorized use. The provisions of section 5001(a)(5) <sup>1</sup> are hereby extended and made applicable to any person selling, disposing of, or possessing any distilled spirits in violation of the preceding sentence, and to the distilled spirits involved in any such violation.
+No distilled spirits withdrawn from customs bonded warehouses or otherwise brought into the United States free of tax for the official or family use of such foreign governments, organizations, or individuals as are authorized to obtain distilled spirits free of tax shall be sold, or shall be disposed of or possessed for any use other than an authorized use. The provisions of section 5001(a)(4) are hereby extended and made applicable to any person selling, disposing of, or possessing any distilled spirits in violation of the preceding sentence, and to the distilled spirits involved in any such violation.
 
-(Added Pub. L. 91–659, §3(a), Jan. 8, 1971, 84 Stat. 1965; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §2(d), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, §807(a)(11), July 26, 1979, 93 Stat. 282; Pub. L. 98–369, div. A, title IV, §454(c)(2), July 18, 1984, 98 Stat. 820.)
-
-#### References in Text
-
-Section 5001(a)(5), referred to in subsec. (d), was redesignated section 5001(a)(4) by Pub. L. 103–465, title I, §136(a), Dec. 8, 1994, 108 Stat. 4841.
+(Added Pub. L. 91–659, §3(a), Jan. 8, 1971, 84 Stat. 1965; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §2(d), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, §807(a)(11), July 26, 1979, 93 Stat. 282; Pub. L. 98–369, div. A, title IV, §454(c)(2), July 18, 1984, 98 Stat. 820; Pub. L. 115–141, div. U, title IV, §401(a)(240), Mar. 23, 2018, 132 Stat. 1195.)
 
 #### Prior Provisions
 
 A prior section 5066 was renumbered 5067 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–141 substituted "section 5001(a)(4)" for "section 5001(a)(5)".
 
 <b>1984</b>—Subsec. (a)(2). Pub. L. 98–369 substituted "marked" for "stamped or restamped, and marked,".
 
@@ -63,6 +61,4 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 #### Effective Date
 
 Pub. L. 91–659, §6, Jan. 8, 1971, 84 Stat. 1966, provided that: "This Act \[enacting this section and amending sections 5008, 5173, 5178, 5215, and 5232 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Jan. 8, 1971\]."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

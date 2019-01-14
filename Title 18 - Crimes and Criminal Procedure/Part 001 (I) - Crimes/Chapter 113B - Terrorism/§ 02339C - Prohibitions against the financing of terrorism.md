@@ -176,7 +176,7 @@ Subsec. (e)(13), (14). Pub. L. 108–458, §6604(b), as amended by Pub. L. 109�
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–177, title IV, §408, Mar. 9, 2006, 120 Stat. 245, provided that the amendment by Pub. L. 109–177 tosection 6604 of Pub. L. 108–458 (amending this section) is effective on the date of enactment of Pub. L. 108–458 (Dec. 17, 2004).
+Pub. L. 109–177, title IV, §408, Mar. 9, 2006, 120 Stat. 245, provided that the amendment by Pub. L. 109–177 to section 6604 of Pub. L. 108–458 (amending this section)is effective on the date of enactment of Pub. L. 108–458 (Dec. 17, 2004).
 
 #### Effective Date
 

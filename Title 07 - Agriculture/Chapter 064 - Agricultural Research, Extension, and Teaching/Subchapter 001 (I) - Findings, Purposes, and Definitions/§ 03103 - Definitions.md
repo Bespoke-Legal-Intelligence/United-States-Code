@@ -124,7 +124,7 @@ Insular area.—The term "insular area" means—
 
 &emsp;&emsp;(H) the Virgin Islands of the United States.
 
-&emsp;(13) The term "land-grant colleges and universities" means those institutions eligible toreceive funds under the Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), or the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University.
+&emsp;(13) The term "land-grant colleges and universities" means those institutions eligible to receive funds under the Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), or the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University.
 
 &emsp;(14) NLGCA
 
@@ -132,7 +132,81 @@ institution; non-land-grant college of agriculture.—
 
 &emsp;&emsp;(A)
 
-In general.—The terms "NLGCA Institution" and "non-land-grant college of agriculture" mean a public college or university offering a baccalaureate or higher degree in the study of food and agricultural sciences.
+In general.—
+
+&emsp;&emsp;&emsp;(i)
+
+Definition.—The terms "NLGCA Institution" and "non-land-grant college of agriculture" mean a public college or university offering a baccalaureate or higher degree in the study of agricultural sciences, forestry, or both in any area of study specified in clause (ii).
+
+&emsp;&emsp;&emsp;(ii)
+
+Clarification.—For purposes of clause (i), an area of study specified in this clause is any of the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) Agriculture.
+
+&emsp;&emsp;&emsp;&emsp;(II) Agricultural business and management.
+
+&emsp;&emsp;&emsp;&emsp;(III) Agricultural economics.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Agricultural mechanization.
+
+&emsp;&emsp;&emsp;&emsp;(V) Agricultural production operations.
+
+&emsp;&emsp;&emsp;&emsp;(VI) Aquaculture.
+
+&emsp;&emsp;&emsp;&emsp;(VII) Agricultural and food products processing.
+
+&emsp;&emsp;&emsp;&emsp;(VIII) Agricultural and domestic animal services.
+
+&emsp;&emsp;&emsp;&emsp;(IX) Equestrian or equine studies.
+
+&emsp;&emsp;&emsp;&emsp;(X) Applied horticulture or horticulture operations.
+
+&emsp;&emsp;&emsp;&emsp;(XI) Ornamental horticulture.
+
+&emsp;&emsp;&emsp;&emsp;(XII) Greenhouse operations and management.
+
+&emsp;&emsp;&emsp;&emsp;(XIII) Turf and turfgrass management.
+
+&emsp;&emsp;&emsp;&emsp;(XIV) Plant nursery operations and management.
+
+&emsp;&emsp;&emsp;&emsp;(XV) Floriculture or floristry operations and management.
+
+&emsp;&emsp;&emsp;&emsp;(XVI) International agriculture.
+
+&emsp;&emsp;&emsp;&emsp;(XVII) Agricultural public services.
+
+&emsp;&emsp;&emsp;&emsp;(XVIII) Agricultural and extension education services.
+
+&emsp;&emsp;&emsp;&emsp;(XIX) Agricultural communication or agricultural journalism.
+
+&emsp;&emsp;&emsp;&emsp;(XX) Animal sciences.
+
+&emsp;&emsp;&emsp;&emsp;(XXI) Food science.
+
+&emsp;&emsp;&emsp;&emsp;(XXII) Plant sciences.
+
+&emsp;&emsp;&emsp;&emsp;(XXIII) Soil sciences.
+
+&emsp;&emsp;&emsp;&emsp;(XXIV) Forestry.
+
+&emsp;&emsp;&emsp;&emsp;(XXV) Forest sciences and biology.
+
+&emsp;&emsp;&emsp;&emsp;(XXVI) Natural resources or conservation.
+
+&emsp;&emsp;&emsp;&emsp;(XXVII) Natural resources management and policy.
+
+&emsp;&emsp;&emsp;&emsp;(XXVIII) Natural resource economics.
+
+&emsp;&emsp;&emsp;&emsp;(XXIX) Urban forestry.
+
+&emsp;&emsp;&emsp;&emsp;(XXX) Wood science and wood products or pulp or paper technology.
+
+&emsp;&emsp;&emsp;&emsp;(XXXI) Range science and management.
+
+&emsp;&emsp;&emsp;&emsp;(XXXII) Agricultural engineering.
+
+&emsp;&emsp;&emsp;&emsp;(XXXIII) Any other area, as determined appropriate by the Secretary.
 
 &emsp;&emsp;(B)
 
@@ -140,19 +214,13 @@ Designation.—Not later than 90 days after Feb. 7, 2014, the Secretary shall es
 
 &emsp;&emsp;(C)
 
-Exclusions.—The terms "NLGCA Institution" and "non-land-grant college of agriculture" do not include—
+Exclusions.—The terms "NLGCA Institution" and "non-land-grant college of agriculture" do not include any institution designated under—
 
-&emsp;&emsp;&emsp;(i) Hispanic-serving agricultural colleges and universities; or
+&emsp;&emsp;&emsp;(i) the Act of July 2, 1862 (commonly known as the "First Morrill Act"; 7 U.S.C. 301 et seq.);
 
-&emsp;&emsp;&emsp;(ii) any institution designated under—
+&emsp;&emsp;&emsp;(ii) the Act of August 30, 1890 (commonly known as the "Second Morrill Act") (7 U.S.C. 321 et seq.); or
 
-&emsp;&emsp;&emsp;&emsp;(I) the Act of July 2, 1862 (commonly known as the "First Morrill Act"; 7 U.S.C. 301 et seq.);
-
-&emsp;&emsp;&emsp;&emsp;(II) the Act of August 30, 1890 (commonly known as the "Second Morrill Act") (7 U.S.C. 321 et seq.);
-
-&emsp;&emsp;&emsp;&emsp;(III) the Equity in Educational Land-Grant Status Act of 1994 (Public Law 103–382; 7 U.S.C. 301 note); or
-
-&emsp;&emsp;&emsp;&emsp;(IV) Public Law 87–788 (commonly known as the "McIntire-Stennis Cooperative Forestry Act") (16 U.S.C. 582a et seq.).
+&emsp;&emsp;&emsp;(iii) the Equity in Educational Land-Grant Status Act of 1994 (Public Law 103–382; 7 U.S.C. 301 note).
 
 &emsp;(15) The term "Secretary" means the Secretary of Agriculture of the United States.
 
@@ -200,29 +268,33 @@ State.—The term "State" means—
 
 Teaching and education.—The terms "teaching" and "education" mean formal classroom instruction, laboratory instruction, and practicum experience in the food and agricultural sciences and matters relating thereto (such as faculty development, student recruitment and services, curriculum development, instructional materials and equipment, and innovative teaching methodologies) conducted by colleges and universities offering baccalaureate or higher degrees.
 
-(Pub. L. 95–113, title XIV, §1404, Sept. 29, 1977, 91 Stat. 983; Pub. L. 97–98, title XIV, §1404, Dec. 22, 1981, 95 Stat. 1297; Pub. L. 99–198, title XIV, §1403, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, §1603, Nov. 28, 1990, 104 Stat. 3705; Pub. L. 102–237, title IV, §402(3), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §§802(b)(1), 815(b), 820(a), 853(b)(1), Apr. 4, 1996, 110 Stat. 1159, 1167, 1168, 1172; Pub. L. 105–185, title II, §§221, 226(c)(1), June 23, 1998, 112 Stat. 537, 543; Pub. L. 107–171, title VII, §7502(a), May 13, 2002, 116 Stat. 463; Pub. L. 110–234, title VII, §7101(a), May 22, 2008, 122 Stat. 1212; Pub. L. 110–246, §4(a), title VII, §7101(a), June 18, 2008, 122 Stat. 1664, 1973; Pub. L. 113–79, title VII, §§7101, 7111(b)(1), Feb. 7, 2014, 128 Stat. 862, 873.)
+(Pub. L. 95–113, title XIV, §1404, Sept. 29, 1977, 91 Stat. 983; Pub. L. 97–98, title XIV, §1404, Dec. 22, 1981, 95 Stat. 1297; Pub. L. 99–198, title XIV, §1403, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, §1603, Nov. 28, 1990, 104 Stat. 3705; Pub. L. 102–237, title IV, §402(3), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §§802(b)(1), 815(b), 820(a), 853(b)(1), Apr. 4, 1996, 110 Stat. 1159, 1167, 1168, 1172; Pub. L. 105–185, title II, §§221, 226(c)(1), June 23, 1998, 112 Stat. 537, 543; Pub. L. 107–171, title VII, §7502(a), May 13, 2002, 116 Stat. 463; Pub. L. 110–234, title VII, §7101(a), May 22, 2008, 122 Stat. 1212; Pub. L. 110–246, §4(a), title VII, §7101(a), June 18, 2008, 122 Stat. 1664, 1973; Pub. L. 113–79, title VII, §§7101, 7111(b)(1), Feb. 7, 2014, 128 Stat. 862, 873; Pub. L. 115–334, title VII, §7102(a), Dec. 20, 2018, 132 Stat. 4779.)
 
 #### References in Text
 
 For definition of "this chapter", referred to in text, see note set out under section 3102 of this title.
 
-Public Law 87–788 or Act of October 10, 1962, referred to in pars. (5)(A)(i), (14)(C)(ii)(IV), and (18)(E), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the "McIntire-Stennis Act of 1962" and also as the "McIntire-Stennis Cooperative Forestry Act", which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
+Public Law 87–788 or Act of October 10, 1962, referred to in pars. (5)(A)(i) and (18)(E), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the "McIntire-Stennis Act of 1962" and also as the "McIntire-Stennis Cooperative Forestry Act", which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 
 The Smith-Lever Act of May 8, 1914, referred to in pars. (6) and (18)(D), is act May 8, 1914, ch. 79, 38 Stat. 372, which is classified generally to subchapter IV (§341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
 
 Act of July 2, 1862, 12 Stat. 503, referred to in pars. (13), (14)(C)(ii)(I), and (18)(A), is popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, 26 Stat. 417, referred to in pars. (13), (14)(C)(ii)(II), and (18)(B), is popularly known as the "Agricultural College Act of 1890" and also as the "Second Morrill Act", which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, 26 Stat. 417, referred to in pars. (13), (14)(C)(ii)(II), and (18)(B), is popularly known as the "Agricultural College Act of 1890" and also as the "Second Morrill Act", which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 The Equity in Educational Land-Grant Status Act of 1994, referred to in par. (14)(C)(ii)(III), is Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, which is set out as a note under section 301 of this title. For complete classification of this Act to the Code, see Tables.
 
-Act of March 2, 1887, referred to in pars. (17) and (18)(C), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
+Act of March 2, 1887, referred to in pars. (17) and (18)(C), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Par. (14)(A). Pub. L. 115–334, §7102(a)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "The terms 'NLGCA Institution' and 'non-land-grant college of agriculture' mean a public college or university offering a baccalaureate or higher degree in the study of food and agricultural sciences."
+
+Par. (14)(C). Pub. L. 115–334, §7102(a)(2), inserted "any institution designated under" after "include" in introductory provisions, redesignated subcls. (I) to (III) of cl. (ii) as cls. (i) to (iii), respectively, and struck out former cl. (i), which read "Hispanic-serving agricultural colleges and universities; or", introductory provisions of former cl. (ii) which read "any institution designated under—", and subcl. (IV) of former cl. (ii) which read "Public Law 87–788 (commonly known as the 'McIntire-Stennis Cooperative Forestry Act') (16 U.S.C. 582a et seq.)."
 
 <b>2014</b>—Par. (5). Pub. L. 113–79, §7101(1), added par. (5) and struck out former par. (5) which read as follows: "The term 'cooperating forestry schools' means those institutions eligible to receive funds under the Act of October 10, 1962 (16 U.S.C. 582a et seq.), commonly known as the McIntire-Stennis Act of 1962."
 
@@ -343,4 +415,16 @@ Pub. L. 107–171, title VII, §7502(b), May 13, 2002, 116 Stat. 463, provided t
 &emsp;"(2) the Republic of the Marshall Islands; or
 
 &emsp;"(3) the Republic of Palau."
+
+#### Designation Review
+
+Pub. L. 115–334, title VII, §7102(b), Dec. 20, 2018, 132 Stat. 4781, provided that:
+
+"(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2018\], the Secretary \[of Agriculture\] shall establish a process to review each designated NLGCA Institution (as defined in section 1404(14)(A) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3103(14)(A))) to ensure compliance with such section, as amended by this subsection \[probably means "as amended by this section"\].
+
+"(2)
+
+Revocation.—An NLGCA Institution that the Secretary determines under subparagraph (A) to be not in compliance shall have the designation of such institution revoked."
 

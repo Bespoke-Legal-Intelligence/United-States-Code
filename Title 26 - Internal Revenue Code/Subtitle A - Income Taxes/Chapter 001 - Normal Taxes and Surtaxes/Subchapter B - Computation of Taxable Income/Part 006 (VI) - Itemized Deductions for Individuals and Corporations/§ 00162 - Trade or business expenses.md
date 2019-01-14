@@ -50,7 +50,7 @@ For purposes of this subtitle, whenever the amount of capital contributions evid
 
 #### (2) Application to dues of tax-exempt organizations
 
-&emsp;No deduction shall be allowed under subsection (a) for the portion of dues or other similar amounts paid by the taxpayer to an organization which is exempt from tax under this subtitle which the organization notifiesthe taxpayer under section 6033(e)(1)(A)(ii) is allocable to expenditures to which paragraph (1) applies.
+&emsp;No deduction shall be allowed under subsection (a) for the portion of dues or other similar amounts paid by the taxpayer to an organization which is exempt from tax under this subtitle which the organization notifies the taxpayer under section 6033(e)(1)(A)(ii) is allocable to expenditures to which paragraph (1) applies.
 
 #### (3) Influencing legislation
 
@@ -176,7 +176,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;For purposes of paragraph (1), a legislative day during any taxable year for any individual shall be any day during such year on which—
 
-&emsp;&emsp;(A) the legislature was in session (including any day in which the legislature was not in session for a period of 4 consecutive days or less), or
+&emsp;&emsp;(A) the legislature was in session (including any day in which the legislature was notin session for a period of 4 consecutive days or less), or
 
 &emsp;&emsp;(B) the legislature was not in session but the physical presence of the individual was formally recorded at a meeting of a committee of such legislature.
 
@@ -340,7 +340,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;&emsp;(i) in the case of executive remuneration for any applicable taxable year which is attributable to services performed by a covered executive during such applicable taxable year, to the extent that the amount of such remuneration exceeds $500,000, or
 
-&emsp;&emsp;&emsp;(ii) in the case of deferred deduction executive remuneration for any taxable year for services performed during any applicable taxable year by a covered executive, to the extent that the amount of such remuneration exceeds $500,000 reduced (but not below zero) by the sum of—
+&emsp;&emsp;&emsp;(ii) in the case of deferred deduction executive remuneration for any taxable yearfor services performed during any applicable taxable year by a covered executive, to the extent that the amount of such remuneration exceeds $500,000 reduced (but not below zero) by the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the executive remuneration for such applicable taxable year, plus
 
@@ -368,7 +368,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;&emsp;(i) the first taxable year of the employer—
 
-&emsp;&emsp;&emsp;&emsp;(I) which includes any portion of the period during which the authoritiesunder section 101(a) of the Emergency Economic Stabilization Act of 2008 are in effect (determined under section 120 thereof), and
+&emsp;&emsp;&emsp;&emsp;(I) which includes any portion of the period during which the authorities under section 101(a) of the Emergency Economic Stabilization Act of 2008 are in effect (determined under section 120 thereof), and
 
 &emsp;&emsp;&emsp;&emsp;(II) in which the aggregate amount of troubled assets acquired from the employer during the taxable year pursuant to such authorities (other than assets to which subparagraph (B)(ii) applies), when added to the aggregate amount so acquired for all preceding taxable years, exceeds $300,000,000, and
 
@@ -693,7 +693,7 @@ Subsec. (l)(1)(B). Pub. L. 105–34, §934(a), amended table generally. Prior to
 | <b>"For taxable years beginning in calendar year—</b> | <b>The applicable percentage is—</b> |
 | :--- | ---: |
 | &nbsp;&nbsp;&nbsp;1997 | 40 percent&nbsp; |
-| &nbsp;&nbsp;&nbsp;1998 through 2002 | 45 percent&nbsp; |
+| &nbsp;&nbsp;&nbsp;1998 through 2002 | 45 percent  |
 | &nbsp;&nbsp;&nbsp;2003 | 50 percent&nbsp; |
 | &nbsp;&nbsp;&nbsp;2004 | 60 percent&nbsp; |
 | &nbsp;&nbsp;&nbsp;2005 | 70 percent&nbsp; |
@@ -733,7 +733,7 @@ Medical deduction.—Any amount paid by a taxpayer for insurance to which paragr
 
 "(B)
 
-Health insurance credit.—The amount otherwise taken into account under paragraph (1) as paid forinsurance which constitutes medical care shall be reduced by the amount (if any) of the health insurance credit allowable to the taxpayer for the taxable year under section 32."
+Health insurance credit.—The amount otherwise taken into account under paragraph (1) as paid for insurance which constitutes medical care shall be reduced by the amount (if any) of the health insurance credit allowable to the taxpayer for the taxable year under section 32."
 
 Subsec. (l)(6). Pub. L. 103–66, §13174(a)(1), substituted "December 31, 1993" for "June 30, 1992".
 
@@ -879,7 +879,7 @@ Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out in pars. (1) and (2)
 
 <b>1971</b>—Subsec. (c). Pub. L. 92–178, §310(a)(2), substituted "Illegal bribes, kickbacks, and other payments" for "Bribes and illegal kickbacks" in heading.
 
-Subsec. (c)(2). Pub. L. 92–178, §310(a)(1), substituted provisions respecting "Other illegal payments" for former provisions on "Other bribes or kickbacks" reading "If in a criminal proceeding a taxpayer is convicted of making a payment (other than a payment described in paragraph (1) which is an illegal bribe or kickback, or his plea of guilty or nolo contendere to an indictment or information charging the making of such a payment is entered or accepted in such a proceeding, no deduction shall be allowed under subsection (a) on account of such payment or any related payment made prior to the date of the final judgment in such proceeding."
+Subsec. (c)(2). Pub. L. 92–178, §310(a)(1), substituted provisions respecting "Other illegal payments" for former provisions on "Other bribes or kickbacks" reading "If in a criminal proceeding a taxpayer is convicted of making a payment (other than a payment describedin paragraph (1) which is an illegal bribe or kickback, or his plea of guilty or nolo contendere to an indictment or information charging the making of such a payment is entered or accepted in such a proceeding, no deduction shall be allowed under subsection (a) on account of such payment or any related payment made prior to the date of the final judgment in such proceeding."
 
 Subsec. (c)(3). Pub. L. 92–178, §310(a)(1), substituted provisions respecting kickbacks, rebates, and bribes under medicare and medicaid for former statute of limitations provisions.
 
@@ -907,7 +907,7 @@ Pub. L. 115–97, title I, §13306(a)(2), Dec. 22, 2017, 131 Stat. 2127, provide
 
 Pub. L. 115–97, title I, §13307(b), Dec. 22, 2017, 131 Stat. 2129, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts paid or incurred after the date of the enactment of this Act \[Dec. 22, 2017\]."
 
-Pub. L. 115–97, title I, §13308(c), Dec. 22, 2017, 131 Stat. 2129, provided that: "The amendments made by thissection \[amending this section and section 6033 of this title\] shall apply to amounts paid or incurred on or after the date of the enactment of this Act \[Dec. 22, 2017\]."
+Pub. L. 115–97, title I, §13308(c), Dec. 22, 2017, 131 Stat. 2129, provided that: "The amendments made by this section \[amending this section and section 6033 of this title\] shall apply to amounts paid or incurred on or after the date of the enactment of this Act \[Dec. 22, 2017\]."
 
 Pub. L. 115–97, title I, §13311(b), Dec. 22, 2017, 131 Stat. 2132, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2017\]."
 
@@ -1077,7 +1077,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 "(2)
 
-Treatment of certain bankruptcy proceedings.—Notwithstanding paragraph (1), section 10001(e) of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[set out as a note under section 106 of this title\], and section 10002(d) of such Act \[set out as a note under section 1161 of Title 29\], the amendments made by this section \[amending this section and sections 1162, 1163, 1166, and 1167 of Title 29\] and by sections 10001 and 10002 of such Act \[enacting sections 1161 to 1168 of Title 29, amending this section, section 106 of this title, and section 1132 of Title 29, and enacting provisions setout as notes under section 106 of this title and sections 1161 and 1166 of Title 29\] shall apply in the case of plan years ending during the 12-month period beginning July 1, 1986, but only with respect to—
+Treatment of certain bankruptcy proceedings.—Notwithstanding paragraph (1), section 10001(e) of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[set out as a note under section 106 of this title\], and section 10002(d) of such Act \[set out as a note under section 1161 of Title 29\], the amendments made by this section \[amending this section and sections 1162, 1163, 1166, and 1167 of Title 29\] and by sections 10001 and 10002 of such Act \[enacting sections 1161 to 1168 of Title 29, amending this section, section 106 of this title, and section 1132 of Title 29, and enacting provisions set out as notes under section 106 of this title and sections 1161 and 1166 of Title 29\] shall apply in the case of plan years ending during the 12-month period beginning July 1, 1986, but only with respect to—
 
 &emsp;"(A) a qualifying event described in section 162(k)(3)(F) of the Internal Revenue Code of 1986 or section 603(6) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1163(6)\], and
 
@@ -1145,7 +1145,7 @@ Pub. L. 86–779, §8(d), Sept. 14, 1960, 74 Stat. 1003, provided that: "The ame
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–866, title I, §5(b), Sept. 2, 1958, 72 Stat. 1608, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply only with respect to expenses paid or incurred after the date of the enactment of this Act \[Sept. 2, 1958\]. The determination as to whether any expense paid or incurred on or before the date of the enactment of this Act shall be allowed as a deduction shall be made as if this section had not been enacted and without inference drawn from the fact that this section is not made applicable with respect to expenses paid or incurred on or before the date of the enactment of this Act."
+Pub. L. 85–866, title I, §5(b), Sept. 2, 1958, 72 Stat. 1608, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to expenses paid or incurred after the date of the enactment of this Act \[Sept. 2, 1958\]. The determination as to whether any expense paid or incurred on or before the date of the enactment of this Act shall be allowed as a deduction shall be made as if this section had not been enacted and without inference drawn from the fact that this section is not made applicable with respect to expenses paid or incurred on or before the date of the enactment of this Act."
 
 #### Deduction for Special Assessments
 
@@ -1171,7 +1171,7 @@ Pub. L. 97–51, §139(a), Oct. 1, 1981, 95 Stat. 967, which expressed the sense
 
 #### State Legislators' Travel Expenses Away From Home
 
-Pub. L. 94–455, title VI, §604, Oct. 4, 1976, 90 Stat. 1575, as amended by Pub. L. 95–30, title III, §307, May 23, 1977, 91 Stat. 153; Pub. L. 95–258, §2, Apr. 7, 1978, 92 Stat. 195; Pub. L. 96–167, §3, Dec. 29, 1979, 93 Stat. 1275; Pub. L. 96–178, §1, Jan. 2, 1980, 93 Stat. 1295; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title VI, §604, Oct. 4, 1976, 90 Stat. 1575, as amended by Pub. L. 95–30, title III, §307, May 23, 1977,91 Stat. 153; Pub. L. 95–258, §2, Apr. 7, 1978, 92 Stat. 195; Pub. L. 96–167, §3, Dec. 29, 1979, 93 Stat. 1275; Pub. L. 96–178, §1, Jan. 2, 1980, 93 Stat. 1295; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(a) In
 

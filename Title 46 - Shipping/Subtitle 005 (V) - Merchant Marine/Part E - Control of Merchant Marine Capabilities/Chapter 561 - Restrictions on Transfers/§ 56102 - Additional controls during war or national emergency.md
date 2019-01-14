@@ -46,7 +46,7 @@ Disapproval.—If a trustee or substitute trustee ceases to meet the conditions 
 
 &emsp;(3)
 
-Operation of vessel.—During a period when subsection (a) applies, a trustee referred to in subsection (a)(3), even though approved as a trustee by the Secretary, may not operate the vessel under the mortgage or assignment without the Secretary's approval.
+Operation of vessel.—During a period when subsection (a) applies, a trustee referredto in subsection (a)(3), even though approved as a trustee by the Secretary, may not operate the vessel under the mortgage or assignment without the Secretary's approval.
 
 (c)
 

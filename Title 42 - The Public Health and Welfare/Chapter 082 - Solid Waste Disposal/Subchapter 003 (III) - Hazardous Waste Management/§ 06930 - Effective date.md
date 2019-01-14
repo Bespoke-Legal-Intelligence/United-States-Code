@@ -6,7 +6,7 @@ Not later than ninety days after promulgation of regulations under section 6921 
 
 &emsp;(1) the owner or operator of any facility which produces a fuel (A) from any hazardous waste identified or listed under section 6921 of this title, (B) from such hazardous waste identified or listed under section 6921 of this title and any other material, (C) from used oil, or (D) from used oil and any other material;
 
-&emsp;(2) the owner or operator of any facility (other than a single- or two-family residence) which burns for purposes of energy recoveryany fuel produced as provided in paragraph (1) or any fuel which otherwise contains used oil or any hazardous waste identified or listed under section 6921 of this title; and
+&emsp;(2) the owner or operator of any facility (other than a single- or two-family residence) which burns for purposes of energy recovery any fuel produced as provided in paragraph (1) or any fuel which otherwise contains used oil or any hazardous waste identified or listed under section 6921 of this title; and
 
 &emsp;(3) any person who distributes or markets any fuel which is produced as provided in paragraph (1) or any fuel which otherwise contains used oil or any hazardous waste identified or listed under section 6921 of this title <sup>1</sup>
 

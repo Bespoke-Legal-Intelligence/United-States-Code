@@ -24,7 +24,7 @@ Any amounts in the Fund shall remain available until expended.
 
 #### (e) Annual report
 
-Not later than 180 days after the end of each fiscal year, the Librarian shall submit a jointreport on the Fund to the Joint Committee on the Library and the Committees on Appropriations of the House of Representatives and Senate.
+Not later than 180 days after the end of each fiscal year, the Librarian shall submit a joint report on the Fund to the Joint Committee on the Library and the Committees on Appropriations of the House of Representatives and Senate.
 
 #### (f) Initial 5–year plan
 

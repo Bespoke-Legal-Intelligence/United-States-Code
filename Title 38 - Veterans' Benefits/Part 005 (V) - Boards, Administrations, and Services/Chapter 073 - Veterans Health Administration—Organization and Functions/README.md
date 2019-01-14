@@ -45,6 +45,7 @@
 | [7330\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007330%20-%20Multiple%20sclerosis%20centers%20of%20excellence.md) | Multiple sclerosis centers of excellence. |
 | [7330A.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007330A%20-%20Epilepsy%20centers%20of%20excellence.md) | Epilepsy centers of excellence. |
 | [7330B.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007330B%20-%20Annual%20report%20on%20Veterans%20Health%20Administration%20and%20furnishing%20of%20hospital%20care%2C%20medical%20services%2C%20and%20nursing%20home%20care.md) | Annual report on Veterans Health Administration and furnishing of hospital care, medical services, and nursing home care. |
+| [7330C.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007330C%20-%20Quadrennial%20Veterans%20Health%20Administration%20review.md) | Quadrennial Veterans Health Administration review. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -75,6 +76,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–182, title I, §106(b), June 6, 2018, 132 Stat. 1415, added item 7330C.
 
 <b>2016</b>—Pub. L. 114–315, title VI, §612(b), Dec. 16, 2016, 130 Stat. 1576, added item 7330B.
 

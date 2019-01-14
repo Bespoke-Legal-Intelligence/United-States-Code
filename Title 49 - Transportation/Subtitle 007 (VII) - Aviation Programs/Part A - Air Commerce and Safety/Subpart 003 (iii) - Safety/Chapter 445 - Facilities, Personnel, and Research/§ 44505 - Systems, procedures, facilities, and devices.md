@@ -142,13 +142,25 @@ Subsecs. (d), (e). Pub. L. 112–95, §905, added subsec. (d) and redesignated f
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–305 added subsec. (d).
 
+#### Research and Deployment of Certain Airfield Pavement Technologies
+
+Pub. L. 115–254, div. B, title VII, §744, Oct. 5, 2018, 132 Stat. 3413, provided that: "Using amounts made available under section 48102(a) of title 49, United States Code, the Administrator of the Federal Aviation Administration may carry out a program for the research and development of aircraft pavement technologies under which the Administrator makes grants to, and enters into cooperative agreements with, institutions of higher education and nonprofit organizations that—
+
+&emsp;"(1) research concrete and asphalt airfield pavement technologies that extend the life of airfield pavements;
+
+&emsp;"(2) develop and conduct training;
+
+&emsp;"(3) provide for demonstration projects; and
+
+&emsp;"(4) promote the latest airfield pavement technologies to aid in the development of safer, more cost effective, and more durable airfield pavements."
+
 #### Aircraft Departure Queue Management Pilot Program
 
-Pub. L. 112–95, title V, §507, Feb. 14, 2012, 126 Stat. 106, provided that:
+Pub. L. 112–95, title V, §507, Feb. 14, 2012, 126 Stat. 106, as amended by Pub. L. 115–254, div. B, title V, §539(t), Oct. 5, 2018, 132 Stat. 3372, provided that:
 
 "(a)
 
-In General.—The Secretary of Transportation shall carry out a pilot program at not more than 5 public-use airports under which the Federal Aviation Administration shall use funds made available under section 48101(a) \[probably means section 48101(a) of title 49, United States Code\] to test air traffic flow management tools, methodologies, and procedures that will allow air traffic controllers of the Administration to better manage the flow of aircraft on the ground and reduce the length of ground holds and idling time for aircraft.
+In General.—The Secretary of Transportation shall carry out a pilot program at not more than 5 public-use airports under which the Federal Aviation Administration shall use funds made available under section 48101(a) of title 49, United States Code, to test air traffic flow management tools, methodologies, and procedures that will allow air traffic controllers of the Administration to better manage the flow of aircraft on the ground and reduce the length of ground holds and idling time for aircraft.
 
 "(b)
 

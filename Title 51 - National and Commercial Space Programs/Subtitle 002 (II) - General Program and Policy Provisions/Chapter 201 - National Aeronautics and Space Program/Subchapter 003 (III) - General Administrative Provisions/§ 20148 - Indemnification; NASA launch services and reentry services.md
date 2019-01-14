@@ -126,7 +126,7 @@ Anti-deficiency act.—Notwithstanding any other provision of this section—
 
 (j)
 
-Relationship to Other Laws.—The Administrator may not provide indemnification under this section for an activity that requires a license or permit under chapter 509.
+Relationship to Other Laws.—The Administrator may not provide indemnification underthis section for an activity that requires a license or permit under chapter 509.
 
 (k)
 

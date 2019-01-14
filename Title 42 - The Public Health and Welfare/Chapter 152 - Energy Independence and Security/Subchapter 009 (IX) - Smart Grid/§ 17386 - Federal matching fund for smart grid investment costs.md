@@ -2,7 +2,7 @@
 
 #### (a) Matching fund
 
-The Secretary shall establish a Smart Grid Investment Matching Grant Program to providegrants of up to one-half (50 percent) of qualifying Smart Grid investments.
+The Secretary shall establish a Smart Grid Investment Matching Grant Program to provide grants of up to one-half (50 percent) of qualifying Smart Grid investments.
 
 #### (b) Qualifying investments
 
@@ -12,7 +12,7 @@ Qualifying Smart Grid investments may include any of the following made on or af
 
 &emsp;(2) In the case of specialized electricity-using equipment, including motors and drivers, installed in industrial or commercial applications, the documented expenditures incurred by its owner or its manufacturer of installing devices or modifying that equipment to engage in Smart Grid functions.
 
-&emsp;(3) In the case of transmission and distribution equipment fitted with monitoring and communications devices to enable smart grid functions, the documented expenditures incurred by the electric utility to purchase and install such monitoring and communications devices.
+&emsp;(3) In the case of transmission and distribution equipment fitted with monitoring and communications devices to enable smart grid functions, the documented expenditures incurred by the electric utility to purchase andinstall such monitoring and communications devices.
 
 &emsp;(4) In the case of metering devices, sensors, control devices, and other devices integrated with and attached to an electric utility system or retail distributor or marketer of electricity that are capable of engaging in Smart Grid functions, the documented expenditures incurred by the electric utility, distributor, or marketer and its customers to purchase and install such devices.
 

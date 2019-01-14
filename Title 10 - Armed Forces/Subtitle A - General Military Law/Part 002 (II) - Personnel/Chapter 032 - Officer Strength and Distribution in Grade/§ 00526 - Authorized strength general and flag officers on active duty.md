@@ -42,7 +42,7 @@ Limited Exclusion for Joint Duty Requirements.—(1) The Secretary of Defense ma
 
 (C) Whenever a vacancy occurs, or is anticipated to occur, in a position designated under subparagraph (A)—
 
-&emsp;(i) the Secretary of Defense shall require the Secretary of the Army to submit the name ofat least one Army reserve component officer, the Secretary of the Navy to submit the name of at least one Navy Reserve officer and the name of at least one Marine Corps Reserve officer, and the Secretary of the Air Force to submit the name of at least one Air Force reserve component officer for consideration by the Secretary for assignment to that position; and
+&emsp;(i) the Secretary of Defense shall require the Secretary of the Army to submit the name of at least one Army reserve component officer, the Secretary of the Navy to submit the name of at least one Navy Reserve officer and the name of at least one Marine Corps Reserve officer, and the Secretary of the Air Force to submit the name of at least one Air Force reserve component officer for consideration by the Secretary for assignment to that position; and
 
 &emsp;(ii) the Chairman of the Joint Chiefs of Staff may submit to the Secretary of Defense the name of one or more officers (in addition to the officers whose names are submitted pursuant to clause (i)) for consideration by the Secretary for assignment to that position.
 
@@ -102,7 +102,7 @@ Joint Duty Assignment Baseline.—
 
 &emsp;(1)
 
-Notice and wait requirement.—If the Secretary of Defense, the Secretary of a military department, or the Chairman of the Joint Chiefs of Staff proposes an action that would increase above the baseline the number of general officers and flag officers of the armed forces in joint duty assignments who countagainst the statutory limit under subsection (b)(1), the action shall not take effect until after the end of the 60-calendar day period beginning on the date on which the Secretary or Chairman, as the case may be, provides notice of the proposed action, including the rationale for the action, to the Committees on Armed Services of the House of Representatives and the Senate.
+Notice and wait requirement.—If the Secretary of Defense, the Secretary of a military department, or the Chairman of the Joint Chiefs of Staff proposes an action that would increase above the baseline the number of general officers and flag officers of the armed forces in joint duty assignments who count against the statutory limit under subsection (b)(1), the action shall not take effect until after the end of the 60-calendar day period beginning on the date on which the Secretary or Chairman, as the case may be, provides notice of the proposed action, including the rationale for the action, to the Committees on Armed Services of the House of Representatives and the Senate.
 
 &emsp;(2)
 
@@ -168,7 +168,7 @@ Subsec. (b)(2)(C). Pub. L. 112–81, §502(b)(1)(B), substituted "73" for "76".
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–84, §502(e), substituted "230" for "307" in par. (1), "160" for "216" in par. (2), "208" for "279" in par. (3), and "60" for "81" in par. (4).
 
-Subsec. (b)(1). Pub. L. 111–84, §502(f)(1), substituted "Secretary of Defense" for "Chairman of the JointChiefs of Staff", "324" for "65", and "The Secretary of Defense shall allocate those exclusions to the armed forces based on the number of general or flag officers required from each armed force for assignment to these designated positions." for "Officers in positions so designated shall not be counted for the purposes of those limitations."
+Subsec. (b)(1). Pub. L. 111–84, §502(f)(1), substituted "Secretary of Defense" for "Chairman of the Joint Chiefs of Staff", "324" for "65", and "The Secretary of Defense shall allocate those exclusions to the armed forces based on the number of general or flag officers required from each armed force for assignment to these designated positions." for "Officers in positions so designated shall not be counted for the purposes of those limitations."
 
 Subsec. (b)(2) to (5). Pub. L. 111–84, §502(f)(2), (3), added pars. (2) to (4) and redesignated former par. (2) as (5).
 

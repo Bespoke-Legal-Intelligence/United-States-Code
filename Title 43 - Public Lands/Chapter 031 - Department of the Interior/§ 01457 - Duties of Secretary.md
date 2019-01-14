@@ -98,7 +98,7 @@ Grazing—Act June 28, 1934, ch. 865, 48 Stat. 1269.
 
 National Park Service—Act Aug. 25, 1916, ch. 408, 39 Stat. 535.
 
-Office of Consumers' Counsel of National Bituminous Coal Commission—Abolished and functions transferred to office of Solicitor of Department of the Interior, by Reorg. Plan No. II of 1939, §4(c), eff. July 1, 1939, set out in the Appendix to Title 5, Government Organizationand Employees. Its functions, records, property, and personnel were subsequently transferred from Solicitor to Bituminous Coal Consumers' Counsel.
+Office of Consumers' Counsel of National Bituminous Coal Commission—Abolished and functions transferred to office of Solicitor of Department of the Interior, by Reorg. Plan No. II of 1939, §4(c), eff. July 1, 1939, set out in the Appendix to Title 5, Government Organization and Employees. Its functions, records, property, and personnel were subsequently transferred from Solicitor to Bituminous Coal Consumers' Counsel.
 
 Petroleum conservation—Section 3 of Ex. Ord. No. 10752, eff. Feb. 12, 1958, 23 F.R. 973, superseded Ex. Ord. No. 6979, eff. Feb. 28, 1935, Ex. Ord. No. 7756, eff. Dec. 1, 1937, 2 F.R. 2664, and Ex. Ord. No. 9732, eff. June 3, 1946, 11 F.R. 5985, formerly classified as notes to this section.
 
@@ -120,7 +120,7 @@ Pub. L. 85–743, Aug. 23, 1958, 72 Stat. 837, provided: "That the authority ves
 
 "
 
-Sec. 2. The Secretary of the Interior is authorized to compile maps of Antarctica from materials already available and from such additional material as may result from the several expeditions in support of the International Geophysical Year.
+Sec. 2. The Secretary of the Interior is authorized to compile maps of Antarctica from materials alreadyavailable and from such additional material as may result from the several expeditions in support of the International Geophysical Year.
 
 "
 
@@ -194,7 +194,7 @@ Sec. 4. DATA STANDARDS ACTIVITIES. (a) <i>General FGDC Responsibility</i>. The F
 
 Sec. 5. NATIONAL DIGITAL GEOSPATIAL DATA FRAMEWORK. In consultation with State, local, and tribal governments and within 9 months of the date of this order, the FGDC shall submit a plan and schedule to OMB for completing the initial implementation of a national digital geospatial data framework ("framework") by January 2000 and for establishing a process of ongoing data maintenance. The framework shall include geospatial data that are significant, in the determination of the FGDC, to a broad variety of users within any geographic area or nationwide. At a minimum, the plan shall address how the initial transportation, hydrology, and boundary elements of the framework might be completed by January 1998 in order to support the decennial census of 2000.
 
-Sec. 6. PARTNERSHIPS FOR DATA ACQUISITION. The Secretary, under the auspices of the FGDC, and within 9 months of the date of this order, shall develop,to the extent permitted by law, strategies for maximizing cooperative participatory efforts with State, local, and tribal governments, the private sector, and other nonfederal organizations to share costs and improve efficiencies of acquiring geospatial data consistent with this order.
+Sec. 6. PARTNERSHIPS FOR DATA ACQUISITION. The Secretary, under the auspices of the FGDC, and within 9 months of the date of this order, shall develop, to the extent permitted by law, strategies for maximizing cooperative participatory efforts with State, local, and tribal governments, the private sector, and other nonfederal organizations to share costs and improve efficiencies of acquiring geospatial data consistent with this order.
 
 Sec. 7. SCOPE. (a) For the purposes of this order, the term "agency" shall have the same meaning as the term "Executive agency" in 5 U.S.C. 105, and shall include the military departments and components of the Department of Defense.
 

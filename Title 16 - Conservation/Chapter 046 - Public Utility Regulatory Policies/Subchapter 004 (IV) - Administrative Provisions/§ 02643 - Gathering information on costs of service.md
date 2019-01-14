@@ -16,7 +16,7 @@ Each electric utility shall periodically gather information under such rules (pr
 
 &emsp;(4) costs of purchased power, including representative daily and seasonal differences in the amount of such costs.
 
-> Such rules shall provide that information required to be gathered under this section shall be presented in such categories and such detail asmay be necessary to carry out the purposes of this section.
+> Such rules shall provide that information required to be gathered under this section shall be presented in such categories and such detail as may be necessary to carry out the purposes of this section.
 
 #### (b) Commission rules
 

@@ -8,7 +8,7 @@
 
 (3) In any case where liability without fault is imposed pursuant to this subsection and the damages involved were caused by the negligence of a third party, the rules of subrogation shall apply in accordance with the law of the jurisdiction where the damage occurred.
 
-(4) Upon order of the Secretary, the holder of a right-of-way or permit shall provide emergency subsistence and other aid to an affectedAlaska Native, Native organization, or other person pending expeditious filing of, and determination of, a claim under this subsection.
+(4) Upon order of the Secretary, the holder of a right-of-way or permit shall provide emergency subsistence and other aid to an affected Alaska Native, Native organization, or other person pending expeditious filing of, and determination of, a claim under this subsection.
 
 (5) Where the State of Alaska is the holder of a right-of-way or permit under this chapter, the State shall not be subject to the provisions of this subsection, but the holder of the permit or right-of-way for the trans-Alaska pipeline shall be subject to this subsection with respect to facilities constructed or activities conducted under rights-of-way or permits issued to the State to the extent that such holder engages in the construction, operation, maintenance, and termination of facilities, or in other activities under rights-of-way or permits issued to the State.
 
@@ -102,5 +102,5 @@ Pub. L. 101–380, title VIII, §8102(a)(5)(B), Aug. 18, 1990, 104 Stat. 566, pr
 
 #### Preservation of Rights and Remedies of Contributors to TAPS Fund
 
-Pub. L. 101–380, title VIII, §8102(a)(6), Aug. 18, 1990, 104 Stat. 566, provided that: "This subsection \[amending this section and enacting provisions set out as notes above\] is intended expressly to preserve any and all rights and remedies of contributors to the TAPS Fund under section 1491 of title 28, United States Code (commonly referred to as the 'Tucker Act')."
+Pub. L. 101–380, title VIII, §8102(a)(6), Aug. 18, 1990, 104 Stat. 566, provided that: "This subsection \[amendingthis section and enacting provisions set out as notes above\] is intended expressly to preserve any and all rights and remedies of contributors to the TAPS Fund under section 1491 of title 28, United States Code (commonly referred to as the 'Tucker Act')."
 

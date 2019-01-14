@@ -40,7 +40,7 @@ Historical and Revision Notes
 
 July 7, 1958, Pub. L. 85–507, §6, 72 Stat. 329.
 
-In subsection (a), the word "appropriate" is omitted as unnecessary. The words "with respect to training by, in, and through Government facilities and non-Government facilities" are omitted as unnecessary.
+In subsection (a), the word "appropriate" is omitted as unnecessary. The words "with respect to training by,in, and through Government facilities and non-Government facilities" are omitted as unnecessary.
 
 In subsection (b)(2) and (3), the words "by, in, or through a non-Government facility" are omitted as unnecessary in view of the previous reference in the subsection.
 

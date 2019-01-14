@@ -66,5 +66,5 @@ Ex. Ord. No. 10561, Sept. 13, 1954, 19 F.R. 5963, which related to official pers
 
 #### Executive Order No. 11397
 
-Ex. Ord. No. 11397, Feb. 9, 1968, 33 F.R. 2833, formerly set out as a note under this section, which related to transitional appointments of veterans who served during the Vietnam Era, was revoked by Ex. Ord. No. 11521, Mar. 26, 1970, 35 F.R. 5311, set out as a note under section 3302 of this title.
+Ex. Ord. No. 11397, Feb. 9, 1968, 33 F.R. 2833, formerly set out as a note under this section, which related to transitional appointments of veterans who served during the Vietnam Era, was revoked by Ex. Ord. No. 11521,Mar. 26, 1970, 35 F.R. 5311, set out as a note under section 3302 of this title.
 

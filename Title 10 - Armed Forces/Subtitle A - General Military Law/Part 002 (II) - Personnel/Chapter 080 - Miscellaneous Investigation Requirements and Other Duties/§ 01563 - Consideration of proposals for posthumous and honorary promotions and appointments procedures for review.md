@@ -2,7 +2,7 @@
 
 (a)
 
-Review by Secretary Concerned.—Upon request of a Member of Congress, the Secretary concerned shall review a proposal for the posthumous or honorary promotion or appointment of a member or former member of the armed forces, or any other person considered qualified, that is not otherwise authorized by law. Based upon such review, the Secretary shall make a determination as to the merits of approving the posthumous or honorary promotion or appointment.
+Review by Secretary Concerned.—Upon request of a Member of Congress, the Secretary concerned shall review a proposal for the posthumous or honorary promotion or appointment of a member or former member of the armed forces, or any other person considered qualified, that is not otherwise authorized by law. Based upon such review, the Secretary shall make adetermination as to the merits of approving the posthumous or honorary promotion or appointment.
 
 (b)
 

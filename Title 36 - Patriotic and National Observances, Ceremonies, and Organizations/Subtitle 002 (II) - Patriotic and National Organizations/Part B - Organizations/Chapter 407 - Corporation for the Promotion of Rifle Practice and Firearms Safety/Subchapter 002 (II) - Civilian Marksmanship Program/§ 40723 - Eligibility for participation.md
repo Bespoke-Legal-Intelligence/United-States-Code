@@ -10,7 +10,7 @@ Certification.—(1) An individual shall certify by affidavit, before participat
 
 &emsp;(C) is not a member of an organization that advocates the violent overthrow of the United States Government.
 
-(2) The Director of Civilian Marksmanship may require an individual to provide certification from law enforcement agencies to verifythat the individual has not been convicted of a felony or a violation of section 922 of title 18.
+(2) The Director of Civilian Marksmanship may require an individual to provide certification from law enforcement agencies to verify that the individual has not been convicted of a felony or a violation of section 922 of title 18.
 
 (b)
 

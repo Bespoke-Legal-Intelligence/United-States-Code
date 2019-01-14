@@ -154,7 +154,7 @@ Pub. L. 100–607, title V, §503(c), Nov. 4, 1988, 102 Stat. 3121, provided tha
 
 #### Office of Minor Use and Minor Species Animal Drug Development
 
-Pub. L. 108–282, title I, §102(b)(7), Aug. 2, 2004, 118 Stat. 905, provided that: "The Secretary of Health andHuman Services shall establish within the Center for Veterinary Medicine (of the Food and Drug Administration), an Office of Minor Use and Minor Species Animal Drug Development that reports directly to the Director of the Center for Veterinary Medicine. This office shall be responsible for overseeing the development and legal marketing of new animal drugs for minor uses and minor species. There is authorized to be appropriated to carry out this subsection $1,200,000 for fiscal year 2004 and such sums as may be necessary for each fiscal year thereafter."
+Pub. L. 108–282, title I, §102(b)(7), Aug. 2, 2004, 118 Stat. 905, provided that: "The Secretary of Health and Human Services shall establish within the Center for Veterinary Medicine (of the Food and Drug Administration), an Office of Minor Use and Minor Species Animal Drug Development that reports directly to the Director of the Center for Veterinary Medicine. This office shall be responsible for overseeing the development and legal marketing of new animal drugs for minor uses and minor species. There is authorized to be appropriated to carry out this subsection $1,200,000 for fiscal year 2004 and such sums as may be necessary for each fiscal year thereafter."
 
 #### Regulations for Sunscreen Products
 

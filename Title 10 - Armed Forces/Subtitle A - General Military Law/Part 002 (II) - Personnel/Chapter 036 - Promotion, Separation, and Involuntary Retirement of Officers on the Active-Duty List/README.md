@@ -7,8 +7,13 @@
 | [<b>III.</b>](Subchapter%20003%20%28III%29%20-%20Failure%20of%20Selection%20for%20Promotion%20and%20Retirement%20for%20Years%20of%20Service/README.md) | <b>Failure of Selection for Promotion and Retirement for Years of Service</b> | <b>627</b> |
 | [<b>IV.</b>](Subchapter%20004%20%28IV%29%20-%20Continuation%20on%20Active%20Duty%20and%20Selective%20Early%20Retirement/README.md) | <b>Continuation on Active Duty and Selective Early Retirement</b> | <b>637</b> |
 | [<b>V.</b>](Subchapter%20005%20%28V%29%20-%20Additional%20Provisions%20Relating%20to%20Promotion%2C%20Separation%2C%20and%20Retirement/README.md) | <b>Additional Provisions Relating to Promotion, Separation, and Retirement</b> | <b>641</b> |
+| [<b>VI.</b>](Subchapter%20006%20%28VI%29%20-%20Alternative%20Promotion%20Authority%20for%20Officers%20in%20Designated%20Competitive%20Categories/README.md) | <b>Alternative Promotion Authority for Officers in Designated Competitive Categories</b> | <b>649a</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title V, §507(a)(2), Aug. 13, 2018, 132 Stat. 1748, added item for subchapter VI.
 
 
 ---
@@ -20,3 +25,4 @@
 - [Subchapter 003 (III) - Failure of Selection for Promotion and Retirement for Years of Service](Subchapter%20003%20%28III%29%20-%20Failure%20of%20Selection%20for%20Promotion%20and%20Retirement%20for%20Years%20of%20Service/README.md)
 - [Subchapter 004 (IV) - Continuation on Active Duty and Selective Early Retirement](Subchapter%20004%20%28IV%29%20-%20Continuation%20on%20Active%20Duty%20and%20Selective%20Early%20Retirement/README.md)
 - [Subchapter 005 (V) - Additional Provisions Relating to Promotion, Separation, and Retirement](Subchapter%20005%20%28V%29%20-%20Additional%20Provisions%20Relating%20to%20Promotion%2C%20Separation%2C%20and%20Retirement/README.md)
+- [Subchapter 006 (VI) - Alternative Promotion Authority for Officers in Designated Competitive Categories](Subchapter%20006%20%28VI%29%20-%20Alternative%20Promotion%20Authority%20for%20Officers%20in%20Designated%20Competitive%20Categories/README.md)

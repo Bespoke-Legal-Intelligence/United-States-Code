@@ -26,7 +26,7 @@ Provisions similar to those in this section were contained in section 3254d of t
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–362 struck out heading and text of subsec. (c) which related to Administrator's study and report on State and local training needs and obstacles to employment and occupational advancement in solid waste management and resource recovery field.
+<b>1998</b>—Subsec. (c). Pub. L. 105–362 struck out heading and text of subsec. (c) which related to Administrator'sstudy and report on State and local training needs and obstacles to employment and occupational advancement in solid waste management and resource recovery field.
 
 <b>1978</b>—Subsec. (b)(1). Pub. L. 95–609, §7(r)(1), (2), substituted "management" for "disposal" in two places, and "resource" for "resources".
 

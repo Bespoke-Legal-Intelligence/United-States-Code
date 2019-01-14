@@ -6,7 +6,7 @@
 
 &emsp;(A) Enter into such contracts, cooperative agreements, joint ventures, and other transactions, in accordance with all relevant provisions of Federal law applicable to such contracts and agreements, and under reasonable terms and conditions, as may be necessary in the conduct of the business of the National Technical Information Service (hereafter in this section referred to as the "Service").
 
-&emsp;(B) In addition to the authority regarding fees contained in section 2 of the Act entitled "An Act to provide for the dissemination oftechnological, scientific, and engineering information to American business and industry, and for other purposes" enacted September 9, 1950 (15 U.S.C. 1152), retain and, subject to appropriations Acts, utilize its net revenues to the extent necessary to implement the plan submitted under subsection (f)(3)(D).
+&emsp;(B) In addition to the authority regarding fees contained in section 2 of the Act entitled "An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry,and for other purposes" enacted September 9, 1950 (15 U.S.C. 1152), retain and, subject to appropriations Acts, utilize its net revenues to the extent necessary to implement the plan submitted under subsection (f)(3)(D).
 
 &emsp;(C) Enter into contracts for the performance of part or all of the functions performed by the Promotion Division of the Service prior to October 24, 1988. The details of any such contract, and a statement of its effect on the operations and personnel of the Service, shall be provided to the appropriate committees of the Congress 30 days in advance of the execution of such contract.
 
@@ -72,7 +72,7 @@ The Secretary of Commerce, acting through the Service, shall—
 
 (3) The Secretary shall submit an annual report to the Congress which shall—
 
-&emsp;(A) summarize the operations of the Service during the preceding year, including financial details and staff levels broken down by major activities;
+&emsp;(A) summarize the operations of the Service during the preceding year, including financialdetails and staff levels broken down by major activities;
 
 &emsp;(B) detail the operating plan of the Service, including specific expense and staff needs, for the upcoming year;
 

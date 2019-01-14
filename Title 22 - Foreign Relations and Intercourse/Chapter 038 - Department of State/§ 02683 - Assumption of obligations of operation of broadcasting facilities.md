@@ -10,5 +10,5 @@ Section was formerly classified to section 170c of Title 5 prior to the general 
 
 #### Abolition of Reconstruction Finance Corporation
 
-Section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out as a note under section 601 of Title 15, Commerce and Trade, abolished the Reconstruction Finance Corporation.
+Section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out as a note undersection 601 of Title 15, Commerce and Trade, abolished the Reconstruction Finance Corporation.
 

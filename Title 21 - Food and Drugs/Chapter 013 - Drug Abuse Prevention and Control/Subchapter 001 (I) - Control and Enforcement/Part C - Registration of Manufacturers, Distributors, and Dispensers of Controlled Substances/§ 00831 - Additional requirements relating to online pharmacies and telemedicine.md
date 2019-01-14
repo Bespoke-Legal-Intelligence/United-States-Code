@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-An online pharmacy shall display in a visible and clear manner on its homepage a statement that it complies with the requirements of this section with respect to the delivery or sale or offer for sale of controlled substances and shall at all times display on the homepage of its Internet site a declaration of compliance in accordance with this section.
+An online pharmacy shall display in a visible and clear manner on its homepage a statementthat it complies with the requirements of this section with respect to the delivery or sale or offer for sale of controlled substances and shall at all times display on the homepage of its Internet site a declaration of compliance in accordance with this section.
 
 #### (b) Licensure
 
@@ -82,11 +82,15 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 &emsp;&emsp;&emsp;(i) is exempted from such registration in all States under section 822(d) of this title; or
 
-&emsp;&emsp;&emsp;(ii) is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of VeteransAffairs registered under section 823(f) of this title.
+&emsp;&emsp;&emsp;(ii) is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title.
 
 #### (2) Regulations
 
-&emsp;The Attorney General shall, with the concurrence of the Secretary, promulgate regulations specifying the limited circumstances in which a special registration under this subsection may be issued and the procedures for obtaining such a special registration.
+&emsp;Not later than 1 year after October 24, 2018, in consultation with the Secretary, the Attorney General shall promulgate final regulations specifying—
+
+&emsp;&emsp;(A) the limited circumstances in which a special registration under this subsection may be issued; and
+
+&emsp;&emsp;(B) the procedure for obtaining a special registration under this subsection.
 
 #### (3) Denials
 
@@ -106,7 +110,7 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 Any transfer between pharmacies of information relating to a prescription for a controlled substance shall meet the applicable requirements under regulations promulgated by the Attorney General under this chapter.
 
-(Pub. L. 91–513, title II, §311, as added Pub. L. 110–425, §3(d)(1), Oct. 15, 2008, 122 Stat. 4825.)
+(Pub. L. 91–513, title II, §311, as added Pub. L. 110–425, §3(d)(1), Oct. 15, 2008, 122 Stat. 4825; amended Pub. L. 115–271, title III, §3232, Oct. 24, 2018, 132 Stat. 3950.)
 
 #### References in Text
 
@@ -117,6 +121,10 @@ For effective date of this section, referred to in subsec. (d)(3), see Effective
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (g)(1), (2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 This chapter, referred to in subsec. (j), was in the original "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (h)(2). Pub. L. 115–271 amended par. (2) generally. Prior to amendment, text read as follows: "The Attorney General shall, with the concurrence of the Secretary, promulgate regulations specifying the limited circumstances in which a special registration under this subsection may be issued and the procedures for obtaining such a special registration."
 
 #### Effective Date
 

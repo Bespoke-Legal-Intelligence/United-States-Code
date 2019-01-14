@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 91–264, §2, May 22, 1970, 84 Stat. 260, which related to powers of the Hopi Tribal Council, wasomitted from the Code as being of special and not general application.
+Section, Pub. L. 91–264, §2, May 22, 1970, 84 Stat. 260, which related to powers of the Hopi Tribal Council, was omitted from the Code as being of special and not general application.
 

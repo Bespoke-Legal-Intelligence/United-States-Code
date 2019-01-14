@@ -9,6 +9,7 @@
 | [2603\.](Subchapter%20001%20%28I%29%20-%20Administration/%C2%A7%2002603%20-%20Leasing%20of%20lands%20for%20grazing%3B%20disposition%20of%20moneys%3B%20rules%20and%20regulations%20covering%20grazing%20lands.md) | Leasing of lands for grazing; disposition of moneys; rules and regulations covering grazing lands. |
 | [2604\.](Subchapter%20001%20%28I%29%20-%20Administration/%C2%A7%2002604%20-%20Rules%20and%20regulations%20generally%3B%20consultation%20and%20agreements%20with%20other%20agencies%20regarding%20fire%20regulations.md) | Rules and regulations generally; consultation and agreements with other agencies regarding fire regulations. |
 | [2605\.](Subchapter%20001%20%28I%29%20-%20Administration/%C2%A7%2002605%20-%20Oregon%20and%20California%20land-grant%20fund%3B%20annual%20distribution%20of%20moneys.md) | Oregon and California land-grant fund; annual distribution of moneys. |
+| [2606\.](Subchapter%20001%20%28I%29%20-%20Administration/%C2%A7%2002606%20-%20Oregon%20and%20California%20Railroad%20revested%20lands%20and%20Coos%20Bay%20Wagon%20Road%20reconveyed%20lands.md) | Oregon and California Railroad revested lands and Coos Bay Wagon Road reconveyed lands. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

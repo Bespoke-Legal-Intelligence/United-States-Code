@@ -22,7 +22,7 @@ As used in this chapter—
 
 (j) The term "security" has the meaning ascribed to it by section 77b of title 15.
 
-(k) The term "State", whether used as a noun or otherwise, includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
+(k) The term "State", whether used as a noun or otherwise, includes the several States, theDistrict of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 
 (l) The term "mortgage insurance program" includes, in the case of a residential mortgage secured by a manufactured home, any manufactured home lending program under title I of the National Housing Act \[12 U.S.C. 1702 et seq.\].
 

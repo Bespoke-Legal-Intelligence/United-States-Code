@@ -6,7 +6,7 @@ There is established within the Foundation a Federal Council on the Arts and the
 
 #### (b) Composition; presiding officer; changes in membership to meet changes in programs or executive branch organization
 
-The Council shall be composed of the Chairperson of the National Endowment for the Arts, the Chairperson of the National Endowment for the Humanities, the Director of the Institute of Museum and Library Services, the Secretary of Education, the Secretary of the Smithsonian Institution, the Director of the National Science Foundation, the Librarian of Congress, the Director of the National Gallery of Art, the Chairman of the Commission of Fine Arts, the Archivist of the United States, the Commissioner, Public Buildings Service, General Services Administration, the Assistant Secretary for Aging, a member designated by the Secretary of State, and a member designated by the Secretary of the Interior, a member designated by the Chairman of the Senate Commission on Art and Antiquities, and a member designated by the Speaker of the House. The President shall designate the presiding officer of the Council from among the members. The President is authorized to change the membership of the Council from time to time as the President deems necessary to meet changes in Federal programs or executive branch organization.
+The Council shall be composed of the Chairperson of the National Endowment for the Arts,the Chairperson of the National Endowment for the Humanities, the Director of the Institute of Museum and Library Services, the Secretary of Education, the Secretary of the Smithsonian Institution, the Director of the National Science Foundation, the Librarian of Congress, the Director of the National Gallery of Art, the Chairman of the Commission of Fine Arts, the Archivist of the United States, the Commissioner, Public Buildings Service, General Services Administration, the Assistant Secretary for Aging, a member designated by the Secretary of State, and a member designated by the Secretary of the Interior, a member designated by the Chairman of the Senate Commission on Art and Antiquities, and a member designated by the Speaker of the House. The President shall designate the presiding officer of the Council from among the members. The President is authorized to change the membership of the Council from time to time as the President deems necessary to meet changes in Federal programs or executive branch organization.
 
 #### (c) Functions
 
@@ -50,7 +50,7 @@ Subsec. (e). Pub. L. 99–194, §109(3), struck out subsec. (e) which provided f
 
 Subsec. (c)(4). Pub. L. 98–306, §6(b), struck out "and the Institute of Museum Services" after "Foundation".
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–496, §§106(a), 109(d), inserted "the Commissioner on Aging," and substituted"Secretary of Education" for "United States Commissioner of Education".
+<b>1980</b>—Subsec. (b). Pub. L. 96–496, §§106(a), 109(d), inserted "the Commissioner on Aging," and substituted "Secretary of Education" for "United States Commissioner of Education".
 
 Subsec. (c)(6). Pub. L. 96–496, §106(b), added par. (6).
 

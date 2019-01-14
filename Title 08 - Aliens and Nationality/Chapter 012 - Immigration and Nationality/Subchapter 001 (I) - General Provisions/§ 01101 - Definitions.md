@@ -1598,6 +1598,10 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 Act June 27, 1952, ch. 477, title IV, §407, 66 Stat. 281, provided that: "Except as provided in subsection (k) of section 401 \[former section 1106(k) of this title\], this Act \[this chapter\] shall take effect at 12:01 ante meridian United States Eastern Standard Time on the one hundred eightieth day immediately following the date of its enactment \[June 27, 1952\]."
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–226, §1, Aug. 1, 2018, 132 Stat. 1625, provided that: "This Act \[enacting provisions set out as a note under this section\] may be cited as the 'Knowledgeable Innovators and Worthy Investors Act' or the 'KIWI Act'."
+
 #### Short Title of 2015 Amendment
 
 Pub. L. 114–113, div. O, title II, §201, Dec. 18, 2015, 129 Stat. 2988, provided that: "This title \[enacting section 1187a of this title, amending sections 1187 and 1732 of this title, and enacting provisions set out as a note under section 1187 of this title\] may be cited as the 'Visa Waiver Program Improvement and Terrorist Travel Prevention Act of 2015'."
@@ -1718,7 +1722,7 @@ Pub. L. 103–416, §1, Oct. 25, 1994, 108 Stat. 4305, provided that: "This Act 
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–232, §1(a), Dec. 12, 1991, 105 Stat. 1733, provided that: "This Act \[amending this section, sections 1102, 1105a, 1151 to 1154, 1157, 1159 to 1161, 1182, 1184, 1186a to 1188, 1201, 1221, 1226, 1227, 1229, 1251, 1252, 1252a, 1252b, 1254 to 1255a, 1281, 1282, 1284, 1288, 1322, 1323, 1324a to 1324c, 1325, 1356, 1357, 1421, 1423, 1424, 1433, 1439 to 1441,1443, 1445 to 1452, and 1455 of this title, and section 3753 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 1151, 1157, 1160, 1182, 1184, 1251, 1252, 1254a, 1255, 1356, and 1421 of this title, and amending provisions set out as notes under this section and sections 1105a, 1153, 1158, 1160, 1184, 1201, 1251, 1254a, 1255, and 1421 of this title\] may be cited as the 'Miscellaneous and Technical Immigration and Naturalization Amendments of 1991'."
+Pub. L. 102–232, §1(a), Dec. 12, 1991, 105 Stat. 1733, provided that: "This Act \[amending this section, sections 1102, 1105a, 1151 to 1154, 1157, 1159 to 1161, 1182, 1184, 1186a to 1188, 1201, 1221, 1226, 1227, 1229, 1251, 1252, 1252a, 1252b, 1254 to 1255a, 1281, 1282, 1284, 1288, 1322, 1323, 1324a to 1324c, 1325, 1356, 1357, 1421, 1423, 1424, 1433, 1439 to 1441, 1443, 1445 to 1452, and 1455 of this title, and section 3753 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 1151, 1157, 1160, 1182, 1184, 1251, 1252, 1254a, 1255, 1356, and 1421 of this title, and amending provisions set out as notes under this section and sections 1105a, 1153, 1158, 1160, 1184, 1201, 1251, 1254a, 1255, and 1421 of this title\] may be cited as the 'Miscellaneous and Technical Immigration and Naturalization Amendments of 1991'."
 
 Pub. L. 102–232, title I, §101, Dec. 12, 1991, 105 Stat. 1733, provided that: "This title \[amending sections 1421, 1448, 1450, and 1455 of this title and enacting provisions set out as a note under section 1421 of this title\] may be cited as the 'Judicial Naturalization Ceremonies Amendments of 1991'."
 
@@ -1760,11 +1764,11 @@ Pub. L. 97–363, §1, Oct. 25, 1982, 96 Stat. 1734, provided that: "This Act \[
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–116, §1(a), Dec. 29, 1981, 95 Stat. 1611, provided that: "this Act \[amending this section, sections 1105a, 1151, 1152, 1154, 1182, 1201, 1203, 1221, 1227, 1251, 1252, 1253, 1254, 1255, 1255b, 1258, 1305, 1324, 1356, 1361, 1401a, 1409, 1427, 1431, 1432, 1433, 1439, 1440, 1445, 1446, 1447, 1448, 1452, 1455, 1481, and 1483 of this title, and section 1429 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under this section and sections 1151 and 1182 of this title, amending a provision set out as a note under this section, and repealing a provision set out as a note under section 1182 of this title\] may be cited as the 'Immigration and Nationality Act Amendments of 1981'."
+Pub. L. 97–116, §1(a), Dec. 29, 1981, 95 Stat. 1611, provided that: "this Act \[amending this section, sections 1105a, 1151, 1152, 1154, 1182, 1201, 1203, 1221, 1227, 1251, 1252, 1253, 1254, 1255, 1255b, 1258, 1305, 1324, 1356, 1361, 1401a, 1409, 1427, 1431, 1432, 1433, 1439, 1440, 1445, 1446, 1447, 1448, 1452, 1455, 1481, and 1483 of this title, and section 1429 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under this section and sections 1151 and 1182 of this title, amending a provision set out as a note under this section, and repealing a provisionset out as a note under section 1182 of this title\] may be cited as the 'Immigration and Nationality Act Amendments of 1981'."
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–212, §1, Mar. 17, 1980, 94 Stat. 102, provided: "That this Act \[enacting sections 1157 to 1159 and 1521to 1525 of this title, amending this section, sections 1151 to 1153, 1181, 1182, 1253, and 1254 of this title, and section 2601 of Title 22, Foreign Relations and Intercourse, enacting provision set out as notes under this section and sections 1153, 1157, 1158, 1521, and 1522 of this title, amending provisions set out as notes under sections 1182 and 1255 of this title, and repealing provisions set out as a note under section 2601 of Title 22\] may be cited as the 'Refugee Act of 1980'."
+Pub. L. 96–212, §1, Mar. 17, 1980, 94 Stat. 102, provided: "That this Act \[enacting sections 1157 to 1159 and 1521 to 1525 of this title, amending this section, sections 1151 to 1153, 1181, 1182, 1253, and 1254 of this title, and section 2601 of Title 22, Foreign Relations and Intercourse, enacting provision set out as notes under this section and sections 1153, 1157, 1158, 1521, and 1522 of this title, amending provisions set out as notes under sections 1182 and 1255 of this title, and repealing provisions set out as a note under section 2601 of Title 22\] may be cited as the 'Refugee Act of 1980'."
 
 #### Short Title of 1976 Amendment
 
@@ -1812,7 +1816,7 @@ Act June 27, 1952, ch. 477, title IV, §405, 66 Stat. 280, provided in part that
 
 "(c) Except as otherwise specifically provided in this Act \[this chapter\], the repeal of any statute by this Act \[this chapter\] shall not terminate nationality heretofore lawfully acquired nor restore nationality heretofore lost under any law of the United States or any treaty to which the United States may have been a party.
 
-"(d) Except as otherwise specifically provided in this Act \[this chapter\], or any amendment thereto, fees,charges and prices for purposes specified in title V of the Independent Offices Appropriation Act, 1952 (Public Law 137, Eighty-second Congress, approved August 31, 1951), may be fixed and established in the manner and by the head of any Federal Agency as specified in that Act.
+"(d) Except as otherwise specifically provided in this Act \[this chapter\], or any amendment thereto, fees, charges and prices for purposes specified in title V of the Independent Offices Appropriation Act, 1952 (Public Law 137, Eighty-second Congress, approved August 31, 1951), may be fixed and established in the manner and by the head of any Federal Agency as specified in that Act.
 
 "(e) This Act \[this chapter\] shall not be construed to repeal, alter, or amend section 231(a) of the Act of April 30, 1946 (60 Stat. 148; \[section 1281(a) of title 22\]), the Act of June 20, 1949 (Public Law 110, section 8, Eighty-first Congress, first session; 63 Stat. 208 \[section 3508 of title 50\]), the Act of June 5, 1950 (Public Law 535, Eighty-first Congress, second session \[former section 1501 et seq. of title 22\]), nor title V of the Agricultural Act of 1949, as amended (Public Law 78, Eighty-second Congress, first session \[former sections 1461 to 1468 of title 7\])."
 
@@ -1874,9 +1878,11 @@ Act June 27, 1952, ch. 477, title IV, §404, 66 Stat. 280, as amended by Pub. L.
 
 #### Availability of Funds
 
-Pub. L. 115–31, div. F, title V, §540, May 5, 2017, 131 Stat. 432, provided that: "Subclauses 101(a)(27)(C)(ii)(II) and (III) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(C)(ii)(II) and (III)) shall be applied by substituting 'September 30, 2017' for 'September 30, 2015'."
+Pub. L. 115–141, div. M, title II, §202, Mar. 23, 2018, 132 Stat. 1049, provided that: "Subclauses 101(a)(27)(C)(ii)(II) and (III) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(C)(ii)(II) and (III)) shall be applied by substituting 'September 30, 2018' for 'September 30, 2015'."
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–31, div. F, title V, §540, May 5, 2017, 131 Stat. 432.
 
 Pub. L. 114–113, div. F, title V, §573, Dec. 18, 2015, 129 Stat. 2526.
 
@@ -1920,7 +1926,7 @@ Pub. L. 111–230, title IV, §402, Aug. 13, 2010, 124 Stat. 2487, as amended by
 
 #### Afghan Allies Protection
 
-Pub. L. 111–8, div. F, title VI, Mar. 11, 2009, 123 Stat. 807, as amended by Pub. L. 111–118, div. A, title VIII, §8120(b), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 113–66, div. A, title XII, §1219, Dec. 26, 2013, 127 Stat. 913; Pub. L. 113–76, div. K, title VII, §7034(o), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–160, §1, Aug. 8, 2014, 128 Stat. 1853; Pub. L. 113–291, div. A, title XII, §1227, Dec. 19, 2014, 128 Stat. 3552; Pub. L. 114–92, div. A, title XII, §1216, Nov. 25, 2015, 129 Stat. 1045; Pub. L. 114–328, div. A, title XII, §1214, Dec. 23, 2016, 130 Stat. 2479; Pub. L. 115–31, div. J, title VII, §7083(a), May 5, 2017, 131 Stat. 718; Pub. L. 115–91, div. A, title XII, §1213, Dec. 12, 2017, 131 Stat. 1649, provided that:
+Pub. L. 111–8, div. F, title VI, Mar. 11, 2009, 123 Stat. 807, as amended by Pub. L. 111–118, div. A, title VIII, §8120(b), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 113–66, div. A, title XII, §1219, Dec. 26, 2013, 127 Stat. 913; Pub. L. 113–76, div. K, title VII, §7034(o), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–160, §1, Aug. 8, 2014, 128 Stat. 1853; Pub. L. 113–291, div. A, title XII, §1227, Dec. 19, 2014, 128 Stat. 3552; Pub. L. 114–92, div. A, title XII, §1216, Nov. 25, 2015, 129 Stat. 1045; Pub. L. 114–328, div. A, title XII, §1214, Dec. 23, 2016, 130 Stat. 2479; Pub. L. 115–31, div. J, title VII, §7083(a), May 5, 2017, 131 Stat. 718; Pub. L. 115–91, div. A, title XII, §1213, Dec. 12, 2017, 131 Stat. 1649; Pub. L. 115–232, div. A, title XII, §1222, Aug. 13, 2018, 132 Stat. 2028, provided that:
 
 #### "SEC. 601. SHORT TITLE.
 
@@ -2056,7 +2062,7 @@ In general.—Except as provided in subparagraph (C), the total number of princi
 
 &emsp;&emsp;"(B)
 
-Exclusion from numerical limitations.—Aliens provided special immigrant status under this subsection shall not be counted against any numerical limitation under sections 201(d), 202(a), or 203(b)(4) of the Immigration and Nationality Act (8 U.S.C. 1151(d), 1152(a), and 1153(b)(4)).
+Exclusion from numerical limitations.—Aliens provided special immigrant status under this subsection shall not be counted against any numerical limitation under sections 201(d), 202(a), or203(b)(4) of the Immigration and Nationality Act (8 U.S.C. 1151(d), 1152(a), and 1153(b)(4)).
 
 &emsp;&emsp;"(C)
 
@@ -2158,22 +2164,6 @@ Adjustment of status.—Notwithstanding paragraph (2), (7), or (8) of subsection
 
 &emsp;"(10)
 
-Report on implementation and authority to carry out administrative measures.—
-
-&emsp;&emsp;"(A)
-
-Requirement for report.—Not later than one year after the date of the enactment of this Act\[Mar. 11, 2009\], the Secretary of Homeland Security and the Secretary of State, in consultation with the Secretary of Defense, shall submit to the appropriate committees of Congress a report on the implementation of this subsection.
-
-&emsp;&emsp;"(B)
-
-Content of report.—The report required by subparagraph (A) shall describe actions taken, and additional administrative measures that may be needed, to ensure the integrity of the program established under this subsection and the national security interests of the United States related to such program.
-
-&emsp;&emsp;"(C)
-
-Authority to carry out administrative measures.—The Secretary of Homeland Security and the Secretary of State shall implement any additional administrative measures described in subparagraph (B) as they may deem necessary and appropriate to ensure the integrity of the program established under this subsection and the national security interests of the United States related to such program.
-
-&emsp;"(11)
-
 Annual report on use of special immigrant status.—
 
 &emsp;&emsp;"(A)
@@ -2196,13 +2186,13 @@ Content.—Each report required by subparagraph (A) submitted in a fiscal year s
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) were denied, including a description of the basis for each denial.
 
-&emsp;"(12)
+&emsp;"(11)
 
 Report on improvements.—
 
 &emsp;&emsp;"(A)
 
-Requirement for report.—Not later than 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2014 \[Dec. 26, 2013\], the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit to the appropriate committees of Congress a report, with a classified annex, if necessary.
+Requirement for report.—Not later than 120 days after the date of the enactment of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 \[Aug. 13, 2018\], the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit to the appropriate committees of Congress a report, with a classified annex, if necessary.
 
 &emsp;&emsp;"(B)
 
@@ -2236,13 +2226,13 @@ Contents.—The report required by subparagraph (A) shall describe the implement
 
 &emsp;&emsp;&emsp;"(viii) the reasons for denials by the Chief of Mission based on the categories already made available to denied special immigrant visa applicants in the denial letter sent to them by the Chief of Mission.
 
+&emsp;"(12)
+
+Public quarterly reports.—Not later than 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2014 \[Dec. 26, 2013\], and every 3 months thereafter, the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall publish a report on the website of the Department of State that describes the efficiency improvements made in the process by which applications for special immigrant visas under this subsection are processed, including information described in clauses (iii) through (viii) of paragraph (11)(B).
+
 &emsp;"(13)
 
-Public quarterly reports.—Not later than 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2014 \[Dec. 26, 2013\], and every 3 months thereafter, the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall publish a report on the website of the Department of State that describes the efficiency improvements made in the process by which applications for special immigrant visas under this subsection are processed, including information described in clauses (iii) through (viii) of paragraph (12)(B).
-
-&emsp;"(14)
-
-Report.—Not later than December 31, 2016, and annually thereafter through January 31, 2021, the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit a report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives containing the following information:
+Report.—Not later than December 31, 2016, and annually thereafter through January 31, 2021, the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit a report to the appropriate committees of Congress containing the following information:
 
 &emsp;&emsp;"(A) The occupations of aliens who—
 
@@ -2264,59 +2254,23 @@ Report.—Not later than December 31, 2016, and annually thereafter through Janu
 
 &emsp;&emsp;"(H) The number of special immigrant status approvals revoked by the Chief of Mission that were appealed and the number of those revocations that were overturned pursuant to the appeal.
 
-&emsp;"(15)
+&emsp;"(14)
 
-Reports informing the conclusion of the afghan special immigrant visa program.—Not laterthan June 1, 2016, and every six months thereafter, the Secretary of Defense, in conjunction with the Secretary of State, shall submit to the Committee on Armed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report that contains—
+Reports informing the conclusion of the afghan special immigrant visa program.—Not later than June 1, 2016, and every six months thereafter, the Secretary of Defense, in conjunction with the Secretary of State, shall submit to the Committee on Armed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report that contains—
 
 &emsp;&emsp;"(A) a description of the United States force presence in Afghanistan during the previous 6 months;
 
 &emsp;&emsp;"(B) a description of the projected United States force presence in Afghanistan;
 
-&emsp;&emsp;"(C) the number of citizens or nationals of Afghanistan who were employed by or on behalf of the entities described in paragraph (2)(A)(ii) during the previous 6 months; and
+&emsp;&emsp;"(C) the number of citizens or nationals of Afghanistan who were employed by or on behalf of theentities described in paragraph (2)(A)(ii) during the previous 6 months; and
 
 &emsp;&emsp;"(D) the projected number of such citizens or nationals who will be employed by or on behalf of such entities.
 
-&emsp;"(16)
+&emsp;"(15)
 
 Sense of congress.—It is the sense of Congress that the necessity of providing special immigrant status under this subsection should be assessed at regular intervals by the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, taking into account the scope of the current and planned presence of United States troops in Afghanistan, the current and prospective numbers of citizens and nationals of Afghanistan employed by or on behalf of the entities described in paragraph (2)(A)(ii), and the security climate in Afghanistan.
 
 "(c)
-
-Information Regarding Citizens or Nationals of Afghanistan Employed by the United States or Federal Contractors in Afghanistan.—
-
-&emsp;"(1)
-
-Requirement to compile information.—
-
-&emsp;&emsp;"(A)
-
-In general.—Not later than 120 days after the date of the enactment of this Act \[Mar. 11, 2009\], the Administrator of the United States Agency for International Development, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of State, and the Secretary of the Treasury shall—
-
-&emsp;&emsp;&emsp;"(i) review internal records and databases of their respective agencies for information that can be used to verify employment of citizens or nationals of Afghanistan by the United States Government; and
-
-&emsp;&emsp;&emsp;"(ii) request from each prime contractor or grantee that has performed work in Afghanistan since October 7, 2001, under a contract, grant, or cooperative agreement with their respective agencies that is valued in excess of $25,000, information that may be used to verify the employment of such citizens or nationals by such contractor or grantee.
-
-&emsp;&emsp;"(B)
-
-Information required.—To the extent data is available, the information referred to in subparagraph (A) shall include the name and dates of employment of, biometric data for, and other data that can be used to verify the employment of each citizen or national of Afghanistan who has performed work in Afghanistan since October 7, 2001, under a contract, grant, or cooperative agreement with an executive agency.
-
-&emsp;"(2)
-
-Report on establishment of database.—Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense, in consultation with the Administrator of the United States Agency for International Development, the Secretary of Homeland Security, the Secretary of State, and the Secretary of the Treasury, shall submit to the appropriate committees of Congress a report examining the options for establishing a unified and classified database of information related to contracts, grants, or cooperative agreements entered into by executive agencies for the performance of work in Afghanistan since October 7, 2001, including the information described and collected under paragraph (1), to be used by relevant Federal departments and agencies to adjudicate refugee, asylum, special immigrant visa, and other immigration claims and applications.
-
-&emsp;"(3)
-
-Report on noncompliance.—Not later than 180 days after the date of the enactment of this Act, the President shall submit to the appropriate committees of Congress a report that describes—
-
-&emsp;&emsp;"(A) the inability or unwillingness of any contractor or grantee to provide the information requested under paragraph (1)(A)(ii); and
-
-&emsp;&emsp;"(B) the reasons that such contractor or grantee provided for failing to provide such information.
-
-&emsp;"(4)
-
-Executive agency defined.—In this subsection, the term 'executive agency' has the meaning given that term in section 133 of title 41, United States Code.
-
-"(d)
 
 Rule of Construction.—Nothing in this section may be construed to affect the authority of the Secretary of Homeland Security under section 1059 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 8 U.S.C. 1101 note)."
 
@@ -2412,7 +2366,7 @@ Period of absence described.—A period of absence described in this paragraph i
 
 "(f)
 
-Application of Immigration and Nationality Act Provisions.—The definitions in subsections (a) and (b) of section 101 of the Immigration and Nationality Act (8 U.S.C. 1101) shall apply in the administration of this section."
+Application of Immigration and Nationality Act Provisions.—The definitions in subsections (a) and\(b) of section 101 of the Immigration and Nationality Act (8 U.S.C. 1101) shall apply in the administration of this section."
 
 \[Pub. L. 112–227, §1(b), Dec. 28, 2012, 126 Stat. 1609, provided that: "The amendment made by subsection (a) \[amending section 1059(e) of Pub. L. 109–163, set out above\] shall take effect as if included in the enactment of section 1059(e) of the National Defense Authorization Act for Fiscal Year 2006 \[Pub. L. 109–163\] (8 U.S.C. 1101 note)."\]
 
@@ -2492,7 +2446,7 @@ Pub. L. 104–208, div. C, title V, §593, Sept. 30, 1996, 110 Stat. 3009–688,
 
 "(a)
 
-In General.—Each agency of the Federal Government or a State or political subdivision that administers a program affected by the provisions of this title \[see Effective Date of 1996 Amendment note above\], shall, directly or through the States, provide general notification to the public and to program recipients of the changes regarding eligibility for any such program pursuant to this title.
+In General.—Each agency of the Federal Government or a State or political subdivision that administers a program affected by the provisions of this title\[see Effective Date of 1996 Amendment note above\], shall, directly or through the States, provide general notification to the public and to program recipients of the changes regarding eligibility for any such program pursuant to this title.
 
 "(b)
 
@@ -2574,7 +2528,7 @@ Pub. L. 101–649, title I, §141, Nov. 29, 1990, 104 Stat. 5001, as amended by 
 
 "(a)
 
-Establishment and Composition of Commission.—(1) Effective October 1, 1991, there is established a Commission on Immigration Reform (in this section referred to as the 'Commission') which shall be composed of 9 members to be appointed as follows:
+Establishment and Composition of Commission.—(1) Effective October 1, 1991, there is established a Commission on Immigration Reform (in this sectionreferred to as the 'Commission') which shall be composed of 9 members to be appointed as follows:
 
 &emsp;"(A) One member who shall serve as Chairman, to be appointed by the President.
 
@@ -2626,7 +2580,7 @@ Particular considerations.—In particular, the Commission shall consider the fo
 
 &emsp;"(2)
 
-Diversity program.—The Commission shall analyze the information maintained under section203(c)(3) of the Immigration and Nationality Act \[8 U.S.C. 1153(c)(3)\] and shall report to Congress in its report under subsection (b)(2) on—
+Diversity program.—The Commission shall analyze the information maintained under section 203(c)(3) of the Immigration and Nationality Act \[8 U.S.C. 1153(c)(3)\] and shall report to Congress in its report under subsection (b)(2) on—
 
 &emsp;&emsp;"(A) the characteristics of individuals admitted under section 203(c) of the Immigration and Nationality Act, and
 
@@ -2664,7 +2618,7 @@ Congressional Response.—(1) No later than 90 days after the date of receipt of
 
 Presidential Report.—The President shall conduct a review and evaluation and provide for the transmittal of reports to the Congress in the same manner as the Commission is required to conduct a review and evaluation and to transmit reports under subsection (b)."
 
-\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
+\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
 #### Special Immigrant Status for Certain Aliens Employed at United States Mission in Hong Kong (D Special Immigrants)
 
@@ -2702,13 +2656,15 @@ Amendment by section 203(c) of Pub. L. 101–649 not to affect performance of lo
 
 #### Application of Treaty Trader for Certain Foreign States
 
+Pub. L. 115–226, §2, Aug. 1, 2018, 132 Stat. 1625, provided that: "For purposes of clauses (i) and (ii) of section 101(a)(15)(E) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(E)), New Zealand shall be considered to be a foreign state described in such section if the Government of New Zealand provides similar nonimmigrant status to nationals of the United States."
+
 Pub. L. 112–130, §1, June 8, 2012, 126 Stat. 376, provided that: "Israel shall be deemed to be a foreign state described in section 101(a)(15)(E) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(E)) for purposes of clauses (i) and (ii) of such section if the Government of Israel provides similar nonimmigrant status to nationals of the United States."
 
 Pub. L. 101–649, title II, §204(b), Nov. 29, 1990, 104 Stat. 5019, provided that: "Each of the following foreign states shall be considered, for purposes of section 101(a)(15)(E) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(E)\], to be a foreign state described in such section if the foreign state extends reciprocal nonimmigrant treatment to nationals of the United States:
 
 &emsp;"(1) The largest foreign state in each region (as defined in section 203(c)(1) of the Immigration and Nationality Act \[8 U.S.C. 1153(c)(1)\]) which (A) has 1 or more dependent areas (as determined for purposes of section 202 of such Act \[8 U.S.C. 1152\]) and (B) does not have a treaty of commerce and navigation with the United States.
 
-&emsp;"(2) The foreign state which (A) was identified as an adversely affected foreign state for purposes of section 314 of the Immigration Reform and Control Act of 1986 \[Pub. L. 99–603, set out as a note under section 1153 of this title\] and (B) does not have a treaty of commerce and navigation with the United States, but\(C) had such a treaty with the United States before 1925."
+&emsp;"(2) The foreign state which (A) was identified as an adversely affected foreign state for purposes of section 314 of the Immigration Reform and Control Act of 1986 \[Pub. L. 99–603, set out as a note under section 1153 of this title\] and (B) does not have a treaty of commerce and navigation with the United States, but (C) had such a treaty with the United States before 1925."
 
 #### Clarification of Treatment of Certain International Accounting and Management Consulting Firms
 
@@ -2792,7 +2748,7 @@ Pub. L. 100–202, §101(e) \[title V, §584\], Dec. 22, 1987, 101 Stat. 1329–
 
 "(3) Notwithstanding section 221(c) of the Immigration and Nationality Act \[8 U.S.C. 1201(c)\], immigrant visas issued to aliens under this section shall be valid for a period of one year.
 
-"(b)(1) An alien described in this section is an alien who, as of the date of the enactment of this Act \[Dec. 22, 1987\], is residing in Vietnam and who establishes to the satisfaction of a consular officer or an officer of the Immigration and Naturalization Service after a face-to-face interview, that the alien—
+"(b)(1) An alien described in this section is an alien who, as of the date of the enactment of this Act \[Dec.22, 1987\], is residing in Vietnam and who establishes to the satisfaction of a consular officer or an officer of the Immigration and Naturalization Service after a face-to-face interview, that the alien—
 
 &emsp;"(A)(i) was born in Vietnam after January 1, 1962, and before January 1, 1976, and (ii) was fathered by a citizen of the United States (such an alien in this section referred to as a 'principal alien');
 
@@ -2824,7 +2780,7 @@ Two Essential Elements.—It is the sense of Congress that two essential element
 
 &emsp;"(1) an increase in the border patrol and other inspection and enforcement activities of the Immigration and Naturalization Service and of other appropriate Federal agencies in order to prevent and deter the illegal entry of aliens into the United States and the violation of the terms of their entry, and
 
-&emsp;"(2) an increase in examinations and other service activities of the Immigration and Naturalization Service and other appropriate Federal agencies inorder to ensure prompt and efficient adjudication of petitions and applications provided for under the Immigration and Nationality Act \[this chapter\].
+&emsp;"(2) an increase in examinations and other service activities of the Immigration and Naturalization Service and other appropriate Federal agencies in order to ensure prompt and efficient adjudication of petitions and applications provided for under the Immigration and Nationality Act \[this chapter\].
 
 "(b)
 
@@ -2874,7 +2830,7 @@ Priv. L. 98–53, Oct. 30, 1984, 98 Stat. 3437, provided: "That an alien lawfull
 
 #### Study and Evaluation of Exchange Programs for Graduate Medical Education of Alien Graduates of Foreign Medical Schools; Report to Congress Not Later Than January 15, 1983
 
-Pub. L. 97–116, §5(e), Dec. 29, 1981, 95 Stat. 1614, directed Secretary of Health and Human Services, after consultation with Attorney General, Secretary of State, and Director of the International Communication Agency, to evaluate effectiveness and value to foreign nations and United States of exchange programs for graduate medical education or training of aliens who were graduates of foreign medical schools, and to report to Congress, not later than Jan. 15, 1983, on suchevaluation, and include such recommendations for changes in legislation and regulations as appropriate.
+Pub. L. 97–116, §5(e), Dec. 29, 1981, 95 Stat. 1614, directed Secretary of Health and Human Services, after consultation with Attorney General, Secretary of State, and Director of the International Communication Agency, to evaluate effectiveness and value to foreign nations and United States of exchange programs for graduate medical education or training of aliens who were graduates of foreign medical schools, and to report to Congress, not later than Jan. 15, 1983, on such evaluation, and include such recommendations for changes in legislation and regulations as appropriate.
 
 #### Adjustment of Status of Nonimmigrant Aliens Residing in the Virgin Islands to Permanent Resident Alien Status
 
@@ -2934,7 +2890,7 @@ While we already are doing more to stem the flow of illegal immigration than has
 
 #### A. <i>Deterring Illegal Immigration At Our Borders</i>
 
-I have directed the Attorney General to move expeditiously toward full implementation of our comprehensive border control strategy, including efforts at the southwest border. To support sustained long-term strengthening of our deterrence capacity, the Administration shall seek funding to add new Border Patrolagents to reach the goal of at least 7,000 agents protecting our borders by the year 2000.
+I have directed the Attorney General to move expeditiously toward full implementation of our comprehensive border control strategy, including efforts at the southwest border. To support sustained long-term strengthening of our deterrence capacity, the Administration shall seek funding to add new Border Patrol agents to reach the goal of at least 7,000 agents protecting our borders by the year 2000.
 
 #### &nbsp;&nbsp;<i>Flexible Border Response Capacity</i>
 
@@ -2966,7 +2922,7 @@ In addition, I will propose legislation to give the Attorney General authority t
 
 Nearly half of this country's illegal immigrants come into the country legally and then stay after they are required by law to depart, often using fraudulent documentation. No Administration has ever made a serious effort to identify and deport these individuals. This Administration is committed to curtailing this form of illegal immigration.
 
-Therefore, relevant departments and agencies are directed to review their policies and practices to identify necessary reforms to curtail visa overstayers and to enhance investigations and prosecution of those who fraudulently produce or misuse passports, visas, and other travel related documents. Recommendations for administrative initiatives and legislative reform shall be presented to the White House Interagency Working Group on Immigration by June 30, 1995.
+Therefore, relevant departments and agencies are directed to review their policies and practices to identify necessary reforms to curtail visa overstayers and to enhance investigations and prosecution of those whofraudulently produce or misuse passports, visas, and other travel related documents. Recommendations for administrative initiatives and legislative reform shall be presented to the White House Interagency Working Group on Immigration by June 30, 1995.
 
 #### REDUCING THE MAGNET OF WORK OPPORTUNITIES, WORKSITE ENFORCEMENT, AND DETERRENCE
 
@@ -3018,7 +2974,7 @@ Our efforts to combat illegal immigration must not violate the privacy and civil
 
 #### ASSISTANCE TO STATES
 
-States today face significant costs for services provided to illegal immigrants as a result of failed policies of the past. Deterring illegal immigration is the best long-term solution to protect States from growing costs for illegal immigration. This is the first Administration to address this primary responsibility squarely. We are targeting most of our Federal dollars to those initiatives that address the root causes that lead to increased burdens on States.
+States today face significant costs for services provided to illegal immigrants as a result of failed policies of the past. Deterring illegal immigration is the best long-term solution to protect States from growingcosts for illegal immigration. This is the first Administration to address this primary responsibility squarely. We are targeting most of our Federal dollars to those initiatives that address the root causes that lead to increased burdens on States.
 
 The Federal Government provides States with billions of dollars to provide for health care, education, and other services and benefits for immigrants. This Administration is proposing increases for immigration and immigration-related spending of 25 percent in 1996 compared to 1993 levels. In addition, this Administration is the first to obtain funding from the Congress to reimburse States for a share of the costs of incarcerated illegal aliens.
 

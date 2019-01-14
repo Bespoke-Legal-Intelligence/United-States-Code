@@ -1,6 +1,6 @@
 ### §191. Terms of measure, weight, and money in commercial reports
 
-All terms of measure, weight, and money in the diplomatic, consular, and other commercialreports prepared, printed, published, and distributed by the Department of Commerce shall be reduced to and expressed in terms of measure, weight, and coin of the United States, as well as in the foreign terms.
+All terms of measure, weight, and money in the diplomatic, consular, and other commercial reports prepared, printed, published, and distributed by the Department of Commerce shall be reduced to and expressed in terms of measure, weight, and coin of the United States, as well as in the foreign terms.
 
 (Feb. 9, 1903, ch. 530, 32 Stat. 813; Feb. 14, 1903, ch. 552, §10, 32 Stat. 829; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736.)
 

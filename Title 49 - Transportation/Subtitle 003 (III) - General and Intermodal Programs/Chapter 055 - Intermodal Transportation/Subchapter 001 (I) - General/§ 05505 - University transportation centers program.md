@@ -216,7 +216,7 @@ Sources.—The matching amounts referred to in clause (i) may include amounts ma
 
 &emsp;&emsp;(C)
 
-Focused research.—In awarding grants under this section, considerationshall be given to minority institutions, as defined by section 365 of the Higher Education Act of 1965 (20 U.S.C. 1067k), or consortia that include such institutions that have demonstrated an ability in transportation-related research.
+Focused research.—In awarding grants under this section, consideration shall be given to minority institutions, as defined by section 365 of the Higher Education Act of 1965 (20 U.S.C. 1067k), or consortia that include such institutions that have demonstrated an ability in transportation-related research.
 
 (d)
 
@@ -244,7 +244,7 @@ Program evaluation and oversight.—For each of fiscal years 2016 through 2020, 
 
 (e)
 
-Limitation on Availability of Amounts.—Amounts made available to the Secretary to carry out this section shall remain available for obligation by the Secretary for a period of 3 years after the last day of the fiscal year for which the amounts are authorized.
+Limitation on Availability of Amounts.—Amounts made available to the Secretary tocarry out this section shall remain available for obligation by the Secretary for a period of 3 years after the last day of the fiscal year for which the amounts are authorized.
 
 (f)
 

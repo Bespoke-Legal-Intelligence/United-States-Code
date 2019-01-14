@@ -64,7 +64,7 @@ The head of each Federal agency shall ensure that the decisions made by the Fede
 
 #### Prior Provisions
 
-A prior section 2\[44\] of Pub. L. 85–536 was renumbered section 2\[47\] and is set out as a note under section 631 of this title.
+A prior section 2\[44\] of Pub. L. 85–536 was renumbered section 2\[49\] and is set out as a note under section 631 of this title.
 
 #### Amendments
 
@@ -92,5 +92,5 @@ Rule.—After the date described in subparagraph (C), contracting by the Departm
 
 "(C)
 
-Date.—The date described in this subparagraph is the date on which the Administrator determines the Department of Defense or a military department is in compliance with the Government-wide contracting goals under section 644 of this title."
+Date.—The date described in this subparagraph is the date on which the Administrator determines theDepartment of Defense or a military department is in compliance with the Government-wide contracting goals under section 644 of this title."
 

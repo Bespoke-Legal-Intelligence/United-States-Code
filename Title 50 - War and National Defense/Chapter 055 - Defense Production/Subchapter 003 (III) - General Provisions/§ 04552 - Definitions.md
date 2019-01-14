@@ -4,7 +4,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (1) Critical component
 
-&emsp;The term "critical component" includes such components, subsystems, systems, and related special tooling and test equipment essential to the production, repair, maintenance, or operation of weapon systems or other items of equipment identified by the President as being essential to the execution of the national security strategy of the United States. Components identified as critical by aNational Security Assessment conducted pursuant to section 113(i) of title 10 or by a Presidential determination as a result of a petition filed under section 1862 of title 19 shall be designated as critical components for purposes of this chapter, unless the President determines that the designation is unwarranted.
+&emsp;The term "critical component" includes such components, subsystems, systems, and related special tooling and test equipment essential to the production, repair, maintenance, or operation of weapon systems or other items of equipment identified by the President as being essential to the execution of the national security strategy of the United States. Components identified as critical by a National Security Assessment conducted pursuant to section 113(i) of title 10 or by a Presidential determination as a result of a petition filed under section 1862 of title 19 shall be designated as critical components for purposes of this chapter, unless the President determines that the designation is unwarranted.
 
 #### (2) Critical infrastructure
 
@@ -96,7 +96,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (17) Small business concern
 
-&emsp;The term "small business concern" means a business concern that meets the requirementsof section 632(a) of title 15 and the regulations promulgated pursuant to that section, and includes such business concerns owned and controlled by socially and economically disadvantaged individuals or by women.
+&emsp;The term "small business concern" means a business concern that meets the requirements of section 632(a) of title 15 and the regulations promulgated pursuant to that section, and includes such business concerns owned and controlled by socially and economically disadvantaged individuals or by women.
 
 (Sept. 8, 1950, ch. 932, title VII, §702, 64 Stat. 815; June 30, 1953, ch. 171, §8, 67 Stat. 130; Pub. L. 91–379, title I, §102, Aug. 15, 1970, 84 Stat. 796; Pub. L. 102–558, title I, §132, Oct. 28, 1992, 106 Stat. 4210; Pub. L. 103–337, div. C, title XXXIV, §3411(b), Oct. 5, 1994, 108 Stat. 3110; Pub. L. 108–195, §5, Dec. 19, 2003, 117 Stat. 2893; Pub. L. 111–67, §8, Sept. 30, 2009, 123 Stat. 2017.)
 
@@ -118,7 +118,7 @@ Section was formerly classified to section 2152 of the former Appendix to this t
 
 <b>2009</b>—Par. (1). Pub. L. 111–67, §8(1), substituted "equipment identified by the President" for "military equipment identified by the Secretary of Defense".
 
-Pars. (2), (3). Pub. L. 111–67, §8(2)–(4), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The term 'critical industry for national security' means any industry (or industry sector) identified pursuant to section 2503(6) of title 10 and such other industries or industry sectors as may be designated by the President as essential to provide industrial resources required for the execution of the national security strategy of the United States."
+Pars. (2), (3). Pub. L. 111–67, §8(2)–(4), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2). Prior to amendment, text of par. (2)read as follows: "The term 'critical industry for national security' means any industry (or industry sector) identified pursuant to section 2503(6) of title 10 and such other industries or industry sectors as may be designated by the President as essential to provide industrial resources required for the execution of the national security strategy of the United States."
 
 Pars. (4), (5). Pub. L. 111–67, §8(2), (5), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "The term 'critical technology' includes any technology that is included in 1 or more of the plans submitted pursuant to section 6681 of title 42 or section 2508 of title 10 (unless subsequently deleted), or such other emerging or dual use technology as may be designated by the President."
 

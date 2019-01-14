@@ -110,7 +110,7 @@ Par. (13). Pub. L. 93–618 added par. (13) relating to Special Representative f
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of Title 50, War and National Defense.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L.108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of Title 50, War and National Defense.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date of 2002 Amendment
 
@@ -200,7 +200,7 @@ Jurisdiction.—Any person aggrieved by an action of the Secretary of State may 
 
 &emsp;"(2)
 
-Three judge panel.—Any claim challenging the constitutionality of the appointment and continuance in office of the Secretary of State on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution, in an action brought under paragraph (1) shall be heard and determined by a panel of three judges in accordance with section 2284 of title28, United States Code. It shall be the duty of the district court to advance on the docket and to expedite the disposition of any matter brought under this subsection.
+Three judge panel.—Any claim challenging the constitutionality of the appointment and continuance in office of the Secretary of State on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution, in an action brought under paragraph (1) shall be heard and determined by a panel of three judges in accordance with section 2284 of title 28, United States Code. It shall be the duty of the district court to advance on the docket and to expedite the disposition of any matter brought under this subsection.
 
 &emsp;"(3)
 

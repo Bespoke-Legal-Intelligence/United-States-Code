@@ -54,7 +54,7 @@ In this section:
 
 #### (8) Research tool
 
-&emsp;The term "research tool" means a device, technology, biological material (including acell line or an antibody), reagent, animal model, computer system, computer software, or analytical technique that is developed to assist in the discovery, development, or manufacture of qualified countermeasures or qualified pandemic or epidemic products.
+&emsp;The term "research tool" means a device, technology, biological material (including a cell line or an antibody), reagent, animal model, computer system, computer software, or analytical technique that is developed to assist in the discovery, development, or manufacture of qualified countermeasures or qualified pandemic or epidemic products.
 
 #### (9) Program manager
 
@@ -68,7 +68,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than 6 months after December 19, 2006, the Secretary shall develop and make public a strategic plan to integrate biodefense and emerging infectious disease requirements with the advanced research and development, strategic initiatives for innovation, and the procurement of qualified countermeasures and qualified pandemic or epidemic products. The Secretary shall carry out such activities as may be practicable to disseminate the information contained in such plan to persons who may have the capacity to substantially contribute to the activities described in such strategic plan. The Secretary shall update and incorporate such plan as part of the National Health Security Strategy described in section 300hh–1 of this title.
+&emsp;Not later than 6 months after December 19, 2006, the Secretary shall develop and make public a strategic plan to integrate biodefenseand emerging infectious disease requirements with the advanced research and development, strategic initiatives for innovation, and the procurement of qualified countermeasures and qualified pandemic or epidemic products. The Secretary shall carry out such activities as may be practicable to disseminate the information contained in such plan to persons who may have the capacity to substantially contribute to the activities described in such strategic plan. The Secretary shall update and incorporate such plan as part of the National Health Security Strategy described in section 300hh–1 of this title.
 
 #### (2) Content
 
@@ -190,7 +190,7 @@ In this section:
 
 #### (II) Partnering experience
 
-&emsp;&emsp;&emsp;&emsp;In selecting an entity with which to enter into an agreement under clause (i),the Secretary shall place a high value on the demonstrated experience of the entity in partnering with the Federal Government to meet identified strategic needs.
+&emsp;&emsp;&emsp;&emsp;In selecting an entity with which to enter into an agreement under clause (i), the Secretary shall place a high value on the demonstrated experience of the entity in partnering with the Federal Government to meet identified strategic needs.
 
 #### (iii) Not agency
 
@@ -276,7 +276,7 @@ In this section:
 
 #### (iv) Availability of data
 
-&emsp;&emsp;&emsp;The Secretary shall require that, as a condition of being awarded a contract, grant, cooperative agreement, or other transaction under subparagraph (B) or (D) of paragraph (4), a person make available to the Secretary on an ongoing basis, and submit upon request to the Secretary, all data related to or resulting from countermeasure and product advanced research and development carried out pursuant to this section.
+&emsp;&emsp;&emsp;The Secretary shall require that, as a condition of being awarded a contract,grant, cooperative agreement, or other transaction under subparagraph (B) or (D) of paragraph (4), a person make available to the Secretary on an ongoing basis, and submit upon request to the Secretary, all data related to or resulting from countermeasure and product advanced research and development carried out pursuant to this section.
 
 #### (C) Advance payments; advertising
 
@@ -330,7 +330,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may hire up to 100 highly qualified individuals, or up to 50 percent ofthe total number of employees, whichever is less, under the authorities provided for in subparagraphs (A) and (B).
+&emsp;&emsp;&emsp;The Secretary may hire up to 100 highly qualified individuals, or up to 50 percent of the total number of employees, whichever is less, under the authorities provided for in subparagraphs (A) and (B).
 
 #### (ii) Report
 
@@ -402,7 +402,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e)(2),
 
 #### Codification
 
-In subsec. (c)(5)(A)(ii)(II), "section 1702(c) of title 41" substituted for "section 16(c) of the Office of FederalProcurement Policy Act (41 U.S.C. 414(c))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(5)(A)(ii)(II), "section 1702(c) of title 41" substituted for "section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (c)(5)(C), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

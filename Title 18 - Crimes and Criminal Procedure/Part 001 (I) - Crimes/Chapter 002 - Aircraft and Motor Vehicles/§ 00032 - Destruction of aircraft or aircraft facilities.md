@@ -24,7 +24,7 @@
 
 &emsp;(1) performs an act of violence against any individual on board any civil aircraft registered in a country other than the United States while such aircraft is in flight, if such act is likely to endanger the safety of that aircraft;
 
-&emsp;(2) destroys a civil aircraft registered in a country other than the United States while such aircraft is in service or causes damage to such an aircraft which renders that aircraftincapable of flight or which is likely to endanger that aircraft's safety in flight;
+&emsp;(2) destroys a civil aircraft registered in a country other than the United States while such aircraft is in service or causes damage to such an aircraft which renders that aircraft incapable of flight or which is likely to endanger that aircraft's safety in flight;
 
 &emsp;(3) places or causes to be placed on a civil aircraft registered in a country other than the United States while such aircraft is in service, a device or substance which is likely to destroy that aircraft, or to cause damage to that aircraft which renders that aircraft incapable of flight or which is likely to endanger that aircraft's safety in flight; or
 

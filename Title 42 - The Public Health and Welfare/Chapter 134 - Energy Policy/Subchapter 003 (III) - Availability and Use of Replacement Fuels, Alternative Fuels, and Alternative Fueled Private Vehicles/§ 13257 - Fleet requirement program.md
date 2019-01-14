@@ -30,7 +30,7 @@
 
 > The Secretary shall provide for at least 3 regional hearings on the advance notice of proposed rulemaking, with respect to which official transcripts shall be maintained. The comment period in connection with such advance notice of proposed rulemaking shall be completed within 7 months after publication of the advance notice.
 
-(4) After the completion of such advance notice of proposed rulemaking, the Secretary shall publish in the Federal Register a proposed rule for the rule required under subsection (b), andshall provide for a public comment period, with hearings, of not less than 90 days.
+(4) After the completion of such advance notice of proposed rulemaking, the Secretary shall publish in the Federal Register a proposed rule for the rule required under subsection (b), and shall provide for a public comment period, with hearings, of not less than 90 days.
 
 #### (b) Early rulemaking
 
@@ -42,7 +42,7 @@
 
 &emsp;(C) by 1998 (when model year 1999 begins) or the date specified by the Secretary in such rule for initiating a fleet requirement program—
 
-&emsp;&emsp;(i) there exists sufficient evidence to ensure that the fuel and the needed infrastructure, including the supply and deliverability systems, will be installed and located at convenient places in the fleet areas subject to the rule and will be fully operational when the rule is effective to offer a reliable and timely supply of the applicable alternative fuel at reasonable costs (as compared to conventional fuels) to meet the fleet requirement program, as demonstrated through use of the provisions of section 13255(1) of this title regarding voluntary commitments or other adequate, reliable, and convincing forms of agreements, arrangements, or representations that such fuels and infrastructure are in existence or will exist when the rule is effective and will be expanded as the percentages increase annually;
+&emsp;&emsp;(i) there exists sufficient evidence to ensure that the fuel and the needed infrastructure, including the supply and deliverability systems, will be installed and located at convenient places in the fleet areas subject to the rule and will be fully operational when the rule is effective to offer a reliable and timely supply of the applicable alternative fuel at reasonable costs (as compared to conventional fuels) to meet the fleet requirement program, as demonstrated through use of the provisions of section 13255(1) of thistitle regarding voluntary commitments or other adequate, reliable, and convincing forms of agreements, arrangements, or representations that such fuels and infrastructure are in existence or will exist when the rule is effective and will be expanded as the percentages increase annually;
 
 &emsp;&emsp;(ii) there will be a sufficient number of new alternative fueled vehicles from original equipment manufacturers that comply with all applicable requirements of the Clean Air Act \[42 U.S.C. 7401 et seq.\] and chapter 301 of title 49;
 
@@ -94,7 +94,7 @@ If the Secretary determines, based on findings under subsection (b) or (e), that
 
 #### (g) Fleet requirement program
 
-(1) If the Secretary determines under subsection (e) that a fleet requirement program is necessary, the Secretary shall, by January 1, 2000, by rule require that, except as provided in paragraph (2), of the total number of new light duty motor vehicles acquired for a fleet, other than a Federal fleet, State fleet, or fleet owned, operated, leased, or otherwise controlled by a covered person under section 13251 of this title—
+(1) If the Secretary determines under subsection (e) that a fleet requirement program is necessary, the Secretary shall, by January 1, 2000, by rule require that, except as provided in paragraph (2), of the total number of new light duty motor vehicles acquired for a fleet, otherthan a Federal fleet, State fleet, or fleet owned, operated, leased, or otherwise controlled by a covered person under section 13251 of this title—
 
 &emsp;(A) 20 percent of the motor vehicles acquired in model year 2002;
 
@@ -134,7 +134,7 @@ Nothing in this subchapter or the amendments made by this subchapter shall requi
 
 #### (k) Inclusion of law enforcement vehicles and urban buses
 
-(1) If the Secretary determines, by rule, that the inclusion of fleets of law enforcement motor vehicles in the fleet requirement program established under subsection (g) would contribute to achieving the goal described in section13252(b)(2)(B) of this title, as modified under section 13254 of this title, and the Secretary finds that such inclusion would not hinder the use of the motor vehicles for law enforcement purposes, the Secretary may include such fleets in such program. The Secretary may only initiate one rulemaking under this paragraph.
+(1) If the Secretary determines, by rule, that the inclusion of fleets of law enforcement motor vehicles in the fleet requirement program established under subsection (g) would contribute to achieving the goal described in section 13252(b)(2)(B) of this title, as modified under section 13254 of this title, and the Secretary finds that such inclusion would not hinder the use of the motor vehicles for law enforcement purposes, the Secretary may include such fleets in such program. The Secretary may only initiate one rulemaking under this paragraph.
 
 (2) If the Secretary determines, by rule, that the inclusion of new urban buses, as defined by the Administrator under title II of the Clean Air Act \[42 U.S.C. 7521 et seq.\], in a fleet requirement program established under subsection (g) would contribute to achieving the goal described in section 13252(b)(2)(B) of this title, as modified under section 13254 of this title, the Secretary may include such urban buses in such program, if the Secretary finds that such application will be consistent with energy security goals and the needs and objectives of encouraging and facilitating the greater use of such urban buses by the public, taking into consideration the impact of such application on public transit entities. The Secretary may only initiate one rulemaking under this paragraph.
 
@@ -150,7 +150,7 @@ In carrying out this section and section 13256 of this title, the Secretary shal
 
 #### (n) Petitions
 
-As part of the rule promulgated either pursuant to subsection (b) or (g) of this section, the Secretary shall establish procedures for any fleet owner or operator or motor vehicle manufacturer to request that the Secretary modify or suspend a fleet requirement program established under either subsection nationally, by region, or in an applicable fleet area because, as demonstrated by the petitioner, the infrastructure or fuel supply or distribution system for an applicable alternative fuel is inadequate to meet the needs of a fleet. In the event that the Secretary determines that a modification or suspension of the fleet requirement program on a regional basis would detract from the nationwide character of any fleet requirement program established by rule or would sufficiently diminish the economies of scale for the production of alternative fueled vehicles or alternative fuels and thereafter the practicability and effectiveness of such program, the Secretary may only modify or suspend the program nationally. The procedures shall include provisions for notice and public hearings. The Secretary shall deny or grant the petition within 180 days after filing.
+As part of the rule promulgated either pursuant to subsection (b) or (g) of this section, theSecretary shall establish procedures for any fleet owner or operator or motor vehicle manufacturer to request that the Secretary modify or suspend a fleet requirement program established under either subsection nationally, by region, or in an applicable fleet area because, as demonstrated by the petitioner, the infrastructure or fuel supply or distribution system for an applicable alternative fuel is inadequate to meet the needs of a fleet. In the event that the Secretary determines that a modification or suspension of the fleet requirement program on a regional basis would detract from the nationwide character of any fleet requirement program established by rule or would sufficiently diminish the economies of scale for the production of alternative fueled vehicles or alternative fuels and thereafter the practicability and effectiveness of such program, the Secretary may only modify or suspend the program nationally. The procedures shall include provisions for notice and public hearings. The Secretary shall deny or grant the petition within 180 days after filing.
 
 #### (o) Mandatory State fleet programs
 

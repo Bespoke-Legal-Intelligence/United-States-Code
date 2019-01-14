@@ -244,7 +244,7 @@ Applicability.—This paragraph shall only apply to a person who is an individua
 
 #### (h) Board's appointment of conservator; consultation with State; authority
 
-(1) The Board may, <i>ex parte</i> without notice, appoint itself or another (including, in the case of a State-chartered insured credit union, the State official having jurisdiction over the credit union) as conservator and immediately take possession and control of the business and assets of any insured credit union in any case in which—
+(1) The Board may, <i>ex parte</i> without notice, appoint itself or another (including, in the case of a State-chartered insured credit union, theState official having jurisdiction over the credit union) as conservator and immediately take possession and control of the business and assets of any insured credit union in any case in which—
 
 &emsp;(A) the Board determines that such action is necessary to conserve the assets of any insured credit union or to protect the Fund or the interests of the members of such insured credit union;
 
@@ -360,7 +360,7 @@ Continuation of authority.—The Board may issue an order under this paragraph w
 
 #### (j) Jurisdiction of hearing; procedure; judicial review
 
-(1) Any hearing provided for in this section (other than the hearing provided for in subsection (i)(3) of this section) shall be held in the Federal judicial district or in the territory in which the principal office of the credit union is located, unless the party afforded the hearing consents to another place, and shall be conducted in accordance with the provisions of chapter 5 of title 5. After such hearing, and within ninety days after the Board has notified the parties that the case has been submitted to it for final decision, it shall render its decision (which shall include findings of fact upon which its decision is predicated) and shall issue and serve upon each party to the proceeding an order or orders consistent with the provisions of this section. Judicial review of any such order shall be exclusively as provided in this subsection (j). Unless a petition for review is timely filed in a court of appeals of the United States, as provided in paragraph (2) of this subsection, and thereafter until the record in the proceeding has been filed as so provided, the Board may at any time, upon such notice and in such manner as it may deem proper, modify, terminate, or set aside any such order. Upon such filing of the record, the Board may modify, terminate, or setaside any such order with permission of the court.
+(1) Any hearing provided for in this section (other than the hearing provided for in subsection (i)(3) of this section) shall be held in the Federal judicial district or in the territory in which the principal office of the credit union is located, unless the party afforded the hearing consents to another place, and shall be conducted in accordance with the provisions of chapter 5 of title 5. After such hearing, and within ninety days after the Board has notified the parties that the case has been submitted to it for final decision, it shall render its decision (which shall include findings of fact upon which its decision is predicated) and shall issue and serve upon each party to the proceeding an order or orders consistent with the provisions of this section. Judicial review of any such order shall be exclusively as provided in this subsection (j). Unless a petition for review is timely filed in a court of appeals of the United States, as provided in paragraph (2) of this subsection, and thereafter until the record in the proceeding has been filed as so provided, the Board may at any time, upon such notice and in such manner as it may deem proper, modify, terminate, or set aside any such order. Upon such filing of the record, the Board may modify, terminate, or set aside any such order with permission of the court.
 
 (2) Any party to any proceeding under paragraph (1) may obtain a review of any order served pursuant to paragraph (1) of this subsection (other than an order issued with the consent of the credit union or the institution-affiliated party concerned or an order issued under subsection (i)(1) of this section) by filing in the court of appeals of the United States for the circuit in which the principal office of the credit union is located, or in the United States Court of Appeals for the District of Columbia Circuit, within thirty days after the date of service of such order, a written petition praying that the order of the Board be modified, terminated, or set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Board, and thereupon the Board shall file in the court the record in the proceeding, as provided in section 2112 of title 28. Upon the filing of such petition, such court shall have jurisdiction, which upon the filing of the record shall, except as provided in the last sentence of said paragraph (1), be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Board. Review of such proceedings shall be had as provided in chapter 7 of title 5. The judgment and decree of the court shall be final, except that the same shall be subject to review by the Supreme Court upon certiorari, as provided in section 1254 of title 28.
 
@@ -422,7 +422,7 @@ Third tier.—Notwithstanding subparagraphs (A) and (B), any insured credit unio
 
 &emsp;&emsp;(ii) knowingly or recklessly causes a substantial loss to such credit union or a substantial pecuniary gain or other benefit to such party by reason of such violation, practice, or breach,
 
-> &emsp;shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under subparagraph (D) for each day during which such violation, practice, or breach continues.
+> &emsp;shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximumamount determined under subparagraph (D) for each day during which such violation, practice, or breach continues.
 
 &emsp;(D)
 
@@ -512,7 +512,7 @@ As used in this section (1) the terms "cease-and-desist order which has become f
 
 #### (n) Notice or order to State board supervising State-chartered credit union
 
-Any service required or authorized to be made by the Board under this section may be made by registered mail or in such other manner reasonably calculated to give actual notice as the Board may by regulation or otherwise provide. Copies of any notice or order served by the Board upon any State-chartered credit union or any director, officer, or committee member thereof or other person participating in the conduct of its affairs, pursuant to the provisions of this section, shall also be sent to the commission, board, or authority, if any, having supervision of such credit union.
+Any service required or authorized to be made by the Board under this section may be made by registered mail or in such other manner reasonably calculated to give actual notice as the Board may by regulation or otherwise provide. Copies of any notice or order served by the Board upon any State-chartered credit union or any director, officer, or committee memberthereof or other person participating in the conduct of its affairs, pursuant to the provisions of this section, shall also be sent to the commission, board, or authority, if any, having supervision of such credit union.
 
 #### (o) Notice of proceedings to State board supervising State-chartered credit union; effect of corrective action by State board; attack on validity of notice or order
 
@@ -572,7 +572,7 @@ For purposes of this chapter, the term "institution-affiliated party" means—
 
 &emsp;The Board shall publish and make available to the public on a monthly basis—
 
-&emsp;&emsp;(A) any written agreement or other written statement for which a violation may be enforced by the Board, unless the Board, in its discretion, determines that publication would be contrary to the public interest;
+&emsp;&emsp;(A) any written agreement or other written statement for which a violation may beenforced by the Board, unless the Board, in its discretion, determines that publication would be contrary to the public interest;
 
 &emsp;&emsp;(B) any final order issued with respect to any administrative enforcement proceeding initiated by the Board under this section or any other law; and
 
@@ -588,7 +588,7 @@ For purposes of this chapter, the term "institution-affiliated party" means—
 
 #### (4) Transcript of hearing
 
-&emsp;A transcript that includes all testimony and other documentary evidence shall be preparedfor all hearings commenced pursuant to subsection (k). A transcript of public hearings shall be made available to the public pursuant to section 552 of title 5.
+&emsp;A transcript that includes all testimony and other documentary evidence shall be prepared for all hearings commenced pursuant to subsection (k). A transcript of public hearings shall be made available to the public pursuant to section 552 of title 5.
 
 #### (5) Delay of publication under exceptional circumstances
 
@@ -832,7 +832,7 @@ For purposes of this chapter, the term "institution-affiliated party" means—
 
 #### (5) Successor liability
 
-&emsp;This subsection shall not apply to a successor to the interests of, or a person who acquires, an insured credit union that violated aprovision of law described in paragraph (1), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this subsection or regulations prescribed under this subsection.
+&emsp;This subsection shall not apply to a successor to the interests of, or a person who acquires, an insured credit union that violated a provision of law described in paragraph (1), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this subsection or regulations prescribed under this subsection.
 
 #### (w) One-year restrictions on Federal examiners of insured credit unions
 
@@ -886,7 +886,7 @@ For purposes of this chapter, the term "institution-affiliated party" means—
 
 &emsp;&emsp;Any person subject to an order issued under this subparagraph (A)(i) shall be subject to paragraphs (5) and (7) of subsection (g) in the same manner and to the same extent as a person subject to an order issued under subsection (g).
 
-(June 26, 1934, ch. 750, title II, §206, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1003; amended Pub. L. 93–383, title VII, §728, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–22, title III, §307, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title I, §§107(a)(4), (c)(4), (d)(4), (e)(4), 111(d), title V, §502(b), Nov. 10, 1978, 92 Stat. 3652, 3656, 3659, 3663, 3670, 3681; Pub. L. 97–320, title I, §§132, 141(a)(8), title IV, §§424(a), (d)(9), (e), 427(c), Oct. 15, 1982, 96 Stat. 1487, 1489, 1522, 1523, 1525; Pub. L. 98–369, div. B, title VIII, §2812, July 18, 1984, 98 Stat. 1206; Pub. L. 99–570, title I, §1359(d), Oct. 27, 1986, 100 Stat. 3207–29; Pub. L. 100–86, title V, §509(a), title VII, §§709–713, Aug. 10, 1987, 101 Stat. 635, 653, 654; Pub. L. 101–73, title IX, §§901(a), (b)(2), 902(b), 903(b), 904(b), 905(b), 906(b), 907(b), 908(b), 913(b), 915(b), 920(b), title XII, §1217(b), Aug. 9, 1989, 103 Stat. 446, 448, 451, 455, 458, 460, 462, 464, 477, 484, 486, 488, 546; Pub. L. 101–647, title XXV, §§2523(b), 2532(c), 2547(b), Nov. 29, 1990, 104 Stat. 4870, 4881, 4887; Pub. L. 102–233, title III, §302(a), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XV, §§1501(b), 1503(b), 1504(b), Oct. 28, 1992, 106 Stat. 4044, 4050, 4053; Pub. L. 103–325, title IV, §411(c)(2)(B), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 105–219, title III, §301(b)(1), (g)(1), (2), Aug. 7, 1998, 112 Stat. 930, 931; Pub. L. 108–458, title VI, §6303(c), Dec. 17, 2004, 118 Stat. 3753; Pub. L.109–351, title VII, §§708(b), 715(b), 716(b), 723(b), 726(14)–(19), Oct. 13, 2006, 120 Stat. 1989, 1995, 1996, 2000, 2002, 2003; Pub. L. 111–203, title III, §362(3), July 21, 2010, 124 Stat. 1549.)
+(June 26, 1934, ch. 750, title II, §206, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1003; amended Pub. L. 93–383, title VII, §728, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–22, title III, §307, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title I, §§107(a)(4), (c)(4), (d)(4), (e)(4), 111(d), title V, §502(b), Nov. 10, 1978, 92 Stat. 3652, 3656, 3659, 3663, 3670, 3681; Pub. L. 97–320, title I, §§132, 141(a)(8), title IV, §§424(a), (d)(9), (e), 427(c), Oct. 15, 1982, 96 Stat. 1487, 1489, 1522, 1523, 1525; Pub. L. 98–369, div. B, title VIII, §2812, July 18, 1984, 98 Stat. 1206; Pub. L. 99–570, title I, §1359(d), Oct. 27, 1986, 100 Stat. 3207–29; Pub. L. 100–86, title V, §509(a), title VII, §§709–713, Aug. 10, 1987, 101 Stat. 635, 653, 654; Pub. L. 101–73, title IX, §§901(a), (b)(2), 902(b), 903(b), 904(b), 905(b), 906(b), 907(b), 908(b), 913(b), 915(b), 920(b), title XII, §1217(b), Aug. 9, 1989, 103 Stat. 446, 448, 451, 455, 458, 460, 462, 464, 477, 484, 486, 488, 546; Pub. L. 101–647, title XXV, §§2523(b), 2532(c), 2547(b), Nov. 29, 1990, 104 Stat. 4870, 4881, 4887; Pub. L. 102–233, title III, §302(a), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XV, §§1501(b), 1503(b), 1504(b), Oct. 28, 1992, 106 Stat. 4044, 4050, 4053; Pub. L. 103–325, title IV, §411(c)(2)(B), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 105–219, title III, §301(b)(1), (g)(1), (2), Aug. 7, 1998, 112 Stat. 930, 931; Pub. L. 108–458, title VI, §6303(c), Dec. 17, 2004, 118 Stat. 3753; Pub. L. 109–351, title VII, §§708(b), 715(b), 716(b), 723(b), 726(14)–(19), Oct. 13, 2006, 120 Stat. 1989, 1995, 1996, 2000, 2002, 2003; Pub. L. 111–203, title III, §362(3), July 21, 2010, 124 Stat. 1549.)
 
 #### References in Text
 
@@ -982,7 +982,7 @@ In general.—The Board shall publish and make available to the public—
 
 "(2)
 
-Delay of publication under exceptional circumstances.—If the Board makes a determination in writing that the publication of any final order pursuantto paragraph (1) would seriously threaten the safety or soundness of an insured credit union or other federally regulated depository institution, the Board may delay the publication of such order for a reasonable time."
+Delay of publication under exceptional circumstances.—If the Board makes a determination in writing that the publication of any final order pursuant to paragraph (1) would seriously threaten the safety or soundness of an insured credit union or other federally regulated depository institution, the Board may delay the publication of such order for a reasonable time."
 
 Subsec. (t). Pub. L. 101–647, §2523(b), added subsec. (t).
 
@@ -1026,7 +1026,7 @@ Subsec. (i)(3). Pub. L. 101–73, §901(b)(2)(E)(i)–(iv), substituted referenc
 
 Pub. L. 101–73, §901(b)(2)(E)(v), which directed the substitution of "such party" for "said director, committee member, officer or other person" was executed by making the substitution for "said director, committee member, officer, or other person" after "whether the order removing" in third sentence to reflect the probable intent of Congress.
 
-Subsec. (j)(2). Pub. L. 101–73, §920(b), substituted "Any party to any proceeding under paragraph (1)" for "Any party to the proceeding, or any person required by an order issued under this section to cease and desist from any of the practices or violations stated therein,".
+Subsec. (j)(2). Pub. L. 101–73, §920(b), substituted "Any party to any proceeding under paragraph (1)" for"Any party to the proceeding, or any person required by an order issued under this section to cease and desist from any of the practices or violations stated therein,".
 
 Pub. L. 101–73, §901(b)(2)(F), substituted "institution-affiliated party" for "director, officer, committee member, or other person".
 
@@ -1034,7 +1034,7 @@ Subsec. (k)(2). Pub. L. 101–73, §907(b), in amending par. (2) generally, desi
 
 Subsec. (k)(3). Pub. L. 101–73, §905(b), added par. (3).
 
-Subsec. (l). Pub. L. 101–73, §908(b), amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: "Any director, officer, or committee member, or former director, officer, or committee member, of an insured credit union or of a credit union any of the member accounts of which are insured, or any other person against whom there is outstanding and effective any notice or order (which is an order which has become final) served upon such director, officer, committee member, or other person under subsections (g)(4), (g)(5), or (i) of this section and who (i) participates inany manner in the conduct of the affairs of the credit union involved, or directly or indirectly solicits or procures, or transfers or attempts to transfer, or votes or attempts to vote, any proxies, consents, or authorizations in respect of any voting rights in such credit union, or (ii) without the prior written approval of the Board votes for a director, serves or acts as a director, officer, committee member, or employee of any credit union, shall upon conviction be fined not more than $5,000 or imprisoned for not more than one year, or both."
+Subsec. (l). Pub. L. 101–73, §908(b), amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: "Any director, officer, or committee member, or former director, officer, or committee member, of an insured credit union or of a credit union any of the member accounts of which are insured, or any other person against whom there is outstanding and effective any notice or order (which is an order which has become final) served upon such director, officer, committee member, or other person under subsections (g)(4), (g)(5), or (i) of this section and who (i) participates in any manner in the conduct of the affairs of the credit union involved, or directly or indirectly solicits or procures, or transfers or attempts to transfer, or votes or attempts to vote, any proxies, consents, or authorizations in respect of any voting rights in such credit union, or (ii) without the prior written approval of the Board votes for a director, serves or acts as a director, officer, committee member, or employee of any credit union, shall upon conviction be fined not more than $5,000 or imprisoned for not more than one year, or both."
 
 Subsec. (o). Pub. L. 101–73, §901(b)(2)(G), substituted "institution-affiliated party" for "director, officer, committee member or other person participating in the conduct of its affairs".
 
@@ -1086,7 +1086,7 @@ Subsec. (k)(2)(A), (D). Pub. L. 97–320, §424(a), (d)(9), (e), which directed 
 
 Subsec. (l). Pub. L. 97–320, §132(a)(1), (e), redesignated former subsec. (k) as (l) and substituted "(i)" for "(h)" after "(g)(3), (g)(4), or". Former subsec. (l) redesignated (m).
 
-Pub. L. 97–320, §141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, §509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
+Pub. L. 97–320, §141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, §509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisionsof Pub. L. 97–320 note set out under section 1464 of this title.
 
 Pub. L. 97–320, §427(c)(2), which directed substitution of reference to subsec. (g)(5) for subsec. (g)(3) in subsec. (k), was executed to subsec. (l) to reflect the probable intent of Congress and the redesignation of subsec. (k) as (l) by section 132(a)(1) of Pub. L. 97–320.
 
@@ -1146,7 +1146,7 @@ Pub. L. 101–73, title IX, §903(e), Aug. 9, 1989, 103 Stat. 457, provided that
 
 #### Effective Date of 1978 Amendment
 
-Amendment by sections 107(a)(4), (c)(4), (d)(4), and 111(d)(1)–(3) of Pub. L. 95–630 effective upon expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
+Amendment by sections 107(a)(4), (c)(4), (d)(4), and 111(d)(1)–(3) of Pub. L. 95–630 effective upon expirationof 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
 
 Amendment by section 107(e)(4) of Pub. L. 95–630 applicable to violations occurring or continuing after Nov. 10, 1978, see section 109 of Pub. L. 95–630, set out as a note under section 93 of this title.
 
@@ -1160,7 +1160,7 @@ The regulations required to be prescribed under amendment by Pub. L. 99–570 ef
 
 No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect before Aug. 10, 1987, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had been made before such date, see section 509(c) of Pub. L. 100–86, set out as a note under section 1464 of this title.
 
-No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title,as in effect on the day before Oct. 8, 1986, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had taken effect before such date, see section 1(c) of Pub. L. 99–452, set out as a note under section 1464 of this title.
+No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the day before Oct. 8, 1986, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had taken effect before such date, see section 1(c) of Pub. L. 99–452, set out as a note under section 1464 of this title.
 
 Section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the day after Aug. 27, 1986, applicable as if included in Pub. L. 97–320 on Oct. 15, 1982, with no amendment made by such section to any other provision of law to be deemed to have taken effect before Aug. 27, 1986, and any such provision of law to be in effect as if no such amendment had taken effect before Aug. 27, 1986, see section 1(c) of Pub. L. 99–400, set out as a note under section 1464 of this title.
 

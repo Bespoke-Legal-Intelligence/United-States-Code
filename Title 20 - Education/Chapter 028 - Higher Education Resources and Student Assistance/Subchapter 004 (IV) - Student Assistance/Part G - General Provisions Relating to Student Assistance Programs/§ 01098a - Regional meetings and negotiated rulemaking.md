@@ -56,7 +56,7 @@ Subsec. (a)(2). Pub. L. 105–244, §490D(a)(2)(B)–(D), substituted "this subc
 
 Pub. L. 105–244, §490D(a)(2)(A), which directed substitution of "The" for "During such meetings the", was executed by making the substitution for "During such meetings, the" before "Secretary shall provide", to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 105–244, §490D(b), designated existing provisions as par. (1), inserted par. (1) heading, substituted "obtaining the advice and recommendations described in subsection (a)(1)" for "holding regional meetings", "this subchapter" for "parts B, G, and H of this subchapter", "1998" for "1992", "360-day" for "240-day", and "section 1232(e)" for "section 1232(g)", struck out "The Secretary shall follow the guidance provided in sections 305.82–4 and 305.85–5 ofchapter 1, Code of Federal Regulations, and any successor recommendation, regulation, or law." after "rulemaking process." and "participating in the regional meetings" after "nominated by groups", and added par. (2).
+Subsec. (b). Pub. L. 105–244, §490D(b), designated existing provisions as par. (1), inserted par. (1) heading, substituted "obtaining the advice and recommendations described in subsection (a)(1)" for "holding regional meetings", "this subchapter" for "parts B, G, and H of this subchapter", "1998" for "1992", "360-day" for "240-day", and "section 1232(e)" for "section 1232(g)", struck out "The Secretary shall follow the guidance provided in sections 305.82–4 and 305.85–5 of chapter 1, Code of Federal Regulations, and any successor recommendation, regulation, or law." after "rulemaking process." and "participating in the regional meetings" after "nominated by groups", and added par. (2).
 
 #### Effective Date of 2009 Amendment
 

@@ -16,7 +16,7 @@
 
 &emsp;Fellowships under this section shall be available only to—
 
-&emsp;&emsp;(A) science, technology, engineering, or mathematics professionals, including retiring professionals in those fields, who shall bereferred to as "National Science Foundation Teaching Fellows" and who, in the first year of the fellowship, are enrolled in a master's degree program leading to teacher certification or licensing; and
+&emsp;&emsp;(A) science, technology, engineering, or mathematics professionals, including retiring professionals in those fields, who shall be referred to as "National Science Foundation Teaching Fellows" and who, in the first year of the fellowship, are enrolled in a master's degree program leading to teacher certification or licensing; and
 
 &emsp;&emsp;(B) mathematics and science teachers, who shall be referred to as "National Science Foundation Master Teaching Fellows" and who possess a master's or bachelor's degree in their field.
 
@@ -54,9 +54,11 @@ Grants awarded under this section shall be used by the eligible entity (and part
 
 &emsp;(4) in the case of National Science Foundation Master Teaching Fellowships for teachers with bachelor's degrees in their field and working toward a master's degree—
 
-&emsp;&emsp;(A) offering academic courses leading to a master's degree and leadership training to prepare individuals to become master teachers in elementary and secondary schools; and
+&emsp;&emsp;(A) offering academic courses leading to a master's degree and leadership training to prepare individuals to become master teachers in elementary and secondary schools;
 
-&emsp;&emsp;(B) offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields.
+&emsp;&emsp;(B) offering programs both during and after matriculation in the program for which the fellowship is received to enable fellows to become highly effective mathematics and science teachers, including mentoring, training, induction, and professional development activities, to fulfill the service requirements of this section, including the requirements of subsection (e), and to exchange ideas with others in their fields; and
+
+&emsp;&emsp;(C) providing internship opportunities for fellows, including research experiences at national laboratories and NASA Centers.
 
 #### (d) Selection process
 
@@ -138,7 +140,7 @@ A National Science Foundation Teaching Fellow or a National Science Foundation M
 
 #### (A) Amount
 
-&emsp;&emsp;Salary supplements provided under paragraph (1) shall be not less than $10,000 peryear, except that, in the case of a National Science Foundation Teaching Fellow, while enrolled in the master's degree program as described in subsection (c)(2)(A), such fellow shall receive not more than the cost of attendance at such fellow's institution.
+&emsp;&emsp;Salary supplements provided under paragraph (1) shall be not less than $10,000 per year, except that, in the case of a National Science Foundation Teaching Fellow, while enrolled in the master's degree program as described in subsection (c)(2)(A), such fellow shall receive not more than the cost of attendance at such fellow's institution.
 
 #### (B) Support while enrolled in master's degree program
 
@@ -156,7 +158,7 @@ A National Science Foundation Master Teacher Fellow may receive a maximum of 1 y
 
 An individual awarded a fellowship under this section shall serve as a mathematics or science teacher in an elementary school or secondary school served by a high need local educational agency for—
 
-&emsp;(1) in the case of a National Science Foundation Teaching Fellow, 4 years, to be fulfilled within 6 years of completing the master's program described in subsection (c)(2)(A); and
+&emsp;(1) in the case of a National Science Foundation Teaching Fellow, 4 years, to be fulfilledwithin 6 years of completing the master's program described in subsection (c)(2)(A); and
 
 &emsp;(2) in the case of a National Science Foundation Master Teaching Fellow, 5 years, to be fulfilled within 7 years of the start of participation in the program under subsection (c)(3).
 
@@ -212,7 +214,7 @@ An individual awarded a fellowship under this section shall serve as a mathemati
 
 &emsp;&emsp;(E) conducting pilot programs to improve teacher service and retention.
 
-(Pub. L. 107–368, §10A, as added Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 705; amended Pub. L. 111–358, title V, §511, Jan. 4, 2011, 124 Stat. 4010; Pub. L. 114–59, §4(a), Oct. 7, 2015, 129 Stat. 540; Pub. L. 114–329, title III, §301, Jan. 6, 2017, 130 Stat. 3003.)
+(Pub. L. 107–368, §10A, as added Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 705; amended Pub. L. 111–358, title V, §511, Jan. 4, 2011, 124 Stat. 4010; Pub. L. 114–59, §4(a), Oct. 7, 2015, 129 Stat. 540; Pub. L. 114–329, title III, §301, Jan. 6, 2017, 130 Stat. 3003; Pub. L. 115–303, §2(a)(2), Dec. 11, 2018, 132 Stat. 4399.)
 
 #### Codification
 
@@ -221,6 +223,8 @@ Section 7030 of Pub. L. 110–69, which directed that "Section 10 of the Nationa
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(4)(C). Pub. L. 115–303 added subpar. (C).
 
 <b>2017</b>—Subsec. (k). Pub. L. 114–329 added subsec. (k).
 
@@ -237,4 +241,8 @@ Subsecs. (g) to (j). Pub. L. 114–59, §4(a)(4), (5), added subsec. (g) and red
 <b>2011</b>—Subsec. (a)(2)(A). Pub. L. 111–358, §511(b), inserted "including retiring professionals in those fields," after "mathematics professionals,".
 
 Subsec. (h)(1). Pub. L. 111–358, §511(a), amended par. (1) generally. Prior to amendment, text read as follows: "An eligible entity receiving a grant under this section shall provide, from non-Federal sources, an amount equal to 50 percent of the amount of the grant (which may be provided in cash or in-kind) to carry out the activities supported by the grant."
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–303 applicable with respect to grants awarded on or after Oct. 1, 2018, see section 2(b) of Pub. L. 115–303, set out as a note under section 1862n–1 of this title.
 

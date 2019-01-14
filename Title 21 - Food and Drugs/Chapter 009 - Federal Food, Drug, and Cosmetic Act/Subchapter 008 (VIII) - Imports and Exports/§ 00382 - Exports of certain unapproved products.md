@@ -84,7 +84,7 @@ A drug or device—
 
 #### (c) Investigational use exemption
 
-A drug or device intended for investigational use in any country described in clause (i) or (ii) of subsection (b)(1)(A) may be exported in accordance with the laws of that country and shall be exempt from regulation under section 355(i) or 360j(g) of this title.
+A drug or device intended for investigational use in any country described in clause (i) or (ii)of subsection (b)(1)(A) may be exported in accordance with the laws of that country and shall be exempt from regulation under section 355(i) or 360j(g) of this title.
 
 #### (d) Anticipation of market authorization
 
@@ -108,7 +108,7 @@ A drug or device intended for formulation, filling, packaging, labeling, or furt
 
 > the Secretary may, after providing the holder of the application an opportunity for an informal hearing, withdraw the approved application.
 
-(B) If the Secretary determines that the holder of an approved application under paragraph\(1) or an importer is exporting a drug or device from the United States to an importer and such importer is exporting the drug or device to a country for which the Secretary cannot make a finding under paragraph (1) and such export presents an imminent hazard, the Secretary shall immediately prohibit the export of the drug or device to such importer, provide the person exporting the drug or device from the United States prompt notice of the prohibition, and afford such person an opportunity for an expedited hearing.
+(B) If the Secretary determines that the holder of an approved application under paragraph (1) or an importer is exporting a drug or device from the United States to an importer and such importer is exporting the drug or device to a country for which the Secretary cannot make a finding under paragraph (1) and such export presents an imminent hazard, the Secretary shall immediately prohibit the export of the drug or device to such importer, provide the person exporting the drug or device from the United States prompt notice of the prohibition, and afford such person an opportunity for an expedited hearing.
 
 #### (f) Prohibition of export of drug or device
 
@@ -146,7 +146,7 @@ The exporter of a drug or device exported under subsection (b)(1) shall provide 
 
 For purposes of this section—
 
-&emsp;(1) a reference to the Secretary shall in the case of a biological product which is required to be licensed under the Act of March 4, 1913 \[21 U.S.C. 151 et seq.\] (37 Stat. 832–833) (commonly known as the Virus-Serum Toxin Act) be considered to be a reference to the Secretary of Agriculture, and
+&emsp;(1) a reference to the Secretary shall in the case of a biological product which is requiredto be licensed under the Act of March 4, 1913 \[21 U.S.C. 151 et seq.\] (37 Stat. 832–833) (commonly known as the Virus-Serum Toxin Act) be considered to be a reference to the Secretary of Agriculture, and
 
 &emsp;(2) the term "drug" includes drugs for human use as well as biologicals under section 262 of title 42 or the Act of March 4, 1913 (37 Stat. 832–833) (commonly known as the Virus-Serum Toxin Act).
 

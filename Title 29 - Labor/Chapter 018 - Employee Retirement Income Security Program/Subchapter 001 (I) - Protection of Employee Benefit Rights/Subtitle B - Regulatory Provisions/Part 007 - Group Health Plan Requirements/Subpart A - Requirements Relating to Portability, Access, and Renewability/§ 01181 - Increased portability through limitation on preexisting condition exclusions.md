@@ -76,7 +76,7 @@ For purposes of this part—
 
 #### (B) Waiting period not treated as a break in coverage
 
-&emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4), any period that an individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2)) shall not be taken into account in determining the continuous period under subparagraph (A).
+&emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4), any period that an individualis in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2)) shall not be taken into account in determining the continuous period under subparagraph (A).
 
 #### (C) TAA-eligible individuals
 
@@ -116,7 +116,7 @@ For purposes of this part—
 
 #### (1) Exclusion not applicable to certain newborns
 
-&emsp;Subject to paragraph (4), a group health plan, and a health insurance issuer offering group health insurance coverage, may not impose any preexisting condition exclusion in the case of an individual who, as of the last day of the 30-day period beginning with thedate of birth, is covered under creditable coverage.
+&emsp;Subject to paragraph (4), a group health plan, and a health insurance issuer offering group health insurance coverage, may not impose any preexisting condition exclusion in the case of an individual who, as of the last day of the 30-day period beginning with the date of birth, is covered under creditable coverage.
 
 #### (2) Exclusion not applicable to certain adopted children
 
@@ -344,7 +344,7 @@ Period of coverage.—
 
 &emsp;&emsp;"(i)
 
-In general.—Subject to clause (ii), no period before July 1, 1996, shall be taken into account under part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (as added by this section) \[this part\] in determining creditable coverage.
+In general.—Subject to clause (ii), no period before July 1, 1996, shall be taken into accountunder part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (as added by this section) \[this part\] in determining creditable coverage.
 
 &emsp;&emsp;"(ii)
 
@@ -402,7 +402,7 @@ Medicaid, chip, and employer-sponsored coverage coordination working group.—
 
 &emsp;"(I)
 
-In general.—Not later than 60 days after the date of enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services and the Secretary of Labor shall jointly establish a Medicaid, CHIP, and Employer-Sponsored Coverage Coordination Working Group (in this subparagraph referred toas the 'Working Group'). The purpose of the Working Group shall be to develop the model coverage coordination disclosure form described in subclause (II) and to identify the impediments to the effective coordination of coverage available to families that include employees of employers that maintain group health plans and members who are eligible for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or child health assistance or other health benefits coverage under title XXI of such Act \[42 U.S.C. 1397aa et seq.\].
+In general.—Not later than 60 days after the date of enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services and the Secretary of Labor shall jointly establish a Medicaid, CHIP, and Employer-Sponsored Coverage Coordination Working Group (in this subparagraph referred to as the 'Working Group'). The purpose of the Working Group shall be to develop the model coverage coordination disclosure form described in subclause (II) and to identify the impediments to the effective coordination of coverage available to families that include employees of employers that maintain group health plans and members who are eligible for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or child health assistance or other health benefits coverage under title XXI of such Act \[42 U.S.C. 1397aa et seq.\].
 
 &emsp;"(II)
 
@@ -444,7 +444,7 @@ Compensation.—The members of the Working Group shall serve without compensatio
 
 "(iv)
 
-Administrative support.—The Department of Health and Human Services and the Department of Labor shall jointly provide appropriate administrative support to the Working Group, including technical assistance. The Working Group may use the services and facilities of either such Department, with or without reimbursement, as jointly determined by such Departments.
+Administrative support.—The Department of Health and Human Services and the Department of Labor shall jointly provide appropriate administrative support to the Working Group, including technical assistance. The Working Group may use the services andfacilities of either such Department, with or without reimbursement, as jointly determined by such Departments.
 
 "(v)
 

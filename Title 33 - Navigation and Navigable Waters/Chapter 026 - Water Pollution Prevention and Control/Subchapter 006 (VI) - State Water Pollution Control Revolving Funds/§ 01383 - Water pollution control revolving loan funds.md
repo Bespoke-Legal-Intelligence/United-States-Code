@@ -30,13 +30,19 @@ The amounts of funds available to each State water pollution control revolving f
 
 &emsp;(9) for reusing or recycling wastewater, stormwater, or subsurface drainage water;
 
-&emsp;(10) for measures to increase the security of publicly owned treatment works; and
+&emsp;(10) for measures to increase the security of publicly owned treatment works;
 
 &emsp;(11) to any qualified nonprofit entity, as determined by the Administrator, to provide assistance to owners and operators of small and medium publicly owned treatment works—
 
 &emsp;&emsp;(A) to plan, develop, and obtain financing for eligible projects under this subsection, including planning, design, and associated preconstruction activities; and
 
-&emsp;&emsp;(B) to assist such treatment works in achieving compliance with this chapter.
+&emsp;&emsp;(B) to assist such treatment works in achieving compliance with this chapter; and
+
+&emsp;(12) to any qualified nonprofit entity, as determined by the Administrator, to provide assistance to an eligible individual (as defined in subsection (j))—
+
+&emsp;&emsp;(A) for the repair or replacement of existing individual household decentralized wastewater treatment systems; or
+
+&emsp;&emsp;(B) in a case in which an eligible individual resides in a household that could be cost-effectively connected to an available publicly owned treatment works, for the connection of the applicable household to such treatment works.
 
 #### (d) Types of assistance
 
@@ -60,7 +66,7 @@ Except as otherwise limited by State law, a water pollution control revolving fu
 
 &emsp;&emsp;&emsp;&emsp;(II) an evaluation of the condition and performance of inventoried assets or asset groupings;
 
-&emsp;&emsp;&emsp;&emsp;(III) a certification that the recipient has evaluated and will be implementingwater and energy conservation efforts as part of the plan; and
+&emsp;&emsp;&emsp;&emsp;(III) a certification that the recipient has evaluated and will be implementing water and energy conservation efforts as part of the plan; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) a plan for maintaining, repairing, and, as necessary, replacing the treatment works and a plan for funding such activities; or
 
@@ -170,9 +176,17 @@ A State water pollution control revolving fund may provide assistance (other tha
 
 &emsp;&emsp;If the State provides additional subsidization to a municipality or intermunicipal, interstate, or State agency under this subsection that meets the criteria under paragraph (1)(A), the State shall take the criteria set forth in section 1382(b)(5) of this title into consideration.
 
-(June 30, 1948, ch. 758, title VI, §603, as added Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101 Stat. 23; amended Pub. L. 113–121, title V, §5003, June 10, 2014, 128 Stat. 1323; Pub. L. 114–322, title IV, §5012, Dec. 16, 2016, 130 Stat. 1902.)
+#### (j) Definition of eligible individual
+
+In subsection (c)(12), the term "eligible individual" means a member of a household, the members of which have a combined income (for the most recent 12-month period for which information is available) equal to not more than 50 percent of the median nonmetropolitan household income for the State in which the household is located, according to the most recent decennial census.
+
+(June 30, 1948, ch. 758, title VI, §603, as added Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101 Stat. 23; amended Pub. L. 113–121, title V, §5003, June 10, 2014, 128 Stat. 1323; Pub. L. 114–322, title IV, §5012, Dec. 16, 2016, 130 Stat. 1902; Pub. L. 115–270, title IV, §4107(a), Oct. 23, 2018, 132 Stat. 3876.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(12). Pub. L. 115–270, §4107(a)(1), added par. (12).
+
+Subsec. (j). Pub. L. 115–270, §4107(a)(2), added subsec. (j).
 
 <b>2016</b>—Subsec. (i)(1). Pub. L. 114–322, §5012(1), substituted "to an eligible recipient" for "to a municipality or intermunicipal, interstate, or State agency" in introductory provisions.
 

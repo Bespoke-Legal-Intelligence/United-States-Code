@@ -1,6 +1,6 @@
 ### §8423. Government contributions
 
-(a)(1) Each employing agency having any employees or Members subject to section 8422(a)shall contribute to the Fund an amount equal to the sum of—
+(a)(1) Each employing agency having any employees or Members subject to section 8422(a) shall contribute to the Fund an amount equal to the sum of—
 
 &emsp;(A) the product of—
 
@@ -62,7 +62,7 @@
 
 (c) Under regulations prescribed by the Office, the head of an agency may request reconsideration of any amount determined to be payable with respect to such agency under subsection (a) or (b). Any such request shall be referred to the Board of Actuaries of the Civil Service Retirement System. The Board of Actuaries shall review the computations of the Office and may make any adjustment with respect to any such amount which the Board determines appropriate. A determination by the Board of Actuaries under this subsection shall be final.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 537; amended Pub. L. 102–378,§2(66), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 104–186, title II, §215(15), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–261, div. C, title XXXI, §3154(j), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(4)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–161, div. E, title V, §535(b)(5), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 113–67, div. A, title IV, §401(c), Dec. 26, 2013, 127 Stat. 1184.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 537; amended Pub. L. 102–378, §2(66), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 104–186, title II, §215(15), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–261, div. C, title XXXI, §3154(j), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(4)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–161, div. E, title V, §535(b)(5), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 113–67, div. A, title IV, §401(c), Dec. 26, 2013, 127 Stat. 1184.)
 
 #### References in Text
 
@@ -90,7 +90,7 @@ Pub. L. 102–378 substituted "multiplied" for "multipled".
 
 #### Effective Date of 2007 Amendment; Transition Rules
 
-Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
+Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay periodbeginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
 
 #### Effective Date of 2000 Amendment
 

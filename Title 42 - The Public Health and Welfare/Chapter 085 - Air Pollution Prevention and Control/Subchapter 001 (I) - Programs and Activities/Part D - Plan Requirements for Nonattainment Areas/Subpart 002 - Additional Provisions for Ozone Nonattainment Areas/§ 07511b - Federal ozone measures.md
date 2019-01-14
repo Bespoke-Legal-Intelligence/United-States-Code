@@ -118,7 +118,7 @@ Within 1 year after November 15, 1990, the Administrator shall provide guidance 
 
 #### (2) Regulations on equipment safety
 
-&emsp;Within 6 months after November 15, 1990, the Secretary of the Department in which the Coast Guard is operating shall issue regulations to ensure the safety of the equipment and operations which are to control emissions from the loading and unloading of tank vessels, under section 3703 of title 46 and section 1225 of title 33. The standards promulgated by the Administrator under paragraph (1) and theregulations issued by a State or political subdivision regarding emissions from the loading and unloading of tank vessels shall be consistent with the regulations regarding safety of the Department in which the Coast Guard is operating.
+&emsp;Within 6 months after November 15, 1990, the Secretary of the Department in which the Coast Guard is operating shall issue regulations to ensure the safety of the equipment and operations which are to control emissions from the loading and unloading of tank vessels, under section 3703 of title 46 and section 1225 <sup>2</sup> of title 33. The standards promulgated bythe Administrator under paragraph (1) and the regulations issued by a State or political subdivision regarding emissions from the loading and unloading of tank vessels shall be consistent with the regulations regarding safety of the Department in which the Coast Guard is operating.
 
 #### (3) Agency authority
 
@@ -182,6 +182,8 @@ The Administrator shall conduct a study of whether the methodology in use by the
 
 The Solid Waste Disposal Act, referred to in subsec. (b)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
+Section 1225 of title 33, referred to in subsec. (f)(2), was repealed by Pub. L. 115–282, title IV, §402(e), Dec. 4,2018, 132 Stat. 4264. See Transitional and Savings Provisions note preceding section 101 of Title 46, Shipping, and section 70011 of Title 46.
+
 #### Amendments
 
 <b>1998</b>—Subsec. (h). Pub. L. 105–286 added subsec. (h).
@@ -203,4 +205,6 @@ Information.—As soon as practicable after the date of the enactment of this Ac
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

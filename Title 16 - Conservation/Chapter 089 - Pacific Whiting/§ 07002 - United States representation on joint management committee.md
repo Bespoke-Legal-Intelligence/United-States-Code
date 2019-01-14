@@ -20,7 +20,7 @@
 
 #### (3) Chair
 
-&emsp;Unless otherwise agreed by all of the 4 representatives, the chair shall rotate annuallyamong the 4 members, with the order of rotation determined by lot at the first meeting.
+&emsp;Unless otherwise agreed by all of the 4 representatives, the chair shall rotate annually among the 4 members, with the order of rotation determined by lot at the first meeting.
 
 #### (b) Alternate representatives
 

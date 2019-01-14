@@ -32,7 +32,7 @@ The Secretary shall establish a program meeting the requirements of this section
 
 &emsp;&emsp;(A) In the case of an enrollee whose eligibility is based on an attestation of citizenship of the enrollee, the enrollee's social security number.
 
-&emsp;&emsp;(B) In the case of an individual whose eligibility is based on an attestation of the enrollee's immigration status, the enrollee's social security number (if applicable) and such identifying information with respect tothe enrollee's immigration status as the Secretary, after consultation with the Secretary of Homeland Security, determines appropriate.
+&emsp;&emsp;(B) In the case of an individual whose eligibility is based on an attestation of the enrollee's immigration status, the enrollee's social security number (if applicable) and such identifying information with respect to the enrollee's immigration status as the Secretary, after consultation with the Secretary of Homeland Security, determines appropriate.
 
 #### (3) Eligibility and amount of tax credit or reduced cost-sharing
 
@@ -52,7 +52,7 @@ The Secretary shall establish a program meeting the requirements of this section
 
 #### (4) Employer-sponsored coverage
 
-&emsp;In the case of an enrollee with respect to whom eligibility for a premium tax credit under section 36B of title 26 or cost-sharing reduction under section 18071 of this title is being established on the basis that the enrollee's (or related individual's) employer is not treated under section 36B(c)(2)(C) of title 26 as providing minimum essential coverage or affordable minimum essential coverage, the following information:
+&emsp;In the case of an enrollee with respect to whom eligibility for a premium tax creditunder section 36B of title 26 or cost-sharing reduction under section 18071 of this title is being established on the basis that the enrollee's (or related individual's) employer is not treated under section 36B(c)(2)(C) of title 26 as providing minimum essential coverage or affordable minimum essential coverage, the following information:
 
 &emsp;&emsp;(A) The name, address, and employer identification number (if available) of the employer.
 
@@ -120,7 +120,7 @@ The Secretary shall establish a program meeting the requirements of this section
 
 &emsp;&emsp;&emsp;(i) through use of an on-line system or otherwise for the electronic submission of, and response to, the information submitted under this subsection with respect to an applicant; or
 
-&emsp;&emsp;&emsp;(ii) by determining the consistency of the information submitted with the information maintained in the records of the Secretary of the Treasury, the Secretary of Homeland Security, or the Commissioner of Social Security through such other method as is approved by the Secretary.
+&emsp;&emsp;&emsp;(ii) by determining the consistency of the information submitted with the information maintained in the records of the Secretary of the Treasury, the Secretary of Homeland Security, or the Commissioner of Social Security through suchother method as is approved by the Secretary.
 
 #### (B) Flexibility
 
@@ -254,7 +254,7 @@ In the case of information provided under subsection (b) that is not required un
 
 &emsp;&emsp;&emsp;&emsp;(II) such failure is attributable to negligence or disregard of any rules or regulations of the Secretary,
 
-&emsp;&emsp;&nbsp;such person shall be subject, in addition to any other penalties that may be prescribed by law, to a civil penalty of not more than $25,000 with respect to any failures involving an application for a plan year. For purposes of this subparagraph, the terms "negligence" and "disregard" shall have the same meanings as when used in section 6662 of title 26.
+&emsp;&emsp;&nbsp;such person shall be subject, in addition to any other penalties that may be prescribed by law, to a civil penalty of not more than$25,000 with respect to any failures involving an application for a plan year. For purposes of this subparagraph, the terms "negligence" and "disregard" shall have the same meanings as when used in section 6662 of title 26.
 
 #### (ii) Reasonable cause exception
 

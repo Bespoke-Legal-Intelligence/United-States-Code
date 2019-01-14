@@ -1,6 +1,6 @@
 ### §743. Lighthouse districts
 
-The ocean, gulf, and lake coasts and the rivers of the United States, Puerto Rico, and the naval station in Cuba shall be arranged into not exceeding nineteen lighthouse districts.
+The ocean, gulf, and lake coasts and the rivers of the United States, Puerto Rico, and the navalstation in Cuba shall be arranged into not exceeding nineteen lighthouse districts.
 
 (June 17, 1910, ch. 301, §11, 36 Stat. 538; May 17, 1932, ch. 190, 47 Stat. 158.)
 

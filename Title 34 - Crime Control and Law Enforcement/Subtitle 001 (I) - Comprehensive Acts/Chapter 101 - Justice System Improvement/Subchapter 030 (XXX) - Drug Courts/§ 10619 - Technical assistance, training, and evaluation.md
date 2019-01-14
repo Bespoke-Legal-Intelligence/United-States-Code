@@ -10,7 +10,7 @@ In addition to any evaluation requirements that may be prescribed for grantees (
 
 #### (c) Administration
 
-The technical assistance, training, and evaluations authorized by this section may be carriedout directly by the Attorney General, in collaboration with the Secretary of Health and Human Services, or through grants, contracts, or other cooperative arrangements with other entities.
+The technical assistance, training, and evaluations authorized by this section may be carried out directly by the Attorney General, in collaboration with the Secretary of Health and Human Services, or through grants, contracts, or other cooperative arrangements with other entities.
 
 (Pub. L. 90–351, title I, §2959, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116 Stat. 1797; amended Pub. L. 114–255, div. B, title XIV, §14007(2), Dec. 13, 2016, 130 Stat. 1296.)
 

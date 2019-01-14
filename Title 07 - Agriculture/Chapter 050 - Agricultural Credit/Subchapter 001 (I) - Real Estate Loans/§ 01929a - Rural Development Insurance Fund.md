@@ -2,7 +2,7 @@
 
 #### (a) Creation; revolving fund; rural development loans
 
-There is hereby created the Rural Development Insurance Fund (hereinafter in this section referred to as the "Insurance Fund") which shall be used by the Secretary as a revolving fund for the discharge of the obligations of the Secretary under contracts guaranteeing or insuring rural development loans. For the purpose of this section "rural development loans" shall be those provided for by sections 1926(a)(1) and1932 of this title, except loans (other than for water systems and waste disposal facilities) of a type authorized by section 1926(a)(1) of this title prior to its amendment by the Rural Development Act of 1972.
+There is hereby created the Rural Development Insurance Fund (hereinafter in this section referred to as the "Insurance Fund") which shall be used by the Secretary as a revolving fund for the discharge of the obligations of the Secretary under contracts guaranteeing or insuring rural development loans. For the purpose of this section "rural development loans" shall be those provided for by sections 1926(a)(1) and 1932 of this title, except loans (other than for water systems and waste disposal facilities) of a type authorized by section 1926(a)(1) of this title prior to its amendment by the Rural Development Act of 1972.
 
 #### (b) Transfer of assets and liabilities
 
@@ -36,7 +36,7 @@ The Secretary may utilize the Insurance Fund—
 
 &emsp;(4) to make payments in compliance with the Secretary's obligations under contracts of guarantee entered into by him;
 
-&emsp;(5) to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections or necessary to obtain credit reports on applicants or borrowers, expenses for necessary services, including construction inspections, commercial appraisals, loan servicing, consulting business advisory or other commercial and technical services, and other program services, and other expenses and advances authorized in section 1985(a) of this title in connection with insured loans.Such items may be paid in connection with guaranteed loans after or in connection with acquisition by the Secretary of such loans or security therefor after default, to an extent determined by the Secretary to be necessary to protect the interest of the Government, or in connection with grants and any other activity authorized in this chapter;
+&emsp;(5) to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections or necessary to obtain credit reports on applicants or borrowers, expenses for necessary services, including construction inspections, commercial appraisals, loan servicing, consulting business advisory or other commercial and technical services, and other program services, and other expenses and advances authorized in section 1985(a) of this title in connection with insured loans. Such items may be paid in connection with guaranteed loans after or in connection with acquisition by the Secretary of such loans or security therefor after default, to an extent determined by the Secretary to be necessary to protect the interest of the Government, or in connection with grants and any other activity authorized in this chapter;
 
 &emsp;(6) to pay the difference between interest payments by borrowers and interest to which holders of insured notes are entitled under contracts of insurance heretofore or hereafter entered into by the Secretary; and
 
@@ -46,13 +46,13 @@ The Secretary may utilize the Insurance Fund—
 
 When any loan is sold out of the Insurance Fund as an insured loan, the interest or other income thereon paid to an insured holder shall be included in gross income for purposes of chapter 1 of title 26.
 
-(Pub. L. 87–128, title III, §309A, as added Pub. L. 92–419, title I, §116, Aug. 30, 1972, 86 Stat. 661; amended Pub. L. 95–113, title XV, §1510(b), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §§107(b), 110, Aug. 4, 1978, 92 Stat. 422, 424; Pub. L. 99–500, title III, §381(b), Oct. 18, 1986, 100 Stat. 1783–369, and Pub. L. 99–591, title III, §381(b), Oct. 30, 1986, 100 Stat. 3341–372; Pub. L. 99–509, title I, §1001(b), Oct. 21, 1986, 100 Stat. 1874; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–127, title VI, §661(c), title VII, §§741(b), 745, Apr. 4, 1996, 110 Stat. 1106, 1124, 1125.)
+(Pub. L. 87–128, title III, §309A, as added Pub. L. 92–419, title I, §116, Aug. 30, 1972, 86 Stat. 661; amended Pub. L. 95–113, title XV, §1510(b), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §§107(b), 110, Aug. 4, 1978, 92 Stat. 422, 424; Pub. L. 99–500, title III, §381(b), Oct. 18, 1986, 100 Stat. 1783–369, and Pub. L. 99–591, title III, §381(b), Oct. 30, 1986, 100 Stat. 3341–372; Pub. L. 99–509, title I, §1001(b), Oct. 21, 1986, 100 Stat. 1874; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–127, title VI, §661(c), title VII, §§741(b), 745, Apr. 4, 1996, 110 Stat. 1106, 1124, 1125; Pub. L. 115–334, title VI, §6701(b)(1), Dec. 20, 2018, 132 Stat. 4778.)
 
 #### References in Text
 
 For statutory changes to section 1926(a)(1) of this title by the Rural Development Act of 1972, referred to in subsec. (a), see 1972 Amendment note for section 104 of Pub. L. 92–419, set out under section 1926 of this title. For complete classification of the Rural Development Act of 1972 to the Code, see Short Title of 1972 Amendment note set out under section 1921 of this title and Tables.
 
-For definition of "this chapter", referred to in subsecs. (b), (d), (e), (f), and (g)(5), (7), see note set out under section 1921 of this title.
+This chapter, referred to in subsecs. (b), (d), (e), (f), and (g)(5), (7), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Codification
 
@@ -62,11 +62,13 @@ In subsec. (d), "chapter 31 of title 31" and "such chapter" substituted for "the
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b). Pub. L. 115–334 struck out "and section 1928 of this title" after "provisions of this section".
+
 <b>1996</b>—Subsec. (a). Pub. L. 104–127, §741(b), struck out ", 1926(a)(14)," after "1926(a)(1)".
 
 Pub. L. 104–127, §661(c)(1), substituted "1926(a)(1), 1926(a)(14), and 1932 of this title" for "1924(b), 1926(a)(1), 1926(a)(14), 1932, and 1942(b) of this title".
 
-Subsec. (b). Pub. L. 104–127, §661(c)(2), which directed amendment of first sentence of subsec. (b) by striking "and section 1928 of this title", was executed by striking that language in second sentence after "provisions of this section" to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 104–127, §661(c)(2), which directed amendment of the first sentence of subsection (b) by striking "and section 1928 of this title", could not be executed because "and section 1928 of this title" did not appear in such sentence. Corrected amendment was made by Pub. L. 115–334, effective as if included in Pub. L. 104–127. See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
 
 Subsec. (g). Pub. L. 104–127, §745, redesignated pars. (2) to (8) as (1) to (7), respectively, and struck out former par. (1) which read as follows: "to make rural development loans which could be insured under this chapter whenever he has a reasonable assurance that they can be sold without undue delay, and he may sell and insure such loans;".
 
@@ -79,6 +81,10 @@ Subsec. (h). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "I
 Subsec. (g)(8). Pub. L. 95–334, §110, substituted provisions relating to payment of costs of administration necessary to insure loans under subsec. (a) of this section, make grants under sections 1926(a) and 1932 of this title, and otherwise carry out such programs for provisions relating to payment of costs of administration of the rural loan development program.
 
 <b>1977</b>—Subsec. (g)(3). Pub. L. 95–113 substituted "any deferred or defaulted installment" for "any defaulted installment".
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–334, title VI, §6701(b)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: "The amendment made by this subsection \[amending this section\] shall take effect as if included in the enactment of section 661(c)(2) of the Federal Agricultural Improvement and Reform Act of 1996 (Public Law 104–127)."
 
 #### Effective Date of 1977 Amendment
 
@@ -194,7 +200,7 @@ Purchase of obligation not tied to purchase of other obligations.—The Secretar
 
 &emsp;&emsp;"(B)
 
-Offer to be made without regard to financing.—The Secretary shall offer notes or other obligations for sale to the issuers thereof under this subsection without regard to the manner in which such issuers intend to finance the purchase of such notes or other obligations. However, the price of sale to any issuer using tax exempt financing shall be determined using a yield reflective of the Schedule of Certified Interest Rates as published monthly by the Secretary of the Treasury.
+Offer to be made without regard to financing.—The Secretary shall offer notes or otherobligations for sale to the issuers thereof under this subsection without regard to the manner in which such issuers intend to finance the purchase of such notes or other obligations. However, the price of sale to any issuer using tax exempt financing shall be determined using a yield reflective of the Schedule of Certified Interest Rates as published monthly by the Secretary of the Treasury.
 
 "(g)
 

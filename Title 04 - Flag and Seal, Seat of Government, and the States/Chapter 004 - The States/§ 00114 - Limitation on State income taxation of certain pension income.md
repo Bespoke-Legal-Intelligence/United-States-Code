@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(ii) is a payment received after termination of employment and under a plan, program, or arrangement (to which such employment relates) maintained solely for the purpose of providing retirement benefits for employees in excess of the limitations imposed by 1 or more of sections 401(a)(17), 401(k), 401(m), 402(g), 403(b), 408(k), or 415 of such Code or any other limitation on contributions or benefits in such Code on plans to which any of such sections apply.
 
-> &emsp;&emsp;The fact that payments may be adjusted from time to time pursuant to such plan, program, or arrangement to limit total disbursements under a predetermined formula, or to provide cost of living or similar adjustments, will not cause the periodic payments provided under such plan, program, or arrangement to fail the "substantially equal periodic payments" test.
+> &emsp;&emsp;The fact that payments may be adjusted from time to time pursuant to such plan,program, or arrangement to limit total disbursements under a predetermined formula, or to provide cost of living or similar adjustments, will not cause the periodic payments provided under such plan, program, or arrangement to fail the "substantially equal periodic payments" test.
 
 > &emsp;Such term includes any retired or retainer pay of a member or former member of a uniform service computed under chapter 71 of title 10, United States Code.
 

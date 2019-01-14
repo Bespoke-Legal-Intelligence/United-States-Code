@@ -18,7 +18,7 @@ It shall be unlawful for any person knowingly or intentionally—
 
 &emsp;(7) to manufacture, distribute, export, or import any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II or, in the case of an exportation, in violation of this subchapter or subchapter II or of the laws of the country to which it is exported;
 
-&emsp;(8) to create a chemical mixture for the purpose of evading a requirement of section 830 ofthis title or to receive a chemical mixture created for that purpose; or
+&emsp;(8) to create a chemical mixture for the purpose of evading a requirement of section 830 of this title or to receive a chemical mixture created for that purpose; or
 
 &emsp;(9) to distribute, import, or export a list I chemical without the registration required by this subchapter or subchapter II.
 
@@ -42,7 +42,7 @@ It shall be unlawful for any person knowingly or intentionally to use any commun
 
 #### (d) Penalties
 
-(1) Except as provided in paragraph (2), any person who violates this section shall be sentenced to a term of imprisonment of not more than 4 years, a fine under title 18, or both; except that if any person commits such a violation after one or more prior convictions of him for violation of this section, or for a felony under any other provision of this subchapter or subchapter II or other law of the United States relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 8 years, a fine under title 18, or both.
+(1) Except as provided in paragraph (2), any person who violates this section shall be sentenced to a term of imprisonment of not more than 4 years, a fine under title 18, or both; except that if any person commits such a violationafter one or more prior convictions of him for violation of this section, or for a felony under any other provision of this subchapter or subchapter II or other law of the United States relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 8 years, a fine under title 18, or both.
 
 (2) Any person who, with the intent to manufacture or to facilitate the manufacture of methamphetamine, violates paragraph (6) or (7) of subsection (a), shall be sentenced to a term of imprisonment of not more than 10 years, a fine under title 18, or both; except that if any person commits such a violation after one or more prior convictions of that person—
 
@@ -68,7 +68,7 @@ In addition to any other applicable penalty, any person convicted of a felony vi
 
 (4) The court shall proceed as soon as practicable to the hearing and determination of such an action. An action under this subsection is governed by the Federal Rules of Civil Procedure except that, if an indictment has been returned against the respondent, discovery is governed by the Federal Rules of Criminal Procedure.
 
-(Pub. L. 91–513, title II, §403, Oct. 27, 1970, 84 Stat. 1263; Pub. L. 95–633, title II, §202(b)(3), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 98–473, title II, §516, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I,§1866(a), Oct. 27, 1986, 100 Stat. 3207–54; Pub. L. 100–690, title VI, §6057, Nov. 18, 1988, 102 Stat. 4319; Pub. L. 103–200, §3(g), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title IX, §90106, Sept. 13, 1994, 108 Stat. 1988; Pub. L. 104–237, title II, §§203(a), 206(b), Oct. 3, 1996, 110 Stat. 3102, 3103; Pub. L. 107–273, div. B, title IV, §4002(d)(2)(C), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 108–21, title VI, §608(d), Apr. 30, 2003, 117 Stat. 691; Pub. L. 110–425, §3(g), Oct. 15, 2008, 122 Stat. 4830.)
+(Pub. L. 91–513, title II, §403, Oct. 27, 1970, 84 Stat. 1263; Pub. L. 95–633, title II, §202(b)(3), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 98–473, title II, §516, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, §1866(a), Oct. 27, 1986, 100 Stat. 3207–54; Pub. L. 100–690, title VI, §6057, Nov. 18, 1988, 102 Stat. 4319; Pub. L. 103–200, §3(g), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title IX, §90106, Sept. 13, 1994, 108 Stat. 1988; Pub. L. 104–237, title II, §§203(a), 206(b), Oct. 3, 1996, 110 Stat. 3102, 3103; Pub. L. 107–273, div. B, title IV, §4002(d)(2)(C), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 108–21, title VI, §608(d), Apr. 30, 2003, 117 Stat. 691; Pub. L. 110–425, §3(g), Oct. 15, 2008, 122 Stat. 4830.)
 
 #### References in Text
 

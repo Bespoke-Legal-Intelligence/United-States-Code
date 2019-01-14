@@ -2,7 +2,7 @@
 
 (a)
 
-General.—When the National Transportation Safety Board submits a recommendation about transportation safety to the Secretary ofTransportation, the Secretary shall give to the Board a formal written response to each recommendation not later than 90 days after receiving the recommendation. The response shall indicate whether the Secretary intends—
+General.—When the National Transportation Safety Board submits a recommendation about transportation safety to the Secretary of Transportation, the Secretary shall give to the Board a formal written response to each recommendation not later than 90 days after receiving the recommendation. The response shall indicate whether the Secretary intends—
 
 &emsp;(1) to carry out procedures to adopt the complete recommendation;
 
@@ -112,7 +112,7 @@ In subsection (a)(1), the word "complete" is substituted for "in full" for consi
 
 Subsecs. (d), (e). Pub. L. 111–216, §202(b), as amended by Pub. L. 111–249, §6(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>2006</b>—Subsec. (d)(3). Pub. L. 109–443 amended heading and text of par. (3) generally. Prior to amendment, textread as follows: "This subsection shall cease to be in effect after the report required to be filed on February 1, 2008, is filed."
+<b>2006</b>—Subsec. (d)(3). Pub. L. 109–443 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "This subsection shall cease to be in effect after the report required to be filed on February 1, 2008, is filed."
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–168 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "The Secretary shall submit to Congress on January 1 of each year a report containing each recommendation on transportation safety made by the Board to the Secretary during the prior year and a copy of the Secretary's response to each recommendation."
 

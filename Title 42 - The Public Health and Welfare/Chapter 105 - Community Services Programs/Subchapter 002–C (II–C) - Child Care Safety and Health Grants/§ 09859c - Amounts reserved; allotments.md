@@ -2,7 +2,7 @@
 
 #### (a) Amounts reserved
 
-The Secretary shall reserve not more than one-half of 1 percent of the amount appropriated under section 9859a of this title for each fiscal year to make allotments to Guam, American Samoa, the United States Virgin Islands, andthe Commonwealth of the Northern Mariana Islands to be allotted in accordance with their respective needs.
+The Secretary shall reserve not more than one-half of 1 percent of the amount appropriated under section 9859a of this title for each fiscal year to make allotments to Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands to be allotted in accordance with their respective needs.
 
 #### (b) State allotments
 
@@ -16,7 +16,7 @@ The Secretary shall reserve not more than one-half of 1 percent of the amount ap
 
 #### (2) Young child factor
 
-&emsp;In this subsection, the term "young child factor" means the ratio of the number of children under 5 years of age in a State to the number of such children in all States, as provided by the most recent annual estimates of population in the States by the Census Bureau of the Department of Commerce.
+&emsp;In this subsection, the term "young child factor" means the ratio of the number of children under 5 years of age in a State to the number of such children in all States, as provided by the most recent annual estimates ofpopulation in the States by the Census Bureau of the Department of Commerce.
 
 #### (3) School lunch factor
 

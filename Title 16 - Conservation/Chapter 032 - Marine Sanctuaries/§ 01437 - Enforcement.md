@@ -58,7 +58,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (6) Compromise or other action by Secretary
 
-&emsp;The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which is or may be imposed under this section.
+&emsp;The Secretary may compromise, modify, or remit, with or without conditions, any civilpenalty which is or may be imposed under this section.
 
 #### (e) Forfeiture
 
@@ -108,7 +108,7 @@ The Secretary shall, whenever appropriate, use by agreement the personnel, servi
 
 #### (i) Coast Guard authority not limited
 
-Nothing in this section shall be considered to limit the authority of the Coast Guard to enforce this or any other Federal law under section 89 of title 14.
+Nothing in this section shall be considered to limit the authority of the Coast Guard to enforce this or any other Federal law under section 89 <sup>1</sup> of title 14.
 
 #### (j) Injunctive relief
 
@@ -125,6 +125,8 @@ In any action by the United States under this chapter, process may be served in 
 (Pub. L. 92–532, title III, §307, as added Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 100–627, title II, §207, Nov. 7, 1988, 102 Stat. 3219; Pub. L. 102–587, title II, §2107(a)–(c), (e), Nov. 4, 1992, 106 Stat. 5043, 5044; Pub. L. 104–283, §9(c), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §8, Nov. 13, 2000, 114 Stat. 2387.)
 
 #### References in Text
+
+Section 89 of title 14, referred to in subsec. (i), was redesignated section 522 of title 14 by Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 89 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 Presidential Proclamation 5928 of December 27, 1988, referred to in subsec. (k), is set out as a note under section 1331 of Title 43, Public Lands.
 
@@ -167,4 +169,6 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### Study of Joint Enforcement of Marine Sanctuary Regulations
 
 Pub. L. 102–241, §51, Dec. 19, 1991, 105 Stat. 2227, directed Secretary of Transportation and Secretary of Commerce, not later than one year after Dec. 19, 1991, to submit to Congress a joint report describing methods by which Coast Guard enforcement efforts under the Marine Protection, Research, and Sanctuaries Act of 1972 (16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.) could be enhanced and coordinated with those of the National Oceanic and Atmospheric Administration.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

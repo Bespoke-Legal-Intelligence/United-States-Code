@@ -48,7 +48,7 @@ There shall be transferred periodically (but not less often than once each fisca
 
 #### (h) Payments from Trust Fund amounts certified by Secretary
 
-The Managing Trustee shall also pay from time to time from the Trust Fund such amounts as the Secretary of Health and Human Services certifies are necessary to make the payments provided for by this part, and the payments with respect to administrative expenses in accordance with section 401(g)(1) of this title.
+The Managing Trustee shall also pay from time to time from the Trust Fund such amounts as the Secretary of Health and Human Services certifies are necessary to make the paymentsprovided for by this part, and the payments with respect to administrative expenses in accordance with section 401(g)(1) of this title.
 
 #### (i) Payment of travel expenses for travel within United States; reconsideration interviews and proceedings before administrative law judges
 
@@ -134,7 +134,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;There are hereby appropriated to the Account from the Trust Fund such sums as the Secretary and the Attorney General certify are necessary to carry out the purposes described in subparagraph (C), to beavailable without further appropriation until expended, in an amount not to exceed—
+&emsp;&emsp;&emsp;There are hereby appropriated to the Account from the Trust Fund such sums as the Secretary and the Attorney General certify are necessary to carry out the purposes described in subparagraph (C), to be available without further appropriation until expended, in an amount not to exceed—
 
 &emsp;&emsp;&emsp;&emsp;(I) for fiscal year 1997, $104,000,000;
 
@@ -316,7 +316,7 @@ Subsec. (k)(3)(A)(ii)(VIII). Pub. L. 111–148, §6402(i)(2)(B)(i), inserted "an
 
 Subsec. (k)(3)(A)(ii)(IX). Pub. L. 111–148, §6402(i)(2)(B)(ii), substituted "for each fiscal year after fiscal year 2007" for "for each of fiscal years 2008, 2009, and 2010" and a period for "; and".
 
-Subsec. (k)(3)(A)(ii)(X). Pub. L. 111–148, §6402(i)(2)(B)(iii), struck out subcl. (X) which read as follows: "for each fiscal year after fiscal year 2010, not less than the amount required under this clause for fiscal year 2010."
+Subsec. (k)(3)(A)(ii)(X). Pub. L. 111–148, §6402(i)(2)(B)(iii), struck out subcl. (X) which read asfollows: "for each fiscal year after fiscal year 2010, not less than the amount required under this clause for fiscal year 2010."
 
 Subsec. (k)(3)(B)(vii). Pub. L. 111–148, §6402(i)(2)(C)(i), inserted "and" at the end.
 
@@ -376,7 +376,7 @@ Subsec. (f)(1). Pub. L. 103–296, §108(c)(1)(C), substituted "Commissioner of 
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–647 inserted after first sentence "A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term."
 
-Pub. L. 100–360 inserted after sixth sentence "Such report shall also identify (and treat separately) those outlays from the Trust Fund which are also outlays from the Medicare Catastrophic Coverage Account created under section 1395t–2 of this title and those outlays for which there are amounts transferred into theFederal Hospital Insurance Catastrophic Coverage Reserve Fund."
+Pub. L. 100–360 inserted after sixth sentence "Such report shall also identify (and treat separately) those outlays from the Trust Fund which are also outlays from the Medicare Catastrophic Coverage Account created under section 1395t–2 of this title and those outlays for which there are amounts transferred into the Federal Hospital Insurance Catastrophic Coverage Reserve Fund."
 
 <b>1986</b>—Subsec. (a)(1), (2). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
@@ -604,7 +604,7 @@ Hospital insurance tax.—Amounts appropriated to the Hospital Insurance Trust F
 
 &emsp;&emsp;"(B)
 
-Taxation of certain oasdi benefits.—Amounts appropriated to the Hospital Insurance Trust Fund under section 121(e)(1)(B) of the Social Security Amendments of 1983 (Public Law 98–21) \[set out as a note under section 401 of this title\], as inserted by section 13215(c) of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66).
+Taxation of certain oasdi benefits.—Amounts appropriated to the Hospital InsuranceTrust Fund under section 121(e)(1)(B) of the Social Security Amendments of 1983 (Public Law 98–21) \[set out as a note under section 401 of this title\], as inserted by section 13215(c) of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66).
 
 &emsp;&emsp;"(C)
 
@@ -690,7 +690,7 @@ Costs of asset forfeiture.—For purposes of paragraph (1), the term 'payment of
 
 &emsp;&emsp;"(iii) reimbursement of any Federal, State, or local agency for any expenditures made to perform the functions described in this subparagraph;
 
-&emsp;"(B) at the discretion of the Attorney General, the payment of awards for information or assistanceleading to a civil or criminal forfeiture involving any Federal agency participating in the Health Care Fraud and Abuse Control Account;
+&emsp;"(B) at the discretion of the Attorney General, the payment of awards for information or assistance leading to a civil or criminal forfeiture involving any Federal agency participating in the Health Care Fraud and Abuse Control Account;
 
 &emsp;"(C) the compromise and payment of valid liens and mortgages against property that has been forfeited, subject to the discretion of the Attorney General to determine the validity of any such lien or mortgage and the amount of payment to be made, and the employment of attorneys and other personnel skilled in State real estate law as necessary;
 

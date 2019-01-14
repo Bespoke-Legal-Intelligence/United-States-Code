@@ -30,7 +30,7 @@
 
 &emsp;(2) Notwithstanding any other provision of law, such a retired member is not, while so employed, considered to be on active duty or inactive duty training for any purpose.
 
-(e) Instead of, or in addition to, detailing officers and noncommissioned officers on active duty under subsection (c)(1) and authorizing the employment of retired officers and noncommissioned officers who are in receipt of retired pay and members of the Fleet Reserve and Fleet Marine Corps Reserve under subsection (d), the Secretary of the military department concerned may authorize qualified institutions to employ as administrators and instructors in the program officers and noncommissioned officers who are under 60 years of age and who, but for age, would be eligible for retired pay for non-regular service under section 12731 of this title and whose qualifications are approved by the Secretary and the institution concerned and who request such employment, subject to the following:
+(e) Instead of, or in addition to, detailing officers and noncommissioned officers on activeduty under subsection (c)(1) and authorizing the employment of retired officers and noncommissioned officers who are in receipt of retired pay and members of the Fleet Reserve and Fleet Marine Corps Reserve under subsection (d), the Secretary of the military department concerned may authorize qualified institutions to employ as administrators and instructors in the program officers and noncommissioned officers who are under 60 years of age and who, but for age, would be eligible for retired pay for non-regular service under section 12731 of this title and whose qualifications are approved by the Secretary and the institution concerned and who request such employment, subject to the following:
 
 &emsp;(1) The Secretary concerned shall pay to the institution an amount equal to one-half of the amount paid to the member by the institution for any period, up to a maximum of one-half of the difference between—
 
@@ -86,7 +86,7 @@ Subsec. (d)(1). Pub. L. 102–484, §533(e)(1), amended par. (1) generally. Prio
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–525, §1405(32), substituted "October 13, 1964" for "the date of enactment of this section".
 
-Subsec. (b)(1). Pub. L. 98–525, §422(1), substituted "the number of physically fit students in such unit who are at least 14 years of age and are citizens or nationals of the United States is not less than (A) 10 percent of the number of students enrolled in the institution who are at least 14 years of age, or (B) 100, whichever is less" for "the unit contains at least 100 physically fit students who are at least 14 years of age and are citizens or nationals of the United States".
+Subsec. (b)(1). Pub. L. 98–525, §422(1), substituted "the number of physically fit students in such unit who areat least 14 years of age and are citizens or nationals of the United States is not less than (A) 10 percent of the number of students enrolled in the institution who are at least 14 years of age, or (B) 100, whichever is less" for "the unit contains at least 100 physically fit students who are at least 14 years of age and are citizens or nationals of the United States".
 
 Subsec. (b)(5). Pub. L. 98–525, §422(2)–(4), added par. (5).
 
@@ -114,7 +114,7 @@ Pub. L. 88–647, title I, §102, Oct. 13, 1964, 78 Stat. 1064, directed that re
 
 #### Savings Clause
 
-Pub. L. 88–647, title IV, §402, Oct. 13, 1964, 78 Stat. 1074, provided that: "If a part of this Act \[see ShortTitle note above\] is invalid, all valid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications."
+Pub. L. 88–647, title IV, §402, Oct. 13, 1964, 78 Stat. 1074, provided that: "If a part of this Act \[see Short Title note above\] is invalid, all valid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications."
 
 #### Increase in Number of Units of Junior Reserve Officers' Training Corps
 

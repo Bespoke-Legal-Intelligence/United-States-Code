@@ -6,7 +6,7 @@ Requirement To Provide Services.—In carrying out the purposes of this chapter,
 
 (b)
 
-Individual Notice to New Veterans.—The Secretary shall by letter advise each veteran at the time of the veteran's discharge or release from active military, naval, or air service (or as soon as possible after such discharge or release) of all benefits and services under laws administered by the Department for which the veteran may be eligible. In carrying out this subsection, the Secretary shall ensure, through the use of veteran-student services under section 3485 of this title, that contact, in person or by telephone, is made with those veterans who, on thebasis of their military service records, do not have a high school education or equivalent at the time of discharge or release.
+Individual Notice to New Veterans.—The Secretary shall by letter advise each veteran at the time of the veteran's discharge or release from active military, naval, or air service (or as soon as possible after such discharge or release) of all benefits and services under laws administered by the Department for which the veteran may be eligible. In carrying out this subsection, the Secretary shall ensure, through the use of veteran-student services under section 3485 of this title, that contact, in person or by telephone, is made with those veterans who, on the basis of their military service records, do not have a high school education or equivalent at the time of discharge or release.
 
 (c)
 
@@ -31,6 +31,134 @@ Assignment of Employees.—In carrying out this section, the Secretary shall ass
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 7722 of this title prior to repeal by Pub. L. 109–233.
+
+#### Veterans Treatment Court Improvement
+
+Pub. L. 115–240, Sept. 17, 2018, 132 Stat. 2888, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Veterans Treatment Court Improvement Act of 2018'.
+
+#### "SEC. 2. HIRING BY DEPARTMENT OF VETERANS AFFAIRS OF ADDITIONAL VETERANS JUSTICE OUTREACH SPECIALISTS.
+
+"(a)
+
+Hiring of Additional Veterans Justice Outreach Specialists.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of the enactment of this Act \[Sept. 17, 2018\], the Secretary of Veterans Affairs shall hire not fewer than 50 Veterans Justice Outreach Specialists and place each such Veterans Justice Outreach Specialist at an eligible Department of Veterans Affairs medical center in accordance with this section.
+
+&emsp;"(2)
+
+Requirements.—The Secretary shall ensure that each Veterans Justice Outreach Specialist employed under paragraph (1)—
+
+&emsp;&emsp;"(A) serves, either exclusively or in addition to other duties, as part of a justice team in a veterans treatment court or other veteran-focused court; and
+
+&emsp;&emsp;"(B) otherwise meets Department hiring guidelines for Veterans Justice Outreach Specialists.
+
+"(b)
+
+Eligible Department of Veterans Affairs Medical Centers.—For purposes of this section, an eligible Department of Veterans Affairs medical center is any Department of Veterans Affairs medical center that—
+
+&emsp;"(1) complies with all Department guidelines and regulations for placement of a Veterans Justice Outreach Specialist;
+
+&emsp;"(2) works within a local criminal justice system with justice-involved veterans;
+
+&emsp;"(3) maintains an affiliation with one or more veterans treatment courts or other veteran-focused courts; and
+
+&emsp;"(4) either—
+
+&emsp;&emsp;"(A) routinely provides Veterans Justice Outreach Specialists to serve as part of a justice team in a veterans treatment court or other veteran-focused court; or
+
+&emsp;&emsp;"(B) establishes a plan that is approved by the Secretary to provide Veterans Justice Outreach Specialists employed under subsection (a)(1) to serve as part of a justice team in a veterans treatment court or other veteran-focused court.
+
+"(c)
+
+Placement Priority.—The Secretary shall prioritize the placement of Veterans Justice Outreach Specialists employed under subsection (a)(1) at eligible Department of Veterans Affairs medical centers that have or intend to establish an affiliation, for the purpose of carrying out the Veterans Justice Outreach Program, with a veterans treatment court, or other veteran-focused court, that—
+
+&emsp;"(1) was established on or after the date of the enactment of this Act; or
+
+&emsp;"(2)(A) was established before the date of the enactment of this Act; and
+
+&emsp;"(B) is not fully staffed with Veterans Justice Outreach Specialists.
+
+"(d)
+
+Reports.—
+
+&emsp;"(1)
+
+Report by secretary of veterans affairs.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 1 year after the date of the enactment of this Act \[Sept. 17, 2018\], the Secretary of Veterans Affairs shall submit to Congress a report on the implementation of this section and its effect on the Veterans Justice Outreach Program.
+
+&emsp;&emsp;"(B)
+
+Contents.—The report submitted under paragraph (1) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) The status of the efforts of the Secretary to hire Veterans Justice Outreach Specialists pursuant to subsection (a)(1), including the total number of Veterans Justice Outreach Specialists hired by the Secretary pursuant to such subsection and the number that the Secretary expects to hire pursuant to such subsection.
+
+&emsp;&emsp;&emsp;"(ii) The total number of Veterans Justice Outreach Specialists assigned to each Department of Veterans Affairs medical center that participates in the Veterans Justice Outreach Program, including the number of Veterans Justice Outreach Specialists hired under subsection (a)(1) disaggregated by Department of Veterans Affairs medical center.
+
+&emsp;&emsp;&emsp;"(iii) The total number of eligible Department of Veterans Affairs medical centers that sought placement of a Veterans Justice Outreach Specialist under subsection (a)(1), how many Veterans Justice Outreach Specialists each such center sought, and how many of such medical centers received no placement of a Veterans Justice Outreach Specialist under subsection (a)(1).
+
+&emsp;&emsp;&emsp;"(iv) For each eligible Department of Veterans Affairs medical center—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the number of justice-involved veterans who were served or are expected to be served by a Veterans Justice Outreach Specialist hired under subsection (a)(1); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the number of justice-involved veterans who do not have access to a Veterans Justice Outreach Specialist.
+
+&emsp;"(2)
+
+Report by comptroller general of the united states.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 3 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the implementation of this section and the effectiveness of the Veterans Justice Outreach Program.
+
+&emsp;&emsp;"(B)
+
+Contents.—The report required by subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) An assessment of whether the Secretary has fulfilled the Secretary's obligations under this section.
+
+&emsp;&emsp;&emsp;"(ii) The number of veterans who are served by Veterans Justice Outreach Specialists hired under subsection (a)(1), disaggregated by demographics (including discharge status).
+
+&emsp;&emsp;&emsp;"(iii) An identification of any subgroups of veterans who underutilize services provided under laws administered by the Secretary, including an assessment of whether these veterans have access to Veterans Justice Outreach Specialists under the Veterans Justice Outreach Program.
+
+&emsp;&emsp;&emsp;"(iv) Such recommendations as the Comptroller General may have for the Secretary to improve the effectiveness of the Veterans Justice Outreach Program.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Justice team.—The term 'justice team' means the group of individuals, which may include a judge, court coordinator, prosecutor, public defender, treatment provider, probation or other law enforcement officer, program mentor, and Veterans Justice Outreach Specialist, who assist justice-involved veterans in a veterans treatment court or other veteran-focused court.
+
+&emsp;"(2)
+
+Justice-involved veteran.—The term 'justice-involved veteran' means a veteran with active, ongoing, or recent contact with some component of a local criminal justice system.
+
+&emsp;"(3)
+
+Local criminal justice system.—The term 'local criminal justice system' means law enforcement, jails, prisons, and Federal, State, and local courts.
+
+&emsp;"(4)
+
+Veterans justice outreach program.—The term 'Veterans Justice Outreach Program' means the program through which the Department of Veterans Affairs identifies justice-involved veterans and provides such veterans with access to Department services.
+
+&emsp;"(5)
+
+Veterans justice outreach specialist.—The term 'Veterans Justice Outreach Specialist' means an employee of the Department of Veterans Affairs who serves as a liaison between the Department and the local criminal justice system on behalf of a justice-involved veteran.
+
+&emsp;"(6)
+
+Veterans treatment court.—The term 'veterans treatment court' means a State or local court that is participating in the veterans treatment court program (as defined in section 2991(i)(1) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797aa(i)(1)) \[now 34 U.S.C. 10651(i)(1)\])."
 
 #### Outreach Program to Veterans in Rural Areas
 

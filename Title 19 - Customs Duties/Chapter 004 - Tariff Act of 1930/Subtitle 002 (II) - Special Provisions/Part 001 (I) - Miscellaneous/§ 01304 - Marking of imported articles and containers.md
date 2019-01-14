@@ -38,7 +38,7 @@ Whenever an article is excepted under subdivision (3) of subsection (a) of this 
 
 #### (c) Marking of certain pipe and fittings
 
-(1) Except as provided in paragraph (2), no exception may be made under subsection (a)(3) with respect to pipes of iron, steel, or stainless steel, to pipe fittings of steel, stainless steel, chrome-moly steel, or cast and malleable iron each of which shall be marked with the English name of the country of origin by means of diestamping, cast-in-mold lettering, etching, engraving, or continuous paint stenciling.
+(1) Except as provided in paragraph (2), no exception may be made under subsection (a)(3)with respect to pipes of iron, steel, or stainless steel, to pipe fittings of steel, stainless steel, chrome-moly steel, or cast and malleable iron each of which shall be marked with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or continuous paint stenciling.
 
 (2) If, because of the nature of an article, it is technically or commercially infeasible to mark it by one of the five methods specified in paragraph (1), the article may be marked by an equally permanent method of marking or, in the case of small diameter pipe, tube, and fittings, by tagging the containers or bundles.
 
@@ -156,7 +156,7 @@ Subsec. (j). Pub. L. 106–36, §2423(a)(1), (b), redesignated subsec. (i) as (j
 
 Subsecs. (k), (l). Pub. L. 106–36, §2423(a)(1), redesignated subsecs. (j) and (k) as (k) and (l), respectively.
 
-<b>1996</b>—Subsecs. (f) to (h). Pub. L. 104–295, §14(a), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h). Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
+<b>1996</b>—Subsecs. (f) to (h). Pub. L. 104–295, §14(a), added subsecs. (f) and (g) and redesignated former subsec. (f)as (h). Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
 
 Subsec. (i). Pub. L. 104–295, §14(a)(1), (b), redesignated subsec. (g) as (i) and substituted "subsection (h) of this section" for "subsection (f) of this section".
 
@@ -240,7 +240,7 @@ Pub. L. 98–573, title II, §214, Oct. 30, 1984, 98 Stat. 2988, provided that:
 
 &emsp;"(B) The amendments made to the Tariff Act of 1930 by subsection (c) of section 212 \[no subsec. (c) of section 212 was enacted\] shall take effect on such date of enactment \[Oct. 30, 1984\].
 
-"(2) A license in effect on the date of enactment of this Act \[Oct. 30, 1984\] under section 641 of the Tariff Act of 1930 (as in effect before such date of enactment) shall continue in force as a license to transact customs business as a customs broker, subject to all the provisions of section 212 and such licenses shall be accepted as permits for the district or districts covered by that license.
+"(2) A license in effect on the date of enactment of this Act \[Oct. 30, 1984\] under section 641 of the TariffAct of 1930 (as in effect before such date of enactment) shall continue in force as a license to transact customs business as a customs broker, subject to all the provisions of section 212 and such licenses shall be accepted as permits for the district or districts covered by that license.
 
 "(3) Any proceeding for revocation or suspension of a license instituted under section 641 of the Tariff Act of 1930 before the date of the enactment of this Act \[Oct. 30, 1984\] shall continue and be governed by the law in effect at the time the proceeding was instituted.
 

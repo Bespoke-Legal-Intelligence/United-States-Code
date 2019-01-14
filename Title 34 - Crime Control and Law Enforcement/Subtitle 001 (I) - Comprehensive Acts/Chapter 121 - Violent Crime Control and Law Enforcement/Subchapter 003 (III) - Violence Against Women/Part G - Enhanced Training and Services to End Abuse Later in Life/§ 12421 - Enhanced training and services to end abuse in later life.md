@@ -44,7 +44,7 @@ In this section—
 
 #### (D) Limitation
 
-&emsp;&emsp;An eligible entity receiving a grant under this section may use not more than 10 percent of the total funds received under thegrant for an activity described in subparagraph (B)(ii).
+&emsp;&emsp;An eligible entity receiving a grant under this section may use not more than 10 percent of the total funds received under the grant for an activity described in subparagraph (B)(ii).
 
 #### (3) Eligible entities
 

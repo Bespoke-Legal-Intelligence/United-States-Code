@@ -12,13 +12,17 @@ Atomic energy is capable of application for peaceful as well as military purpose
 
 A prior section 1 of act Aug. 1, 1946, ch. 724, 60 Stat. 755, which related to declaration of policy and purpose of former chapter 14 of this title, was classified to section 1801 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 115–439, §1(a), Jan. 14, 2019, 132 Stat. 5565, provided that: "This Act \[enacting section 2215 of this title, amending sections 2134 and 2214 of this title, repealing section 2214 of this title, and enacting provisions set out as notes under sections 2133, 2134, 2214, and 2215 of this title\] may be cited as the 'Nuclear Energy Innovation and Modernization Act'."
+
 #### Short Title of 2015 Amendment
 
 Pub. L. 114–17, §1, May 22, 2015, 129 Stat. 201, provided that: "This Act \[enacting section 2160e of this title\] may be cited as the 'Iran Nuclear Agreement Review Act of 2015'."
 
 #### Short Title of 2013 Amendment
 
-Pub. L. 112–239, div. C, title XXXI, §3171, Jan. 2, 2013, 126 Stat. 2211, provided that: "This subtitle \[subtitle F (§§3171–3178) of title XXXI of div. C of Pub. L. 112–239, enacting sections 2065 and 2142 of this title, amending section 2160d of this title, and enacting provisions set out as a note under section 2065 of this title\] may be cited as the 'American Medical Isotopes Production Act of 2012'."
+Pub. L. 112–239, div. C, title XXXI, §3171, Jan. 2, 2013, 126 Stat. 2211, provided that: "This subtitle \[subtitle F\(§§3171–3178) of title XXXI of div. C of Pub. L. 112–239, enacting sections 2065 and 2142 of this title, amending section 2160d of this title, and enacting provisions set out as a note under section 2065 of this title\] may be cited as the 'American Medical Isotopes Production Act of 2012'."
 
 #### Short Title of 2005 Amendment
 
@@ -46,7 +50,7 @@ Pub. L. 85–846, §1, Aug. 28, 1958, 72 Stat. 1084, provided: "That this Act \[
 
 #### Short Title
 
-Act Aug. 1, 1946, ch. 724, title I, §291, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 960; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944, provided that: "This Act \[enacting this chapter, amending sections 190j and 622 of Title 2, The Congress, and repealing sections 2251 to 2257 and 2315 ofthis title\] may be cited as the 'Atomic Energy Act of 1954'."
+Act Aug. 1, 1946, ch. 724, title I, §291, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 960; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944, provided that: "This Act \[enacting this chapter, amending sections 190j and 622 of Title 2, The Congress, and repealing sections 2251 to 2257 and 2315 of this title\] may be cited as the 'Atomic Energy Act of 1954'."
 
 #### Separability
 

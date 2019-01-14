@@ -7,6 +7,7 @@
 | [5302A.](%C2%A7%2005302A%20-%20Collection%20of%20indebtedness%20certain%20debts%20of%20members%20of%20the%20Armed%20Forces%20and%20veterans%20who%20die%20of%20injury%20incurred%20or%20aggravated%20in%20the%20line%E2%80%A6.md) | Collection of indebtedness: certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line of duty in a combat zone. |
 | [5303\.](%C2%A7%2005303%20-%20Certain%20bars%20to%20benefits.md) | Certain bars to benefits. |
 | [5303A.](%C2%A7%2005303A%20-%20Minimum%20active-duty%20service%20requirement.md) | Minimum active-duty service requirement. |
+| [5303B.](%C2%A7%2005303B%20-%20Character%20of%20service%20determinations.md) | Character of service determinations. |
 | [5304\.](%C2%A7%2005304%20-%20Prohibition%20against%20duplication%20of%20benefits.md) | Prohibition against duplication of benefits. |
 | [5305\.](%C2%A7%2005305%20-%20Waiver%20of%20retired%20pay.md) | Waiver of retired pay. |
 | [5306\.](%C2%A7%2005306%20-%20Renouncement%20of%20right%20to%20benefits.md) | Renouncement of right to benefits. |
@@ -30,6 +31,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. J, title II, §259(b), Mar. 23, 2018, 132 Stat. 829, added item 5303B.
 
 <b>2008</b>—Pub. L. 110–252, title I, §1303(a)(2), June 30, 2008, 122 Stat. 2327, added item 5302A.
 
@@ -61,6 +64,42 @@ Pub. L. 96–385, title V, §504(b), Oct. 7, 1980, 94 Stat. 1535, added item 311
 
 <b>1962</b>—Pub. L. 87–825, §4(b), Oct. 15, 1962, 76 Stat. 950, added item 3110.
 
+#### Department of Veterans Affairs Notice Relating to Debt Collection Activities
+
+Pub. L. 115–407, title V, §504(a)–(c), Dec. 31, 2018, 132 Stat. 5378, provided that:
+
+"(a)
+
+Debt Notification Letter Formats.—The Secretary of Veterans Affairs shall collaborate with veterans service organizations to develop a standard format for any letter provided to an individual who the Secretary determines is indebted to the United States by virtue of such individual's participation in a benefits program administered by the Secretary. Such letter shall be written in plain language and shall include a notice of the debt and a clear explanation of—
+
+&emsp;"(1) why the individual is indebted to the United States by virtue of such person's participation in a benefits program administered by the Secretary; and
+
+&emsp;"(2) the options available to the individual.
+
+"(b)
+
+Delivery of Debt Notices by Standard Mail and Electronic Means.—The Secretary shall develop a method by which individuals may elect to receive notice of debt by electronic means and shall ensure, to the extent practicable, that the letter developed under subsection (a) is delivered—
+
+&emsp;"(1) by both standard mail and by electronic means to intended recipients who have made such an election; and
+
+&emsp;"(2) only by standard mail to intended recipients who have not made such an election.
+
+"(c)
+
+Notice to Congress.—
+
+&emsp;"(1)
+
+Notices of completion.—Upon completion of the development of the standard letter format required under subsection (a) and upon completion of development of the method by which individuals may elect to receive notice of debt by electronic means under subsection (b), the Secretary shall submit to Congress notice of the completion of the respective development.
+
+&emsp;"(2)
+
+Progress reports.—If the Secretary has not submitted each notice required by paragraph (1) by the date that is 90 days after the date of the enactment of this Act \[Dec. 31, 2018\], the Secretary shall—
+
+&emsp;&emsp;"(A) submit to Congress a report describing the progress of the Secretary toward implementing subsections (a) and (b) and an explanation for why the respective development has not been completed; and
+
+&emsp;&emsp;"(B) every 30 days thereafter until all of the notices required by paragraph (1) have been submitted, submit to Congress an update to the report under subparagraph (A) that includes an additional explanation for the failure to complete the respective development."
+
 
 ---
 
@@ -71,6 +110,7 @@ Pub. L. 96–385, title V, §504(b), Oct. 7, 1980, 94 Stat. 1535, added item 311
 - [&sect; 05302A - Collection of indebtedness certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line&#8230;](%C2%A7%2005302A%20-%20Collection%20of%20indebtedness%20certain%20debts%20of%20members%20of%20the%20Armed%20Forces%20and%20veterans%20who%20die%20of%20injury%20incurred%20or%20aggravated%20in%20the%20line%E2%80%A6.md)
 - [&sect; 05303 - Certain bars to benefits](%C2%A7%2005303%20-%20Certain%20bars%20to%20benefits.md)
 - [&sect; 05303A - Minimum active-duty service requirement](%C2%A7%2005303A%20-%20Minimum%20active-duty%20service%20requirement.md)
+- [&sect; 05303B - Character of service determinations](%C2%A7%2005303B%20-%20Character%20of%20service%20determinations.md)
 - [&sect; 05304 - Prohibition against duplication of benefits](%C2%A7%2005304%20-%20Prohibition%20against%20duplication%20of%20benefits.md)
 - [&sect; 05305 - Waiver of retired pay](%C2%A7%2005305%20-%20Waiver%20of%20retired%20pay.md)
 - [&sect; 05306 - Renouncement of right to benefits](%C2%A7%2005306%20-%20Renouncement%20of%20right%20to%20benefits.md)

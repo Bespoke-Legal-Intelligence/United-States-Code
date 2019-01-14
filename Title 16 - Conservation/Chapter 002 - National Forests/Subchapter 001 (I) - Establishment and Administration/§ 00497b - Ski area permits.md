@@ -86,7 +86,7 @@ The Secretary of Agriculture (hereinafter referred to as "the Secretary") is aut
 
 #### (7) Effect on existing authorized activities and facilities
 
-&emsp;Nothing in this subsection affects any activity or facility authorized by a ski area permitin effect on November 7, 2011, during the term of the permit.
+&emsp;Nothing in this subsection affects any activity or facility authorized by a ski area permit in effect on November 7, 2011, during the term of the permit.
 
 #### (d) Regulations
 

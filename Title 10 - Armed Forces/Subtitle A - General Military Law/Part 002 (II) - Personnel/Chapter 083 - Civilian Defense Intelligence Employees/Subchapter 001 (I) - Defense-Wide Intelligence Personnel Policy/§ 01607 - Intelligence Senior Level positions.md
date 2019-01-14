@@ -6,7 +6,7 @@ Designation of Positions.—The Secretary of Defense may designate as an Intelli
 
 &emsp;(1) is classifiable above grade GS–15 of the General Schedule;
 
-&emsp;(2) does not satisfy functional or program management criteria for being designated a Defense Intelligence Senior Executive Service position; and
+&emsp;(2) does not satisfy functional or program management criteria for being designated aDefense Intelligence Senior Executive Service position; and
 
 &emsp;(3) has no more than minimal supervisory responsibilities.
 

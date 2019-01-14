@@ -16,7 +16,7 @@
 
 &emsp;(A) a written statement of the charges against him within 30 days after suspension, which may be amended within 30 days thereafter and which shall be stated as specifically as security considerations permit;
 
-&emsp;(B) an opportunity within 30 days thereafter, plus an additional 30 days if the charges areamended, to answer the charges and submit affidavits;
+&emsp;(B) an opportunity within 30 days thereafter, plus an additional 30 days if the charges are amended, to answer the charges and submit affidavits;
 
 &emsp;(C) a hearing, at the request of the employee, by an agency authority duly constituted for this purpose;
 

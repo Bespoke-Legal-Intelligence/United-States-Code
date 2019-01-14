@@ -34,7 +34,7 @@ Status of Federal Employees Assigned to Private-sector Organizations.—(1) An e
 
 (2) In establishing a temporary assignment of an employee of the Department of Defense to a private-sector organization, the Secretary of Defense shall—
 
-&emsp;(A) ensure that the normal duties and functions of such employee can be reasonably performed by other employees of the Department of Defense without the transfer or reassignment of other personnel of the Department of Defense, including members of the armed forces;
+&emsp;(A) ensure that the normal duties and functions of such employee can be reasonably performed by other employees of the Department of Defense without the transfer or reassignment of other personnel of the Department ofDefense, including members of the armed forces;
 
 &emsp;(B) ensure that the normal duties and functions of such employees are not, as a result of and during the course of such temporary assignment, performed or augmented by contractor personnel in violation of the provisions of section 2461 of this title; and
 

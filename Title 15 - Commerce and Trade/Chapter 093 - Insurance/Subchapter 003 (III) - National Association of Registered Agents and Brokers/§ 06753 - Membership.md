@@ -134,7 +134,7 @@ The Association may establish membership criteria that bear a reasonable relatio
 
 #### (2) Qualifications
 
-&emsp;In establishing criteria under paragraph (1), the Association shall not adopt any qualification less protective to the public than that contained in the National Association of Insurance Commissioners (referred to in this subchapter as the "NAIC") Producer Licensing Model Act in effect as of January 12, 2015, andshall consider the highest levels of insurance producer qualifications established under the licensing laws of the States.
+&emsp;In establishing criteria under paragraph (1), the Association shall not adopt any qualification less protective to the public than that contained in the National Association of Insurance Commissioners (referred to in this subchapter as the "NAIC") Producer Licensing Model Act in effect as of January 12, 2015, and shall consider the highest levels of insurance producer qualifications established under the licensing laws of the States.
 
 #### (3) Assistance from States
 
@@ -212,7 +212,7 @@ Membership in the Association shall be renewed on a biennial basis.
 
 #### (1) In general
 
-&emsp;The Association shall establish, as a condition of membership, continuing education requirements which shall be comparable to thecontinuing education requirements under the licensing laws of a majority of the States.
+&emsp;The Association shall establish, as a condition of membership, continuing education requirements which shall be comparable to the continuing education requirements under the licensing laws of a majority of the States.
 
 #### (2) State continuing education requirements
 
@@ -270,7 +270,7 @@ Membership in the Association shall be renewed on a biennial basis.
 
 The Association may—
 
-&emsp;(1) share documents, materials, or other information, including confidential and privileged documents, with a State, Federal, or international governmental entity or with the NAIC or other appropriate entity referred to <sup>1</sup> paragraphs (3) and (4), provided that the recipient has the authority and agrees to maintain the confidentiality or privileged status of the document, material, or other information;
+&emsp;(1) share documents, materials, or other information, including confidential and privileged documents, with a State, Federal, or international governmental entity or with the NAIC or other appropriate entity referred to <sup>1</sup> paragraphs (3) and (4), provided that the recipient has the authority and agrees to maintainthe confidentiality or privileged status of the document, material, or other information;
 
 &emsp;(2) limit the sharing of information as required under this subchapter with the NAIC or any other non-governmental entity, in circumstances under which the Association determines that the sharing of such information is unnecessary to further the purposes of this subchapter;
 
@@ -290,7 +290,7 @@ The provisions of this section shall take effect on the later of—
 
 #### References in Text
 
-The Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (e)(2), is Pub. L. 103–322,Sept. 13, 1994, 108 Stat. 1796. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 10101 of Title 34, Crime Control and Law Enforcement, and Tables.
+The Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (e)(2), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 10101 of Title 34, Crime Control and Law Enforcement, and Tables.
 
 #### Prior Provisions
 

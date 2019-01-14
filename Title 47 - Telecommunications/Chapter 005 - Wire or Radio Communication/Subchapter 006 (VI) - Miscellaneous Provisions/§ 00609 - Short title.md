@@ -8,6 +8,14 @@ This chapter may be cited as the "Communications Act of 1934."
 
 This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–141, div. P, §1(a), Mar. 23, 2018, 132 Stat. 1080, provided that: "This division \[see Tables for classification\] may be cited as the 'Repack Airwaves Yielding Better Access for Users of Modern Services Act of 2018' or the 'RAY BAUM'S Act of 2018'."
+
+Pub. L. 115–129, §1, Feb. 26, 2018, 132 Stat. 329, provided that: "This Act \[enacting section 262 of this title\] may be cited as the 'Improving Rural Call Quality and Reliability Act of 2017'."
+
+Pub. L. 115–127, §1, Feb. 16, 2018, 132 Stat. 326, provided that: "This Act \[enacting section 623 of this title and provisions set out as a note under section 623 of this title\] may be cited as the 'Kari's Law Act of 2017'."
+
 #### Short Title of 2016 Amendment
 
 Pub. L. 114–182, title II, §201, June 22, 2016, 130 Stat. 512, provided that: "This title \[amending section 254 of this title and enacting provisions set out as notes under section 254 of this title\] may be cited as the 'Rural Healthcare Connectivity Act of 2016'."
@@ -74,7 +82,7 @@ Pub. L. 106–81, §1, Oct. 26, 1999, 113 Stat. 1286, provided that: "This Act \
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–277, div. C, title XIV, §1401, Oct. 21, 1998, 112 Stat. 2681–736, provided that: "This title \[enacting section 231 of this title, amending sections 223 and 230 of this title, and enacting provisions set out as notes under sections 223 and 231 of this title\] may be cited as the 'Child Online Protection Act'."
+Pub. L. 105–277, div. C, title XIV, §1401, Oct. 21, 1998, 112 Stat. 2681–736, provided that: "This title \[enactingsection 231 of this title, amending sections 223 and 230 of this title, and enacting provisions set out as notes under sections 223 and 231 of this title\] may be cited as the 'Child Online Protection Act'."
 
 #### Short Title of 1996 Amendment
 

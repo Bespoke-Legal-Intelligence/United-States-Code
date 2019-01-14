@@ -8,11 +8,19 @@ In this section:
 
 &emsp;The term "authorized restoration services" means similar and complementary forest, rangeland, and watershed restoration services carried out—
 
-&emsp;&emsp;(A) on Federal land and non-Federal land; and
+&emsp;&emsp;(A) on Federal land, non-Federal land, and land owned by an Indian tribe; and
 
-&emsp;&emsp;(B) by either the Secretary or a Governor pursuant to a good neighbor agreement.
+&emsp;&emsp;(B) by either the Secretary or a Governor or county, as applicable, pursuant to a good neighbor agreement.
 
-#### (2) Federal land
+#### (2) County
+
+&emsp;The term "county" means—
+
+&emsp;&emsp;(A) the appropriate executive official of an affected county; or
+
+&emsp;&emsp;(B) in any case in which multiple counties are affected, the appropriate executive official of a compact of the affected counties.
+
+#### (3) Federal land
 
 #### (A) In general
 
@@ -32,7 +40,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) a wilderness study area.
 
-#### (3) Forest, rangeland, and watershed restoration services
+#### (4) Forest, rangeland, and watershed restoration services
 
 #### (A) In general
 
@@ -48,23 +56,39 @@ In this section:
 
 &emsp;&emsp;The term "forest, rangeland, and watershed restoration services" does not include—
 
-&emsp;&emsp;&emsp;(i) construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas; or
+&emsp;&emsp;&emsp;(i) construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas, other than the reconstruction, repair, or restoration of a National Forest System road that is—
+
+&emsp;&emsp;&emsp;&emsp;(I) necessary to carry out authorized restoration services pursuant to a good neighbor agreement; and
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a National Forest System road that is determined to be unneeded in accordance with section 212.5(b)(2) of title 36, Code of Federal Regulations (as in effect on March 23, 2018), decommissioned in accordance with subparagraph (A)(iii)—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) in a manner that is consistent with the applicable travel management plan; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) not later than 3 years after the date on which the applicable authorized restoration services project is completed; or
 
 &emsp;&emsp;&emsp;(ii) construction, alteration, repair or replacement of public buildings or works.
 
-#### (4) Good neighbor agreement
+#### (5) Good neighbor agreement
 
-&emsp;The term "good neighbor agreement" means a cooperative agreement or contract (including a sole source contract) entered into between the Secretary and a Governor to carry out authorized restoration services under this section.
+&emsp;The term "good neighbor agreement" means a cooperative agreement or contract (including a sole source contract) entered into between the Secretary and a Governor or county, as applicable, to carry out authorized restoration services under this section.
 
-#### (5) Governor
+#### (6) Governor
 
-&emsp;The term "Governor" means the Governor or any other appropriate executive official of an affected State or the Commonwealth of Puerto Rico.
+&emsp;The term "Governor" means the Governor or any other appropriate executive official of an affected State or Indian tribe or the Commonwealth of Puerto Rico.
 
-#### (6) Road
+#### (7) Indian tribe
+
+&emsp;The term "Indian tribe" has the meaning given the term in section 5304 of title 25.
+
+#### (8) National Forest System road
+
+&emsp;The term "National Forest System road" has the meaning given the term in section 212.1 of title 36, Code of Federal Regulations (as in effect on March 23, 2018).
+
+#### (9) Road
 
 &emsp;The term "road" has the meaning given the term in section 212.1 of title 36, Code of Federal Regulations (as in effect on February 7, 2014).
 
-#### (7) Secretary
+#### (10) Secretary
 
 &emsp;The term "Secretary" means—
 
@@ -78,7 +102,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may enter into a good neighbor agreement with a Governor to carry out authorized restoration services in accordance with this section.
+&emsp;&emsp;The Secretary may enter into a good neighbor agreement with a Governor or county to carry out authorized restoration services in accordance with this section.
 
 #### (B) Public availability
 
@@ -88,17 +112,35 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subsections (d) and (g) of section 472a of this title shall not apply to services performed under a cooperative agreement or contract entered into under subsection (a).
+&emsp;&emsp;Subsections (d) and (g) of section 472a of this title shall not apply to services performed under a good neighbor agreement.
 
 #### (B) Approval of silviculture prescriptions and marking guides
 
 &emsp;&emsp;The Secretary shall provide or approve all silviculture prescriptions and marking guides to be applied on Federal land in all timber sale projects conducted under this section.
 
+#### (C) Treatment of revenue
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Funds received from the sale of timber by a Governor of a State under a good neighbor agreement shall be retained and used by the Governor—
+
+&emsp;&emsp;&emsp;&emsp;(I) to carry out authorized restoration services on Federal land under the good neighbor agreement; and
+
+&emsp;&emsp;&emsp;&emsp;(II) if there are funds remaining after carrying out subclause (I), to carry out authorized restoration services on Federal land within the State under other good neighbor agreements.
+
+#### (ii) Termination of effectiveness
+
+&emsp;&emsp;&emsp;The authority provided by this subparagraph terminates effective October 1, 2023.
+
 #### (3) Retention of NEPA responsibilities
 
-&emsp;Any decision required to be made under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to any authorized restoration services to be provided under this section on Federal land shall not be delegated to a Governor.
+&emsp;Any decision required to be made under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to any authorized restoration services to be provided under this section on Federal land shall not be delegated to a Governor or county.
 
-(Pub. L. 113–79, title VIII, §8206, Feb. 7, 2014, 128 Stat. 921.)
+#### (4) Receipts
+
+&emsp;Notwithstanding any other provision of law, any payment made by a county to the Secretary under a project conducted under a good neighbor agreement shall not be considered to be monies received from National Forest System land or Bureau of Land Management land, as applicable.
+
+(Pub. L. 113–79, title VIII, §8206, Feb. 7, 2014, 128 Stat. 921; Pub. L. 115–141, div. O, title II, §212, Mar. 23, 2018, 132 Stat. 1073; Pub. L. 115–334, title VIII, §§8624, 8704(b), Dec. 20, 2018, 132 Stat. 4857, 4877.)
 
 #### References in Text
 
@@ -107,4 +149,62 @@ The National Environmental Policy Act of 1969, referred to in subsec. (b)(3), is
 #### Codification
 
 Section was enacted as part of the Agricultural Act of 2014, and not as part of the Cooperative Forestry Assistance Act of 1978 which comprises this chapter.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–334, §8624(a)(1), substituted "land, non-Federal land, and land owned by an Indian tribe" for "land and non-Federal land".
+
+Subsec. (a)(1)(B). Pub. L. 115–334, §8624(b)(1)(A), inserted "or county, as applicable," after "Governor".
+
+Subsec. (a)(2). Pub. L. 115–334, §8624(b)(1)(C), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (a)(3). Pub. L. 115–334, §8624(b)(1)(B), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (a)(3)(B)(i). Pub. L. 115–141, §212(1), substituted "areas, other than the reconstruction, repair, or restoration of a National Forest System road that is—" and subcls. (I) and (II) for "areas; or".
+
+Subsec. (a)(4). Pub. L. 115–334, §8624(b)(1)(B), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (a)(4)(B)(i)(II). Pub. L. 115–334, §8704(b)(1), made technical amendment to reference in original act which appears in text as reference to March 23, 2018.
+
+Subsec. (a)(5). Pub. L. 115–334, §8624(b)(1)(B), (D), redesignated par. (4) as (5) and inserted "or county, as applicable," after "Governor". Former par. (5) redesignated (6).
+
+Pub. L. 115–334, §8624(a)(2), inserted "or Indian tribe" after "affected State".
+
+Subsec. (a)(6). Pub. L. 115–334, §8624(b)(1)(B), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Pub. L. 115–334, §8624(a)(4), which directed amendment of subsec. (a) by adding par. (6) after par. (5) "(as so redesignated)", was executed by making the addition after par. (5), relating to the definition of "Governor", to reflect the probable intent of Congress.
+
+Pub. L. 115–334, §8624(a)(3), redesignated par. (6) as (7).
+
+Pub. L. 115–141, §212(3), added par. (6). Former par. (6) redesignated (7).
+
+Subsec. (a)(7). Pub. L. 115–334, §8624(b)(1)(B), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+
+Pub. L. 115–334, §8624(a)(3), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+
+Pub. L. 115–141, §212(2), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+
+Subsec. (a)(8). Pub. L. 115–334, §8704(b)(2), made technical amendment to reference in original act which appears in text as reference to March 23, 2018.
+
+Pub. L. 115–334, §8624(b)(1)(B), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+
+Pub. L. 115–334, §8624(a)(3), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+
+Pub. L. 115–141, §212(2), redesignated par. (7) as (8).
+
+Subsec. (a)(9). Pub. L. 115–334, §8624(b)(1)(B), redesignated par. (8) as (9). Former par. (9) redesignated (10).
+
+Pub. L. 115–334, §8624(a)(3), redesignated par. (8) as (9).
+
+Subsec. (a)(10). Pub. L. 115–334, §8624(b)(1)(B), redesignated par. (9) as (10).
+
+Subsec. (b)(1)(A). Pub. L. 115–334, §8624(b)(2)(A), inserted "or county" after "Governor".
+
+Subsec. (b)(2)(A). Pub. L. 115–334, §8624(b)(2)(B), substituted "good neighbor agreement" for "cooperative agreement or contract entered into under subsection (a)".
+
+Subsec. (b)(2)(C). Pub. L. 115–334, §8624(c), added subpar. (C).
+
+Subsec. (b)(3). Pub. L. 115–334, §8624(b)(2)(C), inserted "or county" after "Governor".
+
+Subsec. (b)(4). Pub. L. 115–334, §8624(b)(2)(D), added par. (4).
 

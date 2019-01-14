@@ -62,7 +62,7 @@ Subsec. (e). Pub. L. 110–417 substituted "$290 a day" for "$180 a day".
 
 Subsec. (e). Pub. L. 107–107, §632(b), substituted "$180" for "$110".
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(a)(2)\], added subsec. (a) and struck out former subsec. (a) which provided that a member of a uniformed service who was ordered to make certain changes of permanent station was to be paid or reimbursed for subsistence expenses actually incurred by the member and the member's dependents while occupying temporary quarters.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(a)(2)\], added subsec. (a) and struck out former subsec. (a) which provided that a member of a uniformed service who was ordered to make certain changes ofpermanent station was to be paid or reimbursed for subsistence expenses actually incurred by the member and the member's dependents while occupying temporary quarters.
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(a)(2)\], added subsec. (b). Former subsec. (b) redesignated (d).
 

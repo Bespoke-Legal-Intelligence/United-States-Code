@@ -58,7 +58,7 @@ A contribution accepted by a candidate, and any other donation received by an in
 
 &emsp;Notwithstanding any other provision of this Act, in the case of a candidate for election for the office of Representative in, or Delegate or Resident Commissioner to, the Congress, an authorized committee and a leadership PAC of the candidate may not make any expenditure for a flight on an aircraft unless—
 
-&emsp;&emsp;(A) the aircraft is operated by an air carrier or commercial operator certificated by the Federal Aviation Administration and the flight is required to be conducted under air carrier safety rules, or, in the case of travel which is abroad, by an air carrier or commercial operator certificated by an appropriate foreign civil aviation authority and the flight is required to be conducted under air carrier safety rules; or
+&emsp;&emsp;(A) the aircraft is operated by an air carrier or commercial operator certificated by the Federal Aviation Administration and the flight is required to be conducted under air carrier safety rules, or, in the case of travel which is abroad, by an air carrier orcommercial operator certificated by an appropriate foreign civil aviation authority and the flight is required to be conducted under air carrier safety rules; or
 
 &emsp;&emsp;(B) the aircraft is operated by an entity of the Federal government or the government of any State.
 

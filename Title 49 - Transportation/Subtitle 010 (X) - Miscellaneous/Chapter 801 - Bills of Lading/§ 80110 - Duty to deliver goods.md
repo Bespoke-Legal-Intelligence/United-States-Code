@@ -34,7 +34,7 @@ Common Carrier Claims of Title and Possession.—A claim by a common carrier tha
 
 (d)
 
-Adverse Claims.—If a person other than the consignee or the person in possession of a bill of lading claims title to or possession of goods and the common carrier knows of the claim, the carrier is not required to deliver the goods to any claimant until the carrier has had a reasonable time to decide the validity of the adverse claim or to bring a civil action to require all claimants to interplead.
+Adverse Claims.—If a person other than the consignee or the person in possession of a bill of lading claims title to or possession ofgoods and the common carrier knows of the claim, the carrier is not required to deliver the goods to any claimant until the carrier has had a reasonable time to decide the validity of the adverse claim or to bring a civil action to require all claimants to interplead.
 
 (e)
 
@@ -92,7 +92,7 @@ In subsection (b), before clause (1), the word "may" is substituted for "is just
 
 In subsection (c), before clause (1), the words "for his own benefit" are omitted as surplus. The words "nondelivery of" are substituted for "refusing to deliver" because they are more accurate. The words "according to the terms of a bill issued for them" are omitted as unnecessary. In clause (1), the words "directly or indirectly" are omitted as unnecessary.
 
-In subsection (d), the word "person" is substituted for "someone" for consistency in this chapter. The words "claims title" are substituted for "has a claim to the title" for consistency. The words "is not required to" are substituted for "shall be excused from liability for refusing to" for clarity. The words "any claimant"are substituted for "either to the consignee or person in possession of the bill or to the adverse claimant" to eliminate unnecessary words. The words "civil action" are substituted for "legal proceedings" for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
+In subsection (d), the word "person" is substituted for "someone" for consistency in this chapter. The words "claims title" are substituted for "has a claim to the title" for consistency. The words "is not required to" are substituted for "shall be excused from liability for refusing to" for clarity. The words "any claimant" are substituted for "either to the consignee or person in possession of the bill or to the adverse claimant" to eliminate unnecessary words. The words "civil action" are substituted for "legal proceedings" for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
 In subsection (e), before clause (1), the words "at least 2" are substituted for "more than one" for consistency in the revised title and with other titles of the United States Code. In clause (1), the words "civil action" are substituted for "an original suit" for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The words "whichever is appropriate" are omitted as unnecessary.
 

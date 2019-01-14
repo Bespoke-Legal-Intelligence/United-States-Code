@@ -14,7 +14,7 @@
 
 &emsp;(6) Respite care under section 1720B of this title.
 
-(b) The Secretary shall ensure that the staffing and level of extended care services provided by the Secretary nationally in facilities of the Department during any fiscal year is not less than the staffing and level of such services provided nationally in facilities of the Department during fiscal year 1998.
+(b) The Secretary shall ensure that the staffing and level of extended care services providedby the Secretary nationally in facilities of the Department during any fiscal year is not less than the staffing and level of such services provided nationally in facilities of the Department during fiscal year 1998.
 
 (c)(1) Except as provided in paragraph (2), the Secretary may not furnish extended care services for a non-service-connected disability other than in the case of a veteran who has a compensable service-connected disability unless the veteran agrees to pay to the United States a copayment (determined in accordance with subsection (d)) for any period of such services in a year after the first 21 days of such services provided that veteran in that year.
 
@@ -26,7 +26,7 @@
 
 &emsp;(C) with respect to an episode of extended care services that a veteran is being furnished by the Department on November 30, 1999; or
 
-&emsp;(D) to a veteran who was awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14.
+&emsp;(D) to a veteran who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 <sup>1</sup> of title 14.
 
 (d)(1) A veteran who is furnished extended care services under this chapter and who is required under subsection (c) to pay an amount to the United States in order to be furnished such services shall be liable to the United States for that amount.
 
@@ -42,13 +42,17 @@
 
 (2) All amounts received by the Department under this section shall be deposited in or credited to the fund.
 
-(Added Pub. L. 106–117, title I, §101(c)(1), Nov. 30, 1999, 113 Stat. 1548; amended Pub. L. 107–14, §8(a)(2), (16), June 5, 2001, 115 Stat. 34, 35; Pub. L. 107–103, title V, §509(b), Dec. 27, 2001, 115 Stat. 997; Pub. L. 108–422, title II, §204, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 114–315, title VI, §603(c), Dec. 16, 2016, 130 Stat. 1570.)
+(Added Pub. L. 106–117, title I, §101(c)(1), Nov. 30, 1999, 113 Stat. 1548; amended Pub. L. 107–14, §8(a)(2), (16), June 5, 2001, 115 Stat. 34, 35; Pub. L. 107–103, title V, §509(b), Dec. 27, 2001, 115 Stat. 997; Pub. L. 108–422, title II, §204, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 114–315, title VI, §603(c), Dec. 16, 2016, 130 Stat. 1570; Pub. L. 115–232, div. A, title VIII, §809(n)(1)(C), Aug. 13, 2018, 132 Stat. 1843.)
 
 #### References in Text
 
 Section 1701(10) of this title, referred to in subsec. (a)(5), was repealed by Pub. L. 110–387, title VIII, §801(1), Oct. 10, 2008, 122 Stat. 4140.
 
+Section 491 of title 14, referred to in subsec. (c)(2)(D), was redesignated section 2732 of title 14 by Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 491 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
+
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(2)(D). Pub. L. 115–232 substituted "section 7271, 8291, or 9271 of title 10" for "section 3741, 6241, or 8741 of title 10".
 
 <b>2016</b>—Subsec. (c)(2)(D). Pub. L. 114–315 added subpar. (D).
 
@@ -59,6 +63,10 @@ Section 1701(10) of this title, referred to in subsec. (a)(5), was repealed by P
 Pub. L. 107–14, §8(a)(2), substituted "November 30, 1999" for "on the date of the enactment of the Veterans Millennium Health Care and Benefits Act".
 
 Subsec. (e)(1). Pub. L. 107–14, §8(a)(16), substituted "hereinafter" for "hereafter".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
 
 #### Effective Date of 2004 Amendment
 
@@ -88,7 +96,7 @@ Pub. L. 109–461, title II, §214, Dec. 22, 2006, 120 Stat. 3423, as amended by
 
 "(a)
 
-In General.—Commencing not later than 120 days after the date of the enactment of this Act \[Dec. 22, 2006\], the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of various mechanisms to expand and improve caregiver assistance services.
+In General.—Commencing not later than 120 days after the date of the enactment of this Act \[Dec.22, 2006\], the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of various mechanisms to expand and improve caregiver assistance services.
 
 "(b)
 
@@ -210,7 +218,7 @@ Report.—(1) Not later than nine months after the completion of all of the pilo
 
 &emsp;"(A) A description of the implementation and operation of each such program.
 
-&emsp;"(B) An analysis comparing use of institutional care and use of other services among enrollees in each of the pilot programs with the experience of comparable patients who are not enrolled in one of the pilot programs.
+&emsp;"(B) An analysis comparing use of institutional care and use of other services among enrollees ineach of the pilot programs with the experience of comparable patients who are not enrolled in one of the pilot programs.
 
 &emsp;"(C) An assessment of the satisfaction of participating veterans with each of those programs.
 

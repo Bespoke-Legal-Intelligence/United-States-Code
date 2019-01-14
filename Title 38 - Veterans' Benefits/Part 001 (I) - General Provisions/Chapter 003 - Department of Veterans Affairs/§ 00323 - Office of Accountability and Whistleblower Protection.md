@@ -64,7 +64,7 @@ Reports.—(1)(A) Not later than June 30 of each calendar year, beginning with J
 
 &emsp;(ii) Identification of any issues reported to the Secretary under subsection (c)(1)(G), including such data as the Assistant Secretary considers relevant to such issues and any trends the Assistant Secretary may have identified with respect to such issues.
 
-&emsp;(iii) Identification of such concerns as the Assistant Secretary may have regarding thesize, staffing, and resources of the Office and such recommendations as the Assistant Secretary may have for legislative or administrative action to address such concerns.
+&emsp;(iii) Identification of such concerns as the Assistant Secretary may have regarding the size, staffing, and resources of the Office and such recommendations as the Assistant Secretary may have for legislative or administrative action to address such concerns.
 
 &emsp;(iv) Such recommendations as the Assistant Secretary may have for legislative or administrative action to improve—
 

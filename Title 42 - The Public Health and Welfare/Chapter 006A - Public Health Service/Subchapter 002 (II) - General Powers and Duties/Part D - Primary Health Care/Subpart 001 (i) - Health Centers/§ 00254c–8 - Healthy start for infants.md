@@ -54,7 +54,7 @@ Except to the extent inconsistent with this section, this section may not be con
 
 #### (A) Program administration
 
-&emsp;&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary may reserve up to 5 percent for coordination, dissemination, technical assistance, and data activities that are determined by the Secretary to be appropriate for carrying out the program under this section.
+&emsp;&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary may reserve up to 5 percent for coordination, dissemination, technical assistance, and dataactivities that are determined by the Secretary to be appropriate for carrying out the program under this section.
 
 #### (B) Evaluation
 

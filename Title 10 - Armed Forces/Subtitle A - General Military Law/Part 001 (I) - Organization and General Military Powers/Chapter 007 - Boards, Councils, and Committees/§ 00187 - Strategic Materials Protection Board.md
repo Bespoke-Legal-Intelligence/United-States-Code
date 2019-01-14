@@ -36,7 +36,7 @@ Meetings.—The Board shall meet as determined necessary by the Deputy Assistant
 
 (d)
 
-Reports.—(1) Subject to paragraph (2), after each meeting of the Board, the Board shall prepare a report containing the results of the meeting and such recommendations as the Board determines appropriate. Each such report shall be submitted to the congressional defense committees, together with comments and recommendations from the Secretary of Defense, not later than 90 days after the meeting covered by the report.
+Reports.—(1) Subject to paragraph (2), after each meeting of the Board, the Board shall prepare a report containing the results of themeeting and such recommendations as the Board determines appropriate. Each such report shall be submitted to the congressional defense committees, together with comments and recommendations from the Secretary of Defense, not later than 90 days after the meeting covered by the report.
 
 (2) In any year in which the Board meets more than once, each report prepared by the Board as required by paragraph (1) may be combined into one annual report and submitted as provided by paragraph (1) not later than 90 days after the last meeting of the year.
 
@@ -54,7 +54,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "secure supply", with respect to a material, means the availability of a source or sources for the material, including the full supply chain for the material and components containing the material.
 
-(Added Pub. L. 109–364, div. A, title VIII, §843(a), Oct. 17, 2006, 120 Stat. 2338; amended Pub. L. 111–383, div. A, title VIII, §829, Jan. 7, 2011, 124Stat. 4272; Pub. L. 112–239, div. A, title IX, §901(c), Jan. 2, 2013, 126 Stat. 1864; Pub. L. 114–328, div. A, title X, §1081(a)(2), Dec. 23, 2016, 130 Stat. 2417.)
+(Added Pub. L. 109–364, div. A, title VIII, §843(a), Oct. 17, 2006, 120 Stat. 2338; amended Pub. L. 111–383, div. A, title VIII, §829, Jan. 7, 2011, 124 Stat. 4272; Pub. L. 112–239, div. A, title IX, §901(c), Jan. 2, 2013, 126 Stat. 1864; Pub. L. 114–328, div. A, title X, §1081(a)(2), Dec. 23, 2016, 130 Stat. 2417.)
 
 #### Amendments
 
@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 111–383, §829(a), added subsec. (e).
 
 #### Change of Name
 
-Reference to the Assistant Secretary of the Air Force for Acquisition deemed to be a reference to the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics, see section 934(b) of Pub. L. 114–328, set out as a note under section 8016 of this title.
+Reference to the Assistant Secretary of the Air Force for Acquisition deemed to be a reference to the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics, see section 934(b) of Pub. L. 114–328, set out as a note under section 9016 of this title.
 
 #### First Meeting of Board
 

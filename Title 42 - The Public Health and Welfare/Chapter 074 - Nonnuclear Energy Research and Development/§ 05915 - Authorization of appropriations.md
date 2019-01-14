@@ -28,7 +28,7 @@ Pub. L. 96–126, title II, §201, Nov. 27, 1979, 93 Stat. 970, as amended by Pu
 
 "All payments for obligations and appropriate expenses (including reimbursements to other Government accounts), pursuant to operations of the Secretary under this appropriation shall be paid from the reserve subject to appropriations.
 
-"For the establishment in the Treasury of the United States of a special fund to be designated the 'Solar andConservation Reserve', $1,000,000,000 to remain available until expended: <i>Provided</i>, That these funds shall be available for obligation only to stimulate solar energy and conservation: <i>Provided further</i>, That the withdrawal of said funds shall be subject to the passage of authorizing legislation and only to the extent provided in advance in appropriations Acts."
+"For the establishment in the Treasury of the United States of a special fund to be designated the 'Solar and Conservation Reserve', $1,000,000,000 to remain available until expended: <i>Provided</i>, That these funds shall be available for obligation only to stimulate solar energy and conservation: <i>Provided further</i>, That the withdrawal of said funds shall be subject to the passage of authorizing legislation and only to the extent provided in advance in appropriations Acts."
 
 Additional provisions relating to appropriations for the Energy Security Reserve Fund, purposes for which the Fund is available, and administrative provisions for the Fund and alternative fuels production were contained in the following appropriation Acts:
 

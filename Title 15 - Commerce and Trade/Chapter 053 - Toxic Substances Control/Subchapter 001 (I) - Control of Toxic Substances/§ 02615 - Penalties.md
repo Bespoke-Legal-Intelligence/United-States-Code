@@ -10,7 +10,7 @@
 
 (C) The Administrator may compromise, modify, or remit, with or without conditions, any civil penalty which may be imposed under this subsection. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the person charged.
 
-(3) Any person who requested in accordance with paragraph (2)(A) a hearing respecting the assessment of a civil penalty and who is aggrieved by an order assessing a civil penalty may file a petition for judicial review of such order with the United States Court of Appealsfor the District of Columbia Circuit or for any other circuit in which such person resides or transacts business. Such a petition may only be filed within the 30-day period beginning on the date the order making such assessment was issued.
+(3) Any person who requested in accordance with paragraph (2)(A) a hearing respecting the assessment of a civil penalty and who is aggrieved by an order assessing a civil penalty may file a petition for judicial review of such order with the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business. Such a petition may only be filed within the 30-day period beginning on the date the order making such assessment was issued.
 
 (4) If any person fails to pay an assessment of a civil penalty—
 

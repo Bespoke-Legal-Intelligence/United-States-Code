@@ -16,7 +16,7 @@ National zoological park.—The National Zoological Park comprising all the buil
 
 &emsp;&emsp;(C)
 
-Other smithsonian buildings and grounds.—All other buildings, service roads,walks, and other areas within the exterior boundaries of any real estate or land or interest in land (including temporary use) that the Smithsonian Institution acquires and that the Secretary of the Smithsonian Institution determines to be necessary for the adequate protection of individuals or property in the Smithsonian Institution and suitable for administration as a part of the Smithsonian Institution.
+Other smithsonian buildings and grounds.—All other buildings, service roads, walks, and other areas within the exterior boundaries of any real estate or land or interest in land (including temporary use) that the Smithsonian Institution acquires and that the Secretary of the Smithsonian Institution determines to be necessary for the adequate protection of individuals or property in the Smithsonian Institution and suitable for administration as a part of the Smithsonian Institution.
 
 &emsp;(2)
 

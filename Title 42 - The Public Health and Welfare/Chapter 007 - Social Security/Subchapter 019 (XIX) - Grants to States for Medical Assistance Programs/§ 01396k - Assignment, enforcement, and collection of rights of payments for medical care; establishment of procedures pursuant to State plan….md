@@ -14,15 +14,13 @@
 
 (b) Such part of any amount collected by the State under an assignment made under the provisions of this section shall be retained by the State as is necessary to reimburse it for medical assistance payments made on behalf of an individual with respect to whom such assignment was executed (with appropriate reimbursement of the Federal Government to the extent of its participation in the financing of such medical assistance), and the remainder of such amount collected shall be paid to such individual.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1912, as added Pub. L. 95–142, §11(b), Oct. 25, 1977, 91 Stat. 1196; amended Pub. L. 98–369, div. B, title III, §2367(b), July 18, 1984, 98 Stat. 1109; Pub. L. 99–272, title IX, §9503(e), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–508, title IV, §4606(a), Nov. 5, 1990, 104 Stat. 1388–170; Pub. L. 113–67, div. A, title II, §202(b)(2), Dec. 26, 2013, 127 Stat. 1177.)
-
-#### Amendment of Subsection (a)(1)(A)
-
-<i>Pub. L. 113–67, div. A, title II, §202(b)(2), (c), Dec. 26, 2013, 127 Stat. 1177, as amended by Pub. L. 113–93, title II, §211, Apr. 1, 2014, 128 Stat. 1047; Pub. L. 114–10, title II, §220, Apr. 16, 2015, 129 Stat. 154, provided that, effective Oct. 1, 2017, subsection (a)(1)(A) of this section is amended by striking "payment for medical care from any third party" and inserting "any payment from a third party that has a legal liability to pay for care and services available under the plan". See 2013 Amendment note below. Pub. L. 115–123, div. E, title XII, §53102(b)(1), Feb. 9, 2018, 132 Stat. 298, repealed section 202(b)(2) of Pub. L. 113–67, effective as of Sept. 30, 2017.</i>
+(Aug. 14, 1935, ch. 531, title XIX, §1912, as added Pub. L. 95–142, §11(b), Oct. 25, 1977, 91 Stat. 1196; amended Pub. L. 98–369, div. B, title III, §2367(b), July 18, 1984, 98 Stat. 1109; Pub. L. 99–272, title IX, §9503(e), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–508, title IV, §4606(a), Nov. 5, 1990, 104 Stat. 1388–170; Pub. L. 113–67, div. A, title II, §202(b)(2), Dec. 26, 2013, 127 Stat. 1177; Pub. L. 115–123, div. E, title XII, §53102(b)(1), Feb. 9, 2018, 132 Stat. 298.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(1)(A). Pub. L. 113–67 substituted "any payment from a third party that has a legal liability to pay for care and services available under the plan" for "payment for medical care from any third party".
+<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–123, §53102(b)(1), repealed Pub. L. 113–67, §202(b)(2), and provided that the provisions amended by section 202(b) shall be applied and administered as if such amendment had never been enacted. See 2013 Amendment note below.
+
+<b>2013</b>—Subsec. (a)(1)(A). Pub. L. 113–67, §202(b)(2), which directed substitution of "any payment from a third party that has a legal liability to pay for care and services available under the plan" for "payment for medical care from any third party", was repealed by Pub. L. 115–123, §53102(b)(1).
 
 <b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–508 inserted "the individual is described in section 1396a(l)(1)(A) of this title or" after "unless (in either case)".
 
@@ -30,9 +28,9 @@
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted "State plan for medical assistance shall" for "State plan for medical assistance may".
 
-#### Effective Date of 2013 Amendment
+#### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 113–67 effective Oct. 1, 2017, see section 202(c) of Pub. L. 113–67, set out as a note under section 1396a of this title.
+Pub. L. 115–123, div. E, title XII, §53102(b)(1), Feb. 9, 2018, 132 Stat. 298, provided that the repeal of section 202(b) of Pub. L. 113–67 is effective Sept. 30, 2017, and the provisions amended by section 202(b) shall be applied and administered as if such amendments had never been enacted. In addition, such repeal by section 53102(b)(1) of Pub. L. 115–123 applicable with respect to any open claims, including claims pending, generated, or filed, after Sept. 30, 2017, see section 53102(b)(3) of Pub. L. 115–123, set out as a note under section 1396a of this title.
 
 #### Effective Date of 1990 Amendment
 

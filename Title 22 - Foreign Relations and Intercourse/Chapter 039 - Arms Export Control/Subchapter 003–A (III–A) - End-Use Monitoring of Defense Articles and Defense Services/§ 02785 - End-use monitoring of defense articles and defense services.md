@@ -10,7 +10,7 @@
 
 &emsp;To the extent practicable, such program—
 
-&emsp;&emsp;(A) shall provide for the end-use monitoring of defense articles and defense services in accordance with the standards that apply for identifying high-risk exports for regular end-use verification developed under section 2778(g)(7) of this title (commonly referred to as the "Blue Lantern" program); and
+&emsp;&emsp;(A) shall provide for the end-use monitoring of defense articles and defense services in accordance with the standards that apply for identifying high-risk exports for regularend-use verification developed under section 2778(g)(7) of this title (commonly referred to as the "Blue Lantern" program); and
 
 &emsp;&emsp;(B) shall be designed to provide reasonable assurance that—
 

@@ -12,7 +12,7 @@ Notwithstanding subsection (a), the number of districts may be reduced to a numb
 
 &emsp;(2) pursuant to a decision by the Director to liquidate a Bank pursuant to section 4617 of this title.
 
-(July 22, 1932, ch. 522, §3, 47 Stat. 726; July 14, 1952, ch. 723, §10(c), 66 Stat. 604; Pub. L. 101–73,title VII, §701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, §§1204(8), 1210, July 30, 2008, 122 Stat. 2786, 2790.)
+(July 22, 1932, ch. 522, §3, 47 Stat. 726; July 14, 1952, ch. 723, §10(c), 66 Stat. 604; Pub. L. 101–73, title VII, §701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, §§1204(8), 1210, July 30, 2008, 122 Stat. 2786, 2790.)
 
 #### Amendments
 
@@ -26,7 +26,7 @@ Pub. L. 110–289, §1204(8), substituted "the Director" for "the Board" whereve
 
 #### Admission of Alaska and Hawaii to Statehood
 
-Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat.
+Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73Stat.
 
 c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat.
 

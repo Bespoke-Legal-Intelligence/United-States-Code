@@ -10,7 +10,7 @@ The Secretary shall, by April 1, 1980, establish a program under which—
 
 #### References in Text
 
-Section 300m of this title, referred to in par. (2), was in the original a reference to section 1521 of act July 1, 1944, which was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799. Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410, enacted section 1503 of act July 1, 1944, which is classified to section 300m of this title.
+Section 300m of this title, referred to in par. (2), was in the original a reference to section 1521 of act July 1, 1944, which was repealed effective Jan. 1, 1987, by Pub.L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799. Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410, enacted section 1503 of act July 1, 1944, which is classified to section 300m of this title.
 
 #### Unneeded Hospital Services; Study and Report of Effect of Elimination
 

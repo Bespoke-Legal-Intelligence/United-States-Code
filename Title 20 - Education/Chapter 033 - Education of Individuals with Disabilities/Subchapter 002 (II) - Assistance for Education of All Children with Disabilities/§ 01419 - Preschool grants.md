@@ -24,7 +24,7 @@ A State shall be eligible for a grant under this section if such State—
 
 #### (2) Increase in funds
 
-&emsp;If the amount available for allocations to States under paragraph (1) for a fiscal year is equal to or greater than the amount allocated to the States under this section for the preceding fiscal year, those allocations shall be calculated as follows:
+&emsp;If the amount available for allocations to States under paragraph (1) for a fiscal year isequal to or greater than the amount allocated to the States under this section for the preceding fiscal year, those allocations shall be calculated as follows:
 
 #### (A) Allocation
 
@@ -86,7 +86,7 @@ A State shall be eligible for a grant under this section if such State—
 
 #### (3) Decrease in funds
 
-&emsp;If the amount available for allocations to States under paragraph (1) for a fiscal year isless than the amount allocated to the States under this section for the preceding fiscal year, those allocations shall be calculated as follows:
+&emsp;If the amount available for allocations to States under paragraph (1) for a fiscal year is less than the amount allocated to the States under this section for the preceding fiscal year, those allocations shall be calculated as follows:
 
 #### (A) Allocations
 
@@ -118,7 +118,7 @@ A State shall be eligible for a grant under this section if such State—
 
 #### (1) In general
 
-&emsp;For the purpose of administering this section (including the coordination of activities under this subchapter with, and providing technical assistance to, other programs that provide services to children with disabilities) a State may use not more than 20 percent of the maximum amount the State may reserve under subsection (d) for any fiscal year.
+&emsp;For the purpose of administering this section (including the coordination of activitiesunder this subchapter with, and providing technical assistance to, other programs that provide services to children with disabilities) a State may use not more than 20 percent of the maximum amount the State may reserve under subsection (d) for any fiscal year.
 
 #### (2) Administration of subchapter III
 

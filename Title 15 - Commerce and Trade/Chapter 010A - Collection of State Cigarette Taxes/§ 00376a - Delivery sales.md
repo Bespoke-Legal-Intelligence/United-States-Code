@@ -80,7 +80,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 &emsp;&emsp;(A) any cigarette or smokeless tobacco excise tax that is imposed by the State in which the cigarettes or smokeless tobacco are to be delivered has been paid to the State;
 
-&emsp;&emsp;(B) any cigarette or smokeless tobacco excise tax that is imposed by the local government of the place in which the cigarettes orsmokeless tobacco are to be delivered has been paid to the local government; and
+&emsp;&emsp;(B) any cigarette or smokeless tobacco excise tax that is imposed by the local government of the place in which the cigarettes or smokeless tobacco are to be delivered has been paid to the local government; and
 
 &emsp;&emsp;(C) any required stamps or other indicia that the excise tax has been paid are properly affixed or applied to the cigarettes or smokeless tobacco.
 
@@ -142,7 +142,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 #### (F) Confidentiality
 
-&emsp;&emsp;The list described in subparagraph (A) shall be confidential, and any person receiving the list shall maintain the confidentiality of the list and may deliver the list, for enforcement purposes, to any government official or to any common carrier or other person that delivers tobacco products or small packages to consumers. Nothing inthis section shall prohibit a common carrier, the United States Postal Service, or any other person receiving the list from discussing with a listed delivery seller the inclusion of the delivery seller on the list and the resulting effects on any services requested by the listed delivery seller.
+&emsp;&emsp;The list described in subparagraph (A) shall be confidential, and any person receiving the list shall maintain the confidentiality of the list and may deliver the list, for enforcement purposes, to any government official or to any common carrier or other person that delivers tobacco products or small packages to consumers. Nothing in this section shall prohibit a common carrier, the United States Postal Service, or any other person receiving the list from discussing with a listed delivery seller the inclusion of the delivery seller on the list and the resulting effects on any services requested by the listed delivery seller.
 
 #### (2) Prohibition on delivery
 
@@ -154,7 +154,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 &emsp;&emsp;&emsp;(ii) the delivery is made to a person lawfully engaged in the business of manufacturing, distributing, or selling cigarettes or smokeless tobacco; or
 
-&emsp;&emsp;&emsp;(iii) the package being delivered weighs more than 100 pounds and the person making the delivery does not know or have reasonable cause to believe that the package contains cigarettes or smokeless tobacco.
+&emsp;&emsp;&emsp;(iii) the package being delivered weighs more than 100 pounds and the person making the delivery does not know or havereasonable cause to believe that the package contains cigarettes or smokeless tobacco.
 
 #### (B) Implementation of updates
 

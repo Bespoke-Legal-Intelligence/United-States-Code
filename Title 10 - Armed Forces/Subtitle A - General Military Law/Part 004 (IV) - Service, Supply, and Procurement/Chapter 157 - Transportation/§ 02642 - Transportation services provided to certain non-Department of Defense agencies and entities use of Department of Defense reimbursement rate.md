@@ -28,7 +28,7 @@ Definition.—In this section, the term "Department of Defense reimbursement rat
 
 #### Amendments
 
-<b>2017</b>—Subsec. (a)(3). Pub. L. 115–91, §1081(f), which directed substitution of "September 30" for "October 28" in the amendment made by Pub. L. 113–291, §1044(a)(2)(A), was executed by making the substitution the second place appearing in the quoted language to be stricken by that amendment, to reflect the probable intent of Congress. See 2014 Amendment note below.
+<b>2017</b>—Subsec. (a)(3). Pub. L. 115–91, §1081(f), which directed substitution of "September 30" for "October 28"in the amendment made by Pub. L. 113–291, §1044(a)(2)(A), was executed by making the substitution the second place appearing in the quoted language to be stricken by that amendment, to reflect the probable intent of Congress. See 2014 Amendment note below.
 
 <b>2014</b>—Pub. L. 113–291, §1044(c)(1), amended section catchline generally, substituting "Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate" for "Transportation services provided to certain other agencies: use of Department of Defense reimbursement rate".
 

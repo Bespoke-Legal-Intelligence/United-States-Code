@@ -54,7 +54,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;From the amount made available for allocation under this subparagraph by subparagraph (A)(ii) for any fiscal year—
 
-&emsp;&emsp;&emsp;(i) 85 percent shall be available to eligible institutions described in subsection (a)(1) and shall be made available as grants under section 1062 of this title and allottedamong such institutions under section 1063 of this title, treating such amount, plus the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry out part B of this subchapter, as the amount appropriated to carry out part B of this subchapter for purposes of allotments under section 1063 of this title, for use by such institutions with a priority for—
+&emsp;&emsp;&emsp;(i) 85 percent shall be available to eligible institutions described in subsection (a)(1) and shall be made available as grants under section 1062 of this title and allotted among such institutions under section 1063 of this title, treating such amount, plus the amount appropriated for such fiscal year in a regular or supplemental appropriation Act to carry out part B of this subchapter, as the amount appropriated to carry out part B of this subchapter for purposes of allotments under section 1063 of this title, for use by such institutions with a priority for—
 
 &emsp;&emsp;&emsp;&emsp;(I) activities described in paragraphs (1), (2), (4), (5), and (10) of section 1062(a) of this title; and
 
@@ -120,7 +120,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 #### (3) Enrollment of needy students
 
-&emsp;The term "enrollment of needy students" means the enrollment at an institution of higher education with respect to which not less than 50 percent of the undergraduate students enrolled in an academic program leading to a degree—
+&emsp;The term "enrollment of needy students" means the enrollment at an institution ofhigher education with respect to which not less than 50 percent of the undergraduate students enrolled in an academic program leading to a degree—
 
 &emsp;&emsp;(A) in the second fiscal year preceding the fiscal year for which the determination is made, were Federal Pell Grant recipients for such year;
 
@@ -192,11 +192,11 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;(iii) an annual authorization of appropriations under the Act of March 2, 1867 (14 Stat. 438; 20 U.S.C. 123).
 
-(Pub. L. 89–329, title III, §371, formerly title IV, §499A, as added Pub. L. 110–84, title VIII, §802, Sept. 27, 2007, 121 Stat. 817; renumbered title III, §371, and amended Pub. L. 110–315, title III, §316(a)(3), (b), (c), Aug. 14, 2008, 122 Stat. 3185; Pub. L. 111–39, title III, §301(7), July 1, 2009, 123 Stat. 1937; Pub. L. 111–152, title II, §2103, Mar. 30, 2010, 124 Stat. 1074.)
+(Pub. L. 89–329, title III, §371, formerly title IV, §499A, as added Pub. L. 110–84, title VIII, §802, Sept. 27, 2007, 121 Stat. 817; renumbered title III, §371, and amended Pub. L. 110–315, title III,§316(a)(3), (b), (c), Aug. 14, 2008, 122 Stat. 3185; Pub. L. 111–39, title III, §301(7), July 1, 2009, 123 Stat. 1937; Pub. L. 111–152, title II, §2103, Mar. 30, 2010, 124 Stat. 1074.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(3)(C)(i), is Pub. L. 89–10,Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(3)(C)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Act of March 2, 1867, referred to in subsec. (c)(9)(F)(iii), is act Mar. 2, 1867, ch. 162, 14 Stat. 438. Provisions relating to authorization of appropriations are contained in section 8 of the Act, which is classified to section 123 of this title. For complete classification of this Act to the Code, see Tables.
 

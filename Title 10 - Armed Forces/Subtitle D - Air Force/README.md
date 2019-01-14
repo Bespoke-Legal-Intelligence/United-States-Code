@@ -4,10 +4,10 @@
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
-| [<b>801.</b>](Part%20001%20%28I%29%20-%20Organization/Chapter%20801%20-%20Definitions/README.md) | <b>Definitions. \[No present sections.\]</b> |  |
-| [<b>803.</b>](Part%20001%20%28I%29%20-%20Organization/Chapter%20803%20-%20Department%20of%20the%20Air%20Force/README.md) | <b>Department of the Air Force</b> | <b>8011</b> |
-| [<b>805.</b>](Part%20001%20%28I%29%20-%20Organization/Chapter%20805%20-%20The%20Air%20Staff/README.md) | <b>The Air Staff</b> | <b>8031</b> |
-| [<b>807.</b>](Part%20001%20%28I%29%20-%20Organization/Chapter%20807%20-%20The%20Air%20Force/README.md) | <b>The Air Force</b> | <b>8061</b> |
+| [<b>901.</b>](Part%20001%20%28I%29%20-%20Organization/Chapter%20901%20-%20Definitions/README.md) | <b>Definitions. \[No present sections.\]</b> |  |
+| [<b>903.</b>](Part%20001%20%28I%29%20-%20Organization/Chapter%20903%20-%20Department%20of%20the%20Air%20Force/README.md) | <b>Department of the Air Force</b> | <b>9011</b> |
+| [<b>905.</b>](Part%20001%20%28I%29%20-%20Organization/Chapter%20905%20-%20The%20Air%20Staff/README.md) | <b>The Air Staff</b> | <b>9031</b> |
+| [<b>907.</b>](Part%20001%20%28I%29%20-%20Organization/Chapter%20907%20-%20The%20Air%20Force/README.md) | <b>The Air Force</b> | <b>9061</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -15,30 +15,23 @@
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>831.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20831%20-%20Strength/README.md) | <b>Strength</b> | <b>8201</b> |
-| [<b>833.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20833%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>8251</b> |
-| [<b>835.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20835%20-%20Appointments%20in%20the%20Regular%20Air%20Force/README.md) | <b>Appointments in the Regular Air Force</b> | <b>8281</b> |
-| <b>\[837.</b> | <b>Repealed.\]</b> |  |
-| [<b>839.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20839%20-%20Temporary%20Appointments/README.md) | <b>Temporary Appointments</b> | <b>8441</b> |
-| [<b>841.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20841%20-%20Active%20Duty/README.md) | <b>Active Duty</b> | <b>8491</b> |
-| [<b>843.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20843%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md) | <b>Special Appointments, Assignments, Details, and Duties</b> | <b>8531</b> |
-| [<b>845.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20845%20-%20Rank%20and%20Command/README.md) | <b>Rank and Command</b> | <b>8571</b> |
-| <b>\[847.</b> | <b>Repealed.\]</b> |  |
-| [<b>849.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20849%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties</b> | <b>8631</b> |
-| <b>\[851.</b> | <b>Repealed.\]</b> |  |
-| [<b>853.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20853%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>8681</b> |
-| [<b>855.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20855%20-%20Hospitalization/README.md) | <b>Hospitalization</b> | <b>8721</b> |
-| [<b>857.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20857%20-%20Decorations%20and%20Awards/README.md) | <b>Decorations and Awards</b> | <b>8741</b> |
-| <b>\[859.</b> | <b>Repealed.\]</b> |  |
-| <b>\[860.</b> | <b>Repealed.\]</b> |  |
-| [<b>861.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20861%20-%20Separation%20for%20Various%20Reasons/README.md) | <b>Separation for Various Reasons</b> | <b>8811</b> |
-| <b>\[863.</b> | <b>Repealed.\]</b> |  |
-| <b>\[865.</b> | <b>Repealed.\]</b> |  |
-| [<b>867.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20867%20-%20Retirement%20for%20Length%20of%20Service/README.md) | <b>Retirement for Length of Service</b> | <b>8911</b> |
-| [<b>869.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20869%20-%20Retired%20Grade/README.md) | <b>Retired Grade</b> | <b>8961</b> |
-| [<b>871.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20871%20-%20Computation%20of%20Retired%20Pay/README.md) | <b>Computation of Retired Pay</b> | <b>8991</b> |
-| [<b>873.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20873%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>9021</b> |
-| [<b>875.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20875%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md) | <b>Miscellaneous Investigation Requirements and Other Duties</b> | <b>9061</b> |
+| [<b>911.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20911%20-%20Strength/README.md) | <b>Strength</b> | <b>9110</b> |
+| [<b>913.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20913%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>9131</b> |
+| [<b>915.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20915%20-%20Appointments%20in%20the%20Regular%20Air%20Force/README.md) | <b>Appointments in the Regular Air Force</b> | <b>9151</b> |
+| [<b>919.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20919%20-%20Temporary%20Appointments/README.md) | <b>Temporary Appointments</b> | <b>9176</b> |
+| [<b>921.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20921%20-%20Active%20Duty/README.md) | <b>Active Duty</b> | <b>9191</b> |
+| [<b>923.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20923%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md) | <b>Special Appointments, Assignments, Details, and Duties</b> | <b>9217</b> |
+| [<b>925.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20925%20-%20Rank%20and%20Command/README.md) | <b>Rank and Command</b> | <b>9222</b> |
+| [<b>929.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20929%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties</b> | <b>9239</b> |
+| [<b>933.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20933%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>9251</b> |
+| [<b>935.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20935%20-%20Hospitalization/README.md) | <b>Hospitalization</b> | <b>9263</b> |
+| [<b>937.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20937%20-%20Decorations%20and%20Awards/README.md) | <b>Decorations and Awards</b> | <b>9271</b> |
+| [<b>939.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20939%20-%20Separation%20for%20Various%20Reasons/README.md) | <b>Separation for Various Reasons</b> | <b>9307</b> |
+| [<b>941.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20941%20-%20Retirement%20for%20Length%20of%20Service/README.md) | <b>Retirement for Length of Service</b> | <b>9311</b> |
+| [<b>943.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20943%20-%20Retired%20Grade/README.md) | <b>Retired Grade</b> | <b>9341</b> |
+| [<b>945.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20945%20-%20Computation%20of%20Retired%20Pay/README.md) | <b>Computation of Retired Pay</b> | <b>9361</b> |
+| [<b>947.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20947%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>9371</b> |
+| [<b>949.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20949%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md) | <b>Miscellaneous Investigation Requirements and Other Duties</b> | <b>9381</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -46,11 +39,10 @@
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>901.</b>](Part%20003%20%28III%29%20-%20Training/Chapter%20901%20-%20Training%20Generally/README.md) | <b>Training Generally</b> | <b>9301</b> |
-| [<b>903.</b>](Part%20003%20%28III%29%20-%20Training/Chapter%20903%20-%20United%20States%20Air%20Force%20Academy/README.md) | <b>United States Air Force Academy</b> | <b>9331</b> |
-| <b>\[905.</b> | <b>Repealed.\]</b> |  |
-| [<b>907.</b>](Part%20003%20%28III%29%20-%20Training/Chapter%20907%20-%20Schools%20and%20Camps/README.md) | <b>Schools and Camps</b> | <b>9411</b> |
-| [<b>909.</b>](Part%20003%20%28III%29%20-%20Training/Chapter%20909%20-%20Civil%20Air%20Patrol/README.md) | <b>Civil Air Patrol</b> | <b>9441</b> |
+| [<b>951.</b>](Part%20003%20%28III%29%20-%20Training/Chapter%20951%20-%20Training%20Generally/README.md) | <b>Training Generally</b> | <b>9401</b> |
+| [<b>953.</b>](Part%20003%20%28III%29%20-%20Training/Chapter%20953%20-%20United%20States%20Air%20Force%20Academy/README.md) | <b>United States Air Force Academy</b> | <b>9431</b> |
+| [<b>957.</b>](Part%20003%20%28III%29%20-%20Training/Chapter%20957%20-%20Schools%20and%20Camps/README.md) | <b>Schools and Camps</b> | <b>9481</b> |
+| [<b>959.</b>](Part%20003%20%28III%29%20-%20Training/Chapter%20959%20-%20Civil%20Air%20Patrol/README.md) | <b>Civil Air Patrol</b> | <b>9491</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -58,22 +50,24 @@
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>931.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20931%20-%20Civil%20Reserve%20Air%20Fleet/README.md) | <b>Civil Reserve Air Fleet</b> | <b>9511</b> |
-| [<b>933.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20933%20-%20Procurement/README.md) | <b>Procurement</b> | <b>9531</b> |
-| [<b>935.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20935%20-%20Issue%20of%20Serviceable%20Material%20to%20Armed%20Forces/README.md) | <b>Issue of Serviceable Material to Armed Forces</b> | <b>9561</b> |
-| [<b>937.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20937%20-%20Utilities%20and%20Services/README.md) | <b>Utilities and Services</b> | <b>9591</b> |
-| [<b>939.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20939%20-%20Sale%20of%20Serviceable%20Material/README.md) | <b>Sale of Serviceable Material</b> | <b>9621</b> |
-| [<b>941.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20941%20-%20Issue%20of%20Serviceable%20Material%20Other%20Than%20to%20Armed%20Forces/README.md) | <b>Issue of Serviceable Material other than to Armed Forces</b> | <b>9651</b> |
-| [<b>943.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20943%20-%20Disposal%20of%20Obsolete%20or%20Surplus%20Material/README.md) | <b>Disposal of Obsolete or Surplus Material</b> | <b>9681</b> |
-| [<b>945.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20945%20-%20Disposition%20of%20Effects%20of%20Deceased%20Persons/README.md) | <b>Disposition of Effects of Deceased Persons</b> | <b>9712</b> |
-| [<b>947.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20947%20-%20Transportation/README.md) | <b>Transportation</b> | <b>9741</b> |
-| [<b>949.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20949%20-%20Real%20Property/README.md) | <b>Real Property</b> | <b>9771</b> |
-| [<b>951.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20951%20-%20Military%20Claims/README.md) | <b>Military Claims</b> | <b>9801</b> |
-| [<b>953.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20953%20-%20Accountability%20and%20Responsibility/README.md) | <b>Accountability and Responsibility</b> | <b>9831</b> |
+| [<b>961.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20961%20-%20Civil%20Reserve%20Air%20Fleet/README.md) | <b>Civil Reserve Air Fleet</b> | <b>9511</b> |
+| [<b>963.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20963%20-%20Procurement/README.md) | <b>Procurement</b> | <b>9531</b> |
+| [<b>965.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20965%20-%20Issue%20of%20Serviceable%20Material%20to%20Armed%20Forces/README.md) | <b>Issue of Serviceable Material to Armed Forces</b> | <b>9561</b> |
+| [<b>967.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20967%20-%20Utilities%20and%20Services/README.md) | <b>Utilities and Services</b> | <b>9591</b> |
+| [<b>969.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20969%20-%20Sale%20of%20Serviceable%20Material/README.md) | <b>Sale of Serviceable Material</b> | <b>9621</b> |
+| [<b>971.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20971%20-%20Issue%20of%20Serviceable%20Material%20Other%20Than%20to%20Armed%20Forces/README.md) | <b>Issue of Serviceable Material other than to Armed Forces</b> | <b>9651</b> |
+| [<b>973.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20973%20-%20Disposal%20of%20Obsolete%20or%20Surplus%20Material/README.md) | <b>Disposal of Obsolete or Surplus Material</b> | <b>9681</b> |
+| [<b>975.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20975%20-%20Disposition%20of%20Effects%20of%20Deceased%20Persons/README.md) | <b>Disposition of Effects of Deceased Persons</b> | <b>9712</b> |
+| [<b>977.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20977%20-%20Transportation/README.md) | <b>Transportation</b> | <b>9741</b> |
+| [<b>979.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20979%20-%20Real%20Property/README.md) | <b>Real Property</b> | <b>9771</b> |
+| [<b>981.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20981%20-%20Military%20Claims/README.md) | <b>Military Claims</b> | <b>9801</b> |
+| [<b>983.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20983%20-%20Accountability%20and%20Responsibility/README.md) | <b>Accountability and Responsibility</b> | <b>9831</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 801 to 953 as 901 to 983 and redesignated section numbers 8011 to 9831 as 9011 to 9831. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title XII, §1241(o)(8), Dec. 23, 2016, 130 Stat. 2512, struck out item for chapter 905 "Aviation Leadership Program".
 

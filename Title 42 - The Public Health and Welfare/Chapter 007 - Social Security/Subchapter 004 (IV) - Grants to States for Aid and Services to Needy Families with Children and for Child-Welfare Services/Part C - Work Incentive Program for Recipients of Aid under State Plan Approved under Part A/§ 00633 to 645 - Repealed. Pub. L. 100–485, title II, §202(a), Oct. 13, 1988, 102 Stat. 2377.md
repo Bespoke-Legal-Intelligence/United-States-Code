@@ -1,6 +1,6 @@
 ### §§633 to 645. Repealed. Pub. L. 100–485, title II, §202(a), Oct. 13, 1988, 102 Stat. 2377
 
-Section 633, act Aug. 14, 1935, ch. 531, title IV, §433, as added Jan. 2, 1968, Pub. L. 90–248, title II, §204(a), 81 Stat. 885; amended Dec. 28, 1971, Pub. L. 92–223, §3(b)(4)(A)–(F), 85 Stat. 806, 807; Oct. 13, 1982, Pub. L. 97–300, title V, §502(b)(2), (c)(2), (3), 96 Stat. 1398; July18, 1984, Pub. L. 98–369, div. B, title VI, §2663(k), 98 Stat. 1171, related to operation of programs.
+Section 633, act Aug. 14, 1935, ch. 531, title IV, §433, as added Jan. 2, 1968, Pub. L. 90–248, title II, §204(a), 81 Stat. 885; amended Dec. 28, 1971, Pub. L. 92–223, §3(b)(4)(A)–(F), 85 Stat. 806, 807; Oct. 13, 1982, Pub. L. 97–300, title V, §502(b)(2), (c)(2), (3), 96 Stat. 1398; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(k), 98 Stat. 1171, related to operation of programs.
 
 Section 634, act Aug. 14, 1935, ch. 531, title IV, §434, as added Jan. 2, 1968, Pub. L. 90–248, title II, §204(a), 81 Stat. 887; amended Dec. 28, 1971, Pub. L. 92–223, §3(b)(4)(G), 85 Stat. 808; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(k), 98 Stat. 1171, related to incentive payments and allowances for transportation and other costs.
 

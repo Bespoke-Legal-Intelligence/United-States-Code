@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Of the amounts appropriated under the grant programs identified in paragraph (2), the Attorney General shall take 2 percent of such appropriated amounts and combine them to award grants to eligible entities described in subsection (b) of this section to develop and implement outreach strategies targeted at adult or youth victims of domestic violence, dating violence, sexual assault, or stalking in underserved populations and to provide victim services to meet the needs of adult and youthvictims of domestic violence, dating violence, sexual assault, and stalking in underserved populations. The requirements of the grant programs identified in paragraph (2) shall not apply to this grant program.
+&emsp;Of the amounts appropriated under the grant programs identified in paragraph (2), the Attorney General shall take 2 percent of such appropriated amounts and combine them to award grants to eligible entities described in subsection (b) of this section to develop and implement outreach strategies targeted at adult or youth victims of domestic violence, dating violence, sexual assault, or stalking in underserved populations and to provide victim services to meet the needs of adult and youth victims of domestic violence, dating violence, sexual assault, and stalking in underserved populations. The requirements of the grant programs identified in paragraph (2) shall not apply to this grant program.
 
 #### (2) Programs covered
 
@@ -82,5 +82,5 @@ Subsec. (i). Pub. L. 109–271, §1(c)(2), added subsec. (i).
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, seesection 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
 

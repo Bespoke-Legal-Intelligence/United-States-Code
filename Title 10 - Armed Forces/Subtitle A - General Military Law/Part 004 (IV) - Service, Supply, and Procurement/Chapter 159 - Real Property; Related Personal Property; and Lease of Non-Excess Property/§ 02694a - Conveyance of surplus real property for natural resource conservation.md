@@ -2,7 +2,7 @@
 
 (a)
 
-Authority to Convey.—The Secretary of a military department may convey to an eligibleentity described in subsection (b) any surplus real property that—
+Authority to Convey.—The Secretary of a military department may convey to an eligible entity described in subsection (b) any surplus real property that—
 
 &emsp;(1) is under the administrative control of the Secretary;
 
@@ -50,7 +50,7 @@ Consideration.—In fixing the consideration for the conveyance of real property
 
 (h)
 
-Relation to Other Conveyance Authorities.—(1) The Secretary concerned may not make a conveyance under this section of any real property to be disposed of under a base closure law in a manner that is inconsistent with the requirements and conditions of the base closure law.
+Relation to Other Conveyance Authorities.—(1) The Secretary concerned may notmake a conveyance under this section of any real property to be disposed of under a base closure law in a manner that is inconsistent with the requirements and conditions of the base closure law.
 
 (2) In the case of real property on Guam, the Secretary concerned may not make a conveyance under this section unless the Government of Guam has been first afforded the opportunity to acquire the real property as authorized by section 1 of Public Law 106–504 (114 Stat. 2309).
 
@@ -72,7 +72,7 @@ Section 1 of Public Law 106–504 (114 Stat. 2309), referred to in subsec. (h)(2
 
 #### Amendments
 
-<b>2017</b>—Subsec. (e). Pub. L. 115–91 added subsec. (e) and struck out former subsec. (e). Prior to amendment, textread as follows: "The Secretary concerned may not approve of the reconveyance of real property under subsection (c) or grant the release of a covenant under subsection (d) until the Secretary notifies the appropriate committees of Congress of the proposed reconveyance or release and a period of 21 days elapses from the date the notification is received by the committees or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title."
+<b>2017</b>—Subsec. (e). Pub. L. 115–91 added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "The Secretary concerned may not approve of the reconveyance of real property under subsection (c) or grant the release of a covenant under subsection (d) until the Secretary notifies the appropriate committees of Congress of the proposed reconveyance or release and a period of 21 days elapses from the date the notification is received by the committees or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title."
 
 <b>2011</b>—Subsec. (e). Pub. L. 111–383 inserted before period at end "or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title".
 

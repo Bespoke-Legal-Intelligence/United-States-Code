@@ -126,11 +126,11 @@ Availability of RDT\&E Funds for Fiscal Year 2009.—Upon approval by the Secret
 
 Full Funding Requirement Not Applicable to Use of Procurement Funds for Fiscal Years 2009
 
-and 2010.—In any case in which funds appropriated pursuant to an authorization of appropriations or otherwise made available for procurement for the Missile Defense Agency for fiscal years 2009 and 2010 are used for the fielding of ballistic missile defense capabilities, the funds may be used for the fielding of those capabilities on an 'incremental' basis, notwithstanding any law or policy of the Department of Defense that would otherwise require a 'full funding' basis.
+and 2010.—In any case in which funds appropriated pursuant to an authorization of appropriations or otherwise made available for procurement for the Missile DefenseAgency for fiscal years 2009 and 2010 are used for the fielding of ballistic missile defense capabilities, the funds may be used for the fielding of those capabilities on an 'incremental' basis, notwithstanding any law or policy of the Department of Defense that would otherwise require a 'full funding' basis.
 
 "(e)
 
-Relationship to Other Law.—Nothing in this provision shall be construed to alter or otherwise affect in any way the applicability of the requirements and other provisions of section 234(a) through (d) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 1837; 10 U.S.C. 2431 note).
+Relationship to Other Law.—Nothing in this provision shall be construed to alter or otherwise affect in any way the applicability of the requirements and other provisions of section 234(a) through (d) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 1837; \[former\] 10 U.S.C. 2431 note).
 
 "(f)
 
@@ -142,17 +142,5 @@ Pub. L. 107–314, div. A, title II, §225(a), Dec. 2, 2002, 116 Stat. 2486, pro
 
 #### Cooperative Ballistic Missile Defense Program Element
 
-Pub. L. 105–85, div. A, title II, §233, Nov. 18, 1997, 111 Stat. 1663, as amended by Pub. L. 107–314, div. A, title II, §225(b)(4)(A), Dec. 2, 2002, 116 Stat. 2486, provided that:
-
-"(a)
-
-Requirement for New Program Element.—The Secretary of Defense shall establish a program element for the Missile Defense Agency, to be referred to as the 'Cooperative Ballistic Missile Defense Program', to support technical and analytical cooperative efforts between the United States and other nations that contribute to United States ballistic missile defense capabilities. Except as provided in subsection (b), all international cooperative ballistic missile defense programs of the Department of Defense shall be budgeted and administered through that program element.
-
-"(b)
-
-Authority for Exceptions.—The Secretary of Defense may exclude from the program element established pursuant to subsection (a) any international cooperative ballistic missile defense program of the Department of Defense that after the date of the enactment of this Act \[Nov. 18, 1997\] is designated by the Secretary of Defense (pursuant to applicable Department of Defense acquisition regulations and policy) to be managed as a separate acquisition program.
-
-"(c)
-
-Relationship to Other Program Elements.—The program element established pursuant to subsection (a) is in addition to the program elements for activities of the Missile Defense Agency required under section 251 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 233; \[former\] 10 U.S.C. 221 note)."
+Pub. L. 105–85, div. A, title II, §233, Nov. 18, 1997, 111 Stat. 1663, as amended by Pub. L. 107–314, div. A, title II, §225(b)(4)(A), Dec. 2, 2002, 116 Stat. 2486, directed the Secretary of Defense to establish the Cooperative Ballistic Missile Defense Program to support cooperative efforts between the United States and other nations that contributed to United States ballistic missile defense capabilities.
 

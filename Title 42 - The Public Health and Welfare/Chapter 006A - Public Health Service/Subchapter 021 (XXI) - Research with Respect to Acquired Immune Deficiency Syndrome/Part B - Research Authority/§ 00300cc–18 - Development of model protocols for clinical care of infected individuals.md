@@ -42,7 +42,7 @@ The Secretary may not make a grant under subsection (a) unless the applicant for
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1989 through 1991, and such sums as may be necessary for each of the fiscal years 1994 through 1996.
 
-(July 1, 1944, ch. 373, title XXIII, §2318, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3073; amended Pub. L. 103–43, title XVIII, §1811(4), title XX, §2008(d)(5), June 10, 1993, 107 Stat. 199, 212; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
+(July 1, 1944, ch. 373, title XXIII, §2318, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3073; amended Pub. L. 103–43, title XVIII,§1811(4), title XX, §2008(d)(5), June 10, 1993, 107 Stat. 199, 212; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
 
 #### Amendments
 

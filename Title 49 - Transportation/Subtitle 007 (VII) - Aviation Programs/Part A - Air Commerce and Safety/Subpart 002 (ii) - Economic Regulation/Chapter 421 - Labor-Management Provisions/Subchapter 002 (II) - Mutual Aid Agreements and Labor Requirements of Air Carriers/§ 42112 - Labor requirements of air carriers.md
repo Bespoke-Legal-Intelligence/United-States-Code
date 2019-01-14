@@ -78,7 +78,7 @@ Labor Integration.—With respect to any covered transaction involving two or mo
 
 &emsp;"(1) if the same collective bargaining agent represents the combining crafts or classes at each of the covered air carriers, that collective bargaining agent's internal policies regarding integration, if any, will not be affected by and will supersede the requirements of this section; and
 
-&emsp;"(2) the requirements of any collective bargaining agreement that may be applicable to the terms of integration involving covered employees of a coveredair carrier shall not be affected by the requirements of this section as to the employees covered by that agreement, so long as those provisions allow for the protections afforded by sections 3 and 13 of the Allegheny-Mohawk provisions.
+&emsp;"(2) the requirements of any collective bargaining agreement that may be applicable to the terms of integration involving covered employees of a covered air carrier shall not be affected by the requirements of this section as to the employees covered by that agreement, so long as those provisions allow for the protections afforded by sections 3 and 13 of the Allegheny-Mohawk provisions.
 
 "(b)
 

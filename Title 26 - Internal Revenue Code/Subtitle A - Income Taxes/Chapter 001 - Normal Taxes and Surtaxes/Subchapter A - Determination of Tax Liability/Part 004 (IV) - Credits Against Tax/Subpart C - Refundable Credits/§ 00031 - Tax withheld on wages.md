@@ -40,7 +40,7 @@ Pub. L. 97–448 amended subsec. (d) generally. See 1982 Amendment note below.
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title VII, §715, July 18, 1984, 98 Stat. 966, provided that: "Any amendment made by this subtitle \[subtitle A (§§711–715) of title VII of Pub. L. 98–369, see Tables for classification\] shall take effect as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\] to which such amendment relates."
+Pub. L. 98–369, div. A, title VII, §715, July 18, 1984, 98 Stat. 966, provided that: "Any amendment made by thissubtitle \[subtitle A (§§711–715) of title VII of Pub. L. 98–369, see Tables for classification\] shall take effect as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\] to which such amendment relates."
 
 #### Effective Date of 1983 Amendment
 
@@ -52,7 +52,7 @@ General Rule.—Except as otherwise provided in this section, the amendments mad
 
 "(b)
 
-Section 102.—The amendments made by section 102 \[amending this section and sections 274, 275, 643, 661, 3403, 3502, 3507, 6013, 6015, 6042, 6044, 6049, 6051, 6365, 6401,6413, 6654, 6682, 7205, 7215, 7654, and 7701 of this title, repealing sections 3451 to 3456 of this title, enacting provisions set out as a note under section 3451 of this title, and repealing provisions set out as a note under section 3451 of this title\] shall take effect as of the close of June 30, 1983.
+Section 102.—The amendments made by section 102 \[amending this section and sections 274, 275, 643, 661, 3403, 3502, 3507, 6013, 6015, 6042, 6044, 6049, 6051, 6365, 6401, 6413, 6654, 6682, 7205, 7215, 7654, and 7701 of this title, repealing sections 3451 to 3456 of this title, enacting provisions set out as a note under section 3451 of this title, and repealing provisions set out as a note under section 3451 of this title\] shall take effect as of the close of June 30, 1983.
 
 "(c)
 

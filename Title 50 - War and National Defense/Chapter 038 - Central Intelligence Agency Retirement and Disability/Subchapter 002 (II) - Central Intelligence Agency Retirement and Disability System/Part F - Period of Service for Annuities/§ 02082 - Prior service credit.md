@@ -110,7 +110,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section (except paragraph (3) of this subsection) or section 2083 of this title, any military service (other than military service covered by military leave with pay from a civilian position) performed by a participant after December 1956 shall be excluded in determining the aggregate period of service on which an annuity payable under this subchapter to such participant or to the participant's spouse, former spouse, previous spouse, or child is based, if such participant, spouse, former spouse, previous spouse, or child is entitled (or would upon proper application be entitled), at the time of such determination, to monthly old-age or survivors' insurance benefits under section 402 of title 42, based on such participant's wages and self-employment income. If the military service is not excluded under the preceding sentence, but upon attaining age 62, the participant or spouse, former spouse, or previous spouse becomes entitled (or would upon proper application be entitled) to such benefits, the aggregate period of service on which the annuity is based shall be redetermined, effective as of the first day of the month in which the participant or spouse, former spouse, or previous spouse attains age 62, so as to exclude such service.
+&emsp;Notwithstanding any other provision of this section (except paragraph (3) of this subsection) or section 2083 of this title, any military service (other than military service covered by military leave with pay from a civilian position) performed by a participant after December 1956 shall be excluded in determining the aggregate period of service on which an annuity payable under this subchapter to such participant or to the participant's spouse, former spouse, previous spouse, or child is based, if such participant, spouse, former spouse, previous spouse, or child is entitled (or would upon proper application be entitled), atthe time of such determination, to monthly old-age or survivors' insurance benefits under section 402 of title 42, based on such participant's wages and self-employment income. If the military service is not excluded under the preceding sentence, but upon attaining age 62, the participant or spouse, former spouse, or previous spouse becomes entitled (or would upon proper application be entitled) to such benefits, the aggregate period of service on which the annuity is based shall be redetermined, effective as of the first day of the month in which the participant or spouse, former spouse, or previous spouse attains age 62, so as to exclude such service.
 
 #### (2) Limitation
 
@@ -169,7 +169,7 @@ Chapter 67 of title 10, referred to in subsec. (e)(3)(B), was transferred to par
 
 #### Prior Provisions
 
-A prior section 252 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050; Pub. L. 91–626, §§5, 6, Dec. 31, 1970, 84 Stat. 1872; Pub. L. 94–522, title II, §211, Oct. 17, 1976, 90 Stat. 2471; Ex. Ord. No. 12443, §§9–11, 15, Sept. 27, 1983, 48 F.R. 44753, 44755; Ex. Ord. No. 12485, July 13, 1984, 49 F.R. 28827; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, related to prior service credit and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 252 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050; Pub. L. 91–626, §§5, 6, Dec. 31, 1970, 84Stat. 1872; Pub. L. 94–522, title II, §211, Oct. 17, 1976, 90 Stat. 2471; Ex. Ord. No. 12443, §§9–11, 15, Sept. 27, 1983, 48 F.R. 44753, 44755; Ex. Ord. No. 12485, July 13, 1984, 49 F.R. 28827; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, related to prior service credit and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 
@@ -184,6 +184,10 @@ Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 an
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a note under section 8334 of Title 5, Government Organization and Employees.
+
+#### Effective Date
+
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

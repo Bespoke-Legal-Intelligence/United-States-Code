@@ -18,7 +18,7 @@ Persons Considered by Promotion Boards in Unfair Manner.—(1) If the Secretary 
 
 (2) A special selection board convened under paragraph (1) shall consider the record of the person whose name was referred to it for consideration as that record, if corrected, would have appeared to the board that considered him. That record shall be compared with the records of a sampling of those officers of the same competitive category who were recommended for promotion, and those officers who were not recommended for promotion, by the board that considered him.
 
-(3) If a special selection board convened under paragraph (1) does not recommend for promotion a person whose name was referred to it for consideration, the person incurs no additional failure of selection for promotion.
+(3) If a special selection board convened under paragraph (1) does not recommend for promotiona person whose name was referred to it for consideration, the person incurs no additional failure of selection for promotion.
 
 (c)
 
@@ -78,7 +78,7 @@ Judicial Review.—(1)(A) A court of the United States may review a determinatio
 
 (h)
 
-Limitations of Other Jurisdiction.—No official or court of the United States may, with respect to a claim based to any extent on the failure of a person to be selected for promotion by a promotion board—
+Limitations of Other Jurisdiction.—No official or court of the United States may, withrespect to a claim based to any extent on the failure of a person to be selected for promotion by a promotion board—
 
 &emsp;(1) consider the claim unless the person has first been referred by the Secretary concerned to a special selection board convened under this section and acted upon by that board and the report of the board has been approved by the President; or
 
@@ -146,7 +146,7 @@ Subsec. (c). Pub. L. 105–261, §501(c)(1)(A), inserted heading.
 
 Subsec. (c)(1). Pub. L. 105–261, §501(c)(1)(B), substituted "person" for "officer" in two places.
 
-Subsec. (c)(2). Pub. L. 105–261, §501(c)(1)(C), inserted at end "However, in the case of a board convened under this section to consider a warrant officer or former warrant officer, the provisions of sections 576(d) and 576(f) of this title (rather than the provisions of section 617(b) and 618 of this title) apply to the report and proceedings of the board in the same manner as they apply to the report and proceedings of a selection board convened under section 573 of this title."
+Subsec. (c)(2). Pub. L. 105–261, §501(c)(1)(C), inserted at end "However, in the case of a board convened underthis section to consider a warrant officer or former warrant officer, the provisions of sections 576(d) and 576(f) of this title (rather than the provisions of section 617(b) and 618 of this title) apply to the report and proceedings of the board in the same manner as they apply to the report and proceedings of a selection board convened under section 573 of this title."
 
 Subsec. (d). Pub. L. 105–261, §501(c)(2)(A), inserted heading.
 

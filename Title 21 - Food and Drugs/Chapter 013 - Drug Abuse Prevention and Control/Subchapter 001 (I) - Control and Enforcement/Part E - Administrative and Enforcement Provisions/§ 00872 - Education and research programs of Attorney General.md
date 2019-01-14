@@ -102,7 +102,7 @@ Basic clandestine laboratory certification training.—A program of basic clande
 
 &emsp;"(3)
 
-Clandestine laboratory recertification and awareness training.—A program of clandestine laboratory recertification and awareness training, which shall provide information and training to State and local law enforcement personnel for purposes of enabling such personnel to provide recertification and awareness training relating to clandestine laboratories to additional State and local law enforcement personnel.
+Clandestine laboratory recertification and awareness training.—A program of clandestine laboratory recertification and awareness training, whichshall provide information and training to State and local law enforcement personnel for purposes of enabling such personnel to provide recertification and awareness training relating to clandestine laboratories to additional State and local law enforcement personnel.
 
 "(c)
 

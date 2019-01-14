@@ -1,0 +1,100 @@
+### §16313. Solar Fuels Research Initiative
+
+#### (a) Initiative
+
+#### (1) In general
+
+&emsp;The Secretary shall carry out a research initiative, to be known as the "Solar Fuels Research Initiative" (referred to in this section as the "Initiative") to expand theoretical and fundamental knowledge of photochemistry, electrochemistry, biochemistry, and materials science useful for the practical development of experimental systems to convert solar energy to chemical energy.
+
+#### (2) Leveraging
+
+&emsp;In carrying out programs and activities under the Initiative, the Secretary shall leverage expertise and resources from—
+
+&emsp;&emsp;(A) the Basic Energy Sciences Program and the Biological and Environmental Research Program of the Office of Science; and
+
+&emsp;&emsp;(B) the Office of Energy Efficiency and Renewable Energy.
+
+#### (3) Teams
+
+#### (A) In general
+
+&emsp;&emsp;In carrying out the Initiative, the Secretary shall organize activities among multidisciplinary teams to leverage, to the maximum extent practicable, expertise from the National Laboratories, institutions of higher education, and the private sector.
+
+#### (B) Goals
+
+&emsp;&emsp;The multidisciplinary teams described in subparagraph (A) shall pursue aggressive, milestone-driven, basic research goals.
+
+#### (C) Resources
+
+&emsp;&emsp;The Secretary shall provide sufficient resources to the multidisciplinary teams described in subparagraph (A) to achieve the goals described in subparagraph (B) over a period of time to be determined by the Secretary.
+
+#### (4) Additional activities
+
+&emsp;The Secretary may organize additional activities under this subsection through Energy Frontier Research Centers, Energy Innovation Hubs, or other organizational structures.
+
+#### (b) Artificial photosynthesis
+
+#### (1) In general
+
+&emsp;The Secretary shall carry out under the Initiative a program to support research needed to bridge scientific barriers to, and discover knowledge relevant to, artificial photosynthetic systems.
+
+#### (2) Activities
+
+&emsp;As part of the program described in paragraph (1)—
+
+&emsp;&emsp;(A) the Director of the Office of Basic Energy Sciences shall support basic research to pursue distinct lines of scientific inquiry, including—
+
+&emsp;&emsp;&emsp;(i) photoinduced production of hydrogen and oxygen from water; and
+
+&emsp;&emsp;&emsp;(ii) the sustainable photoinduced reduction of carbon dioxide to fuel products including hydrocarbons, alcohols, carbon monoxide, and natural gas; and
+
+&emsp;&emsp;(B) the Assistant Secretary for Energy Efficiency and Renewable Energy shall support translational research, development, and validation of physical concepts developed under the program.
+
+#### (3) Standard of review
+
+&emsp;The Secretary shall review activities carried out under the program described in paragraph\(1) to determine the achievement of technical milestones.
+
+#### (4) Prohibition
+
+&emsp;No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
+
+#### (c) Biochemistry, replication of natural photosynthesis, and related processes
+
+#### (1) In general
+
+&emsp;The Secretary shall carry out under the Initiative a program to support research needed to replicate natural photosynthetic processes by use of artificial photosynthetic components and materials.
+
+#### (2) Activities
+
+&emsp;As part of the program described in paragraph (1)—
+
+&emsp;&emsp;(A) the Director of the Office of Basic Energy Sciences shall support basic research to expand fundamental knowledge to replicate natural synthesis processes, including—
+
+&emsp;&emsp;&emsp;(i) the photoinduced reduction of dinitrogen to ammonia;
+
+&emsp;&emsp;&emsp;(ii) the absorption of carbon dioxide from ambient air;
+
+&emsp;&emsp;&emsp;(iii) molecular-based charge separation and storage;
+
+&emsp;&emsp;&emsp;(iv) photoinitiated electron transfer; and
+
+&emsp;&emsp;&emsp;(v) catalysis in biological or biomimetic systems;
+
+&emsp;&emsp;(B) the Associate Director of Biological and Environmental Research shall support systems biology and genomics approaches to understand genetic and physiological pathways connected to photosynthetic mechanisms; and
+
+&emsp;&emsp;(C) the Assistant Secretary for Energy Efficiency and Renewable Energy shall support translational research, development, and validation of physical concepts developed under the program.
+
+#### (3) Standard of review
+
+&emsp;The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
+
+#### (4) Prohibition
+
+&emsp;No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
+
+(Pub. L. 109–58, title IX, §973, Aug. 8, 2005, 119 Stat. 902; Pub. L. 115–246, title III, §303(d)(1), Sept. 28, 2018, 132 Stat. 3141.)
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–246 amended section generally. Prior to amendment, section related to catalysis research program.
+

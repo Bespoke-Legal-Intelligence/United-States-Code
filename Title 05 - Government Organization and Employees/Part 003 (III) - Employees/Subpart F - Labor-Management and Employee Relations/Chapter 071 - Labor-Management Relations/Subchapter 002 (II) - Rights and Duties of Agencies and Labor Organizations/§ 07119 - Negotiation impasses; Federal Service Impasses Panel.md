@@ -1,6 +1,6 @@
 ### §7119. Negotiation impasses; Federal Service Impasses Panel
 
-(a) The Federal Mediation and Conciliation Service shall provide services and assistance to agencies and exclusive representatives in the resolution of negotiation impasses. The Serviceshall determine under what circumstances and in what manner it shall provide services and assistance.
+(a) The Federal Mediation and Conciliation Service shall provide services and assistance to agencies and exclusive representatives in the resolution of negotiation impasses. The Service shall determine under what circumstances and in what manner it shall provide services and assistance.
 
 (b) If voluntary arrangements, including the services of the Federal Mediation and Conciliation Service or any other third-party mediation, fail to resolve a negotiation impasse—
 

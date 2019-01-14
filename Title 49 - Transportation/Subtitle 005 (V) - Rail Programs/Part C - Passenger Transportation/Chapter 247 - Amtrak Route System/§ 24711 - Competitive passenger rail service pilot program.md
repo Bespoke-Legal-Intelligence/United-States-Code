@@ -70,7 +70,7 @@ Access to Facilities; Employees.—If the Secretary awards the right and obligat
 
 &emsp;(2) an employee of any person, except as provided in a collective bargaining agreement, used by such eligible petitioner in the operation of a route under this section shall be considered an employee of that eligible petitioner and subject to the applicable Federal laws and regulations governing similar crafts or classes of employees of Amtrak; and
 
-&emsp;(3) the winning bidder shall provide hiring preference to qualified Amtrak employees displaced by the award of the bid, consistent with the staffing plan submitted by the bidder, and shall be subject to the grant conditions under section 24405.
+&emsp;(3) the winning bidder shall provide hiring preference to qualified Amtrak employees displaced by the award of the bid, consistent with the staffing plan submitted by the bidder, and shall be subject to the grant conditions under section 22905.
 
 (d)
 
@@ -118,7 +118,7 @@ Petitioning surface transportation board.—If Amtrak and the eligible petitione
 
 &emsp;(2)
 
-Surface transportation board determination.—If the Surface Transportation Board determines access to Amtrak's facilities or equipment, or the provision of services by Amtrak, is necessary under paragraph (1)(A) and the operation of Amtrak's other services will not be unreasonably impaired under paragraph (1)(B), the Board shall issue an order that—
+Surface transportation board determination.—If the Surface Transportation Board determines access to Amtrak's facilities or equipment, or the provision of services byAmtrak, is necessary under paragraph (1)(A) and the operation of Amtrak's other services will not be unreasonably impaired under paragraph (1)(B), the Board shall issue an order that—
 
 &emsp;&emsp;(A) requires Amtrak to provide the applicable facilities, equipment, and services; and
 
@@ -136,7 +136,7 @@ Preservation of Right to Competition on State-Supported Routes.—Nothing in thi
 
 Savings Clause.—Nothing in this section shall affect Amtrak's access rights to railroad rights-of-way and facilities.
 
-(Added Pub. L. 110–432, div. B, title II, §214(a), Oct. 16, 2008, 122 Stat. 4927; amended Pub. L. 114–94, div. A, title XI, §11307(a), Dec. 4, 2015, 129 Stat. 1660.)
+(Added Pub. L. 110–432, div. B, title II, §214(a), Oct. 16, 2008, 122 Stat. 4927; amended Pub. L. 114–94, div. A, title XI, §11307(a), Dec. 4, 2015, 129 Stat. 1660; Pub. L. 115–420, §7(b)(3)(A)(i)(III), Jan. 3, 2019, 132 Stat. 5447.)
 
 #### References in Text
 
@@ -145,6 +145,8 @@ The date of enactment of the Passenger Rail Reform and Investment Act of 2015, r
 Section 11101 of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (e), is section 11101 of title XI of div. A of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1622, which is not classified to the Code.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c)(3). Pub. L. 115–420 substituted "22905" for "24405".
 
 <b>2015</b>—Pub. L. 114–94 amended section generally. Prior to amendment, section related to alternate passenger rail service pilot program.
 

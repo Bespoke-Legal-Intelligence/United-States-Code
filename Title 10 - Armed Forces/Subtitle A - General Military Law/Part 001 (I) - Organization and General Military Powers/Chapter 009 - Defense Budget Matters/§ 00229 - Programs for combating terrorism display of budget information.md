@@ -8,7 +8,7 @@ Submission With Annual Budget Justification Documents.—The Secretary of Defens
 
 Requirements for Budget Display.—The budget display under subsection (a) shall include—
 
-&emsp;(1) the amount requested, by appropriation and functional area, for each of the program elements, projects, and initiatives that support the Department of Defense combating terrorism program, with supporting narrative descriptions and rationale for the funding levels requested; and
+&emsp;(1) the amount requested, by appropriation and functional area, for each of the program elements, projects, and initiatives that support the Department of Defense combatingterrorism program, with supporting narrative descriptions and rationale for the funding levels requested; and
 
 &emsp;(2) a summary, to the program element and project level of detail, of estimated expenditures for the current year, funds requested for the budget year, and budget estimates through the completion of the current future-years defense plan for the Department of Defense combating terrorism program.
 
@@ -60,7 +60,7 @@ Prioritization of Funds.—The Secretary of Defense shall take such steps as may
 
 &emsp;"(1) the Secretary of each military department to meet the requirements of that military department for that fiscal year for the repair, recapitalization, and replacement of equipment used in overseas contingency operations; and
 
-&emsp;"(2) the Secretary of the Army to meet the requirements of the Army, and the Secretary of the Navy to meet the requirements of the Marine Corps, for that fiscal year, in addition to the requirements underparagraph (1), for the reconstitution of equipment and materiel in prepositioned stocks in accordance with requirements under the policy or strategy implemented under the guidelines in section 2229 of title 10, United States Code.
+&emsp;"(2) the Secretary of the Army to meet the requirements of the Army, and the Secretary of the Navy to meet the requirements of the Marine Corps, for that fiscal year, in addition to the requirements under paragraph (1), for the reconstitution of equipment and materiel in prepositioned stocks in accordance with requirements under the policy or strategy implemented under the guidelines in section 2229 of title 10, United States Code.
 
 "(b)
 

@@ -20,7 +20,7 @@ The purpose of this section is to strengthen the public educational systems in p
 
 &emsp;&emsp;(A) as a separate fund in the Treasury; or
 
-&emsp;&emsp;(B) through an international organization or international financial institution, suchas the United Nations Educational, Science and Cultural Organization, the United Nations Development Program, or the International Bank for Reconstruction and Development.
+&emsp;&emsp;(B) through an international organization or international financial institution, such as the United Nations Educational, Science and Cultural Organization, the United Nations Development Program, or the International Bank for Reconstruction and Development.
 
 #### (3) Transfers and receipts
 
@@ -92,7 +92,7 @@ The purpose of this section is to strengthen the public educational systems in p
 
 #### References in Text
 
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–256,Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 August 3, 2007, referred to in subsec. (b)(6), was in the original "the date of the enactment of this section" and was translated as meaning the date of enactment of Pub. L. 110–53, which generally amended this section, to reflect the probable intent of Congress.
 

@@ -92,7 +92,7 @@ The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–32
 
 <b>2005</b>—Subsec. (c)(2). Pub. L. 109–13, §6045(a)(1)(A), inserted "or an entity described in paragraph (3)" after "means a hospital" in introductory provisions.
 
-Subsec. (c)(2)(B). Pub. L. 109–13, §6045(a)(1)(B), inserted "legislature" after "designated by the State"and "and such designation by the State legislature occurred prior to December 8, 2003" before period at end.
+Subsec. (c)(2)(B). Pub. L. 109–13, §6045(a)(1)(B), inserted "legislature" after "designated by the State" and "and such designation by the State legislature occurred prior to December 8, 2003" before period at end.
 
 Subsec. (c)(3). Pub. L. 109–13, §6045(a)(2), added par. (3).
 

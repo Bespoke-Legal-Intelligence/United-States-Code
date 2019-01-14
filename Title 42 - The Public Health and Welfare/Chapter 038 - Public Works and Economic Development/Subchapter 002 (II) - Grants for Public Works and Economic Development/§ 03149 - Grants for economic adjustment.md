@@ -42,13 +42,13 @@ Assistance under this section may include assistance provided for activities ide
 
 &emsp;&emsp;(A) at the request of a grantee, amend and consolidate grant agreements governing revolving loan funds to provide flexibility with respect to lending areas and borrower criteria;
 
-&emsp;&emsp;(B) assign or transfer assets of a revolving loan fund to third party for the purpose of liquidation, and the third party may retain assets of the fund to defray costs related to liquidation; and
+&emsp;&emsp;(B) assign or transfer assets of a revolving loan fund to third party for the purpose of liquidation, and the third party may retainassets of the fund to defray costs related to liquidation; and
 
 &emsp;&emsp;(C) take such actions as are appropriate to enable revolving loan fund operators to sell or securitize loans (except that the actions may not include issuance of a Federal guaranty by the Secretary).
 
 #### (3) Treatment of actions
 
-&emsp;An action taken by the Secretary under this subsection with respect to a revolving loan fund shall not constitute a new obligation ifall grant funds associated with the original grant award have been disbursed to the recipient.
+&emsp;An action taken by the Secretary under this subsection with respect to a revolving loan fund shall not constitute a new obligation if all grant funds associated with the original grant award have been disbursed to the recipient.
 
 #### (4) Preservation of securities laws
 
@@ -60,7 +60,11 @@ Assistance under this section may include assistance provided for activities ide
 
 &emsp;&emsp;Except as provided in subparagraph (A), no provision of this subsection or any regulation promulgated by the Secretary under this subsection supersedes or otherwise affects the application of the securities laws (as the term is defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))) or the rules, regulations, or orders of the Securities and Exchange Commission or a self-regulatory organization under that Commission.
 
-(Pub. L. 89–136, title II, §209, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3605; amended Pub. L. 108–373, title II, §207, Oct. 27, 2004, 118 Stat. 1762.)
+#### (e) Disaster mitigation
+
+In providing assistance pursuant to subsection (c)(2), if appropriate and as applicable, the Secretary may encourage hazard mitigation in assistance provided pursuant to such subsection.
+
+(Pub. L. 89–136, title II, §209, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3605; amended Pub. L. 108–373, title II, §207, Oct. 27, 2004, 118 Stat. 1762; Pub. L. 115–254, div. D, §1217(a), Oct. 5, 2018, 132 Stat. 3451.)
 
 #### References in Text
 
@@ -71,6 +75,8 @@ The Securities Act of 1933, referred to in subsec. (d)(4)(A), is title I of act 
 The Securities Exchange Act of 1934, referred to in subsec. (d)(4)(A), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e). Pub. L. 115–254 added subsec. (e).
 
 <b>2004</b>—Subsec. (c)(5). Pub. L. 108–373, §207(a), added par. (5).
 

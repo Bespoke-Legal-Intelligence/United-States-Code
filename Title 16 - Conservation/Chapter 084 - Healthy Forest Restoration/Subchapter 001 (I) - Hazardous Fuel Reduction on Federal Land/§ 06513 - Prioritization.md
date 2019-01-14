@@ -18,7 +18,7 @@ In accordance with the Implementation Plan, the Secretary shall develop an annua
 
 #### (1) In general
 
-&emsp;Federal agency involvement in developing a community wildfire protection plan, or a recommendation made in a community wildfire protection plan, shall not be considered a Federal agency action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+&emsp;Federal agency involvement in developing a community wildfire protection plan, or a recommendation made in a community wildfireprotection plan, shall not be considered a Federal agency action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 #### (2) Compliance
 
@@ -50,11 +50,63 @@ In accordance with the Implementation Plan, the Secretary shall develop an annua
 
 &emsp;&emsp;In allocating funding under this paragraph, the Secretary should, to the maximum extent practicable, give priority to communities that have adopted a community wildfire protection plan or have taken proactive measures to encourage willing property owners to reduce fire risk on private property.
 
-(Pub. L. 108–148, title I, §103, Dec. 3, 2003, 117 Stat. 1896.)
+#### (e) Cross-boundary hazardous fuel reduction projects
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Hazardous fuel reduction project
+
+&emsp;&emsp;The term "hazardous fuel reduction project" means a hazardous fuel reduction project described in paragraph (2).
+
+#### (B) Non-Federal land
+
+&emsp;&emsp;The term "non-Federal land" includes—
+
+&emsp;&emsp;&emsp;(i) State land;
+
+&emsp;&emsp;&emsp;(ii) county land;
+
+&emsp;&emsp;&emsp;(iii) Tribal land;
+
+&emsp;&emsp;&emsp;(iv) private land; and
+
+&emsp;&emsp;&emsp;(v) other non-Federal land.
+
+#### (2) Grants
+
+&emsp;The Secretary may make grants to State foresters to support hazardous fuel reduction projects that incorporate treatments in landscapes across ownership boundaries on Federal and non-Federal land, particularly in areas identified as priorities in applicable State-wide forest resource assessments or strategies under section 2101a(a) of this title, as mutually agreed to by the State forester and the Regional Forester.
+
+#### (3) Land treatments
+
+&emsp;To conduct and fund treatments for hazardous fuel reduction projects carried out by State foresters using grants under paragraph (2), the Secretary may use the authorities of the Secretary relating to cooperation and technical and financial assistance, including the good neighbor authority under—
+
+&emsp;&emsp;(A) section 2113a of this title; and
+
+&emsp;&emsp;(B) section 331 of the Department of the Interior and Related Agencies Appropriations Act, 2001 (16 U.S.C. 1011 note; Public Law 106–291).
+
+#### (4) Cooperation
+
+&emsp;In carrying out a hazardous fuel reduction project using a grant under paragraph (2) on non-Federal land, the State forester, in consultation with the Secretary—
+
+&emsp;&emsp;(A) shall consult with any applicable owners of the non-Federal land; and
+
+&emsp;&emsp;(B) shall not implement the hazardous fuel reduction project on non-Federal land without the consent of the owner of the non-Federal land.
+
+#### (5) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2019 through 2023.
+
+(Pub. L. 108–148, title I, §103, Dec. 3, 2003, 117 Stat. 1896; Pub. L. 115–334, title VIII, §8401, Dec. 20, 2018, 132 Stat. 4840.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (e). Pub. L. 115–334 added subsec. (e).
 

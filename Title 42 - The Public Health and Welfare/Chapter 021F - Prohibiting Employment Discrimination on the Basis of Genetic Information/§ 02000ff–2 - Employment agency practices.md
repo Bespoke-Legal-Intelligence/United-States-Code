@@ -24,7 +24,7 @@ It shall be an unlawful employment practice for an employment agency to request,
 
 &emsp;&emsp;(C) only the individual (or family member if the family member is receiving genetic services) and the licensed health care professional or board certified genetic counselor involved in providing such services receive individually identifiable information concerning the results of such services; and
 
-&emsp;&emsp;(D) any individually identifiable genetic information provided under subparagraph\(C) in connection with the services provided under subparagraph (A) is only available for purposes of such services and shall not be disclosed to the employment agency except in aggregate terms that do not disclose the identity of specific individuals;
+&emsp;&emsp;(D) any individually identifiable genetic information provided under subparagraph (C) in connection with the services provided under subparagraph (A) is only available for purposes of such services and shall not be disclosed to the employment agency except in aggregate terms that do not disclose the identity of specific individuals;
 
 &emsp;(3) where an employment agency requests or requires family medical history from the individual to comply with the certification provisions of section 2613 of title 29 or such requirements under State family and medical leave laws;
 

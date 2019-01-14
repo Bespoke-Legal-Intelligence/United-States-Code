@@ -16,7 +16,7 @@ Section 1304(b) of the House amendment adopts the approach taken in the comparab
 
 #### senate report no. 95–989
 
-Increased access to the simpler, speedier, and less expensive debtor relief provisions of chapter 13 is accomplished by permitting debtors engaged in business to proceed under chapter 13, provided their income is sufficiently stable and regular to permit compliance with a chapter 13 plan \[section 101(24)\] and that the debtor (or the debtor and spouse) do not owe liquidated, noncontingent unsecured debts of $50,000, or liquidated, noncontingent secured debts of $200,000 (§109(d)).
+Increased access to the simpler, speedier, and less expensive debtor relief provisions of chapter 13 is accomplished by permitting debtors engaged in business to proceed under chapter 13, provided their income is sufficiently stable and regular to permit compliance with a chapter 13 plan \[section 101(24)\] and that the debtor\(or the debtor and spouse) do not owe liquidated, noncontingent unsecured debts of $50,000, or liquidated, noncontingent secured debts of $200,000 (§109(d)).
 
 Section 1304(a) states that a self-employed individual who incurs trade credit in the production of income is a debtor engaged in business.
 

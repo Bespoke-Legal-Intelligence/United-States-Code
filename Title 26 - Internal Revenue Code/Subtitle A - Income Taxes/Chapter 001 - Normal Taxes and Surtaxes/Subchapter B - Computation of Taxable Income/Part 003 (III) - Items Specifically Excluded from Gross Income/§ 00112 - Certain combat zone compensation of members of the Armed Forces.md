@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (2) Civilian employees
 
-&emsp;Gross income does not include compensation received for active service as an employee for any month during any part of which such employee is in a missing status during the Vietnam conflict as a result of such conflict. Forpurposes of this paragraph, the terms "active service", "employee", and "missing status" have the respective meanings given to such terms by section 5561 of title 5 of the United States Code.
+&emsp;Gross income does not include compensation received for active service as an employee for any month during any part of which such employee is in a missing status during the Vietnam conflict as a result of such conflict. For purposes of this paragraph, the terms "active service", "employee", and "missing status" have the respective meanings given to such terms by section 5561 of title 5 of the United States Code.
 
 #### (3) Period of conflict
 
@@ -132,7 +132,7 @@ In General.—For purposes of the following provisions of the Internal Revenue C
 
 "(b)
 
-Qualified Hazardous Duty Area.—For purposes of this section, the term 'qualified hazardous duty area' means the Sinai Peninsula of Egypt, if as of the date of the enactment of this section \[Dec. 22, 2017\] any member of the Armed Forces of the United States is entitled to special pay under section 310 of title 37, United States Code (relating to special pay; duty subject to hostile fire or imminent danger), for services performedin such location. Such term includes such location only during the period such entitlement is in effect.
+Qualified Hazardous Duty Area.—For purposes of this section, the term 'qualified hazardous duty area' means the Sinai Peninsula of Egypt, if as of the date of the enactment of this section \[Dec. 22, 2017\] any member of the Armed Forces of the United States is entitled to special pay under section 310 of title 37, United States Code (relating to special pay; duty subject to hostile fire or imminent danger), for services performed in such location. Such term includes such location only during the period such entitlement is in effect.
 
 "(c)
 
@@ -244,7 +244,7 @@ General Rule.—For purposes of the following provisions of the Internal Revenue
 
 "(b)
 
-Qualified Hazardous Duty Area.—For purposes of this section, the term 'qualified hazardous duty area' means Bosnia and Herzegovina, Croatia, or Macedonia, if as of the date of the enactment of this section \[Mar. 20, 1996\] any member of the Armed Forces of the United States is entitled to special pay under section 310 of title 37, United States Code (relating to special pay; duty subject to hostile fire or imminent danger) for services performed in such country. Such term includes any such country only during the period such entitlement is in effect. Solely for purposes of applying section 7508 of the Internal Revenue Code of 1986, in the case of an individual who is performing services as part of Operation Joint Endeavor outside the United States while deployed away from such individual's permanent duty station, the term 'qualified hazardous duty area' includes, during the period for which such entitlement is in effect, any area in which such services are performed.
+Qualified Hazardous Duty Area.—For purposes of this section, the term 'qualified hazardous duty area' means Bosnia and Herzegovina, Croatia, or Macedonia, if as of the date of the enactment of this section \[Mar. 20, 1996\] any member of the Armed Forces of the United States is entitled to special pay under section 310 of title 37, United States Code (relating to special pay; duty subject to hostile fire or imminent danger) for services performed in such country. Such term includes any such country only during the period such entitlement is in effect. Solely for purposes of applying section 7508 of the Internal Revenue Code of 1986, in the case of an individual who is performing services as part of Operation Joint Endeavor outside the United States while deployed away from such individual's permanentduty station, the term 'qualified hazardous duty area' includes, during the period for which such entitlement is in effect, any area in which such services are performed.
 
 "(c)
 
@@ -358,7 +358,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13239, Dec. 12, 2001, 66 F.R. 64907, provided:
 
-Pursuant to the authority vested in me as President by the Constitution and the laws of the United States of America, including section 112 of the Internal Revenue Code of 1986 (26 U.S.C. 112), I designate, for purposes of that section, Afghanistan, including the airspace above, as an area in which Armed Forces of the United States are and have been engaged in combat.
+Pursuant to the authority vested in me as President by the Constitution and the laws of the United Statesof America, including section 112 of the Internal Revenue Code of 1986 (26 U.S.C. 112), I designate, for purposes of that section, Afghanistan, including the airspace above, as an area in which Armed Forces of the United States are and have been engaged in combat.
 
 For purposes of this order, I designate September 19, 2001, as the date of the commencement of combatant activities in such zone.
 

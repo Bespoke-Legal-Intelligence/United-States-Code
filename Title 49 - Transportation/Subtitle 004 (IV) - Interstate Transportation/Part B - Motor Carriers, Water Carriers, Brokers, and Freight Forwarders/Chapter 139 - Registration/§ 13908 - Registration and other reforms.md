@@ -16,7 +16,7 @@ Role as Clearinghouse and Depository of Information.—The Unified Carrier Regis
 
 (c)
 
-Procedures for Correcting Information.—Not later than 60 days after the effective date of this section, the Secretary shall prescribe regulations establishing procedures that enable a motor carrier to correct erroneous information contained in any part of the Unified Carrier Registration System.
+Procedures for Correcting Information.—Not later than 60 days after the effective date of this section, the Secretary shall prescribe regulations establishing procedures thatenable a motor carrier to correct erroneous information contained in any part of the Unified Carrier Registration System.
 
 (d)
 
@@ -89,6 +89,10 @@ Subsec. (e). Pub. L. 104–287, §5(36)(B), substituted "January 1, 1996" for "t
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 
 #### Regulations
 

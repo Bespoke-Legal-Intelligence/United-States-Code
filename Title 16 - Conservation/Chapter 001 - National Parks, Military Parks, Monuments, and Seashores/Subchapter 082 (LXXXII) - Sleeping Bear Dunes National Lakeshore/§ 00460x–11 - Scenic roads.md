@@ -32,7 +32,7 @@ The Secretary is authorized to obtain and administer, according to the provision
 
 &emsp;(C) as an exercise of a right of first refusal under paragraph (3).
 
-(2) The Secretary may negotiate with willing sellers for the transfer of fee title to other lesserinterests to lands described in subsection (c). If the Secretary and such willing seller are unable to agree to a fair purchase price, that question may, by mutual consent be submitted to the appropriate United States District Court for adjudication.
+(2) The Secretary may negotiate with willing sellers for the transfer of fee title to other lesser interests to lands described in subsection (c). If the Secretary and such willing seller are unable to agree to a fair purchase price, that question may, by mutual consent be submitted to the appropriate United States District Court for adjudication.
 
 (3) If the owner of any lands described in subsection (c) intends to transfer any interest in such lands except by gift, donation, or bequest, such owner must notify the Secretary of such intention. The Secretary shall have 90 days after notification in which to exercise a right of first refusal to match any bona fide offer to obtain such interest under the same terms and conditions as are contained in such offer. If the Secretary has not exercised such right within 90 days, the owner may transfer such interest.
 
@@ -50,7 +50,7 @@ The Secretary is authorized to obtain and administer, according to the provision
 
 #### (g) Inclusion of certain lands as part of lakeshore
 
-If the owner of the area designated as "The Kettle" in the General Management Plan dated October 1, 1979, and comprising 240 acres, agrees to donate fee title or a scenic easement to, or other less than fee interest in, such area, the lands in such area may be included as a part of the lakeshore upon publication in the Federal Register by the Secretary of a revised map of the lakeshore which includes such lands.
+If the owner of the area designated as "The Kettle" in the General Management Plan dated October 1, 1979, and comprising 240 acres, agrees to donate fee title or a scenic easement to, or other less than fee interest in, such area, the lands in such area may be included as a part of the lakeshore upon publication in the FederalRegister by the Secretary of a revised map of the lakeshore which includes such lands.
 
 #### (h) Road maintenance and other services
 

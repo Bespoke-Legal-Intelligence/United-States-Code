@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;The running of the period of limitations provided in section 6501 or 6502.<sup>1</sup> on the making of assessments or the collection by levy or a proceeding in court, in respect of any deficiency as defined in section 6211 (relating to income, estate, gift and certain excise taxes), shall (after the mailing of a notice under section 6212(a)) be suspended for the period during which the Secretary is prohibited from making the assessment or from collecting by levy or a proceeding in court (and in any event, if a proceeding in respect of the deficiency is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
+&emsp;The running of the period of limitations provided in section 6501 or 6502 on the making of assessments or the collection by levy or a proceeding in court, in respect of any deficiency as defined in section 6211 (relating to income, estate, gift and certain excise taxes), shall (after the mailing of a notice under section 6212(a)) be suspended for the period during which the Secretary is prohibited from making the assessment or from collecting by levy or a proceeding in court (and in any event, if a proceeding in respect of the deficiency is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
 
 #### (2) Corporation joining in consolidated income tax return
 
@@ -30,7 +30,7 @@ The running of the period of limitations for collection of the tax attributable 
 
 #### (1) Wrongful seizure
 
-&emsp;The running of the period under section 6502 shall be suspended for a period equal to the period from the date property (including money) of a third party is wrongfully seized or received by the Secretary to the date the Secretary returns property pursuant to section 6343(b) or the date on which a judgment secured pursuant to section 7426 with respect to such property becomes final, and for 30 days thereafter. The running of such period shall be suspended under this paragraph only with respect to the amount of such assessment equal to the amount of money or the value of specific property returned.
+&emsp;The running of the period under section 6502 shall be suspended for a period equal to the period from the date property (including money) of a third party is wrongfully seized or received by the Secretary to the date the Secretary returns property pursuant to section 6343(b) or the date on which a judgment secured pursuant to section 7426 with respect to such property becomes final, and for 30 daysthereafter. The running of such period shall be suspended under this paragraph only with respect to the amount of such assessment equal to the amount of money or the value of specific property returned.
 
 #### (2) Wrongful lien
 
@@ -114,7 +114,7 @@ The running of any period of limitations for collection of any amount of undistr
 
 &emsp;&emsp;&emsp;<b>(5) Deficiency dividends in the case of a regulated investment company or a real estate investment trust, see section 860(h).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 806; Aug. 6, 1956, ch. 1020, §2, 70 Stat. 1075; Pub. L. 85–866, title II, §206(d), Sept. 2, 1958, 72 Stat. 1685; Pub. L. 89–384, §1(e), Apr. 8, 1966, 80 Stat. 104; Pub. L. 89–719,title I, §106, Nov. 2, 1966, 80 Stat. 1139; Pub. L. 91–172, title I, §101(g)(4), (j)(46), Dec. 30, 1969, 83 Stat. 525, 531; Pub. L. 93–406, title II, §1016(a)(15), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–452, §3(b), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XII, §1203(h)(1), title XVI, §1601(f)(2), title XIX, §§1902(b)(2)(A), 1906(b)(13)(A), title XX, §2004(c)(4), Oct. 4, 1976, 90 Stat. 1694, 1746, 1806, 1834, 1868; Pub. L. 95–227, §4(d)(6), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title III, §362(d)(5), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 96–222, title I, §108(b)(1)(A), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–589, §6(a), (i)(11), Dec. 24, 1980, 94 Stat. 3407, 3411; Pub. L. 96–596, §2(a)(4)(D), (E), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–34, title IV, §422(e)(7), Aug. 13, 1981, 95 Stat. 316; Pub. L. 98–369, div. A, title III, §305(b)(4), July 18, 1984, 98 Stat. 784; Pub. L. 99–514, title XII, §1235(d), title XVIII, §1875(d)(2)(B)(ii), Oct. 22, 1986, 100 Stat. 2575, 2896; Pub. L. 100–203, title X, §10712(c)(3), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 101–508, title XI, §§11311(a), 11801(c)(20)(A), Nov. 5, 1990, 104 Stat. 1388–453, 1388–528; Pub. L. 104–168, title X, §1002(a)–(c), July 30, 1996, 110 Stat. 1468; Pub. L. 104–188, title I, §1702(h)(17), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XII, §1237(c)(2), Aug. 5, 1997, 111 Stat. 1026; Pub. L. 105–206, title III, §3106(b)(3), July 22, 1998, 112 Stat. 734; Pub. L. 110–28, title VIII, §8246(a)(2)(E), May 25, 2007, 121 Stat. 201; Pub. L. 114–74, title XI, §1101(f)(4), Nov. 2, 2015, 129 Stat. 638.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 806; Aug. 6, 1956, ch. 1020, §2, 70 Stat. 1075; Pub. L. 85–866, title II, §206(d), Sept. 2, 1958, 72 Stat. 1685; Pub. L. 89–384, §1(e), Apr. 8, 1966, 80 Stat. 104; Pub. L. 89–719, title I, §106, Nov. 2, 1966, 80 Stat. 1139; Pub. L. 91–172, title I, §101(g)(4), (j)(46), Dec. 30, 1969, 83 Stat. 525, 531; Pub. L. 93–406, title II, §1016(a)(15), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–452, §3(b), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XII, §1203(h)(1), title XVI, §1601(f)(2), title XIX, §§1902(b)(2)(A), 1906(b)(13)(A), title XX, §2004(c)(4), Oct. 4, 1976, 90 Stat. 1694, 1746, 1806, 1834, 1868; Pub. L. 95–227, §4(d)(6), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title III, §362(d)(5), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 96–222, title I, §108(b)(1)(A), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–589, §6(a), (i)(11), Dec. 24, 1980, 94 Stat. 3407, 3411; Pub. L. 96–596, §2(a)(4)(D), (E), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–34, title IV, §422(e)(7), Aug. 13, 1981, 95 Stat. 316; Pub. L. 98–369, div. A, title III, §305(b)(4), July 18, 1984, 98 Stat. 784; Pub. L. 99–514, title XII, §1235(d), title XVIII, §1875(d)(2)(B)(ii), Oct. 22, 1986, 100 Stat. 2575, 2896; Pub. L. 100–203, title X, §10712(c)(3), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 101–508, title XI, §§11311(a), 11801(c)(20)(A), Nov. 5, 1990, 104 Stat. 1388–453, 1388–528; Pub. L. 104–168, title X, §1002(a)–(c), July 30, 1996, 110 Stat. 1468; Pub. L. 104–188, title I, §1702(h)(17), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XII, §1237(c)(2), Aug. 5, 1997, 111 Stat. 1026; Pub. L. 105–206, title III, §3106(b)(3), July 22, 1998, 112 Stat. 734; Pub. L. 110–28, title VIII, §8246(a)(2)(E), May 25, 2007, 121 Stat. 201; Pub. L. 114–74, title XI, §1101(f)(4), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–141, div. U, title IV, §401(a)(296), Mar. 23, 2018, 132 Stat. 1198.)
 
 #### Codification
 
@@ -129,6 +129,8 @@ Pub. L. 96–596, §2(a)(4)(E) and (F), redesignated subsec. (j), relating to cr
 Pub. L. 96–589 again redesignated subsec. (i), relating to cross references, as subsec. (j) and added a new subsec. (i), relating to cases under title 11.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–141, which directed amendment of par. (1) by substituting "section 6230(a))" for "section 6230(a)).", was executed by substituting "section 6501 or 6502" for "section 6501 or 6502.", to reflect the probable intent of Congress and the amendment made by Pub. L. 114–74. See 2015 Amendment note below.
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–74 struck out "(or section 6229, but only with respect to a deficiency described in paragraph (2)(A) or (3) of section 6230(a))" after "section 6501 or 6502".
 
@@ -254,7 +256,7 @@ Pub. L. 104–168, title X, §1002(d), July 30, 1996, 110 Stat. 1468, provided t
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title XI, §11311(b), Nov. 5, 1990, 104 Stat. 1388–453, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any tax (whether imposed before, on, or after the date of the enactment of this Act \[Nov. 5, 1990\]) if the periodprescribed by section 6501 of the Internal Revenue Code of 1986 for the assessment of such tax (determined with regard to extensions) has not expired on such date of the \[sic\] enactment."
+Pub. L. 101–508, title XI, §11311(b), Nov. 5, 1990, 104 Stat. 1388–453, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any tax (whether imposed before, on, or after the date of the enactment of this Act \[Nov. 5, 1990\]) if the period prescribed by section 6501 of the Internal Revenue Code of 1986 for the assessment of such tax (determined with regard to extensions) has not expired on such date of the \[sic\] enactment."
 
 #### Effective Date of 1987 Amendment
 
@@ -332,11 +334,9 @@ Pub. L. 104–168, title X, §1003, July 30, 1996, 110 Stat. 1468, provided that
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Application of Prior Amendments
 
 Pub. L. 96–596, §2(a)(4)(F), Dec. 24, 1980, 94 Stat. 3472, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by sections 1203(h)(1) and 1601(f)(2) of the Tax Reform Act of 1976 \[Pub. L. 94–455\], and the amendment made by section 362(d)(5) of the Revenue Act of 1978 \[Pub. L. 95–600\], shall be deemed to be amendments to section 6503(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, subsec. (j), as redesignated by section 6(a) of Pub. L. 96–589\] (as redesignated by subparagraph (E) \[redesignating subsec. (j) as (i)\])."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

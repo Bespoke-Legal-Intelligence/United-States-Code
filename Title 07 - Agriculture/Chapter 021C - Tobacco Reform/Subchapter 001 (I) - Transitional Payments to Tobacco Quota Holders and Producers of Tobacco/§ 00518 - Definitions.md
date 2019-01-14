@@ -74,7 +74,7 @@ Pub. L. 108–357, title VI, §643, Oct. 22, 2004, 118 Stat. 1536, provided that
 
 #### Short Title
 
-Pub. L. 108–357, title VI, §601, Oct. 22, 2004, 118 Stat. 1521, provided that: "This title \[enacting this chapter, amending sections 609, 1282, 1301, 1303, 1314h, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and section 714c of Title 15, Commerce and Trade, repealing sections 511r, 515 to 515k, 625, 1311 to 1314, 1314–1,1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, enacting provisions set out as notes under this section and section 515 of this title, and repealing provisions set out as a note under section 1314c of this title\] may be cited as the 'Fair and Equitable Tobacco Reform Act of 2004'."
+Pub. L. 108–357, title VI, §601, Oct. 22, 2004, 118 Stat. 1521, provided that: "This title \[enacting this chapter, amending sections 609, 1282, 1301, 1303, 1314h, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and section 714c of Title 15, Commerce and Trade, repealing sections 511r, 515 to 515k, 625, 1311 to 1314, 1314–1, 1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, enacting provisions set out as notes under this section and section 515 of this title, and repealing provisions set out as a note under section 1314c of this title\] may be cited as the 'Fair and Equitable Tobacco Reform Act of 2004'."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

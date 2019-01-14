@@ -7,5 +7,7 @@
 
 - [&sect; 10551 - Program authorized](%C2%A7%2010551%20-%20Program%20authorized.md)
 - [&sect; 10552 - Applications](%C2%A7%2010552%20-%20Applications.md)
-- [&sect; 10553 - Annual report to Congress](%C2%A7%2010553%20-%20Annual%20report%20to%20Congress.md)
+- [&sect; 10553 - Annual report to Congress; grant accountability](%C2%A7%2010553%20-%20Annual%20report%20to%20Congress%3B%20grant%20accountability.md)
 - [&sect; 10554 - Definitions](%C2%A7%2010554%20-%20Definitions.md)
+- [&sect; 10555 - Authorization of appropriations](%C2%A7%2010555%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 10556 - Rules of construction](%C2%A7%2010556%20-%20Rules%20of%20construction.md)

@@ -50,6 +50,14 @@ Transfer of Retired Military Working Dogs.—(1) If the Secretary of the militar
 
 &emsp;(B) the dog is located within the United States and suitable adoption is available where the dog is located.
 
+(3)(A) In the case of a military working dog located outside the continental United States at the time of retirement that is suitable for adoption at that time, the Secretary of the military department concerned shall undertake transportation of the dog to the continental United States (including transportation by contract at United States expense) for adoption under this section unless—
+
+&emsp;(i) the dog is adopted as described in paragraph (2)(A); or
+
+&emsp;(ii) transportation of the dog to the continental United States would not be in the best interests of the dog for medical reasons.
+
+(B) Nothing in this paragraph shall be construed to alter the preference in adoption of retired military working dogs for former handlers as set forth in subsection (g).
+
 (g)
 
 Preference in Adoption of Retired Military Working Dogs for Former Handlers.—(1) In providing for the adoption under this section of a retired military working dog described in paragraph (1) or (3) of subsection (a), the Secretary of the military department concerned shall accord a preference to the former handler of the dog unless the Secretary determines that adoption of the dog by the former handler would not be in the best interests of the dog.
@@ -66,9 +74,11 @@ Military Animal Defined.—In this section, the term "military animal" means the
 
 &emsp;(2) A horse owned by the Department of Defense.
 
-(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, §1063(a)(13), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title III, §351, title X, §1061(20), Dec. 31, 2011, 125 Stat. 1375, 1584; Pub. L. 112–239, div. A, title III, §371(a), Jan. 2, 2013, 126 Stat. 1706; Pub. L. 113–66, div. A, title X, §1091(b)(2), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–92, div. A, title III, §342, Nov. 25, 2015, 129 Stat. 793; Pub. L. 114–328, div. A, title III, §342(b), Dec. 23, 2016, 130 Stat. 2082.)
+(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, §1063(a)(13), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title III, §351, title X, §1061(20), Dec. 31, 2011, 125 Stat. 1375, 1584; Pub. L. 112–239, div. A, title III, §371(a), Jan. 2, 2013, 126 Stat. 1706; Pub. L. 113–66, div. A, title X, §1091(b)(2), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–92, div. A, title III, §342, Nov. 25, 2015, 129 Stat. 793; Pub. L. 114–328, div. A, title III, §342(b), Dec. 23, 2016, 130 Stat. 2082; Pub. L. 115–232, div. A, title III, §352, Aug. 13, 2018, 132 Stat. 1731.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f)(3). Pub. L. 115–232 added par. (3).
 
 <b>2016</b>—Subsec. (h)(1). Pub. L. 114–328 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "A military working dog."
 
@@ -128,5 +138,5 @@ Subsec. (g). Pub. L. 109–364, §352(a)(6), added subsec. (g).
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 113–66, div. A, title X, §1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(2) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
+Pub. L. 113–66, div. A, title X, §1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendmentmade by section 1091(b)(2) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
 

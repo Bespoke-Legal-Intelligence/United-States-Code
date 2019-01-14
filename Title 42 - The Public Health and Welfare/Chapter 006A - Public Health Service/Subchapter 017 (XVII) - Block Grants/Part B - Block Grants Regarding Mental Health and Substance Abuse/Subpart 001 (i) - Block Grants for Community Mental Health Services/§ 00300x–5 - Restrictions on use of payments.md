@@ -16,7 +16,7 @@ A funding agreement for a grant under section 300x of this title is that the Sta
 
 #### (b) Limitation on administrative expenses
 
-A funding agreement for a grant under section 300x of this title is that the State involved will not expend more than 5 percent of the grant for administrative expenses with respect to the grant.
+A funding agreement for a grant under section 300x of this title is that the State involved willnot expend more than 5 percent of the grant for administrative expenses with respect to the grant.
 
 (July 1, 1944, ch. 373, title XIX, §1916, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 384.)
 

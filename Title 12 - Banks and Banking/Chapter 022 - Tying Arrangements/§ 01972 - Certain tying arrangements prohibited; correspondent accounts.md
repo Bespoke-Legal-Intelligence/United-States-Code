@@ -30,7 +30,7 @@ Civil money penalty.—
 
 &emsp;(i)
 
-First tier.—Any bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect tosuch bank who, violates any provision of this paragraph shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
+First tier.—Any bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such bank who, violates any provision of this paragraph shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
 
 &emsp;(ii)
 
@@ -102,7 +102,7 @@ Disbursement.—All penalties collected under authority of this subsection shall
 
 &emsp;(viii)
 
-"Violate" defined.—For purposes of this paragraph, the term "violate" includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+"Violate" defined.—For purposes of this paragraph, the term "violate" includesany action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
 &emsp;(ix)
 

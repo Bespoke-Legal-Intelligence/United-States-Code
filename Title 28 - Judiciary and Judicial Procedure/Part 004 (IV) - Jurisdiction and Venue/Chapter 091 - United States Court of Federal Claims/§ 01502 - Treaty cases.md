@@ -1,6 +1,6 @@
 ### §1502. Treaty cases
 
-Except as otherwise provided by Act of Congress, the United States Court of Federal Claims shall not have jurisdiction of any claim against the United States growing out of or dependentupon any treaty entered into with foreign nations.
+Except as otherwise provided by Act of Congress, the United States Court of Federal Claims shall not have jurisdiction of any claim against the United States growing out of or dependent upon any treaty entered into with foreign nations.
 
 (June 25, 1948, ch. 646, 62 Stat. 942; May 24, 1949, ch. 139, §88, 63 Stat. 102; Pub. L. 97–164, title I, §133(e)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 

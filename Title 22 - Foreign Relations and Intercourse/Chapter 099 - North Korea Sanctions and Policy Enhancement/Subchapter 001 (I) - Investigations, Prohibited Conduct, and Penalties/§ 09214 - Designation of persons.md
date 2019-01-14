@@ -64,7 +64,7 @@ Except as provided in section 9228 of this title, the President shall designate 
 
 &emsp;&emsp;(F) knowingly facilitated a significant transfer of funds or property of the Government of North Korea that materially contributes to any violation of an applicable United National <sup>1</sup> Security Council resolution;
 
-&emsp;&emsp;(G) knowingly, directly or indirectly, facilitated a significant transfer to or from the Government of North Korea of bulk cash, precious metals, gemstones, or otherstores of value not described under subsection (a)(10);
+&emsp;&emsp;(G) knowingly, directly or indirectly, facilitated a significant transfer to or from the Government of North Korea of bulk cash, precious metals, gemstones, or other stores of value not described under subsection (a)(10);
 
 &emsp;&emsp;(H) knowingly, directly or indirectly, sold, transferred, or otherwise provided significant amounts of crude oil, condensates, refined petroleum, other types of petroleum or petroleum byproducts, liquified natural gas, or other natural gas resources to the Government of North Korea (except for heavy fuel oil, gasoline, or diesel fuel for humanitarian use or as excepted under subsection (a)(11));
 
@@ -126,7 +126,7 @@ The penalties provided for in subsections (b) and (c) of section 206 of the Inte
 
 #### References in Text
 
-Section 9225, referred to in subsec. (b)(2)(B), was repealed and a new section 925 enacted by Pub. L. 115–44, title III, §314, Aug. 2, 2017, 131 Stat. 946. The sanctions formerly described in section 9225(c) of this title are now contained in section 9225(d) of this title.
+Section 9225, referred to in subsec. (b)(2)(B), was repealed and a new section 9225 enacted by Pub. L. 115–44, title III, §314, Aug. 2, 2017, 131 Stat. 946. The sanctions formerly described in section 9225(c) of this title are now contained in section 9225(d) of this title.
 
 The International Emergency Economic Powers Act, referred to in subsec. (c)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 

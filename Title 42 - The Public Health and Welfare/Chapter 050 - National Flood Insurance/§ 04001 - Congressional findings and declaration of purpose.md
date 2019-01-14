@@ -44,6 +44,14 @@ This chapter, referred to in subsecs. (d) to (f), was in the original a referenc
 
 Pub. L. 90–448, title XIII, §1377, Aug. 1, 1968, 82 Stat. 589, provided that: "This title \[enacting this chapter, amending section 2414 of this title, repealing sections 2401 to 2413 and 2415 to 2421 of this title, and enacting provisions set out as notes under this section\] shall take effect one hundred and twenty days following the date of its enactment \[Aug. 1, 1968\], except that the Secretary, on the basis of a finding that conditions exist necessitating the prescribing of an additional period, may prescribe a later effective date which in no event shall be more than one hundred and eighty days following such date of enactment."
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–396, §1, Dec. 21, 2018, 132 Stat. 5296, provided that: "This Act \[amending sections 4016 and 4026 of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the 'National Flood Insurance Program Extension Act'."
+
+Pub. L. 115–281, §1, Dec. 1, 2018, 132 Stat. 4191, provided that: "This Act \[amending sections 4016 and 4026 of this title\] may be cited as the 'National Flood Insurance Program Further Extension Act of 2018'."
+
+Pub. L. 115–225, §1, July 31, 2018, 132 Stat. 1624, provided that: "This Act \[amending sections 4016 and 4026 of this title\] may be cited as the 'National Flood Insurance Program Extension Act of 2018'."
+
 #### Short Title of 2014 Amendment
 
 Pub. L. 113–89, §1(a), Mar. 21, 2014, 128 Stat. 1020, provided that: "This Act \[enacting sections 4005, 4015a, 4033, 4101d, and 4101e of this title, amending sections 4012a, 4013, 4014, 4015, 4017, 4017a, 4081, 4101b, 4102, and 4104 of this title and section 2604 of Title 12, Banks and Banking, enacting provisions set out as notes under sections 4012a, 4014, 4015, and 4102 of this title, and repealing provisions set out as a note under section 4012a of this title\] may be cited as the 'Homeowner Flood Insurance Affordability Act of 2014'."
@@ -76,13 +84,13 @@ Pub. L. 108–264, §1(a), June 30, 2004, 118 Stat. 712, provided that: "This Ac
 
 #### Short Title of 2003 Amendments
 
-Pub. L. 108–171, §1, Dec. 6, 2003, 117 Stat. 2064, provided that: "This Act \[amending sections 4016, 4026, 4056, and 4127 of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the 'National Flood Insurance Program Reauthorization Act of 2004'."
+Pub. L. 108–171, §1, Dec. 6, 2003, 117 Stat. 2064, provided that: "This Act \[amending sections 4016, 4026, 4056, and 4127 of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the'National Flood Insurance Program Reauthorization Act of 2004'."
 
 Pub. L. 108–3, §1, Jan. 13, 2003, 117 Stat. 7, provided that: "This Act \[amending sections 4016, 4026, 4056, and 4127 of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the 'National Flood Insurance Program Reauthorization Act of 2003'."
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–325, title V, §501, Sept. 23, 1994, 108 Stat. 2255, provided that: "This title \[enacting sections 4104b to 4104d and 5154a of this title, amending this section, sections 4003, 4011, 4012a, 4013, 4015, 4017, 4022, 4026, 4027,4029, 4056, 4081, 4101, 4104a, 4106, 4121, and 5154 of this title, and sections 1784, 1820, 3305, and 4521 of Title 12, Banks and Banking, repealing section 4103 of this title, enacting provisions set out as notes under this section and sections 4011, 4013, 4014, 4101 to 4103, and 4104c of this title, and repealing provisions set out as a note under section 4015 of this title\] may be cited as the 'National Flood Insurance Reform Act of 1994'."
+Pub. L. 103–325, title V, §501, Sept. 23, 1994, 108 Stat. 2255, provided that: "This title \[enacting sections 4104b to 4104d and 5154a of this title, amending this section, sections 4003, 4011, 4012a, 4013, 4015, 4017, 4022, 4026, 4027, 4029, 4056, 4081, 4101, 4104a, 4106, 4121, and 5154 of this title, and sections 1784, 1820, 3305, and 4521 of Title 12, Banks and Banking, repealing section 4103 of this title, enacting provisions set out as notes under this section and sections 4011, 4013, 4014, 4101 to 4103, and 4104c of this title, and repealing provisions set out as a note under section 4015 of this title\] may be cited as the 'National Flood Insurance Reform Act of 1994'."
 
 #### Short Title of 1973 Amendment
 

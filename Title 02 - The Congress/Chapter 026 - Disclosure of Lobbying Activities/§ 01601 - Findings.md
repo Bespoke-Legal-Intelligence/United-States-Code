@@ -22,13 +22,17 @@ Pub. L. 104–65, §24, Dec. 19, 1995, 109 Stat. 705, provided that:
 
 &emsp;"(2) shall not affect the requirements of Federal agencies to compile, publish, and retain information filed or received before the effective date of such repeals and amendments."
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 115–418, §1, Jan. 3, 2019, 132 Stat. 5440, provided that: "This Act \[amending sections 1603 and 1604 of this title\] may be cited as the 'Justice Against Corruption on K Street Act of 2018' or the 'JACK Act'."
+
 #### Short Title of 2007 Amendment
 
 Pub. L. 110–81, §1(a), Sept. 14, 2007, 121 Stat. 735, provided that: "This Act \[see Tables for classification\] may be cited as the 'Honest Leadership and Open Government Act of 2007'."
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–166, §1(a), Apr. 6, 1998, 112 Stat. 38, provided that: "This Act \[amending sections 1602, 1604, and1610 of this title and section 613 of Title 22, Foreign Relations and Intercourse\] may be cited as the 'Lobbying Disclosure Technical Amendments Act of 1998'."
+Pub. L. 105–166, §1(a), Apr. 6, 1998, 112 Stat. 38, provided that: "This Act \[amending sections 1602, 1604, and 1610 of this title and section 613 of Title 22, Foreign Relations and Intercourse\] may be cited as the 'Lobbying Disclosure Technical Amendments Act of 1998'."
 
 #### Short Title
 

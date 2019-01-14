@@ -88,7 +88,7 @@ In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amo
 
 #### Implementation of Subsection (b)
 
-Pub. L. 101–510, div. A, title VI, §617(b), Nov. 5, 1990, 104 Stat. 1579, provided that the Secretary of Defense could not implement subsec. (b) of this section, unless the Secretary submitted to the Committees on Armed Services of the Senate and House of Representatives areport justifying the need of the military departments for the authority provided in such subsection and describing the manner in which that authority would be implemented, prior to repeal by Pub. L. 106–398, §1 \[\[div. A\], title VI, §626(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.
+Pub. L. 101–510, div. A, title VI, §617(b), Nov. 5, 1990, 104 Stat. 1579, provided that the Secretary of Defense could not implement subsec. (b) of this section, unless the Secretary submitted to the Committees on Armed Services of the Senate and House of Representatives a report justifying the need of the military departments for the authority provided in such subsection and describing the manner in which that authority would be implemented, prior to repeal by Pub. L. 106–398, §1 \[\[div. A\], title VI, §626(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.
 
 #### Pay Continuation
 

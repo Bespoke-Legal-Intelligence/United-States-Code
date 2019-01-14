@@ -8,7 +8,7 @@
 
 #### (2) Concurrent jurisdiction
 
-&emsp;At the request of an Indian tribe, and after consultation with and consent by the Attorney General, the United States shall acceptconcurrent jurisdiction to prosecute violations of sections 1152 and 1153 of title 18 within the Indian country of the Indian tribe.
+&emsp;At the request of an Indian tribe, and after consultation with and consent by the Attorney General, the United States shall accept concurrent jurisdiction to prosecute violations of sections 1152 and 1153 of title 18 within the Indian country of the Indian tribe.
 
 #### (b) Alienation, encumbrance, taxation, and use of property; hunting, trapping, or fishing
 

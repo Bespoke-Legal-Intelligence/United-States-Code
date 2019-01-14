@@ -92,7 +92,7 @@ Continuation of prices.—The price of any product created under subsection (d) 
 
 &emsp;(2)
 
-Publication of prices.—The Administrator shall publish annually the prices atwhich aeronautical products are sold to the public.
+Publication of prices.—The Administrator shall publish annually the prices at which aeronautical products are sold to the public.
 
 &emsp;(3)
 
@@ -200,7 +200,7 @@ Pub. L. 106–181, title VI, §604, Apr. 5, 2000, 114 Stat. 152, provided that:
 
 Continued Effectiveness of Directives.—All orders, determinations, rules, regulations, permits, contracts, certificates, licenses, privileges, and financial assistance that—
 
-&emsp;"(1) have been issued, made, granted, or allowed to become effective by the President of the United States, the Secretary of Commerce, the Administrator of the National Oceanic and Atmospheric Administration, any Federal agency or official thereof,or by a court of competent jurisdiction, in the performance of functions which are transferred by this title \[amending this section, sections 883b and 883e of Title 33, Navigation and Navigable Waters, and section 1307 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under this section\]; and
+&emsp;"(1) have been issued, made, granted, or allowed to become effective by the President of the United States, the Secretary of Commerce, the Administrator of the National Oceanic and Atmospheric Administration, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred by this title \[amending this section, sections 883b and 883e of Title 33, Navigation and Navigable Waters, and section 1307 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under this section\]; and
 
 &emsp;"(2) are in effect on the date of transfer,
 
@@ -248,7 +248,7 @@ Transfer of Office.—Effective October 1, 2000, the Office of Aeronautical Char
 
 "(b)
 
-Other Transfers.—Effective October 1, 2000, the personnel employed in connection with, and the assets, liabilities, contracts, property, equipment, facilities, records, and unexpended balance of appropriations, and other funds employed, held, used, arising from, available to, or to be made available in connection with the function and offices, or portions of offices, transferred by this title \[amending this section, sections 883b and 883e of Title 33, Navigation and Navigable Waters, and section 1307 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under this section\], including all Senior Executive Service positions, subject to section 1531 of title 31, United States Code, are transferred to the Administrator of the Federal Aviation Administration for appropriate allocation. Personnel employed in connection with functions transferred by this title transfer under any applicable law and regulation relating to transfer of functions. Unexpended funds transferred under this section shall be used only for the purposes for which the funds were originally authorized and appropriated, except that funds may be used for expenses associated with the transfer authorized by this title."
+Other Transfers.—Effective October 1, 2000, the personnel employed in connection with, and the assets, liabilities, contracts, property, equipment, facilities, records, and unexpended balance of appropriations, and other funds employed, held, used, arising from, available to, or to be made available in connection with the function and offices, or portions of offices, transferred by this title \[amending this section, sections 883b and 883e of Title 33, Navigation and Navigable Waters, and section 1307 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under this section\], including all Senior Executive Service positions, subject to section 1531 of title 31, United States Code, are transferred to the Administrator of the FederalAviation Administration for appropriate allocation. Personnel employed in connection with functions transferred by this title transfer under any applicable law and regulation relating to transfer of functions. Unexpended funds transferred under this section shall be used only for the purposes for which the funds were originally authorized and appropriated, except that funds may be used for expenses associated with the transfer authorized by this title."
 
 #### Procurement of Private Enterprise Mapping, Charting, and Geographic Information Systems
 

@@ -6,7 +6,7 @@ Notwithstanding any other provision of this chapter, the Administrator upon rece
 
 #### (b) Repealed. Pub. L. 96–510, title III, §304(a), Dec. 11, 1980, 94 Stat. 2809
 
-(June 30, 1948, ch. 758, title V, §504, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 888; amendedPub. L. 95–217, §69, Dec. 27, 1977, 91 Stat. 1607; Pub. L. 96–510, title III, §304(a), Dec. 11, 1980, 94 Stat. 2809.)
+(June 30, 1948, ch. 758, title V, §504, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 888; amended Pub. L. 95–217, §69, Dec. 27, 1977, 91 Stat. 1607; Pub. L. 96–510, title III, §304(a), Dec. 11, 1980, 94 Stat. 2809.)
 
 #### Amendments
 

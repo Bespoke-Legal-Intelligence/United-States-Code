@@ -26,7 +26,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (1) Reports
 
-&emsp;The Secretary of the Treasury shall be the trustee of the Agricultural Disaster Relief Trust Fund and shall submit an annual report to Congress each year on the financial condition and the results of the operations of such Trust Fund during the preceding fiscal year and on its expected condition and operations during the 4 fiscal years succeeding such fiscal year. Such report shall be printed as a House document of the session of Congress to which the report is made.
+&emsp;The Secretary of the Treasury shall be the trustee of the Agricultural Disaster ReliefTrust Fund and shall submit an annual report to Congress each year on the financial condition and the results of the operations of such Trust Fund during the preceding fiscal year and on its expected condition and operations during the 4 fiscal years succeeding such fiscal year. Such report shall be printed as a House document of the session of Congress to which the report is made.
 
 #### (2) Investment
 
@@ -66,7 +66,7 @@ Amounts in the Agricultural Disaster Relief Trust Fund shall be available for th
 
 &emsp;&emsp;Interest on advances made pursuant to this subsection shall be—
 
-&emsp;&emsp;&emsp;(i) at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturitycomparable to the anticipated period during which the advance will be outstanding, and
+&emsp;&emsp;&emsp;(i) at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding, and
 
 &emsp;&emsp;&emsp;(ii) compounded annually.
 

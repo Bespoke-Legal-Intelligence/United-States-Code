@@ -22,7 +22,7 @@ Expiration of Exemption.—
 
 &emsp;(1)
 
-When coastwise-qualified vessel offering service.—On a showing to the Secretary of the department in which the Coast Guard is operating, by the vessel owner or charterer, that a United States passenger vessel qualified to engage in the coastwise trade is offering or advertising passenger service between a port in Puerto Rico and another port in the United States pursuant to a certificate, the Secretary shall notify the owner or operator of each vessel transporting passengers under subsection (b) to terminate that transportation within 270 days after the Secretary's notification. Except as provided in subsection (d), the authority to transport passengersunder subsection (b) expires at the end of that 270-day period.
+When coastwise-qualified vessel offering service.—On a showing to the Secretary of the department in which the Coast Guard is operating, by the vessel owner or charterer, that a United States passenger vessel qualified to engage in the coastwise trade is offering or advertising passenger service between a port in Puerto Rico and another port in the United States pursuant to a certificate, the Secretary shall notify the owner or operator of each vessel transporting passengers under subsection (b) to terminate that transportation within 270 days after the Secretary's notification. Except as provided in subsection (d), the authority to transport passengers under subsection (b) expires at the end of that 270-day period.
 
 &emsp;(2)
 

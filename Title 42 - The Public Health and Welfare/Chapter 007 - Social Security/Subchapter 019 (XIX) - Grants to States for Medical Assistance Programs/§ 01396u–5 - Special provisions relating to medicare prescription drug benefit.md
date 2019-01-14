@@ -46,7 +46,7 @@ The amounts expended by a State in carrying out subsection (a) are expenditures 
 
 #### (B) Form and manner of payment
 
-&emsp;&emsp;Payment under subparagraph (A) shall be made in a manner specified by the Secretary that is similar to the manner in which State payments are made under an agreement entered into under section 1395v of this title, except that all such payments shall be deposited into the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund.
+&emsp;&emsp;Payment under subparagraph (A) shall be made in a manner specified by the Secretarythat is similar to the manner in which State payments are made under an agreement entered into under section 1395v of this title, except that all such payments shall be deposited into the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund.
 
 #### (C) Compliance
 
@@ -168,7 +168,7 @@ The amounts expended by a State in carrying out subsection (a) are expenditures 
 
 #### (1) Medicare as primary payor
 
-&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of this title) who is described in subsection (c)(6)(A)(ii), notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the plan under this subchapter. Nopayment may be made under section 1396b(a) of this title for prescribed drugs for which medical assistance is not available pursuant to this paragraph.
+&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of this title) who is described in subsection (c)(6)(A)(ii), notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the plan under this subchapter. No payment may be made under section 1396b(a) of this title for prescribed drugs for which medical assistance is not available pursuant to this paragraph.
 
 #### (2) Coverage of certain excludable drugs
 

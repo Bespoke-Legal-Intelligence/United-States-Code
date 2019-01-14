@@ -6,7 +6,7 @@ Between Rochester and Alexandria Bay.—Until passenger service is established b
 
 (b)
 
-Within Alaska or Between Alaska and Other Points in the United States.—Until the Secretary of Transportation determines that service by vessels of the United States is available to provide the transportation described in paragraph (1) or (2), sections 55102 and 55103 of this title do not apply to the transportation on Canadian vessels of—
+Within Alaska or Between Alaska and Other Points in the United States.—Until theSecretary of Transportation determines that service by vessels of the United States is available to provide the transportation described in paragraph (1) or (2), sections 55102 and 55103 of this title do not apply to the transportation on Canadian vessels of—
 
 &emsp;(1) passengers between ports in southeastern Alaska; or
 

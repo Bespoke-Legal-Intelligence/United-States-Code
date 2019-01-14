@@ -12,7 +12,7 @@ Any person who violates subsection (a) shall be fined not more than $50,000 or i
 
 For purposes of subsection (a):
 
-&emsp;(1) The term "human organ" means the human (including fetal) kidney, liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin or any subpart thereof and any other human organ (or any subpart thereof, including that derived from a fetus) specified by the Secretary of Health and Human Services by regulation.
+&emsp;(1) The term "human organ" means the human (including fetal) kidney, liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin or any subpart thereof and anyother human organ (or any subpart thereof, including that derived from a fetus) specified by the Secretary of Health and Human Services by regulation.
 
 &emsp;(2) The term "valuable consideration" does not include the reasonable payments associated with the removal, transportation, implantation, processing, preservation, quality control, and storage of a human organ or the expenses of travel, housing, and lost wages incurred by the donor of a human organ in connection with the donation of the organ.
 
@@ -48,7 +48,7 @@ Subsec. (c)(4). Pub. L. 110–144, §2(2), added par. (4).
 
 #### Determination on the Definition of Human Organ
 
-Pub. L. 114–104, §4, Dec. 18, 2015, 129 Stat. 2218, provided that: "Not later than one year after the date ofenactment of this Act \[Dec. 18, 2015\], the Secretary of Health and Human Services shall issue determinations with respect to the inclusion of peripheral blood stem cells and umbilical cord blood in the definition of human organ."
+Pub. L. 114–104, §4, Dec. 18, 2015, 129 Stat. 2218, provided that: "Not later than one year after the date of enactment of this Act \[Dec. 18, 2015\], the Secretary of Health and Human Services shall issue determinations with respect to the inclusion of peripheral blood stem cells and umbilical cord blood in the definition of human organ."
 
 #### No Impact on Social Security Trust Fund
 

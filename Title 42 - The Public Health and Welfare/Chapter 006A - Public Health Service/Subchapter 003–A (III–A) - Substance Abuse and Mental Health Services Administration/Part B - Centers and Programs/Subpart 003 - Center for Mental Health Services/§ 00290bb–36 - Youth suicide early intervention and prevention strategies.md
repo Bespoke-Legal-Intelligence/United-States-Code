@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall award grants or cooperative agreements to eligible entities to—
+The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use,shall award grants or cooperative agreements to eligible entities to—
 
 &emsp;(1) develop and implement State-sponsored statewide or tribal youth suicide early intervention and prevention strategies in schools, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, and other child and youth support organizations;
 
@@ -38,7 +38,7 @@ The Secretary, acting through the Assistant Secretary for Mental Health and Subs
 
 In providing assistance under a grant or cooperative agreement under this section, an eligible entity shall give preference to public organizations, private nonprofit organizations, political subdivisions, institutions of higher education, and tribal organizations actively involved with the State-sponsored statewide or tribal youth suicide early intervention and prevention strategy that—
 
-&emsp;(1) provide early intervention and assessment services, including screening programs, to youth who are at risk for mental or emotional disorders that may lead to a suicide attempt, and that are integrated with schoolsystems, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, and other child and youth support organizations;
+&emsp;(1) provide early intervention and assessment services, including screening programs, to youth who are at risk for mental or emotional disorders that may lead to a suicide attempt, and that are integrated with school systems, educational institutions, juvenile justice systems, substance use disorder programs, mental health programs, foster care systems, and other child and youth support organizations;
 
 &emsp;(2) demonstrate collaboration among early intervention and prevention services or certify that entities will engage in future collaboration;
 
@@ -56,7 +56,7 @@ In providing assistance under a grant or cooperative agreement under this sectio
 
 &emsp;(9) ensure that information and awareness campaigns on youth suicide risk factors, and early intervention and prevention services, use effective communication mechanisms that are targeted to and reach youth, families, schools, educational institutions, and youth organizations;
 
-&emsp;(10) provide a timely response system to ensure that child-serving professionals and providers are properly trained in youth suicide early intervention and prevention strategies and that child-serving professionals and providers involved in early intervention and prevention services are properly trained in effectively identifying youth who are at risk for suicide;
+&emsp;(10) provide a timely response system to ensure that child-serving professionals and providers are properly trained in youth suicide early intervention and prevention strategiesand that child-serving professionals and providers involved in early intervention and prevention services are properly trained in effectively identifying youth who are at risk for suicide;
 
 &emsp;(11) provide continuous training activities for child care professionals and community care providers on the latest youth suicide early intervention and prevention services practices and strategies;
 
@@ -104,7 +104,7 @@ Not less than 85 percent of grant funds received under this section shall be use
 
 #### (f) Rule of construction; religious and moral accommodation
 
-Nothing in this section shall be construed to require suicide assessment, early intervention,or treatment services for youth whose parents or legal guardians object based on the parents' or legal guardians' religious beliefs or moral objections.
+Nothing in this section shall be construed to require suicide assessment, early intervention, or treatment services for youth whose parents or legal guardians object based on the parents' or legal guardians' religious beliefs or moral objections.
 
 #### (g) Evaluations and report
 
@@ -182,7 +182,7 @@ The Indian Health Care Improvement Act, referred to in subsec. (b)(1)(C), is Pub
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (k), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The No Child Left Behind Act of 2001, referred to in subsec. (k), is Pub. L. 107–110, Jan. 8, 2002, 115 Stat. 1425. For complete classification of this Act to the Code, seeShort Title of 2002 Amendment note set out under section 6301 of Title 20, Education, and Tables.
+The No Child Left Behind Act of 2001, referred to in subsec. (k), is Pub. L. 107–110, Jan. 8, 2002, 115 Stat. 1425. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
 #### Prior Provisions
 

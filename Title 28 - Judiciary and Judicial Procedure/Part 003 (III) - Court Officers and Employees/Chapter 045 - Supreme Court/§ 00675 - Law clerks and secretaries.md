@@ -8,7 +8,7 @@ The Chief Justice of the United States, and the associate justices of the Suprem
 
 Based on title 28, U.S.C., 1926 ed., §328 (June 1, 1922, ch. 204, title II, 42 Stat. 614; Jan. 3, 1923, ch. 21, title II, 42 Stat. 1081; May 28, 1924, ch. 204, title II, 43 Stat. 218; Feb. 27, 1925, ch. 364, title II, 43 Stat. 1028).
 
-Section is derived from Appropriation Acts for fiscal years cited in the credits. It was omitted from the 1934 and 1940 editions of the U.S. Code because it was considered to be probably of a temporary nature. This section is consistent with other provisions authorizing the appointment of similar personnel for circuit and district judges.
+Section is derived from Appropriation Acts for fiscal years cited in the credits. It was omitted from the 1934 and 1940 editions of the U.S. Code because it was considered to be probably of a temporary nature. This section is consistent with other provisions authorizing theappointment of similar personnel for circuit and district judges.
 
 The 1942 appropriation act (July 2, 1942, ch. 472, title IV, 56 Stat. 501) made provision for "all other officers and employees, whose compensation shall be fixed by the Court, except as otherwise provided by law and who may be assigned by the Chief Justice to any office or work of the Court."
 

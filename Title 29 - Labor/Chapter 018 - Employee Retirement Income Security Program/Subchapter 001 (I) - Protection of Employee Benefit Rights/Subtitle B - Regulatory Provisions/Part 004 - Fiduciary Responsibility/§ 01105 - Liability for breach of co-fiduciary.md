@@ -12,7 +12,7 @@ In addition to any liability which he may have under any other provisions of thi
 
 #### (b) Assets held by two or more trustees
 
-(1) Except as otherwise provided in subsection (d) and in section 1103(a)(1) and (2) of this title, if the assets of a plan are held by two or more trustees—
+(1) Except as otherwise provided in subsection (d) and in section 1103(a)(1) and (2) of this title,if the assets of a plan are held by two or more trustees—
 
 &emsp;(A) each shall use reasonable care to prevent a co-trustee from committing a breach; and
 

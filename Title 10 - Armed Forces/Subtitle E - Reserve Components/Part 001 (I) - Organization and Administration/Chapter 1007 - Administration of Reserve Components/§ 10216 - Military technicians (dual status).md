@@ -46,7 +46,7 @@ Priority for Management of Military Technicians (Dual Status).—(1) As a basis 
 
 &emsp;(C) Those organizations with the primary mission of providing direct support surface and aviation maintenance for the reserve components of the Army and Air Force, to the extent that the military technicians (dual status) in such units would mobilize and deploy in a skill that is compatible with their civilian position skill.
 
-(2) For each fiscal year, the Secretary of Defense shall, for the high-priority units and organizations referred to in paragraph (1), seek to achieve a programmed manning level for military technicians (dual status) that is not less than 90 percent of the programmed manpower structure for those units and organizations for military technicians (dual status) for that fiscal year.
+(2) For each fiscal year, the Secretary of Defense shall, for the high-priority units and organizations referred to in paragraph (1), seek to achieve a programmed manning level for military technicians (dual status) that is not lessthan 90 percent of the programmed manpower structure for those units and organizations for military technicians (dual status) for that fiscal year.
 
 (3) Military technician (dual status) authorizations and personnel shall be exempt from any requirement (imposed by law or otherwise) for reductions in Department of Defense civilian personnel and shall only be reduced as part of military force structure reductions.
 
@@ -100,7 +100,7 @@ Retention of Military Technicians Who Lose Dual Status Due to Combat-Related Dis
 
 (3) Persons retained under the authority of this subsection do not count against the limitations of section 10217(c) of this title.
 
-(Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, §413(b), (c), title XII, §1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, §521, Oct. 5, 1999, 113 Stat. 595; Pub. L. 108–136, div. A, title IV, §403(c), Nov. 24, 2003, 117 Stat. 1452; Pub. L. 109–163, div. A, title V, §513(a), Jan. 6, 2006, 119 Stat. 3232; Pub. L. 109–364, div. A, title V, §525(b), Oct. 17, 2006, 120 Stat. 2194; Pub. L. 110–181, div. A, title V, §511, Jan. 28, 2008, 122 Stat. 98; Pub. L. 110–417, \[div. A\], title V, §511, Oct. 14, 2008, 122 Stat. 4439; Pub. L. 111–383, div. A, title V, §512, title X, §1075(b)(52), Jan. 7, 2011, 124 Stat. 4210, 4372; Pub. L. 112–81, div. A, title V, §514(a), Dec. 31, 2011, 125 Stat. 1394.)
+(Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, §413(b), (c), title XII, §1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, §521, Oct. 5, 1999, 113 Stat. 595; Pub. L. 108–136, div. A, title IV, §403(c), Nov. 24, 2003, 117 Stat. 1452; Pub. L. 109–163, div. A, title V, §513(a), Jan. 6, 2006, 119 Stat. 3232;Pub. L. 109–364, div. A, title V, §525(b), Oct. 17, 2006, 120 Stat. 2194; Pub. L. 110–181, div. A, title V, §511, Jan. 28, 2008, 122 Stat. 98; Pub. L. 110–417, \[div. A\], title V, §511, Oct. 14, 2008, 122 Stat. 4439; Pub. L. 111–383, div. A, title V, §512, title X, §1075(b)(52), Jan. 7, 2011, 124 Stat. 4210, 4372; Pub. L. 112–81, div. A, title V, §514(a), Dec. 31, 2011, 125 Stat. 1394.)
 
 #### Amendments
 
@@ -198,7 +198,7 @@ Pub. L. 114–92, div. A, title X, §1053(a), Nov. 25, 2015, 129 Stat. 981, as a
 
 "(1)
 
-In general.—By not later than October 1, 2017, the Secretary of Defense shall convert not fewer than 12.6 percent of all military technician positions to positions filled by individuals who are employed under section 3101 of title 5, United States Code, or section 1601 of title 10, United States Code, and are not military technicians. The positions to be converted are described in paragraph (2).
+In general.—By not later than October 1, 2017, the Secretary of Defense shall convert not fewer than12.6 percent of all military technician positions to positions filled by individuals who are employed under section 3101 of title 5, United States Code, or section 1601 of title 10, United States Code, and are not military technicians. The positions to be converted are described in paragraph (2).
 
 "(2)
 
@@ -210,5 +210,5 @@ Covered positions.—The positions described in this paragraph are military tech
 
 "(3)
 
-Treatment of incumbents.—In the case of a position converted under paragraph (1) for which there is an incumbent employee, the Secretary shall fill that position, as converted, with the incumbent employeewithout regard to any requirement concerning competition or competitive hiring procedures."
+Treatment of incumbents.—In the case of a position converted under paragraph (1) for which there is an incumbent employee, the Secretary shall fill that position, as converted, with the incumbent employee without regard to any requirement concerning competition or competitive hiring procedures."
 

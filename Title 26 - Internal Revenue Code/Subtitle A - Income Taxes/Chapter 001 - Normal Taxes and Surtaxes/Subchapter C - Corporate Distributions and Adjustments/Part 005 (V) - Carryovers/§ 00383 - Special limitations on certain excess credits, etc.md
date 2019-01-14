@@ -20,7 +20,7 @@ If an ownership change occurs with respect to a corporation, the amount of any n
 
 #### (c) Foreign tax credits
 
-If an ownership change occurs with respect to a corporation, the amount of any excess foreigntaxes under section 904(c) for any taxable year before the 1st post-change taxable year shall be limited under regulations which shall be consistent with purposes of this section and section 382.
+If an ownership change occurs with respect to a corporation, the amount of any excess foreign taxes under section 904(c) for any taxable year before the 1st post-change taxable year shall be limited under regulations which shall be consistent with purposes of this section and section 382.
 
 #### (d) Pro ration rules for year which includes change
 
@@ -30,7 +30,7 @@ For purposes of this section, rules similar to the rules of subsections (b)(3) a
 
 Terms used in this section shall have the same respective meanings as when used in section 382, except that appropriate adjustments shall be made to take into account that the limitations of this section apply to credits and net capital losses.
 
-(Added Pub. L. 92–178, title III, §302(a), Dec. 10, 1971, 85 Stat. 521; amended Pub. L. 94–455, title VIII, §806(f)(2), title X, §1031(b)(5), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1605, 1623, 1834; Pub. L. 95–30, title II, §202(d)(3)(B), (C), May 23, 1977, 91 Stat. 148; Pub. L. 96–222, title I, §103(a)(6)(G)(xiii), Apr. 1, 1980, 94 Stat. 211; Pub. L. 96–223, title II, §232(b)(2)(C), (D), Apr. 2, 1980, 94 Stat. 276; Pub. L. 97–34, title II, §221(b)(1)(C), (D), title III, §331(d)(1)(C), (D), Aug. 13, 1981, 95 Stat. 246, 294; Pub. L. 98–369, div. A, title IV, §474(r)(12)(A), (B), July 18, 1984, 98 Stat. 841; Pub. L. 99–514, title VI, §621(b), (e)(1), Oct. 22, 1986, 100 Stat. 2265, 2266.)
+(Added Pub. L. 92–178, title III, §302(a), Dec. 10, 1971, 85 Stat. 521; amended Pub. L. 94–455, title VIII, §806(f)(2), title X, §1031(b)(5), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1605, 1623, 1834; Pub. L. 95–30, title II, §202(d)(3)(B), (C), May 23, 1977, 91 Stat. 148; Pub. L. 96–222, title I, §103(a)(6)(G)(xiii), Apr. 1, 1980, 94 Stat. 211; Pub. L. 96–223, title II, §232(b)(2)(C), (D), Apr. 2, 1980, 94 Stat. 276; Pub. L. 97–34, title II, §221(b)(1)(C), (D), title III, §331(d)(1)(C), (D), Aug. 13, 1981, 95 Stat. 246, 294; Pub. L. 98–369, div. A, title IV, §474(r)(12)(A), (B), July 18, 1984, 98 Stat. 841; Pub.L. 99–514, title VI, §621(b), (e)(1), Oct. 22, 1986, 100 Stat. 2265, 2266.)
 
 #### Amendments
 
@@ -74,7 +74,7 @@ Pub. L. 96–223, §232(b)(2)(C), in section 383, as amended by Pub. L. 94–455
 
 Pub. L. 96–222, in sections 383, as related to section 382(a) of this title, before and after amendment by Pub. L. 94–455, §806(f)(2), substituted "section 53(b)" for "section 53(c)".
 
-<b>1977</b>—Pub. L. 95–30, §202(d)(3)(C), in section 383, as in effect prior to amendment by Pub. L. 94–455, §806(f)(2), as related to section 382(a) of this title, inserted "to any unused new employee credit of the corporation which could otherwise be carried forward under section 53(c)" in text and "new employee credits," in catchline.
+<b>1977</b>—Pub. L. 95–30, §202(d)(3)(C), in section 383, as in effect prior to amendment by Pub. L. 94–455, §806(f)(2), as related to section 382(a) of this title, inserted "to any unused new employee credit of the corporationwhich could otherwise be carried forward under section 53(c)" in text and "new employee credits," in catchline.
 
 Pub. L. 95–30, §202(d)(3)(B), in section 383, as amended by Pub. L. 94–455, §806(f)(2), as related to section 382(a) of this title, inserted "to any unused new employee credit of the corporation under section 53(c)" in text and "new employee credits," in section catchline.
 

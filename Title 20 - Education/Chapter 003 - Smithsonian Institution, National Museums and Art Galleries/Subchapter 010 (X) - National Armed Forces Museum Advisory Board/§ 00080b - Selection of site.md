@@ -2,7 +2,7 @@
 
 #### (a) Authorization of Board of Regents; submission of recommendations to Congress
 
-The Board of Regents of the Smithsonian Institution is authorized and directed, with the advice and assistance of the Board, to investigate and survey lands and buildings in and near the District of Columbia suitable for the display of military collections. The Board of Regents of the Smithsonian Institution shall, after consulting with and seeking the advice of the Commission on Fine Arts, the National Capital Planning Commission, and the General Services Administration, submit recommendations to the Congress with respect to the acquisition of lands and buildings for such purpose.
+The Board of Regents of the Smithsonian Institution is authorized and directed, with the advice and assistance of the Board, to investigate and survey lands and buildings in and near theDistrict of Columbia suitable for the display of military collections. The Board of Regents of the Smithsonian Institution shall, after consulting with and seeking the advice of the Commission on Fine Arts, the National Capital Planning Commission, and the General Services Administration, submit recommendations to the Congress with respect to the acquisition of lands and buildings for such purpose.
 
 #### (b) Public exhibits and study collections; exhibits of military and naval operations
 

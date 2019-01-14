@@ -24,7 +24,7 @@
 
 &emsp;(5) If, within the 90-day period referred to in paragraphs (3) and (4), the employee cannot be placed in a position under paragraph (4), he shall be reassigned or separated under the regulations prescribed by the Office of Personnel Management to carry out sections 3501–3503 of title 5.
 
-&emsp;(6) If there is a termination of or material change in the activity in which the former position of the employee (referred to in paragraph (1)) was located, he shall be placed, in the manner provided by paragraphs (2), (3), and (4), as applicable, in a position in the department concerned in a geographical area other than the geographical area in which such former position was located.
+&emsp;(6) If there is a termination of or material change in the activity in which the former position of the employee (referred to in paragraph (1)) was located, he shall be placed, inthe manner provided by paragraphs (2), (3), and (4), as applicable, in a position in the department concerned in a geographical area other than the geographical area in which such former position was located.
 
 (d) Each employee who is placed in a position under paragraph (1), (2), (3), (4), or (6) of subsection (c) shall be paid at a rate of basic pay which is not less than the rate of basic pay to which he would have been entitled if he had not been assigned to duty outside the United States.
 

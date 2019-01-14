@@ -68,7 +68,7 @@ In subsection (c), the words "take maximum action" are substituted for "be respo
 
 #### Executive Order No. 11867
 
-Ex. Ord. No. 11867, eff. June 19, 1975, 40 F.R. 26253, which delegated to Administrator of General Servicesauthority to issue regulations, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 11867, eff. June 19, 1975, 40 F.R. 26253, which delegated to Administrator of General Services authority to issue regulations, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 #### Ex. Ord. No. 11893. Transferring Certain Functions from General Services Administration to Office of Management and Budget
 

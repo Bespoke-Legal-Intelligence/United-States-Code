@@ -38,7 +38,7 @@
 
 #### (E) Adjustments based on economic conditions and individuals served during the program year
 
-&emsp;&emsp;The Secretary shall, in accordance with the objective statistical model developed pursuant to subparagraph (D)(ii), adjust the expected levels of performance for a program year for grantees, to reflect the actual economic conditions and characteristics of participants in the corresponding projects during such program year.
+&emsp;&emsp;The Secretary shall, in accordance with the objective statistical model developedpursuant to subparagraph (D)(ii), adjust the expected levels of performance for a program year for grantees, to reflect the actual economic conditions and characteristics of participants in the corresponding projects during such program year.
 
 #### (3) Limitation
 

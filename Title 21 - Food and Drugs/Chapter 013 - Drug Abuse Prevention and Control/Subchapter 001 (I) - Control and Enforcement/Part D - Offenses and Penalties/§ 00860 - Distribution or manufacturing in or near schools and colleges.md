@@ -28,7 +28,7 @@ For the purposes of this section—
 
 &emsp;(1) The term "playground" means any outdoor facility (including any parking lot appurtenant thereto) intended for recreation, open to the public, and with any portion thereof containing three or more separate apparatus intended for the recreation of children including, but not limited to, sliding boards, swingsets, and teeterboards.
 
-&emsp;(2) The term "youth center" means any recreational facility and/or gymnasium (including any parking lot appurtenant thereto), intended primarily for use by persons under 18 years of age, which regularly provides athletic, civic, or cultural activities.
+&emsp;(2) The term "youth center" means any recreational facility and/or gymnasium (including any parking lot appurtenant thereto), intended primarily for use by persons under 18years of age, which regularly provides athletic, civic, or cultural activities.
 
 &emsp;(3) The term "video arcade facility" means any facility, legally accessible to persons under 18 years of age, intended primarily for the use of pinball and video machines for amusement containing a minimum of ten pinball and/or video machines.
 

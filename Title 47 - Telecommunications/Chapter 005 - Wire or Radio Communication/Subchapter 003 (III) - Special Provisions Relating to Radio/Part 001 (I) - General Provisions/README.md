@@ -18,6 +18,7 @@ Part I—General Provisions
 - [&sect; 00307 - Licenses](%C2%A7%2000307%20-%20Licenses.md)
 - [&sect; 00308 - Requirements for license](%C2%A7%2000308%20-%20Requirements%20for%20license.md)
 - [&sect; 00309 - Application for license](%C2%A7%2000309%20-%20Application%20for%20license.md)
+- [&sect; 00309a - Reports related to spectrum auctions](%C2%A7%2000309a%20-%20Reports%20related%20to%20spectrum%20auctions.md)
 - [&sect; 00310 - License ownership restrictions](%C2%A7%2000310%20-%20License%20ownership%20restrictions.md)
 - [&sect; 00311 - Requirements as to certain applications in broadcasting service](%C2%A7%2000311%20-%20Requirements%20as%20to%20certain%20applications%20in%20broadcasting%20service.md)
 - [&sect; 00312 - Administrative sanctions](%C2%A7%2000312%20-%20Administrative%20sanctions.md)

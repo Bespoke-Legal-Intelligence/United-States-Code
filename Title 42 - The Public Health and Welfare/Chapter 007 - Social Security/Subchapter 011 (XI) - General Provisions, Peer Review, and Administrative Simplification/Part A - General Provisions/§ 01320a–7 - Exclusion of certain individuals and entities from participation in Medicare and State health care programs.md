@@ -32,7 +32,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;&emsp;&emsp;(i) in connection with the delivery of a health care item or service, or
 
-&emsp;&emsp;&emsp;(ii) with respect to any act or omission in a health care program (other than thosespecifically described in subsection (a)(1)) operated by or financed in whole or in part by any Federal, State, or local government agency; or
+&emsp;&emsp;&emsp;(ii) with respect to any act or omission in a health care program (other than those specifically described in subsection (a)(1)) operated by or financed in whole or in part by any Federal, State, or local government agency; or
 
 &emsp;&emsp;(B) of a criminal offense relating to fraud, theft, embezzlement, breach of fiduciary responsibility, or other financial misconduct with respect to any act or omission in a program (other than a health care program) operated by or financed in whole or in part by any Federal, State, or local government agency.
 
@@ -46,7 +46,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 #### (3) Misdemeanor conviction relating to controlled substance
 
-&emsp;Any individual or entity that has been convicted, under Federal or State law, of a criminal offense consisting of a misdemeanor relating to the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance.
+&emsp;Any individual or entity that has been convicted, under Federal or State law, of a criminal offense consisting of a misdemeanor relating to the unlawful manufacture, distribution,prescription, or dispensing of a controlled substance.
 
 #### (4) License revocation or suspension
 
@@ -96,7 +96,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;&emsp;(ii) who is an officer, director, agent, or managing employee (as defined in section 1320a–5(b) of this title) of that entity; or
 
-&emsp;&emsp;(iii) who was described in clause (i) but is no longer so described because of a transferof ownership or control interest, in anticipation of (or following) a conviction, assessment, or exclusion described in subparagraph (B) against the person, to an immediate family member (as defined in subsection (j)(1)) or a member of the household of the person (as defined in subsection (j)(2)) who continues to maintain an interest described in such clause—
+&emsp;&emsp;(iii) who was described in clause (i) but is no longer so described because of a transfer of ownership or control interest, in anticipation of (or following) a conviction, assessment, or exclusion described in subparagraph (B) against the person, to an immediate family member (as defined in subsection (j)(1)) or a member of the household of the person (as defined in subsection (j)(2)) who continues to maintain an interest described in such clause—
 
 > &emsp;is a person—
 
@@ -112,7 +112,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 #### (10) Failure to supply requested information on subcontractors and suppliers
 
-&emsp;Any disclosing entity (as defined in section 1320a–3(a)(2) of this title) that fails to supply (within such period as may be specified by the Secretary in regulations) upon request specifically addressed to the entity by the Secretary or by the State agency administering or supervising the administration of a State health care program—
+&emsp;Any disclosing entity (as defined in section 1320a–3(a)(2) of this title) that fails to supply (within such period as may be specified by the Secretary in regulations) upon request specifically addressed to the entity by the Secretaryor by the State agency administering or supervising the administration of a State health care program—
 
 &emsp;&emsp;(A) full and complete information as to the ownership of a subcontractor (as defined by the Secretary in regulations) with whom the entity has had, during the previous 12 months, business transactions in an aggregate amount in excess of $25,000, or
 
@@ -224,7 +224,7 @@ The Secretary shall—
 
 #### (f) Notice, hearing, and judicial review
 
-(1) Subject to paragraph (2), any individual or entity that is excluded (or directed to be excluded) from participation under this section is entitled to reasonable notice and opportunity for a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title, except that, in so applying such sections and section 405(l) of this title, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
+(1) Subject to paragraph (2), any individual or entity that is excluded (or directed to be excluded) from participation under this section is entitled to reasonable notice and opportunity for a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title, except that, in so applying such sections and section405(l) of this title, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
 
 (2) Unless the Secretary determines that the health or safety of individuals receiving services warrants the exclusion taking effect earlier, any individual or entity that is the subject of an adverse determination under subsection (b)(7) shall be entitled to a hearing by an administrative law judge (as provided under section 405(b) of this title) on the determination under subsection (b)(7) before any exclusion based upon the determination takes effect.
 
@@ -288,7 +288,7 @@ For purposes of subsection (b)(8)(A)(iii):
 
 &emsp;(2) The term "member of the household" means, with respect to any person, any individual sharing a common abode as part of a single family unit with the person, including domestic employees and others who live together as a family unit, but not including a roomer or boarder.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128, as added Pub. L. 96–499, title IX, §913(a), Dec. 5, 1980, 94 Stat. 2619; amended Pub. L. 97–35, title XXI, §2105(b), title XXIII, §2353(k), Aug. 13, 1981, 95 Stat. 791, 873; Pub. L. 98–369, div. B, title III, §2333(a), (b), July 18, 1984, 98 Stat. 1089; Pub. L. 99–509, title IX, §9317(c), Oct. 21, 1986, 100 Stat. 2008; Pub. L. 100–93, §2, Aug. 18, 1987, 101 Stat. 680; Pub. L. 100–203, title IV, §4118(e)(2)–(5), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 795; Pub. L. 100–360, title IV, §411(k)(10)(C), July 1, 1988, 102 Stat. 795; Pub. L. 101–239, title VI, §6411(d)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §4164(b)(3), Nov. 5, 1990, 104 Stat. 1388–102; Pub. L. 102–54, §13(q)(3)(A)(ii), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §108(b)(9), title II, §206(b)(2), Aug. 15, 1994, 108 Stat. 1483, 1513; Pub. L. 104–191, title II, §§211–213, Aug. 21, 1996, 110 Stat. 2003–2005; Pub. L. 105–33, title IV, §§4301, 4303(a), 4331(c), 4901(b)(2), Aug. 5, 1997, 111 Stat. 382, 396, 570; Pub. L. 108–173, title IX, §949, Dec. 8, 2003, 117 Stat. 2426; Pub. L. 111–148, title VI, §§6402(d)(1), (e), (k), 6406(c), 6408(c), 6703(d)(3)(A), Mar. 23, 2010, 124 Stat. 757, 759, 763, 769, 772, 804.)
+(Aug. 14, 1935, ch. 531, title XI, §1128, as added Pub. L. 96–499, title IX, §913(a), Dec. 5, 1980, 94 Stat. 2619; amended Pub. L. 97–35, title XXI, §2105(b), title XXIII, §2353(k), Aug. 13, 1981, 95 Stat. 791, 873; Pub. L. 98–369, div. B, title III, §2333(a), (b), July 18, 1984, 98 Stat. 1089; Pub. L. 99–509, title IX, §9317(c), Oct. 21, 1986, 100 Stat. 2008; Pub. L. 100–93, §2, Aug. 18, 1987, 101 Stat. 680; Pub. L. 100–203, title IV, §4118(e)(2)–(5), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 795; Pub. L. 100–360, title IV, §411(k)(10)(C), July 1, 1988, 102 Stat. 795; Pub. L. 101–239, titleVI, §6411(d)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §4164(b)(3), Nov. 5, 1990, 104 Stat. 1388–102; Pub. L. 102–54, §13(q)(3)(A)(ii), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §108(b)(9), title II, §206(b)(2), Aug. 15, 1994, 108 Stat. 1483, 1513; Pub. L. 104–191, title II, §§211–213, Aug. 21, 1996, 110 Stat. 2003–2005; Pub. L. 105–33, title IV, §§4301, 4303(a), 4331(c), 4901(b)(2), Aug. 5, 1997, 111 Stat. 382, 396, 570; Pub. L. 108–173, title IX, §949, Dec. 8, 2003, 117 Stat. 2426; Pub. L. 111–148, title VI, §§6402(d)(1), (e), (k), 6406(c), 6408(c), 6703(d)(3)(A), Mar. 23, 2010, 124 Stat. 757, 759, 763, 769, 772, 804.)
 
 #### References in Text
 
@@ -432,7 +432,7 @@ Pub. L. 100–93, §15, Aug. 18, 1987, 101 Stat. 698, provided that:
 
 "(a)
 
-In General.—Except as provided in subsections (b), (c), (d), and (e), the amendments made by this Act \[enacting sections 1395aaa and 1396r–2 of this title, amending this section, sections 704, 1320a–3, 1320a–5, 1320a–7a, 1320a–7b, 1320c–5, 1395u, 1395y, 1395cc, 1395ff, 1395nn, 1395rr, 1395ss, 1395ww, 1396a, 1396b, 1396h, 1396n, 1396s, and 1397d of this title, and section 824 of Title 21, Food and Drugs, transferring section 1396h of this title to section 1320a–7b of this title, repealing section1395nn of this title, enacting provisions set out as a note under section 1320a–7b of this title, and amending provisions set out as a note under section 1396a of this title\] shall become effective at the end of the fourteen-day period beginning on the date of the enactment of this Act \[Aug. 18, 1987\] and shall not apply to administrative proceedings commenced before the end of such period.
+In General.—Except as provided in subsections (b), (c), (d), and (e), the amendments made by this Act \[enacting sections 1395aaa and 1396r–2 of this title, amending this section, sections 704, 1320a–3, 1320a–5, 1320a–7a, 1320a–7b, 1320c–5, 1395u, 1395y, 1395cc, 1395ff, 1395nn, 1395rr, 1395ss, 1395ww, 1396a, 1396b, 1396h, 1396n, 1396s, and 1397d of this title, and section 824 of Title 21, Food and Drugs, transferring section 1396h of this title to section 1320a–7b of this title, repealing section 1395nn of this title, enacting provisions set out as a note under section 1320a–7b of this title, and amending provisions set out as a note under section 1396a of this title\] shall become effective at the end of the fourteen-day period beginning on the date of the enactment of this Act \[Aug. 18, 1987\] and shall not apply to administrative proceedings commenced before the end of such period.
 
 "(b)
 
@@ -444,7 +444,7 @@ Effective Date for Changes in Medicaid Law.—(1) The amendments made by section
 
 "(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this Act, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act.
 
-"(3) Subsection (j) of section 1128A of the Social Security Act \[42 U.S.C. 1320a–7a(j)\] (as added by section 3(f) of this Act) takes effect on the date of the enactment of this Act.
+"(3) Subsection (j) of section 1128A of the Social Security Act \[42 U.S.C. 1320a–7a(j)\] (as added by section 3(f)of this Act) takes effect on the date of the enactment of this Act.
 
 "(d)
 

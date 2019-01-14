@@ -22,7 +22,7 @@ There are authorized to be appropriated such sums as may be necessary to establi
 
 #### (c) Requisite features of State plans
 
-In order to participate in the pilot program and be eligible to receive payments for any period under subsection (d), a State (during such period) must have a plan, approved by the Commissioner of Social Security as meeting the requirements of this section, which provides medical and social services for severely handicappedindividuals whose earnings are above the level which ordinarily demonstrates an ability to engage in substantial gainful activity and who are not receiving benefits under section 1382 or 1382h of this title or assistance under a State plan approved under section 1396a of this title, and which—
+In order to participate in the pilot program and be eligible to receive payments for any period under subsection (d), a State (during such period) must have a plan, approved by the Commissioner of Social Security as meeting the requirements of this section, which provides medical and social services for severely handicapped individuals whose earnings are above the level which ordinarily demonstrates an ability to engage in substantial gainful activity and who are not receiving benefits under section 1382 or 1382h of this title or assistance under a State plan approved under section 1396a of this title, and which—
 
 &emsp;(1) declares the intent of the State to participate in the pilot program;
 
@@ -44,7 +44,7 @@ In order to participate in the pilot program and be eligible to receive payments
 
 (2) The method of computing and making payments under this section shall be as follows:
 
-&emsp;(A) The Commissioner of Social Security shall, prior to each period for which a payment is to be made to a State, estimate the amount to be paid to the State for such period under the provisions of this section.
+&emsp;(A) The Commissioner of Social Security shall, prior to each period for which a payment is to be made to a State, estimate theamount to be paid to the State for such period under the provisions of this section.
 
 &emsp;(B) From the allotment available therefor, the Commissioner of Social Security shall pay the amount so estimated, reduced or increased, as the case may be, by any sum (not previously adjusted under this subsection) by which the Commissioner finds that the Commissioner's estimate of the amount to be paid the State for any prior period under this section was greater or less than the amount which should have been paid to the State for such period under this section.
 

@@ -20,5 +20,5 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 #### Savings Provision
 
-Enactment of section by Pub. L. 86–243 not to deprive Customs Court officers or employees of any rights,privileges, or civil service status, see section 4 of Pub. L. 86–243, set out as a note under section 871 of this title.
+Enactment of section by Pub. L. 86–243 not to deprive Customs Court officers or employees of any rights, privileges, or civil service status, see section 4 of Pub. L. 86–243, set out as a note under section 871 of this title.
 

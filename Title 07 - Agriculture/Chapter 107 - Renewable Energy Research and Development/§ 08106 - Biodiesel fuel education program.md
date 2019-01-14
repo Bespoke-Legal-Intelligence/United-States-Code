@@ -18,17 +18,11 @@ To receive a grant under subsection (b), an entity shall—
 
 In carrying out this section, the Secretary shall consult with the Secretary of Energy.
 
-#### (d) Funding
+#### (d) Authorization of appropriations
 
-#### (1) Mandatory funding
+There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2019 through 2023.
 
-&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $1,000,000 for each of fiscal years 2008 through 2018.
-
-#### (2) Discretionary funding
-
-&emsp;There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2014 through 2018.
-
-(Pub. L. 107–171, title IX, §9006, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1315, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2076; amended Pub. L. 112–240, title VII, §701(f)(5), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9006, Feb. 7, 2014, 128 Stat. 930.)
+(Pub. L. 107–171, title IX, §9006, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1315, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2076; amended Pub. L. 112–240, title VII, §701(f)(5), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9006, Feb. 7, 2014, 128 Stat. 930; Pub. L. 115–334, title IX, §9006, Dec. 20, 2018, 132 Stat. 4885.)
 
 #### Codification
 
@@ -39,6 +33,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8106, Pub. L. 107–171, title IX, §9006, May 13, 2002, 116 Stat. 482; Pub. L. 109–171, title I, §1301, Feb. 8, 2006, 120 Stat. 6, related to assistance to farmers, ranchers, and rural small businesses to purchase renewable energy systems and make energy efficiency improvements, prior to the general amendment of this chapter by Pub. L. 110–246. See section 8107 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–334 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to mandatory and discretionary funding.
 
 <b>2014</b>—Subsec. (d)(1). Pub. L. 113–79, §9006(1), substituted "Mandatory funding" for "Fiscal years 2009 through 2012" in heading and "2018" for "2012" in text.
 

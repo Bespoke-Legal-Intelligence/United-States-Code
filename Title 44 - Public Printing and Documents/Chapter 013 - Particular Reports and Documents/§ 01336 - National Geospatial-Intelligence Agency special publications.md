@@ -1,6 +1,6 @@
 ### §1336. National Geospatial-Intelligence Agency: special publications
 
-The Director of the National Geospatial-Intelligence Agency may authorize the printing of notices to mariners, light lists, sailing directions, bulletins, and other special publications of the National Geospatial-Intelligence Agency in editions the interests of the Government and of the public may require.
+The Director of the National Geospatial-Intelligence Agency may authorize the printing ofnotices to mariners, light lists, sailing directions, bulletins, and other special publications of the National Geospatial-Intelligence Agency in editions the interests of the Government and of the public may require.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1271; Pub. L. 104–201, div. A, title XI, §§1112(e)(2), 1123(b)(1), Sept. 23, 1996, 110 Stat. 2684, 2688; Pub. L. 110–417, \[div. A\], title IX, §931(a)(2), Oct. 14, 2008, 122 Stat. 4575.)
 

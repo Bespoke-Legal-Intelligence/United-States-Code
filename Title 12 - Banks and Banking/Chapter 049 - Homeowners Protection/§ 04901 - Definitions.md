@@ -18,7 +18,7 @@ In this chapter, the following definitions shall apply:
 
 &emsp;&emsp;(B) with respect to an adjustable rate mortgage, at the option of the mortgagor, the date on which the principal balance of the mortgage—
 
-&emsp;&emsp;&emsp;(i) based solely on the amortization schedule then in effect for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, isfirst scheduled to reach 80 percent of the original value of the property securing the loan; or
+&emsp;&emsp;&emsp;(i) based solely on the amortization schedule then in effect for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 80 percent of the original value of the property securing the loan; or
 
 &emsp;&emsp;&emsp;(ii) based solely on actual payments, first reaches 80 percent of the original value of the property securing the loan.
 
@@ -84,7 +84,7 @@ In this chapter, the following definitions shall apply:
 
 #### (15) Residential mortgage transaction
 
-&emsp;The term "residential mortgage transaction" means a transaction consummated on or after the date that is 1 year after July 29, 1998, in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against a single-family dwelling that is the principal residence of the mortgagor to finance the acquisition, initial construction, or refinancing of that dwelling.
+&emsp;The term "residential mortgage transaction" means a transaction consummated on or after the date that is 1 year after July 29,1998, in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against a single-family dwelling that is the principal residence of the mortgagor to finance the acquisition, initial construction, or refinancing of that dwelling.
 
 #### (16) Servicer
 

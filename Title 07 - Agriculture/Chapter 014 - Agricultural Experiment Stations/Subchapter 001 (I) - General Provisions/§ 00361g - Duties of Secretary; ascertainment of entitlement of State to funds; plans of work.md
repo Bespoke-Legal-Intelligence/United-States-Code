@@ -2,7 +2,7 @@
 
 #### (a) Duties of Secretary
 
-The Secretary of Agriculture is charged with the responsibility for the proper administration of sections 361a to 361i of this title, and is authorized and directed to prescribe such rules and regulations as may be necessary to carry out its provisions. It shall be the duty of the Secretary to furnish such advice and assistance as will best promote the purposes of said sections, including participation in coordination of research initiated under said sections by the State agricultural experiment stations, from time to time to indicate such lines of inquiry as to him seem most important, and to encourage and assist in the establishment and maintenance of cooperation by and between the several State agricultural experiment stations, and between the stations and the United States Department of Agriculture.
+The Secretary of Agriculture is charged with the responsibility for the proper administration of sections 361a to 361i of this title, and is authorized and directed to prescribe such rules and regulations as may be necessary to carry out its provisions. It shall be the duty of the Secretary to furnish such advice and assistance as will best promote the purposes of said sections, including participation in coordination of research initiated under said sections by the State agricultural experiment stations, from time to time to indicate such lines of inquiry as to him seem most important, and to encourage and assist inthe establishment and maintenance of cooperation by and between the several State agricultural experiment stations, and between the stations and the United States Department of Agriculture.
 
 #### (b) Ascertainment of entitlement
 
@@ -32,13 +32,11 @@ Before funds may be provided to a State under sections 361a to 361i of this titl
 
 Each plan of work for a State required under subsection (d) shall contain descriptions of the following:
 
-&emsp;(1) The critical short-term, intermediate, and long-term agricultural issues in the State and the current and planned research programs and projects targeted to address the issues.
+&emsp;(1) A summary of planned projects or programs in the State using formula funds.
 
-&emsp;(2) The process established to consult with users of agricultural research regarding the identification of critical agricultural issues in the State and the development of research programs and projects targeted to address the issues.
+&emsp;(2) A description of the manner in which the State will meet the requirements of subsections (c)(3) and (i)(2) of section 361c of this title.
 
-&emsp;(3) The efforts made to identify and collaborate with other colleges and universities within the State, and within other States, that have a unique capacity to address the identified agricultural issues in the State and the extent of current and emerging efforts (including regional efforts) to work with those other institutions.
-
-&emsp;(4) The manner in which research and extension, including research and extension activities funded other than through formula funds, will cooperate to address the critical issues in the State, including the activities to be carried out separately, the activities to be carried out sequentially, and the activities to be carried out jointly.
+&emsp;(3) A description of matching funds provided by the State with respect to the previous fiscal year.
 
 #### (f) Research protocols
 
@@ -54,7 +52,7 @@ Each plan of work for a State required under subsection (d) shall contain descri
 
 To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (d) to satisfy other appropriate Federal reporting requirements.
 
-(Mar. 2, 1887, ch. 314, §7, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 673; Pub. L. 86–533, §1(22), June 29, 1960, 74 Stat. 249; Pub. L. 94–273, §3(2), Apr. 21, 1976, 90 Stat. 376; Pub. L. 105–185, title I, §103(f)(2), title II, §202(b), June 23, 1998, 112 Stat. 528, 532; Pub. L. 107–171, title VII, §7202, May 13, 2002, 116 Stat. 437.)
+(Mar. 2, 1887, ch. 314, §7, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 673; Pub. L. 86–533, §1(22), June 29, 1960, 74 Stat. 249; Pub. L. 94–273, §3(2), Apr. 21, 1976, 90 Stat. 376; Pub. L. 105–185, title I, §103(f)(2), title II, §202(b), June 23, 1998, 112 Stat. 528, 532; Pub. L. 107–171, title VII, §7202, May 13, 2002, 116 Stat. 437; Pub. L. 115–334, title VII, §7612(b)(2), Dec. 20, 2018, 132 Stat. 4832.)
 
 #### Codification
 
@@ -62,11 +60,21 @@ Section was formerly classified to section 379 of this title. See section 361h o
 
 #### Amendments
 
+<b>2018</b>—Subsec. (e). Pub. L. 115–334 added pars. (1) to (3) and struck out former pars. (1) to (4) which read as follows:
+
+"(1) The critical short-term, intermediate, and long-term agricultural issues in the State and the current and planned research programs and projects targeted to address the issues.
+
+"(2) The process established to consult with users of agricultural research regarding the identification of critical agricultural issues in the State and the development of research programs and projects targeted to address the issues.
+
+"(3) The efforts made to identify and collaborate with other colleges and universities within the State, and within other States, that have a unique capacity to address the identified agricultural issues in the State and the extent of current and emerging efforts (including regional efforts) to work with those other institutions.
+
+"(4) The manner in which research and extension, including research and extension activities funded other than through formula funds, will cooperate to address the critical issues in the State, including the activities to be carried out separately, the activities to be carried out sequentially, and the activities to be carried out jointly."
+
 <b>2002</b>—Subsec. (c). Pub. L. 107–171 added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "Whenever it shall appear to the Secretary of Agriculture from the annual statement of receipts and expenditures of funds by any State agricultural experiment station that any portion of the preceding annual appropriation allotted to that station under sections 361a to 361i of this title remains unexpended, such amount shall be deducted from the next succeeding annual allotment to the State concerned."
 
 <b>1998</b>—Pub. L. 105–185, §202(b), inserted section catchline, designated existing provisions as subsecs. (a) to (c), inserted subsec. headings, and added subsecs. (d) to (g).
 
-Pub. L. 105–185, §103(f)(2), struck out at end "If the Secretary of Agriculture shall withhold from any State any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress shall not direct such sum to be paid, it shall be carried to surplus."
+Pub. L. 105–185, §103(f)(2), struck out at end "If the Secretary of Agriculture shall withhold from any State any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the nextCongress. If the next Congress shall not direct such sum to be paid, it shall be carried to surplus."
 
 <b>1976</b>—Pub. L. 94–273 substituted "October" for "July" in second par.
 

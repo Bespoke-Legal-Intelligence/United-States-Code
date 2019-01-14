@@ -22,7 +22,7 @@
 
 #### (2) Receipt of non-Federal lands
 
-&emsp;As consideration for the conveyance of the Federal lands referred to in paragraph (1) and the disbursement referred to in subsection (3), the Otley Brother's, Inc., shall convey to theSecretary a parcel of land in the headwaters of Kiger gorge consisting of approximately 505 acres, as depicted on the map referred to in section 460nnn–105(a) of this title, for inclusion in the Wilderness Area and the no livestock grazing area as appropriate.
+&emsp;As consideration for the conveyance of the Federal lands referred to in paragraph (1) and the disbursement referred to in subsection (3), the Otley Brother's, Inc., shall convey to the Secretary a parcel of land in the headwaters of Kiger gorge consisting of approximately 505 acres, as depicted on the map referred to in section 460nnn–105(a) of this title, for inclusion in the Wilderness Area and the no livestock grazing area as appropriate.
 
 #### (3) Disbursement
 

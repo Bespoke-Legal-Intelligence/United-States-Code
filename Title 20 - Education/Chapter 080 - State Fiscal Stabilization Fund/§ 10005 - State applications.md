@@ -22,7 +22,7 @@ The Governor of a State seeking a grant under section 10006 of this title shall�
 
 &emsp;(2) describe the status of the State's progress in each of the areas described in subsection (d), and the strategies the State is employing to help ensure that students in the subgroups described in section 1111(b)(2)(C)(v)(II) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)(2)(C)(v)(II)) who have not met the State's proficiency targets continue making progress toward meeting the State's student academic achievement standards;
 
-&emsp;(3) describe the achievement and graduation rates (as described in section 1111(b)(2)(C)(vi) <sup>1</sup>of the ESEA (20 U.S.C. 6311(b)(2)(C)(vi)) and as clarified in section 200.19(b)(1) of title 34, Code of Federal Regulations) of public elementary and secondary school students in the State, and the strategies the State is employing to help ensure that all subgroups of students identified in section 1111(b)(2) of the ESEA (20 U.S.C. 6311(b)(2)) in the State continue making progress toward meeting the State's student academic achievement standards;
+&emsp;(3) describe the achievement and graduation rates (as described in section 1111(b)(2)(C)(vi) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)(2)(C)(vi)) and as clarified in section 200.19(b)(1) of title 34, Code of Federal Regulations) of public elementary and secondary school students in the State, and the strategies the State is employing to help ensure that all subgroups of students identified in section 1111(b)(2) of the ESEA (20 U.S.C. 6311(b)(2)) in the State continue making progress toward meeting the State's student academic achievement standards;
 
 &emsp;(4) describe how the State would use its grant funding to improve student academic achievement in the State, including how it will allocate the funds to give priority to high-need local educational agencies; and
 
@@ -54,7 +54,7 @@ An application under subsection (b) shall include the following assurances:
 
 &emsp;The State—
 
-&emsp;&emsp;(A) will enhance the quality of the academic assessments it administers pursuant to section 1111(b)(3) of the ESEA (20 U.S.C. 6311(b)(3)) through activities such as those described in section 6112(a) <sup>1</sup> of such Act (20 U.S.C. 7301a(a));
+&emsp;&emsp;(A) will enhance the quality of the academic assessments it administers pursuant to section 1111(b)(3) of the ESEA (20 U.S.C.6311(b)(3)) through activities such as those described in section 6112(a) <sup>1</sup> of such Act (20 U.S.C. 7301a(a));
 
 &emsp;&emsp;(B) will comply with the requirements of paragraphs (3)(C)(ix) and (6) of section 1111(b) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)) and section 612(a)(16) of the IDEA (20 U.S.C. 1412(a)(16)) related to the inclusion of children with disabilities and limited English proficient students in State assessments, the development of valid and reliable assessments for those students, and the provision of accommodations that enable their participation in State assessments; and
 

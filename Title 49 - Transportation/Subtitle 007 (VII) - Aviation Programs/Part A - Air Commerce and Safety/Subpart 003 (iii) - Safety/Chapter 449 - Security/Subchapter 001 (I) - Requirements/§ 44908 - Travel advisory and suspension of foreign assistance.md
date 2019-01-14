@@ -2,7 +2,7 @@
 
 (a)
 
-Travel Advisories.—On being notified by the Secretary of Transportation that the Secretary of Transportation has decided under section 44907(d)(2)(A)(ii) of this title that a condition exists that threatens the safety or security of passengers, aircraft, or crew traveling to or from a foreign airport that the Secretary of Transportation has decided under section 44907 of this title does not maintain and carry out effective security measures, the Secretary of State—
+Travel Advisories.—On being notified by the Administrator of the Transportation Security Administration that the Administrator of the Transportation Security Administration has decided under section 44907(d)(2)(A)(ii) of this title that a condition exists that threatens the security of passengers, aircraft, or crew traveling to or from a foreign airport that the Administrator of the Transportation Security Administration has decided under section 44907 of this title does not maintain and carry out effective security measures, the Secretary of State—
 
 &emsp;(1) immediately shall issue a travel advisory for that airport; and
 
@@ -14,9 +14,9 @@ Suspending Assistance.—The President shall suspend assistance provided under t
 
 (c)
 
-Actions No Longer Required.—An action required under this section is no longer required only if the Secretary of Transportation has made a decision as provided under section 44907(d)(4) of this title. The Secretary shall notify Congress when the action is no longer required to be taken.
+Actions No Longer Required.—An action required under this section is no longer required only if the Administrator of the Transportation Security Administration has made a decision as provided under section 44907(d)(4) of this title. The Administrator shall notify Congress when the action is no longer required to be taken.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1211; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2224(a), Oct. 21, 1998, 112 Stat. 2681–819.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1211; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2224(a), Oct. 21, 1998, 112 Stat. 2681–819; Pub. L. 115–254, div. K, title I, §1991(d)(7), Oct. 5, 2018, 132 Stat. 3632.)
 
 Historical and Revision Notes
 
@@ -56,5 +56,9 @@ The Arms Export Control Act, referred to in subsec. (b), is Pub. L. 90–629, Oc
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277 inserted "and" at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "shall publish the advisory in the Federal Register; and".
+<b>2018</b>—Subsec. (a). Pub. L. 115–254, §1991(d)(7)(A), (B), in introductory provisions, substituted "Administrator of the Transportation Security Administration" for "Secretary of Transportation" wherever appearing and struck out "safety or" before "security of passengers".
+
+Subsec. (c). Pub. L. 115–254, §1991(d)(7)(A), (C), substituted "Administrator of the Transportation Security Administration" for "Secretary of Transportation" and "The Administrator" for "The Secretary".
+
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 inserted "and" at end of par. (1), redesignated par. (3) as (2), and struckout former par. (2) which read as follows: "shall publish the advisory in the Federal Register; and".
 

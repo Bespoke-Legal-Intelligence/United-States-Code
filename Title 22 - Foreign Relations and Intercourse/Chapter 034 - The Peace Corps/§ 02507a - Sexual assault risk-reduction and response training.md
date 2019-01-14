@@ -6,7 +6,7 @@ As part of the training provided to all volunteers under section 2507(a) of this
 
 #### (b) Development and consultation with experts
 
-In developing the sexual assault risk-reduction and response training under subsection (a), the President shall consult with and incorporate, as appropriate, the recommendations and views of experts in the sexual assault field.
+In developing the sexual assault risk-reduction and response training under subsection (a),the President shall consult with and incorporate, as appropriate, the recommendations and views of experts in the sexual assault field.
 
 #### (c) Subsequent training
 
@@ -14,7 +14,25 @@ Once a volunteer has arrived in his or her country of service, the President sha
 
 #### (d) Information regarding crimes and risks
 
-Each applicant for enrollment as a volunteer shall be provided with information regarding crimes against and risks to volunteers in the country in which the applicant has been invited to serve, including an overview of past crimes against volunteers in the country.
+#### (1) In general
+
+&emsp;Each applicant for enrollment as a volunteer shall be provided, with respect to each country in which the applicant may be invited to serve, with specific, aggregated, and easily accessible information regarding crimes against and risks to volunteers, including—
+
+&emsp;&emsp;(A) an overview of past crimes against volunteers in such country, including statistics regarding unreported crime collected through anonymous surveys;
+
+&emsp;&emsp;(B) the current early termination rate of volunteers serving in such country;
+
+&emsp;&emsp;(C) health risks prevalent in such country;
+
+&emsp;&emsp;(D) the nature and frequency of sexual harassment reported by volunteers serving in such country;
+
+&emsp;&emsp;(E) the extent and types of services provided by the Peace Corps to volunteers serving in such country, including access to medical care, counseling services, and assistance from the Office of Victim Advocacy; and
+
+&emsp;&emsp;(F) the level of satisfaction reported by volunteers serving in such country.
+
+#### (2) Option to timely decline
+
+&emsp;Upon receiving information <sup>1</sup> described in paragraph (1), the applicant shall have the option to change the country of consideration and identify a substitute country.
 
 #### (e) Contact information
 
@@ -64,7 +82,7 @@ In this section and sections 2507b through 2507g of this title:
 
 &emsp;&emsp;&emsp;(ii) Peace Corps staff or law enforcement to prevent or lessen a serious or imminent threat to the health or safety of the victim or another person.
 
-&emsp;&emsp;&emsp;(iii) SARLs, victim advocates or healthcare providers when required for the provision of victim services.
+&emsp;&emsp;&emsp;(iii) SARLs, Victim's Advocates, or healthcare providers when required for the provision of victim services.
 
 &emsp;&emsp;&emsp;(iv) State and Federal courts when ordered, or if disclosure is required by Federal or State statute.
 
@@ -88,17 +106,25 @@ In this section and sections 2507b through 2507g of this title:
 
 &emsp;&emsp;(B) suffer substantial emotional distress.
 
-(Pub. L. 87–293, title I, §8A, as added Pub. L. 112–57, §2, Nov. 21, 2011, 125 Stat. 736.)
+(Pub. L. 87–293, title I, §8A, as added Pub. L. 112–57, §2, Nov. 21, 2011, 125 Stat. 736; amended Pub. L. 115–256, title III, §302, Oct. 9, 2018, 132 Stat. 3656.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–256, §302(1), amended subsec. (d) generally. Prior to amendment, text read as follows: "Each applicant for enrollment as a volunteer shall be provided with information regarding crimes against and risks to volunteers in the country in which the applicant has been invited to serve, including an overview of past crimes against volunteers in the country."
+
+Subsec. (f)(2)(B)(iii). Pub. L. 115–256, §302(2), substituted "Victim's Advocates," for "victim advocates".
 
 #### Offset of Costs and Personnel
 
 Pub. L. 112–57, §9, Nov. 21, 2011, 125 Stat. 745, provided that: "Notwithstanding any other provision of law, the Direct \[probably should be "Director"\] of the Peace Corps shall—
 
-&emsp;"(1) eliminate such initiatives, positions, and programs within the Peace Corps (other than within the Office of Inspector General) as the Director deems necessary to ensure any and all costs incurred tocarry out the provisions of this Act \[see Short Title of 2011 Amendment note set out under section 2501 of this title\], and the amendments made by this Act, are entirely offset;
+&emsp;"(1) eliminate such initiatives, positions, and programs within the Peace Corps (other than within the Office of Inspector General) as the Director deems necessary to ensure any and all costs incurred to carry out the provisions of this Act \[see Short Title of 2011 Amendment note set out under section 2501 of this title\], and the amendments made by this Act, are entirely offset;
 
 &emsp;"(2) ensure no net increase in personnel are added to carry out the provisions of this Act, with any new full or part time employees or equivalents offset by eliminating an equivalent number of existing staff (other than within the Office of Inspector General);
 
 &emsp;"(3) report to Congress not later than 60 days after the date of the enactment of this Act \[Nov. 21, 2011\] the actions taken to ensure compliance with paragraphs (1) and (2), including the specific initiatives, positions, and programs within the Peace Corps that have been eliminated to ensure that the costs of carrying out this Act will be offset; and
 
 &emsp;"(4) not implement any other provision of this Act (other than paragraphs (1), (2), and (3)) or any amendment made by this Act until the Director has certified that the actions specified in paragraphs (1), (2), and (3) have been completed."
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

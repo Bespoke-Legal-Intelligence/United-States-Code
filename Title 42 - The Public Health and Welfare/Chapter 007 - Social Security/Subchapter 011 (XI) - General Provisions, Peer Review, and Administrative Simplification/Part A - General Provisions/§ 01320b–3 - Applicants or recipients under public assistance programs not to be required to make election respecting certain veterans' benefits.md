@@ -16,7 +16,7 @@ The provisions of subsection (a) shall be applicable only with respect to an ind
 
 &emsp;(2) in case such individual is an applicant for or recipient of benefits under the Supplemental Security Income program established by subchapter XVI, in the State in which the individual applies for or receives such benefits,
 
-> a State plan for medical assistance, approved under subchapter XIX, under which medical assistance is available to such individual only for periods for which such individual is a recipient of aid, assistance, or benefits described in subsection (a).
+> a State plan for medical assistance, approved under subchapter XIX, under which medical assistance is available to such individual only forperiods for which such individual is a recipient of aid, assistance, or benefits described in subsection (a).
 
 (Aug. 14, 1935, ch. 531, title XI, §1133, as added Pub. L. 96–272, title III, §310(a)(1), June 17, 1980, 94 Stat. 532; amended Pub. L. 102–54, §13(q)(3)(B)(iii), June 13, 1991, 105 Stat. 279; Pub. L. 104–193, title I, §108(g)(6), Aug. 22, 1996, 110 Stat. 2168.)
 
@@ -48,7 +48,7 @@ Pub. L. 96–272, title III, §310(b)(2), June 17, 1980, 94 Stat. 533, provided 
 
 &emsp;"(i) any individual to whom section 1133 of the Social Security Act (as added by subsection (a)(1) of this section) \[42 U.S.C. 1320b–3\] applies may, within the 90-day period beginning with the day that there is mailed to such individual (at such individual's last known mailing address) a notice referred to in subparagraph (A), disaffirm an election previously made by such individual under section 306 of the Veterans' and Survivors' Pension Improvement Act of 1978 \[Pub. L. 95–588, set out as a note under section 1521 of Title 38\] by completing and mailing to the Administrator the form furnished such individual for such purpose by the Administrator pursuant to subparagraph (A),
 
-&emsp;"(ii) whenever any such individual files such a disaffirmation with the Administrator, the amount ofpension payable to such individual shall be adjusted, beginning with the first calendar month which commences after the receipt by the Administrator of such disaffirmation, to the amount that such pension would have been if such an election by such individual had not been made,
+&emsp;"(ii) whenever any such individual files such a disaffirmation with the Administrator, the amount of pension payable to such individual shall be adjusted, beginning with the first calendar month which commences after the receipt by the Administrator of such disaffirmation, to the amount that such pension would have been if such an election by such individual had not been made,
 
 &emsp;"(iii) any individual who has filed a disaffirmation, pursuant to this subparagraph, of an election made by such individual under such section 306 may again make an election thereunder, but such subsequent election may not be disaffirmed under this subsection, and
 

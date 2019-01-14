@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement.—Except as provided in section 41906 <sup>1</sup> of this title and section 5402 of title 39, an air carrier may transport mail by aircraft between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
+Requirement.—Except as provided in section 41905 of this title and section 5402 of title 39, an air carrier may transport mail by aircraft between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
 
 (b)
 
@@ -26,7 +26,7 @@ Designating and Additional Schedules.—The Postal Service may—
 
 Changing Schedules.—A schedule designated or required to be established for the transportation of mail under subsection (c) of this section may be changed only after 10 days' notice of the change is filed as provided in subsection (b)(2) of this section. The Postal Service may disapprove a proposed change in a schedule or amend or modify the schedule or proposed change.
 
-(Pub. L. 103–272, §§1(e), 4(k)(1), (3), July 5, 1994, 108 Stat. 1153, 1370; Pub. L. 103–429, §7(a)(3)(D), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113; Pub. L. 110–405, §2(b)(3), Oct. 13, 2008, 122 Stat. 4289.)
+(Pub. L. 103–272, §§1(e), 4(k)(1), (3), July 5, 1994, 108 Stat. 1153, 1370; Pub. L. 103–429, §7(a)(3)(D), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113; Pub. L. 110–405, §2(b)(3), Oct. 13, 2008, 122 Stat. 4289; Pub. L. 115–254, div. B, title V, §539(f), Oct. 5, 2018, 132 Stat. 3370.)
 
 Historical and Revision Notes
 
@@ -88,7 +88,7 @@ In this chapter, the word "places" is substituted for "points" for consistency i
 
 In subsection (a), the words "Except as provided in section 41906 of this title and section 5402 of title 39" are added because section 41906 of the revised title and 39:5402 contain exceptions to the provisions restated in this subsection. The words "transport mail by aircraft in foreign air transportation or between places in Alaska" are substituted for "transport mail" because 49 App.:1551(a)(4)(A) provides that 49 App.:1375(b) no longer applies to interstate or overseas air transportation (except transportation of mail between 2 places in Alaska).
 
-In subsection (b), before clause (1), the words "from time to time" are omitted as surplus. Clauses (1) and (2) are substituted for "to engage in air transportation" because 49 App.:1551(a)(4)(A) provides that 49 App.:1375(b) no longer applies to interstate or overseas air transportation (except transportation of mail between 2 places in Alaska). In clause (4), the words "between places described in clauses (1) and (2) of this subsection and every change in each schedule" are substituted for "between such points" for clarity.
+In subsection (b), before clause (1), the words "from time to time" are omitted as surplus. Clauses (1) and (2) are substituted for "to engage in air transportation" because 49 App.:1551(a)(4)(A) provides that 49 App.:1375(b) no longer applies to interstate or overseasair transportation (except transportation of mail between 2 places in Alaska). In clause (4), the words "between places described in clauses (1) and (2) of this subsection and every change in each schedule" are substituted for "between such points" for clarity.
 
 In subsection (c)(1), the words "any schedule of an air carrier filed under subsection (b)(3) of this section" are substituted for "any such schedule" for clarity.
 
@@ -124,11 +124,9 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(3); added Oct. 4, 1984,
 
 Section 4(k) reflects amendments to the restatement required by section 1601(a)(8) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(c) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704), and section 1601(b)(3) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(f) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704). Section 1601(a)(8) provides that the authority under 49 App.:1371(l) and (m) and 1375(b)–(d) as those sections relate to transportation of mail by aircraft between places in Alaska (restated in sections 41107 and 41901–41903 of the revised title) ceases on January 1, 1999. Section 1601(b)(3) transfers the authority for prescribing rates for transportation of mail between places in Alaska from the Secretary of Transportation to the Postal Service effective January 1, 1999.
 
-#### References in Text
-
-Section 41906 of this title, referred to in subsec. (a), was redesignated section 41905 by Pub. L. 110–405, §2(b)(7)(B), Oct. 13, 2008, 122 Stat. 4289.
-
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–254 substituted "section 41905" for "section 41906".
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–405, §2(b)(3)(A), struck out "in foreign air transportation or" after "aircraft".
 
@@ -171,6 +169,4 @@ Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113, provided that t
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–429, §7(a), Oct. 31, 1994, 108 Stat. 4388, provided in part that the amendment made by that section is effective July 5, 1994.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

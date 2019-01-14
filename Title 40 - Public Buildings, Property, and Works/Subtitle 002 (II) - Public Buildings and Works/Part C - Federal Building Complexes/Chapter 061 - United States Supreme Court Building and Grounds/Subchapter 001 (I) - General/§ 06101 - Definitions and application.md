@@ -110,7 +110,7 @@ United states capitol grounds.—
 
 &emsp;&emsp;"(A)
 
-Definition.—Section 5102 of title 40, United States Code, is amended to exclude within the definition of the United States Capitol Grounds the parcel of Federal real property described in subsection (b)(2).
+Definition.—Section 5102 of title 40, United States Code, is amended to exclude within the definition of the United States Capitol Grounds theparcel of Federal real property described in subsection (b)(2).
 
 &emsp;&emsp;"(B)
 

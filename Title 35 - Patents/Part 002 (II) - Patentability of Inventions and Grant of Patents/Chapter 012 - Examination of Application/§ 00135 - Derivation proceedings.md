@@ -68,7 +68,7 @@ Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(11)\], designate
 
 Subsecs. (c), (d). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" wherever appearing.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–622, §202, amended subsec. (a) generally, substituting ", an interference may be declared and the Commissioner shall give notice of such declaration to the applicants, or applicant and patentee, as the case may be" for "he shall give notice thereof to the applicants, or applicant and patentee, as the case may be" and substituting provisions vesting jurisdiction for determining questions of interference in the Board of Patent Appeals and Interferences for provisions vesting such jurisdiction in a board of patent interferences.
+<b>1984</b>—Subsec. (a). Pub. L. 98–622, §202, amended subsec. (a) generally, substituting ", an interference may be declared and the Commissioner shall give notice of such declaration to the applicants, or applicant andpatentee, as the case may be" for "he shall give notice thereof to the applicants, or applicant and patentee, as the case may be" and substituting provisions vesting jurisdiction for determining questions of interference in the Board of Patent Appeals and Interferences for provisions vesting such jurisdiction in a board of patent interferences.
 
 Subsec. (d). Pub. L. 98–622, §105, added subsec. (d).
 

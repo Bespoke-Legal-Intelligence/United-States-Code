@@ -68,7 +68,7 @@
 
 &emsp;(V) institutional policies regarding vaccinations.
 
-(2) For the purpose of this section, the term "prospective student" means any individual who has contacted an eligible institution requestinginformation concerning admission to that institution.
+(2) For the purpose of this section, the term "prospective student" means any individual who has contacted an eligible institution requesting information concerning admission to that institution.
 
 (3) In calculating the completion or graduation rate under subparagraph (L) of paragraph (1) of this subsection or under subsection (e), a student shall be counted as a completion or graduation if, within 150 percent of the normal time for completion of or graduation from the program, the student has completed or graduated from the program, or enrolled in any program of an eligible institution for which the prior program provides substantial preparation. The information required to be disclosed under such subparagraph—
 
@@ -152,7 +152,7 @@
 
 #### (c) Financial assistance information personnel
 
-Each eligible institution shall designate an employee or group of employees who shall be available on a full-time basis to assist students or potential students in obtaining information as specified in subsection (a). The Secretary may, by regulation, waive the requirement that an employee or employees be available on a full-time basis for carrying out responsibilities required under this section whenever an institution in which the total enrollment, or the portion of the enrollment participating in programs under this subchapter at that institution, is too small to necessitate such employee or employees being available on a full-time basis. No such waiver may include permission to exempt any such institution from designating a specific individual or a group of individuals to carry out the provisions of this section.
+Each eligible institution shall designate an employee or group of employees who shall be available on a full-time basis to assist students or potential students in obtaining information as specified in subsection (a). The Secretary may, by regulation, waive the requirement thatan employee or employees be available on a full-time basis for carrying out responsibilities required under this section whenever an institution in which the total enrollment, or the portion of the enrollment participating in programs under this subchapter at that institution, is too small to necessitate such employee or employees being available on a full-time basis. No such waiver may include permission to exempt any such institution from designating a specific individual or a group of individuals to carry out the provisions of this section.
 
 #### (d) Departmental publication of descriptions of assistance programs
 
@@ -180,7 +180,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;(F) the average completion or graduation rate for the 4 most recent completing or graduating classes of students at the institution of higher education broken down by race and sex.
 
-(2) When an institution described in paragraph (1) of this subsection offers a potential student athlete athletically related student aid, such institution shall provide to the student and the student's parents, guidance counselor, and coach the information contained in the report submitted by such institution pursuant to paragraph (1). If the institution is a member of a national collegiate athletic association that compiles graduation rate data on behalf of the association's member institutions that the Secretary determines is substantially comparable to the information described in paragraph (1), the distribution of the compilation of such data to all secondary schools in the United States shall fulfill the responsibility of the institution to provide information to a prospective student athlete's guidance counselor and coach.
+(2) When an institution described in paragraph (1) of this subsection offers a potential student athlete athletically related student aid, such institution shall provide to the student and the student's parents, guidance counselor, and coachthe information contained in the report submitted by such institution pursuant to paragraph (1). If the institution is a member of a national collegiate athletic association that compiles graduation rate data on behalf of the association's member institutions that the Secretary determines is substantially comparable to the information described in paragraph (1), the distribution of the compilation of such data to all secondary schools in the United States shall fulfill the responsibility of the institution to provide information to a prospective student athlete's guidance counselor and coach.
 
 (3) For purposes of this subsection, institutions may—
 
@@ -250,7 +250,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;(iii) of domestic violence, dating violence, and stalking incidents that were reported to campus security authorities or local police agencies.
 
-&emsp;(G) A statement of policy concerning the monitoring and recording through local police agencies of criminal activity at off-campusstudent organizations which are recognized by the institution and that are engaged in by students attending the institution, including those student organizations with off-campus housing facilities.
+&emsp;(G) A statement of policy concerning the monitoring and recording through local police agencies of criminal activity at off-campus student organizations which are recognized by the institution and that are engaged in by students attending the institution, including those student organizations with off-campus housing facilities.
 
 &emsp;(H) A statement of policy regarding the possession, use, and sale of alcoholic beverages and enforcement of State underage drinking laws and a statement of policy regarding the possession, use, and sale of illegal drugs and enforcement of Federal and State drug laws and a description of any drug or alcohol abuse education programs as required under section 1011i of this title.
 
@@ -302,7 +302,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;(I) any building or property owned or controlled by a student organization recognized by the institution; and
 
-&emsp;&emsp;(II) any building or property (other than a branch campus) owned or controlled by an institution of higher education that is usedin direct support of, or in relation to, the institution's educational purposes, is used by students, and is not within the same reasonably contiguous geographic area of the institution.
+&emsp;&emsp;(II) any building or property (other than a branch campus) owned or controlled by an institution of higher education that is used in direct support of, or in relation to, the institution's educational purposes, is used by students, and is not within the same reasonably contiguous geographic area of the institution.
 
 &emsp;(iv) The term "public property" means all public property that is within the same reasonably contiguous geographic area of the institution, such as a sidewalk, a street, other thoroughfare, or parking facility, and is adjacent to a facility owned or controlled by the institution if the facility is used by the institution in direct support of, or in a manner related to the institution's educational purposes.
 
@@ -342,7 +342,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;(iii) Procedures victims should follow if a sex offense, domestic violence, dating violence, sexual assault, or stalking has occurred, including information in writing about—
 
-&emsp;&emsp;(I) the importance of preserving evidence as may be necessary to the proof of criminal domestic violence, dating violence, sexual assault, or stalking, or in obtaining a protection order;
+&emsp;&emsp;(I) the importance of preserving evidence as may be necessary to the proof of criminaldomestic violence, dating violence, sexual assault, or stalking, or in obtaining a protection order;
 
 &emsp;&emsp;(II) to whom the alleged offense should be reported;
 
@@ -412,7 +412,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (15) The Secretary shall annually report to the authorizing committees regarding compliance with this subsection by institutions of higher education, including an up-to-date report on the Secretary's monitoring of such compliance.
 
-(16)(A) The Secretary shall seek the advice and counsel of the Attorney General of the United States concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies.
+(16)(A) The Secretary shall seek the advice and counsel of the Attorney General of the United States concerning the development, and dissemination to institutions of higher education,of best practices information about campus safety and emergencies.
 
 (B) The Secretary shall seek the advice and counsel of the Attorney General of the United States and the Secretary of Health and Human Services concerning the development, and dissemination to institutions of higher education, of best practices information about preventing and responding to incidents of domestic violence, dating violence, sexual assault, and stalking, including elements of institutional policies that have proven successful based on evidence-based outcome measurements.
 
@@ -566,7 +566,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 #### (6) Compliance report
 
-&emsp;The Secretary shall annually report to the authorizing committees regarding compliance with this subsection by institutions of highereducation, including an up-to-date report on the Secretary's monitoring of such compliance.
+&emsp;The Secretary shall annually report to the authorizing committees regarding compliance with this subsection by institutions of higher education, including an up-to-date report on the Secretary's monitoring of such compliance.
 
 #### (7) Evidence
 
@@ -620,7 +620,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 #### (2) Notice after loss of eligibility
 
-&emsp;An institution of higher education shall provide in a timely manner to each student who has lost eligibility for any grant, loan, or work-study assistance under this subchapter as a result of the penalties listed under section 1091(r)(1) of this title a separate, clear, and conspicuous written notice that notifies the student of the loss of eligibility and advises the student of the ways in which the student can regain eligibility under section 1091(r)(2) of this title.
+&emsp;An institution of higher education shall provide in a timely manner to each student who has lost eligibility for any grant, loan, orwork-study assistance under this subchapter as a result of the penalties listed under section 1091(r)(1) of this title a separate, clear, and conspicuous written notice that notifies the student of the loss of eligibility and advises the student of the ways in which the student can regain eligibility under section 1091(r)(2) of this title.
 
 #### (l) Entrance counseling for borrowers
 
@@ -696,7 +696,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;The Secretary shall summarize the information received from institutions of higher education under paragraph (1) in a report and transmit such report annually to the authorizing committees.
 
-(Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §308\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60001(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–244, title I, §102(b)(3), title IV, §486, Oct. 7, 1998, 112 Stat. 1622, 1741; Pub. L. 106–386, div. B, title VI, §1601(c)(1), Oct. 28, 2000, 114 Stat. 1537; Pub. L. 110–315, title I, §103(b)(11), title IV, §488, title X, §1011(c), Aug. 14, 2008, 122 Stat. 3090, 3293, 3482; Pub. L. 111–39, title IV, §407(b)(5), July 1, 2009, 123 Stat. 1951; Pub. L. 113–4, title III, §304(a), Mar. 7, 2013, 127 Stat. 89.)
+(Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat.1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §308\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60001(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–244, title I, §102(b)(3), title IV, §486, Oct. 7, 1998, 112 Stat. 1622, 1741; Pub. L. 106–386, div. B, title VI, §1601(c)(1), Oct. 28, 2000, 114 Stat. 1537; Pub. L. 110–315, title I, §103(b)(11), title IV, §488, title X, §1011(c), Aug. 14, 2008, 122 Stat. 3090, 3293, 3482; Pub. L. 111–39, title IV, §407(b)(5), July 1, 2009, 123 Stat. 1951; Pub. L. 113–4, title III, §304(a), Mar. 7, 2013, 127 Stat. 89.)
 
 #### References in Text
 
@@ -1052,7 +1052,7 @@ Pub. L. 102–325, title IV, §486(c)(3), July 23, 1992, 106 Stat. 622, provided
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–542, title I, §104(b), Nov. 8, 1990, 104 Stat. 2384, as amended by Pub. L. 102–26, §10(e), Apr. 9, 1991, 105 Stat. 128, provided that: "The report to the Secretary of Education required by the amendments made by this section \[amending this section\] shall be due on July 1, 1993, and annually thereafter, and shall coverthe one-year period ending on June 30 of the preceding year."
+Pub. L. 101–542, title I, §104(b), Nov. 8, 1990, 104 Stat. 2384, as amended by Pub. L. 102–26, §10(e), Apr. 9, 1991, 105 Stat. 128, provided that: "The report to the Secretary of Education required by the amendments made by this section \[amending this section\] shall be due on July 1, 1993, and annually thereafter, and shall cover the one-year period ending on June 30 of the preceding year."
 
 Pub. L. 101–542, title II, §204(c), Nov. 8, 1990, 104 Stat. 2387, provided that: "The amendments made by this section \[amending this section\] shall take effect on September 1, 1991, except that the requirement of section 485(f)(1)(F) and (H) of the Higher Education Act of 1965 \[subsec. (f)(1)(F), (H) of this section\] (as added by this section) shall be applied to require statistics with respect to school years preceding the date of enactment of this Act \[Nov. 8, 1990\] only to the extent that data concerning such years is reasonably available."
 
@@ -1338,7 +1338,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Memorandum of President of the United States, Mar. 10, 2015, 80 F.R. 13475, provided:
 
-Memorandum for the Secretary of the Treasury\[,\] the Secretary of Education\[,\] the Commissioner of Social Security\[,\] the Director of the Consumer Financial Protection Bureau\[,\] the Director of the Office of Management and Budget\[,\] the Director of the Office ofScience and Technology Policy\[, and\] the Director of the Domestic Policy Council
+Memorandum for the Secretary of the Treasury\[,\] the Secretary of Education\[,\] the Commissioner of Social Security\[,\] the Director of the Consumer Financial Protection Bureau\[,\] the Director of the Office of Management and Budget\[,\] the Director of the Office of Science and Technology Policy\[, and\] the Director of the Domestic Policy Council
 
 America thrived in the 20th century in large part because we had the most educated workforce in the world. Today, more than ever, Americans need knowledge and skills to meet the demands of a growing global economy. Since many students borrow to pay for postsecondary education, it is imperative they be able to manage their debt as they embark on their careers.
 
@@ -1362,11 +1362,11 @@ Sec. 2. <i>Helping Borrowers Repay Their Loans and Avoid Default</i>.
 
 (b) <i>Regular Review of Student Loan Performance and Borrower Trends</i>. The Director of the Office of Management and Budget and the Secretary of Education shall convene quarterly an interagency task force consisting of the Department of the Treasury, Department of Education, Office of Management and Budget, and Domestic Policy Council to monitor trends in the student loan portfolio, budget costs, and borrower assistance efforts. No later than August 1, 2015, the task force shall review recommendations for the Department of Education from its members and the Consumer Financial Protection Bureau on best practices in performance-based contracting to better ensure that servicers help borrowers responsibly make affordable monthly payments on their student loans.
 
-(c) <i>Additional Protections for Student Loan Borrowers</i>. By October 1, 2015, the Secretary of Education, in consultation with the Secretary of the Treasury and the Director of the Consumer Financial Protection Bureau, shall issue a report to the President, through the Director of the Domestic Policy Council and the Director of the Office of Management and Budget, on (i) whether statutory or regulatory changes are needed to current provisions that permit the Secretary of Education to specify acts or omissions at institutions of higher education that borrowers may assert as a defense to repayment of a direct loan; and (ii) after assessing the potential applicability of consumer protections in the mortgage and credit card markets to student loans, recommendations for statutory or regulatory changes in this area, including, where appropriate, strong servicing standards, flexible repayment opportunities for all student loan borrowers, and changes to bankruptcy laws.
+(c) <i>Additional Protections for Student Loan Borrowers</i>. By October 1, 2015, the Secretary of Education, in consultation with the Secretary of the Treasury and the Director of the Consumer Financial Protection Bureau, shall issue a report to the President, through the Director of the Domestic Policy Council and the Director of the Office of Management and Budget, on (i) whether statutory or regulatory changes are needed to current provisions that permit the Secretary of Education tospecify acts or omissions at institutions of higher education that borrowers may assert as a defense to repayment of a direct loan; and (ii) after assessing the potential applicability of consumer protections in the mortgage and credit card markets to student loans, recommendations for statutory or regulatory changes in this area, including, where appropriate, strong servicing standards, flexible repayment opportunities for all student loan borrowers, and changes to bankruptcy laws.
 
 (d) <i>Higher Customer Service Standards in Income-Driven Repayment Plans</i>. By October 1, 2015, the Secretary of Education and the Secretary of the Treasury shall report to the President, through the Director of the Domestic Policy Council and the Director of the Office of Management and Budget, on the feasibility of developing a system to give borrowers the opportunity to authorize the Internal Revenue Service to release income information for multiple years for the purposes of automatically determining monthly payments under income-driven repayment plans.
 
-(e) <i>Finding New and Better Ways to Communicate with Student Loan Borrowers</i>. By January 1, 2016, the Secretary of Education shall report to the President, through the Director of the Domestic Policy Council, on the findings of a pilot program to test new methods for communicating with borrowers who have Federal Direct student loans on which they are at least 140 days delinquent but which have not entered default. By January 1, 2017, the Secretary shall also, in consultation with the Director of the White House Office of Science and Technology Policy, develop and implement at least five behaviorally designed pilot programs to identify the most effective ways to communicate with borrowers to maximize successful borrower repayment and help reduce delinquency and default and report to the President, through the Director of the Domestic PolicyCouncil, on the status and results of those pilot programs.
+(e) <i>Finding New and Better Ways to Communicate with Student Loan Borrowers</i>. By January 1, 2016, the Secretary of Education shall report to the President, through the Director of the Domestic Policy Council, on the findings of a pilot program to test new methods for communicating with borrowers who have Federal Direct student loans on which they are at least 140 days delinquent but which have not entered default. By January 1, 2017, the Secretary shall also, in consultation with the Director of the White House Office of Science and Technology Policy, develop and implement at least five behaviorally designed pilot programs to identify the most effective ways to communicate with borrowers to maximize successful borrower repayment and help reduce delinquency and default and report to the President, through the Director of the Domestic Policy Council, on the status and results of those pilot programs.
 
 (f) <i>Making it Easier for Federal Direct Student Loan Borrowers to Repay Their Student Loans</i>. As soon as practicable, the Secretary of Education shall establish a centralized point of access for all Federal student loan borrowers in repayment, including a central location for account information and payment processing for all Federal student loan servicing, regardless of the specific servicer.
 

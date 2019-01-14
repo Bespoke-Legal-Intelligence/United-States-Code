@@ -16,12 +16,14 @@
 | [7112\.](%C2%A7%2007112%20-%20Licenses%20of%20masters%20or%20mates%20as%20pilots.md) | Licenses of masters or mates as pilots. |
 | [7113\.](%C2%A7%2007113%20-%20Exemption%20from%20draft.md) | Exemption from draft. |
 | [7114\.](%C2%A7%2007114%20-%20Fees.md) | Fees. |
-| [7115\.](%C2%A7%2007115%20-%20Merchant%20Mariner%20Medical%20Advisory%20Committee.md) | Merchant Mariner Medical Advisory Committee. |
+| \[7115. | Repealed.\] |
 | [7116\.](%C2%A7%2007116%20-%20Examinations%20for%20merchant%20mariner%20credentials.md) | Examinations for merchant mariner credentials. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–282, title VI, §601(c)(2), Dec. 4, 2018, 132 Stat. 4289, struck out item 7115 "Merchant Mariner Medical Advisory Committee".
 
 <b>2016</b>—Pub. L. 114–120, title III, §315(b)(2), Feb. 8, 2016, 130 Stat. 62, added item 7116.
 
@@ -50,5 +52,5 @@
 - [&sect; 07112 - Licenses of masters or mates as pilots](%C2%A7%2007112%20-%20Licenses%20of%20masters%20or%20mates%20as%20pilots.md)
 - [&sect; 07113 - Exemption from draft](%C2%A7%2007113%20-%20Exemption%20from%20draft.md)
 - [&sect; 07114 - Fees](%C2%A7%2007114%20-%20Fees.md)
-- [&sect; 07115 - Merchant Mariner Medical Advisory Committee](%C2%A7%2007115%20-%20Merchant%20Mariner%20Medical%20Advisory%20Committee.md)
+- [&sect; 07115 - Repealed. Pub. L. 115&#8211;282, title VI, &sect;601(c)(2), Dec. 4, 2018, 132 Stat. 4289](%C2%A7%2007115%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93282%2C%20title%20VI%2C%20%C2%A7601%28c%29%282%29%2C%20Dec.%204%2C%202018%2C%20132%20Stat.%204289.md)
 - [&sect; 07116 - Examinations for merchant mariner credentials](%C2%A7%2007116%20-%20Examinations%20for%20merchant%20mariner%20credentials.md)

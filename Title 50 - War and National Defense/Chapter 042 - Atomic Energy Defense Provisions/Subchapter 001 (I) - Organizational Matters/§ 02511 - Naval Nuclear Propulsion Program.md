@@ -28,7 +28,7 @@ By the authority vested in me as President and as Commander in Chief of the Arme
 
 Section 1. The Naval Nuclear Propulsion Program is an integrated program carried out by two organizational units, one in the Department of Energy and the other in the Department of the Navy.
 
-Sec. 2. Both organizational units shall be headed by the same individual so that the activities of each maycontinue in practice under common management. This individual shall direct the Naval Nuclear Propulsion Program in both departments. The director shall be qualified by reason of technical background and experience in naval nuclear propulsion. The director may be either a civilian or an officer of the United States Navy, active or retired.
+Sec. 2. Both organizational units shall be headed by the same individual so that the activities of each may continue in practice under common management. This individual shall direct the Naval Nuclear Propulsion Program in both departments. The director shall be qualified by reason of technical background and experience in naval nuclear propulsion. The director may be either a civilian or an officer of the United States Navy, active or retired.
 
 Sec. 3. The Secretary of the Navy (through the Secretary of Defense) and the Secretary of Energy shall obtain the approval of the President to appoint the director of the Naval Nuclear Propulsion Program for their respective Departments. The director shall be appointed to serve a term of eight years, except that the Secretary of Energy and the Secretary of the Navy may, with mutual concurrence, terminate or extend the term of the respective appointments.
 
@@ -52,7 +52,7 @@ Sec. 7. Within the Department of the Navy, the Secretary of the Navy shall assig
 
 (a) research, development, design, procurement, specification, construction, inspection, installation, certification, testing, overhaul, refueling, operating practices and procedures, maintenance, supply support, and ultimate disposition, of naval nuclear propulsion plants, including components thereof, and any special maintenance and service facilities related thereto; and
 
-(b) training programs, including Nuclear Power Schools of the Navy, and assistance and concurrence in the selection, training, qualification, and assignment of personnel reporting to the director and of Government personnel who supervise, operate, or maintain naval nuclear propulsion plants.
+(b) training programs, including Nuclear Power Schools of the Navy, and assistance and concurrence inthe selection, training, qualification, and assignment of personnel reporting to the director and of Government personnel who supervise, operate, or maintain naval nuclear propulsion plants.
 
 Sec. 8. Within the Department of the Navy, the Secretary of the Navy shall assign to the director responsibility within the Navy for:
 

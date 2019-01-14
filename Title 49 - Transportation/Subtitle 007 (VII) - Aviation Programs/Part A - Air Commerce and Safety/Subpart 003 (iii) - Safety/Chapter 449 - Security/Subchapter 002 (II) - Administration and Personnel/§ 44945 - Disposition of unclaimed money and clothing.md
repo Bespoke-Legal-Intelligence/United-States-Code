@@ -10,11 +10,11 @@ Disposition of Unclaimed Clothing.—
 
 &emsp;(1)
 
-In general.—In disposing of unclaimed clothing recovered at any airport security checkpoint, the Assistant Secretary shall make every reasonable effort, in consultation with the Secretary of Veterans Affairs, to transfer the clothing to the local airport authority or other local authorities for donation to charity, including local veterans organizations or other local charitable organizations for distribution to homeless or needy veterans and veteran families.
+In general.—In disposing of unclaimed clothing recovered at any airport security checkpoint, the Administrator of the Transportation Security Administration shall make every reasonable effort, in consultation with the Secretary of Veterans Affairs, to transfer the clothing to the local airport authority or other local authorities for donation to charity, including local veterans organizations or other local charitable organizations for distribution to homeless or needy veterans and veteran families.
 
 &emsp;(2)
 
-Agreements.—In implementing paragraph (1), the Assistant Secretary may enter into agreements with airport authorities.
+Agreements.—In implementing paragraph (1), the Administrator of the Transportation Security Administration may enter into agreements with airport authorities.
 
 &emsp;(3)
 
@@ -24,9 +24,11 @@ Other charitable arrangements.—Nothing in this subsection shall prevent an air
 
 Limitation.—Nothing in this subsection shall create a cost to the Government.
 
-(Added Pub. L. 108–334, title V, §515(a), Oct. 18, 2004, 118 Stat. 1317; amended Pub. L. 112–271, §2(a), Jan. 14, 2013, 126 Stat. 2446.)
+(Added Pub. L. 108–334, title V, §515(a), Oct. 18, 2004, 118 Stat. 1317; amended Pub. L. 112–271, §2(a), Jan. 14, 2013, 126 Stat. 2446; Pub. L. 115–254, div. K, title I, §1991(d)(36), Oct. 5, 2018, 132 Stat. 3641.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1), (2). Pub. L. 115–254 substituted "Administrator of the Transportation Security Administration" for "Assistant Secretary".
 
 <b>2013</b>—Pub. L. 112–271 inserted "and clothing" after "money" in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

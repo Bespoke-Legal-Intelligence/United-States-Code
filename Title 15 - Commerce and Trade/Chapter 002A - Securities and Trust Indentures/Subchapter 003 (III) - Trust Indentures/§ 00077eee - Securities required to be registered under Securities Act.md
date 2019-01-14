@@ -30,7 +30,7 @@ A prospectus relating to any such security shall include to the extent the Commi
 
 The provisions of sections 11, 12, 17, and 24 of the Securities Act of 1933 \[15 U.S.C. 77k, 77l, 77q, 77x\], and the provisions of sections 77www and 77yyy of this title, shall not apply to statements in or omissions from any analysis required under the provisions of this section or section 77fff or 77ggg of this title.
 
-(May 27, 1933, ch. 38, title III, §305, as added Aug. 3, 1939, ch. 411, 53 Stat. 1154; amended Aug. 10,1954, ch. 667, title III, §303, 68 Stat. 687; Pub. L. 101–550, title IV, §404, Nov. 15, 1990, 104 Stat. 2722.)
+(May 27, 1933, ch. 38, title III, §305, as added Aug. 3, 1939, ch. 411, 53 Stat. 1154; amended Aug. 10, 1954, ch. 667, title III, §303, 68 Stat. 687; Pub. L. 101–550, title IV, §404, Nov. 15, 1990, 104 Stat. 2722.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 #### (a) Plan requirement
 
-The Administrator, in consultation with the Secretary of Defense and other appropriate officials of the departments and agencies of the Federal Government, shall develop and annually update a plan for sustaining the nuclear weapons stockpile. The plan shall cover, at a minimum, stockpile stewardship, stockpile management, stockpile responsiveness, stockpile surveillance, program direction, infrastructure modernization, human capital, and nuclear test readiness. The plan shall be consistent with the programmatic and technical requirements of the most recent annual Nuclear Weapons Stockpile Memorandum.
+The Administrator, in consultation with the Secretary of Defense and other appropriate officials of the departments and agencies of the Federal Government, shall develop and annually update a plan for sustaining the nuclear weapons stockpile. The plan shall cover, at a minimum, stockpile stewardship, stockpile management, stockpile responsiveness, stockpile surveillance, program direction, infrastructuremodernization, human capital, and nuclear test readiness. The plan shall be consistent with the programmatic and technical requirements of the most recent annual Nuclear Weapons Stockpile Memorandum.
 
 #### (b) Submissions to Congress
 
@@ -40,7 +40,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;(1) With respect to stockpile stewardship, stockpile management, and stockpile responsiveness—
 
-&emsp;&emsp;(A) the status of the nuclear weapons stockpile, including the number and age ofwarheads (including both active and inactive) for each warhead type;
+&emsp;&emsp;(A) the status of the nuclear weapons stockpile, including the number and age of warheads (including both active and inactive) for each warhead type;
 
 &emsp;&emsp;(B) for each five-year period occurring during the period beginning on the date of the report and ending on the date that is 20 years after the date of the report—
 
@@ -132,7 +132,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;(D) a list and description of the infrastructure and physical plants that are essential to carrying out an underground nuclear test at the Nevada National Security Site; and
 
-&emsp;&emsp;(E) an assessment of the readiness status of the skills and capabilities described in subparagraph (C) and the infrastructure and physical plants described in subparagraph (D).
+&emsp;&emsp;(E) an assessment of the readiness status of the skills and capabilities described insubparagraph (C) and the infrastructure and physical plants described in subparagraph (D).
 
 &emsp;(6) A strategy for the integrated management of plutonium for stockpile and stockpile stewardship needs over a 20-year period that includes the following:
 
@@ -198,7 +198,7 @@ In this section:
 
 &emsp;(4) The term "quadrennial defense review" means the review of the defense programs and policies of the United States that is carried out every four years under section 118 <sup>1</sup> of title 10.
 
-&emsp;(5) The term "weapons activities" means each activity within the budget category of weapons activities in the budget of the Administration.
+&emsp;(5) The term "weapons activities" means each activity within the budget category ofweapons activities in the budget of the Administration.
 
 &emsp;(6) The term "weapons-related activities" means each activity under the Department of Energy that involves nuclear weapons, nuclear weapons technology, or fissile or radioactive materials, including activities related to—
 

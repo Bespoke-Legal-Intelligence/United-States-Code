@@ -22,7 +22,7 @@ The Secretary shall determine which States receive grants under this section, an
 
 #### (2) Exception
 
-&emsp;Paragraph (1) does not apply to grants made by the Secretary to consortia of States to develop academic assessments that are aligned with academic standards, or to a State or States for improving early childhood care and education except that such a State may use its grant funds to make subgrants to public or private agencies and organizations for activities consistent with the purposes of the grant.
+&emsp;Paragraph (1) does not apply to grants made by the Secretary to consortia of States to develop academic assessments that are aligned with academic standards, or to a State or States for improving early childhood care andeducation except that such a State may use its grant funds to make subgrants to public or private agencies and organizations for activities consistent with the purposes of the grant.
 
 (Pub. L. 111–5, div. A, title XIV, §14006, Feb. 17, 2009, 123 Stat. 283; Pub. L. 111–117, div. D, title III, §310, Dec. 16, 2009, 123 Stat. 3272; Pub. L. 112–10, div. B, title VIII, §1832(b)(2), Apr. 15, 2011, 125 Stat. 164; Pub. L. 112–74, div. F, title III, §308, Dec. 23, 2011, 125 Stat. 1100.)
 

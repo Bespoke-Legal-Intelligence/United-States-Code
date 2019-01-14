@@ -24,7 +24,7 @@
 
 &emsp;(A) as provided in section 3223(b) of this title, to the individual the unused contributions made by the individual to the Post-Vietnam Era Veterans Education Account established pursuant to section 3222(a) of this title; and
 
-&emsp;(B) to the Secretary of Defense the unused contributions (other than contributions made under section 3222(c) of this title) made by such Secretary to the Account on behalf of such individual.
+&emsp;(B) to the Secretary of Defense the unused contributions (other than contributions madeunder section 3222(c) of this title) made by such Secretary to the Account on behalf of such individual.
 
 (3) Any contribution made by the Secretary of Defense to the Post-Vietnam Era Veterans Education Account pursuant to subsection (c) of section 3222 of this title on behalf of any individual referred to in paragraph (1) shall remain in such Account to make payments of benefits to such individual under section 3015(f) of this title.
 

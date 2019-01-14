@@ -26,5 +26,5 @@ In general.—The Secretary may award a grant to a Hispanic-serving institution 
 
 "(2)
 
-Waitout period.—A Hispanic-serving institution shall not be eligible to secure a subsequent 5-year grantaward under this subchapter until 2 years have elapsed since the expiration of the institution's most recent 5-year grant award under this subchapter, except that for the purpose of this subsection a grant under section 1103c(a) of this title shall not be considered a grant under this subchapter."
+Waitout period.—A Hispanic-serving institution shall not be eligible to secure a subsequent 5-year grant award under this subchapter until 2 years have elapsed since the expiration of the institution's most recent 5-year grant award under this subchapter, except that for the purpose of this subsection a grant under section 1103c(a) of this title shall not be considered a grant under this subchapter."
 

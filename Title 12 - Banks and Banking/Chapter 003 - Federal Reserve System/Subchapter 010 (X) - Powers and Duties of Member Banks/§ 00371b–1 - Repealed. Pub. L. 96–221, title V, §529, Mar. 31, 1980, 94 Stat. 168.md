@@ -30,7 +30,7 @@ Prior to its repeal by Pub. L. 96–161, title II, §212, Dec. 28, 1979, 93 Stat
 
 &emsp;"(1) July 1, 1981;
 
-&emsp;"(2) the date, after the date of the enactment of this Act \[Nov. 5, 1979\], on which such State adopts a law stating in substance that such State does not want the amendments made by this title to apply with respect to such deposits and obligations; or
+&emsp;"(2) the date, after the date of the enactment of this Act \[Nov. 5, 1979\], on which such State adopts a law stating in substance that such State does notwant the amendments made by this title to apply with respect to such deposits and obligations; or
 
 &emsp;"(3) the date on which such State certifies that the voters of such State, after the date of the enactment of this Act \[Nov. 5, 1979\], have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment to the constitution of such State which limits the amount of interest which may be charged in connection with such deposits and obligations."
 

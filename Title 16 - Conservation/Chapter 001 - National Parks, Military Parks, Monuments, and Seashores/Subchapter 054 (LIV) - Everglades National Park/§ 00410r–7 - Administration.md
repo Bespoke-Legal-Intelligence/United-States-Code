@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The Secretary shall administer the areas within the addition in accordance with sections 410r–5 to 410r–8 of this title and other provisions of law applicable to the Everglades National Park, and with the provisions of law generally applicable to units of the national park system, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1–4).<sup>1</sup> In order to further preserve and protect Everglades National Park, the Secretary shall utilize such other statutory authority as may be available to him for the preservation of wildlife and natural resources as he deems necessary to carry out the purposes of sections 410r–5 to 410r–8 of this title.
+The Secretary shall administer the areas within the addition in accordance with sections 410r–5 to 410r–8 of this title and other provisions of law applicable to the Everglades National Park, and with the provisions of law generally applicable to units of the national park system, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1–4).<sup>1</sup> In order to further preserve and protect Everglades National Park, the Secretaryshall utilize such other statutory authority as may be available to him for the preservation of wildlife and natural resources as he deems necessary to carry out the purposes of sections 410r–5 to 410r–8 of this title.
 
 #### (b) Protection of ecosystem
 
-The Secretary shall manage the park in order to maintain the natural abundance, diversity,and ecological integrity of native plants and animals, as well as the behavior of native animals, as a part of their ecosystem.
+The Secretary shall manage the park in order to maintain the natural abundance, diversity, and ecological integrity of native plants and animals, as well as the behavior of native animals, as a part of their ecosystem.
 
 #### (c) Protection of flora and fauna
 

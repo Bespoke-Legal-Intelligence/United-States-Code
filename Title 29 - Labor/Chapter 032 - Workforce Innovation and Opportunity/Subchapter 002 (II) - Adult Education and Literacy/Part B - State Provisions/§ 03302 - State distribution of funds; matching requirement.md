@@ -8,7 +8,7 @@ Each eligible agency receiving a grant under section 3291(b) of this title for a
 
 &emsp;(2) shall use not more than 12.5 percent of the grant funds to carry out State leadership activities under section 3303 of this title; and
 
-&emsp;(3) shall use not more than 5 percent of the grant funds, or $85,000, whichever is greater, for the administrative expenses of the eligible agency.
+&emsp;(3) shall use not more than 5 percent of the grant funds, or $85,000, whichever is greater,for the administrative expenses of the eligible agency.
 
 #### (b) Matching requirement
 

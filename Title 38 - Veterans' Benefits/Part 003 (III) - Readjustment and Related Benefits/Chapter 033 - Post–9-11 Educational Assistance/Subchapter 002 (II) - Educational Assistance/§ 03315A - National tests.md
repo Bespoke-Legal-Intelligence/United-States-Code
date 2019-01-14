@@ -28,10 +28,6 @@ Charge Against Entitlement.—The number of months of entitlement charged an ind
 
 (Added Pub. L. 111–377, title I, §108(a)(1), Jan. 4, 2011, 124 Stat. 4118; amended Pub. L. 115–48, title I, §108(b), Aug. 16, 2017, 131 Stat. 978.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by section 108(b) of Pub. L. 115–48 applicable to a test taken on or after Aug. 1, 2018. See 2017 Amendment notes below.</i>
-
 #### Amendments
 
 <b>2017</b>—Subsec. (a)(3). Pub. L. 115–48, §108(b)(1), added par. (3).

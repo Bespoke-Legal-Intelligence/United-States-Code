@@ -16,13 +16,13 @@
 
 &emsp;&emsp;&emsp;(ii) a payment on an original issue discount obligation, an amount equal to the original issue discount accruing while such obligation was held by the nonresident alien individual (except that such original issue discount shall be taken into account under this clause only to the extent such discount was not theretofore taken into account under this clause and only to the extent that the tax thereon does not exceed the payment less the tax imposed by subparagraph (A) thereon), and
 
-&emsp;&emsp;(D) gains from the sale or exchange after October 4, 1966, of patents, copyrights, secret processes and formulas, good will, trademarks, trade brands, franchises, and other like property, or of any interest in any such property, to the extent such gains are from payments which are contingent on the productivity, use, or disposition of the property or interest sold or exchanged,
+&emsp;&emsp;(D) gains from the sale or exchange after October 4, 1966, of patents, copyrights, secret processes and formulas, good will, trademarks, trade brands, franchises, and other like property, or of any interest in any suchproperty, to the extent such gains are from payments which are contingent on the productivity, use, or disposition of the property or interest sold or exchanged,
 
 > &emsp;but only to the extent the amount so received is not effectively connected with the conduct of a trade or business within the United States.
 
 #### (2) Capital gains of aliens present in the United States 183 days or more
 
-&emsp;In the case of a nonresident alien individual present in the United States for a period or periods aggregating 183 days or more during the taxable year, there is hereby imposed for such year a tax of 30 percent of the amount by which his gains, derived from sources within the United States, from the sale or exchange at any time during such year of capital assets exceed his losses, allocable to sources within the United States, from the sale or exchange at any time during such year of capital assets. For purposes of this paragraph, gains and losses shall be taken into account only if, and to the extent that, they would be recognizedand taken into account if such gains and losses were effectively connected with the conduct of a trade or business within the United States, except that such gains and losses shall be determined without regard to section 1202 and such losses shall be determined without the benefits of the capital loss carryover provided in section 1212. Any gain or loss which is taken into account in determining the tax under paragraph (1) or subsection (b) shall not be taken into account in determining the tax under this paragraph. For purposes of the 183-day requirement of this paragraph, a nonresident alien individual not engaged in trade or business within the United States who has not established a taxable year for any prior period shall be treated as having a taxable year which is the calendar year.
+&emsp;In the case of a nonresident alien individual present in the United States for a period or periods aggregating 183 days or more during the taxable year, there is hereby imposed for such year a tax of 30 percent of the amount by which his gains, derived from sources within the United States, from the sale or exchange at any time during such year of capital assets exceed his losses, allocable to sources within the United States, from the sale or exchange at any time during such year of capital assets. For purposes of this paragraph, gains and losses shall be taken into account only if, and to the extent that, they would be recognized and taken into account if such gains and losses were effectively connected with the conduct of a trade or business within the United States, except that such gains and losses shall be determined without regard to section 1202 and such losses shall be determined without the benefits of the capital loss carryover provided in section 1212. Any gain or loss which is taken into account in determining the tax under paragraph (1) or subsection (b) shall not be taken into account in determining the tax under this paragraph. For purposes of the 183-day requirement of this paragraph, a nonresident alien individual not engaged in trade or business within the United States who has not established a taxable year for any prior period shall be treated as having a taxable year which is the calendar year.
 
 #### (3) Taxation of social security benefits
 
@@ -31,8 +31,6 @@
 &emsp;&emsp;(A) 85 percent of any social security benefit (as defined in section 86(d)) shall be included in gross income (notwithstanding section 207 of the Social Security Act), and
 
 &emsp;&emsp;(B) section 86 shall not apply.
-
-&emsp;&emsp;<b>For treatment of certain citizens of possessions of the United States, see section 932(c).</b><b><sup>1</sup></b>
 
 #### (b) Income connected with United States business—graduated rate of tax
 
@@ -82,7 +80,7 @@ For purposes of this section, a nonresident alien individual who (without regard
 
 &emsp;&emsp;&emsp;(ii) personal services described in section 864(b)(1) performed within the United States by such individual, and
 
-&emsp;&emsp;(B) at the time the first amount is paid as an annuity under the annuity plan or by thetrust, 90 percent or more of the employees for whom contributions or benefits are provided under such annuity plan, or under the plan or plans of which the trust is a part, are citizens or residents of the United States.
+&emsp;&emsp;(B) at the time the first amount is paid as an annuity under the annuity plan or by the trust, 90 percent or more of the employees for whom contributions or benefits are provided under such annuity plan, or under the plan or plans of which the trust is a part, are citizens or residents of the United States.
 
 #### (2) Exclusion
 
@@ -174,7 +172,7 @@ For purposes of this section and section 881—
 
 &emsp;&emsp;&emsp;&emsp;(I) without regard to the 50-percent limitation therein; and
 
-&emsp;&emsp;&emsp;&emsp;(II) in any case where such section would not apply but for subclause (I), by considering a corporation as owning the stock (other than stock in such corporation) which is owned by or for any shareholder of such corporation in that proportion which the value of the stockwhich such shareholder owns in such corporation bears to the value of all stock in such corporation, and
+&emsp;&emsp;&emsp;&emsp;(II) in any case where such section would not apply but for subclause (I), by considering a corporation as owning the stock (other than stock in such corporation) which is owned by or for any shareholder of such corporation in that proportion which the value of the stock which such shareholder owns in such corporation bears to the value of all stock in such corporation, and
 
 &emsp;&emsp;&emsp;(iii) any stock which a person is treated as owning after application of section 318(a)(4) shall not, for purposes of applying paragraphs (2) and (3) of section 318(a), be treated as actually owned by such person.
 
@@ -324,7 +322,7 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), an interest related dividend is any dividend, or part thereof, which is reported by the company as an interest related dividend in written statements furnished to its shareholders.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), an interest related dividend is any dividend, orpart thereof, which is reported by the company as an interest related dividend in written statements furnished to its shareholders.
 
 #### (ii) Excess reported amounts
 
@@ -404,7 +402,7 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "short-term capital gain dividend" means any dividend, or part thereof, which is reported by the company as a short-term capital gain dividend in written statements furnished to its shareholders.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "short-term capital gain dividend"means any dividend, or part thereof, which is reported by the company as a short-term capital gain dividend in written statements furnished to its shareholders.
 
 #### (ii) Excess reported amounts
 
@@ -488,7 +486,7 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 #### (iii) Testing period
 
-&emsp;&emsp;&emsp;For purposes of this subsection, the term "testing period" means the 3-year periodending with the close of the taxable year of the corporation preceding the payment (or such part of such period as may be applicable). If the corporation has no gross income for such 3-year period (or part thereof), the testing period shall be the taxable year in which the payment is made.
+&emsp;&emsp;&emsp;For purposes of this subsection, the term "testing period" means the 3-year period ending with the close of the taxable year of the corporation preceding the payment (or such part of such period as may be applicable). If the corporation has no gross income for such 3-year period (or part thereof), the testing period shall be the taxable year in which the payment is made.
 
 #### (iv) Transition rule
 
@@ -560,7 +558,7 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 &emsp;&emsp;&emsp;(v) such contract is identified by the Secretary as a specified notional principal contract,
 
-&emsp;&emsp;(B) in the case of payments made after the date which is 2 years after the date of the enactment of this subsection, any notional principal contract unless the Secretary determines that such contract is of a type which does not have the potential for tax avoidance.
+&emsp;&emsp;(B) in the case of payments made after the date which is 2 years after the date of the enactment of this subsection, any notional principal contract unless the Secretary determines that such contract is of a typewhich does not have the potential for tax avoidance.
 
 #### (4) Definitions
 
@@ -568,7 +566,7 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 #### (A) Long party
 
-&emsp;&emsp;The term "long party" means, with respect to any underlying security of any notional principal contract, any party to the contract which is entitled to receive anypayment pursuant to such contract which is contingent upon, or determined by reference to, the payment of a dividend from sources within the United States with respect to such underlying security.
+&emsp;&emsp;The term "long party" means, with respect to any underlying security of any notional principal contract, any party to the contract which is entitled to receive any payment pursuant to such contract which is contingent upon, or determined by reference to, the payment of a dividend from sources within the United States with respect to such underlying security.
 
 #### (B) Short party
 
@@ -606,21 +604,21 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 &emsp;&emsp;<b>(7) For special tax treatment of gain or loss from the disposition by a nonresident alien individual of a United States real property interest, see section 897.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 85–866, title I, §§40(a), 41(a), Sept. 2, 1958, 72 Stat. 1638, 1639; Pub. L. 86–437, §2(b), Apr. 22, 1960, 74 Stat. 79; Pub. L. 87–256, §110(b), Sept. 21, 1961, 75 Stat. 535; Pub. L. 88–272, title I, §113(b), title II, §201(d)(12), Feb. 26, 1964, 78 Stat. 24, 32; Pub. L. 89–809, title I, §103(a)(1), Nov. 13, 1966, 80 Stat. 1547; Pub. L. 92–178, title III, §313(a), (b), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title X, §1012(a)(2), title XIX, §§1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1613, 1793, 1834; Pub. L. 95–600, title IV, §§401(b)(3), 421(e)(4), Nov. 6, 1978, 92 Stat. 2867, 2876; Pub. L. 96–222, title I, §104(a)(4)(H)(v), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–499, title XI, §1122(c)(1), Dec. 5, 1980, 94 Stat. 2687; Pub. L. 96–605, title II, §227(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title VII, §725(c)(1), Aug. 13, 1981, 95 Stat. 346; Pub. L. 98–21, title I, §121(c)(1), title III, §335(b)(2)(B), Apr. 20, 1983, 97 Stat. 82, 130; Pub. L. 98–369, div. A, title I, §§42(a)(9), 127(a), 128(a), title IV, §412(b)(1), July 18, 1984, 98 Stat. 557, 648, 653, 792; Pub. L. 99–272, title XII, §12103(b), Apr. 7, 1986, 100 Stat. 285; Pub. L. 99–514, title III, §301(b)(9), title XII, §§1211(b)(4), (5), 1214(c)(1), title XVIII, §1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A), Oct. 22, 1986, 100 Stat. 2217, 2536, 2542, 2825, 2826; Pub. L. 100–647, title I, §1001(d)(2)(B), title VI, §6134(a)(1), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 102–318, title V, §521(b)(28)–(30), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §§13113(d)(5), 13237(a)(1), (c)(1), Aug. 10, 1993, 107 Stat. 430, 506, 508; Pub. L. 103–296, title III, §320(a)(1)(A), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §733(a), Dec. 8, 1994, 108 Stat. 5006; Pub. L. 104–188, title I, §§1401(b)(10), 1954(b)(1), Aug. 20, 1996, 110 Stat. 1789, 1928; Pub. L. 105–206, title VI, §6023(10), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(b)(2), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title III, §319(11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title IV, §§409(a), 411(a)(1), Oct. 22, 2004, 118 Stat. 1500; Pub. L. 109–222, title V, §505(c)(2), May 17, 2006, 120 Stat. 356; Pub. L. 110–343, div. C, title II, §206(a), (b), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–147, title V, §§502(b)(1), (2)(A), 541(a), Mar. 18, 2010, 124 Stat. 107, 115; Pub. L. 111–226, title II, §217(b), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–312, title VII, §748(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 111–325, title III, §§301(f), 302(b)(2), 308(b)(3), Dec. 22, 2010, 124 Stat. 3544, 3548, 3551; Pub. L. 112–240, title III, §320(a), Jan. 2, 2013, 126 Stat. 2332; Pub. L. 113–295, div. A, title I, §132(a), title II, §221(a)(71), Dec. 19, 2014, 128 Stat. 4018, 4048; Pub. L. 114–113, div. Q, title I, §125(a), Dec. 18, 2015, 129 Stat. 3054.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 85–866, title I, §§40(a), 41(a), Sept. 2, 1958, 72 Stat. 1638, 1639; Pub. L. 86–437, §2(b), Apr. 22, 1960, 74 Stat. 79; Pub. L. 87–256, §110(b), Sept. 21, 1961, 75 Stat. 535; Pub. L. 88–272, title I, §113(b), title II, §201(d)(12), Feb. 26, 1964, 78 Stat. 24, 32; Pub. L. 89–809, title I, §103(a)(1), Nov. 13, 1966, 80 Stat. 1547; Pub. L. 92–178, title III, §313(a), (b), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title X, §1012(a)(2), title XIX, §§1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1613, 1793, 1834; Pub. L. 95–600, title IV, §§401(b)(3), 421(e)(4), Nov. 6, 1978, 92 Stat. 2867, 2876; Pub. L. 96–222, title I, §104(a)(4)(H)(v), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–499, title XI, §1122(c)(1), Dec. 5, 1980, 94 Stat. 2687; Pub. L. 96–605, title II, §227(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title VII, §725(c)(1), Aug. 13, 1981, 95 Stat. 346; Pub. L. 98–21, title I, §121(c)(1), title III, §335(b)(2)(B), Apr. 20, 1983, 97 Stat. 82, 130; Pub. L. 98–369, div. A, title I, §§42(a)(9), 127(a), 128(a), title IV, §412(b)(1), July 18, 1984, 98 Stat. 557, 648, 653, 792; Pub. L. 99–272, title XII, §12103(b), Apr. 7, 1986, 100 Stat. 285; Pub. L. 99–514, title III, §301(b)(9), title XII, §§1211(b)(4), (5), 1214(c)(1), title XVIII, §1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A), Oct. 22, 1986, 100 Stat. 2217, 2536, 2542, 2825, 2826; Pub. L. 100–647, title I, §1001(d)(2)(B), title VI, §6134(a)(1), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 102–318, title V, §521(b)(28)–(30), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §§13113(d)(5), 13237(a)(1), (c)(1), Aug. 10, 1993, 107 Stat. 430, 506, 508; Pub. L. 103–296, title III, §320(a)(1)(A), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §733(a), Dec. 8, 1994, 108 Stat. 5006; Pub. L. 104–188, title I, §§1401(b)(10), 1954(b)(1), Aug. 20, 1996, 110 Stat. 1789, 1928; Pub. L. 105–206, title VI, §6023(10), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(b)(2), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title III, §319(11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title IV, §§409(a), 411(a)(1), Oct. 22, 2004, 118 Stat. 1500; Pub. L. 109–222, title V, §505(c)(2), May 17, 2006, 120 Stat. 356; Pub. L. 110–343, div. C, title II, §206(a), (b), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–147, title V, §§502(b)(1), (2)(A), 541(a), Mar. 18, 2010, 124 Stat. 107, 115; Pub. L. 111–226, title II, §217(b), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–312, title VII, §748(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 111–325, title III, §§301(f), 302(b)(2), 308(b)(3), Dec. 22, 2010, 124 Stat. 3544, 3548, 3551; Pub. L. 112–240, title III, §320(a), Jan. 2, 2013, 126 Stat. 2332; Pub. L. 113–295, div. A, title I, §132(a), title II, §221(a)(71), Dec. 19, 2014, 128 Stat. 4018, 4048; Pub. L. 114–113, div. Q, title I, §125(a), Dec. 18, 2015, 129 Stat. 3054; Pub. L. 115–141, div. U, title IV, §401(b)(29), Mar. 23, 2018, 132 Stat. 1203.)
 
 #### References in Text
 
 Section 207 of the Social Security Act, referred to in subsec. (a)(3)(A), is classified to section 407 of Title 42, The Public Health and Welfare.
 
-Section 932(c), referred to in subsec. (a)(3), was repealed and a new section 932(c) of this title, which does not relate to taxation of social security benefits, was enacted by Pub. L. 99–514, title XII, §§1272(d)(1), 1274(a), Oct. 22, 1986, 100 Stat. 2594, 2596.
-
-The Trade Act of 1974, referred to in subsec. (f)(2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (f)(2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of Title 19,Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
 The date of the enactment of this subsection, referred to in subsec. (l)(1)(A)(i), (iii), (B)(iv)(I)(aa), is the date of enactment of Pub. L. 111–226, which was approved Aug. 10, 2010.
 
 The date of the enactment of this subsection, referred to in subsec. (m)(3)(B), is the date of enactment of Pub. L. 111–147, which was approved Mar. 18, 2010.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(3). Pub. L. 115–141 struck out concluding provisions which read as follows: "For treatment of certain citizens of possessions of the United States, see section 932(c)."
 
 <b>2015</b>—Subsec. (k)(1)(C)(v). Pub. L. 114–113 struck out cl. (v). Text read as follows: "The term 'interest related dividend' shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2014."
 
@@ -852,7 +850,7 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1401(b)(10) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
+Amendment by section 1401(b)(10) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31,1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
 
 Amendment by section 1954(b)(1) of Pub. L. 104–188 applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as an Effective Date note under section 2461 of Title 19, Customs Duties.
 
@@ -940,7 +938,7 @@ Amendment by section 412(b)(1) of Pub. L. 98–369 applicable with respect to ta
 
 #### Effective Date of 1983 Amendment
 
-Amendment by section 121(c)(1) of Pub. L. 98–21 applicable to benefits received after Dec. 31, 1983, in taxable years ending after such date, except for any portion of a lump-sum payment of social security benefits received after Dec. 31, 1983, if the generally applicable payment date for such portion was before Jan. 1, 1984, see section 121(g) of Pub. L. 98–21, set out as an Effective Date note under section 86 of this title.
+Amendment by section 121(c)(1) of Pub. L. 98–21 applicable to benefits received after Dec. 31, 1983, in taxable years ending after such date, except for any portion ofa lump-sum payment of social security benefits received after Dec. 31, 1983, if the generally applicable payment date for such portion was before Jan. 1, 1984, see section 121(g) of Pub. L. 98–21, set out as an Effective Date note under section 86 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -1006,13 +1004,17 @@ Pub. L. 85–866, title I, §40(c), Sept. 2, 1958, 72 Stat. 1639, provided that:
 
 Pub. L. 85–866, title I, §41(c), Sept. 2, 1958, 72 Stat. 1639, provided that: "The amendments made by this section \[amending this section and section 35 of this title\] shall apply only with respect to taxable years beginning after December 31, 1957."
 
+#### Savings Provision
+
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
 For nonapplication of amendments by sections 1211(b)(4), (5) and 1214(c)(1) of Pub. L. 99–514 to the extent application of such amendments would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to bemade before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 
@@ -1020,7 +1022,5 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

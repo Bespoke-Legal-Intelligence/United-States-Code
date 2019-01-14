@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—If a State maritime academy has an agreement with the Secretary of Transportation under section 51505 of this title, the Secretary may make an agreement with a student at the academy who is a citizen of the United States to make student incentive payments to the individual. An agreement with a student may not be effective for more than 4 academic years. The Secretary shall allocate payments under this section among the various State maritime academies in an equitable manner.
+General Authority.—If a State maritime academy has an agreement with the Secretary of Transportation under section 51505 of this title, the Secretary may make an agreement with a student at the academy who is a citizen of the United States to make student incentive payments to the individual. An agreement with a student may not be effective for more than 4 academic years. The Secretary shall allocate payments under this section among the variousState maritime academies in an equitable manner.
 
 (b)
 
@@ -180,7 +180,7 @@ Subsec. (d)(3). Pub. L. 114–92, §3507(3)(B), amended par. (3) generally. Prio
 
 Subsec. (d)(4). Pub. L. 114–92, §3507(3)(C), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "accept, if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the academy;".
 
-Subsec. (e)(1). Pub. L. 114–92, §3507(4), amended par. (1) generally. Prior to amendment, text read as follows: "If the Secretary of Transportation determines that an individual who has accepted the payments described in subsection (b) for a minimum of 2 academic years has failed to fulfill the part of the agreement described in subsection (d)(1), the individual may be ordered by the Secretary of Defense to serve on active duty in the armed forces of the United States for a period of not more than 2 years. In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part."
+Subsec. (e)(1). Pub. L. 114–92, §3507(4), amended par. (1) generally. Prior to amendment, text read as follows: "If the Secretary of Transportation determines that an individual who has accepted the payments described in subsection (b) for a minimum of 2 academic years has failed to fulfill the part of the agreement described in subsection (d)(1), the individual may be ordered by the Secretary of Defense to serve on active duty in the armed forces of the United States for a period of notmore than 2 years. In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part."
 
 Subsec. (h). Pub. L. 114–92, §3507(5), added subsec. (h).
 

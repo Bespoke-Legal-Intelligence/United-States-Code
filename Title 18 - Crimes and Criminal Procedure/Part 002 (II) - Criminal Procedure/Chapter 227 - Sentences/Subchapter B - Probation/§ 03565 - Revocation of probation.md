@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 103–322, §110506(b), amended subsec. (b) generally. Prio
 
 "(b)
 
-Mandatory Revocation for Possession of a Firearm.—If the defendant is in actual possession of a firearm, as that term is defined in section 921 of thistitle, at any time prior to the expiration or termination of the term of probation, the court shall, after a hearing pursuant to Rule 32.1 of the Federal Rules of Criminal Procedure, revoke the sentence of probation and impose any other sentence that was available under subchapter A at the time of the initial sentencing."
+Mandatory Revocation for Possession of a Firearm.—If the defendant is in actual possession of a firearm, as that term is defined in section 921 of this title, at any time prior to the expiration or termination of the term of probation, the court shall, after a hearing pursuant to Rule 32.1 of the Federal Rules of Criminal Procedure, revoke the sentence of probation and impose any other sentence that was available under subchapter A at the time of the initial sentencing."
 
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–647 substituted "or modifying" for "of modifying".
 

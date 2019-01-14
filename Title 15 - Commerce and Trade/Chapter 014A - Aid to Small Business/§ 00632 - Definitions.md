@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the size of a manufacturing concern as measured by the manufacturing concern's average employment based upon employment during each of the manufacturing concern's pay periods for the preceding 12 months;
 
-&emsp;&emsp;&emsp;&emsp;(II) the size of a business concern providing services on the basis of the annual average gross receipts of the business concern over a period of not less than 3 years;
+&emsp;&emsp;&emsp;&emsp;(II) the size of a business concern providing services on the basis of the annual average gross receipts of the business concern over a period of not less than 5 years;
 
 &emsp;&emsp;&emsp;&emsp;(III) the size of other business concerns on the basis of data over a period of not less than 3 years; or
 
@@ -36,7 +36,7 @@
 
 #### (3) Variation by industry and consideration of other factors
 
-&emsp;When establishing or approving any size standard pursuant to paragraph (2), the Administrator shall ensure that the size standard varies from industry to industry to the extent necessary to reflect the differing characteristics of the various industries and consider other factors deemed to be relevant by the Administrator.
+&emsp;When establishing or approving any size standard pursuant to paragraph (2), the Administrator shall ensure that the size standardvaries from industry to industry to the extent necessary to reflect the differing characteristics of the various industries and consider other factors deemed to be relevant by the Administrator.
 
 #### (4) Exclusion of certain security expenses from consideration for purpose of small business size standards
 
@@ -116,7 +116,7 @@
 
 #### (E) Rules or guidance
 
-&emsp;&emsp;The Office of Hearings and Appeals shall begin accepting petitions for reconsiderationdescribed in subparagraph (A) after the date on which the Administration issues a rule or other guidance implementing this paragraph. Notwithstanding the provisions of subparagraph (B), petitions for reconsideration of size standards revised, modified, or established in a Federal Register final rule published between November 25, 2015, and the effective date of such rule or other guidance shall be considered timely if filed within 30 days of such effective date.
+&emsp;&emsp;The Office of Hearings and Appeals shall begin accepting petitions for reconsideration described in subparagraph (A) after the date on which the Administration issues a rule or other guidance implementing this paragraph. Notwithstanding the provisions of subparagraph (B), petitions for reconsideration of size standards revised, modified, or established in a Federal Register final rule published between November 25, 2015, and the effective date of such rule or other guidance shall be considered timely if filed within 30 days of such effective date.
 
 #### (b) "Agency" defined
 
@@ -132,7 +132,7 @@ For purposes of this chapter, any reference to an agency or department of the Un
 
 &emsp;&emsp;(i) which is maintained by such concern, and
 
-&emsp;&emsp;(ii) which provides that each participant in the plan is entitled to direct the plan as to the manner in which voting rights under qualifying employer securities (as defined in section 4975(e)(8) of title 26) which are allocated to the account of such participant are to be exercised with respect to a corporate matter which (by law or charter) must be decided by a majority vote of outstanding common shares voted; and
+&emsp;&emsp;(ii) which provides that each participant is entitled to direct the plan trustee as to the manner of how to vote the qualified employer securities (as defined in section 4975(e)(8) of title 26), which are allocated to the account of such participant with respect to a corporate matter which (by law or charter) must be decided by a vote conducted in accordance with section 409(e) of the title 26; and
 
 &emsp;(B) in the case of any loan guarantee under section 636(a) of this title, the trustee of which enters into an agreement with the Administrator which is binding on the trust and on such small business concern and which provides that—
 
@@ -162,7 +162,7 @@ For purposes of this chapter, any reference to an agency or department of the Un
 
 #### (d) "Qualified Indian tribe" defined
 
-For purposes of section 636 of this title, the term "qualified Indian tribe" means an Indian tribe as defined in section 5304(a) <sup>1</sup> of title 25, which owns and controls 100 per centum of a small business concern.
+For purposes of section 636 of this title, the term "qualified Indian tribe" means an Indian tribe as defined in section 5304(a) <sup>1</sup> of title 25,which owns and controls 100 per centum of a small business concern.
 
 #### (e) "Public or private organization for the handicapped" defined
 
@@ -204,7 +204,21 @@ For purposes of section 636 of this title, the term "energy measures" includes�
 
 #### (h) "Credit elsewhere" defined
 
-For purposes of this chapter the term "credit elsewhere" means the availability of credit from non-Federal sources on reasonable terms and conditions taking into consideration the prevailing rates and terms in the community in or near where the concern transacts business, or the homeowner resides, for similar purposes and periods of time.
+The term "credit elsewhere" means—
+
+&emsp;(1) for the purposes of this chapter (except as used in section 636(b) of this title), the availability of credit on reasonable terms and conditions to the individual loan applicant from non-Federal, non-State, or non-local government sources, considering factors associated with conventional lending practices, including—
+
+&emsp;&emsp;(A) the business industry in which the loan applicant operates;
+
+&emsp;&emsp;(B) whether the loan applicant is an enterprise that has been in operation for a period of not more than 2 years;
+
+&emsp;&emsp;(C) the adequacy of the collateral available to secure the requested loan;
+
+&emsp;&emsp;(D) the loan term necessary to reasonably assure the ability of the loan applicant to repay the debt from the actual or projected cash flow of the business; and
+
+&emsp;&emsp;(E) any other factor relating to the particular credit application, as documented in detail by the lender, that cannot be overcome except through obtaining a Federal loan guarantee under prudent lending standards; and
+
+&emsp;(2) for the purposes of section 636(b) of this title, the availability of credit on reasonable terms and conditions from non-Federal sources taking into consideration the prevailing rates and terms in the community in or near where the applicant business concern transacts business, or the applicant homeowner resides, for similar purposes and periods of time.
 
 #### (i) "Homeowners" defined
 
@@ -364,7 +378,7 @@ In this chapter:
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;For any metropolitan statistical area in the Commonwealth of Puerto Rico, theterm "qualified census tract" has the meaning given that term in section 42(d)(5)(B)(ii) of title 26 as applied without regard to subclause (II) of such section, except that this clause shall only apply—
+&emsp;&emsp;&emsp;For any metropolitan statistical area in the Commonwealth of Puerto Rico, the term "qualified census tract" has the meaning given that term in section 42(d)(5)(B)(ii) of title 26 as applied without regard to subclause (II) of such section, except that this clause shall only apply—
 
 &emsp;&emsp;&emsp;&emsp;(I) 10 years after the date that the Administrator implements this clause, or
 
@@ -434,7 +448,7 @@ In this chapter:
 
 #### (II) Nonmetropolitan county
 
-&emsp;&emsp;&emsp;&emsp;The term "nonmetropolitan county" means a county that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26) at the time of the most recent census takenfor purposes of selecting qualified census tracts and does not otherwise qualify as a qualified nonmetropolitan county.
+&emsp;&emsp;&emsp;&emsp;The term "nonmetropolitan county" means a county that was not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26) at the time of the most recent census taken for purposes of selecting qualified census tracts and does not otherwise qualify as a qualified nonmetropolitan county.
 
 #### (E) Qualified disaster area
 
@@ -526,11 +540,35 @@ In this chapter, the following definitions apply:
 
 #### (2) Small business concern owned and controlled by service-disabled veterans
 
-&emsp;The term "small business concern owned and controlled by service-disabled veterans" means a small business concern—
+&emsp;The term "small business concern owned and controlled by service-disabled veterans" means any of the following:
 
-&emsp;&emsp;(A) not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
+&emsp;&emsp;(A) A small business concern—
 
-&emsp;&emsp;(B) the management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran.
+&emsp;&emsp;&emsp;(i) not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock (not including any stock owned by an ESOP) of which is owned by one or more service-disabled veterans; and
+
+&emsp;&emsp;&emsp;(ii) the management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran.
+
+&emsp;&emsp;(B) A small business concern—
+
+&emsp;&emsp;&emsp;(i) not less than 51 percent of which is owned by one or more service-disabled veterans with a disability that is rated by the Secretary of Veterans Affairs as a permanent and total disability who are unable to manage the daily business operations of such concern; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a publicly owned business, not less than 51 percent of the stock (not including any stock owned by an ESOP) of which is owned by one or more such veterans.
+
+&emsp;&emsp;(C)(i) During the time period described in clause (ii), a small business concern that was a small business concern described in subparagraph (A) or (B) immediately prior to the death of a service-disabled veteran who was the owner of the concern, the death of whom causes the concern to be less than 51 percent owned by one or more service-disabled veterans, if—
+
+&emsp;&emsp;&emsp;(I) the surviving spouse of the deceased veteran acquires such veteran's ownership interest in such concern;
+
+&emsp;&emsp;&emsp;(II) such veteran had a service-connected disability (as defined in section 101(16) of title 38) rated as 100 percent disabling under the laws administered by the Secretary of Veterans Affairs or such veteran died as a result of a service-connected disability; and
+
+&emsp;&emsp;&emsp;(III) immediately prior to the death of such veteran, and during the period described in clause (ii), the small business concern is included in the database described in section 8127(f) of title 38.
+
+&emsp;&emsp;(ii) The time period described in this clause is the time period beginning on the date of the veteran's death and ending on the earlier of—
+
+&emsp;&emsp;&emsp;(I) the date on which the surviving spouse remarries;
+
+&emsp;&emsp;&emsp;(II) the date on which the surviving spouse relinquishes an ownership interest in the small business concern; or
+
+&emsp;&emsp;&emsp;(III) the date that is 10 years after the date of the death of the veteran.
 
 #### (3) Small business concern owned and controlled by veterans
 
@@ -566,6 +604,14 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;The provisions of subparagraphs (A) and (B) shall not apply to any programs subject to the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.).
 
+#### (6) ESOP
+
+&emsp;The term "ESOP" has the meaning given the term "employee stock ownership plan" in section 4975(e)(7) of title 26.
+
+#### (7) Surviving spouse
+
+&emsp;The term "surviving spouse" has the meaning given such term in section 101(3) of title 38.
+
 #### (r) Definitions relating to small business lending companies
 
 As used in section 650 of this title:
@@ -574,9 +620,9 @@ As used in section 650 of this title:
 
 &emsp;The term "small business lending company" means a business concern that is authorized by the Administrator to make loans pursuant to section 636(a) of this title and whose lending activities are not subject to regulation by any Federal or State regulatory agency.
 
-#### (2) Non-Federally regulated SBA lender
+#### (2) Non-Federally regulated lender
 
-&emsp;The term "non-Federally regulated SBA lender" means a business concern if—
+&emsp;The term "non-Federally regulated lender" means a business concern if—
 
 &emsp;&emsp;(A) such concern is authorized by the Administrator to make loans under section 636 of this title;
 
@@ -608,7 +654,7 @@ In this chapter, the term "multiple award contract" means—
 
 #### (1) In general
 
-&emsp;In every contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant which is set aside, reserved, or otherwise classified as intended for award to small business concerns, there shall be a presumption of loss to the United States based on the total amount expended on the contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant whenever it is established that a business concern other than a small business concern willfully sought and received the award by misrepresentation.
+&emsp;In every contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant which is set aside,reserved, or otherwise classified as intended for award to small business concerns, there shall be a presumption of loss to the United States based on the total amount expended on the contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant whenever it is established that a business concern other than a small business concern willfully sought and received the award by misrepresentation.
 
 #### (2) Deemed certifications
 
@@ -684,7 +730,11 @@ In this chapter:
 
 &emsp;The term "at any tier" means any subcontractor other than a subcontractor who is a first tier subcontractor.
 
-(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 109–163, div. A, title VIII, §§844, 845(a)(1), Jan. 6, 2006, 119 Stat. 3389, 3390; Pub. L. 110–186, title II, §205, Feb. 14, 2008, 122 Stat. 629; Pub. L. 110–234, title XII, §§12063(c)(1), 12071, May 22, 2008, 122 Stat. 1408, 1411; Pub. L. 110–246, §4(a), title XII, §§12063(c)(1), 12071, June 18, 2008, 122 Stat. 1664, 2170, 2173; Pub. L. 111–240, title I, §§1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, 124 Stat. 2509, 2521, 2536, 2543–2545, 2550; Pub. L. 112–81, div. E, title LI, §5107(b), Dec. 31, 2011, 125 Stat. 1829; Pub. L. 112–239, div. A, title XVI, §§1661, 1696(b)(1), Jan. 2, 2013, 126 Stat. 2083, 2090; Pub. L. 113–66, div. A, title XVI, §1614(b), Dec. 26, 2013, 127 Stat. 949; Pub. L. 114–92, div. A, title VIII, §§866(a), 869(b), Nov. 25, 2015, 129 Stat. 929, 938; Pub. L. 114–187, title IV, §412(a)(1), June 30, 2016, 130 Stat. 595; Pub. L. 114–328, div. A, title XVIII, §§1831(b), 1832(a), 1833(b), Dec. 23, 2016, 130 Stat. 2658, 2661; Pub. L. 115–91, div. A, title XVII, §§1701(a)(2), (3), 1702(b), Dec. 12, 2017, 131 Stat. 1795, 1796, 1803.)
+#### (ee) Puerto Rico business
+
+In this chapter, the term "Puerto Rico business" means a small business concern that hasits principal office located in the Commonwealth of Puerto Rico.
+
+(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 109–163, div. A, title VIII, §§844, 845(a)(1), Jan. 6, 2006, 119 Stat. 3389, 3390; Pub. L. 110–186, title II, §205, Feb. 14, 2008, 122 Stat. 629; Pub. L. 110–234, title XII, §§12063(c)(1), 12071, May 22, 2008, 122 Stat. 1408, 1411; Pub. L. 110–246, §4(a), title XII, §§12063(c)(1), 12071, June 18, 2008, 122 Stat. 1664, 2170, 2173; Pub. L. 111–240, title I, §§1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, 124 Stat. 2509, 2521, 2536, 2543–2545, 2550; Pub. L. 112–81, div. E, title LI, §5107(b), Dec. 31, 2011, 125 Stat. 1829; Pub. L. 112–239, div. A, title XVI, §§1661, 1696(b)(1), Jan. 2, 2013, 126 Stat. 2083, 2090; Pub. L. 113–66, div. A, title XVI, §1614(b), Dec. 26, 2013, 127 Stat. 949; Pub. L. 114–92, div. A, title VIII, §§866(a), 869(b), Nov. 25, 2015, 129 Stat. 929, 938; Pub. L. 114–187, title IV, §412(a)(1), June 30, 2016, 130 Stat. 595; Pub. L. 114–328, div. A, title XVIII, §§1831(b), 1832(a), 1833(b), Dec. 23, 2016, 130 Stat. 2658, 2661; Pub. L. 115–91, div. A, title XVII, §§1701(a)(2), (3), 1702(b), Dec. 12, 2017, 131 Stat. 1795, 1796, 1803; Pub. L. 115–189, §§3(e), 4(a)(1), June 21, 2018, 132 Stat. 1496; Pub. L. 115–232, div. A, title VIII, §§861(a), 862(h), Aug. 13, 2018, 132 Stat. 1896, 1900; Pub. L. 115–324, §2, Dec. 17, 2018, 132 Stat. 4444.)
 
 #### Amendment of Subsection (p)
 
@@ -699,56 +749,6 @@ In this chapter:
 <i>In this chapter, the term "qualified HUBZone small business concern" has the meaning given such term in section 657a(b) of this title."</i>
 
 <i>See 2017 Amendment notes below.</i>
-
-#### Amendment of Subsection (q)
-
-<i>Pub. L. 114–328, div. A, title XVIII, §1832(a), (e), Dec. 23, 2016, 130 Stat. 2658, 2660, provided that, effective on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue implementing regulations, subsection (q) of this section is amended—</i>
-
-<i>(1) by amending paragraph (2) to read as follows:</i>
-
-#### <i>"(2) Small business concern owned and controlled by service-disabled veterans</i>
-
-&emsp;<i>"The term 'small business concern owned and controlled by service-disabled veterans' means any of the following:</i>
-
-&emsp;&emsp;<i>"(A) A small business concern—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock (not including any stock owned by an ESOP) of which is owned by one or more service-disabled veterans; and</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) the management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran.</i>
-
-&emsp;&emsp;<i>"(B) A small business concern—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) not less than 51 percent of which is owned by one or more service-disabled veterans with a disability that is rated by the Secretary of Veterans Affairs as a permanent and total disability who are unable to manage the daily business operations of such concern; or</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) in the case of a publicly owned business, not less than 51 percent of the stock (not including any stock owned by an ESOP) of which is owned by one or more such veterans.</i>
-
-&emsp;&emsp;<i>"(C)(i) During the time period described in clause (ii), a small business concern that was a small business concern described in subparagraph (A) or (B) immediately prior to the death of a service-disabled veteran who was the owner of the concern, the death of whom causes the concern to be less than 51 percent owned by one or more service-disabled veterans, if—</i>
-
-&emsp;&emsp;&emsp;<i>"(I) the surviving spouse of the deceased veteran acquires such veteran's ownership interest in such concern;</i>
-
-&emsp;&emsp;&emsp;<i>"(II) such veteran had a service-connected disability (as defined in section 101(16) of title 38) rated as 100 percent disabling under the laws administered by the Secretary of Veterans Affairs or such veteran died as a result of a service-connected disability; and</i>
-
-&emsp;&emsp;&emsp;<i>"(III) immediately prior to the death of such veteran, and during the period described in clause (ii), the small business concern is included in the database described in section 8127(f) of title 38.</i>
-
-&emsp;&emsp;<i>"(ii) The time period described in this clause is the time period beginning on the date of the veteran's death and ending on the earlier of—</i>
-
-&emsp;&emsp;&emsp;<i>"(I) the date on which the surviving spouse remarries;</i>
-
-&emsp;&emsp;&emsp;<i>"(II) the date on which the surviving spouse relinquishes an ownership interest in the small business concern; or</i>
-
-&emsp;&emsp;&emsp;<i>"(III) the date that is 10 years after the date of the death of the veteran."; and</i>
-
-<i>(2) by adding at the end the following new paragraphs:</i>
-
-#### <i>"(6) ESOP</i>
-
-&emsp;<i>"The term 'ESOP' has the meaning given the term 'employee stock ownership plan' in section 4975(e)(7) of title 26.</i>
-
-#### <i>"(7) Surviving spouse</i>
-
-&emsp;<i>"The term 'surviving spouse' has the meaning given such term in section 101(3) of title 38."</i>
-
-<i>See 2016 Amendment notes below.</i>
 
 #### References in Text
 
@@ -779,6 +779,16 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Prior similar provisions were contained in section 203 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, which was previously classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2)(C)(ii)(II). Pub. L. 115–324 substituted "5 years" for "3 years".
+
+Subsec. (c)(2)(A)(ii). Pub. L. 115–232, §862(h), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "which provides that each participant in the plan is entitled to direct the plan as to the manner in which voting rights under qualifying employer securities (as defined in section 4975(e)(8) of title 26) which are allocated to the account of such participant are to be exercised with respect to a corporate matter which (by law or charter) must be decided by a majority vote of outstanding common shares voted; and".
+
+Subsec. (h). Pub. L. 115–189, §4(a)(1), added subsec. (h) and struck out former subsec. (h). Prior to amendment, text read as follows: "For purposes of this chapter the term 'credit elsewhere' means the availability of credit from non-Federal sources on reasonable terms and conditions taking into consideration the prevailing rates and terms in the community in or near where the concern transacts business, or the homeowner resides, for similar purposes and periods of time."
+
+Subsec. (r)(2). Pub. L. 115–189, §3(e), substituted "regulated lender" for "regulated SBA lender" in heading and text.
+
+Subsec. (ee). Pub. L. 115–232, §861(a), added subsec. (ee).
 
 <b>2017</b>—Subsec. (m). Pub. L. 115–91, §1702(b), amended subsec. (m) generally. Prior to amendment, text defined the term "simplified acquisition threshold".
 
@@ -906,7 +916,7 @@ Subsec. (p)(3)(D). Pub. L. 106–554, §1(a)(9) \[title VI, §614(1)\], added su
 
 Subsec. (p)(4)(A). Pub. L. 106–554, §1(a)(9) \[title VI, §611(a)\], substituted "section 42(d)(5)(C)(ii)" for "section 42(d)(5)(C)(ii)(I)".
 
-Subsec. (p)(4)(B). Pub. L. 106–554, §1(a)(9) \[title VI, §611(b)\], added subpar. (B) and struck out heading andtext of former subpar. (B). Text read as follows: "The term 'qualified nonmetropolitan county' means any county—
+Subsec. (p)(4)(B). Pub. L. 106–554, §1(a)(9) \[title VI, §611(b)\], added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: "The term 'qualified nonmetropolitan county' means any county—
 
 &emsp;"(i) that, based on the most recent data available from the Bureau of the Census of the Department of Commerce—
 
@@ -982,7 +992,7 @@ Pub. L. 99–272 inserted proviso that notwithstanding any other provision of la
 
 Subsec. (c)(2)(A), (3)(B)(i), (iv). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<b>1984</b>—Subsec. (j). Pub. L. 98–473 in subsec. (j) added by Pub. L. 98–270 substituted "as a business concern and shall not include the income or employees of any member shareholder of such cooperative" for "as an entity and shall not include the income or employees of any member shareholder of such cooperative: <i>Provided</i>,That such an association shall not be deemed to be a small agricultural cooperative unless each member of the board of directors of the association, or each member of the governing body of the association if it is not incorporated, also individually qualifies as a small business concern".
+<b>1984</b>—Subsec. (j). Pub. L. 98–473 in subsec. (j) added by Pub. L. 98–270 substituted "as a business concern and shall not include the income or employees of any member shareholder of such cooperative" for "as an entity and shall not include the income or employees of any member shareholder of such cooperative: <i>Provided</i>, That such an association shall not be deemed to be a small agricultural cooperative unless each member of the board of directors of the association, or each member of the governing body of the association if it is not incorporated, also individually qualifies as a small business concern".
 
 Pub. L. 98–362 added subsec. (j) defining "computer crime".
 
@@ -1000,11 +1010,11 @@ Subsec. (c). Pub. L. 96–302 added subsec. (c).
 
 #### Effective Date of 2017 Amendment
 
-Amendment by section 1701 of Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 2323 of Title 10, Armed Forces.
+Amendment by section 1701 of Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 657a of this title.
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–328, div. A, title XVIII, §1832(e), Dec. 23, 2016, 130 Stat. 2660, provided that: "The amendments made by subsections (a), (b), (c), and (d) \[amending this section, section 637 of this title, and section 8127 of Title 38, Veterans' Benefits\] shall take effect on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue regulations implementing such sections \[probably should be "subsections"\]."
+Pub. L. 114–328, div. A, title XVIII, §1832(e), Dec. 23, 2016, 130 Stat. 2660, provided that: "The amendments made by subsections (a), (b), (c), and (d) \[amending this section, section 637 of this title, and section 8127 of Title 38, Veterans' Benefits\] shall take effect on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue regulations implementing such sections \[probably should be "subsections"\] \[regulations effective Oct. 1, 2018, see 83 F.R. 48908\]."
 
 #### Effective Date of 2015 Amendment
 
@@ -1032,7 +1042,7 @@ Pub. L. 100–26, §12(c), Apr. 21, 1987, 101 Stat. 289, provided that: "The ame
 
 #### Effective Date of 1986 Amendment; Initial Review of Standards
 
-Section 101(c) \[title X, §921(g), (h)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 921(g), (h) of title IX, formerly title IV, of Pub. L. 99–661; renumbered title IX and amended by Pub. L. 100–26, §§3(5), 10(a)(2), Apr. 21, 1987, 101 Stat. 273, 288; Pub. L. 100–180, div. A, title VIII, §809(d), Dec. 4, 1987, 101 Stat. 1130, provided that:
+Section 101(c) \[title X, §921(g), (h)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 921(g), (h) of title IX,formerly title IV, of Pub. L. 99–661; renumbered title IX and amended by Pub. L. 100–26, §§3(5), 10(a)(2), Apr. 21, 1987, 101 Stat. 273, 288; Pub. L. 100–180, div. A, title VIII, §809(d), Dec. 4, 1987, 101 Stat. 1130, provided that:
 
 "(g)
 
@@ -1052,7 +1062,7 @@ Pub. L. 98–270, title III, §312, Apr. 18, 1984, 98 Stat. 161, provided that: 
 
 Pub. L. 98–270, title III, §313, Apr. 18, 1984, 98 Stat. 162, provided that: "This title \[amending this section and sections 633, 636, and 647 of this title, enacting provisions set out as notes under sections 632 and 636 of this title, and amending provisions set out as a note under section 631 of this title\] shall take effect October 1, 1983."
 
-Amendment by Pub. L. 98–362 effective Oct. 1, 1984, see section 7(a) of Pub. L. 98–362, set out as an Effectiveand Termination Dates of 1984 Amendments note under section 633 of this title.
+Amendment by Pub. L. 98–362 effective Oct. 1, 1984, see section 7(a) of Pub. L. 98–362, set out as an Effective and Termination Dates of 1984 Amendments note under section 633 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -1136,7 +1146,7 @@ In general.—Any covered amounts may not be used to carry out section 1111, 111
 
 Definition.—In this subsection, the term 'covered amounts' means—
 
-&emsp;&emsp;"(A) the amounts made available to the Secretary of the Treasury under title I of the Emergency Economic Stabilization Act of 2008 S.C. \[sic\] 5201 etseq.) \[12 U.S.C. 5211 et seq.\] to purchase (under section 101 \[12 U.S.C. 5211\]) or guarantee (under section 102 \[12 U.S.C. 5212\]) assets under that Act \[12 U.S.C. 5201 et seq.\]; and
+&emsp;&emsp;"(A) the amounts made available to the Secretary of the Treasury under title I of the Emergency Economic Stabilization Act of 2008 S.C. \[sic\] 5201 et seq.) \[12 U.S.C. 5211 et seq.\] to purchase (under section 101 \[12 U.S.C. 5211\]) or guarantee (under section 102 \[12 U.S.C. 5212\]) assets under that Act \[12 U.S.C. 5201 et seq.\]; and
 
 &emsp;&emsp;"(B) any revenue increase attributable to any amendment to the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] made during the period beginning on the date of enactment of this Act \[Sept. 27, 2010\] and ending on December 31, 2010."
 
@@ -1200,9 +1210,9 @@ In general.—Subject to paragraph (2), a covered base closure area shall be tre
 
 Limitation.—The total period of time that a covered base closure area is treated as a HUBZone for purposes of the Small Business Act (15 U.S.C. 631 et seq.) pursuant to this section and section 152(a)(2) of the Small Business Reauthorization and Manufacturing Assistance Act of 2004 (15 U.S.C. 632 note) may not exceed 5 years."
 
-Pub. L. 108–447, div. K, title I, §152(a)(2), Dec. 8, 2004, 118 Stat. 3457, provided that: "A base closure area that has undergone final closure shall be treated as a HUBZone for purposes of the Small Business Act \[15 U.S.C. 631 et seq.\] for a period of 5 years."
+Pub. L. 108–447, div. K, title I, §152(a)(2), Dec. 8, 2004, 118 Stat. 3457, provided that: "A base closure area thathas undergone final closure shall be treated as a HUBZone for purposes of the Small Business Act \[15 U.S.C. 631 et seq.\] for a period of 5 years."
 
-\[Pub. L. 115–91, div. A, title XVII, §1701(f), (j), Dec. 12, 2017, 131 Stat. 1800, 1803, provided that section 152(a)(2) of Pub. L. 108–447, set out above, is repealed effective Jan. 1, 2020.\]
+<i>\[Pub. L. 115–91, div. A, title XVII, §1701(f), (j), Dec. 12, 2017, 131 Stat. 1800, 1803, provided that section 152(a)(2) of Pub. L. 108–447, set out above, is repealed effective Jan. 1, 2020.\]</i>
 
 #### Continued Effectiveness of Numerical Size Standards in Effect on September 30, 1988
 

@@ -36,5 +36,5 @@ In this section, the text of 40:460(2) is omitted as unnecessary because the com
 
 In clause (1), the words "or 'public agencies' " are omitted as unnecessary because of 1:1.
 
-In clause (3), the words "Guam, the Virgin Islands" are added to clarify that the provisions of the source law apply to those jurisdictions. The words "the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau" are substituted for "the Trust Territory of the Pacific Islands" because ofthe termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
+In clause (3), the words "Guam, the Virgin Islands" are added to clarify that the provisions of the source law apply to those jurisdictions. The words "the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau" are substituted for "the Trust Territory of the Pacific Islands" because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
 

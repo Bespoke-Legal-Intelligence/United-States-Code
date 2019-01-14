@@ -184,7 +184,7 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, §6007(g), as added Dec. 18, 1991, Pu
 
 In subsection (b)(2)(A), the words "Virginia, the District of Columbia" are substituted for "either jurisdiction" for clarity.
 
-In subsection (c)(6)(C), the words "the limitations described in" are omitted as unnecessary. The word "until" is substituted for "for the period beginning onOctober 1, 1997, and ending on the first day on which" to eliminate unnecessary words.
+In subsection (c)(6)(C), the words "the limitations described in" are omitted as unnecessary. The word "until" is substituted for "for the period beginning on October 1, 1997, and ending on the first day on which" to eliminate unnecessary words.
 
 In subsection (d), the words "The Airports Authority shall be subject to a conflict-of-interest provision providing that" are omitted as surplus.
 

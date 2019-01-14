@@ -20,7 +20,7 @@ Pub. L. 99–660, title III, §322, Nov. 14, 1986, 100 Stat. 3783, as amended by
 
 "(a)
 
-In General.—Except as provided in subsection (b), if any provision \[of\] part A or B of subtitle 2 of title XXI of the Public Health Service Act \[42 U.S.C. 300aa–10 et seq., 300aa–21 et seq.\], as added by section 311(a), or the application of such a provision to any person or circumstance is held invalid by reason of a violation of the Constitution, both such parts shall be considered invalid.
+In General.—Except as provided in subsection (b), if any provision \[of\] part A or B of subtitle 2 of titleXXI of the Public Health Service Act \[42 U.S.C. 300aa–10 et seq., 300aa–21 et seq.\], as added by section 311(a), or the application of such a provision to any person or circumstance is held invalid by reason of a violation of the Constitution, both such parts shall be considered invalid.
 
 "(b)
 
@@ -30,7 +30,7 @@ Special Rule.—If any amendment made by section 6601 of the Omnibus Budget Reco
 
 #### Evaluation of Program; Study and Report to Congress
 
-Pub. L. 101–239, title VI, §6601(t), Dec. 19, 1989, 103 Stat. 2293, as amended by Pub. L. 102–168, title II,§201(b), Nov. 26, 1991, 105 Stat. 1103, directed the Secretary of Health and Human Services to evaluate the National Vaccine Injury Compensation Program under this subchapter and report results of such study to Committee on Energy and Commerce of House of Representatives and Committee on Labor and Human Resources of Senate not later than Jan. 1, 1993.
+Pub. L. 101–239, title VI, §6601(t), Dec. 19, 1989, 103 Stat. 2293, as amended by Pub. L. 102–168, title II, §201(b), Nov. 26, 1991, 105 Stat. 1103, directed the Secretary of Health and Human Services to evaluate the National Vaccine Injury Compensation Program under this subchapter and report results of such study to Committee on Energy and Commerce of House of Representatives and Committee on Labor and Human Resources of Senate not later than Jan. 1, 1993.
 
 #### Related Studies
 

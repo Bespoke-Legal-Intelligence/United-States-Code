@@ -8,7 +8,7 @@ The Center shall—
 
 &emsp;&emsp;(A) the private sector of the Nation's economy, including labor organizations, associations and confederations, business enterprises and associations, institutions of higher education, foundations and other philanthropic organizations and research centers and institutes; and
 
-&emsp;&emsp;(B) the public sector of the Nation's economy, including Federal, State, and localgovernments and agencies thereof, including institutions of higher education,
+&emsp;&emsp;(B) the public sector of the Nation's economy, including Federal, State, and local governments and agencies thereof, including institutions of higher education,
 
 > &emsp;in efforts to improve the rate of productivity growth in all sectors of the Nation's economy;
 

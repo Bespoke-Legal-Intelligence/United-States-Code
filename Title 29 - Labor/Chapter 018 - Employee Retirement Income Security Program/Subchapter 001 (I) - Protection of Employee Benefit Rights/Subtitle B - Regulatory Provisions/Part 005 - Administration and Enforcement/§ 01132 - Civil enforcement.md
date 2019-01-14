@@ -52,7 +52,7 @@ A civil action may be brought—
 
 (1) Any administrator (A) who fails to meet the requirements of paragraph (1) or (4) of section 1166 <sup>2</sup> of this title, section 1021(e)(1) of this title, section 1021(f) of this title, or section 1025(a) of this title with respect to a participant or beneficiary, or (B) who fails or refuses to comply with a request for any information which such administrator is required by this subchapter to furnish to a participant or beneficiary (unless such failure or refusal results from matters reasonably beyond the control of the administrator) by mailing the material requested to the last known address of the requesting participant or beneficiary within 30 days after such request may in the court's discretion be personally liable to such participant or beneficiary in the amount of up to $100 a day from the date of such failure or refusal, and the court may in its discretion order such other relief as it deems proper. For purposes of this paragraph, each violation described in subparagraph (A) with respect to any single participant, and each violation described in subparagraph (B) with respect to any single participant or beneficiary, shall be treated as a separate violation.
 
-(2) The Secretary may assess a civil penalty against any plan administrator of up to $1,000 aday from the date of such plan administrator's failure or refusal to file the annual report required to be filed with the Secretary under section 1021(b)(1) of this title. For purposes of this paragraph, an annual report that has been rejected under section 1024(a)(4) of this title for failure to provide material information shall not be treated as having been filed with the Secretary.
+(2) The Secretary may assess a civil penalty against any plan administrator of up to $1,000 a day from the date of such plan administrator's failure or refusal to file the annual report required to be filed with the Secretary under section 1021(b)(1) of this title. For purposes of this paragraph, an annual report that has been rejected under section 1024(a)(4) of this title for failure to provide material information shall not be treated as having been filed with the Secretary.
 
 (3) Any employer maintaining a plan who fails to meet the notice requirement of section 1021(d) of this title with respect to any participant or beneficiary or who fails to meet the requirements of section 1021(e)(2) of this title with respect to any person or who fails to meet the requirements of section 1082(d)(12)(E) <sup>2</sup> of this title with respect to any person may in the court's discretion be liable to such participant or beneficiary or to such person in the amount of up to $100 a day from the date of such failure, and the court may in its discretion order such other relief as it deems proper.
 
@@ -62,7 +62,7 @@ A civil action may be brought—
 
 (6) If, within 30 days of a request by the Secretary to a plan administrator for documents under section 1024(a)(6) of this title, the plan administrator fails to furnish the material requested to the Secretary, the Secretary may assess a civil penalty against the plan administrator of up to $100 a day from the date of such failure (but in no event in excess of $1,000 per request). No penalty shall be imposed under this paragraph for any failure resulting from matters reasonably beyond the control of the plan administrator.
 
-(7) The Secretary may assess a civil penalty against a plan administrator of up to $100 a day from the date of the plan administrator's failure or refusal to provide notice to participants and beneficiaries in accordance with subsection (i) or (m) of section 1021 of this title. For purposes of this paragraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
+(7) The Secretary may assess a civil penalty against a plan administrator of up to $100 a dayfrom the date of the plan administrator's failure or refusal to provide notice to participants and beneficiaries in accordance with subsection (i) or (m) of section 1021 of this title. For purposes of this paragraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
 
 (8) The Secretary may assess against any plan sponsor of a multiemployer plan a civil penalty of not more than $1,100 per day—
 
@@ -122,7 +122,7 @@ Limitations.—
 
 &emsp;&emsp;(i)
 
-Penalty not to apply where failure not discovered exercising reasonable diligence.—No penalty shall be imposed by subparagraph (A) on any failure during any period for which it is established to the satisfaction of the Secretary that the personotherwise liable for such penalty did not know, and exercising reasonable diligence would not have known, that such failure existed.
+Penalty not to apply where failure not discovered exercising reasonable diligence.—No penalty shall be imposed by subparagraph (A) on any failure during any period for which it is established to the satisfaction of the Secretary that the person otherwise liable for such penalty did not know, and exercising reasonable diligence would not have known, that such failure existed.
 
 &emsp;&emsp;(ii)
 
@@ -150,7 +150,7 @@ Definitions.—Terms used in this paragraph which are defined in section 1191b o
 
 (11) The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) <sup>2</sup> of title 42.
 
-(12) The Secretary may assess a civil penalty against any sponsor of a CSEC plan of up to $100 a day from the date of the plan sponsor's failure to comply with the requirements of section 1085a(j)(3) of this title to establish or update a funding restoration plan.
+(12) The Secretary may assess a civil penalty against any sponsor of a CSEC plan of up to $100a day from the date of the plan sponsor's failure to comply with the requirements of section 1085a(j)(3) of this title to establish or update a funding restoration plan.
 
 #### (d) Status of employee benefit plan as entity
 
@@ -192,7 +192,7 @@ The district courts of the United States shall have jurisdiction, without respec
 
 #### (h) Service upon Secretary of Labor and Secretary of the Treasury
 
-A copy of the complaint in any action under this subchapter by a participant, beneficiary, or fiduciary (other than an action brought by one or more participants or beneficiaries under subsection (a)(1)(B) which is solely for the purposeof recovering benefits due such participants under the terms of the plan) shall be served upon the Secretary and the Secretary of the Treasury by certified mail. Either Secretary shall have the right in his discretion to intervene in any action, except that the Secretary of the Treasury may not intervene in any action under part 4 of this subtitle. If the Secretary brings an action under subsection (a) on behalf of a participant or beneficiary, he shall notify the Secretary of the Treasury.
+A copy of the complaint in any action under this subchapter by a participant, beneficiary, or fiduciary (other than an action brought by one or more participants or beneficiaries under subsection (a)(1)(B) which is solely for the purpose of recovering benefits due such participants under the terms of the plan) shall be served upon the Secretary and the Secretary of the Treasury by certified mail. Either Secretary shall have the right in his discretion to intervene in any action, except that the Secretary of the Treasury may not intervene in any action under part 4 of this subtitle. If the Secretary brings an action under subsection (a) on behalf of a participant or beneficiary, he shall notify the Secretary of the Treasury.
 
 #### (i) Administrative assessment of civil penalty
 
@@ -204,7 +204,7 @@ In all civil actions under this subchapter, attorneys appointed by the Secretary
 
 #### (k) Jurisdiction of actions against the Secretary of Labor
 
-Suits by an administrator, fiduciary, participant, or beneficiary of an employee benefit plan to review a final order of the Secretary, to restrain the Secretary from taking any action contrary to the provisions of this chapter, or to compel him to take action required under this subchapter, may be brought in the district court of the United States for the district where the plan has its principal office, or in the United States District Court for the District of Columbia.
+Suits by an administrator, fiduciary, participant, or beneficiary of an employee benefit plan to review a final order of the Secretary, to restrain the Secretary from taking any actioncontrary to the provisions of this chapter, or to compel him to take action required under this subchapter, may be brought in the district court of the United States for the district where the plan has its principal office, or in the United States District Court for the District of Columbia.
 
 #### (l) Civil penalties on violations by fiduciaries
 
@@ -414,7 +414,7 @@ Amendment by Pub. L. 101–508 applicable to qualified transfers under section 4
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title II, §2101(c), Dec. 19, 1989, 103 Stat. 2123, provided that: "The amendments made bythis section \[amending this section\] shall apply to any breach of fiduciary responsibility or other violation occurring on or after the date of the enactment of this Act \[Dec. 19, 1989\]."
+Pub. L. 101–239, title II, §2101(c), Dec. 19, 1989, 103 Stat. 2123, provided that: "The amendments made by this section \[amending this section\] shall apply to any breach of fiduciary responsibility or other violation occurring on or after the date of the enactment of this Act \[Dec. 19, 1989\]."
 
 Amendment by section 7881(b)(5)(B), (j)(2), (3) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
@@ -444,7 +444,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Regulations
 
-Pub. L. 110–233, title I, §101(f)(1), May 21, 2008, 122 Stat. 888, provided that: "The Secretary of Labor shall issue final regulations not later than 12 months after the date of enactment of this Act \[May 21, 2008\] to carry out the amendments made by this section \[amending this section and sections 1182 and 1191b of this title\]."
+Pub. L. 110–233, title I, §101(f)(1), May 21, 2008, 122 Stat. 888, provided that: "The Secretary of Labor shallissue final regulations not later than 12 months after the date of enactment of this Act \[May 21, 2008\] to carry out the amendments made by this section \[amending this section and sections 1182 and 1191b of this title\]."
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 

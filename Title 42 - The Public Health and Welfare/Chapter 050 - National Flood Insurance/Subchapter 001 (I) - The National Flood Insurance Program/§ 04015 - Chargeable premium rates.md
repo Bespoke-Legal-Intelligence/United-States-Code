@@ -36,7 +36,7 @@ Subject only to the limitations provided under paragraphs (1) and (2), the charg
 
 #### (d) Payment of certain sums to Administrator; deposits in Fund
 
-With respect to any chargeable premium rate prescribed under this section, a sum equal to the portion of the rate that covers any administrative expenses of carrying out the flood insurance and floodplain management programs which have been estimated under paragraphs (1)(B)(ii) and (1)(B)(iii) of section 4014(a) of this title or paragraph (2) of such section (including the fees under such paragraphs), shall be paid to the Administrator. The Administrator shall deposit the sum in the National Flood Insurance Fund established under section 4017 of this title.
+With respect to any chargeable premium rate prescribed under this section, a sum equal to the portion of the rate that covers any administrative expenses of carrying out the flood insurance and floodplain management programs which have been estimated under paragraphs (1)(B)(ii) and (1)(B)(iii) of section 4014(a) of this title or paragraph (2) of such section (including the feesunder such paragraphs), shall be paid to the Administrator. The Administrator shall deposit the sum in the National Flood Insurance Fund established under section 4017 of this title.
 
 #### (e) Annual limitation on premium increases
 
@@ -176,7 +176,7 @@ Pub. L. 112–123 substituted "under this chapter for—" for "under this chapte
 
 Subsec. (e)(1). Pub. L. 112–141, §100205(c)(2), substituted "within any single" for "any properties within any single" and "20 percent" for "10 percent".
 
-Subsec. (e)(2). Pub. L. 112–141, §100205(c)(3), added par. (2) and struck out former par. (2) which read as follows: "any residential properties which are not the primary residence of an individual, as described in section 4014(a)(2) of this title, shall be increased by 25 percent each year, until the average risk premium rate for such properties is equal to the average of the risk premium rates for properties described under paragraph (1)."
+Subsec. (e)(2). Pub. L. 112–141, §100205(c)(3), added par. (2) and struck out former par. (2) which read as follows: "any residential properties which are not the primaryresidence of an individual, as described in section 4014(a)(2) of this title, shall be increased by 25 percent each year, until the average risk premium rate for such properties is equal to the average of the risk premium rates for properties described under paragraph (1)."
 
 Subsec. (f). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" in two places.
 

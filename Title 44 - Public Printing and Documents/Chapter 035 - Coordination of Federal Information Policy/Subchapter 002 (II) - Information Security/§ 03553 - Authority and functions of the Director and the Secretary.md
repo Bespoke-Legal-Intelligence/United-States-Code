@@ -16,7 +16,7 @@ Director.—The Director shall oversee agency information security policies and 
 
 &emsp;(4) coordinating the development of standards and guidelines under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3) with agencies and offices operating or exercising control of national security systems (including the National Security Agency) to assure, to the maximum extent feasible, that such standards and guidelines are complementary with standards and guidelines developed for national security systems;
 
-&emsp;(5) overseeing agency compliance with the requirements of this subchapter, including through any authorized action under section 11303 of title 40, to enforce accountability for compliance with such requirements; and
+&emsp;(5) overseeing agency compliance with the requirements of this subchapter and section 1326 of title 41, including through any authorized action under section 11303 of title 40, to enforce accountability for compliance with such requirements; and
 
 &emsp;(6) coordinating information security policies and procedures with related information resources management policies and procedures.
 
@@ -118,7 +118,7 @@ In general.—Subject to subparagraph (B), in response to a known or reasonably 
 
 &emsp;&emsp;(B)
 
-Exception.—The authorities of the Secretary under this subsection shall not apply to a system described subsection (d) or to a system described in paragraph (2) or (3) of subsection (e).
+Exception.—The authorities of the Secretary under this subsection shall not apply to a system described subsection (d) orto a system described in paragraph (2) or (3) of subsection (e).
 
 &emsp;(2)
 
@@ -148,7 +148,7 @@ Procedures for use of authority.—The Secretary shall—
 
 &emsp;&emsp;(G) consider any applicable standards or guidelines developed by the National Institute of Standards and Technology issued by the Secretary of Commerce under section 11331 of title 40; and
 
-&emsp;&emsp;(H) not later than February 1 of each year, submit to the appropriate congressionalcommittees a report regarding the specific actions the Secretary has taken pursuant to paragraph (1)(A).
+&emsp;&emsp;(H) not later than February 1 of each year, submit to the appropriate congressional committees a report regarding the specific actions the Secretary has taken pursuant to paragraph (1)(A).
 
 &emsp;(3)
 
@@ -156,7 +156,7 @@ Imminent threats.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding section 3554, the Secretary may authorize the use under this subsection of the intrusion detection and prevention capabilities established under section 230(b)(1) of the Homeland Security Act of 2002 for the purpose of ensuring the security of agency information systems, if—
+In general.—Notwithstanding section 3554, the Secretary may authorize the use under this subsection of the intrusion detection and prevention capabilities established under section 230(b)(1) <sup>1</sup> of the Homeland Security Act of 2002 for the purpose of ensuring the security of agency information systems, if—
 
 &emsp;&emsp;&emsp;(i) the Secretary determines there is an imminent threat to agency information systems;
 
@@ -206,13 +206,13 @@ Appropriate Congressional Committees Defined.—In this section, the term "appro
 
 &emsp;(2) the Committee on Appropriations, the Committee on Homeland Security, the Committee on Oversight and Government Reform, and the Committee on Science, Space, and Technology of the House of Representatives.
 
-(Added Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3075; amended Pub. L. 114–113, div. N, title II, §§224(e), 229(a), Dec. 18, 2015, 129 Stat. 2967, 2972.)
+(Added Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3075; amended Pub. L. 114–113, div. N, titleII, §§224(e), 229(a), Dec. 18, 2015, 129 Stat. 2967, 2972; Pub. L. 115–390, title II, §204(a)(1), Dec. 21, 2018, 132 Stat. 5192.)
 
 #### References in Text
 
 Section 11331 of title 40, referred to in subsec. (f), was generally amended by both Pub. L. 107–347 and Pub. L. 107–296. As amended by Pub. L. 107–347, effective Dec. 17, 2002, section 11331 of title 40 provided for the prescription by the Secretary of Commerce of standards and guidelines pertaining to Federal information systems. See 2002 Amendment note under that section. As amended by Pub. L. 107–296, effective 60 days after Nov. 25, 2002, section 11331 of title 40 provided for the promulgation by the Director of the Office of Management and Budget of information security standards pertaining to Federal information systems.
 
-Section 230(b)(1) of the Homeland Security Act of 2002, referred to in subsec. (h)(3)(A), is section 230(b)(1) of title II of Pub. L. 107–296, as added by Pub. L. 114–113, div. N, title II, §223(a)(6), Dec. 18, 2015, 129 Stat. 2964, which is classified to section 151(b)(1) of Title 6, Domestic Security.
+Section 230(b)(1) of the Homeland Security Act of 2002, referred to in subsec. (h)(3)(A), is section 230(b)(1) of title II of Pub. L. 107–296, as added by Pub. L. 114–113, div. N, title II, §223(a)(6), Dec. 18, 2015, 129 Stat. 2964, which was redesignated section 2213(b)(1) of Pub. L. 107–296 by section 2(g)(2)(I) of Pub. L. 115–278, Nov. 16, 2018, 132 Stat. 4178, and is classified to section 663(b)(1) of Title 6, Domestic Security.
 
 #### Prior Provisions
 
@@ -220,9 +220,19 @@ Provisions similar to this section were contained in sections 3533 and 3543 of t
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a)(5). Pub. L. 115–390 inserted "and section 1326 of title 41" after "compliance with the requirements of this subchapter".
+
 <b>2015</b>—Subsec. (b)(6)(B). Pub. L. 114–113, §224(e), inserted ", operating, and maintaining" after "deploying".
 
 Subsecs. (h) to (j). Pub. L. 114–113, §229(a), added subsecs. (h) to (j).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see section 205 of Pub. L. 115–390, set out as an Effective Date note under section 1321 of this title.
+
+#### Construction
+
+Pub. L. 115–390, title II, §204(b), Dec. 21, 2018, 132 Stat. 5193, provided that: "Nothing in this title \[see section 201 of Pub. L. 115–390, set out as a Short Title of 2018 note under section 101 of Title 41, Public Contracts\] shall be construed to alter or impede any authority or responsibility under section 3553 of title 44, United States Code."
 
 #### Breaches
 

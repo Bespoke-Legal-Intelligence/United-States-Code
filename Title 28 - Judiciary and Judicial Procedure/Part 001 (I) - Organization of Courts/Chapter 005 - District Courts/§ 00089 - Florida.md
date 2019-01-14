@@ -10,7 +10,7 @@ Florida is divided into three judicial districts to be known as the Northern, Mi
 
 ### Middle District
 
-(b) The Middle District comprises the counties of Baker, Bradford, Brevard, Charlotte, Citrus,Clay, Collier, Columbia, De Soto, Duval, Flagler, Glades, Hamilton, Hardee, Hendry, Hernando, Hillsborough, Lake, Lee, Manatee, Marion, Nassau, Orange, Osceola, Pasco, Pinellas, Polk, Putnam, St. Johns, Sarasota, Seminole, Sumter, Suwannee, Union, and Volusia.
+(b) The Middle District comprises the counties of Baker, Bradford, Brevard, Charlotte, Citrus, Clay, Collier, Columbia, De Soto, Duval, Flagler, Glades, Hamilton, Hardee, Hendry, Hernando, Hillsborough, Lake, Lee, Manatee, Marion, Nassau, Orange, Osceola, Pasco, Pinellas, Polk, Putnam, St. Johns, Sarasota, Seminole, Sumter, Suwannee, Union, and Volusia.
 
 &emsp;&emsp;Court for the Middle District shall be held at Fernandina, Fort Myers, Jacksonville, Live Oak, Ocala, Orlando, Saint Petersburg, and Tampa.
 
@@ -90,7 +90,7 @@ Pub. L. 87–562, §2, July 30, 1962, 76 Stat. 248, provided that:
 
 "(c) Nothing in this Act \[amending this section and section 133 of this title, and enacting provisions set out as notes under this section and section 142 of this title\] shall in any manner affect the tenure of office of the United States Attorney and the United States Marshal for the Northern District of Florida who are in office at the time of the enactment of this Act \[July 30, 1962\], and who shall be during the remainder of their present terms of office the United States Attorney and Marshal for such district as constituted by this Act.
 
-"(d) Nothing in this Act \[amending this section and section 133 of this title and enacting provisions set out as notes under this section and section 142 of this title\] shall in any manner affect the tenure of office of the United States Attorney and the United States Marshal for the Southern District of Florida who are in office at the time of the enactment of this Act \[July 30, 1962\],and who shall be during the remainder of their present terms of office the United States Attorney and Marshal for the Middle District of Florida as constituted by this Act.
+"(d) Nothing in this Act \[amending this section and section 133 of this title and enacting provisions set out as notes under this section and section 142 of this title\] shall in any manner affect the tenure of office of the United States Attorney and the United States Marshal for the Southern District of Florida who are in office at the time of the enactment of this Act \[July 30, 1962\], and who shall be during the remainder of their present terms of office the United States Attorney and Marshal for the Middle District of Florida as constituted by this Act.
 
 "(e) The President is authorized to appoint, by and with the advice and consent of the Senate, a United States Attorney and a United States Marshal for the Southern District of Florida."
 

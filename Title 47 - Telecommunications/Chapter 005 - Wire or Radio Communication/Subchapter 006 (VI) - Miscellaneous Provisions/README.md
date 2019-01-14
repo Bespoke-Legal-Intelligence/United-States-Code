@@ -30,3 +30,5 @@
 - [&sect; 00620 - Relay services for deaf-blind individuals](%C2%A7%2000620%20-%20Relay%20services%20for%20deaf-blind%20individuals.md)
 - [&sect; 00621 - Rulemaking on loud commercials required](%C2%A7%2000621%20-%20Rulemaking%20on%20loud%20commercials%20required.md)
 - [&sect; 00622 - Optional electronic labeling of communications equipment](%C2%A7%2000622%20-%20Optional%20electronic%20labeling%20of%20communications%20equipment.md)
+- [&sect; 00623 - Configuration of multi-line telephone systems for direct dialing of 9&#8211;1&#8211;1](%C2%A7%2000623%20-%20Configuration%20of%20multi-line%20telephone%20systems%20for%20direct%20dialing%20of%209%E2%80%931%E2%80%931.md)
+- [&sect; 00624 - Disclosure requirements for United States-based foreign media outlets](%C2%A7%2000624%20-%20Disclosure%20requirements%20for%20United%20States-based%20foreign%20media%20outlets.md)

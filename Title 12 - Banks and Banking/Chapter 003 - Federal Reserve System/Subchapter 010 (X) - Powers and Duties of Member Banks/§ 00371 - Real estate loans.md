@@ -12,7 +12,7 @@ Notes representing loans made under this section to finance the construction of 
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–242 substituted "section 1828(o) of this title and such restrictions and requirements as the Comptroller of the Currency may prescribe by regulation or order" for "such terms, conditions, and limitations as may be prescribed by the Comptroller of the Currency by order, rule, or regulation".
+<b>1991</b>—Subsec. (a). Pub. L. 102–242 substituted "section 1828(o) of this title and such restrictions and requirements as the Comptroller of the Currency may prescribe by regulation or order" for "such terms, conditions, and limitations as may be prescribed by theComptroller of the Currency by order, rule, or regulation".
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–320 amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows:
 
@@ -70,7 +70,7 @@ Pub. L. 86–251, §4(c), inserted provisions in third par. classifying certain 
 
 Pub. L. 86–251, §4(d), added par. classifying certain loans to manufacturing and industrial businesses as ordinary commercial loans.
 
-<b>1958</b>—Pub. L. 85–536 amended fourth par. by striking out "or the Small Business Administration" after "Housing and Home Finance Administrator" and "or the Small Business Act of 1953" after "or 1701g–1 of this title", and inserting provisions exempting loans in which the Small Business Administration cooperates through agreements to participate on an immediate or deferred basis from the restrictions or limitations of this section imposed upon loans secured by real estate.
+<b>1958</b>—Pub. L. 85–536 amended fourth par. by striking out "or the Small Business Administration" after "Housing and Home Finance Administrator" and "or the Small Business Act of 1953" after "or 1701g–1 of thistitle", and inserting provisions exempting loans in which the Small Business Administration cooperates through agreements to participate on an immediate or deferred basis from the restrictions or limitations of this section imposed upon loans secured by real estate.
 
 <b>1955</b>—Act Aug. 11, 1955, §1, amended first par. generally to increase the percentage of the loan to the appraised value of the property from 60 to 662/3 percent in the case of 40 percent amortized residential mortgage loans not exceeding a 10-year maturity, and to permit national banks to make a residential real-estate loan in an amount not to exceed 662/3 percent of the appraised value of the property and for a term not longer than 20 years.
 
@@ -108,7 +108,7 @@ Pub. L. 97–320, title IV, §403(c), Oct. 15, 1982, 96 Stat. 1511, provided tha
 
 #### Repeals
 
-Repealing provisions of Consolidated Farmers Home Administration Act of 1961 as not having the effect ofrepealing the amendments to this section enacted by act July 22, 1937, §15(a), as added Aug. 14, 1946, and Aug. 28, 1937, §10(f), as added Aug. 17, 1954, see section 341(a) of Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 318, set out as a References in Other Laws note under section 1921 of Title 7, Agriculture.
+Repealing provisions of Consolidated Farmers Home Administration Act of 1961 as not having the effect of repealing the amendments to this section enacted by act July 22, 1937, §15(a), as added Aug. 14, 1946, and Aug. 28, 1937, §10(f), as added Aug. 17, 1954, see section 341(a) of Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 318, set out as a References in Other Laws note under section 1921 of Title 7, Agriculture.
 
 #### Exception as to Transfer of Functions
 

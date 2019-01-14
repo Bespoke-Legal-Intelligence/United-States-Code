@@ -9,7 +9,7 @@ This subchapter is comprised of title XVIII of Pub. L. 107–296, as added by Pu
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00571 - Office of Emergency Communications](%C2%A7%2000571%20-%20Office%20of%20Emergency%20Communications.md)
+- [&sect; 00571 - Emergency Communications Division](%C2%A7%2000571%20-%20Emergency%20Communications%20Division.md)
 - [&sect; 00572 - National Emergency Communications Plan](%C2%A7%2000572%20-%20National%20Emergency%20Communications%20Plan.md)
 - [&sect; 00573 - Assessments and reports](%C2%A7%2000573%20-%20Assessments%20and%20reports.md)
 - [&sect; 00574 - Coordination of Department emergency communications grant programs](%C2%A7%2000574%20-%20Coordination%20of%20Department%20emergency%20communications%20grant%20programs.md)

@@ -196,7 +196,7 @@ TIFIA program.—The term "TIFIA program" means the transportation infrastructur
 
 Treatment of Chapter.—For purposes of this title, this chapter shall be treated as being part of chapter 1.
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 241, §181; renumbered §601 andamended Pub. L. 109–59, title I, §§1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, 119 Stat. 1239, 1246, 1247; Pub. L. 109–291, §4(b)(6), Sept. 29, 2006, 120 Stat. 1338; Pub. L. 110–244, title I, §101(r), June 6, 2008, 122 Stat. 1577; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 607; Pub. L. 114–94, div. A, title II, §2001(a), Dec. 4, 2015, 129 Stat. 1439.)
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 241, §181; renumbered §601 and amended Pub. L. 109–59, title I, §§1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, 119 Stat. 1239, 1246, 1247; Pub. L. 109–291, §4(b)(6), Sept. 29, 2006, 120 Stat. 1338; Pub. L. 110–244, title I, §101(r), June 6, 2008, 122 Stat. 1577; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 607; Pub. L. 114–94, div. A, title II, §2001(a), Dec. 4, 2015, 129 Stat. 1439.)
 
 #### References in Text
 
@@ -434,7 +434,7 @@ In general.—Subject to paragraph (2), funds in an infrastructure bank establis
 
 &emsp;"(2)
 
-Interstate funds.—Funds contributed to an infrastructure bank from funds apportioned to a State under \[former\] section 104(b)(4) of title 23, United States Code, may be used only to provide assistance with respect to projects eligible for assistance under such paragraph.
+Interstate funds.—Funds contributed to an infrastructure bank from funds apportioned to aState under \[former\] section 104(b)(4) of title 23, United States Code, may be used only to provide assistance with respect to projects eligible for assistance under such paragraph.
 
 &emsp;"(3)
 
@@ -528,7 +528,7 @@ Program Administration.—
 
 &emsp;"(1)
 
-In general.—A State may expend not to exceed 2 percent of the Federal funds contributed to aninfrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.
+In general.—A State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.
 
 &emsp;"(2)
 
@@ -560,7 +560,7 @@ Separate accounts.—An infrastructure bank established under this section shall
 
 Highway account.—Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (g)(1), a State entering into a cooperative agreement under this section to contribute not to exceed—
 
-&emsp;&emsp;"(A) 10 percent of the funds apportioned to the State for each of fiscal years 1996 and 1997 under each of \[former\] sections 104(b)(1), 104(b)(3), 104(b)(5)(B), 144, and 160 of title 23, United States Code, and section 1015 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, former 23 U.S.C. 104 note\]; and
+&emsp;&emsp;"(A) 10 percent of the funds apportioned to the State for each of fiscal years 1996 and 1997 undereach of \[former\] sections 104(b)(1), 104(b)(3), 104(b)(5)(B), 144, and 160 of title 23, United States Code, and section 1015 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, former 23 U.S.C. 104 note\]; and
 
 &emsp;&emsp;"(B) 10 percent of the funds allocated to the State for each of such fiscal years under each of \[former\] section 157 of such title and section 1013(c) of such Act \[former 23 U.S.C. 157 note\];
 

@@ -34,7 +34,7 @@ The Secretary shall—
 
 #### (c) Reports
 
-Every 2 years, the Secretary shall review and evaluate the activities conducted by grantees, subgrantees, and contractors under this chapter and the effectiveness of the programs administered pursuant to this chapter, and submit a report containing the evaluation to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate. Such report shall also include a summary of the documentation provided to the Secretary through performance reports submitted under section 10406(d) of this title. The Secretary shall make publicly available on the Department of Healthand Human Services website the evaluation reports submitted to Congress under this subsection, including the summary of the documentation provided to the Secretary under section 10406(d) of this title.
+Every 2 years, the Secretary shall review and evaluate the activities conducted by grantees, subgrantees, and contractors under this chapter and the effectiveness of the programs administered pursuant to this chapter, and submit a report containing the evaluation to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate. Such report shall also include a summary of the documentation provided to the Secretary through performance reports submitted under section 10406(d) of this title. The Secretary shall make publicly available on the Department of Health and Human Services website the evaluation reports submitted to Congress under this subsection, including the summary of the documentation provided to the Secretary under section 10406(d) of this title.
 
 (Pub. L. 98–457, title III, §304, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3487.)
 
@@ -44,7 +44,7 @@ The CAPTA Reauthorization Act of 2010, referred to in subsec. (a)(4), is Pub. L.
 
 #### Prior Provisions
 
-A prior section 10404, Pub. L. 98–457, title III, §305, Oct. 9, 1984, 98 Stat. 1760; Pub. L. 102–295, title III, §313, May 28, 1992, 106 Stat. 204; Pub. L. 108–36, title IV, §§402, 415(4), June 25, 2003, 117 Stat. 825, 830, related to Secretarial responsibilities, prior to the general amendment of this chapter by Pub. L. 111–320.
+A prior section 10404, Pub. L. 98–457, title III, §305, Oct. 9, 1984, 98 Stat. 1760; Pub. L. 102–295, title III, §313,May 28, 1992, 106 Stat. 204; Pub. L. 108–36, title IV, §§402, 415(4), June 25, 2003, 117 Stat. 825, 830, related to Secretarial responsibilities, prior to the general amendment of this chapter by Pub. L. 111–320.
 
 A prior section 304 of Pub. L. 98–457 was classified to section 10403 of this title prior to the general amendment of this chapter by Pub. L. 111–320.
 

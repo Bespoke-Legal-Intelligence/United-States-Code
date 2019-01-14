@@ -20,7 +20,7 @@ The purposes of this section are as follows:
 
 #### (1) Development
 
-&emsp;The Secretary, acting through the Service, Indian tribes, and tribal organizations, shall encourage Indian tribes and tribal organizations to develop tribal plans, and urban Indian organizations to develop local plans, and for all such groups to participate in developing areawide plans for Indian Behavioral Health Services. The plans shall include, to the extent feasible, the following components:
+&emsp;The Secretary, acting through the Service, Indian tribes, and tribal organizations, shallencourage Indian tribes and tribal organizations to develop tribal plans, and urban Indian organizations to develop local plans, and for all such groups to participate in developing areawide plans for Indian Behavioral Health Services. The plans shall include, to the extent feasible, the following components:
 
 &emsp;&emsp;(A) An assessment of the scope of alcohol or other substance abuse, mental illness, and dysfunctional and self-destructive behavior, including suicide, child abuse, and family violence, among Indians, including—
 
@@ -158,5 +158,5 @@ Section 702 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 #### Prior Provisions
 
-A prior section 1665a, Pub. L. 94–437, title VII, §702, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4573, provided for Indian Health Service program,prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665a, Pub. L. 94–437, title VII, §702, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4573, provided for Indian Health Service program, prior to the general amendment of this subchapter by Pub. L. 111–148.
 

@@ -14,13 +14,33 @@ Not later than 540 days after November 28, 1990, the Secretary shall issue propo
 
 &emsp;The Secretary may provide financial assistance to any State that implements an organic certification program under this chapter.
 
-(Pub. L. 101–624, title XXI, §2122, Nov. 28, 1990, 104 Stat. 3951; Pub. L. 110–234, title VII, §7511(c)(24), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(24), June 18, 2008, 122 Stat. 1664, 2031.)
+#### (c) Access to data documentation systems
+
+The Secretary shall have access to available data from cross-border documentation systems administered by other Federal agencies, including the Automated Commercial Environment system of U.S. Customs and Border Protection.
+
+#### (d) Reports
+
+#### (1) In general
+
+&emsp;Not later than March 1, 2020, and annually thereafter through March 1, 2023, the Secretary shall submit to Congress, and make publicly available on the website of the Department of Agriculture, a report describing national organic program activities with respect to all domestic and overseas investigations and compliance actions taken pursuant to this chapter during the preceding year.
+
+#### (2) Requirements
+
+&emsp;The data described in paragraph (1) shall be broken down by agricultural product, quantity, value, and month.
+
+#### (3) Exception
+
+&emsp;Any data determined by the Secretary to be confidential business information shall not be provided in the report under paragraph (1).
+
+(Pub. L. 101–624, title XXI, §2122, Nov. 28, 1990, 104 Stat. 3951; Pub. L. 110–234, title VII, §7511(c)(24), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(24), June 18, 2008, 122 Stat. 1664, 2031; Pub. L. 115–334, title X, §10104(h), Dec. 20, 2018, 132 Stat. 4901.)
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsecs. (c), (d). Pub. L. 115–334 added subsecs. (c) and (d).
 
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–246, §7511(c)(24), substituted "National Institute of Food and Agriculture" for "Extension Service".
 

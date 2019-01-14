@@ -1,6 +1,6 @@
 ### §1163. Embezzlement and theft from Indian tribal organizations
 
-Whoever embezzles, steals, knowingly converts to his use or the use of another, willfullymisapplies, or willfully permits to be misapplied, any of the moneys, funds, credits, goods, assets, or other property belonging to any Indian tribal organization or intrusted to the custody or care of any officer, employee, or agent of an Indian tribal organization; or
+Whoever embezzles, steals, knowingly converts to his use or the use of another, willfully misapplies, or willfully permits to be misapplied, any of the moneys, funds, credits, goods, assets, or other property belonging to any Indian tribal organization or intrusted to the custody or care of any officer, employee, or agent of an Indian tribal organization; or
 
 Whoever, knowing any such moneys, funds, credits, goods, assets, or other property to have been so embezzled, stolen, converted, misapplied or permitted to be misapplied, receives, conceals, or retains the same with intent to convert it to his use or the use of another—
 

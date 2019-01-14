@@ -188,7 +188,7 @@ Water carrier.—The term "water carrier" means a person providing water transpo
 
 Over-the-road bus.—The term "over-the-road bus" means a bus characterized by an elevated passenger deck located over a baggage compartment.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 854; amended Pub. L. 104–287, §5(27), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 106–159, title II, §209(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 107–298, §3(a), Nov. 26, 2002, 116 Stat. 2343; Pub. L. 109–59, title IV, §§4142(a), 4202(b), Aug. 10, 2005, 119 Stat. 1747, 1751; Pub. L. 110–244, title III, §305(c), June 6, 2008, 122 Stat. 1620; Pub. L. 110–291, §3, July 30, 2008, 122 Stat. 2915.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 854; amended Pub. L. 104–287, §5(27), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 106–159, titleII, §209(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 107–298, §3(a), Nov. 26, 2002, 116 Stat. 2343; Pub. L. 109–59, title IV, §§4142(a), 4202(b), Aug. 10, 2005, 119 Stat. 1747, 1751; Pub. L. 110–244, title III, §305(c), June 6, 2008, 122 Stat. 1620; Pub. L. 110–291, §3, July 30, 2008, 122 Stat. 2915.)
 
 #### Historical and Revision Notes
 
@@ -235,6 +235,10 @@ Pars. (14) to (26). Pub. L. 109–59, §4202(b), redesignated pars. (12) to (24)
 <b>1996</b>—Par. (4)(A). Pub. L. 104–287, §5(27)(A), substituted "January 1, 1996" for "the effective date of this section" and "December 31, 1995" for "the day before the effective date of this section".
 
 Par. (4)(B). Pub. L. 104–287, §5(27)(B), substituted "after December 31, 1995" for "on or after such date".
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 
 #### Application of Certain Provisions of Law
 

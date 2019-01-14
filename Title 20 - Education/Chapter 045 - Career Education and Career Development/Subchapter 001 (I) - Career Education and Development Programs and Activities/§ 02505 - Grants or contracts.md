@@ -16,7 +16,7 @@ The Secretary of Education shall provide, either directly or by grant or contrac
 
 In carrying out the provisions of this subchapter, and to the extent practicable, the Secretary of Education shall (1) make use of existing offices, centers, clearinghouses, and research capabilities, (2) coordinate among the offices, centers, clearinghouses, and research capabilities in carrying out his career information responsibilities, and (3) use the career information capabilities of the Department of Education.
 
-(Pub. L. 94–482, title III, §335, Oct. 12, 1976, 90 Stat. 2223; Pub. L. 96–88, title III, §301(a)(1), (b)(2), title V, §507, Oct. 17, 1979, 93 Stat. 677, 678, 692.)
+(Pub. L. 94–482, title III, §335, Oct. 12, 1976, 90 Stat. 2223; Pub. L. 96–88, title III, §301(a)(1),\(b)(2), title V, §507, Oct. 17, 1979, 93 Stat. 677, 678, 692.)
 
 #### Change of Name
 

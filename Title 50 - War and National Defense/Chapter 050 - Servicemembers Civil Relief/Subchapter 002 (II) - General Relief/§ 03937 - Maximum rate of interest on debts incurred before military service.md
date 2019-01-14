@@ -20,9 +20,29 @@
 
 #### (b) Implementation of limitation
 
-#### (1) Written notice to creditor
+#### (1) Proof of military service
 
-&emsp;In order for an obligation or liability of a servicemember to be subject to the interestrate limitation in subsection (a), the servicemember shall provide to the creditor written notice and a copy of the military orders calling the servicemember to military service and any orders further extending military service, not later than 180 days after the date of the servicemember's termination or release from military service.
+#### (A) In general
+
+&emsp;&emsp;Not later than 180 days after the date of a servicemember's termination or release from military service, in order for an obligation or liability of the servicemember to be subject to the interest rate limitation in subsection (a), the servicemember shall provide to the creditor written notice and a copy of—
+
+&emsp;&emsp;&emsp;(i) the military orders calling the servicemember to military service and any orders further extending military service; or
+
+&emsp;&emsp;&emsp;(ii) any other appropriate indicator of military service, including a certified letter from a commanding officer.
+
+#### (B) Independent verification by creditor
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A creditor may use, in lieu of notice and documentation under subparagraph (A), information retrieved from the Defense Manpower Data Center through the creditor's normal business reviews of such Center for purposes of obtaining information indicating that the servicemember is on active duty.
+
+#### (ii) Safe harbor
+
+&emsp;&emsp;&emsp;A creditor that uses the information retrieved from the Defense Manpower Data Center under clause (i) with respect to a servicemember has not failed to treat the debt of the servicemember in accordance with subsection (a) if—
+
+&emsp;&emsp;&emsp;&emsp;(I) such information indicates that, on the date the creditor retrieves such information, the servicemember is not on active duty; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the creditor has not, by the end of the 180-day period under subparagraph (A), received the written notice and documentation required under that subparagraph with respect to the servicemember.
 
 #### (2) Limitation effective as of date of order to active duty
 
@@ -48,7 +68,7 @@ In this section:
 
 Whoever knowingly violates subsection (a) shall be fined as provided in title 18, imprisoned for not more than one year, or both.
 
-(Oct. 17, 1940, ch. 888, title II, §207, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2844; amended Pub. L. 110–289, div. B, title II, §2203(b), July 30, 2008, 122 Stat. 2849; Pub. L. 110–389, title VIII, §807, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–275, title III, §303(b)(1), Oct. 13, 2010, 124 Stat. 2877.)
+(Oct. 17, 1940, ch. 888, title II, §207, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2844; amended Pub. L. 110–289, div. B, title II, §2203(b), July 30, 2008, 122 Stat. 2849; Pub. L. 110–389, title VIII, §807, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–275, title III, §303(b)(1), Oct. 13, 2010, 124 Stat. 2877; Pub. L. 115–232, div. A, title V, §600, Aug. 13, 2018, 132 Stat. 1793.)
 
 #### Codification
 
@@ -60,6 +80,8 @@ A prior section 207 of act Oct. 17, 1940, ch. 888, art. II, as added Oct. 21, 19
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–232 amended par. (1) generally. Prior to amendment, text read as follows: "In order for an obligation or liability of a servicemember to be subject to the interest rate limitation in subsection (a), the servicemember shall provide to the creditor written notice and a copy of the military orders calling the servicemember to military service and any orders further extending military service, not later than 180 days after the date of the servicemember's termination or release from military service."
+
 <b>2010</b>—Subsec. (f). Pub. L. 111–275 struck out subsec. (f). Text read as follows: "The penalties provided under subsection (e) are in addition to and do not preclude any other remedy available under law to a person claiming relief under this section, including any award for consequential or punitive damages."
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–289, §2203(b)(1), substituted "in excess of 6 percent—" for "in excess of 6 percent per year during the period of military service." and added subpars. (A) and (B).
@@ -67,4 +89,8 @@ A prior section 207 of act Oct. 17, 1940, ch. 888, art. II, as added Oct. 21, 19
 Subsec. (d). Pub. L. 110–289, §2203(b)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "As used in this section, the term 'interest' includes service charges, renewal charges, fees, or any other charges (except bona fide insurance) with respect to an obligation or liability."
 
 Subsecs. (e), (f). Pub. L. 110–389 added subsecs. (e) and (f).
+
+#### Effective Date
+
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under section 3901 of this title.
 

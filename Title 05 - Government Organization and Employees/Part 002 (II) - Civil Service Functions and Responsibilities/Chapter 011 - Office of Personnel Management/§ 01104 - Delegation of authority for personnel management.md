@@ -76,7 +76,7 @@ Act
 
 1965 Reorg. Plan No. 4, §§11(a), (e) (as applicable to (a)), 12 (as applicable to §11(a)), 13 (as applicable to §11(a)), eff. July 27, 1965, 79 Stat. 1322.
 
-The paragraph added by this section is based on 5 U.S.C. 8713(a), and is restated to reflect the effect ofsections 11–13 of 1965 Reorganization Plan No. 4, effective July 27, 1965.
+The paragraph added by this section is based on 5 U.S.C. 8713(a), and is restated to reflect the effect of sections 11–13 of 1965 Reorganization Plan No. 4, effective July 27, 1965.
 
 #### Amendments
 

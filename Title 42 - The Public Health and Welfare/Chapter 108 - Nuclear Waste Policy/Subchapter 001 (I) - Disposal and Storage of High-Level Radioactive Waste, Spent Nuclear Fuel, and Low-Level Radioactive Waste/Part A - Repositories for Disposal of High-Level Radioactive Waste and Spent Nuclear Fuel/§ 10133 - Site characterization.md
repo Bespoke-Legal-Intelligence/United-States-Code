@@ -58,7 +58,7 @@ The Secretary shall carry out, in accordance with the provisions of this section
 
 #### (d) Preliminary activities
 
-Each activity of the Secretary under this section that is in compliance with the provisions of subsection (c) shall be considered a preliminary decisionmaking activity. No such activity shall require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)), or to <sup>3</sup> require any environmental review under subparagraph (E) or (F) of section 102(2) of such Act.
+Each activity of the Secretary under this section that is in compliance with the provisions ofsubsection (c) shall be considered a preliminary decisionmaking activity. No such activity shall require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)), or to <sup>3</sup> require any environmental review under subparagraph (E) or (F) of section 102(2) of such Act.
 
 (Pub. L. 97–425, title I, §113, Jan. 7, 1983, 96 Stat. 2211; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5011(e)–(g), Dec. 22, 1987, 101 Stat. 1330–228.)
 

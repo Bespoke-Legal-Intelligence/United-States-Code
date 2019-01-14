@@ -38,7 +38,7 @@ Except as provided in subsections (c) and (e), real property administered under 
 
 #### (C) Public sale
 
-&emsp;&emsp;If no acceptable offer is received from a qualified beginning farmer or rancher or a socially disadvantaged farmer or rancherunder subparagraph (B) not later than 135 days after acquiring the real property, the Secretary shall, not later than 30 days after the 135-day period, sell the property after public notice at a public sale, and, if no acceptable bid is received, by negotiated sale, at the best price obtainable.
+&emsp;&emsp;If no acceptable offer is received from a qualified beginning farmer or rancher or a socially disadvantaged farmer or rancher under subparagraph (B) not later than 135 days after acquiring the real property, the Secretary shall, not later than 30 days after the 135-day period, sell the property after public notice at a public sale, and, if no acceptable bid is received, by negotiated sale, at the best price obtainable.
 
 #### (2) Previous lease
 
@@ -108,7 +108,7 @@ Except as provided in subsections (c) and (e), real property administered under 
 
 #### (d) Easements; condemnations
 
-With respect to any real property administered under this chapter, the Secretary is authorized to grant or sell easements or rights-of-way for roads, utilities, and other appurtenances not inconsistent with the public interest. With respect to any rights-of-way over land on which the United States has a lien administered under this chapter, the Secretary may release said lien upon payment to the United States of adequate consideration, and the interest of the United States arising under any such lien may be acquired for highway purposes by any State or political subdivision thereof in condemnation proceedings under State law by service by certified mail upon the United States attorney for the district, the State Director of the Farmers Home Administration for the State in which the farm is located, and the Attorney General of the United States: <i>Provided, however</i>, That the United States shall not be required to appear, answer, or respond to any notice or writ sooner than ninety days from the time such notice orwrit is returnable or purports to be effective, and the taking or vesting of title to the interest of the United States shall not become final under any proceeding, order, or decree until adequate compensation and damages have been finally determined and paid to the United States or into the registry of the court.
+With respect to any real property administered under this chapter, the Secretary is authorized to grant or sell easements or rights-of-way for roads, utilities, and other appurtenances not inconsistent with the public interest. With respect to any rights-of-way over land on which the United States has a lien administered under this chapter, the Secretary may release said lien upon payment to the United States of adequate consideration, and the interest of the United States arising under any such lien may be acquired for highway purposes by any State or political subdivision thereof in condemnation proceedings under State law by service by certified mail upon the United States attorney for the district, the State Director of the Farmers Home Administration for the State in which the farm is located, and the Attorney General of the United States: <i>Provided, however</i>, That the United States shall not be required to appear, answer, or respond to any notice or writ sooner than ninety days from the time such notice or writ is returnable or purports to be effective, and the taking or vesting of title to the interest of the United States shall not become final under any proceeding, order, or decree until adequate compensation and damages have been finally determined and paid to the United States or into the registry of the court.
 
 #### (e) Real property located within Indian reservation; conservation practices; adverse effects prohibition
 
@@ -218,7 +218,7 @@ Notice to borrower.—If an Indian borrower-owner does not voluntarily convey to
 
 &emsp;&emsp;(aa) requiring the Secretary to assign the loan and security instruments to the Secretary of the Interior, if the Secretary of the Interior agrees to an assignment releasing the Secretary of Agriculture from all further responsibility for collection of any amounts with regard to the loan secured by the real property; or
 
-&emsp;&emsp;(bb) requiring the Secretary to assign the loan and security instruments to the tribehaving jurisdiction over the reservation in which the real property is located, if the tribe agrees to the assignment.
+&emsp;&emsp;(bb) requiring the Secretary to assign the loan and security instruments to the tribe having jurisdiction over the reservation in which the real property is located, if the tribe agrees to the assignment.
 
 &emsp;(II)
 
@@ -318,11 +318,11 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 #### References in Text
 
-For definition of "this chapter", referred to in text, see note set out under section 1921 of this title.
+This chapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 This Act, referred to in subsec. (e)(1)(A)(vi), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, as amended. For classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables. However, the reference was probably intended to be "this title" meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-Subsection (g)(6) of this section, referred to in subsec. (e)(1)(D)(iii)(I), was redesignated subsection (g)(3) of this section by Pub. L. 104–127, title VI, §639(4), Apr. 4, 1996, 110 Stat. 1097.
+Subsection (g)(6) of this section, referred to in subsec. (e)(1)(D)(iii)(I), was redesignated subsection (g)(3) ofthis section by Pub. L. 104–127, title VI, §639(4), Apr. 4, 1996, 110 Stat. 1097.
 
 #### Codification
 
@@ -354,7 +354,7 @@ Subsec. (c)(2). Pub. L. 107–171, §5308(2), added par. (2) and struck out head
 
 "(A)
 
-Previous lease.—In the case of real property acquired prior to April 4, 1996, that the Secretaryleased prior to April 4, 1996, not later than 60 days after the lease expires, the Secretary shall offer to sell the property in accordance with paragraph (1).
+Previous lease.—In the case of real property acquired prior to April 4, 1996, that the Secretary leased prior to April 4, 1996, not later than 60 days after the lease expires, the Secretary shall offer to sell the property in accordance with paragraph (1).
 
 "(B)
 
@@ -388,7 +388,7 @@ Subsec. (e)(4). Pub. L. 104–127, §638(3)(E), redesignated par. (7) as (4). Fo
 
 Subsec. (e)(5). Pub. L. 104–127, §638(3)(D), (E), redesignated par. (8) as (5) and struck out former par. (5) which read as follows:
 
-"(5)(A) If the Secretary determines that farmland administered under this chapter is not suitable for sale or lease to persons eligible for a loan made or insured under subchapter I of this chapter because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for such eligible persons, the Secretary shall, to the greatest extent practicable, subdivide such land into tracts suitable for sale under subsection (c) of this section. Such land shall be subdivided into parcels of land the shape and size of which are suitable for farming, the value of which shall not exceed the individual loan limits as prescribed under section 1925 of this title.
+"(5)(A) If the Secretary determines that farmland administered under this chapter is not suitable for sale orlease to persons eligible for a loan made or insured under subchapter I of this chapter because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for such eligible persons, the Secretary shall, to the greatest extent practicable, subdivide such land into tracts suitable for sale under subsection (c) of this section. Such land shall be subdivided into parcels of land the shape and size of which are suitable for farming, the value of which shall not exceed the individual loan limits as prescribed under section 1925 of this title.
 
 "(B) The Secretary shall dispose of such subdivided farmland in accordance with this subsection."
 
@@ -478,7 +478,7 @@ Pub. L. 101–624, §1813(b)(2), substituted "shall randomly" for "shall, by maj
 
 Subsec. (g). Pub. L. 101–624, §1813(h)(1), added subsec. (g).
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–233, §610(a), designated existing provisions as par. (1), inserted provisions requiring the County Committee to classify or reclassify real property that is farmland, as being suitable for farming operation for such disposition unless propertycannot be used to meet any of the purposes of section 1923 of this title, and added par. (2).
+<b>1988</b>—Subsec. (c). Pub. L. 100–233, §610(a), designated existing provisions as par. (1), inserted provisions requiring the County Committee to classify or reclassify real property that is farmland, as being suitable for farming operation for such disposition unless property cannot be used to meet any of the purposes of section 1923 of this title, and added par. (2).
 
 Subsec. (e)(1). Pub. L. 100–233, §610(b)(1), added par. (1) and struck out former par. (1) which read as follows: "The Secretary shall to the extent practicable sell or lease farmland administered under this chapter in the following order of priority:
 
@@ -518,7 +518,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 638 of Pub. L. 104–127 effective Apr. 4, 1996, but not applicable with respect to complete application to acquire inventory property submitted prior to Apr. 4, 1996, and amendment by section 639 of Pub. L. 104–127 effective Apr. 4, 1996, see section 663(a), (c) of Pub. L. 104–127, set out as a note under section 1922 of this title.
+Amendment by section 638 of Pub. L. 104–127 effective Apr. 4, 1996, but not applicable with respect to completeapplication to acquire inventory property submitted prior to Apr. 4, 1996, and amendment by section 639 of Pub. L. 104–127 effective Apr. 4, 1996, see section 663(a), (c) of Pub. L. 104–127, set out as a note under section 1922 of this title.
 
 #### Effective Date of 1992 Amendment
 

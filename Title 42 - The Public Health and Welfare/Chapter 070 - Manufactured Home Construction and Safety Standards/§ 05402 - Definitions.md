@@ -34,7 +34,7 @@ As used in this chapter, the term—
 
 &emsp;(16) "consensus standards development process" means the process by which additions, revisions, and interpretations to the Federal manufactured home construction and safety standards and enforcement regulations shall be developed and recommended to the Secretary by the consensus committee;
 
-&emsp;(17) "primary inspection agency" means a State agency or private organization that has been approved by the Secretary to act as a design approval primary inspection agency or aproduction inspection primary inspection agency, or both;
+&emsp;(17) "primary inspection agency" means a State agency or private organization that has been approved by the Secretary to act as a design approval primary inspection agency or a production inspection primary inspection agency, or both;
 
 &emsp;(18) "design approval primary inspection agency" means a State agency or private organization that has been approved by the Secretary to evaluate and either approve or disapprove manufactured home designs and quality control procedures;
 

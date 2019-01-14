@@ -28,7 +28,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 #### (d) Administration
 
-Each nonprofit organization participating in a project conducted under this section shall provide assurances in its agreement with the Secretary that it has or will have a cooperative relationship with the agency responsible for administering the the <sup>2</sup> State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] in the area served by the project.
+Each nonprofit organization participating in a project conducted under this section shall provide assurances in its agreement with the Secretary that it has or will have a cooperative relationship with the agency responsible for administering the the <sup>2</sup> State program funded under part A of title IV of the Social SecurityAct \[42 U.S.C. 601 et seq.\] in the area served by the project.
 
 #### (e) Authorization of appropriations
 

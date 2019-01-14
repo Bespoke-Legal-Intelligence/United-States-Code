@@ -80,7 +80,7 @@
 
 &emsp;(C) coordinate victim services provided by the Federal Government with victim services offered by other public agencies and nonprofit organizations;
 
-&emsp;(D) perform such other functions related to the purposes of this title <sup>2</sup> as the Director deems appropriate; and
+&emsp;(D) perform such other functions related to the purposes of this title <sup>1</sup> as the Director deems appropriate; and
 
 &emsp;(E) use funds made available to the Director under this subsection—
 
@@ -219,6 +219,4 @@ Subsec. (c)(3). Pub. L. 99–401, §102(b)(4), substituted "The Assistant Attorn
 Amendment by sections 7122, 7123(b)(4)–(9), 7127, and 7128 of Pub. L. 100–690 not applicable with respect to a State compensation program that was an eligible State crime victim compensation program on Nov. 18, 1988, until Oct. 1, 1991, see section 7129 of Pub. L. 100–690, as amended, set out as a note under section 20101 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

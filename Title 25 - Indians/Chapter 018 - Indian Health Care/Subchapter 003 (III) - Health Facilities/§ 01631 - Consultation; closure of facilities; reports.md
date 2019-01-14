@@ -214,7 +214,7 @@ The priority of any project established under the construction priority system i
 
 &emsp;&emsp;(B) pursuant to a request of an Indian tribe or tribal organization.
 
-(Pub. L. 94–437, title III, §301, Sept. 30, 1976, 90 Stat. 1406; Pub. L. 100–713, title III, §301, Nov. 23, 1988, 102 Stat. 4812; Pub. L. 102–573, title III, §301, title IX, §902(4)(B), Oct. 29, 1992, 106 Stat. 4560, 4591; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title III, §301, Sept. 30, 1976, 90 Stat. 1406; Pub. L. 100–713, title III, §301, Nov. 23,1988, 102 Stat. 4812; Pub. L. 102–573, title III, §301, title IX, §902(4)(B), Oct. 29, 1992, 106 Stat. 4560, 4591; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### References in Text
 

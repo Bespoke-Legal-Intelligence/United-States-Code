@@ -76,7 +76,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(ii) a total or partial exemption for the securitization of an asset issued or guaranteed by the United States, or an agency of the United States, as the Federal banking agencies and the Commission jointly determine appropriate in the public interest and for the protection of investors, except that, for purposes of this clause, the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation are not agencies of the United States;
 
-&emsp;&emsp;&emsp;(iii) a total or partial exemption for any asset-backed security that is a security issued or guaranteed by any State of the United States, or by any political subdivision of a State or territory, or by any public instrumentality of a State or territory that is exempt from the registration requirements of the Securities Act of 1933 \[15U.S.C. 77a et seq.\] by reason of section 3(a)(2) of that Act (15 U.S.C. 77c(a)(2)), or a security defined as a qualified scholarship funding bond in section 150(d)(2) of title 26, as may be appropriate in the public interest and for the protection of investors; and
+&emsp;&emsp;&emsp;(iii) a total or partial exemption for any asset-backed security that is a security issued or guaranteed by any State of the United States, or by any political subdivision of a State or territory, or by any public instrumentality of a State or territory that is exempt from the registration requirements of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] by reason of section 3(a)(2) of that Act (15 U.S.C. 77c(a)(2)), or a security defined as a qualified scholarship funding bond in section 150(d)(2) of title 26, as may be appropriate in the public interest and for the protection of investors; and
 
 &emsp;&emsp;&emsp;(iv) the allocation of risk retention obligations between a securitizer and an originator in the case of a securitizer that purchases assets from an originator, as the Federal banking agencies and the Commission jointly determine appropriate.
 
@@ -148,7 +148,7 @@ In determining how to allocate risk retention obligations between a securitizer 
 
 &emsp;&emsp;&emsp;&emsp;(III) the ratio of total monthly installment payments of the mortgagor to the income of the mortgagor;
 
-&emsp;&emsp;&emsp;(iii) mitigating the potential for payment shock on adjustable rate mortgagesthrough product features and underwriting standards;
+&emsp;&emsp;&emsp;(iii) mitigating the potential for payment shock on adjustable rate mortgages through product features and underwriting standards;
 
 &emsp;&emsp;&emsp;(iv) mortgage guarantee insurance or other types of insurance or credit enhancement obtained at the time of origination, to the extent such insurance or credit enhancement reduces the risk of default; and
 

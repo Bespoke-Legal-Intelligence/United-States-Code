@@ -46,7 +46,7 @@
 
 > &emsp;of such individual (and such spouse, if any) which, as determined in accordance with criteria prescribed by the Commissioner of Social Security, is received too infrequently or irregularly to be included;
 
-&emsp;(4)(A) if such individual (or such spouse) is blind (and has not attained age 65, or received benefits under this subchapter (or aid under a State plan approved under section 1202 or 1382 of this title) for the month before the month in which he attained age 65), (i) the first $780 per year (or proportionately smaller amounts for shorter periods) of earned income not excluded by the preceding paragraphs of this subsection, plus one-half of the remainder thereof, (ii) an amount equal to any expensesreasonably attributable to the earning of any income, and (iii) such additional amounts of other income, where such individual has a plan for achieving self-support approved by the Commissioner of Social Security, as may be necessary for the fulfillment of such plan,
+&emsp;(4)(A) if such individual (or such spouse) is blind (and has not attained age 65, or received benefits under this subchapter (or aid under a State plan approved under section 1202 or 1382 of this title) for the month before the month in which he attained age 65), (i) the first $780 per year (or proportionately smaller amounts for shorter periods) of earned income not excluded by the preceding paragraphs of this subsection, plus one-half of the remainder thereof, (ii) an amount equal to any expenses reasonably attributable to the earning of any income, and (iii) such additional amounts of other income, where such individual has a plan for achieving self-support approved by the Commissioner of Social Security, as may be necessary for the fulfillment of such plan,
 
 &emsp;(B) if such individual (or such spouse) is disabled but not blind (and has not attained age 65, or received benefits under this subchapter (or aid under a State plan approved under section 1352 or 1382 of this title) for the month before the month in which he attained age 65), (i) the first $780 per year (or proportionately smaller amounts for shorter periods) of earned income not excluded by the preceding paragraphs of this subsection, (ii) such additional amounts of earned income of such individual, if such individual's disability is sufficiently severe to result in a functional limitation requiring assistance in order for him to work, as may be necessary to pay the costs (to such individual) of attendant care services, medical devices, equipment, prostheses, and similar items and services (not including routine drugs or routine medical services unless such drugs or services are necessary for the control of the disabling condition) which are necessary (as determined by the Commissioner of Social Security in regulations) for that purpose, whether or not such assistance is also needed to enable him to carry out his normal daily functions, except that the amounts to be excluded shall be subject to such reasonable limits as the Commissioner of Social Security may prescribe, (iii) one-half of the amount of earned income not excluded after the application of the preceding provisions of this subparagraph, and (iv) such additional amounts of other income, where such individual has a plan for achieving self-support approved by the Commissioner of Social Security, as may be necessary for the fulfillment of such plan, or
 
@@ -78,7 +78,7 @@
 
 &emsp;(17) any amount received by such individual (or such spouse) from a fund established by a State to aid victims of crime;
 
-&emsp;(18) relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions <sup>2</sup> Policies Act of 1970 which is subject to thetreatment required by section 216 of such Act \[42 U.S.C. 4636\];
+&emsp;(18) relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions <sup>2</sup> Policies Act of 1970 which is subject to the treatment required by section 216 of such Act \[42 U.S.C. 4636\];
 
 &emsp;(19) any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);
 
@@ -124,7 +124,7 @@ The United States Housing Act of 1937, referred to in subsec. (b)(14), is act Se
 
 The National Housing Act, referred to in subsec. (b)(14), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-Section 101 of the Housing and Urban Development Act of 1965, referred to in subsec. (b)(14), is section 101of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted section 1701s of Title 12 and amended sections 1451 and 1465 of this title.
+Section 101 of the Housing and Urban Development Act of 1965, referred to in subsec. (b)(14), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted section 1701s of Title 12 and amended sections 1451 and 1465 of this title.
 
 The Housing Act of 1949, referred to in subsec. (b)(14), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 
@@ -220,7 +220,7 @@ Pub. L. 98–369, §2616(a), amended subpar. (B) generally. Prior to amendment, 
 
 Subsec. (b)(9). Pub. L. 98–369, §2663(g)(4), inserted a comma after "child".
 
-Subsec. (b)(13). Pub. L. 98–369, §2639(b), temporarily amended par. (13) generally, redesignating former cls.\(i) and (ii) as (A) and (B), respectively. See Effective and Termination Dates of 1984 Amendment note below.
+Subsec. (b)(13). Pub. L. 98–369, §2639(b), temporarily amended par. (13) generally, redesignating former cls. (i) and (ii) as (A) and (B), respectively. See Effective and Termination Dates of 1984 Amendment note below.
 
 <b>1983</b>—Subsec. (b)(13). Pub. L. 98–21 temporarily substituted "any support or maintenance assistance furnished to or on behalf of such individual (and spouse if any) which (as determined under regulations of the Secretary by such State agency as the chief executive officer of the State may designate) is based on need for such support or maintenance, including assistance received to assist in meeting the costs of home energy (including both heating and cooling), and which" for "any assistance received to assist in meeting the costs of home energy, including both heating and cooling, which (as determined under regulations of the Secretary by such State agency as the chief executive officer of the State may designate) (A) is based on need for such assistance, and (B)". See Effective and Termination Dates of 1983 Amendments note below.
 
@@ -304,7 +304,7 @@ Pub. L. 103–66, title XIII, §13733(c), Aug. 10, 1993, 107 Stat. 662, provided
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title V, §5031(d), Nov. 5, 1990, 104 Stat. 1388–224, provided that: "The amendments made by thissection \[amending this section and sections 1382b and 1383 of this title\] shall apply with respect to benefits for months beginning on or after the first day of the 6th calendar month following the month in which this Act is enacted \[November 1990\]."
+Pub. L. 101–508, title V, §5031(d), Nov. 5, 1990, 104 Stat. 1388–224, provided that: "The amendments made by this section \[amending this section and sections 1382b and 1383 of this title\] shall apply with respect to benefits for months beginning on or after the first day of the 6th calendar month following the month in which this Act is enacted \[November 1990\]."
 
 Pub. L. 101–508, title V, §5033(b), Nov. 5, 1990, 104 Stat. 1388–224, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to benefits payable for calendar months beginning after the date of the enactment of this Act \[Nov. 5, 1990\]."
 

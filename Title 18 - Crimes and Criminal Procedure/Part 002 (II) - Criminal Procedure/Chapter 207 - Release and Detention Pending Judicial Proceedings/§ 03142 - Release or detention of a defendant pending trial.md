@@ -250,7 +250,7 @@ Subsec. (i). Pub. L. 99–646, §55(a), (c)(9), in introductory provision substi
 
 #### Effective Date of 1990 Amendment
 
-Amendment by sections 3622 to 3624 of Pub. L. 101–647 effective 180 days after Nov. 29, 1990, see section 3631 of Pub. L. 101–647, set out as an Effective Date note undersection 3001 of Title 28, Judiciary and Judicial Procedure.
+Amendment by sections 3622 to 3624 of Pub. L. 101–647 effective 180 days after Nov. 29, 1990, see section 3631 of Pub. L. 101–647, set out as an Effective Date note under section 3001 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1986 Amendment
 

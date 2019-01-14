@@ -22,7 +22,7 @@ Conditions on Conveyance Authority.—(1) The fair market value of the land to b
 
 (c)
 
-Limitation on Use of Conveyance Authority at Installations Closed Under Base Closure Laws.—The authority under subsection\(a)(2)(A) to convey property located on a military installation may only be used to the extent the conveyance is consistent with an approved redevelopment plan for such installation.
+Limitation on Use of Conveyance Authority at Installations Closed Under Base Closure Laws.—The authority under subsection (a)(2)(A) to convey property located on a military installation may only be used to the extent the conveyance is consistent with an approved redevelopment plan for such installation.
 
 (d)
 
@@ -40,7 +40,7 @@ Advance Notice of Use of Authority.—(1) Notice of the proposed use of the conv
 
 &emsp;(B) the waiting period applicable to that notice under paragraph (3) expires.
 
-(3) If the notice submitted under paragraph (2) deals with the conveyance of real property located on a military installation that is closed or realigned under a base closure law or the conveyance of real property under an agreement entered into under section 2684a of this title, the Secretary concerned may enter into the agreement under subsection (a) for the conveyance of the property after the end of the 14-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title. In the case of other real property to be conveyed under subsection (a), the Secretary concerned may enter into the agreement only after the end of the 45-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title.
+(3) If the notice submitted under paragraph (2) deals with the conveyance of real property located on a military installation that is closed or realigned under a base closure law or the conveyance of real property under an agreement entered into under section 2684a of this title, the Secretary concerned may enter into the agreement under subsection (a) for the conveyance of the property after the end of the 14-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title. In the case of other real property to be conveyed under subsection (a),the Secretary concerned may enter into the agreement only after the end of the 45-day period beginning on the date of the submission of the notice in an electronic medium pursuant to section 480 of this title.
 
 (e)
 
@@ -74,7 +74,7 @@ Subsec. (d)(3). Pub. L. 115–91, §2801(c)(6), substituted "after the end of th
 
 Subsec. (a). Pub. L. 112–81, §2815(a)(2)(A), substituted "Exchange Authorized" for "Conveyance Authorized; Consideration" in heading.
 
-Subsec. (a)(1). Pub. L. 112–81, §2815(a)(2)(B), substituted "to any eligible entity who agrees, in exchange for the real property, to transfer to the United States all right, title, and interest of the entity in and to aparcel of real property, including any improvements thereon under their control, or to carry out a land acquisition" for "to any person who agrees, in exchange for the real property, to carry out a land acquisition".
+Subsec. (a)(1). Pub. L. 112–81, §2815(a)(2)(B), substituted "to any eligible entity who agrees, in exchange for the real property, to transfer to the United States all right, title, and interest of the entity in and to a parcel of real property, including any improvements thereon under their control, or to carry out a land acquisition" for "to any person who agrees, in exchange for the real property, to carry out a land acquisition".
 
 Subsecs. (f) to (h). Pub. L. 112–81, §2815(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f), which provided that authority to enter into an agreement under this section would expire on September 30, 2013.
 

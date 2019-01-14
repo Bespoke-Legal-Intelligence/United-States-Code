@@ -6,7 +6,7 @@ The Secretary is authorized, upon such terms and conditions (substantially ident
 
 #### (b) Scope of individual loans and insurance of loans; condominium requirements
 
-Any loan made or insured under subsection (a) shall cover a one-family dwelling unit in a condominium, and shall be subject to such provisions as the Secretary determines to be necessary for the maintenance of the common areas and facilities of the condominium project and to such additional requirements as the Secretarydeems appropriate for the protection of the consumer.
+Any loan made or insured under subsection (a) shall cover a one-family dwelling unit in a condominium, and shall be subject to such provisions as the Secretary determines to be necessary for the maintenance of the common areas and facilities of the condominium project and to such additional requirements as the Secretary deems appropriate for the protection of the consumer.
 
 #### (c) Blanket loans and insurance of loans; terms and conditions; certification by borrower of future ownership of multifamily project; maximum amount of principal obligation
 

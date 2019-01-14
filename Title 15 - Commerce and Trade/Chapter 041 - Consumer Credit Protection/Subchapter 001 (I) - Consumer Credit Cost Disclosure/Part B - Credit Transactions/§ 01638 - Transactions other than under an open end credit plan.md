@@ -82,11 +82,11 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(i) Label the payment schedule as follows: "Payment Schedule: Payments Will Vary Based on Interest Rate Changes".
 
-&emsp;(ii) State in conspicuous type size and format examples of adjustments to the regular required payment on the extension of credit based on the change in the interest rates specified by the contract for such extension of credit. Among the examples required to be provided under this clause is an example that reflects the maximum payment amount of the regular required payments on the extension of credit, based on the maximum interest rate allowed under the contract, in accordance with the rules of the Bureau. Prior to issuing any rules pursuant to this clause, the Bureau shall conduct consumer testing to determine the appropriate format for providing the disclosures required under this subparagraph to consumers so that such disclosures can be easily understood, including the fact that the initial regular payments are for a specific time period that will end on a certain date, that payments will adjust afterwards potentially to a higher amount, and that there is no guarantee that the borrower will be able to refinance to a lower amount.
+&emsp;(ii) State in conspicuous type size and format examples of adjustments to the regular required payment on the extension of creditbased on the change in the interest rates specified by the contract for such extension of credit. Among the examples required to be provided under this clause is an example that reflects the maximum payment amount of the regular required payments on the extension of credit, based on the maximum interest rate allowed under the contract, in accordance with the rules of the Bureau. Prior to issuing any rules pursuant to this clause, the Bureau shall conduct consumer testing to determine the appropriate format for providing the disclosures required under this subparagraph to consumers so that such disclosures can be easily understood, including the fact that the initial regular payments are for a specific time period that will end on a certain date, that payments will adjust afterwards potentially to a higher amount, and that there is no guarantee that the borrower will be able to refinance to a lower amount.
 
 (D) In any case in which the disclosure statement under subparagraph (A) contains an annual percentage rate of interest that is no longer accurate, as determined under section 1606(c) of this title, the creditor shall furnish an additional, corrected statement to the borrower, not later than 3 business days before the date of consummation of the transaction.
 
-(E) The consumer shall receive the disclosures required under this paragraph before paying any fee to the creditor or other person in connection with the consumer's application for an extension of credit that is secured by the dwelling of a consumer. If the disclosures are mailed to theconsumer, the consumer is considered to have received them 3 business days after they are mailed. A creditor or other person may impose a fee for obtaining the consumer's credit report before the consumer has received the disclosures under this paragraph, provided the fee is bona fide and reasonable in amount.
+(E) The consumer shall receive the disclosures required under this paragraph before paying any fee to the creditor or other person in connection with the consumer's application for an extension of credit that is secured by the dwelling of a consumer. If the disclosures are mailed to the consumer, the consumer is considered to have received them 3 business days after they are mailed. A creditor or other person may impose a fee for obtaining the consumer's credit report before the consumer has received the disclosures under this paragraph, provided the fee is bona fide and reasonable in amount.
 
 (F)
 
@@ -270,7 +270,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### (A) In general
 
-&emsp;&emsp;With respect to a private education loan, the borrower shall have the right to accept the terms of the loan and consummate the transaction at any time within 30 calendar days (or such longer period as the private educational lender may provide) following the date on which the application for the private education loan is approved and the borrower receives the disclosure documents required under this subsection for the loan, and the rates and terms of the loan may not be changed by the private educational lender during that period.
+&emsp;&emsp;With respect to a private education loan, the borrower shall have the right to acceptthe terms of the loan and consummate the transaction at any time within 30 calendar days (or such longer period as the private educational lender may provide) following the date on which the application for the private education loan is approved and the borrower receives the disclosure documents required under this subsection for the loan, and the rates and terms of the loan may not be changed by the private educational lender during that period.
 
 #### (B) Prohibition on changes
 
@@ -334,7 +334,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### References in Text
 
-The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2)(A), probably refers to the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
+The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2)(A), probably refers to the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banksand Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (e)(1)(M), (N), (2)(M)(i), (N), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
@@ -356,7 +356,7 @@ Pub. L. 110–289, §2502(a)(5), (6), struck out ", whichever is earlier" after
 
 Pub. L. 110–289, §2502(a)(4), which directed insertion of ", which shall be at least 7 business days before consummation of the transaction" after "written application", was executed by making the insertion after "written application" the first place appearing.
 
-Pub. L. 110–289, §2502(a)(2), (3), substituted "any extension of credit that is secured by the dwelling of aconsumer" for "a residential mortgage transaction, as defined in section 1602(w) of this title" and "and" for "before the credit is extended, or".
+Pub. L. 110–289, §2502(a)(2), (3), substituted "any extension of credit that is secured by the dwelling of a consumer" for "a residential mortgage transaction, as defined in section 1602(w) of this title" and "and" for "before the credit is extended, or".
 
 Subsec. (b)(2)(B) to (F). Pub. L. 110–289, §2502(a)(6), added subpars. (B) to (F).
 

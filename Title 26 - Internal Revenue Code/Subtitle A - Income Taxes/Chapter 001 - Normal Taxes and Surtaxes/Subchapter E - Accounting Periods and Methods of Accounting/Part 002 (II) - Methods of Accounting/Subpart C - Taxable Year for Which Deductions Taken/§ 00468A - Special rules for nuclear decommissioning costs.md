@@ -80,7 +80,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) satisfying, in whole or in part, any liability of any person contributing to the Fund for the decommissioning of a nuclear powerplant (or unit thereof),
 
-&emsp;&emsp;(B) to pay administrative costs (including taxes) and other incidental expenses of theFund (including legal, accounting, actuarial, and trustee expenses) in connection with the operation of the Fund, and
+&emsp;&emsp;(B) to pay administrative costs (including taxes) and other incidental expenses of the Fund (including legal, accounting, actuarial, and trustee expenses) in connection with the operation of the Fund, and
 
 &emsp;&emsp;(C) to the extent that a portion of the Fund is not currently needed for purposes described in subparagraph (A) or (B), making investments.
 

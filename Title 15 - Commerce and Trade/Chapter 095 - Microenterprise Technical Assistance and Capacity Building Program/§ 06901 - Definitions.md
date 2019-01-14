@@ -62,7 +62,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (13) Very low-income person
 
-&emsp;The term "very low-income person" means having an income, adjusted for family size, of not more than 150 percent of the poverty line (as defined in section 9902(2) of title 42, including any revision required by that section).
+&emsp;The term "very low-income person" means having an income, adjusted for family size, of not more than 150 percent of the poverty line\(as defined in section 9902(2) of title 42, including any revision required by that section).
 
 (Pub. L. 103–325, title I, §172, as added Pub. L. 106–102, title VII, §725, Nov. 12, 1999, 113 Stat. 1472.)
 

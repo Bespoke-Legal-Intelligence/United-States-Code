@@ -16,7 +16,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### End Strengths for Selected Reserve and for Reserves on Active Duty in Support of Reserves
 
@@ -122,7 +122,7 @@ Pub. L. 108–375, div. A, title V, §515(b)–(d), Oct. 28, 2004, 118 Stat. 188
 
 Pub. L. 103–160, div. A, title V, §517(b), Nov. 30, 1993, 107 Stat. 1651, provided that:
 
-"(1) The Secretary of the Army shall include in the annual report of the Secretary to Congress known as the Army Posture Statement a presentation relating to the implementation of the Pilot Program for Active Component Support of the Reserves under section 414 of the National Defense Authorization Act for FiscalYears 1992 and 1993 (Public Law 102–190; \[former\] 10 U.S.C. 261 note \[now set out below\]), as amended by subsection (a).
+"(1) The Secretary of the Army shall include in the annual report of the Secretary to Congress known as the Army Posture Statement a presentation relating to the implementation of the Pilot Program for Active Component Support of the Reserves under section 414 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; \[former\] 10 U.S.C. 261 note \[now set out below\]), as amended by subsection (a).
 
 "(2) Each such presentation shall include, with respect to the period covered by the report, the following information:
 

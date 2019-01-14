@@ -12,7 +12,7 @@ Section 1176 \[enacted as section 1167\] is derived from present section 77(n) \
 
 #### house report no. 95–595
 
-Section 1167 is derived from present section 77(n) \[section 205(n) of former title 11\]. It provides that notwithstanding the general section governing the rejection of executory contracts (section 365), neither the court nor the trustee may change the wages or working conditions of employees of the debtor established by a collective bargaining agreement that is subject to the Railway Labor Act \[45 U.S.C. 151 et seq.\], except in accordance with section 6 of that Act \[45 U.S.C. 156\]. The subject of railway labor is too delicate and has too long a history for this code to upset established relationships. The balance has been struck over the years. This provision continues that balance unchanged.
+Section 1167 is derived from present section 77(n) \[section 205(n) of former title 11\]. It provides that notwithstanding the general section governing the rejection of executory contracts (section 365), neither the court nor the trustee may change the wages or working conditions of employees of the debtor established by a collective bargaining agreement that is subject to theRailway Labor Act \[45 U.S.C. 151 et seq.\], except in accordance with section 6 of that Act \[45 U.S.C. 156\]. The subject of railway labor is too delicate and has too long a history for this code to upset established relationships. The balance has been struck over the years. This provision continues that balance unchanged.
 
 #### References in Text
 

@@ -36,7 +36,7 @@
 
 #### (iii) Conflicts of interest
 
-&emsp;&emsp;&emsp;No independent director may, during the term of service on the board of directors, serve as an officer of any Federal HomeLoan Bank or as a director, officer, or employee of any member of a Bank, or of any person that receives advances from a Bank.
+&emsp;&emsp;&emsp;No independent director may, during the term of service on the board of directors, serve as an officer of any Federal Home Loan Bank or as a director, officer, or employee of any member of a Bank, or of any person that receives advances from a Bank.
 
 #### (4) Definitions
 
@@ -44,7 +44,7 @@
 
 #### (A) Independent director
 
-&emsp;&emsp;The terms "independent director" and "independent directorship" mean a member of the board of directors of a Federal Home Loan Bank who is a bona fide resident of the district in which the Federal Home Loan Bank is located, or the directorship held by such a person, respectively.
+&emsp;&emsp;The terms "independent director" and "independent directorship" mean a member of the board of directors of a Federal Home Loan Bank who is a bona fide resident of the district in which the Federal Home LoanBank is located, or the directorship held by such a person, respectively.
 
 #### (B) Member director
 
@@ -80,7 +80,7 @@ The number of member directorships designated as representing the members locate
 
 #### (d) Terms; rules and regulations governing nominations and elections
 
-The term of each director shall be 4 years. The board of directors of each Federal home loan bank and the Director shall adjust the terms of members first elected after July 30, 2008, to ensure that the terms of the members of the board of directors are staggered with approximately ¼ of the terms expiring each year. If any person, before or after, or partly before and partly after, September 8, 1961, has been elected to each of three consecutive full terms as a director of a Federal home loan bank and has served for all or part of each of said terms, such person shall not be eligible for election to a directorship of such bank for a term which begins earlier than two years after the expiration of the last expiring of said three terms. The Director is authorized to prescribe such rules and regulations as it may deem necessary or appropriate for the nomination and election of directors of Federal home loan banks, including, without limitation on the generality of the foregoing, rules and regulations with respect to the breaking of ties and with respect to the inclusion of more than one directorship on a single ballot and the methods of voting and of determining the results of voting in such cases.
+The term of each director shall be 4 years. The board of directors of each Federal home loan bank and the Director shall adjust the terms of members first elected after July 30, 2008, to ensure that the terms of the members of the board of directors are staggered with approximately ¼ of the terms expiring each year. If any person, before or after, or partly before and partly after, September 8, 1961, has been elected to each of three consecutive full terms as a director of a Federal home loan bank and has served for all or part of each of said terms, such person shall notbe eligible for election to a directorship of such bank for a term which begins earlier than two years after the expiration of the last expiring of said three terms. The Director is authorized to prescribe such rules and regulations as it may deem necessary or appropriate for the nomination and election of directors of Federal home loan banks, including, without limitation on the generality of the foregoing, rules and regulations with respect to the breaking of ties and with respect to the inclusion of more than one directorship on a single ballot and the methods of voting and of determining the results of voting in such cases.
 
 #### (e) Continuation of existing terms; directorship for the Commonwealth of Puerto Rico
 
@@ -130,7 +130,7 @@ If at any time when nominations are required members shall hold less than $1,000
 
 #### (j) Duties of directors
 
-Such board of directors shall administer the affairs of the bank fairly and impartially and without discrimination in favor of or against any member, and shall, subject to the provisions hereof, extend to each institution authorized to secure advances such advances as may be made safely and reasonably with due regard for the claims and demands of other institutions, and with due regard to the maintenance of adequate credit standing for the Federal Home Loan Bank and its obligations.
+Such board of directors shall administer the affairs of the bank fairly and impartially and without discrimination in favor of or against any member, and shall, subject to the provisions hereof, extend to each institution authorized to secure advances such advances as may be made safely and reasonably with due regard for theclaims and demands of other institutions, and with due regard to the maintenance of adequate credit standing for the Federal Home Loan Bank and its obligations.
 
 #### (k) Indemnification of directors, officers, and employees
 
@@ -194,7 +194,7 @@ Pub. L. 110–289, §1113(b), added subsec. (l) relating to withholding of compe
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–102, §606(a)(1), substituted ", and each of whom shall be either a bona fide resident of the district in which such bank is located or an officer or director of a member of such bank located in that district" for "and bona fide residents of the district in which such bank is located".
 
-Subsec. (d). Pub. L. 106–102, §606(a)(2), substituted "The term of each director, whether elected or appointed, shall be 3 years. The board of directors of each Federal home loan bank and the Finance Board shall adjust the terms of members first elected or appointed after November 12, 1999, to ensure that the terms of the members of the board of directors are staggered with approximately 1/3 of the terms expiring each year." for "The term of each elective directorship shall be two years and the term of each appointive directorship shall be four years."
+Subsec. (d). Pub. L. 106–102, §606(a)(2), substituted "The term of each director, whether elected or appointed, shall be 3 years. The board of directors of each Federal home loan bank and the Finance Board shall adjust the terms of members first elected or appointed after November 12, 1999, to ensure that the terms of themembers of the board of directors are staggered with approximately 1/3 of the terms expiring each year." for "The term of each elective directorship shall be two years and the term of each appointive directorship shall be four years."
 
 Subsec. (g). Pub. L. 106–102, §606(a)(3), added subsec. (g) and struck out former subsec. (g) which read as follows: "The Board shall designate one of the directors of each bank to be chairman, and one to be vice chairman, of the board of directors of such bank."
 

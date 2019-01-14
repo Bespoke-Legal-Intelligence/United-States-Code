@@ -60,7 +60,7 @@ For purposes of an adjudication under this section, the assessment of tax upon w
 
 #### (d) Limitation on rights of action
 
-No action may be maintained against any officer or employee of the United States (or formerofficer or employee) or his personal representative with respect to any acts for which an action could be maintained under this section.
+No action may be maintained against any officer or employee of the United States (or former officer or employee) or his personal representative with respect to any acts for which an action could be maintained under this section.
 
 #### (e) Substitution of United States as party
 

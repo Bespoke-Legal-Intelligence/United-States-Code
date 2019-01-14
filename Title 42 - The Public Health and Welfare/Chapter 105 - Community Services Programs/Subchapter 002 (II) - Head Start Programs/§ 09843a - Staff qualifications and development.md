@@ -6,7 +6,7 @@
 
 &emsp;The Secretary shall ensure that each Head Start classroom in a center-based program is assigned 1 teacher who has demonstrated competency to perform functions that include—
 
-&emsp;&emsp;(A) planning and implementing learning experiences that advance the intellectualand physical development of children, including improving the readiness of children for school by developing their literacy, phonemic, and print awareness, their understanding and use of language, their understanding and use of increasingly complex and varied vocabulary, their appreciation of books, their understanding of early math and early science, their problem-solving abilities, and their approaches to learning;
+&emsp;&emsp;(A) planning and implementing learning experiences that advance the intellectual and physical development of children, including improving the readiness of children for school by developing their literacy, phonemic, and print awareness, their understanding and use of language, their understanding and use of increasingly complex and varied vocabulary, their appreciation of books, their understanding of early math and early science, their problem-solving abilities, and their approaches to learning;
 
 &emsp;&emsp;(B) establishing and maintaining a safe, healthy learning environment;
 
@@ -152,7 +152,7 @@ To improve the quality and effectiveness of staff providing in-home and other se
 
 &emsp;(2) review, and as necessary, revise or develop maximum caseload requirements, as suggested by best practices;
 
-&emsp;(3) promote the development of model curricula (on subjects including parenting training and family literacy) designed to ensure theattainment of appropriate competencies by individuals working or planning to work in the field of early childhood and family services;
+&emsp;(3) promote the development of model curricula (on subjects including parenting training and family literacy) designed to ensure the attainment of appropriate competencies by individuals working or planning to work in the field of early childhood and family services;
 
 &emsp;(4) promote the establishment of a credential that indicates attainment of the competencies and that is accepted nationwide; and
 
@@ -232,7 +232,7 @@ Before a Head Start agency employs an individual, such agency shall—
 
 &emsp;&emsp;(A) a State, tribal, or Federal criminal record check covering all jurisdictions where the grantee provides Head Start services to children;
 
-&emsp;&emsp;(B) a State, tribal, or Federal criminal record check as required by the law of thejurisdiction where the grantee provides Head Start services; or
+&emsp;&emsp;(B) a State, tribal, or Federal criminal record check as required by the law of the jurisdiction where the grantee provides Head Start services; or
 
 &emsp;&emsp;(C) a criminal record check as otherwise required by Federal law.
 

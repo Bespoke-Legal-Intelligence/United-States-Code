@@ -34,23 +34,59 @@ Required Features.—The process developed under subsection (a) shall provide fo
 
 (c)
 
-Annual Review.—The Secretary shall conduct an annual review of the process prescribed under subsection (a) and shall revise that process as determined necessary in relation to ongoing Department of Defense missions.
+Reinvestigation or Readjudication of Certain Individuals.—(1) The Secretary of Defense shall conduct an investigation or adjudication under subsection (a) of any individual described in paragraph (2) upon—
+
+&emsp;(A) conviction of that individual by a court of competent jurisdiction for—
+
+&emsp;&emsp;(i) sexual assault;
+
+&emsp;&emsp;(ii) sexual harassment;
+
+&emsp;&emsp;(iii) fraud against the United States; or
+
+&emsp;&emsp;(iv) any other violation that the Secretary determines renders that individual susceptible to blackmail or raises serious concern regarding the ability of that individual to hold a security clearance; or
+
+&emsp;(B) determination by a commanding officer that that individual has committed an offense described in subparagraph (A).
+
+(2) An individual described in this paragraph in <sup>1</sup> an individual who has a security clearance and is—
+
+&emsp;(A) a flag officer;
+
+&emsp;(B) a general officer; or
+
+&emsp;(C) an employee of the Department of Defense in the Senior Executive Service.
+
+(3) The Secretary shall ensure that relevant information on the conviction or determination described in paragraph (1) of an individual described in paragraph (2) during the preceding year, regardless of whether the individual has retired or resigned or has been discharged, released, or otherwise separated from the armed forces, is reported into Federal law enforcement records and security clearance databases, and that such information is transmitted, as appropriate, to other Federal agencies.
+
+(4) In this subsection:
+
+&emsp;(A) The term "sexual assault" includes rape, sexual assault, forcible sodomy, aggravated sexual contact, abusive sexual contact, and attempts to commit such offenses, as thoseterms are defined in chapter 47 of this title (the Uniform Code of Military Justice).
+
+&emsp;(B) The term "sexual harassment" has the meaning given that term in section 1561 of this title.
+
+&emsp;(C) The term "fraud against the United States" means a violation of section 932 of this title (article 132 of the Uniform Code of Military Justice).
 
 (d)
 
-Consultation Requirement.—The Secretary shall consult with the Secretaries of the military departments and the heads of Defense Agencies in carrying out this section.
+Annual Review.—The Secretary shall conduct an annual review of the process prescribed under subsection (a) and shall revise that process as determined necessary in relation to ongoing Department of Defense missions.
 
 (e)
 
-Sensitive Duties.—For the purposes of this section, it is not necessary for the performance of duties to involve classified activities or classified matters in order for the duties to be considered sensitive and critical to the national security.
+Consultation Requirement.—The Secretary shall consult with the Secretaries of the military departments and the heads of Defense Agencies in carrying out this section.
 
 (f)
 
+Sensitive Duties.—For the purposes of this section, it is not necessary for the performance of duties to involve classified activities or classified matters in order for the duties to be considered sensitive and critical to the national security.
+
+(g)
+
 Use of Appropriated Funds.—The Secretary of Defense may use funds authorized to be appropriated to the Department of Defense for operation and maintenance to conduct background investigations under this section for individuals described in subsection (a)(2).
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1072(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–276; amended Pub. L. 111–383, div. A, title III, §351(a), Jan. 7, 2011, 124 Stat. 4192; Pub. L. 112–239, div. A, title X, §1076(e)(1), Jan. 2, 2013, 126 Stat. 1951.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1072(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–276; amended Pub. L. 111–383, div. A, title III, §351(a), Jan. 7, 2011, 124 Stat. 4192; Pub. L. 112–239, div. A, title X, §1076(e)(1), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 115–232, div. A, title V, §542, Aug. 13, 2018, 132 Stat. 1762.)
 
 #### Amendments
+
+<b>2018</b>—Subsecs. (c) to (g). Pub. L. 115–232 added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 
 <b>2013</b>—Subsec. (a)(2)(B)(ii), (iii). Pub. L. 112–239 substituted "January 7, 2011" for "the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011".
 
@@ -64,7 +100,7 @@ Pub. L. 111–383, div. A, title III, §351(b), Jan. 7, 2011, 124 Stat. 4193, pr
 
 #### Background and Security Investigations for Department of Defense Personnel by Defense Security Service
 
-Pub. L. 115–91, div. A, title IX, §925, Dec. 12, 2017, 131 Stat. 1526, provided that:
+Pub. L. 115–91, div. A, title IX, §925, Dec. 12, 2017, 131 Stat. 1526, as amended by Pub. L. 115–232, div. A, title IX, §937, Aug. 13, 2018, 132 Stat. 1940, provided that:
 
 "(a)
 
@@ -132,7 +168,7 @@ In general.—For purposes of meeting the requirements in subsections (a) and (b
 
 Functions.—The functions to be transferred pursuant to paragraph (1) are the following:
 
-&emsp;&emsp;"(A) Any personnel security investigations functions transferred by the Secretary to the Directorof the Office of Personnel Management pursuant to section 906 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 5 U.S.C. 1101 note).
+&emsp;&emsp;"(A) Any personnel security investigations functions transferred by the Secretary to the Director of the Office of Personnel Management pursuant to section 906 of the National Defense AuthorizationAct for Fiscal Year 2004 (Public Law 108–136; 5 U.S.C. 1101 note).
 
 &emsp;&emsp;"(B) Any other functions of the Office of Personnel Management in connection with background investigations initiated by the Department of Defense that the Secretary and the Director jointly consider appropriate.
 
@@ -230,7 +266,7 @@ Report required.—Not later than 90 days after the date of the enactment of thi
 
 &emsp;&emsp;"(C) A plan for expanding continuous background vetting capabilities, such as the Installation Matching Engine for Security and Analysis, to the broader population, including those at the lowest tiers and levels of access, which plan shall include details to ensure that all individuals credentialed for physical access to Department of Defense facilities and installations are vetted to the same level of fitness determinations and subject to appropriate continuous vetting.
 
-&emsp;&emsp;"(D) A plan to fully integrate and incorporate insider threat data, tools, and capabilities into thenew end-to-end vetting processes and supporting information technology established by the Defense Security Service to ensure a holistic and transformational approach to detecting, deterring, and mitigating threats posed by trusted insiders.
+&emsp;&emsp;"(D) A plan to fully integrate and incorporate insider threat data, tools, and capabilities into the new end-to-end vetting processes and supporting information technology established by the Defense Security Service to ensure a holistic and transformational approach to detecting, deterring, and mitigating threats posed by trusted insiders.
 
 &emsp;"(2)
 
@@ -284,15 +320,17 @@ Annual reports.—Not later than December 31, 2018, and each December 31 thereaf
 
 &emsp;&emsp;"(G) The number of initial investigations and periodic reinvestigations that resulted in a denial or revocation of a security clearance by each authorized adjudicative agency.
 
-&emsp;&emsp;"(H) The costs to the Department of Defense related to personnel security clearance initiations, investigations, adjudications, revocations, and continuous evaluation.
+&emsp;&emsp;"(H) The number of denials or revocations of a security clearance by each authorized adjudicative agency that occurred separately from a periodic reinvestigation.
 
-&emsp;&emsp;"(I) A discussion of any impediments to the timely processing of personnel security clearances.
+&emsp;&emsp;"(I) The costs to the Department of Defense related to personnel security clearance initiations, investigations, adjudications, revocations, and continuous evaluation.
 
-&emsp;&emsp;"(J) The number of clearance holders enrolled in continuous evaluation and the numbers and types of adverse actions taken as a result.
+&emsp;&emsp;"(J) A discussion of any impediments to the timely processing of personnel security clearances.
 
-&emsp;&emsp;"(K) The number of personnel security clearance cases, both initial investigations and periodic reinvestigations, awaiting or under investigation by the National Background Investigations Bureau.
+&emsp;&emsp;"(K) The number of clearance holders enrolled in continuous evaluation and the numbers and types of adverse actions taken as a result.
 
-&emsp;&emsp;"(L) Other information that the Secretary considers appropriate, including any recommendations to improve the timeliness and efficiency of personnel security clearance initiations, investigations, and adjudications.
+&emsp;&emsp;"(L) The number of personnel security clearance cases, both initial investigations and periodic reinvestigations, awaiting or under investigation by the National Background Investigations Bureau.
+
+&emsp;&emsp;"(M) Other information that the Secretary considers appropriate, including any recommendations to improve the timeliness and efficiency of personnel security clearance initiations, investigations, and adjudications.
 
 &emsp;"(4)
 
@@ -316,7 +354,7 @@ Enhancement of Security Programs Generally.—
 
 &emsp;"(1)
 
-Personnel background and security plan required.—The Secretary of Defense shall develop an implementation plan for the Defense Security Service to conduct, after October 1, 2017, background investigations for personnel of the Department of Defense whose investigations are adjudicated by the Consolidated Adjudication Facility of the Department. The Secretary shall submit the implementation plan to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] by not later than August 1, 2017.
+Personnel background and security plan required.—The Secretary of Defense shall develop an implementation plan for the Defense Security Service to conduct, after October 1, 2017, background investigations for personnel of the Department of Defense whose investigations are adjudicated by the Consolidated Adjudication Facility of the Department. The Secretary shall submit the implementation plan to the congressional defense committees\[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] by not later than August 1, 2017.
 
 &emsp;"(2)
 
@@ -426,7 +464,7 @@ Waiver of Certain Deadlines.—For each of fiscal years 2017 through 2019, the S
 
 Definitions.—In this section:
 
-&emsp;"(1) The term 'appropriate committees of Congress' has the meaning given that term in section 3001(a)(8)of the Intelligence Reform and Prevention of Terrorism Act of 2004 (50 U.S.C. 3341(a)(8)).
+&emsp;"(1) The term 'appropriate committees of Congress' has the meaning given that term in section 3001(a)(8) of the Intelligence Reform and Prevention of Terrorism Act of 2004 (50 U.S.C. 3341(a)(8)).
 
 &emsp;"(2) The term 'business process mapping' has the meaning given that term in section 2222(i) of title 10, United States Code.
 
@@ -518,7 +556,7 @@ Reporting Requirements Implementation.—Not later than 180 days after the date 
 
 &emsp;"(1) implement the Security Executive Agent Directive on common, standardized employee and contractor security reporting requirements;
 
-&emsp;"(2) establish and implement uniform reporting requirements for employees and Federal contractors,according to risk, relative to the safety of the workforce and protection of the most sensitive information of the Government; and
+&emsp;"(2) establish and implement uniform reporting requirements for employees and Federal contractors, according to risk, relative to the safety of the workforce and protection of the most sensitive information of the Government; and
 
 &emsp;"(3) ensure that reported information is shared appropriately.
 
@@ -652,7 +690,7 @@ Comparative Analysis.—
 
 &emsp;"(1)
 
-In general.—Not later than 90 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall, acting through the Director of Cost Assessment and Program Evaluation and in consultation with the Director of the Office of Management and Budget, submit to the appropriate committees of Congress a report setting forth a comprehensive analysis comparing the quality, cost, and timeliness of personnel security clearance investigations and reinvestigations for employees and contractor personnel of the Department of Defense that are conducted by the Office of Personnel Management with the quality, cost, and timeliness of personnel security clearance investigations and reinvestigations for such personnel that are conducted by components of the Department of Defense.
+In general.—Not later than 90 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall, acting through the Director of Cost Assessment and Program Evaluation and in consultation with the Director of the Office of Management and Budget, submit to the appropriatecommittees of Congress a report setting forth a comprehensive analysis comparing the quality, cost, and timeliness of personnel security clearance investigations and reinvestigations for employees and contractor personnel of the Department of Defense that are conducted by the Office of Personnel Management with the quality, cost, and timeliness of personnel security clearance investigations and reinvestigations for such personnel that are conducted by components of the Department of Defense.
 
 &emsp;"(2)
 
@@ -732,7 +770,7 @@ Comptroller General Review.—
 
 &emsp;"(1)
 
-Review required.—Not later than 150 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Comptroller General of the United States shall carry out a review of the personnel security process.
+Review required.—Not later than 150 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Comptroller General of the United Statesshall carry out a review of the personnel security process.
 
 &emsp;"(2)
 
@@ -829,4 +867,6 @@ Policy Described.—The policy referred to in subsection (a) is the policy of in
 #### Deadline for Prescribing Process for Prioritizing Background Investigations for Security Clearances
 
 Pub. L. 106–398, §1 \[\[div. A\], title X, §1072(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–277, provided that: "The process required by section 1564(a) of title 10, United States Code, as added by subsection (a), for expediting thecompletion of the background investigations necessary for granting security clearances for certain persons shall be prescribed not later than January 1, 2001."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "is".</i>
 

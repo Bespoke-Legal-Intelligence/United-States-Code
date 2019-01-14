@@ -18,7 +18,7 @@ The Corporation may refund to any insured System bank any premium payment made b
 
 #### (1) Forfeiture of rights
 
-&emsp;If any insured System bank fails to file any certified statement required to be filed by such bank under section 2277a–5 of this title or fails to pay any premium required to be paid by such bank under any provision of this part, and if the bank does not correct such failure within 30 days after the Corporation gives written notice to an officer of the bank, citing this subsection and stating that the bank has failed to so file or pay as required by law, all the rights, privileges, and franchises of the bank granted to it under this chapter shall be thereby forfeited.
+&emsp;If any insured System bank fails to file any certified statement required to be filed bysuch bank under section 2277a–5 of this title or fails to pay any premium required to be paid by such bank under any provision of this part, and if the bank does not correct such failure within 30 days after the Corporation gives written notice to an officer of the bank, citing this subsection and stating that the bank has failed to so file or pay as required by law, all the rights, privileges, and franchises of the bank granted to it under this chapter shall be thereby forfeited.
 
 #### (2) Enforcement
 
@@ -32,7 +32,7 @@ The Corporation may refund to any insured System bank any premium payment made b
 
 The remedies provided in subsections (b) and (c) shall not be construed as limiting any other remedies against any insured System bank, but shall be in addition thereto.
 
-(Pub. L. 92–181, title V, §5.57, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1613;amended Pub. L. 100–399, title III, §302(g), (h), Aug. 17, 1988, 102 Stat. 994.)
+(Pub. L. 92–181, title V, §5.57, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1613; amended Pub. L. 100–399, title III, §302(g), (h), Aug. 17, 1988, 102 Stat. 994.)
 
 #### Amendments
 

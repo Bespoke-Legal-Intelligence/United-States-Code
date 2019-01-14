@@ -54,7 +54,7 @@ Promptly after the circulation of a report of a panel or of the Appellate Body t
 
 &emsp;&emsp;(B) the Trade Representative has sought advice regarding the modification from relevant private sector advisory committees established under section 2155 of this title;
 
-&emsp;&emsp;(C) the head of the relevant department or agency has provided an opportunity for public comment by publishing in the Federal Register the proposed modification and the explanation for the modification;
+&emsp;&emsp;(C) the head of the relevant department or agency has provided an opportunity for public comment by publishing in the FederalRegister the proposed modification and the explanation for the modification;
 
 &emsp;&emsp;(D) the Trade Representative has submitted to the appropriate congressional committees a report describing the proposed modification, the reasons for the modification, and a summary of the advice obtained under subparagraph (B) with respect to the modification;
 
@@ -82,5 +82,5 @@ Before the review is conducted of the dispute settlement rules and procedures of
 
 #### Effective Date
 
-Section effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
 

@@ -50,7 +50,7 @@ Pub. L. 87–87, §4, July 14, 1961, 75 Stat. 204, provided that: "The amendment
 
 #### Effective Date of 1956 Amendment
 
-Act July 26, 1956, ch. 735, §9, 70 Stat. 656, provided that: "The amendments made by the first section andsections 2, 4, and 5 of this Act \[amending this section and sections 908, 909, and 914 of this title\] shall be applicable only with respect to injuries and death occurring on or after the date of enactment of this Act \[July 26, 1956\] notwithstanding the provisions of the Act of December 2, 1942, as amended (42 U.S.C. sec. 1701 et seq.)."
+Act July 26, 1956, ch. 735, §9, 70 Stat. 656, provided that: "The amendments made by the first section and sections 2, 4, and 5 of this Act \[amending this section and sections 908, 909, and 914 of this title\] shall be applicable only with respect to injuries and death occurring on or after the date of enactment of this Act \[July 26, 1956\] notwithstanding the provisions of the Act of December 2, 1942, as amended (42 U.S.C. sec. 1701 et seq.)."
 
 #### Effective Date of 1948 Amendment
 

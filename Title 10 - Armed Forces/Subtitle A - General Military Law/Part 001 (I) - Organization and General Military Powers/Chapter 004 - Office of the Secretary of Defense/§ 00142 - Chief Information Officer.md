@@ -1,14 +1,14 @@
 ### §142. Chief Information Officer
 
-(a) There is a Chief Information Officer of the Department of Defense.
+(a) There is a Chief Information Officer of the Department of Defense, who shall be appointed by the President, by and with the advice and consent of the Senate, from among civilians who are qualified to serve as such officer.
 
 (b)(1) The Chief Information Officer of the Department of Defense—
 
-&emsp;(A) is the Chief Information Officer of the Department of Defense for the purposes of sections 3506(a)(2) and 3544(a)(3) of title 44;
+&emsp;(A) is the Chief Information Officer of the Department of Defense for the purposes of sections 3506(a)(2) (other than with respect to business systems and management) and 3544(a)(3) of title 44;
 
-&emsp;(B) has the responsibilities and duties specified in section 11315 of title 40;
+&emsp;(B) has the responsibilities and duties specified in sections 11315 and 11319 of title 40 (other than with respect to business systems and management);
 
-&emsp;(C) has the responsibilities specified for the Chief Information Officer in sections 2222, 2223(a), and 2224 of this title;
+&emsp;(C) has the responsibilities specified for the Chief Information Officer in sections 2223(a) (other than with respect to business systems and management) and 2224 of this title;
 
 &emsp;(D) exercises authority, direction, and control over the Information Assurance Directorate of the National Security Agency;
 
@@ -20,55 +20,37 @@
 
 &emsp;(H) has the responsibilities for policy, oversight, and guidance for matters related to precision navigation and timing; and
 
-&emsp;(I) has the responsibilities for policy, oversight, and guidance for the architecture and programs related to the networking and cyber defense architecture of the Department.
+&emsp;(I) has the responsibilities for policy, oversight, and guidance for the architecture and programs related to the information technology, networking, information assurance, cybersecurity, and cyber capability architectures of the Department.
 
-(2) The Chief Information Officer shall perform such additional duties and exercise such powers as the Secretary of Defense may prescribe.
+(2)(A) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require the Secretaries of the military departments and the heads of the Defense Agencies with responsibilities associated with any activity specified in paragraph (1) to transmit the proposed budget for such activities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year to the Chief Information Officer for review under subparagraph (B) before submitting the proposed budget to the Under Secretary of Defense (Comptroller).
 
-(c) The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) <sup>1</sup> of this title. The officials serving in positions specified in section 131(b)(4) <sup>1</sup> and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.
+(B) The Chief Information Officer shall review each proposed budget transmitted under subparagraph (A) and, not later than January 31 of the year preceding the fiscal year for which the budget is proposed, shall submit to the Secretary of Defense a report containing the comments of the Chief Information Officer with respect to all such proposed budgets, together with the certification of the Chief Information Officer regarding whether each proposed budget is adequate.
 
-(Added and amended Pub. L. 113–291, div. A, title IX, §901(b)(1), (j)(1)(B), Dec. 19, 2014, 128 Stat. 3463, 3467; Pub. L. 114–328, div. A, title IX, §902(a), Dec. 23, 2016, 130 Stat. 2343; Pub. L. 115–91, div. A, title IX, §909(a)–(d), title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1514, 1515, 1597.)
+(C) Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report specifying each proposed budget contained in the most-recent report submitted under subparagraph (B) that the Chief Information Officer did not certify to be adequate. The report of the Secretary shall include the following matters:
 
-#### Amendment of Section
+&emsp;(i) A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address the inadequacy of the proposed budgets specified in the report.
 
-<i>Pub. L. 115–91, div. A, title IX, §909(a)–(d), (g), Dec. 12, 2017, 131 Stat. 1514–1516, provided that, effective Jan. 1, 2019, this section is amended:</i>
+&emsp;(ii) Any additional comments that the Secretary considers appropriate regarding the inadequacy of the proposed budgets.
 
-<i>(1) in subsection (a), by inserting before the period at the end the following: ", who shall be appointed by the President, by and with the advice and consent of the Senate, from among civilians who are qualified to serve as such officer";</i>
+(3)(A) The Secretary of a military department or head of a Defense Agency may not develop or procure information technology (as defined in section 11101 of title 40) that does not fully comply with such standards as the Chief Information Officer may establish.
 
-<i>(2) in subsection (b)—</i>
+(B) The Chief Information Officer shall implement and enforce a process for—
 
-<i>(A) in paragraph (1)(I), by striking "the networking and cyber defense architecture" and inserting "the information technology, networking, information assurance, cybersecurity, and cyber capability architectures";</i>
+&emsp;(i) developing, adopting, or publishing standards for information technology, networking, or cyber capabilities to which any military department or defense agency would need to adhere in order to run such capabilities on defense networks; and
 
-<i>(B) by redesignating paragraph (2) as paragraph (4); and</i>
+&emsp;(ii) certifying on a regular and ongoing basis that any capabilities being developed or procured meets such standards as have been published by the Department at the time of certification.
 
-<i>(C) by inserting after paragraph (1) the following new paragraphs:</i>
+(C) The Chief Information Officer shall identify gaps in standards and mitigation plans for operating in the absence of acceptable standards.
 
-<i>"(2)(A) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require the Secretaries of the military departments and the heads of the Defense Agencies with responsibilities associated with any activity specified in paragraph (1) to transmit the proposed budget for such activities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year to the Chief Information Officer for review under subparagraph (B) before submitting the proposed budget to the Under Secretary of Defense (Comptroller).</i>
+(4) The Chief Information Officer shall perform such additional duties and exercise such powers as the Secretary of Defense may prescribe.
 
-<i>"(B) The Chief Information Officer shall review each proposed budget transmitted under subparagraph (A) and, not later than January 31 of the year preceding the fiscal year for which the budget is proposed, shall submit to the Secretary of Defense a report containing the comments of the Chief Information Officer with respect to all such proposed budgets, together with the certification of the Chief Information Officer regarding whether each proposed budget is adequate.</i>
+(c) <sup>1</sup> The Chief Information Officer takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) <sup>2</sup> of this title. The officials serving in positions specified in section 131(b)(4) <sup>2</sup> and the Chief Information Officer of the Department of Defense take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-<i>"(C) Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report specifying each proposed budget contained in the most-recent report submitted under subparagraph (B) that the Chief Information Officer did not certify to be adequate. The report of the Secretary shall include the following matters:</i>
+(c) <sup>1</sup> The Chief Information Officer of the Department of Defense shall report directly to the Secretary of Defense in the performance of duties under this section.
 
-&emsp;<i>"(i) A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address the inadequacy of the proposed budgets specified in the report.</i>
+(d) The Chief Information Officer of the Department of Defense takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of thistitle. The officials serving in positions specified in such section and the Chief Information Officer take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-&emsp;<i>"(ii) Any additional comments that the Secretary considers appropriate regarding the inadequacy of the proposed budgets.</i>
-
-<i>"(3)(A) The Secretary of a military department or head of a Defense Agency may not develop or procure information technology (as defined in section 11101 of title 40) that does not fully comply with such standards as the Chief Information Officer may establish.</i>
-
-<i>"(B) The Chief Information Officer shall implement and enforce a process for—</i>
-
-&emsp;<i>"(i) developing, adopting, or publishing standards for information technology, networking, or cyber capabilities to which any military department or defense agency would need to adhere in order to run such capabilities on defense networks; and</i>
-
-&emsp;<i>"(ii) certifying on a regular and ongoing basis that any capabilities being developed or procured meets such standards as have been published by the Department at the time of certification.</i>
-
-<i>"(C) The Chief Information Officer shall identify gaps in standards and mitigation plans for operating in the absence of acceptable standards."; and</i>
-
-<i>(3) by adding at the end the following new subsections:</i>
-
-<i>(c) The Chief Information Officer of the Department of Defense shall report directly to the Secretary of Defense in the performance of duties under this section.</i>
-
-<i>(d) The Chief Information Officer of the Department of Defense takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title. The officials serving in positions specified in such section and the Chief Information Officer take precedence among themselves in the order prescribed by the Secretary of Defense.</i>
-
-<i>See 2017 Amendment notes below.</i>
+(Added and amended Pub. L. 113–291, div. A, title IX, §901(b)(1), (j)(1)(B), Dec. 19, 2014, 128 Stat. 3463, 3467; Pub. L. 114–328, div. A, title IX, §902(a), Dec. 23, 2016, 130 Stat. 2343; Pub. L. 115–91, div. A, title IX, §909(a)–(d), title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1514, 1515, 1597; Pub. L. 115–232, div. A, title IX, §903, Aug. 13, 2018, 132 Stat. 1922.)
 
 #### References in Text
 
@@ -81,6 +63,12 @@ A prior section 142 of this title was renumbered section 138d of this title and 
 Another prior section 142 of this title was contained in chapter 5 of this title, prior to amendment by Pub. L. 99–433. See note preceding section 151 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1)(A). Pub. L. 115–232, §903(1), inserted "(other than with respect to business systems and management)" after "sections 3506(a)(2)".
+
+Subsec. (b)(1)(B). Pub. L. 115–232, §903(2), substituted "sections 11315 and 11319 of title 40 (other than with respect to business systems and management)" for "section 11315 of title 40".
+
+Subsec. (b)(1)(C). Pub. L. 115–232, §903(3), substituted "sections 2223(a) (other than with respect to business systems and management) and 2224" for "sections 2222, 2223(a), and 2224".
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–91, §909(a), inserted before period at end ", who shall be appointed by the President, by and with the advice and consent of the Senate, from among civilians who are qualified to serve as such officer".
 
@@ -112,5 +100,7 @@ Pub. L. 113–291, div. A, title IX, §901(j)(1), Dec. 19, 2014, 128 Stat. 3467,
 
 Pub. L. 115–91, div. A, title IX, §909(f), Dec. 12, 2017, 131 Stat. 1516, provided that: "The individual serving in the position of Chief Information Officer of the Department of Defense as of January 1, 2019, may continue to serve in such position commencing as of that date without further appointment pursuant to section 142 of title 10, United States Code, as amended by this section."
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

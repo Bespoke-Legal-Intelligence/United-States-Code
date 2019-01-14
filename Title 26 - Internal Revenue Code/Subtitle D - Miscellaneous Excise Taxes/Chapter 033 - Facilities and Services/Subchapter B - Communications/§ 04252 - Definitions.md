@@ -60,11 +60,11 @@ Subsecs. (e), (f). Pub. L. 89–44 struck out subsecs. (e) and (f) which defined
 
 <b>1962</b>—Subsec. (e)(1), (2). Pub. L. 87–508 limited wire mileage service to service not used in the conduct of a trade or business.
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–859 substituted definition of "general telephone service" for provisions which defined "local telephone service" as any telephone service not taxable as long distance telephone service; leased wire; teletypewriter or talking circuit special service; or wire and equipment service, and provided that amounts paid for the installation of instruments, wires, poles, switchboards, apparatus, and equipment shall not be considered amounts paid for service, and that amounts paid for services and facilities which are exempted from other communication taxes by section4253(b) should not be deemed to be within the definition of local telephone service.
+<b>1958</b>—Subsec. (a). Pub. L. 85–859 substituted definition of "general telephone service" for provisions which defined "local telephone service" as any telephone service not taxable as long distance telephone service; leased wire; teletypewriter or talking circuit special service; or wire and equipment service, and provided that amounts paid for the installation of instruments, wires, poles, switchboards, apparatus, and equipment shall not be considered amounts paid for service, and that amounts paid for services and facilities which are exempted from other communication taxes by section 4253(b) should not be deemed to be within the definition of local telephone service.
 
 Subsec. (b). Pub. L. 85–859 substituted "toll telephone service" for "long distance telephone service" and struck out provisions which defined "long distance telephone service" as a telephone or radio telephone message or conversation for which the toll charge is more than 24 cents.
 
-Subsec. (c). Pub. L. 85–859 substituted "For purposes of this subchapter, the term 'telegraph service' means a telegram" for "As used in section 4251 the term 'telegraph service' means a telegraph".
+Subsec. (c). Pub. L. 85–859 substituted "For purposes of this subchapter, the term 'telegraph service' meansa telegram" for "As used in section 4251 the term 'telegraph service' means a telegraph".
 
 Subsec. (d). Pub. L. 85–859 substituted provisions defining "teletypewriter exchange service" for provisions which defined "leased wire, teletypewriter or talking circuit special service".
 

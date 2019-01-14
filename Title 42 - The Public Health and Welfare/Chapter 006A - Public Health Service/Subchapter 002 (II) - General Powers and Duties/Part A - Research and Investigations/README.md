@@ -27,3 +27,4 @@ Part A—Research and Investigations
 - [&sect; 00242q&#8211;5 - Authorization of appropriations](%C2%A7%2000242q%E2%80%935%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00242r - Improvement and publication of data on food-related allergic responses](%C2%A7%2000242r%20-%20Improvement%20and%20publication%20of%20data%20on%20food-related%20allergic%20responses.md)
 - [&sect; 00242s - Centers for Disease Control and Prevention Office of Women's Health](%C2%A7%2000242s%20-%20Centers%20for%20Disease%20Control%20and%20Prevention%20Office%20of%20Women%27s%20Health.md)
+- [&sect; 00242t - CDC surveillance and data collection for child, youth, and adult trauma](%C2%A7%2000242t%20-%20CDC%20surveillance%20and%20data%20collection%20for%20child%2C%20youth%2C%20and%20adult%20trauma.md)

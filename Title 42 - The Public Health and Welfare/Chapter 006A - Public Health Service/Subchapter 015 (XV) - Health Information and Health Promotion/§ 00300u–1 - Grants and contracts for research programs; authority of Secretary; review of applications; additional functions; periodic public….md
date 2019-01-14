@@ -4,7 +4,7 @@
 
 &emsp;(1) provide consultation and technical assistance to persons who need help in preparing research proposals or in actually conducting research;
 
-&emsp;(2) determine the best methods of disseminating information concerning personal health behavior, preventive health services and the appropriate use of health care and of affecting behavior so that such information is applied to maintain and improve health, and prevent disease, reduce its risk, or modify its course or severity;
+&emsp;(2) determine the best methods of disseminating information concerning personal health behavior, preventive health services and the appropriate use of health care and of affectingbehavior so that such information is applied to maintain and improve health, and prevent disease, reduce its risk, or modify its course or severity;
 
 &emsp;(3) determine and study environmental, occupational, social, and behavioral factors which affect and determine health and ascertain those programs and areas for which educational and preventive measures could be implemented to improve health as it is affected by such factors;
 
@@ -12,7 +12,7 @@
 
 &emsp;(5) develop a method for assessing the cost and effectiveness of specific medical services and procedures under various conditions of use, including the assessment of the sensitivity and specificity of screening and diagnostic procedures; and
 
-&emsp;(6) enumerate and assess, using methods developed under paragraph (5), preventive health measures and services with respect to their cost and effectiveness under various conditions of use (which measures and services may include blood pressure screening, cholesterol screening and control, smoking cessation programs, substance abuse programs, cancer screening, dietary and nutritional counseling,diabetes screening and education, intraocular pressure screening, and stress management).
+&emsp;(6) enumerate and assess, using methods developed under paragraph (5), preventive health measures and services with respect to their cost and effectiveness under various conditions of use (which measures and services may include blood pressure screening, cholesterol screening and control, smoking cessation programs, substance abuse programs, cancer screening, dietary and nutritional counseling, diabetes screening and education, intraocular pressure screening, and stress management).
 
 (b) The Secretary shall make a periodic survey of the needs, interest, attitudes, knowledge, and behavior of the American public regarding health and health care. The Secretary shall take into consideration the findings of such surveys and the findings of similar surveys conducted by national and community health education organizations, and other organizations and agencies for formulating policy respecting health information and health promotion, preventive health services, and education in the appropriate use of health care.
 

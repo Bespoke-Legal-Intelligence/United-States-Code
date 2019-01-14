@@ -54,7 +54,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 #### (B) Reductions in value for blockage or similar factors
 
-&emsp;&emsp;In determining the value of any securities under this paragraph, the fair market value of such securities (determined without regard to any reduction in value) shall not be reduced unless, and only to the extent that, the private foundation establishes that as a result of—
+&emsp;&emsp;In determining the value of any securities under this paragraph, the fair market valueof such securities (determined without regard to any reduction in value) shall not be reduced unless, and only to the extent that, the private foundation establishes that as a result of—
 
 &emsp;&emsp;&emsp;(i) the size of the block of such securities,
 
@@ -130,7 +130,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 &emsp;&emsp;&emsp;(II) the private foundation in each taxable year beginning after December 31, 1975 (or after the end of the fourth taxable year following the year of its creation, whichever is later), distributes amounts, in cash or its equivalent, equal to not less than the distributable amount determined under subsection (d) (without regard to subsection (i)) for purposes described in section 170(c)(2)(B) (including but not limited to payments with respect to set-asides which were treated as qualifying distributions in one or more prior years), and
 
-&emsp;&emsp;&emsp;(III) the private foundation has distributed (including but not limited to payments with respect to set-asides whichwere treated as qualifying distributions in one or more prior years) during the four taxable years immediately preceding its first taxable year beginning after December 31, 1975, or the fifth taxable year following the year of its creation, whichever is later, an aggregate amount, in cash or its equivalent, of not less than the sum of the following: 80 percent of the first preceding taxable year's distributable amount; 60 percent of the second preceding taxable year's distributable amount; 40 percent of the third preceding taxable year's distributable amount; and 20 percent of the fourth preceding taxable year's distributable amount.
+&emsp;&emsp;&emsp;(III) the private foundation has distributed (including but not limited to payments with respect to set-asides which were treated as qualifying distributions in one or more prior years) during the four taxable years immediately preceding its first taxable year beginning after December 31, 1975, or the fifth taxable year following the year of its creation, whichever is later, an aggregate amount, in cash or its equivalent, of not less than the sum of the following: 80 percent of the first preceding taxable year's distributable amount; 60 percent of the second preceding taxable year's distributable amount; 40 percent of the third preceding taxable year's distributable amount; and 20 percent of the fourth preceding taxable year's distributable amount.
 
 #### (C) Certain failures to distribute
 
@@ -192,7 +192,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 &emsp;Except as provided in paragraph (2), any qualifying distribution made during a taxable year shall be treated as made—
 
-&emsp;&emsp;(A) first out of the undistributed income of the immediately preceding taxable year (ifthe private foundation was subject to the tax imposed by this section for such preceding taxable year) to the extent thereof,
+&emsp;&emsp;(A) first out of the undistributed income of the immediately preceding taxable year (if the private foundation was subject to the tax imposed by this section for such preceding taxable year) to the extent thereof,
 
 &emsp;&emsp;(B) second out of the undistributed income for the taxable year to the extent thereof, and
 
@@ -256,7 +256,7 @@ For purposes of this section—
 
 &emsp;&emsp;(iii) substantially all of the support (other than gross investment income as defined in section 509(e)) of which is normally received from the general public and from 5 or more exempt organizations which are not described in section 4946(a)(1)(H) with respect to each other or the recipient foundation; not more than 25 percent of the support (other than gross investment income) of which is normally received from any one such exempt organization; and not more than half of the support of which is normally received from gross investment income.
 
-> &emsp;Notwithstanding the provisions of subparagraph (A), if the qualifying distributions (within the meaning of paragraph (1) or (2) of subsection (g)) of an organization for the taxable year exceed the minimum investment return for the taxable year, clause (ii) of subparagraph (A) shall not apply unless substantially all of such qualifying distributions are made directly for the active conduct of the activities constituting the purpose or function for which it is organized and operated.
+> &emsp;Notwithstanding the provisions of subparagraph (A), if the qualifying distributions\(within the meaning of paragraph (1) or (2) of subsection (g)) of an organization for the taxable year exceed the minimum investment return for the taxable year, clause (ii) of subparagraph (A) shall not apply unless substantially all of such qualifying distributions are made directly for the active conduct of the activities constituting the purpose or function for which it is organized and operated.
 
 #### (4) Functionally related business
 

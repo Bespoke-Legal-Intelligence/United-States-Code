@@ -50,5 +50,5 @@ Pub. L. 114–315, title IV, §404(c), Dec. 16, 2016, 130 Stat. 1554, provided t
 
 #### Deadline for Submittal of First Report
 
-Pub. L. 112–154, title IV, §402(a)(3), Aug. 6, 2012, 126 Stat. 1189, provided that: "The first reports required under section 3325 of title 38, United States Code, as added by paragraph (1), shall be submitted by not later than November 1, 2013."
+Pub. L. 112–154, title IV, §402(a)(3), Aug. 6, 2012, 126 Stat. 1189, provided that: "The first reports required under section 3325 of title 38, United States Code, asadded by paragraph (1), shall be submitted by not later than November 1, 2013."
 

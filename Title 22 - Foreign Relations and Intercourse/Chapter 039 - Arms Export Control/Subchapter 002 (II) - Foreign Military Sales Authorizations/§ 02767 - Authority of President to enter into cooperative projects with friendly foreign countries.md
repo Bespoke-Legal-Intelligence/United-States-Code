@@ -28,7 +28,7 @@ As used in this section—
 
 #### (c) Agreements for equitable share of costs; limiting nature of agreements
 
-Each agreement for a cooperative project shall provide that the United States and each of the other participants will contribute to the cooperative project its equitable share of the full cost of such cooperative project and will receive an equitable share of the results of such cooperative project. The full costs of such cooperative project shall include overhead costs, administrative costs, and costs of claims. The United States and the other participants may contribute their equitable shares of the full cost of such cooperative project in funds or in defense articles or defense services needed for such cooperative project. Military assistance and financing received from the United States Government may not be used by any other participant to provide its share of the cost of such cooperativeproject. Such agreements shall provide that no requirement shall be imposed by a participant for worksharing or other industrial or commercial compensation in connection with such agreement that is not in accordance with such agreement.
+Each agreement for a cooperative project shall provide that the United States and each of the other participants will contribute to the cooperative project its equitable share of the full cost of such cooperative project and will receive an equitable share of the results of such cooperative project. The full costs of such cooperative project shall include overhead costs, administrative costs, and costs of claims. The United States and the other participants may contribute their equitable shares of the full cost of such cooperative project in funds or in defense articles or defense services needed for such cooperative project. Military assistance and financing received from the United States Government may not be used by any other participant to provide its share of the cost of such cooperative project. Such agreements shall provide that no requirement shall be imposed by a participant for worksharing or other industrial or commercial compensation in connection with such agreement that is not in accordance with such agreement.
 
 #### (d) Contractual or other obligation; preconditions
 
@@ -36,7 +36,7 @@ The President may enter into contracts or incur other obligations for a cooperat
 
 #### (e) Waiver of charges; administrative surcharges
 
-(1) For those cooperative projects entered into on or after the effective date <sup>1</sup> of the International Security and Development Cooperation Act of 1985, the President may reduce or waive the charge or charges which would otherwise be considered appropriate under section 2761(e) of this title in connection with sales under sections 2761 and 2762 of this title when such sales are made as part of such cooperative project, if the other participants agree to reduce or waive corresponding charges.
+(1) For those cooperative projects entered into on or after the effective date <sup>1</sup> of the International Security and Development Cooperation Act of 1985, the President may reduce or waive the charge or charges which would otherwise be considered appropriate under section 2761(e) of this title in connection with sales under sections 2761 and 2762 of this title when such sales are made as part of such cooperative project, ifthe other participants agree to reduce or waive corresponding charges.
 
 (2) Notwithstanding provisions of section 2761(e)(1)(A) and section 2792(b) of this title, administrative surcharges shall not be increased on other sales made under this chapter in order to compensate for reductions or waivers of such surcharges under this section. Funds received pursuant to such other sales shall not be available to reimburse the costs incurred by the United States Government for which reduction or waiver is approved by the President under this section.
 
@@ -68,9 +68,9 @@ The authority under this section is in addition to the authority under sections 
 
 #### (i) Agreements entered into before October 1, 1985
 
-(1) With the approval of the Secretary of State and the Secretary of Defense, a cooperative agreement which was entered into by the United States before the effective date <sup>4</sup> of the amendment to this section made by the International Security and Development Cooperation Act of 1985 and which meets the requirements of this section as so amended may be treated on and after such date as having been made under this section as so amended.
+(1) With the approval of the Secretary of State and the Secretary of Defense, a cooperative agreement which was entered into by the United States before the effective date <sup>1</sup> of the amendment to this section made by the International Security and Development Cooperation Act of 1985 and which meets the requirements of this section as so amended may be treated on and after such date as having been made under this section as so amended.
 
-(2) Notwithstanding the amendment made <sup>5</sup> to this section made by the International Security and Development Cooperation Act of 1985, projects entered into under the authority of this section before the effective date <sup>4</sup> of that amendment may be carried through to conclusion in accordance with the terms of this section as in effect immediately before the effective date <sup>4</sup> of that amendment.
+(2) Notwithstanding the amendment made <sup>4</sup> to this section made by the International Security and Development Cooperation Act of 1985, projects entered into under the authority of this section before the effective date <sup>1</sup> of that amendment may be carried through to conclusion in accordance with the terms of this section as in effect immediately before the effective date <sup>1</sup> of that amendment.
 
 #### (j) Cooperative project agreements with friendly foreign countries not members of NATO
 
@@ -84,7 +84,7 @@ The authority under this section is in addition to the authority under sections 
 
 The effective date of the International Security and Development Cooperation Act of 1985 and the effective date of the amendment to this section made by the International Security and Development Cooperation Act of 1985, referred to in subsecs. (e)(1) and (i), respectively, is October 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
 
-This chapter, referred to in subsec. (e)(2), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsec. (e)(2), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22,1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The amendment made to this section made by the International Security and Development Cooperation Act of 1985, referred to in subsec. (i), means the general amendment of this section by section 115(a) of Pub. L. 99–83. See 1985 Amendment note below.
 
@@ -140,7 +140,7 @@ In general.—Not later than two days after the President transmits a certificat
 
 &emsp;"(2)
 
-Preparation.—The Secretary shall prepare each report required by paragraph (1) in consultationwith the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Assistant Secretary of Defense for Research and Engineering, and the Director of Cost Assessment and Program Evaluation of the Department of Defense.
+Preparation.—The Secretary shall prepare each report required by paragraph (1) in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Assistant Secretary of Defense for Research and Engineering, and the Director of Cost Assessment and Program Evaluation of the Department of Defense.
 
 "(b)
 
@@ -168,7 +168,5 @@ Definitions.—In this section:
 
 <i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>4</sup></i><i> See References in Text note below.</i>
-
-<i><sup>5</sup></i><i> So in original. The word "made" probably should not appear.</i>
+<i><sup>4</sup></i><i> So in original. The word "made" probably should not appear.</i>
 

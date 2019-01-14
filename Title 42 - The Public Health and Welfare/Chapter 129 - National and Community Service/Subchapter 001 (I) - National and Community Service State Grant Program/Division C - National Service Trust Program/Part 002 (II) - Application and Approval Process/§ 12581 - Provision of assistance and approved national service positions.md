@@ -52,7 +52,7 @@ The Corporation shall ensure that each individual selected during a fiscal year 
 
 If a State or territory fails to apply for, or fails to give notice to the Corporation of its intent to apply for, an allotment under this section, or the Corporation does not approve the application consistent with section 12585 of this title, the Corporation may use the amount that would have been allotted under this section to the State or territory to—
 
-&emsp;(1) make grants (and provide approved national service positions in connection withsuch grants) to other community-based entities under section 12571 of this title that propose to carry out national service programs in such State or territory; and
+&emsp;(1) make grants (and provide approved national service positions in connection with such grants) to other community-based entities under section 12571 of this title that propose to carry out national service programs in such State or territory; and
 
 &emsp;(2) make reallotments to other States or territories with approved applications submitted under section 12582 of this title, from the allotment funds not used to make grants as described in paragraph (1).
 
@@ -108,7 +108,7 @@ The Corporation may not approve positions as approved national service positions
 
 #### (A) Authority
 
-&emsp;&emsp;From amounts appropriated for a fiscal year to provide financial assistance under the national service laws, the Corporation may provide assistance in the form of fixed-amount grants in an amount determined by the Corporation under paragraph (2) rather than on the basis of actual costs incurred by a program.
+&emsp;&emsp;From amounts appropriated for a fiscal year to provide financial assistance under the national service laws, the Corporation may provide assistance in the form of fixed-amount grants in an amount determined bythe Corporation under paragraph (2) rather than on the basis of actual costs incurred by a program.
 
 #### (B) Limitation
 
@@ -175,4 +175,8 @@ A prior section 129 of Pub. L. 101–610 was renumbered section 199H and is clas
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
 

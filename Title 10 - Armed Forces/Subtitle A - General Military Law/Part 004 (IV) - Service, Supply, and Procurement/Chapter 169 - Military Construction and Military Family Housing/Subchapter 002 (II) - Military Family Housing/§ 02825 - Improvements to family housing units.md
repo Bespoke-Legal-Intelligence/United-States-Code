@@ -32,9 +32,9 @@
 
 &emsp;(A) the improvement of the existing housing units has been authorized by law; and
 
-&emsp;(B) the Secretary determines that the improvement project is no longer cost-effective after a review of post-design or bid cost estimates.
+&emsp;(B) the Secretary determines that the improvement project is no longer cost-effectiveafter a review of post-design or bid cost estimates.
 
-(2) The amount that may be expended to construct replacement military family housing units under this subsection may not exceed theamount that is otherwise available to carry out the previously authorized improvement project.
+(2) The amount that may be expended to construct replacement military family housing units under this subsection may not exceed the amount that is otherwise available to carry out the previously authorized improvement project.
 
 (d) This section does not apply to projects authorized for restoration or replacement of housing units that have been damaged or destroyed.
 
@@ -92,7 +92,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 Pub. L. 109–364, div. A, title III, §362, Oct. 17, 2006, 120 Stat. 2167, as amended by Pub. L. 114–328, div. A, title VI, §618(d), Dec. 23, 2016, 130 Stat. 2160, provided that: "The Secretary of a military department shall ensure that a member of the Armed Forces under the jurisdiction of the Secretary who occupies a unit of military family housing is provided with adequate storage space to secure personal property that the member is unable to secure within the unit whenever—
 
-&emsp;"(1) the member is assigned to duty in an area for which special pay under section 310, or paragraph (1) or (3) of section 351(a), of title 37, United States Code, is available and the assignment is pursuant to orders specifying an assignment of 180 days or more; and
+&emsp;"(1) the member is assigned to duty in an area for which special pay under section 310, or paragraph (1) or (3) of section 351(a), of title 37, United States Code,is available and the assignment is pursuant to orders specifying an assignment of 180 days or more; and
 
 &emsp;"(2) the dependents of the member who otherwise occupy the unit of military family housing are absent from the unit for more than 30 consecutive days during the period of the assignment of the member."
 

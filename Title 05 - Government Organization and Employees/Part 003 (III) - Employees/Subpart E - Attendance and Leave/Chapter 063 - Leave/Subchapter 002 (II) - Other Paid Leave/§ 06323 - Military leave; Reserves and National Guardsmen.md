@@ -52,7 +52,7 @@ June 30, 1960, Pub. L. 86–559, §7, 74 Stat. 282.
 
 Oct. 4, 1961, Pub. L. 87–378, §7(a), 75 Stat. 809.
 
-In subsection (a), the words "without regard to classification or terminology peculiar to the Civil Service system" are omitted as unnecessary. The word "performance" is added on authority of the PerformanceRating Act of 1950, which is carried into chapter 43 of this title.
+In subsection (a), the words "without regard to classification or terminology peculiar to the Civil Service system" are omitted as unnecessary. The word "performance" is added on authority of the Performance Rating Act of 1950, which is carried into chapter 43 of this title.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor byBoard of Governors of United States Postal Service and Published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and Published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Effective Date of 1968 Amendment
 

@@ -14,7 +14,7 @@ A State Police Corps plan shall—
 
 &emsp;(4) provide that to the extent consistent with paragraph (3), a participant shall be assigned to an area near the participant's home or such other place as the participant may request;
 
-&emsp;(5) provide that to the extent feasible, a participant's assignment shall be made at thetime the participant is accepted into the program, subject to change—
+&emsp;(5) provide that to the extent feasible, a participant's assignment shall be made at the time the participant is accepted into the program, subject to change—
 
 &emsp;&emsp;(A) prior to commencement of a participant's fourth year of undergraduate study, under such circumstances as the plan may specify; and
 

@@ -11,7 +11,7 @@
 | [1805\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001805%20-%20Issuance%20of%20order.md) | Issuance or order. |
 | 1805a to 1805c. Repealed. |  |
 | [1806\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001806%20-%20Use%20of%20information.md) | Use of information. |
-| [1807\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001807%20-%20Report%20to%20Administrative%20Office%20of%20the%20United%20States%20Court%20and%20to%20Congress.md) | Report to Administrative Office of the United States Court and to Congress. |
+| [1807\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001807%20-%20Report%20of%20electronic%20surveillance.md) | Report of electronic surveillance. |
 | [1808\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001808%20-%20Report%20of%20Attorney%20General%20to%20Congressional%20committees%3B%20limitation%20on%20authority%20or%20responsibility%20of%20information%20gathering%20activities%20of%E2%80%A6.md) | Report of Attorney General to Congressional committees; limitation on authority or responsibility of information gathering activities of Congressional committees; report of Congressional committees to Congress. |
 | [1809\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001809%20-%20Criminal%20sanctions.md) | Criminal sanctions. |
 | [1810\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001810%20-%20Civil%20liability.md) | Civil liability. |

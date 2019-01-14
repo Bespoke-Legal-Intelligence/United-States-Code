@@ -70,7 +70,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (B) Changes
 
-&emsp;&emsp;If a laboratory makes changes in the examinations and other procedures performed by it only with respect to examinations and procedures which are described in paragraph (3), the laboratory shall report such changes to the Secretary not later than 6 months after the change has been put into effect. If a laboratory proposes to make changes in the examinations and procedures performed by it such that the laboratory will perform an examination or procedure not described in paragraph (3), the laboratory shall report such change to the Secretary before the change takes effect.
+&emsp;&emsp;If a laboratory makes changes in the examinations and other procedures performed by it only with respect to examinations and procedures which are described in paragraph (3), the laboratory shall report such changes to the Secretary not later than 6 monthsafter the change has been put into effect. If a laboratory proposes to make changes in the examinations and procedures performed by it such that the laboratory will perform an examination or procedure not described in paragraph (3), the laboratory shall report such change to the Secretary before the change takes effect.
 
 #### (C) Effect
 
@@ -300,7 +300,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (3) Ineligibility to own or operate laboratories after revocation
 
-&emsp;No person who has owned or operated a laboratory which has had its certificate revoked may, within 2 years of the revocation of the certificate, own or operate a laboratory for which a certificate has been issued under thissection, except that if the revocation occurs pursuant to paragraph (4) the Secretary may substitute intermediate sanctions under subsection (h) instead of the 2-year prohibition against ownership or operation which would otherwise apply under this paragraph. The certificate of a laboratory which has been excluded from participation under the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] because of actions relating to the quality of the laboratory shall be suspended for the period the laboratory is so excluded.
+&emsp;No person who has owned or operated a laboratory which has had its certificate revoked may, within 2 years of the revocation of the certificate, own or operate a laboratory for which a certificate has been issued under this section, except that if the revocation occurs pursuant to paragraph (4) the Secretary may substitute intermediate sanctions under subsection (h) instead of the 2-year prohibition against ownership or operation which would otherwise apply under this paragraph. The certificate of a laboratory which has been excluded from participation under the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] because of actions relating to the quality of the laboratory shall be suspended for the period the laboratory is so excluded.
 
 #### (4) Improper referrals
 
@@ -318,7 +318,7 @@ Whenever the Secretary has reason to believe that continuation of any activity b
 
 #### (2) Additional evidence
 
-&emsp;If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence (and evidence in rebuttal of such additional evidence) to be taken before the Secretary, and to be adduced upon the hearing in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify the findings of the Secretary as to the facts, or make new findings, by reason of the additional evidence so taken, and the Secretary shall file such modified or new findings, and the recommendations of the Secretary, if any, for the modification or setting aside of his original action, with the return of such additional evidence.
+&emsp;If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence (and evidence in rebuttal of such additional evidence) to be taken before the Secretary, and to be adduced upon the hearing in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify the findings of theSecretary as to the facts, or make new findings, by reason of the additional evidence so taken, and the Secretary shall file such modified or new findings, and the recommendations of the Secretary, if any, for the modification or setting aside of his original action, with the return of such additional evidence.
 
 #### (3) Judgment of court
 
@@ -388,7 +388,7 @@ In carrying out this section, the Secretary may, pursuant to agreement, use the 
 
 (1) Except as provided in paragraph (2), nothing in this section shall be construed as affecting the power of any State to enact and enforce laws relating to the matters covered by this section to the extent that such laws are not inconsistent with this section or with the regulations issued under this section.
 
-(2) If a State enacts laws relating to matters covered by this section which provide for requirements equal to or more stringent than the requirements of this section or than the regulations issued under this section, the Secretary may exempt clinical laboratories in that State from compliance with this section.
+(2) If a State enacts laws relating to matters covered by this section which provide for requirements equal to or more stringent than therequirements of this section or than the regulations issued under this section, the Secretary may exempt clinical laboratories in that State from compliance with this section.
 
 #### (q) Consultations
 

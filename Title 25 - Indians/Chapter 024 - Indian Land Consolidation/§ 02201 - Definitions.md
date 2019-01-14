@@ -50,7 +50,7 @@ This chapter, referred to in par. (6), was in the original "this Act", which was
 
 <b>2008</b>—Par. (4). Pub. L. 110–453, §207(a)(1), designated existing provisions as cls. (i) and (ii) and, in cl. (ii), substituted "an interest in land, the title to which interest" for "an interest in land, title to which".
 
-Par. (7). Pub. L. 110–453, §207(a)(2), added par. (7) and struck out former par. (7) which read as follows: " 'land'means any real property, and includes within its meaning for purposes of this chapter improvements permanently affixed to real property;".
+Par. (7). Pub. L. 110–453, §207(a)(2), added par. (7) and struck out former par. (7) which read as follows: " 'land' means any real property, and includes within its meaning for purposes of this chapter improvements permanently affixed to real property;".
 
 <b>2004</b>—Par. (2). Pub. L. 108–374, §6(b)(1), added par. (2) and struck out former par. (2) which read as follows: " 'Indian' means any person who is a member of any Indian tribe or is eligible to become a member of any Indian tribe, or any person who has been found to meet the definition of 'Indian' under a provision of Federal law if the Secretary determines that using such law's definition of Indian is consistent with the purposes of this chapter;".
 
@@ -60,7 +60,7 @@ Pars. (6) to (10). Pub. L. 108–374, §6(b)(3), added pars. (6) to (10).
 
 <b>2000</b>—Par. (1). Pub. L. 106–462, §103(1)(A), substituted "(1)'Indian tribe' or 'tribe' " for "(1) 'tribe' ".
 
-Par. (2). Pub. L. 106–462, §103(1)(B), added par. (2) and struck out former par. (2) which read as follows: " 'Indian' means any person who is a member of a tribe or any person who is recognized as an Indian by the Secretary of the Interior;".
+Par. (2). Pub. L. 106–462, §103(1)(B), added par. (2) and struck out former par. (2) which read as follows: " 'Indian' means any person who is a member of a tribe orany person who is recognized as an Indian by the Secretary of the Interior;".
 
 Par. (5). Pub. L. 106–462, §103(1)(C)–(E), added par. (5).
 
@@ -242,7 +242,7 @@ Pub. L. 106–462, title I, §102, Nov. 7, 2000, 114 Stat. 1992, provided that: 
 
 #### Authorization of Appropriations
 
-Pub. L. 106–462, title I, §105, Nov. 7, 2000, 114 Stat. 2007, provided that: "There are authorized to be appropriated not to exceed $8,000,000 for fiscal year 2001 and each subsequent fiscal year to carry out the provisionsof this title \[enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 2204, 2207, and 5107 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and section 2206 of this title\] (and the amendments made by this title) that are not otherwise funded under the authority provided for in any other provision of Federal law."
+Pub. L. 106–462, title I, §105, Nov. 7, 2000, 114 Stat. 2007, provided that: "There are authorized to be appropriated not to exceed $8,000,000 for fiscal year 2001 and each subsequent fiscal year to carry out the provisions of this title \[enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 2204, 2207, and 5107 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and section 2206 of this title\] (and the amendments made by this title) that are not otherwise funded under the authority provided for in any other provision of Federal law."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

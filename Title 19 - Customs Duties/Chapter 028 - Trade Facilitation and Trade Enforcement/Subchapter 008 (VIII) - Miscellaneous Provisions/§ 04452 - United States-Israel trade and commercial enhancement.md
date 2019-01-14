@@ -20,7 +20,7 @@ Congress finds the following:
 
 &emsp;&emsp;(B) enactment of relevant sections of the Export Administration Act of 1979 (50 U.S.C. 4601 et seq.) (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)), including sections to ensure foreign persons comply with applicable reporting requirements relating to the Boycott;
 
-&emsp;&emsp;(C) enactment of the Tax Reform Act of 1976 (Public Law 94–455; 90 Stat. 1520) thatdenies certain tax benefits to entities abiding by the Boycott;
+&emsp;&emsp;(C) enactment of the Tax Reform Act of 1976 (Public Law 94–455; 90 Stat. 1520) that denies certain tax benefits to entities abiding by the Boycott;
 
 &emsp;&emsp;(D) ensuring through free trade agreements with Bahrain and Oman that such countries no longer participate in the Boycott; and
 
@@ -38,7 +38,7 @@ Congress—
 
 &emsp;(4) opposes politically motivated actions that penalize or otherwise limit commercial relations specifically with Israel, such as boycotts of, divestment from, or sanctions against Israel;
 
-&emsp;(5) notes that boycotts of, divestment from, and sanctions against Israel by governments, governmental bodies, quasi-governmental bodies, international organizations, and other such entities are contrary to principle of nondiscrimination under the GATT 1994 (as defined in section 3501(1)(B) of this title);
+&emsp;(5) notes that boycotts of, divestment from, and sanctions against Israel by governments,governmental bodies, quasi-governmental bodies, international organizations, and other such entities are contrary to principle of nondiscrimination under the GATT 1994 (as defined in section 3501(1)(B) of this title);
 
 &emsp;(6) encourages the inclusion of politically motivated actions that penalize or otherwise limit commercial relations specifically with Israel such as boycotts of, divestment from, or sanctions against Israel as a topic of discussion at the U.S.-Israel Joint Economic Development Group (JEDG) to support the strengthening of the United States-Israel commercial relationship and combat any commercial discrimination against Israel; and
 
@@ -142,7 +142,7 @@ The United States-Israel Enhanced Security Cooperation Act of 2012, referred to 
 
 The United States-Israel Strategic Partnership Act of 2014, referred to in subsec. (a)(5), is Pub. L. 113–296, Dec. 19, 2014, 128 Stat. 4075. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 8601 of Title 22, Foreign Relations and Intercourse, and Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (a)(6)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 50 and Tables.
+The Export Administration Act of 1979, referred to in subsec. (a)(6)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
 The International Emergency Economic Powers Act, referred to in subsec. (a)(6)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 

@@ -26,7 +26,7 @@
 
 > No notice is required under this subsection for any violation of subsection (a)(1) for which the proposed penalty is $1,000 or less.
 
-(2) After considering representations, if any, made by the person concerned pursuant to thenotice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a)(1), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue or electronically transmit a statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, the Customs Service shall issue or electronically transmit a penalty claim to such person. The penalty claim shall specify all changes in the information provided under subparagraphs (A) through (E) of paragraph (1).
+(2) After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a)(1), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue or electronically transmit a statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, the Customs Service shall issue or electronically transmit a penalty claim to such person. The penalty claim shall specify all changes in the information provided under subparagraphs (A) through (E) of paragraph (1).
 
 (June 17, 1930, ch. 497, title IV, §584, 46 Stat. 748; Aug. 5, 1935, ch. 438, title II, §204, 49 Stat. 523; July 1, 1944, ch. 377, §10, 58 Stat. 722; Mar. 8, 1946, ch. 81, §9, 60 Stat. 39; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 91–513, title III, §1102(m), Oct. 27, 1970, 84 Stat. 1293; Pub. L. 95–410, title I, §109, Oct. 3, 1978, 92 Stat. 892; Pub. L. 99–570, title III, §3118, Oct. 27, 1986, 100 Stat. 3207–84; Pub. L. 103–182, title VI, §619, Dec. 8, 1993, 107 Stat. 2180; Pub. L. 106–36, title I, §1001(b)(7), June 25, 1999, 113 Stat. 132.)
 
@@ -78,7 +78,7 @@ Par. (2). Pub. L. 91–513 struck out "isonipecaine" from list of defined substa
 
 #### Effective Date of 1970 Amendments
 
-Amendment by Pub. L. 91–513 effective on first day of the seventh calendar month that begins after Oct. 26,1970, see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of Title 21, Food and Drugs.
+Amendment by Pub. L. 91–513 effective on first day of the seventh calendar month that begins after Oct. 26, 1970, see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of Title 21, Food and Drugs.
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
 

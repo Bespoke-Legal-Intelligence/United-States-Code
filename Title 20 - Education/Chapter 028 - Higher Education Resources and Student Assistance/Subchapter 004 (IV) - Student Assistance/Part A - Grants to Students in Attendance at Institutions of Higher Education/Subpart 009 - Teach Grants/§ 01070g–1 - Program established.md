@@ -4,7 +4,7 @@
 
 #### (1) Payments required
 
-&emsp;The Secretary shall pay to each eligible institution such sums as may be necessary topay to each teacher candidate who files an application and agreement in accordance with section 1070g–2 of this title, and who qualifies under paragraph (2) of section 1070g–2(a) of this title, a TEACH Grant in the amount of $4,000 for each year during which that teacher candidate is in attendance at the institution.
+&emsp;The Secretary shall pay to each eligible institution such sums as may be necessary to pay to each teacher candidate who files an application and agreement in accordance with section 1070g–2 of this title, and who qualifies under paragraph (2) of section 1070g–2(a) of this title, a TEACH Grant in the amount of $4,000 for each year during which that teacher candidate is in attendance at the institution.
 
 #### (2) References
 

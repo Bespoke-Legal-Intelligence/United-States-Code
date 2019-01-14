@@ -2,7 +2,7 @@
 
 #### (a) Detail of personnel
 
-Upon request of the Chief Executive Officer, the head of an agency may detail any employee of such agency to the Corporation on a reimbursable basis. Any employee so detailed remains, for the purpose of preserving such employee's allowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed.
+Upon request of the Chief Executive Officer, the head of an agency may detail any employeeof such agency to the Corporation on a reimbursable basis. Any employee so detailed remains, for the purpose of preserving such employee's allowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed.
 
 #### (b) Reemployment rights
 

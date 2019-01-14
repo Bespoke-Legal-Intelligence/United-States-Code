@@ -18,6 +18,7 @@
 | [3114\.](%C2%A7%2003114%20-%20Postgraduation%20recruitment%2C%20education%20and%20training%20programs.md) | Postgraduation recruitment, education and training programs. |
 | [3115\.](%C2%A7%2003115%20-%20Cooperative%20agreement%20between%20Department%20of%20the%20Interior%20and%20Indian%20tribes.md) | Cooperative agreement between Department of the Interior and Indian tribes. |
 | [3115a.](%C2%A7%2003115a%20-%20Tribal%20forest%20assets%20protection.md) | Tribal forest assets protection. |
+| [3115b.](%C2%A7%2003115b%20-%20Tribal%20forest%20management%20demonstration%20project.md) | Tribal forest management demonstration project. |
 | [3116\.](%C2%A7%2003116%20-%20Obligated%20service%3B%20breach%20of%20contract.md) | Obligated service; breach of contract. |
 | [3117\.](%C2%A7%2003117%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [3118\.](%C2%A7%2003118%20-%20Regulations.md) | Regulations. |
@@ -47,6 +48,7 @@
 - [&sect; 03114 - Postgraduation recruitment, education and training programs](%C2%A7%2003114%20-%20Postgraduation%20recruitment%2C%20education%20and%20training%20programs.md)
 - [&sect; 03115 - Cooperative agreement between Department of the Interior and Indian tribes](%C2%A7%2003115%20-%20Cooperative%20agreement%20between%20Department%20of%20the%20Interior%20and%20Indian%20tribes.md)
 - [&sect; 03115a - Tribal forest assets protection](%C2%A7%2003115a%20-%20Tribal%20forest%20assets%20protection.md)
+- [&sect; 03115b - Tribal forest management demonstration project](%C2%A7%2003115b%20-%20Tribal%20forest%20management%20demonstration%20project.md)
 - [&sect; 03116 - Obligated service; breach of contract](%C2%A7%2003116%20-%20Obligated%20service%3B%20breach%20of%20contract.md)
 - [&sect; 03117 - Authorization of appropriations](%C2%A7%2003117%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 03118 - Regulations](%C2%A7%2003118%20-%20Regulations.md)

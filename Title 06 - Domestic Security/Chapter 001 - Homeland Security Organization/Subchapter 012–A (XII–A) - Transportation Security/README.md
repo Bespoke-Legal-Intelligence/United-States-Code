@@ -7,3 +7,4 @@
 
 - [Part A - General Provisions](Part%20A%20-%20General%20Provisions/README.md)
 - [Part B - Transportation Security Administration Acquisition Improvements](Part%20B%20-%20Transportation%20Security%20Administration%20Acquisition%20Improvements/README.md)
+- [Part C - Maintenance of Security-related Technology](Part%20C%20-%20Maintenance%20of%20Security-related%20Technology/README.md)

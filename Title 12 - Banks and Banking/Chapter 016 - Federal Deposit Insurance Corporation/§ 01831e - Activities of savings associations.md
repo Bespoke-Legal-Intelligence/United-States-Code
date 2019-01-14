@@ -20,7 +20,7 @@ Notwithstanding subsection (a)(1), if an activity (other than an activity descri
 
 #### (1) In general
 
-&emsp;Notwithstanding subsections (a) and (b), a savings association chartered under State law may not directly acquire or retain any equity investment of a type or in an amount that is not permissible for a Federal savings association.
+&emsp;Notwithstanding subsections (a) and (b), a savings association chartered under State lawmay not directly acquire or retain any equity investment of a type or in an amount that is not permissible for a Federal savings association.
 
 #### (2) Exception for service corporations
 

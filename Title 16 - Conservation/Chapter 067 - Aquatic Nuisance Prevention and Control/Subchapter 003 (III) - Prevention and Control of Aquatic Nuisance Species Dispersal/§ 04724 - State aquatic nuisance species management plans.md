@@ -6,7 +6,7 @@
 
 &emsp;After providing notice and opportunity for public comment, the Governor of each State may prepare and submit, or the Governors of the States and the governments of the Indian tribes involved in an interstate organization, may jointly prepare and submit—
 
-&emsp;&emsp;(A) a comprehensive management plan to the Task Force for approval which identifies those areas or activities within the State or within the interstate region involved, other than those related to public facilities, for which technical, enforcement, or financial assistance (or any combination thereof) is needed to eliminate or reduce the environmental, public health, and safety risks associated with aquatic nuisance species, particularly the zebra mussel; and
+&emsp;&emsp;(A) a comprehensive management plan to the Task Force for approval which identifiesthose areas or activities within the State or within the interstate region involved, other than those related to public facilities, for which technical, enforcement, or financial assistance (or any combination thereof) is needed to eliminate or reduce the environmental, public health, and safety risks associated with aquatic nuisance species, particularly the zebra mussel; and
 
 &emsp;&emsp;(B) a public facility management plan to the Assistant Secretary for approval which is limited solely to identifying those public facilities within the State or within the interstate region involved for which technical and financial assistance is needed to reduce infestations of zebra mussels.
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) identify Federal activities that may be needed for environmentally sound prevention and control of aquatic nuisance species and a description of the manner in which those activities should be coordinated with State and local government activities;
 
-&emsp;&emsp;(C) identify any authority that the State (or any State or Indian tribe involved in the interstate organization) does not have at thetime of the development of the plan that may be necessary for the State (or any State or Indian tribe involved in the interstate organization) to protect public health, property, and the environment from harm by aquatic nuisance species; and
+&emsp;&emsp;(C) identify any authority that the State (or any State or Indian tribe involved in the interstate organization) does not have at the time of the development of the plan that may be necessary for the State (or any State or Indian tribe involved in the interstate organization) to protect public health, property, and the environment from harm by aquatic nuisance species; and
 
 &emsp;&emsp;(D) a schedule of implementing the plan, including a schedule of annual objectives, and enabling legislation.
 
@@ -58,9 +58,13 @@
 
 #### (c) Enforcement assistance
 
-Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
+Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 <sup>2</sup> of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
 
 (Pub. L. 101–646, title I, §1204, Nov. 29, 1990, 104 Stat. 4770; Pub. L. 104–332, §2(e)(6), (h)(1), Oct. 26, 1996, 110 Stat. 4089, 4091.)
+
+#### References in Text
+
+Section 141 of title 14, referred to in subsec. (c), was redesignated section 701 of title 14 by Pub. L. 115–282, title I, §106(b), Dec. 4, 2018, 132 Stat. 4203, and references to section 141 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 #### Amendments
 
@@ -91,4 +95,6 @@ Subsec. (b)(1). Pub. L. 104–332, §2(e)(6)(B), struck out "or the Assistant Se
 Subsec. (c). Pub. L. 104–332, §2(e)(6)(C), added subsec. (c).
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Administrative".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

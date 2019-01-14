@@ -22,5 +22,5 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 
 #### Delegation of Functions
 
-For delegation of functions of the President under subsec. (b) of this section, see section 1(s) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a noteunder section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
+For delegation of functions of the President under subsec. (b) of this section, see section 1(s) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 

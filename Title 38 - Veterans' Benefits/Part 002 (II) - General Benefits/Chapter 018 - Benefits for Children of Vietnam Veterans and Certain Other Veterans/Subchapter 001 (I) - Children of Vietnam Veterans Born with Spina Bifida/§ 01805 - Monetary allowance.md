@@ -20,7 +20,7 @@ A prior section 1805 was renumbered section 3705 of this title.
 
 Subsecs. (c), (d). Pub. L. 106–419, §401(c)(2), struck out subsecs. (c) and (d) which read as follows:
 
-"(c) Notwithstanding any other provision of law, receipt by a child of an allowance under this section shallnot impair, infringe, or otherwise affect the right of the child to receive any other benefit to which the child may otherwise be entitled under any law administered by the Secretary, nor shall receipt of such an allowance impair, infringe, or otherwise affect the right of any individual to receive any benefit to which the individual is entitled under any law administered by the Secretary that is based on the child's relationship to the individual.
+"(c) Notwithstanding any other provision of law, receipt by a child of an allowance under this section shall not impair, infringe, or otherwise affect the right of the child to receive any other benefit to which the child may otherwise be entitled under any law administered by the Secretary, nor shall receipt of such an allowance impair, infringe, or otherwise affect the right of any individual to receive any benefit to which the individual is entitled under any law administered by the Secretary that is based on the child's relationship to the individual.
 
 "(d) Notwithstanding any other provision of law, the allowance paid to a child under this section shall not be considered income or resources in determining eligibility for or the amount of benefits under any Federal or federally assisted program."
 

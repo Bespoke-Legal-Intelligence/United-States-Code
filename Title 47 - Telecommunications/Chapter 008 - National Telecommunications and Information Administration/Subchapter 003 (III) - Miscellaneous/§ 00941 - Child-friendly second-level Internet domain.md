@@ -12,7 +12,7 @@ The NTIA shall require the registry selected to operate and maintain the United 
 
 #### (2) Successor registries
 
-&emsp;The NTIA shall not enter into any contract for operating and maintaining the United States country code Internet domain with any successor registry unless such registry enters into an agreement with the NTIA, during the 90-day period after selection of such registry, that provides for the registry to carry out, and the new domain to operate in accordance with, the requirements under subsection (c).
+&emsp;The NTIA shall not enter into any contract for operating and maintaining the UnitedStates country code Internet domain with any successor registry unless such registry enters into an agreement with the NTIA, during the 90-day period after selection of such registry, that provides for the registry to carry out, and the new domain to operate in accordance with, the requirements under subsection (c).
 
 #### (c) Requirements of new domain
 
@@ -156,9 +156,9 @@ Findings.—The Congress finds that—
 
 &emsp;"(9) although the computer software and hardware industries, and other related industries, have developed innovative ways to help parents and educators restrict material that is harmful to minors through parental control protections and self-regulation, to date such efforts have not provided a national solution to the problem of minors accessing harmful material on the World Wide Web;
 
-&emsp;"(10) the creation of a 'green-light' area within the United States country code Internet domain, thatwill contain only content that is appropriate for children under the age of 13, is analogous to the creation of a children's section within a library and will promote the positive experiences of children and families in the United States; and
+&emsp;"(10) the creation of a 'green-light' area within the United States country code Internet domain, that will contain only content that is appropriate for children under the age of 13, is analogous to the creation of a children's section within a library and will promote the positive experiences of children and families in the United States; and
 
-&emsp;"(11) while custody, care, and nurture of the child reside first with the parent, the protection of the physical and psychological well-being of minors by shielding them from material that is harmful to them is a compelling governmental interest.
+&emsp;"(11) while custody, care, and nurture of the child reside first with the parent, the protection of the physical and psychological well-being of minors byshielding them from material that is harmful to them is a compelling governmental interest.
 
 "(b)
 

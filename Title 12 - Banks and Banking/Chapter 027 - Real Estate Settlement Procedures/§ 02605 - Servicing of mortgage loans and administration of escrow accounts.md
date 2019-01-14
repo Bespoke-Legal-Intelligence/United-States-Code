@@ -52,7 +52,7 @@ Each person who makes a federally related mortgage loan shall disclose to each p
 
 #### (1) Notice requirement
 
-&emsp;Each transferee servicer to whom the servicing of any federally related mortgage loan is assigned, sold, or transferred shall notify the borrower of any such assignment, sale, or transfer.
+&emsp;Each transferee servicer to whom the servicing of any federally related mortgage loan isassigned, sold, or transferred shall notify the borrower of any such assignment, sale, or transfer.
 
 #### (2) Time of notice
 
@@ -122,7 +122,7 @@ During the 60-day period beginning on the effective date of transfer of the serv
 
 #### (4) Limited extension of response time
 
-&emsp;The 30-day period described in paragraph (2) may be extended for not more than 15 days if, before the end of such 30-day period, the servicer notifies the borrower of the extension and the reasons for the delay in responding.
+&emsp;The 30-day period described in paragraph (2) may be extended for not more than 15 days if,before the end of such 30-day period, the servicer notifies the borrower of the extension and the reasons for the delay in responding.
 
 #### (f) Damages and costs
 
@@ -264,9 +264,9 @@ A servicer of a federally related mortgage shall not be construed as having a re
 
 #### (m) Limitations on force-placed insurance charges
 
-All charges, apart from charges subject to State regulation as the business of insurance, related to force-placed insurance imposed on the borrower by or through the servicer shall be bona fide and reasonable.
+All charges, apart from charges subject to State regulation as the business of insurance,related to force-placed insurance imposed on the borrower by or through the servicer shall be bona fide and reasonable.
 
-(Pub. L. 93–533, §6, as added Pub. L. 101–625, title IX, §941, Nov. 28, 1990, 104 Stat. 4405; amended Pub. L. 102–27, title III, §312(a), Apr. 10, 1991, 105Stat. 154; Pub. L. 103–325, title III, §345, Sept. 23, 1994, 108 Stat. 2239; Pub. L. 104–208, div. A, title II, §2103(a), Sept. 30, 1996, 110 Stat. 3009–399; Pub. L. 111–203, title X, §1098(4), title XIV, §1463, July 21, 2010, 124 Stat. 2104, 2182.)
+(Pub. L. 93–533, §6, as added Pub. L. 101–625, title IX, §941, Nov. 28, 1990, 104 Stat. 4405; amended Pub. L. 102–27, title III, §312(a), Apr. 10, 1991, 105 Stat. 154; Pub. L. 103–325, title III, §345, Sept. 23, 1994, 108 Stat. 2239; Pub. L. 104–208, div. A, title II, §2103(a), Sept. 30, 1996, 110 Stat. 3009–399; Pub. L. 111–203, title X, §1098(4), title XIV, §1463, July 21, 2010, 124 Stat. 2104, 2182.)
 
 #### Prior Provisions
 

@@ -34,7 +34,7 @@ Subsec. (c). Pub. L. 106–65, §921(c)(2), (3), redesignated subsec. (e) as (c)
 
 Subsecs. (d), (e). Pub. L. 106–65, §921(c)(3), redesignated subsecs. (d) and (e) as (b) and (c), respectively.
 
-Subsec. (f). Pub. L. 106–65, §921(c)(2), struck out heading and text of subsec. (f). Text read as follows: "If the Secretary of Defense determines, and certifies to Congress, that the limitation in subsection (b) with respect to any fiscal year would adversely affect United States national security, the Secretary may waive the limitation under that subsection with respect to that fiscal year. If the Secretary of Defense determines, and certifies to Congress, that the limitation in subsection (a) during fiscal year 1999 would adversely affect United States national security, the Secretary may waive the limitation under that subsection with respect to that fiscal year. The authority under this subsection may be used only once, with respect to a single fiscal year."
+Subsec. (f). Pub. L. 106–65, §921(c)(2), struck out heading and text of subsec. (f). Text read as follows: "If theSecretary of Defense determines, and certifies to Congress, that the limitation in subsection (b) with respect to any fiscal year would adversely affect United States national security, the Secretary may waive the limitation under that subsection with respect to that fiscal year. If the Secretary of Defense determines, and certifies to Congress, that the limitation in subsection (a) during fiscal year 1999 would adversely affect United States national security, the Secretary may waive the limitation under that subsection with respect to that fiscal year. The authority under this subsection may be used only once, with respect to a single fiscal year."
 
 #### Effective Date of 1999 Amendment
 
@@ -42,11 +42,11 @@ Pub. L. 106–65, div. A, title IX, §921(c), Oct. 5, 1999, 113 Stat. 723, provi
 
 #### Exceptions and Adjustments to Limitations on Personnel
 
-Pub. L. 110–417, \[div. A\], title XI, §1111, Oct. 14, 2008, 122 Stat. 4619, as amended by Pub. L. 111–84, div. A, title XI, §1109(a), Oct. 28, 2009, 123 Stat. 2492; Pub. L. 111–383, div. A, title X, §1075(e)(17), Jan. 7, 2011, 124 Stat. 4375, provided that:
+Pub. L. 110–417, \[div. A\], title XI, §1111, Oct. 14, 2008, 122 Stat. 4619, as amended by Pub. L. 111–84, div. A, title XI, §1109(a), Oct. 28, 2009, 123 Stat. 2492; Pub. L. 111–383, div. A, title X, §1075(e)(17), Jan. 7, 2011, 124 Stat. 4375; Pub. L. 115–232, div. A, title VIII, §809(b)(1), Aug. 13, 2018, 132 Stat. 1840, provided that:
 
 "(a)
 
-Exception to Limitations on Personnel.—For fiscal year 2009 and fiscal years thereafter, the baseline personnel limitations in sections 143, 194, 3014, 5014, and 8014 of title 10, United States Code (as adjusted pursuant to subsection (b)), shall not apply to—
+Exception to Limitations on Personnel.—For fiscal year 2009 and fiscal years thereafter, the baseline personnel limitations in sections 143, 194, 7014, 8014, and 9014 of title 10, United States Code (as adjusted pursuant to subsection (b)), shall not apply to—
 
 &emsp;"(1) acquisition personnel hired pursuant to the expedited hiring authority provided in section 1705(h) \[now 1705(g)\] of title 10, United States Code, as amended by section 833 of this Act, or otherwise hired with funds in the Department of Defense Acquisition Workforce Development Fund established in accordance with section 1705(a) of such title; or
 

@@ -4,13 +4,13 @@
 
 #### (1) Imposition of tax
 
-&emsp;There is hereby imposed for each taxable year on the unrelated business taxable income (as defined in section 512) of every organization described in paragraph (2) a tax computed as provided in section 11. In making such computation for purposes of this section, the term "taxable income" as used in section 11 shall be read as "unrelated business taxable income".
+&emsp;There is hereby imposed for each taxable year on the unrelated business taxable income\(as defined in section 512) of every organization described in paragraph (2) a tax computed as provided in section 11. In making such computation for purposes of this section, the term "taxable income" as used in section 11 shall be read as "unrelated business taxable income".
 
 #### (2) Organizations subject to tax
 
 #### (A) Organizations described in sections 401(a) and 501(c)
 
-&emsp;&emsp;The tax imposed by paragraph (1) shall apply in the case of any organization (other than a trust described in subsection (b) or an organization described in section 501(c)(1))which is exempt, except as provided in this part or part II (relating to private foundations), from taxation under this subtitle by reason of section 501(a).
+&emsp;&emsp;The tax imposed by paragraph (1) shall apply in the case of any organization (other than a trust described in subsection (b) or an organization described in section 501(c)(1)) which is exempt, except as provided in this part or part II (relating to private foundations), from taxation under this subtitle by reason of section 501(a).
 
 #### (B) State colleges and universities
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 301(b)(5)(A), (B) of Pub. L. 95–600 applicable to taxable years beginning after Dec.31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by section 301(b)(5)(A), (B) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
 Amendment by section 421(e)(3) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 421(g) of Pub. L. 95–600, set out as a note under section 5 of this title.
 

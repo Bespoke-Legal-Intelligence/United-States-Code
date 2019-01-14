@@ -58,7 +58,7 @@ For purposes of this section, funds or assets acquired by the United States shal
 
 Subsec. (e). Pub. L. 107–273 struck out heading and text of subsec. (e). Text read as follows:
 
-"(1) No person shall receive both an award under this section and a reward under either section 1831k of this title or section 3509A of title 18 for providing the same or substantially similar information.
+"(1) No person shall receive both an award under this section and a reward under either section 1831k of thistitle or section 3509A of title 18 for providing the same or substantially similar information.
 
 "(2) When a person qualifies for both an award under this section and a reward under either section 1831k of this title or section 3509A of title 18 for providing the same or substantially similar information, the person may notify the Attorney General in writing of the person's election to seek an award under this section or a reward under such other section."
 

@@ -70,7 +70,7 @@ Pub. L. 105–277, div. H, §1, Oct. 21, 1998, 112 Stat. 2681–854, provided th
 
 #### Short Title of 1997 Amendments
 
-Pub. L. 105–24, §1, July 3, 1997, 111 Stat. 238, provided that: "This Act \[amending sections 36 and 1831a of this title and enacting provisions set out as a note under section 1831a of this title\] may be cited as the 'Riegle-Neal Amendments Act of 1997'."
+Pub. L. 105–24, §1, July 3, 1997, 111 Stat. 238, provided that: "This Act \[amending sections 36 and 1831a of this title and enacting provisions set out as a note undersection 1831a of this title\] may be cited as the 'Riegle-Neal Amendments Act of 1997'."
 
 Pub. L. 105–18, title V, §50001, June 12, 1997, 111 Stat. 211, provided that: "This title \[enacting provisions set out as notes under this section and sections 1828, 1831o, and 4008 of this title\] may be cited as the 'Depository Institutions Disaster Relief Act of 1997'."
 
@@ -94,7 +94,7 @@ Pub. L. 102–485, §1, Oct. 23, 1992, 106 Stat. 2771, provided that: "This Act 
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–242, §1(a), Dec. 19, 1991, 105 Stat. 2236, as amended by Pub. L. 102–550, title XVI, §1601, Oct. 28,1992, 106 Stat. 4075, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Deposit Insurance Corporation Improvement Act of 1991'."
+Pub. L. 102–242, §1(a), Dec. 19, 1991, 105 Stat. 2236, as amended by Pub. L. 102–550, title XVI, §1601, Oct. 28, 1992, 106 Stat. 4075, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Deposit Insurance Corporation Improvement Act of 1991'."
 
 Pub. L. 102–242, title II, §231, Dec. 19, 1991, 105 Stat. 2308, provided that: "This subtitle \[subtitle C (§§231–234) of title II of Pub. L. 102–242, enacting sections 1834, 1834a, and 1834b of this title and amending section 1817 of this title\] may be cited as the 'Bank Enterprise Act of 1991'."
 
@@ -142,7 +142,7 @@ Pub. L. 106–102, title VII, §714, Nov. 12, 1999, 113 Stat. 1470, provided tha
 
 #### Construction of 1997 Amendment
 
-Pub. L. 105–18, title V, §50006, June 12, 1997, 111 Stat. 213, provided that: "No provision of this title \[see Short Title of 1997 Amendments note above\] shall be construed as limiting the authority of any department or agency under any other provision of law."
+Pub. L. 105–18, title V, §50006, June 12, 1997, 111 Stat. 213, provided that: "No provision of this title \[see ShortTitle of 1997 Amendments note above\] shall be construed as limiting the authority of any department or agency under any other provision of law."
 
 #### Construction of 1994 Amendment
 
@@ -488,7 +488,7 @@ Contents of the report.—Each report prepared pursuant to paragraph (1) shall i
 
 &emsp;"(3)
 
-Submission to congress.—The Board of Governors of the Federal Reserve System shall submit an annual report to the Congress not later than September 1, 1995, and not later than June 1 of each subsequent year.
+Submission to congress.—The Board of Governors of the Federal Reserve System shall submit anannual report to the Congress not later than September 1, 1995, and not later than June 1 of each subsequent year.
 
 #### "SEC. 1003. GENERAL ACCOUNTING OFFICE \[GOVERNMENT ACCOUNTABILITY OFFICE\] STUDY.
 
@@ -582,7 +582,7 @@ Consultation on Expanded Use.—The Secretary of the Treasury shall consult with
 
 "(b)
 
-Report to Congress.—The Secretary of the Treasury shall include, in the 1st annual report submitted to the Congress under section 331(a) of title 31, United States Code, after the completion of the consultation required by subsection (a), a report of the actions taken by the Secretary to increase the use of underutilized minority banks, women's banks, and limited income credit unions as depositaries or financial agents of Federal agencies.
+Report to Congress.—The Secretary of the Treasury shall include, in the 1st annual report submitted to the Congress under section 331(a) of title 31,United States Code, after the completion of the consultation required by subsection (a), a report of the actions taken by the Secretary to increase the use of underutilized minority banks, women's banks, and limited income credit unions as depositaries or financial agents of Federal agencies.
 
 "(c)
 
@@ -624,7 +624,7 @@ Pub. L. 101–73, title XII, §1207, Aug. 9, 1989, 103 Stat. 523, provided that:
 
 &emsp;"(1) whether, and to what extent, the issuance of securities by the United States Government in small denominations benefits small investors, increases the participation of small investors in United States Government securities offerings, and promotes savings and thrift by the average United States taxpayer; and
 
-&emsp;"(2) additional measures the Secretary recommends be taken to expand the availability of securities issued by the United States Government to benefit small investors, increase their participation in United States Government securities offerings, andto promote savings and thrift by the average United States taxpayer."
+&emsp;"(2) additional measures the Secretary recommends be taken to expand the availability of securities issued by the United States Government to benefit small investors, increase their participation in United States Government securities offerings, and to promote savings and thrift by the average United States taxpayer."
 
 #### Expenditure of Taxpayer Money Only for Deposit Insurance Purposes
 
@@ -694,7 +694,7 @@ Definitions.—For purposes of this section:
 
 Government-sponsored enterprise.—The term 'Government-sponsored enterprise' means—
 
-&emsp;&emsp;"(A) the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, the Farm Credit Banks, the Banks for Cooperatives, the Federal Agricultural Mortgage Corporation, the Student Loan Marketing Association, the College Construction Loan Insurance Association, and any of their affiliated or member institutions; and
+&emsp;&emsp;"(A) the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, theFederal Home Loan Bank System, the Farm Credit Banks, the Banks for Cooperatives, the Federal Agricultural Mortgage Corporation, the Student Loan Marketing Association, the College Construction Loan Insurance Association, and any of their affiliated or member institutions; and
 
 &emsp;&emsp;"(B) any other Government-sponsored enterprise, as designated by the Secretary.
 

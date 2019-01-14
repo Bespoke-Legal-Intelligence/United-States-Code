@@ -14,10 +14,13 @@
 | [5040\.](%C2%A7%2005040%20-%20Support.md) | Support. |
 | [5041\.](%C2%A7%2005041%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93473%2C%20title%20II%2C%20%C2%A7214%28b%29%2C%20Oct.%2012%2C%201984%2C%2098%20Stat.%202014.md) | Repealed. |
 | [5042\.](%C2%A7%2005042%20-%20Revocation%20of%20probation.md) | Revocation of probation. |
+| [5043\.](%C2%A7%2005043%20-%20Juvenile%20solitary%20confinement.md) | Juvenile solitary confinement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–391, title VI, §613(b), Dec. 21, 2018, 132 Stat. 5249, added item 5043.
 
 <b>1990</b>—Pub. L. 101–647, title XXXV, §3599H, Nov. 29, 1990, 104 Stat. 4932, substituted "probation" for "Probation" in item 5042.
 
@@ -28,6 +31,10 @@
 #### Change of Name
 
 Words "magistrate judge" substituted for "magistrate" in items 5033 and 5034 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### Repeals
+
+Section 513 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1138, cited as a credit in an amendment to this analysis, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
 
 
 ---
@@ -46,3 +53,4 @@ Words "magistrate judge" substituted for "magistrate" in items 5033 and 5034 pur
 - [&sect; 05040 - Support](%C2%A7%2005040%20-%20Support.md)
 - [&sect; 05041 - Repealed. Pub. L. 98&#8211;473, title II, &sect;214(b), Oct. 12, 1984, 98 Stat. 2014](%C2%A7%2005041%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93473%2C%20title%20II%2C%20%C2%A7214%28b%29%2C%20Oct.%2012%2C%201984%2C%2098%20Stat.%202014.md)
 - [&sect; 05042 - Revocation of probation](%C2%A7%2005042%20-%20Revocation%20of%20probation.md)
+- [&sect; 05043 - Juvenile solitary confinement](%C2%A7%2005043%20-%20Juvenile%20solitary%20confinement.md)

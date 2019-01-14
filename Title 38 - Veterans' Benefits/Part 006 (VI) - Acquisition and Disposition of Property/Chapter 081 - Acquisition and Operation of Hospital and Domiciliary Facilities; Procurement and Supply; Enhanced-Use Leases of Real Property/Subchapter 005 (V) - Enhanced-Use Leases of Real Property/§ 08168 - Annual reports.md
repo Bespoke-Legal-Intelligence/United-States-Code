@@ -2,7 +2,7 @@
 
 (a)
 
-Report on Administration of Leases.—(1) Not later than 120 days after the date of the enactment of the Honoring America's Veterans and Caring for Camp Lejeune Families Act of2012 and not less frequently than once each year thereafter, the Secretary shall submit to the congressional veterans' affairs committees, the Committees on Appropriations of the House of Representatives and the Senate, and the Committees on the Budget of the House of Representatives and the Senate a report on enhanced-use leases.
+Report on Administration of Leases.—(1) Not later than 120 days after the date of the enactment of the Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012 and not less frequently than once each year thereafter, the Secretary shall submit to the congressional veterans' affairs committees, the Committees on Appropriations of the House of Representatives and the Senate, and the Committees on the Budget of the House of Representatives and the Senate a report on enhanced-use leases.
 
 (2) Each report under paragraph (1) shall include the following:
 

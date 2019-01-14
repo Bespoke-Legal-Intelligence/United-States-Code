@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, the President is authorized to designate a country listed in section 107 of the African Growth and Opportunity Act \[19 U.S.C. 3706\] asa beneficiary sub-Saharan African country eligible for the benefits described in subsection (b)—
+&emsp;Notwithstanding any other provision of law, the President is authorized to designate a country listed in section 107 of the African Growth and Opportunity Act \[19 U.S.C. 3706\] as a beneficiary sub-Saharan African country eligible for the benefits described in subsection (b)—
 
 &emsp;&emsp;(A) if the President determines that the country meets the eligibility requirements set forth in section 104 of that Act \[19 U.S.C. 3703\], as such requirements are in effect on May 18, 2000; and
 

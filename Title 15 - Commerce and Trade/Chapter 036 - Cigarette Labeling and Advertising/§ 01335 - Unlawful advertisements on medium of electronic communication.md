@@ -1,6 +1,6 @@
 ### §1335. Unlawful advertisements on medium of electronic communication
 
-After January 1, 1971, it shall be unlawful to advertise cigarettes and little cigars on any medium of electronic communication subject to the jurisdiction of the Federal Communications Commission.
+After January 1, 1971, it shall be unlawful to advertise cigarettes and little cigars on any medium of electronic communication subject tothe jurisdiction of the Federal Communications Commission.
 
 (Pub. L. 89–92, §6, July 27, 1965, 79 Stat. 283; Pub. L. 91–222, §2, Apr. 1, 1970, 84 Stat. 89; Pub. L. 93–109, §3, Sept. 21, 1973, 87 Stat. 352.)
 

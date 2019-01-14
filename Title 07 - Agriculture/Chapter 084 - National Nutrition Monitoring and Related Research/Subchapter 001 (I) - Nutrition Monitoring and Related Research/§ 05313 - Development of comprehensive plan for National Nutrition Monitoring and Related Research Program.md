@@ -4,7 +4,7 @@
 
 The Secretaries, with the advice of the Board, shall prepare and implement a comprehensive plan for the coordinated program which shall be designed to—
 
-&emsp;(1) assess, collate data with respect to, analyze, and report, on a continuous basis, the dietary and nutritional status of the people of the United States, and the trends with respect to such status (dealing with such status and trends separately in the case of preschool and school-age children, pregnant and lactating women, elderly individuals, low-income populations, blacks, Hispanics, and other groups, at the discretion of the Secretaries), the state of the art with respect to nutrition monitoring and related research, future monitoring and related research priorities, and relevant policy implications of findings with respect to such status, trends, and research;
+&emsp;(1) assess, collate data with respect to, analyze, and report, on a continuous basis, the dietary and nutritional status of the people of the United States, and the trends with respect to such status (dealing with such status and trends separately in the case of preschool and school-age children, pregnant and lactatingwomen, elderly individuals, low-income populations, blacks, Hispanics, and other groups, at the discretion of the Secretaries), the state of the art with respect to nutrition monitoring and related research, future monitoring and related research priorities, and relevant policy implications of findings with respect to such status, trends, and research;
 
 &emsp;(2) sample representative subsets of identifiable low-income populations (such as Native Americans, Hispanics, or the homeless), and assess, analyze, and report, on a continuous basis, for a representative sample of the low-income population, food and household expenditures, participation in food assistance programs, and periods experienced when nutrition benefits are not sufficient to provide an adequate diet;
 
@@ -32,7 +32,7 @@ The comprehensive plan, at a minimum, shall include components to—
 
 &emsp;(6) improve the methodologies and technologies, including those suitable for use by States and localities, available for the assessment of nutritional and dietary status and trends;
 
-&emsp;(7) develop uniform standards and indicators for the assessment and monitoring of nutritional and dietary status, for relating food consumption patterns to nutritional andhealth status, and for use in the evaluation of Federal food and nutrition intervention programs;
+&emsp;(7) develop uniform standards and indicators for the assessment and monitoring of nutritional and dietary status, for relating food consumption patterns to nutritional and health status, and for use in the evaluation of Federal food and nutrition intervention programs;
 
 &emsp;(8) establish national baseline data and procedures for nutrition monitoring;
 

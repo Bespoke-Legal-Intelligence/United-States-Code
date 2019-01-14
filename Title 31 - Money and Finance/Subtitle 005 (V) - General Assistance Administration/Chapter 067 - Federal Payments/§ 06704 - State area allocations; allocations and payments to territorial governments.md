@@ -100,7 +100,7 @@ Allocation for Puerto Rico, Guam, American Samoa, and the Virgin Islands.—
 
 &emsp;(1)
 
-In general.—(A) For each payment period for which funds are available for allocation under this chapter, the Secretary shall allocate to each territorial government an amount equal to the product of 1 percent ofthe amount of funds available for allocation multiplied by the applicable territorial percentage.
+In general.—(A) For each payment period for which funds are available for allocation under this chapter, the Secretary shall allocate to each territorial government an amount equal to the product of 1 percent of the amount of funds available for allocation multiplied by the applicable territorial percentage.
 
 &emsp;(B) For the purposes of this paragraph, the applicable territorial percentage of a territory is equal to the quotient resulting from the division of the territorial population of such territory by the sum of the territorial population for all territories.
 

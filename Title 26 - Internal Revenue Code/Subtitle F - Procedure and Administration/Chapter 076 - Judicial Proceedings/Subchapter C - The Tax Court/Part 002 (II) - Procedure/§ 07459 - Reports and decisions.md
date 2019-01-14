@@ -10,7 +10,7 @@ It shall be the duty of the Tax Court and of each division to include in its rep
 
 #### (c) Date of decision
 
-A decision of the Tax Court (except a decision dismissing a proceeding for lack of jurisdiction) shall be held to be rendered upon the date that an order specifying the amount of the deficiency is entered in the records of the Tax Court or, inthe case of a declaratory judgment proceeding under part IV of this subchapter or under section 7428 or in the case of an action brought under section 6234, the date of the court's order entering the decision. If the Tax Court dismisses a proceeding for reasons other than lack of jurisdiction and is unable from the record to determine the amount of the deficiency determined by the Secretary, or if the Tax Court dismisses a proceeding for lack of jurisdiction, an order to that effect shall be entered in the records of the Tax Court, and the decision of the Tax Court shall be held to be rendered upon the date of such entry.
+A decision of the Tax Court (except a decision dismissing a proceeding for lack of jurisdiction) shall be held to be rendered upon the date that an order specifying the amount of the deficiency is entered in the records of the Tax Court or, in the case of a declaratory judgment proceeding under part IV of this subchapter or under section 7428 or in the case of an action brought under section 6234, the date of the court's order entering the decision. If the Tax Court dismisses a proceeding for reasons other than lack of jurisdiction and is unable from the record to determine the amount of the deficiency determined by the Secretary, or if the Tax Court dismisses a proceeding for lack of jurisdiction, an order to that effect shall be entered in the records of the Tax Court, and the decision of the Tax Court shall be held to be rendered upon the date of such entry.
 
 #### (d) Effect of decision dismissing petition
 
@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under section 6221 of this title.
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec.31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under section 6221 of this title.
 
 #### Effective Date of 1997 Amendment
 

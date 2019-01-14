@@ -6,7 +6,7 @@ Transportation With Intent To Engage in Criminal Sexual Activity.—A person who
 
 (b)
 
-Travel With Intent To Engage in Illicit Sexual Conduct.—A person who travels in interstate commerce or travels into the United States, or a United States citizen or an alien admitted for permanent residence in the United States who travels in foreign commerce, for the purpose of engaging in any illicit sexual conduct with another person shall be fined under this title or imprisoned not more than 30 years, or both.
+Travel With Intent To Engage in Illicit Sexual Conduct.—A person who travels in interstate commerce or travels into the United States, or a United States citizen or an alien admitted for permanent residence in the United States who travels in foreign commerce, with amotivating purpose of engaging in any illicit sexual conduct with another person shall be fined under this title or imprisoned not more than 30 years, or both.
 
 (c)
 
@@ -14,7 +14,7 @@ Engaging in Illicit Sexual Conduct in Foreign Places.—Any United States citize
 
 (d)
 
-Ancillary Offenses.—Whoever, for the purpose of commercial advantage or private financial gain, arranges, induces, procures, or facilitates the travel of a person knowing that such a person is traveling in interstate commerce or foreign commerce for the purpose of engaging in illicit sexual conduct shall be fined under this title, imprisoned not more than 30 years, or both.
+Ancillary Offenses.—Whoever, for the purpose of commercial advantage or private financial gain, arranges, induces, procures, or facilitates the travel of a person knowing that such a person is traveling in interstate commerce or foreign commerce with a motivating purpose of engaging in illicit sexual conduct shall be fined under this title, imprisoned not more than 30 years, or both.
 
 (e)
 
@@ -34,7 +34,7 @@ Definition.—As used in this section, the term "illicit sexual conduct" means�
 
 Defense.—In a prosecution under this section based on illicit sexual conduct as defined in subsection (f)(2), it is a defense, which the defendant must establish by clear and convincing evidence, that the defendant reasonably believed that the person with whom the defendant engaged in the commercial sex act had attained the age of 18 years.
 
-(June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 95–225, §3(a), Feb. 6, 1978, 92 Stat. 8; Pub. L. 99–628, §5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 103–322, title XVI, §160001(g), Sept. 13, 1994, 108 Stat. 2037; Pub. L. 104–71, §5, Dec. 23, 1995, 109 Stat. 774; Pub. L. 104–294, title VI, §§601(b)(4), 604(b)(33), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 105–314, title I, §103, Oct. 30, 1998, 112 Stat. 2976; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–21, title I, §§103(a)(2)(C), (b)(2)(B), 105, Apr. 30, 2003, 117 Stat. 652, 653; Pub. L. 109–248, title II, §204, July 27, 2006, 120 Stat. 613; Pub. L. 113–4, title XII, §1211(b), Mar. 7, 2013, 127 Stat. 142; Pub. L. 114–22, title I, §111, May 29, 2015, 129 Stat. 240.)
+(June 25, 1948, ch. 645, 62 Stat. 812; Pub. L. 95–225, §3(a), Feb. 6, 1978, 92 Stat. 8; Pub. L. 99–628, §5(b)(1), Nov. 7, 1986, 100 Stat. 3511; Pub. L. 103–322, title XVI, §160001(g), Sept. 13, 1994, 108 Stat. 2037; Pub. L. 104–71, §5, Dec. 23, 1995, 109 Stat. 774; Pub. L. 104–294, title VI, §§601(b)(4), 604(b)(33), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 105–314, title I, §103, Oct. 30, 1998, 112 Stat. 2976; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–21, title I, §§103(a)(2)(C), (b)(2)(B), 105, Apr. 30, 2003, 117 Stat. 652, 653; Pub. L. 109–248, title II, §204, July 27, 2006, 120 Stat. 613; Pub. L. 113–4, title XII, §1211(b), Mar. 7, 2013, 127 Stat. 142; Pub. L. 114–22, title I, §111, May 29, 2015, 129 Stat. 240; Pub. L. 115–392, §14, Dec. 21, 2018, 132 Stat. 5256.)
 
 #### Historical and Revision Notes
 
@@ -49,6 +49,10 @@ Words "Possession of the United States" were inserted twice. (See reviser's note
 Minor changes were made in phraseology.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–392, §14(1), substituted "with a motivating purpose" for "for the purpose".
+
+Subsec. (d). Pub. L. 115–392, §14(2), substituted "with a motivating purpose of engaging" for "for the purpose of engaging".
 
 <b>2015</b>—Subsec. (f). Pub. L. 114–22, §111(a), inserted a dash after "means", designated existing provisions containing designations (1) and (2) as pars. (1) and (2), and added par. (3).
 
@@ -90,7 +94,7 @@ Transportation With Intent To Engage in Criminal Sexual Activity.—A person who
 
 <b>1986</b>—Pub. L. 99–628 amended section generally, revising and restating as one paragraph provisions formerly contained in subsec. (a) and striking out subsec. (b) which provided definitions.
 
-<b>1978</b>—Pub. L. 95–225 substituted "Transportation of minors" for "Coercion or enticement of minor female" in section catchline, designated existing provision as subsec. (a), substituted provisions relating to conduct prohibiting the transportation of minors for provisions relating to conduct prohibiting the coercion or enticement of a minor female, and added subsec. (b).
+<b>1978</b>—Pub. L. 95–225 substituted "Transportation of minors" for "Coercion or enticement of minor female"in section catchline, designated existing provision as subsec. (a), substituted provisions relating to conduct prohibiting the transportation of minors for provisions relating to conduct prohibiting the coercion or enticement of a minor female, and added subsec. (b).
 
 #### Effective Date of 2002 Amendment
 

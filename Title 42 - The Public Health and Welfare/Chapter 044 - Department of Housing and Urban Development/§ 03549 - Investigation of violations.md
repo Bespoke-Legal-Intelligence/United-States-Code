@@ -6,11 +6,11 @@ Notwithstanding any other provision of law, on and after February 20, 2003, the 
 
 #### Codification
 
-Section was enacted as part of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 2003, and also as part of the Consolidated Appropriations Resolution, 2003, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
+Section was enacted as part of the Departments of Veterans Affairs and Housing and Urban Development,and Independent Agencies Appropriations Act, 2003, and also as part of the Consolidated Appropriations Resolution, 2003, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
 
 #### Duties of Chief Financial Officer
 
-Pub. L. 109–115, div. A, title III, Nov. 30, 2005, 119 Stat. 2457, which provided that the Chief Financial Officer establish control of and maintain adequate systems of accounting for appropriations and other available funds as required by 31 U.S.C. 1514, and further provided that, for purposes of funds control and Anti-Deficiency Act (31 U.S.C. 1341 et seq.) violation determinations, the point of obligation was to be the executed agreement or contract, with certain exceptions, and that the Chief Financial Officer was to appoint and train qualified personnel to conduct investigations, establish guidelines and timeframes for such investigations, prescriberequirements for final reports on violations, and prescribe procedures for conducting investigations of, and reporting on, Anti-Deficiency Act violations, was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 109–115, div. A, title III, Nov. 30, 2005, 119 Stat. 2457, which provided that the Chief Financial Officer establish control of and maintain adequate systems of accounting for appropriations and other available funds as required by 31 U.S.C. 1514, and further provided that, for purposes of funds control and Anti-Deficiency Act (31 U.S.C. 1341 et seq.) violation determinations, the point of obligation was to be the executed agreement or contract, with certain exceptions, and that the Chief Financial Officer was to appoint and train qualified personnel to conduct investigations, establish guidelines and timeframes for such investigations, prescribe requirements for final reports on violations, and prescribe procedures for conducting investigations of, and reporting on, Anti-Deficiency Act violations, was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 108–447, div. I, title II, Dec. 8, 2004, 118 Stat. 3312.
 

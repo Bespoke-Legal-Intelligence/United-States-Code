@@ -18,7 +18,7 @@ There are authorized to be appropriated to carry out the activities described in
 
 #### (c) Education of migratory children
 
-There are authorized to be appropriated to carry out the activities described in part C,$374,751,000 for each of fiscal years 2017 through 2020.
+There are authorized to be appropriated to carry out the activities described in part C, $374,751,000 for each of fiscal years 2017 through 2020.
 
 #### (d) Prevention and intervention programs for children and youth who are neglected, delinquent, or at-risk
 

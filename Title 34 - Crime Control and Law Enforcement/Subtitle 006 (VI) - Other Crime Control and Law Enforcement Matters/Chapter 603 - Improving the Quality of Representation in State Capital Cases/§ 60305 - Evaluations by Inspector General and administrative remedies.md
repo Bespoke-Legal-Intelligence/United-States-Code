@@ -34,7 +34,7 @@
 
 #### (3) Report to Congress
 
-&emsp;Not later than 90 days after the earlier of the implementation of a corrective action plan or the issuance of guidance under paragraph (2), the Attorney General shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate as to whether the State has taken corrective action and is in compliance with the terms and conditions of the grant.
+&emsp;Not later than 90 days after the earlier of the implementation of a corrective action planor the issuance of guidance under paragraph (2), the Attorney General shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate as to whether the State has taken corrective action and is in compliance with the terms and conditions of the grant.
 
 #### (c) Penalties for noncompliance
 
@@ -52,7 +52,7 @@ Not less than 2.5 percent of the funds appropriated to carry out this chapter fo
 
 #### (1) In general
 
-&emsp;In the case of a State that employs a statutory procedure described in section60301(e)(1)(C) of this title, if the Inspector General submits a determination under subsection (a)(3) that the State is not in substantial compliance with the requirements of the applicable State statute, then for the period beginning with the date on which that determination was submitted and ending on the date on which the Inspector General determines that the State is in substantial compliance with the requirements of that statute, the funds awarded under this chapter shall be allocated solely for the uses described in section 60301 of this title.
+&emsp;In the case of a State that employs a statutory procedure described in section 60301(e)(1)(C) of this title, if the Inspector General submits a determination under subsection (a)(3) that the State is not in substantial compliance with the requirements of the applicable State statute, then for the period beginning with the date on which that determination was submitted and ending on the date on which the Inspector General determines that the State is in substantial compliance with the requirements of that statute, the funds awarded under this chapter shall be allocated solely for the uses described in section 60301 of this title.
 
 #### (2) Rule of construction
 

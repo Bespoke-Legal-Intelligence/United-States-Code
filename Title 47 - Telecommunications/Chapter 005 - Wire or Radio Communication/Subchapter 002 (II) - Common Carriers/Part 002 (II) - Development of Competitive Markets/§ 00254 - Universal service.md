@@ -24,7 +24,7 @@ The Joint Board and the Commission shall base policies for the preservation and 
 
 #### (3) Access in rural and high cost areas
 
-&emsp;Consumers in all regions of the Nation, including low-income consumers and those in rural, insular, and high cost areas, should have access to telecommunications and information services, including interexchange services and advanced telecommunications and information services, that are reasonably comparable to those services provided in urban areas and that are available at rates that are reasonably comparable to rates charged for similar services in urban areas.
+&emsp;Consumers in all regions of the Nation, including low-income consumers and those in rural, insular, and high cost areas, should have access to telecommunications and information services, including interexchange services and advanced telecommunications and information services, that are reasonably comparable to those services provided in urban areas andthat are available at rates that are reasonably comparable to rates charged for similar services in urban areas.
 
 #### (4) Equitable and nondiscriminatory contributions
 
@@ -86,7 +86,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (A) Health care providers for rural areas
 
-&emsp;&emsp;A telecommunications carrier shall, upon receiving a bona fide request, provide telecommunications services which are necessary for the provision of health care services in a State, including instruction relating to such services, to any public or nonprofit health care provider that serves persons who reside in rural areas in that State at rates that are reasonably comparable to rates charged for similar services in urban areas in that State. A telecommunications carrier providing service under this paragraph shall be entitled to have an amount equal to the difference, if any, between the rates for services provided to health care providers for rural areas in a State and the rates for similar services provided to other customers in comparable rural areas in that State treated as a service obligation as a part of its obligation to participate in the mechanisms to preserve and advance universal service.
+&emsp;&emsp;A telecommunications carrier shall, upon receiving a bona fide request, provide telecommunications services which are necessary for the provision of health care services in a State, including instruction relating to such services, to any public or nonprofit health care provider that serves persons who reside in rural areas in that Stateat rates that are reasonably comparable to rates charged for similar services in urban areas in that State. A telecommunications carrier providing service under this paragraph shall be entitled to have an amount equal to the difference, if any, between the rates for services provided to health care providers for rural areas in a State and the rates for similar services provided to other customers in comparable rural areas in that State treated as a service obligation as a part of its obligation to participate in the mechanisms to preserve and advance universal service.
 
 #### (B) Educational providers and libraries
 
@@ -100,7 +100,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 &emsp;The Commission shall establish competitively neutral rules—
 
-&emsp;&emsp;(A) to enhance, to the extent technically feasible and economically reasonable, access to advanced telecommunications and information services for all public and nonprofitelementary and secondary school classrooms, health care providers, and libraries; and
+&emsp;&emsp;(A) to enhance, to the extent technically feasible and economically reasonable, access to advanced telecommunications and information services for all public and nonprofit elementary and secondary school classrooms, health care providers, and libraries; and
 
 &emsp;&emsp;(B) to define the circumstances under which a telecommunications carrier may be required to connect its network to such public institutional telecommunications users.
 
@@ -286,7 +286,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (II) Libraries without Internet safety policy and technology protection measures in place
 
-&emsp;&emsp;&emsp;&emsp;A library covered by clause (i) that does not have in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C)—
+&emsp;&emsp;&emsp;&emsp;A library covered by clause (i) that does not have in place an Internet safetypolicy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C)—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) for the first program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C); and
 
@@ -390,7 +390,7 @@ Nothing in this section shall affect the collection, distribution, or administra
 
 #### (k) Subsidy of competitive services prohibited
 
-A telecommunications carrier may not use services that are not competitive to subsidize services that are subject to competition. The Commission, with respect to interstate services, and the States, with respect to intrastate services, shall establish any necessary cost allocation rules, accounting safeguards, and guidelines to ensure that services included in the definitionof universal service bear no more than a reasonable share of the joint and common costs of facilities used to provide those services.
+A telecommunications carrier may not use services that are not competitive to subsidize services that are subject to competition. The Commission, with respect to interstate services, and the States, with respect to intrastate services, shall establish any necessary cost allocation rules, accounting safeguards, and guidelines to ensure that services included in the definition of universal service bear no more than a reasonable share of the joint and common costs of facilities used to provide those services.
 
 #### (l) Internet safety policy requirement for schools and libraries
 
@@ -438,7 +438,7 @@ This chapter, referred to in subsec. (b)(7), was in the original "this Act", mea
 
 The Library Services and Technology Act, referred to in subsec. (h)(4), is subtitle B (§§211–263) of title II of Pub. L. 94–462, as added by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295, which is classified generally to subchapter II (§9121 et seq.) of chapter 72 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of Title 20 and Tables.
 
-For the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, referred to in subsec. (h)(5)(E), (6)(E), as 120 days after Dec. 21, 2000, see §1(a)(4) \[div. B, title VII, §1721(h)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
+For the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, referred to in subsec. (h)(5)(E), (6)(E), as 120 days afterDec. 21, 2000, see §1(a)(4) \[div. B, title VII, §1721(h)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 
 The effective date of this subsection, referred to in subsec. (h)(5)(E), (6)(E), probably means the effective date of subsec. (h)(5) and (6) which is 120 days after Dec. 21, 2000, see §1(a)(4) \[div. B, title VII, §1721(h)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 
@@ -505,6 +505,42 @@ Pub. L. 114–182, title II, §202(b), June 22, 2016, 130 Stat. 512, provided th
 #### Separability
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: "If any provision of paragraph (5) or (6) of section 254(h) of the Communications Act of 1934 \[47 U.S.C. 254(h)\], as amended by this section, or the application thereof to any person or circumstance is held invalid, the remainder of such paragraph and the application of such paragraph to other persons or circumstances shall not be affected thereby."
+
+#### Methodology for Collection of Mobile Service Coverage Data
+
+Pub. L. 115–141, div. P, title V, §505, Mar. 23, 2018, 132 Stat. 1094, provided that:
+
+"(a)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'commercial mobile data service' has the meaning given the term in section 6001 of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1401);
+
+&emsp;"(2) the term 'commercial mobile service' has the meaning given the term in section 332(d) of the Communications Act of 1934 (47 U.S.C. 332(d));
+
+&emsp;"(3) the term 'coverage data' means, if commercial mobile service or commercial mobile data service is available, general information about the service, which may include available speed tiers, radio frequency signal levels, and network and performance characteristics; and
+
+&emsp;"(4) the term 'Universal Service program' means the universal service support mechanisms established under section 254 of the Communications Act of 1934 (47 U.S.C. 254) and the regulations issued under that section.
+
+"(b)
+
+Methodology Established.—Not later than 180 days after the conclusion of the Mobility Fund Phase II Auction, the Commission shall promulgate regulations to establish a methodology that shall apply to the collection of coverage data by the Commission \[Federal Communications Commission\] for the purposes of—
+
+&emsp;"(1) the Universal Service program; or
+
+&emsp;"(2) any other similar program.
+
+"(c)
+
+Requirements.—The methodology established under subsection (b) shall—
+
+&emsp;"(1) contain standard definitions for different available technologies such as 2G, 3G, 4G, and 4G LTE;
+
+&emsp;"(2) enhance the consistency and robustness of how the data are collected by different parties;
+
+&emsp;"(3) improve the validity and reliability of coverage data; and
+
+&emsp;"(4) increase the efficiency of coverage data collection."
 
 #### Disclaimers Regarding Internet Access and Privacy
 

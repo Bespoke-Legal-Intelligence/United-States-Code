@@ -138,7 +138,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 #### (7) Regulations
 
-&emsp;The Commission shall, by regulation, establish procedures requiring a formal response to all recommendations submitted to the Commission by the Investor Advocate, not later than 3 months after the date of such submission.
+&emsp;The Commission shall, by regulation, establish procedures requiring a formal response toall recommendations submitted to the Commission by the Investor Advocate, not later than 3 months after the date of such submission.
 
 #### (8) Ombudsman
 
@@ -168,7 +168,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 #### (1) Division of Trading and Markets
 
-&emsp;The Division of Trading and Markets of the Commission, or any successor organizationalunit, shall have a staff of examiners who shall—
+&emsp;The Division of Trading and Markets of the Commission, or any successor organizational unit, shall have a staff of examiners who shall—
 
 &emsp;&emsp;(A) perform compliance inspections and examinations of entities under the jurisdiction of that Division; and
 
@@ -250,7 +250,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 &emsp;&emsp;(B) identify areas in which small businesses and small business investors would benefit from changes in the regulations of the Commission or the rules of self-regulatory organizations;
 
-&emsp;&emsp;(C) identify problems that small businesses have with securing access to capital, including any unique challenges to minority-owned and women-owned small businesses;
+&emsp;&emsp;(C) identify problems that small businesses have with securing access to capital, including any unique challenges to minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters;
 
 &emsp;&emsp;(D) analyze the potential impact on small businesses and small business investors of—
 
@@ -284,7 +284,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 &emsp;&emsp;&emsp;(ii) information on steps that the Advocate for Small Business Capital Formation has taken during the reporting period to improve small business services and the responsiveness of the Commission and self-regulatory organizations to small business and small business investor concerns;
 
-&emsp;&emsp;&emsp;(iii) a summary of the most serious issues encountered by small businesses and small business investors, including any unique issues encountered by minority-owned and women-owned small businesses and their investors, during the reporting period;
+&emsp;&emsp;&emsp;(iii) a summary of the most serious issues encountered by small businesses and small business investors, including any unique issues encountered by minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters and their investors, during the reporting period;
 
 &emsp;&emsp;&emsp;(iv) an inventory of the items summarized under clause (iii) (including items summarized under such clause for any prior reporting period on which no action has been taken or that have not been resolved to the satisfaction of the Advocate for Small Business Capital Formation as of the beginning of the reporting period covered by the report) that includes—
 
@@ -294,7 +294,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 &emsp;&emsp;&emsp;&emsp;(III) for items on which no action has been taken, the reasons for inaction, and an identification of any official who is responsible for such action;
 
-&emsp;&emsp;&emsp;(v) recommendations for such changes to the regulations, guidance and orders of the Commission and such legislative actions as may be appropriate to resolve problems with the Commission and self-regulatory organizations encountered by small businesses and small business investors and to encourage small business capital formation; and
+&emsp;&emsp;&emsp;(v) recommendations for such changes to the regulations, guidance and orders of the Commission and such legislative actionsas may be appropriate to resolve problems with the Commission and self-regulatory organizations encountered by small businesses and small business investors and to encourage small business capital formation; and
 
 &emsp;&emsp;&emsp;(vi) any other information, as determined appropriate by the Advocate for Small Business Capital Formation.
 
@@ -318,13 +318,15 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 &emsp;Nothing in this subsection may be construed as replacing or reducing the responsibilities of the Investor Advocate with respect to small business investors.
 
-(June 6, 1934, ch. 404, title I, §4, 48 Stat. 885; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 86–619, §3, July 12, 1960, 74 Stat. 408; Pub. L. 86–771, Sept. 13, 1960, 74 Stat. 913; Pub. L. 88–426, title III, §305(20), Aug. 14, 1964, 78 Stat. 425; Pub. L. 98–38, §1, June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §307, Dec. 4, 1987, 101 Stat. 1254; Pub. L. 101–550, title I, §103, title II, §207, Nov. 15, 1990, 104 Stat. 2713, 2721; Pub. L. 104–290, title IV, §406, Oct. 11, 1996, 110 Stat. 3444; Pub. L. 105–353, title II, §203, Nov. 3, 1998, 112 Stat. 3234; Pub. L. 107–123, §8(d)(2), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 111–203, title IX, §§915, 919D, 965, 991(e)(1), July 21, 2010, 124 Stat. 1830, 1840, 1911, 1954; Pub. L. 114–284, §2(a), Dec. 16, 2016, 130 Stat. 1447.)
+(June 6, 1934, ch. 404, title I, §4, 48 Stat. 885; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 86–619, §3, July 12, 1960, 74 Stat. 408; Pub. L. 86–771, Sept. 13, 1960, 74 Stat. 913; Pub. L. 88–426, title III, §305(20), Aug. 14, 1964, 78 Stat. 425; Pub. L. 98–38, §1, June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §307, Dec. 4, 1987, 101 Stat. 1254; Pub. L. 101–550, title I, §103, title II, §207, Nov. 15, 1990, 104 Stat. 2713, 2721; Pub. L. 104–290, title IV, §406, Oct. 11, 1996, 110 Stat. 3444; Pub. L. 105–353, title II, §203, Nov. 3, 1998, 112 Stat. 3234; Pub. L. 107–123, §8(d)(2), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 111–203, title IX, §§915, 919D, 965, 991(e)(1), July 21, 2010, 124 Stat. 1830, 1840, 1911, 1954; Pub. L. 114–284, §2(a), Dec. 16, 2016, 130 Stat. 1447; Pub. L. 115–141, div. S, title IX, §902, Mar. 23, 2018, 132 Stat. 1143.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (g)(4)(D)(ii), and (j)(4)(D)(ii), was in the original "this title". SeeReferences in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a), (g)(4)(D)(ii), and (j)(4)(D)(ii), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (j)(4)(C), (6)(B)(iii). Pub. L. 115–141 substituted "minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters" for "minority-owned and women-owned small businesses".
 
 <b>2016</b>—Subsec. (j). Pub. L. 114–284 added subsec. (j).
 
@@ -420,7 +422,7 @@ The functions of the Commission with respect to choosing a Chairman from among t
 
 > To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 10 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Securities and Exchange Commission. My reasons fortransmitting this plan are stated in an accompanying general message.
+I transmit herewith Reorganization Plan No. 10 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Securities and Exchange Commission. My reasons for transmitting this plan are stated in an accompanying general message.
 
 After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 10 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 

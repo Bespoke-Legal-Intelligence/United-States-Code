@@ -10,7 +10,7 @@ Geothermal leases shall provide for—
 
 &emsp;&emsp;(B) not less than 2 and not more than 5 percent of the gross proceeds from the sale of electricity produced from such resources during each year after such 10-year period;
 
-&emsp;(2) a royalty on any byproduct that is a mineral specified in the first section of the Mineral Leasing Act (30 U.S.C. 181), and that is derived from production under the lease, at the rate of the royalty that applies under that Act\[30 U.S.C. 181 et seq.\] to production of the mineral under a lease under that Act; and
+&emsp;(2) a royalty on any byproduct that is a mineral specified in the first section of the Mineral Leasing Act (30 U.S.C. 181), and that is derived from production under the lease, at the rate of the royalty that applies under that Act \[30 U.S.C. 181 et seq.\] to production of the mineral under a lease under that Act; and
 
 &emsp;(3) payment in advance of an annual rental of not less than—
 

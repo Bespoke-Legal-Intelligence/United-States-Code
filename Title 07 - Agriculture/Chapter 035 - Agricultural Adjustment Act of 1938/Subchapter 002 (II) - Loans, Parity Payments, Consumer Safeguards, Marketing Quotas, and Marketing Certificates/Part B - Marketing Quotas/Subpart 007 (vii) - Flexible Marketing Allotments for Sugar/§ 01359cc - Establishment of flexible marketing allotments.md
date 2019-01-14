@@ -74,7 +74,7 @@ The overall allotment quantity for the crop year shall be allotted between—
 
 #### (f) Filling cane sugar allotments
 
-Except as provided in section 1359ee of this title, a State cane sugar allotment established under subsection (e) for a crop year may be filled only with sugar processed from sugarcane grown in the State covered by the allotment.
+Except as provided in section 1359ee of this title, a State cane sugar allotment establishedunder subsection (e) for a crop year may be filled only with sugar processed from sugarcane grown in the State covered by the allotment.
 
 #### (g) Adjustment of marketing allotments
 
@@ -104,7 +104,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 1359cc, act Feb. 16, 1938, ch. 30, title III, §359c, as added Pub. L. 101–624, title IX, §902, Nov.28, 1990, 104 Stat. 3481; amended Pub. L. 102–237, title I, §111(e), Dec. 13, 1991, 105 Stat. 1832, related to establishment of marketing allotments, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 1359cc, act Feb. 16, 1938, ch. 30, title III, §359c, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3481; amended Pub. L. 102–237, title I, §111(e), Dec. 13, 1991, 105 Stat. 1832, related to establishment of marketing allotments, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 #### Amendments
 

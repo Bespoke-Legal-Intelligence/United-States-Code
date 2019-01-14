@@ -22,7 +22,7 @@ Notwithstanding the provisions of section 1441 of this title, beginning with the
 
 Subsec. (b). Pub. L. 93–86, §1(8)(B), temporarily substituted "payments" for "certificates". See Effective and Termination Dates of 1970 and 1973 Amendment notes below.
 
-Subsec. (c). Pub. L. 93–228 substituted "(or of cotton, corn, grain sorghums, or barley planted in lieu of wheat)" for "(or other nonconserving crop planted instead of wheat)", in two places.
+Subsec. (c). Pub. L. 93–228 substituted "(or of cotton, corn, grain sorghums, or barley planted in lieu ofwheat)" for "(or other nonconserving crop planted instead of wheat)", in two places.
 
 Pub. L. 93–125 substituted "prevented from planting any portion" for "prevented from planting, any portion".
 

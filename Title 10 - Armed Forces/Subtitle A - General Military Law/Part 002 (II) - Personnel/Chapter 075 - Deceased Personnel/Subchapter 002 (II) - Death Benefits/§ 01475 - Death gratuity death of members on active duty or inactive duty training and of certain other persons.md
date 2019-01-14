@@ -74,7 +74,7 @@ The Military Selective Service Act, referred to in subsec. (a)(5)(B), is title I
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–81, div. A, title VI, §651(c), Dec. 31, 2011, 125 Stat. 1467, provided that: "The amendments madeby this section \[amending this section and sections 1478 and 1481 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 31, 2011\], and shall apply with respect to deaths that occur on or after that date."
+Pub. L. 112–81, div. A, title VI, §651(c), Dec. 31, 2011, 125 Stat. 1467, provided that: "The amendments made by this section \[amending this section and sections 1478 and 1481 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 31, 2011\], and shall apply with respect to deaths that occur on or after that date."
 
 #### Effective Date of 1986 Amendment
 
@@ -95,6 +95,10 @@ Authority vested by this chapter in "military departments", "the Secretary conce
 #### National Oceanic and Atmospheric Administration
 
 Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretary of Defense" to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
+
+#### Obligation of Defense Health Program Appropriations for Death Gratuity Payments
+
+Pub. L. 115–245, div. A, title VIII, §8136, Sept. 28, 2018, 132 Stat. 3030, provided that: "Amounts appropriated for 'Defense Health Program' in this Act \[div. A of Pub. L. 115–245\] and hereafter may be obligated to make death gratuity payments, as authorized in subchapter II of chapter 75 of title 10, United States Code, if no appropriation for 'Military Personnel' is available for obligation for such payments: <i>Provided</i>, That such obligations may subsequently be recorded against appropriations available for 'Military Personnel'."
 
 #### Improved Assistance for Gold Star Spouses and Other Dependents
 

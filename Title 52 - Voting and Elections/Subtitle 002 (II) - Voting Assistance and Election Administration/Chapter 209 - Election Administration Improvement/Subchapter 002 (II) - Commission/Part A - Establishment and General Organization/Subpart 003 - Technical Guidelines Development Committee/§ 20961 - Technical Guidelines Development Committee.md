@@ -12,7 +12,7 @@ There is hereby established the Technical Guidelines Development Committee (here
 
 #### (2) Deadline for initial set of recommendations
 
-&emsp;The Development Committee shall provide its first set of recommendations under thissection to the Executive Director of the Commission not later than 9 months after all of its members have been appointed.
+&emsp;The Development Committee shall provide its first set of recommendations under this section to the Executive Director of the Commission not later than 9 months after all of its members have been appointed.
 
 #### (c) Membership
 

@@ -14,7 +14,7 @@ Section was formerly classified to section 596 of Title 5 prior to the general r
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to the Secretary of Commerce, see Parts 1, 2, and 4 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+For assignment of certain emergency preparedness functions to the Secretary of Commerce, see Parts 1, 2,and 4 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Executive Order No. 12864
 
@@ -70,7 +70,7 @@ Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-\[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.\]
+\[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff,see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.\]
 
 #### Ex. Ord. No. 13731. Global Entrepreneurship
 
@@ -78,7 +78,7 @@ Ex. Ord. No. 13731, June 24, 2016, 81 F.R. 42221, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The American spirit of entrepreneurship is one of our most admired values around the world, and the United States has produced many of the world's most respected businesses and inspiring business creators. At a time when many societies confront extremism, unemployment, and slow economic growth,entrepreneurship holds out the promise of opportunity, prosperity, and security.
+Section 1. <i>Policy</i>. The American spirit of entrepreneurship is one of our most admired values around the world, and the United States has produced many of the world's most respected businesses and inspiring business creators. At a time when many societies confront extremism, unemployment, and slow economic growth, entrepreneurship holds out the promise of opportunity, prosperity, and security.
 
 It is in the national interest for the Federal Government to support innovation, global entrepreneurship, and the American private sector. Linking entrepreneurs with capital, new networks, and markets and providing skills and training will allow them to grow their businesses and positively impact their communities. It is also necessary that we help enable our global partners to invest in the tools and infrastructure that make this possible, including high-speed broadband; business incubators and accelerators; regional economic development programs and extension services; international people-to-people exchange programs; and the technical, export, and business assistance and mentoring that entrepreneurs need worldwide in order to drive economic growth and job creation.
 
@@ -126,7 +126,7 @@ Sec. 8. <i>Global Connect International Connectivity Steering Group</i>. (a) In 
 
 (ix) the Millennium Challenge Corporation;
 
-(x) the Overseas Private Investment Corporation;
+(x) the Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\];
 
 (xi) the Export-Import Bank of the United States; and
 

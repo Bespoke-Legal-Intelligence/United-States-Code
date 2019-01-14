@@ -2,7 +2,7 @@
 
 There is hereby authorized to be appropriated annually to the Department of State—
 
-&emsp;(a) such sums as may be necessary for the payments by the United States of its share of the expenses of the Organization, but not toexceed 25 per centum of such expenses, as apportioned by the International Labour Conference in accordance with article 13(2)(c) and 13(3) of the constitution of the Organization; and
+&emsp;(a) such sums as may be necessary for the payments by the United States of its share of the expenses of the Organization, but not to exceed 25 per centum of such expenses, as apportioned by the International Labour Conference in accordance with article 13(2)(c) and 13(3) of the constitution of the Organization; and
 
 &emsp;(b) such additional sums as may be necessary to pay the expenses incident to participation by the United States in the activities of the Organization, including—
 
@@ -28,7 +28,7 @@ In subsec. (b)(1), "section 6101 of title 41" substituted for "section 3709 of t
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–477 substituted provisions limiting appropriations to not more than 25 per centum of the expenses for provisions which authorized an appropriation of not more than $1,750,000 per annum for payment of expenses.
 
-<b>1950</b>—Subsec. (a). Joint Res. Sept. 21, 1950, §1(e)(1), (2), increased the authorized annual appropriation from $1,091,739 to $1,750,000, and changed the reference to the Organization's constitution from article 13(c) to article 13(2)(c) and 13(3).
+<b>1950</b>—Subsec. (a). Joint Res. Sept. 21, 1950, §1(e)(1), (2), increased the authorized annual appropriation from $1,091,739 to $1,750,000, and changed the reference to theOrganization's constitution from article 13(c) to article 13(2)(c) and 13(3).
 
 Subsec. (b). Joint Res. Sept. 21, 1950, §1(e)(3), struck out limitation of $95,000 on the authorized annual appropriation for expenses.
 

@@ -8,7 +8,7 @@
 
 #### (2) Third and fourth years of medical school
 
-&emsp;For purposes of paragraph (1), the amount of the loan may, in the case of the third or fourth year of a student at a school of medicine or osteopathic medicine, be increased to the extent necessary to pay the balances of loans that, from sources other than the student loan fundunder section 292q of this title, were made to the individual for attendance at the school. The authority to make such an increase is subject to the school and the student agreeing that such amount (as increased) will be expended to pay such balances.
+&emsp;For purposes of paragraph (1), the amount of the loan may, in the case of the third or fourth year of a student at a school of medicine or osteopathic medicine, be increased to the extent necessary to pay the balances of loans that, from sources other than the student loan fund under section 292q of this title, were made to the individual for attendance at the school. The authority to make such an increase is subject to the school and the student agreeing that such amount (as increased) will be expended to pay such balances.
 
 #### (b) Terms and conditions
 
@@ -64,7 +64,7 @@ Subject to regulations of the Secretary, a school may assess a charge with respe
 
 #### (i) Charge with respect to late payments
 
-Subject to regulations of the Secretary, and in accordance with this section, a school shall assess a charge with respect to a loan made under this subpart for failure of the borrower to pay all or any part of an installment when it is due and, in the case of a borrower who is entitled to deferment of the loan under subsection (c), for any failure to file timely and satisfactory evidence of such entitlement. No such charge may be made if the payment of such installment or the filing of such evidence is made within 60 days after the date on which such installment or filing is due. The amount of any such charge may not exceed an amount equal to 6 percent of the amount of such installment. The school may elect to add the amount of any such charge to the principal amount of the loan as of the first day after the day on which such installment or evidence was due, or to make the amount of the charge payable to the school not later than thedue date of the next installment after receipt by the borrower of notice of the assessment of the charge.
+Subject to regulations of the Secretary, and in accordance with this section, a school shall assess a charge with respect to a loan made under this subpart for failure of the borrower to pay all or any part of an installment when it is due and, in the case of a borrower who is entitled to deferment of the loan under subsection (c), for any failure to file timely and satisfactory evidence of such entitlement. No such charge may be made if the payment of such installment orthe filing of such evidence is made within 60 days after the date on which such installment or filing is due. The amount of any such charge may not exceed an amount equal to 6 percent of the amount of such installment. The school may elect to add the amount of any such charge to the principal amount of the loan as of the first day after the day on which such installment or evidence was due, or to make the amount of the charge payable to the school not later than the due date of the next installment after receipt by the borrower of notice of the assessment of the charge.
 
 #### (j) Authority of schools regarding rate of payment
 
@@ -122,13 +122,13 @@ Subsec. (j). Pub. L. 105–392, §134(a)(4), substituted "$40" for "$15".
 
 Subsec. (m). Pub. L. 105–392, §134(b)(1), added subsec. (m).
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–43, §2014(b)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "Loans from a student loan fund (established under an agreement with a school under section 292q of this title) may not exceed for any student for each school year (or its equivalent) the sum of—
+<b>1993</b>—Subsec. (a). Pub. L. 103–43, §2014(b)(1), amended heading and text of subsec. (a) generally. Prior toamendment, text read as follows: "Loans from a student loan fund (established under an agreement with a school under section 292q of this title) may not exceed for any student for each school year (or its equivalent) the sum of—
 
 &emsp;"(1) the cost of tuition for such year at such school, and
 
 &emsp;"(2) $2,500."
 
-Subsec. (b)(2), (3). Pub. L. 103–43, §2014(b)(2), redesignated par. (3) as (2) and struck out former par. (2),which read as follows: "who, if pursuing a full-time course of study at the school leading to a degree of doctor of medicine or doctor of osteopathy, is of exceptional financial need (as defined by regulations of the Secretary); and".
+Subsec. (b)(2), (3). Pub. L. 103–43, §2014(b)(2), redesignated par. (3) as (2) and struck out former par. (2), which read as follows: "who, if pursuing a full-time course of study at the school leading to a degree of doctor of medicine or doctor of osteopathy, is of exceptional financial need (as defined by regulations of the Secretary); and".
 
 #### Effective Date of 1998 Amendment
 

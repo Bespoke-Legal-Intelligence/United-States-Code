@@ -13,3 +13,4 @@
 - [&sect; 05605 - Independence of authorities](%C2%A7%2005605%20-%20Independence%20of%20authorities.md)
 - [&sect; 05606 - Implementation of commitments under Uruguay Round Agreements](%C2%A7%2005606%20-%20Implementation%20of%20commitments%20under%20Uruguay%20Round%20Agreements.md)
 - [&sect; 05607 - Exporter assistance initiative](%C2%A7%2005607%20-%20Exporter%20assistance%20initiative.md)
+- [&sect; 05608 - Foreign trade missions](%C2%A7%2005608%20-%20Foreign%20trade%20missions.md)

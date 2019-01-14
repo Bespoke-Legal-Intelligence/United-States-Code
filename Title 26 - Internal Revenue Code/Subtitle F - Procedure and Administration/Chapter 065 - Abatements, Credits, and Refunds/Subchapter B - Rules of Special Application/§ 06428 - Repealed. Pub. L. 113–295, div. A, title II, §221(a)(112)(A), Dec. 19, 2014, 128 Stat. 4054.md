@@ -88,7 +88,7 @@ Possession of the united states.—For purposes of this subsection, the term 'po
 
 &emsp;&emsp;"(B)
 
-Mirror code tax system.—For purposes of this subsection, the term 'mirror code tax system' means, with respect to any possession of the United States, the income tax system of such possession ifthe income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
+Mirror code tax system.—For purposes of this subsection, the term 'mirror code tax system' means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
 
 &emsp;&emsp;"(C)
 

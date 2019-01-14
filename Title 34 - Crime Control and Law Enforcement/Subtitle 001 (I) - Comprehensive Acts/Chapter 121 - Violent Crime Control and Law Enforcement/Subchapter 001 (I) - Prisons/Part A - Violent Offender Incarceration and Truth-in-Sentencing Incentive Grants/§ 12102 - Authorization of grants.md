@@ -16,7 +16,7 @@ The Attorney General shall provide Violent Offender Incarceration grants under s
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), States may enter into regional compacts to carry out this part.Such compacts shall be treated as States under this part.
+&emsp;Subject to paragraph (2), States may enter into regional compacts to carry out this part. Such compacts shall be treated as States under this part.
 
 #### (2) Requirement
 

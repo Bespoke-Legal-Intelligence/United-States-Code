@@ -6,7 +6,7 @@ In the Senate, no bill, resolution, amendment, motion, or conference report, dea
 
 #### (b) In the House of Representatives
 
-In the House of Representatives, no bill or joint resolution, or amendment thereto, or conference report thereon, dealing with any matter which is within the jurisdiction of the Committee on the Budget shall be considered unless it isa bill or joint resolution which has been reported by the Committee on the Budget (or from the consideration of which such committee has been discharged) or unless it is an amendment to such a bill or joint resolution.
+In the House of Representatives, no bill or joint resolution, or amendment thereto, or conference report thereon, dealing with any matter which is within the jurisdiction of the Committee on the Budget shall be considered unless it is a bill or joint resolution which has been reported by the Committee on the Budget (or from the consideration of which such committee has been discharged) or unless it is an amendment to such a bill or joint resolution.
 
 (Pub. L. 93–344, title III, §306, July 12, 1974, 88 Stat. 313; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1050; Pub. L. 101–508, title XIII, §13207(a)(1)(D), Nov. 5, 1990, 104 Stat. 1388–617; Pub. L. 113–67, div. A, title I, §122(7), Dec. 26, 2013, 127 Stat. 1175.)
 

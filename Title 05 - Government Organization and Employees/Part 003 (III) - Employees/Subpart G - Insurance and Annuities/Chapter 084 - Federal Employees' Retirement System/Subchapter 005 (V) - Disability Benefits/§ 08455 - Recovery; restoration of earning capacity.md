@@ -4,7 +4,7 @@
 
 (2) If an annuitant receiving a disability annuity from the Fund, before becoming 60 years of age, is restored to an earning capacity fairly comparable to the current rate of pay of the position occupied at the time of retirement, payment of the annuity terminates 180 days after the end of the calendar year in which earning capacity is so restored. Earning capacity is deemed restored if in any calendar year the income of the annuitant from wages or self-employment or both equals at least 80 percent of the current rate of pay of the position occupied immediately before retirement.
 
-(b)(1) If an annuitant whose annuity is terminated under subsection (a) is not reemployed in a position in which that individual is subject to this chapter, such individual is deemed, except for service credit, to have been involuntarily separated from the service for the purpose of subchapter II of this chapter as of the date of termination of the disability annuity, and after that termination is entitled to annuity under the applicable provisions of such subchapter.
+(b)(1) If an annuitant whose annuity is terminated under subsection (a) is not reemployed ina position in which that individual is subject to this chapter, such individual is deemed, except for service credit, to have been involuntarily separated from the service for the purpose of subchapter II of this chapter as of the date of termination of the disability annuity, and after that termination is entitled to annuity under the applicable provisions of such subchapter.
 
 (2) If an annuitant whose annuity is terminated under subsection (a)(2)—
 

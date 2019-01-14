@@ -60,7 +60,7 @@ In general.—Subject to the authority, direction, and control of the head of th
 
 &emsp;(2)
 
-Limitation on delegation.—The authority to review and approve or disapprove regulations under paragraph (1)(A) may not be delegated to an individual outside the office ofthe official who represents the agency on the Council pursuant to section 1302(b) of this title.
+Limitation on delegation.—The authority to review and approve or disapprove regulations under paragraph (1)(A) may not be delegated to an individual outside the office of the official who represents the agency on the Council pursuant to section 1302(b) of this title.
 
 (c)
 

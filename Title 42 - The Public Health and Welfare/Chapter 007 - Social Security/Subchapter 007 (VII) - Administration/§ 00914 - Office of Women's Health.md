@@ -14,13 +14,13 @@ The Director of the Office shall—
 
 &emsp;(3) identify projects in women's health that should be conducted or supported by the bureaus of the Administration;
 
-&emsp;(4) consult with health professionals, nongovernmental organizations, consumer organizations, women's health professionals, and other individuals and groups, as appropriate, on Administration policy with regard to women; and
+&emsp;(4) consult with health professionals, nongovernmental organizations, consumer organizations, women's health professionals, and other individuals and groups, as appropriate,on Administration policy with regard to women; and
 
 &emsp;(5) serve as a member of the Department of Health and Human Services Coordinating Committee on Women's Health (established under section 237a(b)(4) of this title).
 
 #### (c) Continued administration of existing programs
 
-The Director of the Office shall assume the authority for the development, implementation,administration, and evaluation of any projects carried out through the Health Resources and Services Administration relating to women's health on March 23, 2010.
+The Director of the Office shall assume the authority for the development, implementation, administration, and evaluation of any projects carried out through the Health Resources and Services Administration relating to women's health on March 23, 2010.
 
 #### (d) Definitions
 

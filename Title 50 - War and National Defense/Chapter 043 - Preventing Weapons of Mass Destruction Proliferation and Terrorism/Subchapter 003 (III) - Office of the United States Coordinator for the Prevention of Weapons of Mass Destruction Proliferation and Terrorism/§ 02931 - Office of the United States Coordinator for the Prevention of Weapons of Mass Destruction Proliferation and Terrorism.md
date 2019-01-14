@@ -54,7 +54,7 @@ The responsibilities of the Coordinator shall include the following:
 
 &emsp;&emsp;(F) plans to coordinate United States activities, initiatives, and programs relating to the prevention of WMD proliferation and terrorism, including those of the Department of Energy, the Department of Defense, the Department of State, and the Department of Homeland Security, and including the Proliferation Security Initiative, the G–8 Global Partnership Against the Spread of Weapons and Materials of Mass Destruction, United Nations Security Council Resolution 1540, and the Global Initiative to Combat Nuclear Terrorism;
 
-&emsp;&emsp;(G) plans to strengthen United States commitments to international regimes and significantly improve cooperation with other countries relating to the prevention of WMD proliferation and terrorism, with particular emphasis on work with the international community to develop laws and an international legal regime with universal jurisdiction to enable any state in the world to interdict and prosecute smugglers of WMD material, as recommended by the 9/11 Commission; and
+&emsp;&emsp;(G) plans to strengthen United States commitments to international regimes and significantly improve cooperation with other countries relating to the prevention of WMD proliferation and terrorism, with particular emphasis on work with the internationalcommunity to develop laws and an international legal regime with universal jurisdiction to enable any state in the world to interdict and prosecute smugglers of WMD material, as recommended by the 9/11 Commission; and
 
 &emsp;&emsp;(H) identification of actions necessary to implement the recommendations of the Commission on the Prevention of Weapons of Mass Destruction Proliferation and Terrorism established under subtitle E of this title.<sup>1</sup>
 
@@ -92,7 +92,7 @@ For fiscal year 2009 and each fiscal year thereafter, the Coordinator shall subm
 
 Subtitle E of this title, referred to in subsecs. (c)(2)(H) and (e), is subtitle E (§§1851–1859) of title XVIII of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 501, which is not classified to the Code.
 
-This chapter, referred to in subsec. (d)(1), was in the original "this title", meaning title XVIII of Pub. L.110–53, which enacted this chapter, amended section 3021 of this title and sections 5952 and 5963 of Title 22, Foreign Relations and Intercourse, and amended provisions set out as notes under sections 2551 and 5952 of Title 22. For complete classification of title XVIII to the Code, see Tables.
+This chapter, referred to in subsec. (d)(1), was in the original "this title", meaning title XVIII of Pub. L. 110–53, which enacted this chapter, amended section 3021 of this title and sections 5952 and 5963 of Title 22, Foreign Relations and Intercourse, and amended provisions set out as notes under sections 2551 and 5952 of Title 22. For complete classification of title XVIII to the Code, see Tables.
 
 #### Codification
 

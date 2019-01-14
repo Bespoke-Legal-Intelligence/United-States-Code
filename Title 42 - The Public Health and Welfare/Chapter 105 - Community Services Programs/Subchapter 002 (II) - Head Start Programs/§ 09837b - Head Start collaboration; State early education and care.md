@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(i) enhance collaboration and coordination of Head Start services by Head Start agencies with other entities providing early childhood education and development (such as child care or services offered by museums), health care, mental health care, welfare, child protective services, education and community service activities, family literacy services, reading readiness programs (including such programs offered by public and school libraries), services relating to children with disabilities, other early childhood education and development for limited English proficient children and homeless children, and services provided for children in foster care and children referred to Head Start programs by child welfare agencies, including agencies and State officials responsible for services described in this clause;
 
-&emsp;&emsp;(ii) assist Head Start agencies to develop a plan for the provision of full working-day,full calendar year services for children enrolled in Head Start programs who need such services;
+&emsp;&emsp;(ii) assist Head Start agencies to develop a plan for the provision of full working-day, full calendar year services for children enrolled in Head Start programs who need such services;
 
 &emsp;&emsp;(iii) assist Head Start agencies to align curricula and assessments used in Head Start programs with the Head Start Child Outcomes Framework and, as appropriate, State early learning standards;
 
@@ -104,7 +104,7 @@
 
 &emsp;(VII) make recommendations for improvements in State early learning standards and undertake efforts to develop high-quality comprehensive early learning standards, as appropriate.
 
-(ii) The State Advisory Council shall hold public hearings and provide an opportunity for public comment on the activities described in clause (i). The State Advisory Council shall submit a statewide strategic report addressing the activities described in clause (i) to the State Director of Head Start Collaboration and the Governor of the State.
+(ii) The State Advisory Council shall hold public hearings and provide an opportunity for public comment on the activities described inclause (i). The State Advisory Council shall submit a statewide strategic report addressing the activities described in clause (i) to the State Director of Head Start Collaboration and the Governor of the State.
 
 (iii) After submission of a statewide strategic report under clause (ii), the State Advisory Council shall meet periodically to review any implementation of the recommendations in such report and any changes in State and local needs.
 

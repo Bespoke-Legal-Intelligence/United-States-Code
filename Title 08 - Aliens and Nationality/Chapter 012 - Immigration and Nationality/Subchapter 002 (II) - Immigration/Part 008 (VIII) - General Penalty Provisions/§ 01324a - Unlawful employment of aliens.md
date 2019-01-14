@@ -154,7 +154,7 @@ The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) are,
 
 #### (C) Exception for pattern or practice violators
 
-&emsp;&emsp;Subparagraph (A) shall not apply to a person or entity that has or is engaging in apattern or practice of violations of subsection (a)(1)(A) or (a)(2).
+&emsp;&emsp;Subparagraph (A) shall not apply to a person or entity that has or is engaging in a pattern or practice of violations of subsection (a)(1)(A) or (a)(2).
 
 #### (c) No authorization of national identification cards
 
@@ -248,7 +248,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (E) General revenue funding of social security card changes
 
-&emsp;&emsp;Any costs incurred in developing and implementing any change described in subparagraph (D)(iii) for purposes of this subsection shall not be paid for out of any trust fund established under the Social Security Act \[42 U.S.C. 301 et seq.\].
+&emsp;&emsp;Any costs incurred in developing and implementing any change described in subparagraph (D)(iii) for purposes of this subsectionshall not be paid for out of any trust fund established under the Social Security Act \[42 U.S.C. 301 et seq.\].
 
 #### (4) Demonstration projects
 
@@ -298,7 +298,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (C) Issuance of orders
 
-&emsp;&emsp;If the administrative law judge determines, upon the preponderance of the evidence received, that a person or entity named in the complaint has violated subsection (a) or (g)(1), the administrative law judge shall state his findings of fact and issue and cause to be served on such personor entity an order described in paragraph (4), (5), or (6).
+&emsp;&emsp;If the administrative law judge determines, upon the preponderance of the evidence received, that a person or entity named in the complaint has violated subsection (a) or (g)(1), the administrative law judge shall state his findings of fact and issue and cause to be served on such person or entity an order described in paragraph (4), (5), or (6).
 
 #### (4) Cease and desist order with civil money penalty for hiring, recruiting, and referral violations
 
@@ -354,7 +354,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (1) Prohibition
 
-&emsp;It is unlawful for a person or other entity, in the hiring, recruiting, or referring for employment of any individual, to require the individual to post a bond or security, to pay or agree to pay an amount, or otherwise to provide a financial guarantee or indemnity, against any potential liability arising under this sectionrelating to such hiring, recruiting, or referring of the individual.
+&emsp;It is unlawful for a person or other entity, in the hiring, recruiting, or referring for employment of any individual, to require the individual to post a bond or security, to pay or agree to pay an amount, or otherwise to provide a financial guarantee or indemnity, against any potential liability arising under this section relating to such hiring, recruiting, or referring of the individual.
 
 #### (2) Civil penalty
 
@@ -374,7 +374,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;As used in this section, the term "unauthorized alien" means, with respect to the employment of an alien at a particular time, that the alien is not at that time either (A) an alien lawfully admitted for permanent residence, or (B) authorized to be so employed by this chapter or by the Attorney General.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §274A, as added Pub. L. 99–603, title I, §101(a)(1), Nov. 6, 1986, 100 Stat. 3360; amended Pub. L. 100–525, §2(a)(1), Oct. 24, 1988, 102 Stat. 2609; Pub. L. 101–649, title V, §§521(a), 538(a), Nov. 29, 1990, 104 Stat. 5053, 5056; Pub. L. 102–232, title III, §§306(b)(2), 309(b)(11), Dec. 12, 1991, 105 Stat. 1752, 1759; Pub. L. 103–416, title II, §§213, 219(z)(4), Oct. 25, 1994, 108 Stat. 4314, 4318; Pub. L. 104–208, div. C, title III, §379(a), title IV, §§411(a), 412(a)–(d), 416, Sept. 30, 1996, 110 Stat. 3009–649, 3009–666 to 3009–669; Pub. L. 108–390, §1(a), Oct. 30, 2004, 118 Stat. 2242.)
+(June 27, 1952, ch. 477, title II, ch. 8, §274A, as added Pub. L. 99–603, title I, §101(a)(1), Nov. 6, 1986, 100 Stat. 3360; amended Pub. L. 100–525,§2(a)(1), Oct. 24, 1988, 102 Stat. 2609; Pub. L. 101–649, title V, §§521(a), 538(a), Nov. 29, 1990, 104 Stat. 5053, 5056; Pub. L. 102–232, title III, §§306(b)(2), 309(b)(11), Dec. 12, 1991, 105 Stat. 1752, 1759; Pub. L. 103–416, title II, §§213, 219(z)(4), Oct. 25, 1994, 108 Stat. 4314, 4318; Pub. L. 104–208, div. C, title III, §379(a), title IV, §§411(a), 412(a)–(d), 416, Sept. 30, 1996, 110 Stat. 3009–649, 3009–666 to 3009–669; Pub. L. 108–390, §1(a), Oct. 30, 2004, 118 Stat. 2242.)
 
 #### References in Text
 
@@ -452,7 +452,7 @@ Subsec. (j)(2). Pub. L. 100–525, §2(a)(1)(H), substituted "this section" for 
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–390, §1(b), Oct. 30, 2004, 118 Stat. 2242, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the earlier of—
+Pub. L. 108–390, §1(b), Oct. 30, 2004, 118 Stat. 2242, provided that: "The amendments made by subsection (a)\[amending this section\] shall take effect on the earlier of—
 
 &emsp;"(1) the date on which final regulations implementing such amendments take effect; or
 
@@ -504,24 +504,6 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Delegation of Authority
 
-Memorandum of President of the United States, Feb. 10, 1992, 57 F.R. 24345, provided:
-
-Memorandum for the Secretary of Health and Human Services
-
-Section 205(c)(2)(F) of the Social Security Act (section 405(c)(2)(F) of title 42 of the United States Code) directs the Secretary of Health and Human Services to issue Social Security number cards to individuals who are assigned Social Security numbers.
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 274A(d)(3)(A) of the Immigration and Nationality Act (the "Act") (section 1324a(d)(3)(A) of title 8 of the United States Code) and section 301 of title 3 of the United States Code, and in order to provide for the delegation of certain functions under the Act \[8 U.S.C. 1101 et seq.\], I hereby:
-
-(1) Authorize you to prepare and transmit, to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives and to the Committee on the Judiciary and the Committee on Finance of the Senate, a written report regarding the substance of any proposed change in Social Security number cards, to the extent required by section 274A(d)(3)(A) of the Act, and
-
-(2) Authorize you to cause to have printed in the Federal Register the substance of any change in the Social Security number card so proposed and reported to the designated congressional committees, to the extent required by section 274A(d)(3)(A) of the Act.
-
-The authority delegated by this memorandum may be further redelegated within the Department of Health and Human Services.
-
-You are hereby authorized and directed to publish this memorandum in the Federal Register.
-
-George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 Authority of President under subsec. (d)(4) of this section to undertake demonstration projects of different changes in requirements of employment verification system delegated to Attorney General by section 2 of Ex. Ord. No. 12781, Nov. 20, 1991, 56 F.R. 59203, set out as a note under section 301 of Title 3, The President.
 
 #### Pilot Programs for Employment Eligibility Confirmation
@@ -566,7 +548,7 @@ References to section 274a.—Any reference in this subtitle to section 274A (or
 
 &emsp;"(4) I–9
 
-or similar form.—The term 'I–9 or similar form' means the form used for purposes of section 274A(b)(1)(A) or such other form as the Secretary of Homeland Security determines to be appropriate.
+or similar form.—The term 'I–9 or similar form' means the form used for purposes of section274A(b)(1)(A) or such other form as the Secretary of Homeland Security determines to be appropriate.
 
 &emsp;"(5)
 
@@ -738,7 +720,7 @@ Limitation of requirement to examine documentation.—If the Secretary of Homela
 
 &emsp;&emsp;&emsp;"(ii) the individual is claiming the identity of another person,
 
-&nbsp;&nbsp;if a person or entity could fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a documentspecified in either subparagraph (B) or (D) of such section, the Secretary of Homeland Security may provide that, for purposes of such requirement, only such a document need be examined. In such case, any reference in section 274A(b)(1)(A) to a verification that an individual is not an unauthorized alien shall be deemed to be a verification of the individual's identity.
+&nbsp;&nbsp;if a person or entity could fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B) or (D) of such section, the Secretary of Homeland Security may provide that, for purposes of such requirement, only such a document need be examined. In such case, any reference in section 274A(b)(1)(A) to a verification that an individual is not an unauthorized alien shall be deemed to be a verification of the individual's identity.
 
 &emsp;"(3)
 
@@ -946,6 +928,8 @@ Report on Expansion.—Not later than June 1, 2004, the Secretary of Homeland Se
 
 &emsp;"(2) describing what actions the Secretary of Homeland Security shall take before undertaking the expansion of the E-Verify Program to all 50 States in accordance with section 401(c)(1), in order to resolve any outstanding problems raised in the report filed under subsection (a)."
 
+\[Pub. L. 115–141, div. M, title II, §201, Mar. 23, 2018, 132 Stat. 1049, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2018' for 'September 30, 2015'."\]
+
 \[Pub. L. 115–31, div. F, title V, §539, May 5, 2017, 131 Stat. 432, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2017' for 'September 30, 2015'."\]
 
 \[Pub. L. 114–113, div. F, title V, §572, Dec. 18, 2015, 129 Stat. 2525, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2016' for the date specified in section 106(3) of the Continuing Appropriations Act, 2016 (Public Law 114–53) \[Dec. 11, 2015, which had been substituted as applied by Pub. L. 114–53, div. B, §130, Sept. 30, 2015, 129 Stat. 509\]."\]
@@ -1014,7 +998,7 @@ Pub. L. 99–603, title I, §101(e), Nov. 6, 1986, 100 Stat. 3373, provided that
 
 #### Reports on Unauthorized Alien Employment
 
-Pub. L. 99–603, title IV, §402, Nov. 6, 1986, 100 Stat. 3441, provided that: "The President shall transmit to Congress annual reports on the implementation of section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\] (relating to unlawful employment of aliens) during the first three years after its implementation. Each report shall include—
+Pub. L. 99–603, title IV, §402, Nov. 6, 1986, 100 Stat. 3441, provided that: "The President shall transmit to Congress annual reports on the implementation of section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\] (relating to unlawful employment ofaliens) during the first three years after its implementation. Each report shall include—
 
 &emsp;"(1) an analysis of the adequacy of the employment verification system provided under subsection (b) of that section;
 
@@ -1038,7 +1022,7 @@ This order is designed to promote economy and efficiency in Federal Government p
 
 Contractors that adopt rigorous employment eligibility confirmation policies are much less likely to face immigration enforcement actions, because they are less likely to employ unauthorized workers, and they are therefore generally more efficient and dependable procurement sources than contractors that do not employ the best available measures to verify the work eligibility of their workforce. It is the policy of the executive branch to use an electronic employment verification system because, among other reasons, it provides the best available means to confirm the identity and work eligibility of all employees that join the Federal workforce. Private employers that choose to contract with the Federal Government should meet the same standard.
 
-I find, therefore, that adherence to the general policy of contracting only with providers that do not knowingly employ unauthorized alien workers and that have agreed to utilize an electronic employment verificationsystem designated by the Secretary of Homeland Security to confirm the employment eligibility of their workforce will promote economy and efficiency in Federal procurement.
+I find, therefore, that adherence to the general policy of contracting only with providers that do not knowingly employ unauthorized alien workers and that have agreed to utilize an electronic employment verification system designated by the Secretary of Homeland Security to confirm the employment eligibility of their workforce will promote economy and efficiency in Federal procurement.
 
 NOW, THEREFORE, to ensure the economical and efficient administration and completion of Federal Government contracts, and by the authority vested in me as President by the Constitution and the laws of the United States of America, including subsection 121(a) of title 40 and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -1064,7 +1048,7 @@ Sec. 4. (a) Whenever the Secretary of Homeland Security or the Attorney General 
 
 (c) The scope of the debarment generally should be limited to those organizational units of a Federal contractor that the Secretary of Homeland Security or the Attorney General finds are not in compliance with the INA employment provisions.
 
-(d) The period of the debarment shall be for 1 year and may be extended for additional periods of 1 year if, using the procedures established pursuant to 8 U.S.C. 1324a(e), the Secretary of Homeland Security or the Attorney General determines that the organizational unit of the Federal contractor continues to be in violation of the INA employment provisions.
+(d) The period of the debarment shall be for 1 year and may be extended for additional periods of 1 year if,using the procedures established pursuant to 8 U.S.C. 1324a(e), the Secretary of Homeland Security or the Attorney General determines that the organizational unit of the Federal contractor continues to be in violation of the INA employment provisions.
 
 (e) The Administrator of General Services shall list a debarred contractor or an organizational unit thereof on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs and the contractor or an organizational unit thereof shall be ineligible to participate in any procurement or nonprocurement activities.
 
@@ -1105,6 +1089,26 @@ Sec. 9. (a) Nothing in this order shall be construed to impair or otherwise affe
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies or entities, its officers, employees, or agents, or any other person.
+
+#### Delegation of Authority To Report to the Congress and To Publish in the Federal Register Proposed Changes in the Social Security Number Card
+
+Memorandum of President of the United States, Feb. 10, 1992, 57 F.R. 24345, provided:
+
+Memorandum for the Secretary of Health and Human Services
+
+Section 205(c)(2)(F) of the Social Security Act (section 405(c)(2)(F) of title 42 of the United States Code) directs the Secretary of Health and Human Services to issue Social Security number cards to individuals who are assigned Social Security numbers.
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 274A(d)(3)(A) of the Immigration and Nationality Act (the "Act") (section 1324a(d)(3)(A) of title 8 of the United States Code) and section 301 of title 3 of the United States Code, and in order to provide for the delegation of certain functions under the Act \[8 U.S.C. 1101 et seq.\], I hereby:
+
+(1) Authorize you to prepare and transmit, to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives and to the Committee on the Judiciary and the Committee on Finance of the Senate, a written report regarding the substance of any proposed change in Social Security number cards, to the extent required by section 274A(d)(3)(A) of the Act, and
+
+(2) Authorize you to cause to have printed in the Federal Register the substance of any change in the Social Security number card so proposed and reported to the designated congressional committees, to the extent required by section 274A(d)(3)(A) of the Act.
+
+The authority delegated by this memorandum may be further redelegated within the Department of Health and Human Services.
+
+You are hereby authorized and directed to publish this memorandum in the Federal Register.
+
+George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "or".</i>
 

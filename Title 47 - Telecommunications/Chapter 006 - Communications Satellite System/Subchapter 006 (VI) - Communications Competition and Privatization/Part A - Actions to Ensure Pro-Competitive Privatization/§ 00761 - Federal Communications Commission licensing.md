@@ -32,7 +32,7 @@
 
 #### (D) Rule of construction
 
-&emsp;&emsp;Nothing in this subsection is intended to preclude the Commission from acting uponapplications of INTELSAT, Inmarsat, or their successor entities prior to the latest date set out in section 763(5)(A) of this title, including such actions as may be necessary for the United States to become the licensing jurisdiction for INTELSAT, but the Commission shall condition a grant of authority pursuant to this subsection upon compliance with sections 763 and 763a of this title.
+&emsp;&emsp;Nothing in this subsection is intended to preclude the Commission from acting upon applications of INTELSAT, Inmarsat, or their successor entities prior to the latest date set out in section 763(5)(A) of this title, including such actions as may be necessary for the United States to become the licensing jurisdiction for INTELSAT, but the Commission shall condition a grant of authority pursuant to this subsection upon compliance with sections 763 and 763a of this title.
 
 #### (2) Criteria for competition test
 

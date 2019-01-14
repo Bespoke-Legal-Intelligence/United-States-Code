@@ -14,7 +14,7 @@ Absence from the United States for a continuous period of one year or more durin
 
 &emsp;(2) such person proves to the satisfaction of the Attorney General that his absence from the United States for such period has been for such purpose.
 
-> The spouse and dependent unmarried sons and daughters who are members of the household of a person who qualifies for the benefits of this subsection shall also be entitled to such benefits during the period for which they were residing abroad as dependent members of the household of the person.
+> The spouse and dependent unmarried sons and daughters who are members of the household ofa person who qualifies for the benefits of this subsection shall also be entitled to such benefits during the period for which they were residing abroad as dependent members of the household of the person.
 
 #### (c) Physical presence
 
@@ -86,7 +86,7 @@ Subsec. (f)(1). Pub. L. 101–649, §407(d)(1)(D), substituted "within a particu
 
 Pub. L. 101–649, §407(c)(2), substituted references to applicant for references to petitioner wherever appearing.
 
-Subsec. (f)(2). Pub. L. 101–649, §407(d)(1)(E), amended first sentence generally. Prior to amendment, first sentence read as follows: "A petition for naturalizationmay be filed pursuant to this subsection in any district court of the United States, without regard to the residence of the petitioner."
+Subsec. (f)(2). Pub. L. 101–649, §407(d)(1)(E), amended first sentence generally. Prior to amendment, first sentence read as follows: "A petition for naturalization may be filed pursuant to this subsection in any district court of the United States, without regard to the residence of the petitioner."
 
 Subsec. (f)(3). Pub. L. 101–649, §407(c)(2), substituted reference to application for reference to petition.
 

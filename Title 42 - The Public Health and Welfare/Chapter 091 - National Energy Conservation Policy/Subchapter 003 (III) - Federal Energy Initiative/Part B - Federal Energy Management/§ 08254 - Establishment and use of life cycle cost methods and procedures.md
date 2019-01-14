@@ -16,7 +16,7 @@ The Secretary, in consultation with the Director of the Office of Management and
 
 #### (c) Use in non-Federal structures
 
-The Secretary shall make available information to the public on the use of life cycle cost methods in the construction of buildings, structures, and facilities in all segments of the economy.
+The Secretary shall make available information to the public on the use of life cycle costmethods in the construction of buildings, structures, and facilities in all segments of the economy.
 
 (Pub. L. 95–619, title V, §544, Nov. 9, 1978, 92 Stat. 3277; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3186; Pub. L. 102–486, title I, §152(d), Oct. 24, 1992, 106 Stat. 2845; Pub. L. 110–140, title IV, §441, Dec. 19, 2007, 121 Stat. 1623.)
 

@@ -14,7 +14,7 @@ Puerto Rico Highway Program.—
 
 &emsp;(1)
 
-In general.—The Secretary shall allocate funds made available to carry out thissubsection to the Commonwealth of Puerto Rico to carry out a highway program in the Commonwealth.
+In general.—The Secretary shall allocate funds made available to carry out this subsection to the Commonwealth of Puerto Rico to carry out a highway program in the Commonwealth.
 
 &emsp;(2)
 
@@ -132,7 +132,7 @@ In general.—Except as provided in subparagraph (D), none of the funds made ava
 
 &emsp;&emsp;&emsp;(i) implement the program in accordance with applicable provisions of this chapter and paragraph (4);
 
-&emsp;&emsp;&emsp;(ii) design and construct a system of arterial and collector highways, includingnecessary inter-island connectors, in accordance with standards that are—
+&emsp;&emsp;&emsp;(ii) design and construct a system of arterial and collector highways, including necessary inter-island connectors, in accordance with standards that are—
 
 &emsp;&emsp;&emsp;&emsp;(I) appropriate for each territory; and
 
@@ -198,7 +198,7 @@ Location of projects.—Territorial highway program projects (other than those d
 
 #### References in Text
 
-Section 215 as in effect on the day before the enactment of this section and section 215 of this title as in effect on the day before the date of enactment of this subsection, referred to in subsec. (c)(5)(A), (D), probably mean section 215 of this title as in effect on the day before the date of enactment of Pub. L. 112–141, which was approved July 6, 2012, and which amended this section generally and repealed section 215.
+Section 215 as in effect on the day before the enactment of this section and section 215 of this title as in effect on the day before the date of enactment of this subsection, referred to in subsec. (c)(5)(A), (D), probablymean section 215 of this title as in effect on the day before the date of enactment of Pub. L. 112–141, which was approved July 6, 2012, and which amended this section generally and repealed section 215.
 
 #### Amendments
 

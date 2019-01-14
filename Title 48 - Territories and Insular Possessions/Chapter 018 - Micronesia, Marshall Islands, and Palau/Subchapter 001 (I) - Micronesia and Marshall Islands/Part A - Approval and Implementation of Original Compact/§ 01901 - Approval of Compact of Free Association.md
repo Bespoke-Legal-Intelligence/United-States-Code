@@ -42,7 +42,7 @@ Any reference in this joint resolution to "the Compact" shall be treated as a re
 
 #### (e) Subsidiary agreements deemed bilateral
 
-For purposes of implementation of the Compact and this joint resolution, each of the subsidiary agreements referred to in subsections (a) and (b) (whether or not bilateral in form) shall be deemed to be bilateral agreements between the United States and each other party to such subsidiary agreement. The consent or concurrence of any other party shall not be required for the effectiveness of any actions taken by the United States in conjunction with either the Federated States of Micronesia or the Marshall Islands which are intended to affect the implementation, modification, suspension, or termination of any such subsidiary agreement (or any provision thereof) as regards the mutual responsibilities of the United States and the party in conjunction with whom the actions are taken.
+For purposes of implementation of the Compact and this joint resolution, each of the subsidiary agreements referred to in subsections (a) and (b) (whether or not bilateral in form) shall be deemed to be bilateral agreements between the United States and each other party to such subsidiary agreement. The consent or concurrence of any other party shall not be requiredfor the effectiveness of any actions taken by the United States in conjunction with either the Federated States of Micronesia or the Marshall Islands which are intended to affect the implementation, modification, suspension, or termination of any such subsidiary agreement (or any provision thereof) as regards the mutual responsibilities of the United States and the party in conjunction with whom the actions are taken.
 
 #### (f) Effective date
 
@@ -50,7 +50,7 @@ For purposes of implementation of the Compact and this joint resolution, each of
 
 (2) Any agreement concluded with the Federated States of Micronesia or the Marshall Islands pursuant to sections 1902 and 1903 of this title and any agreement which would amend, change, or terminate any subsidiary agreement or portion thereof as set forth in paragraph (4) of this subsection shall be submitted to the Congress. No such agreement shall take effect until after the expiration of 30 days after the date such agreement is so submitted (excluding days on which either House of Congress is not in session).
 
-(3) No agreement described in paragraph (2) shall take effect if a joint resolution of disapproval is enacted during the period specifiedin paragraph (2). For the purpose of expediting the consideration of such a joint resolution, a motion to proceed to the consideration of any such joint resolution after it has been reported by an appropriate committee shall be treated as highly privileged in the House of Representatives. Any such joint resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of Public Law 94–329.
+(3) No agreement described in paragraph (2) shall take effect if a joint resolution of disapproval is enacted during the period specified in paragraph (2). For the purpose of expediting the consideration of such a joint resolution, a motion to proceed to the consideration of any such joint resolution after it has been reported by an appropriate committee shall be treated as highly privileged in the House of Representatives. Any such joint resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of Public Law 94–329.
 
 (4) The subsidiary agreements or portions thereof referred to in paragraph (2) are as follows:
 
@@ -110,7 +110,7 @@ Pub. L. 101–62, July 26, 1989, 103 Stat. 162, provided: "That, pursuant to sec
 
 &emsp;"(1) 'Agreement Between the Government of the United States and the Government of the Republic of the Marshall Islands to Amend the Governmental Representation Provisions of the Compact of Free Association Pursuant to section 432 of the Compact', signed on March 18, 1988; and
 
-&emsp;"(2) 'Agreement Between the Government of the United States and the Government of the FederatedStates of Micronesia to Amend the Governmental Representation Provisions of the Compact of Free Association Pursuant to section 432 of the Compact', signed on March 9, 1988."
+&emsp;"(2) 'Agreement Between the Government of the United States and the Government of the Federated States of Micronesia to Amend the Governmental Representation Provisions of the Compact of Free Association Pursuant to section 432 of the Compact', signed on March 9, 1988."
 
 #### Recital Clauses
 
@@ -220,7 +220,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 &emsp;"(2) the United States Federal Communications Commission has jurisdiction, pursuant to the Communications Act of 1934, 47 U.S.C. 151 et seq., and the Communications Satellite Act of 1962, 47 U.S.C. 721 et seq., over all domestic and foreign communications services furnished by means of satellite earth terminal stations where such stations are owned or operated by United States common carriers and are located in the Marshall Islands or the Federated States of Micronesia.
 
-"(b) The Government of the Marshall Islands or the Federated States of Micronesia may elect at any time to undertake the functions enumerated in Section 131(a) and previously performed by the Government of the United States. Upon such election, the Government of the United States shall so notify the International Frequency Registration Board and shall take such other actions as may be necessary to transfer to the electing Government the notification authority referred to in Section 131(a) and all rights deriving from the previous exercise of any such notification authority by the Government of the United States.
+"(b) The Government of the Marshall Islands or the Federated States of Micronesia may elect at any timeto undertake the functions enumerated in Section 131(a) and previously performed by the Government of the United States. Upon such election, the Government of the United States shall so notify the International Frequency Registration Board and shall take such other actions as may be necessary to transfer to the electing Government the notification authority referred to in Section 131(a) and all rights deriving from the previous exercise of any such notification authority by the Government of the United States.
 
 #### "Section 132
 
@@ -234,7 +234,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 "(a) Any person in the following categories may enter into, lawfully engage in occupations, and establish residence as a nonimmigrant in the United States and its territories and possessions without regard to paragraphs (14), (20), and (26) of section 212(a) of the Immigration and Nationality Act, 8 U.S.C. 1182(a) (14), (20), and (26):
 
-&emsp;"(1) a person who, on the day preceding the effective date of this Compact, is a citizen of the TrustTerritory of the Pacific Islands, as defined in Title 53 of the Trust Territory Code in force on January 1, 1979, and has become a citizen of the Marshall Islands or the Federated States of Micronesia;
+&emsp;"(1) a person who, on the day preceding the effective date of this Compact, is a citizen of the Trust Territory of the Pacific Islands, as defined in Title 53 of the Trust Territory Code in force on January 1, 1979, and has become a citizen of the Marshall Islands or the Federated States of Micronesia;
 
 &emsp;"(2) a person who acquires the citizenship of the Marshall Islands or the Federated States of Micronesia at birth, on or after the effective date of the respective Constitution;
 
@@ -328,7 +328,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 #### "Section 162
 
-"The Government of the Marshall Islands or the Federated States of Micronesia may bring an action for judicial review of any administrative agency action or any activity of the Government of the United States pursuant to Sections 161(a), 161(d) or 161(e) or for enforcement of the obligations of the Government of the United States arising thereunder. The United States District Court for the District of Hawaii and the United States District Court for the District of Columbia shall have jurisdiction over such action or activity, and overactions brought under Section 172(b) which relate to the activities of the Government of the United States and its officers and employees, governed by Section 161, provided that:
+"The Government of the Marshall Islands or the Federated States of Micronesia may bring an action for judicial review of any administrative agency action or any activity of the Government of the United States pursuant to Sections 161(a), 161(d) or 161(e) or for enforcement of the obligations of the Government of the United States arising thereunder. The United States District Court for the District of Hawaii and the United States District Court for the District of Columbia shall have jurisdiction over such action or activity, and over actions brought under Section 172(b) which relate to the activities of the Government of the United States and its officers and employees, governed by Section 161, provided that:
 
 "(a) Such actions may only be civil actions for any appropriate civil relief other than punitive damages against the Government of the United States or, where required by law, its officers in their official capacity; no criminal actions may arise under this Section.
 
@@ -488,7 +488,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 #### "Section 218
 
-"If in any year the funds made available by the Government of the United States for that year pursuant to this Article or Section 231 are not completely obligated by the recipient Government, the unobligated balancesshall remain available in addition to the funds to be provided in subsequent years.
+"If in any year the funds made available by the Government of the United States for that year pursuant to this Article or Section 231 are not completely obligated by the recipient Government, the unobligated balances shall remain available in addition to the funds to be provided in subsequent years.
 
 #### "Section 219
 
@@ -560,7 +560,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 #### "Section 233
 
-"The Government of the United States, in consultation with the Governments of the Marshall Islands andthe Federated States of Micronesia, shall determine and implement procedures for the periodic audit of all grants and other assistance made under Article I of this Title and of all funds expended for the services and programs provided under Article II of this Title. Such audits shall be conducted on an annual basis during the first five years following the effective date of this Compact and shall be at no cost to the Government of the Marshall Islands or the Federated States of Micronesia.
+"The Government of the United States, in consultation with the Governments of the Marshall Islands and the Federated States of Micronesia, shall determine and implement procedures for the periodic audit of all grants and other assistance made under Article I of this Title and of all funds expended for the services and programs provided under Article II of this Title. Such audits shall be conducted on an annual basis during the first five years following the effective date of this Compact and shall be at no cost to the Government of the Marshall Islands or the Federated States of Micronesia.
 
 #### "Section 234
 
@@ -668,7 +668,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 "(c) Radioactive, toxic chemical, or biological materials not intended for weapons use shall not be affected by Section 314(b).
 
-"(d) No material or substance referred to in this Section shall be stored in the Marshall Islands or the Federated States of Micronesia except in an amount and manner which would not be hazardous to public health or safety. In determining what shall be an amount or manner which would be hazardous to public health or safety under this Section, the Government of the United States shall comply with any applicable mutual agreement, international guidelines accepted by the Government of the United States, and the laws of the United States and their implementing regulations.
+"(d) No material or substance referred to in this Section shall be stored in the Marshall Islands or the Federated States of Micronesia except in an amount and manner which would not be hazardous to public health or safety. In determining what shall be an amount ormanner which would be hazardous to public health or safety under this Section, the Government of the United States shall comply with any applicable mutual agreement, international guidelines accepted by the Government of the United States, and the laws of the United States and their implementing regulations.
 
 "(e) Any exercise of the exemption authority set forth in Section 161(e) shall have no effect on the obligations of the Government of the United States under this Section or on the application of this subsection.
 
@@ -688,7 +688,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 #### "Section 321
 
-"(a) Specific arrangements for the establishment and use by the Government of the United States of militaryareas and facilities in the Marshall Islands or the Federated States of Micronesia are set forth in separate agreements which shall come into effect simultaneously with this Compact.
+"(a) Specific arrangements for the establishment and use by the Government of the United States of military areas and facilities in the Marshall Islands or the Federated States of Micronesia are set forth in separate agreements which shall come into effect simultaneously with this Compact.
 
 "(b) If, in the exercise of its authority and responsibility under this Title, the Government of the United States requires the use of areas within the Marshall Islands or the Federated States of Micronesia in addition to those for which specific arrangements are concluded pursuant to Section 321(a), it may request the Government concerned to satisfy those requirements through leases or other arrangements. The Government of the Marshall Islands or the Federated States of Micronesia shall sympathetically consider any such request and shall establish suitable procedures to discuss it with and provide a prompt response to the Government of the United States.
 
@@ -726,7 +726,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 "The Government of the United States shall have enrolled, at any one time, at least two qualified students, one each from the Marshall Islands and the Federated States of Micronesia, as may be nominated by their respective Governments, in each of:
 
-"(a) The United States Coast Guard Academy pursuant to 14 U.S.C. 195.
+"(a) The United States Coast Guard Academy pursuant to 14 U.S.C. 195 \[now 14 U.S.C. 1923\].
 
 "(b) The United States Merchant Marine Academy pursuant to \[former\] 46 U.S.C. \[App.\] 1295b(b)(6) \[see 46 U.S.C. 51304\], provided that the provisions of 46 U.S.C. \[App.\] 1295b(b)(6)(C) \[now 46 U.S.C. 51304(b)(2)\] shall not apply to the enrollment of students pursuant to Section 342(b) of this Compact.
 
@@ -740,7 +740,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 "(b) The membership of each Joint Committee shall comprise selected senior officials of each of the two participating Governments. The senior United States military commander in the Pacific area shall be the senior United States member of each Joint Committee. For the meetings of each Joint Committee, each of the two participating Governments may designate additional or alternate representatives as appropriate for the subject matter under consideration.
 
-"(c) Unless otherwise mutually agreed, each Joint Committee shall meet semi-annually at a time and place to be designated, after appropriate consultation, by the Government of the United States. A Joint Committee also shall meet promptly upon request of either of its members. Upon notification by the Government of the United States, the Joint Committees so notified shall meet promptly in a combined session to consider matters within the jurisdiction of more than one Joint Committee. Each Joint Committee shall follow such procedures, including the establishment of functional subcommittees, as the members may from time to time agree.
+"(c) Unless otherwise mutually agreed, each Joint Committee shall meet semi-annually at a time and place to be designated, after appropriate consultation, by the Government of the United States. A Joint Committee also shall meet promptly upon request of either of its members. Upon notification by the Government of the United States, the Joint Committees so notifiedshall meet promptly in a combined session to consider matters within the jurisdiction of more than one Joint Committee. Each Joint Committee shall follow such procedures, including the establishment of functional subcommittees, as the members may from time to time agree.
 
 "(d) Unresolved issues in each Joint Committee shall be referred to the Governments concerned for resolution, and the Government of the Marshall Islands or the Federated States of Micronesia shall be afforded, on an expeditious basis, an opportunity to raise its concerns with the United States Secretary of Defense personally regarding any unresolved issue which threatens its continued association with the Government of the United States.
 
@@ -808,7 +808,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 "Should a dispute be referred to arbitration as provided for in Section 423, an Arbitration Board shall be established for the purpose of hearing the dispute and rendering a decision which shall be binding upon the two parties to the dispute unless the two parties mutually agree that the decision shall be advisory. Arbitration shall occur according to the following terms:
 
-"(a) An Arbitration Board shall consist of a Chairman and two other members, each of whom shall be a citizen of a party to the dispute. Each of the two Governments which is a party to the dispute shall appoint one member to the Arbitration Board. If either party to the dispute does not fulfill the appointment requirements of this Section within 30 days of referral of the dispute to arbitration pursuant to Section 423, its member on the Arbitration Board shall be selected from its own standing list by the other party to the dispute. Each Government shall maintain a standing list of 10 candidates. The parties to the dispute shall jointly appoint a Chairman within 15 days after selection of the other members of the Arbitration Board. Failing agreement on a Chairman, the Chairman shall be chosen by lot from the standing lists of the parties to the dispute within 5 days after such failure.
+"(a) An Arbitration Board shall consist of a Chairman and two other members, each of whom shall be a citizen of a party to the dispute. Each of the two Governments which is a party to the dispute shall appoint one member to the Arbitration Board. If either party to the dispute does not fulfill the appointment requirements of this Section within 30 days of referral of the dispute to arbitration pursuant to Section 423, its member on the Arbitration Board shall be selectedfrom its own standing list by the other party to the dispute. Each Government shall maintain a standing list of 10 candidates. The parties to the dispute shall jointly appoint a Chairman within 15 days after selection of the other members of the Arbitration Board. Failing agreement on a Chairman, the Chairman shall be chosen by lot from the standing lists of the parties to the dispute within 5 days after such failure.
 
 "(b) The Arbitration Board shall have jurisdiction to hear and render its final determination on all disputes arising exclusively under Articles I, II, III, IV and V of Title One, Title Two, Title Four and their related agreements.
 
@@ -824,7 +824,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 #### "Section 431
 
-"The provisions of this Compact may be amended as to the Governments of the Marshall Islands and theFederated States of Micronesia and as to the Government of the United States at any time by mutual agreement.
+"The provisions of this Compact may be amended as to the Governments of the Marshall Islands and the Federated States of Micronesia and as to the Government of the United States at any time by mutual agreement.
 
 #### "Section 432
 
@@ -1082,7 +1082,7 @@ Section 242.—Section 242 of the Compact \[set out above\] shall be construed a
 
 " 'The President shall proclaim the following tariff treatment for articles imported from the Federated States of Micronesia or the Marshall Islands which shall apply during the period of effectiven\[e\]ss of this title:
 
-&emsp;" '(1) Unless otherwise excluded, articles imported from the Federated States of Micronesia or the Marshall Islands, subject to the limitations imposed under sections 503(b) and 504(c) of title 5 of the TradeAct of 1974 (19 U.S.C. 2463(b); 2464(c)), shall be exempt from duty.
+&emsp;" '(1) Unless otherwise excluded, articles imported from the Federated States of Micronesia or the Marshall Islands, subject to the limitations imposed under sections 503(b) and 504(c) of title 5 of the Trade Act of 1974 (19 U.S.C. 2463(b); 2464(c)), shall be exempt from duty.
 
 &emsp;" '(2) Only canned tuna provided for in item 112.30 of the Tariff Schedules of the United States that is imported from the Federated States of Micronesia and the Marshall Islands during any calendar year not to exceed 10 percent of the United States consumption of canned tuna during the immediately preceding calendar year, as reported by the National Marine Fisheries Service, shall be exempt from duty; but the quantity of tuna given duty free treatment under this paragraph for any calendar year shall be counted against the aggregate quantity of canned tuna that is dutiable under rate column numbered 1 of such item 112.30 for that calendar year.
 
@@ -1140,7 +1140,7 @@ Exchange of Information.—Subsection (a) shall not apply to the Marshall Island
 
 Procedure If Section 936
 
-Incentives Reduced.—If the tax incentives extended to the Marshall Islands and the Federated States of Micronesia under subsection (a) are, at any time during which the Compact is in effect, reduced, the Secretary of the Treasury shall negotiate an agreement with the Marshall Islands and the Federated States of Micronesia under which, when such agreement is approved by law, they will be provided with benefits substantially equivalent to such reduction in benefits. If, within the 1 year period after the date of the enactment of the Act making the reduction in benefits, an agreement negotiated under the preceding sentence is not approved by law, the matter shall be submitted to the Arbitration Board established pursuant to section 424 of the Compact. For purposes of Article V of Title Two of the Compact, the Secretary of the Treasury or his delegate shall be the member of such Board representing the Government of the United States. Any decision of such Board in the matter when approved by law shall be binding on the United States, except that such decision rendered is binding only as to whether the United States has provided the substantially equivalent benefits referred to in this subsection.'.
+Incentives Reduced.—If the tax incentives extended to the Marshall Islands and the Federated States of Micronesia under subsection (a) are, at any time during which the Compact is in effect, reduced, the Secretary of the Treasury shall negotiate an agreement with the Marshall Islands and the Federated States of Micronesia under which, when such agreement is approved by law, they will be provided with benefits substantially equivalent to such reduction in benefits. If, within the 1 year period after the date of the enactment of the Act making the reduction in benefits, an agreement negotiated under the preceding sentence is not approved by law, the matter shall be submitted to the Arbitration Board established pursuant to section 424 of the Compact. For purposes of Article V of Title Two of the Compact, the Secretary of the Treasury or his delegate shall be the member of such Board representing the Government of the UnitedStates. Any decision of such Board in the matter when approved by law shall be binding on the United States, except that such decision rendered is binding only as to whether the United States has provided the substantially equivalent benefits referred to in this subsection.'.
 
 #### "SEC. 405. THE MARSHALL ISLANDS AND THE FEDERATED STATES OF MICRONESIA TREATED AS NORTH AMERICAN AREA.
 
@@ -1188,7 +1188,7 @@ Sec. 3. <i>Interagency Group on Freely Associated State Affairs and the Office o
 
 (2) The Secretaries of Defense and Interior may, to the extent permitted by law, delegate any or all of their respective authorities and responsibilities as described in this Order to the Secretary of State or his or her designee. The Secretary of State or his or her designee shall serve as Executive Secretary of the Interagency Group.
 
-(3) Personnel additional to that provided by the Secretary of State may be detailed to the Department of State by the Executive departments and agencies that are members of the Interagency Group, and by other agencies as appropriate. Executive departments and agencies shall, to the extent permitted by law, provide such information, advice, and administrative services and facilities to the Secretary of State as may be necessary to conduct United States relations with the Freely Associated States.
+(3) Personnel additional to that provided by the Secretary of State may be detailed to the Department of State by the Executive departments and agencies that are members of the Interagency Group, and by otheragencies as appropriate. Executive departments and agencies shall, to the extent permitted by law, provide such information, advice, and administrative services and facilities to the Secretary of State as may be necessary to conduct United States relations with the Freely Associated States.
 
 Sec. 4. <i>United States Representatives to the Freely Associated States</i>. The United States Representative assigned to a Freely Associated State in accordance with Article V of Title One of the Compact shall represent the Government of the United States in an official capacity in that Freely Associated State, and shall supervise the actions of any Executive department or agency personnel assigned permanently or temporarily to that Freely Associated State.
 

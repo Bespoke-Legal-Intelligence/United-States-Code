@@ -14,11 +14,17 @@ Report on Foreign Laws and Practices.—The Commission shall include in its annu
 
 &emsp;(3) any actions being taken by the Commission to offset those conditions;
 
-&emsp;(4) any recommendations for additional legislation to offset those conditions; and
+&emsp;(4) any recommendations for additional legislation to offset those conditions;
 
-&emsp;(5) a list of petitions filed under section 42302(b) of this title that the Commission rejected and the reasons for each rejection.
+&emsp;(5) a list of petitions filed under section 42302(b) of this title that the Commission rejected and the reasons for each rejection; and
 
-(Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1489.)
+&emsp;(6) an analysis of the impacts on competition for the purchase of certain covered services by alliances of ocean common carriers acting pursuant to an agreement under this part <sup>1</sup> between or among ocean common carriers, including a summary of actions, including corrective actions, taken by the Commission to promote such competition.
+
+(c)
+
+Definition of Certain Covered Services.—In this section, the term "certain covered services" has the meaning given the term in section 40102.
+
+(Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1489; Pub. L. 115–282, title VII, §703, Dec. 4, 2018, 132 Stat. 4294.)
 
 Historical and Revision Notes
 
@@ -43,4 +49,12 @@ June 29, 1936, ch. 858, title II, §208 (related to Commission), 49 Stat. 1988; 
 Pub. L. 100–418, title X, §10002(g), Aug. 23, 1988, 102 Stat. 1572.
 
 In subsection (a), the words "a statement of all receipts under this chapter" are omitted as inapplicable to the Commission.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(6). Pub. L. 115–282, §703(1), added par. (6).
+
+Subsec. (c). Pub. L. 115–282, §703(2), added subsec. (c).
+
+<i><sup>1</sup></i><i> So in original. Subtitle I of title 46 does not contain parts.</i>
 

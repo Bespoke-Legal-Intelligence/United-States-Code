@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (h), a private activity bond shall not be a qualified bond for any period during which it is held bya person who is a substantial user of the facilities or by a related person of such a substantial user.
+&emsp;Except as provided in subsection (h), a private activity bond shall not be a qualified bond for any period during which it is held by a person who is a substantial user of the facilities or by a related person of such a substantial user.
 
 #### (2) Related person
 

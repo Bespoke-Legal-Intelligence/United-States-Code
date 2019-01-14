@@ -50,7 +50,7 @@ In General.—To ensure the development, coordination, and preservation of a tra
 
 &emsp;&emsp;(C) to ensure that Federal reform initiatives enacted by section 31138 and the Bus Regulatory Reform Act of 1982 are not nullified by State regulatory actions; and
 
-&emsp;(4) in overseeing transportation by water carrier, to encourage and promote service andprice competition in the noncontiguous domestic trade.
+&emsp;(4) in overseeing transportation by water carrier, to encourage and promote service and price competition in the noncontiguous domestic trade.
 
 (b)
 
@@ -68,5 +68,5 @@ Provisions similar to those in this section were contained in section 10101 of t
 
 #### Effective Date
 
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

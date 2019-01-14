@@ -68,7 +68,7 @@
 
 #### Effective Date
 
-Pub. L. 105–114, title I, §101(c), Nov. 21, 1997, 111 Stat. 2280, provided that: "Section 516 of title 38, United States Code, as added by subsection (a), shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\]. Subsection (e) of that section shall take effect with respect to the first quarter of calendar year 1998."
+Pub. L. 105–114, title I, §101(c), Nov. 21, 1997, 111 Stat. 2280, provided that: "Section 516 of title 38, United States Code, as added by subsection (a), shall take effect 90 days after the date of enactment of this Act \[Nov. 21, 1997\]. Subsection (e) of that section shall takeeffect with respect to the first quarter of calendar year 1998."
 
 #### Reports on Implementation and Operation of Equal Employment Opportunity System
 

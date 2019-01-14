@@ -68,7 +68,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;&emsp;(vi) effectively constructing IEPs, participating in IEP meetings, and implementing IEPs;
 
-&emsp;&emsp;&emsp;(vii) preparing children with disabilities to participate in statewide assessments\(with or without accommodations) and alternate assessments, as appropriate, and to ensure that all children with disabilities are a part of all accountability systems under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\]; and
+&emsp;&emsp;&emsp;(vii) preparing children with disabilities to participate in statewide assessments (with or without accommodations) and alternate assessments, as appropriate, and to ensure that all children with disabilities are a part of all accountability systems under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\]; and
 
 &emsp;&emsp;&emsp;(viii) working in high need elementary schools and secondary schools, including urban schools, rural schools, and schools operated by an entity described in section 6113(d)(1)(A)(ii) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7423(d)(1)(A)(ii)\], and schools that serve high numbers or percentages of limited English proficient children.
 
@@ -158,7 +158,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;(A) A proposal to prepare personnel in more than 1 low incidence disability, such as deafness and blindness.
 
-&emsp;&emsp;(B) A demonstration of an effective collaboration between an eligible entity and a local educational agency that promotes recruitment and subsequent retention of personnel who meet the applicable requirements described in section 1412(a)(14) of this title to serve children with low incidence disabilities.
+&emsp;&emsp;(B) A demonstration of an effective collaboration between an eligible entity and a local educational agency that promotes recruitment and subsequent retention of personnel who meet the applicable requirements described in section 1412(a)(14) of thistitle to serve children with low incidence disabilities.
 
 #### (5) Preparation in use of braille
 

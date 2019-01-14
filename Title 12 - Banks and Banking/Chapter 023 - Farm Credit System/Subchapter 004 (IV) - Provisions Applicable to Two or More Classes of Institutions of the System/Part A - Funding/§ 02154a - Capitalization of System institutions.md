@@ -62,7 +62,7 @@ Subject to approval by shareholders under subsection (c)(2), each bank and assoc
 
 &emsp;&emsp;(G) shall require that any holder of voting stock issued before the adoption of bylaws under this section exchange a portion of such stock for new voting stock;
 
-&emsp;&emsp;(H) do not need to provide for maximum or minimum standards of borrower stock ownership based on a percentage of the loan ofthe borrower, except as otherwise provided in this section;
+&emsp;&emsp;(H) do not need to provide for maximum or minimum standards of borrower stock ownership based on a percentage of the loan of the borrower, except as otherwise provided in this section;
 
 &emsp;&emsp;(I) shall permit the retirement of stock at the discretion of the institution if the institution meets the capital adequacy standards established under section 2154(a) of this title; and
 

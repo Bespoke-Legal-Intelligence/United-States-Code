@@ -46,7 +46,7 @@ In the event of a vacancy in a position as a Commissioner appointed under subsec
 
 #### (1) Employment status
 
-&emsp;An individual serving as a Commissioner, or an alternative Commissioner, other than an officer or employee of the United States Government, shall not be considered a Federal employee, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.
+&emsp;An individual serving as a Commissioner, or an alternative Commissioner, other than anofficer or employee of the United States Government, shall not be considered a Federal employee, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.
 
 #### (2) Compensation
 
@@ -96,7 +96,7 @@ In the event of a vacancy in a position as a Commissioner appointed under subsec
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Advisory Committee shall determine its organization and prescribe itspractices and procedures for carrying out its functions under this chapter, the North Pacific Fisheries Convention, and the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
+&emsp;&emsp;&emsp;The Advisory Committee shall determine its organization and prescribe its practices and procedures for carrying out its functions under this chapter, the North Pacific Fisheries Convention, and the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
 #### (ii) Public availability of procedures
 
@@ -136,7 +136,7 @@ In the event of a vacancy in a position as a Commissioner appointed under subsec
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary of State may pay the necessary travel expenses of members of the Advisory Committee in carrying out the duties of the Advisory Committee in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
+&emsp;&emsp;&emsp;The Secretary of State may pay the necessary travel expenses of members of theAdvisory Committee in carrying out the duties of the Advisory Committee in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
 
 #### (ii) Reimbursement
 

@@ -30,35 +30,5 @@ Pub. L. 97–86, title IX, §908(b), Dec. 1, 1981, 95 Stat. 1118, provided that:
 
 #### Limitation Regarding Telecommunications Requirements
 
-Pub. L. 103–337, div. A, title X, §1075, Oct. 5, 1994, 108 Stat. 2861, provided that:
-
-"(a)
-
-Limitation.—No funds available to the Department of Defense or any other Executive agency may be expended to provide for meeting Department of Defense telecommunications requirements through the telecommunications procurement known as 'FTS–2000' or through any other Government-wide telecommunications procurement until—
-
-&emsp;"(1) the Secretary of Defense submits to the Congress a report containing—
-
-&emsp;&emsp;"(A) a certification by the Secretary that the FTS–2000 procurement or the other telecommunications procurement will provide assured, secure telecommunications support (including associated telecommunications services) for Department of Defense activities; and
-
-&emsp;&emsp;"(B) a description of how the procurement will be implemented and managed to meet defense information infrastructure requirements, including requirements to support deployed forces and intelligence activities; and
-
-&emsp;"(2) 30 days elapse after the date on which such report is received by the committees.
-
-"(b)
-
-Definitions.—In this section:
-
-&emsp;"(1) The term 'defense telecommunications requirements' means requirements for telecommunications equipment and services that, if procured by the Department of Defense, would be exempt from the requirements of section 111 of the Federal Property and Administrative Services Act of 1949 (\[former\] 40 U.S.C. 759) pursuant to section 2315 of title 10, United States Code.
-
-&emsp;"(2) The term 'Executive agency' has the meaning given such term in section 105 of title 5, United States Code.
-
-&emsp;"(3) The term 'procurement' has the meaning given such term in section 4 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403) \[see 41 U.S.C. 111\].
-
-"(c)
-
-Effect on Other Law.—Nothing in this section may be construed as modifying or superseding, or as intended to impair or restrict authorities or responsibilities under—
-
-&emsp;"(1) section 111 of the Federal Property and Administrative Services Act of 1949 (\[former\] 40 U.S.C. 759); or
-
-&emsp;"(2) section 620 of Public Law 103–123 \[107 Stat. 1264\]."
+Pub. L. 103–337, div. A, title X, §1075, Oct. 5, 1994, 108 Stat. 2861, which set out conditions for availability of funds to be expended to provide for meeting Department of Defense telecommunications requirements through the telecommunications procurement known as "FTS–2000" or through any other Government-wide telecommunications procurement, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(19), Aug. 13, 2018, 132 Stat. 1848.
 

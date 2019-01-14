@@ -50,7 +50,7 @@ Loans under this section may be—
 
 &emsp;&emsp;(A) during a period of national emergency declared by the Congress or the President; and
 
-&emsp;&emsp;(B) upon a determination by the President, on a nondelegable basis, that a specific loan is necessary to avert an industrial resource or critical technology shortfall that would severely impair national defense capability.
+&emsp;&emsp;(B) upon a determination by the President, on a nondelegable basis, that a specific loan is necessary to avert an industrial resourceor critical technology shortfall that would severely impair national defense capability.
 
 (Sept. 8, 1950, ch. 932, title III, §302, as added Pub. L. 111–67, §7, Sept. 30, 2009, 123 Stat. 2012.)
 

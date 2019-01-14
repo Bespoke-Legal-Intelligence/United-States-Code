@@ -44,7 +44,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 &emsp;&emsp;&emsp;&emsp;(I) funds transferred before an auction will likely allow for timely implementation of relocation or sharing, thereby increasing net expected auction proceeds by an amount not less than the time value of the amount of funds transferred; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the auction is intended to occur not later than 5 years after transfer of funds; and
+&emsp;&emsp;&emsp;&emsp;(II) the auction is intended to occur not later than 8 years after transfer of funds; and
 
 &emsp;&emsp;&emsp;(ii) the transition plan submitted by the eligible Federal entity under section 923(h)(1) of this title provides—
 
@@ -60,7 +60,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Director of OMB may transfer under subparagraph (A) not more than $10,000,000 for costs incurred after June 28, 2010, but before February 22, 2012.
+&emsp;&emsp;&emsp;The Director of OMB may transfer under subparagraph (A) not more than $10,000,000for costs incurred after June 28, 2010, but before February 22, 2012.
 
 #### (ii) Supplement not supplant
 
@@ -85,6 +85,14 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 &emsp;&emsp;(iii) such notice shall include, in addition to such plan, an explanation of need for such subsequent transfer or transfers.
 
 &emsp;(C) Such transferred amounts shall be credited to the appropriations account of the eligible Federal entity which has incurred, or will incur, such costs, and shall, subject to paragraph (2), remain available until expended.
+
+&emsp;(D) At the request of an eligible Federal entity, the Director of the Office of Management and Budget (in this subsection referred to as "OMB") may transfer the amount under subparagraph (A) immediately—
+
+&emsp;&emsp;(i) after the frequencies are reallocated by competitive bidding under section 309(j) of this title; or
+
+&emsp;&emsp;(ii) in the case of an incumbent Federal entity that is incurring relocation or sharing costs to accommodate sharing spectrum frequencies with another Federal entity, after the frequencies from which the other eligible Federal entity is relocating are reallocated by competitive bidding under section 309(j) of this title, without regard to the availability of such sums in the Fund.
+
+&emsp;(E) Prior to the deposit of proceeds into the Fund from an auction, the Director of OMB may borrow from the Treasury the amount under subparagraph (A) for a transfer under subparagraph (D). The Treasury shall immediately be reimbursed, without interest, from funds deposited into the Fund.
 
 #### (2) Retransfer to fund
 
@@ -194,9 +202,13 @@ No amounts in the Fund on the day before February 22, 2012, may be used for any 
 
 &emsp;(2) to pay relocation or sharing costs related to pre-auction estimates or research, in accordance with subsection (d)(3).
 
-(Pub. L. 102–538, title I, §118, as added Pub. L. 108–494, title II, §204, Dec. 23, 2004, 118 Stat. 3994; amended Pub. L. 111–8, div. G, title I, §1301(a),Mar. 11, 2009, 123 Stat. 829; Pub. L. 112–96, title VI, §6702, Feb. 22, 2012, 126 Stat. 252; Pub. L. 114–74, title X, §1005(a), Nov. 2, 2015, 129 Stat. 622.)
+(Pub. L. 102–538, title I, §118, as added Pub. L. 108–494, title II, §204, Dec. 23, 2004, 118 Stat. 3994; amended Pub. L. 111–8, div. G, title I, §1301(a), Mar. 11, 2009, 123 Stat. 829; Pub. L. 112–96, title VI, §6702, Feb. 22, 2012, 126 Stat. 252; Pub. L. 114–74, title X, §1005(a), Nov. 2, 2015, 129 Stat. 622; Pub. L. 115–141, div. P, title VI, §§612, 613, Mar. 23, 2018, 132 Stat. 1109.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(3)(B)(i)(II). Pub. L. 115–141, §612, substituted "8 years" for "5 years".
+
+Subsec. (e)(1)(D), (E). Pub. L. 115–141, §613, added subpars. (D) and (E).
 
 <b>2015</b>—Subsecs. (g) to (i). Pub. L. 114–74 added subsecs. (g) and (h) and redesignated former subsec. (g) as (i).
 

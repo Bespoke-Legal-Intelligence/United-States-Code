@@ -16,7 +16,7 @@ Each employee described in subsection (a) of this section shall be entitled to r
 
 &emsp;(1) the period of entitlement for assistance under this section shall not exceed the employee's total months of service with the Milwaukee Railroad; and
 
-&emsp;(2) no compensation shall be provided under this section after April 1, 1984, unless it is necessary in order to provide an employee with at least 8 months of such insurance, but after such date, such employee only shall receive such 8-month minimum if such employee is not employed continuously after such date.
+&emsp;(2) no compensation shall be provided under this section after April 1, 1984, unless it is necessary in order to provide an employee with at least 8 months of such insurance, but aftersuch date, such employee only shall receive such 8-month minimum if such employee is not employed continuously after such date.
 
 #### (c) Amount of payment
 
@@ -44,7 +44,7 @@ Any supplementary unemployment insurance received by any employee pursuant to th
 
 (2) An employee shall not be entitled to receive supplementary unemployment insurance under this section if he has failed to exhaust all seniority rights or other employment rights under applicable collective bargaining agreements.
 
-(3) An employee shall not be entitled to receive supplementary unemployment insuranceunder this section for any month or portion of a month in which such employee is unemployed due to normal seasonal unemployment patterns in the railroad industry.
+(3) An employee shall not be entitled to receive supplementary unemployment insurance under this section for any month or portion of a month in which such employee is unemployed due to normal seasonal unemployment patterns in the railroad industry.
 
 #### (g) Furloughed employees
 

@@ -60,7 +60,7 @@ Election period.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Except as provided in clauses (ii) and (iii), a person described insubparagraph (A) may make the election described in that subparagraph during the period that begins on January 1, 2018, and ends on December 31, 2018.
+In general.—Except as provided in clauses (ii) and (iii), a person described in subparagraph (A) may make the election described in that subparagraph during theperiod that begins on January 1, 2018, and ends on December 31, 2018.
 
 &emsp;&emsp;&emsp;(ii)
 

@@ -14,7 +14,7 @@ In order to coordinate the policies and operations of the representatives of the
 
 (4) Whenever, under the Articles of Agreement of the Fund or the Articles of Agreement of the Bank, the approval, consent or agreement of the United States is required before an act may be done by the respective institutions, the decision as to whether such approval, consent, or agreement, shall be given or refused shall (to the extent such decision is not prohibited by section 286c of this title) be made by the Council, under the general direction of the President. No governor, executive director, or alternate representing the United States shall vote in favor of any waiver of condition under article V, section 4, or in favor of any declaration of the United States dollar as a scarce currency under article VII, section 3, of the Articles of Agreement of the Fund, without prior approval of the Council.
 
-(5) The Council shall make such reports and recommendations to the President as he may from time to time request, or as the Councilmay consider necessary to more effectively or efficiently accomplish the purposes of this subchapter or the purposes for which the Council is created.
+(5) The Council shall make such reports and recommendations to the President as he may from time to time request, or as the Council may consider necessary to more effectively or efficiently accomplish the purposes of this subchapter or the purposes for which the Council is created.
 
 (6) The general policy objectives for the guidance of the United States Executive Director of the Bank shall take into account the effect that development assistance loans have upon individual industry sectors and international commodity markets—
 
@@ -78,7 +78,7 @@ By virtue of the authority vested in me by Reorganization Plan No. 4 of 1965 (30
 
 Section 1. <i>Establishment of Council</i>. (a) There is hereby established the National Advisory Council on International Monetary and Financial Policies, hereinafter referred to as the Council.
 
-(b) The Council shall be composed of the following members: the Secretary of the Treasury, who shall bethe chairman of the Council, the Assistant to the President for Economic Affairs, who shall be Deputy Chairman of the Council, the Secretary of State, the United States Trade Representative, the Secretary of Commerce, the Chairman of the Board of Governors of the Federal Reserve System, the Administrator of the United States Agency for International Development, and the President of the Export-Import Bank of Washington \[now the Export-Import Bank of the United States\].
+(b) The Council shall be composed of the following members: the Secretary of the Treasury, who shall be the chairman of the Council, the Assistant to the President for Economic Affairs, who shall be Deputy Chairman of the Council, the Secretary of State, the United States Trade Representative, the Secretary of Commerce, the Chairman of the Board of Governors of the Federal Reserve System, the Administrator of the United States Agency for International Development, and the President of the Export-Import Bank of Washington \[now the Export-Import Bank of the United States\].
 
 (c) Whenever matters within the jurisdiction of the Council may be of interest to Federal agencies not represented on the Council under Section 1(b) of this order, the Chairman of the Council may consult with such agencies and may invite them to designate representatives to participate in meetings and deliberations of the Council.
 
@@ -88,7 +88,7 @@ Sec. 2. <i>Functions of the Council</i>. (a) Exclusive of the functions delegate
 
 (c) The Council shall perform with respect to the Asian Development Bank, African Development Fund,, \[sic\] African Development Bank, Inter-American Investment Corporation, Multilateral Investment Guarantee Agency, and European Bank for Reconstruction and Development, the same functions as those delegated to it by subsections (a) and (b) of this section with respect to other international financial institutions.
 
-Sec. 3. <i>Functions of the Secretary of the Treasury</i>. (a) Functions which are now vested in the President in consequence of their transfer to him effected by the provisions of Section 1(b) of Reorganization Plan No. 4 of 1965 are hereby delegated to the Secretary of the Treasury to the extent of the following:
+Sec. 3. <i>Functions of the Secretary of the Treasury</i>. (a) Functions which are now vested in the President inconsequence of their transfer to him effected by the provisions of Section 1(b) of Reorganization Plan No. 4 of 1965 are hereby delegated to the Secretary of the Treasury to the extent of the following:
 
 (1) Authority, subject to the provisions of Section 7 of this Order, to instruct representatives of the United States to international financial organizations.
 

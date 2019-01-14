@@ -32,7 +32,7 @@ Except as provided in subsection (b), this section shall apply to any case under
 
 #### (1) General rule
 
-&emsp;Except as provided in paragraph (2), the taxable year of the debtor shall be determined without regard to the case under title 11 of the United States Code to which this section applies.
+&emsp;Except as provided in paragraph (2), the taxable year of the debtor shall be determinedwithout regard to the case under title 11 of the United States Code to which this section applies.
 
 #### (2) Election to terminate debtor's year when case commences
 
@@ -46,7 +46,7 @@ Except as provided in subsection (b), this section shall apply to any case under
 
 #### (B) Spouse may join in election
 
-&emsp;&emsp;In the case of a married individual (within the meaning of section 7703), the spouse may elect to have the debtor's election under subparagraph (A) also apply to the spouse, but only if the debtor and the spouse file ajoint return for the taxable year referred to in subparagraph (A)(i).
+&emsp;&emsp;In the case of a married individual (within the meaning of section 7703), the spouse may elect to have the debtor's election under subparagraph (A) also apply to the spouse, but only if the debtor and the spouse file a joint return for the taxable year referred to in subparagraph (A)(i).
 
 #### (C) No election where debtor has no assets
 
@@ -220,5 +220,5 @@ Subchapter applicable to bankruptcy cases commencing more than 90 days after Dec
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

@@ -12,5 +12,5 @@ Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 St
 
 #### Amendments
 
-<b>1931</b>—Act Feb. 14, 1931, substituted "under such terms as to time of payment as he may require, but in noevent for any longer period than five years" for "for cash".
+<b>1931</b>—Act Feb. 14, 1931, substituted "under such terms as to time of payment as he may require, but in no event for any longer period than five years" for "for cash".
 

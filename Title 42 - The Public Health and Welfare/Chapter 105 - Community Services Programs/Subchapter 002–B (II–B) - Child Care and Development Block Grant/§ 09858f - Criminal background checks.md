@@ -4,7 +4,7 @@
 
 A State that receives funds to carry out this subchapter shall have in effect—
 
-&emsp;(1) requirements, policies, and procedures to require and conduct criminal background checks for child care staff members (including prospective child care staff members) of child care providers described in subsection (c)(1); and
+&emsp;(1) requirements, policies, and procedures to require and conduct criminal backgroundchecks for child care staff members (including prospective child care staff members) of child care providers described in subsection (c)(1); and
 
 &emsp;(2) licensing, regulation, and registration requirements, as applicable, that prohibit the employment of child care staff members as described in subsection (c).
 
@@ -100,7 +100,7 @@ A criminal background check for a child care staff member under subsection (a) s
 
 #### (1) Background check results
 
-&emsp;The State shall carry out the request of a child care provider for a criminal background check as expeditiously as possible, but not to exceed 45 days after the date on which such request was submitted, and shall provide the results of the criminal background check to such provider and to the current or prospective staff member.
+&emsp;The State shall carry out the request of a child care provider for a criminal backgroundcheck as expeditiously as possible, but not to exceed 45 days after the date on which such request was submitted, and shall provide the results of the criminal background check to such provider and to the current or prospective staff member.
 
 #### (2) Privacy
 

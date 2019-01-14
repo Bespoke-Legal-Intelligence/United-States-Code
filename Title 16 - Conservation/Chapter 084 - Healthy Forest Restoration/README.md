@@ -26,7 +26,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6531\.](Subchapter%20002%20%28II%29%20-%20Biomass/%C2%A7%2006531%20-%20Biomass%20commercial%20utilization%20grant%20program.md) | Biomass commercial utilization grant program. |
+| [6531\.](Subchapter%20002%20%28II%29%20-%20Biomass/%C2%A7%2006531%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20VIII%2C%20%C2%A78403%28a%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204841.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -35,7 +35,8 @@
 |  |  |
 | :--- | ---: |
 | [6541\.](Subchapter%20003%20%28III%29%20-%20Watershed%20Forestry%20Assistance/%C2%A7%2006541%20-%20Omitted.md) | Omitted. |
-| [6542\.](Subchapter%20003%20%28III%29%20-%20Watershed%20Forestry%20Assistance/%C2%A7%2006542%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VIII%2C%20%C2%A78005%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20913.md) | Repealed. |
+| [6542\.](Subchapter%20003%20%28III%29%20-%20Watershed%20Forestry%20Assistance/%C2%A7%2006542%20-%20Water%20Source%20Protection%20Program.md) | Water Source Protection Program. |
+| [6543\.](Subchapter%20003%20%28III%29%20-%20Watershed%20Forestry%20Assistance/%C2%A7%2006543%20-%20Watershed%20Condition%20Framework.md) | Watershed Condition Framework. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,7 +49,7 @@
 | [6553\.](Subchapter%20004%20%28IV%29%20-%20Insect%20Infestations%20and%20Related%20Diseases/%C2%A7%2006553%20-%20Accelerated%20information%20gathering%20regarding%20forest-damaging%20insects.md) | Accelerated information gathering regarding forest-damaging insects. |
 | [6554\.](Subchapter%20004%20%28IV%29%20-%20Insect%20Infestations%20and%20Related%20Diseases/%C2%A7%2006554%20-%20Applied%20silvicultural%20assessments.md) | Applied silvicultural assessments. |
 | [6555\.](Subchapter%20004%20%28IV%29%20-%20Insect%20Infestations%20and%20Related%20Diseases/%C2%A7%2006555%20-%20Relation%20to%20other%20laws.md) | Relation to other laws. |
-| [6556\.](Subchapter%20004%20%28IV%29%20-%20Insect%20Infestations%20and%20Related%20Diseases/%C2%A7%2006556%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [6556\.](Subchapter%20004%20%28IV%29%20-%20Insect%20Infestations%20and%20Related%20Diseases/%C2%A7%2006556%20-%20Termination%20of%20effectiveness.md) | Termination of effectiveness. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -75,6 +76,8 @@
 | [6591a.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006591a%20-%20Designation%20of%20treatment%20areas.md) | Designation of treatment areas. |
 | [6591b.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006591b%20-%20Administrative%20review.md) | Administrative review. |
 | [6591c.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006591c%20-%20Stewardship%20end%20result%20contracting%20projects.md) | Stewardship end result contracting projects. |
+| [6591d.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006591d%20-%20Wildfire%20resilience%20projects.md) | Wildfire resilience projects. |
+| [6591e.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006591e%20-%20Categorical%20exclusion%20for%20greater%20sage-grouse%20and%20mule%20deer%20habitat.md) | Categorical exclusion for greater sage-grouse and mule deer habitat. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

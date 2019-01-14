@@ -8,7 +8,7 @@
 
 #### (2) Additional grants
 
-&emsp;The Secretary may also make grants to such departments, programs and other academic units of institutions of higher education granting graduate degrees which submit jointproposals involving nondegree granting institutions which have formal arrangements for the support of doctoral dissertation research with degree-granting institutions. Nondegree granting institutions eligible for awards as part of such joint proposals include any organization which—
+&emsp;The Secretary may also make grants to such departments, programs and other academic units of institutions of higher education granting graduate degrees which submit joint proposals involving nondegree granting institutions which have formal arrangements for the support of doctoral dissertation research with degree-granting institutions. Nondegree granting institutions eligible for awards as part of such joint proposals include any organization which—
 
 &emsp;&emsp;(A) is described in section 501(c)(3) of title 26, and is exempt from tax under section 501(a) of such title;
 

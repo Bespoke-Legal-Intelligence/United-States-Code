@@ -12,7 +12,7 @@
 
 #### (b) Methods
 
-In connection with the census, the Secretary may conduct any survey or other informationcollection, and employ any sampling or other statistical method, that the Secretary determines is appropriate.
+In connection with the census, the Secretary may conduct any survey or other information collection, and employ any sampling or other statistical method, that the Secretary determines is appropriate.
 
 #### (c) Year of information
 
@@ -80,5 +80,5 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

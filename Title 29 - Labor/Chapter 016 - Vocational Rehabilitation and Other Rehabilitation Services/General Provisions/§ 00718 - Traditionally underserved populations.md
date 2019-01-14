@@ -20,7 +20,7 @@ With respect to the programs authorized in subchapters II through VII, the Congr
 
 #### (3) Inequitable treatment
 
-&emsp;Patterns of inequitable treatment of minorities have been documented in all major junctures of the vocational rehabilitation process.As compared to white Americans, a larger percentage of African-American applicants to the vocational rehabilitation system is denied acceptance. Of applicants accepted for service, a larger percentage of African-American cases is closed without being rehabilitated. Minorities are provided less training than their white counterparts. Consistently, less money is spent on minorities than on their white counterparts.
+&emsp;Patterns of inequitable treatment of minorities have been documented in all major junctures of the vocational rehabilitation process. As compared to white Americans, a larger percentage of African-American applicants to the vocational rehabilitation system is denied acceptance. Of applicants accepted for service, a larger percentage of African-American cases is closed without being rehabilitated. Minorities are provided less training than their white counterparts. Consistently, less money is spent on minorities than on their white counterparts.
 
 #### (4) Recruitment
 
@@ -84,7 +84,7 @@ Section 718b, Pub. L. 93–112, §21, as added Pub. L. 102–569, title I, §111
 
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–128, §409(1)(A), in first sentence, substituted "demographic" for "racial"; in second sentence, substituted "While the percentage increase from 2000 to 2010" for "While the rate of increase", "was 9.7" for "is 3.2", "percentage increase for racial" for "rate of increase for racial", "was much" for "is much", "43.0" for "38.6", "12.3" for "14.6", and "43.2" for "40.1" and struck out "and other ethnic groups" before period at end; and struck out last sentence which read as follows: "By the year 2000, the Nation will have 260,000,000 people, one of every three of whom will be either African-American, Latino, or Asian-American."
 
-Subsec. (a)(2). Pub. L. 113–128, §409(1)(B), substituted "In 2011—" and subpars. (A) to (C) for second and thirdsentences which read as follows: "The rate of work-related disability for American Indians is about one and one-half times that of the general population. African-Americans are also one and one-half times more likely to be disabled than whites and twice as likely to be significantly disabled."
+Subsec. (a)(2). Pub. L. 113–128, §409(1)(B), substituted "In 2011—" and subpars. (A) to (C) for second and third sentences which read as follows: "The rate of work-related disability for American Indians is about one and one-half times that of the general population. African-Americans are also one and one-half times more likely to be disabled than whites and twice as likely to be significantly disabled."
 
 Subsec. (b)(1). Pub. L. 113–128, §409(2), substituted "National Institute on Disability, Independent Living, and Rehabilitation Research" for "National Institute on Disability and Rehabilitation Research".
 

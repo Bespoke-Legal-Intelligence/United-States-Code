@@ -22,7 +22,7 @@ A State that, as of January 1, 2007, has a law in effect that meets the requirem
 
 #### (d) No preclusion of broader laws
 
-Nothing in this section shall be construed as prohibiting a State that has in effect a law that establishes liability to the State for false or fraudulent claims described in section 3729 of title 31, with respect to programs in addition to the State program under this subchapter, or with respect to expenditures in addition to expenditures described in section 1396b(a) of this title, from being considered to be in compliance with the requirements of subsection (a) so long as the law meets such requirements.
+Nothing in this section shall be construed as prohibiting a State that has in effect a law that establishes liability to the State for false or fraudulent claims described in section 3729 of title 31, with respect to programs in addition to the State program under this subchapter, or with respect to expenditures in addition to expenditures described in section 1396b(a) of this title, from being considered to be in compliancewith the requirements of subsection (a) so long as the law meets such requirements.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1909, as added Pub. L. 109–171, title VI, §6031(a), Feb. 8, 2006, 120 Stat. 72.)
 

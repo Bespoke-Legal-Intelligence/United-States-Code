@@ -26,7 +26,7 @@ Pub. L. 101–45, title II, June 30, 1989, 103 Stat. 125, provided that:
 
 "Notwithstanding any other provision of law, the Administrator of General Services (Administrator) shall transfer to the administrative jurisdiction of the Holocaust Memorial Council (Council), without consideration, the Auditors West Building (Annex 3) located at Raoul Wallenberg Place and Independence Avenue Southwest, Washington, District of Columbia.
 
-"Prior to such transfer of jurisdiction to the Council, the Council shall agree to perform all necessary repairs and alterations to the Auditors West Building so as to renovate the exterior of the Auditors West Building in a manner consistent with preservation of the historic architecture of the building, and to preserve the structural integrity of the building. The Council, prior tosuch transfer, shall furnish to the Administrator, for his approval, a plan detailing the repairs and alterations proposed, dates for completion of the work, and funding availability.
+"Prior to such transfer of jurisdiction to the Council, the Council shall agree to perform all necessary repairs and alterations to the Auditors West Building so as to renovate the exterior of the Auditors West Building in a manner consistent with preservation of the historic architecture of the building, and to preserve the structural integrity of the building. The Council, prior to such transfer, shall furnish to the Administrator, for his approval, a plan detailing the repairs and alterations proposed, dates for completion of the work, and funding availability.
 
 "In the event the Council ceases to exist, administrative jurisdiction of the Auditors West Building (Annex 3) shall revert to the General Services Administration."
 

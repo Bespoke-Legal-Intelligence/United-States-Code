@@ -4,12 +4,7 @@ Subpart C—Taxable Year for Which Deductions Taken
 | :--- | ---: |
 | [461\.](%C2%A7%2000461%20-%20General%20rule%20for%20taxable%20year%20of%20deduction.md) | General rule for taxable year of deduction. |
 | \[462, 463. | Repealed.\] |
-| [464\.](%C2%A7%2000464%20-%20Limitations%20on%20deductions%20for%20certain%20farming.md) | Limitations on deductions for certain farming expenses.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [464\.](%C2%A7%2000464%20-%20Limitations%20on%20deductions%20for%20certain%20farming%20expenses.md) | Limitations on deductions for certain farming expenses. |
 | [465\.](%C2%A7%2000465%20-%20Deductions%20limited%20to%20amount%20at%20risk.md) | Deductions limited to amount at risk. |
 | \[466. | Repealed.\] |
 | [467\.](%C2%A7%2000467%20-%20Certain%20payments%20for%20the%20use%20of%20property%20or%20services.md) | Certain payments for the use of property or services. |
@@ -39,8 +34,6 @@ Subpart C—Taxable Year for Which Deductions Taken
 
 <b>1955</b>—Act June 15, 1955, ch. 143, §2(3), 69 Stat. 135, struck out item 462 "Reserves for estimated expenses, etc."
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
@@ -49,7 +42,7 @@ Subpart C—Taxable Year for Which Deductions Taken
 - [&sect; 00461 - General rule for taxable year of deduction](%C2%A7%2000461%20-%20General%20rule%20for%20taxable%20year%20of%20deduction.md)
 - [&sect; 00462 - Repealed. June 15, 1955, ch. 143, &sect;1(b), 69 Stat. 134](%C2%A7%2000462%20-%20Repealed.%20June%2015%2C%201955%2C%20ch.%20143%2C%20%C2%A71%28b%29%2C%2069%20Stat.%20134.md)
 - [&sect; 00463 - Repealed. Pub. L. 100&#8211;203, title X, &sect;10201(a), Dec. 22, 1987, 101 Stat. 1330&#8211;387](%C2%A7%2000463%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93203%2C%20title%20X%2C%20%C2%A710201%28a%29%2C%20Dec.%2022%2C%201987%2C%20101%20Stat.%201330%E2%80%93387.md)
-- [&sect; 00464 - Limitations on deductions for certain farming](%C2%A7%2000464%20-%20Limitations%20on%20deductions%20for%20certain%20farming.md)
+- [&sect; 00464 - Limitations on deductions for certain farming expenses](%C2%A7%2000464%20-%20Limitations%20on%20deductions%20for%20certain%20farming%20expenses.md)
 - [&sect; 00465 - Deductions limited to amount at risk](%C2%A7%2000465%20-%20Deductions%20limited%20to%20amount%20at%20risk.md)
 - [&sect; 00466 - Repealed. Pub. L. 99&#8211;514, title VIII, &sect;823(a), Oct. 22, 1986, 100 Stat. 2373](%C2%A7%2000466%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93514%2C%20title%20VIII%2C%20%C2%A7823%28a%29%2C%20Oct.%2022%2C%201986%2C%20100%20Stat.%202373.md)
 - [&sect; 00467 - Certain payments for the use of property or services](%C2%A7%2000467%20-%20Certain%20payments%20for%20the%20use%20of%20property%20or%20services.md)

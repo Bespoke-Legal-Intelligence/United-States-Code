@@ -56,7 +56,7 @@ Before making any written determination or background file document open or avai
 
 #### (1) Notations
 
-&emsp;If, before the issuance of a written determination, the Internal Revenue Service receives any communication (written or otherwise) concerning such written determination, any request for such determination, or any other matter involving such written determination from a person other than an employee of the Internal Revenue Service or the person to whom such written determination pertains (or his authorized representative with regard to such written determination), the Internal Revenue Service shall indicate, on the written determination open to public inspection, the category of the person making such communication and the date of such communication.
+&emsp;If, before the issuance of a written determination, the Internal Revenue Service receives any communication (written or otherwise) concerning such written determination,any request for such determination, or any other matter involving such written determination from a person other than an employee of the Internal Revenue Service or the person to whom such written determination pertains (or his authorized representative with regard to such written determination), the Internal Revenue Service shall indicate, on the written determination open to public inspection, the category of the person making such communication and the date of such communication.
 
 #### (2) Exception
 
@@ -78,7 +78,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (1) Notice of intention to disclose
 
-&emsp;Except as otherwise provided by subsection (i), the Secretary shall upon issuance of anywritten determination, or upon receipt of a request for a background file document, mail a notice of intention to disclose such determination or document to any person to whom the written determination pertains (or a successor in interest, executor, or other person authorized by law to act for or on behalf of such person).
+&emsp;Except as otherwise provided by subsection (i), the Secretary shall upon issuance of any written determination, or upon receipt of a request for a background file document, mail a notice of intention to disclose such determination or document to any person to whom the written determination pertains (or a successor in interest, executor, or other person authorized by law to act for or on behalf of such person).
 
 #### (2) Administrative remedies
 
@@ -110,7 +110,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (A) Creation of remedy
 
-&emsp;&emsp;Any person who has exhausted the administrative remedies prescribed pursuant to paragraph (2) with respect to a request for disclosure may file a petition in the United States Tax Court or a complaint in the United States District Court for the District of Columbia for an order requiring that any written determination or background file document (or portion thereof) be made open or available to public inspection. Except where inconsistent with subparagraph (B), the provisions of subparagraphs (C), (D), (E), (F), and (G) of section 552(a)(4) of title 5, United States Code, shall apply to any proceeding under this paragraph. The Court shall examine the matter de novo and without regard to a decision of a court under paragraph (3) with respect to such written determination or background file document, and may examine the entire text of such written determination or background file document in order to determine whether such written determination or background file document or any part thereof shall be open or available to public inspection under this section. The burden of proof with respect to the issue of disclosure of any information shall be on the Secretary and any other person seeking to restrain disclosure.
+&emsp;&emsp;Any person who has exhausted the administrative remedies prescribed pursuant to paragraph (2) with respect to a request for disclosure may file a petition in the United States Tax Court or a complaint in the United States District Court for the District of Columbia for an order requiring that any written determination or background file document (or portion thereof) be made open or available to public inspection. Exceptwhere inconsistent with subparagraph (B), the provisions of subparagraphs (C), (D), (E), (F), and (G) of section 552(a)(4) of title 5, United States Code, shall apply to any proceeding under this paragraph. The Court shall examine the matter de novo and without regard to a decision of a court under paragraph (3) with respect to such written determination or background file document, and may examine the entire text of such written determination or background file document in order to determine whether such written determination or background file document or any part thereof shall be open or available to public inspection under this section. The burden of proof with respect to the issue of disclosure of any information shall be on the Secretary and any other person seeking to restrain disclosure.
 
 #### (B) Intervention
 
@@ -128,7 +128,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, the text of any written determination or anybackground file document (as modified under subsection (c)) shall be open or available to public inspection—
+&emsp;Except as otherwise provided in this section, the text of any written determination or any background file document (as modified under subsection (c)) shall be open or available to public inspection—
 
 &emsp;&emsp;(A) no earlier than 75 days, and no later than 90 days, after the notice provided in subsection (f)(1) is mailed, or, if later,
 
@@ -250,7 +250,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (B) Taxpayer-specific Chief Counsel advice
 
-&emsp;&emsp;In the case of Chief Counsel advice which is written with respect to a specific taxpayer or group of specific taxpayers, the Secretary shall, within 60 days after the issuance of the Chief Counsel advice, mail the notice required by subsection (f)(1) to each such taxpayer. The notice shall include a copy of the Chief Counsel advice on which is indicated the information that the Secretary proposes to delete pursuant to subsection (c)(1). The Secretary may also delete from the copy of the text of the Chief Counsel advice any of the information described in paragraph (3), and shall delete the names, addresses, and other identifying details of taxpayers other than the person to whom the advice pertains, except that the Secretary shall not delete from the copy of the Chief Counsel advice that is furnished to the taxpayer any information of which that taxpayer was the source.
+&emsp;&emsp;In the case of Chief Counsel advice which is written with respect to a specific taxpayer or group of specific taxpayers, the Secretary shall, within 60 days after the issuance of the Chief Counsel advice, mail the notice required by subsection (f)(1) to each such taxpayer. The notice shall include a copy of the Chief Counsel advice on which is indicatedthe information that the Secretary proposes to delete pursuant to subsection (c)(1). The Secretary may also delete from the copy of the text of the Chief Counsel advice any of the information described in paragraph (3), and shall delete the names, addresses, and other identifying details of taxpayers other than the person to whom the advice pertains, except that the Secretary shall not delete from the copy of the Chief Counsel advice that is furnished to the taxpayer any information of which that taxpayer was the source.
 
 #### (j) Civil remedies
 
@@ -314,7 +314,7 @@ This section shall not apply to—
 
 Except as otherwise provided in this title, or with respect to a discovery order made in connection with a judicial proceeding, the Secretary shall not be required by any Court to make any written determination or background file document open or available to public inspection, or to refrain from disclosure of any such documents.
 
-(Added Pub. L. 94–455, title XII, §1201(a), Oct. 4, 1976, 90 Stat. 1660; amended Pub. L. 97–164, title I, §160(a)(9), Apr. 2, 1982, 96 Stat. 48; Pub. L. 98–620, title IV, §402(28)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–206, title III, §3509(a)–(c), July 22, 1998, 112 Stat. 772, 773; Pub. L. 106–170, title V, §521(a)(2), Dec. 17, 1999, 113 Stat. 1925; Pub. L. 106–554, §1(a)(7) \[title III, §§304(c), 313(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, 2763A–643; Pub. L. 110–172, §10(a), Dec. 29, 2007, 121 Stat. 2484.)
+(Added Pub. L. 94–455, title XII, §1201(a), Oct. 4, 1976, 90 Stat. 1660; amended Pub. L. 97–164, titleI, §160(a)(9), Apr. 2, 1982, 96 Stat. 48; Pub. L. 98–620, title IV, §402(28)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 105–206, title III, §3509(a)–(c), July 22, 1998, 112 Stat. 772, 773; Pub. L. 106–170, title V, §521(a)(2), Dec. 17, 1999, 113 Stat. 1925; Pub. L. 106–554, §1(a)(7) \[title III, §§304(c), 313(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, 2763A–643; Pub. L. 110–172, §10(a), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 115–141, div. U, title IV, §401(a)(325)(A), Mar. 23, 2018, 132 Stat. 1199.)
 
 #### References in Text
 
@@ -325,6 +325,8 @@ The Internal Revenue Code of 1939, referred to in subsec. (h)(3)(C), is act Feb.
 A prior section 6110 was renumbered 6116 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (j)(1). Pub. L. 115–141, which directed amendment of subsec. (j)(1)(B) by substituting "United States Court of Federal Claims" for "United States Claims Court", was executed by making the substitution in concluding provisions of par. (1), to reflect the probable intent of Congress.
 
 <b>2007</b>—Subsec. (i)(3). Pub. L. 110–172 inserted "and related background file documents" after "Chief Counsel advice" in introductory provisions.
 
@@ -351,8 +353,6 @@ Subsec. (k). Pub. L. 105–206, §3509(b), redesignated subsec. (j) as (k). Form
 Subsec. (k)(1)(B). Pub. L. 105–206, §3509(c)(3), substituted "subsection (c)(1) or (i)(3)" for "subsection (c)".
 
 Subsecs. (l), (m). Pub. L. 105–206, §3509(b), redesignated subsecs. (k) and (l) as (l) and (m), respectively.
-
-<b>1992</b>—Subsec. (i)(1). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
 <b>1984</b>—Subsec. (f)(5). Pub. L. 98–620 struck out provision that the Court of Appeals had to expedite any review of such decision in every way possible.
 
@@ -395,10 +395,6 @@ Documents treated as chief counsel advice.—If the Secretary of the Treasury by
 "(4)
 
 Chief counsel advice to be available electronically.—The Internal Revenue Service shall make any Chief Counsel advice issued more than 90 days after the date of the enactment of this Act \[July 22, 1998\] and made available for public inspection pursuant to section 6110 of such Code, as amended by this section, also available by computer telecommunications within 1 year after issuance."
-
-#### Effective Date of 1992 Amendment
-
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1984 Amendment
 

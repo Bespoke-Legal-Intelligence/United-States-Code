@@ -4,7 +4,7 @@
 
 The Congress finds and declares—
 
-&emsp;(1) That <sup>1</sup> serious unemployment and economic disadvantage of a unique nature existamong youths even under generally favorable economic conditions;
+&emsp;(1) That <sup>1</sup> serious unemployment and economic disadvantage of a unique nature exist among youths even under generally favorable economic conditions;
 
 &emsp;(2) that this group constitutes a substantial portion of the Nation's unemployment, and that this significantly contributes to crime, alcoholism and drug abuse, and other social and economic problems; and
 
@@ -12,7 +12,7 @@ The Congress finds and declares—
 
 #### (b) Improvement and expansion
 
-To the extent deemed necessary in fulfillment of the purposes of this chapter, the President shall improve and expand existing youth employment programs, recommending legislation where required. In formulating any such program, the President shall—
+To the extent deemed necessary in fulfillment of the purposes of this chapter, the Presidentshall improve and expand existing youth employment programs, recommending legislation where required. In formulating any such program, the President shall—
 
 &emsp;(1) include provisions designed to fully coordinate youth employment activities with other employment and training programs;
 

@@ -10,7 +10,7 @@ Airborne Alerts.—Upon a determination by the President that such action is nec
 
 (c)
 
-Members on Active Duty.—Upon a determination by the President that it is necessary to increase (subject to limits imposed by law)the number of members of the armed forces on active duty beyond the number for which funds are provided in appropriation Acts for the Department of Defense, the Secretary of Defense may provide for the cost of such additional members as an excepted expense under section 6301(a) and (b)(1)–(3) of title 41.
+Members on Active Duty.—Upon a determination by the President that it is necessary to increase (subject to limits imposed by law) the number of members of the armed forces on active duty beyond the number for which funds are provided in appropriation Acts for the Department of Defense, the Secretary of Defense may provide for the cost of such additional members as an excepted expense under section 6301(a) and (b)(1)–(3) of title 41.
 
 (d)
 

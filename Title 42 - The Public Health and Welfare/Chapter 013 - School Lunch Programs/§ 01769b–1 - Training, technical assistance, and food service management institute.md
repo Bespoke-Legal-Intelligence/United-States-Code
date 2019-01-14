@@ -118,7 +118,7 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 #### (2) Additional funding
 
-&emsp;In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out subsection (a)(2) such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2), in addition to the activities funded under paragraph (1), to the extent provided for, and in such amounts as are provided for, in advance in appropriations Acts.
+&emsp;In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out subsection (a)(2) such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2), in addition to the activities funded under paragraph (1), to the extent providedfor, and in such amounts as are provided for, in advance in appropriations Acts.
 
 #### (3) Funding for education, training, or applied research or studies
 

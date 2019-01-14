@@ -92,7 +92,7 @@ Only that portion of the source law which is applicable to members of the unifor
 
 In subsection (a), the words "a member of a uniformed service . . . in a missing status . . . he . . . under section 552 of this title" are substituted for "any person . . . under section 2 of this Act . . . his absence", for clarity and to conform to the definition in revised section 551(2) of this chapter. The words "except as otherwise herein provided" are omitted as unnecessary.
 
-In subsection (b), the words "Secretary concerned, he, or his designee," are substituted for "head of the department concerned . . . head of the department concerned, or such subordinate as he may designate" to conform to the definition in 37 U.S.C. 101(5). The word "member" is substituted for "person" to conform to the definition in 37 U.S.C. 101(23).
+In subsection (b), the words "Secretary concerned, he, or his designee," are substituted for "head of the department concerned . . . head of the department concerned, or such subordinate as he may designate" to conform to the definition in 37 U.S.C. 101(5). The word"member" is substituted for "person" to conform to the definition in 37 U.S.C. 101(23).
 
 In subsection (c), the words "in effect" are omitted as unnecessary. The words "member in a missing status" are substituted for "absent person" to conform to the definition in revised section 551(2) of this chapter.
 

@@ -24,7 +24,7 @@ As used in this chapter—
 
 &emsp;(k) "Attorney General" means the Attorney General of the United States.
 
-&emsp;(l) "Crime punishable by imprisonment for a term exceeding one year" shall not mean (1) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practicesas the Attorney General may by regulation designate, or (2) any State offense (other than one involving a firearm or explosive) classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.
+&emsp;(l) "Crime punishable by imprisonment for a term exceeding one year" shall not mean (1) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices as the Attorney General may by regulation designate, or (2) any State offense (other than one involving a firearm or explosive) classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.
 
 &emsp;(m) "Licensee" means any importer, manufacturer, or dealer licensed under the provisions of this chapter.
 
@@ -44,7 +44,7 @@ As used in this chapter—
 
 &emsp;&emsp;(5) any other substance in the concentration specified by the Attorney General, after consultation with the Secretary of State and the Secretary of Defense, that has been added to the table in part 2 of the Technical Annex to the Convention on the Marking of Plastic Explosives.
 
-&emsp;(q) "Plastic explosive" means an explosive material in flexible or elastic sheet form formulated with one or more high explosives which in their pure form has a vapor pressure less than 10^<sup>4</sup> Pa at a temperature of 25°C., is formulated with a binder material, and is as a mixture malleable or flexible at normal room temperature.
+&emsp;(q) "Plastic explosive" means an explosive material in flexible or elastic sheet form formulated with one or more high explosives which in their pure form has a vapor pressure less than 10−<sup>4</sup> Pa at a temperature of 25°C., is formulated with a binder material, and is as amixture malleable or flexible at normal room temperature.
 
 &emsp;(r) "Alien" means any person who is not a citizen or national of the United States.
 
@@ -100,7 +100,7 @@ Pub. L. 91–452, title XI, §1105(a), (b), Oct. 15, 1970, 84 Stat. 959, provide
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–296, title XI, §1121, Nov. 25, 2002, 116 Stat. 2280, provided that: "This subtitle \[subtitle C\(§§1121–1128) of title XI of Pub. L. 107–296, amending this section and sections 842 to 845 of this title and enacting provisions set out as a note under section 843 of this title\] may be referred to as the 'Safe Explosives Act'."
+Pub. L. 107–296, title XI, §1121, Nov. 25, 2002, 116 Stat. 2280, provided that: "This subtitle \[subtitle C (§§1121–1128) of title XI of Pub. L. 107–296, amending this section and sections 842 to 845 of this title and enacting provisions set out as a note under section 843 of this title\] may be referred to as the 'Safe Explosives Act'."
 
 #### Short Title of 1982 Amendment
 
@@ -134,7 +134,7 @@ Purpose.—The purpose of this title \[amending this section, sections 842, 844,
 
 #### Marking, Rendering Inert, and Licensing of Explosive Materials
 
-Pub. L. 104–132, title VII, §732, Apr. 24, 1996, 110 Stat. 1303, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1272, required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the tagging of smokeless and black powder and report two years after Sept. 30, 1996.
+Pub. L. 104–132, title VII, §732, Apr. 24, 1996, 110 Stat. 1303, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009,3009–21; Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1272, required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the tagging of smokeless and black powder and report two years after Sept. 30, 1996.
 
 #### Congressional Declaration of Purpose
 

@@ -55,6 +55,7 @@
 |  |  |
 | :--- | ---: |
 | [1361\.](Subchapter%20002%20%28II%29%20-%20Extension%20of%20Rights%20and%20Protections/Part%20E%20-%20General/%C2%A7%2001361%20-%20Generally%20applicable%20remedies%20and%20limitations.md) | Generally applicable remedies and limitations. |
+| [1362\.](Subchapter%20002%20%28II%29%20-%20Extension%20of%20Rights%20and%20Protections/Part%20E%20-%20General/%C2%A7%2001362%20-%20Notices.md) | Notices. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -66,17 +67,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER III—OFFICE OF COMPLIANCE
+#### SUBCHAPTER III—OFFICE OF CONGRESSIONAL WORKPLACE RIGHTS
 
 |  |  |
 | :--- | ---: |
-| [1381\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Compliance/%C2%A7%2001381%20-%20Establishment%20of%20Office%20of%20Compliance.md) | Establishment of Office of Compliance. |
-| [1382\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Compliance/%C2%A7%2001382%20-%20Officers%2C%20staff%2C%20and%20other%20personnel.md) | Officers, staff, and other personnel. |
-| [1383\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Compliance/%C2%A7%2001383%20-%20Procedural%20rules.md) | Procedural rules. |
-| [1384\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Compliance/%C2%A7%2001384%20-%20Substantive%20regulations.md) | Substantive regulations. |
-| [1385\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Compliance/%C2%A7%2001385%20-%20Expenses.md) | Expenses. |
-| [1386\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Compliance/%C2%A7%2001386%20-%20Disposition%20of%20surplus%20or%20obsolete%20personal%20property.md) | Disposition of surplus or obsolete personal property. |
-| [1387\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Compliance/%C2%A7%2001387%20-%20Semiannual%20report%20of%20disbursements.md) | Semiannual report of disbursements. |
+| [1381\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Congressional%20Workplace%20Rights/%C2%A7%2001381%20-%20Establishment%20of%20Office%20of%20Congressional%20Workplace%20Rights.md) | Establishment of Office of Congressional Workplace Rights. |
+| [1382\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Congressional%20Workplace%20Rights/%C2%A7%2001382%20-%20Officers%2C%20staff%2C%20and%20other%20personnel.md) | Officers, staff, and other personnel. |
+| [1383\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Congressional%20Workplace%20Rights/%C2%A7%2001383%20-%20Procedural%20rules.md) | Procedural rules. |
+| [1384\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Congressional%20Workplace%20Rights/%C2%A7%2001384%20-%20Substantive%20regulations.md) | Substantive regulations. |
+| [1385\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Congressional%20Workplace%20Rights/%C2%A7%2001385%20-%20Expenses.md) | Expenses. |
+| [1386\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Congressional%20Workplace%20Rights/%C2%A7%2001386%20-%20Disposition%20of%20surplus%20or%20obsolete%20personal%20property.md) | Disposition of surplus or obsolete personal property. |
+| [1387\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Congressional%20Workplace%20Rights/%C2%A7%2001387%20-%20Semiannual%20report%20of%20disbursements.md) | Semiannual report of disbursements. |
+| [1388\.](Subchapter%20003%20%28III%29%20-%20Office%20of%20Congressional%20Workplace%20Rights/%C2%A7%2001388%20-%20Workplace%20climate%20surveys%20of%20employing%20offices.md) | Workplace climate surveys of employing offices. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -86,6 +88,7 @@
 | :--- | ---: |
 | [1401\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20and%20Judicial%20Dispute-Resolution%20Procedures/%C2%A7%2001401%20-%20Procedure%20for%20consideration%20of%20alleged%20violations.md) | Procedure for consideration of alleged violations. |
 | [1402\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20and%20Judicial%20Dispute-Resolution%20Procedures/%C2%A7%2001402%20-%20Counseling.md) | Counseling. |
+| [1402a.](Subchapter%20004%20%28IV%29%20-%20Administrative%20and%20Judicial%20Dispute-Resolution%20Procedures/%C2%A7%2001402a%20-%20Preliminary%20review%20of%20claims.md) | Preliminary review of claims. |
 | [1403\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20and%20Judicial%20Dispute-Resolution%20Procedures/%C2%A7%2001403%20-%20Mediation.md) | Mediation. |
 | [1404\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20and%20Judicial%20Dispute-Resolution%20Procedures/%C2%A7%2001404%20-%20Election%20of%20proceeding.md) | Election of proceeding. |
 | [1405\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20and%20Judicial%20Dispute-Resolution%20Procedures/%C2%A7%2001405%20-%20Complaint%20and%20hearing.md) | Complaint and hearing. |
@@ -100,6 +103,7 @@
 | [1414\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20and%20Judicial%20Dispute-Resolution%20Procedures/%C2%A7%2001414%20-%20Settlement%20of%20complaints.md) | Settlement of complaints. |
 | [1415\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20and%20Judicial%20Dispute-Resolution%20Procedures/%C2%A7%2001415%20-%20Payments.md) | Payments. |
 | [1416\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20and%20Judicial%20Dispute-Resolution%20Procedures/%C2%A7%2001416%20-%20Confidentiality.md) | Confidentiality. |
+| [1417\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20and%20Judicial%20Dispute-Resolution%20Procedures/%C2%A7%2001417%20-%20Option%20to%20request%20remote%20work%20assignment%20or%20paid%20leave%20of%20absence%20during%20pendency%20of%20procedures.md) | Option to request remote work assignment or paid leave of absence during pendency of procedures. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -114,6 +118,8 @@
 | [1435\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001435%20-%20Savings%20provisions.md) | Savings provisions. |
 | [1436\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001436%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9357%2C%20title%20III%2C%20%C2%A7313%2C%20Sept.%2029%2C%201999%2C%20113%20Stat.%20428.md) | Repealed. |
 | [1437\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001437%20-%20Sense%20of%20Senate%20regarding%20adoption%20of%20simplified%20and%20streamlined%20acquisition%20procedures%20for%20Senate%20acquisitions.md) | Sense of Senate regarding adoption of simplified and streamlined acquisition procedures for Senate acquisitions. |
+| [1437a.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001437a%20-%20Training%20and%20education%20programs%20of%20employing%20offices.md) | Training and education programs of employing offices. |
+| [1437b.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001437b%20-%20Support%20for%20out-of-area%20covered%20employees.md) | Support for out-of-area covered employees. |
 | [1438\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001438%20-%20Severability.md) | Severability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -125,6 +131,6 @@
 
 - [Subchapter 001 (I) - General](Subchapter%20001%20%28I%29%20-%20General/README.md)
 - [Subchapter 002 (II) - Extension of Rights and Protections](Subchapter%20002%20%28II%29%20-%20Extension%20of%20Rights%20and%20Protections/README.md)
-- [Subchapter 003 (III) - Office of Compliance](Subchapter%20003%20%28III%29%20-%20Office%20of%20Compliance/README.md)
+- [Subchapter 003 (III) - Office of Congressional Workplace Rights](Subchapter%20003%20%28III%29%20-%20Office%20of%20Congressional%20Workplace%20Rights/README.md)
 - [Subchapter 004 (IV) - Administrative and Judicial Dispute-Resolution Procedures](Subchapter%20004%20%28IV%29%20-%20Administrative%20and%20Judicial%20Dispute-Resolution%20Procedures/README.md)
 - [Subchapter 005 (V) - Miscellaneous Provisions](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/README.md)

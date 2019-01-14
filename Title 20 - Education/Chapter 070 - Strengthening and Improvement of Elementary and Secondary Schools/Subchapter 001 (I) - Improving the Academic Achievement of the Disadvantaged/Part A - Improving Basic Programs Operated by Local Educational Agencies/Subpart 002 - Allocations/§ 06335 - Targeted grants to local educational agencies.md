@@ -12,7 +12,7 @@
 
 #### (2) Special rule
 
-&emsp;For any fiscal year for which the Secretary allocates funds under this section on the basis of counties, funds made available as a result of applying this subsection shall be reallocated by the State educational agency to other eligible local educational agencies in the State in proportion to the distribution of other funds under this section.
+&emsp;For any fiscal year for which the Secretary allocates funds under this section on the basis of counties, funds made available as a result ofapplying this subsection shall be reallocated by the State educational agency to other eligible local educational agencies in the State in proportion to the distribution of other funds under this section.
 
 #### (b) Grants for local educational agencies, the District of Columbia, and the Commonwealth of Puerto Rico
 

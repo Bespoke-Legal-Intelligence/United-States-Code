@@ -48,7 +48,7 @@ That part of the amount of a recovery of a foreign expropriation loss to which t
 
 #### (f) Basis of recovered property
 
-The basis of property (other than money) received as a recovery of a foreign expropriationloss to which this section applies shall be an amount equal to its fair market value on the date of receipt, reduced by such part of the gain under subsection (e) which is not recognized as provided in section 1033.
+The basis of property (other than money) received as a recovery of a foreign expropriation loss to which this section applies shall be an amount equal to its fair market value on the date of receipt, reduced by such part of the gain under subsection (e) which is not recognized as provided in section 1033.
 
 #### (g) Restoration of value of investments
 
@@ -78,7 +78,7 @@ For purposes of this subtitle, proper adjustment shall be made, under regulation
 
 &emsp;(5) such other items as may be specified by such regulations,
 
-> for the taxable year of a recovery of a foreign expropriation loss to which this section applies, and for succeeding taxable years, to take into account items changed in making the computations under subsection (d) for taxable years prior to the taxable year of such recovery.
+> for the taxable year of a recovery of a foreign expropriation loss to which this section applies,and for succeeding taxable years, to take into account items changed in making the computations under subsection (d) for taxable years prior to the taxable year of such recovery.
 
 (Added Pub. L. 89–384, §1(a), Apr. 8, 1966, 80 Stat. 99; amended Pub. L. 94–455, title X, §1031(b)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1623, 1834; Pub. L. 95–600, title III, §301(b)(17), Nov. 6, 1978, 92 Stat. 2823; Pub. L. 98–369, div. A, title I, §42(a)(12), title II, §211(b)(18), title IV, §474(r)(25), July 18, 1984, 98 Stat. 557, 756, 844; Pub. L. 99–514, title XVIII, §1812(a)(4), Oct. 22, 1986, 100 Stat. 2833; Pub. L. 115–97, title I, §13511(b)(8), Dec. 22, 2017, 131 Stat. 2142.)
 
@@ -134,7 +134,7 @@ Amendment by section 1031(b)(3) of Pub. L. 94–455 applicable to taxable years 
 
 #### Effective Date
 
-Pub. L. 89–384, §2, Apr. 8, 1966, 80 Stat. 105, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by section 1 (except subsection (b)) \[enacting this section and section 6167 of this title and amending sections 46, 901, 6503, and 6601 of this title\] shall apply with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]added by section 1(a)) sustained after December 31, 1958."
+Pub. L. 89–384, §2, Apr. 8, 1966, 80 Stat. 105, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by section 1 (except subsection (b)) \[enacting this section and section 6167 of this title and amending sections 46, 901, 6503, and 6601 of this title\] shall apply with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] added by section 1(a)) sustained after December 31, 1958."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

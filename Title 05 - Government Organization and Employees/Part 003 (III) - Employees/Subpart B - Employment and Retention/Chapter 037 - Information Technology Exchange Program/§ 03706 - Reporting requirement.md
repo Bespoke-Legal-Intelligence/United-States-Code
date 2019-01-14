@@ -14,7 +14,7 @@ Content.—Each report shall include, with respect to the 6-month period to whic
 
 &emsp;&emsp;(A) the name of the assigned individual, as well as the private sector organization and the agency (including the specific bureau or other agency component) to or from which such individual was assigned;
 
-&emsp;&emsp;(B) the respective positions to and from which the individual was assigned, including the duties and responsibilities and the pay grade or level associated with each; and
+&emsp;&emsp;(B) the respective positions to and from which the individual was assigned, includingthe duties and responsibilities and the pay grade or level associated with each; and
 
 &emsp;&emsp;(C) the duration and objectives of the individual's assignment; and
 

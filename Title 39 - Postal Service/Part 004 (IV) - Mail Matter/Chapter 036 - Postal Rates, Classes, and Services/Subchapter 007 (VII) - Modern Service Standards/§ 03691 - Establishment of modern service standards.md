@@ -26,7 +26,7 @@ In general.—Such standards shall be designed to achieve the following objectiv
 
 Factors.—In establishing or revising such standards, the Postal Service shall take into account—
 
-&emsp;(1) the actual level of service that Postal Service customers receive under any service guidelines previously established by the Postal Service or service standards established under this section;
+&emsp;(1) the actual level of service that Postal Service customers receive under any serviceguidelines previously established by the Postal Service or service standards established under this section;
 
 &emsp;(2) the degree of customer satisfaction with Postal Service performance in the acceptance, processing and delivery of mail;
 

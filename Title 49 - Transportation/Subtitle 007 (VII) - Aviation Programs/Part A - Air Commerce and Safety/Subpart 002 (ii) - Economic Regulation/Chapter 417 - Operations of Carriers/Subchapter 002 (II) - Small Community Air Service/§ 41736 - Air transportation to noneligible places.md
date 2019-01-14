@@ -2,7 +2,7 @@
 
 (a)
 
-Proposals and Decisions.—(1) A State or local government may propose to the Secretary of Transportation that the Secretary provide compensation to an air carrier to provide air transportation to a place that is not an eligible place under this subchapter. Not later than 90 days after receiving a proposal under this section, the Secretary shall—
+Proposals and Decisions.—(1) A State or local government may propose to the Secretary of Transportation that the Secretary provide compensation to an air carrier to provide air transportation to a place that is not an eligibleplace under this subchapter. Not later than 90 days after receiving a proposal under this section, the Secretary shall—
 
 &emsp;(A) decide whether to designate the place as eligible to receive compensation under this section; and
 
@@ -34,7 +34,7 @@ Approval for Certain Air Transportation.—Notwithstanding subsection (a)(1)(B) 
 
 (c)
 
-Level of Air Transportation.—(1) If the Secretary designates a place under subsection (a)(1) of this section as eligible for compensation under this section, the Secretary shall decide,not later than 6 months after the date of the designation, on the level of air transportation to be provided under this section. Before making a decision, the Secretary shall consider the views of any interested community, the appropriate State authority of the State in which the place is located, and the State or local government or person agreeing to pay compensation for the transportation under subsection (b)(4) of this section.
+Level of Air Transportation.—(1) If the Secretary designates a place under subsection (a)(1) of this section as eligible for compensation under this section, the Secretary shall decide, not later than 6 months after the date of the designation, on the level of air transportation to be provided under this section. Before making a decision, the Secretary shall consider the views of any interested community, the appropriate State authority of the State in which the place is located, and the State or local government or person agreeing to pay compensation for the transportation under subsection (b)(4) of this section.
 
 (2) After making the decision under paragraph (1) of this subsection, the Secretary shall provide notice that any air carrier that is willing to provide the level of air transportation established under paragraph (1) for a place may submit an application to provide the transportation. In selecting an applicant, the Secretary shall consider, among other factors—
 
@@ -66,7 +66,19 @@ Withdrawal of Eligibility Designations.—After providing notice and an opportun
 
 Ending, Suspending, and Reducing Air Transportation.—An air carrier providing air transportation for compensation under this section may end, suspend, or reduce that transportation below the level of transportation established by the Secretary under this section only after giving the Secretary, the affected community, and the State or local government or person paying compensation under this section at least 30 days' notice before ending, suspending, or reducing the transportation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1149; Pub. L. 106–181, title II, §202, Apr. 5, 2000, 114 Stat. 91.)
+(h)
+
+Sunset.—
+
+&emsp;(1)
+
+Proposals.—No proposal under subsection (a) may be accepted by the Secretary after the date of enactment of this subsection.
+
+&emsp;(2)
+
+Program.—The Secretary may not provide any compensation under this sectionafter the date that is 2 years after the date of enactment of this subsection.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1149; Pub. L. 106–181, title II, §202, Apr. 5, 2000, 114 Stat. 91; Pub. L. 115–254, div. B, title IV, §453(b), Oct. 5, 2018, 132 Stat. 3348.)
 
 Historical and Revision Notes
 
@@ -126,7 +138,11 @@ In subsection (f), the word "prescribe" is substituted for "establish" for consi
 
 Section 401 of the Federal Aviation Act of 1958, referred to in subsec. (b)(1), is section 401 of Pub. L. 85–726, which was classified to section 1371 of former Title 49, Transportation, and was repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For disposition of section 1371 of former Title 49, see Table at the beginning of Title 49.
 
+The date of enactment of this subsection, referred to in subsec. (h), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.
+
 #### Amendments
+
+<b>2018</b>—Subsec. (h). Pub. L. 115–254 added subsec. (h).
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–181 inserted concluding provisions.
 

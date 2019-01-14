@@ -112,7 +112,7 @@ Pub. L. 109–280, title XII, §1203(b), Aug. 17, 2006, 120 Stat. 1066, provided
 
 Pub. L. 104–188, title I, §1313(b), Aug. 20, 1996, 110 Stat. 1785, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply in the case of decedents dying after the date of the enactment of this Act \[Aug. 20, 1996\]."
 
-Amendment by section 1702(h)(14) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by section 1702(h)(14) of Pub. L. 104–188 effective, except as otherwise expressly provided, as ifincluded in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1984 Amendment
 

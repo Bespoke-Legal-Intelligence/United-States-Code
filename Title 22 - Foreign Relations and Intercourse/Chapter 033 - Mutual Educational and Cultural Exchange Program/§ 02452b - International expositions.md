@@ -14,7 +14,7 @@ Except as provided in subsection (b) and notwithstanding any other provision of 
 
 &emsp;&emsp;(B) Activities under section 2455(f) of this title with respect to encouraging foreign governments, international organizations, and private individuals, firms, associations, agencies and other groups to participate in international fairs and expositions and to make contributions to be utilized for United States participation in international fairs and expositions.
 
-&emsp;&emsp;(C) Encouraging private support of United States pavilions and exhibits at international fairs and expositions, except that no employees of the Department of State may, in their official capacity, solicit funds to pay expenses for a United States pavilion or other major exhibit at any internationalexposition or world's fair registered by the Bureau of International Expositions.
+&emsp;&emsp;(C) Encouraging private support of United States pavilions and exhibits at international fairs and expositions, except that no employees of the Department of State may, in their official capacity, solicit funds to pay expenses for a United States pavilion or other major exhibit at any international exposition or world's fair registered by the Bureau of International Expositions.
 
 #### (2) Statutory construction
 
@@ -42,7 +42,7 @@ Section was enacted as part of the Admiral James W. Nance and Meg Donovan Foreig
 
 #### Amendments
 
-<b>2017</b>—Subsec. (b)(1)(C). Pub. L. 115–32 inserted before period at end ", except that no employees of the Department of State may, in their official capacity, solicit funds to pay expenses for a United States pavilion or other major exhibit at any international exposition or world's fair registered by the Bureau of International Expositions".
+<b>2017</b>—Subsec. (b)(1)(C). Pub. L. 115–32 inserted before period at end ", except that no employees of the Department of State may, in their official capacity, solicit funds to pay expenses for a United States pavilion or other major exhibit at any international expositionor world's fair registered by the Bureau of International Expositions".
 
 #### Definitions
 

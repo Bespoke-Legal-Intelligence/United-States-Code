@@ -18,7 +18,7 @@ A State receiving a grant under this subchapter, through reports provided to the
 
 &emsp;(8) shall demonstrate an implementation plan to ensure the continued leadership of parents in the on-going planning, implementation, and evaluation of such community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect.
 
-(Pub. L. 93–247, title II, §206, formerly §207, as added Pub. L. 104–235, title I, §121, Oct. 3, 1996,110 Stat. 3086; amended Pub. L. 108–36, title I, §127, June 25, 2003, 117 Stat. 817; renumbered §206 and amended Pub. L. 111–320, title I, §§137, 141, Dec. 20, 2010, 124 Stat. 3481, 3482.)
+(Pub. L. 93–247, title II, §206, formerly §207, as added Pub. L. 104–235, title I, §121, Oct. 3, 1996, 110 Stat. 3086; amended Pub. L. 108–36, title I, §127, June 25, 2003, 117 Stat. 817; renumbered §206 and amended Pub. L. 111–320, title I, §§137, 141, Dec. 20, 2010, 124 Stat. 3481, 3482.)
 
 #### Prior Provisions
 
@@ -46,7 +46,7 @@ Par. (7). Pub. L. 111–320, §137(5), substituted "the results of evaluation, o
 
 Par. (3). Pub. L. 108–36, §127(2), added par. (3) and struck out former par. (3) which read as follows: "shall demonstrate the establishment of new respite care and other specific new family resources services, and the expansion of existing services, to address unmet needs identified by the inventory and description of current services required under section 5116d(3) of this title;".
 
-Par. (4). Pub. L. 108–36, §127(3), inserted "and parents with disabilities," after "children with disabilities," and substituted "evaluation of community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect, and in the design, operation and evaluation of the networks of such community-based and prevention-focused programs" for "evaluation of the Statewide network of community-based, prevention-focused, family resource and support programs, and in the design, operation and evaluation of the individual community-based family resource and support programs that are part of the Statewide network funded under this subchapter".
+Par. (4). Pub. L. 108–36, §127(3), inserted "and parents with disabilities," after "children with disabilities," and substituted "evaluation of community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuseand neglect, and in the design, operation and evaluation of the networks of such community-based and prevention-focused programs" for "evaluation of the Statewide network of community-based, prevention-focused, family resource and support programs, and in the design, operation and evaluation of the individual community-based family resource and support programs that are part of the Statewide network funded under this subchapter".
 
 Par. (5). Pub. L. 108–36, §127(4), substituted "and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect" for ", prevention-focused, family resource and support programs".
 

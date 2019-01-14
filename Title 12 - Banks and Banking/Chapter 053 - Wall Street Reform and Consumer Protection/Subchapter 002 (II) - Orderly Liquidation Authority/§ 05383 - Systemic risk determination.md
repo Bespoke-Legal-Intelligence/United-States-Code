@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;On their own initiative, or at the request of the Secretary, the Corporation and theBoard of Governors shall consider whether to make a written recommendation described in paragraph (2) with respect to whether the Secretary should appoint the Corporation as receiver for a financial company. Such recommendation shall be made upon a vote of not fewer than 2/3 of the members of the Board of Governors then serving and 2/3 of the members of the board of directors of the Corporation then serving.
+&emsp;&emsp;On their own initiative, or at the request of the Secretary, the Corporation and the Board of Governors shall consider whether to make a written recommendation described in paragraph (2) with respect to whether the Secretary should appoint the Corporation as receiver for a financial company. Such recommendation shall be madeupon a vote of not fewer than 2/3 of the members of the Board of Governors then serving and 2/3 of the members of the board of directors of the Corporation then serving.
 
 #### (B) Cases involving brokers or dealers
 
@@ -68,7 +68,7 @@ Notwithstanding any other provision of Federal or State law, the Secretary shall
 
 #### (2) Report to Congress
 
-&emsp;Not later than 24 hours after the date of appointment of the Corporation as receiver for a covered financial company, the Secretary shall provide written notice of the recommendations and determinations reached in accordance with subsections (a) and (b) to the Majority Leader and the Minority Leader of the Senate and the Speaker and the Minority Leader of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee onFinancial Services of the House of Representatives, which shall consist of a summary of the basis for the determination, including, to the extent available at the time of the determination—
+&emsp;Not later than 24 hours after the date of appointment of the Corporation as receiver for a covered financial company, the Secretary shall provide written notice of the recommendations and determinations reached in accordance with subsections (a) and (b) to the Majority Leader and the Minority Leader of the Senate and the Speaker and the Minority Leader of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives, which shall consist of a summary of the basis for the determination, including, to the extent available at the time of the determination—
 
 &emsp;&emsp;(A) the size and financial condition of the covered financial company;
 

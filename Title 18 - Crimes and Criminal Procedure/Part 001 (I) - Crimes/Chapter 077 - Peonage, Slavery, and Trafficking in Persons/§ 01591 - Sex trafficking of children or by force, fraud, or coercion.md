@@ -16,7 +16,7 @@
 
 (c) In a prosecution under subsection (a)(1) in which the defendant had a reasonable opportunity to observe the person so recruited, enticed, harbored, transported, provided, obtained, maintained, patronized, or solicited, the Government need not prove that the defendant knew, or recklessly disregarded the fact, that the person had not attained the age of 18 years.
 
-(d) Whoever obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be fined under this title, imprisoned for a term not to exceed 20 years, or both.
+(d) Whoever obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be fined under this title, imprisoned for a term not to exceed 25 years, or both.
 
 (e) In this section:
 
@@ -32,13 +32,19 @@
 
 &emsp;(3) The term "commercial sex act" means any sex act, on account of which anything of value is given to or received by any person.
 
-&emsp;(4) The term "serious harm" means any harm, whether physical or nonphysical, including psychological, financial, or reputational harm, that is sufficiently serious, under all the surrounding circumstances, to compel a reasonable person of the same background and in the same circumstances to perform or to continue performing commercial sexual activity in order to avoid incurring that harm.
+&emsp;(4) The term "participation in a venture" means knowingly assisting, supporting, or facilitating a violation of subsection (a)(1).
 
-&emsp;(5) The term "venture" means any group of two or more individuals associated in fact, whether or not a legal entity.
+&emsp;(5) The term "serious harm" means any harm, whether physical or nonphysical, including psychological, financial, or reputational harm, that is sufficiently serious, under all the surrounding circumstances, to compel a reasonable person of the same background and in the same circumstances to perform or to continue performing commercial sexual activity in order to avoid incurring that harm.
 
-(Added Pub. L. 106–386, div. A, §112(a)(2), Oct. 28, 2000, 114 Stat. 1487; amended Pub. L. 108–21, title I, §103(a)(3), Apr. 30, 2003, 117 Stat. 653; Pub. L. 108–193, §5(a), Dec. 19, 2003, 117 Stat. 2879; Pub. L. 109–248, title II, §208, July 27, 2006, 120 Stat. 615; Pub. L. 110–457, title II, §222(b)(5), Dec. 23, 2008, 122 Stat. 5069; Pub. L. 114–22, title I, §§108(a), 118(b), May 29, 2015, 129 Stat. 238, 247.)
+&emsp;(6) The term "venture" means any group of two or more individuals associated in fact, whether or not a legal entity.
+
+(Added Pub. L. 106–386, div. A, §112(a)(2), Oct. 28, 2000, 114 Stat. 1487; amended Pub. L. 108–21, title I, §103(a)(3), Apr. 30, 2003, 117 Stat. 653; Pub. L. 108–193, §5(a), Dec. 19, 2003, 117 Stat. 2879; Pub. L. 109–248, title II, §208, July 27, 2006, 120 Stat. 615; Pub. L. 110–457, title II, §222(b)(5), Dec. 23, 2008, 122 Stat. 5069; Pub. L. 114–22, title I, §§108(a), 118(b), May 29, 2015, 129 Stat. 238, 247; Pub. L. 115–164, §5, Apr. 11, 2018, 132 Stat. 1255; Pub. L. 115–392, §11(1)(C), Dec. 21, 2018, 132 Stat. 5255.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–392 substituted "25 years" for "20 years".
+
+Subsec. (e)(4) to (6). Pub. L. 115–164 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–22, §118(b)(2), inserted ", except where the act constituting the violation of paragraph (1) is advertising," after "knowing, or" in concluding provisions.
 
@@ -88,7 +94,7 @@ Pub. L. 114–22, title I, §108(c), May 29, 2015, 129 Stat. 239, provided that:
 
 Pub. L. 114–22, title I, §109, May 29, 2015, 129 Stat. 239, provided that: "It is the sense of Congress that—
 
-&emsp;"(1) section 1591 of title 18, United States Code, defines a sex trafficker as a person who 'knowingly. . .recruits, entices, harbors, transports, provides, obtains, or maintains by any means a person. . .knowing, or in reckless disregard of the fact, that means of force, threats of force, fraud, coercion. . .or any combination of such means will be used to cause the person to engage in a commercial sex act, or that the person has not attained the age of 18 years and will be caused to engage in a commercial sex act';
+&emsp;"(1) section 1591 of title 18, United States Code, defines a sex trafficker as a person who 'knowingly. . .recruits, entices, harbors, transports, provides, obtains, or maintains by any means a person. . .knowing, or in reckless disregard of the fact, that means of force, threats of force, fraud, coercion. . .or any combination of such means will be used to cause the person to engage in a commercialsex act, or that the person has not attained the age of 18 years and will be caused to engage in a commercial sex act';
 
 &emsp;"(2) while use of the word 'obtains' in section 1591 \[of title 18\], United States Code, has been interpreted, prior to the date of enactment of this Act \[May 29, 2015\], to encompass those who purchase illicit sexual acts from trafficking victims, some confusion persists;
 

@@ -6,9 +6,21 @@ Designation.—The Secretary of Defense shall design and designate a flag as the
 
 (b)
 
-Presentation.—The Medal of Honor Flag shall be presented as specified in sections 3755, 6257, and 8755 of title 10 and section 505 of title 14.
+Presentation.—The Medal of Honor Flag shall be presented as specified in sections 7285, 8307, and 9285 of title 10 and section 505 <sup>1</sup> of title 14.
 
-(Added Pub. L. 107–248, title VIII, §8143(b)(1), Oct. 23, 2002, 116 Stat. 1570.)
+(Added Pub. L. 107–248, title VIII, §8143(b)(1), Oct. 23, 2002, 116 Stat. 1570; amended Pub. L. 115–232, div. A, title VIII, §809(l)(1), Aug. 13, 2018, 132 Stat. 1843.)
+
+#### References in Text
+
+Section 505 of title 14, referred to in subsec. (b), was redesignated section 2734 of title 14 by Pub. L. 115–282, title I, §116(b)(2), Dec. 4, 2018, 132 Stat. 4226, and references to section 505 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–232 substituted "sections 7285, 8307, and 9285 of title 10" for "sections 3755, 6257, and 8755 of title 10".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
 
 #### Findings
 
@@ -25,4 +37,6 @@ Pub. L. 107–248, title VIII, §8143(a), Oct. 23, 2002, 116 Stat. 1570, provide
 #### Presentation of Medal of Honor Flag
 
 Pub. L. 107–248, title VIII, §8143(d), Oct. 23, 2002, 116 Stat. 1571, provided that: "The President shall provide for the presentation of the Medal of Honor Flag designated under section 903 of title 36, United States Code, as added by subsection (b), to each person awarded the Medal of Honor before the date of enactment of this Act \[Oct. 23, 2002\] who is living as of that date. Such presentation shall be made as expeditiously as possible after the date of the designation of the Medal of Honor Flag by the Secretary of Defense under such section."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

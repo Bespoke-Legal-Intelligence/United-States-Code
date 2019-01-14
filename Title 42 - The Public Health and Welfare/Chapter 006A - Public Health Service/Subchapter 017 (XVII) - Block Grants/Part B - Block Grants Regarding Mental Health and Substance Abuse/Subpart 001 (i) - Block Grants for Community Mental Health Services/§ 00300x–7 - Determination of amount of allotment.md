@@ -108,7 +108,7 @@ With respect to fiscal year 2000, and subsequent fiscal years, the amount of the
 
 #### (1) Determination under formula
 
-&emsp;Subject to paragraphs (2) and (4), the amount of an allotment under section 300x of this title for a territory of the United States for a fiscal year shall be the product of—
+&emsp;Subject to paragraphs (2) and (4), the amount of an allotment under section 300x ofthis title for a territory of the United States for a fiscal year shall be the product of—
 
 &emsp;&emsp;(A) an amount equal to the amounts reserved under paragraph (3) for the fiscal year; and
 

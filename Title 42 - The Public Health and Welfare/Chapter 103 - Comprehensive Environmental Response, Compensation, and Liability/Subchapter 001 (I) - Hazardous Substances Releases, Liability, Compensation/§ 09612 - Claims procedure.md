@@ -28,7 +28,7 @@ No claim may be asserted against the Fund pursuant to section 9611(a) of this ti
 
 #### (6) Payment
 
-&emsp;Within 20 days after the expiration of the appeal period for any administrative decision concerning an award, or within 20 days after the final judicial determination of any appeal taken pursuant to this subsection, the President shall pay any such award from the Fund. The President shall determine the method, terms, and time of payment.
+&emsp;Within 20 days after the expiration of the appeal period for any administrative decision concerning an award, or within 20 days after the final judicial determination of any appeal taken pursuant to this subsection, the President shall pay any such award from the Fund.The President shall determine the method, terms, and time of payment.
 
 #### (c) Subrogation rights; actions maintainable
 
@@ -62,7 +62,7 @@ No claim may be asserted against the Fund pursuant to section 9611(a) of this ti
 
 #### (e) Other statutory or common law claims not waived, etc.
 
-Regardless of any State statutory or common law to the contrary, no person who asserts a claim against the Fund pursuant to this subchapter shall be deemed or held to have waived any other claim not covered or assertable against the Fund under this subchapter arising from the same incident, transaction, or set of circumstances, nor to have split a cause of action. Further, no person asserting a claim against the Fund pursuant to this subchapter shall as a result of any determination of a question of fact or law made in connection with that claim be deemed or held to be collaterally estopped from raising such question in connection with any other claim not covered or assertable against the Fund under this subchapter arisingfrom the same incident, transaction, or set of circumstances.
+Regardless of any State statutory or common law to the contrary, no person who asserts a claim against the Fund pursuant to this subchapter shall be deemed or held to have waived any other claim not covered or assertable against the Fund under this subchapter arising from the same incident, transaction, or set of circumstances, nor to have split a cause of action. Further, no person asserting a claim against the Fund pursuant to this subchapter shall as a result of any determination of a question of fact or law made in connection with that claim be deemed or held to be collaterally estopped from raising such question in connection with any other claim not covered or assertable against the Fund under this subchapter arising from the same incident, transaction, or set of circumstances.
 
 #### (f) Double recovery prohibited
 

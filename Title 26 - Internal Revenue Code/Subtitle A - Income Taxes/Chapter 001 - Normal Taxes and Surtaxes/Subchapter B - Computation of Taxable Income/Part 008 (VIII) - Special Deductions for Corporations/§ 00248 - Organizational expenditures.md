@@ -44,7 +44,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to amounts paid or incurred after Oct. 22, 2004, see section 902(d) of Pub. L. 108–357, set out as a note under section 195 of this title.
+Amendment by Pub. L. 108–357 applicable to amounts paid or incurred after Oct. 22, 2004, see section 902(d) ofPub. L. 108–357, set out as a note under section 195 of this title.
 
 #### Effective Date of 1976 Amendment
 

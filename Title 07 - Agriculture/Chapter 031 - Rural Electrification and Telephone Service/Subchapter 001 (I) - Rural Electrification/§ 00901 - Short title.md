@@ -12,7 +12,7 @@ This chapter may be cited as the "Rural Electrification Act of 1936".
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–129, §1, Nov. 1, 1993, 107 Stat. 1356, provided that: "This Act \[enacting sections 936d, 936e, and 2008e of this title, amending sections 902, 904, 913, 918, 924, 935, 936c, 937, 939, 940d, 946, 948, 1926, and 2006f of this title, and enacting provisions set out as a note below\] may be cited as the 'Rural Electrification Loan Restructuring Act of 1993'."
+Pub. L. 103–129, §1, Nov. 1, 1993, 107 Stat. 1356, provided that: "This Act \[enacting sections 936d, 936e, and2008e of this title, amending sections 902, 904, 913, 918, 924, 935, 936c, 937, 939, 940d, 946, 948, 1926, and 2006f of this title, and enacting provisions set out as a note below\] may be cited as the 'Rural Electrification Loan Restructuring Act of 1993'."
 
 #### Short Title of 1992 Amendment
 
@@ -44,7 +44,7 @@ Rural Electrification Administration and its functions and activities transferre
 
 #### Findings; Statement of Policy
 
-Pub. L. 101–624, title XXIII, §2352, Nov. 28, 1990, 104 Stat. 4038, provided that:
+Pub. L. 101–624, title XXIII, §2352, Nov. 28, 1990, 104 Stat. 4038, as amended by Pub. L. 115–334, title VI, §6602(b)(12), Dec. 20, 2018, 132 Stat. 4777, provided that:
 
 "(a)
 
@@ -56,5 +56,7 @@ Findings.—The Congress finds that—
 
 "(b)
 
-Statement of Policy.—It is the policy of the Congress that the Rural Telephone Bank and the Rural Electrification Administration make loans that facilitate the development and enhancement of the rural telecommunications infrastructure in order to make modern telecommunications technology and services available at reasonable rates to the greatest practicable number of people in rural areas in the United States."
+Statement of Policy.—It is the policy of the Congress that the Rural Electrification Administration make loans that facilitate the development and enhancement of the rural telecommunications infrastructure in order to make modern telecommunications technology and services available at reasonable rates to the greatest practicable number of people in rural areas in the United States."
+
+\[Title IV of the Rural Electrification Act of 1936 (former 7 U.S.C. 941–950b), which established the Rural Telephone Bank, was repealed by Pub. L. 115–334, title VI, §6602(a), Dec. 20, 2018, 132 Stat. 4776.\]
 

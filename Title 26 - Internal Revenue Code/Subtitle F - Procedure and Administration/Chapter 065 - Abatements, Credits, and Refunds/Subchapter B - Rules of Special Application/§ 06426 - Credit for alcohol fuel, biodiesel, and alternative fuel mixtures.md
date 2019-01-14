@@ -26,7 +26,7 @@ There shall be allowed as a credit—
 
 &emsp;&emsp;&emsp;(i) in the case of calendar years beginning before 2009, 51 cents, and
 
-&emsp;&emsp;&emsp;(ii) in the case of calendar years beginning after 2008, 45 cents..<sup>1</sup>
+&emsp;&emsp;&emsp;(ii) in the case of calendar years beginning after 2008, 45 cents.
 
 #### (B) Mixtures not containing ethanol
 
@@ -34,7 +34,7 @@ There shall be allowed as a credit—
 
 #### (C) Reduction delayed until annual production or importation of 7,500,000,000 gallons
 
-&emsp;&emsp;In the case of any calendar year beginning after 2008, if the Secretary makes a determination described in section 40(h)(3)(B) with respect to all preceding calendar years beginning after 2007, subparagraph (A)(ii) shall be applied by substituting "51 cents" for "45 cents".
+&emsp;&emsp;In the case of any calendar year beginning after 2008, if the Secretary makes a determination described in section 40(h)(3)(B) with respect to all preceding calendar years beginning after 2007, subparagraph (A)(ii)shall be applied by substituting "51 cents" for "45 cents".
 
 #### (3) Alcohol fuel mixture
 
@@ -100,7 +100,7 @@ There shall be allowed as a credit—
 
 #### (6) Termination
 
-&emsp;This subsection shall not apply to any sale, use, or removal for any period after December 31, 2016.
+&emsp;This subsection shall not apply to any sale, use, or removal for any period after December 31, 2017.
 
 #### (d) Alternative fuel credit
 
@@ -148,7 +148,7 @@ There shall be allowed as a credit—
 
 #### (5) Termination
 
-&emsp;This subsection shall not apply to any sale or use for any period after December 31, 2016.
+&emsp;This subsection shall not apply to any sale or use for any period after December 31, 2017.
 
 #### (e) Alternative fuel mixture credit
 
@@ -166,7 +166,7 @@ There shall be allowed as a credit—
 
 #### (3) Termination
 
-&emsp;This subsection shall not apply to any sale or use for any period after December 31, 2016.
+&emsp;This subsection shall not apply to any sale or use for any period after December 31, 2017.
 
 #### (f) Mixture not used as a fuel, etc.
 
@@ -174,7 +174,7 @@ There shall be allowed as a credit—
 
 &emsp;If—
 
-&emsp;&emsp;(A) any credit was determined under this section with respect to alcohol or biodieselused in the production of any alcohol fuel mixture or biodiesel mixture, respectively, and
+&emsp;&emsp;(A) any credit was determined under this section with respect to alcohol or biodiesel used in the production of any alcohol fuel mixture or biodiesel mixture, respectively, and
 
 &emsp;&emsp;(B) any person—
 
@@ -216,7 +216,7 @@ For purposes of determining any credit under this section, any reference to the 
 
 &emsp;(2) in the case of liquefied natural gas, the energy equivalent of a gallon of diesel, as defined in section 4041(a)(2)(D).
 
-(Added Pub. L. 108–357, title III, §301(a), Oct. 22, 2004, 118 Stat. 1459; amended Pub. L. 109–58, title XIII, §1344(a), Aug. 8, 2005, 119 Stat. 1052; Pub. L. 109–59, title XI, §§11113(b)(1)–(3)(A), 11151(e)(2), Aug. 10, 2005, 119 Stat. 1947, 1948, 1969; Pub. L. 110–172, §5(a)(2), (3), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–234, title XV, §§15331(b), 15332(b), May 22, 2008, 122 Stat. 1516; Pub. L. 110–246, §4(a), title XV, §§15331(b), 15332(b), June 18, 2008, 122 Stat. 1664, 2278; Pub. L. 110–343, div. B, title II, §§202(a), (b)(2), 203(c)(1), 204(a)(1), (2), (b), (c), Oct. 3, 2008, 122 Stat. 3832, 3834; Pub. L. 111–312, title VII, §§701(b)(1), 704(a), (b), 708(b)(1), Dec. 17, 2010, 124 Stat. 3310–3312; Pub. L. 112–240, title IV, §§405(b)(1), 412(a), Jan. 2, 2013, 126 Stat. 2340, 2343; Pub. L. 113–295, div. A, title I, §160(a)(1), (b)(1), (c)(1), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §§185(b)(1), 192(a)(1), title III, §342(a), Dec. 18, 2015, 129 Stat. 3073, 3075, 3114.)
+(Added Pub. L. 108–357, title III, §301(a), Oct. 22, 2004, 118 Stat. 1459; amended Pub. L. 109–58, title XIII, §1344(a), Aug. 8, 2005, 119 Stat. 1052; Pub. L. 109–59, title XI, §§11113(b)(1)–(3)(A), 11151(e)(2), Aug. 10, 2005, 119 Stat. 1947, 1948, 1969; Pub. L. 110–172, §5(a)(2), (3), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–234, title XV, §§15331(b), 15332(b), May 22, 2008, 122 Stat. 1516; Pub. L. 110–246, §4(a), title XV, §§15331(b), 15332(b), June 18, 2008, 122 Stat. 1664, 2278; Pub. L. 110–343, div. B, title II, §§202(a), (b)(2), 203(c)(1), 204(a)(1), (2), (b), (c), Oct. 3, 2008, 122 Stat. 3832, 3834; Pub. L. 111–312, title VII, §§701(b)(1), 704(a), (b), 708(b)(1), Dec. 17, 2010, 124 Stat. 3310–3312; Pub. L. 112–240, title IV, §§405(b)(1), 412(a), Jan. 2, 2013, 126 Stat. 2340, 2343; Pub. L. 113–295, div. A, title I, §160(a)(1), (b)(1), (c)(1), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §§185(b)(1), 192(a)(1), title III, §342(a), Dec. 18, 2015, 129 Stat. 3073, 3075, 3114; Pub. L. 115–123, div. D, title I, §§40407(b)(1), 40415(a)(1), Feb. 9, 2018, 132 Stat. 149, 152; Pub. L. 115–141, div. U, title IV, §401(a)(294), Mar. 23, 2018, 132 Stat. 1198.)
 
 #### Codification
 
@@ -224,9 +224,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 6426, added Pub. L. 91–258, title II, §206(c), May 21, 1970, 84 Stat. 245; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, provided for a refund of aircraft use tax where plane transports for hire in foreign air commerce, prior to repeal by Pub. L. 97–248, title II, §280(c)(2)(G), (d), Sept. 3, 1982, 96 Stat. 564, 565, applicable with respect to transportation beginning after Aug. 31, 1982.
+A prior section 6426, added Pub. L. 91–258, title II, §206(c), May 21, 1970, 84 Stat. 245; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, provided for a refund of aircraft use tax where plane transports for hire in foreign air commerce, prior to repeal by Pub. L. 97–248, title II, §280(c)(2)(G), (d),Sept. 3, 1982, 96 Stat. 564, 565, applicable with respect to transportation beginning after Aug. 31, 1982.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2)(A)(ii). Pub. L. 115–141 substituted "cents." for "cents.."
+
+Subsec. (c)(6). Pub. L. 115–123, §40407(b)(1), substituted "December 31, 2017" for "December 31, 2016".
+
+Subsecs. (d)(5), (e)(3). Pub. L. 115–123, §40415(a)(1), substituted "December 31, 2017" for "December 31, 2016".
 
 <b>2015</b>—Subsec. (c)(6). Pub. L. 114–113, §185(b)(1), substituted "December 31, 2016" for "December 31, 2014".
 
@@ -308,6 +314,12 @@ Subsec. (d)(2)(F). Pub. L. 109–59, §11151(e)(2), substituted "section 45K(c)(
 
 Subsecs. (e) to (g). Pub. L. 109–59, §11113(b)(2), added subsec. (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
+#### Effective date of 2018 Amendment
+
+Pub. L. 115–123, div. D, title I, §40407(b)(3), Feb. 9, 2018, 132 Stat. 149, provided that: "The amendments made by this subsection \[amending this section and section 6427 of this title\] shall apply to fuel sold or used after December 31, 2016."
+
+Pub. L. 115–123, div. D, title I, §40415(a)(3), Feb. 9, 2018, 132 Stat. 152, provided that: "The amendments made by this subsection \[amending this section and section 6427 of this title\] shall apply to fuel sold or used after December 31, 2016."
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–113, div. Q, title I, §185(b)(3), Dec. 18, 2015, 129 Stat. 3073, provided that: "The amendments made by this subsection \[amending this section and section 6427 of this title\] shall apply to fuel sold or used after December 31, 2014."
@@ -338,7 +350,7 @@ Pub. L. 112–240, title IV, §412(c), Jan. 2, 2013, 126 Stat. 2343, provided th
 
 Amendment by section 701(b)(1) of Pub. L. 111–312 applicable to fuel sold or used after Dec. 31, 2009, see section 701(d) of Pub. L. 111–312, set out as a note under section 40A of this title.
 
-Pub. L. 111–312, title VII, §704(d), Dec. 17, 2010, 124 Stat. 3311, provided that: "The amendments made by this section \[amending this section and section 6427 of this title\] shall apply to fuel sold or used after December 31, 2009."
+Pub. L. 111–312, title VII, §704(d), Dec. 17, 2010, 124 Stat. 3311, provided that: "The amendments made bythis section \[amending this section and section 6427 of this title\] shall apply to fuel sold or used after December 31, 2009."
 
 Pub. L. 111–312, title VII, §708(b)(2), Dec. 17, 2010, 124 Stat. 3312, provided that: "The amendment made by this subsection \[amending this section\] shall apply to periods after December 31, 2010."
 
@@ -370,9 +382,15 @@ Amendment by section 11151(e)(2) of Pub. L. 109–59 effective as if included in
 
 Section applicable to fuel sold or used after Dec. 31, 2004, see section 301(d)(1) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under section 40 of this title.
 
+#### Special Rules for 2017
+
+Pub. L. 115–123, div. D, title I, §40407(b)(4), Feb. 9, 2018, 132 Stat. 149, provided that: "Notwithstanding any other provision of law, in the case of any biodiesel mixture credit properly determined under section 6426(c) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2017, and ending on December 31, 2017, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary's delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act \[Feb. 9, 2018\] providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code."
+
+Pub. L. 115–123, div. D, title I, §40415(b), Feb. 9, 2018, 132 Stat. 152, provided that: "Notwithstanding any other provision of law, in the case of any alternative fuel credit properly determined under section 6426(d) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2017, and ending on December 31, 2017, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary's delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act \[Feb. 9, 2018\] providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code."
+
 #### Special Rules for 2015
 
-Pub. L. 114–113, div. Q, title I, §185(b)(4), Dec. 18, 2015, 129 Stat. 3073, provided that: "Notwithstanding any other provision of law, in the case of any biodiesel mixture credit properly determined under section 6426(c) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2015, and ending on December 31,2015, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary's delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act \[Dec. 18, 2015\] providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code."
+Pub. L. 114–113, div. Q, title I, §185(b)(4), Dec. 18, 2015, 129 Stat. 3073, provided that: "Notwithstanding any other provision of law, in the case of any biodiesel mixture credit properly determined under section 6426(c) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2015, and ending on December 31, 2015, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary's delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act \[Dec. 18, 2015\] providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code."
 
 Pub. L. 114–113, div. Q, title I, §192(c), Dec. 18, 2015, 129 Stat. 3075, provided that: "Notwithstanding any other provision of law, in the case of any alternative fuel credit properly determined under section 6426(d) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2015, and ending on December 31, 2015, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary's delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act \[Dec. 18, 2015\] providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code."
 
@@ -391,6 +409,4 @@ Pub. L. 113–295, div. A, title I, §160(e), Dec. 19, 2014, 128 Stat. 4023, pro
 Pub. L. 111–312, title VII, §701(c), Dec. 17, 2010, 124 Stat. 3310, provided that: "Notwithstanding any other provision of law, in the case of any biodiesel mixture credit properly determined under section 6426(c) of the Internal Revenue Code of 1986 for periods during 2010, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary's delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act \[Dec. 17, 2010\] providing for a one-time submission of claims covering periods during 2010. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code."
 
 Pub. L. 111–312, title VII, §704(c), Dec. 17, 2010, 124 Stat. 3311, provided that: "Notwithstanding any other provision of law, in the case of any alternative fuel credit or any alternative fuel mixture credit properly determined under subsection (d) or (e) of section 6426 of the Internal Revenue Code of 1986 for periods during 2010, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary's delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act \[Dec. 17, 2010\] providing for a one-time submission of claims covering periods during 2010. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

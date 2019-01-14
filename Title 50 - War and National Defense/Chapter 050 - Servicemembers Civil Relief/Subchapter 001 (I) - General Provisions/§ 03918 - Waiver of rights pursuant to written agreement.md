@@ -48,3 +48,7 @@ A prior section 107 of act Oct. 17, 1940, ch. 888, art. I, as added Oct. 6, 1942
 
 Subsecs. (c), (d). Pub. L. 108–454, §702(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### Effective Date
+
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under section 3901 of this title.
+

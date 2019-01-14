@@ -405,7 +405,10 @@
 | [16274a.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016274a%20-%20Integrated%20University%20Program.md) | Integrated University Program. |
 | [16275\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016275%20-%20Department%20of%20Energy%20civilian%20nuclear%20infrastructure%20and%20facilities.md) | Department of Energy civilian nuclear infrastructure and facilities. |
 | [16276\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016276%20-%20Security%20of%20nuclear%20facilities.md) | Security of nuclear facilities. |
-| [16277\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016277%20-%20Alternatives%20to%20industrial%20radioactive%20sources.md) | Alternatives to industrial radioactive sources. |
+| [16277\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016277%20-%20High-performance%20computation%20and%20supportive%20research.md) | High-performance computation and supportive research. |
+| [16278\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016278%20-%20Enabling%20nuclear%20energy%20innovation.md) | Enabling nuclear energy innovation. |
+| [16279\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016279%20-%20Budget%20plan.md) | Budget plan. |
+| [16280\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016280%20-%20Advanced%20Nuclear%20Energy%20Licensing%20Cost-Share%20Grant%20Program.md) | Advanced Nuclear Energy Licensing Cost-Share Grant Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -430,15 +433,15 @@
 | :--- | ---: |
 | [16311\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016311%20-%20Science.md) | Science. |
 | [16312\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016312%20-%20Fusion%20energy%20sciences%20program.md) | Fusion energy sciences program. |
-| [16313\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016313%20-%20Catalysis%20research%20program.md) | Catalysis research program. |
+| [16313\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016313%20-%20Solar%20Fuels%20Research%20Initiative.md) | Solar Fuels Research Initiative. |
 | [16314\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016314%20-%20Hydrogen.md) | Hydrogen. |
-| [16315\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016315%20-%20Solid%20state%20lighting.md) | Solid state lighting. |
+| [16315\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016315%20-%20Electricity%20Storage%20Research%20Initiative.md) | Electricity Storage Research Initiative. |
 | [16316\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016316%20-%20Advanced%20scientific%20computing%20research%20and%20development%20program.md) | Advanced scientific computing research and development program. |
 | [16317\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016317%20-%20Systems%20biology%20program.md) | Systems biology program. |
 | [16318\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016318%20-%20Fission%20and%20fusion%20energy%20materials%20research%20program.md) | Fission and fusion energy materials research program. |
 | [16319\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016319%20-%20Energy%20and%20water%20supplies.md) | Energy and water supplies. |
 | [16320\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016320%20-%20Spallation%20Neutron%20Source.md) | Spallation Neutron Source. |
-| [16321\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016321%20-%20Rare%20Isotope%20Accelerator.md) | Rare Isotope Accelerator. |
+| [16321\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016321%20-%20Facility%20for%20Rare%20Isotope%20Beams.md) | Facility for Rare Isotope Beams. |
 | [16322\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016322%20-%20Office%20of%20Scientific%20and%20Technical%20Information.md) | Office of Scientific and Technical Information. |
 | [16323\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016323%20-%20Science%20and%20engineering%20education%20pilot%20program.md) | Science and engineering education pilot program. |
 | [16324\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20G%20-%20Science/%C2%A7%2016324%20-%20Energy%20research%20fellowships.md) | Energy research fellowships. |
@@ -465,7 +468,7 @@
 | [16354\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20I%20-%20Research%20Administration%20and%20Operations/%C2%A7%2016354%20-%20External%20technical%20review%20of%20departmental%20programs.md) | External technical review of departmental programs. |
 | [16355\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20I%20-%20Research%20Administration%20and%20Operations/%C2%A7%2016355%20-%20National%20Laboratory%20designation.md) | National Laboratory designation. |
 | [16356\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20I%20-%20Research%20Administration%20and%20Operations/%C2%A7%2016356%20-%20Report%20on%20equal%20employment%20opportunity%20practices.md) | Report on equal employment opportunity practices. |
-| [16357\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20I%20-%20Research%20Administration%20and%20Operations/%C2%A7%2016357%20-%20Strategy%20and%20plan%20for%20science%20and%20energy%20facilities%20and%20infrastructure.md) | Strategy and plan for science and energy facilities and infrastructure. |
+| [16357\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20I%20-%20Research%20Administration%20and%20Operations/%C2%A7%2016357%20-%20Strategy%20for%20facilities%20and%20infrastructure.md) | Strategy for facilities and infrastructure. |
 | [16358\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20I%20-%20Research%20Administration%20and%20Operations/%C2%A7%2016358%20-%20Strategic%20research%20portfolio%20analysis%20and%20coordination%20plan.md) | Strategic research portfolio analysis and coordination plan. |
 | [16359\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20I%20-%20Research%20Administration%20and%20Operations/%C2%A7%2016359%20-%20Competitive%20award%20of%20management%20contracts.md) | Competitive award of management contracts. |
 | [16360\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20I%20-%20Research%20Administration%20and%20Operations/%C2%A7%2016360%20-%20Western%20Michigan%20demonstration%20project.md) | Western Michigan demonstration project. |

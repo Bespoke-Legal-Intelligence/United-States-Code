@@ -20,7 +20,7 @@ Amendment by Pub. L. 98–480 effective Oct. 1, 1984, see section 209 of Pub. L.
 
 "Secretary of Education" substituted in text for "Secretary of Health, Education, and Welfare" pursuant to sections 301(a)(2)(M) and 507 of Pub. L. 96–88 which are classified to sections 3441(a)(2)(M) and 3507 of this title and which transferred all functions of Secretary of Health, Education, and Welfare under this subchapter to Secretary of Education.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare bysection 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 Office of Education transferred to Federal Security Agency by Reorg. Plan No. I of 1939, §§201, 204, eff. July 1, 1939, set out in the Appendix to Title 5.
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) an assessment of the implementation of the criteria and guidance issued by issued by <sup>1</sup> the Administrator of the Small Business Administration in accordance with paragraph (1);
 
-&emsp;&emsp;(C) an assessment as to whether these measures have successfully ensured that only qualified HUBZone small business concerns are participating in the HUBZone program under section 657a of title 15;
+&emsp;&emsp;(C) an assessment as to whether these measures have successfully ensured thatonly qualified HUBZone small business concerns are participating in the HUBZone program under section 657a of title 15;
 
 &emsp;&emsp;(D) an assessment as to whether the reforms made by the criteria and guidance implemented under paragraph (1) have resulted in job creation in the Commonwealth of Puerto Rico; and
 

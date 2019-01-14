@@ -1,6 +1,6 @@
 ### §5113. Investigation of claims
 
-For the purpose of ascertaining the correctness of any claim filed under this subpart, theSecretary is authorized to examine any books, papers, records, or memoranda bearing upon the matters required to be alleged in the claim, to require the attendance of the person filing the claim or of any officer or employee of such person or the attendance of any other person having knowledge in the premises, to take testimony with reference to any matter covered by the claim, and to administer oaths to any person giving such testimony.
+For the purpose of ascertaining the correctness of any claim filed under this subpart, the Secretary is authorized to examine any books, papers, records, or memoranda bearing upon the matters required to be alleged in the claim, to require the attendance of the person filing the claim or of any officer or employee of such person or the attendance of any other person having knowledge in the premises, to take testimony with reference to any matter covered by the claim, and to administer oaths to any person giving such testimony.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1346, §5133; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; renumbered §5113, Pub. L. 109–59, title XI, §11125(b)(3)(A), Aug. 10, 2005, 119 Stat. 1953.)
 

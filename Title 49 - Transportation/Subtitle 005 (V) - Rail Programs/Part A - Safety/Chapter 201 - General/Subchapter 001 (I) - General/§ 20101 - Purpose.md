@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 Oct. 16, 1970, Pub. L. 91–458, §101, 84 Stat. 971.
 
-The words "The Congress declares that" are omitted as surplus. The words "accidents and incidents" are substituted for "accidents" for consistency with the source provisions restated in section 20105(b)(1)(B) of the revised title. The words "and to reduce deaths and injuries to persons and to reduce damage to property caused by accidents involving any carrier of hazardous materials" are omitted as obsolete because they applied to 49 App.:1761 and 1762, that were repealed by section 113(g) of the Hazardous Materials Transportation Act (Public Law 93–633, 88 Stat. 2163).
+The words "The Congress declares that" are omitted as surplus. The words "accidents and incidents" aresubstituted for "accidents" for consistency with the source provisions restated in section 20105(b)(1)(B) of the revised title. The words "and to reduce deaths and injuries to persons and to reduce damage to property caused by accidents involving any carrier of hazardous materials" are omitted as obsolete because they applied to 49 App.:1761 and 1762, that were repealed by section 113(g) of the Hazardous Materials Transportation Act (Public Law 93–633, 88 Stat. 2163).
 
 #### Short Title of 2015 Amendment
 

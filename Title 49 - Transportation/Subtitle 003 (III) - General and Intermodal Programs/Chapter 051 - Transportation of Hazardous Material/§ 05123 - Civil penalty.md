@@ -148,7 +148,7 @@ Subsec. (a)(3). Pub. L. 112–141, §33010(1)(C), amended par. (3) generally. Pr
 
 Subsecs. (h), (i). Pub. L. 112–141, §33010(2), added subsecs. (h) and (i).
 
-<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §7120(a)(1), in introductory provisions substituted "regulation, order,special permit, or approval issued" for "regulation prescribed or order issued" and "$50,000" for "$25,000".
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §7120(a)(1), in introductory provisions substituted "regulation, order, special permit, or approval issued" for "regulation prescribed or order issued" and "$50,000" for "$25,000".
 
 Subsec. (a)(2) to (4). Pub. L. 109–59, §7120(a)(2), (3), added pars. (2) and (3) and redesignated former par. (2) as (4).
 

@@ -56,13 +56,13 @@ For purposes of this section:
 
 #### (4) Parent company reports
 
-&emsp;The Board, may from time to time, examine and require reports under oath from a grandfathered unitary savings and loan holdingcompany that controls an intermediate holding company, and from the appropriate officers or directors of such company, solely for purposes of ensuring compliance with the provisions of this section, including assessing the ability of the company to serve as a source of strength to its subsidiary intermediate holding company as required under paragraph (3) and enforcing compliance with such requirement.
+&emsp;The Board, may from time to time, examine and require reports under oath from a grandfathered unitary savings and loan holding company that controls an intermediate holding company, and from the appropriate officers or directors of such company, solely for purposes of ensuring compliance with the provisions of this section, including assessing the ability of the company to serve as a source of strength to its subsidiary intermediate holding company as required under paragraph (3) and enforcing compliance with such requirement.
 
 #### (5) Limited parent company enforcement
 
 #### (A) In general
 
-&emsp;&emsp;In addition to any other authority of the Board, the Board may enforce compliance with the provisions of this subsection that are applicable to any company described in paragraph (1)(A) that controls an intermediate holding company under section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], and a company described in paragraph (1)(A) shall be subject to such section (solely for purposes of this subparagraph) in the same manner and to the same extent as if the company described in paragraph (1)(A) were a savings and loan holding company.
+&emsp;&emsp;In addition to any other authority of the Board, the Board may enforce compliance with the provisions of this subsection that are applicable to any company described in paragraph (1)(A) that controls an intermediate holding company under section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], and a company described in paragraph\(1)(A) shall be subject to such section (solely for purposes of this subparagraph) in the same manner and to the same extent as if the company described in paragraph (1)(A) were a savings and loan holding company.
 
 #### (B) Application of other Act
 

@@ -12,7 +12,7 @@ The program shall include technologies for refining high sulfur coals, low sulfu
 
 &emsp;(2) the production of energy, fuels, and products which, on a complete energy system basis, will result in environmental emissions no greater than those produced by existing comparable energy systems utilized for the same purpose;
 
-&emsp;(3) the capability to produce a range of coal-derived transportation fuels, including oxygenated hydrocarbons, boiler fuels, turbine fuels, and coproducts, which can reduce dependence on imported oil by displacing conventional petroleum in the transportation sector and other sectors of the economy;
+&emsp;(3) the capability to produce a range of coal-derived transportation fuels, including oxygenated hydrocarbons, boiler fuels, turbinefuels, and coproducts, which can reduce dependence on imported oil by displacing conventional petroleum in the transportation sector and other sectors of the economy;
 
 &emsp;(4) reduction in the cost of producing such coal-derived fuels and coproducts;
 

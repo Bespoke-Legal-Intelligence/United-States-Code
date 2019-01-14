@@ -94,7 +94,7 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 &emsp;(C) a physician who is not required to make such a report,
 
-> shall be admissible into evidence or otherwise used in any civil action involving private parties unless the facility, individual, or physician who made the report had knowledge of the falsity of the information contained in the report.
+> shall be admissible into evidence or otherwise used in any civil action involving private partiesunless the facility, individual, or physician who made the report had knowledge of the falsity of the information contained in the report.
 
 (4) A report made under paragraph (1) does not affect any obligation of a manufacturer who receives the report to file a report as required under subsection (a).
 
@@ -288,7 +288,7 @@ Not later than December 31, 2012, the Secretary shall issue proposed regulations
 
 #### (8) Other projects required to comply
 
-&emsp;Paragraphs (1)(B), (4)(A)(i), (4)(A)(ii), (5), (6), and (7) shall apply with respect to any pilot project undertaken in coordination with the comprehensive system described in paragraph (1)(C) that relates to the use of real world evidence for devices in the same manner and to the same extent as such paragraphs apply with respect to pilot projects conducted under this subsection.
+&emsp;Paragraphs (1)(B), (4)(A)(i), (4)(A)(ii), (5), (6), and (7) shall apply with respect to any pilot project undertaken in coordination with the comprehensive system described in paragraph (1)(C) that relates to the use of real world evidence for devices in the same manner and to the same extent as such paragraphs apply withrespect to pilot projects conducted under this subsection.
 
 #### (9) Report to Congress
 
@@ -310,7 +310,7 @@ Not later than December 31, 2012, the Secretary shall issue proposed regulations
 
 &emsp;The Secretary may not carry out a pilot project initiated by the Secretary under this subsection after October 1, 2022.
 
-(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347; Pub. L. 110–85, title II, §§226(a), 227, Sept. 27, 2007, 121 Stat. 854; Pub. L. 112–144, title VI, §§614, 615, July 9, 2012, 126 Stat. 1061;Pub. L. 114–255, div. A, title III, §3101(a)(2)(L), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 115–52, title VII, §708(a), Aug. 18, 2017, 131 Stat. 1062.)
+(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347; Pub. L. 110–85, title II, §§226(a), 227, Sept. 27, 2007, 121 Stat. 854; Pub. L. 112–144, title VI, §§614, 615, July 9, 2012, 126 Stat. 1061; Pub. L. 114–255, div. A, title III, §3101(a)(2)(L), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 115–52, title VII, §708(a), Aug. 18, 2017, 131 Stat. 1062.)
 
 #### References in Text
 
@@ -408,7 +408,7 @@ Pub. L. 102–300, §5(b), June 16, 1992, 106 Stat. 240, provided that: "The ame
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–629, §2(c), Nov. 28, 1990, 104 Stat. 4513, provided that: "Section 519(b) of the Federal Food, Drug,and Cosmetic Act \[21 U.S.C. 360i(b)\], as added by the amendment made by subsection (a), shall take effect—
+Pub. L. 101–629, §2(c), Nov. 28, 1990, 104 Stat. 4513, provided that: "Section 519(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(b)\], as added by the amendment made by subsection (a), shall take effect—
 
 &emsp;"(1) upon the effective date of regulations promulgated under subsection (b) \[set out below\], or
 
@@ -454,7 +454,7 @@ Pub. L. 101–629, §3(c), Nov. 28, 1990, 104 Stat. 4514, as amended by Pub. L. 
 
 #### Information Concerning Reporting Requirements for Device User Facilities
 
-Pub. L. 101–629, §2(d), Nov. 28, 1990, 104 Stat. 4513, directed Secretary of Health and Human Services, during the 18-month period beginning on Nov. 28, 1990, to inform device user facilities (as defined in 21 U.S.C. 360i(b)(5)(A)) and manufacturers and distributors of devices respecting the requirements of 21 U.S.C. 360i(b), and, to the extent practicable, provide persons subject to such requirements assistance in the form of publications regarding such requirements.
+Pub. L. 101–629, §2(d), Nov. 28, 1990, 104 Stat. 4513, directed Secretary of Health and Human Services, during the 18-month period beginning on Nov. 28, 1990, to inform device user facilities (as defined in 21 U.S.C.360i(b)(5)(A)) and manufacturers and distributors of devices respecting the requirements of 21 U.S.C. 360i(b), and, to the extent practicable, provide persons subject to such requirements assistance in the form of publications regarding such requirements.
 
 #### Study of Reporting Requirements; Compliance by Device User Facilities; Actions by Manufacturers; Cost Effectiveness; Recommendations
 

@@ -16,7 +16,7 @@ The research activities shall be consistent with the strategic research plan dev
 
 #### (c) Coordination
 
-The Director shall encourage coordination of the Foundation's ocean acidification activities with such activities of other nations and international organizations.
+The Director shall encourage coordination of the Foundation's ocean acidification activitieswith such activities of other nations and international organizations.
 
 (Pub. L. 111–11, title XII, §12407, Mar. 30, 2009, 123 Stat. 1441.)
 

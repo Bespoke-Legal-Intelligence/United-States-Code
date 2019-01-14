@@ -40,11 +40,11 @@ A person who is a member of, applies to be a member of, performs, has performed,
 
 &emsp;&emsp;(A) that is required, beyond five years, to complete an initial period of obligated service;
 
-&emsp;&emsp;(B) during which such student was unable to obtain orders releasing such student froma period of service in the uniformed services before the expiration of such five-year period and such inability was through no fault of such student; or
+&emsp;&emsp;(B) during which such student was unable to obtain orders releasing such student from a period of service in the uniformed services before the expiration of such five-year period and such inability was through no fault of such student; or
 
 &emsp;&emsp;(C) performed by a member of the Armed Forces (including the National Guard and Reserves) who is—
 
-&emsp;&emsp;&emsp;(i) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 of title 14;
+&emsp;&emsp;&emsp;(i) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, or 12305 of title 10 or under section 251, 252,<sup>1</sup> 359, 360, 367, or 712 <sup>1</sup> of title 14;
 
 &emsp;&emsp;&emsp;(ii) ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
 
@@ -52,7 +52,7 @@ A person who is a member of, applies to be a member of, performs, has performed,
 
 &emsp;&emsp;&emsp;(iv) ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the Armed Forces (including the National Guard or Reserve); or
 
-&emsp;&emsp;&emsp;(v) called into Federal service as a member of the National Guard under chapter 15 of title 10 or section 12406 of title 10.
+&emsp;&emsp;&emsp;(v) called into Federal service as a member of the National Guard under chapter 13 of title 10 or section 12406 of title 10.
 
 #### (4) Notification of intent to return
 
@@ -96,17 +96,31 @@ A student's eligibility for readmission to an institution of higher education un
 
 &emsp;(3) A dropping of such person from the rolls pursuant to section 1161(b) of title 10.
 
-(Pub. L. 89–329, title IV, §484C, as added Pub. L. 110–315, title IV, §487, Aug. 14, 2008, 122 Stat. 3290.)
+(Pub. L. 89–329, title IV, §484C, as added Pub. L. 110–315, title IV, §487, Aug. 14, 2008, 122 Stat. 3290; amended Pub. L. 115–232, div. A, title XII, §1204(a)(6), (b)(2), Aug. 13, 2018, 132 Stat. 2017.)
+
+#### References in Text
+
+Sections 251 and 252 of title 14, referred to in subsec. (c)(3)(C)(i), probably should be references to sections 2127 and 2128 of title 14. Prior to amendment by Pub. L. 115–232, §1204(b)(2) (see 2018 Amendment note below), those references were to sections 331 and 332 of title 14 and probably should not have been amended by Pub. L. 115–232 to conform to the renumbering of those sections as sections 251 and 252 because the renumbered sections were in title 10 of the Code and not title 14. Sections 331 and 332 of title 14 were renumbered sections 2127 and 2128, respectively, of title 14 by Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216, and references to sections 331 and 332 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+
+Sections 359, 360, 367, and 712 of title 14, referred to in subsec. (c)(3)(C)(i), were renumbered sections 2308, 2309, 2314, and 3713, respectively, of title 14 by Pub. L. 115–282, title I, §§113(b), 118(b), Dec. 4, 2018, 132 Stat. 4221, 4233, and references to sections 359, 360, 367, and 712 of title 14 considered to refer to such sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 #### Prior Provisions
 
 Prior sections 1091c to 1091f were repealed, effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
 
-Section 1091c, Pub. L. 89–329, title V, §504, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 83; amended Pub. L. 90–575, title II, §231(a), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92–318, title I, §141(a)(1)(B), (c)(1)(B), June 23, 1972, 86 Stat. 284, 285, authorized the Commissioner to make grants or contracts with State or local educational agencies for attracting qualified persons to the field of education.
+Section 1091c, Pub. L. 89–329, title V, §504, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 83; amended Pub. L. 90–575, title II, §231(a), Oct. 16, 1968, 82 Stat.1039; Pub. L. 92–318, title I, §141(a)(1)(B), (c)(1)(B), June 23, 1972, 86 Stat. 284, 285, authorized the Commissioner to make grants or contracts with State or local educational agencies for attracting qualified persons to the field of education.
 
 Section 1091d, Pub. L. 89–329, title V, §505, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 84, required the Commissioner to consult with the National Science Foundation and the National Foundation on the Arts and the Humanities in development and review of programs.
 
 Section 1091e, Pub. L. 89–329, title V, §506, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 84, authorized transfer of funds for programs for education professions development.
 
 Section 1091f, Pub. L. 89–329, title V, §507, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 84, authorized employment of experts and consultants and set forth provisions for compensation and travel expenses.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c)(3)(C)(i). Pub. L. 115–232, §1204(b)(2), substituted "section 251, 252," for "section 331, 332,".
+
+Subsec. (c)(3)(C)(v). Pub. L. 115–232, §1204(a)(6), substituted "chapter 13" for "chapter 15".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

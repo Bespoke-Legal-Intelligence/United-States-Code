@@ -2,7 +2,7 @@
 
 (a)
 
-Disagreement Constitutes a Dispute.—If the Federal Government and a contractor orsubcontractor fail to agree on a contract price adjustment, including whether the contractor or subcontractor has complied with the applicable cost accounting standards, the disagreement will constitute a dispute under chapter 71 of this title.
+Disagreement Constitutes a Dispute.—If the Federal Government and a contractor or subcontractor fail to agree on a contract price adjustment, including whether the contractor or subcontractor has complied with the applicable cost accounting standards, the disagreement will constitute a dispute under chapter 71 of this title.
 
 (b)
 

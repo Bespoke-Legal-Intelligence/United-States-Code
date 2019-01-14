@@ -6,7 +6,7 @@ Pentagon Reservation.—The Secretary of Defense has jurisdiction, custody, and 
 
 (b)
 
-Law Enforcement Authorities and Personnel.—(1) The Secretary shall protect the buildings, grounds, and property located in the National Capital Region that are occupied by, or under the jurisdiction, custody, or control of,the Department of Defense, and the persons on that property.
+Law Enforcement Authorities and Personnel.—(1) The Secretary shall protect the buildings, grounds, and property located in the National Capital Region that are occupied by, or under the jurisdiction, custody, or control of, the Department of Defense, and the persons on that property.
 
 (2) The Secretary may designate military or civilian personnel to perform law enforcement functions and military, civilian, or contract personnel to perform security functions for such buildings, grounds, property, and persons, including, with regard to civilian personnel designated under this section, duty in areas outside the property referred to in paragraph (1) to the extent necessary to protect that property and persons on that property. Subject to the authorization of the Secretary, any such military or civilian personnel so designated may exercise the authorities listed in paragraphs (1) through (5) of section 2672(c) of this title.
 
@@ -60,9 +60,9 @@ Definitions.— In this section:
 
 &emsp;(2) The term "National Capital Region" means the geographic area located within the boundaries of (A) the District of Columbia, (B) Montgomery and Prince Georges Counties in the State of Maryland, (C) Arlington, Fairfax, Loudoun, and Prince William Counties and the City of Alexandria in the Commonwealth of Virginia, and (D) all cities and other units of government within the geographic areas of such District, Counties, and City.
 
-&emsp;(3) The term "Pentagon" means that area of land (consisting of approximately 227 acres) and improvements thereon, including parking areas, located in Arlington County, Virginia, containing the Pentagon Office Building and its supporting facilities.
+&emsp;(3) The term "Pentagon" means that area of land (consisting of approximately 227 acres) and improvements thereon, including parking areas, located in Arlington County, Virginia,containing the Pentagon Office Building and its supporting facilities.
 
-&emsp;(4) The term "Mark Center Campus" means that area of land (consisting of approximately 16 acres) and improvements thereon, including parking areas, located in Alexandria, Virginia,and known on the day before the date of the enactment of this paragraph as the Fort Belvoir Mark Center Campus.
+&emsp;(4) The term "Mark Center Campus" means that area of land (consisting of approximately 16 acres) and improvements thereon, including parking areas, located in Alexandria, Virginia, and known on the day before the date of the enactment of this paragraph as the Fort Belvoir Mark Center Campus.
 
 &emsp;(5) The term "Raven Rock Mountain Complex" means that area of land (consisting of approximately 720 acres) and improvements thereon, including parking areas, at the Raven Rock Mountain Complex and its supporting facilities located in Maryland and Pennsylvania.
 

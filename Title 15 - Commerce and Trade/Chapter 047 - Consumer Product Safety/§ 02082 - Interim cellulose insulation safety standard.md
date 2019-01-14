@@ -10,7 +10,7 @@
 
 #### (b) Scope of judicial review
 
-Judicial review of the interim consumer product safety standard established in subsection (a), as such standard is in effect on and after the last day of the 60-day period specified in such subsection, shall be limited solely to the issue of whether any changes made by the Commission under paragraph (1) are technical, nonsubstantive changes. For purposes of such review, any change made by the Commission under paragraph (1) which requires that any test to determine the flame spread rating of cellulose insulation shall include a correction for variationsin test results caused by equipment used in the test shall be considered a technical, nonsubstantive change.
+Judicial review of the interim consumer product safety standard established in subsection (a), as such standard is in effect on and after the last day of the 60-day period specified in such subsection, shall be limited solely to the issue of whether any changes made by the Commission under paragraph (1) are technical, nonsubstantive changes. For purposes of such review, any change made by the Commission under paragraph (1) which requires that any test to determine the flame spread rating of cellulose insulation shall include a correction for variations in test results caused by equipment used in the test shall be considered a technical, nonsubstantive change.
 
 #### (c) Enforcement; violations; promulgation of final standard; procedures applicable to promulgation; revision of interim standard; procedures applicable to revision
 
@@ -20,7 +20,7 @@ Judicial review of the interim consumer product safety standard established in s
 
 (2)(A) Until there is in effect such a final consumer product safety standard, the Commission shall incorporate into the interim consumer product safety standard, in accordance with the provisions of this paragraph, each revision superseding the requirements for flame resistance and corrosiveness referred to in subsection (a) and promulgated by the General Services Administration.
 
-(B) At least 45 days before any revision superseding such requirements is to become effective, the Administrator of the General Services Administration shall notify the Commission of such revision. In the case of any such revision which becomes effective during the period beginning on February 1, 1978, and ending on July 11, 1978, such notice from the Administrator of the General Services Administration shall be deemed to have been made on July 11, 1978.
+(B) At least 45 days before any revision superseding such requirements is to become effective,the Administrator of the General Services Administration shall notify the Commission of such revision. In the case of any such revision which becomes effective during the period beginning on February 1, 1978, and ending on July 11, 1978, such notice from the Administrator of the General Services Administration shall be deemed to have been made on July 11, 1978.
 
 (C)(i) No later than 45 days after receiving any notice under subparagraph (B), the Commission shall publish the revision, including such changes in the revision as it considers appropriate to make the revision suitable for promulgation as an amendment to the interim consumer product safety standard, in the Federal Register as a proposed amendment to the interim consumer product safety standard.
 

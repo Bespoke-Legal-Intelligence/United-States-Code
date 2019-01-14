@@ -58,6 +58,134 @@
 
 <b>2001</b>—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
 
+#### 75th Anniversary of World War II Commemoration
+
+Pub. L. 115–433, Jan. 10, 2019, 132 Stat. 5523, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the '75th Anniversary of World War II Commemoration Act'.
+
+#### "SEC. 2. PROGRAM TO COMMEMORATE 75TH ANNIVERSARY OF WORLD WAR II.
+
+"(a)
+
+Commemorative Program Authorized.—The Secretary of Defense shall conduct a program to commemorate the 75th anniversary of World War II. In conducting the commemorative program, the Secretary shall support and facilitate other programs and activities of the Federal Government, State and local governments, and not-for-profit organizations in commemoration of the 75th anniversary of World War II. The Secretary shall conduct the commemorative program in accordance with applicable Department of Defense policy and using resources available to the Secretary, including amounts in the Fund under subsection (d).
+
+"(b)
+
+Commemorative Activities and Objectives.—The commemorative program may include activities and ceremonies to achieve the following objectives:
+
+&emsp;"(1) To thank and honor veterans of World War II, including personnel who were held as prisoners of war or listed as missing in action, for their service and sacrifice on behalf of the United States and to thank and honor the families of these veterans.
+
+&emsp;"(2) To educate the public about the history of World War II and highlight the service of the Armed Forces during World War II and the contributions of Federal agencies and governmental and nongovernmental organizations that served with, or in support of, the Armed Forces.
+
+&emsp;"(3) To pay tribute to the contributions made on the home front by the people of the United States during World War II.
+
+&emsp;"(4) To recognize the contributions and sacrifices made by the allies of the United States during World War II.
+
+&emsp;"(5) To remember the Holocaust, the annihilation of 6,000,000 Jews by the Nazi regime, and to pay tribute to the Allied troops who liberated Nazi concentration camps during World War II.
+
+"(c)
+
+Names and Symbols.—The Secretary of Defense shall have the sole and exclusive right to use the name 'The United States of America 75th Anniversary of World War II Commemoration', and such seal, emblems, and badges incorporating such name as the Secretary may lawfully adopt. Nothing in this section may be construed to supersede rights that are established or vested before the date of the enactment of this Act \[Jan. 10, 2019\].
+
+"(d)
+
+Commemorative Fund.—
+
+&emsp;"(1)
+
+Establishment and administration.—Upon the Secretary establishing the commemorative program under subsection (a), the Secretary of the Treasury shall establish in the Treasury of the United States an account to be known as the 'Department of Defense World War II Commemoration Fund' (in this section referred to as the 'Fund'). The Fund shall be administered by the Secretary of Defense.
+
+&emsp;"(2)
+
+Use of fund.—The Secretary of Defense shall use the assets of the Fund only for the purpose of conducting the commemorative program and providing grants to State and local governments and not-for-profit organizations for commemorative activities, and shall prescribe such regulations regarding the use of the Fund as the Secretary considers to be necessary.
+
+&emsp;"(3)
+
+Deposits.—The following shall be deposited into the Fund:
+
+&emsp;&emsp;"(A) Amounts appropriated to the Fund.
+
+&emsp;&emsp;"(B) Proceeds derived from the Secretary's use of the exclusive rights described in subsection (c).
+
+&emsp;&emsp;"(C) Donations made in support of the commemorative program by private and corporate donors.
+
+&emsp;&emsp;"(D) Funds transferred to the Fund by the Secretary from funds appropriated for fiscal year 2019 and subsequent years for the Department of Defense.
+
+&emsp;"(4)
+
+Availability.—
+
+&emsp;&emsp;"(A)
+
+In general.—Subject to subsection (g)(2) and except as provided in subparagraph (B), amounts deposited under paragraph (3) shall constitute the assets of the Fund and remain available until expended.
+
+&emsp;&emsp;"(B)
+
+Exception.—Amounts transferred to the Fund under paragraph (3)(D) from amounts appropriated for fiscal year 2019 may be obligated only during fiscal year 2019.
+
+&emsp;"(5)
+
+Budget request.—The Secretary of Defense may establish a separate budget line for the commemorative program. In the budget justification materials submitted by the Secretary in support of the budget of the President for any fiscal year for which the Secretary establishes the separate budget line, the Secretary shall—
+
+&emsp;&emsp;"(A) identify and explain any amounts expended for the commemorative program in the fiscal year preceding the budget request;
+
+&emsp;&emsp;"(B) identify and explain the amounts being requested to support the commemorative program for the fiscal year of the budget request; and
+
+&emsp;&emsp;"(C) present a summary of the fiscal status of the Fund.
+
+"(e)
+
+Acceptance of Voluntary Services.—
+
+&emsp;"(1)
+
+Authority to accept services.—Notwithstanding section 1342 of title 31, United States Code, the Secretary of Defense may accept from any person voluntary services to be provided in furtherance of the commemorative program. The Secretary of Defense shall prohibit the solicitation of any voluntary services if the nature or circumstances of such solicitation would compromise the integrity or the appearance of integrity of any program of the Department of Defense or of any individual involved in the program.
+
+&emsp;"(2)
+
+Reimbursement of incidental expenses.—The Secretary may provide for reimbursement of incidental expenses incurred by a person providing voluntary services under this subsection. The Secretary shall determine which expenses are eligible for reimbursement under this paragraph.
+
+"(f)
+
+Consultation With Director of the United States Holocaust Memorial Museum.—In designing the commemorative program conducted under this section, the Secretary of Defense shall consult with the Director of the United States Holocaust Memorial Museum.
+
+"(g)
+
+Final Report.—
+
+&emsp;"(1)
+
+Report required.—Not later than 60 days after the end of the commemorative program established by the Secretary of Defense under subsection (a), the Secretary shall submit to Congress a report containing an accounting of—
+
+&emsp;&emsp;"(A) all of the funds deposited into and expended from the Fund;
+
+&emsp;&emsp;"(B) any other funds expended under this section; and
+
+&emsp;&emsp;"(C) any unobligated funds remaining in the Fund.
+
+&emsp;"(2)
+
+Treatment of unobligated funds.—Unobligated amounts remaining in the Fund as of the end of the commemorative period shall be held in the Fund until transferred by law.
+
+"(h)
+
+Limitation on Expenditures.—Total expenditures from the Fund, using amounts appropriated to the Department of Defense, may not exceed $5,000,000 for fiscal year 2019 or for any subsequent fiscal year to carry out the commemorative program.
+
+"(i)
+
+Sunset.—
+
+&emsp;"(1)
+
+Commemorative program.—The commemorative program shall terminate on December 31, 2021.
+
+&emsp;"(2)
+
+Fund.—The Fund shall terminate 60 days after the termination of the commemorative program."
+
 #### 400 Years of African-American History Commission
 
 Pub. L. 115–102, Jan. 8, 2018, 131 Stat. 2248, provided that:
@@ -2162,37 +2290,41 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
-#### Proc. No. 9615. Armed Forces Day
+#### Proc. No. 9753. Armed Forces Day
 
-Proc. No. 9615, May 19, 2017, 82 F.R. 23995, provided:
+Proc. No. 9753, May 18, 2018, 83 F.R. 24215, provided:
 
-For almost 70 years, our Nation has set aside one day to recognize the great debt we owe to the men and women who serve in the Army, Navy, Air Force, Marine Corps, and Coast Guard. On Armed Forces Day, we salute the bravery of those who defend our Nation's peace and security. Their service defends for Americans the freedom that all people deserve.
+On Armed Forces Day, we pay tribute to the extraordinary men and women who serve our Nation with valor and distinction in all branches of the military. This annual observance honors their steadfast service in preserving our Nation's peace, preserving our freedom, and defending our founding principles.
 
-This year, we also reflect on the 100th anniversary of our Nation's entry into World War I. More than 4.7 million Americans would ultimately serve in the United States Armed Forces during that terrible conflict. Their sacrifice has not been forgotten. One hundred years later, we face different threats and challenges. But our safety and security, and the defense of our way of life, rest in the same able hands of our Armed Forces.
+Throughout our history, in times of war and peace, our service members have served with bravery, skill, and unwavering devotion to duty. There is no fighting force that rivals that of the United States military. The precious liberties all Americans enjoy are possible because, every day and without exception, our Armed Forces relentlessly and tirelessly carry out the critical mission of protecting our country, our freedoms, and our way of life.
 
-Because our Armed Forces must constantly adapt to new threats, our Nation is committed to ensuring they have the tools and resources they need as they train, deploy, and fight in defense of our country and defending our values. This is why my budget calls for a $54 billion increase in national defense spending.
+Taking care of our Armed Forces is one of the highest priorities of my Administration. Our military has made tremendous gains against ISIS and al-Qa'ida in Syria and Iraq, with ISIS having lost nearly 100 percent of the territory it formerly occupied. These successes underscore the importance of continuing to support, grow, and modernize our military forces—we must ensure that our Armed Forces remain second to none. Earlier this year, I signed into law legislation that does just that, providing nearly $700 billion in funding for national defense. These funds will increase our military's capacity—investing billions in new equipment, maintenance, and troop readiness.
 
-Today, we salute our Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen for their dedication as they carry out the extraordinary duty of protecting our country. We also pay tribute to the families who serve alongside them, lending their steadfast love and support.
+We will never be able to repay fully our heroes for their selfless service. We must, therefore, guaranteethat we support them and their families here at home so that they can effectively execute their missions abroad. I was very pleased to sign into law legislation that gave our troops a 2.4 percent pay raise—their largest pay raise in 8 years. I was also proud to sign an Executive Order this month to enhance employment opportunities for the spouses of our service members. My Administration will not stop in our efforts to encourage all sectors of our country—private and public—to find ways to support our troops and their loved ones.
 
-NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, and Commanderin Chief of the Armed Forces of the United States, continuing the tradition of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
+On this day, and every day, we owe a debt of gratitude to our service members stationed at home and those deployed around the world. All across America, we enjoy the blessings of liberty because our Nation's finest men and women willingly accept the call to service. We proudly salute our Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen, and recognize the families who serve alongside them for their courage and commitment.
+
+NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the tradition of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
 
 I invite the Governors of the States and Territories and other areas subject to the jurisdiction of the United States to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic, and other organizations to join in the observance of Armed Forces Day each year.
 
 Finally, I call upon all Americans to display the flag of the United States at their homes and businesses on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day.
 
-Proclamation 9452 of May 20, 2016, is hereby superseded.
+Proclamation 9615 of May 19, 2017, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this nineteenth day of May, in the year of our Lord two thousand seventeen, and of the Independence of the United States of America the two hundred and forty-first.
+IN WITNESS WHEREOF, I have hereunto set my hand this eighteenth day of May, in the year of our Lord two thousand eighteen, and of the Independence of the United States of America the two hundred and forty-second.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior similar proclamations were contained in the following:
 
+Proc. No. 9615, May 19, 2017, 82 F.R. 23995, superseded by Proc. No. 9753, May 18, 2018, 83 F.R. 24215.
+
 Proc. No. 9452, May 20, 2016, 81 F.R. 33327, superseded by Proc. No. 9615, May 19, 2017, 82 F.R. 23995.
 
 Proc. No. 9283, May 15, 2015, 80 F.R. 29199, superseded by Proc. No. 9452, May 20, 2016, 81 F.R. 33327.
 
-Proc. No. 9129, May 16, 2014, 79 F.R. 29321, superseded by Proc. No. 9283, May 15, 2015, 80 F.R. 29200.
+Proc. No. 9129, May 16, 2014, 79 F.R. 29321, superseded by Proc. No. 9283, May 15, 2015, 80 F.R. 29199.
 
 Proc. No. 8984, May 17, 2013, 78 F.R. 30731, superseded by Proc. No. 9129, May 16, 2014, 79 F.R. 29321.
 

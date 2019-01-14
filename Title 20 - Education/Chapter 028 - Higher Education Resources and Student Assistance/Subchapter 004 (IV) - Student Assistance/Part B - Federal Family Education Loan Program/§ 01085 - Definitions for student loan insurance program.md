@@ -6,7 +6,7 @@ As used in this part:
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the term "eligible institution" means an institution of higher education, as defined in section 1002 of this title, except that, for the purposes of sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title, an eligible institution includes any institution that is within this definition without regard to whether such institution is participating in any program under this subchapter and includes any institution ineligible for participation in any program under thispart pursuant to paragraph (2) of this subsection.
+&emsp;Except as provided in paragraph (2), the term "eligible institution" means an institution of higher education, as defined in section 1002 of this title, except that, for the purposes of sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title, an eligible institution includes any institution that is within this definition without regard to whether such institution is participating in any program under this subchapter and includes any institution ineligible for participation in any program under this part pursuant to paragraph (2) of this subsection.
 
 #### (2) Ineligibility based on high default rates
 
@@ -114,7 +114,7 @@ As used in this part:
 
 &emsp;&emsp;&emsp;(ii) engage an independent third party (which may be paid with funds received under section 1059d of this title or part B of subchapter III) to provide technical assistance in implementing such default management plan; and
 
-&emsp;&emsp;&emsp;(iii) provide to the Secretary, on an annual basis or at such other intervals as the Secretary may require, evidence of cohort default rate improvement and successfulimplementation of such default management plan.
+&emsp;&emsp;&emsp;(iii) provide to the Secretary, on an annual basis or at such other intervals as the Secretary may require, evidence of cohort default rate improvement and successful implementation of such default management plan.
 
 #### (B) Discretionary eligibility conditioned on improvement
 
@@ -156,7 +156,7 @@ As used in this part:
 
 #### (A) In general
 
-&emsp;&emsp;An institution that demonstrates to the Secretary that the institution's participation rate index is equal to or less than 0.0625 for any of the 3 most recent fiscal years for which data is available shall not be subject to paragraph (2). The participation rate index shall be determined by multiplying the institution's cohort default rate for loans under this part or part D, or weighted average cohort default rate for loans under this part and part D, by the percentage of the institution's regular students, enrolled on at least a half-time basis, who received a loan made under this part or part D for a 12-month period ending during the 6 months immediately preceding the fiscal year for which the cohort of borrowers used to calculate the institution's cohort default rate is determined.
+&emsp;&emsp;An institution that demonstrates to the Secretary that the institution's participation rate index is equal to or less than 0.0625 for any of the 3 most recent fiscal years for which data is available shall not be subject to paragraph (2). The participation rateindex shall be determined by multiplying the institution's cohort default rate for loans under this part or part D, or weighted average cohort default rate for loans under this part and part D, by the percentage of the institution's regular students, enrolled on at least a half-time basis, who received a loan made under this part or part D for a 12-month period ending during the 6 months immediately preceding the fiscal year for which the cohort of borrowers used to calculate the institution's cohort default rate is determined.
 
 #### (B) Data
 
@@ -178,7 +178,7 @@ As used in this part:
 
 &emsp;&emsp;&emsp;(i) is subject to examination and supervision by an agency of the United States or of the State in which its principal place of operation is established, and
 
-&emsp;&emsp;&emsp;(ii) does not have as its primary consumer credit function the making or holding of loans made to students under this part unless (I) it is a bank which is wholly owned by a State, or a bank which is subject to examination and supervision by an agency of the United States, makes student loans as a trustee pursuant to an express trust, operated as a lender under this part prior to January 1, 1975, and which meets the requirements of this provision prior to July 23, 1992, (II) it is a single wholly owned subsidiary of a bank holding company which does not have as its primary consumer credit function the making or holding of loans made to students under this part, (III) it is a bank (as defined in section 1813(a)(1) of title 12) that is a wholly owned subsidiary of a nonprofitfoundation, the foundation is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title, and the bank makes loans under this part only to undergraduate students who are age 22 or younger and has a portfolio of such loans that is not more than $5,000,000, or (IV) it is a National or State chartered bank, or a credit union, with assets of less than $1,000,000,000;
+&emsp;&emsp;&emsp;(ii) does not have as its primary consumer credit function the making or holding of loans made to students under this part unless (I) it is a bank which is wholly owned by a State, or a bank which is subject to examination and supervision by an agency of the United States, makes student loans as a trustee pursuant to an express trust, operated as a lender under this part prior to January 1, 1975, and which meets the requirements of this provision prior to July 23, 1992, (II) it is a single wholly owned subsidiary of a bank holding company which does not have as its primary consumer credit function the making or holding of loans made to students under this part, (III) it is a bank (as defined in section 1813(a)(1) of title 12) that is a wholly owned subsidiary of a nonprofit foundation, the foundation is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title, and the bank makes loans under this part only to undergraduate students who are age 22 or younger and has a portfolio of such loans that is not more than $5,000,000, or (IV) it is a National or State chartered bank, or a credit union, with assets of less than $1,000,000,000;
 
 &emsp;&emsp;(B) a pension fund as defined in the Employee Retirement Income Security Act \[29 U.S.C. 1001 et seq.\];
 
@@ -264,7 +264,7 @@ As used in this part:
 
 &emsp;&emsp;(D) compensated an employee who is employed in the financial aid office of an institution of higher education, or who otherwise has responsibilities with respect to student loans or other financial aid of the institution, and who is serving on an advisory board, commission, or group established by a lender or group of lenders for providing such service, except that the eligible lender may reimburse such employee for reasonable expenses incurred in providing such service;
 
-&emsp;&emsp;(E) performed for an institution of higher education any function that such institution of higher education is required to perform under this title, except that a lender shall be permitted to perform functions on behalf of such institution in accordance with section 1092(b) or 1092(l) of this title;
+&emsp;&emsp;(E) performed for an institution of higher education any function that such institution of higher education is required to perform under this title, except that a lender shall bepermitted to perform functions on behalf of such institution in accordance with section 1092(b) or 1092(l) of this title;
 
 &emsp;&emsp;(F) paid, on behalf of an institution of higher education, another person to perform any function that such institution of higher education is required to perform under this subchapter, except that a lender shall be permitted to perform functions on behalf of such institution in accordance with section 1092(b) or 1092(l) of this title;
 
@@ -292,7 +292,7 @@ As used in this part:
 
 &emsp;&emsp;(B) the institution or organization, and the eligible lender, with respect to its duties as trustee, each comply on and after January 1, 2007, with the requirements of paragraph (2), except that—
 
-&emsp;&emsp;&emsp;(i) the requirements of clauses (i), (ii), (vi), and (viii) of paragraph (2)(A) shall, subject to clause (ii) of this subparagraph, only apply to the institution (including both an institution for which the lenderserves as trustee and an institution affiliated with an organization for which the lender serves as trustee);
+&emsp;&emsp;&emsp;(i) the requirements of clauses (i), (ii), (vi), and (viii) of paragraph (2)(A) shall, subject to clause (ii) of this subparagraph, only apply to the institution (including both an institution for which the lender serves as trustee and an institution affiliated with an organization for which the lender serves as trustee);
 
 &emsp;&emsp;&emsp;(ii) in the case of an organization affiliated with an institution—
 
@@ -330,7 +330,7 @@ The term "holder" means an eligible lender who owns a loan.
 
 #### (j) Guaranty agency
 
-The term "guaranty agency" means any State or nonprofit private institution or organization with which the Secretary has an agreement under section 1078(b) of this title.
+The term "guaranty agency" means any State or nonprofit private institution or organizationwith which the Secretary has an agreement under section 1078(b) of this title.
 
 #### (k) Insurance beneficiary
 
@@ -472,7 +472,7 @@ The Navajo Community College Act, referred to in subsec. (a)(2)(C)(iii), is Pub.
 
 The Employee Retirement Income Security Act, referred to in subsec. (d)(1)(B), probably means the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-Section 1078–1 of this title, referred to in subsecs. (a)(4)(B) and (m)(1)(A), (2)(D), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
+Section 1078–1 of this title, referred to in subsecs. (a)(4)(B) and (m)(1)(A), (2)(D), was repealed by Pub. L.103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 Section 1078(h) of this title, referred to in subsec. (d)(1)(H), was repealed by Pub. L. 110–315, title IV, §438(a)(2)(B), Aug. 14, 2008, 122 Stat. 3258.
 
@@ -728,7 +728,7 @@ Effective date.—The amendments made by paragraph (1) \[amending this section\]
 
 "(B)
 
-Transition.—Notwithstanding subparagraph (A), the method of calculating cohort default rates under section 435(m) of the Higher Education Act of 1965 \[20 U.S.C. 1085(m)\] as in effect on the day before the date of enactment of this Act \[Aug. 14, 2008\] shall continue in effect, and the rates so calculated shall be the basis for any sanctions imposed on institutions of higher education because of their cohort default rates, untilthree consecutive years of cohort default rates calculated in accordance with the amendments made by paragraph (1) are available."
+Transition.—Notwithstanding subparagraph (A), the method of calculating cohort default rates under section 435(m) of the Higher Education Act of 1965 \[20 U.S.C. 1085(m)\] as in effect on the day before the date of enactment of this Act \[Aug. 14, 2008\] shall continue in effect, and the rates so calculated shall be the basis for any sanctions imposed on institutions of higher education because of their cohort default rates, until three consecutive years of cohort default rates calculated in accordance with the amendments made by paragraph (1) are available."
 
 #### Effective Date of 2007 Amendment
 
@@ -775,6 +775,30 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 #### Effective Date
 
 Section effective Oct. 17, 1986, with subsec. (d)(5) of this section effective 30 days after Oct. 17, 1986, see section 402(b) of Pub. L. 99–498, set out as a note under section 1071 of this title.
+
+#### Waiver of Mitigating Circumstances Requirement for Student Loan Insurance Program Eligibility
+
+Pub. L. 115–141, div. H, title III, §314, Mar. 23, 2018, 132 Stat. 752, provided that:
+
+"(a)
+
+In General.—For the purpose of carrying out section 435(a)(2) of the Higher Education Act of 1965 (20 U.S.C. 1085(a)(2)), the Secretary of Education may waive the requirements under sections 435(a)(5)(A)(i) and 435(a)(5)(A)(ii) of such Act (20 U.S.C. 1085(a)(5)(A)(i) and 20 U.S.C. 1085(a)(5)(A)(ii))—
+
+&emsp;"(1) for an institution of higher education that offers an associate degree, is a public institution, and is located in an economically distressed county, defined as a county that ranks in the lowest 5 percent of all counties in the United States based on a national index of county economic status; and
+
+&emsp;"(2) for an institution—
+
+&emsp;&emsp;"(A) that is a public institution of higher education or a Tribal College or University (as defined in section 316(b) of such Act (20 U.S.C. 1059c\[(b)\])); and
+
+&emsp;&emsp;"(B) whose fall enrollment for the most recently completed academic year was comprised of a majority of students who are Indian (as defined in such section) or Alaska Natives (as defined in section 317(b) of such Act (20 U.S.C. 1059d(b))\[)\].
+
+"(b)
+
+Applicability.—Subsection (a) shall apply to an institution of higher education that otherwise would be ineligible to participate in a program under part A of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.\] on or after the date of enactment of this Act \[Mar. 23, 2018\] due to the application of section 435(a)(2) of the Higher Education Act of 1965 (20 U.S.C. 1085(a)(2)).
+
+"(c)
+
+Coverage.—This section shall be in effect for the period covered by this Act \[div. H of Pub. L. 114–141, 132 Stat. 696\] and for the succeeding fiscal year."
 
 #### Definition of Institution of Higher Education
 

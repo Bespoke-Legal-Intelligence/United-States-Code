@@ -16,7 +16,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 &emsp;&emsp;(A) use a random sampling process which is consistent with relevant, widely accepted professional assessment standards and that produces data that are representative on a national and regional basis;
 
-&emsp;&emsp;(B) conduct a national assessment and collect and report assessment data, includingachievement data trends, in a valid and reliable manner on student academic achievement in public and private elementary schools and secondary schools at least once every 2 years, in grades 4 and 8 in reading and mathematics;
+&emsp;&emsp;(B) conduct a national assessment and collect and report assessment data, including achievement data trends, in a valid and reliable manner on student academic achievement in public and private elementary schools and secondary schools at least once every 2 years, in grades 4 and 8 in reading and mathematics;
 
 &emsp;&emsp;(C) conduct a national assessment and collect and report assessment data, including achievement data trends, in a valid and reliable manner on student academic achievement in public and private schools in reading and mathematics in grade 12 in regularly scheduled intervals, but at least as often as such assessments were conducted prior to January 8, 2002;
 
@@ -58,7 +58,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), a participating State shall review and give permission for the release of results from any test of its students administered as a part of a State assessment prior to the release of such data. Refusal by a State to release its data shall not restrict the release of data from other States that have approved the release of such data.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), a participating State shall review and give permission for the release of results from any test of its students administered as a part of a State assessment prior to the releaseof such data. Refusal by a State to release its data shall not restrict the release of data from other States that have approved the release of such data.
 
 #### (ii) Special rule
 
@@ -134,7 +134,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Commissioner for Education Statistics may decline to make available through public means, such as posting on the Internet, distribution to the media, distribution through public agencies, or in response to a request under section 552 of title 5, for a period, not to exceed 10 years after initial use, cognitive questions that the Commissioner for Education Statistics intends to reuse in the future.
+&emsp;&emsp;&emsp;The Commissioner for Education Statistics may decline to make availablethrough public means, such as posting on the Internet, distribution to the media, distribution through public agencies, or in response to a request under section 552 of title 5, for a period, not to exceed 10 years after initial use, cognitive questions that the Commissioner for Education Statistics intends to reuse in the future.
 
 #### (ii) Extension
 
@@ -214,7 +214,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (3) Reporting
 
-&emsp;After determining that such levels are reasonable, valid, and informative to the public, as the result of an evaluation under subsection (f), the Commissioner for Education Statistics shall use such levels or other methods or indicators for reporting results of the National Assessment and State assessments.
+&emsp;After determining that such levels are reasonable, valid, and informative to the public,as the result of an evaluation under subsection (f), the Commissioner for Education Statistics shall use such levels or other methods or indicators for reporting results of the National Assessment and State assessments.
 
 #### (4) Review
 

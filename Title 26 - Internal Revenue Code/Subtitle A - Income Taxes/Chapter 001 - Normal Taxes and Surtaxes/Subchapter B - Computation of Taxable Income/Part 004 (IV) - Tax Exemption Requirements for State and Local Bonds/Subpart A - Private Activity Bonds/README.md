@@ -4,7 +4,7 @@ Subpart A—Private Activity Bonds
 | :--- | ---: |
 | [141\.](%C2%A7%2000141%20-%20Private%20activity%20bond%3B%20qualified%20bond.md) | Private activity bond; qualified bond. |
 | [142\.](%C2%A7%2000142%20-%20Exempt%20facility%20bond.md) | Exempt facility bond. |
-| [143\.](%C2%A7%2000143%20-%20Mortgage%20revenue%20bonds%20qualified%20mortgage%20bond%20and%20qualified%20veterans%27%20mortgage%20bond.md) | Mortgage revenue bonds: qualified mortgage and qualified veterans' mortgage bond.<sup>1</sup> |
+| [143\.](%C2%A7%2000143%20-%20Mortgage%20revenue%20bonds%20qualified%20mortgage%20bond%20and%20qualified%20veterans%27%20mortgage%20bond.md) | Mortgage revenue bonds; qualified mortgage bond and qualified veterans' mortgage bond.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -18,6 +18,8 @@ Subpart A—Private Activity Bonds
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(46), Mar. 23, 2018, 132 Stat. 1186, substituted "Mortgage revenuebonds; qualified mortgage bond and qualified veterans' mortgage bond" for "Mortgage revenue bonds: qualified mortgage and qualified veterans' mortgage bond" in item 143.
 
 <b>1986</b>—Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2603, in amending part IV generally, added subpart heading and analysis and struck out item 143 "Determination of marital status".
 

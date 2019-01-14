@@ -24,7 +24,7 @@ To be so designated, a Head Start agency shall, at a minimum, do all the followi
 
 &emsp;&emsp;(B) parenting skills training.
 
-&emsp;(5) Offer to parents of participating children substance abuse counseling (either directly orthrough referral to local entities), if needed, including information on the effect of drug exposure on infants and fetal alcohol syndrome.
+&emsp;(5) Offer to parents of participating children substance abuse counseling (either directly or through referral to local entities), if needed, including information on the effect of drug exposure on infants and fetal alcohol syndrome.
 
 &emsp;(6) At the option of such agency, offer (directly or through referral to local entities) to such parents—
 
@@ -102,7 +102,7 @@ Upon receiving designation as a Head Start agency, the agency shall establish an
 
 &emsp;&emsp;&emsp;&emsp;(II) are selected for their expertise in education, business administration, or community affairs.
 
-&emsp;&emsp;&emsp;(v) Exceptions shall be made to the requirements of clauses (i) through (iv) formembers of a governing body when those members oversee a public entity and are selected to their positions with the public entity by public election or political appointment.
+&emsp;&emsp;&emsp;(v) Exceptions shall be made to the requirements of clauses (i) through (iv) for members of a governing body when those members oversee a public entity and are selected to their positions with the public entity by public election or political appointment.
 
 &emsp;&emsp;&emsp;(vi) If a person described in clause (i), (ii), or (iii) is not available to serve as a member of the governing body, the governing body shall use a consultant, or an other individual with relevant expertise, with the qualifications described in that clause, who shall work directly with the governing body.
 
@@ -390,7 +390,7 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (e)(3), is Pu
 
 <b>2015</b>—Subsec. (b)(4). Pub. L. 114–95, §9215(nn)(3)(A), struck out ", such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.)" after "local entities" in introductory provisions.
 
-Subsec. (e)(3). Pub. L. 114–95, §9215(nn)(3)(B), struck out "Even Start programs under subpart 3 of part B oftitle I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.)," before "programs under section 619".
+Subsec. (e)(3). Pub. L. 114–95, §9215(nn)(3)(B), struck out "Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.)," before "programs under section 619".
 
 <b>2007</b>—Pub. L. 110–134 amended section generally. Prior to amendment, section related to, in subsec. (a), receipt, administration, and transfer of funds, sponsorship of projects, and delegation of authority, in subsec. (b), participation of parents in decisionmaking and implementation of programs, in subsec. (c), coordination with other agencies, in subsec. (d), transition coordination with schools, and, in subsec. (e), assessment when hiring or evaluating classroom teachers.
 

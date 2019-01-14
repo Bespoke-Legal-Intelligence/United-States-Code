@@ -52,7 +52,11 @@ Duties and Functions.—The advocate for competition of an executive agency shal
 
 Responsibilities.—The advocate for competition for each procuring activity is responsible for promoting full and open competition, promoting the acquisition of commercial items, and challenging barriers to acquisition, including unnecessarily restrictive statements of need, unnecessarily detailed specifications, and unnecessarily burdensome contract clauses.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3709.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3709; Pub. L. 115–232, div. A, title VIII, §836(b)(2), Aug. 13, 2018, 132 Stat. 1861.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(b)(2), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (c) of this section is amended by striking "commercial items" and inserting "commercial products and commercial services". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -69,4 +73,12 @@ Historical and Revision Notes
 41:418.
 
 Pub. L. 93–400, §20, as added Pub. L. 98–369, title VII, §2732(a), July 18, 1984, 98 Stat. 1197; Pub. L. 103–355, title VIII, §8303(a), Oct. 13, 1994, 108 Stat. 3398.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–232 substituted "commercial products and commercial services" for "commercial items".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 

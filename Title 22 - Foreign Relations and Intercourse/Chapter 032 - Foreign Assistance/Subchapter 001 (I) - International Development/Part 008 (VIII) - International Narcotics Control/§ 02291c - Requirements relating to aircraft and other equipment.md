@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;(A) Except as provided in paragraph (2), any aircraft made available to a foreign country under this part, or made available to a foreign country primarily for narcotics-related purposes under any other provision of law, shall be provided only on a lease or loan basis.
+&emsp;(A) Except as provided in paragraph (2), any aircraft made available to a foreign countryunder this part, or made available to a foreign country primarily for narcotics-related purposes under any other provision of law, shall be provided only on a lease or loan basis.
 
 &emsp;(B) Subparagraph (A) applies to aircraft made available at any time after October 27, 1986 (which was the date of enactment of the International Narcotics Control Act of 1986).
 

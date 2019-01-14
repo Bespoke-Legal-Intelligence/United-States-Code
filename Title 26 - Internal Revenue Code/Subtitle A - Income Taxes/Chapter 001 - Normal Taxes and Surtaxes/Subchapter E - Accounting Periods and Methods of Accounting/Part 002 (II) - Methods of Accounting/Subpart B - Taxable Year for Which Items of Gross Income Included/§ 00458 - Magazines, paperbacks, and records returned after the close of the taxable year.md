@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (2) Paperback
 
-&emsp;The term "paperback" means any book which has a flexible outer cover and the pages of which are affixed directly to such outer cover. Such term does not include a magazine.
+&emsp;The term "paperback" means any book which has a flexible outer cover and the pagesof which are affixed directly to such outer cover. Such term does not include a magazine.
 
 #### (3) Record
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) is satisfactory to the Secretary.
 
-#### (9) Repurchased <sup>1</sup> by the taxpayer not treated as resale
+#### (9) Repurchase by the taxpayer not treated as resale
 
 &emsp;A repurchase by the taxpayer shall be treated as an adjustment of the sales price rather than as a resale.
 
@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (1) Election of benefits
 
-&emsp;This section shall apply to qualified sales of magazines, paperbacks, or records, as the case may be, if and only if the taxpayer makes an election under this section with respect to the trade or business in connection with which such sales are made. An election under this section may be made without the consent of the Secretary. The election shall be made in such manner as the Secretary may by regulations prescribed <sup>2</sup> and shall be made for any taxable year not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof).
+&emsp;This section shall apply to qualified sales of magazines, paperbacks, or records, as the case may be, if and only if the taxpayer makes an election under this section with respect to the trade or business in connection with which such sales are made. An election under this section may be made without the consent of the Secretary. The election shall be made in such manner as the Secretary may by regulations prescribe and shall be made for any taxable year not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof).
 
 #### (2) Scope of election
 
@@ -94,7 +94,7 @@ In applying section 481(c) with respect to any election under this section which
 
 #### (2) Initial opening balance
 
-&emsp;The opening balance of the account described in paragraph (1) for the first taxable year to which the election applies shall be the largest dollar amount of returned merchandise which would have been taken into account under this section for any of the 3 immediately preceding taxable years if this section had applied to such preceding 3 taxable years. This paragraph and paragraph (3) shall be applied by taking into account only amounts attributable to the trade or business for which such account is established.
+&emsp;The opening balance of the account described in paragraph (1) for the first taxable year to which the election applies shall be the largest dollar amount of returned merchandise which would have been taken into account under this section for any of the 3 immediately preceding taxable years if this section had applied to such preceding 3 taxable years.This paragraph and paragraph (3) shall be applied by taking into account only amounts attributable to the trade or business for which such account is established.
 
 #### (3) Adjustments in suspense account
 
@@ -122,19 +122,21 @@ In applying section 481(c) with respect to any election under this section which
 
 &emsp;&emsp;In the case of any increase under paragraph (3)(B) in the account for the taxable year, an amount equal to such increase shall be included in gross income for such taxable year.
 
-> &emsp;If the initial opening balance exceeds the dollar amount of returned merchandise which would have been taken into account under subsection (a) for the taxable year preceding the first taxable year for which the election is effective if this section had applied to suchpreceding taxable year, then an amount equal to the amount of such excess shall be included in gross income for such first taxable year.
+> &emsp;If the initial opening balance exceeds the dollar amount of returned merchandise which would have been taken into account under subsection (a) for the taxable year preceding the first taxable year for which the election is effective if this section had applied to such preceding taxable year, then an amount equal to the amount of such excess shall be included in gross income for such first taxable year.
 
 #### (5) Subchapter C transactions
 
 &emsp;The application of this subsection with respect to a taxpayer which is a party to any transaction with respect to which there is nonrecognition of gain or loss to any party to the transaction by reason of subchapter C shall be determined under regulations prescribed by the Secretary.
 
-(Added Pub. L. 95–600, title III, §372(a), Nov. 6, 1978, 92 Stat. 2860.)
+(Added Pub. L. 95–600, title III, §372(a), Nov. 6, 1978, 92 Stat. 2860; amended Pub. L. 115–141, div. U, title IV, §401(a)(114), (115), Mar. 23, 2018, 132 Stat. 1189.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(9). Pub. L. 115–141, §401(a)(114), substituted "Repurchase" for "Repurchased" in heading.
+
+Subsec. (c)(1). Pub. L. 115–141, §401(a)(115), substituted "regulations prescribe" for "regulations prescribed".
 
 #### Effective Date
 
 Pub. L. 95–600, title III, §372(c), Nov. 6, 1978, 92 Stat. 2862, provided that: "The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after September 30, 1979."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "Repurchase".</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "prescribe".</i>
 

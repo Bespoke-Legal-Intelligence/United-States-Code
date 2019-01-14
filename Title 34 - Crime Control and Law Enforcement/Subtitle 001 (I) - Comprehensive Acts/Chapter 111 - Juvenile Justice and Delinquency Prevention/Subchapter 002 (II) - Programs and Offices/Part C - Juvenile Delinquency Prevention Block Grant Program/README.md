@@ -9,9 +9,4 @@ A prior part C of title II of Pub. L. 93–415 related to national programs, pri
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 11141 - Authority to make grants](%C2%A7%2011141%20-%20Authority%20to%20make%20grants.md)
-- [&sect; 11142 - Allocation](%C2%A7%2011142%20-%20Allocation.md)
-- [&sect; 11143 - Eligibility of States](%C2%A7%2011143%20-%20Eligibility%20of%20States.md)
-- [&sect; 11144 - Grants for local projects](%C2%A7%2011144%20-%20Grants%20for%20local%20projects.md)
-- [&sect; 11145 - Eligibility of entities](%C2%A7%2011145%20-%20Eligibility%20of%20entities.md)
-- [&sect; 11146 - Grants to Indian tribes](%C2%A7%2011146%20-%20Grants%20to%20Indian%20tribes.md)
+- [&sect; 11141 to 11146 - Repealed. Pub. L. 115&#8211;385, title II, &sect;206, Dec. 21, 2018, 132 Stat. 5140](%C2%A7%2011141%20to%2011146%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93385%2C%20title%20II%2C%20%C2%A7206%2C%20Dec.%2021%2C%202018%2C%20132%20Stat.%205140.md)

@@ -74,7 +74,7 @@ Not later than 1 year after the date on which the demonstration program is estab
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated $5,000,000 per year to carry out the demonstration program under this section for the first 5 fiscal years, and such sums as may be needed tocarry out the program in subsequent fiscal years.
+There are authorized to be appropriated $5,000,000 per year to carry out the demonstration program under this section for the first 5 fiscal years, and such sums as may be needed to carry out the program in subsequent fiscal years.
 
 (Pub. L. 94–437, title III, §313, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 

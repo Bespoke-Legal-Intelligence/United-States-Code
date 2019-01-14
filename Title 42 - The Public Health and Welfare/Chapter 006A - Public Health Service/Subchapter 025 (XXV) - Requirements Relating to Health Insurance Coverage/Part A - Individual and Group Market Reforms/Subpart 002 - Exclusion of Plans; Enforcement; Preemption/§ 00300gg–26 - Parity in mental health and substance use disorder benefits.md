@@ -24,7 +24,7 @@
 
 #### (2) Annual limits
 
-&emsp;In the case of a group health plan or a health insurance issuer offering group or individualhealth insurance coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits—
+&emsp;In the case of a group health plan or a health insurance issuer offering group or individual health insurance coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits—
 
 #### (A) No annual limit
 
@@ -80,7 +80,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 12 months after December 13, 2016, the Secretary, the Secretary of Labor, and the Secretary of the Treasury, in consultation with the Inspector General of the Department of Health and Human Services, the Inspector General of the Department of Labor, and the Inspector General of the Department of the Treasury, shall issuea compliance program guidance document to help improve compliance with this section, section 1185a of title 29, and section 9812 of title 26, as applicable. In carrying out this paragraph, the Secretaries may take into consideration the 2016 publication of the Department of Health and Human Services and the Department of Labor, entitled "Warning Signs - Plan or Policy Non-Quantitative Treatment Limitations (NQTLs) that Require Additional Analysis to Determine Mental Health Parity Compliance".
+&emsp;&emsp;Not later than 12 months after December 13, 2016, the Secretary, the Secretary of Labor, and the Secretary of the Treasury, in consultation with the Inspector General of the Department of Health and Human Services, the Inspector General of the Department of Labor, and the Inspector General of the Department of the Treasury, shall issue a compliance program guidance document to help improve compliance with this section, section 1185a of title 29, and section 9812 of title 26, as applicable. In carrying out this paragraph, the Secretaries may take into consideration the 2016 publication of the Department of Health and Human Services and the Department of Labor, entitled "Warning Signs - Plan or Policy Non-Quantitative Treatment Limitations (NQTLs) that Require Additional Analysis to Determine Mental Health Parity Compliance".
 
 #### (B) Examples illustrating compliance and noncompliance
 
@@ -150,7 +150,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) network admission standards (such as credentialing); and
 
-&emsp;&emsp;&emsp;&emsp;(II) factors used in provider reimbursement methodologies (such as service type, geographic market, demand for services, and provider supply, practice size, training, experience, and licensure) as such factors apply to network adequacy;
+&emsp;&emsp;&emsp;&emsp;(II) factors used in provider reimbursement methodologies (such as service type, geographic market, demand for services, and provider supply, practice size, training, experience, and licensure)as such factors apply to network adequacy;
 
 &emsp;&emsp;&emsp;(iii) examples of sources of information that may serve as evidentiary standards for the purposes of making determinations regarding the development and application of nonquantitative treatment limitations;
 
@@ -182,7 +182,7 @@ Nothing in this section shall be construed—
 
 #### (1) Small employer exemption
 
-&emsp;This section shall not apply to any group health plan and a health insurance issuer offering group or individual health insurance coverage for any plan year of a small employer (as defined in section 300gg–91(e)(4) of this title, except that for purposes of this paragraph such term shall include employers with1 employee in the case of an employer residing in a State that permits small groups to include a single individual).
+&emsp;This section shall not apply to any group health plan and a health insurance issuer offering group or individual health insurance coverage for any plan year of a small employer (as defined in section 300gg–91(e)(4) of this title, except that for purposes of this paragraph such term shall include employers with 1 employee in the case of an employer residing in a State that permits small groups to include a single individual).
 
 #### (2) Cost exemption
 
@@ -210,7 +210,7 @@ Nothing in this section shall be construed—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A group health plan (or a health insurance issuer offering coverage in connection with a group health plan) that, based upon a certification described under subparagraph (C), qualifies for an exemption under this paragraph, and elects to implement the exemption, shall promptly notify the Secretary, the appropriate State agencies, and participants and beneficiaries in the plan of such election.
+&emsp;&emsp;&emsp;A group health plan (or a health insurance issuer offering coverage in connectionwith a group health plan) that, based upon a certification described under subparagraph (C), qualifies for an exemption under this paragraph, and elects to implement the exemption, shall promptly notify the Secretary, the appropriate State agencies, and participants and beneficiaries in the plan of such election.
 
 #### (ii) Requirement
 
@@ -354,7 +354,7 @@ Pub. L. 114–255, div. B, title XIII, §13001(d), Dec. 13, 2016, 130 Stat. 1283
 
 "(1)
 
-In general.—In the case that the Secretary of Health and Human Services, the Secretary of Labor, or the Secretary of the Treasury determines that a group health plan or health insurance issuer offering group or individual health insurance coverage has violated, at least 5 times, section 2726 of the Public Health Service Act (42 U.S.C. 300gg–26), section 712 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185a), or section 9812 of the Internal Revenue Code of 1986 \[26 U.S.C. 9812\], respectively, the appropriate Secretary shall audit plan documents for such health plan or issuer in the plan year following the Secretary's determination in order to help improve compliance with such section.
+In general.—In the case that the Secretary of Health and Human Services, the Secretary of Labor, or the Secretary of the Treasury determines that a group health plan or health insurance issuer offering group orindividual health insurance coverage has violated, at least 5 times, section 2726 of the Public Health Service Act (42 U.S.C. 300gg–26), section 712 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185a), or section 9812 of the Internal Revenue Code of 1986 \[26 U.S.C. 9812\], respectively, the appropriate Secretary shall audit plan documents for such health plan or issuer in the plan year following the Secretary's determination in order to help improve compliance with such section.
 
 "(2)
 
@@ -380,7 +380,7 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 My Administration has made behavioral health a priority and taken a number of steps to improve the prevention, early intervention, and treatment of mental health and substance use disorders. These actions are especially important in light of the prescription drug abuse and heroin epidemic as well as the suicide and substance use-related fatalities that have reversed increases in longevity in certain populations. One important response has been the expansion and implementation of mental health and substance use disorder parity protections to ensure that coverage for these benefits is comparable to coverage for medical and surgical care. The Affordable Care Act builds on the Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act to expand mental health and substance use disorder benefits and Federal parity protections for more than 60 million Americans. To realize the promise of coverage expansion and parity protections in helping individuals with mental health and substance use disorders, executive departments and agencies need to work together to ensure that Americans are benefiting from the Federal parity protections the law intends. To that end, I hereby direct the following:
 
-Section 1. <i>Mental Health and Substance Use Disorder Parity Task Force</i>. There is established an interagency Mental Health and Substance Use Disorder Parity TaskForce (Task Force), which will identify and promote best practices for executive departments and agencies (agencies), as well as State agencies, to better ensure compliance with and implementation of requirements related to mental health and substance use disorder parity, and determine areas that would benefit from further guidance. The Director of the Domestic Policy Council shall serve as Chair of the Task Force.
+Section 1. <i>Mental Health and Substance Use Disorder Parity Task Force</i>. There is established an interagency Mental Health and Substance Use Disorder Parity Task Force (Task Force), which will identify and promote best practices for executive departments and agencies (agencies), as well as State agencies, to better ensure compliance with and implementation of requirements related to mental health and substance use disorder parity, and determine areas that would benefit from further guidance. The Director of the Domestic Policy Council shall serve as Chair of the Task Force.
 
 (a) <i>Membership of the Task Force</i>. In addition to the Director of the Domestic Policy Council, the Task Force shall consist of the heads of the following agencies and offices, or their designees:
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) without regard to any other provision of law regulating the employment or compensation of persons in the Government service, to appoint and fix the pay of not more than—
 
-&emsp;&emsp;(A) 5 employees at rates not to exceed the rate of basic pay then currently paid forlevel II of the Executive Schedule of section 5313 of title 5; and in addition
+&emsp;&emsp;(A) 5 employees at rates not to exceed the rate of basic pay then currently paid for level II of the Executive Schedule of section 5313 of title 5; and in addition
 
 &emsp;&emsp;(B) 3 employees at rates not to exceed the rate of basic pay then currently paid for level III of the Executive Schedule of section 5314 of title 5; and in addition
 
@@ -32,7 +32,7 @@
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–570 inserted provisions relating to appointment and determination of pay by the Vice President of employees and procurement by the Vice President of temporary or intermittent services of experts and consultants to enable the Vice President to provide assistance to the President; appropriation of sums for the official expenses of the Office of the Vice President, the official entertainment expenses of the Vice President, and subsistence expenses of Government personnel while traveling on official business in connection with the travel of the Vice President; accounting of sums by the Vice President; inspection, certification and report to Congress by the Comptroller General concerning expenditures; and allotment of assistance and services to the spouse of the Vice President or to a member of the Vice President's family; struck out provisions which authorized the President to appoint and fix compensation of not to exceed six administrative assistants and directed that each assistant perform such duties as the President prescribed.
+<b>1978</b>—Pub. L. 95–570 inserted provisions relating to appointment and determination of pay by the Vice President of employees and procurement by the Vice President of temporary or intermittent services of experts and consultants to enable the Vice President to provide assistance to the President; appropriation of sums for the official expenses of the Office of the Vice President, the official entertainment expenses of the Vice President, and subsistence expenses of Government personnel while traveling on official business in connection with the travel of the Vice President; accounting of sums by the Vice President; inspection, certificationand report to Congress by the Comptroller General concerning expenditures; and allotment of assistance and services to the spouse of the Vice President or to a member of the Vice President's family; struck out provisions which authorized the President to appoint and fix compensation of not to exceed six administrative assistants and directed that each assistant perform such duties as the President prescribed.
 
 <b>1949</b>—Act Oct. 15, 1949, struck out salary provisions. See section 105 of this title.
 

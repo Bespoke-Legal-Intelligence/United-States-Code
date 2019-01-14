@@ -16,7 +16,7 @@ In this subchapter:
 
 #### (3) Commerce Control List
 
-&emsp;The term "Commerce Control List" means the list maintained pursuant to part 774 of theExport Administration Regulations (or any corresponding similar regulation or ruling).
+&emsp;The term "Commerce Control List" means the list maintained pursuant to part 774 of the Export Administration Regulations (or any corresponding similar regulation or ruling).
 
 #### (4) Divert; diversion
 
@@ -58,7 +58,7 @@ In this subchapter:
 
 &emsp;The term "state sponsor of terrorism" means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to—
 
-&emsp;&emsp;(A) section 4605(j)(1)(A) of title 50 (or any successor thereto);
+&emsp;&emsp;(A) section 4605(j)(1)(A) <sup>1</sup> of title 50 (or any successor thereto);
 
 &emsp;&emsp;(B) section 2780(d) of this title; or
 
@@ -73,4 +73,10 @@ In this subchapter:
 #### Termination of Section
 
 <i>For termination of section, see section 8551(a) of this title.</i>
+
+#### References in Text
+
+Section 4605(j)(1)(A) of title 50, referred to in par. (13)(A), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former section 4605(j)(1)(A) of title 50 can be found in section 4813(c)(1)(A)(i) of title 50, as enacted by Pub. L. 115–232.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,7 +14,7 @@
 
 &emsp;Taking into account the factors described under subsection (a)(1), the Secretary shall also identify, and list in such report, a nation—
 
-&emsp;&emsp;(A) if it is violating, or has violated at any point during the preceding 3 years, conservation and management measures required under an international fishery management agreement to which the United States is a party and the violations undermine the effectiveness of such measures; or
+&emsp;&emsp;(A) if it is violating, or has violated at any point during the preceding 3 years, conservation and management measures required under an international fishery management agreement to which the United States is aparty and the violations undermine the effectiveness of such measures; or
 
 &emsp;&emsp;(B) if it is failing, or has failed in the preceding 3-year period, to effectively address or regulate illegal, unreported, or unregulated fishing in areas described under paragraph (1)(B).
 
@@ -100,7 +100,7 @@ There are authorized to be appropriated to the Secretary for fiscal years 2007 t
 
 #### References in Text
 
-Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (d)(3)(A), was in the original"section 101(a) and section 101(b)(3) and (4) of this Act (16 U.S.C. 1826a(a), (b)(3), and (b)(4))" and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
+Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (d)(3)(A), was in the original "section 101(a) and section 101(b)(3) and (4) of this Act (16 U.S.C. 1826a(a), (b)(3), and (b)(4))" and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
 
 This Act, referred to in subsecs. (a)(3) and (e)(1), (2), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
 
@@ -125,4 +125,8 @@ Subsec. (d)(2). Pub. L. 114–81, §101(i)(4), in introductory provisions, subst
 Subsec. (d)(3)(A)(i). Pub. L. 114–81, §101(e), struck out "that has not been certified by the Secretary under this subsection, or" after "subsection (a)".
 
 <b>2011</b>—Subsec. (e)(3)(A). Pub. L. 111–348 substituted "bycatch reduction requirements, and shark conservation measures;" for "and bycatch reduction requirements;".
+
+#### Construction
+
+Nothing in amendment by Pub. L. 111–348 to be construed as affecting, altering, or diminishing the authority of the Secretary of Commerce to establish such conservation and management measures as the Secretary considers necessary and appropriate under sections 1852(a)(3) and 1854(g) of this title, see section 104 of Pub. L. 111–348, set out as a note under section 1826i of this title.
 

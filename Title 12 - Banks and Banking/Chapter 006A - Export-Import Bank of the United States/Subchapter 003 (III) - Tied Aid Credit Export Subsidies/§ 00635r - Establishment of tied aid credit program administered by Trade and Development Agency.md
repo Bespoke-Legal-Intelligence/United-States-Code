@@ -4,7 +4,7 @@
 
 The Director of the Trade and Development Agency shall carry out a program of tied aid credits for United States exports. The program shall be carried out in cooperation with the Export-Import Bank of the United States and with private financial institutions or entities, as appropriate. The program may include—
 
-&emsp;(1) the combined use of the credits, loans, or guarantees offered by the Bank withconcessional financing or grants made available under subsection (d), by methods including the blending of the financing of, or parallel financing by, the Bank and the Trade and Development Agency; and
+&emsp;(1) the combined use of the credits, loans, or guarantees offered by the Bank with concessional financing or grants made available under subsection (d), by methods including the blending of the financing of, or parallel financing by, the Bank and the Trade and Development Agency; and
 
 &emsp;(2) the combination of concessional financing or grants made available under subsection (d) with financing offered by private financial institutions or entities, by methods including the blending of the financing of, or parallel financing by, the Trade and Development Agency and private institutions or entities.
 
@@ -26,7 +26,7 @@ Funds available to carry out chapter 4 of part II of the Foreign Assistance Act 
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified generally to part IV (§2346 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 4 of part II of the Foreign AssistanceAct of 1961 is classified generally to part IV (§2346 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 This subchapter, referred to in subsec. (d), was in the original "this Act" and was translated as meaning the Trade and Development Enhancement Act of 1983, part C (§§641–647, 650) of title VI of Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1263, which enacted this subchapter and section 1671g of Title 19, Customs Duties, and amended sections 1671a and 1671b of Title 19. For complete classification of this Act to the Code, see Short Title note below and Tables.
 

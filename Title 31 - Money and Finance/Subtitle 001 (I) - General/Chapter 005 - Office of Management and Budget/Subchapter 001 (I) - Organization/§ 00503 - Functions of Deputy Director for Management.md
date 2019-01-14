@@ -88,11 +88,11 @@ Requirement.—Subject to the direction and approval of the Director, the Deputy
 
 &emsp;&emsp;(D) establish standards and policies for executive agencies, consistent with widely accepted standards for program and project management planning and delivery;
 
-&emsp;&emsp;(E) engage with the private sector to identify best practices in program and projectmanagement that would improve Federal program and project management;
+&emsp;&emsp;(E) engage with the private sector to identify best practices in program and project management that would improve Federal program and project management;
 
 &emsp;&emsp;(F) conduct portfolio reviews to address programs identified as high risk by the Government Accountability Office;
 
-&emsp;&emsp;(G) not less than annually, conduct portfolio reviews of agency programs in coordination with Project Management Improvement Officers designated under section 1126(a)(1) to assess the quality and effectiveness of program management; and
+&emsp;&emsp;(G) not less than annually, conduct portfolio reviews of agency programs in coordination with Project Management Improvement Officers designated under section1126(a)(1) to assess the quality and effectiveness of program management; and
 
 &emsp;&emsp;(H) establish a 5-year strategic plan for program and project management.
 

@@ -84,7 +84,7 @@
 
 #### (B) Other members
 
-&emsp;&emsp;A member of the Board that is not an employee of the Federal Government may be compensated at a rate not to exceed the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which the member is engaged in the actual performance of duties as a member of the Board.
+&emsp;&emsp;A member of the Board that is not an employee of the Federal Government may be compensated at a rate not to exceed the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 foreach day (including travel time) during which the member is engaged in the actual performance of duties as a member of the Board.
 
 #### (C) Travel expenses
 

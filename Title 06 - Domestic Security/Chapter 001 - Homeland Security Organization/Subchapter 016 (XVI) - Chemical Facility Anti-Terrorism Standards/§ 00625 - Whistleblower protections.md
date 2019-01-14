@@ -72,7 +72,7 @@ Nothing in this subchapter shall be construed to limit the right of an individua
 
 &emsp;(2) protected under any other Federal or State law that shields the disclosing individual against retaliation or discrimination for having made the disclosure in the public interest; or
 
-&emsp;(3) to the Special Counsel of an agency, the inspector general of an agency, or any other employee designated by the head of an agency to receive disclosures similar to the disclosures described in paragraphs (1) and (2).
+&emsp;(3) to the Special Counsel of an agency, the inspector general of an agency, or any otheremployee designated by the head of an agency to receive disclosures similar to the disclosures described in paragraphs (1) and (2).
 
 #### (c) Publication of rights
 

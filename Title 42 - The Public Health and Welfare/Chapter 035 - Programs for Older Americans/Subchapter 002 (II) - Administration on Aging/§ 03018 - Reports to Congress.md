@@ -88,7 +88,7 @@ Subsec. (c)(5). Pub. L. 106–501, §204(2), inserted "and older individuals res
 
 <b>1993</b>—Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner" wherever appearing.
 
-<b>1992</b>—Subsec. (a)(4). Pub. L. 102–375, §904(a)(8), substituted "greatest economic need and older individualswith greatest social need" for "the greatest economic or social needs".
+<b>1992</b>—Subsec. (a)(4). Pub. L. 102–375, §904(a)(8), substituted "greatest economic need and older individuals with greatest social need" for "the greatest economic or social needs".
 
 Subsec. (a)(5). Pub. L. 102–375, §208(a), added par. (5).
 

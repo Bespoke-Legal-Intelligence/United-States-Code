@@ -64,7 +64,7 @@ There is established within the Commission an advisory board to be known as the 
 
 &emsp;Not later than 90 days after February 22, 2012, the Interoperability Board, in consultation with the NTIA, NIST, and the Office of Emergency Communications of the Department of Homeland Security, shall—
 
-&emsp;&emsp;(A) develop recommended minimum technical requirements to ensure a nationwidelevel of interoperability for the nationwide public safety broadband network; and
+&emsp;&emsp;(A) develop recommended minimum technical requirements to ensure a nationwide level of interoperability for the nationwide public safety broadband network; and
 
 &emsp;&emsp;(B) submit to the Commission for review in accordance with paragraph (3) recommended minimum technical requirements described in subparagraph (A).
 
@@ -84,7 +84,7 @@ There is established within the Commission an advisory board to be known as the 
 
 #### (d) Travel expenses
 
-The members of the Interoperability Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Interoperability Board.
+The members of the Interoperability Board shall be allowed travel expenses, including perdiem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Interoperability Board.
 
 #### (e) Exemption from FACA
 

@@ -30,7 +30,7 @@ For purposes of this section, the term "eligible entity" includes a school of nu
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.
 
-(July 1, 1944, ch. 373, title VIII, §865, formerly §855, as added Pub. L. 107–205, title II, §202(a),Aug. 1, 2002, 116 Stat. 816; renumbered §865 and amended Pub. L. 111–148, title V, §§5305(c), 5310(b)(10)(A), Mar. 23, 2010, 124 Stat. 625, 631.)
+(July 1, 1944, ch. 373, title VIII, §865, formerly §855, as added Pub. L. 107–205, title II, §202(a), Aug. 1, 2002, 116 Stat. 816; renumbered §865 and amended Pub. L. 111–148, title V, §§5305(c), 5310(b)(10)(A), Mar. 23, 2010, 124 Stat. 625, 631.)
 
 #### Prior Provisions
 
@@ -46,7 +46,7 @@ Section 298b, act July 1, 1944, ch. 373, title VIII, §853, formerly §843, as a
 
 Section 298b–1, act July 1, 1944, ch. 373, title VIII, §854, formerly §844, as added Pub. L. 92–158, §10, Nov. 18, 1971, 85 Stat. 479; renumbered §854, Pub. L. 94–63, title IX, §941(k)(1), July 29, 1975, 89 Stat. 366, authorized advance funding for grants, contracts, or other payments.
 
-A prior section 298b–2, act July 1, 1944, ch. 373, title VIII, §855, formerly §845, as added Pub. L. 92–158, §11, Nov. 18, 1971, 85 Stat. 479; renumbered §855, Pub. L. 94–63, title IX, §941(k)(1), July 29, 1975, 89 Stat. 366, which prohibited discrimination by schools on basis of sex, was renumbered section 810 of act July 1, 1944, by Pub. L. 105–392 and transferred to section 296g of this title.
+A prior section 298b–2, act July 1, 1944, ch. 373, title VIII, §855, formerly §845, as added Pub. L. 92–158, §11, Nov. 18, 1971, 85 Stat. 479; renumbered §855, Pub. L.94–63, title IX, §941(k)(1), July 29, 1975, 89 Stat. 366, which prohibited discrimination by schools on basis of sex, was renumbered section 810 of act July 1, 1944, by Pub. L. 105–392 and transferred to section 296g of this title.
 
 Prior sections 298b–3 to 298b–5 were repealed by Pub. L. 105–392, title I, §123(1), Nov. 13, 1998, 112 Stat. 3562.
 
@@ -82,7 +82,7 @@ Section 298c–6, act July 1, 1944, ch. 373, title VIII, §867, as added Nov. 3,
 
 A prior section 298c–7, act July 1, 1944, ch. 373, title VIII, §868, as added Nov. 3, 1966, Pub. L. 89–751, §8(b), 80 Stat. 1239; amended Nov. 18, 1971, Pub. L. 92–158, §8, 85 Stat. 478; July 29, 1975, Pub. L. 94–63, title IX, §902(g), 89 Stat. 355, authorized grants and contracts to encourage full utilization of educational talent for nursing profession and authorized appropriations from fiscal year ending June 30, 1972 through fiscal year ending June 30, 1975 for implementation, prior to repeal by Pub. L. 94–63, title IX, §§905, 931(b), July 29, 1975, 89 Stat. 355, 362, effective July 1, 1975.
 
-A prior section 298c–8, act July 1, 1944, ch. 373, title VIII, §869, as added Nov. 3, 1966, Pub. L. 89–751, §8(b), 80Stat. 1240, defined "academic year", prior to repeal by Pub. L. 94–63, title IX, §§941(j)(4), 942, July 29, 1975, 89 Stat. 366, 367, effective July 1, 1975.
+A prior section 298c–8, act July 1, 1944, ch. 373, title VIII, §869, as added Nov. 3, 1966, Pub. L. 89–751, §8(b), 80 Stat. 1240, defined "academic year", prior to repeal by Pub. L. 94–63, title IX, §§941(j)(4), 942, July 29, 1975, 89 Stat. 366, 367, effective July 1, 1975.
 
 #### Amendments
 

@@ -24,7 +24,7 @@ Subsec. (b)(1). Pub. L. 104–201 inserted at end "The requirement for a determi
 
 #### Support for Non-Federal Development and Testing of Material for Chemical Agent Defense
 
-Pub. L. 110–181, div. A, title X, §1034, Jan. 28, 2008, 122 Stat. 308, as amended by Pub. L. 114–328, div. A, title X, §1043, Dec. 23, 2016, 130 Stat. 2393, provided that:
+Pub. L. 110–181, div. A, title X, §1034, Jan. 28, 2008, 122 Stat. 308, as amended by Pub. L. 114–328, div. A, title X, §1043, Dec. 23, 2016, 130 Stat. 2393; Pub. L. 115–232, div. A, title VIII, §813(b)(2), Aug. 13, 2018, 132 Stat. 1851, provided that:
 
 "(a)
 
@@ -60,28 +60,6 @@ Chemical Weapons Convention.—The Secretary shall ensure that toxic chemicals a
 
 "(d)
 
-Report.—
-
-&emsp;"(1) Not later than March 15, 2008, and each year thereafter, the Secretary shall submit to Congress a report that includes—
-
-&emsp;&emsp;"(A) a description of—
-
-&emsp;&emsp;&emsp;"(i) each use of the authority under subsection (a); and
-
-&emsp;&emsp;&emsp;"(ii) for each such use, the specific material made available and to whom it was made available; and
-
-&emsp;&emsp;"(B) a description of—
-
-&emsp;&emsp;&emsp;"(i) any instance in which the Department of Defense made available to a State, a unit of local government, or a private entity any biological select agent or toxin for the development or testing of any biodefense technology; and
-
-&emsp;&emsp;&emsp;"(ii) for each such instance, the specific material made available and to whom it was made available.
-
-&emsp;"(2) Each report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
-
-&emsp;"(3) The requirement to submit a report under paragraph (1) shall terminate on January 31, 2021.
-
-"(e)
-
 Definitions.—In this section:
 
 &emsp;"(1) The terms 'precursor', 'protective purposes', and 'toxic chemical' have the meanings given those terms in the convention referred to in subsection (c), in paragraph 2, paragraph 9(b), and paragraph 1, respectively, of article II of that convention.
@@ -93,6 +71,4 @@ Definitions.—In this section:
 &emsp;&emsp;"(B) Section 121.3 or section 121.4 of title 9, Code of Federal Regulations.
 
 &emsp;&emsp;"(C) Section 73.3 or section 73.4 of title 42, Code of Federal Regulations."
-
-\[Pub. L. 114–328, div. A, title X, §1043(1), Dec. 23, 2016, 130 Stat. 2393, which directed amendment of subsec. (d)of section 1034 of Pub. L. 110–181, set out above, by striking out "report on the use of the authority under subsection (a)" and all that followed, was executed by striking "report on the use of the authority under subsection (a)" and all that followed only to the end of par. (1) of subsec. (d), to reflect the probable intent of Congress and the subsequent addition of par. (3) of subsec. (d).\]
 

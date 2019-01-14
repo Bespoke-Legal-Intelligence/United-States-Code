@@ -324,7 +324,7 @@ Additional grants.—
 
 &emsp;&emsp;(A)
 
-Grants to states with alcohol-ignition interlock laws.—The Secretary shall make a separate grant under this subsection to each State that adopts and is enforcing a mandatory alcohol-ignition interlock law for all individuals convicted of driving underthe influence of alcohol or of driving while intoxicated.
+Grants to states with alcohol-ignition interlock laws.—The Secretary shall make a separate grant under this subsection to each State that adopts and is enforcing a mandatory alcohol-ignition interlock law for all individuals convicted of driving under the influence of alcohol or of driving while intoxicated.
 
 &emsp;&emsp;(B)
 
@@ -584,7 +584,7 @@ Motorcycle rider training courses.—An effective motorcycle rider training cour
 
 &emsp;&emsp;(B)
 
-Motorcyclists awareness program.—An effective statewide program to enhance motorist awareness of the presence of motorcyclists on or near roadways and safe driving practices that avoid injuries to motorcyclists.
+Motorcyclists awareness program.—An effective statewide program to enhancemotorist awareness of the presence of motorcyclists on or near roadways and safe driving practices that avoid injuries to motorcyclists.
 
 &emsp;&emsp;(C)
 
@@ -788,7 +788,7 @@ Federal share.—The Federal share of the cost of a project carried out by a Sta
 
 &emsp;(3)
 
-Eligibility.—A State shall receive a grant under this subsection in a fiscal year if the annual combined pedestrian and bicycle fatalities in the State exceed 15 percent of the total annual crash fatalities in the State, based on the most recently reported final data from the Fatality Analysis Reporting System.
+Eligibility.—A State shall receive a grant under this subsection in a fiscal year if the annual combined pedestrian and bicyclefatalities in the State exceed 15 percent of the total annual crash fatalities in the State, based on the most recently reported final data from the Fatality Analysis Reporting System.
 
 &emsp;(4)
 

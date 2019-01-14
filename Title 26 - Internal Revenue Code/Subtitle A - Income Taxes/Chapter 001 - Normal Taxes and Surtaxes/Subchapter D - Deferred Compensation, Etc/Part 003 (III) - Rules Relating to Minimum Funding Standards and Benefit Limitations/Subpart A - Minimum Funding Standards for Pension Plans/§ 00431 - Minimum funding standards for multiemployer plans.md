@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of section 412, the accumulated funding deficiency of a multiemployer plan forany plan year is the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years.
+For purposes of section 412, the accumulated funding deficiency of a multiemployer plan for any plan year is the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years.
 
 #### (b) Funding standard account
 
@@ -64,7 +64,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (6) Interest
 
-&emsp;The funding standard account (and items therein) shall be charged or credited (as determined under regulations prescribed by the Secretary of the Treasury) with interest at the appropriate rate consistent with the rate orrates of interest used under the plan to determine costs.
+&emsp;The funding standard account (and items therein) shall be charged or credited (as determined under regulations prescribed by the Secretary of the Treasury) with interest at the appropriate rate consistent with the rate or rates of interest used under the plan to determine costs.
 
 #### (7) Special rules relating to charges and credits to funding standard account
 
@@ -200,7 +200,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (B) Election with respect to bonds
 
-&emsp;&emsp;The value of a bond or other evidence of indebtedness which is not in default as to principal or interest may, at the election of the plan administrator, be determined on an amortized basis running from initial cost at purchase to par value at maturity or earliest call date. Any election under this subparagraph shall be made at such time and in such manner as the Secretary shall by regulations provide, shall apply to all such evidences of indebtedness, and may be revoked only with the consent of the Secretary.
+&emsp;&emsp;The value of a bond or other evidence of indebtedness which is not in default as toprincipal or interest may, at the election of the plan administrator, be determined on an amortized basis running from initial cost at purchase to par value at maturity or earliest call date. Any election under this subparagraph shall be made at such time and in such manner as the Secretary shall by regulations provide, shall apply to all such evidences of indebtedness, and may be revoked only with the consent of the Secretary.
 
 #### (3) Actuarial assumptions must be reasonable
 
@@ -362,7 +362,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (8) Time when certain contributions deemed made
 
-&emsp;For purposes of this section, any contributions for a plan year made by an employer after the last day of such plan year, but not later than two and one-half months after such day, shall be deemed to have been made on such last day. For purposes of this subparagraph, such two and one-half month period may be extended for not more than six months under regulations prescribed by the Secretary.
+&emsp;For purposes of this section, any contributions for a plan year made by an employer after the last day of such plan year, but not later than two and one-half months after suchday, shall be deemed to have been made on such last day. For purposes of this subparagraph, such two and one-half month period may be extended for not more than six months under regulations prescribed by the Secretary.
 
 #### (d) Extension of amortization periods for multiemployer plans
 
@@ -376,7 +376,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;&emsp;(ii) includes with the application a certification by the plan's actuary described in subparagraph (B),
 
-> &emsp;&emsp;the Secretary shall extend the amortization period for the period of time (not in excess of5 years) specified in the application. Such extension shall be in addition to any extension under paragraph (2).
+> &emsp;&emsp;the Secretary shall extend the amortization period for the period of time (not in excess of 5 years) specified in the application. Such extension shall be in addition to any extension under paragraph (2).
 
 #### (B) Criteria
 
@@ -400,7 +400,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;The Secretary may grant an extension under subparagraph (A) if the Secretary determines that—
 
-&emsp;&emsp;&emsp;(i) such extension would carry out the purposes of this Act <sup>2</sup> and would provide adequate protection for participants under the plan and their beneficiaries, and
+&emsp;&emsp;&emsp;(i) such extension would carry out the purposes of the Pension Protection Act of 2006 and would provide adequate protection for participants under the plan and their beneficiaries, and
 
 &emsp;&emsp;&emsp;(ii) the failure to permit such extension would—
 
@@ -422,7 +422,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;The Secretary shall consider any relevant information provided by a person to whom notice was given under paragraph (1).
 
-(Added Pub. L. 109–280, title II, §211(a), Aug. 17, 2006, 120 Stat. 890; amended Pub. L. 111–192, title II, §211(a)(2), June 25, 2010, 124 Stat. 1304; Pub. L. 113–235, div. O, title I, §§101(b)(2), 108(b)(3)(A), Dec. 16, 2014, 128 Stat. 2774, 2788; Pub. L. 113–295, div. A, title I, §171(a), Dec. 19, 2014, 128 Stat. 4023.)
+(Added Pub. L. 109–280, title II, §211(a), Aug. 17, 2006, 120 Stat. 890; amended Pub. L. 111–192, title II, §211(a)(2), June 25, 2010, 124 Stat. 1304; Pub. L. 113–235, div. O, title I, §§101(b)(2), 108(b)(3)(A), Dec. 16, 2014, 128 Stat. 2774, 2788; Pub. L. 113–295, div. A, title I, §171(a), Dec. 19, 2014, 128 Stat. 4023; Pub. L. 115–141, div. U, title IV, §401(a)(101), Mar. 23, 2018, 132 Stat. 1189.)
 
 #### References in Text
 
@@ -430,11 +430,15 @@ The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)
 
 The date of the enactment of the Pension Protection Act of 2006, referred to in subsec. (b)(2)(D), (E), (3)(D), (4), (7)(E), is the date of enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
-The Social Security Act, referred to in subsec. (c)(4)(A), (6)(D)(v)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(4)(A), (6)(D)(v)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapterII (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 807(d)(5), referred to in subsec. (c)(6)(D)(iv)(I), was repealed by Pub. L. 115–97, title I, §13517(a)(2)(A), Dec. 22, 2017, 131 Stat. 2144.
 
+The Pension Protection Act of 2006, referred to in subsec. (d)(2)(B)(i), is Pub. L. 109–280, Aug. 17, 2006, 120 Stat. 780. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under section 1001 of Title 29, Labor, and Tables.
+
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(2)(B)(i). Pub. L. 115–141 substituted "the Pension Protection Act of 2006" for "this Act".
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–235, §108(b)(3)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to accumulated funding deficiency of multiemployer plan.
 
@@ -446,7 +450,7 @@ Pub. L. 113–235, §101(b)(2), struck out subpar. (C). Text read as follows: "T
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title I, §171(c), Dec. 19, 2014, 128 Stat. 4023, provided that: "The amendments made by this section \[amending this section and section 1084 of Title 29, Labor\] shall apply to applications submitted under section 431(d)(1)(A) of the Internal Revenue Codeof 1986 and section 304(d)(1)(C) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1084(d)(1)(C)\] after December 31, 2014."
+Pub. L. 113–295, div. A, title I, §171(c), Dec. 19, 2014, 128 Stat. 4023, provided that: "The amendments made by this section \[amending this section and section 1084 of Title 29, Labor\] shall apply to applications submitted under section 431(d)(1)(A) of the Internal Revenue Code of 1986 and section 304(d)(1)(C) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1084(d)(1)(C)\] after December 31, 2014."
 
 Amendment by section 108(b)(3)(A) of Pub. L. 113–235 applicable with respect to plan years beginning after Dec. 31, 2014, see section 108(c) of div. O of Pub. L. 113–235, set out as an Effective Date of Repeal note under section 418 of this title.
 
@@ -479,6 +483,4 @@ Special rule for certain amortization extensions.—If the Secretary of the Trea
 For applicability of this section to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "title".</i>
 

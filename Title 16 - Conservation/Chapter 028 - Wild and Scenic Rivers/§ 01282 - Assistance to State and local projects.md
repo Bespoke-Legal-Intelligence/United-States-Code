@@ -38,7 +38,7 @@ Subsec. (b)(2)(B). Pub. L. 113–287, §5(d)(31)(B)(ii), substituted "chapter 20
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–590 struck out provisions relating to provision of technical assistance and advice to and cooperation with States, etc., in establishment of areas.
 
-Subsec. (b). Pub. L. 99–590 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:"The Secretaries of Agriculture and of Health and Human Services shall likewise, in accordance with the authority vested in them assist, advise, and cooperate with State and local agencies and private interests with respect to establishing such wild, scenic and recreational river areas."
+Subsec. (b). Pub. L. 99–590 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The Secretaries of Agriculture and of Health and Human Services shall likewise, in accordance with the authority vested in them assist, advise, and cooperate with State and local agencies and private interests with respect to establishing such wild, scenic and recreational river areas."
 
 <i><sup>1</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
 

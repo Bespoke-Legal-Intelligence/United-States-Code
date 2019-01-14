@@ -70,7 +70,7 @@ The Director shall—
 
 &emsp;&emsp;&emsp;(i) execute strategic partnerships with State and local law enforcement to provide such law enforcement with specific training, including maritime law enforcement training; and
 
-&emsp;&emsp;&emsp;(ii) coordinate with the Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department and with private sector stakeholders, including critical infrastructure owners and operators, to provide training pertinent to improving coordination, security, and resiliency of critical infrastructure.
+&emsp;&emsp;&emsp;(ii) coordinate with the Director of Cybersecurity and Infrastructure Security and with private sector stakeholders, including critical infrastructure owners and operators, to provide training pertinent to improving coordination, security, and resiliency of critical infrastructure.
 
 #### (B) Provision of information
 
@@ -250,9 +250,11 @@ In this section:
 
 No funds are authorized to carry out this section. This section shall be carried out using amounts otherwise appropriated or made available for such purpose.
 
-(Pub. L. 107–296, title VIII, §884, Nov. 25, 2002, 116 Stat. 2247; Pub. L. 111–245, §2(a)(3), Sept. 30, 2010, 124 Stat. 2621; Pub. L. 114–285, §2(a), Dec. 16, 2016, 130 Stat. 1453.)
+(Pub. L. 107–296, title VIII, §884, Nov. 25, 2002, 116 Stat. 2247; Pub. L. 111–245, §2(a)(3), Sept. 30, 2010, 124 Stat. 2621; Pub. L. 114–285, §2(a), Dec. 16, 2016, 130 Stat. 1453; Pub. L. 115–278, §2(g)(5)(A), Nov. 16, 2018, 132 Stat. 4178.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(4)(A)(ii). Pub. L. 115–278 substituted "Director of Cybersecurity and Infrastructure Security" for "Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department".
 
 <b>2016</b>—Pub. L. 114–285 amended section generally. Prior to amendment, section related to the Federal Law Enforcement Training Center.
 
@@ -274,7 +276,7 @@ Pub. L. 108–7, div. J, title I, §122, Feb. 20, 2003, 117 Stat. 439.
 
 #### Annual Outstanding Student Award
 
-Pub. L. 108–7, div. J, title I, Feb. 20, 2003, 117 Stat. 431, provided in part: "That the \[Federal Law Enforcement Training\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a gift of intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority".
+Pub. L. 108–7, div. J, title I, Feb. 20, 2003, 117 Stat. 431, provided in part: "That the \[Federal Law EnforcementTraining\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a gift of intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority".
 
 Similar provisions were contained in the following prior appropriation acts:
 

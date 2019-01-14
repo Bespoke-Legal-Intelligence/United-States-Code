@@ -23,7 +23,8 @@
 | [6519\.](%C2%A7%2006519%20-%20Recordkeeping%2C%20investigations%2C%20and%20enforcement.md) | Recordkeeping, investigations, and enforcement. |
 | [6520\.](%C2%A7%2006520%20-%20Administrative%20appeal.md) | Administrative appeal. |
 | [6521\.](%C2%A7%2006521%20-%20Administration.md) | Administration. |
-| [6522\.](%C2%A7%2006522%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [6521a.](%C2%A7%2006521a%20-%20Organic%20agricultural%20product%20imports%20interagency%20working%20group.md) | Organic agricultural product imports interagency working group. |
+| [6522\.](%C2%A7%2006522%20-%20Funding.md) | Funding. |
 | [6523\.](%C2%A7%2006523%20-%20National%20organic%20certification%20cost-share%20program.md) | National organic certification cost-share program. |
 | [6524\.](%C2%A7%2006524%20-%20Organically%20produced%20food.md) | Organically produced food. |
 
@@ -55,6 +56,7 @@
 - [&sect; 06519 - Recordkeeping, investigations, and enforcement](%C2%A7%2006519%20-%20Recordkeeping%2C%20investigations%2C%20and%20enforcement.md)
 - [&sect; 06520 - Administrative appeal](%C2%A7%2006520%20-%20Administrative%20appeal.md)
 - [&sect; 06521 - Administration](%C2%A7%2006521%20-%20Administration.md)
-- [&sect; 06522 - Authorization of appropriations](%C2%A7%2006522%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 06521a - Organic agricultural product imports interagency working group](%C2%A7%2006521a%20-%20Organic%20agricultural%20product%20imports%20interagency%20working%20group.md)
+- [&sect; 06522 - Funding](%C2%A7%2006522%20-%20Funding.md)
 - [&sect; 06523 - National organic certification cost-share program](%C2%A7%2006523%20-%20National%20organic%20certification%20cost-share%20program.md)
 - [&sect; 06524 - Organically produced food](%C2%A7%2006524%20-%20Organically%20produced%20food.md)

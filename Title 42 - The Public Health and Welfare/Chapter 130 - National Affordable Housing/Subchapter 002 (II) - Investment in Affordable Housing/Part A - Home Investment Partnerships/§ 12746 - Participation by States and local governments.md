@@ -16,7 +16,7 @@ The Secretary shall designate a State or unit of general local government to be 
 
 #### (3) Eligibility
 
-&emsp;(A) Except as provided in paragraph (10), a jurisdiction receiving a formula allocationunder section 12747 of this title shall be eligible to become a participating jurisdiction if its formula allocation is $750,000 or greater, or if the Secretary finds that—
+&emsp;(A) Except as provided in paragraph (10), a jurisdiction receiving a formula allocation under section 12747 of this title shall be eligible to become a participating jurisdiction if its formula allocation is $750,000 or greater, or if the Secretary finds that—
 
 &emsp;&emsp;(i) the jurisdiction has a local housing authority and has demonstrated a capacity to carry out provisions of this part, and
 
@@ -26,7 +26,7 @@ The Secretary shall designate a State or unit of general local government to be 
 
 #### (4) Notification
 
-&emsp;If an eligible jurisdiction notifies the Secretary in writing, not later than 30 days after receiving notification under paragraph (1), of its intention to become a participating jurisdiction, the Secretary shall reserve an amount equal to the jurisdiction's allocation (plus any reallocations for which the jurisdiction is eligible under section 12747(d)(1) of this title) pending the jurisdiction's designation as a participating jurisdiction. The Secretary shall reallocate, in accordance with paragraph (6) of this section, any funds reserved under the previous sentence if the Secretary determines that the jurisdiction will not meet the requirements for designation as a participating jurisdiction within a reasonable period of time.
+&emsp;If an eligible jurisdiction notifies the Secretary in writing, not later than 30 days after receiving notification under paragraph (1), of its intention to become a participating jurisdiction, the Secretary shall reserve an amount equal to the jurisdiction's allocation (plus any reallocations for which the jurisdiction is eligible under section 12747(d)(1) of this title)pending the jurisdiction's designation as a participating jurisdiction. The Secretary shall reallocate, in accordance with paragraph (6) of this section, any funds reserved under the previous sentence if the Secretary determines that the jurisdiction will not meet the requirements for designation as a participating jurisdiction within a reasonable period of time.
 
 #### (5) Submission of strategy
 
@@ -74,7 +74,7 @@ The Secretary shall designate a State or unit of general local government to be 
 
 &emsp;&emsp;(A) the Secretary finds, after reasonable notice and opportunity for hearing, that the jurisdiction is unwilling or unable to carry out the provisions of this subchapter, or
 
-&emsp;&emsp;(B) the jurisdiction's allocation falls below $750,000 for 3 consecutive years, below $625,000 for 2 consecutive years, or the jurisdiction does not receive a formula allocationof $500,000 or more in any 1 year, except as provided in paragraph (10).
+&emsp;&emsp;(B) the jurisdiction's allocation falls below $750,000 for 3 consecutive years, below $625,000 for 2 consecutive years, or the jurisdiction does not receive a formula allocation of $500,000 or more in any 1 year, except as provided in paragraph (10).
 
 > &emsp;If a jurisdiction's designation as a participating jurisdiction is revoked, any remaining line of credit in the jurisdiction's HOME Investment Trust Fund established under section 12748 of this title shall be reallocated in accordance with paragraph (6) of this section.
 
@@ -98,7 +98,7 @@ Par. (10). Pub. L. 102–550, §202(a)(3), added par. (10).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
+Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of thischapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 
 #### Applicability of Grant Thresholds
 

@@ -34,7 +34,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding section 1261(f)(2) of this title and section 2052(a)(5) of this title, the term "liquid nicotine container" means a package (as defined in section 2 of the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471))—
+&emsp;&emsp;Notwithstanding section 1261(f)(2) of this title and section 2052(a)(5) of this title, the term "liquid nicotine container" means apackage (as defined in section 2 of the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471))—
 
 &emsp;&emsp;&emsp;(i) from which nicotine in a solution or other form is accessible through normal and foreseeable use by a consumer; and
 

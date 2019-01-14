@@ -30,7 +30,7 @@ If the State elects not to participate on the Council or elects to end its parti
 
 (2) The other members of the Council who are Federal employees shall receive no additional compensation for service on the Council.
 
-(3) While away from their homes or regular places of business in the performance of services for the Council, members of the Council who are Federal employees, or members of the Council referred to in subsection (c)(3), shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5.<sup>1</sup>
+(3) While away from their homes or regular places of business in the performance of services for the Council, members of the Council who are Federal employees, or members of the Council referred to in subsection (c)(3), shall be allowedtravel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5.<sup>1</sup>
 
 (4) The State Cochairman and other State members of the Council have been compensated in accordance with applicable State law.
 

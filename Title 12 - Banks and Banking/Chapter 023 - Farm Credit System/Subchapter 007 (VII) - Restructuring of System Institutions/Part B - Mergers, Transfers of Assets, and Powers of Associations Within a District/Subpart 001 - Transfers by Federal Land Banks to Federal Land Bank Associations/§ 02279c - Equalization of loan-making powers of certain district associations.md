@@ -10,7 +10,7 @@
 
 #### (B) Production credit associations
 
-&emsp;&emsp;Subject to paragraph (2), any association that under its charter has subchapter I lending authority and that owns a production credit association authorized as of January 1, 2007, to make short- and intermediate-term loans under subchapter II in the geographic area described in subsection (b) may make long-term loans and otherwise operate, directly or through a subsidiary association, as a Federal land bank association or Federal land credit association under subchapter I in the geographic area.
+&emsp;&emsp;Subject to paragraph (2), any association that under its charter has subchapter I lending authority and that owns a production credit association authorized as of January 1, 2007, to make short- and intermediate-term loans under subchapter II in the geographic area described in subsection (b) maymake long-term loans and otherwise operate, directly or through a subsidiary association, as a Federal land bank association or Federal land credit association under subchapter I in the geographic area.
 
 #### (C) Farm Credit Bank
 

@@ -1,6 +1,6 @@
 ### §10702. Applications
 
-To request a grant under this subchapter, the chief executive officer of a State, unit of localgovernment, or Indian tribe shall submit an application to the Attorney General at such time and in such form as the Attorney General may require. Such application shall include the following:
+To request a grant under this subchapter, the chief executive officer of a State, unit of local government, or Indian tribe shall submit an application to the Attorney General at such time and in such form as the Attorney General may require. Such application shall include the following:
 
 &emsp;(1) A certification that Federal funds made available under this subchapter will not be used to supplant State, local, or tribal funds, but will be used to increase the amounts of such funds that would, in the absence of Federal funds, be made available for the activities described in section 10701(a) of this title.
 

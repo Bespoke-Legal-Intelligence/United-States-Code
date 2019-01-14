@@ -26,7 +26,7 @@ General Notice and Wait Requirements.—(1) The Secretary of a military departme
 
 (4) The report for a month under this subsection may not be submitted later than the first day of that month.
 
-(5) For purposes of paragraph (2), the certification described in this paragraph with respectto an acquisition or lease of real property is a certification that the Secretary concerned—
+(5) For purposes of paragraph (2), the certification described in this paragraph with respect to an acquisition or lease of real property is a certification that the Secretary concerned—
 
 &emsp;(A) evaluated the feasibility of using space in property under the jurisdiction of the Department of Defense to satisfy the purposes of the acquisition or lease; and
 

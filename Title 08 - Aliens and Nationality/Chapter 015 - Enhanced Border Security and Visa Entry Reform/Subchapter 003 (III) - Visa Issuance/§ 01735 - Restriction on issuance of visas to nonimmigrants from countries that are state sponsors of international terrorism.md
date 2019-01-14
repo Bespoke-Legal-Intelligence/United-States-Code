@@ -8,13 +8,13 @@ No nonimmigrant visa under section 1101(a)(15) of this title shall be issued to 
 
 #### (1) In general
 
-&emsp;In this section, the term "state sponsor of international terrorism" means any countrythe government of which has been determined by the Secretary of State under any of the laws specified in paragraph (2) to have repeatedly provided support for acts of international terrorism.
+&emsp;In this section, the term "state sponsor of international terrorism" means any country the government of which has been determined by the Secretary of State under any of the laws specified in paragraph (2) to have repeatedly provided support for acts of international terrorism.
 
 #### (2) Laws under which determinations were made
 
 &emsp;The laws specified in this paragraph are the following:
 
-&emsp;&emsp;(A) Section 4605(j)(1)(A) of title 50 (or successor statute).
+&emsp;&emsp;(A) Section 4605(j)(1)(A) of title 50 (or successor statute).<sup>1</sup>
 
 &emsp;&emsp;(B) Section 2780(d) of title 22.
 
@@ -22,7 +22,13 @@ No nonimmigrant visa under section 1101(a)(15) of this title shall be issued to 
 
 (Pub. L. 107–173, title III, §306, May 14, 2002, 116 Stat. 555.)
 
+#### References in Text
+
+Section 4605(j)(1)(A) of title 50, referred to in subsec. (b)(2)(A), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former section 4605(j)(1)(A) of title 50 can be found in section 4813(c)(1)(A)(i) of title 50, as enacted by Pub. L. 115–232.
+
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 (2) Except as provided in paragraph (3), the Secretary may not during any fiscal year transfer to any other department or agency of the United States or to any other entity real property that is owned by the United States and administered by the Secretary unless the proposed transfer is described in the budget submitted to Congress pursuant to section 1105 of title 31 for that fiscal year.
 
-(3)(A) Subject to subparagraph (B) of this paragraph, the Secretary may, without regard to paragraph (2) of this subsection or any other provision of law relating to the disposition of real property by the United States, transfer to a State for use as the site of a State nursing-home or domiciliary facility real property described insubparagraph (E) of this paragraph which the Secretary determines to be excess to the needs of the Department.
+(3)(A) Subject to subparagraph (B) of this paragraph, the Secretary may, without regard to paragraph (2) of this subsection or any other provision of law relating to the disposition of real property by the United States, transfer to a State for use as the site of a State nursing-home or domiciliary facility real property described in subparagraph (E) of this paragraph which the Secretary determines to be excess to the needs of the Department.
 
 (B) A transfer of real property may not be made under this paragraph unless—
 
@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 111–350, §5(j)(6)(B), struck out "(41 U.S.C. 252(c))" af
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–422, §411(e)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
-"(2)(A) Except as provided in paragraph (3) of this subsection, the Secretary may not during any fiscal year transfer to another Federal agency or to a State (or any political subdivision of a State) any interest in real property described in subparagraph (B) of thisparagraph unless (i) the transfer (as proposed) was described in the budget for that fiscal year submitted to Congress pursuant to section 1105 of title 31, and (ii) the Department receives compensation equal to the fair market value of the property.
+"(2)(A) Except as provided in paragraph (3) of this subsection, the Secretary may not during any fiscal year transfer to another Federal agency or to a State (or any political subdivision of a State) any interest in real property described in subparagraph (B) of this paragraph unless (i) the transfer (as proposed) was described in the budget for that fiscal year submitted to Congress pursuant to section 1105 of title 31, and (ii) the Department receives compensation equal to the fair market value of the property.
 
 "(B) An interest in real property described in this subparagraph is an interest in real property that is owned by the United States and administered by the Secretary and that has an estimated value in excess of $50,000.
 
@@ -129,6 +129,862 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 #### Effective Date of 1973 Amendment
 
 Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as a note under section 1701 of this title.
+
+#### VA Asset and Infrastructure Review
+
+Pub. L. 115–182, title II, subtitle A, June 6, 2018, 132 Stat. 1443, provided that:
+
+#### "SEC. 201. SHORT TITLE.
+
+"This subtitle may be cited as the 'VA Asset and Infrastructure Review Act of 2018'.
+
+#### "SEC. 202. THE COMMISSION.
+
+"(a)
+
+Establishment.—There is established an independent commission to be known as the 'Asset and Infrastructure Review Commission' (in this subtitle referred to as the 'Commission').
+
+"(b)
+
+Duties.—The Commission shall carry out the duties specified for it in this subtitle.
+
+"(c)
+
+Appointment.—
+
+&emsp;"(1)
+
+In general.—
+
+&emsp;&emsp;"(A)
+
+Appointment.—The Commission shall be composed of nine members appointed by the President, by and with the advice and consent of the Senate.
+
+&emsp;&emsp;"(B)
+
+Transmission of nominations.—The President shall transmit to the Senate the nominations for appointment to the Commission not later than May 31, 2021.
+
+&emsp;"(2)
+
+Consultation in selection process.—In selecting individuals for nominations for appointments to the Commission, the President shall consult with—
+
+&emsp;&emsp;"(A) the Speaker of the House of Representatives;
+
+&emsp;&emsp;"(B) the majority leader of the Senate;
+
+&emsp;&emsp;"(C) the minority leader of the House of Representatives;
+
+&emsp;&emsp;"(D) the minority leader of the Senate; and
+
+&emsp;&emsp;"(E) congressionally chartered, membership based veterans service organizations concerning the appointment of three members.
+
+&emsp;"(3)
+
+Designation of chair.—At the time the President nominates individuals for appointment to the Commission under paragraph (1)(B), the President shall designate one such individual who shall serve as Chair of the Commission and one such individual who shall serve as Vice Chair of the Commission.
+
+&emsp;"(4)
+
+Member representation.—In nominating individuals under this subsection, the President shall ensure that—
+
+&emsp;&emsp;"(A) veterans, reflecting current demographics of veterans enrolled in the system of annual patient enrollment under section 1705 of title 38, United States Code, are adequately represented in the membership of the Commission;
+
+&emsp;&emsp;"(B) at least one member of the Commission has experience working for a private integrated health care system that has annual gross revenues of more than $50,000,000;
+
+&emsp;&emsp;"(C) at least one member has experience as a senior manager for an entity specified in clause (ii), (iii), or (iv) of section 101(a)(1)(B) of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113–146; 38 U.S.C. 1701 note);
+
+&emsp;&emsp;"(D) at least one member—
+
+&emsp;&emsp;&emsp;"(i) has experience with capital asset management for the Federal Government; and
+
+&emsp;&emsp;&emsp;"(ii) is familiar with trades related to building and real property, including construction, engineering, architecture, leasing, and strategic partnerships; and
+
+&emsp;&emsp;"(E) at least three members represent congressionally chartered, membership-based, veterans service organizations.
+
+"(d)
+
+Meetings.—
+
+&emsp;"(1)
+
+In general.—The Commission shall meet only during calendar years 2022 and 2023.
+
+&emsp;"(2)
+
+Public nature of meetings and proceedings.—
+
+&emsp;&emsp;"(A)
+
+Public meetings.—Each meeting of the Commission shall be open to the public.
+
+&emsp;&emsp;"(B)
+
+Open participation.—All the proceedings, information, and deliberations of the Commission shall be available for review by the public.
+
+"(e)
+
+Vacancies.—A vacancy in the Commission shall be filled in the same manner as the original appointment, but the individual appointed to fill the vacancy shall serve only for the unexpired portion of the term for which the individual's predecessor was appointed.
+
+"(f)
+
+Pay.—
+
+&emsp;"(1)
+
+In general.—Members of the Commission shall serve without pay.
+
+&emsp;"(2)
+
+Officers or employees of the united states.—Each member of the Commission who is an officer or employee of the United States shall serve without compensation in addition to that received for service as an officer or employee of the United States.
+
+&emsp;"(3)
+
+Travel expenses.—Members shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+
+"(g)
+
+Director of Staff.—
+
+&emsp;"(1)
+
+Appointment.—The Commission shall appoint a Director who—
+
+&emsp;&emsp;"(A) has not served as an employee of the Department of Veterans Affairs during the 1-year period preceding the date of such appointment; and
+
+&emsp;&emsp;"(B) is not otherwise barred or prohibited from serving as Director under Federal ethics laws and regulations, by reason of post-employment conflict of interest.
+
+&emsp;"(2)
+
+Rate of pay.—The Director shall be paid at the rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+
+"(h)
+
+Staff.—
+
+&emsp;"(1)
+
+Pay of personnel.—Subject to paragraphs (2) and (3), the Director, with the approval of the Commission, may appoint and fix the pay of additional personnel.
+
+&emsp;"(2)
+
+Exemption from certain requirements.—The Director may make such appointments without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and any personnel so appointed may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, except that an individual so appointed may not receive pay in excess ofthe annual rate of basic pay payable for GS–15 of the General Schedule.
+
+&emsp;"(3)
+
+Detailees.—
+
+&emsp;&emsp;"(A)
+
+Limitation on number.—Not more than two-thirds of the personnel employed by or detailed to the Commission may be on detail from the Department of Veterans Affairs.
+
+&emsp;&emsp;"(B)
+
+Professional analysts.—Not more than half of the professional analysts of the Commission staff may be persons detailed from the Department of Veterans Affairs to the Commission.
+
+&emsp;&emsp;"(C)
+
+Prohibition on detail of certain personnel.—A person may not be detailed from the Department of Veterans Affairs to the Commission if, within 6 months before the detail is to begin, that person participated personally and substantially in any matter within the Department of Veterans Affairs concerning the preparation of recommendations regarding facilities of the Veterans Health Administration.
+
+&emsp;"(4)
+
+Authority to request detailed personnel.—Subject to paragraph (3), the head of any Federal department or agency, upon the request of the Director, may detail any of the personnel of that department or agency to the Commission to assist the Commission in carrying out its duties under this subtitle.
+
+&emsp;"(5)
+
+Information from federal agencies.—The Commission may secure directly from any Federal agency such information the Commission considers necessary to carry out this subtitle. Upon request of the Chair, the head of such agency shall furnish such information to the Commission.
+
+"(i)
+
+Other Authority.—
+
+&emsp;"(1)
+
+Temporary and intermittent services.—The Commission may procure by contract, to the extent funds are available, the temporary or intermittent services of experts or consultants pursuant to section 3109 of title 5, United States Code.
+
+&emsp;"(2)
+
+Leasing and acquisition of property.—To the extent funds are available, the Commission may lease real property and acquire personal property either of its own accord or in consultation with the General Services Administration.
+
+"(j)
+
+Termination.—The Commission shall terminate on December 31, 2023.
+
+"(k)
+
+Prohibition Against Restricting Communications.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), no person may restrict an employee of the Department of Veterans Affairs in communicating with the Commission.
+
+&emsp;"(2)
+
+Unlawful communications.—Paragraph (1) does not apply to a communication that is unlawful.
+
+#### "SEC. 203. PROCEDURE FOR MAKING RECOMMENDATIONS.
+
+"(a)
+
+Selection Criteria.—
+
+&emsp;"(1)
+
+Publication.—The Secretary shall, not later than February 1, 2021, and after consulting with veterans service organizations, publish in the Federal Register and transmit to the Committees on Veterans' Affairs of the Senate and the House of Representatives the criteria proposed to be used by the Department of Veterans Affairs in assessing and making recommendations regarding the modernization or realignment of facilities of the Veterans Health Administration under this subtitle. Such criteria shall include the preferences of veterans regarding health care furnished by the Department.
+
+&emsp;"(2)
+
+Public comment.—The Secretary shall provide an opportunity for public comment on the proposed criteria under paragraph (1) for a period of at least 90 days and shall include notice of that opportunity in the publication required under such paragraph.
+
+&emsp;"(3)
+
+Publication of final criteria.—The Secretary shall, not later than May 31, 2021, publish in the Federal Register and transmit to the Committees on Veterans' Affairs of the Senate and the House of Representatives the final criteria to be used in making recommendations regarding the closure, modernization, or realignment of facilities of the Veterans Health Administration under this subtitle.
+
+"(b)
+
+Recommendations of the Secretary.—
+
+&emsp;"(1)
+
+Publication in federal register.—The Secretary shall, not later than January 31, 2022, and after consulting with veterans service organizations, publish in the Federal Register and transmit to the Committees on Veterans' Affairs of the Senate and the House of Representatives and to the Commission a report detailing the recommendations regarding the modernization or realignment of facilities of the Veterans Health Administration on the basis of the final criteria referred to in subsection (a)(2) that are applicable.
+
+&emsp;"(2)
+
+Factors for consideration.—In making recommendations under this subsection, the Secretary shall consider each of the following factors:
+
+&emsp;&emsp;"(A) The degree to which any health care delivery or other site for providing services to veterans reflect the metrics of the Department of Veterans Affairs regarding market area health system planning.
+
+&emsp;&emsp;"(B) The provision of effective and efficient access to high-quality health care and services for veterans.
+
+&emsp;&emsp;"(C) The extent to which the real property that no longer meets the needs of the Federal Government could be reconfigured, repurposed, consolidated, realigned, exchanged, outleased, replaced, sold, or disposed.
+
+&emsp;&emsp;"(D) The need of the Veterans Health Administration to acquire infrastructure or facilities that will be used for the provision of health care and services to veterans.
+
+&emsp;&emsp;"(E) The extent to which the operating and maintenance costs are reduced through consolidating, colocating, and reconfiguring space, and through realizing other operational efficiencies.
+
+&emsp;&emsp;"(F) The extent and timing of potential costs and savings, including the number of years such costs or savings will be incurred, beginning with the date of completion of the proposed recommendation.
+
+&emsp;&emsp;"(G) The extent to which the real property aligns with the mission of the Department of Veterans Affairs.
+
+&emsp;&emsp;"(H) The extent to which any action would impact other missions of the Department (including education, research, or emergency preparedness).
+
+&emsp;&emsp;"(I) Local stakeholder inputs and any factors identified through public field hearings.
+
+&emsp;&emsp;"(J) The assessments under paragraph (3).
+
+&emsp;&emsp;"(K) The extent to which the Veterans Health Administration has appropriately staffed the medical facility, including determinations whether there has been insufficient resource allocation or deliberate understaffing.
+
+&emsp;&emsp;"(L) Any other such factors the Secretary determines appropriate.
+
+&emsp;"(3)
+
+Capacity and commercial market assessments.—
+
+&emsp;&emsp;"(A)
+
+Assessments.—The Secretary shall assess the capacity of each Veterans Integrated Service Network and medical facility of the Department to furnish hospital care or medical services to veterans under chapter 17 of title 38, United States Code. Each such assessment shall—
+
+&emsp;&emsp;&emsp;"(i) identify gaps in furnishing such care or services at such Veterans Integrated Service Network or medical facility;
+
+&emsp;&emsp;&emsp;"(ii) identify how such gaps can be filled by—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) entering into contracts or agreements with network providers under this section or with entities under other provisions of law;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) making changes in the way such care and services are furnished at such Veterans Integrated Service Network or medical facility, including—
+
+&emsp;&emsp;&emsp;"(aa) extending hours of operation;
+
+&emsp;&emsp;&emsp;"(bb) adding personnel; or
+
+&emsp;&emsp;&emsp;"(cc) expanding space through the construction, leasing, or sharing of health care facilities; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the building or realignment of Department resources or personnel;
+
+&emsp;&emsp;&emsp;"(iii) forecast, based on future projections and historical trends, both the short- and long-term demand in furnishing care or services at such Veterans Integrated Service Network or medical facility and assess how such demand affects the needs to use such network providers;
+
+&emsp;&emsp;&emsp;"(iv) include a commercial health care market assessment of designated catchment areas in the United States conducted by a non-governmental entity; and
+
+&emsp;&emsp;&emsp;"(v) consider the unique ability of the Federal Government to retain a presence in an area otherwise devoid of commercial health care providers or from which such providers are at risk of leaving.
+
+&emsp;&emsp;"(B)
+
+Consultation.—In carrying out the assessments under subparagraph (A), the Secretary shall consult with veterans service organizations and veterans served by each such Veterans Integrated Service Network and medical facility.
+
+&emsp;&emsp;"(C)
+
+Submittal.—The Secretary shall submit such assessments to the Committees on Veterans' Affairs of the House of Representatives and the Senate with the recommendations of the Secretary under this subsection and make the assessments publicly available.
+
+&emsp;"(4)
+
+Summary of selection process.—The Secretary shall include, with the list of recommendations published and transmitted pursuant to paragraph (1), a summary of the selection process that resulted in the recommendation for each facility of the Veterans Health Administration, including a justification for each recommendation. The Secretary shall transmit the matters referred to in the preceding sentence not later than 7 days after the date of the transmittal to the Committees on Veterans' Affairs of the Senate and the House of Representatives and the Commission of the report referred to in paragraph (1).
+
+&emsp;"(5)
+
+Treatment of facilities.—In assessing facilities of the Veterans Health Administration, the Secretary shall consider all such facilities equally without regard to whether the facility has been previously considered or proposed for reuse, closure, modernization, or realignment by the Department of Veterans Affairs.
+
+&emsp;"(6)
+
+Availability of information to congress.—In addition to making all information used by the Secretary to prepare the recommendations under this subsection available to Congress (including any committee or Member of Congress), the Secretary shall also make such information available to the Commission and the Comptroller General of the United States.
+
+&emsp;"(7)
+
+Certification of accuracy.—
+
+&emsp;&emsp;"(A)
+
+In general.—Each person referred to in subparagraph (B), when submitting information to the Secretary or the Commission concerning the modernization or realignment of a facility of the Veterans Health Administration, shall certify that such information is accurate and complete to the best of that person's knowledge and belief.
+
+&emsp;&emsp;"(B)
+
+Covered persons.—Subparagraph (A) applies to the following persons:
+
+&emsp;&emsp;&emsp;"(i) Each Under Secretary of the Department of Veterans Affairs.
+
+&emsp;&emsp;&emsp;"(ii) Each director of a Veterans Integrated Service Network.
+
+&emsp;&emsp;&emsp;"(iii) Each director of a medical center of the Department of Veterans Affairs.
+
+&emsp;&emsp;&emsp;"(iv) Each director of a program office of the Department of Veterans Affairs.
+
+&emsp;&emsp;&emsp;"(v) Each person who is in a position the duties of which include personal and substantial involvement in the preparation and submission of information and recommendations concerning the modernization or realignment of facilities of the Veterans Health Administration.
+
+"(c)
+
+Review and Recommendations by the Commission.—
+
+&emsp;"(1)
+
+Public hearings.—
+
+&emsp;&emsp;"(A)
+
+In general.—After receiving the recommendations from the Secretary pursuant to subsection (b), the Commission shall conduct public hearings on the recommendations.
+
+&emsp;&emsp;"(B)
+
+Locations.—The Commission shall conduct public hearings in regions affected by a recommendation of the Secretary to close a facility of the Veterans Health Administration. To the greatest extent practicable, the Commission shall conduct public hearings in regions affected by a recommendation of the Secretary to modernize or realign such a facility.
+
+&emsp;&emsp;"(C)
+
+Required witnesses.—Witnesses at each public hearing shall include at a minimum—
+
+&emsp;&emsp;&emsp;"(i) a veteran—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) enrolled under section 1705 of title 38, United States Code; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) identified by a local veterans service organization; and
+
+&emsp;&emsp;&emsp;"(ii) a local elected official.
+
+&emsp;"(2)
+
+Transmittal to president.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Commission shall, not later than January 31, 2023, transmit to the President a report containing the Commission's findings and conclusions based on a review and analysis of the recommendations made by the Secretary, together with the Commission's recommendations, for modernizations and realignments of facilities of the Veterans Health Administration.
+
+&emsp;&emsp;"(B)
+
+Authority to make changes to recommendations.—Subject to subparagraph (C), in making its recommendations, the Commission may change any recommendation made by the Secretary if the Commission—
+
+&emsp;&emsp;&emsp;"(i) determines that the Secretary deviated substantially from the final criteria referred to in subsection (a)(2) in making such recommendation;
+
+&emsp;&emsp;&emsp;"(ii) determines that the change is consistent with the final criteria referred to in subsection (a)(2);
+
+&emsp;&emsp;&emsp;"(iii) publishes a notice of the proposed change in the Federal Register not less than 45 days before transmitting its recommendations to the President pursuant to subparagraph (A); and
+
+&emsp;&emsp;&emsp;"(iv) conducts public hearings on the proposed change.
+
+&emsp;"(3)
+
+Justification for changes.—The Commission shall explain and justify in its report submitted to the President pursuant to paragraph (2) any recommendation made by the Commission that is different from the recommendations made by the Secretary pursuant to subsection (b). The Commission shall transmit a copy of such report to the Committees on Veterans' Affairs of the Senate and the House of Representatives on the same date on which it transmits its recommendations to the President under paragraph (2).
+
+&emsp;"(4)
+
+Provision of information to congress.—After the Commission transmits its report to the President, the Commission shall promptly provide, upon request, to any Member of Congress, information used by the Commission in making its recommendations.
+
+"(d)
+
+Review by the President.—
+
+&emsp;"(1)
+
+Report.—The President shall, not later than February 15, 2023, transmit to the Commission and to the Congress a report containing the President's approval or disapproval of the Commission's recommendations.
+
+&emsp;"(2)
+
+Presidential approval.—If the President approves all the recommendations of the Commission, the President shall transmit a copy of such recommendations to the Congress, together with a certification of such approval.
+
+&emsp;"(3)
+
+Presidential disapproval.—If the President disapproves the recommendations of the Commission,in whole or in part, the President shall transmit to the Commission and the Congress, not later than March 1, 2023, the reasons for that disapproval. The Commission, after consideration of the President's reasons for disapproval, shall then transmit to the President, not later than March 15, 2023, a report containing—
+
+&emsp;&emsp;"(A) the Commission's findings and conclusions based on a review and analysis of those reasons for disapproval provided by the President; and
+
+&emsp;&emsp;"(B) recommendations that the Commission determines are appropriate for modernizations and realignments of facilities of the Veterans Health Administration.
+
+&emsp;"(4)
+
+Transmittal of recommendations to congress.—If the President approves all recommendations of the Commission transmitted to the President under paragraph (3), the President shall transmit a copy of such recommendations to the Congress, together with a certification of such approval.
+
+&emsp;"(5)
+
+Failure to transmit.—If the President does not transmit to the Congress an approval and certification described in paragraph (2) or (4) by March 30, 2023, the process by which facilities of the Veterans Health Administration may be selected for modernization or realignment under this subtitle shall be terminated.
+
+#### "SEC. 204. ACTIONS REGARDING INFRASTRUCTURE AND FACILITIES OF THE VETERANS HEALTH ADMINISTRATION.
+
+"(a)
+
+In General.—Subject to subsection (b), the Secretary shall begin to implement the recommended modernizations and realignments in the report under section 203(d) not later than 3 years after the date on which the President transmits such report to Congress. In any fiscal year, such implementation includes—
+
+&emsp;"(1) the planning of modernizations and realignments of facilities of the Veterans Health Administration as recommended in such report; and
+
+&emsp;"(2) providing detailed information on the budget for such modernizations or realignments in documents submitted to Congress by the Secretary in support of the President's budget for that fiscal year.
+
+"(b)
+
+Congressional Disapproval.—
+
+&emsp;"(1)
+
+In general.—The Secretary may not carry out any modernization or realignment recommended by the Commission in a report transmitted from the President pursuant to section 203(d) if a joint resolution is enacted, in accordance with the provisions of section 207, disapproving such recommendations of the Commission before the earlier of—
+
+&emsp;&emsp;"(A) the end of the 45-day period beginning on the date on which the President transmits such report; or
+
+&emsp;&emsp;"(B) the adjournment of Congress sine die for the session during which such report is transmitted.
+
+&emsp;"(2)
+
+Computation of period.—For purposes of paragraph (1) and subsections (a) and (c) of section 207, the days on which either House of Congress is not in session because of an adjournment of more than three days to a day certain shall be excluded in the computation of a period.
+
+#### "SEC. 205. IMPLEMENTATION.
+
+"(a)
+
+In General.—
+
+&emsp;"(1)
+
+Modernizing and realigning facilities.—In modernizing or realigning any facility of the Veterans Health Administration under this subtitle, the Secretary may—
+
+&emsp;&emsp;"(A) take such actions as may be necessary to modernize or realign any such facility, including the alteration of such facilities, the acquisition of such land, the leasing or construction of such replacement facilities, the disposition of such land or facilities, the performance of such activities, and the conduct of such advance planning and design as may be required to transfer functions from a facility of the Veterans Health Administration to another such facility, and may use for such purpose funds in the Account or funds appropriated to the Department of Veterans Affairs for such purposes;
+
+&emsp;&emsp;"(B) carry out activities for the purposes of environmental mitigation, abatement, or restoration at any such facility, and shall use for such purposes funds in the Account;
+
+&emsp;&emsp;"(C) reimburse other Federal agencies for actions performed at the request of the Secretary with respect to any such closure or realignment, and may use for such purpose funds in the Account or funds appropriated to the Department of Veterans Affairs and available for such purpose; and
+
+&emsp;&emsp;"(D) exercise the authority of the Secretary under subchapter V of chapter 81 of title 38, United States Code.
+
+&emsp;"(2)
+
+Environmental restoration; historic preservation.—In carrying out any closure or realignment under this subtitle, the Secretary, with regards to any property made excess to the needs of the Department of Veterans Affairs as a result of such closure or realignment, shall carry out, as soon as possible with funds available for such purpose, any of the following for which the Secretary is responsible:
+
+&emsp;&emsp;"(A) Environmental mitigation.
+
+&emsp;&emsp;"(B) Environmental abatement.
+
+&emsp;&emsp;"(C) Environmental restoration.
+
+&emsp;&emsp;"(D) Compliance with historic preservation requirements.
+
+"(b)
+
+Management and Disposal of Property.—
+
+&emsp;"(1)
+
+Existing disposal authorities.—To transfer or dispose of surplus real property or infrastructure located at any facility of the Veterans Health Administration that is modernized or realigned under this title \[see Tables for classification\], the Secretary may exercise the authorities of the Secretary under subchapters I and II of chapter 81 of title 38, United States Code, or the authorities delegated to the Secretary by the Administrator of General Services under subchapter III of chapter 5 of title 40, United States Code.
+
+&emsp;"(2)
+
+Effects on local communities.—
+
+&emsp;&emsp;"(A)
+
+Consultation with state and local government.—Before any action may be taken with respect to the disposal of any surplus real property or infrastructure located at any facility of the Veterans Health Administration to be closed or realigned under this subtitle, the Secretary of Veterans Affairs shall consult with the Governor of the State and the heads of the local governments concerned for the purpose of considering any plan for the use of such property by the local community concerned.
+
+&emsp;&emsp;"(B)
+
+Treatment of roads.—If infrastructure or a facility of the Veterans Health Administration to be closed or realigned under this subtitle includes a road used for public access through, into, or around the facility, the Secretary—
+
+&emsp;&emsp;&emsp;"(i) shall consult with the Government of the State and the heads of the local governments concerned for the purpose of considering the continued availability of the road for public use after the recommended action is complete; and
+
+&emsp;&emsp;&emsp;"(ii) may exercise the authority of the Secretary under section 8108 of title 38, United States Code.
+
+&emsp;"(3)
+
+Leases; cercla.—
+
+&emsp;&emsp;"(A)
+
+Lease authority.—
+
+&emsp;&emsp;&emsp;"(i)
+
+Transfer to redevelopment authority for lease.—The Secretary may transfer title to a facility of the Veterans Health Administration approved for closure or realignment under this subtitle (including property at a facility of the Veterans Health Administration approved for realignment which will be retained by the Department of Veterans Affairs or another Federal agency after realignment) to the redevelopment authority for the facility if the redevelopment authority agrees to lease, directly upon transfer, one or more portions of the property transferred under this subparagraph to the Secretary or to the head of another department or agency of the Federal Government.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Term of lease.—A lease under clause (i) shall be for a term of not to exceed 50 years, but may provide for options for renewal or extension of the term by the department or agency concerned.
+
+&emsp;&emsp;&emsp;"(iii)
+
+Limitation.—A lease under clause (i) may not require rental payments by the United States.
+
+&emsp;&emsp;&emsp;"(iv)
+
+Treatment of remaindered lease terms.—A lease under clause (i) shall include a provision specifying that if the department or agency concerned ceases requiring the use of the leased property before the expiration of the term of the lease, the remainder of the lease term may be satisfied by the same or another department or agency of the Federal Government using the property for a use similar to the use under the lease. Exercise of the authority provided by this clause shall be made in consultation with the redevelopment authority concerned.
+
+&emsp;&emsp;&emsp;"(v)
+
+Facility services.—Notwithstanding clause (iii), if a lease under clause (i) involves a substantial portion of the facility, the department or agency concerned may obtain facility services for the leased property and common area maintenance from the redevelopment authority or the redevelopment authority's assignee as a provision of the lease. The facility services and common area maintenance shall be provided at a rate no higher than the rate charged to non-Federal tenants of the transferred property. Facility services and common area maintenance covered by the lease shall not include—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) municipal services that a State or local government is required by law to provide to all landowners in its jurisdiction without direct charge; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) firefighting or security-guard functions.
+
+&emsp;&emsp;"(B)
+
+Application of cercla.—The provisions of section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)) shall apply to any transfer of real property under this paragraph.
+
+&emsp;&emsp;"(C)
+
+Additional terms and conditions.—The Secretary may require any additional terms and conditions in connection with a transfer under this paragraph as such Secretary considers appropriate to protect the interests of the United States.
+
+&emsp;"(4)
+
+Application of mckinney-vento homeless assistance act.—Nothing in this subtitle shall limit or otherwise affect the application of the provisions of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.) to facilities of the Veterans Health Administration closed under this subtitle.
+
+"(c)
+
+Applicability of National Environmental Policy Act of 1969.—
+
+&emsp;"(1)
+
+In general.—The provisions of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) shall not apply to the actions of the President, the Commission, and, except as provided in paragraph (2), the Department of Veterans Affairs in carrying out this subtitle.
+
+&emsp;"(2)
+
+Department of veterans affairs.—
+
+&emsp;&emsp;"(A)
+
+Covered activities.—The provisions of the National Environmental Policy Act of 1969 shall apply to actions of the Department of Veterans Affairs under this subtitle—
+
+&emsp;&emsp;&emsp;"(i) during the process of property disposal; and
+
+&emsp;&emsp;&emsp;"(ii) during the process of relocating functions from a facility of the Veterans Health Administration being closed or realigned to another facility after the receiving facility has been selected but before the functions are relocated.
+
+&emsp;&emsp;"(B)
+
+Other activities.—In applying the provisions of the National Environmental Policy Act of 1969 to the processes referred to in subparagraph (A), the Secretary shall not have to consider—
+
+&emsp;&emsp;&emsp;"(i) the need for closing or realigning the facility of the Veterans Health Administration as recommended by the Commission;
+
+&emsp;&emsp;&emsp;"(ii) the need for transferring functions to any facility of the Veterans Health Administration which has been selected as the receiving facility; or
+
+&emsp;&emsp;&emsp;"(iii) facilities of the Veterans Health Administration alternative to those recommended or selected.
+
+"(d)
+
+Waiver.—
+
+&emsp;"(1)
+
+Restrictions on use of funds.—The Secretary may close or realign facilities of the Veterans Health Administration under this subtitle without regard to any provision of law restricting the use of funds for closing or realigning facilities of the Veterans Health Administration included in any appropriation or authorization Act.
+
+&emsp;"(2)
+
+Restrictions on authorities.—The Secretary may close or realign facilities of the Veterans Health Administration under this subtitle without regard to the restrictions of section 8110 of title 38, United States Code.
+
+"(e)
+
+Transfer Authority in Connection With Payment of Environmental Remediation Costs.—
+
+&emsp;"(1)
+
+In general.—
+
+&emsp;&emsp;"(A)
+
+Transfer by deed.—Subject to paragraph (2) of this subsection and section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)), the Secretary may enter into an agreement to transfer by deed a facility of the Veterans Health Administration with any person who agrees to perform all environmental restoration, waste management, and environmental compliance activities that are required for the property or facilities under Federal and State laws, administrative decisions, agreements (including schedules and milestones), and concurrences.
+
+&emsp;&emsp;"(B)
+
+Additional terms or conditions.—The Secretary may require any additional terms and conditions in connection with an agreement authorized by subparagraph (A) as the Secretary considers appropriate to protect the interests of the United States.
+
+&emsp;"(2)
+
+Limitation.—A transfer of a facility of the Veterans Health Administration may be made under paragraph (1) only if the Secretary certifies to Congress that—
+
+&emsp;&emsp;"(A) the costs of all environmental restoration, waste management, and environmental compliance activities otherwise to be paid by the Secretary with respect to the facility of the Veterans Health Administration are equal to or greater than the fair market value of the property or facilities to be transferred, as determined by the Secretary; or
+
+&emsp;&emsp;"(B) if such costs are lower than the fair market value of the facility of the Veterans Health Administration, the recipient of such transfer agrees to pay the difference between the fair market value and such costs.
+
+&emsp;"(3)
+
+Payment by the secretary for certain transfers.—In the case of a facility of the Veterans Health Administration covered by a certification under paragraph (2)(A), the Secretary may pay the recipient of such facility an amount equal to the lesser of—
+
+&emsp;&emsp;"(A) the amount by which the costs incurred by the recipient of the facility of the Veterans Health Administration for all environmental restoration, waste, management, and environmental compliance activities with respect to such facility exceed the fair market value of such property as specified in such certification; or
+
+&emsp;&emsp;"(B) the amount by which the costs (as determined by the Secretary) that would otherwise have been incurred by the Secretary for such restoration, management, and activities with respect to such facility of the Veterans Health Administration exceed the fair market value of property as so specified.
+
+&emsp;"(4)
+
+Disclosure.—As part of an agreement under paragraph (1), the Secretary shall disclose to the person to whom the facility of the Veterans Health Administration will be transferred any information of the Secretary regarding the environmental restoration, waste management, and environmental compliance activities described in paragraph (1) that relate to the facility of the Veterans Health Administration. The Secretary shall provide such information before entering into the agreement.
+
+&emsp;"(5)
+
+Applicability of certain environmental laws.—Nothing in this subsection shall be construed to modify, alter, or amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) or the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
+
+#### "SEC. 206. DEPARTMENT OF VETERANS AFFAIRS ASSET AND INFRASTRUCTURE REVIEW ACCOUNT.
+
+"(a)
+
+Establishment.—There is hereby established in the ledgers of the Treasury an account to be known as the 'Department of Veterans Affairs Asset and Infrastructure Review Account' which shall be administered by the Secretary as a single account.
+
+"(b)
+
+Credits to Account.—There shall be credited to the Account the following:
+
+&emsp;"(1) Funds authorized for and appropriated to the Account.
+
+&emsp;"(2) Proceeds received from the lease, transfer, or disposal of any property at a facility of the Veterans Health Administration closed or realigned under this subtitle.
+
+"(c)
+
+Use of Account.—The Secretary may use the funds in the Account only for the following purposes:
+
+&emsp;"(1) To carry out this subtitle.
+
+&emsp;"(2) To cover property management and disposal costs incurred at facilities of the Veterans Health Administration closed, modernized, or realigned under this subtitle.
+
+&emsp;"(3) To cover costs associated with supervision, inspection, overhead, engineering, and design of construction projects undertaken under this subtitle, and subsequent claims, if any, related to such activities.
+
+&emsp;"(4) Other purposes that the Secretary determines support the mission and operations of the Department of Veterans Affairs.
+
+"(d)
+
+Consolidated Budget Justification Display for Account.—
+
+&emsp;"(1)
+
+Consolidated budget information required.—The Secretary shall establish a consolidated budget justification display in support of the Account that for each fiscal year—
+
+&emsp;&emsp;"(A) details the amount and nature of credits to, and expenditures from, the Account during the preceding fiscal year;
+
+&emsp;&emsp;"(B) separately details the environmental remediation costs associated with facility of the Veterans Health Administration for which a budget request is made;
+
+&emsp;&emsp;"(C) specifies the transfers into the Account and the purposes for which these transferred funds will be further obligated, to include caretaker and environment remediation costs associated with each facility of the Veterans Health Administration; and
+
+&emsp;&emsp;"(D) details any intra-budget activity transfers within the Account that exceeded $1,000,000 during the preceding fiscal year or that are proposed for the next fiscal year and will exceed $1,000,000.
+
+&emsp;"(2)
+
+Submission.—The Secretary shall include the information required by paragraph (1) in the materials that the Secretary submits to Congress in support of the budget for a fiscal year submitted by the President pursuant to section 1105 of title 31, United States Code.
+
+"(e)
+
+Closure of Account; Treatment of Remaining Funds.—
+
+&emsp;"(1)
+
+Closure.—The Account shall be closed at the time and in the manner provided for appropriation accounts under section 1555 of title 31, United States Code, except that unobligated funds which remain in the Account upon closure shall be held by the Secretary of the Treasury until transferred to the Secretary of Veterans Affairs by law after the Committees on Veterans' Affairs of the Senate and the House of Representatives receive the final report transmitted under paragraph (2).
+
+&emsp;"(2)
+
+Final report.—No later than 60 days after the closure of the Account under paragraph (1), the Secretary shall transmit to the Committees on Veterans' Affairs of the Senate and the House of Representatives and the Committees on Appropriations of the House of Representatives and the Senate a report containing an accounting of—
+
+&emsp;&emsp;"(A) all the funds credited to and expended from the Account or otherwise expended under this subtitle; and
+
+&emsp;&emsp;"(B) any funds remaining in the Account.
+
+#### "SEC. 207. CONGRESSIONAL CONSIDERATION OF COMMISSION REPORT.
+
+"(a)
+
+Disapproval Resolution.—For purposes of this subtitle, the term 'joint resolution' means only a joint resolution which is introduced within the 5-day period beginning on the date on which the President transmits the report to the Congress under section 203(d), and—
+
+&emsp;"(1) which does not have a preamble;
+
+&emsp;"(2) the matter after the resolving clause of which is as follows: 'that Congress disapproves the recommendations of the VHA Asset and Infrastructure Review Commission as submitted by the President on \_\_\_\_\_\_', the blank space being filled with the appropriate date; and
+
+&emsp;"(3) the title of which is as follows: 'Joint resolution disapproving the recommendations of the VHA Asset and Infrastructure Review Commission.'.
+
+"(b)
+
+Consideration in the House of Representatives.—
+
+&emsp;"(1)
+
+Reporting and discharge.—Any committee of the House of Representatives to which a joint resolution is referred shall report it to the House without amendment not later than 15 legislative days after the date of introduction thereof. If a committee fails to report the joint resolution within that period, the committee shall be discharged from further consideration of the joint resolution.
+
+&emsp;"(2)
+
+Proceeding to consideration.—It shall be in order at any time after the third legislative day after each committee authorized to consider a joint resolution has reported or has been discharged from consideration of a joint resolution, to move to proceed to consider the joint resolution in the House. All points of order against the motion are waived. Such a motion shall not be in order after the House has disposed of a motion to proceed on a joint resolution addressing a particular submission. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
+
+&emsp;"(3)
+
+Consideration.—The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except 2 hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
+
+"(c)
+
+Consideration in the Senate.—
+
+&emsp;"(1)
+
+Referral.—A joint resolution introduced in the Senate shall be referred to the Committee on Veterans' Affairs.
+
+&emsp;"(2)
+
+Reporting and discharge.—Any committee of the Senate to which a joint resolution is referred shall report it to the Senate without amendment not later than 15 session days after the date of introduction of a joint resolution described in subsection (a). If a committee fails to report the joint resolution within that period, the committee shall be dischargedfrom further consideration of the joint resolution and the joint resolution shall be placed on the calendar.
+
+&emsp;"(3)
+
+Floor consideration.—
+
+&emsp;&emsp;"(A)
+
+In general.—Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time after the third session day on which the Committee on Veterans' Affairs has reported or has been discharged from consideration of a joint resolution described in subsection (a) (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the joint resolution shall remain the unfinished business until disposed of.
+
+&emsp;&emsp;"(B)
+
+Consideration.—Consideration of the joint resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than 2 hours, which shall be divided equally between the majority and minority leaders or their designees. A motion further to limit debate is in order and not debatable. An amendment to, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the joint resolution is not in order.
+
+&emsp;&emsp;"(C)
+
+Vote on passage.—If the Senate has voted to proceed to a joint resolution, the vote on passage of the joint resolution shall occur immediately following the conclusion of consideration of the joint resolution, and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate.
+
+&emsp;&emsp;"(D)
+
+Rulings of the chair on procedure.—Appeals from the decisions of the Chair relating to the application of the rules of the Senate, as the case may be, to the procedure relating to a joint resolution shall be decided without debate.
+
+"(d)
+
+Amendment Not in Order.—A joint resolution of disapproval considered pursuant to this section shall not be subject to amendment in either the House of Representatives or the Senate.
+
+"(e)
+
+Coordination With Action by Other House.—
+
+&emsp;"(1)
+
+In general.—If, before the passage by one House of the joint resolution of that House, that House receives the joint resolution from the other House, then the following procedures shall apply:
+
+&emsp;&emsp;"(A) The joint resolution of the other House shall not be referred to a committee.
+
+&emsp;&emsp;"(B) With respect to the joint resolution of the House receiving the joint resolution—
+
+&emsp;&emsp;&emsp;"(i) the procedure in that House shall be the same as if no joint resolution had been received from the other House; but
+
+&emsp;&emsp;&emsp;"(ii) the vote on passage shall be on the joint resolution of the other House.
+
+&emsp;"(2)
+
+Treatment of joint resolution of other house.—If the Senate fails to introduce or consider a joint resolution under this section, the joint resolution of the House shall be entitled to expedited floor procedures under this section.
+
+&emsp;"(3)
+
+Treatment of companion measures.—If, following passage of the joint resolution in the Senate, the Senate then receives the companion measure from the House of Representatives, the companion measure shall not be debatable.
+
+"(f)
+
+Rules of the House of Representatives and Senate.—This section is enacted by Congress—
+
+&emsp;"(1) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
+
+&emsp;"(2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+
+#### "SEC. 208. OTHER MATTERS.
+
+"(a)
+
+Online Publication of Communications.—
+
+&emsp;"(1)
+
+In general.—Not later than 24 hours after the transmission or receipt of any communication under this subtitle that is transmitted or received by a party specified in paragraph (2), the Secretary of Veterans Affairs shall publish such communication online.
+
+&emsp;"(2)
+
+Parties specified.—The parties specified under this paragraph are the following:
+
+&emsp;&emsp;"(A) The Secretary of Veterans Affairs.
+
+&emsp;&emsp;"(B) The Commission.
+
+&emsp;&emsp;"(C) The President.
+
+"(b)
+
+Continuation of Existing Construction Projects and Planning.—During activities that the Commission, President, or Congress carry out under this subtitle, the Secretary of Veterans Affairs may not stop, solely because of such activities—
+
+&emsp;"(1) a construction or leasing project of the Veterans Health Administration;
+
+&emsp;"(2) long term planning regarding infrastructure and assets of the Veterans Health Administration; or
+
+&emsp;"(3) budgetary processes for the Veterans Health Administration.
+
+"(c)
+
+Recommendations for Future Asset Reviews.—The Secretary of Veterans Affairs may, after consulting with veterans service organizations, include in budget submissions the Secretary submits after the termination of the Commission recommendations for future such commissions or other capital asset realignment and management processes.
+
+#### "SEC. 209. DEFINITIONS.
+
+"In this subtitle:
+
+&emsp;"(1) The term 'Account' means the Department of Veterans Affairs Asset and Infrastructure Review Account established by section 206(a).
+
+&emsp;"(2) The term 'Commission' means the Commission established by section 202.
+
+&emsp;"(3) The term 'date of approval', with respect to a modernization or realignment of a facility of the Veterans Health Administration, means the date on which the authority of Congress to disapprove a recommendation of modernization or realignment, as the case may be, of such facility under this subtitle expires.
+
+&emsp;"(4) The term 'facility of the Veterans Health Administration'—
+
+&emsp;&emsp;"(A) means any land, building, structure, or infrastructure (including any medical center, nursing home, domiciliary facility, outpatient clinic, center that provides readjustment counseling, or leased facility) that is—
+
+&emsp;&emsp;&emsp;"(i) under the jurisdiction of the Department of Veterans Affairs;
+
+&emsp;&emsp;&emsp;"(ii) under the control of the Veterans Health Administration; and
+
+&emsp;&emsp;&emsp;"(iii) not under the control of the General Services Administration; or
+
+&emsp;&emsp;"(B) with respect to a colocated facility of the Department of Veterans Affairs, includes any land, building, or structure—
+
+&emsp;&emsp;&emsp;"(i) under the jurisdiction of the Department of Veterans Affairs;
+
+&emsp;&emsp;&emsp;"(ii) under the control of another administration of the Department of Veterans Affairs; and
+
+&emsp;&emsp;&emsp;"(iii) not under the control of the General Services Administration.
+
+&emsp;"(5) The term 'infrastructure' means improvements to land other than buildings or structures.
+
+&emsp;"(6) The term 'modernization' includes—
+
+&emsp;&emsp;"(A) any action, including closure, required to align the form and function of a facility of the Veterans Health Administration to the provision of modern day health care, including utilities and environmental control systems;
+
+&emsp;&emsp;"(B) the construction, purchase, lease, or sharing of a facility of the Veterans Health Administration; and
+
+&emsp;&emsp;"(C) realignments, disposals, exchanges, collaborations between the Department of Veterans Affairs and other Federal entities, and strategic collaborations between the Department and non-Federal entities, including tribal organizations.
+
+&emsp;"(7) The term 'realignment', with respect to a facility of the Veterans Health Administration, includes—
+
+&emsp;&emsp;"(A) any action that changes the numbers of or relocates services, functions, and personnel positions;
+
+&emsp;&emsp;"(B) disposals or exchanges between the Department of Veterans Affairs and other Federal entities, including the Department of Defense; and
+
+&emsp;&emsp;"(C) strategic collaborations between the Department of Veterans Affairs and non-Federal entities, including tribal organizations.
+
+&emsp;"(8) The term 'redevelopment authority', in the case of a facility of the Veterans Health Administration closed or modernized under this subtitle, means any entity (including an entity established by a State or local government) recognized by the Secretary of Veterans Affairs as the entity responsible for developing the redevelopment plan with respect to the facility or for directing the implementation of such plan.
+
+&emsp;"(9) The term 'redevelopment plan'\[,\] in the case of a facility of the Veterans Health Administration to be closed or realigned under this subtitle, means a plan that—
+
+&emsp;&emsp;"(A) is agreed to by the local redevelopment authority with respect to the facility; and
+
+&emsp;&emsp;"(B) provides for the reuse or redevelopment of the real property and personal property of the facility that is available for such reuse and redevelopment as a result of the closure or realignment of the facility.
+
+&emsp;"(10) The term 'Secretary' means the Secretary of Veterans Affairs.
+
+&emsp;"(11) The term 'tribal organization' has the meaning given such term in section 3765 of title 38, United States Code."
 
 #### Transfer of Real Property Deemed Described in Budget for Fiscal Year 1989
 

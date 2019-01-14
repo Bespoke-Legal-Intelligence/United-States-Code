@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (B) Applicable percentage
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "applicable percentage" means 2 percentage points for each $2,500 (or fraction thereof) by which the taxpayer's adjusted gross income for the taxable year exceeds the applicable amount in effect under section 68(b). In the case of a married individual filing a separatereturn, the preceding sentence shall be applied by substituting "$1,250" for "$2,500". In no event shall the applicable percentage exceed 100 percent.
+&emsp;&emsp;For purposes of subparagraph (A), the term "applicable percentage" means 2 percentage points for each $2,500 (or fraction thereof) by which the taxpayer's adjusted gross income for the taxable year exceeds the applicable amount in effect under section 68(b). In the case of a married individual filing a separate return, the preceding sentence shall be applied by substituting "$1,250" for "$2,500". In no event shall the applicable percentage exceed 100 percent.
 
 #### (C) Coordination with other provisions
 
@@ -62,7 +62,7 @@ For purposes of this section—
 
 No exemption shall be allowed under this section with respect to any individual unless the TIN of such individual is included on the return claiming the exemption.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 42; Pub. L. 91–172, title VIII, §801(a)(1), (b)(1), (c)(1), (d)(1), title IX, §941(b), Dec. 30, 1969, 83 Stat. 675, 676, 726; Pub. L. 92–178, title II, §201(a)(1), (b)(1), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 94–455, title XIX, §1901(a)(23), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 95–600, title I, §102(a), Nov. 6, 1978, 92 Stat. 2771; Pub. L. 97–34, title I, §104(c), Aug. 13, 1981, 95 Stat. 189; Pub. L. 98–369, div. A, title IV, §426(a), July 18, 1984, 98 Stat. 804; Pub. L. 99–514, title I, §103, title XVIII, §1847(b)(3), Oct. 22, 1986, 100 Stat. 2102, 2856; Pub. L. 100–647, title VI, §6010(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 101–508, title XI, §§11101(d)(1)(F), 11104(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–407; Pub. L. 102–318, title V, §511, July 3, 1992, 106 Stat. 300; Pub. L. 103–66, title XIII, §§13201(b)(3)(G), 13205, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 104–188, title I, §§1615(a)(1), 1702(a)(2), Aug. 20, 1996, 110 Stat. 1853, 1868; Pub. L. 106–554, §1(a)(7) \[title III, §306(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634; Pub. L. 107–16, title I, §102(a), June 7, 2001, 115 Stat. 44; Pub. L. 107–147, title IV, §§412(b), 417(6), Mar. 9, 2002, 116 Stat. 53, 56; Pub. L. 108–311, title II, §206, Oct. 4, 2004, 118 Stat. 1176; Pub. L. 112–240, title I, §101(b)(2)(B), Jan. 2, 2013, 126 Stat. 2317; Pub. L. 115–97, title I, §§11002(d)(1)(Q), 11041(a), Dec. 22, 2017, 131 Stat. 2060, 2082.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 42; Pub. L. 91–172, title VIII, §801(a)(1), (b)(1), (c)(1), (d)(1), title IX, §941(b), Dec. 30, 1969, 83 Stat. 675, 676, 726; Pub. L. 92–178, title II, §201(a)(1), (b)(1), (c), Dec. 10, 1971,85 Stat. 510, 511; Pub. L. 94–455, title XIX, §1901(a)(23), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 95–600, title I, §102(a), Nov. 6, 1978, 92 Stat. 2771; Pub. L. 97–34, title I, §104(c), Aug. 13, 1981, 95 Stat. 189; Pub. L. 98–369, div. A, title IV, §426(a), July 18, 1984, 98 Stat. 804; Pub. L. 99–514, title I, §103, title XVIII, §1847(b)(3), Oct. 22, 1986, 100 Stat. 2102, 2856; Pub. L. 100–647, title VI, §6010(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 101–508, title XI, §§11101(d)(1)(F), 11104(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–407; Pub. L. 102–318, title V, §511, July 3, 1992, 106 Stat. 300; Pub. L. 103–66, title XIII, §§13201(b)(3)(G), 13205, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 104–188, title I, §§1615(a)(1), 1702(a)(2), Aug. 20, 1996, 110 Stat. 1853, 1868; Pub. L. 106–554, §1(a)(7) \[title III, §306(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634; Pub. L. 107–16, title I, §102(a), June 7, 2001, 115 Stat. 44; Pub. L. 107–147, title IV, §§412(b), 417(6), Mar. 9, 2002, 116 Stat. 53, 56; Pub. L. 108–311, title II, §206, Oct. 4, 2004, 118 Stat. 1176; Pub. L. 112–240, title I, §101(b)(2)(B), Jan. 2, 2013, 126 Stat. 2317; Pub. L. 115–97, title I, §§11002(d)(1)(Q), 11041(a), Dec. 22, 2017, 131 Stat. 2060, 2082.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -146,7 +146,7 @@ Pub. L. 99–514, §1847(b)(3), substituted "section 22(e)" for "section 37(e)" 
 
 Subsec. (f). Pub. L. 99–514, §103(b), redesignated subsec. (f) as (d).
 
-Pub. L. 99–514, §103(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "For purposes of this section, the term 'exemption amount' means, with respect to any taxable year, $1,000 increased by an amount equal to $1,000 multiplied by the cost-of-living adjustment (as defined in section 1(f)(3)) for the calendar year in which the taxable year begins. If the amount determined under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10 (or if such amount is a multiple of $5, such amount shall be increased to the next highest multiple of $10)."
+Pub. L. 99–514, §103(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "For purposes of this section, the term 'exemption amount' means, with respect to any taxable year, $1,000 increased by an amount equal to $1,000 multiplied by the cost-of-living adjustment (as defined in section 1(f)(3)) for the calendar year in which the taxable year begins. If the amount determined under the preceding sentenceis not a multiple of $10, such amount shall be rounded to the nearest multiple of $10 (or if such amount is a multiple of $5, such amount shall be increased to the next highest multiple of $10)."
 
 <b>1984</b>—Subsec. (e)(5). Pub. L. 98–369 added par. (5).
 
@@ -202,7 +202,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §306(b)\], Dec. 21, 2000, 114 Stat. 2
 
 Amendment by section 1615(a)(1) of Pub. L. 104–188 applicable with respect to returns the due date for which, without regard to extensions, is on or after the 30th day after Aug. 20, 1996, with special rule for 1995 and 1996, see section 1615(d) of Pub. L. 104–188, set out as a note under section 21 of this title.
 
-Amendment by section 1702(a)(2) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which suchamendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by section 1702(a)(2) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1993 Amendment
 

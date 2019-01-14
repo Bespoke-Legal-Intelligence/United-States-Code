@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 85–791, §6(b), substituted "petition" for "transcript".
 
 Subsec. (d). Pub. L. 85–791, §6(b), struck out "duly certified" after "admitted".
 
-Subsec. (h). Pub. L. 85–791, §6(c), substituted "jurisdiction, which upon the finding of the record with it shall be exclusive," for "exclusive jurisdiction," and section "1254" for "347".
+Subsec. (h). Pub. L. 85–791, §6(c), substituted "jurisdiction, which upon the finding of the record with itshall be exclusive," for "exclusive jurisdiction," and section "1254" for "347".
 
 #### Change of Name
 

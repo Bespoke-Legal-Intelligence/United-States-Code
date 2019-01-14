@@ -58,7 +58,7 @@ Pub. L. 94–437, title IV, §402(c), Sept. 30, 1976, 90 Stat. 1409, as amended 
 
 #### Medicaid Payments Not Considered in Determining Appropriations for Indian Health Care
 
-Pub. L. 94–437, title IV, §402(d), Sept. 30, 1976, 90 Stat. 1410, provided that any payments received for services provided recipients under this section were not to be considered in determining appropriations for the provision of health care and services to Indians, prior to the general amendment of section 402 of Pub. L. 94–437 byPub. L. 102–573, title IV, §401(b)(1), Oct. 29, 1992, 106 Stat. 4565. Similar provisions are contained in section 401(a) of Pub. L. 94–437, which is classified to section 1641(a) of Title 25, Indians.
+Pub. L. 94–437, title IV, §402(d), Sept. 30, 1976, 90 Stat. 1410, provided that any payments received for services provided recipients under this section were not to be considered in determining appropriations for the provision of health care and services to Indians, prior to the general amendment of section 402 of Pub. L. 94–437 by Pub. L. 102–573, title IV, §401(b)(1), Oct. 29, 1992, 106 Stat. 4565. Similar provisions are contained in section 401(a) of Pub. L. 94–437, which is classified to section 1641(a) of Title 25, Indians.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

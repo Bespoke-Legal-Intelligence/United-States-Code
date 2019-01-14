@@ -18,7 +18,7 @@ Personnel expenses.—The Secretary of Defense may pay travel, subsistence, and 
 
 &emsp;(2)
 
-Administrative services and support for liaison officers.—The Secretary of Defense may provide administrative services andsupport for the performance of duties by a liaison officer of a foreign country while the liaison officer is assigned temporarily to any headquarters in the Department of Defense.
+Administrative services and support for liaison officers.—The Secretary of Defense may provide administrative services and support for the performance of duties by a liaison officer of a foreign country while the liaison officer is assigned temporarily to any headquarters in the Department of Defense.
 
 &emsp;(3)
 

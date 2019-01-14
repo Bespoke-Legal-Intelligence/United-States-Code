@@ -70,7 +70,7 @@ Under regulations prescribed by the Secretary, if an installment obligation is i
 
 &emsp;(1) for purposes of subsection (a), acquisition of real property by the taxpayer shall be treated as reacquisition by the seller, and
 
-&emsp;(2) the basis of the real property acquired by the taxpayer shall be increased by an amount equal to the deduction under section 691(c) which would (but for this subsection) havebeen allowable to the taxpayer with respect to the gain on the exchange of the obligation for the real property.
+&emsp;(2) the basis of the real property acquired by the taxpayer shall be increased by an amount equal to the deduction under section 691(c) which would (but for this subsection) have been allowable to the taxpayer with respect to the gain on the exchange of the obligation for the real property.
 
 (Added Pub. L. 88–570, §2(a), Sept. 2, 1964, 78 Stat. 854; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §§404(c)(6), 405(c)(3), Nov. 6, 1978, 92 Stat. 2870, 2871; Pub. L. 96–471, §4, Oct. 19, 1980, 94 Stat. 2255; Pub. L. 104–188, title I, §1616(b)(12), Aug. 20, 1996, 110 Stat. 1857; Pub. L. 105–34, title III, §312(d)(8), Aug. 5, 1997, 111 Stat. 840.)
 
@@ -132,7 +132,7 @@ Pub. L. 88–570, §2(c), Sept. 2, 1964, 78 Stat. 856, provided that:
 
 &emsp;"(A) the period within which a deficiency for such taxable year may be assessed (to the extent such deficiency is attributable to the application of the amendments made by this section) shall not expire prior to one year after the date of such election; and
 
-&emsp;"(B) the period within which a claim for credit or refund of an overpayment for such taxable year may be filed (to the extent such overpayment is attributable to the application of such amendments) shall not expire prior to one year after the date of such election.
+&emsp;"(B) the period within which a claim for credit or refund of an overpayment for such taxable year maybe filed (to the extent such overpayment is attributable to the application of such amendments) shall not expire prior to one year after the date of such election.
 
 > No interest shall be payable with respect to any deficiency attributable to the application of such amendments, and no interest shall be allowed with respect to any credit or refund of any overpayment attributable to the application of such amendments, for any period prior to the date of the enactment of this Act. An election by a taxpayer under paragraph (2) shall be deemed a consent to the application of this paragraph."
 

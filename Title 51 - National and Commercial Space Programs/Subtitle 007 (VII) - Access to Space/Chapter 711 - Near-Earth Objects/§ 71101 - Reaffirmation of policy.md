@@ -26,7 +26,7 @@ Pub. L. 110–422, title VIII, §802, Oct. 15, 2008, 122 Stat. 4803, provided th
 
 &emsp;"(1) Near-Earth objects pose a serious and credible threat to humankind, as many scientists believe that a major asteroid or comet was responsible for the mass extinction of the majority of the Earth's species, including the dinosaurs, nearly 65,000,000 years ago.
 
-&emsp;"(2) Several such near-Earth objects have only been discovered within days of the objects' closest approach to Earth and recent discoveries of such largeobjects indicate that many large near-Earth objects remain undiscovered.
+&emsp;"(2) Several such near-Earth objects have only been discovered within days of the objects' closest approach to Earth and recent discoveries of such large objects indicate that many large near-Earth objects remain undiscovered.
 
 &emsp;"(3) Asteroid and comet collisions rank as one of the most costly natural disasters that can occur.
 

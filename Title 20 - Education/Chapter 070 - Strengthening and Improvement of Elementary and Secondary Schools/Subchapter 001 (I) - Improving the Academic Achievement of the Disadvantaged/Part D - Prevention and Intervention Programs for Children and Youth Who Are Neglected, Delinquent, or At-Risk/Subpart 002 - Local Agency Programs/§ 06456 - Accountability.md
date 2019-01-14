@@ -14,7 +14,7 @@ A prior section 6456, Pub. L. 89–10, title I, §1426, as added Pub. L. 103–3
 
 #### Amendments
 
-<b>2015</b>—Par. (1). Pub. L. 114–95, §1401(13)(A), substituted "the number of children and youth attaining a regular high school diploma or its recognized equivalent" for"reducing dropout rates for male students and for female students over a 3-year period".
+<b>2015</b>—Par. (1). Pub. L. 114–95, §1401(13)(A), substituted "the number of children and youth attaining a regular high school diploma or its recognized equivalent" for "reducing dropout rates for male students and for female students over a 3-year period".
 
 Par. (2). Pub. L. 114–95, §1401(13)(B), substituted "attaining a regular high school diploma" for "obtaining a secondary school diploma" and "attaining employment" for "obtaining employment".
 

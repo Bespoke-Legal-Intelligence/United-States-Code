@@ -12,7 +12,7 @@ Development of Certification Examination.—(1) The Secretary shall provide for 
 
 (b)
 
-Employee and Manager Requirement.—The Secretary shall require appropriate employees and managers of the Veterans Benefits Administration who are responsible for processing claims for compensation and pension benefits under the laws administered by the Secretary totake the examination provided under subsection (a).
+Employee and Manager Requirement.—The Secretary shall require appropriate employees and managers of the Veterans Benefits Administration who are responsible for processing claims for compensation and pension benefits under the laws administered by the Secretary to take the examination provided under subsection (a).
 
 (Added Pub. L. 110–389, title II, §225(a)(1), Oct. 10, 2008, 122 Stat. 4158.)
 
@@ -22,5 +22,5 @@ Pub. L. 110–389, title II, §225(a)(3), Oct. 10, 2008, 122 Stat. 4158, provide
 
 &emsp;"(A) develop an updated certification examination required under section 7732A of title 38, United States Code, as added by subsection (a), not later than one year after the date of the enactment of this Act \[Oct. 10, 2008\]; and
 
-&emsp;"(B) begin administering such certification examination required under such section not later than 90 days after the date on which the development of such certification examination is complete."
+&emsp;"(B) begin administering such certification examination required under such section not later than 90days after the date on which the development of such certification examination is complete."
 

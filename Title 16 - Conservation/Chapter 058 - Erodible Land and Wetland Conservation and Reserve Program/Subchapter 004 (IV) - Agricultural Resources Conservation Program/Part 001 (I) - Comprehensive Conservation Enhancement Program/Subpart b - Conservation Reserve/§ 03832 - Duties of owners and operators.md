@@ -42,9 +42,15 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;(9) not to conduct any planting of trees on land that is subject to the contract unless the contract specifies that the harvesting and commercial sale of trees such as Christmas trees are prohibited, nor otherwise make commercial use of trees on land that is subject to the contract unless it is expressly permitted in the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that no contract shall prohibit activities consistent with customary forestry practice, such as pruning, thinning, or stand improvement of trees, on land converted to forestry use;
 
-&emsp;(10) not to adopt any practice specified by the Secretary in the contract as a practice that would tend to defeat the purposes of this subpart; and
+&emsp;(10) on land devoted to hardwood or other trees, excluding windbreaks and shelterbelts, to carry out proper thinning and other practices—
 
-&emsp;(11) to comply with such additional provisions as the Secretary determines are desirable and are included in the contract to carry out this subpart or to facilitate the practical administration of this subpart.
+&emsp;&emsp;(A) to enhance the conservation benefits and wildlife habitat resources addressed bythe conservation practice under which the land is enrolled; and
+
+&emsp;&emsp;(B) to promote forest management;
+
+&emsp;(11) not to adopt any practice specified by the Secretary in the contract as a practice that would tend to defeat the purposes of this subpart; and
+
+&emsp;(12) to comply with such additional provisions as the Secretary determines are desirable and are included in the contract to carry out this subpart or to facilitate the practical administration of this subpart.
 
 #### (b) Conservation plans
 
@@ -70,7 +76,7 @@ The plan referred to in subsection (a)(1) shall set forth—
 
 &emsp;&emsp;On the resumption of the control over the land by the owner or operator, the provisions of the contract in effect on the date of the foreclosure shall apply.
 
-(Pub. L. 99–198, title XII, §1232, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 242; amended Pub. L. 108–7, div. N, title II, §212, Feb. 20, 2003, 117 Stat. 545; Pub. L. 110–234, title II, §§2107, 2108, May 22, 2008, 122 Stat. 1032, 1033; Pub. L. 110–246, §4(a), title II, §§2107, 2108, June 18, 2008, 122 Stat. 1664, 1760, 1761; Pub. L. 113–79, title II, §2003, Feb. 7, 2014, 128 Stat. 715.)
+(Pub. L. 99–198, title XII, §1232, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 242; amended Pub. L. 108–7, div. N, title II, §212, Feb. 20, 2003, 117 Stat. 545; Pub. L. 110–234, title II, §§2107, 2108, May 22, 2008, 122 Stat. 1032, 1033; Pub. L. 110–246, §4(a), title II, §§2107, 2108, June 18, 2008, 122 Stat. 1664, 1760, 1761; Pub. L. 113–79, title II, §2003, Feb. 7, 2014, 128 Stat. 715; Pub. L. 115–334, title II, §2205, Dec. 20, 2018, 132 Stat. 4543.)
 
 #### Codification
 
@@ -82,7 +88,9 @@ A prior section 3832, Pub. L. 99–198, title XII, §1232, Dec. 23, 1985, 99 Sta
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a)(8). Pub. L. 113–79, §2003(a), substituted "except as provided in subsection (b) or (c) ofsection 3833 of this title;" for "except that the Secretary may permit, consistent with the conservation of soil, water quality, and wildlife habitat (including habitat during nesting seasons for birds in the area)—" and struck out subpars. (A) to (D), which related to managed harvesting, commercial use in response to an emergency, grazing for the control of invasive species, and the installation of wind turbines, respectively.
+<b>2018</b>—Subsec. (a)(10) to (12). Pub. L. 115–334 added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
+
+<b>2014</b>—Subsec. (a)(8). Pub. L. 113–79, §2003(a), substituted "except as provided in subsection (b) or (c) of section 3833 of this title;" for "except that the Secretary may permit, consistent with the conservation of soil, water quality, and wildlife habitat (including habitat during nesting seasons for birds in the area)—" and struck out subpars. (A) to (D), which related to managed harvesting, commercial use in response to an emergency, grazing for the control of invasive species, and the installation of wind turbines, respectively.
 
 Subsec. (b). Pub. L. 113–79, §2003(b), amended subsec. (b) generally. Prior to amendment, text read as follows: "The plan referred to in subsection (a)(1) of this section—
 

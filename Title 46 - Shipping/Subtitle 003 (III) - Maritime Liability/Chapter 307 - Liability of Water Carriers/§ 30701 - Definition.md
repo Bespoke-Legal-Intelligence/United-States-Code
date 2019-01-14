@@ -36,7 +36,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 "(b) The term 'contract of carriage' applies only to contracts of carriage covered by a bill of lading or any similar document of title, insofar as such document relates to the carriage of goods by sea, including any bill of lading or any similar document as aforesaid issued under or pursuant to a charter party from the moment at which such bill of lading or similar document of title regulates the relations between a carrier and a holder of the same.
 
-"(c) The term 'goods' includes goods, wares, merchandise, and articles of every kind whatsoever, except liveanimals and cargo which by the contract of carriage is stated as being carried on deck and is so carried.
+"(c) The term 'goods' includes goods, wares, merchandise, and articles of every kind whatsoever, except live animals and cargo which by the contract of carriage is stated as being carried on deck and is so carried.
 
 "(d) The term 'ship' means any vessel used for the carriage of goods by sea.
 
@@ -108,7 +108,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 "(i) Act or omission of the shipper or owner of the goods, his agent or representative;
 
-"(j) Strikes or lockouts or stoppage or restraint of labor from whatever cause, whether partial or general:<i>Provided</i>, That nothing herein contained shall be construed to relieve a carrier from responsibility for the carrier's own acts;
+"(j) Strikes or lockouts or stoppage or restraint of labor from whatever cause, whether partial or general: <i>Provided</i>, That nothing herein contained shall be construed to relieve a carrier from responsibility for the carrier's own acts;
 
 "(k) Riots and civil commotions;
 
@@ -128,7 +128,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 "(4) Any deviation in saving or attempting to save life or property at sea, or any reasonable deviation shall not be deemed to be an infringement or breach of this Act or of the contract of carriage, and the carrier shall not be liable for any loss or damage resulting therefrom: <i>Provided, however</i>, That if the deviation is for the purpose of loading or unloading cargo or passengers it shall, prima facie, be regarded as unreasonable.
 
-"(5) Neither the carrier nor the ship shall in any event be or become liable for any loss or damage to or in connection with the transportation of goods in an amount exceeding $500 per package lawful money of the United States, or in case of goods not shipped in packages, per customary freight unit, or the equivalent of that sum in other currency, unless the nature and value of such goods have been declared by the shipper before shipment and inserted in the bill of lading. This declaration, if embodied in the bill of lading, shall be prima facie evidence, but shall not be conclusive on the carrier.
+"(5) Neither the carrier nor the ship shall in any event be or become liable for any loss or damage to or in connection with the transportation of goods in an amount exceeding $500 per package lawful money of the United States, or in case of goods not shipped in packages, per customary freight unit, or the equivalent of that sum in other currency, unless the nature andvalue of such goods have been declared by the shipper before shipment and inserted in the bill of lading. This declaration, if embodied in the bill of lading, shall be prima facie evidence, but shall not be conclusive on the carrier.
 
 "By agreement between the carrier, master, or agent of the carrier, and the shipper another maximum amount than that mentioned in this paragraph may be fixed: <i>Provided</i>, That such maximum shall not be less than the figure above named. In no event shall the carrier be liable for more than the amount of damage actually sustained.
 
@@ -176,7 +176,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 #### "\[SCOPE OF ACT; "UNITED STATES"; "FOREIGN TRADE"\]
 
-"Sec. 13. This Act shall apply to all contracts for carriage of goods by sea to or from ports of the United States in foreign trade. As used in this Act the term 'United States' includes its districts, territories, and possessions: <i>Provided, however</i>, That the Philippine Legislature may by law exclude its application to transportation to or from ports of the Philippine Islands. The term 'foreign trade' means the transportation of goods between the ports of the United States and ports of foreign countries. Nothing in this Act shall be held to apply to contracts for carriage of goods by sea between any port of the United States or its possessions, and any other port of the United States or its possessions: <i>Provided, however</i>, That any bill of lading or similar document of title which is evidence of a contract for the carriage of goods by sea between such ports, containing an express statement that it shall be subject to the provisions of this Act, shall be subjected hereto as fully as if subject hereto by the express provisions of this Act: <i>Provided further</i>, That every bill of lading or similar document of title which is evidence of a contract for the carriage of goods by sea from ports of the United States, in foreign trade, shall contain a statement that it shall have effect subject to the provisions of this Act.
+"Sec. 13. This Act shall apply to all contracts for carriage of goods by sea to or from ports of the United States in foreign trade. As used in this Act the term 'United States' includes its districts, territories, and possessions: <i>Provided, however</i>, That the Philippine Legislature may by law exclude its application to transportation to or from ports of the Philippine Islands. The term 'foreign trade' means the transportation of goodsbetween the ports of the United States and ports of foreign countries. Nothing in this Act shall be held to apply to contracts for carriage of goods by sea between any port of the United States or its possessions, and any other port of the United States or its possessions: <i>Provided, however</i>, That any bill of lading or similar document of title which is evidence of a contract for the carriage of goods by sea between such ports, containing an express statement that it shall be subject to the provisions of this Act, shall be subjected hereto as fully as if subject hereto by the express provisions of this Act: <i>Provided further</i>, That every bill of lading or similar document of title which is evidence of a contract for the carriage of goods by sea from ports of the United States, in foreign trade, shall contain a statement that it shall have effect subject to the provisions of this Act.
 
 "\[As to proviso in second sentence that Philippine Legislature may by law exclude its application to transportation to or from ports of the Philippine Islands, see Proc. No. 2695, set out under section 1394 of Title 22, Foreign Relations and Intercourse, which proclaimed the independence of the Philippines.\]
 

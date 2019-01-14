@@ -22,7 +22,7 @@ As soon as practicable after December 3, 2003, the Secretary shall implement aut
 
 #### (b) Relation to agency plans
 
-An authorized hazardous fuel reduction project shall be conducted consistent with theresource management plan and other relevant administrative policies or decisions applicable to the Federal land covered by the project.
+An authorized hazardous fuel reduction project shall be conducted consistent with the resource management plan and other relevant administrative policies or decisions applicable to the Federal land covered by the project.
 
 #### (c) Acreage limitation
 
@@ -106,7 +106,7 @@ The Secretary may not conduct an authorized hazardous fuel reduction project tha
 
 #### (5) Limitation to covered projects
 
-&emsp;Nothing in this subsection requires the Secretary to revise or otherwise amend a resource management plan to make the project requirements of paragraph (2) apply to an activity other than a covered project.
+&emsp;Nothing in this subsection requires the Secretary to revise or otherwise amend a resourcemanagement plan to make the project requirements of paragraph (2) apply to an activity other than a covered project.
 
 #### (f) Large tree retention
 

@@ -16,7 +16,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 &emsp;Whenever the number of local commercial television stations exceeds the maximum number of signals a cable system is required to carry under paragraph (1), the cable operator shall have discretion in selecting which such stations shall be carried on its cable system, except that—
 
-&emsp;&emsp;(A) under no circumstances shall a cable operator carry a qualified low power station in lieu of a local commercial television station; and
+&emsp;&emsp;(A) under no circumstances shall a cable operator carry a qualified low power stationin lieu of a local commercial television station; and
 
 &emsp;&emsp;(B) if the cable operator elects to carry an affiliate of a broadcast network (as such term is defined by the Commission by regulation), such cable operator shall carry the affiliate of such broadcast network whose city of license reference point, as defined in section 76.53 of title 47, Code of Federal Regulations (in effect on January 1, 1991), or any successor regulation thereto, is closest to the principal headend of the cable system.
 
@@ -84,7 +84,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (1) Complaints by broadcast stations
 
-&emsp;Whenever a local commercial television station believes that a cable operator has failedto meet its obligations under this section, such station shall notify the operator, in writing, of the alleged failure and identify its reasons for believing that the cable operator is obligated to carry the signal of such station or has otherwise failed to comply with the channel positioning or repositioning or other requirements of this section. The cable operator shall, within 30 days of such written notification, respond in writing to such notification and either commence to carry the signal of such station in accordance with the terms requested or state its reasons for believing that it is not obligated to carry such signal or is in compliance with the channel positioning and repositioning and other requirements of this section. A local commercial television station that is denied carriage or channel positioning or repositioning in accordance with this section by a cable operator may obtain review of such denial by filing a complaint with the Commission. Such complaint shall allege the manner in which such cable operator has failed to meet its obligations and the basis for such allegations.
+&emsp;Whenever a local commercial television station believes that a cable operator has failed to meet its obligations under this section, such station shall notify the operator, in writing, of the alleged failure and identify its reasons for believing that the cable operator is obligated to carry the signal of such station or has otherwise failed to comply with the channel positioning or repositioning or other requirements of this section. The cable operator shall, within 30 days of such written notification, respond in writing to such notification and either commence to carry the signal of such station in accordance with the terms requested or state its reasons for believing that it is not obligated to carry such signal or is in compliance with the channel positioning and repositioning and other requirements of this section. A local commercial television station that is denied carriage or channel positioning or repositioning in accordance with this section by a cable operator may obtain review of such denial by filing a complaint with the Commission. Such complaint shall allege the manner in which such cable operator has failed to meet its obligations and the basis for such allegations.
 
 #### (2) Opportunity to respond
 
@@ -176,7 +176,7 @@ Within 180 days after October 5, 1992, the Commission shall, following a rulemak
 
 #### References in Text
 
-This chapter, referred to in subsec. (g)(1), was in the original "this Act", meaning act June 19, 1934, ch. 652,48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (g)(1), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 

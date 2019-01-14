@@ -14,7 +14,7 @@
 
 #### (2) Income in case of sale, etc.
 
-&emsp;If a right, described in paragraph (1), to receive an amount is transferred by the estate of the decedent or a person who received such right by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent, there shall be included in the gross income of the estate or such person, as the case may be, for the taxable period in which the transfer occurs, the fair market value of such right at the time of such transfer plus the amount by which any consideration for the transfer exceeds such fair market value. For purposes of this paragraph, the term "transfer" includes sale, exchange, or other disposition, or the satisfaction of an installment obligation at other than face value, but does not include transmission at death to the estate of the decedent or a transfer to a person pursuant to the right of such person to receive such amount by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent.
+&emsp;If a right, described in paragraph (1), to receive an amount is transferred by the estate of the decedent or a person who received such right by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent, there shall be included in the gross income of the estate or such person, as the case may be, for the taxable period in which the transfer occurs, the fair market value of such right at the time of such transfer plus the amount by which any consideration for the transfer exceeds such fair market value. For purposes of this paragraph, the term "transfer" includes sale, exchange, or other disposition, or the satisfaction of an installment obligation at other than face value, but does not include transmission at death to the estate of the decedent or a transfer to a person pursuant to the right of such person to receive such amount by reason of the death of the decedentor by bequest, devise, or inheritance from the decedent.
 
 #### (3) Character of income determined by reference to decedent
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) an amount equal to the excess of the face amount of such obligation over the basis of the obligation in the hands of the decedent (determined under section 453B) shall, for the purpose of paragraph (1), be considered as an item of gross income in respect of the decedent; and
 
-&emsp;&emsp;(B) such obligation shall, for purposes of paragraphs (2) and (3), be considered a right to receive an item of gross income in respectof the decedent, but the amount includible in gross income under paragraph (2) shall be reduced by an amount equal to the basis of the obligation in the hands of the decedent (determined under section 453B).
+&emsp;&emsp;(B) such obligation shall, for purposes of paragraphs (2) and (3), be considered a right to receive an item of gross income in respect of the decedent, but the amount includible in gross income under paragraph (2) shall be reduced by an amount equal to the basis of the obligation in the hands of the decedent (determined under section 453B).
 
 #### (5) Other rules relating to installment obligations
 
@@ -92,7 +92,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 #### (4) Coordination with capital gain provisions
 
-&emsp;For purposes of sections 1(h), 1202, and 1211, the amount taken into account with respect toany item described in subsection (a)(1) shall be reduced (but not below zero) by the amount of the deduction allowable under paragraph (1) of this subsection with respect to such item.
+&emsp;For purposes of sections 1(h), 1202, and 1211, the amount taken into account with respect to any item described in subsection (a)(1) shall be reduced (but not below zero) by the amount of the deduction allowable under paragraph (1) of this subsection with respect to such item.
 
 #### (d) Amounts received by surviving annuitant under joint and survivor annuity contract
 
@@ -254,7 +254,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 #### Effective Date of 1980 Amendments and Revival of Prior Law
 
-For effective date of amendment by section 2(b)(5) of Pub. L. 96–471, see section 6(a)(1) of Pub. L. 96–471, setout as an Effective Date note under section 453 of this title.
+For effective date of amendment by section 2(b)(5) of Pub. L. 96–471, see section 6(a)(1) of Pub. L. 96–471, set out as an Effective Date note under section 453 of this title.
 
 Pub. L. 96–471, §6(b), Oct. 19, 1980, 94 Stat. 2256, provided: "The amendment made by section 3 \[amending this section\] shall apply in the case of decedents dying after the date of the enactment of this Act \[Oct. 19, 1980\]."
 

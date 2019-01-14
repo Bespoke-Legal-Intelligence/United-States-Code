@@ -16,7 +16,7 @@ To the extent practicable, the head of each agency shall provide that the obliga
 
 For purposes of this section, the following definitions shall apply:
 
-&emsp;(1) The term "small business concern" has the meaning such term has under section 632 of title 15. However, for purposes of contracts and subcontracts requiring engineering services the applicable size standard shall be that established for military and aerospace equipment and military weapons.
+&emsp;(1) The term "small business concern" has the meaning such term has under section 632of title 15. However, for purposes of contracts and subcontracts requiring engineering services the applicable size standard shall be that established for military and aerospace equipment and military weapons.
 
 &emsp;(2) The term "socially and economically disadvantaged individuals" has the meaning such term has under section 637(d) of title 15 and relevant subcontracting regulations promulgated pursuant thereto.
 

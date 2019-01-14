@@ -24,7 +24,7 @@
 
 #### References in Text
 
-The Regional Rail Reorganization Act of 1973, referred to in subsec. (a)(2), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principallyto chapter 16 (§701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Regional Rail Reorganization Act of 1973, referred to in subsec. (a)(2), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "on".</i>
 

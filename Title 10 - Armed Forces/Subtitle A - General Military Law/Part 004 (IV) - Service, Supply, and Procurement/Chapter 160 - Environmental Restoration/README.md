@@ -19,7 +19,7 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, div. A, title III, §317(b), title X, §1061(22)(B), Dec. 31, 2011, 125 Stat. 1360, 1584, struck out item 2706 "Annual reports to Congress" and added item 2711.
+<b>2011</b>—Pub. L. 112–81, div. A, title III, §317(b), title X, §1061(22)(B), Dec. 31, 2011, 125 Stat. 1360, 1584, struck outitem 2706 "Annual reports to Congress" and added item 2711.
 
 <b>2002</b>—Pub. L. 107–314, div. A, title III, §313(d)(1), Dec. 2, 2002, 116 Stat. 2508, added items 2700 and 2707 and struck out former item 2707 "Definitions".
 

@@ -60,7 +60,7 @@ Definitions.—In this paragraph:
 
 &emsp;&emsp;&emsp;&emsp;(II) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 
-&emsp;&emsp;&emsp;(ii) The term "New START Treaty" means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011.
+&emsp;&emsp;&emsp;(ii) The term "New START Treaty" means the Treaty between the UnitedStates of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011.
 
 (b)
 
@@ -76,7 +76,7 @@ Sense of congress.—It is the sense of Congress that—
 
 &emsp;(2)
 
-Report required.—Not later than March 1, 2012, and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees a report on the nuclear weapons stockpile of the United States that includes the following:
+Report required.—Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the nuclear weapons stockpile of the United States that includes the following:
 
 &emsp;&emsp;(A) An accounting of the weapons in the stockpile as of the end of the fiscal year preceding the submission of the report that includes all weapons in the active and inactive stockpiles, both deployed and non-deployed, and all categories and readiness states of such weapons.
 
@@ -140,7 +140,7 @@ Exception.—The notification in paragraph (2) shall not apply to—
 
 Additional views.—On the date on which the President transmits to the congressional defense committees a report by the Commander of the United States Strategic Command under paragraph (2), the President may transmit to such committees a report by the President with respect to whether the recommended reductions covered by the report of the Commander will impact the deterrence or extended deterrence capabilities of the United States.
 
-(Added and amended Pub. L. 112–239, div. A, title X, §§1033(b)(1), (2)(B), 1034, Jan. 2, 2013, 126 Stat. 1920–1922; Pub. L. 113–66, div. A, title X, §1091(a)(7), Dec. 26, 2013, 127 Stat. 875; Pub. L. 113–291, div. A, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 115–91, div. A, title X, §1081(a)(19), Dec. 12, 2017, 131 Stat. 1595.)
+(Added and amended Pub. L. 112–239, div. A, title X, §§1033(b)(1), (2)(B), 1034, Jan. 2, 2013, 126 Stat. 1920–1922; Pub. L. 113–66, div. A, title X, §1091(a)(7), Dec. 26, 2013, 127 Stat. 875; Pub. L. 113–291, div. A, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 115–91, div. A, title X, §1081(a)(19), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title X, §1081(a)(5), Aug. 13, 2018, 132 Stat. 1983.)
 
 #### References in Text
 
@@ -151,6 +151,8 @@ Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, ref
 The text of this section is based on Pub. L. 112–81, div. A, title X, §1045, Dec. 31, 2011, 125 Stat. 1577; Pub. L. 112–239, div. A, title X, §1076(a)(19), Jan. 2, 2013, 126 Stat. 1949. Section 1045 of Pub. L. 112–81, formerly classified to section 2523b of Title 50, War and National Defense, was transferred to this section by Pub. L. 112–239, §1033(b)(1)(A)–(C).
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2). Pub. L. 115–232 substituted "March 1 of each year" for "March 1, 2012, and annually thereafter" in introductory provisions.
 
 <b>2017</b>—Subsec. (b)(2)(B). Pub. L. 115–91 substituted "of this title" for "of title 10".
 
@@ -212,7 +214,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;"(2)
 
-CFE treaty.—The term 'CFE Treaty' means the Treaty on Conventional Armed Forces in Europe,signed at Paris November 19, 1990, and entered into force July 17, 1992.
+CFE treaty.—The term 'CFE Treaty' means the Treaty on Conventional Armed Forces in Europe, signed at Paris November 19, 1990, and entered into force July 17, 1992.
 
 &emsp;"(3)
 
@@ -250,7 +252,7 @@ Implementation.—
 
 &emsp;"(2)
 
-Consolidated budget display.—The Secretary \[of Defense\] shall include with the defense budget materials for each fiscal year specified in paragraph (3) a consolidated budget justification display that individually covers each program and activity associated with the implementation of the New START Treaty for the period covered by the future-years defense program submitted under section 221 of title 10, United States Code, at or about the time as such defense budget materials are submitted.
+Consolidated budget display.—The Secretary \[of Defense\] shall include with the defense budget materials for each fiscal year specified in paragraph (3) a consolidated budget justification display that individually covers each program and activity associated with the implementation of the New START Treatyfor the period covered by the future-years defense program submitted under section 221 of title 10, United States Code, at or about the time as such defense budget materials are submitted.
 
 &emsp;"(3)
 

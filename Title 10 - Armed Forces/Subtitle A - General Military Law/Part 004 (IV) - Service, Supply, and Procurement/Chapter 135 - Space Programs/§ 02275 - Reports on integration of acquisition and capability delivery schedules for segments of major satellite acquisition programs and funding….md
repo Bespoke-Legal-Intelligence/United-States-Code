@@ -92,7 +92,7 @@ Non-integrated program.—The term "non-integrated program" means a program with
 
 #### References in Text
 
-Such date of enactment, referred to in subsec. (d)(1), is a reference to the date of enactment of the NationalDefense Authorization Act for Fiscal Year 2013, Pub. L. 112–239, which was approved Jan. 2, 2013. Such reference was struck out by Pub. L. 113–291, §1071(e)(3)(A), see 2014 Amendment note below.
+Such date of enactment, referred to in subsec. (d)(1), is a reference to the date of enactment of the National Defense Authorization Act for Fiscal Year 2013, Pub. L. 112–239, which was approved Jan. 2, 2013. Such reference was struck out by Pub. L. 113–291, §1071(e)(3)(A), see 2014 Amendment note below.
 
 #### Prior Provisions
 

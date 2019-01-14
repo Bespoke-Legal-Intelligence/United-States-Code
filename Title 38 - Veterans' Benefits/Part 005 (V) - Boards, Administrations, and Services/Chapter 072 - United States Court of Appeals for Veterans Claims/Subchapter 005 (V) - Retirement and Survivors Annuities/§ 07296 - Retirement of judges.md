@@ -91,7 +91,7 @@
 
 &emsp;(E) if subparagraphs (C) and (D) of this paragraph are complied with, service on the Court shall be treated as service with respect to which deductions and contributions had been made during the period of service.
 
-(i)(1) Beginning with the next pay period after the Director of the Office of Personnel Management receives a notice under subsection (d) of this section that a judge has elected to receive retired pay under this section, the Director shall deduct and withhold 1 percent of the salary of such judge. Amounts shall be so deducted and withheld in a manner determined by the Director. Amounts deducted and withheld under this subsection shall be deposited in the Treasury of the United States to the credit of the Court of Appeals for Veterans Claims Judges Retirement Fund. Deductions under this subsection from the salary of a judge shall terminate upon the retirement of the judge or upon the completion of 15 years of service for which either deductions under this subsection or a deposit under subsection (j) of this section has been made, whichever occurs first.
+(i)(1) Beginning with the next pay period after the Director of the Office of Personnel Management receives a notice under subsection (d) of this section that a judge has elected to receive retired pay under this section, the Director shall deduct and withhold 1 percent of the salary of such judge. Amounts shall be so deducted andwithheld in a manner determined by the Director. Amounts deducted and withheld under this subsection shall be deposited in the Treasury of the United States to the credit of the Court of Appeals for Veterans Claims Judges Retirement Fund. Deductions under this subsection from the salary of a judge shall terminate upon the retirement of the judge or upon the completion of 15 years of service for which either deductions under this subsection or a deposit under subsection (j) of this section has been made, whichever occurs first.
 
 (2) Each judge who makes an election under subsection (d) of this section shall be considered to agree to the deductions from salary which are made under paragraph (1) of this subsection.
 
@@ -149,7 +149,7 @@ Pub. L. 106–117, title X, §§1011, 1012, Nov. 30, 1999, 113 Stat. 1588, 1590,
 
 "(a)
 
-Retirement Authorized.—One eligible judge may retire in accordance with this section in 2000 or2001, and one additional eligible judge may retire in accordance with this section in 2001.
+Retirement Authorized.—One eligible judge may retire in accordance with this section in 2000 or 2001, and one additional eligible judge may retire in accordance with this section in 2001.
 
 "(b)
 

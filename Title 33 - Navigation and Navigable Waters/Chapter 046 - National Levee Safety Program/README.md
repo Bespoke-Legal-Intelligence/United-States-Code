@@ -9,6 +9,7 @@
 | [3303b.](%C2%A7%2003303b%20-%20Reports.md) | Reports. |
 | [3304\.](%C2%A7%2003304%20-%20Limitations%20on%20statutory%20construction.md) | Limitations on statutory construction. |
 | [3305\.](%C2%A7%2003305%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [3306\.](%C2%A7%2003306%20-%20Certain%20levee%20improvements.md) | Certain levee improvements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -24,3 +25,4 @@
 - [&sect; 03303b - Reports](%C2%A7%2003303b%20-%20Reports.md)
 - [&sect; 03304 - Limitations on statutory construction](%C2%A7%2003304%20-%20Limitations%20on%20statutory%20construction.md)
 - [&sect; 03305 - Authorization of appropriations](%C2%A7%2003305%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 03306 - Certain levee improvements](%C2%A7%2003306%20-%20Certain%20levee%20improvements.md)

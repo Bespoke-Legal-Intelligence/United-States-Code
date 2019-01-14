@@ -30,7 +30,7 @@ Pub. L. 105–33, title IX, §9102, Aug. 5, 1997, 111 Stat. 670, provided that:
 
 "(a)
 
-In General.—Notwithstanding any other provision of law, the Administrator of General Services shall sell, at fair market value and in a manner to be determined by the Administrator, the air rights adjacent to Washington Union Station described in subsection (b), including air rights conveyed to the Administrator under subsection (d). The Administrator shall complete the sale by such date as is necessary to ensure that the proceeds from the sale will be deposited in accordance with subsection (c).
+In General.—Notwithstanding any other provision of law, the Administrator of General Services shall sell, at fair market value and in a manner to be determined by the Administrator, the air rights adjacent to Washington Union Station described in subsection (b), including air rights conveyed to the Administratorunder subsection (d). The Administrator shall complete the sale by such date as is necessary to ensure that the proceeds from the sale will be deposited in accordance with subsection (c).
 
 "(b)
 

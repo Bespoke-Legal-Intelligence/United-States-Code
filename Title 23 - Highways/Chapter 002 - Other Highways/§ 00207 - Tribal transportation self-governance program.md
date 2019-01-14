@@ -34,7 +34,7 @@ Contents.—A compact entered into under paragraph (1) shall set forth the gener
 
 &emsp;(3)
 
-Amendments.—A compact entered into with an Indian tribe under paragraph (1) may be amended only by mutual agreement of the Indian tribe and the Secretary.
+Amendments.—A compact entered into with an Indian tribe under paragraph (1) maybe amended only by mutual agreement of the Indian tribe and the Secretary.
 
 (d)
 
@@ -446,11 +446,11 @@ Promulgation.—Not later than 90 days after the date of enactment of the FAST A
 
 &emsp;&emsp;(B)
 
-Publication of proposed regulations.—Proposed regulations to implement this section shall be published in the Federal Register by the Secretary not later than 21 months after such date of enactment.
+Publication of proposed regulations.—Proposed regulations to implement this section shall be published in the Federal Register by the Secretary not later than 42 months after such date of enactment.
 
 &emsp;&emsp;(C)
 
-Expiration of authority.—The authority to promulgate regulations under subparagraph (A) shall expire 30 months after such date of enactment.
+Expiration of authority.—The authority to promulgate regulations under subparagraph (A) shall expire 48 months after such date of enactment.
 
 &emsp;&emsp;(D)
 
@@ -462,7 +462,7 @@ Committee.—
 
 &emsp;&emsp;(A)
 
-In general.—A negotiated rulemaking committee established pursuant to section 565 of title 5 to carry out this subsection shall have as its members only Federal and tribal government representatives, a majority of whom shall be nominated by and be representatives of Indian tribes with funding agreements under this title.
+In general.—A negotiated rulemaking committee established pursuant to section 565 of title 5 to carry out this subsection shall have as its members only Federal and tribal government representatives, a majority of whom shall be nominated by and berepresentatives of Indian tribes with funding agreements under this title.
 
 &emsp;&emsp;(B)
 
@@ -478,7 +478,7 @@ Adaptation of procedures.—The Secretary shall adapt the negotiated rulemaking 
 
 Effect of circulars, policies, manuals, guidance, and rules.—Unless expressly agreed to by the participating Indian tribe in the compact or funding agreement, the participating Indian tribe shall not be subject to any agency circular, policy, manual, guidance, or rule adopted by the Department, except regulations promulgated under this section.
 
-(Added Pub. L. 114–94, div. A, title I, §1121(a), Dec. 4, 2015, 129 Stat. 1359.)
+(Added Pub. L. 114–94, div. A, title I, §1121(a), Dec. 4, 2015, 129 Stat. 1359; amended Pub. L. 115–235, §1, Aug. 14, 2018, 132 Stat. 2443.)
 
 #### References in Text
 
@@ -491,6 +491,12 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 #### Prior Provisions
 
 A prior section 207, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 93–87, title I, §150, Aug. 13, 1973, 87 Stat. 275, provided for use of funds for construction and improvement of parkways, including acquisition of rights-of-way and related scenic easements, administration of such funds according to regulations jointly approved by the Secretary and the Secretary of the Interior, and that parkway projects on a Federal-aid system be subject to all requirements of this title and of any other law applicable to highways on such system, prior to repeal by Pub. L. 97–424, title I, §126(d), Jan. 6, 1983, 96 Stat. 2115.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (n)(1)(B). Pub. L. 115–235, §1(1), substituted "42 months" for "21 months".
+
+Subsec. (n)(1)(C). Pub. L. 115–235, §1(2), substituted "48 months" for "30 months".
 
 #### Effective Date
 

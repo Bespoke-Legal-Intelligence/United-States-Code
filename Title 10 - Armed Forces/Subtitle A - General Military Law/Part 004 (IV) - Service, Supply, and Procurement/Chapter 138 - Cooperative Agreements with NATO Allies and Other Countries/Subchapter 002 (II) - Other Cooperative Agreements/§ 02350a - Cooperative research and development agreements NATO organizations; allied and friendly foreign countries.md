@@ -58,7 +58,7 @@ Side-by-Side Testing.—(1) It is the sense of Congress—
 
 &emsp;(A) that the Secretary of Defense should test conventional defense equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2) to determine the ability of such equipment, munitions, and technologies to satisfy United States military requirements or to correct operational deficiencies; and
 
-&emsp;(B) that while the testing of nondevelopmental items and items in the late state of thedevelopment process are preferred, the testing of equipment, munitions, and technologies may be conducted to determine procurement alternatives.
+&emsp;(B) that while the testing of nondevelopmental items and items in the late state of the development process are preferred, the testing of equipment, munitions, and technologies may be conducted to determine procurement alternatives.
 
 (2) The Secretary of Defense may acquire equipment, munitions, and technologies of the type described in paragraph (1) for the purpose of conducting the testing described in that paragraph.
 
@@ -116,7 +116,7 @@ Pub. L. 111–383 substituted "Assistant Secretary of Defense for Research and E
 
 Subsec. (e)(2). Pub. L. 110–181, §1251(2), substituted "A cooperative opportunities document" for "An arms cooperation opportunities document" in introductory provisions.
 
-Subsec. (g)(3). Pub. L. 110–181, §237, amended par. (3) generally. Prior to amendment, par. (3) read as follows:"The Deputy Director, Defense Research and Engineering (Test and Evaluation) shall notify the Speaker of the House of Representatives and the Committees on Armed Services and on Appropriations of the Senate of the Deputy Director's intent to obligate funds made available to carry out this subsection not less than 30 days before such funds are obligated."
+Subsec. (g)(3). Pub. L. 110–181, §237, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Deputy Director, Defense Research and Engineering (Test and Evaluation) shall notify the Speaker of the House of Representatives and the Committees on Armed Services and on Appropriations of the Senate of the Deputy Director's intent to obligate funds made available to carry out this subsection not less than 30 days before such funds are obligated."
 
 <b>2003</b>—Subsec. (f). Pub. L. 108–136 struck out subsec. (f) which required that, not later than Mar. 1 of each year, the Under Secretary of Defense for Acquisition, Technology, and Logistics was to submit to the Speaker of the House and the Committees on Armed Services and Appropriations of the Senate a report on cooperative research and development projects under this section, and that, not later than Jan. 1 of each year, the Secretary of Defense was to submit to the Committees on Armed Services and Foreign Relations of the Senate and Committees on Armed Services and International Relations of the House a report specifying the countries eligible to participate in a cooperative project agreement under this section and the criteria used to determine the eligibility of such countries.
 

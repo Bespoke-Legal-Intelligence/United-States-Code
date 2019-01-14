@@ -16,7 +16,7 @@ The sole purpose of this chapter is to create an administration in the executive
 
 #### Effective and Termination Dates
 
-Section 30 of Pub. L. 93–275, as amended by Pub. L. 94–332, June 30, 1976, 90 Stat. 784; Pub. L. 94–385, title I, §112(a), Aug. 14, 1976, 90 Stat. 1132; Pub. L. 95–70, §6, July 21, 1977, 91 Stat. 277, under which this chapter became effective sixty days after May 7, 1974, and was to terminate Sept. 30, 1978, was repealed by Pub. L. 95–91, title VII, §709(a)(1), Aug. 4, 1977, 91 Stat. 607.
+Section 30 of Pub. L. 93–275, as amended by Pub. L. 94–332, June 30, 1976, 90 Stat. 784; Pub. L. 94–385, title I, §112(a), Aug. 14, 1976, 90 Stat. 1132; Pub. L. 95–70, §6, July 21, 1977, 91 Stat. 277, under which this chapter became effective sixty days after May 7, 1974, and was toterminate Sept. 30, 1978, was repealed by Pub. L. 95–91, title VII, §709(a)(1), Aug. 4, 1977, 91 Stat. 607.
 
 #### Short Title of 1977 Amendment
 
@@ -130,7 +130,7 @@ Under and by virtue of the authority vested in me by the Federal Energy Administ
 
 Section 1. Pursuant to the authority vested in me by section 30 of the Federal Energy Administration Act of 1974 \[set out above\], notice is hereby given that that act shall be effective as of June 27, 1974.
 
-Sec. 2. (a) There is hereby delegated to the Secretary of Energy (hereinafter referred to as the "Secretary"),all authority vested in the President by the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. §751 et seq.\].
+Sec. 2. (a) There is hereby delegated to the Secretary of Energy (hereinafter referred to as the "Secretary"), all authority vested in the President by the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. §751 et seq.\].
 
 (b) The Secretary shall submit to the Congress the reports required by section 4(c)(2) of the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. §753(c)(2)\].
 
@@ -164,7 +164,7 @@ By virtue of the authority vested in me by the Constitution and statutes of the 
 
 Section 1. Executive Order No. 11930 of July 30, 1976, which established the Federal Energy Office, is, consistent with the Federal Energy Administration Act Amendments of 1976 (Title I of Public Law 94–385) \[for classification, see Short Title of 1976 Amendment note set out above\], hereby revoked as of the date of its issuance.
 
-Sec. 2. All orders, rules, regulations, rulings, interpretations, and other directives issued or pending, all rule making, judicial and administrative proceedings commenced or pending, all voluntary agreements, plans of action, and all other actions of whatever nature taken, continued, confirmed, ratified or made effective under Executive Order 11930, shall, in accordance with the Federal Energy Administration Act Amendments of 1976 \[for classification, see Short Title of 1976 Amendment note set out above\], be deemed to have been actions of the Federal Energy Administration and shall continue and remain in full force and effect, unless amended or revoked by the Federal Energy Administration.
+Sec. 2. All orders, rules, regulations, rulings, interpretations, and other directives issued or pending, allrule making, judicial and administrative proceedings commenced or pending, all voluntary agreements, plans of action, and all other actions of whatever nature taken, continued, confirmed, ratified or made effective under Executive Order 11930, shall, in accordance with the Federal Energy Administration Act Amendments of 1976 \[for classification, see Short Title of 1976 Amendment note set out above\], be deemed to have been actions of the Federal Energy Administration and shall continue and remain in full force and effect, unless amended or revoked by the Federal Energy Administration.
 
 Sec. 3. All authority and responsibility vested in the Federal Energy Administration by Executive order or proclamation prior to July 31, 1976 was not revoked by Executive Order No. 11930, subsists in the Federal Energy Administration, and shall be deemed to have been continuously vested in the Federal Energy Administration, whose existence has been retroactively extended by the Federal Energy Administration Act Amendments of 1976 \[for classification, see Short Title of 1976 Amendment note set out above\].
 

@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;The President may, pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), block and prohibit all transactions in all property and interests in property of each person described in paragraph (2), if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+&emsp;The President may, pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), block and prohibit all transactions in all property and interests inproperty of each person described in paragraph (2), if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
 
 #### (2) Persons described
 
@@ -126,7 +126,7 @@ In this section:
 
 #### (8) Technology
 
-&emsp;The term "technology" has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. 4618) (as in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
+&emsp;The term "technology" has the meaning given that term in section 16 <sup>1</sup> of the Export Administration Act of 1979 (50 U.S.C. 4618) (as in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
 #### (9) Trade secret
 
@@ -148,7 +148,11 @@ In this section:
 
 The International Emergency Economic Powers Act, referred to in subsecs. (b)(1) and (d)(8), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
+Section 16 of the Export Administration Act of 1979 (50 U.S.C. 4618), referred to subsec. (d)(8), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
+
 #### Codification
 
 This section was enacted as part of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015, and not as part of the International Emergency Economic Powers Act which comprises this chapter.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

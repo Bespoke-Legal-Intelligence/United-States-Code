@@ -80,7 +80,7 @@ Pub. L. 97–214, §10(a)(3), substituted "section 3648 of the Revised Statutes 
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–91, div. A, title VIII, §881(b), Dec. 12, 2017, 131 Stat. 1504, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to contracts entered into on or after the date of the enactment of this Act \[Dec. 12, 2017\], and may be applied to a contract entered into before that date if the total contract period under the contract (including options) has not expired as of the date of any extension of such contract period by reason of such amendment."
+Pub. L. 115–91, div. A, title VIII, §881(b), Dec. 12, 2017, 131 Stat. 1504, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to contracts entered into on or after the date ofthe enactment of this Act \[Dec. 12, 2017\], and may be applied to a contract entered into before that date if the total contract period under the contract (including options) has not expired as of the date of any extension of such contract period by reason of such amendment."
 
 #### Effective Date of 1982 Amendment
 

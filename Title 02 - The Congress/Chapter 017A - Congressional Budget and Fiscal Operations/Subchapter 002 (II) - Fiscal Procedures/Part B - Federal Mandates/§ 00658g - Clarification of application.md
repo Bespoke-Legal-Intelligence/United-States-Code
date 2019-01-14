@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-This part applies to any bill, joint resolution, amendment, motion, or conference report that reauthorizes appropriations, or that amends existing authorizations of appropriations, to carry out any statute, or that otherwise amends any statute, only if enactment of the bill, joint resolution, amendment, motion, or conference report—
+This part applies to any bill, joint resolution, amendment, motion, or conference report thatreauthorizes appropriations, or that amends existing authorizations of appropriations, to carry out any statute, or that otherwise amends any statute, only if enactment of the bill, joint resolution, amendment, motion, or conference report—
 
 &emsp;(1) would result in a net reduction in or elimination of authorization of appropriations for Federal financial assistance that would be provided to State, local, or tribal governments for use for the purpose of complying with any Federal intergovernmental mandate, or to the private sector for use to comply with any Federal private sector mandate, and would not eliminate or reduce duties established by the Federal mandate by a corresponding amount; or
 

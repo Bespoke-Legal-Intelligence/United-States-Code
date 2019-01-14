@@ -72,7 +72,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;(2) any contract, or reasonable arrangement, made with a disqualified person for office space, or legal, accounting, or other services necessary for the establishment or operation of the plan, if no more than reasonable compensation is paid therefor;
 
-&emsp;(3) any loan to an <sup>1</sup> leveraged employee stock ownership plan (as defined in subsection (e)(7)), if—
+&emsp;(3) any loan to a leveraged employee stock ownership plan (as defined in subsection (e)(7)), if—
 
 &emsp;&emsp;(A) such loan is primarily for the benefit of participants and beneficiaries of the plan, and
 
@@ -88,7 +88,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(A) the employer maintaining the plan, or
 
-&emsp;&emsp;(B) a disqualified person which is wholly owned (directly or indirectly) by the employer establishing the plan, or by any person which is a disqualified person with respect to the plan, but only if the total premiums and annuity considerations writtenby such insurers for life insurance, health insurance, or annuities for all plans (and their employers) with respect to which such insurers are disqualified persons (not including premiums or annuity considerations written by the employer maintaining the plan) do not exceed 5 percent of the total premiums and annuity considerations written for all lines of insurance in that year by such insurers (not including premiums or annuity considerations written by the employer maintaining the plan);
+&emsp;&emsp;(B) a disqualified person which is wholly owned (directly or indirectly) by the employer establishing the plan, or by any person which is a disqualified person with respect to the plan, but only if the total premiums and annuity considerations written by such insurers for life insurance, health insurance, or annuities for all plans (and theiremployers) with respect to which such insurers are disqualified persons (not including premiums or annuity considerations written by the employer maintaining the plan) do not exceed 5 percent of the total premiums and annuity considerations written for all lines of insurance in that year by such insurers (not including premiums or annuity considerations written by the employer maintaining the plan);
 
 &emsp;(6) the provision of any ancillary service by a bank or similar financial institution supervised by the United States or a State, if such service is provided at not more than reasonable compensation, if such bank or other institution is a fiduciary of such plan, and if—
 
@@ -126,7 +126,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;(16) a sale of stock held by a trust which constitutes an individual retirement account under section 408(a) to the individual for whose benefit such account is established if—
 
-&emsp;&emsp;(A) such stock is in a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1)),<sup>2</sup>
+&emsp;&emsp;(A) such stock is in a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1))),
 
 &emsp;&emsp;(B) such stock is held by such trust as of the date of the enactment of this paragraph,
 
@@ -138,7 +138,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(F) the stock is sold in a single transaction for cash not later than 120 days after the S corporation election is made;
 
-&emsp;(17) Any <sup>3</sup> transaction in connection with the provision of investment advice described in subsection (e)(3)(B) to a participant or beneficiary in a plan that permits such participant or beneficiary to direct the investment of plan assets in an individual account, if—
+&emsp;(17) any transaction in connection with the provision of investment advice described insubsection (e)(3)(B) to a participant or beneficiary in a plan that permits such participant or beneficiary to direct the investment of plan assets in an individual account, if—
 
 &emsp;&emsp;(A) the transaction is—
 
@@ -148,7 +148,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;&emsp;(iii) the direct or indirect receipt of fees or other compensation by the fiduciary adviser or an affiliate thereof (or any employee, agent, or registered representative of the fiduciary adviser or affiliate) in connection with the provision of the advice or in connection with an acquisition, holding, or sale of a security or other property available as an investment under the plan pursuant to the investment advice; and
 
-&emsp;&emsp;(B) the requirements of subsection (f)(8) are met,<sup>4</sup>
+&emsp;&emsp;(B) the requirements of subsection (f)(8) are met,<sup>1</sup>
 
 &emsp;(18) any transaction involving the purchase or sale of securities, or other property (as determined by the Secretary of Labor), between a plan and a disqualified person (other than a fiduciary described in subsection (e)(3)) with respect to a plan if—
 
@@ -156,9 +156,9 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(B) at the time of the transaction, the interest of the plan (together with the interests of any other plans maintained by the same plan sponsor), does not exceed 10 percent of the aggregate size of the block trade,
 
-&emsp;&emsp;(C) the terms of the transaction, including the price, are at least as favorable to the plan as an arm's length <sup>5</sup> transaction, and
+&emsp;&emsp;(C) the terms of the transaction, including the price, are at least as favorable to the plan as an arm's length <sup>2</sup> transaction, and
 
-&emsp;&emsp;(D) the compensation associated with the purchase and sale is not greater than the compensation associated with an arm's length <sup>5</sup> transaction with an unrelated party,<sup>4</sup>
+&emsp;&emsp;(D) the compensation associated with the purchase and sale is not greater than the compensation associated with an arm's length <sup>2</sup> transaction with an unrelated party,<sup>1</sup>
 
 &emsp;(19) any transaction involving the purchase or sale of securities, or other property (as determined by the Secretary of Labor), between a plan and a disqualified person if—
 
@@ -174,23 +174,23 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;&emsp;(ii) neither the execution system nor the parties to the transaction take into account the identity of the parties in the execution of trades,
 
-&emsp;&emsp;(C) the price and compensation associated with the purchase and sale are not greater than the price and compensation associated with an arm's length <sup>5</sup> transaction with an unrelated party,
+&emsp;&emsp;(C) the price and compensation associated with the purchase and sale are not greater than the price and compensation associated with an arm's length <sup>2</sup> transaction with an unrelated party,
 
-&emsp;&emsp;(D) if <sup>6</sup> the disqualified person has an ownership interest in the system or venue described in subparagraph (A), the system or venue has been authorized by the plan sponsor or other independent fiduciary for transactions described in this paragraph, and
+&emsp;&emsp;(D) if <sup>3</sup> the disqualified person has an ownership interest in the system or venue described in subparagraph (A), the system or venue has been authorized by the plan sponsor or other independent fiduciary for transactions described in this paragraph, and
 
-&emsp;&emsp;(E) not less than 30 days prior to the initial transaction described in this paragraph executed through any system or venue described in subparagraph (A), a plan fiduciary is provided written or electronic notice of the execution of such transaction through such system or venue,<sup>4</sup>
+&emsp;&emsp;(E) not less than 30 days prior to the initial transaction described in this paragraph executed through any system or venue described in subparagraph (A), a plan fiduciary is provided written or electronic notice of the execution of such transaction through such system or venue,<sup>1</sup>
 
-&emsp;(20) transactions described in subparagraphs (A), (B), and (D) of subsection (c)(1) between a plan and a person that is a disqualified person other than a fiduciary (or an affiliate) who has or exercises any discretionary authority or control with respect to the investment of the plan assets involved in the transaction or renders investment advice (within the meaning of subsection (e)(3)(B)) with respect to those assets, solely by reason of providing services to the plan or solely by reason of a relationship to such a service provider described in subparagraph (F), (G), (H), or (I) of subsection (e)(2), or both, but only if in connection with such transaction the plan receives no less, nor pays no more, than adequate consideration,<sup>4</sup>
+&emsp;(20) transactions described in subparagraphs (A), (B), and (D) of subsection (c)(1) between a plan and a person that is a disqualified person other than a fiduciary (or an affiliate) who has or exercises any discretionary authority or control with respect to the investment of the plan assets involved in the transaction or renders investment advice (within the meaning of subsection (e)(3)(B)) with respect to those assets, solely by reason of providing services to the plan or solely by reason of a relationship to such a service provider described in subparagraph (F), (G), (H), or (I) of subsection (e)(2), or both, but only if in connection with such transaction the plan receives no less, nor pays no more, than adequate consideration,<sup>1</sup>
 
-&emsp;(21) any foreign exchange transactions, between a bank or broker-dealer (or any affiliate of either) and a plan (as defined in this section) with respect to which such bank or broker-dealer (or affiliate) is a trustee, custodian, fiduciary, or other disqualified person person,<sup>7</sup> if—
+&emsp;(21) any foreign exchange transactions, between a bank or broker-dealer (or any affiliate of either) and a plan (as defined in this section) with respect to which such bank or broker-dealer (or affiliate) is a trustee, custodian, fiduciary, or other disqualified person, if—
 
 &emsp;&emsp;(A) the transaction is in connection with the purchase, holding, or sale of securities or other investment assets (other than a foreign exchange transaction unrelated to any other investment in securities or other investment assets),
 
-&emsp;&emsp;(B) at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm's length <sup>5</sup> foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm's-length foreign exchange transactions involving unrelated parties,
+&emsp;&emsp;(B) at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm's length <sup>2</sup> foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm's-length foreign exchange transactions involving unrelated parties,
 
-&emsp;&emsp;(C) the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more than 3 percent from the interbank bid and asked rates for transactions of comparable size and maturity at the time of the transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
+&emsp;&emsp;(C) the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more than 3 percent from the interbank bid and asked rates for transactions ofcomparable size and maturity at the time of the transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
 
-&emsp;&emsp;(D) the bank or broker-dealer (or any affiliate of either) does not have investment discretion, or provide investment advice, with respect to the transaction,<sup>4</sup>
+&emsp;&emsp;(D) the bank or broker-dealer (or any affiliate of either) does not have investment discretion, or provide investment advice, with respect to the transaction,<sup>1</sup>
 
 &emsp;(22) any transaction described in subsection (c)(1)(A) involving the purchase and sale of a security between a plan and any other account managed by the same investment manager, if—
 
@@ -212,7 +212,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(I) the investment manager has designated an individual responsible for periodically reviewing such purchases and sales to ensure compliance with the written policies and procedures described in subparagraph (H), and following such review, the individual shall issue an annual written report no later than 90 days following the period to which it relates signed under penalty of perjury to the plan fiduciary who authorized cross trading under subparagraph (D) describing the steps performed during the course of the review, the level of compliance, and any specific instances of non-compliance.
 
-> &emsp;The written report shall also notify the plan fiduciary of the plan's right to terminate participation in the investment manager's cross-trading program at any time,<sup>4</sup> or
+> &emsp;The written report shall also notify the plan fiduciary of the plan's right to terminate participation in the investment manager's cross-trading program at any time,<sup>1</sup> or
 
 &emsp;(23) except as provided in subsection (f)(11), a transaction described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) in connection with the acquisition, holding, or disposition of any security or commodity, if the transaction is corrected before the end of the correction period.
 
@@ -324,7 +324,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 #### (B) Disqualified person
 
-&emsp;&emsp;In the case of any trust to which this section applies by reason of subparagraph (A), the term "disqualified person" includes any person who is a disqualified person with respect to any plan to which such trust is permitted to make payments under section 4223 of the Employee Retirement Income Security Act of 1974.
+&emsp;&emsp;In the case of any trust to which this section applies by reason of subparagraph (A),the term "disqualified person" includes any person who is a disqualified person with respect to any plan to which such trust is permitted to make payments under section 4223 of the Employee Retirement Income Security Act of 1974.
 
 #### (f) Other definitions and special rules
 
@@ -400,7 +400,7 @@ For purposes of this section—
 
 #### (7) S corporation repayment of loans for qualifying employer securities
 
-&emsp;A plan shall not be treated as violating the requirements of section 401 or 409 or subsection (e)(7), or as engaging in a prohibited transaction for purposes of subsection (d)(3), merely by reason of any distribution (as described in section 1368(a)) with respect to S corporation stock that constitutes qualifying employer securities, which in accordance with the plan provisions is used to make payments on a loan described in subsection (d)(3) the proceeds of which were used to acquire such qualifying employer securities (whether or not allocated to participants). The preceding sentence shall not apply in the case of a distribution which is paid with respect to any employer security which is allocated to a participant unless the plan provides that employer securities with a fair market value of not less than the amount of such distribution are allocated to such participant for the year which (but for the preceding sentence) such distribution would have been allocated to such participant.
+&emsp;A plan shall not be treated as violating the requirements of section 401 or 409 or subsection (e)(7), or as engaging in a prohibitedtransaction for purposes of subsection (d)(3), merely by reason of any distribution (as described in section 1368(a)) with respect to S corporation stock that constitutes qualifying employer securities, which in accordance with the plan provisions is used to make payments on a loan described in subsection (d)(3) the proceeds of which were used to acquire such qualifying employer securities (whether or not allocated to participants). The preceding sentence shall not apply in the case of a distribution which is paid with respect to any employer security which is allocated to a participant unless the plan provides that employer securities with a fair market value of not less than the amount of such distribution are allocated to such participant for the year which (but for the preceding sentence) such distribution would have been allocated to such participant.
 
 #### (8) Provision of investment advice to participant and beneficiaries
 
@@ -460,9 +460,9 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the only investment advice provided under the program is the advice generated by the computer model described in clause (ii), and
 
-&emsp;&emsp;&emsp;&emsp;(II) any transaction described in (d)(17)(A)(ii) <sup>8</sup> occurs solely at the direction of the participant or beneficiary.
+&emsp;&emsp;&emsp;&emsp;(II) any transaction described in subsection (d)(17)(A)(ii) occurs solely at the direction of the participant or beneficiary.
 
-&emsp;&emsp;&nbsp;Nothing in the preceding sentence shall preclude the participant or beneficiary from requesting investment advice other than that described in clause (i), but only if such request has not been solicited by any person connected with carrying out the arrangement.
+&emsp;&emsp;&nbsp;Nothing in the preceding sentence shall preclude the participant or beneficiary from requesting investment advice other than that described in clause (i), but only if such request has not been solicited byany person connected with carrying out the arrangement.
 
 #### (D) Express authorization by separate fiduciary
 
@@ -492,7 +492,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the fiduciary adviser provides to a participant or a beneficiary before the initial provision of the investment advice with regard to any security or other property offered as an investment option, a written notification (which may consist of notification by means of electronic communication)—
 
-&emsp;&emsp;&emsp;&emsp;(I) of the role of any party that has a material affiliation or contractual relationship with the fiduciary adviser,<sup>9</sup> in the development of the investment advice program and in the selection of investment options available under the plan,
+&emsp;&emsp;&emsp;&emsp;(I) of the role of any party that has a material affiliation or contractual relationship with the fiduciary adviser in the development of the investment advice program and in the selection of investment options available under the plan,
 
 &emsp;&emsp;&emsp;&emsp;(II) of the past performance and historical rates of return of the investment options available under the plan,
 
@@ -500,7 +500,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(IV) of any material affiliation or contractual relationship of the fiduciary adviser or affiliates thereof in the security or other property,
 
-&emsp;&emsp;&emsp;&emsp;(V) the <sup>10</sup> manner, and under what circumstances, any participant or beneficiary information provided under the arrangement will be used or disclosed,
+&emsp;&emsp;&emsp;&emsp;(V) of the manner, and under what circumstances, any participant or beneficiary information provided under the arrangement will be used or disclosed,
 
 &emsp;&emsp;&emsp;&emsp;(VI) of the types of services provided by the fiduciary adviser in connection with the provision of investment advice by the fiduciary adviser,
 
@@ -526,9 +526,9 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the sale, acquisition, or holding occurs solely at the direction of the recipient of the advice,
 
-&emsp;&emsp;&emsp;(iii) the compensation received by the fiduciary adviser and affiliates thereof inconnection with the sale, acquisition, or holding of the security or other property is reasonable, and
+&emsp;&emsp;&emsp;(iii) the compensation received by the fiduciary adviser and affiliates thereof in connection with the sale, acquisition, or holding of the security or other property is reasonable, and
 
-&emsp;&emsp;&emsp;(iv) the terms of the sale, acquisition, or holding of the security or other property are at least as favorable to the plan as an arm's length <sup>5</sup> transaction would be.
+&emsp;&emsp;&emsp;(iv) the terms of the sale, acquisition, or holding of the security or other property are at least as favorable to the plan as an arm's length <sup>2</sup> transaction would be.
 
 #### (H) Standards for presentation of information
 
@@ -586,7 +586,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the price of the security prevailing on a national securities exchange which is registered under section 6 of the Securities Exchange Act of 1934, taking into account factors such as the size of the transaction and marketability of the security, or
 
-&emsp;&emsp;&emsp;(ii) if the security is not traded on such a national securities exchange, a price notless favorable to the plan than the offering price for the security as established by the current bid and asked prices quoted by persons independent of the issuer and of the party in interest, taking into account factors such as the size of the transaction and marketability of the security, and
+&emsp;&emsp;&emsp;(ii) if the security is not traded on such a national securities exchange, a price not less favorable to the plan than the offering price for the security as established by the current bid and asked prices quoted by persons independent of the issuer and of the party in interest, taking into account factors such as the size of the transaction and marketability of the security, and
 
 &emsp;&emsp;(B) in the case of an asset other than a security for which there is a generally recognized market, the fair market value of the asset as determined in good faith by a fiduciary or fiduciaries in accordance with regulations prescribed by the Secretary of Labor.
 
@@ -650,7 +650,7 @@ Before sending a notice of deficiency with respect to the tax imposed by subsect
 
 &emsp;&emsp;<b>For provisions concerning coordination procedures between Secretary of Labor and Secretary of the Treasury with respect to application of tax imposed by this section and for authority to waive imposition of the tax imposed by subsection (b), see section 3003 of the Employee Retirement Income Security Act of 1974.</b>
 
-(Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21,1996, 110 Stat. 2051; Pub. L. 105–34, title II, §213(b), title X, §1074(a), title XV, §§1506(b)(1), 1530(c)(10), title XVI, §1602(a)(5), Aug. 5, 1997, 111 Stat. 816, 949, 1065, 1079, 1094; Pub. L. 105–206, title VI, §6023(19), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7), (b)(7), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title VI, §§612(a), 656(b), June 7, 2001, 115 Stat. 100, 134; Pub. L. 107–22, §1(b)(1)(D), (3)(D), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(f), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–357, title II, §§233(c), 240(a), Oct. 22, 2004, 118 Stat. 1434, 1437; Pub. L. 109–135, title IV, §413(a)(2), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 109–280, title VI, §§601(b)(1), (2), 611(a)(2), (c)(2), (d)(2), (e)(2), (g)(2), 612(b), Aug. 17, 2006, 120 Stat. 958, 959, 967, 969–971, 974, 976; Pub. L. 110–458, title I, §106(a)(2), (b)(2), (c), Dec. 23, 2008, 122 Stat. 5106.)
+(Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–34, title II, §213(b), title X, §1074(a), title XV, §§1506(b)(1), 1530(c)(10), title XVI, §1602(a)(5), Aug. 5, 1997, 111 Stat. 816, 949, 1065, 1079, 1094; Pub. L. 105–206, title VI, §6023(19), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7), (b)(7), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title VI, §§612(a), 656(b), June 7, 2001, 115 Stat. 100, 134; Pub. L. 107–22, §1(b)(1)(D), (3)(D), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(f), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–357, title II, §§233(c),240(a), Oct. 22, 2004, 118 Stat. 1434, 1437; Pub. L. 109–135, title IV, §413(a)(2), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 109–280, title VI, §§601(b)(1), (2), 611(a)(2), (c)(2), (d)(2), (e)(2), (g)(2), 612(b), Aug. 17, 2006, 120 Stat. 958, 959, 967, 969–971, 974, 976; Pub. L. 110–458, title I, §106(a)(2), (b)(2), (c), Dec. 23, 2008, 122 Stat. 5106; Pub. L. 115–141, div. U, title IV, §401(a)(190), (229)–(234), Mar. 23, 2018, 132 Stat. 1193, 1195.)
 
 #### References in Text
 
@@ -665,6 +665,20 @@ The Investment Advisers Act of 1940, referred to in subsec. (f)(8)(J)(i)(I), is 
 The Securities Exchange Act of 1934, referred to in subsec. (f)(8)(J)(i)(IV), (10)(A)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Section 6 of the Act is classified to section 78f of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(3). Pub. L. 115–141, §401(a)(229), substituted "a leveraged" for "an leveraged" in introductory provisions.
+
+Subsec. (d)(16)(A). Pub. L. 115–141, §401(a)(190), substituted "1813(w)(1)))," for "1813(w)(1)),".
+
+Subsec. (d)(17). Pub. L. 115–141, §401(a)(230), substituted "any transaction" for "Any transaction" in introductory provisions.
+
+Subsec. (d)(21). Pub. L. 115–141, §401(a)(231), substituted "person" for "person person" in introductory provisions.
+
+Subsec. (f)(8)(C)(iv)(II). Pub. L. 115–141, §401(a)(232), inserted "subsection" before "(d)(17)(A)(ii)".
+
+Subsec. (f)(8)(F)(i)(I). Pub. L. 115–141, §401(a)(233), struck out comma after "adviser".
+
+Subsec. (f)(8)(F)(i)(V). Pub. L. 115–141, §401(a)(234), inserted "of" before "the manner".
 
 <b>2008</b>—Subsec. (d)(17). Pub. L. 110–458, §106(a)(2)(A), substituted "that permits" for "and that permits" in introductory provisions.
 
@@ -810,7 +824,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title VI, §601(b)(4), Aug. 17, 2006, 120 Stat. 966, as amended by Pub. L. 110–458, title I, §106(a)(3), Dec. 23, 2008, 122 Stat. 5106, provided that: "Except as provided in this subsection \[amending this section and enacting provisions set out as notes under this section\], the amendments made by this subsection shall apply with respect to advice referred to in section 4975(e)(3)(B) of the Internal Revenue Code of 1986 provided after December 31, 2006."
+Pub. L. 109–280, title VI, §601(b)(4), Aug. 17, 2006, 120 Stat. 966, as amended by Pub. L. 110–458, title I, §106(a)(3), Dec. 23, 2008, 122 Stat. 5106, provided that:"Except as provided in this subsection \[amending this section and enacting provisions set out as notes under this section\], the amendments made by this subsection shall apply with respect to advice referred to in section 4975(e)(3)(B) of the Internal Revenue Code of 1986 provided after December 31, 2006."
 
 Pub. L. 109–280, title VI, §611(h), Aug. 17, 2006, 120 Stat. 975, provided that:
 
@@ -896,7 +910,7 @@ Amendment by section 209(b) of Pub. L. 96–364 applicable to taxable years endi
 
 Pub. L. 96–222, title I, §101(b)(1)(C), Apr. 1, 1980, 94 Stat. 205, provided that: "The amendment made by subparagraph (C) of subsection (a)(6) \[probably should be '(a)(7)', which amended this section\] shall apply to stock acquired after December 31, 1979."
 
-Amendment by section 101(a)(7)(K), (L)(iv)(III), (v)(XI) of Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provision of the Revenue Act of 1978, Pub. L. 95–600, to which suchamendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+Amendment by section 101(a)(7)(K), (L)(iv)(III), (v)(XI) of Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provision of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -956,9 +970,9 @@ Solicitation of information.—As soon as practicable after the date of the enac
 
 "(B)
 
-Determination of feasibility.—The Secretary of Labor, in consultation with the Secretary of the Treasury, shall, on the basis of information received under subparagraph (A), determine whether there is any computer model investment advice program which may be utilized by a plan described in subparagraph (A)(i) to provide investment advice to the account beneficiary of the plan which—
+Determination of feasibility.—The Secretary of Labor, in consultation with the Secretary of theTreasury, shall, on the basis of information received under subparagraph (A), determine whether there is any computer model investment advice program which may be utilized by a plan described in subparagraph (A)(i) to provide investment advice to the account beneficiary of the plan which—
 
-&emsp;"(i) utilizes relevant information about the account beneficiary, which may include age, life expectancy,retirement age, risk tolerance, other assets or sources of income, and preferences as to certain types of investments,
+&emsp;"(i) utilizes relevant information about the account beneficiary, which may include age, life expectancy, retirement age, risk tolerance, other assets or sources of income, and preferences as to certain types of investments,
 
 &emsp;"(ii) takes into account the full range of investments, including equities and bonds, in determining the options for the investment portfolio of the account beneficiary, and
 
@@ -1028,23 +1042,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Pub. L. 94–455, title VIII, §803(h), Oct. 4, 1976, 90 Stat. 1590, provided that: "The Congress, in a series of laws (the Regional Rail Reorganization Act of 1973, the Employee Retirement Income Security Act of 1974, the Trade Act of 1974, and the Tax Reduction Act of 1975) and this Act has made clear its interest in encouraging employee stock ownership plans as a bold and innovative method of strengthening the free private enterprise system which will solve the dual problems of securing capital funds for necessary capital growth and of bringing about stock ownership by all corporate employees. The Congress is deeply concerned that the objectives sought by this series of laws will be made unattainable by regulations and rulings which treat employee stock ownership plans as conventional retirement plans, which reduce the freedom of the employee trusts and employers to take the necessary steps to implement the plans, and which otherwise block the establishment and success of these plans. Because of the special purposes for which employee stock ownership plans are established, it is consistent with the intent of Congress to permit these plans (whether structured as pension, stock bonus, or profit-sharing plans) to distribute income on employer securities currently."
 
-<i><sup>1</sup></i><i> So in original. Probably should be "a".</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 
-<i><sup>2</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "arm's-length".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
-
-<i><sup>4</sup></i><i> So in original. The comma probably should be a semicolon.</i>
-
-<i><sup>5</sup></i><i> So in original. Probably should be "arm's-length".</i>
-
-<i><sup>6</sup></i><i> So in original. The word "if" probably should not appear.</i>
-
-<i><sup>7</sup></i><i> So in original.</i>
-
-<i><sup>8</sup></i><i> So in original. Probably should be "subsection (d)(17)(A)(ii)".</i>
-
-<i><sup>9</sup></i><i> So in original. The comma probably should not appear.</i>
-
-<i><sup>10</sup></i><i> So in original. Probably should be "of the".</i>
+<i><sup>3</sup></i><i> So in original. The word "if" probably should not appear.</i>
 

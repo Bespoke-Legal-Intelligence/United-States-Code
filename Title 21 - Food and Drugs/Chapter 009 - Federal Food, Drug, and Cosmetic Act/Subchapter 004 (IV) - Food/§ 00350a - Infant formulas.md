@@ -106,7 +106,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 > the manufacturer shall promptly notify the Secretary of such knowledge. If the Secretary determines that the infant formula presents a risk to human health, the manufacturer shall immediately take all actions necessary to recall shipments of such infant formula from all wholesale and retail establishments, consistent with recall regulations and guidelines issued by the Secretary.
 
-(2) For purposes of paragraph (1), the term "knowledge" as applied to a manufacturermeans (A) the actual knowledge that the manufacturer had, or (B) the knowledge which a reasonable person would have had under like circumstances or which would have been obtained upon the exercise of due care.
+(2) For purposes of paragraph (1), the term "knowledge" as applied to a manufacturer means (A) the actual knowledge that the manufacturer had, or (B) the knowledge which a reasonable person would have had under like circumstances or which would have been obtained upon the exercise of due care.
 
 #### (f) Procedures applicable to recalls by manufacturer; regulatory oversight
 
@@ -156,7 +156,7 @@ NUTRIENTS
 | Fat: |  |  |  |
 | gm | 3\.3 |  | &nbsp;6.0. |
 | percent cal | 30\.0 |  | &nbsp;54.0. |
-| Essential fatty acids   (linoeate): |  |  |  |
+| Essential fatty acids   (linoleate): |  |  |  |
 | percent cal | 2\.7 |  |  |
 | mg | 300\.0 |  |  |
 | Vitamins: |  |  |  |

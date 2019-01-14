@@ -1,6 +1,6 @@
 ### §129. Moneys due Indians holding captives other than Indians withheld
 
-The Secretary of the Interior is authorized to withhold, from any tribe of Indians who may hold any captives other than Indians, any moneys due them from the United States until saidcaptives shall be surrendered to the lawful authorities of the United States.
+The Secretary of the Interior is authorized to withhold, from any tribe of Indians who may hold any captives other than Indians, any moneys due them from the United States until said captives shall be surrendered to the lawful authorities of the United States.
 
 (Mar. 3, 1875, ch. 132, §1, 18 Stat. 424.)
 

@@ -8,7 +8,7 @@ Notwithstanding any other provision of this subchapter, the Secretary may not de
 
 &emsp;(B) a local board in the State proposes to disburse, or disburses, within the local area, funds made available to the State under section 3162 or 3172 of this title in accordance with a disbursal procedure or process used by a private industry council under prior consistent State law;
 
-&emsp;(2) the State proposes to carry out or carries out a State procedure through which local areas use, as fiscal agents for funds madeavailable to the State under section 3162 or 3172 of this title and allocated within the State, fiscal agents selected in accordance with a process established under prior consistent State laws;
+&emsp;(2) the State proposes to carry out or carries out a State procedure through which local areas use, as fiscal agents for funds made available to the State under section 3162 or 3172 of this title and allocated within the State, fiscal agents selected in accordance with a process established under prior consistent State laws;
 
 &emsp;(3) the State proposes to carry out or carries out a State procedure through which the local boards in the State (or the local boards, the chief elected officials in the State, and the Governor) designate or select the one-stop partners and one-stop operators of the statewide system in the State under prior consistent State laws, in lieu of making the designation or certification described in section 3151 of this title (regardless of the date the one-stop delivery systems involved have been established);
 

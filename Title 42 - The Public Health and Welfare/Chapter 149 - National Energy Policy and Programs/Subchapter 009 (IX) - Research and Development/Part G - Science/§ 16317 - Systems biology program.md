@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish a research, development, and demonstration program in microbial and plant systems biology, proteinscience, computational biology, and environmental science to support the energy, national security, and environmental missions of the Department.
+&emsp;The Secretary shall establish a research, development, and demonstration program in microbial and plant systems biology, protein science, computational biology, and environmental science to support the energy, national security, and environmental missions of the Department.
 
 #### (2) Grants
 
@@ -92,7 +92,7 @@ Within the funds authorized to be appropriated pursuant to this part, amounts sh
 
 #### References in Text
 
-This part, referred to in subsec. (d), was in the original "this subtitle", meaning subtitle G (§§971–984A) of title IX of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 898, which enacted this part and amended section 5523 of Title 15, Commerce and Trade. For complete classification of subtitle G to the Code, see Tables.
+This part, referred to in subsec. (d), was in the original "this subtitle", meaning subtitle G (§§971–984A) oftitle IX of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 898, which enacted this part and amended section 5523 of Title 15, Commerce and Trade. For complete classification of subtitle G to the Code, see Tables.
 
 #### Amendments
 
@@ -106,5 +106,5 @@ Subsec. (f). Pub. L. 110–140, §233, added subsec. (f).
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

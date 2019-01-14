@@ -60,7 +60,7 @@ Subsection (a) requires that before or at the time of each payment any outstandi
 
 "(a)(1) Unless the court orders otherwise, the debtor shall commence making the payments proposed by a plan within 30 days after the plan is filed.
 
-"(2) A payment made under this subsection shall be retained by the trustee until confirmation or denial of confirmation of a plan. If a plan is confirmed, the trustee shall distribute any such payment in accordance with the plan as soon as practicable. If a plan is not confirmed, the trustee shall return any such payment to the debtor, after deducting any unpaid claim allowed under section 503(b) of this title."
+"(2) A payment made under this subsection shall be retained by the trustee until confirmation or denial ofconfirmation of a plan. If a plan is confirmed, the trustee shall distribute any such payment in accordance with the plan as soon as practicable. If a plan is not confirmed, the trustee shall return any such payment to the debtor, after deducting any unpaid claim allowed under section 503(b) of this title."
 
 Subsec. (b)(1). Pub. L. 109–8, §1502(a)(10), substituted "507(a)(2)" for "507(a)(1)".
 
@@ -104,7 +104,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(3), dollar amount "25" was adjusted to "25". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b)(3), dollar amount "25" was adjusted to "25". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(3), dollar amount "25" was adjusted to "25".
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b)(3), dollar amount "25" was adjusted to "25".
 

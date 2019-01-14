@@ -18,7 +18,7 @@ The purpose of this section is to provide the Department of Agriculture with add
 
 #### (1) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2014 through 2018.
+&emsp;There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2014 through 2023.
 
 #### (2) Mandatory funding
 
@@ -34,5 +34,9 @@ The purpose of this section is to provide the Department of Agriculture with add
 
 &emsp;&emsp;The funding provided under subparagraph (A) shall supplement (and not supplant) other Federal funding for programs carried out under this chapter.
 
-(Pub. L. 88–525, §29, as added Pub. L. 113–79, title IV, §4029, Feb. 7, 2014, 128 Stat. 813.)
+(Pub. L. 88–525, §29, as added Pub. L. 113–79, title IV, §4029, Feb. 7, 2014, 128 Stat. 813; amended Pub. L. 115–334, title IV, §4020, Dec. 20, 2018, 132 Stat. 4652.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–334 substituted "2023" for "2018".
 

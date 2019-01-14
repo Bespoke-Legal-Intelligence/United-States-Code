@@ -100,7 +100,7 @@ Subsec. (b)(2). Pub. L. 104–106, §1403(b)(1), substituted "the Department of 
 
 Subsec. (c)(3). Pub. L. 104–106, §1403(b)(2), substituted "will be counted as discretionary spending in the national defense budget function (function 050)." for "will be counted against the defense category of the discretionary spending limits for fiscal year 1993 (as defined in section 665(a)(2) of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985."
 
-Subsec. (d)(1). Pub. L. 104–106, §1403(c)(1)(A), (B), substituted "for any fiscal year shall be derived from amounts made available to the Department of Defense for that fiscal year." for "for fiscal year 1994 shall be derived from amounts made available to the Department of Defense for fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995." and struck out "referred to in this paragraph" after "for a fiscal year".
+Subsec. (d)(1). Pub. L. 104–106, §1403(c)(1)(A), (B), substituted "for any fiscal year shall be derived from amounts made available to the Department of Defense for that fiscal year." for "for fiscal year 1994 shall be derived from amounts made available to the Department of Defense for fiscal year 1994. Funds provided asassistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995." and struck out "referred to in this paragraph" after "for a fiscal year".
 
 Subsec. (d)(3). Pub. L. 104–201, §1301(a)(1), struck out "or" after "fiscal year 1995," and inserted ", or $15,000,000 for fiscal year 1997" before period at end.
 
@@ -118,7 +118,7 @@ Pub. L. 104–106, §1403(a)(3), added subsec. (f).
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–337, §1501(a)(1), substituted "fiscal years 1994 and 1995" for "fiscal year 1994".
 
-Subsec. (b)(1). Pub. L. 103–337, §1501(b)(1), substituted "international organizations" for "the InternationalAtomic Energy Agency (IAEA)", struck out "nuclear" after "safeguards against", and substituted "effective verification" for "aggressive verification" and "international agreements on nonproliferation" for "the Treaty on the Non-Proliferation of Nuclear Weapons, done on July 1, 1968".
+Subsec. (b)(1). Pub. L. 103–337, §1501(b)(1), substituted "international organizations" for "the International Atomic Energy Agency (IAEA)", struck out "nuclear" after "safeguards against", and substituted "effective verification" for "aggressive verification" and "international agreements on nonproliferation" for "the Treaty on the Non-Proliferation of Nuclear Weapons, done on July 1, 1968".
 
 Subsec. (b)(4). Pub. L. 103–337, §1501(b)(2), substituted "nuclear, biological, chemical, and missile proliferation through technical projects and improved information sharing" for "nuclear proliferation through joint technical projects and improved intelligence sharing".
 

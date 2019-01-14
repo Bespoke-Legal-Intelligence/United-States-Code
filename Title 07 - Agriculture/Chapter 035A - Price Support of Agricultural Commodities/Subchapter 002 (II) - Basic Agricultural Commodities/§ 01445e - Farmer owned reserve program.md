@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall formulate and administer a farmer owned reserve program under whichproducers of wheat and feed grains will be able to store wheat and feed grains when the commodities are in abundant supply, extend the time period for the orderly marketing of the commodities, and provide for adequate carryover stocks to ensure a reliable supply of the commodities.
+The Secretary shall formulate and administer a farmer owned reserve program under which producers of wheat and feed grains will be able to store wheat and feed grains when the commodities are in abundant supply, extend the time period for the orderly marketing of the commodities, and provide for adequate carryover stocks to ensure a reliable supply of the commodities.
 
 #### (b) Terms of program
 
@@ -46,7 +46,7 @@ The Secretary shall formulate and administer a farmer owned reserve program unde
 
 #### (1) In general
 
-&emsp;The Secretary shall provide storage payments to producers for storage of wheat or feed grains under the program established in this section in such amounts and under such conditions as the Secretary determines appropriate to encourage producers to participate in the program.
+&emsp;The Secretary shall provide storage payments to producers for storage of wheat orfeed grains under the program established in this section in such amounts and under such conditions as the Secretary determines appropriate to encourage producers to participate in the program.
 
 #### (2) Timing
 
@@ -116,7 +116,7 @@ The Secretary shall use the Commodity Credit Corporation, to the extent feasible
 
 #### (l) Use of commodity certificates
 
-Notwithstanding any other provision of law, if a producer has substituted purchased or other commodities for the commodities originally pledged as collateral for a loan made under this section, the Secretary may allow a producer to repay the loan using a generic commodity certificate that may be exchanged for commodities owned by the Commodity Credit Corporation, if the substitute commodities have been pledged as loan collateral and redeemed only within the same county.
+Notwithstanding any other provision of law, if a producer has substituted purchased or othercommodities for the commodities originally pledged as collateral for a loan made under this section, the Secretary may allow a producer to repay the loan using a generic commodity certificate that may be exchanged for commodities owned by the Commodity Credit Corporation, if the substitute commodities have been pledged as loan collateral and redeemed only within the same county.
 
 #### (m) Additional authority
 
@@ -166,7 +166,7 @@ Subsec. (e). Pub. L. 99–198 designated existing provisions as par. (1), insert
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–98 struck out discretionary authority of Secretary with regard to permitting producers of feed grains to store wheat and feed grains.
 
-Subsec. (b). Pub. L. 97–98 substituted "Secretary shall provide" for "Secretary may provide", struck out "at the same level of support as provided by this Act" after "loans for wheat and feed grains", and substituted provisions that loans be made at such levels of support as Secretary determines appropriate, except that the loan rate not be less than the then current level of support under the wheat and feed grains programs established under this subchapter for provisions relating to the level of price support loans to be made available to producers for the 1980 and 1981 crops of wheat and feed grains necessary to mitigate the adverse effects of the restrictions on the export of agricultural products to the Union of Soviet Socialist Republics and providing that the level of price support loans for the 1980 and 1981 crops of wheat and feed grains not be used in determining the levels at which producers repay loans and redeem commodities prior to the maturity dates of the loans or levels at which Secretary may call for the repayment of loans prior to their maturity dates and "program may provide" for "program shall provide".
+Subsec. (b). Pub. L. 97–98 substituted "Secretary shall provide" for "Secretary may provide", struck out "at the same level of support as provided by this Act" after "loans for wheat and feed grains", and substituted provisions that loans be made at such levels of support as Secretary determines appropriate, except that the loan rate not be less than the then current level of support under the wheat and feed grains programs established under this subchapter for provisions relating to the level of price support loans to be made available to producers for the 1980 and 1981 crops of wheat and feed grains necessary to mitigate the adverse effects of the restrictions on the export of agricultural products to the Union of Soviet Socialist Republics and providing that the level of price support loans for the 1980 and 1981 crops of wheat and feed grains not be used in determining the levels at which producers repay loans and redeem commodities prior to the maturity dates of theloans or levels at which Secretary may call for the repayment of loans prior to their maturity dates and "program may provide" for "program shall provide".
 
 Subsec. (b)(2). Pub. L. 97–98 substituted "for storage in such amounts and under such conditions as the Secretary determines appropriate to encourage producers to participate in the program" for "of such amounts as the Secretary determines appropriate to cover the cost of storing wheat and feed grains held under the program".
 

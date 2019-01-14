@@ -14,7 +14,7 @@ In general.—The total budget resources made available from the Airport and Air
 
 &emsp;&emsp;&emsp;(i) in fiscal year 2013, be equal to 90 percent of the estimated level of receipts plus interest credited to the Airport and Airway Trust Fund for that fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) in fiscal year 2014 and each fiscal year thereafter, be equal to the sum of—
+&emsp;&emsp;&emsp;(ii) in fiscal years 2014 through 2018, be equal to the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 90 percent of the estimated level of receipts plus interest credited to the Airport and Airway Trust Fund for that fiscal year; and
 
@@ -48,7 +48,7 @@ Total budget resources.—The term "total budget resources" means the total amou
 
 &emsp;(2)
 
-Estimated level of receipts plus interest.—The term "estimated level of receipts plus interest" means the level of excise taxes and interest credited to the Airport and Airway Trust Fund under section 9502 of the Internal Revenue Code of 1986 for a fiscal year as set forth in the President's budget baseline projection as defined in section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177) (Treasury identification code 20–8103–0–7–402) for that fiscalyear submitted pursuant to section 1105 of title 31, United States Code.
+Estimated level of receipts plus interest.—The term "estimated level of receipts plus interest" means the level of excise taxes and interest credited to the Airport and Airway Trust Fund under section 9502 of the Internal Revenue Code of 1986 for a fiscal year as set forth in the President's budget baseline projection as defined in section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177) (Treasury identification code 20–8103–0–7–402) for that fiscal year submitted pursuant to section 1105 of title 31, United States Code.
 
 (c)
 
@@ -62,7 +62,7 @@ Total airport and airway trust fund funding.—It shall not be in order in the H
 
 Capital priority.—It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that provides an appropriation (or any amendment thereto) for any fiscal year through fiscal year 2018 for Research and Development or Operations if the sum of the obligation limitation for Grants-in-Aid for Airports and the appropriation for Facilities and Equipment for such fiscal year is below the sum of the authorized levels for Grants-in-Aid for Airports and for Facilities and Equipment for such fiscal year.
 
-(Added Pub. L. 108–176, title I, §104(a), Dec. 12, 2003, 117 Stat. 2496; amended Pub. L. 112–95, title I, §104, Feb. 14, 2012, 126 Stat. 16; Pub. L. 114–55, title I, §106(a), Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–190, title I, §1106(a), July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §107(a), Sept. 29, 2017, 131 Stat. 1170.)
+(Added Pub. L. 108–176, title I, §104(a), Dec. 12, 2003, 117 Stat. 2496; amended Pub. L. 112–95, title I, §104, Feb. 14, 2012, 126 Stat. 16; Pub. L. 114–55, title I, §106(a), Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–190, title I, §1106(a), July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §107(a), Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–254, div. B, title I, §116, Oct. 5, 2018, 132 Stat. 3201.)
 
 #### References in Text
 
@@ -71,6 +71,8 @@ Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2)
 Section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (b)(2), is classified to section 907 of Title 2, The Congress.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(A)(ii). Pub. L. 115–254 substituted "in fiscal years 2014 through 2018" for "in fiscal year 2014 and each fiscal year thereafter" in introductory provisions.
 
 <b>2017</b>—Subsec. (a)(2). Pub. L. 115–63, §107(a)(1), substituted "2018" for "2017".
 

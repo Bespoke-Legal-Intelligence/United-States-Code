@@ -60,7 +60,7 @@ Sec. 3. <i>Functions of the Secretary of Homeland Security</i>. The Secretary is
 
 (e) develop, implement, and lead a process, in collaboration with other agencies, State, local, and tribal governments, and the private sector, as appropriate, to coordinate research, development, testing, and evaluation of technologies (including alternative uses for commercial off-the-shelf technologies and products) relating to the protection of surface transportation, including—
 
-(i) determining product and technology needs to inform the requirements for and prioritization of research, development, testing, and evaluation, based on the security guidelines and security requirements developed pursuant to subsection (c) of this section and evolving terrorist threats to the security of surface transportation;
+(i) determining product and technology needs to inform the requirements for and prioritization of research, development, testing, and evaluation, based on the security guidelines and security requirements developed pursuant to subsection (c) of this section andevolving terrorist threats to the security of surface transportation;
 
 (ii) collecting information on existing and planned research, development, testing, and evaluation efforts; and
 

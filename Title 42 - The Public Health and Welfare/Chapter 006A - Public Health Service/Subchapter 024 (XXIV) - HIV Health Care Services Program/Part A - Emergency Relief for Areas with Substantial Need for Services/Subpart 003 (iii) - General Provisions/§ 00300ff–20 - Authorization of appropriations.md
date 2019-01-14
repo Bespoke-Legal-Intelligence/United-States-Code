@@ -60,7 +60,7 @@ Notwithstanding subsection (b):
 
 &emsp;&emsp;&emsp;&emsp;(cc) for the third fiscal year of the metropolitan area not being a transitional area, 25 percent of such amount; and
 
-&emsp;&emsp;&emsp;(II) there shall be transferred and made available for grants pursuant to section 300ff–28(a)(1) of this title for the fiscal year, in addition to amounts available for such grants under section 300ff–31b of this title, an amount equal to the total amount of the reduction for such fiscal year under subparagraph (A), less the amount transferred for such fiscal year under subclause (I).
+&emsp;&emsp;&emsp;(II) there shall be transferred and made available for grants pursuant to section 300ff–28(a)(1) of this title for the fiscal year, in addition to amounts available forsuch grants under section 300ff–31b of this title, an amount equal to the total amount of the reduction for such fiscal year under subparagraph (A), less the amount transferred for such fiscal year under subclause (I).
 
 &emsp;(3) If a metropolitan area is a transitional area under section 300ff–19 of this title for a fiscal year, but for a subsequent fiscal year qualifies as an eligible area under subpart I—
 

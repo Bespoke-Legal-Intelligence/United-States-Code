@@ -14,7 +14,7 @@ Not later than January 1, 2007, the Secretary of Defense shall submit to the con
 
 The report required by subsection (a), and each updated report required by subsection (c),<sup>1</sup> shall include the following:
 
-&emsp;(1) An identification, current as of the date of the report, of the total number of military dependent students who are anticipated to be arriving at or departing from military installations as a result of any event described in subsection (a), including—
+&emsp;(1) An identification, current as of the date of the report, of the total number of militarydependent students who are anticipated to be arriving at or departing from military installations as a result of any event described in subsection (a), including—
 
 &emsp;&emsp;(A) an identification of the military installations affected by such arrivals and departures;
 
@@ -54,7 +54,7 @@ In this section:
 
 &emsp;(1) The term "base closure law" has the meaning given that term in section 101 of title 10.
 
-&emsp;(2) The term "local educational agency" has the meaning given that term in section 7713(9) of title 20.
+&emsp;(2) The term "local educational agency" has the meaning given that term in section 7713(9) of this title.
 
 &emsp;(3) The term "military dependent students" refers to—
 
@@ -70,7 +70,7 @@ In this section:
 
 Subsection (c), referred to in subsec. (b), was repealed, and former subsec. (d) was redesignated (c), by Pub. L. 114–92, div. A, title X, §1072(h), Nov. 25, 2015, 129 Stat. 995.
 
-Section 7713 of title 20, referred to in subsec. (d)(2), was in the original a reference to section 8013 of Pub. L. 89–10, which was renumbered section 7013 of that Act by Pub. L. 114–95, title VII, §7001(c)(2), Dec. 10, 2015, 129 Stat. 2074.
+Section 7713 of this title, referred to in subsec. (d)(2), was in the original a reference to section 8013 of Pub. L. 89–10, which was renumbered section 7013 of that Act by Pub. L. 114–95, title VII, §7001(c)(2), Dec. 10, 2015, 129 Stat. 2074.
 
 #### Codification
 

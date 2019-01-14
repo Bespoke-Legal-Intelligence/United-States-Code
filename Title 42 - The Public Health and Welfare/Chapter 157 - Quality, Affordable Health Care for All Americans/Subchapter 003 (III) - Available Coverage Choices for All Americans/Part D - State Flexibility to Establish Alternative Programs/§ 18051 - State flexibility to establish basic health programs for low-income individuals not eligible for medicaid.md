@@ -164,7 +164,7 @@ This Act, referred to in subsec. (d)(3)(A)(iii), is Pub. L. 111–148, Mar. 23, 
 
 <b>2010</b>—Subsec. (d)(3)(A)(i). Pub. L. 111–148, §10104(o)(1), substituted "95 percent" for "85 percent".
 
-Subsec. (e)(1)(B). Pub. L. 111–148, §10104(o)(2), inserted ", or, in the case of an alien lawfully present in the United States, whose income is not greater than 133 percent of the poverty line for the size of the family involved but who is not eligible for the Medicaid program under title XIX of the Social Security Act by reason of such alien status" before semicolon at end.
+Subsec. (e)(1)(B). Pub. L. 111–148, §10104(o)(2), inserted ", or, in the case of an alien lawfully present in theUnited States, whose income is not greater than 133 percent of the poverty line for the size of the family involved but who is not eligible for the Medicaid program under title XIX of the Social Security Act by reason of such alien status" before semicolon at end.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "health".</i>
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) for administrative or overhead expenses; or
 
-&emsp;&emsp;(C) for contributions sought or required from any person for costs or fees to clean up any matter that was caused or contributed to by such person on or after March 15, 2000.
+&emsp;&emsp;(C) for contributions sought or required from any person for costs or fees to clean upany matter that was caused or contributed to by such person on or after March 15, 2000.
 
 #### (4) Funding instruments and procedures
 

@@ -94,11 +94,11 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (D) Conditional appointment for national provision
 
-&emsp;&emsp;If the individual has applied at the national level for an education position in theBureau, the appointment of such individual at the local level shall be conditional for a period of 90 days, during which period the Secretary may appoint a more qualified individual (as determined by the Secretary) from the list maintained at the national level pursuant to subsection (c)(1)(A)(ii) <sup>2</sup> to the position to which such individual was appointed.
+&emsp;&emsp;If the individual has applied at the national level for an education position in the Bureau, the appointment of such individual at the local level shall be conditional for a period of 90 days, during which period the Secretary may appoint a more qualified individual (as determined by the Secretary) from the list maintained at the national level pursuant to subsection (c)(1)(A)(ii) <sup>2</sup> to the position to which such individual was appointed.
 
 #### (3) Statutory construction
 
-&emsp;Except as expressly provided, nothing in this section shall be construed as conferring upon local school boards authority over, or control of, educators at Bureau-funded schools or the authority to issue management decisions.
+&emsp;Except as expressly provided, nothing in this section shall be construed as conferring uponlocal school boards authority over, or control of, educators at Bureau-funded schools or the authority to issue management decisions.
 
 #### (4) Appeals
 
@@ -264,7 +264,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (ii) Essential provisions
 
-&emsp;&emsp;&emsp;The Secretary shall allow the local school boards involved authority to implement only the aspects of the Defense Department Overseas Teachers Pay and Personnel Practices Act pay provisions that are considered essential for recruitment and retention of teachers and counselors. Implementation of such provisions shallnot be construed to require the implementation of that entire Act.
+&emsp;&emsp;&emsp;The Secretary shall allow the local school boards involved authority to implement only the aspects of the Defense Department Overseas Teachers Pay and Personnel Practices Act pay provisions that are considered essential for recruitment and retention of teachers and counselors. Implementation of such provisions shall not be construed to require the implementation of that entire Act.
 
 #### (C) Rates for new hires
 
@@ -274,7 +274,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (ii) Consistent rates
 
-&emsp;&emsp;&emsp;The rates established under clause (i) shall be consistent with the rates paid for individuals in the same positions, with the same tenure and training, as the teachers and counselors, in any other school within whose boundaries the Bureau school is located.
+&emsp;&emsp;&emsp;The rates established under clause (i) shall be consistent with the rates paid forindividuals in the same positions, with the same tenure and training, as the teachers and counselors, in any other school within whose boundaries the Bureau school is located.
 
 #### (iii) Decreases
 
@@ -332,7 +332,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (v) Reports
 
-&emsp;&emsp;&emsp;On or before February 1 of each year, the Secretary shall submit to Congress a report describing the requests and approvals of authorization made under this paragraph during the previous year and listing the positions receiving post differentialrates under contracts entered into under those authorizations.
+&emsp;&emsp;&emsp;On or before February 1 of each year, the Secretary shall submit to Congress a report describing the requests and approvals of authorization made under this paragraph during the previous year and listing the positions receiving post differential rates under contracts entered into under those authorizations.
 
 #### (h) Liquidation of remaining leave upon termination
 
@@ -340,7 +340,7 @@ Upon termination of employment with the Bureau, any annual leave remaining to th
 
 #### (i) Transfer of remaining sick leave upon transfer, promotion, or reemployment
 
-In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the regulations promulgated pursuant to subsection (b)(10) shall be transferred to such person's credit in the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
+In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remainingleave to the credit of such person earned or credited under the regulations promulgated pursuant to subsection (b)(10) shall be transferred to such person's credit in the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
 
 #### (j) Ineligibility for employment of voluntarily terminated educators
 
@@ -442,7 +442,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(I) classroom or other instruction or the supervision or direction of classroom or other instruction;
 
-&emsp;&emsp;&emsp;(II) any activity (other than teaching) which requires academic credits in educational theory and practice equal to the academic credits in educational theory and practice required for a bachelor's degree in education from an accredited institution of higher education;
+&emsp;&emsp;&emsp;(II) any activity (other than teaching) which requires academic credits in educational theory and practice equal to theacademic credits in educational theory and practice required for a bachelor's degree in education from an accredited institution of higher education;
 
 &emsp;&emsp;&emsp;(III) any activity in or related to the field of education notwithstanding that academic credits in educational theory and practice are not a formal requirement for the conduct of such activity; or
 
@@ -488,7 +488,7 @@ The General Schedule, referred to in subsec. (g)(1)(A)(i), is set out under sect
 
 The Defense Department Overseas Teachers Pay and Personnel Practices Act, referred to in subsec. (g)(1)(B), is Pub. L. 86–91, July 17, 1959, 73 Stat. 213, as amended, which is classified generally to chapter 25 (§901 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 901 of Title 20 and Tables.
 
-Subsection (p), referred to in subsecs. (g)(1)(D)(ii) and (q)(1), probably should be a reference to subsec. (o) ofprior section 1131 of Pub. L. 95–561 which was classified to section 2011 of this title prior to the general amendment of this chapter by Pub. L. 103–382. See Prior Provisions note set out under section 2011 of this title.
+Subsection (p), referred to in subsecs. (g)(1)(D)(ii) and (q)(1), probably should be a reference to subsec. (o) of prior section 1131 of Pub. L. 95–561 which was classified to section 2011 of this title prior to the general amendment of this chapter by Pub. L. 103–382. See Prior Provisions note set out under section 2011 of this title.
 
 #### Prior Provisions
 

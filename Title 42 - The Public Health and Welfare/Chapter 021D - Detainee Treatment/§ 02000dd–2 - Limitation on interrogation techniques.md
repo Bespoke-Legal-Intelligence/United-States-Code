@@ -26,7 +26,7 @@
 
 #### (4) Agencies other than the Department of Defense
 
-&emsp;If a process required by Army Field Manual 2–22.3, such as a requirement of approval by a specified Department of Defense official, is inapposite to a department or an agency other than the Department of Defense, the head of such department or agency shall ensure that a process that is substantially equivalent to the process prescribed by Army Field Manual 2–22.3 for the Department of Defense is utilized by all officers, employees, or other agents of such department or agency.
+&emsp;If a process required by Army Field Manual 2–22.3, such as a requirement of approval by a specified Department of Defense official, is inapposite to a department or an agency other than the Department of Defense, the head of such department or agency shall ensure that a process that is substantially equivalent to theprocess prescribed by Army Field Manual 2–22.3 for the Department of Defense is utilized by all officers, employees, or other agents of such department or agency.
 
 #### (5) Interrogation by Federal law enforcement
 

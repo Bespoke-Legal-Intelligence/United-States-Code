@@ -122,7 +122,7 @@ This Act, referred to in subsec. (b)(4), means Pub. L. 93–344, July 12, 1974, 
 
 The Employment Act of 1946, referred to in subsec. (d), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§1021 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of Title 15 and Tables.
 
-The Congressional Budget Act of 1974, referred to in subsec. (g)(3), is titles I through IX of Pub. L. 93–344,July 12, 1974, 88 Stat. 297, as amended. Titles III and IV of the Act are classified generally to this subchapter (§631 et seq.) and subchapter II (§651 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsec. (g)(3), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Titles III and IV of the Act are classified generally to this subchapter (§631 et seq.) and subchapter II (§651 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 
@@ -194,7 +194,7 @@ Amendment by Pub. L. 104–4 effective Jan. 1, 1996, or on the date 90 days afte
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title XIII, §13306, Nov. 5, 1990, 104 Stat. 1388–628, provided that: "Sections 13301, 13302, and 13303 and any amendments made by such sections \[amending this section and sections 633 and 642 of this title and enacting provisions set out as notes under this section\] shall apply with respect to fiscal years beginning on or after October 1, 1990. Section 13304 \[amending section 401 of Title 42, The Public Health and Welfare\] shall be effective for annual reports of the Board of Trustees issued in or after calendar year 1991."
+Pub. L. 101–508, title XIII, §13306, Nov. 5, 1990, 104 Stat. 1388–628, provided that: "Sections 13301, 13302, and13303 and any amendments made by such sections \[amending this section and sections 633 and 642 of this title and enacting provisions set out as notes under this section\] shall apply with respect to fiscal years beginning on or after October 1, 1990. Section 13304 \[amending section 401 of Title 42, The Public Health and Welfare\] shall be effective for annual reports of the Board of Trustees issued in or after calendar year 1991."
 
 #### Effective and Termination Dates of 1988 Amendment
 
@@ -252,11 +252,11 @@ Definitions.—For purposes of this subsection:
 
 &emsp;"(5) The term '5-year estimating period' means, with respect to any legislation, the fiscal year in which such legislation becomes or would become effective and the next 4 fiscal years.
 
-&emsp;"(6) No provision of any bill or resolution, or any amendment thereto or conference report thereon, involving a change in chapter 1 of the Internal Revenue Code of 1986 shall be treated as affecting the amount of OASDI taxes referred to in paragraph (2)(B) unless such provision changes the income tax treatment of OASDI benefits."
+&emsp;"(6) No provision of any bill or resolution, or any amendment thereto or conference report thereon, involving a change in chapter 1 of the Internal Revenue Code of 1986 shall be treated as affecting the amount of OASDI taxes referred to in paragraph (2)(B) unlesssuch provision changes the income tax treatment of OASDI benefits."
 
 #### Balanced Federal Budgets; Congressional Budget Committee Reports by April 15, 1979, 1980, and 1981, of Balanced Fiscal Year Budgets for 1981 and 1982
 
-Pub. L. 96–5, §5, Apr. 2, 1979, 93 Stat. 8, which provided that Congress shall balance the Federal budget, that the Budget Committees were to report, by April 15, 1979, a fiscal year budget for 1981 that would be in balance, and also a fiscal year budget for 1982 that would be in balance, and by April 15, 1980, a fiscal year budget for 1981 that would be in balance, and by April 15, 1981,a fiscal year budget for 1982 that would be in balance, and that the Budget Committees were to show the consequences of each budget on each budget function and on the economy, setting forth the effects on revenues, spending, employment, inflation, and national security, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
+Pub. L. 96–5, §5, Apr. 2, 1979, 93 Stat. 8, which provided that Congress shall balance the Federal budget, that the Budget Committees were to report, by April 15, 1979, a fiscal year budget for 1981 that would be in balance, and also a fiscal year budget for 1982 that would be in balance, and by April 15, 1980, a fiscal year budget for 1981 that would be in balance, and by April 15, 1981, a fiscal year budget for 1982 that would be in balance, and that the Budget Committees were to show the consequences of each budget on each budget function and on the economy, setting forth the effects on revenues, spending, employment, inflation, and national security, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
 
 #### Application of Congressional Budget Process to Fiscal Year Beginning July 1, 1975
 

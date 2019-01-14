@@ -12,7 +12,7 @@ The program described in subsection (a) shall be subject to the following restri
 
 &emsp;(2) No other funds from any other source shall be expended for special compliance personnel employed under such program, and no funds from such account shall be expended for the hiring of any personnel other than special compliance personnel.
 
-&emsp;(3) Notwithstanding any other authority, the Secretary is prohibited from spending funds out of such account for any purpose other than for costs under such program associated with the employment of special compliance personnel and the retraining and reassignment of current noncollections personnel as special compliance personnel, and to reimburse the Internal Revenue Service or other government agencies for the cost of administering qualified tax collection contracts under section 6306.
+&emsp;(3) Notwithstanding any other authority, the Secretary is prohibited from spending funds out of such account for any purpose other than for costs under such program associated with the employment of special compliance personnel and the retraining and reassignment of current noncollections personnel as special compliance personnel, and to reimburse the Internal Revenue Service or other governmentagencies for the cost of administering qualified tax collection contracts under section 6306.
 
 #### (c) Reporting
 

@@ -54,7 +54,7 @@ For the purpose of this section, the term "outlying area" means the United State
 
 &emsp;The amount allotted for payments to the Secretary of the Interior under subsection (a)(2) for any fiscal year shall be used, in accordance with such criteria as the Secretary may establish, to meet the unique educational needs of—
 
-&emsp;&emsp;(A) Indian children on reservations served by elementary schools and secondary schools for Indian children operated or supported by the Department of the Interior; and
+&emsp;&emsp;(A) Indian children on reservations served by elementary schools and secondaryschools for Indian children operated or supported by the Department of the Interior; and
 
 &emsp;&emsp;(B) out-of-State Indian children in elementary schools and secondary schools in local educational agencies under special contracts with the Department of the Interior.
 

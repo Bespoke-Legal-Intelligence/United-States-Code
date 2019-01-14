@@ -56,7 +56,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(A)
 
-Low-volume manufacturer.—The term "low-volume manufacturer" means a motor vehicle manufacturer, other than a person who is registered as an importer under section 30141 of this title, whose annual worldwide production, including by aparent or subsidiary of the manufacturer, if applicable, is not more than 5,000 motor vehicles.
+Low-volume manufacturer.—The term "low-volume manufacturer" means a motor vehicle manufacturer, other than a person who is registered as an importer under section 30141 of this title, whose annual worldwide production, including by a parent or subsidiary of the manufacturer, if applicable, is not more than 5,000 motor vehicles.
 
 &emsp;&emsp;(B)
 

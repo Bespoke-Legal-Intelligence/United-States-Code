@@ -108,7 +108,7 @@ This amends 49:70117(b)(2) by updating a cross-reference. Section 4 of the Land 
 
 #### References in Text
 
-The Communications Act of 1934, referred to in subsec. (b)(1), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to section 151 et seq. of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (b)(1), is act June 19, 1934, ch. 652, 48 Stat. 1064,which is classified principally to section 151 et seq. of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 The Foreign Trade Zones Act, referred to in subsec. (f), is act June 18, 1934, ch. 590, 48 Stat. 998, which is classified generally to chapter 1A (§81a et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Tables.
 

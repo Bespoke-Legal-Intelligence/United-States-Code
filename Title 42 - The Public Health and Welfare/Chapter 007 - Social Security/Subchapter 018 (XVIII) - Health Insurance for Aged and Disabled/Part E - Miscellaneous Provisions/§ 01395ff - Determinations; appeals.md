@@ -218,7 +218,7 @@
 
 #### (2) Qualified independent contractor
 
-&emsp;For purposes of this subsection, the term "qualified independent contractor" means anentity or organization that is independent of any organization under contract with the Secretary that makes initial determinations under subsection (a)(1), and that meets the requirements established by the Secretary consistent with paragraph (3).
+&emsp;For purposes of this subsection, the term "qualified independent contractor" means an entity or organization that is independent of any organization under contract with the Secretary that makes initial determinations under subsection (a)(1), and that meets the requirements established by the Secretary consistent with paragraph (3).
 
 #### (3) Requirements
 
@@ -276,7 +276,7 @@
 
 #### (iv) Extension
 
-&emsp;&emsp;&emsp;An individual requesting a reconsideration under this subparagraph may begranted such additional time as the individual specifies (not to exceed 14 days) for the qualified independent contractor to conclude the reconsideration. The individual may request such additional time orally or in writing.
+&emsp;&emsp;&emsp;An individual requesting a reconsideration under this subparagraph may be granted such additional time as the individual specifies (not to exceed 14 days) for the qualified independent contractor to conclude the reconsideration. The individual may request such additional time orally or in writing.
 
 #### (D) Qualifications for reviewers
 
@@ -318,7 +318,7 @@
 
 #### (iii) Annual reporting
 
-&emsp;&emsp;&emsp;Each qualified independent contractor shall submit annually to the Secretary (or otherwise as the Secretary may request) records maintained under this paragraph for the previous year.
+&emsp;&emsp;&emsp;Each qualified independent contractor shall submit annually to the Secretary (orotherwise as the Secretary may request) records maintained under this paragraph for the previous year.
 
 #### (J) Hearings by the Secretary
 
@@ -342,7 +342,7 @@
 
 #### (iii) Limitations on entity compensation
 
-&emsp;&emsp;&emsp;Compensation provided by the Secretary to a qualified independent contractor inconnection with reviews under this section shall not be contingent on any decision rendered by the contractor or by any reviewing professional.
+&emsp;&emsp;&emsp;Compensation provided by the Secretary to a qualified independent contractor in connection with reviews under this section shall not be contingent on any decision rendered by the contractor or by any reviewing professional.
 
 #### (4) Number of qualified independent contractors
 
@@ -518,7 +518,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than December 1 of each year, beginning in 2001, the Secretary shall submit to Congress a report that sets forth a detailed compilation of the actual time periods that were necessary to complete and fully implement national coverage determinations that were made in the previous fiscal year for items, services, or medical devices not previously covered as a benefit under this subchapter, including, with respect to each new item, service, or medical device, a statement of the time taken by the Secretary to make and implement the necessary coverage, coding, and payment determinations, including the time taken to complete each significant step in the process of making and implementing such determinations.
+&emsp;&emsp;Not later than December 1 of each year, beginning in 2001, the Secretary shall submit to Congress a report that sets forth a detailed compilation of the actual time periods that were necessary to complete and fully implement national coverage determinations that were made in the previous fiscal year for items, services, or medical devices not previously covered as a benefit under this subchapter, including, with respect to each new item, service, or medical device, a statement of the time taken by the Secretary to make and implement the necessarycoverage, coding, and payment determinations, including the time taken to complete each significant step in the process of making and implementing such determinations.
 
 #### (B) Publication of reports on the Internet
 
@@ -760,7 +760,7 @@ Subsec. (f). Pub. L. 106–554, §1(a)(6) \[title V, §522(a)\], added subsec. (
 
 <b>1997</b>—Subsec. (b)(2)(B). Pub. L. 105–33 inserted "(or $100 in the case of home health services)" after "$500".
 
-<b>1994</b>—Subsec. (b)(1). Pub. L. 103–296 inserted ", except that, in so applying such sections and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a referenceto the Secretary or the Department of Health and Human Services, respectively" after "section 405(g) of this title" in closing provisions.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–296 inserted ", except that, in so applying such sections and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively" after "section 405(g) of this title" in closing provisions.
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–203, §4085(i)(18), inserted "or a claim for benefits with respect to home health services under part B of this subchapter" before "shall".
 
@@ -834,7 +834,7 @@ Amendment by section 1(a)(6) \[title V, §522(a)\] of Pub. L. 106–554 applicab
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 applicable to services furnished on or after Jan. 1, 1998, and for purposes of applying such amendment, any home health spell of illness that began, but did not end, before such date, tobe considered to have begun as of such date, see section 4611(f) of Pub. L. 105–33, set out as a note under section 1395d of this title.
+Amendment by Pub. L. 105–33 applicable to services furnished on or after Jan. 1, 1998, and for purposes of applying such amendment, any home health spell of illness that began, but did not end, before such date, to be considered to have begun as of such date, see section 4611(f) of Pub. L. 105–33, set out as a note under section 1395d of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -1016,7 +1016,7 @@ Pub. L. 100–203, title IV, §4037, Dec. 22, 1987, 101 Stat. 1330–80, provide
 
 "(a)
 
-Maintaining Current System for Hearings and Appeals.—Any hearing conducted under section 1869(b)(1) of the Social Security Act \[42 U.S.C. 1395ff(b)(1)\] prior to the earliest of the date on which the Secretary of Health and Human Services submits the report required to be submitted by the Secretary under subsection (b)(1) or September 1 shall be conducted by Administrative Law Judges of the Office of Hearings and Appeals of the Social Security Administration in the same manner as are hearings conducted under section 205(b)(1) of such Act \[42 U.S.C. 405(b)(1)\].
+Maintaining Current System for Hearings and Appeals.—Any hearing conducted under section 1869(b)(1) of the Social Security Act \[42 U.S.C.1395ff(b)(1)\] prior to the earliest of the date on which the Secretary of Health and Human Services submits the report required to be submitted by the Secretary under subsection (b)(1) or September 1 shall be conducted by Administrative Law Judges of the Office of Hearings and Appeals of the Social Security Administration in the same manner as are hearings conducted under section 205(b)(1) of such Act \[42 U.S.C. 405(b)(1)\].
 
 "(b)
 

@@ -72,7 +72,7 @@ In General.—There is established in the Treasury of the United States a fund t
 
 &emsp;&emsp;&emsp;(iv) the United States Customs Service or the Internal Revenue Service with respect to a violation of chapter 53 of this title (relating to the Bank Secrecy Act); and
 
-&emsp;&emsp;&emsp;(v) United States Immigration and Customs Enforcement with respect to a violation of chapter 77 of title 18 (relating to human trafficking);
+&emsp;&emsp;&emsp;(v) United States Immigration and Customs Enforcement with respect to a violation of chapter 77 of title 18 (relating to human trafficking), chapter 109A of title 18 (relating to sexual abuse), chapter 110 of title 18 (relating to child sexual exploitation), or chapter 117 of title 18 (relating to transportation for illegal sexual activity and related crimes);
 
 &emsp;&emsp;(C) payment of costs for publicizing awards available under section 619 of the Tariff Act of 1930 (19 U.S.C. 1619);
 
@@ -138,7 +138,7 @@ Deposits and Credits.—
 
 &emsp;&emsp;(B) all income from investments made under subsection (e); and
 
-&emsp;&emsp;(C) all amounts representing the equitable share of a Department of the Treasury lawenforcement organization or the United States Coast Guard from the forfeiture of property under any Federal, State, local, or foreign law.
+&emsp;&emsp;(C) all amounts representing the equitable share of a Department of the Treasury law enforcement organization or the United States Coast Guard from the forfeiture of property under any Federal, State, local, or foreign law.
 
 (e)
 
@@ -230,7 +230,7 @@ Retention or Transfer of Property.—
 
 &emsp;&emsp;(C) is made to a country which, if applicable, has been certified under section 481(h) of the Foreign Assistance Act of 1961 (22 U.S.C. 2291(h)).<sup>1</sup>
 
-&emsp;(3) Nothing in this section shall affect the authority of the Secretary under section 981 of title 18 or section 616 of the Tariff Act of 1930 (19 U.S.C. 1616a).
+&emsp;(3) Nothing in this section shall affect the authority of the Secretary under section 981 oftitle 18 or section 616 of the Tariff Act of 1930 (19 U.S.C. 1616a).
 
 (i)
 
@@ -292,13 +292,13 @@ Department of the treasury law enforcement organization.—The term "Department 
 
 Secretary.—The term "Secretary" means the Secretary of the Treasury.
 
-(Added Pub. L. 102–393, title VI, §638(b)(1), Oct. 6, 1992, 106 Stat. 1779, §9703; amended Pub. L. 103–182, title VI, §685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, §90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, §112, Sept. 30, 1994, 108 Stat. 2391; Pub. L. 104–208, div. A, title I, §101(f) \[title I, §116\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–325; Pub. L. 105–61, title I, §122(b), (c), Oct. 10, 1997, 111 Stat. 1289; Pub. L. 107–296, title XI, §1112(n), Nov. 25, 2002, 116 Stat. 2278; Pub. L. 111–350, §5(h)(10), Jan. 4, 2011, 124 Stat. 3849; renumbered §9705 and amended Pub. L. 114–22, title I, §105(c)(1), May 29, 2015, 129 Stat. 237.)
+(Added Pub. L. 102–393, title VI, §638(b)(1), Oct. 6, 1992, 106 Stat. 1779, §9703; amended Pub. L. 103–182, title VI, §685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, §90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, §112, Sept. 30, 1994, 108 Stat. 2391; Pub. L. 104–208, div. A, title I, §101(f) \[title I, §116\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–325; Pub. L. 105–61, title I, §122(b), (c), Oct. 10, 1997, 111 Stat. 1289; Pub. L. 107–296, title XI, §1112(n), Nov. 25, 2002, 116 Stat. 2278; Pub. L. 111–350, §5(h)(10), Jan. 4, 2011, 124 Stat. 3849; renumbered §9705 and amended Pub. L. 114–22, title I, §105(c)(1), May 29, 2015, 129 Stat. 237; Pub. L. 115–392, §4(b), Dec. 21, 2018, 132 Stat. 5251.)
 
 #### References in Text
 
 Sections 7301 and 7302 of the Internal Revenue Code of 1986, referred to in subsecs. (a), (d)(2)(A), (h)(1), and (j)(1), are classified to sections 7301 and 7302, respectively, of Title 26, Internal Revenue Code. Section 5872(b)(2) of the Internal Revenue Code of 1986, referred to in subsec. (o)(1), is classified to section 5872(b)(2) of Title 26.
 
-The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
+The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84Stat. 1114, which is classified principally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
 
 Section 630 of the Tariff Act of 1930, referred to in subsec. (a)(2)(E), is classified to section 1630 of Title 19, Customs Duties.
 
@@ -317,6 +317,8 @@ The effective date of the Treasury Forfeiture Act of 1992, referred to in subsec
 Section 524(c)(11) of title 28, referred to in subsec. (m), was redesignated section 524(c)(10) by Pub. L. 104–66, title I, §1091(h)(2), Dec. 21, 1995, 109 Stat. 722.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2)(B)(v). Pub. L. 115–392 inserted ", chapter 109A of title 18 (relating to sexual abuse), chapter 110 of title 18 (relating to child sexual exploitation), or chapter 117 of title 18 (relating to transportation for illegal sexual activity and related crimes)" after "(relating to human trafficking)".
 
 <b>2015</b>—Pub. L. 114–22, §105(c)(1)(A), renumbered section 9703 of this title, relating to Department of the Treasury Forfeiture Fund, as this section.
 
@@ -342,7 +344,7 @@ Subsec. (a)(2)(H). Pub. L. 114–22, §105(c)(1)(B)(ii)(III), substituted period
 
 &emsp;"(III) section 924(c) of title 18;".
 
-Subsec. (o). Pub. L. 107–296, §1112(n)(2), (3), redesignated subsec. (p) as (o) and struck out former subsec. (o) which provided that provisions of law relating to the seizure, summary and judicial forfeiture, and condemnation of property for violation of Customs laws, the remission or mitigation of such forfeiture, and the compromise of claims, would apply to seizures and forfeitures incurred, or alleged to have been incurred, under any applicable law enforced or administered by the Bureau of Alcohol, Tobacco and Firearms, and that duties that were imposed upon a Customs officer or any other person with respect to the seizure and forfeitureof property under the Customs laws would be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or any other person as had been authorized or designated for that purpose by the Secretary.
+Subsec. (o). Pub. L. 107–296, §1112(n)(2), (3), redesignated subsec. (p) as (o) and struck out former subsec. (o) which provided that provisions of law relating to the seizure, summary and judicial forfeiture, and condemnation of property for violation of Customs laws, the remission or mitigation of such forfeiture, and the compromise of claims, would apply to seizures and forfeitures incurred, or alleged to have been incurred, under any applicable law enforced or administered by the Bureau of Alcohol, Tobacco and Firearms, and that duties that were imposed upon a Customs officer or any other person with respect to the seizure and forfeiture of property under the Customs laws would be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or any other person as had been authorized or designated for that purpose by the Secretary.
 
 Subsec. (o)(1). Pub. L. 107–296, §1112(n)(4), substituted "Tax and Trade Bureau" for "Bureau of Alcohol, Tobacco and Firearms".
 

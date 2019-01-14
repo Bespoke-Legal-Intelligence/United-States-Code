@@ -24,7 +24,7 @@
 
 #### (3) Part C
 
-&emsp;There are authorized to be appropriated to carry out part C, $10,000,000 for fiscal year 2009, and such sums as may be necessary for each of the five succeeding fiscal years.
+&emsp;There are authorized to be appropriated to carry out part C, $10,000,000 for fiscal year 2009,and such sums as may be necessary for each of the five succeeding fiscal years.
 
 #### (4) Part D
 
@@ -94,11 +94,11 @@ Subsec. (a)(4), (5). Pub. L. 105–244, §308(h)(4), added pars. (4) and (5).
 
 Subsec. (c). Pub. L. 105–244, §308(h)(5), struck out heading and text of subsec. (c). Text read as follows: "If the amount appropriated under subsection (a)(1) of this section for part A of this subchapter for any fiscal year beginning after September 30, 1986, equals or exceeds the amount appropriated for such part for fiscal year 1986, the Secretary shall, for such fiscal year—
 
-&emsp;"(1) allocate 25 percent of the excess (above the amount appropriated for part A of this subchapter for fiscal year 1986) among eligible institutions at which at least 60 percent of the students are African Americans, Hispanic Americans, Native Americans, Asian Americans, Native Hawaiians, or Pacific Islanders, or any combination thereof; and
+&emsp;"(1) allocate 25 percent of the excess (above the amount appropriated for part A of this subchapter forfiscal year 1986) among eligible institutions at which at least 60 percent of the students are African Americans, Hispanic Americans, Native Americans, Asian Americans, Native Hawaiians, or Pacific Islanders, or any combination thereof; and
 
 &emsp;"(2) allocate 75 percent of such excess among other eligible institutions."
 
-Subsec. (d). Pub. L. 105–244, §308(h)(5), struck out heading and text of subsec. (d). Text read as follows: "In any fiscal year in which the sums appropriated for part A of this subchapter are insufficient to make thereservations required by subsection (c) of this section, the Secretary shall ratably reduce the amount of the reservation."
+Subsec. (d). Pub. L. 105–244, §308(h)(5), struck out heading and text of subsec. (d). Text read as follows: "In any fiscal year in which the sums appropriated for part A of this subchapter are insufficient to make the reservations required by subsection (c) of this section, the Secretary shall ratably reduce the amount of the reservation."
 
 Subsec. (e). Pub. L. 105–244, §308(h)(5), struck out heading and text of subsec. (e). Text read as follows: "In any fiscal year beginning after September 30, 1992, the Secretary shall award at least 25 percent of the amount appropriated pursuant to the authority of paragraph (3) of subsection (a) of this section in each fiscal year to historically black colleges and universities that meet the requirements of part C of this subchapter, unless there are an insufficient number of quality applications or an insufficient number of applications due to the provisions in subsection (b)(2)(C) or subsection (b)(4)(B) of section 1065 of this title."
 

@@ -28,7 +28,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;The term "substantial United States owner" means—
 
-&emsp;&emsp;&emsp;(i) with respect to any corporation, any specified United States person which owns,directly or indirectly, more than 10 percent of the stock of such corporation (by vote or value),
+&emsp;&emsp;&emsp;(i) with respect to any corporation, any specified United States person which owns, directly or indirectly, more than 10 percent of the stock of such corporation (by vote or value),
 
 &emsp;&emsp;&emsp;(ii) with respect to any partnership, any specified United States person which owns, directly or indirectly, more than 10 percent of the profits interests or capital interests in such partnership, and
 

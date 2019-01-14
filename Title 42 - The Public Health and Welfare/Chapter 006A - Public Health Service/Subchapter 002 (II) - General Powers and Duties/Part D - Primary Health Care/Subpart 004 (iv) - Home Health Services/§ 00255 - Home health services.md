@@ -32,7 +32,7 @@
 
 (2) Any program established with a grant or contract under this subsection to train homemaker home health aides shall—
 
-&emsp;(A) extend for at least forty hours, and consist of classroom instruction and at leasttwenty hours (in the aggregate) of supervised clinical instruction directed toward preparing students to deliver home health services;
+&emsp;(A) extend for at least forty hours, and consist of classroom instruction and at least twenty hours (in the aggregate) of supervised clinical instruction directed toward preparing students to deliver home health services;
 
 &emsp;(B) be carried out under appropriate professional supervision and be designed to train students to maintain or enhance the personal care of an individual in his home in a manner which promotes the functional independence of the individual; and
 

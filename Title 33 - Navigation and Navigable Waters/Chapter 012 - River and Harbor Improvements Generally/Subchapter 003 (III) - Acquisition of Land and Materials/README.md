@@ -14,3 +14,4 @@
 - [&sect; 00596 - Repealed. Pub. L. 91&#8211;646, title III, &sect;306, Jan. 2, 1971, 84 Stat. 1907](%C2%A7%2000596%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93646%2C%20title%20III%2C%20%C2%A7306%2C%20Jan.%202%2C%201971%2C%2084%20Stat.%201907.md)
 - [&sect; 00597 - Acquisition of lands for water resource development projects; information as to probable timing for acquisition; public meetings&#8230;](%C2%A7%2000597%20-%20Acquisition%20of%20lands%20for%20water%20resource%20development%20projects%3B%20information%20as%20to%20probable%20timing%20for%20acquisition%3B%20public%20meetings%E2%80%A6.md)
 - [&sect; 00598 - Resettlement of displaced families, individuals, and business concerns](%C2%A7%2000598%20-%20Resettlement%20of%20displaced%20families%2C%20individuals%2C%20and%20business%20concerns.md)
+- [&sect; 00598a - Property acquisition](%C2%A7%2000598a%20-%20Property%20acquisition.md)

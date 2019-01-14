@@ -1,4 +1,4 @@
-### <b>CHAPTER 3 </b><b><sup>1</sup></b>—ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+### <b>CHAPTER 3—ORGANIZATION OF GENERAL SERVICES ADMINISTRATION</b>
 
 #### SUBCHAPTER I—GENERAL
 
@@ -17,7 +17,7 @@
 |  |  |
 | :--- | ---: |
 | [311\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000311%20-%20Personnel.md) | Personnel. |
-| [312\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000312%20-%20Repealed.%20Pub.%20L.%20111%E2%80%938%2C%20div.%20D%2C%20title%20V%2C%20%C2%A7518%28c%29%281%29%2C%20Mar.%2011%2C%202009%2C%20123%20Stat.%20665.md) | Transfer and use of amounts for major equipment acquisitions.<sup>2</sup> |
+| [312\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000312%20-%20Repealed.%20Pub.%20L.%20111%E2%80%938%2C%20div.%20D%2C%20title%20V%2C%20%C2%A7518%28c%29%281%29%2C%20Mar.%2011%2C%202009%2C%20123%20Stat.%20665.md) | Transfer and use of amounts for major equipment acquisitions.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -43,9 +43,7 @@
 
 <b>2002</b>—Pub. L. 107–347, title I, §102(a)(2), Dec. 17, 2002, 116 Stat. 2910, added item 305.
 
-<i><sup>1</sup></i><i> Another chapter 3 is set out in subtitle V of this title.</i>
-
-<i><sup>2</sup></i><i> Section repealed by Pub. L. 111–8 without corresponding amendment of chapter analysis.</i>
+<i><sup>1</sup></i><i> Section repealed by Pub. L. 111–8 without corresponding amendment of chapter analysis.</i>
 
 
 ---

@@ -34,7 +34,7 @@ An application for a stay under this section does not constitute an appearance f
 
 #### (2) Appointment of counsel when additional stay refused
 
-&emsp;If the court refuses to grant an additional stay of proceedings under paragraph (1), the court shall appoint counsel to represent the servicemember in the action or proceeding.
+&emsp;If the court refuses to grant an additional stay of proceedings under paragraph (1), thecourt shall appoint counsel to represent the servicemember in the action or proceeding.
 
 #### (e) Coordination with section 3931
 
@@ -59,6 +59,10 @@ A prior section 202 of act Oct. 17, 1940, ch. 888, art. II, 54 Stat. 1181, relat
 <b>2008</b>—Subsec. (a). Pub. L. 110–181 inserted ", including any child custody proceeding," after "civil action or proceeding" in introductory provisions.
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–454 inserted "plaintiff or" before "defendant" in introductory provisions.
+
+#### Effective Date
+
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under section 3901 of this title.
 
 #### Stay of Judicial Proceedings
 

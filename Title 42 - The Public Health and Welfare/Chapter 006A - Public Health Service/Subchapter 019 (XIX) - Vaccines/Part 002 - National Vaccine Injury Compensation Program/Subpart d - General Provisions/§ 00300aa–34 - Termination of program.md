@@ -32,7 +32,7 @@ The Secretary shall review the number of awards of compensation made under the p
 | 25th through the 27th month after December 22, 1987 | 338&nbsp;&nbsp; |
 | 28th through the 30th month after December 22, 1987 | 375&nbsp;&nbsp; |
 | 31st through the 33rd month after December 22, 1987 | 413&nbsp;&nbsp; |
-| 34th through the 36th month after December 22, 1987 | 450   |
+| 34th through the 36th month after December 22, 1987 | 450&nbsp;&nbsp; |
 | 37th through the 39th month after December 22, 1987 | 488&nbsp;&nbsp; |
 | 40th through the 42nd month after December 22, 1987 | 525&nbsp;&nbsp; |
 | 43rd through the 45th month after December 22, 1987 | 563&nbsp;&nbsp; |

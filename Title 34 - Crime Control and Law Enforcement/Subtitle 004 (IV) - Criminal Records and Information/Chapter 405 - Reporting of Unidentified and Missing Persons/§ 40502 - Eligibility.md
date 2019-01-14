@@ -8,7 +8,7 @@ To be eligible to receive a grant award under this chapter, a State shall submit
 
 Each such application shall include assurances that the State shall, to the greatest extent possible—
 
-&emsp;(1) report to the National Crime Information Center and when possible, to law enforcement authorities throughout the State regarding every deceased unidentified person, regardless of age, found in the State's jurisdiction;
+&emsp;(1) report to the National Crime Information Center and when possible, to law enforcementauthorities throughout the State regarding every deceased unidentified person, regardless of age, found in the State's jurisdiction;
 
 &emsp;(2) enter a complete profile of such unidentified person in compliance with the guidelines established by the Department of Justice for the National Crime Information Center Missing and Unidentified Persons File, including dental records, DNA records, x-rays, and fingerprints, if available;
 

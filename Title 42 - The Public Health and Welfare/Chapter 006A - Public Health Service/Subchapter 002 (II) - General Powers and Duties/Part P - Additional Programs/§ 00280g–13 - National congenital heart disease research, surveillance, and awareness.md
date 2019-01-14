@@ -1,0 +1,66 @@
+### §280g–13. National congenital heart disease research, surveillance, and awareness
+
+#### (a) In general
+
+The Secretary shall, as appropriate—
+
+&emsp;(1) enhance and expand research and data collection efforts related to congenital heart disease, including to study and track the epidemiology of congenital heart disease to understand health outcomes for individuals with congenital heart disease across all ages;
+
+&emsp;(2) conduct activities to improve public awareness of, and education related to, congenital heart disease, including care of individuals with such disease; and
+
+&emsp;(3) award grants to entities to undertake the activities described in this section.
+
+#### (b) Activities
+
+#### (1) In general
+
+&emsp;The Secretary shall carry out activities, including, as appropriate, through a national cohort study and a nationally-representative, population-based surveillance system, to improve the understanding of the epidemiology of congenital heart disease in all age groups, with particular attention to—
+
+&emsp;&emsp;(A) the incidence and prevalence of congenital heart disease in the United States;
+
+&emsp;&emsp;(B) causation and risk factors associated with, and natural history of, congenital heart disease;
+
+&emsp;&emsp;(C) health care utilization by individuals with congenital heart disease;
+
+&emsp;&emsp;(D) demographic factors associated with congenital heart disease, such as age, race, ethnicity, sex, and family history of individuals who are diagnosed with the disease; and
+
+&emsp;&emsp;(E) evidence-based practices related to care and treatment for individuals with congenital heart disease.
+
+#### (2) Permissible considerations
+
+&emsp;In carrying out the activities under this section, the Secretary may, as appropriate—
+
+&emsp;&emsp;(A) collect data on the health outcomes, including behavioral and mental health outcomes, of a diverse population of individuals of all ages with congenital heart disease, such that analysis of the outcomes will inform evidence-based practices for individuals with congenital heart disease; and
+
+&emsp;&emsp;(B) consider health disparities among individuals with congenital heart disease, which may include the consideration of prenatal exposures.
+
+#### (c) Awareness campaign
+
+The Secretary may carry out awareness and educational activities related to congenital heart disease in individuals of all ages, which may include information for patients, family members, and health care providers, on topics such as the prevalence of such disease, the effect of such disease on individuals of all ages, and the importance of long-term, specialized care for individuals with such disease.
+
+#### (d) Public access
+
+The Secretary shall ensure that, subject to subsection (e), information collected under this section is made available, as appropriate, to the public, including researchers.
+
+#### (e) Patient privacy
+
+The Secretary shall ensure that the data and information collected under this section are made available in a manner that, at a minimum, protects personal privacy to the extent required by applicable Federal and State law.
+
+#### (f) Eligibility for grants
+
+To be eligible to receive a grant under subsection (a)(3), an entity shall—
+
+&emsp;(1) be a public or private nonprofit entity with specialized experience in congenital heart disease; and
+
+&emsp;(2) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+#### (g) Authorization of appropriations
+
+To carry out this section, there are authorized to be appropriated $10,000,000 for each of fiscal years 2020 through 2024.
+
+(July 1, 1944, ch. 373, title III, §399V–2, as added Pub. L. 111–148, title X, §10411(b)(1), Mar. 23, 2010, 124 Stat. 988; amended Pub. L. 115–342, §2, Dec. 21, 2018, 132 Stat. 5040.)
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–342 amended section generally. Prior to amendment, section related to National Congenital Heart Disease Surveillance System.
+

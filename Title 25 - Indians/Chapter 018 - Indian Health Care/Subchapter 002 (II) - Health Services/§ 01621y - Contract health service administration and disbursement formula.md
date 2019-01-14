@@ -6,7 +6,7 @@ As soon as practicable after March 23, 2010, the Comptroller General of the Unit
 
 #### (b) Consultation with tribes
 
-On receipt of the report under subsection (a), the Secretary shall consult with Indian tribes regarding the contract health service program, including the distribution of funds pursuant to the program—
+On receipt of the report under subsection (a), the Secretary shall consult with Indian tribesregarding the contract health service program, including the distribution of funds pursuant to the program—
 
 &emsp;(1) to determine whether the current distribution formula would require modification if the contract health service program were funded at the level recommended by the Comptroller General;
 

@@ -56,7 +56,7 @@ Baseline report.—The first Major Program Annual Report for each major program 
 
 &emsp;&emsp;(A) the purposes of the program and key technical characteristics necessary to fulfill those purposes;
 
-&emsp;&emsp;(B) an estimate of the life-cycle cost for the program, with a detailed breakout of thedevelopment cost, program reserves, and an estimate of the annual costs until development is completed;
+&emsp;&emsp;(B) an estimate of the life-cycle cost for the program, with a detailed breakout of the development cost, program reserves, and an estimate of the annual costs until development is completed;
 
 &emsp;&emsp;(C) the schedule for development, including key program milestones;
 
@@ -114,7 +114,7 @@ Determination, report, and initiation of analysis.—Not later than 30 days afte
 
 &emsp;(2)
 
-Completion of analysis and transmittal to committees.—The Administration shall complete an analysis initiated under paragraph (1)(B) not later than 6 months after the Administrator makes a determination under this subsection. The Administrator shall transmit the analysis to the Committee on Science and Technology of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate not later than 30 days after its completion.
+Completion of analysis and transmittal to committees.—The Administration shall complete an analysis initiated under paragraph (1)(B) not later than 6 months after the Administrator makes a determination under this subsection. The Administrator shalltransmit the analysis to the Committee on Science and Technology of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate not later than 30 days after its completion.
 
 (f)
 

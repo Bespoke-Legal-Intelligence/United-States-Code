@@ -18,7 +18,7 @@
 
 #### (1) Review in State courts
 
-&emsp;The Secretary may obtain review of any determination made in any proceeding described in subsection (a)(1) in the appropriate State court if the Secretary intervened or otherwise participated in the original proceeding or if State law otherwise permits such review.
+&emsp;The Secretary may obtain review of any determination made in any proceeding described in subsection (a)(1) in the appropriate State court if the Secretary intervened or otherwiseparticipated in the original proceeding or if State law otherwise permits such review.
 
 #### (2) Participation as amicus curiae
 

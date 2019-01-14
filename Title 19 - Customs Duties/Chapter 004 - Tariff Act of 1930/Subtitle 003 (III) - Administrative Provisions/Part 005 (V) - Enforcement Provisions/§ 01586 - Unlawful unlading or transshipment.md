@@ -14,7 +14,7 @@ The master of any vessel from a foreign port or place, or of a hovering vessel w
 
 #### (d) Liability of master of receiving vessel in unlawful transshipment
 
-If any merchandise (including sea stores) unladen in violation of the provisions of this section is transshipped to or placed in or received on any other vessel, the master of the vessel on which such merchandise is placed, and any person aiding or assisting therein, shall be liable to a penalty equal to twice the value of the merchandise, but not less than $10,000, and such vessel, and its cargo and such merchandise, shall be seized and forfeited.
+If any merchandise (including sea stores) unladen in violation of the provisions of this section is transshipped to or placed in or receivedon any other vessel, the master of the vessel on which such merchandise is placed, and any person aiding or assisting therein, shall be liable to a penalty equal to twice the value of the merchandise, but not less than $10,000, and such vessel, and its cargo and such merchandise, shall be seized and forfeited.
 
 #### (e) Imprisonment of persons aiding in unlawful unlading or transshipment
 

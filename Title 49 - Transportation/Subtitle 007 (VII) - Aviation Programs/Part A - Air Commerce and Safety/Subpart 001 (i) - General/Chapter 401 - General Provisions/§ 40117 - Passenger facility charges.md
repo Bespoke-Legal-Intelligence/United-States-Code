@@ -24,7 +24,7 @@ Eligible airport-related project.—The term "eligible airport-related project" 
 
 &emsp;&emsp;(D) A project for airport noise capability planning under section 47505.
 
-&emsp;&emsp;(E) A project to carry out noise compatibility measures eligible for assistance undersection 47504, whether or not a program for those measures has been approved under section 47504.
+&emsp;&emsp;(E) A project to carry out noise compatibility measures eligible for assistance under section 47504, whether or not a program for those measures has been approved under section 47504.
 
 &emsp;&emsp;(F) A project for constructing gates and related areas at which passengers board or exit aircraft. In the case of a project required to enable additional air service by an air carrier with less than 50 percent of the annual passenger boardings at an airport, the project for constructing gates and related areas may include structural foundations and floor systems, exterior building walls and load-bearing interior columns or walls, windows, door and roof systems, building utilities (including heating, air conditioning, ventilation, plumbing, and electrical service), and aircraft fueling facilities adjacent to the gate.
 
@@ -36,7 +36,7 @@ Ground support equipment.—The term "ground support equipment" means service an
 
 &emsp;(5)
 
-Passenger facility charge.—The term "passenger facility charge" means a charge or charge <sup>1</sup> imposed under this section.
+Passenger facility charge.—The term "passenger facility charge" means a charge imposed under this section.
 
 &emsp;(6)
 
@@ -50,11 +50,7 @@ General Authority.—(1) The Secretary of Transportation may authorize under thi
 
 (3) A passenger facility charge may be imposed on a passenger of an air carrier or foreign air carrier originating or connecting at the commercial service airport that the agency controls.
 
-(4) In lieu of authorizing a charge under paragraph (1), the Secretary may authorize under this section an eligible agency to impose a passenger facility charge of $4.00 or $4.50 on each paying passenger of an air carrier or foreign air carrier boarding an aircraft at an airport the agency controls to finance an eligible airport-related project, including making payments for debt service on indebtedness incurred to carry out the project, if the Secretary finds—
-
-&emsp;(A) in the case of an airport that has more than .25 percent of the total number of annual boardings in the United States, that the project will make a significant contribution to improving air safety and security, increasing competition among air carriers, reducing current or anticipated congestion, or reducing the impact of aviation noise on people living near the airport; and
-
-&emsp;(B) that the project cannot be paid for from funds reasonably expected to be available for the programs referred to in section 48103.
+(4) In lieu of authorizing a charge under paragraph (1), the Secretary may authorize under this section an eligible agency to impose a passenger facility charge of $4.00 or $4.50 on each paying passenger of an air carrier or foreign air carrier boarding an aircraft at an airport the agency controls to finance an eligible airport-related project, including making payments for debt service on indebtedness incurred to carry out the project.
 
 (5)
 
@@ -74,7 +70,7 @@ In general.—In addition to the uses specified in paragraphs (1), (4), and (6),
 
 &emsp;&emsp;(i) the Secretary determines that the building is adversely affected by airport noise;
 
-&emsp;&emsp;(ii) the building is owned or chartered by the school district that was the plaintiff incase number 986,442 or 986,446, which was resolved by such judgment and final order;
+&emsp;&emsp;(ii) the building is owned or chartered by the school district that was the plaintiff in case number 986,442 or 986,446, which was resolved by such judgment and final order;
 
 &emsp;&emsp;(iii) the project is for a school identified in 1 of the settlement agreements effective February 16, 2005, between the airport and each of the school districts;
 
@@ -230,11 +226,11 @@ Secretary shall ensure implementation and compliance.—The Secretary shall revi
 
 (l)
 
-Pilot Program for Passenger Facility Charge Authorizations at Nonhub Airports.—
+Pilot Program for Passenger Facility Charge Authorizations.—
 
 &emsp;(1)
 
-In general.—The Secretary shall establish a pilot program to test alternative procedures for authorizing eligible agencies for nonhub airports to impose passenger facility charges. An eligible agency may impose in accordance with the provisions of this subsection a passenger facility charge under this section. For purposes of the pilot program, the procedures in this subsection shall apply instead of the procedures otherwise provided in this section.
+In general.—The Secretary shall establish a pilot program to test alternative procedures for authorizing eligible agencies for airports to impose passenger facility charges. An eligible agency may impose in accordance with the provisions of this subsection a passenger facility charge under this section. For purposes of the pilot program, the procedures in this subsection shall apply instead of the procedures otherwise provided in this section.
 
 &emsp;(2)
 
@@ -260,7 +256,7 @@ Authority to impose charge.—Unless the Secretary objects within 30 days after 
 
 &emsp;(6)
 
-Regulations.—Not later than 180 days after the date of enactment of this subsection, the Secretary shall propose such regulations as may be necessary to carry out this subsection.
+Regulations.—The Secretary shall propose such regulations as may be necessary to carry out this subsection.
 
 &emsp;(7)
 
@@ -306,7 +302,7 @@ Use of Revenues at Previously Associated Airport.—Notwithstanding the requirem
 
 &emsp;(2) the location of the project to be financed by the new charge is at an airport that was under the control of the same eligible agency that had controlled the airport described in paragraph (1).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88; Pub. L. 108–176, title I, §§121(a)–(c), 122–123(d), 124, Dec. 12, 2003, 117 Stat. 2499–2502; Pub. L. 110–253, §3(c)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(a), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 110–337, §1, Oct. 2, 2008, 122 Stat. 3729; Pub. L. 111–12, §5(a), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(a), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(a), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(a), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(a), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(a), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(a), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(a), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(a), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(a), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(a), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(a), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(a), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(a), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §§111(a)–(c)(1), 152(e)(1), Feb. 14, 2012, 126 Stat. 17, 18, 34; Pub. L. 114–190, title II, §2302, July 15, 2016, 130 Stat. 638.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88; Pub. L. 108–176, title I, §§121(a)–(c), 122–123(d), 124, Dec. 12, 2003, 117 Stat. 2499–2502; Pub. L. 110–253, §3(c)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(a), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 110–337, §1, Oct. 2, 2008, 122 Stat. 3729; Pub. L. 111–12, §5(a), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(a), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(a), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(a), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(a), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(a), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(a), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(a), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(a), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(a), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(a), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(a), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(a), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(a), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §§111(a)–(c)(1), 152(e)(1), Feb. 14, 2012, 126 Stat. 17, 18, 34; Pub. L. 114–190, title II, §2302, July 15, 2016, 130 Stat. 638; Pub. L. 115–254, div. B, title I, §121, div. B, title V, §539(b), Oct. 5, 2018, 132 Stat. 3201, 3370.)
 
 Historical and Revision Notes
 
@@ -436,9 +432,23 @@ This repeals 49:40117(e)(2)(C) to eliminate an executed provision and makes conf
 
 The date of the enactment of this subsection, referred to in subsec. (k)(1), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
 
-The date of enactment of this subsection, referred to in subsecs. (l)(6) and (m)(7), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
+The date of enactment of this subsection, referred to in subsec. (m)(7), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(5). Pub. L. 115–254, §539(b), substituted "charge imposed" for "charge or charge imposed".
+
+Subsec. (b)(4). Pub. L. 115–254, §121(a), substituted "project." for "project, if the Secretary finds—" and struck out subpars. (A) and (B) which read as follows:
+
+"(A) in the case of an airport that has more than .25 percent of the total number of annual boardings in the United States, that the project will make a significant contribution to improving air safety and security, increasing competition among air carriers, reducing current or anticipated congestion, or reducing the impact of aviation noise on people living near the airport; and
+
+"(B) that the project cannot be paid for from funds reasonably expected to be available for the programs referred to in section 48103."
+
+Subsec. (l). Pub. L. 115–254, §121(b)(1), struck out "at Nonhub Airports" after "Authorizations" in heading.
+
+Subsec. (l)(1). Pub. L. 115–254, §121(b)(2), struck out "nonhub" before "airports".
+
+Subsec. (l)(6). Pub. L. 115–254, §121(b)(3), substituted "The" for "Not later than 180 days after the date of enactment of this subsection, the".
 
 <b>2016</b>—Subsec. (n). Pub. L. 114–190 added subsec. (n).
 
@@ -624,7 +634,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Guidance
 
@@ -651,6 +661,4 @@ Pub. L. 106–181, title I, §155(a), Apr. 5, 2000, 114 Stat. 88, provided that:
 #### Limitation on Statutory Construction of Subsection (e)(2)(D)
 
 Pub. L. 103–305, title II, §204(a)(2), Aug. 23, 1994, 108 Stat. 1583, provided that: "The amendment made by paragraph (1) \[amending this section\] shall not be construed as requiring any person to refund any fee paid before the date of the enactment of this Act \[Aug. 23, 1994\]."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "fee".</i>
 

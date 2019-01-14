@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-In order to assure the preservation, conservation, and protection of the natural, scenic, and recreational values of a significant portion of the Big Thicket area in the State of Texas and to provide for the enhancement and public enjoyment thereof, the Big Thicket National Preserve is hereby established.
+In order to assure the preservation, conservation, and protection of the natural, scenic, andrecreational values of a significant portion of the Big Thicket area in the State of Texas and to provide for the enhancement and public enjoyment thereof, the Big Thicket National Preserve is hereby established.
 
 #### (b) Location; boundaries; publication in Federal Register
 

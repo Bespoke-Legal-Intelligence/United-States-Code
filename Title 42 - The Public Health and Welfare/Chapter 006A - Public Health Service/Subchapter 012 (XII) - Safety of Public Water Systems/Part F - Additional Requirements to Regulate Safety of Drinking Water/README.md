@@ -9,6 +9,6 @@ Part F—Additional Requirements To Regulate Safety of Drinking Water
 - [&sect; 00300j&#8211;22 - Recall of drinking water coolers with lead-lined tanks](%C2%A7%2000300j%E2%80%9322%20-%20Recall%20of%20drinking%20water%20coolers%20with%20lead-lined%20tanks.md)
 - [&sect; 00300j&#8211;23 - Drinking water coolers containing lead](%C2%A7%2000300j%E2%80%9323%20-%20Drinking%20water%20coolers%20containing%20lead.md)
 - [&sect; 00300j&#8211;24 - Lead contamination in school drinking water](%C2%A7%2000300j%E2%80%9324%20-%20Lead%20contamination%20in%20school%20drinking%20water.md)
-- [&sect; 00300j&#8211;25 - Repealed. Pub. L. 114&#8211;322, title II, &sect;2107(b), Dec. 16, 2016, 130 Stat. 1728](%C2%A7%2000300j%E2%80%9325%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93322%2C%20title%20II%2C%20%C2%A72107%28b%29%2C%20Dec.%2016%2C%202016%2C%20130%20Stat.%201728.md)
+- [&sect; 00300j&#8211;25 - Drinking water fountain replacement for schools](%C2%A7%2000300j%E2%80%9325%20-%20Drinking%20water%20fountain%20replacement%20for%20schools.md)
 - [&sect; 00300j&#8211;26 - Certification of testing laboratories](%C2%A7%2000300j%E2%80%9326%20-%20Certification%20of%20testing%20laboratories.md)
 - [&sect; 00300j&#8211;27 - Registry for lead exposure and Advisory Committee](%C2%A7%2000300j%E2%80%9327%20-%20Registry%20for%20lead%20exposure%20and%20Advisory%20Committee.md)

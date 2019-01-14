@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;Funds obtained by, transferred to, or credited to the Financial Research Fund shall be immediately available to the Office, and shall remain available until expended, to pay the expenses of the Office in carrying out the duties and responsibilities of the Office.
+&emsp;Funds obtained by, transferred to, or credited to the Financial Research Fund shall beimmediately available to the Office, and shall remain available until expended, to pay the expenses of the Office in carrying out the duties and responsibilities of the Office.
 
 #### (2) Fees, assessments, and other funds not Government funds
 
@@ -44,9 +44,31 @@ During the 2-year period following July 21, 2010, the Board of Governors shall p
 
 #### (d) Permanent self-funding
 
-Beginning 2 years after July 21, 2010, the Secretary shall establish, by regulation, and with the approval of the Council, an assessmentschedule, including the assessment base and rates, applicable to bank holding companies with total consolidated assets of $50,000,000,000 or greater and nonbank financial companies supervised by the Board of Governors, that takes into account differences among such companies, based on the considerations for establishing the prudential standards under section 5325 of this title, to collect assessments equal to the total expenses of the Office.
+Beginning 2 years after July 21, 2010, the Secretary shall establish, by regulation, and with the approval of the Council, an assessment schedule, including the assessment base and rates, applicable to bank holding companies with total consolidated assets of $$250,000,000,000 <sup>2</sup> or greater and nonbank financial companies supervised by the Board of Governors, that takes into account differences among such companies, based on the considerations for establishing the prudential standards under section 5325 of this title, to collect assessments equal to the total expenses of the Office.
 
-(Pub. L. 111–203, title I, §155, July 21, 2010, 124 Stat. 1418.)
+(Pub. L. 111–203, title I, §155, July 21, 2010, 124 Stat. 1418; Pub. L. 115–174, title IV, §401(c)(1)(D), May 24, 2018, 132 Stat. 1358.)
+
+#### Delayed Effective Date of Amendment
+
+<i>For delayed effective date of amendment by Pub. L. 115–174, except with respect to certain bank holding companies, see Effective Date of 2018 Amendment note set out under section 5365 of this title.</i>
+
+#### Codification
+
+Amendment by Pub. L. 115–174 was executed to subsec. (d) of this section as it appeared in the enrolled bill for H.R. 4173 (111th Congress, 2d session), which contained the text "$50,000,000,000". As published in the Statutes at Large for Pub. L. 111–203, text appeared as "50,000,000,000".
+
+#### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–174 substituted "$250,000,000,000" for "50,000,000,000". See Codification note above.
+
+#### Effective Date of 2018 Amendment
+
+Except as otherwise provided, amendment by Pub. L. 115–174 effective 18 months after May 24, 2018, see section 401(d) of Pub. L. 115–174, set out as a note under section 5365 of this title.
+
+#### Construction of 2018 Amendment
+
+For construction of amendment by Pub. L. 115–174 as applied to certain foreign banking organizations, see section 401(g) of Pub. L. 115–174, set out as a note under section 5365 of this title.
 
 <i><sup>1</sup></i><i> So in original. Comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> See Codification and 2018 Amendment notes below.</i>
 

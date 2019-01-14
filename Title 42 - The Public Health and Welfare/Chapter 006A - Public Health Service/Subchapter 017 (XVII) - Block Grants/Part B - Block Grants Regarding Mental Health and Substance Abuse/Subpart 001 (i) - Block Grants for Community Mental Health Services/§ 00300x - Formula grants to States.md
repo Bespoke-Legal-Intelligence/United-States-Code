@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose described in subsection (b), the Secretary, acting through the Director of the Center for Mental Health Services, shall make an allotment each fiscal year for each State in an amount determined in accordance with section 300x–7 of this title. The Secretary shall make a grant to the State of the allotment made for the State for the fiscal year if the State submits to the Secretary an application in accordance with section 300x–6 of this title.
+For the purpose described in subsection (b), the Secretary, acting through the Director of the Center for Mental Health Services, shall make an allotment each fiscal year for each State in an amount determined in accordance with section 300x–7 of this title. The Secretary shall make a grant to the State of the allotmentmade for the State for the fiscal year if the State submits to the Secretary an application in accordance with section 300x–6 of this title.
 
 #### (b) Purpose of grants
 
@@ -20,7 +20,7 @@ A funding agreement for a grant under subsection (a) is that, subject to section
 
 #### Prior Provisions
 
-A prior section 300x, act July 1, 1944, ch. 373, title XIX, §1911, as added Aug. 13, 1981, Pub. L. 97–35, title IX,§901, 95 Stat. 543; amended Oct. 19, 1984, Pub. L. 98–509, title I, §§101, 106(a), 98 Stat. 2353, 2358; Nov. 18, 1988, Pub. L. 100–690, title II, §2021, 102 Stat. 4194, authorized appropriations in fiscal years 1990 and 1991 for purpose of carrying out this subpart and section 290aa–11 of this title, prior to repeal by Pub. L. 102–321, §201(2).
+A prior section 300x, act July 1, 1944, ch. 373, title XIX, §1911, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 543; amended Oct. 19, 1984, Pub. L. 98–509, title I, §§101, 106(a), 98 Stat. 2353, 2358; Nov. 18, 1988, Pub. L. 100–690, title II, §2021, 102 Stat. 4194, authorized appropriations in fiscal years 1990 and 1991 for purpose of carrying out this subpart and section 290aa–11 of this title, prior to repeal by Pub. L. 102–321, §201(2).
 
 #### Amendments
 

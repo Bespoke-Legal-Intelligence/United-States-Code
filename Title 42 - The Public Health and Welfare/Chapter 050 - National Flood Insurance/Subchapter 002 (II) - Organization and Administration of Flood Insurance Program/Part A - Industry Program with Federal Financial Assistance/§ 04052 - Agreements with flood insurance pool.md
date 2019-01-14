@@ -10,7 +10,7 @@ Such agreements shall specify—
 
 &emsp;(1) the terms and conditions under which risk capital will be available for the adjustment and payment of claims,
 
-&emsp;(2) the terms and conditions under which the pool (and the companies and other insurers participating therein) shall participate in premiums received and profits or losses realized or sustained,
+&emsp;(2) the terms and conditions under which the pool (and the companies and other insurersparticipating therein) shall participate in premiums received and profits or losses realized or sustained,
 
 &emsp;(3) the maximum amount of profit, established by the Administrator and set forth in the schedules prescribed under section 4018 of this title, which may be realized by such pool (and the companies and other insurers participating therein),
 

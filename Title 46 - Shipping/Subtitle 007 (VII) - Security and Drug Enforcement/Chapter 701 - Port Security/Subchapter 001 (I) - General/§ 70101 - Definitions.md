@@ -4,23 +4,31 @@ For the purpose of this chapter:
 
 &emsp;(1) The term "Area Maritime Transportation Security Plan" means an Area Maritime Transportation Security Plan prepared under section 70103(b).
 
-&emsp;(2) The term "facility" means any structure or facility of any kind located in, on, under, or adjacent to any waters subject to the jurisdiction of the United States.
+&emsp;(2) The term "cybersecurity risk" has the meaning given the term in section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148).<sup>1</sup>
 
-&emsp;(3) The term "National Maritime Transportation Security Plan" means the National Maritime Transportation Security Plan prepared and published under section 70103(a).
+&emsp;(3) The term "facility" means any structure or facility of any kind located in, on, under, or adjacent to any waters subject to the jurisdiction of the United States.
 
-&emsp;(4) The term "owner or operator" means—
+&emsp;(4) The term "National Maritime Transportation Security Plan" means the National Maritime Transportation Security Plan prepared and published under section 70103(a).
+
+&emsp;(5) The term "owner or operator" means—
 
 &emsp;&emsp;(A) in the case of a vessel, any person owning, operating, or chartering by demise, such vessel; and
 
 &emsp;&emsp;(B) in the case of a facility, any person owning, leasing, or operating such facility.
 
-&emsp;(5) The term "Secretary" means the Secretary of the department in which the Coast Guard is operating.
+&emsp;(6) The term "Secretary" means the Secretary of the department in which the Coast Guard is operating.
 
-&emsp;(6) The term "transportation security incident" means a security incident resulting in a significant loss of life, environmental damage, transportation system disruption, or economic disruption in a particular area. In this paragraph, the term "economic disruption" does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute.
+&emsp;(7) The term "transportation security incident" means a security incident resulting in a significant loss of life, environmental damage, transportation system disruption, or economic disruption in a particular area. In this paragraph, the term "economic disruption" does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2068; amended Pub. L. 109–347, title I, §124, Oct. 13, 2006, 120 Stat. 1900.)
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2068; amended Pub. L. 109–347, title I, §124, Oct. 13, 2006, 120 Stat. 1900; Pub. L. 115–254, div. J, §1805(b), Oct. 5, 2018, 132 Stat. 3534.)
+
+#### References in Text
+
+Section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148), referred to in par. (2), was originally section 226 of title II of Pub. L. 107–296, as added Pub. L. 113–282,§3(a), Dec. 18, 2014, 128 Stat. 3066; renumbered §227 and amended Pub. L. 114–113, div. N, title II, §§203, 223(a)(3), Dec. 18, 2015, 129 Stat. 2957, 2963; Pub. L. 114–328, div. A, title XVIII, §1841(b), Dec. 23, 2016, 130 Stat. 2663, and was renumbered title XXII, §2209 of Pub. L. 107–296 by Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178, and transferred to section 659 of Title 6, Domestic Security.
 
 #### Amendments
+
+<b>2018</b>—Pars. (2) to (7). Pub. L. 115–254 added par. (2) and redesignated former pars. (2) to (6) as (3) to (7), respectively.
 
 <b>2006</b>—Par. (6). Pub. L. 109–347 inserted at end "In this paragraph, the term 'economic disruption' does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute."
 
@@ -39,6 +47,14 @@ Initiation of rulemaking.—The Secretary may initiate a rulemaking to implement
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Maritime Border Security Cooperation
+
+Pub. L. 115–254, div. J, §1814, Oct. 5, 2018, 132 Stat. 3540, provided that: "The Secretary of the department in which the Coast Guard is operating shall, in accordance with law—
+
+&emsp;"(1) partner with other Federal, State, and local government agencies to leverage existing technology, including existing sensor and camera systems and other sensors, in place along the maritime border to facilitate monitoring of high-risk maritime borders, as determined by the Secretary; and
+
+&emsp;"(2) subject to the availability of appropriations, enter into such agreements as the Secretary considers necessary to ensure the monitoring described in paragraph (1)."
 
 #### Integrated Cross-Border Maritime Law Enforcement Operations Between the United States and Canada
 
@@ -106,7 +122,7 @@ Matters to be included.—The study conducted under this subsection shall includ
 
 &emsp;&emsp;&emsp;"(i) the number of ports in which State and local law enforcement entities are providing any services to enforce Coast Guard-imposed security zones around vessels transiting to, through, or from United States ports or to conduct security patrols in United States ports;
 
-&emsp;&emsp;&emsp;"(ii) the number of formal agreements entered into between the Coast Guard and State and local law enforcement entities to engage State and local law enforcement entities in the enforcement of Coast Guard-imposed security zones around vessels transiting to, through, or from United States ports or the conduct of port security patrols in United States ports, the duration of those agreements, and the aid that State and local entities are engaged to provide through such agreements;
+&emsp;&emsp;&emsp;"(ii) the number of formal agreements entered into between the Coast Guard and State and locallaw enforcement entities to engage State and local law enforcement entities in the enforcement of Coast Guard-imposed security zones around vessels transiting to, through, or from United States ports or the conduct of port security patrols in United States ports, the duration of those agreements, and the aid that State and local entities are engaged to provide through such agreements;
 
 &emsp;&emsp;&emsp;"(iii) the extent to which the Coast Guard has set national standards for training, equipment, and resources to ensure that State and local law enforcement entities engaged in enforcing Coast Guard-imposed security zones around vessels transiting to, through, or from United States ports or in conducting port security patrols in United States ports (or both) can deter to the maximum extent practicable a transportation security incident;
 
@@ -224,7 +240,7 @@ Pub. L. 108–293, title VIII, §809(g), (i), formerly §809(g)–(i), (k), Aug.
 
 "(g)
 
-Compliance With Security Standards Established Pursuant to Maritime Transportation Security Plans.—Within 180 days after the date of the enactment of this Act \[Aug. 9, 2004\] and annually thereafter, the Secretary of the department in which the Coast Guard is operating shall prepare a report on compliance and steps taken to ensure compliance by ports, terminals, vessel operators, and shippers with security standards established pursuant to section 70103 of title 46, United States Code. The reports shall also include a summary of security standards established pursuant tosuch section during the previous year. The Secretary shall submit the reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+Compliance With Security Standards Established Pursuant to Maritime Transportation Security Plans.—Within 180 days after the date of the enactment of this Act \[Aug. 9, 2004\] and annually thereafter, the Secretary of the department in which the Coast Guard is operating shall prepare a report on compliance and steps taken to ensure compliance by ports, terminals, vessel operators, and shippers with security standards established pursuant to section 70103 of title 46, United States Code. The reports shall also include a summary of security standards established pursuant to such section during the previous year. The Secretary shall submit the reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 \[(h) Repealed. Pub. L. 113–284, §2(a)(1), Dec. 18, 2014, 128 Stat. 3089.\]
 
@@ -310,7 +326,7 @@ Secretary to consult on standards.—In developing standards under this section,
 
 Minimum Standards.—The standards established by the Secretary under subsection (a) shall include the following elements:
 
-&emsp;"(1) The training and certification of maritime security professionals in accordance with accepted lawenforcement and security guidelines, policies, and procedures, including, as appropriate, recommendations for incorporating a background check process for personnel trained and certified in foreign ports.
+&emsp;"(1) The training and certification of maritime security professionals in accordance with accepted law enforcement and security guidelines, policies, and procedures, including, as appropriate, recommendations for incorporating a background check process for personnel trained and certified in foreign ports.
 
 &emsp;"(2) The training of students and instructors in all aspects of prevention, detection, investigation, and reporting of criminal activities in the international maritime environment.
 
@@ -354,7 +370,17 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 Pub. L. 107–295, title I, §110(b), Nov. 25, 2002, 116 Stat. 2091, provided that: "The Commandant of the United States Coast Guard, in conjunction with the Secretary of the Navy, shall submit to Congress a report, at the time they submit their fiscal year 2005 budget, on the life cycle costs and benefits of creating a Center for Coastal and Maritime Security. The purpose of the Center would be to provide an integrated training complex to prevent and mitigate terrorist threats against coastal and maritime assets of the United States, including ports, harbors, ships, dams, reservoirs, and transport nodes."
 
+#### Performance Standards
+
+Pub. L. 107–295, title I, §111, Nov. 25, 2002, 116 Stat. 2092, provided that: "Not later than January 1, 2004, the Secretary of the department in which the Coast Guard is operating, in consultation with the Transportation Security Oversight Board, shall—
+
+&emsp;"(1) develop and maintain an antiterrorism cargo identification, tracking, and screening system for containerized cargo shipped to and from the United States either directly or via a foreign port; and
+
+&emsp;"(2) develop performance standards to enhance the physical security of shipping containers, including standards for seals and locks."
+
 #### Report on Foreign-flag Vessels
 
-Pub. L. 107–295, title I, §112, Nov. 25, 2002, 116 Stat. 2092, which required the Secretary of the department in which the Coast Guard is operating to provide an annual report regarding all nations whose flag vessels have entered United States ports in the previous year, a separate list of those nations whose registered flag vessels present certain irregularities, actions taken to improve transparency and security of vessel registration procedures in those nations, and recommendations for legislative or other actions to improve security of United States ports, was repealed by Pub. L. 111–207, §4(a)(2), July 27, 2010, 124 Stat. 2251.
+Pub. L. 107–295, title I, §112, Nov. 25, 2002, 116 Stat. 2092, which required the Secretary of the department in which the Coast Guard is operating to provide an annual report regarding all nations whose flag vessels have entered United States ports in the previous year,a separate list of those nations whose registered flag vessels present certain irregularities, actions taken to improve transparency and security of vessel registration procedures in those nations, and recommendations for legislative or other actions to improve security of United States ports, was repealed by Pub. L. 111–207, §4(a)(2), July 27, 2010, 124 Stat. 2251.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

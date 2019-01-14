@@ -466,7 +466,7 @@ Reporting requirement.—Not later than 3 years after the date on which a grante
 
 &emsp;"(5)
 
-Report.—The Secretary shall make publicly available an annual report on this subsection for eachfiscal year, not later than December 31 of the calendar year in which that fiscal year ends. The report shall include a detailed description of the activities carried out under this subsection, and evaluation of the program including the evaluation of the data reported in paragraph (4).
+Report.—The Secretary shall make publicly available an annual report on this subsection for each fiscal year, not later than December 31 of the calendar year in which that fiscal year ends. The report shall include a detailed description of the activities carried out under this subsection, and evaluation of the program including the evaluation of the data reported in paragraph (4).
 
 "(d)
 

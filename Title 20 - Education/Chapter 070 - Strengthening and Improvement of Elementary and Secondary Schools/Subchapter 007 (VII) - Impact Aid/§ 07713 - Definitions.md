@@ -100,7 +100,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) was designated by treaty as tribal land; or
 
-&emsp;&emsp;&emsp;&emsp;(II) satisfied the definition of Federal property under section 403(1)(A) of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994).
+&emsp;&emsp;&emsp;&emsp;(II) satisfied the definition of Federal property under section 403(1)(A) of theAct of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994).
 
 #### (6) Free public education
 

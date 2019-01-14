@@ -38,7 +38,7 @@ The time of sale shall not be less than 10 days nor more than 40 days from the t
 
 #### (D) Release to owner in other cases
 
-&emsp;&emsp;If, at the sale, the property is not declared sold under subparagraph (B) or (C), the property shall be released to the owner thereof and the expense of the levy and sale shall be added to the amount of tax for the collection of which the levy was made. Any property released under this subparagraph shall remain subject to any lien imposed by subchapter C.
+&emsp;&emsp;If, at the sale, the property is not declared sold under subparagraph (B) or (C), the property shall be released to the owner thereof and the expense of the levy and sale shall beadded to the amount of tax for the collection of which the levy was made. Any property released under this subparagraph shall remain subject to any lien imposed by subchapter C.
 
 #### (2) Additional rules applicable to sale
 

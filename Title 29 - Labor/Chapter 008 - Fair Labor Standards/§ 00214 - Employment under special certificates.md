@@ -74,7 +74,7 @@ The Secretary, to the extent necessary in order to prevent curtailment of opport
 
 &emsp;(B) wages paid in accordance with paragraph (1) will be adjusted by the employer at periodic intervals, at least once each year, to reflect changes in the prevailing wage paid to experienced nonhandicapped individuals employed in the locality for essentially the same type of work.
 
-(3) Notwithstanding paragraph (1), no employer shall be permitted to reduce the hourly wage rate prescribed by certificate under this subsection in effect on June 1, 1986, of any handicapped individual for a period of two years from such date without prior authorization of the Secretary.
+(3) Notwithstanding paragraph (1), no employer shall be permitted to reduce the hourly wage rate prescribed by certificate under this subsection in effect on June 1, 1986, of anyhandicapped individual for a period of two years from such date without prior authorization of the Secretary.
 
 (4) Nothing in this subsection shall be construed to prohibit an employer from maintaining or establishing work activities centers to provide therapeutic activities for handicapped clients.
 
@@ -104,7 +104,7 @@ The Secretary may by regulation or order provide that sections 206 and 207 of th
 
 #### References in Text
 
-Effective date of the Fair Labor Standards Amendments of 1974, referred to in subsec. (b)(1)(B)(i), (ii), means May 1, 1974, except as otherwise specifically provided, under provisions of section 29(a) of Pub. L.93–259, set out as an Effective Date of 1974 Amendment note under section 202 of this title.
+Effective date of the Fair Labor Standards Amendments of 1974, referred to in subsec. (b)(1)(B)(i), (ii), means May 1, 1974, except as otherwise specifically provided, under provisions of section 29(a) of Pub. L. 93–259, set out as an Effective Date of 1974 Amendment note under section 202 of this title.
 
 Section 206(a)(5) of this title, referred to in subsec. (b)(2), was redesignated section 206(a)(4) of this title by Pub. L. 110–28, title VIII, §8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
 

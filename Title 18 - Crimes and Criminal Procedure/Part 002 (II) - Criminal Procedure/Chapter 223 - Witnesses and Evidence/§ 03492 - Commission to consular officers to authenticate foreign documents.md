@@ -6,7 +6,7 @@
 
 (c) The provisions of this section and sections 3493–3496 of this title applicable to consular officers shall be applicable to diplomatic officers pursuant to such regulations as may be prescribed by the President. For purposes of this section and sections 3493 through 3496 of this title, the term "consular officers" includes any United States citizen who is designated to perform notarial functions pursuant to section 1750 of the Revised Statutes, as amended (22 U.S.C. 4221).
 
-(June 25, 1948, ch. 645, 62 Stat. 834; May 24, 1949, ch. 139, §53, 63 Stat. 96; Pub. L. 94–149, §4, Dec.12, 1975, 89 Stat. 806; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2222(c)(2), Oct. 21, 1998, 112 Stat. 2681–818.)
+(June 25, 1948, ch. 645, 62 Stat. 834; May 24, 1949, ch. 139, §53, 63 Stat. 96; Pub. L. 94–149, §4, Dec. 12, 1975, 89 Stat. 806; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2222(c)(2), Oct. 21, 1998, 112 Stat. 2681–818.)
 
 #### Historical and Revision Notes
 

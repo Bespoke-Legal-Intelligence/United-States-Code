@@ -12,7 +12,7 @@ As used in this chapter (unless the context otherwise requires):
 
 #### (3) State
 
-&emsp;The term "State" means each of the 50 States, Guam, American Samoa, the Republicof Palau (until the Compact of Free Association enters into effect), Puerto Rico, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "State" means each of the 50 States, Guam, American Samoa, the Republic of Palau (until the Compact of Free Association enters into effect), Puerto Rico, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
 (Pub. L. 101–513, title VI, §608, as added Pub. L. 102–574, §2(a)(2), Oct. 29, 1992, 106 Stat. 4595.)
 

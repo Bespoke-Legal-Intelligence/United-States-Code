@@ -16,7 +16,7 @@ Not later than 1 year after March 23, 2010, in a manner consistent with the trib
 
 #### (2) Withholding of funds
 
-&emsp;If the Secretary fails to submit a plan in accordance with subsection (a), the Secretary shall withhold the operations funds reservedfor the Office of the Director, subject to the condition that the withholding shall not adversely impact the capacity of the Service to deliver health care services.
+&emsp;If the Secretary fails to submit a plan in accordance with subsection (a), the Secretary shall withhold the operations funds reserved for the Office of the Director, subject to the condition that the withholding shall not adversely impact the capacity of the Service to deliver health care services.
 
 #### (3) Restoration
 

@@ -32,7 +32,7 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 Pub. L. 112–141, div. E, title II, §52011(b), July 6, 2012, 126 Stat. 895, provided that: "If the provisions of section 111 of title 49, United States Code, are transferred to chapter 63 of that title, the following rules of construction apply:
 
-&emsp;"(1) For purposes of determining whether 1 provision of law supersedes another based on enactment later in time, a chapter 63 provision is deemed to have been enacted on the date of enactment of the corresponding section 111 provision \[section 111 of this title was enacted Dec. 18, 1991\].
+&emsp;"(1) For purposes of determining whether 1 provision of law supersedes another based on enactment later in time, a chapter 63 provision is deemed tohave been enacted on the date of enactment of the corresponding section 111 provision \[section 111 of this title was enacted Dec. 18, 1991\].
 
 &emsp;"(2) A reference to a section 111 provision, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding chapter 63 provision.
 

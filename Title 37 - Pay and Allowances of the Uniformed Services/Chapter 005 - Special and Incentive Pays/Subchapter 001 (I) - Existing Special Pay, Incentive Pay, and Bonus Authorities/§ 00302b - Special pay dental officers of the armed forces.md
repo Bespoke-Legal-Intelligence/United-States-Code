@@ -54,7 +54,7 @@ Variable, Additional, Board Certification, and Incentive Special Pay.—(1) An o
 
 Active-Duty Agreement.—(1) An officer may not be paid additional special pay under paragraph (4) or (6) of subsection (a) for any 12-month period unless the officer first executes a written agreement under which the officer agrees to remain on active duty for a period of not less than one year beginning on the date the officer accepts the award of such special pay.
 
-(2) Under regulations prescribed by the Secretary of Defense under section 303a(a) of this title, the Secretary of the military department concerned may terminate at any time an officer's entitlement to the special pay authorized by paragraph (4) or (6) of subsection (a). If such entitlement is terminated, the officer concerned shall be subject to the repayment provisions of section 303a(e) of this title.
+(2) Under regulations prescribed by the Secretary of Defense under section 303a(a) of this title, the Secretary of the military department concerned may terminate at any time an officer's entitlement to the special pay authorized by paragraph (4) or (6) of subsection (a). If such entitlement is terminated, the officer concernedshall be subject to the repayment provisions of section 303a(e) of this title.
 
 (c)
 
@@ -224,5 +224,5 @@ Pub. L. 99–145, title VI, §639(d), Nov. 8, 1985, 99 Stat. 651, as amended by 
 
 "(2) Paragraph (1) applies to an officer who on September 30, 1985, is entitled to dental continuation pay under section 311 of title 37, United States Code; or to special pay for dental officers under section 302b of that title."
 
-\[Amendment of this note by Pub. L. 99–661 effective Nov. 14, 1986, see section 1342(h)(1) of Pub. L. 99–661, set out as an Effective Date of 1986 Amendment note under section 301 of this title.\]
+\[Amendment of this note by Pub. L. 99–661 effective Nov. 14, 1986, see section 1342(h)(1) of Pub. L. 99–661, setout as an Effective Date of 1986 Amendment note under section 301 of this title.\]
 

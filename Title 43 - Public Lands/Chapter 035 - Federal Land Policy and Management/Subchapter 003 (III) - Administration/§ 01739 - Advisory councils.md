@@ -14,7 +14,7 @@ Members of advisory councils shall serve without pay, except travel and per diem
 
 #### (d) Functions
 
-An advisory council may furnish advice to the Secretary with respect to the land use planning, classification, retention, management, and disposal of the public lands within the area for which the advisory council is established and such other matters as may be referred to it by the Secretary.
+An advisory council may furnish advice to the Secretary with respect to the land use planning,classification, retention, management, and disposal of the public lands within the area for which the advisory council is established and such other matters as may be referred to it by the Secretary.
 
 #### (e) Public participation; procedures applicable
 

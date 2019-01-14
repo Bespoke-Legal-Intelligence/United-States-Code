@@ -16,7 +16,7 @@ In addition to the responsibilities set forth in chapter 14 of title 5 and other
 
 &emsp;(4) identify methods for managing and overseeing human capital programs and initiatives, in coordination with the head of each component of the Department;
 
-&emsp;(5) develop a career path framework and create opportunities for leader development incoordination with all components of the Department;
+&emsp;(5) develop a career path framework and create opportunities for leader development in coordination with all components of the Department;
 
 &emsp;(6) lead the efforts of the Department for managing employee resources, including training and development opportunities, in coordination with each component of the Department;
 

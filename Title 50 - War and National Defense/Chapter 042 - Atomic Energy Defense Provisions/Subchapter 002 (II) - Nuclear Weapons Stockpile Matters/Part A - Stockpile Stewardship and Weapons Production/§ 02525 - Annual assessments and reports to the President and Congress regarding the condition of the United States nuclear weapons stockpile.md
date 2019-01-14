@@ -90,7 +90,7 @@ Not later than December 1 of each year, each official specified in subsection (b
 
 #### (g) Classified form
 
-Each submittal under subsection (f) shall be in classified form only, with the classification level required for each portion of such submittal marked appropriately.
+Each submittal under subsection (f) shall be in classified form only, with the classificationlevel required for each portion of such submittal marked appropriately.
 
 #### (h) Definition
 

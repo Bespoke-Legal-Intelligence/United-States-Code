@@ -12,7 +12,7 @@ A person subject to a nondisclosure requirement accompanying an order or directi
 
 &emsp;&emsp;(C) the number of orders or directives received, combined, under this chapter for contents, reported in bands of 1000 starting with 0–999;
 
-&emsp;&emsp;(D) the number of customer selectors targeted under orders or directives received, combined, under this chapter for contents <sup>1</sup> reported in bands of 1000 starting with 0–999;
+&emsp;&emsp;(D) the number of customer selectors targeted under orders or directives received, combined, under this chapter for contents, reported in bands of 1000 starting with 0–999;
 
 &emsp;&emsp;(E) the number of orders received under this chapter for noncontents, reported in bands of 1000 starting with 0–999; and
 
@@ -38,7 +38,7 @@ A person subject to a nondisclosure requirement accompanying an order or directi
 
 &emsp;&emsp;(F) the number of customer selectors targeted under orders received under this chapter for noncontents, reported in bands of 500 starting with 0–499.
 
-&emsp;(3) A semiannual report that aggregates the number of orders, directives, or national security letters with which the person was required to comply in the <sup>2</sup> into separate categories of—
+&emsp;(3) A semiannual report that aggregates the number of orders, directives, or national security letters with which the person was required to comply into separate categories of—
 
 &emsp;&emsp;(A) the total number of all national security process received, including all national security letters, and orders or directives under this chapter, combined, reported in bands of 250 starting with 0–249; and
 
@@ -78,13 +78,15 @@ In this section:
 
 &emsp;The term "national security letter" has the meaning given that term under section 1873 of this title.
 
-(Pub. L. 95–511, title VI, §604, as added Pub. L. 114–23, title VI, §603(a), June 2, 2015, 129 Stat. 295.)
+(Pub. L. 95–511, title VI, §604, as added Pub. L. 114–23, title VI, §603(a), June 2, 2015, 129 Stat. 295; amended Pub. L. 115–118, title II, §205(a)(4), Jan. 19, 2018, 132 Stat. 21.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (b)(1)(B), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+#### Amendments
 
-<i><sup>2</sup></i><i> So in original.</i>
+<b>2018</b>—Subsec. (a)(1)(D). Pub. L. 115–118, §205(a)(4)(A), substituted "contents," for "contents".
+
+Subsec. (a)(3). Pub. L. 115–118, §205(a)(4)(B), substituted "comply into" for "comply in the into" in introductory provisions.
 

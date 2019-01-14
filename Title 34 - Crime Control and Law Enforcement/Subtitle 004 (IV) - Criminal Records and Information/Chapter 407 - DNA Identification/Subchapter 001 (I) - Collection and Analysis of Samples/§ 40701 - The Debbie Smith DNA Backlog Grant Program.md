@@ -2,7 +2,7 @@
 
 #### (a) Authorization of grants
 
-The Attorney General may make grants to eligible States or units of local government for use by the State or unit of local government for the following purposes:
+The Attorney General may make grants to eligible States or units of local government for useby the State or unit of local government for the following purposes:
 
 &emsp;(1) To carry out, for inclusion in the Combined DNA Index System of the Federal Bureau of Investigation, DNA analyses of samples collected under applicable legal authority.
 
@@ -20,6 +20,8 @@ The Attorney General may make grants to eligible States or units of local govern
 
 &emsp;(8) To ensure that the collection and processing of DNA evidence by law enforcement agencies from crimes, including sexual assault and other violent crimes against persons, is carried out in an appropriate and timely manner and in accordance with the protocols and practices developed under subsection (o)(1).
 
+&emsp;(9) To increase the capacity of State and local prosecution offices to address the backlog of violent crime cases in which suspects have been identified through DNA evidence.
+
 #### (b) Eligibility
 
 For a State or unit of local government to be eligible to receive a grant under this section, the chief executive officer of the State or unit of local government shall submit to the Attorney General an application in such form and containing such information as the Attorney General may require. The application shall, as required by the Attorney General—
@@ -34,7 +36,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 &emsp;(5) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(3);
 
-&emsp;(6) if submitted by a unit of local government, certify that the unit of local government has taken, or is taking, all necessarysteps to ensure that it is eligible to include, directly or through a State law enforcement agency, all analyses of samples for which it has requested funding in the Combined DNA Index System; and
+&emsp;(6) if submitted by a unit of local government, certify that the unit of local government has taken, or is taking, all necessary steps to ensure that it is eligible to include, directly or through a State law enforcement agency, all analyses of samples for which it has requested funding in the Combined DNA Index System; and
 
 &emsp;(7) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(4).
 
@@ -71,6 +73,10 @@ For a State or unit of local government to be eligible to receive a grant under 
 #### (4) Allocation of grant awards for audits
 
 &emsp;For each of fiscal years 2014 through 2022, not less than 5 percent, but not more than 7 percent, of the grant amounts distributed under paragraph (1) shall, if sufficient applications to justify such amounts are received by the Attorney General, be awarded for purposes described in subsection (a)(7), provided that none of the funds required to be distributed under this paragraph shall decrease or otherwise limit the availability of funds required to be awarded to States or units of local government under paragraph (3).
+
+#### (5) Allocation of grant awards for prosecutors
+
+&emsp;For each fiscal year, not less than 5 percent, but not more than 7 percent, of the grant amounts distributed under paragraph (1) shall, if sufficient applications to justify such amounts are received by the Attorney General, be awarded for purposes described in subsection (a)(9), provided that none of the funds required to be distributed under this paragraph shall decrease or otherwise limit the availability of funds required to be awarded to States or units of local government under paragraph (3).
 
 #### (d) Analysis of samples
 
@@ -114,7 +120,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 #### (f) Reports to the Attorney General
 
-Each State or unit of local government which receives a grant under this section shall submitto the Attorney General, for each year in which funds from a grant received under this section is expended, a report at such time and in such manner as the Attorney General may reasonably require, which contains—
+Each State or unit of local government which receives a grant under this section shall submit to the Attorney General, for each year in which funds from a grant received under this section is expended, a report at such time and in such manner as the Attorney General may reasonably require, which contains—
 
 &emsp;(1) a summary of the activities carried out under the grant and an assessment of whether such activities are meeting the needs identified in the application; and
 
@@ -142,7 +148,7 @@ Not later than 90 days after the end of each fiscal year for which grants are ma
 
 #### (i) Definition
 
-For purposes of this section, the term "State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
+For purposes of this section, the term "State" means a State of the United States, the Districtof Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
 #### (j) Authorization of appropriations
 
@@ -214,7 +220,7 @@ In the event that a laboratory operated by a State or unit of local government w
 
 &emsp;&emsp;&emsp;&emsp;(I) the chief law enforcement officer of the State or unit of local government, respectively, is the individual responsible for the compliance of the State or unit of local government, respectively, with the reporting requirements described in clause (v); or
 
-&emsp;&emsp;&emsp;&emsp;(II) the designee of such officer may fulfill the responsibility described in subclause (I) so long as such designee is an employee of the State or unit of local government, respectively, and is not an employee of any governmental laboratory or non-governmental vendor laboratory; and
+&emsp;&emsp;&emsp;&emsp;(II) the designee of such officer may fulfill the responsibility described insubclause (I) so long as such designee is an employee of the State or unit of local government, respectively, and is not an employee of any governmental laboratory or non-governmental vendor laboratory; and
 
 &emsp;&emsp;&emsp;(v) comply with all grantee reporting requirements described in paragraph (4).
 
@@ -256,7 +262,7 @@ In the event that a laboratory operated by a State or unit of local government w
 
 #### (C) Publication of reports
 
-&emsp;&emsp;Not later than 7 days after the submission of a report under this paragraph by a State or unit of local government, the Attorney General shall, subject to subparagraph (D), publish and disseminate a facsimile of thefull contents of such report on an appropriate internet website.
+&emsp;&emsp;Not later than 7 days after the submission of a report under this paragraph by a State or unit of local government, the Attorney General shall, subject to subparagraph (D), publish and disseminate a facsimile of the full contents of such report on an appropriate internet website.
 
 #### (D) Personally identifiable information
 
@@ -342,7 +348,7 @@ In the event that a laboratory operated by a State or unit of local government w
 
 &emsp;In this subsection, the terms "awaiting testing" and "possession" have the meanings given those terms in subsection (n).
 
-(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, §2, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 112–253, §6, Jan. 10, 2013, 126 Stat. 2409; Pub. L. 113–4, title X, §§1002, 1004, 1006, Mar. 7, 2013, 127 Stat. 127, 131, 134; Pub. L. 113–182, §2, Sept. 29, 2014, 128 Stat. 1918; Pub. L. 115–107, §3(a), Jan. 8, 2018, 131 Stat. 2266.)
+(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, §2, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 112–253, §6, Jan. 10, 2013, 126 Stat. 2409; Pub. L. 113–4, title X, §§1002, 1004, 1006, Mar. 7, 2013, 127 Stat. 127, 131, 134; Pub. L. 113–182, §2, Sept. 29, 2014, 128 Stat. 1918; Pub. L. 115–107, §3(a), Jan. 8, 2018, 131 Stat. 2266; Pub. L. 115–257, §2(a), Oct. 9, 2018, 132 Stat. 3660.)
 
 #### Amendment of Section
 
@@ -360,7 +366,11 @@ Section was formerly classified to section 14135 of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2018</b>—Subsec. (c)(4). Pub. L. 115–107 substituted "2022" for "2017".
+<b>2018</b>—Subsec. (a)(9). Pub. L. 115–257, §2(a)(1), added par. (9).
+
+Subsec. (c)(4). Pub. L. 115–107 substituted "2022" for "2017".
+
+Subsec. (c)(5). Pub. L. 115–257, §2(a)(2), added par. (5).
 
 <b>2014</b>—Subsec. (c)(3)(B). Pub. L. 113–182, §2(1)(A), substituted "2014 through 2019" for "2010 through 2018".
 
@@ -432,7 +442,7 @@ Subsec. (d)(1). Pub. L. 108–405, §202(a)(4)(A), substituted "A plan pursuant 
 
 Subsec. (d)(2)(A). Pub. L. 108–405, §202(a)(4)(B), inserted "and units of local government" after "States".
 
-Subsec. (d)(3). Pub. L. 108–405, §206, amended heading and text of par. (3) generally. Prior to amendment, textread as follows: "A grant for the purposes specified in paragraph (1) or (2) of subsection (a) of this section may be made in the form of a voucher for laboratory services, which may be redeemed at a laboratory operated by a private entity approved by the Attorney General that satisfies quality assurance standards. The Attorney General may make payment to such a laboratory for the analysis of DNA samples using amounts authorized for those purposes under subsection (j) of this section."
+Subsec. (d)(3). Pub. L. 108–405, §206, amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "A grant for the purposes specified in paragraph (1) or (2) of subsection (a) of this section may be made in the form of a voucher for laboratory services, which may be redeemed at a laboratory operated by a private entity approved by the Attorney General that satisfies quality assurance standards. The Attorney General may make payment to such a laboratory for the analysis of DNA samples using amounts authorized for those purposes under subsection (j) of this section."
 
 Subsec. (e)(1). Pub. L. 108–405, §202(a)(5)(A), inserted "or local government" after "State" in two places.
 
@@ -538,7 +548,7 @@ Conference expenditures.—
 
 &emsp;&emsp;"(A)
 
-Limitation.—No amounts authorized to be appropriated to the Department of Justice underthis title may be used by the Attorney General or by any individual or organization awarded discretionary funds through a cooperative agreement under this Act, to host or support any expenditure for conferences that uses more than $20,000 in Department funds, unless the Deputy Attorney General or the appropriate Assistant Attorney General, Director, or principal deputy as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
+Limitation.—No amounts authorized to be appropriated to the Department of Justice under this title may be used by the Attorney General or by any individual or organization awarded discretionary funds through a cooperative agreement under this Act, to host or support any expenditure for conferences that uses more than $20,000 in Department funds, unless the Deputy Attorney General or the appropriate Assistant Attorney General, Director, or principal deputy as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
 
 &emsp;&emsp;"(B)
 

@@ -65,27 +65,9 @@
 
 #### SUBCHAPTER IV–A—ABANDONED INFANTS ASSISTANCE
 
-|  |  |
-| :--- | ---: |
-| [5117aa.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Abandoned%20Infants%20Assistance/%C2%A7%2005117aa%20-%20Findings.md) | Findings. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part A—Projects Regarding Abandonment of Infants and Young Children in Hospitals
-
 |  |
 | :--- |
-| 5117aa–11. Establishment of local projects. |
-| 5117aa–12. Evaluations, study, and reports by Secretary. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part B—General Provisions
-
-|  |
-| :--- |
-| 5117aa–21. Definitions. |
-| 5117aa–22. Authorization of appropriations. |
+| 5117aa to 5117aa–22. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

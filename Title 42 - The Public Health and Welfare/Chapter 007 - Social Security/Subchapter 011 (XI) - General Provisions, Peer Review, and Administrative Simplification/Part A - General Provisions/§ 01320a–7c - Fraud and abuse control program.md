@@ -28,7 +28,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Such guidelines shall include guidelines relating to the furnishing of informationby health plans, providers, and others to enable the Secretary and the Attorney General to carry out the program (including coordination with health plans under paragraph (2)).
+&emsp;&emsp;&emsp;Such guidelines shall include guidelines relating to the furnishing of information by health plans, providers, and others to enable the Secretary and the Attorney General to carry out the program (including coordination with health plans under paragraph (2)).
 
 #### (ii) Confidentiality
 
@@ -78,7 +78,7 @@ The Inspector General Act of 1978, referred to in subsec. (a)(4), (5), is Pub. L
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–148 effective on the first day after the final day of the transition period defined in section 6403(d)(5) of Pub. L. 111–148, see section 6403(d)(6) of Pub. L. 111–148, set out as a Transition Process; Regulations; Effective Date of 2010 Amendment note under section 1320a–7e of this title.
+Amendment by Pub. L. 111–148 effective on the first day after the final day of the transition period defined in section 6403(d)(5) of Pub. L. 111–148, see section6403(d)(6) of Pub. L. 111–148, set out as a Transition Process; Regulations; Effective Date of 2010 Amendment note under section 1320a–7e of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

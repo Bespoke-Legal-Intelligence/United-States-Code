@@ -6,7 +6,7 @@ To promote efficiency and eliminate duplicative requirements, the Corporation sh
 
 #### (b) Report to Congress
 
-Not later than 18 months after the effective date of the Serve America Act, the Corporation shall submit to the authorizing committees a report containing information on the actionstaken to consolidate or modify the application procedures and reporting requirements for programs, projects, and activities funded under the national service laws, including a description of the procedures for consultation with recipients of the funding.
+Not later than 18 months after the effective date of the Serve America Act, the Corporation shall submit to the authorizing committees a report containing information on the actions taken to consolidate or modify the application procedures and reporting requirements for programs, projects, and activities funded under the national service laws, including a description of the procedures for consultation with recipients of the funding.
 
 (Pub. L. 101–610, title I, §185, as added Pub. L. 111–13, title I, §1612, Apr. 21, 2009, 123 Stat. 1538.)
 

@@ -50,7 +50,7 @@ As used in this chapter—
 
 (4)(A) The term "employee" does not include any individual who volunteers to perform services for a public agency which is a State, a political subdivision of a State, or an interstate governmental agency, if—
 
-&emsp;(i) the individual receives no compensation or is paid expenses, reasonable benefits, or anominal fee to perform the services for which the individual volunteered; and
+&emsp;(i) the individual receives no compensation or is paid expenses, reasonable benefits, or a nominal fee to perform the services for which the individual volunteered; and
 
 &emsp;(ii) such services are not the same type of services which the individual is employed to perform for such public agency.
 
@@ -72,13 +72,17 @@ As used in this chapter—
 
 (l) "Oppressive child labor" means a condition of employment under which (1) any employee under the age of sixteen years is employed by an employer (other than a parent or a person standing in place of a parent employing his own child or a child in his custody under the age of sixteen years in an occupation other than manufacturing or mining or an occupation found by the Secretary of Labor to be particularly hazardous for the employment of children between the ages of sixteen and eighteen years or detrimental to their health or well-being) in any occupation, or (2) any employee between the ages of sixteen and eighteen years is employed by an employer in any occupation which the Secretary of Labor shall find and by order declare to be particularly hazardous for the employment of children between such ages or detrimental to their health or well-being; but oppressive child labor shall not be deemed to exist by virtue of the employment in any occupation of any person with respect to whom the employer shall have on file an unexpired certificate issued and held pursuant to regulations of the Secretary of Labor certifying that such person is above the oppressive child-labor age. The Secretary of Labor shall provide by regulation or by order that the employment of employees between the ages of fourteen and sixteen years in occupations other than manufacturing and mining shall not be deemed to constitute oppressive child labor if and to the extent that the Secretary of Labor determines that such employment is confined to periods which will not interfere with their schooling and to conditions which will not interfere with their health and well-being.
 
-(m) "Wage" paid to any employee includes the reasonable cost, as determined by the Administrator, to the employer of furnishing such employee with board, lodging, or other facilities, if such board, lodging or other facilities are customarily furnished by such employer to his employees: <i>Provided</i>, That the cost of board, lodging, or other facilities shall not be included as a part of the wage paid to any employee to the extent it is excluded therefrom under the terms of a bona fide collective-bargaining agreement applicable to the particular employee: <i>Provided further</i>, That the Secretary is authorized to determine the fair value of such board, lodging, or other facilities for defined classes of employees and in defined areas, based on average cost to the employer or to groups of employers similarly situated, or average value to groups of employees, or other appropriate measures of fair value. Such evaluations, where applicable and pertinent, shall be used in lieu of actual measure of cost in determining the wage paid to any employee. In determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee's employer shall be an amount equal to—
+(m)(1) "Wage" paid to any employee includes the reasonable cost, as determined by the Administrator, to the employer of furnishing such employee with board, lodging, or other facilities, if such board, lodging or other facilities are customarily furnished by such employer to his employees: <i>Provided</i>, That the cost of board, lodging, or other facilities shall not be included as a part of the wage paid to any employee to the extent it is excluded therefrom under the terms of a bona fide collective-bargaining agreement applicable to the particular employee: <i>Provided further</i>, That the Secretary is authorized to determine the fair value of such board, lodging, or other facilities for defined classes of employees and in defined areas, based on average cost to the employer or to groups of employers similarly situated, or average value to groups of employees, or other appropriate measures of fair value. Such evaluations, where applicable and pertinent, shall be used in lieu of actual measure of cost in determining the wage paid to any employee.
 
-&emsp;(1) the cash wage paid such employee which for purposes of such determination shall be not less than the cash wage required to be paid such an employee on August 20, 1996; and
+(2)(A) In determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee's employer shall be an amount equal to—
 
-&emsp;(2) an additional amount on account of the tips received by such employee which amount is equal to the difference between the wage specified in paragraph (1) and the wage in effect under section 206(a)(1) of this title.
+&emsp;(i) the cash wage paid such employee which for purposes of such determination shall be not less than the cash wage required to be paid such an employee on August 20, 1996; and
 
-> The additional amount on account of tips may not exceed the value of the tips actually received by an employee. The preceding 2 sentences shall not apply with respect to any tipped employee unless such employee has been informed by the employer of the provisions of thissubsection, and all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips.
+&emsp;(ii) an additional amount on account of the tips received by such employee which amount is equal to the difference between the wage specified in clause (i) and the wage in effect under section 206(a)(1) of this title.
+
+> The additional amount on account of tips may not exceed the value of the tips actually received by an employee. The preceding 2 sentences shall not apply with respect to any tipped employee unless such employee has been informed by the employer of the provisions of this subsection, and all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips.
+
+(B) An employer may not keep tips received by its employees for any purposes, including allowing managers or supervisors to keep any portion of employees' tips, regardless of whether or not the employer takes a tip credit.
 
 (n) "Resale" shall not include the sale of goods to be used in residential or farm building construction, repair, or maintenance: <i>Provided</i>, That the sale is recognized as a bona fide retail sale in the industry.
 
@@ -106,7 +110,7 @@ As used in this chapter—
 
 &emsp;(ii) is an enterprise whose annual gross volume of sales made or business done is not less than $500,000 (exclusive of excise taxes at the retail level that are separately stated);
 
-&emsp;(B) is engaged in the operation of a hospital, an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises of such institution, a school for mentally or physically handicapped or gifted children, a preschool, elementary or secondary school, or an institution of higher education (regardless of whether or not such hospital, institution, or school is public or private or operated for profit or not for profit); or
+&emsp;(B) is engaged in the operation of a hospital, an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises of such institution, a school for mentally or physically handicapped or gifted children, a preschool,elementary or secondary school, or an institution of higher education (regardless of whether or not such hospital, institution, or school is public or private or operated for profit or not for profit); or
 
 &emsp;(C) is an activity of a public agency.
 
@@ -124,17 +128,19 @@ As used in this chapter—
 
 (y) "Employee in fire protection activities" means an employee, including a firefighter, paramedic, emergency medical technician, rescue worker, ambulance personnel, or hazardous materials worker, who—
 
-&emsp;(1) is trained in fire suppression, has the legal authority and responsibility to engage infire suppression, and is employed by a fire department of a municipality, county, fire district, or State; and
+&emsp;(1) is trained in fire suppression, has the legal authority and responsibility to engage in fire suppression, and is employed by a fire department of a municipality, county, fire district, or State; and
 
 &emsp;(2) is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk.
 
-(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–141, div. S, title XII, §1201(a), Mar. 23, 2018, 132 Stat. 1148.)
 
 #### References in Text
 
 Section 1141j(g) of title 12, referred to in subsec. (f), was redesignated section 1141j(f) by Pub. L. 110–246, title I, §1610, June 18, 2008, 122 Stat. 1746.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (m). Pub. L. 115–141 designated first and second sentences of existing provisions as par. (1) and remainder of existing provisions as par. (2)(A), redesignated former pars. (1) and (2) as cls. (i) and (ii), respectively, of par. (2)(A) and, in cl. (ii), substituted "clause (i)" for "paragraph (1)", and added subpar. (B) of par. (2).
 
 <b>2006</b>—Subsecs. (e)(2)(B), (x). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
 
@@ -162,7 +168,7 @@ Subsec. (s). Pub. L. 101–157, §3(a), amended subsec. (s) generally, completel
 
 <b>1985</b>—Subsec. (e)(1). Pub. L. 99–150, §4(a)(1), substituted "paragraphs (2), (3), and (4)" for "paragraphs (2) and (3)".
 
-Subsec. (e)(2)(C)(ii). Pub. L. 99–150, §5, struck out "or" at end of subcl. (III), struck out "who" in subcl. (IV) before "is an", substituted ", or" for period at end of subcl. (IV), and added subcl. (V).
+Subsec. (e)(2)(C)(ii). Pub. L. 99–150, §5, struck out "or" at end of subcl. (III), struck out "who" in subcl.\(IV) before "is an", substituted ", or" for period at end of subcl. (IV), and added subcl. (V).
 
 Subsec. (e)(4). Pub. L. 99–150, §4(a)(2), added par. (4).
 
@@ -178,7 +184,7 @@ Subsec. (e). Pub. L. 93–259, §6(a)(2), in revising definition of "employee", 
 
 Subsec. (h). Pub. L. 93–259, §6(a)(3), substituted "other activity, or branch or group thereof" for "branch thereof, or group of industries".
 
-Subsec. (m). Pub. L. 93–259, §13(e), substituted in provision respecting wage of tipped employee "the amount of the increase on account of tips determined by the employer may not exceed the value of tips actually received by the employee" for "in the case of an employee who (either himself or acting through his representative) shows to the satisfaction of the Secretary that the actual amount of tips received by him was less than the amount determined by the employer as the amount by which the wage paid him was deemed to be increased under this sentence, the amount paid suchemployee by his employer shall be deemed to have been increased by such lesser amount" and inserted "The previous sentence shall not apply with respect to any tipped employee unless (1) such employee has been informed by the employer of the provisions of this subsection, and (2) all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips."
+Subsec. (m). Pub. L. 93–259, §13(e), substituted in provision respecting wage of tipped employee "the amount of the increase on account of tips determined by the employer may not exceed the value of tips actually received by the employee" for "in the case of an employee who (either himself or acting through his representative) shows to the satisfaction of the Secretary that the actual amount of tips received by him was less than the amount determined by the employer as the amount by which the wage paid him was deemed to be increased under this sentence, the amount paid such employee by his employer shall be deemed to have been increased by such lesser amount" and inserted "The previous sentence shall not apply with respect to any tipped employee unless (1) such employee has been informed by the employer of the provisions of this subsection, and (2) all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips."
 
 Subsec. (r)(3). Pub. L. 93–259, §6(a)(4), added par. (3).
 
@@ -224,10 +230,6 @@ Subsecs. (n), (o). Act Oct. 26, 1949, §3(d), added subsecs. (n) and (o).
 
 "Government Publishing Office" substituted for "Government Printing Office" in subsec. (e)(2)(A)(vi) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
-#### Construction of 1999 Amendment
-
-Pub. L. 106–151, §2, Dec. 9, 1999, 113 Stat. 1731, provided that: "The amendment made by section 1 \[amending this section\] shall not be construed to reduce or substitute for compensation standards: (1) contained in any existing or future agreement or memorandum of understanding reached through collective bargaining by a bona fide representative of employees in accordance with the laws of a State or political subdivision of a State; and (2) which result in compensation greater than the compensation available to employees under the overtime exemption under section 7(k) of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207(k)\]."
-
 #### Effective Date of 1989 Amendment
 
 Pub. L. 101–157, §3(e), Nov. 17, 1989, 103 Stat. 939, provided that: "The amendments made by this section \[amending this section and section 213 of this title\] shall become effective on April 1, 1990."
@@ -268,6 +270,14 @@ Pub. L. 87–30, §14, May 5, 1961, 75 Stat. 75, provided that: "The amendments 
 
 Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see section 16(a) of act Oct. 26, 1949, set out as a note under section 202 of this title.
 
+#### Effect on Regulations
+
+Pub. L. 115–141, div. S, title XII, §1201(c), Mar. 23, 2018, 132 Stat. 1149, provided that: "The portions of the final rule promulgated by the Department of Labor entitled 'Updating Regulations Issued Under the Fair Labor Standards Act' (76 Fed. Reg. 18832 (April 5, 2011)) that revised sections 531.52, 531.54, and 531.59 of title 29, Code of Federal Regulations (76 Fed. Reg. 18854–18856) and that are not addressed by section 3(m) of the Fair Labor Standards Act of 1938 (29 U.S.C. 203(m)) (as such section was in effect on April 5, 2011), shall have no further force or effect until any future action taken by the Administrator of the Wage and Hour Division of the Department of Labor."
+
+#### Construction of 1999 Amendment
+
+Pub. L. 106–151, §2, Dec. 9, 1999, 113 Stat. 1731, provided that: "The amendment made by section 1 \[amending this section\] shall not be construed to reduce or substitute for compensation standards: (1) contained in any existing or future agreement or memorandum of understanding reached through collective bargaining by a bona fide representative of employees in accordance with the laws of a State or political subdivision of a State; and (2) which result in compensation greater than the compensation available to employees under the overtime exemption under section 7(k) of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207(k)\]."
+
 #### Transfer of Functions
 
 In subsec. (l), "Secretary of Labor" substituted for "Chief of the Children's Bureau in the Department of Labor" and for "Chief of the Children's Bureau" pursuant to Reorg. Plan No. 2 of 1946, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, set out in the Appendix to Title 5, Government Organization and Employees, which transferred functions of Children's Bureau and its Chief under sections 201 to 216 and 217 to 219 of this title to Secretary of Labor to be performed under his direction and control by such officers and employees of Department of Labor as he designates.
@@ -292,7 +302,7 @@ Violations.—A violation of paragraph (1) shall be considered a violation of se
 
 #### Volunteers; Promulgation of Regulations
 
-Pub. L. 99–150, §4(b), Nov. 13, 1985, 99 Stat. 790, provided that: "Not later than March 15, 1986, the Secretary of Labor shall issue regulations to carry out paragraph (4) of section 3(e) (as amended by subsection (a) of this section) \[29 U.S.C. 203(e)(4)\]."
+Pub. L. 99–150, §4(b), Nov. 13, 1985, 99 Stat. 790, provided that: "Not later than March 15, 1986, the Secretary of Labor shall issue regulations to carry outparagraph (4) of section 3(e) (as amended by subsection (a) of this section) \[29 U.S.C. 203(e)(4)\]."
 
 #### Practice of Public Agency in Treating Certain Individuals as Volunteers Prior to April 15, 1986; Liability
 

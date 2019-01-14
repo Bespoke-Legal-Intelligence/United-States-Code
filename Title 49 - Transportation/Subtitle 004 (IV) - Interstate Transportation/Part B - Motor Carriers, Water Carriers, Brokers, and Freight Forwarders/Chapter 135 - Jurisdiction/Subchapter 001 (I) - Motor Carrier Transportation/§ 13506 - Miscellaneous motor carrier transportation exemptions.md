@@ -8,7 +8,7 @@ In General.—Neither the Secretary nor the Board has jurisdiction under this pa
 
 &emsp;(2) a motor vehicle providing taxicab service;
 
-&emsp;(3) a motor vehicle owned or operated by or for a hotel and only transporting hotel patrons between the hotel and the local station of a carrier;
+&emsp;(3) a motor vehicle owned or operated by or for a hotel and only transporting hotel patronsbetween the hotel and the local station of a carrier;
 
 &emsp;(4) a motor vehicle controlled and operated by a farmer and transporting—
 
@@ -32,7 +32,7 @@ In General.—Neither the Secretary nor the Board has jurisdiction under this pa
 
 &emsp;&emsp;(B) agricultural or horticultural commodities (other than manufactured products thereof);
 
-&emsp;&emsp;(C) commodities listed as exempt in the Commodity List incorporated in ruling numbered 107, March 19, 1958, Bureau of Motor Carriers, Interstate Commerce Commission, other than frozen fruits, frozen berries, frozen vegetables, cocoa beans, coffee beans, tea, bananas, or hemp, or wool imported from a foreign country, wool tops and noils,or wool waste (carded, spun, woven, or knitted);
+&emsp;&emsp;(C) commodities listed as exempt in the Commodity List incorporated in ruling numbered 107, March 19, 1958, Bureau of Motor Carriers, Interstate Commerce Commission, other than frozen fruits, frozen berries, frozen vegetables, cocoa beans, coffee beans, tea, bananas, or hemp, or wool imported from a foreign country, wool tops and noils, or wool waste (carded, spun, woven, or knitted);
 
 &emsp;&emsp;(D) cooked or uncooked fish, whether breaded or not, or frozen or fresh shellfish, or byproducts thereof not intended for human consumption, other than fish or shellfish that have been treated for preserving, such as canned, smoked, pickled, spiced, corned, or kippered products; and
 
@@ -99,6 +99,10 @@ Provisions similar to those in this section were contained in section 10526 of t
 <b>2002</b>—Subsec. (a)(2). Pub. L. 107–298 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "a motor vehicle providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;".
 
 <b>1997</b>—Subsec. (a)(5). Pub. L. 105–102 substituted "1141j(a)))" for "1141j(a))".
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 
 #### Abolition of Interstate Commerce Commission
 

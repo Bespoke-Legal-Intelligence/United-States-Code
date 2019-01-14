@@ -20,7 +20,7 @@ Time limit.—The maximum time limit under paragraph (1)(A) is 120 days.
 
 (b)
 
-Reviews by Comptroller General.—The Comptroller General of the United States may carry out reviews of the activities of the Secretary, State governments, and units of general local government necessary for the Congress to evaluate compliance and operations under this chapter. These reviews may include a comparison of the waste and inefficiency of local governments using funds under this chapter compared to waste and inefficiency with other comparable Federal programs.
+Reviews by Comptroller General.—The Comptroller General of the United States may carry out reviews of the activities of the Secretary, State governments, and units of general local government necessary for the Congress to evaluate compliance and operations under this chapter. These reviews may include a comparison of the waste and inefficiency of local governments using funds under this chapter comparedto waste and inefficiency with other comparable Federal programs.
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1879; amended Pub. L. 104–316, title I, §115(k), Oct. 19, 1996, 110 Stat. 3835.)
 

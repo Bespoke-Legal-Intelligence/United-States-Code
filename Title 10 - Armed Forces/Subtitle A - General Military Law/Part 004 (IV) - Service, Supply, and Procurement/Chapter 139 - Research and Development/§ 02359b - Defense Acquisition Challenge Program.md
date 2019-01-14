@@ -4,7 +4,7 @@
 
 Program Required.—(1) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall carry out a program to provide opportunities for the increased introduction of innovative and cost-saving technology in acquisition programs of the Department of Defense.
 
-(2) The program, to be known as the Defense Acquisition Challenge Program (hereinafter in this section referred to as the "Challenge Program"), shall provide any person or activity within or outside the Department of Defense with the opportunity to propose alternatives, to be known as challenge proposals, at the component, subsystem, system, or system-of-systems level of an existing Department of Defense acquisition program, or to address any broader functional challenge to Department of Defense missions that may not fall within an acquisition program, that would result in improvements in performance, affordability, manufacturability, or operational capability of that acquisition program or function.
+(2) The program, to be known as the Defense Acquisition Challenge Program (hereinafter in this section referred to as the "Challenge Program"), shall provide any person or activity within or outside the Department of Defense with the opportunity to propose alternatives, to be known as challenge proposals, at the component, subsystem, system, or system-of-systemslevel of an existing Department of Defense acquisition program, or to address any broader functional challenge to Department of Defense missions that may not fall within an acquisition program, that would result in improvements in performance, affordability, manufacturability, or operational capability of that acquisition program or function.
 
 (b)
 
@@ -58,7 +58,7 @@ Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secre
 
 (e)
 
-Action Upon Favorable Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, each challenge proposal determined under a full review and evaluation to satisfy each of the criteria specified in subsection (c)(5) with respect to an acquisition program shall be considered by the office carrying out the applicable acquisition program and the prime system contractor for incorporation into the acquisition program as a new technology insertion at the component, subsystem, system, or system-of-systems level.
+Action Upon Favorable Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, each challenge proposal determined under a full review and evaluation to satisfy each of the criteria specified in subsection (c)(5) with respect to an acquisition program shall be considered by the office carrying out the applicable acquisition program and the prime system contractor for incorporation intothe acquisition program as a new technology insertion at the component, subsystem, system, or system-of-systems level.
 
 (2) The Under Secretary shall encourage the adoption of each challenge proposal referred to in paragraph (1) by providing suitable incentives to the office carrying out the acquisition program and the prime system contractor carrying out such program.
 
@@ -132,7 +132,7 @@ Nondevelopmental item.—The term "nondevelopmental item" has the meaning given 
 
 &emsp;&emsp;(B)
 
-Covered acquisition program.—The term "covered acquisition program" means any acquisition program of the Department of Defense other than a major defense acquisition program, but does not include any contract awarded under an exception to competitive acquisition authorized by the Small Business Act (15 U.S.C. 631 et seq.).
+Covered acquisition program.—The term "covered acquisition program" means any acquisition program of the Departmentof Defense other than a major defense acquisition program, but does not include any contract awarded under an exception to competitive acquisition authorized by the Small Business Act (15 U.S.C. 631 et seq.).
 
 &emsp;&emsp;(C)
 
@@ -142,7 +142,7 @@ Level of performance.—The term "level of performance", with respect to a nonde
 
 Sunset.—The authority to carry out the pilot program under this subsection shall terminate on January 7, 2021.
 
-(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L.109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270; Pub. L. 112–239, div. A, title X, §1076(e)(3), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 113–66, div. A, title X, §1091(a)(10), Dec. 26, 2013, 127 Stat. 876; Pub. L. 113–291, div. A, title X, §1071(a)(6), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–328, div. A, title VIII, §828, Dec. 23, 2016, 130 Stat. 2281.)
+(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270; Pub. L. 112–239, div. A, title X, §1076(e)(3), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 113–66, div. A, title X, §1091(a)(10), Dec. 26, 2013, 127 Stat. 876; Pub. L. 113–291, div. A, title X, §1071(a)(6), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–328, div. A, title VIII, §828, Dec. 23, 2016, 130 Stat. 2281.)
 
 #### References in Text
 

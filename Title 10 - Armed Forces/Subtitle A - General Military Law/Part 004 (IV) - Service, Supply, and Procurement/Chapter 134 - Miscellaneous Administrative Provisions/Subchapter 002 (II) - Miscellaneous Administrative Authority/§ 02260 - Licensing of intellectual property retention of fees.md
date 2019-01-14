@@ -16,7 +16,7 @@ Licenses for Qualifying Companies.—(1) The Secretary concerned may license tra
 
 &emsp;(A) is a toy or hobby manufacturer; and
 
-&emsp;(B) is determined by the Secretary concerned to be qualified in accordance with suchcriteria as determined appropriate by the Secretary of Defense.
+&emsp;(B) is determined by the Secretary concerned to be qualified in accordance with such criteria as determined appropriate by the Secretary of Defense.
 
 (3) The fee for a license under this subsection shall not exceed by more than a nominal amount the amount needed to recover all costs of the Department of Defense in processing the request for the license and supplying the license.
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) for the purposes of the tort claims provisions of chapter 171 of title 28, such a person shall be considered to be a Federal employee;
 
-&emsp;&emsp;&emsp;(ii) for the purposes of subchapter I of chapter 81 of title 5 relating to compensation to Federal employees for work injuries, such persons shall be considered to be employees, as defined in section 8101(1)(B) of title 5 and the provisions of such subchapter shall apply; and
+&emsp;&emsp;&emsp;(ii) for the purposes of subchapter I of chapter 81 of title 5 relating to compensation to Federal employees for work injuries, such persons shall be considered to beemployees, as defined in section 8101(1)(B) of title 5 and the provisions of such subchapter shall apply; and
 
 &emsp;&emsp;&emsp;(iii) for purposes of the provisions of chapter 11 of part I of title 18, such a person (to whom such provisions would not otherwise apply except for this subsection) shall be a special Government employee.
 

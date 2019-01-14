@@ -120,7 +120,7 @@ Subsec. (e). Pub. L. 95–514, §8(b), substituted introductory word "In" for "P
 
 #### Grazing Permit Renewals
 
-Pub. L. 108–108, title III, §325, Nov. 10, 2003, 117 Stat. 1308, provided in part: "That beginning in November 2004, and every year thereafter, the Secretaries of the Interior and Agriculture shall report to Congress the extent to which they are completing analysis required under applicable laws prior to the expiration of grazingpermits, and beginning in May 2004, and every two years thereafter, the Secretaries shall provide Congress recommendations for legislative provisions necessary to ensure all permit renewals are completed in a timely manner. The legislative recommendations provided shall be consistent with the funding levels requested in the Secretaries' budget proposals".
+Pub. L. 108–108, title III, §325, Nov. 10, 2003, 117 Stat. 1308, provided in part: "That beginning in November 2004, and every year thereafter, the Secretaries of the Interior and Agriculture shall report to Congress the extent to which they are completing analysis required under applicable laws prior to the expiration of grazing permits, and beginning in May 2004, and every two years thereafter, the Secretaries shall provide Congress recommendations for legislative provisions necessary to ensure all permit renewals are completed in a timely manner. The legislative recommendations provided shall be consistent with the funding levels requested in the Secretaries' budget proposals".
 
 #### Appeals of Reductions in Grazing Allotments on Public Rangeland; Time; Effective Date of Reductions; Suspension Pending Final Action on Appeal
 

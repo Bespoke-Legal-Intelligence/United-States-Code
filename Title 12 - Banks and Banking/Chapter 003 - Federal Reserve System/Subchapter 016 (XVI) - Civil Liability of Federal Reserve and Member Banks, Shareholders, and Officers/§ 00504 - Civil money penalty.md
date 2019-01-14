@@ -72,7 +72,7 @@ All penalties collected under authority of this paragraph shall be deposited int
 
 #### (h) "Violate" defined
 
-For purposes of this section, the term "violate" includes any action (alone or with anotheror others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+For purposes of this section, the term "violate" includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
 #### (i) Regulations
 
@@ -100,7 +100,7 @@ Subsec. (d). Pub. L. 97–320, §424(e), substituted "twenty days from the servi
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 907(g) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(l) of Pub. L. 101–73, set out as a note under section 93 of this title.
+Amendment by section 907(g) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug.9, 1989, see section 907(l) of Pub. L. 101–73, set out as a note under section 93 of this title.
 
 #### Effective Date
 

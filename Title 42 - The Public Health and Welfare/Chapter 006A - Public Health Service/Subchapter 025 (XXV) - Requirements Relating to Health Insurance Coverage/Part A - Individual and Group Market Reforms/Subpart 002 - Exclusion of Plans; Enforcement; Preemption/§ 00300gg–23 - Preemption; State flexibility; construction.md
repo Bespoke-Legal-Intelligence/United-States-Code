@@ -62,7 +62,7 @@ Section 2704, referred to in subsec. (c), is a reference to section 2704 of act 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(14)(A), formerly §1562(c)(14)(A), as renumbered by Pub. L.111–148, §10107(b)(1), inserted "individual or" before "group health insurance".
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(14)(A), formerly §1562(c)(14)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), inserted "individual or" before "group health insurance".
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–204 inserted "(other than section 2704)" after "part".
 

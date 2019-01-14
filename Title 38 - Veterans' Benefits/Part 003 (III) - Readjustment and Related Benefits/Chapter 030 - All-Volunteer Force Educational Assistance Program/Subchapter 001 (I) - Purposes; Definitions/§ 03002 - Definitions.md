@@ -16,7 +16,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(ii) a preparatory course for a test that is required or used for admission to a graduate school; and
 
-&emsp;(C) in the case of an individual who is not serving on active duty, includes (i) a full-time program of apprenticeship or of other on-job training approved as provided in clause (1) or (2), as appropriate, of section 3687(a) of this title, and (ii) a cooperative program (as defined in section 3482(a)(2) of this title).
+&emsp;(C) in the case of an individual who is not serving on active duty, includes (i) a full-timeprogram of apprenticeship or of other on-job training approved as provided in clause (1) or (2), as appropriate, of section 3687(a) of this title, and (ii) a cooperative program (as defined in section 3482(a)(2) of this title).
 
 (4) The term "Selected Reserve" means the Selected Reserve of the Ready Reserve of any of the reserve components (including the Army National Guard of the United States and the Air National Guard of the United States) of the Armed Forces, as required to be maintained under section 10143(a) of title 10.
 

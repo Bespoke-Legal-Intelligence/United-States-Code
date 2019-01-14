@@ -22,7 +22,7 @@ An importer that intends to participate in the program under this section in a f
 
 #### (d) Eligibility
 
-Eligibility shall be limited to an importer offering food for importation from a facility thathas a certification described in subsection (a). In reviewing the applications and making determinations on such applications, the Secretary shall consider the risk of the food to be imported based on factors, such as the following:
+Eligibility shall be limited to an importer offering food for importation from a facility that has a certification described in subsection (a). In reviewing the applications and making determinations on such applications, the Secretary shall consider the risk of the food to be imported based on factors, such as the following:
 
 &emsp;(1) The known safety risks of the food to be imported.
 

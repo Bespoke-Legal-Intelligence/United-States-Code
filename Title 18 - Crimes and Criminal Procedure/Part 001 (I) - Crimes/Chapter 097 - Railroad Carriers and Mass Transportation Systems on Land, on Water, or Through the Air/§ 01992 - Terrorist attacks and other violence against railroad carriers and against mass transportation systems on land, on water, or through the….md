@@ -6,7 +6,7 @@ General Prohibitions.—Whoever, in a circumstance described in subsection (c), 
 
 &emsp;(1) wrecks, derails, sets fire to, or disables railroad on-track equipment or a mass transportation vehicle;
 
-&emsp;(2) places any biological agent or toxin, destructive substance, or destructive device in, upon, or near railroad on-track equipment or a mass transportation vehicle with intent to endanger the safety of any person, or with a reckless disregard for the safety of human life;
+&emsp;(2) places any biological agent or toxin, destructive substance, or destructive device in, upon, or near railroad on-track equipment or amass transportation vehicle with intent to endanger the safety of any person, or with a reckless disregard for the safety of human life;
 
 &emsp;(3) places or releases a hazardous material or a biological agent or toxin on or near any property described in subparagraph (A) or (B) of paragraph (4), with intent to endanger the safety of any person, or with reckless disregard for the safety of human life;
 
@@ -24,7 +24,7 @@ General Prohibitions.—Whoever, in a circumstance described in subsection (c), 
 
 &emsp;(8) surveils, photographs, videotapes, diagrams, or otherwise collects information with the intent to plan or assist in planning any of the acts described in paragraphs (1) through (6);
 
-&emsp;(9) conveys false information, knowing the information to be false, concerning an attemptor alleged attempt to engage in a violation of this subsection; or
+&emsp;(9) conveys false information, knowing the information to be false, concerning an attempt or alleged attempt to engage in a violation of this subsection; or
 
 &emsp;(10) attempts, threatens, or conspires to engage in any violation of any of paragraphs (1) through (9),
 
@@ -70,7 +70,7 @@ Definitions.—In this section—
 
 &emsp;(6) the term "high-level radioactive waste" has the meaning given to that term in section 2(12) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(12));
 
-&emsp;(7) the term "mass transportation" has the meaning given to that term in section 5302(a)(7) <sup>2</sup> of title 49, except that the term includes intercity bus transportation <sup>3</sup> school bus, charter, and sightseeing transportation and passenger vessel as that term is defined in section 2101(22) of title 46, United States Code;
+&emsp;(7) the term "mass transportation" has the meaning given to that term in section 5302(a)(7) <sup>2</sup> of title 49, except that the term includes intercity bus transportation <sup>3</sup> school bus, charter, and sightseeing transportation and passenger vessel as that term is defined in section 2101(31) of title 46, United States Code;
 
 &emsp;(8) the term "on-track equipment" means a carriage or other contrivance that runs on rails or electromagnetic guideways;
 
@@ -90,7 +90,7 @@ Definitions.—In this section—
 
 &emsp;(16) the term "vehicle" means any carriage or other contrivance used, or capable of being used, as a means of transportation on land, on water, or through the air.
 
-(Added Pub. L. 109–177, title I, §110(a), Mar. 9, 2006, 120 Stat. 205; amended Pub. L. 110–53, title XV, §1539, Aug. 3, 2007, 121 Stat. 468.)
+(Added Pub. L. 109–177, title I, §110(a), Mar. 9, 2006, 120 Stat. 205; amended Pub. L. 110–53, title XV, §1539, Aug. 3, 2007, 121 Stat. 468; Pub. L. 115–232, div. C, title XXXV, §3541(b)(3), Aug. 13, 2018, 132 Stat. 2323.)
 
 #### References in Text
 
@@ -101,6 +101,8 @@ Section 5302 of title 49, referred to in subsec. (d)(7), was amended generally b
 A prior section 1992, acts June 25, 1948, ch. 645, 62 Stat. 794; Pub. L. 103–322, title VI, §60003(a)(8), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–88, title IV, §402(b), Dec. 29, 1995, 109 Stat. 955; Pub. L. 107–56, title VIII, §811(e), Oct. 26, 2001, 115 Stat. 381; Pub. L. 107–273, div. B, title IV, §4002(a)(6), Nov. 2, 2002, 116 Stat. 1807, related to penalties for wrecking a train used by a railroad in interstate or foreign commerce, prior to repeal by Pub. L. 109–177, title I, §110(a), Mar. 9, 2006, 120 Stat. 205.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(7). Pub. L. 115–232 substituted "section 2101(31)" for "section 2101(22)".
 
 <b>2007</b>—Subsec. (d)(7). Pub. L. 110–53 inserted "intercity bus transportation" after "includes".
 

@@ -2,7 +2,7 @@
 
 #### (a) State reservations
 
-To carry out subsection (b) and the State educational agency's statewide system of technical assistance and support for local educational agencies, each State shall reserve the greater of—
+To carry out subsection (b) and the State educational agency's statewide system of technicalassistance and support for local educational agencies, each State shall reserve the greater of—
 
 &emsp;(1) 7 percent of the amount the State receives under subpart 2 of part A; or
 
@@ -42,7 +42,7 @@ Nothing in this section shall be construed as prohibiting a State from allocatin
 
 #### (e) Application
 
-To receive an allotment under subsection (b)(1), a local educational agency shall submit an application to the State educational agency at such time, in such form, and including such information as the State educational agencymay require. Each application shall include, at a minimum—
+To receive an allotment under subsection (b)(1), a local educational agency shall submit an application to the State educational agency at such time, in such form, and including such information as the State educational agency may require. Each application shall include, at a minimum—
 
 &emsp;(1) a description of how the local educational agency will carry out its responsibilities under section 6311(d) of this title for schools receiving funds under this section, including how the local educational agency will—
 

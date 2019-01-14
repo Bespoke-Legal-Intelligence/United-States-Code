@@ -42,7 +42,7 @@ Any funds appropriated under the authority of this section shall not be used to 
 
 #### (1) In general
 
-&emsp;Funds appropriated under the authority of this section shall be allocated to Service units, Indian tribes, or tribal organizations. The funds allocated to each Indian tribe, tribal organization, or Service unit under this paragraph shall be used by the Indian tribe, tribal organization, or Service unit under this paragraph to improve the health status and reduce the resource deficiency of each Indian tribe served by such Service unit, Indian tribe, or tribal organization.
+&emsp;Funds appropriated under the authority of this section shall be allocated to Serviceunits, Indian tribes, or tribal organizations. The funds allocated to each Indian tribe, tribal organization, or Service unit under this paragraph shall be used by the Indian tribe, tribal organization, or Service unit under this paragraph to improve the health status and reduce the resource deficiency of each Indian tribe served by such Service unit, Indian tribe, or tribal organization.
 
 #### (2) Apportionment of allocated funds
 
@@ -112,7 +112,7 @@ This chapter, referred to in subsecs. (b) and (f)(4)(A), was in the original "th
 
 #### Codification
 
-Amendment by Pub. L. 111–148 is based on section 121 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+Amendment by Pub. L. 111–148 is based on section 121 of title I of S. 1790, One Hundred Eleventh Congress, asreported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Amendments
 

@@ -10,7 +10,7 @@
 
 &emsp;The Commission shall transmit its report under paragraph (1) to the Trade Representative—
 
-&emsp;&emsp;(A) in the case of an interim report described in paragraph (1), within 30 calendar days after the Trade Representative requests the report; and
+&emsp;&emsp;(A) in the case of an interim report described in paragraph (1), within 30 calendardays after the Trade Representative requests the report; and
 
 &emsp;&emsp;(B) in the case of a report of the Appellate Body, within 21 calendar days after the Trade Representative requests the report.
 
@@ -46,7 +46,7 @@
 
 #### (4) Implementation of determination
 
-&emsp;The Trade Representative may, after consulting with the administering authority and the congressional committees under paragraph\(3), direct the administering authority to implement, in whole or in part, the determination made under paragraph (2).
+&emsp;The Trade Representative may, after consulting with the administering authority and the congressional committees under paragraph (3), direct the administering authority to implement, in whole or in part, the determination made under paragraph (2).
 
 #### (c) Effects of determinations; notice of implementation
 
@@ -82,5 +82,5 @@ Section is comprised of section 129 of Pub. L. 103–465. Subsecs. (a)(7) and (e
 
 #### Effective Date
 
-Section effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
 

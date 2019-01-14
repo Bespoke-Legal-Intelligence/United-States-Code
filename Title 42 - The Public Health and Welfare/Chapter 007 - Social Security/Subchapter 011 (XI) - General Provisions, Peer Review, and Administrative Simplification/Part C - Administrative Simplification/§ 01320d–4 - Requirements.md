@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the health plan may not refuse to conduct such transaction as a standard transaction;
 
-&emsp;&emsp;(B) the insurance plan may not delay such transaction, or otherwise adversely affect, or attempt to adversely affect, the person orthe transaction on the ground that the transaction is a standard transaction; and
+&emsp;&emsp;(B) the insurance plan may not delay such transaction, or otherwise adversely affect, or attempt to adversely affect, the person or the transaction on the ground that the transaction is a standard transaction; and
 
 &emsp;&emsp;(C) the information transmitted and received in connection with the transaction shall be in the form of standard data elements of health information.
 
@@ -38,7 +38,7 @@
 
 #### (2) Compliance with modified standards
 
-&emsp;If the Secretary adopts a modification to a standard or implementation specification under this part, each person to whom the standard or implementation specification applies shall comply with the modified standard or implementation specification at such time as the Secretary determines appropriate, taking into account the time needed to comply due to the nature and extent of the modification. The time determined appropriate under the preceding sentence may not be earlier than the last day of the 180-day period beginning on the date such modification is adopted. The Secretary may extend the time for compliance for small health plans, if the Secretary determines that such extension is appropriate.
+&emsp;If the Secretary adopts a modification to a standard or implementation specification under this part, each person to whom the standard or implementation specification applies shall comply with the modified standard or implementation specification at such time as the Secretary determines appropriate, taking into account the time needed to complydue to the nature and extent of the modification. The time determined appropriate under the preceding sentence may not be earlier than the last day of the 180-day period beginning on the date such modification is adopted. The Secretary may extend the time for compliance for small health plans, if the Secretary determines that such extension is appropriate.
 
 #### (3) Construction
 
@@ -164,7 +164,7 @@ Rules of construction.—Nothing in this section shall be construed—
 
 &emsp;&emsp;"(B) as modifying—
 
-&emsp;&emsp;&emsp;"(i) the April 14, 2003, deadline for a health care provider, a health plan (other than a small health plan), or a health care clearinghouse to comply with the requirements of subpart E of part 164 of title 45, Code of Federal Regulations; or
+&emsp;&emsp;&emsp;"(i) the April 14, 2003, deadline for a health care provider, a health plan (other than a small healthplan), or a health care clearinghouse to comply with the requirements of subpart E of part 164 of title 45, Code of Federal Regulations; or
 
 &emsp;&emsp;&emsp;"(ii) the April 14, 2004, deadline for a small health plan to comply with the requirements of such subpart.
 

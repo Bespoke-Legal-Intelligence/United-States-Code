@@ -34,7 +34,7 @@ There is established in the Department of Agriculture a permanent advisory panel
 
 #### (c) Secretarial response
 
-Not later than 90 days after the publication of a panel report under subsection (b)(2)(C), theSecretary shall publish in the Federal Register any response required of the Secretary to the report.
+Not later than 90 days after the publication of a panel report under subsection (b)(2)(C), the Secretary shall publish in the Federal Register any response required of the Secretary to the report.
 
 #### (d) Composition of panel
 

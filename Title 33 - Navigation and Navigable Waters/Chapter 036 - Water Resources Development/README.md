@@ -3,6 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [2201\.](%C2%A7%2002201%20-%20Secretary%20defined.md) | "Secretary" defined. |
+| [2202\.](%C2%A7%2002202%20-%20Non-Federal%20engagement%20and%20review.md) | Non-Federal engagement and review. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -25,7 +26,7 @@
 | [2222\.](Subchapter%20001%20%28I%29%20-%20Cost%20Sharing/%C2%A7%2002222%20-%20Use%20of%20other%20Federal%20funds.md) | Use of other Federal funds. |
 | [2223\.](Subchapter%20001%20%28I%29%20-%20Cost%20Sharing/%C2%A7%2002223%20-%20Transfer%20of%20excess%20credit.md) | Transfer of excess credit. |
 | [2224\.](Subchapter%20001%20%28I%29%20-%20Cost%20Sharing/%C2%A7%2002224%20-%20Crediting%20authority%20for%20federally%20authorized%20navigation%20projects.md) | Crediting authority for federally authorized navigation projects. |
-| [2225\.](Subchapter%20001%20%28I%29%20-%20Cost%20Sharing/%C2%A7%2002225%20-%20Credit%20in%20lieu%20of%20reimbursement.md) | Credit in lieu of reimbursement. |
+| [2225\.](Subchapter%20001%20%28I%29%20-%20Cost%20Sharing/%C2%A7%2002225%20-%20Credit%20or%20reimbursement.md) | Credit or reimbursement. |
 | [2226\.](Subchapter%20001%20%28I%29%20-%20Cost%20Sharing/%C2%A7%2002226%20-%20Water%20resources%20projects%20on%20Federal%20land.md) | Water resources projects on Federal land. |
 | [2227\.](Subchapter%20001%20%28I%29%20-%20Cost%20Sharing/%C2%A7%2002227%20-%20Clarification%20of%20impacts%20to%20other%20Federal%20facilities.md) | Clarification of impacts to other Federal facilities. |
 
@@ -74,6 +75,7 @@
 | [2261\.](Subchapter%20004%20%28IV%29%20-%20Water%20Resources%20Studies/%C2%A7%2002261%20-%20Territories%20development%20study.md) | Territories development study. |
 | [2262\.](Subchapter%20004%20%28IV%29%20-%20Water%20Resources%20Studies/%C2%A7%2002262%20-%20Survey%20of%20potential%20for%20use%20of%20certain%20facilities%20as%20hydroelectric%20facilities.md) | Survey of potential for use of certain facilities as hydroelectric facilities. |
 | [2263\.](Subchapter%20004%20%28IV%29%20-%20Water%20Resources%20Studies/%C2%A7%2002263%20-%20Study%20of%20Corps%20capability%20to%20conserve%20fish%20and%20wildlife.md) | Study of Corps capability to conserve fish and wildlife. |
+| [2263a.](Subchapter%20004%20%28IV%29%20-%20Water%20Resources%20Studies/%C2%A7%2002263a%20-%20Aquatic%20invasive%20species%20research.md) | Aquatic invasive species research. |
 | [2264\.](Subchapter%20004%20%28IV%29%20-%20Water%20Resources%20Studies/%C2%A7%2002264%20-%20Deauthorization%20of%20studies.md) | Deauthorization of studies. |
 | [2265\.](Subchapter%20004%20%28IV%29%20-%20Water%20Resources%20Studies/%C2%A7%2002265%20-%20Columbia%20River-Arkansas%20River%20Basin%20transfers.md) | Columbia River/Arkansas River Basin transfers. |
 | [2266\.](Subchapter%20004%20%28IV%29%20-%20Water%20Resources%20Studies/%C2%A7%2002266%20-%20Canadian%20tidal%20power%20study.md) | Canadian tidal power study. |
@@ -142,6 +144,7 @@
 | [2314b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002314b%20-%20Advanced%20modeling%20technologies.md) | Advanced modeling technologies. |
 | [2315\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002315%20-%20Periodic%20statements.md) | Periodic statements. |
 | [2315a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002315a%20-%20Transparency%20in%20accounting%20and%20administrative%20expenses.md) | Transparency in accounting and administrative expenses. |
+| [2315b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002315b%20-%20Transparency%20and%20accountability%20in%20cost%20sharing%20for%20water%20resources%20development%20projects.md) | Transparency and accountability in cost sharing for water resources development projects. |
 | [2316\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002316%20-%20Environmental%20protection%20mission.md) | Environmental protection mission. |
 | [2317\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002317%20-%20Wetlands.md) | Wetlands. |
 | [2317a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002317a%20-%20Cooperative%20agreements.md) | Cooperative agreements. |
@@ -149,7 +152,7 @@
 | [2318\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002318%20-%20Flood%20plain%20management.md) | Flood plain management. |
 | [2319\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002319%20-%20Reservoir%20management.md) | Reservoir management. |
 | [2320\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002320%20-%20Protection%20of%20recreational%20and%20commercial%20uses.md) | Protection of recreational and commercial uses. |
-| [2321\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002321%20-%20Operation%20and%20maintenance%20of%20hydroelectric%20facilities.md) | Operation and maintenance of hydroelectric facilities. |
+| [2321\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002321%20-%20Operation%20and%20maintenance%20of%20navigation%20and%20hydroelectric%20facilities.md) | Operation and maintenance of navigation and hydroelectric facilities. |
 | [2321a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002321a%20-%20Hydroelectric%20power%20project%20uprating.md) | Hydroelectric power project uprating. |
 | [2321b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002321b%20-%20Expediting%20hydropower%20at%20Corps%20of%20Engineers%20facilities.md) | Expediting hydropower at Corps of Engineers facilities. |
 | [2322\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002322%20-%20Single%20entities.md) | Single entities. |
@@ -194,13 +197,16 @@
 | [2346\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002346%20-%20Project%20administration.md) | Project administration. |
 | [2347\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002347%20-%20Coordination%20and%20scheduling%20of%20Federal%2C%20State%2C%20and%20local%20actions.md) | Coordination and scheduling of Federal, State, and local actions. |
 | [2347a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002347a%20-%20Determination%20of%20project%20completion.md) | Determination of project completion. |
+| [2347b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002347b%20-%20Purpose%20and%20need.md) | Purpose and need. |
 | [2348\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002348%20-%20Project%20acceleration.md) | Project acceleration. |
 | [2349\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002349%20-%20Categorical%20exclusions%20in%20emergencies.md) | Categorical exclusions in emergencies. |
 | [2350\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002350%20-%20Corrosion%20prevention.md) | Corrosion prevention. |
 | [2351\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002351%20-%20Durability%2C%20sustainability%2C%20and%20resilience.md) | Durability, sustainability, and resilience. |
+| [2351a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002351a%20-%20Operation%20and%20maintenance%20of%20existing%20infrastructure.md) | Operation and maintenance of existing infrastructure. |
 | [2352\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002352%20-%20Funding%20to%20process%20permits.md) | Funding to process permits. |
 | [2353\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002353%20-%20Structural%20health%20monitoring.md) | Structural health monitoring. |
 | [2354\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002354%20-%20Easements%20for%20electric%2C%20telephone%2C%20or%20broadband%20service%20facilities.md) | Easements for electric, telephone, or broadband service facilities. |
+| [2355\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002355%20-%20Prior%20project%20authorization.md) | Prior project authorization. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -210,6 +216,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02201 - Secretary defined](%C2%A7%2002201%20-%20Secretary%20defined.md)
+- [&sect; 02202 - Non-Federal engagement and review](%C2%A7%2002202%20-%20Non-Federal%20engagement%20and%20review.md)
 - [Subchapter 001 (I) - Cost Sharing](Subchapter%20001%20%28I%29%20-%20Cost%20Sharing/README.md)
 - [Subchapter 002 (II) - Harbor Development](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/README.md)
 - [Subchapter 003 (III) - Inland Waterway Transportation System](Subchapter%20003%20%28III%29%20-%20Inland%20Waterway%20Transportation%20System/README.md)

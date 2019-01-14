@@ -16,7 +16,7 @@ Certifications and Determination Required.—A major defense acquisition program
 
 &emsp;&emsp;(C) reasonable cost and schedule estimates have been developed to execute, with the concurrence of the Director of Cost Assessment and Program Evaluation, the product development and production plan under the program;
 
-&emsp;&emsp;(D) the estimated procurement unit cost for the program and the estimated date for initial operational capability for the baseline description for the program (established under section 2435) do not exceed the program cost and fielding targets established under section 2448a(a) of this title, or, if such estimated cost is higher than the program cost targets or if such estimated date is later than the fielding target, the program cost targets have been increased or the fielding target has been delayed by the Secretary of Defense after a request for such increase or delay by the milestone decision authority;
+&emsp;&emsp;(D) the estimated procurement unit cost for the program and the estimated date for initial operational capability for the baseline description for the program (established under section 2435) do not exceed the program cost and fielding targets established under section 2448a(a) of this title, or, if such estimated cost is higher than the program cost targets or if such estimated date is later than the fielding target, the program cost targets have been increased or the fielding target has been delayed by the milestone decision authority;
 
 &emsp;&emsp;(E) funding is expected to be available to execute the product development and production plan for the program, consistent with the estimates described in subparagraph (C) for the program;
 
@@ -58,9 +58,9 @@ Submissions to Congress on Milestone B.—
 
 &emsp;(1)
 
-Brief summary report.—Not later than 15 days after granting Milestone B approval for a major defense acquisition program, the milestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence or intelligence-related activities, the congressional intelligence committees a brief summary report that contains the following elements:
+Brief summary report.—Not later than 15 days after granting Milestone B approval for a major defense acquisition program, themilestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence or intelligence-related activities, the congressional intelligence committees a brief summary report that contains the following elements:
 
-&emsp;&emsp;(A) The program cost and fielding targets established by the Secretary of Defense under section 2448a(a) of this title.
+&emsp;&emsp;(A) The program cost and fielding targets established under section 2448a(a) of this title.
 
 &emsp;&emsp;(B) The estimated cost and schedule for the program established by the military department concerned, including—
 
@@ -118,7 +118,7 @@ Waiver for National Security.—(1) The milestone decision authority may, at the
 
 (e)
 
-Designation of Certification Status in Budget Documentation.—Any budget request, budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program receiving a waiver pursuant to subsection (d) shall prominently and clearly indicate that such program has not fully satisfied the certification requirements of this section until such time as the milestone decision authority makes the determination that such program has satisfied all such certification requirements.
+Designation of Certification Status in Budget Documentation.—Any budget request,budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program receiving a waiver pursuant to subsection (d) shall prominently and clearly indicate that such program has not fully satisfied the certification requirements of this section until such time as the milestone decision authority makes the determination that such program has satisfied all such certification requirements.
 
 (f)
 
@@ -144,13 +144,17 @@ Definitions.—In this section:
 
 &emsp;(8) The term "congressional intelligence committees" has the meaning given that term in section 437(c) of this title.
 
-(Added Pub. L. 109–163, div. A, title VIII, §801(a), Jan. 6, 2006, 119 Stat. 3366, §2366a; amended Pub. L. 109–364, div. A, title VIII, §805, Oct. 17, 2006, 120 Stat. 2314; Pub. L. 110–181, div. A, title VIII, §812, Jan. 28, 2008, 122 Stat. 219; renumbered §2366b, Pub. L. 110–417, \[div. A\], title VIII, §813(a), (b), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(4), title II, §§201(f), 205(a), May 22, 2009, 123 Stat. 1710, 1720, 1724; Pub. L. 111–383, div. A, title VIII, §§813(d)(1), 814(c), title IX, §901(j)(4), title X, §1075(k)(1), Jan. 7, 2011, 124 Stat. 4265, 4266, 4324, 4378; Pub. L. 112–81, div. A, title VIII, §§801(b), (e)(2), 819(b), Dec. 31, 2011, 125 Stat. 1483, 1484, 1501; Pub. L. 112–239, div. A, title III, §322(e)(2), title IX, §904(e)(2), Jan. 2, 2013, 126 Stat. 1695, 1867; Pub. L. 113–66, div. A, title VIII, §§821(a), 822(a), title X, §1091(b)(1), Dec. 26, 2013, 127 Stat. 809, 876; Pub. L. 114–92, div. A, title VIII, §824(a), Nov. 25, 2015, 129 Stat. 903; Pub. L. 114–328, div. A, title VIII, §§805(a)(3), 807(e), 808(b), 843, Dec. 23, 2016, 130 Stat. 2255, 2262, 2263, 2290; Pub. L. 115–91, div. A, title VIII, §§835(b)(1), 838(a)(1), Dec. 12, 2017, 131 Stat. 1471, 1474.)
+(Added Pub. L. 109–163, div. A, title VIII, §801(a), Jan. 6, 2006, 119 Stat. 3366, §2366a; amended Pub. L. 109–364, div. A, title VIII, §805, Oct. 17, 2006, 120 Stat. 2314; Pub. L. 110–181, div. A, title VIII, §812, Jan. 28, 2008, 122 Stat. 219; renumbered §2366b, Pub. L. 110–417, \[div. A\], title VIII, §813(a), (b), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(4), title II, §§201(f), 205(a), May 22, 2009, 123 Stat. 1710, 1720, 1724; Pub. L. 111–383, div. A, title VIII, §§813(d)(1), 814(c), title IX, §901(j)(4), title X, §1075(k)(1), Jan. 7, 2011, 124 Stat. 4265, 4266, 4324, 4378; Pub. L. 112–81, div. A, title VIII, §§801(b), (e)(2), 819(b), Dec. 31, 2011, 125 Stat. 1483, 1484, 1501; Pub. L. 112–239, div. A, title III, §322(e)(2), title IX, §904(e)(2), Jan. 2, 2013, 126 Stat. 1695, 1867; Pub. L. 113–66, div. A, title VIII, §§821(a), 822(a), title X, §1091(b)(1), Dec. 26, 2013, 127 Stat. 809, 876; Pub. L. 114–92, div. A, title VIII, §824(a), Nov. 25, 2015, 129 Stat. 903; Pub. L. 114–328, div. A, title VIII, §§805(a)(3), 807(e), 808(b), 843, Dec. 23, 2016, 130 Stat. 2255, 2262, 2263, 2290; Pub. L. 115–91, div. A, title VIII, §§835(b)(1), 838(a)(1), Dec. 12, 2017, 131 Stat. 1471, 1474; Pub. L. 115–232, div. A, title VIII, §831(b)(3), Aug. 13, 2018, 132 Stat. 1857.)
 
 #### Prior Provisions
 
 A prior section 2366b was renumbered section 2366a of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(3)(D). Pub. L. 115–232, §831(b)(3)(A), struck out "Secretary of Defense after a request for such increase or delay by the" before "milestone decision authority".
+
+Subsec. (c)(1)(A). Pub. L. 115–232, §831(b)(3)(B), struck out "by the Secretary of Defense" after "established".
 
 <b>2017</b>—Subsec. (a)(3)(O). Pub. L. 115–91, §835(b)(1), added subpar. (O).
 
@@ -182,7 +186,7 @@ Subsec. (c). Pub. L. 114–328, §808(b)(1), amended subsec. (c) generally. Prio
 
 "(2) The milestone decision authority shall retain records of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a).
 
-"(3) At the request of any of the congressional defense committees, the Secretary of Defense shall submit to the committee an explanation of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a) with respect to a major defense acquisition program. The explanation shall be submitted in unclassified form, but may include a classified annex."
+"(3) At the request of any of the congressional defense committees, the Secretary of Defense shall submit to the committee an explanation of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a) with respect to a majordefense acquisition program. The explanation shall be submitted in unclassified form, but may include a classified annex."
 
 Subsec. (g)(6) to (8). Pub. L. 114–328, §808(b)(2), added pars. (6) to (8).
 
@@ -332,23 +336,13 @@ Pub. L. 114–92, div. A, title VIII, §802(d)(3), Nov. 25, 2015, 129 Stat. 880,
 
 #### Certification and Review of Programs Entering Development Prior to Enactment of Section 2366b of Title 10
 
-Pub. L. 111–23, title II, §205(b), May 22, 2009, 123 Stat. 1725, as amended by Pub. L. 111–383, div. A, title VIII,§813(d)(2), Jan. 7, 2011, 124 Stat. 4266, which related to certification and review of programs entering development prior to enactment of section 2366b of this title, was repealed by Pub. L. 112–239, div. A, title VIII, §814, Jan. 2, 2013, 126 Stat. 1830.
+Pub. L. 111–23, title II, §205(b), May 22, 2009, 123 Stat. 1725, as amended by Pub. L. 111–383, div. A, title VIII, §813(d)(2), Jan. 7, 2011, 124 Stat. 4266, which related to certification and review of programs entering development prior to enactment of section 2366b of this title, was repealed by Pub. L. 112–239, div. A, title VIII, §814, Jan. 2, 2013, 126 Stat. 1830.
 
 #### Formal Review Process for Bandwidth Requirements
 
-Pub. L. 110–417, \[div. A\], title X, §1047(d), Oct. 14, 2008, 122 Stat. 4603, as amended by Pub. L. 111–84, div. A, title X, §1033, Oct. 28, 2009, 123 Stat. 2449, provided that:
-
-"(1)
-
-In general.—The Secretary of Defense and the Director of National Intelligence shall, as part of the Milestone B or Key Decision Point B approval process for any major defense acquisition program or major system acquisition program, establish a formal review process to ensure that—
+Pub. L. 110–417, \[div. A\], title X, §1047(d), Oct. 14, 2008, 122 Stat. 4603, as amended by Pub. L. 111–84, div. A, title X, §1033, Oct. 28, 2009, 123 Stat. 2449; Pub. L. 115–232, div. A, title VIII, §813(c), Aug. 13, 2018, 132 Stat. 1851, provided that: "The Secretary of Defense and the Director of National Intelligence shall, as part of the Milestone B or Key Decision Point B approval process for any major defense acquisition program or major system acquisition program, establish a formal review process to ensure that—
 
 &emsp;"(A) the bandwidth requirements needed to support such program are or will be met; and
 
-&emsp;"(B) a determination will be made with respect to how to meet the bandwidth requirements for such program.
-
-"(2)
-
-Reports.—Not later than January 1 of each year, the Secretary of Defense and the Director of National Intelligence shall each submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a report on any determinations made under paragraph (1) with respect to meeting the bandwidth requirements for major defense acquisition programs and major system acquisition programs during the preceding fiscal year."
-
-\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1047(d)(2) of Pub. L. 110–417, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
+&emsp;"(B) a determination will be made with respect to how to meet the bandwidth requirements for such program."
 

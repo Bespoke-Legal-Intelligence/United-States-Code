@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 101–239, §7738(a), struck out subsec. (c) relating to bo
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007, see section 8246(c) of Pub.L. 110–28, set out as a note under section 6060 of this title.
+Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007, see section 8246(c) of Pub. L. 110–28, set out as a note under section 6060 of this title.
 
 #### Effective Date of 1989 Amendment
 

@@ -159,7 +159,7 @@ nc
 
 #### (i) Automotive good
 
-&emsp;&emsp;&emsp;The term "automotive good" means a good provided for in any of subheadings 8407.31 through 8407.34, subheading 8408.20, heading 8409, or in any of headings 8701 through 8708.
+&emsp;&emsp;&emsp;The term "automotive good" means a good provided for in any of subheadings 8407.31 through 8407.34, subheading 8408.20,heading 8409, or in any of headings 8701 through 8708.
 
 #### (ii) RVC
 
@@ -311,7 +311,7 @@ nc
 
 &emsp;&emsp;(C) A nonoriginating material provided for in heading 0805, or any of subheadings 2009.11 through 2009.39, that is used in the production of a good provided for in any of subheadings 2009.11 through 2009.39, or in fruit or vegetable juice of any single fruit or vegetable, fortified with minerals or vitamins, concentrated or unconcentrated, provided for in subheading 2106.90 or 2202.90.
 
-&emsp;&emsp;(D) A nonoriginating material provided for in heading 0901 or 2101 that is used in the production of a good provided for in heading 0901 or 2101.
+&emsp;&emsp;(D) A nonoriginating material provided for in heading 0901 or 2101 that is used in theproduction of a good provided for in heading 0901 or 2101.
 
 &emsp;&emsp;(E) A nonoriginating material provided for in heading 1006 that is used in the production of a good provided for in heading 1102 or 1103 or subheading 1904.90.
 
@@ -453,7 +453,7 @@ In this section:
 
 #### (4) Fungible good or fungible material
 
-&emsp;The term "fungible good" or "fungible material" means a good or material, as the casemay be, that is interchangeable with another good or material for commercial purposes and the properties of which are essentially identical to such other good or material.
+&emsp;The term "fungible good" or "fungible material" means a good or material, as the case may be, that is interchangeable with another good or material for commercial purposes and the properties of which are essentially identical to such other good or material.
 
 #### (5) Generally accepted accounting principles
 
@@ -477,7 +477,7 @@ In this section:
 
 &emsp;&emsp;(G) goods produced on board factory ships from the goods referred to in subparagraph (F), if such factory ships are registered or recorded with that CAFTA–DR country and fly the flag of that country;
 
-&emsp;&emsp;(H) goods taken by a CAFTA–DR country or a person of a CAFTA–DR country from the seabed or subsoil outside territorial waters, if a CAFTA–DR country has rights to exploit such seabed or subsoil;
+&emsp;&emsp;(H) goods taken by a CAFTA–DR country or a person of a CAFTA–DR country fromthe seabed or subsoil outside territorial waters, if a CAFTA–DR country has rights to exploit such seabed or subsoil;
 
 &emsp;&emsp;(I) goods taken from outer space, if the goods are obtained by a CAFTA–DR country or a person of a CAFTA–DR country and not processed in the territory of a country other than a CAFTA–DR country;
 
@@ -575,7 +575,7 @@ In this section:
 
 #### (21) Remanufactured good
 
-&emsp;The term "remanufactured good" means a good that is classified under chapter 84, 85, or 87, or heading 9026, 9031, or 9032, other than a good classified under heading 8418 or 8516, and that—
+&emsp;The term "remanufactured good" means a good that is classified under chapter 84, 85, or87, or heading 9026, 9031, or 9032, other than a good classified under heading 8418 or 8516, and that—
 
 &emsp;&emsp;(A) is entirely or partially comprised of recovered goods; and
 
@@ -655,7 +655,7 @@ In this section:
 
 #### (D) Deemed approval of request
 
-&emsp;&emsp;If, after an interested entity submits a request under subparagraph (C)(i), the President does not, within the applicable time period specified in subparagraph (C)(iv), make a determination under subparagraph (C)(ii) regarding the request, the fabric, yarn, or fiber that is the subject of the request shall be considered to be added, in an unrestricted quantity, to the list in Annex 3.25 of the Agreement beginning—
+&emsp;&emsp;If, after an interested entity submits a request under subparagraph (C)(i), the President does not, within the applicable time period specified in subparagraph (C)(iv), makea determination under subparagraph (C)(ii) regarding the request, the fabric, yarn, or fiber that is the subject of the request shall be considered to be added, in an unrestricted quantity, to the list in Annex 3.25 of the Agreement beginning—
 
 &emsp;&emsp;&emsp;(i) 45 days after the date on which the request was submitted; or
 

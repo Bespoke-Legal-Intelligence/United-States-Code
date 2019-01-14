@@ -4,7 +4,7 @@
 
 #### (1) Submission
 
-&emsp;A State educational agency that desires to receive a grant under this part shall submit to the Secretary an application at such time, in such manner, and including such information as the Secretary may require.
+&emsp;A State educational agency that desires to receive a grant under this part shall submit tothe Secretary an application at such time, in such manner, and including such information as the Secretary may require.
 
 #### (2) State plan
 
@@ -42,7 +42,7 @@ Each State personnel development plan under subsection (a)(2) shall—
 
 &emsp;&emsp;(A) a description of the programs and activities to be supported under this part that will provide personnel with the knowledge and skills to meet the needs of, and improve the performance and achievement of, infants, toddlers, preschoolers, and children with disabilities; and
 
-&emsp;&emsp;(B) how such strategies will be integrated, to the maximum extent possible, with otheractivities supported by grants funded under section 1462 of this title;
+&emsp;&emsp;(B) how such strategies will be integrated, to the maximum extent possible, with other activities supported by grants funded under section 1462 of this title;
 
 &emsp;(5) provide an assurance that the State educational agency will provide technical assistance to local educational agencies to improve the quality of professional development available to meet the needs of personnel who serve children with disabilities;
 

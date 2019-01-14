@@ -18,7 +18,7 @@ Effective Date for Amendments.—Except as provided in subsection (b), the amend
 
 "(b)
 
-Effective Date for New Reserve Officer Personnel Policies.—(1) The provisions of part III of subtitle E of title 10, United States Code, as added by section 1611, shall become effective on October 1, 1996. The amendments made by part II \[part II (§§1621 to 1630) of subtitle A of title XVI of div. A of Pub. L. 103–337, see Tables for classification\], of subtitle A, by subtitle B \[subtitle B (§§1631 to 1641) of title XVI of div. A of Pub. L. 103–337, see Tables for classification\], and by section 1671(c)(2) \[amending section 113 of this title\] and paragraphs (2), (3)(B), (3)(C), and (4) of section 1675(d) \[amending sections 12645 to 12647 of this title\] shall take effect on October 1, 1996.
+Effective Date for New Reserve Officer Personnel Policies.—(1) The provisions of part III of subtitle E of title 10, United States Code, as added by section 1611, shall become effective on October 1, 1996. The amendments made by part II \[part II (§§1621 to 1630) of subtitle A of title XVI of div. A of Pub. L. 103–337, see Tables for classification\], of subtitle A, by subtitle B \[subtitle B (§§1631 to 1641) of title XVI of div. A of Pub. L. 103–337, see Tables for classification\], and by section 1671(c)(2) \[amending section 113 of this title\] and paragraphs (2), (3)(B), (3)(C), and (4) of section 1675(d)\[amending sections 12645 to 12647 of this title\] shall take effect on October 1, 1996.
 
 "(2) Any reference in subtitle E of this title to the effective date of this title is a reference to the effective date prescribed in paragraph (1).
 

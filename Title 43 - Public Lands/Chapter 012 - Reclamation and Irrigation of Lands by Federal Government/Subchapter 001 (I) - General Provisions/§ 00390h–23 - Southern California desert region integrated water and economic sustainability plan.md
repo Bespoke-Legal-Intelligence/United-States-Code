@@ -16,7 +16,7 @@ There is authorized to be appropriated to carry out this section, $20,000,000.
 
 #### Codification
 
-Section is based on section "16——" of Pub. L. 102–575. Two other sections "16——" of Pub. L. 102–575 have been enacted and are classified to sections 390h–21 and 390h–22 of this title.
+Section is based on section "16——" of Pub. L. 102–575. Two other sections "16——" of Pub. L. 102–575 have beenenacted and are classified to sections 390h–21 and 390h–22 of this title.
 
 #### Limitation on Funds; Credits Toward Non-Federal Share
 

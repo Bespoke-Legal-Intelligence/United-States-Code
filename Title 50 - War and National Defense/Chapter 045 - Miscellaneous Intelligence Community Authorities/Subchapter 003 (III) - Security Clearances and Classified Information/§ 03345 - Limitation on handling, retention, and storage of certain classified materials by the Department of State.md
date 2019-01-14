@@ -2,7 +2,7 @@
 
 #### (a) Certification regarding full compliance with requirements
 
-The Director of Central Intelligence shall certify to the appropriate committees of Congress whether or not each covered element of the Department of State is in full compliance with allapplicable directives of the Director of Central Intelligence relating to the handling, retention, or storage of covered classified material.
+The Director of Central Intelligence shall certify to the appropriate committees of Congress whether or not each covered element of the Department of State is in full compliance with all applicable directives of the Director of Central Intelligence relating to the handling, retention, or storage of covered classified material.
 
 #### (b) Limitation on certification
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(vi) To develop, print, and disseminate education and prevention materials on fetal alcohol spectrum disorders.
 
-&emsp;&emsp;&emsp;(vii) To develop and implement, in consultation with Indian Tribes and Tribal Organizations, and in conference with urbanIndian Organizations, culturally sensitive assessment and diagnostic tools including dysmorphology clinics and multidisciplinary fetal alcohol spectrum disorders clinics for use in Indian communities and urban Centers.
+&emsp;&emsp;&emsp;(vii) To develop and implement, in consultation with Indian Tribes and Tribal Organizations, and in conference with urban Indian Organizations, culturally sensitive assessment and diagnostic tools including dysmorphology clinics and multidisciplinary fetal alcohol spectrum disorders clinics for use in Indian communities and urban Centers.
 
 &emsp;&emsp;&emsp;(viii) To develop and provide training on fetal alcohol spectrum disorders to professionals providing services to Indians, including medical and allied health practitioners, social service providers, educators, and law enforcement, court officials and corrections personnel in the juvenile and criminal justice systems.
 

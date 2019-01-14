@@ -8,7 +8,7 @@
 
 &emsp;(3) chapters 11, 13 (except section 1312(a)), 23, and 24 (to the extent provided for in section 2402(a)(8)) of this title.
 
-> Except as provided in subsection (c) or (d), payments under such chapters shall be made at a rate of $0.50 for each dollar authorized, and where annual income is a factor in entitlement to benefits, the dollar limitations in the law specifying such annual income shall apply at a rate of $0.50 for each dollar. Any payments made before February 18, 1946, to any such member under such laws conferring rights, benefits, or privileges shall not be deemed to have been invalid by reason of the circumstance that such member's service was not service in the Armed Forces or any component thereof within the meaning of any such law.
+> Except as provided in subsection (c) or (d), payments under such chapters shall be made at a rate of $0.50 for each dollar authorized, and where annual income is a factor in entitlement to benefits, the dollar limitations in the law specifying such annual income shall apply at a rate of $0.50 for each dollar. Any payments madebefore February 18, 1946, to any such member under such laws conferring rights, benefits, or privileges shall not be deemed to have been invalid by reason of the circumstance that such member's service was not service in the Armed Forces or any component thereof within the meaning of any such law.
 
 (b) Service in the Philippine Scouts under section 14 of the Armed Forces Voluntary Recruitment Act of 1945 shall not be deemed to have been active military, naval, or air service for the purposes of any of the laws administered by the Secretary except—
 
@@ -22,7 +22,7 @@
 
 (d)(1) With respect to benefits under chapter 23 of this title, in the case of an individual described in paragraph (2), the second sentence of subsection (a) or (b), as otherwise applicable, shall not apply.
 
-(2) Paragraph (1) applies to any individual whose service is described in subsection (a) and who dies after November 1, 2000, or whose service is described in subsection (b) and who dies afterthe date of the enactment of the Veterans Benefits Act of 2003, if the individual, on the individual's date of death—
+(2) Paragraph (1) applies to any individual whose service is described in subsection (a) and who dies after November 1, 2000, or whose service is described in subsection (b) and who dies after the date of the enactment of the Veterans Benefits Act of 2003, if the individual, on the individual's date of death—
 
 &emsp;(A) is a citizen of, or an alien lawfully admitted for permanent residence in, the United States;
 

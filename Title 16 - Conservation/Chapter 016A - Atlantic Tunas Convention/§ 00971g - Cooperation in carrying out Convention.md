@@ -2,7 +2,7 @@
 
 #### (a) Federal and State agencies; private institutions and organizations
 
-The United States Commissioners, through the Secretary of State and with the concurrence of the agency, institution, or organization concerned, may arrange for the cooperation of agencies of the United States Government, and of State and private institutions and organizations in carrying out the provisions of article IV of the Convention.
+The United States Commissioners, through the Secretary of State and with the concurrence of the agency, institution, or organization concerned, may arrange for the cooperation of agencies of the United States Government, and ofState and private institutions and organizations in carrying out the provisions of article IV of the Convention.
 
 #### (b) Scientific and other programs; facilities and personnel
 
@@ -22,7 +22,7 @@ None of the prohibitions deriving from this chapter, or contained in the laws or
 
 &emsp;(B) has enacted laws or promulgated regulations which (i) are less restrictive than the regulations promulgated pursuant to this chapter, or (ii) are not effectively enforced.
 
-> If a State requests the opportunity for an agency hearing on the record, the Secretary shall not apply regulations promulgated pursuant to this chapter within that State's boundaries unless the hearing record supports a determination under paragraph (A) or (B). Such regulations shall apply until the Secretary determines that the State is effectively enforcing within itsboundaries measures which are not less restrictive than such regulations.
+> If a State requests the opportunity for an agency hearing on the record, the Secretary shall not apply regulations promulgated pursuant to this chapter within that State's boundaries unless the hearing record supports a determination under paragraph (A) or (B). Such regulations shall apply until the Secretary determines that the State is effectively enforcing within its boundaries measures which are not less restrictive than such regulations.
 
 #### (e) Continuing review of State laws and regulations
 

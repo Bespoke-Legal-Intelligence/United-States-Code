@@ -2,7 +2,7 @@
 
 #### (a) Finding
 
-Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Saharan Africa, the Caribbean, Central Asia, Eastern Europe, Latin America and other developing countries is a major global health, national security, development, and humanitarian crisis.
+Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Saharan Africa,the Caribbean, Central Asia, Eastern Europe, Latin America and other developing countries is a major global health, national security, development, and humanitarian crisis.
 
 #### (b) Policy
 
@@ -62,7 +62,7 @@ Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Sah
 
 #### (3) Coordination of assistance efforts
 
-&emsp;The President shall coordinate the provision of assistance under paragraph (1) with the provision of related assistance by the Joint United Nations Programme on HIV/AIDS (UNAIDS), the United Nations Children's Fund (UNICEF), the World Health Organization (WHO), the United Nations Development Programme (UNDP), the Global Fund to Fight AIDS, Tuberculosis and Malaria and other appropriate international organizations (such as the International Bank for Reconstruction and Development), relevant regional multilateral development institutions, national, state, and local governments of partner countries, other international actors,,<sup>2</sup> appropriate governmental and nongovernmental organizations, and relevant executive branch agencies within the framework of the principles of the Three Ones.
+&emsp;The President shall coordinate the provision of assistance under paragraph (1) with the provision of related assistance by the Joint United Nations Programme on HIV/AIDS (UNAIDS), the United Nations Children's Fund (UNICEF), the World Health Organization (WHO), the United Nations Development Programme (UNDP), the Global Fund to Fight AIDS, Tuberculosis and Malaria and other appropriate international organizations (such as the International Bank for Reconstruction andDevelopment), relevant regional multilateral development institutions, national, state, and local governments of partner countries, other international actors,,<sup>2</sup> appropriate governmental and nongovernmental organizations, and relevant executive branch agencies within the framework of the principles of the Three Ones.
 
 #### (d) Activities supported
 
@@ -120,7 +120,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 &emsp;&emsp;&emsp;(vii) strategies to address the stigma and discrimination that impede HIV/AIDS prevention efforts; and
 
-&emsp;&emsp;&emsp;(viii) assistance to facilitate widespread access to microbicides for HIV prevention,if safe and effective products become available, including financial and technical support for culturally appropriate introductory programs, procurement, distribution, logistics management, program delivery, acceptability studies, provider training, demand generation, and postintroduction monitoring.
+&emsp;&emsp;&emsp;(viii) assistance to facilitate widespread access to microbicides for HIV prevention, if safe and effective products become available, including financial and technical support for culturally appropriate introductory programs, procurement, distribution, logistics management, program delivery, acceptability studies, provider training, demand generation, and postintroduction monitoring.
 
 #### (2) Treatment
 
@@ -128,7 +128,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 &emsp;&emsp;(A) assistance to establish and implement programs to strengthen and broaden indigenous health care delivery systems and the capacity of such systems to deliver HIV/AIDS pharmaceuticals and otherwise provide for the treatment of individuals with HIV/AIDS, including clinical training for indigenous organizations and health care providers;
 
-&emsp;&emsp;(B) assistance to strengthen and expand hospice and palliative care programs to assist patients debilitated by HIV/AIDS, their families, and the primary caregivers of such patients, including programs that utilize faith-based and community-based organizations;
+&emsp;&emsp;(B) assistance to strengthen and expand hospice and palliative care programs to assist patients debilitated by HIV/AIDS, their families, and the primary caregivers of such patients, including programs that utilizefaith-based and community-based organizations;
 
 &emsp;&emsp;(C) assistance for the purpose of the care and treatment of individuals with HIV/AIDS through the provision of pharmaceuticals, including antiretrovirals and other pharmaceuticals and therapies for the treatment of opportunistic infections, pain management, nutritional support, and other treatment modalities;
 
@@ -190,7 +190,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 #### (D) Distribution
 
-&emsp;&emsp;The distribution of such HIV/AIDS pharmaceuticals, antiviral therapies, and other appropriate medicines (including medicines to treat opportunistic infections) to qualified national, regional, or local organizations for the treatment of individuals with HIV/AIDS in accordance with appropriate HIV/AIDS testing and monitoring requirements and treatment protocols and for the prevention of mother-to-child transmission of the HIV infection.
+&emsp;&emsp;The distribution of such HIV/AIDS pharmaceuticals, antiviral therapies, and other appropriate medicines (including medicines to treat opportunistic infections) to qualified national, regional, or local organizations for the treatment of individuals with HIV/AIDS in accordance with appropriate HIV/AIDS testing and monitoring requirements and treatment protocols and for theprevention of mother-to-child transmission of the HIV infection.
 
 #### (6) Related and coordinated activities
 
@@ -258,7 +258,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 &emsp;The establishment and operation of public-private partnership entities within countries in sub-Saharan Africa, the Caribbean, and other countries affected by the HIV/AIDS pandemic that are dedicated to supporting the national strategy of such countries regarding the prevention, treatment, and monitoring of HIV/AIDS. Each such public-private partnership should—
 
-&emsp;&emsp;(A) support the development, implementation, and management of comprehensiveHIV/AIDS plans in support of the national HIV/AIDS strategy;
+&emsp;&emsp;(A) support the development, implementation, and management of comprehensive HIV/AIDS plans in support of the national HIV/AIDS strategy;
 
 &emsp;&emsp;(B) operate at all times in a manner that emphasizes efficiency, accountability, and results-driven programs;
 
@@ -270,7 +270,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 #### (8) Compacts and framework agreements
 
-&emsp;The development of compacts or framework agreements, tailored to local circumstances, with national governments or regional partnerships in countries with significant HIV/AIDS burdens to promote host government commitment to deeper integration of HIV/AIDS services into health systems, contribute to health systems overall, and enhance sustainability, including—
+&emsp;The development of compacts or framework agreements, tailored to local circumstances,with national governments or regional partnerships in countries with significant HIV/AIDS burdens to promote host government commitment to deeper integration of HIV/AIDS services into health systems, contribute to health systems overall, and enhance sustainability, including—
 
 &emsp;&emsp;(A) cost sharing assurances that meet the requirements under section 2151h of this title; and
 
@@ -528,7 +528,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 &emsp;&emsp;&emsp;(ii) the number and percentage of eligible HIV positive patients starting isoniazid preventative therapy.
 
-&emsp;&emsp;(Q) A description of efforts by partner countries to train, employ, and retain health care workers, including efforts to address workforce shortages.
+&emsp;&emsp;(Q) A description of efforts by partner countries to train, employ, and retain healthcare workers, including efforts to address workforce shortages.
 
 &emsp;&emsp;(R) A description of program evaluations completed during the reporting period, including whether all completed evaluations have been published on a publically available Internet website and whether any completed evaluations did not adhere to the common evaluation standards of practice published under paragraph (4).
 
@@ -584,7 +584,7 @@ Subsec. (b). Pub. L. 110–293, §301(a)(2), amended subsec. (b) generally. Prio
 
 Subsec. (c)(1). Pub. L. 110–293, §301(b)(1), substituted "Central Asia, Eastern Europe, Latin America, and other countries and areas, particularly with respect to refugee populations or those in postconflict settings in such countries and areas with significant or increasing HIV incidence rates" for "and other countries and areas".
 
-Subsec. (c)(2). Pub. L. 110–293, §301(b)(2), substituted "Central Asia, Eastern Europe, Latin America, and other countries and areas affected by the HIV/AIDSpandemic, particularly with respect to refugee populations or those in post-conflict settings in such countries and areas with significant or increasing HIV incidence rates." for "and other countries and areas affected by the HIV/AIDS pandemic".
+Subsec. (c)(2). Pub. L. 110–293, §301(b)(2), substituted "Central Asia, Eastern Europe, Latin America, and other countries and areas affected by the HIV/AIDS pandemic, particularly with respect to refugee populations or those in post-conflict settings in such countries and areas with significant or increasing HIV incidence rates." for "and other countries and areas affected by the HIV/AIDS pandemic".
 
 Subsec. (c)(3). Pub. L. 110–293, §301(b)(3), substituted "partner countries, other international actors," for "foreign countries" and inserted "within the framework of the principles of the Three Ones" before the period at end.
 

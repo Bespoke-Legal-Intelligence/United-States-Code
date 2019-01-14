@@ -32,7 +32,7 @@ The purpose of this section is to establish performance accountability measures 
 
 &emsp;&emsp;&emsp;&emsp;(IV) the percentage of program participants who obtain a recognized postsecondary credential, or a secondary school diploma or its recognized equivalent (subject to clause (iii)), during participation in or within 1 year after exit from the program;
 
-&emsp;&emsp;&emsp;&emsp;(V) the percentage of program participants who, during a program year, are in an education or training program that leads to a recognized postsecondary credential or employment and who areachieving measurable skill gains toward such a credential or employment; and
+&emsp;&emsp;&emsp;&emsp;(V) the percentage of program participants who, during a program year, are in an education or training program that leads to a recognized postsecondary credential or employment and who are achieving measurable skill gains toward such a credential or employment; and
 
 &emsp;&emsp;&emsp;&emsp;(VI) the indicators of effectiveness in serving employers established pursuant to clause (iv).
 
@@ -90,7 +90,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (I) First 2 years
 
-&emsp;&emsp;&emsp;&emsp;The State shall reach agreement with the Secretary of Labor, in conjunction with the Secretary of Education on levels of performance for each indicator described in clause (iii) for each of the programs described in clause (ii) for each of the first 2 program years covered by the State plan. In reaching the agreement, the State and the Secretary of Labor in conjunction with the Secretary of Education shall take into account the levels identified in the State plan under clause (iii) and the factors described in clause (v). The levels agreed to shall be considered to be the State adjusted levels of performance for the State for such program years and shall be incorporated into the State plan prior to the approval of such plan.
+&emsp;&emsp;&emsp;&emsp;The State shall reach agreement with the Secretary of Labor, in conjunction with the Secretary of Education on levels of performance for each indicator described in clause (iii) for each of the programs described in clause (ii) for each of the first 2 program years covered by the State plan. In reaching the agreement, the State and the Secretary of Labor in conjunction with the Secretary of Education shall take into account the levelsidentified in the State plan under clause (iii) and the factors described in clause (v). The levels agreed to shall be considered to be the State adjusted levels of performance for the State for such program years and shall be incorporated into the State plan prior to the approval of such plan.
 
 #### (II) Third and fourth year
 
@@ -156,7 +156,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (3) Adjustment factors
 
-&emsp;In negotiating the local levels of performance, the local board, the chief elected official,and the Governor shall make adjustments for the expected economic conditions and the expected characteristics of participants to be served in the local area, using the statistical adjustment model developed pursuant to subsection (b)(3)(A)(viii). In addition, the negotiated local levels of performance applicable to a program year shall be revised to reflect the actual economic conditions experienced and the characteristics of the populations served in the local area during such program year using the statistical adjustment model.
+&emsp;In negotiating the local levels of performance, the local board, the chief elected official, and the Governor shall make adjustments for the expected economic conditions and the expected characteristics of participants to be served in the local area, using the statistical adjustment model developed pursuant to subsection (b)(3)(A)(viii). In addition, the negotiated local levels of performance applicable to a program year shall be revised to reflect the actual economic conditions experienced and the characteristics of the populations served in the local area during such program year using the statistical adjustment model.
 
 #### (d) Performance reports
 
@@ -202,7 +202,7 @@ The purpose of this section is to establish performance accountability measures 
 
 &emsp;&emsp;(A) the information specified in subparagraphs (A) through (L) of paragraph (2), for each of the programs described in subclauses (I) through (III) of subsection (b)(3)(A)(ii);
 
-&emsp;&emsp;(B) the percentage of the local area's allocation under sections 3163(b) and 3173(b) of this title that the local area spent on administrative costs; and
+&emsp;&emsp;(B) the percentage of the local area's allocation under sections 3163(b) and 3173(b) ofthis title that the local area spent on administrative costs; and
 
 &emsp;&emsp;(C) other information that facilitates comparisons of programs with programs in other local areas (or planning regions, as appropriate).
 
@@ -214,7 +214,7 @@ The purpose of this section is to establish performance accountability measures 
 
 &emsp;&emsp;(B) the total number of individuals exiting from the program of study (or the equivalent);
 
-&emsp;&emsp;(C) the total number of participants who received training services through each of the adult program and the dislocated worker program authorized under subpart 3 of part B, disaggregated by the type of entity thatprovided the training, during the most recent program year and the 3 preceding program years;
+&emsp;&emsp;(C) the total number of participants who received training services through each of the adult program and the dislocated worker program authorized under subpart 3 of part B, disaggregated by the type of entity that provided the training, during the most recent program year and the 3 preceding program years;
 
 &emsp;&emsp;(D) the total number of participants who exited from training services, disaggregated by the type of entity that provided the training, during the most recent program year and the 3 preceding program years;
 
@@ -268,7 +268,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (A) Technical assistance
 
-&emsp;&emsp;If a State fails to meet the State adjusted levels of performance relating to indicatorsdescribed in subsection (b)(2)(A) for a program for any program year, the Secretary of Labor and the Secretary of Education shall provide technical assistance, including assistance in the development of a performance improvement plan.
+&emsp;&emsp;If a State fails to meet the State adjusted levels of performance relating to indicators described in subsection (b)(2)(A) for a program for any program year, the Secretary of Labor and the Secretary of Education shall provide technical assistance, including assistance in the development of a performance improvement plan.
 
 #### (B) Reduction in amount of grant
 
@@ -328,7 +328,7 @@ Using non-Federal funds, the Governor may establish incentives for local boards 
 
 #### References in Text
 
-The Wagner-Peyser Act, referred to in subsec. (b)(2)(A)(i), (3)(A)(ii)(V), is act June 6, 1933, ch. 49, 48Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title. Sections 1 to 13 of the Act are classified to sections 49 to 49c, 49d, and 49e to 49l of this title, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in subsec. (b)(2)(A)(i), (3)(A)(ii)(V), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title. Sections 1 to 13 of the Act are classified to sections 49 to 49c, 49d, and 49e to 49l of this title, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsecs. (b)(2)(A)(i), (3)(A)(ii)(VI) and (e)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 

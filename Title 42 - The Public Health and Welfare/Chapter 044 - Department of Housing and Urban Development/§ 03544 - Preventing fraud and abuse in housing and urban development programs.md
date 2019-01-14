@@ -40,7 +40,7 @@ As a condition of initial or continuing eligibility for participation in any pro
 
 #### (2) Applicant and participant protections
 
-&emsp;(A) In order to protect applicants for, and recipients of, benefits under the programs of the Department of Housing and Urban Development from the improper use of information obtained pursuant to the requirements of section 503(i) of this title from the State agency charged with the administration of the State unemployment compensation law, pursuant to section 3(d)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(d)(1)\] from the applicant or participant, or pursuant to section 6103(l)(7)(D)(ix) of title 26 from the Commissioner of Social Security or the Secretary of the Treasury, officers and employees of the Department of Housing and Urban Development and (in the case of information obtained pursuant to such section 503(i) or 3(d)(1) \[42 U.S.C. 1437a(d)(1)\]) representatives of public housing agencies may only use such information—
+&emsp;(A) In order to protect applicants for, and recipients of, benefits under the programs of the Department of Housing and Urban Development from the improper use of information obtained pursuant to the requirements of section 503(i) of this title from the State agencycharged with the administration of the State unemployment compensation law, pursuant to section 3(d)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(d)(1)\] from the applicant or participant, or pursuant to section 6103(l)(7)(D)(ix) of title 26 from the Commissioner of Social Security or the Secretary of the Treasury, officers and employees of the Department of Housing and Urban Development and (in the case of information obtained pursuant to such section 503(i) or 3(d)(1) \[42 U.S.C. 1437a(d)(1)\]) representatives of public housing agencies may only use such information—
 
 &emsp;&emsp;(i) to verify an applicant's or participant's eligibility for or level of benefits; or
 
@@ -78,7 +78,7 @@ As a condition of initial or continuing eligibility for participation in any pro
 
 #### (e) Conditions of release of information by third parties
 
-An applicant or participant under any program of the Department of Housing and Urban Development may not be required or requested to consent to the release of information by third parties as a condition of initial or continuing eligibility for participation in the program unless—
+An applicant or participant under any program of the Department of Housing and Urban Development may not be required or requestedto consent to the release of information by third parties as a condition of initial or continuing eligibility for participation in the program unless—
 
 &emsp;(1) the request for consent is made, and the information secured is maintained, in accordance with this section,<sup>2</sup> section 552a of title 5; and
 

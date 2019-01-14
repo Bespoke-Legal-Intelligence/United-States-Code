@@ -104,7 +104,7 @@ The Secretary may not approve a rehabilitation request if the need for rehabilit
 
 &emsp;&emsp;(D) $75,000,000 for fiscal year 2006; and
 
-&emsp;&emsp;(E) $85,000,000 for each of fiscal years 2008 through 2018.
+&emsp;&emsp;(E) $85,000,000 for each of fiscal years 2008 through 2023.
 
 #### (i) Assessment of rehabilitation needs
 
@@ -120,7 +120,7 @@ The Secretary, in concert with the responsible State agencies, shall conduct an 
 
 &emsp;Not later than 90 days after the completion of a specific rehabilitation project for which assistance is provided under this section, the local organization that received the assistance shall make a report to the Secretary giving the status of any rehabilitation effort undertaken using financial assistance provided under this section.
 
-(Aug. 4, 1954, ch. 656, §14, as added Pub. L. 106–472, title III, §313, Nov. 9, 2000, 114 Stat. 2077; amended Pub. L. 107–171, title II, §2505, May 13, 2002, 116 Stat. 274; Pub. L. 110–234, title II, §2803, May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, §4(a), title II, §2803, June 18, 2008, 122 Stat. 1664, 1814; Pub. L. 113–79, title II, §2505, Feb. 7, 2014, 128 Stat. 752.)
+(Aug. 4, 1954, ch. 656, §14, as added Pub. L. 106–472, title III, §313, Nov. 9, 2000, 114 Stat. 2077; amended Pub. L. 107–171, title II, §2505, May 13, 2002, 116 Stat. 274; Pub. L. 110–234, title II, §2803, May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, §4(a), title II, §2803, June 18, 2008, 122 Stat. 1664, 1814; Pub. L. 113–79, title II, §2505, Feb. 7, 2014, 128 Stat. 752; Pub. L. 115–334, title II, §2401(b), Dec. 20, 2018, 132 Stat. 4570.)
 
 #### References in Text
 
@@ -130,13 +130,15 @@ The Department of Agriculture Appropriation Act, 1954, referred to in subsec. (a
 
 Flood Prevention" are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. L. 97–98, Dec. 22, 1981, 95 Stat.1213, as amended. Subtitle H of title XV of the Act is classified generally to subchapter V (§3451 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Tables.
+The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. L. 97–98, Dec. 22, 1981, 95 Stat. 1213, as amended. Subtitle H of title XV of the Act is classified generally to subchapter V (§3451 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (h)(2)(E). Pub. L. 115–334 substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (h)(1)(H). Pub. L. 113–79, §2505(a), added subpar. (H).
 

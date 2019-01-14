@@ -24,7 +24,7 @@ This section may be cited as the "Catalyst to Better Diabetes Care Act of 2009".
 
 #### (B) Updated reports
 
-&emsp;&emsp;Each Report Card that is prepared after the initial Report Card shall include trendanalysis for the Nation and, to the extent possible, for each State, for the purpose of—
+&emsp;&emsp;Each Report Card that is prepared after the initial Report Card shall include trend analysis for the Nation and, to the extent possible, for each State, for the purpose of—
 
 &emsp;&emsp;&emsp;(i) tracking progress in meeting established national goals and objectives for improving diabetes care, costs, and prevalence (including Healthy People 2010); and
 
@@ -58,7 +58,7 @@ This section may be cited as the "Catalyst to Better Diabetes Care Act of 2009".
 
 #### (2) Report
 
-&emsp;Not later than 2 years after March 23, 2010, the Secretary shall submit a report on the study under paragraph (1) to the Committees on Ways and Means and Energy and Commerce of the House of Representatives and the Committees on Finance and Health, Education, Labor, and Pensions of the Senate.
+&emsp;Not later than 2 years after March 23, 2010, the Secretary shall submit a report on thestudy under paragraph (1) to the Committees on Ways and Means and Energy and Commerce of the House of Representatives and the Committees on Finance and Health, Education, Labor, and Pensions of the Senate.
 
 #### (e) Authorization of appropriations
 

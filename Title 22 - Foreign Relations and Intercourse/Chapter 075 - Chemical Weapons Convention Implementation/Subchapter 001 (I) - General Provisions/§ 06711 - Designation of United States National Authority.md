@@ -34,7 +34,7 @@ This chapter, referred to in subsecs. (b)(2), (d), and (e), was in the original 
 
 Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Chemical Weapons Convention Implementation Act of 1998 \[22 U.S.C. 6701 et seq.\] (as enacted in Division I of Public Law 105–277) (the Act), the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), and section 301 of title 3, United States Code, and in order to facilitate implementation of the Act and the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction (the "Convention"), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Chemical Weapons Convention Implementation Act of 1998 \[22 U.S.C. 6701 et seq.\] (as enacted in Division I of Public Law 105–277) (the Act), the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), and section 301 of title 3, United States Code, and in order to facilitate implementationof the Act and the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction (the "Convention"), it is hereby ordered as follows:
 
 Section 1. The Department of State shall be the United States National Authority (the "USNA") for purposes of the Act and the Convention.
 

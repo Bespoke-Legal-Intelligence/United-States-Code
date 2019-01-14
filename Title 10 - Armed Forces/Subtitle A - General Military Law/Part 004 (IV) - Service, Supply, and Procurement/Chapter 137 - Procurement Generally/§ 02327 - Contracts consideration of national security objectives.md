@@ -2,7 +2,7 @@
 
 (a)
 
-Disclosure of Ownership or Control by a Foreign Government.—The head of an agency shall require a firm or a subsidiary of a firm that submits a bid or proposal in response to a solicitation issued by the Department of Defense to disclose in that bid or proposal any significant interest in such firm or subsidiary (or, in the case of a subsidiary, in the firm that owns the subsidiary) that is owned or controlled (whether directly or indirectly) by a foreign government or an agent or instrumentality of a foreign government, if such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. 4605(j)(1)(A)) has repeatedly provided support for acts of international terrorism.
+Disclosure of Ownership or Control by a Foreign Government.—The head of an agency shall require a firm or a subsidiary of a firm that submits a bid or proposal in response to a solicitation issued by the Department of Defense to disclose in that bid or proposal any significant interest in such firm or subsidiary (or, in the case of a subsidiary, in the firm that owns the subsidiary) that is owned or controlled (whether directly or indirectly) by a foreign government or an agent or instrumentality of a foreign government, if such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) <sup>1</sup> of the Export Administration Act of 1979 (50 U.S.C. 4605(j)(1)(A)) has repeatedly provided support for acts of international terrorism.
 
 (b)
 
@@ -10,7 +10,7 @@ Prohibition on Entering Into Contracts Against the Interests of the United State
 
 &emsp;(1) a foreign government owns or controls (whether directly or indirectly) a significant interest in such firm or subsidiary (or, in the case of a subsidiary, in the firm that owns the subsidiary); and
 
-&emsp;(2) such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. 4605(j)(1)(A)) has repeatedly provided support for acts of international terrorism.
+&emsp;(2) such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) <sup>1</sup> of the Export Administration Act of 1979 (50 U.S.C. 4605(j)(1)(A)) has repeatedly provided support for acts of international terrorism.
 
 (c)
 
@@ -64,6 +64,10 @@ Regulations.—The Secretary of Defense, after consultation with the Secretary o
 
 (Added Pub. L. 99–500, §101(c) \[title X, §951(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–164, and Pub. L. 99–591, §101(c) \[title X, §951(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–164; Pub. L. 99–661, div. A, title IX, formerly title IV, §951(a)(1), Nov. 14, 1986, 100 Stat. 3944, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title XII, §1231(8), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–224, §5(b)(2), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 105–85, div. A, title VIII, §843, Nov. 18, 1997, 111 Stat. 1844; Pub. L. 108–136, div. A, title X, §1031(a)(16), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 114–328, div. A, title X, §1081(b)(3)(C), Dec. 23, 2016, 130 Stat. 2418.)
 
+#### References in Text
+
+Section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. 4605(j)(1)(A)), referred to in subsecs. (a) and (b)(2), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. For similar provisions, see section 4813(c)(1)(A)(i) of Title 50, War and National Defense, as enacted by Pub. L. 115–232.
+
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
@@ -92,7 +96,7 @@ Subsec. (d)(1). Pub. L. 100–180 inserted par. (1) designation.
 
 #### Effective Date
 
-Pub. L. 99–500, §101(c) \[title X, §951(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–165, Pub. L. 99–591, §101(c) \[title X, §951(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–165, and Pub. L. 99–661, div. A, title IX, formerly title IV, §951(c), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, providedthat: "Section 2327 of title 10, United States Code (as added by subsection (a)(1)), shall apply to contracts entered into by the Secretary of Defense after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
+Pub. L. 99–500, §101(c) \[title X, §951(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–165, Pub. L. 99–591, §101(c) \[title X, §951(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–165, and Pub. L. 99–661, div. A, title IX, formerly title IV, §951(c), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: "Section 2327 of title 10, United States Code (as added by subsection (a)(1)), shall apply to contracts entered into by the Secretary of Defense after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\]."
 
 #### Transfer of Functions
 
@@ -101,4 +105,6 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### Reports by Defense Contractors of Dealings With Terrorist Countries
 
 Pub. L. 103–160, div. A, title VIII, §843, Nov. 30, 1993, 107 Stat. 1720, as amended by Pub. L. 103–355, title VIII, §8105(j), Oct. 13, 1994, 108 Stat. 3393, directed the Secretary of Defense to require any person with whom the Secretary proposed to enter into a contract for the provision of goods or services in an amount in excess of $5,000,000, to report to the Secretary each commercial transaction which that person had conducted with the government of any terrorist country during the preceding three years and during the course of the contract, required the Secretary to prescribe regulations and to submit an annual report to Congress setting forth those commercial transactions with terrorist countries that had been included in the reports made during the preceding fiscal year, and provided that section 843 of Pub. L. 103–160 would expire on Sept. 30, 1996.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,5 +10,5 @@ Sections 1 and 2 and titles I to IX, referred to in text, are sections 1 and 2 a
 
 #### "Secretary" Defined
 
-Section 103 of Pub. L. 103–433 provided in part that in this subchapter "Secretary" means the Secretary of the Interior.
+Pub. L. 103–433, title I, §103(a), Oct. 31, 1994, 108 Stat. 4481, provided in part that in this subchapter "Secretary" means the Secretary of the Interior.
 

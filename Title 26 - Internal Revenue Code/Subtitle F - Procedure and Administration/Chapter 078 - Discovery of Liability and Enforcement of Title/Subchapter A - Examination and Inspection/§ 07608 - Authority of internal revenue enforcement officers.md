@@ -2,7 +2,7 @@
 
 #### (a) Enforcement of subtitle E and other laws pertaining to liquor, tobacco, and firearms
 
-Any investigator, agent, or other internal revenue officer by whatever term designated, whom the Secretary charges with the duty of enforcing any of the criminal, seizure, or forfeiture provisions of subtitle E or of any other law of the United States pertaining to the commodities subject to tax under such subtitle for the enforcement of which the Secretary is responsible, may—
+Any investigator, agent, or other internal revenue officer by whatever term designated, whomthe Secretary charges with the duty of enforcing any of the criminal, seizure, or forfeiture provisions of subtitle E or of any other law of the United States pertaining to the commodities subject to tax under such subtitle for the enforcement of which the Secretary is responsible, may—
 
 &emsp;(1) carry firearms;
 
@@ -20,7 +20,7 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 &emsp;(A) to execute and serve search warrants and arrest warrants, and serve subpoenas and summonses issued under authority of the United States;
 
-&emsp;(B) to make arrests without warrant for any offense against the United States relating tothe internal revenue laws committed in his presence, or for any felony cognizable under such laws if he has reasonable grounds to believe that the person to be arrested has committed or is committing any such felony; and
+&emsp;(B) to make arrests without warrant for any offense against the United States relating to the internal revenue laws committed in his presence, or for any felony cognizable under such laws if he has reasonable grounds to believe that the person to be arrested has committed or is committing any such felony; and
 
 &emsp;(C) to make seizures of property subject to forfeiture under the internal revenue laws.
 
@@ -186,7 +186,7 @@ Pub. L. 104–168, title XII, §1205(c)(3), July 30, 1996, 110 Stat. 1472, provi
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–690, title VII, §7601(c)(3), Nov. 18, 1988, 102 Stat. 4507, as amended by Pub. L. 101–647, title XXXIII, §3301(a), Nov. 29, 1990, 104 Stat. 4917; Pub. L. 104–168, title XII, §1205(a), July 30, 1996, 110 Stat. 1471, providedthat: "The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 18, 1988\]."
+Pub. L. 100–690, title VII, §7601(c)(3), Nov. 18, 1988, 102 Stat. 4507, as amended by Pub. L. 101–647, title XXXIII, §3301(a), Nov. 29, 1990, 104 Stat. 4917; Pub. L. 104–168, title XII, §1205(a), July 30, 1996, 110 Stat. 1471, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 18, 1988\]."
 
 #### Effective Date of 1962 Amendment
 

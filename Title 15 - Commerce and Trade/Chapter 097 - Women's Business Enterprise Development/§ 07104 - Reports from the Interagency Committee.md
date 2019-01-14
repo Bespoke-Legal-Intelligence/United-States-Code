@@ -8,7 +8,7 @@ Not later than September 30, 1995, and annually thereafter, the Interagency Comm
 
 &emsp;(3) the Interagency Committee's recommendations for such legislation and administrative actions as the Interagency Committee considers appropriate to promote the development of small business concerns owned and controlled by women.
 
-(Pub. L. 100–533, title IV, §404, as added Pub. L. 103–403, title IV, §413, Oct. 22, 1994, 108 Stat. 4194; amended Pub. L. 105–135, title III, §302, Dec. 2, 1997, 111 Stat. 2608.)
+(Pub. L. 100–533, title IV, §404, as added Pub. L. 103–403, title IV, §413, Oct. 22, 1994, 108 Stat. 4194;amended Pub. L. 105–135, title III, §302, Dec. 2, 1997, 111 Stat. 2608.)
 
 #### Prior Provisions
 

@@ -8,7 +8,7 @@ Section 5667 was editorially reclassified as section 11173 of Title 34, Crime Co
 
 A prior section 5667, Pub. L. 93–415, title II, §281, as added Pub. L. 102–586, §2(i), Nov. 4, 1992, 106 Stat. 5001, related to authority to make grants and contracts, prior to repeal by Pub. L. 107–273, div. C, title II, §12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
-Another prior section 5667, Pub. L. 93–415, title II, §281, as added Pub. L. 100–690, title VII, §7267, Nov. 18,1988, 102 Stat. 4451, authorized Administrator to make grants and contracts for prevention and treatment programs relating to juvenile gangs, drug abuse, and drug trafficking, prior to the general amendment of part D by Pub. L. 102–586.
+Another prior section 5667, Pub. L. 93–415, title II, §281, as added Pub. L. 100–690, title VII, §7267, Nov. 18, 1988, 102 Stat. 4451, authorized Administrator to make grants and contracts for prevention and treatment programs relating to juvenile gangs, drug abuse, and drug trafficking, prior to the general amendment of part D by Pub. L. 102–586.
 
 Prior sections 5667–1 to 5667f–3 were repealed by Pub. L. 107–273, div. C, title II, §12210(1), Nov. 2, 2002, 116 Stat. 1880.
 

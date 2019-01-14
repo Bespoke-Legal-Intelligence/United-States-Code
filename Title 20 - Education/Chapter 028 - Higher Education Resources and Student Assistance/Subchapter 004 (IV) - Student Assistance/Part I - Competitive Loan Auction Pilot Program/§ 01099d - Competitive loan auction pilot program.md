@@ -56,7 +56,7 @@ The Secretary shall carry out a pilot program under which the Secretary establis
 
 #### (F) Winning bids
 
-&emsp;&emsp;The winning bids for each State auction shall be the 2 bids containing the lowest andthe second lowest proposed special allowance payments, subject to subparagraph (E).
+&emsp;&emsp;The winning bids for each State auction shall be the 2 bids containing the lowest and the second lowest proposed special allowance payments, subject to subparagraph (E).
 
 #### (G) Agreement with Secretary; compliance
 
@@ -128,7 +128,7 @@ The Secretary shall carry out a pilot program under which the Secretary establis
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An eligible lender who is permitted to originate eligible Federal PLUS Loans fora borrower under this paragraph shall have the option to consolidate such loans into 1 loan.
+&emsp;&emsp;&emsp;An eligible lender who is permitted to originate eligible Federal PLUS Loans for a borrower under this paragraph shall have the option to consolidate such loans into 1 loan.
 
 #### (ii) Notification
 

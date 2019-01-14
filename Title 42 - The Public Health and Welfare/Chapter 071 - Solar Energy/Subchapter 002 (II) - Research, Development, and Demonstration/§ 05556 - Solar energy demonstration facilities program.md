@@ -40,7 +40,7 @@ In carrying out his responsibilities under this section, the Chairman, acting th
 
 #### (d) Investigation and agreements for cooperative development of demonstration facilities
 
-The Chairman, acting through the appropriate Federal agencies, is authorized to investigateand enter into agreements for the cooperative development of facilities to demonstrate solar technologies. The responsible Federal agency may consider—
+The Chairman, acting through the appropriate Federal agencies, is authorized to investigate and enter into agreements for the cooperative development of facilities to demonstrate solar technologies. The responsible Federal agency may consider—
 
 &emsp;(1) cooperative agreements with non-Federal entities for construction of facilities and equipment to demonstrate solar energy technologies; and
 
@@ -50,7 +50,7 @@ The Chairman, acting through the appropriate Federal agencies, is authorized to 
 
 The Chairman, acting through appropriate Federal agencies is authorized to construct and operate demonstration projects without entering into cooperative agreements with respect to such projects, if the Chairman finds that—
 
-&emsp;(1) the nature of the resource, the geographical location, the scale and engineering design of the facilities, the techniques of production, or any other significant factor of the specific demonstration project offers opportunities to make important contributions to the general knowledge of solar resources, the techniques of its development, or public confidence in the technology; and
+&emsp;(1) the nature of the resource, the geographical location, the scale and engineering design of the facilities, the techniques of production,or any other significant factor of the specific demonstration project offers opportunities to make important contributions to the general knowledge of solar resources, the techniques of its development, or public confidence in the technology; and
 
 &emsp;(2) there is no opportunity for cooperative agreements with any non-Federal entity willing and able to cooperate in the demonstration project under subsection (d)(1), and there is no opportunity for cooperative agreements with other Federal agencies under subsection (d)(2).
 

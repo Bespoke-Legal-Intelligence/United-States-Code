@@ -124,7 +124,7 @@ The requirements of this chapter shall not apply to any group health plan in rel
 
 &emsp;&emsp;&emsp;(ii) A statement that the eligible employee should provide the information described in clause (i) to any health insurance exchange to which the employee applies for advance payment of the premium assistance tax credit.
 
-&emsp;&emsp;&emsp;(iii) A statement that if the employee is not covered under minimum essential coverage for any month the employee may be subject to tax under section 5000A for such month and reimbursements under the arrangement may be includible in gross income.
+&emsp;&emsp;&emsp;(iii) A statement that if the employee is not covered under minimum essential coverage for any month the employee may be subject to tax under section 5000A for suchmonth and reimbursements under the arrangement may be includible in gross income.
 
 (Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2080, §9804; renumbered §9831 and amended Pub. L. 105–34, title XV, §1531(a)(2), (b)(1)(B)–(E), Aug. 5, 1997, 111 Stat. 1081, 1084, 1085; Pub. L. 114–255, div. C, title XVIII, §18001(a)(1), Dec. 13, 2016, 130 Stat. 1338; Pub. L. 115–97, title I, §11002(d)(1)(TT), Dec. 22, 2017, 131 Stat. 2061.)
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 114–255 applicable to years beginning after Dec. 31, 2016
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable with respect to group health plans for plan years beginning on orafter Jan. 1, 1998, see section 1531(c) of Pub. L. 105–34, set out as a note under section 4980D of this title.
+Amendment by Pub. L. 105–34 applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 1531(c) of Pub. L. 105–34, set out as a note under section 4980D of this title.
 
 #### Effective Date
 

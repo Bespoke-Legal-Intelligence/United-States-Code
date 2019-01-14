@@ -2,7 +2,7 @@
 
 (a)(1)(A) A married employee or Member (or former employee or Member) may withdraw all or part of a Thrift Savings Fund account under subsection (b)(2), (3), or (4) of section 8433 of this title or change a withdrawal election only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B). A married employee or Member (or former employee or Member) may make a withdrawal from a Thrift Savings Fund account under subsection (c)(1) of section 8433 of this title only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B).
 
-(B) An employee or Member (or former employee or Member) may make an election or change referred to in subparagraph (A) if the employee or Member and the employee's or Member's spouse (or the former employee or Member and the former employee's or Member's spouse) jointly waive, by written election, any right which the spouse may have to a survivor annuity with respect to such employee or Member (or former employee or Member) under section 8434 of this title or subsection (b).
+(B) An employee or Member (or former employee or Member) may make an election orchange referred to in subparagraph (A) if the employee or Member and the employee's or Member's spouse (or the former employee or Member and the former employee's or Member's spouse) jointly waive, by written election, any right which the spouse may have to a survivor annuity with respect to such employee or Member (or former employee or Member) under section 8434 of this title or subsection (b).
 
 (2) Paragraph (1) shall not apply to an election or change of election by an employee or Member (or former employee or Member) who establishes to the satisfaction of the Executive Director (at the time of the election or change and in accordance with regulations prescribed by the Executive Director)—
 
@@ -38,7 +38,7 @@
 
 &emsp;(A) an election under section 8434(a)(2)(E) of this title, or
 
-&emsp;(B) any court decree, order, or agreement (described in subsection (c)(2), without regardto subparagraph (B) of such subsection) which relates to such deceased individual and such former spouse,
+&emsp;(B) any court decree, order, or agreement (described in subsection (c)(2), without regard to subparagraph (B) of such subsection) which relates to such deceased individual and such former spouse,
 
 > expressly provides for such survivor annuity.
 
@@ -54,7 +54,7 @@
 
 (5) Subsections (c) and (d) of section 8445 of this title shall apply to an entitlement of a former spouse to a survivor annuity under this subsection.
 
-(6) For the purposes of this section, a court decree, order, or agreement or an election referred to in subsection (a) of this section shall not be effective, in the case of a former spouse, to the extent that the election is inconsistent with any joint waiver previously executed with respect to such former spouse under subsection (a)(2) or (b)(2).
+(6) For the purposes of this section, a court decree, order, or agreement or an election referredto in subsection (a) of this section shall not be effective, in the case of a former spouse, to the extent that the election is inconsistent with any joint waiver previously executed with respect to such former spouse under subsection (a)(2) or (b)(2).
 
 (7) Any payment under this subsection to any individual bars recovery by any other individual.
 
@@ -90,7 +90,7 @@ Subsec. (e)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(
 
 Subsec. (e)(2). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(3)(B)(i)\]\], inserted "or withdrawal" after "loan".
 
-Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(3)(B)(ii)\]\], which directed insertion of "and (h)" after "8344(g)", was executed by making the insertionafter "8433(g)" to reflect the probable intent of Congress.
+Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(3)(B)(ii)\]\], which directed insertion of "and (h)" after "8344(g)", was executed by making the insertion after "8433(g)" to reflect the probable intent of Congress.
 
 Subsec. (g). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(4)(A)\]\], inserted "or withdrawals" after "loans".
 
@@ -118,7 +118,7 @@ Pub. L. 103–226, §9(d)(2), redesignated subsec. (c) as (b) and struck out for
 
 "(b)(1) Except as provided in paragraph (2), a transfer may be made by an employee or Member (or former employee or Member) under section 8433(d) of this title only after the Executive Director notifies any current spouse and each former spouse of the employee or Member (or former employee or Member), if any, that the transfer is to be made.
 
-"(2) Paragraph (1) may be waived with respect to a spouse or former spouse if the employee or Member (or former employee or Member) establishes to the satisfaction of the Executive Director that the whereabouts of such spouse or former spouse cannot be determined."
+"(2) Paragraph (1) may be waived with respect to a spouse or former spouse if the employee or Member (orformer employee or Member) establishes to the satisfaction of the Executive Director that the whereabouts of such spouse or former spouse cannot be determined."
 
 Subsec. (c). Pub. L. 103–226, §9(d)(3), (5), redesignated subsec. (d) as (c) and, in par. (1), struck out "and a transfer may not be made under section 8433(d) of this title" after "effective under this subchapter". Former subsec. (c) redesignated (b).
 

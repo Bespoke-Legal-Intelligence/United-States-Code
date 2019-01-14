@@ -28,5 +28,5 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Effective Date
 
-Section 2 of Pub. L. 90–291 provided that: "The amendments made by section 1 of this Act \[enacting this section and sections 8192 and 8193 of this title\] are effective only with respect to personal injuries sustained on or after the date of enactment of this Act \[Apr. 19, 1968\]."
+Section 2 of Pub. L. 90–291 provided that: "The amendments made by section 1 of this Act \[enacting this section and sections 8192 and 8193 of this title\] areeffective only with respect to personal injuries sustained on or after the date of enactment of this Act \[Apr. 19, 1968\]."
 

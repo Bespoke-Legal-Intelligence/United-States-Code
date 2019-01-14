@@ -10,7 +10,7 @@ The employee shall have the right to choose an attending physician authorized by
 
 #### (c) Physicians and health care providers not authorized to render medical care or provide medical services
 
-(1)(A) The Secretary shall annually prepare a list of physicians and health care providers in each compensation district who are not authorized to render medical care or provide medical services under this chapter. The names of physicians and health care providers contained on the list required under this subparagraph shall be made available to employees and employers in each compensation district through posting and in such other forms as the Secretary may prescribe.
+(1)(A) The Secretary shall annually prepare a list of physicians and health care providers in each compensation district who are not authorized to render medical care or provide medical services under this chapter. The names of physicians and health care providers contained on the list required under this subparagraph shall be made available to employees and employers in each compensation district through posting andin such other forms as the Secretary may prescribe.
 
 (B) Physicians and health care providers shall be included on the list of those not authorized to provide medical care and medical services pursuant to subparagraph (A) when the Secretary determines under this section, in accordance with the procedures provided in subsection (j), that such physician or health care provider—
 
@@ -48,7 +48,7 @@ The employee shall have the right to choose an attending physician authorized by
 
 #### (e) Physical examination; medical questions; report of physical impairment; review or reexamination; costs
 
-In the event that medical questions are raised in any case, the Secretary shall have the power to cause the employee to be examined by a physician employed or selected by the Secretary and to obtain from such physician a report containing his estimate of the employee's physical impairment and such other information as may be appropriate. Any party who is dissatisfied with such report may request a review or reexamination of the employee by one or more different physicians employed or selected by the Secretary. The Secretary shall order such review or reexamination unless he finds that it is clearly unwarranted. Such review or reexamination shall be completed within two weeks from the date ordered unless the Secretary finds that because of extraordinary circumstances a longer period is required. The Secretary shall have the power in his discretion to charge the cost of examination or review under this subsection to the employer, if he is a self-insurer, or to the insurance company which is carrying the risk, in appropriate cases, or to the special fund in section 944 of this title.
+In the event that medical questions are raised in any case, the Secretary shall have the power to cause the employee to be examined by a physician employed or selected by the Secretary and to obtain from such physician a report containing his estimate of the employee's physical impairment and such other information as may be appropriate. Any party who is dissatisfied with such report may request a review or reexamination of the employee by one or more different physicians employed or selected by the Secretary. The Secretary shall order such review or reexamination unless he finds that it is clearly unwarranted. Such review or reexamination shall be completed within two weeks from the date ordered unless the Secretary finds thatbecause of extraordinary circumstances a longer period is required. The Secretary shall have the power in his discretion to charge the cost of examination or review under this subsection to the employer, if he is a self-insurer, or to the insurance company which is carrying the risk, in appropriate cases, or to the special fund in section 944 of this title.
 
 #### (f) Place of examination; exclusion of physicians other than examining physician of Secretary; good cause for conclusions of other physicians respecting impairment; examination by employer's physician; suspension of proceedings and compensation for refusal of examination
 
@@ -68,7 +68,7 @@ Unless the parties to the claim agree, the Secretary shall not employ or select 
 
 #### (j) Procedure; judicial review
 
-(1) The Secretary shall have the authority to make rules and regulations and to establish procedures, not inconsistent with the provisions of this chapter, which are necessary or appropriateto carry out the provisions of subsection (c), including the nature and extent of the proof and evidence necessary for actions under this section and the methods of taking and furnishing such proof and evidence.
+(1) The Secretary shall have the authority to make rules and regulations and to establish procedures, not inconsistent with the provisions of this chapter, which are necessary or appropriate to carry out the provisions of subsection (c), including the nature and extent of the proof and evidence necessary for actions under this section and the methods of taking and furnishing such proof and evidence.
 
 (2) Any decision to take action with respect to a physician or health care provider under this section shall be based on specific findings of fact by the Secretary. The Secretary shall provide notice of these findings and an opportunity for a hearing pursuant to section 556 of title 5 for a provider who would be affected by a decision under this section. A request for a hearing must be filed with the Secretary within thirty days after notice of the findings is received by the provider making such request. If a hearing is held, the Secretary shall, on the basis of evidence adduced at the hearing, affirm, modify, or reverse the findings of fact and proposed action under this section.
 
@@ -130,7 +130,7 @@ Subsec. (d). Act June 25, 1938, §3, added subsec. (d).
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 7(a), (e) of Pub. L. 98–426 effective 90 days after Sept. 28, 1984, and applicable both with respect to claims filed after such 90th day and to claims pending on such 90th day, and amendment by section 7(b)–(d) of Pub. L. 98–426 effective 90 days after Sept. 28, 1984, see section 28(b), (e)(2) of Pub. L. 98–426, set out as a note under section 901 of this title.
+Amendment by section 7(a), (e) of Pub. L. 98–426 effective 90 days after Sept. 28, 1984, and applicable bothwith respect to claims filed after such 90th day and to claims pending on such 90th day, and amendment by section 7(b)–(d) of Pub. L. 98–426 effective 90 days after Sept. 28, 1984, see section 28(b), (e)(2) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
 #### Effective Date of 1972 Amendment
 

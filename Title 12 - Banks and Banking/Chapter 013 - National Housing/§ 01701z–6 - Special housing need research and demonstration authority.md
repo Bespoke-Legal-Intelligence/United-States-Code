@@ -50,7 +50,7 @@ Pub. L. 98–181, title I \[title II, §225\], Nov. 30, 1983, 97 Stat. 1191, pro
 
 &emsp;"(1) encourage the upgrading of housing occupied primarily by lower income families, including families receiving assistance under the aid for families with dependent children program established under title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]; and
 
-&emsp;"(2) provide for better coordination at the local level of the efforts to assist families receiving public assistance from the Department of Health and Human Services so that these families will be able to occupy affordable housing that is decent, safe, andsanitary and that, if necessary, is rehabilitated with funds provided by the Department of Housing and Urban Development.
+&emsp;"(2) provide for better coordination at the local level of the efforts to assist families receiving public assistance from the Department of Health and Human Services so that these families will be able to occupy affordable housing that is decent, safe, and sanitary and that, if necessary, is rehabilitated with funds provided by the Department of Housing and Urban Development.
 
 "(c) The Secretary of Housing and Urban Development (hereafter referred to in this section as the 'Secretary') shall, to the extent approved in appropriation Acts, establish and maintain a demonstration project to carry out the purpose described in subsection (b).
 
@@ -118,7 +118,7 @@ Pub. L. 96–399, title II, §209, Oct. 8, 1980, 94 Stat. 1635, provided that:
 
 &emsp;"(5) the First Annual Report to Congress of the Urban Initiatives Anti-Crime Program and the two General Accounting Office \[now Government Accountability Office\] reports to Congress on such Program have provided useful suggestions which can now be implemented.
 
-"(c) It is, therefore, the purpose of this section to continue the efforts of the Urban Initiatives Anti-Crime Program so that more progress can be made in providing secure, decent, safe, and sanitary dwellingunits for low-income and elderly tenants in public housing projects.
+"(c) It is, therefore, the purpose of this section to continue the efforts of the Urban Initiatives Anti-Crime Program so that more progress can be made in providing secure, decent, safe, and sanitary dwelling units for low-income and elderly tenants in public housing projects.
 
 "(d) \[This subsection amended section 207 of Pub. L. 95–557, set out below.\]."
 

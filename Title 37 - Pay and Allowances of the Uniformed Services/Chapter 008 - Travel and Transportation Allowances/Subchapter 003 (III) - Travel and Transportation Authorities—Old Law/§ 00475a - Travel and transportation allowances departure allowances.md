@@ -4,7 +4,7 @@
 
 &emsp;(1) a dependent who is present at or in the vicinity of the member's duty station when the departure of dependents is authorized or ordered by competent authority and who actually moved to an authorized safe haven designated by that authority, whether such safe haven is at or in the vicinity of the member's duty station or elsewhere;
 
-&emsp;(2) a dependent who resides at or in the vicinity of a former duty station of the member following the assignment of the member elsewhere or who resides at or in the vicinity of a duty station (other than the duty station of the member) incident to orders in connection with an unaccompanied tour of duty of the member, if a departure of dependents is authorized or ordered by competent authority from the duty station at which or in the vicinity of which the dependent resides and the dependent actually moves to an authorized safe haven designated by that authority;
+&emsp;(2) a dependent who resides at or in the vicinity of a former duty station of the member following the assignment of the member elsewhere or who resides at or in the vicinity of a duty station (other than the duty station ofthe member) incident to orders in connection with an unaccompanied tour of duty of the member, if a departure of dependents is authorized or ordered by competent authority from the duty station at which or in the vicinity of which the dependent resides and the dependent actually moves to an authorized safe haven designated by that authority;
 
 &emsp;(3) a dependent who established a household at or in the vicinity of the member's duty station but who is temporarily absent therefrom for any reason when departure of dependents is authorized or ordered by competent authority; and
 

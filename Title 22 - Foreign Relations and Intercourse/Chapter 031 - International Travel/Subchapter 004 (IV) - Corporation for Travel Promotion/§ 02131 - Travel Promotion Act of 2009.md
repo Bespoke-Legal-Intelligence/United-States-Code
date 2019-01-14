@@ -332,7 +332,7 @@ Subsec. (d)(3)(E) to (G). Pub. L. 113–235, §604(2), added subpars. (E) to (G)
 
 Subsec. (d)(4)(B). Pub. L. 113–235, §605(a)(2)(B), substituted "each of the fiscal years 2011 through 2020" for "fiscal year 2011, 2012, 2013, 2014, or 2015".
 
-Subsec. (e). Pub. L. 113–235, §607, struck out subsec. (e), which related to Corporation's authority to imposeannual assessment on United States members of the international travel and tourism industry.
+Subsec. (e). Pub. L. 113–235, §607, struck out subsec. (e), which related to Corporation's authority to impose annual assessment on United States members of the international travel and tourism industry.
 
 Pub. L. 113–235, §606(1), (2), redesignated subsec. (f) as (e) and moved it to follow subsec. (d). Former subsec. (e) redesignated (h).
 

@@ -16,7 +16,7 @@
 
 &emsp;(7) Both dependent parents, $40 each.
 
-(b) The monthly rate of death compensation payable to a surviving spouse or dependent parent under subsection (a) of this section shall be increased by $79 if the payee is (1) a patient in a nursing home or (2) blind, or so nearly blind or significantly disabled as to need or require the regular aid and attendance of another person.
+(b) The monthly rate of death compensation payable to a surviving spouse or dependent parent under subsection (a) of this section shall be increased by $79 if the payee is (1) a patient ina nursing home or (2) blind, or so nearly blind or significantly disabled as to need or require the regular aid and attendance of another person.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1122, §322; Pub. L. 91–96, §7, Oct. 27, 1969, 83 Stat. 146; Pub. L. 91–588, §3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 92–197, §9, Dec. 15, 1971, 85 Stat. 662; Pub. L. 93–295, title II, §204, May 31, 1974, 88 Stat. 183; Pub. L. 94–169, title II, §202, Dec. 23, 1975, 89 Stat. 1021; Pub. L. 94–432, title IV, §401, Sept. 30, 1976, 90 Stat. 1372; Pub. L. 94–433, title IV, §404(13)–(17), Sept. 30, 1976, 90 Stat. 1378, 1379; Pub. L. 95–204, title III, §301, Dec. 2, 1977, 91 Stat. 1459; renumbered §1122, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 109–233, title V, §502(3), June 15, 2006, 120 Stat. 415.)
 

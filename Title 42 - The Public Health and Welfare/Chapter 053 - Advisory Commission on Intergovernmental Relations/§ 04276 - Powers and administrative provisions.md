@@ -34,7 +34,7 @@ Except as otherwise provided in this chapter, persons in the employ of the Commi
 
 #### (f) Maximum compensation of employees
 
-No individual employed in the service of the Commission shall be paid compensation for such employment at a rate in excess of the highest rate provided for grade 18 under the General Schedule, except that the executive director of the Commission may be paid compensation at any rate not exceeding the rate prescribed for level V in the Executive Schedule of subchapter II of chapter 53 of title 5.
+No individual employed in the service of the Commission shall be paid compensation for such employment at a rate in excess of the highest rate provided for grade 18 under the General Schedule, except that the executive director of the Commission may be paid compensation at any rate not exceeding the rate prescribed forlevel V in the Executive Schedule of subchapter II of chapter 53 of title 5.
 
 (Pub. L. 86–380, §6, Sept. 24, 1959, 73 Stat. 705; Pub. L. 88–426, title III, §306(e), Aug. 14, 1964, 78 Stat. 429; Pub. L. 89–733, §§3, 4, Nov. 2, 1966, 80 Stat. 1162.)
 
@@ -66,5 +66,5 @@ Amendment by Pub. L. 88–426 effective on first day of first pay period which b
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

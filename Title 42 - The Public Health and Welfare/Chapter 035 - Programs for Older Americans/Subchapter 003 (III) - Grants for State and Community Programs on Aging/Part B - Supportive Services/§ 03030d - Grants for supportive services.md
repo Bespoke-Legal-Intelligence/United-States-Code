@@ -46,7 +46,7 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 &emsp;(13) crime prevention services and victim assistance programs for older individuals;
 
-&emsp;(14) a program, to be known as "Senior Opportunities and Services", designed to identify and meet the needs of low-income older individuals in one or more of the following areas: (A) development and provision of new volunteer services; (B) effective referral to existing health (including mental and behavioral health), employment, housing, legal, consumer, transportation, and other services; (C) stimulation and creation of additional servicesand programs to remedy gaps and deficiencies in presently existing services and programs; and (D) such other services as the Assistant Secretary may determine are necessary or especially appropriate to meet the needs of low-income older individuals and to assure them greater self-sufficiency;
+&emsp;(14) a program, to be known as "Senior Opportunities and Services", designed to identify and meet the needs of low-income older individuals in one or more of the following areas: (A) development and provision of new volunteer services; (B) effective referral to existing health (including mental and behavioral health), employment, housing, legal, consumer, transportation, and other services; (C) stimulation and creation of additional services and programs to remedy gaps and deficiencies in presently existing services and programs; and (D) such other services as the Assistant Secretary may determine are necessary or especially appropriate to meet the needs of low-income older individuals and to assure them greater self-sufficiency;
 
 &emsp;(15) services for the prevention of abuse of older individuals in accordance with subpart III of part A of subchapter XI and section 3027(a)(12) of this title, and screening for elder abuse, neglect, and exploitation;
 
@@ -70,7 +70,7 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 &emsp;(25) any other services necessary for the general welfare of older individuals;
 
-> if such services meet standards prescribed by the Assistant Secretary and are necessary for the general welfare of older individuals. For purposes of paragraph (5), the term "client assessment through case management" includes providing information relating to assistive technology.
+> if such services meet standards prescribed by the Assistant Secretary and are necessary forthe general welfare of older individuals. For purposes of paragraph (5), the term "client assessment through case management" includes providing information relating to assistive technology.
 
 #### (b) Existing facilities
 
@@ -100,7 +100,7 @@ In this section, the term "adult child with a disability" means a child who—
 
 #### References in Text
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(12), is Pub. L. 113–128, July 22,2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(12), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 #### Amendments
 
@@ -180,7 +180,7 @@ Subsec. (a)(15). Pub. L. 102–375, §904(a)(15)(C), substituted "paragraph" for
 
 Pub. L. 102–375, §708(b), which directed the substitution of "subpart III of part A of subchapter XI of this chapter and section 3027(a)(16) of this title" for "clause (16) of section 3027(a) of this title" in par. (15) of this section could not be executed because this section does not contain a par. (15).
 
-Subsec. (a)(17). Pub. L. 102–375, §312(9), inserted before semicolon at end ", including information concerningprevention, diagnosis, treatment, and rehabilitation of age-related diseases and chronic disabling conditions".
+Subsec. (a)(17). Pub. L. 102–375, §312(9), inserted before semicolon at end ", including information concerning prevention, diagnosis, treatment, and rehabilitation of age-related diseases and chronic disabling conditions".
 
 Subsec. (a)(19) to (22). Pub. L. 102–375, §312(10)–(12), added pars. (19) to (21) and redesignated former par. (19) as (22).
 

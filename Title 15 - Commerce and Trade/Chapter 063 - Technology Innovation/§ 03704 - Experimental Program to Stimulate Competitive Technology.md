@@ -264,7 +264,7 @@ Subsec. (c)(7) to (10). Pub. L. 99–502, §9(b)(5)(B), (C), added pars. (7) and
 
 Subsec. (d). Pub. L. 99–382, §2(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 99–502, §9(e)(2)(A), which directed the insertion of "(as then in effect)" in subsec. (d), was executed to subsec. (e) to reflect the probable intent of Congress in view of the redesignation of subsec. (d) as (e) by Pub. L. 99–382.
+Subsec. (e). Pub. L. 99–502, §9(e)(2)(A), which directed the insertion of "(as then in effect)" in subsec. (d), wasexecuted to subsec. (e) to reflect the probable intent of Congress in view of the redesignation of subsec. (d) as (e) by Pub. L. 99–382.
 
 Pub. L. 99–382, §2(1), redesignated subsec. (d) as (e).
 

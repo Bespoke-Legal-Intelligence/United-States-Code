@@ -14,7 +14,7 @@ Terms of Office and Removal.—The term of office of each member is 5 years. An 
 
 (d)
 
-Chairman and Vice Chairman.—The President shall designate, by and with the advice and consent of the Senate, a Chairman of the Board. The President also shall designate a Vice Chairman of the Board. The terms of office of both the Chairman and Vice Chairman are 2 years. When the Chairman is absent or unable to serve or when the position of Chairman is vacant, the Vice Chairman acts as Chairman.
+Chairman and Vice Chairman.—The President shall designate, by and with the advice and consent of the Senate, a Chairman of the Board. The President also shall designate a Vice Chairman of the Board. The terms of office of both the Chairman and Vice Chairman are 3 years. When the Chairman is absent or unable to serve or when the position of Chairman is vacant, the Vice Chairman acts as Chairman.
 
 (e)
 
@@ -64,7 +64,59 @@ Board Member Staff.—Each member of the Board shall select and supervise regula
 
 Seal.—The Board shall have a seal that shall be judicially recognized.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 746; Pub. L. 106–424, §10, Nov. 1, 2000, 114 Stat. 1886; Pub. L. 109–443, §9(a), (d), Dec. 21, 2006, 120 Stat. 3301.)
+(k)
+
+Open Meetings.—
+
+&emsp;(1)
+
+In general.—The Board shall be deemed to be an agency for purposes of section 552b of title 5.
+
+&emsp;(2)
+
+Nonpublic collaborative discussions.—
+
+&emsp;&emsp;(A)
+
+In general.—Notwithstanding section 552b of title 5, a majority of the members may hold a meeting that is not open to public observation to discuss official agency business if—
+
+&emsp;&emsp;&emsp;(i) no formal or informal vote or other official agency action is taken at the meeting;
+
+&emsp;&emsp;&emsp;(ii) each individual present at the meeting is a member or an employee of the Board;
+
+&emsp;&emsp;&emsp;(iii) at least 1 member of the Board from each political party is present at the meeting, if applicable; and
+
+&emsp;&emsp;&emsp;(iv) the General Counsel of the Board is present at the meeting.
+
+&emsp;&emsp;(B)
+
+Disclosure of nonpublic collaborative discussions.—Except as provided under subparagraphs (C) and (D), not later than 2 business days after the conclusion of a meeting under subparagraph (A), the Board shall make available to the public, in a place easily accessible to the public—
+
+&emsp;&emsp;&emsp;(i) a list of the individuals present at the meeting; and
+
+&emsp;&emsp;&emsp;(ii) a summary of the matters, including key issues, discussed at the meeting, except for any matter the Board properly determines may be withheld from the public under section 552b(c) of title 5.
+
+&emsp;&emsp;(C)
+
+Summary.—If the Board properly determines a matter may be withheld from the public under section 552b(c) of title 5, the Board shall provide a summary with as much general information as possible on each matter withheld from the public.
+
+&emsp;&emsp;(D)
+
+Active investigations.—If a discussion under subparagraph (A) directly relates to an active investigation, the Board shall make the disclosure under subparagraph (B) on the date the Board adopts the final report.
+
+&emsp;&emsp;(E)
+
+Preservation of open meetings requirements for agency action.—Nothing in this paragraph may be construed to limit the applicability of section 552b of title 5 with respect to a meeting of the members other than that described in this paragraph.
+
+&emsp;&emsp;(F)
+
+Statutory construction.—Nothing in this paragraph may be construed—
+
+&emsp;&emsp;&emsp;(i) to limit the applicability of section 552b of title 5 with respect to any information which is proposed to be withheld from the public under subparagraph (B)(ii); or
+
+&emsp;&emsp;&emsp;(ii) to authorize the Board to withhold from any individual any record that is accessible to that individual under section 552a of title 5.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 746; Pub. L. 106–424, §10, Nov. 1, 2000, 114 Stat. 1886; Pub. L. 109–443, §9(a), (d), Dec. 21, 2006, 120 Stat. 3301; Pub. L. 115–254, div. C, §1112(a), (b), Oct. 5, 2018, 132 Stat. 3436.)
 
 Historical and Revision Notes
 
@@ -130,6 +182,10 @@ GS–15, referred to in subsec. (i), is contained in the General Schedule, which
 
 #### Amendments
 
+<b>2018</b>—Subsec. (d). Pub. L. 115–254, §1112(a), substituted "3 years" for "2 years".
+
+Subsec. (k). Pub. L. 115–254, §1112(b), added subsec. (k).
+
 <b>2006</b>—Subsec. (e)(1). Pub. L. 109–443, §9(d)(1), added par. (1) and struck out former par. (1) which read as follows: "appoint, supervise, and fix the pay of officers and employees necessary to carry out this chapter;".
 
 Subsec. (e)(2) to (4). Pub. L. 109–443, §9(d)(2), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
@@ -182,5 +238,5 @@ Pub. L. 109–443, §6, Dec. 21, 2006, 120 Stat. 3300, provided that: "The Natio
 
 #### Improved Audit Procedures
 
-Pub. L. 106–424, §11, Nov. 1, 2000, 114 Stat. 1887, provided that: "The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall develop and implement comprehensive internal audit controls for its financial programs based on the findings and recommendations of the private sector audit firm contract entered into by the Board in March, 2000. The improved internal audit controls shall, at a minimum, address Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control."
+Pub. L. 106–424, §11, Nov. 1, 2000, 114 Stat. 1887, provided that: "The National Transportation SafetyBoard, in consultation with the Inspector General of the Department of Transportation, shall develop and implement comprehensive internal audit controls for its financial programs based on the findings and recommendations of the private sector audit firm contract entered into by the Board in March, 2000. The improved internal audit controls shall, at a minimum, address Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control."
 

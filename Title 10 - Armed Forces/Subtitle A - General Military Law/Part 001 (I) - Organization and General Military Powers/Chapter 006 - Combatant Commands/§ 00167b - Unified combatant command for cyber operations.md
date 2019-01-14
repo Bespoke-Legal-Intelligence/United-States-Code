@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall establish under section 161 of this title a unified combatant command for cyber operations forces (hereinafter in this section referred to as the "cyber command"). The principal function of the command is to prepare cyber operations forces to carry out assigned missions.
+Establishment.—With the advice and assistance of the Chairman of the Joint Chiefs ofStaff, the President, through the Secretary of Defense, shall establish under section 161 of this title a unified combatant command for cyber operations forces (hereinafter in this section referred to as the "cyber command"). The principal function of the command is to prepare cyber operations forces to carry out assigned missions.
 
 (b)
 
@@ -62,7 +62,7 @@ Intelligence and Special Activities.—This section does not constitute authorit
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§3001 et seq.) of this title. Title V of the Act is classified generally to subchapter III (§3091 et seq.) of chapter 44 of this title. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

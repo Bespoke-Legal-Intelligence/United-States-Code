@@ -38,16 +38,9 @@
 
 #### Part B—Advisory Commission
 
-|  |  |
-| :--- | ---: |
-| [1541\.](Subchapter%20002%20%28II%29%20-%20Drug-Free%20Communities/Part%20B%20-%20Advisory%20Commission/%C2%A7%2001541%20-%20Establishment%20of%20Advisory%20Commission.md) | Establishment of Advisory Commission. |
-| [1542\.](Subchapter%20002%20%28II%29%20-%20Drug-Free%20Communities/Part%20B%20-%20Advisory%20Commission/%C2%A7%2001542%20-%20Duties.md) | Duties. |
-| [1543\.](Subchapter%20002%20%28II%29%20-%20Drug-Free%20Communities/Part%20B%20-%20Advisory%20Commission/%C2%A7%2001543%20-%20Membership.md) | Membership. |
-| [1544\.](Subchapter%20002%20%28II%29%20-%20Drug-Free%20Communities/Part%20B%20-%20Advisory%20Commission/%C2%A7%2001544%20-%20Compensation.md) | Compensation. |
-| [1545\.](Subchapter%20002%20%28II%29%20-%20Drug-Free%20Communities/Part%20B%20-%20Advisory%20Commission/%C2%A7%2001545%20-%20Terms%20of%20office.md) | Terms of office. |
-| [1546\.](Subchapter%20002%20%28II%29%20-%20Drug-Free%20Communities/Part%20B%20-%20Advisory%20Commission/%C2%A7%2001546%20-%20Meetings.md) | Meetings. |
-| [1547\.](Subchapter%20002%20%28II%29%20-%20Drug-Free%20Communities/Part%20B%20-%20Advisory%20Commission/%C2%A7%2001547%20-%20Staff.md) | Staff. |
-| [1548\.](Subchapter%20002%20%28II%29%20-%20Drug-Free%20Communities/Part%20B%20-%20Advisory%20Commission/%C2%A7%2001548%20-%20Termination.md) | Termination. |
+|  |
+| :--- |
+| 1541 to 1548. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -6,7 +6,7 @@ Nothing in this chapter shall be construed to prohibit a State from withdrawing 
 
 #### (b) Prohibition
 
-No officer or employee of the Federal Government shall, directly or indirectly, through grants, contracts or other cooperative agreements, through waiver granted under section 7861 of this title or through any other authority, take any action against a State that exercises its rights under subsection (a).
+No officer or employee of the Federal Government shall, directly or indirectly, throughgrants, contracts or other cooperative agreements, through waiver granted under section 7861 of this title or through any other authority, take any action against a State that exercises its rights under subsection (a).
 
 (Pub. L. 89–10, title VIII, §8544, as added Pub. L. 114–95, title VIII, §8036, Dec. 10, 2015, 129 Stat. 2119.)
 

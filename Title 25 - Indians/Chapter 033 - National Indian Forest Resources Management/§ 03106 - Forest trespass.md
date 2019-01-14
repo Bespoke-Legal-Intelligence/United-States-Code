@@ -18,11 +18,11 @@ Not later than 18 months from November 28, 1990, the Secretary shall issue regul
 
 #### (b) Treatment of proceeds
 
-The proceeds of civil penalties collected under this section shall be treated as proceeds fromthe sale of forest products from the Indian forest lands upon which such trespass occurred.
+The proceeds of civil penalties collected under this section shall be treated as proceeds from the sale of forest products from the Indian forest lands upon which such trespass occurred.
 
 #### (c) Concurrent jurisdiction
 
-Indian tribes which adopt the regulations promulgated by the Secretary pursuant to subsection (a) shall have concurrent civil jurisdiction to enforce the provisions of this section and the regulation promulgated thereunder. The Bureau of Indian Affairs and other agencies of the Federal Government shall, at the request of the tribe, defer to tribal prosecutions of forest trespass cases. Tribal court judgments regarding forest trespass shall be entitled to full faith and credit in Federal and State courts to the same extent as a Federal court judgment obtained under this section.
+Indian tribes which adopt the regulations promulgated by the Secretary pursuant to subsection (a) shall have concurrent civil jurisdiction to enforce the provisions of this section and the regulation promulgated thereunder. The Bureau of Indian Affairs and other agencies of the Federal Government shall, at the request of the tribe, defer to tribal prosecutions of forest trespass cases. Tribal court judgments regardingforest trespass shall be entitled to full faith and credit in Federal and State courts to the same extent as a Federal court judgment obtained under this section.
 
 (Pub. L. 101–630, title III, §307, Nov. 28, 1990, 104 Stat. 4537.)
 

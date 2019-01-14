@@ -178,7 +178,7 @@
 
 #### (G) Transfer or sale of assets and liabilities
 
-&emsp;&emsp;The Agency may, as conservator or receiver, transfer or sell any asset or liabilityof the regulated entity in default, and may do so without any approval, assignment, or consent with respect to such transfer or sale.
+&emsp;&emsp;The Agency may, as conservator or receiver, transfer or sell any asset or liability of the regulated entity in default, and may do so without any approval, assignment, or consent with respect to such transfer or sale.
 
 #### (H) Payment of valid obligations
 
@@ -422,7 +422,7 @@
 
 #### (D) Rulemaking authority of the Director
 
-&emsp;&emsp;The Director may prescribe such rules, including definitions of terms, as the Director deems appropriate to establish a single uniform interest rate for, or to make payments of post-insolvency interest to creditors holding proven claims against the receivership estates of the regulated entity, following satisfaction by the receiver of the principal amount of all creditor claims.
+&emsp;&emsp;The Director may prescribe such rules, including definitions of terms, as the Directordeems appropriate to establish a single uniform interest rate for, or to make payments of post-insolvency interest to creditors holding proven claims against the receivership estates of the regulated entity, following satisfaction by the receiver of the principal amount of all creditor claims.
 
 #### (10) Suspension of legal actions
 
@@ -514,7 +514,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Agency as conservator or receiver shall, consistent with the accounting and reporting practices and procedures established by the Agency, maintain a full accounting of each conservatorship and receivership or other disposition of a regulated entity in default.
+&emsp;&emsp;The Agency as conservator or receiver shall, consistent with the accounting and reporting practices and procedures established by the Agency, maintain a full accounting of each conservatorship and receivership orother disposition of a regulated entity in default.
 
 #### (B) Annual accounting or report
 
@@ -586,7 +586,7 @@
 
 #### (ii) Holding of mortgages
 
-&emsp;&emsp;&emsp;Any mortgage, pool of mortgages, or interest in a pool of mortgages described in clause (i) shall be held by the conservator or receiver appointed under this section for the beneficial owners of such mortgage, pool of mortgages, or interest in accordance with the terms of the agreement creating such trust, custodial, or other agency arrangement.
+&emsp;&emsp;&emsp;Any mortgage, pool of mortgages, or interest in a pool of mortgages described inclause (i) shall be held by the conservator or receiver appointed under this section for the beneficial owners of such mortgage, pool of mortgages, or interest in accordance with the terms of the agreement creating such trust, custodial, or other agency arrangement.
 
 #### (iii) Liability of conservator or receiver
 
@@ -596,7 +596,7 @@
 
 #### (1) In general
 
-&emsp;Unsecured claims against a regulated entity, or the receiver therefor, that are proven to thesatisfaction of the receiver shall have priority in the following order:
+&emsp;Unsecured claims against a regulated entity, or the receiver therefor, that are proven to the satisfaction of the receiver shall have priority in the following order:
 
 &emsp;&emsp;(A) Administrative expenses of the receiver.
 
@@ -770,7 +770,7 @@
 
 #### (C) Acceptance of performance no bar to subsequent repudiation
 
-&emsp;&emsp;The acceptance by the conservator or receiver of services referred to under subparagraph (B) in connection with a contract described in such subparagraph shall not affect the right of the conservator or receiver torepudiate such contract under this section at any time after such performance.
+&emsp;&emsp;The acceptance by the conservator or receiver of services referred to under subparagraph (B) in connection with a contract described in such subparagraph shall not affect the right of the conservator or receiver to repudiate such contract under this section at any time after such performance.
 
 #### (8) Certain qualified financial contracts
 
@@ -826,7 +826,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(VIII) means any option to enter into any agreement or transaction referred to in this clause;
 
-&emsp;&emsp;&emsp;&emsp;(IX) means a master agreement that provides for an agreement or transaction referred to in subclause (I), (III), (IV), (V), (VI), (VII), or (VIII), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this clause, except that the master agreement shall be considered to be a securities contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to insubclause (I), (III), (IV), (V), (VI), (VII), or (VIII); and
+&emsp;&emsp;&emsp;&emsp;(IX) means a master agreement that provides for an agreement or transaction referred to in subclause (I), (III), (IV), (V), (VI), (VII), or (VIII), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this clause, except that the master agreement shall be considered to be a securities contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (III), (IV), (V), (VI), (VII), or (VIII); and
 
 &emsp;&emsp;&emsp;&emsp;(X) means any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this clause, including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in this clause.
 
@@ -872,7 +872,7 @@
 
 &emsp;&emsp;&emsp;The term "repurchase agreement" (including a reverse repurchase agreement)—
 
-&emsp;&emsp;&emsp;&emsp;(I) means an agreement, including related terms, which provides for the transfer of one or more certificates of deposit, mortgage-related securities (as such term is defined in section 78c of title 15), mortgage loans, interests in mortgage-related securities or mortgage loans, eligible bankers' acceptances, qualified foreign government securities (defined for purposes of this clause as a security that is a direct obligation of, or that is fully guaranteed by, the central government of a member of the Organization for Economic Cooperation and Development, as determined by regulation or order adopted by the appropriate Federal banking authority), or securities that are direct obligations of, or that are fully guaranteed by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers' acceptances, securities, mortgage loans, or interests with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers' acceptances, securities, mortgage loans, or interests as described above, at a date certain not later than 1 year after such transfers or on demand, against the transfer of funds, or any other similar agreement;
+&emsp;&emsp;&emsp;&emsp;(I) means an agreement, including related terms, which provides for the transfer of one or more certificates of deposit, mortgage-related securities (assuch term is defined in section 78c of title 15), mortgage loans, interests in mortgage-related securities or mortgage loans, eligible bankers' acceptances, qualified foreign government securities (defined for purposes of this clause as a security that is a direct obligation of, or that is fully guaranteed by, the central government of a member of the Organization for Economic Cooperation and Development, as determined by regulation or order adopted by the appropriate Federal banking authority), or securities that are direct obligations of, or that are fully guaranteed by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers' acceptances, securities, mortgage loans, or interests with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers' acceptances, securities, mortgage loans, or interests as described above, at a date certain not later than 1 year after such transfers or on demand, against the transfer of funds, or any other similar agreement;
 
 &emsp;&emsp;&emsp;&emsp;(II) does not include any repurchase obligation under a participation in a commercial mortgage loan, unless the Agency determines by regulation, resolution, or order to include any such participation within the meaning of such term;
 
@@ -902,7 +902,7 @@
 
 #### (vii) Treatment of master agreement as one agreement
 
-&emsp;&emsp;&emsp;Any master agreement for any contract or agreement described in any preceding clause of this subparagraph (or any master agreement for such master agreement or agreements), together with all supplements to such master agreement, shall be treated as a single agreement and a single qualified financial contract. If a master agreement contains provisions relating to agreements or transactions that are not themselves qualified financial contracts, the master agreement shall be deemed to be a qualified financial contract only with respect to those transactions that are themselves qualified financial contracts.
+&emsp;&emsp;&emsp;Any master agreement for any contract or agreement described in any preceding clause of this subparagraph (or any master agreement for such master agreement oragreements), together with all supplements to such master agreement, shall be treated as a single agreement and a single qualified financial contract. If a master agreement contains provisions relating to agreements or transactions that are not themselves qualified financial contracts, the master agreement shall be deemed to be a qualified financial contract only with respect to those transactions that are themselves qualified financial contracts.
 
 #### (viii) Transfer
 
@@ -1046,7 +1046,7 @@
 
 #### (2) Maximum liability
 
-&emsp;The maximum liability of the Agency, acting as receiver or in any other capacity, to any person having a claim against the receiver or the regulated entity for which such receiver is appointed shall be not more than the amount that such claimant would have received if the Agency had liquidated the assets and liabilities of the regulated entity withoutexercising the authority of the Agency under subsection (i).
+&emsp;The maximum liability of the Agency, acting as receiver or in any other capacity, to any person having a claim against the receiver or the regulated entity for which such receiver is appointed shall be not more than the amount that such claimant would have received if the Agency had liquidated the assets and liabilities of the regulated entity without exercising the authority of the Agency under subsection (i).
 
 #### (f) Limitation on court action
 
@@ -1110,7 +1110,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 #### (ii) Freddie Mac
 
-&emsp;&emsp;&emsp;If the Agency is appointed as receiver for the Federal Home Loan Mortgage Corporation, the limited-life regulated entity established under this subsection with respect to such enterprise shall, by operation of law and immediately upon its organization—
+&emsp;&emsp;&emsp;If the Agency is appointed as receiver for the Federal Home Loan Mortgage Corporation, the limited-life regulated entity established under this subsection with respect to such enterprise shall, by operationof law and immediately upon its organization—
 
 &emsp;&emsp;&emsp;&emsp;(I) succeed to the charter of the Federal Home Loan Mortgage Corporation, as set forth in the Federal Home Loan Mortgage Corporation Charter Act <sup>1</sup> \[12 U.S.C. 1451 et seq.\]; and
 
@@ -1120,7 +1120,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 &emsp;&emsp;Notwithstanding subparagraph (A) or any other provision of law—
 
-&emsp;&emsp;&emsp;(i) a limited-life regulated entity shall assume, acquire, or succeed to the assets or liabilities of a regulated entity only to the extent that such assets or liabilitiesare transferred by the Agency to the limited-life regulated entity in accordance with, and subject to the restrictions set forth in, paragraph (1)(B);
+&emsp;&emsp;&emsp;(i) a limited-life regulated entity shall assume, acquire, or succeed to the assets or liabilities of a regulated entity only to the extent that such assets or liabilities are transferred by the Agency to the limited-life regulated entity in accordance with, and subject to the restrictions set forth in, paragraph (1)(B);
 
 &emsp;&emsp;&emsp;(ii) a limited-life regulated entity shall not assume, acquire, or succeed to any obligation that a regulated entity for which a receiver has been appointed may have to any shareholder of the regulated entity that arises as a result of the status of that person as a shareholder of the regulated entity; and
 
@@ -1258,7 +1258,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 #### (B) Employee status
 
-&emsp;&emsp;Representatives for purposes of paragraph (1)(B), interim directors, directors, officers, employees, or agents of a limited-life regulated entity are not, solely by virtue of service in any such capacity, officers or employees of the United States. Any employee of the Agency or of any Federal instrumentality who serves at the request of the Agency as a representative for purposes of paragraph (1)(B), interim director, director, officer, employee, or agent of a limited-life regulated entity shall not—
+&emsp;&emsp;Representatives for purposes of paragraph (1)(B), interim directors, directors, officers, employees, or agents of a limited-life regulated entity are not, solely by virtue of service in any such capacity, officers or employees of the United States. Any employee of the Agency or of any Federal instrumentality who serves at the request of the Agencyas a representative for purposes of paragraph (1)(B), interim director, director, officer, employee, or agent of a limited-life regulated entity shall not—
 
 &emsp;&emsp;&emsp;(i) solely by virtue of service in any such capacity lose any existing status as an officer or employee of the United States for purposes of title 5 or any other provision of law; or
 
@@ -1338,7 +1338,7 @@ The Commodity Exchange Act, referred to in subsec. (d)(14), is act Sept. 21, 192
 
 The Federal National Mortgage Association Charter Act, referred to in subsec. (i)(2)(A)(i)(I), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
 
-This Act, referred to in subsec. (i)(2)(A)(i)(II), (ii)(II), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672, known asthe Housing and Community Development Act of 1992. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
+This Act, referred to in subsec. (i)(2)(A)(i)(II), (ii)(II), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672, known as the Housing and Community Development Act of 1992. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
 The Federal Home Loan Mortgage Corporation Charter Act, referred to in subsec. (i)(2)(A)(ii)(I), probably means the Federal Home Loan Mortgage Corporation Act, title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, which is classified generally to chapter 11A (§1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.
 

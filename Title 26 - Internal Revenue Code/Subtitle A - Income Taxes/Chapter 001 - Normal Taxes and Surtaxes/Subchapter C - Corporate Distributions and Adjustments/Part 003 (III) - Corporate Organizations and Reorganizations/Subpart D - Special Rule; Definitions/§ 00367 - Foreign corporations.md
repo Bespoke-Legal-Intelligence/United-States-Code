@@ -54,7 +54,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in regulations prescribed by the Secretary, if a United States person transfers any intangible property (within the meaning of section 936(h)(3)(B)) to a foreign corporation in an exchange described in section 351 or 361—
+&emsp;Except as provided in regulations prescribed by the Secretary, if a United States person transfers any intangible property to a foreign corporation in an exchange described in section 351 or 361—
 
 &emsp;&emsp;(A) subsection (a) shall not apply to the transfer of such property, and
 
@@ -98,6 +98,24 @@
 
 &emsp;The Secretary may provide by regulations that the rules of paragraph (2) also apply to the transfer of intangible property by a United States person to a partnership in circumstances consistent with the purposes of this subsection.
 
+#### (4) Intangible property
+
+&emsp;For purposes of this subsection, the term "intangible property" means any—
+
+&emsp;&emsp;(A) patent, invention, formula, process, design, pattern, or know-how,
+
+&emsp;&emsp;(B) copyright, literary, musical, or artistic composition,
+
+&emsp;&emsp;(C) trademark, trade name, or brand name,
+
+&emsp;&emsp;(D) franchise, license, or contract,
+
+&emsp;&emsp;(E) method, program, system, procedure, campaign, survey, study, forecast, estimate, customer list, or technical data,
+
+&emsp;&emsp;(F) goodwill, going concern value, or workforce in place (including its composition and terms and conditions (contractual or otherwise) of its employment), or
+
+&emsp;&emsp;(G) other item the value or potential value of which is not attributable to tangible property or the services of any individual.
+
 #### (e) Treatment of distributions described in section 355 or liquidations under section 332
 
 #### (1) Distributions described in section 355
@@ -116,13 +134,17 @@ To the extent provided in regulations, if a United States person transfers prope
 
 &emsp;(2) the adjusted basis (for purposes of determining gain) of such property in the hands of the transferor.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 119; Pub. L. 91–681, §1(a), Jan. 12, 1971, 84 Stat. 2065; Pub. L. 94–455, title X, §1042(a), Oct. 4, 1976, 90 Stat. 1634; Pub. L. 97–248, title II, §213(d), Sept. 3, 1982, 96 Stat. 465; Pub. L. 98–369, div. A, title I, §131(a)–(c), July 18, 1984, 98 Stat. 662–664; Pub. L. 99–514, title VI, §631(d)(1), title XII, §1231(e)(2), title XVIII, §1810(g)(1), (4), Oct. 22, 1986, 100 Stat. 2272, 2563, 2828, 2829; Pub. L. 100–647, title I, §1006(e)(13)(A), Nov. 10, 1988, 102 Stat. 3402; Pub. L. 101–508, title XI, §11702(a)(1), Nov. 5, 1990, 104 Stat. 1388–514; Pub. L. 105–34, title XI, §1131(b)(2), (4), (5)(A), Aug. 5, 1997, 111 Stat. 979, 980; Pub. L. 106–170, title V, §532(c)(1)(C), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, §406(a), Oct. 22, 2004, 118 Stat. 1498; Pub. L. 115–97, title I, §§14102(e)(1), (2), 14221(b)(1), Dec. 22, 2017, 131 Stat. 2194, 2218.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 119; Pub. L. 91–681, §1(a), Jan. 12, 1971, 84 Stat. 2065; Pub. L. 94–455, title X, §1042(a), Oct. 4, 1976, 90 Stat. 1634; Pub. L. 97–248, title II, §213(d), Sept. 3, 1982, 96 Stat. 465; Pub. L. 98–369, div. A, title I, §131(a)–(c), July 18, 1984, 98 Stat. 662–664; Pub. L. 99–514, title VI, §631(d)(1), title XII, §1231(e)(2), title XVIII, §1810(g)(1), (4), Oct. 22, 1986, 100 Stat. 2272, 2563, 2828, 2829; Pub. L. 100–647, title I, §1006(e)(13)(A), Nov. 10, 1988, 102 Stat. 3402; Pub. L. 101–508, title XI, §11702(a)(1), Nov. 5, 1990, 104 Stat. 1388–514; Pub. L. 105–34, title XI, §1131(b)(2), (4), (5)(A), Aug. 5, 1997, 111 Stat. 979, 980; Pub. L. 106–170, title V, §532(c)(1)(C), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, §406(a), Oct. 22, 2004, 118 Stat. 1498; Pub. L. 115–97, title I, §§14102(e)(1), (2), 14221(b)(1), Dec. 22, 2017, 131 Stat. 2194, 2218; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(viii)(I), (II), Mar. 23, 2018, 132 Stat. 1207.)
 
 #### Codification
 
 Another section 1131(b) of Pub. L. 105–34 enacted section 684 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(1). Pub. L. 115–141, §401(d)(1)(D)(viii)(II), struck out "(within the meaning of section 936(h)(3)(B))" after "intangible property" in introductory provisions.
+
+Subsec. (d)(4). Pub. L. 115–141, §401(d)(1)(D)(viii)(I), added par. (4).
 
 <b>2017</b>—Subsec. (a)(3). Pub. L. 115–97, §14102(e)(1), redesignated par. (4) as (3) and struck out former par. (3) which related to exception for transfers of certain property used in the active conduct of a trade or business.
 
@@ -202,9 +224,69 @@ Pub. L. 100–647, title I, §1006(e)(13)(B), Nov. 10, 1988, 102 Stat. 3402, pro
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 631(d)(1) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(d)(1) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not incomplete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
-Amendment by section 1231(e)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, but only with respect to transfers after Nov. 16, 1985, or licenses granted after such date, or before such date with respect to property not in existence or owned by taxpayer on such date, except that for purposes of section 936(h)(5)(C) of this title, such amendment applicable to taxable years beginning after Dec. 31, 1986, without regard to when the transfer or license was made, see section 1231(g)(2) of Pub. L. 99–514, set out as a note under section 936 of this title.
+Pub. L. 99–514, title XII, §1231(g), Oct. 22, 1986, 100 Stat. 2563, as amended by Pub. L. 100–647, title I, §1012(n)(1)–(3), Nov. 10, 1988, 102 Stat. 3514, provided that:
+
+"(1)
+
+In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and sections 482 and 936 of this title\] shall apply to taxable years beginning after December 31, 1986.
+
+"(2)
+
+Special rule for transfer of intangibles.—
+
+&emsp;"(A)
+
+In general.—The amendments made by subsection (e) \[amending this section and section 482 of this title\] shall apply to taxable years beginning after December 31, 1986, but only with respect to transfers after November 16, 1985, or licenses granted after such date (or before such date with respect to property not in existence or owned by the taxpayer on such date). In the case of any transfer (or license) which is not to a foreign person, the preceding sentence shall be applied by substituting 'August 16, 1986' for 'November 16, 1985'.
+
+&emsp;"(B)
+
+Special rule for \[former\] section 936.—For purposes of \[former\] section 936(h)(5)(C) of the Internal Revenue Code of 1986 the amendments made by subsection (e) shall apply to taxable years beginning after December 31, 1986, without regard to when the transfer (or license), if any, was made.
+
+"(3)
+
+Subsection (f).—The amendment made by subsection (f) \[amending section 936 of this title\] shall apply to taxable years beginning after December 31, 1982.
+
+"(4)
+
+Transitional rule.—In the case of a corporation—
+
+&emsp;"(A) with respect to which an election under \[former\] section 936 of the Internal Revenue Code of 1986 (relating to possessions tax credit) is in effect,
+
+&emsp;"(B) which produced an end-product form in Puerto Rico on or before September 3, 1982,
+
+&emsp;"(C) which began manufacturing a component of such product in Puerto Rico in its taxable year beginning in 1983, and
+
+&emsp;"(D) with respect to which a Puerto Rican tax exemption was granted on June 27, 1983,
+
+> such corporation shall treat such component as a separate product for such taxable year for purposes of determining whether such corporation had a significant business presence in Puerto Rico with respect to such product and its income with respect to such product.
+
+"(5)
+
+Transitional rule for increase in gross income test.—
+
+&emsp;"(A)
+
+In general.—If—
+
+&emsp;&emsp;"(i) a corporation fails to meet the requirements of subparagraph (B) of \[former\] section 936(a)(2) of the Internal Revenue Code of 1986 (as amended by subsection (d)(1)) for any taxable year beginning in 1987 or 1988,
+
+&emsp;&emsp;"(ii) such corporation would have met the requirements of such subparagraph (B) if such subparagraph had been applied without regard to the amendment made by subsection (d)(1), and
+
+&emsp;&emsp;"(iii) 75 percent or more of the gross income of such corporation for such taxable year (or, in the case of a taxable year beginning in 1988, for the period consisting of such taxable year and the preceding taxable year) was derived from the active conduct of a trade or business within a possession of the United States, such corporation shall nevertheless be treated as meeting the requirements of such subparagraph (B) for such taxable year if it elects to reduce the amount of the qualified possession source investment income for the taxable year by the amount of the shortfall determined under subparagraph (B) of this paragraph.
+
+&emsp;"(B)
+
+Determination of shortfall.—The shortfall determined under this subparagraph for any taxable year is an amount equal to the excess of—
+
+&emsp;&emsp;"(i) 75 percent of the gross income of the corporation for the 3-year period (or part thereof) referred to in \[former\] section 936(a)(2)(A) of such Code, over
+
+&emsp;&emsp;"(ii) the amount of the gross income of such corporation for such period (or part thereof) which was derived from the active conduct of a trade or business within a possession of the United States.
+
+&emsp;"(C)
+
+Special rule.—Any income attributable to the investment of the amount not treated as qualified possession source investment income under subparagraph (A) shall not be treated as qualified possession source investment income for any taxable year."
 
 Amendment by section 1810(g)(1), (4) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -222,7 +304,7 @@ Special rule for certain transfers of intangibles.—
 
 &emsp;"(A)
 
-In general.—If, after June 6, 1984, and before January 1, 1985, a United States person transfers any intangible property (within the meaning of section 936(h)(3)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) to a foreign corporation or in a transfer described in section 1491, such transfer shall be treated for purposes of sections 367(a), 1492(2), and 1494(b) of such Code as pursuant to a plan having as 1 of its principal purposes the avoidance of Federal income tax.
+In general.—If, after June 6, 1984, and before January 1, 1985, a United States person transfers any intangible property (within the meaning of \[former\] section 936(h)(3)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) to a foreign corporation or in a transfer described in section 1491, such transfer shall be treated for purposes of sections 367(a), 1492(2), and 1494(b) of such Code as pursuant to a plan having as 1 of its principal purposes the avoidance of Federal income tax.
 
 &emsp;"(B)
 
@@ -230,11 +312,11 @@ Waiver.—Subject to such terms and conditions as the Secretary of the Treasury 
 
 "(3)
 
-Ruling request before march 1, 1984.—The amendments made by this section (and the provisionsof paragraph (2) of this subsection) shall not apply to any transfer or exchange of property described in a request filed before March 1, 1984, under section 367(a), 1492(2), or 1494(b) of the Internal Revenue Code of 1986 (as in effect before such amendments)."
+Ruling request before march 1, 1984.—The amendments made by this section (and the provisions of paragraph (2) of this subsection) shall not apply to any transfer or exchange of property described in a request filed before March 1, 1984, under section 367(a), 1492(2), or 1494(b) of the Internal Revenue Code of 1986 (as in effect before such amendments)."
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to taxable years ending after Aug. 14, 1982, see section 213(e)(3) of Pub. L. 97–248, set out as a note under section 936 of this title.
+Amendment by Pub. L. 97–248 applicable to taxable years ending after Aug. 14, 1982, see section 213(e)(3) of Pub. L. 97–248, set out as a note under section 246 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -242,11 +324,15 @@ Pub. L. 94–455, title X, §1042(e), Oct. 4, 1976, 90 Stat. 1639, as amended by
 
 "(1) The amendments made by this section (other than by subsection (d)) \[amending this section and sections 751 and 1248 of this title\] shall apply to transfers beginning after October 9, 1975, and to sales, exchanges, and distributions taking place after such date. The amendments made by subsection (d) \[enacting section 7477 of this title and amending sections 7476 and 7482 of this title\] shall apply with respect to pleadings filed with the Tax Court after the date of the enactment of this Act \[Oct. 4, 1976\] but only with respect to transfers beginning after October 9, 1975.
 
-"(2) In the case of any exchange described in section 367 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on December 31, 1974) in any taxable year beginning after December 31, 1962, and before the date of the enactment of this Act \[Oct. 4, 1976\], which does not involve the transfer of property to or from a United States person, a taxpayer shall have for purposes of such section until 183 days after the date of the enactment of this Act \[Oct. 4, 1976\] to file a request with the Secretary of the Treasury or his delegate seeking to establish to the satisfaction of the Secretary of the Treasury or his delegate that such exchange was not in pursuance of a plan having as one of its principal purposes the avoidance of Federal income taxes and that for purposes of such section a foreign corporation is to be treated as a foreign corporation."
+"(2) In the case of any exchange described in section 367 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on December 31, 1974) in any taxable year beginning after December 31, 1962, and before the date of the enactment of this Act \[Oct. 4, 1976\],which does not involve the transfer of property to or from a United States person, a taxpayer shall have for purposes of such section until 183 days after the date of the enactment of this Act \[Oct. 4, 1976\] to file a request with the Secretary of the Treasury or his delegate seeking to establish to the satisfaction of the Secretary of the Treasury or his delegate that such exchange was not in pursuance of a plan having as one of its principal purposes the avoidance of Federal income taxes and that for purposes of such section a foreign corporation is to be treated as a foreign corporation."
 
 #### Effective Date of 1971 Amendment
 
 Pub. L. 91–681, §1(c), Jan. 12, 1971, 84 Stat. 2066, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[amending this section and section 1492 of this title\] shall apply to transfers made after December 31, 1967; except that sections 367(d) and 1492 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) shall apply only with respect to transfers made after December 31, 1970."
+
+#### Savings Provision
+
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Applicability of Subsection (e)(2)
 

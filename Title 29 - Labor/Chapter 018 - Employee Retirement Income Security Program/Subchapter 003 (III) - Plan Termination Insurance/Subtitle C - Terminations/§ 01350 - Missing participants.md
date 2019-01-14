@@ -62,7 +62,7 @@ The corporation shall prescribe rules similar to the rules in subsection (a) for
 
 #### (3) Payment by the corporation
 
-&emsp;If benefits of a missing participant were transferred to the corporation under paragraph (1), the corporation shall, upon location of the participant or beneficiary, pay to the participant or beneficiary the amount transferred (or the appropriate survivor benefit) either—
+&emsp;If benefits of a missing participant were transferred to the corporation under paragraph (1), the corporation shall, upon location of the participant or beneficiary, pay to theparticipant or beneficiary the amount transferred (or the appropriate survivor benefit) either—
 
 &emsp;&emsp;(A) in a single sum (plus interest), or
 

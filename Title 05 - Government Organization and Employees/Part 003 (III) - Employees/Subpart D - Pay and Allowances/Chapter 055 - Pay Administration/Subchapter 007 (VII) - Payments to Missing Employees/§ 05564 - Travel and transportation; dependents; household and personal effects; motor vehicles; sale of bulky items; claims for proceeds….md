@@ -20,7 +20,7 @@
 
 &emsp;(2) a monetary allowance, instead of transportation, as authorized by statute for the whole or that part of the travel for which transportation in kind was not furnished.
 
-(f) The head of the agency concerned may store the household and personal effects of an employee described in subsection (b) of this section until proper disposition can be made. The cost of the storage and transportation (including packing, crating, draying, temporarily storing, and unpacking) of household and personal effects shall be charged against appropriations currently available.
+(f) The head of the agency concerned may store the household and personal effects of an employee described in subsection (b) of this section until proper disposition can be made. The cost of the storage and transportation (including packing, crating, draying, temporarily storing, and unpacking) of household and personaleffects shall be charged against appropriations currently available.
 
 (g) When the head of the agency concerned determines that an emergency exists and that a sale would be in the best interests of the United States, he may provide for the public or private sale of motor vehicles and other bulky items of the household and personal effects of an employee described in subsection (b) of this section. Before a sale, and if practicable, a reasonable effort shall be made to determine the desires of interested persons. The net proceeds from the sale shall be sent to the owner or other person entitled thereto under regulations prescribed by the head of the agency concerned. If there is no owner or other person entitled thereto, or if the owner or other person or their addresses are not ascertained within 1 year from the date of sale, the net proceeds may be covered into the Treasury of the United States as miscellaneous receipts.
 
@@ -30,11 +30,11 @@
 
 &emsp;(1) section 2575, 2733, 4712, 6522, or 9712 of title 10;
 
-&emsp;(2) section 507 of title 14; or
+&emsp;(2) section 507 <sup>1</sup> of title 14; or
 
 &emsp;(3) chapter 171 of title 28.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 491; Pub. L. 90–83, §1(33), Sept. 11, 1967, 81 Stat. 201; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105Stat. 1476; Pub. L. 104–316, title II, §202(a), Oct. 19, 1996, 110 Stat. 3842.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 491; Pub. L. 90–83, §1(33), Sept. 11, 1967, 81 Stat. 201; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105 Stat. 1476; Pub. L. 104–316, title II, §202(a), Oct. 19, 1996, 110 Stat. 3842.)
 
 Historical and Revision Notes<br>1966
 
@@ -148,11 +148,17 @@ Act
 
 Oct. 19, 1965, Pub. L. 89–271, 79 Stat. 992.
 
-Only that portion of the source law applicable to civilian officers and employees and their dependents is codified in this section. That portion of the source law applicable to members of the uniformed services and their dependents is codified in 37 U.S.C. 554(a) by section 5(2) of this bill.
+Only that portion of the source law applicable to civilian officers and employees and their dependents is codified in this section. That portion of the source law applicable to members of the uniformed services andtheir dependents is codified in 37 U.S.C. 554(a) by section 5(2) of this bill.
+
+#### References in Text
+
+Section 507 of title 14, referred to in subsec. (i)(2), was redesignated section 2710 of title 14 by Pub. L. 115–282, title I, §116(b)(2), Dec. 4, 2018, 132 Stat. 4226, and references to section 507 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 #### Amendments
 
 <b>1996</b>—Subsec. (h). Pub. L. 104–316 substituted "Administrator of General Services" for "General Accounting Office" wherever appearing.
 
 <b>1991</b>—Subsec. (i)(1). Pub. L. 102–190 substituted "6522, or 9712" for "4713, 6522, 9712, or 9713".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

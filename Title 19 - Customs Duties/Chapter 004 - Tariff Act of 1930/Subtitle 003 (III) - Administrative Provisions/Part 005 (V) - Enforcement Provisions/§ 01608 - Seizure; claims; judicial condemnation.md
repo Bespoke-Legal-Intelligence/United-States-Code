@@ -14,7 +14,7 @@ Provisions similar to those in this section were contained in R.S. §3076, which
 
 <b>1986</b>—Pub. L. 99–570, §1862(a), substituted "$5,000" for "$2,500". See 1984 Amendment notes below.
 
-Pub. L. 99–570, §1862(b), which provided that "Section 608 of such Act \[this section\], as enacted by Public Law 98–473, is repealed", was not executed to text because such section was amended (rather than enacted) by Pub. L. 98–473, and to reflect the probable intent of Congress to repeal the amendment made by Pub. L. 98–473 in view of later amendment by Pub. L. 98–573. See 1984 Amendment notes below.
+Pub. L. 99–570, §1862(b), which provided that "Section 608 of such Act \[this section\], as enacted by Public Law 98–473, is repealed", was not executed to text because such section was amended (rather than enacted) by Pub. L. 98–473, and to reflect the probable intent of Congress to repeal the amendment made by Pub. L.98–473 in view of later amendment by Pub. L. 98–573. See 1984 Amendment notes below.
 
 <b>1984</b>—Pub. L. 98–573, §213(a)(5)(B), which directed the insertion of "$2,500 or 10 percent of the value of the claimed property, whichever is lower, but not less than" after "penal sum of", was executed to text as superseding the amendment made by Pub. L. 98–473 to reflect the probable intent of Congress. See 1986 Amendment note above.
 

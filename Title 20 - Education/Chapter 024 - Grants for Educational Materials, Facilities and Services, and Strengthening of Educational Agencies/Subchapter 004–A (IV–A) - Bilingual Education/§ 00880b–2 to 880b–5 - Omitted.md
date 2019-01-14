@@ -6,7 +6,7 @@ Sections 880b–2 to 880b–5, were to remain in effect through June 30, 1975. S
 
 Section 880b–2, Pub. L. 89–10, title VII, §704, as added Pub. L. 90–247, title VII, §702, Jan. 2, 1968, 81 Stat. 817, related to uses for Federal funds.
 
-Section 880b–3, Pub. L. 89–10, title VII, §705, as added Pub. L. 90–247, title VII, §702, Jan. 2, 1968, 81 Stat. 817 related to applications for grants, providing in subsec.: (a) for time of and contents of applications; (b) conditions for approval; and (c) amendments.
+Section 880b–3, Pub. L. 89–10, title VII, §705, as added Pub. L. 90–247, title VII, §702, Jan. 2, 1968, 81 Stat. 817 related to applications for grants, providing in subsec.:\(a) for time of and contents of applications; (b) conditions for approval; and (c) amendments.
 
 Section 880b–3a, Pub. L. 89–10, title VII, §706, as added Pub. L. 91–230, title I, §152(a), Apr. 13, 1970, 84 Stat. 151; amended Pub. L. 92–318, title IV, §452, June 23, 1972, 86 Stat. 345, provided for children in schools on or near reservations, subsec. (a) relating to local educational agency status of Indian institution or organization and subsec. (b) to payments to Secretary of Interior and criteria for such payments.
 

@@ -44,7 +44,7 @@ If the Oversight Board determines that the Governor, in the case of any then-app
 
 &emsp;&emsp;(B)(i) institute automatic hiring freezes at the covered territorial instrumentality; and
 
-&emsp;&emsp;(ii) prohibit the covered territorial instrumentality from entering into any contract or engaging in any financial or other transactions, unless the contract or transaction was previously approved by the Oversight Board.
+&emsp;&emsp;(ii) prohibit the covered territorial instrumentality from entering into any contractor engaging in any financial or other transactions, unless the contract or transaction was previously approved by the Oversight Board.
 
 #### (e) Termination of Budget reductions
 

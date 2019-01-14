@@ -14,7 +14,7 @@ Limitations.—
 
 &emsp;(1)
 
-Minimal amount.—A contract line item or contract option described in subsection (a)(2) shall require the delivery of the minimal amount of initial or additional items to allow for the timely competitive solicitation and award of a follow-on development or production contract for those items.
+Minimal amount.—A contract line item or contract option described in subsection (a)(2) shall require the delivery of the minimal amount of initial or additional items to allowfor the timely competitive solicitation and award of a follow-on development or production contract for those items.
 
 &emsp;(2)
 

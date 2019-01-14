@@ -62,7 +62,7 @@ Prisoner Consent.—Notwithstanding any other provision of law, except as requir
 
 "(d)
 
-Annual Report.—Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], and annually thereafter, the Attorney General shall submit a report to the Committees on the Judiciary ofthe House of Representatives and of the Senate stating whether each prisoner transfer treaty to which the United States is a party has been effective in the preceding 12 months in bringing about the return of deportable incarcerated aliens to the country of which they are nationals and in ensuring that they serve the balance of their sentences.
+Annual Report.—Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], and annually thereafter, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate stating whether each prisoner transfer treaty to which the United States is a party has been effective in the preceding 12 months in bringing about the return of deportable incarcerated aliens to the country of which they are nationals and in ensuring that they serve the balance of their sentences.
 
 "(e)
 

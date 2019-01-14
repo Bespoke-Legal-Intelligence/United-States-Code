@@ -18,7 +18,7 @@
 | [9016\.](Subchapter%20001%20%28I%29%20-%20Commodity%20Policy/%C2%A7%2009016%20-%20Price%20loss%20coverage.md) | Price loss coverage. |
 | [9017\.](Subchapter%20001%20%28I%29%20-%20Commodity%20Policy/%C2%A7%2009017%20-%20Agriculture%20risk%20coverage.md) | Agriculture risk coverage. |
 | [9018\.](Subchapter%20001%20%28I%29%20-%20Commodity%20Policy/%C2%A7%2009018%20-%20Producer%20agreements.md) | Producer agreements. |
-| [9019\.](Subchapter%20001%20%28I%29%20-%20Commodity%20Policy/%C2%A7%2009019%20-%20Transition%20assistance%20for%20producers%20of%20upland%20cotton.md) | Transition assistance for producers of upland cotton. |
+| [9019\.](Subchapter%20001%20%28I%29%20-%20Commodity%20Policy/%C2%A7%2009019%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20I%2C%20%C2%A71108%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204508.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -41,28 +41,28 @@
 
 #### SUBCHAPTER III—DAIRY
 
-#### Part A—Margin Protection Program for Dairy Producers
+#### Part A—Dairy Margin Coverage
 
 |  |  |
 | :--- | ---: |
-| [9051\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Margin%20Protection%20Program%20for%20Dairy%20Producers/%C2%A7%2009051%20-%20Definitions.md) | Definitions. |
-| [9052\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Margin%20Protection%20Program%20for%20Dairy%20Producers/%C2%A7%2009052%20-%20Calculation%20of%20average%20feed%20cost%20and%20actual%20dairy%20production%20margins.md) | Calculation of average feed cost and actual dairy production margins. |
-| [9053\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Margin%20Protection%20Program%20for%20Dairy%20Producers/%C2%A7%2009053%20-%20Establishment%20of%20margin%20protection%20program%20for%20dairy%20producers.md) | Establishment of margin protection program for dairy producers. |
-| [9054\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Margin%20Protection%20Program%20for%20Dairy%20Producers/%C2%A7%2009054%20-%20Participation%20of%20dairy%20operations%20in%20margin%20protection%20program.md) | Participation of dairy operations in margin protection program. |
-| [9055\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Margin%20Protection%20Program%20for%20Dairy%20Producers/%C2%A7%2009055%20-%20Production%20history%20of%20participating%20dairy%20operations.md) | Production history of participating dairy operations. |
-| [9056\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Margin%20Protection%20Program%20for%20Dairy%20Producers/%C2%A7%2009056%20-%20Margin%20protection%20payments.md) | Margin protection payments. |
-| [9057\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Margin%20Protection%20Program%20for%20Dairy%20Producers/%C2%A7%2009057%20-%20Premiums%20for%20margin%20protection%20program.md) | Premiums for margin protection program. |
-| [9058\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Margin%20Protection%20Program%20for%20Dairy%20Producers/%C2%A7%2009058%20-%20Effect%20of%20failure%20to%20pay%20administrative%20fees%20or%20premiums.md) | Effect of failure to pay administrative fees or premiums. |
-| [9059\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Margin%20Protection%20Program%20for%20Dairy%20Producers/%C2%A7%2009059%20-%20Duration.md) | Duration. |
-| [9060\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Margin%20Protection%20Program%20for%20Dairy%20Producers/%C2%A7%2009060%20-%20Administration%20and%20enforcement.md) | Administration and enforcement. |
+| [9051\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Dairy%20Margin%20Coverage/%C2%A7%2009051%20-%20Definitions.md) | Definitions. |
+| [9052\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Dairy%20Margin%20Coverage/%C2%A7%2009052%20-%20Calculation%20of%20average%20feed%20cost%20and%20actual%20dairy%20production%20margins.md) | Calculation of average feed cost and actual dairy production margins. |
+| [9053\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Dairy%20Margin%20Coverage/%C2%A7%2009053%20-%20Dairy%20margin%20coverage.md) | Dairy margin coverage. |
+| [9054\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Dairy%20Margin%20Coverage/%C2%A7%2009054%20-%20Participation%20of%20dairy%20operations%20in%20dairy%20margin%20coverage.md) | Participation of dairy operations in dairy margin coverage. |
+| [9055\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Dairy%20Margin%20Coverage/%C2%A7%2009055%20-%20Production%20history%20of%20participating%20dairy%20operations.md) | Production history of participating dairy operations. |
+| [9056\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Dairy%20Margin%20Coverage/%C2%A7%2009056%20-%20Dairy%20margin%20coverage%20payments.md) | Dairy margin coverage payments. |
+| [9057\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Dairy%20Margin%20Coverage/%C2%A7%2009057%20-%20Premiums%20for%20dairy%20margin%20coverage.md) | Premiums for dairy margin coverage. |
+| [9058\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Dairy%20Margin%20Coverage/%C2%A7%2009058%20-%20Effect%20of%20failure%20to%20pay%20administrative%20fees%20or%20premiums.md) | Effect of failure to pay administrative fees or premiums. |
+| [9059\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Dairy%20Margin%20Coverage/%C2%A7%2009059%20-%20Duration.md) | Duration. |
+| [9060\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20A%20-%20Dairy%20Margin%20Coverage/%C2%A7%2009060%20-%20Administration%20and%20enforcement.md) | Administration and enforcement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part B—Dairy Product Donation Program
+#### Part B—Milk Donation Program
 
 |  |  |
 | :--- | ---: |
-| [9071\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20B%20-%20Dairy%20Product%20Donation%20Program/%C2%A7%2009071%20-%20Dairy%20product%20donation%20program.md) | Dairy product donation program. |
+| [9071\.](Subchapter%20003%20%28III%29%20-%20Dairy/Part%20B%20-%20Milk%20Donation%20Program/%C2%A7%2009071%20-%20Milk%20donation%20program.md) | Milk donation program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

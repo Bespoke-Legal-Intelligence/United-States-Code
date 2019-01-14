@@ -100,7 +100,7 @@
 
 #### (ii) Regulatory authority
 
-&emsp;&emsp;&emsp;The Secretary may by regulations limit the application of clause (i), except that such regulations may not limit the period of time by which the annuity starting date precedes the provision of the written explanation other than by providing that the annuity starting date may not be earlier than termination of employment.
+&emsp;&emsp;&emsp;The Secretary may by regulations limit the application of clause (i), except thatsuch regulations may not limit the period of time by which the annuity starting date precedes the provision of the written explanation other than by providing that the annuity starting date may not be earlier than termination of employment.
 
 #### (B) Waiver of 30-day period
 
@@ -174,7 +174,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (1) Plan may require distribution if present value not in excess of dollar limit
 
-&emsp;A plan may provide that the present value of a qualified joint and survivor annuity or a qualified preretirement survivor annuity will be immediately distributed if such value does not exceed the amount that can be distributed without the participant's consent under section 411(a)(11). No distribution may be made under the preceding sentence after the annuity starting date unless the participant and the spouse of the participant (or where the participant has died, the surviving spouse) consents in writing to such distribution.
+&emsp;A plan may provide that the present value of a qualified joint and survivor annuity or a qualified preretirement survivor annuity will be immediately distributed if such value does not exceed the amount that can be distributed without the participant's consent under section 411(a)(11). No distribution may be madeunder the preceding sentence after the annuity starting date unless the participant and the spouse of the participant (or where the participant has died, the surviving spouse) consents in writing to such distribution.
 
 #### (2) Plan may distribute benefit in excess of dollar limit only with consent
 
@@ -272,7 +272,7 @@ For purposes of this section and section 401(a)(11)—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term "survivor annuity percentage" means the percentage which the survivor annuity under the plan's qualified joint and survivor annuity bears to the annuity payable during the joint lives of the participant and the spouse.
 
-(Added Pub. L. 98–397, title II, §203(b), Aug. 23, 1984, 98 Stat. 1441; amended Pub. L. 99–514, titleXI, §1139(b), title XVIII, §1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, 100 Stat. 2487, 2944, 2945, 2947–2951; Pub. L. 100–647, title I, §1018(u)(9), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 101–239, title VII, §7862(d)(1)(A), Dec. 19, 1989, 103 Stat. 2433; Pub. L. 103–465, title VII, §767(a)(2), Dec. 8, 1994, 108 Stat. 5038; Pub. L. 104–188, title I, §1451(a), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–147, title IV, §411(r)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(b), title X, §1004(a), title XI, §1102(a)(1)(A), Aug. 17, 2006, 120 Stat. 920, 1053, 1056; Pub. L. 110–458, title I, §103(b)(2)(A), Dec. 23, 2008, 122 Stat. 5103; Pub. L. 112–141, div. D, title II, §40211(a)(2)(C), July 6, 2012, 126 Stat. 847; Pub. L. 113–295, div. A, title II, §221(a)(57)(B)(i), Dec. 19, 2014, 128 Stat. 4046.)
+(Added Pub. L. 98–397, title II, §203(b), Aug. 23, 1984, 98 Stat. 1441; amended Pub. L. 99–514, title XI, §1139(b), title XVIII, §1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, 100 Stat. 2487, 2944, 2945, 2947–2951; Pub. L. 100–647, title I, §1018(u)(9), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 101–239, title VII, §7862(d)(1)(A), Dec. 19, 1989, 103 Stat. 2433; Pub. L. 103–465, title VII, §767(a)(2), Dec. 8, 1994, 108 Stat. 5038; Pub. L. 104–188, title I, §1451(a), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–147, title IV, §411(r)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(b), title X, §1004(a), title XI, §1102(a)(1)(A), Aug. 17, 2006, 120 Stat. 920, 1053, 1056; Pub. L. 110–458, title I, §103(b)(2)(A), Dec. 23, 2008, 122 Stat. 5103; Pub. L. 112–141, div. D, title II, §40211(a)(2)(C), July 6, 2012, 126 Stat. 847; Pub. L. 113–295, div. A, title II, §221(a)(57)(B)(i), Dec. 19, 2014, 128 Stat. 4046.)
 
 #### Amendments
 
@@ -330,7 +330,7 @@ Subsec. (c)(2). Pub. L. 99–514, §1898(b)(9)(A)(i), substituted "the portion o
 
 Subsec. (c)(3). Pub. L. 99–514, §1898(b)(9)(A)(ii), added par. (3).
 
-Subsec. (e)(3). Pub. L. 99–514, §1139(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "For purposes of paragraphs (1) and (2), the present value of a qualified joint and survivor annuity or a qualified preretirement survivor annuity shall be determined as of the date of the distribution and by using an interest rate not greater than the interest rate which would be used (as of the date of the distribution) by the Pension Benefit Guaranty Corporation for purposes of determining the present value of a lump sum distribution on plan termination."
+Subsec. (e)(3). Pub. L. 99–514, §1139(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "For purposes of paragraphs (1) and (2), the present value of a qualified joint and survivor annuity or a qualified preretirement survivor annuity shall be determined as of the date of the distribution and byusing an interest rate not greater than the interest rate which would be used (as of the date of the distribution) by the Pension Benefit Guaranty Corporation for purposes of determining the present value of a lump sum distribution on plan termination."
 
 Subsec. (f)(1). Pub. L. 99–514, §1898(b)(8)(A), substituted "such participant's accrued benefit" for "the accrued benefit derived from employer contributions".
 

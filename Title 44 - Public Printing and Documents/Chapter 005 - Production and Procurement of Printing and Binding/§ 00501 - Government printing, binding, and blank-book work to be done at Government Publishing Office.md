@@ -114,7 +114,7 @@ Federal Agency Defined.—In this Act, the term 'Federal agency' means—
 
 #### Government Publications: Printing; GPO Procurement; Executive Branch Procurement of Certain Kinds of Printing; "Printing" Defined
 
-Pub. L. 102–392, title II, §207(a), Oct. 6, 1992, 106 Stat. 1719, as amended by Pub. L. 103–283, title II, §207, July 22, 1994, 108 Stat. 1440; Pub. L. 104–201, div. A, title XI, §1112(e)(1), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 110–417, \[div. A\], title IX, §931(b)(4), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 113–235, div. H, title I, §1301(b), (d), Dec. 16, 2014, 128 Stat. 2537, provided that:
+Pub. L. 102–392, title II, §207(a), Oct. 6, 1992, 106 Stat. 1719, as amended by Pub. L. 103–283, title II, §207, July22, 1994, 108 Stat. 1440; Pub. L. 104–201, div. A, title XI, §1112(e)(1), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 110–417, \[div. A\], title IX, §931(b)(4), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 113–235, div. H, title I, §1301(b), (d), Dec. 16, 2014, 128 Stat. 2537, provided that:
 
 "(1) None of the funds appropriated for any fiscal year may be obligated or expended by any entity of the executive branch for the procurement of any printing related to the production of Government publications (including printed forms), unless such procurement is by or through the Government Publishing Office.
 

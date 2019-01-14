@@ -108,7 +108,7 @@ For purposes of this subchapter, the term "excepted benefits" means benefits und
 
 &emsp;&emsp;(C) does not condition membership in the association on any health status-related factor relating to an individual (including an employee of an employer or a dependent of an employee);
 
-&emsp;&emsp;(D) makes health insurance coverage offered through the association available to all members regardless of any health status-related factor relating to such members (or individuals eligible for coverage through a member);
+&emsp;&emsp;(D) makes health insurance coverage offered through the association available to all members regardless of any health status-related factor relating to such members (orindividuals eligible for coverage through a member);
 
 &emsp;&emsp;(E) does not make health insurance coverage offered through the association available other than in connection with a member of the association; and
 
@@ -298,7 +298,7 @@ For purposes of this subchapter:
 
 #### (7) State option to extend definition of small employer
 
-&emsp;Notwithstanding paragraphs (2) and (4), nothing in this section shall prevent a State from applying this subsection by treating as a small employer, with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
+&emsp;Notwithstanding paragraphs (2) and (4), nothing in this section shall prevent a State from applying this subsection by treating as a small employer, with respect to a calendaryear and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
 
 (July 1, 1944, ch. 373, title XXVII, §2791, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1972; amended Pub. L. 110–233, title I, §102(a)(4), May 21, 2008, 122 Stat. 890; Pub. L. 111–148, title I, §1563(b), (c)(16), formerly §1562(b), (c)(16), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 264, 269, 911; Pub. L. 114–60, §2(b), Oct. 7, 2015, 129 Stat. 543; Pub. L. 114–255, div. C, title XVIII, §18001(c)(1), Dec. 13, 2016, 130 Stat. 1344.)
 

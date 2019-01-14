@@ -18,7 +18,7 @@
 
 #### (b) Appropriations less than $5,500,000
 
-For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of subparagraphs (A) and (B) of subsection (a)(1).
+For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems withinStates to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of subparagraphs (A) and (B) of subsection (a)(1).
 
 #### (c) Appropriations of $5,500,000 or more
 
@@ -58,7 +58,7 @@ For any fiscal year in which the amount appropriated to carry out this section i
 
 #### (5) Adjustment for inflation
 
-&emsp;For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriated to carry out this section exceeds the total amount appropriated to carry out this section for the preceding fiscal year, the Commissioner shall increase each of the minimum grants or allotments under paragraphs (1)(B), (3)(B), and (4)(B) by a percentage that shall not exceed the percentage increase in the totalamount appropriated to carry out this section between the preceding fiscal year and the fiscal year involved.
+&emsp;For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriated to carry out this section exceeds the total amount appropriated to carry out this section for the preceding fiscal year, the Commissioner shall increase each of the minimum grants or allotments under paragraphs (1)(B), (3)(B), and (4)(B) by a percentage that shall not exceed the percentage increase in the total amount appropriated to carry out this section between the preceding fiscal year and the fiscal year involved.
 
 #### (d) Proportional reduction
 
@@ -106,7 +106,7 @@ For purposes of any audit, report, or evaluation of the performance of the progr
 
 #### (i) Administrative cost
 
-In any State in which an eligible system is located within a State agency, a State may use a portion of any allotment under subsection (c) for the cost of the administration of the systemrequired by this section. Such portion may not exceed 5 percent of the allotment.
+In any State in which an eligible system is located within a State agency, a State may use a portion of any allotment under subsection (c) for the cost of the administration of the system required by this section. Such portion may not exceed 5 percent of the allotment.
 
 #### (j) Delegation
 
@@ -132,7 +132,7 @@ As used in this section:
 
 &emsp;The term "American Indian consortium" means a consortium established as described in section 142 <sup>2</sup> of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042).
 
-(Pub. L. 93–112, title V, §509, as added Pub. L. 102–569, title V, §510(a), Oct. 29, 1992, 106 Stat. 4430; amended Pub. L. 103–73, title I, §112(c), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–12, §9(n), Apr. 30, 1997, 111 Stat. 28; Pub. L. 105–220, title IV, §408(c), Aug. 7, 1998, 112 Stat. 1206; Pub. L. 105–394, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3662; Pub. L. 106–402, title IV, §401(b)(3)(C), (D), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 113–128, title IV, §457, July 22, 2014, 128 Stat. 1676.)
+(Pub. L. 93–112, title V, §509, as added Pub. L. 102–569, title V, §510(a), Oct. 29, 1992, 106 Stat. 4430; amended Pub. L. 103–73, title I, §112(c), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–12, §9(n), Apr. 30, 1997, 111 Stat. 28; Pub. L. 105–220, title IV, §408(c), Aug. 7, 1998, 112 Stat. 1206; Pub. L.105–394, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3662; Pub. L. 106–402, title IV, §401(b)(3)(C), (D), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 113–128, title IV, §457, July 22, 2014, 128 Stat. 1676.)
 
 #### References in Text
 
@@ -176,7 +176,7 @@ Allotments.—For any fiscal year in which the amount appropriated to carry out 
 
 "(2)
 
-Other jurisdictions.—For the purposes of this subsection, Guam, American Samoa, the United StatesVirgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau shall not be considered to be States."
+Other jurisdictions.—For the purposes of this subsection, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau shall not be considered to be States."
 
 Subsec. (c)(4)(A). Pub. L. 103–73, §112(c)(3)(A)(i), substituted "paragraph (3)(B)" for "this subsection".
 

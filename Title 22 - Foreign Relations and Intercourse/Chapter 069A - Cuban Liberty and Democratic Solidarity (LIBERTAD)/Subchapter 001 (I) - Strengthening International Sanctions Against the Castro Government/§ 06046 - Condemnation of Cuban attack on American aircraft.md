@@ -30,7 +30,7 @@ The Congress makes the following findings:
 
 &emsp;(13) It is incumbent upon the United States Government to protect the lives and livelihoods of United States citizens as well as the rights of free passage and humanitarian missions.
 
-&emsp;(14) This premeditated act took place after a week-long wave of repression by the Cuban Government against Concilio Cubano, an umbrella organization of human rights activists, dissidents, independent economists, and independent journalists, among others.
+&emsp;(14) This premeditated act took place after a week-long wave of repression by the Cuban Government against Concilio Cubano, an umbrella organization of human rights activists,dissidents, independent economists, and independent journalists, among others.
 
 &emsp;(15) The wave of repression against Concilio Cubano, whose membership is committed to peaceful democratic change in Cuba, included arrests, strip searches, house arrests, and in some cases sentences to more than 1 year in jail.
 

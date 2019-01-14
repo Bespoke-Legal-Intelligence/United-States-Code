@@ -12,7 +12,7 @@ The Commission shall implement and enforce this chapter as if this chapter is a 
 
 #### (2) NTIA regulations
 
-&emsp;The Assistant Secretary may promulgate such regulations as are necessary to implement and enforce any provision of this chapterthat is expressly required to be carried out by the Assistant Secretary.
+&emsp;The Assistant Secretary may promulgate such regulations as are necessary to implement and enforce any provision of this chapter that is expressly required to be carried out by the Assistant Secretary.
 
 (Pub. L. 112–96, title VI, §6003, Feb. 22, 2012, 126 Stat. 204.)
 

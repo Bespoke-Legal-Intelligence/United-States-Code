@@ -12,7 +12,7 @@ Section 698v–4, Pub. L. 106–248, title I, §106, July 25, 2000, 114 Stat. 60
 
 Section 698v–5, Pub. L. 106–248, title I, §107, July 25, 2000, 114 Stat. 606; Pub. L. 109–132, §3, Dec. 20, 2005, 119 Stat. 2571, related to Board of Trustees of Trust.
 
-Section 698v–6, Pub. L. 106–248, title I, §108, July 25, 2000, 114 Stat. 607; Pub. L. 109–54, title IV, §432(a), Aug.2, 2005, 119 Stat. 556; Pub. L. 109–132, §4, Dec. 20, 2005, 119 Stat. 2571, related to management of land and resources of Preserve.
+Section 698v–6, Pub. L. 106–248, title I, §108, July 25, 2000, 114 Stat. 607; Pub. L. 109–54, title IV, §432(a), Aug. 2, 2005, 119 Stat. 556; Pub. L. 109–132, §4, Dec. 20, 2005, 119 Stat. 2571, related to management of land and resources of Preserve.
 
 Section 698v–7, Pub. L. 106–248, title I, §109, July 25, 2000, 114 Stat. 610, related to authorities of the Secretary of Agriculture.
 

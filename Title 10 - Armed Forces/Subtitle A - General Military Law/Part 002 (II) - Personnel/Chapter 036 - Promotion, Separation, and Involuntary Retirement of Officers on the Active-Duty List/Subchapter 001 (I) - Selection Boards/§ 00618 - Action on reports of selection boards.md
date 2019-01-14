@@ -8,7 +8,7 @@
 
 (2) The Chairman, in accordance with guidelines furnished to the Chairman by the Secretary of Defense, shall review the report for the purpose of determining if—
 
-&emsp;(A) the selection board acted consistent with the guidelines of the Secretary of Defense under section 615(c) of this title to ensure that selection boards give appropriate consideration to the performance of officers who areserving on, or have served on, the Joint Staff or are joint qualified officers; and
+&emsp;(A) the selection board acted consistent with the guidelines of the Secretary of Defense under section 615(c) of this title to ensure that selection boards give appropriate consideration to the performance of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers; and
 
 &emsp;(B) the selection board otherwise gave appropriate consideration to the performance of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers.
 
@@ -44,7 +44,7 @@
 
 &emsp;(A) any name removed by the President from the report of the selection board containing that name, if dissemination is under the authority of subparagraph (B) of such paragraph; or
 
-&emsp;(B) the name of any officer whose promotion the Senate failed to confirm, if dissemination is under the authority of subparagraph (C) of such paragraph.
+&emsp;(B) the name of any officer whose promotion the Senate failed to confirm, if disseminationis under the authority of subparagraph (C) of such paragraph.
 
 \[(f) Repealed. Pub. L. 109–364, div. A, title V, §547(a)(2), Oct. 17, 2006, 120 Stat. 2216.\]
 
@@ -54,7 +54,7 @@
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §522(c)(1), substituted "are serving on, or have served on, the JointStaff or are joint qualified officers" for "are serving, or have served, in joint duty assignments".
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §522(c)(1), substituted "are serving on, or have served on, the Joint Staff or are joint qualified officers" for "are serving, or have served, in joint duty assignments".
 
 Subsec. (b)(2). Pub. L. 111–383, §522(c)(2), substituted "of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers" for "in joint duty assignments of officers who are serving, or have served, in such assignments" in subpars. (A) and (B).
 

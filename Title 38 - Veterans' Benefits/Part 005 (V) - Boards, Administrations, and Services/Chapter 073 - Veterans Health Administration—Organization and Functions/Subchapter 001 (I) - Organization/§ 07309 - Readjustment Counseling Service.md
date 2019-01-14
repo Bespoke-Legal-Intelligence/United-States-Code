@@ -48,7 +48,7 @@ Annual Report.—(1) Not later than March 15 of each year, the Secretary shall s
 
 &emsp;(A) A summary of the activities of the Readjustment Counseling Service, including Vet Centers.
 
-&emsp;(B) A description of the workload and additional treatment capacity of the Vet Centers, including, for each Vet Center, the ratio of the number of full-time equivalent employees at such Vet Center and the number of individuals who received services or assistance at such Vet Center.
+&emsp;(B) A description of the workload and additional treatment capacity of the Vet Centers, including, for each Vet Center, the ratio of thenumber of full-time equivalent employees at such Vet Center and the number of individuals who received services or assistance at such Vet Center.
 
 &emsp;(C) A detailed analysis of demand for and unmet need for readjustment counseling services and the Secretary's plan for meeting such unmet need.
 

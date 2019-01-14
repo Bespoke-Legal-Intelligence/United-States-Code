@@ -56,7 +56,7 @@ Notwithstanding any other provision of this chapter, beginning on the date on wh
 
 &emsp;(1) the guaranty agency that insured such loan shall cease to have any obligations, responsibilities, or rights (including rights to any payment) under this chapter for any activity related to the administration of such loan that is carried out or required to be carried out on or after the date of such purchase; and
 
-&emsp;(2) the insurance issued by such agency pursuant to section 1078(b) of this title for such loan shall cease to be effective with respect to any default on such loan that occurs on or after the date of such purchase.
+&emsp;(2) the insurance issued by such agency pursuant to section 1078(b) of this title for suchloan shall cease to be effective with respect to any default on such loan that occurs on or after the date of such purchase.
 
 #### (e) Reports and cost estimates
 

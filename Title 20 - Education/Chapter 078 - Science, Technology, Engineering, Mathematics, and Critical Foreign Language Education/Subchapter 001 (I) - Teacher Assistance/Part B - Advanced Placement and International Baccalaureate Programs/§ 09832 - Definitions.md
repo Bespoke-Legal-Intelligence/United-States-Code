@@ -8,7 +8,7 @@ In this part:
 
 &emsp;&emsp;(A) a course of college-level instruction provided to secondary school students, terminating in an examination administered by the College Board or the International Baccalaureate Organization, or another such examination approved by the Secretary; or
 
-&emsp;&emsp;(B) another highly rigorous, evidence-based, postsecondary preparatory program terminating in an examination administered by another nationally recognized educational organization that has a demonstrated record of effectiveness in assessing secondary school students, or another such examination approved by the Secretary.
+&emsp;&emsp;(B) another highly rigorous, evidence-based, postsecondary preparatory programterminating in an examination administered by another nationally recognized educational organization that has a demonstrated record of effectiveness in assessing secondary school students, or another such examination approved by the Secretary.
 
 #### (2) Eligible entity
 

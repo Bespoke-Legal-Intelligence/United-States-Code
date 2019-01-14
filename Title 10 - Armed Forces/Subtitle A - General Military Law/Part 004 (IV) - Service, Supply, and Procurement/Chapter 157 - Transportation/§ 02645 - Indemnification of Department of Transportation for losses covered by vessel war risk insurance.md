@@ -48,7 +48,7 @@ Vessel war risk insurance fund.—The term "Vessel War Risk Insurance Fund" mean
 
 &emsp;(3)
 
-Loss.—The term "loss" includes damage to or destruction of property, personal injuryor death, and other liabilities and expenses covered by the vessel war risk insurance.
+Loss.—The term "loss" includes damage to or destruction of property, personal injury or death, and other liabilities and expenses covered by the vessel war risk insurance.
 
 (Added Pub. L. 104–201, div. A, title X, §1079(b)(1), Sept. 23, 1996, 110 Stat. 2669; amended Pub. L. 105–85, div. A, title X, §1073(a)(57), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 108–136, div. A, title X, §1031(a)(26), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 109–304, §17(a)(4), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 112–81, div. A, title X, §1064(8), Dec. 31, 2011, 125 Stat. 1587.)
 

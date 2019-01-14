@@ -56,7 +56,7 @@ A qualifying State, unit of local government, or Indian tribe may not receive mo
 
 #### (3) Limitation on matching funds
 
-&emsp;A State, unit of local government, or Indian tribe may not use funding received under any other Federal grant program to pay or defer the cost, in whole or in part, of the matching requirement under paragraph (1).
+&emsp;A State, unit of local government, or Indian tribe may not use funding received under any other Federal grant program to pay or deferthe cost, in whole or in part, of the matching requirement under paragraph (1).
 
 #### (4) Waiver
 

@@ -12,7 +12,7 @@ The Secretary may as provided in appropriation Acts obtain the services of exper
 
 #### (2) Applicability
 
-&emsp;The provisions of paragraph (1) shall not apply to any education program under which funds are authorized to be appropriated to pay the fees and expenses of non-Federal experts to review applications and proposals for such funds.
+&emsp;The provisions of paragraph (1) shall not apply to any education program under whichfunds are authorized to be appropriated to pay the fees and expenses of non-Federal experts to review applications and proposals for such funds.
 
 (Pub. L. 96–88, title IV, §402, Oct. 17, 1979, 93 Stat. 682; Pub. L. 103–227, title IX, §981, Mar. 31, 1994, 108 Stat. 263.)
 

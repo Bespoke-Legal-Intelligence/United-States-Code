@@ -18,7 +18,7 @@ The objectives of the program under subsection (a) shall be—
 
 &emsp;(3) to increase the efficiency of the overall system to reduce the quantity of carbon dioxide emissions released from the system per megawatt generated;
 
-&emsp;(4) in accordance with the carbon dioxide capture program, to promote a robust carbonsequestration program and continue the work of the Department, in conjunction with the private sector, through regional carbon sequestration partnerships; and
+&emsp;(4) in accordance with the carbon dioxide capture program, to promote a robust carbon sequestration program and continue the work of the Department, in conjunction with the private sector, through regional carbon sequestration partnerships; and
 
 &emsp;(5) to expedite and carry out large-scale testing of carbon sequestration systems in a range of geologic formations that will provide information on the cost and feasibility of deployment of sequestration technologies.
 
@@ -80,7 +80,7 @@ The objectives of the program under subsection (a) shall be—
 
 &emsp;&emsp;&emsp;(vi) to assess and ensure the safety of operations related to geologic sequestration of carbon dioxide;
 
-&emsp;&emsp;&emsp;(vii) to allow the Secretary to promulgate policies, procedures, requirements, and guidance to ensure that the objectives of this subparagraph are met in large-scale testing and deployment activities for carbon capture and sequestration that are funded by the Department of Energy; and
+&emsp;&emsp;&emsp;(vii) to allow the Secretary to promulgate policies, procedures, requirements, and guidance to ensure that the objectivesof this subparagraph are met in large-scale testing and deployment activities for carbon capture and sequestration that are funded by the Department of Energy; and
 
 &emsp;&emsp;&emsp;(viii) to provide information to States, the Environmental Protection Agency, and other appropriate entities to support development of a regulatory framework for commercial-scale sequestration operations that ensure the protection of human health and the environment.
 
@@ -96,7 +96,7 @@ The objectives of the program under subsection (a) shall be—
 
 #### (C) Source of carbon dioxide for large-scale sequestration tests
 
-&emsp;&emsp;In the process of any acquisition of carbon dioxide for sequestration tests under subparagraph (A), the Secretary shall give preference to sources of carbon dioxide from industrial sources. To the extent feasible, the Secretary shall prefer tests that would facilitate the creation of an integrated system of capture, transportation and sequestrationof carbon dioxide. The preference provided for under this subparagraph shall not delay the implementation of the large-scale sequestration tests under this paragraph.
+&emsp;&emsp;In the process of any acquisition of carbon dioxide for sequestration tests under subparagraph (A), the Secretary shall give preference to sources of carbon dioxide from industrial sources. To the extent feasible, the Secretary shall prefer tests that would facilitate the creation of an integrated system of capture, transportation and sequestration of carbon dioxide. The preference provided for under this subparagraph shall not delay the implementation of the large-scale sequestration tests under this paragraph.
 
 #### (D) Definition
 

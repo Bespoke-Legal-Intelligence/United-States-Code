@@ -16,4 +16,4 @@ Pub. L. 100–233, title VIII, §805(t)(1), Jan. 6, 1988, 101 Stat. 1716, added 
 - [&sect; 02206a - Authority of Farm Credit Banks and direct lender associations to participate in loans to similar entities for risk management purposes](%C2%A7%2002206a%20-%20Authority%20of%20Farm%20Credit%20Banks%20and%20direct%20lender%20associations%20to%20participate%20in%20loans%20to%20similar%20entities%20for%20risk%20management%20purposes.md)
 - [&sect; 02207 - Young, beginning, and small farmers and ranchers](%C2%A7%2002207%20-%20Young%2C%20beginning%2C%20and%20small%20farmers%20and%20ranchers.md)
 - [&sect; 02208 - Prohibition against use of signed ballots](%C2%A7%2002208%20-%20Prohibition%20against%20use%20of%20signed%20ballots.md)
-- [&sect; 02209 - Compensation of bank directors](%C2%A7%2002209%20-%20Compensation%20of%20bank%20directors.md)
+- [&sect; 02209 - Repealed. Pub. L. 115&#8211;334, title V, &sect;5403, Dec. 20, 2018, 132 Stat. 4675](%C2%A7%2002209%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20V%2C%20%C2%A75403%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204675.md)

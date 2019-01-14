@@ -22,7 +22,7 @@ The judges shall be officers or employees of the Department. The judges shall me
 
 #### (d) Assignment of judges
 
-For the purposes of conducting hearings described in subsection (a), the chief judge shall assign a judge to each case or class of cases. A judge shall be disqualified in any case in which the judge has a substantial interest, has been of counsel, is or has been a material witness, or is so related to or connected with any party or the party's attorney as to make it improper for the judge to be assigned to the case.
+For the purposes of conducting hearings described in subsection (a), the chief judge shallassign a judge to each case or class of cases. A judge shall be disqualified in any case in which the judge has a substantial interest, has been of counsel, is or has been a material witness, or is so related to or connected with any party or the party's attorney as to make it improper for the judge to be assigned to the case.
 
 #### (e) Review and evidentiary functions
 
@@ -54,7 +54,7 @@ The Secretary shall establish a process for the voluntary mediation of disputes 
 
 #### (i) Professional personnel; employment, assignment, or transfer
 
-The Secretary shall employ, assign, or transfer sufficient professional personnel, includingjudges of the Office, to ensure that all matters brought before the Office may be dealt with in a timely manner.
+The Secretary shall employ, assign, or transfer sufficient professional personnel, including judges of the Office, to ensure that all matters brought before the Office may be dealt with in a timely manner.
 
 (Pub. L. 90–247, title IV, §451, as added Pub. L. 95–561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2346; amended Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 349.)
 

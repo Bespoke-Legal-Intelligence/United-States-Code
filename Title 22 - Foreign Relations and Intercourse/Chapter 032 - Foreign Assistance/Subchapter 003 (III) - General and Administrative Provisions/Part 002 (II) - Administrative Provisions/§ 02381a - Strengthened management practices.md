@@ -2,7 +2,7 @@
 
 #### (a) Declaration of beliefs
 
-The Congress believes that United States foreign aid funds could be utilized more effectively by the application of advanced management decisionmaking, information and analysis techniques such as systems analysis, automatic data processing, benefit-cost studies, and information retrieval.
+The Congress believes that United States foreign aid funds could be utilized more effectivelyby the application of advanced management decisionmaking, information and analysis techniques such as systems analysis, automatic data processing, benefit-cost studies, and information retrieval.
 
 #### (b) Management system; establishment; scope
 

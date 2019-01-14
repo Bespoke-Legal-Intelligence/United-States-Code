@@ -18,7 +18,7 @@ An Indian tribe participating in the Tribal Self-Governance Demonstration Projec
 
 #### (d) Term and effective date
 
-The effective date of a compact shall be the date of the approval and execution by the Indian tribe or another date agreed upon by the parties, and shall remain in effect for so long as permitted by Federal law or until terminated bymutual written agreement, retrocession, or reassumption.
+The effective date of a compact shall be the date of the approval and execution by the Indian tribe or another date agreed upon by the parties, and shall remain in effect for so long as permitted by Federal law or until terminated by mutual written agreement, retrocession, or reassumption.
 
 (Pub. L. 93–638, title V, §504, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 715.)
 

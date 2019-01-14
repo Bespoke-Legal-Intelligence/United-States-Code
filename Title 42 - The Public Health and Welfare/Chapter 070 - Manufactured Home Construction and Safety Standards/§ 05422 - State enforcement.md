@@ -54,7 +54,7 @@ The Secretary shall, on the basis of reports submitted by the designated State a
 
 #### (1) Establishment of dispute resolution program
 
-&emsp;Not later than the expiration of the 5-year period beginning on December 27, 2000, the Secretary shall establish a dispute resolution program that meets the requirements of subsection (c)(12) for dispute resolution in eachState described in paragraph (2) of this subsection. The order establishing the dispute resolution program shall be issued after notice and opportunity for public comment in accordance with section 553 of title 5.
+&emsp;Not later than the expiration of the 5-year period beginning on December 27, 2000, the Secretary shall establish a dispute resolution program that meets the requirements of subsection (c)(12) for dispute resolution in each State described in paragraph (2) of this subsection. The order establishing the dispute resolution program shall be issued after notice and opportunity for public comment in accordance with section 553 of title 5.
 
 #### (2) Implementation of dispute resolution program
 

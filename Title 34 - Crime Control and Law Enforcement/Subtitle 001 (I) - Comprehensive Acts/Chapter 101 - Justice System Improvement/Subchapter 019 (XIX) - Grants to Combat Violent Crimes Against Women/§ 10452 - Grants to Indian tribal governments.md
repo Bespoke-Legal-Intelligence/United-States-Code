@@ -16,7 +16,7 @@ The Attorney General may make grants to Indian tribal governments or authorized 
 
 &emsp;(6) provide programs for supervised visitation and safe visitation exchange of children in situations involving domestic violence, sexual assault, or stalking committed by one parent against the other with appropriate security measures, policies, and procedures to protect the safety of victims and their children;
 
-&emsp;(7) provide transitional housing for victims of domestic violence, dating violence, sexual assault, sex trafficking, or stalking, including rental or utilities payments assistance and assistance with related expenses such as security deposits and other costs incidental to relocation to transitional housing, and support services to enable a victim of domestic violence, dating violence, sexual assault, sex trafficking, or stalking to locate and secure permanent housing and integrate into a community;
+&emsp;(7) provide transitional housing for victims of domestic violence, dating violence, sexual assault, sex trafficking, or stalking, including rental or utilities payments assistance and assistance with related expenses such as security deposits and other costs incidental to relocation to transitional housing, and supportservices to enable a victim of domestic violence, dating violence, sexual assault, sex trafficking, or stalking to locate and secure permanent housing and integrate into a community;
 
 &emsp;(8) provide legal assistance necessary to provide effective aid to victims of domestic violence, dating violence, stalking, sex trafficking, or sexual assault who are seeking relief in legal matters arising as a consequence of that abuse or violence, at minimal or no cost to the victims;
 

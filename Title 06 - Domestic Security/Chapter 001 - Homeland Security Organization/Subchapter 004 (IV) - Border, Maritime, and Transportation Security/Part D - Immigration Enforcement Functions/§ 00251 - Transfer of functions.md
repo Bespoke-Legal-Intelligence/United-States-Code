@@ -16,5 +16,5 @@ In accordance with subchapter XII (relating to transition provisions), there sha
 
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–125 substituted "Transfer of functions" for "Transfer of functions to Under Secretary for Border and Transportation Security" in section catchline and "Secretary" for "Under Secretary for Border and Transportation Security" in introductory provisions.
+<b>2016</b>—Pub. L. 114–125 substituted "Transfer of functions" for "Transfer of functions to Under Secretaryfor Border and Transportation Security" in section catchline and "Secretary" for "Under Secretary for Border and Transportation Security" in introductory provisions.
 

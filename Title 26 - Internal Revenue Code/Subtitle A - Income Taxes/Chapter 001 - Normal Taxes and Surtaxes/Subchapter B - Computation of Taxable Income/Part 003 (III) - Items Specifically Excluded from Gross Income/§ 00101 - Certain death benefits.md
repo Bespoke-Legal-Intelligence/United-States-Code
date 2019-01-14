@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) if such transfer is to the insured, to a partner of the insured, to a partnership in which the insured is a partner, or to a corporation in which the insured is a shareholder or officer.
 
-> &emsp;The term "other amounts" in the first sentence of this paragraph includes interest paid or accrued by the transferee on indebtednesswith respect to such contract or any interest therein if such interest paid or accrued is not allowable as a deduction by reason of section 264(a)(4).
+> &emsp;The term "other amounts" in the first sentence of this paragraph includes interest paidor accrued by the transferee on indebtedness with respect to such contract or any interest therein if such interest paid or accrued is not allowable as a deduction by reason of section 264(a)(4).
 
 #### (3) Exception to valuable consideration rules for commercial transfers
 

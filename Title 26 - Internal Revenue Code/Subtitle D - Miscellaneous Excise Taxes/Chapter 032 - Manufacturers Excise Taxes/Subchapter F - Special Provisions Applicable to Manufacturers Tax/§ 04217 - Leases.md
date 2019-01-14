@@ -6,7 +6,7 @@ For purposes of this chapter, the lease of an article (including any renewal or 
 
 #### (b) Limitation on tax
 
-In the case of any lease described in subsection (a) of an article taxable under this chapter, if the tax under this chapter is based on the price for which such articles are sold, there shall be paid on each lease payment with respect to such article a percentage of such payment equal to the rate of tax in effect on the date of such payment, until the total of the tax payments under such lease and any prior lease to which this subsection applies equals the total tax.
+In the case of any lease described in subsection (a) of an article taxable under this chapter, if the tax under this chapter is based on the price for which such articles are sold, there shall be paid on each lease payment with respect to such article a percentage of such payment equalto the rate of tax in effect on the date of such payment, until the total of the tax payments under such lease and any prior lease to which this subsection applies equals the total tax.
 
 #### (c) Definition of total tax
 
@@ -88,7 +88,7 @@ Subsecs. (b) to (d). Pub. L. 85–859 added subsecs. (b) to (d).
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–618 applicable with respect to 1980 and later model year automobiles, see section201(g) of Pub. L. 95–618, set out as an Effective Date note under section 4064 of this title.
+Amendment by Pub. L. 95–618 applicable with respect to 1980 and later model year automobiles, see section 201(g) of Pub. L. 95–618, set out as an Effective Date note under section 4064 of this title.
 
 #### Effective Date of 1976 Amendment
 

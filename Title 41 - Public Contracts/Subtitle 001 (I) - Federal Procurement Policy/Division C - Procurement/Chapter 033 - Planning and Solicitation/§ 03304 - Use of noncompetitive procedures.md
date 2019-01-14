@@ -14,7 +14,7 @@ When Noncompetitive Procedures May Be Used.—An executive agency may use proced
 
 &emsp;&emsp;(B) to establish or maintain an essential engineering, research, or development capability to be provided by an educational or other nonprofit institution or a Federally funded research and development center;
 
-&emsp;&emsp;(C) to procure the services of an expert for use, in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government, in any trial, hearing, or proceeding before a court, administrative tribunal, or agency, whether or not the expert is expected to testify; or
+&emsp;&emsp;(C) to procure the services of an expert for use, in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government, inany trial, hearing, or proceeding before a court, administrative tribunal, or agency, whether or not the expert is expected to testify; or
 
 &emsp;&emsp;(D) to procure the services of an expert or neutral for use in any part of an alternative dispute resolution or negotiated rulemaking process, whether or not the expert is expected to testify;
 
@@ -158,7 +158,11 @@ Availability on websites.—The documents referred to in subparagraph (A) of par
 
 Exception to availability and approval requirement.—This subsection does not require the public availability of information that is exempt from public disclosure under section 552(b) of title 5.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3748.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3748; Pub. L. 115–232, div. A, title VIII, §836(b)(7), Aug. 13, 2018, 132 Stat. 1861.)
+
+#### Amendment of Subsections (a)(5) and (e)(4)(B)
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(b)(7), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsections (a)(5) and (e)(4)(B) of this section are amended by striking "commercial item" and inserting "commercial product". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -221,6 +225,14 @@ In subsection (f)(2), the words "referred to in subparagraph (A) of paragraph (1
 #### Senate Revision Amendment
 
 In subsec. (e)(1)(B)(ii), "for level IV of the Executive Schedule" substituted for "under section 5376 of title 5" by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
+
+#### Amendments
+
+<b>2018</b>—Subsecs. (a)(5), (e)(4)(B). Pub. L. 115–232 substituted "commercial product" for "commercial item".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
 #### Justification and Approval of Sole-Source Contracts
 

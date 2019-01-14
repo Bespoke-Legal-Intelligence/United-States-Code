@@ -30,7 +30,7 @@
 
 (2) If the Commission determines that a document claimed to be inaccurate by a manufacturer or private labeler under paragraph (1) should be disclosed because the Commission believes it has complied with paragraph (1), the Commission shall notify the manufacturer or private labeler that the Commission intends to disclose such document at a date not less than 5 days after the date of the receipt of notification. The Commission may provide a lesser period of notice of intent to disclose if the Commission publishes a finding that the public health and safety requires a lesser period of notice.
 
-(3)(A) Prior to the date set for release of the document, the manufacturer or private labeler receiving the notice described in paragraph (2) may bring an action in the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the documents are located or in the United States District Court for the District of Columbia to enjoin disclosure of the document. The district court may enjoin such disclosure if the Commission has failed to take the reasonable steps prescribed in paragraph (1).
+(3)(A) Prior to the date set for release of the document, the manufacturer or private labeler receiving the notice described in paragraph (2) may bring an action in the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the documents are located or in the United States District Court for the District of Columbia to enjoin disclosure of the document. The district court may enjoin suchdisclosure if the Commission has failed to take the reasonable steps prescribed in paragraph (1).
 
 (B) If the Commission determines that the public health and safety requires expedited consideration of an action brought under subparagraph (A), the Commission may file a request with the District Court for such expedited consideration. If the Commission files such a request, the District Court shall—
 
@@ -104,7 +104,7 @@ The Federal Hazardous Substances Act, referred to in subsec. (d)(1), is Pub. L. 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(3). Pub. L. 110–314, §211(1), inserted "A manufacturer or private labeler shall submit any such mark within 15 calendar days after the date onwhich it receives the Commission's offer." after "paragraph (2)."
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–314, §211(1), inserted "A manufacturer or private labeler shall submit any such mark within 15 calendar days after the date on which it receives the Commission's offer." after "paragraph (2)."
 
 Subsec. (b)(1). Pub. L. 110–314, §211(2)–(4), substituted "15 days" for "30 days", "publishes a finding that the public" for "finds that the public", and "notice)," for "notice and publishes such a finding in the Federal Register),".
 

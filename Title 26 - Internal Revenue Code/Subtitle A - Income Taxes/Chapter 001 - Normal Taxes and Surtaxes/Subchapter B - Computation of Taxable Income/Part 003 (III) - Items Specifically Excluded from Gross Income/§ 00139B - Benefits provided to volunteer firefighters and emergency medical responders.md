@@ -14,7 +14,7 @@ In the case of any member of a qualified volunteer emergency response organizati
 
 &emsp;(1) the deduction under 164 shall be determined with regard to any qualified State and local tax benefit, and
 
-&emsp;(2) expenses paid or incurred by the taxpayer in connection with the performance of services as such a member shall be taken into account under section 170 only to the extent such expenses exceed the amount of any qualified payment excluded from gross income under subsection (a).
+&emsp;(2) expenses paid or incurred by the taxpayer in connection with the performance of services as such a member shall be taken into account under section 170 only to the extent such expenses exceed the amount of any qualifiedpayment excluded from gross income under subsection (a).
 
 #### (c) Definitions
 

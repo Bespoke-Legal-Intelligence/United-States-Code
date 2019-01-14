@@ -6,7 +6,7 @@ The purposes of this chapter are to help ensure the continued leadership of the 
 
 &emsp;&emsp;(A) expand the number of researchers, educators, and students with training in networking and information technology and access to networking and information technology resources;
 
-&emsp;&emsp;(B) promote the further development of an information infrastructure of data bases,services, access mechanisms, and research facilities available for use through the Internet;
+&emsp;&emsp;(B) promote the further development of an information infrastructure of data bases, services, access mechanisms, and research facilities available for use through the Internet;
 
 &emsp;&emsp;(C) stimulate research on and promote more rapid development of high-end computing systems software and applications software;
 

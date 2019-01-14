@@ -72,7 +72,7 @@ In the case of a member of the Armed Forces of the United States on active duty 
 
 &emsp;(1) the limitations under subsection (c) shall not apply;
 
-&emsp;(2) any moving and storage expenses which are furnished in kind (or for which reimbursement or an allowance is provided, but only to the extent of the expenses paid or incurred) to such member, his spouse, or his dependents, shall not be includible in gross income, and no reporting with respect to such expenses shall be required by the Secretary of Defense or the Secretary of Transportation, as the case may be; and
+&emsp;(2) any moving and storage expenses which are furnished in kind (or for which reimbursement or an allowance is provided, but only to the extent of the expenses paid or incurred) to such member, his spouse, or his dependents, shall not be includible in gross income, and no reporting with respect to such expenses shall be required by the Secretary of Defense or theSecretary of Transportation, as the case may be; and
 
 &emsp;(3) if moving and storage expenses are furnished in kind (or if reimbursement or an allowance for such expenses is provided) to such member's spouse and his dependents with regard to moving to a location other than the one to which such member moves (or from a location other than the one from which such member moves), this section shall apply with respect to the moving expenses of his spouse and dependents—
 
@@ -132,7 +132,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 Except in the case of an individual to whom subsection (g) applies, this section shall not apply to any taxable year beginning after December 31, 2017, and before January 1, 2026.
 
-(Added Pub. L. 88–272, title II, §213(a)(1), Feb. 26, 1964, 78 Stat. 50; amended Pub. L. 91–172, title II, §231(a), Dec. 30, 1969, 83 Stat. 577; Pub. L. 94–455, title V, §506 (a)–(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1568, 1834; Pub. L. 95–615, title II, §204, Nov. 8, 1978, 92 Stat. 3106; Pub. L.103–66, title XIII, §13213(a)(1)–(2)(D), (b), Aug. 10, 1993, 107 Stat. 473, 474; Pub. L. 115–97, title I, §11049(a), Dec. 22, 2017, 131 Stat. 2088.)
+(Added Pub. L. 88–272, title II, §213(a)(1), Feb. 26, 1964, 78 Stat. 50; amended Pub. L. 91–172, title II, §231(a), Dec. 30, 1969, 83 Stat. 577; Pub. L. 94–455, title V, §506 (a)–(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1568, 1834; Pub. L. 95–615, title II, §204, Nov. 8, 1978, 92 Stat. 3106; Pub. L. 103–66, title XIII, §13213(a)(1)–(2)(D), (b), Aug. 10, 1993, 107 Stat. 473, 474; Pub. L. 115–97, title I, §11049(a), Dec. 22, 2017, 131 Stat. 2088.)
 
 #### Prior Provisions
 

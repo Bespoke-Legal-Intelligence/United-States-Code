@@ -18,7 +18,7 @@ Months.—(1) If an officer whose name is on a list of officers approved for pro
 
 (3) Paragraph (1) does not apply when the military department concerned is not able to obtain and provide to the Senate the information the Senate requires to give its advice and consent to the appointment concerned because that information is under the control of a department or agency of the Federal Government other than the Department of Defense.
 
-(4) In this subsection, the term "promotion eligibility period" means, with respect to an officer whose name is on a list of officers approved for promotion under section 624(a) of this title to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate, the period beginning on the date on which the list is so approved and ending on the first day of the eighteenth month following the month during which the list is so approved.
+(4) In this subsection, the term "promotion eligibility period" means, with respect to an officer whose name is on a list of officers approved for promotion under section 624(a) of this title to a grade for which appointment is required by section 624(c) of this title to be made by andwith the advice and consent of the Senate, the period beginning on the date on which the list is so approved and ending on the first day of the eighteenth month following the month during which the list is so approved.
 
 (d)
 
@@ -58,7 +58,7 @@ Pub. L. 109–364, div. A, title V, §515(c), Oct. 17, 2006, 120 Stat. 2187, pro
 
 #### Effective Date
 
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out asan Effective Date of 1980 Amendment note under section 101 of this title.
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 
 #### Delegation of Functions
 

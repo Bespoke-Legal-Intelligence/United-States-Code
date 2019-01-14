@@ -32,7 +32,7 @@ Another prior section 796a, Pub. L. 93–112, title VII, §702, as added Pub. L.
 
 Pub. L. 113–128, §473(1)(A), inserted "for individuals with significant disabilities (regardless of age or income)" before "that—" in introductory provisions.
 
-Par. (1)(B). Pub. L. 113–128, §473(1)(B), inserted ", including, at a minimum, independent living core services as defined in section 705(17) of this title" before period at end.
+Par. (1)(B). Pub. L. 113–128, §473(1)(B), inserted ", including, at a minimum, independent living coreservices as defined in section 705(17) of this title" before period at end.
 
 Par. (2). Pub. L. 113–128, §473(3), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 

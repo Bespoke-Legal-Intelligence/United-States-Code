@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) conforms to applicable State law;
 
-&emsp;(3) such removal, obliteration, tampering, or alteration is caused by collision or fire or iscarried out as described in section 511(b) of this title; or
+&emsp;(3) such removal, obliteration, tampering, or alteration is caused by collision or fire or is carried out as described in section 511(b) of this title; or
 
 &emsp;(4) such motor vehicle or part is in the possession or control of a motor vehicle scrap processor who does not know that such identification number was removed, obliterated, tampered with, or altered in any manner other than by collision or fire or as described in section 511(b) of this title.
 

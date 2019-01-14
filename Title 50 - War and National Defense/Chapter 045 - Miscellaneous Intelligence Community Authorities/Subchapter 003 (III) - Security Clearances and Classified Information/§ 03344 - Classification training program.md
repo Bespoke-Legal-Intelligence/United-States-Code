@@ -36,7 +36,7 @@ Section was formerly classified to section 435d of this title prior to editorial
 
 #### Definitions
 
-Pub. L. 111–258, §3, Oct. 7, 2010, 124 Stat. 2648, provided that: "In this Act \[see Short Title of 2010 Amendment note set out under section 101 of Title 6, Domestic Security\]:
+Pub. L. 111–258, §3, Oct. 7, 2010, 124 Stat. 2648, provided that: "In this Act \[see Short Title of 2010 Amendmentnote set out under section 101 of Title 6, Domestic Security\]:
 
 &emsp;"(1)
 

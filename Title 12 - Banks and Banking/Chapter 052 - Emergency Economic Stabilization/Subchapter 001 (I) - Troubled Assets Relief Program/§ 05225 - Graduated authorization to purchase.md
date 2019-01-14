@@ -74,7 +74,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time during the period beginning on the 4th day after the date on which Congress receives a report of the plan of the Secretary described in subsection (a)(3) and ending on the 6th day after the date on which Congress receives a report of the plan of the Secretary described in subsection (a)(3) (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the joint resolution shall remain the unfinished business until disposed of.
+&emsp;&emsp;Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time during the period beginning on the 4th day after the date on which Congress receives a report of the plan of the Secretary described in subsection (a)(3) and ending onthe 6th day after the date on which Congress receives a report of the plan of the Secretary described in subsection (a)(3) (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the joint resolution shall remain the unfinished business until disposed of.
 
 #### (B) Debate
 
@@ -128,7 +128,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 &emsp;This subsection and subsections (c), (d), and (e) are enacted by Congress—
 
-&emsp;&emsp;(A) as an exercise of the rulemaking power of the Senate and House of Representatives,respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
+&emsp;&emsp;(A) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
 
 &emsp;&emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 

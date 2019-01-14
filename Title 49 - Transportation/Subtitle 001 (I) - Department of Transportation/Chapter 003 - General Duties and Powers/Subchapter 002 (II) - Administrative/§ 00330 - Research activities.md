@@ -40,7 +40,7 @@ Duties.—The Secretary shall provide for the following:
 
 Additional Authorities.—The Secretary may—
 
-&emsp;(1) enter into grants and cooperative agreements with Federal agencies, State and local government agencies, other public entities, private organizations, and other persons toconduct research into transportation service and infrastructure assurance and to carry out other research activities of the Department of Transportation;
+&emsp;(1) enter into grants and cooperative agreements with Federal agencies, State and local government agencies, other public entities, private organizations, and other persons to conduct research into transportation service and infrastructure assurance and to carry out other research activities of the Department of Transportation;
 
 &emsp;(2) carry out, on a cost-shared basis, collaborative research and development to encourage innovative solutions to multimodal transportation problems and stimulate the deployment of new technology with—
 
@@ -112,7 +112,7 @@ Oct. 15, 1966, Pub. L. 89–670, §9(q)(1)–(3), 80 Stat. 947.
 
 In subsection (a), the words "may make contracts" are substituted for "is authorized to enter into contracts" to eliminate unnecessary words. The words "the conduct of" before "scientific" are omitted as surplus. The words "a problem" are substituted for "any aspect of the problems" because of the style of the revised title. The words "carried out by the Secretary" are substituted for "of the Department which are authorized by statute" because the Secretary of Transportation is vested with all duties and powers. The words "Before making a contract" are substituted for "with which he expects to enter into contracts pursuant to this subsection" for clarity and to eliminate unnecessary words. The words "is able to carry out the contract" are substituted for "have the capability of doing effective work" for clarity.
 
-In subsection (b), before clause (1), the words "In carrying out this section" are added for clarity. In clause (1), the word "give" is substituted for "furnish" before "such advice" for consistency. The words "duties and powers of the Secretary" are substituted for "mission of the Department" for clarity and consistency. In clause (4), the word "contractors" is substituted for "the institutions, agencies, organizations, or persons" to eliminate unnecessary words. The words "departments, agencies, and instrumentalities of the United States Government" are substituted for "Federal agencies" for clarity and consistency.
+In subsection (b), before clause (1), the words "In carrying out this section" are added for clarity. In clause (1), the word "give" is substituted for "furnish" before "such advice" for consistency. The words "duties and powers of the Secretary" are substituted for "missionof the Department" for clarity and consistency. In clause (4), the word "contractors" is substituted for "the institutions, agencies, organizations, or persons" to eliminate unnecessary words. The words "departments, agencies, and instrumentalities of the United States Government" are substituted for "Federal agencies" for clarity and consistency.
 
 In subsection (c), the words "considers relevant" are substituted for "as he deems pertinent" as more precise. The words "from time to time" before "disseminate" and "in the form of reports or . . . to public or private agencies or organizations, or individuals" before "such information" are omitted as unnecessary.
 

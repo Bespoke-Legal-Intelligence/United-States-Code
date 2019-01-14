@@ -32,7 +32,7 @@ Not later than 4 years after October 12, 2006, the Secretary and the Commission,
 
 #### (3) Cooperation
 
-&emsp;The Secretary and the Commission shall cooperate to ensure that the management plans relating to the management of Federal land and non-Federal land are consistent.
+&emsp;The Secretary and the Commission shall cooperate to ensure that the management plansrelating to the management of Federal land and non-Federal land are consistent.
 
 #### (c) Requirements
 

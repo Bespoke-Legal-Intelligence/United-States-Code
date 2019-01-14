@@ -130,7 +130,7 @@
 
 #### (2) Limitation
 
-&emsp;The rules and regulations that the Commission may prescribe pursuant to this chapter, as they apply to nationally recognized statistical rating organizations, shall be narrowly tailored to meet the requirements of this chapter applicable to nationally recognized statistical rating organizations. Notwithstanding any other provision of this section, or any other provision of law, neither the Commission nor any State (or political subdivision thereof) may regulate the substance of credit ratings or the procedures and methodologies by which any nationally recognized statistical rating organization determines credit ratings. Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.
+&emsp;The rules and regulations that the Commission may prescribe pursuant to this chapter,as they apply to nationally recognized statistical rating organizations, shall be narrowly tailored to meet the requirements of this chapter applicable to nationally recognized statistical rating organizations. Notwithstanding any other provision of this section, or any other provision of law, neither the Commission nor any State (or political subdivision thereof) may regulate the substance of credit ratings or the procedures and methodologies by which any nationally recognized statistical rating organization determines credit ratings. Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.
 
 #### (3) Internal controls over processes for determining credit ratings
 
@@ -180,7 +180,7 @@
 
 &emsp;&emsp;In making any determination under subparagraph (A), the Commission shall consider—
 
-&emsp;&emsp;&emsp;(i) whether the nationally recognized statistical rating organization has failed over a sustained period of time, as determined by the Commission, to produce ratings that are accurate for that class or subclass of securities; and
+&emsp;&emsp;&emsp;(i) whether the nationally recognized statistical rating organization has failedover a sustained period of time, as determined by the Commission, to produce ratings that are accurate for that class or subclass of securities; and
 
 &emsp;&emsp;&emsp;(ii) such other factors as the Commission may determine.
 
@@ -392,7 +392,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 #### (1) In general
 
-&emsp;The enforcement and penalty provisions of this chapter shall apply to statements made by a credit rating agency in the same manner and to the same extent as such provisions apply to statements made by a registered public accounting firm or a securities analyst under the securities laws, and such statements shall not be deemed forward-looking statements for the purposes of section 78u–5 of this title.
+&emsp;The enforcement and penalty provisions of this chapter shall apply to statements madeby a credit rating agency in the same manner and to the same extent as such provisions apply to statements made by a registered public accounting firm or a securities analyst under the securities laws, and such statements shall not be deemed forward-looking statements for the purposes of section 78u–5 of this title.
 
 #### (2) Rulemaking
 
@@ -502,7 +502,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 &emsp;The rules of the Commission under this subsection shall require, at a minimum, disclosures that—
 
-&emsp;&emsp;(A) are comparable among nationally recognized statistical rating organizations, to allow users of credit ratings to compare theperformance of credit ratings across nationally recognized statistical rating organizations;
+&emsp;&emsp;(A) are comparable among nationally recognized statistical rating organizations, to allow users of credit ratings to compare the performance of credit ratings across nationally recognized statistical rating organizations;
 
 &emsp;&emsp;(B) are clear and informative for investors having a wide range of sophistication who use or might use credit ratings;
 
@@ -556,7 +556,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 &emsp;&emsp;&emsp;(iii) if applicable, how the nationally recognized statistical rating organization used servicer or remittance reports, and with what frequency, to conduct surveillance of the credit rating; and
 
-&emsp;&emsp;(B) information that can be used by investors and other users of credit ratings to better understand credit ratings in each class of credit rating issued by the nationally recognized statistical rating organization.
+&emsp;&emsp;(B) information that can be used by investors and other users of credit ratings to better understand credit ratings in each class ofcredit rating issued by the nationally recognized statistical rating organization.
 
 #### (2) Format
 
@@ -636,7 +636,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 #### (C) Format and content
 
-&emsp;&emsp;The Commission shall establish the appropriate format and content for the written certifications required under subparagraph (B), to ensure that providers of due diligence services have conducted a thorough review of data, documentation, and other relevant information necessary for a nationally recognized statistical rating organization to provide an accurate rating.
+&emsp;&emsp;The Commission shall establish the appropriate format and content for the written certifications required under subparagraph (B), to ensure that providers of due diligenceservices have conducted a thorough review of data, documentation, and other relevant information necessary for a nationally recognized statistical rating organization to provide an accurate rating.
 
 #### (D) Disclosure of certification
 
@@ -706,7 +706,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 #### (v) Information from sources other than the issuer
 
-In producing a credit rating, a nationally recognized statistical rating organization shall consider information about an issuer that the nationally recognized statistical rating organization has, or receives from a source other than the issuer or underwriter, that the nationally recognized statistical rating organization finds credible and potentially significant to a rating decision.
+In producing a credit rating, a nationally recognized statistical rating organization shall consider information about an issuer that the nationally recognized statistical rating organization has, or receives from a source other than the issuer or underwriter, that the nationally recognized statistical rating organization findscredible and potentially significant to a rating decision.
 
 (June 6, 1934, ch. 404, title I, §15E, as added Pub. L. 109–291, §4(a), Sept. 29, 2006, 120 Stat. 1329; amended Pub. L. 111–203, title IX, §§932(a), 933(a), 934, 935, July 21, 2010, 124 Stat. 1872, 1883, 1884.)
 
@@ -728,7 +728,7 @@ Subsec. (c)(2). Pub. L. 111–203, §932(a)(2)(A), inserted "any other provision
 
 Subsec. (c)(3). Pub. L. 111–203, §932(a)(2)(B), added par. (3).
 
-Subsec. (d). Pub. L. 111–203, §932(a)(3), designated existing provisions as par. (1), inserted heading, inserted ", or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationallyrecognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization," before "if the Commission finds" and "bar" before "or revocation is necessary", redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted "filed with" for "furnished to" in introductory provisions, in subpar. (D), substituted "file" for "furnish", and added subpar. (F) and par. (2).
+Subsec. (d). Pub. L. 111–203, §932(a)(3), designated existing provisions as par. (1), inserted heading, inserted ", or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationally recognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization," before "if the Commission finds" and "bar" before "or revocation is necessary", redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted "filed with" for "furnished to" in introductory provisions, in subpar. (D), substituted "file" for "furnish", and added subpar. (F) and par. (2).
 
 Subsec. (h)(3) to (5). Pub. L. 111–203, §932(a)(4), added pars. (3) to (5).
 

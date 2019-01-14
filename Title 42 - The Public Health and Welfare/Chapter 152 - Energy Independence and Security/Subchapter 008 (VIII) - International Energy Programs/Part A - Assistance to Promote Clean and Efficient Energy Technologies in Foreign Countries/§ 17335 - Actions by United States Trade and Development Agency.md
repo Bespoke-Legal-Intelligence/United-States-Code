@@ -12,7 +12,7 @@ The Director of the Trade and Development Agency shall establish or support poli
 
 #### (b) Report
 
-The President shall include in the annual report on the activities of the Trade and Development Agency required under section 2421(d) oftitle 22 a description of the activities carried out to implement this section.
+The President shall include in the annual report on the activities of the Trade and Development Agency required under section 2421(d) of title 22 a description of the activities carried out to implement this section.
 
 (Pub. L. 110–140, title IX, §915, Dec. 19, 2007, 121 Stat. 1727.)
 

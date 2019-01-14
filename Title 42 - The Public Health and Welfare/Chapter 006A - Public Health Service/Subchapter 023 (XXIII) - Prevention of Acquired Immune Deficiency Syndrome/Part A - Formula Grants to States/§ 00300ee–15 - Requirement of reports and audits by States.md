@@ -26,7 +26,7 @@ The Secretary may not make payments under section 300ee–11(a) of this title fo
 
 &emsp;(B) the audit will be performed biennially and will cover expenditures in each fiscal year; and
 
-&emsp;(C) the audit will be conducted in accordance with standards established by the ComptrollerGeneral of the United States for the audit of governmental organizations, programs, activities, and functions.
+&emsp;(C) the audit will be conducted in accordance with standards established by the Comptroller General of the United States for the audit of governmental organizations, programs, activities, and functions.
 
 (3) The Secretary may not make payments under section 300ee–11(a) of this title for a fiscal year unless the State involved agrees that, not later than 30 days after the completion of an audit under paragraph (2), the State will provide a copy of the audit report to the State legislature.
 

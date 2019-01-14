@@ -10,7 +10,7 @@ It is the policy of the United States that participation in international financ
 
 &emsp;(3) fully inform and involve host country environmental and health officials (Federal and local) and nongovernmental environmental and indigenous peoples organizations at all stages of the project cycle in environmentally sensitive projects as well as in policy based lending to ensure the active participation of local communities and non-governmental organizations in the planning of projects that may adversely affect them;
 
-&emsp;(4) substantially increase the proportion of lending supporting environmentally beneficial projects and project components, including but not limited to technical assistance for environmental ministries and institutions, resource rehabilitation projects and project components, protection of indigenous peoples, and appropriate light capital technology projects. Other examples of such projects include small scale mixed farming and multiple cropping, agroforestry, programs to promote kitchen gardens, watershed management and rehabilitation, high yield wood lots, integrated pest management systems, dune stabilization programs, programs to improve energy efficiency, energy efficient technologies such as small scale hydro projects, solar, wind and biomass energy systems, rural and mobile telecommunications systems, and improved efficiency and management of irrigation systems; and
+&emsp;(4) substantially increase the proportion of lending supporting environmentally beneficial projects and project components, including but not limited to technical assistance for environmental ministries and institutions, resource rehabilitation projects and project components, protection of indigenous peoples,and appropriate light capital technology projects. Other examples of such projects include small scale mixed farming and multiple cropping, agroforestry, programs to promote kitchen gardens, watershed management and rehabilitation, high yield wood lots, integrated pest management systems, dune stabilization programs, programs to improve energy efficiency, energy efficient technologies such as small scale hydro projects, solar, wind and biomass energy systems, rural and mobile telecommunications systems, and improved efficiency and management of irrigation systems; and
 
 &emsp;(5) conduct analyses of the comparative costs of new generating facilities with the cost of increasing energy efficiency in the project service area.
 
@@ -28,7 +28,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (d) Pest management
 
-In order to promote sustainable and non-chemical dependent agriculture, the Secretary of the Treasury shall instruct the United StatesExecutive Directors of the MDB's to initiate discussions with other directors of the MDB's to propose that policies be established that integrated pest management and biological control of pests be a preferential and priority approach to pest management on all bank sponsored agricultural projects.
+In order to promote sustainable and non-chemical dependent agriculture, the Secretary of the Treasury shall instruct the United States Executive Directors of the MDB's to initiate discussions with other directors of the MDB's to propose that policies be established that integrated pest management and biological control of pests be a preferential and priority approach to pest management on all bank sponsored agricultural projects.
 
 #### (e) Instructions to Executive Director to IMF
 

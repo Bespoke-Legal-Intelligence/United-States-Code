@@ -30,7 +30,7 @@ Compensation Required.—Each person or industry from whom products or materials
 
 Criminal Penalty.—Whoever fails to comply with this section shall be imprisoned for not more than three years and fined under title 18.
 
-(Added Pub. L. 103–160, div. A, title VIII, §822(a)(1), Nov. 30, 1993, 107 Stat. 1704; amendedPub. L. 103–337, div. A, title VIII, §811, Oct. 5, 1994, 108 Stat. 2815.)
+(Added Pub. L. 103–160, div. A, title VIII, §822(a)(1), Nov. 30, 1993, 107 Stat. 1704; amended Pub. L. 103–337, div. A, title VIII, §811, Oct. 5, 1994, 108 Stat. 2815.)
 
 #### Prior Provisions
 

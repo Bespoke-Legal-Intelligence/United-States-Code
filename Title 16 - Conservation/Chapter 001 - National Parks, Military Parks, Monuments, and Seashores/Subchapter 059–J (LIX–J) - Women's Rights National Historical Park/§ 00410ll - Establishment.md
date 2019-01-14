@@ -136,7 +136,7 @@ Subsec. (d). Pub. L. 98–402, §1(b), substituted "paragraphs (7) and (9)" for 
 
 #### General Management Plans; Submittal to Congressional Committees
 
-Section 501 of Pub. L. 96–607 directed Secretary of the Interior, within three complete fiscal years from Dec. 28, 1980, to submit to Committee on Interior and Insular Affairs of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, comprehensive general management plans for the areas established pursuant to titles XII and XVI of Pub. L. 96–607, pursuant to the provisions of former section 1a–7(b) of this title.
+Section 501 of Pub. L. 96–607 directed Secretary of the Interior, within three complete fiscal years from Dec.28, 1980, to submit to Committee on Interior and Insular Affairs of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, comprehensive general management plans for the areas established pursuant to titles XII and XVI of Pub. L. 96–607, pursuant to the provisions of former section 1a–7(b) of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

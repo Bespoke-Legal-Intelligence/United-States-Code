@@ -1,0 +1,4 @@
+### §2279bb–7. Repealed. Pub. L. 115–334, title V, §5411(51), Dec. 20, 2018, 132 Stat. 4685
+
+Section, Pub. L. 92–181, title VIII, §8.38, as added Pub. L. 104–105, title I, §117, Feb. 10, 1996, 110 Stat. 168, related to recapitalization of Corporation.
+

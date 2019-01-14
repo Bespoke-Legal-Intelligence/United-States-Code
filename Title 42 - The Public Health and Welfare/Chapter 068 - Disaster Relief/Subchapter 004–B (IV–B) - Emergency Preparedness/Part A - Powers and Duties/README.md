@@ -12,3 +12,4 @@ Part A—Powers and Duties
 - [&sect; 05196d - Use of funds to prepare for and respond to hazards](%C2%A7%2005196d%20-%20Use%20of%20funds%20to%20prepare%20for%20and%20respond%20to%20hazards.md)
 - [&sect; 05196e - Radiological Emergency Preparedness Fund](%C2%A7%2005196e%20-%20Radiological%20Emergency%20Preparedness%20Fund.md)
 - [&sect; 05196f - Disaster related information services](%C2%A7%2005196f%20-%20Disaster%20related%20information%20services.md)
+- [&sect; 05196g - Guidance and training by FEMA on coordination of emergency response plans](%C2%A7%2005196g%20-%20Guidance%20and%20training%20by%20FEMA%20on%20coordination%20of%20emergency%20response%20plans.md)

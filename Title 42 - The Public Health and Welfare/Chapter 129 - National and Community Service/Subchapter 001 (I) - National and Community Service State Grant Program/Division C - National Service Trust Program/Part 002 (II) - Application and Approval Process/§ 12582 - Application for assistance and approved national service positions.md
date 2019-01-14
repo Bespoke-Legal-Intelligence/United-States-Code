@@ -2,7 +2,7 @@
 
 #### (a) Time, manner, and content of application
 
-To be eligible to receive assistance under section 12571(a) of this title or approved national service positions for participants who serve in the national service programs to be carried out using the assistance, a State, territory, subdivision of a State, Indian tribe, public or private nonprofit organization, or institution of higher education shall prepare and submit to the Corporation an application at such time, in suchmanner, and containing such information as the Corporation may reasonably require.
+To be eligible to receive assistance under section 12571(a) of this title or approved national service positions for participants who serve in the national service programs to be carried out using the assistance, a State, territory, subdivision of a State, Indian tribe, public or private nonprofit organization, or institution of higher education shall prepare and submit to the Corporation an application at such time, in such manner, and containing such information as the Corporation may reasonably require.
 
 #### (b) Types of permissible application information
 
@@ -155,6 +155,10 @@ Subsec. (h). Pub. L. 111–13, §1308(5), (8), redesignated subsec. (g) as (h) a
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

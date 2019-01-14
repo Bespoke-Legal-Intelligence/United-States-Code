@@ -64,7 +64,7 @@ In the case of a distribution of money by an eligible terminated S corporation (
 
 #### Prior Provisions
 
-A prior section 1371, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1650; amended Pub. L.86–376, §2(a), Sept. 23, 1959, 73 Stat. 699; Pub. L. 88–272, title II, §233(a), Feb. 26, 1964, 78 Stat. 112; Pub. L. 94–455, title IX, §902(a)(1), (2), (c)(1), (2), Oct. 4, 1976, 90 Stat. 1608, 1609; Pub. L. 95–600, title III, §§341, 342, title VII, §701(y)(1), Nov. 6, 1978, 92 Stat. 2843, 2921; Pub. L. 96–589, §5(d), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–34, title II, §§233(a), 234(a), (b), Aug. 13, 1981, 95 Stat. 250, 251; Pub. L. 97–448, title I, §102(i)(1), Jan. 12, 1983, 96 Stat. 2372, related to definitions applicable to election of small business corporations as to taxable status, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
+A prior section 1371, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1650; amended Pub. L. 86–376, §2(a), Sept. 23, 1959, 73 Stat. 699; Pub. L. 88–272, title II, §233(a), Feb. 26, 1964, 78 Stat. 112; Pub. L. 94–455, title IX, §902(a)(1), (2), (c)(1), (2), Oct. 4, 1976, 90 Stat. 1608, 1609; Pub. L. 95–600, title III, §§341, 342, title VII, §701(y)(1), Nov. 6, 1978, 92 Stat. 2843, 2921; Pub. L. 96–589, §5(d), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–34, title II, §§233(a), 234(a), (b), Aug. 13, 1981, 95 Stat. 250, 251; Pub. L. 97–448, title I, §102(i)(1), Jan. 12, 1983, 96 Stat. 2372, related to definitions applicable to election of small business corporations as to taxable status, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 #### Amendments
 

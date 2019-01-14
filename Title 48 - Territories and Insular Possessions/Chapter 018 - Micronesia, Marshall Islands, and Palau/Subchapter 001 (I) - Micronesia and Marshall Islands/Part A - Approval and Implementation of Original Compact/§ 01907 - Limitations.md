@@ -6,7 +6,7 @@ The provisions of Chapter 11 of title 18 shall apply in full to any individual w
 
 #### (b) Termination
 
-Effective upon the date of the termination of the Trust Territory of the Pacific Islands withrespect to Palau, the Office for Micronesian Status Negotiations is abolished and no department, agency, or instrumentality of the United States shall thereafter contribute funds for the support of such Office.
+Effective upon the date of the termination of the Trust Territory of the Pacific Islands with respect to Palau, the Office for Micronesian Status Negotiations is abolished and no department, agency, or instrumentality of the United States shall thereafter contribute funds for the support of such Office.
 
 (Pub. L. 99–239, title I, §107, Jan. 14, 1986, 99 Stat. 1797.)
 

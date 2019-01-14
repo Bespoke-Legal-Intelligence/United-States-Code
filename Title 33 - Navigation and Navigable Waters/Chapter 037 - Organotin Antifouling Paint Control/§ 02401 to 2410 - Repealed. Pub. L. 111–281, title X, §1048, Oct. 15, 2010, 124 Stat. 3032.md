@@ -10,7 +10,7 @@ Section 2404, Pub. L. 100–333, §5, June 16, 1988, 102 Stat. 606, prohibited c
 
 Section 2405, Pub. L. 100–333, §6, June 16, 1988, 102 Stat. 607, related to certification of antifouling paints containing organotin.
 
-Section 2406, Pub. L. 100–333, §7, June 16, 1988, 102 Stat. 607; Pub. L. 104–106, div. A, title X, §1064(f), Feb.10, 1996, 110 Stat. 445, related to monitoring and research of ecological effects.
+Section 2406, Pub. L. 100–333, §7, June 16, 1988, 102 Stat. 607; Pub. L. 104–106, div. A, title X, §1064(f), Feb. 10, 1996, 110 Stat. 445, related to monitoring and research of ecological effects.
 
 Section 2407, Pub. L. 100–333, §8, June 16, 1988, 102 Stat. 608, provided for alternative antifouling research.
 

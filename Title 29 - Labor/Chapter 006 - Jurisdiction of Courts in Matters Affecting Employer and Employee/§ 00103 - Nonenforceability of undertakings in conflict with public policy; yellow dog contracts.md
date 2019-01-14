@@ -1,6 +1,6 @@
 ### §103. Nonenforceability of undertakings in conflict with public policy; "yellow dog" contracts
 
-Any undertaking or promise, such as is described in this section, or any other undertaking or promise in conflict with the public policy declared in section 102 of this title, is declared to be contrary to the public policy of the United States, shall not be enforceable in any court of the United States and shall not afford any basis for the granting of legal or equitable relief by any such court, including specifically the following:
+Any undertaking or promise, such as is described in this section, or any other undertakingor promise in conflict with the public policy declared in section 102 of this title, is declared to be contrary to the public policy of the United States, shall not be enforceable in any court of the United States and shall not afford any basis for the granting of legal or equitable relief by any such court, including specifically the following:
 
 Every undertaking or promise hereafter made, whether written or oral, express or implied, constituting or contained in any contract or agreement of hiring or employment between any individual, firm, company, association, or corporation, and any employee or prospective employee of the same, whereby
 

@@ -172,7 +172,7 @@ Subsec. (c). Pub. L. 112–141, §32304(a), added subsec. (c).
 
 <b>2001</b>—Subsec. (a)(5)(C). Pub. L. 107–56 added subpar. (C).
 
-<b>1999</b>—Subsec. (b)(1). Pub. L. 106–159 struck out "to operate the vehicle" after "written and driving tests" and inserted "to operate the vehicle and has a commercial driver's license to operate the vehicle" before period at end.
+<b>1999</b>—Subsec. (b)(1). Pub. L. 106–159 struck out "to operate the vehicle" after "written and driving tests" andinserted "to operate the vehicle and has a commercial driver's license to operate the vehicle" before period at end.
 
 #### Effective Date of 2015 Amendment
 

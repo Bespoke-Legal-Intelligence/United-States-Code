@@ -38,11 +38,11 @@ Under regulations prescribed by the Secretary, no tax shall be imposed under sec
 
 #### (j) Exemption for nonprofit educational organizations
 
-Under regulations prescribed by the Secretary, no tax shall be imposed under section 4251 on any amount paid by a nonprofit educational organization for services or facilities furnished to such organization. For purposes of this subsection, the term "nonprofit educational organization" means an educational organization described in section 170(b)(1)(A)(ii) which is exempt from income tax under section 501(a). The term also includes a school operated as an activity of an organization described in section 501(c)(3) which is exempt from income tax undersection 501(a), if such school normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are regularly carried on.
+Under regulations prescribed by the Secretary, no tax shall be imposed under section 4251 on any amount paid by a nonprofit educational organization for services or facilities furnished to such organization. For purposes of this subsection, the term "nonprofit educational organization" means an educational organization described in section 170(b)(1)(A)(ii) which is exempt from income tax under section 501(a). The term also includes a school operated as an activity of an organization described in section 501(c)(3) which is exempt from income tax under section 501(a), if such school normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are regularly carried on.
 
 #### (k) Exemption for qualified blood collector organizations
 
-Under regulations provided by the Secretary, no tax shall be imposed under section 4251 on any amount paid by a qualified blood collector organization (as defined in section 7701(a)(49)) for services or facilities furnished to such organization.
+Under regulations provided by the Secretary, no tax shall be imposed under section 4251 onany amount paid by a qualified blood collector organization (as defined in section 7701(a)(49)) for services or facilities furnished to such organization.
 
 #### (l) Filing of exemption certificates
 
@@ -112,7 +112,7 @@ Subsec. (b). Pub. L. 85–859 substituted "general telephone service, on any pay
 
 Subsec. (c). Pub. L. 85–859 substituted "on any payment received for services furnished to an international organization, or to the American National Red Cross" for "upon any payment received for services or facilities furnished to an international organization, or any organization created by act of Congress to act in matters of relief under the treaty of Geneva of August 22, 1864".
 
-Subsec. (d). Pub. L. 85–859 substituted "on any payment received for any toll telephone service" for "with respect to long distance telephone service upon anypayment received for any telephone or radio telephone message".
+Subsec. (d). Pub. L. 85–859 substituted "on any payment received for any toll telephone service" for "with respect to long distance telephone service upon any payment received for any telephone or radio telephone message".
 
 Subsec. (e). Pub. L. 85–859 substituted "toll telephone service, telegraph service, or teletypewriter exchange service" for "long distance telephone service or telegraph service" and "in furnishing such service" for "in the transmission of such dispatch, message or conversation".
 

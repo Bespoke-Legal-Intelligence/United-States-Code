@@ -62,6 +62,7 @@
 | 1437z–7. | Mixed-finance public housing. |
 | 1437z–8. | Collection of information on tenants in tax credit projects. |
 | 1437z–9. | Data exchange standards for improved interoperability. |
+| 1437z–10. | Small public housing agencies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

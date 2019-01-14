@@ -108,7 +108,7 @@ For the purposes of this Act, the term—
 
 &emsp;&emsp;&emsp;&emsp;(II) after foreclosure, sells, re-leases (in the case of a lease finance transaction), or liquidates the vessel or facility, maintains business activities, winds up operations, undertakes a removal action under section 1321(c) of this title or under the direction of an on-scene coordinator appointed under the National Contingency Plan, with respect to the vessel or facility, or takes any other measure to preserve, protect, or prepare the vessel or facility prior to sale or disposition,
 
-&emsp;&emsp;&nbsp;if the person seeks to sell, re-lease (in the case of a lease finance transaction), orotherwise divest the person of the vessel or facility at the earliest practicable, commercially reasonable time, on commercially reasonable terms, taking into account market conditions and legal and regulatory requirements;
+&emsp;&emsp;&nbsp;if the person seeks to sell, re-lease (in the case of a lease finance transaction), or otherwise divest the person of the vessel or facility at the earliest practicable, commercially reasonable time, on commercially reasonable terms, taking into account market conditions and legal and regulatory requirements;
 
 &emsp;(27) "person" means an individual, corporation, partnership, association, State, municipality, commission, or political subdivision of a State, or any interstate body;
 
@@ -124,7 +124,7 @@ For the purposes of this Act, the term—
 
 &emsp;&emsp;(A)
 
-Vessels.—In the case of a vessel, any person owning, operating, or demise chartering the vessel. In the case of a vessel, the term "responsible party" also includes the owner of oil being transported in a tank vessel with a single hull after December 31, 2010 (other than a vessel described in section 3703a(b)(3) of title 46).
+Vessels.—In the case of a vessel, any person owning, operating, or demise chartering the vessel. In the case of a vessel, the term "responsible party" also includes the owner of oil being transported in a tank vessel with a single hull after December 31, 2010.
 
 &emsp;&emsp;(B)
 
@@ -178,7 +178,7 @@ Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater p
 
 &emsp;&emsp;&emsp;(ii) holding a security interest or abandoning or releasing a security interest;
 
-&emsp;&emsp;&emsp;(iii) including in the terms of an extension of credit, or in a contract or security agreement relating to the extension, acovenant, warranty, or other term or condition that relates to environmental compliance;
+&emsp;&emsp;&emsp;(iii) including in the terms of an extension of credit, or in a contract or security agreement relating to the extension, a covenant, warranty, or other term or condition that relates to environmental compliance;
 
 &emsp;&emsp;&emsp;(iv) monitoring or enforcing the terms and conditions of the extension of credit or security interest;
 
@@ -208,7 +208,7 @@ Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater p
 
 &emsp;(44) "security interest" has the meaning provided in section 101(20)(G)(vi) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(vi)).
 
-(Pub. L. 101–380, title I, §1001, Aug. 18, 1990, 104 Stat. 486; Pub. L. 105–383, title III, §307(a), Nov. 13, 1998, 112 Stat. 3421; Pub. L. 108–293, title VII, §703(a), (b), Aug. 9, 2004, 118 Stat. 1069, 1071; Pub. L. 111–281, title VII, §713, Oct. 15, 2010, 124 Stat. 2988; Pub. L. 115–91, div. C, title XXXV, §3508(b)(1)(A), Dec. 12, 2017, 131 Stat. 1915.)
+(Pub. L. 101–380, title I, §1001, Aug. 18, 1990, 104 Stat. 486; Pub. L. 105–383, title III, §307(a), Nov. 13, 1998, 112 Stat. 3421; Pub. L. 108–293, title VII, §703(a), (b), Aug. 9, 2004, 118 Stat. 1069, 1071; Pub. L. 111–281, title VII, §713, Oct. 15, 2010, 124 Stat. 2988; Pub. L. 115–91, div. C, title XXXV, §3508(b)(1)(A), Dec. 12, 2017, 131 Stat. 1915; Pub. L. 115–232, div. C, title XXXV, §3544(d), Aug. 13, 2018, 132 Stat. 2325.)
 
 #### References in Text
 
@@ -223,6 +223,8 @@ The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is
 The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in par. (23), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Par. (32)(A). Pub. L. 115–232 struck out "(other than a vessel described in section 3703a(b)(3) of title 46)" before period at end.
 
 <b>2017</b>—Par. (26)(A)(ii). Pub. L. 115–91, §3508(b)(1)(A)(i)(I), substituted "onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or entity" for "onshore or offshore facility, any person".
 
@@ -244,7 +246,7 @@ Pub. L. 101–380, title I, §1020, Aug. 18, 1990, 104 Stat. 506, provided that:
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–241, title VI, §601, July 11, 2006, 120 Stat. 553, provided that: "This title \[enacting sections 1232b and 2762 of this title, amending sections 1321, 2704, and 2761 of this title, and enacting provisions set out as notes under section 2704 of this title\] may be cited as the 'Delaware River Protection Act of 2006'."
+Pub. L. 109–241, title VI, §601, July 11, 2006, 120 Stat. 553, provided that: "This title \[enacting sections 1232band 2762 of this title, amending sections 1321, 2704, and 2761 of this title, and enacting provisions set out as notes under section 2704 of this title\] may be cited as the 'Delaware River Protection Act of 2006'."
 
 #### Short Title of 1995 Amendment
 

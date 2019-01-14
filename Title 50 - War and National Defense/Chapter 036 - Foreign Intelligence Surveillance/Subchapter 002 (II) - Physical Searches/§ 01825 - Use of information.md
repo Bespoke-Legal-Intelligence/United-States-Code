@@ -40,7 +40,7 @@ If the United States district court pursuant to subsection (g) determines that t
 
 #### (i) Finality of orders
 
-Orders granting motions or requests under subsection (h), decisions under this section that a physical search was not lawfully authorized or conducted, and orders of the United States district court requiring review or granting disclosure of applications, orders, or other materials relating to the physical search shall be final orders and binding upon all courts of the UnitedStates and the several States except a United States Court of Appeals or the Supreme Court.
+Orders granting motions or requests under subsection (h), decisions under this section that a physical search was not lawfully authorized or conducted, and orders of the United States district court requiring review or granting disclosure of applications, orders, or other materials relating to the physical search shall be final orders and binding upon all courts of the United States and the several States except a United States Court of Appeals or the Supreme Court.
 
 #### (j) Notification of emergency execution of physical search; contents; postponement, suspension, or elimination
 
@@ -91,6 +91,10 @@ Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in se
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
+#### Effective Date
+
+Section effective 90 days after Oct. 14, 1994, with exception for certain physical searches approved by the Attorney General to gather foreign intelligence information, see section 807(c) of Pub. L. 103–359, set out as a note under section 1821 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

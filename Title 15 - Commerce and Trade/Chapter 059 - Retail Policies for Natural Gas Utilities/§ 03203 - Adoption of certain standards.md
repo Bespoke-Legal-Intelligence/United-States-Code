@@ -28,7 +28,7 @@ The following Federal standards are hereby established:
 
 #### (4) Investments in conservation and demand management
 
-&emsp;The rates charged by any State regulated gas utility shall be such that the utility's prudent investments in, and expenditures for, energy conservation and load shifting programs and for other demand-side management measures which are consistent with the findings and purposes of the Energy Policy Act of 1992are at least as profitable (taking into account the income lost due to reduced sales resulting from such programs) as prudent investments in, and expenditures for, the acquisition or construction of supplies and facilities. This objective requires that (A) regulators link the utility's net revenues, at least in part, to the utility's performance in implementing cost-effective programs promoted by this section; and (B) regulators ensure that, for purposes of recovering fixed costs, including its authorized return, the utility's performance is not affected by reductions in its retail sales volumes.
+&emsp;The rates charged by any State regulated gas utility shall be such that the utility's prudent investments in, and expenditures for, energy conservation and load shifting programs and for other demand-side management measures which are consistent with the findings and purposes of the Energy Policy Act of 1992 are at least as profitable (taking into account the income lost due to reduced sales resulting from such programs) as prudent investments in, and expenditures for, the acquisition or construction of supplies and facilities. This objective requires that (A) regulators link the utility's net revenues, at least in part, to the utility's performance in implementing cost-effective programs promoted by this section; and (B) regulators ensure that, for purposes of recovering fixed costs, including its authorized return, the utility's performance is not affected by reductions in its retail sales volumes.
 
 #### (5) Energy efficiency
 
@@ -36,7 +36,7 @@ The following Federal standards are hereby established:
 
 &emsp;&emsp;(A) integrate energy efficiency resources into the plans and planning processes of the natural gas utility; and
 
-&emsp;&emsp;(B) adopt policies that establish energy efficiency as a priority resource in the plans and planning processes of the natural gas utility.
+&emsp;&emsp;(B) adopt policies that establish energy efficiency as a priority resource in the plansand planning processes of the natural gas utility.
 
 #### (6) Rate design modifications to promote energy efficiency investments
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 #### Report to President and Congress on Encouragement of Integrated Resource Planning and Investments in Conservation and Energy Efficiency by Electric Utilities
 
-Pub. L. 102–486, title I, §115(e), Oct. 24, 1992, 106 Stat. 2804, provided that: "The report under section 111(e) of this Act \[16 U.S.C. 2621 note\] transmitted by the Secretary of Energy to the President and to the Congress shall contain a survey of all State laws, regulations, practices, and policies under which State regulatory authorities implement the provisions of paragraphs (3) and (4) of section 303(b) of the Public Utility Regulatory Policies Act of 1978 \[15 U.S.C. 3203(b)(3) and (4)\]. The report shall include an analysis, prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand sidemanagement programs by gas utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand-side management measures and whether any unfair, deceptive, or predatory acts or practices exist, or are likely to exist, from implementation of such programs."
+Pub. L. 102–486, title I, §115(e), Oct. 24, 1992, 106 Stat. 2804, provided that: "The report under section 111(e) of this Act \[16 U.S.C. 2621 note\] transmitted by the Secretary of Energy to the President and to the Congress shall contain a survey of all State laws, regulations, practices, and policies under which State regulatory authorities implement the provisions of paragraphs (3) and (4) of section 303(b) of the Public Utility Regulatory Policies Act of 1978 \[15 U.S.C. 3203(b)(3) and (4)\]. The report shall include an analysis, prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by gas utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand-side management measures and whether any unfair, deceptive, or predatory acts or practices exist, or are likely to exist, from implementation of such programs."
 
 #### Definitions
 

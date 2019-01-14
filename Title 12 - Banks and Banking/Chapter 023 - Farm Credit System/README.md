@@ -82,20 +82,20 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part B—United and National Banks for Cooperatives
+#### Part B—National Banks for Cooperatives
 
 |  |  |
 | :--- | ---: |
-| [2141\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20United%20and%20National%20Banks%20for%20Cooperatives/%C2%A7%2002141%20-%20Charter%2C%20powers%2C%20and%20operation.md) | Charter, powers, and operation. |
-| [2142\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20United%20and%20National%20Banks%20for%20Cooperatives/%C2%A7%2002142%20-%20Board%20of%20directors%20provisions.md) | Board of directors provisions. |
-| [2143\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20United%20and%20National%20Banks%20for%20Cooperatives/%C2%A7%2002143%20-%20Credit%20delivery%20office.md) | Credit delivery office. |
-| [2144\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20United%20and%20National%20Banks%20for%20Cooperatives/%C2%A7%2002144%20-%20Consolidation%20of%20functions.md) | Consolidation of functions. |
-| [2145\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20United%20and%20National%20Banks%20for%20Cooperatives/%C2%A7%2002145%20-%20Exchange%20of%20ownership%20interests.md) | Exchange of ownership interests. |
-| [2146\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20United%20and%20National%20Banks%20for%20Cooperatives/%C2%A7%2002146%20-%20Capitalization.md) | Capitalization. |
-| [2147\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20United%20and%20National%20Banks%20for%20Cooperatives/%C2%A7%2002147%20-%20Patronage%20pools.md) | Patronage pools. |
-| [2148\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20United%20and%20National%20Banks%20for%20Cooperatives/%C2%A7%2002148%20-%20Transactions%20to%20accomplish%20merger.md) | Transactions to accomplish merger. |
-| [2149\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20United%20and%20National%20Banks%20for%20Cooperatives/%C2%A7%2002149%20-%20Lending%20limits.md) | Lending limits. |
-| [2149a.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20United%20and%20National%20Banks%20for%20Cooperatives/%C2%A7%2002149a%20-%20Reports%20by%20merged%20banks%20for%20cooperatives.md) | Reports by merged banks for cooperatives. |
+| [2141\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20National%20Banks%20for%20Cooperatives/%C2%A7%2002141%20-%20Charter%2C%20powers%2C%20and%20operation.md) | Charter, powers, and operation. |
+| [2142\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20National%20Banks%20for%20Cooperatives/%C2%A7%2002142%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20V%2C%20%C2%A75411%2814%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204680.md) | Repealed. |
+| [2143\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20National%20Banks%20for%20Cooperatives/%C2%A7%2002143%20-%20Credit%20delivery%20office.md) | Credit delivery office. |
+| [2144\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20National%20Banks%20for%20Cooperatives/%C2%A7%2002144%20-%20Consolidation%20of%20functions.md) | Consolidation of functions. |
+| [2145\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20National%20Banks%20for%20Cooperatives/%C2%A7%2002145%20-%20Exchange%20of%20ownership%20interests.md) | Exchange of ownership interests. |
+| [2146\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20National%20Banks%20for%20Cooperatives/%C2%A7%2002146%20-%20Capitalization.md) | Capitalization. |
+| [2147\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20National%20Banks%20for%20Cooperatives/%C2%A7%2002147%20-%20Patronage%20pools.md) | Patronage pools. |
+| [2148\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20National%20Banks%20for%20Cooperatives/%C2%A7%2002148%20-%20Transactions%20to%20accomplish%20merger.md) | Transactions to accomplish merger. |
+| [2149\.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20National%20Banks%20for%20Cooperatives/%C2%A7%2002149%20-%20Lending%20limits.md) | Lending limits. |
+| [2149a.](Subchapter%20003%20%28III%29%20-%20Banks%20for%20Cooperatives/Part%20B%20-%20National%20Banks%20for%20Cooperatives/%C2%A7%2002149a%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20V%2C%20%C2%A75411%2816%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204680.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -105,7 +105,7 @@
 
 |  |  |
 | :--- | ---: |
-| [2151\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20A%20-%20Funding/%C2%A7%2002151%20-%20Revolving%20fund.md) | Revolving fund. |
+| [2151\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20A%20-%20Funding/%C2%A7%2002151%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20V%2C%20%C2%A75411%2817%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204680.md) | Repealed. |
 | [2152\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20A%20-%20Funding/%C2%A7%2002152%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93233%2C%20title%20II%2C%20%C2%A7207%28a%29%281%29%2C%20Jan.%206%2C%201988%2C%20101%20Stat.%201607.md) | Repealed. |
 | [2153\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20A%20-%20Funding/%C2%A7%2002153%20-%20Power%20to%20borrow%3B%20issuance%20of%20notes%2C%20bonds%2C%20debentures%2C%20and%20other%20obligations.md) | Power to borrow; issuance of notes, bonds, debentures, and other obligations. |
 | [2154\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20A%20-%20Funding/%C2%A7%2002154%20-%20Capital%20adequacy%20of%20banks%20and%20institutions.md) | Capital adequacy of banks and institutions. |
@@ -114,7 +114,7 @@
 | [2156\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20A%20-%20Funding/%C2%A7%2002156%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93233%2C%20title%20II%2C%20%C2%A7204%28b%29%2C%20Jan.%206%2C%201988%2C%20101%20Stat.%201607.md) | Repealed. |
 | [2157\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20A%20-%20Funding/%C2%A7%2002157%20-%20Bonds%20as%20investments.md) | Bonds as investments. |
 | [2158\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20A%20-%20Funding/%C2%A7%2002158%20-%20Purchase%20and%20sale%20by%20Federal%20Reserve%20System.md) | Purchase and sale by Federal Reserve System. |
-| [2159\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20A%20-%20Funding/%C2%A7%2002159%20-%20Purchase%20and%20sale%20of%20obligations%3B%20additional%20powers.md) | Purchase and sale of obligations; additional powers. |
+| [2159\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20A%20-%20Funding/%C2%A7%2002159%20-%20Purchase%20and%20sale%20of%20obligations.md) | Purchase and sale of obligations. |
 | [2160\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20A%20-%20Funding/%C2%A7%2002160%20-%20Federal%20Farm%20Credit%20Banks%20Funding%20Corporation.md) | Federal Farm Credit Banks Funding Corporation. |
 | [2161\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20A%20-%20Funding/%C2%A7%2002161%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93399%2C%20title%20I%2C%20%C2%A7101%28a%29%2C%20Aug.%2017%2C%201988%2C%20102%20Stat.%20989.md) | Repealed. |
 | [2162\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20A%20-%20Funding/%C2%A7%2002162%20-%20Protection%20of%20borrower%20stock.md) | Protection of borrower stock. |
@@ -141,7 +141,7 @@
 | [2202\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20C%20-%20Rights%20of%20Borrowers%3B%20Loan%20Restructuring/%C2%A7%2002202%20-%20Reconsideration%20of%20actions.md) | Reconsideration of actions. |
 | [2202a.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20C%20-%20Rights%20of%20Borrowers%3B%20Loan%20Restructuring/%C2%A7%2002202a%20-%20Restructuring%20distressed%20loans.md) | Restructuring distressed loans. |
 | [2202b.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20C%20-%20Rights%20of%20Borrowers%3B%20Loan%20Restructuring/%C2%A7%2002202b%20-%20Effect%20of%20restructuring%20on%20borrower%20stock.md) | Effect of restructuring on borrower stock. |
-| [2202c.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20C%20-%20Rights%20of%20Borrowers%3B%20Loan%20Restructuring/%C2%A7%2002202c%20-%20Review%20of%20restructuring%20denials.md) | Review of restructuring denials. |
+| [2202c.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20C%20-%20Rights%20of%20Borrowers%3B%20Loan%20Restructuring/%C2%A7%2002202c%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20V%2C%20%C2%A75411%2823%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204682.md) | Repealed. |
 | [2202d.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20C%20-%20Rights%20of%20Borrowers%3B%20Loan%20Restructuring/%C2%A7%2002202d%20-%20Protection%20of%20borrowers%20who%20meet%20all%20loan%20obligations.md) | Protection of borrowers who meet all loan obligations. |
 | [2202e.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20C%20-%20Rights%20of%20Borrowers%3B%20Loan%20Restructuring/%C2%A7%2002202e%20-%20Waiver%20of%20mediation%20rights%20by%20borrowers.md) | Waiver of mediation rights by borrowers. |
 
@@ -158,7 +158,7 @@
 | [2206a.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20D%20-%20Activities%20of%20Institutions%20of%20the%20System/%C2%A7%2002206a%20-%20Authority%20of%20Farm%20Credit%20Banks%20and%20direct%20lender%20associations%20to%20participate%20in%20loans%20to%20similar%20entities%20for%20risk%20management%20purposes.md) | Authority of Farm Credit Banks and direct lender associations to participate in loans to similar entities for risk management purposes. |
 | [2207\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20D%20-%20Activities%20of%20Institutions%20of%20the%20System/%C2%A7%2002207%20-%20Young%2C%20beginning%2C%20and%20small%20farmers%20and%20ranchers.md) | Young, beginning, and small farmers and ranchers. |
 | [2208\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20D%20-%20Activities%20of%20Institutions%20of%20the%20System/%C2%A7%2002208%20-%20Prohibition%20against%20use%20of%20signed%20ballots.md) | Prohibition against use of signed ballots. |
-| [2209\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20D%20-%20Activities%20of%20Institutions%20of%20the%20System/%C2%A7%2002209%20-%20Compensation%20of%20bank%20directors.md) | Compensation of bank directors. |
+| [2209\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20D%20-%20Activities%20of%20Institutions%20of%20the%20System/%C2%A7%2002209%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20V%2C%20%C2%A75403%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204675.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -229,7 +229,7 @@
 | [2250\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20B%20-%20Farm%20Credit%20Administration%20Organization/%C2%A7%2002250%20-%20Farm%20Credit%20Administration%20operating%20expenses%20fund.md) | Farm Credit Administration operating expenses fund. |
 | [2251\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20B%20-%20Farm%20Credit%20Administration%20Organization/%C2%A7%2002251%20-%20Quarters%20and%20facilities%20for%20the%20Farm%20Credit%20Administration.md) | Quarters and facilities for the Farm Credit Administration. |
 | [2252\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20B%20-%20Farm%20Credit%20Administration%20Organization/%C2%A7%2002252%20-%20Powers%20and%20duties.md) | Powers and duties. |
-| [2253\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20B%20-%20Farm%20Credit%20Administration%20Organization/%C2%A7%2002253%20-%20Prior%20delegations.md) | Prior delegations. |
+| [2253\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20B%20-%20Farm%20Credit%20Administration%20Organization/%C2%A7%2002253%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20V%2C%20%C2%A75411%2830%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204682.md) | Repealed. |
 | [2254\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20B%20-%20Farm%20Credit%20Administration%20Organization/%C2%A7%2002254%20-%20Examinations.md) | Examinations. |
 | [2255\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20B%20-%20Farm%20Credit%20Administration%20Organization/%C2%A7%2002255%20-%20Conditions%20of%20other%20banks%20and%20lending%20institutions.md) | Conditions of other banks and lending institutions. |
 | [2256\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20B%20-%20Farm%20Credit%20Administration%20Organization/%C2%A7%2002256%20-%20Consent%20to%20the%20availability%20of%20reports%20and%20to%20examinations.md) | Consent to the availability of reports and to examinations. |
@@ -250,8 +250,10 @@
 | [2263\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20C%20-%20Enforcement%20Powers%20of%20Farm%20Credit%20Administration/%C2%A7%2002263%20-%20Enforcement%20of%20temporary%20cease%20and%20desist%20orders.md) | Enforcement of temporary cease and desist orders. |
 | [2264\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20C%20-%20Enforcement%20Powers%20of%20Farm%20Credit%20Administration/%C2%A7%2002264%20-%20Suspension%20or%20removal%20of%20director%20or%20officer.md) | Suspension or removal of director or officer. |
 | [2265\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20C%20-%20Enforcement%20Powers%20of%20Farm%20Credit%20Administration/%C2%A7%2002265%20-%20Suspension%20or%20removal%20of%20director%20or%20officer%20charged%20with%20felony.md) | Suspension or removal of director or officer charged with felony. |
+| [2265a.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20C%20-%20Enforcement%20Powers%20of%20Farm%20Credit%20Administration/%C2%A7%2002265a%20-%20Removal%20and%20prohibition%20authority%3B%20industry-wide%20prohibition.md) | Removal and prohibition authority; industry-wide prohibition. |
 | [2266\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20C%20-%20Enforcement%20Powers%20of%20Farm%20Credit%20Administration/%C2%A7%2002266%20-%20Hearings%20and%20judicial%20review.md) | Hearings and judicial review. |
 | [2267\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20C%20-%20Enforcement%20Powers%20of%20Farm%20Credit%20Administration/%C2%A7%2002267%20-%20Jurisdiction%20and%20enforcement.md) | Jurisdiction and enforcement. |
+| [2267a.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20C%20-%20Enforcement%20Powers%20of%20Farm%20Credit%20Administration/%C2%A7%2002267a%20-%20Jurisdiction%20over%20institution-affiliated%20parties.md) | Jurisdiction over institution-affiliated parties. |
 | [2268\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20C%20-%20Enforcement%20Powers%20of%20Farm%20Credit%20Administration/%C2%A7%2002268%20-%20Penalty.md) | Penalty. |
 | [2269\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20C%20-%20Enforcement%20Powers%20of%20Farm%20Credit%20Administration/%C2%A7%2002269%20-%20Further%20penalties.md) | Further penalties. |
 | [2270\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20C%20-%20Enforcement%20Powers%20of%20Farm%20Credit%20Administration/%C2%A7%2002270%20-%20Replacement%20of%20suspended%20or%20removed%20directors.md) | Replacement of suspended or removed directors. |
@@ -266,7 +268,7 @@
 
 |  |  |
 | :--- | ---: |
-| [2275\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20D%20-%20Miscellaneous/%C2%A7%2002275%20-%20Government%20Accountability%20Office%20audit%3B%20report%20to%20Congress.md) | Government Accountability Office audit; report to Congress. |
+| [2275\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20D%20-%20Miscellaneous/%C2%A7%2002275%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20V%2C%20%C2%A75411%2836%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204683.md) | Repealed. |
 | [2275a.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20D%20-%20Miscellaneous/%C2%A7%2002275a%20-%20Transition%20rules%20relating%20to%20amendment%20of%20certain%20FCA%20approval%20authorities.md) | Transition rules relating to amendment of certain FCA approval authorities. |
 | [2276\.](Subchapter%20005%20%28V%29%20-%20Farm%20Credit%20Administration%20Organization/Part%20D%20-%20Miscellaneous/%C2%A7%2002276%20-%20Access%20to%20and%20examination%20by%20Comptroller%20General%20of%20books%2C%20documents%2C%20etc.%2C%20of%20farm%20credit%20system%20banks%20and%20institutions.md) | Access to and examination by Comptroller General of books, documents, etc., of farm credit system banks and institutions. |
 
@@ -289,6 +291,7 @@
 | 2277a–10. | Powers of Corporation with respect to troubled insured System banks. |
 | 2277a–10a. | Oversight actions by Corporation. |
 | 2277a–10b. | Authority to regulate golden parachute and indemnification payments. |
+| 2277a–10c. | Corporation as conservator or receiver; certain other powers. |
 | 2277a–11. | Investment of funds. |
 | 2277a–12. | Exemption from taxation. |
 | 2277a–13. | Omitted. |
@@ -298,43 +301,9 @@
 
 #### SUBCHAPTER VI—ASSISTANCE TO FARM CREDIT SYSTEM
 
-#### Part A—Assistance Board
-
-|  |  |
-| :--- | ---: |
-| [2278a.](Subchapter%20006%20%28VI%29%20-%20Assistance%20to%20Farm%20Credit%20System/Part%20A%20-%20Assistance%20Board/%C2%A7%2002278a%20-%20Establishment%20of%20Board.md) | Establishment of Board. |
-| 2278a–1. | Purposes. |
-| 2278a–2. | Board of Directors. |
-| 2278a–3. | Corporate powers. |
-| 2278a–4. | Certification of eligibility to issue preferred stock. |
-| 2278a–5. | Assistance. |
-| 2278a–6. | Special powers. |
-| 2278a–7. | Administration. |
-| 2278a–8. | Limitation of powers. |
-| 2278a–9. | Succession. |
-| 2278a–10. | Effect of regulations; audits. |
-| 2278a–11. | Exemption from taxation. |
-| 2278a–12. | Termination. |
-| 2278a–13. | Transitional provisions. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part B—Financial Assistance Corporation
-
-|  |  |
-| :--- | ---: |
-| [2278b.](Subchapter%20006%20%28VI%29%20-%20Assistance%20to%20Farm%20Credit%20System/Part%20B%20-%20Financial%20Assistance%20Corporation/%C2%A7%2002278b%20-%20Establishment%20of%20Corporation.md) | Establishment of Corporation. |
-| 2278b–1. | Purpose. |
-| 2278b–2. | Board of Directors. |
-| 2278b–3. | Stock. |
-| 2278b–4. | Corporate powers. |
-| 2278b–5. | Accounts. |
-| 2278b–6. | Debt obligations. |
-| 2278b–7. | Preferred stock. |
-| 2278b–8. | Payments. |
-| 2278b–9. | One-time stock purchase. |
-| 2278b–10. | Exemption from taxation. |
-| 2278b–11. | Termination. |
+|  |
+| :--- |
+| 2278a to 2278b–11. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -452,7 +421,7 @@
 | 2279bb–4. | Enforcement levels. |
 | 2279bb–5. | Mandatory actions applicable to level II. |
 | 2279bb–6. | Supervisory actions applicable to level III. |
-| 2297bb–7. | Recapitalization of Corporation. |
+| 2279bb–7. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

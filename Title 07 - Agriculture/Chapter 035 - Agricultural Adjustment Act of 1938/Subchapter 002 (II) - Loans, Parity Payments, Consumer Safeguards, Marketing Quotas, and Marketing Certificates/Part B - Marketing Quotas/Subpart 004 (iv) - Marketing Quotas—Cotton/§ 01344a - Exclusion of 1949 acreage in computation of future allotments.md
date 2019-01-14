@@ -1,6 +1,6 @@
 ### §1344a. Exclusion of 1949 acreage in computation of future allotments
 
-Notwithstanding the provisions of subchapter III of this chapter, or of any other law, State, county, and farm acreage allotments and yields for cotton for any year after 1949 shall be computed without regard to yields or to the acreage planted to cotton in 1949.
+Notwithstanding the provisions of subchapter III of this chapter, or of any other law, State, county, and farm acreage allotments and yieldsfor cotton for any year after 1949 shall be computed without regard to yields or to the acreage planted to cotton in 1949.
 
 (Mar. 29, 1949, ch. 38, 63 Stat. 17.)
 

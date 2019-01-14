@@ -1,6 +1,6 @@
 ### §1496. Examination of baggage
 
-The appropriate customs officer may cause an examination to be made of the baggage of any person arriving in the United States in order toascertain what articles are contained therein and whether subject to duty, free of duty, or prohibited notwithstanding a declaration and entry therefor has been made.
+The appropriate customs officer may cause an examination to be made of the baggage of any person arriving in the United States in order to ascertain what articles are contained therein and whether subject to duty, free of duty, or prohibited notwithstanding a declaration and entry therefor has been made.
 
 (June 17, 1930, ch. 497, title IV, §496, 46 Stat. 727; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287.)
 

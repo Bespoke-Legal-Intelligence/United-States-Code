@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall not disclose under section 552 of title 5 (commonly known as the"Freedom of Information Act"), information relating to—
+&emsp;The Secretary shall not disclose under section 552 of title 5 (commonly known as the "Freedom of Information Act"), information relating to—
 
 &emsp;&emsp;(A) subject to subsection (b)(l),<sup>1</sup> human remains or cultural items reburied on National Forest System land under section 3053 of this title; or
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(i) have a traditional and cultural purpose; and
 
-&emsp;&emsp;&emsp;(ii) are provided to the Secretary by an Indian or Indian tribe under an express expectation of confidentiality in the context of forest and rangeland research activities carried out under the authority of the Forest Service.
+&emsp;&emsp;&emsp;(ii) are provided to the Secretary by an Indian or Indian tribe under an express expectation of confidentiality in the context of forest and rangeland research activitiescarried out under the authority of the Forest Service.
 
 #### (2) Limitations on disclosure
 

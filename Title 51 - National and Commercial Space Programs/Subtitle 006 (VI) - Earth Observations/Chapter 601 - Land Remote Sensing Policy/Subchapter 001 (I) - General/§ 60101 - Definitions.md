@@ -30,7 +30,7 @@ Data preprocessing.—The term "data preprocessing"—
 
 &emsp;(4)
 
-Land remote sensing.—The term "land remote sensing" means the collection of data which can be processed into imagery of surface features of the Earth from an unclassified satellite or satellites, other than an operational United States Government weather satellite.
+Land remote sensing.—The term "land remote sensing" means the collection of datawhich can be processed into imagery of surface features of the Earth from an unclassified satellite or satellites, other than an operational United States Government weather satellite.
 
 &emsp;(5)
 

@@ -14,7 +14,7 @@ Washington is divided into two judicial districts to be known as the Eastern and
 
 &emsp;&emsp;Court for the Western District shall be held at Bellingham, Seattle, Tacoma, and Vancouver.
 
-(June 25, 1948, ch. 646, 62 Stat. 894; Pub. L. 87–699, Sept. 25, 1962, 76 Stat. 598; Pub. L. 91–272, §4,June 2, 1970, 84 Stat. 297; Pub. L. 110–161, div. D, title III, §308, Dec. 26, 2007, 121 Stat. 1990.)
+(June 25, 1948, ch. 646, 62 Stat. 894; Pub. L. 87–699, Sept. 25, 1962, 76 Stat. 598; Pub. L. 91–272, §4, June 2, 1970, 84 Stat. 297; Pub. L. 110–161, div. D, title III, §308, Dec. 26, 2007, 121 Stat. 1990.)
 
 #### Historical and Revision Notes
 

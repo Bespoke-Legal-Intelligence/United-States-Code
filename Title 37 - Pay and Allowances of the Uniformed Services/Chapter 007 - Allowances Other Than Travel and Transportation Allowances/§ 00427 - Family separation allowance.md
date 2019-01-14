@@ -30,7 +30,7 @@ Effect of Election to Serve Unaccompanied Tour of Duty.—(1) Except as provided
 
 (d)
 
-Entitlement While Spouse Entitled to Basic Pay.—(1) A member married to another member of the uniformed services becomes entitled, regardless of any other dependency status, to an allowance under subsection (a) by virtue of duty prescribed in subparagraph (A), (B), or (C) of paragraph (1) of such subsection if the members were residing together immediately before being separated by reasons of execution of military orders.
+Entitlement While Spouse Entitled to Basic Pay.—(1) A member married to another member of the uniformed services becomes entitled, regardless of any other dependency status, to an allowance under subsection (a) by virtue ofduty prescribed in subparagraph (A), (B), or (C) of paragraph (1) of such subsection if the members were residing together immediately before being separated by reasons of execution of military orders.
 
 (2) If a married couple, both of whom are members of the uniformed services, with dependents are simultaneously assigned to duties described in subparagraph (A), (B), or (C) of subsection (a)(1) and the members resided together with their dependents immediately before their assignments, the Secretary concerned shall pay each of the members the full amount of the monthly allowance specified in such subsection until one of the members is no longer assigned to duties described in such subparagraphs. Upon expiration of the additional allowance, paragraph (1) shall continue to apply to the remaining member so long as the member is assigned to duties described in subparagraph (A), (B), or (C) of such subsection.
 
@@ -134,7 +134,7 @@ Pub. L. 107–107, div. A, title VI, §607(b), Dec. 28, 2001, 115 Stat. 1135, pr
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 603(c)(3) of Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85,set out as a note under section 5561 of Title 5, Government Organization and Employees.
+Amendment by section 603(c)(3) of Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1994 Amendment
 

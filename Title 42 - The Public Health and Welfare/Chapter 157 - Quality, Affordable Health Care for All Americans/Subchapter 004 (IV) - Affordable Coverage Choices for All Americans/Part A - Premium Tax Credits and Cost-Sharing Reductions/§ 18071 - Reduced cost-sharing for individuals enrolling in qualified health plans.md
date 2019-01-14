@@ -140,7 +140,7 @@ In this section:
 
 #### (2) Limitations on reduction
 
-&emsp;No cost-sharing reduction shall be allowed under this section with respect to coverage for any month unless the month is a coverage month with respect to which a credit is allowed to the insured (or an applicable taxpayer on behalf of the insured) under section 36B of such title.
+&emsp;No cost-sharing reduction shall be allowed under this section with respect to coverage forany month unless the month is a coverage month with respect to which a credit is allowed to the insured (or an applicable taxpayer on behalf of the insured) under section 36B of such title.
 
 #### (3) Data used for eligibility
 

@@ -10,7 +10,7 @@ The Secretary, in consultation with the Director of the National Vaccine Program
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–154 substituted "Eunice Kennedy Shriver National Institute of Child Health and Human Development" for "National Institute for Child Health and Human Development".
 
-Subsec. (c). Pub. L. 109–482 struck out heading and text of subsec. (c). Text read as follows: "In addition to any other amounts authorized to be appropriated for activities of the type described in this section, there are authorized to be appropriated to carry out this section $20,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996."
+Subsec. (c). Pub. L. 109–482 struck out heading and text of subsec. (c). Text read as follows: "In addition to any other amounts authorized to be appropriated foractivities of the type described in this section, there are authorized to be appropriated to carry out this section $20,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996."
 
 #### Effective Date of 2007 Amendment
 

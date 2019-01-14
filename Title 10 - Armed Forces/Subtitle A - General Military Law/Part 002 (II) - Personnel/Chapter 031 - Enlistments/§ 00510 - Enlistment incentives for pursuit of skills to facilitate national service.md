@@ -30,7 +30,7 @@ National Service.—The total period of national service to which a National Cal
 
 (d)
 
-Designated Military Occupational Specialties.—The Secretary of Defense shall designate military occupational specialties for purposes of subsection (c)(1). Such military occupational specialties shall be military occupational specialties that, as determined by the Secretary, will facilitate pursuit of national service by National Call to Service participants and shall include military occupational specialties for enlistments for officer training and subsequent service as an officer, in cases in which the reason for the enlistment and entry into an agreement under subsection (b) is to enter an officer training program.
+Designated Military Occupational Specialties.—The Secretary of Defense shall designate military occupational specialties for purposes of subsection (c)(1). Such military occupational specialties shall be military occupational specialties that, as determined by the Secretary, will facilitate pursuit of national service by National Call to Service participants and shall include military occupational specialties for enlistments for officer training and subsequentservice as an officer, in cases in which the reason for the enlistment and entry into an agreement under subsection (b) is to enter an officer training program.
 
 (e)
 
@@ -76,7 +76,7 @@ Coordination With Montgomery GI Bill Benefits.—(1)(A) Subject to subparagraph 
 
 (i)
 
-Repayment.—If a National Call to Service participant who has entered into an agreement under subsection (b) and received or benefittedfrom an incentive under paragraph (1) or (2) of subsection (e) fails to complete the total period of service specified in the agreement, the National Call to Service participant shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
+Repayment.—If a National Call to Service participant who has entered into an agreement under subsection (b) and received or benefitted from an incentive under paragraph (1) or (2) of subsection (e) fails to complete the total period of service specified in the agreement, the National Call to Service participant shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
 (j)
 
@@ -86,7 +86,7 @@ Funding.—(1) Amounts for the payment of incentives under paragraphs (1) and (2
 
 (k)
 
-Regulations.—The Secretary of Defense and the Secretaries of the military departments shall prescribe regulations for purposes of the program under this section.
+Regulations.—The Secretary of Defense and the Secretaries of the military departmentsshall prescribe regulations for purposes of the program under this section.
 
 (l)
 

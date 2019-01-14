@@ -34,7 +34,7 @@ The Federal Trade Commission shall have procedural, investigative, and enforceme
 
 &emsp;(B) shall be considered to satisfy the requirements of section 2822(c) of this title only if such person complies with the requirements established pursuant to paragraph (1)(B).
 
-(3) The Federal Trade Commission may, by rule, prescribe procedures for determination of the automotive fuel rating of automotive fuel which varies from that prescribed in section 2821 of this title. In prescribing such rule, the Commission—
+(3) The Federal Trade Commission may, by rule, prescribe procedures for determination of the automotive fuel rating of automotive fuel which varies from that prescribed in section 2821of this title. In prescribing such rule, the Commission—
 
 &emsp;(A) shall consider—
 

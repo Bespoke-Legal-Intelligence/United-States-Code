@@ -30,11 +30,9 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;(i) is established under applicable State law; and
 
-&emsp;&emsp;&emsp;(ii) has the authority to, in a manner independent of other State entities, establish a budget and raise revenues;
+&emsp;&emsp;&emsp;(ii) has the authority to, in a manner independent of other State entities, establish a budget and raise revenues; or
 
-&emsp;&emsp;(C) an Indian Tribe that performs law enforcement functions, as determined by the Secretary of the Interior; or
-
-&emsp;&emsp;(D) for the purposes of assistance eligibility, any agency of the government of the District of Columbia or the Federal Government that performs law enforcement functions in and for—
+&emsp;&emsp;(C) for the purposes of assistance eligibility, any agency of the government of the District of Columbia or the Federal Government that performs law enforcement functions in and for—
 
 &emsp;&emsp;&emsp;(i) the District of Columbia; or
 
@@ -58,7 +56,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) is used for the placement, after adjudication and disposition, of any juvenile who has been adjudicated as having committed an offense or any other individual convicted of a criminal offense;
 
-&emsp;(14) the term "serious crime" means criminal homicide, forcible rape or other sex offenses punishable as a felony, mayhem, kidnapping, aggravated assault, drug trafficking, robbery, larceny or theft punishable as a felony, motor vehicle theft, burglary or breaking and entering, extortion accompanied by threats of violence, and arson punishable as a felony;
+&emsp;(14) the term "serious crime" means criminal homicide, forcible rape or other sex offenses punishable as a felony, mayhem, kidnapping, aggravated assault, drug trafficking,robbery, larceny or theft punishable as a felony, motor vehicle theft, burglary or breaking and entering, extortion accompanied by threats of violence, and arson punishable as a felony;
 
 &emsp;(15) the term "treatment" includes but is not limited to medical, educational, special education, social, psychological, and vocational services, corrective and preventive guidance and training, and other rehabilitative services designed to protect the public, including services designed to benefit addicts and other users by eliminating their dependence on alcohol or other addictive or nonaddictive drugs or by controlling their dependence and susceptibility to addiction or use;
 
@@ -70,17 +68,19 @@ For purposes of this chapter—
 
 &emsp;(17) the term "Council" means the Coordinating Council on Juvenile Justice and Delinquency Prevention established in section 11116(a)(1) of this title;
 
-&emsp;(18) the term "Indian tribe" means—
+&emsp;(18) for purposes of subchapter II, the term "Indian tribe" means—
 
 &emsp;&emsp;(A) a federally recognized Indian tribe; or
 
 &emsp;&emsp;(B) an Alaskan Native organization;
 
+> &emsp;that has a law enforcement function, as determined by the Secretary of the Interior in consultation with the Attorney General;
+
 &emsp;(19) the term "comprehensive and coordinated system of services" means a system that—
 
 &emsp;&emsp;(A) ensures that services and funding for the prevention and treatment of juvenile delinquency are consistent with policy goals of preserving families and providing appropriate services in the least restrictive environment so as to simultaneously protect juveniles and maintain public safety;
 
-&emsp;&emsp;(B) identifies, and intervenes early for the benefit of, young children who are at risk ofdeveloping emotional or behavioral problems because of physical or mental stress or abuse, and for the benefit of their families;
+&emsp;&emsp;(B) identifies, and intervenes early for the benefit of, young children who are at risk of developing emotional or behavioral problems because of physical or mental stress or abuse, and for the benefit of their families;
 
 &emsp;&emsp;(C) increases interagency collaboration and family involvement in the prevention and treatment of juvenile delinquency; and
 
@@ -90,25 +90,27 @@ For purposes of this chapter—
 
 &emsp;(21) the term "home-based alternative services" means services provided to a juvenile in the home of the juvenile as an alternative to incarcerating the juvenile, and includes home detention;
 
-&emsp;(22) the term "jail or lockup for adults" means a locked facility that is used by a State, unit of local government, or any law enforcement authority to detain or confine adults—
-
-&emsp;&emsp;(A) pending the filing of a charge of violating a criminal law;
-
-&emsp;&emsp;(B) awaiting trial on a criminal charge; or
-
-&emsp;&emsp;(C) convicted of violating a criminal law;
+&emsp;(22) the term "jail or lockup for adults" means a secure facility that is used by a State, unit of local government, or law enforcement authority to detain or confine adult inmates;
 
 &emsp;(23) the term "nonprofit organization" means an organization described in section 501(c)(3) of title 26 that is exempt from taxation under section 501(a) of title 26;
 
 &emsp;(24) the term "graduated sanctions" means an accountability-based, graduated series of sanctions (including incentives, treatment, and services) applicable to juveniles within the juvenile justice system to hold such juveniles accountable for their actions and to protect communities from the effects of juvenile delinquency by providing appropriate sanctions for every act for which a juvenile is adjudicated delinquent, by inducing their law-abiding behavior, and by preventing their subsequent involvement with the juvenile justice system;
 
-&emsp;(25) the term "contact" means the degree of interaction allowed between juvenile offenders in a secure custody status and incarcerated adults under section 31.303(d)(1)(i) of title 28, Code of Federal Regulations, as in effect on December 10, 1996;
+&emsp;(25) the term "sight or sound contact" means any physical, clear visual, or verbal contact that is not brief and inadvertent;
 
-&emsp;(26) the term "adult inmate" means an individual who—
+&emsp;(26) the term "adult inmate"—
 
-&emsp;&emsp;(A) has reached the age of full criminal responsibility under applicable State law; and
+&emsp;&emsp;(A) means an individual who—
 
-&emsp;&emsp;(B) has been arrested and is in custody for or awaiting trial on a criminal charge, or is convicted of a criminal offense;
+&emsp;&emsp;&emsp;(i) has reached the age of full criminal responsibility under applicable State law; and
+
+&emsp;&emsp;&emsp;(ii) has been arrested and is in custody for or awaiting trial on a criminal charge, or is convicted of a criminal offense; and
+
+&emsp;&emsp;(B) does not include an individual who—
+
+&emsp;&emsp;&emsp;(i) at the time of the offense, was younger than the maximum age at which a youth can be held in a juvenile facility under applicable State law; and
+
+&emsp;&emsp;&emsp;(ii) was committed to the care and custody or supervision, including post-placement or parole supervision, of a juvenile correctional agency by a court of competent jurisdiction or by operation of applicable State law;
 
 &emsp;(27) the term "violent crime" means—
 
@@ -116,15 +118,95 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) aggravated assault committed with the use of a firearm;
 
-&emsp;(28) the term "collocated facilities" means facilities that are located in the same building, or are part of a related complex of buildings located on the same grounds; and
+&emsp;(28) the term "collocated facilities" means facilities that are located in the same building, or are part of a related complex of buildings located on the same grounds;
 
 &emsp;(29) the term "related complex of buildings" means 2 or more buildings that share—
 
 &emsp;&emsp;(A) physical features, such as walls and fences, or services beyond mechanical services (heating, air conditioning, water and sewer); or
 
-&emsp;&emsp;(B) the specialized services that are allowable under section 31.303(e)(3)(i)(C)(3) of title 28 of the Code of Federal Regulations, as in effect on December 10, 1996.
+&emsp;&emsp;(B) the specialized services that are allowable under section 31.303(e)(3)(i)(C)(3) of title 28 of the Code of Federal Regulations, as in effect on December 10, 1996;
 
-(Pub. L. 93–415, title I, §103, Sept. 7, 1974, 88 Stat. 1111; Pub. L. 95–115, §2, Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §§5, 19(a), Dec. 8, 1980, 94 Stat. 2751, 2762; Pub. L. 98–473, title II, §613, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 100–690, title VII, §§7251(a), 7252(b)(1), Nov. 18, 1988, 102 Stat. 4435, 4436; Pub. L. 102–586, §1(c), Nov. 4, 1992, 106 Stat. 4983; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, §12204, Nov. 2, 2002, 116 Stat. 1871.)
+&emsp;(30) the term "core requirements"—
+
+&emsp;&emsp;(A) means the requirements described in paragraphs (11), (12), (13), and (15) of section 11133(a) of this title; and
+
+&emsp;&emsp;(B) does not include the data collection requirements described in subparagraphs (A) through (K) of section 11117(1) of this title;
+
+&emsp;(31) the term "chemical agent" means a spray or injection used to temporarily incapacitate a person, including oleoresin capsicum spray, tear gas, and 2-chlorobenzalmalononitrile gas;
+
+&emsp;(32) the term "isolation"—
+
+&emsp;&emsp;(A) means any instance in which a youth is confined alone for more than 15 minutes in a room or cell; and
+
+&emsp;&emsp;(B) does not include—
+
+&emsp;&emsp;&emsp;(i) confinement during regularly scheduled sleeping hours;
+
+&emsp;&emsp;&emsp;(ii) separation based on a treatment program approved by a licensed medical or mental health professional;
+
+&emsp;&emsp;&emsp;(iii) confinement or separation that is requested by the youth; or
+
+&emsp;&emsp;&emsp;(iv) the separation of the youth from a group in a nonlocked setting for the limited purpose of calming;
+
+&emsp;(33) the term "restraints" has the meaning given that term in section 290ii of title 42;
+
+&emsp;(34) the term "evidence-based" means a program or practice that—
+
+&emsp;&emsp;(A) is demonstrated to be effective when implemented with fidelity;
+
+&emsp;&emsp;(B) is based on a clearly articulated and empirically supported theory;
+
+&emsp;&emsp;(C) has measurable outcomes relevant to juvenile justice, including a detailed description of the outcomes produced in a particular population, whether urban or rural; and
+
+&emsp;&emsp;(D) has been scientifically tested and proven effective through randomized control studies or comparison group studies and with the ability to replicate and scale;
+
+&emsp;(35) the term "promising" means a program or practice that—
+
+&emsp;&emsp;(A) is demonstrated to be effective based on positive outcomes relevant to juvenile justice from one or more objective, independent, and scientifically valid evaluations, as documented in writing to the Administrator; and
+
+&emsp;&emsp;(B) will be evaluated through a well-designed and rigorous study, as described in paragraph (34)(D);
+
+&emsp;(36) the term "dangerous practice" means an act, procedure, or program that creates an unreasonable risk of physical injury, pain, or psychological harm to a juvenile subjected to the act, procedure, or program;
+
+&emsp;(37) the term "screening" means a brief process—
+
+&emsp;&emsp;(A) designed to identify youth who may have mental health, behavioral health, substance abuse, or other needs requiring immediate attention, intervention, and further evaluation; and
+
+&emsp;&emsp;(B) the purpose of which is to quickly identify a youth with possible mental health, behavioral health, substance abuse, or other needs in need of further assessment;
+
+&emsp;(38) the term "assessment" includes, at a minimum, an interview and review of available records and other pertinent information—
+
+&emsp;&emsp;(A) by an appropriately trained professional who is licensed or certified by the applicable State in the mental health, behavioral health, or substance abuse fields; and
+
+&emsp;&emsp;(B) which is designed to identify significant mental health, behavioral health, or substance abuse treatment needs to be addressed during a youth's confinement;
+
+&emsp;(39) for purposes of section 11133(a)(15) of this title, the term "contact" means the points at which a youth and the juvenile justice system or criminal justice system officially intersect, including interactions with a juvenile justice, juvenile court, or law enforcement official;
+
+&emsp;(40) the term "trauma-informed" means—
+
+&emsp;&emsp;(A) understanding the impact that exposure to violence and trauma have on a youth's physical, psychological, and psychosocial development;
+
+&emsp;&emsp;(B) recognizing when a youth has been exposed to violence and trauma and is in need of help to recover from the adverse impacts of trauma; and
+
+&emsp;&emsp;(C) responding in ways that resist retraumatization;
+
+&emsp;(41) the term "racial and ethnic disparity" means minority youth populations are involved at a decision point in the juvenile justice system at disproportionately higher rates than non-minority youth at that decision point;
+
+&emsp;(42) the term "status offender" means a juvenile who is charged with or who has committed an offense that would not be criminal if committed by an adult;
+
+&emsp;(43) the term "rural" means an area that is not located in a metropolitan statistical area, as defined by the Office of Management and Budget;
+
+&emsp;(44) the term "internal controls" means a process implemented to provide reasonable assurance regarding the achievement of objectives in—
+
+&emsp;&emsp;(A) effectiveness and efficiency of operations, such as grant management practices;
+
+&emsp;&emsp;(B) reliability of reporting for internal and external use; and
+
+&emsp;&emsp;(C) compliance with applicable laws and regulations, as well as recommendations of the Office of Inspector General and the Government Accountability Office; and
+
+&emsp;(45) the term "tribal government" means the governing body of an Indian Tribe.
+
+(Pub. L. 93–415, title I, §103, Sept. 7, 1974, 88 Stat. 1111; Pub. L. 95–115, §2, Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §§5, 19(a), Dec. 8, 1980, 94 Stat. 2751, 2762; Pub. L. 98–473, title II, §613, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 100–690, title VII, §§7251(a), 7252(b)(1), Nov. 18, 1988, 102 Stat. 4435, 4436; Pub. L. 102–586, §1(c), Nov. 4, 1992, 106 Stat. 4983; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, §12204, Nov. 2, 2002, 116 Stat. 1871; Pub. L. 115–385, title I, §102, Dec. 21, 2018, 132 Stat. 5124.)
 
 #### References in Text
 
@@ -135,6 +217,28 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 Section was formerly classified to section 5603 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+
+<b>2018</b>—Par. (8)(C), (D). Pub. L. 115–385, §102(1), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "an Indian Tribe that performs law enforcement functions, as determined by the Secretary of the Interior; or".
+
+Par. (18). Pub. L. 115–385, §102(2), inserted "for purposes of subchapter II," before "the term" in introductory provisions and inserted concluding provisions.
+
+Par. (22). Pub. L. 115–385, §102(3), amended par. (22) generally. Prior to amendment, par. (22) read as follows: "the term 'jail or lockup for adults' means a locked facility that is used by a State, unit of local government, or any law enforcement authority to detain or confine adults—
+
+&emsp;"(A) pending the filing of a charge of violating a criminal law;
+
+&emsp;"(B) awaiting trial on a criminal charge; or
+
+&emsp;"(C) convicted of violating a criminal law;".
+
+Par. (25). Pub. L. 115–385, §102(4), amended par. (25) generally. Prior to amendment, par. (25) read as follows: "the term 'contact' means the degree of interaction allowed between juvenile offenders in a secure custody status and incarcerated adults under section 31.303(d)(1)(i) of title 28, Code of Federal Regulations, as in effect on December 10, 1996;".
+
+Par. (26). Pub. L. 115–385, §102(5), amended par. (26) generally. Prior to amendment, par. (26) read as follows: "the term 'adult inmate' means an individual who—
+
+&emsp;"(A) has reached the age of full criminal responsibility under applicable State law; and
+
+&emsp;"(B) has been arrested and is in custody for or awaiting trial on a criminal charge, or is convicted of a criminal offense;".
+
+Pars. (30) to (45). Pub. L. 115–385, §102(6)–(8), added pars. (30) to (45).
 
 <b>2002</b>—Par. (3). Pub. L. 107–273, §12204(1), substituted "designed to reduce known risk factors for juvenile delinquent behavior, provides activities that build on protective factors for, and develop competencies in, juveniles to prevent, and reduce the rate of, delinquent juvenile behavior" for "to help prevent juvenile delinquency".
 
@@ -203,6 +307,10 @@ Pars. (13), (14). Pub. L. 96–509, §5(f), added pars. (13) and (14). Former pa
 Par. (15). Pub. L. 96–509, §5(f), (g), redesignated former par. (13) as (15), inserted reference to special education, and substituted "protect the public, including services designed to benefit addicts and other users by eliminating their dependence on alcohol or other addictive or nonaddictive drugs or by controlling their dependence and susceptibility to addiction or use" for "protect the public and benefit the addict or other user by eliminating his dependence on addicting or other drugs or by controlling his dependence, and his susceptibility to addiction or use".
 
 <b>1977</b>—Par. (3). Pub. L. 95–115 substituted "to help prevent delinquency" for "who are in danger of becoming delinquent".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under section 11102 of this title.
 
 #### Effective Date of 2002 Amendment
 

@@ -50,7 +50,7 @@ In conducting the review and developing the strategy under subsection (a), the p
 
 &emsp;(5) to facilitate the development of hydrologic and other models to integrate data that reflects groundwater and surface water interactions; and
 
-&emsp;(6) to apply the hydrologic and other models developed under paragraph (5) to water resource management problems identified by thepanel, including the need to maintain or improve ecological resiliency at watershed and aquifer system scales.
+&emsp;(6) to apply the hydrologic and other models developed under paragraph (5) to water resource management problems identified by the panel, including the need to maintain or improve ecological resiliency at watershed and aquifer system scales.
 
 #### (d) Report
 

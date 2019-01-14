@@ -20,7 +20,7 @@ In connection with this demonstration, the Secretary of Housing and Urban Develo
 
 &emsp;&emsp;(C) Notwithstanding any other provision of law, each frail elderly person shall pay 10 percent of the costs of the supportive services that the person receives, except that a frail elderly person may not be required to pay an amount that exceeds 20 percent of the adjusted income (as the term is defined in section 1437a(b)(5) of this title) of such person and the Secretary shall provide for the waiver of the requirement to pay costs under this subparagraph for persons whose income is determined to be insufficient to provide for any payment.
 
-&emsp;&emsp;(D) To the extent that the limitation under subparagraph (C) regarding the percentage of income frail elderly persons may pay for services will result in collected amounts for any public housing agency of less than 10 percent of the cost of providing the services, 50 percent of such remaining costs shall be provided by the public housingagency and 50 percent of such remaining costs shall be provided by the Secretary from amounts appropriated under this section.
+&emsp;&emsp;(D) To the extent that the limitation under subparagraph (C) regarding the percentage of income frail elderly persons may pay for services will result in collected amounts for any public housing agency of less than 10 percent of the cost of providing the services, 50 percent of such remaining costs shall be provided by the public housing agency and 50 percent of such remaining costs shall be provided by the Secretary from amounts appropriated under this section.
 
 #### (2) Provision of services for entire demonstration
 
@@ -134,7 +134,7 @@ For purposes of this section:
 
 #### (3) Section 1437f terms
 
-&emsp;The assistance payment contract under section 1437f of this title shall be attached to the structure and shall be in an initial term of 5 years. The contract shall (at the option of the public housing agency and subject to availability of amounts approved in appropriations Acts) be renewable for 3 additional 5-year terms. Rents for units in the project assisted pursuant to this subsection shall be subject to the rent limitations in effect for the area under section 1437f of this title for projects for the elderly receiving loans under section 1701q of title 12.
+&emsp;The assistance payment contract under section 1437f of this title shall be attached to thestructure and shall be in an initial term of 5 years. The contract shall (at the option of the public housing agency and subject to availability of amounts approved in appropriations Acts) be renewable for 3 additional 5-year terms. Rents for units in the project assisted pursuant to this subsection shall be subject to the rent limitations in effect for the area under section 1437f of this title for projects for the elderly receiving loans under section 1701q of title 12.
 
 #### (4) Supportive services
 
@@ -160,7 +160,7 @@ For purposes of this section:
 
 #### (i) Report
 
-The Secretary shall submit to Congress an annual report evaluating the effectiveness of the demonstrations under this section. The reportshall include a statement of the number of persons served, the types of services provided, the cost of providing such services, and any other information the Secretary considers appropriate in evaluating the demonstration.
+The Secretary shall submit to Congress an annual report evaluating the effectiveness of the demonstrations under this section. The report shall include a statement of the number of persons served, the types of services provided, the cost of providing such services, and any other information the Secretary considers appropriate in evaluating the demonstration.
 
 #### (j) Section 1437f funding
 

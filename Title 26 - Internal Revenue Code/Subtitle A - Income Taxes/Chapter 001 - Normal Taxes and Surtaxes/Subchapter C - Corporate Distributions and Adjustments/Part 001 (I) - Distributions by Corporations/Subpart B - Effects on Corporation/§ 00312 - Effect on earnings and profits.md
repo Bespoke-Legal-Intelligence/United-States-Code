@@ -32,7 +32,7 @@ In making the adjustments to the earnings and profits of a corporation under sub
 
 #### (1) In general
 
-&emsp;The distribution to a distributee by or on behalf of a corporation of its stock or securities,of stock or securities in another corporation, or of property, in a distribution to which this title applies, shall not be considered a distribution of the earnings and profits of any corporation—
+&emsp;The distribution to a distributee by or on behalf of a corporation of its stock or securities, of stock or securities in another corporation, or of property, in a distribution to which this title applies, shall not be considered a distribution of the earnings and profits of any corporation—
 
 &emsp;&emsp;(A) if no gain to such distributee from the receipt of such stock or securities, or property, was recognized under this title, or
 
@@ -100,7 +100,7 @@ If a corporation distributes property with respect to its stock and if, at the t
 
 #### (2) Exception
 
-&emsp;If for any taxable year a method of depreciation was used by the taxpayer which the Secretary has determined results in a reasonable allowance under section 167(a) and which is the unit-of-production method or other method not expressed in a term of years, then the adjustment to earnings and profits for depreciation for such year shall be determined under the method so used (in lieu of the straight line method).
+&emsp;If for any taxable year a method of depreciation was used by the taxpayer which the Secretary has determined results in a reasonable allowance under section 167(a) and which is the unit-of-production method or other method not expressed in a term of years, then theadjustment to earnings and profits for depreciation for such year shall be determined under the method so used (in lieu of the straight line method).
 
 #### (3) Exception for tangible property
 
@@ -254,7 +254,7 @@ For purposes of computing the earnings and profits of a corporation, the followi
 
 For purposes of subsection (a)(2), the terms "original issue discount" and "issue price" have the same respective meanings as when used in subpart A of part V of subchapter P of this chapter.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 95; Pub. L. 87–403, §3(a), Feb. 2, 1962, 76 Stat. 6; Pub. L. 87–834, §§13(f)(3), 14(b)(1), Oct. 16, 1962, 76 Stat. 1035, 1040; Pub. L. 88–272, title II, §231(b)(3), Feb. 26, 1964, 78 Stat. 105; Pub. L. 88–484, §1(b)(1), Aug. 22, 1964, 78 Stat. 597; Pub. L. 89–570, §1(b)(3), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, §211(b)(3), titleIV, §442(a), title IX, §905(b)(2), Dec. 30, 1969, 83 Stat. 570, 628, 714; Pub. L. 94–455, title II, §205(c)(1)(D), title XIX, §§1901(a)(43), (b)(32)(B)(i), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1771, 1800, 1834; Pub. L. 95–628, §3(c), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 96–589, §5(f), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–34, title II, §206(a), (b), Aug. 13, 1981, 95 Stat. 224; Pub. L. 97–248, title II, §§205(a)(3), 222(e)(3), title III, §310(b)(3), Sept. 3, 1982, 96 Stat. 429, 480, 597; Pub. L. 97–448, title III, §306(a)(6)(B), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title I, §§61(a)–(c)(1), 63(b), 111(e)(5), July 18, 1984, 98 Stat. 579–581, 583, 633; Pub. L. 99–121, title I, §103(b)(1)(C), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §§201(b), (d)(6), 241(b)(1), title VI, §631(e)(1), title VIII, §803(b)(3), title XVIII, §§1804(f)(1)(A)–(E), 1809(a)(2)(C)(ii), Oct. 22, 1986, 100 Stat. 2137, 2141, 2181, 2273, 2355, 2804, 2805, 2819; Pub. L. 100–647, title I, §§1002(a)(3), 1018(d)(4), (u)(4), Nov. 10, 1988, 102 Stat. 3353, 3578, 3590; Pub. L. 101–239, title VII, §§7611(f)(5)(A), 7811(m)(2), Dec. 19, 1989, 103 Stat. 2373, 2412; Pub. L. 101–508, title XI, §§11812(b)(5), 11813(b)(14), Nov. 5, 1990, 104 Stat. 1388–535, 1388–555; Pub. L. 105–34, title XVI, §1604(a)(2), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–357, title III, §338(b)(3), title IV, §413(c)(4), (5), Oct. 22, 2004, 118 Stat. 1481, 1507; Pub. L. 109–58, title XIII, §§1323(b)(3), 1331(b)(5), Aug. 8, 2005, 119 Stat. 1015, 1024; Pub. L. 109–432, div. A, title IV, §404(b)(2), Dec. 20, 2006, 120 Stat. 2956; Pub. L. 113–295, div. A, title II, §221(a)(34)(F), (49), Dec. 19, 2014, 128 Stat. 4042, 4045.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 95; Pub. L. 87–403, §3(a), Feb. 2, 1962, 76 Stat. 6; Pub. L. 87–834, §§13(f)(3), 14(b)(1), Oct. 16, 1962, 76 Stat. 1035, 1040; Pub. L. 88–272, title II, §231(b)(3), Feb. 26, 1964, 78 Stat. 105; Pub. L. 88–484, §1(b)(1), Aug. 22, 1964, 78 Stat. 597; Pub. L. 89–570, §1(b)(3), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, §211(b)(3), title IV, §442(a), title IX, §905(b)(2), Dec. 30, 1969, 83 Stat. 570, 628, 714; Pub. L. 94–455, title II, §205(c)(1)(D), title XIX, §§1901(a)(43), (b)(32)(B)(i), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1771, 1800, 1834; Pub. L. 95–628, §3(c), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 96–589, §5(f), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–34, title II, §206(a), (b), Aug. 13, 1981, 95 Stat. 224; Pub. L. 97–248, title II, §§205(a)(3), 222(e)(3), title III, §310(b)(3), Sept. 3, 1982, 96 Stat. 429, 480, 597; Pub. L. 97–448, title III, §306(a)(6)(B), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title I, §§61(a)–(c)(1), 63(b), 111(e)(5), July 18, 1984, 98 Stat. 579–581, 583, 633; Pub. L. 99–121, title I, §103(b)(1)(C), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §§201(b), (d)(6), 241(b)(1), title VI, §631(e)(1), title VIII, §803(b)(3), title XVIII, §§1804(f)(1)(A)–(E), 1809(a)(2)(C)(ii), Oct. 22, 1986, 100 Stat. 2137, 2141, 2181, 2273, 2355, 2804, 2805, 2819; Pub. L. 100–647, title I, §§1002(a)(3), 1018(d)(4), (u)(4), Nov. 10, 1988, 102 Stat. 3353, 3578, 3590; Pub. L. 101–239, title VII, §§7611(f)(5)(A), 7811(m)(2), Dec. 19, 1989, 103 Stat. 2373, 2412; Pub. L. 101–508, title XI, §§11812(b)(5), 11813(b)(14), Nov. 5, 1990, 104 Stat. 1388–535, 1388–555; Pub. L. 105–34, title XVI, §1604(a)(2), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–357, title III, §338(b)(3), title IV, §413(c)(4), (5), Oct. 22, 2004, 118 Stat. 1481, 1507; Pub. L. 109–58, title XIII, §§1323(b)(3), 1331(b)(5), Aug. 8, 2005, 119 Stat. 1015, 1024; Pub. L. 109–432, div. A, title IV, §404(b)(2), Dec. 20, 2006, 120 Stat. 2956; Pub. L. 113–295, div. A, title II, §221(a)(34)(F), (49), Dec. 19, 2014, 128 Stat. 4042, 4045.)
 
 #### References in Text
 
@@ -318,7 +318,7 @@ Subsec. (n)(1)(C). Pub. L. 99–514, §803(b)(3)(B), added subpar. (C) and struc
 
 Subsec. (n)(3). Pub. L. 99–514, §241(b)(1), struck out ", 177," after "sections 173".
 
-Subsec. (n)(4). Pub. L. 99–514, §631(e)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Earnings and profits shall be increased or decreased by the amount of any increase or decrease inthe LIFO recapture amount (determined under section 336(b)(3)) as of the close of each taxable year; except that any decrease below the LIFO recapture amount as of the close of the taxable year preceding the first taxable year to which this paragraph applies to the taxpayer shall be taken into account only to the extent provided in regulations prescribed by the Secretary."
+Subsec. (n)(4). Pub. L. 99–514, §631(e)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Earnings and profits shall be increased or decreased by the amount of any increase or decrease in the LIFO recapture amount (determined under section 336(b)(3)) as of the close of each taxable year; except that any decrease below the LIFO recapture amount as of the close of the taxable year preceding the first taxable year to which this paragraph applies to the taxpayer shall be taken into account only to the extent provided in regulations prescribed by the Secretary."
 
 Pub. L. 99–514, §1804(f)(1)(D), redesignated par. (5) as (4). Former par. (4), relating to certain untaxed appreciation of distributed property, was struck out.
 
@@ -432,7 +432,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by section 803(b)(3) of Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
+If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, theamendment by section 803(b)(3) of Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
 
 Amendment by section 201(b), (d)(6) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
@@ -486,7 +486,7 @@ Subsection (b).—The amendments made by subsection (b) \[amending this section\
 
 "(3)
 
-Subsection (c).—The amendments made by subsection (c) \[amending this section and section 1275 ofthis title\] shall apply with respect to distributions declared after March 15, 1984, in taxable years ending after such date."
+Subsection (c).—The amendments made by subsection (c) \[amending this section and section 1275 of this title\] shall apply with respect to distributions declared after March 15, 1984, in taxable years ending after such date."
 
 Amendment by section 61(a)(2) of Pub. L. 98–369 applicable to distributions in taxable years beginning after Sept. 30, 1984, see section 1804(f)(3) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note above.
 
@@ -510,7 +510,7 @@ Amendment by section 310(b)(3) of Pub. L. 97–248 applicable to obligations iss
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable years ending after that date, see section 209(a) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
+Amendment by Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable yearsending after that date, see section 209(a) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
 
 #### Effective Date of 1980 Amendment
 

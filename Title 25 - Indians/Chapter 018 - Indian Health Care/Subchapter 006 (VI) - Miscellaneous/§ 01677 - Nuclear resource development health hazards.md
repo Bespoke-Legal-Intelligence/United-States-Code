@@ -4,7 +4,7 @@
 
 The Secretary and the Service shall conduct, in conjunction with other appropriate Federal agencies and in consultation with concerned Indian tribes and organizations, a study of the health hazards to Indian miners and Indians on or near Indian reservations and in Indian communities as a result of nuclear resource development. Such study shall include—
 
-&emsp;(1) an evaluation of the nature and extent of nuclear resource development related health problems currently exhibited among Indians and the causes of such health problems;
+&emsp;(1) an evaluation of the nature and extent of nuclear resource development related healthproblems currently exhibited among Indians and the causes of such health problems;
 
 &emsp;(2) an analysis of the potential effect of ongoing and future nuclear resource development on or near Indian reservations and communities;
 
@@ -32,7 +32,7 @@ The Secretary and the Service shall submit to Congress the study prepared under 
 
 (1) There is established an Intergovernmental Task Force to be composed of the following individuals (or their designees): the Secretary of Energy, the Administrator of the Environmental Protection Agency, the Director of the United States Bureau of Mines, the Assistant Secretary for Occupational Safety and Health, and the Secretary of the Interior.
 
-(2) The Task Force shall identify existing and potential operations related to nuclear resourcedevelopment that affect or may affect the health of Indians on or near an Indian reservation or in an Indian community and enter into activities to correct existing health hazards and insure that current and future health problems resulting from nuclear resource development activities are minimized or reduced.
+(2) The Task Force shall identify existing and potential operations related to nuclear resource development that affect or may affect the health of Indians on or near an Indian reservation or in an Indian community and enter into activities to correct existing health hazards and insure that current and future health problems resulting from nuclear resource development activities are minimized or reduced.
 
 (3) The Secretary shall be Chairman of the Task Force. The Task Force shall meet at least twice each year. Each member of the Task Force shall furnish necessary assistance to the Task Force.
 

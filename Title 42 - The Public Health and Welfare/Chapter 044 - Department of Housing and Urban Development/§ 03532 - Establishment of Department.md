@@ -10,7 +10,7 @@ The Secretary shall, among his responsibilities, advise the President with respe
 
 #### (c) Denial or limitation of benefits of departmental programs, functions, or activities on basis of population or corporate status of community
 
-Nothing in this chapter shall be construed to deny or limit the benefits of any program, function, or activity assigned to the Department by this chapter or any other Act to any community on the basis of its population or corporate status, except as may be expressly provided by law.
+Nothing in this chapter shall be construed to deny or limit the benefits of any program, function, or activity assigned to the Department by this chapter or any other Act to any communityon the basis of its population or corporate status, except as may be expressly provided by law.
 
 #### (d) Coordination of housing and urban development programs in enterprise zones
 
@@ -72,7 +72,7 @@ WHEREAS such consultation and cooperation are also essential to enable the Secre
 
 NOW, THEREFORE, by virtue of the authority vested in me as President of the United States by the Constitution and laws of the United States, it is ordered as follows:
 
-Section 1. <i>Functions of the Secretary of Housing and Urban Development</i>. (a) To assist the Secretary in carrying out his responsibilities pursuant to the Department of Housing and Urban Development Act, he shall convene, or authorize his representatives to convene, meetings at appropriate times and places of the heads, or representatives designated by them, of such Federal departments and agencies with programs affecting urban areas as he deems necessary or desirable for the following purposes:
+Section 1. <i>Functions of the Secretary of Housing and Urban Development</i>. (a) To assist the Secretary in carrying out his responsibilities pursuant to the Department of Housing and Urban Development Act, he shall convene, or authorize his representatives to convene,meetings at appropriate times and places of the heads, or representatives designated by them, of such Federal departments and agencies with programs affecting urban areas as he deems necessary or desirable for the following purposes:
 
 (1) To provide a forum for consideration of mutual problems concerning Federal programs and activities affecting the development of urban areas and for the exchange of current information needed to achieve coordination of, and to avoid duplication in, such programs and activities.
 
@@ -90,7 +90,7 @@ Section 1. <i>Functions of the Secretary of Housing and Urban Development</i>. (
 
 (b) The Secretary shall make arrangements with such Federal departments and agencies for working groups to consider special problems arising with respect to matters described in subsection (a) of this section.
 
-Section 2. <i>Agency responsibilities</i>. The heads of Federal departments and agencies have programs which have an impact on urban areas, or representatives designated by them, shall participate in meetings convened pursuant to this Order and, to the extent permitted by law and funds available, shall furnish information, at the request of the Secretary, pertaining toprograms within the responsibilities of such departments or agencies, and such additional information as will assist the Secretary in providing a clearinghouse service to aid State and local governments in developing solutions to community and metropolitan development problems.
+Section 2. <i>Agency responsibilities</i>. The heads of Federal departments and agencies have programs which have an impact on urban areas, or representatives designated by them, shall participate in meetings convened pursuant to this Order and, to the extent permitted by law and funds available, shall furnish information, at the request of the Secretary, pertaining to programs within the responsibilities of such departments or agencies, and such additional information as will assist the Secretary in providing a clearinghouse service to aid State and local governments in developing solutions to community and metropolitan development problems.
 
 Section 3. <i>Construction</i>. Nothing in this Order shall be construed as subjecting any function vested by law in, or assigned pursuant to law to, any Federal department or agency or head thereof to the authority of any other agency or officer or as abrogating or restricting any such function in any manner.
 

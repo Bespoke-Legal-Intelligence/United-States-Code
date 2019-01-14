@@ -52,7 +52,7 @@ Section 7410(d) of this title, referred to in subsec. (b), was repealed by Pub. 
 
 This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
-Subchapter II (§1621 et seq.) of chapter 34 of title 50, referred to in subsec. (d)(4), was in the original "title II of the Act of September 14, 1976 (Public Law 94–412)", which is known as the National Emergencies Act.
+Subchapter II (§1621 et seq.) of chapter 34 of title 50, referred to in subsec. (d)(4), was in the original "title IIof the Act of September 14, 1976 (Public Law 94–412)", which is known as the National Emergencies Act.
 
 #### Amendments
 

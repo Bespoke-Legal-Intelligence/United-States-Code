@@ -16,7 +16,7 @@ Any consumer product offered for importation into the customs territory of the U
 
 #### (b) Samples
 
-The Secretary of the Treasury shall obtain without charge and deliver to the Commission, upon the latter's request, a reasonable number of samples of consumer products being offered for import. Except for those owners or consignees who are or have been afforded an opportunity for a hearing in a proceeding under section 2061 of this title with respect to an imminently hazardous product, the owner or consignee of the product shall be afforded an opportunity by the Commission for a hearing in accordance with section 554 of title 5 with respect to the importation of such products into the customs territory of the United States. If it appears from examination of such samples or otherwise that a product must be refused admission under the terms of subsection (a), such product shall be refused admission, unless subsection (c) of this section applies and is complied with.
+The Secretary of the Treasury shall obtain without charge and deliver to the Commission,upon the latter's request, a reasonable number of samples of consumer products being offered for import. Except for those owners or consignees who are or have been afforded an opportunity for a hearing in a proceeding under section 2061 of this title with respect to an imminently hazardous product, the owner or consignee of the product shall be afforded an opportunity by the Commission for a hearing in accordance with section 554 of title 5 with respect to the importation of such products into the customs territory of the United States. If it appears from examination of such samples or otherwise that a product must be refused admission under the terms of subsection (a), such product shall be refused admission, unless subsection (c) of this section applies and is complied with.
 
 #### (c) Modification
 
@@ -32,7 +32,7 @@ Products refused admission into the customs territory of the United States shall
 
 #### (f) Payment of expenses occasioned by refusal of admission
 
-All expenses (including travel, per diem or subsistence, and salaries of officers or employees of the United States) in connection with the destruction provided for in this section (the amount of such expenses to be determined in accordance with regulations of the Secretary of the Treasury) and all expenses in connection with the storage, cartage, or labor with respectto any consumer product refused admission under this section, shall be paid by the owner or consignee and, in default of such payment, shall constitute a lien against any future importations made by such owner or consignee.
+All expenses (including travel, per diem or subsistence, and salaries of officers or employees of the United States) in connection with the destruction provided for in this section (the amount of such expenses to be determined in accordance with regulations of the Secretary of the Treasury) and all expenses in connection with the storage, cartage, or labor with respect to any consumer product refused admission under this section, shall be paid by the owner or consignee and, in default of such payment, shall constitute a lien against any future importations made by such owner or consignee.
 
 #### (g) Inspection and recordkeeping requirement
 

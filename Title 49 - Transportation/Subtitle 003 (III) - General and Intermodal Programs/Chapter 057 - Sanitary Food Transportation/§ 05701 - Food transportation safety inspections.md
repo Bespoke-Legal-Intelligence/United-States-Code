@@ -64,7 +64,7 @@ Section 5707, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 857, related to
 
 Section 5708, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 858, related to food transportation inspections. See section 5701 of this title.
 
-Section 5709, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 858, related to consultation with Secretaries ofAgriculture and Health and Human Services and Administrator of the Environmental Protection Agency.
+Section 5709, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 858, related to consultation with Secretaries of Agriculture and Health and Human Services and Administrator of the Environmental Protection Agency.
 
 Section 5710, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 858, related to duties and powers of Secretary.
 

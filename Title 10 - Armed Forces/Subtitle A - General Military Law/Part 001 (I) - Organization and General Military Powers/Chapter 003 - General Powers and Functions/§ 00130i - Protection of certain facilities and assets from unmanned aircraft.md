@@ -132,7 +132,7 @@ Definitions.—In this section:
 
 &emsp;(5) The terms "electronic communication", "intercept", "oral communication", and "wire communication" have the meanings given those terms in section 2510 of title 18.
 
-&emsp;(6) The terms "unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 note).
+&emsp;(6) The terms "unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 <sup>2</sup> note).
 
 (Added Pub. L. 114–328, div. A, title XVI, §1697(a), Dec. 23, 2016, 130 Stat. 2639; amended Pub. L. 115–91, div. A, title XVI, §1692, Dec. 12, 2017, 131 Stat. 1788.)
 
@@ -140,9 +140,13 @@ Definitions.—In this section:
 
 The Presidential Protection Assistance Act of 1976, referred to in subsec. (j)(3)(C)(iv), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
 
+Section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95), referred to in subsec. (j)(6), which was formerly set out in a note under section 40101 of Title 49, Transportation, was transferred and is now set out in a note under section 44802 of Title 49.
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–91 amended section generally. Prior to amendment, section related to protection of certain facilities and assets from unmanned aircraft and consisted of provisions relating to authority of Secretary of Defense, authorized actions, forfeiture, regulations, and definitions.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection (j)(3)(C)".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

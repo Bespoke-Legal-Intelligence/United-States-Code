@@ -50,7 +50,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (iii) State prohibition
 
-&emsp;&emsp;&emsp;Notwithstanding clause (i), if a State educational agency determines that a local educational agency is unable to establish and maintain programs of free appropriate public education that meet the requirements of subsection (a) or the State educational agency has taken action against the local educational agency under section 1416 of this title, the State educational agency shall prohibit the local educational agency from reducing the level of expenditures under clause (i) for that fiscal year.
+&emsp;&emsp;&emsp;Notwithstanding clause (i), if a State educational agency determines that a local educational agency is unable to establish and maintain programs of free appropriate public education that meet therequirements of subsection (a) or the State educational agency has taken action against the local educational agency under section 1416 of this title, the State educational agency shall prohibit the local educational agency from reducing the level of expenditures under clause (i) for that fiscal year.
 
 #### (iv) Special rule
 
@@ -142,7 +142,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (c) Notification of local educational agency or State agency in case of ineligibility
 
-If the State educational agency determines that a local educational agency or State agency is not eligible under this section, then the State educational agency shall notify the local educational agency or State agency, as the case may be, of that determination and shall provide such local educational agency or State agencywith reasonable notice and an opportunity for a hearing.
+If the State educational agency determines that a local educational agency or State agency is not eligible under this section, then the State educational agency shall notify the local educational agency or State agency, as the case may be, of that determination and shall provide such local educational agency or State agency with reasonable notice and an opportunity for a hearing.
 
 #### (d) Local educational agency compliance
 
@@ -172,7 +172,7 @@ If the State educational agency determines that a local educational agency or St
 
 #### (2) Amount of payments
 
-&emsp;If a State educational agency requires the joint establishment of eligibility under paragraph (1), the total amount of funds made available to the affected local educational agencies shall be equal to the sum of the payments that each such local educational agency would have received under section 1411(f) of this title if such agencies were eligible for such payments.
+&emsp;If a State educational agency requires the joint establishment of eligibility under paragraph (1), the total amount of funds madeavailable to the affected local educational agencies shall be equal to the sum of the payments that each such local educational agency would have received under section 1411(f) of this title if such agencies were eligible for such payments.
 
 #### (3) Requirements
 
@@ -242,7 +242,7 @@ If the State educational agency determines that a local educational agency or St
 
 #### (2) Manner and location of education and services
 
-&emsp;The State educational agency may provide special education and related services under paragraph (1) in such manner and at such locations (including regional or State centers) as the State educational agency considers appropriate. Such education and services shall be provided in accordance with this subchapter.
+&emsp;The State educational agency may provide special education and related services underparagraph (1) in such manner and at such locations (including regional or State centers) as the State educational agency considers appropriate. Such education and services shall be provided in accordance with this subchapter.
 
 #### (h) State agency eligibility
 
@@ -268,7 +268,7 @@ The State may require that a local educational agency include in the records of 
 
 #### (3) Education activities
 
-&emsp;If a State educational agency exercises the authority under paragraph (1), the agencyshall use funds from State sources, in an amount equal to the amount of the reduction under paragraph (1), to support activities authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] or to support need based student or teacher higher education programs.
+&emsp;If a State educational agency exercises the authority under paragraph (1), the agency shall use funds from State sources, in an amount equal to the amount of the reduction under paragraph (1), to support activities authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] or to support need based student or teacher higher education programs.
 
 #### (4) Report
 
@@ -290,7 +290,7 @@ For the effective date of the Individuals with Disabilities Education Improvemen
 
 A prior section 1413, Pub. L. 91–230, title VI, §613, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 73; amended Pub. L. 107–110, title X, §1076(i), Jan. 8, 2002, 115 Stat. 2091, related to local educational agency eligibility, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1413, Pub. L. 91–230, title VI, §613, Apr. 13, 1970, 84 Stat. 179; Pub. L. 93–380, title VI, §§614(c), (d), 615(b), (c), title VIII, §843(b)(2), Aug. 21, 1974, 88 Stat. 581, 583, 611; Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 782; Pub. L. 98–199, §§3(b), 7, Dec. 2, 1983, 97 Stat. 1358, 1359; Pub. L. 99–457, title II, §203(b), title IV, §405, Oct. 8, 1986, 100 Stat. 1159, 1174; Pub. L. 100–630, title I, §102(c), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title II, §202, title IX, §901(b)(47)–(58), Oct. 30, 1990, 104 Stat. 1111, 1144; Pub. L. 102–119, §§5, 25(a)(6), (b), Oct. 7, 1991, 105 Stat. 591, 606, 607; Pub. L. 103–382, title III, §391(f)(2), Oct. 20, 1994, 108 Stat. 4023, related to requisite features of a State plan, approval of State plan by Secretary, and participation of children with disabilities enrolled in private schools, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1413, Pub. L. 91–230, title VI, §613, Apr. 13, 1970, 84 Stat. 179; Pub. L. 93–380, title VI, §§614(c), (d), 615(b), (c), title VIII, §843(b)(2), Aug. 21, 1974, 88 Stat. 581, 583, 611; Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 782; Pub. L. 98–199, §§3(b), 7, Dec. 2, 1983, 97 Stat. 1358, 1359; Pub. L. 99–457, title II, §203(b), title IV, §405, Oct. 8, 1986, 100 Stat. 1159, 1174; Pub. L. 100–630, title I, §102(c), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title II, §202, title IX, §901(b)(47)–(58), Oct. 30, 1990, 104 Stat. 1111, 1144; Pub. L. 102–119, §§5, 25(a)(6), (b),Oct. 7, 1991, 105 Stat. 591, 606, 607; Pub. L. 103–382, title III, §391(f)(2), Oct. 20, 1994, 108 Stat. 4023, related to requisite features of a State plan, approval of State plan by Secretary, and participation of children with disabilities enrolled in private schools, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 #### Amendments
 

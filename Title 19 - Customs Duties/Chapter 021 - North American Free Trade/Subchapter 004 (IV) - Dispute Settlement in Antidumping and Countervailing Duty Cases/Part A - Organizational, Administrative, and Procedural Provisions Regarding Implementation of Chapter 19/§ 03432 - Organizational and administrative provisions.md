@@ -76,7 +76,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Trade Representative shall select individuals from the respective lists prepared by the interagency group under paragraph (2)(B)(i) for placement on—
+&emsp;&emsp;The Trade Representative shall select individuals from the respective lists prepared bythe interagency group under paragraph (2)(B)(i) for placement on—
 
 &emsp;&emsp;&emsp;(i) a preliminary candidate list of individuals eligible to serve as members of binational panels under Annex 1901.2; and
 
@@ -174,7 +174,7 @@
 
 &emsp;&emsp;&emsp;(ii) appoint an individual to serve as one of those members of any panel or committee convened under chapter 19 during such 1-year period who, under the terms of the Agreement, are to be appointed solely by the United States Government; or
 
-&emsp;&emsp;&emsp;(iii) act to make a joint appointment with the Government of a NAFTA country,under the terms of the Agreement, of any individual who is a citizen or national of the United States to serve as any other member of such a panel or committee;
+&emsp;&emsp;&emsp;(iii) act to make a joint appointment with the Government of a NAFTA country, under the terms of the Agreement, of any individual who is a citizen or national of the United States to serve as any other member of such a panel or committee;
 
 > &emsp;&emsp;only if such individual is on the appropriate final candidate list that was submitted to the appropriate Congressional Committees under subsection (c)(4)(A) during such calendar year or on such list as it may be amended under subsection (c)(4)(C)(iv)(I), or on the list submitted under subsection (b)(3) to the Congressional Committees referred to in such subsection; and
 
@@ -198,7 +198,7 @@
 
 If the Agreement enters into force between the United States and a NAFTA country after January 3, 1994, the provisions of subsection (c) shall be applied with respect to the calendar year in which such entering into force occurs—
 
-&emsp;(1) by substituting "the date that is 30 days after the date on which the Agreement enters into force with respect to the United States" for "January 3 of each calendar year" in subsections (c)(2)(B)(i) and (c)(3)(B)(i); and
+&emsp;(1) by substituting "the date that is 30 days after the date on which the Agreement enters into force with respect to the United States"for "January 3 of each calendar year" in subsections (c)(2)(B)(i) and (c)(3)(B)(i); and
 
 &emsp;(2) by substituting "the date that is 3 months after the date on which the Agreement enters into force with respect to the United States" for "March 31 of each calendar year" in subsection (c)(4)(A).
 

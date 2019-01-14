@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (2) Tenant-stockholder
 
-&emsp;The term "tenant-stockholder" means a person who is a stockholder in a cooperative housing corporation, and whose stock is fully paid-up in an amount not less than an amount shown to the satisfaction of the Secretary as bearing a reasonable relationship to the portion of the value of the corporation's equity in the houses or apartment building and the land on which situated which is attributable to the house or apartment which such person is entitled to occupy.
+&emsp;The term "tenant-stockholder" means a person who is a stockholder in a cooperativehousing corporation, and whose stock is fully paid-up in an amount not less than an amount shown to the satisfaction of the Secretary as bearing a reasonable relationship to the portion of the value of the corporation's equity in the houses or apartment building and the land on which situated which is attributable to the house or apartment which such person is entitled to occupy.
 
 #### (3) Tenant-stockholder's proportionate share
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;So much of the stock of a tenant-stockholder in a cooperative housing corporation as is allocable, under regulations prescribed by the Secretary, to a proprietary lease or right of tenancy in property subject to the allowance for depreciation under section 167(a)shall, to the extent such proprietary lease or right of tenancy is used by such tenant-stockholder in a trade or business or for the production of income, be treated as property subject to the allowance for depreciation under section 167(a). The preceding sentence shall not be construed to limit or deny a deduction for depreciation under section 167(a) by a cooperative housing corporation with respect to property owned by such a corporation and leased to tenant-stockholders.
+&emsp;So much of the stock of a tenant-stockholder in a cooperative housing corporation as is allocable, under regulations prescribed by the Secretary, to a proprietary lease or right of tenancy in property subject to the allowance for depreciation under section 167(a) shall, to the extent such proprietary lease or right of tenancy is used by such tenant-stockholder in a trade or business or for the production of income, be treated as property subject to the allowance for depreciation under section 167(a). The preceding sentence shall not be construed to limit or deny a deduction for depreciation under section 167(a) by a cooperative housing corporation with respect to property owned by such a corporation and leased to tenant-stockholders.
 
 #### (2) Deduction limited to adjusted basis in stock
 
@@ -128,7 +128,7 @@ Subsec. (d). Pub. L. 99–514, §644(c), added subsec. (d).
 
 <b>1980</b>—Subsec. (b)(6)(A). Pub. L. 96–222, §105(a)(6)(A), added subpar. (A). Former subpar. (A), which required the original seller who acquired stock of the corporation from the corporation by purchase or foreclosure to be treated as a tenant-stockholder for a period not to exceed 3 years from the date of acquisition, was struck out.
 
-Subsec. (b)(6)(B) to (D). Pub. L. 96–222, §105(a)(6)(A), (B), added subpar. (B), redesignated former subpars. (B)and (C) as (C) and (D), and, in subpar. (D) as so redesignated, inserted provisions requiring that the estate of the original seller succeed to, and take into account, the tax treatment of the original seller under this paragraph.
+Subsec. (b)(6)(B) to (D). Pub. L. 96–222, §105(a)(6)(A), (B), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), and, in subpar. (D) as so redesignated, inserted provisions requiring that the estate of the original seller succeed to, and take into account, the tax treatment of the original seller under this paragraph.
 
 <b>1978</b>—Subsec. (b)(6). Pub. L. 95–600, added par. (6).
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title VI, §6282(b), Nov. 10, 1988, 102 Stat. 3755, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 631 of the Tax Reform Act of 1986 \[section 631 of Pub. L. 99–514, see Tables for classification\]."
+Pub. L. 100–647, title VI, §6282(b), Nov. 10, 1988, 102 Stat. 3755, provided that: "The amendment made bythis section \[amending this section\] shall take effect as if included in the amendments made by section 631 of the Tax Reform Act of 1986 \[section 631 of Pub. L. 99–514, see Tables for classification\]."
 
 #### Effective Date of 1986 Amendment
 

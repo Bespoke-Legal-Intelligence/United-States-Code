@@ -12,7 +12,7 @@ For purposes of section 165(g)(1), where the taxpayer is a bank and owns directl
 
 #### (1) General rule
 
-&emsp;For purposes of this subtitle, in the case of a financial institution referred to in paragraph\(2), the sale or exchange of a bond, debenture, note, or certificate or other evidence of indebtedness shall not be considered a sale or exchange of a capital asset. For purposes of the preceding sentence, any regular or residual interest in a REMIC shall be treated as an evidence of indebtedness.
+&emsp;For purposes of this subtitle, in the case of a financial institution referred to in paragraph (2), the sale or exchange of a bond, debenture, note, or certificate or other evidence of indebtedness shall not be considered a sale or exchange of a capital asset. For purposes of the preceding sentence, any regular or residual interest in a REMIC shall be treated as an evidence of indebtedness.
 
 #### (2) Financial institutions to which paragraph (1) applies
 
@@ -128,7 +128,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 "(2)
 
-Election for small business investment companies and business development corporations.—Notwithstanding paragraph (1), in the case of a financial institution described in section 586(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the amendments made by this section \[amending this section and section 1243 of this title\] shall not apply for its taxable years beginning after July 11, 1969, and before July 11, 1974, unless the taxpayer so elects at such time and in such manner as shall be prescribed by the Secretary of the Treasury or his delegate. Such election shall be irrevocable and shall apply to all such taxable years."
+Election for small business investment companies and business development corporations.—Notwithstanding paragraph (1), in the case of a financial institution described in section 586(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the amendments made by this section \[amending this section and section 1243 of this title\] shall not apply for itstaxable years beginning after July 11, 1969, and before July 11, 1974, unless the taxpayer so elects at such time and in such manner as shall be prescribed by the Secretary of the Treasury or his delegate. Such election shall be irrevocable and shall apply to all such taxable years."
 
 #### Effective Date of 1958 Amendment
 

@@ -88,7 +88,7 @@ Under the general supervision of the Secretary, the Graduate School shall develo
 
 #### (4) Duties of Director
 
-&emsp;The Director shall be responsible, subject to the supervision and direction of the Board, forcarrying out the functions of the Graduate School.
+&emsp;The Director shall be responsible, subject to the supervision and direction of the Board, for carrying out the functions of the Graduate School.
 
 #### (5) Borrowing and investment authority
 

@@ -74,7 +74,7 @@ The Council shall consist of the following members:
 
 #### (d) Technical and professional advisory committees
 
-The Council may appoint such special advisory, technical, or professional committees asmay be useful in carrying out the functions of the Council, including an advisory committee consisting of State regulators, and the members of such committees may be members of the Council, or other persons, or both.
+The Council may appoint such special advisory, technical, or professional committees as may be useful in carrying out the functions of the Council, including an advisory committee consisting of State regulators, and the members of such committees may be members of the Council, or other persons, or both.
 
 #### (e) Meetings
 
@@ -96,7 +96,7 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Counci
 
 #### (h) Assistance from Federal agencies
 
-Any department or agency of the United States may provide to the Council and any special advisory, technical, or professional committee appointed by the Council, such services, funds, facilities, staff, and other support services as the Council may determine advisable.
+Any department or agency of the United States may provide to the Council and any special advisory, technical, or professional committee appointed by the Council, such services,funds, facilities, staff, and other support services as the Council may determine advisable.
 
 #### (i) Compensation of members
 

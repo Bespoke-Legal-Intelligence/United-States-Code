@@ -24,5 +24,5 @@ It is the sense of Congress that, in an effort to change the culture of alcohol 
 
 #### Prior Provisions
 
-A prior section 1011h, Pub. L. 89–329, title I, §129, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106Stat. 465, authorized appropriations to carry out the articulation agreements grant program, prior to the general amendment of this subchapter by Pub. L. 105–244.
+A prior section 1011h, Pub. L. 89–329, title I, §129, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 465, authorized appropriations to carry out the articulation agreements grant program, prior to the general amendment of this subchapter by Pub. L. 105–244.
 

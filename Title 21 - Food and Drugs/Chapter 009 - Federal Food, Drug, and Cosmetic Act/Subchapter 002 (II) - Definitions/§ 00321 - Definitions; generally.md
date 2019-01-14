@@ -16,9 +16,9 @@ For the purposes of this chapter—
 
 (f) The term "food" means (1) articles used for food or drink for man or other animals, (2) chewing gum, and (3) articles used for components of any such article.
 
-(g)(1) The term "drug" means (A) articles recognized in the official United States Pharmacopoeia, official Homoeopathic Pharmacopoeia of the United States, or official National Formulary, or any supplement to any of them; and (B) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals; and (C) articles (other than food) intended to affect the structure or any function of the body of man or other animals; and (D) articles intended for use as a component of any article specified in clause (A), (B), or (C). A food or dietary supplement for which a claim, subject to sections 343(r)(1)(B) and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of section 343(r) of this title is not a drug solely because the label or the labeling contains such a claim. A food, dietary ingredient, or dietary supplement for which a truthful and not misleading statement is made in accordance with section 343(r)(6) of this title is not a drug under clause (C) solely because the label or the labeling contains such a statement.
+(g)(1) The term "drug" means (A) articles recognized in the official United States Pharmacopoeia,<sup>1</sup> official Homoeopathic Pharmacopoeia of the United States, or official National Formulary, or any supplement to any of them; and (B) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals; and (C) articles (other than food) intended to affect the structure or any function of the body of man or other animals; and (D) articles intended for use as a component of any article specified in clause (A), (B), or (C). A food or dietary supplement for which a claim, subject to sections 343(r)(1)(B) and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of section 343(r) of this title is not a drug solely because the label or the labeling contains such a claim. A food, dietary ingredient, or dietary supplement for which a truthful and not misleading statement is made in accordance with section 343(r)(6) of this title is not a drug under clause (C) solely because the label or the labeling contains such a statement.
 
-(2) The term "counterfeit drug" means a drug which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, or device, or any likeness thereof, of a drug manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributedsuch drug and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other drug manufacturer, processor, packer, or distributor.
+(2) The term "counterfeit drug" means a drug which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, or device, or any likeness thereof, of a drug manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributed such drug and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other drug manufacturer, processor, packer, or distributor.
 
 (h) The term "device" (except when used in paragraph (n) of this section and in sections 331(i), 343(f), 352(c), and 362(c) of this title) means an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including any component, part, or accessory, which is—
 
@@ -40,7 +40,7 @@ For the purposes of this chapter—
 
 (m) The term "labeling" means all labels and other written, printed, or graphic matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such article.
 
-(n) If an article is alleged to be misbranded because the labeling or advertising is misleading, then in determining whether the labeling or advertising is misleading there shall be taken into account (among other things) not only representations made or suggested by statement, word, design, device, or any combination thereof, but also the extent to which the labeling or advertising fails to reveal facts material in the light of such representations or material with respect to consequences which may result from the use of the article to which the labeling or advertising relates under the conditions of use prescribed in the labeling or advertising thereof or under such conditions of use as are customary or usual.
+(n) If an article is alleged to be misbranded because the labeling or advertising is misleading, then in determining whether the labeling or advertising is misleading there shall be taken into account (among other things) not only representations made or suggested by statement, word, design, device, or any combination thereof, but also the extent to which the labeling or advertising fails to reveal facts material in the lightof such representations or material with respect to consequences which may result from the use of the article to which the labeling or advertising relates under the conditions of use prescribed in the labeling or advertising thereof or under such conditions of use as are customary or usual.
 
 (o) The representation of a drug, in its labeling, as an antiseptic shall be considered to be a representation that it is a germicide, except in the case of a drug purporting to be, or represented as, an antiseptic for inhibitory use as a wet dressing, ointment, dusting powder, or such other use as involves prolonged contact with the body.
 
@@ -104,7 +104,7 @@ For the purposes of this chapter—
 
 (2) The term "color" includes black, white, and intermediate grays.
 
-(3) Nothing in subparagraph (1) of this paragraph shall be construed to apply to any pesticide chemical, soil or plant nutrient, or other agricultural chemical solely because of its effect in aiding, retarding, or otherwise affecting, directly or indirectly, the growth or other natural physiological processes of produce of the soiland thereby affecting its color, whether before or after harvest.
+(3) Nothing in subparagraph (1) of this paragraph shall be construed to apply to any pesticide chemical, soil or plant nutrient, or other agricultural chemical solely because of its effect in aiding, retarding, or otherwise affecting, directly or indirectly, the growth or other natural physiological processes of produce of the soil and thereby affecting its color, whether before or after harvest.
 
 (u) The term "safe" as used in paragraph (s) of this section and in sections 348, 360b, 360ccc, and 379e of this title, has reference to the health of man or animal.
 
@@ -116,7 +116,7 @@ For the purposes of this chapter—
 
 > Provided that any drug intended for minor use or use in a minor species that is not the subject of a final regulation published by the Secretary through notice and comment rulemaking finding that the criteria of paragraphs (1) and (2) have not been met (or that the exception to the criterion in paragraph (1) has been met) is a new animal drug.
 
-(w) The term "animal feed", as used in paragraph (w) <sup>1</sup> of this section, in section 360b of this title, and in provisions of this chapter referring to such paragraph or section, means an article which is intended for use for food for animals other than man and which is intended for use as a substantial source of nutrients in the diet of the animal, and is not limited to a mixture intended to be the sole ration of the animal.
+(w) The term "animal feed", as used in paragraph (w) <sup>2</sup> of this section, in section 360b of this title, and in provisions of this chapter referring to such paragraph or section, means an article which is intended for use for food for animals other than man and which is intended for use as a substantial source of nutrients in the diet of the animal, and is not limited to a mixture intended to be the sole ration of the animal.
 
 (x) The term "informal hearing" means a hearing which is not subject to section 554, 556, or 557 of title 5 and which provides for the following:
 
@@ -124,7 +124,7 @@ For the purposes of this chapter—
 
 &emsp;(2) Each party to the hearing shall have the right at all times to be advised and accompanied by an attorney.
 
-&emsp;(3) Before the hearing, each party to the hearing shall be given reasonable notice of the matters to be considered at the hearing, including a comprehensive statement of the basis for the action taken or proposed by the Secretary which is the subject of the hearing and a general summary of the information which will be presented by the Secretary at the hearing in support of such action.
+&emsp;(3) Before the hearing, each party to the hearing shall be given reasonable notice of thematters to be considered at the hearing, including a comprehensive statement of the basis for the action taken or proposed by the Secretary which is the subject of the hearing and a general summary of the information which will be presented by the Secretary at the hearing in support of such action.
 
 &emsp;(4) At the hearing the parties to the hearing shall have the right to hear a full and complete statement of the action of the Secretary which is the subject of the hearing together with the information and reasons supporting such action, to conduct reasonable questioning, and to present any oral or written information relevant to such action.
 
@@ -208,7 +208,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(ii) an article authorized for investigation as a new drug, antibiotic, or biological for which substantial clinical investigations have been instituted and for which the existence of such investigations has been made public,
 
-> &emsp;which was not before such approval, certification, licensing, or authorization marketed as a dietary supplement or as a food unless the Secretary, in the Secretary's discretion, has issued a regulation, after notice and comment, finding that the article would be lawful under this chapter.<sup>2</sup>
+> &emsp;which was not before such approval, certification, licensing, or authorization marketedas a dietary supplement or as a food unless the Secretary, in the Secretary's discretion, has issued a regulation, after notice and comment, finding that the article would be lawful under this chapter.<sup>3</sup>
 
 > Except for purposes of paragraph (g) and section 350f of this title, a dietary supplement shall be deemed to be a food within the meaning of this chapter.
 
@@ -268,7 +268,7 @@ Priority supplement.—The term "priority supplement" means a drug application r
 
 (4) A tobacco product shall not be marketed in combination with any other article or product regulated under this chapter (including a drug, biologic, food, cosmetic, medical device, or a dietary supplement).
 
-(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908; Pub. L. 110–85, title X, §1005(c), Sept. 27, 2007, 121 Stat. 968; Pub. L. 111–31, div. A, title I, §101(a), June 22, 2009, 123 Stat. 1783; Pub. L. 114–255, div. A, title III, §3060(d), Dec. 13, 2016, 130 Stat. 1133.)
+(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II,§701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908; Pub. L. 110–85, title X, §1005(c), Sept. 27, 2007, 121 Stat. 968; Pub. L. 111–31, div. A, title I, §101(a), June 22, 2009, 123 Stat. 1783; Pub. L. 114–255, div. A, title III, §3060(d), Dec. 13, 2016, 130 Stat. 1133.)
 
 #### References in Text
 
@@ -432,7 +432,7 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 #### Effective Date of 1968 Amendments; Transitional Provisions
 
-Pub. L. 90–639, §6, Oct. 24, 1968, 82 Stat. 1362, provided that: "The amendments made by this Act \[amending this section, sections 331, 333, 334, and 360a of this title, and provisions set out as a note under section 289a of Title 42, The Public Health and Welfare\] shall apply only with respect to violations of the Federal Food, Drug, and Cosmetic Act \[this chapter\] committed after the date of the enactment of this Act \[Oct. 24, 1968\]."
+Pub. L. 90–639, §6, Oct. 24, 1968, 82 Stat. 1362, provided that: "The amendments made by this Act \[amendingthis section, sections 331, 333, 334, and 360a of this title, and provisions set out as a note under section 289a of Title 42, The Public Health and Welfare\] shall apply only with respect to violations of the Federal Food, Drug, and Cosmetic Act \[this chapter\] committed after the date of the enactment of this Act \[Oct. 24, 1968\]."
 
 Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, except that in the case of a drug (other than one subject to section 360b(n) of this title) intended for use in animals other than man which, on Oct. 9, 1962, was commercially used or sold in the United States, was not a new drug as defined in par. (p) of this section then in force, and was not covered by an effective application under section 355 of this title, the words "effectiveness" and "effective" contained in par. (v) of this section not applicable to such drug when intended solely for use under conditions prescribed, recommended, or suggested in labeling with respect to such drug on that day, see section 108(a), (b)(3) of Pub. L. 90–399, as amended, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
 
@@ -478,7 +478,7 @@ Amendment by Pub. L. 102–282 not to preclude any other civil, criminal, or adm
 
 #### Construction of Amendments by Pub. L. 101–535
 
-Amendments by Pub. L. 101–535 not to be construed to alter authority of Secretary of Health and Human Services and Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.), see section 9 of Pub. L. 101–535, set out as a note under section 343 of this title.
+Amendments by Pub. L. 101–535 not to be construed to alter authority of Secretary of Health and Human Services and Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 etseq.), the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.), see section 9 of Pub. L. 101–535, set out as a note under section 343 of this title.
 
 #### Savings Provision
 
@@ -564,7 +564,7 @@ Pub. L. 89–74, §2, July 15, 1965, 79 Stat. 226, provided that: "The Congress 
 
 Pub. L. 89–74, §10, July 15, 1965, 79 Stat. 235, provided that:
 
-"(a) Nothing in this Act \[enacting section 360a of this title, amending sections 321, 331, 333, 334, 360, and 372 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 321, 352, and 360a of this title\] shall beconstrued as authorizing the manufacture, compounding, processing, possession, sale, delivery, or other disposal of any drug in any State in contravention of the laws of such State.
+"(a) Nothing in this Act \[enacting section 360a of this title, amending sections 321, 331, 333, 334, 360, and 372 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 321, 352, and 360a of this title\] shall be construed as authorizing the manufacture, compounding, processing, possession, sale, delivery, or other disposal of any drug in any State in contravention of the laws of such State.
 
 "(b) No provision of this Act nor any amendment made by it shall be construed as indicating an intent on the part of the Congress to occupy the field in which such provision or amendment operates to the exclusion of any State law on the same subject matter, unless there is a direct and positive conflict between such provision or amendment and such State law so that the two cannot be reconciled or consistently stand together.
 
@@ -578,7 +578,9 @@ Pub. L. 87–781, title II, §202, Oct. 10, 1962, 76 Stat. 793, provided that: "
 
 Pub. L. 105–115, §2, Nov. 21, 1997, 111 Stat. 2297, provided that: "In this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\], the terms 'drug', 'device', 'food', and 'dietary supplement' have the meaning given such terms in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321)."
 
-<i><sup>1</sup></i><i> So in original. Probably should be paragraph "(v)".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Pharmacopeia,".</i>
 
-<i><sup>2</sup></i><i> So in original. Provision probably should be set flush with subpar. (B).</i>
+<i><sup>2</sup></i><i> So in original. Probably should be paragraph "(v)".</i>
+
+<i><sup>3</sup></i><i> So in original. Provision probably should be set flush with subpar. (B).</i>
 

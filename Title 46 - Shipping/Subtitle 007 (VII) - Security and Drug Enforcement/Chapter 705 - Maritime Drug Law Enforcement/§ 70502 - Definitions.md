@@ -2,7 +2,7 @@
 
 (a)
 
-Application of Other Definitions.—The definitions in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) apply to this chapter.
+Application of Other Definitions.—The definitions in section 102 of the ComprehensiveDrug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) apply to this chapter.
 
 (b)
 
@@ -92,7 +92,7 @@ Semi-submersible vessel.—The term "semi-submersible vessel" means any watercra
 
 Submersible vessel.—The term "submersible vessel" means a vessel that is capable of operating completely below the surface of the water, including both manned and unmanned watercraft.
 
-(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1685; Pub. L. 109–241, title III, §303, July 11, 2006, 120Stat. 527; Pub. L. 110–181, div. C, title XXXV, §3525(a)(6), (b), Jan. 28, 2008, 122 Stat. 601; Pub. L. 110–407, title II, §203, Oct. 13, 2008, 122 Stat. 4300.)
+(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1685; Pub. L. 109–241, title III, §303, July 11, 2006, 120 Stat. 527; Pub. L. 110–181, div. C, title XXXV, §3525(a)(6), (b), Jan. 28, 2008, 122 Stat. 601; Pub. L. 110–407, title II, §203, Oct. 13, 2008, 122 Stat. 4300.)
 
 Historical and Revision Notes
 

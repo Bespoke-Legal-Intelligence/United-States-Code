@@ -20,7 +20,7 @@ Each order issued under this chapter shall contain the terms and conditions pres
 
 #### (A) In general
 
-&emsp;&emsp;In making appointments, the Secretary shall take into account, to the extent practicable, the geographical distribution of mushroom production throughout the United States, and the comparative volume of mushrooms imported into the United States.
+&emsp;&emsp;In making appointments, the Secretary shall take into account, to the extent practicable, the geographical distribution ofmushroom production throughout the United States, and the comparative volume of mushrooms imported into the United States.
 
 #### (B) Units
 
@@ -234,7 +234,7 @@ The Agricultural Marketing Act of 1946, referred to in subsec. (h), is title II 
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

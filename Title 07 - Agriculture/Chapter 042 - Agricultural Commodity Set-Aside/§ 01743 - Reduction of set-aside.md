@@ -12,7 +12,7 @@
 
 &emsp;(5) Donation, sale, or other disposition for research, experimental, or educational purposes;
 
-&emsp;(6) Donation, sale, or other disposition for disaster relief purposes in the United States orto meet any national emergency declared by the President; and
+&emsp;(6) Donation, sale, or other disposition for disaster relief purposes in the United States or to meet any national emergency declared by the President; and
 
 &emsp;(7) Sale for unrestricted use to meet a need for increased supplies at not less than 105 per centum of the parity price in the case of agricultural commodities and a price reflecting 105 per centum of the parity price of the agricultural commodity in the case of products of agricultural commodities.
 

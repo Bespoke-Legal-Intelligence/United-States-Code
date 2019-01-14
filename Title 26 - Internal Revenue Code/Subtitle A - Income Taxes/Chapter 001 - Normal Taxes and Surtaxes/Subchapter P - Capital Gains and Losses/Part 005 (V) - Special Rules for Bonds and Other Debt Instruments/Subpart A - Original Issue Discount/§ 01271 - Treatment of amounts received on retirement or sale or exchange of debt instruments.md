@@ -16,13 +16,13 @@ For purposes of this title—
 
 &emsp;&emsp;&emsp;(i) the original issue discount, reduced by
 
-&emsp;&emsp;&emsp;(ii) the portion of original issue discount previously includible in the gross income of any holder (without regard to subsection (a)(7) or (b)(4) of section 1272 (or the corresponding provisions of prior law)),
+&emsp;&emsp;&emsp;(ii) the portion of original issue discount previously includible in the gross income of any holder (without regard to section 1272(a)(7) (or the corresponding provisions of prior law)),
 
 > &emsp;&emsp;shall be treated as ordinary income.
 
 #### (B) Exceptions
 
-&emsp;&emsp;This paragraph (and paragraph (2) of subsection (c)) shall not apply to—
+&emsp;&emsp;This paragraph shall not apply to—
 
 &emsp;&emsp;&emsp;(i) any tax-exempt obligation, or
 
@@ -32,11 +32,11 @@ For purposes of this title—
 
 #### (A) In general
 
-&emsp;&emsp;On the sale or exchange of any short-term Government obligation, any gain realizedwhich does not exceed an amount equal to the ratable share of the acquisition discount shall be treated as ordinary income.
+&emsp;&emsp;On the sale or exchange of any short-term Government obligation, any gain realized which does not exceed an amount equal to the ratable share of the acquisition discount shall be treated as ordinary income.
 
 #### (B) Short-term Government obligation
 
-&emsp;&emsp;For purposes of this paragraph, the term "short-term Government obligation" means any obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia, which has a fixed maturity date not more than 1 year from the date of issue. Such term does not include any tax-exempt obligation.
+&emsp;&emsp;For purposes of this paragraph, the term "short-term Government obligation" meansany obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia, which has a fixed maturity date not more than 1 year from the date of issue. Such term does not include any tax-exempt obligation.
 
 #### (C) Acquisition discount
 
@@ -96,41 +96,35 @@ For purposes of this title—
 
 #### (1) In general
 
-&emsp;This section shall not apply to—
-
-&emsp;&emsp;(A) any obligation issued by a natural person before June 9, 1997, and
-
-&emsp;&emsp;(B) any obligation issued before July 2, 1982, by an issuer which is not a corporation and is not a government or political subdivision thereof.
+&emsp;This section shall not apply to any obligation issued by a natural person before June 9, 1997.
 
 #### (2) Termination
 
-&emsp;Paragraph (1) shall not apply to any obligation purchased (within the meaning of section 1272(d)(1)) after June 8, 1997.
+&emsp;Paragraph (1) shall not apply to any obligation purchased (within the meaning of section 1272(d)(1)) <sup>1</sup> after June 8, 1997.
 
-#### (c) Special rule for certain obligations with respect to which original issue discount not currently includible
-
-#### (1) In general
-
-&emsp;On the sale or exchange of debt instruments issued by a government or political subdivision thereof after December 31, 1954, and before July 2, 1982, or by a corporation after December 31, 1954, and on or before May 27, 1969, any gain realized which does not exceed—
-
-&emsp;&emsp;(A) an amount equal to the original issue discount, or
-
-&emsp;&emsp;(B) if at the time of original issue there was no intention to call the debt instrument before maturity, an amount which bears the same ratio to the original issue discount as the number of complete months that the debt instrument was held by the taxpayer bears to the number of complete months from the date of original issue to the date of maturity, shall be considered as ordinary income.
-
-#### (2) Subsection (a)(2)(A) not to apply
-
-&emsp;Subsection (a)(2)(A) shall not apply to any debt instrument referred to in paragraph (1) of this subsection.
-
-#### (3) Cross reference
-
-&emsp;For current inclusion of original issue discount, see section 1272.
-
-#### (d) Double inclusion in income not required
+#### (c) Double inclusion in income not required
 
 This section and sections 1272 and 1286 shall not require the inclusion of any amount previously includible in gross income.
 
-(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 531; amended Pub. L. 99–514, title XVIII, §1803(a)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2791, 2792; Pub. L. 100–647, title I, §1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 105–34, title X, §1003(c)(1), Aug. 5, 1997, 111 Stat. 910; Pub. L. 113–295, div. A, title II, §221(a)(86), Dec. 19, 2014, 128 Stat. 4049.)
+(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 531; amended Pub. L. 99–514, title XVIII, §1803(a)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2791, 2792; Pub. L. 100–647, title I, §1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 105–34, title X, §1003(c)(1), Aug. 5, 1997, 111 Stat. 910; Pub. L. 113–295, div. A, title II, §221(a)(86), Dec. 19, 2014, 128 Stat. 4049; Pub. L. 115–141, div. U, title IV, §401(c)(1)(A), (D), (E), Mar. 23, 2018, 132 Stat. 1205.)
+
+#### References in Text
+
+Section 1272(d), referred to in subsec. (b)(2), was redesignated section 1272(c) by Pub. L. 115–141, div. U, title IV, §401(c)(1)(B), Mar. 23, 2018, 132 Stat. 1205.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2)(A)(ii). Pub. L. 115–141, §401(c)(1)(D), substituted "section 1272(a)(7)" for "subsection (a)(7) or (b)(4) of section 1272".
+
+Subsec. (a)(2)(B). Pub. L. 115–141, §401(c)(1)(A)(ii), struck out "(and paragraph (2) of subsection (c))" after "This paragraph" in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 115–141, §401(c)(1)(E), amended par. (1) generally. Prior to amendment, text read as follows: "This section shall not apply to—
+
+&emsp;"(A) any obligation issued by a natural person before June 9, 1997, and
+
+&emsp;"(B) any obligation issued before July 2, 1982, by an issuer which is not a corporation and is not a government or political subdivision thereof."
+
+Subsecs. (c), (d). Pub. L. 115–141, §401(c)(1)(A)(i), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to special rule for certain obligations with respect to which original issue discount not currently includible.
 
 <b>2014</b>—Subsec. (c). Pub. L. 113–295 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to transition rules, including special rules for certain obligations issued before Jan. 1, 1955, and for certain obligations with respect to which original issue discount was not currently includible.
 
@@ -163,6 +157,10 @@ Subsec. (a)(3)(D). Pub. L. 99–514, §1803(a)(2)(B), inserted "except as provid
 Subsec. (a)(3)(E). Pub. L. 99–514, §1803(a)(2)(A), added subpar. (E).
 
 Subsec. (a)(4). Pub. L. 99–514, §1803(a)(1)(A), added par. (4).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–141 applicable to debt instruments issued on or after July 2, 1982, see section 401(c)(1)(H) of Pub. L. 115–141, set out as a note under section 163 of this title.
 
 #### Effective Date of 2014 Amendment
 
@@ -380,7 +378,7 @@ Residences.—Any sale or exchange of a residence by an individual, an estate, o
 
 Farms.—Any sale or exchange by a qualified person of—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) real property which was used as a farm (within the meaning of section 6420(c)(2)) at alltimes during the 3-year period ending on the date of such sale or exchange, or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) real property which was used as a farm (within the meaning of section 6420(c)(2)) at all times during the 3-year period ending on the date of such sale or exchange, or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) tangible personal property which was used in the active conduct of the trade or business of farming on such farm and is sold in connection with the sale of such farm,
 
@@ -536,7 +534,7 @@ Treatment of Original Issue Discount on Tax-Exempt Obligations.—Section 1288 o
 
 "(g)
 
-Repeal of Capital Asset Requirement.—Section 1272 of such Code (as added by section 41) shall not apply to any obligation issued on or before December 31, 1984, which is not a capital asset in the hands of the taxpayer.
+Repeal of Capital Asset Requirement.—Section 1272 of such Code (as added by section 41) shall notapply to any obligation issued on or before December 31, 1984, which is not a capital asset in the hands of the taxpayer.
 
 "(h)
 
@@ -563,4 +561,6 @@ Clarification That Prior Effective Date Rules Not Affected.—Nothing in the ame
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

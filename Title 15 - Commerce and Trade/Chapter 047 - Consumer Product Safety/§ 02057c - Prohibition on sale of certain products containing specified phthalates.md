@@ -14,7 +14,7 @@ Beginning on the date that is 180 days after August 14, 2008, it shall be unlawf
 
 #### (A) Appointment
 
-&emsp;&emsp;Not earlier than 180 days after August 14, 2008, the Commission shall begin the process of appointing a Chronic Hazard Advisory Panel pursuant to the procedures of section 28 of the Consumer Product Safety Act (15 U.S.C. 2077) to study the effects on children's health of all phthalates and phthalate alternatives as used in children's toys and child care articles.
+&emsp;&emsp;Not earlier than 180 days after August 14, 2008, the Commission shall begin the process of appointing a Chronic Hazard Advisory Panel pursuant to the procedures of section 28 of the Consumer Product Safety Act (15 U.S.C. 2077) to study the effects on children'shealth of all phthalates and phthalate alternatives as used in children's toys and child care articles.
 
 #### (B) Examination
 
@@ -44,7 +44,7 @@ Beginning on the date that is 180 days after August 14, 2008, it shall be unlawf
 
 #### (3) Permanent prohibition by rule
 
-&emsp;Not later than 180 days after receiving the report of the panel under paragraph (2)(C), theCommission shall, pursuant to section 553 of title 5, promulgate a final rule to—
+&emsp;Not later than 180 days after receiving the report of the panel under paragraph (2)(C), the Commission shall, pursuant to section 553 of title 5, promulgate a final rule to—
 
 &emsp;&emsp;(A) determine, based on such report, whether to continue in effect the prohibition under paragraph (1), in order to ensure a reasonable certainty of no harm to children, pregnant women, or other susceptible individuals with an adequate margin of safety; and
 

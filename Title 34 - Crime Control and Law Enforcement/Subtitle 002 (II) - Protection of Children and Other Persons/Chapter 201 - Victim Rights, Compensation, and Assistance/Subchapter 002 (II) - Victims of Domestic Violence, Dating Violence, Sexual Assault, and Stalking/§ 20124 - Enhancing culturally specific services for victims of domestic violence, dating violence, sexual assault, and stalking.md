@@ -52,7 +52,7 @@
 
 #### (3) Technical assistance and training
 
-&emsp;The Director shall provide technical assistance and training to grantees of this and other programs under this Act regarding the development and provision of effective culturally specific community-based services by entering into cooperative agreements or contracts with an organization or organizations having a demonstrated expertise in and whose primary purpose is addressing the development and provision of culturally specific community-based services to victims of domestic violence, dating violence, sexual assault, and stalking.
+&emsp;The Director shall provide technical assistance and training to grantees of this and other programs under this Act regarding the development and provision of effective culturally specific community-based services by entering into cooperative agreements or contracts with an organization or organizations having ademonstrated expertise in and whose primary purpose is addressing the development and provision of culturally specific community-based services to victims of domestic violence, dating violence, sexual assault, and stalking.
 
 #### (c) Eligible entities
 

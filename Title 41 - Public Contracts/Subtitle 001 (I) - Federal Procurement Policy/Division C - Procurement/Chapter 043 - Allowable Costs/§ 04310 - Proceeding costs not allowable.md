@@ -36,7 +36,7 @@ In General.—Except as otherwise provided in this section, costs incurred by a 
 
 Covered Dispositions.—A disposition referred to in subsection (b)(2) is any of the following:
 
-&emsp;(1) In a criminal proceeding, a conviction (including a conviction pursuant to a plea of nolo contendere) by reason of the violation or failure referred to in subsection (b).
+&emsp;(1) In a criminal proceeding, a conviction (including a conviction pursuant to a plea ofnolo contendere) by reason of the violation or failure referred to in subsection (b).
 
 &emsp;(2) In a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor, subcontractor, or personal services contractor liability on the basis of the violation or failure referred to in subsection (b).
 

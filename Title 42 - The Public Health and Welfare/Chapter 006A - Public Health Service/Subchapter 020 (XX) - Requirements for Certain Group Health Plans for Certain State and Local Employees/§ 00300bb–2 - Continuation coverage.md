@@ -14,7 +14,7 @@ For purposes of section 300bb–1 of this title, the term "continuation coverage
 
 #### (i) General rule for terminations and reduced hours
 
-&emsp;&emsp;&emsp;In the case of a qualifying event described in section 300bb–3(2) of this title, except as provided in clause (ii), the date which is 18 months after the date of the qualifying event.
+&emsp;&emsp;&emsp;In the case of a qualifying event described in section 300bb–3(2) of this title,except as provided in clause (ii), the date which is 18 months after the date of the qualifying event.
 
 #### (ii) Special rule for multiple qualifying events
 
@@ -74,7 +74,7 @@ For purposes of section 300bb–1 of this title, the term "continuation coverage
 
 &emsp;In the case of a qualified beneficiary whose period of continuation coverage expires under paragraph (2)(A), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
 
-(July 1, 1944, ch. 373, title XXII, §2202, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 233; amended Pub. L. 99–514, title XVIII,§1895(d)(1)(C), (2)(C), (3)(C), (4)(C), Oct. 22, 1986, 100 Stat. 2937–2939; Pub. L. 101–239, title VI, §§6702(a), (b), 6801(b)(1)(A), (2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2295, 2297; Pub. L. 104–188, title I, §1704(g)(1)(C), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 104–191, title IV, §421(a)(1), Aug. 21, 1996, 110 Stat. 2087; Pub. L. 111–5, div. B, title I, §1899F(c), Feb. 17, 2009, 123 Stat. 429; Pub. L. 111–344, title I, §116(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–40, title II, §243(a)(5), Oct. 21, 2011, 125 Stat. 420.)
+(July 1, 1944, ch. 373, title XXII, §2202, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 233; amended Pub. L. 99–514, title XVIII, §1895(d)(1)(C), (2)(C), (3)(C), (4)(C), Oct. 22, 1986, 100 Stat. 2937–2939; Pub. L. 101–239, title VI, §§6702(a), (b), 6801(b)(1)(A), (2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2295, 2297; Pub. L. 104–188, title I, §1704(g)(1)(C), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 104–191, title IV, §421(a)(1), Aug. 21, 1996, 110 Stat. 2087; Pub. L. 111–5, div. B, title I, §1899F(c), Feb. 17, 2009, 123 Stat. 429; Pub. L. 111–344, title I, §116(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–40, title II, §243(a)(5), Oct. 21, 2011, 125 Stat. 420.)
 
 #### References in Text
 
@@ -130,13 +130,13 @@ Maximum period.—In the case of—
 
 Par. (2)(C). Pub. L. 99–514, §1895(d)(3)(C), inserted at end "The payment of any premium (other than any payment referred to in the last sentence of paragraph (3)) shall be considered to be timely if made within 30 days after the date due or within such longer period as applies to or under the plan."
 
-Par. (2)(D). Pub. L. 99–514, §1895(d)(4)(C)(ii), (iii), substituted "Group health plan coverage" for "Reemployment" in heading, added cl. (i), and struck out former cl. (i) which read as follows: "a covered employee under any other group health plan, or".
+Par. (2)(D). Pub. L. 99–514, §1895(d)(4)(C)(ii), (iii), substituted "Group health plan coverage" for "Reemployment" in heading, added cl. (i), and struck out formercl. (i) which read as follows: "a covered employee under any other group health plan, or".
 
 Par. (2)(E). Pub. L. 99–514, §1895(d)(4)(C)(i), struck out subpar. (E), remarriage of spouse, which read as follows: "In the case of an individual who is a qualified beneficiary by reason of being the spouse of a covered employee, the date on which the beneficiary remarries and becomes covered under a group health plan."
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–40 applicable to periods of coverage which would (without regard to the amendments made by section 243 of Pub. L. 112–40) end on or after the date which is 30 days after Oct. 21, 2011, seesection 243(b) of Pub. L. 112–40, set out as a note under section 4980B of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 112–40 applicable to periods of coverage which would (without regard to the amendments made by section 243 of Pub. L. 112–40) end on or after the date which is 30 days after Oct. 21, 2011, see section 243(b) of Pub. L. 112–40, set out as a note under section 4980B of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2010 Amendment
 

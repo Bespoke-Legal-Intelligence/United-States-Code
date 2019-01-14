@@ -60,11 +60,11 @@ For purposes of this chapter, the term "wages" means all remuneration for employ
 
 &emsp;&emsp;(E) under or to an exempt governmental deferred compensation plan (as defined in section 3121(v)(3)),
 
-&emsp;&emsp;(F) to supplement pension benefits under a plan or trust described in any of the foregoing provisions of this paragraph to take into account some portion or all of the increase in the cost of living (as determined by the Secretary of Labor) since retirement but only if such supplemental payments are under a plan which is treated as a welfare plan under section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974; <sup>1</sup>
+&emsp;&emsp;(F) to supplement pension benefits under a plan or trust described in any of the foregoing provisions of this paragraph to take into account some portion or all of the increase in the cost of living (as determined by the Secretary of Labor) since retirement but only if such supplemental payments are under a plan which is treated as a welfare plan under section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974,
 
 &emsp;&emsp;(G) under a cafeteria plan (within the meaning of section 125) if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received, or
 
-&emsp;&emsp;(H) under an arrangement to which section 408(p) applies, other than any elective contributions under paragraph (2)(A)(i) thereof,<sup>2</sup>
+&emsp;&emsp;(H) under an arrangement to which section 408(p) applies, other than any elective contributions under paragraph (2)(A)(i) thereof,<sup>1</sup>
 
 &emsp;(6) the payment by an employer (without deduction from the remuneration of the employee)—
 
@@ -154,7 +154,7 @@ For purposes of this chapter, the term "employment" means any service performed 
 
 &emsp;(10)(A) service performed in any calendar quarter in the employ of any organization exempt from income tax under section 501(a) (other than an organization described in section 401(a)) or under section 521, if the remuneration for such service is less than $50, or
 
-&emsp;(B) service performed in the employ of a school, college, or university, if such service is performed (i) by a student who is enrolled and is regularly attending classes at such school,college, or university, or (ii) by the spouse of such a student, if such spouse is advised, at the time such spouse commences to perform such service, that (I) the employment of such spouse to perform such service is provided under a program to provide financial assistance to such student by such school, college, or university, and (II) such employment will not be covered by any program of unemployment insurance, or
+&emsp;(B) service performed in the employ of a school, college, or university, if such service is performed (i) by a student who is enrolled and is regularly attending classes at such school, college, or university, or (ii) by the spouse of such a student, if such spouse is advised, at the time such spouse commences to perform such service, that (I) the employment of such spouse to perform such service is provided under a program to provide financial assistance to such student by such school, college, or university, and (II) such employment will not be covered by any program of unemployment insurance, or
 
 &emsp;(C) service performed by an individual who is enrolled at a nonprofit or public educational institution which normally maintains a regular faculty and curriculum and normally has a regularly organized body of students in attendance at the place where its educational activities are carried on as a student in a full-time program, taken for credit at such institution, which combines academic instruction with work experience, if such service is an integral part of such program, and such institution has so certified to the employer, except that this subparagraph shall not apply to service performed in a program established for or on behalf of an employer or group of employers, or
 
@@ -174,7 +174,7 @@ For purposes of this chapter, the term "employment" means any service performed 
 
 &emsp;(15)(A) service performed by an individual under the age of 18 in the delivery or distribution of newspapers or shopping news, not including delivery or distribution to any point for subsequent delivery or distribution;
 
-&emsp;(B) service performed by an individual in, and at the time of, the sale of newspapers or magazines to ultimate consumers, under an arrangement under which the newspapers or magazines are to be sold by him at a fixed price, his compensation being based on the retention of the excess of such price over the amount at which the newspapers or magazines are charged to him, whether or not he is guaranteed a minimum amount of compensation for such service, or is entitled to be credited with the unsold newspapers or magazines turned back;
+&emsp;(B) service performed by an individual in, and at the time of, the sale of newspapers ormagazines to ultimate consumers, under an arrangement under which the newspapers or magazines are to be sold by him at a fixed price, his compensation being based on the retention of the excess of such price over the amount at which the newspapers or magazines are charged to him, whether or not he is guaranteed a minimum amount of compensation for such service, or is entitled to be credited with the unsold newspapers or magazines turned back;
 
 &emsp;(16) service performed in the employ of an international organization;
 
@@ -186,7 +186,7 @@ For purposes of this chapter, the term "employment" means any service performed 
 
 &emsp;(18) service described in section 3121(b)(20);
 
-&emsp;(19) Service <sup>3</sup> which is performed by a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(15)(F), (J), (M), or (Q)), and which is performed to carry out the purpose specified in subparagraph (F), (J), (M), or (Q), as the case may be;
+&emsp;(19) service which is performed by a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(15)(F), (J), (M), or (Q)), and which is performed to carry out the purpose specified in subparagraph (F), (J), (M), or (Q), as the case may be;
 
 &emsp;(20) service performed by a full time student (as defined in subsection (q)) in the employ of an organized camp—
 
@@ -202,7 +202,7 @@ For purposes of this chapter, the term "employment" means any service performed 
 
 #### (d) Included and excluded service
 
-For purposes of this chapter, if the services performed during one-half or more of any pay period by an employee for the person employing him constitute employment, all the services of such employee for such period shall be deemedto be employment; but if the services performed during more than one-half of any such pay period by an employee for the person employing him do not constitute employment, then none of the services of such employee for such period shall be deemed to be employment. As used in this subsection, the term "pay period" means a period (of not more than 31 consecutive days) for which a payment of remuneration is ordinarily made to the employee by the person employing him. This subsection shall not be applicable with respect to services performed in a pay period by an employee for the person employing him, where any of such service is excepted by subsection (c)(9).
+For purposes of this chapter, if the services performed during one-half or more of any pay period by an employee for the person employing him constitute employment, all the services of such employee for such period shall be deemed to be employment; but if the services performed during more than one-half of any such pay period by an employee for the person employing him do not constitute employment, then none of the services of such employee for such period shall be deemed to be employment. As used in this subsection, the term "pay period" means a period (of not more than 31 consecutive days) for which a payment of remuneration is ordinarily made to the employee by the person employing him. This subsection shall not be applicable with respect to services performed in a pay period by an employee for the person employing him, where any of such service is excepted by subsection (c)(9).
 
 #### (e) State agency
 
@@ -214,7 +214,7 @@ For purposes of this chapter, the term "unemployment fund" means a special fund,
 
 &emsp;(1) an amount equal to the amount of employee payments into the unemployment fund of a State may be used in the payment of cash benefits to individuals with respect to their disability, exclusive of expenses of administration;
 
-&emsp;(2) the amounts specified by section 903(c)(2) or 903(d)(4) of the Social Security Act may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices,<sup>2</sup>
+&emsp;(2) the amounts specified by section 903(c)(2) or 903(d)(4) of the Social Security Act may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices,<sup>1</sup>
 
 &emsp;(3) nothing in this subsection shall be construed to prohibit deducting any amount from unemployment compensation otherwise payable to an individual and using the amount so deducted to pay for health insurance, or the withholding of Federal, State, or local individual income tax, if the individual elected to have such deduction made and such deduction was made under a program approved by the Secretary of Labor;
 
@@ -266,7 +266,7 @@ For purposes of this chapter—
 
 For purposes of this chapter, the term "agricultural labor" has the meaning assigned to such term by subsection (g) of section 3121, except that for purposes of this chapter subparagraph (B) of paragraph (4) of such subsection (g) shall be treated as reading:
 
-&emsp;&emsp;"(B) in the employ of a group of operators of farms (or a cooperative organization ofwhich such operators are members) in the performance of service described in subparagraph (A), but only if such operators produced more than one-half of the commodity with respect to which such service is performed;".
+&emsp;&emsp;"(B) in the employ of a group of operators of farms (or a cooperative organization of which such operators are members) in the performance of service described in subparagraph (A), but only if such operators produced more than one-half of the commodity with respect to which such service is performed;".
 
 #### \[(l) Repealed. Sept. 1, 1954, ch. 1212, §4(c), 68 Stat. 1135\]
 
@@ -294,7 +294,7 @@ Notwithstanding the provisions of subsection (c)(6), service performed by office
 
 &emsp;&emsp;&emsp;(i) such crew leader holds a valid certificate of registration under the Migrant and Seasonal Agricultural Worker Protection Act; or
 
-&emsp;&emsp;&emsp;(ii) substantially all the members of such crew operate or maintain tractors, mechanized harvesting or crop-dusting equipment, or any other mechanized equipment, which is provided by such crew leader; and
+&emsp;&emsp;&emsp;(ii) substantially all the members of such crew operate or maintain tractors,mechanized harvesting or crop-dusting equipment, or any other mechanized equipment, which is provided by such crew leader; and
 
 &emsp;&emsp;(B) if such individual is not an employee of such other person within the meaning of subsection (i).
 
@@ -406,11 +406,11 @@ For the purposes of this chapter, the term "self-employment assistance program" 
 
 #### (u) Indian tribe
 
-For purposes of this chapter, the term "Indian tribe" has the meaning given to such term by section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)),<sup>4</sup> and includes any subdivision, subsidiary, or business enterprise wholly owned by such an Indian tribe.
+For purposes of this chapter, the term "Indian tribe" has the meaning given to such term by section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304(e)), and includes any subdivision, subsidiary, or business enterprise wholly owned by such an Indian tribe.
 
 #### (v) Short-time compensation program
 
-For purposes of this part,<sup>5</sup> the term "short-time compensation program" means a program under which—
+For purposes of this section, the term "short-time compensation program" means a program under which—
 
 &emsp;(1) the participation of an employer is voluntary;
 
@@ -422,7 +422,7 @@ For purposes of this part,<sup>5</sup> the term "short-time compensation program
 
 &emsp;(5) such employees meet the availability for work and work search test requirements while collecting short-time compensation benefits, by being available for their workweek as required by the State agency;
 
-&emsp;(6) eligible employees may participate, as appropriate, in training (including employer-sponsored training or worker training funded under the Workforce Investment Act of 1998) <sup>4</sup> to enhance job skills if such program has been approved by the State agency;
+&emsp;(6) eligible employees may participate, as appropriate, in training (including employer-sponsored training or worker training funded under the Workforce Investment Act of 1998) <sup>2</sup> to enhance job skills if such program has been approved by the State agency;
 
 &emsp;(7) the State agency shall require employers to certify that if the employer provides health benefits and retirement benefits under a defined benefit plan (as defined in section 414(j)) or contributions under a defined contribution plan (as defined in section 414(i)) to any employee whose workweek is reduced under the program that such benefits will continue to be provided to employees participating in the short-time compensation program under the same terms and conditions as though the workweek of such employee had not been reduced or to the same extent as other employees not participating in the short-time compensation program;
 
@@ -432,13 +432,13 @@ For purposes of this part,<sup>5</sup> the term "short-time compensation program
 
 &emsp;(10) upon request by the State and approval by the Secretary of Labor, only such other provisions are included in the State law that are determined to be appropriate for purposes of a short-time compensation program.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 447; Sept. 1, 1954, ch. 1212, §§1, 4(c), 68 Stat. 1130, 1135; Pub. L. 86–70, §22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(d), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title V, §§531(c), 532–534, 543(a), Sept. 13, 1960, 74 Stat. 983, 984, 986; Pub. L. 87–256, §110(f), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–792, §7(k), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–650, §4(c), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 90–248, title V, §504(b), Jan. 2, 1968, 81 Stat. 935; Pub. L. 91–53, §1, Aug. 7, 1969, 83 Stat. 91; Pub. L. 91–373, title I, §§101(a), 102(a), 103(a), 105(a), (b), 106(a), title III, §302, Aug. 10, 1970, 84 Stat. 696, 697, 699, 700, 713; Pub. L. 94–455, title XIX, §§1903(a)(16), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1810, 1834; Pub. L. 94–566, title I, §§111 (a), (b), 112(a), 113(a), 114(a), 116(b), title II, §211(a), Oct. 20, 1976, 90 Stat. 2667–2669, 2672, 2676; Pub. L. 95–216, title III, §314(b), Dec. 20, 1977, 91 Stat. 1536; Pub. L. 95–472, §3(a), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, §164(b)(2), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 96–84, §4(a), (b), Oct. 10, 1979, 93 Stat. 654; Pub. L. 96–222, title I, §101(a)(10)(B)(ii), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–499, title XI, §1141(b), Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title I, §124(e)(2)(A), title VIII, §822(a), Aug. 13, 1981, 95 Stat. 200, 351; Pub. L. 97–248, title II, §§271(a), 276(a)(1), (b)(1), (2), 277, Sept. 3, 1982, 96 Stat. 554, 558, 559; Pub. L. 98–21, title III, §§324(b)(1)–(4)(B), 327(c), 328(c), Apr. 20, 1983, 97 Stat. 123, 124, 127, 128; Pub. L. 98–135, title II, §§201(a), 202, Oct. 24, 1983, 97 Stat. 860; Pub. L. 98–369, div. A, title IV, §491(d)(37), title V, §531(d)(3), div. B, title VI, §2661(o)(4), July 18, 1984, 98 Stat. 851, 884, 1159; Pub. L. 99–272, title XII, §12401(b)(2), title XIII, §13303(a), Apr. 7, 1986, 100 Stat. 297, 327; Pub. L. 99–509, title IX, §9002(b)(2)(B), Oct. 21, 1986, 100 Stat. 1971; Pub. L. 99–514, title I, §122(e)(3), title XI, §§1108(g)(8), 1151(d)(2)(B), title XVIII, §§1884(3), 1899A(44), (45), Oct. 22, 1986, 100 Stat. 2112, 2435, 2505, 2919, 2961; Pub. L. 99–595, Oct. 31, 1986, 100 Stat. 3348; Pub. L. 100–647, title I, §§1001(d)(2)(C)(iii), (g)(4)(B)(ii), 1011B(a) (22)(C), (23)(A), 1018(u)(50), title VIII, §8016(a)(3)(B), Nov. 10, 1988, 102 Stat. 3351, 3352, 3486, 3593, 3792; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 102–318, title III, §303(a), title IV, §401(a)(2), title V, §521(b)(35), July 3, 1992, 106 Stat. 297, 298, 312; Pub. L. 103–182, title V, §507(a), (b)(2), Dec. 8, 1993, 107 Stat. 2153, 2154; Pub. L. 103–296, title III, §320(a)(1)(E), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §702(c)(2), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–188, title I, §§1203(a), 1421(b)(8)(C), 1704(t)(10), Aug. 20, 1996, 110 Stat. 1773, 1798, 1888; Pub. L. 104–191, title III, §301(c)(2)(B), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–33, title V, §5406(a), Aug. 5, 1997, 111 Stat. 605; Pub. L. 106–554, §1(a)(7) \[title I, §166(a), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–627; Pub. L. 107–147, title II, §209(d)(1), Mar. 9, 2002, 116 Stat. 33; Pub. L. 108–121, title I, §106(b)(3), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–173, title XII, §1201(d)(2)(B), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title II, §251(a)(3), title III, §320(b)(3), Oct. 22, 2004, 118 Stat. 1458, 1473; Pub. L. 108–375, div. A, title V, §585(b)(2)(C), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 110–245, title I, §115(b), June 17, 2008, 122 Stat. 1636; Pub. L. 112–96, title II, §2161(a)(1), (b)(1)(B), Feb. 22, 2012, 126 Stat. 171, 172; Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(vi), Dec. 19, 2014, 128 Stat. 4040; Pub. L. 114–92, div. C, title XXXV, §3503, Nov. 25, 2015, 129 Stat. 1219.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 447; Sept. 1, 1954, ch. 1212, §§1, 4(c), 68 Stat. 1130, 1135; Pub. L. 86–70, §22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(d), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title V, §§531(c), 532–534, 543(a), Sept. 13, 1960, 74 Stat. 983, 984, 986; Pub. L. 87–256, §110(f), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–792, §7(k), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–650, §4(c), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 90–248, title V, §504(b), Jan. 2, 1968, 81 Stat. 935; Pub. L. 91–53, §1, Aug. 7, 1969, 83 Stat. 91; Pub. L. 91–373, title I, §§101(a), 102(a), 103(a), 105(a), (b), 106(a), title III, §302, Aug. 10, 1970, 84 Stat. 696, 697, 699, 700, 713; Pub. L. 94–455, title XIX, §§1903(a)(16),1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1810, 1834; Pub. L. 94–566, title I, §§111 (a), (b), 112(a), 113(a), 114(a), 116(b), title II, §211(a), Oct. 20, 1976, 90 Stat. 2667–2669, 2672, 2676; Pub. L. 95–216, title III, §314(b), Dec. 20, 1977, 91 Stat. 1536; Pub. L. 95–472, §3(a), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, §164(b)(2), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 96–84, §4(a), (b), Oct. 10, 1979, 93 Stat. 654; Pub. L. 96–222, title I, §101(a)(10)(B)(ii), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–499, title XI, §1141(b), Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title I, §124(e)(2)(A), title VIII, §822(a), Aug. 13, 1981, 95 Stat. 200, 351; Pub. L. 97–248, title II, §§271(a), 276(a)(1), (b)(1), (2), 277, Sept. 3, 1982, 96 Stat. 554, 558, 559; Pub. L. 98–21, title III, §§324(b)(1)–(4)(B), 327(c), 328(c), Apr. 20, 1983, 97 Stat. 123, 124, 127, 128; Pub. L. 98–135, title II, §§201(a), 202, Oct. 24, 1983, 97 Stat. 860; Pub. L. 98–369, div. A, title IV, §491(d)(37), title V, §531(d)(3), div. B, title VI, §2661(o)(4), July 18, 1984, 98 Stat. 851, 884, 1159; Pub. L. 99–272, title XII, §12401(b)(2), title XIII, §13303(a), Apr. 7, 1986, 100 Stat. 297, 327; Pub. L. 99–509, title IX, §9002(b)(2)(B), Oct. 21, 1986, 100 Stat. 1971; Pub. L. 99–514, title I, §122(e)(3), title XI, §§1108(g)(8), 1151(d)(2)(B), title XVIII, §§1884(3), 1899A(44), (45), Oct. 22, 1986, 100 Stat. 2112, 2435, 2505, 2919, 2961; Pub. L. 99–595, Oct. 31, 1986, 100 Stat. 3348; Pub. L. 100–647, title I, §§1001(d)(2)(C)(iii), (g)(4)(B)(ii), 1011B(a) (22)(C), (23)(A), 1018(u)(50), title VIII, §8016(a)(3)(B), Nov. 10, 1988, 102 Stat. 3351, 3352, 3486, 3593, 3792; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 102–318, title III, §303(a), title IV, §401(a)(2), title V, §521(b)(35), July 3, 1992, 106 Stat. 297, 298, 312; Pub. L. 103–182, title V, §507(a), (b)(2), Dec. 8, 1993, 107 Stat. 2153, 2154; Pub. L. 103–296, title III, §320(a)(1)(E), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §702(c)(2), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–188, title I, §§1203(a), 1421(b)(8)(C), 1704(t)(10), Aug. 20, 1996, 110 Stat. 1773, 1798, 1888; Pub. L. 104–191, title III, §301(c)(2)(B), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–33, title V, §5406(a), Aug. 5, 1997, 111 Stat. 605; Pub. L. 106–554, §1(a)(7) \[title I, §166(a), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–627; Pub. L. 107–147, title II, §209(d)(1), Mar. 9, 2002, 116 Stat. 33; Pub. L. 108–121, title I, §106(b)(3), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–173, title XII, §1201(d)(2)(B), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title II, §251(a)(3), title III, §320(b)(3), Oct. 22, 2004, 118 Stat. 1458, 1473; Pub. L. 108–375, div. A, title V, §585(b)(2)(C), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 110–245, title I, §115(b), June 17, 2008, 122 Stat. 1636; Pub. L. 112–96, title II, §2161(a)(1), (b)(1)(B), Feb. 22, 2012, 126 Stat. 171, 172; Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(vi), Dec. 19, 2014, 128 Stat. 4040; Pub. L. 114–92, div. C, title XXXV, §3503, Nov. 25, 2015, 129 Stat. 1219; Pub. L. 115–141, div. U, title IV, §401(a)(212)–(215), Mar. 23, 2018, 132 Stat. 1194.)
 
 #### References in Text
 
 Section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(5)(F), is classified to section 1002(2)(B)(ii) of Title 29, Labor.
 
-Subchapter C of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (c), was comprised of sections 1600 to 1611 of former Title 26, Internal Revenue Code. Subchapter C of chapter 9 was repealed by section 7851(a)(3) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see table I preceding section 1 of this title. See, also, section 7851(e) of thistitle for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
+Subchapter C of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (c), was comprised of sections 1600 to 1611 of former Title 26, Internal Revenue Code. Subchapter C of chapter 9 was repealed by section 7851(a)(3) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
 Sections 214(c) and 101(a)(15)(H) of the Immigration and Nationality Act, referred to in subsec. (c)(1)(B), are classified to sections 1184(c) and 1101(a)(15)(H), respectively, of Title 8, Aliens and Nationality.
 
@@ -446,11 +446,17 @@ Sections 303(g), 903(c)(2), (d)(4), and 904(a) of the Social Security Act, refer
 
 The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (o)(1)(A)(i), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, as amended, which is classified generally to chapter 20 (§1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 29 and Tables.
 
-Section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)), referred to in subsec. (u), was classified to section 450b(e) of Title 25, Indians, prior to editorial reclassification as section 5304(e) of Title 25.
-
 The Workforce Investment Act of 1998, referred to in subsec. (v)(6), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(5)(F). Pub. L. 115–141, §401(a)(212), substituted comma for semicolon at end.
+
+Subsec. (c)(19). Pub. L. 115–141, §401(a)(213), substituted "service" for "Service".
+
+Subsec. (u). Pub. L. 115–141, §401(a)(214), substituted "25 U.S.C. 5304(e)" for "25 U.S.C. 450b(e)".
+
+Subsec. (v). Pub. L. 115–141, §401(a)(215), substituted "this section" for "this part" in introductory provisions.
 
 <b>2015</b>—Subsec. (n). Pub. L. 114–92 substituted "Secretary of Transportation" for "Secretary of Commerce" in par. (2) and concluding provisions.
 
@@ -660,7 +666,7 @@ Subsec. (c)(8). Pub. L. 86–778, §533, substituted "service performed in the e
 
 Subsec. (c)(10). Pub. L. 86–778, §534, struck out provisions which excepted from definition of "employment" service in connection with the collection of dues or premiums for a fraternal beneficiary society, order, or association which is preformed away from the home office or is ritualistic service in connection with any such society, order, or association, service performed in the employ of an agricultural or horticultural organization described in section 501(c)(5) of this title, service performed in the employ of a voluntary employees' beneficiary association providing for the payment of life, sick, accident, or other benefits to members or their dependents or designated beneficiaries, and service performed in the employ of a school, college, or university, not exempt from income tax under section 501(a) of this title if such service is performed by a student who is enrolled and regularly attending classes.
 
-Subsec. (j). Pub. L. 86–778, §543(a), included the Commonwealth of Puerto Rico and struck out "Hawaii" from definition of "State", defined "United States", and inserted provisions requiring an individual who is a citizen of the Commonwealth of Puerto Rico (but not otherwise a citizen of the United States) to be considered for purposes of this section, as a citizen of the United States.
+Subsec. (j). Pub. L. 86–778, §543(a), included the Commonwealth of Puerto Rico and struck out "Hawaii" from definition of "State", defined "United States", and inserted provisions requiring an individual who isa citizen of the Commonwealth of Puerto Rico (but not otherwise a citizen of the United States) to be considered for purposes of this section, as a citizen of the United States.
 
 Pub. L. 86–624 struck out "Hawaii, and" before "the District of Columbia".
 
@@ -762,7 +768,7 @@ Amendment by section 1011B(a)(22)(C) of Pub. L. 100–647 not applicable to any 
 
 Pub. L. 100–647, title I, §1018(u)(50), Nov. 10, 1988, 102 Stat. 3593, provided that the amendment made by that section is effective Apr. 7, 1986.
 
-Amendment by sections 1001(d)(2)(C)(iii), (g)(4)(B)(ii), and 1011B(a)(23)(A) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by sections 1001(d)(2)(C)(iii), (g)(4)(B)(ii), and 1011B(a)(23)(A) of Pub. L. 100–647 effective, except asotherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Amendment by section 8016(a)(3)(B) of Pub. L. 100–647 effective Nov. 10, 1988, except that any amendment to a provision of a particular Public Law which is referred to by its number, or to a provision of the Social Security Act \[42 U.S.C. 301 et seq.\], or to this title as added or amended by a provision of a particular Public Law which is so referred to, effective as though included or reflected in the relevant provisions of that Public Law at the time of its enactment, see section 8016(b) of Pub. L. 100–647, set out as a note under section 3111 of this title.
 
@@ -928,7 +934,7 @@ State Reports.—Any State operating a self-employment program authorized by the
 
 "(d)
 
-Report to Congress.—Not later than 4 years after the date of the enactment of this Act \[Dec. 8, 1993\], the Secretary of Labor shall submit a report to the Congress with respect to the operation of the program authorized under this section. Such report shall be based on the reports received from the States pursuant to subsection (c) and include such other information as the Secretary of Labor determines is appropriate."
+Report to Congress.—Not later than 4 years after the date of the enactment of this Act \[Dec. 8, 1993\], the Secretary of Labor shall submit a report to the Congress with respect to the operation of the program authorized under this section. Such report shallbe based on the reports received from the States pursuant to subsection (c) and include such other information as the Secretary of Labor determines is appropriate."
 
 #### Exclusion From Wages and Compensation of Refunds Required From Employers To Compensate for Duplication of Medicare Benefits by Health Care Benefits Provided by Employers
 
@@ -982,13 +988,7 @@ Pub. L. 98–21, title III, §324(b)(4)(C), Apr. 20, 1983, 97 Stat. 124, provide
 
 Applicability of subsec. (c)(6) of this section to Federal land banks, Federal intermediate credit banks, and banks for cooperatives, see section 531(g) of Pub. L. 86–778, set out as a note under section 3305 of this title.
 
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 
-<i><sup>2</sup></i><i> So in original. The comma probably should be a semicolon.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
-
-<i><sup>5</sup></i><i> So in original. This section is not contained in a part.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

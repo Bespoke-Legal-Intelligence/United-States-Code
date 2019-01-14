@@ -2,7 +2,7 @@
 
 (a)(1) An employee whose most recent performance rating was at the fully successful level or higher (or the equivalent thereof) may be paid a cash award under this section.
 
-(2) A cash award under this section shall be equal to an amount determined appropriate bythe head of the agency, but may not be more than 10 percent of the employee's annual rate of basic pay. Notwithstanding the preceding sentence, the agency head may authorize a cash award equal to an amount exceeding 10 percent of the employee's annual rate of basic pay if the agency head determines that exceptional performance by the employee justifies such an award, but in no case may an award under this section exceed 20 percent of the employee's annual rate of basic pay.
+(2) A cash award under this section shall be equal to an amount determined appropriate by the head of the agency, but may not be more than 10 percent of the employee's annual rate of basic pay. Notwithstanding the preceding sentence, the agency head may authorize a cash award equal to an amount exceeding 10 percent of the employee's annual rate of basic pay if the agency head determines that exceptional performance by the employee justifies such an award, but in no case may an award under this section exceed 20 percent of the employee's annual rate of basic pay.
 
 (b)(1) A cash award under this section shall be paid as a lump sum, and may not be considered to be part of the basic pay of an employee.
 
@@ -14,7 +14,7 @@
 
 (e) At the request of the head of an Executive agency, the President may authorize the application of subsections (a) through (c) with respect to any category of employees within such agency who would not otherwise be covered by this section.
 
-(Added Pub. L. 101–509, title V, §529 \[title II, §207(a)\], Nov. 5, 1990, 104 Stat. 1427, 1457; amended Pub. L. 102–378, §2(19), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 108–411, title III, §301(c), Oct. 30, 2004, 118 Stat. 2317; Pub. L. 115–73, title I, §107(a)(2)(A), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, §1097(b)(3)(A), Dec. 12, 2017, 131 Stat. 1617.)
+(Added Pub. L. 101–509, title V, §529 \[title II, §207(a)\], Nov. 5, 1990, 104 Stat. 1427, 1457; amended Pub. L. 102–378, §2(19), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 108–411, title III, §301(c), Oct. 30,2004, 118 Stat. 2317; Pub. L. 115–73, title I, §107(a)(2)(A), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, §1097(b)(3)(A), Dec. 12, 2017, 131 Stat. 1617.)
 
 #### Amendments
 

@@ -20,7 +20,7 @@ The Secretary shall establish a program of mandatory dairy product information r
 
 &emsp;&emsp;(ii) modify the format used to provide the information on the day before November 22, 2000, to ensure that the information can be readily understood by market participants; and
 
-&emsp;&emsp;(B) require each manufacturer and other person storing dairy products to report tothe Secretary, at a periodic interval determined by the Secretary, information on the quantity of dairy products stored.
+&emsp;&emsp;(B) require each manufacturer and other person storing dairy products to report to the Secretary, at a periodic interval determined by the Secretary, information on the quantity of dairy products stored.
 
 #### (2) Conditions
 
@@ -150,7 +150,7 @@ Subsecs. (d), (e). Pub. L. 110–246, §1510(a), added subsec. (d) and redesigna
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Implementation of Electronic Reporting System
 

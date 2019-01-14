@@ -10,7 +10,7 @@ Each plan for a unit established, redesignated, or expanded by subchapter LIX–
 
 &emsp;(1) Maps indicating areas of particular importance as to wilderness, natural, historical, wildlife, cultural, archeological, paleontological, geological, recreational, and similar resources and also indicating the areas into which such unit will be divided for administrative purposes.
 
-&emsp;(2) A description of the programs and methods that will be employed to manage fish andwildlife resources and habitats, cultural, geological, recreational, and wilderness resources, and how each conservation system unit will contribute to overall resources management goals of that region. Such programs should include research, protection, restoration, development, and interpretation as appropriate.
+&emsp;(2) A description of the programs and methods that will be employed to manage fish and wildlife resources and habitats, cultural, geological, recreational, and wilderness resources, and how each conservation system unit will contribute to overall resources management goals of that region. Such programs should include research, protection, restoration, development, and interpretation as appropriate.
 
 &emsp;(3) A description of any areas of potential or proposed development, indicating types of visitor services and facilities to be provided, the estimated costs of such services and facilities, and whether or not such services and facilities could and should be provided outside the boundaries of such unit.
 

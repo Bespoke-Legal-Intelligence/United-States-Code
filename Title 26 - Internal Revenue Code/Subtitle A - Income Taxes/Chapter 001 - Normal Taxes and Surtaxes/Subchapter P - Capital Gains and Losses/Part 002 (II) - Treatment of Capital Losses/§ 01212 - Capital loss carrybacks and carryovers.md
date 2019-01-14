@@ -188,7 +188,7 @@ Subsec. (a)(3), (4). Pub. L. 111–325, §101(a), added par. (3) and redesignate
 
 <b>2004</b>—Subsec. (a)(3). Pub. L. 108–357 reenacted heading without change and amended text of par. (3) generally. Prior to amendment, par. (3) provided that a net capital loss of a corporation would not be carried back under par. (1)(A) to a taxable year for which it was a foreign personal holding company (as defined in section 552), for which it was a regulated investment company (as defined in section 851), for which it was a real estate investment trust (as defined in section 856), or for which an election made by it under section 1247 was applicable (relating to election by foreign investment companies to distribute income currently).
 
-<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 substituted "Treatment of amounts allowed under section 1211(b)(1) or (2)" for "Special rule" as heading and amended text generally. Prior to amendment, text read as follows: "For purposes of determining the excess referred to in subparagraph (A) or (B) of paragraph (1), an amount equal to the amount allowed for the taxable year under paragraph (1) or (2) of section 1211(b) shall be treated as a short-term capital gain in such year."
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 substituted "Treatment of amounts allowed under section 1211(b)(1)or (2)" for "Special rule" as heading and amended text generally. Prior to amendment, text read as follows: "For purposes of determining the excess referred to in subparagraph (A) or (B) of paragraph (1), an amount equal to the amount allowed for the taxable year under paragraph (1) or (2) of section 1211(b) shall be treated as a short-term capital gain in such year."
 
 <b>1986</b>—Subsec. (b)(2). Pub. L. 99–514, §301(b)(11), amended par. (2) generally. Prior to amendment, par. (2), special rules, read as follows:
 
@@ -230,7 +230,7 @@ Subsec. (a)(3), (4). Pub. L. 91–172, §512(b), added pars. (3) and (4).
 
 Subsec. (b). Pub. L. 91–172, §513(b), struck out reference to Dec. 31, 1963, struck out determination of a short-term capital gain as an amount equal to the excess allowed for the taxable year under former section 1211(b) over the gains from sales or exchanges of capital assets, struck out par. (2) treating as a short-term capital loss in the first taxable year beginning after Dec. 31, 1963, any amount which is treated as a short-term capital loss in such year under this subchapter as in effect immediately before the enactment of the Revenue Act of 1964, added new par. (2) dealing with special rules for determining the excesses referred to in par. (1)(A) and par. (1)(B) and added par. (3).
 
-<b>1964</b>—Subsec. (a). Pub. L. 88–571 provided that if any portion of a net capital loss is attributable to a foreignexpropriation capital loss, such portion shall be a short-term capital loss in each of the 10 succeeding taxable years, defined foreign expropriation capital loss, stated what portion of loss is attributable to foreign expropriation capital loss and the priority of application of the net capital loss, and struck out provisions that net capital losses for taxable years beginning before Oct. 20, 1951, were to be determined under the applicable law relating to the computation of capital gains and losses in effect before such date.
+<b>1964</b>—Subsec. (a). Pub. L. 88–571 provided that if any portion of a net capital loss is attributable to a foreign expropriation capital loss, such portion shall be a short-term capital loss in each of the 10 succeeding taxable years, defined foreign expropriation capital loss, stated what portion of loss is attributable to foreign expropriation capital loss and the priority of application of the net capital loss, and struck out provisions that net capital losses for taxable years beginning before Oct. 20, 1951, were to be determined under the applicable law relating to the computation of capital gains and losses in effect before such date.
 
 Pub. L. 88–272 designated existing provisions as subsec. (a), limited such subsection to corporations, and added subsec. (b).
 
@@ -266,7 +266,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

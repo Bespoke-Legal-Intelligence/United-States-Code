@@ -38,17 +38,17 @@
 | :--- | ---: |
 | [57531\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2057531%20-%20Construction%20and%20charter%20of%20vessels%20for%20unsuccessful%20routes.md) | Construction and charter of vessels for unsuccessful routes. |
 | [57532\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2057532%20-%20Operation%20of%20experimental%20vessels.md) | Operation of experimental vessels. |
-| [57533\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2057533%20-%20Vessel%20chartering%20authority.md) | Vessel chartering authority <sup>1</sup> |
+| [57533\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2057533%20-%20Vessel%20chartering%20authority.md) | Vessel chartering authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+<b>2018</b>—Pub. L. 115–232, div. C, title XXXV, §3546(t), Aug. 13, 2018, 132 Stat. 2327, inserted period at end of item 57533.
+
 <b>2016</b>—Pub. L. 114–120, title III, §313(c)(2), Feb. 8, 2016, 130 Stat. 59, added item 57522.
 
 <b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3511(b), Jan. 28, 2008, 122 Stat. 594, added item 57533.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---

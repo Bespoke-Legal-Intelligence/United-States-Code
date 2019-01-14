@@ -72,7 +72,7 @@ An individual shall be deemed to be an eligible individual for purposes of this 
 
 &emsp;An issuer or employment-based health plan shall be responsible for reimbursing the program under this section for the medical expenses incurred by the program for an individual who, based on criteria established by the Secretary, the Secretary finds was encouraged by the issuer to disenroll from health benefits coverage prior to enrolling in coverage through the program. The criteria shall include at least the following circumstances:
 
-&emsp;&emsp;(A) In the case of prior coverage obtained through an employer, the provision by the employer, group health plan, or the issuer of money or other financial consideration for disenrolling from the coverage.
+&emsp;&emsp;(A) In the case of prior coverage obtained through an employer, the provision by theemployer, group health plan, or the issuer of money or other financial consideration for disenrolling from the coverage.
 
 &emsp;&emsp;(B) In the case of prior coverage obtained directly from an issuer or under an employment-based health plan—
 
@@ -194,7 +194,7 @@ Section 1. <i>Policy</i>. (a) It shall be the policy of the executive branch, to
 
 Sec. 2. <i>Expanded Access to Association Health Plans</i>. Within 60 days of the date of this order, the Secretary of Labor shall consider proposing regulations or revising guidance, consistent with law, to expand access to health coverage by allowing more employers to form AHPs. To the extent permitted by law and supported by sound policy, the Secretary should consider expanding the conditions that satisfy the commonality-of-interest requirements under current Department of Labor advisory opinions interpreting the definition of an "employer" under section 3(5) of the Employee Retirement Income Security Act of 1974. The Secretary of Labor should also consider ways to promote AHP formation on the basis of common geography or industry.
 
-Sec. 3. <i>Expanded Availability of Short-Term, Limited-Duration Insurance</i>. Within 60 days of the date of this order, the Secretaries of the Treasury, Labor, andHealth and Human Services shall consider proposing regulations or revising guidance, consistent with law, to expand the availability of STLDI. To the extent permitted by law and supported by sound policy, the Secretaries should consider allowing such insurance to cover longer periods and be renewed by the consumer.
+Sec. 3. <i>Expanded Availability of Short-Term, Limited-Duration Insurance</i>. Within 60 days of the date of this order, the Secretaries of the Treasury, Labor, and Health and Human Services shall consider proposing regulations or revising guidance, consistent with law, to expand the availability of STLDI. To the extent permitted by law and supported by sound policy, the Secretaries should consider allowing such insurance to cover longer periods and be renewed by the consumer.
 
 Sec. 4. <i>Expanded Availability and Permitted Use of Health Reimbursement Arrangements</i>. Within 120 days of the date of this order, the Secretaries of the Treasury, Labor, and Health and Human Services shall consider proposing regulations or revising guidance, to the extent permitted by law and supported by sound policy, to increase the usability of HRAs, to expand employers' ability to offer HRAs to their employees, and to allow HRAs to be used in conjunction with nongroup coverage.
 

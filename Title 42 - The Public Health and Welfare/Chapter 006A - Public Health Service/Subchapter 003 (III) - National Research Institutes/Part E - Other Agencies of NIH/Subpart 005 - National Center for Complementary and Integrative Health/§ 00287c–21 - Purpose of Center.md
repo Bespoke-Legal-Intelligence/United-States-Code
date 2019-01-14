@@ -6,7 +6,7 @@ The general purposes of the National Center for Complementary and Integrative He
 
 #### (b) Advisory council
 
-The Secretary shall establish an advisory council for the Center in accordance with section 284a of this title, except that at least half of the members of the advisory council who are not ex officio members shall include practitioners licensed in one or more of the major systems with which the Center is concerned, and at least3 individuals representing the interests of individual consumers of complementary and integrative health.
+The Secretary shall establish an advisory council for the Center in accordance with section 284a of this title, except that at least half of the members of the advisory council who are not ex officio members shall include practitioners licensed in one or more of the major systems with which the Center is concerned, and at least 3 individuals representing the interests of individual consumers of complementary and integrative health.
 
 #### (c) Integration of new and non-traditional approaches
 
@@ -88,5 +88,5 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 
 #### Executive Order No. 13147
 
-Ex. Ord. No. 13147, Mar. 7, 2000, 65 F.R. 13233, as amended by Ex. Ord. No. 13167, Sept. 15, 2000, 65 F.R. 54079 \[57079\], 65 F.R. 57436, which established White House Commission on Complementary and Alternative Medicine Policy, was revoked by Ex. Ord. No. 13316, §3(i), Sept. 17, 2003, 68 F.R. 55256, eff. Sept. 30, 2003.
+Ex. Ord. No. 13147, Mar. 7, 2000, 65 F.R. 13233, as amended by Ex. Ord. No. 13167, Sept. 15, 2000, 65 F.R. 54079 \[57079\], 65 F.R. 57436, which established WhiteHouse Commission on Complementary and Alternative Medicine Policy, was revoked by Ex. Ord. No. 13316, §3(i), Sept. 17, 2003, 68 F.R. 55256, eff. Sept. 30, 2003.
 

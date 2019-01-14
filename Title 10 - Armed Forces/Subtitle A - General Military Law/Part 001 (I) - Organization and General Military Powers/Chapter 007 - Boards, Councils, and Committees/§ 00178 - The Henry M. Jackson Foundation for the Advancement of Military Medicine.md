@@ -2,7 +2,7 @@
 
 (a) There is authorized to be established a nonprofit corporation to be known as the Henry M. Jackson Foundation for the Advancement of Military Medicine (hereinafter in this section referred to as the "Foundation") which shall not for any purpose be an agency or instrumentality of the United States Government. The Foundation shall be subject to the provisions of this section and, to the extent not inconsistent with this section, the Corporations and Associations Articles of the State of Maryland.
 
-(b) It shall be the purpose of the Foundation (1) to carry out medical research and education projects under cooperative arrangements with the Uniformed Services University of the Health Sciences, (2) to serve as a focus for the interchange between military and civilian medical personnel, and (3) to encourage the participation of the medical, dental, nursing, veterinary, andother biomedical sciences in the work of the Foundation for the mutual benefit of military and civilian medicine.
+(b) It shall be the purpose of the Foundation (1) to carry out medical research and education projects under cooperative arrangements with the Uniformed Services University of the Health Sciences, (2) to serve as a focus for the interchange between military and civilian medical personnel, and (3) to encourage the participation of the medical, dental, nursing, veterinary, and other biomedical sciences in the work of the Foundation for the mutual benefit of military and civilian medicine.
 
 (c)(1) The Foundation shall have a Council of Directors (hereinafter in this section referred to as the "Council") composed of—
 
@@ -10,7 +10,7 @@
 
 &emsp;(B) the Dean of the Uniformed Services University of the Health Sciences, who shall be an ex officio member, and
 
-&emsp;(C) four members appointed by the ex officio members of the Council designated in clauses (A) and (B).
+&emsp;(C) six members appointed by the ex officio members of the Council designated in clauses (A) and (B).
 
 (2) The term of office of each member of the Council appointed under clause (C) of paragraph (1) shall be four years, except that—
 
@@ -48,9 +48,11 @@
 
 (i) The Council shall transmit to the President annually, and at such other times as the Council considers desirable, a report on the operations, activities, and accomplishments of the Foundation.
 
-(Added Pub. L. 98–36, §2(a), May 27, 1983, 97 Stat. 200; amended Pub. L. 98–132, §2(a)(1), Oct. 17, 1983, 97 Stat. 849; Pub. L. 101–189, div. A, title VII, §726(b)(2), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 98–36, §2(a), May 27, 1983, 97 Stat. 200; amended Pub. L. 98–132, §2(a)(1), Oct. 17, 1983, 97 Stat. 849; Pub. L. 101–189, div. A, title VII, §726(b)(2), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 115–232, div. A, title VII, §739, Aug. 13, 2018, 132 Stat. 1822.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1)(C). Pub. L. 115–232 substituted "six members" for "four members".
 
 <b>1999</b>—Subsec. (c)(1)(A). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 

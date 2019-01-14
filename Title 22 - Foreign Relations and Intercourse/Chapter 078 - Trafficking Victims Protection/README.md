@@ -11,8 +11,10 @@
 | [7104b.](%C2%A7%2007104b%20-%20Monitoring%20and%20investigation%20of%20trafficking%20in%20persons.md) | Monitoring and investigation of trafficking in persons. |
 | [7104c.](%C2%A7%2007104c%20-%20Notification%20to%20Inspectors%20General%20and%20cooperation%20with%20government.md) | Notification to Inspectors General and cooperation with government. |
 | [7104d.](%C2%A7%2007104d%20-%20Rules%20of%20construction%3B%20effective%20date.md) | Rules of construction; effective date. |
+| [7104e.](%C2%A7%2007104e%20-%20Preventing%20future%20trafficking%20in%20the%20United%20States%20through%20receipt%20of%20complaints%20abroad.md) | Preventing future trafficking in the United States through receipt of complaints abroad. |
 | [7105\.](%C2%A7%2007105%20-%20Protection%20and%20assistance%20for%20victims%20of%20trafficking.md) | Protection and assistance for victims of trafficking. |
 | [7105a.](%C2%A7%2007105a%20-%20Increasing%20effectiveness%20of%20anti-trafficking%20programs.md) | Increasing effectiveness of anti-trafficking programs. |
+| [7105b.](%C2%A7%2007105b%20-%20Improving%20domestic%20victim%20screening%20procedures.md) | Improving domestic victim screening procedures. |
 | [7106\.](%C2%A7%2007106%20-%20Minimum%20standards%20for%20the%20elimination%20of%20trafficking.md) | Minimum standards for the elimination of trafficking. |
 | [7107\.](%C2%A7%2007107%20-%20Actions%20against%20governments%20failing%20to%20meet%20minimum%20standards.md) | Actions against governments failing to meet minimum standards. |
 | [7108\.](%C2%A7%2007108%20-%20Actions%20against%20significant%20traffickers%20in%20persons.md) | Actions against significant traffickers in persons. |
@@ -41,8 +43,10 @@
 - [&sect; 07104b - Monitoring and investigation of trafficking in persons](%C2%A7%2007104b%20-%20Monitoring%20and%20investigation%20of%20trafficking%20in%20persons.md)
 - [&sect; 07104c - Notification to Inspectors General and cooperation with government](%C2%A7%2007104c%20-%20Notification%20to%20Inspectors%20General%20and%20cooperation%20with%20government.md)
 - [&sect; 07104d - Rules of construction; effective date](%C2%A7%2007104d%20-%20Rules%20of%20construction%3B%20effective%20date.md)
+- [&sect; 07104e - Preventing future trafficking in the United States through receipt of complaints abroad](%C2%A7%2007104e%20-%20Preventing%20future%20trafficking%20in%20the%20United%20States%20through%20receipt%20of%20complaints%20abroad.md)
 - [&sect; 07105 - Protection and assistance for victims of trafficking](%C2%A7%2007105%20-%20Protection%20and%20assistance%20for%20victims%20of%20trafficking.md)
 - [&sect; 07105a - Increasing effectiveness of anti-trafficking programs](%C2%A7%2007105a%20-%20Increasing%20effectiveness%20of%20anti-trafficking%20programs.md)
+- [&sect; 07105b - Improving domestic victim screening procedures](%C2%A7%2007105b%20-%20Improving%20domestic%20victim%20screening%20procedures.md)
 - [&sect; 07106 - Minimum standards for the elimination of trafficking](%C2%A7%2007106%20-%20Minimum%20standards%20for%20the%20elimination%20of%20trafficking.md)
 - [&sect; 07107 - Actions against governments failing to meet minimum standards](%C2%A7%2007107%20-%20Actions%20against%20governments%20failing%20to%20meet%20minimum%20standards.md)
 - [&sect; 07108 - Actions against significant traffickers in persons](%C2%A7%2007108%20-%20Actions%20against%20significant%20traffickers%20in%20persons.md)

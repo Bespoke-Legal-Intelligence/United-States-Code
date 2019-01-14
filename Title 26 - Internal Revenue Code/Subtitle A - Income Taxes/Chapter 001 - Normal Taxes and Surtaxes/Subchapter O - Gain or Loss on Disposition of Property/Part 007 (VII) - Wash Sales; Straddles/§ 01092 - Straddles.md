@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(iii) which is not part of a larger straddle.
 
-> &emsp;&emsp;A straddle shall be treated as clearly identified for purposes of clause (i) only if such identification includes an identification of the positions in the straddle which are offsetting with respect <sup>1</sup> other positions in the straddle.
+> &emsp;&emsp;A straddle shall be treated as clearly identified for purposes of clause (i) only if such identification includes an identification of the positions in the straddle which are offsetting with respect to other positions in the straddle.
 
 #### (C) Application to liabilities and obligations
 
@@ -250,7 +250,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) such stock or option was not held by the taxpayer for 30 days or more after the closing of such options or the disposition of such stock.
 
-> &emsp;&emsp;For purposes of the preceding sentence, the rules of paragraphs (3) (other than subparagraph (B) <sup>2</sup> thereof) and (4) of section 246(c) shall apply in determining the period for which the taxpayer holds the stock.
+> &emsp;&emsp;For purposes of the preceding sentence, the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer holds the stock.
 
 #### (F) Strike price
 
@@ -366,13 +366,13 @@ If a taxpayer holds any stock and grants a qualified covered call option to purc
 
 &emsp;&emsp;<b>For provision requiring capitalization of certain interest and carrying charges where there is a straddle, see section 263(g).</b>
 
-(Added Pub. L. 97–34, title V, §501(a), Aug. 13, 1981, 95 Stat. 323; amended Pub. L. 97–448, title I, §105(a)(1)(A)–(C), (2)–(4), Jan. 12, 1983, 96 Stat. 2384, 2385; Pub. L. 98–369, div. A, title I, §§101(a)–(d), 102(e)(2), 103(a), 107(a), July 18, 1984, 98 Stat. 616–619, 624, 627, 629; Pub. L. 99–514, title III, §331(a), title XII, §1261(b), title XVIII, §§1808(c), 1899A(66), Oct. 22, 1986, 100 Stat. 2220, 2591, 2817, 2962; Pub. L. 100–647, title VI, §6130(c), Nov. 10, 1988, 102 Stat. 3719; Pub. L. 105–34, title XII, §1271(b)(9), Aug. 5, 1997, 111 Stat. 1037; Pub. L. 106–170, title V, §532(c)(1)(F), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649; Pub. L. 108–357, title VIII, §888(a)–(c)(1), Oct. 22, 2004, 118 Stat. 1642, 1643; Pub. L. 109–135, title IV, §403(ii), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 110–172, §7(d), Dec. 29, 2007, 121 Stat. 2482.)
-
-#### References in Text
-
-Section 246(c)(3) of this title, referred to in subsec. (c)(4)(E), was amended by Pub. L. 105–34, title X, §1015(b)(2), Aug. 5, 1997, 111 Stat. 922, by striking out subpar. (B) and redesignating subpar. (C) as (B).
+(Added Pub. L. 97–34, title V, §501(a), Aug. 13, 1981, 95 Stat. 323; amended Pub. L. 97–448, title I, §105(a)(1)(A)–(C), (2)–(4), Jan. 12, 1983, 96 Stat. 2384, 2385; Pub. L. 98–369, div. A, title I, §§101(a)–(d), 102(e)(2), 103(a), 107(a), July 18, 1984, 98 Stat. 616–619, 624, 627, 629; Pub. L. 99–514, title III, §331(a), title XII, §1261(b), title XVIII, §§1808(c), 1899A(66), Oct. 22, 1986, 100 Stat. 2220, 2591, 2817, 2962; Pub. L. 100–647, title VI, §6130(c), Nov. 10, 1988, 102 Stat. 3719; Pub. L. 105–34, title XII, §1271(b)(9), Aug. 5, 1997, 111 Stat. 1037; Pub. L. 106–170, title V, §532(c)(1)(F), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649; Pub. L. 108–357, title VIII, §888(a)–(c)(1), Oct. 22, 2004, 118 Stat. 1642, 1643; Pub. L. 109–135, title IV, §403(ii), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 110–172, §7(d), Dec. 29, 2007, 121 Stat. 2482; Pub. L. 115–141, div. U, title IV, §401(a)(170), (171), Mar. 23, 2018, 132 Stat. 1192.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2)(B). Pub. L. 115–141, §401(a)(170), substituted "with respect to other" for "with respect other" in concluding provisions.
+
+Subsec. (c)(4)(E). Pub. L. 115–141, §401(a)(171), struck out "(other than subparagraph (B) thereof)" after "paragraphs (3)" in concluding provisions.
 
 <b>2007</b>—Subsec. (a)(2)(A)(i). Pub. L. 110–172, §7(d)(2)(B)(i), substituted "positions" for "identified positions".
 
@@ -502,7 +502,7 @@ Pub. L. 99–514, title III, §331(b), Oct. 22, 1986, 100 Stat. 2221, provided t
 
 Amendment by section 1261(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1261(e) of Pub. L. 99–514, set out as an Effective Date note under section 985 of this title.
 
-Amendment by section 1808(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1808(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in theprovisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -602,7 +602,7 @@ Other Rules.—Except as otherwise provided in subsections (a) and (c) and in se
 
 "(e)
 
-Straddle.—For purposes of this section, the term 'straddle' has the meaning given to such term by section 1092(c) of the Internal Revenue Code of 1986 as in effect on the day after the date of the enactment of the Economic Recovery Tax Act of 1981 \[Aug. 13, 1981\], and shall include a straddle all the positions of which are regulated futures contracts.
+Straddle.—For purposes of this section, the term 'straddle' has the meaning given to such term bysection 1092(c) of the Internal Revenue Code of 1986 as in effect on the day after the date of the enactment of the Economic Recovery Tax Act of 1981 \[Aug. 13, 1981\], and shall include a straddle all the positions of which are regulated futures contracts.
 
 "(f)
 
@@ -618,13 +618,9 @@ Commodities Dealer.—For purposes of this section, the term 'commodities dealer
 
 "(g)
 
-Regulated Futures Contracts.—For purposes of this section, the term 'regulated futures contracts'has the meaning given to such term by section 1256(b) of the Internal Revenue Code of 1986 (as in effect before the date of enactment of this Act \[July 18, 1984\]).
+Regulated Futures Contracts.—For purposes of this section, the term 'regulated futures contracts' has the meaning given to such term by section 1256(b) of the Internal Revenue Code of 1986 (as in effect before the date of enactment of this Act \[July 18, 1984\]).
 
 "(h)
 
 Syndicates.—For purposes of this section, any loss incurred by a person (other than a commodities dealer) with respect to an interest in a syndicate (within the meaning of section 1256(e)(3)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) shall not be considered to be a loss incurred in a trade or business."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "to".</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

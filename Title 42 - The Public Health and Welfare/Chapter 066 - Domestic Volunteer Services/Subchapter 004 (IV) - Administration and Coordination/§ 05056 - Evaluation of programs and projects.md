@@ -38,7 +38,7 @@ Not later than December 31, 1988, the Director shall—
 
 &emsp;&emsp;(A) information on adminstrative <sup>2</sup> costs associated with such volunteers;
 
-&emsp;&emsp;(B) a comparison of the quality of services provided by such volunteers and the qualityof services provided by volunteers who receive a stipend under such parts, including the rate of absenteeism and turnover; and
+&emsp;&emsp;(B) a comparison of the quality of services provided by such volunteers and the quality of services provided by volunteers who receive a stipend under such parts, including the rate of absenteeism and turnover; and
 
 &emsp;&emsp;(C) a review of the effect that participation by volunteers who do not receive such stipend have on the administration of such programs; and
 

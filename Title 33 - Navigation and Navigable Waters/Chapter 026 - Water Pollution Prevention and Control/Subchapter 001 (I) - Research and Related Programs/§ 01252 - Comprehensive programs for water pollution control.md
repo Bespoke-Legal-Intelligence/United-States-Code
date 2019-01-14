@@ -8,7 +8,7 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 
 (1) In the survey or planning of any reservoir by the Corps of Engineers, Bureau of Reclamation, or other Federal agency, consideration shall be given to inclusion of storage for regulation of streamflow, except that any such storage and water releases shall not be provided as a substitute for adequate treatment or other methods of controlling waste at the source.
 
-(2) The need for and the value of storage for regulation of streamflow (other than for water quality) including but not limited to navigation, salt water intrusion, recreation, esthetics, and fish and wildlife, shall be determined by the Corps of Engineers, Bureau of Reclamation, or other Federal agencies.
+(2) The need for and the value of storage for regulation of streamflow (other than for water quality) including but not limited to navigation, salt water intrusion, recreation, esthetics, andfish and wildlife, shall be determined by the Corps of Engineers, Bureau of Reclamation, or other Federal agencies.
 
 (3) The need for, the value of, and the impact of, storage for water quality control shall be determined by the Administrator, and his views on these matters shall be set forth in any report or presentation to Congress proposing authorization or construction of any reservoir including such storage.
 
@@ -30,7 +30,7 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 
 &emsp;(C) recommends maintenance and improvement of water quality within the basin or portion thereof and recommends methods of adequately financing those facilities as may be necessary to implement the plan; and
 
-&emsp;(D) as appropriate, is developed in cooperation with, and is consistent with any comprehensive plan prepared by the Water Resources Council, any areawide waste managementplans developed pursuant to section 1288 of this title, and any State plan developed pursuant to section 1313(e) of this title.
+&emsp;(D) as appropriate, is developed in cooperation with, and is consistent with any comprehensive plan prepared by the Water Resources Council, any areawide waste management plans developed pursuant to section 1288 of this title, and any State plan developed pursuant to section 1313(e) of this title.
 
 (3) For the purposes of this subsection the term "basin" includes, but is not limited to, rivers and their tributaries, streams, coastal waters, sounds, estuaries, bays, lakes, and portions thereof as well as the lands drained thereby.
 

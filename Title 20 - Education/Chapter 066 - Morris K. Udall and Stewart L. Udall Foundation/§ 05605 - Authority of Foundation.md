@@ -84,7 +84,7 @@ The Foundation shall determine the priority of the programs to be carried out un
 
 #### References in Text
 
-References to subsec. (a)(2) to (7) of section 5604 of this title in subsec. (c) were in the original references to subsec. (a)(2) to (7) of section 6 of Pub. L. 102–259 but probably should have been references to subsec. (a)(2) to (7) of this section, which is section 7 of Pub. L.102–259. Section 5604 of this title does not contain subsecs., and subsec. (a)(2) to (7) of this section relates to various programs and activities to be carried out by the Foundation.
+References to subsec. (a)(2) to (7) of section 5604 of this title in subsec. (c) were in the original references to subsec. (a)(2) to (7) of section 6 of Pub. L. 102–259 but probably should have been references to subsec. (a)(2) to (7) of this section, which is section 7 of Pub. L. 102–259. Section 5604 of this title does not contain subsecs., and subsec. (a)(2) to (7) of this section relates to various programs and activities to be carried out by the Foundation.
 
 #### Amendments
 

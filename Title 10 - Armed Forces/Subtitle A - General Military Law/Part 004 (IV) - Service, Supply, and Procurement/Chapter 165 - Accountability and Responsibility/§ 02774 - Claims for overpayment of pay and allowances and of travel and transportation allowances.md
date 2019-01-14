@@ -52,7 +52,7 @@ Subsec. (b)(2). Pub. L. 99–224, §2(a)(3), struck out "of pay or allowances, o
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title VI, §671(c), Oct. 17, 2006, 120 Stat. 2270, provided that: "The amendments madeby this section \[amending this section and section 716 of Title 32, National Guard\] shall take effect on March 1, 2007."
+Pub. L. 109–364, div. A, title VI, §671(c), Oct. 17, 2006, 120 Stat. 2270, provided that: "The amendments made by this section \[amending this section and section 716 of Title 32, National Guard\] shall take effect on March 1, 2007."
 
 #### Effective Date of 1996 Amendment
 

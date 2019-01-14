@@ -22,7 +22,7 @@ Pub. L. 112–239 substituted "Administrator of FEMA" for "Director" wherever ap
 
 <b>1992</b>—Pub. L. 102–522, §104(1), struck out "certified" before "places" in section catchline.
 
-Subsec. (a). Pub. L. 102–522, §104(2), inserted "(acting through its Governor or the Governor's designee)" after "each State" in pars. (1) and (2) and struck out "theGovernor of the State or his designee certifies" after "in the State which" in par. (1).
+Subsec. (a). Pub. L. 102–522, §104(2), inserted "(acting through its Governor or the Governor's designee)" after "each State" in pars. (1) and (2) and struck out "the Governor of the State or his designee certifies" after "in the State which" in par. (1).
 
 #### Transfer of Functions
 

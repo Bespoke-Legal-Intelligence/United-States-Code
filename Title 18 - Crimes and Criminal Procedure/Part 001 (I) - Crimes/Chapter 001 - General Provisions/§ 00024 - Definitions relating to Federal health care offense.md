@@ -18,7 +18,7 @@ Sections 411, 518, and 511 of the Employee Retirement Income Security Act of 197
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §10606(c)(1), substituted "or section 1128B of the Social Security Act (42 U.S.C. 1320a–7b); or" for semicolon.
 
-Subsec. (a)(2). Pub. L. 111–148, §10606(c)(2)(B), which directed insertion of "section 301 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331), or section 501 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1131)," after "title," was executed by making the insertion after "title" to reflect the probable intent of Congress because "title," did not appear subsequent to amendment by Pub. L. 111–148, §6602. See below.
+Subsec. (a)(2). Pub. L. 111–148, §10606(c)(2)(B), which directed insertion of "section 301 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331), or section 501 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1131)," after "title," was executed by making the insertion after "title" to reflect the probable intentof Congress because "title," did not appear subsequent to amendment by Pub. L. 111–148, §6602. See below.
 
 Pub. L. 111–148, §10606(c)(2)(A), inserted "1349," after "1343,".
 

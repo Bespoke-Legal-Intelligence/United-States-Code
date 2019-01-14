@@ -6,7 +6,7 @@ It shall be unlawful for any person, with intent to deceive the listening or vie
 
 &emsp;(1) To supply to any contestant in a purportedly bona fide contest of intellectual knowledge or intellectual skill any special and secret assistance whereby the outcome of such contest will be in whole or in part prearranged or predetermined.
 
-&emsp;(2) By means of persuasion, bribery, intimidation, or otherwise, to induce or cause any contestant in a purportedly bona fide contest of intellectual knowledge or intellectual skill to refrain in any manner from using or displaying his knowledge or skill in such contest, whereby the outcome thereof will be in whole or in part prearranged or predetermined.
+&emsp;(2) By means of persuasion, bribery, intimidation, or otherwise, to induce or cause any contestant in a purportedly bona fide contestof intellectual knowledge or intellectual skill to refrain in any manner from using or displaying his knowledge or skill in such contest, whereby the outcome thereof will be in whole or in part prearranged or predetermined.
 
 &emsp;(3) To engage in any artifice or scheme for the purpose of prearranging or predetermining in whole or in part the outcome of a purportedly bona fide contest of intellectual knowledge, intellectual skill, or chance.
 

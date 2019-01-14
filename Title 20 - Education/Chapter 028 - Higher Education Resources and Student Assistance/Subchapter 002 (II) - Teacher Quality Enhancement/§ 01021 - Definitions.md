@@ -140,7 +140,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) eligible for a free or reduced price school lunch under the Richard B. Russell National School Lunch Act;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) in families receiving assistance under the State program funded under part A of title IV of the Social Security Act; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) in families receiving assistance under the State program funded underpart A of title IV of the Social Security Act; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) eligible to receive medical assistance under the Medicaid program;
 
@@ -224,7 +224,7 @@ In this subchapter:
 
 &emsp;The term "principles of scientific research" means principles of research that—
 
-&emsp;&emsp;(A) apply rigorous, systematic, and objective methodology to obtain reliable andvalid knowledge relevant to education activities and programs;
+&emsp;&emsp;(A) apply rigorous, systematic, and objective methodology to obtain reliable and valid knowledge relevant to education activities and programs;
 
 &emsp;&emsp;(B) present findings and make claims that are appropriate to, and supported by, the methods that have been employed; and
 
@@ -314,9 +314,9 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) are specific to academic subject matter; and
 
-&emsp;&emsp;&emsp;(iii) focus on the identification of students' specific learning needs, particularly students with disabilities, students who are limited English proficient, students who are gifted and talented, and students with low literacy levels, and the tailoring of academic instruction to such needs;
+&emsp;&emsp;&emsp;(iii) focus on the identification of students' specific learning needs, particularly students with disabilities, students whoare limited English proficient, students who are gifted and talented, and students with low literacy levels, and the tailoring of academic instruction to such needs;
 
-&emsp;&emsp;(E) conduct an ongoing assessment of student learning, which may include the use of formative assessments, performance-basedassessments, project-based assessments, or portfolio assessments, that measures higher-order thinking skills (including application, analysis, synthesis, and evaluation);
+&emsp;&emsp;(E) conduct an ongoing assessment of student learning, which may include the use of formative assessments, performance-based assessments, project-based assessments, or portfolio assessments, that measures higher-order thinking skills (including application, analysis, synthesis, and evaluation);
 
 &emsp;&emsp;(F) effectively manage a classroom, including the ability to implement positive behavioral interventions and support strategies;
 
@@ -374,7 +374,7 @@ Par. (19). Pub. L. 114–95, §9215(oo)(2)(I), made technical amendment to refer
 
 Par. (22)(D)(i). Pub. L. 114–95, §9214(c)(1)(C), substituted ", with respect to special education teachers, meets the qualifications described in section 1412(a)(14)(C) of this title" for "becomes highly qualified".
 
-<b>2009</b>—Par. (22)(D). Pub. L. 111–39 added subpar. (D) and struck out former subpar (D) which read as follows: "prior to completion of the program, earns a master's degree, attains full State teacher certification or licensure, and becomes highly qualified."
+<b>2009</b>—Par. (22)(D). Pub. L. 111–39 added subpar. (D) and struck out former subpar (D) which read as follows:"prior to completion of the program, earns a master's degree, attains full State teacher certification or licensure, and becomes highly qualified."
 
 #### Effective Date of 2015 Amendment
 

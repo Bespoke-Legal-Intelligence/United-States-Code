@@ -20,7 +20,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (1) In general
 
-&emsp;The dual consolidated loss for any taxable year of any corporation shall not be allowed to reduce the taxable income of any other member of the affiliated group for the taxable year or any other taxable year.
+&emsp;The dual consolidated loss for any taxable year of any corporation shall not be allowed toreduce the taxable income of any other member of the affiliated group for the taxable year or any other taxable year.
 
 #### (2) Dual consolidated loss
 
@@ -194,7 +194,7 @@ Subsec. (c). Pub. L. 94–455, §1507(b)(3), added subsec. (c).
 
 <b>1964</b>—Subsec. (a). Pub. L. 88–272, §234(a), struck out provisions which increased the tax imposed under section 11(c), or section 831, by 2% of the consolidated taxable income of the affiliated group of includible corporations, and defined "consolidated taxable income".
 
-Subsec. (b). Pub. L. 88–272, §234(b)(1), (2), redesignated subsec. (d) as (b), and substituted references to section 7701 for references to former subsection (c) of this section, in subpar. (A), and definition of "consolidated taxable income" for provisions relating to the computation of tax, for purposes of par. (1)(A), on the portion of consolidated taxable income attributable to any corporation, without regard to the increase of 2% as in subsec. (a), in subpar. (C). Former subsec. (b), which limited the 2% increase in subsec. (a) in cases where the affiliated group included one or more Western Hemisphere trade corporations or one or more regulated public utilities, to the amount by which the consolidated taxable income of the affiliated group exceed the income attributable to such corporations and utilities, was struck out.
+Subsec. (b). Pub. L. 88–272, §234(b)(1), (2), redesignated subsec. (d) as (b), and substituted references to section 7701 for references to former subsection (c) of this section, in subpar. (A), and definition of "consolidated taxable income" for provisions relating to the computation of tax, for purposes of par. (1)(A), on the portion ofconsolidated taxable income attributable to any corporation, without regard to the increase of 2% as in subsec. (a), in subpar. (C). Former subsec. (b), which limited the 2% increase in subsec. (a) in cases where the affiliated group included one or more Western Hemisphere trade corporations or one or more regulated public utilities, to the amount by which the consolidated taxable income of the affiliated group exceed the income attributable to such corporations and utilities, was struck out.
 
 Subsec. (c). Pub. L. 88–272, §234(b)(1), struck out subsec. (c) which defined regulated public utility. See section 7701(a)(33) of this title.
 

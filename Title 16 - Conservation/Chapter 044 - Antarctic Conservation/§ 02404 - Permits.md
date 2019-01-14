@@ -78,9 +78,9 @@ As soon as practicable after receiving any application for a permit under this s
 
 &emsp;&emsp;&emsp;(II) the actions allowed under the permit will not jeopardize the natural ecological system existing in such area.
 
-#### (e) <sup>3</sup> Judicial review
+#### (e) <sup>2</sup> Judicial review
 
-Any applicant for a permit may obtain judicial review of the terms and conditions of any permit issued by the Director under this section or of the refusal of the Director to issue such a permit. Such review, which shall be pursuant to chapter 7 of title 5, may be initiated by filing a petition for review in the United States district court for the district wherein the applicant for a permit resides, or has his principal place of business, or in the United States District Court for the District of Columbia, within 60 days after the date on which such permit is issued or denied.
+Any applicant for a permit may obtain judicial review of the terms and conditions of any permit issued by the Director under this section or of the refusal of the Director to issue such a permit. Such review, which shall be pursuant to chapter 7 of title 5, may be initiated by filing apetition for review in the United States district court for the district wherein the applicant for a permit resides, or has his principal place of business, or in the United States District Court for the District of Columbia, within 60 days after the date on which such permit is issued or denied.
 
 #### (f) Modification, suspension, and revocation
 
@@ -143,6 +143,4 @@ Subsec. (e)(2)(C), (D). Pub. L. 104–227, §105(3)(H), in subsec. (e) relating 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
-
-<i><sup>3</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
 

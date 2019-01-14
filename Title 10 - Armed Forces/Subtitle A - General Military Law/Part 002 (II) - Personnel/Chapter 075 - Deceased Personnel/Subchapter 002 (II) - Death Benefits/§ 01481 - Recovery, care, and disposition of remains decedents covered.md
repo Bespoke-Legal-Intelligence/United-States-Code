@@ -36,7 +36,7 @@
 
 &emsp;(7) A person who—
 
-&emsp;&emsp;(A) dies as a retired member of an armed force under the Secretary's jurisdiction during a continuous hospitalization of the member as a patient in a United States hospitalthat began while the member was on active duty for a period of more than 30 days; or
+&emsp;&emsp;(A) dies as a retired member of an armed force under the Secretary's jurisdiction during a continuous hospitalization of the member as a patient in a United States hospital that began while the member was on active duty for a period of more than 30 days; or
 
 &emsp;&emsp;(B) is not covered by subparagraph (A) and, while in a retired status by reason of eligibility to retire under chapter 61 of this title, dies during a continuous hospitalization of the person that began while the person was on active duty as a Regular of an armed force under the Secretary's jurisdiction.
 
@@ -108,7 +108,7 @@ Subsec. (c). Pub. L. 103–337, §652(a)(1)(B), added subsec. (c).
 
 "(2) any Reserve of an armed force under his jurisdiction who dies while (A) on active duty, (B) performing authorized travel to or from that duty, (C) on authorized inactive-duty training, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while on that duty or training or while performing that travel;
 
-"(3) any member of the Army National Guard or Air National Guard who dies while entitled to pay from the United States and while (A) on active duty, (B) performing authorized travel to or from that duty, (C) onauthorized inactive-duty training, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while on that duty or training or while performing that travel;".
+"(3) any member of the Army National Guard or Air National Guard who dies while entitled to pay from the United States and while (A) on active duty, (B) performing authorized travel to or from that duty, (C) on authorized inactive-duty training, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while on that duty or training or while performing that travel;".
 
 <b>1964</b>—Subsec. (a)(4). Pub. L. 88–647 substituted ", or applicant for membership in, a reserve officers' training corps" for "the Army Reserve Officers' Training Corps, Naval Reserve Officers' Training Corps, or Air Force Reserve Officers' Training Corps".
 

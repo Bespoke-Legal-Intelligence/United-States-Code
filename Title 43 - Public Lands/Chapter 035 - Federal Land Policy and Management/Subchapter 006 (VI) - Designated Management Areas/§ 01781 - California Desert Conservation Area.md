@@ -24,7 +24,7 @@ It is the purpose of this section to provide for the immediate and future protec
 
 (1) For the purpose of this section, the term "California desert" means the area generally depicted on a map entitled "California Desert Conservation Area—Proposed" dated April 1974, and described as provided in subsection (c)(2).
 
-(2) As soon as practicable after October 21, 1976, the Secretary shall file a revised map and a legal description of the California Desert Conservation Area with the Committees on Interior and Insular Affairs of the United States Senate and the House of Representatives, and such mapand description shall have the same force and effect as if included in this Act. Correction of clerical and typographical errors in such legal description and a map may be made by the Secretary. To the extent practicable, the Secretary shall make such legal description and map available to the public promptly upon request.
+(2) As soon as practicable after October 21, 1976, the Secretary shall file a revised map and a legal description of the California Desert Conservation Area with the Committees on Interior and Insular Affairs of the United States Senate and the House of Representatives, and such map and description shall have the same force and effect as if included in this Act. Correction of clerical and typographical errors in such legal description and a map may be made by the Secretary. To the extent practicable, the Secretary shall make such legal description and map available to the public promptly upon request.
 
 #### (d) Preparation and implementation of comprehensive long-range plan for management, use, etc.
 
@@ -36,7 +36,7 @@ During the period beginning on October 21, 1976, and ending on the effective dat
 
 #### (f) Applicability of mining laws
 
-Subject to valid existing rights, nothing in this Act shall affect the applicability of the United States mining laws on the public lands within the California Desert Conservation Area, except that all mining claims located on public lands within the California Desert Conservation Area shall be subject to such reasonable regulations as the Secretary may prescribe to effectuate the purposes of this section. Any patent issued on any such mining claim shall recite this limitation and continue to be subject to such regulations. Such regulations shall provide for such measures as may be reasonable to protect the scenic, scientific, and environmental values of the public lands of the California Desert Conservation Area against undue impairment, and to assure against pollution of the streams and waters within the California Desert Conservation Area.
+Subject to valid existing rights, nothing in this Act shall affect the applicability of theUnited States mining laws on the public lands within the California Desert Conservation Area, except that all mining claims located on public lands within the California Desert Conservation Area shall be subject to such reasonable regulations as the Secretary may prescribe to effectuate the purposes of this section. Any patent issued on any such mining claim shall recite this limitation and continue to be subject to such regulations. Such regulations shall provide for such measures as may be reasonable to protect the scenic, scientific, and environmental values of the public lands of the California Desert Conservation Area against undue impairment, and to assure against pollution of the streams and waters within the California Desert Conservation Area.
 
 #### (g) Advisory Committee; establishment; functions
 
@@ -80,7 +80,7 @@ Designation.—There is hereby established the Desert Lily Sanctuary within the 
 
 "(b)
 
-Withdrawal.—Subject to valid existing rights, all Federal lands within the Desert Lily Sanctuary arehereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto."
+Withdrawal.—Subject to valid existing rights, all Federal lands within the Desert Lily Sanctuary are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto."
 
 #### Dinosaur Trackway Area of Critical Environmental Concern
 

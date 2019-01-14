@@ -50,7 +50,7 @@ In paragraph (1), the words "being the southwest corner of the intersection of F
 
 #### References in Text
 
-Section 3(b) of the Federal Triangle Development Act, referred to in par. (2)(B), was classified to section 1102(b) of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
+Section 3(b) of the Federal Triangle Development Act, referred to in par. (2)(B), was classified to section1102(b) of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 #### Designation of Daniel Patrick Moynihan Place
 

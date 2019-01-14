@@ -16,7 +16,7 @@ Change in Status or Death of Judges.—A judge appointed to a special committee 
 
 (c)
 
-Investigation by Special Committee.—Each committee appointed under subsection (a) shall conduct an investigation as extensive as it considers necessary, and shall expeditiously file a comprehensive written report thereon with the judicial council of the circuit. Such report shall present both the findings of the investigation and the committee's recommendations for necessary and appropriate action by the judicial council of the circuit.
+Investigation by Special Committee.—Each committee appointed under subsection (a)shall conduct an investigation as extensive as it considers necessary, and shall expeditiously file a comprehensive written report thereon with the judicial council of the circuit. Such report shall present both the findings of the investigation and the committee's recommendations for necessary and appropriate action by the judicial council of the circuit.
 
 (Added Pub. L. 107–273, div. C, title I, §11042(a), Nov. 2, 2002, 116 Stat. 1850.)
 

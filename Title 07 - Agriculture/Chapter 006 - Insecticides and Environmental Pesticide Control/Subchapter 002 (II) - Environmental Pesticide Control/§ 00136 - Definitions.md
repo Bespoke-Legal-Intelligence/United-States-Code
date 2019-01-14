@@ -8,7 +8,7 @@ The term "active ingredient" means—
 
 &emsp;(1) in the case of a pesticide other than a plant regulator, defoliant, desiccant, or nitrogen stabilizer, an ingredient which will prevent, destroy, repel, or mitigate any pest;
 
-&emsp;(2) in the case of a plant regulator, an ingredient which, through physiological action, willaccelerate or retard the rate of growth or rate of maturation or otherwise alter the behavior of ornamental or crop plants or the product thereof;
+&emsp;(2) in the case of a plant regulator, an ingredient which, through physiological action, will accelerate or retard the rate of growth or rate of maturation or otherwise alter the behavior of ornamental or crop plants or the product thereof;
 
 &emsp;(3) in the case of a defoliant, an ingredient which will cause the leaves or foliage to drop from a plant;
 
@@ -168,7 +168,7 @@ The term "person" means any individual, partnership, association, corporation, o
 
 #### (t) Pest
 
-The term "pest" means (1) any insect, rodent, nematode, fungus, weed, or (2) any other form of terrestrial or aquatic plant or animal life or virus, bacteria, or other micro-organism (except viruses, bacteria, or other micro-organisms on or in living man or other living animals) which the Administrator declares to be a pest under section 136w(c)(1) of this title.
+The term "pest" means (1) any insect, rodent, nematode, fungus, weed, or (2) any other form of terrestrial or aquatic plant or animal life or virus, bacteria, or other micro-organism (except viruses, bacteria, or other micro-organisms on or in living man or other living animals) whichthe Administrator declares to be a pest under section 136w(c)(1) of this title.
 
 #### (u) Pesticide
 
@@ -212,7 +212,7 @@ The term "establishment" means any place where a pesticide or device or active i
 
 #### (ee) To use any registered pesticide in a manner inconsistent with its labeling
 
-The term "to use any registered pesticide in a manner inconsistent with its labeling" means to use any registered pesticide in a manner not permitted by the labeling, except that the term shall not include (1) applying a pesticide at any dosage, concentration, or frequency less than that specified on the labeling unless the labeling specifically prohibits deviation from the specified dosage, concentration, or frequency, (2) applying a pesticide against any target pest not specified on the labeling if the application is to the crop, animal, or site specified on the labeling, unless the Administrator has required that the labeling specifically state that the pesticide may be used only for the pests specified on the labeling after the Administrator has determined that the use of the pesticide against other pests would cause an unreasonable adverse effect on the environment, (3) employing any method of application not prohibited by the labeling unless the labeling specifically states that the product may be applied only by the methods specified on the labeling, (4) mixing a pesticide or pesticides with a fertilizer when such mixture is not prohibited by the labeling, (5) any use of a pesticide in conformance with section 136c, 136p, or 136v of this title, or (6) any use of a pesticide in a manner that the Administrator determines to be consistent with the purposes of this subchapter. After March 31, 1979, the term shall not include the use of a pesticide for agricultural or forestry purposes at a dilution less than label dosage unless before or after that date the Administrator issues a regulation or advisory opinion consistent with the study provided for in section 27(b) of the Federal Pesticide Act of 1978, which regulation or advisory opinion specifically requires the use of definite amounts of dilution.
+The term "to use any registered pesticide in a manner inconsistent with its labeling" means to use any registered pesticide in a manner not permitted by the labeling, except that the term shall not include (1) applying a pesticide at any dosage, concentration, or frequency less than that specified on the labeling unless the labeling specifically prohibits deviation from the specified dosage, concentration, or frequency, (2) applying a pesticide against any target pest not specified on the labeling if the application is to the crop, animal, or site specified on the labeling, unless the Administrator has required that the labeling specifically state that the pesticide may be used only for the pests specified on the labeling after the Administrator has determined that the use of the pesticide against other pests would cause an unreasonable adverse effect on the environment, (3) employing any method of application not prohibited by the labeling unlessthe labeling specifically states that the product may be applied only by the methods specified on the labeling, (4) mixing a pesticide or pesticides with a fertilizer when such mixture is not prohibited by the labeling, (5) any use of a pesticide in conformance with section 136c, 136p, or 136v of this title, or (6) any use of a pesticide in a manner that the Administrator determines to be consistent with the purposes of this subchapter. After March 31, 1979, the term shall not include the use of a pesticide for agricultural or forestry purposes at a dilution less than label dosage unless before or after that date the Administrator issues a regulation or advisory opinion consistent with the study provided for in section 27(b) of the Federal Pesticide Act of 1978, which regulation or advisory opinion specifically requires the use of definite amounts of dilution.
 
 #### (ff) Outstanding data requirement
 
@@ -422,7 +422,7 @@ Pub. L. 92–516, §4, Oct. 21, 1972, 86 Stat. 998, as amended by Pub. L. 94–1
 
 #### Short Title of 2012 Amendment
 
-Pub. L. 112–177, §1, Sept. 28, 2012, 126 Stat. 1327, provided that: "This Act \[amending sections 136a–1 and 136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136a–1 of this title\] may be cited as the 'Pesticide Registration Improvement Extension Act of 2012'."
+Pub. L. 112–177, §1, Sept. 28, 2012, 126 Stat. 1327, provided that: "This Act \[amending sections 136a–1 and136w–8 of this title and section 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136a–1 of this title\] may be cited as the 'Pesticide Registration Improvement Extension Act of 2012'."
 
 #### Short Title of 2007 Amendment
 

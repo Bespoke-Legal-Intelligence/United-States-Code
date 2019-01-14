@@ -56,7 +56,7 @@ Projects for pm–10 nonattainment areas.—A State may obligate funds apportion
 
 &emsp;(2)
 
-Electric vehicle and natural gas vehicle infrastructure.—A State may obligate funds apportioned under section 104(b)(4) for a project or program to establish electric vehicle charging stations or natural gas vehicle refueling stations for the use of battery poweredor natural gas fueled trucks or other motor vehicles at any location in the State (giving priority to corridors designated under section 151) except that such stations may not be established or supported where commercial establishments serving motor vehicle users are prohibited by section 111 of title 23, United States Code.
+Electric vehicle and natural gas vehicle infrastructure.—A State may obligate funds apportioned under section 104(b)(4) for a project or program to establish electric vehicle charging stations or natural gas vehicle refueling stations for the use of battery powered or natural gas fueled trucks or other motor vehicles at any location in the State (giving priority to corridors designated under section 151) except that such stations may not be established or supported where commercial establishments serving motor vehicle users are prohibited by section 111 of title 23, United States Code.
 
 &emsp;(3)
 
@@ -216,7 +216,7 @@ Optional Programmatic Eligibility.—
 
 &emsp;(1)
 
-In general.—At the discretion of a metropolitan planning organization, a technical assessment of a selected program of projects may be conducted through modeling or other means to demonstrate the emissions reduction projection required under this section.
+In general.—At the discretion of a metropolitan planning organization, a technical assessment of a selected program of projects may be conducted through modeling or othermeans to demonstrate the emissions reduction projection required under this section.
 
 &emsp;(2)
 
@@ -244,7 +244,7 @@ nonattainment and maintenance in low population density states.—
 
 &emsp;&emsp;(A)
 
-Exception.—In any State with a population density of 80 or fewer persons persquare mile of land area, based on the most recent decennial census, the requirements under subsection (g)(3) and paragraphs (1) and (2) of this subsection shall not apply to a nonattainment or maintenance area in the State if—
+Exception.—In any State with a population density of 80 or fewer persons per square mile of land area, based on the most recent decennial census, the requirements under subsection (g)(3) and paragraphs (1) and (2) of this subsection shall not apply to a nonattainment or maintenance area in the State if—
 
 &emsp;&emsp;&emsp;(i) the nonattainment or maintenance area does not have projects that are part of the emissions analysis of a metropolitan transportation plan or transportation improvement program; and
 
@@ -278,9 +278,9 @@ Updated plans.—Performance plans shall be updated biennially and include a sep
 
 (m)
 
-Operating Assistance.—A State may obligate funds apportioned under section 104(b)(4) in an area of such State that is otherwise eligible for obligations of such funds for operating costs under chapter 53 of title 49 or on a system for which CMAQ funding was made available, obligated or expended in fiscal year 2012, and shall have no imposed time limitation.
+Operating Assistance.—A State may obligate funds apportioned under section 104(b)(4) in an area of such State that is otherwise eligible for obligations of such funds for operating costs under chapter 53 of title 49 or on a system for which CMAQ funding was made available, obligated or expended in fiscal year 2012, or on a State-Supported <sup>1</sup> Amtrak route with a valid cost-sharing agreement under section 209 of the Passenger Rail Investment and Improvement Act of 2008 and no current nonattainment areas under subsection (d), and shall have no imposed time limitation.
 
-(Added Pub. L. 93–87, title I, §142(a), Aug. 13, 1973, 87 Stat. 272; amended Pub. L. 102–240, title I, §1008(a), Dec. 18, 1991, 105 Stat. 1932; Pub. L. 102–388, title III, §380, Oct. 6, 1992, 106 Stat. 1562; Pub. L. 104–59, title III, §319(a)(1), (b), Nov. 28, 1995, 109 Stat. 588, 589; Pub. L. 104–88, title IV, §405(a)(2), (b), Dec. 29, 1995, 109 Stat. 956, 957; Pub. L. 105–178, title I, §1110(a)–(d)(1), June 9, 1998, 112 Stat. 142, 143; Pub. L. 109–59, title I, §1808(a)–(f), Aug. 10, 2005, 119 Stat. 1461–1463; Pub. L. 112–141, div. A, title I, §1113(a), (b), July 6, 2012, 126 Stat. 460; Pub. L. 113–76, div. L, title I, §125, Jan. 17, 2014, 128 Stat. 587; Pub. L. 114–94, div. A, title I, §§1109(c)(5), 1114, Dec. 4, 2015, 129 Stat. 1343, 1348.)
+(Added Pub. L. 93–87, title I, §142(a), Aug. 13, 1973, 87 Stat. 272; amended Pub. L. 102–240, title I, §1008(a), Dec. 18, 1991, 105 Stat. 1932; Pub. L. 102–388, title III, §380, Oct. 6, 1992, 106 Stat. 1562; Pub. L. 104–59, title III, §319(a)(1), (b), Nov. 28, 1995, 109 Stat. 588, 589; Pub. L. 104–88, title IV, §405(a)(2), (b), Dec. 29, 1995, 109 Stat. 956, 957; Pub. L. 105–178, title I, §1110(a)–(d)(1), June 9, 1998, 112 Stat. 142, 143; Pub. L. 109–59, title I, §1808(a)–(f), Aug. 10, 2005, 119 Stat. 1461–1463; Pub. L. 112–141, div. A, title I, §1113(a), (b), July 6, 2012, 126 Stat. 460; Pub. L. 113–76, div. L, title I, §125, Jan. 17, 2014, 128 Stat. 587; Pub. L. 114–94, div. A, title I, §§1109(c)(5), 1114, Dec. 4, 2015, 129 Stat. 1343, 1348; Pub. L. 115–141, div. L, title IV, §421, Mar. 23, 2018, 132 Stat. 1045.)
 
 #### References in Text
 
@@ -288,13 +288,17 @@ The Clean Air Act, referred to in subsecs. (b), (d)(1), (3), (f)(5), and (g)(3),
 
 The date of enactment of this paragraph, referred to in subsec. (b)(5), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
-Sections 104(b)(2), 133, and 149(c)(2), as in effect on the day before the date of enactment of the MAP–21, referred to in subsec. (d)(2), mean section 104(b)(2) of this title, section 133 of this title, and subsec. (c)(2) of this section, respectively, as in effect on the day before the date of enactment of Pub. L. 112–141, which amended section 104 generally, made numerous amendments to section 133, and redesignated subsec. (c) of this section as (d) and struck it out. The date of enactment of the MAP–21 is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
+Sections 104(b)(2), 133, and 149(c)(2), as in effect on the day before the date of enactment of the MAP–21, referred to in subsec. (d)(2), mean section 104(b)(2) of this title, section 133 of this title, and subsec. (c)(2) of thissection, respectively, as in effect on the day before the date of enactment of Pub. L. 112–141, which amended section 104 generally, made numerous amendments to section 133, and redesignated subsec. (c) of this section as (d) and struck it out. The date of enactment of the MAP–21 is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
 
 The day before the date of enactment of MAP–21, referred to in subsec. (d)(3), means the day before the date of enactment of Pub. L. 112–141. See note above.
 
 The date of enactment of this subsection, referred to in subsec. (g)(2)(B), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
+Section 209 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (m), is section 209 of div. B of Pub. L. 110–432, which is set out as a note under section 24101 of Title 49, Transportation.
+
 #### Amendments
+
+<b>2018</b>—Subsec. (m). Pub. L. 115–141 inserted "or on a State-Supported Amtrak route with a valid cost-sharing agreement under section 209 of the Passenger Rail Investment and Improvement Act of 2008 and no current nonattainment areas under subsection (d)," after "2012,".
 
 <b>2015</b>—Subsec. (b)(1)(A)(i)(I). Pub. L. 114–94, §1114(1)(A), inserted "in the designated nonattainment area" after "air quality standard".
 
@@ -456,7 +460,7 @@ In general.—The Secretary and the Administrator of the Environmental Protectio
 
 &emsp;"(D) evaluate the emissions reductions attributable to projects of various types that have been funded under the program;
 
-&emsp;"(E) assess the effectiveness, including the quantitative and nonquantitative benefits, of projects funded under the program and include, in the assessment, an estimate of the cost per ton of pollution reduction;
+&emsp;"(E) assess the effectiveness, including the quantitative and nonquantitative benefits, of projectsfunded under the program and include, in the assessment, an estimate of the cost per ton of pollution reduction;
 
 &emsp;"(F) assess the cost effectiveness of projects funded under the program with respect to congestion mitigation;
 
@@ -486,7 +490,7 @@ Notwithstanding any other provision of law, for each of fiscal years 1996 and 19
 
 Pub. L. 102–240, title I, §1012(b), Dec. 18, 1991, 105 Stat. 1938, as amended by Pub. L. 104–59, title III, §325(e), Nov. 28, 1995, 109 Stat. 592; Pub. L. 105–178, title I, §1216(a), June 9, 1998, 112 Stat. 211; Pub. L. 105–206, title IX, §9006(b), July 22, 1998, 112 Stat. 848; Pub. L. 109–59, title I, §1604(a), Aug. 10, 2005, 119 Stat. 1249, provided that:
 
-"(1) The Secretary shall solicit the participation of State and local governments and public authorities for one or more value pricing pilot programs. The Secretary may enter into cooperative agreements with as many as 15 such State or local governments or publicauthorities to establish, maintain, and monitor value pricing programs.
+"(1) The Secretary shall solicit the participation of State and local governments and public authorities for one or more value pricing pilot programs. The Secretary may enter into cooperative agreements with as many as 15 such State or local governments or public authorities to establish, maintain, and monitor value pricing programs.
 
 "(2) Notwithstanding section 129 of title 23, United States Code, the Federal share payable for such programs shall be 80 percent. The Secretary shall fund all preimplementation costs and project design, and all of the development and other start up costs of such projects, including salaries and expenses, for a period of at least 1 year, and thereafter until such time that sufficient revenues are being generated by the program to fund its operating costs without Federal participation, except that the Secretary may not fund the preimplementation or implementation costs of any project for more than 3 years.
 
@@ -537,4 +541,6 @@ Use of unallocated funds.—If the total amount of funds made available from the
 &emsp;"(C) \[probably should be (E)\]
 
 Contract authority.—Funds authorized to carry out this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of any project under this subsection and the availability of funds authorized to carry out this subsection shall be determined in accordance with this subsection."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "State-supported".</i>
 

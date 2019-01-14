@@ -2,23 +2,23 @@
 
 (a)
 
-Grant Authority.—Subject to the requirements of this section, the Under Secretary forBorder and Transportation Security of the Department of Homeland Security shall make grants to airport sponsors—
+Grant Authority.—Subject to the requirements of this section, the Administrator of the Transportation Security Administration shall make grants to airport sponsors—
 
 &emsp;(1) for projects to replace baggage conveyer systems related to aviation security;
 
 &emsp;(2) for projects to reconfigure terminal baggage areas as needed to install explosive detection systems;
 
-&emsp;(3) for projects to enable the Under Secretary to deploy explosive detection systems behind the ticket counter, in the baggage sorting area, or in line with the baggage handling system; and
+&emsp;(3) for projects to enable the Administrator of the Transportation Security Administration to deploy explosive detection systems behind the ticket counter, in the baggage sorting area, or in line with the baggage handling system; and
 
 &emsp;(4) for other airport security capital improvement projects.
 
 (b)
 
-Applications.—A sponsor seeking a grant under this section shall submit to the Under Secretary an application in such form and containing such information as the Under Secretary prescribes.
+Applications.—A sponsor seeking a grant under this section shall submit to the Administrator of the Transportation Security Administration an application in such form and containing such information as the Administrator of the Transportation Security Administration prescribes.
 
 (c)
 
-Approval.—The Under Secretary, after consultation with the Secretary of Transportation, may approve an application of a sponsor for a grant under this section only if the Under Secretary determines that the project will improve security at an airport or improve the efficiency of the airport without lessening security.
+Approval.—The Administrator of the Transportation Security Administration, after consultation with the Secretary of Transportation, may approve an application of a sponsor for a grant under this section only if the Administrator of the Transportation Security Administration determines that the project will improve security at an airport or improve the efficiency of the airport without lessening security.
 
 (d)
 
@@ -26,19 +26,19 @@ Letters of Intent.—
 
 &emsp;(1)
 
-Issuance.—The Under Secretary shall issue a letter of intent to a sponsor committing to obligate from future budget authority an amount, not more than the Federal Government's share of the project's cost, for an airport security improvement project (including interest costs and costs of formulating the project).
+Issuance.—The Administrator of the Transportation Security Administration shall issue a letter of intent to a sponsor committing to obligate from future budget authority an amount, not more than the Federal Government's share of the project's cost, for an airport security improvement project (including interest costs and costs of formulating the project).
 
 &emsp;(2)
 
-Schedule.—A letter of intent under this subsection shall establish a schedule under which the Under Secretary will reimburse the sponsor for the Government's share of the project's costs, as amounts become available, if the sponsor, after the Under Secretary issues the letter, carries out the project without receiving amounts under this section.
+Schedule.—A letter of intent under this subsection shall establish a schedule under which the Administrator of the Transportation Security Administration will reimburse the sponsor for the Government's share of the project's costs, as amounts become available, if the sponsor, after the Administrator of the Transportation Security Administration issues the letter, carries out the project without receiving amounts under this section.
 
 &emsp;(3)
 
-Notice to under secretary.—A sponsor that has been issued a letter of intent under this subsection shall notify the Under Secretary of the sponsor's intent to carry out a project before the project begins.
+Notice to administrator of the transportation security administration.—A sponsor that has been issued a letter of intent under this subsection shall notify the Administrator of the Transportation Security Administration of the sponsor's intent to carry out a project before the project begins.
 
 &emsp;(4)
 
-Notice to congress.—The Under Secretary shall transmit to the Committees on Appropriations and Transportation and Infrastructure of the House of Representatives and the Committees on Appropriations and Commerce, Science and Transportation of the Senate a written notification at least 3 days before the issuance of a letter of intent under this section.
+Notice to congress.—The Administrator of the Transportation Security Administration shall transmit to the Committees on Appropriations and Transportation and Infrastructure of the House of Representatives and the Committees on Appropriations and Commerce, Science and Transportation of the Senate a written notification at least 3 days before the issuance of a letter of intent under this section.
 
 &emsp;(5)
 
@@ -50,15 +50,7 @@ Statutory construction.—Nothing in this subsection shall be construed to prohi
 
 (e)
 
-Federal Share.—
-
-&emsp;(1)
-
-In general.—The Government's share of the cost of a project under this section shall be 90 percent for a project at a medium or large hub airport and 95 percent for a project at any other airport.
-
-&emsp;(2)
-
-Existing letters of intent.—The Under Secretary shall revise letters of intent issued before the date of enactment of this section to reflect the cost share established in this subsection with respect to grants made after September 30, 2003.
+Federal Share.—The Government's share of the cost of a project under this section shall be 90 percent for a project at a medium or large hub airport and 95 percent for a project at any other airport.
 
 (f)
 
@@ -74,7 +66,7 @@ Aviation Security Capital Fund.—
 
 &emsp;(1)
 
-In general.—There is established within the Department of Homeland Security a fund to be known as the Aviation Security Capital Fund. The first $250,000,000 derived from fees received under section 44940(a)(1) in each of fiscal years 2004 through 2028 shall be available to be deposited in the Fund. The Under Secretary shall impose the fee authorized by section 44940(a)(1) so as to collect at least $250,000,000 in each of such fiscal years for deposit into the Fund. Amounts in the Fund shall be available to the Under Secretary to make grants under this section.
+In general.—There is established within the Department of Homeland Security a fund to be known as the Aviation Security Capital Fund. The first $250,000,000 derived from fees received under section 44940(a)(1) in each of fiscal years 2004 through 2028 shall be available to be deposited in the Fund. The Administrator of the Transportation Security Administration shall impose the fee authorized by section 44940(a)(1) so as to collect at least $250,000,000 in each of such fiscal years for deposit into the Fund. Amounts in the Fund shall be available to the Administrator of the Transportation Security Administration to make grants under this section.
 
 &emsp;(2)
 
@@ -88,25 +80,17 @@ Discretionary grants.—Of the amount made available under paragraph (1) for a f
 
 Leveraged Funding.—For purposes of this section, a grant under subsection (a) to an airport sponsor to service an obligation issued by or on behalf of that sponsor to fund a project described in subsection (a) shall be considered to be a grant for that project.
 
-(j)
-
-Authorization of Appropriations.—
-
-&emsp;(1)
-
-In general.—In addition to amounts made available under subsection (h), there is authorized to be appropriated to carry out this section $400,000,000 for each of fiscal years 2005, 2006, and 2007, and $450,000,000 for each of fiscal years 2008 through 2011 <sup>1</sup> Such sums shall remain available until expended.
-
-&emsp;(2)
-
-Allocations.—50 percent of amounts appropriated pursuant to this subsection for a fiscal year shall be used for making allocations under subsection (h)(2) and 50 percent of such amounts shall be used for making discretionary grants under subsection (h)(3).
-
-(Added Pub. L. 108–176, title VI, §605(a), Dec. 12, 2003, 117 Stat. 2566; amended Pub. L. 108–458, titleIV, §4019(e)(1), Dec. 17, 2004, 118 Stat. 3722; Pub. L. 110–53, title XVI, §§1603(a), 1604(a), Aug. 3, 2007, 121 Stat. 480.)
-
-#### References in Text
-
-The date of enactment of this section, referred to in subsec. (e)(2), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
+(Added Pub. L. 108–176, title VI, §605(a), Dec. 12, 2003, 117 Stat. 2566; amended Pub. L. 108–458, title IV, §4019(e)(1), Dec. 17, 2004, 118 Stat. 3722; Pub. L. 110–53, title XVI, §§1603(a), 1604(a), Aug. 3, 2007, 121 Stat. 480; Pub. L. 115–254, div. K, title I, §1991(d)(19), Oct. 5, 2018, 132 Stat. 3636.)
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–254, §1991(d)(19)(B), substituted "Administrator of the Transportation Security Administration" for "Under Secretary" wherever appearing.
+
+Subsec. (a). Pub. L. 115–254, §1991(d)(19)(A), in introductory provisions, substituted "Administrator of the Transportation Security Administration" for "Under Secretary for Border and Transportation Security of the Department of Homeland Security".
+
+Subsec. (e). Pub. L. 115–254, §1991(d)(19)(C), struck out par. (1) designation and heading before "The Government's share" and struck out par. (2). Prior to amendment, text of par. (2) read as follows: "The Under Secretary shall revise letters of intent issued before the date of enactment of this section to reflect the cost share established in this subsection with respect to grants made after September 30, 2003."
+
+Subsec. (j). Pub. L. 115–254, §1991(d)(19)(D), struck out subsec. (j) which authorized appropriations for fiscal years 2005 to 2011.
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–53, §1604(a)(1), substituted "shall make" for "may make" in introductory provisions.
 
@@ -147,6 +131,4 @@ Report.—Not later than 180 days after the date of enactment of this Act, the A
 #### Period of Reimbursement
 
 Pub. L. 108–458, title IV, §4019(e)(2), Dec. 17, 2004, 118 Stat. 3722, provided that: "Notwithstanding any other provision of law, the Secretary \[of Homeland Security\] may provide that the period of reimbursement under any letter of intent may extend for a period not to exceed 10 years after the date that the Secretary issues such letter, subject to the availability of appropriations. This paragraph applies to letters of intent issued under section 44923 of title 49, United States Code, and letters of intent issued under section 367 of the Department of Transportation and Related Agencies Appropriation Act, 2003 \[Pub. L. 108–7, div. I\] (49 U.S.C. 47110 note)."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

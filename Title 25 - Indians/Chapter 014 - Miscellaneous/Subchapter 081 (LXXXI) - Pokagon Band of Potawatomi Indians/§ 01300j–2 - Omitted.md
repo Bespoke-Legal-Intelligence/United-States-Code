@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 103–323, §3, Sept. 21, 1994, 108 Stat. 2153, which provided for the band and its members to be eligible for all Federal services and benefits furnished to federally recognized Indian tribes, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 103–323, §3, Sept. 21, 1994, 108 Stat. 2153, which provided for the band and its members to be eligible for all Federal services and benefits furnished to federally recognized Indian tribes, was omitted fromthe Code as being of special and not general application.
 

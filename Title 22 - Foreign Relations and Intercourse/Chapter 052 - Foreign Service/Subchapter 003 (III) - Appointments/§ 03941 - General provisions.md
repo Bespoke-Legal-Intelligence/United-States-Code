@@ -2,7 +2,7 @@
 
 #### (a) Citizenship requirement
 
-Only citizens of the United States may be appointed to the Service, other than for service abroad as a consular agent or as a foreign national employee.
+Only citizens of the United States may be appointed to the Service, other than for serviceabroad as a consular agent or as a foreign national employee.
 
 #### (b) Examinations
 

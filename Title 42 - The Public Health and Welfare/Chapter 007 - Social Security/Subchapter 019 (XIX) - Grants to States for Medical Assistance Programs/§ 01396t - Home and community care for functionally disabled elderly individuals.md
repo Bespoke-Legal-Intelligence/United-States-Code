@@ -108,7 +108,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 &emsp;&emsp;&emsp;(i) with public organizations; or
 
-&emsp;&emsp;&emsp;(ii) with nonpublic organizations which do not provide home and community care or nursing facility services and do not have a direct or indirect ownership or control interest in, or direct or indirect affiliation or relationship with, an entity that provides, community care or nursing facility services.
+&emsp;&emsp;&emsp;(ii) with nonpublic organizations which do not provide home and community careor nursing facility services and do not have a direct or indirect ownership or control interest in, or direct or indirect affiliation or relationship with, an entity that provides, community care or nursing facility services.
 
 #### (F) Contents of assessment
 
@@ -132,7 +132,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 &emsp;&emsp;(A) is established, and is periodically reviewed and revised, by a qualified case manager after a face-to-face interview with the individual or primary caregiver and based upon the most recent comprehensive functional assessment of such individual conducted under subsection (c)(2);
 
-&emsp;&emsp;(B) specifies, within any amount, duration, and scope limitations imposed on home andcommunity care provided under the State plan, the home and community care to be provided to such individual under the plan, and indicates the individual's preferences for the types and providers of services; and
+&emsp;&emsp;(B) specifies, within any amount, duration, and scope limitations imposed on home and community care provided under the State plan, the home and community care to be provided to such individual under the plan, and indicates the individual's preferences for the types and providers of services; and
 
 &emsp;&emsp;(C) may specify other services required by such individual.
 
@@ -276,7 +276,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 &emsp;&emsp;(A) must disclose persons with an ownership or control interest (including such persons as defined in section 1320a–3(a)(3) of this title) in the setting; and
 
-&emsp;&emsp;(B) may not have, as a person with an ownership or control interest in the setting, any individual or person who has been excluded from participation in the program under this subchapter or who has had such an ownership or control interest in one or more community care settings which have been found repeatedly to be substandard or to havefailed to meet the requirements of paragraph (2).
+&emsp;&emsp;(B) may not have, as a person with an ownership or control interest in the setting, any individual or person who has been excluded from participation in the program under this subchapter or who has had such an ownership or control interest in one or more community care settings which have been found repeatedly to be substandard or to have failed to meet the requirements of paragraph (2).
 
 #### (i) Survey and certification process
 
@@ -332,7 +332,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (5) Investigation of allegations of individual neglect and abuse and misappropriation of individual property
 
-&emsp;The State shall provide, through the agency responsible for surveys and certification of providers of home or community care and community care settings under this subsection, for a process for the receipt, review, and investigation of allegations of individual neglect and abuse (including injuries of unknown source) by individuals providing suchcare or in such setting and of misappropriation of individual property by such individuals. The State shall, after notice to the individual involved and a reasonable opportunity for hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations. If the State finds that an individual has neglected or abused an individual receiving community care or misappropriated such individual's property, the State shall notify the individual against whom the finding is made. A State shall not make a finding that a person has neglected an individual receiving community care if the person demonstrates that such neglect was caused by factors beyond the control of the person. The State shall provide for public disclosure of findings under this paragraph upon request and for inclusion, in any such disclosure of such findings, of any brief statement (or of a clear and accurate summary thereof) of the individual disputing such findings.
+&emsp;The State shall provide, through the agency responsible for surveys and certification of providers of home or community care and community care settings under this subsection, for a process for the receipt, review, and investigation of allegations of individual neglect and abuse (including injuries of unknown source) by individuals providing such care or in such setting and of misappropriation of individual property by such individuals. The State shall, after notice to the individual involved and a reasonable opportunity for hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations. If the State finds that an individual has neglected or abused an individual receiving community care or misappropriated such individual's property, the State shall notify the individual against whom the finding is made. A State shall not make a finding that a person has neglected an individual receiving community care if the person demonstrates that such neglect was caused by factors beyond the control of the person. The State shall provide for public disclosure of findings under this paragraph upon request and for inclusion, in any such disclosure of such findings, of any brief statement (or of a clear and accurate summary thereof) of the individual disputing such findings.
 
 #### (6) Disclosure of results of inspections and activities
 
@@ -372,7 +372,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each State shall establish by law (whether statute or regulation) at least the following remedy: A civil money penalty assessed and collected, with interest, for each day in which the provider is or was out of compliance with a requirement of this section. Funds collected by a State as a result of imposition of such a penalty (or as a result of the imposition by the State of a civil money penalty under subsection (i)(3)(A)) may be applied to reimbursement of individuals for personal funds lost due to a failure of home or community care providers to meet the requirements of this section. The State also shall specify criteria, as to when and how this remedy is to be applied and the amounts of any penalties. Such criteria shall be designed so as to minimize the time between the identification of violations and final imposition of the penalties and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
+&emsp;&emsp;&emsp;Each State shall establish by law (whether statute or regulation) at least the following remedy: A civil money penalty assessed and collected, with interest, for each day in which the provider is or was out of compliance with a requirement of this section. Funds collected by a State as a result of imposition of such a penalty (or as a result of the imposition by theState of a civil money penalty under subsection (i)(3)(A)) may be applied to reimbursement of individuals for personal funds lost due to a failure of home or community care providers to meet the requirements of this section. The State also shall specify criteria, as to when and how this remedy is to be applied and the amounts of any penalties. Such criteria shall be designed so as to minimize the time between the identification of violations and final imposition of the penalties and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
 
 #### (ii) Deadline and guidance
 
@@ -424,7 +424,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (4) No prevention of more stringent requirements by States
 
-&emsp;Nothing in this section shall be construed as preventing States from imposing requirements that are more stringent than the requirements published or developed by the Secretary under this subsection.
+&emsp;Nothing in this section shall be construed as preventing States from imposing requirements that are more stringent than the requirementspublished or developed by the Secretary under this subsection.
 
 #### (l) Waiver of Statewideness
 
@@ -446,7 +446,7 @@ States may waive the requirement of section 1396a(a)(1) of this title (related t
 
 #### (4) Allocation of medical assistance
 
-&emsp;The Secretary shall establish a limitation on the amount of Federal medical assistanceavailable to any State during the State's election period under paragraph (2). The limitation under this paragraph shall take into account the limitation under paragraph (1) and the number of elderly individuals age 65 or over residing in such State in relation to the number of such elderly individuals in the United States during 1990. For purposes of the previous sentence, elderly individuals shall, to the maximum extent practicable, be low-income elderly individuals.
+&emsp;The Secretary shall establish a limitation on the amount of Federal medical assistance available to any State during the State's election period under paragraph (2). The limitation under this paragraph shall take into account the limitation under paragraph (1) and the number of elderly individuals age 65 or over residing in such State in relation to the number of such elderly individuals in the United States during 1990. For purposes of the previous sentence, elderly individuals shall, to the maximum extent practicable, be low-income elderly individuals.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1929, as added Pub. L. 101–508, title IV, §4711(b), Nov. 5, 1990, 104 Stat. 1388–174; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(v)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398.)
 

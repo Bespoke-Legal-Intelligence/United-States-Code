@@ -26,7 +26,7 @@ The Corporation may approve of any of the following service positions as an appr
 
 #### References in Text
 
-The Domestic Volunteer Service Act of 1973, referred to in par. (3), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in par. (3), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394.Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 #### Prior Provisions
 
@@ -49,4 +49,8 @@ Pars. (7), (8). Pub. L. 111–13, §1303(5), (6), added par. (7) and redesignate
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
 

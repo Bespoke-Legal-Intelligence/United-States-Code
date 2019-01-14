@@ -98,7 +98,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;&emsp;(C) not undertake any actions to monopolize or attempt to monopolize the market for such services; and
 
-&emsp;&emsp;(D) not preferentially treat its own telecommunications equipment or customerpremises equipment, or that of its affiliate, over that of any other entity in establishing and publishing industry-wide standards or industry-wide generic requirements for, and in certification of, telecommunications equipment and customer premises equipment.
+&emsp;&emsp;(D) not preferentially treat its own telecommunications equipment or customer premises equipment, or that of its affiliate, over that of any other entity in establishing and publishing industry-wide standards or industry-wide generic requirements for, and in certification of, telecommunications equipment and customer premises equipment.
 
 #### (5) Alternate dispute resolution
 
@@ -146,7 +146,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 #### (3) Network planning and design
 
-&emsp;A Bell operating company shall, to the extent consistent with the antitrust laws, engage in joint network planning and design with local exchange carriers operating in the same area of interest. No participant in such planning shall be allowed to delay the introduction of new technology or the deployment of facilities to provide telecommunicationsservices, and agreement with such other carriers shall not be required as a prerequisite for such introduction or deployment.
+&emsp;A Bell operating company shall, to the extent consistent with the antitrust laws, engage in joint network planning and design with local exchange carriers operating in the same area of interest. No participant in such planning shall be allowed to delay the introduction of new technology or the deployment of facilities to provide telecommunications services, and agreement with such other carriers shall not be required as a prerequisite for such introduction or deployment.
 
 #### (4) Sales restrictions
 

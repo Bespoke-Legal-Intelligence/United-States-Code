@@ -23,6 +23,7 @@
 | :--- | ---: |
 | [5321\.](Subchapter%20002%20%28II%29%20-%20Employees/%C2%A7%2005321%20-%20Employees%20of%20Members%20of%20House%20of%20Representatives.md) | Employees of Members of House of Representatives. |
 | [5322\.](Subchapter%20002%20%28II%29%20-%20Employees/%C2%A7%2005322%20-%20Lyndon%20Baines%20Johnson%20congressional%20interns.md) | Lyndon Baines Johnson congressional interns. |
+| [5322a.](Subchapter%20002%20%28II%29%20-%20Employees/%C2%A7%2005322a%20-%20Allowance%20for%20compensation%20of%20interns%20in%20member%20offices.md) | Allowance for compensation of interns in member offices. |
 | [5323\.](Subchapter%20002%20%28II%29%20-%20Employees/%C2%A7%2005323%20-%20Pay%20of%20clerical%20assistants%20as%20affected%20by%20death%20of%20Senator%20or%20Representative.md) | Pay of clerical assistants as affected by death of Senator or Representative. |
 | [5324\.](Subchapter%20002%20%28II%29%20-%20Employees/%C2%A7%2005324%20-%20Pay%20of%20clerical%20assistants%20as%20affected%20by%20death%20or%20resignation%20of%20Member%20of%20House.md) | Pay of clerical assistants as affected by death or resignation of Member of House. |
 | [5325\.](Subchapter%20002%20%28II%29%20-%20Employees/%C2%A7%2005325%20-%20Performance%20of%20duties%20by%20clerical%20assistants%20of%20dead%20or%20resigned%20Member%20of%20House.md) | Performance of duties by clerical assistants of dead or resigned Member of House. |
@@ -43,6 +44,12 @@
 | [5344\.](Subchapter%20003%20%28III%29%20-%20Expenses%20and%20Allowances/%C2%A7%2005344%20-%20Payments%20and%20reimbursements%20for%20certain%20House%20staff%20expenses.md) | Payments and reimbursements for certain House staff expenses. |
 | [5345\.](Subchapter%20003%20%28III%29%20-%20Expenses%20and%20Allowances/%C2%A7%2005345%20-%20Annotated%20United%20States%20Code%20for%20Members%20of%20House%20of%20Representatives%20to%20be%20paid%20for%20from%20Members%27%20Representational%20Allowance.md) | Annotated United States Code for Members of House of Representatives to be paid for from Members' Representational Allowance. |
 | [5346\.](Subchapter%20003%20%28III%29%20-%20Expenses%20and%20Allowances/%C2%A7%2005346%20-%20Transportation%20of%20official%20records%20and%20papers%20to%20House%20Member%27s%20district.md) | Transportation of official records and papers to House Member's district. |
+| [5347\.](Subchapter%20003%20%28III%29%20-%20Expenses%20and%20Allowances/%C2%A7%2005347%20-%20Delivery%20of%20bills%20and%20resolutions.md) | Delivery of bills and resolutions. |
+| [5348\.](Subchapter%20003%20%28III%29%20-%20Expenses%20and%20Allowances/%C2%A7%2005348%20-%20Delivery%20of%20Congressional%20Record.md) | Delivery of Congressional Record. |
+| [5349\.](Subchapter%20003%20%28III%29%20-%20Expenses%20and%20Allowances/%C2%A7%2005349%20-%20Limitation%20on%20printed%20copies%20of%20U.S.%20Code%20to%20House.md) | Limitation on printed copies of U.S. Code to House. |
+| [5350\.](Subchapter%20003%20%28III%29%20-%20Expenses%20and%20Allowances/%C2%A7%2005350%20-%20Delivery%20of%20reports%20of%20disbursements.md) | Delivery of reports of disbursements. |
+| [5351\.](Subchapter%20003%20%28III%29%20-%20Expenses%20and%20Allowances/%C2%A7%2005351%20-%20Delivery%20of%20Daily%20Calendar.md) | Delivery of Daily Calendar. |
+| [5352\.](Subchapter%20003%20%28III%29%20-%20Expenses%20and%20Allowances/%C2%A7%2005352%20-%20Delivery%20of%20Congressional%20Pictorial%20Directory.md) | Delivery of Congressional Pictorial Directory. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

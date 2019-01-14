@@ -48,7 +48,7 @@
 
 (B) In addition to requiring the small business concern to execute the agreement described in subparagraph (A) of this paragraph, the Secretary shall, before the undertaking or suspension of the obligation, take such action and require the small business concern to take such action as the Secretary considers appropriate in the circumstances, including the provision of such security as the Secretary considers necessary or appropriate, to assure that the rights and interest of the United States and any lender will be safeguarded adequately during and after the period in which such obligation is so undertaken or suspended.
 
-(Added Pub. L. 97–72, title III, §302(a), Nov. 3, 1981, 95 Stat. 1055, §1842; amended Pub. L. 99–576, title VII, §702(10), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §3742 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404, 406.)
+(Added Pub. L. 97–72, title III, §302(a), Nov. 3, 1981, 95 Stat. 1055, §1842; amended Pub. L. 99–576, title VII, §702(10), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §3742 and amendedPub. L. 102–83, §§4(a)(3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404, 406.)
 
 #### References in Text
 

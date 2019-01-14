@@ -32,7 +32,7 @@ All persons liable for the tax under subsection (a) or (b), or under any similar
 
 #### (1) Liability for tax
 
-&emsp;Any person who withdraws distilled spirits from the bonded premises of a distilled spirits plant without payment of tax, as provided in section 5214(a)(4), (5), (6), (7), (8), (9), (10), or (13), shall be liable for the internal revenue tax on such distilled spirits, from the time of such withdrawal; and all persons liable for the tax on such distilled spirits under subsection (a) or (b), or under any similar prior provisions of internal revenue law, shall, at the time of such withdrawal, be relieved of any such liability on the distilled spirits so withdrawn if the person withdrawing such spirits and the person, or persons, liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, are independent of each other and neither has a proprietary interest, directly or indirectly, in the business of the other, and all persons liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, have divested themselves of all interest in the spirits so withdrawn.
+&emsp;Any person who withdraws distilled spirits from the bonded premises of a distilled spiritsplant without payment of tax, as provided in section 5214(a)(4), (5), (6), (7), (8), (9), (10), or (13), shall be liable for the internal revenue tax on such distilled spirits, from the time of such withdrawal; and all persons liable for the tax on such distilled spirits under subsection (a) or (b), or under any similar prior provisions of internal revenue law, shall, at the time of such withdrawal, be relieved of any such liability on the distilled spirits so withdrawn if the person withdrawing such spirits and the person, or persons, liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, are independent of each other and neither has a proprietary interest, directly or indirectly, in the business of the other, and all persons liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, have divested themselves of all interest in the spirits so withdrawn.
 
 #### (2) Relief from liability
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, see section 456(c) of Pub
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–223 effective on first day of first calendar month beginning more than 60 days afterApr. 2, 1980, see section 232(h)(3) of Pub. L. 96–223, set out as an Effective Date note under section 5181 of this title.
+Amendment by Pub. L. 96–223 effective on first day of first calendar month beginning more than 60 days after Apr. 2, 1980, see section 232(h)(3) of Pub. L. 96–223, set out as an Effective Date note under section 5181 of this title.
 
 #### Effective Date of 1979 Amendment
 

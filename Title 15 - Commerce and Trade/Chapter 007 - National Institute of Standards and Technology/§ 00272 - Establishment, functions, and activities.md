@@ -120,9 +120,11 @@ In carrying out the extramural funding programs of the Institute, including the 
 
 &emsp;&emsp;&emsp;(vi) align with voluntary international standards to the fullest extent possible;
 
-&emsp;&emsp;&emsp;(vii) prevent duplication of regulatory processes and prevent conflict with or superseding of regulatory requirements, mandatory standards, and related processes; and
+&emsp;&emsp;&emsp;(vii) prevent duplication of regulatory processes and prevent conflict with or superseding of regulatory requirements, mandatory standards, and related processes;
 
-&emsp;&emsp;&emsp;(viii) include such other similar and consistent elements as the Director considers necessary; and
+&emsp;&emsp;&emsp;(viii) consider small business concerns (as defined in section 632 of this title); and
+
+&emsp;&emsp;&emsp;(ix) include such other similar and consistent elements as the Director considers necessary; and
 
 &emsp;&emsp;(B) shall not prescribe or otherwise require—
 
@@ -148,7 +150,7 @@ In carrying out the extramural funding programs of the Institute, including the 
 
 &emsp;&emsp;The term "sector-specific agency" means the Federal department or agency responsible for providing institutional knowledge and specialized expertise as well as leading, facilitating, or supporting the security and resilience programs and associated activities of its designated critical infrastructure sector in the all-hazards environment.
 
-(Mar. 3, 1901, ch. 872, §2, 31 Stat. 1449; July 22, 1950, ch. 486, §1, 64 Stat. 371; Pub. L. 92–317, §3(b), June 22, 1972, 86 Stat. 235; Pub. L. 100–235, §3(1), Jan. 8, 1988, 101 Stat. 1724; Pub. L. 100–418, title V, §5112(a), Aug. 23, 1988, 102 Stat. 1428; Pub. L. 102–245, title II, §201(e), Feb. 14, 1992, 106 Stat. 19; Pub. L. 104–113, §12(a), (b), Mar. 7, 1996, 110 Stat. 782; Pub. L. 110–69, title III, §§3002(c)(2)(A), 3013(b), Aug. 9, 2007, 121 Stat. 586, 598; Pub. L. 113–274, title I, §101(a), (b), Dec. 18, 2014, 128 Stat. 2972; Pub. L. 114–329, title I, §104(b)(4), title II, §§202(d), 205(a)(2)(B), title IV, §403, Jan. 6, 2017, 130 Stat. 2976, 2998, 3000, 3023.)
+(Mar. 3, 1901, ch. 872, §2, 31 Stat. 1449; July 22, 1950, ch. 486, §1, 64 Stat. 371; Pub. L. 92–317, §3(b), June 22, 1972, 86 Stat. 235; Pub. L. 100–235, §3(1), Jan. 8, 1988, 101 Stat. 1724; Pub. L. 100–418, title V, §5112(a), Aug. 23, 1988, 102 Stat. 1428; Pub. L. 102–245, title II, §201(e), Feb. 14, 1992, 106 Stat. 19; Pub. L. 104–113, §12(a), (b), Mar. 7, 1996, 110 Stat. 782; Pub. L. 110–69, title III, §§3002(c)(2)(A), 3013(b), Aug. 9, 2007, 121 Stat. 586, 598; Pub. L. 113–274, title I, §101(a), (b), Dec. 18, 2014, 128 Stat. 2972; Pub. L. 114–329, title I, §104(b)(4), title II, §§202(d), 205(a)(2)(B), title IV, §403, Jan. 6, 2017, 130 Stat. 2976, 2998, 3000, 3023; Pub. L. 115–236, §2(b), Aug. 14, 2018, 132 Stat. 2444.)
 
 #### References in Text
 
@@ -158,6 +160,8 @@ Section 202 of the American Innovation and Competitiveness Act, referred to in s
 
 #### Amendments
 
+<b>2018</b>—Subsec. (e)(1)(A)(viii), (ix). Pub. L. 115–236 added cl. (viii) and redesignated former cl. (viii) as (ix).
+
 <b>2017</b>—Subsec. (b). Pub. L. 114–329, §403(1), in introductory provisions, substituted "authorized to serve as the President's principal adviser on standards policy pertaining to the Nation's technological competitiveness and innovation ability and to take" for "authorized to take".
 
 Subsec. (b)(3). Pub. L. 114–329, §403(2), substituted "facilitate standards-related information sharing and cooperation between Federal agencies" for "compare standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government".
@@ -166,9 +170,9 @@ Subsec. (b)(13). Pub. L. 114–329, §403(3), substituted "technical standards a
 
 Subsec. (c)(16) to (27). Pub. L. 114–329, §§104(b)(4), 202(d), added pars. (16) and (19) to (21), redesignated former pars. (16) and (17) as (17) and (18), respectively, and redesignated former pars. (18) to (23) as (22) to (27), respectively.
 
-<b>2014</b>—Subsec. (c)(15) to (23). Pub. L. 113–274, §101(a), added par. (15) and redesignated former pars. (15) to (22) as (16) to (23), respectively.
-
 Subsec. (d). Pub. L. 114–329, §205(a)(2)(B), substituted "sections 278k and 278l" for "sections 278k, 278l, and 278n".
+
+<b>2014</b>—Subsec. (c)(15) to (23). Pub. L. 113–274, §101(a), added par. (15) and redesignated former pars. (15) to (22) as (16) to (23), respectively.
 
 Subsec. (e). Pub. L. 113–274, §101(b), added subsec. (e).
 
@@ -178,7 +182,7 @@ Subsec. (b)(4). Pub. L. 110–69, §3013(b), inserted "and grants and cooperativ
 
 Subsec. (c). Pub. L. 110–69, §3002(c)(2)(A)(ii), struck out "and, if appropriate, through other appropriate officials," before "may," in introductory provisions.
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–113, §12(a)(1), struck out ", including comparing standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government" after "consistent with those standards".
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–113, §12(a)(1), struck out ", including comparing standards used in scientificinvestigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government" after "consistent with those standards".
 
 Subsec. (b)(3) to (12). Pub. L. 104–113, §12(a)(2), (3), added par. (3) and redesignated former pars. (3) to (11) as (4) to (12), respectively.
 
@@ -193,6 +197,54 @@ Par. (20). Pub. L. 100–235 added par. (20).
 <b>1972</b>—Par. (19). Pub. L. 92–317 inserted provisions authorizing use of National Bureau of Standards personnel for teaching and training activities without additional compensation.
 
 <b>1950</b>—Act July 22, 1950, provided basic authority for performance of certain functions and activities of Department of Commerce.
+
+#### Construction of Pub. L. 115–236
+
+Pub. L. 115–236, §2(d), Aug. 14, 2018, 132 Stat. 2445, provided that: "Nothing in this section \[amending this section and enacting provisions set out as notes under this section\] may be construed to supersede, alter, or otherwise affect any cybersecurity requirements applicable to Federal agencies."
+
+#### Dissemination of Resources for Small Businesses
+
+Pub. L. 115–236, §2(c), Aug. 14, 2018, 132 Stat. 2444, provided that:
+
+"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Aug. 14, 2018\], the Director, in carrying out section 2(e)(1)(A)(viii) of the National Institute of Standards and Technology Act \[15 U.S.C. 272(e)(1)(A)(viii)\], as added by subsection (b) of this Act, in consultation with the heads of other appropriate Federal agencies, shall disseminate clear and concise resources to help small business concerns identify, assess, manage, and reduce their cybersecurity risks.
+
+"(2)
+
+Requirements.—The Director shall ensure that the resources disseminated pursuant to paragraph (1)—
+
+&emsp;"(A) are generally applicable and usable by a wide range of small business concerns;
+
+&emsp;"(B) vary with the nature and size of the implementing small business concern, and the nature and sensitivity of the data collected or stored on the information systems or devices of the implementing small business concern;
+
+&emsp;"(C) include elements, that promote awareness of simple, basic controls, a workplace cybersecurity culture, and third-party stakeholder relationships, to assist small business concerns in mitigating common cybersecurity risks;
+
+&emsp;"(D) include case studies of practical application;
+
+&emsp;"(E) are technology-neutral and can be implemented using technologies that are commercial and off-the-shelf; and
+
+&emsp;"(F) are based on international standards to the extent possible, and are consistent with the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).
+
+"(3)
+
+National cybersecurity awareness and education program.—The Director shall ensure that the resources disseminated under paragraph (1) are consistent with the efforts of the Director under section 401 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7451).
+
+"(4)
+
+Small business development center cyber strategy.—In carrying out paragraph (1), the Director, to the extent practicable, shall consider any methods included in the Small Business Development Center Cyber Strategy developed under section 1841(a)(3)(B) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) \[130 Stat. 2662\].
+
+"(5)
+
+Voluntary resources.—The use of the resources disseminated under paragraph (1) shall be considered voluntary.
+
+"(6)
+
+Updates.—The Director shall review and, if necessary, update the resources disseminated under paragraph (1) in accordance with the requirements under paragraph (2).
+
+"(7)
+
+Public availability.—The Director and the head of each Federal agency that so elects shall make prominently available on the respective agency's public Internet website information about the resources and updates to the resources disseminated under paragraph (1). The Director and the heads shall each ensure that the information they respectively make prominently available is consistent, clear, and concise."
 
 #### NIST Cybersecurity Priorities
 
@@ -280,7 +332,7 @@ Exception.—If compliance with paragraph (1) of this subsection is inconsistent
 
 "(4)
 
-Expenses of government personnel.—Section 5946 of title 5, United States Code, shall not apply with respect to any activity of an employee of a Federalagency or department that is determined by the head of that agency or department as being an activity undertaken in carrying out this subsection.
+Expenses of government personnel.—Section 5946 of title 5, United States Code, shall not apply with respect to any activity of an employee of a Federal agency or department that is determined by the head of that agency or department as being an activity undertaken in carrying out this subsection.
 
 "(5)
 
@@ -329,6 +381,22 @@ Act Oct. 25, 1949, ch. 703, 63 Stat. 886, provided for the construction and equi
 #### Construction of a Guided-Missile Research Laboratory
 
 Act Oct. 25, 1949, ch. 728, 63 Stat. 905, provided for the construction and equipment of a research laboratory building, suitable for use as a guided-missile laboratory, together with necessary utilities and appurtenances thereto, under a limit of cost of $1,900,000, for the National Bureau of Standards.
+
+#### Definitions
+
+Pub. L. 115–236, §2(a), Aug. 14, 2018, 132 Stat. 2444, provided that: "In this section \[amending this section and enacting provisions set out as notes under this section\]:
+
+&emsp;"(1)
+
+Director.—The term 'Director' means the Director of the National Institute of Standards and Technology.
+
+&emsp;"(2)
+
+Resources.—The term 'resources' means guidelines, tools, best practices, standards, methodologies, and other ways of providing information.
+
+&emsp;"(3)
+
+Small business concern.—The term 'small business concern' has the meaning given such term in section 3 of the Small Business Act (15 U.S.C. 632)."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

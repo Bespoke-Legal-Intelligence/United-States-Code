@@ -248,7 +248,7 @@ In general.—If a foreign corporation is not exempt for any taxable year from t
 
 "(B)
 
-Limitation on certain treaty benefits.—No foreign corporation which is not a qualified resident of a foreign country shall be entitled to claim benefits under any income tax treaty between the United States and such foreign country with respect to dividends—
+Limitation on certain treaty benefits.—No foreign corporation which is not a qualified resident ofa foreign country shall be entitled to claim benefits under any income tax treaty between the United States and such foreign country with respect to dividends—
 
 &emsp;"(i) which are paid by such foreign corporation and with respect to which such foreign corporation is otherwise required to deduct and withhold tax under section 1441 or 1442, or
 

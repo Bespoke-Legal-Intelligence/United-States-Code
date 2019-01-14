@@ -11,3 +11,4 @@
 - [&sect; 03704 - United States-Sub-Saharan Africa Trade and Economic Cooperation Forum](%C2%A7%2003704%20-%20United%20States-Sub-Saharan%20Africa%20Trade%20and%20Economic%20Cooperation%20Forum.md)
 - [&sect; 03705 - Reporting requirement](%C2%A7%2003705%20-%20Reporting%20requirement.md)
 - [&sect; 03706 - Sub-Saharan Africa defined](%C2%A7%2003706%20-%20Sub-Saharan%20Africa%20defined.md)
+- [&sect; 03707 - Activities in support of transparency](%C2%A7%2003707%20-%20Activities%20in%20support%20of%20transparency.md)

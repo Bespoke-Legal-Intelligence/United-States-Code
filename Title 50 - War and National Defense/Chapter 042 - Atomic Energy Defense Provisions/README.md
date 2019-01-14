@@ -125,6 +125,7 @@
 | [2624\.](Subchapter%20004%20%28IV%29%20-%20Defense%20Environmental%20Cleanup%20Matters/Part%20C%20-%20Hanford%20Reservation%2C%20Washington/%C2%A7%2002624%20-%20Funding%20for%20termination%20costs%20of%20River%20Protection%20Project%2C%20Richland%2C%20Washington.md) | Funding for termination costs of River Protection Project, Richland, Washington. |
 | [2625\.](Subchapter%20004%20%28IV%29%20-%20Defense%20Environmental%20Cleanup%20Matters/Part%20C%20-%20Hanford%20Reservation%2C%20Washington/%C2%A7%2002625%20-%20Plan%20for%20tank%20farm%20waste%20at%20Hanford%20Nuclear%20Reservation.md) | Plan for tank farm waste at Hanford Nuclear Reservation. |
 | [2626\.](Subchapter%20004%20%28IV%29%20-%20Defense%20Environmental%20Cleanup%20Matters/Part%20C%20-%20Hanford%20Reservation%2C%20Washington/%C2%A7%2002626%20-%20Hanford%20Waste%20Treatment%20and%20Immobilization%20Plant%20contract%20oversight.md) | Hanford Waste Treatment and Immobilization Plant contract oversight. |
+| [2627\.](Subchapter%20004%20%28IV%29%20-%20Defense%20Environmental%20Cleanup%20Matters/Part%20C%20-%20Hanford%20Reservation%2C%20Washington/%C2%A7%2002627%20-%20Notification%20regarding%20air%20release%20of%20radioactive%20or%20hazardous%20material.md) | Notification regarding air release of radioactive or hazardous material. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -265,6 +266,7 @@
 | [2784\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20A%20-%20Contracts/%C2%A7%2002784%20-%20Notice-and-wait%20requirement%20applicable%20to%20certain%20third-party%20financing%20arrangements.md) | Notice-and-wait requirement applicable to certain third-party financing arrangements. |
 | [2785\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20A%20-%20Contracts/%C2%A7%2002785%20-%20Publication%20of%20contractor%20performance%20evaluations%20leading%20to%20award%20fees.md) | Publication of contractor performance evaluations leading to award fees. |
 | [2786\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20A%20-%20Contracts/%C2%A7%2002786%20-%20Enhanced%20procurement%20authority%20to%20manage%20supply%20chain%20risk.md) | Enhanced procurement authority to manage supply chain risk. |
+| [2787\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20A%20-%20Contracts/%C2%A7%2002787%20-%20Cost-benefit%20analyses%20for%20competition%20of%20management%20and%20operating%20contracts.md) | Cost-benefit analyses for competition of management and operating contracts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

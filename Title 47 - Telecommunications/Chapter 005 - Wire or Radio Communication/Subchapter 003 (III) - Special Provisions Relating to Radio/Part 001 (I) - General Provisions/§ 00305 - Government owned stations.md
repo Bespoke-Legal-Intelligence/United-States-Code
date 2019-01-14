@@ -44,7 +44,7 @@ Prepared by the President and Transmitted to the Senate and the House of Represe
 
 #### Section 1. Transfer of Functions
 
-The functions relating to assigning frequencies to radio stations belonging to and operated by the UnitedStates, or to classes thereof, conferred upon the President by the provisions of section 305(a) of the Communications Act of 1934, 47 U.S.C. 305(a), are hereby transferred to the Director of the Office of Telecommunications Policy hereinafter provided for.
+The functions relating to assigning frequencies to radio stations belonging to and operated by the United States, or to classes thereof, conferred upon the President by the provisions of section 305(a) of the Communications Act of 1934, 47 U.S.C. 305(a), are hereby transferred to the Director of the Office of Telecommunications Policy hereinafter provided for.
 
 #### Sec. 2. Establishment of Office
 
@@ -118,7 +118,7 @@ Ex. Ord. No. 10995, eff. Feb. 16, 1962, 27 F.R. 1519, as amended by Ex. Ord. No.
 
 #### Executive Order No. 11556
 
-Ex. Ord. No. 11556, Sept. 4, 1970, 35 F.R. 14193, as amended by Ex. Ord. No. 11921, June 11, 1976, 41 F.R. 2494, which related to the assignment of telecommunication functions, was revoked by Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, set out below.
+Ex. Ord. No. 11556, Sept. 4, 1970, 35 F.R. 14193, as amended by Ex. Ord. No. 11921, June 11, 1976, 41 F.R.2494, which related to the assignment of telecommunication functions, was revoked by Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, set out below.
 
 #### Ex. Ord. No. 12046. Transfer of Telecommunications Functions
 
@@ -168,7 +168,7 @@ Radio Frequencies
 
 Construction of Radio Stations
 
-2–201. The authority to authorize a foreign government to construct and operate a radio station at the seat of government of the United States was transferred to the Secretary of Commerce. Authorization forthe construction and operation of a radio station pursuant to this authority and the assignment of a frequency for its use can be made only upon recommendation of the Secretary of State and after consultation with the Attorney General and the Chairman of the Federal Communications Commission.
+2–201. The authority to authorize a foreign government to construct and operate a radio station at the seat of government of the United States was transferred to the Secretary of Commerce. Authorization for the construction and operation of a radio station pursuant to this authority and the assignment of a frequency for its use can be made only upon recommendation of the Secretary of State and after consultation with the Attorney General and the Chairman of the Federal Communications Commission.
 
 2–202. This authority, which was originally vested in the President by Section 305(d) of the Communications Act of 1934, as amended (47 U.S.C. 305), was delegated to the Director of the Office of Telecommunications Policy by Section 5 of Executive Order No. 11556.
 
@@ -366,7 +366,7 @@ General
 
 6–302. All Executive agencies are authorized and directed to cooperate with the departments and agencies to which functions are assigned pursuant to this Order and to furnish them such information, support and assistance, not inconsistent with law, as they may require in the performance of those functions.
 
-6–303. (a) Nothing in this Order reassigns any function assigned any agency under the Federal Property and Administrative Services Act of 1949, as amended \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], nor does anything in this Order impair the existing authority of the Administrator of General Services to provide and operate telecommunications services and to prescribe policies and methods of procurement, or impair the policy and oversight roles of the Office of Management and Budget.
+6–303. (a) Nothing in this Order reassigns any function assigned any agency under the Federal Property and Administrative Services Act of 1949, as amended \[see chapters 1 to 11 of Title 40, Public Buildings, Property,and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], nor does anything in this Order impair the existing authority of the Administrator of General Services to provide and operate telecommunications services and to prescribe policies and methods of procurement, or impair the policy and oversight roles of the Office of Management and Budget.
 
 (b) In carrying out the functions in this Order, the Secretary of Commerce shall coordinate activities as appropriate with the Federal Communications Commission and make appropriate recommendations to it as the regulator of the private sector. Nothing in this Order reassigns any function vested by law in the Federal Communications Commission.
 

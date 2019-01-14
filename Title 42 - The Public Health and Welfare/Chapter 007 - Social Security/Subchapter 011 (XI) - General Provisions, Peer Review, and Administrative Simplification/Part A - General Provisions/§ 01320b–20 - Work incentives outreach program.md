@@ -34,7 +34,7 @@
 
 #### (3) Coordination with other programs
 
-&emsp;The responsibilities of the Commissioner established under this section shall be coordinated with other public and private programsthat provide information and assistance regarding rehabilitation services and independent living supports and benefits planning for disabled beneficiaries including the program under section 1382h of this title, the plans for achieving self-support program (PASS), and any other Federal or State work incentives programs that are designed to assist disabled beneficiaries, including educational agencies that provide information and assistance regarding rehabilitation, school-to-work programs, transition services (as defined in, and provided in accordance with, the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.)), a one-stop delivery system established under section 3151(e) of title 29, and other services.
+&emsp;The responsibilities of the Commissioner established under this section shall be coordinated with other public and private programs that provide information and assistance regarding rehabilitation services and independent living supports and benefits planning for disabled beneficiaries including the program under section 1382h of this title, the plans for achieving self-support program (PASS), and any other Federal or State work incentives programs that are designed to assist disabled beneficiaries, including educational agencies that provide information and assistance regarding rehabilitation, school-to-work programs, transition services (as defined in, and provided in accordance with, the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.)), a one-stop delivery system established under section 3151(e) of title 29, and other services.
 
 #### (b) Conditions
 
@@ -100,7 +100,7 @@
 
 #### (B) Carryover
 
-&emsp;&emsp;An amount not in excess of 10 percent of the total amount obligated through a grant,cooperative agreement, or contract awarded under this section for a fiscal year to a State or a private agency or organization shall remain available for obligation to such State or private agency or organization until the end of the succeeding fiscal year. Any such amount remaining available for obligation during such succeeding fiscal year shall be available for providing benefits planning and assistance only for individuals who are within the caseload of the recipient of the grant, agreement, or contract as of immediately before the beginning of such fiscal year.
+&emsp;&emsp;An amount not in excess of 10 percent of the total amount obligated through a grant, cooperative agreement, or contract awarded under this section for a fiscal year to a State or a private agency or organization shall remain available for obligation to such State or private agency or organization until the end of the succeeding fiscal year. Any such amount remaining available for obligation during such succeeding fiscal year shall be available for providing benefits planning and assistance only for individuals who are within the caseload of the recipient of the grant, agreement, or contract as of immediately before the beginning of such fiscal year.
 
 #### (c) Annual report
 

@@ -132,7 +132,7 @@ Not later than 90 days after the last day of each fiscal year (beginning with th
 
 &emsp;&emsp;<b>(2) For application of Taxpayer Assistance Orders to persons performing services under a qualified tax collection contract, see section 7811(g).</b>
 
-(Added Pub. L. 108–357, title VIII, §881(a)(1), Oct. 22, 2004, 118 Stat. 1625; amended Pub. L. 114–94, div. C, title XXXII, §§32102(a)–(c), (e), (f)(1), 32103(a), Dec. 4, 2015, 129 Stat. 1733–1736.)
+(Added Pub. L. 108–357, title VIII, §881(a)(1), Oct. 22, 2004, 118 Stat. 1625; amended Pub. L. 114–94, div. C, title XXXII, §§32102(a)–(c), (e), (f)(1), 32103(a), Dec. 4, 2015, 129 Stat. 1733–1736; Pub. L. 115–141, div. U, title IV, §401(a)(351), Mar. 23, 2018, 132 Stat. 1201.)
 
 #### References in Text
 
@@ -140,13 +140,15 @@ The Fair Debt Collection Practices Act, referred to in subsec. (e), is title VII
 
 #### Amendments
 
+<b>2018</b>—Subsec. (e)(2). Pub. L. 115–141, §401(a)(351), made technical amendment to directory language of Pub. L. 114–94, §32103(a). See 2015 Amendment note below.
+
 <b>2015</b>—Subsec. (c). Pub. L. 114–94, §32102(a), added subsec. (c). Former subsec. (c) redesignated (e).
 
 Subsec. (d). Pub. L. 114–94, §32102(b), added subsec. (d). Former subsec. (d) redesignated (f).
 
 Subsec. (e). Pub. L. 114–94, §32102(a), (b), successively redesignated subsec. (c) as (d) and then as (e). Former subsec. (e) redesignated (g).
 
-Subsec. (e)(2). Pub. L. 114–94, §32103(a), substituted "to fund the special compliance personnel program account under section 6307" for "for collection enforcement activities of the Internal Revenue Service".
+Subsec. (e)(2). Pub. L. 114–94, §32103(a), as amended by Pub. L. 115–141, §401(a)(351), substituted "to fund the special compliance personnel program account under section 6307" for "for collection enforcement activities of the Internal Revenue Service".
 
 Subsec. (f). Pub. L. 114–94, §32102(a), (b), successively redesignated subsec. (d) as (e) and then as (f). Former subsec. (f) redesignated (k).
 
@@ -182,5 +184,5 @@ Pub. L. 108–357, title VIII, §881(f), Oct. 22, 2004, 118 Stat. 1627, provided
 
 #### Biennial Report
 
-Pub. L. 108–357, title VIII, §881(e), Oct. 22, 2004, 118 Stat. 1627, directed the Secretary of the Treasury to biennially submit (beginning in 2005) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a reportwith respect to qualified tax collection contracts under this section, prior to repeal by Pub. L. 114–94, div. C, title XXXII, §32102(f)(2), Dec. 4, 2015, 129 Stat. 1736.
+Pub. L. 108–357, title VIII, §881(e), Oct. 22, 2004, 118 Stat. 1627, directed the Secretary of the Treasury to biennially submit (beginning in 2005) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report with respect to qualified tax collection contracts under this section, prior to repeal by Pub. L. 114–94, div. C, title XXXII, §32102(f)(2), Dec. 4, 2015, 129 Stat. 1736.
 

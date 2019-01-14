@@ -378,7 +378,7 @@ Discriminatory tax.—The term 'discriminatory tax' means—
 
 &emsp;&emsp;&emsp;"(iii) imposes an obligation to collect or pay the tax on a different person or entity than in the case of transactions involving similar property, goods, services, or information accomplished through other means;
 
-&emsp;&emsp;&emsp;"(iv) establishes a classification of Internet access service providers or online service providers for purposes of establishing a higher tax rate to be imposed on such providers than the tax rategenerally applied to providers of similar information services delivered through other means; or
+&emsp;&emsp;&emsp;"(iv) establishes a classification of Internet access service providers or online service providers for purposes of establishing a higher tax rate to be imposed on such providers than the tax rate generally applied to providers of similar information services delivered through other means; or
 
 &emsp;&emsp;"(B) any tax imposed by a State or political subdivision thereof, if—
 
@@ -486,7 +486,7 @@ Specified taxes.—Effective November 1, 2007, the term 'tax on Internet access'
 
 &emsp;&emsp;&emsp;"(ii)
 
-Modifications.—Nothing in this subparagraph shall be construed as a limitation on a State's ability to make modifications to a tax covered by clause (i) of this subparagraph afterNovember 1, 2007, as long as the modifications do not substantially narrow the range of business activities on which the tax is imposed or otherwise disqualify the tax under clause (i).
+Modifications.—Nothing in this subparagraph shall be construed as a limitation on a State's ability to make modifications to a tax covered by clause (i) of this subparagraph after November 1, 2007, as long as the modifications do not substantially narrow the range of business activities on which the tax is imposed or otherwise disqualify the tax under clause (i).
 
 &emsp;&emsp;&emsp;"(iii)
 
@@ -562,7 +562,7 @@ Act July 29, 1954, ch. 647, 68 Stat. 587, established the Commission on Governme
 
 #### Communication Privileges to Participants in World Telecommunication Conferences
 
-Act May 13, 1947, ch. 51, 61 Stat. 83, provided that nothing in this chapter, or in any other provision of law should be construed to prohibit United States communication common carriers from rendering free communication services to official participants in the world telecommunications conferences which were held in the United States in 1947.
+Act May 13, 1947, ch. 51, 61 Stat. 83, provided that nothing in this chapter, or in any other provision oflaw should be construed to prohibit United States communication common carriers from rendering free communication services to official participants in the world telecommunications conferences which were held in the United States in 1947.
 
 #### Executive Order No. 10460
 

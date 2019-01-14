@@ -112,7 +112,7 @@ Subsec. (e). Pub. L. 99–514, §1236(a), inserted "The preceding sentence shall
 
 Amendment by section 12001(b)(14) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
-Amendment by section 13001(b)(2)(L) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31,2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
+Amendment by section 13001(b)(2)(L) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
 Amendment by section 14401(d)(2) of Pub. L. 115–97 applicable to base erosion payments (as defined in section 59A(d) of this title) paid or accrued in taxable years beginning after Dec. 31, 2017, see section 14401(e) of Pub. L. 115–97, set out as a note under section 26 of this title.
 

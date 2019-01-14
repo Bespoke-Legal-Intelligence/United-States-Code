@@ -46,7 +46,7 @@ In clause (1), the words "including . . . (1) land; (2) runways, strips, taxiw
 
 In clause (2), the words "necessary or" are omitted as surplus.
 
-In clause (3), before subclause (A), the words "of land or water" are omitted as surplus. In subclause (A), the words "no government or a government of a foreign country" are substituted for "no nation or a nation other than the United States" for consistency in the revised title and with other titles of the United States Code. The words "(including territory of undetermined sovereignty and the high seas)" are omitted as surplus. In subclause (C), the words "government of a foreign country" are substituted for "other nation" for consistency in the revised title and with other titles of the Code.
+In clause (3), before subclause (A), the words "of land or water" are omitted as surplus. In subclause (A), thewords "no government or a government of a foreign country" are substituted for "no nation or a nation other than the United States" for consistency in the revised title and with other titles of the United States Code. The words "(including territory of undetermined sovereignty and the high seas)" are omitted as surplus. In subclause (C), the words "government of a foreign country" are substituted for "other nation" for consistency in the revised title and with other titles of the Code.
 
 Clause (4) is derived from the source provisions of the chapter and is included to avoid repeating the phrase "territory (including Alaska) outside the continental limits of the United States".
 

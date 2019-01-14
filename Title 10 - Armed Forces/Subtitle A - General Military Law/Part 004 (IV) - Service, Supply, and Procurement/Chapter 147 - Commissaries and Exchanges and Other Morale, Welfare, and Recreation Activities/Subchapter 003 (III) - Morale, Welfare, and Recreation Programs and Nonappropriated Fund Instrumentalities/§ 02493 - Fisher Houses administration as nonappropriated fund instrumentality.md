@@ -54,7 +54,7 @@ Governance.—The Secretary of each military department shall establish a system
 
 (d)
 
-Central Fund.—The Secretary of each military department shall establish a single fund as the source of funding for the operation, maintenance, and improvement of all Fisher Houses and Fisher Suites of the nonappropriated fund instrumentality required by subsection (b) for that military department.
+Central Fund.—The Secretary of each military department shall establish a single fund as the source of funding for the operation, maintenance, and improvement of all FisherHouses and Fisher Suites of the nonappropriated fund instrumentality required by subsection (b) for that military department.
 
 (e)
 
@@ -98,7 +98,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title IX, §914(b)\], Oct. 30, 2000, 114 St
 
 "(1) The Secretary of the Navy may continue to employ, and pay out of appropriated funds, any employee of the Navy in the competitive service who, as of October 17, 1998, was employed by the Navy in a position at a Fisher House administered by the Navy, but only for so long as the employee is continuously employed in that position.
 
-"(2) After a person vacates a position in which the person was continued to be employed under the authority of paragraph (1), a person employed in that position shall be employed as an employee of a nonappropriatedfund instrumentality of the United States and may not be paid for services in that position out of appropriated funds.
+"(2) After a person vacates a position in which the person was continued to be employed under the authority of paragraph (1), a person employed in that position shall be employed as an employee of a nonappropriated fund instrumentality of the United States and may not be paid for services in that position out of appropriated funds.
 
 "(3) In this subsection:
 

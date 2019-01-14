@@ -94,7 +94,7 @@ Tax benefit rule.—If any portion of a nonqualified withdrawal is properly attr
 
 &emsp;&emsp;(A) that portion shall not be taken into account under paragraph (1); and
 
-&emsp;&emsp;(B) an amount equal to that portion shall be allowed as a deduction under section 172of such Code (26 U.S.C. 172) for the taxable year in which the withdrawal occurs.
+&emsp;&emsp;(B) an amount equal to that portion shall be allowed as a deduction under section 172 of such Code (26 U.S.C. 172) for the taxable year in which the withdrawal occurs.
 
 &emsp;(4)
 

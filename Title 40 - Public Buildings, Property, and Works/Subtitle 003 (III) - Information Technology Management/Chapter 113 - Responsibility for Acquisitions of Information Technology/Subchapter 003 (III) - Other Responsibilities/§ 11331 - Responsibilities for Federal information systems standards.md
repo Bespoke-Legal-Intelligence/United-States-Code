@@ -114,7 +114,7 @@ Authority to Disapprove or Modify.—The President may disapprove or modify the 
 
 "(d)
 
-Exercise of Authority.—To ensure fiscal and policy consistency, the Secretary shall exercise the authority conferred by this section subject to directionby the President and in coordination with the Director of the Office of Management and Budget.
+Exercise of Authority.—To ensure fiscal and policy consistency, the Secretary shall exercise the authority conferred by this section subject to direction by the President and in coordination with the Director of the Office of Management and Budget.
 
 "(e)
 

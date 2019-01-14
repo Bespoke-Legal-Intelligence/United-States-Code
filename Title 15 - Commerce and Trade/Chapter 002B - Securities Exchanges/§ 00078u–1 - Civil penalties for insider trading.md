@@ -92,7 +92,7 @@ The authority of the Commission under this section with respect to security-base
 
 #### (1) In general
 
-&emsp;Subject to the rule of construction under section 10 of the STOCK Act and solely forpurposes of the insider trading prohibitions arising under this chapter, including section 78j(b) of this title, and Rule 10b–5 thereunder, each executive branch employee, each judicial officer, and each judicial employee owes a duty arising from a relationship of trust and confidence to the United States Government and the citizens of the United States with respect to material, nonpublic information derived from such person's position as an executive branch employee, judicial officer, or judicial employee or gained from the performance of such person's official responsibilities.
+&emsp;Subject to the rule of construction under section 10 of the STOCK Act and solely for purposes of the insider trading prohibitions arising under this chapter, including section 78j(b) of this title, and Rule 10b–5 thereunder, each executive branch employee, each judicial officer, and each judicial employee owes a duty arising from a relationship of trust and confidence to the United States Government and the citizens of the United States with respect to material, nonpublic information derived from such person's position as an executive branch employee, judicial officer, or judicial employee or gained from the performance of such person's official responsibilities.
 
 #### (2) Definitions
 
@@ -123,10 +123,6 @@ The authority of the Commission under this section with respect to security-base
 An individual described in section 101(f) of the Ethics in Government Act of 1978 may not purchase securities that are the subject of an initial public offering (within the meaning given such term in section 78l(f)(1)(G)(i) of this title) in any manner other than is available to members of the public generally.
 
 (June 6, 1934, ch. 404, title I, §21A, as added Pub. L. 100–704, §3(a)(2), Nov. 19, 1988, 102 Stat. 4677; amended Pub. L. 101–429, title II, §202(b), Oct. 15, 1990, 104 Stat. 938; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(4), title III, §303(k), (l)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456, 2763A–457; Pub. L. 107–204, title III, §308(d)(2), July 30, 2002, 116 Stat. 785; Pub. L. 111–203, title VII, §762(d)(7), title IX, §923(b)(2), July 21, 2010, 124 Stat. 1761, 1850; Pub. L. 112–105, §§4(b)(2), 9(b)(2)(B), 12, Apr. 4, 2012, 126 Stat. 292, 297, 300.)
-
-#### Amendment of Section
-
-<i>Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 

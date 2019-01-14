@@ -8,7 +8,7 @@
 
 &emsp;(3) to sponsor, control, or otherwise assist any labor organization, other than to furnish, upon request, customary and routine services and facilities if the services and facilities are also furnished on an impartial basis to other labor organizations having equivalent status;
 
-&emsp;(4) to discipline or otherwise discriminate against an employee because the employee hasfiled a complaint, affidavit, or petition, or has given any information or testimony under this chapter;
+&emsp;(4) to discipline or otherwise discriminate against an employee because the employee has filed a complaint, affidavit, or petition, or has given any information or testimony under this chapter;
 
 &emsp;(5) to refuse to consult or negotiate in good faith with a labor organization as required by this chapter;
 
@@ -48,7 +48,7 @@
 
 > This subsection does not preclude any labor organization from enforcing discipline in accordance with procedures under its constitution or bylaws to the extent consistent with the provisions of this chapter.
 
-(d) Issues which can properly be raised under an appeals procedure may not be raised as unfair labor practices prohibited under this section. Except for matters wherein, under section 7121(e) and (f) of this title, an employee has an option of using the negotiated grievance procedure or an appeals procedure, issues which can be raised under a grievance procedure may, in the discretion of the aggrieved party, be raised under the grievance procedure or as an unfair labor practice under this section, but not under both procedures.
+(d) Issues which can properly be raised under an appeals procedure may not be raised as unfair labor practices prohibited under this section. Except for matters wherein, under section 7121(e) and (f) of this title, an employee has an option of using the negotiated grievance procedure or an appeals procedure, issues which canbe raised under a grievance procedure may, in the discretion of the aggrieved party, be raised under the grievance procedure or as an unfair labor practice under this section, but not under both procedures.
 
 (e) The expression of any personal view, argument, opinion or the making of any statement which—
 

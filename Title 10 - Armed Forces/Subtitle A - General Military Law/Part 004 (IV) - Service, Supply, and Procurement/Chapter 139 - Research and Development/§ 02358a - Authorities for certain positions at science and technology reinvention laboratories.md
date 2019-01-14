@@ -18,7 +18,7 @@ Students enrolled in scientific and engineering programs.—The director of any 
 
 &emsp;(4)
 
-Noncompetitive conversion to permanent appointment.—With respect to any student appointed by the director of an STRL under paragraph (3) to a temporary or term appointment, upon graduation from the applicable institution of higher education (as defined in such paragraph), the director may noncompetitively convert such student to a permanent appointment within the STRL without regard to the provisions of subchapter I of chapter 33 of title 5 (other than sections 3303 and 3328 of such title), provided the student meets all eligibility and Office of Personnel Management qualification requirements for the position.
+Noncompetitive conversion of appointments.—With respect to any student appointed by the director of an STRL under paragraph (3) to a temporary or term appointment, upon graduation from the applicable institution of higher education (as defined in such paragraph), the director may noncompetitively convert such student to another temporary appointment or to a term or permanent appointment within the STRL without regard to the provisions of subchapter I of chapter 33 of title 5 (other than sections 3303 and 3328 of such title), provided the student meets all eligibility and Office of Personnel Management qualification requirements for the position.
 
 (b)
 
@@ -64,7 +64,7 @@ Establishment.—There is hereby established in each STRL, each facility of the 
 
 &emsp;(2)
 
-Appointments.—(A) The laboratory positions described in paragraph (1) may be filled, and shall be managed, by the director of the STRL involved, under criteria established pursuant to section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 10 U.S.C. 2358 note), relating to personnel demonstration projects at laboratories of the Department of Defense, except that the director of the laboratory involved shall determine the number of such positions at such laboratory, not to exceed 2 percent of the number of scientists and engineers employed at such laboratory as of the close of the last fiscal year before the fiscal year in which any appointments subject to that numerical limitation are made.
+Appointments.—(A) The laboratory positions described in paragraph (1) may be filled, and shall be managed, by the director of the STRL involved, under criteria established pursuant to section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 10 U.S.C. 2358 note), relating to personnel demonstration projects at laboratories of the Department of Defense, except that the director of the laboratory involved shall determine the number of such positions at such laboratory, not to exceed 2 percent of the number of scientists and engineers employed at such laboratory as of the close of the last fiscal year before the fiscal year in whichany appointments subject to that numerical limitation are made.
 
 &emsp;(B) The test and evaluation positions described in paragraph (1) may be filled, and shall be managed, by the director of the Major Range and Test Facility Base, in the case of a position at a facility of the Major Range and Test Facility Base, and the director of the Defense Test Resource Management Center, in the case of a position at such center, under criteria established pursuant to section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 10 U.S.C. 2358 note), relating to personnel demonstration projects at laboratories of the Department of Defense, except that the director involved shall determine the number of such positions at each facility of the Major Range and Test Facility Base and the Defense Test Resource Management Center, not to exceed two percent of the number of scientists and engineers, but at least one position, employed at the Major Range and Test Facility Base or the Defense Test Resource Management Center, as the case may be, as of the close of the last fiscal year before the fiscal year in which any appointments subject to those numerical limitations are made.
 
@@ -96,9 +96,11 @@ Definitions.—In this section:
 
 &emsp;(4) The term "veteran" has the meaning given that term in section 101 of title 38.
 
-(Added Pub. L. 114–328, div. A, title XI, §1122(a)(1), Dec. 23, 2016, 130 Stat. 2453; amended Pub. L. 115–91, div. A, title XI, §1111, Dec. 12, 2017, 131 Stat. 1636.)
+(Added Pub. L. 114–328, div. A, title XI, §1122(a)(1), Dec. 23, 2016, 130 Stat. 2453; amended Pub. L. 115–91, div. A, title XI, §1111, Dec. 12, 2017, 131 Stat. 1636; Pub. L. 115–232, div. A, title XI, §1112(a), Aug. 13, 2018, 132 Stat. 2012.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(4). Pub. L. 115–232 substituted "of appointments" for "to permanent appointment" in heading and "to another temporary appointment or to a term or permanent appointment" for "to a permanent appointment" in text.
 
 <b>2017</b>—Subsec. (d)(1). Pub. L. 115–91, §1111(1)(A)(i), inserted ", each facility of the Major Range and Test Facility Base, and the Defense Test Resource Management Center" after "each STRL" in introductory provisions.
 

@@ -20,7 +20,7 @@ Congress makes the following findings:
 
 &emsp;(9) Foreign states can transfer weapons to or otherwise aid extremist and terrorist movements indirectly and with plausible deniability.
 
-&emsp;(10) Terrorist groups have already conducted chemical attacks against civilian targets inthe United States and Japan, and a radiological attack in Russia.
+&emsp;(10) Terrorist groups have already conducted chemical attacks against civilian targets in the United States and Japan, and a radiological attack in Russia.
 
 &emsp;(11) The potential for the national security of the United States to be threatened by nuclear, radiological, chemical, or biological terrorism must be taken seriously.
 
@@ -82,7 +82,7 @@ Retention and Use of Amounts.—Notwithstanding section 3302 of title 31, United
 
 Return of Amounts Not Used Within 5
 
-Years.—If an amount contributed under an agreement undersubsection (a) is not used under this section within 5 years after it was contributed, the Secretary of Energy shall return that amount to the person who contributed it.
+Years.—If an amount contributed under an agreement under subsection (a) is not used under this section within 5 years after it was contributed, the Secretary of Energy shall return that amount to the person who contributed it.
 
 "(d)
 
@@ -128,7 +128,9 @@ Membership.—The Commission as reestablished shall have the same membership as 
 
 Commission Charter Defined.—In this section \[enacting this note and amending title XIV of Pub. L. 106–398, formerly set out below\], the term 'Commission charter' means title XIV of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–345 et seq.)."
 
-Pub. L. 106–398, §1 \[\[div. A\], title XIV\], Oct. 30, 2000, 114 Stat. 1654, 1654A–345, as amended by Pub. L. 109–163, div. A, title X, §1052(d)–(j), Jan. 6, 2006, 119 Stat. 3434, 3435; Pub. L. 109–364, div. A, title X, §1073, Oct. 17, 2006, 120 Stat. 2403; Pub. L. 110–181, div. A, title X, §§1063(e)(2), 1075(a), (b), Jan. 28, 2008, 122 Stat. 323, 333; Pub. L. 111–383, div. A, title X, §1075(f)(8), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 114–92, div. A, title X, §1089(d)–(g), Nov. 25, 2015, 129 Stat. 1016, which related to the Commission to Assess the Threat to the United States From Electromagnetic Pulse (EMP) Attack, was repealed by Pub. L. 115–91, div. A, title XVI, §1691(i), Dec. 12, 2017, 131 Stat. 1788. See section 1691(a)–(h) of Pub. L. 115–91, 131 Stat. 1786–1788.
+Pub. L. 106–398, §1 \[\[div. A\], title XIV\], Oct. 30, 2000, 114 Stat. 1654, 1654A–345, as amended by Pub. L. 109–163, div. A, title X, §1052(d)–(j), Jan. 6, 2006, 119 Stat. 3434, 3435; Pub. L. 109–364, div. A, title X, §1073, Oct. 17, 2006, 120 Stat. 2403; Pub. L. 110–181, div. A, title X, §§1063(e)(2), 1075(a), (b), Jan. 28, 2008, 122 Stat. 323, 333; Pub. L. 111–383, div. A, title X, §1075(f)(8), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 114–92, div. A, title X, §1089(d)–(g), Nov. 25, 2015, 129 Stat. 1016, which related to the Commission to Assess the Threat to the United States From Electromagnetic Pulse (EMP) Attack, was repealed by Pub. L. 115–91, div. A, title XVI, §1691(i), Dec. 12, 2017, 131 Stat. 1788, as amended by Pub. L. 115–232, div. A, title X, §1081(c)(4), Aug. 13, 2018, 132 Stat. 1985. See section 1691(a)–(h) of Pub. L. 115–91, 131 Stat. 1786–1788.
+
+\[Pub. L. 115–232, div. A, title X, §1081(c), Aug. 13, 2018, 132 Stat. 1985, provided that the amendment made bysection 1081(c)(4) to section 1691(i) of Pub. L. 115–91, repealing section 1 of Pub. L. 106–398, set out above, is effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted.\]
 
 #### Domestic Preparedness for Defense Against Weapons of Mass Destruction
 

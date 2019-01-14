@@ -2,11 +2,11 @@
 
 (a)(1) Except as provided by paragraph (2), any course approved for the purposes of this chapter which fails to meet any of the requirements of this chapter shall be immediately disapproved by the Secretary or the appropriate State approving agency. An educational institution which has its courses disapproved by the Secretary or a State approving agency will be notified of such disapproval by a certified or registered letter of notification and a return receipt secured.
 
-(2) In the case of a course of education that would be subject to disapproval under paragraph (1) solely for the reason that the Secretary of Education withdraws the recognition of the accrediting agency that accredited the course, the Secretary of Veterans Affairs, in consultation with the Secretary of Education, and notwithstanding the withdrawal, may continue to treat the course as an approved course of education under this chapter for a period not to exceed 18 months from the date of the withdrawal of recognition of the accrediting agency, unless the Secretary of Veterans Affairs or the appropriate State approving agency determines that there is evidence to support the disapproval of the course under this chapter. The Secretary shall provide to any veteran enrolled in such a course of education notice of the status of the course of education.
+(2) In the case of a course of education that would be subject to disapproval under paragraph (1) solely for the reason that the Secretary of Education withdraws the recognition of the accrediting agency that accredited the course, theSecretary of Veterans Affairs, in consultation with the Secretary of Education, and notwithstanding the withdrawal, may continue to treat the course as an approved course of education under this chapter for a period not to exceed 18 months from the date of the withdrawal of recognition of the accrediting agency, unless the Secretary of Veterans Affairs or the appropriate State approving agency determines that there is evidence to support the disapproval of the course under this chapter. The Secretary shall provide to any veteran enrolled in such a course of education notice of the status of the course of education.
 
 (b) Each State approving agency shall notify the Secretary of each course which it has disapproved under this section. The Secretary shall notify the State approving agency of the Secretary's disapproval of any educational institution under chapter 31 of this title.
 
-(c)(1) Notwithstanding any other provision of this chapter and subject to paragraphs (3) through (6), the Secretary shall disapprove a course of education provided by a public institution of higher learning if the institution charges tuition and fees for that course for covered individuals who are pursuing the course with educational assistance under chapter 30 or 33 of this title while living in the State in which the institution is located at a rate that is higher than the rate the institution charges for tuition and fees for that course for residents of the State in which the institution is located, regardless of the covered individual's State of residence.
+(c)(1) Notwithstanding any other provision of this chapter and subject to paragraphs (3) through (6), the Secretary shall disapprove a course of education provided by a public institution of higher learning if the institution charges tuition and fees for that course for covered individuals who are pursuing the course with educational assistance under chapter 30, 31, or 33 of this title while living in the State in which the institution is located at a rate that is higher than the rate the institution charges for tuition and fees for that course for residents of the State in which the institution is located, regardless of the covered individual's State of residence.
 
 (2) For purposes of this subsection, a covered individual is any individual as follows:
 
@@ -22,13 +22,15 @@
 
 &emsp;&emsp;&emsp;(II) a member of the uniformed services described in section 3319(b) of this title who is serving on active duty.
 
-(3) If after enrollment in a course of education that is subject to disapproval under paragraph (1) by reason of paragraph (2)(A) or (2)(B) a covered individual pursues one or more courses of education at the same public institution of higher learning while remaining continuously enrolled (other than during regularly scheduled breaks between courses, semesters or terms) at that institution of higher learning, any course so pursued by the covered individual at that institution of higher learning while so continuously enrolled shall also be subject to disapproval under paragraph (1).
+&emsp;(C) An individual who is entitled to rehabilitation under section 3102(a) of this title.
 
-(4) It shall not be grounds to disapprove a course of education under paragraph (1) if a public institution of higher learning requires a covered individual pursuing a course of education at the institution to demonstrate an intent, by means other than satisfying a physical presence requirement, to establish residency in the Statein which the institution is located, or to satisfy other requirements not relating to the establishment of residency, in order to be charged tuition and fees for that course at a rate that is equal to or less than the rate the institution charges for tuition and fees for that course for residents of the State.
+(3) If after enrollment in a course of education that is subject to disapproval under paragraph (1) by reason of paragraph (2)(A), (2)(B), or (2)(C) a covered individual pursues one or more courses of education at the same public institution of higher learning while remaining continuously enrolled (other than during regularly scheduled breaks between courses, semesters or terms) at that institution of higher learning, any course so pursued by the covered individual at that institution of higher learning while so continuously enrolled shall also be subject to disapproval under paragraph (1).
+
+(4) It shall not be grounds to disapprove a course of education under paragraph (1) if a public institution of higher learning requires a covered individual pursuing a course of education at the institution to demonstrate an intent, by means other than satisfying a physical presence requirement, to establish residency in the State in which the institution is located, or to satisfy other requirements not relating to the establishment of residency, in order to be charged tuition and fees for that course at a rate that is equal to or less than the rate the institution charges for tuition and fees for that course for residents of the State.
 
 (5) The Secretary may waive such requirements of paragraph (1) as the Secretary considers appropriate.
 
-(6) Disapproval under paragraph (1) shall apply only with respect to educational assistance under chapters 30 and 33 of this title.
+(6) Disapproval under paragraph (1) shall apply only with respect to educational assistance under chapters 30, 31, and 33 of this title.
 
 (d) Notwithstanding any other provision of this chapter, the Secretary or the applicable State approving agency shall disapprove a course of education described in paragraph (14) or (15) of section 3676(c) of this title unless the educational institution providing the course of education—
 
@@ -36,13 +38,49 @@
 
 &emsp;(2) makes each disclosure required by paragraph (1) in a manner that the Secretary considers prominent (as specified by the Secretary in regulations prescribed for purposes of this subsection).
 
-(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 162, §1778; renumbered §1779, Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 94–502, title V, §513(a)(4), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3679, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–377, title II, §203(d), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 113–146, title VII, §702(a), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 113–175, title IV, §409(i), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–228, title IV, §415, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, §§409(e), 417(a), Dec. 16, 2016, 130 Stat. 1560, 1565; Pub. L. 115–48, title I, §105(c)(7), Aug. 16, 2017, 131 Stat. 976.)
+(e)(1) Notwithstanding any other provision of this chapter, beginning on August 1, 2019, a State approving agency, or the Secretary when acting in the role of the State approving agency, shall disapprove a course of education provided by an educational institution that has in effect a policy that is inconsistent with any of the following:
+
+&emsp;(A) A policy that permits any covered individual to attend or participate in the course of education during the period beginning on the date on which the individual provides to the educational institution a certificate of eligibility for entitlement to educational assistance under chapter 31 or 33 of this title and ending on the earlier of the following dates:
+
+&emsp;&emsp;(i) The date on which the Secretary provides payment for such course of education to such institution.
+
+&emsp;&emsp;(ii) The date that is 90 days after the date on which the educational institution certifies for tuition and fees following receipt from the student such certificate of eligibility.
+
+&emsp;(B) A policy that ensures that the educational institution will not impose any penalty, including the assessment of late fees, the denial of access to classes, libraries, or other institutional facilities, or the requirement that a covered individual borrow additional funds, on any covered individual because of the individual's inability to meet his or her financial obligations to the institution due to the delayed disbursement of a payment to be provided by the Secretary under chapter 31 or 33 of this title.
+
+(2) For purposes of this subsection, a covered individual is any individual who is entitled to educational assistance under chapter 31 or 33 of this title.
+
+(3) The Secretary may waive such requirements of paragraph (1) as the Secretary considers appropriate.
+
+(4) It shall not be inconsistent with a policy described in paragraph (1) for an educational institution to require a covered individual to take the following additional actions:
+
+&emsp;(A) Submit a certificate of eligibility for entitlement to educational assistance not later than the first day of a course of education for which the individual has indicated the individual wishes to use the individual's entitlement to educational assistance.
+
+&emsp;(B) Submit a written request to use such entitlement.
+
+&emsp;(C) Provide additional information necessary to the proper certification of enrollment by the educational institution.
+
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 162, §1778; renumbered §1779, Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 94–502, title V, §513(a)(4), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3679, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–377, title II, §203(d), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 113–146, title VII, §702(a), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 113–175, title IV, §409(i), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–228, title IV, §415, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, §§409(e), 417(a), Dec. 16, 2016, 130 Stat. 1560, 1565; Pub. L. 115–48, title I, §105(c)(7), Aug. 16, 2017, 131 Stat. 976; Pub. L. 115–251, title III, §301(a), Sept. 29, 2018, 132 Stat. 3178; Pub. L. 115–407, title I, §103(a), Dec. 31, 2018, 132 Stat. 5369.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 301(a) of Pub. L. 115–251 applicable with respect to courses of education provided during a quarter, semester, or term, as applicable, that begins after Mar. 1, 2019. See 2018 Amendment notes below.</i>
 
 #### Amendment of Subsection (c)(2)(B)
 
 <i>Pub. L. 115–48, title I, §105(c)(7), (d), Aug. 16, 2017, 131 Stat. 976, 977, provided that, effective Aug. 1, 2020, subsection (c)(2)(B) of this section is amended by striking "3311(b)(9)" and inserting "3311(b)(8)". See 2017 Amendment note below.</i>
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–251, §301(a)(1), substituted "chapter 30, 31, or 33" for "chapter 30 or 33".
+
+Subsec. (c)(2)(C). Pub. L. 115–251, §301(a)(2), added subpar. (C).
+
+Subsec. (c)(3). Pub. L. 115–251, §301(a)(3), substituted "paragraph (2)(A), (2)(B), or (2)(C)" for "paragraph (2)(A) or (2)(B)".
+
+Subsec. (c)(6). Pub. L. 115–251, §301(a)(4), substituted "chapters 30, 31, and 33" for "chapters 30 and 33".
+
+Subsec. (e). Pub. L. 115–407 added subsec. (e).
 
 <b>2017</b>—Subsec. (c)(2)(B)(i). Pub. L. 115–48 substituted "3311(b)(8)" for "3311(b)(9)".
 
@@ -64,6 +102,10 @@ Subsec. (c)(1). Pub. L. 113–175, which directed amendment of par. (1) generall
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–502 substituted "the Administrator's disapproval" for "his disapproval".
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–251, title III, §301(b), Sept. 29, 2018, 132 Stat. 3178, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to courses of education provided during a quarter, semester, or term, as applicable, that begins after March 1, 2019."
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–48 effective Aug. 1, 2020, see section 105(d) of Pub. L. 115–48, set out as a note under section 3311 of this title.
@@ -83,4 +125,8 @@ Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 203(e) of Pub
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
+
+#### Rule of Construction
+
+Pub. L. 115–407, title I, §103(c), Dec. 31, 2018, 132 Stat. 5370, provided that: "In a case in which an individual is unable to meet a financial obligation to an educational institution due to the delayed disbursement of a payment to be provided by the Secretary under chapter 31 or 33 of such title \[title 38\] and the amount of such disbursement is less than anticipated, nothing in section 3679(e) of such title, as added by subsection (a), shall be construed to prohibit an educational institution from requiring additional payment or imposing a fee for the amount that is the difference between the amount of the financial obligation and the amount of the disbursement."
 

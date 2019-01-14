@@ -30,9 +30,11 @@ Pursuant to section 9701 of title 31, any person who receives a service or thing
 
 &emsp;&emsp;&emsp;(ii) amounts appropriated to the Commission from the Nuclear Waste Fund for the fiscal year;
 
-&emsp;&emsp;&emsp;(iii) amounts appropriated to the Commission for the fiscal year for implementation of section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005; and
+&emsp;&emsp;&emsp;(iii) amounts appropriated to the Commission for the fiscal year for implementation of section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005;
 
-&emsp;&emsp;&emsp;(iv) amounts appropriated to the Commission for homeland security activities of the Commission for the fiscal year, except for the costs of fingerprinting and background checks required by section 2169 of this title and the costs of conducting security inspections.
+&emsp;&emsp;&emsp;(iv) amounts appropriated to the Commission for homeland security activities of the Commission for the fiscal year, except for the costs of fingerprinting and background checks required by section 2169 of this title and the costs of conducting security inspections; and
+
+&emsp;&emsp;&emsp;(v) amounts appropriated to the Commission for the fiscal year for activities related to the development of regulatory infrastructure for advanced nuclear reactor technologies, including activities required under section 103 <sup>1</sup> of the Nuclear Energy Innovation and Modernization Act.
 
 #### (B) Percentages
 
@@ -76,11 +78,17 @@ Pursuant to section 9701 of title 31, any person who receives a service or thing
 
 As used in this section, the term "Nuclear Waste Fund" means the fund established pursuant to section 10222(c) of this title.
 
-(Pub. L. 101–508, title VI, §6101, Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 102–486, title XXIX, §2903(a), Oct. 24, 1992, 106 Stat. 3125; Pub. L. 103–66, title VII, §7001, Aug. 10, 1993, 107 Stat. 401; Pub. L. 105–245, title V, §505, Oct. 7, 1998, 112 Stat. 1856; Pub. L. 106–60, title VI, §604, Sept. 29, 1999, 113 Stat. 501; Pub. L. 106–377, §1(a)(2) \[title VIII\], Oct. 27, 2000, 114 Stat. 1441, 1441A–86; Pub. L. 109–58, title VI, §637(a), Aug. 8, 2005, 119 Stat. 791; Pub. L. 109–103, title IV, Nov. 19, 2005, 119 Stat. 2283.)
+(Pub. L. 101–508, title VI, §6101, Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 102–486, title XXIX, §2903(a), Oct. 24, 1992, 106 Stat. 3125; Pub. L. 103–66, title VII, §7001, Aug. 10, 1993, 107 Stat. 401; Pub. L. 105–245, title V, §505, Oct. 7, 1998, 112 Stat. 1856; Pub. L. 106–60, title VI, §604, Sept. 29, 1999, 113 Stat. 501; Pub. L. 106–377, §1(a)(2) \[title VIII\], Oct. 27, 2000, 114 Stat. 1441, 1441A–86; Pub. L. 109–58, title VI, §637(a), Aug. 8, 2005, 119 Stat. 791; Pub. L. 109–103, title IV, Nov. 19, 2005, 119 Stat. 2283; Pub. L. 115–439, title I, §101(a), Jan. 14, 2019, 132 Stat. 5567.)
+
+#### Repeal of Section
+
+<i>Pub. L. 115–439, title I, §101(b), Jan. 14, 2019, 132 Stat. 5568, provided that, effective Oct. 1, 2020, this section is repealed.</i>
 
 #### References in Text
 
 Section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referred to in subsec. (c)(2)(A)(iii), is section 3116 of Pub. L. 108–375, which is set out as a note under section 2602 of Title 50, War and National Defense.
+
+Section 103 of the Nuclear Energy Innovation and Modernization Act, referred to in subsec. (c)(2)(A)(v), is section 103 of Pub. L. 115–439, title I, Jan. 14, 2019, 132 Stat. 5571. Subsec. (a) of section 103 of Pub. L. 115–439 enacted provisions set out as a note under section 2133 of this title. Subsecs. (b) to (e) of section 103 of Pub. L. 115–439 are not classified to the Code.
 
 #### Codification
 
@@ -89,6 +97,8 @@ Section is comprised of section 6101 of Pub. L. 101–508. Subsec. (e) of sectio
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c)(2)(A)(v). Pub. L. 115–439 added cl. (v).
 
 <b>2005</b>—Subsec. (a)(1). Pub. L. 109–58, §637(a)(1)(A), substituted "The" for "Except as provided in paragraph (3), the".
 
@@ -104,7 +114,7 @@ Pub. L. 109–103 inserted "and fiscal year 2006" before period at end.
 
 Subsec. (c)(1). Pub. L. 106–377, §1(a)(2) \[title VIII\], inserted "or certificate holder" after "licensee".
 
-Subsec. (c)(2). Pub. L. 106–377, §1(a)(2) \[title VIII\], added par. (2) and struck out heading and text of former par. (2). Text read as follows: "The aggregate amount of the annual charge collected from all licensees shall equal an amount that approximates 100 percent of the budget authority of the Commission in the fiscal year in which such charge is collected, less any amount appropriated to the Commission from the Nuclear Waste Fund and the amount of fees collected under subsection (b) of this section in such fiscal year."
+Subsec. (c)(2). Pub. L. 106–377, §1(a)(2) \[title VIII\], added par. (2) and struck out heading and text of former par. (2). Text read as follows: "The aggregate amount of the annual charge collected from all licensees shall equal an amount that approximates 100 percent of the budget authority of the Commission inthe fiscal year in which such charge is collected, less any amount appropriated to the Commission from the Nuclear Waste Fund and the amount of fees collected under subsection (b) of this section in such fiscal year."
 
 <b>1999</b>—Subsec. (a)(3). Pub. L. 106–60 substituted "September 30, 2000" for "September 30, 1999".
 
@@ -115,6 +125,10 @@ Subsec. (c)(2). Pub. L. 106–377, §1(a)(2) \[title VIII\], added par. (2) and 
 <b>1992</b>—Subsec. (c)(1). Pub. L. 102–486, §2903(a)(1), substituted "Except as provided in paragraph (4), any licensee" for "Any licensee".
 
 Subsec. (c)(4). Pub. L. 102–486, §2903(a)(2), added par. (4).
+
+#### Effective Date of Repeal
+
+Pub. L. 115–439, title I, §101(b), Jan. 14, 2019, 132 Stat. 5568, provided that: "Effective October 1, 2020, section 6101 of the Omnibus Budget Reconciliation Act of 1990 (42 U.S.C. 2214) is repealed."
 
 #### Effective Date of 2005 Amendment
 
@@ -127,4 +141,6 @@ Pub. L. 102–486, title XXIX, §2903(b), Oct. 24, 1992, 106 Stat. 3125, provide
 #### Policy Review
 
 Pub. L. 102–486, title XXIX, §2903(c), Oct. 24, 1992, 106 Stat. 3125, provided that: "The Nuclear Regulatory Commission shall review its policy for assessment of annual charges under section 6101(c) of the Omnibus Budget Reconciliation Act of 1990 \[42 U.S.C. 2214(c)\], solicit public comment on the need for changes to such policy, and recommend to the Congress such changes in existing law as the Commission finds are needed to prevent the placement of an unfair burden on certain licensees of the Commission, in particular those that hold licenses to operate federally owned research reactors used primarily for educational training and academic research purposes."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

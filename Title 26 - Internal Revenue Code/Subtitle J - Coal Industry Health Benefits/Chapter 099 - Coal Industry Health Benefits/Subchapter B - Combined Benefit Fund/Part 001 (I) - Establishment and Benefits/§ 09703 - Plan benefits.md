@@ -58,7 +58,7 @@ Each eligible beneficiary of the Combined Fund shall receive—
 
 #### (1) In general
 
-&emsp;The trustees of the Combined Fund shall provide death benefits coverage to each eligible beneficiary described in subsection (f)(1) which is identical to the benefits provided under the 1950 UMWA Pension Plan or 1974 UMWA Pension Plan, whichever is applicable, on July 20, 1992. Such coverage shall be provided on and after February 1, 1993.
+&emsp;The trustees of the Combined Fund shall provide death benefits coverage to each eligible beneficiary described in subsection (f)(1) which is identical to the benefits providedunder the 1950 UMWA Pension Plan or 1974 UMWA Pension Plan, whichever is applicable, on July 20, 1992. Such coverage shall be provided on and after February 1, 1993.
 
 #### (2) Termination of coverage
 

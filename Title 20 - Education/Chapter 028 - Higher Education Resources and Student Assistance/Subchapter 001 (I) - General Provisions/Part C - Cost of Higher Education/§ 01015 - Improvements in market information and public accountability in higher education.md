@@ -210,7 +210,7 @@ The Secretary shall display a link to the Federal student financial aid website 
 
 #### (D) Contract authorized
 
-&emsp;&emsp;In carrying out the requirements of this paragraph, the Secretary is authorized to enter into a contract with a private entity with demonstrated expertise in creating and maintaining databases such as the one required under this paragraph, under which contract the entity shall furnish, and regularly update, all of the information required to be maintained on the STEM Database.
+&emsp;&emsp;In carrying out the requirements of this paragraph, the Secretary is authorized to enter into a contract with a private entity with demonstrated expertise in creating andmaintaining databases such as the one required under this paragraph, under which contract the entity shall furnish, and regularly update, all of the information required to be maintained on the STEM Database.
 
 #### (5) Dissemination of information
 

@@ -86,7 +86,11 @@ In this part—
 
 &emsp;&emsp;&emsp;(ii) is entitled to medical assistance under a State plan under subchapter XIX; or
 
-&emsp;&emsp;&emsp;(iii) meets such requirements as the Secretary may determine would benefit from enrollment in such a specialized MA plan described in subparagraph (A) for individuals with severe or disabling chronic conditions who have one or more comorbid and medically complex chronic conditions that are substantially disabling or life threatening, have a high risk of hospitalization or other significant adverse health outcomes, and require specialized delivery systems across domains of care.
+&emsp;&emsp;&emsp;(iii) meets such requirements as the Secretary may determine would benefit from enrollment in such a specialized MA plan described in subparagraph (A) for individuals with severe or disabling chronic conditions who—
+
+&emsp;&emsp;&emsp;&emsp;(I) before January 1, 2022, have one or more comorbid and medically complex chronic conditions that are substantially disabling or life threatening, have a high risk of hospitalization or other significant adverse health outcomes, and require specialized delivery systems across domains of care; and
+
+&emsp;&emsp;&emsp;&emsp;(II) on or after January 1, 2022, have one or more comorbid and medically complex chronic conditions that is life threatening or significantly limits <sup>1</sup> overall health or function, have a high risk of hospitalization or other adverse health outcomes, and require intensive care coordination and that is listed under subsection (f)(9)(A).
 
 > &emsp;&emsp;The Secretary may apply rules similar to the rules of section 1395eee(c)(4) of this title for continued eligibility of special needs individuals.
 
@@ -152,7 +156,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (1) Requirements for enrollment
 
-&emsp;In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6)), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2019, the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
+&emsp;In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6)), notwithstanding any other provision of this part and in accordance with regulations of the Secretary, the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
 
 #### (2) Additional requirements for institutional SNPS
 
@@ -172,7 +176,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;In the case of a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(ii), the applicable requirements described in this paragraph are as follows:
 
-&emsp;&emsp;(A) Each individual that enrolls in the plan on or after January 1, 2010, is a special needs individuals <sup>1</sup> described in subsection (b)(6)(B)(ii).
+&emsp;&emsp;(A) Each individual that enrolls in the plan on or after January 1, 2010, is a special needs individuals <sup>2</sup> described in subsection (b)(6)(B)(ii).
 
 &emsp;&emsp;(B) The plan meets the requirements described in paragraph (5).
 
@@ -188,6 +192,8 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;(E) If applicable, the plan meets the requirement described in paragraph (7).
 
+&emsp;&emsp;(F) The plan meets the requirements applicable under paragraph (8).
+
 #### (4) Additional requirements for severe or disabling chronic condition SNPS
 
 &emsp;In the case of a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(iii), the applicable requirements described in this paragraph are as follows:
@@ -198,19 +204,35 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;(C) If applicable, the plan meets the requirement described in paragraph (7).
 
-#### (5) Care management requirements for all SNPS
+#### (5) Care management requirements for all SNPs
 
-&emsp;The requirements described in this paragraph are that the organization offering a specialized MA plan for special needs individuals—
+#### (A) In general
 
-&emsp;&emsp;(A) have in place an evidenced-based model of care with appropriate networks of providers and specialists; and
+&emsp;&emsp;Subject to subparagraph (B), the requirements described in this paragraph are that the organization offering a specialized MA plan for special needs individuals—
 
-&emsp;&emsp;(B) with respect to each individual enrolled in the plan—
+&emsp;&emsp;&emsp;(i) have in place an evidenced-based model of care with appropriate networks of providers and specialists; and
 
-&emsp;&emsp;&emsp;(i) conduct an initial assessment and an annual reassessment of the individual's physical, psychosocial, and functional needs;
+&emsp;&emsp;&emsp;(ii) with respect to each individual enrolled in the plan—
 
-&emsp;&emsp;&emsp;(ii) develop a plan, in consultation with the individual as feasible, that identifies goals and objectives, including measurable outcomes as well as specific services and benefits to be provided; and
+&emsp;&emsp;&emsp;&emsp;(I) conduct an initial assessment and an annual reassessment of the individual's physical, psychosocial, and functional needs;
 
-&emsp;&emsp;&emsp;(iii) use an interdisciplinary team in the management of care.
+&emsp;&emsp;&emsp;&emsp;(II) develop a plan, in consultation with the individual as feasible, that identifies goals and objectives, including measurable outcomes as well as specific services and benefits to be provided; and
+
+&emsp;&emsp;&emsp;&emsp;(III) use an interdisciplinary team in the management of care.
+
+#### (B) Improvements to care management requirements for severe or disabling chronic condition SNPs
+
+&emsp;&emsp;For 2020 and subsequent years, in the case of a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(iii), the requirements described in this paragraph include the following:
+
+&emsp;&emsp;&emsp;(i) The interdisciplinary team under subparagraph (A)(ii)(III) includes a team of providers with demonstrated expertise, including training in an applicable specialty, in treating individuals similar to the targeted population of the plan.
+
+&emsp;&emsp;&emsp;(ii) Requirements developed by the Secretary to provide face-to-face encounters with individuals enrolled in the plan not less frequently than on an annual basis.
+
+&emsp;&emsp;&emsp;(iii) As part of the model of care under clause (i) of subparagraph (A), the results of the initial assessment and annual reassessment under clause (ii)(I) of such subparagraph of each individual enrolled in the plan are addressed in the individual's individualized care plan under clause (ii)(II) of such subparagraph.
+
+&emsp;&emsp;&emsp;(iv) As part of the annual evaluation and approval of such model of care, the Secretary shall take into account whether the plan fulfilled the previous year's goals (as required under the model of care).
+
+&emsp;&emsp;&emsp;(v) The Secretary shall establish a minimum benchmark for each element of the model of care of a plan. The Secretary shall only approve a plan's model of care under this paragraph if each element of the model of care meets the minimum benchmark applicable under the preceding sentence.
 
 #### (6) Transition and exception regarding restriction on enrollment
 
@@ -242,6 +264,114 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;For 2012 and subsequent years, the Secretary shall require that a Medicare Advantage organization offering a specialized MA plan for special needs individuals be approved by the National Committee for Quality Assurance (based on standards established by the Secretary).
 
+#### (8) Increased integration of dual SNPs
+
+#### (A) Designated contact
+
+&emsp;&emsp;The Secretary, acting through the Federal Coordinated Health Care Office established under section 1315b of this title, shall serve as a dedicated point of contact for States to address misalignments that arise with the integration of specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) under this paragraph and, consistent with such role, shall establish—
+
+&emsp;&emsp;&emsp;(i) a uniform process for disseminating to State Medicaid agencies information under this subchapter impacting contracts between such agencies and such plans under this subsection; and
+
+&emsp;&emsp;&emsp;(ii) basic resources for States interested in exploring such plans as a platform for integration, such as a model contract or other tools to achieve those goals.
+
+#### (B) Unified grievances and appeals process
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than April 1, 2020, the Secretary shall establish procedures, to the extent feasible as determined by the Secretary, unifying grievances and appeals procedures under sections 1395w–22(f), 1395w–22(g), 1396a(a)(3), 1396a(a)(5), and 1396u–2(b)(4) of this title for items and services provided by specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) under this subchapter and subchapter XIX. With respect to items and services described in the preceding sentence, procedures established under this clause shall apply in place of otherwise applicable grievances and appeals procedures. The Secretary shall solicit comment in developing such procedures from States, plans, beneficiaries andtheir representatives, and other relevant stakeholders.
+
+#### (ii) Procedures
+
+&emsp;&emsp;&emsp;The procedures established under clause (i) shall be included in the plan contract under paragraph (3)(D) and shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) adopt the provisions for the enrollee that are most protective for the enrollee and, to the extent feasible as determined by the Secretary, are compatible with unified timeframes and consolidated access to external review under an integrated process;
+
+&emsp;&emsp;&emsp;&emsp;(II) take into account differences in State plans under subchapter XIX to the extent necessary;
+
+&emsp;&emsp;&emsp;&emsp;(III) be easily navigable by an enrollee; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) include the elements described in clause (iii), as applicable.
+
+#### (iii) Elements described
+
+&emsp;&emsp;&emsp;Both unified appeals and unified grievance procedures shall include, as applicable, the following elements described in this clause:
+
+&emsp;&emsp;&emsp;&emsp;(I) Single written notification of all applicable grievances and appeal rights under this subchapter and subchapter XIX. For purposes of this subparagraph, the Secretary may waive the requirements under section 1395w–22(g)(1)(B) of this title when the specialized MA plan covers items or services under this part or under subchapter XIX.
+
+&emsp;&emsp;&emsp;&emsp;(II) Single pathways for resolution of any grievance or appeal related to a particular item or service provided by specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) under this subchapter and subchapter XIX.
+
+&emsp;&emsp;&emsp;&emsp;(III) Notices written in plain language and available in a language and format that is accessible to the enrollee, including in non-English languages that are prevalent in the service area of the specialized MA plan.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Unified timeframes for grievances and appeals processes, such as an individual's filing of a grievance or appeal, a plan's acknowledgment and resolution of a grievance or appeal, and notification of decisions with respect to a grievance or appeal.
+
+&emsp;&emsp;&emsp;&emsp;(V) Requirements for how the plan must process, track, and resolve grievances and appeals, to ensure beneficiaries are notified on a timely basis of decisions that are made throughout the grievance or appeals process and are able to easily determine the status of a grievance or appeal.
+
+#### (iv) Continuation of benefits pending appeal
+
+&emsp;&emsp;&emsp;The unified procedures under clause (i) shall, with respect to all benefits under parts A and B and subchapter XIX subject to appeal under such procedures, incorporate provisions under current law and implementing regulations that provide continuation of benefits pending appeal under this subchapter and subchapter XIX.
+
+#### (C) Requirement for unified grievances and appeals
+
+&emsp;&emsp;For 2021 and subsequent years, the contract of a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(ii) with a State Medicaid agency under paragraph (3)(D) shall require the use of unified grievances and appeals procedures as described in subparagraph (B).
+
+#### (D) Requirements for integration
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For 2021 and subsequent years, a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(ii) shall meet one or more of the following requirements, to the extent permitted under State law, for integration of benefits under this subchapter and subchapter XIX:
+
+&emsp;&emsp;&emsp;&emsp;(I) The specialized MA plan must meet the requirements of contracting with the State Medicaid agency described in paragraph (3)(D) in addition to coordinating long-term services and supports or behavioral health services, or both, by meeting an additional minimum set of requirements determined by the Secretary through the Federal Coordinated Health Care Office established under section 1315b of this title based on input from stakeholders, such as notifying the State in a timely manner of hospitalizations, emergency room visits, and hospital or nursing home discharges of enrollees, assigning one primary care provider for each enrollee, or sharing data that would benefit the coordination of items and services under this subchapter and the State plan under subchapter XIX. Such minimum set of requirements must be included in the contract of the specialized MA plan with the State Medicaid agency under such paragraph.
+
+&emsp;&emsp;&emsp;&emsp;(II) The specialized MA plan must meet the requirements of a fully integrated plan described in section 1395w–23(a)(1)(B)(iv)(II) of this title (other than the requirement that the plan have similar average levels of frailty, as determined by the Secretary, as the PACE program), or enter into a capitated contract with the State Medicaid agency to provide long-term services and supports or behavioral health services, or both.
+
+&emsp;&emsp;&emsp;&emsp;(III) In the case of a specialized MA plan that is offered by a parent organization that is also the parent organization of a Medicaid managed care organization providing long term services and supports or behavioral services under a contract under section 1396b(m) of this title, the parent organization must assume clinical and financial responsibility for benefits provided under this subchapter and subchapter XIX with respect to any individual who is enrolled in both thespecialized MA plan and the Medicaid managed care organization.
+
+#### (ii) Suspension of enrollment for failure to meet requirements during initial period
+
+&emsp;&emsp;&emsp;During the period of plan years 2021 through 2025, if the Secretary determines that a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(ii) has failed to comply with clause (i), the Secretary may provide for the application against the Medicare Advantage organization offering the plan of the remedy described in section 1395w–27(g)(2)(B) of this title in the same manner as the Secretary may apply such remedy, and in accordance with the same procedures as would apply, in the case of an MA organization determined by the Secretary to have engaged in conduct described in section 1395w–27(g)(1) of this title. If the Secretary applies such remedy to a Medicare Advantage organization under the preceding sentence, the organization shall submit to the Secretary (at a time, and in a form and manner, specified by the Secretary) information describing how the plan will come into compliance with clause (i).
+
+#### (E) Study and report to Congress
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than March 15, 2022, and, subject to clause (iii), biennially thereafter through 2032, the Medicare Payment Advisory Commission established under section 1395b–6 of this title, in consultation with the Medicaid and CHIP Payment and Access Commission established under section 1396 of this title, shall conduct (and submit to the Secretary and the Committees on Ways and Means and Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate a report on) a study to determine how specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) perform among each other based on data from Healthcare Effectiveness Data and Information Set (HEDIS) quality measures, reported on the plan level, as required under section 1395w–22(e)(3) of this title (or such other measures or data sources that are available and appropriate, such as encounter data and Consumer Assessment of Healthcare Providers and Systems data, as specified by such Commissions as enabling an accurate evaluation under this subparagraph). Such study shall include, as feasible, the following comparison groups of specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii):
+
+&emsp;&emsp;&emsp;&emsp;(I) A comparison group of such plans that are described in subparagraph (D)(i)(I).
+
+&emsp;&emsp;&emsp;&emsp;(II) A comparison group of such plans that are described in subparagraph (D)(i)(II).
+
+&emsp;&emsp;&emsp;&emsp;(III) A comparison group of such plans operating within the Financial Alignment Initiative demonstration for the period for which such plan is so operating and the demonstration is in effect, and, in the case that an integration option that is not with respect to specialized MA plans for special needs individuals is established after the conclusion of the demonstration involved.
+
+&emsp;&emsp;&emsp;&emsp;(IV) A comparison group of such plans that are described in subparagraph (D)(i)(III).
+
+&emsp;&emsp;&emsp;&emsp;(V) A comparison group of MA plans, as feasible, not described in a previous subclause of this clause, with respect to the performance of such plans for enrollees who are special needs individuals described in subsection (b)(6)(B)(ii).
+
+#### (ii) Additional reports
+
+&emsp;&emsp;&emsp;Beginning with 2033 and every five years thereafter, the Medicare Payment Advisory Commission, in consultation with the Medicaid and CHIP Payment and Access Commission, shall conduct a study described in clause (i).
+
+#### (9) List of conditions for clarification of the definition of a severe or disabling chronic conditions specialized needs individual
+
+#### (A) In general
+
+&emsp;&emsp;Not later than December 31, 2020, and every 5 years thereafter, subject to subparagraphs (B) and (C), the Secretary shall convene a panel of clinical advisors to establish and update a list of conditions that meet each of the following criteria:
+
+&emsp;&emsp;&emsp;(i) Conditions that meet the definition of a severe or disabling chronic condition under subsection (b)(6)(B)(iii) on or after January 1, 2022.
+
+&emsp;&emsp;&emsp;(ii) Conditions that require prescription drugs, providers, and models of care that are unique to the specific population of enrollees in a specialized MA plan for special needs individuals described in such subsection on or after such date and—
+
+&emsp;&emsp;&emsp;&emsp;(I) as a result of access to, and enrollment in, such a specialized MA plan for special needs individuals, individuals with such condition would have a reasonable expectation of slowing or halting the progression of the disease, improving health outcomes and decreasing overall costs for individuals diagnosed with such condition compared to available options of care other than through such a specialized MA plan for special needs individuals; or
+
+&emsp;&emsp;&emsp;&emsp;(II) have a low prevalence in the general population of beneficiaries under this subchapter or a disproportionally high per-beneficiary cost under this subchapter.
+
+#### (B) Inclusion of certain conditions
+
+&emsp;&emsp;The conditions listed under subparagraph (A) shall include HIV/AIDS, end stage renal disease, and chronic and disabling mental illness.
+
+#### (C) Requirement
+
+&emsp;&emsp;In establishing and updating the list under subparagraph (A), the panel shall take intoaccount the availability of varied benefits, cost-sharing, and supplemental benefits under the model described in paragraph (2) of section 1395w–28(h) of this title, including the expansion under paragraph (1) of such section.
+
 #### (g) Special rules for senior housing facility plans
 
 #### (1) In general
@@ -260,7 +390,65 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;(D) has participated (as of December 31, 2009) in a demonstration project established by the Secretary under which such a plan was offered for not less than 1 year.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title II, §§221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, 117 Stat. 2180, 2193, 2207, 2208; Pub. L. 110–173, title I, §108(a), Dec. 29, 2007, 121 Stat. 2496; Pub. L. 110–275, title I, §§162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, 122 Stat. 2571–2574; Pub. L. 111–148, title III, §§3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, 124 Stat. 457–459; Pub. L. 112–240, title VI, §607, Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1107, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §107, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §206, Apr. 16, 2015, 129 Stat. 145; Pub. L. 114–255, div. C, title XVII, §17006(a)(2)(B), Dec. 13, 2016, 130 Stat. 1334.)
+#### (h) National testing of Medicare Advantage Value-Based Insurance Design model
+
+#### (1) In general
+
+&emsp;In implementing the Medicare Advantage Value-Based Insurance Design model that is being tested under section 1315a(b) of this title, the Secretary shall revise the testing of the model under such section to cover, effective not later than January 1, 2020, all States.
+
+#### (2) Termination and modification provision not applicable until January 1, 2022
+
+&emsp;The provisions of section 1315a(b)(3)(B) of this title shall apply to the Medicare Advantage Value-Based Insurance Design model, including such model as revised under paragraph (1), beginning January 1, 2022, but shall not apply to such model, as so revised, prior to such date.
+
+#### (3) Funding
+
+&emsp;The Secretary shall allocate funds made available under section 1315a(f)(1) of this title to design, implement, and evaluate the Medicare Advantage Value-Based Insurance Design model, as revised under paragraph (1).
+
+#### (i) Program integrity transparency measures
+
+#### (1) Program integrity portal
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 2 years after October 24, 2018, the Secretary shall, after consultation with stakeholders, establish a secure internet website portal (or other successor technology) that would allow a secure path for communication between the Secretary, MA plans under this part, prescription drug plans under part D, and an eligible entity with a contract under section 1395ddd of this title (such as a Medicare drug integrity contractor or an entity responsible for carrying out program integrity activities under this part and part D) for the purpose of enabling through such portal (or other successor technology)—
+
+&emsp;&emsp;&emsp;(i) the referral by such plans of substantiated or suspicious activities, as defined by the Secretary, of a provider of services (including a prescriber) or supplier related to fraud, waste, and abuse for initiating or assisting investigations conducted by the eligible entity; and
+
+&emsp;&emsp;&emsp;(ii) data sharing among such MA plans, prescription drug plans, and the Secretary.
+
+#### (B) Required uses of portal
+
+&emsp;&emsp;The Secretary shall disseminate the following information to MA plans under this part and prescription drug plans under part D through the secure internet website portal (or other successor technology) established under subparagraph (A):
+
+&emsp;&emsp;&emsp;(i) Providers of services and suppliers that have been referred pursuant to subparagraph (A)(i) during the previous 12-month period.
+
+&emsp;&emsp;&emsp;(ii) Providers of services and suppliers who are the subject of an active exclusion under section 1320a–7 of this title or who are subject to a suspension of payment under this subchapter pursuant to section 1395y(o) of this title or otherwise.
+
+&emsp;&emsp;&emsp;(iii) Providers of services and suppliers who are the subject of an active revocation of participation under this subchapter, including for not satisfying conditions of participation.
+
+&emsp;&emsp;&emsp;(iv) In the case of such a plan that makes a referral under subparagraph (A)(i) through the portal (or other successor technology) with respect to activities of substantiated or suspicious activities of fraud, waste, or abuse of a provider of services (including a prescriber) or supplier, if such provider (including a prescriber) or supplier has been the subject of an administrative action under this subchapter or subchapter XI with respect to similar activities, a notification to such plan of such action so taken.
+
+#### (C) Rulemaking
+
+&emsp;&emsp;For purposes of this paragraph, the Secretary shall, through rulemaking, specify what constitutes substantiated or suspicious activities of fraud, waste, and abuse, using guidance such as what is provided in the Medicare Program Integrity Manual 4.8. In carrying out this subsection, a fraud hotline tip (as defined by the Secretary) without further evidence shall not be treated as sufficient evidence for substantiated fraud, waste, or abuse.
+
+#### (D) HIPAA compliant information only
+
+&emsp;&emsp;For purposes of this subsection, communications may only occur if the communications are permitted under the Federal regulations (concerning the privacy of individually identifiable health information) promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996.
+
+#### (2) Quarterly reports
+
+&emsp;Beginning not later than 2 years after October 24, 2018, the Secretary shall make available to MA plans under this part and prescription drug plans under part D in a timely manner (but no less frequently than quarterly) and using information submitted to an entity described in paragraph (1) through the portal (or other successor technology) described in such paragraph or pursuant to section 1395ddd of this title, information on fraud, waste, and abuse schemes and trends in identifying suspicious activity. Information included in each such report shall—
+
+&emsp;&emsp;(A) include administrative actions, pertinent information related to opioid overprescribing, and other data determined appropriate by the Secretary in consultation with stakeholders; and
+
+&emsp;&emsp;(B) be anonymized information submitted by plans without identifying the source of such information.
+
+#### (3) Clarification
+
+&emsp;Nothing in this subsection shall preclude or otherwise affect referrals to the Inspector General of the Department of Health and Human Services or other law enforcement entities.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title II, §§221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, 117 Stat. 2180, 2193, 2207, 2208; Pub. L. 110–173, title I, §108(a), Dec. 29, 2007, 121 Stat. 2496; Pub. L. 110–275, title I, §§162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, 122 Stat. 2571–2574; Pub. L. 111–148, title III, §§3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, 124 Stat. 457–459; Pub. L. 112–240, title VI, §607, Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1107, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §107, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §206, Apr. 16, 2015, 129 Stat. 145; Pub. L. 114–255, div. C, title XVII, §17006(a)(2)(B), Dec. 13, 2016, 130 Stat. 1334; Pub. L. 115–123, div. E, title III, §§50311(a), (b)(1), (c), 50321, Feb. 9, 2018, 132 Stat. 192, 196, 200; Pub. L. 115–271, title VI, §6063(a), Oct. 24, 2018, 132 Stat. 3987.)
 
 #### Applicability of Amendment
 
@@ -270,7 +458,25 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 The Internal Revenue Code of 1986, referred to in subsec. (e)(3)(A), is classified generally to Title 26, Internal Revenue Code.
 
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (i)(1)(D), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
+
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(6)(B)(iii). Pub. L. 115–123, §50311(c)(2)(A), substituted "who—" for "who have", inserted "(I) before January 1, 2022, have" before "one or more comorbid and medically complex chronic conditions that are substantially disabling", and added subcl. (II).
+
+Subsec. (f)(1). Pub. L. 115–123, §50311(a), struck out "and for periods before January 1, 2019" after "the Secretary".
+
+Subsec. (f)(3)(F). Pub. L. 115–123, §50311(b)(1)(A), added subpar. (F).
+
+Subsec. (f)(5). Pub. L. 115–123, §50311(c)(1), designated existing provisions as subpar. (A), inserted heading, substituted "Subject to subparagraph (B), the requirements" for "The requirements", redesignated former subpars. (A) and (B)(i) to (iii) as cls. (i) and (ii)(I) to (III), respectively, of subpar. (A), and added subpar. (B).
+
+Subsec. (f)(8). Pub. L. 115–123, §50311(b)(1)(B), added par. (8).
+
+Subsec. (f)(9). Pub. L. 115–123, §50311(c)(2)(B), added par. (9).
+
+Subsec. (h). Pub. L. 115–123, §50321, added subsec. (h).
+
+Subsec. (i). Pub. L. 115–271 added subsec. (i).
 
 <b>2016</b>—Subsec. (b)(6). Pub. L. 114–255 struck out "may waive application of section 1395w–21(a)(3)(B) of this title in the case of an individual described in clause (i), (ii), or (iii) of this subparagraph and" after "The Secretary" in concluding provisions.
 
@@ -380,5 +586,7 @@ Pub. L. 110–275, title I, §164(h), July 15, 2008, 122 Stat. 2575, provided th
 
 Secretary of Health and Human Services authorized, in promulgating regulations to carry out subsection (b)(6) of this section, to provide, notwithstanding subsection (b)(6)(A) of this section, for the offering of specialized MA plans for special needs individuals by MA plans that disproportionately serve special needs individuals, see section 231(d) of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "individual".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "that are life threatening or significantly limit".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "individual".</i>
 

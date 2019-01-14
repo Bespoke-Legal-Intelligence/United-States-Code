@@ -180,7 +180,7 @@
 
 #### (A) Rates for FDSL and FDUSL
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct UnsubsidizedStafford Loans for which the first disbursement is made on or after July 1, 2006, and before July 1, 2013, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after July 1, 2006, and before July 1, 2013, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
 
 #### (B) PLUS loans
 
@@ -298,7 +298,7 @@
 
 &emsp;&emsp;(D) an income contingent repayment plan, with varying annual repayment amounts based on the income of the borrower, paid over an extended period of time prescribed by the Secretary, not to exceed 25 years, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS loan made on behalf of a dependent student; and
 
-&emsp;&emsp;(E) beginning on July 1, 2009, an income-based repayment plan that enables borrowers who have a partial financial hardship to make a lower monthly payment in accordance with section 1098e of this title, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS Loan made on behalf ofa dependent student or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on such Federal Direct PLUS Loan or a loan under section 1078–2 of this title made on behalf of a dependent student.
+&emsp;&emsp;(E) beginning on July 1, 2009, an income-based repayment plan that enables borrowers who have a partial financial hardship to make a lower monthly payment in accordance with section 1098e of this title, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS Loan made on behalf of a dependent student or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on such Federal Direct PLUS Loan or a loan under section 1078–2 of this title made on behalf of a dependent student.
 
 #### (2) Selection by Secretary
 
@@ -324,7 +324,7 @@
 
 #### (1) Information and procedures
 
-&emsp;The Secretary may obtain such information as is reasonably necessary regarding the income of a borrower (and the borrower's spouse, if applicable) of a loan made under this part that is, or may be, repaid pursuant to income contingent repayment, for the purpose of determining the annual repayment obligation of the borrower. Returns and return information (as defined in section 6103 of title 26) may be obtained under the preceding sentence only to the extent authorized by section 6103(l)(13) of title 26. The Secretary shall establish procedures for determining the borrower's repayment obligation on that loan for such year, and such other procedures as are necessary to implement effectively income contingent repayment.
+&emsp;The Secretary may obtain such information as is reasonably necessary regarding the income of a borrower (and the borrower's spouse, if applicable) of a loan made under this part that is, or may be, repaid pursuant to income contingent repayment, for the purpose of determining the annual repayment obligation of the borrower. Returns and return information (as defined in section 6103 of title 26) may beobtained under the preceding sentence only to the extent authorized by section 6103(l)(13) of title 26. The Secretary shall establish procedures for determining the borrower's repayment obligation on that loan for such year, and such other procedures as are necessary to implement effectively income contingent repayment.
 
 #### (2) Repayment based on adjusted gross income
 
@@ -404,11 +404,33 @@
 
 &emsp;&emsp;(D) not in excess of 3 years during which the Secretary determines, in accordance with regulations prescribed under section 1085(o) of this title, that the borrower has experienced or will experience an economic hardship.
 
-#### (3) "Borrower" defined
+#### (3) Deferment for borrowers receiving cancer treatment
+
+#### (A) Effect on principal and interest
+
+&emsp;&emsp;A borrower of a loan made under this part who meets the requirements of subparagraph (B) shall be eligible for a deferment, during which periodic installments of principal need not be paid, and interest shall not accrue.
+
+#### (B) Eligibility
+
+&emsp;&emsp;A borrower of a loan made under this part shall be eligible for a deferment during—
+
+&emsp;&emsp;&emsp;(i) any period in which such borrower is receiving treatment for cancer; and
+
+&emsp;&emsp;&emsp;(ii) the 6 months after such period.
+
+#### (C) Applicability
+
+&emsp;&emsp;This paragraph shall apply with respect to loans—
+
+&emsp;&emsp;&emsp;(i) made on or after September 28, 2018; or
+
+&emsp;&emsp;&emsp;(ii) in repayment on September 28, 2018.
+
+#### (4) "Borrower" defined
 
 &emsp;For the purpose of this subsection, the term "borrower" means an individual who is a new borrower on the date such individual applies for a loan under this part for which the first disbursement is made on or after July 1, 1993.
 
-#### (4) Deferments for previous part B loan borrowers
+#### (5) Deferments for previous part B loan borrowers
 
 &emsp;A borrower of a loan made under this part, who at the time such individual applies for such loan, has an outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under part B of this subchapter prior to July 1, 1993, shall be eligible for a deferment under section 1077(a)(2)(C) of this title or section 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992.
 
@@ -448,7 +470,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (3) Transaction histories
 
-&emsp;All transaction histories under this part shall be maintained using the same system designated by the Secretary for the provision of Federal Pell Grants under subpart 1 of part A of this subchapter.
+&emsp;All transaction histories under this part shall be maintained using the same systemdesignated by the Secretary for the provision of Federal Pell Grants under subpart 1 of part A of this subchapter.
 
 #### (l) Armed Forces student loan interest payment program
 
@@ -568,13 +590,15 @@ Each institution of higher education with which the Secretary has an agreement u
 
 &emsp;&emsp;&emsp;(ii) how such aggregate period shall be calculated to include a course of study or program described in paragraph (3)(B) or (4)(B) of section 1091(b) of this title, respectively.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439;amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979; Pub. L. 113–28, §2(a), Aug. 9, 2013, 127 Stat. 506; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160.)
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979; Pub. L. 113–28, §2(a), Aug. 9, 2013, 127 Stat. 506; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160; Pub. L. 115–245, div. B, title III, §309(a), Sept. 28, 2018, 132 Stat. 3105.)
 
 #### References in Text
 
 Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f)(3) to (5). Pub. L. 115–245 added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 <b>2016</b>—Subsec. (o)(3)(B). Pub. L. 114–328 inserted ", or paragraph (1) or (3) of section 351(a)," after "section 310".
 
@@ -674,7 +698,7 @@ Subsec. (l). Pub. L. 107–314 added subsec. (l).
 
 > except that such rate shall not exceed 9 percent."
 
-<b>1998</b>—Subsec. (b)(5). Pub. L. 105–178, §8301(c)(2), which directed amendment of section 455(b) (20 U.S.C. 1087e(b)) by adding par. (5), was executed to this section, which is section 455(b) of Pub. L. 89–329, to reflect the probable intent of Congress. Former par. (5) redesignated (6).
+<b>1998</b>—Subsec. (b)(5). Pub. L. 105–178, §8301(c)(2), which directed amendment of section 455(b) (20 U.S.C. 1087e(b)) by adding par. (5), was executed to this section, which is section 455(b) of Pub. L. 89–329, to reflectthe probable intent of Congress. Former par. (5) redesignated (6).
 
 Subsec. (b)(6). Pub. L. 105–244, §452(a)(1), added par. (6) relating to interest rate provision for new loans.
 
@@ -691,6 +715,10 @@ Subsecs. (j)(2), (k)(3). Pub. L. 105–244, §401(g)(6), substituted "Federal Pe
 <b>1993</b>—Pub. L. 103–66 amended section generally, substituting provisions relating to terms and conditions of loans for former provisions relating to withdrawal and termination procedures.
 
 <b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions relating to withdrawal and termination procedures for former provisions relating to feasibility study.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–245 applicable with respect to loans made on or after Sept. 28, 2018, or in repayment on Sept. 28, 2018, see section 309(f) of Pub. L. 115–245, set out as a note under section 1077 of this title.
 
 #### Effective Date of 2013 Amendment
 
@@ -736,7 +764,7 @@ Nothing in amendment by section 8007(b) of Pub. L. 109–171 to be construed to 
 
 #### Limitation on Consolidation Loans During Temporary Interest Rate
 
-Pub. L. 105–244, title IV, §452(a)(2), Oct. 7, 1998, 112 Stat. 1716, provided that: "Notwithstanding section 455(g) of the Higher Education Act of 1965 \[subsec. (g) of this section\], a borrower who is enrolled or accepted for enrollment in an institution of higher education maynot consolidate loans under such section during the period beginning October 1, 1998, and ending February 1, 1999, unless the borrower certifies that the borrower has no outstanding loans made, insured, or guaranteed under title IV of such Act \[20 U.S.C. 1070 et seq.\] other than loans made under part D of such title \[this part\]."
+Pub. L. 105–244, title IV, §452(a)(2), Oct. 7, 1998, 112 Stat. 1716, provided that: "Notwithstanding section 455(g) of the Higher Education Act of 1965 \[subsec. (g) of this section\], a borrower who is enrolled or accepted for enrollment in an institution of higher education may not consolidate loans under such section during the period beginning October 1, 1998, and ending February 1, 1999, unless the borrower certifies that the borrower has no outstanding loans made, insured, or guaranteed under title IV of such Act \[20 U.S.C. 1070 et seq.\] other than loans made under part D of such title \[this part\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General shall, subject to amounts made available pursuant to section40744 of this title, carry out a grant program for the purpose of assisting States with the costs associated with the implementation of DNA arrestee collection processes.
+The Attorney General shall, subject to amounts made available pursuant to section 40744 of this title, carry out a grant program for the purpose of assisting States with the costs associated with the implementation of DNA arrestee collection processes.
 
 #### (b) Applications
 

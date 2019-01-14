@@ -2,7 +2,7 @@
 
 #### (a) Payments
 
-The Secretary shall make two payments under this section to each children's hospital for each of fiscal years 2000 through 2005, each of fiscal years 2007 through 2011, and each of fiscal years 2014 through 2018, one for the direct expenses and the other for indirect expenses associated with operating approved graduate medical residency training programs. The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.
+The Secretary shall make two payments under this section to each children's hospital for each of fiscal years 2000 through 2005, each of fiscal years 2007 through 2011, each of fiscal years 2014 through 2018, and each of fiscal years 2019 through 2023, one for the direct expenses and the other for indirect expenses associated with operating approved graduate medical residency training programs. The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.
 
 #### (b) Amount of payments
 
@@ -72,7 +72,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 #### (D) Report to Congress
 
-&emsp;&emsp;Not later than the end of fiscal year 2018, the Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit a report to the Congress—
+&emsp;&emsp;Not later than the end of fiscal year 2018, and the end of fiscal year 2022, the Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit a report to the Congress—
 
 &emsp;&emsp;&emsp;(i) summarizing the information submitted in reports to the Secretary under subparagraph (B);
 
@@ -122,7 +122,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;&emsp;&emsp;(i) by dividing the national average per resident amount computed under subparagraph (D) into a wage-related portion and a non-wage-related portion by applying the proportion determined under subparagraph (B);
 
-&emsp;&emsp;&emsp;(ii) by multiplying the wage-related portion by the factor applied under section 1395ww(d)(3)(E) of this title for dischargesoccurring during the preceding fiscal year for the hospital's area; and
+&emsp;&emsp;&emsp;(ii) by multiplying the wage-related portion by the factor applied under section 1395ww(d)(3)(E) of this title for discharges occurring during the preceding fiscal year for the hospital's area; and
 
 &emsp;&emsp;&emsp;(iii) by adding the non-wage-related portion to the amount computed under clause (ii).
 
@@ -148,7 +148,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 #### (1) Interim payments
 
-&emsp;The Secretary shall determine, before the beginning of each fiscal year involved for which payments may be made for a hospital under this section, the amounts of the payments for direct graduate medical education and indirect medical education for such fiscal year and shall (subject to paragraph (2)) make the payments of such amounts in 12 equal interim installments during such period. Such interim payments to each individual hospital shall be based on the number of residents reported in the hospital's most recently filed Medicare cost report prior to the application date for the Federal fiscal year for which the interim payment amounts are established. In the case of a hospital that does not report residents on a Medicare cost report, such interim payments shall be based on the number of residents trained during the hospital's most recently completed Medicare cost report filing period.
+&emsp;The Secretary shall determine, before the beginning of each fiscal year involved for which payments may be made for a hospitalunder this section, the amounts of the payments for direct graduate medical education and indirect medical education for such fiscal year and shall (subject to paragraph (2)) make the payments of such amounts in 12 equal interim installments during such period. Such interim payments to each individual hospital shall be based on the number of residents reported in the hospital's most recently filed Medicare cost report prior to the application date for the Federal fiscal year for which the interim payment amounts are established. In the case of a hospital that does not report residents on a Medicare cost report, such interim payments shall be based on the number of residents trained during the hospital's most recently completed Medicare cost report filing period.
 
 #### (2) Withholding
 
@@ -172,9 +172,11 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;&emsp;&emsp;(iii) for each of the fiscal years 2002 through 2005, such sums as may be necessary;
 
-&emsp;&emsp;&emsp;(iv) for each of fiscal years 2007 through 2011, $110,000,000; and
+&emsp;&emsp;&emsp;(iv) for each of fiscal years 2007 through 2011, $110,000,000;
 
-&emsp;&emsp;&emsp;(v) for each of fiscal years 2014 through 2018, $100,000,000.
+&emsp;&emsp;&emsp;(v) for each of fiscal years 2014 through 2018, $100,000,000; and
+
+&emsp;&emsp;&emsp;(vi) for each of fiscal years 2019 through 2023, $105,000,000.
 
 #### (B) Carryover of excess
 
@@ -190,9 +192,11 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;&emsp;(C) for each of the fiscal years 2002 through 2005, such sums as may be necessary;
 
-&emsp;&emsp;(D) for each of fiscal years 2007 through 2011, $220,000,000; and
+&emsp;&emsp;(D) for each of fiscal years 2007 through 2011, $220,000,000;
 
-&emsp;&emsp;(E) for each of fiscal years 2014 through 2018, $200,000,000.
+&emsp;&emsp;(E) for each of fiscal years 2014 through 2018, $200,000,000; and
+
+&emsp;&emsp;(F) for each of fiscal years 2019 through 2023, $220,000,000.
 
 #### (g) Definitions
 
@@ -200,7 +204,7 @@ In this section:
 
 #### (1) Approved graduate medical residency training program
 
-&emsp;The term "approved graduate medical residency training program" has the meaning given the term "approved medical residencytraining program" in section 1395ww(h)(5)(A) of this title.
+&emsp;The term "approved graduate medical residency training program" has the meaning given the term "approved medical residency training program" in section 1395ww(h)(5)(A) of this title.
 
 #### (2) Children's hospital
 
@@ -256,13 +260,21 @@ In this section:
 
 &emsp;&emsp;For purposes of distributing the remaining amounts described in subparagraph (A), the Secretary may establish a quality bonus system, whereby the Secretary distributes bonus payments to hospitals participating in the program under this subsection or subsection (a) that meet standards specified by the Secretary, which may include a focus on quality measurement and improvement, interpersonal and communications skills, delivering patient-centered care, and practicing in integrated health systems, including training in community-based settings. In developing such standards, the Secretary shall collaborate with relevant stakeholders, including program accrediting bodies, certifying boards, training programs, health care organizations, health care purchasers, and patient and consumer groups.
 
-(July 1, 1944, ch. 373, title III, §340E, as added Pub. L. 106–129, §4, Dec. 6, 1999, 113 Stat. 1671; amended Pub. L. 106–310, div. A, title XX, §2001, Oct. 17, 2000, 114 Stat. 1155; Pub. L. 108–490, §1(a), Dec. 23, 2004, 118 Stat. 3972; Pub. L. 109–307, §2, Oct. 6, 2006, 120 Stat. 1721; Pub. L. 113–98, §§2, 3, Apr. 7, 2014, 128 Stat. 1140.)
+(July 1, 1944, ch. 373, title III, §340E, as added Pub. L. 106–129, §4, Dec. 6, 1999, 113 Stat. 1671; amended Pub. L. 106–310, div. A, title XX, §2001, Oct. 17, 2000, 114 Stat. 1155; Pub. L. 108–490, §1(a), Dec. 23, 2004, 118 Stat. 3972; Pub. L. 109–307, §2, Oct. 6, 2006, 120 Stat. 1721; Pub. L. 113–98, §§2, 3, Apr. 7, 2014, 128 Stat. 1140; Pub. L. 115–241, §2, Sept. 18, 2018, 132 Stat. 2892.)
 
 #### References in Text
 
 Section 1395ww(d) of this title, referred to in subsec. (e)(3), was in the original "section 1186(d) of such Act" and was translated as reading "section 1886(d) of such Act", meaning section 1886(d) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1186 and section 1395ww(d) of this title relates to review of inpatient hospital service payments.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–241, §2(1), substituted "each of fiscal years 2014 through 2018, and each of fiscal years 2019 through 2023," for "and each of fiscal years 2014 through 2018,".
+
+Subsec. (b)(3)(D). Pub. L. 115–241, §2(2), inserted "and the end of fiscal year 2022," after "fiscal year 2018," in introductory provisions.
+
+Subsec. (f)(1)(A)(vi). Pub. L. 115–241, §2(3)(A), added cl. (vi).
+
+Subsec. (f)(2)(F). Pub. L. 115–241, §2(3)(B), added subpar. (F).
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–98, §2(a)(1), substituted "through 2005, each of fiscal years 2007 through 2011, and each of fiscal years 2014 through 2018" for "through 2005 and each of fiscal years 2007 through 2011".
 

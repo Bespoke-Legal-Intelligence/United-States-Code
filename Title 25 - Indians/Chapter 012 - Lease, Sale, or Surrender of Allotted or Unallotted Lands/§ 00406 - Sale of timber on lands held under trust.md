@@ -18,7 +18,7 @@ For the purposes of this Act, the Secretary of the Interior is authorized to rep
 
 #### (e) Emergency sales
 
-The timber on any Indian land held under a trust or other patent containing restrictions on alienations may be sold by the Secretary of the Interior without the consent of the owners when in his judgment such action is necessary to prevent loss of values resulting from fire, insects, disease, windthrow, or other natural catastrophes.
+The timber on any Indian land held under a trust or other patent containing restrictions on alienations may be sold by the Secretary of theInterior without the consent of the owners when in his judgment such action is necessary to prevent loss of values resulting from fire, insects, disease, windthrow, or other natural catastrophes.
 
 #### (f) Change in status without affecting contractual obligations
 

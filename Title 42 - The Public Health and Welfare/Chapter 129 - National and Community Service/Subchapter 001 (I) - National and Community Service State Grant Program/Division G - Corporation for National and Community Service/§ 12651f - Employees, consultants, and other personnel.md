@@ -8,7 +8,7 @@ Except as provided in subsection (b), section 12651e(d) of this title, and secti
 
 #### (1) Authority
 
-&emsp;The Chief Executive Officer may designate positions in the Corporation as positions to which the Chief Executive Officer may make appointments, and for which the Chief Executive Officer may determine compensation, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, to the extent the Chief Executive Officer determines that such a designation is appropriate and desirable to further the effective operation of the Corporation. The Chief Executive Officer may provide for appointments to such positions to be made on a limited term basis.
+&emsp;The Chief Executive Officer may designate positions in the Corporation as positions towhich the Chief Executive Officer may make appointments, and for which the Chief Executive Officer may determine compensation, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, to the extent the Chief Executive Officer determines that such a designation is appropriate and desirable to further the effective operation of the Corporation. The Chief Executive Officer may provide for appointments to such positions to be made on a limited term basis.
 
 #### (2) Appointment in the competitive service after employment under alternative personnel system
 

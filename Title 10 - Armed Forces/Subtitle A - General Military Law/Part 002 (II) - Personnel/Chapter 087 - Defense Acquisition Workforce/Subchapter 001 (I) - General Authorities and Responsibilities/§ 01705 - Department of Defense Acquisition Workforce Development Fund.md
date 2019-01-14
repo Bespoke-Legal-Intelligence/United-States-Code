@@ -42,7 +42,7 @@ Transfer of certain unobligated balances.—To the extent provided in appropriat
 
 &emsp;(4)
 
-Additional requirements and limitations on remittances.—(A) In the eventamounts are transferred to the Fund during a fiscal year pursuant to paragraph (1)(B) or appropriated to the Fund for a fiscal year pursuant to paragraph (1)(C), the aggregate amount otherwise required to be remitted to the Fund for that fiscal year pursuant to paragraph (2)(B) shall be reduced by the amount equal to the amounts so transferred or appropriated to the Fund during or for that fiscal year. Any reduction in the aggregate amount required to be remitted to the Fund for a fiscal year under this subparagraph shall be allocated as provided in applicable provisions of appropriations Acts or, absent such provisions, on a pro rata basis among the military departments and Defense Agencies required to make remittances to the Fund for that fiscal year under paragraph (2)(B), subject to any exclusions the Secretary of Defense determines to be necessary in the best interests of the Department of Defense.
+Additional requirements and limitations on remittances.—(A) In the event amounts are transferred to the Fund during a fiscal year pursuant to paragraph (1)(B) or appropriated to the Fund for a fiscal year pursuant to paragraph (1)(C), the aggregate amount otherwise required to be remitted to the Fund for that fiscal year pursuant to paragraph (2)(B) shall be reduced by the amount equal to the amounts so transferred or appropriated to the Fund during or for that fiscal year. Any reduction in the aggregate amount required to be remitted to the Fund for a fiscal year under this subparagraph shall be allocated as provided in applicable provisions of appropriations Acts or, absent such provisions, on a pro rata basis among the military departments and Defense Agencies required to make remittances to the Fund for that fiscal year under paragraph (2)(B), subject to any exclusions the Secretary of Defense determines to be necessary in the best interests of the Department of Defense.
 
 &emsp;(B) Any remittance of amounts to the Fund for a fiscal year under paragraph (2) shall be subject to the availability of appropriations for that purpose.
 
@@ -58,7 +58,7 @@ In general.—(A) Subject to the provisions of this subsection, amounts in the F
 
 &emsp;(2)
 
-Prohibition.—Amounts in the Fund may not be obligated for any purpose other than purposes described in paragraph (1) or otherwise in accordance with this subsection.
+Prohibition.—Amounts in the Fund may not be obligated for any purpose other thanpurposes described in paragraph (1) or otherwise in accordance with this subsection.
 
 &emsp;(3)
 

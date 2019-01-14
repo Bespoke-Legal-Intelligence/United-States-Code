@@ -46,7 +46,7 @@ Pub. L. 93–87, title II, §201, Aug. 13, 1973, 87 Stat. 282, provided that: "T
 
 #### Short Title of 1970 Amendment
 
-Pub. L. 91–605, title II, §201, Dec. 31, 1970, 84 Stat. 1739, provided that: "This title \[enacting sections 144 and 322of this title, amending provisions set out as notes under this section and section 402 of this title, and enacting provisions set out as notes under this section and section 402 of this title\] may be cited as the 'Highway Safety Act of 1970'."
+Pub. L. 91–605, title II, §201, Dec. 31, 1970, 84 Stat. 1739, provided that: "This title \[enacting sections 144 and 322 of this title, amending provisions set out as notes under this section and section 402 of this title, and enacting provisions set out as notes under this section and section 402 of this title\] may be cited as the 'Highway Safety Act of 1970'."
 
 #### Short Title
 
@@ -232,7 +232,7 @@ Pub. L. 109–59, title I, §1410, Aug. 10, 2005, 119 Stat. 1233, provided that:
 
 "(a)
 
-Grants.—The Secretary \[of Transportation\] shall make grants for fiscal years 2006 through 2009 to a national nonprofit foundation for the operation of the National Work Zone Safety Information Clearinghouse, authorized by section 358(b)(2) of Public Law 104–59 \[set out below\], created for the purpose of assembling and disseminating, by electronic and other means, information relating to improvement of roadway work zone safety.
+Grants.—The Secretary \[of Transportation\] shall make grants for fiscal years 2006 through 2009 toa national nonprofit foundation for the operation of the National Work Zone Safety Information Clearinghouse, authorized by section 358(b)(2) of Public Law 104–59 \[set out below\], created for the purpose of assembling and disseminating, by electronic and other means, information relating to improvement of roadway work zone safety.
 
 "(b)
 
@@ -278,7 +278,7 @@ Pub. L. 100–17, title II, §208, Apr. 2, 1987, 101 Stat. 222, as amended by Pu
 
 #### Annual Report by Secretary of Transportation on Highway Safety Performance of Each State
 
-Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: "The Secretary of Transportation shall prepare, publish, and submit to Congress not later than December 31 of each calendar year beginning after December 31, 1982, a report on the highway safety performance of each State in the preceding calendar year. Such report shall provide data on highway fatalities and injuries and motor vehicle accidents involving fatalities and injuries and travel in urban areas of each State for each system of highways and in rural areas of such State for each system of highways. Such reportshall be in such form and contain such other information on highway accidents as will permit an evaluation and comparison of highway safety performance of the States. For purposes of this section (1) the systems of highways in a State are the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and the Interstate System (as such terms are defined in section 101 of title 23, United States Code) and the other highways in such State which are not on the Federal-aid system, and (2) the terms 'State', 'rural areas', and 'urban area' have the meaning such terms have under section 101."
+Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: "The Secretary of Transportation shall prepare, publish, and submit to Congress not later than December 31 of each calendar year beginning after December 31, 1982, a report on the highway safety performance of each State in the preceding calendar year. Such report shall provide data on highway fatalities and injuries and motor vehicle accidents involving fatalities and injuries and travel in urban areas of each State for each system of highways and in rural areas of such State for each system of highways. Such report shall be in such form and contain such other information on highway accidents as will permit an evaluation and comparison of highway safety performance of the States. For purposes of this section (1) the systems of highways in a State are the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and the Interstate System (as such terms are defined in section 101 of title 23, United States Code) and the other highways in such State which are not on the Federal-aid system, and (2) the terms 'State', 'rural areas', and 'urban area' have the meaning such terms have under section 101."
 
 \[For termination, effective May 15, 2000, of provisions relating to submittal of report to Congress in section 207 of Pub. L. 97–424, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 136 of House Document No. 103–7.\]
 
@@ -318,7 +318,7 @@ Pub. L. 93–87, title II, §211, Aug. 13, 1973, 87 Stat. 288, directed Secretar
 
 #### Highway Safety Citizen Participation Study
 
-Pub. L. 93–87, title II, §212, Aug. 13, 1973, 87 Stat. 289, authorized the appropriation of $1,000,000 for a study bythe Secretary of Transportation, with cooperation of State and local highway safety authorities, of ways and means of encouraging greater citizen participation in highway safety programs, the results of such study and recommendations to be reported to Congress by June 30, 1974.
+Pub. L. 93–87, title II, §212, Aug. 13, 1973, 87 Stat. 289, authorized the appropriation of $1,000,000 for a study by the Secretary of Transportation, with cooperation of State and local highway safety authorities, of ways and means of encouraging greater citizen participation in highway safety programs, the results of such study and recommendations to be reported to Congress by June 30, 1974.
 
 #### National Center for Statistical Analysis of Highway Operations
 
@@ -334,7 +334,7 @@ Pub. L. 93–87, title II, §225, Aug. 13, 1973, 87 Stat. 292, mandated a study 
 
 #### National Highway Traffic Safety Administration; Creation; Appointment of Administrator and Deputy Administrator; Duties; Retroactive Effect
 
-Pub. L. 89–564, title II, §201, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 89–670, §8(h), Oct. 15, 1966, 80 Stat. 943; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 224; Pub. L. 91–605, title II, §202(a), Dec. 31, 1970, 84 Stat. 1739, which provided for the creation of National Highway Traffic Safety Administration in the Department of Transportation, was repealed by Pub. L. 97–449, §7(b), Jan. 12, 1983, 96 Stat. 2444, and reenacted by section 1(b) of Pub. L. 97–449 as section 105 of Title 49, Transportation.
+Pub. L. 89–564, title II, §201, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 89–670, §8(h), Oct. 15, 1966, 80 Stat. 943; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 224; Pub. L. 91–605, title II, §202(a), Dec. 31, 1970, 84 Stat. 1739, which provided for the creation of National Highway Traffic Safety Administration in the Department of Transportation, was repealed by Pub. L. 97–449, §7(b),Jan. 12, 1983, 96 Stat. 2444, and reenacted by section 1(b) of Pub. L. 97–449 as section 105 of Title 49, Transportation.
 
 #### Acting Administrator of National Highway Traffic Safety Administration
 

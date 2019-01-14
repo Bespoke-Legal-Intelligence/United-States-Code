@@ -12,7 +12,7 @@
 
 &emsp;(A) the United States may not acquire from such country any logistic support, supply, or service not governed by such reciprocal pricing principles unless the United States forces commander acquiring such support, supply, or service determines (after price analysis) that the price thereof is fair and reasonable; and
 
-&emsp;(B) transfers by the United States to such country under this subchapter of any logistic support, supply, or service that is not governed by such reciprocal pricing principles shall be subject to the pricing provisions of the Arms Export Control Act (22 U.S.C. 2751 et seq.).
+&emsp;(B) transfers by the United States to such country under this subchapter of any logistic support, supply, or service that is not governed by such reciprocal pricing principlesshall be subject to the pricing provisions of the Arms Export Control Act (22 U.S.C. 2751 et seq.).
 
 (3) To the extent that indirect costs (including charges for plant and production equipment), administrative surcharges, and contract administration costs with respect to any North Atlantic Treaty Organization country or other foreign country are not waived by operation of the reciprocal pricing principles of paragraph (1), the Secretary of Defense may, on a reciprocal basis, agree to waive such costs.
 

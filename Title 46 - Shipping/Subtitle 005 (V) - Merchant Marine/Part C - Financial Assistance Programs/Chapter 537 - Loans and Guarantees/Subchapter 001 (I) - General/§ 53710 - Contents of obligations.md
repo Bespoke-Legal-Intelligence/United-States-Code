@@ -112,7 +112,7 @@ Section 503 of the Merchant Marine Act, 1936, referred to in subsec. (b)(1), is 
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (2)(C). See 2006 Amendment note below.
 
-Subsec. (a). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), into this section by inserting "or Administrator" after "Secretary" wherever appearing. See 2006 Amendment note below and section 18(a) ofPub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (a). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), into this section by inserting "or Administrator" after "Secretary" wherever appearing. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 Subsec. (b). Pub. L. 110–181, §3522(a)(5), (9)(A), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(C), into this section by substituting "Administrator's" for "Secretary's" in introductory provisions of par. (1) and "Administrator" for "Secretary" in par. (2)(A)(i). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 

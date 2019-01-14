@@ -4,7 +4,7 @@
 
 (b) An officer eligible for consideration by a selection board convened under section 611(a) of this title may send a written communication to the board, to arrive not later than 10 calendar days before the date the board convenes, calling attention to any matter concerning himself that the officer considers important to his case. The selection board shall give consideration to any timely communication under this subsection.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2852; amended Pub. L. 97–22, §4(b), July 10, 1981, 95 Stat. 126; Pub. L. 102–190, div. A, titleV, §504(a)(2)(A), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 109–163, div. A, title V, §505(a), Jan. 6, 2006, 119 Stat. 3227; Pub. L. 115–91, div. A, title V, §501(a), Dec. 12, 2017, 131 Stat. 1373.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2852; amended Pub. L. 97–22, §4(b), July 10, 1981, 95 Stat. 126; Pub. L. 102–190, div. A, title V, §504(a)(2)(A), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 109–163, div. A, title V, §505(a), Jan. 6, 2006, 119 Stat. 3227; Pub. L. 115–91, div. A, title V, §501(a), Dec. 12, 2017, 131 Stat. 1373.)
 
 #### Amendments
 

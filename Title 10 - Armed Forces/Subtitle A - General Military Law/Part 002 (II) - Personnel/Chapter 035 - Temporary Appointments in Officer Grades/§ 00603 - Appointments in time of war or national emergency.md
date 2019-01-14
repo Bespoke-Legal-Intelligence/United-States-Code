@@ -6,7 +6,7 @@
 
 (c)(1) Any person receiving an original appointment under this section is entitled to service credit as authorized under section 533 of this title.
 
-(2) An appointment under this section of a person who is not on active duty becomes effectivewhen that person begins active duty under that appointment.
+(2) An appointment under this section of a person who is not on active duty becomes effective when that person begins active duty under that appointment.
 
 (d) An appointment under this section does not change the permanent status of a member of the armed forces so appointed. A member who is appointed under this section shall not incur any reduction in the pay and allowances to which the member was entitled, by virtue of his permanent status, at the time of his appointment under this section.
 

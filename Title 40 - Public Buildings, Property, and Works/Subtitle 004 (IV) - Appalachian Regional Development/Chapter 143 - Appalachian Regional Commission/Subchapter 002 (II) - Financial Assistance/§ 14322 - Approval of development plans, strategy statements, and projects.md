@@ -6,7 +6,7 @@ Annual Review and Approval Required.—The Appalachian Regional Commission annua
 
 (b)
 
-Application Process.—An application for a grant or for other assistance for a specificproject under this subtitle shall be made through the state member of the Commission representing the applicant. The state member shall evaluate the application for approval. To be approved, the state member must certify, and the Federal Cochairman must determine, that the application—
+Application Process.—An application for a grant or for other assistance for a specific project under this subtitle shall be made through the state member of the Commission representing the applicant. The state member shall evaluate the application for approval. To be approved, the state member must certify, and the Federal Cochairman must determine, that the application—
 
 &emsp;(1) implements the Commission-approved state development plan;
 

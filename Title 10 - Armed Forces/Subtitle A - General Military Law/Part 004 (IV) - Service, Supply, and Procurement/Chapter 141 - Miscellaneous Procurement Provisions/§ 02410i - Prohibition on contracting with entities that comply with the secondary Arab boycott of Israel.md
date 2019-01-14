@@ -2,7 +2,7 @@
 
 (a)
 
-Policy.—Under section 3(5)(A) of the Export Administration Act of 1979 (50 U.S.C. 4602(5)(A)), it is the policy of the United States to oppose restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States or against any other United States person.
+Policy.—Under section 3(5)(A) <sup>1</sup> of the Export Administration Act of 1979 (50 U.S.C. 4602(5)(A)), it is the policy of the United States to oppose restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States or against any other United States person.
 
 (b)
 
@@ -24,6 +24,10 @@ Exceptions.—Subsection (b) does not apply—
 
 (Added Pub. L. 102–484, div. A, title XIII, §1332(a), Oct. 23, 1992, 106 Stat. 2555; amended Pub. L. 111–350, §§4, 5(b)(31), Jan. 4, 2011, 124 Stat. 3841, 3845; Pub. L. 114–328, div. A, title X, §1081(b)(3)(D), Dec. 23, 2016, 130 Stat. 2419; Pub. L. 115–91, div. A, title X, §1051(a)(16), Dec. 12, 2017, 131 Stat. 1561.)
 
+#### References in Text
+
+Section 3(5)(A) of the Export Administration Act of 1979 (50 U.S.C. 4602(5)(A)), referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
+
 #### Amendments
 
 <b>2017</b>—Subsec. (c). Pub. L. 115–91 struck out at end "Within 15 days after the end of each fiscal year, the Secretary shall submit to Congress a report identifying each contract for which a waiver was granted under this subsection during that fiscal year."
@@ -31,4 +35,6 @@ Exceptions.—Subsection (b) does not apply—
 <b>2016</b>—Subsec. (a). Pub. L. 114–328 substituted "(50 U.S.C. 4602(5)(A))" for "(50 U.S.C. App. 2402(5)(A))".
 
 <b>2011</b>—Subsec. (b)(1). Pub. L. 111–350 substituted "simplified acquisition threshold (as defined in section 134 of title 41)" for "small purchase threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

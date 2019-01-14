@@ -2,7 +2,7 @@
 
 #### (a) Responsibility
 
-The provisions of this chapter and of any regulation prescribed, or permit issued, under thischapter shall be enforced by the Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of <sup>1</sup> Interior, and the Secretary of the department in which the Coast Guard is operating. The Director and such Secretaries may utilize by agreement, on a reimbursable basis or otherwise, the personnel, services, and facilities of any other Federal agency or any State agency in the performance of such duties.
+The provisions of this chapter and of any regulation prescribed, or permit issued, under this chapter shall be enforced by the Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of <sup>1</sup> Interior, and the Secretary of the department in which the Coast Guard is operating. The Director and such Secretaries may utilize by agreement, on a reimbursable basis or otherwise, the personnel, services, and facilities of any other Federal agency or any State agency in the performance of such duties.
 
 #### (b) Powers of authorized officers
 
@@ -30,7 +30,7 @@ Any property or item seized pursuant to subsection (b) shall be held by any pers
 
 (1) Any animal or plant with respect to which an act prohibited by section 2403(a) of this title is committed shall be subject to forfeiture to the United States.
 
-(2) All guns, traps, nets, and other equipment, vessels, vehicles, aircraft, and other means of transportation used in the commission of any act prohibited by section 2403(a) of this title shall be subject to forfeiture to the United States.
+(2) All guns, traps, nets, and other equipment, vessels, vehicles, aircraft, and other means of transportation used in the commission of any act prohibited by section 2403(a) of this titleshall be subject to forfeiture to the United States.
 
 (3) Upon the forfeiture to the United States of any property or item described in paragraph (1) or (2), or upon the abandonment or waiver of any claim to any such property or item, it shall be disposed of by the Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of the Interior, or the Secretary of the department in which the Coast Guard is operating, as the case may be, in such a manner, consistent with the purposes of the chapter, as may be prescribed by regulation; except that no native mammal, native bird, or native plant may be disposed of by sale to the public.
 
@@ -48,7 +48,7 @@ The Director, the Secretary of the Treasury, the Secretary of Commerce, the Secr
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "of the".</i>
 

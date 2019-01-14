@@ -122,7 +122,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;"(13) Through the abuse of short, fixed-term contracts, the Soviet Union has maintained undue influence and control over major offices of the United Nations Secretariat, thereby effectively using the United Nations Secretariat in the conduct of its foreign relations, in clear violation of Articles 100 and 101 of the United Nations Charter.
 
-&emsp;"(14) The Secretary-General's proposed exceptions to the hiring freeze (as described in paragraphs (1)through (5)) would continue the gross violations of Articles 100 and 101 of the United Nations Charter described in paragraph (13).
+&emsp;"(14) The Secretary-General's proposed exceptions to the hiring freeze (as described in paragraphs (1) through (5)) would continue the gross violations of Articles 100 and 101 of the United Nations Charter described in paragraph (13).
 
 &emsp;"(15) The Secretary-General's proposed exceptions to such hiring freeze would be clearly inconsistent with the terms of the United Nation's self-imposed reform program.
 
@@ -150,7 +150,7 @@ Sense of the Congress.—It is the sense of the Congress that—
 
 &emsp;&emsp;"(C) its absolute disregard of the solemn purpose of the United Nations to be an international civil service; and
 
-&emsp;"(7) if the Soviet Union and the Soviet-bloc intend to remain member-nations of the United Nations, they should adhere to Articles 100, 101, and all other principles of the United Nations Charter to which every other member-nation must adhere.
+&emsp;"(7) if the Soviet Union and the Soviet-bloc intend to remain member-nations of the United Nations,they should adhere to Articles 100, 101, and all other principles of the United Nations Charter to which every other member-nation must adhere.
 
 "(c)
 
@@ -202,7 +202,7 @@ Pub. L. 99–93, title I, §151, Aug. 16, 1985, 99 Stat. 428, provided that:
 
 "(a)
 
-Initial Report.—Not later than 90 days after the date of enactment of this Act \[Aug. 16, 1985\], the Secretary of State shall report to the Congress on whether, and the extent to which, international civil servantsemployed by the United Nations, including those seconded to the United Nations, are required to return all or part of their salaries to their respective governments. The Secretary shall also include in this report a description of the steps taken by the Department of State and by the United States Representative to the United Nations to correct this practice.
+Initial Report.—Not later than 90 days after the date of enactment of this Act \[Aug. 16, 1985\], the Secretary of State shall report to the Congress on whether, and the extent to which, international civil servants employed by the United Nations, including those seconded to the United Nations, are required to return all or part of their salaries to their respective governments. The Secretary shall also include in this report a description of the steps taken by the Department of State and by the United States Representative to the United Nations to correct this practice.
 
 "(b)
 
@@ -268,7 +268,7 @@ In general.—Except as provided in subparagraph (B), funds authorized to be app
 
 &emsp;"(B)
 
-Reduction in united states share of assessed contributions.—Notwithstanding the percentage limitation contained in subparagraph (A), the United States share of assessed contributions foreach United Nations peacekeeping operation during the following periods is authorized to be as follows:
+Reduction in united states share of assessed contributions.—Notwithstanding the percentage limitation contained in subparagraph (A), the United States share of assessed contributions for each United Nations peacekeeping operation during the following periods is authorized to be as follows:
 
 &emsp;&emsp;"(i) For assessments made during calendar year 2001, 28.15 percent.
 
@@ -294,7 +294,7 @@ Pub. L. 103–236, title IV, §410, Apr. 30, 1994, 108 Stat. 454, provided that:
 
 > during any period in which such membership is effective."
 
-Pub. L. 92–544, title I, §101, Oct. 25, 1972, 86 Stat. 1110, as amended by Pub. L. 94–141, title II, §203, Nov. 29, 1975, 89 Stat. 762; Pub. L. 103–236, title IV, §404(b)(3), Apr. 30, 1994, 108 Stat. 447; Pub. L. 107–228, div. A, title IV, §402(b), Sept. 30, 2002, 116 Stat. 1389, provided that: "Subject to section 404(b)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 \[Pub. L. 103–236\] (22 U.S.C. 287e note), after December 31, 1973, no appropriation is authorized and no payment shall be made to the United Nations or any affiliated agency in excess of 25 per centum of the total annual assessment of such organization. Subject to section 404(b)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (22 U.S.C. 287e note), appropriations are authorized and contributions and payments may be made to the following organizations and activities notwithstanding that such contributions and payments are in excess of 25 per centum of the total annual assessment of the respective organization or 331/3 per centum of the budget for the respective activity: the International Atomic Energy Agency, the joint financing program of the International Civil Aviation Organization, and contributions for international peacekeeping activities conducted by or under the auspices of the United Nations or through multilateral agreements."
+Pub. L. 92–544, title I, §101, Oct. 25, 1972, 86 Stat. 1110, as amended by Pub. L. 94–141, title II, §203, Nov. 29, 1975, 89 Stat. 762; Pub. L. 103–236, title IV, §404(b)(3), Apr. 30, 1994, 108 Stat. 447; Pub. L. 107–228, div. A, title IV, §402(b), Sept. 30, 2002, 116 Stat. 1389, provided that: "Subject to section 404(b)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 \[Pub. L. 103–236\] (22 U.S.C. 287e note), after December 31, 1973, no appropriation is authorized and no payment shall be made to the United Nations or any affiliated agency in excess of 25 per centum of the total annual assessment of such organization. Subject to section 404(b)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (22 U.S.C. 287e note), appropriations are authorized and contributions and payments may be made to the following organizations and activities notwithstanding that such contributions and payments are in excess of 25 per centum of the total annual assessment of the respective organization or 331/3 per centum of thebudget for the respective activity: the International Atomic Energy Agency, the joint financing program of the International Civil Aviation Organization, and contributions for international peacekeeping activities conducted by or under the auspices of the United Nations or through multilateral agreements."
 
 #### United States Assessed Contribution to the United Nations
 

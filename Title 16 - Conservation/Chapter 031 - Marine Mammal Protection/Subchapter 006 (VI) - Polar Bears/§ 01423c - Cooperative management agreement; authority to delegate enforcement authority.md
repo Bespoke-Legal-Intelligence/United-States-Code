@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the United States Fish and Wildlife Service, may share authority under this subchapter forthe management of the taking of polar bears for subsistence purposes with the Alaska Nanuuq Commission if such commission is eligible under subsection (b).
+The Secretary, acting through the Director of the United States Fish and Wildlife Service, may share authority under this subchapter for the management of the taking of polar bears for subsistence purposes with the Alaska Nanuuq Commission if such commission is eligible under subsection (b).
 
 #### (b) Delegation
 

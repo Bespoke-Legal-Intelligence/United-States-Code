@@ -156,7 +156,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(vii) other organizations that the community-based organization determines to be appropriate;
 
-&emsp;&emsp;(F) contain an assurance that the community-based organization will use grant fundsreceived under this section to provide children in the eligible community with activities and services that shall include supervised sports programs, and extracurricular and academic programs, in accordance with subparagraphs (A) and (B) of subsection (d)(2);
+&emsp;&emsp;(F) contain an assurance that the community-based organization will use grant funds received under this section to provide children in the eligible community with activities and services that shall include supervised sports programs, and extracurricular and academic programs, in accordance with subparagraphs (A) and (B) of subsection (d)(2);
 
 &emsp;&emsp;(G) contain a list of the activities and services that will be offered through the program for which the grant is sought and sponsored by private nonprofit organizations, individuals, and groups serving the eligible community, including—
 

@@ -1,6 +1,6 @@
 ### §§1961 to 1966. Repealed. Pub. L. 95–561, title XV, §1529, Nov. 1, 1978, 92 Stat. 2380
 
-Section 1961, Pub. L. 93–380, title VII, §721, Aug. 21, 1974, 88 Stat. 594; Pub. L. 94–194, §10, Dec. 31, 1975, 89 Stat. 1107, set forth provisions relating to contracting requirements for special emphasis projects.
+Section 1961, Pub. L. 93–380, title VII, §721, Aug. 21, 1974, 88 Stat. 594; Pub. L. 94–194, §10, Dec. 31, 1975, 89Stat. 1107, set forth provisions relating to contracting requirements for special emphasis projects.
 
 Section 1962, Pub. L. 93–380, title VII, §722, Aug. 21, 1974, 88 Stat. 595, set forth provisions relating to granting and contracting requirements for reading training on public television.
 

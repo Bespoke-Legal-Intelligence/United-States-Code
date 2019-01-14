@@ -86,7 +86,7 @@
 
 #### (D) Prohibition
 
-&emsp;&emsp;Neither the Secretary nor the political appointees of the Department, may attempt toparticipate in, or influence, the peer-review process.
+&emsp;&emsp;Neither the Secretary nor the political appointees of the Department, may attempt to participate in, or influence, the peer-review process.
 
 #### (5) Public review
 
@@ -302,7 +302,7 @@
 
 #### (i) Alternate assessments aligned with alternate academic achievement standards
 
-&emsp;&emsp;&emsp;A State may provide for alternate assessments aligned with the challengingState academic standards and alternate academic achievement standards described in paragraph (1)(E) for students with the most significant cognitive disabilities, if the State—
+&emsp;&emsp;&emsp;A State may provide for alternate assessments aligned with the challenging State academic standards and alternate academic achievement standards described in paragraph (1)(E) for students with the most significant cognitive disabilities, if the State—
 
 &emsp;&emsp;&emsp;&emsp;(I) consistent with clause (ii), ensures that, for each subject, the total number of students assessed in such subject using the alternate assessments does not exceed 1 percent of the total number of all students in the State who are assessed in such subject;
 
@@ -326,7 +326,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) participating in academic instruction and assessments for the grade level in which the student is enrolled; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) who are tested based on challenging State academic standards for the grade level in which the student is enrolled; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) who are tested based on challenging State academic standards forthe grade level in which the student is enrolled; and
 
 &emsp;&emsp;&emsp;&emsp;(VII) does not preclude a student with the most significant cognitive disabilities who takes an alternate assessment based on alternate academic achievement standards from attempting to complete the requirements for a regular high school diploma.
 
@@ -452,7 +452,7 @@
 
 &emsp;&emsp;&emsp;In developing and administering computer adaptive assessments—
 
-&emsp;&emsp;&emsp;&emsp;(I) as the assessments allowed under subparagraph (D), a State shall ensure that such computer adaptive assessments—
+&emsp;&emsp;&emsp;&emsp;(I) as the assessments allowed under subparagraph (D), a State shall ensurethat such computer adaptive assessments—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) meet the requirements of this paragraph, including subparagraph (D), except such assessments shall not be required to meet the requirements of clause (i)(II); and
 
@@ -492,7 +492,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) include a measure of student growth on the assessments described in subclause (I) in the second year of the student's enrollment in such a school; and
 
-&emsp;&emsp;&emsp;&emsp;(cc) include proficiency on the assessments described in subclause (I) in thethird year of the student's enrollment in such a school, and each succeeding year of such enrollment.
+&emsp;&emsp;&emsp;&emsp;(cc) include proficiency on the assessments described in subclause (I) in the third year of the student's enrollment in such a school, and each succeeding year of such enrollment.
 
 #### (B) English learner subgroup
 
@@ -530,7 +530,7 @@
 
 #### (4) Description of system
 
-&emsp;The statewide accountability system described in paragraph (1) shall be based on the challenging State academic standards for reading or language arts and mathematics described in subsection (b)(1) to improve student academic achievement and school success. In designing such system to meet the requirements of this part, the State shall carry out the following:
+&emsp;The statewide accountability system described in paragraph (1) shall be based on the challenging State academic standards for reading or language arts and mathematics described in subsection (b)(1) to improve studentacademic achievement and school success. In designing such system to meet the requirements of this part, the State shall carry out the following:
 
 #### (A) Establishment of long-term goals
 
@@ -690,7 +690,7 @@
 
 &emsp;&emsp;With respect to any high school in the State identified under subsection (c)(4)(D)(i)(II), the State educational agency may—
 
-&emsp;&emsp;&emsp;(i) permit differentiated improvement activities that utilize evidence-based interventions in the case of such a school that predominantly serves students—
+&emsp;&emsp;&emsp;(i) permit differentiated improvement activities that utilize evidence-basedinterventions in the case of such a school that predominantly serves students—
 
 &emsp;&emsp;&emsp;&emsp;(I) returning to education after having exited secondary school without a regular high school diploma; or
 
@@ -944,7 +944,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;(A) meet the requirements of paragraph (2)(N); or
 
-&emsp;&emsp;(B) in the case of a State educational agency choosing, at its sole discretion, to disaggregate data described in clauses (ii) and (iii)(II) of subsection (h)(1)(C) for Asian and Native Hawaiian or Pacific Islander students using the same race response categories as the decennial census of the population, assist such State educational agency in such disaggregation and in using such data to improve academic outcomes for such students.
+&emsp;&emsp;(B) in the case of a State educational agency choosing, at its sole discretion, to disaggregate data described in clauses (ii) and (iii)(II) of subsection (h)(1)(C) for Asian and Native Hawaiian or Pacific Islander studentsusing the same race response categories as the decennial census of the population, assist such State educational agency in such disaggregation and in using such data to improve academic outcomes for such students.
 
 #### (h) Reports
 
@@ -1036,7 +1036,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;&emsp;&emsp;(II) if data are available and to the extent practicable, in programs of private postsecondary education in the State or programs of postsecondary education outside the State.
 
-&emsp;&emsp;&emsp;(xiv) Any additional information that the State believes will best provide parents, students, and other members of the public with information regarding the progress of each of the State's public elementary schools and secondary schools, which may include the number and percentage of students attaining career and technical proficiencies ( <sup>9</sup> as defined by section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006 (20U.S.C. 2323(b)) and reported by States only in a manner consistent with section 113(c) of such Act (20 U.S.C. 2323(c)).
+&emsp;&emsp;&emsp;(xiv) Any additional information that the State believes will best provide parents, students, and other members of the public with information regarding the progress of each of the State's public elementary schools and secondary schools, which may include the number and percentage of students attaining career and technical proficiencies ( <sup>9</sup> as defined by section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2323(b)) and reported by States only in a manner consistent with section 113(c) of such Act (20 U.S.C. 2323(c)).
 
 #### (D) Rules of construction
 
@@ -1150,7 +1150,11 @@ In determining the assessments to be used by each school operated or funded by t
 
 Nothing in this part shall be construed to prescribe the use of the academic assessments described in this part for student promotion or graduation purposes.
 
-(Pub. L. 89–10, title I, §1111, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1444; amended Pub. L. 107–279, title IV, §404(d)(1), Nov. 5, 2002, 116 Stat. 1985; Pub. L. 108–446, title III, §305(g)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 109–270, §2(f)(1), Aug. 12, 2006, 120 Stat. 747; Pub. L. 114–95, title I, §1005, Dec. 10, 2015, 129 Stat. 1820.)
+(Pub. L. 89–10, title I, §1111, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1444; amended Pub. L. 107–279, title IV, §404(d)(1), Nov. 5, 2002, 116 Stat. 1985; Pub. L. 108–446, title III, §305(g)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 109–270, §2(f)(1), Aug. 12, 2006, 120 Stat. 747; Pub. L. 114–95, title I, §1005, Dec. 10, 2015, 129 Stat. 1820; Pub. L. 115–224, title III, §302(1), July 31, 2018, 132 Stat. 1623.)
+
+#### Amendment of Subsection (h)(1)(C)(xiv)
+
+<i>Pub. L. 115–224, §4, title III, §302(1), July 31, 2018, 132 Stat. 1564, 1623, provided that, effective July 1, 2019, subsection (h)(1)(C)(xiv) of this section is amended by substituting "meeting State determined levels of performance for core indicators, as defined by section 113(b)(3)(A) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2323(b)(3)(A)), and reported by States only in a manner consistent with section 113(b)(3)(C) of such Act (20 U.S.C. 2323(b)(3)(C))" for "attaining career and technical proficiencies (as defined by section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2323(b)) and reported by States only in a manner consistent with section 113(c) of such Act (20 U.S.C. 2323(c))". See 2018 Amendment note below.</i>
 
 #### References in Text
 
@@ -1168,7 +1172,7 @@ The Child Care and Development Block Grant Act of 1990, referred to in subsec. (
 
 The Education Sciences Reform Act of 2002, referred to in subsec. (a)(1)(B), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, which is classified generally to subchapter I (§9501 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
-The Educational Technical Assistance Act of 2002, referred to in subsec. (a)(1)(B), is title II of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1975, which is classified generally to subchapter II (§9601 et seq.) of chapter 76of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Educational Technical Assistance Act of 2002, referred to in subsec. (a)(1)(B), is title II of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1975, which is classified generally to subchapter II (§9601 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
 The National Assessment of Educational Progress Authorization Act, referred to in subsec. (a)(1)(B), is title III of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1982, which is classified generally to subchapter III (§9621 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
@@ -1178,7 +1182,7 @@ The Adult Education and Family Literacy Act, referred to in subsec. (a)(1)(B), i
 
 Public Law 93–112, referred to in subsec. (b)(1)(E)(i)(V), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, known as the Rehabilitation Act of 1973, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. July 22, 2014, refers to the date of enactment of title IV (§401 et seq.) of Pub. L. 113–128, 128 Stat. 1631, which amended numerous sections in the Act. For complete classification of Pub. L. 93–112 to the Code, see Short Title note set out under section 701 of Title 29 and Tables. For complete classification of title IV of Pub. L. 113–128 to the Code, see Tables.
 
-The Social Security Act, referred to in subsec. (g)(1)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (g)(1)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, ThePublic Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -1188,6 +1192,8 @@ A prior section 1111 of Pub. L. 89–10 was classified to section 2768 of this t
 
 #### Amendments
 
+<b>2018</b>—Subsec. (h)(1)(C)(xiv). Pub. L. 115–224 substituted "meeting State determined levels of performance for core indicators, as defined by section 113(b)(3)(A) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2323(b)(3)(A)), and reported by States only in a manner consistent with section 113(b)(3)(C) of such Act (20 U.S.C. 2323(b)(3)(C))" for "attaining career and technical proficiencies (as defined by section 113(b) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2323(b)) and reported by States only in a manner consistent with section 113(c) of such Act (20 U.S.C. 2323(c))".
+
 <b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment, section related to State plan to adopt challenging academic standards to be applied to all schools and children in the State and penalties for failure to meet deadlines enacted in 1994 and 2001.
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–270 substituted "Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Technical Education Act of 1998".
@@ -1195,6 +1201,10 @@ A prior section 1111 of Pub. L. 89–10 was classified to section 2768 of this t
 <b>2004</b>—Subsec. (b)(2)(I)(ii). Pub. L. 108–446 substituted "section 612(a)(16)(A)" for "section 612(a)(17)(A)".
 
 <b>2002</b>—Subsec. (c)(2). Pub. L. 107–279 substituted "section 9622(b)(2) of this title" for "section 9010(b)(2) of this title".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
 #### Effective Date of 2015 Amendment
 

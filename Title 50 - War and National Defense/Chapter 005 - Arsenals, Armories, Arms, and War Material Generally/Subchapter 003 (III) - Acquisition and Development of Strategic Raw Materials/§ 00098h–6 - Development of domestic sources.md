@@ -34,7 +34,7 @@ The authority of the President under subsection (a) includes the authority to pa
 
 The President shall include in the reports required under section 98h–2(a) of this title information with respect to activities conducted under this section.
 
-(June 7, 1939, ch. 190, §15, as added Pub. L. 101–189, div. C, title XXXIII, §3312(a), Nov. 29, 1989, 103 Stat. 1687; amended Pub. L. 113–66, div. A, title XIV, §1411(c), Dec. 26, 2013, 127 Stat. 934;Pub. L. 114–328, div. A, title XIV, §1412(b), Dec. 23, 2016, 130 Stat. 2570.)
+(June 7, 1939, ch. 190, §15, as added Pub. L. 101–189, div. C, title XXXIII, §3312(a), Nov. 29, 1989, 103 Stat. 1687; amended Pub. L. 113–66, div. A, title XIV, §1411(c), Dec. 26, 2013, 127 Stat. 934; Pub. L. 114–328, div. A, title XIV, §1412(b), Dec. 23, 2016, 130 Stat. 2570.)
 
 #### Amendments
 

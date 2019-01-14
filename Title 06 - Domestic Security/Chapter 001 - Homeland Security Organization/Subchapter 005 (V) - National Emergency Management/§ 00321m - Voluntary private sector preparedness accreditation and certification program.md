@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the officer designated under paragraph (2), shall establishand implement the voluntary private sector preparedness accreditation and certification program in accordance with this section.
+&emsp;The Secretary, acting through the officer designated under paragraph (2), shall establish and implement the voluntary private sector preparedness accreditation and certification program in accordance with this section.
 
 #### (2) Designation of officer
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) the responsibilities of the Administrator as the principal advisor to the President for all matters relating to emergency management in the United States.
 
-&emsp;&emsp;(B) The Assistant Secretary for Infrastructure Protection, based on consideration of the expertise of the Assistant Secretary in, and responsibilities for—
+&emsp;&emsp;(B) The Assistant Secretary for Infrastructure Protection,<sup>1</sup> based on consideration of the expertise of the Assistant Secretary in, and responsibilities for—
 
 &emsp;&emsp;&emsp;(i) protection of critical infrastructure;
 
@@ -58,7 +58,7 @@
 
 #### (ii) Guidelines
 
-&emsp;&emsp;&emsp;In developing the program under this subsection, the designated officer shall develop guidelines for the accreditation and certification processes established under this subsection.
+&emsp;&emsp;&emsp;In developing the program under this subsection, the designated officer shall develop guidelines for the accreditation andcertification processes established under this subsection.
 
 #### (B) Standards
 
@@ -74,7 +74,7 @@
 
 #### (D) Small business concerns
 
-&emsp;&emsp;The designated officer and any entity with which the designated officer enters into anagreement under paragraph (3)(A) shall establish separate classifications and methods of certification for small business concerns (under the meaning given that term in section 632 of title 15) for the program under this subsection.
+&emsp;&emsp;The designated officer and any entity with which the designated officer enters into an agreement under paragraph (3)(A) shall establish separate classifications and methods of certification for small business concerns (under the meaning given that term in section 632 of title 15) for the program under this subsection.
 
 #### (E) Considerations
 
@@ -200,7 +200,13 @@ Nothing in this section may be construed as—
 
 (Pub. L. 107–296, title V, §524, as added Pub. L. 110–53, title IX, §901(a), Aug. 3, 2007, 121 Stat. 365.)
 
+#### Change of Name
+
+Reference to Assistant Secretary for Infrastructure Protection deemed to be a reference to Assistant Director for Infrastructure Security, see section 654(a)(3) of this title. Assistant Secretary for Infrastructure Protection serving on the day before Nov. 16, 2018, authorized to continue to serve as Assistant Director for Infrastructure Security on and after such date, see section 2(b)(4) of Pub. L. 115–278, set out as a note under section 654 of this title.
+
 #### Deadline for Designation of Officer
 
 Pub. L. 110–53, title IX, §901(c), Aug. 3, 2007, 121 Stat. 371, provided that: "The Secretary of Homeland Security shall designate the officer as described in section 524 of the Homeland Security Act of 2002 \[6 U.S.C. 321m\], as added by subsection (a), by not later than 30 days after the date of the enactment of this Act \[Aug. 3, 2007\]."
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

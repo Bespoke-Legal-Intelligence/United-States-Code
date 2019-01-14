@@ -10,7 +10,7 @@ The regulations of the Secretary under this chapter respecting the production, w
 
 #### (c) Hours of operations
 
-The Secretary may prescribe regulations relating to hours for distillery operations and to hours for removal of distilled spirits from distilled spirits plants; however, such regulations shall not be more restrictive, as to any operation or function, that the provisions of internal revenue law and regulations relating to such operation or function in effect on the day preceding the effective date of this section.
+The Secretary may prescribe regulations relating to hours for distillery operations and to hours for removal of distilled spirits from distilled spirits plants; however, such regulationsshall not be more restrictive, as to any operation or function, that the provisions of internal revenue law and regulations relating to such operation or function in effect on the day preceding the effective date of this section.
 
 #### (d) Identification of distilled spirits
 

@@ -13,7 +13,7 @@
 - [&sect; 09105a - National Museum and Library Services Board](%C2%A7%2009105a%20-%20National%20Museum%20and%20Library%20Services%20Board.md)
 - [&sect; 09106 - Contributions](%C2%A7%2009106%20-%20Contributions.md)
 - [&sect; 09107 - Awards and medals](%C2%A7%2009107%20-%20Awards%20and%20medals.md)
-- [&sect; 09108 - Policy research, analysis, data collection, and dissemination](%C2%A7%2009108%20-%20Policy%20research%2C%20analysis%2C%20data%20collection%2C%20and%20dissemination.md)
+- [&sect; 09108 - Policy research, data collection, analysis and modeling, evaluation, and dissemination](%C2%A7%2009108%20-%20Policy%20research%2C%20data%20collection%2C%20analysis%20and%20modeling%2C%20evaluation%2C%20and%20dissemination.md)
 - [&sect; 09109 - Prohibition on use of funds for construction](%C2%A7%2009109%20-%20Prohibition%20on%20use%20of%20funds%20for%20construction.md)
 - [&sect; 09110 - Hearings](%C2%A7%2009110%20-%20Hearings.md)
 - [&sect; 09111 - Administrative funds](%C2%A7%2009111%20-%20Administrative%20funds.md)

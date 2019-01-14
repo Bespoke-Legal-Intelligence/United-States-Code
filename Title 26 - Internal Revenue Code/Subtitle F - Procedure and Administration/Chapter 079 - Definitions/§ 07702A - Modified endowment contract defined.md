@@ -50,7 +50,7 @@ For purposes of subsection (a), a contract fails to meet the 7-pay test of this 
 
 &emsp;&emsp;For purposes of subparagraph (A), the term "material change" includes any increase in the death benefit under the contract or any increase in, or addition of, a qualified additional benefit under the contract. Such term shall not include—
 
-&emsp;&emsp;&emsp;(i) any increase which is attributable to the payment of premiums necessary tofund the lowest level of the death benefit and qualified additional benefits payable in the 1st 7 contract years (determined after taking into account death benefit increases described in subparagraph (A) or (B) of section 7702(e)(2)) or to crediting of interest or other earnings (including policyholder dividends) in respect of such premiums, and
+&emsp;&emsp;&emsp;(i) any increase which is attributable to the payment of premiums necessary to fund the lowest level of the death benefit and qualified additional benefits payable in the 1st 7 contract years (determined after taking into account death benefit increases described in subparagraph (A) or (B) of section 7702(e)(2)) or to crediting of interest or other earnings (including policyholder dividends) in respect of such premiums, and
 
 &emsp;&emsp;&emsp;(ii) to the extent provided in regulations, any cost-of-living increase based on an established broad-based index if such increase is funded ratably over the remaining period during which premiums are required to be paid under the contract.
 

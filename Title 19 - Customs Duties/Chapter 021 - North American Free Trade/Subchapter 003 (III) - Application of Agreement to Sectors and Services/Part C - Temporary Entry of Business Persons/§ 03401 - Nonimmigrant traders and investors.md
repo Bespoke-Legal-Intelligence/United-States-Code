@@ -10,7 +10,7 @@ The Immigration and Nationality Act, referred to in text, is act June 27, 1952, 
 
 #### Effective Date
 
-Pub. L. 103–182, title III, §342, Dec. 8, 1993, 107 Stat. 2118, provided that: "The provisions of this subtitle \[subtitle D (§§341, 342) of title III of Pub. L. 103–182, enacting this section and amending section 1184 of Title 8, Aliens and Nationality\] take effect on the date the Agreement enters into force with respect to the United States \[Jan. 1, 1994\]."
+Pub. L. 103–182, title III, §342, Dec. 8, 1993, 107 Stat. 2118, provided that: "The provisions of this subtitle\[subtitle D (§§341, 342) of title III of Pub. L. 103–182, enacting this section and amending section 1184 of Title 8, Aliens and Nationality\] take effect on the date the Agreement enters into force with respect to the United States \[Jan. 1, 1994\]."
 
 #### North American Free Trade Agreement: Entry Into Force
 

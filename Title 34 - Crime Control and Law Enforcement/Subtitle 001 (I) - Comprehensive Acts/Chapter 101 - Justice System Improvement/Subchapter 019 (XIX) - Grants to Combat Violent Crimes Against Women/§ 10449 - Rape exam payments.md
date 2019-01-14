@@ -16,7 +16,7 @@
 
 #### (b) Medical costs
 
-A State, Indian tribal government, or unit of local government shall be deemed to incur the full out-of-pocket cost of forensic medical exams for victims of sexual assault if any government entity—
+A State, Indian tribal government, or unit of local government shall be deemed to incur the full out-of-pocket cost of forensic medical examsfor victims of sexual assault if any government entity—
 
 &emsp;(1) provides such exams to victims free of charge to the victim; or
 

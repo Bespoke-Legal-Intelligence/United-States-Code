@@ -38,7 +38,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 &emsp;&emsp;(B) if the institution is not one described in subparagraph (A), the Secretary may allow such institution to refer such note or agreement to the Secretary, without recompense, except that, once every six months, any sums collected on such a loan (less an amount not to exceed 30 percent of any such sums collected to cover the Secretary's collection costs) shall be repaid to such institution and treated as an additional capital contribution under section 1087bb of this title;
 
-&emsp;(5) provide that, if an institution of higher education determines not to service and collect student loans made available from funds under this part, the institution will assign, at the beginning of the repayment period, notes or evidence of obligations of student loans made from such funds to the Secretary and the Secretary shall apportion any sums collected on such notes or obligations (less an amount not to exceed 30 percent of any such sums collected to cover that Secretary's collectioncosts) among other institutions in accordance with section 1087bb of this title;
+&emsp;(5) provide that, if an institution of higher education determines not to service and collect student loans made available from funds under this part, the institution will assign, at the beginning of the repayment period, notes or evidence of obligations of student loans made from such funds to the Secretary and the Secretary shall apportion any sums collected on such notes or obligations (less an amount not to exceed 30 percent of any such sums collected to cover that Secretary's collection costs) among other institutions in accordance with section 1087bb of this title;
 
 &emsp;(6) provide that, notwithstanding any other provision of law, the Secretary will provide to the institution any information with respect to the names and addresses of borrowers or other relevant information which is available to the Secretary, from whatever source such information may be derived;
 
@@ -46,7 +46,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 &emsp;(8) provide that the institution of higher education will make loans first to students with exceptional need; and
 
-&emsp;(9) include such other reasonable provisions as may be necessary to protect the United States from unreasonable risk of loss and as are agreed to by the Secretary and the institution, except that nothing in this paragraph shall be construed to permit the Secretary to require the assignment of loans to the Secretary other than as is provided for in paragraphs (4) and (5).
+&emsp;(9) include such other reasonable provisions as may be necessary to protect the United States from unreasonable risk of loss and asare agreed to by the Secretary and the institution, except that nothing in this paragraph shall be construed to permit the Secretary to require the assignment of loans to the Secretary other than as is provided for in paragraphs (4) and (5).
 
 #### (b) Administrative expenses
 
@@ -88,7 +88,7 @@ Subsection (a)(5) relating to due diligence, referred to in subsec. (e), was red
 
 #### Prior Provisions
 
-A prior section 1087cc, Pub. L. 89–329, title IV, §463, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 274; amended Pub. L. 94–482, title I, §130(c), Oct.12, 1976, 90 Stat. 2146; Pub. L. 96–374, title IV, §§442(b)(1)–(4), 445(a), (b)(1), 447(a), 448(b), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1439, 1440, 1442, 1443, 1503; Pub. L. 99–272, title XVI, §§16025, 16026, Apr. 7, 1986, 100 Stat. 352, 353, related to agreements with institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087cc, Pub. L. 89–329, title IV, §463, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 274; amended Pub. L. 94–482, title I, §130(c), Oct. 12, 1976, 90 Stat. 2146; Pub. L. 96–374, title IV, §§442(b)(1)–(4), 445(a), (b)(1), 447(a), 448(b), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1439, 1440, 1442, 1443, 1503; Pub. L. 99–272, title XVI, §§16025, 16026, Apr. 7, 1986, 100 Stat. 352, 353, related to agreements with institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

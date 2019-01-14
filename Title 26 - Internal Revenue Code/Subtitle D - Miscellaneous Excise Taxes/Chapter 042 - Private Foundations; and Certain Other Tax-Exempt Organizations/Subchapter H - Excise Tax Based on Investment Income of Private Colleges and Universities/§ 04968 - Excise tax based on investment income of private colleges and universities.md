@@ -12,9 +12,9 @@ For purposes of this subchapter—
 
 &emsp;The term "applicable educational institution" means an eligible educational institution (as defined in section 25A(f)(2))—
 
-&emsp;&emsp;(A) which had at least 500 students during the preceding taxable year,
+&emsp;&emsp;(A) which had at least 500 tuition-paying students during the preceding taxable year,
 
-&emsp;&emsp;(B) more than 50 percent of the students of which are located in the United States,
+&emsp;&emsp;(B) more than 50 percent of the tuition-paying students of which are located in the United States,
 
 &emsp;&emsp;(C) which is not described in the first sentence of section 511(a)(2)(B) (relating to State colleges and universities), and
 
@@ -36,7 +36,7 @@ For purposes of this section, net investment income shall be determined under ru
 
 &emsp;&emsp;(A) no such amount shall be taken into account with respect to more than 1 educational institution, and
 
-&emsp;&emsp;(B) unless such organization is controlled by such institution or is described in section 509(a)(3) with respect to such institution forthe taxable year, assets and net investment income which are not intended or available for the use or benefit of the educational institution shall not be taken into account.
+&emsp;&emsp;(B) unless such organization is controlled by such institution or is described in section 509(a)(3) with respect to such institution for the taxable year, assets and net investment income which are not intended or available for the use or benefit of the educational institution shall not be taken into account.
 
 #### (2) Related organization
 
@@ -48,7 +48,17 @@ For purposes of this section, net investment income shall be determined under ru
 
 &emsp;&emsp;(C) is a supported organization (as defined in section 509(f)(3)), or an organization described in section 509(a)(3), during the taxable year with respect to such institution.
 
-(Added Pub. L. 115–97, title I, §13701(a), Dec. 22, 2017, 131 Stat. 2167.)
+(Added Pub. L. 115–97, title I, §13701(a), Dec. 22, 2017, 131 Stat. 2167; amended Pub. L. 115–123, div. D, title II, §41109(a), Feb. 9, 2018, 132 Stat. 159.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(1)(A). Pub. L. 115–123, §41109(a)(1), inserted "tuition-paying" after "500".
+
+Subsec. (b)(1)(B). Pub. L. 115–123, §41109(a)(2), inserted "tuition-paying" after "50 percent of the".
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–123, div. D, title II, §41109(b), Feb. 9, 2018, 132 Stat. 159, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date
 

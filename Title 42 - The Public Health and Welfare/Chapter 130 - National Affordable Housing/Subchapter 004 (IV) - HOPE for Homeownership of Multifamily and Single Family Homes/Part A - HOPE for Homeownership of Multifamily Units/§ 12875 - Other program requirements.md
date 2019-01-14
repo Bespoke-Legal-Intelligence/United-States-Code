@@ -22,7 +22,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 #### (B) Right to purchase
 
-&emsp;&emsp;Where a resident management corporation, resident council, or cooperative has jurisdiction over the unit, the corporation, council, or cooperative shall have the right to purchase the ownership interest in, or shares representing, the unit from the homeowner for the amount specified in a firm contract between the homeowner and a prospective buyer. If such an entity does not have jurisdiction over the unit or elects not to purchase and if the prospective buyer is not a low-income family, the public housing agency or the implementation grant recipient shall have the right to purchase the ownership interest in, or shares representing, the unit for the same amount.
+&emsp;&emsp;Where a resident management corporation, resident council, or cooperative has jurisdiction over the unit, the corporation, council, or cooperative shall have the right to purchase the ownership interest in, orshares representing, the unit from the homeowner for the amount specified in a firm contract between the homeowner and a prospective buyer. If such an entity does not have jurisdiction over the unit or elects not to purchase and if the prospective buyer is not a low-income family, the public housing agency or the implementation grant recipient shall have the right to purchase the ownership interest in, or shares representing, the unit for the same amount.
 
 #### (C) Promissory note required
 
@@ -50,7 +50,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 #### (e) Third party rights
 
-The requirements under this part regarding quality standards, resale, or transfer of the ownership interest of a homeowner shall be judicially enforceable against the grant recipient with respect to actions involving rehabilitation, and against purchasers of property under this subsection or their successors in interest with respect to other actions by affected low-income families, resident management corporations, resident councils, public housing agencies, and any agency, corporation, or authority of the United States Government. The parties specified in the preceding sentence shall be entitled toreasonable attorney fees upon prevailing in any such judicial action.
+The requirements under this part regarding quality standards, resale, or transfer of the ownership interest of a homeowner shall be judicially enforceable against the grant recipient with respect to actions involving rehabilitation, and against purchasers of property under this subsection or their successors in interest with respect to other actions by affected low-income families, resident management corporations, resident councils, public housing agencies, and any agency, corporation, or authority of the United States Government. The parties specified in the preceding sentence shall be entitled to reasonable attorney fees upon prevailing in any such judicial action.
 
 #### (f) Dollar limitation on economic development activities
 
@@ -68,7 +68,7 @@ Recipients shall transfer ownership of the property to tenants within a specifie
 
 #### (2) Access by Secretary
 
-&emsp;The Secretary shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this part.
+&emsp;The Secretary shall have access for the purpose of audit and examination to any books,documents, papers, and records of the recipient that are pertinent to assistance received under this part.
 
 #### (3) Access by Comptroller General
 

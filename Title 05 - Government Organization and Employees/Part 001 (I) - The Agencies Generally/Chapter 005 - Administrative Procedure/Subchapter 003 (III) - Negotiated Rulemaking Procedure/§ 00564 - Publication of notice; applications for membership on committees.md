@@ -28,7 +28,7 @@ Applications for Membership or <sup>1</sup> Committee.—Persons who will be si
 
 &emsp;(2) evidence that the applicant or nominee is authorized to represent parties related to the interests the person proposes to represent;
 
-&emsp;(3) a written commitment that the applicant or nominee shall actively participate in good faith in the development of the rule under consideration; and
+&emsp;(3) a written commitment that the applicant or nominee shall actively participate in goodfaith in the development of the rule under consideration; and
 
 &emsp;(4) the reasons that the persons specified in the notice under subsection (a)(4) do not adequately represent the interests of the person submitting the application or nomination.
 

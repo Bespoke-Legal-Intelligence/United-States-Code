@@ -40,13 +40,13 @@ A State that receives a grant under section 10406(a) of this title shall use gra
 
 #### (2) Shelter and supportive services
 
-&emsp;Not less than 70 percent of the funds distributed by a State under subsection (a) shall be distributed to entities for the primary purpose of providing immediate shelter and supportiveservices to adult and youth victims of family violence, domestic violence, or dating violence, and their dependents, as described in paragraph (1)(A). Not less than 25 percent of the funds distributed by a State under subsection (a) shall be distributed to entities for the purpose of providing supportive services and prevention services as described in subparagraphs (B) through (H) of paragraph (1).
+&emsp;Not less than 70 percent of the funds distributed by a State under subsection (a) shall be distributed to entities for the primary purpose of providing immediate shelter and supportive services to adult and youth victims of family violence, domestic violence, or dating violence, and their dependents, as described in paragraph (1)(A). Not less than 25 percent of the funds distributed by a State under subsection (a) shall be distributed to entities for the purpose of providing supportive services and prevention services as described in subparagraphs (B) through (H) of paragraph (1).
 
 #### (c) Eligible entities
 
 To be eligible to receive a subgrant from a State under this section, an entity shall be—
 
-&emsp;(1) a local public agency, or a nonprofit private organization (including faith-based and charitable organizations, community-based organizations, tribal organizations, and voluntary associations), that assists victims of family violence, domestic violence, or dating violence, and their dependents, and has a documented history of effective work concerning family violence, domestic violence, or dating violence; or
+&emsp;(1) a local public agency, or a nonprofit private organization (including faith-based andcharitable organizations, community-based organizations, tribal organizations, and voluntary associations), that assists victims of family violence, domestic violence, or dating violence, and their dependents, and has a documented history of effective work concerning family violence, domestic violence, or dating violence; or
 
 &emsp;(2) a partnership of 2 or more agencies or organizations that includes—
 

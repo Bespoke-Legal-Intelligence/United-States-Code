@@ -82,7 +82,7 @@ Federal Works Agency and Commissioner of Public Buildings.—The functions of th
 
 #### Change of Name
 
-Pub. L. 109–313, §2(c), Oct. 6, 2006, 120 Stat. 1735, provided that: "Any reference in any other Federal law, Executive order, rule, regulation, reorganization plan, or delegation of authority, or in any document—
+Pub. L. 109–313, §2(c), Oct. 6, 2006, 120 Stat. 1735, provided that: "Any reference in any other Federal law,Executive order, rule, regulation, reorganization plan, or delegation of authority, or in any document—
 
 &emsp;"(1) to the Federal Supply Service is deemed to refer to the Federal Acquisition Service;
 
@@ -98,5 +98,5 @@ Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to the Administrator of General Services, seeParts 1, 2, and 18 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+For assignment of certain emergency preparedness functions to the Administrator of General Services, see Parts 1, 2, and 18 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 

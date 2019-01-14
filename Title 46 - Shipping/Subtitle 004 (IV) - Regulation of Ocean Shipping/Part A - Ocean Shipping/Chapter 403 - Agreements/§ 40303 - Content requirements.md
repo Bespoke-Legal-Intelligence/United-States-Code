@@ -44,7 +44,7 @@ Conference Agreements.—Each conference agreement must—
 
 &emsp;&emsp;(A) any member of the conference may take independent action on a rate or service item on not more than 5 days' notice to the conference; and
 
-&emsp;&emsp;(B) except for an exempt commodity not published in the conference tariff, the conference will include the new rate or service item in its tariff for use by that member, effective no later than 5 days after receipt of the notice, and by any other member that notifies the conference that it elects to adopt the independent rate or service item on or after its effective date, in lieu of the existing conference tariff provision for that rate or service item.
+&emsp;&emsp;(B) except for an exempt commodity not published in the conference tariff, the conference will include the new rate or service item in its tariff for use by that member, effective no later than 5 days after receipt of the notice, and by any other member that notifies the conference that it elects toadopt the independent rate or service item on or after its effective date, in lieu of the existing conference tariff provision for that rate or service item.
 
 (c)
 
@@ -56,7 +56,7 @@ Vessel Sharing Agreements.—
 
 &emsp;(1)
 
-In general.—An ocean common carrier that is the owner, operator, or bareboat, time, or slot charterer of a liner vessel documented under section 12103 or 12111(c) of this title mayagree with an ocean common carrier described in paragraph (2) to which it charters or subcharters the vessel or space on the vessel that the charterer or subcharterer may not use or make available space on the vessel for the carriage of cargo reserved by law for vessels of the United States.
+In general.—An ocean common carrier that is the owner, operator, or bareboat, time, or slot charterer of a liner vessel documented under section 12103 or 12111(c) of this title may agree with an ocean common carrier described in paragraph (2) to which it charters or subcharters the vessel or space on the vessel that the charterer or subcharterer may not use or make available space on the vessel for the carriage of cargo reserved by law for vessels of the United States.
 
 &emsp;(2)
 

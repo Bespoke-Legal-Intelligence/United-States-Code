@@ -6,7 +6,7 @@ Upon the request of a recipient of an award under any of sections 247d through 2
 
 #### (b) Corresponding reduction in payments
 
-With respect to a request described in subsection (a), the Secretary shall reduce the amount of payments under the award involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
+With respect to a request described in subsection (a), the Secretary shall reduce theamount of payments under the award involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
 (July 1, 1944, ch. 373, title III, §319J, as added Pub. L. 107–188, title I, §110, June 12, 2002, 116 Stat. 611.)
 

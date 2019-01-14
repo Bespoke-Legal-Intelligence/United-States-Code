@@ -278,7 +278,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 &emsp;&emsp;&emsp;(i) any spouse of such individual (determined at the time of such death) shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such death, and
 
-&emsp;&emsp;&emsp;(ii) any individual who was a qualifying family member of the decedent immediately before such death (or, in the case of an individual to whom paragraph (4) applies, the taxpayer to whom the deduction under section 151 is allowable) shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that in determining the amount of such credit only such qualifying family member may be taken into account.
+&emsp;&emsp;&emsp;(ii) any individual who was a qualifying family member of the decedent immediately before such death (or, in the case of an individual to whom paragraph (4) applies, the taxpayer to whom the deduction under section 151 is allowable) shall betreated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that in determining the amount of such credit only such qualifying family member may be taken into account.
 
 #### (11) Election
 
@@ -302,7 +302,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 #### (B) Coordination with advance payments of premium tax credit
 
-&emsp;&emsp;In the case of a taxpayer who makes the election under paragraph (11) with respect toany eligible coverage month in a taxable year or on behalf of whom any advance payment is made under section 7527 with respect to any month in such taxable year—
+&emsp;&emsp;In the case of a taxpayer who makes the election under paragraph (11) with respect to any eligible coverage month in a taxable year or on behalf of whom any advance payment is made under section 7527 with respect to any month in such taxable year—
 
 &emsp;&emsp;&emsp;(i) the tax imposed by this chapter for the taxable year shall be increased by the excess, if any, of—
 
@@ -362,7 +362,7 @@ Subsec. (g)(11) to (13). Pub. L. 114–27, §407(b), added pars. (11) and (12) a
 
 <b>2014</b>—Subsec. (g)(9) to (11). Pub. L. 113–295, §209(j)(3), amended directory language of Pub. L. 111–5, §3001(a)(14)(A). See 2009 Amendment notes below.
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–40, §241(b)(1), substituted "72.5 percent" for "65 percent (80 percent inthe case of eligible coverage months beginning before February 13, 2011)".
+<b>2011</b>—Subsec. (a). Pub. L. 112–40, §241(b)(1), substituted "72.5 percent" for "65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011)".
 
 Subsec. (b)(1)(B). Pub. L. 112–40, §241(a), inserted ", and before January 1, 2014" after "2002".
 
@@ -448,7 +448,13 @@ Pub. L. 111–344, title I, §115(c), Dec. 29, 2010, 124 Stat. 3615, provided th
 
 Pub. L. 111–344, title I, §117(b), Dec. 29, 2010, 124 Stat. 3616, provided that: "The amendment made by this section \[amending this section\] shall apply to coverage months beginning after December 31, 2010."
 
-Amendment by Pub. L. 111–144 effective as if included in the provisions of section 3001 of Pub. L. 111–5 towhich it relates, see section 3(c) of Pub. L. 111–144, set out as a note under section 6432 of this title.
+Pub. L. 111–144, §3(c), Mar. 2, 2010, 124 Stat. 45, provided that: "The amendments made by this section \[amending this section, sections 139C, 6432, and 6720C of this title, and provisions set out as a note under section 6432 of this title\] shall take effect as if included in the provisions of section 3001 of division B of the American Recovery and Reinvestment Act of 2009 \[Pub. L. 111–5, set out below\] to which they relate, except that—
+
+&emsp;"(1) the amendments made by subsection (b)(1) \[amending provisions set out as a note under section 6432 of this title\] shall apply to periods of coverage beginning after the date of the enactment of this Act \[Mar. 2, 2010\];
+
+&emsp;"(2) the amendments made by subsection (b)(2) \[amending provisions set out as a note under section 6432 of this title\] shall take effect as if included in the amendments made by section 1010 of division B of the Department of Defense Appropriations Act, 2010 \[Pub. L. 111–118, amending provisions set out a note under this section\]; and
+
+&emsp;"(3) the amendments made by subsections (b)(3) and (b)(4) \[amending provisions set out as a note under section 6432 of this title\] shall take effect on the date of the enactment of this Act \[Mar. 2, 2010\]."
 
 #### Effective Date of 2009 Amendment
 
@@ -462,7 +468,7 @@ Pub. L. 111–5, div. B, title I, §1899E(c), Feb. 17, 2009, 123 Stat. 428, prov
 
 Pub. L. 111–5, div. B, title I, §1899G(b), Feb. 17, 2009, 123 Stat. 430, provided that: "The amendments made by this section \[amending this section\] shall apply to coverage months beginning after the date of the enactment of this Act \[Feb. 17, 2009\]."
 
-Amendment by section 3001(a)(14)(A) of Pub. L. 111–5 applicable to taxable years ending after Feb. 17, 2009, see section 3001(a)(14)(B) of Pub. L. 111–5, set out as a Premium Assistance for COBRA Benefits note under section 6432 of this title.
+Pub. L. 111–5, div. B, title III, §3001(a)(14)(B), Feb. 17, 2009, 123 Stat. 465, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Feb. 17, 2009\]."
 
 #### Effective Date of 2004 Amendment
 

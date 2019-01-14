@@ -28,7 +28,7 @@ Energy Star.—A lighting fixture or bulb shall be treated as being energy effic
 
 &emsp;(1) the fixture or bulb is certified under the Energy Star program established by section 324A of the Energy Policy and Conservation Act (42 U.S.C. 6294a);
 
-&emsp;(2) in the case of all light-emitting diode (LED) luminaires, lamps, and systems whose efficacy (lumens per watt) and Color Rendering Index (CRI) meet the Department of Energy requirements for minimum luminaire efficacy and CRI for the Energy Star certification, as verified by an independent third-party testing laboratory that the Administrator and the Secretary of Energy determine conducts its tests according to the procedures and recommendations of the Illuminating Engineering Society of North America, even if the luminaires, lamps, and systems have not received such certification; or
+&emsp;(2) in the case of all light-emitting diode (LED) luminaires, lamps, and systems whoseefficacy (lumens per watt) and Color Rendering Index (CRI) meet the Department of Energy requirements for minimum luminaire efficacy and CRI for the Energy Star certification, as verified by an independent third-party testing laboratory that the Administrator and the Secretary of Energy determine conducts its tests according to the procedures and recommendations of the Illuminating Engineering Society of North America, even if the luminaires, lamps, and systems have not received such certification; or
 
 &emsp;(3) the Administrator and the Secretary of Energy have otherwise determined that the fixture or bulb is energy efficient.
 
@@ -52,7 +52,7 @@ Effective Date.—The requirements of subsections (a) and (b) shall take effect 
 
 #### References in Text
 
-The Buy American Act, referred to in subsec. (g), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, whichwas classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+The Buy American Act, referred to in subsec. (g), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 The date of enactment of this subsection, referred to in subsec. (h), is the date of enactment of Pub. L. 110–140, which was approved Dec. 19, 2007.
 

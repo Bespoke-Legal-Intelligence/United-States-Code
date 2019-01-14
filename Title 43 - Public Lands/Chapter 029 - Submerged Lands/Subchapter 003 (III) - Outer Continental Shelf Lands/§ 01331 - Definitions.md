@@ -6,7 +6,7 @@ When used in this subchapter—
 
 (b) The term "Secretary" means the Secretary of the Interior, except that with respect to functions under this subchapter transferred to, or vested in, the Secretary of Energy or the Federal Energy Regulatory Commission by or pursuant to the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), the term "Secretary" means the Secretary of Energy, or the Federal Energy Regulatory Commission, as the case may be;
 
-(c) The term "lease" means any form of authorization which is issued under section 1337 of this title or maintained under section 1335 ofthis title and which authorizes exploration for, and development and production of, minerals;
+(c) The term "lease" means any form of authorization which is issued under section 1337 of this title or maintained under section 1335 of this title and which authorizes exploration for, and development and production of, minerals;
 
 (d) The term "person" includes, in addition to a natural person, an association, a State, a political subdivision of a State, or a private, public, or municipal corporation;
 
@@ -20,7 +20,7 @@ When used in this subchapter—
 
 &emsp;(3) which is receiving, or in accordnace <sup>2</sup> with the proposed activity will receive, oil for processing, refining, or transshipment which was extracted from the outer Continental Shelf and transported directly to such State by means of vessels or by a combination of means including vessels;
 
-&emsp;(4) which is designated by the Secretary as a State in which there is a substantial probability of significant impact on or damage to the coastal, marine, or human environment, or a State in which there will be significant changes in the social, governmental, or economic infrastructure, resulting from the exploration, development, and production of oil and gas anywhere on the outer Continental Shelf; or
+&emsp;(4) which is designated by the Secretary as a State in which there is a substantial probability of significant impact on or damage to the coastal, marine, or human environment, or a State in which there will be significantchanges in the social, governmental, or economic infrastructure, resulting from the exploration, development, and production of oil and gas anywhere on the outer Continental Shelf; or
 
 &emsp;(5) in which the Secretary finds that because of such activity there is, or will be, a significant risk of serious damage, due to factors such as prevailing winds and currents, to the marine or coastal environment in the event of any oilspill, blowout, or release of oil or gas from vessels, pipelines, or other transshipment facilities;
 
@@ -70,7 +70,7 @@ The Clayton Act, referred to in subsec. (n)(2), is act Oct. 15, 1914, ch. 323, 3
 
 The Federal Trade Commission Act, referred to in subsec. (n)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
-The Wilson Tariff Act, referred to in subsec. (n)(4), is act Aug. 27, 1894, ch. 349, §§73 to 77, 28 Stat. 570, as amended. Sections 73 to 76 enacted sections 8 to 11 of Title 15. Section 77 is not classified to the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8 of Title 15 and Tables.
+The Wilson Tariff Act, referred to in subsec. (n)(4), is act Aug. 27, 1894, ch. 349, §§73 to 77, 28 Stat. 570, as amended. Sections 73 to 76 enacted sections 8 to 11 of Title 15. Section 77 is not classified to the Code. For complete classification of this Act to the Code, seeShort Title note set out under section 8 of Title 15 and Tables.
 
 Act of June 19, 1936, referred to in subsec. (n)(5), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Act, the Robinson-Patman Antidiscrimination Act, and the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, Commerce and Trade, and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
 
@@ -438,7 +438,7 @@ Pro rata reductions.—If paragraph (1) limits the amount of qualified outer Con
 
 \[The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.\]
 
-Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 995, provided in part: "That for fiscal year 2012 and each fiscal year thereafter, the term 'qualified Outer Continental Shelf revenues', as defined in section 102(9)(A) of the Gulf of Mexico Energy Security Act \[of 2006\], \[title I of\] division C of Public Law 109–432 \[set out above\], shall include only the portion of rental revenues that would have been collected by the Secretary at the rental rates in effect before August 5, 1993."
+Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 995, provided in part: "That for fiscal year 2012 and eachfiscal year thereafter, the term 'qualified Outer Continental Shelf revenues', as defined in section 102(9)(A) of the Gulf of Mexico Energy Security Act \[of 2006\], \[title I of\] division C of Public Law 109–432 \[set out above\], shall include only the portion of rental revenues that would have been collected by the Secretary at the rental rates in effect before August 5, 1993."
 
 Similar provisions were contained in the following appropriation act:
 
@@ -512,7 +512,7 @@ Ex. Ord. No. 13795, Apr. 28, 2017, 82 F.R. 20815, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Outer Continental Shelf Lands Act, 43 U.S.C. 1331 <i>et seq</i>., and in order to maintain global leadership in energy innovation, exploration, and production, it is hereby ordered as follows:
 
-Section 1. <i>Findings</i>. America must put the energy needs of American families and businesses first and continue implementing a plan that ensures energy security and economic vitality for decades to come. The energy and minerals produced from lands and waters under Federal management are important to a vibrant economy and to our national security. Increased domestic energy production on Federal lands and waters strengthens the Nation's security and reduces reliance on imported energy. Moreover, low energy prices, driven by an increased American energy supply, will benefit American families and help reinvigorate American manufacturing and job growth. Finally, because the Department of Defense is one of the largest consumers of energy in the United States, domestic energy production also improves our Nation's military readiness.
+Section 1. <i>Findings</i>. America must put the energy needs of American families and businesses first and continue implementing a plan that ensures energy security and economic vitality for decades to come. The energy and minerals produced from lands and waters under Federal management are important to a vibrant economy and to our national security. Increased domestic energy production on Federal lands and watersstrengthens the Nation's security and reduces reliance on imported energy. Moreover, low energy prices, driven by an increased American energy supply, will benefit American families and help reinvigorate American manufacturing and job growth. Finally, because the Department of Defense is one of the largest consumers of energy in the United States, domestic energy production also improves our Nation's military readiness.
 
 Sec. 2. <i>Policy</i>. It shall be the policy of the United States to encourage energy exploration and production, including on the Outer Continental Shelf, in order to maintain the Nation's position as a global energy leader and foster energy security and resilience for the benefit of the American people, while ensuring that any such activity is safe and environmentally responsible.
 

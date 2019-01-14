@@ -126,7 +126,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 &emsp;&emsp;For each 2-fiscal-year period, the Administrator shall prepare and submit to the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives a report that includes—
 
-&emsp;&emsp;&emsp;(i) an accounting of the fees paid to the Administrator under subsection (c) and disbursed from the Fund for the period covered by the report, as reflected by financial statements provided in accordance with—
+&emsp;&emsp;&emsp;(i) an accounting of the fees paid to the Administrator under subsection (c) and disbursed from the Fund for the periodcovered by the report, as reflected by financial statements provided in accordance with—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Chief Financial Officers Act of 1990 (Public Law 101–576; 104 Stat. 2838) and amendments made by that Act; and
 

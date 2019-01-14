@@ -24,7 +24,7 @@ The Director is authorized to select, appoint, and employ such officers and empl
 
 The Secretary may obtain the services of experts and consultants in accordance with section 3109 of title 5.
 
-(Pub. L. 96–88, title II, §218, formerly §216, as added Pub. L. 103–227, title II, §233(a), Mar. 31,1994, 108 Stat. 154; renumbered §218, Pub. L. 107–110, title X, §1072(e)(3), Jan. 8, 2002, 115 Stat. 2090.)
+(Pub. L. 96–88, title II, §218, formerly §216, as added Pub. L. 103–227, title II, §233(a), Mar. 31, 1994, 108 Stat. 154; renumbered §218, Pub. L. 107–110, title X, §1072(e)(3), Jan. 8, 2002, 115 Stat. 2090.)
 
 #### References in Text
 

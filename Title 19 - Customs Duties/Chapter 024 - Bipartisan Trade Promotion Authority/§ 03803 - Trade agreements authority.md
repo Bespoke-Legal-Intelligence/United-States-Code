@@ -62,7 +62,7 @@
 
 #### (6) Other tariff modifications
 
-&emsp;Notwithstanding paragraphs (1)(B), (2)(A), (2)(C), and (3) through (5), and subject to the consultation and layover requirements of section 115 of the Uruguay Round Agreements Act \[19 U.S.C. 3524\], the President may proclaim the modification of any duty or staged rate reduction of any duty set forth in Schedule XX, as defined in section 2(5) of that Act \[19 U.S.C. 3501(5)\], if the United States agreesto such modification or staged rate reduction in a negotiation for the reciprocal elimination or harmonization of duties under the auspices of the World Trade Organization.
+&emsp;Notwithstanding paragraphs (1)(B), (2)(A), (2)(C), and (3) through (5), and subject to the consultation and layover requirements of section 115 of the Uruguay Round Agreements Act \[19 U.S.C. 3524\], the President may proclaim the modification of any duty or staged rate reduction of any duty set forth in Schedule XX, as defined in section 2(5) of that Act \[19 U.S.C. 3501(5)\], if the United States agrees to such modification or staged rate reduction in a negotiation for the reciprocal elimination or harmonization of duties under the auspices of the World Trade Organization.
 
 #### (7) Authority under Uruguay Round Agreements Act not affected
 

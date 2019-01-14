@@ -78,7 +78,7 @@ The Attorney General will benefit in his role as the President's adviser by obta
 
 The Community Relations Service, brought into closer relationship with the Attorney General and the Civil Rights Division of the Department of Justice, will gain by becoming a primary resource in a coordinated effort in civil rights under the leadership of the Attorney General. The Community Relations Service will have direct access to the extensive information, experience, staff, and facilities within the Department and in other Federal agencies.
 
-Finally, the responsibility for coordinating major Government activities under the Civil Rights Act aimed at voluntary and peaceful resolution of discriminatory practices will be centered in one department. Thus, the reorganization will permit the most efficient and effective utilization of resources in this field. Together the Service and the Department will have a larger capacity for accomplishment than they do apart.
+Finally, the responsibility for coordinating major Government activities under the Civil Rights Act aimed at voluntary and peaceful resolution of discriminatory practices will be centered in one department.Thus, the reorganization will permit the most efficient and effective utilization of resources in this field. Together the Service and the Department will have a larger capacity for accomplishment than they do apart.
 
 Although the reorganizations provided for in the reorganization plan will not of themselves result in immediate savings, the improvement achieved in administration will permit a fuller and more effective utilization of manpower and will in the future allow the performance of the affected functions at lower costs than would otherwise be possible.
 

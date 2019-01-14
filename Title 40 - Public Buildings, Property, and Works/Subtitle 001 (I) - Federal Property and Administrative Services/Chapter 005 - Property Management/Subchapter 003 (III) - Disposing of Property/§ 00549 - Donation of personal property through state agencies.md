@@ -114,7 +114,7 @@ Property usable for special interest activities.—If the Secretary of Defense d
 
 &emsp;(3)
 
-Property not usable for special interest activities.—If the Secretary of Defense determines that the property is not usable and necessary for educational activities which are of special interest to the armed services, the property may be disposed of in accordance with subsection (c).
+Property not usable for special interest activities.—If the Secretary of Defense determines that the property is not usable and necessary for educational activities which are of special interest to the armed services, theproperty may be disposed of in accordance with subsection (c).
 
 (e)
 
@@ -336,7 +336,7 @@ Section 1. <i>Protection of Educationally Useful Federal Equipment</i>. (a) Educ
 
 Sec. 2. <i>Efficient Transfer of Educationally Useful Federal Equipment to Schools and Nonprofit Organizations</i>. (a) To the extent permitted by law, all agencies shall give highest preference to schools and nonprofit organizations, including community-based educational organizations, ("schools and nonprofit organizations") in the transfer, through gift or donation, of educationally useful Federal equipment.
 
-(b) Agencies shall attempt to give particular preference to schools and nonprofit organizations located in the Federal enterprise communities and empowerment zones established in the Omnibus ReconciliationAct of 1993, Public Law 103–66 \[see 26 U.S.C. 1391 et seq.\].
+(b) Agencies shall attempt to give particular preference to schools and nonprofit organizations located in the Federal enterprise communities and empowerment zones established in the Omnibus Reconciliation Act of 1993, Public Law 103–66 \[see 26 U.S.C. 1391 et seq.\].
 
 (c) Each agency shall, to the extent permitted by law and where appropriate, identify educationally useful Federal equipment that it no longer needs and transfer it to a school or nonprofit organization by:
 

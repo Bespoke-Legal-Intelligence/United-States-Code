@@ -26,5 +26,5 @@ The Director shall not be deemed to have waived any privilege applicable to any 
 
 #### References in Text
 
-The Securities Exchange Act of 1934, referred to in subsecs. (a) and (c), is act June 6, 1934, ch. 404, 48 Stat.881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsecs. (a) and (c), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 

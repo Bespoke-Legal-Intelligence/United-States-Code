@@ -38,7 +38,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### \[(e) Repealed. Pub. L. 104–188, title I, §1615(a)(2)(A), Aug. 20, 1996, 110 Stat. 1853\]
 
-#### (f) Access to employer identification numbers by Secretary of Agriculture for purposes of Food and Nutrition Act of 2008 of 1977 <sup>1</sup>
+#### (f) Access to employer identification numbers by Secretary of Agriculture for purposes of Food and Nutrition Act of 2008
 
 #### (1) In general
 
@@ -52,7 +52,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (B) Safeguards
 
-&emsp;&emsp;The Secretary of Agriculture, and the head of any other agency or instrumentality referred to in subparagraph (A), shall restrict, to the satisfaction of the Secretary of the Treasury, access to employer identification numbers obtained pursuant to this subsection only to officers and employees of the United States whose duties or responsibilities require access for the purposes described in subparagraph (A). The Secretary of Agriculture, and the head of any agency or instrumentality with which information is shared pursuant to subparagraph (A), shall provide such other safeguards as the Secretary of the Treasury determines to be necessary or appropriate to protect the confidentiality of the employer identification numbers.
+&emsp;&emsp;The Secretary of Agriculture, and the head of any other agency or instrumentality referred to in subparagraph (A), shall restrict, to the satisfaction of the Secretary of the Treasury, access to employer identification numbers obtained pursuant to this subsection only to officers and employees of the United States whose duties or responsibilities require access for the purposes described in subparagraph (A). The Secretaryof Agriculture, and the head of any agency or instrumentality with which information is shared pursuant to subparagraph (A), shall provide such other safeguards as the Secretary of the Treasury determines to be necessary or appropriate to protect the confidentiality of the employer identification numbers.
 
 #### (3) Confidentiality and nondisclosure rules
 
@@ -60,7 +60,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (4) Sanctions
 
-&emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorizedwillful disclosure to any person of employer identification numbers maintained pursuant to this subsection by the Secretary of Agriculture or any agency or instrumentality with which information is shared pursuant to paragraph (2) in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as such paragraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
+&emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorized willful disclosure to any person of employer identification numbers maintained pursuant to this subsection by the Secretary of Agriculture or any agency or instrumentality with which information is shared pursuant to paragraph (2) in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as such paragraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
 
 #### (g) Access to employer identification numbers by Federal Crop Insurance Corporation for purposes of the Federal Crop Insurance Act
 
@@ -88,7 +88,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (3) Furnishing of information between payor and recipient
 
-&emsp;If any person is required to include the TIN of another person on a return under paragraph (1) or (2), such other person shall furnish his TIN to such person.
+&emsp;If any person is required to include the TIN of another person on a return under paragraph\(1) or (2), such other person shall furnish his TIN to such person.
 
 #### (4) Seller-provided financing
 
@@ -102,11 +102,11 @@ The social security account number issued to an individual for purposes of secti
 
 &emsp;&emsp;(A) in the case of an applicant not described in subparagraph (B)—
 
-&emsp;&emsp;&emsp;(i) in person to an employee of the Internal Revenue Service or a community-based certified acceptance agent approved by the Secretary, or
+&emsp;&emsp;&emsp;(i) in person to an employee of the Internal Revenue Service or a community-based certifying acceptance agent approved by the Secretary, or
 
 &emsp;&emsp;&emsp;(ii) by mail, pursuant to rules prescribed by the Secretary, or
 
-&emsp;&emsp;(B) in the case of an applicant who resides outside of the United States, by mail or in person to an employee of the Internal Revenue Service or a designee of the Secretary at a United States diplomatic mission or consular post.
+&emsp;&emsp;(B) in the case of an applicant who resides outside of the United States, by mail or in person to an employee of the Internal Revenue Service, a community-based certifying acceptance agent approved by the Secretary, or a designee of the Secretary at a United States diplomatic mission or consular post.
 
 #### (2) Required documentation
 
@@ -124,7 +124,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (A) In general
 
-&emsp;&emsp;An individual taxpayer identification number issued after December 31, 2012, shall remain in effect unless the individual to whom such number is issued does not file a return of tax (or is not included as a dependent on the return of tax of another taxpayer) for 3 consecutive taxable years. In the case of an individual described in the preceding sentence, such number shall expire on the last day of such third consecutive taxable year.
+&emsp;&emsp;An individual taxpayer identification number issued after December 31, 2012, shall remain in effect unless the individual to whom such number is issued does not file a return of tax (or is not included as a dependent on the return of tax of another taxpayer) for 3 consecutive taxable years ending after the issuance of such number. In the case of an individual described in the preceding sentence, such number shall expire on the day after the due date for the return of tax for such third consecutive taxable year.
 
 #### (B) Special rule for existing ITINs
 
@@ -132,11 +132,7 @@ The social security account number issued to an individual for purposes of secti
 
 &emsp;&emsp;&emsp;(i) the applicable date, or
 
-&emsp;&emsp;&emsp;(ii) if the individual does not file a return of tax (or is not included as a dependent on the return of tax of another taxpayer) for 3 consecutive taxable years, the earlier of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the last day of such third consecutive taxable year, or
-
-&emsp;&emsp;&emsp;&emsp;(II) the last day of the taxable year that includes the date of the enactment of this subsection.
+&emsp;&emsp;&emsp;(ii) if the individual does not file a return of tax (or is not included as a dependent on the return of tax of another taxpayer) for 3 consecutive taxable years at least one of which ends after December 18, 2015, the due date for the return of tax for such third consecutive taxable year.
 
 #### (C) Applicable date
 
@@ -154,7 +150,7 @@ The social security account number issued to an individual for purposes of secti
 
 &emsp;The Secretary shall implement a system that ensures that individual taxpayer identification numbers issued solely for purposes of claiming tax treaty benefits are used only for such purposes, by distinguishing such numbers from other individual taxpayer identification numbers issued.
 
-(Added Pub. L. 87–397, §1(a), Oct. 5, 1961, 75 Stat. 828; amended Pub. L. 94–455, title XII, §§1203(d), 1211(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1691, 1712, 1834; Pub. L. 99–514, title XV, §1524(a), Oct. 22, 1986, 100 Stat. 2749; Pub. L. 100–485, title VII, §§703(c)(3), 704(a), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 101–508, title XI, §11112(a), Nov. 5, 1990, 104 Stat. 1388–413; Pub. L. 101–624, title XVII, §1735(c), title XXII, §2201(d), Nov. 28, 1990, 104 Stat. 3792, 3953; Pub. L. 102–486, title XIX, §1933(a), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–296, title III, §316(b), Aug. 15, 1994, 108 Stat. 1532; Pub. L. 103–465, title VII, §742(b), Dec. 8, 1994, 108 Stat. 5010; Pub. L. 104–188, title I, §§1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, 110 Stat. 1853, 1889; Pub. L. 105–206, title III, §3710(a), July 22, 1998, 112 Stat. 779; Pub. L. 110–28, title VIII, §8246(a)(2)(D), May 25, 2007, 121 Stat. 201; Pub. L. 110–234, title IV, §4002(b)(1)(B), (G), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (G), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 114–113, div. Q, title II, §203(a), Dec. 18, 2015, 129 Stat. 3078.)
+(Added Pub. L. 87–397, §1(a), Oct. 5, 1961, 75 Stat. 828; amended Pub. L. 94–455, title XII, §§1203(d), 1211(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1691, 1712, 1834; Pub. L. 99–514, title XV, §1524(a), Oct. 22, 1986, 100 Stat. 2749; Pub. L. 100–485, title VII, §§703(c)(3), 704(a), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 101–508, title XI, §11112(a), Nov. 5, 1990, 104 Stat. 1388–413; Pub. L. 101–624, title XVII, §1735(c), title XXII, §2201(d), Nov. 28, 1990, 104 Stat. 3792, 3953; Pub. L. 102–486, title XIX, §1933(a), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–296, title III, §316(b), Aug. 15, 1994, 108 Stat. 1532; Pub. L. 103–465, title VII, §742(b), Dec. 8, 1994, 108 Stat. 5010; Pub. L. 104–188, title I, §§1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, 110 Stat. 1853, 1889; Pub. L. 105–206, title III, §3710(a), July 22, 1998, 112 Stat. 779; Pub. L. 110–28, title VIII, §8246(a)(2)(D), May 25, 2007, 121 Stat. 201; Pub. L. 110–234, title IV, §4002(b)(1)(B), (G), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (G), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 114–113, div. Q, title II, §203(a), Dec. 18, 2015, 129 Stat. 3078; Pub. L. 115–141, div. U, title I, §101(g)(1)–(3), title IV, §401(a)(276), Mar. 23, 2018, 132 Stat. 1161, 1197.)
 
 #### References in Text
 
@@ -163,8 +159,6 @@ Section 205 of the Social Security Act, referred to in subsec. (d), is classifie
 The Food and Nutrition Act of 2008, referred to in subsec. (f), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Federal Crop Insurance Act, referred to in subsec. (g), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. Section 506 of the Act is classified to section 1506 of Title 7. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
-
-The date of the enactment of this subsection, referred to in subsec. (i)(3)(B)(ii)(II), is the date of enactment of Pub. L. 114–113, which was approved Dec. 18, 2015.
 
 #### Codification
 
@@ -175,6 +169,20 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 6109 was renumbered section 6116 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f). Pub. L. 115–141, §401(a)(276), struck out "of 1977" after "of 2008" in heading.
+
+Subsec. (i)(1)(A)(i). Pub. L. 115–141, §101(g)(1), substituted "community-based certifying acceptance agent" for "community-based certified acceptance agent".
+
+Subsec. (i)(1)(B). Pub. L. 115–141, §101(g)(2), substituted "Internal Revenue Service, a community-based certifying acceptance agent approved by the Secretary," for "Internal Revenue Service".
+
+Subsec. (i)(3)(A). Pub. L. 115–141, §101(g)(3)(A), inserted "ending after the issuance of such number" after "3 consecutive taxable years" and substituted "on the day after the due date for the return of tax for such third consecutive taxable year" for "on the last day of such third consecutive taxable year".
+
+Subsec. (i)(3)(B)(ii). Pub. L. 115–141, §101(g)(3)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: "if the individual does not file a return of tax (or is not included as a dependent on the return of tax of another taxpayer) for 3 consecutive taxable years, the earlier of—
+
+&emsp;"(I) the last day of such third consecutive taxable year, or
+
+&emsp;"(II) the last day of the taxable year that includes the date of the enactment of this subsection."
 
 <b>2015</b>—Subsec. (i). Pub. L. 114–113 added subsec. (i).
 
@@ -228,9 +236,13 @@ Subsec. (e)(2). Pub. L. 100–485, §704(a), substituted "age of 2" for "age of 
 
 Subsec. (d). Pub. L. 94–455, §1211(c), added subsec. (d).
 
+#### Effective Date of 2018 Amendment
+
+Amendment by section 101(g)(1)–(3) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
+
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–113, div. Q, title II, §203(f), Dec. 18, 2015, 129 Stat. 3081, provided that: "The amendments made by this section \[amending this section and section 6213 of this title\] shall apply to applications for individual taxpayer identification numbers made after the date of the enactment of this Act \[Dec. 18, 2015\]."
+Pub. L. 114–113, div. Q, title II, §203(f), Dec. 18, 2015, 129 Stat. 3081, as amended by Pub. L. 115–141, div. U, title I, §101(g)(5), Mar. 23, 2018, 132 Stat. 1162, provided that: "Except to the extent provided in section 6109(i)(3) of the Internal Revenue Code of 1986, the amendments made by this section \[amending this section and section 6213 of this title\] shall apply to applications for individual taxpayer identification numbers made after the date of the enactment of this Act \[Dec. 18, 2015\]."
 
 #### Effective Date of 2008 Amendment
 
@@ -268,7 +280,7 @@ Pub. L. 101–508, title XI, §11112(b), Nov. 5, 1990, 104 Stat. 1388–413, pro
 
 Amendment by section 703(c)(3) of Pub. L. 100–485 applicable to taxable years beginning after Dec. 31, 1988, see section 703(d) of Pub. L. 100–485, set out as a note under section 21 of this title.
 
-Pub. L. 100–485, title VII, §704(b), Oct. 13, 1988, 102 Stat. 2428, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989."
+Pub. L. 100–485, title VII, §704(b), Oct. 13, 1988, 102 Stat. 2428, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989."
 
 #### Effective Date of 1986 Amendment
 
@@ -282,9 +294,9 @@ Pub. L. 87–397, §1(d), Oct. 5, 1961, 75 Stat. 829, as amended by Pub. L. 99�
 
 Pub. L. 114–113, div. Q, title II, §203(b), Dec. 18, 2015, 129 Stat. 3079, provided that: "Not later than 2 years after the date of the enactment of this Act \[Dec. 18, 2015\], and every 2 years thereafter, the Treasury Inspector General for Tax Administration shall conduct an audit of the program of the Internal Revenue Service for the issuance of individual taxpayer identification numbers pursuant to section 6109(i) of the Internal Revenue Code of 1986 (as added by this section) and report the results of such audit to the Committee on Finance of the Senate and the Committee on the \[sic\] Ways and Means of the House of Representatives."
 
-#### Community-Based Certified Acceptance Agents
+#### Community-Based Certifying Acceptance Agents
 
-Pub. L. 114–113, div. Q, title II, §203(c), Dec. 18, 2015, 129 Stat. 3079, provided that: "The Secretary of the Treasury, or the Secretary's delegate, shall maintain a program for training and approving community-based certified acceptance agents for purposes of section 6109(i)(1)(A)(i) of the Internal Revenue Code of 1986 (as added by this section). Persons eligible to be acceptance agents under such program include—
+Pub. L. 114–113, div. Q, title II, §203(c), Dec. 18, 2015, 129 Stat. 3079, as amended by Pub. L. 115–141, div. U, title I, §101(g)(4), Mar. 23, 2018, 132 Stat. 1162, provided that: "The Secretary of the Treasury, or the Secretary's delegate, shall maintain a program for training and approving community-based certifying acceptance agents for purposes of section 6109(i)(1) of the Internal Revenue Code of 1986 (as added by this section). Persons eligible to be acceptance agents under such program include—
 
 &emsp;"(1) financial institutions (as defined in section 265(b)(5) of such Code and the regulations thereunder),
 
@@ -333,6 +345,4 @@ Report.—The Secretary, or the Secretary's delegate, shall submit to the Commit
 "(4)
 
 Administrative steps.—The Secretary of the Treasury shall implement any administrative steps identified by the report under paragraph (3) not later than 180 days after submitting such report."
-
-<i><sup>1</sup></i><i> So in original. See 2008 Amendment note below.</i>
 

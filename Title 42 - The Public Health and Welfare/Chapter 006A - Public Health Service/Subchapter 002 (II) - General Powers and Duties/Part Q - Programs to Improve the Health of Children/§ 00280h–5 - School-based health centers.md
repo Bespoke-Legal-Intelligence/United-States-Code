@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Comprehensive primary health services
 
-&emsp;The term "comprehensive primary health services" means the core services offered byschool-based health centers, which shall include the following:
+&emsp;The term "comprehensive primary health services" means the core services offered by school-based health centers, which shall include the following:
 
 #### (A) Physical
 
@@ -124,7 +124,7 @@ The Secretary may—
 
 #### (B) No overlapping grant period
 
-&emsp;&emsp;No entity that has received funding under section 254b of this title for a grant period shall be eligible for a grant under this section for with respect to <sup>1</sup> the same grant period.
+&emsp;&emsp;No entity that has received funding under section 254b of this title for a grant periodshall be eligible for a grant under this section for with respect to <sup>1</sup> the same grant period.
 
 #### (g) Matching requirement
 

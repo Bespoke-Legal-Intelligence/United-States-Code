@@ -34,7 +34,7 @@
 
 (C) Records from exempted operational files which have been disseminated to and referenced in files that are not exempted under paragraph (1) and which have been returned to exempted operational files for sole retention shall be subject to search and review.
 
-(5) The provisions of paragraph (1) may not be superseded except by a provision of law which is enacted after December 3, 1999, and which specifically cites and repeals or modifies its provisions.
+(5) The provisions of paragraph (1) may not be superseded except by a provision of law which isenacted after December 3, 1999, and which specifically cites and repeals or modifies its provisions.
 
 (6)(A) Except as provided in subparagraph (B), whenever any person who has requested agency records under section 552 of title 5 alleges that NGA has withheld records improperly because of failure to comply with any provision of this section, judicial review shall be available under the terms set forth in section 552(a)(4)(B) of title 5.
 
@@ -52,7 +52,7 @@
 
 &emsp;(v) In proceedings under clauses (iii) and (iv), the parties may not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admissions may be made pursuant to rules 26 and 36.
 
-&emsp;(vi) If the court finds under this paragraph that NGA has improperly withheld requested records because of failure to comply with anyprovision of this subsection, the court shall order NGA to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5, and such order shall be the exclusive remedy for failure to comply with this subsection.
+&emsp;(vi) If the court finds under this paragraph that NGA has improperly withheld requested records because of failure to comply with any provision of this subsection, the court shall order NGA to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5, and such order shall be the exclusive remedy for failure to comply with this subsection.
 
 &emsp;(vii) If at any time following the filing of a complaint pursuant to this paragraph NGA agrees to search the appropriate exempted operational file or files for the requested records, the court shall dismiss the claim based upon such complaint.
 

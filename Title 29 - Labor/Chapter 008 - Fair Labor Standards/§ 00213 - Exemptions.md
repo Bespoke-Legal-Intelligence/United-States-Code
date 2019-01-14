@@ -8,7 +8,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(2) Repealed. Pub. L. 101–157, §3(c)(1), Nov. 17, 1989, 103 Stat. 939.
 
-&emsp;(3) any employee employed by an establishment which is an amusement or recreational establishment, organized camp, or religious or non-profit educational conference center, if (A) it does not operate for more than seven months in any calendar year, or (B) during the preceding calendar year, its average receipts for any six months of such year were not more than 331/3 per centum of its average receipts for the other six months of such year, except that the exemption from sections 206 and 207 of this title provided by this paragraph does not apply with respect to any employee of a private entity engaged in providing services or facilities (other than, in the case of the exemption from section 206 of this title, a private entity engaged in providing services and facilities directly related to skiing) in a national park or a national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture; or
+&emsp;(3) any employee employed by an establishment which is an amusement or recreationalestablishment, organized camp, or religious or non-profit educational conference center, if (A) it does not operate for more than seven months in any calendar year, or (B) during the preceding calendar year, its average receipts for any six months of such year were not more than 331/3 per centum of its average receipts for the other six months of such year, except that the exemption from sections 206 and 207 of this title provided by this paragraph does not apply with respect to any employee of a private entity engaged in providing services or facilities (other than, in the case of the exemption from section 206 of this title, a private entity engaged in providing services and facilities directly related to skiing) in a national park or a national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture; or
 
 &emsp;(4) Repealed. Pub. L. 101–157, §3(c)(1), Nov. 17, 1989, 103 Stat. 939.
 
@@ -18,7 +18,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(7) any employee to the extent that such employee is exempted by regulations, order, or certificate of the Secretary issued under section 214 of this title; or
 
-&emsp;(8) any employee employed in connection with the publication of any weekly, semiweekly, or daily newspaper with a circulationof less than four thousand the major part of which circulation is within the county where published or counties contiguous thereto; or
+&emsp;(8) any employee employed in connection with the publication of any weekly, semiweekly, or daily newspaper with a circulation of less than four thousand the major part of which circulation is within the county where published or counties contiguous thereto; or
 
 &emsp;(9) Repealed. Pub. L. 93–259, §23(a)(1), Apr. 8, 1974, 88 Stat. 69.
 
@@ -46,13 +46,15 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 > &emsp;who, in the case of an employee who is compensated on an hourly basis, is compensated at a rate of not less than $27.63 an hour; or
 
-&emsp;(18) any employee who is a border patrol agent, as defined in section 5550(a) of title 5.
+&emsp;(18) any employee who is a border patrol agent, as defined in section 5550(a) of title 5; or
+
+&emsp;(19) any employee employed to play baseball who is compensated pursuant to a contract that provides for a weekly salary for services performed during the league's championship season (but not spring training or the off season) at a rate that is not less than a weekly salary equal to the minimum wage under section 206(a) of this title for a workweek of 40 hours, irrespective of the number of hours the employee devotes to baseball related activities.
 
 #### (b) Maximum hour requirements
 
 The provisions of section 207 of this title shall not apply with respect to—
 
-&emsp;(1) any employee with respect to whom the Secretary of Transportation has power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49; or
+&emsp;(1) any employee with respect to whom the Secretary of Transportation has power to establish qualifications and maximum hours ofservice pursuant to the provisions of section 31502 of title 49; or
 
 &emsp;(2) any employee of an employer engaged in the operation of a rail carrier subject to part A of subtitle IV of title 49; or
 
@@ -80,7 +82,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(13) any employee with respect to his employment in agriculture by a farmer, notwithstanding other employment of such employee in connection with livestock auction operations in which such farmer is engaged as an adjunct to the raising of livestock, either on his own account or in conjunction with other farmers, if such employee (A) is primarily employed during his workweek in agriculture by such farmer, and (B) is paid for his employment in connection with such livestock auction operations at a wage rate not less than that prescribed by section 206(a)(1) of this title; or
 
-&emsp;(14) any employee employed within the area of production (as defined by the Secretary) by an establishment commonly recognized as a country elevator, including such an establishment which sells products and services used inthe operation of a farm, if no more than five employees are employed in the establishment in such operations; or
+&emsp;(14) any employee employed within the area of production (as defined by the Secretary) by an establishment commonly recognized as a country elevator, including such an establishment which sells products and services used in the operation of a farm, if no more than five employees are employed in the establishment in such operations; or
 
 &emsp;(15) any employee engaged in the processing of maple sap into sugar (other than refined sugar) or syrup; or
 
@@ -110,7 +112,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(27) any employee employed by an establishment which is a motion picture theater; or
 
-&emsp;(28) any employee employed in planting or tending trees, cruising, surveying, or felling timber, or in preparing or transporting logs or other forestry products to the mill, processing plant, railroad, or other transportation terminal, if the number of employees employed by his employer in such forestry or lumbering operations does not exceed eight;
+&emsp;(28) any employee employed in planting or tending trees, cruising, surveying, or felling timber, or in preparing or transporting logs or other forestry products to the mill, processingplant, railroad, or other transportation terminal, if the number of employees employed by his employer in such forestry or lumbering operations does not exceed eight;
 
 &emsp;(29) any employee of an amusement or recreational establishment located in a national park or national forest or on land in the National Wildlife Refuge System if such employee (A) is an employee of a private entity engaged in providing services or facilities in a national park or national forest, or on land in the National Wildlife Refuge System, under a contract with the Secretary of the Interior or the Secretary of Agriculture, and (B) receives compensation for employment in excess of fifty-six hours in any workweek at a rate not less than one and one-half times the regular rate at which he is employed; or
 
@@ -268,7 +270,7 @@ The provisions of sections 206, 207, 211, and 212 of this title shall not apply 
 
 #### (g) Certain employment in retail or service establishments, agriculture
 
-The exemption from section 206 of this title provided by paragraph (6) of subsection (a) of this section shall not apply with respect to any employee employed by an establishment (1) which controls, is controlled by, or is under common control with, another establishment the activities of which are not related for a common business purpose to, but materially support the activities of the establishment employing such employee; and (2) whose annual gross volume of sales made or business done, when combined with the annual gross volume of sales made or business done by each establishment which controls, is controlled by, or is undercommon control with, the establishment employing such employee, exceeds $10,000,000 (exclusive of excise taxes at the retail level which are separately stated).
+The exemption from section 206 of this title provided by paragraph (6) of subsection (a) of this section shall not apply with respect to any employee employed by an establishment (1) which controls, is controlled by, or is under common control with, another establishment the activities of which are not related for a common business purpose to, but materially support the activities of the establishment employing such employee; and (2) whose annual gross volume of sales made or business done, when combined with the annual gross volume of sales made or business done by each establishment which controls, is controlled by, or is under common control with, the establishment employing such employee, exceeds $10,000,000 (exclusive of excise taxes at the retail level which are separately stated).
 
 #### (h) Maximum hour requirement: fourteen workweek limitation
 
@@ -298,7 +300,7 @@ The provisions of section 207 of this title shall not apply for a period or peri
 
 The provisions of section 207 of this title shall not apply for a period or periods of not more than fourteen workweeks in the aggregate in any period of fifty-two consecutive weeks to any employee who—
 
-&emsp;(1) is engaged in the ginning of cotton for market in any place of employment located in a county where cotton is grown in commercial quantities; and
+&emsp;(1) is engaged in the ginning of cotton for market in any place of employment located ina county where cotton is grown in commercial quantities; and
 
 &emsp;(2) receives for any such employment during such workweeks—
 
@@ -322,7 +324,7 @@ The provisions of section 207 of this title shall not apply for a period or peri
 
 > &emsp;compensation at a rate not less than one and one-half times the regular rate at which he is employed. No week included in any fifty-two week period for purposes of the preceding sentence may be included for such purposes in any other fifty-two week period.
 
-(June 25, 1938, ch. 676, §13, 52 Stat. 1067; Aug. 9, 1939, ch. 605, 53 Stat. 1266; Oct. 26, 1949, ch. 736, §11, 63 Stat. 917; Aug. 8, 1956, ch. 1035, §3, 70 Stat. 1118; Pub. L. 85–231, §1(1), Aug. 30, 1957, 71 Stat. 514; Pub. L. 86–624, §21(b), July 12, 1960, 74 Stat. 417; Pub. L. 87–30, §§9, 10, May 5, 1961, 75 Stat. 71, 74; Pub. L. 89–601, title II, §§201–204(a), (b), 205–212(a), 213, 214, 215(b), (c), Sept. 23, 1966, 80 Stat. 833–838; Pub. L. 89–670, §8(e), Oct. 15, 1966, 80 Stat. 943; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 92–318, title IX, §906(b)(1), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(c)(2), 7(b)(3), (4), 8, 9(b), 10, 11, 12(a), 13(a)–(d), 14–18, 20(a)–(c), 21(b), 22, 23, 25(b), Apr. 8, 1974, 88 Stat. 61–69, 72; Pub. L. 95–151, §§4–8, 9(d), 11, 14, Nov. 1, 1977, 91 Stat. 1249, 1250–1252; Pub. L. 96–70, title I, §1225(a), Sept. 27, 1979, 93 Stat. 468; Pub. L. 101–157, §3(c), Nov. 17, 1989, 103 Stat. 939; Pub. L. 103–329, title VI, §633(d), Sept. 30, 1994, 108 Stat. 2428; Pub. L. 104–88, title III, §340, Dec. 29, 1995, 109 Stat. 955; Pub. L. 104–174, §1, Aug. 6, 1996, 110 Stat. 1553; Pub. L. 104–188, \[title II\], §2105(a), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–78, title I, §105, Nov. 13, 1997, 111 Stat. 1477; Pub. L. 105–334, §2(a), Oct. 31, 1998, 112 Stat. 3137; Pub. L. 108–199, div. E, title I, §108, Jan. 23, 2004, 118 Stat. 236; Pub. L. 113–277, §2(g)(2), Dec. 18, 2014, 128 Stat. 3005.)
+(June 25, 1938, ch. 676, §13, 52 Stat. 1067; Aug. 9, 1939, ch. 605, 53 Stat. 1266; Oct. 26, 1949, ch. 736, §11, 63 Stat. 917; Aug. 8, 1956, ch. 1035, §3, 70 Stat. 1118; Pub. L. 85–231, §1(1), Aug. 30, 1957, 71 Stat. 514; Pub. L. 86–624, §21(b), July 12, 1960, 74 Stat. 417; Pub. L. 87–30, §§9, 10, May 5, 1961, 75 Stat. 71, 74; Pub. L. 89–601, title II, §§201–204(a), (b), 205–212(a), 213, 214, 215(b), (c), Sept. 23, 1966, 80 Stat. 833–838; Pub. L. 89–670, §8(e), Oct. 15, 1966, 80 Stat. 943; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 92–318, title IX, §906(b)(1), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(c)(2), 7(b)(3), (4), 8, 9(b), 10, 11, 12(a), 13(a)–(d), 14–18, 20(a)–(c), 21(b), 22, 23, 25(b), Apr. 8, 1974, 88 Stat. 61–69, 72; Pub. L. 95–151, §§4–8, 9(d), 11, 14, Nov. 1, 1977, 91 Stat. 1249, 1250–1252; Pub. L. 96–70, title I, §1225(a), Sept. 27, 1979, 93 Stat. 468; Pub. L. 101–157, §3(c), Nov. 17, 1989, 103 Stat. 939; Pub. L. 103–329, title VI, §633(d), Sept. 30, 1994, 108 Stat. 2428; Pub. L. 104–88, title III, §340, Dec. 29, 1995, 109 Stat. 955; Pub. L. 104–174, §1, Aug. 6, 1996, 110 Stat. 1553; Pub. L. 104–188, \[title II\], §2105(a), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–78, title I, §105, Nov. 13, 1997, 111 Stat. 1477; Pub. L. 105–334, §2(a), Oct. 31, 1998, 112 Stat. 3137; Pub. L. 108–199, div. E, title I, §108, Jan. 23, 2004, 118 Stat. 236; Pub. L. 113–277, §2(g)(2), Dec. 18, 2014, 128 Stat. 3005; Pub. L. 115–141, div. S, title II, §201(a), Mar. 23, 2018, 132 Stat. 1126.)
 
 #### References in Text
 
@@ -332,7 +334,7 @@ Section 206(a)(5) of this title, referred to in subsec. (c)(1)(A), was redesigna
 
 Section 206(a)(3) of this title, referred to in subsec. (e), was repealed and section 206(a)(4) of this title was redesignated section 206(a)(3) by Pub. L. 110–28, title VIII, §8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (f), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, asamended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (f), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 #### Codification
 
@@ -341,6 +343,8 @@ In subsec. (a)(1), "subchapter II of chapter 5 of title 5" substituted for "the 
 In subsec. (b)(1), "section 31502 of title 49" substituted for "section 3102 of title 49" on authority of Pub. L. 103–272, §§1(c), (e), 6(b), July 5, 1994, 108 Stat. 745, 862, 1029, 1378. Previously, "section 3102 of title 49" substituted for "section 204 of the Motor Carrier Act, 1935 \[49 U.S.C. 304\]", on authority of Pub. L. 97–449, §6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§101 et seq.) and chapter 31 (§3101 et seq.) of subtitle II of Title 49, Transportation.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(19). Pub. L. 115–141 added par. (19).
 
 <b>2014</b>—Subsec. (a)(18). Pub. L. 113–277 added par. (18).
 
@@ -424,7 +428,7 @@ Subsec. (b)(21). Pub. L. 93–259, §7(b)(4), added par. (21).
 
 Subsec. (b)(22). Pub. L. 93–259, §9(b)(2), added par. (22).
 
-Subsec. (b)(23). Pub. L. 93–259, §10(b)(1), added par. (23), effective May 1, 1974. Pub. L. 93–259, §10(b)(2), substituted "forty-four hours" for "forty-eight hours" effective one year after May 1, 1974. Pub. L. 93–259, §10(b)(3), repealed par. (23) effective two years after May 1, 1974.
+Subsec. (b)(23). Pub. L. 93–259, §10(b)(1), added par. (23), effective May 1, 1974. Pub. L. 93–259, §10(b)(2), substituted "forty-four hours" for "forty-eight hours" effective one year after May 1, 1974. Pub. L. 93–259,§10(b)(3), repealed par. (23) effective two years after May 1, 1974.
 
 Subsec. (b)(24). Pub. L. 93–259, §17, added par. (24).
 
@@ -458,7 +462,7 @@ Subsec. (a)(8). Pub. L. 89–601, §205, substituted "where published" for "wher
 
 Subsec. (a)(9). Pub. L. 89–601, §§206(a), 207, repealed par. (9) relating to employees of street, suburban, or interurban electric railways, or local trolleys or motor bus carriers not in a section 203(s) enterprise and enacted a new par. (9) relating to employees employed by motion picture theaters. See subsec. (b)(7) of this section.
 
-Subsec. (a)(10). Pub. L. 89–601, §§204(a), 215(b)(1), repealed par. (10) relating to employees engaged in handling and processing of agricultural, horticultural, anddairy products and redesignated par. (11) as (10). See section 207(d) of this title.
+Subsec. (a)(10). Pub. L. 89–601, §§204(a), 215(b)(1), repealed par. (10) relating to employees engaged in handling and processing of agricultural, horticultural, and dairy products and redesignated par. (11) as (10). See section 207(d) of this title.
 
 Subsec. (a)(11). Pub. L. 89–601, §215(b)(1), redesignated par. (13) as (11). Former par. (11) redesignated (10).
 
@@ -559,6 +563,10 @@ Subsec. (c). Act Oct. 26, 1949, substituted "outside of school hours for the sch
 Subsec. (d). Act Oct. 26, 1949, added par. (d).
 
 <b>1939</b>—Subsec. (a)(11). Act Aug. 9, 1939, added par. (11).
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–141, div. S, title II, §201(b), Mar. 23, 2018, 132 Stat. 1127, provided that: "This section \[amending this section\], and the amendments made by this section, shall take effect on the date of enactment of this Act \[Mar. 23, 2018\]."
 
 #### Effective Date of 2014 Amendment
 

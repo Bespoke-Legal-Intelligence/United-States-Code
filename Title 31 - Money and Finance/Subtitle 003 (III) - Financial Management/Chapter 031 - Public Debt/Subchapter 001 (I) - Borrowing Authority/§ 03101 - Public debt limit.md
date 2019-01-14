@@ -96,6 +96,32 @@ Pub. L. 98–34 substituted "$1,389,000,000,000" for "$400,000,000,000".
 
 #### Temporary Debt Limit Extension
 
+Pub. L. 115–123, div. C, title III, §30301, Feb. 9, 2018, 132 Stat. 132, provided that:
+
+"(a)
+
+In General.—Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date of the enactment of this Act \[Feb. 9, 2018\] and ending on March 1, 2019.
+
+"(b)
+
+Special Rule Relating to Obligations Issued During Extension Period.—Effective on March 2, 2019, the limitation in effect under section 3101(b) of title 31, United States Code, shall be increased to the extent that—
+
+&emsp;"(1) the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on March 2, 2019, exceeds
+
+&emsp;"(2) the face amount of such obligations outstanding on the date of the enactment of this Act.
+
+"(c)
+
+Restoring Congressional Authority Over the National Debt.—
+
+&emsp;"(1)
+
+Extension limited to necessary obligations.—An obligation shall not be taken into account under subsection (b)(1) unless the issuance of such obligation was necessary to fund a commitment incurred pursuant to law by the Federal Government that required payment before March 2, 2019.
+
+&emsp;"(2)
+
+Prohibition on creation of cash reserve during extension period.—The Secretary of the Treasury shall not issue obligations during the period specified in subsection (a) for the purpose of increasing the cash balance above normal operating balances in anticipation of the expiration of such period."
+
 Pub. L. 115–56, div. C, §101, Sept. 8, 2017, 131 Stat. 1139, provided that:
 
 "(a)
@@ -158,7 +184,7 @@ Pub. L. 113–83, Feb. 15, 2014, 128 Stat. 1011, provided that:
 
 "(a)
 
-In General.—Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date of the enactment of this Act \[Feb. 15, 2014\] and ending on March 15, 2015.
+In General.—Section 3101(b) of title 31, United States Code, shall not apply for the period beginning onthe date of the enactment of this Act \[Feb. 15, 2014\] and ending on March 15, 2015.
 
 "(b)
 
@@ -256,11 +282,11 @@ Reporting and discharge.—Any committee of the House of Representatives to whic
 
 &emsp;&emsp;"(B)
 
-Proceeding to consideration.—After each committee authorized to consider a joint resolution reports it to the House of Representatives or has been discharged from its consideration, it shall be in order, not later than the sixth day after introduction of a joint resolution under paragraph (1), to move to proceed to consider the joint resolution in the House of Representatives. All points of order against the motion are waived. Such a motion shall not be in order after the House of Representatives has disposed of a motion to proceed on a joint resolution. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
+Proceeding to consideration.—After each committee authorized to consider a joint resolution reports it to the House of Representatives or has been discharged from its consideration, it shall be in order, not later than the sixth day after introduction of a joint resolution under paragraph (1), to move to proceed to consider the joint resolution in the House of Representatives. All points of order against the motion are waived. Such a motion shallnot be in order after the House of Representatives has disposed of a motion to proceed on a joint resolution. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
 
 &emsp;&emsp;"(C)
 
-Consideration.—The joint resolution shall be considered as read. All points of order againstthe joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except 2 hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
+Consideration.—The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except 2 hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
 
 &emsp;"(3)
 
@@ -358,11 +384,11 @@ Special Rule Relating to Obligations Issued During Suspension Period.—Effectiv
 
 #### Treatment of Certain Obligations of United States
 
-Pub. L. 104–115, §1(a)–(c), Mar. 12, 1996, 110 Stat. 825, authorized Secretary of the Treasury to issue to each Federal fund obligations of United States under this chapter before Mar. 30, 1996, in amount not to exceed certain designated limits, exempted such obligations from public debt limit and provided for termination of such exemption, and defined "Federal fund" for purpose of section.
+Pub. L. 104–115, §1(a)–(c), Mar. 12, 1996, 110 Stat. 825, authorized Secretary of the Treasury to issue to each Federal fund obligations of United States under thischapter before Mar. 30, 1996, in amount not to exceed certain designated limits, exempted such obligations from public debt limit and provided for termination of such exemption, and defined "Federal fund" for purpose of section.
 
 #### Timely Payment of March 1996 Social Security Benefits Guaranteed
 
-Pub. L. 104–103, §1, Feb. 8, 1996, 110 Stat. 55, as amended by Pub. L. 104–115, §1(d), Mar. 12, 1996, 110 Stat. 825,authorized Secretary of the Treasury to issue, before Mar. 1, 1996, obligations of United States under this chapter in amount equal to monthly insurance benefits payable in March 1996 under title II of Social Security Act (42 U.S.C. 401 et seq.), exempted such obligations from public debt limit and provided for termination of such exemption.
+Pub. L. 104–103, §1, Feb. 8, 1996, 110 Stat. 55, as amended by Pub. L. 104–115, §1(d), Mar. 12, 1996, 110 Stat. 825, authorized Secretary of the Treasury to issue, before Mar. 1, 1996, obligations of United States under this chapter in amount equal to monthly insurance benefits payable in March 1996 under title II of Social Security Act (42 U.S.C. 401 et seq.), exempted such obligations from public debt limit and provided for termination of such exemption.
 
 #### Repeal of Permanent Increase in Public Debt Limit
 

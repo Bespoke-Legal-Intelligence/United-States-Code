@@ -2,7 +2,7 @@
 
 As declared by the Congress in the Arms Control and Disarmament Act \[22 U.S.C. 2551 et seq.\], an ultimate goal of the United States continues to be a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. In furtherance of that goal, it remains the policy of the United States to encourage regional arms control and disarmament agreements and to discourage arms races.
 
-The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirementsfor effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
+The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
 
 Accordingly, it remains the policy of the United States to facilitate the common defense by entering into international arrangements with friendly countries which further the objective of applying agreed resources of each country to programs and projects of cooperative exchange of data, research, development, production, procurement, and logistics support to achieve specific national defense requirements and objectives of mutual concern. To this end, this chapter authorizes sales by the United States Government to friendly countries having sufficient wealth to maintain and equip their own military forces at adequate strength, or to assume progressively larger shares of the costs thereof, without undue burden to their economies, in accordance with the restraints and control measures specified herein and in furtherance of the security objectives of the United States and of the purposes and principles of the United Nations Charter.
 
@@ -58,7 +58,7 @@ Pub. L. 90–629, ch. 4, §41, Oct. 22, 1968, 82 Stat. 1326, provided that: "Thi
 
 #### Short Title of 2016 Amendment
 
-Pub. L. 114–123, §1, Feb. 18, 2016, 130 Stat. 117, provided that: "This Act \[enacting provisions set out as a note under section 2753 of this title\] may be cited as the 'United States-Jordan Defense Cooperation Act of 2015'."
+Pub. L. 114–123, §1, Feb. 18, 2016, 130 Stat. 117, provided that: "This Act \[enacting provisions set out as a noteunder section 2753 of this title\] may be cited as the 'United States-Jordan Defense Cooperation Act of 2015'."
 
 #### Short Title of 2010 Amendment
 
@@ -120,7 +120,7 @@ Appropriate committees of congress defined.—In this subsection, the term 'appr
 
 #### Enhancing Defense and Security Cooperation With India
 
-Pub. L. 114–328, div. A, title XII, §1292, Dec. 23, 2016, 130 Stat. 2559, as amended by Pub. L. 115–91, div. A, title XII, §1258(a), (c)(2), Dec. 12, 2017, 131 Stat. 1683, 1684, provided that:
+Pub. L. 114–328, div. A, title XII, §1292, Dec. 23, 2016, 130 Stat. 2559, as amended by Pub. L. 115–91, div. A, title XII, §1258(a), (c)(2), Dec. 12, 2017, 131 Stat. 1683, 1684; Pub. L. 115–232, div. A, title XII, §1266, Aug. 13, 2018, 132 Stat. 2064, provided that:
 
 "(a)
 
@@ -162,7 +162,25 @@ In general.—The Secretary of Defense and Secretary of State should jointly tak
 
 &emsp;"(2)
 
-Report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], and annually thereafter, the Secretary of Defense and Secretary of State shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and House of Representatives\] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on how the United States is supporting its defense relationship with India in relation to the actions described in paragraph (1). The report shall also include a forward-looking strategy on enhancing defense and security cooperation with India.
+Report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], and annually thereafter until December 31, 2021, the Secretary of Defense and Secretary of State shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and House of Representatives\] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on how the United States is supporting its defense relationship with India in relation to the actions described in paragraph (1).
+
+&emsp;&emsp;"(B)
+
+Contents.—The report shall also include—
+
+&emsp;&emsp;&emsp;"(i) a forward-looking strategy with specific benchmarks for measurable progress toward enhancing India's status as a major defense partner and defense and security cooperation with India;
+
+&emsp;&emsp;&emsp;"(ii) a description of any limitations that hinder or slows \[sic\] progress in implementing the actions described in subparagraphs (A) through (L) of paragraph (1);
+
+&emsp;&emsp;&emsp;"(iii) a description of actions India is taking, or the actions the Secretary of Defense or the Secretary of State believe India should take, to advance the relationship between the United States, including actions relating to subparagraphs (A) through (L) of paragraph (1);
+
+&emsp;&emsp;&emsp;"(iv) a description of the measures that can be taken by the United States and India to improve interoperability; and
+
+&emsp;&emsp;&emsp;"(v) a description of the progress made in enabling agreements between the United States and India.
 
 &emsp;"(3)
 
@@ -406,7 +424,7 @@ In general.—If the President determines that a foreign government knowingly tr
 
 &emsp;"(2)
 
-Foreign government described.—A foreign government described in this paragraph is a foreign government that the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. 4605(j)\], section 620A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2371\], section 40 of the Arms Export Control Act \[22 U.S.C. 2780\], or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
+Foreign government described.—A foreign government described in this paragraph is a foreign government that the Secretary of State has determined, for purposes of \[former\] section 6(j) of the Export Administration Act of 1979 \[former 50 U.S.C. 4605(j)\], section 620A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2371\], section 40 of the Arms Export Control Act \[22 U.S.C. 2780\], or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
 
 "(c)
 
@@ -484,7 +502,7 @@ Reporting and briefing requirement.—
 
 &emsp;&emsp;"(A)
 
-President's report.—Not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the President shall transmit to the appropriate congressional committees a report that contains a detailed description of the status of diplomatic efforts under paragraphs (1), (2), and (3) andof efforts by the appropriate United States agencies to comply with the recommendations of the General Accounting Office \[now Government Accountability Office\] set forth in its report GAO–04–519, entitled 'Nonproliferation: Further Improvements Needed in U.S. Efforts to Counter Threats from Man-Portable Air Defense Systems'.
+President's report.—Not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the President shall transmit to the appropriate congressional committees a report that contains a detailed description of the status of diplomatic efforts under paragraphs (1), (2), and (3) and of efforts by the appropriate United States agencies to comply with the recommendations of the General Accounting Office \[now Government Accountability Office\] set forth in its report GAO–04–519, entitled 'Nonproliferation: Further Improvements Needed in U.S. Efforts to Counter Threats from Man-Portable Air Defense Systems'.
 
 &emsp;&emsp;"(B)
 
@@ -590,7 +608,7 @@ Regulations.—The President shall ensure that regulations are prescribed to imp
 
 #### Eligibility of Panama Under Arms Export Control Act
 
-Pub. L. 104–164, title I, §154, July 21, 1996, 110 Stat. 1440, provided that: "The Government of the Republicof Panama shall be eligible to purchase defense articles and defense services under the Arms Export Control Act (22 U.S.C. 2751 et seq.), except as otherwise specifically provided by law."
+Pub. L. 104–164, title I, §154, July 21, 1996, 110 Stat. 1440, provided that: "The Government of the Republic of Panama shall be eligible to purchase defense articles and defense services under the Arms Export Control Act (22 U.S.C. 2751 et seq.), except as otherwise specifically provided by law."
 
 #### Reports on Counterproliferation Activities and Programs
 
@@ -682,7 +700,7 @@ Effective Date.—This section shall take effect 1 year after the date of enactm
 
 #### Counterproliferation Policy and Programs of United States
 
-Pub. L. 103–160, div. A, title XVI, §§1603, 1605, 1607, Nov. 30, 1993, 107 Stat. 1843, 1845, 1847, as amended by Pub. L. 103–337, div. A, title XV, §§1502, 1505(a), (b), Oct. 5, 1994, 108 Stat. 2914, 2919; Pub. L. 104–106, div. A, title XV, §1504(b), Feb. 10, 1996, 110 Stat. 513; Pub. L. 104–201, div. A, title XIII, §1309(a)–(c), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(a), (b), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(a), (d), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 109–163, div. A, title X, §1056(f), Jan. 6, 2006, 119 Stat. 3440; Pub.L. 110–181, div. A, title XII, §1256(a)–(c), Jan. 28, 2008, 122 Stat. 403; Pub. L. 112–239, div. A, title X, §1076(c)(1), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 115–91, div. A, title X, §1051(f), Dec. 12, 2017, 131 Stat. 1563, provided that:
+Pub. L. 103–160, div. A, title XVI, §§1603, 1605, 1607, Nov. 30, 1993, 107 Stat. 1843, 1845, 1847, as amended by Pub. L. 103–337, div. A, title XV, §§1502, 1505(a), (b), Oct. 5, 1994, 108 Stat. 2914, 2919; Pub. L. 104–106, div. A, title XV, §1504(b), Feb. 10, 1996, 110 Stat. 513; Pub. L. 104–201, div. A, title XIII, §1309(a)–(c), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(a), (b), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(a), (d), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 109–163, div. A, title X, §1056(f), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 110–181, div. A, title XII, §1256(a)–(c), Jan. 28, 2008, 122 Stat. 403; Pub. L. 112–239, div. A, title X, §1076(c)(1), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 115–91, div. A, title X, §1051(f), Dec. 12, 2017, 131 Stat. 1563, provided that:
 
 #### "SEC. 1603. STUDIES RELATING TO UNITED STATES COUNTERPROLIFERATION POLICY.
 
@@ -794,7 +812,7 @@ Termination of Committee.—The committee shall cease to exist at the end of Sep
 
 &emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Armed Services \[now Committee on National Security\], the Committeeon Appropriations, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Armed Services \[now Committee on National Security\], the Committee on Appropriations, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 &emsp;"(2) The term 'intelligence community' has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 401a) \[now 50 U.S.C. 3003\]."
 
@@ -866,7 +884,7 @@ Pub. L. 94–329, title II, §218, June 30, 1976, 90 Stat. 748, set forth provis
 
 #### Total Number of Credits To Be Extended Between July 1, 1976, and September 30, 1976
 
-Pub. L. 94–329, title V, §506(b), June 30, 1976, 90 Stat. 764, provided that the total number of credits extended pursuant to this chapter, between July 1, 1976, and Sept. 30, 1976, not exceed an amount equal to one-fourth of the total amount of credits extended and guaranteed for fiscal year 1976.
+Pub. L. 94–329, title V, §506(b), June 30, 1976, 90 Stat. 764, provided that the total number of credits extended pursuant to this chapter, between July 1, 1976, and Sept. 30, 1976, not exceed an amount equal to one-fourthof the total amount of credits extended and guaranteed for fiscal year 1976.
 
 #### Additional Military and Civilian Personnel for Department of Defense
 
@@ -874,7 +892,7 @@ Pub. L. 94–329, title VI, §605(a), June 30, 1976, 90 Stat. 768, provided that
 
 #### Sales to the Middle East; Requests for Additional Appropriations
 
-Pub. L. 91–672, §5, Jan. 12, 1971, 84 Stat. 2053, provided that: "It is the sense of Congress that (1) the President should continue to press forward urgently with his efforts to negotiate with the Soviet Union and other powers a limitation on arms shipments to the Middle East, (2) the President should be supported in his position that arms will be made available and credits provided to Israel and other friendly states, to the extent that the President determines such assistance to be needed in order to meet threats to the security and independence of such states, and (3) if the authorization provided in the Foreign Military Sales Act, as amended \[this chapter\], should prove to be insufficient to effectuate this stated policy, the President should promptly submit to the Congress requests for an appropriate supplementary authorization and appropriation."
+Pub. L. 91–672, §5, Jan. 12, 1971, 84 Stat. 2053, provided that it was the sense of Congress that (1) the President should press forward with efforts to negotiate with the Soviet Union and other powers a limitation on arms shipments to the Middle East, (2) the President should be supported in the position that arms will be made available and credits provided to Israel and other friendly states to meet threats to the security and independence of such states, and (3) the President could submit to the Congress requests for appropriate supplementary appropriations.
 
 #### Review of Military Aid Programs and Efforts for Regulation of Conventional Arms Trade
 
@@ -906,7 +924,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Delegation of Functions</i>. The following functions conferred upon the President by the Act, and related laws, are delegated as follows:
 
-(a) Those under section 3 of the Act (22 U.S.C. 2753), with the exception of subsections (a)(1), (b), (c)(3), (c)(4), and (f) (22 U.S.C. 2753(a)(1), (b), (c)(3), (c)(4), and (f)), to the Secretary of State. The Secretary of State, in the implementation of the delegated functions under sections 3(a) and (d) of the Act (22 U.S.C. 2753(a) and (d)), is authorized to find, in the case of a proposed transfer of a defense article or related training or other defense service by a foreign country or international organization not otherwise eligible under section 3(a)(1) of the Act (22 U.S.C. 2753(a)(1)), whether the proposedtransfer will strengthen the security of the United States and promote world peace.
+(a) Those under section 3 of the Act (22 U.S.C. 2753), with the exception of subsections (a)(1), (b), (c)(3), (c)(4), and (f) (22 U.S.C. 2753(a)(1), (b), (c)(3), (c)(4), and (f)), to the Secretary of State. The Secretary of State, in the implementation of the delegated functions under sections 3(a) and (d) of the Act (22 U.S.C. 2753(a) and (d)), is authorized to find, in the case of a proposed transfer of a defense article or related training or other defense service by a foreign country or international organization not otherwise eligible under section 3(a)(1) of the Act (22 U.S.C. 2753(a)(1)), whether the proposed transfer will strengthen the security of the United States and promote world peace.
 
 (b) Those under section 5 (22 U.S.C. 2755) to the Secretary of State.
 
@@ -924,7 +942,7 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (i) Those under section 35(a) of the Act (22 U.S.C. 2775(a)) to the Secretary of State.
 
-(j) Those under sections 36(a) and 36(b)(1) of the Act (22 U.S.C. 2776(a) and (b)(1)), except with respect to the certification of an emergency as provided by subsection (b)(1) (22 U.S.C. 2776(b)(1)), to the Secretary of Defense. The Secretary of Defense, in the implementation of the delegated functions under sections 36(a) and (b)(1) (22 U.S.C. 2776(a) and (b)(1)), shall consult with the Secretary of State. With respect to those functions under sections 36(a)(5) and (6) (22 U.S.C. 2776(a)(5) and (6)), the Secretary of Defense shall consult with the Director of the Office of Management and Budget.
+(j) Those under sections 36(a) and 36(b)(1) of the Act (22 U.S.C. 2776(a) and (b)(1)), except with respect to the certification of an emergency as provided by subsection (b)(1) (22 U.S.C. 2776(b)(1)), to the Secretary of Defense. The Secretary of Defense, in the implementation of the delegated functions under sections 36(a) and (b)(1) (22 U.S.C. 2776(a) and (b)(1)), shall consult with the Secretary of State. With respect to those functions undersections 36(a)(5) and (6) (22 U.S.C. 2776(a)(5) and (6)), the Secretary of Defense shall consult with the Director of the Office of Management and Budget.
 
 (k) Those under section 36(b)(1) with respect to the certification of an emergency as provided by subsection (b)(1) and under sections 36(c) and (d) of the Act (22 U.S.C. 2776(b)(1), (c), and (d)) to the Secretary of State.
 

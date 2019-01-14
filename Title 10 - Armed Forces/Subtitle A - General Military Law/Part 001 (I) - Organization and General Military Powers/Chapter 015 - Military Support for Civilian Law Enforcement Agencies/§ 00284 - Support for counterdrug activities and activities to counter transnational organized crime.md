@@ -14,7 +14,7 @@ Support to Other Agencies.—The Secretary of Defense may provide support for th
 
 (b)
 
-Types of Support for Agencies of United States.—The purposes for which the Secretarymay provide support under subsection (a) for other departments or agencies of the Federal Government or a State, local, or tribal law enforcement agencies, are the following:
+Types of Support for Agencies of United States.—The purposes for which the Secretary may provide support under subsection (a) for other departments or agencies of the Federal Government or a State, local, or tribal law enforcement agencies, are the following:
 
 &emsp;(1) The maintenance and repair of equipment that has been made available to any department or agency of the Federal Government or to any State, local, or tribal government by the Department of Defense for the purposes of—
 
@@ -86,7 +86,7 @@ Limited Waiver of Prohibition.—Notwithstanding section 376 <sup>1</sup> of th
 
 (f)
 
-Conduct of Training or Operation To Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant to section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564) <sup>2</sup> forthe purpose of aiding civilian law enforcement agencies.
+Conduct of Training or Operation To Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant to section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564) <sup>2</sup> for the purpose of aiding civilian law enforcement agencies.
 
 (g)
 

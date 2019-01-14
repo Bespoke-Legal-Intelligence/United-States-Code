@@ -108,7 +108,7 @@
 
 #### (1) In general
 
-&emsp;Assistance other than technical assistance shall be matched with funds from sources other than the Federal Government on the basis of not less than one dollar for each dollar provided by the Fund. Such matching funds shall be at least comparable in form and value to assistance provided by the Fund. The Fund shall provide no assistance (other than technical assistance) until a community development financial institution has secured firm commitments for the matching funds required.
+&emsp;Assistance other than technical assistance shall be matched with funds from sources other than the Federal Government on thebasis of not less than one dollar for each dollar provided by the Fund. Such matching funds shall be at least comparable in form and value to assistance provided by the Fund. The Fund shall provide no assistance (other than technical assistance) until a community development financial institution has secured firm commitments for the matching funds required.
 
 #### (2) Exception
 

@@ -200,7 +200,7 @@ Subsec. (e). Pub. L. 110–315, §408(3), substituted "section 1070a–11(c)(2)"
 
 Subsec. (f)(1), (2). Pub. L. 110–315, §408(4), substituted "$180,000" for "$150,000".
 
-Subsecs. (g) to (i). Pub. L. 110–315, §408(6)–(8), added subsecs. (g) to (i) and struck out former subsecs. (h) and (i), which related to data collection and to authorization of appropriations.
+Subsecs. (g) to (i). Pub. L. 110–315, §408(6)–(8), added subsecs. (g) to (i) and struck out former subsecs. (h) and\(i), which related to data collection and to authorization of appropriations.
 
 Pub. L. 110–315, §408(5), redesignated subsecs. (g) and (h) as (h) and (i), respectively.
 

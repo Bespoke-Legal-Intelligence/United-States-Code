@@ -22,7 +22,7 @@ Schedule.—A baseline description for a major defense acquisition program or an
 
 (d)
 
-Original Baseline Estimate.—(1) In this chapter, the term "original Baseline Estimate", with respect to a major defense acquisition program or any designated major subprogram under the program, means the baseline description established with respect to the program or subprogram under subsection (a) prepared before the program or subprogram enters system development and demonstration, or at program or subprogram initiation, whichever occurs later, without adjustment or revision (except as provided in paragraph (2)).
+Original Baseline Estimate.—(1) In this chapter, the term "original Baseline Estimate",with respect to a major defense acquisition program or any designated major subprogram under the program, means the baseline description established with respect to the program or subprogram under subsection (a) prepared before the program or subprogram enters system development and demonstration, or at program or subprogram initiation, whichever occurs later, without adjustment or revision (except as provided in paragraph (2)).
 
 (2) An adjustment or revision of the original baseline description of a major defense acquisition program or any designated major subprogram under the program may be treated as the original Baseline Estimate for the program or subprogram for purposes of this chapter only if the percentage increase in the program acquisition unit cost or procurement unit cost under such adjustment or revision exceeds the critical cost growth threshold for the program or subprogram under section 2433 of this title, as determined by the Secretary of the military department concerned under subsection (d) of such section.
 
@@ -92,7 +92,7 @@ Subsec. (d)(2). Pub. L. 107–107, §1048(b)(2), substituted "Under Secretary of
 
 Subsec. (c). Pub. L. 101–510, §1207(b), struck out subsec. (c) which read as follows: "
 
-Stability of ProgramManagers.—(1) The tour of duty of an officer of the armed forces as a program manager of a major defense acquisition program shall be (A) not less than four years, or (B) until completion of a major program milestone (as defined in regulations prescribed by the Secretary of Defense).
+Stability of Program Managers.—(1) The tour of duty of an officer of the armed forces as a program manager of a major defense acquisition program shall be (A) not less than four years, or (B) until completion of a major program milestone (as defined in regulations prescribed by the Secretary of Defense).
 
 "(2) The Secretary of the military department concerned may waive the length of the tour of duty prescribed in paragraph (1). The authority under the preceding sentence may not be delegated."
 

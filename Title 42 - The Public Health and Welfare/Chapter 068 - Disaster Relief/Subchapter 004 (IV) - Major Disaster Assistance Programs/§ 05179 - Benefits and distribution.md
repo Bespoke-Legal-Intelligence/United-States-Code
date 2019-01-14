@@ -10,7 +10,7 @@ The President, through the Secretary of Agriculture or other appropriate agencie
 
 #### (c) Food and Nutrition Act provisions unaffected
 
-Nothing in this section shall be construed as amending or otherwise changing the provisionsof the Food and Nutrition Act of 2008 of 1964 <sup>1</sup> \[7 U.S.C. 2011 et seq.\] except as they relate to the availability of supplemental nutrition assistance program benefits in an area affected by a major disaster.
+Nothing in this section shall be construed as amending or otherwise changing the provisions of the Food and Nutrition Act of 2008 of 1964 <sup>1</sup> \[7 U.S.C. 2011 et seq.\] except as they relate to the availability of supplemental nutrition assistance program benefits in an area affected by a major disaster.
 
 (Pub. L. 93–288, title IV, §412, formerly §409, May 22, 1974, 88 Stat. 157; renumbered §412, Pub. L. 100–707, title I, §106(h), Nov. 23, 1988, 102 Stat. 4705; Pub. L. 110–234, title IV, §§4002(b)(1)(C), (E), (2)(DD), 4115(c)(1)(A)(ii), (iv), (B)(v), May 22, 2008, 122 Stat. 1096, 1097, 1109; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(C), (E), (2)(DD), 4115(c)(1)(A)(ii), (iv), (B)(v), June 18, 2008, 122 Stat. 1664, 1857, 1859, 1870, 1871.)
 

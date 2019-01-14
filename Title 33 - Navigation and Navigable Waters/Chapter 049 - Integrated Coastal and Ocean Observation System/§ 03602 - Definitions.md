@@ -42,7 +42,7 @@ In this chapter:
 
 #### (9) System Plan
 
-&emsp;The term "System Plan" means the plan contained in the document entitled "Ocean.US Publication No. 9, The First Integrated Ocean Observing System (IOOS) Development Plan", as updated by the Council under this chapter.
+&emsp;The term "System Plan" means the plan contained in the document entitled "Ocean. US Publication No. 9, The First Integrated Ocean Observing System (IOOS) Development Plan", as updated by the Council under this chapter.
 
 (Pub. L. 111–11, title XII, §12303, Mar. 30, 2009, 123 Stat. 1428.)
 

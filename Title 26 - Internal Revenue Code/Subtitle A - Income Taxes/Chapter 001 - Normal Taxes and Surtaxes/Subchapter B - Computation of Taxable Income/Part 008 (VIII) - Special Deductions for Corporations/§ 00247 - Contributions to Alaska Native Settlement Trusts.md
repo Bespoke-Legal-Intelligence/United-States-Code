@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the case of a Native Corporation, there shall be allowed a deduction for any contributions made by such Native Corporation to a Settlement Trust (regardless of whether an election under section 646 is in effect for such Settlement Trust) for which the Native Corporation has made an annual election under subsection (e).
+In the case of a Native Corporation, there shall be allowed a deduction for any contributions made by such Native Corporation to a Settlement Trust (regardless of whether an election under section 646 is in effect for such SettlementTrust) for which the Native Corporation has made an annual election under subsection (e).
 
 #### (b) Amount of deduction
 
@@ -52,7 +52,7 @@ For purposes of this section, the terms "Native Corporation" and "Settlement Tru
 
 #### (3) Income
 
-&emsp;Subject to subsection (g), a Settlement Trust shall include in income the amount of any deduction allowed under this section inthe taxable year in which the Settlement Trust actually receives such contribution.
+&emsp;Subject to subsection (g), a Settlement Trust shall include in income the amount of any deduction allowed under this section in the taxable year in which the Settlement Trust actually receives such contribution.
 
 #### (4) Period
 
@@ -92,7 +92,7 @@ For purposes of this section, the terms "Native Corporation" and "Settlement Tru
 
 #### (B) Revocation
 
-&emsp;&emsp;Any election made by a Settlement Trust pursuant to this subsection may be revoked pursuant to a timely filed amendment or supplement to the income tax return of such Settlement Trust.
+&emsp;&emsp;Any election made by a Settlement Trust pursuant to this subsection may be revoked pursuant to a timely filed amendment orsupplement to the income tax return of such Settlement Trust.
 
 #### (C) Certain dispositions
 

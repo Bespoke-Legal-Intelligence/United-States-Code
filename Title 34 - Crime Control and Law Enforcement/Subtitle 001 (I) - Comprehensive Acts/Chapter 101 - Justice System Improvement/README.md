@@ -389,8 +389,10 @@
 | :--- | ---: |
 | [10551\.](Subchapter%20026%20%28XXVI%29%20-%20Matching%20Grant%20Program%20for%20School%20Security/%C2%A7%2010551%20-%20Program%20authorized.md) | Program authorized. |
 | [10552\.](Subchapter%20026%20%28XXVI%29%20-%20Matching%20Grant%20Program%20for%20School%20Security/%C2%A7%2010552%20-%20Applications.md) | Applications. |
-| [10553\.](Subchapter%20026%20%28XXVI%29%20-%20Matching%20Grant%20Program%20for%20School%20Security/%C2%A7%2010553%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| [10553\.](Subchapter%20026%20%28XXVI%29%20-%20Matching%20Grant%20Program%20for%20School%20Security/%C2%A7%2010553%20-%20Annual%20report%20to%20Congress%3B%20grant%20accountability.md) | Annual report to Congress; grant accountability. |
 | [10554\.](Subchapter%20026%20%28XXVI%29%20-%20Matching%20Grant%20Program%20for%20School%20Security/%C2%A7%2010554%20-%20Definitions.md) | Definitions. |
+| [10555\.](Subchapter%20026%20%28XXVI%29%20-%20Matching%20Grant%20Program%20for%20School%20Security/%C2%A7%2010555%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [10556\.](Subchapter%20026%20%28XXVI%29%20-%20Matching%20Grant%20Program%20for%20School%20Security/%C2%A7%2010556%20-%20Rules%20of%20construction.md) | Rules of construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -411,7 +413,7 @@
 
 |  |  |
 | :--- | ---: |
-| [10581\.](Subchapter%20028%20%28XXVIII%29%20-%20Mental%20Health%20and%20Drug%20Treatment%20Alternatives%20to%20Incarceration%20Programs/%C2%A7%2010581%20-%20Mental%20health%20and%20drug%20treatment%20alternatives%20to%20incarceration%20programs.md) | Mental health and drug treatment alternatives to incarceration programs. |
+| [10581\.](Subchapter%20028%20%28XXVIII%29%20-%20Mental%20Health%20and%20Drug%20Treatment%20Alternatives%20to%20Incarceration%20Programs/%C2%A7%2010581%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93391%2C%20title%20V%2C%20%C2%A7504%28g%29%282%29%2C%20Dec.%2021%2C%202018%2C%20132%20Stat.%205234.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -424,6 +426,7 @@
 | [10593\.](Subchapter%20029%20%28XXIX%29%20-%20Grants%20for%20Family-Based%20Substance%20Abuse%20Treatment/%C2%A7%2010593%20-%20Program%20requirements.md) | Program requirements. |
 | [10594\.](Subchapter%20029%20%28XXIX%29%20-%20Grants%20for%20Family-Based%20Substance%20Abuse%20Treatment/%C2%A7%2010594%20-%20Applications.md) | Applications. |
 | [10595\.](Subchapter%20029%20%28XXIX%29%20-%20Grants%20for%20Family-Based%20Substance%20Abuse%20Treatment/%C2%A7%2010595%20-%20Reports.md) | Reports. |
+| [10595a.](Subchapter%20029%20%28XXIX%29%20-%20Grants%20for%20Family-Based%20Substance%20Abuse%20Treatment/%C2%A7%2010595a%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [10596\.](Subchapter%20029%20%28XXIX%29%20-%20Grants%20for%20Family-Based%20Substance%20Abuse%20Treatment/%C2%A7%2010596%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -450,7 +453,7 @@
 | :--- | ---: |
 | [10631\.](Subchapter%20031%20%28XXXI%29%20-%20Offender%20Reentry%20and%20Community%20Safety/%C2%A7%2010631%20-%20Adult%20and%20juvenile%20offender%20State%20and%20local%20reentry%20demonstration%20projects.md) | Adult and juvenile offender State and local reentry demonstration projects. |
 | [10632\.](Subchapter%20031%20%28XXXI%29%20-%20Offender%20Reentry%20and%20Community%20Safety/%C2%A7%2010632%20-%20State%20reentry%20project%20evaluation.md) | State reentry project evaluation. |
-| [10633\.](Subchapter%20031%20%28XXXI%29%20-%20Offender%20Reentry%20and%20Community%20Safety/%C2%A7%2010633%20-%20State%2C%20Tribal%2C%20and%20local%20reentry%20courts.md) | State, Tribal, and local reentry courts. |
+| [10633\.](Subchapter%20031%20%28XXXI%29%20-%20Offender%20Reentry%20and%20Community%20Safety/%C2%A7%2010633%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93391%2C%20title%20V%2C%20%C2%A7504%28g%29%281%29%2C%20Dec.%2021%2C%202018%2C%20132%20Stat.%205234.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -497,7 +500,7 @@
 
 |  |  |
 | :--- | ---: |
-| [10681\.](Subchapter%20036%20%28XXXVI%29%20-%20Grant%20Program%20to%20Evaluate%20and%20Improve%20Educational%20Methods%20at%20Prisons%2C%20Jails%2C%20and%20Juvenile%20Facilities/%C2%A7%2010681%20-%20Grant%20program%20to%20evaluate%20and%20improve%20educational%20methods%20at%20prisons%2C%20jails%2C%20and%20juvenile%20facilities.md) | Grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities. |
+| [10681\.](Subchapter%20036%20%28XXXVI%29%20-%20Grant%20Program%20to%20Evaluate%20and%20Improve%20Educational%20Methods%20at%20Prisons%2C%20Jails%2C%20and%20Juvenile%20Facilities/%C2%A7%2010681%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93391%2C%20title%20V%2C%20%C2%A7502%28c%29%281%29%2C%20Dec.%2021%2C%202018%2C%20132%20Stat.%205228.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -537,6 +540,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XL—GRANT PROGRAM TO EVALUATE AND IMPROVE EDUCATIONAL METHODS AT PRISONS, JAILS, AND JUVENILE FACILITIES
+
+|  |  |
+| :--- | ---: |
+| [10741\.](Subchapter%20040%20%28XL%29%20-%20Grant%20Program%20to%20Evaluate%20and%20Improve%20Educational%20Methods%20at%20Prisons%2C%20Jails%2C%20and%20Juvenile%20Facilities/%C2%A7%2010741%20-%20Grant%20program%20to%20evaluate%20and%20improve%20educational%20methods%20at%20prisons%2C%20jails%2C%20and%20juvenile%20facilities.md) | Grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Codification
 
 Title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising this chapter, was originally enacted by Pub. L. 90–351, June 19, 1968, 82 Stat. 197, and amended by Pub. L. 91–644, Jan. 2, 1971, 84 Stat. 1880; Pub. L. 93–83, Aug. 6, 1973, 87 Stat. 197; Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 94–237, Mar. 19, 1976, 90 Stat. 241; Pub. L. 94–273, Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–430, Sept. 29, 1976, 90 Stat. 1346; Pub. L. 94–503, Oct. 15, 1976, 90 Stat. 2407; Pub. L. 95–115, Oct. 3, 1977, 91 Stat. 1048. Such title is shown herein, however, as having been added by Pub. L. 96–157, Dec. 27, 1979, 93 Stat. 1167, without reference to such intervening amendments because of the extensive revision of the title's provisions by Pub. L. 96–157.
@@ -545,7 +556,7 @@ Title I of the Omnibus Crime Control and Safe Streets Act of 1968 was formerly c
 
 #### Law Enforcement Assistance Act of 1965
 
-Pub. L. 89–197, §§1–11, Sept. 22, 1965, 79 Stat. 828, as amended by Pub. L. 89–798, Nov. 8, 1966, 80 Stat. 1503, was repealed by Pub. L. 90–351, title I, §405, June 19, 1968, 82 Stat. 204, subject to the provisions of former section 3745 of Title 42, The Public Health and Welfare. See section 10101 et seq. (chapter 101) of this title. Such Act had provided for grants and contracts for improvement of quality of state and local personnel through professional training; grants and contracts to improve state and local law enforcement techniques; delegation and redelegation of powers; contributions to program by recipients, rules and regulations, necessary stipends, and allowances; studies by Attorney General and technical assistance to states; prohibition against control over local agencies; advisory committees, compensation, and expenses; term of program; appropriations; and reports to President and Congress.
+Pub. L. 89–197, §§1–11, Sept. 22, 1965, 79 Stat. 828, as amended by Pub. L. 89–798, Nov. 8, 1966, 80 Stat. 1506, was repealed by Pub. L. 90–351, title I, §405, June 19, 1968, 82 Stat. 204, subject to the provisions of former section 3745 of Title 42, The Public Health and Welfare. See section 10101 et seq. (chapter 101) of this title. Such Act had provided for grants and contracts for improvement of quality of state and local personnel through professional training; grants and contracts to improve state and local law enforcement techniques; delegation and redelegation of powers; contributions to program by recipients, rules and regulations, necessary stipends, and allowances; studies by Attorney General and technical assistance to states; prohibition against control over local agencies; advisory committees, compensation, and expenses; term of program; appropriations; and reports to President and Congress.
 
 #### Ex. Ord. No. 11396. Coordination By Attorney General of Federal Law Enforcement and Crime Prevention Programs
 
@@ -613,3 +624,4 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [Subchapter 037 (XXXVII) - Sex Offender Apprehension Grants; Juvenile Sex Offender Treatment Grants](Subchapter%20037%20%28XXXVII%29%20-%20Sex%20Offender%20Apprehension%20Grants%3B%20Juvenile%20Sex%20Offender%20Treatment%20Grants/README.md)
 - [Subchapter 038 (XXXVIII) - Comprehensive Opioid Abuse Grant Program](Subchapter%20038%20%28XXXVIII%29%20-%20Comprehensive%20Opioid%20Abuse%20Grant%20Program/README.md)
 - [Subchapter 039 (XXXIX) - Prevention, Investigation, and Prosecution of White Collar Crime](Subchapter%20039%20%28XXXIX%29%20-%20Prevention%2C%20Investigation%2C%20and%20Prosecution%20of%20White%20Collar%20Crime/README.md)
+- [Subchapter 040 (XL) - Grant Program to Evaluate and Improve Educational Methods at Prisons, Jails, and Juvenile Facilities](Subchapter%20040%20%28XL%29%20-%20Grant%20Program%20to%20Evaluate%20and%20Improve%20Educational%20Methods%20at%20Prisons%2C%20Jails%2C%20and%20Juvenile%20Facilities/README.md)

@@ -44,7 +44,7 @@ Other members.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Members of the board of governors other than the chairman shall be elected at the annual meeting of the corporation in accordance with such procedures as may be provided in the bylaws.
+In general.—Members of the board of governors other than the chairman shallbe elected at the annual meeting of the corporation in accordance with such procedures as may be provided in the bylaws.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -60,7 +60,7 @@ In general.—The term of office of each member of the board of governors shall 
 
 &emsp;&emsp;(A) the board of governors may provide under the bylaws that the terms of office of members of the board of governors elected to the board of governors before March 31, 2012, may be less than 3 years in order to implement the provisions of subparagraphs (A) and (B) of subsection (a)(2); and
 
-&emsp;&emsp;(B) any member of the board of governors elected by the board to fill a vacancy in a board position arising before the expiration of its term may, as determined by the board,serve for the remainder of that term or until the next annual meeting of the corporation.
+&emsp;&emsp;(B) any member of the board of governors elected by the board to fill a vacancy in a board position arising before the expiration of its term may, as determined by the board, serve for the remainder of that term or until the next annual meeting of the corporation.
 
 &emsp;(2)
 

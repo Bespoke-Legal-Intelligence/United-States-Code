@@ -26,7 +26,7 @@
 
 &emsp;(D) take any other action authorized by this subchapter.
 
-> The administrator shall permit such accountant or actuary to inspect whatever books and records of the plan are necessary for such audit. The plan shall be liable to the Secretary for the expenses for such audit or report, and the Secretary may bring an action against the plan in any court of competent jurisdiction to recover such expenses.
+> The administrator shall permit such accountant or actuary to inspect whatever books and records of the plan are necessary for such audit.The plan shall be liable to the Secretary for the expenses for such audit or report, and the Secretary may bring an action against the plan in any court of competent jurisdiction to recover such expenses.
 
 (6) The administrator of any employee benefit plan subject to this part shall furnish to the Secretary, upon request, any documents relating to the employee benefit plan, including but not limited to, the latest summary plan description (including any summaries of plan changes not contained in the summary plan description), and the bargaining agreement, trust agreement, contract, or other instrument under which the plan is established or operated.
 
@@ -42,7 +42,7 @@ Publication of the summary plan descriptions and annual reports shall be made to
 
 > The administrator shall furnish to each participant, and each beneficiary receiving benefits under the plan, every fifth year after the plan becomes subject to this part an updated summary plan description described in section 1022 of this title which integrates all plan amendments made within such five-year period, except that in a case where no amendments have been made to a plan during such five-year period this sentence shall not apply. Notwithstanding the foregoing, the administrator shall furnish to each participant, and to each beneficiary receiving benefits under the plan, the summary plan description described in section 1022 of this title every tenth year after the plan becomes subject to this part. If there is a modification or change described in section 1022(a) of this title (other than a material reduction in covered services or benefits provided in the case of a group health plan (as defined in section 1191b(a)(1) of this title)), a summary description of such modification or change shall be furnished not later than 210 days after the end of the plan year in which the change is adopted to each participant, and to each beneficiary who is receiving benefits under the plan. If there is a modification or change described in section 1022(a) of this title that is a material reduction in covered services or benefits provided under a group health plan (as defined in section 1191b(a)(1) of this title), a summary description of such modification or change shall be furnished to participants and beneficiaries not later than 60 days after the date of the adoption of the modification or change. In the alternative, the plan sponsors may provide such description at regular intervals of not more than 90 days. The Secretary shall issue regulations within 180 days after August 21, 1996, providing alternative mechanisms to delivery by mail through which group health plans (as so defined) may notify participants and beneficiaries of material reductions in covered services or benefits.
 
-(2) The administrator shall make copies of the latest updated summary plan description and the latest annual report and the bargaining agreement, trust agreement, contract, or other instruments under which the plan was established or is operated available for examination by any plan participant or beneficiary in the principal office of the administrator and in suchother places as may be necessary to make available all pertinent information to all participants (including such places as the Secretary may prescribe by regulations).
+(2) The administrator shall make copies of the latest updated summary plan description and the latest annual report and the bargaining agreement, trust agreement, contract, or other instruments under which the plan was established or is operated available for examination by any plan participant or beneficiary in the principal office of the administrator and in such other places as may be necessary to make available all pertinent information to all participants (including such places as the Secretary may prescribe by regulations).
 
 (3) Within 210 days after the close of the fiscal year of the plan, the administrator (other than an administrator of a defined benefit plan to which the requirements of section 1021(f) of this title applies) <sup>1</sup> shall furnish to each participant, and to each beneficiary receiving benefits under the plan, a copy of the statements and schedules, for such fiscal year, described in subparagraphs (A) and (B) of section 1023(b)(3) of this title and such other material (including the percentage determined under section 1023(d)(11) of this title) as is necessary to fairly summarize the latest annual report.
 
@@ -92,7 +92,7 @@ The Secretary may by regulation require that the administrator of any employee b
 
 #### (2) Effect of subsection
 
-&emsp;Nothing in this subsection waives any other provision under this subchapter requiring planadministrators to provide, upon request, information to employers that have an obligation to contribute under the plan.
+&emsp;Nothing in this subsection waives any other provision under this subchapter requiring plan administrators to provide, upon request, information to employers that have an obligation to contribute under the plan.
 
 #### (e) Cross references
 
@@ -172,7 +172,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Model Notices and Forms
 
-For provisions requiring the Secretary of Labor to publish a model form for providing the statements,schedules, and other material required to be provided under subsec. (d) of this section, see section 503(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
+For provisions requiring the Secretary of Labor to publish a model form for providing the statements, schedules, and other material required to be provided under subsec. (d) of this section, see section 503(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "apply)".</i>
 

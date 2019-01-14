@@ -16,7 +16,7 @@ Simplified Offset for Collection of Claims Not in Excess of the Simplified Acqui
 
 &emsp;(A) shall include provisions to carry out paragraph (1); and
 
-&emsp;(B) shall provide the carrier for a claim subject to paragraph (1) with an opportunity to offer an alternative method of repaying the claim (rather than by administrative offset) if the collection of the claim by administrative offset has not already been made.
+&emsp;(B) shall provide the carrier for a claim subject to paragraph (1) with an opportunity to offer an alternative method of repaying theclaim (rather than by administrative offset) if the collection of the claim by administrative offset has not already been made.
 
 (3) In this subsection, the term "simplified acquisition threshold" has the meaning given that term in section 134 of title 41.
 

@@ -118,7 +118,7 @@ The General Schedule, the symbol for which is "GS", is the basic pay schedule fo
 
 &emsp;&emsp;&emsp;(i) somewhat extended specialized, supervisory, or administrative training and experience which has demonstrated capacity for sound independent work;
 
-&emsp;&emsp;&emsp;(ii) thorough and fundamental knowledge of a specialized and complex subjectmatter, or of the profession, art, or science involved; and
+&emsp;&emsp;&emsp;(ii) thorough and fundamental knowledge of a specialized and complex subject matter, or of the profession, art, or science involved; and
 
 &emsp;&emsp;&emsp;(iii) considerable latitude for the exercise of independent judgment; or
 
@@ -280,7 +280,7 @@ Sec. 302. In carrying out its functions under section 301 of this Act, the Commi
 
 "
 
-Sec. 303. The Civil Service Commission is authorized to secure directly from any executive agency, as defined by section 105 of title 5, United States Code, or any bureau, office, or part thereof, information, suggestions, estimates, statistics, and technical assistance forthe purposes of this Act; and each such executive agency or bureau, office, or part thereof is authorized and directed to furnish such information, suggestions, estimates, statistics, and technical assistance directly to the Civil Service Commission upon request by the Commission.
+Sec. 303. The Civil Service Commission is authorized to secure directly from any executive agency, as defined by section 105 of title 5, United States Code, or any bureau, office, or part thereof, information, suggestions, estimates, statistics, and technical assistance for the purposes of this Act; and each such executive agency or bureau, office, or part thereof is authorized and directed to furnish such information, suggestions, estimates, statistics, and technical assistance directly to the Civil Service Commission upon request by the Commission.
 
 "
 

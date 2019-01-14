@@ -6,7 +6,7 @@
 
 (3) Payment of benefits under this chapter may be made only for periods of time during which an eligible veteran is actually enrolled in and pursuing an approved program of education and, except as provided in paragraph (4), only after an eligible veteran has been discharged or released from active duty.
 
-(4) Payment of benefits under this chapter may be made after a participant has completedhis or her first obligated period of active duty (which began after December 31, 1976), or 6 years of active duty (which began after December 31, 1976), whichever period is less.
+(4) Payment of benefits under this chapter may be made after a participant has completed his or her first obligated period of active duty (which began after December 31, 1976), or 6 years of active duty (which began after December 31, 1976), whichever period is less.
 
 (5)(A) Notwithstanding any other provision of this chapter or chapter 36 of this title, any payment of an educational assistance allowance described in subparagraph (B) of this paragraph—
 
@@ -22,7 +22,7 @@
 
 &emsp;(iii) failed to receive credit or training time toward completion of the individual's approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i) or (ii) of this subparagraph, his or her course pursuit.
 
-(C) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(iii) of this paragraph.
+(C) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receivecredit or with respect to which the individual lost training time, as determined under subparagraph (B)(iii) of this paragraph.
 
 (D) The amount in the fund for each eligible veteran who received a payment of an educational assistance allowance described in subparagraph (B) of this paragraph shall be restored to the amount that would have been in the fund for the veteran if the payment had not been made. For purposes of carrying out the previous sentence, the Secretary of Defense shall deposit into the fund, on behalf of each such veteran, an amount equal to the entire amount of the payment made to the veteran.
 
@@ -46,7 +46,7 @@
 
 (2) No payment may be paid under this chapter to an individual for any month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
 
-(3) The entitlement of an eligible veteran pursuing a program of education described in paragraph (1) of this subsection shall be charged at the rate of one month for each amount of educational assistance paid which is equal to themonthly benefit otherwise payable to such veteran (computed on the basis of the formula provided in subsection (a)(2) of this section).
+(3) The entitlement of an eligible veteran pursuing a program of education described in paragraph (1) of this subsection shall be charged at the rate of one month for each amount of educational assistance paid which is equal to the monthly benefit otherwise payable to such veteran (computed on the basis of the formula provided in subsection (a)(2) of this section).
 
 (4) The number of solo flying hours for which an individual may be paid an educational assistance allowance under this subsection may not exceed the minimum number of solo flying hours required by the Federal Aviation Administration for the flight rating or certification which is the goal of the individual's flight training.
 
@@ -134,7 +134,7 @@ Pub. L. 97–35, title XX, §2006, Aug. 13, 1981, 95 Stat. 783, provided that:
 
 "(a) Except as provided in subsection (b), the amendments made by sections 2003 \[amending this section and sections 1641, 1662, 1673, 1681, 1682, and 1780 \[now 3241, 3462, 3473, 3481, 3482, and 3680\] of this title and repealing section 1677 of this title\] and 2005 \[amending this section and sections 1686 \[repealed\], 1737 \[repealed\], and 1798 \[now 3698\] of this title\] shall take effect on October 1, 1981.
 
-"(b) The amendments made by such sections shall not apply to any person receiving educational assistanceunder section 1677 \[now 3477\] of title 38, United States Code, as such section was in effect on August 31, 1981, for the pursuit of a program of education (as defined in section 1652(b) \[now 3452(b)\] of such title) in which such person was enrolled on that date, for as long as such person is continuously thereafter so enrolled and meets the requirements of eligibility for such assistance for the pursuit of such program under the provisions of chapters 34 and 36 of such title, as in effect on that date."
+"(b) The amendments made by such sections shall not apply to any person receiving educational assistance under section 1677 \[now 3477\] of title 38, United States Code, as such section was in effect on August 31, 1981, for the pursuit of a program of education (as defined in section 1652(b) \[now 3452(b)\] of such title) in which such person was enrolled on that date, for as long as such person is continuously thereafter so enrolled and meets the requirements of eligibility for such assistance for the pursuit of such program under the provisions of chapters 34 and 36 of such title, as in effect on that date."
 
 #### Effective Date of 1980 Amendment
 

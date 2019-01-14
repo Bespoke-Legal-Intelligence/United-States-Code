@@ -156,7 +156,7 @@ Annual reporting.—Except as provided in subparagraph (C), each year, beginning
 
 &emsp;&emsp;&emsp;"(bb) by which the quantitative and qualitative progress of the agency toward the goals of the FDCCI can be measured;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) a timeline for agency activities to be completed under the FDCCI, with an emphasis on benchmarks the agency can achieve by specific dates;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) a timeline for agency activities to be completed under the FDCCI, with an emphasison benchmarks the agency can achieve by specific dates;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) year-by-year calculations of investment and cost savings for the period beginning on the date of the enactment of this Act and ending on the date set forth in subsection (e), broken down by each year, including a description of any initial costs for data center consolidation and optimization and life cycle cost savings and other improvements, with an emphasis on—
 
@@ -168,7 +168,7 @@ Annual reporting.—Except as provided in subparagraph (C), each year, beginning
 
 &emsp;&emsp;"(B)
 
-Use of other reporting structures.—The Administrator may require a covered agency to include the information required to be submittedunder this subsection through reporting structures determined by the Administrator to be appropriate.
+Use of other reporting structures.—The Administrator may require a covered agency to include the information required to be submitted under this subsection through reporting structures determined by the Administrator to be appropriate.
 
 &emsp;&emsp;"(C)
 
@@ -364,7 +364,7 @@ Purposes.—The purposes of this Act \[see Tables for classification\] are the f
 
 &emsp;"(2) To promote use of the Internet and other information technologies to provide increased opportunities for citizen participation in Government.
 
-&emsp;"(3) To promote interagency collaboration in providing electronic Government services, where this collaboration would improve the service to citizens by integrating related functions, and in the use of internal electronic Government processes, where this collaboration would improve the efficiency and effectiveness of the processes.
+&emsp;"(3) To promote interagency collaboration in providing electronic Government services, where this collaboration would improve the service to citizens by integrating related functions, and in the use of internal electronic Government processes, where thiscollaboration would improve the efficiency and effectiveness of the processes.
 
 &emsp;"(4) To improve the ability of the Government to achieve agency missions and program performance goals.
 

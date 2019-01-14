@@ -50,5 +50,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–566 applicable with regard to compensation paid on the basis of claims for compensation filed on or after July 1, 1977, see section214(c) of Pub. L. 94–566, set out as a note under section 8501 of this title.
+Amendment by Pub. L. 94–566 applicable with regard to compensation paid on the basis of claims for compensation filed on or after July 1, 1977, see section 214(c) of Pub. L. 94–566, set out as a note under section 8501 of this title.
 

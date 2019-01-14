@@ -48,7 +48,7 @@ A State that establishes and operates a nutrition project under this chapter <s
 
 &emsp;&emsp;(L) where feasible, encourages the use of locally grown foods in meal programs and identifies potential partnerships and contracts with local producers and providers of locally grown foods.
 
-(Pub. L. 89–73, title III, §339, as added Pub. L. 106–501, title III, §313, Nov. 13, 2000, 114 Stat. 2252;amended Pub. L. 109–365, title III, §316, Oct. 17, 2006, 120 Stat. 2548; Pub. L. 114–144, §4(i), Apr. 19, 2016, 130 Stat. 339.)
+(Pub. L. 89–73, title III, §339, as added Pub. L. 106–501, title III, §313, Nov. 13, 2000, 114 Stat. 2252; amended Pub. L. 109–365, title III, §316, Oct. 17, 2006, 120 Stat. 2548; Pub. L. 114–144, §4(i), Apr. 19, 2016, 130 Stat. 339.)
 
 #### Codification
 

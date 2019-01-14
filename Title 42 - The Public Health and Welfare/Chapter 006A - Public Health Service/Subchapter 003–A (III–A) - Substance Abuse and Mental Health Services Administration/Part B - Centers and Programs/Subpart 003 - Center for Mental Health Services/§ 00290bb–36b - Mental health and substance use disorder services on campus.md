@@ -30,7 +30,7 @@ The Secretary may not make a grant to an institution of higher education under t
 
 &emsp;(11) Employing appropriately trained staff.
 
-&emsp;(12) Developing and supporting evidence-based and emerging best practices, including afocus on culturally and linguistically appropriate best practices.
+&emsp;(12) Developing and supporting evidence-based and emerging best practices, including a focus on culturally and linguistically appropriate best practices.
 
 #### (c) Eligible grant recipients
 
@@ -210,7 +210,7 @@ Annual conference.—The Secretary shall sponsor an annual conference on mental 
 
 "(f)
 
-Definition.—In this section, the term 'institution of higher education' has the meaning given suchterm in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+Definition.—In this section, the term 'institution of higher education' has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
 "(g)
 

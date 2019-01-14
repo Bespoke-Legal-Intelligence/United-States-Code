@@ -6,7 +6,7 @@ Any State that submits an application in accordance with subsection (b) may esta
 
 #### (b) Application
 
-A State may establish a medicare rural hospital flexibility program described in subsection (c) if the State submits to the Secretary at such time and in such form as the Secretary may require an application containing—
+A State may establish a medicare rural hospital flexibility program described in subsection\(c) if the State submits to the Secretary at such time and in such form as the Secretary may require an application containing—
 
 &emsp;(1) assurances that the State—
 
@@ -56,7 +56,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 &emsp;&emsp;&emsp;(iv) meets such staffing requirements as would apply under section 1395x(e) of this title to a hospital located in a rural area, except that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the facility need not meet hospital standards relating to the number ofhours during a day, or days during a week, in which the facility must be open and fully staffed, except insofar as the facility is required to make available emergency care services as determined under clause (ii) and must have nursing services available on a 24-hour basis, but need not otherwise staff the facility except when an inpatient is present;
+&emsp;&emsp;&emsp;&emsp;(I) the facility need not meet hospital standards relating to the number of hours during a day, or days during a week, in which the facility must be open and fully staffed, except insofar as the facility is required to make available emergency care services as determined under clause (ii) and must have nursing services available on a 24-hour basis, but need not otherwise staff the facility except when an inpatient is present;
 
 &emsp;&emsp;&emsp;&emsp;(II) the facility may provide any services otherwise required to be provided by a full-time, on site dietitian, pharmacist, laboratory technician, medical technologist, and radiological technologist on a part-time, off site basis under arrangements as defined in section 1395x(w)(1) of this title; and
 
@@ -268,7 +268,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (iv) Special consideration of certain applications
 
-&emsp;&emsp;&emsp;In awarding grants to States under subparagraph (A), the Secretary shall give special consideration to applications submitted by States in which veterans make up a high percentage (as determined by the Secretary) of the total population of the State. Such consideration shall be given without regard to the number of veterans of Operation Iraqi Freedom and Operation Enduring Freedom living in the areas in which mental health services and otherhealth care services would be delivered under the application.
+&emsp;&emsp;&emsp;In awarding grants to States under subparagraph (A), the Secretary shall give special consideration to applications submitted by States in which veterans make up a high percentage (as determined by the Secretary) of the total population of the State. Such consideration shall be given without regard to the number of veterans of Operation Iraqi Freedom and Operation Enduring Freedom living in the areas in which mental health services and other health care services would be delivered under the application.
 
 #### (C) Coordination with VA
 
@@ -336,7 +336,7 @@ The Secretary is authorized to waive such provisions of this part and part E as 
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund for making grants to all States under subsection (g), $25,000,000 in each of the fiscal years 1998 through 2002, for making grants to all States under paragraphs (1) and (2) of subsection (g), $35,000,000 in each of fiscal years 2005 through 2008, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, for makinggrants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended.
+There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund for making grants to all States under subsection (g), $25,000,000 in each of the fiscal years 1998 through 2002, for making grants to all States under paragraphs (1) and (2) of subsection (g), $35,000,000 in each of fiscal years 2005 through 2008, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Pub. L. 101–239, title VI, §6003(g)(1)(A), Dec. 19, 1989, 103 Stat. 2145; amended Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, 104 Stat. 1388–44, 1388–45, 1388–53; Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, 108 Stat. 4401–4404; Pub. L. 105–33, title IV, §§4002(f)(1), 4201(a), Aug. 5, 1997, 111 Stat. 329, 369; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(a), title IV, §§401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, 1501A–369, 1501A–370, 1501A–375; Pub. L. 108–173, title I, §101(e)(1), title IV, §405(e)(1), (2), (f), (g)(1), (h), Dec. 8, 2003, 117 Stat. 2150, 2267–2269; Pub. L. 110–275, title I, §121, July 15, 2008, 122 Stat. 2511; Pub. L. 111–148, title III, §3129(a), (b), Mar. 23, 2010, 124 Stat. 426.)
 
@@ -352,7 +352,7 @@ Section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernizat
 
 #### Amendments
 
-<b>2010</b>—Subsec. (g)(3)(A). Pub. L. 111–148, §3129(b)(1), inserted "and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary" before period at end.
+<b>2010</b>—Subsec. (g)(3)(A). Pub. L. 111–148, §3129(b)(1), inserted "and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, andother delivery system reform programs determined appropriate by the Secretary" before period at end.
 
 Subsec. (g)(3)(E). Pub. L. 111–148, §3129(b)(2), substituted ", to offset" for ", and to offset" and inserted "and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary" before period at end.
 
@@ -402,7 +402,7 @@ Subsec. (c)(2)(C), (D). Pub. L. 106–113, §1000(a)(6) \[title IV, §403(c)(2)\
 
 Subsec. (g)(3). Pub. L. 106–113, §1000(a)(6) \[title IV, §409\], added par. (3).
 
-<b>1997</b>—Pub. L. 105–33, §4201(a), amended section catchline and text generally, substituting provisions relatingto medicare rural hospital flexibility program for provisions relating to essential access community hospital program.
+<b>1997</b>—Pub. L. 105–33, §4201(a), amended section catchline and text generally, substituting provisions relating to medicare rural hospital flexibility program for provisions relating to essential access community hospital program.
 
 Subsec. (j). Pub. L. 105–33, §4002(f)(1), substituted "part D" for "part C".
 
@@ -418,7 +418,7 @@ Subsec. (f)(1)(F). Pub. L. 103–432, §102(a)(1), amended subpar. (F) generally
 
 Subsec. (f)(1)(H). Pub. L. 103–432, §102(f), inserted before period at end ", except that in determining whether a facility meets the requirements of this subparagraph, subparagraphs (E) and (F) of that paragraph shall be applied as if any reference to a 'physician' is a reference to a physician as defined in section 1395x(r)(1) of this title".
 
-Subsec. (f)(3). Pub. L. 103–432, §102(c), substituted "because, at the time the facility applies to the State for designation as a rural primary care hospital, there is in effect an agreement between the facility and the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities are used for the furnishing of extended care services, except that the number of beds used for the furnishing of such services may not exceed the total number of licensed inpatient beds at the time the facility applies to the State for such designation (minus the number of inpatient beds used for providing inpatient care pursuant to paragraph (1)(F)). For purposes of the previous sentence, the number of beds of the facility used for the furnishing of extended care services shall not include any beds of a unit of the facility that is licensed as a distinct-part skilled nursing facility at the time the facility applies to the State for designation as a rural primary care hospital." for "because the facility has entered into an agreement with the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities may be used for the furnishing of extended care services."
+Subsec. (f)(3). Pub. L. 103–432, §102(c), substituted "because, at the time the facility applies to the State for designation as a rural primary care hospital, there is in effect an agreement between the facility and the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities are used for the furnishing of extended care services, except that the number of beds used for the furnishing of such services may not exceed the total number of licensed inpatient beds at the time the facility applies to the State for such designation (minus the number of inpatient beds used for providing inpatient care pursuant to paragraph (1)(F)). For purposes of the previous sentence, the number of beds of the facility used for the furnishing of extended care services shall not include any beds of a unit of the facility that is licensed as a distinct-part skilled nursing facility at the time the facility applies to the State for designation as a rural primary care hospital." for "because the facility has entered into an agreement with the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilitiesmay be used for the furnishing of extended care services."
 
 Subsec. (f)(4). Pub. L. 103–432, §102(a)(2), added par. (4).
 
@@ -470,7 +470,7 @@ Amendment by section 4201(a) of Pub. L. 105–33 applicable to services furnishe
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title IV, §4008(d)(4), Nov. 5, 1990, 104 Stat. 1388–45, provided that: "The amendments made by paragraphs (1), (2), and (3) \[amending this section\] shalltake effect on the date of the enactment of this Act \[Nov. 5, 1990\]."
+Pub. L. 101–508, title IV, §4008(d)(4), Nov. 5, 1990, 104 Stat. 1388–45, provided that: "The amendments made by paragraphs (1), (2), and (3) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Demonstration Project on Community Health Integration Models in Certain Rural Counties
 
@@ -600,7 +600,7 @@ Funding.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary shall provide for the transfer, in appropriate part from the FederalHospital Insurance Trust Fund established under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of such Act (42 U.S.C. 1395t), of such sums as are necessary for the costs to the Centers for Medicare \& Medicaid Services of carrying out its duties under the demonstration project under this section.
+In general.—The Secretary shall provide for the transfer, in appropriate part from the Federal Hospital Insurance Trust Fund established under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of such Act (42 U.S.C. 1395t), of such sums as are necessary for the costs to the Centers for Medicare \& Medicaid Services of carrying out its duties under the demonstration project under this section.
 
 &emsp;&emsp;"(B)
 
@@ -640,7 +640,7 @@ Extended care services.—The term 'extended care services' means the following:
 
 &emsp;"(2)
 
-Covered skilled nursing facility services.—The term 'covered skilled nursing facility services' has the meaning given such term in section 1888(e)(2)(A) of the Social Security Act (42 U.S.C. 1395yy(e)(2)(A)).
+Covered skilled nursing facility services.—The term 'covered skilled nursing facility services' has the meaning given such term in section1888(e)(2)(A) of the Social Security Act (42 U.S.C. 1395yy(e)(2)(A)).
 
 &emsp;"(3)
 

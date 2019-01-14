@@ -44,7 +44,7 @@ Section 10101a, added Pub. L. 96–448, title I, §101(a), Oct. 14, 1980, 94 Sta
 
 #### Effective Date
 
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 
 #### Short Title of 2008 Amendment
 
@@ -60,11 +60,11 @@ Pub. L. 109–59, title IV, §4301, Aug. 10, 2005, 119 Stat. 1761, provided that
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–298, §1, Nov. 26, 2002, 116 Stat. 2342, provided that: "This Act \[amending sections 13102, 13506, 14501, and 31138 of this title\] may be cited as the 'Real Interstate Driver Equity Act of 2002'."
+Pub. L. 107–298, §1, Nov. 26, 2002, 116 Stat. 2342, provided that: "This Act \[amending sections 13102, 13506,14501, and 31138 of this title\] may be cited as the 'Real Interstate Driver Equity Act of 2002'."
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–521, §1, Oct. 22, 1986, 100 Stat. 2993, provided that: "This Act \[see Tables for classification\] may becited as the 'Surface Freight Forwarder Deregulation Act of 1986'."
+Pub. L. 99–521, §1, Oct. 22, 1986, 100 Stat. 2993, provided that: "This Act \[see Tables for classification\] may be cited as the 'Surface Freight Forwarder Deregulation Act of 1986'."
 
 #### Short Title of 1982 Amendment
 

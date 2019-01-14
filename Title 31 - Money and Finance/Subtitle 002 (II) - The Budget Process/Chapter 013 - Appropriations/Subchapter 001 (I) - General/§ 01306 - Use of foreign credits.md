@@ -28,7 +28,7 @@ The words "are not available for expenditure by agencies except as provided annu
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–208 reenacted section catchline without change and amended text generally. Prior toamendment, text read as follows: "Foreign credits owed to or owned by the Treasury are not available for expenditure by agencies except as provided annually in general appropriation laws."
+<b>1996</b>—Pub. L. 104–208 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "Foreign credits owed to or owned by the Treasury are not available for expenditure by agencies except as provided annually in general appropriation laws."
 
 #### Effective Date of 1996 Amendment
 

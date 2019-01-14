@@ -24,3 +24,7 @@ A prior section 303 of Pub. L. 88–643, as added Pub. L. 99–335, title V, §5
 
 <b>2012</b>—Subsec. (b)(1). Pub. L. 112–96 substituted "section 8415(e)" for "section 8415(d)".
 
+#### Effective Date
+
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.
+

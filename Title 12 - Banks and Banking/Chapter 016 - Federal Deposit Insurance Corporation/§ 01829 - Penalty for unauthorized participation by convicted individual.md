@@ -36,7 +36,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On motion of the Corporation, the court in which the conviction or the agreementof a person referred to in subparagraph (A) has been entered may grant an exception to the application of paragraph (1) to such person if granting the exception is in the interest of justice.
+&emsp;&emsp;&emsp;On motion of the Corporation, the court in which the conviction or the agreement of a person referred to in subparagraph (A) has been entered may grant an exception to the application of paragraph (1) to such person if granting the exception is in the interest of justice.
 
 #### (ii) Period for filing
 
@@ -44,7 +44,7 @@
 
 #### (b) Penalty
 
-Whoever knowingly violates subsection (a) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
+Whoever knowingly violates subsection (a) shall be fined not more than $1,000,000 for eachday such prohibition is violated or imprisoned for not more than 5 years, or both.
 
 #### (d) <sup>2</sup> Bank holding companies
 

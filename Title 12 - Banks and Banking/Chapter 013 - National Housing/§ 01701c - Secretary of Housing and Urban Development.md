@@ -50,7 +50,7 @@ Subsec. (c)(1). Pub. L. 101–73, §306(b), substituted "of any Federal, State, 
 
 Subsec. (c)(2). Pub. L. 100–242, §570(a)(3), inserted "and" at end.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–479, §202(b)(1), substituted "chapter 51 and subchapter III of chapter 53 of title 5" for "the Classification Act of 1949, as amended".
+<b>1984</b>—Subsec. (a). Pub. L. 98–479, §202(b)(1), substituted "chapter 51 and subchapter III of chapter 53 oftitle 5" for "the Classification Act of 1949, as amended".
 
 Subsec. (c)(1). Pub. L. 98–479, §202(b)(2), substituted "section 5703 of title 5" for "5 U.S.C. 73b–2".
 

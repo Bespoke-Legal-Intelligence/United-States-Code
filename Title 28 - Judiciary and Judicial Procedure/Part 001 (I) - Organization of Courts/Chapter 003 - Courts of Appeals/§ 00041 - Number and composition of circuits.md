@@ -66,7 +66,7 @@ For termination of the United States District Court for the District of the Cana
 
 #### Commission on Structural Alternatives for the Federal Courts of Appeals
 
-Pub. L. 105–119, title III, §305, Nov. 26, 1997, 111 Stat. 2491, established Commission on Structural Alternatives for the Federal Courts of Appeals, directed Commission to study division of United States into judicial circuits, study structure and alignment of Federal Court of Appeals system, and report to President and Congress its recommendations of changes needed to expeditiously and effectively dispose of caseload of Federal Courts of Appeals, consistent with fundamental concepts of fairness and due process, provided for Commission's membership and compensation of members and staff, authorized appropriations, and provided fortermination of Commission 90 days after submission of its report.
+Pub. L. 105–119, title III, §305, Nov. 26, 1997, 111 Stat. 2491, established Commission on Structural Alternatives for the Federal Courts of Appeals, directed Commission to study division of United States into judicial circuits, study structure and alignment of Federal Court of Appeals system, and report to President and Congress its recommendations of changes needed to expeditiously and effectively dispose of caseload of Federal Courts of Appeals, consistent with fundamental concepts of fairness and due process, provided for Commission's membership and compensation of members and staff, authorized appropriations, and provided for termination of Commission 90 days after submission of its report.
 
 #### Assignment of Judges and Procedure for Administration of Pending Cases With Regard to Reorganization of the Fifth Circuit Court of Appeals
 

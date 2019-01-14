@@ -2,25 +2,75 @@
 
 #### (a) Disclosure
 
-In addition to the criteria used in evaluating applications as described in section 3871b(d)(2) of this title, the Secretary shall make publicly available information on projects selected through the competitive process described in section 3871b(d)(1) of this title.
+In addition to the criteria used in evaluating applications as described in section 3871b(e)(2) of this title, the Secretary shall make publicly available information on projects selected through the competitive process described in section 3871b(e)(1) of this title.
 
 #### (b) Reporting
 
-Not later than December 31, 2014, and every two years thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the status of projects funded under the program, including—
+Not later than December 31, 2019, and every two years thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the status of projects funded under the program, including—
 
-&emsp;(1) the number and types of eligible partners and producers participating in the partnership agreements selected;
+&emsp;(1) a summary of—
 
-&emsp;(2) the number of producers receiving assistance;
+&emsp;&emsp;(A) the progress made towards achieving the conservation benefits defined for the projects; and
 
-&emsp;(3) total funding committed to projects, including from Federal and non-Federal resources; and
+&emsp;&emsp;(B) any other related outcomes of the projects;
 
-&emsp;(4) a description of how the funds under section 3871c(b)(2) of this title are being administered, including—
+&emsp;(2) the number and types of eligible partners and producers participating in the partnership agreements selected;
+
+&emsp;(3) the number of producers receiving assistance;
+
+&emsp;(4) total funding committed to projects, including from Federal and non-Federal resources;
+
+&emsp;(5) a description of how the funds under section 3871c(d) of this title are being administered, including—
 
 &emsp;&emsp;(A) any oversight mechanisms that the Secretary has implemented;
 
 &emsp;&emsp;(B) the process through which the Secretary is resolving appeals by program participants; and
 
-&emsp;&emsp;(C) the means by which the Secretary is tracking adherence to any applicable provisions for payment eligibility.
+&emsp;&emsp;(C) the means by which the Secretary is tracking adherence to any applicable provisions for payment eligibility; and
 
-(Pub. L. 99–198, title XII, §1271E, as added Pub. L. 113–79, title II, §2401, Feb. 7, 2014, 128 Stat. 749.)
+&emsp;(6) in the case of a project within a critical conservation area under section 3871f of this title, the status of each priority resource concern for each designated critical conservation area, including—
+
+&emsp;&emsp;(A) the priority resource concerns for which each critical conservation area is designated;
+
+&emsp;&emsp;(B) conservation goals and outcomes sufficient to demonstrate that progress is being made to address the priority resource concerns;
+
+&emsp;&emsp;(C) the partnership agreements selected to address each conservation goal and outcome; and
+
+&emsp;&emsp;(D) the extent to which each conservation goal and outcome is being addressed by the partnership agreements.
+
+#### (c) Compliance with certain requirements
+
+The Secretary may not provide assistance under the program to a producer unless the producer agrees, during the program year for which the assistance is provided—
+
+&emsp;(1) to comply with applicable conservation requirements under subchapter II; and
+
+&emsp;(2) to comply with applicable wetland protection requirements under subchapter III.
+
+#### (d) Historically underserved producers
+
+To the maximum extent practicable, in carrying out the program, the Secretary and eligible partners shall conduct outreach to beginning farmers and ranchers, veteran farmers and ranchers, socially disadvantaged farmers and ranchers, and limited resource farmers and ranchers to encourage participation by those producers in a project subject to a partnership agreement or funding agreement under 3871c(d) <sup>1</sup> of this title.
+
+#### (e) Regulations
+
+The Secretary shall issue regulations to carry out the program.
+
+(Pub. L. 99–198, title XII, §1271E, as added Pub. L. 113–79, title II, §2401, Feb. 7, 2014, 128 Stat. 749; amended Pub. L. 115–334, title II, §2706, Dec. 20, 2018, 132 Stat. 4599.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–334, §2706(1), which directed amendment of subsec. (a) by substituting "3871b(e)" for "3871b(d)" wherever appearing, was executed by substituting "3871(e)(2)" for "3871b(d)(2)" and "3871(e)(1)" for "3871b(d)(1)".
+
+Subsec. (b). Pub. L. 115–334, §2706(2)(A), substituted "December 31, 2019" for "December 31, 2014" in introductory provisions.
+
+Subsec. (b)(1) to (3). Pub. L. 115–334, §2706(2)(B), (C), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. Former par. (3) redesignated (4).
+
+Subsec. (b)(4). Pub. L. 115–334, §2706(2)(B), (D), redesignated par. (3) as (4) and struck out "and" at end. Former par. (4) redesignated (5).
+
+Subsec. (b)(5). Pub. L. 115–334, §2706(2)(B), (E), redesignated par. (4) as (5) and substituted "3871c(d)" for "3871c(b)(2)" in introductory provisions and "; and" for period at end.
+
+Subsec. (b)(6). Pub. L. 115–334, §2706(2)(F), added par. (6).
+
+Subsecs. (c) to (e). Pub. L. 115–334, §2706(3), added subsecs. (c) to (e).
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

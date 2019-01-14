@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) The Secretary of Defense shall carry out four surveys in accordance with this section to identify and assess racial and ethnic issues and discrimination, and to identify and assess gender issues and discrimination, among members of the armed forces. Each such survey shall be conducted so as to identify and assess the extent (if any) of activity among such members that may be seen as so-called "hate group" activity.
+In General.—(1) The Secretary of Defense shall carry out four surveys in accordance with this section to identify and assess racial and ethnic issues and discrimination, and to identify and assess gender issues and discrimination,among members of the armed forces. Each such survey shall be conducted so as to identify and assess the extent (if any) of activity among such members that may be seen as so-called "hate group" activity.
 
 (2) The four surveys shall be as follows:
 

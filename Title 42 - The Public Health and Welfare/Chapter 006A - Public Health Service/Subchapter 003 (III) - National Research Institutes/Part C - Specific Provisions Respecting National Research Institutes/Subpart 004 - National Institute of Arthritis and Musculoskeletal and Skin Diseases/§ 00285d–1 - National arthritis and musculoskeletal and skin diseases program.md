@@ -26,7 +26,7 @@ The Director of the Institute shall carry out the national arthritis and musculo
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–43, §701(b)(1), inserted after second sentence "The plan shall place particular emphasis upon expanding research into better understanding the causes and the development of effective treatments for arthritis affecting children."
+<b>1993</b>—Subsec. (a). Pub. L. 103–43, §701(b)(1), inserted after second sentence "The plan shall place particularemphasis upon expanding research into better understanding the causes and the development of effective treatments for arthritis affecting children."
 
 Subsec. (b)(5). Pub. L. 103–43, §701(b)(2), added par. (5).
 

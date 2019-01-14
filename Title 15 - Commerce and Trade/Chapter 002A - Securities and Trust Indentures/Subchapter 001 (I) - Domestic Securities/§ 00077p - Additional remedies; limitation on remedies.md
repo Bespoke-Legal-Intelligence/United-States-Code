@@ -6,7 +6,7 @@ Except as provided in subsection (b), the rights and remedies provided by this s
 
 #### (b) Class action limitations
 
-No covered class action based upon the statutory or common law of any State or subdivision thereof may be maintained in any State or Federal court by any private party alleging—
+No covered class action based upon the statutory or common law of any State or subdivisionthereof may be maintained in any State or Federal court by any private party alleging—
 
 &emsp;(1) an untrue statement or omission of a material fact in connection with the purchase or sale of a covered security; or
 
@@ -48,7 +48,7 @@ Any covered class action brought in any State court involving a covered security
 
 #### (3) Actions under contractual agreements between issuers and indenture trustees
 
-&emsp;Notwithstanding subsection (b) or (c), a covered class action that seeks to enforce a contractual agreement between an issuer and anindenture trustee may be maintained in a State or Federal court by a party to the agreement or a successor to such party.
+&emsp;Notwithstanding subsection (b) or (c), a covered class action that seeks to enforce a contractual agreement between an issuer and an indenture trustee may be maintained in a State or Federal court by a party to the agreement or a successor to such party.
 
 #### (4) Remand of removed actions
 

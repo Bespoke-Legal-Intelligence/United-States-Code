@@ -6,7 +6,7 @@ The Secretary shall make competitive grants to, or enter into contracts or coope
 
 #### (b) Required activities
 
-Funds received under this section shall be used to support activities to improve servicesprovided under this chapter, including the practices of professionals and others involved in providing such services to children with disabilities, that promote academic achievement and improve results for children with disabilities through—
+Funds received under this section shall be used to support activities to improve services provided under this chapter, including the practices of professionals and others involved in providing such services to children with disabilities, that promote academic achievement and improve results for children with disabilities through—
 
 &emsp;(1) implementing effective strategies for addressing inappropriate behavior of students with disabilities in schools, including strategies to prevent children with emotional and behavioral problems from developing emotional disturbances that require the provision of special education and related services;
 
@@ -66,7 +66,7 @@ In carrying out this section, the Secretary shall support projects that link Sta
 
 #### (1) In general
 
-&emsp;An eligible entity that wishes to receive a grant, or enter into a contract or cooperativeagreement, under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;An eligible entity that wishes to receive a grant, or enter into a contract or cooperative agreement, under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (2) Standards
 

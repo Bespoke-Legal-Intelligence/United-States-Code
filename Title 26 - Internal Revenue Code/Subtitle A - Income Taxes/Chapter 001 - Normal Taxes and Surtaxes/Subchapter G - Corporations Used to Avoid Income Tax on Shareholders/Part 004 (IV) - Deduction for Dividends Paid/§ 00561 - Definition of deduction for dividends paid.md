@@ -12,7 +12,7 @@ The deduction for dividends paid shall be the sum of—
 
 #### (b) Special rules applicable
 
-In determining the deduction for dividends paid, the rules provided in section 562 (relating to rules applicable in determining dividends eligible for dividends paid deduction) and section 563 (relating to dividends paid after the close of the taxable year) shall be applicable.
+In determining the deduction for dividends paid, the rules provided in section 562 (relatingto rules applicable in determining dividends eligible for dividends paid deduction) and section 563 (relating to dividends paid after the close of the taxable year) shall be applicable.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 198; Pub. L. 87–403, §3(f), Feb. 2, 1962, 76 Stat. 8; Pub. L. 94–455, title XIX, §1901(b)(32)(H), Oct. 4, 1976, 90 Stat. 1800.)
 

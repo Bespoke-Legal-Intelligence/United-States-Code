@@ -62,7 +62,7 @@ Relation to Other Accession Bonus Authority.—A person may not receive an affil
 
 (g)
 
-Repayment.—A person who enters into an agreement under this section and receives all or part of the bonus under the agreement, but who does not accept a commission or an appointment as an officer or does not commence to participate or does not satisfactorily participate in the Selected Reserve for the total period of service specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title.
+Repayment.—A person who enters into an agreement under this section and receives all or part of the bonus under the agreement, but who does not accept a commission or an appointment as an officer or does not commence to participate or does not satisfactorily participate in the Selected Reserve for the total period of servicespecified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (Added Pub. L. 108–375, div. A, title VI, §619(a), Oct. 28, 2004, 118 Stat. 1950; amended Pub. L. 109–163, div. A, title VI, §634(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3300; Pub. L. 109–364, div. A, title X, §1071(c)(4), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 112–239, div. A, title VI, §616, Jan. 2, 2013, 126 Stat. 1777.)
 

@@ -16,7 +16,7 @@ In this subchapter—
 
 &emsp;&emsp;(B) is deemed eligible by designated judges;
 
-&emsp;(3) the term "court-ordered assisted outpatient treatment" means a program throughwhich a court may order a treatment plan for an eligible patient that—
+&emsp;(3) the term "court-ordered assisted outpatient treatment" means a program through which a court may order a treatment plan for an eligible patient that—
 
 &emsp;&emsp;(A) requires such patient to obtain outpatient mental health treatment while the patient is not currently residing in a correctional facility or inpatient treatment facility; and
 

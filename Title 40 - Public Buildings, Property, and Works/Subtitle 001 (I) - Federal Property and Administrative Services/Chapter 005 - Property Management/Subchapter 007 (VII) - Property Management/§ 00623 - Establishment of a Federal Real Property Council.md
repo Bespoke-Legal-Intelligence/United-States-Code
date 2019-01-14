@@ -90,7 +90,7 @@ Duties.—The Council, in consultation with the Director and the Administrator, 
 
 &emsp;&emsp;(A) a list of the remaining excess property that is real property, surplus property that is real property, and underutilized property of each Federal agency;
 
-&emsp;&emsp;(B) the progress of the Council toward developing guidance for Federal agencies toensure that the assessment required under section 524(a)(11)(B) is carried out in a uniform manner;
+&emsp;&emsp;(B) the progress of the Council toward developing guidance for Federal agencies to ensure that the assessment required under section 524(a)(11)(B) is carried out in a uniform manner;
 
 &emsp;&emsp;(C) the progress of Federal agencies toward achieving the goals established under section 524(a)(7);
 

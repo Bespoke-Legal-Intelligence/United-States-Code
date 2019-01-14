@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) the amounts subject to restitution submitted to the probation officer;
 
-&emsp;&emsp;(iii) the opportunity of the victim to submit information to the probation officer concerning the amount of the victim's losses;
+&emsp;&emsp;(iii) the opportunity of the victim to submit information to the probation officerconcerning the amount of the victim's losses;
 
 &emsp;&emsp;(iv) the scheduled date, time, and place of the sentencing hearing;
 
@@ -36,7 +36,7 @@
 
 (e) Any dispute as to the proper amount or type of restitution shall be resolved by the court by the preponderance of the evidence. The burden of demonstrating the amount of the loss sustained by a victim as a result of the offense shall be on the attorney for the Government. The burden of demonstrating the financial resources of the defendant and the financial needs of the defendant's dependents, shall be on the defendant. The burden of demonstrating such other matters as the court deems appropriate shall be upon the party designated by the court as justice requires.
 
-(f)(1)(A) In each order of restitution, the court shall order restitution to each victim in the fullamount of each victim's losses as determined by the court and without consideration of the economic circumstances of the defendant.
+(f)(1)(A) In each order of restitution, the court shall order restitution to each victim in the full amount of each victim's losses as determined by the court and without consideration of the economic circumstances of the defendant.
 
 (B) In no case shall the fact that a victim has received or is entitled to receive compensation with respect to a loss from insurance or any other source be considered in determining the amount of restitution.
 

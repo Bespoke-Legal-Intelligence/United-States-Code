@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is in the Department a Chemical Facility Anti-Terrorism Standards Program.
+&emsp;There is in the Department a Chemical Facility Anti-Terrorism Standards Program, which shall be located in the Cybersecurity and Infrastructure Security Agency.
 
 #### (2) Requirements
 
@@ -34,7 +34,7 @@
 
 #### (2) Employee input
 
-&emsp;To the greatest extent practicable, a facility's security vulnerability assessment and site security plan shall include input from at least 1 facility employee and, where applicable, 1 employee representative from the bargaining agent at that facility, each of whom possesses,in the determination of the facility's security officer, relevant knowledge, experience, training, or education as pertains to matters of site security.
+&emsp;To the greatest extent practicable, a facility's security vulnerability assessment and site security plan shall include input from at least 1 facility employee and, where applicable, 1 employee representative from the bargaining agent at that facility, each of whom possesses, in the determination of the facility's security officer, relevant knowledge, experience, training, or education as pertains to matters of site security.
 
 #### (c) Approval or disapproval of site security plans
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;&emsp;(III) the owner or operator has provided an explanation of how the site security plan meets the risk-based performance standards for any material deviation;
 
-&emsp;&emsp;&emsp;(iv) the owner or operator has visited, examined, documented, and verified thatthe expedited approval facility meets the criteria set forth in the site security plan;
+&emsp;&emsp;&emsp;(iv) the owner or operator has visited, examined, documented, and verified that the expedited approval facility meets the criteria set forth in the site security plan;
 
 &emsp;&emsp;&emsp;(v) the expedited approval facility has implemented all of the required performance measures outlined in the site security plan or set out planned measures that will be implemented within a reasonable time period stated in the site security plan;
 
@@ -498,11 +498,15 @@
 
 &emsp;&emsp;(F) any other information that the Secretary determines will be helpful to Congress in evaluating the performance of the Chemical Facility Anti-Terrorism Standards Program.
 
-(Pub. L. 107–296, title XXI, §2102, as added Pub. L. 113–254, §2(a), Dec. 18, 2014, 128 Stat. 2900.)
+(Pub. L. 107–296, title XXI, §2102, as added Pub. L. 113–254, §2(a), Dec. 18, 2014, 128 Stat. 2900; amended Pub. L. 115–278, §2(g)(8)(A), Nov. 16, 2018, 132 Stat. 4180.)
 
 #### Termination of Section
 
 <i>For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.</i>
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–278 inserted before period at end ", which shall be located in the Cybersecurity and Infrastructure Security Agency".
 
 #### Effective and Termination Dates
 

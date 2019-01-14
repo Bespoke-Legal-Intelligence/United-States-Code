@@ -30,7 +30,7 @@ Except as provided in subsection (b), effective beginning on the date that is 3 
 
 &emsp;&emsp;&emsp;(II) for which tenants do not provide energy consumption information to the commercial building owner in response to a request from the building owner.
 
-&emsp;&emsp;(ii) A Federal agency that is a tenant of the space shall provide to the building owner, or authorize the owner to obtain from the utility, the energy consumption information of the space for the benchmarking and disclosure required by this subparagraph.
+&emsp;&emsp;(ii) A Federal agency that is a tenant of the space shall provide to the buildingowner, or authorize the owner to obtain from the utility, the energy consumption information of the space for the benchmarking and disclosure required by this subparagraph.
 
 #### (c) Revision of Federal Acquisition Regulation
 
@@ -40,7 +40,7 @@ Except as provided in subsection (b), effective beginning on the date that is 3 
 
 #### (2) Consultation
 
-&emsp;The members of the Federal Acquisition Regulatory Council established under section1302(a) of title 41 shall consult with the Federal Director and the Commercial Director before promulgating regulations to carry out this subsection.
+&emsp;The members of the Federal Acquisition Regulatory Council established under section 1302(a) of title 41 shall consult with the Federal Director and the Commercial Director before promulgating regulations to carry out this subsection.
 
 (Pub. L. 110–140, title IV, §435, Dec. 19, 2007, 121 Stat. 1615; Pub. L. 114–11, title III, §301(a), Apr. 30, 2015, 129 Stat. 189.)
 

@@ -16,7 +16,7 @@ For purposes of this section:
 
 &emsp;The term "qualified former spouse" means a former spouse of an employee or retired employee who—
 
-&emsp;&emsp;(A) in the case of a former spouse whose divorce from such employee became final on or before December 4, 1991, was married to such employee for not less than 10 years during periods of the employee's service which are creditable under section 8411 of title 5, atleast 5 years of which were spent outside the United States by both the employee and the former spouse during the employee's service with the Agency; and
+&emsp;&emsp;(A) in the case of a former spouse whose divorce from such employee became final on or before December 4, 1991, was married to such employee for not less than 10 years during periods of the employee's service which are creditable under section 8411 of title 5, at least 5 years of which were spent outside the United States by both the employee and the former spouse during the employee's service with the Agency; and
 
 &emsp;&emsp;(B) in the case of a former spouse whose divorce from such employee becomes final after December 4, 1991, was married to such employee for not less than 10 years during periods of the employee's service which are creditable under section 8411 of title 5, at least 5 years of which were spent by the employee outside the United States during the employee's service with the Agency or otherwise in a position the duties of which qualified the employee for designation by the Director under the criteria prescribed in section 2013 of this title.
 
@@ -92,7 +92,7 @@ For purposes of this section:
 
 #### (B) Reduction in basic pay upon recall to service
 
-&emsp;&emsp;If a retired employee whose annuity is reduced under paragraph (1) is recalled to service under section 2152(c) of this title, the basic pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the creditof the Civil Service Retirement and Disability Fund.
+&emsp;&emsp;If a retired employee whose annuity is reduced under paragraph (1) is recalled to service under section 2152(c) of this title, the basic pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund.
 
 #### (6) Special rules for disability annuitants
 
@@ -257,6 +257,10 @@ A prior section 304 of Pub. L. 88–643, as added Pub. L. 99–335, title V, §5
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
+
+#### Effective Date
+
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be title "5".</i>
 

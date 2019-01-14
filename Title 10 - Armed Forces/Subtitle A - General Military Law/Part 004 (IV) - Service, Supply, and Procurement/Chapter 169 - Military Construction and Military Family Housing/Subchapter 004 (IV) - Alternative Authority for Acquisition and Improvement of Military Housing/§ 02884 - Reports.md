@@ -34,7 +34,7 @@ Project Reports.—(1) The Secretary of Defense shall transmit to the appropriat
 
 &emsp;(ii) assess the extent and likelihood, if any, of the liability of the United States with respect to the guarantee.
 
-(4) The report shall be submitted in an electronic medium pursuant to section 480 of thistitle not later than 21 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease.
+(4) The report shall be submitted in an electronic medium pursuant to section 480 of this title not later than 21 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease.
 
 (b)
 
@@ -92,7 +92,7 @@ Subsec. (b)(1). Pub. L. 111–383, §1075(h)(6), made technical correction to di
 
 Subsec. (b)(8). Pub. L. 110–417, §2805(f), added par. (8).
 
-<b>2006</b>—Subsec. (a)(2)(D). Pub. L. 109–163, §2806(c)(1), inserted before period ", including a description of thespecific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, conveyance, or lease".
+<b>2006</b>—Subsec. (a)(2)(D). Pub. L. 109–163, §2806(c)(1), inserted before period ", including a description of the specific construction, acquisition, or improvement projects from which funds were transferred to the Funds established under section 2883 of this title in order to finance the contract, conveyance, or lease".
 
 Subsec. (b)(1). Pub. L. 109–163, §2806(c)(2)(B), (C), substituted "covering each of the Funds" for "covering the Funds" and inserted before period at end ", including a description of the specific construction, acquisition, or improvement projects from which funds were transferred and the privatization projects or contracts to which those funds were transferred. Each report shall also include, for each military department or defense agency, a description of all funds to be transferred to such Funds for the current fiscal year and the next fiscal year".
 

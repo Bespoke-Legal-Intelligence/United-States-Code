@@ -14,7 +14,7 @@ The Secretary is authorized to make grants to, or enter into contracts with, ins
 
 &emsp;(3) the establishment and continuation of institutions, programs, consortia, collaborations, and other joint efforts based on communications technology, including those efforts that utilize distance education and technological advancements to educate and train postsecondary students (including health professionals serving medically underserved populations);
 
-&emsp;(4) the carrying out, in postsecondary educational institutions, of changes in internal structure and operations designed to clarify institutional priorities and purposes;
+&emsp;(4) the carrying out, in postsecondary educational institutions, of changes in internalstructure and operations designed to clarify institutional priorities and purposes;
 
 &emsp;(5) the design and introduction of cost-effective methods of instruction and operation;
 
@@ -84,7 +84,7 @@ The Secretary is authorized to make planning grants to institutions of higher ed
 
 #### (e) Priority
 
-In making grants under this part to any institution of higher education after August 14, 2008, the Secretary may give priority to institutions that meet or exceed the most current version of ASHRAE/IES Standard 90.1 (as such term is used in section 6313(a)(6) of title 42) for any new facilities construction or major renovation of the institution after such date, except that this subsection shall not apply with respect to barns or greenhouses or similar structures owned by the institution.
+In making grants under this part to any institution of higher education after August 14, 2008, the Secretary may give priority to institutions that meet or exceed the most current version of ASHRAE/IES Standard 90.1 (as such term is used in section 6313(a)(6) of title 42) for any new facilities construction or major renovation of the institution after such date, except that this subsection shall not apply with respect to barns orgreenhouses or similar structures owned by the institution.
 
 #### (f) Scholarship program for family members of veterans or members of the military
 
@@ -140,7 +140,7 @@ In making grants under this part to any institution of higher education after Au
 
 #### (5) Amounts for scholarships
 
-&emsp;All of the amounts appropriated to carry out this subsection for a fiscal year shall be usedfor scholarships awarded under this subsection, except that the nonprofit organization receiving a contract under this subsection may use not more than one percent of such amounts for the administrative costs of the contract.
+&emsp;All of the amounts appropriated to carry out this subsection for a fiscal year shall be used for scholarships awarded under this subsection, except that the nonprofit organization receiving a contract under this subsection may use not more than one percent of such amounts for the administrative costs of the contract.
 
 (Pub. L. 89–329, title VII, §741, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1796; amended Pub. L. 110–315, title VII, §707(a)–(e), Aug. 14, 2008, 122 Stat. 3356–3358.)
 

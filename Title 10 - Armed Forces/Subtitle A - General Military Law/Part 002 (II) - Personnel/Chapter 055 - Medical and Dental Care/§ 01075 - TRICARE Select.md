@@ -34,7 +34,7 @@ Cost-sharing Requirements.—The cost-sharing requirements under TRICARE Select 
 
 &emsp;(B) Beneficiaries described in this subparagraph are beneficiaries who are eligible to enroll in the TRICARE program by reason of being a member or former member of the uniformed services who originally enlists or is appointed in the uniformed services before January 1, 2018, or by reason of being a dependent of such a member.
 
-&emsp;(3) With respect to beneficiaries in the reserve and young adult category, the cost-sharing requirements shall be calculated pursuant to subsection (d)(1) as if the beneficiary were in the active-duty family member category or the retired category, as applicable, except that the premiums calculated pursuant to section 1076d, 1076e, or 1110b of this title, as the case may be, shall apply instead of any enrollment fee required under this section.
+&emsp;(3) With respect to beneficiaries in the reserve and young adult category, the cost-sharing requirements shall be calculated pursuant to subsection (d)(1) as if the beneficiary were in the active-duty family member category or the retired category, as applicable, except thatthe premiums calculated pursuant to section 1076d, 1076e, or 1110b of this title, as the case may be, shall apply instead of any enrollment fee required under this section.
 
 (d)
 
@@ -90,7 +90,7 @@ Exceptions to Certain Cost-sharing Amounts for Certain Beneficiaries Eligible Pr
 
 (3) The enrollment fee established pursuant to paragraph (1) and the catastrophic cap adjusted under paragraph (2) for beneficiaries described in subsection (c)(2)(B) in the retired category shall not apply with respect to the following beneficiaries:
 
-&emsp;(A) Retired members and the family members of such members covered by paragraph (1) of section 1086(c) of this title by reason of being retired under chapter 61 of this title or being a dependent of such a member.
+&emsp;(A) Retired members and the family members of such members covered by paragraph (1)of section 1086(c) of this title by reason of being retired under chapter 61 of this title or being a dependent of such a member.
 
 &emsp;(B) Survivors covered by paragraph (2) of such section 1086(c).
 

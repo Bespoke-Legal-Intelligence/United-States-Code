@@ -8,7 +8,7 @@ If a participant dies and no claim for an annuity is payable under this subchapt
 
 #### (1) In general
 
-&emsp;If a participant dies before separation or retirement from the Agency and is survived by a spouse or by a former spouse qualifying for a survivor annuity under section 2032(b) of this title, such surviving spouse shall be entitled to an annuity equal to 55 percent of the annuity computed in accordance with paragraphs (2) and (3) of this subsection and section 2031(a) of this title, and any such surviving former spouse shall be entitled to an annuity computed in accordance with section 2032(b) of this title and paragraph (2) of this subsection as if the participant died after being entitled to an annuity under this subchapter. The annuity of such surviving spouse or former spouse shall commence on the day after the participant dies and shall terminate on the last day of the month before the death or remarriage before attaining age 55 of the surviving spouse or former spouse (subject to the payment and restoration provisions of sections 2031(b)(3)(C), 2031(h), and 2032(b)(3) of this title).
+&emsp;If a participant dies before separation or retirement from the Agency and is survived by a spouse or by a former spouse qualifying for a survivor annuity under section 2032(b) of this title, such surviving spouse shall be entitled to an annuity equal to 55 percent of the annuity computed in accordance with paragraphs (2) and (3) of this subsection and section 2031(a) of this title, and any such surviving former spouse shall be entitled to an annuity computed in accordance with section 2032(b) of this title and paragraph (2) of this subsection as if the participant died after being entitled to an annuity under this subchapter. The annuity of such surviving spouse or former spouse shall commence on the day after the participant dies and shall terminate on thelast day of the month before the death or remarriage before attaining age 55 of the surviving spouse or former spouse (subject to the payment and restoration provisions of sections 2031(b)(3)(C), 2031(h), and 2032(b)(3) of this title).
 
 #### (2) Computation
 
@@ -57,4 +57,8 @@ A prior section 232 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048;
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
+
+#### Effective Date
+
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.
 

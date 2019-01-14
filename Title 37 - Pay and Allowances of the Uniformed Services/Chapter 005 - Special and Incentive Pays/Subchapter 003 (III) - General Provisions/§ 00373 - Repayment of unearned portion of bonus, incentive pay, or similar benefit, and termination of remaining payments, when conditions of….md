@@ -2,7 +2,7 @@
 
 (a)
 
-Repayment and Termination.—Except as provided in subsection (b), a member of the uniformed services who is paid a bonus, incentive pay, or similar benefit, the receipt of which is contingent upon the member's satisfaction of certain service or eligibility requirements, shall repay to the United States any unearned portion of the bonus, incentive pay, or similar benefit if the member fails to satisfy any such service or eligibility requirement, and the member may not receive any unpaid amounts of the bonus, incentive pay, or similar benefit after the member fails to satisfy such service or eligibility requirement.
+Repayment and Termination.—Except as provided in subsection (b), a member of the uniformed services who is paid a bonus, incentive pay, or similar benefit, the receipt of which is contingent upon the member's satisfaction of certain service or eligibility requirements, shall repay to the United States any unearned portionof the bonus, incentive pay, or similar benefit if the member fails to satisfy any such service or eligibility requirement, and the member may not receive any unpaid amounts of the bonus, incentive pay, or similar benefit after the member fails to satisfy such service or eligibility requirement.
 
 (b)
 
@@ -34,7 +34,7 @@ Special rule for members who receive sole survivorship discharge.—(A) If a mem
 
 &emsp;&emsp;(i) shall not require repayment by the member of the unearned portion of any bonus, incentive pay, or similar benefit previously paid to the member; and
 
-&emsp;&emsp;(ii) may grant an exception to the requirement to terminate the payment of any unpaid amounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that termination of the paymentof the unpaid amounts would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
+&emsp;&emsp;(ii) may grant an exception to the requirement to terminate the payment of any unpaid amounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that termination of the payment of the unpaid amounts would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
 
 &emsp;(B) In this paragraph, the term "sole survivorship discharge" means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
 

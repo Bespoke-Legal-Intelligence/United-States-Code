@@ -116,7 +116,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 #### (A) Rents and royalties derived in active business
 
-&emsp;&emsp;Foreign personal holding company income shall not include rents and royalties which are derived in the active conduct of a trade or business and which are received from a person other than a related person (within the meaning of subsection (d)(3)). For purposes of the preceding sentence, rents derived from leasing an aircraft or vessel inforeign commerce shall not fail to be treated as derived in the active conduct of a trade or business if, as determined under regulations prescribed by the Secretary, the active leasing expenses are not less than 10 percent of the profit on the lease.
+&emsp;&emsp;Foreign personal holding company income shall not include rents and royalties whichare derived in the active conduct of a trade or business and which are received from a person other than a related person (within the meaning of subsection (d)(3)). For purposes of the preceding sentence, rents derived from leasing an aircraft or vessel in foreign commerce shall not fail to be treated as derived in the active conduct of a trade or business if, as determined under regulations prescribed by the Secretary, the active leasing expenses are not less than 10 percent of the profit on the lease.
 
 #### (B) Certain export financing
 
@@ -222,7 +222,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 &emsp;&emsp;(B) such person is a corporation, partnership, trust, or estate which is controlled by the same person or persons which control the controlled foreign corporation.
 
-> &emsp;For purposes of the preceding sentence, control means, with respect to a corporation, the ownership, directly or indirectly, of stock possessing more than 50 percent of the total voting power of all classes of stock entitled to vote or of the total value of stock of such corporation. In the case of a partnership, trust, orestate, control means the ownership, directly or indirectly, of more than 50 percent (by value) of the beneficial interests in such partnership, trust, or estate. For purposes of this paragraph, rules similar to the rules of section 958 shall apply.
+> &emsp;For purposes of the preceding sentence, control means, with respect to a corporation, the ownership, directly or indirectly, of stock possessing more than 50 percent of the total voting power of all classes of stock entitled to vote or of the total value of stock of such corporation. In the case of a partnership, trust, or estate, control means the ownership, directly or indirectly, of more than 50 percent (by value) of the beneficial interests in such partnership, trust, or estate. For purposes of this paragraph, rules similar to the rules of section 958 shall apply.
 
 #### (4) Special rule for certain timber products
 
@@ -310,7 +310,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 #### (B) Limitation on nonbanking and nonsecurities businesses
 
-&emsp;&emsp;No income of an eligible controlled foreign corporation not described in clause (ii) or (iii) of paragraph (2)(B) (or of a qualified business unit of such corporation) shall be treated as qualified banking or financing income unless more than 30 percent of suchcorporation's or unit's gross income is derived directly from the active and regular conduct of a lending or finance business from transactions with customers which are not related persons and which are located within such corporation's or unit's home country.
+&emsp;&emsp;No income of an eligible controlled foreign corporation not described in clause (ii) or\(iii) of paragraph (2)(B) (or of a qualified business unit of such corporation) shall be treated as qualified banking or financing income unless more than 30 percent of such corporation's or unit's gross income is derived directly from the active and regular conduct of a lending or finance business from transactions with customers which are not related persons and which are located within such corporation's or unit's home country.
 
 #### (C) Substantial activity requirement for cross border income
 
@@ -394,7 +394,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 &emsp;For purposes of applying this subsection and subsection (c)(2)(C)(ii)—
 
-&emsp;&emsp;(A) there shall be disregarded any item of income, gain, loss, or deduction with respect to any transaction or series of transactions one of the principal purposes of which is qualifying income or gain for the exclusion under this section, including any transaction or series of transactions a principal purpose of which is the acceleration or deferral of any item in order to claim the benefits of such exclusion through the application of this subsection,
+&emsp;&emsp;(A) there shall be disregarded any item of income, gain, loss, or deduction with respect to any transaction or series of transactions one of the principal purposes of which is qualifying income or gain for the exclusionunder this section, including any transaction or series of transactions a principal purpose of which is the acceleration or deferral of any item in order to claim the benefits of such exclusion through the application of this subsection,
 
 &emsp;&emsp;(B) there shall be disregarded any item of income, gain, loss, or deduction of an entity which is not engaged in regular and continuous transactions with customers which are not related persons,
 
@@ -462,11 +462,11 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 #### (ii) Ruling request, etc.
 
-&emsp;&emsp;&emsp;The amount of the reserve under clause (i) shall be the foreign statement reserve for the contract (less any catastrophe, deficiency, equalization, or similar reserves), if, pursuant to a ruling request submitted by the taxpayer or as provided in published guidance, the Secretary determines that the factors taken into account in determining the foreign statement reserve provide an appropriate means of measuring income.
+&emsp;&emsp;&emsp;The amount of the reserve under clause (i) shall be the foreign statement reserve for the contract (less any catastrophe, deficiency, equalization, or similar reserves), if, pursuant to a ruling request submitted by the taxpayer or as provided in published guidance, the Secretary determines thatthe factors taken into account in determining the foreign statement reserve provide an appropriate means of measuring income.
 
 #### (C) Limitation on reserves
 
-&emsp;&emsp;In no event shall the reserve determined under this paragraph for any contract as ofany time exceed the amount which would be taken into account with respect to such contract as of such time in determining foreign statement reserves (less any catastrophe, deficiency, equalization, or similar reserves).
+&emsp;&emsp;In no event shall the reserve determined under this paragraph for any contract as of any time exceed the amount which would be taken into account with respect to such contract as of such time in determining foreign statement reserves (less any catastrophe, deficiency, equalization, or similar reserves).
 
 #### (5) Amount of reserve
 
@@ -594,7 +594,7 @@ Subsec. (e)(2)(C). Pub. L. 105–277, §4003(j), substituted "(h)(9)" for "(h)(8
 
 Pub. L. 105–277, §1005(d), struck out subpar. (C) which read as follows: "in the case of taxable years described in subsection (h)(9), the active conduct by a controlled foreign corporation of a banking, financing, insurance, or similar business, but only if the corporation is predominantly engaged in the active conduct of such business (within the meaning of subsection (h)(3)) or is a qualifying insurance company."
 
-Subsec. (h). Pub. L. 105–277, §1005(a), amended heading and text of subsec. (h) generally. Prior to amendment, text consisted of pars. (1) to (9) relating to special rule for income derived in active conduct of banking, financing, or similar businesses, principles for determining applicable income, meaning of "predominantly engaged" for purposes of the special rule, methods of determining unearned premiums and reserves, definitions of certain terms for purposes of subsec. (h), anti-abuserules, coordination with section 953 of this title, and taxable year applicability of subsec. (h).
+Subsec. (h). Pub. L. 105–277, §1005(a), amended heading and text of subsec. (h) generally. Prior to amendment, text consisted of pars. (1) to (9) relating to special rule for income derived in active conduct of banking, financing, or similar businesses, principles for determining applicable income, meaning of "predominantly engaged" for purposes of the special rule, methods of determining unearned premiums and reserves, definitions of certain terms for purposes of subsec. (h), anti-abuse rules, coordination with section 953 of this title, and taxable year applicability of subsec. (h).
 
 Subsec. (i). Pub. L. 105–277, §1005(b)(2), added subsec. (i).
 
@@ -658,7 +658,7 @@ Subsec. (b)(5). Pub. L. 99–514, §1201(c), inserted at end "Except to the exte
 
 Subsec. (c). Pub. L. 99–514, §1221(a)(1), amended subsec. (c) generally, substituting pars. (1) to (3) for former provisions which had provided: in par. (1), a reference to definition of "foreign personal holding company income" contained in section 553; in par. (2), that all rents would be included in "foreign personal holding company income" without regard to whether or not such rents constituted 50 percent or more of gross income; in par. (3), for exclusion of certain income derived in active conduct of a trade or business; and in par. (4), exclusion of certain income received from related persons from being included in "foreign personal holding company income". See subsec. (c)(3).
 
-Subsec. (d)(3). Pub. L. 99–514, §1221(e), added subpars. (A) and (B) and concluding provisions and struck out former subpars. (A) to (C) and concluding provisions which read as follows:
+Subsec. (d)(3). Pub. L. 99–514, §1221(e), added subpars. (A) and (B) and concluding provisions and struck outformer subpars. (A) to (C) and concluding provisions which read as follows:
 
 &emsp;"(A) such person is an individual, partnership, trust, or estate which controls the controlled foreign corporation;
 
@@ -734,7 +734,7 @@ Amendment by section 14211(a), (b)(2), (3) of Pub. L. 115–97 applicable to tax
 
 Amendment by section 128(b) of Pub. L. 114–113 applicable to taxable years of foreign corporations beginning after Dec. 31, 2014, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends, see section 128(c) of Pub. L. 114–113, set out as a note under section 953 of this title.
 
-Pub. L. 114–113, div. Q, title I, §144(b), Dec. 18, 2015, 129 Stat. 3065, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 2014, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end."
+Pub. L. 114–113, div. Q, title I, §144(b), Dec. 18, 2015, 129 Stat. 3065, provided that: "The amendment made bythis section \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 2014, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end."
 
 #### Effective Date of 2014 Amendment
 

@@ -56,6 +56,12 @@ The plan of reorganization, with an estimate of the expenses of the same, was co
 
 "Wm. H. Taft."&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–271, title VIII, §8001, Oct. 24, 2018, 132 Stat. 4073, provided that: "This subtitle \[subtitle A (§§8001–8009) of title VIII of Pub. L. 115–271, enacting sections 1436a and 1583a of this title, amending sections 58c, 1415, and 1436 of this title, and enacting provisions set out as notes under sections 58c, 1415, and 1436 of this title\] may be cited as the 'Synthetics Trafficking and Overdose Prevention Act of 2018' or 'STOP Act of 2018'."
+
+Pub. L. 115–239, §1(a), Sept. 13, 2018, 132 Stat. 2451, provided that: "This Act \[amending section 58c of this title and the Harmonized Tariff Schedule of the United States, which is not set out in the Code, and enacting provisions set out as a note under section 58c of this title\] may be cited as the 'Miscellaneous Tariff Bill Act of 2018'."
+
 #### Short Title of 2010 Amendment
 
 Pub. L. 111–227, §1(a), Aug. 11, 2010, 124 Stat. 2409, provided that: "This Act \[amending section 58c of this title and enacting provisions set out as notes under section 58c of this title and section 6655 of Title 26, Internal Revenue Code\] may be cited as the 'United States Manufacturing Enhancement Act of 2010'."
@@ -120,7 +126,7 @@ This results in a net reduction of more than 50 separate principal field offices
 
 At the headquarters level, four new offices will be established to replace seven divisions. A new position of special assistant to the Commissioner will be created and charged with responsibility for insuring that all Customs employees conduct themselves in strict compliance with all applicable laws and regulations. Up to now this function has been one of a number lodged with an existing division.
 
-After investigation I have found and hereby declare that each reorganization included in ReorganizationPlan No. 1 of 1965 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
+After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 1 of 1965 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
 
 It should be emphasized that abolition by Reorganization Plan No. 1 of 1965 of the offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise will in no way prejudice any right of any person affected by the laws administered by the Bureau of Customs. The rights of importers and others, for example, before the Customs Court, arising out of the administration of such functions will remain unaffected. In addition it should be emphasized that all essential services to the importing, exporting, and traveling public will continue to be performed.
 

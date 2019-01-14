@@ -10,7 +10,7 @@
 
 (e) Where the recovery of a payment or overpayment made from the National Service Life Insurance Fund or United States Government Life Insurance Fund is waived under this section, the fund from which the payment was made shall be reimbursed from the National Service Life Insurance appropriation or the military and naval insurance appropriation, as applicable.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1230, §3102; Pub. L. 92–328, title II, §202(a), June 30, 1972, 86 Stat. 396; Pub. L. 96–466, title VI, §605(c)(3), Oct.17, 1980, 94 Stat. 2211; Pub. L. 97–306, title IV, §407(a), Oct. 14, 1982, 96 Stat. 1445; Pub. L. 99–576, title VII, §701(69), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 101–237, title III, §311, Dec. 18, 1989, 103 Stat. 2075; renumbered §5302, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §5, June 13, 1991, 105 Stat. 268; Pub. L. 102–83, §§4(a)(1), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–547, §12, Oct. 28, 1992, 106 Stat. 3645; Pub. L. 105–33, title VIII, §8033(b), Aug. 5, 1997, 111 Stat. 669.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1230, §3102; Pub. L. 92–328, title II, §202(a), June 30, 1972, 86 Stat. 396; Pub. L. 96–466, title VI, §605(c)(3), Oct. 17, 1980, 94 Stat. 2211; Pub. L. 97–306, title IV, §407(a), Oct. 14, 1982, 96 Stat. 1445; Pub. L. 99–576, title VII, §701(69), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 101–237, title III, §311, Dec. 18, 1989, 103 Stat. 2075; renumbered §5302, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §5, June 13, 1991, 105 Stat. 268; Pub. L. 102–83, §§4(a)(1), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–547, §12, Oct. 28, 1992, 106 Stat. 3645; Pub. L. 105–33, title VIII, §8033(b), Aug. 5, 1997, 111 Stat. 669.)
 
 #### Amendments
 
@@ -38,7 +38,7 @@ Subsec. (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary's" for 
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–237, §311(1), substituted "shall, except as provided in subsection (c) of this section," for "may".
 
-Subsec. (c). Pub. L. 101–237, §311(2), substituted "The recovery of any payment or the collection of any indebtedness (or any interest thereon) may not be waived under this section" for "The Administrator may not exercise the Administrator's authority under subsection (a) or (b) of this section to waive recovery of any payment or the collection of any indebtedness (or any interest thereon)" and substituted "or bad faith" for ", material fault, or lack of good faith".
+Subsec. (c). Pub. L. 101–237, §311(2), substituted "The recovery of any payment or the collection of any indebtedness (or any interest thereon) may not be waived under this section" for "The Administrator may not exercise the Administrator's authority under subsection (a) or (b) of this section to waive recovery of any payment or the collection of any indebtedness (orany interest thereon)" and substituted "or bad faith" for ", material fault, or lack of good faith".
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–576, §701(69)(A), substituted "the veteran's" for "his" before "spouse".
 

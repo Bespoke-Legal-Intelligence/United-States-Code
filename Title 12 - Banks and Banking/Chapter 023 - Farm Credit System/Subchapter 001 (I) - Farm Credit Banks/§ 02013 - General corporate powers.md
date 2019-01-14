@@ -82,7 +82,7 @@ Each Farm Credit Bank shall be a body corporate and, subject to regulation by th
 
 #### Prior Provisions
 
-A prior section 2013, Pub. L. 92–181, title I, §1.5, Dec. 10, 1971, 85 Stat. 585; Pub. L. 96–592, title I, §102, Dec. 24,1980, 94 Stat. 3437; Pub. L. 99–205, title II, §205(d)(2), (3), title VI, §601, Dec. 23, 1985, 99 Stat. 1703, 1711; Pub. L. 100–233, title VIII, §802(c), Jan. 6, 1988, 101 Stat. 1710, related to land bank stock, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
+A prior section 2013, Pub. L. 92–181, title I, §1.5, Dec. 10, 1971, 85 Stat. 585; Pub. L. 96–592, title I, §102, Dec. 24, 1980, 94 Stat. 3437; Pub. L. 99–205, title II, §205(d)(2), (3), title VI, §601, Dec. 23, 1985, 99 Stat. 1703, 1711; Pub. L. 100–233, title VIII, §802(c), Jan. 6, 1988, 101 Stat. 1710, related to land bank stock, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
 #### Amendments
 

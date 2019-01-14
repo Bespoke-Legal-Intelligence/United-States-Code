@@ -44,6 +44,18 @@ Pub. L. 107–207, §1, Aug. 5, 2002, 116 Stat. 926, provided that: "This Act \[
 
 Pub. L. 104–199, §1, Sept. 21, 1996, 110 Stat. 2419, provided that: "This Act \[enacting section 7 of this title and section 1738C of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Defense of Marriage Act'."
 
+#### References in Pub. L. 115–245
+
+Pub. L. 115–245, §3, Sept. 28, 2018, 132 Stat. 2981, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019 and Continuing Appropriations Act, 2019, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+
+#### References in Pub. L. 115–244
+
+Pub. L. 115–244, §3, Sept. 21, 2018, 132 Stat. 2897, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Energy and Water, Legislative Branch, and Military Construction and Veterans Affairs Appropriations Act, 2019, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+
+#### References in Pub. L. 115–141
+
+Pub. L. 115–141, §3, Mar. 23, 2018, 132 Stat. 350, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Consolidated Appropriations Act, 2018, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+
 #### References in Pub. L. 115–56
 
 Pub. L. 115–56, §3, Sept. 8, 2017, 131 Stat. 1129, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Continuing Appropriations Act, 2018 and Supplemental Appropriations for Disaster Relief Requirements Act, 2017, see Tables for classification\] shall be treated as referring only to the provisions of that division."
@@ -86,7 +98,7 @@ Pub. L. 112–55, §3, Nov. 18, 2011, 125 Stat. 552, provided that: "Except as e
 
 #### References in Pub. L. 112–10
 
-Pub. L. 112–10, div. A, title IX, §9015, Apr. 15, 2011, 125 Stat. 102, provided that: "Any reference to 'this Act' inthis division \[Department of Defense Appropriations Act, 2011, see Tables for classification\] shall apply solely to this division."
+Pub. L. 112–10, div. A, title IX, §9015, Apr. 15, 2011, 125 Stat. 102, provided that: "Any reference to 'this Act' in this division \[Department of Defense Appropriations Act, 2011, see Tables for classification\] shall apply solely to this division."
 
 #### References in Pub. L. 111–118
 

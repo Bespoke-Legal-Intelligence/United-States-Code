@@ -42,15 +42,15 @@ The Under Secretary shall—
 
 &emsp;The Under Secretary shall perform such other functions and duties as may be required by law or prescribed by the Secretary.
 
-#### (e) Research, Education, and Extension Office
+#### (e) Office of the Chief Scientist
 
 #### (1) Establishment
 
-&emsp;The Under Secretary shall organize within the office of the Under Secretary 6 Divisions, to be known collectively as the "Research, Education, and Extension Office", which shall coordinate the research programs and activities of the Department.
+&emsp;The Under Secretary shall organize within the office of the Under Secretary 6 Divisions, to be known collectively as the "Office of the Chief Scientist", which shall coordinate the research programs and activities of the Department.
 
 #### (2) Division designations
 
-&emsp;The Divisions within the Research, Education, and Extension Office shall be as follows:
+&emsp;The Divisions within the Office of the Chief Scientist shall be as follows:
 
 &emsp;&emsp;(A) Renewable energy, natural resources, and environment.
 
@@ -96,7 +96,7 @@ The Under Secretary shall—
 
 #### (C) Term of service
 
-&emsp;&emsp;Notwithstanding title 5, the maximum length of service for an individual selected as a Division Chief under subparagraph (A) shall not exceed 4 years.
+&emsp;&emsp;Notwithstanding title 5, the maximum length of service for an individual selected as a Division Chief under clauses (i) and (iii) of subparagraph (A) shall be for not less than 3 years.
 
 #### (D) Qualifications
 
@@ -122,11 +122,31 @@ The Under Secretary shall—
 
 &emsp;&emsp;&emsp;(vi) perform such other duties as the Under Secretary may determine.
 
-#### (4) General administration
+#### (4) Additional leadership duties
+
+&emsp;In addition to selecting the Division Chiefs under paragraph (3), using available personnel authority under title 5, the Under Secretary shall select personnel—
+
+&emsp;&emsp;(A) to oversee implementation, training, and compliance with the scientific integrity policy of the Department;
+
+&emsp;&emsp;(B)(i) to integrate strategic program planning and evaluation functions across the programs of the Department; and
+
+&emsp;&emsp;(ii) to help prepare the annual report to Congress on the relevance and adequacy of programs under the jurisdiction of the Under Secretary;
+
+&emsp;&emsp;(C) to assist the Chief Scientist in coordinating the international engagements of the Department with the Department of State and other international agencies and offices of the Federal Government; and
+
+&emsp;&emsp;(D) to oversee other duties as may be required by Federal law or Department policy.
+
+#### (5) General administration
 
 #### (A) Funding
 
-&emsp;&emsp;Notwithstanding any Act making appropriations for the Department of Agriculture, whether enacted before, on, or after the date of enactment of this paragraph unless the appropriation Act specifically refers to this subsection and specifically includes the administration of funds under this section, the Secretary may transfer funds made available to an agency in the research, education, and economics mission area to fund the costs of Division personnel.
+#### (i) Authorization of appropriations
+
+&emsp;&emsp;&emsp;There is authorized to be appropriated such sums as are necessary to fund the costs of Division personnel.
+
+#### (ii) Additional funding
+
+&emsp;&emsp;&emsp;In addition to amounts made available under clause (i), notwithstanding any Act making appropriations for the Department of Agriculture, whether enacted before, on, or after the date of enactment of this paragraph unless the appropriation Act specifically refers to this subsection and specifically includes the administration of funds under this section, the Secretary may transfer funds made available to an agency in the research, education, and economics mission area to fund the costs of Division personnel.
 
 #### (B) Limitation
 
@@ -140,13 +160,15 @@ The Under Secretary shall—
 
 &emsp;&emsp;To the maximum extent practicable, and using the authority described in paragraph (3)(A), the Under Secretary shall rotate personnel among the Divisions, and between the Divisions and agencies of the Department, in a manner that—
 
-&emsp;&emsp;&emsp;(i) promotes leadership and professional development; and
+&emsp;&emsp;&emsp;(i) promotes leadership and professional development;
 
-&emsp;&emsp;&emsp;(ii) enables personnel to interact with other agencies of the Department.
+&emsp;&emsp;&emsp;(ii) enables personnel to interact with other agencies of the Department; and
 
-#### (5) Organization
+&emsp;&emsp;&emsp;(iii) provides strong staff continuity to the Office of the Chief Scientist.
 
-&emsp;The Under Secretary shall integrate leadership functions of the national program staff of the research agencies into the Research, Education and Extension Office in such form as is required to ensure that administrative duplication does not occur.
+#### (6) Organization
+
+&emsp;The Under Secretary shall integrate leadership functions of the national program staff of the research agencies into the Office of theChief Scientist in such form as is required to ensure that administrative duplication does not occur.
 
 #### (f) National Institute of Food and Agriculture
 
@@ -204,11 +226,11 @@ The Under Secretary shall—
 
 &emsp;&emsp;&emsp;(i) The Agriculture and Food Research Initiative established under section 3157(b) of this title.
 
-&emsp;&emsp;&emsp;(ii) The program providing competitive grants for risk management education established under section 1524(a)(3) of this title.
+&emsp;&emsp;&emsp;(ii) The program providing competitive grants for risk management education established under section 1524(a) of this title.
 
 &emsp;&emsp;&emsp;(iii) The program providing community food project competitive grants established under section 2034 of this title.
 
-&emsp;&emsp;&emsp;(iv) The program providing grants for beginning farmer and rancher development established under section 3319f of this title.
+&emsp;&emsp;&emsp;(iv) The beginning farmer and rancher development grant program established under subsection (d) of section 2279 of this title.
 
 &emsp;&emsp;&emsp;(v) The program providing grants under section 1417(j) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3152(j)).
 
@@ -318,7 +340,7 @@ The Under Secretary shall—
 
 #### (B) Research priorities
 
-&emsp;&emsp;The Director shall ensure the research priorities established by the Under Secretary through the Research, Education and Extension Office are carried out by the offices and functions of the Institute, where applicable.
+&emsp;&emsp;The Director shall ensure the research priorities established by the Under Secretary through the Office of the Chief Scientist are carried out by the offices and functions of the Institute, where applicable.
 
 #### (C) Fundamental and applied research
 
@@ -350,17 +372,17 @@ The Under Secretary shall—
 
 &emsp;&emsp;Funding made available under subparagraph (A) shall be allocated according to recommendations contained in the roadmap described in section 7614a of this title.
 
-(Pub. L. 103–354, title II, §251, Oct. 13, 1994, 108 Stat. 3226; Pub. L. 110–234, title VII, §7511(a), May 22, 2008, 122 Stat. 1259; Pub. L. 110–246, §4(a), title VII, §7511(a), June 18, 2008, 122 Stat. 1664, 2021; Pub. L. 113–79, title VII, §§7111(b)(2), 7212(b), Feb. 7, 2014, 128 Stat. 874, 886.)
+(Pub. L. 103–354, title II, §251, Oct. 13, 1994, 108 Stat. 3226; Pub. L. 110–234, title VII, §7511(a), May 22, 2008, 122 Stat. 1259; Pub. L. 110–246, §4(a), title VII, §7511(a), June 18, 2008, 122 Stat. 1664, 2021; Pub. L. 113–79, title VII, §§7111(b)(2), 7212(b), Feb. 7, 2014, 128 Stat. 874, 886; Pub. L. 115–334, title XI, §11125(b), title XII, §§12301(a)(2)(B), 12411(a), (b)(1), Dec. 20, 2018, 132 Stat. 4936, 4950, 4978, 4979.)
 
 #### References in Text
 
-The date of enactment of this paragraph and the date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (e)(3)(A)(ii), (4)(A), and (f)(1)(C), (D), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+The date of enactment of this paragraph and the date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (e)(3)(A)(ii), (5)(A)(ii), and (f)(1)(C), (D), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 This Act, referred to in subsec. (e)(3)(E), is Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3178, known as the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 The Hatch Act of 1887, referred to in subsec. (f)(1)(C)(iv), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
-The National Agricultural Research, Extension, and Teaching Policy Act of 1977, referred to in subsec.\(f)(1)(C)(vi), is title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Subtitle E of the Act is classified generally to subchapter V (§3191 et seq.) of chapter 64 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The National Agricultural Research, Extension, and Teaching Policy Act of 1977, referred to in subsec. (f)(1)(C)(vi), is title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Subtitle E of the Act is classified generally to subchapter V (§3191 et seq.) of chapter 64 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 Public Law 87–788, referred to in subsec. (f)(1)(C)(xii), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the "McIntire-Stennis Act of 1962" and also as the "McIntire-Stennis Cooperative Forestry Act", which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 
@@ -373,6 +395,30 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section is comprised of section 251 of Pub. L. 103–354. Subsec. (g), formerly (e), of section 251 of Pub. L. 103–354, as redesignated by Pub. L. 110–246, §7511(a)(3), amended section 5314 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e). Pub. L. 115–334, §12411(a)(1), substituted "Office of the Chief Scientist" for "Research, Education, and Extension Office" in heading.
+
+Subsec. (e)(1). Pub. L. 115–334, §12411(a)(2), substituted "Office of the Chief Scientist" for "Research, Education, and Extension Office".
+
+Subsec. (e)(2). Pub. L. 115–334, §12411(a)(3), substituted "Office of the Chief Scientist" for "Research, Education, and Extension Office" in introductory provisions.
+
+Subsec. (e)(3)(C). Pub. L. 115–334, §12411(a)(4), substituted "clauses (i) and (iii) of subparagraph (A) shall be for not less than 3 years" for "subparagraph (A) shall not exceed 4 years".
+
+Subsec. (e)(4). Pub. L. 115–334, §12411(a)(6), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (e)(5). Pub. L. 115–334, §12411(a)(5), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (e)(5)(A). Pub. L. 115–334, §12411(a)(7)(A), designated existing provisions as cl. (ii), inserted heading, substituted "In addition to amounts made available under clause (i), notwithstanding" for "Notwithstanding", and added cl. (i).
+
+Subsec. (e)(5)(C)(iii). Pub. L. 115–334, §12411(a)(7)(B), added cl. (iii).
+
+Subsec. (e)(6). Pub. L. 115–334, §12411(a)(5), (8), redesignated par. (5) as (6) and substituted "Office of the Chief Scientist" for "Research, Education, and Extension Office".
+
+Subsec. (f)(1)(D)(ii). Pub. L. 115–334, §11125(b), substituted "section 1524(a) of this title" for "section 1524(a)(3) of this title".
+
+Subsec. (f)(1)(D)(iv). Pub. L. 115–334, §12301(a)(2)(B), added cl. (iv) and struck out former cl. (iv) which read as follows: "The program providing grants for beginning farmer and rancher development established under section 3319f of this title."
+
+Subsec. (f)(5)(B). Pub. L. 115–334, §12411(b)(1), substituted "Office of the Chief Scientist" for "Research, Education and Extension Office".
 
 <b>2014</b>—Subsec. (f)(1)(C)(vi). Pub. L. 113–79, §7111(b)(2), inserted "except for the competitive grant program under section 1433(b)" before period at end.
 

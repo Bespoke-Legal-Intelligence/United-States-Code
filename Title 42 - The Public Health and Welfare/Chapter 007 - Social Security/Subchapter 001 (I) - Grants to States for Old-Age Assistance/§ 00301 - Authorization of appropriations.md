@@ -38,5 +38,5 @@ Act Aug. 1, 1956, ch. 836, title III, §300, 70 Stat. 846, provided that: "It is
 
 #### Puerto Rico, Guam, and the Virgin Islands
 
-Pub. L. 92–603, title III, §303(b), Oct. 30, 1972, 86 Stat. 1484, provided that: "The amendments made by sections 301 \[enacting sections 1381 to 1383c of this title\] and 302 \[enacting sections 801 to 805 of this title\] and the repeals made by subsection (a) \[repealing this section and sections 302 to 306, 1201 to 1206, and 1351 to 1355 of this title\] shall not be applicable in the case of Puerto Rico, Guam, and the Virgin Islands."
+Pub. L. 92–603, title III, §303(b), Oct. 30, 1972, 86 Stat. 1484, provided that: "The amendments made by sections 301 \[enacting sections 1381 to 1383c of this title\] and 302\[enacting sections 801 to 805 of this title\] and the repeals made by subsection (a) \[repealing this section and sections 302 to 306, 1201 to 1206, and 1351 to 1355 of this title\] shall not be applicable in the case of Puerto Rico, Guam, and the Virgin Islands."
 

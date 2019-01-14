@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If at the end of any calendar year the aggregate of amounts in the Farm Credit InsuranceFund does not exceed the secure base amount, subject to paragraph (3), the premium due from any insured System bank for the calendar year shall be equal to the sum of—
+&emsp;If at the end of any calendar year the aggregate of amounts in the Farm Credit Insurance Fund does not exceed the secure base amount, subject to paragraph (3), the premium due from any insured System bank for the calendar year shall be equal to the sum of—
 
 &emsp;&emsp;(A) the average outstanding insured obligations issued by the bank for the calendar year, after deducting from the obligations the percentages of the guaranteed portions of loans and investments described in paragraph (2), multiplied by 0.0020; and
 
@@ -130,7 +130,7 @@ For the purpose of subsections (a) and (c), the principal outstanding on all loa
 
 &emsp;&emsp;&emsp;(i) subject to subparagraph (D), pay to each insured System bank, in a manner determined by the Corporation, an amount equal to the balance in the Allocated Insurance Reserves Account of the System bank; and
 
-&emsp;&emsp;&emsp;(ii) subject to subparagraphs (C) and (E), pay to each System bank and association holding Financial Assistance Corporation stock a proportionate share, determined by dividing the number of shares of Financial Assistance Corporation stock held by the institution by the total number of shares of Financial Assistance Corporation stock outstanding at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B).
+&emsp;&emsp;&emsp;(ii) subject to subparagraphs (C) and (E), pay to each System bank and association holding Financial Assistance Corporation stock a proportionate share, determined by dividing the number of shares of Financial Assistance Corporation stock held by the institution by the total number of shares of Financial Assistance Corporation stock outstanding at the time of the termination of the Financial Assistance Corporation, of the balance in the AllocatedInsurance Reserves Account established under paragraph (1)(B).
 
 #### (B) Authority to eliminate or reduce payments
 
@@ -182,7 +182,7 @@ Subsec. (d)(1) to (3). Pub. L. 110–246, §5404(d)(3), (4), in pars. (1) to (3)
 
 Subsec. (e)(3). Pub. L. 110–246, §5404(e)(1), substituted "the secure base amount" for "the average secure base amount for the calendar year (as calculated on an average daily balance basis)".
 
-Subsec. (e)(4)(B). Pub. L. 110–246, §5404(e)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "there shall be credited to the Allocated Insurance Reserves Account of each insured System bank an amount that bears the same ratio to the total amount (less any amount credited under subparagraph (A)) as the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by the bank that are in accrual status bears to the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by all insured System banks that are in accrual status (excluding, in each case, the guaranteed portions of loans described in subparagraph (C) or (D) of subsection (a)(1) of this section)."
+Subsec. (e)(4)(B). Pub. L. 110–246, §5404(e)(2), added subpar. (B) and struck out former subpar. (B) whichread as follows: "there shall be credited to the Allocated Insurance Reserves Account of each insured System bank an amount that bears the same ratio to the total amount (less any amount credited under subparagraph (A)) as the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by the bank that are in accrual status bears to the average principal outstanding for the 3-year period ending on the end of the calendar year on loans made by all insured System banks that are in accrual status (excluding, in each case, the guaranteed portions of loans described in subparagraph (C) or (D) of subsection (a)(1) of this section)."
 
 Subsec. (e)(6)(A). Pub. L. 110–246, §5404(e)(3)(A)(i), struck out "beginning more than 8 years after the date on which the aggregate of the amounts in the Farm Credit Insurance Fund exceeds the secure base amount, but not earlier than January 1, 2005" after "calendar year" in introductory provisions.
 
@@ -192,7 +192,7 @@ Subsec. (e)(6)(A)(i). Pub. L. 110–246, §5404(e)(3)(A)(ii), added cl. (i) and 
 
 &emsp;"(II) 20 percent of the balance in the bank's Allocated Insurance Reserves Account on the date of the payment; and".
 
-Subsec. (e)(6)(A)(ii). Pub. L. 110–246, §5404(e)(3)(A)(iii), substituted "subparagraphs (C) and (E)" for "subparagraphs (C), (E), and (F)" and "at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Accountestablished under paragraph (1)(B)." for ", of the lesser of—
+Subsec. (e)(6)(A)(ii). Pub. L. 110–246, §5404(e)(3)(A)(iii), substituted "subparagraphs (C) and (E)" for "subparagraphs (C), (E), and (F)" and "at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B)." for ", of the lesser of—
 
 &emsp;"(I) 20 percent of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B) as of the preceding December 31; or
 
@@ -270,7 +270,7 @@ In General.—The Comptroller General of the United States may investigate, revi
 
 &emsp;&emsp;"(B) the effects of requiring that banks pass along the cost of insurance premiums to owner associations and other financing institutions having a discount relationship with the bank;
 
-&emsp;&emsp;"(C) the effects of requiring owner associations to purchase stock in the district bank, if needed, toprevent a bank from having to return to the Insurance Corporation for financial assistance once the assistance has been given;
+&emsp;&emsp;"(C) the effects of requiring owner associations to purchase stock in the district bank, if needed, to prevent a bank from having to return to the Insurance Corporation for financial assistance once the assistance has been given;
 
 &emsp;&emsp;"(D) the effects of the purchase of stock from funds of the association (through funds obtained from other than the district bank) or allowing the bank to increase the direct line of credit to the association in order to fund the purchase; and
 

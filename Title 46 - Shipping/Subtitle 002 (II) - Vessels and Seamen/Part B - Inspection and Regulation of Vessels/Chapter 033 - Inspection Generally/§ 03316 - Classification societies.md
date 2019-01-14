@@ -1,6 +1,6 @@
 ### §3316. Classification societies
 
-(a) Each department, agency, and instrumentality of the United States Government shallrecognize the American Bureau of Shipping as its agent in classifying vessels owned by the Government and in matters related to classification, as long as the Bureau is maintained as an organization having no capital stock and paying no dividends. The Secretary and the Secretary of Transportation each shall appoint one representative (except when the Secretary is the Secretary of Transportation, in which case the Secretary shall appoint both representatives) who shall represent the Government on the executive committee of the Bureau. The Bureau shall agree that the representatives shall be accepted by it as active members of the committee. The representatives shall serve without compensation, except for necessary traveling expenses.
+(a) Each department, agency, and instrumentality of the United States Government shall recognize the American Bureau of Shipping as its agent in classifying vessels owned by the Government and in matters related to classification, as long as the Bureau is maintained as an organization having no capital stock and paying no dividends. The Secretary and the Secretary of Transportation each shall appoint one representative (except when the Secretary is the Secretary of Transportation, in which case the Secretary shall appoint both representatives) who shall represent the Government on the executive committee of the Bureau. The Bureau shall agree that the representatives shall be accepted by it as active members of the committee. The representatives shall serve without compensation, except for necessary traveling expenses.
 
 (b)(1) The Secretary may delegate to the American Bureau of Shipping or another classification society recognized by the Secretary as meeting acceptable standards for such a society, for a vessel documented or to be documented under chapter 121 of this title, the authority to—
 
@@ -56,7 +56,7 @@
 
 &emsp;(B)(i) the government of the foreign country in which the foreign society is headquartered delegates that authority to the American Bureau of Shipping; or
 
-&emsp;(ii) the Secretary has entered into an agreement with the government of the foreign country in which the foreign society is headquartered that—
+&emsp;(ii) the Secretary has entered into an agreement with the government of the foreigncountry in which the foreign society is headquartered that—
 
 &emsp;&emsp;(I) ensures the government of the foreign country will accept plan review, inspections, or examinations conducted by the American Bureau of Shipping and provide equivalent access to inspect, certify, and provide related services to offshore facilities located in that country or operating under the authority of that country; and
 
@@ -66,7 +66,7 @@
 
 (3) If an inspection or examination is conducted under authority delegated under this subsection, the person to which the authority was delegated—
 
-&emsp;(A) shall maintain in the United States complete files of all information derived from ornecessarily connected with the inspection or examination for at least 2 years after the United States offshore facility ceases to be certified; and
+&emsp;(A) shall maintain in the United States complete files of all information derived from or necessarily connected with the inspection or examination for at least 2 years after the United States offshore facility ceases to be certified; and
 
 &emsp;(B) shall permit access to those files at all reasonable times to any officer, employee, or member of the Coast Guard designated—
 
@@ -94,9 +94,15 @@
 
 &emsp;(C) based on measurable marine casualty and other data, any impacts of the delegations on the operational safety of vessels for which the delegations were made, and on the crew on those vessels.
 
-(g) In this section, the term "state sponsor of terrorism" means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to section 6(j) of the Export Administration Act of 1979 (as continued in effect under the International Emergency Economic Powers Act), section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law.
+(g)(1) There shall be within the Coast Guard an office that conducts comprehensive and targeted oversight of all recognized organizations that act on behalf of the Coast Guard.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 516; Pub. L. 104–324, title VI, §607(a), (b)(1), Oct. 19, 1996, 110 Stat. 3931, 3932; Pub. L. 108–293, title IV, §413(a), Aug. 9, 2004, 118 Stat. 1046; Pub. L. 111–281, title VI, §622, Oct. 15, 2010, 124 Stat. 2978; Pub. L. 112–213, title III, §304, Dec. 20, 2012, 126 Stat. 1563; Pub. L. 113–281, title III, §315, Dec. 18, 2014, 128 Stat. 3050.)
+(2) The staff of the office shall include subject matter experts, including inspectors, investigators, and auditors, who possess the capability and authority to audit all aspects of such recognized organizations.
+
+(3) In this subsection the term "recognized organization" has the meaning given that term in section 2.45–1 of title 46, Code of Federal Regulations, as in effect on the date of the enactment of the Hamm Alert Maritime Safety Act of 2018.
+
+(h) In this section, the term "state sponsor of terrorism" means any country the government of which the Secretary of State has determined has repeatedly provided support for acts of international terrorism pursuant to section 6(j) <sup>1</sup> of the Export Administration Act of 1979 (as continued in effect under the International Emergency Economic Powers Act), section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 516; Pub. L. 104–324, title VI, §607(a), (b)(1), Oct. 19, 1996, 110 Stat. 3931, 3932; Pub. L. 108–293, title IV, §413(a), Aug. 9, 2004, 118 Stat. 1046; Pub. L. 111–281, title VI, §622, Oct. 15, 2010, 124 Stat. 2978; Pub. L. 112–213, title III, §304, Dec. 20, 2012, 126 Stat. 1563; Pub. L. 113–281, title III, §315, Dec. 18, 2014, 128 Stat. 3050; Pub. L. 115–265, title II, §215(a), Oct. 11, 2018, 132 Stat. 3751.)
 
 Historical and Revision Notes
 
@@ -120,15 +126,19 @@ The section requires that a Federal department, agency, or instrumentality recog
 
 The date of the enactment of the Howard Coble Coast Guard and Maritime Transportation Act of 2014, referred to in subsec. (f)(3), is the date of enactment of Pub. L. 113–281, which was approved Dec. 18, 2014.
 
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (g), is classified to section 4605(j) of Title 50, War and National Defense.
+The date of the enactment of the Hamm Alert Maritime Safety Act of 2018, referred to in subsec. (g)(3), is the date of enactment of Pub. L. 115–265, which was approved Oct. 11, 2018.
 
-The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (h), was classified to section 4605(j) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
-Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (g), is classified to section 2371 of Title 22, Foreign Relations and Intercourse.
+The International Emergency Economic Powers Act, referred to in subsec. (h), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-Section 40 of the Arms Export Control Act, referred to in subsec. (g), is classified to section 2780 of Title 22, Foreign Relations and Intercourse.
+Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (h), is classified to section 2371 of Title 22, Foreign Relations and Intercourse.
+
+Section 40 of the Arms Export Control Act, referred to in subsec. (h), is classified to section 2780 of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+<b>2018</b>—Subsecs. (g), (h). Pub. L. 115–265 added subsec. (g) and redesignated former subsec. (g) as (h).
 
 <b>2014</b>—Subsecs. (f), (g). Pub. L. 113–281 added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -171,4 +181,24 @@ Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Deadline for Establishment of Recognized Organization Oversight Office
+
+Pub. L. 115–265, title II, §215(b), Oct. 11, 2018, 132 Stat. 3751, provided that: "The Commandant of the Coast Guard shall establish the office required by the amendment made by subsection (a) \[amending this section\] by not later than 2 years after the date of the enactment of this Act \[Oct. 11, 2018\]."
+
+#### Review of Authorities Delegated to Recognized Organizations for Alternative Compliance Program
+
+Pub. L. 115–265, title II, §219, Oct. 11, 2018, 132 Stat. 3752, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of the enactment of this Act \[Oct. 11, 2018\], the Commandant \[of the Coast Guard\] shall review the authorities that have been delegated to recognized organizations for the alternative compliance program as described in subpart D of part 8 of title 46, Code of Federal Regulations, and, if necessary, revise or establish policies and procedures to ensure those delegated authorities are being conducted in a manner to ensure safe maritime transportation.
+
+"(b)
+
+Briefing.—Not later than 1 year after the date of the enactment of this Act, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on the implementation of subsection (a)."
+
+\[For definition of "recognized organizations" as used in section 219 of Pub. L. 115–265, set out above, see section 203 of Pub. L. 115–265, set out as a note under section 2101 of this title.\]
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ The Secretary, acting through the Assistant Secretary of the Office of Electrici
 
 #### Codification
 
-December 19, 2007, referred to in text, was in the original "enactment" and was translated as meaningthe date of enactment of Pub. L. 110–140 to reflect the probable intent of Congress.
+December 19, 2007, referred to in text, was in the original "enactment" and was translated as meaning the date of enactment of Pub. L. 110–140 to reflect the probable intent of Congress.
 
 #### Effective Date
 

@@ -98,7 +98,7 @@ Pub. L. 101–512, title III, §318 \[title IV, §§401, 402\], Nov. 5, 1990, 10
 
 #### "SEC. 401. SENSE OF CONGRESS.
 
-"It is the sense of the Congress that a recipient (including a nation, individual, group, or organization) of any form of subsidy, aid, or other Federal assistanceunder the Acts amended by this Act \[probably means this section, see Short Title of 1990 Amendment note above\] should, in expending that assistance, purchase American-made equipment and products.
+"It is the sense of the Congress that a recipient (including a nation, individual, group, or organization) of any form of subsidy, aid, or other Federal assistance under the Acts amended by this Act \[probably means this section, see Short Title of 1990 Amendment note above\] should, in expending that assistance, purchase American-made equipment and products.
 
 #### "SEC. 402. NOTICE.
 
@@ -114,5 +114,5 @@ Pub. L. 95–272, title II, §§201–209, May 3, 1978, 92 Stat. 224–226, call
 
 #### Executive Order No. 12275
 
-Ex. Ord. No. 12275, Jan. 16, 1981, 46 F.R. 5857, which established the Design Liaison Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §10, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12275, Jan. 16, 1981, 46 F.R. 5857, which established the Design Liaison Council and provided forits membership, functions, etc., was revoked by Ex. Ord. No. 12379, §10, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

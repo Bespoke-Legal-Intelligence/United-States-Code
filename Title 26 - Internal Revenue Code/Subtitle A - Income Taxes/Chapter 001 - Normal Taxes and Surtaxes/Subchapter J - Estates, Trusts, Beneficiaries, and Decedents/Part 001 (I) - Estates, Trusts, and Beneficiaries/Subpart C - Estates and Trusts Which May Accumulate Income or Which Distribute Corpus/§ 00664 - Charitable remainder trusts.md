@@ -12,7 +12,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 &emsp;(2) Second, as a capital gain to the extent of the capital gain of the trust for the year and the undistributed capital gain of the trust for prior years;
 
-&emsp;(3) Third, as other income to the extent of such income of the trust for the year and suchundistributed income of the trust for prior years; and
+&emsp;(3) Third, as other income to the extent of such income of the trust for the year and such undistributed income of the trust for prior years; and
 
 &emsp;(4) Fourth, as a distribution of trust corpus.
 
@@ -78,7 +78,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 &emsp;&emsp;(A) any contribution is made to a trust which before the contribution is a charitable remainder unitrust, and
 
-&emsp;&emsp;(B) such contribution would (but for this paragraph) result in such trust ceasing to bea charitable unitrust by reason of paragraph (2)(D),
+&emsp;&emsp;(B) such contribution would (but for this paragraph) result in such trust ceasing to be a charitable unitrust by reason of paragraph (2)(D),
 
 > &emsp;such contribution shall be treated as a transfer to a separate trust under regulations prescribed by the Secretary.
 
@@ -138,7 +138,7 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 &emsp;&emsp;(D) each participant who is entitled to a distribution from the plan has the rights described in subparagraphs (A) and (B) of section 409(h)(1),
 
-&emsp;&emsp;(E) such securities are held in a suspense account under the plan to be allocated each year, up to the applicable limitation under paragraph (7) (determined on the basis of fair market value of securities when allocated to participants), after first allocating all other annual additions for the limitation year, up to the limitations under sections 415(c) and (e),<sup>1</sup> and
+&emsp;&emsp;(E) such securities are held in a suspense account under the plan to be allocated each year, up to the applicable limitation under paragraph (7) (determined on the basis of fair market value of securities when allocated to participants), after first allocating all other annual additions for the limitation year, up to the limitation under section 415(c), and
 
 &emsp;&emsp;(F) on termination of the plan, all securities so transferred which are not allocated to plan participants as of such termination are to be transferred to, or for the use of, an organization described in section 170(c).
 
@@ -194,17 +194,15 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 &emsp;&emsp;The Secretary shall adjust annually the $30,000 amount under subparagraph (A)(i) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning October 1, 1993, and any increase under this subparagraph which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
 
-(Added Pub. L. 91–172, title II, §201(e)(1), Dec. 30, 1969, 83 Stat. 562; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title X, §1022(d), July 18, 1984, 98 Stat. 1029; Pub. L. 105–34, title X, §1089(a)(1), (b)(1), (2), (4), title XV, §1530(a), (b), (c)(5), Aug. 5, 1997, 111 Stat. 960, 1075, 1078; Pub. L. 105–206, title VI, §6010(r), July 22, 1998, 112 Stat. 817; Pub. L. 106–554, §1(a)(7) \[title III, §319(7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §632(a)(3)(H), June 7, 2001, 115 Stat. 114; Pub. L. 109–280, title VIII, §868(a), Aug. 17, 2006, 120 Stat. 1025; Pub. L. 109–432, div. A, title IV, §424(a), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 114–113, div. Q, title III, §344(a), Dec. 18, 2015, 129 Stat. 3115.)
+(Added Pub. L. 91–172, title II, §201(e)(1), Dec. 30, 1969, 83 Stat. 562; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title X, §1022(d), July 18, 1984, 98 Stat. 1029; Pub. L. 105–34, title X, §1089(a)(1), (b)(1), (2), (4), title XV, §1530(a), (b), (c)(5), Aug. 5, 1997, 111 Stat. 960, 1075, 1078; Pub. L. 105–206, title VI, §6010(r), July 22, 1998, 112 Stat. 817; Pub. L. 106–554, §1(a)(7) \[title III, §319(7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §632(a)(3)(H), June 7, 2001, 115 Stat. 114; Pub. L. 109–280, title VIII, §868(a), Aug. 17, 2006, 120 Stat. 1025; Pub. L. 109–432, div. A, title IV, §424(a), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 114–113, div. Q, title III, §344(a), Dec. 18, 2015, 129 Stat. 3115; Pub. L. 115–141, div. U, title IV, §401(b)(27), Mar. 23, 2018, 132 Stat. 1203.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
-#### References in Text
-
-Section 415(e) of this title, referred to in subsec. (g)(3)(E), was repealed by Pub. L. 104–188, title I, §1452(a), Aug. 20, 1996, 110 Stat. 1816.
-
 #### Amendments
+
+<b>2018</b>—Subsec. (g)(3)(E). Pub. L. 115–141 substituted "limitation under section 415(c)" for "limitations under sections 415(c) and (e)".
 
 <b>2015</b>—Subsec. (e). Pub. L. 114–113 substituted "of interests" for "for purposes of charitable contribution" in heading and inserted at end of text "In the case of the early termination of a trust which is a charitable remainder unitrust by reason of subsection (d)(3), the valuation of interests in such trust for purposes of this section shall be made under rules similar to the rules of the preceding sentence."
 
@@ -298,5 +296,7 @@ Amendment by Pub. L. 98–369, applicable to transfers after Dec. 31, 1978, see 
 
 Section applicable to transfers in trust made after July 31, 1969, see section 201(g)(5), set out as an Effective Date of 1969 Amendment note under section 170 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Savings Provision
+
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 

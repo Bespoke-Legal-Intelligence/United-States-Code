@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) the disability was continuously rated totally disabling for a period of not less than five years from the date of such veteran's discharge or other release from active duty; or
 
-&emsp;&emsp;(C) the veteran was a former prisoner of war who died after September 30, 1999, andthe disability was continuously rated totally disabling for a period of not less than one year immediately preceding death.
+&emsp;&emsp;(C) the veteran was a former prisoner of war who died after September 30, 1999, and the disability was continuously rated totally disabling for a period of not less than one year immediately preceding death.
 
 (c) Benefits shall not be afforded under this chapter to any individual on account of service as a commissioned officer of the National Oceanic and Atmospheric Administration (or predecessor entity), or of the Regular or Reserve Corps of the Public Health Service, unless such service would have qualified such individual for benefits under title III of the Servicemen's Readjustment Act of 1944.
 

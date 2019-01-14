@@ -36,7 +36,7 @@
 
 &emsp;(2) parcels not exceeding 70 pounds in weight and the maximum size allowed by the Postal Service for fourth class parcel post (known as "Standard Mail (B)"), which are mailed at any such Armed Forces post office; and
 
-&emsp;(3) parcels exceeding 15 pounds but not exceeding 70 pounds in weight and not exceedingthe maximum size allowed by the Postal Service for fourth class parcel post (known as "Standard Mail (B)"), including surface-type official mail, which are mailed at or addressed to any such Armed Forces post office where adequate surface transportation is not available.
+&emsp;(3) parcels exceeding 15 pounds but not exceeding 70 pounds in weight and not exceeding the maximum size allowed by the Postal Service for fourth class parcel post (known as "Standard Mail (B)"), including surface-type official mail, which are mailed at or addressed to any such Armed Forces post office where adequate surface transportation is not available.
 
 (c) Any parcel, other than a parcel mailed at a rate of postage requiring priority of handling and delivery, not exceeding 30 pounds in weight and 60 inches in length and girth combined, which is mailed at or addressed to any Armed Forces post office established under section 406(a) of this title, shall be transported by air on a space available basis on certificated United States air carriers or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title, or on military aircraft, upon payment of a fee for such air transportation in addition to the rate of postage otherwise applicable to such a parcel not transported by air.
 
@@ -56,7 +56,7 @@
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–405, §2(b)(10)(D), struck out concluding provisions which read as follows: "Whenever adequate service by certificated United States air carriers and military aircraft is not available to provide transportation of mail matter by air in accordance with this subsection, the transportation of such mail may be authorized by other than certificated United States air carriers and military aircraft."
+<b>2008</b>—Subsec. (b). Pub. L. 110–405, §2(b)(10)(D), struck out concluding provisions which read as follows:"Whenever adequate service by certificated United States air carriers and military aircraft is not available to provide transportation of mail matter by air in accordance with this subsection, the transportation of such mail may be authorized by other than certificated United States air carriers and military aircraft."
 
 Pub. L. 110–405, §2(b)(10)(A)–(C), substituted "or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title" for "at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49", struck out "at rates not to exceed those so fixed and determined for scheduled United States air carriers" after "military aircraft", and substituted "certificated" for "scheduled" wherever appearing.
 
@@ -130,7 +130,7 @@ Ex. Ord. No. 12556, Apr. 16, 1986, 51 F.R. 13205, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including section 301 of title 3 of the United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Delegation of Functions</i>. The function conferred upon the President by section 3401(a) of title 39 of the United States Code, of designating an area for free mailing privileges, is delegated to the Secretary of Defense.
+Section 1. <i>Delegation of Functions</i>. The function conferred upon the President by section 3401(a) of title 39 of the United States Code, of designating an area forfree mailing privileges, is delegated to the Secretary of Defense.
 
 Sec. 2. <i>Interagency Consultation</i>. In performing the function delegated by this Order, the Secretary of Defense shall consult with the Secretary of State and the United States Postal Service, and with the heads of other Executive agencies as appropriate. The Secretary of Defense shall provide timely notice to the United States Postal Service of any designations or terminations of designations made under this Order.
 

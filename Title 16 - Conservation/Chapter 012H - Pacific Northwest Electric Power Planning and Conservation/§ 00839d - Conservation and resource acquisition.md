@@ -6,7 +6,7 @@
 
 &emsp;(A) loans and grants to consumers for insulation or weatherization, increased system efficiency, and waste energy recovery by direct application,
 
-&emsp;(B) technical and financial assistance to, and other cooperation with, the Administrator's customers and governmental authorities to encourage maximum cost-effective voluntary conservation and the attainment of any cost-effective conservation objectives adopted by individual States or subdivisions thereof,
+&emsp;(B) technical and financial assistance to, and other cooperation with, the Administrator's customers and governmental authorities to encourage maximum cost-effective voluntaryconservation and the attainment of any cost-effective conservation objectives adopted by individual States or subdivisions thereof,
 
 &emsp;(C) aiding the Administrator's customers and governmental authorities in implementing model conservation standards adopted pursuant to section 839b(f) of this title, and
 
@@ -30,7 +30,7 @@
 
 (4) The Administrator shall acquire any non-Federal resources to replace Federal base system resources only in accordance with the provisions of this section. The Administrator shall include in the contracts for the acquisition of any such non-Federal replacement resources provisions which will enable him to ensure that such non-Federal replacement resources are developed and operated in a manner consistent with the considerations specified in section 839b(e)(2) of this title.
 
-(5) Notwithstanding any acquisition of resources pursuant to this section, the Administrator shall not reduce his efforts to achieve conservation and to acquire renewable resources installed by a residential or small commercialconsumer to reduce load, pursuant to subsection (a)(1) of this section.
+(5) Notwithstanding any acquisition of resources pursuant to this section, the Administrator shall not reduce his efforts to achieve conservation and to acquire renewable resources installed by a residential or small commercial consumer to reduce load, pursuant to subsection (a)(1) of this section.
 
 #### (c) Procedure for acquiring major resources, implementing conservation measures, paying or reimbursing investigation and preconstruction expenses, or granting billing credits
 
@@ -80,7 +80,7 @@ The Administrator is authorized to acquire a resource, other than a major resour
 
 #### (e) Effectuation of priorities; use of customers and local entities
 
-(1) In order to effectuate the priority given to conservation measures and renewable resourcesunder this chapter, the Administrator shall, to the maximum extent practicable, make use of his authorities under this chapter to acquire conservation measures and renewable resources, to implement conservation measures, and to provide credits and technical and financial assistance for the development and implementation of such resources and measures (including the funding of, and the securing of debt for, expenses incurred during the investigation and preconstruction of resources, as authorized in subsection (f) of this section).
+(1) In order to effectuate the priority given to conservation measures and renewable resources under this chapter, the Administrator shall, to the maximum extent practicable, make use of his authorities under this chapter to acquire conservation measures and renewable resources, to implement conservation measures, and to provide credits and technical and financial assistance for the development and implementation of such resources and measures (including the funding of, and the securing of debt for, expenses incurred during the investigation and preconstruction of resources, as authorized in subsection (f) of this section).
 
 (2) To the extent conservation measures or acquisition of resources require direct arrangements with consumers, the Administrator shall make maximum practicable use of customers and local entities capable of administering and carrying out such arrangements.
 
@@ -104,7 +104,7 @@ The Administrator is authorized to acquire a resource, other than a major resour
 
 (3) Any agreement under paragraph (1) of this subsection shall provide the Administrator an option to acquire any such resource, including a renewable resource, and shall include such other provisions, as the Administrator deems appropriate, for the Administrator's recovery from such sponsors or any assignee of the sponsors, if such sponsor or assignee continues development of the resource, of any advances made by the Administrator pursuant to such agreement.
 
-(4) The Administrator shall not reimburse any expense incurred by the sponsors (except necessary expenses involved in the liquidation of the resource) after the date of a final denial of application for State siting approval or after the date the Administrator determines that the resource to be inconsistent with the plan or the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title.
+(4) The Administrator shall not reimburse any expense incurred by the sponsors (except necessary expenses involved in the liquidation ofthe resource) after the date of a final denial of application for State siting approval or after the date the Administrator determines that the resource to be inconsistent with the plan or the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title.
 
 #### (g) Environmental impact statements
 
@@ -146,7 +146,7 @@ Contracts for the acquisition of resources and for billing credits for major res
 
 &emsp;(3) insure that the Administrator exercises effective oversight, inspection, audit, and review of all aspects of such construction and operation.
 
-> Such contracts shall contain provisions assuring that the Administrator has the authority to approve all costs of, and proposals for, major modifications in construction, scheduling or operations and to assure that the Administrator is provided with such current information as he deems necessary to evaluate such construction and operation.
+> Such contracts shall contain provisions assuring that the Administrator has the authority to approve all costs of, and proposals for, major modifications in construction, scheduling or operations and to assure that the Administrator isprovided with such current information as he deems necessary to evaluate such construction and operation.
 
 #### (j) Obligations not to be considered general obligations of United States or secured by full faith and credit of United States
 
@@ -164,7 +164,7 @@ In the exercise of his authorities pursuant to this section, the Administrator s
 
 (2) The Administrator is authorized and directed to investigate periodically opportunities for mutually beneficial interregional exchanges of electric power that reduce the need for additional generation or generating capacity in the Pacific Northwest and the regions with which such exchanges may occur. The Council shall take into consideration in formulating a plan such investigations.
 
-(3) After the Administrator submits a report to Congress pursuant to paragraph (5) of thissubsection, the Administrator is authorized to acquire resources consistent with such investigations and consistent with the plan or, if no plan is in effect, with the priorities of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title. Such acquisitions shall be in accordance with the provisions of this subsection.
+(3) After the Administrator submits a report to Congress pursuant to paragraph (5) of this subsection, the Administrator is authorized to acquire resources consistent with such investigations and consistent with the plan or, if no plan is in effect, with the priorities of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title. Such acquisitions shall be in accordance with the provisions of this subsection.
 
 (4) The Administrator shall conduct the investigations and the acquisitions, if any, authorized under this subsection with the assistance of other Federal agencies as may be appropriate.
 

@@ -48,7 +48,7 @@
 
 &emsp;thence north to the mean high-water line on the north shore of the Herring River estuary in the vicinity of its confluence with Wellfleet Harbor;
 
-&emsp;thence following the mean high-water line southwesterly, northwesterly, and northeasterly to the easterly right-of-way line of Chequesset Neck Road at its crossing of Herring River;
+&emsp;thence following the mean high-water line southwesterly, northwesterly, and northeasterly to the easterly right-of-way line ofChequesset Neck Road at its crossing of Herring River;
 
 &emsp;thence following the course of Herring River along the 20-foot contour line of the southeasterly shore thereof to a point near Mill Creek;
 
@@ -68,7 +68,7 @@
 
 &emsp;thence in a general southerly direction along the said easterly right-of-way line of a power transmission line to the Eastham-Wellfleet town line;
 
-&emsp;thence southeasterly for a distance of approximately 5,200 feet to a point due north ofthe intersection of the easterly right-of-way line of Nauset Road with the northerly right-of-way line of Cable Road;
+&emsp;thence southeasterly for a distance of approximately 5,200 feet to a point due north of the intersection of the easterly right-of-way line of Nauset Road with the northerly right-of-way line of Cable Road;
 
 &emsp;thence due south to the intersection of the said easterly right-of-way line of Nauset Road and the said northerly right-of-way line of Cable Road;
 

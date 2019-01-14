@@ -24,7 +24,7 @@ The Commission shall act and advise by affirmative vote of a majority of its mem
 
 #### (e) Consultation between Secretary and Commission
 
-The Secretary or his designee shall from time to time, but at least semiannually, consult withthe Commission with respect to matters relating to the development of the Boston National Historical Park.
+The Secretary or his designee shall from time to time, but at least semiannually, consult with the Commission with respect to matters relating to the development of the Boston National Historical Park.
 
 #### (f) Compensation; payment of expenses
 

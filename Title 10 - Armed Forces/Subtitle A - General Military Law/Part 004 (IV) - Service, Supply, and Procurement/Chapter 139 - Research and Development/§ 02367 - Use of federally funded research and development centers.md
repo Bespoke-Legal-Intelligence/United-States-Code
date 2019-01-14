@@ -96,7 +96,7 @@ Assessment.—Not later than two years after the commencement of the pilot progr
 
 "(g)
 
-Sensitive Information Defined.—In this section, the term 'sensitive information' means confidential commercial, financial, or proprietary information, technical data, contract performance, contract performance evaluation, management, and administration data, or other privileged information owned by othercontractors of the Department of Defense that is exempt from public disclosure under section 552(b)(4) of title 5, United States Code, or which would otherwise be prohibited from disclosure under section 1832 or 1905 of title 18, United States Code."
+Sensitive Information Defined.—In this section, the term 'sensitive information' means confidential commercial, financial, or proprietary information, technical data, contract performance, contract performance evaluation, management, and administration data, or other privileged information owned by other contractors of the Department of Defense that is exempt from public disclosure under section 552(b)(4) of title 5, United States Code, or which would otherwise be prohibited from disclosure under section 1832 or 1905 of title 18, United States Code."
 
 #### GAO Study; Report
 

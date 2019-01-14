@@ -14,10 +14,13 @@
 | [4710\.](%C2%A7%2004710%20-%20Limitations%20on%20tiering%20of%20subcontractors.md) | Limitations on tiering of subcontractors. |
 | [4711\.](%C2%A7%2004711%20-%20Linking%20of%20award%20and%20incentive%20fees%20to%20acquisition%20outcomes.md) | Linking of award and incentive fees to acquisition outcomes. |
 | [4712\.](%C2%A7%2004712%20-%20Enhancement%20of%20contractor%20protection%20from%20reprisal%20for%20disclosure%20of%20certain%20information.md) | Enhancement of contractor protection from reprisal for disclosure of certain information. |
+| [4713\.](%C2%A7%2004713%20-%20Authorities%20relating%20to%20mitigating%20supply%20chain%20risks%20in%20the%20procurement%20of%20covered%20articles.md) | Authorities relating to mitigating supply chain risks in the procurement of covered articles. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–390, title II, §203(b), Dec. 21, 2018, 132 Stat. 5192, added item 4713.
 
 <b>2016</b>—Pub. L. 114–261, §1(a)(3)(B), Dec. 14, 2016, 130 Stat. 1362, added item 4712 and struck out former item 4712 "Pilot program for enhancement of contractor protection from reprisal for disclosure of certain information".
 
@@ -40,3 +43,4 @@
 - [&sect; 04710 - Limitations on tiering of subcontractors](%C2%A7%2004710%20-%20Limitations%20on%20tiering%20of%20subcontractors.md)
 - [&sect; 04711 - Linking of award and incentive fees to acquisition outcomes](%C2%A7%2004711%20-%20Linking%20of%20award%20and%20incentive%20fees%20to%20acquisition%20outcomes.md)
 - [&sect; 04712 - Enhancement of contractor protection from reprisal for disclosure of certain information](%C2%A7%2004712%20-%20Enhancement%20of%20contractor%20protection%20from%20reprisal%20for%20disclosure%20of%20certain%20information.md)
+- [&sect; 04713 - Authorities relating to mitigating supply chain risks in the procurement of covered articles](%C2%A7%2004713%20-%20Authorities%20relating%20to%20mitigating%20supply%20chain%20risks%20in%20the%20procurement%20of%20covered%20articles.md)

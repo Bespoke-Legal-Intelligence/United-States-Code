@@ -8,7 +8,7 @@ The Secretary is authorized to make urban development action grants to cities an
 
 (1) Urban development action grants shall be made only to cities and urban counties which have, in the determination of the Secretary, demonstrated results in providing housing for low- and moderate-income persons and in providing equal opportunity in housing and employment for low- and moderate-income persons and members of minority groups. The Secretary shall issue regulations establishing criteria in accordance with the preceding sentence and setting forth minimum standards for determining the level of economic distress of cities and urban counties for eligibility for such grants. These standards shall take into account factors such as the age of housing; the extent of poverty; the extent of population lag; growth of per capita income; and the extent of unemployment, job lag, or surplus labor. Any city that has a population of less than 50,000 persons and is not the central city of a metropolitan area, and that was eligible for fiscal year 1983 under this paragraph for assistance under this section, shall continue to be eligible for such assistance until the Secretary revises the standards for eligibility for such cities under this paragraph and includes the extent of unemployment, job lag, or labor surplus as a standard of distress for such cities. The Secretary shall make such revision as soon as practicable following November 30, 1983.
 
-(2) A city or urban county which fails to meet the minimum standards established pursuant to paragraph (1) shall be eligible for assistance under this section if it meets the requirements of the first sentence of such paragraph and—
+(2) A city or urban county which fails to meet the minimum standards established pursuant to paragraph (1) shall be eligible for assistanceunder this section if it meets the requirements of the first sentence of such paragraph and—
 
 &emsp;(A) in the case of a city with a population of fifty thousand persons or more or an urban county, contains an area (i) composed of one or more contiguous census tracts, enumeration districts, neighborhood statistics areas, or block groups, as defined by the United States Bureau of the Census, having at least a population of ten thousand persons or 10 per centum of the population of the city or urban county; (ii) in which at least 70 per centum of the residents have incomes below 80 per centum of the median income of the city or urban county; and (iii) in which at least 30 per centum of the residents have incomes below the national poverty level; or
 
@@ -54,7 +54,7 @@ Applications for assistance under this section shall—
 
 &emsp;&emsp;&emsp;(III) providing training to increase the local pool of skilled labor; or
 
-&emsp;&emsp;&emsp;(IV) producing decent housing for low- and moderate-income persons in cases where such housing is in severe shortage in the area of the applicant, except that an application shall be considered to produce housing for low- and moderate-income persons under this clause only if such application proposes that (a) not less than 51 percent of all funds available for the project shall be used for dwelling units and related facilities; and (b) not less than 30 percent of all funds used for dwelling units and related facilities shall be used for dwelling units to be occupied by persons of low and moderate income, or not less than 20 percent of all dwelling units made available to occupancy using such funds shall be occupied by persons of low and moderate income, whichever results in the occupancy of more dwelling units by persons of low and moderate income;
+&emsp;&emsp;&emsp;(IV) producing decent housing for low- and moderate-income persons in caseswhere such housing is in severe shortage in the area of the applicant, except that an application shall be considered to produce housing for low- and moderate-income persons under this clause only if such application proposes that (a) not less than 51 percent of all funds available for the project shall be used for dwelling units and related facilities; and (b) not less than 30 percent of all funds used for dwelling units and related facilities shall be used for dwelling units to be occupied by persons of low and moderate income, or not less than 20 percent of all dwelling units made available to occupancy using such funds shall be occupied by persons of low and moderate income, whichever results in the occupancy of more dwelling units by persons of low and moderate income;
 
 &emsp;&emsp;(vi) the impact of the proposed activities on the fiscal base of the city or urban county and its relation to the amount of grant funds requested;
 
@@ -148,11 +148,11 @@ The Secretary shall, at least on an annual basis, make reviews and audits of rec
 
 #### (4) Appeal of adverse determination
 
-&emsp;Following notice of intent to withhold, deny, or cancel assistance under paragraph (1)or (2), the Secretary shall provide a period of not less than 90 days in which the applicant can appeal to the Secretary the withholding, denial, or cancellation of assistance. Notwithstanding any other provision of this section, nothing in this section or in any legislative history related to the enactment of this section may be construed to permit an inference or conclusion that the policy of the Congress in the urban development action grant program is to facilitate the relocation of businesses from one area to another.
+&emsp;Following notice of intent to withhold, deny, or cancel assistance under paragraph (1) or (2), the Secretary shall provide a period of not less than 90 days in which the applicant can appeal to the Secretary the withholding, denial, or cancellation of assistance. Notwithstanding any other provision of this section, nothing in this section or in any legislative history related to the enactment of this section may be construed to permit an inference or conclusion that the policy of the Congress in the urban development action grant program is to facilitate the relocation of businesses from one area to another.
 
 #### (5) Assistance for individuals adversely affected by prohibited relocations
 
-&emsp;(A) Any amount withdrawn by, recaptured by, or paid to the Secretary due to a violation (or a settlement of an alleged violation) of this subsection (or of any regulation issued or contractual provision entered into to carry out this subsection) by a project with identified intended occupants shall be made available by the Secretary as a grant to the city, county, or community described in subsection (p), from which the operation of an industrial or commercial plant or facility or other business establishment relocated or in which the operation was reduced.
+&emsp;(A) Any amount withdrawn by, recaptured by, or paid to the Secretary due to a violation (or a settlement of an alleged violation) of this subsection (or of any regulation issued or contractual provision entered into to carry out this subsection) by a project with identifiedintended occupants shall be made available by the Secretary as a grant to the city, county, or community described in subsection (p), from which the operation of an industrial or commercial plant or facility or other business establishment relocated or in which the operation was reduced.
 
 &emsp;(B)(i) Any amount made available under this paragraph shall be used by the grantee to assist individuals who were employed by the operation involved prior to the relocation or reduction and whose employment or terms of employment were adversely affected by the relocation or reduction. The assistance shall include job training, job retraining, and job placement.
 
@@ -194,7 +194,7 @@ In the case of any application which identifies any property in accordance with 
 
 (1) For the purposes of this section, the term "city" includes Guam, American Samoa, the Northern Mariana Islands, the Virgin Islands, and Indian tribes. Such term also includes the counties of Kauai, Maui and Hawaii in the State of Hawaii.
 
-(2) The Secretary may not approve a grant to an Indian tribe under this section unless the tribe (A) is located on a reservation, or on former Indian reservations in Oklahoma as determined by the Secretary of the Interior, or inan Alaskan Native Village, and (B) was an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
+(2) The Secretary may not approve a grant to an Indian tribe under this section unless the tribe (A) is located on a reservation, or on former Indian reservations in Oklahoma as determined by the Secretary of the Interior, or in an Alaskan Native Village, and (B) was an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
 
 #### (o) Special provisions for years after 1983
 
@@ -202,7 +202,7 @@ If no amounts are set aside under, or amounts are precluded from being appropria
 
 #### (p) Unincorporated portions of urban counties
 
-An unincorporated portion of an urban county that is approved by the Secretary as an identifiable community for purposes of this section is eligible for a grant under subsection (b)(2) if such portion meets the eligibility requirements contained in the first sentence of subsection (b)(1) and the requirements of subsection (b)(2)(B) (applied to the population of the portion of the urban county) and if it otherwise complies with the provisions of this section.
+An unincorporated portion of an urban county that is approved by the Secretary as an identifiable community for purposes of this section is eligible for a grant under subsection (b)(2) ifsuch portion meets the eligibility requirements contained in the first sentence of subsection (b)(1) and the requirements of subsection (b)(2)(B) (applied to the population of the portion of the urban county) and if it otherwise complies with the provisions of this section.
 
 #### (q) Technical assistance grants
 
@@ -256,7 +256,7 @@ Amendment of subsec. (n)(1) by Pub. L. 99–500 and 99–591 is based on provisi
 
 Subsec. (t). Pub. L. 103–233, §232(c)(1), added subsec. (t).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–242, §501(c), substituted "There are authorized to be appropriated to carry out this section $225,000,000 for fiscal year 1988, and $225,000,000 for fiscal year 1989. Any amount appropriated under this subsection shall remain available until expended." for "Of the total amount approved in appropriation Acts under section 5303 of this title for each of the fiscal years 1982 and 1983, not more than $500,000,000 shall be available for each of the fiscal years 1982 and 1983 for grants under this section. There are authorized to be appropriated to carry out the provisions of this section not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986, and any amount appropriated under this sentence shall remain available until expended."
+<b>1988</b>—Subsec. (a). Pub. L. 100–242, §501(c), substituted "There are authorized to be appropriated to carry out this section $225,000,000 for fiscal year 1988, and $225,000,000 for fiscal year 1989. Any amount appropriated under this subsection shall remain availableuntil expended." for "Of the total amount approved in appropriation Acts under section 5303 of this title for each of the fiscal years 1982 and 1983, not more than $500,000,000 shall be available for each of the fiscal years 1982 and 1983 for grants under this section. There are authorized to be appropriated to carry out the provisions of this section not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986, and any amount appropriated under this sentence shall remain available until expended."
 
 Subsec. (d)(1). Pub. L. 100–242, §515(a), inserted dash before "(A)", indented subpars. (A) and (B), struck out "as the primary criterion," in subpar. (A) and "and" at end of subpar. (B), added subpars. (C) and (D), and struck out former subpar. (C) which read as follows: "at least the following other criteria: demonstrated performance of the city or urban county in housing and community development programs; the extent to which the grant will stimulate economic recovery by leveraging private investment; the number of permanent jobs to be created and their relation to the amount of grant funds requested; the proportion of permanent jobs accessible to lower income persons and minorities, including persons who are unemployed; the impact of the proposed activities on the fiscal base of the city or urban county and its relation to the amount of grant funds requested; the extent to which State or local government funding or special economic incentives have been committed; and the feasibility of accomplishing the proposed activities in a timely fashion within the grant amount available."
 
@@ -500,7 +500,7 @@ Number of units.—The demonstration program shall construct or renovate not les
 
 &emsp;"(2)
 
-Affordability.—Units of varying sizes and costs shall be designed and developed under the demonstration program so that the program provideshousing affordable to families of varying incomes not exceeding 115 percent of the median income for the area in which the new town demonstration area is located, including very low- and low-income families (as such terms are defined in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\]).
+Affordability.—Units of varying sizes and costs shall be designed and developed under the demonstration program so that the program provides housing affordable to families of varying incomes not exceeding 115 percent of the median income for the area in which the new town demonstration area is located, including very low- and low-income families (as such terms are defined in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\]).
 
 &emsp;"(3)
 
@@ -512,7 +512,7 @@ Rental units.—Dwelling units developed under the demonstration program that ar
 
 "(d)
 
-Social Services.—The demonstration program shall provide for appropriate social and supportive services to be made available to residents of housing assisted under the demonstration program and to other residents of the new town demonstration area, which may include rental and homeownership counseling, child care, job placement, educational programs, recreational and health care facilities and programs, and other appropriate services.
+Social Services.—The demonstration program shall provide for appropriate social and supportive services to be made available to residents of housingassisted under the demonstration program and to other residents of the new town demonstration area, which may include rental and homeownership counseling, child care, job placement, educational programs, recreational and health care facilities and programs, and other appropriate services.
 
 "(e)
 
@@ -594,7 +594,7 @@ Terms.—During the period ending upon repayment of the assistance as provided i
 
 &emsp;"(3)
 
-Interest.—Any assistance provided under this section for a building or dwelling unit shall bear interest at a rate equivalent to the rate for the most recently marketable obligations issued by the UnitedStates Treasury have terms of 10 years. The interest on such assistance shall be required to be repaid only upon sale of the building.
+Interest.—Any assistance provided under this section for a building or dwelling unit shall bear interest at a rate equivalent to the rate for the most recently marketable obligations issued by the United States Treasury have terms of 10 years. The interest on such assistance shall be required to be repaid only upon sale of the building.
 
 &emsp;"(4)
 

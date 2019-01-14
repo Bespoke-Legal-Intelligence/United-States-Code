@@ -50,7 +50,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(12) "local child protective services agency" means that agency of the Federal Government, of a State, or of an Indian tribe that has the primary responsibility for child protection on any Indian reservation or within any community in Indian country;
 
-&emsp;(13) "local law enforcement agency" means that Federal, tribal, or State law enforcement agency that has the primary responsibility for the investigation of an instance of alleged child abuse within the portion of Indian country involved;
+&emsp;(13) "local law enforcement agency" means that Federal, tribal, or State law enforcement agency that has the primary responsibility forthe investigation of an instance of alleged child abuse within the portion of Indian country involved;
 
 &emsp;(14) "persons responsible for a child's welfare" means any person who has legal or other recognized duty for the care and safety of a child, including—
 

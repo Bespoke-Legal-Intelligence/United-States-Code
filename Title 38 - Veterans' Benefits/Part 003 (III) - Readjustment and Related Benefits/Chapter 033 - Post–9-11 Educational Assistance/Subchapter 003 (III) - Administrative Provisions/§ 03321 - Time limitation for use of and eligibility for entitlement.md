@@ -22,7 +22,7 @@ Applicability of section 3031 to termination.—Section 3031(f) shall apply with
 
 &emsp;(3)
 
-Determination of last discharge or release.—For purposes of subsection (a), an individual's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service, unless the individual is discharged or released as described in section 3311(b)(2).
+Determination of last discharge or release.—For purposes of subsection (a), an individual's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90days of continuous service, unless the individual is discharged or released as described in section 3311(b)(2).
 
 &emsp;(4)
 

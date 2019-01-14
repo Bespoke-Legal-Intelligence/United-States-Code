@@ -74,13 +74,17 @@ The Secretary, in consultation with appropriate Federal agencies, shall prepare 
 
 &emsp;(2) a description of the specific products and services assisted under this section that were delivered in the prior program year; and
 
-&emsp;(3) an assessment of the extent to which States have effectively coordinated activities assisted under this section with activities authorized under section 15 of the Wagner-Peyser Act \[29 U.S.C. 49l–2\].
+&emsp;(3) an assessment of the extent to which States have effectively coordinated activitiesassisted under this section with activities authorized under section 15 of the Wagner-Peyser Act \[29 U.S.C. 49l–2\].
 
 #### (g) Authorization of appropriations
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2007 through 2012.
 
 (Pub. L. 88–210, title I, §118, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 713; amended Pub. L. 113–128, title V, §512(e)(1), July 22, 2014, 128 Stat. 1706.)
+
+#### Repeal of Section
+
+<i>Pub. L. 115–224, §4, title I, §117, July 31, 2018, 132 Stat. 1564, 1599, provided that, effective July 1, 2019, this section is repealed.</i>
 
 #### References in Text
 
@@ -117,6 +121,10 @@ Section 2336, Pub. L. 88–210, title II, §225, as added Pub. L. 101–392, tit
 #### Amendments
 
 <b>2014</b>—Subsec. (d)(2). Pub. L. 113–128 substituted "Workforce Innovation and Opportunity Act" for "Public Law 105–220" in heading and "functions and activities carried out under the Workforce Innovation and Opportunity Act" for "functions and activities carried out under Public Law 105–220" in text.
+
+#### Effective Date of Repeal
+
+Repeal effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as an Effective Date of 2018 Amendment note under section 2301 of this title.
 
 #### Effective Date of 2014 Amendment
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) annually with respect to each registered public accounting firm that regularly provides audit reports for more than 100 issuers; and
 
-&emsp;&emsp;(B) not less frequently than once every 3 years with respect to each registered publicaccounting firm that regularly provides audit reports for 100 or fewer issuers.
+&emsp;&emsp;(B) not less frequently than once every 3 years with respect to each registered public accounting firm that regularly provides audit reports for 100 or fewer issuers.
 
 #### (2) Adjustments to schedules
 

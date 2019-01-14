@@ -68,7 +68,7 @@ Persons to whom restrictions apply.—(A) Paragraph (1) shall apply to a person 
 
 &emsp;&emsp;(ii) employed in a position which is not referred to in clause (i) and for which that person is paid at a rate of basic pay which is equal to or greater than 86.5 percent of the rate of basic pay for level II of the Executive Schedule, or, for a period of 2 years following the enactment of the National Defense Authorization Act for Fiscal Year 2004, a person who, on the day prior to the enactment of that Act, was employed in a position which is not referred to in clause (i) and for which the rate of basic pay, exclusive of any locality-based pay adjustment under section 5304 or section 5304a of title 5, was equal to or greater than the rate of basic pay payable for level 5 of the Senior Executive Service on the day prior to the enactment of that Act,
 
-&emsp;&emsp;(iii) appointed by the President to a position under section 105(a)(2)(B) of title 3 or by the Vice President to a position under section 106(a)(1)(B) of title 3,
+&emsp;&emsp;(iii) appointed by the President to a position under section 105(a)(2)(B) of title 3 or bythe Vice President to a position under section 106(a)(1)(B) of title 3,
 
 &emsp;&emsp;(iv) employed in a position which is held by an active duty commissioned officer of the uniformed services who is serving in a grade or rank for which the pay grade (as specified in section 201 of title 37) is pay grade O–7 or above; or
 
@@ -81,18 +81,6 @@ Persons to whom restrictions apply.—(A) Paragraph (1) shall apply to a person 
 &emsp;&emsp;(i) the imposition of the restrictions with respect to such position or positions would create an undue hardship on the department or agency in obtaining qualified personnel to fill such position or positions, and
 
 &emsp;&emsp;(ii) granting the waiver would not create the potential for use of undue influence or unfair advantage.
-
-&emsp;(3)
-
-Members of the independent payment advisory board.—
-
-&emsp;&emsp;(A)
-
-In general.—Paragraph (1) shall apply to a member of the Independent Payment Advisory Board under section 1899A.<sup>1</sup>
-
-&emsp;&emsp;(B)
-
-Agencies and congress.—For purposes of paragraph (1), the agency in which the individual described in subparagraph (A) served shall be considered to be the Independent Payment Advisory Board, the Department of Health and Human Services, and the relevant committees of jurisdiction of Congress, including the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate.
 
 (d)
 
@@ -154,7 +142,7 @@ Personal staff.—(A) Any person who is an employee of a Member of the House of 
 
 &emsp;(4)
 
-Committee staff.—Any person who is an employee of a committee of the House of Representatives, or an employee of a joint committee of the Congress whose pay is disbursed by the Clerk of the House of Representatives, to whom paragraph (7)(A) applies and who, within 1 year after the termination of that person's employment on such committee or joint committee (as the case may be), knowingly makes, with the intent to influence, anycommunication to or appearance before any person who is a Member or an employee of that committee or joint committee (as the case may be) or who was a Member of the committee or joint committee (as the case may be) in the year immediately prior to the termination of such person's employment by the committee or joint committee (as the case may be), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
+Committee staff.—Any person who is an employee of a committee of the House of Representatives, or an employee of a joint committee of the Congress whose pay is disbursed by the Clerk of the House of Representatives, to whom paragraph (7)(A) applies and who, within 1 year after the termination of that person's employment on such committee or joint committee (as the case may be), knowingly makes, with the intent to influence, any communication to or appearance before any person who is a Member or an employee of that committee or joint committee (as the case may be) or who was a Member of the committee or joint committee (as the case may be) in the year immediately prior to the termination of such person's employment by the committee or joint committee (as the case may be), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
 
 &emsp;(5)
 
@@ -190,7 +178,7 @@ Definitions.—As used in this subsection—
 
 &emsp;&emsp;(D) the term "employee of the Senate" means an employee of a Senator, an employee of a committee of the Senate, an employee of a joint committee of the Congress whose pay is disbursed by the Secretary of the Senate, and an employee on the leadership staff of the Senate;
 
-&emsp;&emsp;(E) a person is an employee of a Member of the House of Representatives if that person is an employee of a Member of the House of Representatives under the clerk hire allowance;
+&emsp;&emsp;(E) a person is an employee of a Member of the House of Representatives if that person is an employee of a Member of the House ofRepresentatives under the clerk hire allowance;
 
 &emsp;&emsp;(F) a person is an employee of a Senator if that person is an employee in a position in the office of a Senator;
 
@@ -312,7 +300,7 @@ Political parties and campaign committees.—(A) Except as provided in subparagr
 
 &emsp;&emsp;(i) any communication to, or appearance before, the Federal Election Commission by a former officer or employee of the Federal Election Commission; or
 
-&emsp;&emsp;(ii) a communication or appearance made by a person who is subject to the restrictions contained in subsections <sup>1</sup> (c), (d), or (e) if, at the time of the communication or appearance, the person is employed by a person or entity other than—
+&emsp;&emsp;(ii) a communication or appearance made by a person who is subject to the restrictions contained in subsections <sup>2</sup> (c), (d), or (e) if, at the time of the communication or appearance, the person is employed by a person or entity other than—
 
 &emsp;&emsp;&emsp;(I) a candidate, an authorized committee, a national committee, a national Federal campaign committee, a State committee, or a political party; or
 
@@ -366,19 +354,17 @@ Political parties and campaign committees.—(A) Except as provided in subparagr
 
 Contract Advice by Former Details.—Whoever, being an employee of a private sector organization assigned to an agency under chapter 37 of title 5, within one year after the end of that assignment, knowingly represents or aids, counsels, or assists in representing any other person (except the United States) in connection with any contract with that agency shall be punished as provided in section 216 of this title.
 
-(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1123; amended Pub. L. 95–521, title V, §501(a), Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–28, June 22, 1979, 93 Stat. 76; Pub. L. 101–189, div. A, title VIII, §814(d)(2), Nov. 29, 1989, 103 Stat. 1499; Pub. L. 101–194, title I, §101(a), Nov. 30, 1989, 103 Stat. 1716; Pub. L. 101–280, §§2(a), 5(d), May 4, 1990, 104 Stat. 149, 159; Pub. L. 101–509, title V, §529 \[title I, §101(b)(8)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–25, title VII, §705(a), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–190, div. C, title XXXI, §3138(a), Dec. 5, 1991, 105 Stat. 1579; Pub. L. 102–395, title VI, §609(a), Oct. 6, 1992, 106 Stat. 1873; Pub. L. 103–322, title XXXIII, §§330002(i), 330010(15), Sept. 13, 1994, 108 Stat. 2140, 2144; Pub. L. 104–65, §21(a), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–179, §§5, 6, Aug. 6, 1996, 110 Stat. 1567, 1568; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §635\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363; Pub. L. 105–244, title I, §102(a)(5), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–347, title II, §209(d)(1), (3), Dec. 17, 2002, 116 Stat. 2930; Pub. L. 108–136, div. A, title XI, §1125(b)(1), Nov. 24, 2003, 117 Stat. 1639; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–81, title I, §§101, 104(a), Sept. 14, 2007, 121 Stat. 736, 740; Pub. L. 111–148, title III, §3403(a)(2), title X, §10320(b), Mar. 23, 2010, 124 Stat. 506, 952; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1123; amended Pub. L. 95–521, title V, §501(a),Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–28, June 22, 1979, 93 Stat. 76; Pub. L. 101–189, div. A, title VIII, §814(d)(2), Nov. 29, 1989, 103 Stat. 1499; Pub. L. 101–194, title I, §101(a), Nov. 30, 1989, 103 Stat. 1716; Pub. L. 101–280, §§2(a), 5(d), May 4, 1990, 104 Stat. 149, 159; Pub. L. 101–509, title V, §529 \[title I, §101(b)(8)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–25, title VII, §705(a), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–190, div. C, title XXXI, §3138(a), Dec. 5, 1991, 105 Stat. 1579; Pub. L. 102–395, title VI, §609(a), Oct. 6, 1992, 106 Stat. 1873; Pub. L. 103–322, title XXXIII, §§330002(i), 330010(15), Sept. 13, 1994, 108 Stat. 2140, 2144; Pub. L. 104–65, §21(a), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–179, §§5, 6, Aug. 6, 1996, 110 Stat. 1567, 1568; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §635\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363; Pub. L. 105–244, title I, §102(a)(5), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–347, title II, §209(d)(1), (3), Dec. 17, 2002, 116 Stat. 2930; Pub. L. 108–136, div. A, title XI, §1125(b)(1), Nov. 24, 2003, 117 Stat. 1639; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–81, title I, §§101, 104(a), Sept. 14, 2007, 121 Stat. 736, 740; Pub. L. 111–148, title III, §3403(a)(2), Mar. 23, 2010, 124 Stat. 506; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–123, div. E, title XI, §52001(b)(1), Feb. 9, 2018, 132 Stat. 298.)
 
 #### References in Text
 
 Section 1102 of the Omnibus Trade and Competitiveness Act of 1988, referred to in subsec. (b)(2)(A), is classified to section 2902 of Title 19, Customs Duties.
 
-Levels I, II, and IV of the Executive Schedule, referred to in subsecs. (c)(2)(A)(ii), (d)(1)(B), and (e)(7)(B),are set out in sections 5312, 5313, and 5315, respectively, of Title 5, Government Organization and Employees.
+Levels I, II, and IV of the Executive Schedule, referred to in subsecs. (c)(2)(A)(ii), (d)(1)(B), and (e)(7)(B), are set out in sections 5312, 5313, and 5315, respectively, of Title 5, Government Organization and Employees.
 
 The National Defense Authorization Act for Fiscal Year 2004, referred to in subsec. (c)(2)(A)(ii), is Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1392. For complete classification of this Act to the Code, see Tables.
 
 Senior Executive Service, referred to in subsec. (c)(2)(A)(ii), see section 5382 of Title 5, Government Organization and Employees.
-
-Section 1899A, referred to in subsec. (c)(3)(A), probably means section 1899A of the Social Security Act, which is classified to section 1395kkk of Title 42, The Public Health and Welfare.
 
 The Lobbying Disclosure Act of 1995, referred to in subsec. (e)(8), is Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, which is classified principally to chapter 26 (§1601 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 2 and Tables.
 
@@ -403,6 +389,8 @@ A prior section 207, act June 25, 1948, ch. 645, 62 Stat. 692, related to the ac
 Provisions similar to those comprising this section were contained in section 284 of this title prior to the repeal of such section and the general amendment of this chapter by Pub. L. 87–849.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(3). Pub. L. 115–123 struck out par. (3) which related to members of the independent payment advisory board.
 
 <b>2010</b>—Subsec. (c)(3). Pub. L. 111–148, §3403(a)(2), added par. (3).
 
@@ -510,7 +498,7 @@ Subsec. (d)(1)(B). Pub. L. 101–280, §2(a)(6)(A), amended subsec. (d)(1)(B), a
 
 Subsec. (d)(2). Pub. L. 101–280, §2(a)(6)(B), amended subsec. (d)(2), as amended by Pub. L. 101–194, by substituting "Persons who may not be contacted" for "Entities to which restrictions apply" in heading, and striking out "other" after "any" in subpar. (B).
 
-Subsec. (e)(6). Pub. L. 101–509, §529 \[title I, §101(b)(8)(A)(ii)\], added par. (6) and struck out former par. (6) which read as follows: "The restrictions contained in paragraphs (2), (3), (4), and (5) apply only to acts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before that former employee's service as such employee terminated, was paid for such service at a rate of basic pay equal to or greater than the rate of basic pay payable for GS–17 of the General Schedule under section 5332 of title 5."
+Subsec. (e)(6). Pub. L. 101–509, §529 \[title I, §101(b)(8)(A)(ii)\], added par. (6) and struck out former par. (6) which read as follows: "The restrictions contained in paragraphs (2), (3), (4), and (5) apply only to acts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before that former employee's service as such employee terminated, was paid for such service at a rate of basic payequal to or greater than the rate of basic pay payable for GS–17 of the General Schedule under section 5332 of title 5."
 
 Pub. L. 101–280, §2(a)(7)(A), amended subsec. (e)(6), as amended by Pub. L. 101–194, by substituting "rate of basic" for "basic rate of" wherever appearing.
 
@@ -524,7 +512,7 @@ Subsec. (f)(1)(B). Pub. L. 101–280, §2(a)(8)(C), amended subsec. (f)(1)(B), a
 
 Subsec. (i)(1). Pub. L. 101–280, §2(a)(9), amended subsec. (i)(1), as amended by Pub. L. 101–194, by adding par. (1) and striking out former par. (1) which read as follows: "the term 'intent to influence' means the intent to affect any official action by a Government entity of the United States through any officer or employee of the United States, including Members of Congress;".
 
-Subsec. (j)(1). Pub. L. 101–280, §2(a)(10)(A), amended subsec. (j)(1), as amended by Pub. L. 101–194, by substituting "this section" for "subsections (a), (c), (d), and (e)", "on behalf of" for "as an officer or employeeof", and "or the District of Columbia" for "Government".
+Subsec. (j)(1). Pub. L. 101–280, §2(a)(10)(A), amended subsec. (j)(1), as amended by Pub. L. 101–194, by substituting "this section" for "subsections (a), (c), (d), and (e)", "on behalf of" for "as an officer or employee of", and "or the District of Columbia" for "Government".
 
 Subsec. (j)(3). Pub. L. 101–280, §2(a)(10)(B), amended subsec. (j)(3), as amended by Pub. L. 101–194, by substituting "this section" for "subsections (c), (d), and (e)" and "in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interests of the United States" for "of which the United States is a member".
 
@@ -548,8 +536,6 @@ Subsec. (d). Pub. L. 96–28, §2, designated existing provisions as par. (1), d
 
 #### Change of Name
 
-"Independent Payment Advisory Board" substituted for "Independent Medicare Advisory Board" in subsec. (c)(3) on authority of section 10320(b) of Pub. L. 111–148, set out as a note under section 1395kkk of Title 42, The Public Health and Welfare.
-
 "Government Publishing Office" substituted for "Government Printing Office" in subsec. (e)(9)(G) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
 #### Effective Date of 2007 Amendment
@@ -570,7 +556,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1995 Amendment
 
-Pub. L. 104–65, §21(c), Dec. 19, 1995, 109 Stat. 705, provided that: "The amendments made by this section \[amending this section and section 2171 of Title 19, Customs Duties\] shall apply with respect to an individual appointed as United States Trade Representative or as a Deputy United States Trade Representative on or after the date of enactment of this Act \[Dec. 19, 1995\]."
+Pub. L. 104–65, §21(c), Dec. 19, 1995, 109 Stat. 705, provided that: "The amendments made by this section \[amending this section and section 2171 of Title 19, Customs Duties\] shall apply with respect to an individual appointed as United States Trade Representative or asa Deputy United States Trade Representative on or after the date of enactment of this Act \[Dec. 19, 1995\]."
 
 #### Effective Date of 1992 Amendment
 
@@ -640,7 +626,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 &emsp;"(B) on active duty as a commissioned officer of a uniformed service assigned to pay grade of O–9 or above as described in section 201 of title 37, United States Code; or
 
-&emsp;"(C) in a position which involves significant decision-making or supervisory responsibility, as designated under this subparagraph by the Director of the Office of Government Ethics, in consultation with the department or agency concerned. Only positions which are not covered by subparagraphs (A) and (B) above, and for which the basic rate of pay is equal to or greater than the basic rate of pay for GS–17 of the General Schedule prescribed by section 5332 of title 5, United States Code, or positions which are established within the Senior Executive Service pursuant to the Civil Service Reform Act of 1978, or positions of active duty commissioned officers of the uniformed services assigned to pay O–7 or O–8, as described in section 201 of title 37, United States Code, may be designated. As to persons in positions designated under this subparagraph, the Director may limit the restrictions of subsection (c) to permit a former officer or employee, who served in a separate agency or bureau within a department or agency, to make appearances before or communications to persons in an unrelated agency or bureau, within the same department or agency, having separate and distinct subject matter jurisdiction, upon a determination by the Director that there exists no potential for use of undue influence or unfair advantage based on past government service. On an annual basis, the Director of the Office of Government Ethics shall review the designations and determinations made under this subparagraph and, in consultation with the department or agency concerned, make such additions and deletions as are necessary. Departments and agencies shall cooperate to the fullest extent with the Director of the Office of Government Ethics in the exercise of his responsibilities under this paragraph.
+&emsp;"(C) in a position which involves significant decision-making or supervisory responsibility, as designated under this subparagraph by the Director of the Office of Government Ethics, in consultation withthe department or agency concerned. Only positions which are not covered by subparagraphs (A) and (B) above, and for which the basic rate of pay is equal to or greater than the basic rate of pay for GS–17 of the General Schedule prescribed by section 5332 of title 5, United States Code, or positions which are established within the Senior Executive Service pursuant to the Civil Service Reform Act of 1978, or positions of active duty commissioned officers of the uniformed services assigned to pay O–7 or O–8, as described in section 201 of title 37, United States Code, may be designated. As to persons in positions designated under this subparagraph, the Director may limit the restrictions of subsection (c) to permit a former officer or employee, who served in a separate agency or bureau within a department or agency, to make appearances before or communications to persons in an unrelated agency or bureau, within the same department or agency, having separate and distinct subject matter jurisdiction, upon a determination by the Director that there exists no potential for use of undue influence or unfair advantage based on past government service. On an annual basis, the Director of the Office of Government Ethics shall review the designations and determinations made under this subparagraph and, in consultation with the department or agency concerned, make such additions and deletions as are necessary. Departments and agencies shall cooperate to the fullest extent with the Director of the Office of Government Ethics in the exercise of his responsibilities under this paragraph.
 
 "(2) The prohibition of subsection (c) shall not apply to appearances, communications, or representation by a former officer or employee, who is—
 
@@ -718,5 +704,5 @@ Exemptions from former section 284 of this title deemed to be exemptions from th
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "subsection".</i>
 

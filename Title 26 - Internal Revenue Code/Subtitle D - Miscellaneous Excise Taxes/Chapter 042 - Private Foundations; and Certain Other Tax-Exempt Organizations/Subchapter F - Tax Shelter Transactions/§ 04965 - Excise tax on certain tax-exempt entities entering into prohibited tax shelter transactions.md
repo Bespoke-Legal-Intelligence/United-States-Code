@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (f) Regulatory authority
 
-The Secretary is authorized to promulgate regulations which provide guidance regarding the determination of the allocation of net income or proceeds of a tax-exempt entity attributable to a transaction to various periods, including before and after the listing of the transaction or the date which is 90 days after the date of the enactment of this section.
+The Secretary is authorized to promulgate regulations which provide guidance regardingthe determination of the allocation of net income or proceeds of a tax-exempt entity attributable to a transaction to various periods, including before and after the listing of the transaction or the date which is 90 days after the date of the enactment of this section.
 
 #### (g) Coordination with other taxes and penalties
 

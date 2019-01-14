@@ -1,0 +1,34 @@
+### §7592. Radiograms and telegrams: forwarding charges due connecting commercial facilities
+
+In the operation of telegraph lines, cables, or radio stations, members of the Signal Corps may, in the discretion of the Secretary of the Army, collect forwarding charges due connecting commercial telegraph or radio companies for sending radiograms or telegrams over their lines. Under such regulations as the Secretary may prescribe, they may present a voucher to a disbursing official for payment of the forwarding charge.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 257, §4592; Pub. L. 97–258, §2(b)(1)(A), Sept. 13, 1982, 96 Stat. 1052; Pub. L. 104–316, title I, §105(e), Oct. 19, 1996, 110 Stat. 3830; renumbered §7592, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+4592
+
+10:1319.
+
+May 12, 1917, ch. 12 (proviso under "Washington-Alaska Military Cable and Telegraph System"), 40 Stat. 43.
+
+The words "members of" are inserted for clarity. The words "Government", "and to this end", "as may be", and "amount of such" are omitted as surplusage.
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–232 renumbered section 4592 of this title as this section.
+
+<b>1996</b>—Pub. L. 104–316 substituted "of the forwarding" for ", or may file a claim with the General Accounting Office for the forwarding" in second sentence.
+
+<b>1982</b>—Pub. L. 97–258 substituted "official" for "officer".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+

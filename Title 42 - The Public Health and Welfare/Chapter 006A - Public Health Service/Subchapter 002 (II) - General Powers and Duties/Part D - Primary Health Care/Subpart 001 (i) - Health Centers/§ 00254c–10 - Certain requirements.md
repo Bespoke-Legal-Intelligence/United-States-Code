@@ -10,7 +10,7 @@ A grant may be made under section 254c–9 of this title only if the applicant i
 
 &emsp;(4) The grant will not be expended to make payment for services authorized under section 254c–9(a) of this title to the extent that payment has been made, or can reasonably be expected to be made, with respect to such services—
 
-&emsp;&emsp;(A) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
+&emsp;&emsp;(A) under any State compensation program, under an insurance policy, or underany Federal or State health benefits program; or
 
 &emsp;&emsp;(B) by an entity that provides health services on a prepaid basis.
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) to provide information to update the application submitted to obtain such grant or contract.
 
-(2) If the amount appropriated for any fiscal year to carry out part A, B, or C in a period during which multiyear grants or contracts are in effect under such part is less than the amount appropriated to carry out such part in the first fiscal year in such period, then the amounts payable under all such grants and contracts in effect in such period under such part shall be reduced pro rata.
+(2) If the amount appropriated for any fiscal year to carry out part A, B, or C in a period during which multiyear grants or contracts are in effect under such part is less than the amount appropriated to carry out such part in the first fiscal year in such period, then the amounts payable under all such grants and contracts ineffect in such period under such part shall be reduced pro rata.
 
 #### (b) Documentation, etc., by applicant of meaningful administrative savings from multiyear grant or contract
 

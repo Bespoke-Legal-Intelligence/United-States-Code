@@ -42,7 +42,7 @@ The Secretary is authorized to make grants for the establishment of new centers.
 
 Each center desiring to receive a grant or contract under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information and assurances as the Secretary may require.
 
-(Pub. L. 89–329, title VI, §609, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1782; amended Pub. L. 110–315, title VI, §608, Aug. 14, 2008, 122 Stat. 3338.)
+(Pub. L. 89–329, title VI, §609, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1782;amended Pub. L. 110–315, title VI, §608, Aug. 14, 2008, 122 Stat. 3338.)
 
 #### Prior Provisions
 

@@ -18,7 +18,7 @@
 
 &emsp;(3) on request of the member (if injured or ill), or his dependent, next of kin, or other person described in clause (2), to another location determined in advance or later approved by the Secretary concerned, or his designee.
 
-> When he considers it necessary, the Secretary concerned may, with respect to the household and personal effects of a member who is officially reported as absent for a period of more than 29 days in a missing status, authorize the nontemporary storage of those effects for a period of one year, or longer when justified. In addition, he may authorize additional movements of, and prescribe transportation for, the dependents and household and personal effects, or the dependents and house trailer or mobile dwelling, of a member who is officially reported as absent for a period of more than one year in a missing status.
+> When he considers it necessary, the Secretary concerned may, with respect to the household and personal effects of a member who is officially reported as absent for a period of more than 29 days in a missing status, authorize the nontemporary storage of those effects for a period of one year, or longer when justified. In addition, he may authorize additional movements of, and prescribe transportation for, the dependents and household and personal effects, or the dependents and house trailer or mobile dwelling, of a member who is officially reported as absentfor a period of more than one year in a missing status.
 
 (c) When a member described in subsection (b) is in an injured or ill status, transportation of dependents and household and personal effects authorized by this section may be provided only when prolonged hospitalization or treatment is anticipated.
 
@@ -42,7 +42,7 @@
 
 &emsp;(1) section 2575, 2733, 4712, 6522, or 9712 of title 10;
 
-&emsp;(2) section 507 of title 14; or
+&emsp;(2) section 507 <sup>1</sup> of title 14; or
 
 &emsp;(3) chapter 171 of title 28.
 
@@ -124,6 +124,10 @@ In subsection (h), the words "under subsection (g) of this section" are substitu
 
 In subsection (i), the words "the provisions of" are omitted as unnecessary. Clause (3) is substituted for "the Federal Tort Claims Act (60 Stat. 842–847), as amended," to reflect the correct citation of that Act.
 
+#### References in Text
+
+Section 507 of title 14, referred to in subsec. (j)(2), was redesignated section 2710 of title 14 by Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 507 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+
 #### Amendments
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
@@ -172,7 +176,7 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title VI, §622(c), Dec. 2, 2002, 116 Stat. 2571, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to members whose eligibility for benefits under section 484 of title 37, United States Code, commences on or after the date of the enactment of this Act \[Dec. 2, 2002\]."
+Pub. L. 107–314, div. A, title VI, §622(c), Dec. 2, 2002, 116 Stat. 2571, as amended by Pub. L. 112–81, div. A, titleVI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to members whose eligibility for benefits under section 484 of title 37, United States Code, commences on or after the date of the enactment of this Act \[Dec. 2, 2002\]."
 
 #### Effective Date of 1998 Amendment
 
@@ -185,4 +189,6 @@ Pub. L. 93–548, §4, Dec. 26, 1974, 88 Stat. 1743, provided that: "The amendme
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -52,6 +52,14 @@ It is the policy of Congress that the authority of each State to allocate quanti
 
 Subsec. (g). Pub. L. 95–217, §5(a), added subsec. (g).
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 115–436, §1, Jan. 14, 2019, 132 Stat. 5558, provided that: "This Act \[enacting section 1377a of this title and section 4370j of Title 42, The Public Health and Welfare, amending sections 1319, 1342, and 1362 of this title, enacting provisions set out as a note under section 4370j of Title 42, and renumbering provisions set out as a note under this section\] may be cited as the 'Water Infrastructure Improvement Act'."
+
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–282, title IX, §901, Dec. 4, 2018, 132 Stat. 4322, provided that: "This title \[enacting sections 4729 and 4730 of Title 16, Conservation, amending sections 1319, 1322, 1365, and 1369 of this title, sections 4712 and 4725 of Title 16, section 42 of Title 18, Crimes and Criminal Procedure, and section 11301 of Title 46, Shipping, repealing section 4711 of Title 16, enacting provisions set out as a note under section 1322 of this title and section 4711 of Title 16, and repealing provisions set out as a note under section 1342 of this title\] may be cited as the 'Vessel Incidental Discharge Act of 2018'."
+
 #### Short Title of 2017 Amendment
 
 Pub. L. 115–91, div. C, title XXXV, §3508(a), Dec. 12, 2017, 131 Stat. 1915, provided that: "This section \[amending sections 1321, 2701, and 2715 of this title\] may be cited as the 'Foreign Spill Protection Act of 2017'."
@@ -78,7 +86,7 @@ Pub. L. 106–457, title IV, §401, Nov. 7, 2000, 114 Stat. 1973, provided that:
 
 Pub. L. 106–457, title V, §501, Nov. 7, 2000, 114 Stat. 1973, provided that: "This title \[enacting section 1273 of this title\] may be cited as the 'Lake Pontchartrain Basin Restoration Act of 2000'."
 
-Pub. L. 106–457, title VI, §601, Nov. 7, 2000, 114 Stat. 1975, provided that: "This title \[enacting section 1300 ofthis title\] may be cited as the 'Alternative Water Sources Act of 2000'."
+Pub. L. 106–457, title VI, §601, Nov. 7, 2000, 114 Stat. 1975, provided that: "This title \[enacting section 1300 of this title\] may be cited as the 'Alternative Water Sources Act of 2000'."
 
 Pub. L. 106–284, §1, Oct. 10, 2000, 114 Stat. 870, provided that: "This Act \[enacting sections 1346 and 1375a of this title and amending sections 1254, 1313, 1314, 1362, and 1377 of this title\] may be cited as the 'Beaches Environmental Assessment and Coastal Health Act of 2000'."
 
@@ -114,7 +122,7 @@ Pub. L. 95–217, §1, Dec. 27, 1977, 91 Stat. 1566, provided: "That this Act \[
 
 Pub. L. 92–500, §1, Oct. 18, 1972, 86 Stat. 816, provided that: "That this Act \[enacting this chapter, amending section 24 of Title 12, Banks and Banking, sections 633 and 636 of Title 15, Commerce and Trade, and section 711 of former Title 31, Money and Finance, and enacting provisions set out as notes under this section and sections 1281 and 1361 of this title\] may be cited as the 'Federal Water Pollution Control Act Amendments of 1972'."
 
-Act June 30, 1948, ch. 758, title V, §519, formerly §518, as added by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 896, amended Pub. L. 95–217, §2, Dec. 27, 1977, 91 Stat. 1566, renumbered §519, Pub. L. 100–4, title V, §506, Feb. 4, 1987, 101 Stat. 76, provided that: "This Act \[this chapter\] may be cited as the 'Federal Water Pollution Control Act' (commonly referred to as the Clean Water Act)."
+Act June 30, 1948, ch. 758, title V, §520, formerly §518, as added by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 896, amended Pub. L. 95–217, §2, Dec. 27, 1977, 91 Stat. 1566, renumbered §519, Pub. L. 100–4, title V, §506, Feb. 4, 1987, 101 Stat. 76, renumbered §520, Pub. L. 115–436, §5(b)(1), Jan. 14, 2019, 132 Stat. 5561, provided that: "This Act \[this chapter\] may be cited as the 'Federal Water Pollution Control Act' (commonly referred to as the Clean Water Act)."
 
 #### Savings Provision
 
@@ -136,7 +144,7 @@ Pub. L. 102–567, title III, §308, Oct. 29, 1992, 106 Stat. 4286; as amended b
 
 "(a)
 
-Establishment of a Research Program.—The Secretary of Commerce, in cooperation with the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency, shall establish and administer a 5-year national shellfish research program (hereafter in this section referred to as the 'Program') for the purpose of improving existingclassification systems for shellfish growing waters using the latest technological advancements in microbiology and epidemiological methods. Within 12 months after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce, in cooperation with the advisory committee established under subsection (b) and the Consortium, shall develop a comprehensive 5-year plan for the Program which shall at a minimum provide for—
+Establishment of a Research Program.—The Secretary of Commerce, in cooperation with the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency, shall establish and administer a 5-year national shellfish research program (hereafter in this section referred to as the 'Program') for the purpose of improving existing classification systems for shellfish growing waters using the latest technological advancements in microbiology and epidemiological methods. Within 12 months after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce, in cooperation with the advisory committee established under subsection (b) and the Consortium, shall develop a comprehensive 5-year plan for the Program which shall at a minimum provide for—
 
 &emsp;"(1) an environmental assessment of commercial shellfish growing areas in the United States, including an evaluation of the relationships between indicators of fecal contamination and human enteric pathogens;
 

@@ -76,7 +76,7 @@
 
 #### (2) Traditional health care practices
 
-&emsp;In carrying out the purposes described in paragraph (1), an Indian tribe or tribal organization may use and promote the traditionalhealth care practices of the Indian tribes of the youth to be served.
+&emsp;In carrying out the purposes described in paragraph (1), an Indian tribe or tribal organization may use and promote the traditional health care practices of the Indian tribes of the youth to be served.
 
 #### (c) Applications
 
@@ -122,7 +122,7 @@ Each grant recipient shall submit to the Secretary an annual report that—
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 2 years after the date on which the first grant is awarded under this section, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources and the Committee on Energy and Commerce of the House of Representatives a report that—
+&emsp;&emsp;Not later than 2 years after the date on which the first grant is awarded under thissection, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources and the Committee on Energy and Commerce of the House of Representatives a report that—
 
 &emsp;&emsp;&emsp;(i) describes each project funded by a grant under this section during the preceding 2-year period, including a description of the level of success achieved by the project; and
 

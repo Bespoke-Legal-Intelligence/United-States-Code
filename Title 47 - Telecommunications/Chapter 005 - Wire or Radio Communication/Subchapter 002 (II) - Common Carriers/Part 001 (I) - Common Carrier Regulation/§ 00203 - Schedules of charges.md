@@ -20,7 +20,7 @@ The Commission may reject and refuse to file any schedule entered for filing whi
 
 #### (e) Penalty for violations
 
-In case of failure or refusal on the part of any carrier to comply with the provisions of this section or of any regulation or order made by the Commission thereunder, such carrier shall forfeit to the United States the sum of $6,000 for each such offense, and $300 for each and every day of the continuance of such offense.
+In case of failure or refusal on the part of any carrier to comply with the provisions of thissection or of any regulation or order made by the Commission thereunder, such carrier shall forfeit to the United States the sum of $6,000 for each such offense, and $300 for each and every day of the continuance of such offense.
 
 (June 19, 1934, ch. 652, title II, §203, 48 Stat. 1070; Pub. L. 94–376, §1, Aug. 4, 1976, 90 Stat. 1080; Pub. L. 101–239, title III, §3002(b), Dec. 19, 1989, 103 Stat. 2131; Pub. L. 101–396, §7, Sept. 28, 1990, 104 Stat. 850.)
 

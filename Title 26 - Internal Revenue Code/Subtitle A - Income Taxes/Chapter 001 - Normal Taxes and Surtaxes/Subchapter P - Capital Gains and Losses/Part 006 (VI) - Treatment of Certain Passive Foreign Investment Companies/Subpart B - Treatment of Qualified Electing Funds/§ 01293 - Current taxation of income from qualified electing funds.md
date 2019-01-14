@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Every United States person who owns (or is treated under section 1298(a) as owning) stock of a qualified electing fund at any time during the taxable year of such fund shall include in gross income—
+&emsp;Every United States person who owns (or is treated under section 1298(a) as owning) stockof a qualified electing fund at any time during the taxable year of such fund shall include in gross income—
 
 &emsp;&emsp;(A) as ordinary income, such shareholder's pro rata share of the ordinary earnings of such fund for such year, and
 
@@ -80,7 +80,7 @@ For purposes of section 960—
 
 #### (2) Prevention of double inclusion
 
-&emsp;The Secretary shall prescribe such adjustment to the provisions of this section as may be necessary to prevent the same item of income of a qualified electing fund from being included in the gross income of a United States person more than once.
+&emsp;The Secretary shall prescribe such adjustment to the provisions of this section as maybe necessary to prevent the same item of income of a qualified electing fund from being included in the gross income of a United States person more than once.
 
 (Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2569; amended Pub. L. 100–647, title I, §1012(p)(15), (18), (23), (32), Nov. 10, 1988, 102 Stat. 3518, 3519, 3521; Pub. L. 103–66, title XIII, §13231(c)(3), Aug. 10, 1993, 107 Stat. 498; Pub. L. 105–34, title XI, §1122(d)(3), Aug. 5, 1997, 111 Stat. 977; Pub. L. 115–97, title I, §14301(c)(35), Dec. 22, 2017, 131 Stat. 2224.)
 

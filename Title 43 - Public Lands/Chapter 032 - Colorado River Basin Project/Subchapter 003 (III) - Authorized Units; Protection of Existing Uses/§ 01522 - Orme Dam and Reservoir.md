@@ -6,7 +6,7 @@ The Secretary shall designate the lands of the Salt River Pima-Maricopa Indian C
 
 #### (b) Rights of former owners to use or lease land
 
-Title to any land or easement acquired pursuant to this section shall be subject to the right of the former owner to use or lease the land for purposes not inconsistent with the construction, operation, and maintenance of the project, as determined by, and under terms and conditions prescribed by, the Secretary. Such right shall include the right to extract and dispose of minerals. The determination of fair market value under subsection (a) shall reflect the right to extract and dispose of minerals and all other uses permitted by this section.
+Title to any land or easement acquired pursuant to this section shall be subject to the rightof the former owner to use or lease the land for purposes not inconsistent with the construction, operation, and maintenance of the project, as determined by, and under terms and conditions prescribed by, the Secretary. Such right shall include the right to extract and dispose of minerals. The determination of fair market value under subsection (a) shall reflect the right to extract and dispose of minerals and all other uses permitted by this section.
 
 #### (c) Addition of land to Fort McDowell Indian Reservation
 
@@ -32,5 +32,5 @@ Pub. L. 101–628, title IV, §411(e), Nov. 28, 1990, 104 Stat. 4491, provided t
 
 #### Inapplicability to Salt River Pima-Maricopa Indian Community
 
-Pub. L. 100–512, §11(c), Oct. 20, 1988, 102 Stat. 2558, provided that: "Upon the effective date of this Act as set forth in section 12 \[102 Stat. 2559\], section 302 of the Colorado River Basin Project Act (43 U.S.C. 1522) shallno longer apply to the Community \[Salt River Pima-Maricopa Indian Community\]."
+Pub. L. 100–512, §11(c), Oct. 20, 1988, 102 Stat. 2558, provided that: "Upon the effective date of this Act as set forth in section 12 \[102 Stat. 2559\], section 302 of the Colorado River Basin Project Act (43 U.S.C. 1522) shall no longer apply to the Community \[Salt River Pima-Maricopa Indian Community\]."
 

@@ -108,39 +108,7 @@
 
 &emsp;Notwithstanding paragraph (2), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (a).
 
-#### (c) Economic adjustment assistance to users of upland cotton
-
-#### (1) In general
-
-&emsp;Subject to paragraph (2), the Secretary shall, on a monthly basis, provide economic adjustment assistance to domestic users of upland cotton in the form of payments for all documented use of that upland cotton during the previous monthly period regardless of the origin of the upland cotton.
-
-#### (2) Value of assistance
-
-#### (A) Beginning period
-
-&emsp;&emsp;During the period beginning on August 1, 2008, and ending on July 31, 2012, the value of the assistance provided under paragraph (1) shall be 4 cents per pound.
-
-#### (B) Subsequent period
-
-&emsp;&emsp;Effective beginning on August 1, 2012, the value of the assistance provided under paragraph (1) shall be 3 cents per pound.
-
-#### (3) Allowable purposes
-
-&emsp;Economic adjustment assistance under this subsection shall be made available only to domestic users of upland cotton that certify that the assistance shall be used only to acquire, construct, install, modernize, develop, convert, or expand land, plant, buildings, equipment, facilities, or machinery.
-
-#### (4) Review or audit
-
-&emsp;The Secretary may conduct such review or audit of the records of a domestic user under this subsection as the Secretary determines necessary to carry out this subsection.
-
-#### (5) Improper use of assistance
-
-&emsp;If the Secretary determines, after a review or audit of the records of the domestic user, that economic adjustment assistance under this subsection was not used for the purposes specified in paragraph (3), the domestic user shall be—
-
-&emsp;&emsp;(A) liable to repay the assistance to the Secretary, plus interest, as determined by the Secretary; and
-
-&emsp;&emsp;(B) ineligible to receive assistance under this subsection for a period of 1 year following the determination of the Secretary.
-
-(Pub. L. 110–234, title I, §1207, May 22, 2008, 122 Stat. 960; Pub. L. 110–246, §4(a), title I, §1207, June 18, 2008, 122 Stat. 1664, 1689.)
+(Pub. L. 110–234, title I, §1207, May 22, 2008, 122 Stat. 960; Pub. L. 110–246, §4(a), title I, §1207, June 18, 2008, 122 Stat. 1664, 1689; Pub. L. 115–334, title I, §1203(a), Dec. 20, 2018, 132 Stat. 4510.)
 
 #### References in Text
 
@@ -152,7 +120,11 @@ The Harmonized Tariff Schedule, referred to in subsecs. (a)(6)(D) and (b)(2)(C)(
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–334 struck out subsec. (c) which related to economic adjustment assistance to users of upland cotton.
+
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

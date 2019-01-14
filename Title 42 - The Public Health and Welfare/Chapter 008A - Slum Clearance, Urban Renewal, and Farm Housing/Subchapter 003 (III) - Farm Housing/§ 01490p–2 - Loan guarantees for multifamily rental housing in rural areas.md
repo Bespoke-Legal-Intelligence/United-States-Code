@@ -50,7 +50,7 @@ A loan may be guaranteed under this section only if the loan is used for the dev
 
 Each loan guaranteed pursuant to this section shall—
 
-&emsp;(1) be made for a period of not less than 25 nor greater than 40 years from the date the loan was made and may provide for amortization of the loan over a period of not to exceed 40 years with a final payment of the balance due at the end of the loan term;
+&emsp;(1) be made for a period of not less than 25 nor greater than 40 years from the date theloan was made and may provide for amortization of the loan over a period of not to exceed 40 years with a final payment of the balance due at the end of the loan term;
 
 &emsp;(2) involve a rate of interest agreed upon by the borrower and the lender that does not exceed the maximum allowable rate established by the Secretary for purposes of this section and is fixed over the term of the loan;
 
@@ -98,7 +98,7 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 &emsp;If the Secretary determines that a loan guaranteed by an eligible lender pursuant to delegation of authority under subsection (h) was not originated in accordance with the requirements under this section and the Secretary pays a claim under the guarantee for the loan, the Secretary may require the eligible lender authorized under subsection (h) to issue the guarantee certificate for the loan—
 
-&emsp;&emsp;(A) to indemnify the Secretary for the loss, if the payment under the guarantee was made within a reasonable period specified by the Secretary; or
+&emsp;&emsp;(A) to indemnify the Secretary for the loss, if the payment under the guarantee wasmade within a reasonable period specified by the Secretary; or
 
 &emsp;&emsp;(B) to indemnify the Secretary for the loss regardless of when payment under the guarantee was made, if the Secretary determines that fraud or misrepresentation was involved in connection with the origination of the loan.
 
@@ -114,7 +114,7 @@ Any loan guaranteed under this section may be refinanced and extended in accorda
 
 #### (1) Study
 
-&emsp;The Secretary shall provide for an independent entity to conduct a study to determine the extent to which borrowers in the United States will utilize loan guarantees under this section, the rural areas in the United States in which borrowers can best utilize and most need loans guaranteed under this section, and the rural areas in the United States in whichhousing of the type eligible for a loan guarantee under this section is most needed by low- and moderate-income families. The Secretary shall require the independent entity conducting the study to submit a report to the Secretary and to the Congress describing the results of the study not later than the expiration of the 90-day period beginning on March 28, 1996.
+&emsp;The Secretary shall provide for an independent entity to conduct a study to determine the extent to which borrowers in the United States will utilize loan guarantees under this section, the rural areas in the United States in which borrowers can best utilize and most need loans guaranteed under this section, and the rural areas in the United States in which housing of the type eligible for a loan guarantee under this section is most needed by low- and moderate-income families. The Secretary shall require the independent entity conducting the study to submit a report to the Secretary and to the Congress describing the results of the study not later than the expiration of the 90-day period beginning on March 28, 1996.
 
 #### (2) Targeting
 
@@ -180,7 +180,7 @@ Indian tribe.—The term "Indian tribe" means—
 
 #### (s) Authorization of appropriations
 
-There are authorized to be appropriated for each fiscal year for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section such sums as may be necessary for such fiscal year to provideguarantees under this section for eligible loans having an aggregate principal amount of $500,000,000.
+There are authorized to be appropriated for each fiscal year for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section such sums as may be necessary for such fiscal year to provide guarantees under this section for eligible loans having an aggregate principal amount of $500,000,000.
 
 #### (t) Tax-exempt financing
 
@@ -220,7 +220,7 @@ Subsec. (f)(1). Pub. L. 106–569, §707(2), added par. (1) and struck out forme
 
 Subsec. (i)(2). Pub. L. 106–569, §707(3), substituted "(A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment" for "(A) conveyance to the Secretary of title to the security property, (B) submission to the Secretary of a claim for payment under the guarantee, and (C) assignment".
 
-Subsec. (l). Pub. L. 106–569, §707(6), (7), redesignated subsec. (m) as (l) and struck out heading and text of former subsec. (l). Text read as follows: "The borrower under a loan that is guaranteed under this section and under which any portion of the principal obligation or interest remains outstanding may not be relieved of liability with respect to the loan, notwithstanding the transfer of property for which the loan was made."
+Subsec. (l). Pub. L. 106–569, §707(6), (7), redesignated subsec. (m) as (l) and struck out heading and text of former subsec. (l). Text read as follows: "The borrowerunder a loan that is guaranteed under this section and under which any portion of the principal obligation or interest remains outstanding may not be relieved of liability with respect to the loan, notwithstanding the transfer of property for which the loan was made."
 
 Subsecs. (m) to (r). Pub. L. 106–569, §707(7), redesignated subsecs. (n) to (s) as (m) to (r), respectively. Former subsec. (m) redesignated (l).
 
@@ -250,7 +250,7 @@ Subsec. (u). Pub. L. 105–86, §735(c)(3), substituted "1998" for "1996".
 
 #### Effective Date
 
-Section to be construed to have become effective Oct. 1, 1995, see section 13(a) of Pub. L. 104–120, set out as anEffective and Termination Dates of 1996 Amendments note under section 1437d of this title.
+Section to be construed to have become effective Oct. 1, 1995, see section 13(a) of Pub. L. 104–120, set out as an Effective and Termination Dates of 1996 Amendments note under section 1437d of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "low- or moderate-income".</i>
 

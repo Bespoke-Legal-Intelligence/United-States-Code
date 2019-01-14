@@ -30,7 +30,7 @@ The building constructed under subsection (a) shall commence operations by not l
 
 #### Alternative Plutonium Strategy; Full Operational Capability of Replacement Project
 
-Pub. L. 112–239, div. C, title XXXI, §3114(c)–(e), Jan. 2, 2013, 126 Stat. 2171, 2172, as amended by Pub. L. 113–66, div. C, title XXXI, §3117, Dec. 26, 2013, 127 Stat. 1058, provided that:
+Pub. L. 112–239, div. C, title XXXI, §3114(c)–(e), Jan. 2, 2013, 126 Stat. 2171, 2172, as amended by Pub. L. 113–66,div. C, title XXXI, §3117, Dec. 26, 2013, 127 Stat. 1058, provided that:
 
 "(c)
 

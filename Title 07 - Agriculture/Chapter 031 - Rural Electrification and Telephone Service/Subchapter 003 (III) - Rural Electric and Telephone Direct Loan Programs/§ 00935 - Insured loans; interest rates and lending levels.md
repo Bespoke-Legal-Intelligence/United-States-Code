@@ -130,9 +130,9 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 &emsp;&emsp;On request of any applicant for a loan under this paragraph during any fiscal year, the Secretary shall—
 
-&emsp;&emsp;&emsp;(i) consider the application to be for a loan under this paragraph and a loan under section 948 of this title; and
+&emsp;&emsp;&emsp;(i) consider the application to be for a loan under this paragraph; and
 
-&emsp;&emsp;&emsp;(ii) if the applicant is eligible for a loan, make a loan to the applicant under this paragraph in an amount equal to the amount that bears the same ratio to the total amount of loans for which the applicant is eligible under this paragraph and under section 948 of this title, as the amount made available for loans under this paragraph for the fiscal year bears to the total amount made available for loans under this paragraph and under section 948 of this title for the fiscal year.
+&emsp;&emsp;&emsp;(ii) if the applicant is eligible for a loan, make a loan to the applicant under this paragraph in an amount equal to the amount that bears the same ratio to the total amount of loans for which the applicant is eligible under this paragraph, as the amount made available for loans under this paragraph for the fiscal year bears to the total amount made available for loans under this paragraph for the fiscal year.
 
 #### (C) Effect of lack of funds
 
@@ -172,11 +172,17 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 #### (C) Finality of approval
 
-&emsp;&emsp;A telecommunications modernization plan approved under subparagraph (A) may not subsequently be disapproved. Notwithstanding paragraphs (1)(A)(iii) and (2)(A)(iii),<sup>1</sup> and section 948(b)(4)(C) <sup>2</sup> of this title, the Secretary and the Governor of the telephone bank may make a loan to a borrower serving a State that does not have a telecommunication modernization plan approved by the Secretary if the loan is made less than 1 year after the Secretary has adopted final regulations implementing this paragraph.
+&emsp;&emsp;A telecommunications modernization plan approved under subparagraph (A) may not subsequently be disapproved. Notwithstanding paragraphs (1)(A)(iii) and (2)(A)(iii),<sup>1</sup> and the Secretary may make a loan to a borrower serving a State that does not have a telecommunication modernization plan approved by the Secretary if the loan is made less than 1 year after the Secretary has adopted final regulations implementing this paragraph.
 
-(May 20, 1936, ch. 432, title III, §305, as added Pub. L. 93–32, §2, May 11, 1973, 87 Stat. 68; amended Pub. L. 94–570, §3, Oct. 20, 1976, 90 Stat. 2701; Pub. L. 97–35, title I, §165(a), Aug. 13, 1981, 95 Stat. 379; Pub. L. 101–624, title XXIII, §2361, Nov. 28, 1990, 104 Stat. 4042; Pub. L. 103–129, §2(a)(1), (c)(6), Nov. 1, 1993, 107 Stat. 1356, 1364; Pub. L. 103–354, title II, §235(a)(8), (13), Oct. 13, 1994, 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title III, §305, as added Pub. L. 93–32, §2, May 11, 1973, 87 Stat. 68; amended Pub. L. 94–570, §3, Oct. 20, 1976, 90 Stat. 2701; Pub. L. 97–35, title I, §165(a), Aug. 13, 1981, 95 Stat. 379; Pub. L. 101–624, title XXIII, §2361, Nov. 28, 1990, 104 Stat. 4042; Pub. L. 103–129, §2(a)(1), (c)(6), Nov. 1, 1993, 107 Stat. 1356, 1364; Pub. L. 103–354, title II, §235(a)(8), (13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 115–334, title VI, §6602(b)(8), (9), Dec. 20, 2018, 132 Stat. 4776, 4777.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(2)(B)(i). Pub. L. 115–334, §6602(b)(8)(A), struck out "and a loan under section 948 of this title" after "under this paragraph".
+
+Subsec. (d)(2)(B)(ii). Pub. L. 115–334, §6602(b)(8)(B), struck out "and under section 948 of this title" after "under this paragraph" in two places.
+
+Subsec. (d)(3)(C). Pub. L. 115–334, §6602(b)(9), substituted "the Secretary" for "and section 948(b)(4)(C) of this title, the Secretary and the Governor of the telephone bank".
 
 <b>1994</b>—Pub. L. 103–354 substituted "Secretary" for "Administrator" in heading for subsec. (c)(2)(C)(ii)(II) and wherever appearing in text.
 
@@ -206,13 +212,11 @@ Pub. L. 97–35, title I, §165(d), Aug. 13, 1981, 95 Stat. 379, provided that: 
 
 #### Effective Date of 1976 Amendment; Interest Rate
 
-Pub. L. 94–570, §4, Oct. 20, 1976, 90 Stat. 2702, provided that: "This Act \[amending this section and section 931of this title and enacting provisions set out as a note under section 901 of this title\] shall take effect upon enactment \[Oct. 20, 1976\] except that insured loans made pursuant to applications for such loans which would otherwise lose eligibility for special rate financing upon such enactment, received by the Rural Electrification Administration and still pending on the date of enactment of this Act \[Oct. 20, 1976\], shall bear interest as determined under section 305(b) of the Rural Electrification Act of 1936 before its amendment by this Act \[former provisions of subsec. (b) of this section\]."
+Pub. L. 94–570, §4, Oct. 20, 1976, 90 Stat. 2702, provided that: "This Act \[amending this section and section 931 of this title and enacting provisions set out as a note under section 901 of this title\] shall take effect upon enactment \[Oct. 20, 1976\] except that insured loans made pursuant to applications for such loans which would otherwise lose eligibility for special rate financing upon such enactment, received by the Rural Electrification Administration and still pending on the date of enactment of this Act \[Oct. 20, 1976\], shall bear interest as determined under section 305(b) of the Rural Electrification Act of 1936 before its amendment by this Act \[former provisions of subsec. (b) of this section\]."
 
 #### Effective Date
 
 Section effective May 11, 1973, see section 12 of Pub. L. 93–32, set out as a note under section 930 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph "(2)(A)(ii)".</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be section "948(b)(4)(B)".</i>
 

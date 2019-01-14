@@ -6,7 +6,7 @@ The Secretary may order a member of the Service (other than a member employed un
 
 #### (b) Place leave may be taken
 
-Leave ordered under this section may be taken in the United States or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
+Leave ordered under this section may be taken in the United States or its territories, includingAmerican Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
 
 #### (c) Availability for work or duties in Department
 

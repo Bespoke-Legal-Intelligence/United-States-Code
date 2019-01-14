@@ -114,7 +114,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 &emsp;For purposes of this section, in the case of an unmarried individual whose spouse is deceased on the date of the sale or exchange of property, the period such unmarried individual owned and used such property shall include the period such deceased spouse owned and used such property before death.
 
-#### (3) <sup>1</sup> Property owned by spouse or former spouse
+#### (3) Property owned by spouse or former spouse
 
 &emsp;For purposes of this section—
 
@@ -124,7 +124,17 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (B) Property used by former spouse pursuant to divorce decree, etc.
 
-&emsp;&emsp;Solely for purposes of this section, an individual shall be treated as using property as such individual's principal residence during any period of ownership while such individual's spouse or former spouse is granted use of the property under a divorce or separation instrument (as defined in section 71(b)(2)).
+&emsp;&emsp;Solely for purposes of this section, an individual shall be treated as using property as such individual's principal residence during any period of ownership while such individual's spouse or former spouse is granted use of the property under a divorce or separation instrument.
+
+#### (C) Divorce or separation instrument
+
+&emsp;&emsp;For purposes of this paragraph, the term "divorce or separation instrument" means—
+
+&emsp;&emsp;&emsp;(i) a decree of divorce or separate maintenance or a written instrument incident to such a decree,
+
+&emsp;&emsp;&emsp;(ii) a written separation agreement, or
+
+&emsp;&emsp;&emsp;(iii) a decree (not described in clause (i)) requiring a spouse to make payments for the support or maintenance of the other spouse.
 
 #### (4) Tenant-stockholder in cooperative housing corporation
 
@@ -146,7 +156,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (C) Property acquired after involuntary conversion
 
-&emsp;&emsp;If the basis of the property sold or exchanged is determined (in whole or in part) under section 1033(b) (relating to basis of property acquired through involuntary conversion), then the holding and use by the taxpayer of the converted property shall be treated as holding and use by the taxpayer of the property sold or exchanged.
+&emsp;&emsp;If the basis of the property sold or exchanged is determined (in whole or in part)under section 1033(b) (relating to basis of property acquired through involuntary conversion), then the holding and use by the taxpayer of the converted property shall be treated as holding and use by the taxpayer of the property sold or exchanged.
 
 #### (6) Recognition of gain attributable to depreciation
 
@@ -274,37 +284,9 @@ This section shall not apply to any sale or exchange with respect to which the t
 
 #### (g) Residences acquired in rollovers under section 1034
 
-For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 <sup>2</sup> (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer's principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) <sup>2</sup> in determining the holding period of such property) had been so owned and used.
+For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 <sup>1</sup> (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer's principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) <sup>1</sup> in determining the holding period of such property) had been so owned and used.
 
 (Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84; Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336; Pub. L. 108–357, title VIII, §840(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 109–135, title IV, §§402(a)(3), 403(ee), Dec. 21, 2005, 119 Stat. 2610, 2631; Pub. L. 109–432, div. A, title IV, §417(a)–(d), Dec. 20, 2006, 120 Stat. 2965, 2966; Pub. L. 110–142, §7(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–172, §11(a)(11)(A), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §§110(a), 113(a), (b), June 17, 2008, 122 Stat. 1633, 1635; Pub. L. 110–289, div. C, title III, §3092(a), July 30, 2008, 122 Stat. 2911; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 113–295, div. A, title II, §§212(c), 213(c)(1), 221(a)(20), Dec. 19, 2014, 128 Stat. 4033, 4040; Pub. L. 115–97, title I, §11051(b)(3)(A), Dec. 22, 2017, 131 Stat. 2089.)
-
-#### Amendment of Subsection (d)(3)
-
-<i>Pub. L. 115–97, title I, §11051(b)(3)(A), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, amended subsection (d)(3) of this section, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification. After amendment, subsection (d)(3) reads as follows:</i>
-
-#### <i>(3) Property owned by spouse or former spouse</i>
-
-&emsp;<i>For purposes of this section—</i>
-
-#### <i>(A) Property transferred to individual from spouse or former spouse</i>
-
-&emsp;&emsp;<i>In the case of an individual holding property transferred to such individual in a transaction described in section 1041(a), the period such individual owns such property shall include the period the transferor owned the property.</i>
-
-#### <i>(B) Property used by former spouse pursuant to divorce decree, etc.</i>
-
-&emsp;&emsp;<i>Solely for purposes of this section, an individual shall be treated as using property as such individual's principal residence during any period of ownership while such individual's spouse or former spouse is granted use of the property under a divorce or separation instrument.</i>
-
-#### <i>(C) Divorce or separation instrument</i>
-
-&emsp;&emsp;<i>For purposes of this paragraph, the term "divorce or separation instrument" means—</i>
-
-&emsp;&emsp;&emsp;<i>(i) a decree of divorce or separate maintenance or a written instrument incident to such a decree,</i>
-
-&emsp;&emsp;&emsp;<i>(ii) a written separation agreement, or</i>
-
-&emsp;&emsp;&emsp;<i>(iii) a decree (not described in clause (i)) requiring a spouse to make payments for the support or maintenance of the other spouse.</i>
-
-<i>See 2017 Amendment notes below.</i>
 
 #### References in Text
 
@@ -566,7 +548,5 @@ Pub. L. 105–261, div. A, title X, §1074, Oct. 17, 1998, 112 Stat. 2138, provi
 
 Pub. L. 95–600, title IV, §404(d)(2), Nov. 6, 1978, 92 Stat. 2870, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In the case of a sale or exchange of a residence before July 26, 1981, a taxpayer who has attained age 65 on the date of such sale or exchange may elect to have section 121 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applied by substituting '8-year period' for '5-year period' and '5 years' for '3 years' in subsections (a), (d)(2), and (d)(5) of such section."
 
-<i><sup>1</sup></i><i> See Amendment of Subsection (d)(3) note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

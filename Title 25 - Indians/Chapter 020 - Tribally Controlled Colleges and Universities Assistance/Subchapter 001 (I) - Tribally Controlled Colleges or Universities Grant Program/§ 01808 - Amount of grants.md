@@ -22,7 +22,7 @@
 
 (3)(A) Notwithstanding any provision of law other than subparagraph (B), any interest or investment income that accrues on any funds provided under this subchapter after such funds are paid to the tribally controlled college or university and before such funds are expended for the purpose for which such funds were provided under this subchapter shall be the property of the tribally controlled college or university and shall not be taken into account by any officer or employee of the Federal Government in determining whether to provide assistance, or the amount of assistance, to the tribally controlled college or university under any provision of Federal law.
 
-(B) All interest or investment income described in subparagraph (A) shall be expended bythe tribally controlled college or university by no later than the close of the fiscal year succeeding the fiscal year in which such interest or investment income accrues.
+(B) All interest or investment income described in subparagraph (A) shall be expended by the tribally controlled college or university by no later than the close of the fiscal year succeeding the fiscal year in which such interest or investment income accrues.
 
 (4) Funds provided under this subchapter may only be invested by the tribally controlled college or university in obligations of the United States or in obligations or securities that are guaranteed or insured by the United States.
 
@@ -36,7 +36,7 @@
 
 Nothing in this section shall be construed as interfering with, or suspending the obligation of the Bureau for, the implementation of all legislative provisions enacted prior to April 28, 1988, specifically including those of Public Law 98–192.
 
-(Pub. L. 95–471, title I, §108, formerly §107, Oct. 17, 1978, 92 Stat. 1327; Pub. L. 97–375, title I, §108(c), Dec. 21, 1982, 96 Stat. 1820; renumbered §108 and amended Pub. L. 98–192, §§4(a)(1), 7, Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 99–428, §4, Sept. 30, 1986, 100 Stat. 983; Pub. L. 100–297, title V, §5402(a), Apr. 28, 1988, 102 Stat. 415; Pub. L. 100–427, §24, Sept. 9, 1988, 102 Stat. 1613; Pub. L. 101–477, §1(a), Oct. 30, 1990, 104 Stat. 1152; Pub. L. 105–244, title IX, §901(a)(1), (b)(5)–(7), Oct. 7, 1998, 112 Stat. 1827, 1828; Pub. L. 110–315, title IX, §941(f), Aug. 14, 2008, 122 Stat. 3462.)
+(Pub. L. 95–471, title I, §108, formerly §107, Oct. 17, 1978, 92 Stat. 1327; Pub. L. 97–375, title I, §108(c), Dec. 21, 1982, 96 Stat. 1820; renumbered §108 and amended Pub. L. 98–192, §§4(a)(1), 7, Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 99–428, §4, Sept. 30, 1986, 100 Stat. 983; Pub. L. 100–297, title V, §5402(a), Apr. 28, 1988, 102 Stat. 415; Pub. L. 100–427, §24, Sept. 9, 1988, 102 Stat. 1613; Pub. L. 101–477, §1(a), Oct. 30, 1990, 104 Stat. 1152; Pub. L. 105–244, title IX, §901(a)(1), (b)(5)–(7), Oct. 7, 1998,112 Stat. 1827, 1828; Pub. L. 110–315, title IX, §941(f), Aug. 14, 2008, 122 Stat. 3462.)
 
 #### References in Text
 

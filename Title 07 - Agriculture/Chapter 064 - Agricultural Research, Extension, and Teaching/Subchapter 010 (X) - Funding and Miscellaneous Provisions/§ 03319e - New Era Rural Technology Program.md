@@ -16,7 +16,7 @@ In this section, the term "community college" means an institution of higher edu
 
 &emsp;&emsp;(A) provides an educational program of not less than 2 years that is acceptable for full credit toward such a degree; or
 
-&emsp;&emsp;(B) offers a 2-year program in engineering, technology, mathematics, or the physical, chemical, or biological sciences, designed toprepare a student to work as a technician or at the semiprofessional level in engineering, scientific, or other technological fields requiring the understanding and application of basic engineering, scientific, or mathematical principles of knowledge.
+&emsp;&emsp;(B) offers a 2-year program in engineering, technology, mathematics, or the physical, chemical, or biological sciences, designed to prepare a student to work as a technician or at the semiprofessional level in engineering, scientific, or other technological fields requiring the understanding and application of basic engineering, scientific, or mathematical principles of knowledge.
 
 #### (b) Functions
 
@@ -32,15 +32,17 @@ In this section, the term "community college" means an institution of higher edu
 
 &emsp;&emsp;&emsp;(i) bioenergy;
 
-&emsp;&emsp;&emsp;(ii) pulp and paper manufacturing; and
+&emsp;&emsp;&emsp;(ii) pulp and paper manufacturing;
 
-&emsp;&emsp;&emsp;(iii) agriculture-based renewable energy resources.
+&emsp;&emsp;&emsp;(iii) agriculture-based renewable energy resources; and
+
+&emsp;&emsp;&emsp;(iv) precision agriculture.
 
 #### (2) Requirements for funding
 
 &emsp;To receive funding under this section, an entity shall—
 
-&emsp;&emsp;(A) be a community college or advanced technological center, located in a rural area and in existence on the date of the enactment of this section, that participates in agricultural or bioenergy research and applied research;
+&emsp;&emsp;(A) be a community college or advanced technological center, located in a rural areaand in existence on the date of the enactment of this section, that participates in agricultural or bioenergy research and applied research;
 
 &emsp;&emsp;(B) have a proven record of development and implementation of programs to meet the needs of students, educators, and business and industry to supply the agriculture-based, renewable energy or pulp and paper manufacturing fields with certified technicians, as determined by the Secretary; and
 
@@ -56,9 +58,9 @@ In providing grants under this section, the Secretary shall give preference to e
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2008 through 2012.
+There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2019 through 2023.
 
-(Pub. L. 95–113, title XIV, §1473E, as added Pub. L. 110–234, title VII, §7137, May 22, 2008, 122 Stat. 1229, and Pub. L. 110–246, §4(a), title VII, §7137, June 18, 2008, 122 Stat. 1664, 1990.)
+(Pub. L. 95–113, title XIV, §1473E, as added Pub. L. 110–234, title VII, §7137, May 22, 2008, 122 Stat. 1229, and Pub. L. 110–246, §4(a), title VII, §7137, June 18, 2008, 122 Stat. 1664, 1990; amended Pub. L. 115–334, title VII, §7130, Dec. 20, 2018, 132 Stat. 4795.)
 
 #### References in Text
 
@@ -71,6 +73,12 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 3319e, Pub. L. 95–113, title XIV, §1473E, as added Pub. L. 101–220, §5, Dec. 12, 1989, 103 Stat. 1878, related to research into new commercial products from natural plant materials, prior to repeal by Pub. L. 102–237, title IV, §402(14), Dec. 13, 1991, 105 Stat. 1863.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(1)(B)(iv). Pub. L. 115–334, §7130(1), added cl. (iv).
+
+Subsec. (d). Pub. L. 115–334, §7130(2), substituted "2019 through 2023" for "2008 through 2012".
 
 #### Effective Date
 

@@ -40,7 +40,7 @@ Pub. L. 113–126, title III, §322, July 7, 2014, 128 Stat. 1400, provided that
 
 "(a)
 
-Process for Review for Official Publication.—Not later than 180 days after the date of the enactment of this Act \[July 7, 2014\], the Attorney General shall, in coordination with the Director of National Intelligence, establish a process for the regular review for official publication of significant opinions of the Office of Legal Counsel of the Department of Justice thathave been provided to an element of the intelligence community.
+Process for Review for Official Publication.—Not later than 180 days after the date of the enactment of this Act \[July 7, 2014\], the Attorney General shall, in coordination with the Director of National Intelligence, establish a process for the regular review for official publication of significant opinions of the Office of Legal Counsel of the Department of Justice that have been provided to an element of the intelligence community.
 
 "(b)
 

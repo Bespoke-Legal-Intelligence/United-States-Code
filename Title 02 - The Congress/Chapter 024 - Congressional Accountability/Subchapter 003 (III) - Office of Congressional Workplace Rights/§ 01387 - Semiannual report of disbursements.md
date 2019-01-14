@@ -1,0 +1,42 @@
+### §1387. Semiannual report of disbursements
+
+#### (a) Reports required
+
+Not later than 60 days after the last day of each semiannual period of a fiscal year, the Executive Director of the Office of Compliance <sup>1</sup> shall submit to the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, and the Committees on Appropriations of the House of Representatives and Senate, with respect to that period, a detailed, itemized report of the disbursements for the operations of the Office of Compliance.<sup>1</sup>
+
+#### (b) Contents
+
+#### (1) In general
+
+&emsp;The report required by subsection (a) shall include—
+
+&emsp;&emsp;(A) the identification of each person who receives a payment from the Office of Compliance,<sup>1</sup> except that in the case of an individual, the identification shall be provided in a manner that does not identify the individual by name;
+
+&emsp;&emsp;(B) the quantity and price of any item furnished to the Office of Compliance; <sup>1</sup>
+
+&emsp;&emsp;(C) a description of any service rendered to the Office of Compliance,<sup>1</sup> together with a statement of the time required for the service, and the name, title, and amount paid to each person who renders the service;
+
+&emsp;&emsp;(D) a statement of all amounts appropriated to, or received or expended by, the Office of Compliance <sup>1</sup> and any unexpended balances of such amounts; and
+
+&emsp;&emsp;(E) such additional information as may be required by regulation of the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, or the Committees on Appropriations of the House of Representatives or Senate.
+
+#### (2) Exception for confidential information
+
+&emsp;The Executive Director of the Office of Compliance <sup>1</sup> may exclude from any report required by subsection (a) any information the disclosure of which would violate confidentiality policies of the Office of Compliance.<sup>1</sup>
+
+#### (c) Effective date
+
+This section shall apply with respect to the semiannual periods of October 1 through March 31 and April 1 through September 30 of each fiscal year, beginning with fiscal year 2014.
+
+(Pub. L. 113–76, div. I, title I, §1102, Jan. 17, 2014, 128 Stat. 425.)
+
+#### Codification
+
+Section was enacted as part of the Legislative Branch Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the Congressional Accountability Act of 1995 which comprises this chapter.
+
+#### Change of Name
+
+Office of Compliance changed, as of Dec. 21, 2018, and considered to refer and apply, to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as an Effective Date of 2018 Amendment note under section 1381 of this title.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
+

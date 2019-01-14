@@ -36,7 +36,7 @@
 
 #### (2) Auction quantities
 
-&emsp;For the period described in paragraph (4) and consistent with the conditions described in paragraph (8), the Secretary shall annually auction to any qualified bidder a quantity ofcrude helium in the Federal Helium Reserve equal to—
+&emsp;For the period described in paragraph (4) and consistent with the conditions described in paragraph (8), the Secretary shall annually auction to any qualified bidder a quantity of crude helium in the Federal Helium Reserve equal to—
 
 &emsp;&emsp;(A) for fiscal year 2015, 10 percent of the total volume of crude helium made available for that fiscal year;
 
@@ -212,7 +212,7 @@
 
 #### (4) Report
 
-&emsp;Not later than 1 year after October 2, 2013, and annually thereafter, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report describing all expenditures by the Bureau of Land Management to carry out this chapter.
+&emsp;Not later than 1 year after October 2, 2013, and annually thereafter, the Secretary of theInterior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report describing all expenditures by the Bureau of Land Management to carry out this chapter.
 
 #### (f) Minimum quantity
 

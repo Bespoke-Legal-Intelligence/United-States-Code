@@ -6,7 +6,7 @@ The Colorado River compact signed at Santa Fe, New Mexico, November 24, 1922, pu
 
 #### (b) Rights in waters of Colorado River and tributaries; Colorado River compact as controlling
 
-The rights of the United States in or to waters of the Colorado River and its tributaries howsoever claimed or acquired, as well as the rights of those claiming under the United States, shallbe subject to and controlled by said Colorado River compact.
+The rights of the United States in or to waters of the Colorado River and its tributaries howsoever claimed or acquired, as well as the rights of those claiming under the United States, shall be subject to and controlled by said Colorado River compact.
 
 #### (c) Patents, grants, contracts, concessions, etc.; Colorado River compact as controlling
 
@@ -26,5 +26,5 @@ The Federal Power Act, referred to in subsec. (c), which was in the original the
 
 #### Upper Colorado River Basin Compact
 
-The Upper Colorado River Basin Compact signed by the States of Arizona, Colorado, New Mexico, Utah, and Wyoming on October 11, 1948, was approved by Congress Apr. 6, 1949, ch. 48, 63 Stat. 31.
+The Upper Colorado River Basin Compact signed by the States of Arizona, Colorado, New Mexico, Utah, andWyoming on October 11, 1948, was approved by Congress Apr. 6, 1949, ch. 48, 63 Stat. 31.
 

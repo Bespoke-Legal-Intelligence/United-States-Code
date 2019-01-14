@@ -46,7 +46,7 @@ Alternative Fine Based on Gain or Loss.—If any person derives pecuniary gain f
 
 (e)
 
-Special Rule for Lower Fine Specified in Substantive Provision.—If a law setting forth an offense specifies no fine or a fine that is lower than the fine otherwise applicable under this section and such law, by specific reference, exempts the offense from the applicability of the fine otherwise applicable under this section, the defendant may not be fined more than the amount specified in the law setting forth the offense.
+Special Rule for Lower Fine Specified in Substantive Provision.—If a law setting forthan offense specifies no fine or a fine that is lower than the fine otherwise applicable under this section and such law, by specific reference, exempts the offense from the applicability of the fine otherwise applicable under this section, the defendant may not be fined more than the amount specified in the law setting forth the offense.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1995; amended Pub. L. 100–185, §6, Dec. 11, 1987, 101 Stat. 1280.)
 

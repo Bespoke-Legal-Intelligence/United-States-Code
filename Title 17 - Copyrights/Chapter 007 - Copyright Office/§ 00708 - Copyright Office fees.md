@@ -12,7 +12,7 @@ Fees.—Fees shall be paid to the Register of Copyrights—
 
 &emsp;(4) for the recordation, as provided by section 205, of a transfer of copyright ownership or other document;
 
-&emsp;(5) for the filing, under section 115(b), of a notice of intention to obtain a compulsory license;
+&emsp;(5) for the filing, under section 115(b),<sup>1</sup> of a notice of intention to obtain a compulsory license;
 
 &emsp;(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author;
 
@@ -40,7 +40,7 @@ Adjustment of Fees.—The Register of Copyrights may, by regulation, adjust the 
 
 &emsp;(4) Fees established under this subsection shall be fair and equitable and give due consideration to the objectives of the copyright system.
 
-&emsp;(5) If the Register determines under paragraph (2) that fees should be adjusted, the Register shall prepare a proposed fee schedule and submit the schedule with the accompanying economic analysis to the Congress. The fees proposed by the Register may be instituted after the end of 120 days after the schedule is submitted to the Congress unless, within that 120-day period, a law is enacted stating in substance that the Congress does not approve the schedule.
+&emsp;(5) If the Register determines under paragraph (2) that fees should be adjusted, the Register shall prepare a proposed fee schedule and submit the schedule with the accompanying economic analysis to the Congress. The fees proposed by the Register may be instituted after the end of 120 days after the schedule issubmitted to the Congress unless, within that 120-day period, a law is enacted stating in substance that the Congress does not approve the schedule.
 
 (c) The fees prescribed by or under this section are applicable to the United States Government and any of its agencies, employees, or officers, but the Register of Copyrights has discretion to waive the requirement of this subsection in occasional or isolated cases involving relatively small amounts.
 
@@ -51,6 +51,10 @@ Adjustment of Fees.—The Register of Copyrights may, by regulation, adjust the 
 (3) The income on such investments shall be deposited in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office.
 
 (Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2593; Pub. L. 95–94, title IV, §406(b), Aug. 5, 1977, 91 Stat. 682; Pub. L. 97–366, §1, Oct. 25, 1982, 96 Stat. 1759; Pub. L. 101–318, §2(a), (b), July 3, 1990, 104 Stat. 287, 288; Pub. L. 102–307, title I, §102(f), June 26, 1992, 106 Stat. 266; Pub. L. 105–80, §7, Nov. 13, 1997, 111 Stat. 1532; Pub. L. 106–379, §3(a)(3), Oct. 27, 2000, 114 Stat. 1445; Pub. L. 111–175, title I, §106, May 27, 2010, 124 Stat. 1244.)
+
+#### References in Text
+
+Subsection (b) of section 115, referred to in subsec. (a)(5), was struck out and a new subsection (b) was added by Pub. L. 115–264, title I, §102(a)(2), Oct. 11, 2018, 132 Stat. 3678.
 
 #### Amendments
 
@@ -160,7 +164,7 @@ Prior claims.—Claims to original, supplementary, and renewal copyright receive
 
 #### Effective Date of 1982 Amendment; Transitional Rule
 
-Pub. L. 97–366, §2, Oct. 25, 1982, 96 Stat. 1759, provided that: "This Act \[amending this section, section 110 ofthis title, and section 3 of Title 35, Patents\] shall take effect thirty days after its enactment \[Oct. 25, 1982\] and shall apply to claims to original, supplementary, and renewal copyright received for registration in the Copyright Office on or after the effective date. Claims to original, supplementary, and renewal copyright received for registration in acceptable form in the Copyright Office before the effective date shall be governed by the provisions of section 708(a)(1) and (2) in effect prior to this enactment."
+Pub. L. 97–366, §2, Oct. 25, 1982, 96 Stat. 1759, provided that: "This Act \[amending this section, section 110 of this title, and section 3 of Title 35, Patents\] shall take effect thirty days after its enactment \[Oct. 25, 1982\] and shall apply to claims to original, supplementary, and renewal copyright received for registration in the Copyright Office on or after the effective date. Claims to original, supplementary, and renewal copyright received for registration in acceptable form in the Copyright Office before the effective date shall be governed by the provisions of section 708(a)(1) and (2) in effect prior to this enactment."
 
 #### Effective Date of 1977 Amendment
 
@@ -169,4 +173,6 @@ Pub. L. 95–94, title IV, §406(b), Aug. 5, 1977, 91 Stat. 682, provided that t
 #### Carry-over of Existing Fees
 
 Pub. L. 106–379, §3(c)(2), Oct. 27, 2000, 114 Stat. 1446, provided that: "The fees under section 708(a) of title 17, United States Code, on the date of the enactment of this Act \[Oct. 27, 2000\] shall be the fees in effect under section 708(a) of such title on the day before such date of enactment."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

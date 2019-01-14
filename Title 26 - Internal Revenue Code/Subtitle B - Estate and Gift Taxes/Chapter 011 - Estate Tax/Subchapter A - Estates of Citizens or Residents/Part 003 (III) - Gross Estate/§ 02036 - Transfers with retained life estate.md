@@ -70,7 +70,7 @@ In general.—Except as provided in this subsection, any amendment made by this 
 
 "(2)
 
-Subsection (a).—The amendments made by subsection (a) \[amending this section and section 2501 of this title\] shall apply in cases where the transfer referred to in section 2036(c)(1)(B) of the 1986 Code is on or after June 21, 1988.
+Subsection (a).—The amendments made by subsection (a) \[amending this section and section 2501 ofthis title\] shall apply in cases where the transfer referred to in section 2036(c)(1)(B) of the 1986 Code is on or after June 21, 1988.
 
 "(3)
 

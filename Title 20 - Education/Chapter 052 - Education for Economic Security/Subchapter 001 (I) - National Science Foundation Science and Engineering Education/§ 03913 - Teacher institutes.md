@@ -10,7 +10,7 @@ In making grants under this section, the Foundation shall assure that there is a
 
 #### (c) Cooperation of advanced technology businesses and other businesses
 
-Institutes assisted under this subchapter may, to the extent possible, involve the cooperation of advanced technology businesses and other businesses which are able to supply assistance in the teaching of mathematics and science.
+Institutes assisted under this subchapter may, to the extent possible, involve the cooperationof advanced technology businesses and other businesses which are able to supply assistance in the teaching of mathematics and science.
 
 #### (d) Requirement of involvement in planning and development
 

@@ -62,7 +62,7 @@ The Commission shall elect a chairman from among its members. The term of the ch
 
 #### (f) Terms
 
-Any member of the Commission appointed by the Secretary for a 3-year term may serve after the expiration of his or her term until a successor is appointed. Any vacancy shall be filled in the same manner in which the original appointment was made. Any member appointed to fill avacancy shall serve for the remainder of the term for which the predecessor was appointed.
+Any member of the Commission appointed by the Secretary for a 3-year term may serve after the expiration of his or her term until a successor is appointed. Any vacancy shall be filled in the same manner in which the original appointment was made. Any member appointed to fill a vacancy shall serve for the remainder of the term for which the predecessor was appointed.
 
 #### (g) Per diem expenses
 

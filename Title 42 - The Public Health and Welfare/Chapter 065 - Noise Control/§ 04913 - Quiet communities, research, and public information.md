@@ -2,7 +2,7 @@
 
 To promote the development of effective State and local noise control programs, to provide an adequate Federal noise control research program designed to meet the objectives of this chapter, and to otherwise carry out the policy of this chapter, the Administrator shall, in cooperation with other Federal agencies and through the use of grants, contracts, and direct Federal actions—
 
-&emsp;(a) develop and disseminate information and educational materials to all segments of the public on the public health and other effects of noise and the most effective means for noise control, through the use of materials for school curricula, volunteer organizations, radio and television programs, publication, and other means;
+&emsp;(a) develop and disseminate information and educational materials to all segments of the public on the public health and other effects of noise and the most effective means for noisecontrol, through the use of materials for school curricula, volunteer organizations, radio and television programs, publication, and other means;
 
 &emsp;(b) conduct or finance research directly or with any public or private organization or any person on the effects, measurement, and control of noise, including but not limited to—
 
@@ -34,7 +34,7 @@ To promote the development of effective State and local noise control programs, 
 
 &emsp;&emsp;(4) conduct of studies and demonstrations to determine the resource and personnel needs of States and local governments required for the establishment and implementation of effective noise abatement and control programs; and
 
-&emsp;&emsp;(5) development of education and training materials and programs, including nationaland regional workshops, to support State and local noise abatement and control programs;
+&emsp;&emsp;(5) development of education and training materials and programs, including national and regional workshops, to support State and local noise abatement and control programs;
 
 > &emsp;except that no actions, plans or programs hereunder shall be inconsistent with existing Federal authority under this chapter to regulate sources of noise in interstate commerce;
 

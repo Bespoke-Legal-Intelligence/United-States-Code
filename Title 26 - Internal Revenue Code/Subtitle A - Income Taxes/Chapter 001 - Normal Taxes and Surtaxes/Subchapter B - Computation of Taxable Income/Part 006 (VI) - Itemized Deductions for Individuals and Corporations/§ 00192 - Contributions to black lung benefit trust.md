@@ -50,7 +50,7 @@ The maximum amount of the deduction allowed by subsection (a) for any taxpayer f
 
 #### (4) Contributions to be in cash or certain other items
 
-&emsp;No deduction shall be allowed under subsection (a) with respect to any contribution to a trust described in section 501(c)(21) other than a contribution in cash or in items in which such trust may invest under subclause (II) of section 501(c)(21)(A)(ii).
+&emsp;No deduction shall be allowed under subsection (a) with respect to any contribution to a trust described in section 501(c)(21) other than a contribution in cash or in items inwhich such trust may invest under subclause (II) of section 501(c)(21)(A)(ii).
 
 #### (5) Denial of section 162 deduction with respect to liability
 

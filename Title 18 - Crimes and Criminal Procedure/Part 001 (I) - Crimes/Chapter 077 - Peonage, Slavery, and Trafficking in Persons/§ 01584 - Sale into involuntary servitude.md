@@ -4,7 +4,7 @@
 
 (b) Whoever obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be subject to the penalties described in subsection (a).
 
-(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994,108 Stat. 2147; Pub. L. 104–208, div. C, title II, §218(a), Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 106–386, div. A, §112(a)(1), Oct. 28, 2000, 114 Stat. 1486; Pub. L. 110–457, title II, §222(b)(2), Dec. 23, 2008, 122 Stat. 5068.)
+(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, §218(a), Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 106–386, div. A, §112(a)(1), Oct. 28, 2000, 114 Stat. 1486; Pub. L. 110–457, title II, §222(b)(2), Dec. 23, 2008, 122 Stat. 5068.)
 
 #### Historical and Revision Notes
 

@@ -28,6 +28,8 @@ The words "Congress hereby declares that", "to persons", and "Congress determine
 
 #### Short Title of 2018 Amendment
 
+Pub. L. 115–323, §1, Dec. 17, 2018, 132 Stat. 4443, provided that: "This Act \[amending provisions set out as a note under section 30301 of this title\] may be cited as the 'REAL ID Act Modification for Freely Associated States Act'."
+
 Pub. L. 115–106, §1, Jan. 8, 2018, 131 Stat. 2265, provided that: "This Act \[amending section 31310 of this title\] may be cited as the 'No Human Trafficking on Our Roads Act'."
 
 Pub. L. 115–105, §1, Jan. 8, 2018, 131 Stat. 2263, provided that: "This Act \[amending section 31305 of this title and enacting and amending provisions set out as notes under section 31149 of this title\] may be cited as the 'Jobs for Our Heroes Act'."
@@ -46,7 +48,7 @@ Pub. L. 114–94, div. B, title XXIV, §24351, Dec. 4, 2015, 129 Stat. 1716, pro
 
 #### Short Title of 2012 Amendment
 
-Pub. L. 112–196, §1, Oct. 19, 2012, 126 Stat. 1459, provided that: "This Act \[amending section 31311 of this title\] may be cited as the 'Military Commercial Driver's License Act of 2012'."
+Pub. L. 112–196, §1, Oct. 19, 2012, 126 Stat. 1459, provided that: "This Act \[amending section 31311 of thistitle\] may be cited as the 'Military Commercial Driver's License Act of 2012'."
 
 Pub. L. 112–141, div. C, title II, §32001, July 6, 2012, 126 Stat. 776, provided that "This title \[see Tables for classification\] may be cited as the 'Commercial Motor Vehicle Safety Enhancement Act of 2012'."
 

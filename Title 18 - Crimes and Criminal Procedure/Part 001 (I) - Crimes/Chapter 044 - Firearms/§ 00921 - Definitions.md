@@ -4,7 +4,7 @@
 
 (1) The term "person" and the term "whoever" include any individual, corporation, company, association, firm, partnership, society, or joint stock company.
 
-(2) The term "interstate or foreign commerce" includes commerce between any place in a State and any place outside of that State, or within any possession of the United States (not including the Canal Zone) or the District of Columbia, but such term does not include commerce between places within the same State but through any place outside of that State. The term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States (not including the Canal Zone).
+(2) The term "interstate or foreign commerce" includes commerce between any place in a State and any place outside of that State, or withinany possession of the United States (not including the Canal Zone) or the District of Columbia, but such term does not include commerce between places within the same State but through any place outside of that State. The term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States (not including the Canal Zone).
 
 (3) The term "firearm" means (A) any weapon (including a starter gun) which will or is designed to or may readily be converted to expel a projectile by the action of an explosive; (B) the frame or receiver of any such weapon; (C) any firearm muffler or firearm silencer; or (D) any destructive device. Such term does not include an antique firearm.
 
@@ -28,7 +28,7 @@
 
 &emsp;(C) any combination of parts either designed or intended for use in converting any device into any destructive device described in subparagraph (A) or (B) and from which a destructive device may be readily assembled.
 
-> The term "destructive device" shall not include any device which is neither designed nor redesigned for use as a weapon; any device, although originally designed for use as a weapon, which is redesigned for use as a signaling, pyrotechnic, line throwing, safety, or similar device; surplus ordnance sold, loaned, or given by the Secretary of the Army pursuant to the provisions of section 4684(2), 4685, or 4686 of title 10; or any other device which the Attorney General finds is not likely to be used as a weapon, is an antique, or is a rifle which the owner intends to use solely for sporting, recreational or cultural purposes.
+> The term "destructive device" shall not include any device which is neither designed nor redesigned for use as a weapon; any device, although originally designed for use as a weapon, which is redesigned for use as a signaling, pyrotechnic, line throwing, safety, or similar device; surplus ordnance sold, loaned, or given by the Secretary of the Army pursuant to the provisions of section 7684(2), 7685, or 7686 of title 10; or any other device which the Attorney General finds is not likely to be used as a weapon, is an antique, or is a rifle which the owner intends to use solely for sporting, recreational or cultural purposes.
 
 (5) The term "shotgun" means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of an explosive to fire through a smooth bore either a number of ball shot or a single projectile for each single pull of the trigger.
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(ii) uses rimfire or conventional centerfire fixed ammunition which is no longer manufactured in the United States and which is not readily available in the ordinary channels of commercial trade; or
 
-&emsp;(C) any muzzle loading rifle, muzzle loading shotgun, or muzzle loading pistol, which is designed to use black powder, or a black powder substitute, and which cannot use fixed ammunition. For purposes of this subparagraph, the term "antique firearm" shall not include any weapon which incorporates a firearm frame or receiver, any firearm which is converted into a muzzle loading weapon, or any muzzle loading weapon which can be readily converted to fire fixed ammunition by replacing the barrel, bolt, breechblock, or any combination thereof.
+&emsp;(C) any muzzle loading rifle, muzzle loading shotgun, or muzzle loading pistol, which is designed to use black powder, or a black powdersubstitute, and which cannot use fixed ammunition. For purposes of this subparagraph, the term "antique firearm" shall not include any weapon which incorporates a firearm frame or receiver, any firearm which is converted into a muzzle loading weapon, or any muzzle loading weapon which can be readily converted to fire fixed ammunition by replacing the barrel, bolt, breechblock, or any combination thereof.
 
 (17)(A) The term "ammunition" means ammunition or cartridge cases, primers, bullets, or propellent powder designed for use in any firearm.
 
@@ -90,7 +90,7 @@
 
 &emsp;(A) as applied to a manufacturer of firearms, a person who devotes time, attention, and labor to manufacturing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms manufactured;
 
-&emsp;(B) as applied to a manufacturer of ammunition, a person who devotes time, attention,and labor to manufacturing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition manufactured;
+&emsp;(B) as applied to a manufacturer of ammunition, a person who devotes time, attention, and labor to manufacturing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition manufactured;
 
 &emsp;(C) as applied to a dealer in firearms, as defined in section 921(a)(11)(A), a person who devotes time, attention, and labor to dealing in firearms as a regular course of trade or business with the principal objective of livelihood and profit through the repetitive purchase and resale of firearms, but such term shall not include a person who makes occasional sales, exchanges, or purchases of firearms for the enhancement of a personal collection or for a hobby, or who sells all or part of his personal collection of firearms;
 
@@ -170,13 +170,15 @@
 
 (b) For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110105(2), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2000, 2014, 2020, 2150; Pub. L. 104–88, title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, §101(b) \[title I, §119(a)\], (h) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490; Pub. L. 107–273, div. C, title I, §11009(e)(1), Nov. 2, 2002, 116 Stat. 1821; Pub. L. 107–296, title XI, §1112(f)(1)–(3), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–162, title IX, §908(a), Jan. 5, 2006, 119 Stat. 3083.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110105(2), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2000, 2014, 2020, 2150; Pub. L. 104–88, title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, §101(b) \[title I, §119(a)\], (h) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490; Pub.L. 107–273, div. C, title I, §11009(e)(1), Nov. 2, 2002, 116 Stat. 1821; Pub. L. 107–296, title XI, §1112(f)(1)–(3), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–162, title IX, §908(a), Jan. 5, 2006, 119 Stat. 3083; Pub. L. 115–232, div. A, title VIII, §809(e)(2), Aug. 13, 2018, 132 Stat. 1842.)
 
 #### References in Text
 
 For definition of Canal Zone, referred to in subsec. (a)(2), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(4). Pub. L. 115–232 substituted "section 7684(2), 7685, or 7686 of title 10" for "section 4684(2), 4685, or 4686 of title 10" in concluding provisions.
 
 <b>2006</b>—Subsec. (a)(33)(A)(i). Pub. L. 109–162, which directed the general amendment of "section 921(33)(A)(i) of title 18", was executed to par. (33)(A)(i) of subsec. (a), to reflect the probable intent of Congress. Prior to amendment, cl. (i) read as follows: "is a misdemeanor under Federal or State law; and".
 
@@ -220,7 +222,7 @@ Subsec. (a)(22)(C)(iii). Pub. L. 103–322, §330021(1), substituted "kidnapping
 
 Subsec. (a)(30). Pub. L. 103–322, §110102(b), which added par. (30) defining "semiautomatic assault weapon", was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (a)(31). Pub. L. 103–322, §110103(b), which added par. (31) defining "large capacity ammunition feeding device", was repealed by Pub. L. 103–322,§110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (a)(31). Pub. L. 103–322, §110103(b), which added par. (31) defining "large capacity ammunition feeding device", was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
 Subsec. (a)(32). Pub. L. 103–322, §110401(a), added par. (32).
 
@@ -255,6 +257,10 @@ Subsec. (a)(23), (24). Pub. L. 99–308, §101(6), added pars. (23) and (24).
 <b>1968</b>—Subsec. (a). Pub. L. 90–618 inserted definitions of "collector", "licensed collector", and "crime punishable by imprisonment for a term exceeding one year", amended definitions of "person", "whoever", "interstate or foreign commerce", "State", "firearm", "destructive device", "dealer", "indictment", "fugitive from justice", "antique firearm", "ammunition", and "published ordinance", and reenacted without change definitions of "shotgun", "short-barreled shotgun", "rifle", "short-barreled rifle", "importer", "licensed importer", "manufacturer", "licensed manufacturer", "licensed dealer", "pawnbroker", and "Secretary" or "Secretary of the Treasury".
 
 Subsec. (b). Pub. L. 90–618 substituted provisions determining that a member of the armed forces on active duty is a resident of the State in which his permanent duty station is located for provisions defining "firearm", "destructive device", and "crime punishable by imprisonment for a term exceeding one year".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
 
 #### Effective Date of 2002 Amendment
 
@@ -322,7 +328,7 @@ Pub. L. 103–322, title XI, §110101, Sept. 13, 1994, 108 Stat. 1996, provided 
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–159, title I, §101, Nov. 30, 1993, 107 Stat. 1536, provided that: "This title \[enacting section 925A of this title, amending this section, sections 922 and 924 of this title, and section 3759 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 922 of this title\] may be cited as the 'Brady Handgun Violence Prevention Act'."
+Pub. L. 103–159, title I, §101, Nov. 30, 1993, 107 Stat. 1536, provided that: "This title \[enacting section 925A of this title, amending this section, sections 922 and 924of this title, and section 3759 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 922 of this title\] may be cited as the 'Brady Handgun Violence Prevention Act'."
 
 Pub. L. 103–159, title III, §301, Nov. 30, 1993, 107 Stat. 1545, provided that: "This title \[amending sections 922 to 924 of this title\] may be cited as the 'Federal Firearms License Reform Act of 1993'."
 
@@ -386,7 +392,7 @@ Pub. L. 90–351, title IV, §901, June 19, 1968, 82 Stat. 225, provided that:
 
 &emsp;"(1) that there is a widespread traffic in firearms moving in or otherwise affecting interstate or foreign commerce, and that the existing Federal controls over such traffic do not adequately enable the States to control this traffic within their own borders through the exercise of their police power;
 
-&emsp;"(2) that the ease with which any person can acquire firearms other than a rifle or shotgun (including criminals, juveniles without the knowledge or consent of their parents or guardians, narcotics addicts, mental defectives, armed groups who would supplant the functions of duly constituted public authorities, and others whose possession of such weapon is similarly contrary to the public interest) is a significant factor in the prevalence of lawlessness and violent crime in the United States;
+&emsp;"(2) that the ease with which any person can acquire firearms other than a rifle or shotgun (including criminals, juveniles without the knowledge or consent of their parents or guardians, narcotics addicts, mental defectives, armed groups who would supplant the functions of duly constituted public authorities, and others whose possession of such weaponis similarly contrary to the public interest) is a significant factor in the prevalence of lawlessness and violent crime in the United States;
 
 &emsp;"(3) that only through adequate Federal control over interstate and foreign commerce in these weapons, and over all persons engaging in the businesses of importing, manufacturing, or dealing in them, can this grave problem be properly dealt with, and effective State and local regulation of this traffic be made possible;
 

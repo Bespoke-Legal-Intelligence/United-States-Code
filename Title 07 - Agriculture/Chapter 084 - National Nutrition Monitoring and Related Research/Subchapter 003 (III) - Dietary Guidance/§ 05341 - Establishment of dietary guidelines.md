@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;During the sixty-day review period established in paragraph (1), the Secretaries shall review and approve or disapprove such guidance to assure that the guidance either is consistent with the "Dietary Guidelines for Americans" or that the guidance is based on medical or new scientific knowledge which is determined to be valid by the Secretaries. If after such sixty-day period neither Secretary notifies the proposing agency that such guidance has been disapproved, then such guidance may be issued by the agency. If both Secretaries disapprove of such guidance, it shall be returned to the agency. If either Secretary finds that such guidance is inconsistent with the "Dietary Guidelines for Americans" and so notifies the proposing agency, such agency shall follow the procedures set forth in this subsection before disseminating such proposal to the public in final form. If after such sixty-day period, either Secretary disapproves such guidance as inconsistent with the "Dietary Guidelines for Americans" the proposing agency shall—
+&emsp;&emsp;During the sixty-day review period established in paragraph (1), the Secretaries shallreview and approve or disapprove such guidance to assure that the guidance either is consistent with the "Dietary Guidelines for Americans" or that the guidance is based on medical or new scientific knowledge which is determined to be valid by the Secretaries. If after such sixty-day period neither Secretary notifies the proposing agency that such guidance has been disapproved, then such guidance may be issued by the agency. If both Secretaries disapprove of such guidance, it shall be returned to the agency. If either Secretary finds that such guidance is inconsistent with the "Dietary Guidelines for Americans" and so notifies the proposing agency, such agency shall follow the procedures set forth in this subsection before disseminating such proposal to the public in final form. If after such sixty-day period, either Secretary disapproves such guidance as inconsistent with the "Dietary Guidelines for Americans" the proposing agency shall—
 
 &emsp;&emsp;&emsp;(i) publish a notice in the Federal Register of the availability of the full text of the proposal and the preamble of such proposal which shall explain the basis and purpose for the proposed dietary guidance;
 
@@ -46,7 +46,7 @@
 
 #### (E) Review of disapproval
 
-&emsp;&emsp;If a proposed dietary guidance is disapproved by both Secretaries under subparagraph (D), the Federal agency proposing such guidance may, within fifteen days after receiving notification of such disapproval under subparagraph (D), request the Secretaries to review such disapproval. Within fifteen days after receiving a request forsuch a review, the Secretaries shall conduct such review. If, pursuant to such review, either Secretary approves such proposed dietary guidance, such guidance may be issued by the Federal agency.
+&emsp;&emsp;If a proposed dietary guidance is disapproved by both Secretaries under subparagraph (D), the Federal agency proposing such guidance may, within fifteen days after receiving notification of such disapproval under subparagraph (D), request the Secretaries to review such disapproval. Within fifteen days after receiving a request for such a review, the Secretaries shall conduct such review. If, pursuant to such review, either Secretary approves such proposed dietary guidance, such guidance may be issued by the Federal agency.
 
 #### (3) Limitation on definition of guidance
 

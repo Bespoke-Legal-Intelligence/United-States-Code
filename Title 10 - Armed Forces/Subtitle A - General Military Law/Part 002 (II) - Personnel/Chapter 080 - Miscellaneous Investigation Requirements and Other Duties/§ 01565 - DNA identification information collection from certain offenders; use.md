@@ -56,7 +56,7 @@ Regulations.—This section shall be carried out under regulations prescribed by
 
 Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsecs. (a)(2), (d)(2), and (e)(2)(A), is section 3 of Pub. L. 106–546, which was classified to section 14135a of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 40702 of Title 34, Crime Control and Law Enforcement.
 
-Section 4 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (e)(2)(B), is section 4of Pub. L. 106–546, which is classified to section 40703 of Title 34, Crime Control and Law Enforcement.
+Section 4 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (e)(2)(B), is section 4 of Pub. L. 106–546, which is classified to section 40703 of Title 34, Crime Control and Law Enforcement.
 
 The Uniform Code of Military Justice, referred to in subsec. (d), is classified to chapter 47 (§801 et seq.) of this title.
 

@@ -2,7 +2,7 @@
 
 As used in this chapter, the term—
 
-&emsp;(1) "Alaska Railroad" means the agency of the United States Government that is operated by the Department of Transportation as a rail carrier in Alaska under authority of theAct of March 12, 1914 (43 U.S.C. 975 et seq.) (popularly referred to as the "Alaska Railroad Act") and section 6(i) <sup>1</sup> of the Department of Transportation Act, or, as the context requires, the railroad operated by that agency;
+&emsp;(1) "Alaska Railroad" means the agency of the United States Government that is operated by the Department of Transportation as a rail carrier in Alaska under authority of the Act of March 12, 1914 (43 U.S.C. 975 et seq.) (popularly referred to as the "Alaska Railroad Act") and section 6(i) <sup>1</sup> of the Department of Transportation Act, or, as the context requires, the railroad operated by that agency;
 
 &emsp;(2) "Alaska Railroad Revolving Fund" means the public enterprise fund maintained by the Department of the Treasury into which revenues of the Alaska Railroad and appropriations for the Alaska Railroad are deposited, and from which funds are expended for Alaska Railroad operation, maintenance and construction work authorized by law;
 
@@ -50,7 +50,7 @@ As used in this chapter, the term—
 
 &emsp;(13) "State" means the State of Alaska or the State-owned railroad, as the context requires;
 
-&emsp;(14) "State-owned railroad" means the authority, agency, corporation or other entity which the State of Alaska designates or contracts with to own, operate or manage the rail properties of the Alaska Railroad or, as thecontext requires, the railroad owned, operated, or managed by such authority, agency, corporation, or other entity; and
+&emsp;(14) "State-owned railroad" means the authority, agency, corporation or other entity which the State of Alaska designates or contracts with to own, operate or manage the rail properties of the Alaska Railroad or, as the context requires, the railroad owned, operated, or managed by such authority, agency, corporation, or other entity; and
 
 &emsp;(15) "Village Corporation" has the same meaning as such term has under section 3(j) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(j)).
 

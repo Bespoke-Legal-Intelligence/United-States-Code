@@ -16,7 +16,7 @@ Amounts in the Countering Russian Influence Fund shall be used to effectively im
 
 &emsp;&emsp;&emsp;(ii) lack the economic capability to effectively respond to aggression by the Russian Federation without the support of the United States.
 
-&emsp;&emsp;(B) Countries that are participating in the enlargement process of the North Atlantic Treaty Organization or the European Union, including Albania, Bosnia and Herzegovina,Georgia, Macedonia, Moldova, Kosovo, Serbia, and Ukraine.
+&emsp;&emsp;(B) Countries that are participating in the enlargement process of the North Atlantic Treaty Organization or the European Union, including Albania, Bosnia and Herzegovina, Georgia, Macedonia, Moldova, Kosovo, Serbia, and Ukraine.
 
 &emsp;(2) To combat corruption, improve the rule of law, and otherwise strengthen independent judiciaries and prosecutors general offices in the countries described in paragraph (1).
 
@@ -74,7 +74,7 @@ The Secretary of State may modify the goals described in subsection (b) if, not 
 
 &emsp;&emsp;(B) the governments of countries that are members of the North Atlantic Treaty Organization or the European Union; and
 
-&emsp;&emsp;(C) international organizations and quasi-governmental funding entities that carry out programs and activities that seek to accomplish the goals described in subsection (b).
+&emsp;&emsp;(C) international organizations and quasi-governmental funding entities that carryout programs and activities that seek to accomplish the goals described in subsection (b).
 
 #### (2) Report by Secretary of State
 

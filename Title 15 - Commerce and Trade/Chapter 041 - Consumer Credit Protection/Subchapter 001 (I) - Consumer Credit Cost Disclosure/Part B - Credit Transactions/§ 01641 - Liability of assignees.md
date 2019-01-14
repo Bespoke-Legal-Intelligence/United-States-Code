@@ -64,7 +64,7 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 #### (2) Servicer not treated as owner on basis of assignment for administrative convenience
 
-&emsp;A servicer of a consumer obligation arising from a consumer credit transaction shall notbe treated as the owner of the obligation for purposes of this section on the basis of an assignment of the obligation from the creditor or another assignee to the servicer solely for the administrative convenience of the servicer in servicing the obligation. Upon written request by the obligor, the servicer shall provide the obligor, to the best knowledge of the servicer, with the name, address, and telephone number of the owner of the obligation or the master servicer of the obligation.
+&emsp;A servicer of a consumer obligation arising from a consumer credit transaction shall not be treated as the owner of the obligation for purposes of this section on the basis of an assignment of the obligation from the creditor or another assignee to the servicer solely for the administrative convenience of the servicer in servicing the obligation. Upon written request by the obligor, the servicer shall provide the obligor, to the best knowledge of the servicer, with the name, address, and telephone number of the owner of the obligation or the master servicer of the obligation.
 
 #### (3) "Servicer" defined
 
@@ -94,7 +94,7 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 &emsp;As used in this subsection, the term "mortgage loan" means any consumer credit transaction that is secured by the principal dwelling of a consumer.
 
-(Pub. L. 90–321, title I, §131, May 29, 1968, 82 Stat. 157; Pub. L. 96–221, title VI, §616(a), Mar. 31, 1980, 94 Stat. 182; Pub. L. 103–325, title I, §153(c), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–29, §7, Sept. 30, 1995, 109 Stat. 274; Pub. L. 111–22, div. A, title IV, §404(a), May 20, 2009, 123 Stat. 1658; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, §131, May 29, 1968, 82 Stat. 157; Pub. L. 96–221, title VI, §616(a), Mar. 31, 1980, 94 Stat. 182; Pub. L. 103–325, title I, §153(c), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–29, §7, Sept. 30,1995, 109 Stat. 274; Pub. L. 111–22, div. A, title IV, §404(a), May 20, 2009, 123 Stat. 1658; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 #### References in Text
 

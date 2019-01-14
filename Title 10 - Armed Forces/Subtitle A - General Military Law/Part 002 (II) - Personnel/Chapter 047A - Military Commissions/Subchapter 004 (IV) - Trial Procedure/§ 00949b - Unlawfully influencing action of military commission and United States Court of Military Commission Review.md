@@ -34,7 +34,7 @@ United States Court of Military Commission Review.—(1) No person may attempt t
 
 &emsp;(B) statements and instructions given in open proceedings by a judge on the United States Court of Military Commission Review, or counsel.
 
-(4) No appellate military judge on the United States Court of Military Commission Review may be reassigned to other duties, except under circumstances as follows:
+(4) No appellate military judge on the United States Court of Military Commission Reviewmay be reassigned to other duties, except under circumstances as follows:
 
 &emsp;(A) The appellate military judge voluntarily requests to be reassigned to other duties and the Secretary of Defense, or the designee of the Secretary, in consultation with the Judge Advocate General of the armed force of which the appellate military judge is a member, approves such reassignment.
 
@@ -46,7 +46,7 @@ United States Court of Military Commission Review.—(1) No person may attempt t
 
 (c)
 
-Prohibition on Consideration of Actions on Commission in Evaluation of Fitness.—In the preparation of an effectiveness, fitness, or efficiency report or any other report or document used in whole or in part for the purpose ofdetermining whether a commissioned officer of the armed forces is qualified to be advanced in grade, or in determining the assignment or transfer of any such officer or whether any such officer should be retained on active duty, no person may—
+Prohibition on Consideration of Actions on Commission in Evaluation of Fitness.—In the preparation of an effectiveness, fitness, or efficiency report or any other report or document used in whole or in part for the purpose of determining whether a commissioned officer of the armed forces is qualified to be advanced in grade, or in determining the assignment or transfer of any such officer or whether any such officer should be retained on active duty, no person may—
 
 &emsp;(1) consider or evaluate the performance of duty of any member of a military commission under this chapter; or
 

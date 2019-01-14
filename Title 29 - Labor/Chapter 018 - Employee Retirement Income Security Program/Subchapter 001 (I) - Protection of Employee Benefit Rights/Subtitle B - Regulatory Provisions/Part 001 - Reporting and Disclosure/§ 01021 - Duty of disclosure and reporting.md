@@ -48,7 +48,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 60 days before the date of any qualified transfer by an employee pension benefit plan of excess pension assets to a health benefits account or applicable life insurance account, the employer maintaining the plan from which the transfer is made shall provide the Secretary, the Secretary of the Treasury, the administrator, and each employee organization representing participants in the plan a written notice of such transfer. A copy of any such notice shall beavailable for inspection in the principal office of the administrator.
+&emsp;&emsp;Not later than 60 days before the date of any qualified transfer by an employee pension benefit plan of excess pension assets to a health benefits account or applicable life insurance account, the employer maintaining the plan from which the transfer is made shall provide the Secretary, the Secretary of the Treasury, the administrator, and each employee organization representing participants in the plan a written notice of such transfer. A copy of any such notice shall be available for inspection in the principal office of the administrator.
 
 #### (B) Information relating to transfer
 
@@ -80,7 +80,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;&emsp;&emsp;(i)(I) in the case of a single-employer plan, a statement as to whether the plan's funding target attainment percentage (as defined in section 1083(d)(2) of this title) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages), or
 
-&emsp;&emsp;&emsp;(II) in the case of a multiemployer plan, a statement as to whether the plan's funded percentage (as defined in section 1085(i) <sup>1</sup> of this title) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages),
+&emsp;&emsp;&emsp;(II) in the case of a multiemployer plan, a statement as to whether the plan's funded percentage (as defined in section 1085(i) <sup>1</sup>of this title) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages),
 
 &emsp;&emsp;&emsp;(ii)(I) in the case of a single-employer plan, a statement of—
 
@@ -112,9 +112,9 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;&emsp;&emsp;&emsp;(II) a clear statement that such insolvency may result in benefit reductions; and
 
-&emsp;&emsp;&emsp;&emsp;(III) a statement describing whether the plan sponsor has taken legally permitted actions to prevent insolvency.
+&emsp;&emsp;&emsp;&emsp;(III) a statement describing whether the plan sponsor has taken legally permitted actions to prevent insolvency.<sup>2</sup>
 
-&emsp;&emsp;&emsp;(vii) in the case of any plan amendment, scheduled benefit increase or reduction, orother known event taking effect in the current plan year and having a material effect on plan liabilities or assets for the year (as defined in regulations by the Secretary), an explanation of the amendment, schedule increase or reduction, or event, and a projection to the end of such plan year of the effect of the amendment, scheduled increase or reduction, or event on plan liabilities,
+&emsp;&emsp;&emsp;(vii) in the case of any plan amendment, scheduled benefit increase or reduction, or other known event taking effect in the current plan year and having a material effect on plan liabilities or assets for the year (as defined in regulations by the Secretary), an explanation of the amendment, schedule increase or reduction, or event, and a projection to the end of such plan year of the effect of the amendment, scheduled increase or reduction, or event on plan liabilities,
 
 &emsp;&emsp;&emsp;(viii)(I) in the case of a single-employer plan, a summary of the rules governing termination of single-employer plans under subtitle C of subchapter III, or
 
@@ -206,7 +206,7 @@ The Secretary shall, by regulation, require multiple employer welfare arrangemen
 
 #### (2) Summary description
 
-&emsp;The trustee of any simple retirement account established pursuant to a qualified salary reduction arrangement under section 408(p) of title 26 shall provide to the employer maintaining the arrangement each year a description containing the following information:
+&emsp;The trustee of any simple retirement account established pursuant to a qualified salary reduction arrangement under section408(p) of title 26 shall provide to the employer maintaining the arrangement each year a description containing the following information:
 
 &emsp;&emsp;(A) The name and address of the employer and the trustee.
 
@@ -260,7 +260,7 @@ The Secretary shall, by regulation, require multiple employer welfare arrangemen
 
 #### (D) Written notice
 
-&emsp;&emsp;The notice required to be provided under this subsection shall be in writing, exceptthat such notice may be in electronic or other form to the extent that such form is reasonably accessible to the recipient.
+&emsp;&emsp;The notice required to be provided under this subsection shall be in writing, except that such notice may be in electronic or other form to the extent that such form is reasonably accessible to the recipient.
 
 #### (E) Notice to issuers of employer securities subject to blackout period
 
@@ -318,13 +318,13 @@ The Secretary shall, by regulation, require multiple employer welfare arrangemen
 
 The plan administrator of a single-employer plan shall provide a written notice to plan participants and beneficiaries within 30 days—
 
-&emsp;(1) after the plan has become subject to a restriction described in paragraph (1) or (3) of section 1056(g) of this title),<sup>2</sup>
+&emsp;(1) after the plan has become subject to a restriction described in paragraph (1) or (3) of section 1056(g) of this title),<sup>3</sup>
 
 &emsp;(2) in the case of a plan to which section 1056(g)(4) of this title applies, after the valuation date for the plan year described in section 1056(g)(4)(A) of this title for which the plan's adjusted funding target attainment percentage for the plan year is less than 60 percent (or, if earlier, the date such percentage is deemed to be less than 60 percent under section 1056(g)(7) of this title), and
 
 &emsp;(3) at such other time as may be determined by the Secretary of the Treasury.
 
-> The notice required to be provided under this subsection shall be in writing, except that suchnotice may be in electronic or other form to the extent that such form is reasonably accessible to the recipient. The Secretary of the Treasury, in consultation with the Secretary, shall have the authority to prescribe rules applicable to the notices required under this subsection.
+> The notice required to be provided under this subsection shall be in writing, except that such notice may be in electronic or other form to the extent that such form is reasonably accessible to the recipient. The Secretary of the Treasury, in consultation with the Secretary, shall have the authority to prescribe rules applicable to the notices required under this subsection.
 
 #### (k) Multiemployer plan information made available on request
 
@@ -416,7 +416,7 @@ Not later than 30 days before the first date on which an applicable individual o
 
 &emsp;&emsp;<b>For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title.</b>
 
-(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061; Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668; Pub. L. 106–170, title V, §535(a)(2)(A), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–204, title III, §306(b)(1), July 30, 2002, 116 Stat. 780; Pub. L. 108–218, title I, §103(a), title II, §204(b)(1), Apr. 10, 2004, 118 Stat. 602, 609; Pub. L. 108–357, title VII, §709(a)(1), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §§103(b)(1), 108(a)(1), (11), formerly §107(a)(1), (11), title V, §§501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, 120 Stat. 815, 818, 819, 936, 939, 940, 944, 948, 952, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §§101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, 122 Stat. 5097, 5104, 5105; Pub. L. 111–148, title VI, §6606, Mar. 23, 2010, 124 Stat. 781; Pub. L. 112–141, div. D, title II, §§40211(b)(2)(A), 40241(b)(1), 40242(e)(14), July 6, 2012, 126 Stat. 848, 859, 863; Pub. L. 113–97, title I, §104(a)(1), (b), Apr. 7, 2014, 128 Stat. 1120; Pub. L. 113–159, title II, §2003(b)(2)(A), Aug. 8, 2014, 128 Stat. 1849; Pub. L. 113–235, div. O, title I, §111(a), (b), title II, §201(a)(4), Dec. 16, 2014, 128 Stat. 2792, 2793, 2799; Pub. L. 114–41, title II, §2007(b)(1), July 31, 2015, 129 Stat. 459; Pub. L. 114–74, title V, §504(b)(2)(A), Nov. 2, 2015, 129 Stat. 594.)
+(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII,§§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061; Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668; Pub. L. 106–170, title V, §535(a)(2)(A), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–204, title III, §306(b)(1), July 30, 2002, 116 Stat. 780; Pub. L. 108–218, title I, §103(a), title II, §204(b)(1), Apr. 10, 2004, 118 Stat. 602, 609; Pub. L. 108–357, title VII, §709(a)(1), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §§103(b)(1), 108(a)(1), (11), formerly §107(a)(1), (11), title V, §§501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, 120 Stat. 815, 818, 819, 936, 939, 940, 944, 948, 952, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §§101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, 122 Stat. 5097, 5104, 5105; Pub. L. 111–148, title VI, §6606, Mar. 23, 2010, 124 Stat. 781; Pub. L. 112–141, div. D, title II, §§40211(b)(2)(A), 40241(b)(1), 40242(e)(14), July 6, 2012, 126 Stat. 848, 859, 863; Pub. L. 113–97, title I, §104(a)(1), (b), Apr. 7, 2014, 128 Stat. 1120; Pub. L. 113–159, title II, §2003(b)(2)(A), Aug. 8, 2014, 128 Stat. 1849; Pub. L. 113–235, div. O, title I, §111(a), (b), title II, §201(a)(4), Dec. 16, 2014, 128 Stat. 2792, 2793, 2799; Pub. L. 114–41, title II, §2007(b)(1), July 31, 2015, 129 Stat. 459; Pub. L. 114–74, title V, §504(b)(2)(A), Nov. 2, 2015, 129 Stat. 594.)
 
 #### References in Text
 
@@ -740,5 +740,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The period probably should be a comma.</i>
+
+<i><sup>3</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
 

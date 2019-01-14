@@ -6,6 +6,7 @@
 | [2101A.](%C2%A7%2002101A%20-%20Eligibility%20for%20benefits%20and%20assistance%20members%20of%20the%20Armed%20Forces%20with%20service-connected%20disabilities%3B%20individuals%20residing%20outside%20the%E2%80%A6.md) | Eligibility for benefits and assistance: members of the Armed Forces with service-connected disabilities; individuals residing outside the United States. |
 | [2102\.](%C2%A7%2002102%20-%20Limitations%20on%20assistance%20furnished.md) | Limitations on assistance furnished. |
 | [2102A.](%C2%A7%2002102A%20-%20Assistance%20for%20individuals%20residing%20temporarily%20in%20housing%20owned%20by%20a%20family%20member.md) | Assistance for individuals residing temporarily in housing owned by a family member. |
+| [2102B.](%C2%A7%2002102B%20-%20Adaptations%20to%20residences%20of%20veterans%20in%20rehabilitation%20programs.md) | Adaptations to residences of veterans in rehabilitation programs. |
 | [2103\.](%C2%A7%2002103%20-%20Furnishing%20of%20plans%20and%20specifications.md) | Furnishing of plans and specifications. |
 | [2104\.](%C2%A7%2002104%20-%20Benefits%20additional%20to%20benefits%20under%20other%20laws.md) | Benefits additional to benefits under other laws. |
 | [2105\.](%C2%A7%2002105%20-%20Nonliability%20of%20United%20States.md) | Nonliability of United States. |
@@ -17,6 +18,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–177, §1(d), June 1, 2018, 132 Stat. 1378, added item 2102B.
 
 <b>2012</b>—Pub. L. 112–154, title VII, §701(a)(2), Aug. 6, 2012, 126 Stat. 1203, added item 2109.
 
@@ -43,6 +46,7 @@
 - [&sect; 02101A - Eligibility for benefits and assistance members of the Armed Forces with service-connected disabilities; individuals residing outside the&#8230;](%C2%A7%2002101A%20-%20Eligibility%20for%20benefits%20and%20assistance%20members%20of%20the%20Armed%20Forces%20with%20service-connected%20disabilities%3B%20individuals%20residing%20outside%20the%E2%80%A6.md)
 - [&sect; 02102 - Limitations on assistance furnished](%C2%A7%2002102%20-%20Limitations%20on%20assistance%20furnished.md)
 - [&sect; 02102A - Assistance for individuals residing temporarily in housing owned by a family member](%C2%A7%2002102A%20-%20Assistance%20for%20individuals%20residing%20temporarily%20in%20housing%20owned%20by%20a%20family%20member.md)
+- [&sect; 02102B - Adaptations to residences of veterans in rehabilitation programs](%C2%A7%2002102B%20-%20Adaptations%20to%20residences%20of%20veterans%20in%20rehabilitation%20programs.md)
 - [&sect; 02103 - Furnishing of plans and specifications](%C2%A7%2002103%20-%20Furnishing%20of%20plans%20and%20specifications.md)
 - [&sect; 02104 - Benefits additional to benefits under other laws](%C2%A7%2002104%20-%20Benefits%20additional%20to%20benefits%20under%20other%20laws.md)
 - [&sect; 02105 - Nonliability of United States](%C2%A7%2002105%20-%20Nonliability%20of%20United%20States.md)

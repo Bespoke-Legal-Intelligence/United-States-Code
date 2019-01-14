@@ -2,35 +2,30 @@
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
-| <b>\[531.</b> | <b>Repealed.\]</b> |  |
-| [<b>533.</b>](Chapter%20533%20-%20Distribution%20in%20Grade/README.md) | <b>Distribution in Grade</b> | <b>5441</b> |
-| [<b>535.</b>](Chapter%20535%20-%20Grade%20and%20Rank%20of%20Officers/README.md) | <b>Grade and Rank of Officers</b> | <b>5501</b> |
-| [<b>537.</b>](Chapter%20537%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>5531</b> |
-| [<b>539.</b>](Chapter%20539%20-%20Original%20Appointments/README.md) | <b>Original Appointments</b> | <b>5571</b> |
-| <b>\[541.</b> | <b>Repealed.\]</b> |  |
-| <b>\[543.</b> | <b>Repealed.\]</b> |  |
-| [<b>544.</b>](Chapter%20544%20-%20Temporary%20Appointments/README.md) | <b>Temporary Appointments</b> | <b>5721</b> |
-| <b>\[545.</b> | <b>Repealed.\]</b> |  |
-| <b>\[547.</b> | <b>Repealed.\]</b> |  |
-| <b>\[549.</b> | <b>Repealed.\]</b> |  |
-| [<b>551.</b>](Chapter%20551%20-%20Officers%20in%20Command/README.md) | <b>Officers in Command</b> | <b>5941</b> |
-| [<b>553.</b>](Chapter%20553%20-%20Special%20Assignments%20and%20Details/README.md) | <b>Special Assignments and Details</b> | <b>5981</b> |
-| [<b>555.</b>](Chapter%20555%20-%20Administration/README.md) | <b>Administration</b> | <b>6011</b> |
-| [<b>557.</b>](Chapter%20557%20-%20Rations/README.md) | <b>Rations</b> | <b>6081</b> |
-| [<b>559.</b>](Chapter%20559%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties</b> | <b>6111</b> |
-| [<b>561.</b>](Chapter%20561%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>6141</b> |
-| [<b>563.</b>](Chapter%20563%20-%20Hospitalization%20and%20Medical%20Care/README.md) | <b>Hospitalization and Medical Care</b> | <b>6201</b> |
-| [<b>565.</b>](Chapter%20565%20-%20Bands/README.md) | <b>Bands</b> | <b>6221</b> |
-| [<b>567.</b>](Chapter%20567%20-%20Decorations%20and%20Awards/README.md) | <b>Decorations and Awards</b> | <b>6241</b> |
-| [<b>569.</b>](Chapter%20569%20-%20Discharge%20of%20Enlisted%20Members/README.md) | <b>Discharge of Enlisted Members</b> | <b>6291</b> |
-| [<b>571.</b>](Chapter%20571%20-%20Voluntary%20Retirement/README.md) | <b>Voluntary Retirement</b> | <b>6321</b> |
-| [<b>573.</b>](Chapter%20573%20-%20Involuntary%20Retirement%2C%20Separation%2C%20and%20Furlough/README.md) | <b>Involuntary Retirement, Separation, and Furlough</b> | <b>6371</b> |
-| [<b>575.</b>](Chapter%20575%20-%20Recall%20to%20Active%20Duty/README.md) | <b>Recall to Active Duty</b> | <b>6481</b> |
-| [<b>577.</b>](Chapter%20577%20-%20Death%20Benefits%3B%20Care%20of%20the%20Dead/README.md) | <b>Death Benefits; Care of the Dead</b> | <b>6521</b> |
+| [<b>811.</b>](Chapter%20811%20-%20Distribution%20in%20Grade/README.md) | <b>Distribution in Grade</b> | <b>8101</b> |
+| [<b>812.</b>](Chapter%20812%20-%20Grade%20and%20Rank%20of%20Officers/README.md) | <b>Grade and Rank of Officers</b> | <b>8111</b> |
+| [<b>813.</b>](Chapter%20813%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>8120</b> |
+| [<b>815.</b>](Chapter%20815%20-%20Original%20Appointments/README.md) | <b>Original Appointments</b> | <b>8132</b> |
+| [<b>821.</b>](Chapter%20821%20-%20Officers%20in%20Command/README.md) | <b>Officers in Command</b> | <b>8162</b> |
+| [<b>823.</b>](Chapter%20823%20-%20Special%20Assignments%20and%20Details/README.md) | <b>Special Assignments and Details</b> | <b>8183</b> |
+| [<b>825.</b>](Chapter%20825%20-%20Administration/README.md) | <b>Administration</b> | <b>8211</b> |
+| [<b>827.</b>](Chapter%20827%20-%20Rations/README.md) | <b>Rations</b> | <b>8241</b> |
+| [<b>829.</b>](Chapter%20829%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties</b> | <b>8253</b> |
+| [<b>831.</b>](Chapter%20831%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>8261</b> |
+| [<b>833.</b>](Chapter%20833%20-%20Hospitalization%20and%20Medical%20Care/README.md) | <b>Hospitalization and Medical Care</b> | <b>8281</b> |
+| [<b>835.</b>](Chapter%20835%20-%20Bands/README.md) | <b>Bands</b> | <b>8286</b> |
+| [<b>837.</b>](Chapter%20837%20-%20Decorations%20and%20Awards/README.md) | <b>Decorations and Awards</b> | <b>8291</b> |
+| [<b>839.</b>](Chapter%20839%20-%20Discharge%20of%20Enlisted%20Members/README.md) | <b>Discharge of Enlisted Members</b> | <b>8317</b> |
+| [<b>841.</b>](Chapter%20841%20-%20Voluntary%20Retirement/README.md) | <b>Voluntary Retirement</b> | <b>8321</b> |
+| [<b>843.</b>](Chapter%20843%20-%20Involuntary%20Retirement%2C%20Separation%2C%20and%20Furlough/README.md) | <b>Involuntary Retirement, Separation, and Furlough</b> | <b>8371</b> |
+| [<b>845.</b>](Chapter%20845%20-%20Recall%20to%20Active%20Duty/README.md) | <b>Recall to Active Duty</b> | <b>8383</b> |
+| [<b>847.</b>](Chapter%20847%20-%20Death%20Benefits%3B%20Care%20of%20the%20Dead/README.md) | <b>Death Benefits; Care of the Dead</b> | <b>8392</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 533 to 577 as 811 to 847 and redesignated section numbers 5441 to 6521 as 8101 to 8392. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
 <b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1673(a)(3), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 531 "Strength of Naval Reserve and Marine Corps Reserve", 541 "Running Mates for Reserve Officers", and 549 "Reserve Promotions".
 
@@ -42,7 +37,7 @@
 
 Act Aug. 10, 1956, ch. 1041, §48, 70A Stat. 639, as amended by Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237, provided that:
 
-"Sec. 48. (a) Except as they may apply to women officers of the Regular Navy or the Regular Marine Corps appointed under section 5590 of title 10, United States Code, enacted by section 1 of this Act, the following sections of title 10 cease to operate whenever the number of male officers serving on active duty in the grade of ensign or above in the line of the Navy does not exceed the number of male officers holding permanent appointments in the grade of ensign or above on the active list in the line of the Regular Navy: Sections 5505, 5508, 5596, 5651–5663, 5701–5703, 5705–5711, 5751, 5753–5759, 5761, 5762, 5764–5770, 5785, 5786, 5791, 6371–6384, 6386, 6407.
+"Sec. 48. (a) Except as they may apply to women officers of the Regular Navy or the Regular Marine Corps appointed under \[former\] section 5590 of title 10, United States Code, enacted by section 1 of this Act, the following sections of title 10 cease to operate whenever the number of male officers serving on active duty in the grade of ensign or above in the line of the Navy does not exceed the number of male officers holding permanent appointments in the grade of ensign or above on the active list in the line of the Regular Navy: Sections 5505 \[former 10 U.S.C. 5505\], 5508 \[now 8118\], 5596 \[now 8146\], \[former\] 5651–5663, \[former\] 5701–5703, \[former\] 5705–5711, \[former\] 5751, \[former\] 5753–5759, \[former\] 5761, \[former\] 5762, \[former\] 5764–5770, \[former\] 5785, \[former\] 5786, \[former\] 5791, 6371–6384 \[10 U.S.C. 6371, 6383 now 10 U.S.C. 8371, 8372; former 10 U.S.C. 6372–6382, 6384\], \[former\] 6386, \[former\] 6407.
 
 "(b) For the purposes of subsection (a), the following officers may not be considered officers serving on active duty:
 
@@ -65,28 +60,21 @@ Sec. 437. Repealed. Pub. L. 104–106, div. A, title XV, §1505(a), Feb. 10, 199
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Chapter 531 - Repealed](Chapter%20531%20-%20Repealed/README.md)
-- [Chapter 533 - Distribution in Grade](Chapter%20533%20-%20Distribution%20in%20Grade/README.md)
-- [Chapter 535 - Grade and Rank of Officers](Chapter%20535%20-%20Grade%20and%20Rank%20of%20Officers/README.md)
-- [Chapter 537 - Enlistments](Chapter%20537%20-%20Enlistments/README.md)
-- [Chapter 539 - Original Appointments](Chapter%20539%20-%20Original%20Appointments/README.md)
-- [Chapter 541 - Repealed](Chapter%20541%20-%20Repealed/README.md)
-- [Chapter 543 - Repealed](Chapter%20543%20-%20Repealed/README.md)
-- [Chapter 544 - Temporary Appointments](Chapter%20544%20-%20Temporary%20Appointments/README.md)
-- [Chapter 545 - Repealed](Chapter%20545%20-%20Repealed/README.md)
-- [Chapter 547 - Repealed](Chapter%20547%20-%20Repealed/README.md)
-- [Chapter 549 - Repealed](Chapter%20549%20-%20Repealed/README.md)
-- [Chapter 551 - Officers in Command](Chapter%20551%20-%20Officers%20in%20Command/README.md)
-- [Chapter 553 - Special Assignments and Details](Chapter%20553%20-%20Special%20Assignments%20and%20Details/README.md)
-- [Chapter 555 - Administration](Chapter%20555%20-%20Administration/README.md)
-- [Chapter 557 - Rations](Chapter%20557%20-%20Rations/README.md)
-- [Chapter 559 - Miscellaneous Prohibitions and Penalties](Chapter%20559%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md)
-- [Chapter 561 - Miscellaneous Rights and Benefits](Chapter%20561%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md)
-- [Chapter 563 - Hospitalization and Medical Care](Chapter%20563%20-%20Hospitalization%20and%20Medical%20Care/README.md)
-- [Chapter 565 - Bands](Chapter%20565%20-%20Bands/README.md)
-- [Chapter 567 - Decorations and Awards](Chapter%20567%20-%20Decorations%20and%20Awards/README.md)
-- [Chapter 569 - Discharge of Enlisted Members](Chapter%20569%20-%20Discharge%20of%20Enlisted%20Members/README.md)
-- [Chapter 571 - Voluntary Retirement](Chapter%20571%20-%20Voluntary%20Retirement/README.md)
-- [Chapter 573 - Involuntary Retirement, Separation, and Furlough](Chapter%20573%20-%20Involuntary%20Retirement%2C%20Separation%2C%20and%20Furlough/README.md)
-- [Chapter 575 - Recall to Active Duty](Chapter%20575%20-%20Recall%20to%20Active%20Duty/README.md)
-- [Chapter 577 - Death Benefits; Care of the Dead](Chapter%20577%20-%20Death%20Benefits%3B%20Care%20of%20the%20Dead/README.md)
+- [Chapter 811 - Distribution in Grade](Chapter%20811%20-%20Distribution%20in%20Grade/README.md)
+- [Chapter 812 - Grade and Rank of Officers](Chapter%20812%20-%20Grade%20and%20Rank%20of%20Officers/README.md)
+- [Chapter 813 - Enlistments](Chapter%20813%20-%20Enlistments/README.md)
+- [Chapter 815 - Original Appointments](Chapter%20815%20-%20Original%20Appointments/README.md)
+- [Chapter 821 - Officers in Command](Chapter%20821%20-%20Officers%20in%20Command/README.md)
+- [Chapter 823 - Special Assignments and Details](Chapter%20823%20-%20Special%20Assignments%20and%20Details/README.md)
+- [Chapter 825 - Administration](Chapter%20825%20-%20Administration/README.md)
+- [Chapter 827 - Rations](Chapter%20827%20-%20Rations/README.md)
+- [Chapter 829 - Miscellaneous Prohibitions and Penalties](Chapter%20829%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md)
+- [Chapter 831 - Miscellaneous Rights and Benefits](Chapter%20831%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md)
+- [Chapter 833 - Hospitalization and Medical Care](Chapter%20833%20-%20Hospitalization%20and%20Medical%20Care/README.md)
+- [Chapter 835 - Bands](Chapter%20835%20-%20Bands/README.md)
+- [Chapter 837 - Decorations and Awards](Chapter%20837%20-%20Decorations%20and%20Awards/README.md)
+- [Chapter 839 - Discharge of Enlisted Members](Chapter%20839%20-%20Discharge%20of%20Enlisted%20Members/README.md)
+- [Chapter 841 - Voluntary Retirement](Chapter%20841%20-%20Voluntary%20Retirement/README.md)
+- [Chapter 843 - Involuntary Retirement, Separation, and Furlough](Chapter%20843%20-%20Involuntary%20Retirement%2C%20Separation%2C%20and%20Furlough/README.md)
+- [Chapter 845 - Recall to Active Duty](Chapter%20845%20-%20Recall%20to%20Active%20Duty/README.md)
+- [Chapter 847 - Death Benefits; Care of the Dead](Chapter%20847%20-%20Death%20Benefits%3B%20Care%20of%20the%20Dead/README.md)

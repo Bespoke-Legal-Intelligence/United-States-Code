@@ -24,7 +24,7 @@ The Secretary, acting through the National Center for the Prevention and Control
 
 &emsp;&emsp;(G) the estimated actual incidence of forcible sex offenses as compared to the reported incidence of forcible sex offenses and the reasons for any difference between the two; and
 
-&emsp;&emsp;(H) the effectiveness of existing private and local and State government educational, counseling, and other programs designed to prevent and control sex offenses.
+&emsp;&emsp;(H) the effectiveness of existing private and local and State government educational,counseling, and other programs designed to prevent and control sex offenses.
 
 &emsp;(2) The compilation, analysis, and publication of summaries of the continuing study conducted under paragraph (1) and the research and demonstration projects conducted under paragraph (5). The Secretary shall submit not later than March 30, 1983, to the Congress a summary of such study and projects together with a review of their effectiveness and recommendations where appropriate.
 
@@ -82,5 +82,5 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

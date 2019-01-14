@@ -30,7 +30,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010, complian
 
 #### (c) Agency powers
 
-For the purpose of the exercise by any agency referred to in subsection (b) of its powers underany Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law, except as provided in subsection (d).
+For the purpose of the exercise by any agency referred to in subsection (b) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law, except as provided in subsection (d).
 
 #### (d) Rules and regulations
 
@@ -56,7 +56,7 @@ In subsec. (b)(3), "subtitle IV of title 49" substituted for "the Acts to regula
 
 In subsec. (b)(4), "part A of subtitle VII of title 49" substituted for "the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301 et seq.\]" and "that part" substituted for "that Act" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
-Section 1089(4) of Pub. L. 111–203, which directed amendment "in subsection (d)" of the Fair Debt Collection Practices Act, was executed in subsec. (d) of this section, which is section 814 of the Act, to reflect the probable intent of Congress. See 2010 Amendment note below.
+Section 1089(4) of Pub. L. 111–203, which directed amendment "in subsection (d)" of the Fair Debt Collection Practices Act, was executed in subsec. (d) of this section, which is section 814 of the Act, to reflect theprobable intent of Congress. See 2010 Amendment note below.
 
 #### Amendments
 
@@ -80,7 +80,7 @@ Subsec. (d). Pub. L. 111–203, §1089(4), substituted "Except as provided in se
 
 <b>1992</b>—Subsec. (b)(1)(C). Pub. L. 102–550 substituted semicolon for period at end.
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–242, §212(e)(2), inserted at end "The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C.1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101)."
+<b>1991</b>—Subsec. (b). Pub. L. 102–242, §212(e)(2), inserted at end "The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101)."
 
 Pub. L. 102–242, §212(e)(1), added par. (1) and struck out former par. (1) which read as follows: "section 8 of Federal Deposit Insurance Act, in the case of—
 

@@ -22,7 +22,7 @@ Expenditures.—Money deposited into the Fund is available for expenditure for C
 
 (d)
 
-Unobligated Balances.—Any unobligated balances at the end of a fiscal year remain in the Fund and are available for authorization in appropriation laws for subsequent fiscal years.
+Unobligated Balances.—Any unobligated balances at the end of a fiscal year remain inthe Fund and are available for authorization in appropriation laws for subsequent fiscal years.
 
 (e)
 

@@ -122,7 +122,7 @@ No tax shall be imposed under this subchapter on the United States or any agency
 
 #### (3) Administrative provisions applicable to tax law not to apply
 
-&emsp;The tax imposed by this subchapter shall not be treated as a tax for purposes of subtitle F or any other provision of law relating to the administration and enforcement of internal revenue taxes.
+&emsp;The tax imposed by this subchapter shall not be treated as a tax for purposes of subtitle For any other provision of law relating to the administration and enforcement of internal revenue taxes.
 
 #### (g) Special rules
 

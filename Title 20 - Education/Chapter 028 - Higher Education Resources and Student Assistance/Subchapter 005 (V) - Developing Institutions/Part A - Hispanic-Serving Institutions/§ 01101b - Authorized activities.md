@@ -12,7 +12,7 @@ Grants awarded under this section shall be used for one or more of the following
 
 &emsp;(2) Construction, maintenance, renovation, and improvement in classrooms, libraries, laboratories, and other instructional facilities.
 
-&emsp;(3) Support of faculty exchanges, faculty development, curriculum development, academicinstruction, and faculty fellowships to assist in attaining advanced degrees in the fellow's field of instruction.
+&emsp;(3) Support of faculty exchanges, faculty development, curriculum development, academic instruction, and faculty fellowships to assist in attaining advanced degrees in the fellow's field of instruction.
 
 &emsp;(4) Purchase of library books, periodicals, and other educational materials, including telecommunications program material.
 
@@ -68,7 +68,7 @@ Another prior section 503 of Pub. L. 89–329 was classified to section 1091b of
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(5). Pub. L. 110–315, §501(2), inserted ", including innovative and customized instruction courses (which may include remedial education and English language instruction) designed to help retain students and move the students rapidly into core courses and through program completion" before period at end.
+<b>2008</b>—Subsec. (b)(5). Pub. L. 110–315, §501(2), inserted ", including innovative and customized instructioncourses (which may include remedial education and English language instruction) designed to help retain students and move the students rapidly into core courses and through program completion" before period at end.
 
 Subsec. (b)(6) to (16). Pub. L. 110–315, §501(1), (3)–(5), added pars. (6) and (15), redesignated former pars. (6), (7), (8), (9), (10), (11), (12), (13), and (14) as pars. (7), (8), (9), (10), (11), (12), (13), (14), and (16), respectively, and in par. (11), substituted "distance education technologies" for "distance learning academic instruction capabilities".
 

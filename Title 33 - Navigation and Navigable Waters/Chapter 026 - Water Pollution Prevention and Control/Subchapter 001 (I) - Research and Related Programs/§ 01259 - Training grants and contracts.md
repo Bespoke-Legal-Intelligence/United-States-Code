@@ -14,7 +14,7 @@
 
 (b)(1) The Administrator may pay 100 per centum of any additional cost of construction of treatment works required for a facility to train and upgrade waste treatment works operation and maintenance personnel and for the costs of other State treatment works operator training programs, including mobile training units, classroom rental, specialized instructors, and instructional material.
 
-(2) The Administrator shall make no more than one grant for such additional construction in any State (to serve a group of States, where, in his judgment, efficient training programs require multi-State programs), and shall makesuch grant after consultation with and approval by the State or States on the basis of (A) the suitability of such facility for training operation and maintenance personnel for treatment works throughout such State or States; and (B) a commitment by the State agency or agencies to carry out at such facility a program of training approved by the Administrator. In any case where a grant is made to serve two or more States, the Administrator is authorized to make an additional grant for a supplemental facility in each such State.
+(2) The Administrator shall make no more than one grant for such additional construction in any State (to serve a group of States, where, in his judgment, efficient training programs require multi-State programs), and shall make such grant after consultation with and approval by the State or States on the basis of (A) the suitability of such facility for training operation and maintenance personnel for treatment works throughout such State or States; and (B) a commitment by the State agency or agencies to carry out at such facility a program of training approved by the Administrator. In any case where a grant is made to serve two or more States, the Administrator is authorized to make an additional grant for a supplemental facility in each such State.
 
 (3) The Administrator may make such grant out of the sums allocated to a State under section 1285 of this title, except that in no event shall the Federal cost of any such training facilities exceed $500,000.
 
@@ -24,7 +24,7 @@
 
 #### References in Text
 
-Prior to the date of enactment of the Clean Water Act of 1977, referred to in subsec. (b)(4), means prior to the enactment of Pub. L. 95–217, Dec. 27, 1977, 91 Stat. 1566, which was approved Dec. 27, 1977.
+Prior to the date of enactment of the Clean Water Act of 1977, referred to in subsec. (b)(4), means prior tothe enactment of Pub. L. 95–217, Dec. 27, 1977, 91 Stat. 1566, which was approved Dec. 27, 1977.
 
 Such Act, referred to in subsec. (b)(4), means Pub. L. 95–217, Dec. 27, 1977, 91 Stat. 1566, as amended, known as the Clean Water Act of 1977. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1251 of this title and Tables.
 

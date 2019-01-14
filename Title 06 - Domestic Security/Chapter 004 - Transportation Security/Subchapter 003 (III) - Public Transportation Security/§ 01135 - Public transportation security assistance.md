@@ -30,7 +30,7 @@ A recipient of a grant under subsection (a) shall use the grant funds for one or
 
 &emsp;&emsp;(E) surveillance equipment;
 
-&emsp;&emsp;(F) communications equipment, including mobile service equipment to provide accessto wireless Enhanced 911 (E911) emergency services in an underground fixed guideway system;
+&emsp;&emsp;(F) communications equipment, including mobile service equipment to provide access to wireless Enhanced 911 (E911) emergency services in an underground fixed guideway system;
 
 &emsp;&emsp;(G) emergency response equipment, including personal protective equipment;
 
@@ -124,7 +124,7 @@ The Secretary shall establish a process to require the return of any misspent gr
 
 &emsp;(C) $750,000,000 for fiscal year 2009, except that not more than 30 percent of such funds may be used for operational costs under subsection (b)(2);
 
-&emsp;(D) $900,000,000 for fiscal year 2010, except that not more than 20 percent of such funds may be used for operational costs under subsection (b)(2); and
+&emsp;(D) $900,000,000 for fiscal year 2010, except that not more than 20 percent of such fundsmay be used for operational costs under subsection (b)(2); and
 
 &emsp;(E) $1,100,000,000 for fiscal year 2011, except that not more than 10 percent of such funds may be used for operational costs under subsection (b)(2).
 

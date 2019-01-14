@@ -68,7 +68,7 @@ Any decision, whether positive or negative, or any action by the Trade Represent
 
 #### (f) Standing
 
-Nothing in this section may be construed to alter in any manner the requirements in effect before December 8, 1993, for standing under any law of the United States or to add any additional requirements for standing under any law of the United States.
+Nothing in this section may be construed to alter in any manner the requirements in effectbefore December 8, 1993, for standing under any law of the United States or to add any additional requirements for standing under any law of the United States.
 
 (Pub. L. 103–182, title IV, §407, Dec. 8, 1993, 107 Stat. 2138; Pub. L. 104–295, §21(c)(2), Oct. 11, 1996, 110 Stat. 3530.)
 

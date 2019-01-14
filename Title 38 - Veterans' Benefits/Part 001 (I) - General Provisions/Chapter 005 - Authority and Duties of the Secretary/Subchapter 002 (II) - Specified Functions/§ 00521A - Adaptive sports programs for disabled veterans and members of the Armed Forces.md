@@ -26,7 +26,7 @@ Application Requirement.—(1) Before the Secretary may award a grant to an elig
 
 &emsp;&emsp;(iv) the performance metrics to be used by the eligible entity to evaluate the effectiveness of the activities to be carried out using grant funds; and
 
-&emsp;&emsp;(v) the anticipated personnel, travel, and administrative costs that will be paid for bygrantees under this subsection using grant funds; and
+&emsp;&emsp;(v) the anticipated personnel, travel, and administrative costs that will be paid for by grantees under this subsection using grant funds; and
 
 &emsp;(B) for any fiscal year for which a grant is sought, the amount of private donations received by the eligible entity expected to be expended to support operations during that fiscal year.
 
@@ -34,7 +34,7 @@ Application Requirement.—(1) Before the Secretary may award a grant to an elig
 
 (d)
 
-Use of Funds.—(1) An eligible entity that receives a grant under this section, with the assistance and cooperation of the Secretary and the heads of other appropriate Federal and State departments and agencies and partnerships referred to in subsection (c)(3), shall use the grant to reimburse grantees with which the eligible entity has entered into a partnership under subsection (c) for the direct costs of recruiting, supporting, equipping, encouraging, scheduling, facilitating, supervising, and implementing the participation of disabled veterans and disabled members of the Armed Forces in the activities described in paragraph (3) by supporting a program described in paragraph (2).
+Use of Funds.—(1) An eligible entity that receives a grant under this section, with the assistance and cooperation of the Secretary and the heads of other appropriate Federal and Statedepartments and agencies and partnerships referred to in subsection (c)(3), shall use the grant to reimburse grantees with which the eligible entity has entered into a partnership under subsection (c) for the direct costs of recruiting, supporting, equipping, encouraging, scheduling, facilitating, supervising, and implementing the participation of disabled veterans and disabled members of the Armed Forces in the activities described in paragraph (3) by supporting a program described in paragraph (2).
 
 (2) A program described in this paragraph is a sports program that—
 
@@ -76,7 +76,7 @@ Coordination.—The Secretary shall ensure access to and use of appropriate Depa
 
 (g)
 
-Authorization of Appropriations.—(1) There is authorized to be appropriated $8,000,000 for each of fiscal years 2010 through 2019.
+Authorization of Appropriations.—(1) There is authorized to be appropriated $8,000,000 for each of fiscal years 2010 through 2020.
 
 (2) Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.
 
@@ -102,11 +102,13 @@ Annual Report to Congress.—For any fiscal year during which the Secretary prov
 
 (l)
 
-Termination.—The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2019.
+Termination.—The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2020.
 
-(Added Pub. L. 110–389, title VII, §702(a), Oct. 10, 2008, 122 Stat. 4181; amended Pub. L. 113–37, §2(b)(1), (2), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §5(a)–(e), (g), (h)(1), Dec. 20, 2013, 127 Stat. 659–662; Pub. L. 114–58, title IV, §405, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §405, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §405, Sept. 29, 2017, 131 Stat. 1164.)
+(Added Pub. L. 110–389, title VII, §702(a), Oct. 10, 2008, 122 Stat. 4181; amended Pub. L. 113–37, §2(b)(1), (2), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §5(a)–(e), (g), (h)(1), Dec. 20, 2013, 127 Stat. 659–662; Pub. L. 114–58, title IV, §405, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §405, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §405, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §165, Sept. 29, 2018, 132 Stat. 3171.)
 
 #### Amendments
+
+<b>2018</b>—Subsecs. (g)(1), (l). Pub. L. 115–251 substituted "2020" for "2019".
 
 <b>2017</b>—Subsecs. (g)(1), (l). Pub. L. 115–62 substituted "2019" for "2017".
 
@@ -162,7 +164,7 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 #### Regulations
 
-Pub. L. 113–59, §5(i), Dec. 20, 2013, 127 Stat. 662, provided that: "To ensure the uninterrupted provision of adaptive sports for disabled veterans and disabled members of the Armed Forces, any regulations that the Secretary of Veterans Affairs determines are necessaryto implement the amendments made by this section \[amending this section\] may be promulgated by interim final rules to ensure the award of grants under section 521A of title 38, United States Code, as amended by this section, before the end of fiscal year 2014."
+Pub. L. 113–59, §5(i), Dec. 20, 2013, 127 Stat. 662, provided that: "To ensure the uninterrupted provision of adaptive sports for disabled veterans and disabled members of the Armed Forces, any regulations that the Secretary of Veterans Affairs determines are necessary to implement the amendments made by this section \[amending this section\] may be promulgated by interim final rules to ensure the award of grants under section 521A of title 38, United States Code, as amended by this section, before the end of fiscal year 2014."
 
 #### Deadline for Memorandum of Understanding
 

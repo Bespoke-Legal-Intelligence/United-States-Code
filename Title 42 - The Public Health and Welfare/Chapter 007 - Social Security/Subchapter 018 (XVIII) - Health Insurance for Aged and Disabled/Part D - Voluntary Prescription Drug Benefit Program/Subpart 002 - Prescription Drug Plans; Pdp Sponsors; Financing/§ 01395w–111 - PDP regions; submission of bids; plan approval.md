@@ -40,7 +40,7 @@
 
 #### (B) Actuarial value
 
-&emsp;&emsp;The actuarial value of the qualified prescription drug coverage in the region for a part D eligible individual with a national average risk profile for the factors described insection 1395w–115(c)(1)(A) of this title (as specified by the Secretary).
+&emsp;&emsp;The actuarial value of the qualified prescription drug coverage in the region for a part D eligible individual with a national average risk profile for the factors described in section 1395w–115(c)(1)(A) of this title (as specified by the Secretary).
 
 #### (C) Bid
 
@@ -186,7 +186,7 @@
 
 #### (A) Limited exercise of authority
 
-&emsp;&emsp;Only the minimum number of such plans may be approved in order to meet the access requirements under section 1395w–103(a) of this title.
+&emsp;&emsp;Only the minimum number of such plans may be approved in order to meet the accessrequirements under section 1395w–103(a) of this title.
 
 #### (B) Maximizing assumption of risk
 
@@ -218,7 +218,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Separate from the bidding process under subsection (b), the Secretary shall provide for a process for the solicitation of bids from eligible fallback entities (as defined in paragraph (2)) for the offering in all fallback service areas (as defined in paragraph (3)) inone or more PDP regions of a fallback prescription drug plan (as defined in paragraph (4)) during the contract period specified in paragraph (5).
+&emsp;&emsp;Separate from the bidding process under subsection (b), the Secretary shall provide for a process for the solicitation of bids from eligible fallback entities (as defined in paragraph (2)) for the offering in all fallback service areas (as defined in paragraph (3)) in one or more PDP regions of a fallback prescription drug plan (as defined in paragraph (4)) during the contract period specified in paragraph (5).
 
 #### (B) Acceptance of bids
 

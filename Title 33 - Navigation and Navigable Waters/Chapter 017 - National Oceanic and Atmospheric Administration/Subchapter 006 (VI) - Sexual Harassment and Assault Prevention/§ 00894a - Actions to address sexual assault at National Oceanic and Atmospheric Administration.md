@@ -96,7 +96,7 @@ The Secretary shall ensure that the policy developed under subsection (a) is ava
 
 #### (e) Consultation and assistance
 
-In developing the policy required by subsection (a), the Secretary may consult or receive assistance from such State, local, and national organizations and subject matter experts as the Secretary considers appropriate.
+In developing the policy required by subsection (a), the Secretary may consult or receiveassistance from such State, local, and national organizations and subject matter experts as the Secretary considers appropriate.
 
 (Pub. L. 114–328, div. C, title XXXV, §3542, Dec. 23, 2016, 130 Stat. 2801.)
 

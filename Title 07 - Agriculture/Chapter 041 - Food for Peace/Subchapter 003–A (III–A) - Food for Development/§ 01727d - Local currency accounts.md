@@ -10,7 +10,7 @@ To the extent determined to be appropriate by the Administrator, revenues genera
 
 #### (b) Ownership and programming of accounts
 
-The proceeds of sales pursuant to section 1727c(2) of this title shall be the property of the recipient country or the United States, as specified in the applicable agreement. Such proceeds shall be utilized for the benefit of the recipient country, shall be jointly programmed by the Administrator and the government of the recipient country, and shall be disbursed for the benefit ofsuch country in accordance with local currency agreements between the Administrator and that government.
+The proceeds of sales pursuant to section 1727c(2) of this title shall be the property of the recipient country or the United States, as specified in the applicable agreement. Such proceeds shall be utilized for the benefit of the recipient country, shall be jointly programmed by the Administrator and the government of the recipient country, and shall be disbursed for the benefit of such country in accordance with local currency agreements between the Administrator and that government.
 
 #### (c) Overall development strategy
 

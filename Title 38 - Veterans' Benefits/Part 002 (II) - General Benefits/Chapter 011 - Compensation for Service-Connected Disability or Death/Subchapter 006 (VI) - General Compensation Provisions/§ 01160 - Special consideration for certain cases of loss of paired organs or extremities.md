@@ -24,7 +24,7 @@
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(1). Pub. L. 110–157 substituted "impairment of vision" for "blindness" in two places and"misconduct and—" for "misconduct;" and added subpars. (A) and (B).
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–157 substituted "impairment of vision" for "blindness" in two places and "misconduct and—" for "misconduct;" and added subpars. (A) and (B).
 
 <b>2002</b>—Subsec. (a)(3). Pub. L. 107–330 substituted "deafness compensable to a degree of 10 percent or more in one ear" for "total deafness in one ear" and "deafness in the other ear" for "total deafness in the other ear".
 

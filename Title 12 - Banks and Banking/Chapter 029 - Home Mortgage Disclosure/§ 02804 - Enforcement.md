@@ -16,7 +16,7 @@ The Bureau shall prescribe such regulations as may be necessary to carry out the
 
 &emsp;&emsp;&emsp;(ii) any member bank of the Federal Reserve System (other than a national bank), branch or agency of a foreign bank (other than a Federal branch, Federal agency, and insured State branch of a foreign bank), commercial lending company owned or controlled by a foreign bank, and any organization operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\]; and
 
-&emsp;&emsp;&emsp;(iii) any bank or State savings association insured by the Federal Deposit Insurance Corporation (other than a member of the Federal Reserve System), any mutual savings bank as,<sup>1</sup> defined in section 1813(f) of this title, any insured State branch of a foreign bank, and any other depository institution not referred to in this paragraph or subparagraph (B) or (C);
+&emsp;&emsp;&emsp;(iii) any bank or State savings association insured by the Federal Deposit Insurance Corporation (other than a member ofthe Federal Reserve System), any mutual savings bank as,<sup>1</sup> defined in section 1813(f) of this title, any insured State branch of a foreign bank, and any other depository institution not referred to in this paragraph or subparagraph (B) or (C);
 
 &emsp;&emsp;(B) under subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\], by the Bureau, with respect to any person subject to this subtitle; <sup>2</sup>
 

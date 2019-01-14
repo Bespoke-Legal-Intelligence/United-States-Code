@@ -18,11 +18,15 @@ Criteria for Participation.—In selecting communities, or consortia of communit
 
 &emsp;(1)
 
-Size.—For calendar year 1997, the airport serving the community or consortium was not larger than a small hub airport, and—
+Size.—On the date of submission of the relevant application under subsection (b), the airport serving the community or consortium—
 
-&emsp;&emsp;(A) had insufficient air carrier service; or
+&emsp;&emsp;(A) is not larger than a small hub airport, as determined using the Department of Transportation's most recently published classification; and
 
-&emsp;&emsp;(B) had unreasonably high air fares.
+&emsp;&emsp;(B) has—
+
+&emsp;&emsp;&emsp;(i) insufficient air carrier service; or
+
+&emsp;&emsp;&emsp;(ii) unreasonably high air fares.
 
 &emsp;(2)
 
@@ -34,7 +38,19 @@ State limit.—Not more than 4 communities or consortia of communities, or a com
 
 &emsp;(4)
 
-Overall limit.—No more than 40 communities or consortia of communities, or a combination thereof, may be selected to participate in the program in each year for which funds are appropriated for the program. No community, consortia of communities, nor combination thereof may participate in the program in support of the same project more than once, but any community, consortia of communities, or combination thereof may apply, subsequent to such participation, to participate in the program in support of a different project.
+Overall limit.—
+
+&emsp;&emsp;(A)
+
+In general.—No more than 40 communities or consortia of communities, or a combination thereof, may be selected to participate in the program in each year for which funds are appropriated for the program.
+
+&emsp;&emsp;(B)
+
+Same projects.—Except as provided in subparagraph (C), no community, consortia of communities, or combination thereof may participate in the program in support of the same project more than once in a 10-year period, but any community, consortia of communities, or combination thereof may apply, subsequent to such participation, to participate in the program in support of a different project at any time.
+
+&emsp;&emsp;(C)
+
+Exception.—The Secretary may waive the limitation under subparagraph (B) related to projects that are the same if the Secretary determines that the community or consortium spent little or no money on its previous project or encountered industry or environmental challenges, due to circumstances that were reasonably beyond the control of the community or consortium.
 
 &emsp;(5)
 
@@ -44,13 +60,15 @@ Priorities.—The Secretary shall give priority to communities or consortia of c
 
 &emsp;&emsp;(B) the community or consortium will provide a portion of the cost of the activity to be assisted under the program from local sources other than airport revenues;
 
-&emsp;&emsp;(C) the community or consortium has established, or will establish, a public-private partnership to facilitate air carrier service to the public;
+&emsp;&emsp;(C) the community or consortium has established, or will establish, a public-privatepartnership to facilitate air carrier service to the public;
 
 &emsp;&emsp;(D) the assistance will provide material benefits to a broad segment of the travelling public, including business, educational institutions, and other enterprises, whose access to the national air transportation system is limited;
 
-&emsp;&emsp;(E) the assistance will be used in a timely fashion; and
+&emsp;&emsp;(E) the assistance will be used to help restore scheduled passenger air service that has been terminated;
 
-&emsp;&emsp;(F) multiple communities cooperate to submit a regional or multistate application to consolidate air service into one regional airport.
+&emsp;&emsp;(F) the assistance will be used in a timely fashion; and
+
+&emsp;&emsp;(G) multiple communities cooperate to submit a regional or multistate application to consolidate air service into one regional airport.
 
 (d)
 
@@ -68,11 +86,11 @@ Authority To Make Agreements.—
 
 &emsp;(1)
 
-In general.—The Secretary may make agreements to provide assistance under this section.
+In general.—The Secretary may make agreements to provide assistance under this section. The Secretary may amend the scope of a grant agreement at the request of the community or consortium and any participating air carrier, and may limit the scope of a grant agreement to only the elements using grant assistance or to only the elements achieved, if the Secretary determines that the amendment is reasonably consistent with the original purpose of the project.
 
 &emsp;(2)
 
-Authorization of appropriations.—There is authorized to be appropriated to the Secretary $6,000,000 for each of fiscal years 2012 through 2017 and $4,986,301 for the period beginning on October 1, 2017, and ending on March 31, 2018, to carry out this section. Such sums shall remain available until expended.
+Authorization of appropriations.—There is authorized to be appropriated to the Secretary $10,000,000 for each of fiscal years 2018 through 2023 to carry out this section. Such sums shall remain available until expended.
 
 (f)
 
@@ -96,9 +114,25 @@ Designation of Responsible Official.—The Secretary shall designate an employee
 
 Air Service Development Zone.—The Secretary shall designate an airport in the program as an Air Service Development Zone and work with the community or consortium on means to attract business to the area surrounding the airport, to develop land use options for the area, and provide data, working with the Department of Commerce and other agencies.
 
-(Added Pub. L. 106–181, title II, §203(a), Apr. 5, 2000, 114 Stat. 92; amended Pub. L. 108–11, title II, §2708, Apr. 16, 2003, 117 Stat. 601; Pub. L. 108–176, title II, §225(b)(3), title IV, §412, Dec. 12, 2003, 117 Stat. 2529, 2551; Pub. L. 110–330, §5(b), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–69, §5(b), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(b), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(b), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(b), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IV, §429, Feb. 14, 2012, 126 Stat. 100; Pub. L. 114–190, title I, §1102(e), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, §104(b), Sept. 29, 2017, 131 Stat. 1170.)
+(Added Pub. L. 106–181, title II, §203(a), Apr. 5, 2000, 114 Stat. 92; amended Pub. L. 108–11, title II, §2708, Apr. 16, 2003, 117 Stat. 601; Pub. L. 108–176, title II, §225(b)(3), title IV, §412, Dec. 12, 2003, 117 Stat. 2529, 2551; Pub. L. 110–330, §5(b), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–69, §5(b), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(b), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(b), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(b), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IV, §429, Feb. 14, 2012, 126 Stat. 100; Pub. L. 114–190, title I, §1102(e), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, §104(b), Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §104(b), Mar. 23, 2018, 132 Stat. 1047; Pub. L. 115–254, div. B, title IV, §455, Oct. 5, 2018, 132 Stat. 3349.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–254, §455(a)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "For calendar year 1997, the airport serving the community or consortium was not larger than a small hub airport, and—
+
+&emsp;"(A) had insufficient air carrier service; or
+
+&emsp;"(B) had unreasonably high air fares."
+
+Subsec. (c)(4). Pub. L. 115–254, §455(a)(2), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "No more than 40 communities or consortia of communities, or a combination thereof, may be selected to participate in the program in each year for which funds are appropriated for the program. No community, consortia of communities, nor combination thereof may participate in the program in support of the same project more than once, but any community, consortia of communities, or combination thereof may apply, subsequent to such participation, to participate in the program in support of a different project."
+
+Subsec. (c)(5)(E) to (G). Pub. L. 115–254, §455(a)(3), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+
+Subsec. (e)(1). Pub. L. 115–254, §455(b), inserted at end "The Secretary may amend the scope of a grant agreement at the request of the community or consortium and any participating air carrier, and may limit the scope of a grant agreement to only the elements using grant assistance or to only the elements achieved, if the Secretary determines that the amendment is reasonably consistent with the original purpose of the project."
+
+Subsec. (e)(2). Pub. L. 115–254, §455(c), amended par. (2) generally. Prior to amendment, text read as follows: "There is authorized to be appropriated to the Secretary $6,000,000 for each of fiscal years 2012 through 2017 and $10,000,000 for fiscal year 2018 to carry out this section. Such sums shall remain available until expended."
+
+Pub. L. 115–141 substituted "2012 through 2017 and $10,000,000 for fiscal year 2018" for "2012 through 2017 and $4,986,301 for the period beginning on October 1, 2017, and ending on March 31, 2018,".
 
 <b>2017</b>—Subsec. (e)(2). Pub. L. 115–63 inserted "and $4,986,301 for the period beginning on October 1, 2017, and ending on March 31, 2018," after "fiscal years 2012 through 2017".
 

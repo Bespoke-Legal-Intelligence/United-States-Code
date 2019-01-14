@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Program.—In instances where the educational assistance provided pursuant to section 3313(c)(1)(A) does not cover the full cost of established charges (as specified in section 3313), the Secretary shall carry out a program under which colleges and universities can, voluntarily, enter into an agreement with the Secretary to cover a portion of those established charges not otherwise covered under section 3313(c)(1)(A), which contributions shall be matched by equivalent contributions toward such costs by the Secretary. The program shall only apply to covered individuals described in paragraphs (1) and (2) of section 3311(b).
+Establishment of Program.—In instances where the educational assistance provided pursuant to section 3313(c)(1)(A) does not cover the full cost of established charges (as specified in section 3313), the Secretary shall carry out a program under which colleges and universities can, voluntarily, enter into an agreement with the Secretary to cover a portion of those established charges not otherwise covered under section 3313(c)(1)(A), which contributions shall be matched by equivalent contributions toward such costs by the Secretary. The program shall only apply to covered individuals described in paragraphs (1), (2), (9), and (10) of section 3311(b).
 
 (b)
 
@@ -10,7 +10,7 @@ Designation of Program.—The program under this section shall be known as the "
 
 (c)
 
-Agreements.—The Secretary shall enter into an agreement with each college or university seeking to participate in the program under this section. Each agreement shall specify the following:
+Agreements.—The Secretary shall enter into an agreement with each college or university seeking to participate in the program underthis section. Each agreement shall specify the following:
 
 &emsp;(1) The manner (whether by direct grant, scholarship, or otherwise) of the contributions to be made by the college or university concerned.
 
@@ -39,8 +39,6 @@ Outreach.—The Secretary shall make available on the Internet website of the De
 (Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2368; amended Pub. L. 115–48, title I, §§103(a), 104(a), 105(c)(4), Aug. 16, 2017, 131 Stat. 975, 976.)
 
 #### Amendment of Subsection (a)
-
-<i>Pub. L. 115–48, title I, §103, Aug. 16, 2017, 131 Stat. 975, provided that, effective Aug. 1, 2018, subsection (a) of this section is amended, in the second sentence, by striking "paragraphs (1) and (2)" and inserting "paragraphs (1), (2), (9), and (10)".</i>
 
 <i>Pub. L. 115–48, title I, §104, Aug. 16, 2017, 131 Stat. 975, provided that, effective Aug. 1, 2022, subsection (a) of this section is amended, in the first sentence, by striking "section 3313(c)(1)(A)" and inserting "subsection (c)(1)(A) or (e)(2)(A) of section 3313 of this title".</i>
 

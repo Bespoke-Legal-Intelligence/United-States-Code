@@ -34,7 +34,7 @@
 
 #### (II) Family-owned corporation
 
-&emsp;&emsp;&emsp;&emsp;For purposes of this clause, except as provided in regulations, the term "family-owned corporation" means any corporation which is described in clause (i) of section 447(d)(2)(C) <sup>1</sup> throughout the 8-year period beginning on the date which is 5 years before the date of the recapitalization. For purposes of the preceding sentence, stock shall not be treated as owned by a family member during any period described in section 355(d)(6)(B).
+&emsp;&emsp;&emsp;&emsp;For purposes of this clause, except as provided in regulations, the term "family-owned corporation" means any corporation which is described in clause (i) of section 447(d)(2)(C) <sup>1</sup> throughout the 8-year period beginning on the date which is 5 years before the date of the recapitalization. For purposes of the preceding sentence, stock shall not be treated asowned by a family member during any period described in section 355(d)(6)(B).
 
 #### (III) Extension of statute of limitations
 

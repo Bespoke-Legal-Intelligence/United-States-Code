@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(IV) the secondary migration of refugees to and from the area that is likely to occur.
 
-(D) With respect to the location of placement of refugees within a State, the Federal agency administering subsection (b)(1) shall, consistent with such policies and strategies and to the maximum extent possible, take into account recommendations of the State.
+(D) With respect to the location of placement of refugees within a State, the Federal agencyadministering subsection (b)(1) shall, consistent with such policies and strategies and to the maximum extent possible, take into account recommendations of the State.
 
 (3) In the provision of domestic assistance under this section, the Director shall make a periodic assessment, based on refugee population and other relevant factors, of the relative needs of refugees for assistance and services under this subchapter and the resources available to meet such needs. The Director shall compile and maintain data on secondary migration of refugees within the United States and, by State of residence and nationality, on the proportion of refugees receiving cash or medical assistance described in subsection (e). In allocating resources, the Director shall avoid duplication of services and provide for maximum coordination between agencies providing related services.
 
@@ -42,7 +42,7 @@
 
 &emsp;(ii) to accept and use money, funds, property, and services of any kind made available by gift, devise, bequest, grant, or otherwise for the purpose of carrying out this section.
 
-(B) No funds may be made available under this subchapter (other than under subsection (b)(1)) to States or political subdivisions in the form of block grants, per capita grants, or similar consolidated grants or contracts. Such funds shallbe made available under separate grants or contracts—
+(B) No funds may be made available under this subchapter (other than under subsection (b)(1)) to States or political subdivisions in the form of block grants, per capita grants, or similar consolidated grants or contracts. Such funds shall be made available under separate grants or contracts—
 
 &emsp;(i) for medical screening and initial medical treatment under subsection (b)(5),
 
@@ -142,7 +142,7 @@
 
 &emsp;&emsp;(iv) The extent to which the agency has coordinated its activities with local social service providers in a manner which avoids duplication of activities and has provided notices to local welfare offices and the reporting of medical conditions of certain aliens to local health departments in accordance with subparagraphs (B)(i) and (C).
 
-&emsp;&emsp;(v) Such other information as the agency administering paragraph (1) deems to be appropriate in monitoring the effectiveness of agencies in carrying out their functions under such grants and contracts.
+&emsp;&emsp;(v) Such other information as the agency administering paragraph (1) deems to be appropriate in monitoring the effectiveness ofagencies in carrying out their functions under such grants and contracts.
 
 > The agency administering paragraph (1) shall promptly forward a copy of each annual report transmitted under subparagraph (E) to the Committees on the Judiciary of the House of Representatives and of the Senate.
 
@@ -194,7 +194,7 @@
 
 (ii) The Director shall attempt to arrange for the placement under the laws of the States of such unaccompanied refugee children, who have been accepted for admission to the United States, before (or as soon as possible after) their arrival in the United States. During any interim period while such a child is in the United States or in transit to the United States but before the child is so placed, the Director shall assume legal responsibility (including financial responsibility) for the child, if necessary, and is authorized to make necessary decisions to provide for the child's immediate care.
 
-(iii) In carrying out the Director's responsibilities under clause (ii), the Director is authorized to enter into contracts with appropriate public or private nonprofit agencies under such conditions as the Director determines to be appropriate.
+(iii) In carrying out the Director's responsibilities under clause (ii), the Director is authorizedto enter into contracts with appropriate public or private nonprofit agencies under such conditions as the Director determines to be appropriate.
 
 (iv) The Director shall prepare and maintain a list of (I) all such unaccompanied children who have entered the United States after April 1, 1975, (II) the names and last known residences of their parents (if living) at the time of arrival, and (III) the children's location, status, and progress.
 
@@ -240,7 +240,7 @@
 
 (C) The Secretary shall report to Congress not later than October 31, 1985, on the results of these projects and on any recommendations respecting changes in the refugee assistance program under this section to take into account such results.
 
-(D) To the extent that the use of such funds is consistent with the purposes of such provisions, funds appropriated under section 1524(a) of this title, part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], or title XIX of such Act \[42 U.S.C. 1396 et seq.\], may be used for the purpose of implementing and evaluating alternative projects under this paragraph.
+(D) To the extent that the use of such funds is consistent with the purposes of such provisions,funds appropriated under section 1524(a) of this title, part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], or title XIX of such Act \[42 U.S.C. 1396 et seq.\], may be used for the purpose of implementing and evaluating alternative projects under this paragraph.
 
 (8) In its provision of assistance to refugees, a State or political subdivision shall consider the recommendations of, and assistance provided by, agencies with grants or contracts under subsection (b)(1).
 
@@ -382,7 +382,7 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–525, §6(c), Oct. 24, 1988, 102 Stat. 2616, provided that: "The amendments made by this section \[amending this section and section 1524 of this title\] shall be effective as if they were included in the enactment of the Refugee Assistance Extension Act of 1986 \[Pub. L. 99–605\]."
+Pub. L. 100–525, §6(c), Oct. 24, 1988, 102 Stat. 2616, provided that: "The amendments made by this section\[amending this section and section 1524 of this title\] shall be effective as if they were included in the enactment of the Refugee Assistance Extension Act of 1986 \[Pub. L. 99–605\]."
 
 #### Effective Date of 1986 Amendment
 
@@ -538,7 +538,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 "Sec. 201. (a) The Secretary shall, in accordance with the provisions of this title, make grants to State educational agencies for fiscal year 1981, and for each subsequent fiscal year, for the purposes of assisting local educational agencies of that State in providing basic education for eligible participants enrolled in elementary or secondary public schools. Payments made under this title to any State shall be used in accordance with applications approved under section 202 for public educational services for eligible participants enrolled in the elementary and secondary public schools under the jurisdiction of the local educational agencies of that State.
 
-"(b)(1) As soon as possible after the date of the enactment of the Consolidated Refugee Education Assistance Act \[Aug. 13, 1981\], the Secretary shall establish a formula (reflecting the availability of the full amount authorized for this title under section 203(b)) by which to determine the amount of the grant which each State educational agency is entitled to receive under this title for any fiscal year. The formula established by the Secretary shall take into account the number of years that an eligible participant assisted under this title has resided within the United States and the relative costs, by grade level, of providing education for elementary and secondary school children. On the basis of the formula the Secretary shall allocate among the State educational agencies, for each fiscal year, the amountsavailable to carry out this title, subject to such reductions or adjustments as may be required under paragraph (2) or subsection (c). Funds shall be allocated among State educational agencies pursuant to the formula without regard to variations in educational costs among different geographical areas.
+"(b)(1) As soon as possible after the date of the enactment of the Consolidated Refugee Education Assistance Act \[Aug. 13, 1981\], the Secretary shall establish a formula (reflecting the availability of the full amount authorized for this title under section 203(b)) by which to determine the amount of the grant which each State educational agency is entitled to receive under this title for any fiscal year. The formula established by the Secretary shall take into account the number of years that an eligible participant assisted under this title has resided within the United States and the relative costs, by grade level, of providing education for elementary and secondary school children. On the basis of the formula the Secretary shall allocate among the State educational agencies, for each fiscal year, the amounts available to carry out this title, subject to such reductions or adjustments as may be required under paragraph (2) or subsection (c). Funds shall be allocated among State educational agencies pursuant to the formula without regard to variations in educational costs among different geographical areas.
 
 "(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
 
@@ -594,7 +594,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 &emsp;"(B) at least 5 percent of the total number of students enrolled in such public or nonpublic schools during such fiscal year;
 
-> whichever number is less. Notwithstanding the provisions of this paragraph, the local educational agenciesreferred to in paragraph (1) shall include local educational agencies eligible to receive assistance by reason of the last sentence of section 3(b) and section 3(c)(2)(B) of the Act of September 30, 1950 (Public Law 874, Eighty-first Congress) \[formerly 20 U.S.C. 238(b) and (c)(2)(B)\], relating to Federal impact aid, subject to paragraph (5) of this subsection.
+> whichever number is less. Notwithstanding the provisions of this paragraph, the local educational agencies referred to in paragraph (1) shall include local educational agencies eligible to receive assistance by reason of the last sentence of section 3(b) and section 3(c)(2)(B) of the Act of September 30, 1950 (Public Law 874, Eighty-first Congress) \[formerly 20 U.S.C. 238(b) and (c)(2)(B)\], relating to Federal impact aid, subject to paragraph (5) of this subsection.
 
 "(3) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available under any other Federal law to agencies or other entities for educational, or education-related, services or activities within the State because of the significant concentration of eligible participants. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
 
@@ -632,7 +632,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 &emsp;"(2) provide assurances that payments under this title will be used for purposes set forth in section 302;
 
-&emsp;"(3) provide assurances that such payments will be distributed among local educational agencies within that State in accordance with section 301, subject to any reductions in payments for local educational agencies identified under paragraph (5) to take into account the funds described by section 301(b)(3) that are made available for educational, or education-related, services or activities for eligible participants enrolled in elementary or secondary public schools under the jurisdiction of such agencies or elementary or secondary nonpublic schools within the districts served by such agencies;
+&emsp;"(3) provide assurances that such payments will be distributed among local educational agencies within that State in accordance with section 301, subject to any reductions in payments for local educationalagencies identified under paragraph (5) to take into account the funds described by section 301(b)(3) that are made available for educational, or education-related, services or activities for eligible participants enrolled in elementary or secondary public schools under the jurisdiction of such agencies or elementary or secondary nonpublic schools within the districts served by such agencies;
 
 &emsp;"(4) provide assurances that the State educational agency will not finally disapprove in whole or in part any application for funds received under this title without first affording the local educational agency submitting an application for such funds reasonable notice and opportunity for a hearing;
 
@@ -680,7 +680,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 "Sec. 402. (a) Funds made available to State educational agencies under this title shall be used by such agencies to provide for programs of adult education and adult basic education to eligible participants aged 16 or older in need for such services who are not enrolled in elementary or secondary public schools under the jurisdiction of local educational agencies. Such programs may be provided directly by the State educational agency, or such agency may make grants, or enter into contracts, with local educational agencies, and other public or private nonprofit agencies, organizations, or institutions to provide for such programs. Funds available under this title may be used for—
 
-&emsp;"(1) programs of instruction of such adult refugees in basic reading and mathematics, in development and enhancement of necessary skills, and for the promotion of literacy among such refugees;
+&emsp;"(1) programs of instruction of such adult refugees in basic reading and mathematics, in developmentand enhancement of necessary skills, and for the promotion of literacy among such refugees;
 
 &emsp;"(2) administrative costs of planning and operating such programs of instruction;
 
@@ -704,7 +704,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 &emsp;"(4) provide for making periodic reports to the Secretary evaluating the effectiveness of the payments made under this title, and such other reports as the Secretary may reasonably require to perform his functions under this Act.
 
-"(b) The Secretary shall approve an application which meets the requirements of subsection (a). TheSecretary shall not finally disapprove an application of a State educational agency except after reasonable notice and opportunity for a hearing on the record to such agency.
+"(b) The Secretary shall approve an application which meets the requirements of subsection (a). The Secretary shall not finally disapprove an application of a State educational agency except after reasonable notice and opportunity for a hearing on the record to such agency.
 
 #### "Title V—Other Provisions Relating to Cuban and Haitian Entrants
 

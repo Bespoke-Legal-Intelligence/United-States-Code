@@ -122,7 +122,7 @@ Subsec. (b)(1)(B). Pub. L. 109–8, §318(2), substituted "applicable commitment
 
 Pub. L. 109–8, §102(h)(1), inserted "to unsecured creditors" after "to make payments".
 
-Subsec. (b)(2), (3). Pub. L. 109–8, §102(h)(2), added pars. (2) and (3) and struck out former par. (2) which read asfollows: "For purposes of this subsection, 'disposable income' means income which is received by the debtor and which is not reasonably necessary to be expended—
+Subsec. (b)(2), (3). Pub. L. 109–8, §102(h)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: "For purposes of this subsection, 'disposable income' means income which is received by the debtor and which is not reasonably necessary to be expended—
 
 &emsp;"(A) for the maintenance or support of the debtor or a dependent of the debtor, including charitable contributions (that meet the definition of 'charitable contribution' under section 548(d)(3)) to a qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)) in an amount not to exceed 15 percent of the gross income of the debtor for the year in which the contributions are made; and
 
@@ -160,7 +160,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b), dollar amount "675" was adjusted to "700" each time it appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b), dollar amount "700" was adjusted to "750" each time it appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b), dollar amount "675" was adjusted to "700" each time it appeared.
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b), dollar amount "625" was adjusted to "675" each time it appeared.
 

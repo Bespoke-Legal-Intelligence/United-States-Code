@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(B) demonstrates to the Secretary that such political subdivision or consortium of political subdivisions will, if appropriate to the mosquito circumstances involved, effectively coordinate the activities of the control programs with contiguous political subdivisions;
 
-&emsp;&emsp;(C) demonstrates to the Secretary (directly or through State officials) that the State in which such a political subdivisionor consortium of political subdivisions is located has identified or will identify geographic areas in such State that have a significant need for control programs and will effectively coordinate such programs in such areas; and
+&emsp;&emsp;(C) demonstrates to the Secretary (directly or through State officials) that the State in which such a political subdivision or consortium of political subdivisions is located has identified or will identify geographic areas in such State that have a significant need for control programs and will effectively coordinate such programs in such areas; and
 
 &emsp;&emsp;(D) is located in a State that has received a grant under subsection (a).
 
@@ -134,7 +134,7 @@ In this section, the term "political subdivision" means the local political juri
 
 #### (2) Public health emergencies
 
-&emsp;In the case of control programs carried out in response to a mosquito-borne disease thatconstitutes a public health emergency, the authorization of appropriations under paragraph (1) is in addition to applicable authorizations of appropriations under the Public Health Security and Bioterrorism Preparedness and Response Act of 2002.
+&emsp;In the case of control programs carried out in response to a mosquito-borne disease that constitutes a public health emergency, the authorization of appropriations under paragraph (1) is in addition to applicable authorizations of appropriations under the Public Health Security and Bioterrorism Preparedness and Response Act of 2002.
 
 #### (3) Fiscal year 2004 appropriations
 

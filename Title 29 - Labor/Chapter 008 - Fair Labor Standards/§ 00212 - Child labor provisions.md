@@ -16,7 +16,7 @@ No employer shall employ any oppressive child labor in commerce or in the produc
 
 In order to carry out the objectives of this section, the Secretary may by regulation require employers to obtain from any employee proof of age.
 
-(June 25, 1938, ch. 676, §12, 52 Stat. 1067; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R.7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §10, 63 Stat. 917; Pub. L. 87–30, §8, May 5, 1961, 75 Stat. 70; Pub. L. 93–259, §25(a), Apr. 8, 1974, 88 Stat. 72.)
+(June 25, 1938, ch. 676, §12, 52 Stat. 1067; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §10, 63 Stat. 917; Pub. L. 87–30, §8, May 5, 1961, 75 Stat. 70; Pub. L. 93–259, §25(a), Apr. 8, 1974, 88 Stat. 72.)
 
 #### Amendments
 

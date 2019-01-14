@@ -1,6 +1,6 @@
 ### §1166. Regular warrant officers: elimination for unfitness or unsatisfactory performance
 
-(a) Under such regulations as the Secretary concerned may prescribe, and subject to the recommendations of a board of officers or a selection board under section 576 of this title, a permanent regular warrant officer who is eligible for retirement under any provision of law shall be retired under that law if his records and reports establish his unfitness or unsatisfactory performance of duty. If he is not eligible for retirement under any provision of law, but since the date when he accepted his original permanent appointment as a regular warrant officer he has at least three years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70Stat. 114), he shall, if eligible therefor, be separated with separation pay under section 1174 of this title or severance pay under section 286a of title 14, as appropriate. However, instead of being paid separation pay or severance pay he may be enlisted under section 515 of this title. If he does not have three years of such service, he shall be separated under section 1165 of this title.
+(a) Under such regulations as the Secretary concerned may prescribe, and subject to the recommendations of a board of officers or a selection board under section 576 of this title, a permanent regular warrant officer who is eligible for retirement under any provision of law shall be retired under that law if his records and reports establish his unfitness or unsatisfactory performance of duty. If he is not eligible for retirement under any provision of law, but since the date when he accepted his original permanent appointment as a regular warrant officer he has at least three years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114), he shall, if eligible therefor, be separated with separation pay under section 1174 of this title or severance pay under section 286a <sup>1</sup> of title 14, as appropriate. However, instead of being paid separation pay or severance pay he may be enlisted under section 515 of this title. If he does not have three years of such service, he shall be separated under section 1165 of this title.
 
 (b) The Secretary concerned may defer, for not more than four months, the retirement or separation under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to be retired or separated under this section.
 
@@ -40,6 +40,8 @@ In subsection (b), the words "The Secretary concerned may defer" are substituted
 
 Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a), is section 511 of act Oct. 12, 1949, ch. 681, which was formerly set out as a note under section 580 of this title.
 
+Section 286a of title 14, referred to in subsec. (a), was redesignated section 2147 of title 14 by Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216, and references to section 286a of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+
 #### Amendments
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–190 substituted "section 576" for "section 560".
@@ -59,4 +61,6 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

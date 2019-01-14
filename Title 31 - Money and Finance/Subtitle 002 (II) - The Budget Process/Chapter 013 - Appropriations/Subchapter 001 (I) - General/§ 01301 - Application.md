@@ -52,6 +52,10 @@ In subsection (c), before clause (1), the words "specific or indefinite" are omi
 
 In subsection (d), the words "passed after June 30, 1906" are omitted as executed.
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–158, §1, Mar. 27, 2018, 132 Stat. 1242, provided that: "This Act \[enacting section 1355 of this title\] may be cited as the 'Eliminating Government-funded Oil-painting Act' or the 'EGO Act'."
+
 #### Short Title of 1984 Amendment
 
 Pub. L. 98–359, §1, July 13, 1984, 98 Stat. 402, provided: "That this Act \[amending section 1322 of this title\] may be cited as the 'Postal Savings System Statute of Limitations Act'."
@@ -92,7 +96,7 @@ Sec. 2. <i>Duties of Agency Heads</i>. (a) With respect to all appropriations la
 
 (iii) no oral or written communications concerning earmarks shall supersede statutory criteria, competitive awards, or merit-based decisionmaking.
 
-(b) An agency shall not consider the views of a House, committee, Member, officer, or staff of the Congress with respect to commitments, obligations, or expenditures to carry out any earmark unless such views are in writing, to facilitate consideration in accordance with section 2(a)(ii) above. All written communications from the Congress, or a House, committee, Member, officer, or staff thereof, recommending that funds be committed, obligated, or expended on any earmark shall be made publicly available on the Internet by the receiving agency, not later than 30 days after receipt ofsuch communication, unless otherwise specifically directed by the head of the agency, without delegation, after consultation with the Director of the Office of Management and Budget, to preserve appropriate confidentiality between the executive and legislative branches.
+(b) An agency shall not consider the views of a House, committee, Member, officer, or staff of the Congress with respect to commitments, obligations, or expenditures to carry out any earmark unless such views are in writing, to facilitate consideration in accordance with section 2(a)(ii) above. All written communications from the Congress, or a House, committee, Member, officer, or staff thereof, recommending that funds be committed, obligated, or expended on any earmark shall be made publicly available on the Internet by the receiving agency, not later than 30 days after receipt of such communication, unless otherwise specifically directed by the head of the agency, without delegation, after consultation with the Director of the Office of Management and Budget, to preserve appropriate confidentiality between the executive and legislative branches.
 
 (c) Heads of agencies shall otherwise implement within their respective agencies the policy set forth in section 1 of this order, consistent with such instructions as the Director of the Office of Management and Budget may prescribe.
 

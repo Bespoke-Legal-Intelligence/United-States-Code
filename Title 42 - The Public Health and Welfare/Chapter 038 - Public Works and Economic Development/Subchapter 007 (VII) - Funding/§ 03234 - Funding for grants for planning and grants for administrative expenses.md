@@ -34,7 +34,7 @@ Section 3246b, Pub. L. 89–136, title X, §1003, as added Pub. L. 93–567, tit
 
 Section 3246c, Pub. L. 89–136, title X, §1004, as added Pub. L. 93–567, title III, §301, Dec. 31, 1974, 88 Stat. 1854; amended Pub. L. 94–487, title I, §124, Oct. 12, 1976, 90 Stat. 2337, related to program review.
 
-A prior section 3246d, Pub. L. 89–136, title X, §1005, as added Pub. L. 93–567, title III, §301, Dec. 31, 1974, 88 Stat. 1855, related to the limitations on the use of funds appropriated pursuant to section 3246f of this title for programs and projects, prior to repeal by Pub. L. 94–487, title I, §125, Oct. 12, 1976, 90 Stat. 2338.
+A prior section 3246d, Pub. L. 89–136, title X, §1005, as added Pub. L. 93–567, title III, §301, Dec. 31, 1974, 88 Stat. 1855, related to the limitations on the use of funds appropriated pursuant to section 3246f of this title forprograms and projects, prior to repeal by Pub. L. 94–487, title I, §125, Oct. 12, 1976, 90 Stat. 2338.
 
 Prior sections 3246e to 3246h were repealed by Pub. L. 105–393, title I, §102(c), Nov. 13, 1998, 112 Stat. 3617.
 

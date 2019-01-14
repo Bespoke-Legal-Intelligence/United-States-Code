@@ -22,7 +22,7 @@ There are hereby appropriated to the Leaking Underground Storage Tank Trust Fund
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2), (3), and (4), amounts in the Leaking Underground Storage Tank Trust Fund shall be available, as provided in appropriation Acts, only for purposes of making expenditures to carry out sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013 of the Solid Waste Disposal Act as in effect on the date of the enactment of the <sup>1</sup> Public Law 109–168.
+&emsp;Except as provided in paragraphs (2), (3), and (4), amounts in the Leaking Underground Storage Tank Trust Fund shall be available, as provided in appropriation Acts, only for purposes of making expenditures to carry out sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013 of the Solid Waste Disposal Act as in effect on the date of the enactment of Public Law 109–168.
 
 #### (2) Transfer to Highway Trust Fund
 
@@ -62,7 +62,7 @@ There are hereby appropriated to the Leaking Underground Storage Tank Trust Fund
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), no amount may be appropriated to the LeakingUnderground Storage Tank Trust Fund on and after the date of any expenditure from the Leaking Underground Storage Tank Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
+&emsp;Except as provided in paragraph (2), no amount may be appropriated to the Leaking Underground Storage Tank Trust Fund on and after the date of any expenditure from the Leaking Underground Storage Tank Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
 
 &emsp;&emsp;(A) any provision of law which is not contained or referenced in this title or in a revenue Act, and
 
@@ -72,7 +72,7 @@ There are hereby appropriated to the Leaking Underground Storage Tank Trust Fund
 
 &emsp;Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2020, in accordance with the provisions of this section.
 
-(Added Pub. L. 99–499, title V, §522(a), Oct. 17, 1986, 100 Stat. 1780; amended Pub. L. 100–203, title X, §10502(d)(16), (17), Dec. 22, 1987, 101 Stat. 1330–445; Pub. L. 101–239, title VII, §7822(b)(7), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 103–66, title XIII, §§13163(c), 13242(d)(42), Aug. 10, 1993, 107 Stat. 454, 528; Pub. L. 105–34, title X, §1032(e)(13), Aug. 5, 1997, 111 Stat. 935; Pub. L. 108–357, title VIII, §853(d)(2)(P), (Q), Oct. 22, 2004, 118 Stat. 1614; Pub. L. 109–58, title XIII, §1362(c), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11147(a), Aug. 10, 2005, 119 Stat. 1967; Pub. L. 109–432, div. A, title II, §210(a), Dec. 20, 2006, 120 Stat. 2947; Pub. L. 109–433, §1(a), Dec. 20, 2006, 120 Stat. 3196; Pub. L. 112–30, title I, §141(c), Sept. 16, 2011, 125 Stat. 355; Pub. L. 112–102, title IV, §401(c), Mar. 30, 2012, 126 Stat. 281; Pub. L. 112–140, title IV, §401(c), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40101(c), title II, §40201(a), July 6, 2012, 126 Stat. 844, 846; Pub. L. 113–159, title II, §§2001(c), 2002(b), Aug. 8, 2014, 128 Stat. 1848; Pub. L. 114–21, title II, §2001(c), May 29, 2015, 129 Stat. 226; Pub. L. 114–41, title II, §2001(c), July 31, 2015, 129 Stat. 454; Pub. L. 114–73, title II, §2001(c), Oct. 29, 2015, 129 Stat. 583; Pub. L. 114–87, title II, §2001(c), Nov. 20, 2015, 129 Stat. 685; Pub. L. 114–94, div. C, title XXXI, §§31101(c), 31203, Dec. 4, 2015, 129 Stat. 1727, 1729.)
+(Added Pub. L. 99–499, title V, §522(a), Oct. 17, 1986, 100 Stat. 1780; amended Pub. L. 100–203, title X, §10502(d)(16), (17), Dec. 22, 1987, 101 Stat. 1330–445; Pub. L. 101–239, title VII, §7822(b)(7), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 103–66, title XIII, §§13163(c), 13242(d)(42), Aug. 10, 1993, 107 Stat. 454, 528; Pub. L. 105–34, title X, §1032(e)(13), Aug. 5, 1997, 111 Stat. 935; Pub. L. 108–357, title VIII, §853(d)(2)(P), (Q), Oct. 22, 2004, 118 Stat. 1614; Pub. L. 109–58, title XIII, §1362(c), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11147(a), Aug. 10, 2005, 119 Stat. 1967; Pub. L. 109–432, div. A, title II, §210(a), Dec. 20, 2006, 120 Stat. 2947; Pub. L. 109–433, §1(a), Dec. 20, 2006, 120 Stat. 3196; Pub. L. 112–30, title I, §141(c), Sept. 16, 2011, 125 Stat. 355; Pub. L. 112–102, title IV, §401(c), Mar. 30, 2012, 126 Stat. 281; Pub. L. 112–140, title IV, §401(c), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40101(c), title II, §40201(a), July 6, 2012, 126 Stat. 844, 846; Pub. L. 113–159, title II, §§2001(c), 2002(b), Aug. 8, 2014, 128 Stat. 1848; Pub. L. 114–21, title II, §2001(c), May 29, 2015, 129 Stat. 226; Pub. L. 114–41, title II, §2001(c), July 31, 2015, 129 Stat. 454; Pub. L. 114–73, title II, §2001(c), Oct. 29, 2015, 129 Stat. 583; Pub. L. 114–87, title II, §2001(c), Nov. 20, 2015, 129 Stat. 685; Pub. L. 114–94, div. C, title XXXI, §§31101(c), 31203, Dec. 4, 2015, 129 Stat. 1727, 1729; Pub. L. 115–141, div. U, title IV, §401(a)(342), Mar. 23, 2018, 132 Stat. 1200.)
 
 #### References in Text
 
@@ -87,6 +87,8 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (d)(2), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–141 substituted "of Public Law" for "of the Public Law".
 
 <b>2015</b>—Subsec. (c)(1). Pub. L. 114–94, §31203(b), substituted "paragraphs (2), (3), and (4)" for "paragraphs (2) and (3)".
 
@@ -118,7 +120,7 @@ Pub. L. 112–102 substituted "July 1, 2012" for "April 1, 2012".
 
 <b>2011</b>—Subsec. (e)(2). Pub. L. 112–30 substituted "April 1, 2012" for "October 1, 2011".
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–433, which directed an amendment of subsec. (c) identical to that by Pub. L. 109–432, to be treated as not having been enacted. See Amendment note and Construction of Amendment by Pub. L. 109–433 note below.
+<b>2006</b>—Subsec. (c). Pub. L. 109–433, which directed an amendment of subsec. (c) identical to that by Pub. L.109–432, to be treated as not having been enacted. See Amendment note and Construction of Amendment by Pub. L. 109–433 note below.
 
 Pub. L. 109–432 substituted "sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013" for "section 9003(h)" and "Public Law 109–168" for "Superfund Amendments and Reauthorization Act of 1986".
 
@@ -201,6 +203,4 @@ Pub. L. 99–499, title V, §522(c), Oct. 17, 1986, 100 Stat. 1781, provided tha
 #### Construction of Amendment by Pub. L. 109–433
 
 Pub. L. 110–172, §11(a)(46), Dec. 29, 2007, 121 Stat. 2488, provided that: "The Internal Revenue Code of 1986 shall be applied and administered as if the amendments made by section 1(a) of Public Law 109–433 \[amending this section\] had never been enacted."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

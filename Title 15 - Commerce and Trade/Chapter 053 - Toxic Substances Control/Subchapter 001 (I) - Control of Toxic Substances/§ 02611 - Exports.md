@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Except as provided in paragraph (2) and subsections (b) and (c), this chapter (other than section 2607 of this title) shall not apply to any chemical substance, mixture, or to an article containing a chemical substance or mixture, if—
+(1) Except as provided in paragraph (2) and subsections (b) and (c), this chapter (other thansection 2607 of this title) shall not apply to any chemical substance, mixture, or to an article containing a chemical substance or mixture, if—
 
 &emsp;(A) it can be shown that such substance, mixture, or article is being manufactured, processed, or distributed in commerce for export from the United States, unless such substance, mixture, or article was, in fact, manufactured, processed, or distributed in commerce, for use in the United States, and
 
@@ -44,7 +44,7 @@
 
 #### (B) Procedure
 
-&emsp;&emsp;For the purpose of preparing the report under this paragraph, the Administratormay utilize the information gathering authorities of this subchapter, including sections 2609 and 2610 of this title.
+&emsp;&emsp;For the purpose of preparing the report under this paragraph, the Administrator may utilize the information gathering authorities of this subchapter, including sections 2609 and 2610 of this title.
 
 #### (4) Essential use exemption
 

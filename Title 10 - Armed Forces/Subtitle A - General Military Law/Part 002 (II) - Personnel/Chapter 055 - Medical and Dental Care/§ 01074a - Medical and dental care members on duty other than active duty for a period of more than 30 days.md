@@ -98,7 +98,7 @@ Subsec. (a)(4). Pub. L. 106–65, §578(i)(1)(B), added par. (4).
 
 Subsec. (e). Pub. L. 106–65, §705(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "A member of a uniformed service described in paragraph (1)(A) or (2)(A) of subsection (a) whose orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease incurred or aggravated in the line of duty, so as to result in active duty for a period of more than 30 days shall be entitled, while the member remains on active duty, to medical and dental care on the same basis and to the same extent as members covered by section 1074(a) of this title."
 
-<b>1997</b>—Subsec. (a)(3). Pub. L. 105–85, §513(a)(1), inserted "while remaining overnight immediately before thecommencement of inactive-duty training, or" after "in the line of duty".
+<b>1997</b>—Subsec. (a)(3). Pub. L. 105–85, §513(a)(1), inserted "while remaining overnight immediately before the commencement of inactive-duty training, or" after "in the line of duty".
 
 Subsec. (e). Pub. L. 105–85, §513(a)(2), added subsec. (e).
 

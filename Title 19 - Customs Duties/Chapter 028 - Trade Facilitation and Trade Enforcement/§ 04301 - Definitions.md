@@ -100,7 +100,7 @@ In this chapter:
 
 &emsp;&emsp;(AA) Any other provision of law vesting customs revenue functions in the Secretary of the Treasury.
 
-&emsp;&emsp;(BB) Any other provision of law relating to trade facilitation or trade enforcement that is administered by U.S. Customs and Border Protection on behalf of any Federal agency that is required to participate in the International Trade Data System establishedunder section 411(d) of the Tariff Act of 1930 (19 U.S.C. 1411(d)).
+&emsp;&emsp;(BB) Any other provision of law relating to trade facilitation or trade enforcement that is administered by U.S. Customs and Border Protection on behalf of any Federal agency that is required to participate in the International Trade Data System established under section 411(d) of the Tariff Act of 1930 (19 U.S.C. 1411(d)).
 
 &emsp;&emsp;(CC) Any other provision of customs or trade law administered by U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement.
 
@@ -178,7 +178,7 @@ The Trade Preferences Extension Act of 2015, referred to in par. (4)(Y), is Pub.
 
 Pub. L. 114–125, §1(a), Feb. 24, 2016, 130 Stat. 122, provided that: "This Act \[see Tables for classification\] may be cited as the 'Trade Facilitation and Trade Enforcement Act of 2015'."
 
-Pub. L. 114–125, title IV, §401, Feb. 24, 2016, 130 Stat. 155, provided that: "This title \[enacting subchapter IV of this chapter and section 1517 of this title, amendingsections 1675 and 1677f of this title and section 1581 of Title 28, Judiciary And Judicial Procedure, and enacting provisions set out as notes under section 1517 of this title\] may be cited as the 'Enforce and Protect Act of 2015'."
+Pub. L. 114–125, title IV, §401, Feb. 24, 2016, 130 Stat. 155, provided that: "This title \[enacting subchapter IV of this chapter and section 1517 of this title, amending sections 1675 and 1677f of this title and section 1581 of Title 28, Judiciary And Judicial Procedure, and enacting provisions set out as notes under section 1517 of this title\] may be cited as the 'Enforce and Protect Act of 2015'."
 
 Pub. L. 114–125, title VIII, §801, Feb. 24, 2016, 130 Stat. 199, provided that: "This title \[see Tables for classification\] may be cited as the 'U.S. Customs and Border Protection Authorization Act'."
 
@@ -198,7 +198,7 @@ Sec. 2. <i>Definitions</i>. For the purposes of this order:
 
 (b) the term "covered importer" means any importer of articles subject to antidumping or countervailing duties for which one of the following is true: U.S. Customs and Border Protection (CBP) has no record of previous imports by the importer; CBP has a record of the importer's failure to fully pay antidumping or countervailing duties; or CBP has a record of the importer's failure to pay antidumping or countervailing duties in a timely manner.
 
-Sec. 3. <i>Implementation Plan Development</i>. Within 90 days of the date of this order, the Secretary of Homeland Security shall, in consultation with the Secretary of the Treasury, the Secretary of Commerce, and the United States Trade Representative, develop a plan that would require covered importers that, based on a risk assessment conducted by CBP, pose a risk to the revenue of the United States, to provide security for antidumping and countervailing duty liability through bonds and other legal measures, and also would identify other appropriate enforcement measures. This plan shall be consistent with the requirements of section 4321 and section 1623 of title 19, United States Code, and corresponding regulations.
+Sec. 3. <i>Implementation Plan Development</i>. Within 90 days of the date of this order, the Secretary of Homeland Security shall, in consultation with the Secretary of the Treasury, the Secretary of Commerce, and the United States Trade Representative, develop a plan that would require covered importers that, based on a risk assessment conducted by CBP, pose a risk to the revenue of the United States, to provide security for antidumping and countervailing duty liability through bonds and other legal measures, and also would identify other appropriate enforcement measures. This plan shall be consistent with the requirements of section4321 and section 1623 of title 19, United States Code, and corresponding regulations.
 
 Sec. 4. <i>Trade and Suspected Customs Law Violations Enforcement</i>. (a) Within 90 days of the date of this order, the Secretary of Homeland Security, through the Commissioner of CBP, shall develop and implement a strategy and plan for combating violations of United States trade and customs laws for goods and for enabling interdiction and disposal, including through methods other than seizure, of inadmissible merchandise entering through any mode of transportation, to the extent authorized by law.
 
@@ -234,7 +234,7 @@ Sec. 2. <i>Conduct Performance Reviews</i>. The Secretary of Commerce and the Un
 
 (a) all bilateral, plurilateral, and multilateral trade agreements and investment agreements to which the United States is a party; and
 
-(b) all trade relations with countries governed by the rules of the World Trade Organization (WTO) withwhich the United States does not have free trade agreements but with which the United States runs significant trade deficits in goods.
+(b) all trade relations with countries governed by the rules of the World Trade Organization (WTO) with which the United States does not have free trade agreements but with which the United States runs significant trade deficits in goods.
 
 Sec. 3. <i>Report of Violations and Abuses</i>. (a) Each performance review shall be submitted to the President by the Secretary of Commerce and the USTR within 180 days of the date of this order and shall identify:
 

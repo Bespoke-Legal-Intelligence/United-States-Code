@@ -1,12 +1,16 @@
 ### §303. Secretary of Veterans Affairs
 
-There is a Secretary of Veterans Affairs, who is the head of the Department and is appointed by the President, by and with the advice and consent of the Senate. The Secretary is responsible for the proper execution and administration of all laws administered by the Department and for the control, direction, and management of the Department.
+There is a Secretary of Veterans Affairs, who is the head of the Department and is appointedby the President, by and with the advice and consent of the Senate. The Secretary is responsible for the proper execution and administration of all laws administered by the Department and for the control, direction, and management of the Department.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 379.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 210(a), (b)(1) of this title and in second and third sentences of section 2 of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §§2(a), 3(1).
+
+#### Plans for Use of Supplemental Appropriations Required
+
+Pub. L. 115–182, title I, §141, June 6, 2018, 132 Stat. 1429, as amended by Pub. L. 115–251, title II, §211(b)(3), Sept. 29, 2018, 132 Stat. 3176, provided that: "Whenever the Secretary of Veterans Affairs submits to Congress a request for supplemental appropriations or any other appropriation outside the standard budget process to address a budgetary issue affecting the Department of Veterans Affairs, the Secretary shall, not later than 45 days before the date on which such budgetary issue would start affecting a program or service, submit to Congress a justification for the request, including a plan that details how the Secretary intends to use the requested appropriation and how long the requested appropriation is expected to meet the needs of the Department and certification that the request was made using an updated and sound actuarial analysis."
 
 #### Inclusion in Annual Budget Submission of Information on Capacity of Veterans Benefits Administration To Process Benefits Claims
 
@@ -58,7 +62,7 @@ Pub. L. 114–223, div. A, title II, §258, Sept. 29, 2016, 130 Stat. 895, provi
 
 #### Notice to Congressional Veterans Committees of Certain Transfers of Funds
 
-Pub. L. 109–461, title X, §1001, Dec. 22, 2006, 120 Stat. 3464, provided that: "To the extent that the Secretary of Veterans Affairs is required or directed, under any provision of law, to provide written notice to any committee of Congress other than the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives on the transfer of appropriations from one account to anyother account, the Secretary shall also transmit such notice to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives."
+Pub. L. 109–461, title X, §1001, Dec. 22, 2006, 120 Stat. 3464, provided that: "To the extent that the Secretary of Veterans Affairs is required or directed, under any provision of law, to provide written notice to any committee of Congress other than the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives on the transfer of appropriations from one account to any other account, the Secretary shall also transmit such notice to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives."
 
 #### National Center on War-Related Illnesses and Post-Deployment Health Issues
 
@@ -76,7 +80,7 @@ Assessment.—The Secretary of Veterans Affairs shall seek to enter into an agre
 
 Recommendations and Report.—With respect to such a center, an agreement under this section shall provide for the Academy (or other entity) to—
 
-&emsp;"(1) make recommendations regarding: (A) design of an organizational structure or structures, operational scope, staffing and resource needs, establishment of appropriate databases, the advantages of single or multiple sites, mechanisms for implementing recommendations on policy, and relationship to academic or scientific entities; (B) the role or roles that relevant Federal departments and agencies should have in the establishment and operation of any such center or centers; and (C) such other matters as it considers appropriate; and
+&emsp;"(1) make recommendations regarding: (A) design of an organizational structure or structures, operational scope, staffing and resource needs, establishment of appropriate databases, the advantages of single or multiple sites, mechanisms for implementing recommendations on policy, and relationship to academic or scientific entities; (B) the role or roles thatrelevant Federal departments and agencies should have in the establishment and operation of any such center or centers; and (C) such other matters as it considers appropriate; and
 
 &emsp;"(2) report to the Secretary, the Secretaries of Defense and Health and Human Services, and the Committees on Veterans' Affairs of the Senate and House of Representatives, not later than 1 year after the date of the enactment of this Act \[Nov. 11, 1998\], on its recommendations.
 

@@ -50,7 +50,7 @@ In general.—
 
 &emsp;"(A)
 
-Establishment.—Within 120 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall issue regulations under section 4.3(a) of the Farm Credit Act of 1971 (12U.S.C. 2154(c) \[12 U.S.C. 2154(a)\]) that establish minimum permanent capital adequacy standards for Farm Credit System institutions.
+Establishment.—Within 120 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall issue regulations under section 4.3(a) of the Farm Credit Act of 1971 (12 U.S.C. 2154(c) \[12 U.S.C. 2154(a)\]) that establish minimum permanent capital adequacy standards for Farm Credit System institutions.
 
 &emsp;"(B)
 
@@ -70,7 +70,7 @@ Emergency power not available.—The Farm Credit Administration shall not invoke
 
 "(3)
 
-Prohibitions during transition period.—During the 5-year period specified in paragraph (1)(D), the Farm Credit Administration shall not initiate any receivership, conservatorship, liquidation, or enforcement action against any System institution certified to issue preferred stock under section 6.27 of the Farm Credit Act of 1971 (as added by section 201 of this Act) \[12 U.S.C. 2278b–7\], solely because of the failure of such institution to meet minimum permanent capital adequacy standards unless such action is recommended or concurred in by the Farm Credit System Assistance Board established under section 6.0 of such Act (as added by section 201 of this Act) \[12 U.S.C. 2278a\].
+Prohibitions during transition period.—During the 5-year period specified in paragraph (1)(D), the Farm Credit Administration shall not initiate any receivership, conservatorship, liquidation, or enforcement action against any System institution certified to issue preferred stock under section 6.27 of the Farm Credit Act of 1971 (as added by section 201 of this Act) \[12 U.S.C. 2278b–7\], solely because of the failure of such institution to meet minimum permanent capital adequacy standards unless such action is recommended or concurred in by the Farm Credit System Assistance Board established under section 6.0 of such Act (as added by section 201 of this Act) \[former 12 U.S.C. 2278a\].
 
 "(4)
 

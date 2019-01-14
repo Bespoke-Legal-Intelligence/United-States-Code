@@ -30,7 +30,7 @@ Another prior section 1134b, Pub. L. 89–329, title IX, §903, as added Pub. L.
 
 Another prior section 1134b, Pub. L. 89–329, title IX, §903, as added Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 305; amended Pub. L. 94–482, title I, §171(a)(4), Oct. 12, 1976, 90 Stat. 2160; Pub. L. 96–374, title IX, §901(b), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1482, 1503, related to the uses of funds appropriated to make grants to institutions of higher education, prior to the general amendment of subchapter IX of this chapter by Pub. L. 99–498.
 
-Another prior section 1134b, Pub. L. 89–329, title IX, §904, as added Pub. L. 90–575, title II, §261, Oct. 16, 1968, 82 Stat. 1044, related to application for grants or contracts to strengthen and improve education for the public service, providing in subsec. (a) for requisites of application, subsec. (b) for allocation of grants and contracts, and subsec. (c) for payment of compensation of students employed in public service and participation of Federal agencies and departments, prior to repeal by Pub. L. 92–318.
+Another prior section 1134b, Pub. L. 89–329, title IX, §904, as added Pub. L. 90–575, title II, §261, Oct. 16, 1968, 82 Stat. 1044, related to application for grants or contracts to strengthen and improve education for the public service, providing in subsec. (a) for requisites of application, subsec. (b) for allocation of grants and contracts, and subsec. (c) for payment of compensation of students employed in public service and participationof Federal agencies and departments, prior to repeal by Pub. L. 92–318.
 
 A prior section 703 of Pub. L. 89–329 was classified to section 1132a–2 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
 

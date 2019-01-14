@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-After March 31, 1994, no person shall permit smoking within any indoor facility owned or leased or contracted for and utilized by such person for provision of routine or regular kindergarten, elementary, or secondary education or library services to children.
+After March 31, 1994, no person shall permit smoking within any indoor facility owned or leased or contracted for and utilized by suchperson for provision of routine or regular kindergarten, elementary, or secondary education or library services to children.
 
 #### (b) Additional prohibition
 
@@ -68,7 +68,7 @@ The prohibitions in subsections (a) through (c) shall be incorporated by publica
 
 &emsp;&emsp;(A) the nature, circumstances, extent, and gravity of the violation;
 
-&emsp;&emsp;(B) with respect to the violator, any good faith efforts to comply, the importance of achieving early and permanent compliance, the ability to pay or comply, the effect of the penalty or order on the ability to continue operation, any prior history of the same kind of violation, the degree of culpability, and any demonstration of willingness to comply with the prohibitions of this section in a timely manner; and
+&emsp;&emsp;(B) with respect to the violator, any good faith efforts to comply, the importance ofachieving early and permanent compliance, the ability to pay or comply, the effect of the penalty or order on the ability to continue operation, any prior history of the same kind of violation, the degree of culpability, and any demonstration of willingness to comply with the prohibitions of this section in a timely manner; and
 
 &emsp;&emsp;(C) such other matters as justice may require.
 

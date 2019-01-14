@@ -182,7 +182,7 @@ The Secretary shall appoint—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2015 through 2019.
+&emsp;&emsp;&emsp;There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2019 through 2023.
 
 #### (ii) Allocation
 
@@ -312,9 +312,9 @@ Nothing in this section—
 
 &emsp;&emsp;(A) the Secretary; or
 
-&emsp;&emsp;(B) the Administrator, including for the purpose of setting premium rates under the national flood insurance program established under chapter 1 <sup>1</sup> of the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.).
+&emsp;&emsp;(B) the Administrator, including for the purpose of setting premium rates under the national flood insurance program established under chapter 1 <sup>1</sup> of the NationalFlood Insurance Act of 1968 (42 U.S.C. 4011 et seq.).
 
-(Pub. L. 110–114, title IX, §9005, as added Pub. L. 113–121, title III, §3016(e)(2), June 10, 2014, 128 Stat. 1293; Pub. L. 114–322, title I, §1130(c), Dec. 16, 2016, 130 Stat. 1650.)
+(Pub. L. 110–114, title IX, §9005, as added Pub. L. 113–121, title III, §3016(e)(2), June 10, 2014, 128 Stat. 1293; Pub. L. 114–322, title I, §1130(c), Dec. 16, 2016, 130 Stat. 1650; Pub. L. 115–270, title I, §1144(1), Oct. 23, 2018, 132 Stat. 3785.)
 
 #### References in Text
 
@@ -329,6 +329,8 @@ The National Flood Insurance Act of 1968, referred to in subsec. (i)(2)(B), is t
 A prior section 9005 of Pub. L. 110–114 was renumbered section 9007, and is classified to section 3304 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (g)(2)(E)(i). Pub. L. 115–270 substituted "2019 through 2023" for "2015 through 2019".
 
 <b>2016</b>—Subsec. (c)(1). Pub. L. 114–322, §1130(c)(1)(A)(i), substituted "1 year after December 16, 2016," for "1 year after June 10, 2014," and "State, regional, local, and tribal governments and organizations" for "State, local, and tribal governments and organizations" in introductory provisions.
 
@@ -388,11 +390,11 @@ Pub. L. 113–121, title III, §3017, June 10, 2014, 128 Stat. 1300, provided th
 
 "(a)
 
-In General.—The Secretary \[of the Army\] shall carry out measures that address consolidation, settlement, subsidence, sea level rise, and new datum to restore federally authorized hurricane and storm damagereduction projects that were constructed as of the date of enactment of this Act \[June 10, 2014\] to the authorized levels of protection of the projects if the Secretary determines the necessary work is technically feasible, environmentally acceptable, and economically justified.
+In General.—The Secretary \[of the Army\] shall carry out measures that address consolidation, settlement, subsidence, sea level rise, and new datum to restore federally authorized hurricane and storm damage reduction projects that were constructed as of the date of enactment of this Act \[June 10, 2014\] to the authorized levels of protection of the projects if the Secretary determines the necessary work is technically feasible, environmentally acceptable, and economically justified.
 
 "(b)
 
-Limitation.—This section shall only apply to those projects for which the executed project partnership agreement provides that the non-Federal interest is not required to perform future measures to restore the project to the authorized level of protection of the project to account for subsidence and sea-level rise as part of the operation, maintenance, repair, replacement, and rehabilitation responsibilities.
+Limitation.—This section shall only apply to those projects for which the executed project partnership agreement provides that the non-Federal interest is not required to perform future measures to restore the project to the authorized level of protection of the project to account for subsidence and sea-level rise aspart of the operation, maintenance, repair, replacement, and rehabilitation responsibilities.
 
 "(c)
 

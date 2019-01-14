@@ -20,7 +20,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Veterans' Admini
 
 Subsec. (b). Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Veterans' Administration" in two places.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–576, §701(99)(A), substituted "any surviving" for "surviving him any", "the decedent's" for "his" in two places, "such person" for "he", and "owned by such person" for "owned by him".
+<b>1986</b>—Subsec. (a). Pub. L. 99–576, §701(99)(A), substituted "any surviving" for "surviving him any", "thedecedent's" for "his" in two places, "such person" for "he", and "owned by such person" for "owned by him".
 
 Subsec. (b). Pub. L. 99–576, §701(99)(B), substituted "such person's" for "his".
 

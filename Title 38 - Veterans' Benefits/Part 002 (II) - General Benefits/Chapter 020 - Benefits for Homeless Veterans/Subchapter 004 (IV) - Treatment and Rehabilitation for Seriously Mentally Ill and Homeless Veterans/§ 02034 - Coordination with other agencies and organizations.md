@@ -2,7 +2,7 @@
 
 (a) In assisting homeless veterans, the Secretary shall coordinate with, and may provide services authorized under this title in conjunction with, State and local governments, other appropriate departments and agencies of the Federal Government, and nongovernmental organizations.
 
-(b)(1) The Secretary shall require the director of each medical center or the director of each regional benefits office to make an annual assessment of the needs of homeless veterans living within the area served by the medical center or regional office, as the case may be.
+(b)(1) The Secretary shall require the director of each medical center or the director of each regional benefits office to make an annual assessment of the needs of homeless veterans livingwithin the area served by the medical center or regional office, as the case may be.
 
 (2) Each such assessment shall be made in coordination with representatives of State and local governments, other appropriate departments and agencies of the Federal Government, and nongovernmental organizations that have experience working with homeless persons in that area.
 

@@ -54,7 +54,7 @@ The rates per $1,000,000 required by this section shall be applied pro rata to a
 
 #### (1) Annual adjustment
 
-&emsp;Subject to subsections (i)(1)(B) and (k), for each fiscal year, the Commission shall by order adjust each of the rates applicable under subsections (b) and (c) for such fiscal year to a uniform adjusted rate that, when applied to the baseline estimate of the aggregate dollaramount of sales for such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including assessments collected under subsection (d) of this section) that are equal to the regular appropriation to the Commission by Congress for such fiscal year.
+&emsp;Subject to subsections (i)(1)(B) and (k), for each fiscal year, the Commission shall by order adjust each of the rates applicable under subsections (b) and (c) for such fiscal year to a uniform adjusted rate that, when applied to the baseline estimate of the aggregate dollar amount of sales for such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including assessments collected under subsection (d) of this section) that are equal to the regular appropriation to the Commission by Congress for such fiscal year.
 
 #### (2) Mid-year adjustment
 
@@ -128,7 +128,7 @@ Subsec. (m). Pub. L. 111–203, §991(d)(1), added subsec. (m).
 
 Pub. L. 107–123, §2(1)–(3), substituted "$15 per $1,000,000" for "1/300 of one percent" and "security futures products, and options on securities indexes (excluding a narrow-based security index)" for "and security futures products" and struck out ", except that for fiscal year 2007 or any succeeding fiscal year such rate shall be equal to 1/800 of one percent of such aggregate dollar amount of sales" before period at end of first sentence.
 
-Subsec. (c). Pub. L. 107–123, §3(a)(3), redesignated subsec. (d) as (c), substituted "Off-exchange trades of exchange registered and last-sale-reported securities" for "Off-exchange trades of last-sale-reported securities" in subsec. heading, struck out par. (1) heading, substituted "Subject to subsection (j), each national securities" for "Each national securities", inserted "registered on a national securities exchange or" after "narrow-based security index))", struck out ", excluding any sales for which a fee is paid under subsection (c) of this section" after "national securities association", and struck out pars. (2) and (3), which related to deposit of fees and lapse of appropriations.
+Subsec. (c). Pub. L. 107–123, §3(a)(3), redesignated subsec. (d) as (c), substituted "Off-exchange trades of exchange registered and last-sale-reported securities" for "Off-exchange trades of last-sale-reported securities" in subsec. heading, struck out par. (1) heading, substituted "Subject to subsection (j), each national securities" for "Each national securities", inserted "registered on a national securities exchange or" after"narrow-based security index))", struck out ", excluding any sales for which a fee is paid under subsection (c) of this section" after "national securities association", and struck out pars. (2) and (3), which related to deposit of fees and lapse of appropriations.
 
 Pub. L. 107–123, §3(a)(2), struck out heading and text of former subsec. (c). Text read as follows: "Each national securities association shall pay to the Commission a fee at a rate equal to 1/300 of one percent of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange of securities registered on such an exchange (other than bonds, debentures, other evidences of indebtedness, and security futures products), except that for fiscal year 2007 or any succeeding fiscal year such rate shall be equal to 1/800 of one percent of such aggregate dollar amount of sales. Fees collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury."
 
@@ -226,6 +226,28 @@ Amendment by Pub. L. 94–29 effective Jan. 1, 1976, see section 31(a) of Pub. L
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
+#### Securities and Exchange Commission Overpayment Credit
+
+Pub. L. 115–174, title V, §505, May 24, 2018, 132 Stat. 1362, provided that:
+
+"(a)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'Commission' means the Securities and Exchange Commission;
+
+&emsp;"(2) the term 'national securities association' means an association that is registered under section 15A of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3); and
+
+&emsp;"(3) the term 'national securities exchange' means an exchange that is registered as a national securities exchange under section 6 of the Securities Exchange Act of 1934 (15 U.S.C. 78f).
+
+"(b)
+
+Credit for Overpayment of Fees.—Notwithstanding section 31(j) of the Securities Exchange Act of 1934 (15 U.S.C. 78ee(j)), and subject to subsection (c) of this section, if a national securities exchange or a national securities association has paid fees and assessments to the Commission in an amount that is more than the amount that the exchange or association was required to pay under section 31 of the Securities Exchange Act of 1934 (15 U.S.C. 78ee) and, not later than 10 years after the date of such payment, the exchange or association informs the Commission about the payment of such excess amount, the Commission shall offset future fees and assessments due by that exchange or association in an amount that is equal to the difference between the amount that the exchange or association paid and the amount that the exchange or association was required to pay under such section 31.
+
+"(c)
+
+Applicability.—Subsection (b) shall apply only to fees and assessments that a national securities exchange or a national securities association was required to pay to the Commission before the date of enactment of this Act \[May 24, 2018\]."
+
 #### Budget of the President
 
 Pub. L. 111–203, title IX, §991(d)(2), July 21, 2010, 124 Stat. 1954, provided that: "For fiscal year 2012, and each fiscal year thereafter, the annual budget for the Administration submitted by the President to Congress shall reflect the amendments made by this section \[amending this section and sections 77f, 78d, 78m, 78n, and 78kk of this title\]."
@@ -260,11 +282,13 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title V\], Sept. 30, 1996, 110 St
 
 #### Adjustment of Transaction Fee Rate
 
+By order dated Apr. 17, 2018, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $13.00 per $1,000,000, effective May 22, 2018, see 83 F.R. 17577.
+
 By order dated May 31, 2017, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $23.10 per $1,000,000, effective July 4, 2017, see 82 F.R. 25895.
 
 By order dated Jan. 7, 2016, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $21.80 per $1,000,000, effective Feb. 16, 2016, see 81 F.R. 1458.
 
-By order dated Jan. 15, 2015, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $18.40 per $1,000,000, effective Feb. 14, 2015, see 80 F.R. 2978.
+By order dated Jan. 15, 2015, the Securities and Exchange Commission adjusted the fee rates applicableunder subsecs. (b) and (c) of this section to $18.40 per $1,000,000, effective Feb. 14, 2015, see 80 F.R. 2978.
 
 By order dated Feb. 12, 2014, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.10 per $1,000,000, effective Mar. 18, 2014, see 79 F.R. 9504.
 

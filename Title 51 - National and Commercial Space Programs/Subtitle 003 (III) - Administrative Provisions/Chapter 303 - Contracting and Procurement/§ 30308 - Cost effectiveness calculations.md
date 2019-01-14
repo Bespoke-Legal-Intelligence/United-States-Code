@@ -10,7 +10,7 @@ Commercial provider.—The term "commercial provider" means any person providing
 
 &emsp;(2)
 
-State.—The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth ofPuerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
+State.—The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
 
 (b)
 

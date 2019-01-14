@@ -18,7 +18,7 @@ In the case of any participant, former participant, or retired participant who h
 
 #### (c) Other payments under court orders
 
-Payments under this subchapter that would otherwise be made to a participant, former participant, or retired participant based upon that participant's service shall be paid, in whole or in part, by the Director to another individual if and to the extent expressly provided for in theterms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation.
+Payments under this subchapter that would otherwise be made to a participant, former participant, or retired participant based upon that participant's service shall be paid, in whole or in part, by the Director to another individual if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation.
 
 #### (d) Prospective payments; bar to recovery
 
@@ -40,11 +40,15 @@ A prior section 264 of Pub. L. 88–643, as added Pub. L. 94–522, title II, §
 
 <b>1993</b>—Subsec. (b)(2). Pub. L. 103–178, §202(a)(12)(A), inserted "and" at end.
 
-Subsec. (b)(3). Pub. L. 103–178, §202(a)(12)(B), substituted ", and the amount of any such payment;" for "and to any payment of a return of contributions under section 2054(a) of this title; and".
+Subsec. (b)(3). Pub. L. 103–178, §202(a)(12)(B), substituted ", and the amount of any such payment;" for"and to any payment of a return of contributions under section 2054(a) of this title; and".
 
 Subsec. (b)(4). Pub. L. 103–178, §202(a)(12)(C), struck out par. (4) which read as follows: "any right of the former spouse of a participant or former participant to a lump-sum payment or additional annuity payable from a voluntary contribution account under section 2121 of this title;".
 
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
+
+#### Effective Date
+
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.
 

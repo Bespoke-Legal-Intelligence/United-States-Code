@@ -28,7 +28,7 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 &emsp;&emsp;&emsp;(ii) shall include a representative, who shall be a member of a labor organization or a training director, from a joint labor-management apprenticeship program, or if no such joint program exists in the area, such a representative of an apprenticeship program in the area, if such a program exists;
 
-&emsp;&emsp;&emsp;(iii) may include representatives of community-based organizations that have demonstrated experience and expertise in addressing the employment needs of individuals with barriers to employment, including organizations that serve veterans or that provide or support competitive integrated employment for individuals with disabilities; and
+&emsp;&emsp;&emsp;(iii) may include representatives of community-based organizations that havedemonstrated experience and expertise in addressing the employment needs of individuals with barriers to employment, including organizations that serve veterans or that provide or support competitive integrated employment for individuals with disabilities; and
 
 &emsp;&emsp;&emsp;(iv) may include representatives of organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of eligible youth, including representatives of organizations that serve out-of-school youth;
 
@@ -304,7 +304,7 @@ Consistent with section 3123 of this title, the functions of the local board sha
 
 #### (II) Designation
 
-&emsp;&emsp;&emsp;&emsp;In order to assist in administration of the grant funds, the chief elected official or the Governor, where the Governor serves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient forsuch funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
+&emsp;&emsp;&emsp;&emsp;In order to assist in administration of the grant funds, the chief elected official or the Governor, where the Governor serves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
 
 #### (III) Disbursal
 

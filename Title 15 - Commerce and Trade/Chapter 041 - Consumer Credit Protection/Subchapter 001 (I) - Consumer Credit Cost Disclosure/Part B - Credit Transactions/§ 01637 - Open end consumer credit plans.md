@@ -70,7 +70,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;&emsp;(ii) be placed in a conspicuous and prominent location on the billing statement.
 
-&emsp;(E) In the regulations prescribed under subparagraph (D), the Bureau shall require thatthe disclosure of such information shall be in the form of a table that—
+&emsp;(E) In the regulations prescribed under subparagraph (D), the Bureau shall require that the disclosure of such information shall be in the form of a table that—
 
 &emsp;&emsp;(i) contains clear and concise headings for each item of such information; and
 
@@ -220,7 +220,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;(i) the disclosures required by paragraphs (1) through (6) of subsection (a);
 
-&emsp;&emsp;&emsp;(ii) the disclosures required by subparagraphs (A) and (B) of paragraph (1) of this subsection included clearly and conspiciously <sup>1</sup> (except that the provisionsof section 1632(c) of this title shall not apply); and
+&emsp;&emsp;&emsp;(ii) the disclosures required by subparagraphs (A) and (B) of paragraph (1) of this subsection included clearly and conspiciously <sup>1</sup> (except that the provisions of section 1632(c) of this title shall not apply); and
 
 &emsp;&emsp;&emsp;(iii) a toll free telephone number or a mailing address at which the applicant may contact the creditor to obtain any change in the information provided.
 
@@ -280,7 +280,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (D) Issuers of charge cards which provide access to open end consumer credit plans
 
-&emsp;&emsp;If a charge card permits the card holder to receive an extension of credit under an open end consumer credit plan, which is not maintained by the charge card issuer, the charge card issuer may provide the information described in subparagraphs (A) and (B) in the form required by such subparagraphs in lieu of the information required to be provided under paragraph (1), (2), or (3) with respect to any credit extended under such plan, if the charge card issuer discloses clearly and conspicuously to the consumer in the application or solicitation that—
+&emsp;&emsp;If a charge card permits the card holder to receive an extension of credit under an open end consumer credit plan, which is not maintained by the charge card issuer, the charge card issuer may provide the information described in subparagraphs (A) and (B) in the form required by such subparagraphs in lieu of the information required to be provided under paragraph (1), (2), or (3) with respect to any credit extended under such plan, if the charge card issuer disclosesclearly and conspicuously to the consumer in the application or solicitation that—
 
 &emsp;&emsp;&emsp;(i) the charge card issuer will make an independent decision as to whether to issue the card;
 
@@ -296,7 +296,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (5) Regulatory authority of the Bureau
 
-&emsp;The Bureau may, by regulation, require the disclosure of information in addition to that otherwise required by this subsection or subsection (d), and modify any disclosure of information required by this subsection or subsection (d), in any application to open a credit card account for any person under an open end consumer credit plan or any application toopen a charge card account for any person, or a solicitation to open any such account without requiring an application, if the Bureau determines that such action is necessary to carry out the purposes of, or prevent evasions of, any paragraph of this subsection.
+&emsp;The Bureau may, by regulation, require the disclosure of information in addition to that otherwise required by this subsection or subsection (d), and modify any disclosure of information required by this subsection or subsection (d), in any application to open a credit card account for any person under an open end consumer credit plan or any application to open a charge card account for any person, or a solicitation to open any such account without requiring an application, if the Bureau determines that such action is necessary to carry out the purposes of, or prevent evasions of, any paragraph of this subsection.
 
 #### (6) Additional notice concerning "introductory rates"
 
@@ -416,7 +416,7 @@ If the amount of any fee required to be disclosed by a credit or charge card iss
 
 #### (1) Change in insurance carrier
 
-&emsp;Whenever a card issuer that offers any guarantee or insurance for repayment of all or part of the outstanding balance of an open end credit card plan proposes to change the person providing that guarantee or insurance, the card issuer shall send each insured consumer written notice of the proposed change not less than 30 days prior to the change, including notice of any increase in the rate or substantial decrease in coverage or service which will result from such change. Such notice may be included on or with the monthly statement provided to the consumer prior to the month in which the proposed change would take effect.
+&emsp;Whenever a card issuer that offers any guarantee or insurance for repayment of all or part of the outstanding balance of an open end credit card plan proposes to change the person providing that guarantee or insurance, thecard issuer shall send each insured consumer written notice of the proposed change not less than 30 days prior to the change, including notice of any increase in the rate or substantial decrease in coverage or service which will result from such change. Such notice may be included on or with the monthly statement provided to the consumer prior to the month in which the proposed change would take effect.
 
 #### (2) Notice of new insurance coverage
 
@@ -482,7 +482,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (2) Disclosure by creditor
 
-&emsp;No election by a consumer under paragraph (1) shall take effect unless the consumer, before making such election, received a notice from the creditor of any over-the-limit fee in the form and manner, and at the time, determined by the Bureau. If the consumer makes the election referred to in paragraph (1), the creditor shall provide notice to the consumer of the right to revoke the election, in the form prescribed by the Bureau, in any periodic statement that includes notice of the imposition of an over-the-limit fee during the period covered by the statement.
+&emsp;No election by a consumer under paragraph (1) shall take effect unless the consumer, before making such election, received a notice from the creditor of any over-the-limit fee in the form and manner, and at the time, determined by the Bureau. If the consumer makes the election referred to in paragraph (1), the creditor shall provide notice to the consumer of the right to revoke the election, in the form prescribed by the Bureau, in any periodicstatement that includes notice of the imposition of an over-the-limit fee during the period covered by the statement.
 
 #### (3) Form of election
 
@@ -502,7 +502,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (6) Rule of construction
 
-&emsp;Nothing in this subsection shall be construed to prohibit a creditor from completingan over-the-limit transaction, provided that a consumer who has not made a valid election under paragraph (1) is not charged an over-the-limit fee for such transaction.
+&emsp;Nothing in this subsection shall be construed to prohibit a creditor from completing an over-the-limit transaction, provided that a consumer who has not made a valid election under paragraph (1) is not charged an over-the-limit fee for such transaction.
 
 #### (7) Restriction on fees charged for an over-the-limit transaction
 
@@ -548,7 +548,7 @@ No increase may be made in the amount of credit authorized to be extended under 
 
 #### (A) College affinity card
 
-&emsp;&emsp;The term "college affinity card" means a credit card issued by a credit card issuer under an open end consumer credit plan in conjunction with an agreement between the issuer and an institution of higher education, or an alumni organization or foundation affiliated with or related to such institution, under which such cards are issued to college students who have an affinity with such institution, organization and—
+&emsp;&emsp;The term "college affinity card" means a credit card issued by a credit card issuer under an open end consumer credit plan in conjunction with an agreement between the issuer and an institution of higher education, or an alumni organization or foundation affiliated with or related to such institution, under which such cards are issued tocollege students who have an affinity with such institution, organization and—
 
 &emsp;&emsp;&emsp;(i) the creditor has agreed to donate a portion of the proceeds of the credit card to the institution, organization, or foundation (including a lump sum or 1-time payment of money for access);
 
@@ -724,7 +724,7 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 #### Effective Date of 1974 Amendment
 
-For effective date of amendment by sections 304 and 305 of Pub. L. 93–495, see section 308 of Pub. L. 93–495, set out as an Effective Date note under section 1666 of this title.
+For effective date of amendment by sections 304 and 305 of Pub. L. 93–495, see section 308 of Pub. L. 93–495,set out as an Effective Date note under section 1666 of this title.
 
 For effective date of amendment by section 411 of Pub. L. 93–495, see section 416 of Pub. L. 93–495, set out as an Effective Date note under section 1665a of this title.
 

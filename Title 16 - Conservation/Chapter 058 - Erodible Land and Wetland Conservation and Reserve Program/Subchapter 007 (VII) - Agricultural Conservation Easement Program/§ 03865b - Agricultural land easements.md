@@ -4,9 +4,11 @@
 
 The Secretary shall facilitate and provide funding for—
 
-&emsp;(1) the purchase by eligible entities of agricultural land easements in eligible land; and
+&emsp;(1) the purchase by eligible entities of agricultural land easements in eligible land;
 
-&emsp;(2) technical assistance to provide for the conservation of natural resources pursuant to an agricultural land easement plan.
+&emsp;(2) technical assistance to implement the program, including technical assistance for the development of a conservation plan under subsection (b)(4)(C)(iv); and
+
+&emsp;(3) buy-protect-sell transactions.
 
 #### (b) Cost-share assistance
 
@@ -32,19 +34,21 @@ The Secretary shall facilitate and provide funding for—
 
 &emsp;&emsp;&emsp;Under the agreement, the eligible entity shall provide a share that is at least equivalent to that provided by the Secretary.
 
-#### (ii) Source of contribution
-
-&emsp;&emsp;&emsp;An eligible entity may include as part of its share under clause (i) a charitable donation or qualified conservation contribution (as defined by section 170(h) of title 26) from the private landowner if the eligible entity contributes its own cash resources in an amount that is at least 50 percent of the amount contributed by the Secretary.
-
-#### (C) Exception
-
-#### (i) Grasslands
+#### (ii) Grasslands exception
 
 &emsp;&emsp;&emsp;In the case of grassland of special environmental significance, as determined by the Secretary, the Secretary may provide an amount not to exceed 75 percent of the fair market value of the agricultural land easement.
 
-#### (ii) Cash contribution
+#### (iii) Permissible forms
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (B)(ii), the Secretary may waive any portion of the eligible entity cash contribution requirement for projects of special significance, subject to an increase in the private landowner donation that is equal to the amount of the waiver, if the donation is voluntary and the property is in active agricultural production.
+&emsp;&emsp;&emsp;The non-Federal share provided by an eligible entity under this subparagraph may comprise—
+
+&emsp;&emsp;&emsp;&emsp;(I) cash resources;
+
+&emsp;&emsp;&emsp;&emsp;(II) a charitable donation or qualified conservation contribution (as defined in section 170(h) of title 26) from the private landowner from which the agricultural land easement will be purchased;
+
+&emsp;&emsp;&emsp;&emsp;(III) costs associated with securing a deed to the agricultural land easement, including the cost of appraisal, survey, inspection, and title; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) other costs, as determined by the Secretary.
 
 #### (3) Evaluation and ranking of applications
 
@@ -60,7 +64,19 @@ The Secretary shall facilitate and provide funding for—
 
 &emsp;&emsp;&emsp;(ii) maximizing the protection of areas devoted to agricultural use.
 
-#### (C) Bidding down
+#### (C) Accounting for geographic differences
+
+&emsp;&emsp;The Secretary may adjust the criteria established under subparagraph (A) to account for geographic differences, if the adjustments—
+
+&emsp;&emsp;&emsp;(i) meet the purposes of the program; and
+
+&emsp;&emsp;&emsp;(ii) continue to maximize the benefit of the Federal investment under the program.
+
+#### (D) Priority
+
+&emsp;&emsp;In evaluating applications under the program, the Secretary may give priority to an application for the purchase of an agricultural land easement that, as determined by the Secretary, maintains agricultural viability.
+
+#### (E) Bidding down
 
 &emsp;&emsp;If the Secretary determines that 2 or more applications for cost-share assistance are comparable in achieving the purpose of the program, the Secretary shall not assign a higher priority to any of those applications solely on the basis of lesser cost to the program.
 
@@ -86,23 +102,59 @@ The Secretary shall facilitate and provide funding for—
 
 &emsp;&emsp;&emsp;(ii) permit effective enforcement of the conservation purposes of such easements;
 
-&emsp;&emsp;&emsp;(iii) include a right of enforcement for the Secretary, that may be used only if the terms of the easement are not enforced by the holder of the easement;
+&emsp;&emsp;&emsp;(iii) include a right of enforcement for the Secretary that—
 
-&emsp;&emsp;&emsp;(iv) subject the land in which an interest is purchased to an agricultural land easement plan that—
+&emsp;&emsp;&emsp;&emsp;(I) may be used only if the terms and conditions of the easement are not enforced by the eligible entity; and
 
-&emsp;&emsp;&emsp;&emsp;(I) describes the activities which promote the long-term viability of the land to meet the purposes for which the easement was acquired;
+&emsp;&emsp;&emsp;&emsp;(II) does not extend to a right of inspection unless—
 
-&emsp;&emsp;&emsp;&emsp;(II) requires the management of grasslands according to a grasslands management plan; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa)(AA) the holder of the easement fails to provide monitoring reports in a timely manner; or
 
-&emsp;&emsp;&emsp;&emsp;(III) includes a conservation plan, where appropriate, and requires, at the option of the Secretary, the conversion of highly erodible cropland to less intensive uses; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the Secretary has a reasonable and articulable belief that the terms and conditions of the easement have been violated; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) prior to the inspection, the Secretary notifies the eligible entity and the landowner of the inspection and provides a reasonable opportunity for the eligible entity and the landowner to participate in the inspection;
+
+&emsp;&emsp;&emsp;(iv) include a conservation plan only for any portion of the land subject to the agricultural land easement that is highly erodible cropland; and
 
 &emsp;&emsp;&emsp;(v) include a limit on the impervious surfaces to be allowed that is consistent with the agricultural activities to be conducted.
 
-#### (D) Substitution of qualified projects
+#### (D) Additional permitted terms and conditions
+
+&emsp;&emsp;An eligible entity may include terms and conditions for an agricultural land easement that—
+
+&emsp;&emsp;&emsp;(i) are intended to keep the land subject to the agricultural land easement under the ownership of a farmer or rancher, as determined by the Secretary;
+
+&emsp;&emsp;&emsp;(ii) allow subsurface mineral development on the land subject to the agricultural land easement and in accordance with applicable State law if, as determined by the Secretary—
+
+&emsp;&emsp;&emsp;&emsp;(I) the subsurface mineral development—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has a limited and localized impact;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) does not harm the agricultural use and conservation values of the land subject to the easement;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) does not materially alter or affect the existing topography;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) shall comply with a subsurface mineral development plan that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) includes a plan for the remediation of impacts to the agricultural use and conservation values of the land subject to the easement; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) is approved by the Secretary prior to the initiation of mineral development activity;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) is not accomplished by any surface mining method;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) is within the impervious surface limits of the easement under subparagraph (C)(v); and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(gg) uses practices and technologies that minimize the duration and intensity of impacts to the agricultural use and conservation values of the land subject to the easement; and
+
+&emsp;&emsp;&emsp;&emsp;(II) each area impacted by the subsurface mineral development shall be reclaimed and restored by the holder of the mineral rights at cessation of operation; and
+
+&emsp;&emsp;&emsp;(iii) include other relevant activities relating to the agricultural land easement, as determined by the Secretary.
+
+#### (E) Substitution of qualified projects
 
 &emsp;&emsp;An agreement shall allow, upon mutual agreement of the parties, substitution of qualified projects that are identified at the time of the proposed substitution.
 
-#### (E) Effect of violation
+#### (F) Effect of violation
 
 &emsp;&emsp;If a violation occurs of a term or condition of an agreement under this subsection—
 
@@ -118,25 +170,43 @@ The Secretary shall facilitate and provide funding for—
 
 &emsp;&emsp;&emsp;(i) directly certify eligible entities that meet established criteria;
 
-&emsp;&emsp;&emsp;(ii) enter into long-term agreements with certified eligible entities; and
+&emsp;&emsp;&emsp;(ii) enter into long-term agreements with certified eligible entities;
 
-&emsp;&emsp;&emsp;(iii) accept proposals for cost-share assistance for the purchase of agricultural land easements throughout the duration of such agreements.
+&emsp;&emsp;&emsp;(iii) accept proposals for cost-share assistance for the purchase of agricultural land easements throughout the duration of such agreements; and
+
+&emsp;&emsp;&emsp;(iv) allow a certified eligible entity to use its own terms and conditions, notwithstanding paragraph (4)(C), as long as the terms and conditions are consistent with the purposes of the program.
 
 #### (B) Certification criteria
 
-&emsp;&emsp;In order to be certified, an eligible entity shall demonstrate to the Secretary that the entity will maintain, at a minimum, for the duration of the agreement—
+&emsp;&emsp;In order to be certified, an eligible entity shall demonstrate to the Secretary that the eligible entity—
 
-&emsp;&emsp;&emsp;(i) a plan for administering easements that is consistent with the purpose of the program;
+&emsp;&emsp;&emsp;(i) will maintain, at a minimum, for the duration of the agreement—
 
-&emsp;&emsp;&emsp;(ii) the capacity and resources to monitor and enforce agricultural land easements; and
+&emsp;&emsp;&emsp;&emsp;(I) a plan for administering easements that is consistent with the purpose of the program;
 
-&emsp;&emsp;&emsp;(iii) policies and procedures to ensure—
+&emsp;&emsp;&emsp;&emsp;(II) the capacity and resources to monitor and enforce agricultural land easements; and
 
-&emsp;&emsp;&emsp;&emsp;(I) the long-term integrity of agricultural land easements on eligible land;
+&emsp;&emsp;&emsp;&emsp;(III) policies and procedures to ensure—
 
-&emsp;&emsp;&emsp;&emsp;(II) timely completion of acquisitions of such easements; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the long-term integrity of agricultural land easements on eligible land;
 
-&emsp;&emsp;&emsp;&emsp;(III) timely and complete evaluation and reporting to the Secretary on the use of funds provided under the program.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) timely completion of acquisitions of such easements; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) timely and complete evaluation and reporting to the Secretary on the use of funds provided under the program;
+
+&emsp;&emsp;&emsp;(ii) has—
+
+&emsp;&emsp;&emsp;&emsp;(I) been accredited by the Land Trust Accreditation Commission, or by an equivalent accrediting body, as determined by the Secretary;
+
+&emsp;&emsp;&emsp;&emsp;(II) acquired not fewer than 10 agricultural land easements under the program or any predecessor program; and
+
+&emsp;&emsp;&emsp;&emsp;(III) successfully met the responsibilities of the eligible entity under the applicable agreements with the Secretary, as determined by the Secretary, relating to agricultural land easements that the eligible entity has acquired under the program or any predecessor program; or
+
+&emsp;&emsp;&emsp;(iii) is a State department of agriculture or other State agency with statutory authority for farm and ranchland protection that has—
+
+&emsp;&emsp;&emsp;&emsp;(I) acquired not fewer than 10 agricultural land easements under the program or any predecessor program; and
+
+&emsp;&emsp;&emsp;&emsp;(II) successfully met the responsibilities of the eligible entity under the applicable agreements with the Secretary,as determined by the Secretary, relating to agricultural land easements that the eligible entity has acquired under the program or any predecessor program.
 
 #### (C) Review and revision
 
@@ -148,7 +218,7 @@ The Secretary shall facilitate and provide funding for—
 
 &emsp;&emsp;&emsp;If the Secretary finds that a certified eligible entity no longer meets the criteria established under subparagraph (B), the Secretary may—
 
-&emsp;&emsp;&emsp;&emsp;(I) allow the certified eligible entity a specified period of time, at a minimum180 days, in which to take such actions as may be necessary to meet the criteria; and
+&emsp;&emsp;&emsp;&emsp;(I) allow the certified eligible entity a specified period of time, at a minimum 180 days, in which to take such actions as may be necessary to meet the criteria; and
 
 &emsp;&emsp;&emsp;&emsp;(II) revoke the certification of the eligible entity, if, after the specified period of time, the certified eligible entity does not meet such criteria.
 
@@ -162,11 +232,43 @@ The Secretary shall enroll eligible land under this section through the use of�
 
 #### (d) Technical assistance
 
-The Secretary may provide technical assistance, if requested, to assist in—
+The Secretary may provide technical assistance, if requested, to assist in compliance with the terms and conditions of easements.
 
-&emsp;(1) compliance with the terms and conditions of easements; and
+(Pub. L. 99–198, title XII, §1265B, as added Pub. L. 113–79, title II, §2301(a), Feb. 7, 2014, 128 Stat. 734; amended Pub. L. 115–334, title II, §2603, Dec. 20, 2018, 132 Stat. 4586.)
 
-&emsp;(2) implementation of an agricultural land easement plan.
+#### Amendments
 
-(Pub. L. 99–198, title XII, §1265B, as added Pub. L. 113–79, title II, §2301(a), Feb. 7, 2014, 128 Stat. 734.)
+<b>2018</b>—Subsec. (a)(2). Pub. L. 115–334, §2603(a)(2), substituted "technical assistance to implement the program, including technical assistance for the development of a conservation plan under subsection (b)(4)(C)(iv); and" for "technical assistance to provide for the conservation of natural resources pursuant to an agricultural land easement plan."
+
+Subsec. (a)(3). Pub. L. 115–334, §2603(a)(1), (3), added par. (3).
+
+Subsec. (b)(2)(B)(ii), (iii). Pub. L. 115–334, §2603(b)(1)(A), added cls. (ii) and (iii) and struck out former cl. (ii). Prior to amendment, text of cl. (ii) read as follows: "An eligible entity may include as part of its share under clause (i) a charitable donation or qualified conservation contribution (as defined by section 170(h) of title 26) from the private landowner if the eligible entity contributes its own cash resources in an amount that is at least 50 percent of the amount contributed by the Secretary."
+
+Subsec. (b)(2)(C). Pub. L. 115–334, §2603(b)(1)(B), struck out subpar. (C) which related to exception to Federal and non-Federal share requirements in the case of grassland of special environmental significance and for projects of special significance.
+
+Subsec. (b)(3)(C) to (E). Pub. L. 115–334, §2603(b)(2), added subpars. (C) and (D) and redesignated former subpar. (C) as (E).
+
+Subsec. (b)(4)(C)(iii), (iv). Pub. L. 115–334, §2603(b)(3)(A), added cls. (iii) and (iv) and struck out former cls. (iii) and (iv) which read as follows:
+
+"(iii) include a right of enforcement for the Secretary, that may be used only if the terms of the easement are not enforced by the holder of the easement;
+
+"(iv) subject the land in which an interest is purchased to an agricultural land easement plan that—
+
+&emsp;"(I) describes the activities which promote the long-term viability of the land to meet the purposes for which the easement was acquired;
+
+&emsp;"(II) requires the management of grasslands according to a grasslands management plan; and
+
+&emsp;"(III) includes a conservation plan, where appropriate, and requires, at the option of the Secretary, the conversion of highly erodible cropland to less intensive uses; and".
+
+Subsec. (b)(4)(D) to (F). Pub. L. 115–334, §2603(b)(3)(B), (C), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+
+Subsec. (b)(5)(A)(iv). Pub. L. 115–334, §2603(b)(4)(A), added cl. (iv).
+
+Subsec. (b)(5)(B). Pub. L. 115–334, §2603(b)(4)(B), substituted "eligible entity—" for "entity", inserted cl. (i) designation before "will maintain", redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i) and subcls. (I) to (III) of former cl. (iii) as items (aa) to (cc), respectively, of subcl. (III), realigned margins, and added cl. (ii).
+
+Subsec. (d). Pub. L. 115–334, §2603(b)(5), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "The Secretary may provide technical assistance, if requested, to assist in—
+
+&emsp;"(1) compliance with the terms and conditions of easements; and
+
+&emsp;"(2) implementation of an agricultural land easement plan."
 

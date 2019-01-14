@@ -46,7 +46,7 @@ In general.—A defense under this section may be asserted only by the person wh
 
 &emsp;&emsp;(B)
 
-Transfer of right.—Except for any transfer to the patent owner, the right to assert a defense under this section shall not be licensed or assigned or transferred to another person except as an ancillary and subordinate part of a good-faith assignment or transfer for other reasons of the entire enterprise or line of business to which the defense relates.
+Transfer of right.—Except for any transfer to the patent owner, the right to assert a defense under this section shall not be licensed or assigned or transferred to another person except as an ancillary and subordinate part of a good-faith assignment ortransfer for other reasons of the entire enterprise or line of business to which the defense relates.
 
 &emsp;&emsp;(C)
 
@@ -58,7 +58,7 @@ Derivation.—A person may not assert a defense under this section if the subjec
 
 &emsp;(3)
 
-Not a general license.—The defense asserted by a person under this section is not a general license under all claims of the patent at issue, but extends only to the specific subject matter for which it has been establishedthat a commercial use that qualifies under this section occurred, except that the defense shall also extend to variations in the quantity or volume of use of the claimed subject matter, and to improvements in the claimed subject matter that do not infringe additional specifically claimed subject matter of the patent.
+Not a general license.—The defense asserted by a person under this section is not a general license under all claims of the patent at issue, but extends only to the specific subject matter for which it has been established that a commercial use that qualifies under this section occurred, except that the defense shall also extend to variations in the quantity or volume of use of the claimed subject matter, and to improvements in the claimed subject matter that do not infringe additional specifically claimed subject matter of the patent.
 
 &emsp;(4)
 

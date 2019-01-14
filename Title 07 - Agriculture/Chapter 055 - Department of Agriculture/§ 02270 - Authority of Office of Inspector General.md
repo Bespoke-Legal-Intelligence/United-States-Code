@@ -8,7 +8,7 @@ Any person who is employed in the Office of the Inspector General, Department of
 
 &emsp;(3) carry a firearm;
 
-> in accordance with rules issued by the Secretary of Agriculture, while such employee is engaged in the performance of official duties under theauthority provided in section 6, or described in section 9, of the Inspector General Act of 1978 (5 U.S.C. App. 6, 9). The Attorney General of the United States may disapprove any designation made by the Inspector General under this section.
+> in accordance with rules issued by the Secretary of Agriculture, while such employee is engaged in the performance of official duties under the authority provided in section 6, or described in section 9, of the Inspector General Act of 1978 (5 U.S.C. App. 6, 9). The Attorney General of the United States may disapprove any designation made by the Inspector General under this section.
 
 (Pub. L. 97–98, title XIII, §1337, Dec. 22, 1981, 95 Stat. 1294; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(II), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(II), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 

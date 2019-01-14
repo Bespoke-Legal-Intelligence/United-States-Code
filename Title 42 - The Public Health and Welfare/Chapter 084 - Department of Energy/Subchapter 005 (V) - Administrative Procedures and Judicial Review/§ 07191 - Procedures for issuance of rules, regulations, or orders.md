@@ -16,7 +16,7 @@
 
 #### (c) Waiver of requirements
 
-The requirements of subsection (b) of this section may be waived where strict compliance is found by the Secretary to be likely to cause serious harm or injury to the public health, safety, or welfare, and such finding is set out in detail in such rule, regulation, or order. In the event the requirements of this section are waived, the requirements shall be satisfied within a reasonable period of time subsequent to the promulgation of such rule, regulation, or order.
+The requirements of subsection (b) of this section may be waived where strict compliance isfound by the Secretary to be likely to cause serious harm or injury to the public health, safety, or welfare, and such finding is set out in detail in such rule, regulation, or order. In the event the requirements of this section are waived, the requirements shall be satisfied within a reasonable period of time subsequent to the promulgation of such rule, regulation, or order.
 
 #### (d) Effects confined to single unit of local government, geographic area within State, or State; hearing or oral presentation
 
@@ -40,7 +40,7 @@ The requirements of subsection (b) of this section may be waived where strict co
 
 #### (e) Prescription of procedures for State and local government agencies
 
-Where authorized by any law vested, transferred, or delegated pursuant to this chapter, the Secretary may, by rule, prescribe procedures for State or local government agencies authorized by the Secretary to carry out such functions as may be permitted under applicable law. Such procedures shall apply to such agencies in lieu of this section, and shall require that prior to taking any action, such agencies shall take steps reasonably calculated to provide notice to persons who may be affected by the action, andshall afford an opportunity for presentation of views (including oral presentation of views where practicable) within a reasonable time before taking the action.
+Where authorized by any law vested, transferred, or delegated pursuant to this chapter, the Secretary may, by rule, prescribe procedures for State or local government agencies authorized by the Secretary to carry out such functions as may be permitted under applicable law. Such procedures shall apply to such agencies in lieu of this section, and shall require that prior to taking any action, such agencies shall take steps reasonably calculated to provide notice to persons who may be affected by the action, and shall afford an opportunity for presentation of views (including oral presentation of views where practicable) within a reasonable time before taking the action.
 
 (Pub. L. 95–91, title V, §501, Aug. 4, 1977, 91 Stat. 587; Pub. L. 105–28, §2(a), July 18, 1997, 111 Stat. 245.)
 

@@ -20,7 +20,7 @@ The reasons for acceptance of the Constitution of the Organization by the United
 
 "Whereas such membership in the International Labor Organization has proved of benefit to the people of the United States; and
 
-"Whereas the International Labor Organization provides a unique international forum in which representatives of employers and workers join together with those of governments in formulating conventions andrecommendations which serve as international minimum standards for labor and social legislation and administration within member countries; and
+"Whereas the International Labor Organization provides a unique international forum in which representatives of employers and workers join together with those of governments in formulating conventions and recommendations which serve as international minimum standards for labor and social legislation and administration within member countries; and
 
 "Whereas extensive revision of the constitution has been undertaken to enable the Organization to meet changed conditions, to strengthen the application of conventions and recommendations, with careful provision to meet the constitutional rules and practices of Federal States, and to operate as a specialized agency in relationship with the United Nations; and
 

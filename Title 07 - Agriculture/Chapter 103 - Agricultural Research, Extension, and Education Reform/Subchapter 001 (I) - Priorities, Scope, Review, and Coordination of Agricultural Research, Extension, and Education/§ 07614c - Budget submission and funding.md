@@ -68,15 +68,15 @@ Of the funds requested for competitive programs in excess of the competitive pro
 
 &emsp;&emsp;(C) the proposed funding levels to be allocated to, and the expected publication date, scope, and allocation level for, each request for applications to be published under or associated with—
 
-&emsp;&emsp;&emsp;(i) each priority area specified in subsection (b)(2) of section 3157 of this title;
+&emsp;&emsp;&emsp;(i) each grant and cooperative agreement awarded under subsection (d) of section 2279 of this title;
 
-&emsp;&emsp;&emsp;(ii) each research and extension project carried out under section 5811(a) of this title;
+&emsp;&emsp;&emsp;(ii) each priority area specified in subsection (b)(2) of section 3157 of this title;
 
-&emsp;&emsp;&emsp;(iii) each grant awarded under section 5925b(a) of this title;
+&emsp;&emsp;&emsp;(iii) each research and extension project carried out under section 5811(a) of this title;
 
-&emsp;&emsp;&emsp;(iv) each grant awarded under section 7632(d) of this title; and
+&emsp;&emsp;&emsp;(iv) each grant awarded under section 5925b(a) of this title; and
 
-&emsp;&emsp;&emsp;(v) each grant awarded under section 3319f(c)(1) of this title; and
+&emsp;&emsp;&emsp;(v) each grant awarded under section 7632(d) of this title; and
 
 &emsp;&emsp;(D) any other information the Secretary determines will increase congressional oversight with respect to covered programs.
 
@@ -88,15 +88,15 @@ Of the funds requested for competitive programs in excess of the competitive pro
 
 &emsp;Unless the President submits the information described in paragraph (2)(C) for a fiscal year, the President may not carry out any program during that fiscal year that is authorized under—
 
-&emsp;&emsp;(A) subsection (b) of section 3157 of this title;
+&emsp;&emsp;(A) subsection (d) of section 2279 of this title;
 
-&emsp;&emsp;(B) section 5811 of this title;
+&emsp;&emsp;(B) subsection (b) of section 3157 of this title;
 
-&emsp;&emsp;(C) section 5925b of this title;
+&emsp;&emsp;(C) section 5811 of this title;
 
-&emsp;&emsp;(D) section 7632 of this title; or
+&emsp;&emsp;(D) section 5925b of this title; or
 
-&emsp;&emsp;(E) section 3319f of this title.
+&emsp;&emsp;(E) section 7632 of this title.
 
 #### (f) Report of the Secretary of Agriculture
 
@@ -122,7 +122,7 @@ Each year on a date that is not later than the date on which the President submi
 
 Nothing in this section shall be construed so as to limit the authority of the Secretary under section 2257 of this title, with respect to the reprogramming or transfer of funds.
 
-(Pub. L. 110–234, title VII, §7506, May 22, 2008, 122 Stat. 1259; Pub. L. 110–246, §4(a), title VII, §7506, June 18, 2008, 122 Stat. 1664, 2020; Pub. L. 113–79, title VII, §7513, Feb. 7, 2014, 128 Stat. 901.)
+(Pub. L. 110–234, title VII, §7506, May 22, 2008, 122 Stat. 1259; Pub. L. 110–246, §4(a), title VII, §7506, June 18, 2008, 122 Stat. 1664, 2020; Pub. L. 113–79, title VII, §7513, Feb. 7, 2014, 128 Stat. 901; Pub. L. 115–334, title XII, §12301(a)(2)(C), Dec. 20, 2018, 132 Stat. 4950.)
 
 #### Codification
 
@@ -131,6 +131,18 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Agricultural Research, Extension, and Education Reform Act of 1998, which in part comprises this chapter.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(2)(C)(i). Pub. L. 115–334, §12301(a)(2)(C)(i)(III), added cl. (i). Former cl. (i) redesignated (ii).
+
+Subsec. (e)(2)(C)(ii). Pub. L. 115–334, §12301(a)(2)(C)(i)(II), (IV), redesignated cl. (i) as (ii) and made technical amendment to reference in original act which appears in text as reference to subsection (b)(2) of section 3157 of this title. Former cl. (ii) redesignated (iii).
+
+Subsec. (e)(2)(C)(iii) to (v). Pub. L. 115–334, §12301(a)(2)(C)(i)(I), (II), (V), redesignated cls. (ii) to (iv) as (iii) to (v), respectively, and struck out former cl. (v) which read as follows: "each grant awarded under section 3319f(c)(1) of this title; and".
+
+Subsec. (e)(4)(A). Pub. L. 115–334, §12301(a)(2)(C)(ii)(III), added subpar. (A). Former subpar. (A) redesignated (B).
+
+Subsec. (e)(4)(B). Pub. L. 115–334, §12301(a)(2)(C)(ii)(II), (IV), redesignated subpar. (A) as (B) and made technical amendment to reference in original act which appears in text as reference to subsection (b) of section 3157 of this title. Former subpar. (B) redesignated (C).
+
+Subsec. (e)(4)(C) to (E). Pub. L. 115–334, §12301(a)(2)(C)(ii)(I), (V), (VI), redesignated subpars. (B) to (D) as (C) to (E), respectively, and struck out former subpar. (E) which read as follows: "section 3319f of this title."
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–79, §7513(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "In this section, the term 'competitive programs' includes only competitive programs for which annual appropriations are requested in the annual budget submission of the President."
 

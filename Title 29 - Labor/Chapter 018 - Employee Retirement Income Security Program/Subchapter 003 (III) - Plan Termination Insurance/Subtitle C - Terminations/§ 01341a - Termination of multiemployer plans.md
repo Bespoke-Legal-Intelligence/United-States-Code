@@ -44,7 +44,7 @@ In the case of a plan which terminates under paragraph (1) or (3) of subsection 
 
 (1) The plan sponsor of a terminated plan may authorize the payment other than in the form of an annuity of a participant's entire nonforfeitable benefit attributable to employer contributions, other than a death benefit, if the value of the entire nonforfeitable benefit does not exceed $1,750. The corporation may authorize the payment of benefits under the terms of a terminated plan other than nonforfeitable benefits, or the payment other than in the form of an annuity of benefits having a value greater than $1,750, if the corporation determines that such payment is not adverse to the interest of the plan's participants and beneficiaries generally and does not unreasonably increase the corporation's risk of loss with respect to the plan.
 
-(2) The corporation may prescribe reporting requirements for terminated plans, and rulesand standards for the administration of such plans, which the corporation considers appropriate to protect the interests of plan participants and beneficiaries or to prevent unreasonable loss to the corporation.
+(2) The corporation may prescribe reporting requirements for terminated plans, and rules and standards for the administration of such plans, which the corporation considers appropriate to protect the interests of plan participants and beneficiaries or to prevent unreasonable loss to the corporation.
 
 (Pub. L. 93–406, title IV, §4041A, as added Pub. L. 96–364, title I, §103, Sept. 26, 1980, 94 Stat. 1216.)
 

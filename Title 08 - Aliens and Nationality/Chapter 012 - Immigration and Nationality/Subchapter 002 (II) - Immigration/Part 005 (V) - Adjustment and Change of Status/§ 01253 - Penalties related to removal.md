@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(C) the likelihood of the alien's resuming or following a course of conduct which made or would make the alien deportable;
 
-&emsp;&emsp;(D) the character of the efforts made by such alien himself and by representatives of the country or countries to which the alien'sremoval is directed to expedite the alien's departure from the United States;
+&emsp;&emsp;(D) the character of the efforts made by such alien himself and by representatives of the country or countries to which the alien's removal is directed to expedite the alien's departure from the United States;
 
 &emsp;&emsp;(E) the reason for the inability of the Government of the United States to secure passports, other travel documents, or removal facilities from the country or countries to which the alien has been ordered removed; and
 
@@ -68,7 +68,7 @@ An alien who shall willfully fail to comply with regulations or requirements iss
 
 #### (d) Discontinuing granting visas to nationals of country denying or delaying accepting alien
 
-On being notified by the Attorney General that the government of a foreign country denies or unreasonably delays accepting an alien who is a citizen, subject, national, or resident of that country after the Attorney General asks whether the government will accept the alien under this section, the Secretary of State shall order consular officers in that foreign country to discontinue granting immigrant visas or nonimmigrant visas, or both, to citizens, subjects, nationals, and residents of that country until the Attorney General notifies the Secretary that the country has accepted the alien.
+On being notified by the Attorney General that the government of a foreign country deniesor unreasonably delays accepting an alien who is a citizen, subject, national, or resident of that country after the Attorney General asks whether the government will accept the alien under this section, the Secretary of State shall order consular officers in that foreign country to discontinue granting immigrant visas or nonimmigrant visas, or both, to citizens, subjects, nationals, and residents of that country until the Attorney General notifies the Secretary that the country has accepted the alien.
 
 (June 27, 1952, ch. 477, title II, ch. 5, §243, 66 Stat. 212; Pub. L. 89–236, §11(f), Oct. 3, 1965, 79 Stat. 918; Pub. L. 95–549, title I, §104, Oct. 30, 1978, 92 Stat. 2066; Pub. L. 96–212, title II, §203(e), Mar. 17, 1980, 94 Stat. 107; Pub. L. 97–116, §18(i), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 101–649, title V, §515(a)(2), title VI, §603(b)(3), Nov. 29, 1990, 104 Stat. 5053, 5085; Pub. L. 104–132, title IV, §413(a), (f), Apr. 24, 1996, 110 Stat. 1269; Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612.)
 
@@ -104,7 +104,7 @@ Pub. L. 104–132, title IV, §413(g), Apr. 24, 1996, 110 Stat. 1269, provided t
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 515(a)(2) of Pub. L. 101–649 applicable to convictions entered before, on, or after Nov.29, 1990, and to applications for withholding of deportation made on or after such date, see section 515(b)(2) of Pub. L. 101–649, as amended, set out as a note under section 1158 of this title.
+Amendment by section 515(a)(2) of Pub. L. 101–649 applicable to convictions entered before, on, or after Nov. 29, 1990, and to applications for withholding of deportation made on or after such date, see section 515(b)(2) of Pub. L. 101–649, as amended, set out as a note under section 1158 of this title.
 
 Amendment by section 603(b)(3) of Pub. L. 101–649 not applicable to deportation proceedings for which notice has been provided to the alien before Mar. 1, 1991, see section 602(d) of Pub. L. 101–649, set out as a note under section 1227 of this title.
 

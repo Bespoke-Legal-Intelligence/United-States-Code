@@ -26,7 +26,7 @@ The following activities shall be exempt from sanctions under sections 9214, 922
 
 &emsp;&emsp;(A) engaging in a financial transaction relating to humanitarian assistance or for humanitarian purposes pursuant to a waiver issued under paragraph (1);
 
-&emsp;&emsp;(B) transporting goods or services that are necessary to carry out operations relating to humanitarian assistance or humanitarian purposes pursuant to such a waiver; or
+&emsp;&emsp;(B) transporting goods or services that are necessary to carry out operations relating tohumanitarian assistance or humanitarian purposes pursuant to such a waiver; or
 
 &emsp;&emsp;(C) having merely incidental contact, in the course of providing humanitarian assistance or aid for humanitarian purposes pursuant to such a waiver, with individuals who are under the control of a foreign person subject to sanctions under this chapter.
 

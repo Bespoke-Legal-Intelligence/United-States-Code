@@ -30,7 +30,7 @@ If the court of appeals affirms or modifies the order of the Secretary, its decr
 
 #### (h) Exclusive jurisdiction of court of appeals; finality of decree; appeal to Supreme Court; stay of decree
 
-The court of appeals shall have jurisdiction which upon the filing of the record with it shall be exclusive, to review, and to affirm, set aside, or modify, such orders of the Secretary, and the decree of such court shall be final except that it shall be subject to review by the Supreme Court of the United States upon certiorari, as provided in section 1254 of title 28, if such writ is duly applied for within 60 days after entry of the decree.The issue of such writ shall not operate as a stay of the decree of the court of appeals, insofar as such decree operates as an injunction, unless so ordered by the Supreme Court.
+The court of appeals shall have jurisdiction which upon the filing of the record with it shall be exclusive, to review, and to affirm, set aside, or modify, such orders of the Secretary, and the decree of such court shall be final except that it shall be subject to review by the Supreme Court of the United States upon certiorari, as provided in section 1254 of title 28, if such writ is duly applied for within 60 days after entry of the decree. The issue of such writ shall not operate as a stay of the decree of the court of appeals, insofar as such decree operates as an injunction, unless so ordered by the Supreme Court.
 
 (Aug. 15, 1921, ch. 64, title IV, §412, as added Pub. L. 100–173, §9(2), Nov. 23, 1987, 101 Stat. 921.)
 

@@ -26,9 +26,15 @@
 
 &emsp;&emsp;(D) The types of measures that, taken together, can be used to estimate the overall national quality of health care for children, including children with special needs, and to perform comparative analyses of pediatric health care quality and racial, ethnic, and socioeconomic disparities in child health and health care for children.
 
-#### (4) Encourage voluntary and standardized reporting
+#### (4) Encourage voluntary and standardized reporting and mandatory reporting
 
-&emsp;Not later than 2 years after February 4, 2009, the Secretary, in consultation with States, shall develop a standardized format for reporting information and procedures and approaches that encourage States to use the initial core measurement set to voluntarily report information regarding the quality of pediatric health care under subchapters XIX and XXI.
+#### (A) Voluntary reporting
+
+&emsp;&emsp;Not later than 2 years after February 4, 2009, the Secretary, in consultation with States, shall develop a standardized format for reporting information and procedures and approaches that encourage States to use the initial core measurement set to voluntarily report information regarding the quality of pediatric health care under subchapters XIX and XXI.
+
+#### (B) Mandatory reporting
+
+&emsp;&emsp;Beginning with the annual State report on fiscal year 2024 required under subsection (c)(1), the Secretary shall require States to use the initial core measurement set and any updates or changes to that set to report information regarding the quality of pediatric health care under subchapters XIX and XXI using the standardized format for reporting information and procedures developed under subparagraph (A).
 
 #### (5) Adoption of best practices in implementing quality programs
 
@@ -42,11 +48,11 @@
 
 &emsp;&emsp;&emsp;(i) quality related to the duration and stability of health insurance coverage for children under subchapters XIX and XXI;
 
-&emsp;&emsp;&emsp;(ii) the quality of children's health care under such subchapters, including preventive health services, dental care, health care for acute conditions, chronic health care, and health services to ameliorate the effects of physical and mental conditions and to aid in growth and development of infants, young children, school-age children, and adolescents with special health care needs; and
+&emsp;&emsp;&emsp;(ii) the quality of children's health care under such subchapters, including preventive health services, dental care, health care for acute conditions, chronic health care, and health services to ameliorate theeffects of physical and mental conditions and to aid in growth and development of infants, young children, school-age children, and adolescents with special health care needs; and
 
 &emsp;&emsp;&emsp;(iii) the quality of children's health care under such subchapters across the domains of quality, including clinical quality, health care safety, family experience with health care, health care in the most integrated setting, and elimination of racial, ethnic, and socioeconomic disparities in health and health care;
 
-&emsp;&emsp;(B) the status of voluntary reporting by States under subchapters XIX and XXI, utilizing the initial core quality measurement set; and
+&emsp;&emsp;(B) the status of voluntary reporting by States under subchapters XIX and XXI, utilizing the initial core quality measurement set and, beginning with the report required on January 1, 2025, and for each annual report thereafter, the status of mandatory reporting by States under subchapters XIX and XXI, utilizing the initial core quality measurement set and any updates or changes to that set; and
 
 &emsp;&emsp;(C) any recommendations for legislative changes needed to improve the quality of care provided to children under subchapters XIX and XXI, including recommendations for quality reporting by States.
 
@@ -100,7 +106,7 @@
 
 &emsp;&emsp;(C) dental professionals, including pediatric dental professionals;
 
-&emsp;&emsp;(D) health care providers that furnish primary health care to children and familieswho live in urban and rural medically underserved communities or who are members of distinct population sub-groups at heightened risk for poor health outcomes;
+&emsp;&emsp;(D) health care providers that furnish primary health care to children and families who live in urban and rural medically underserved communities or who are members of distinct population sub-groups at heightened risk for poor health outcomes;
 
 &emsp;&emsp;(E) national organizations representing children, including children with disabilities and children with chronic conditions;
 
@@ -114,7 +120,7 @@
 
 &emsp;As part of the program to advance pediatric quality measures, the Secretary shall—
 
-&emsp;&emsp;(A) award grants and contracts for the development, testing, and validation of new, emerging, and innovative evidence-based measures for children's health care services across the domains of quality described in clauses (i), (ii), and (iii) of subsection (a)(6)(A); and
+&emsp;&emsp;(A) award grants and contracts for the development, testing, and validation of new, emerging, and innovative evidence-based measures for children's health care services across the domains of quality described inclauses (i), (ii), and (iii) of subsection (a)(6)(A); and
 
 &emsp;&emsp;(B) award grants and contracts for—
 
@@ -142,7 +148,7 @@
 
 &emsp;Each State with a State plan approved under subchapter XIX or a State child health plan approved under subchapter XXI shall annually report to the Secretary on the—
 
-&emsp;&emsp;(A) State-specific child health quality measures applied by the States under such plans, including measures described in subparagraphs (A) and (B) of subsection (a)(6); and
+&emsp;&emsp;(A) State-specific child health quality measures applied by the States under such plans, including measures described in subparagraphs (A) and (B) of subsection (a)(6) and, beginning with the annual report on fiscal year 2024, all of the core measures described in subsection (a) and any updates or changes to those measures; and
 
 &emsp;&emsp;(B) State-specific information on the quality of health care furnished to children under such plans, including information collected through external quality reviews of managed care organizations under section 1396u–2 of this title and benchmark plans under sections 1396u–7 and 1397cc of this title.
 
@@ -354,13 +360,13 @@
 
 #### (8) Appropriation
 
-&emsp;Out of any funds in the Treasury not otherwise appropriated, there is appropriated to carry out this subsection, $25,000,000 for the period of fiscal years 2010 through 2014, and $10,000,000 for the period of fiscal years 2016 and 2017.
+&emsp;Out of any funds in the Treasury not otherwise appropriated, there is appropriated to carry out this subsection, $25,000,000 for the period of fiscal years 2010 through 2014,,<sup>1</sup> $10,000,000 for the period of fiscal years 2016 and 2017, and $30,000,000 for the period of fiscal years 2018 through 2023.
 
 #### (f) Development of model electronic health record format for children enrolled in Medicaid or CHIP
 
 #### (1) In general
 
-&emsp;Not later than January 1, 2010, the Secretary shall establish a program to encourage the development and dissemination of a model electronic health record format for children enrolled in the State plan under subchapter XIX or the State child health plan under subchapter XXI that is—
+&emsp;Not later than January 1, 2010, the Secretary shall establish a program to encourage the development and dissemination of a model electronic health record format for children enrolled in the State plan under subchapter XIXor the State child health plan under subchapter XXI that is—
 
 &emsp;&emsp;(A) subject to State laws, accessible to parents, caregivers, and other consumers for the sole purpose of demonstrating compliance with school or leisure activity requirements, such as appropriate immunizations or physicals;
 
@@ -398,11 +404,37 @@ Notwithstanding any other provision in this section, no evidence based quality m
 
 #### (i) Appropriation
 
-Out of any funds in the Treasury not otherwise appropriated, there is appropriated for each of fiscal years 2009 through 2013, $45,000,000 for the purpose of carrying out this section (other than subsection (e)), and there is appropriated for the period of fiscal years 2016 and 2017, $20,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)). Funds appropriated under this subsection shall remain available until expended.
+#### (1) In general
 
-(Aug. 14, 1935, ch. 531, title XI, §1139A, as added and amended Pub. L. 111–3, title IV, §401(a), title V, §501(g), Feb. 4, 2009, 123 Stat. 72, 88; Pub. L. 111–148, title IV, §4306, Mar. 23, 2010, 124 Stat. 587; Pub. L. 114–10, title III, §304, Apr. 16, 2015, 129 Stat. 158.)
+&emsp;Out of any funds in the Treasury not otherwise appropriated, there is appropriated—
+
+&emsp;&emsp;(A) for each of fiscal years 2009 through 2013, $45,000,000 for the purpose of carrying out this section (other than subsection (e));
+
+&emsp;&emsp;(B) for the period of fiscal years 2016 and 2017, $20,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g));
+
+&emsp;&emsp;(C) for the period of fiscal years 2018 through 2023, $90,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)); and
+
+&emsp;&emsp;(D) for the period of fiscal years 2024 through 2027, $60,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)).
+
+#### (2) Availability
+
+&emsp;Funds appropriated under this subsection shall remain available until expended.
+
+(Aug. 14, 1935, ch. 531, title XI, §1139A, as added and amended Pub. L. 111–3, title IV, §401(a), title V, §501(g), Feb. 4, 2009, 123 Stat. 72, 88; Pub. L. 111–148, title IV, §4306, Mar. 23, 2010, 124 Stat. 587; Pub. L. 114–10, title III, §304, Apr. 16, 2015, 129 Stat. 158; Pub. L. 115–120, div. C, §3003, Jan. 22, 2018, 132 Stat. 36; Pub. L. 115–123, div. E, title I, §50102, Feb. 9, 2018, 132 Stat. 175.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(4). Pub. L. 115–123, §50102(b)(1)(A), (B), inserted "and mandatory reporting" after "reporting" in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
+
+Subsec. (a)(6)(B). Pub. L. 115–123, §50102(b)(1)(C), inserted "and, beginning with the report required on January 1, 2025, and for each annual report thereafter, the status of mandatory reporting by States under subchapters XIX and XXI, utilizing the initial core quality measurement set and any updates or changes to that set" before semicolon.
+
+Subsec. (c)(1)(A). Pub. L. 115–123, §50102(b)(2), inserted "and, beginning with the annual report on fiscal year 2024, all of the core measures described in subsection (a) and any updates or changes to those measures" before semicolon.
+
+Subsec. (e)(8). Pub. L. 115–120, §3003(a), substituted ", $10,000,000" for "and $10,000,000" and inserted ", and $30,000,000 for the period of fiscal years 2018 through 2023" after "2017".
+
+Subsec. (i). Pub. L. 115–120, §3003(b), restructured existing text into par. (1), including subpars. (A) and (B), and par. (2), inserted par. headings, and added par. (1)(C).
+
+Subsec. (i)(1)(D). Pub. L. 115–123, §50102(a), added subpar. (D).
 
 <b>2015</b>—Subsec. (e)(8). Pub. L. 114–10, §304(a), inserted ", and $10,000,000 for the period of fiscal years 2016 and 2017" after "2014".
 

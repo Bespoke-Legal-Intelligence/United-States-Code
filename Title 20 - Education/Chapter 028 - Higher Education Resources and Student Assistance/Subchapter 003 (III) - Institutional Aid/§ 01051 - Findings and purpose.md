@@ -18,7 +18,7 @@ The Congress finds that—
 
 &emsp;(7) these institutions play an important role in the American system of higher education, and there is a strong national interest in assisting them in solving their problems and in stabilizing their management and fiscal operations, and in becoming financially independent; and
 
-&emsp;(8) there is a particular national interest in aiding those institutions of higher education that have historically served students who have been denied access to postsecondary education because of race or national origin and whose participation in the American system of higher education is in the Nation's interest so that equality of access and quality of postsecondary education opportunities may be enhanced for all students.
+&emsp;(8) there is a particular national interest in aiding those institutions of higher education that have historically served students who have been denied access to postsecondary education because of race or national origin andwhose participation in the American system of higher education is in the Nation's interest so that equality of access and quality of postsecondary education opportunities may be enhanced for all students.
 
 #### (b) Purpose
 
@@ -28,7 +28,7 @@ It is the purpose of this subchapter to assist such institutions in equalizing e
 
 #### Prior Provisions
 
-A prior section 1051, Pub. L. 89–329, title III, §301, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat.1390, stated Congressional findings and purposes for program of providing Federal assistance to institutions of higher education, prior to the general revision of this subchapter by Pub. L. 99–498.
+A prior section 1051, Pub. L. 89–329, title III, §301, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1390, stated Congressional findings and purposes for program of providing Federal assistance to institutions of higher education, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 Another prior section 1051, Pub. L. 89–329, title III, §301, Nov. 8, 1965, 79 Stat. 1229; Pub. L. 89–752, §10, Nov. 3, 1966, 80 Stat. 1243; Pub. L. 90–575, title II, §§221, 222, Oct. 16, 1968, 82 Stat. 1038; Pub. L. 92–318, title I, §121(a), June 23, 1972, 86 Stat. 241; Pub. L. 94–482, title I, §111, Oct. 12, 1976, 90 Stat. 2091; Pub. L. 96–49, §4, Aug. 13, 1979, 93 Stat. 351, related to a program of special assistance to strengthen the academic quality of developing institutions, prior to the general revision of this subchapter by Pub. L. 96–374.
 

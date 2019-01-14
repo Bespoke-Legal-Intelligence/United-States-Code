@@ -8,6 +8,7 @@
 | :--- | ---: |
 | [2151\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151%20-%20Congressional%20findings%20and%20declaration%20of%20policy.md) | Congressional findings and declaration of policy. |
 | 2151–1. | Development assistance policy. |
+| 2151–2. | Actions to improve the international gender policy of the United States Agency for International Development. |
 | [2151a.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151a%20-%20Agricultural%20development%20in%20rural%20areas.md) | Agricultural development in rural areas. |
 | 2151a–1. | Agricultural research. |
 | [2151b.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151b%20-%20Population%20planning%20and%20health%20programs.md) | Population planning and health programs. |
@@ -16,6 +17,7 @@
 | 2151b–3. | Assistance to combat tuberculosis. |
 | 2151b–4. | Assistance to combat malaria. |
 | [2151c.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151c%20-%20Education%20and%20human%20resources%20development.md) | Education and human resources development. |
+| 2151c–1. | United States assistance to support educational services for displaced children. |
 | [2151d.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151d%20-%20Development%20of%20indigenous%20energy%20resources.md) | Development of indigenous energy resources. |
 | [2151e.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151e%20-%20Appropriate%20technology.md) | Appropriate technology. |
 | [2151f.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151f%20-%20Transferred.md) | Transferred. |
@@ -132,17 +134,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart vi—microenterprise development assistance
+#### subpart vi—development assistance for micro, small, and medium-sized enterprises
 
 #### Division A—Grant Assistance
 
 |  |  |
 | :--- | ---: |
-| [2211\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20A%20-%20Grant%20Assistance/%C2%A7%2002211%20-%20Findings%20and%20policy.md) | Findings and policy. |
-| [2211a.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20A%20-%20Grant%20Assistance/%C2%A7%2002211a%20-%20Authorization%3B%20implementation%3B%20targeted%20assistance.md) | Authorization; implementation; targeted assistance. |
-| [2211b.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20A%20-%20Grant%20Assistance/%C2%A7%2002211b%20-%20Monitoring%20system.md) | Monitoring system. |
-| [2211c.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20A%20-%20Grant%20Assistance/%C2%A7%2002211c%20-%20Development%20and%20certification%20of%20poverty%20measurement%20methods%3B%20application%20of%20methods.md) | Development and certification of poverty measurement methods; application of methods. |
-| [2211d.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20A%20-%20Grant%20Assistance/%C2%A7%2002211d%20-%20Additional%20authorities.md) | Additional authorities. |
+| [2211\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Development%20Assistance%20for%20Micro%2C%20Small%2C%20and%20Medium-Sized%20Enterprises/Division%20A%20-%20Grant%20Assistance/%C2%A7%2002211%20-%20Findings%20and%20policy.md) | Findings and policy. |
+| [2211a.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Development%20Assistance%20for%20Micro%2C%20Small%2C%20and%20Medium-Sized%20Enterprises/Division%20A%20-%20Grant%20Assistance/%C2%A7%2002211a%20-%20Authorization%3B%20implementation%3B%20targeted%20assistance.md) | Authorization; implementation; targeted assistance. |
+| [2211b.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Development%20Assistance%20for%20Micro%2C%20Small%2C%20and%20Medium-Sized%20Enterprises/Division%20A%20-%20Grant%20Assistance/%C2%A7%2002211b%20-%20Monitoring%20system.md) | Monitoring system. |
+| [2211c.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Development%20Assistance%20for%20Micro%2C%20Small%2C%20and%20Medium-Sized%20Enterprises/Division%20A%20-%20Grant%20Assistance/%C2%A7%2002211c%20-%20Poverty%20measurement%20methods.md) | Poverty measurement methods. |
+| [2211d.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Development%20Assistance%20for%20Micro%2C%20Small%2C%20and%20Medium-Sized%20Enterprises/Division%20A%20-%20Grant%20Assistance/%C2%A7%2002211d%20-%20Additional%20authorities.md) | Additional authorities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -150,7 +152,7 @@
 
 |  |  |
 | :--- | ---: |
-| [2212\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20B%20-%20Credit%20Assistance/%C2%A7%2002212%20-%20Microenterprise%20development%20credits.md) | Microenterprise development credits. |
+| [2212\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Development%20Assistance%20for%20Micro%2C%20Small%2C%20and%20Medium-Sized%20Enterprises/Division%20B%20-%20Credit%20Assistance/%C2%A7%2002212%20-%20Development%20credits%20for%20micro%2C%20small%2C%20and%20medium-sized%20enterprises.md) | Development credits for micro, small, and medium-sized enterprises. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -158,7 +160,7 @@
 
 |  |  |
 | :--- | ---: |
-| [2213\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20C%20-%20United%20States%20Microfinance%20Loan%20Facility/%C2%A7%2002213%20-%20United%20States%20Microfinance%20Loan%20Facility.md) | United States Microfinance Loan Facility. |
+| [2213\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Development%20Assistance%20for%20Micro%2C%20Small%2C%20and%20Medium-Sized%20Enterprises/Division%20C%20-%20United%20States%20Microfinance%20Loan%20Facility/%C2%A7%2002213%20-%20United%20States%20Microfinance%20Loan%20Facility.md) | United States Microfinance Loan Facility. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -166,8 +168,8 @@
 
 |  |  |
 | :--- | ---: |
-| [2214\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2002214%20-%20Report.md) | Report. |
-| [2214a.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/Division%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2002214a%20-%20Definitions.md) | Definitions. |
+| [2214\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Development%20Assistance%20for%20Micro%2C%20Small%2C%20and%20Medium-Sized%20Enterprises/Division%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2002214%20-%20Report.md) | Report. |
+| [2214a.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20006%20%28vi%29%20-%20Development%20Assistance%20for%20Micro%2C%20Small%2C%20and%20Medium-Sized%20Enterprises/Division%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2002214a%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -523,6 +525,9 @@
 | [2378\.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002378%20-%20Prohibition%20on%20assistance%20to%20countries%20that%20provide%20military%20equipment%20to%20terrorist%20states.md) | Prohibition on assistance to countries that provide military equipment to terrorist states. |
 | 2378–1. | Prohibition on assistance to countries that restrict United States humanitarian assistance. |
 | [2378a.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002378a%20-%20Depleted%20uranium%20ammunition.md) | Depleted uranium ammunition. |
+| [2378b.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002378b%20-%20Limitation%20on%20assistance%20to%20the%20Palestinian%20Authority.md) | Limitation on assistance to the Palestinian Authority. |
+| [2378c.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002378c%20-%20Limitation%20on%20assistance%20for%20the%20West%20Bank%20and%20Gaza.md) | Limitation on assistance for the West Bank and Gaza. |
+| 2378c–1. | Limitation on assistance to the West Bank and Gaza. |
 | [2378d.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002378d%20-%20Limitation%20on%20assistance%20to%20security%20forces.md) | Limitation on assistance to security forces. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -639,8 +644,8 @@
 | [2431d.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431d%20-%20Reduction%20of%20debt%20owed%20to%20United%20States%20as%20result%20of%20concessional%20loans%20under%20this%20chapter.md) | Reduction of debt owed to United States as result of concessional loans under this chapter. |
 | [2431e.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431e%20-%20Reduction%20of%20debt%20owed%20to%20United%20States%20as%20result%20of%20credits%20extended%20under%20title%20I%20of%20Food%20for%20Peace%20Act.md) | Reduction of debt owed to United States as result of credits extended under title I of Food for Peace Act. |
 | [2431f.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431f%20-%20Authority%20to%20engage%20in%20debt-for-nature%20swaps%20and%20debt%20buybacks.md) | Authority to engage in debt-for-nature swaps and debt buybacks. |
-| [2431g.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431g%20-%20Tropical%20Forest%20Agreement.md) | Tropical Forest Agreement. |
-| [2431h.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431h%20-%20Tropical%20Forest%20Fund.md) | Tropical Forest Fund. |
+| [2431g.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431g%20-%20Conservation%20Agreement.md) | Conservation Agreement. |
+| [2431h.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431h%20-%20Conservation%20Fund.md) | Conservation Fund. |
 | [2431i.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431i%20-%20Board.md) | Board. |
 | [2431j.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431j%20-%20Consultations%20with%20Congress.md) | Consultations with Congress. |
 | [2431k.](Subchapter%20004%20%28IV%29%20-%20Debt%20Reduction%20for%20Developing%20Countries%20with%20Tropical%20Forests/%C2%A7%2002431k%20-%20Annual%20reports%20to%20Congress.md) | Annual reports to Congress. |

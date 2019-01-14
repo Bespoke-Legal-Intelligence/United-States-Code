@@ -112,7 +112,7 @@ Administrative Responsibility.—(1) Consistent with the regulations prescribed 
 
 (f)
 
-Availability of Special Victims' Counsel.—(1) An individual described in subsection (a)(2) who is the victim of an alleged sex-related offense shall be offered the option of receiving assistance from a Special Victims' Counsel uponreport of an alleged sex-related offense or at the time the victim seeks assistance from a Sexual Assault Response Coordinator, a Sexual Assault Victim Advocate, a military criminal investigator, a victim/witness liaison, a trial counsel, a healthcare provider, or any other personnel designated by the Secretary concerned for purposes of this subsection.
+Availability of Special Victims' Counsel.—(1) An individual described in subsection (a)(2) who is the victim of an alleged sex-related offense shall be offered the option of receiving assistance from a Special Victims' Counsel upon report of an alleged sex-related offense or at the time the victim seeks assistance from a Sexual Assault Response Coordinator, a Sexual Assault Victim Advocate, a military criminal investigator, a victim/witness liaison, a trial counsel, a healthcare provider, or any other personnel designated by the Secretary concerned for purposes of this subsection.
 
 (2) Subject to such exceptions for exigent circumstances as the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating may prescribe, notice of the availability of a Special Victims' Counsel shall be provided to an individual described in subsection (a)(2) before any military criminal investigator or trial counsel interviews, or requests any statement from, the individual regarding the alleged sex-related offense.
 
@@ -122,7 +122,7 @@ Availability of Special Victims' Counsel.—(1) An individual described in subse
 
 Alleged Sex-related Offense Defined.—In this section, the term "alleged sex-related offense" means any allegation of—
 
-&emsp;(1) a violation of section 920, 920a, 920b, 920c, or 925 of this title (article 120, 120a, 120b, 120c, or 125 of the Uniform Code of Military Justice); or
+&emsp;(1) a violation of section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice); or
 
 &emsp;(2) an attempt to commit an offense specified in a paragraph (1) as punishable under section 880 of this title (article 80 of the Uniform Code of Military Justice).
 
@@ -131,16 +131,6 @@ Alleged Sex-related Offense Defined.—In this section, the term "alleged sex-re
 Regulations.—The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall prescribe regulations to carry out this section.
 
 (Added Pub. L. 113–66, div. A, title XVII, §1716(a)(1), Dec. 26, 2013, 127 Stat. 966; amended Pub. L. 113–291, div. A, title V, §§531(c), 533, 534(a), Dec. 19, 2014, 128 Stat. 3364, 3366, 3367; Pub. L. 114–92, div. A, title V, §§532–534(a), 535(a), (b), Nov. 25, 2015, 129 Stat. 815, 816; Pub. L. 115–91, div. A, title X, §1081(c)(2)(D), Dec. 12, 2017, 131 Stat. 1599.)
-
-#### Amendment of Subsection (g)(1)
-
-<i>Pub. L. 115–91, div. A, title X, §1081(c)(2)(D), (4), Dec. 12, 2017, 131 Stat. 1599, provided that, effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), subsection (g)(1) of this section is amended—</i>
-
-<i>(1) by striking "920a, 920b, 920c, or 925" and inserting "920b, 920c, or 930"; and</i>
-
-<i>(2) by striking "120a, 120b, 120c, or 125" and inserting "120b, 120c, or 130".</i>
-
-<i>See 2017 Amendment note below.</i>
 
 #### Amendments
 
@@ -156,7 +146,7 @@ Subsec. (e)(3). Pub. L. 114–92, §535(b), added par. (3).
 
 Subsec. (f)(2), (3). Pub. L. 114–92, §534(a), added par. (2) and redesignated former par. (2) as (3).
 
-<b>2014</b>—Subsec. (a). Pub. L. 113–291, §533(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary concerned shall designate legal counsel (to be known as 'Special Victims' Counsel') for the purpose of providing legal assistance to an individual eligible for military legal assistance under section 1044 of this title who is the victim of an alleged sex-related offense, regardless of whether the report of that offense is restricted or unrestricted."
+<b>2014</b>—Subsec. (a). Pub. L. 113–291, §533(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary concerned shall designate legal counsel (to be known as 'Special Victims' Counsel') forthe purpose of providing legal assistance to an individual eligible for military legal assistance under section 1044 of this title who is the victim of an alleged sex-related offense, regardless of whether the report of that offense is restricted or unrestricted."
 
 Subsec. (b)(4). Pub. L. 113–291, §531(c)(1), substituted "the United States" for "the Department of Defense".
 
@@ -194,7 +184,7 @@ Convening authority consideration of preference.—The preference expressed by t
 
 &emsp;"(3)
 
-Notice to appropriate jurisdiction of victim's preference for civilian prosecution.—If thevictim of an alleged sex-related offense expresses a preference under paragraph (1) for prosecution of the offense in a civilian court, the convening authority described in paragraph (2) shall ensure that the civilian authority with jurisdiction over the offense is notified of the victim's preference for civilian prosecution.
+Notice to appropriate jurisdiction of victim's preference for civilian prosecution.—If the victim of an alleged sex-related offense expresses a preference under paragraph (1) for prosecution of the offense in a civilian court, the convening authority described in paragraph (2) shall ensure that the civilian authority with jurisdiction over the offense is notified of the victim's preference for civilian prosecution.
 
 &emsp;"(4)
 

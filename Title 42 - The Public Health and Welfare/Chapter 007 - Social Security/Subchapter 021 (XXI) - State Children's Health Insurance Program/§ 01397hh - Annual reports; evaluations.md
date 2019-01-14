@@ -34,7 +34,7 @@ Subject to subsection (e), the State shall—
 
 &emsp;&emsp;(C) An assessment of the effectiveness of other public and private programs in the State in increasing the availability of affordable quality individual and family health insurance for children.
 
-&emsp;&emsp;(D) A review and assessment of State activities to coordinate the plan under this subchapter with other public and private programs providing health care and health care financing, including medicaid and maternal and child health services.
+&emsp;&emsp;(D) A review and assessment of State activities to coordinate the plan under this subchapter with other public and private programs providing health care and healthcare financing, including medicaid and maternal and child health services.
 
 &emsp;&emsp;(E) An analysis of changes and trends in the State that affect the provision of accessible, affordable, quality health insurance and health care to children.
 
@@ -104,7 +104,7 @@ The State shall include the following information in the annual report required 
 
 &emsp;(1) Eligibility criteria, enrollment, and retention data (including data with respect to continuity of coverage or duration of benefits).
 
-&emsp;(2) Data regarding the extent to which the State uses process measures with respect to determining the eligibility of children under the State child health plan, including measures such as 12-month continuous eligibility, self-declaration of income for applications or renewals, or presumptive eligibility.
+&emsp;(2) Data regarding the extent to which the State uses process measures with respect to determining the eligibility of children under the State child health plan, including measures such as 12-month continuous eligibility,self-declaration of income for applications or renewals, or presumptive eligibility.
 
 &emsp;(3) Data regarding denials of eligibility and redeterminations of eligibility.
 

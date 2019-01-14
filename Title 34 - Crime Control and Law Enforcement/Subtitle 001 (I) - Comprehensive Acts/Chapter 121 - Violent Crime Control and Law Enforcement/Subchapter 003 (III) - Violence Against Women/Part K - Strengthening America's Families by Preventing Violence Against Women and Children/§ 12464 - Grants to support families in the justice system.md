@@ -30,7 +30,7 @@ A grant under this section may be used to—
 
 &emsp;&emsp;(F) other projects likely to improve court responses to domestic violence, dating violence, sexual assault, and stalking;
 
-&emsp;(6) provide civil legal assistance and advocacy services, including legal information andresources in cases in which the victim proceeds pro se, to—
+&emsp;(6) provide civil legal assistance and advocacy services, including legal information and resources in cases in which the victim proceeds pro se, to—
 
 &emsp;&emsp;(A) victims of domestic violence; and
 

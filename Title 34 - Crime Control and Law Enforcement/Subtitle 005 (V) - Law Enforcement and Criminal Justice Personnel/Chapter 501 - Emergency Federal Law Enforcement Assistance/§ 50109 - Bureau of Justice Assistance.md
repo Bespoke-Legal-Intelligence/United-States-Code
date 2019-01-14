@@ -1,6 +1,6 @@
 ### §50109. Bureau of Justice Assistance
 
-The Director of the Bureau of Justice Assistance may assist the Attorney General in providing Federal law enforcement assistance underthis chapter and in coordinating the activities authorized under this chapter.
+The Director of the Bureau of Justice Assistance may assist the Attorney General in providing Federal law enforcement assistance under this chapter and in coordinating the activities authorized under this chapter.
 
 (Pub. L. 98–473, title II, §609V, Oct. 12, 1984, 98 Stat. 2106.)
 

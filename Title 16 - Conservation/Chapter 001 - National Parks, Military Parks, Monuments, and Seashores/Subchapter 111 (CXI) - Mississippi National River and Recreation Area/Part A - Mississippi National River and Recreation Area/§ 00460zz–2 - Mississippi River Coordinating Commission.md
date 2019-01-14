@@ -96,7 +96,7 @@ Within 3 years after appointment of the full membership of the Commission, the C
 
 &emsp;(2) A program providing for coordinated implementation and administration of the plan with proposed assignment of responsibilities to the appropriate governmental unit at the Federal, State, regional and local levels, including each of the following:
 
-&emsp;&emsp;(A) Ways in which local, regional, State, and Federal policies and permits may better be coordinated to the goals and policies of this part.
+&emsp;&emsp;(A) Ways in which local, regional, State, and Federal policies and permits may betterbe coordinated to the goals and policies of this part.
 
 &emsp;&emsp;(B) A financial plan to provide and support the public improvements and services recommended in the plan; and a mechanism for coordinating local, regional, State, and Federal planning to promote the purposes of this part.
 

@@ -28,7 +28,7 @@ In addition to meeting the standards of eligibility prescribed in section 2014 o
 
 > During the period of such ineligibility, no household shall receive increased benefits under this chapter as the result of a member of such household having been disqualified under this subsection.
 
-(2) Each State agency shall proceed against an individual alleged to have engaged in such activity either by way of administrative hearings,after notice and an opportunity for a hearing at the State level, or by referring such matters to appropriate authorities for civil or criminal action in a court of law.
+(2) Each State agency shall proceed against an individual alleged to have engaged in such activity either by way of administrative hearings, after notice and an opportunity for a hearing at the State level, or by referring such matters to appropriate authorities for civil or criminal action in a court of law.
 
 (3) Such periods of ineligibility as are provided for in paragraph (1) of this subsection shall remain in effect, without possibility of administrative stay, unless and until the finding upon which the ineligibility is based is subsequently reversed by a court of appropriate jurisdiction, but in no event shall the period of ineligibility be subject to review.
 
@@ -74,9 +74,9 @@ In general.—Except as provided in subparagraphs (A) and (C), a State agency ma
 
 Reporting by households with excess income.—A household required to report less often than once each 3 months shall, notwithstanding subparagraph (B), report in a manner prescribed by the Secretary if the income of the household for any month exceeds the income standard of eligibility established under section 2014(c)(2) of this title.
 
-&emsp;(2) Any household required to file a periodic report under paragraph (1) of this subsection shall, (A) if it is eligible to participate and has filed a timely and complete report, receive its allotment, based on the reported information for a given month, within thirty days of the end of that month unless the Secretary determines that a longer period of time is necessary, (B) have available special procedures that permit the filing of the required information in the event all adult members of the household are mentally or physically handicapped or lacking in reading or writing skills to such a degree as to be unable to fill out the required forms, (C) have a reasonable period of time after the close of the month in which to file their reports on State agency designed forms, (D) be afforded prompt notice of failure to file any report timely or completely, and given a reasonable opportunity to cure that failure (with any applicable time requirements extended accordingly) and to exercise its rights under section 2020(e)(10) of this title, and (E) be provided each month (or other applicable period) with an appropriate, simple form for making the required reports of the household together with clear instructions explaining how to complete the form and the rights and responsibilities of the household under any periodic reporting system.
+&emsp;(2) Any household required to file a periodic report under paragraph (1) of this subsection shall, (A) if it is eligible to participate and has filed a timely and complete report, receive its allotment, based on the reported information for a given month, within thirty days of the end of that month unless the Secretary determines that a longer period of time is necessary, (B) have available special procedures that permit the filing of the required information in the event all adult members of the household are mentally or physically handicapped or lacking in reading or writing skills to such a degree as to be unable to fill out the required forms, (C) have a reasonable period of time after the close of the month in which to file their reports on State agency designed forms, (D) be afforded prompt notice of failure to file any report timely or completely, and given a reasonable opportunity to cure that failure (with any applicable time requirements extended accordingly) and to exercise its rights under section 2020(e)(10) of this title, and (E) be provided each month (or other applicable period) with an appropriate, simpleform for making the required reports of the household together with clear instructions explaining how to complete the form and the rights and responsibilities of the household under any periodic reporting system.
 
-&emsp;(3) Reports required to be filed under paragraph (1) of this subsection shall be considered complete if they contain the information relevant to eligibility and benefit determinations that is specified by the State agency. All report forms, including those related to periodic reports of circumstances, shall contain a description, in understandable terms in prominent and bold face lettering, of the appropriate civil and criminal provisions dealing with violations of this chapter including the prescribed penalties. Reports required to be filed monthly under paragraph (1) shall be the sole reporting requirement for subject matterincluded in such reports. In promulgating regulations implementing these reporting requirements, the Secretary shall consult with the Commissioner of Social Security and the Secretary of Health and Human Services, and, wherever feasible, households that receive assistance under title IV–A of the Social Security Act \[42 U.S.C. 601 et seq.\] and that are required to file comparable reports under that Act \[42 U.S.C. 301 et seq.\] shall be provided the opportunity to file reports at the same time for purposes of this chapter and the Social Security Act.
+&emsp;(3) Reports required to be filed under paragraph (1) of this subsection shall be considered complete if they contain the information relevant to eligibility and benefit determinations that is specified by the State agency. All report forms, including those related to periodic reports of circumstances, shall contain a description, in understandable terms in prominent and bold face lettering, of the appropriate civil and criminal provisions dealing with violations of this chapter including the prescribed penalties. Reports required to be filed monthly under paragraph (1) shall be the sole reporting requirement for subject matter included in such reports. In promulgating regulations implementing these reporting requirements, the Secretary shall consult with the Commissioner of Social Security and the Secretary of Health and Human Services, and, wherever feasible, households that receive assistance under title IV–A of the Social Security Act \[42 U.S.C. 601 et seq.\] and that are required to file comparable reports under that Act \[42 U.S.C. 301 et seq.\] shall be provided the opportunity to file reports at the same time for purposes of this chapter and the Social Security Act.
 
 &emsp;(4) Except as provided in paragraph (1)(C), any household that fails to submit periodic reports required by paragraph (1) shall not receive an allotment for the payment period to which the unsubmitted report applies until such report is submitted.
 
@@ -212,7 +212,7 @@ Change in head of household.—If the head of a household leaves the household d
 
 (2) A person who otherwise would be required to comply with the requirements of paragraph (1) of this subsection shall be exempt from such requirements if he or she is (A) currently subject to and complying with a work registration requirement under title IV of the Social Security Act, as amended (42 U.S.C. 602), or the Federal-State unemployment compensation system, in which case, failure by such person to comply with any work requirement to which such person is subject shall be the same as failure to comply with that requirement of paragraph (1); (B) a parent or other member of a household with responsibility for the care of a dependent child under age six or of an incapacitated person; (C) a bona fide student enrolled at least half time in any recognized school, training program, or institution of higher education (except that any such person enrolled in an institution of higher education shall be ineligible to participate in the supplemental nutrition assistance program unless he or she meets the requirements of subsection (e) of this section); (D) a regular participant in a drug addiction or alcoholic treatment and rehabilitation program; (E) employed a minimum of thirty hours per week or receiving weekly earnings which equal the minimum hourly rate under the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 206(a)(1)), multiplied by thirty hours; or (F) a person between the ages of sixteen and eighteen who is not a head of a household or who is attending school, or enrolled in an employment training program, on at least a half-time basis. A State that requested a waiver to lower the age specified in subparagraph (B) and had the waiver denied by the Secretary as of August 1, 1996, may, for a period of not more than 3 years, lower the age of a dependent child that qualifies a parent or other member of a household for an exemption under subparagraph (B) to between 1 and 6 years of age.
 
-(3) Notwithstanding any other provision of law, a household shall not participate in the supplemental nutrition assistance program at any time that any member of such household, not exempt from the work registration requirements of paragraph (1) of this subsection, is on strike as defined in section 142(2) of title 29, because of a labor dispute (other than a lockout) as defined in section 152(9) of title 29: <i>Provided</i>, That a household shall not lose its eligibility to participate in the supplemental nutrition assistance program as a result of one of its members going on strike if the household was eligible immediately prior to such strike, however, such household shall not receive an increased allotment as the result of a decrease in the income of the striking member or members of the household: <i>Provided further</i>, That such ineligibility shall not apply to any household that does not contain a member on strike, if any of its members refuses to accept employment at a plant or site because of a strike or lockout.
+(3) Notwithstanding any other provision of law, a household shall not participate in the supplemental nutrition assistance program at any time that any member of such household, not exempt from the work registration requirements of paragraph (1) of this subsection, is on strike as defined in section 142(2) of title 29, because of a labor dispute (other than a lockout) as defined in section 152(9) of title 29: <i>Provided</i>, That a household shall not lose its eligibility to participate in the supplemental nutrition assistance program as a result of one of its members going on strike if the household was eligible immediately prior to such strike, however, such household shall not receive an increased allotment as the result of a decrease in the incomeof the striking member or members of the household: <i>Provided further</i>, That such ineligibility shall not apply to any household that does not contain a member on strike, if any of its members refuses to accept employment at a plant or site because of a strike or lockout.
 
 (4)
 
@@ -224,33 +224,79 @@ In general.—
 
 &emsp;&emsp;(i)
 
-Implementation.—Each State agency shall implement an employment and training program designed by the State agency and approved by the Secretary for the purpose of assisting members of households participating in the supplemental nutrition assistance program in gaining skills, training, work, or experience that will increase their ability to obtain regular employment.
+Implementation.—Each State agency shall implement an employment and training program designed by the State agency, in consultation with the State workforce development board, or, if the State demonstrates that consultation with private employers or employer organizations would be more effective or efficient, in consultation with private employers or employer organizations, and approved by the Secretary for the purpose of assisting members of households participating in the supplemental nutrition assistance program in gaining skills, training, work, or experience that will—
+
+&emsp;&emsp;&emsp;(I) increase the ability of the household members to obtain regular employment; and
+
+&emsp;&emsp;&emsp;(II) meet State or local workforce needs.
 
 &emsp;&emsp;(ii)
 
-Statewide workforce development system.—Each component of an employment and training program carried outunder this paragraph shall be delivered through a statewide workforce development system, unless the component is not available locally through such a system.
+Statewide workforce development system.—Each component of an employment and training program carried out under this paragraph and implemented to meet the purposes of clause (i) shall be delivered through a statewide workforce development system, unless the component is not available locally through such a system.
 
-&emsp;(B) For purposes of this chapter, an "employment and training program" means a program that contains one or more of the following components, except that the State agency shall retain the option to apply employment requirements prescribed under this subparagraph to a program applicant at the time of application:
+&emsp;(B)
 
-&emsp;&emsp;(i) Job search programs.
+Definitions.—In this chapter:
 
-&emsp;&emsp;(ii) Job search training programs that include, to the extent determined appropriate by the State agency, reasonable job search training and support activities that may consist of jobs skills assessments, job finding clubs, training in techniques for employability, job placement services, or other direct training or support activities, including educational programs, determined by the State agency to expand the job search abilities or employability of those subject to the program.
+&emsp;&emsp;(i)
 
-&emsp;&emsp;(iii) Workfare programs operated under section 2029 of this title.
+Employment and training program.—The term "employment and training program" means a program that contains case management services such as comprehensive intake assessments, individualized service plans, progress monitoring, or coordination with service providers and one or more of the following components, except that the State agency shall retain the option to apply employment requirements prescribed under this clause to a program applicant at the time of application:
 
-&emsp;&emsp;(iv) Programs designed to improve the employability of household members through actual work experience or training, or both, and to enable individuals employed or trained under such programs to move promptly into regular public or private employment. An employment or training experience program established under this clause shall—
+&emsp;&emsp;&emsp;(I) Supervised job search programs that occur at State-approved locations at which the activities of participants shall be directly supervised and the timing and activities of participants tracked in accordance with guidelines issued by the State.
 
-&emsp;&emsp;&emsp;(I) not provide any work that has the effect of replacing the employment of an individual not participating in the employment or training experience program; and
+&emsp;&emsp;&emsp;(II) Job search training programs that include, to the extent determined appropriate by the State agency, reasonable job search training and support activities that may consist of employability assessments, training in techniques to increase employability, job placement services, or other direct training or support activities, including educational programs, determined by the State agency to expand the job search abilities or employability of those subject to the program.
 
-&emsp;&emsp;&emsp;(II) provide the same benefits and working conditions that are provided at the job site to employees performing comparable work for comparable hours.
+&emsp;&emsp;&emsp;(III) Workfare programs operated under section 2029 of this title.
 
-&emsp;&emsp;(v) Educational programs or activities to improve basic skills and literacy, or otherwise improve employability, including educational programs determined by the State agency to expand the job search abilities or employability of those subject to the program under this paragraph.
+&emsp;&emsp;&emsp;(IV) Programs designed to improve the employability of household members through actual work experience or training, or both, and to enable individuals employed or trained under such programs to move promptly into regular public or private employment, including subsidized employment and apprenticeships. An employment or training experience program established under this clause shall—
 
-&emsp;&emsp;(vi) Programs designed to increase the self-sufficiency of recipients through self-employment, including programs that provide instruction for self-employment ventures.
+&emsp;&emsp;&emsp;&emsp;(aa) not provide any work that has the effect of replacing the employment of an individual not participating in the employment or training experience program; and
 
-&emsp;&emsp;(vii) Programs intended to ensure job retention by providing job retention services, if the job retention services are provided for a period of not more than 90 days after an individual who received employment and training services under this paragraph gains employment.
+&emsp;&emsp;&emsp;&emsp;(bb) provide the same benefits and working conditions that are provided at the job site to employees performing comparable work for comparable hours.
 
-&emsp;&emsp;(viii) As approved by the Secretary or the State under regulations issued by the Secretary, other employment, educational and training programs, projects, and experiments, such as a supported work program, aimed at accomplishing the purpose of the employment and training program.
+&emsp;&emsp;&emsp;(V) Educational programs or activities to improve basic skills and literacy, or otherwise improve employability, including educational programs determined by the State agency to expand the job search abilities or employability of those subject to the program under this paragraph.
+
+&emsp;&emsp;&emsp;(VI) Programs designed to increase the self-sufficiency of recipients through self-employment, including programs that provide instruction for self-employment ventures.
+
+&emsp;&emsp;&emsp;(VII) Programs intended to ensure job retention by providing job retention services, if the job retention services are provided for a period of not less than 30 days but not more than 90 days after an individual who received employment and training services under this paragraph gains employment.
+
+&emsp;&emsp;&emsp;(VIII) Programs and activities under clause (iv) of section 2025(h)(1)(F) of this title that the Secretary determines, based on results from the independent evaluations conducted under clause (vii)(I) of such section, have the most demonstrable impact on the ability of participants to find and retain employment that leads to increased household income and reduced reliance on public assistance.
+
+&emsp;&emsp;&emsp;(IX) As approved by the Secretary or the State under regulations issued by the Secretary, other employment, educational and training programs, projects, and experiments, such as a supported work program, aimed at accomplishing the purpose of the employment and training program.
+
+&emsp;&emsp;(ii)
+
+Workforce partnership.—
+
+&emsp;&emsp;&emsp;(I)
+
+In general.—The term "workforce partnership" means a program that—
+
+&emsp;&emsp;&emsp;&emsp;(aa) is operated by—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(AA) a private employer, an organization representing private employers, or a nonprofit organization providing services relating to workforce development; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) an entity identified as an eligible provider of training services under section 122(d) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3152(d));
+
+&emsp;&emsp;&emsp;&emsp;(bb) the Secretary certifies, or the State agency certifies to the Secretary—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(AA) subject to subparagraph (N)(ii), would assist participants who are members of households participating in the supplemental nutrition assistance program in gaining high-quality, work-relevant skills, training, work, or experience that will increase the ability of the participants to obtain regular employment;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) subject to subparagraph (N)(ii), would provide participants with not less than 20 hours per week of training, work, or experience under subitem (AA);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(CC) would not use any funds authorized to be appropriated by this chapter;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(DD) would provide sufficient information, on request by the State agency, for the State agency to determine that participants who are members of households participating in the supplemental nutrition assistance program are fulfilling any applicable work requirement under this subsection or subsection (o);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(EE) would be willing to serve as a reference for participants who are members of households participating in the supplemental nutrition assistance program for future employment or work-related programs; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(FF) meets any other criteria established by the Secretary, on the condition that the Secretary shall not establish any additional criteria that would impose significant paperwork burdens on the workforce partnership; and
+
+&emsp;&emsp;&emsp;&emsp;(cc) is in compliance with the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.), if applicable.
+
+&emsp;&emsp;&emsp;(II)
+
+Inclusion.—The term "workforce partnership" includes a multistate program.
 
 &emsp;(C) The State agency may provide that participation in an employment and training program may supplement or supplant other employment-related requirements imposed on those subject to the program.
 
@@ -260,7 +306,21 @@ Statewide workforce development system.—Each component of an employment and tr
 
 &emsp;(iii) Any exemption of a category or individual under this subparagraph shall be periodically evaluated to determine whether the exemption continues to be valid.
 
-&emsp;(E) Each State agency shall establish requirements for participation by individuals not exempt under subparagraph (D) in one or more employment and training programs under this paragraph, including the extent to which any individual is required to participate. Such requirements may vary among participants.
+&emsp;(E)
+
+Requirements for participation for certain individuals.—
+
+&emsp;&emsp;(i)
+
+In general.—Each State agency shall establish requirements for participation by individuals not exempt under subparagraph (D) in one or more employment and training programs under this paragraph, including the extent to which any individual is required to participate.
+
+&emsp;&emsp;(ii)
+
+Variation.—The requirements under clause (i) may vary among participants.
+
+&emsp;&emsp;(iii)
+
+Application to workforce partnerships.—To the extent that a State agency requires an individual to participate in an employment and training program, the State agency shall consider an individual participating in a workforce partnership to be in compliance with the employment and training requirements.
 
 &emsp;(F)(i) The total hours of work in an employment and training program carried out under this paragraph required of members of a household, together with the hours of work of such members in any program carried out under section 2029 of this title, in any month collectively may not exceed a number of hours equal to the household's allotment for such month divided by the higher of the applicable State minimum wage or Federal minimum hourly rate under the Fair Labor Standards Act of 1938 \[29 U.S.C. 206(a)(1)\].
 
@@ -270,13 +330,13 @@ Statewide workforce development system.—Each component of an employment and tr
 
 &emsp;(G) The State agency may operate any program component under this paragraph in which individuals elect to participate.
 
-&emsp;(H) Federal funds made available to a State agency for purposes of the component authorized under subparagraph (B)(v) shall not be used to supplant non-Federal funds used for existing services and activities that promote the purposes of this component.
+&emsp;(H) Federal funds made available to a State agency for purposes of the component authorized under subparagraph (B)(i)(V) shall not be used to supplant non-Federal funds used for existing services and activities that promote the purposes of this component.
 
 &emsp;(I)(i) The State agency shall provide payments or reimbursements to participants in programs carried out under this paragraph, including individuals participating under subparagraph (G), for—
 
 &emsp;&emsp;(I) the actual costs of transportation and other actual costs (other than dependent care costs), that are reasonably necessary and directly related to participation in the program; and
 
-&emsp;&emsp;(II) the actual costs of such dependent care expenses that are determined by the State agency to be necessary for the participationof an individual in the program (other than an individual who is the caretaker relative of a dependent in a family receiving benefits under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) in a local area where an employment, training, or education program under title IV of such Act \[42 U.S.C. 601 et seq.\] is in operation), except that no such payment or reimbursement shall exceed the applicable local market rate. Individuals subject to the program under this paragraph may not be required to participate if dependent costs exceed the limit established by the State agency under this subclause or other actual costs exceed any limit established under subclause (I).
+&emsp;&emsp;(II) the actual costs of such dependent care expenses that are determined by the State agency to be necessary for the participation of an individual in the program (other than an individual who is the caretaker relative of a dependent in a family receiving benefits under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) in a local area where an employment, training, or education program under title IV of such Act \[42 U.S.C. 601 et seq.\] is in operation), except that no such payment or reimbursement shall exceed the applicable local market rate. Individuals subject to the program under this paragraph may not be required to participate if dependent costs exceed the limit established by the State agency under this subclause or other actual costs exceed any limit established under subclause (I).
 
 &emsp;(ii) In lieu of providing reimbursements or payments for dependent care expenses under clause (i), a State agency may, at its option, arrange for dependent care through providers by the use of purchase of service contracts or vouchers or by providing vouchers to the household.
 
@@ -295,6 +355,78 @@ Limitation on funding.—Notwithstanding any other provision of this paragraph, 
 &emsp;(L) The Secretary shall ensure that State agencies comply with the requirements of this paragraph and section 2020(e)(19) of this title.
 
 &emsp;(M) The facilities of the State public employment offices and other State agencies and providers carrying out activities under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] may be used to find employment and training opportunities for household members under the programs under this paragraph.
+
+&emsp;(N)
+
+Workforce partnerships.—
+
+&emsp;&emsp;(i)
+
+Certification.—In certifying that a program meets the requirements of subitems (AA) and (BB) of subparagraph (B)(ii)(I)(bb) to be certified as a workforce partnership, the Secretary or the State agency shall require that the program submit to the Secretary or State agency sufficient information that describes—
+
+&emsp;&emsp;&emsp;(I) the services and activities of the program that would provide participants with not less than 20 hours per week of training, work, or experience under those subitems; and
+
+&emsp;&emsp;&emsp;(II) how the program would provide services and activities described in subclause (I) that would directly enhance the employability or job readiness of the participant.
+
+&emsp;&emsp;(ii)
+
+Supplement, not supplant.—A State agency may use a workforce partnership to supplement, not to supplant, the employment and training program of the State agency.
+
+&emsp;&emsp;(iii)
+
+Participation.—A State agency—
+
+&emsp;&emsp;&emsp;(I) shall—
+
+&emsp;&emsp;&emsp;&emsp;(aa) maintain a list of workforce partnerships certified under subparagraph (B)(ii)(I)(bb); and
+
+&emsp;&emsp;&emsp;&emsp;(bb) not less frequently than at certification and recertification, provide to a household member subject to work requirements under subsection (d)(1) or subsection (o), electronically or by other means, the list described in item (aa); but
+
+&emsp;&emsp;&emsp;(II) may not require any member of a household participating in the supplemental nutrition assistance program to participate in a workforce partnership.
+
+&emsp;&emsp;(iv)
+
+Effect.—
+
+&emsp;&emsp;&emsp;(I)
+
+In general.—A workforce partnership shall not replace the employment or training of an individual not participating in the workforce partnership.
+
+&emsp;&emsp;&emsp;(II)
+
+Selection.—Nothing in this subsection or subsection (o) affects the criteria or screening process for selecting participants by a workforce partnership.
+
+&emsp;&emsp;(v)
+
+Limitation on reporting requirements.—In carrying out this subparagraph, the Secretary and each applicable State agency shall limit the reporting requirements of a workforce partnership to—
+
+&emsp;&emsp;&emsp;(I) on notification that an individual is receiving supplemental nutrition assistance program benefits, notifying the applicable State agency that the individual is participating in the workforce partnership;
+
+&emsp;&emsp;&emsp;(II) identifying participants who have completed or are no longer participating in the workforce partnership;
+
+&emsp;&emsp;&emsp;(III) identifying changes to the workforce partnership that result in the workforce partnership no longer meeting the certification requirements of the Secretary or the State agency under subparagraph (B)(ii)(I)(bb); and
+
+&emsp;&emsp;&emsp;(IV) providing sufficient information, on request by the State agency, for the State agency to verify that a participant is fulfilling any applicable work requirements under this subsection or subsection (o).
+
+&emsp;(O)
+
+Referral of certain individuals.—
+
+&emsp;&emsp;(i)
+
+In general.—In accordance with such regulations as may be issued by the Secretary, with respect to any individual who is not eligible for an exemption under paragraph (2) and who is determined by the operator of an employment and training program component to be ill-suited to participate in that employment and training program component, the State agency shall—
+
+&emsp;&emsp;&emsp;(I) refer the individual to an appropriate employment and training program component;
+
+&emsp;&emsp;&emsp;(II) refer the individual to an appropriate workforce partnership, if available;
+
+&emsp;&emsp;&emsp;(III) reassess the physical and mental fitness of the individual under paragraph (1)(A); or
+
+&emsp;&emsp;&emsp;(IV) to the maximum extent practicable, coordinate with other Federal, State, or local workforce or assistance programs to identify work opportunities or assistance for the individual.
+
+&emsp;&emsp;(ii)
+
+Process.—In carrying out clause (i), the State agency shall ensure that an individual undergoing and complying with the process established under that clause shall not be found to have refused without good cause to participate in an employment and training program.
 
 #### (e) Students
 
@@ -334,7 +466,7 @@ No individual who is a member of a household otherwise eligible to participate i
 
 #### (f) Aliens
 
-No individual who is a member of a household otherwise eligible to participate in the supplemental nutrition assistance program under this section shall be eligible to participate in the supplemental nutrition assistance program as a member of that or any other household unless he or she is (1) a resident of the United States and (2) either (A) a citizen or (B) an alien lawfully admitted for permanent residence as an immigrant as defined by sections 1101(a)(15) and1101(a)(20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and students who enter the United States temporarily with no intention of abandoning their residence in a foreign country; or (C) an alien who entered the United States prior to June 30, 1948, or such subsequent date as is enacted by law, has continuously maintained his or her residence in the United States since then, and is not ineligible for citizenship, but who is deemed to be lawfully admitted for permanent residence as a result of an exercise of discretion by the Attorney General pursuant to section 1259 of title 8; or (D) an alien who has qualified for conditional entry pursuant to sections 1157 and 1158 of title 8; or (E) an alien who is lawfully present in the United States as a result of an exercise of discretion by the Attorney General for emergent reasons or reasons deemed strictly in the public interest pursuant to section 1182(d)(5) of title 8; or (F) an alien within the United States as to whom the Attorney General has withheld deportation pursuant to section 1231(b)(3) of title 8. No aliens other than the ones specifically described in clauses (B) through (F) of this subsection shall be eligible to participate in the supplemental nutrition assistance program as a member of any household. The income (less, at State option, a pro rata share) and financial resources of the individual rendered ineligible to participate in the supplemental nutrition assistance program under this subsection shall be considered in determining the eligibility and the value of the allotment of the household of which such individual is a member.
+No individual who is a member of a household otherwise eligible to participate in the supplemental nutrition assistance program under this section shall be eligible to participate in the supplemental nutrition assistance program as a member of that or any other household unless he or she is (1) a resident of the United States and (2) either (A) a citizen or (B) an alien lawfully admitted for permanent residence as an immigrant as defined by sections 1101(a)(15) and 1101(a)(20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and students who enter the United States temporarily with no intention of abandoning their residence in a foreign country; or (C) an alien who entered the United States prior to June 30, 1948, or such subsequent date as is enacted by law, has continuously maintained his or her residence in the United States since then, and is not ineligible for citizenship, but who is deemed to be lawfully admitted for permanent residence as a result of an exercise of discretion by the Attorney General pursuant to section 1259 of title 8; or (D) an alien who has qualified for conditional entry pursuant to sections 1157 and 1158 of title 8; or (E) an alien who is lawfully present in the United States as a result of an exercise of discretion by the Attorney General for emergent reasons or reasons deemed strictly in the public interest pursuant to section 1182(d)(5) of title 8; or (F) an alien within the United States as to whom the Attorney General has withheld deportation pursuant to section 1231(b)(3) of title 8. No aliens other than the ones specifically described in clauses (B) through (F) of this subsection shall be eligible to participate in the supplemental nutrition assistance program as a member of any household. The income (less, at State option, a pro rata share) and financial resources of the individual rendered ineligible to participate in the supplemental nutrition assistance program under this subsection shall be considered in determining the eligibility and the value of the allotment of the household of which such individual is a member.
 
 #### (g) Residents of States which provide State supplementary payments
 
@@ -384,7 +516,7 @@ An individual shall be ineligible to participate in the supplemental nutrition a
 
 #### (1) In general
 
-&emsp;At the option of a State agency, subject to paragraphs (2) and (3), no natural or adoptiveparent or other individual (collectively referred to in this subsection as "the individual") who is living with and exercising parental control over a child under the age of 18 who has an absent parent shall be eligible to participate in the supplemental nutrition assistance program unless the individual cooperates with the State agency administering the program established under part D of title IV of the Social Security Act (42 U.S.C. 651 et seq.)—
+&emsp;At the option of a State agency, subject to paragraphs (2) and (3), no natural or adoptive parent or other individual (collectively referred to in this subsection as "the individual") who is living with and exercising parental control over a child under the age of 18 who has an absent parent shall be eligible to participate in the supplemental nutrition assistance program unless the individual cooperates with the State agency administering the program established under part D of title IV of the Social Security Act (42 U.S.C. 651 et seq.)—
 
 &emsp;&emsp;(A) in establishing the paternity of the child (if the child is born out of wedlock); and
 
@@ -452,9 +584,13 @@ An individual shall be ineligible to participate in the supplemental nutrition a
 
 &emsp;&emsp;(A) a program under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\];
 
-&emsp;&emsp;(B) a program under section 2296 of title 19; and
+&emsp;&emsp;(B) a program under section 2296 of title 19;
 
-&emsp;&emsp;(C) a program of employment and training operated or supervised by a State or political subdivision of a State that meets standards approved by the Governor of the State, including a program under subsection (d)(4), other than a job search program or a job search training program.
+&emsp;&emsp;(C) a program of employment and training operated or supervised by a State or political subdivision of a State that meets standards approved by the Governor of the State, including a program under subsection (d)(4), other than a supervised job search program or job search training program;
+
+&emsp;&emsp;(D) a program of employment and training for veterans operated by the Department of Labor or the Department of Veterans Affairs, and approved by the Secretary; and
+
+&emsp;&emsp;(E) a workforce partnership under subsection (d)(4)(N).
 
 #### (2) Work requirement
 
@@ -486,7 +622,7 @@ An individual shall be ineligible to participate in the supplemental nutrition a
 
 #### (A) In general
 
-&emsp;&emsp;On the request of a State agency, the Secretary may waive the applicability of paragraph (2) to any group of individuals in the State if the Secretary makes a determination that the area in which the individuals reside—
+&emsp;&emsp;On the request of a State agency and with the support of the chief executive officer of the State, the Secretary may waive the applicability of paragraph (2) to any group of individuals in the State if the Secretary makes a determination that the area in which the individuals reside—
 
 &emsp;&emsp;&emsp;(i) has an unemployment rate of over 10 percent; or
 
@@ -522,7 +658,7 @@ An individual shall be ineligible to participate in the supplemental nutrition a
 
 &emsp;&emsp;&emsp;An individual shall not receive any benefits pursuant to clause (i) for more than a single 3-month period in any 36-month period.
 
-#### (6) 15-percent exemption
+#### (6) Exemptions
 
 #### (A) Definitions
 
@@ -548,25 +684,29 @@ An individual shall be ineligible to participate in the supplemental nutrition a
 
 #### (B) General rule
 
-&emsp;&emsp;Subject to subparagraphs (C) through (G), a State agency may provide an exemption from the requirements of paragraph (2) for covered individuals.
+&emsp;&emsp;Subject to subparagraphs (C) through (H), a State agency may provide an exemption from the requirements of paragraph (2) for covered individuals.
 
 #### (C) Fiscal year 1998
 
-&emsp;&emsp;Subject to subparagraphs (E) and (G), for fiscal year 1998, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State in fiscal year 1998, as estimated by the Secretary, based on the survey conducted to carry out section 2025(c) of this title for fiscal year 1996 and such other factors as the Secretary considers appropriate due to the timing and limitations of the survey.
+&emsp;&emsp;Subject to subparagraphs (F) and (H), for fiscal year 1998, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State in fiscal year 1998, as estimated by the Secretary, based on the survey conducted to carry out section 2025(c) of this title for fiscal year 1996 and such other factors as the Secretary considers appropriate due to the timing and limitations of the survey.
 
-#### (D) Subsequent fiscal years
+#### (D) Fiscal years 1999 through 2019
 
-&emsp;&emsp;Subject to subparagraphs (E) through (G), for fiscal year 1999 and each subsequent fiscal year, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State's caseload and the Secretary's estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
+&emsp;&emsp;Subject to subparagraphs (F) through (H), for fiscal year 1999 and each subsequent fiscal year through fiscal year 2019, a State agency may provide a number of exemptions such that the average monthly number of the exemptions in effect during the fiscal year does not exceed 15 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State's caseload and the Secretary's estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
 
-#### (E) Caseload adjustments
+#### (E) Subsequent fiscal years
 
-&emsp;&emsp;The Secretary shall adjust the number of individuals estimated for a State under subparagraph (C) or (D) during a fiscal year if the number of members of households that receive supplemental nutrition assistance program benefits in the State varies from the State's caseload by more than 10 percent, as determined by the Secretary.
+&emsp;&emsp;Subject to subparagraphs (F) through (H), for fiscal year 2020 and each subsequent fiscal year, a State agency may provide a number of exemptions such that the average monthly number of exemptions in effect during the fiscal year does not exceed 12 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State's caseload and the Secretary's estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4).
 
-#### (F) Exemption adjustments
+#### (F) Caseload adjustments
+
+&emsp;&emsp;The Secretary shall adjust the number of individuals estimated for a State under subparagraph (C), (D), or (E) during a fiscal year if the number of members of households that receive supplemental nutrition assistance program benefits in the State varies from the State's caseload by more than 10 percent, as determined by the Secretary.
+
+#### (G) Exemption adjustments
 
 &emsp;&emsp;During fiscal year 1999 and each subsequent fiscal year, the Secretary shall increase or decrease the number of individuals who may be granted an exemption by a State agency under this paragraph to the extent that the average monthly number of exemptions in effect in the State for the preceding fiscal year under this paragraph is lesser or greater than the average monthly number of exemptions estimated for the State agency for such preceding fiscal year under this paragraph.
 
-#### (G) Reporting requirement
+#### (H) Reporting requirement
 
 &emsp;&emsp;A State agency shall submit such reports to the Secretary as the Secretary determines are necessary to ensure compliance with this paragraph.
 
@@ -624,13 +764,13 @@ Subject to any requirements established by the Secretary, any person who has bee
 
 &emsp;As determined by the Secretary, each State agency, to the maximum extent practicable, shall establish agreements with entities responsible for the regulation or sponsorship of gaming in the State to determine whether individuals participating in the supplemental nutrition assistance program have received substantial lottery or gambling winnings.
 
-(Pub. L. 88–525, §6, Aug. 31, 1964, 78 Stat. 704; Pub. L. 94–339, §3, July 5, 1976, 90 Stat. 800; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 964; Pub. L. 96–58, §§5, 9, Aug. 14, 1979, 93 Stat. 391, 392; Pub. L. 96–249, title I, §§109, 110, 114, 115, 139, 140, May 26, 1980, 94 Stat. 359, 361, 370; Pub. L. 97–35, title I, §§108(b), (c), 109, 112, Aug. 13, 1981, 95 Stat. 361, 362; Pub. L. 97–98, title XIII, §§1310, 1311, Dec. 22, 1981, 95 Stat. 1284, 1285; Pub. L. 97–253, title I, §§145(e), 154–161, 189(b)(1), 190(a), (b), Sept. 8, 1982, 96 Stat. 774, 777, 778, 787; Pub. L. 98–204, §§5, 6, Dec. 2, 1983, 97 Stat. 1385, 1386; Pub. L. 99–198, title XV, §§1513(b), 1516, 1517(a), Dec. 23, 1985, 99 Stat. 1571–1573; Pub. L. 100–435,title II, §202(b), (c), title IV, §404(a)–(d), Sept. 19, 1988, 102 Stat. 1656, 1665–1667; Pub. L. 101–624, title XVII, §§1723–1726(b)(1), (c), (d), 1727, Nov. 28, 1990, 104 Stat. 3786–3788; Pub. L. 102–237, title IX, §§907, 941(3), Dec. 13, 1991, 105 Stat. 1885, 1892; Pub. L. 103–66, title XIII, §§13922(b), 13942, Aug. 10, 1993, 107 Stat. 675, 677; Pub. L. 103–225, title I, §§101(a), 104(b), Mar. 25, 1994, 108 Stat. 106, 107; Pub. L. 103–296, title I, §108(f)(1), (2), Aug. 15, 1994, 108 Stat. 1486, 1487; Pub. L. 104–193, title I, §109(b), title VIII, §§813–815(a), 816, 817(a), 818, 819(a), (c), 820–824(a), Aug. 22, 1996, 110 Stat. 2169, 2314, 2315, 2318, 2320–2323; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(i), Sept. 30, 1996, 110 Stat. 3009–624; Pub. L. 105–33, title I, §1001, Aug. 5, 1997, 111 Stat. 251; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(2)(B), (f)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 107–171, title IV, §§4109, 4115(b)(2), 4121(c), May 13, 2002, 116 Stat. 309, 315, 324; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, May 22, 2008, 122 Stat. 1092, 1101, 1102, 1106, 1114; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, June 18, 2008, 122 Stat. 1664, 1853, 1862–1864, 1868, 1875; Pub. L. 113–79, title IV, §§4007, 4008(a), 4009(a), 4030(d), Feb. 7, 2014, 128 Stat. 787–789, 814; Pub. L. 113–128, title V, §512(l)(2), July 22, 2014, 128 Stat. 1709.)
+(Pub. L. 88–525, §6, Aug. 31, 1964, 78 Stat. 704; Pub. L. 94–339, §3, July 5, 1976, 90 Stat. 800; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 964; Pub. L. 96–58, §§5, 9, Aug. 14, 1979, 93 Stat. 391, 392; Pub. L. 96–249, title I, §§109, 110, 114, 115, 139, 140, May 26, 1980, 94 Stat. 359, 361, 370; Pub. L. 97–35, title I, §§108(b), (c), 109, 112, Aug. 13, 1981, 95 Stat. 361, 362; Pub. L. 97–98, title XIII, §§1310, 1311, Dec. 22, 1981, 95 Stat. 1284, 1285; Pub. L. 97–253, title I, §§145(e), 154–161, 189(b)(1), 190(a), (b), Sept. 8, 1982, 96 Stat. 774, 777, 778, 787; Pub. L. 98–204, §§5, 6, Dec. 2, 1983, 97 Stat. 1385, 1386; Pub. L. 99–198, title XV, §§1513(b), 1516, 1517(a), Dec. 23, 1985, 99 Stat. 1571–1573; Pub. L. 100–435, title II, §202(b), (c), title IV, §404(a)–(d), Sept. 19, 1988, 102 Stat. 1656, 1665–1667; Pub. L. 101–624, title XVII, §§1723–1726(b)(1), (c), (d), 1727, Nov. 28, 1990, 104 Stat. 3786–3788; Pub. L. 102–237, title IX, §§907, 941(3), Dec. 13, 1991, 105 Stat. 1885, 1892; Pub. L. 103–66, title XIII, §§13922(b), 13942, Aug. 10, 1993, 107 Stat. 675, 677; Pub. L. 103–225, title I, §§101(a), 104(b), Mar. 25, 1994, 108 Stat. 106, 107; Pub. L. 103–296, title I, §108(f)(1), (2), Aug. 15, 1994, 108 Stat. 1486, 1487; Pub. L. 104–193, title I, §109(b), title VIII, §§813–815(a), 816, 817(a), 818, 819(a), (c), 820–824(a), Aug. 22, 1996, 110 Stat. 2169, 2314, 2315, 2318, 2320–2323; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(i), Sept. 30, 1996, 110 Stat. 3009–624; Pub. L. 105–33, title I, §1001, Aug. 5, 1997, 111 Stat. 251; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(2)(B), (f)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 107–171, title IV, §§4109, 4115(b)(2), 4121(c), May 13, 2002, 116 Stat. 309, 315, 324; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, May 22, 2008, 122 Stat. 1092, 1101, 1102, 1106, 1114; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, June 18, 2008, 122 Stat. 1664, 1853, 1862–1864, 1868, 1875; Pub. L. 113–79, title IV, §§4007, 4008(a), 4009(a), 4030(d), Feb. 7, 2014, 128 Stat. 787–789, 814; Pub. L. 113–128,title V, §512(l)(2), July 22, 2014, 128 Stat. 1709; Pub. L. 115–334, title IV, §4005(a), (b), Dec. 20, 2018, 132 Stat. 4627–4631.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (c)(3), (5), (d)(1)(D)(iii)(II), (2), (4)(I)(i)(II), (K), (e)(6), (7), (g), (i)(2), (l)(1), (3), (m), and (n)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Part D of title IV of the Act is classified generally to part D (§651 et seq.) of subchapter IV of chapter 7 of Title 42. Title IV–A of the Act (part A of title IV) is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§601 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(3), (5), (d)(1)(D)(iii)(II), (2), (4)(I)(i)(II), (K), (e)(6), (7), (g), (i)(2), (l)(1), (3), (m), and (n)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Part D of title IV of the Act is classified generally to part D (§651 et seq.) of subchapter IV of chapter 7 of Title 42. Title IV–A of the Act (part A of title IV) is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§601 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Fair Labor Standards Act of 1938, as amended, referred to in subsec. (d)(2), (4)(F)(i), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (d)(2), (4)(B)(ii)(I)(cc), (F)(i), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsecs. (d)(4)(M), (e)(3)(A), and (o)(1)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
@@ -641,6 +781,48 @@ Section 212(a) of Pub. L. 93–66, referred to in subsec. (g), is Pub. L. 93–6
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(4)(A)(i). Pub. L. 115–334, §4005(a)(1)(A), inserted ", in consultation with the State workforce development board, or, if the State demonstrates that consultation with private employers or employer organizations would be more effective or efficient, in consultation with private employers or employer organizations," after "designed by the State agency" and substituted "that will—
+
+&emsp;"(I) increase the ability of the household members to obtain regular employment; and
+
+&emsp;"(II) meet State or local workforce needs."
+
+> for "that will increase their ability to obtain regular employment."
+
+Subsec. (d)(4)(A)(ii). Pub. L. 115–334, §4005(a)(1)(B), inserted "and implemented to meet the purposes of clause (i)" after "carried out under this paragraph".
+
+Subsec. (d)(4)(B). Pub. L. 115–334, §4005(a)(2)(A)–(C), (E)–(I), inserted subpar. (B) heading, substituted "In this chapter:" for "For purposes of this chapter, an" in introductory provisions, inserted "(i)
+
+Employment and training program.—The term" before " 'employment and training program' ", and, in cl. (i) as so designated, inserted "case management services such as comprehensive intake assessments, individualized service plans, progress monitoring, or coordination with service providers and" before "one or more" and substituted "this clause" for "this subparagraph" in introductory provisions, redesignated former cls. (i) to (viii) as subcls. (I) to (VII) and (IX), respectively, substituted "employability assessments, training in techniques to increase employability" for "jobs skills assessments, job finding clubs, training in techniques for employability" in subcl. (II), inserted ", including subsidized employment and apprenticeships" after "public or private employment" in introductory provisions of subcl. (IV), redesignated subcls. (I) and (II) of former cl. (iv) as items (aa) and (bb), respectively, of subcl. (IV), inserted "not less than 30 days but" before "not more than 90 days" in subcl. (VII), and added subcl. (VIII).
+
+Subsec. (d)(4)(B)(i)(I). Pub. L. 115–334, §4005(a)(2)(D), added subcl. (I) and struck out former subcl. (I) which read as follows: "Job search programs."
+
+Subsec. (d)(4)(B)(ii). Pub. L. 115–334, §4005(a)(2)(J), added cl. (ii). Former cl. (ii) redesignated cl. (i)(II) of subsec. (d)(4)(B).
+
+Subsec. (d)(4)(E). Pub. L. 115–334, §4005(a)(3), inserted subpar. heading, designated first and second sentences as cls. (i) and (ii), respectively, and inserted cl. headings, substituted "The requirements under clause (i)" for "Such requirements" in cl. (ii), and added cl. (iii).
+
+Subsec. (d)(4)(H). Pub. L. 115–334, §4005(a)(4), substituted "subparagraph (B)(i)(V)" for "subparagraph (B)(v)".
+
+Subsec. (d)(4)(N), (O). Pub. L. 115–334, §4005(a)(5), added subpars. (N) and (O).
+
+Subsec. (o)(1)(C) to (E). Pub. L. 115–334, §4005(b)(1), in subpar. (C), substituted "supervised job search program or job search training program" for "job search program or a job search training program", and added subpars. (D) and (E).
+
+Subsec. (o)(4)(A). Pub. L. 115–334, §4005(b)(2), inserted "and with the support of the chief executive officer of the State" after "request of a State agency".
+
+Subsec. (o)(6). Pub. L. 115–334, §4005(b)(3)(A), substituted "Exemptions" for "15-percent exemption" in heading.
+
+Subsec. (o)(6)(B). Pub. L. 115–334, §4005(b)(3)(B), substituted "subparagraphs (C) through (H)" for "subparagraphs (C) through (G)".
+
+Subsec. (o)(6)(C). Pub. L. 115–334, §4005(b)(3)(C), substituted "subparagraphs (F) and (H)" for "subparagraphs (E) and (G)".
+
+Subsec. (o)(6)(D). Pub. L. 115–334, §4005(b)(3)(D), in heading, substituted "Fiscal years 1999 through 2019" for "Subsequent fiscal years", and in text, substituted "subparagraphs (F) through (H)" for "subparagraphs (E) through (G)" and "each subsequent fiscal year through fiscal year 2019" for "each subsequent fiscal year".
+
+Subsec. (o)(6)(E). Pub. L. 115–334, §4005(b)(3)(G), added subpar. (E). Former subpar. (E) redesignated (F).
+
+Pub. L. 115–334, §4005(b)(3)(E), substituted "subparagraph (C), (D), or (E)" for "subparagraph (C) or (D)".
+
+Subsec. (o)(6)(F) to (H). Pub. L. 115–334, §4005(b)(3)(F), redesignated subpars. (E) to (G) as (F) to (H), respectively.
 
 <b>2014</b>—Subsec. (d)(4)(B)(vii), (F)(iii). Pub. L. 113–79, §4030(d), realigned margins.
 
@@ -696,7 +878,7 @@ Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance pro
 
 Subsec. (o)(5)(A). Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program" in introductory provisions.
 
-Subsec. (o)(6)(A)(i), (ii). Pub. L. 110–246, §4002(a)(3)(C)(ii)(I), in cl. (i), substituted "supplemental nutrition assistance program benefits" for "foodstamps" and, in cl. (ii), substituted "a member of a household that receives supplemental nutrition assistance program benefits" for "a food stamp recipient" in introductory provisions and "supplemental nutrition assistance program benefits" for "food stamp benefits" wherever appearing.
+Subsec. (o)(6)(A)(i), (ii). Pub. L. 110–246, §4002(a)(3)(C)(ii)(I), in cl. (i), substituted "supplemental nutrition assistance program benefits" for "food stamps" and, in cl. (ii), substituted "a member of a household that receives supplemental nutrition assistance program benefits" for "a food stamp recipient" in introductory provisions and "supplemental nutrition assistance program benefits" for "food stamp benefits" wherever appearing.
 
 Subsec. (o)(6)(D), (E). Pub. L. 110–246, §4002(a)(3)(C)(ii)(II), substituted "members of households that receive supplemental nutrition assistance program benefits" for "food stamp recipients".
 
@@ -744,7 +926,7 @@ Subsec. (d)(4). Pub. L. 104–193, §817(a)(1), inserted par. heading.
 
 Subsec. (d)(4)(A). Pub. L. 104–193, §817(a)(1), (2), inserted subpar. heading, designated existing provisions as cl. (i), inserted heading, substituted "Each State" for "Not later than April 1, 1987, each State", inserted "work," after "skills, training,", and added cl. (ii).
 
-Subsec. (d)(4)(B). Pub. L. 104–193, §817(a)(3), in introductory provisions, inserted before colon ", except that the State agency shall retain the option to apply employment requirements prescribed under this subparagraph to a program applicant at the time of application", in cl. (i), struck out "with terms and conditions comparable to those prescribed in subparagraphs (A) and (B) of section 402(a)(35) of part A of title IV of the Social Security Act, except that the State agency shall retain the option to apply employment requirements prescribed under this clause to program applicants at the time of application" after "search programs", and in cl. (iv), redesignated subcls. (III) and (IV) as (I) and (II), respectively, and struck out former subcls. (I) and (II) which read as follows:
+Subsec. (d)(4)(B). Pub. L. 104–193, §817(a)(3), in introductory provisions, inserted before colon ", except that the State agency shall retain the option to apply employment requirements prescribed under this subparagraph to a program applicant at the time of application", in cl. (i), struck out "with terms and conditions comparable to those prescribed in subparagraphs (A) and (B) of section 402(a)(35) of part A of title IV of the Social Security Act, except that the State agency shall retain the option to apply employment requirementsprescribed under this clause to program applicants at the time of application" after "search programs", and in cl. (iv), redesignated subcls. (III) and (IV) as (I) and (II), respectively, and struck out former subcls. (I) and (II) which read as follows:
 
 "(I) limit employment experience assignments to projects that serve a useful public purpose in fields such as health, social services, environmental protection, urban and rural development and redevelopment, welfare, recreation, public facilities, public safety, and day care;
 
@@ -754,7 +936,7 @@ Subsec. (d)(4)(D). Pub. L. 104–193, §817(a)(4), in cl. (i), struck out "to wh
 
 Subsec. (d)(4)(E). Pub. L. 104–193, §817(a)(5), struck out at end "Through September 30, 1995, two States may, on application to and after approval by the Secretary, give priority in the provision of services to voluntary participants (including both exempt and non-exempt participants), except that this sentence shall not excuse a State from compliance with the performance standards issued under subparagraphs (K) and (L), and the Secretary may, at the Secretary's discretion, approve additional States' requests to give such priority if the Secretary reports to Congress on the number and characteristics of voluntary participants given priority under this sentence and such other information as the Secretary determines to be appropriate."
 
-Subsec. (d)(4)(G). Pub. L. 104–193, §817(a)(6), struck out "(i)" after "(G)" and struck out cl. (ii) which read as follows: "The State agency shall permit, to the extent it determines practicable, individuals not subject to requirements imposed under subparagraph (E) or who have complied, or are in the process of complying,with such requirements to participate in any program under this paragraph."
+Subsec. (d)(4)(G). Pub. L. 104–193, §817(a)(6), struck out "(i)" after "(G)" and struck out cl. (ii) which read as follows: "The State agency shall permit, to the extent it determines practicable, individuals not subject to requirements imposed under subparagraph (E) or who have complied, or are in the process of complying, with such requirements to participate in any program under this paragraph."
 
 Subsec. (d)(4)(H). Pub. L. 104–193, §817(a)(7), struck out "(ii)" before "Federal funds" and struck out cl. (i) which read as follows: "The Secretary shall issue regulations under which each State agency shall establish a conciliation procedure for the resolution of disputes involving the participation of an individual in the program."
 
@@ -856,7 +1038,7 @@ Subsec. (d)(4)(L). Pub. L. 100–435, §404(b)(1), (d), added subpar. (L) and re
 
 Subsec. (d)(4)(M), (N). Pub. L. 100–435, §404(b)(1), redesignated former subpars. (K) and (L) as (M) and (N), respectively.
 
-<b>1985</b>—Subsec. (c)(1). Pub. L. 99–198, §1513(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: "State agencies shall require certain categories of households, including all households with earned income, except migrant farmworker households, all households with potential earners, including individuals receiving unemployment compensation benefits and individuals required by subsection (d) of this section to register for work, and all households required to file a similar report under title IV–A of the Social Security Act, but not including households that have no earned income and in which all adult members are elderly or disabled members, to file periodic reports of household circumstances in accordance with standards prescribed by the Secretary, except that a State agency may, with the prior approval of the Secretary, select categories of households which may report at specified less frequent intervals upon a showing by the State agency, which is satisfactory to the Secretary, that to require households in such categories to report monthly would result in unwarranted expenditures for administration of this subsection."
+<b>1985</b>—Subsec. (c)(1). Pub. L. 99–198, §1513(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: "State agencies shall requirecertain categories of households, including all households with earned income, except migrant farmworker households, all households with potential earners, including individuals receiving unemployment compensation benefits and individuals required by subsection (d) of this section to register for work, and all households required to file a similar report under title IV–A of the Social Security Act, but not including households that have no earned income and in which all adult members are elderly or disabled members, to file periodic reports of household circumstances in accordance with standards prescribed by the Secretary, except that a State agency may, with the prior approval of the Secretary, select categories of households which may report at specified less frequent intervals upon a showing by the State agency, which is satisfactory to the Secretary, that to require households in such categories to report monthly would result in unwarranted expenditures for administration of this subsection."
 
 Pub. L. 99–198, §1513(b)(2), inserted after second sentence, provision empowering State agencies to require households, other than households with respect to which household income is required by section 2014(f)(2)(A) of this title to be calculated on a prospective basis, to file periodic reports of household circumstances in accordance with the standards prescribed by the Secretary under the preceding provisions of this paragraph.
 
@@ -864,7 +1046,7 @@ Subsec. (d)(1). Pub. L. 99–198, §1516(2), inserted sentences at end of par. (
 
 Subsec. (d)(1)(A). Pub. L. 99–198, §1516(1)(A), (B), designated existing provisions of first sentence of par. (1) as cl. (A) and in provisions of cl. (A) as so designated substituted "no person shall be eligible to participate in the food stamp program who is a physically and mentally fit person between the ages of sixteen and sixty" for "no household shall be eligible for assistance under this chapter if it includes a physically and mentally fit person between the ages of eighteen and sixty" in provisions preceding subcl. (i).
 
-Subsec. (d)(1)(A)(ii). Pub. L. 99–198, §1517(a)(1), substituted "refuses without good cause to participate in an employment and training program under paragraph (4), to the extent required under paragraph (4), including any reasonable employment requirements as are prescribed by the State agency in accordance with paragraph (4), and the period of ineligibility shall be two months" for "refuses to fulfill whatever reasonablereporting and inquiry about employment requirements as are prescribed by the Secretary, which may include a requirement that, at the option of the State agency, such reporting and inquiry commence at the time of application".
+Subsec. (d)(1)(A)(ii). Pub. L. 99–198, §1517(a)(1), substituted "refuses without good cause to participate in an employment and training program under paragraph (4), to the extent required under paragraph (4), including any reasonable employment requirements as are prescribed by the State agency in accordance with paragraph (4), and the period of ineligibility shall be two months" for "refuses to fulfill whatever reasonable reporting and inquiry about employment requirements as are prescribed by the Secretary, which may include a requirement that, at the option of the State agency, such reporting and inquiry commence at the time of application".
 
 Subsec. (d)(1)(A)(iii), (iv). Pub. L. 99–198, §1516(1)(C), redesignated cl. (iv) as (iii). Former cl. (iii), relating to a head of household who voluntarily quits any job without good cause, with a proviso that the period of ineligibility would be ninety days, was struck out.
 
@@ -956,7 +1138,7 @@ Amendment by sections 4109, 4115(b)(2) of Pub. L. 107–171 effective Oct. 1, 20
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(d)(2)(B)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(2)(B)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(2)(B)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendmentby section 101(f) \[title VIII, §405(f)(2)(B)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1997 Amendment
 
@@ -1030,7 +1212,7 @@ Pub. L. 104–193, title VIII, §824(b), Aug. 22, 1996, 110 Stat. 2324, provided
 
 #### Exemption From Monthly Reporting Systems for Households Residing on Indian Reservations
 
-Pub. L. 102–237, title IX, §908(a)(2), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, §1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, §1, Dec. 17, 1993, 107 Stat. 2418, provided that no State agency be required to exempt households residing on Indian reservations from food stamp program monthly reporting systems until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring exemption of households residing on Indian reservations from food stamp program monthly reporting systems no later than Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, §104(a), Mar. 25, 1994, 108 Stat. 107.
+Pub. L. 102–237, title IX, §908(a)(2), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, §1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, §1, Dec. 17, 1993, 107 Stat. 2418, provided that no State agency be required to exempt households residing on Indian reservations from food stamp program monthly reporting systems untilMar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring exemption of households residing on Indian reservations from food stamp program monthly reporting systems no later than Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, §104(a), Mar. 25, 1994, 108 Stat. 107.
 
 #### Mandatory Monthly Reporting-Retrospective Budgeting for Food Stamp Program; Prohibition
 

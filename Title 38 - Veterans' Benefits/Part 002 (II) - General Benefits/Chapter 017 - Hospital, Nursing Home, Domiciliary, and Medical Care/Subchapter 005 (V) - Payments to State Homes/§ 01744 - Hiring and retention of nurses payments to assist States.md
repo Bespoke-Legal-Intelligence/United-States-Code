@@ -32,7 +32,7 @@ Source of Funds.—Payments under this section shall be made from funds availabl
 
 (g)
 
-Disbursement.—Payments under this section to a State home shall be made as part of the disbursement of payments under section 1741 of this title with respect to that State home.
+Disbursement.—Payments under this section to a State home shall be made as part ofthe disbursement of payments under section 1741 of this title with respect to that State home.
 
 (h)
 

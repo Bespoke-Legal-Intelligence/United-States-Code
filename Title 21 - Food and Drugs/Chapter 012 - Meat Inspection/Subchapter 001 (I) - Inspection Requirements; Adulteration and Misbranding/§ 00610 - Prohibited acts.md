@@ -38,7 +38,7 @@ Section was formerly classified to section 78 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–445 effective one year after Oct. 10, 1978, and an additional eighteen month period thereafter in hardship cases, see section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under section 603 of this title.
+Amendment by Pub. L. 95–445 effective one year after Oct. 10, 1978, and an additional eighteen month periodthereafter in hardship cases, see section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under section 603 of this title.
 
 #### Effective Date of 1967 Amendment
 

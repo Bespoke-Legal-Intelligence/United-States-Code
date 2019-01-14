@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The amount of a payment made under this section to a producer on a farm described in subsection (a)(1) shall be equal to the amount determined by multiplying—
+&emsp;The amount of a payment made under this section to a producer on a farm described insubsection (a)(1) shall be equal to the amount determined by multiplying—
 
 &emsp;&emsp;(A) the loan deficiency payment rate determined under section 8735(c) of this title in effect, as of the date of the agreement, for the county in which the farm is located; by
 
@@ -50,7 +50,7 @@
 
 #### (B) Certain commodities
 
-&emsp;&emsp;In the case of wheat, barley, and oats, the availability period shall be consistent withthe availability period for the commodity established by the Secretary for marketing assistance loans authorized by this subchapter.
+&emsp;&emsp;In the case of wheat, barley, and oats, the availability period shall be consistent with the availability period for the commodity established by the Secretary for marketing assistance loans authorized by this subchapter.
 
 #### (d) Prohibition on crop insurance indemnity or noninsured crop assistance
 

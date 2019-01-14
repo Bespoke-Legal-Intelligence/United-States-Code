@@ -8,7 +8,7 @@ Availability.—An amount of the funds appropriated to the Department of Defense
 
 Use.—The Secretary of Defense shall provide that the amount that remains available for obligation under subsection (a) and the funds made available under section 2916(b)(2) of this title shall be used as follows:
 
-&emsp;(1) One-half of the amount shall be used for the implementation of additional energy resilience, mission assurance, weather damage repair and prevention, energy conservation, and energy security measures at buildings, facilities, or installations of the Department of Defense or related to vehicles and equipment of the Department, which are designated, in accordance with regulations prescribed by the Secretary of Defense, by the head of the department, agency, or instrumentality that realized the savings referred to in subsection (a).
+&emsp;(1) One-half of the amount shall be used for the implementation of additional energy resilience, mission assurance, weather damage repair and prevention, energy conservation, and energy security measures, including energy resilience and energy conservation construction projects, at buildings, facilities, or installations of the Department of Defense or related to vehicles and equipment of the Department, which are designated, in accordance with regulations prescribed by the Secretary of Defense, by the head of the department, agency, or instrumentality that realized the savings referred to in subsection (a).
 
 &emsp;(2) One-half of the amount shall be used at the installation at which the savings were realized, as determined by the commanding officer of such installation consistent with applicable law and regulations, for—
 
@@ -22,9 +22,11 @@ Use.—The Secretary of Defense shall provide that the amount that remains avail
 
 Treatment of Certain Financial Incentives.—Financial incentives received from gas or electric utilities under section 2913 of this title shall be credited to an appropriation designated by the Secretary of Defense. Amounts so credited shall be merged with the appropriation to which credited and shall be available for the same purposes and the same period as the appropriation with which merged.
 
-(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2491; amended Pub. L. 112–239, div. B, title XXVIII, §2822, Jan. 2, 2013, 126 Stat. 2152; Pub. L. 115–91, div. A, title X, §1051(a)(26), div. B, title XXVIII, §2832, Dec. 12, 2017, 131 Stat. 1562, 1858.)
+(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2491; amended Pub. L. 112–239, div. B, title XXVIII, §2822, Jan. 2, 2013, 126 Stat. 2152; Pub. L. 115–91, div. A, title X, §1051(a)(26), div. B, title XXVIII, §2832, Dec. 12, 2017, 131 Stat. 1562, 1858; Pub. L. 115–232, div. A, title III, §312(h), Aug. 13, 2018, 132 Stat. 1711.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–232 inserted ", including energy resilience and energy conservation construction projects," after "energy security measures".
 
 <b>2017</b>—Subsec. (b)(1). Pub. L. 115–91, §2832, substituted "energy resilience, mission assurance, weather damage repair and prevention, energy conservation, and" for "energy conservation and".
 

@@ -20,7 +20,7 @@ The provisions of section 1278(a) of this title,<sup>3</sup> shall apply to the 
 
 #### (1) Existing public roads
 
-&emsp;The Secretary may enter into a cooperative agreement with the State of West Virginia under which the Secretary shall be authorized to maintain and improve existing public roads and public rights-of-way within the boundaries of the national recreation area to the extent necessary to facilitate and improve reasonable access to the recreation area at existing access points where such actions would not unreasonably diminish the scenic and natural values of the area.
+&emsp;The Secretary may enter into a cooperative agreement with the State of West Virginiaunder which the Secretary shall be authorized to maintain and improve existing public roads and public rights-of-way within the boundaries of the national recreation area to the extent necessary to facilitate and improve reasonable access to the recreation area at existing access points where such actions would not unreasonably diminish the scenic and natural values of the area.
 
 #### (2) Facilities adjacent to dam
 
@@ -36,7 +36,7 @@ The provisions of section 1278(a) of this title,<sup>3</sup> shall apply to the 
 
 &emsp;(B) If necessary, in the discretion of the Secretary, in order to minimize environmental impacts, including visual impacts, within portions of the recreation area immediately adjacent to the river, the Secretary may, by contract or otherwise, provide transportation services for noncommercial visitors, at reasonable cost, between such parking facilities and the river.
 
-&emsp;(C) Nothing in subparagraph (A) shall affect the rights of any person to continue to utilize,pursuant to a lease in effect on April 1, 1993, any right of way acquired pursuant to such lease which authorizes such person to use an existing road referred to in subparagraph (A). Except as provided under paragraph (2) relating to access immediately downstream of the Summersville project, until there is compliance with this paragraph the Secretary is prohibited from acquiring or developing any other river access points within the recreation area.
+&emsp;(C) Nothing in subparagraph (A) shall affect the rights of any person to continue to utilize, pursuant to a lease in effect on April 1, 1993, any right of way acquired pursuant to such lease which authorizes such person to use an existing road referred to in subparagraph (A). Except as provided under paragraph (2) relating to access immediately downstream of the Summersville project, until there is compliance with this paragraph the Secretary is prohibited from acquiring or developing any other river access points within the recreation area.
 
 #### (f) Properties and facilities of Federal agencies
 

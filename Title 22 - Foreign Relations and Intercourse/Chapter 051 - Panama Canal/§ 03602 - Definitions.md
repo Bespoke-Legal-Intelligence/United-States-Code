@@ -62,7 +62,7 @@ Subsec. (b)(4) to (7). Pub. L. 104–201, §3522(1), inserted "and" at end of pa
 
 "(7) in chapter 57 of title 5 of the Canal Zone Code, in section 4784 of title 6 of such Code, and in section 2 of title 7 of such Code, 'health director' shall be deemed to refer to the senior official in charge of the hospitals operated by the United States in the Republic of Panama."
 
-Subsec. (d). Pub. L. 104–201, §3522(2), struck out subsec. (d) which read as follows: "The President shall, within two years after October 1, 1979, submit to the Congress a request for legislation which would—
+Subsec. (d). Pub. L. 104–201, §3522(2), struck out subsec. (d) which read as follows: "The President shall,within two years after October 1, 1979, submit to the Congress a request for legislation which would—
 
 &emsp;"(1) amend or repeal provisions of law which in their present form are applicable only during the transition period prescribed in Article XI of that Treaty,
 

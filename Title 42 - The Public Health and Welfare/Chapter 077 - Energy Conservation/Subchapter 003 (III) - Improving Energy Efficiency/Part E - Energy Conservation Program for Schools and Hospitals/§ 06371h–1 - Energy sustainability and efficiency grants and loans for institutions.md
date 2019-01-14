@@ -128,7 +128,7 @@ In this section:
 
 #### (B) Requirement
 
-&emsp;&emsp;To the extent that applications have been submitted, grants under subparagraph (A)shall include not less than 2 grants each year to institutions of higher education in each State.
+&emsp;&emsp;To the extent that applications have been submitted, grants under subparagraph (A) shall include not less than 2 grants each year to institutions of higher education in each State.
 
 #### (C) Minimum funding
 
@@ -228,7 +228,7 @@ In this section:
 
 #### (C) Default
 
-&emsp;&emsp;No loan made under this subsection may be subordinated to another debt contracted by the institutional entity or to any other claims against the institutional entity in the case of default.
+&emsp;&emsp;No loan made under this subsection may be subordinated to another debt contractedby the institutional entity or to any other claims against the institutional entity in the case of default.
 
 #### (D) Benchmark interest rate
 

@@ -30,7 +30,7 @@
 
 (b)(1) Whenever the Secretary determines, on the basis of sound medical and scientific evidence, that a positive association exists between (A) the exposure of humans to an herbicide agent, and (B) the occurrence of a disease in humans, the Secretary shall prescribe regulations providing that a presumption of service connection is warranted for that disease for the purposes of this section.
 
-(2) In making determinations for the purpose of this subsection, the Secretary shall take intoaccount (A) reports received by the Secretary from the National Academy of Sciences under section 3 of the Agent Orange Act of 1991, and (B) all other sound medical and scientific information and analyses available to the Secretary. In evaluating any study for the purpose of making such determinations, the Secretary shall take into consideration whether the results are statistically significant, are capable of replication, and withstand peer review.
+(2) In making determinations for the purpose of this subsection, the Secretary shall take into account (A) reports received by the Secretary from the National Academy of Sciences under section 3 of the Agent Orange Act of 1991, and (B) all other sound medical and scientific information and analyses available to the Secretary. In evaluating any study for the purpose of making such determinations, the Secretary shall take into consideration whether the results are statistically significant, are capable of replication, and withstand peer review.
 
 (3) An association between the occurrence of a disease in humans and exposure to an herbicide agent shall be considered to be positive for the purposes of this section if the credible evidence for the association is equal to or outweighs the credible evidence against the association.
 
@@ -228,7 +228,7 @@ Membership.—
 
 &emsp;"(1)
 
-Composition.—The Secretary, in consultation with the National Academy of Medicine, the Director of the National Institute of Environmental Health Sciences, and such other heads of Federal agencies as the Secretary determines appropriate—
+Composition.—The Secretary, in consultation with the National Academy of Medicine, the Directorof the National Institute of Environmental Health Sciences, and such other heads of Federal agencies as the Secretary determines appropriate—
 
 &emsp;&emsp;"(A) shall select not more than 13 voting members of the Advisory Board, of whom—
 
@@ -342,7 +342,7 @@ Availability of Records.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense, the Secretary of Veterans Affairs, and the head of each Federal agency identified under section 632(b)(3)(E) shall make available to the research entity or entities records held by the Department of Veterans Affairs, the Department of Defense, the Armed Forces,that Federal agency, or any other source under the jurisdiction of any such Federal agency or the Armed Forces, as appropriate, that the research entity or entities determine are necessary to carry out this section.
+In general.—The Secretary of Defense, the Secretary of Veterans Affairs, and the head of each Federal agency identified under section 632(b)(3)(E) shall make available to the research entity or entities records held by the Department of Veterans Affairs, the Department of Defense, the Armed Forces, that Federal agency, or any other source under the jurisdiction of any such Federal agency or the Armed Forces, as appropriate, that the research entity or entities determine are necessary to carry out this section.
 
 &emsp;"(2)
 
@@ -390,7 +390,7 @@ Pub. L. 107–103, title II, §201(a)(2)–(4), Dec. 27, 2001, 115 Stat. 987, pr
 
 #### Agreement With National Academy of Sciences
 
-Pub. L. 102–4, §3, Feb. 6, 1991, 105 Stat. 13, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, §201(d)(2), Dec. 27, 2001, 115 Stat. 988; Pub. L. 113–175, title IV, §407, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, §408, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §411, Sept. 29, 2016, 130 Stat. 941; Pub. L. 115–62, title IV, §410, Sept. 29, 2017, 131 Stat. 1165, provided that:
+Pub. L. 102–4, §3, Feb. 6, 1991, 105 Stat. 13, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, §201(d)(2), Dec. 27, 2001, 115 Stat. 988; Pub. L. 113–175, title IV, §407, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, §408, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §411, Sept. 29, 2016, 130 Stat. 941; Pub. L. 115–62, title IV, §410, Sept. 29, 2017, 131 Stat. 1165; Pub. L. 115–251, title I, §127, Sept. 29, 2018, 132 Stat. 3170, provided that:
 
 "(a)
 
@@ -432,7 +432,7 @@ Subsequent Reviews.—An agreement under subsection (b) shall require the Nation
 
 Reports.—(1) The agreement between the Secretary and the National Academy of Sciences shall require the Academy to transmit to the Secretary and the Committees on Veterans' Affairs of the Senate and House of Representatives periodic written reports regarding the Academy's activities under the agreement. Such reports shall be submitted at least once every two years (as measured from the date of the first report).
 
-"(2) The first report under this subsection shall be transmitted not later than the end of the 18-month period beginning on the date of the enactment of this Act \[Feb. 6, 1991\]. That report shall include (A) the determinations and discussion referred to in subsection (d), (B) any recommendations of the Academy under subsection (e), and (C) the recommendation of the Academy as to whether the provisions of each of sections 6 through 9 \[set out below\] should be implemented by the Secretary. In making its recommendation with respect to each such section, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from implementing that section, and the cost and feasibility of implementing that section. If the Academy recommends that the provisions of section 6 should be implemented, the Academy shall also recommend the means by which clinical data referred to in that section could be maintained in the most scientifically useful way.
+"(2) The first report under this subsection shall be transmitted not later than the end of the 18-month period beginning on the date of the enactment of this Act \[Feb. 6, 1991\]. That report shall include (A) the determinations and discussion referred to in subsection (d),\(B) any recommendations of the Academy under subsection (e), and (C) the recommendation of the Academy as to whether the provisions of each of sections 6 through 9 \[set out below\] should be implemented by the Secretary. In making its recommendation with respect to each such section, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from implementing that section, and the cost and feasibility of implementing that section. If the Academy recommends that the provisions of section 6 should be implemented, the Academy shall also recommend the means by which clinical data referred to in that section could be maintained in the most scientifically useful way.
 
 "(h)
 
@@ -440,7 +440,7 @@ Limitation on Authority.—The authority to enter into agreements under this sec
 
 "(i)
 
-Sunset.—This section shall cease to be effective on September 30, 2018.
+Sunset.—This section shall cease to be effective on September 30, 2020.
 
 "(j)
 
@@ -610,7 +610,7 @@ Blood Testing.—Subject to subsections (d) and (e), in the case of a veteran de
 
 "(b)
 
-Notification of Test Results.—Upon completion of such test, the Secretary shall notify the veteran of the test results and provide the veteran a complete explanation as to what, if anything, the results of the test indicate regarding the likelihood of the veteran's exposure to TCDD while serving in the Republic of Vietnam.
+Notification of Test Results.—Upon completion of such test, the Secretary shall notify the veteran of the test results and provide the veteran a completeexplanation as to what, if anything, the results of the test indicate regarding the likelihood of the veteran's exposure to TCDD while serving in the Republic of Vietnam.
 
 "(c)
 
@@ -694,7 +694,7 @@ OTA Monitoring of Compliance.—(1) In order to ensure compliance with the proto
 
 "(e)
 
-Duration of Study.—The study conducted pursuant to subsection (a) shall be continued for as long after the date on which the first report is submittedunder subsection (f)(1) as the Administrator determines that there is a reasonable possibility of developing, through such study, significant new information on the health effects described in subsection (a)(1).
+Duration of Study.—The study conducted pursuant to subsection (a) shall be continued for as long after the date on which the first report is submitted under subsection (f)(1) as the Administrator determines that there is a reasonable possibility of developing, through such study, significant new information on the health effects described in subsection (a)(1).
 
 "(f)
 

@@ -40,7 +40,7 @@ Hazards.—In carrying out paragraph (1), a State may, at its discretion—
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1401(1), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, realigned margins, substituted "motorists, bicyclists, and pedestrians" for "motorists and pedestrians", and added par. (2).
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1401(1), inserted subsec. heading, designated existing provisions as par.\(1) and inserted par. heading, realigned margins, substituted "motorists, bicyclists, and pedestrians" for "motorists and pedestrians", and added par. (2).
 
 Subsec. (b). Pub. L. 105–178, §1401(2), substituted "safety improvement project, including a project described in subsection (a)" for "highway safety improvement project".
 
@@ -72,7 +72,7 @@ Subsec. (b). Pub. L. 95–599 substituted provisions relating to approval of hig
 
 Subsec. (c). Pub. L. 95–599 reenacted subsec. (c) without substantive change.
 
-Subsec. (d). Pub. L. 95–599 substituted provisions prescribing the Federal share payable on account of anyproject under this section for provisions relating to apportionment of funds made available under subsec. (b) to the States. See subsec. (e) of this section.
+Subsec. (d). Pub. L. 95–599 substituted provisions prescribing the Federal share payable on account of any project under this section for provisions relating to apportionment of funds made available under subsec. (b) to the States. See subsec. (e) of this section.
 
 Subsec. (e). Pub. L. 95–599 substituted provisions relating to apportionment of funds to the States under this section for provisions relating to progress reports required of the States under this section. See subsec. (g).
 

@@ -18,7 +18,7 @@
 
 #### (2) Attribution
 
-&emsp;With respect to a farm containing generic base acres, for the purpose of applying paragraphs (1)(B) and (2)(B) of subsection (a), generic base acres on the farm are attributed to a covered commodity in the following manner:
+&emsp;With respect to a farm containing generic base acres, for the purpose of applying paragraphs (1) and (2) of subsection (a), generic base acres on the farm are attributed to a covered commodity in the following manner:
 
 &emsp;&emsp;(A) If a single covered commodity is planted and the total acreage planted exceeds the generic base acres on the farm, the generic base acres are attributed to that covered commodity in an amount equal to the total number of generic base acres.
 
@@ -34,6 +34,36 @@
 
 &emsp;When generic base acres are planted to a covered commodity or acreage planted to a covered commodity is attributed to generic base acres, the generic base acres are in addition to other base acres on the farm.
 
+#### (4) Seed cotton
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 90 days after February 9, 2018, the Secretary shall require the owner of a farm to allocate all generic base acres on the farm under subparagraph (B) or (C), or both.
+
+#### (B) No recent history of covered commodities
+
+&emsp;&emsp;In the case of a farm on which no covered commodities (including seed cotton) were planted or were prevented from being planted at any time during the 2009 through 2016 crop years, the owner of such farm shall allocate generic base acres on the farm to unassigned crop base for which no payments may be made under section 9016 or 9017 of this title.
+
+#### (C) Recent history of covered commodities
+
+&emsp;&emsp;In the case of a farm not described in subparagraph (B), the owner of such farm shall allocate generic base acres on the farm—
+
+&emsp;&emsp;&emsp;(i) subject to subparagraph (D), to seed cotton base acres in a quantity equal to the greater of—
+
+&emsp;&emsp;&emsp;&emsp;(I) 80 percent of the generic base acres on the farm; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the average number of seed cotton acres planted or prevented from being planted on the farm during the 2009 through 2012 crop years (not to exceed the total generic base acres on the farm); or
+
+&emsp;&emsp;&emsp;(ii) to base acres for covered commodities (including seed cotton), by applying subparagraphs (B), (D), (E), and (F) of section 9012(a)(3) of this title.
+
+#### (D) Treatment of residual generic base acres
+
+&emsp;&emsp;In the case of a farm on which generic base acres are allocated under subparagraph (C)(i), the residual generic base acres shall be allocated to unassigned crop base for which no payments may be made under section 9016 or 9017 of this title.
+
+#### (E) Effect of failure to allocate
+
+&emsp;&emsp;In the case of a farm not described in subparagraph (B) for which the owner of the farm fails to make an election under subparagraph (C), the owner of the farm shall be deemed to have elected to allocate all generic base acres in accordance with subparagraph (C)(i).
+
 #### (c) Exclusion
 
 The quantity of payment acres determined under subsection (a) may not include any crop subsequently planted during the same crop year on the same land for which the first crop is eligible for price loss coverage payments or agriculture risk coverage payments, unless the crop was approved for double cropping in the county, as determined by the Secretary.
@@ -42,15 +72,19 @@ The quantity of payment acres determined under subsection (a) may not include an
 
 #### (1) Prohibition on payments
 
-&emsp;Notwithstanding any other provision of this chapter, a producer on a farm may not receive price loss coverage payments or agriculture risk coverage payments if the sum of the base acres on the farm is 10 acres or less, as determined by the Secretary.
+&emsp;Notwithstanding any other provision of this chapter, a producer on a farm may not receive price loss coverage payments or agriculture risk coverage payments if the sum of the base acres on the farm is 10 acres or less, as determined by the Secretary, unless the sum of the base acres on the farm, when combined with the base acres of other farms in which the producer has an interest, is more than 10 acres.
 
 #### (2) Exceptions
 
 &emsp;Paragraph (1) does not apply to a producer that is—
 
-&emsp;&emsp;(A) a socially disadvantaged farmer or rancher (as defined in section 2003(e) of this title); or
+&emsp;&emsp;(A) a socially disadvantaged farmer or rancher (as defined in section 2003(e) of this title);
 
-&emsp;&emsp;(B) a limited resource farmer or rancher, as defined by the Secretary.
+&emsp;&emsp;(B) a limited resource farmer or rancher, as defined by the Secretary;
+
+&emsp;&emsp;(C) a beginning farmer or rancher (as defined in subsection (a) of section 2279 of this title); or
+
+&emsp;&emsp;(D) a veteran farmer or rancher (as defined in subsection (a) of section 2279 of this title).
 
 #### (e) Effect of planting fruits and vegetables
 
@@ -60,7 +94,7 @@ The quantity of payment acres determined under subsection (a) may not include an
 
 #### (2) Price loss coverage and county coverage
 
-&emsp;In the case of price loss coverage payments and agricultural risk coverage payments usingcounty coverage, the reduction under paragraph (1) shall be the amount equal to the base acres planted to crops referred to in such paragraph in excess of 15 percent of base acres.
+&emsp;In the case of price loss coverage payments and agricultural risk coverage payments using county coverage, the reduction under paragraph (1) shall be the amount equal to the base acres planted to crops referred to in such paragraph in excess of 15 percent of base acres.
 
 #### (3) Individual coverage
 
@@ -74,9 +108,35 @@ The quantity of payment acres determined under subsection (a) may not include an
 
 &emsp;&emsp;(B) in any region in which there is a history of double-cropping covered commodities with crops referred to in paragraph (1) and such crops were so double-cropped on the base acres, as determined by the Secretary.
 
-(Pub. L. 113–79, title I, §1114, Feb. 7, 2014, 128 Stat. 666.)
+#### (5) Effect of reduction
+
+&emsp;For each crop year for which fruits, vegetables (other than mung beans and pulse crops), or wild rice are planted to base acres on a farm for which a reduction in payment acres is made under this subsection, the Secretary shall consider such base acres to be planted, or prevented from being planted, to a covered commodity for purposes of any adjustment or reduction of base acres for the farm under section 9012 of this title.
+
+#### (f) Unassigned crop base
+
+The Secretary shall maintain information on generic base acres on a farm allocated as unassigned crop base under subsection (b)(4).
+
+(Pub. L. 113–79, title I, §1114, Feb. 7, 2014, 128 Stat. 666; Pub. L. 115–123, div. F, §60101(a)(5), (6), (11), Feb. 9, 2018, 132 Stat. 308, 309, 311; Pub. L. 115–334, title I, §1104, Dec. 20, 2018, 132 Stat. 4502.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (d)(1), was in the original "this title", meaning title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 658, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(2). Pub. L. 115–123, §60101(a)(11), substituted "paragraphs (1) and (2)" for "paragraphs (1)(B) and (2)(B)".
+
+Subsec. (b)(4). Pub. L. 115–123, §60101(a)(5), added par. (4).
+
+Subsec. (d)(1). Pub. L. 115–334, §1104(1)(A), inserted ", unless the sum of the base acres on the farm, when combined with the base acres of other farms in which the producer has an interest, is more than 10 acres" before period at end.
+
+Subsec. (d)(2)(C), (D). Pub. L. 115–334, §1104(1)(B), added subpars. (C) and (D).
+
+Subsec. (e)(5). Pub. L. 115–334, §1104(2), added par. (5).
+
+Subsec. (f). Pub. L. 115–123, §60101(a)(6), added subsec. (f).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–123 applicable beginning with the 2018 crop year, see section 60101(a)(13) of Pub. L. 115–123, set out as a note under section 9011 of this title.
 

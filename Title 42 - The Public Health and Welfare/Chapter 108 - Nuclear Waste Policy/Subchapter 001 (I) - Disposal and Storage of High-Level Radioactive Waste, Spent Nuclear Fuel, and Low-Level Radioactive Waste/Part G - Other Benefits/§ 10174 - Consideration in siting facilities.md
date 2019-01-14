@@ -1,6 +1,6 @@
 ### §10174. Consideration in siting facilities
 
-The Secretary, in siting Federal research projects, shall give special consideration toproposals from States where a repository is located.
+The Secretary, in siting Federal research projects, shall give special consideration to proposals from States where a repository is located.
 
 (Pub. L. 97–425, title I, §174, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5031, Dec. 22, 1987, 101 Stat. 1330–240.)
 

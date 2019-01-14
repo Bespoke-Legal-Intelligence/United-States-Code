@@ -12,7 +12,7 @@ For purposes of this section, the term "qualified decedent" means—
 
 &emsp;&emsp;(A) was killed in action while serving in a combat zone, as determined under section 112(c), or
 
-&emsp;&emsp;(B) died as a result of wounds, disease, or injury suffered while serving in a combat zone (as determined under section 112(c)), and while in the line of duty, by reason of ahazard to which such decedent was subjected as an incident of such service,
+&emsp;&emsp;(B) died as a result of wounds, disease, or injury suffered while serving in a combat zone (as determined under section 112(c)), and while in the line of duty, by reason of a hazard to which such decedent was subjected as an incident of such service,
 
 &emsp;(2) any specified terrorist victim (as defined in section 692(d)(4)), and
 

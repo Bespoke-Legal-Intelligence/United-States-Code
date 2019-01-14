@@ -104,7 +104,7 @@ As used in this Act, the following definitions shall apply, except as the contex
 
 &emsp;&emsp;&emsp;(ix) any registered entity under the Commodity Exchange Act (7 U.S.C. 1 et seq.), with respect to the activities of the registered entity that require the registered entity to be registered under that Act;
 
-&emsp;&emsp;(D) the State insurance authority of the State in which an insurance company is domiciled, with respect to the insurance activities and activities that are incidental to such insurance activities of an insurance company that is subject to supervision bythe State insurance authority under State insurance law; and
+&emsp;&emsp;(D) the State insurance authority of the State in which an insurance company is domiciled, with respect to the insurance activities and activities that are incidental to such insurance activities of an insurance company that is subject to supervision by the State insurance authority under State insurance law; and
 
 &emsp;&emsp;(E) the Federal Housing Finance Agency, with respect to Federal Home Loan Banks or the Federal Home Loan Bank System, and with respect to the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation.
 
@@ -196,7 +196,7 @@ Pub. L. 111–203, title I, §101, July 21, 2010, 124 Stat. 1391, provided that:
 
 Pub. L. 111–203, title III, §300, July 21, 2010, 124 Stat. 1520, provided that: "This title \[enacting subchapter III of this chapter and sections 4b and 16 of this title, amending sections 1, 11, 248, 461, 481, 482, 1438, 1462 to 1464, 1466a to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, section 906 of Title 2, The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and section 3502 of Title 44, Public Printing and Documents, repealing section 1441a of this title, enacting provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and section 906 of Title 2, and amending provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and section 509 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Enhancing Financial Institution Safety and Soundness Act of 2010'."
 
-Pub. L. 111–203, title VIII, §801, July 21, 2010, 124 Stat. 1802, provided that: "This title \[enacting subchapter IV of this chapter\] may be cited as the 'Payment, Clearing, and Settlement Supervision Act of 2010'."
+Pub. L. 111–203, title VIII, §801, July 21, 2010, 124 Stat. 1802, provided that: "This title \[enacting subchapter IVof this chapter\] may be cited as the 'Payment, Clearing, and Settlement Supervision Act of 2010'."
 
 Pub. L. 111–203, title X, §1001, July 21, 2010, 124 Stat. 1955, provided that: "This title \[see Tables for classification\] may be cited as the 'Consumer Financial Protection Act of 2010'."
 

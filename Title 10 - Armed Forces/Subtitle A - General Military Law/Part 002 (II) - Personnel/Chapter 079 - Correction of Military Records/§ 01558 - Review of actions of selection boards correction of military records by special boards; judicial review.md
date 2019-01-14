@@ -18,7 +18,7 @@ Special board.—(A) The term "special board" means a board that the Secretary o
 
 &emsp;(2)
 
-Selection board.—(A) The term "selection board" means a selection board convened under section 573(c), 580, 580a, 581, 611(b), 637, 638, 638a, 14101(b), 14701, 14704, or 14705 of this title, and any other board convened by the Secretary of a military department under any authority to recommend persons for appointment, enlistment, reenlistment, assignment, promotion, or retention in the armed forces or for separation, retirement, or transfer to inactive status in a reserve component for the purpose of reducing the number of persons serving in the armed forces.
+Selection board.—(A) The term "selection board" means a selection board convened under section 573(c), 580, 580a, 581, 611(b), 637, 638, 638a, 14101(b), 14701, 14704, or 14705 of thistitle, and any other board convened by the Secretary of a military department under any authority to recommend persons for appointment, enlistment, reenlistment, assignment, promotion, or retention in the armed forces or for separation, retirement, or transfer to inactive status in a reserve component for the purpose of reducing the number of persons serving in the armed forces.
 
 &emsp;(B) Such term does not include any of the following:
 

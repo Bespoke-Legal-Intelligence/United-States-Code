@@ -80,6 +80,160 @@ Delayed Application.—In the case of a collection of information for which ther
 
 This chapter is popularly known as the "Paperwork Reduction Act".
 
+#### 21st Century Integrated Digital Experience
+
+Pub. L. 115–336, Dec. 20, 2018, 132 Stat. 5025, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the '21st Century Integrated Digital Experience Act' or the '21st Century IDEA'.
+
+#### "SEC. 2. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Director.—The term 'Director' means the Director of the Office of Management and Budget.
+
+&emsp;"(2)
+
+Executive agency.—The term 'executive agency' has the meaning given the term 'Executive agency' in section 105 of title 5, United States Code.
+
+#### "SEC. 3. WEBSITE MODERNIZATION.
+
+"(a)
+
+Requirements for New Websites and Digital Services.—Not later than 180 days after the date of enactment of this Act \[Dec. 20, 2018\], an executive agency that creates a website or digital service that is intended for use by the public, or conducts a redesign of an existing legacy website or digital service that is intended for use by the public, shall ensure to the greatest extent practicable that any new or redesigned website, web-based form, web-based application, or digital service—
+
+&emsp;"(1) is accessible to individuals with disabilities in accordance with section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d);
+
+&emsp;"(2) has a consistent appearance;
+
+&emsp;"(3) does not overlap with or duplicate any legacy websites and, if applicable, ensure that legacy websites are regularly reviewed, eliminated, and consolidated;
+
+&emsp;"(4) contains a search function that allows users to easily search content intended for public use;
+
+&emsp;"(5) is provided through an industry standard secure connection;
+
+&emsp;"(6) is designed around user needs with data-driven analysis influencing management and developmentdecisions, using qualitative and quantitative data to determine user goals, needs, and behaviors, and continually test the website, web-based form, web-based application, or digital service to ensure that user needs are addressed;
+
+&emsp;"(7) provides users of the new or redesigned website, web-based form, web-based application, or digital service with the option for a more customized digital experience that allows users to complete digital transactions in an efficient and accurate manner; and
+
+&emsp;"(8) is fully functional and usable on common mobile devices.
+
+"(b)
+
+Requirements for Existing Executive Agency Websites and Digital Services.—Not later than 1 year after the date of enactment of this Act, the head of each executive agency that maintains a website or digital service that is made available to the public shall—
+
+&emsp;"(1) review each website or digital service; and
+
+&emsp;"(2) submit to Congress a report that includes—
+
+&emsp;&emsp;"(A) a list of the websites and digital services maintained by the executive agency that are most viewed or utilized by the public or are otherwise important for public engagement;
+
+&emsp;&emsp;"(B) from among the websites and digital services listed under subparagraph (A), a prioritization of websites and digital services that require modernization to meet the requirements under subsection (a); and
+
+&emsp;&emsp;"(C) an estimation of the cost and schedule of modernizing the websites and digital services prioritized under subparagraph (B).
+
+"(c)
+
+Internal Digital Services.—The head of each executive agency shall ensure, to the greatest extent practicable, that any Intranet established after the date of enactment of this Act conforms to the requirements described in subsection (a).
+
+"(d)
+
+Public Reporting.—Not later than 1 year after the date of enactment of this Act and every year thereafter for 4 years, the head of each executive agency shall—
+
+&emsp;"(1) report annually to the Director on the progress of the executive agency in implementing the requirements described in this section for the previous year; and
+
+&emsp;"(2) include the information described in paragraph (1) in a publicly available report that is required under another provision of law.
+
+"(e)
+
+Compliance With United States Website Standards.—Any website of an executive agency that is made available to the public after the date of enactment of this Act shall be in compliance with the website standards of the Technology Transformation Services of the General Services Administration.
+
+#### "SEC. 4. DIGITIZATION OF GOVERNMENT SERVICES AND FORMS.
+
+"(a)
+
+Non-Digital Services.—Not later than 180 days after the date of enactment of this Act \[Dec. 20, 2018\], the Director shall issue guidance to the head of each executive agency that establishes a process for the executive agency to—
+
+&emsp;"(1) identify public non-digital, paper-based, or in-person Government services; and
+
+&emsp;"(2) include in the budget request of the executive agency—
+
+&emsp;&emsp;"(A) a list of non-digital services with the greatest impact that could be made available to the public through an online, mobile-friendly, digital service option in a manner that decreases cost, increases digital conversion rates, and improves customer experience; and
+
+&emsp;&emsp;"(B) an estimation of the cost and schedule associated with carrying out the modernization described in subparagraph (A).
+
+"(b)
+
+Services Required To Be Digital.—The head of each executive agency shall regularly review public-facing applications and services to ensure that those applications and services are, to the greatest extent practicable, made available to the public in a digital format.
+
+"(c)
+
+Forms Required To Be Digital.—Not later than 2 years after the enactment of this Act, the head of each executive agency shall ensure that any paper based form that is related to serving the public is made available in a digital format that meets the requirements described in section 3(a).
+
+"(d)
+
+Non-Digitizable Processes.—If the head of an executive agency cannot make available in a digital format under this section an in-person Government service, form, or paper-based process, the head of the executive agency shall document—
+
+&emsp;"(1) the title of the in-person Government service, form, or paper-based process;
+
+&emsp;"(2) a description of the in-person Government service, form, or paper-based process;
+
+&emsp;"(3) each unit responsible for the in-person Government service, form, or paper-based process and the location of each unit in the organizational hierarchy of the executive agency;
+
+&emsp;"(4) any reasons why the in-person Government service, form, or paper-based process cannot be made available under this section; and
+
+&emsp;"(5) any potential solutions that could allow the in-person Government service, form, or paper-based process to be made available under this section, including the implementation of existing technologies, procedural changes, regulatory changes, and legislative changes.
+
+"(e)
+
+Physical Availability.—Each executive agency shall maintain an accessible method of completing digital services through in-person, paper-based, or other means, such that individuals without the ability to use digital services are not deprived of or impeded in access to those digital services.
+
+#### "SEC. 5. ELECTRONIC SIGNATURES.
+
+"Not later than 180 days after the date of the enactment of this Act, the head of each executive agency shall submit to the Director and the appropriate congressional committees a plan to accelerate the use of electronic signatures standards established under the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7001 et seq.).
+
+#### "SEC. 6. CUSTOMER EXPERIENCE AND DIGITAL SERVICE DELIVERY.
+
+"The Chief Information Officer of each executive agency, or a designee, shall—
+
+&emsp;"(1) coordinate and ensure alignment of the internal and external customer experience programs and strategy of the executive agency;
+
+&emsp;"(2) coordinate with the management leaders of the executive agency, including the head of the executive agency, the Chief Financial Officer, and any program manager, to ensure proper funding to support the implementation of this Act;
+
+&emsp;"(3) continually examine the digital service delivery strategy of the executive agency to the public and submit recommendations to the head of the executive agency providing guidance and best practices suitable to the mission of the executive agency;
+
+&emsp;"(4) using qualitative and quantitative data obtained from across the executive agency relating to the experience and satisfaction of customers, identify areas of concern that need improvement and improve the delivery of customer service;
+
+&emsp;"(5) coordinate and ensure, with the approval of the head of the executive agency, compliance by the executive agency with section 3559 of title 44, United States Code; and
+
+&emsp;"(6) to the extent practicable, coordinate with other agencies and seek to maintain as much standardization and commonality with other agencies as practicable in implementing the requirements of this Act, to best enable future transitions to centralized shared services.
+
+#### "SEC. 7. STANDARDIZATION.
+
+"(a)
+
+Design and Implementation.—Each executive agency shall, to the extent practicable, seek to maintain as much standardization and commonality withother executive agencies as practicable in implementing the requirements of this Act to best enable future transitions to centralized shared services.
+
+"(b)
+
+Coordination.—The Chief Information Officer of each executive agency, or a designee, shall coordinate the implementation of the requirements of this Act, including the development of standards and commonalities.
+
+"(c)
+
+Federal Supply Schedule.—
+
+&emsp;"(1)
+
+In general.—The General Services Administration shall make available under a Federal Supply Schedule the systems and services necessary to fulfill the requirements of this Act.
+
+&emsp;"(2)
+
+Requirements.—The Federal Supply Schedule described in paragraph (1) shall, to the extent practicable, ensure interoperability between executive agencies, compliance with industry standards, and adherence to best practices for design, accessibility, and information security."
+
 #### Federal Management and Promotion of Electronic Government Services
 
 Pub. L. 107–347, title II, Dec. 17, 2002, 116 Stat. 2910, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–281, §1, Aug. 2, 2004, 118 Stat. 889, provided that:
@@ -192,7 +346,7 @@ Purpose.—The purpose of this section is to achieve interoperable implementatio
 
 "(b)
 
-Electronic Signatures.—In order to fulfill the objectives of the Government Paperwork Elimination Act (Public Law 105–277; 112 Stat. 2681–749 through 2681–751) \[44 U.S.C. 3504 note\], each Executive agency (as defined under section 105 of title 5, United States Code) shall ensure that its methods for use and acceptance of electronic signatures are compatible with the relevant policies and procedures issued by the Director.
+Electronic Signatures.—In order to fulfill the objectives of the Government Paperwork Elimination Act (Public Law 105–277; 112 Stat. 2681–749 through 2681–751) \[44 U.S.C. 3504 note\], each Executive agency\(as defined under section 105 of title 5, United States Code) shall ensure that its methods for use and acceptance of electronic signatures are compatible with the relevant policies and procedures issued by the Director.
 
 "(c)
 
@@ -294,7 +448,7 @@ Privacy and security concerns.—
 
 &emsp;&emsp;&emsp;"(II) by providing that all references in the case to the redacted identifiers in such reference list shall be construed, without more, to refer to the corresponding unredacted item of protected information.
 
-&emsp;&emsp;"(B)(i) Subject to clause (ii), the Judicial Conference of the United States may issue interim rules, and interpretive statements relating to the application of such rules, which conform to the requirements of this paragraph and which shall cease to have effect upon the effective date of the rules required under subparagraph (A).
+&emsp;&emsp;"(B)(i) Subject to clause (ii), the Judicial Conference of the United States may issue interim rules, and interpretive statements relating to the application of such rules, which conform to the requirements of this paragraph and which shall ceaseto have effect upon the effective date of the rules required under subparagraph (A).
 
 &emsp;&emsp;"(ii) Pending issuance of the rules required under subparagraph (A), any rule or order of any court, or of the Judicial Conference, providing for the redaction of certain categories of information in order to protect privacy and security concerns arising from electronic filing or electronic conversion shall comply with, and be construed in conformity with, subparagraph (A)(iv).
 
@@ -360,7 +514,7 @@ Purposes.—The purposes of this section are to—
 
 "(b)
 
-Information Provided by Agencies Online.—To the extent practicable as determined by the agency inconsultation with the Director, each agency (as defined under section 551 of title 5, United States Code) shall ensure that a publicly accessible Federal Government website includes all information about that agency required to be published in the Federal Register under paragraphs (1) and (2) of section 552(a) of title 5, United States Code.
+Information Provided by Agencies Online.—To the extent practicable as determined by the agency in consultation with the Director, each agency (as defined under section 551 of title 5, United States Code) shall ensure that a publicly accessible Federal Government website includes all information about that agency required to be published in the Federal Register under paragraphs (1) and (2) of section 552(a) of title 5, United States Code.
 
 "(c)
 
@@ -806,7 +960,7 @@ In general.—In consultation with the Director of the Office of Management and 
 
 &emsp;&emsp;"(A) analyze, on an ongoing basis, the personnel needs of the Federal Government related to information technology and information resource management;
 
-&emsp;&emsp;"(B) identify where current information technology and information resource managementtraining do not satisfy the personnel needs described in subparagraph (A);
+&emsp;&emsp;"(B) identify where current information technology and information resource management training do not satisfy the personnel needs described in subparagraph (A);
 
 &emsp;&emsp;"(C) oversee the development of curricula, training methods, and training priorities that correspond to the projected personnel needs of the Federal Government related to information technology and information resource management; and
 
@@ -964,7 +1118,7 @@ Other amendments.—\[Amended section 125(c)(1) of Pub. L. 100–238, set out as
 
 "(a)
 
-Defense Contracts.—\[Enacted section 2332 of Title 10, Armed Forces.\]
+Defense Contracts.—\[Enacted former section 2332 of Title 10, Armed Forces.\]
 
 "(b)
 
@@ -1122,7 +1276,7 @@ Goals.—The goals under this paragraph are to—
 
 &emsp;&emsp;&emsp;"(i) reduce information collection burdens by eliminating duplicative data elements within 2 or more reporting requirements;
 
-&emsp;&emsp;&emsp;"(ii) create interoperability between or among public databases managed by 2 or more agencies using technologies and techniques that facilitate public access; and
+&emsp;&emsp;&emsp;"(ii) create interoperability between or among public databases managed by 2 or more agenciesusing technologies and techniques that facilitate public access; and
 
 &emsp;&emsp;&emsp;"(iii) develop, or enable the development of, software to reduce errors in electronically submitted information.
 
@@ -1326,7 +1480,7 @@ Contents.—The report under subsection (a) shall include a study of—
 
 &emsp;&emsp;"(D) changes in the nature of personal and public Internet access that may alleviate or aggravate effective access to online Government services;
 
-&emsp;"(2) how the increase in online Government services is influencing the disparities in Internet access andhow technology development or diffusion trends may offset such adverse influences; and
+&emsp;"(2) how the increase in online Government services is influencing the disparities in Internet access and how technology development or diffusion trends may offset such adverse influences; and
 
 &emsp;"(3) related societal effects arising from the interplay of disparities in Internet access and the increase in online Government services.
 
@@ -1474,7 +1628,7 @@ Reports.—
 
 &emsp;"(2) Each Designated Statistical Agency referred to in section 522 shall report annually to the Director of the Office of Management and Budget, the Committee on Government Reform \[now Committee on Oversight and Government Reform\] of the House of Representatives, and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate on the actions it has taken to implement sections 523 and 524. The report shall include copies of each written agreement entered into pursuant to section 524(a) for the applicable year.
 
-&emsp;"(3) The Director of the Office of Management and Budget shall include a summary of reports submitted to the Director under paragraph (2) and actions taken by the Director to advance the purposes of this title in the annual report to the Congress on statistical programs prepared under section 3504(e)(2) of title 44, United States Code.
+&emsp;"(3) The Director of the Office of Management and Budget shall include a summary of reports submitted to the Director under paragraph (2) and actions takenby the Director to advance the purposes of this title in the annual report to the Congress on statistical programs prepared under section 3504(e)(2) of title 44, United States Code.
 
 #### "SEC. 504. EFFECT ON OTHER LAWS.
 
@@ -1580,7 +1734,7 @@ Rule for Use of Data or Information for Nonstatistical Purposes.—A statistical
 
 "(d)
 
-Designation of Agents.—A statistical agency or unit may designate agents, by contract or by entering into a special agreement containing the provisions required under section 502(2) for treatment as an agent under that section, who may perform exclusively statistical activities, subject to the limitations and penalties described in this title.
+Designation of Agents.—A statistical agency or unit may designate agents, by contract or by entering into a special agreement containing the provisions required under section 502(2) for treatment as an agentunder that section, who may perform exclusively statistical activities, subject to the limitations and penalties described in this title.
 
 #### "SEC. 513. FINES AND PENALTIES.
 
@@ -1614,7 +1768,7 @@ Purposes.—The purposes of this subtitle are the following:
 
 &emsp;"(2) To reduce the paperwork burdens imposed on businesses that provide requested information to the Federal Government.
 
-&emsp;"(3) To improve the comparability and accuracy of Federal economic statistics by allowing the Bureau of the Census, the Bureau of Economic Analysis, andthe Bureau of Labor Statistics to update sample frames, develop consistent classifications of establishments and companies into industries, improve coverage, and reconcile significant differences in data produced by the three agencies.
+&emsp;"(3) To improve the comparability and accuracy of Federal economic statistics by allowing the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics to update sample frames, develop consistent classifications of establishments and companies into industries, improve coverage, and reconcile significant differences in data produced by the three agencies.
 
 &emsp;"(4) To increase understanding of the United States economy, especially for key industry and regional statistics, to develop more accurate measures of the impact of technology on productivity growth, and to enhance the reliability of the Nation's most important economic indicators, such as the National Income and Product Accounts.
 
@@ -1664,7 +1818,7 @@ In General.—A Designated Statistical Agency may provide business data in an id
 
 "(b)
 
-Responsibilities of Agencies Under Other Laws.—The provision of business data by an agency to a Designated Statistical Agency under this subtitle shall in no way alter the responsibility of the agency providing the data under other statutes (including section 552 of title 5, United States Code (popularly known as the Freedom of Information Act), and section 552b of title 5, United States Code (popularly known as the Privacy Act of 1974 \[Pub. L. 93–579, see Short Title note set out under section 552a of Title 5, Government Organization and Employees\])) with respect to the provision or withholding of such information by the agency providing the data.
+Responsibilities of Agencies Under Other Laws.—The provision of business data by an agency to a Designated Statistical Agency under this subtitle shall in no way alter the responsibility of the agency providing the data under other statutes (including section 552 of title 5, United States Code (popularly known as the Freedom of Information Act), and section 552b of title 5, United States Code (popularly known as the Privacy Act of 1974 \[Pub. L. 93–579, see Short Title note setout under section 552a of Title 5, Government Organization and Employees\])) with respect to the provision or withholding of such information by the agency providing the data.
 
 "(c)
 
@@ -1698,6 +1852,8 @@ Department of Commerce.—\[Amended section 176a of Title 15, Commerce and Trade
 
 Title 13.—\[Enacted section 402 of Title 13, Census.\]".
 
+<i>\[Pub. L. 115–435, title III, §302(c)(1), title IV, §403, Jan. 14, 2019, 132 Stat. 5552, 5557, provided that, effective 180 days after Jan. 14, 2019, title V of Pub. L. 107–347, set out above, is repealed. See parts A to C of subchapter III of this chapter and section 302(d) of Pub. L. 115–435, set out as a Transitional and Savings Provisions note under section 3561 of this title.\]</i>
+
 #### Waiver of Paperwork Reduction
 
 Pub. L. 101–508, title IV, §4711(f), Nov. 5, 1990, 104 Stat. 1388–187, provided that: "Chapter 35 of title 44, United States Code, and Executive Order 12291 \[formerly set out as a note under section 601 of Title 5, Government Organization and Employees\] shall not apply to information and regulations required for purposes of carrying out this Act \[see Tables for classification\] and implementing the amendments made by this Act."
@@ -1710,7 +1866,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Purpose</i>. This order establishes an open and uniform program for managing information that requires safeguarding or dissemination controls pursuant to and consistent with law, regulations, and Government-wide policies, excluding information that is classified under Executive Order 13526 of December 29, 2009, or the Atomic Energy Act, as amended.
 
-At present, executive departments and agencies (agencies) employ ad hoc, agency-specific policies, procedures, and markings to safeguard and control this information, such as information that involves privacy, security, proprietary business interests, and law enforcement investigations. This inefficient, confusing patchwork has resulted in inconsistent marking and safeguarding of documents, led to unclear or unnecessarily restrictive dissemination policies, and created impediments to authorized information sharing. Thefact that these agency-specific policies are often hidden from public view has only aggravated these issues.
+At present, executive departments and agencies (agencies) employ ad hoc, agency-specific policies, procedures, and markings to safeguard and control this information, such as information that involves privacy, security, proprietary business interests, and law enforcement investigations. This inefficient, confusing patchwork has resulted in inconsistent marking and safeguarding of documents, led to unclear or unnecessarily restrictive dissemination policies, and created impediments to authorized information sharing. The fact that these agency-specific policies are often hidden from public view has only aggravated these issues.
 
 To address these problems, this order establishes a program for managing this information, hereinafter described as Controlled Unclassified Information, that emphasizes the openness and uniformity of Government-wide practice.
 
@@ -1784,7 +1940,7 @@ Memorandum of President of the United States, Oct. 28, 2011, 76 F.R. 68049, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-As I outlined in my State of the Union address to the Congress on January 25, 2011, winning the future in theglobal economy will require a Government that wisely allocates its scarce resources to maximize efficiency and effectiveness so that it can best support American competitiveness, innovation, and job growth. If we are to thrive in the global economy, and make America the best place on Earth to do business, we need to equip our Government with the tools necessary to support innovation and job growth in the 21st century.
+As I outlined in my State of the Union address to the Congress on January 25, 2011, winning the future in the global economy will require a Government that wisely allocates its scarce resources to maximize efficiency and effectiveness so that it can best support American competitiveness, innovation, and job growth. If we are to thrive in the global economy, and make America the best place on Earth to do business, we need to equip our Government with the tools necessary to support innovation and job growth in the 21st century.
 
 Accordingly, we must make it easier for businesses to access the full range of Government programs and services without having to waste effort navigating their way through the Federal bureaucracy. At the same time, we must further streamline and coordinate Federal programs to reduce costs and provide customer-oriented service.
 
@@ -1798,7 +1954,7 @@ Accordingly, I direct the following:
 
 (1) All executive departments and agencies (agencies) shall work with a Steering Committee co-chaired by the Federal Chief Information Officer, Assistant to the President and Chief Technology Officer, and Chief Performance Officer (the Co-Chairs) to carry out the directives in this memorandum within 90 days of the date of this memorandum, unless a provision of this memorandum expressly states otherwise. The Steering Committee shall include senior policy and technical representatives, appointed by the heads of their respective agencies, from the Departments of State, Defense, Agriculture, Commerce, and Veterans Affairs, the Small Business Administration (SBA), the General Services Administration (GSA), the Export-Import Bank, and other agencies designated by the Co-Chairs. The Co-Chairs and representatives from the Department of Commerce and SBA shall serve as the Executive Committee of the Steering Committee, which shall coordinate the strategy, design, development, launch, and operation of BusinessUSA, a common, open, online platform and web service with dedicated resources that will, as a first step, disseminate core information regarding the Federal Government's programs and services relevant to small businesses and exporters.
 
-(2) Agencies shall work with the Steering Committee to develop and launch an introductory version of BusinessUSA. BusinessUSA shall be designed, tested, and built with the active feedback of U.S. businesses and relevant online communities. To the extent appropriate, practicable, and permitted by law, the BusinessUSA platform shall integrate related State and local government services as well as those of private sector partners.
+(2) Agencies shall work with the Steering Committee to develop and launch an introductory version of BusinessUSA. BusinessUSA shall be designed, tested, and built with the active feedback of U.S. businesses and relevant online communities. To the extent appropriate, practicable, and permitted by law, the BusinessUSA platform shall integrate related Stateand local government services as well as those of private sector partners.
 
 (3) Agencies shall make information regarding their small business and export programs and services accessible through BusinessUSA. To accomplish this in a uniform fashion, the Steering Committee shall develop a common set of standards for content available through BusinessUSA, which shall identify the types of programs and services to be included initially on BusinessUSA and a structure for organizing and presenting such information. These standards shall be used by all agencies in the creation, presentation, and delivery of information regarding their programs and services, to the extent practicable and permitted by law.
 

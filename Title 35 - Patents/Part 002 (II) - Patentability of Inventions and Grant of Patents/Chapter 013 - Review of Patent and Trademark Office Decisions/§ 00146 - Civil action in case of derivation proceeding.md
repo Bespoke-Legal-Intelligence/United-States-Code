@@ -24,7 +24,7 @@ Language is changed.
 
 Pub. L. 112–29, §9(a), substituted "United States District Court for the Eastern District of Virginia" for "United States District Court for the District of Columbia".
 
-Pub. L. 112–29, §3(j)(1), (2)(A), (4), amended section catchline generally, substituting "Civil action in caseof derivation proceeding" for "Civil action in case of interference", and substituted in text "a derivation proceeding" for "an interference", "Patent Trial and Appeal Board" for "Board of Patent Appeals and Interferences", and "the derivation proceeding" for "the interference".
+Pub. L. 112–29, §3(j)(1), (2)(A), (4), amended section catchline generally, substituting "Civil action in case of derivation proceeding" for "Civil action in case of interference", and substituted in text "a derivation proceeding" for "an interference", "Patent Trial and Appeal Board" for "Board of Patent Appeals and Interferences", and "the derivation proceeding" for "the interference".
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 

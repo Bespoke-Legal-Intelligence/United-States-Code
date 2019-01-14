@@ -84,7 +84,7 @@ The date of enactment of the Motor Vehicle and Highway Safety Improvement Act of
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–94 added subsec. (c).
 
-<b>2013</b>—Subsec. (b). Pub. L. 112–252, §2(a), inserted at end "The Secretary, after providing an opportunity for public comment, shall study and report to Congress the most useful data, format, and method for providing simple and understandable damage susceptibility information to consumers."
+<b>2013</b>—Subsec. (b). Pub. L. 112–252, §2(a), inserted at end "The Secretary, after providing an opportunity forpublic comment, shall study and report to Congress the most useful data, format, and method for providing simple and understandable damage susceptibility information to consumers."
 
 Subsec. (c). Pub. L. 112–252, §1, struck out subsec. (c). Text read as follows: "The Secretary shall prescribe regulations that require passenger motor vehicle dealers to distribute to prospective buyers information the Secretary develops and provides to the dealers that compares insurance costs for different makes and models of passenger motor vehicles based on damage susceptibility and crashworthiness."
 

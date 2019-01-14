@@ -68,7 +68,7 @@ Assistance provided under this section shall be used primarily to expand and str
 
 &emsp;&emsp;(A) take into consideration and help respond to the needs, capacities, and commitment of developing countries to achieve measurable improvements in literacy, numeracy, and other basic skills development that prepare an individual to be an active, productive member of society and the workforce;
 
-&emsp;&emsp;(B) strengthen educational systems, promote communities of learning, as appropriate, expand access to safe learning environments, including by breaking down specific barriers to basic education for women and girls, ensure continuity of education, including in conflict settings, measurably improve teacher skills and learning outcomes, and support the engagement of parents inthe education of their children to help partner countries ensure that all children, including marginalized children and other vulnerable groups, have access to and benefit from quality basic education;
+&emsp;&emsp;(B) strengthen educational systems, promote communities of learning, as appropriate, expand access to safe learning environments, including by breaking down specific barriers to basic education for women and girls, ensure continuity of education, including in conflict settings, measurably improve teacher skills and learning outcomes, and support the engagement of parents in the education of their children to help partner countries ensure that all children, including marginalized children and other vulnerable groups, have access to and benefit from quality basic education;
 
 &emsp;&emsp;(C) promote education as a foundation for sustained economic growth and development within a comprehensive assistance strategy that places partner countries on a trajectory toward graduation from assistance provided under this section with clearly defined benchmarks of success that are used as requirements for related procurement vehicles, such as grants, contracts, and cooperative agreements;
 
@@ -188,6 +188,10 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+#### Report
+
+Pub. L. 115–442, §6, Jan. 14, 2019, 132 Stat. 5592, provided that: "The Secretary and the Administrator shall include in the report required under section 7 of the READ Act (division A of Public Law 115–56; 22 U.S.C. 2151c note) a description of any primary or secondary educational services supported by programs for natural or manmade disaster relief or response that specifically address the needs of displaced girls."
+
 #### Reinforcing Education Accountability in Development
 
 Pub. L. 115–56, div. A, Sept. 8, 2017, 131 Stat. 1129, provided that:
@@ -266,7 +270,7 @@ Elements.—The strategy required under subsection (a)—
 
 &emsp;&emsp;"(D) to project general levels of resources needed to achieve stated program objectives;
 
-&emsp;&emsp;"(E) to develop means to track implementation in partner countries and ensure that such countries are expending appropriate domestic resources and instituting any relevant legal, regulatory, or institutional reforms needed to achieve stated program objectives;
+&emsp;&emsp;"(E) to develop means to track implementation in partner countries and ensure that such countriesare expending appropriate domestic resources and instituting any relevant legal, regulatory, or institutional reforms needed to achieve stated program objectives;
 
 &emsp;&emsp;"(F) to leverage United States capabilities, including through technical assistance, training, and research; and
 
@@ -335,4 +339,22 @@ Matters To Be Included.—The report required under subsection (a) shall include
 &emsp;"(2) a description of the extent to which each partner country selected to receive assistance for basic education meets the priority criteria specified in section 105(c) of the Foreign Assistance Act \[22 U.S.C. 2151c(c)\], as added by section 3; and
 
 &emsp;"(3) a description of the progress achieved over the reporting period toward meeting the goals, objectives, benchmarks, and timeframes specified in the strategy developed pursuant to section 4 at the program level, as developed pursuant to monitoring and evaluation specified in section 6, with particular emphasis on whether there are demonstrable student improvements in literacy, numeracy, or other basic skills development that prepare an individual to be an active, productive member of society and the workforce."
+
+#### Delegation of Authorities Under the Reinforcing Education Accountability in Development Act
+
+Memorandum of President of the United States, Aug. 31, 2018, 83 F.R. 47795, provided:
+
+Memorandum for the Secretary of State \[and\] the Administrator of the United States Agency for International Development
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby:
+
+(1) delegate to the Secretary of State the functions and authorities vested in the President by sections 4, 6, and 7 of the Reinforcing Education Accountability in Development (READ) Act, (Div. A, Public Law 115–56) \[set out above\]; and
+
+(2) delegate to the Administrator of the United States Agency for International Development the functions and authorities vested in the President by section 5(c) of the READ Act.
+
+The delegations in this memorandum shall apply to any provisions of any future public laws that are the same or substantially the same as the provisions referenced in this memorandum. The Secretary of State or the Administrator of the United States Agency for International Development, as appropriate, may redelegate the functions delegated by this memorandum to the extent authorized by law.
+
+The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

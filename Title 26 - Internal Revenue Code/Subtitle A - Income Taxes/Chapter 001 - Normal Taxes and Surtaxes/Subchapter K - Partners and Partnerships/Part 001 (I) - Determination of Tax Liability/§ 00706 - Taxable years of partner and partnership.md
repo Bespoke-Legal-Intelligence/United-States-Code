@@ -24,7 +24,7 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 #### (C) Business purpose
 
-&emsp;&emsp;A partnership may have a taxable year not described in subparagraph (B) if it establishes, to the satisfaction of the Secretary, abusiness purpose therefor. For purposes of this subparagraph, any deferral of income to partners shall not be treated as a business purpose.
+&emsp;&emsp;A partnership may have a taxable year not described in subparagraph (B) if it establishes, to the satisfaction of the Secretary, a business purpose therefor. For purposes of this subparagraph, any deferral of income to partners shall not be treated as a business purpose.
 
 #### (2) Partner's taxable year
 
@@ -58,7 +58,7 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 #### (5) Application with other sections
 
-&emsp;Except as provided in regulations, for purposes of determining the taxable year to which a partnership is required to change by reason of this subsection, changes in taxable years of other persons required by this subsection, section 441(i), section 584(h),<sup>1</sup> section 644, or section 1378(a) shall be taken into account.
+&emsp;Except as provided in regulations, for purposes of determining the taxable year to which a partnership is required to change by reason of this subsection, changes in taxable years of other persons required by this subsection, section 441(i), section 584(i), section 644, or section 1378(a) shall be taken into account.
 
 #### (c) Closing of partnership year
 
@@ -80,7 +80,7 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), if during any taxable year of the partnership there is a change in any partner's interest in the partnership, each partner's distributive share of any item of income, gain, loss, deduction, or credit of the partnership for such taxable year shall be determined by the use of any method prescribed by the Secretary by regulations which takes into account the varying interests of the partners in the partnership during such taxable year.
+&emsp;Except as provided in paragraphs (2) and (3), if during any taxable year of the partnership there is a change in any partner's interest in the partnership, each partner's distributive share of any item of income, gain, loss, deduction, or credit of the partnership for such taxable year shall be determined by the use ofany method prescribed by the Secretary by regulations which takes into account the varying interests of the partners in the partnership during such taxable year.
 
 #### (2) Certain cash basis items prorated over period to which attributable
 
@@ -134,13 +134,11 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 &emsp;For purposes of this subsection, the taxable year of a partnership shall be determined without regard to subsection (c)(2)(A).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 242; Pub. L. 94–455, title II, §213(c)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 98–369, div. A, title I, §72(a), (b), July 18, 1984, 98 Stat. 589, 591; Pub. L. 99–514, title VIII, §806(a), title XVIII, §1805(a), Oct. 22, 1986, 100 Stat. 2362, 2810; Pub. L. 100–647, title I, §1008(e)(1)–(3), Nov. 10, 1988, 102 Stat. 3439, 3440; Pub. L. 105–34, title V, §507(b)(2), title XII, §1246(a), (b), Aug. 5, 1997, 111 Stat. 857, 1030.)
-
-#### References in Text
-
-Section 584(h), referred to in subsec. (b)(5), was redesignated section 584(i) by Pub. L. 104–188, title I, §1805(a), 110 Stat. 1894.
+(Aug. 16, 1954, ch. 736, 68A Stat. 242; Pub. L. 94–455, title II, §213(c)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 98–369, div. A, title I, §72(a), (b), July 18, 1984, 98 Stat. 589, 591; Pub. L. 99–514, title VIII, §806(a), title XVIII, §1805(a), Oct. 22, 1986, 100 Stat. 2362, 2810; Pub. L. 100–647, title I, §1008(e)(1)–(3), Nov. 10, 1988, 102 Stat. 3439, 3440; Pub. L. 105–34, title V, §507(b)(2), title XII, §1246(a), (b), Aug. 5, 1997, 111 Stat. 857, 1030; Pub. L. 115–141, div. U, title IV, §401(a)(139), Mar. 23, 2018, 132 Stat. 1191.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(5). Pub. L. 115–141 substituted "section 584(i)" for "section 584(h)".
 
 <b>1997</b>—Subsec. (b)(5). Pub. L. 105–34, §507(b)(2), substituted "section 644" for "section 645".
 
@@ -156,7 +154,7 @@ Subsec. (c)(2)(A). Pub. L. 105–34, §1246(a), amended heading and text of subp
 
 Subsec. (b)(1)(B)(iii). Pub. L. 100–647, §1008(e)(2), substituted "unless the Secretary by regulations prescribes another period" for "or such other period as the Secretary may prescribe in regulations".
 
-Subsec. (b)(4). Pub. L. 100–647, §1008(e)(1)(B), substituted "Majority interest taxable year; limitation on required changes" for "Application of majority interest rule" in heading and amended text generally. Prior to amendment, text read as follows: "Clause (i) of paragraph (1)(B) shall not apply to any taxable year of a partnership unless the period which constitutes the taxable year of 1 or more of its partners who have an aggregate interest in partnership profits and capital of greater than 50 percent has been the same for—
+Subsec. (b)(4). Pub. L. 100–647, §1008(e)(1)(B), substituted "Majority interest taxable year; limitation on required changes" for "Application of majority interest rule" in heading and amended text generally. Prior toamendment, text read as follows: "Clause (i) of paragraph (1)(B) shall not apply to any taxable year of a partnership unless the period which constitutes the taxable year of 1 or more of its partners who have an aggregate interest in partnership profits and capital of greater than 50 percent has been the same for—
 
 &emsp;"(A) the 3-taxable year period of such partner or partners ending on or before the beginning of such taxable year of the partnership, or
 
@@ -223,6 +221,4 @@ Nothing in section 806 of Pub. L. 99–514 or in any legislative history relatin
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

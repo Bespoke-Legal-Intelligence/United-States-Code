@@ -44,7 +44,7 @@ Subject to any regulations prescribed or guidelines established by the Secretary
 
 &emsp;(2) to conduct a merit review of all proposals for grants and contracts to be awarded under section 1124 of this title.
 
-(Pub. L. 89–454, title II, §207, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amendedPub. L. 100–220, title III, §3104(b)(1)(E), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 105–160, §7, Mar. 6, 1998, 112 Stat. 24; Pub. L. 107–299, §8, Nov. 26, 2002, 116 Stat. 2348; Pub. L. 110–394, §§7, 9(a)(4)(C)(ii), Oct. 13, 2008, 122 Stat. 4207, 4208; Pub. L. 113–188, title II, §201(a), Nov. 26, 2014, 128 Stat. 2018.)
+(Pub. L. 89–454, title II, §207, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–220, title III, §3104(b)(1)(E), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 105–160, §7, Mar. 6, 1998, 112 Stat. 24; Pub. L. 107–299, §8, Nov. 26, 2002, 116 Stat. 2348; Pub. L. 110–394, §§7, 9(a)(4)(C)(ii), Oct. 13, 2008, 122 Stat. 4207, 4208; Pub. L. 113–188, title II, §201(a), Nov. 26, 2014, 128 Stat. 2018.)
 
 #### Amendments
 

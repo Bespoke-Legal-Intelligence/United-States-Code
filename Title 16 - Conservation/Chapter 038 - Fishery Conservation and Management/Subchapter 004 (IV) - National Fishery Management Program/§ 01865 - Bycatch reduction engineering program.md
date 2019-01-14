@@ -2,7 +2,7 @@
 
 #### (a) Bycatch reduction engineering program
 
-Not later than 1 year after January 12, 2007, the Secretary, in cooperation with the Councils and other affected interests, and based upon the best scientific information available, shall establish a bycatch reduction program, including grants, to develop technological devices and other conservation engineering changes designed to minimize bycatch, seabird interactions, bycatch mortality, and post-release mortality in Federally managed fisheries. The program shall—
+Not later than 1 year after January 12, 2007, the Secretary, in cooperation with the Councils and other affected interests, and based upon thebest scientific information available, shall establish a bycatch reduction program, including grants, to develop technological devices and other conservation engineering changes designed to minimize bycatch, seabird interactions, bycatch mortality, and post-release mortality in Federally managed fisheries. The program shall—
 
 &emsp;(1) be regionally based;
 
@@ -46,7 +46,7 @@ The Secretary shall transmit an annual report to the Senate Committee on Commerc
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(2), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see ShortTitle note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (a)(2), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Change of Name
 

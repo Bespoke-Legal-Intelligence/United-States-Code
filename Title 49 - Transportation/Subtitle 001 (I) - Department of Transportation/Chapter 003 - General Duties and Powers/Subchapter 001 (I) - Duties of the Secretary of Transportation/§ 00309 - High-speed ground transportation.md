@@ -2,7 +2,7 @@
 
 (a) The Secretary of Transportation, in consultation with the Secretaries of Commerce, Energy, and Defense, the Administrator of the Environmental Protection Agency, the Assistant Secretary of the Army for Public Works, and the heads of other interested agencies, shall lead and coordinate Federal efforts in the research and development of high-speed ground transportation technologies in order to foster the implementation of magnetic levitation and high-speed steel wheel on rail transportation systems as alternatives to existing transportation systems.
 
-(b)(1) The Secretary may award contracts and grants for demonstrations to determine the contributions that high-speed ground transportation could make to more efficient, safe, and economical intercity transportation systems. Such demonstrations shall be designed to measure and evaluate such factors as the public response to new equipment, higher speeds, variations in fares, improved comfort and convenience, and more frequent service. In connection with grants and contracts for demonstrationsunder this section, the Secretary shall provide for financial participation by private industry to the maximum extent practicable.
+(b)(1) The Secretary may award contracts and grants for demonstrations to determine the contributions that high-speed ground transportation could make to more efficient, safe, and economical intercity transportation systems. Such demonstrations shall be designed to measure and evaluate such factors as the public response to new equipment, higher speeds, variations in fares, improved comfort and convenience, and more frequent service. In connection with grants and contracts for demonstrations under this section, the Secretary shall provide for financial participation by private industry to the maximum extent practicable.
 
 (2)(A) In connection with the authority provided under paragraph (1), there is established a national high-speed ground transportation technology demonstration program, which shall be separate from the national magnetic levitation prototype development program established under section 1036(b) of the Intermodal Surface Transportation Efficiency Act of 1991 and shall be managed by the Secretary of Transportation.
 
@@ -42,7 +42,7 @@
 
 (2) In a cooperative agreement or funding agreement under paragraph (1), the Secretary may agree to provide not more than 80 percent of the cost of any project under the agreement. Not less than 5 percent of the non-Federal entity's share of the cost of any such project shall be paid in cash.
 
-(3) The research, development, or utilization of any technology pursuant to a cooperative agreement under paragraph (1), including the terms under which such technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).
+(3) The research, development, or utilization of any technology pursuant to a cooperativeagreement under paragraph (1), including the terms under which such technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).
 
 (4) The research, development, or utilization of any technology pursuant to a funding agreement under paragraph (1), including the determination of all licensing and ownership rights, shall be subject to the provisions of chapter 18 of title 35, United States Code.
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(i) the current transportation practices and trends in each market; and
 
-&emsp;&emsp;(ii) the extent to which high-speed ground transportation systems would relieve thecurrent or anticipated congestion on other modes of transportation;
+&emsp;&emsp;(ii) the extent to which high-speed ground transportation systems would relieve the current or anticipated congestion on other modes of transportation;
 
 &emsp;(C) projections of the costs of designing, constructing, and operating high-speed ground transportation systems, the extent to which such systems can recover their costs (including capital costs), and the alternative methods available for private and public financing;
 
@@ -128,7 +128,7 @@ Section 7 of the Rail Safety Improvement Act of 1988, referred to in subsec. (d)
 
 #### Effective Date
 
-Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available afterSept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of Title 23, Highways.
+Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of Title 23, Highways.
 
 #### National Magnetic Levitation Prototype Development Program
 
@@ -180,7 +180,7 @@ Selection of design.—Within 6 months of receiving the detailed designs develop
 
 &emsp;&emsp;"(iv) 3 members to be appointed by the Speaker of the House and the minority leader of the House,
 
-> &emsp;shall be appointed not later than 1 year following the award of contracts under paragraph (3). The selection committee, within 3 months of receiving the detailed designs developed under paragraph (3), shall make a recommendation to the Secretary and the Assistant Secretary as to the best prototype design or the unsuitability of any design. The program director shall provide technical reviews of the phase two contract reports to the selection committee and otherwise provide any technical assistance that the committee requires to assist it in making a recommendation. In the event that the Secretary and the Assistant Secretary determine jointly not to select a design for development under this subsection, they shall report to Congress on the basis for such determination, together with recommendations for future action, including further research, development, or design, termination of the program, or such other action as may be appropriate.
+> &emsp;shall be appointed not later than 1 year following the award of contracts under paragraph (3). The selectioncommittee, within 3 months of receiving the detailed designs developed under paragraph (3), shall make a recommendation to the Secretary and the Assistant Secretary as to the best prototype design or the unsuitability of any design. The program director shall provide technical reviews of the phase two contract reports to the selection committee and otherwise provide any technical assistance that the committee requires to assist it in making a recommendation. In the event that the Secretary and the Assistant Secretary determine jointly not to select a design for development under this subsection, they shall report to Congress on the basis for such determination, together with recommendations for future action, including further research, development, or design, termination of the program, or such other action as may be appropriate.
 
 &emsp;"(B)
 

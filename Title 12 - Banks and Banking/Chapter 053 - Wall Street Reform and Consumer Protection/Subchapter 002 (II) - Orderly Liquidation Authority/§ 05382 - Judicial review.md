@@ -166,7 +166,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Administrative Office of the United States Courts and the Comptroller General of the United States shall each monitor the activities of the Court, and each such Office shall conduct separate studies regarding the bankruptcy and orderly liquidation process for financial companies under the Bankruptcy Code.
+&emsp;&emsp;The Administrative Office of the United States Courts and the Comptroller General of the United States shall each monitor theactivities of the Court, and each such Office shall conduct separate studies regarding the bankruptcy and orderly liquidation process for financial companies under the Bankruptcy Code.
 
 #### (B) Issues to be studied
 

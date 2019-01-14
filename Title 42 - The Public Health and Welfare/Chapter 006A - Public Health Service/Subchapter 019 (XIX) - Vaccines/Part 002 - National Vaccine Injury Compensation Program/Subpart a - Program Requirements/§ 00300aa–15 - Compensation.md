@@ -42,7 +42,7 @@ Compensation awarded under the Program to a petitioner under section 300aa–11 
 
 #### (c) Residential and custodial care and service
 
-The amount of any compensation for residential and custodial care and service expensesunder subsection (a)(1) shall be sufficient to enable the compensated person to remain living at home.
+The amount of any compensation for residential and custodial care and service expenses under subsection (a)(1) shall be sufficient to enable the compensated person to remain living at home.
 
 #### (d) Types of compensation prohibited
 
@@ -78,7 +78,7 @@ Compensation awarded under the Program may not include the following:
 
 (B) In the case of a payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, the compensation shall be determined on the basis of the net present value of the elements of compensation and shall be paid from appropriations made available under subsection (j) in a lump sum of which all or a portion may be used as ordered by the special master to purchase an annuity or otherwise be used, with the consent of the petitioner, in a manner determined by the special master to be in the best interests of the petitioner. Any reasonable attorneys' fees and costs shall be paid in a lump sum. If the appropriations under subsection (j) are insufficient to make a payment of an annual installment, the limitation on civil actions prescribed by section 300aa–21(a) of this title shall not apply to a civil action for damages brought by the petitioner entitled to the payment.
 
-(C) In purchasing an annuity under subparagraph (A) or (B), the Secretary may purchase a guarantee for the annuity, may enter into agreements regarding the purchase price for and rate of return of the annuity, and may take such other actions as may be necessary to safeguard the financial interests of the United States regarding the annuity. Any payment received by the Secretary pursuant to the preceding sentence shall be paid to the Vaccine Injury Compensation Trust Fund established under section 9510 of title 26, or to the appropriations account from which the funds were derived to purchase the annuity, whichever is appropriate.
+(C) In purchasing an annuity under subparagraph (A) or (B), the Secretary may purchase a guarantee for the annuity, may enter into agreements regarding the purchase price for and rate of return of the annuity, and may take such other actions as may be necessary to safeguard the financial interests of the United States regarding the annuity. Any payment received by the Secretary pursuant to the preceding sentence shall be paid to the Vaccine Injury Compensation Trust Fund established under section9510 of title 26, or to the appropriations account from which the funds were derived to purchase the annuity, whichever is appropriate.
 
 #### (g) Program not primarily liable
 
@@ -144,11 +144,11 @@ Subsec. (f)(4)(B). Pub. L. 101–502, §5(d)(2)(B), substituted "subsection (j)"
 
 Subsec. (j). Pub. L. 101–502, §5(d)(3), inserted before period at end of first sentence ", and $80,000,000 for each succeeding fiscal year in which a payment of compensation is required under subsection (f)(4)(B)".
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–239, §6601(l)(1), substituted "may include the compensation described in paragraphs (1)(A) and (2) of subsection (a) and may also include an amount, not to exceed a combined total of $30,000, for—" and cls. (1) to (3) for "may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys' fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys' fees and other costs under subsection (e) of this section may not exceed $30,000."
+<b>1989</b>—Subsec. (b). Pub. L. 101–239, §6601(l)(1), substituted "may include the compensation described inparagraphs (1)(A) and (2) of subsection (a) and may also include an amount, not to exceed a combined total of $30,000, for—" and cls. (1) to (3) for "may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys' fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys' fees and other costs under subsection (e) of this section may not exceed $30,000."
 
 Subsec. (e)(1). Pub. L. 101–239, §6601(l)(2)(A), substituted "In awarding compensation on a petition filed under section 300aa–11 of this title the special master or court shall also award as part of such compensation an amount to cover" for "The judgment of the United States Claims Court on a petition filed under section 300aa–11 of this title awarding compensation shall include an amount to cover".
 
-Pub. L. 101–239, §6601(l)(2)(B), (C), substituted "the special master or court may award an amount of compensation to cover" for "the court may include in the judgment an amount to cover" and "the special master or court determines that the petition was brought in good faith and there was a reasonable basis for the claim for which the petition" for "the court determines that the civil action was brought in good faith andthere was a reasonable basis for the claim for which the civil action".
+Pub. L. 101–239, §6601(l)(2)(B), (C), substituted "the special master or court may award an amount of compensation to cover" for "the court may include in the judgment an amount to cover" and "the special master or court determines that the petition was brought in good faith and there was a reasonable basis for the claim for which the petition" for "the court determines that the civil action was brought in good faith and there was a reasonable basis for the claim for which the civil action".
 
 Subsec. (e)(2). Pub. L. 101–239, §6601(l)(2)(D), which directed amendment of par. (2) by substituting "the special master or court may also award an amount of compensation" for "the judgment of the court on such petition may include an amount", could not be executed because of the prior amendment by Pub. L. 101–239, §6601(c)(8)(B), see Amendment note below.
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 101–502 effective Sept. 30, 1990, see section 5(h) of Pub
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to all pending and subsequently filed petitions, see section 6601(s)(2) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
+Amendment by Pub. L. 101–239 applicable to all pending and subsequently filed petitions, see section6601(s)(2) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 
 #### Effective Date of 1988 Amendment
 

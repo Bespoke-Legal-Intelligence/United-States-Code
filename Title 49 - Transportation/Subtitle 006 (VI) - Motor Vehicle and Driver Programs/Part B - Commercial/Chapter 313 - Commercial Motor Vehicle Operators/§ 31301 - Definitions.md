@@ -14,7 +14,7 @@ In this chapter—
 
 &emsp;(4) "commercial motor vehicle" means a motor vehicle used in commerce to transport passengers or property that—
 
-&emsp;&emsp;(A) has a gross vehicle weight rating or gross vehicle weight of at least 26,001pounds, whichever is greater, or a lesser gross vehicle weight rating or gross vehicle weight the Secretary of Transportation prescribes by regulation, but not less than a gross vehicle weight rating of 10,001 pounds;
+&emsp;&emsp;(A) has a gross vehicle weight rating or gross vehicle weight of at least 26,001 pounds, whichever is greater, or a lesser gross vehicle weight rating or gross vehicle weight the Secretary of Transportation prescribes by regulation, but not less than a gross vehicle weight rating of 10,001 pounds;
 
 &emsp;&emsp;(B) is designed to transport at least 16 passengers including the driver; or
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Program To Assist Veterans To Acquire Commercial Driver's Licenses
 
-Pub. L. 114–94, div. A, title V, §5401(b), Dec. 4, 2015, 129 Stat. 1547, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\], in consultation with the Secretary of Defense, shall implement the recommendations contained in the report submitted under section 32308 of MAP–21 \[Pub. L. 112–141\] (49 U.S.C. 31301 note) that are not implemented as a result of the amendment in subsection (a) \[amending section 31305 of this title\]."
+Pub. L. 114–94, div. A, title V, §5401(b), Dec. 4, 2015, 129 Stat. 1547, provided that: "Not later than 1 year afterthe date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\], in consultation with the Secretary of Defense, shall implement the recommendations contained in the report submitted under section 32308 of MAP–21 \[Pub. L. 112–141\] (49 U.S.C. 31301 note) that are not implemented as a result of the amendment in subsection (a) \[amending section 31305 of this title\]."
 
 Pub. L. 112–141, div. C, title II, §32308, July 6, 2012, 126 Stat. 794, provided that:
 
@@ -248,7 +248,7 @@ For provisions relating to exemptions from certain requirements of this chapter 
 
 #### Grant Program for Commercial Motor Vehicle Operators
 
-Pub. L. 109–59, title IV, §4134, Aug. 10, 2005, 119 Stat. 1744, as amended by Pub. L. 111–147, title IV, §422(h), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(h), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(h), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(g), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102,title II, §202(g), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(g), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(g), July 6, 2012, 126 Stat. 808; Pub. L. 113–159, title I, §1102(g), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, §1102(g), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(g), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(g), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(g), Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title V, §5105(e), Dec. 4, 2015, 129 Stat. 1529, which established a grant program for persons to train operators of commercial motor vehicles, was repealed by Pub. L. 114–94, div. A, title V, §5101(e)(7), Dec. 4, 2015, 129 Stat. 1525, effective Oct. 1, 2016.
+Pub. L. 109–59, title IV, §4134, Aug. 10, 2005, 119 Stat. 1744, as amended by Pub. L. 111–147, title IV, §422(h), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(h), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(h), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(g), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(g), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(g), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(g), July 6, 2012, 126 Stat. 808; Pub. L. 113–159, title I, §1102(g), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, §1102(g), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(g), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(g), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(g), Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title V, §5105(e), Dec. 4, 2015, 129 Stat. 1529, which established a grant program for persons to train operators of commercial motor vehicles, was repealed by Pub. L. 114–94, div. A, title V, §5101(e)(7), Dec. 4, 2015, 129 Stat. 1525, effective Oct. 1, 2016.
 
 #### CDL Task Force
 
@@ -278,7 +278,7 @@ Membership.—Members of the task force should include State motor vehicle admin
 
 "(c)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary, on behalf of the task force, shall complete a report of the task forces \[sic\] findings and recommendations for legislative, regulatory, and enforcement changes to improve the commercial drivers \[sic\] license program and submit such the \[sic\] report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+Report.—Not later than 2 years after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary, onbehalf of the task force, shall complete a report of the task forces \[sic\] findings and recommendations for legislative, regulatory, and enforcement changes to improve the commercial drivers \[sic\] license program and submit such the \[sic\] report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 "(d)
 

@@ -108,7 +108,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) interfere with the efficient use of the navigable airspace directly related to the activities of the Department of Defense; or
 
-&emsp;&emsp;(C) significantly impair or degrade the capability of the Department of Defense toconduct training, research, development, testing, and evaluation, and operations or to maintain military readiness.
+&emsp;&emsp;(C) significantly impair or degrade the capability of the Department of Defense to conduct training, research, development, testing, and evaluation, and operations or to maintain military readiness.
 
 (Added Pub. L. 115–91, div. A, title III, §311(a), Dec. 12, 2017, 131 Stat. 1343.)
 

@@ -12,7 +12,7 @@
 
 > but the Congress does not consent to the acceptance by any Federal employee of any portion of any such grant or other form of assistance which provides assistance with respect to any expenses incurred by or for any member of the family or household of such Federal employee.
 
-(2) For purposes of this section, the term "Federal employee" means any employee as defined in subparagraphs (A) through (F) of section 7342(a)(1) of title 5, but does not include aperson described in subparagraph (G) of such section.
+(2) For purposes of this section, the term "Federal employee" means any employee as defined in subparagraphs (A) through (F) of section 7342(a)(1) of title 5, but does not include a person described in subparagraph (G) of such section.
 
 #### (b) Foreign grants and other assistance not gifts for purposes of section 7342 of title 5
 

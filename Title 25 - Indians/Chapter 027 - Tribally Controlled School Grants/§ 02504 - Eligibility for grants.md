@@ -80,7 +80,7 @@
 
 #### (B) Considerations
 
-&emsp;&emsp;In making the determination under subparagraph (A), the Secretary shall give equal consideration to each of the following factors:
+&emsp;&emsp;In making the determination under subparagraph (A), the Secretary shall give equalconsideration to each of the following factors:
 
 &emsp;&emsp;&emsp;(i) With respect to the applicant's proposal—
 
@@ -140,7 +140,7 @@ Except as provided by subsection (c)(2)(E), a grant provided under this chapter,
 
 &emsp;&emsp;(B) provide assistance to the tribe or tribal organization to overcome all stated objections;
 
-&emsp;&emsp;(C) at the request of the tribe or tribal organization, provide the tribe or tribal organization a hearing on the record under the same rules and regulations that apply underthe Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\]; and
+&emsp;&emsp;(C) at the request of the tribe or tribal organization, provide the tribe or tribal organization a hearing on the record under the same rules and regulations that apply under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\]; and
 
 &emsp;&emsp;(D) provide an opportunity to appeal the objection raised.
 

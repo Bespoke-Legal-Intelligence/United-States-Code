@@ -12,7 +12,7 @@ In any case where any tract of entered land lying within such approved irrigatio
 
 #### References in Text
 
-The reclamation Act of June seventeenth, nineteen hundred and two, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+The reclamation Act of June seventeenth, nineteen hundred and two, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 #### Transfer of Functions
 

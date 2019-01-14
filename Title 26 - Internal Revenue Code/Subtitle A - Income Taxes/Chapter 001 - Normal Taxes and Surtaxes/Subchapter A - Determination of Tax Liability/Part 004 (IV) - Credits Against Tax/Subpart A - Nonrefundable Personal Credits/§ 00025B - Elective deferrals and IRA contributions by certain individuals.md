@@ -72,7 +72,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section 4974(c)), and
 
-&emsp;&emsp;(D) the amount of contributions made before January 1, 2026, by such individual to the ABLE account (within the meaning ofsection 529A) of which such individual is the designated beneficiary.
+&emsp;&emsp;(D) the amount of contributions made before January 1, 2026, by such individual to the ABLE account (within the meaning of section 529A) of which such individual is the designated beneficiary.
 
 #### (2) Reduction for certain distributions
 
@@ -152,7 +152,7 @@ Subsec. (h). Pub. L. 109–280, §812, struck out heading and text of subsec. (h
 
 &emsp;"(i) any distribution from a qualified retirement plan (as defined in section 4974(c)), or from an eligible deferred compensation plan (as defined in section 457(b)), received by the individual during the testing period which is includible in gross income, and
 
-&emsp;"(ii) any distribution from a Roth IRA or a Roth account received by the individual during the testingperiod which is not a qualified rollover contribution (as defined in section 408A(e)) to a Roth IRA or a rollover under section 402(c)(8)(B) to a Roth account."
+&emsp;"(ii) any distribution from a Roth IRA or a Roth account received by the individual during the testing period which is not a qualified rollover contribution (as defined in section 408A(e)) to a Roth IRA or a rollover under section 402(c)(8)(B) to a Roth account."
 
 Subsecs. (g), (h). Pub. L. 107–147, §417(1), redesignated subsec. (g), relating to termination, as (h).
 

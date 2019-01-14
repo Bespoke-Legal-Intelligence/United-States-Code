@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development shall pay from rentals annual sum
 
 #### References in Text
 
-Subchapters III and VI of this chapter, referred to in text, were comprised of sections 1531 to 1536 and 1571 to1576, respectively, of this title and have been omitted from the Code. For further details, see note set out under section 1522 of this title.
+Subchapters III and VI of this chapter, referred to in text, were comprised of sections 1531 to 1536 and 1571 to 1576, respectively, of this title and have been omitted from the Code. For further details, see note set out under section 1522 of this title.
 
 #### Codification
 

@@ -2,10 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [1401\.](%C2%A7%2001401%20-%20Authorization%20of%20loans%20by%20Governor%20of%20Farm%20Credit%20Administration%3B%20regulations.md) | Authorization of loans by Governor of Farm Credit Administration; regulations. |
-| [1402\.](%C2%A7%2001402%20-%20Limitations%20on%20loans%3B%20financial%20structure%20of%20corporation%2C%20approval.md) | Limitations on loans; financial structure of corporation, approval. |
-| [1403\.](%C2%A7%2001403%20-%20Minimum%20paid-in%20capital%20stock%20required%20to%20warrant%20loans.md) | Minimum paid-in capital stock required to warrant loans. |
-| [1404\.](%C2%A7%2001404%20-%20Authorization%20of%20appropriations%3B%20revolving%20fund.md) | Authorization of appropriations; revolving fund. |
+| 1401 to 1404. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -14,7 +11,4 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01401 - Authorization of loans by Governor of Farm Credit Administration; regulations](%C2%A7%2001401%20-%20Authorization%20of%20loans%20by%20Governor%20of%20Farm%20Credit%20Administration%3B%20regulations.md)
-- [&sect; 01402 - Limitations on loans; financial structure of corporation, approval](%C2%A7%2001402%20-%20Limitations%20on%20loans%3B%20financial%20structure%20of%20corporation%2C%20approval.md)
-- [&sect; 01403 - Minimum paid-in capital stock required to warrant loans](%C2%A7%2001403%20-%20Minimum%20paid-in%20capital%20stock%20required%20to%20warrant%20loans.md)
-- [&sect; 01404 - Authorization of appropriations; revolving fund](%C2%A7%2001404%20-%20Authorization%20of%20appropriations%3B%20revolving%20fund.md)
+- [&sect; 01401 to 1404 - Repealed. Pub. L. 115&#8211;334, title V, &sect;5411(64), Dec. 20, 2018, 132 Stat. 4686](%C2%A7%2001401%20to%201404%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20V%2C%20%C2%A75411%2864%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204686.md)

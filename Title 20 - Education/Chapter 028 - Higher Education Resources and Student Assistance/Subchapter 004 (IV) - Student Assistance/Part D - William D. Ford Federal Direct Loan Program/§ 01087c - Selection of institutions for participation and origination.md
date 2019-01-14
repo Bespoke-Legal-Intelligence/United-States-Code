@@ -12,7 +12,7 @@ The Secretary shall enter into agreements pursuant to section 1087d(a) of this t
 
 #### (2) Selection procedure
 
-&emsp;The Secretary shall select institutions for participation in the direct student loan program under this part, and shall enter into agreements with such institutions under section 1087d(a) of this title, from among those institutions that submit the applications described in paragraph (1), and meet such other eligibility requirements as the Secretary shall prescribe.
+&emsp;The Secretary shall select institutions for participation in the direct student loan program under this part, and shall enter intoagreements with such institutions under section 1087d(a) of this title, from among those institutions that submit the applications described in paragraph (1), and meet such other eligibility requirements as the Secretary shall prescribe.
 
 #### (c) Selection criteria for origination
 
@@ -84,7 +84,7 @@ Subsec. (c)(2)(B) to (D). Pub. L. 105–244, §451(c)(1)(E), redesignated subpar
 
 Subsec. (c)(2)(E). Pub. L. 105–244, §451(c)(1)(E), redesignated subpar. (G) as (E).
 
-Pub. L. 105–244, §451(c)(1)(D), struck out subpar. (E) which read as follows: "in the opinion of the Secretary, has not had significant deficiencies identified by a State postsecondary review entity under subpart 1 of part H of this subchapter;".
+Pub. L. 105–244, §451(c)(1)(D), struck out subpar. (E) which read as follows: "in the opinion of the Secretary, has not had significant deficiencies identified by aState postsecondary review entity under subpart 1 of part H of this subchapter;".
 
 Subsec. (c)(2)(F) to (H). Pub. L. 105–244, §451(c)(1)(E), redesignated subpars. (G) and (H) as (E) and (F), respectively. Former subpar. (F) redesignated (D).
 

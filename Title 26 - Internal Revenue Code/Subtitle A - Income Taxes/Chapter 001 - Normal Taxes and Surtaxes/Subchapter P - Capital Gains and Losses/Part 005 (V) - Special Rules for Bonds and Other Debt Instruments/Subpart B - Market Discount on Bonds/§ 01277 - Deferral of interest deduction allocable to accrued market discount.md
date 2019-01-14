@@ -28,7 +28,7 @@ Except as otherwise provided in this section, the net direct interest expense wi
 
 #### (C) Net interest income
 
-&emsp;&emsp;For purposes of this paragraph, the term "net interest income" means the excess of the amount determined under paragraph (2)of subsection (c) over the amount determined under paragraph (1) of subsection (c).
+&emsp;&emsp;For purposes of this paragraph, the term "net interest income" means the excess of the amount determined under paragraph (2) of subsection (c) over the amount determined under paragraph (1) of subsection (c).
 
 #### (2) Remainder of disallowed interest expense allowed for year of disposition
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable to obligations purchased (within the meaning of section 1272(d)(1) of this title) after Apr. 30, 1993, see section 13206(b)(3) of Pub. L. 103–66, set out as a note under section 1276 of this title.
+Amendment by Pub. L. 103–66 applicable to obligations purchased (within the meaning of section 1272(d)(1) \[now 1272(c)(1)\] of this title) after Apr. 30, 1993, see section 13206(b)(3) of Pub. L. 103–66, set out as a note under section 1276 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -110,5 +110,5 @@ Section applicable to taxable years ending after July 18, 1984, and applicable t
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

@@ -2,7 +2,7 @@
 
 (1) Repealed. Pub. L. 97–113, title VII, §734(a)(5), Dec. 29, 1981, 95 Stat. 1560.
 
-(2) The Secretary of State shall transmit to such committees a copy of the text of any agreement with any foreign government which would result in any such debt relief no less than thirty days prior to its entry into force, together with a detailed justification of the interest of the United States in the proposed debt relief. The requirements of this paragraph shall not apply with respect to an agreement if a statutory requirement exists that the amount of the debt relief provided by the agreement may not exceed the amount approved for such purposes in advance in an appropriation Act.
+(2) The Secretary of State shall transmit to such committees a copy of the text of any agreement with any foreign government which would result in any such debt relief no less than thirty days prior to its entry into force, together with a detailed justification of the interest of the United States in the proposed debt relief. Therequirements of this paragraph shall not apply with respect to an agreement if a statutory requirement exists that the amount of the debt relief provided by the agreement may not exceed the amount approved for such purposes in advance in an appropriation Act.
 
 (Pub. L. 95–424, title VI, §603(a), Oct. 6, 1978, 92 Stat. 960; H. Res. 89, Feb. 5, 1979; Pub. L. 97–113, title VII, §734(a)(5), Dec. 29, 1981, 95 Stat. 1560.)
 
@@ -72,7 +72,7 @@ Exceptions.—A country shall not be eligible for cancellation of debt under thi
 
 &emsp;"(1) has an excessive level of military expenditures;
 
-&emsp;"(2) has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) \[now 50 U.S.C. 4605(j)(1)\] or section 620A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2371(a));
+&emsp;"(2) has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under \[former\] section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) \[former 50 U.S.C. 4605(j)(1)\] or section 620A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2371(a));
 
 &emsp;"(3) is failing to cooperate on international narcotics control matters; or
 
@@ -98,7 +98,7 @@ Additional Requirement.—A country which is otherwise eligible to receive cance
 
 "(h)
 
-Certain Prohibitions Inapplicable.—Except as the President may otherwise determine for reasons of national security, a cancellation of debt under this section shall not be considered to be assistance for purposes of any provision of law limiting assistance to a country. The authority to provide for cancellation ofdebt under this section may be exercised notwithstanding section 620(r) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2370(r)\], or any similar provision of law.
+Certain Prohibitions Inapplicable.—Except as the President may otherwise determine for reasons of national security, a cancellation of debt under this section shall not be considered to be assistance for purposes of any provision of law limiting assistance to a country. The authority to provide for cancellation of debt under this section may be exercised notwithstanding section 620(r) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2370(r)\], or any similar provision of law.
 
 "(i)
 

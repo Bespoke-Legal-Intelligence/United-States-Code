@@ -14,5 +14,5 @@ As used in this chapter—
 
 #### Effective Date
 
-Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an EffectiveDate; Savings Provision note under section 3551 of Title 18, Crimes and Criminal Procedure.
+Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473, set out as an Effective Date; Savings Provision note under section 3551 of Title 18, Crimes and Criminal Procedure.
 

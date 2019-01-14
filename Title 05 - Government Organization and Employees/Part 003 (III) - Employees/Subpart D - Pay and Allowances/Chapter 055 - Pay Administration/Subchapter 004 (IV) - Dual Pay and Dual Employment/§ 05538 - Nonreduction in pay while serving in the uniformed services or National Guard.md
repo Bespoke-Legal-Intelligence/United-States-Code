@@ -1,6 +1,6 @@
 ### §5538. Nonreduction in pay while serving in the uniformed services or National Guard
 
-(a) An employee who is absent from a position of employment with the Federal Government in order to perform active duty in the uniformed services pursuant to a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10 shall be entitled, while serving on active duty, to receive, for each pay period described in subsection (b), an amount equal to the amount by which—
+(a) An employee who is absent from a position of employment with the Federal Government in order to perform active duty in the uniformed services pursuant to a call or order to active duty under section 12304b of title 10 or a provision of law referred to in section 101(a)(13)(B) of title 10 shall be entitled, while serving on active duty, to receive, for each pay period described in subsection (b), an amount equal to the amount by which—
 
 &emsp;(1) the amount of basic pay which would otherwise have been payable to such employee for such pay period if such employee's civilian employment with the Government had not been interrupted by that service, exceeds (if at all)
 
@@ -28,7 +28,7 @@
 
 (e)(1) The head of each agency referred to in section 2302(a)(2)(C)(ii) shall, in consultation with the Office, prescribe procedures to ensure that the rights under this section apply to the employees of such agency.
 
-(2) The Administrator of the Federal Aviation Administration shall, in consultation with the Office, prescribe procedures to ensure that the rights under this section apply to the employees of that agency.
+(2) The Administrator of the Federal Aviation Administration shall, in consultation with theOffice, prescribe procedures to ensure that the rights under this section apply to the employees of that agency.
 
 (f) For purposes of this section—
 
@@ -38,9 +38,11 @@
 
 &emsp;(3) the term "basic pay" includes any amount payable under section 5304.
 
-(Added Pub. L. 111–8, div. D, title VII, §751(a), Mar. 11, 2009, 123 Stat. 693; amended Pub. L. 111–117, div. C, title VII, §745(a), Dec. 16, 2009, 123 Stat. 3219.)
+(Added Pub. L. 111–8, div. D, title VII, §751(a), Mar. 11, 2009, 123 Stat. 693; amended Pub. L. 111–117, div. C, title VII, §745(a), Dec. 16, 2009, 123 Stat. 3219; Pub. L. 115–232, div. A, title VI, §605, Aug. 13, 2018, 132 Stat. 1795.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–232 inserted "section 12304b of title 10 or" after "under" in introductory provisions.
 
 <b>2009</b>—Subsec. (b). Pub. L. 111–117 added subsec. (b) and struck out former subsec. (b), which read as follows:
 

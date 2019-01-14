@@ -132,7 +132,7 @@ Another prior section 1122, Pub. L. 89–329, title VI, §602, Nov. 8, 1965, 79 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(A). Pub. L. 110–315, §602(1)(A), added subpar. (A) and struck out former subpar. (A).Prior to amendment, text read as follows: "The Secretary is authorized—
+<b>2008</b>—Subsec. (a)(1)(A). Pub. L. 110–315, §602(1)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "The Secretary is authorized—
 
 &emsp;"(i) to make grants to institutions of higher education, or combinations thereof, for the purpose of establishing, strengthening, and operating comprehensive foreign language and area or international studies centers and programs; and
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Suspension of Tariffs.—For a violation of section 41104(1), (2), or (7) of this title, the Federal Maritime Commission may suspend any or all tariffs of the common carrier, or that common carrier's right to use any or all tariffs of conferences of which it is a member, for a period not to exceed 12 months.
+Suspension of Tariffs.—For a violation of section 41104(1), (2), or (7) <sup>1</sup> of this title, the Federal Maritime Commission may suspend any or all tariffs of the common carrier, or that common carrier's right to use any or all tariffs of conferences of which it is a member, for a period not to exceed 12 months.
 
 (b)
 
@@ -26,7 +26,7 @@ Defense based on foreign law.—If, in defense of its failure to comply with a s
 
 (d)
 
-Impairing Access to Foreign Trade.—If the Commission finds, after notice and opportunity for a hearing, that the action of a common carrier, acting alone or in concert with another person, or a foreign government has unduly impaired access of a vessel documented under the laws of the United States to oceantrade between foreign ports, the Commission shall take action that it finds appropriate, including imposing any of the penalties authorized by this section. The Commission also may take any of the actions authorized by sections 42304 and 42305 of this title.
+Impairing Access to Foreign Trade.—If the Commission finds, after notice and opportunity for a hearing, that the action of a common carrier, acting alone or in concert with another person, or a foreign government has unduly impaired access of a vessel documented under the laws of the United States to ocean trade between foreign ports, the Commission shall take action that it finds appropriate, including imposing any of the penalties authorized by this section. The Commission also may take any of the actions authorized by sections 42304 and 42305 of this title.
 
 (e)
 
@@ -73,4 +73,10 @@ Pub. L. 100–418, title X, §10002(h) (related to §13(b)(6)), Aug. 23, 1988, 1
 46 App.:1712(b)(7).
 
 In subsection (c)(1)(B), the words "Secretary of Homeland Security" are substituted for "Secretary of the Treasury" because the functions of the Secretary of the Treasury relating to the Customs Service were transferred to the Secretary of Homeland Security by section 403(1) of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2178).
+
+#### References in Text
+
+Pars. (1), (2), and (7) of section 41104 of this title, referred to in subsec. (a), were redesignated as pars. (1), (2), and (7), respectively, of section 41104(a) of this title by Pub. L. 115–282, title VII, §708(a)(1), Dec. 4, 2018, 132 Stat. 4295.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -46,7 +46,7 @@ The Secretary may authorize the carrying on of such other businesses (not specif
 
 &emsp;&emsp;<b>(4) For provisions relating to the unauthorized use of distilled spirits in any manufacturing process, see section 5601(a)(9).</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1353; amended Pub. L. 91–659, §5, Jan. 8, 1971, 84 Stat. 1966; Pub. L. 94–455, title XIX,§1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §2(b), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, §§805(b)(1), 807(a)(18), July 26, 1979, 93 Stat. 275, 283.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1353; amended Pub. L. 91–659, §5, Jan. 8, 1971, 84 Stat. 1966; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §2(b), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, §§805(b)(1), 807(a)(18), July 26, 1979, 93 Stat. 275, 283.)
 
 #### Prior Provisions
 
@@ -78,7 +78,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627, 62
 
 <b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–39, §807(a)(18), substituted "section 5171(c)" for "section 5171(a)".
 
-Subsec. (a)(2). Pub. L. 96–39, §805(b)(1), substituted in heading "operations" for "facilities" and in subpar. (A) "produce" for "provided facilities which may be used for the production of" and struck out in subpar. (B) "closed at all points where potable or readily recoverable spirits are present and the distilling apparatus" after "shall be continuous and".
+Subsec. (a)(2). Pub. L. 96–39, §805(b)(1), substituted in heading "operations" for "facilities" and in subpar. (A) "produce" for "provided facilities which may be usedfor the production of" and struck out in subpar. (B) "closed at all points where potable or readily recoverable spirits are present and the distilling apparatus" after "shall be continuous and".
 
 Subsec. (a)(3). Pub. L. 96–39, §805(b)(1), substituted in heading "Warehousing operations" for "Bonded warehousing facilities" and in subpar. (A) "the application" for "his application" and "warehouse bulk distilled spirits" for "establish warehousing facilities" and struck out subpar. (C) which related to facilities for the storage on bonded premises of distilled spirits in casks, packages, cases, or similar portable approved containers and subpar. (D), which related to the establishment of a portion of the premises established under subpar. (C) as an export storage facility for the storage of distilled spirits returned to bonded premises under section 5215(b).
 

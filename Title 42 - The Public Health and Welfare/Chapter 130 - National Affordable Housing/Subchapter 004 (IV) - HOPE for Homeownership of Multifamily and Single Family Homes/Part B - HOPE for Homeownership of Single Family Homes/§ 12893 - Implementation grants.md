@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary is authorized to make implementation grants to applicants for the purposeof carrying out homeownership programs approved under this part.
+The Secretary is authorized to make implementation grants to applicants for the purpose of carrying out homeownership programs approved under this part.
 
 #### (b) Eligible activities
 
@@ -34,7 +34,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 #### (1) In general
 
-&emsp;Each recipient shall assure that contributions equal to not less than 25 percent of the grant amounts under this section are provided from non-Federal sources to carry out the homeownership program.
+&emsp;Each recipient shall assure that contributions equal to not less than 25 percent of the grant amounts under this section are providedfrom non-Federal sources to carry out the homeownership program.
 
 #### (2) Form
 
@@ -100,7 +100,7 @@ The Secretary shall establish selection criteria for assistance under this part,
 
 &emsp;(6) national geographic diversity among housing for which applicants are selected to receive assistance; and
 
-&emsp;(7) the extent to which a sufficient supply of affordable rental housing of the type assisted under this part exists in the locality, so that the implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units.
+&emsp;(7) the extent to which a sufficient supply of affordable rental housing of the type assisted under this part exists in the locality, so thatthe implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units.
 
 #### (f) Approval
 

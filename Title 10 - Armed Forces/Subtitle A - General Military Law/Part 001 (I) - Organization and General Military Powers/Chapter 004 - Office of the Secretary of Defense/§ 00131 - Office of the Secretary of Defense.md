@@ -22,9 +22,7 @@
 
 &emsp;&emsp;(F) The Under Secretary of Defense for Intelligence.
 
-&emsp;(4) The Deputy Chief Management Officer of the Department of Defense.<sup>1</sup>
-
-&emsp;(5) Other officers who are appointed by the President, by and with the advice and consent of the Senate, and who report directly to the Secretary and Deputy Secretary without intervening authority, as follows:
+&emsp;(4) Other officers who are appointed by the President, by and with the advice and consent of the Senate, and who report directly to the Secretary and Deputy Secretary without intervening authority, as follows:
 
 &emsp;&emsp;(A) The Director of Cost Assessment and Program Evaluation.
 
@@ -34,51 +32,51 @@
 
 &emsp;&emsp;(D) The Inspector General of the Department of Defense.
 
-&emsp;(6) The Chief Information Officer of the Department of Defense, who reports directly to the Secretary and Deputy Secretary without intervening authority.
+&emsp;(5) The Chief Information Officer of the Department of Defense, who reports directly to the Secretary and Deputy Secretary without intervening authority.
 
-&emsp;(7) The Deputy Under Secretaries of Defense.
+&emsp;(6) The Deputy Under Secretaries of Defense.
 
-&emsp;(8) The Assistant Secretaries of Defense.
+&emsp;(7) The Assistant Secretaries of Defense.
 
-&emsp;(9) Other officials provided for by law, as follows:
+&emsp;(8) Other officials provided for by law, as follows:
 
 &emsp;&emsp;(A) The two Deputy Directors within the Office of the Director of Cost Assessment and Program Evaluation under section 139a(c) of this title.
 
-&emsp;&emsp;(B) The Deputy Assistant Secretary of Defense for Developmental Test and Evaluation appointed pursuant to section 139b(a) <sup>1</sup> of this title.
+&emsp;&emsp;(B) The Director of Small Business Programs appointed pursuant to section 144 of this title.
 
-&emsp;&emsp;(C) The Deputy Assistant Secretary of Defense for Systems Engineering appointed pursuant to section 139b(b) <sup>1</sup> of this title.
+&emsp;&emsp;(C) The official designated under section 1501(a) of this title to have responsibility for Department of Defense matters relating to missing persons as set forth in section 1501 of this title.
 
-&emsp;&emsp;(D) The Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy appointed pursuant to section 139c <sup>1</sup> of this title.
+&emsp;&emsp;(D) The Director of Military Family Readiness Policy under section 1781 of this title.
 
-&emsp;&emsp;(E) The Director of Small Business Programs appointed pursuant to section 144 of this title.
+&emsp;&emsp;(E) The Director of the Office of Corrosion Policy and Oversight assigned pursuant to section 2228(a) of this title.
 
-&emsp;&emsp;(F) The official designated under section 1501(a) of this title to have responsibility for Department of Defense matters relating to missing persons as set forth in section 1501 of this title.
+&emsp;&emsp;(I) <sup>1</sup> The official designated under section 2438(a) of this title to have responsibility for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs.
 
-&emsp;&emsp;(G) The Director of Military Family Readiness Policy under section 1781 of this title.
-
-&emsp;&emsp;(H) The Director of the Office of Corrosion Policy and Oversight assigned pursuant to section 2228(a) of this title.
-
-&emsp;&emsp;(I) The official designated under section 2438(a) of this title to have responsibility for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs.
-
-&emsp;(10) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.
+&emsp;(9) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.
 
 (c) Officers of the armed forces may be assigned or detailed to permanent duty in the Office of the Secretary of Defense. However, the Secretary may not establish a military staff in the Office of the Secretary of Defense.
 
 (d) The Secretary of each military department, and the civilian employees and members of the armed forces under the jurisdiction of the Secretary, shall cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
 
-(Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, §903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, §901(b)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 110–181, div. A, title IX, §904(a)(4), Jan. 28, 2008, 122 Stat. 274; Pub. L. 110–417, \[div. A\], title X, §1061(b)(7), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–383, div. A, title IX, §901(b)(2), (m)(1), Jan. 7, 2011, 124 Stat. 4317, 4326; Pub. L. 113–291, div. A, title IX, §901(a)(2), (b)(2), (j)(1)(A), (k)(1), (n)(1), Dec. 19, 2014, 128 Stat. 3463, 3467, 3469; Pub. L. 114–328, div. A, title IX, §§901(d), (f), 902(b), 933(a)(3), Dec. 23, 2016, 130 Stat. 2342, 2344, 2364; Pub. L. 115–91, div. A, title IX, §§906(d)(1), 910(c)(1), title X, §1081(b)(1)(A), (D), (d)(9), Dec. 12, 2017, 131 Stat. 1513, 1518, 1597, 1600.)
-
-#### References in Text
-
-The Deputy Chief Management Officer of the Department of Defense, referred to in subsec. (b)(4), was established by section 132a of this title prior to the general amendment of that section by Pub. L. 115–91, div. A, title IX, §910(a)(1), Dec. 12, 2017, 131 Stat. 1516. As amended by Pub. L. 115–91, section 132a of this title established the Chief Management Officer of the Department of Defense.
-
-Section 139b(a) of this title, referred to in subsec. (b)(9)(B) and (C), and section 139c of this title, referred to in subsec. (b)(9)(D), were repealed by Pub. L. 114–328, div. A, title IX, §901(e)(2), Dec. 23, 2016, 130 Stat. 2342. A subsequent section 139b of this title, added by Pub. L. 114–328, div. A, title IX, §922(b)(1), Dec. 23, 2016, 130 Stat. 2355, relates to Special Operations Policy and Oversight Council.
+(Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, §903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, §901(b)(1), Dec. 2, 2002, 116 Stat. 2619; Pub. L. 110–181, div. A, title IX, §904(a)(4), Jan. 28, 2008, 122 Stat. 274; Pub. L. 110–417, \[div. A\], title X, §1061(b)(7), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–383, div. A, title IX, §901(b)(2), (m)(1), Jan. 7, 2011, 124 Stat. 4317, 4326; Pub. L. 113–291, div. A, title IX, §901(a)(2), (b)(2), (j)(1)(A), (k)(1), (n)(1), Dec. 19, 2014, 128 Stat. 3463, 3467, 3469; Pub. L. 114–328, div. A, title IX, §§901(d), (f), 902(b), 933(a)(3), Dec. 23, 2016, 130 Stat. 2342, 2344, 2364; Pub. L. 115–91, div. A, title IX, §§906(d)(1), 910(c)(1), title X, §1081(b)(1)(A), (D), (d)(9), Dec. 12, 2017, 131 Stat. 1513, 1518, 1597, 1600; Pub. L. 115–232, div. A, title X, §1081(a)(3), (f)(1)(B), Aug. 13, 2018, 132 Stat. 1983, 1986.)
 
 #### Prior Provisions
 
 A prior section 131 was renumbered section 111 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(4) to (9). Pub. L. 115–232, §1081(f)(1)(B), redesignated pars. (5) to (10) as (4) to (9), respectively, and struck out former par. (4) which read as follows: "The Deputy Chief Management Officer of the Department of Defense."
+
+Subsec. (b)(9)(B) to (H). Pub. L. 115–232, §1081(a)(3), redesignated subpars. (E) to (H) as (B) to (E), respectively, and struck out former subpars. (B) to (D) which read as follows:
+
+"(B) The Deputy Assistant Secretary of Defense for Developmental Test and Evaluation appointed pursuant to section 139b(a) of this title.
+
+"(C) The Deputy Assistant Secretary of Defense for Systems Engineering appointed pursuant to section 139b(b) of this title.
+
+"(D) The Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy appointed pursuant to section 139c of this title."
+
+Subsec. (b)(10). Pub. L. 115–232, §1081(f)(1)(B), redesignated par. (10) as (9).
 
 <b>2017</b>—Subsec. (b). Pub. L. 115–91, §1081(b)(1)(A), repealed Pub. L. 113–291, §901(j)(1)(A). See 2014 Amendment notes below.
 
@@ -162,10 +160,6 @@ Subsec. (b). Pub. L. 111–383, §901(b)(2), amended subsec. (b) generally. Prio
 
 &emsp;"(10) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office."
 
-#### Change of Name
-
-Reference to "Deputy Chief Management Officer of the Department of Defense" in subsec. (b)(4) was to be deemed to refer to "Under Secretary of Defense for Business Management and Information" after Feb. 1, 2017, pursuant to section 901(n)(1) of Pub. L. 113–291, formerly set out as a note under this section. Section 901(a)(1) of Pub. L. 113–291, which amended section 132a of this title, effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342, effective Dec. 23, 2016. Section 901(n)(1) of Pub. L. 113–291 was repealed by Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective Dec. 23, 2016.
-
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–91, div. A, title IX, §910(c), Dec. 12, 2017, 131 Stat. 1518, provided that the amendment made by section 910(c)(1) is effective on Feb. 1, 2018, and immediately after the coming into effect of the amendments made by section 901 of Pub. L. 114–328 (see Tables for classification).
@@ -204,9 +198,55 @@ Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pu
 
 Pub. L. 104–106, div. A, title IX, §903(a), Feb. 10, 1996, 110 Stat. 401, which provided that the amendments made by section 903 of Pub. L. 104–106 (amending this section and sections 138, 176, 1056, 1216, 1587, and 10201 of this title, repealing sections 133a, 134a, 137, and 142 of this title, and amending provisions set out as a note under section 167 of this title) were to take effect on Jan. 31, 1997, was repealed by Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.
 
+#### Oversight of Registered Sex Offender Management Program
+
+Pub. L. 115–232, div. A, title V, §544, Aug. 13, 2018, 132 Stat. 1763, provided that:
+
+"(a)
+
+Designation of Official or Entity.—The Secretary of Defense shall designate a single official or existing entity within the Office of the Secretary of Defense to serve as the official or entity (as the case may be) with principal responsibility in the Department of Defense for providing oversight of the registered sex offender management program of the Department.
+
+"(b)
+
+Duties.—The official or entity designated under subsection (a) shall—
+
+&emsp;"(1) monitor compliance with Department of Defense Instruction 5525.20 and other relevant polices;
+
+&emsp;"(2) compile data on members serving in the military departments who have been convicted of a qualifying sex offense, including data on the sex offender registration status of each such member;
+
+&emsp;"(3) maintain statistics on the total number of active duty service members in each military department who are required to register as sex offenders; and
+
+&emsp;"(4) perform such other duties as the Secretary of Defense determines to be appropriate.
+
+"(c)
+
+Briefing Required.—Not later than June 1, 2019, the Secretary of Defense shall provide to the Committee on Armed Services of the House of Representatives a briefing on—
+
+&emsp;"(1) the compliance of the military departments with the policies of the Department of Defense relating to registered sex offenders;
+
+&emsp;"(2) the results of the data compilation described in subsection (b)(2); and
+
+&emsp;"(3) any other matters the Secretary determines to be appropriate.
+
+"(d)
+
+Military Departments Defined.—In this section, the term 'military departments' has the meaning given that term in section 101(a)(8) of title 10, United States Code."
+
+#### Framework for Oversight of Countering Weapons of Mass Destruction Policy, Programs, and Activities
+
+Pub. L. 115–232, div. A, title X, §1082(b), (c), Aug. 13, 2018, 132 Stat. 1988, provided that:
+
+"(b)
+
+Oversight Plan.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan to streamline the oversight framework of the Office of the Secretary of Defense, including any efficiencies and the potential to reduce, realign, or otherwise restructure current Assistant Secretary and Deputy Assistant Secretary positions with responsibilities for overseeing countering weapons of mass destruction policy, programs, and activities.
+
+"(c)
+
+Directive.—Not later than 90 days after the submission of the oversight plan under subsection (b), the Secretary of Defense shall issue a directive for the implementation of the oversight plan by the Countering Weapons of Mass Destruction-Unity of Effort Council."
+
 #### Designation of Office Within Office of the Secretary of Defense To Oversee Use of Food Assistance Programs by Members of the Armed Forces on Active Duty
 
-Pub. L. 115–91, div. A, title V, §583, Dec. 12, 2017, 131 Stat. 1416, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall designate an office or official within the Office of the Secretary of Defense for purposes as follows:
+Pub. L. 115–91, div. A, title V, §583, Dec. 12, 2017, 131 Stat. 1416, provided that: "Not later than 90 days afterthe date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall designate an office or official within the Office of the Secretary of Defense for purposes as follows:
 
 &emsp;"(1) To discharge responsibility for overseeing the efforts of the Department of Defense to collect, analyze, and monitor data on the use of food assistance programs by members of the Armed Forces on active duty.
 
@@ -224,7 +264,7 @@ Pub. L. 114–328, div. A, title IX, §913, Dec. 23, 2016, 130 Stat. 2349, provi
 
 "(a)
 
-In General.—The Secretary of Defense serving in that position as of March 1, 2017, may establish within the Office of the Secretary of Defense a unit of personnel that shall be responsible for providing expertise and support throughout the Department of Defense in an effort to improve the implementation of policies andpriorities across the Department. The unit may be known as the 'delivery unit'.
+In General.—The Secretary of Defense serving in that position as of March 1, 2017, may establish within the Office of the Secretary of Defense a unit of personnel that shall be responsible for providing expertise and support throughout the Department of Defense in an effort to improve the implementation of policies and priorities across the Department. The unit may be known as the 'delivery unit'.
 
 "(b)
 
@@ -296,9 +336,9 @@ Pub. L. 104–201, div. A, title IX, §903, Sept. 23, 1996, 110 Stat. 2617, whic
 
 #### Organization of Office of the Secretary of Defense
 
-Pub. L. 104–106, div. A, title IX, §901, Feb. 10, 1996, 110 Stat. 399, as amended by Pub. L. 104–201, div. A, title IX, §903(g), Sept. 23, 1996, 110 Stat. 2618, directed the Secretary of Defense to conduct a review of the organizations and functions of the Office of the Secretary of Defense and the personnel needed to carry out those functions, and to submit to the congressional defense committees a report containing findings, conclusions, and a plan for implementing recommendations not later than Mar. 1, 1996.
+Pub. L. 104–106, div. A, title IX, §901, Feb. 10, 1996, 110 Stat. 399, as amended by Pub. L. 104–201, div. A, title IX, §903(g), Sept. 23, 1996, 110 Stat. 2618, directed the Secretary of Defense to conduct a review of the organizations and functions of the Office of the Secretary ofDefense and the personnel needed to carry out those functions, and to submit to the congressional defense committees a report containing findings, conclusions, and a plan for implementing recommendations not later than Mar. 1, 1996.
 
 Pub. L. 99–433, title I, §109, Oct. 1, 1986, 100 Stat. 999, directed the Secretary of Defense, the Secretaries of the military departments, and the Chairman of the Joint Chiefs of Staff to conduct studies of the functions and organization of the Office of the Secretary of Defense, required the Secretaries of the military departments and the Chairman of the Joint Chiefs of Staff to submit reports on their studies to the Secretary of Defense, and directed the Secretary of Defense to submit a report on the Secretary's study to Congress not later than one year after Oct. 1, 1986.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Former subpars. (F) to (H) redesignated (C) to (E), respectively.</i>
 

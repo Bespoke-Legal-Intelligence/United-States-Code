@@ -4,7 +4,7 @@ Every registered investment company which is a party and every affiliated person
 
 &emsp;(A) is delivered to such company or party defendant, such document shall be filed with the Commission not later than ten days after the receipt thereof; or
 
-&emsp;(B) is filed in such court or delivered by such company or party defendant, such documents shall be filed with the Commission not later than five days after such filing or delivery.
+&emsp;(B) is filed in such court or delivered by such company or party defendant, such documentsshall be filed with the Commission not later than five days after such filing or delivery.
 
 (Aug. 22, 1940, ch. 686, title I, §33, 54 Stat. 839; Pub. L. 91–547, §19, Dec. 14, 1970, 84 Stat. 1428.)
 

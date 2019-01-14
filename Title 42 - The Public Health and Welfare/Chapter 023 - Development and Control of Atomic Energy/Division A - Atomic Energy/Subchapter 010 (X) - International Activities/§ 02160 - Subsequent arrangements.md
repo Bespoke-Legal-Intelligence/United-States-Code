@@ -62,7 +62,7 @@ Notwithstanding section 7172(d) of this title, the Secretary of Energy, and not 
 
 (4) For the purposes of this subsection, the term "foreign spent nuclear fuel" shall include any nuclear fuel irradiated in any nuclear power reactor located outside of the United States and operated by any foreign legal entity, government or nongovernment, regardless of the legal ownership or other control of the fuel or reactor and regardless of the origin or licensing of the fuel or reactor, but not including fuel irradiated in a research reactor.
 
-(Aug. 1, 1946, ch. 724, title I, §131, as added Pub. L. 95–242, title III, §303(a), Mar. 10, 1978, 92 Stat. 127; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 103–437, §15(f)(6), Nov. 2, 1994, 108 Stat.4592; Pub. L. 105–277, div. G, title XII, §1225(d)(6), (7), Oct. 21, 1998, 112 Stat. 2681–774.)
+(Aug. 1, 1946, ch. 724, title I, §131, as added Pub. L. 95–242, title III, §303(a), Mar. 10, 1978, 92 Stat. 127; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 103–437, §15(f)(6), Nov. 2, 1994, 108 Stat. 4592; Pub. L. 105–277, div. G, title XII, §1225(d)(6), (7), Oct. 21, 1998, 112 Stat. 2681–774.)
 
 #### References in Text
 

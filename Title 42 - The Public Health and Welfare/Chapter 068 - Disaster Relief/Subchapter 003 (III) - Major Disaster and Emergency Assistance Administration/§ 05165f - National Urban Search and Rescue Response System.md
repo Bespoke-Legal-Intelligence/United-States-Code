@@ -26,7 +26,7 @@ In this section, the following definitions shall apply:
 
 #### (6) Sponsoring agency
 
-&emsp;The term "sponsoring agency" means a State or local government that is the sponsorof a task force designated by the Administrator to participate in the System.
+&emsp;The term "sponsoring agency" means a State or local government that is the sponsor of a task force designated by the Administrator to participate in the System.
 
 #### (7) System
 
@@ -140,7 +140,7 @@ The Administrator shall maintain such management teams and other technical teams
 
 #### (3) Reimbursement for State or local benefits
 
-&emsp;Subject to such terms and conditions as the Administrator may impose by regulation, if a System member or dependent elects to receive benefits from a State or local government under paragraph (2)(A), the Administrator shall reimburse the State or local government for the value of the benefits.
+&emsp;Subject to such terms and conditions as the Administrator may impose by regulation, if aSystem member or dependent elects to receive benefits from a State or local government under paragraph (2)(A), the Administrator shall reimburse the State or local government for the value of the benefits.
 
 #### (4) Public safety officer claims
 
@@ -178,7 +178,7 @@ Subject to the availability of appropriations for such purpose, the Administrato
 
 #### (m) Response cooperative agreements
 
-The Administrator shall enter into a response cooperative agreement with each sponsoring agency, as appropriate, under which the Administrator agrees to reimburse the sponsoringagency for costs incurred by the sponsoring agency in responding to a major disaster or emergency.
+The Administrator shall enter into a response cooperative agreement with each sponsoring agency, as appropriate, under which the Administrator agrees to reimburse the sponsoring agency for costs incurred by the sponsoring agency in responding to a major disaster or emergency.
 
 #### (n) Obligations
 

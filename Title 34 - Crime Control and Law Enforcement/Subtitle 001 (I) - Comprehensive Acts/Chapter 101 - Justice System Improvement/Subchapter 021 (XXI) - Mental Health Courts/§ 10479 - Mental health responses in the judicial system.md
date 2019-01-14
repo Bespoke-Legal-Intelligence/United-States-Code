@@ -90,7 +90,7 @@ Grants awarded under this section shall be subject to the following accountabili
 
 #### (A) Definition
 
-&emsp;&emsp;In this paragraph, the term "unresolved audit finding" means a finding in the final audit report of the Inspector General of the Department of Justice under subparagraph (C) that the audited grantee has used grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closedor resolved within 1 year after the date on which <sup>1</sup> final audit report is issued.
+&emsp;&emsp;In this paragraph, the term "unresolved audit finding" means a finding in the final audit report of the Inspector General of the Department of Justice under subparagraph (C) that the audited grantee has used grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 1 year after the date on which <sup>1</sup> final audit report is issued.
 
 #### (B) Audits
 
@@ -162,7 +162,7 @@ Grants awarded under this section shall be subject to the following accountabili
 
 #### (1) In general
 
-&emsp;Before the Attorney General awards a grant to an applicant under this section, the Attorney General shall compare the possible grantwith any other grants awarded to the applicant under this Act to determine whether the grants are for the same purpose.
+&emsp;Before the Attorney General awards a grant to an applicant under this section, the Attorney General shall compare the possible grant with any other grants awarded to the applicant under this Act to determine whether the grants are for the same purpose.
 
 #### (2) Report
 

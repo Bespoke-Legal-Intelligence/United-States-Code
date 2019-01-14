@@ -42,7 +42,7 @@ The effective date of this chapter, referred to in subsec. (b)(1), is the effect
 
 <b>1987</b>—Subsec. (a)(1). Pub. L. 100–42, §1(c)(14)(A), struck out ", major fuel-burning installation, or other unit" after "electric powerplant" and ", installation, or unit" after "such powerplant".
 
-Subsec. (a)(2). Pub. L. 100–42, §1(c)(14)(B), (C), struck out ", installation, or other unit" after "powerplant" in introductory provisions, ", installation, or unit" after "powerplant" in subpar. (A), and last sentence which read as follows: "Any powerplant, installation,or other unit permitted to use natural gas or petroleum under an exemption under this paragraph shall establish and carry out effective fuel conservation measures, as determined by the Secretary."
+Subsec. (a)(2). Pub. L. 100–42, §1(c)(14)(B), (C), struck out ", installation, or other unit" after "powerplant" in introductory provisions, ", installation, or unit" after "powerplant" in subpar. (A), and last sentence which read as follows: "Any powerplant, installation, or other unit permitted to use natural gas or petroleum under an exemption under this paragraph shall establish and carry out effective fuel conservation measures, as determined by the Secretary."
 
 Subsec. (a)(3). Pub. L. 100–42, §1(c)(14)(D), struck out par. (3) which read as follows: "Any powerplant, installation, or unit owned or operated by any such Federal agency shall be entitled to any exemption by the Secretary to the same extent, in the same manner, and under the same terms and conditions as would apply if it were owned or operated by a nongovernmental person."
 

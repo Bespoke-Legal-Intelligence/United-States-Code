@@ -20,7 +20,7 @@ The Director shall—
 
 &emsp;&emsp;(B) request applications for grants under this subpart.
 
-(Pub. L. 90–351, title I, §516, as added Pub. L. 101–647, title XVIII, §1801(a)(7), Nov. 29, 1990, 104 Stat. 4848; amended Pub. L. 103–322, title XXXIII,§330001(b)(2), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 110–177, title III, §302(b), Jan. 7, 2008, 121 Stat. 2539.)
+(Pub. L. 90–351, title I, §516, as added Pub. L. 101–647, title XVIII, §1801(a)(7), Nov. 29, 1990, 104 Stat. 4848; amended Pub. L. 103–322, title XXXIII, §330001(b)(2), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 110–177, title III, §302(b), Jan. 7, 2008, 121 Stat. 2539.)
 
 #### Codification
 

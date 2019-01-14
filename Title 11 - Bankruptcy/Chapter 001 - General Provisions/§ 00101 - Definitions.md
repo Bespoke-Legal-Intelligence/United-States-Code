@@ -1436,7 +1436,9 @@ Pub. L. 109–8, title XII, §1226, Apr. 20, 2005, 119 Stat. 199, provided that:
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in par. (3), dollar amount "186,825" was adjusted to "192,450"; in par. (18), dollar amount "4,031,575" was adjusted to "4,153,150" each time it appeared; in par. (19A), dollar amount "1,868,200" was adjusted to "1,924,550" each time it appeared; and, in par. (51D), dollar amount "2,490,925" was adjusted to "2,566,050" each time it appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in par. (3), dollar amount "192,450" was adjusted to "204,425"; in par. (18), dollar amount "4,153,150" was adjusted to "4,411,400" each time it appeared; in par. (19A), dollar amount "1,924,550" was adjusted to "2,044,225" each time it appeared; and, in par. (51D), dollar amount "2,566,050" was adjusted to "2,725,625" each time it appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in par. (3), dollar amount "186,825" was adjusted to "192,450"; in par. (18), dollar amount "4,031,575" was adjusted to "4,153,150" each time it appeared; in par. (19A), dollar amount "1,868,200" was adjusted to "1,924,550" each time it appeared; and, in par. (51D), dollar amount "2,490,925" was adjusted to "2,566,050" each time it appeared.
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in par. (3), dollar amount "175,750" was adjusted to "186,825"; in par. (18), dollar amount "3,792,650" was adjusted to "4,031,575" each time it appeared; in par. (19A), dollar amount "1,757,475" was adjusted to "1,868,200" each time it appeared; and, in par. (51D), dollar amount "2,343,300" was adjusted to "2,490,925" each time it appeared.
 

@@ -48,7 +48,7 @@ Pub. L. 98–618, title VI, §601(d), Nov. 8, 1984, 98 Stat. 3303, provided that
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 98–164, title VI, §604(c), Nov. 22, 1983, 97 Stat. 1044, provided that: "The amendments made by thissection \[amending this section\] shall apply with respect to any Director of the Office of Foreign Missions, and to any Deputy Director of the Office of Foreign Missions, appointed after the date of enactment of this Act \[Nov. 22, 1983\]."
+Pub. L. 98–164, title VI, §604(c), Nov. 22, 1983, 97 Stat. 1044, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to any Director of the Office of Foreign Missions, and to any Deputy Director of the Office of Foreign Missions, appointed after the date of enactment of this Act \[Nov. 22, 1983\]."
 
 #### Effective Date
 

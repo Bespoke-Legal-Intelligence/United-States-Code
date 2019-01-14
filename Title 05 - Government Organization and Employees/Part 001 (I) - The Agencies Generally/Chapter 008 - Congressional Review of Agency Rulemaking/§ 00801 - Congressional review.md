@@ -68,7 +68,7 @@
 
 &emsp;(B) in the case of the House of Representatives, 60 legislative days,
 
-> before the date the Congress adjourns a session of Congress through the date on which the same or succeeding Congress first convenes its next session, section 802 shall apply to such rule in the succeeding session of Congress.
+> before the date the Congress adjourns a session of Congress through the date on which the sameor succeeding Congress first convenes its next session, section 802 shall apply to such rule in the succeeding session of Congress.
 
 (2)(A) In applying section 802 for purposes of such additional review, a rule described under paragraph (1) shall be treated as though—
 

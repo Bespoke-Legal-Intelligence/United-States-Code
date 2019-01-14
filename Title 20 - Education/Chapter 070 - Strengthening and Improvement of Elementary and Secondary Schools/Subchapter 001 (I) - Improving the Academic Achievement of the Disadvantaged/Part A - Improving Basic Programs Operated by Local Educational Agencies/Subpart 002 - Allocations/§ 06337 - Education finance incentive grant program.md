@@ -20,7 +20,7 @@ From funds made available under section 6332(a) of this title the Secretary is a
 
 #### (B) State minimum
 
-&emsp;&emsp;Notwithstanding any other provision of this section or section 6332 of this title, from the total amount available for any fiscalyear to carry out this section, each State shall be allotted at least the lesser of—
+&emsp;&emsp;Notwithstanding any other provision of this section or section 6332 of this title, from the total amount available for any fiscal year to carry out this section, each State shall be allotted at least the lesser of—
 
 &emsp;&emsp;&emsp;(i) 0.35 percent of the total amount reserved under section 6332(a) of this title to carry out this section; or
 
@@ -92,7 +92,7 @@ Funds received by States under this section shall be allocated within States to 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each fiscal year for which the Secretary uses county population data to calculate grants, the weighted child count used to determine a county's allocation under this section is the larger of the twoamounts determined under clauses (ii) and (iii).
+&emsp;&emsp;&emsp;For each fiscal year for which the Secretary uses county population data to calculate grants, the weighted child count used to determine a county's allocation under this section is the larger of the two amounts determined under clauses (ii) and (iii).
 
 #### (ii) By percentage of children
 
@@ -270,7 +270,7 @@ Funds received by States under this section shall be allocated within States to 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each fiscal year for which the Secretary uses local educational agency data,the weighted child count used to determine a local educational agency's grant under this section is the larger of the two amounts determined under clauses (ii) and (iii).
+&emsp;&emsp;&emsp;For each fiscal year for which the Secretary uses local educational agency data, the weighted child count used to determine a local educational agency's grant under this section is the larger of the two amounts determined under clauses (ii) and (iii).
 
 #### (ii) By percentage of children
 
@@ -358,7 +358,7 @@ A prior section 1125A of Pub. L. 89–10 was classified to section 6336 of this 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–95, §1017(1), substituted "funds made available under section 6332(a) of this title" for "funds appropriated under subsection (f) of this section".
+<b>2015</b>—Subsec. (a). Pub. L. 114–95, §1017(1), substituted "funds made available under section 6332(a) of thistitle" for "funds appropriated under subsection (f) of this section".
 
 Subsec. (b)(1)(A). Pub. L. 114–95, §1017(2)(A), substituted "funds made available for any fiscal year to carry out this section" for "funds appropriated pursuant to subsection (f) of this section" in introductory provisions.
 

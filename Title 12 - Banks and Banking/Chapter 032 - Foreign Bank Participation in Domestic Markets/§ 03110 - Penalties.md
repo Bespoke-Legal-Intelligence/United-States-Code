@@ -8,7 +8,7 @@
 
 #### (2) Assessment procedures
 
-&emsp;Any penalty imposed under paragraph (1) may be assessed and collected by the Board or the Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), (H), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section), and any such assessments shall be subject to the provisions of such section.
+&emsp;Any penalty imposed under paragraph (1) may be assessed and collected by the Board orthe Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), (H), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section), and any such assessments shall be subject to the provisions of such section.
 
 #### (3) Hearing procedure
 

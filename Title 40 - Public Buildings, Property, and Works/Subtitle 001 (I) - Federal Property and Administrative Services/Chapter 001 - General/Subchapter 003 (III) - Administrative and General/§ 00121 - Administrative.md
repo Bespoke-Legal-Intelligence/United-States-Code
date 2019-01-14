@@ -18,7 +18,7 @@ Property accounting systems.—The Comptroller General shall cooperate with the 
 
 &emsp;(3)
 
-Compliance review.—From time to time the Comptroller General shall examine the property accounting systems established by executive agencies to determine the extent ofcompliance with prescribed principles and standards and approved systems. The Comptroller General shall report to Congress any failure to comply with the principles and standards or to adequately account for property.
+Compliance review.—From time to time the Comptroller General shall examine the property accounting systems established by executive agencies to determine the extent of compliance with prescribed principles and standards and approved systems. The Comptroller General shall report to Congress any failure to comply with the principles and standards or to adequately account for property.
 
 (c)
 
@@ -88,7 +88,7 @@ Between agencies.—If the Administrator transfers a function from one executive
 
 (f)
 
-Advisory Committees.—The Administrator may establish advisory committees to provide advice on any function of the Administrator under this subtitle. Members of the advisory committees shall serve without compensation but are entitled to transportation and not more than $25 a day instead of expenses under section 5703 of title 5.
+Advisory Committees.—The Administrator may establish advisory committees to provideadvice on any function of the Administrator under this subtitle. Members of the advisory committees shall serve without compensation but are entitled to transportation and not more than $25 a day instead of expenses under section 5703 of title 5.
 
 (g)
 
@@ -234,7 +234,7 @@ Administrator of General Services
 
 (c) Periodically undertake surveys of space requirements and space utilization in the executive agencies.
 
-(d) Ensure, in cooperation with the heads of Executive agencies, that their essential space requirementsare met in a manner that is economically feasible and prudent.
+(d) Ensure, in cooperation with the heads of Executive agencies, that their essential space requirements are met in a manner that is economically feasible and prudent.
 
 (e) Make maximum use of existing Federally controlled facilities which, in his judgment, are adequate or economically adaptable to meeting the space needs of executive agencies.
 
@@ -294,7 +294,7 @@ Sec. 3. (a) When the Secretary determines that a contractor has permanently repl
 
 (b) The head of the contracting department or agency may object to the termination for convenience of a contract or contracts of a contractor determined to have permanently replaced legally striking employees. If the head of the agency so objects, he or she shall set forth the reasons for not terminating the contract or contracts in a response in writing to the Secretary. In such case, the termination for convenience shall not be issued. The head of the contracting agency or department shall report to the Secretary those contracts that have been terminated for convenience under this section.
 
-Sec. 4. (a) When the Secretary determines that a contractor has permanently replaced lawfully striking employees, the Secretary may debar the contractor, thereby making the contractor ineligible to receive government contracts. The Secretary shall notify the Administrator of the General Services Administration of the debarment, and the Administrator shall include the contractor on the consolidated list of debarred contractors. Departments and agencies shall not solicit offers from, award contracts to, or consent to subcontracts with these contractors unless the head of the agency orhis or her designee determines, in writing, that there is a compelling reason for such action, in accordance with the Federal Acquisition Regulation.
+Sec. 4. (a) When the Secretary determines that a contractor has permanently replaced lawfully striking employees, the Secretary may debar the contractor, thereby making the contractor ineligible to receive government contracts. The Secretary shall notify the Administrator of the General Services Administration of the debarment, and the Administrator shall include the contractor on the consolidated list of debarred contractors. Departments and agencies shall not solicit offers from, award contracts to, or consent to subcontracts with these contractors unless the head of the agency or his or her designee determines, in writing, that there is a compelling reason for such action, in accordance with the Federal Acquisition Regulation.
 
 (b) The scope of the debarment normally will be limited to those organizational units of a Federal contractor that the Secretary finds to have permanently replaced lawfully striking workers.
 
@@ -400,7 +400,7 @@ Sec. 5. <i>Duties and Responsibilities</i>. (a) The Committee shall: (1) establi
 
 Sec. 6. <i>Agency Support and Cooperation</i>. (a) <i>Administrative Support</i>. To the extent permitted by law and subject to the availability of appropriations, the Secretary, acting by and through the Assistant Commissioner, shall provide the Committee such administrative services, funds, facilities, staff and other support services as may be necessary for the performance of its functions under this order.
 
-(b) <i>Cooperation</i>. Each executive agency and department shall cooperate and comply with the policies andrecommendations of the Committee issued pursuant to this order, except where the Director of Central Intelligence determines that compliance would jeopardize intelligence sources and methods. To the extent permitted by law and subject to the availability of appropriations, executive agencies and departments shall provide such support as may be necessary to enable the Committee to perform its duties and responsibilities under this order.
+(b) <i>Cooperation</i>. Each executive agency and department shall cooperate and comply with the policies and recommendations of the Committee issued pursuant to this order, except where the Director of Central Intelligence determines that compliance would jeopardize intelligence sources and methods. To the extent permitted by law and subject to the availability of appropriations, executive agencies and departments shall provide such support as may be necessary to enable the Committee to perform its duties and responsibilities under this order.
 
 (c) <i>Compliance</i>. The Secretary shall be responsible for monitoring Federal agency compliance with the policies and recommendations of the Committee.
 
@@ -454,7 +454,7 @@ Sec. 3. <i>Establishment and Responsibilities of Agency Senior Real Property Off
 
 Sec. 4. <i>Establishment of a Federal Real Property Council</i>. (a) A Federal Real Property Council (Council) is established, within the Office of Management and Budget for administrative purposes, to develop guidance for, and facilitate the success of, each agency's asset management plan. The Council shall be composed exclusively of all agency Senior Real Property Officers, the Controller of the Office of Management and Budget, the Administrator of General Services, and any other full-time or permanent part-time Federal officials or employees as deemed necessary by the Chairman of the Council. The Deputy Director for Management of the Office of Management and Budget shall also be a member and shall chair the Council. The Office of Management and Budget shall provide funding and administrative support for the Council, as appropriate.
 
-(b) The Council shall provide a venue for assisting the Senior Real Property Officers in the development and implementation of the agency asset management plans.The Council shall work with the Administrator of General Services to establish appropriate performance measures to determine the effectiveness of Federal real property management. Such performance measures shall include, but are not limited to, evaluating the costs and benefits involved with acquiring, repairing, maintaining, operating, managing, and disposing of Federal real properties at particular agencies. Specifically, the Council shall consider, as appropriate, the following performance measures:
+(b) The Council shall provide a venue for assisting the Senior Real Property Officers in the development and implementation of the agency asset management plans. The Council shall work with the Administrator of General Services to establish appropriate performance measures to determine the effectiveness of Federal real property management. Such performance measures shall include, but are not limited to, evaluating the costs and benefits involved with acquiring, repairing, maintaining, operating, managing, and disposing of Federal real properties at particular agencies. Specifically, the Council shall consider, as appropriate, the following performance measures:
 
 (i) life-cycle cost estimations associated with the agency's prioritized actions;
 

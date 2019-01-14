@@ -12,7 +12,7 @@ The Secretary shall establish standards for qualification as a designated provid
 
 #### (1) In general
 
-&emsp;A State shall provide a designated provider, a team of health care professionals operating with such a provider, or a health team with payments for the provision of health home services to each eligible individual with chronic conditions that selects such provider, team of health care professionals, or health team asthe individual's health home. Payments made to a designated provider, a team of health care professionals operating with such a provider, or a health team for such services shall be treated as medical assistance for purposes of section 1396b(a) of this title, except that, during the first 8 fiscal year quarters that the State plan amendment is in effect, the Federal medical assistance percentage applicable to such payments shall be equal to 90 percent.
+&emsp;A State shall provide a designated provider, a team of health care professionals operating with such a provider, or a health team with payments for the provision of health home services to each eligible individual with chronic conditions that selects such provider, team of health care professionals, or health team as the individual's health home. Payments made to a designated provider, a team of health care professionals operating with such a provider, or a health team for such services shall be treated as medical assistance for purposes of section 1396b(a) of this title, except that, subject to paragraph (4), during the first 8 fiscal year quarters that the State plan amendment is in effect, the Federal medical assistance percentage applicable to such payments shall be equal to 90 percent.
 
 #### (2) Methodology
 
@@ -41,6 +41,46 @@ The Secretary shall establish standards for qualification as a designated provid
 #### (C) Limitation
 
 &emsp;&emsp;The total amount of payments made to States under this paragraph shall not exceed $25,000,000.
+
+#### (4) Special rule relating to substance use disorder health homes
+
+#### (A) In general
+
+&emsp;&emsp;In the case of a State with an SUD-focused State plan amendment approved by the Secretary on or after October 1, 2018, the Secretary may, at the request of the State, extend the application of the Federal medical assistance percentage described in paragraph (1) to payments for the provision of health home services to SUD-eligible individuals under such State plan amendment, in addition to the first 8 fiscal year quarters the State plan amendment is in effect, for the subsequent 2 fiscal year quarters that theState plan amendment is in effect. Nothing in this section shall be construed as prohibiting a State with a State plan amendment that is approved under this section and that is not an SUD-focused State plan amendment from additionally having approved on or after such date an SUD-focused State plan amendment under this section, including for purposes of application of this paragraph.
+
+#### (B) Report requirements
+
+&emsp;&emsp;In the case of a State with an SUD-focused State plan amendment for which the application of the Federal medical assistance percentage has been extended under subparagraph (A), such State shall, at the end of the period of such State plan amendment, submit to the Secretary a report on the following, with respect to SUD-eligible individuals provided health home services under such State plan amendment:
+
+&emsp;&emsp;&emsp;(i) The quality of health care provided to such individuals, with a focus on outcomes relevant to the recovery of each such individual.
+
+&emsp;&emsp;&emsp;(ii) The access of such individuals to health care.
+
+&emsp;&emsp;&emsp;(iii) The total expenditures of such individuals for health care.
+
+> &emsp;&emsp;For purposes of this subparagraph, the Secretary shall specify all applicable measures for determining quality, access, and expenditures.
+
+#### (C) Best practices
+
+&emsp;&emsp;Not later than October 1, 2020, the Secretary shall make publicly available on the internet website of the Centers for Medicare \& Medicaid Services best practices for designing and implementing an SUD-focused State plan amendment, based on the experiences of States that have State plan amendments approved under this section that include SUD-eligible individuals.
+
+#### (D) Definitions
+
+&emsp;&emsp;For purposes of this paragraph:
+
+#### (i) SUD-eligible individuals
+
+&emsp;&emsp;&emsp;The term "SUD-eligible individual" means, with respect to a State, an individual who satisfies all of the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) The individual is an eligible individual with chronic conditions.
+
+&emsp;&emsp;&emsp;&emsp;(II) The individual is an individual with a substance use disorder.
+
+&emsp;&emsp;&emsp;&emsp;(III) The individual has not previously received health home services under any other State plan amendment approved for the State under this section by the Secretary.
+
+#### (ii) SUD-focused State plan amendment
+
+&emsp;&emsp;&emsp;The term "SUD-focused State plan amendment" means a State plan amendment under this section that is designed to provide health home services primarily to SUD-eligible individuals.
 
 #### (d) Hospital referrals
 
@@ -104,7 +144,7 @@ In this section:
 
 #### (3) Health home
 
-&emsp;The term "health home" means a designated provider (including a provider that operates incoordination with a team of health care professionals) or a health team selected by an eligible individual with chronic conditions to provide health home services.
+&emsp;The term "health home" means a designated provider (including a provider that operates in coordination with a team of health care professionals) or a health team selected by an eligible individual with chronic conditions to provide health home services.
 
 #### (4) Health home services
 
@@ -148,11 +188,17 @@ In this section:
 
 &emsp;The term "health team" has the meaning given such term for purposes of section 256a–1 of this title.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1945, as added Pub. L. 111–148, title II, §2703(a), Mar. 23, 2010, 124 Stat. 319.)
+(Aug. 14, 1935, ch. 531, title XIX, §1945, as added Pub. L. 111–148, title II, §2703(a), Mar. 23, 2010, 124 Stat. 319; amended Pub. L. 115–271, title I, §1006(a), Oct. 24, 2018, 132 Stat. 3913.)
 
 #### References in Text
 
-Section 5001 of Public Law 111–5, referred to in subsec. (c)(3)(B), is set out as a note under section 1396d of this title.
+Section 5001 of Public Law 111–5, referred to in subsec. (c)(3)(B), is section 5001 of Pub. L. 111–5, div. B, title V, Feb. 17, 2009, 123 Stat. 496, which was formerly set out as a note under section 1396d of this title.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–271, §1006(a)(1), inserted "subject to paragraph (4)," after "except that,".
+
+Subsec. (c)(4). Pub. L. 115–271, §1006(a)(2), added par. (4).
 
 #### Survey and Interim Report
 

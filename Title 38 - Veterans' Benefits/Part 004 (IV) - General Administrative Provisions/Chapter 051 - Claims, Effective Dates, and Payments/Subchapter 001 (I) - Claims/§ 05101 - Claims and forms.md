@@ -6,13 +6,13 @@
 
 (ii) For purposes of this subparagraph and section 5110 of this title, the earlier of the following dates shall be treated as the date of the receipt of the survivor's application for benefits described in clause (i):
 
-&emsp;(I) The date on which the survivor of a veteran (or the representative of such a survivor) notifies the Secretary of the death of the veteran through a death certificate or other relevant evidence that establishes entitlement to survivors' benefits identified in clause (i).
+&emsp;(I) The date on which the survivor of a veteran (or the representative of such a survivor)notifies the Secretary of the death of the veteran through a death certificate or other relevant evidence that establishes entitlement to survivors' benefits identified in clause (i).
 
 &emsp;(II) The head of any other department or agency of the Federal Government notifies the Secretary of the death of the veteran.
 
 (iii) In notifying the Secretary of the death of a veteran as described in clause (ii)(I), the survivor (or the representative of such a survivor) may submit to the Secretary additional documents relating to such death without being required to file a formal claim.
 
-(2) If an individual has not attained the age of 18 years, is mentally incompetent, or is physically unable to sign a form, a form filed under paragraph (1) for the individual may be signed by a court-appointed representative, a person who is responsible for the care of the individual, including a spouse or other relative, or an attorney in fact or agent authorized to act on behalfof the individual under a durable power of attorney. If the individual is in the care of an institution, the manager or principal officer of the institution may sign the form.
+(2) If an individual has not attained the age of 18 years, is mentally incompetent, or is physically unable to sign a form, a form filed under paragraph (1) for the individual may be signed by a court-appointed representative, a person who is responsible for the care of the individual, including a spouse or other relative, or an attorney in fact or agent authorized to act on behalf of the individual under a durable power of attorney. If the individual is in the care of an institution, the manager or principal officer of the institution may sign the form.
 
 (b)(1) A claim by a surviving spouse or child for compensation or dependency and indemnity compensation shall also be considered to be a claim for death pension and accrued benefits, and a claim by a surviving spouse or child for death pension shall be considered to be a claim for death compensation (or dependency and indemnity compensation) and accrued benefits.
 
@@ -174,7 +174,7 @@ Elements.—The plan required by subsection (a) shall include, at a minimum, the
 
 &emsp;"(15) A timeline, including interim milestones, for promulgating such regulations as may be necessary to carry out the new appeals system and a comparison with historical averages for time required to promulgate regulations of similar complexity and scope.
 
-&emsp;"(16) An outline of the circumstances under which claimants with pending appeals of decisions on legacy claims would be authorized to have their appeals reviewed under the new appeals system.
+&emsp;"(16) An outline of the circumstances under which claimants with pending appeals of decisions on legacyclaims would be authorized to have their appeals reviewed under the new appeals system.
 
 &emsp;"(17) A delineation of the key goals and milestones for reducing the number of pending appeals that are not processed under the new appeals system, including the expected number of appeals, remands, and hearing requests at the Administration and the Board each year, beginning with the one year period beginning on the date of the enactment of this Act \[Aug. 23, 2017\], until there are no longer any appeals pending before the Administration or the Board for a decision on a legacy claim.
 
@@ -322,7 +322,7 @@ In general.—The Board of Veterans' Appeals shall—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) except as provided by clause (ii), decide not more than one fully developed appeal for each four standard appeals decided; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) to the extent practicable, decide each fully developed appeal by the date that is oneyear following the date on which the claimant files the notice of disagreement.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) to the extent practicable, decide each fully developed appeal by the date that is one year following the date on which the claimant files the notice of disagreement.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -518,7 +518,7 @@ Termination of Authority.—The Secretary of Veterans Affairs may not carry out 
 
 &emsp;&emsp;"(F) An assessment of the productivity of employees at the regional offices and at the Board, disaggregated by level of experience of the employees.
 
-&emsp;&emsp;"(G) The average number of days the duration of an appeal is extended because the Secretary secured or attempted to secure an advisory medicalopinion under section 5109 of title 38, United States Code, or \[former\] section 7109 of such title (as in effect on the day before the date of the enactment of this Act \[Aug. 23, 2017\]).
+&emsp;&emsp;"(G) The average number of days the duration of an appeal is extended because the Secretary secured or attempted to secure an advisory medical opinion under section 5109 of title 38, United States Code, or \[former\] section 7109 of such title (as in effect on the day before the date of the enactment of this Act \[Aug. 23, 2017\]).
 
 &emsp;&emsp;"(H) The frequency by which claims are reopened pursuant to section 5108 of such title and the frequency by which such reopening results in an award of benefits.
 
@@ -620,7 +620,7 @@ Duration of pilot program.—The pilot program under this subsection shall be ca
 
 &emsp;"(3)
 
-Program locations.—The pilot program under this subsection shall be carried out at four regional offices of the Department selected by the Secretary for purposes of such pilot program.
+Program locations.—The pilot program under this subsection shall be carried out at four regionaloffices of the Department selected by the Secretary for purposes of such pilot program.
 
 &emsp;"(4)
 
@@ -742,7 +742,7 @@ Information Technology.—The plan developed under subsection (a)(2) shall inclu
 
 &emsp;&emsp;&emsp;"(i) provides the capability to such members, veterans, and dependents to view applications for benefits submitted online; and
 
-&emsp;&emsp;&emsp;"(ii) complies with the provisions of subchapter III of chapter 35 of title 44, United States Code, section 552a of title 5, United States Code, and other relevant security policies and guidelines.
+&emsp;&emsp;&emsp;"(ii) complies with the provisions of subchapter III of chapter 35 of title 44, United States Code,section 552a of title 5, United States Code, and other relevant security policies and guidelines.
 
 &emsp;"(4) The use of electronic examination templates in conjunction with the schedule for rating disabilities under section 1155 of title 38, United States Code.
 
@@ -824,7 +824,7 @@ Report.—Not later than four years after the date of the enactment of this Act 
 
 #### Pilot Program for Use of Contract Physicians for Disability Examinations
 
-Pub. L. 104–275, title V, §504, Oct. 9, 1996, 110 Stat. 3341, as amended by Pub. L. 113–235, div. I, title II, §241, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–315, title I, §109(a)(2), Dec. 16, 2016, 130 Stat. 1544, provided that:
+Pub. L. 104–275, title V, §504, Oct. 9, 1996, 110 Stat. 3341, as amended by Pub. L. 113–235, div. I, title II, §241, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–315, title I, §109(a)(2), Dec. 16, 2016, 130 Stat. 1544; Pub. L. 115–141, div. J, title II, §256, Mar. 23, 2018, 132 Stat. 826; Pub. L. 115–407, title VII, §702(b), Dec. 31, 2018, 132 Stat. 5381, provided that:
 
 "(a)
 
@@ -862,7 +862,7 @@ Physician described.—A physician described in this paragraph is a physician wh
 
 "(d)
 
-Source of Funds.—Payments for contracts under the pilot program under this section shall bemade from amounts available to the Secretary of Veterans Affairs for payment of compensation and pensions.
+Source of Funds.—Expenses of carrying out the pilot program under this section, including payments for pilot program examination travel and incidental expenses under the terms and conditions set forth by 38 U.S.C. 111, shall be reimbursed to the accounts available for the general operating expenses of the Veterans Benefits Administration and information technology systems from amounts available to the Secretary of Veterans Affairs for payment of compensation and pensions.
 
 "(e)
 

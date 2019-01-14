@@ -20,7 +20,7 @@
 
 #### Prior Provisions
 
-A prior section 7365, added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 511, §4165; renumbered §7365, Pub. L. 102–40, title IV, §401(a)(4)(B), May 7, 1991, 105 Stat. 221, which required any corporation established under this subchapter to be subject to applicable State law, was repealed by Pub. L. 111–163, title VIII, §801(b)(2), May 5, 2010, 124 Stat. 1176.
+A prior section 7365, added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 511, §4165; renumbered§7365, Pub. L. 102–40, title IV, §401(a)(4)(B), May 7, 1991, 105 Stat. 221, which required any corporation established under this subchapter to be subject to applicable State law, was repealed by Pub. L. 111–163, title VIII, §801(b)(2), May 5, 2010, 124 Stat. 1176.
 
 #### Amendments
 

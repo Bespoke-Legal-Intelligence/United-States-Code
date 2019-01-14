@@ -2,7 +2,7 @@
 
 (a) <sup>1</sup> The Chief Justice of the United States may designate and assign temporarily any judge of the Court of International Trade to perform judicial duties in any circuit, either in a court of appeals or district court, upon presentation of a certificate of necessity by the chief judge or circuit justice of the circuit in which the need arises.
 
-(June 25, 1948, ch. 646, 62 Stat. 901; July 14, 1956, ch. 589, §3(a), 70 Stat. 532; Pub. L. 85–755, §4, Aug. 25, 1958, 72 Stat. 848; Pub. L. 95–598, title II, §205, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 96–417, title I, §102, title V, §501(8), Oct. 10, 1980, 94 Stat. 1727, 1742; Pub. L. 97–164, title I, §110(a), (b), Apr. 2, 1982, 96 Stat. 29.)
+(June 25, 1948, ch. 646, 62 Stat. 901; July 14, 1956, ch. 589, §3(a), 70 Stat. 532; Pub. L. 85–755, §4, Aug. 25, 1958, 72 Stat. 848; Pub. L. 95–598, title II, §205,Nov. 6, 1978, 92 Stat. 2660; Pub. L. 96–417, title I, §102, title V, §501(8), Oct. 10, 1980, 94 Stat. 1727, 1742; Pub. L. 97–164, title I, §110(a), (b), Apr. 2, 1982, 96 Stat. 29.)
 
 #### Historical and Revision Notes
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending onor commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
 
 #### Jurisdiction of United States Court of Customs and Patent Appeals
 

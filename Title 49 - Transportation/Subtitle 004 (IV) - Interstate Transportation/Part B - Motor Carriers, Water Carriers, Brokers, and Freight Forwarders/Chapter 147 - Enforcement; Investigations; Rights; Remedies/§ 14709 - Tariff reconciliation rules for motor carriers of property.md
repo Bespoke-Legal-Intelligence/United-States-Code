@@ -22,3 +22,7 @@ Provisions similar to those in this section were contained in section 11712 of t
 
 <b>1996</b>—Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of this section" and "December 31, 1995" for "the day before the effective date of this section".
 
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+

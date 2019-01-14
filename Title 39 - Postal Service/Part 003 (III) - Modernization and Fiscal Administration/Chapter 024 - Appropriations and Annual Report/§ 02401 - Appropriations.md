@@ -104,7 +104,7 @@ Pub. L. 103–123, title VII, §703(b), Oct. 28, 1993, 107 Stat. 1267, provided 
 
 Pub. L. 103–123, title VII, §704(c)(2), Oct. 28, 1993, 107 Stat. 1271, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993."
 
-Amendment by Pub. L. 103–31 effective (1) with respect to a State that, on May 20, 1993, has a provision in the constitution of the State that would preclude compliance with section 20501 et seq. of Title 52, Voting and Elections, unless the State maintained separate Federal and State official lists of eligible voters, on the later of Jan. 1, 1996, or the date that is 120 days after the date by which, under the constitution of the State as in effect on May 20, 1993, it would be legally possible to adopt and place into effect any amendments to the constitution of the State that are necessary to permit compliance with section 20501 et seq. of Title 52 without requiring a special election, and (2) with respect to a State not described in cl. (1) on Jan. 1, 1995, see section 13 of Pub. L. 103–31, set out as an Effective Date note under section 20501 of Title 52.
+Amendment by Pub. L. 103–31 effective (1) with respect to a State that, on May 20, 1993, has a provisionin the constitution of the State that would preclude compliance with section 20501 et seq. of Title 52, Voting and Elections, unless the State maintained separate Federal and State official lists of eligible voters, on the later of Jan. 1, 1996, or the date that is 120 days after the date by which, under the constitution of the State as in effect on May 20, 1993, it would be legally possible to adopt and place into effect any amendments to the constitution of the State that are necessary to permit compliance with section 20501 et seq. of Title 52 without requiring a special election, and (2) with respect to a State not described in cl. (1) on Jan. 1, 1995, see section 13 of Pub. L. 103–31, set out as an Effective Date note under section 20501 of Title 52.
 
 #### Effective Date of 1990 Amendment
 
@@ -126,7 +126,7 @@ Pub. L. 96–499, title IV, §415, Dec. 5, 1980, 94 Stat. 2608, provided that: "
 
 #### Effective Date
 
-Subsec. (a) of this section effective July 1, 1971, pursuant to Resolution No. 71–9, of the Board of Governors,and subsecs. (b) and (c) effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+Subsec. (a) of this section effective July 1, 1971, pursuant to Resolution No. 71–9, of the Board of Governors, and subsecs. (b) and (c) effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Termination of Reporting Requirements
 

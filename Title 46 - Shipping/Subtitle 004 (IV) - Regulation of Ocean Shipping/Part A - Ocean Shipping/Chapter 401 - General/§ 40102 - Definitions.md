@@ -38,6 +38,18 @@ Bulk cargo.—The term "bulk cargo" means cargo that is loaded and carried in bu
 
 &emsp;(5)
 
+Certain covered services.—For purposes of sections 41105 and 41307, the term "certain covered services" means, with respect to a vessel—
+
+&emsp;&emsp;(A) the berthing or bunkering of the vessel;
+
+&emsp;&emsp;(B) the loading or unloading of cargo to or from the vessel to or from a point on a wharf or terminal;
+
+&emsp;&emsp;(C) the positioning, removal, or replacement of buoys related to the movement of the vessel; and
+
+&emsp;&emsp;(D) with respect to injunctive relief under section 41307, towing vessel services provided to such a vessel.
+
+&emsp;(6)
+
 Chemical parcel-tanker.—The term "chemical parcel-tanker" means a vessel that has—
 
 &emsp;&emsp;(A) a cargo-carrying capability consisting of individual cargo tanks for bulk chemicals that—
@@ -48,7 +60,7 @@ Chemical parcel-tanker.—The term "chemical parcel-tanker" means a vessel that 
 
 &emsp;&emsp;(B) a valid certificate of fitness under the International Maritime Organization Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk.
 
-&emsp;(6)
+&emsp;(7)
 
 Common carrier.—The term "common carrier"—
 
@@ -66,7 +78,7 @@ Common carrier.—The term "common carrier"—
 
 &emsp;&emsp;&emsp;(ii) only with respect to the carriage of those commodities.
 
-&emsp;(7)
+&emsp;(8)
 
 Conference.—The term "conference"—
 
@@ -74,7 +86,7 @@ Conference.—The term "conference"—
 
 &emsp;&emsp;(B) does not include a joint service, consortium, pooling, sailing, or transshipment agreement.
 
-&emsp;(8)
+&emsp;(9)
 
 Controlled carrier.—The term "controlled carrier" means an ocean common carrier that is, or whose operating assets are, directly or indirectly, owned or controlled by a government, with ownership or control by a government being deemed to exist for a carrier if—
 
@@ -82,7 +94,7 @@ Controlled carrier.—The term "controlled carrier" means an ocean common carrie
 
 &emsp;&emsp;(B) that government has the right to appoint or disapprove the appointment of a majority of the directors, the chief operating officer, or the chief executive officer of the carrier.
 
-&emsp;(9)
+&emsp;(10)
 
 Deferred rebate.—The term "deferred rebate" means a return by a common carrier of any freight money to a shipper, where the return is—
 
@@ -92,19 +104,19 @@ Deferred rebate.—The term "deferred rebate" means a return by a common carrier
 
 &emsp;&emsp;(C) made only if the shipper has agreed to make a further shipment with that or any other common carrier.
 
-&emsp;(10)
+&emsp;(11)
 
 Forest products.—The term "forest products" includes lumber in bundles, rough timber, ties, poles, piling, laminated beams, bundled siding, bundled plywood, bundled core stock or veneers, bundled particle or fiber boards, bundled hardwood, wood pulp in rolls, wood pulp in unitized bales, and paper and paper board in rolls or in pallet or skid-sized sheets.
 
-&emsp;(11)
+&emsp;(12)
 
 Inland division.—The term "inland division" means the amount paid by a common carrier to an inland carrier for the inland portion of through transportation offered to the public by the common carrier.
 
-&emsp;(12)
+&emsp;(13)
 
 Inland portion.—The term "inland portion" means the charge to the public by a common carrier for the non-ocean portion of through transportation.
 
-&emsp;(13)
+&emsp;(14)
 
 Loyalty contract.—The term "loyalty contract" means a contract with an ocean common carrier or agreement providing for—
 
@@ -112,11 +124,11 @@ Loyalty contract.—The term "loyalty contract" means a contract with an ocean c
 
 &emsp;&emsp;(B) a deferred rebate arrangement.
 
-&emsp;(14)
+&emsp;(15)
 
 Marine terminal operator.—The term "marine terminal operator" means a person engaged in the United States in the business of providing wharfage, dock, warehouse, or other terminal facilities in connection with a common carrier, or in connection with a common carrier and a water carrier subject to subchapter II of chapter 135 of title 49.
 
-&emsp;(15)
+&emsp;(16)
 
 Maritime labor agreement.—The term "maritime labor agreement"—
 
@@ -130,7 +142,7 @@ Maritime labor agreement.—The term "maritime labor agreement"—
 
 &emsp;&emsp;(B) does not include an assessment agreement.
 
-&emsp;(16)
+&emsp;(17)
 
 Non-vessel-operating common carrier.—The term "non-vessel-operating common carrier" means a common carrier that—
 
@@ -138,11 +150,11 @@ Non-vessel-operating common carrier.—The term "non-vessel-operating common car
 
 &emsp;&emsp;(B) is a shipper in its relationship with an ocean common carrier.
 
-&emsp;(17)
+&emsp;(18)
 
 Ocean common carrier.—The term "ocean common carrier" means a vessel-operating common carrier.
 
-&emsp;(18)
+&emsp;(19)
 
 Ocean freight forwarder.—The term "ocean freight forwarder" means a person that—
 
@@ -150,11 +162,11 @@ Ocean freight forwarder.—The term "ocean freight forwarder" means a person tha
 
 &emsp;&emsp;(B) processes the documentation or performs related activities incident to those shipments.
 
-&emsp;(19)
+&emsp;(20)
 
 Ocean transportation intermediary.—The term "ocean transportation intermediary" means an ocean freight forwarder or a non-vessel-operating common carrier.
 
-&emsp;(20)
+&emsp;(21)
 
 Service contract.—The term "service contract" means a written contract, other than a bill of lading or receipt, between one or more shippers, on the one hand, and an individual ocean common carrier or an agreement between or among ocean common carriers, on the other, in which—
 
@@ -162,11 +174,11 @@ Service contract.—The term "service contract" means a written contract, other 
 
 &emsp;&emsp;(B) the ocean common carrier or the agreement commits to a certain rate or rate schedule and a defined service level, such as assured space, transit time, port rotation, or similar service features.
 
-&emsp;(21)
+&emsp;(22)
 
 Shipment.—The term "shipment" means all of the cargo carried under the terms of a single bill of lading.
 
-&emsp;(22)
+&emsp;(23)
 
 Shipper.—The term "shipper" means—
 
@@ -180,19 +192,19 @@ Shipper.—The term "shipper" means—
 
 &emsp;&emsp;(E) a non-vessel-operating common carrier that accepts responsibility for payment of all charges applicable under the tariff or service contract.
 
-&emsp;(23)
+&emsp;(24)
 
 Shippers' association.—The term "shippers' association" means a group of shippers that consolidates or distributes freight on a nonprofit basis for the members of the group to obtain carload, truckload, or other volume rates or service contracts.
 
-&emsp;(24)
+&emsp;(25)
 
 Through rate.—The term "through rate" means the single amount charged by a common carrier in connection with through transportation.
 
-&emsp;(25)
+&emsp;(26)
 
 Through transportation.—The term "through transportation" means continuous transportation between origin and destination for which a through rate is assessed and which is offered or performed by one or more carriers, at least one of which is a common carrier, between a United States port or point and a foreign port or point.
 
-(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1523.)
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1523; Pub. L. 115–282, title VII, §704, Dec. 4, 2018, 132 Stat. 4294.)
 
 Historical and Revision Notes
 
@@ -323,4 +335,16 @@ Act of June 19, 1936, referred to in par. (2)(D), is act June 19, 1936, ch. 592,
 The Federal Trade Commission Act, referred to in par. (2)(E), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 The Antitrust Civil Process Act, referred to in par. (2)(F), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
+
+#### Amendments
+
+<b>2018</b>—Pars. (5) to (26). Pub. L. 115–282 added par. (5) and redesignated former pars. (5) to (25) as (6) to (26), respectively.
+
+#### Agreements Unaffected
+
+Pub. L. 115–282, title VII, §714, Dec. 4, 2018, 132 Stat. 4299, provided that: "Nothing in this Act \[probably should be "this title", enacting section 41105A of this title, amending sections 303, 306, 308, 40102, 40104, 40304, 40307, 40901, 40902, 41104, 41105, and 41307 of this title, and enacting provisions set out as notes under sections 305, 40304, 41104, and 41307 of this title\] may be construed—
+
+&emsp;"(1) to limit or amend the definition of 'agreement' in section 40102(1) of title 46, United States Code, with respect to the exclusion of maritime labor agreements; or
+
+&emsp;"(2) to apply to a maritime labor agreement (as defined in section 40102(15) of that title)."
 

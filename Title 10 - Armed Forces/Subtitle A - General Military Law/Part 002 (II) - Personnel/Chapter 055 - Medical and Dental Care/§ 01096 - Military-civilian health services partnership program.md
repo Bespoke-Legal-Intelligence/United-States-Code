@@ -62,7 +62,7 @@ Elements of Systems.—Each military-civilian integrated health delivery system 
 
 &emsp;"(1) deliver high quality health care as measured by leading national health quality measurement organizations;
 
-&emsp;"(2) achieve greater efficiency in the delivery of health care by identifying and implementing within each such system improvement opportunities that guide patients through the entire continuum of care, thereby reducing variations in the delivery of health care and preventing medical errors and duplication of medical services;
+&emsp;"(2) achieve greater efficiency in the delivery of health care by identifying and implementing withineach such system improvement opportunities that guide patients through the entire continuum of care, thereby reducing variations in the delivery of health care and preventing medical errors and duplication of medical services;
 
 &emsp;"(3) improve population-based health outcomes by using a team approach to deliver case management, prevention, and wellness services to high-need and high-cost patients;
 

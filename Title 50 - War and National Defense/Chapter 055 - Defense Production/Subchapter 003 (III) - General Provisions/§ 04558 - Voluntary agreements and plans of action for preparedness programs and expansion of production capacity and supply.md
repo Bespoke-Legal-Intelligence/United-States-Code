@@ -30,13 +30,13 @@ For purposes of this chapter—
 
 #### (d) Advisory committees; establishment; applicable provisions; membership; notice and participation in meetings; verbatim transcript; availability to public
 
-(1) To achieve the objectives of subsection (c)(1) of this section, the President or any individual designated pursuant to subsection (c)(2) may provide for the establishment of such advisory committees as he determines are necessary.In addition to the requirements specified in this section and except as provided in subsection (n), any such advisory committee shall be subject to the provisions of the Federal Advisory Committee Act, whether or not such Act or any of its provisions expire or terminate during the term of this chapter or of such committees, and in all cases such advisory committees shall be chaired by a Federal employee (other than an individual employed pursuant to section 3109 of title 5) and shall include representatives of the public. The Attorney General and the Federal Trade Commission shall have adequate advance notice of any meeting and may have an official representative attend and participate in any such meeting.
+(1) To achieve the objectives of subsection (c)(1) of this section, the President or any individual designated pursuant to subsection (c)(2) may provide for the establishment of such advisory committees as he determines are necessary. In addition to the requirements specified in this section and except as provided in subsection (n), any such advisory committee shall be subject to the provisions of the Federal Advisory Committee Act, whether or not such Act or any of its provisions expire or terminate during the term of this chapter or of such committees, and in all cases such advisory committees shall be chaired by a Federal employee (other than an individual employed pursuant to section 3109 of title 5) and shall include representatives of the public. The Attorney General and the Federal Trade Commission shall have adequate advance notice of any meeting and may have an official representative attend and participate in any such meeting.
 
 (2) A full and complete verbatim transcript shall be kept of such advisory committee meetings, and shall be taken and deposited, together with any agreement resulting therefrom, with the Attorney General and the Federal Trade Commission. Such transcript and agreement shall be made available for public inspection and copying, subject to the provisions of paragraphs (1), (3), and (4) of section 552(b) of title 5.
 
 #### (e) Rules; promulgation by Presidential designees; consultation by Attorney General with Chairman of Federal Trade Commission; approval of Attorney General; procedures; incorporation of standards and procedures for development of agreements and plans of action
 
-(1) The individual or individuals referred to in subsection (c)(2) shall, after approval of the Attorney General, after consultation by the Attorney General with the Chairman of the Federal Trade Commission, promulgate rules, in accordance with section 553 of title 5, incorporating standards and procedures by which voluntary agreements and plans of action may be developed and carried out.
+(1) The individual or individuals referred to in subsection (c)(2) shall, after approval of the Attorney General, after consultation by the Attorney General with the Chairman of the Federal Trade Commission, promulgate rules, in accordance with section 553 of title 5, incorporating standards and procedures by which voluntaryagreements and plans of action may be developed and carried out.
 
 (2) In addition to the requirements of section 553 of title 5—
 
@@ -104,7 +104,7 @@ The rules promulgated under subsection (e) with respect to the carrying out of v
 
 &emsp;(1) for the maintenance, by participants in any voluntary agreement or plan of action, of documents, minutes of meetings, transcripts, records, and other data related to the carrying out of any voluntary agreement or plan of action;
 
-&emsp;(2) that participants in any voluntary agreement or plan of action agree, in writing, to make available to the individual designated by the President in subsection (c)(2) to administer the voluntary agreement or plan of action, the Attorney General and the Chairman of the Federal Trade Commission for inspection and copying at reasonable times and upon reasonable notice any item maintained pursuant to paragraph (1);
+&emsp;(2) that participants in any voluntary agreement or plan of action agree, in writing, to make available to the individual designated by the President in subsection (c)(2) to administer the voluntary agreement or plan of action, the Attorney General and the Chairman of the Federal Trade Commission for inspection and copying at reasonable times and uponreasonable notice any item maintained pursuant to paragraph (1);
 
 &emsp;(3) that any item made available to the individual designated by the President in subsection (c)(2) to administer the voluntary agreement or plan of action, the Attorney General, or the Chairman of the Federal Trade Commission pursuant to paragraph (2) shall be available from such individual, the Attorney General, or the Chairman of the Federal Trade Commission, as the case may be, for public inspection and copying, subject to paragraph (1), (3), or (4) of section 552(b) of title 5;
 
@@ -188,7 +188,7 @@ Notwithstanding any other provision of law, the Federal Advisory Committee Act (
 
 In any action in any Federal or State court for breach of contract, there shall be available as a defense that the alleged breach of contract was caused predominantly by action taken during an emergency to carry out a voluntary agreement or plan of action authorized and approved in accordance with this section. Such defense shall not release the party asserting it from any obligation under applicable law to mitigate damages to the greatest extent possible.
 
-(Sept. 8, 1950, ch. 932, title VII, §708, 64 Stat. 818; June 30, 1952, ch. 530, title I, §116(c), 66 Stat. 305; Aug. 9, 1955, ch. 655, §6, 69 Stat. 581; Pub. L.87–305, §5(b), Sept. 26, 1961, 75 Stat. 667; Pub. L. 91–151, title I, §9, Dec. 23, 1969, 83 Stat. 376; Pub. L. 94–152, §3, Dec. 16, 1975, 89 Stat. 810; Pub. L. 102–99, §5, Aug. 17, 1991, 105 Stat. 487; Pub. L. 111–67, §9, Sept. 30, 2009, 123 Stat. 2018.)
+(Sept. 8, 1950, ch. 932, title VII, §708, 64 Stat. 818; June 30, 1952, ch. 530, title I, §116(c), 66 Stat. 305; Aug. 9, 1955, ch. 655, §6, 69 Stat. 581; Pub. L. 87–305, §5(b), Sept. 26, 1961, 75 Stat. 667; Pub. L. 91–151, title I, §9, Dec. 23, 1969, 83 Stat. 376; Pub. L. 94–152, §3, Dec. 16, 1975, 89 Stat. 810; Pub. L. 102–99, §5, Aug. 17, 1991, 105 Stat. 487; Pub. L. 111–67, §9, Sept. 30, 2009, 123 Stat. 2018.)
 
 #### References in Text
 
@@ -282,7 +282,7 @@ Subsecs. (n), (o). Pub. L. 102–99, §5(21), added subsecs. (n) and (o).
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–152 substituted provisions relating to immunity from civil and criminal liability under the antitrust laws for provisions authorizing President to approve voluntary programs and agreements under this chapter.
 
-Subsec. (b). Pub. L. 94–152 substituted definition of "antitrust laws" for provisions exempting under certain conditions acts or omissions to act pursuant tothis chapter from the antitrust laws or the Federal Trade Commission Act.
+Subsec. (b). Pub. L. 94–152 substituted definition of "antitrust laws" for provisions exempting under certain conditions acts or omissions to act pursuant to this chapter from the antitrust laws or the Federal Trade Commission Act.
 
 Subsec. (c). Pub. L. 94–152 restructured subsec. (c) into pars. (1) and (2), and, as so restructured, inserted provisions of par. (1) authorizing President to consult with leaders of industry, finance, agriculture and labor with a view to developing voluntary agreements to help provide for the defense of the United States whenever he finds conditions exist which pose a threat to the national defense or preparedness programs and transferred existing provisions to par. (2), and, as transferred, substituted provisions which authorized President to delegate authority granted to him in par. (1) of this subsection and under subsec. (d) of this section, for provisions authorizing delegation of authority of subsec. (b) of this section.
 

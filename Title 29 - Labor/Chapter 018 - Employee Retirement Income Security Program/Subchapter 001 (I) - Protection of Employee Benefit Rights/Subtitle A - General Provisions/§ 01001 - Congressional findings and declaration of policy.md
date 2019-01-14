@@ -2,7 +2,7 @@
 
 #### (a) Benefit plans as affecting interstate commerce and the Federal taxing power
 
-The Congress finds that the growth in size, scope, and numbers of employee benefit plans in recent years has been rapid and substantial; that the operational scope and economic impact of such plans is increasingly interstate; that the continued well-being and security of millions of employees and their dependents are directly affected by these plans; that they are affected with a national public interest; that they have become an important factor affecting the stability of employment and the successful development of industrial relations; that they have become an important factor in commerce because of the interstate character of their activities, and of the activities of their participants, and the employers, employee organizations, and other entities by which they are established or maintained; that a large volume of the activities of such plans are carried on by means of the mails and instrumentalities of interstate commerce; that owing to the lack of employee information and adequate safeguards concerning their operation, it is desirable in the interests of employees and their beneficiaries, and to provide for the general welfare and the free flow of commerce, that disclosure be made and safeguards be provided with respect to the establishment, operation, and administration of such plans; that they substantially affect the revenues of the United States because they are afforded preferential Federal tax treatment; that despite the enormous growth in such plans many employees with long years of employment are losing anticipated retirement benefits owing to the lack of vesting provisions in such plans; that owing to the inadequacy of current minimum standards, the soundness and stability of plans with respect to adequate funds to pay promised benefits may be endangered; that owing to the termination of plans before requisite funds have been accumulated, employees and their beneficiaries have been deprived of anticipated benefits; and that it is therefore desirable in the interests of employees and their beneficiaries, for the protection of the revenue of the United States, and to provide for the free flow of commerce, that minimum standards be provided assuring the equitable character of such plans and their financial soundness.
+The Congress finds that the growth in size, scope, and numbers of employee benefit plans in recent years has been rapid and substantial; that the operational scope and economic impact of such plans is increasingly interstate; that thecontinued well-being and security of millions of employees and their dependents are directly affected by these plans; that they are affected with a national public interest; that they have become an important factor affecting the stability of employment and the successful development of industrial relations; that they have become an important factor in commerce because of the interstate character of their activities, and of the activities of their participants, and the employers, employee organizations, and other entities by which they are established or maintained; that a large volume of the activities of such plans are carried on by means of the mails and instrumentalities of interstate commerce; that owing to the lack of employee information and adequate safeguards concerning their operation, it is desirable in the interests of employees and their beneficiaries, and to provide for the general welfare and the free flow of commerce, that disclosure be made and safeguards be provided with respect to the establishment, operation, and administration of such plans; that they substantially affect the revenues of the United States because they are afforded preferential Federal tax treatment; that despite the enormous growth in such plans many employees with long years of employment are losing anticipated retirement benefits owing to the lack of vesting provisions in such plans; that owing to the inadequacy of current minimum standards, the soundness and stability of plans with respect to adequate funds to pay promised benefits may be endangered; that owing to the termination of plans before requisite funds have been accumulated, employees and their beneficiaries have been deprived of anticipated benefits; and that it is therefore desirable in the interests of employees and their beneficiaries, for the protection of the revenue of the United States, and to provide for the free flow of commerce, that minimum standards be provided assuring the equitable character of such plans and their financial soundness.
 
 #### (b) Protection of interstate commerce and beneficiaries by requiring disclosure and reporting, setting standards of conduct, etc., for fiduciaries
 
@@ -146,7 +146,7 @@ Joint and survivor annuity provisions of employee retirement income security act
 
 &emsp;&emsp;"(D) as of the date of the enactment of this Act \[Aug. 23, 1984\], the participant's annuity starting date has not occurred and the participant is alive,
 
-> &emsp;then such participant may elect to have section 205 of the Employee Retirement Income Security Act of 1974 \[section 1055 of this title\] and section 401(a)(11) of the Internal Revenue Code of 1986 \[section 401(a)(11) of Title 26\] (as in effect on the day before the date of the enactment of this Act) apply.
+> &emsp;then such participant may elect to have section 205 of the Employee Retirement Income Security Act of 1974 \[section 1055 of this title\] and section 401(a)(11) ofthe Internal Revenue Code of 1986 \[section 401(a)(11) of Title 26\] (as in effect on the day before the date of the enactment of this Act) apply.
 
 &emsp;"(2)
 
@@ -296,7 +296,7 @@ Except as otherwise provided in Sections 104 and 106 of this Plan, all authority
 
 &emsp;EXCEPT for subsection 411(a)(3)(B) of the Code \[26 U.S.C. 411(a)(3)(B)\] and the definitions of "collectively bargained plan" and "collective bargaining agreement" contained in subsections 404 (a)(1)(B) and (a)(1)(C), 410 (b)(2)(A) and (b)(2)(B), and 413(a)(1) of the Code \[26 U.S.C. 404(a)(1)(B) and (a)(1)(C), 410 (b)(2)(A) and (b)(2)(B), and 413(a)(1)\]; and
 
-(c) regulations, rulings, and opinions under subsections 3(19), 3(22), 3(23), 3(24), 3(25), 3(27), 3(28), 3(29), 3(30), and 3(31) of Subtitle A of Title I of ERISA \[29 U.S.C. 1002(19), (22), (23), (24), (25), (27), (28), (29), (30), and (31)\]. \[As amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.\]
+(c) regulations, rulings, and opinions under subsections 3(19), 3(22), 3(23), 3(24), 3(25), 3(27), 3(28), 3(29), 3(30), and 3(31) of Subtitle A of Title I of ERISA \[29 U.S.C. 1002(19), (22), (23), (24), (25), (27), (28), (29), (30),and (31)\]. \[As amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.\]
 
 #### Sec. 102. Transfer to the Secretary of Labor
 
@@ -320,7 +320,7 @@ The transfers provided for in Section 101 of this Plan shall not affect the abil
 
 #### Sec. 105. Enforcement by the Secretary of the Treasury
 
-The transfers provided for in Section 102 of this Plan shall not affect the ability of the Secretary of the Treasury, subject to the provisions of Title III of ERISA \[29 U.S.C. 1201 et seq.\] relating to jurisdiction, administration, and enforcement, (a) to audit plans and employers and to enforce the excise tax provisions of subsections 4975(a) and 4975(b) of the Code \[26 U.S.C. 4975(a) and (b)\], to exercise the authority set forth in subsections 502(b)(1) and 502(h) of ERISA \[29 U.S.C. 1132(b)(1) and (h)\], or to exercise the authority set forth in Title III of ERISA, including the ability to make interpretations necessary to audit, to enforce such taxes, and to exercise such authority; and (b) consistent with the coordination requirements under Section 103 of this Plan, to disqualify, under section 401 of the Code \[26 U.S.C. 401\], a plan subject to Part 4 of Subtitle B of Title I of ERISA \[29 U.S.C. 1101 et seq.\], including the ability to make the interpretations necessary to make such disqualification. However, in enforcing such excisetaxes and, to the extent applicable, in disqualifying such plans the Secretary of the Treasury shall be bound by the regulations, rulings, opinions, and exemptions issued by the Secretary of Labor pursuant to the authority transferred to the Secretary of Labor as provided in Section 102 of this Plan.
+The transfers provided for in Section 102 of this Plan shall not affect the ability of the Secretary of the Treasury, subject to the provisions of Title III of ERISA \[29 U.S.C. 1201 et seq.\] relating to jurisdiction, administration, and enforcement, (a) to audit plans and employers and to enforce the excise tax provisions of subsections 4975(a) and 4975(b) of the Code \[26 U.S.C. 4975(a) and (b)\], to exercise the authority set forth in subsections 502(b)(1) and 502(h) of ERISA \[29 U.S.C. 1132(b)(1) and (h)\], or to exercise the authority set forth in Title III of ERISA, including the ability to make interpretations necessary to audit, to enforce such taxes, and to exercise such authority; and (b) consistent with the coordination requirements under Section 103 of this Plan, to disqualify, under section 401 of the Code \[26 U.S.C. 401\], a plan subject to Part 4 of Subtitle B of Title I of ERISA \[29 U.S.C. 1101 et seq.\], including the ability to make the interpretations necessary to make such disqualification. However, in enforcing such excise taxes and, to the extent applicable, in disqualifying such plans the Secretary of the Treasury shall be bound by the regulations, rulings, opinions, and exemptions issued by the Secretary of Labor pursuant to the authority transferred to the Secretary of Labor as provided in Section 102 of this Plan.
 
 #### Sec. 106. Coordination for Section 101 Transfer
 
@@ -340,7 +340,7 @@ The transfers provided for in Section 102 of this Plan shall not affect the abil
 
 #### Sec. 107. Evaluation
 
-On or before January 31, 1980, the President will submit to both Houses of the Congress an evaluation of the extent to which this Reorganization Plan has alleviated the problems associated with the present administrative structure under ERISA, accompanied by specific legislative recommendations for a long-term administrative structure under ERISA.
+On or before January 31, 1980, the President will submit to both Houses of the Congress an evaluation of theextent to which this Reorganization Plan has alleviated the problems associated with the present administrative structure under ERISA, accompanied by specific legislative recommendations for a long-term administrative structure under ERISA.
 
 #### Sec. 108. Incidental Transfers
 
@@ -372,7 +372,7 @@ The Reorganization Plan is the most significant result of their joint effort to 
 
 1\) Treasury will have statutory authority for minimum standards. The new plan puts all responsibility for funding, participation, and vesting of benefit rights in the Department of Treasury. These standards are necessary to ensure that employee benefit plans are adequately funded and that all beneficiary rights are protected. Treasury is the most appropriate Department to administer these provisions; however, Labor will continue to have veto power over Treasury decisions that significantly affect collectively bargained plans.
 
-2\) Labor will have statutory authority for fiduciary obligations. ERISA prohibits transactions in which self-interest or conflict of interest could occur, but allows certain exemptions from these prohibitions. Laborwill be responsible for overseeing fiduciary conduct under these provisions.
+2\) Labor will have statutory authority for fiduciary obligations. ERISA prohibits transactions in which self-interest or conflict of interest could occur, but allows certain exemptions from these prohibitions. Labor will be responsible for overseeing fiduciary conduct under these provisions.
 
 3\) Both Departments will retain enforcement powers. The Reorganization Plan will continue Treasury's authority to audit plans and levy tax penalties for any deviation from standards. The plan will also continue Labor's authority to bring civil action against plans and fiduciaries. These provisions are retained in order to keep the special expertise of each Department available. New coordination between the Departments will eliminate duplicative investigations of alleged violations.
 
@@ -407,6 +407,52 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Executive Order No. 12262
 
 Ex. Ord. No. 12262, Jan. 7, 1981, 46 F.R. 2313, which established the Interagency Employee Benefit Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §9, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+#### Ex. Ord. No. 13847. Strengthening Retirement Security in America
+
+Ex. Ord. No. 13847, Aug. 31, 2018, 83 F.R. 45321, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It shall be the policy of the Federal Government to expand access to workplace retirement plans for American workers. According to the Bureau of Labor Statistics, 23 percent of all private-sector, full-time workers lack access to a workplace retirement plan. That percentage increases to 34 percent when part-time workers are taken into account. Small businesses are less likely to offer retirement benefits. In 2017, approximately 89 percent of workers at private-sector establishments with 500 or more workers were offered a retirement plan compared to only 53 percent for workers at private-sector establishments with fewer than 100 workers. Enhancing workplace retirement plan coverage is critical to ensuring that American workers will be financially prepared to retire.
+
+Regulatory burdens and complexity can be costly and discourage employers, especially small businesses, from offering workplace retirement plans to their employees. Businesses are sensitive to the overall expense of setting up such plans. A recent survey by the Pew Charitable Trusts found that 71 percent of small- and medium-sized businesses that do not offer retirement plans were deterred from doing so by high costs; 37 percent cited high costs as their main reason for not offering such a plan. Federal agencies should revise or eliminate rules and regulations that impose unnecessary costs and burdens on businesses, especially small businesses, and that hinder formation of workplace retirement plans.
+
+Expanding access to multiple employer plans (MEPs), under which employees of different private-sector employers may participate in a single retirement plan, is an efficient way to reduce administrative costs of retirement plan establishment and maintenance and would encourage more plan formation and broader availability of workplace retirement plans, especially among small employers.
+
+Similarly, reducing the number and complexity of employee benefit plan notices and disclosures currently required would ease regulatory burdens. The costs and potential liabilities for employers and plan fiduciaries of complying with existing disclosure requirements may discourage plan formation or maintenance. Improving the effectiveness of required notices and disclosures and reducing their cost to employers promote retirement security by expanding access to workplace retirement plans.
+
+Outdated distribution mandates may also reduce plan effectiveness by forcing retirees to make excessively large withdrawals from their accounts—potentially leaving them with insufficient savings in their later years.
+
+In light of the foregoing it shall, therefore, be the policy of the Federal Government to address these problems and promote retirement security for America's workers.
+
+Sec. 2. <i>Improving Retirement Security</i>. (a) <i>Expanding access to Multiple Employer Plans and Other Retirement Plan Options</i>.
+
+(i) The Secretary of Labor shall examine policies that would:
+
+&emsp;(1) clarify and expand the circumstances under which United States employers, especially small and mid-sized businesses, may sponsor or adopt a MEP as a workplace retirement option for their employees, subject to appropriate safeguards; and
+
+&emsp;(2) increase retirement security for part-time workers, sole proprietors, working owners, and other entrepreneurial workers with non-traditional employer-employee relationships by expanding their access to workplace retirement plans, including MEPs.
+
+(ii) Within 180 days of the date of this order \[Aug. 31, 2018\], the Secretary of Labor shall consider, consistent with applicable law and the policy set forth in section 1 of this order, whether to issue a notice of proposed rulemaking, other guidance, or both, that would clarify when a group or association of employers or other appropriate business or organization could be an "employer" within the meaning of section 3(5) of the Employee Retirement Income Security Act of 1974 (ERISA), 29 U.S.C. 1002(5).
+
+(b) <i>Qualification Requirements for Multiple Employer Plans</i>. Within 180 days of the date of this order, the Secretary of the Treasury shall consider proposing amendments to regulations or other guidance, consistent with applicable law and the policy set forth in section 1 of this order, regarding the circumstances under which a MEP may satisfy the tax qualification requirements set forth in the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\], including the consequences if one or more employers that sponsored or adopted the plan fails to take one or more actions necessary to meet those requirements. The Secretary of the Treasury shall consult with the Secretary of Labor in advance of issuing any such proposed guidance, and the Secretary of Labor shall take steps to facilitate the implementation of any guidance, as appropriate and consistent with applicable law.
+
+(c) <i>Improving the Effectiveness of and Reducing the Cost of Furnishing Required Notices and Disclosures</i>. Within 1 year of the date of this order, the Secretary of Labor shall, in consultation with the Secretary of the Treasury, complete a review of actions that could be taken through regulation or guidance, or both, to make retirement plan disclosures required under ERISA \[Pub. L. 93–406, 29 U.S.C. 1001 et seq.\] and the Internal Revenue Code of 1986 more understandable and useful for participants and beneficiaries, while also reducing the costs and burdens they impose on employers and other plan fiduciaries responsible for their production and distribution. This review shall include an exploration of the potential for broader use of electronic delivery as a way to improve the effectiveness of disclosures and to reduce their associated costs and burdens. If the Secretary of Labor finds that action should be taken, the Secretary shall, in consultation with the Secretary of the Treasury, consider proposing appropriate regulations or guidance, consistent with applicable law and the policy set forth in section 1 of this order.
+
+(d) <i>Updating Life Expectancy and Distribution Period Tables for Purposes of Required Minimum Distribution Rules</i>. Within 180 days of the date of this order, the Secretary of the Treasury shall, consistent with applicable law and the policy set forth in section 1 of this order, examine the life expectancy and distribution period tables in the regulations on required minimum distributions from retirement plans (67 <i>Fed. Reg</i>. 18988) and determine whether they should be updated to reflect current mortality data and whether such updates should be made annually or on another periodic basis.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against theUnited States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> As amended September 20, 1978.</i>
 

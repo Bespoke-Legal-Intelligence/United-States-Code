@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the daily accrual with respect to any residual interestfor any day in any calendar quarter shall be determined by allocating to each day in such quarter its ratable portion of the product of—
+&emsp;&emsp;For purposes of this subsection, the daily accrual with respect to any residual interest for any day in any calendar quarter shall be determined by allocating to each day in such quarter its ratable portion of the product of—
 
 &emsp;&emsp;&emsp;(i) the adjusted issue price of such interest at the beginning of such quarter, and
 
@@ -142,7 +142,7 @@ If a residual interest in a REMIC is held by a real estate investment trust, und
 
 &emsp;&emsp;&emsp;(iii) any organization to which part I of subchapter T applies.
 
-> &emsp;&emsp;Except as provided in regulations, a person holding an interest in a pass-thru entity asa nominee for another person shall, with respect to such interest, be treated as a pass-thru entity.
+> &emsp;&emsp;Except as provided in regulations, a person holding an interest in a pass-thru entity as a nominee for another person shall, with respect to such interest, be treated as a pass-thru entity.
 
 #### (C) Tax to be deductible
 

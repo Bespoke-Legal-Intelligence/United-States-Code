@@ -34,7 +34,7 @@ In accordance with subsection (f), after an appraisal investigation is submitted
 
 &emsp;&emsp;&emsp;(ii) the eligibility criteria developed under section 2402(c) of this title;
 
-&emsp;&emsp;(B) whether viable water supplies and water rights exist to supply the project, including all practicable water sources such aslower quality waters, nonpotable waters, and water reuse-based water supplies;
+&emsp;&emsp;(B) whether viable water supplies and water rights exist to supply the project, including all practicable water sources such as lower quality waters, nonpotable waters, and water reuse-based water supplies;
 
 &emsp;&emsp;(C) whether the project has a positive effect on public health and safety;
 

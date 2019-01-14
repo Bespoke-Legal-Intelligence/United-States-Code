@@ -6,7 +6,7 @@ If on account of a disability or death for which compensation is payable under t
 
 #### (b) Acceptance of compensation operating as assignment
 
-Acceptance of compensation under an award in a compensation order filed by the deputy commissioner, an administrative law judge, or the Board shall operate as an assignment to the employer of all rights of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such acceptance. If the employer fails to commence an action against such third person within ninety days after the cause of action is assigned under this section, the right to bring such action shall revert to the person entitled to compensation. For the purpose of this subsection, the term "award" with respect to a compensation order means a formal order issued by the deputy commissioner, an administrative law judge, or Board.
+Acceptance of compensation under an award in a compensation order filed by the deputy commissioner, an administrative law judge, or the Board shall operate as an assignment to the employer of all rights of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within sixmonths after such acceptance. If the employer fails to commence an action against such third person within ninety days after the cause of action is assigned under this section, the right to bring such action shall revert to the person entitled to compensation. For the purpose of this subsection, the term "award" with respect to a compensation order means a formal order issued by the deputy commissioner, an administrative law judge, or Board.
 
 #### (c) Payment into section 944 fund operating as assignment
 
@@ -40,7 +40,7 @@ If the person entitled to compensation institutes proceedings within the period 
 
 (1) If the person entitled to compensation (or the person's representative) enters into a settlement with a third person referred to in subsection (a) for an amount less than the compensation to which the person (or the person's representative) would be entitled under this chapter, the employer shall be liable for compensation as determined under subsection (f) only if written approval of the settlement is obtained from the employer and the employer's carrier, before the settlement is executed, and by the person entitled to compensation (or the person's representative). The approval shall be made on a form provided by the Secretary and shall be filed in the office of the deputy commissioner within thirty days after the settlement is entered into.
 
-(2) If no written approval of the settlement is obtained and filed as required by paragraph (1), or if the employee fails to notify the employer of any settlement obtained from or judgment rendered against a third person, all rights tocompensation and medical benefits under this chapter shall be terminated, regardless of whether the employer or the employer's insurer has made payments or acknowledged entitlement to benefits under this chapter.
+(2) If no written approval of the settlement is obtained and filed as required by paragraph (1), or if the employee fails to notify the employer of any settlement obtained from or judgment rendered against a third person, all rights to compensation and medical benefits under this chapter shall be terminated, regardless of whether the employer or the employer's insurer has made payments or acknowledged entitlement to benefits under this chapter.
 
 (3) Any payments by the special fund established under section 944 of this title shall be a lien upon the proceeds of any settlement obtained from or judgment rendered against a third person referred to under subsection (a). Notwithstanding any other provision of law, such lien shall be enforceable against such proceeds, regardless of whether the Secretary on behalf of the special fund has agreed to or has received actual notice of the settlement or judgment.
 
@@ -54,7 +54,7 @@ Where the employer is insured and the insurance carrier has assumed the payment 
 
 The right to compensation or benefits under this chapter shall be the exclusive remedy to an employee when he is injured, or to his eligible survivors or legal representatives if he is killed, by the negligence or wrong of any other person or persons in the same employ: <i>Provided</i>, That this provision shall not affect the liability of a person other than an officer or employee of the employer.
 
-(Mar. 4, 1927, ch. 509, §33, 44 Stat. 1440; June 25, 1938, ch. 685, §§12, 13, 52 Stat. 1168; Pub. L. 86–171, Aug. 18, 1959, 73 Stat. 391; Pub. L. 92–576, §15(f)–(h), Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, §21, Sept. 28, 1984, 98 Stat. 1652.)
+(Mar. 4, 1927, ch. 509, §33, 44 Stat. 1440; June 25, 1938, ch. 685, §§12, 13, 52 Stat. 1168; Pub. L. 86–171,Aug. 18, 1959, 73 Stat. 391; Pub. L. 92–576, §15(f)–(h), Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, §21, Sept. 28, 1984, 98 Stat. 1652.)
 
 #### Amendments
 
@@ -88,7 +88,7 @@ Subsec. (g). Pub. L. 86–171 corrected reference to "subsection (e)" to read "s
 
 Subsecs. (h), (i). Pub. L. 86–171 redesignated subsec. (i) as (h) and struck out former subsec. (h) that permitted the deputy commissioner to make an election for a minor or to authorize the parent or guardian to make the election.
 
-<b>1938</b>—Subsec. (b). Act June 25, 1938, §12, inserted "under an award in a compensation order filed by thedeputy commissioner" and struck out ", whether or not the person entitled to compensation has notified the deputy commissioner of his election" at end of sentence.
+<b>1938</b>—Subsec. (b). Act June 25, 1938, §12, inserted "under an award in a compensation order filed by the deputy commissioner" and struck out ", whether or not the person entitled to compensation has notified the deputy commissioner of his election" at end of sentence.
 
 Subsec. (e). Act June 25, 1938, §12, redesignated par. (1)(C) as par. (1)(C) and (D) and included in said par. (1)(D) the present value of the cost of benefits furnished.
 

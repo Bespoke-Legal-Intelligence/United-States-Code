@@ -16,7 +16,7 @@ The application of subsection (a) of this section shall include, but shall not b
 
 &emsp;(B) For all purposes under the laws of the United States, including actions in any court in the United States, recognition of the People's Republic of China shall not affect in any way the ownership of or other rights or interests in properties, tangible and intangible, and other things of value, owned or held on or prior to December 31, 1978, or thereafter acquired or earned by the governing authorities on Taiwan.
 
-&emsp;(4) Whenever the application of the laws of the United States depends upon the law that is or was applicable on Taiwan or compliance therewith, the law applied by the people on Taiwan shall be considered the applicable law for that purpose.
+&emsp;(4) Whenever the application of the laws of the United States depends upon the law that is or was applicable on Taiwan or compliance therewith, the law applied by the people onTaiwan shall be considered the applicable law for that purpose.
 
 &emsp;(5) Nothing in this chapter, nor the facts of the President's action in extending diplomatic recognition to the People's Republic of China, the absence of diplomatic relations between the people on Taiwan and the United States, or the lack of recognition by the United States, and attendant circumstances thereto, shall be construed in any administrative or judicial proceeding as a basis for any United States Government agency, commission, or department to make a finding of fact or determination of law, under the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] and the Nuclear Non-Proliferation Act of 1978 \[22 U.S.C. 3201 et seq.\], to deny an export license application or to revoke an existing export license for nuclear exports to Taiwan.
 
@@ -24,7 +24,7 @@ The application of subsection (a) of this section shall include, but shall not b
 
 &emsp;(7) The capacity of Taiwan to sue and be sued in courts in the United States, in accordance with the laws of the United States, shall not be abrogated, infringed, modified, denied, or otherwise affected in any way by the absence of diplomatic relations or recognition.
 
-&emsp;(8) No requirement, whether expressed or implied, under the laws of the United States with respect to maintenance of diplomatic relationsor recognition shall be applicable with respect to Taiwan.
+&emsp;(8) No requirement, whether expressed or implied, under the laws of the United States with respect to maintenance of diplomatic relations or recognition shall be applicable with respect to Taiwan.
 
 #### (c) Treaties and other international agreements
 

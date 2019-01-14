@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, act Aug. 27, 1954, ch. 1011, §1, 68 Stat. 878, which authorized a $50 payment to each member of the Red Lake Band of Chippewa Indians of Minnesota aliveon Aug. 27, 1954, from proceeds of the sale of timber and lumber within the Red Lake Reservation, was omitted from the Code as being of special and not general application.
+Section, act Aug. 27, 1954, ch. 1011, §1, 68 Stat. 878, which authorized a $50 payment to each member of the Red Lake Band of Chippewa Indians of Minnesota alive on Aug. 27, 1954, from proceeds of the sale of timber and lumber within the Red Lake Reservation, was omitted from the Code as being of special and not general application.
 

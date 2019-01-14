@@ -22,7 +22,7 @@ Members of the Advisory Board appointed by the President shall, while attending 
 
 #### (f) Procurement powers of Advisory Board
 
-The Advisory Board may, to the extent it deems necessary to carry out its functions under this section, procure supplies, services, andother personal property, including specialized electronic equipment.
+The Advisory Board may, to the extent it deems necessary to carry out its functions under this section, procure supplies, services, and other personal property, including specialized electronic equipment.
 
 #### (g) Indefinite life span of Advisory Board
 
@@ -42,7 +42,7 @@ There are authorized to be appropriated $130,000 to carry out the provisions of 
 
 This subchapter, referred to in subsec. (a), was in the original "this division", and was translated as reading "this Act", meaning Pub. L. 98–111, which enacted this subchapter, to reflect the probable intent of Congress.
 
-The Television Broadcasting to Cuba Act, referred to in subsec. (b), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
+The Television Broadcasting to Cuba Act, referred to in subsec. (b), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of this chapter. For complete classification of this Act tothe Code, see Short Title note set out under section 1465aa of this title and Tables.
 
 #### Codification
 

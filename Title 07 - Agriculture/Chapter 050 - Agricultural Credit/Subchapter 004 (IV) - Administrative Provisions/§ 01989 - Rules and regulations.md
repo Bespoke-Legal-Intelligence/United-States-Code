@@ -32,7 +32,7 @@ Notwithstanding subsection (a), in providing farmer program loan guarantees unde
 
 &emsp;Notwithstanding any other provision of law:
 
-&emsp;&emsp;(A) The Secretary shall guarantee 80 percent of a loan made under this subsection bya certified lending institution as described in paragraph (1), subject to county committee certification that the borrower of the loan meets the eligibility requirements and such other criteria as may be applicable to loans guaranteed by the Secretary under other provisions of this chapter.
+&emsp;&emsp;(A) The Secretary shall guarantee 80 percent of a loan made under this subsection by a certified lending institution as described in paragraph (1), subject to county committee certification that the borrower of the loan meets the eligibility requirements and such other criteria as may be applicable to loans guaranteed by the Secretary under other provisions of this chapter.
 
 &emsp;&emsp;(B) With respect to loans to be guaranteed by the Secretary under this subsection, the Secretary shall permit certified lending institutions to make appropriate certifications (as provided by regulations issued by the Secretary)—
 
@@ -66,7 +66,7 @@ Notwithstanding subsection (a), in providing farmer program loan guarantees unde
 
 #### (3) Condition of certification
 
-&emsp;As a condition of such preferred certification, the Secretary shall require the institution to undertake to service the loans guaranteed by the Secretary under this subsection using generally accepted banking standards concerning loan servicing employed by prudent commercial or cooperative lenders. The Secretary shall, at least annually, monitor the performance of each preferred certified lender to ensure that the conditions of such certification are being met.
+&emsp;As a condition of such preferred certification, the Secretary shall require the institution to undertake to service the loans guaranteed by the Secretary under this subsection using generally accepted banking standardsconcerning loan servicing employed by prudent commercial or cooperative lenders. The Secretary shall, at least annually, monitor the performance of each Preferred Certified Lender to ensure that the conditions of such certification are being met.
 
 #### (4) Effect of preferred lender certification
 
@@ -82,13 +82,15 @@ Notwithstanding subsection (a), in providing farmer program loan guarantees unde
 
 The Secretary may administer the loan guarantee programs under subsections (c) and (d) through central offices established in States or in multi-State areas.
 
-(Pub. L. 87–128, title III, §339, Aug. 8, 1961, 75 Stat. 318; Pub. L. 102–554, §18, Oct. 28, 1992, 106 Stat. 4155; Pub. L. 106–31, title III, §3019(a), May 21, 1999, 113 Stat. 99; Pub. L. 107–171, title V, §5309, May 13, 2002, 116 Stat. 346.)
+(Pub. L. 87–128, title III, §339, Aug. 8, 1961, 75 Stat. 318; Pub. L. 102–554, §18, Oct. 28, 1992, 106 Stat. 4155; Pub. L. 106–31, title III, §3019(a), May 21, 1999, 113 Stat. 99; Pub. L. 107–171, title V, §5309, May 13, 2002, 116 Stat. 346; Pub. L. 115–334, title V, §5401(d), Dec. 20, 2018, 132 Stat. 4674.)
 
 #### References in Text
 
-For definition of "this chapter", referred to in text, see note set out under section 1921 of this title.
+This chapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(3). Pub. L. 115–334 substituted "Preferred Certified Lender" for "preferred certified lender".
 
 <b>2002</b>—Subsec. (e). Pub. L. 107–171 added subsec. (e).
 
@@ -102,7 +104,7 @@ Pub. L. 102–554, §23, Oct. 28, 1992, 106 Stat. 4161, provided that:
 
 "(a)
 
-Interim Regulations.—Not later than 180 days after the date of enactment of this Act \[Oct. 28, 1992\], the Secretary of Agriculture shall issue such interimregulations as are necessary to implement this Act \[see Short Title of 1992 Amendment note set out under section 1921 of this title\] and the amendments made by this Act.
+Interim Regulations.—Not later than 180 days after the date of enactment of this Act \[Oct. 28, 1992\], the Secretary of Agriculture shall issue such interim regulations as are necessary to implement this Act \[see Short Title of 1992 Amendment note set out under section 1921 of this title\] and the amendments made by this Act.
 
 "(b)
 
@@ -124,5 +126,5 @@ Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 429, provided in part that:
 
 #### Coordinated Financial Statements; Use of Submission Requirement Prohibited
 
-Pub. L. 99–198, title XIII, §1325, Dec. 23, 1985, 99 Stat. 1540, provided that: "The Secretary of Agriculture shall not use or require the submission of the coordinated financial statement referred to in the proposed regulations of the Farmers Home Administration published in the Federal Register of November 8, 1983 (48 F.R. 51312–51317) in connection with an application submitted on or after the date of the enactment of this Act \[Dec. 23, 1985\] for any loan under any program of the Department of Agriculture carried out by the Farmers Home Administration."
+Pub. L. 99–198, title XIII, §1325, Dec. 23, 1985, 99 Stat. 1540, provided that: "The Secretary of Agriculture shall not use or require the submission of the coordinated financial statement referred to in the proposed regulations of the Farmers Home Administration published in the Federal Register of November 8, 1983 (48 F.R. 51312–51317) in connection with an application submitted on or after the date of the enactment of this Act\[Dec. 23, 1985\] for any loan under any program of the Department of Agriculture carried out by the Farmers Home Administration."
 

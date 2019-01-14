@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau of Consumer Financial Protection shalljointly, by rule, establish minimum requirements to be applied by a State in the registration of appraisal management companies. Such requirements shall include a requirement that such companies—
+The Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau of Consumer Financial Protection shall jointly, by rule, establish minimum requirements to be applied by a State in the registration of appraisal management companies. Such requirements shall include a requirement that such companies—
 
 &emsp;(1) register with and be subject to supervision by a State appraiser certifying and licensing agency in each State in which such company operates;
 

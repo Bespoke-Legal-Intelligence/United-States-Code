@@ -20,7 +20,7 @@ In evaluating the farming plan and financial situation of an applicant under thi
 
 #### (c) Contract
 
-The Secretary may contract with a third party (including those entities eligible to provide borrower training under section 2006a(b) of this title) to conduct loan assessments under this section.
+The Secretary may contract with a third party (including those entities eligible to provide borrower training under section 2006a(b) ofthis title) to conduct loan assessments under this section.
 
 #### (d) Review of loans
 
@@ -44,7 +44,7 @@ The Secretary shall issue regulations providing guidelines for loan assessments 
 
 #### References in Text
 
-For definition of "this chapter", referred to in subsecs. (a), (b)(5), and (d)(1), (3), see note set out under section 1921 of this title.
+This chapter, referred to in subsecs. (a), (b)(5), and (d)(1), (3), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Amendments
 

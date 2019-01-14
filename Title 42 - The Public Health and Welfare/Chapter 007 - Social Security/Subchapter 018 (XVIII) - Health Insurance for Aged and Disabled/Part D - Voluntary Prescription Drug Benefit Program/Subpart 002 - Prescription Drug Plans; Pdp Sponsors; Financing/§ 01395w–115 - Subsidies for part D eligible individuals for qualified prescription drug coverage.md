@@ -26,7 +26,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (2) Allowable reinsurance costs
 
-&emsp;For purposes of this section, the term "allowable reinsurance costs" means, with respect to gross covered prescription drug costs under a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of such costs that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization or by (or on behalf of) an enrollee under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were standard prescription drug coverage.
+&emsp;For purposes of this section, the term "allowable reinsurance costs" means, with respect to gross covered prescription drug costs under a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of such costs that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization or by (or on behalf of) an enrollee under the plan, but in no casemore than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were standard prescription drug coverage.
 
 #### (3) Gross covered prescription drug costs
 
@@ -96,7 +96,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (4) Application of enrollee adjustment
 
-&emsp;The provisions of section 1395w–23(a)(2) of this title shall apply to payments to PDP sponsors under this section in the same manner as they apply to payments to MA organizations under section 1395w–23(a) of this title.
+&emsp;The provisions of section 1395w–23(a)(2) of this title shall apply to payments to PDPsponsors under this section in the same manner as they apply to payments to MA organizations under section 1395w–23(a) of this title.
 
 #### (e) Portion of total payments to a sponsor or organization subject to risk (application of risk corridors)
 
@@ -146,7 +146,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (i) Costs between first and second threshold lower limits
 
-&emsp;&emsp;&emsp;If the adjusted allowable risk corridor costs for the plan for the year are less than the first threshold lower limit, but not less than the second threshold lower limit, of the risk corridor for the plan for the year, the Secretary shall reduce the total of the payments made to the sponsor or organization offering the plan for the year under this section by an amount (or otherwise recover from the sponsor or organization an amount) equal to 50 percent (or, for 2006 and 2007, 75 percent) of the difference between the first threshold lower limit of the risk corridor and such adjusted allowable risk corridor costs.
+&emsp;&emsp;&emsp;If the adjusted allowable risk corridor costs for the plan for the year are less than the first threshold lower limit, but not less than the second threshold lower limit, of the risk corridor for the plan for the year,the Secretary shall reduce the total of the payments made to the sponsor or organization offering the plan for the year under this section by an amount (or otherwise recover from the sponsor or organization an amount) equal to 50 percent (or, for 2006 and 2007, 75 percent) of the difference between the first threshold lower limit of the risk corridor and such adjusted allowable risk corridor costs.
 
 #### (ii) Costs below second threshold lower limit
 

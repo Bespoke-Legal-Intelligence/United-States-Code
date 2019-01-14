@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction
 
-The several district courts of the United States are vested with jurisdiction specificallyto enforce, and to prevent and restrain any person from violating, any order or regulation made or issued under this chapter.
+The several district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating, any order or regulation made or issued under this chapter.
 
 #### (b) Referral to Attorney General
 

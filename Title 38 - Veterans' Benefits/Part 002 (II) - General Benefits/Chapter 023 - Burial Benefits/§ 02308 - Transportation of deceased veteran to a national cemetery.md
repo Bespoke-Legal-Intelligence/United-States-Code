@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary may pay, in addition to any amount paid pursuant to section 2302 or 2307 of this title, the cost of transportation of the deceased veteran described in subsection (b) for burial in a national cemetery. Such payment shall not exceed the cost of transportation to the national cemetery nearest the veteran's last place of residence in which burial space is available.
+In General.—The Secretary may pay, in addition to any amount paid pursuant to section 2302 or 2307 of this title, the cost of transportation of the deceased veteran described in subsection (b) for burial in a national cemetery.Such payment shall not exceed the cost of transportation to the national cemetery nearest the veteran's last place of residence in which burial space is available.
 
 (b)
 

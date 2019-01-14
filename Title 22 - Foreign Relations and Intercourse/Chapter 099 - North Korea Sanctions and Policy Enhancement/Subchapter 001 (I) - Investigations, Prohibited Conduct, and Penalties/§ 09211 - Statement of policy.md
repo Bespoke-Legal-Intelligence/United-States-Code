@@ -4,7 +4,7 @@ In order to achieve the peaceful disarmament of North Korea, Congress finds that
 
 &emsp;(1) to encourage all member states of the United Nations to fully and promptly implement United Nations Security Council Resolution 2094 (2013);
 
-&emsp;(2) to sanction the persons, including financial institutions, that facilitate proliferation, illicit activities, arms trafficking, cyberterrorism, imports of luxury goods, serious human rights abuses, cash smuggling, and censorship by the Government of North Korea;
+&emsp;(2) to sanction the persons, including financial institutions, that facilitate proliferation, illicit activities, arms trafficking,cyberterrorism, imports of luxury goods, serious human rights abuses, cash smuggling, and censorship by the Government of North Korea;
 
 &emsp;(3) to authorize the President to sanction persons who fail to exercise due diligence to ensure that such financial institutions and member states do not facilitate proliferation, arms trafficking, kleptocracy, or imports of luxury goods by the Government of North Korea;
 

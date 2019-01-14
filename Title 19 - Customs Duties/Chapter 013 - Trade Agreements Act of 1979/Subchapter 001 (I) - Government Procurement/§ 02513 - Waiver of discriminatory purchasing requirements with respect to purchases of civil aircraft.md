@@ -6,7 +6,7 @@ The President may waive the application of the provisions of chapter 83 of title
 
 #### Codification
 
-In text, "chapter 83 of title 41" substituted for "title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.),popularly referred to as the Buy American Act," on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In text, "chapter 83 of title 41" substituted for "title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.), popularly referred to as the Buy American Act," on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
@@ -14,7 +14,7 @@ In text, "chapter 83 of title 41" substituted for "title III of the Act of March
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in section 3511(d)(17) of this title, enters into force with respect to the United States \[Jan. 1, 1995\], see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
+Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in section 3511(d)(17) of this title, enters into force with respect to the United States (Jan. 1, 1995), see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
 
 #### Effective Date
 

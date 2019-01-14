@@ -16,7 +16,7 @@ Except as provided in this section, a risk retention group is exempt from any St
 
 &emsp;&emsp;(E) submit to an examination by the State insurance commissioners in any State in which the group is doing business to determine the group's financial condition, if—
 
-&emsp;&emsp;&emsp;(i) the commissioner of the jurisdiction in which the group is chartered has notbegun or has refused to initiate an examination of the group; and
+&emsp;&emsp;&emsp;(i) the commissioner of the jurisdiction in which the group is chartered has not begun or has refused to initiate an examination of the group; and
 
 &emsp;&emsp;&emsp;(ii) any such examination shall be coordinated to avoid unjustified duplication and unjustified repetition;
 

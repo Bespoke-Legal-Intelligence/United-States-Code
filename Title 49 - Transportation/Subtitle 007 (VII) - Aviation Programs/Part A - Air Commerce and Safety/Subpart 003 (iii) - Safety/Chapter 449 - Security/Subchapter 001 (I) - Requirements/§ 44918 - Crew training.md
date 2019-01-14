@@ -20,7 +20,7 @@ Program elements.—An air carrier training program under this subsection shall 
 
 &emsp;&emsp;(D) Appropriate responses to defend oneself.
 
-&emsp;&emsp;(E) Use of protective devices assigned to crew members (to the extent such devices are required by the Administrator of the Federal Aviation Administration or the Under Secretary for Border and Transportation Security of the Department of Homeland Security).
+&emsp;&emsp;(E) Use of protective devices assigned to crew members (to the extent such devices are required by the Administrator of the Federal Aviation Administration or the Administrator of the Transportation Security Administration).
 
 &emsp;&emsp;(F) Psychology of terrorists to cope with hijacker behavior and passenger responses.
 
@@ -30,27 +30,27 @@ Program elements.—An air carrier training program under this subsection shall 
 
 &emsp;&emsp;(I) The proper conduct of a cabin search, including explosive device recognition.
 
-&emsp;&emsp;(J) Any other subject matter considered appropriate by the Under Secretary.
+&emsp;&emsp;(J) Any other subject matter considered appropriate by the Administrator of the Transportation Security Administration.
 
 &emsp;(3)
 
-Approval.—An air carrier training program under this subsection shall be subject to approval by the Under Secretary.
+Approval.—An air carrier training program under this subsection shall be subject to approval by the Administrator of the Transportation Security Administration.
 
 &emsp;(4)
 
-Minimum standards.—Not later than one year after the date of enactment of the Vision100—Century of Aviation Reauthorization Act, the Under Secretary may establish minimum standards for the training provided under this subsection and for recurrent training.
+Minimum standards.—The Administrator of the Transportation Security Administration may establish minimum standards for the training provided under this subsection and for recurrent training.
 
 &emsp;(5)
 
-Existing programs.—Notwithstanding paragraphs (3) and (4), any training program of an air carrier to prepare flight and cabin crew members for potential threat conditions that was approved by the Administrator or the Under Secretary before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act may continue in effect until disapproved or ordered modified by the Under Secretary.
+Existing programs.—Notwithstanding paragraphs (3) and (4), any training program of an air carrier to prepare flight and cabin crew members for potential threat conditions that was approved by the Administrator or the Administrator of the Transportation Security Administration before December 12, 2003, may continue in effect until disapproved or ordered modified by the Administrator of the Transportation Security Administration.
 
 &emsp;(6)
 
-Monitoring.—The Under Secretary, in consultation with the Administrator, shall monitor air carrier training programs under this subsection and periodically shall review an air carrier's training program to ensure that the program is adequately preparing crew members for potential threat conditions. In determining when an air carrier's training program should be reviewed under this paragraph, the Under Secretary shall consider complaints from crew members. The Under Secretary shall ensure that employees responsible for monitoring the training programs have the necessary resources and knowledge.
+Monitoring.—The Administrator of the Transportation Security Administration, in consultation with the Administrator, shall monitor air carrier training programs under this subsection and periodically shall review an air carrier's training program to ensure that the program is adequately preparing crew members for potential threat conditions. In determining when an air carrier's training program should be reviewed under this paragraph, the Administrator of the Transportation Security Administration shall consider complaints from crew members. The Administrator of the Transportation Security Administration shall ensure that employees responsible for monitoring the training programs have the necessary resources and knowledge.
 
 &emsp;(7)
 
-Updates.—The Under Secretary, in consultation with the Administrator, shall order air carriers to modify training programs under this subsection to reflect new or different security threats.
+Updates.—The Administrator of the Transportation Security Administration, in consultation with the Administrator, shall order air carriers to modify training programsunder this subsection to reflect new or different security threats.
 
 (b)
 
@@ -58,7 +58,7 @@ Advanced Self-Defense Training.—
 
 &emsp;(1)
 
-In general.—Not later than one year after the date of enactment of the Vision 100—Century of Aviation Reauthorization Act, the Under Secretary shall develop and provide a voluntary training program for flight and cabin crew members of air carriers providing scheduled passenger air transportation.
+In general.—The Administrator of the Transportation Security Administration shall develop and provide a voluntary training program for flight and cabin crew members of air carriers providing scheduled passenger air transportation.
 
 &emsp;(2)
 
@@ -76,7 +76,7 @@ Program elements.—The training program under this subsection shall include bot
 
 &emsp;&emsp;(F) Appropriate and effective responses to defend oneself, including the use of force against an attacker.
 
-&emsp;&emsp;(G) Any other element of training that the Under Secretary considers appropriate.
+&emsp;&emsp;(G) Any other element of training that the Administrator of the Transportation Security Administration considers appropriate.
 
 &emsp;(3)
 
@@ -92,23 +92,31 @@ Fees.—A crew member shall not be required to pay a fee for the training progra
 
 &emsp;(6)
 
-Consultation.—In developing the training program under this subsection, the Under Secretary shall consult with law enforcement personnel and security experts who have expertise in self-defense training, terrorism experts, representatives of air carriers, the director of self-defense training in the Federal Air Marshals Service, flight attendants, labor organizations representing flight attendants, and educational institutions offering law enforcement training programs.
+Consultation.—In developing the training program under this subsection, the Administrator of the Transportation Security Administration shall consult with law enforcement personnel and security experts who have expertise in self-defense training, terrorism experts, representatives of air carriers, the director of self-defense training in the Federal Air Marshal Service, flight attendants, labor organizations representing flight attendants, and educational institutions offering law enforcement training programs.
 
 &emsp;(7)
 
-Designation of tsa official.—The Under Secretary shall designate an official in the Transportation Security Administration to be responsible for implementing the training program under this subsection. The official shall consult with air carriers and labor organizations representing crew members before implementing the program to ensure that it is appropriate for situations that may arise on board an aircraft during a flight.
+Designation of tsa official.—The Administrator of the Transportation Security Administration shall designate an official in the Transportation Security Administration to be responsible for implementing the training program under this subsection. The official shall consult with air carriers and labor organizations representing crew members before implementing the program to ensure that it is appropriate for situations that may arise on board an aircraft during a flight.
 
 (c)
 
 Limitation.—Actions by crew members under this section shall be subject to the provisions of section 44903(k).
 
-(Added Pub. L. 107–71, title I, §107(a), Nov. 19, 2001, 115 Stat. 610; amended Pub. L. 107–296, title XIV, §1403(a), Nov. 25, 2002, 116 Stat. 2305; Pub. L. 108–176, title VI, §603, Dec. 12, 2003, 117 Stat. 2563.)
-
-#### References in Text
-
-The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsecs. (a)(4), (5) and (b)(1), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
+(Added Pub. L. 107–71, title I, §107(a), Nov. 19, 2001, 115 Stat. 610; amended Pub. L. 107–296, title XIV, §1403(a), Nov. 25, 2002, 116 Stat. 2305; Pub. L. 108–176, title VI, §603, Dec. 12, 2003, 117 Stat. 2563; Pub. L. 115–254, div. K, title I, §1991(d)(16), Oct. 5, 2018, 132 Stat. 3635.)
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–254, §1991(d)(16)(C), substituted "Administrator of the Transportation Security Administration" for "Under Secretary" wherever appearing.
+
+Subsec. (a)(2)(E). Pub. L. 115–254, §1991(d)(16)(A)(i), substituted "Administrator of the Transportation Security Administration" for "Under Secretary for Border and Transportation Security of the Department of Homeland Security".
+
+Subsec. (a)(4). Pub. L. 115–254, §1991(d)(16)(A)(ii), substituted "The" for "Not later than one year after the date of enactment of the Vision 100—Century of Aviation Reauthorization Act, the".
+
+Subsec. (a)(5). Pub. L. 115–254, §1991(d)(16)(A)(iii), substituted "December 12, 2003," for "the date of enactment of the Vision 100—Century of Aviation Reauthorization Act".
+
+Subsec. (b)(1). Pub. L. 115–254, §1991(d)(16)(B)(i), substituted "The" for "Not later than one year after the date of enactment of the Vision 100—Century of Aviation Reauthorization Act, the".
+
+Subsec. (b)(6). Pub. L. 115–254, §1991(d)(16)(B)(ii), substituted "Federal Air Marshal Service" for "Federal Air Marshals Service".
 
 <b>2003</b>—Pub. L. 108–176 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to development of detailed guidance for a scheduled passenger air carrier flight and cabin crew training program to prepare crew members for potential threat conditions.
 
@@ -121,4 +129,8 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
+#### Crew Member Self-Defense Training
+
+Pub. L. 115–254, div. K, title I, §1960, Oct. 5, 2018, 132 Stat. 3600, provided that: "The Administrator \[of the Transportation Security Administration\], in consultation with the Administrator of the Federal Aviation Administration, shall continue to carry out and encourage increased participation by air carrier employees in the voluntary self-defense training program under section 44918(b) of title 49, United States Code."
 

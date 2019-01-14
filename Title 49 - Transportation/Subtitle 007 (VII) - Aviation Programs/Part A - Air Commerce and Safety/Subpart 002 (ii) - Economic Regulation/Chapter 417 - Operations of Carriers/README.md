@@ -21,18 +21,15 @@
 | [41715\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041715%20-%20Phase-out%20of%20slot%20rules%20at%20certain%20airports.md) | Phase-out of slot rules at certain airports. |
 | [41716\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041716%20-%20Interim%20slot%20rules%20at%20New%20York%20airports.md) | Interim slot rules at New York airports. |
 | [41717\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041717%20-%20Interim%20application%20of%20slot%20rules%20at%20Chicago%20O%27Hare%20International%20Airport.md) | Interim application of slot rules at Chicago O'Hare International Airport. |
-| [41718\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041718%20-%20Special%20rules%20for%20Ronald%20Reagan%20Washington%20National%20Airport.md) | Special Rules <sup>1</sup> for Ronald Reagan Washington National Airport. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [41718\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041718%20-%20Special%20rules%20for%20Ronald%20Reagan%20Washington%20National%20Airport.md) | Special rules for Ronald Reagan Washington National Airport. |
 | [41719\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041719%20-%20Air%20service%20termination%20notice.md) | Air service termination notice. |
 | [41720\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041720%20-%20Joint%20venture%20agreements.md) | Joint venture agreements. |
 | [41721\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041721%20-%20Reports%20by%20carriers%20on%20incidents%20involving%20animals%20during%20air%20transport.md) | Reports by carriers on incidents involving animals during air transport. |
 | [41722\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041722%20-%20Delay%20reduction%20actions.md) | Delay reduction actions. |
 | [41723\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041723%20-%20Notice%20concerning%20aircraft%20assembly.md) | Notice concerning aircraft assembly. |
 | [41724\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041724%20-%20Musical%20instruments.md) | Musical instruments. |
+| [41725\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041725%20-%20Prohibition%20on%20certain%20cell%20phone%20voice%20communications.md) | Prohibition on certain cell phone voice communications. |
+| [41726\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041726%20-%20Strollers.md) | Strollers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -77,6 +74,8 @@
 
 #### Amendments
 
+<b>2018</b>—Pub. L. 115–254, div. B, title IV, §§403(b), 412(b), title V, §539(e), Oct. 5, 2018, 132 Stat. 3329, 3332, 3370, added items 41725 and 41726 and substituted "rules" for "Rules" in item 41718.
+
 <b>2012</b>—Pub. L. 112–95, title IV, §403(b), Feb. 14, 2012, 126 Stat. 85, which directed amendment of analysis for "such subchapter", meaning subchapter I of chapter 417, by adding item 41724 at the end, was executed by adding item 41724 to analysis for this chapter to reflect the probable intent of Congress.
 
 Pub. L. 112–95, title IV, §§401(b), 430, Feb. 14, 2012, 126 Stat. 83, 100, substituted "Prohibitions against smoking on passenger flights" for "Prohibitions against smoking on scheduled flights" in item 41706, and struck out item 41747 "EAS local participation program".
@@ -92,8 +91,6 @@ Pub. L. 112–95, title IV, §§401(b), 430, Feb. 14, 2012, 126 Stat. 83, 100, s
 <b>1994</b>—Pub. L. 103–429, §6(52), Oct. 31, 1994, 108 Stat. 4385, made technical correction to chapter heading.
 
 Pub. L. 103–305, title II, §§206(b), 207(b), Aug. 23, 1994, 108 Stat. 1587, 1588, added items 41714 and 41715.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

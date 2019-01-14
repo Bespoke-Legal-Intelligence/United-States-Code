@@ -92,7 +92,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(B) any Federal home loan bank; or
 
-&emsp;&emsp;(C) any bank holding company or savings and loan holding company having less than $1,000,000,000 in total consolidated assets that complies with the requirements of the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors of the Board of Governors (12 CFR part 225 appendix C), as the requirements of such Policy Statement are amended pursuant to section 1 of an Act entitled "To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes".
+&emsp;&emsp;(C) any bank holding company or savings and loan holding company that is subject to the application of appendix C to part 225 of title 12, Code of Federal Regulations (commonly known as the "Small Bank Holding Company and Savings and Loan Holding Company Policy Statement").
 
 #### (6) Study and report on small institution access to capital
 
@@ -128,7 +128,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) In general
 
-&emsp;In establishing the minimum leverage capital requirements and minimum risk-based capital requirements on a consolidated basis for a depository institution holding company or a nonbank financial company supervised by the Board of Governors as required under paragraphs (1) and (2) of subsection (b), the appropriate Federal banking agencies shall not be required to include, for any purpose of this section (including in any determination of consolidation), a person regulated by a State insurance regulator or a regulated foreign subsidiary or a regulated foreign affiliate of suchperson engaged in the business of insurance, to the extent that such person acts in its capacity as a regulated insurance entity.
+&emsp;In establishing the minimum leverage capital requirements and minimum risk-based capital requirements on a consolidated basis for a depository institution holding company or a nonbank financial company supervised by the Board of Governors as required under paragraphs (1) and (2) of subsection (b), the appropriate Federal banking agencies shall not be required to include, for any purpose of this section (including in any determination of consolidation), a person regulated by a State insurance regulator or a regulated foreign subsidiary or a regulated foreign affiliate of such person engaged in the business of insurance, to the extent that such person acts in its capacity as a regulated insurance entity.
 
 #### (2) Rule of construction on Board's authority
 
@@ -144,17 +144,17 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;Nothing in subparagraph (A) shall limit the authority of the Board under any other applicable provision of law to conduct any regulatory or supervisory activity of a depository institution holding company or non-bank financial company supervised by the Board of Governors, including the collection or reporting of any information on an entity or group-wide basis. Nothing in this paragraph shall excuse the Board from its obligations to comply with section 5361(a) of this title and section 10(b)(2) of the Home Owners' Loan Act (12 U.S.C. 1467a(b)(2)), as appropriate.
 
-(Pub. L. 111–203, title I, §171, July 21, 2010, 124 Stat. 1435; Pub. L. 113–250, §2(a), Dec. 18, 2014, 128 Stat. 2886; Pub. L. 113–279, §2, Dec. 18, 2014, 128 Stat. 3017; Pub. L. 114–94, div. G, title LXXXVII, §87001, Dec. 4, 2015, 129 Stat. 1798.)
+(Pub. L. 111–203, title I, §171, July 21, 2010, 124 Stat. 1435; Pub. L. 113–250, §2(a), Dec. 18, 2014, 128 Stat. 2886; Pub. L. 113–279, §2, Dec. 18, 2014, 128 Stat. 3017; Pub. L. 114–94, div. G, title LXXXVII, §87001, Dec. 4, 2015, 129 Stat. 1798; Pub. L. 115–174, title II, §207(d), May 24, 2018, 132 Stat. 1312.)
 
 #### References in Text
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (b)(5)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-Section 1 of an Act entitled "To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes", referred to in subsec. (b)(5)(C), is section 1 of Pub. L. 113–250, which is set out as a note below.
-
 The Home Owners' Loan Act, referred to in subsec. (c)(3)(A), is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§1461 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(5)(C). Pub. L. 115–174 added subpar. (C) and struck out former subpar. (C) which read as follows: "any bank holding company or savings and loan holding company having less than $1,000,000,000 in total consolidated assets that complies with the requirements of the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors of the Board of Governors (12 CFR part 225 appendix C), as the requirements of such Policy Statement are amended pursuant to section 1 of an Act entitled 'To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes'."
 
 <b>2015</b>—Subsec. (b)(4)(C). Pub. L. 114–94 inserted "or March 31, 2010," after "December 31, 2009,".
 
@@ -163,6 +163,110 @@ The Home Owners' Loan Act, referred to in subsec. (c)(3)(A), is act June 13, 193
 Subsec. (b)(5)(C). Pub. L. 113–250 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "any small bank holding company that is subject to the Small Bank Holding Company Policy Statement of the Board of Governors, as in effect on May 19, 2010."
 
 Subsec. (c). Pub. L. 113–279, §2(2), added subsec. (c).
+
+#### Capital Simplification for Qualifying Community Banks
+
+Pub. L. 115–174, title II, §201, May 24, 2018, 132 Stat. 1306, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Community bank leverage ratio.—The term 'Community Bank Leverage Ratio' means the ratio of the tangible equity capital of a qualifying community bank, as reported on the qualifying community bank's applicable regulatory filing with the qualifying community bank's appropriate Federal banking agency, to the average total consolidated assets of the qualifying community bank, as reported on the qualifying community bank's applicable regulatory filing with the qualifying community bank's appropriate Federal banking agency.
+
+&emsp;"(2)
+
+Generally applicable leverage capital requirements; generally applicable risk-based capital requirements.—The terms 'generally applicable leverage capital requirements' and 'generally applicable risk-based capital requirements' have the meanings given those terms in section 171(a) of the Financial Stability Act of 2010 (12 U.S.C. 5371(a)).
+
+&emsp;"(3)
+
+Qualifying community bank.—
+
+&emsp;&emsp;"(A)
+
+Asset threshold.—The term 'qualifying community bank' means a depository institution or depository institution holding company with total consolidated assets of less than $10,000,000,000.
+
+&emsp;&emsp;"(B)
+
+Risk profile.—The appropriate Federal banking agencies may determine that a depository institution or depository institution holding company (or a class of depository institutions or depository institution holding companies) described in subparagraph (A) is not a qualifying community bank based on the depository institution's or depository institution holding company's risk profile, which shall be based on consideration of—
+
+&emsp;&emsp;&emsp;"(i) off-balance sheet exposures;
+
+&emsp;&emsp;&emsp;"(ii) trading assets and liabilities;
+
+&emsp;&emsp;&emsp;"(iii) total notional derivatives exposures; and
+
+&emsp;&emsp;&emsp;"(iv) such other factors as the appropriate Federal banking agencies determine appropriate.
+
+"(b)
+
+Community Bank Leverage Ratio.—The appropriate Federal banking agencies shall, through notice and comment rule making under section 553 of title 5, United States Code—
+
+&emsp;"(1) develop a Community Bank Leverage Ratio of not less than 8 percent and not more than 10 percent for qualifying community banks; and
+
+&emsp;"(2) establish procedures for treatment of a qualifying community bank that has a Community Bank Leverage Ratio that falls below the percentage developed under paragraph (1) after exceeding the percentage developed under paragraph (1).
+
+"(c)
+
+Capital Compliance.—
+
+&emsp;"(1)
+
+In general.—Any qualifying community bank that exceeds the Community Bank Leverage Ratio developed under subsection (b)(1) shall be considered to have met—
+
+&emsp;&emsp;"(A) the generally applicable leverage capital requirements and the generally applicable risk-based capital requirements;
+
+&emsp;&emsp;"(B) in the case of a qualifying community bank that is a depository institution, the capital ratio requirements that are required in order to be considered well capitalized under section 38 of the Federal Deposit Insurance Act (12 U.S.C. 1831o) and any regulation implementing that section; and
+
+&emsp;&emsp;"(C) any other capital or leverage requirements to which the qualifying community bank is subject.
+
+&emsp;"(2)
+
+Existing authorities.—Nothing in paragraph (1) shall limit the authority of the appropriate Federal banking agencies as in effect on the date of enactment of this Act \[May 24, 2018\].
+
+"(d)
+
+Consultation.—The appropriate Federal banking agencies shall—
+
+&emsp;"(1) consult with the applicable State bank supervisors in carrying out this section; and
+
+&emsp;"(2) notify the applicable State bank supervisor of any qualifying community bank that it supervises that exceeds, or does not exceed after previously exceeding, the Community Bank Leverage ratio developed under subsection (b)(1)."
+
+\[For definitions of "appropriate Federal banking agency", "depository institution", and "depository institution holding company", as used in section 201 of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a note under section 5365 of this title.\]
+
+#### Small Bank Holding Company Policy Statement
+
+Pub. L. 115–174, title II, §207(a)–(c), May 24, 2018, 132 Stat. 1312, provided that:
+
+"(a)
+
+Definitions.—In this section \[enacting this note and amending this section\]:
+
+&emsp;"(1)
+
+Board.—The term 'Board' means the Board of Governors of the Federal Reserve System.
+
+&emsp;"(2)
+
+Savings and loan holding company.—The term 'savings and loan holding company' has the meaning given the term in section 10(a) of the Home Owners' Loan Act (12 U.S.C. 1467a(a)).
+
+"(b)
+
+Changes Required to Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors.—Not later than 180 days after the date of enactment of this Act \[May 24, 2018\], the Board shall revise appendix C to part 225 of title 12, Code of Federal Regulations (commonly known as the 'Small Bank Holding Company and Savings and Loan Holding Company Policy Statement'), to raise the consolidated asset threshold under that appendix from $1,000,000,000 to $3,000,000,000 for any bank holding company or savings and loan holding company that—
+
+&emsp;"(1) is not engaged in significant nonbanking activities either directly or through a nonbank subsidiary;
+
+&emsp;"(2) does not conduct significant off-balance sheet activities (including securitization and asset management or administration) either directly or through a nonbank subsidiary; and
+
+&emsp;"(3) does not have a material amount of debt or equity securities outstanding (other than trust preferred securities) that are registered with the Securities and Exchange Commission.
+
+"(c)
+
+Exclusions.—The Board may exclude any bank holding company or savings and loan holding company, regardless of asset size, from the revision under subsection (b) if the Board determines that such action is warranted for supervisory purposes."
+
+\[For definition of "bank holding company" as used in section 207(a)–(c) of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a note under section 5365 of this title.\]
 
 #### Changes Required to Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors
 

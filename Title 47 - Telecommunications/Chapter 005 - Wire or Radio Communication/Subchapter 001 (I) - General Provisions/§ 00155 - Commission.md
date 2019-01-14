@@ -16,13 +16,13 @@ From time to time as the Commission may find necessary, the Commission shall org
 
 (3) Any order, decision, report, or action made or taken pursuant to any such delegation, unless reviewed as provided in paragraph (4) of this subsection, shall have the same force and effect, and shall be made, evidenced, and enforced in the same manner, as orders, decisions, reports, or other actions of the Commission.
 
-(4) Any person aggrieved by any such order, decision, report or action may file an application for review by the Commission within such time and in such manner as the Commission shall prescribe, and every such application shall be passed upon by the Commission. The Commission, on its own initiative, may review in whole or in part, at such time and in such manner as it shall determine, any order, decision, report, or action made or taken pursuant to any delegation under paragraph (1) of this subsection.
+(4) Any person aggrieved by any such order, decision, report or action may file an application for review by the Commission within such time and in such manner as the Commission shall prescribe, and every such application shallbe passed upon by the Commission. The Commission, on its own initiative, may review in whole or in part, at such time and in such manner as it shall determine, any order, decision, report, or action made or taken pursuant to any delegation under paragraph (1) of this subsection.
 
 (5) In passing upon applications for review, the Commission may grant, in whole or in part, or deny such applications without specifying any reasons therefor. No such application for review shall rely on questions of fact or law upon which the panel of commissioners, individual commissioner, employee board, or individual employee has been afforded no opportunity to pass.
 
 (6) If the Commission grants the application for review, it may affirm, modify, or set aside the order, decision, report, or action, or it may order a rehearing upon such order, decision, report, or action in accordance with section 405 of this title.
 
-(7) The filing of an application for review under this subsection shall be a condition precedent to judicial review of any order, decision, report, or action made or taken pursuant to a delegation under paragraph (1) of this subsection. The time within which a petition for review must be filed in a proceeding to which section 402(a) of this title applies, or within whichan appeal must be taken under section 402(b) of this title, shall be computed from the date upon which public notice is given of orders disposing of all applications for review filed in any case.
+(7) The filing of an application for review under this subsection shall be a condition precedent to judicial review of any order, decision, report, or action made or taken pursuant to a delegation under paragraph (1) of this subsection. The time within which a petition for review must be filed in a proceeding to which section 402(a) of this title applies, or within which an appeal must be taken under section 402(b) of this title, shall be computed from the date upon which public notice is given of orders disposing of all applications for review filed in any case.
 
 (8) The employees to whom the Commission may delegate review functions in any case of adjudication (as defined in section 551 of title 5) shall be qualified, by reason of their training, experience, and competence, to perform such review functions, and shall perform no duties inconsistent with such review functions. Such employees shall be in a grade classification or salary level commensurate with their important duties, and in no event less than the grade classification or salary level of the employee or employees whose actions are to be reviewed. In the performance of such review functions such employees shall be assigned to cases in rotation so far as practicable and shall not be responsible to or subject to the supervision or direction of any officer, employee, or agent engaged in the performance of investigative or prosecuting functions for any agency.
 
@@ -62,7 +62,7 @@ Subsec. (g). Pub. L. 100–594, §4, struck out subsec. (g) which required an an
 
 <b>1982</b>—Subsec. (b). Pub. L. 97–259, §105(a), substituted "From" for "Within six months after July 16, 1952, and from" at beginning of subsection, and struck out "thereafter" after "time to time".
 
-Subsecs. (c) to (e). Pub. L. 97–259, §105(b), (c), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and in par. (1) of subsec. (c), as so redesignated, substituted "two" for "three" after "employee board consisting of".
+Subsecs. (c) to (e). Pub. L. 97–259, §105(b), (c), redesignated subsecs. (d) and (e) as (c) and (d), respectively,and in par. (1) of subsec. (c), as so redesignated, substituted "two" for "three" after "employee board consisting of".
 
 <b>1981</b>—Subsecs. (f), (g). Pub. L. 97–35 added subsecs. (f) and (g).
 

@@ -22,7 +22,7 @@
 
 &emsp;(B) The categories or proposed categories of use of each such substance or mixture.
 
-&emsp;(C) The total amount of each such substance and mixture manufactured or processed, reasonable estimates of the total amount to be manufactured or processed, the amount manufactured or processed for each of its categories of use, and reasonable estimates of the amount to be manufactured or processed for each of its categories of use or proposed categories of use.
+&emsp;(C) The total amount of each such substance and mixture manufactured or processed, reasonable estimates of the total amount to bemanufactured or processed, the amount manufactured or processed for each of its categories of use, and reasonable estimates of the amount to be manufactured or processed for each of its categories of use or proposed categories of use.
 
 &emsp;(D) A description of the byproducts resulting from the manufacture, processing, use, or disposal of each such substance or mixture.
 
@@ -72,7 +72,7 @@ Administration.—In carrying out this section, the Administrator shall, to the 
 
 Negotiated rulemaking.—(A) The Administrator shall enter into a negotiated rulemaking pursuant to subchapter III of chapter 5 of title 5 to develop and publish, not later than 3 years after June 22, 2016, a proposed rule providing for limiting the reporting requirements, under this subsection, for manufacturers of any inorganic byproducts, when such byproducts, whether by the byproduct manufacturer or by any other person, are subsequently recycled, reused, or reprocessed.
 
-(B) Not later than 3 and one-half years after June 22, 2016, the Administrator shall publish afinal rule resulting from such negotiated rulemaking.
+(B) Not later than 3 and one-half years after June 22, 2016, the Administrator shall publish a final rule resulting from such negotiated rulemaking.
 
 #### (b) Inventory
 
@@ -226,7 +226,7 @@ Category status.—The list of inactive substances shall not be considered to be
 
 (6)
 
-Interim list of active substances.—Prior to the promulgation of the rule required under paragraph (4)(A), the Administrator shall designate the chemical substances reported under part 711 of title 40, Code of Federal Regulations\(as in effect on June 22, 2016), during the reporting period that most closely preceded June 22, 2016, as the interim list of active substances for the purposes of section 2605(b) of this title.
+Interim list of active substances.—Prior to the promulgation of the rule required under paragraph (4)(A), the Administrator shall designate the chemical substances reported under part 711 of title 40, Code of Federal Regulations (as in effect on June 22, 2016), during the reporting period that most closely preceded June 22, 2016, as the interim list of active substances for the purposes of section 2605(b) of this title.
 
 (7)
 
@@ -304,7 +304,7 @@ Any person who manufactures, processes, or distributes in commerce any chemical 
 
 The Administrator shall promulgate rules under which the Administrator shall require any person who manufactures, processes, or distributes in commerce or who proposes to manufacture, process, or distribute in commerce any chemical substance or mixture (or with respect to paragraph (2), any person who has possession of a study) to submit to the Administrator—
 
-&emsp;(1) lists of health and safety studies (A) conducted or initiated by or for such person with respect to such substance or mixture at any time, (B) known to such person, or (C) reasonably ascertainable by such person, except that the Administrator may exclude certain types or categories of studies from the requirementsof this subsection if the Administrator finds that submission of lists of such studies are unnecessary to carry out the purposes of this chapter; and
+&emsp;(1) lists of health and safety studies (A) conducted or initiated by or for such person with respect to such substance or mixture at any time, (B) known to such person, or (C) reasonably ascertainable by such person, except that the Administrator may exclude certain types or categories of studies from the requirements of this subsection if the Administrator finds that submission of lists of such studies are unnecessary to carry out the purposes of this chapter; and
 
 &emsp;(2) copies of any study contained on a list submitted pursuant to paragraph (1) or otherwise known by such person.
 

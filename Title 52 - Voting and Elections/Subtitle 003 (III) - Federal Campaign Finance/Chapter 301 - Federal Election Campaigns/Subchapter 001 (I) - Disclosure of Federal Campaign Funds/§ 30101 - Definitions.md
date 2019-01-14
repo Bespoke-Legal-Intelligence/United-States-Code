@@ -12,7 +12,7 @@ When used in this Act:
 
 &emsp;(D) a primary election held for the expression of a preference for the nomination of individuals for election to the office of President.
 
-(2) The term "candidate" means an individual who seeks nomination for election, or election,to Federal office, and for purposes of this paragraph, an individual shall be deemed to seek nomination for election, or election—
+(2) The term "candidate" means an individual who seeks nomination for election, or election, to Federal office, and for purposes of this paragraph, an individual shall be deemed to seek nomination for election, or election—
 
 &emsp;(A) if such individual has received contributions aggregating in excess of $5,000 or has made expenditures aggregating in excess of $5,000; or
 
@@ -56,7 +56,7 @@ When used in this Act:
 
 &emsp;(vii) any loan of money by a State bank, a federally chartered depository institution, or a depository institution the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation, Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration, other than any overdraft made with respect to a checking or savings account, made in accordance with applicable law and in the ordinary course of business, but such loan—
 
-&emsp;&emsp;(I) shall be considered a loan by each endorser or guarantor, in that proportion ofthe unpaid balance that each endorser or guarantor bears to the total number of endorsers or guarantors;
+&emsp;&emsp;(I) shall be considered a loan by each endorser or guarantor, in that proportion of the unpaid balance that each endorser or guarantor bears to the total number of endorsers or guarantors;
 
 &emsp;&emsp;(II) shall be made on a basis which assures repayment, evidenced by a written instrument, and subject to a due date or amortization schedule; and
 
@@ -92,7 +92,7 @@ When used in this Act:
 
 &emsp;(xiii) any honorarium (within the meaning of section 30125 of this title); and
 
-&emsp;(xiv) any loan of money derived from an advance on a candidate's brokerage account, credit card, home equity line of credit, or other line of credit available to the candidate, if such loan is made in accordance with applicable law and under commercially reasonable terms and if the person making such loan makes loans derived from an advance on the candidate's brokerage account, credit card, home equity line of credit, or other line of credit in the normal course of the person's business.
+&emsp;(xiv) any loan of money derived from an advance on a candidate's brokerage account, credit card, home equity line of credit, or other line of credit available to the candidate,if such loan is made in accordance with applicable law and under commercially reasonable terms and if the person making such loan makes loans derived from an advance on the candidate's brokerage account, credit card, home equity line of credit, or other line of credit in the normal course of the person's business.
 
 (9)(A) The term "expenditure" includes—
 
@@ -138,7 +138,7 @@ When used in this Act:
 
 &emsp;&emsp;(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or candidates; and
 
-&emsp;(x) payments received by a political party committee as a condition of ballot access which are transferred to another political party committee or the appropriate State official.
+&emsp;(x) payments received by a political party committee as a condition of ballot access which are transferred to another politicalparty committee or the appropriate State official.
 
 (10) The term "Commission" means the Federal Election Commission.
 
@@ -164,7 +164,7 @@ Independent expenditure.—The term "independent expenditure" means an expenditu
 
 &emsp;(A) expressly advocating the election or defeat of a clearly identified candidate; and
 
-&emsp;(B) that is not made in concert or cooperation with or at the request or suggestion ofsuch candidate, the candidate's authorized political committee, or their agents, or a political party committee or its agents.
+&emsp;(B) that is not made in concert or cooperation with or at the request or suggestion of such candidate, the candidate's authorized political committee, or their agents, or a political party committee or its agents.
 
 (18) The term "clearly identified" means that—
 
@@ -332,7 +332,7 @@ Severability; effective dates and regulations; judicial review.—Title IV \[ena
 
 &emsp;"(4)
 
-Provisions not to apply to runoff elections.—Section 323(b) of the Federal Election Campaign Act of 1971 \[52 U.S.C. 30125(b)\] (as added by section 101(a)), section 103(a) \[amending section 30104 of this title\], title II \[amending this section and sections 30104, 30116, and 30118 of this title and enacting provisions set out as notes under sections 30104 and 30116 of this title\], sections 304 \[amending this section and sections 30104 and 30116 of this title\] (including section 315(j) of Federal Election Campaign Act of 1971 \[52 U.S.C. 30116(j)\], as added by section 304(a)(2)),305 \[amending section 315 of Title 47, Telecommunications, and enacting provisions set out as a note under section 315 of Title 47\] (notwithstanding subsection (c) of such section \[enacting provisions set out as a note under section 315 of Title 47\]), 311 \[amending section 30120 of this title\], 316 \[amending section 30116 of this title\], 318 \[enacting section 30126 of this title\], and 319 \[enacting section 30117 of this title and amending section 30116 of this title\], and title V \[enacting section 30112 of this title and amending section 30104 of this title and section 315 of Title 47\] (and the amendments made by such sections and titles) shall take effect on November 6, 2002, but shall not apply with respect to runoff elections, recounts, or election contests resulting from elections held prior to such date.
+Provisions not to apply to runoff elections.—Section 323(b) of the Federal Election Campaign Act of 1971 \[52 U.S.C. 30125(b)\] (as added by section 101(a)), section 103(a) \[amending section 30104 of this title\], title II \[amending this section and sections 30104, 30116, and 30118 of this title and enacting provisions set out as notes under sections 30104 and 30116 of this title\], sections 304 \[amending this section and sections 30104 and 30116 of this title\] (including section 315(j) of Federal Election Campaign Act of 1971 \[52 U.S.C. 30116(j)\], as added by section 304(a)(2)), 305 \[amending section 315 of Title 47, Telecommunications, and enacting provisions set out as a note under section 315 of Title 47\] (notwithstanding subsection (c) of such section \[enacting provisions set out as a note under section 315 of Title 47\]), 311 \[amending section 30120 of this title\], 316 \[amending section 30116 of this title\], 318 \[enacting section 30126 of this title\], and 319 \[enacting section 30117 of this title and amending section 30116 of this title\], and title V \[enacting section 30112 of this title and amending section 30104 of this title and section 315 of Title 47\] (and the amendments made by such sections and titles) shall take effect on November 6, 2002, but shall not apply with respect to runoff elections, recounts, or election contests resulting from elections held prior to such date.
 
 "(b)
 

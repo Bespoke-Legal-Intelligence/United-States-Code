@@ -4,7 +4,7 @@
 
 (1) It shall be unlawful for an eligible candidate of a political party for President and Vice President in a presidential election or any of his authorized committees knowingly and willfully to incur qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party are entitled under section 9004 with respect to such election.
 
-(2) Any person who violates paragraph (1) shall be fined not more than $5,000, or imprisoned not more than one year or both. In the case of a violation by an authorized committee, any officeror member of such committee who knowingly and willfully consents to such violation shall be fined not more than $5,000, or imprisoned not more than one year, or both.
+(2) Any person who violates paragraph (1) shall be fined not more than $5,000, or imprisoned not more than one year or both. In the case of a violation by an authorized committee, any officer or member of such committee who knowingly and willfully consents to such violation shall be fined not more than $5,000, or imprisoned not more than one year, or both.
 
 #### (b) Contributions
 
@@ -12,7 +12,7 @@
 
 (2) It shall be unlawful for an eligible candidate of a political party (other than a major party) in a presidential election or any of his authorized committees knowingly and willfully to accept and expend or retain contributions to defray qualified campaign expenses in an amount which exceeds the qualified campaign expenses incurred with respect to such election by such eligible candidate and his authorized committees.
 
-(3) Any person who violates paragraph (1) or (2) shall be fined not more than $5,000, or imprisoned not more than one year, or both. In the case of a violation by an authorized committee, any officer or member of such committee who knowingly and willfully consents to such violation shall be fined not more than $5,000, or imprisoned not more than one year, or both.
+(3) Any person who violates paragraph (1) or (2) shall be fined not more than $5,000, or imprisoned not more than one year, or both. In the case of a violation by an authorized committee, any officer or member of such committee whoknowingly and willfully consents to such violation shall be fined not more than $5,000, or imprisoned not more than one year, or both.
 
 #### (c) Unlawful use of payments
 
@@ -60,7 +60,7 @@
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section, as added by section 801of Pub. L. 92–178, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, as added by section 801 of Pub. L. 92–178, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 
@@ -70,7 +70,7 @@ Subsec. (c)(2), (3). Pub. L. 113–94, §2(c)(2)(B), redesignated par. (3) as (2
 
 Subsec. (e)(1). Pub. L. 113–94, §2(c)(2)(C), struck out at end "It shall be unlawful for the national committee of a major party or minor party knowingly and willfully to give or accept any kickback or any illegal payment in connection with any expense incurred by such committee with respect to a presidential nominating convention."
 
-Subsec. (e)(3). Pub. L. 113–94, §2(c)(2)(D), struck out ", or in connection with any expense incurred by the national committee of a major party or minor party with respect to a presidential nominating convention" after "authorized committees".
+Subsec. (e)(3). Pub. L. 113–94, §2(c)(2)(D), struck out ", or in connection with any expense incurred by thenational committee of a major party or minor party with respect to a presidential nominating convention" after "authorized committees".
 
 <b>1976</b>—Subsec. (b)(1). Pub. L. 94–283 substituted "9006(c)" for "9006(d)".
 

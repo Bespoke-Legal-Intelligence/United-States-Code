@@ -22,17 +22,13 @@ It shall be unlawful for any person, directly or indirectly, to make use of any 
 
 #### (d) Limitation
 
-Notwithstanding any other provision of this section, an emerging growth company or any person authorized to act on behalf of an emerging growth company may engage in oral or written communications with potential investors that are qualified institutional buyers or institutions that are accredited investors, as such terms are respectively defined in section 230.144A and section 230.501(a) of title 17, Code of Federal Regulations, or any successor thereto, to determine whether such investors might have an interest in a contemplated securities offering, either prior to or following the date of filing of a registration statement with respect to such securities with the Commission, subject to the requirement of subsection (b)(2).
+Notwithstanding any other provision of this section, an emerging growth company or any person authorized to act on behalf of an emerging growth company may engage in oral or written communications with potential investors that are qualified institutional buyers or institutions that are accredited investors, as such terms are respectively defined in section 230.144A and section 230.501(a) of title 17, Code of Federal Regulations, or any successor thereto, to determine whether such investors might have an interest in a contemplated securities offering, either prior to or following the date of filingof a registration statement with respect to such securities with the Commission, subject to the requirement of subsection (b)(2).
 
 #### (e) Security-based swaps
 
 Notwithstanding the provisions of section 77c or 77d of this title, unless a registration statement meeting the requirements of section 77j(a) of this title is in effect as to a security-based swap, it shall be unlawful for any person, directly or indirectly, to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to offer to sell, offer to buy or purchase or sell a security-based swap to any person who is not an eligible contract participant as defined in section 1a(18) of title 7.
 
 (May 27, 1933, ch. 38, title I, §5, 48 Stat. 77; June 6, 1934, ch. 404, title II, §204, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, §7, 68 Stat. 684; Pub. L. 111–203, title VII, §768(b), July 21, 2010, 124 Stat. 1801; Pub. L. 112–106, title I, §105(c), Apr. 5, 2012, 126 Stat. 311.)
-
-#### Amendment of Section
-
-<i>Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
@@ -56,6 +52,10 @@ Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21,
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
 
+#### Encouraging Employee Ownership
+
+Pub. L. 115–174, title V, §507, May 24, 2018, 132 Stat. 1363, provided that: "Not later than 60 days after the date of the enactment of this Act \[May 24, 2018\], the Securities and Exchange Commission shall revise section 230.701(e) of title 17, Code of Federal Regulations, so as to increase from $5,000,000 to $10,000,000 the aggregate sales price or amount of securities sold during any consecutive 12-month period in excess of which the issuer is required under such section to deliver an additional disclosure to investors. The Commission shall index for inflation such aggregate sales price or amount every 5 years to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, rounding to the nearest $1,000,000."
+
 #### Fair Access to Investment Research
 
 Pub. L. 115–66, Oct. 6, 2017, 131 Stat. 1196, provided that:
@@ -70,7 +70,7 @@ Pub. L. 115–66, Oct. 6, 2017, 131 Stat. 1196, provided that:
 
 Expansion of the Safe Harbor.—Not later than the end of the 180-day period beginning on the date of enactment of this Act \[Oct. 6, 2017\], the Securities and Exchange Commission shall propose, and not later than the end of the 270-day period beginning on such date, the Commission shall adopt, upon such terms, conditions, or requirements as the Commission may determine necessary or appropriate in the public interest, for the protection of investors, and for the promotion of capital formation, revisions to section 230.139 of title 17, Code of Federal Regulations, to provide that a covered investment fund research report that is published or distributed by a broker or dealer, other than a broker or dealer that is an investment adviser to the fund or an affiliated person of the investment adviser to the fund—
 
-&emsp;"(1) shall be deemed, for purposes of sections 2(a)(10) and 5(c) of the Securities Act of 1933 (15 U.S.C. 77b(a)(10), 77e(c)), not to constitute an offer for sale oran offer to sell a security that is the subject of an offering pursuant to a registration statement that is effective, even if the broker or dealer is participating or will participate in the registered offering of the covered investment fund's securities; and
+&emsp;"(1) shall be deemed, for purposes of sections 2(a)(10) and 5(c) of the Securities Act of 1933 (15 U.S.C. 77b(a)(10), 77e(c)), not to constitute an offer for sale or an offer to sell a security that is the subject of an offering pursuant to a registration statement that is effective, even if the broker or dealer is participating or will participate in the registered offering of the covered investment fund's securities; and
 
 &emsp;"(2) shall be deemed to satisfy the conditions of paragraph (1) or (2) of section 230.139(a) of title 17, Code of Federal Regulations, or any successor provisions, for purposes of the Commission's rules and regulations under the Federal securities laws and the rules of any self-regulatory organization.
 

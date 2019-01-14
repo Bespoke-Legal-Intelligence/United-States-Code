@@ -54,7 +54,7 @@ In the case of an individual who is an eligible individual for any month during 
 
 #### (7) Medicare eligible individuals
 
-&emsp;The limitation under this subsection for any month with respect to an individual shall be zero for the first month such individual is entitled to benefits under title XVIII of the Social Security Act and for each month thereafter.
+&emsp;The limitation under this subsection for any month with respect to an individual shall bezero for the first month such individual is entitled to benefits under title XVIII of the Social Security Act and for each month thereafter.
 
 #### (c) Definitions
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "qualified medical expenses" means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug onlyif such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+&emsp;&emsp;The term "qualified medical expenses" means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
 
 #### (B) Health insurance may not be purchased from account
 
@@ -248,7 +248,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;An Archer MSA is exempt from taxation under this subtitle unless such account has ceased to be an Archer MSA. Notwithstanding the preceding sentence, any such account is subject to the taxes imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc. organizations).
+&emsp;An Archer MSA is exempt from taxation under this subtitle unless such account hasceased to be an Archer MSA. Notwithstanding the preceding sentence, any such account is subject to the taxes imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc. organizations).
 
 #### (2) Account terminations
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (C) Exception for distributions after medicare eligibility
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any payment or distribution after the date onwhich the account holder attains the age specified in section 1811 of the Social Security Act.
+&emsp;&emsp;Subparagraph (A) shall not apply to any payment or distribution after the date on which the account holder attains the age specified in section 1811 of the Social Security Act.
 
 #### (5) Rollover contribution
 
@@ -310,9 +310,9 @@ For purposes of this section—
 
 &emsp;For purposes of determining the amount of the deduction under section 213, any payment or distribution out of an Archer MSA for qualified medical expenses shall not be treated as an expense paid for medical care.
 
-#### (7) <sup>1</sup> Transfer of account incident to divorce
+#### (7) Transfer of account incident to divorce
 
-&emsp;The transfer of an individual's interest in an Archer MSA to an individual's spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as an Archer MSA with respect to which such spouse is the account holder.
+&emsp;The transfer of an individual's interest in an Archer MSA to an individual's spouse or former spouse under a divorce or separation instrument described in clause (i) of section 121(d)(3)(C) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as an Archer MSA with respect to which such spouse is the account holder.
 
 #### (8) Treatment after death of account holder
 
@@ -324,7 +324,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If, by reason of the death of the account holder, any person acquires the account holder's interest in an Archer MSA in a case to which subparagraph (A) does not apply—
+&emsp;&emsp;&emsp;If, by reason of the death of the account holder, any person acquires the accountholder's interest in an Archer MSA in a case to which subparagraph (A) does not apply—
 
 &emsp;&emsp;&emsp;&emsp;(I) such account shall cease to be an Archer MSA as of the date of death, and
 
@@ -450,7 +450,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 &emsp;&emsp;&emsp;(ii) the Secretary's estimate (determined on the basis of the returns described in clause (i)) of the number of MSA returns for such taxable years which will be filed after such date,
 
-> &emsp;&emsp;exceeds 750,000 (600,000 in the case of 1998). For purposes of the preceding sentence, theterm "MSA return" means any return on which any exclusion is claimed under section 106(b) or any deduction is claimed under this section.
+> &emsp;&emsp;exceeds 750,000 (600,000 in the case of 1998). For purposes of the preceding sentence, the term "MSA return" means any return on which any exclusion is claimed under section 106(b) or any deduction is claimed under this section.
 
 #### (B) Alternative computation of limitation
 
@@ -510,23 +510,13 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 (Added Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; amended Pub. L. 105–33, title IV, §4006(b)(2), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title XVI, §1602(a)(2), (3), Aug. 5, 1997, 111 Stat. 1093, 1094; Pub. L. 106–554, §1(a)(7) \[title II, §§201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–147, title VI, §612(a), (b), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–173, title XII, §1201(c), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title II, §207(19), title III, §322(a), (b), Oct. 4, 2004, 118 Stat. 1178, 1183; Pub. L. 109–432, div. A, title I, §117(a), (b), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 111–148, title IX, §§9003(b), 9004(b), Mar. 23, 2010, 124 Stat. 854; Pub. L. 115–97, title I, §§11002(d)(1)(T), 11051(b)(3)(D), Dec. 22, 2017, 131 Stat. 2060, 2090.)
 
-#### Amendment of Subsection (f)(7)
-
-<i>Pub. L. 115–97, title I, §11051(b)(3)(D), (c), Dec. 22, 2017, 131 Stat. 2090, amended subsection (f)(7) of this section, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification. After amendment, subsection (f)(7) reads as follows:</i>
-
-#### <i>(7) Transfer of account incident to divorce</i>
-
-&emsp;<i>The transfer of an individual's interest in an Archer MSA to an individual's spouse or former spouse under a divorce or separation instrument described in clause (i) of section 121(d)(3)(C) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as an Archer MSA with respect to which such spouse is the account holder.</i>
-
-<i>See 2017 Amendment note below.</i>
-
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(7) and (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generallyto subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1811 of the Act is classified to section 1395c of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(7) and (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1811 of the Act is classified to section 1395c of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -735,6 +725,4 @@ Pub. L. 104–191, title III, §301(l), Aug. 21, 1996, 110 Stat. 2052, provided 
 &emsp;"(6) other relevant items.
 
 > A report on the results of the study conducted under this subsection shall be submitted to the Congress no later than January 1, 1999."
-
-<i><sup>1</sup></i><i> See Amendment of Subsection (f)(7) note below.</i>
 

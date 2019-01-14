@@ -8,7 +8,7 @@
 
 #### (2) Consultation by Secretary required
 
-&emsp;The Secretary may not finalize any arrangement between the Service and a Department described in paragraph (1) without first consulting with the Indian tribes which will be significantly affected by the arrangement.
+&emsp;The Secretary may not finalize any arrangement between the Service and a Departmentdescribed in paragraph (1) without first consulting with the Indian tribes which will be significantly affected by the arrangement.
 
 #### (b) Limitations
 

@@ -10,7 +10,7 @@
 
 (d)(1) A summary of each contract for the transportation of agricultural products (including grain, as defined in section 3 of the United States Grain Standards Act (7 U.S.C. 75) and products thereof) entered into under this section shall be filed with the Board, containing such nonconfidential information as the Board prescribes. The Board shall publish special rules for such contracts in order to ensure that the essential terms of the contract are available to the general public.
 
-(2) Documents, papers, and records (and any copies thereof) relating to a contract describedin subsection (a) shall not be subject to the mandatory disclosure requirements of section 552 of title 5.
+(2) Documents, papers, and records (and any copies thereof) relating to a contract described in subsection (a) shall not be subject to the mandatory disclosure requirements of section 552 of title 5.
 
 (e) Any lawful contract between a rail carrier and one or more purchasers of rail service that was in effect on October 1, 1980, shall be considered a contract authorized by this section.
 
@@ -50,7 +50,7 @@ Section 10709, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1382; Pub. L. 96–448,
 
 Section 10710, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1383, related to elimination of discrimination against recyclable materials.
 
-Section 10711, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1383, related to effect of former sections 10701(a), (b), 10707, 10709, 10727, and 10728 of this title on rail rates and practices.
+Section 10711, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1383, related to effect of former sections 10701(a), (b),10707, 10709, 10727, and 10728 of this title on rail rates and practices.
 
 Section 10712, added Pub. L. 96–448, title II, §206(a), Oct. 14, 1980, 94 Stat. 1906, related to inflation-based rate increases.
 
@@ -61,4 +61,8 @@ Section 10713, added Pub. L. 96–448, title II, §208(a), Oct. 14, 1980, 94 Sta
 <b>2015</b>—Subsec. (h). Pub. L. 114–110 struck out subsec. (h) which related to certain contracts for the transportation of agricultural commodities.
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–287 substituted "October 1, 1980," for "the effective date of the Staggers Rail Act of 1980".
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

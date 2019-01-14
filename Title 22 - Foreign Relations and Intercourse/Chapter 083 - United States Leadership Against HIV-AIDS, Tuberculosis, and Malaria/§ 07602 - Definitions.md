@@ -32,7 +32,7 @@ In this chapter:
 
 #### (8) Operations research
 
-&emsp;The term "operations research" means the application of social science research methods, statistical analysis, and other appropriate scientific methods to judge, compare, and improve policies and program outcomes, from the earliest stages of defining and designing programs through their development and implementation, with the objective of the rapiddissemination of conclusions and concrete impact on programming.
+&emsp;The term "operations research" means the application of social science research methods, statistical analysis, and other appropriate scientific methods to judge, compare, and improve policies and program outcomes, from the earliest stages of defining and designing programs through their development and implementation, with the objective of the rapid dissemination of conclusions and concrete impact on programming.
 
 #### (9) Paraprofessional
 

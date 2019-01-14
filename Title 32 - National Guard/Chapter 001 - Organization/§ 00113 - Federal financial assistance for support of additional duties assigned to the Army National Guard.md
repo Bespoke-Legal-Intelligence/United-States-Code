@@ -8,7 +8,7 @@ Authority.—The Secretary of the Army may provide financial assistance to a Sta
 
 Covered Activities.—(1) Except as provided in paragraph (2), financial assistance may be provided for the performance of an activity by the Army National Guard under subsection (a) only if—
 
-&emsp;(A) the activity is carried out in the performance of a responsibility of the Secretary of the Army under paragraph (6), (10), or (11) of section 3013(b) of title 10; and
+&emsp;(A) the activity is carried out in the performance of a responsibility of the Secretary of the Army under paragraph (6), (10), or (11) of section 7013(b) of title 10; and
 
 &emsp;(B) the Army National Guard was selected to perform the activity under competitive procedures that permit all qualified public-sector and private-sector sources to submit offers and be considered for selection to perform the activity on the basis of the offers, subject to the exceptions provided in section 2304(c) of title 10.
 
@@ -22,15 +22,21 @@ Disbursement Through National Guard Bureau.—The Secretary of the Army shall di
 
 Availability of Funds.—Funds appropriated for the Army for a fiscal year are available for providing financial assistance under this section in support of activities carried out by the Army National Guard during that fiscal year.
 
-(Added Pub. L. 105–85, div. A, title III, §386(a), Nov. 18, 1997, 111 Stat. 1712; amended Pub. L. 105–261, div. A, title III, §375(a), Oct. 17, 1998, 112 Stat. 1992; Pub. L. 106–65, div. A, title X, §1066(d)(4), Oct. 5, 1999, 113 Stat. 773; Pub. L. 108–375, div. A, title VIII, §806, Oct. 28, 2004, 118 Stat. 2010.)
+(Added Pub. L. 105–85, div. A, title III, §386(a), Nov. 18, 1997, 111 Stat. 1712; amended Pub. L. 105–261, div. A, title III, §375(a), Oct. 17, 1998, 112 Stat. 1992; Pub. L. 106–65, div. A, title X, §1066(d)(4), Oct. 5, 1999, 113 Stat. 773; Pub. L. 108–375, div. A, title VIII, §806, Oct. 28, 2004, 118 Stat. 2010; Pub. L. 115–232, div. A, title VIII, §809(j), Aug. 13, 2018, 132 Stat. 1843.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1)(A). Pub. L. 115–232 substituted "section 7013(b) of title 10" for "section 3013(b) of title 10".
 
 <b>2004</b>—Subsec. (b)(1)(B). Pub. L. 108–375 inserted before period at end ", subject to the exceptions provided in section 2304(c) of title 10".
 
 <b>1999</b>—Subsec. (b)(2). Pub. L. 106–65 substituted "October 17, 1998" for "the date of the enactment of this subsection".
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–261 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Activities supported under this section may include only those activities that are carried out by the Army National Guard in the performance of responsibilities of the Secretary of the Army under paragraphs (6), (10), and (11) of section 3013(b) of title 10."
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
 
 #### Effective Date of 1998 Amendment
 

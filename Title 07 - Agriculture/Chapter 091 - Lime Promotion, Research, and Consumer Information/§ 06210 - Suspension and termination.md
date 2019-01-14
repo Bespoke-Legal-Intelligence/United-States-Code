@@ -24,7 +24,7 @@ The termination or suspension of any order, or any provision thereof, shall not 
 
 The Secretary shall suspend or terminate the order at the end of the marketing year if the Secretary determines that—
 
-&emsp;(1) the suspension or termination of the order is favored by not less than a majority ofthose persons voting in a referendum under subsection (b); and
+&emsp;(1) the suspension or termination of the order is favored by not less than a majority of those persons voting in a referendum under subsection (b); and
 
 &emsp;(2) the producers, producer-handlers, and importers comprising this majority produce and import more than 50 percent of the volume of limes produced and imported by those voting in the referendum.
 

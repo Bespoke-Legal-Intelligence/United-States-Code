@@ -20,9 +20,9 @@ The United States Information and Education Exchange Act of 1948, referred to in
 
 The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (b), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to chapter 33 (§2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
-The National Endowment for Democracy Act, referred to in subsec. (b), is title V of Pub. L. 98–164, Nov.22, 1983, 97 Stat. 1039, as amended, which is classified generally to subchapter II (§4411 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4411 of this title and Tables.
+The National Endowment for Democracy Act, referred to in subsec. (b), is title V of Pub. L. 98–164, Nov. 22, 1983, 97 Stat. 1039, as amended, which is classified generally to subchapter II (§4411 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4411 of this title and Tables.
 
-The State Department Basic Authorities Act of 1956, referred to in subsec. (b), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, which enacted sections 2651a, 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2735 of this title and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
+The State Department Basic Authorities Act of 1956, referred to in subsec. (b), is act Aug. 1, 1956, ch. 841, 70 Stat. 890. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 

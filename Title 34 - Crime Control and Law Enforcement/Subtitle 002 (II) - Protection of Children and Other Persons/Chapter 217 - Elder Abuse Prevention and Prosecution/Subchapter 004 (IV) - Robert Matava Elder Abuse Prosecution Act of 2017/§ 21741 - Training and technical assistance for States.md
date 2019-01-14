@@ -1,6 +1,6 @@
 ### §21741. Training and technical assistance for States
 
-The Attorney General, in consultation with the Secretary of Health and Human Services andin coordination with the Elder Justice Coordinating Council (established under section 1397k of title 42), shall create, compile, evaluate, and disseminate materials and information, and provide the necessary training and technical assistance, to assist States and units of local government in—
+The Attorney General, in consultation with the Secretary of Health and Human Services and in coordination with the Elder Justice Coordinating Council (established under section 1397k of title 42), shall create, compile, evaluate, and disseminate materials and information, and provide the necessary training and technical assistance, to assist States and units of local government in—
 
 &emsp;(1) investigating, prosecuting, pursuing, preventing, understanding, and mitigating the impact of—
 

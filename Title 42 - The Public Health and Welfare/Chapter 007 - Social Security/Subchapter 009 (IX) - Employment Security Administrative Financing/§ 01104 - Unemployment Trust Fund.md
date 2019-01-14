@@ -30,13 +30,13 @@ The Fund shall be invested as a single fund, but the Secretary of the Treasury s
 
 #### (f) Payment to State agencies and Railroad Retirement Board
 
-The Secretary of the Treasury is authorized and directed to pay out of the Fund to any State agency such amount as it may duly requisition, not exceeding the amount standing to the account of such State agency at the time of suchpayment. The Secretary of the Treasury is authorized and directed to make such payments out of the railroad unemployment insurance account for the payment of benefits, and out of the railroad unemployment insurance administration fund for the payment of administrative expenses, as the Railroad Retirement Board may duly certify, not exceeding the amount standing to the credit of such account or such fund, as the case may be, at the time of such payment.
+The Secretary of the Treasury is authorized and directed to pay out of the Fund to any State agency such amount as it may duly requisition, not exceeding the amount standing to the account of such State agency at the time of such payment. The Secretary of the Treasury is authorized and directed to make such payments out of the railroad unemployment insurance account for the payment of benefits, and out of the railroad unemployment insurance administration fund for the payment of administrative expenses, as the Railroad Retirement Board may duly certify, not exceeding the amount standing to the credit of such account or such fund, as the case may be, at the time of such payment.
 
 #### (g) Federal unemployment account; establishment
 
 There is hereby established in the Unemployment Trust Fund a Federal unemployment account.
 
-(Aug. 14, 1935, ch. 531, title IX, §904, 49 Stat. 640; June 25, 1938, ch. 680, §10(e)–(g), 52 Stat. 1104, 1105; Oct. 3, 1944, ch. 480, title IV, §401, 58 Stat. 789; Aug. 6, 1947, ch. 510, §5(a), 61 Stat. 794; Aug. 28, 1950, ch. 809, title IV, §404(b), 64 Stat. 560; Aug. 5, 1954, ch. 657, §5(b)–(f), 68 Stat. 673; Pub. L. 85–927, pt. II, §204, Sept. 6, 1958, 72 Stat. 1782; Pub. L. 86–346, title I, §104(3), Sept. 22, 1959, 73 Stat. 622; Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 976; Pub. L. 98–369, div. B, title VI, §2663(d)(3), July 18, 1984, 98 Stat. 1167; Pub. L. 102–318, title V, §531(d)(3), July 3, 1992, 106 Stat. 317.)
+(Aug. 14, 1935, ch. 531, title IX, §904, 49 Stat. 640; June 25, 1938, ch. 680, §10(e)–(g), 52 Stat. 1104,1105; Oct. 3, 1944, ch. 480, title IV, §401, 58 Stat. 789; Aug. 6, 1947, ch. 510, §5(a), 61 Stat. 794; Aug. 28, 1950, ch. 809, title IV, §404(b), 64 Stat. 560; Aug. 5, 1954, ch. 657, §5(b)–(f), 68 Stat. 673; Pub. L. 85–927, pt. II, §204, Sept. 6, 1958, 72 Stat. 1782; Pub. L. 86–346, title I, §104(3), Sept. 22, 1959, 73 Stat. 622; Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 976; Pub. L. 98–369, div. B, title VI, §2663(d)(3), July 18, 1984, 98 Stat. 1167; Pub. L. 102–318, title V, §531(d)(3), July 3, 1992, 106 Stat. 317.)
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Subsec. (f). Act June 25, 1938, §10(g), inserted second sentence.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed\(under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1958 Amendment
 

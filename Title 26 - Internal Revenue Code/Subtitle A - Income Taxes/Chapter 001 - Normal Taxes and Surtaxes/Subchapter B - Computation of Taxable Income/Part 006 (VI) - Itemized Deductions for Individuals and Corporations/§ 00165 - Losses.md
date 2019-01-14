@@ -288,7 +288,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
-<b>2017</b>—Subsec. (d). Pub. L. 115–97, §11050(a), inserted at end "For purposes of the preceding sentence, in the case of taxable years beginning after December 31, 2017, and before January 1, 2026, the term 'losses from wagering transactions' includes any deduction otherwise allowable under this chapter incurred in carrying on any wagering transaction."
+<b>2017</b>—Subsec. (d). Pub. L. 115–97, §11050(a), inserted at end "For purposes of the preceding sentence, in thecase of taxable years beginning after December 31, 2017, and before January 1, 2026, the term 'losses from wagering transactions' includes any deduction otherwise allowable under this chapter incurred in carrying on any wagering transaction."
 
 Subsec. (h)(5). Pub. L. 115–97, §11044(a), added par. (5).
 
@@ -444,7 +444,7 @@ Pub. L. 99–514, title X, §1004(b), Oct. 22, 1986, 100 Stat. 2388, provided th
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 42(a)(4) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
+Amendment by section 42(a)(4) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, seesection 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
 
 Amendment by section 711(c)(1) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
@@ -616,7 +616,7 @@ Special Rule for Motor Carrier Operating Authority.—In the case of a corporati
 
 "(d)
 
-Application of Section 334(b)(2).—For purposes of subsections (a) and (b), the reference to section 334(b)(2) in section 266(c)(2)(A)(ii) of the Economic Recovery Tax Act of 1981 \[section 266(c)(2)(A)(ii) of Pub. L. 97–34, set out below\] shall be a reference to such section as in effect before its repeal.
+Application of Section 334(b)(2).—For purposes of subsections (a) and (b), the reference to section334(b)(2) in section 266(c)(2)(A)(ii) of the Economic Recovery Tax Act of 1981 \[section 266(c)(2)(A)(ii) of Pub. L. 97–34, set out below\] shall be a reference to such section as in effect before its repeal.
 
 "(e)
 
@@ -680,7 +680,7 @@ Treatment of certain noncorporate taxpayers.—Under regulations prescribed by t
 
 &emsp;&emsp;&emsp;"(ii) the acquisition referred to in clause (i) would have satisfied the requirements of subparagraph (A) if the stock had been acquired by a corporation,
 
-&nbsp;&nbsp;then, for purposes of subparagraphs (A) and (C), the noncorporate taxpayer or group of noncorporatetaxpayers referred to in clause (i) shall be treated as a corporation. The preceding sentence shall apply only if such noncorporate taxpayer (or group of noncorporate taxpayers) on July 1, 1980, held stock constituting control (within the meaning of section 368(c) of the Internal Revenue Code of 1986) of the corporation holding (directly or indirectly) the motor carrier operating authority.
+&nbsp;&nbsp;then, for purposes of subparagraphs (A) and (C), the noncorporate taxpayer or group of noncorporate taxpayers referred to in clause (i) shall be treated as a corporation. The preceding sentence shall apply only if such noncorporate taxpayer (or group of noncorporate taxpayers) on July 1, 1980, held stock constituting control (within the meaning of section 368(c) of the Internal Revenue Code of 1986) of the corporation holding (directly or indirectly) the motor carrier operating authority.
 
 &emsp;&emsp;"(C)
 
@@ -718,7 +718,7 @@ Application of Section.—This section shall apply to any individual—
 
 Effect of Election.—In the case of any individual to whom this section applies—
 
-&emsp;"(1) the tax imposed by chapter 1 of the Internal Revenue Code of 1986 for the taxable year in which the income taken into account is received or accrued which is attributable to such income shall not exceed the additional tax under such chapter which would have been payable for the year in which the deduction for the loss was taken if such deduction had not been taken for such year,
+&emsp;"(1) the tax imposed by chapter 1 of the Internal Revenue Code of 1986 for the taxable year in whichthe income taken into account is received or accrued which is attributable to such income shall not exceed the additional tax under such chapter which would have been payable for the year in which the deduction for the loss was taken if such deduction had not been taken for such year,
 
 &emsp;"(2) any amount of tax imposed by chapter 1 attributable to the income taken into account which, on October 1, 1975, was unpaid may be paid in 3 equal annual installments (with the first such installment due and payable on April 15, 1977), and
 

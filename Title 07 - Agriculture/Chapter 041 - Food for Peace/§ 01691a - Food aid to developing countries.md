@@ -50,5 +50,5 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 #### World Food Conference Recommendations
 
-Pub. L. 94–161, title II, §213, Dec. 20, 1975, 89 Stat. 855, directed the President to strengthen the efforts of the United States to carry out the recommendations of the World Food Conference and to submit a detailed report to the Congress not later than Nov. 1, 1976, prior to repeal by Pub. L. 97–113, title VII, §734(a)(7), Dec. 29, 1981, 95 Stat. 1560.
+Pub. L. 94–161, title II, §213, Dec. 20, 1975, 89 Stat. 855, directed the President to strengthen the efforts of theUnited States to carry out the recommendations of the World Food Conference and to submit a detailed report to the Congress not later than Nov. 1, 1976, prior to repeal by Pub. L. 97–113, title VII, §734(a)(7), Dec. 29, 1981, 95 Stat. 1560.
 

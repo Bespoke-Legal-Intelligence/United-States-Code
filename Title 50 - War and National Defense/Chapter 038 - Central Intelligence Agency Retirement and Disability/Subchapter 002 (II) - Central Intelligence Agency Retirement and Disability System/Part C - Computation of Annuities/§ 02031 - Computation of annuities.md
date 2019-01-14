@@ -236,7 +236,7 @@
 
 #### (i) Election
 
-&emsp;&emsp;&emsp;If the retired participant's annuity was not reduced (or was not fully reduced) to provide a survivor annuity for the participant's spouse or former spouse as of the time of retirement, the retired participant may make an election under the first sentence of subparagraph (A) upon remarriage to a spouse other than the spouse at the time of retirement. For any remarriage that occurred before August 14, 1991, the retired participant may make such an election within 2 years after such date.
+&emsp;&emsp;&emsp;If the retired participant's annuity was not reduced (or was not fully reduced) to provide a survivor annuity for the participant's spouse or former spouse as of thetime of retirement, the retired participant may make an election under the first sentence of subparagraph (A) upon remarriage to a spouse other than the spouse at the time of retirement. For any remarriage that occurred before August 14, 1991, the retired participant may make such an election within 2 years after such date.
 
 #### (ii) Deposit required
 
@@ -329,4 +329,8 @@ Subsec. (j). Pub. L. 103–178, §202(a)(4)(D), struck out "(except as provided 
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
+
+#### Effective Date
+
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.
 

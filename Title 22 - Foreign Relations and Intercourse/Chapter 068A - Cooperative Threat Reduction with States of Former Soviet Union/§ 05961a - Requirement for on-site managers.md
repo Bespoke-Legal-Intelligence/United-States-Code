@@ -58,5 +58,5 @@ This section shall take effect six months after November 24, 2003.
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2004, and not as partof the Cooperative Threat Reduction Act of 1993 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2004, and not as part of the Cooperative Threat Reduction Act of 1993 which comprises this chapter.
 

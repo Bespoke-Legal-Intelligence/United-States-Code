@@ -68,13 +68,13 @@
 
 &emsp;(C) A combination of payments described in subparagraphs (A) and (B).
 
-(3) A per diem allowance or maximum amount of reimbursement established for purposes of paragraph (2) shall be established, to the extent feasible, by locality.
+(3) A per diem allowance or maximum amount of reimbursement established for purposes of paragraph (2) shall be established, to the extent feasible, by locality. The Secretary of a military department shall not alter the amount of the per diem allowance, or the maximum amount of reimbursement, for a locality based on the duration of the temporary duty assignment in the locality of a member of the armed forces under the jurisdiction of the Secretary.
 
 (4) For travel consuming less than a full day, the payment prescribed by regulation under paragraph (2) shall be allocated in such manner as the Secretaries concerned prescribe.
 
 (5) Effective January 1, 2003, the per diem rates established under paragraph (2)(A) for travel performed in connection with a change of permanent station or for travel described in paragraph (2) or (3) of subsection (a) shall be equal to the standard per diem rates established in the Federal travel regulation for travel within the continental United States of civilian employees and their dependents, unless the Secretaries concerned determine that a higher rate for members is more appropriate.
 
-(e) A member who is on duty with, or is undergoing training for, the Air Mobility Command,the Marine Corps Transport Squadrons, the Fleet Tactical Support Squadrons, the Naval Aircraft Ferrying Squadrons, or any other unit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons, and who is away from his permanent station, may be paid a per diem in lieu of subsistence in an amount not more than the amount to which he would be entitled if he were performing travel in connection with temporary duty without, in either case, the issuance of orders for specific travel.
+(e) A member who is on duty with, or is undergoing training for, the Air Mobility Command, the Marine Corps Transport Squadrons, the Fleet Tactical Support Squadrons, the Naval Aircraft Ferrying Squadrons, or any other unit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons, and who is away from his permanent station, may be paid a per diem in lieu of subsistence in an amount not more than the amount to which he would be entitled if he were performing travel in connection with temporary duty without, in either case, the issuance of orders for specific travel.
 
 (f)(1) The travel and transportation allowances authorized under this section for a member who is separated from the service or released from active duty may be paid or provided only for travel actually performed.
 
@@ -92,7 +92,7 @@
 
 &emsp;(ii) who is separated from the service or released from active duty for a medical condition affecting the member, as determined by the Secretary concerned;
 
-&emsp;(iii) who is separated from the service or released from active duty because the period of time for which the member initially enlisted or otherwise initially agreed to serve has been reduced by the Secretary concerned and is separated or released under honorable conditions;
+&emsp;(iii) who is separated from the service or released from active duty because the period oftime for which the member initially enlisted or otherwise initially agreed to serve has been reduced by the Secretary concerned and is separated or released under honorable conditions;
 
 &emsp;(iv) who is discharged under section 1173 of title 10; or
 
@@ -134,11 +134,11 @@
 
 (4) Decisions regarding the availability or adequacy of government housing at a military installation under paragraph (1) shall be made by the installation commander.
 
-(j) In this section (except subsection (a)(6)), the term "involuntarily separated" has themeaning given that term in section 1141 of title 10.
+(j) In this section (except subsection (a)(6)), the term "involuntarily separated" has the meaning given that term in section 1141 of title 10.
 
 (k) No travel and transportation allowance or reimbursement may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472, §404; Pub. L. 89–680, §1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, §3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, §1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, §807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, §5(a), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 97–60, title I, §121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, §908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V, §533(g), title VI, §613(a), title XIV, §1402(c), Oct. 19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, §612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, §101(c) \[title IX, §9073\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, §101(c) \[title IX, §9073\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, §614(a), title XIII, §1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, §8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, §617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, §621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, §503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, §561(l)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§621, 622, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §621, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title XII, §1252, Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title VI, §602(b)(1), Nov. 18, 1997, 111 Stat. 1772; Pub. L. 105–261, div. A, title V, §561(f), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–65, div. A, title VI, §631, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title X, §1087(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–292; Pub. L. 107–107, div. A, title VI, §631, Dec. 28, 2001, 115 Stat. 1143; renumbered §474 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(1), Dec. 31, 2011, 125 Stat. 1460, 1461; Pub. L. 112–239, div. A, title VI, §621(a), Jan. 2, 2013, 126 Stat. 1778.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472, §404; Pub. L. 89–680, §1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, §3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, §1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, §807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, §5(a), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 97–60, title I, §121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, §908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V, §533(g), title VI, §613(a), title XIV, §1402(c), Oct. 19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, §612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, §101(c) \[title IX, §9073\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, §101(c) \[title IX, §9073\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, §614(a), title XIII, §1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, §8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, §617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, §621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, §503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, §561(l)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§621, 622, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §621, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title XII, §1252, Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title VI, §602(b)(1), Nov. 18, 1997, 111 Stat. 1772; Pub. L. 105–261, div. A, title V, §561(f), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–65, div. A, title VI, §631, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title X, §1087(b)(3)\], Oct. 30, 2000, 114 Stat. 1654,1654A–134, 1654A–292; Pub. L. 107–107, div. A, title VI, §631, Dec. 28, 2001, 115 Stat. 1143; renumbered §474 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(1), Dec. 31, 2011, 125 Stat. 1460, 1461; Pub. L. 112–239, div. A, title VI, §621(a), Jan. 2, 2013, 126 Stat. 1778; Pub. L. 115–232, div. A, title VI, §603(a), Aug. 13, 2018, 132 Stat. 1794.)
 
 Historical and Revision Notes
 
@@ -209,6 +209,8 @@ Dec. 21, 1982, Pub. L. 97–377, title I, §101(c) \[title VII, §767\], 96 Stat
 Dec. 29, 1981, Pub. L. 97–114, title VII, §771, 95 Stat. 1590.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(3). Pub. L. 115–232 inserted at end "The Secretary of a military department shall not alter the amount of the per diem allowance, or the maximum amount of reimbursement, for a locality based on the duration of the temporary duty assignment in the locality of a member of the armed forces under the jurisdiction of the Secretary."
 
 <b>2013</b>—Subsec. (a)(6). Pub. L. 112–239, §621(a)(1), added par. (6).
 
@@ -306,7 +308,7 @@ Pub. L. 96–342 substituted in par. (2) "$50" for "$35" and in provision follow
 
 <b>1967</b>—Subsec. (a)(4). Pub. L. 90–168 added cl. (4).
 
-<b>1966</b>—Subsec. (c). Pub. L. 89–680 inserted into the authorization for selection of a home for the purposes ofthe travel and transportation allowances authorized by subsection (a) of this section provisions requiring selection not later than one year from the date of retirement, placement, discharge, or release, except as provided in regulations to be prescribed by the Secretaries concerned.
+<b>1966</b>—Subsec. (c). Pub. L. 89–680 inserted into the authorization for selection of a home for the purposes of the travel and transportation allowances authorized by subsection (a) of this section provisions requiring selection not later than one year from the date of retirement, placement, discharge, or release, except as provided in regulations to be prescribed by the Secretaries concerned.
 
 Subsec. (d). Pub. L. 89–718, §55, struck out reference to the Chief of Finance of the Army in cl. (1), substituted "subsection" for "section" and "$16" for "$12" in cl. (2), substituted "subsection" for "section" in cl. (3), and inserted provision authorizing reimbursement on an actual expenses basis where, due to unusual circumstances of a travel assignment, per diem reimbursement is not enough, but placing a limit of $30 for each day in a travel status.
 
@@ -326,7 +328,7 @@ Amendment by Pub. L. 100–180 applicable with respect to travel performed after
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 100–180, div. A, title VI, §612(b)(1), Dec. 4, 1987, 101 Stat. 1093, provided that: "The amendments made by section 614(a) of the National Defense Authorization Act for Fiscal Year 1987 \[section 614(a) of Pub. L. 99–661, which amended this section\] shall be implemented by the Secretaries concerned (as defined in section 101(5) of title 37, United States Code) not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\] and shall apply with respect to travel performed on or after the date of implementation."
+Pub. L. 100–180, div. A, title VI, §612(b)(1), Dec. 4, 1987, 101 Stat. 1093, provided that: "The amendments made by section 614(a) of the National Defense Authorization Act for Fiscal Year 1987 \[section 614(a) of Pub. L. 99–661, which amended this section\] shall be implemented bythe Secretaries concerned (as defined in section 101(5) of title 37, United States Code) not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\] and shall apply with respect to travel performed on or after the date of implementation."
 
 Pub. L. 99–661, div. A, title VI, §614(b), Nov. 14, 1986, 100 Stat. 3879, which provided that amendments made by section 614(a) of Pub. L. 99–661 shall become effective on such date as the President makes a certification regarding savings to the United States by such amendments, was repealed by Pub. L. 100–180, div. A, title VI, §612(a), Dec. 4, 1987, 101 Stat. 1093.
 
@@ -372,33 +374,13 @@ Amendment by Pub. L. 90–168 effective on first day of first calendar month fol
 
 Pub. L. 100–26, §8(a), Apr. 21, 1987, 101 Stat. 284, as amended by Pub. L. 100–180, div. A, title VI, §612(b)(2), Dec. 4, 1987, 101 Stat. 1093; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "The amendments made to section 474(d) of title 37, United States Code, by section 614(a) of the Defense Authorization Act \[section 614(a) of Pub. L. 99–661\] shall be executed as if that portion of section 9073 of the Defense Appropriations Act \[section 101(c) \[title IX, §9073\] of Pub. L. 99–500 and Pub. L. 99–591, enacting S.2638, §615, which amended subsec. (d) of this section and enacted a provision set out as a note under this section\] which is before the proviso had not been enacted. Such portion of section 9073 which is before the proviso shall not be in effect after the date of the enactment of this Act \[Apr. 21, 1987\], and the reference to 'this section' in such proviso shall be deemed to refer to section 614 of the Defense Authorization Act."
 
+#### Repeal of Policy and Regulation
+
+Pub. L. 115–232, div. A, title VI, §603(c)(1), Aug. 13, 2018, 132 Stat. 1795, provided that: "The policy, and any regulations issued pursuant to such policy, implemented by the Secretary of Defense on November 1, 2014, with respect to reductions in per diem allowances based on duration of temporary duty assignment or civilian travel shall have no force or effect."
+
 #### Modification of Flat Rate Per Diem Requirement for Personnel on Long-Term Temporary Duty Assignments
 
-Pub. L. 114–328, div. A, title VI, §672, Dec. 23, 2016, 130 Stat. 2178, provided that:
-
-"(a)
-
-Modification of Flat Rate.—
-
-&emsp;"(1)
-
-In general.—The Secretary of Defense shall take such action as may be necessary to provide that, to the extent that regulations implementing travel and transportation authorities for military and civilian personnel of the Department of Defense impose a flat rate per diem for meals and incidental expenses for authorized travelers on long-term temporary duty assignments that is at a reduced rate compared to the per diem rate otherwise applicable, the Secretary concerned may waive the applicability of such reduced rate and pay such travelers actual expenses up to the full per diem rate for such travel in any case when the Secretary concerned determines that the reduced flat rate per diem for meals and incidental expenses is not sufficient under the circumstances of the temporary duty assignment.
-
-&emsp;"(2)
-
-Applicability.—The Secretary concerned may exercise the authority provided pursuant to paragraph (1) with respect to per diem payable for any day on or after the date of the enactment of this Act \[Dec. 23, 2016\].
-
-"(b)
-
-Delegation of Authority.—The authority pursuant to subsection (a) may be delegated by the Secretary concerned to an officer at the level of lieutenant general or vice admiral, or above. Such authority may not be delegated to an officer below that level.
-
-"(c)
-
-Waiver of Collection of Receipts.—The Secretary concerned or an officer to whom the authority pursuant to subsection (a) is delegated pursuant to subsection (b) may waive any requirement for the submittal of receipts by travelers on long-term temporary duty assignments for the purpose of receiving the full per diem rate pursuant to subsection (a) if the Secretary concerned or officer, as described in subsection (b), personally certifies that requiring travelers to submit receipts for that purpose will negatively affect mission performance or create an undue administrative burden.
-
-"(d)
-
-Secretary Concerned Defined.—In this section, the term 'Secretary concerned' has the meaning given that term in section 101 of title 37, United States Code."
+Pub. L. 114–328, div. A, title VI, §672, Dec. 23, 2016, 130 Stat. 2178, which related to waiver of reduced flat rate per diem for meals and incidental expenses for long-term temporary duty assignments, was repealed by Pub. L. 115–232, div. A, title VI, §603(c)(2), Aug. 13, 2018, 132 Stat. 1795.
 
 #### Transmission of Certification of Travel and Transportation Allowances to Congress With Respect to Fiscal Year 1987
 

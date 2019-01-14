@@ -2,7 +2,7 @@
 
 (a)
 
-Medal of Honor Recipients.—A former member of the armed forces who is a Medal ofHonor recipient and who is not otherwise entitled to medical and dental benefits under this chapter may, upon request, be given medical and dental care provided by the administering Secretaries in the same manner as if entitled to retired pay.
+Medal of Honor Recipients.—A former member of the armed forces who is a Medal of Honor recipient and who is not otherwise entitled to medical and dental benefits under this chapter may, upon request, be given medical and dental care provided by the administering Secretaries in the same manner as if entitled to retired pay.
 
 (b)
 
@@ -12,13 +12,27 @@ Immediate Dependents.—A person who is an immediate dependent of a Medal of Hon
 
 Definitions.—In this section:
 
-&emsp;(1) The term "Medal of Honor recipient" means a person who has been awarded a medal of honor under section 3741, 6241, or 8741 of this title or section 491 of title 14.
+&emsp;(1) The term "Medal of Honor recipient" means a person who has been awarded a medal of honor under section 7271, 8291, or 9271 of this title or section 491 <sup>1</sup> of title 14.
 
 &emsp;(2) The term "immediate dependent" means a dependent described in subparagraph (A), (B), (C), or (D) of section 1072(2) of this title.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §706(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §706(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175; amended Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+
+#### References in Text
+
+Section 491 of title 14, referred to in subsec. (c)(1), was redesignated section 2732 of title 14 by Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 491 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–232 substituted "section 7271, 8291, or 9271" for "section 3741, 6241, or 8741".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date
 
-Pub. L. 106–398, §1 \[\[div. A\], title VII, §706(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, provided that: "Section 1074h of title 10, United States Code, shall apply with respect to medical and dental care provided on or after the date of the enactment of this Act \[Oct. 30, 2000\]."
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §706(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, provided that: "Section1074h of title 10, United States Code, shall apply with respect to medical and dental care provided on or after the date of the enactment of this Act \[Oct. 30, 2000\]."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

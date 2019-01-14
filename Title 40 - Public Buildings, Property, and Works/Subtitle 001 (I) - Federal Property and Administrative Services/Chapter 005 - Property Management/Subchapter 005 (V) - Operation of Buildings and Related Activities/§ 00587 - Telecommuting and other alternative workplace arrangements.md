@@ -14,7 +14,7 @@ Establishment.—The Administrator of General Services may acquire space for, es
 
 &emsp;(2)
 
-Use.—A telecommuting center may be used by employees of federal agencies, state and local governments, and the private sector. The Administrator shall give federal employees priority in using a telecommuting center. The Administrator may make a telecommuting center available for use by others to the extent it is not fully utilized by federal employees.
+Use.—A telecommuting center may be used by employees of federal agencies, state and local governments, and the private sector. The Administrator shall give federal employees priority in using a telecommuting center.The Administrator may make a telecommuting center available for use by others to the extent it is not fully utilized by federal employees.
 
 &emsp;(3)
 

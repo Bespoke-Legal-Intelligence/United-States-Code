@@ -2,10 +2,9 @@ Subpart B—Other Credits
 
 | Sec. |  |
 | :--- | ---: |
-| [27\.](%C2%A7%2000027%20-%20Taxes%20of%20foreign%20countries%20and%20possessions%20of%20the%20United%20States%3B%20possession%20tax%20credit.md) | Taxes of foreign countries and possessions of the United States; possession tax credit. |
+| [27\.](%C2%A7%2000027%20-%20Taxes%20of%20foreign%20countries%20and%20possessions%20of%20the%20United%20States.md) | Taxes of foreign countries and possessions of the United States. |
 | \[28, 29. | Renumbered.\] |
-| \[30. | Repealed.\] |
-| [30A.](%C2%A7%2000030A%20-%20Puerto%20Rico%20economic%20activity%20credit.md) | Puerto Rico economic activity credit. |
+| \[30, 30A. | Repealed.\] |
 | [30B.](%C2%A7%2000030B%20-%20Alternative%20motor%20vehicle%20credit.md) | Alternative motor vehicle credit. |
 | [30C.](%C2%A7%2000030C%20-%20Alternative%20fuel%20vehicle%20refueling%20property%20credit.md) | Alternative fuel vehicle refueling property credit. |
 | [30D.](%C2%A7%2000030D%20-%20New%20qualified%20plug-in%20electric%20drive%20motor%20vehicles.md) | New qualified plug-in electric drive motor vehicles. |
@@ -13,6 +12,10 @@ Subpart B—Other Credits
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(i), Mar. 23, 2018, 132 Stat. 1206, substituted "Taxes of foreign countries and possessions of the United States" for "Taxes of foreign countries and possessions of the United States; possession tax credit" in item 27.
+
+Pub. L. 115–141, div. U, title IV, §401(d)(1)(B), Mar. 23, 2018, 132 Stat. 1206, which directed amendment of the table of sections for subpart C of part IV of subchapter A of chapter 1 by striking out item 30A "Puerto Rico economic activity credit", was executed to the table of sections for this subpart to reflect the probable intent of Congress.
 
 <b>2014</b>—Pub. L. 113–295, div. A, title II, §221(a)(2)(A), Dec. 19, 2014, 128 Stat. 4037, struck out item 30 "Certain plug-in electric vehicles".
 
@@ -39,11 +42,11 @@ Pub. L. 109–58, title XIII, §§1322(a)(3)(K), 1341(b)(5), 1342(b)(5), Aug. 8,
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00027 - Taxes of foreign countries and possessions of the United States; possession tax credit](%C2%A7%2000027%20-%20Taxes%20of%20foreign%20countries%20and%20possessions%20of%20the%20United%20States%3B%20possession%20tax%20credit.md)
+- [&sect; 00027 - Taxes of foreign countries and possessions of the United States](%C2%A7%2000027%20-%20Taxes%20of%20foreign%20countries%20and%20possessions%20of%20the%20United%20States.md)
 - [&sect; 00028 - Renumbered &sect;45C](%C2%A7%2000028%20-%20Renumbered%20%C2%A745C.md)
 - [&sect; 00029 - Renumbered &sect;45K](%C2%A7%2000029%20-%20Renumbered%20%C2%A745K.md)
 - [&sect; 00030 - Repealed. Pub. L. 113&#8211;295, div. A, title II, &sect;221(a)(2)(A), Dec. 19, 2014, 128 Stat. 4037](%C2%A7%2000030%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93295%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7221%28a%29%282%29%28A%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%204037.md)
-- [&sect; 00030A - Puerto Rico economic activity credit](%C2%A7%2000030A%20-%20Puerto%20Rico%20economic%20activity%20credit.md)
+- [&sect; 00030A - Repealed. Pub. L. 115&#8211;141, div. U, title IV, &sect;401(d)(1)(B), Mar. 23, 2018, 132 Stat. 1206](%C2%A7%2000030A%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93141%2C%20div.%20U%2C%20title%20IV%2C%20%C2%A7401%28d%29%281%29%28B%29%2C%20Mar.%2023%2C%202018%2C%20132%20Stat.%201206.md)
 - [&sect; 00030B - Alternative motor vehicle credit](%C2%A7%2000030B%20-%20Alternative%20motor%20vehicle%20credit.md)
 - [&sect; 00030C - Alternative fuel vehicle refueling property credit](%C2%A7%2000030C%20-%20Alternative%20fuel%20vehicle%20refueling%20property%20credit.md)
 - [&sect; 00030D - New qualified plug-in electric drive motor vehicles](%C2%A7%2000030D%20-%20New%20qualified%20plug-in%20electric%20drive%20motor%20vehicles.md)

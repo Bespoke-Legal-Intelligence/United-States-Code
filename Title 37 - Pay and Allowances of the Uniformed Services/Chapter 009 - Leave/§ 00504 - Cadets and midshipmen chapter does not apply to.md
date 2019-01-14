@@ -1,6 +1,6 @@
 ### §504. Cadets and midshipmen: chapter does not apply to
 
-This chapter does not apply to cadets at the United States Military Academy, the United States Air Force Academy, the Coast GuardAcademy, midshipmen at the United States Naval Academy, or cadets or midshipmen serving elsewhere in the armed forces.
+This chapter does not apply to cadets at the United States Military Academy, the United States Air Force Academy, the Coast Guard Academy, midshipmen at the United States Naval Academy, or cadets or midshipmen serving elsewhere in the armed forces.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 483.)
 

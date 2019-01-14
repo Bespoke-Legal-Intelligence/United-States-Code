@@ -30,5 +30,5 @@ The revolving fund shall be subject to audit by the Comptroller General at the C
 
 #### Amendments
 
-<b>2007</b>—Subsec. (e). Pub. L. 110–161 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "Not later than March 31 of each year, the Librarian of Congress shall prepare and submit to Congress an audited financial statement for the revolving fund for the preceding fiscal year. The audit shall be conducted in accordance with Government Auditing Standards for financial audits issued by the Comptroller General of the United States."
+<b>2007</b>—Subsec. (e). Pub. L. 110–161 amended heading and text of subsec. (e) generally. Prior to amendment,text read as follows: "Not later than March 31 of each year, the Librarian of Congress shall prepare and submit to Congress an audited financial statement for the revolving fund for the preceding fiscal year. The audit shall be conducted in accordance with Government Auditing Standards for financial audits issued by the Comptroller General of the United States."
 

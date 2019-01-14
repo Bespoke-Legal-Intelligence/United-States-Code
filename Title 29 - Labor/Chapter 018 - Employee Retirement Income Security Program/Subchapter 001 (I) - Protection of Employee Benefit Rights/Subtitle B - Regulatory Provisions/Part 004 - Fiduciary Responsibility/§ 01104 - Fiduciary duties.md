@@ -2,7 +2,7 @@
 
 #### (a) Prudent man standard of care
 
-(1) Subject to sections 1103(c) and (d), 1342, and 1344 of this title, a fiduciary shall discharge his duties with respect to a plan solely in the interest of the participants and beneficiaries and—
+(1) Subject to sections 1103(c) and (d), 1342, and 1344 of this title, a fiduciary shall discharge hisduties with respect to a plan solely in the interest of the participants and beneficiaries and—
 
 &emsp;(A) for the exclusive purpose of:
 
@@ -42,7 +42,7 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 &emsp;(C) one year after the simple retirement account is established.
 
-> No reports, other than those required under section 1021(g) of this title, shall be required withrespect to a simple retirement account established pursuant to such a qualified salary reduction arrangement.
+> No reports, other than those required under section 1021(g) of this title, shall be required with respect to a simple retirement account established pursuant to such a qualified salary reduction arrangement.
 
 (3) In the case of a pension plan which makes a transfer to an individual retirement account or annuity of a designated trustee or issuer under section 401(a)(31)(B) of title 26, the participant or beneficiary shall, for purposes of paragraph (1), be treated as exercising control over the assets in the account or annuity upon—
 
@@ -64,7 +64,7 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 (C) The requirements of this subparagraph are met in connection with a qualified change in investment options if—
 
-&emsp;(i) at least 30 days and no more than 60 days prior to the effective date of the change, the plan administrator furnishes written notice of the change to the participants and beneficiaries, including information comparing the existing and new investment options and an explanation that, in the absence of affirmative investment instructions from the participant or beneficiary to the contrary, the account of the participant or beneficiary will be invested in the manner described in subparagraph (B),
+&emsp;(i) at least 30 days and no more than 60 days prior to the effective date of the change, theplan administrator furnishes written notice of the change to the participants and beneficiaries, including information comparing the existing and new investment options and an explanation that, in the absence of affirmative investment instructions from the participant or beneficiary to the contrary, the account of the participant or beneficiary will be invested in the manner described in subparagraph (B),
 
 &emsp;(ii) the participant or beneficiary has not provided to the plan administrator, in advance of the effective date of the change, affirmative investment instructions contrary to the change, and
 
@@ -208,7 +208,7 @@ Pub. L. 109–280, title VI, §625, Aug. 17, 2006, 120 Stat. 980, provided that:
 
 "(a)
 
-In General.—Not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\], theSecretary of Labor shall issue final regulations clarifying that the selection of an annuity contract as an optional form of distribution from an individual account plan to a participant or beneficiary—
+In General.—Not later than 1 year after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor shall issue final regulations clarifying that the selection of an annuity contract as an optional form of distribution from an individual account plan to a participant or beneficiary—
 
 &emsp;"(1) is not subject to the safest available annuity standard under Interpretive Bulletin 95–1 (29 CFR 2509.95–1), and
 

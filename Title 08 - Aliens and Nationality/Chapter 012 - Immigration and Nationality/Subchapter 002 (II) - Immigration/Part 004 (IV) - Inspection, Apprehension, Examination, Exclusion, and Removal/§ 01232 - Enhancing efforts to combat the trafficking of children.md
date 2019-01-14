@@ -10,7 +10,7 @@
 
 #### (A) Determinations
 
-&emsp;&emsp;Any unaccompanied alien child who is a national or habitual resident of a country that is contiguous with the United States shall be treated in accordance with subparagraph (B), if the Secretary of Homeland Security determines, on a case-by-case basis, that—
+&emsp;&emsp;Any unaccompanied alien child who is a national or habitual resident of a countrythat is contiguous with the United States shall be treated in accordance with subparagraph (B), if the Secretary of Homeland Security determines, on a case-by-case basis, that—
 
 &emsp;&emsp;&emsp;(i) such child has not been a victim of a severe form of trafficking in persons, and there is no credible evidence that such child is at risk of being trafficked upon return to the child's country of nationality or of last habitual residence;
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(v) any information gathered in assessments of country and local conditions pursuant to paragraph (2); and
 
-&emsp;&emsp;&emsp;(vi) statistical information and other data on unaccompanied alien children as provided for in section 279(b)(1)(J) of title 6.
+&emsp;&emsp;&emsp;(vi) statistical information and other data on unaccompanied alien children asprovided for in section 279(b)(1)(J) of title 6.
 
 #### (D) Placement in removal proceedings
 
@@ -144,7 +144,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Health and Human Services is authorized to appoint independent child advocates for child trafficking victimsand other vulnerable unaccompanied alien children. A child advocate shall be provided access to materials necessary to effectively advocate for the best interest of the child. The child advocate shall not be compelled to testify or provide evidence in any proceeding concerning any information or opinion received from the child in the course of serving as a child advocate. The child advocate shall be presumed to be acting in good faith and be immune from civil liability for lawful conduct of duties as described in this provision.
+&emsp;&emsp;The Secretary of Health and Human Services is authorized to appoint independent child advocates for child trafficking victims and other vulnerable unaccompanied alien children. A child advocate shall be provided access to materials necessary to effectively advocate for the best interest of the child. The child advocate shall not be compelled to testify or provide evidence in any proceeding concerning any information or opinion received from the child in the course of serving as a child advocate. The child advocate shall be presumed to be acting in good faith and be immune from civil liability for lawful conduct of duties as described in this provision.
 
 #### (B) Appointment of child advocates
 
@@ -180,7 +180,7 @@
 
 #### (D) Annual report to Congress
 
-&emsp;&emsp;Not later than 1 year after March 7, 2013, and annually thereafter, the Secretary of Health and Human Services shall submit a report describing the activities undertaken by the Secretary to authorize the appointment of independent Child Advocates for trafficking victims and vulnerable unaccompanied alien children to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
+&emsp;&emsp;Not later than 1 year after March 7, 2013, and annually thereafter, the Secretary ofHealth and Human Services shall submit a report describing the activities undertaken by the Secretary to authorize the appointment of independent Child Advocates for trafficking victims and vulnerable unaccompanied alien children to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
 
 #### (E) Assessment of Child Advocate Program
 
@@ -216,11 +216,11 @@
 
 #### (F) Authorization of appropriations
 
-&emsp;&emsp;There are authorized to be appropriated to the Secretary and Human Services <sup>3</sup> to carry out this subsection—
+&emsp;&emsp;There are authorized to be appropriated to the Secretary of Health and Human Services to carry out this subsection—
 
 &emsp;&emsp;&emsp;(i) $1,000,000 for each of the fiscal years 2014 and 2015; and
 
-&emsp;&emsp;&emsp;(ii) $2,000,000 for each of the fiscal years 2016 and 2017.
+&emsp;&emsp;&emsp;(ii) $2,000,000 for each of fiscal years 2018 through 2021.
 
 #### (d) Permanent protection for certain at-risk children
 
@@ -252,7 +252,7 @@
 
 #### (6) Transition rule
 
-&emsp;Notwithstanding any other provision of law, an alien described in section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)), as amended by paragraph (1), may not be denied special immigrant status under such section after December 23, 2008, based on age if the alien was a child on the date on which the alien applied for such status.
+&emsp;Notwithstanding any other provision of law, an alien described in section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)), as amended by paragraph (1), may not be denied special immigrant statusunder such section after December 23, 2008, based on age if the alien was a child on the date on which the alien applied for such status.
 
 #### (7) Omitted
 
@@ -282,13 +282,13 @@ This section—
 
 The Secretary of Health and Human Services may award grants to, and enter into contracts with, voluntary agencies to carry out this section and section 279 of title 6.
 
-(Pub. L. 110–457, title II, §235, Dec. 23, 2008, 122 Stat. 5074; Pub. L. 113–4, title XII, §§1261–1263, Mar. 7, 2013, 127 Stat. 156–159.)
+(Pub. L. 110–457, title II, §235, Dec. 23, 2008, 122 Stat. 5074; Pub. L. 113–4, title XII, §§1261–1263, Mar. 7, 2013, 127 Stat. 156–159; Pub. L. 115–393, title III, §301(d), Dec. 21, 2018, 132 Stat. 5272.)
 
 #### References in Text
 
 The Immigration and Nationality Act, referred to in subsec. (a)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-March 7, 2013, referred to in subsec. (c)(6)(E)(iii), was in the original "the date of the enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 113–4, known as the Violence Against Women Reauthorization Act of 2013, which enacted subsec.\(c)(6)(B) to (F), to reflect the probable intent of Congress. Other references to March 7, 2013, in subpars. (B) to (F) of subsec. (c)(6) were in the original "the date of the enactment of the Violence Against Women Reauthorization Act of 2013".
+March 7, 2013, referred to in subsec. (c)(6)(E)(iii), was in the original "the date of the enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 113–4, known as the Violence Against Women Reauthorization Act of 2013, which enacted subsec. (c)(6)(B) to (F), to reflect the probable intent of Congress. Other references to March 7, 2013, in subpars. (B) to (F) of subsec. (c)(6) were in the original "the date of the enactment of the Violence Against Women Reauthorization Act of 2013".
 
 #### Codification
 
@@ -297,6 +297,10 @@ Section is comprised of section 235 of Pub. L. 110–457. Pars. (1), (3), and (7
 Section was enacted as part of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(6)(F). Pub. L. 115–393, §301(d)(1), substituted "Secretary of Health and Human Services" for "Secretary and Human Services" in introductory provisions.
+
+Subsec. (c)(6)(F)(ii). Pub. L. 115–393, §301(d)(2), substituted "fiscal years 2018 through 2021" for "the fiscal years 2016 and 2017".
 
 <b>2013</b>—Subsec. (c)(2). Pub. L. 113–4, §1261, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
@@ -309,6 +313,4 @@ Subsec. (d)(4)(B). Pub. L. 113–4, §1263(2), inserted ", or status under sect
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be "Secretary of Health and Human Services".</i>
 

@@ -48,7 +48,7 @@ Pub. L. 115–91, div. A, title VII, §708, Dec. 12, 2017, 131 Stat. 1436, provi
 
 "(a)
 
-In General.—The Secretary of Defense shall implement processes and procedures to ensure that a covered beneficiary under the TRICARE program whose pregnancy is complicated with (or suspected of complication with) a fetal condition may elect to receive expedited evaluation, nondirective counseling, and medical treatment from a perinatal or pediatric specialist capable of providing surgical management and intervention in utero.
+In General.—The Secretary of Defense shall implement processes and procedures to ensure that a covered beneficiary under the TRICARE program whose pregnancy is complicated with (or suspected of complication with) a fetal condition may elect to receive expedited evaluation, nondirective counseling, andmedical treatment from a perinatal or pediatric specialist capable of providing surgical management and intervention in utero.
 
 "(b)
 
@@ -64,7 +64,7 @@ Clinical Practice Guidelines.—
 
 &emsp;"(1)
 
-Establishment.—Not later than one year after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall establish clinical practice guidelines for health care providers employed bythe Department of Defense on standards of care with respect to methods of contraception and counseling on methods of contraception for members of the Armed Forces.
+Establishment.—Not later than one year after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall establish clinical practice guidelines for health care providers employed by the Department of Defense on standards of care with respect to methods of contraception and counseling on methods of contraception for members of the Armed Forces.
 
 &emsp;"(2)
 
@@ -156,7 +156,7 @@ Support of Research.—The Center shall support health research into matters rel
 
 "(c)
 
-Competition Requirement Relating to Establishment of Center.—The Center may be established only pursuant to a competition among existing Department of Defense medical centers.
+Competition Requirement Relating to Establishment of Center.—The Center may be establishedonly pursuant to a competition among existing Department of Defense medical centers.
 
 "(d)
 

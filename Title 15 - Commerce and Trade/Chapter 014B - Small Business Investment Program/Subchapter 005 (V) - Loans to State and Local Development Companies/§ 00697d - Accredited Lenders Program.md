@@ -46,7 +46,7 @@ For purposes of this section, the term "qualified State or local development com
 
 #### Regulations
 
-Pub. L. 103–403, title II, §212(b), Oct. 22, 1994, 108 Stat. 4184, provided that: "Not later than 120 days after thedate of enactment of this Act \[Oct. 22, 1994\], the Administration shall promulgate final regulations to carry out this section \[enacting this section and provisions set out below\]."
+Pub. L. 103–403, title II, §212(b), Oct. 22, 1994, 108 Stat. 4184, provided that: "Not later than 120 days after the date of enactment of this Act \[Oct. 22, 1994\], the Administration shall promulgate final regulations to carry out this section \[enacting this section and provisions set out below\]."
 
 #### Report on Implementation of Program
 

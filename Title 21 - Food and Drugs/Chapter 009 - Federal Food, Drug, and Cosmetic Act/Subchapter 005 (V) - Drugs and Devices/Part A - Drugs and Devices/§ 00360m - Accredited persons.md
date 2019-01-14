@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(ii) a device classified under section 360c(f)(2) of this title or designated under section 360e–3(d) <sup>1</sup> of this title;
 
-&emsp;&emsp;&emsp;(iii) a device that is intended to be permanently implantable, life sustaining, orlife supporting, unless otherwise determined by the Secretary in accordance with subparagraph (B)(i)(II) and listed as eligible for review under subparagraph (B)(iii); or
+&emsp;&emsp;&emsp;(iii) a device that is intended to be permanently implantable, life sustaining, or life supporting, unless otherwise determined by the Secretary in accordance with subparagraph (B)(i)(II) and listed as eligible for review under subparagraph (B)(iii); or
 
 &emsp;&emsp;&emsp;(iv) a device that is of a type, or subset of a type, listed as not eligible for review under subparagraph (B)(iii).
 
@@ -150,7 +150,7 @@ Subsec. (b)(2)(D), (E). Pub. L. 115–52, §206(2)(A), redesignated subpar. (E) 
 
 Subsec. (b)(3)(E). Pub. L. 115–52, §206(2)(B)(iii), added subpar. (E). Former subpar. (E) redesignated (F).
 
-Subsec. (b)(3)(F). Pub. L. 115–52, §206(2)(B)(i), (ii), redesignated subpar. (E) as (F) and substituted "Such person shall agree, at a minimum, to include in its request for accreditation a commitment to, at the time of accreditation, and at any time it is performing any review pursuant to this section" for "The operations of such person shall be in accordance with generally accepted professional and ethical business practices and shall agree in writing that as a minimum it will" in introductory provisions.
+Subsec. (b)(3)(F). Pub. L. 115–52, §206(2)(B)(i), (ii), redesignated subpar. (E) as (F) and substituted "Such person shall agree, at a minimum, to include in its request for accreditation a commitment to, at the time of accreditation, and at any time it is performing any review pursuant to this section" for "The operations ofsuch person shall be in accordance with generally accepted professional and ethical business practices and shall agree in writing that as a minimum it will" in introductory provisions.
 
 Subsec. (c). Pub. L. 115–52, §206(3), substituted "2022' for "2017".
 
@@ -192,7 +192,7 @@ Comptroller general.—
 
 &emsp;"(A)
 
-Implementation of program.—Not later than 5 years after the date of the enactment of this Act\[Nov. 21, 1997\], the Comptroller General of the United States shall submit to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate a report describing the extent to which the program of accreditation required by the amendment made by subsection (a) \[enacting this section\] has been implemented.
+Implementation of program.—Not later than 5 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Comptroller General of the United States shall submit to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate a report describing the extent to which the program of accreditation required by the amendment made by subsection (a) \[enacting this section\] has been implemented.
 
 &emsp;"(B)
 

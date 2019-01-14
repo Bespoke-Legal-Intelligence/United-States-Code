@@ -10,7 +10,7 @@ The Secretary may enter into cooperative agreements with the State of Georgia, p
 
 #### (c) Consultation with Secretary of Army
 
-In planning for the development and public use of the recreation area, the Secretary shall consult with the Secretary of the Army to assure that public use of adjacent or related water resource development or flood control projects and that of the recreation area are complementary.
+In planning for the development and public use of the recreation area, the Secretary shallconsult with the Secretary of the Army to assure that public use of adjacent or related water resource development or flood control projects and that of the recreation area are complementary.
 
 #### (d) Establishment, regulations governing, etc., of fishing zones
 

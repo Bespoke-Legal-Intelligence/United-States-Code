@@ -66,7 +66,7 @@ The owner, operator, or agent in charge of a facility shall prepare a written pl
 
 #### (i) Requirement to reanalyze
 
-The owner, operator, or agent in charge of a facility shall conduct a reanalysis under subsection (b) whenever a significant change is made in the activities conducted at a facility operated by such owner, operator, or agent if the change creates a reasonable potential for a newhazard or a significant increase in a previously identified hazard or not less frequently than once every 3 years, whichever is earlier. Such reanalysis shall be completed and additional preventive controls needed to address the hazard identified, if any, shall be implemented before the change in activities at the facility is operative. Such owner, operator, or agent shall revise the written plan required under subsection (h) if such a significant change is made or document the basis for the conclusion that no additional or revised preventive controls are needed. The Secretary may require a reanalysis under this section to respond to new hazards and developments in scientific understanding, including, as appropriate, results from the Department of Homeland Security biological, chemical, radiological, or other terrorism risk assessment.
+The owner, operator, or agent in charge of a facility shall conduct a reanalysis under subsection (b) whenever a significant change is made in the activities conducted at a facility operated by such owner, operator, or agent if the change creates a reasonable potential for a new hazard or a significant increase in a previously identified hazard or not less frequently than once every 3 years, whichever is earlier. Such reanalysis shall be completed and additional preventive controls needed to address the hazard identified, if any, shall be implemented before the change in activities at the facility is operative. Such owner, operator, or agent shall revise the written plan required under subsection (h) if such a significant change is made or document the basis for the conclusion that no additional or revised preventive controls are needed. The Secretary may require a reanalysis under this section to respond to new hazards and developments in scientific understanding, including, as appropriate, results from the Department of Homeland Security biological, chemical, radiological, or other terrorism risk assessment.
 
 #### (j) Exemption for seafood, juice, and low-acid canned food facilities subject to HACCP
 
@@ -222,7 +222,7 @@ This section shall not apply to activities of a facility that are subject to sec
 
 #### (m) Authority with respect to certain facilities
 
-The Secretary may, by regulation, exempt or modify the requirements for compliance under this section with respect to facilities that aresolely engaged in the production of food for animals other than man, the storage of raw agricultural commodities (other than fruits and vegetables) intended for further distribution or processing, or the storage of packaged foods that are not exposed to the environment.
+The Secretary may, by regulation, exempt or modify the requirements for compliance under this section with respect to facilities that are solely engaged in the production of food for animals other than man, the storage of raw agricultural commodities (other than fruits and vegetables) intended for further distribution or processing, or the storage of packaged foods that are not exposed to the environment.
 
 #### (n) Regulations
 
@@ -264,7 +264,7 @@ For purposes of this section:
 
 #### (1) Critical control point
 
-&emsp;The term "critical control point" means a point, step, or procedure in a food process at which control can be applied and is essential to prevent or eliminate a food safety hazard or reduce such hazard to an acceptable level.
+&emsp;The term "critical control point" means a point, step, or procedure in a food process atwhich control can be applied and is essential to prevent or eliminate a food safety hazard or reduce such hazard to an acceptable level.
 
 #### (2) Facility
 
@@ -308,7 +308,7 @@ Flexibility for small businesses.—Notwithstanding paragraph (1)—
 
 #### Construction
 
-Nothing in this section to be construed to apply to certain alcohol-related facilities, to alter jurisdictionand authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
+Nothing in this section to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 
 #### Guidance Document
 

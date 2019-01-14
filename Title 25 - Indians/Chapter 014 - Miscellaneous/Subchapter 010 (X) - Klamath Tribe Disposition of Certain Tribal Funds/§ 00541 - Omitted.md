@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, act Aug. 7, 1939, ch. 552, §1, 53 Stat. 1252, which assigned individual monetary credits from the judgment fund to members of the Klamath Tribes to be used for certain purposes, was omitted from the Code as being of special and not general application.
+Section, act Aug. 7, 1939, ch. 552, §1, 53 Stat. 1252, which assigned individual monetary credits from thejudgment fund to members of the Klamath Tribes to be used for certain purposes, was omitted from the Code as being of special and not general application.
 

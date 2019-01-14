@@ -32,7 +32,7 @@ There is authorized to be appropriated to carry out this subsection $2,000,000 f
 
 #### References in Text
 
-The National Wildlife Refuge System Administration Act of 1966, referred to in par. (1)(C), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under section 668dd of this title.
+The National Wildlife Refuge System Administration Act of 1966, referred to in par. (1)(C), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927 and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under section 668dd of this title.
 
 #### Codification
 

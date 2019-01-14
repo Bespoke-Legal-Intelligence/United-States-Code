@@ -12,7 +12,7 @@ There is established in the Treasury an interest bearing fund to be known as the
 
 &emsp;&emsp;(A) shall be available only for use by the Secretary, in consultation with the Secretary of the Interior—
 
-&emsp;&emsp;&emsp;(i) to compensate persons for special costs incurred in acting in accordance with the contingency plan issued under section 1421c(b) of this title or under thedirection of an Onsite Coordinator for an unusual mortality event;
+&emsp;&emsp;&emsp;(i) to compensate persons for special costs incurred in acting in accordance with the contingency plan issued under section 1421c(b) of this title or under the direction of an Onsite Coordinator for an unusual mortality event;
 
 &emsp;&emsp;&emsp;(ii) for reimbursing any stranding network participant for costs incurred in preparing and transporting tissues collected with respect to an unusual mortality event for the Tissue Bank; and
 

@@ -24,6 +24,10 @@ The Congress further finds that—
 
 Section was formerly classified to section 450 of this title prior to editorial reclassification and renumbering as this section.
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–404, §1, Dec. 31, 2018, 132 Stat. 5349, provided that: "This Act \[enacting section 5348 of this title\] may be cited as the 'Johnson-O'Malley Supplemental Indian Education Program Modernization Act'."
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–568, title VIII, §801, Dec. 27, 2000, 114 Stat. 2916, provided that: "This title \[see Tables for classification\] may be cited as the 'Native American Laws Technical Corrections Act of 2000'."
@@ -38,7 +42,7 @@ Pub. L. 103–413, §1, Oct. 25, 1994, 108 Stat. 4250, provided that: "This Act 
 
 Pub. L. 103–413, title I, §101, Oct. 25, 1994, 108 Stat. 4250, provided that: "This title \[see Tables for classification\] may be cited as the 'Indian Self-Determination Contract Reform Act of 1994'."
 
-Pub. L. 103–413, title II, §201, Oct. 25, 1994, 108 Stat. 4270, provided that: "This title \[enacting subchapter IV (§5361 et seq.) of this chapter and provisions set out asnotes under section 5361 of this title\] may be cited as the 'Tribal Self-Governance Act of 1994'."
+Pub. L. 103–413, title II, §201, Oct. 25, 1994, 108 Stat. 4270, provided that: "This title \[enacting subchapter IV (§5361 et seq.) of this chapter and provisions set out as notes under section 5361 of this title\] may be cited as the 'Tribal Self-Governance Act of 1994'."
 
 #### Short Title of 1990 Amendment
 
@@ -50,13 +54,13 @@ Pub. L. 100–472, title I, §101, Oct. 5, 1988, 102 Stat. 2285, provided that: 
 
 #### Short Title
 
-Pub. L. 93–638, §1, Jan. 4, 1975, 88 Stat. 2203, provided: "That this Act \[enacting this chapter, section 13a of this title, and section 2004b of Title 42, The Public Health and Welfare, and amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 3806 of Title 50, War and National Defense\] may be cited as the 'Indian Self-Determination and Education Assistance Act'."
+Pub. L. 93–638, §1, Jan. 4, 1975, 88 Stat. 2203, provided: "That this Act \[enacting this chapter, section 13a of this title, and section 2004b of Title 42, The Public Health and Welfare, and amending section 3371 of Title 5, Government Organization and Employees, section4762 of Title 42, and section 3806 of Title 50, War and National Defense\] may be cited as the 'Indian Self-Determination and Education Assistance Act'."
 
 Pub. L. 93–638, title I, §101, Jan. 4, 1975, 88 Stat. 2206, provided that: "This title \[enacting subchapter I (§5321 et seq.) of this chapter and section 2004b of Title 42, The Public Health and Welfare, and amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 3806 of Title 50, War and National Defense\] may be cited as the 'Indian Self-Determination Act'."
 
 Pub. L. 93–638, title II, §201, Jan. 4, 1975, 88 Stat. 2213, provided that: "This title \[enacting subchapter III (§5351 et seq.) of this chapter, sections 5345 to 5347 of this title, and provisions set out as a note under section 5347 of this title\] may be cited as the 'Indian Education Assistance Act'."
 
-Act April 16, 1934, ch. 147, 48 Stat. 596, which enacted sections 5342 to 5347 of this title, is popularly known as the "Johnson-O'Malley Act".
+Act April 16, 1934, ch. 147, 48 Stat. 596, which enacted sections 5342 to 5348 of this title, is popularly known as the "Johnson-O'Malley Act".
 
 #### Savings Provisions
 
@@ -110,7 +114,7 @@ Sec. 3. <i>Policymaking Criteria</i>. In addition to adhering to the fundamental
 
 (2) where possible, defer to Indian tribes to establish standards; and
 
-(3) in determining whether to establish Federal standards, consult with tribal officials as to the need for Federal standards and any alternatives that wouldlimit the scope of Federal standards or otherwise preserve the prerogatives and authority of Indian tribes.
+(3) in determining whether to establish Federal standards, consult with tribal officials as to the need for Federal standards and any alternatives that would limit the scope of Federal standards or otherwise preserve the prerogatives and authority of Indian tribes.
 
 Sec. 4. <i>Special Requirements for Legislative Proposals</i>. Agencies shall not submit to the Congress legislation that would be inconsistent with the policymaking criteria in Section 3.
 
@@ -118,7 +122,7 @@ Sec. 5. <i>Consultation</i>. (a) Each agency shall have an accountable process t
 
 (b) To the extent practicable and permitted by law, no agency shall promulgate any regulation that has tribal implications, that imposes substantial direct compliance costs on Indian tribal governments, and that is not required by statute, unless:
 
-(1) funds necessary to pay the direct costs incurred by the Indian tribal government or the tribe in complying with the regulation are provided by the Federal Government; or
+(1) funds necessary to pay the direct costs incurred by the Indian tribal government or the tribe in complyingwith the regulation are provided by the Federal Government; or
 
 (2) the agency, prior to the formal promulgation of the regulation,
 
@@ -178,11 +182,11 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The United States recognizes a government-to-government relationship, as well as a unique legal and political relationship, with federally recognized tribes. This relationship is set forth in the Constitution of the United States, treaties, statutes, Executive Orders, administrative rules and regulations, and judicial decisions. Honoring these relationships and respecting the sovereignty of tribal nations is critical to advancing tribal self-determination and prosperity.
 
-As we work together to forge a brighter future for all Americans, we cannot ignore a history of mistreatmentand destructive policies that have hurt tribal communities. The United States seeks to continue restoring and healing relations with Native Americans and to strengthen its partnership with tribal governments, for our more recent history demonstrates that tribal self-determination—the ability of tribal governments to determine how to build and sustain their own communities—is necessary for successful and prospering communities. We further recognize that restoring tribal lands through appropriate means helps foster tribal self-determination.
+As we work together to forge a brighter future for all Americans, we cannot ignore a history of mistreatment and destructive policies that have hurt tribal communities. The United States seeks to continue restoring and healing relations with Native Americans and to strengthen its partnership with tribal governments, for our more recent history demonstrates that tribal self-determination—the ability of tribal governments to determine how to build and sustain their own communities—is necessary for successful and prospering communities. We further recognize that restoring tribal lands through appropriate means helps foster tribal self-determination.
 
 This order establishes a national policy to ensure that the Federal Government engages in a true and lasting government-to-government relationship with federally recognized tribes in a more coordinated and effective manner, including by better carrying out its trust responsibilities. This policy is established as a means of promoting and sustaining prosperous and resilient tribal communities. Greater engagement and meaningful consultation with tribes is of paramount importance in developing any policies affecting tribal nations.
 
-To honor treaties and recognize tribes' inherent sovereignty and right to self-government under U.S. law, it is the policy of the United States to promote the development of prosperous and resilient tribal communities, including by:
+To honor treaties and recognize tribes' inherent sovereignty and right to self-government under U.S. law,it is the policy of the United States to promote the development of prosperous and resilient tribal communities, including by:
 
 (a) promoting sustainable economic development, particularly energy, transportation, housing, other infrastructure, entrepreneurial, and workforce development to drive future economic growth and security;
 
@@ -344,7 +348,7 @@ My Administration is committed to regular and meaningful consultation and collab
 
 Each agency's plan and subsequent reports shall designate an appropriate official to coordinate implementation of the plan and preparation of progress reports required by this memorandum. The Assistant to the President for Domestic Policy and the Director of the OMB shall review agency plans and subsequent reports for consistency with the policies and directives of Executive Order 13175.
 
-In addition, the Director of the OMB, in coordination with the Assistant to the President for Domestic Policy, shall submit to me, within 1 year from the date of this memorandum, a report on the implementation ofExecutive Order 13175 across the executive branch based on the review of agency plans and progress reports. Recommendations for improving the plans and making the tribal consultation process more effective, if any, should be included in this report.
+In addition, the Director of the OMB, in coordination with the Assistant to the President for Domestic Policy, shall submit to me, within 1 year from the date of this memorandum, a report on the implementation of Executive Order 13175 across the executive branch based on the review of agency plans and progress reports. Recommendations for improving the plans and making the tribal consultation process more effective, if any, should be included in this report.
 
 The terms "Indian tribe," "tribal officials," and "policies that have tribal implications" as used in this memorandum are as defined in Executive Order 13175.
 

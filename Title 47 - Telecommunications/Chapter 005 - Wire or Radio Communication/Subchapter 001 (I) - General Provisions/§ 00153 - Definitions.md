@@ -16,7 +16,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (2) Affiliate
 
-&emsp;The term "affiliate" means a person that (directly or indirectly) owns or controls, isowned or controlled by, or is under common ownership or control with, another person. For purposes of this paragraph, the term "own" means to own an equity interest (or the equivalent thereof) of more than 10 percent.
+&emsp;The term "affiliate" means a person that (directly or indirectly) owns or controls, is owned or controlled by, or is under common ownership or control with, another person. For purposes of this paragraph, the term "own" means to own an equity interest (or the equivalent thereof) of more than 10 percent.
 
 #### (3) Amateur station
 
@@ -150,7 +150,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (33) Mobile service
 
-&emsp;The term "mobile service" means a radio communication service carried on between mobile stations or receivers and land stations, and by mobile stations communicating among themselves, and includes (A) both one-way and two-way radio communication services, (B) a mobile service which provides a regularly interacting group of base, mobile, portable, and associated control and relay stations (whether licensed on an individual, cooperative, or multiple basis) for private one-way or two-way land mobile radio communications by eligible users over designated areas of operation, and (C) any service for which a license is required in a personal communications service established pursuant to the proceeding entitled "Amendment to the Commission's Rules to Establish New Personal Communications Services" (GEN Docket No. 90–314; ET Docket No. 92–100), or any successor proceeding.
+&emsp;The term "mobile service" means a radio communication service carried on between mobile stations or receivers and land stations, and by mobile stations communicating among themselves, and includes (A) both one-way and two-way radio communication services, (B) a mobile service which provides a regularly interacting group of base, mobile, portable,and associated control and relay stations (whether licensed on an individual, cooperative, or multiple basis) for private one-way or two-way land mobile radio communications by eligible users over designated areas of operation, and (C) any service for which a license is required in a personal communications service established pursuant to the proceeding entitled "Amendment to the Commission's Rules to Establish New Personal Communications Services" (GEN Docket No. 90–314; ET Docket No. 92–100), or any successor proceeding.
 
 #### (34) Mobile station
 
@@ -210,7 +210,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 &emsp;&emsp;(A) provides common carrier service to any local exchange carrier study area that does not include either—
 
-&emsp;&emsp;&emsp;(i) any incorporated place of 10,000 inhabitants or more, or any part thereof, based on the most recently available population statistics of the Bureau of the Census; or
+&emsp;&emsp;&emsp;(i) any incorporated place of 10,000 inhabitants or more, or any part thereof, basedon the most recently available population statistics of the Bureau of the Census; or
 
 &emsp;&emsp;&emsp;(ii) any territory, incorporated or unincorporated, included in an urbanized area, as defined by the Bureau of the Census as of August 10, 1993;
 
@@ -284,7 +284,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (57) Transmission of energy by radio
 
-&emsp;The term "transmission of energy by radio" or "radio transmission of energy" includes both such transmission and all instrumentalities, facilities, and services incidental to such transmission.
+&emsp;The term "transmission of energy by radio" or "radio transmission of energy" includesboth such transmission and all instrumentalities, facilities, and services incidental to such transmission.
 
 #### (58) United States
 
@@ -292,7 +292,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (59) Wire communication
 
-&emsp;The term "wire communication" or "communication by wire" means the transmission of writing, signs, signals, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus, andservices (among other things, the receipt, forwarding, and delivery of communications) incidental to such transmission.
+&emsp;The term "wire communication" or "communication by wire" means the transmission of writing, signs, signals, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus, and services (among other things, the receipt, forwarding, and delivery of communications) incidental to such transmission.
 
 (June 19, 1934, ch. 652, title I, §3, 48 Stat. 1065; May 20, 1937, ch. 229, §2, 50 Stat. 189; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; July 16, 1952, ch. 879, §2, 66 Stat. 711; Apr. 27, 1954, ch. 175, §§2, 3, 68 Stat. 64; Aug. 13, 1954, ch. 729, §3, 68 Stat. 707; Aug. 13, 1954, ch. 735, §1, 68 Stat. 729; Aug. 6, 1956, ch. 973, §3, 70 Stat. 1049; Pub. L. 89–121, §1, Aug. 13, 1965, 79 Stat. 511; Pub. L. 90–299, §2, May 3, 1968, 82 Stat. 112; Pub. L. 97–259, title I, §120(b), Sept. 13, 1982, 96 Stat. 1097; Pub. L. 103–66, title VI, §6002(b)(2)(B)(ii), Aug. 10, 1993, 107 Stat. 396; Pub. L. 104–104, §3(a), (c), Feb. 8, 1996, 110 Stat. 58, 61; Pub. L. 105–33, title III, §3001(b), Aug. 5, 1997, 111 Stat. 258; Pub. L. 111–260, title I, §101, Oct. 8, 2010, 124 Stat. 2752.)
 
@@ -376,7 +376,7 @@ Amendment by act Aug. 13, 1954, ch. 735, effective Nov. 13, 1954, see section 6 
 
 #### Effective Date of 1952 Amendment
 
-Section 19 of act July 16, 1952, provided that: "This Act \[enacting section 1343 of Title 18, Crimes andCriminal Procedure, amending this section and sections 154, 155, 307 to 312, 315, 316, 319, 402, 405, 409, and 410 of this title, and enacting provisions set out as notes under this section and section 609 of this title\] shall take effect on the date of its enactment \[July 16, 1952\], but—
+Section 19 of act July 16, 1952, provided that: "This Act \[enacting section 1343 of Title 18, Crimes and Criminal Procedure, amending this section and sections 154, 155, 307 to 312, 315, 316, 319, 402, 405, 409, and 410 of this title, and enacting provisions set out as notes under this section and section 609 of this title\] shall take effect on the date of its enactment \[July 16, 1952\], but—
 
 &emsp;"(1) Insofar as the amendments made by this Act to the Communications Act of 1934 \[this chapter\] provide for procedural changes, requirements imposed by such changes shall not be mandatory as to any agency proceeding (as defined in the Administrative Procedure Act) \[see sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees\] with respect to which hearings have been commenced prior to the date of enactment of this Act \[July 16, 1952\].
 
@@ -456,7 +456,7 @@ Video description.—The term 'video description' has the meaning given such ter
 
 Video programming.—The term 'video programming' has the meaning given such term in section 713 of the Communications Act of 1934 (47 U.S.C. 613)."
 
-Pub. L. 105–33, title III, §3001(a), Aug. 5, 1997, 111 Stat. 258, provided that: "Except as otherwise provided in this title \[enacting section 337 of this title, amending this section and sections 303, 309, and 923 to 925 of this title, enacting provisions set out as notes under sections 254, 309, and 925 of this title, and repealing provisions set out as a note under section 309 of this title\], the terms used in this title have the meanings provided in section 3 of the Communications Act of 1934 (47 U.S.C. 153), as amended by this section."
+Pub. L. 105–33, title III, §3001(a), Aug. 5, 1997, 111 Stat. 258, provided that: "Except as otherwise provided in this title \[enacting section 337 of this title, amending this section and sections 303, 309, and 923 to 925 of this title, enacting provisions set out as notes under sections 254, 309, and 925 of this title, and repealing provisions set out as a note under section 309 of this title\], the terms used in this title have the meanings providedin section 3 of the Communications Act of 1934 (47 U.S.C. 153), as amended by this section."
 
 Pub. L. 104–104, §3(b), Feb. 8, 1996, 110 Stat. 61, provided that: "Except as otherwise provided in this Act \[see Short Title of 1996 Amendment note set out under section 609 of this title\], the terms used in this Act have the meanings provided in section 3 of the Communications Act of 1934 (47 U.S.C. 153), as amended by this section."
 

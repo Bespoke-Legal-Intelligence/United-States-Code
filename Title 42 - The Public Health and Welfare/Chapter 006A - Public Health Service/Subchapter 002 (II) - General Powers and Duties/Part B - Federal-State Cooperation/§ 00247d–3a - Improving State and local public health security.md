@@ -36,11 +36,11 @@ To be eligible to receive an award under subsection (a), an entity shall—
 
 &emsp;&emsp;&emsp;(ix) a description of any activities that such entity will use to analyze real-time clinical specimens for pathogens of public health or bioterrorism significance, including any utilization of poison control centers;
 
-&emsp;&emsp;(B) an assurance that the entity will report to the Secretary on an annual basis (or more frequently as determined by the Secretary) on the evidence-based benchmarks and objective standards established by the Secretary to evaluate the preparedness and response capabilities of such entity under subsection (g);
+&emsp;&emsp;(B) an assurance that the entity will report to the Secretary on an annual basis (ormore frequently as determined by the Secretary) on the evidence-based benchmarks and objective standards established by the Secretary to evaluate the preparedness and response capabilities of such entity under subsection (g);
 
 &emsp;&emsp;(C) an assurance that the entity will conduct, on at least an annual basis, an exercise or drill that meets any criteria established by the Secretary to test the preparedness and response capabilities of such entity, including addressing the needs of at-risk individuals,,<sup>1</sup> and that the entity will report back to the Secretary within the application of the following year on the strengths and weaknesses identified through such exercise or drill, and corrective actions taken to address material weaknesses;
 
-&emsp;&emsp;(D) an assurance that the entity will provide to the Secretary the data describedunder section 247d–4(c)(3) of this title as determined feasible by the Secretary;
+&emsp;&emsp;(D) an assurance that the entity will provide to the Secretary the data described under section 247d–4(c)(3) of this title as determined feasible by the Secretary;
 
 &emsp;&emsp;(E) an assurance that the entity will conduct activities to inform and educate the hospitals within the jurisdiction of such entity on the role of such hospitals in the plan required under subparagraph (A);
 
@@ -96,7 +96,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 180 days after December 19, 2006, the Secretary shall develop and disseminate to the chief executive officer of each State criteria for an effective State plan for responding to pandemic influenza. The Secretary shall periodically update, as necessary and appropriate, such pandemic influenza plan criteria and shall require the integration of such criteria into the benchmarks and standards described in paragraph (1).
+&emsp;&emsp;Not later than 180 days after December 19, 2006, the Secretary shall develop and disseminate to the chief executive officer of each State criteria for an effective State plan for responding to pandemic influenza. The Secretary shall periodically update, as necessary and appropriate, such pandemic influenza plan criteria and shall require theintegration of such criteria into the benchmarks and standards described in paragraph (1).
 
 #### (B) Rule of construction
 
@@ -218,7 +218,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (B) Coordination with Statewide plans
 
-&emsp;&emsp;An award pursuant to subparagraph (A) may not be made unless the application of the political subdivision involved is in coordination with, and consistent with, applicable Statewide plans described in subsection (b).
+&emsp;&emsp;An award pursuant to subparagraph (A) may not be made unless the application ofthe political subdivision involved is in coordination with, and consistent with, applicable Statewide plans described in subsection (b).
 
 #### (C) Relationship to formula grants
 
@@ -226,7 +226,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (D) Continuity of funding
 
-&emsp;&emsp;In determining whether to make an award pursuant to subparagraph (A) to a politicalsubdivision, the Secretary may consider, as a factor indicating that the award should be made, that the political subdivision received public health funding from the Secretary for fiscal year 2006.
+&emsp;&emsp;In determining whether to make an award pursuant to subparagraph (A) to a political subdivision, the Secretary may consider, as a factor indicating that the award should be made, that the political subdivision received public health funding from the Secretary for fiscal year 2006.
 
 #### (5) Significant unmet needs; degree of risk
 
@@ -284,11 +284,11 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (B) Repayment
 
-&emsp;&emsp;Each entity shall repay to the United States amounts found by the Secretary, after notice and opportunity for a hearing to the entity, not to have been expended in accordance with this section or section 247d–3b of this title and, if such repayment is not made, the Secretary may offset such amounts against the amount of any allotment to which the entity is or may become entitled under this section or section 247d–3b of this title or may otherwise recover such amounts.
+&emsp;&emsp;Each entity shall repay to the United States amounts found by the Secretary, after notice and opportunity for a hearing tothe entity, not to have been expended in accordance with this section or section 247d–3b of this title and, if such repayment is not made, the Secretary may offset such amounts against the amount of any allotment to which the entity is or may become entitled under this section or section 247d–3b of this title or may otherwise recover such amounts.
 
 #### (C) Withholding of payment
 
-&emsp;&emsp;The Secretary may, after notice and opportunity for a hearing, withhold payment of funds to any entity which is not using its allotment under this section or section 247d–3b of this title in accordance with such section. The Secretary may withhold such funds until the Secretary finds that the reason for the withholding has been removedand there is reasonable assurance that it will not recur.
+&emsp;&emsp;The Secretary may, after notice and opportunity for a hearing, withhold payment of funds to any entity which is not using its allotment under this section or section 247d–3b of this title in accordance with such section. The Secretary may withhold such funds until the Secretary finds that the reason for the withholding has been removed and there is reasonable assurance that it will not recur.
 
 #### (j) Compilation and availability of data
 

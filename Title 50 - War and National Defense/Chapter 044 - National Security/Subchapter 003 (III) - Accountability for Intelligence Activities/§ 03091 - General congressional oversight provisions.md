@@ -2,7 +2,7 @@
 
 #### (a) Reports to congressional committees of intelligence activities and anticipated activities
 
-(1) The President shall ensure that the congressional intelligence committees are kept fully and currently informed of the intelligence activities of the United States, including any significant anticipated intelligence activity as required by this subchapter.
+(1) The President shall ensure that the congressional intelligence committees are kept fully and currently informed of the intelligence activities of the United States, including anysignificant anticipated intelligence activity as required by this subchapter.
 
 (2) Nothing in this subchapter shall be construed as requiring the approval of the congressional intelligence committees as a condition precedent to the initiation of any significant anticipated intelligence activity.
 
@@ -16,7 +16,7 @@ The President and the congressional intelligence committees shall each establish
 
 #### (d) Procedures to protect from unauthorized disclosure
 
-The House of Representatives and the Senate shall each establish, by rule or resolution ofsuch House, procedures to protect from unauthorized disclosure all classified information, and all information relating to intelligence sources and methods, that is furnished to the congressional intelligence committees or to Members of Congress under this subchapter. Such procedures shall be established in consultation with the Director of National Intelligence. In accordance with such procedures, each of the congressional intelligence committees shall promptly call to the attention of its respective House, or to any appropriate committee or committees of its respective House, any matter relating to intelligence activities requiring the attention of such House or such committee or committees.
+The House of Representatives and the Senate shall each establish, by rule or resolution of such House, procedures to protect from unauthorized disclosure all classified information, and all information relating to intelligence sources and methods, that is furnished to the congressional intelligence committees or to Members of Congress under this subchapter. Such procedures shall be established in consultation with the Director of National Intelligence. In accordance with such procedures, each of the congressional intelligence committees shall promptly call to the attention of its respective House, or to any appropriate committee or committees of its respective House, any matter relating to intelligence activities requiring the attention of such House or such committee or committees.
 
 #### (e) Construction of authority conferred
 

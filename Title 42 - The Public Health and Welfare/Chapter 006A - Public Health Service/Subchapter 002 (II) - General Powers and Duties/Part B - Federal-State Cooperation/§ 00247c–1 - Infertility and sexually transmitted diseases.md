@@ -26,7 +26,7 @@ With respect to any sexually transmitted disease described in subsection (a), th
 
 &emsp;(7) providing outreach services to inform women of the availability of the services described in paragraphs (1) through (6);
 
-&emsp;(8) providing to the public information and education on the prevention and control of thedisease, including disseminating such information; and
+&emsp;(8) providing to the public information and education on the prevention and control of the disease, including disseminating such information; and
 
 &emsp;(9) providing training to health care providers in carrying out the screenings and counseling described in paragraphs (1) and (3).
 
@@ -82,7 +82,7 @@ The Secretary may make a grant under subsection (a) only if the applicant involv
 
 #### (k) Maintenance of effort
 
-With respect to activities for which a grant under subsection (a) is authorized to be expended, the Secretary may make such a grant only if the applicant involved agrees to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the average level of such expenditures maintained by the applicant for the 2-year period preceding the fiscal year for which the applicant is applying to receive such a grant.
+With respect to activities for which a grant under subsection (a) is authorized to be expended, the Secretary may make such a grant only if the applicant involved agrees to maintain expenditures of non-Federal amounts for such activities at a level that is not less thanthe average level of such expenditures maintained by the applicant for the 2-year period preceding the fiscal year for which the applicant is applying to receive such a grant.
 
 #### (l) Requirement of application
 
@@ -98,7 +98,7 @@ With respect to activities for which a grant under subsection (a) is authorized 
 
 #### (B) Participation of certain entities
 
-&emsp;&emsp;The Secretary may make a grant under subsection (a) only if the applicant providesassurances satisfactory to the Secretary that the plan submitted under subparagraph (A) has been prepared in consultation with an appropriate number and variety of—
+&emsp;&emsp;The Secretary may make a grant under subsection (a) only if the applicant provides assurances satisfactory to the Secretary that the plan submitted under subparagraph (A) has been prepared in consultation with an appropriate number and variety of—
 
 &emsp;&emsp;&emsp;(i) representatives of entities in the geographic area involved that provide services for the prevention and control of sexually transmitted diseases, including programs to provide to the public information and education regarding such diseases; and
 
@@ -150,7 +150,7 @@ For the purpose of carrying out this section, other than subsections (o) and (r)
 
 #### (1) In general
 
-&emsp;The Secretary may make grants for the purpose of conducting research on the manner in which the delivery of services under subsection (a) may be improved. The Secretary may make such grants only to grantees under such subsection and to public and nonprofit private entities that are carrying out programs substantially similar to programs carried out under such subsection.
+&emsp;The Secretary may make grants for the purpose of conducting research on the manner inwhich the delivery of services under subsection (a) may be improved. The Secretary may make such grants only to grantees under such subsection and to public and nonprofit private entities that are carrying out programs substantially similar to programs carried out under such subsection.
 
 #### (2) Authorization of appropriations
 

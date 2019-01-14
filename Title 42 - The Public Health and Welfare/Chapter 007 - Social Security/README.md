@@ -24,6 +24,7 @@
 | [404\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000404%20-%20Overpayments%20and%20underpayments.md) | Overpayments and underpayments. |
 | [405\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000405%20-%20Evidence%2C%20procedure%2C%20and%20certification%20for%20payments.md) | Evidence, procedure, and certification for payments. |
 | [405a.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000405a%20-%20Regulations%20pertaining%20to%20frequency%20or%20due%20dates%20of%20payments%20and%20reports%20under%20voluntary%20agreements%20covering%20State%20and%20local%20employees%E2%80%A6.md) | Regulations pertaining to frequency or due dates of payments and reports under voluntary agreements covering State and local employees; effective date. |
+| [405b.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000405b%20-%20Reducing%20identity%20fraud.md) | Reducing identity fraud. |
 | [406\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000406%20-%20Representation%20of%20claimants%20before%20Commissioner.md) | Representation of claimants before Commissioner. |
 | [407\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000407%20-%20Assignment%20of%20benefits.md) | Assignment of benefits. |
 | [408\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000408%20-%20Penalties.md) | Penalties. |
@@ -38,6 +39,7 @@
 | [416\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000416%20-%20Additional%20definitions.md) | Additional definitions. |
 | [417\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000417%20-%20Benefits%20for%20veterans.md) | Benefits for veterans. |
 | [418\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000418%20-%20Voluntary%20agreements%20for%20coverage%20of%20State%20and%20local%20employees.md) | Voluntary agreements for coverage of State and local employees. |
+| [418a.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000418a%20-%20Voluntary%20agreements%20for%20coverage%20of%20Indian%20tribal%20council%20members.md) | Voluntary agreements for coverage of Indian tribal council members. |
 | [419\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000419%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93778%2C%20title%20I%2C%20%C2%A7103%28j%29%281%29%2C%20Sept.%2013%2C%201960%2C%2074%20Stat.%20937.md) | Repealed. |
 | [420\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000420%20-%20Disability%20provisions%20inapplicable%20if%20benefit%20rights%20impaired.md) | Disability provisions inapplicable if benefit rights impaired. |
 | [421\.](Subchapter%20002%20%28II%29%20-%20Federal%20Old-Age%2C%20Survivors%2C%20and%20Disability%20Insurance%20Benefits/%C2%A7%2000421%20-%20Disability%20determinations.md) | Disability determinations. |
@@ -69,6 +71,7 @@
 | [503\.](Subchapter%20003%20%28III%29%20-%20Grants%20to%20States%20for%20Unemployment%20Compensation%20Administration/%C2%A7%2000503%20-%20State%20laws.md) | State laws. |
 | [504\.](Subchapter%20003%20%28III%29%20-%20Grants%20to%20States%20for%20Unemployment%20Compensation%20Administration/%C2%A7%2000504%20-%20Judicial%20review.md) | Judicial review. |
 | [505\.](Subchapter%20003%20%28III%29%20-%20Grants%20to%20States%20for%20Unemployment%20Compensation%20Administration/%C2%A7%2000505%20-%20Demonstration%20projects.md) | Demonstration projects. |
+| [506\.](Subchapter%20003%20%28III%29%20-%20Grants%20to%20States%20for%20Unemployment%20Compensation%20Administration/%C2%A7%2000506%20-%20Grants%20to%20States%20for%20reemployment%20services%20and%20eligibility%20assessments.md) | Grants to States for reemployment services and eligibility assessments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -145,7 +148,7 @@
 
 |  |  |
 | :--- | ---: |
-| [629m.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20003%20-%20Common%20Provisions/%C2%A7%2000629m%20-%20Data%20standardization%20for%20improved%20data%20matching.md) | Data standardization for improved data matching. |
+| [629m.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20003%20-%20Common%20Provisions/%C2%A7%2000629m%20-%20Data%20exchange%20standards%20for%20improved%20interoperability.md) | Data exchange standards for improved interoperability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -190,27 +193,27 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part E—Federal Payments for Foster Care and Adoption Assistance
+#### Part E—Federal Payments for Foster Care, Prevention, and Permanency
 
 |  |  |
 | :--- | ---: |
-| [670\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000670%20-%20Congressional%20declaration%20of%20purpose%3B%20authorization%20of%20appropriations.md) | Congressional declaration of purpose; authorization of appropriations. |
-| [671\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000671%20-%20State%20plan%20for%20foster%20care%20and%20adoption%20assistance.md) | State plan for foster care and adoption assistance. |
-| [672\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000672%20-%20Foster%20care%20maintenance%20payments%20program.md) | Foster care maintenance payments program. |
-| [673\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000673%20-%20Adoption%20and%20guardianship%20assistance%20program.md) | Adoption and guardianship assistance program. |
-| [673a.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000673a%20-%20Interstate%20compacts.md) | Interstate compacts. |
-| [673b.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000673b%20-%20Adoption%20and%20legal%20guardianship%20incentive%20payments.md) | Adoption and legal guardianship incentive payments. |
-| [673c.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000673c%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93239%2C%20%C2%A74%28c%29%2C%20July%203%2C%202006%2C%20120%20Stat.%20512.md) | Timely interstate home study incentive payments. |
-| [674\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000674%20-%20Payments%20to%20States.md) | Payments to States. |
-| [675\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000675%20-%20Definitions.md) | Definitions. |
-| [675a.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000675a%20-%20Additional%20case%20plan%20and%20case%20review%20system%20requirements.md) | Additional case plan and case review system requirements. |
-| [676\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000676%20-%20Administration.md) | Administration. |
-| [677\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000677%20-%20John%20H.%20Chafee%20Foster%20Care%20Independence%20Program.md) | John H. Chafee Foster Care Independence Program. |
-| [678\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000678%20-%20Rule%20of%20construction.md) | Rule of construction. |
-| [679\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000679%20-%20Collection%20of%20data%20relating%20to%20adoption%20and%20foster%20care.md) | Collection of data relating to adoption and foster care. |
-| [679a.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000679a%20-%20National%20Adoption%20Information%20Clearinghouse.md) | National Adoption Information Clearinghouse. |
-| [679b.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000679b%20-%20Annual%20report.md) | Annual report. |
-| [679c.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000679c%20-%20Programs%20operated%20by%20Indian%20tribal%20organizations.md) | Programs operated by Indian tribal organizations. |
+| [670\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000670%20-%20Congressional%20declaration%20of%20purpose%3B%20authorization%20of%20appropriations.md) | Congressional declaration of purpose; authorization of appropriations. |
+| [671\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000671%20-%20State%20plan%20for%20foster%20care%20and%20adoption%20assistance.md) | State plan for foster care and adoption assistance. |
+| [672\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000672%20-%20Foster%20care%20maintenance%20payments%20program.md) | Foster care maintenance payments program. |
+| [673\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000673%20-%20Adoption%20and%20guardianship%20assistance%20program.md) | Adoption and guardianship assistance program. |
+| [673a.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000673a%20-%20Interstate%20compacts.md) | Interstate compacts. |
+| [673b.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000673b%20-%20Adoption%20and%20legal%20guardianship%20incentive%20payments.md) | Adoption and legal guardianship incentive payments. |
+| [673c.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000673c%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93239%2C%20%C2%A74%28c%29%2C%20July%203%2C%202006%2C%20120%20Stat.%20512.md) | Timely interstate home study incentive payments. |
+| [674\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000674%20-%20Payments%20to%20States.md) | Payments to States. |
+| [675\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000675%20-%20Definitions.md) | Definitions. |
+| [675a.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000675a%20-%20Additional%20case%20plan%20and%20case%20review%20system%20requirements.md) | Additional case plan and case review system requirements. |
+| [676\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000676%20-%20Administration.md) | Administration. |
+| [677\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000677%20-%20John%20H.%20Chafee%20Foster%20Care%20Program%20for%20Successful%20Transition%20to%20Adulthood.md) | John H. Chafee Foster Care Program for Successful Transition to Adulthood. |
+| [678\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000678%20-%20Rule%20of%20construction.md) | Rule of construction. |
+| [679\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000679%20-%20Collection%20of%20data%20relating%20to%20adoption%20and%20foster%20care.md) | Collection of data relating to adoption and foster care. |
+| [679a.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000679a%20-%20National%20Adoption%20Information%20Clearinghouse.md) | National Adoption Information Clearinghouse. |
+| [679b.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000679b%20-%20Annual%20report.md) | Annual report. |
+| [679c.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/%C2%A7%2000679c%20-%20Programs%20operated%20by%20Indian%20tribal%20organizations.md) | Programs operated by Indian tribal organizations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -238,7 +241,7 @@
 | [707\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000707%20-%20Criminal%20penalty%20for%20false%20statements.md) | Criminal penalty for false statements. |
 | [708\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000708%20-%20Nondiscrimination%20provisions.md) | Nondiscrimination provisions. |
 | [709\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000709%20-%20Administration%20of%20Federal%20and%20State%20programs.md) | Administration of Federal and State programs. |
-| [710\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000710%20-%20Separate%20program%20for%20abstinence%20education.md) | Separate program for abstinence education. |
+| [710\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000710%20-%20Sexual%20risk%20avoidance%20education.md) | Sexual risk avoidance education. |
 | [711\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000711%20-%20Maternal%2C%20infant%2C%20and%20early%20childhood%20home%20visiting%20programs.md) | Maternal, infant, and early childhood home visiting programs. |
 | [712\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000712%20-%20Services%20to%20individuals%20with%20a%20postpartum%20condition%20and%20their%20families.md) | Services to individuals with a postpartum condition and their families. |
 | [713\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000713%20-%20Personal%20responsibility%20education.md) | Personal responsibility education. |
@@ -676,7 +679,7 @@
 |  |  |
 | :--- | ---: |
 | 1395w–111. | PDP regions; submission of bids; plan approval. |
-| 1396w–112. | Requirements for and contracts with prescription drug plan (PDP) sponsors. |
+| 1395w–112. | Requirements for and contracts with prescription drug plan (PDP) sponsors. |
 | 1395w–113. | Premiums; late enrollment penalty. |
 | 1395w–114. | Premium and cost-sharing subsidies for low-income individuals. |
 | 1395w–114a. | Medicare coverage gap discount program. |
@@ -730,6 +733,7 @@
 | 1395cc–3. | Health care quality demonstration program. |
 | 1395cc–4. | National pilot program on payment bundling. |
 | 1395cc–5. | Independence at home medical practice demonstration program. |
+| 1395cc–6. | Opioid use disorder treatment demonstration program. |
 | [1395dd.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395dd%20-%20Examination%20and%20treatment%20for%20emergency%20medical%20conditions%20and%20women%20in%20labor.md) | Examination and treatment for emergency medical conditions and women in labor. |
 | [1395ee.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ee%20-%20Practicing%20Physicians%20Advisory%20Council%3B%20Council%20for%20Technology%20and%20Innovation.md) | Practicing Physicians Advisory Council; Council for Technology and Innovation. |
 | [1395ff.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ff%20-%20Determinations%3B%20appeals.md) | Determinations; appeals. |
@@ -768,8 +772,7 @@
 | [1395hhh.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395hhh%20-%20Health%20care%20infrastructure%20improvement%20program.md) | Health care infrastructure improvement program. |
 | [1395iii.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395iii%20-%20Medicare%20Improvement%20Fund.md) | Medicare Improvement Fund. |
 | [1395jjj.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395jjj%20-%20Shared%20savings%20program.md) | Shared savings program. |
-| [1395kkk.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395kkk%20-%20Independent%20Payment%20Advisory%20Board.md) | Independent Payment Advisory Board. |
-| 1395kkk–1. | GAO study and report on determination and implementation of payment and coverage policies under the Medicare program. |
+| 1395kkk, 1395kkk–1. Repealed. |  |
 | 1395<i>lll.</i> | Standardized post-acute care (PAC) assessment data for quality, payment, and discharge planning. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -829,26 +832,27 @@
 | 1396w–1. | Medicaid Improvement Fund. |
 | 1396w–2. | Authorization to receive relevant information. |
 | 1396w–3. | Enrollment simplification and coordination with State health insurance exchanges. |
+| 1396w–3a. | Requirements relating to qualified prescription drug monitoring programs and prescribing certain controlled substances. |
 | 1396w–4. | State option to provide coordinated care through a health home for individuals with chronic conditions. |
 | 1396w–5. | Addressing health care disparities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XX—BLOCK GRANTS TO STATES FOR SOCIAL SERVICES AND ELDER JUSTICE
+#### SUBCHAPTER XX—BLOCK GRANTS AND PROGRAMS FOR SOCIAL SERVICES AND ELDER JUSTICE
 
 #### Division A—Block Grants to States for Social Services
 
 |  |  |
 | :--- | ---: |
-| [1397\.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397%20-%20Purposes%20of%20division%3B%20authorization%20of%20appropriations.md) | Purposes of division; authorization of appropriations. |
-| [1397a.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397a%20-%20Payments%20to%20States.md) | Payments to States. |
-| [1397b.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397b%20-%20Allotments.md) | Allotments. |
-| [1397c.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397c%20-%20State%20reporting%20requirements.md) | State reporting requirements. |
-| [1397d.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397d%20-%20Limitation%20on%20use%20of%20grants%3B%20waiver.md) | Limitation on use of grants; waiver. |
-| [1397e.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397e%20-%20Administrative%20and%20fiscal%20accountability.md) | Administrative and fiscal accountability. |
-| [1397f.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397f%20-%20Additional%20grants.md) | Additional grants. |
-| [1397g.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397g%20-%20Demonstration%20projects%20to%20address%20health%20professions%20workforce%20needs.md) | Demonstration projects to address health professions workforce needs. |
-| [1397h.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397h%20-%20Program%20for%20early%20detection%20of%20certain%20medical%20conditions%20related%20to%20environmental%20health%20hazards.md) | Program for early detection of certain medical conditions related to environmental health hazards. |
+| [1397\.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397%20-%20Purposes%20of%20division%3B%20authorization%20of%20appropriations.md) | Purposes of division; authorization of appropriations. |
+| [1397a.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397a%20-%20Payments%20to%20States.md) | Payments to States. |
+| [1397b.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397b%20-%20Allotments.md) | Allotments. |
+| [1397c.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397c%20-%20State%20reporting%20requirements.md) | State reporting requirements. |
+| [1397d.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397d%20-%20Limitation%20on%20use%20of%20grants%3B%20waiver.md) | Limitation on use of grants; waiver. |
+| [1397e.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397e%20-%20Administrative%20and%20fiscal%20accountability.md) | Administrative and fiscal accountability. |
+| [1397f.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397f%20-%20Additional%20grants.md) | Additional grants. |
+| [1397g.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397g%20-%20Demonstration%20projects%20to%20address%20health%20professions%20workforce%20needs.md) | Demonstration projects to address health professions workforce needs. |
+| [1397h.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397h%20-%20Program%20for%20early%20detection%20of%20certain%20medical%20conditions%20related%20to%20environmental%20health%20hazards.md) | Program for early detection of certain medical conditions related to environmental health hazards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -856,7 +860,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1397j.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20B%20-%20Elder%20Justice/%C2%A7%2001397j%20-%20Definitions.md) | Definitions. |
+| [1397j.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20B%20-%20Elder%20Justice/%C2%A7%2001397j%20-%20Definitions.md) | Definitions. |
 | 1397j–1. | General provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -867,7 +871,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1397k.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20B%20-%20Elder%20Justice/Part%20001%20%28I%29%20-%20National%20Coordination%20of%20Elder%20Justice%20Activities%20and%20Research/Subpart%20a%20-%20Elder%20Justice%20Coordinating%20Council%20and%20Advisory%20Board%20on%20Elder%20Abuse%2C%20Neglect%2C%20and%20Exploitation/%C2%A7%2001397k%20-%20Elder%20Justice%20Coordinating%20Council.md) | Elder Justice Coordinating Council. |
+| [1397k.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20B%20-%20Elder%20Justice/Part%20001%20%28I%29%20-%20National%20Coordination%20of%20Elder%20Justice%20Activities%20and%20Research/Subpart%20a%20-%20Elder%20Justice%20Coordinating%20Council%20and%20Advisory%20Board%20on%20Elder%20Abuse%2C%20Neglect%2C%20and%20Exploitation/%C2%A7%2001397k%20-%20Elder%20Justice%20Coordinating%20Council.md) | Elder Justice Coordinating Council. |
 | 1397k–1. | Advisory Board on Elder Abuse, Neglect, and Exploitation. |
 | 1397k–2. | Research protections. |
 | 1397k–3. | Authorization of appropriations. |
@@ -886,12 +890,33 @@
 
 |  |  |
 | :--- | ---: |
-| [1397m.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/Division%20B%20-%20Elder%20Justice/Part%20002%20%28II%29%20-%20Programs%20to%20Promote%20Elder%20Justice/%C2%A7%2001397m%20-%20Enhancement%20of%20long-term%20care.md) | Enhancement of long-term care. |
+| [1397m.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20B%20-%20Elder%20Justice/Part%20002%20%28II%29%20-%20Programs%20to%20Promote%20Elder%20Justice/%C2%A7%2001397m%20-%20Enhancement%20of%20long-term%20care.md) | Enhancement of long-term care. |
 | 1397m–1. | Adult protective services functions and grant programs. |
 | 1397m–2. | Long-term care ombudsman program grants and training. |
 | 1397m–3. | Provision of information regarding, and evaluations of, elder justice programs. |
 | 1397m–4. | Report. |
 | 1397m–5. | Rule of construction. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Division C—Social Impact Demonstration Projects
+
+|  |  |
+| :--- | ---: |
+| [1397n.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20C%20-%20Social%20Impact%20Demonstration%20Projects/%C2%A7%2001397n%20-%20Purposes.md) | Purposes. |
+| 1397n–1. | Social impact partnership application. |
+| 1397n–2. | Awarding social impact partnership agreements. |
+| 1397n–3. | Feasibility study funding. |
+| 1397n–4. | Evaluations. |
+| 1397n–5. | Federal Interagency Council on Social Impact Partnerships. |
+| 1397n–6. | Commission on Social Impact Partnerships. |
+| 1397n–7. | Limitation on use of funds. |
+| 1397n–8. | No Federal funding for credit enhancements. |
+| 1397n–9. | Availability of funds. |
+| 1397n–10. | Website. |
+| 1397n–11. | Regulations. |
+| 1397n–12. | Definitions. |
+| 1397n–13. | Funding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -939,5 +964,5 @@
 - [Subchapter 017 (XVII) - Grants for Planning Comprehensive Action to Combat Mental Retardation](Subchapter%20017%20%28XVII%29%20-%20Grants%20for%20Planning%20Comprehensive%20Action%20to%20Combat%20Mental%20Retardation/README.md)
 - [Subchapter 018 (XVIII) - Health Insurance for Aged and Disabled](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/README.md)
 - [Subchapter 019 (XIX) - Grants to States for Medical Assistance Programs](Subchapter%20019%20%28XIX%29%20-%20Grants%20to%20States%20for%20Medical%20Assistance%20Programs/README.md)
-- [Subchapter 020 (XX) - Block Grants to States for Social Services and Elder Justice](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20to%20States%20for%20Social%20Services%20and%20Elder%20Justice/README.md)
+- [Subchapter 020 (XX) - Block Grants and Programs for Social Services and Elder Justice](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/README.md)
 - [Subchapter 021 (XXI) - State Children's Health Insurance Program](Subchapter%20021%20%28XXI%29%20-%20State%20Children%27s%20Health%20Insurance%20Program/README.md)

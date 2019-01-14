@@ -14,7 +14,7 @@
 
 &emsp;(5) To acquire from all available sources information concerning crop prospects, supply, demand, current receipts, exports, imports, and prices of the agricultural products handled or marketed by cooperative associations, and to employ qualified commodity marketing specialists to summarize and analyze this information and disseminate the same among cooperative associations and others.
 
-&emsp;(6) To promote the knowledge of cooperative principles and practices and to cooperate, inpromoting such knowledge, with educational and marketing agencies, cooperative associations, and others.
+&emsp;(6) To promote the knowledge of cooperative principles and practices and to cooperate, in promoting such knowledge, with educational and marketing agencies, cooperative associations, and others.
 
 &emsp;(7) To make such special studies, in the United States and foreign countries, and to acquire and disseminate such information and findings as may be useful in the development and practice of cooperation.
 

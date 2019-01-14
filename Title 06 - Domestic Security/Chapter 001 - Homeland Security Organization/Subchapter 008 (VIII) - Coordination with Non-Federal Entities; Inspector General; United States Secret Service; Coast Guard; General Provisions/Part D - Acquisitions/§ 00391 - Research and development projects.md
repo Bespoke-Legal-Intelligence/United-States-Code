@@ -32,7 +32,7 @@ The Secretary may—
 
 #### (2) Report
 
-&emsp;The Secretary shall provide an annual report to the Committees on Appropriations ofthe Senate and the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Homeland Security of the House of Representatives detailing the projects for which the authority granted by subsection (a) was used, the rationale for its use, the funds spent using that authority, the outcome of each project for which that authority was used, and the results of any audits of such projects.
+&emsp;The Secretary shall provide an annual report to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Homeland Security of the House of Representatives detailing the projects for which the authority granted by subsection (a) was used, the rationale for its use, the funds spent using that authority, the outcome of each project for which that authority was used, and the results of any audits of such projects.
 
 #### (d) Definition of nontraditional Government contractor
 
@@ -97,6 +97,14 @@ Subsec. (d)(1). Pub. L. 111–83, §531(2), substituted "September 30, 2010," fo
 Subsecs. (d), (e). Pub. L. 110–329, §537(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted "Until September 30, 2008" for "During the 5-year period following the effective date of this chapter" in introductory provisions.
+
+#### Extension of Secretary's Authority
+
+Pub. L. 115–141, div. F, title V, §538(a), Mar. 23, 2018, 132 Stat. 632, provided that: "Section 831 of the Homeland Security Act of 2002 (6 U.S.C. 391) shall be applied—
+
+&emsp;"(1) In subsection (a), by substituting 'September 30, 2018,' for 'September 30, 2017,'; and
+
+&emsp;"(2) In subsection (c)(1), by substituting 'September 30, 2018,' for 'September 30, 2017'."
 
 #### Documentation Requirements for Major Acquisition Programs
 

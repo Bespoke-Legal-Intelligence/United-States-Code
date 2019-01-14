@@ -8,7 +8,7 @@
 
 #### (2) Mission
 
-&emsp;The mission of the Smart Grid Advisory Committee shall be to advise the Secretary, the Assistant Secretary, and other relevant Federal officials concerning the development of smart grid technologies, the progress of a national transition to the use of smart-grid technologies and services, the evolution of widely-accepted technical and practical standards and protocols to allow interoperability and inter-communication among smart-grid capable devices, and the optimum means of using Federal incentive authority to encourage such progress.
+&emsp;The mission of the Smart Grid Advisory Committee shall be to advise the Secretary, the Assistant Secretary, and other relevant Federal officials concerning the developmentof smart grid technologies, the progress of a national transition to the use of smart-grid technologies and services, the evolution of widely-accepted technical and practical standards and protocols to allow interoperability and inter-communication among smart-grid capable devices, and the optimum means of using Federal incentive authority to encourage such progress.
 
 #### (3) Applicability of Federal Advisory Committee Act
 

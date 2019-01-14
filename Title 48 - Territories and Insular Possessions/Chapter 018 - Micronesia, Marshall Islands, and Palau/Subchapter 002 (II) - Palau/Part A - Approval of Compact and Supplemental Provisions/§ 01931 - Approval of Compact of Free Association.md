@@ -10,7 +10,7 @@ Any reference in this joint resolution to the "Compact" shall be treated as a re
 
 #### (c) Amendment, change, or termination of Compact and certain agreements
 
-(1) Mutual agreement by the Government of the United States as provided in the Compact which results in amendment, change, or termination of all or any part thereof shall be affected only by Act of Congress and no unilateral action by the Government of the United States provided for in the Compact, and having such result, may be effected other than by Act of Congress.
+(1) Mutual agreement by the Government of the United States as provided in the Compactwhich results in amendment, change, or termination of all or any part thereof shall be affected only by Act of Congress and no unilateral action by the Government of the United States provided for in the Compact, and having such result, may be effected other than by Act of Congress.
 
 (2) The provisions of paragraph (1) shall apply—
 
@@ -68,7 +68,7 @@ Any reference in this joint resolution to the "Compact" shall be treated as a re
 
 The Compact of Free Association and the Compact, referred to in text, is the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out below.
 
-This joint resolution and this Act, referred to in text, is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, as amended, which is classified generally to this part. Title II of the joint resolution enacted section 1934 of this title and provisions set out below. For complete classification of this Act to the Code, see Tables.
+This joint resolution and this Act, referred to in text, is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, as amended, which is classified generally to this part. Title II of the joint resolution enacted section 1934 of this titleand provisions set out below. For complete classification of this Act to the Code, see Tables.
 
 For Oct. 1, 1994, as the date the Compact of Free Association with Palau takes effect, referred to in subsecs. (a) and (d), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out below.
 
@@ -186,7 +186,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 124
 
-"(a) The Government of Palau has authority to conduct its foreign affairs relating to law of the sea andmarine resources matters, including the harvesting, conservation, exploration or exploitation of living and nonliving resources from the sea, seabed or subsoil to the full extent recognized under international law.
+"(a) The Government of Palau has authority to conduct its foreign affairs relating to law of the sea and marine resources matters, including the harvesting, conservation, exploration or exploitation of living and nonliving resources from the sea, seabed or subsoil to the full extent recognized under international law.
 
 "(b) The Government of Palau has jurisdiction and sovereignty over its territory, including its land and internal waters, territorial seas, the airspace superjacent thereto only to the extent recognized under international law.
 
@@ -252,7 +252,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 "(a) Any citizen or national of the United States may enter into, lawfully engage in occupations, and reside in Palau, subject to the right of that Government to deny entry to or deport any such citizen or national as an undesirable alien. A citizen or national of the United States may establish habitual residence or domicile in Palau only in accordance with the laws of Palau. This subsection is without prejudice to the right of the Government of Palau to regulate occupations in Palau in a nondiscriminatory manner.
 
-"(b) With respect to the subject matter of this Section, the Government of Palau shall accord to citizensand nationals of the United States treatment no less favorable than that accorded to citizens of other countries; any denial of entry to or deportation of a citizen or national of the United States as an undesirable alien must be pursuant to reasonable statutory grounds.
+"(b) With respect to the subject matter of this Section, the Government of Palau shall accord to citizens and nationals of the United States treatment no less favorable than that accorded to citizens of other countries; any denial of entry to or deportation of a citizen or national of the United States as an undesirable alien must be pursuant to reasonable statutory grounds.
 
 #### "Section 143
 
@@ -472,7 +472,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 "(a) The annual expenditure by the Government of Palau of the grant amounts specified in Article I of this Title shall be in accordance with an official national development plan promulgated by the Government of Palau and concurred in by the Government of the United States prior to the effective date of this Compact. This plan may be amended from time to time by the Government of Palau.
 
-"(b) The Government of the United States and the Government of Palau recognize that the achievement of the goals of the plan referred to in this Section depends upon the availability of adequate internal revenue as well as economic assistance from sources outside of Palau, including the Government of the United States, and may, in addition, be affected by the impact of exceptional, economically adverse circumstances. The Government of Palau shall therefore report annually to the President of the United States and to the Congress of the United States on the implementation of this plan and on its use of the funds specified in this Article. This report shall outline the achievements of the plan to date and the need, if any, for an additional authorization and appropriation of economic assistance for that year to account for any exceptional, economically adverse circumstances. The availability of such additional economic assistance from the Government of the United States shall be subject to the authorization and appropriation of funds by the Government of the United States.
+"(b) The Government of the United States and the Government of Palau recognize that the achievement of the goals of the plan referred to in this Section depends upon the availability of adequate internal revenue as well as economic assistance from sources outside of Palau, including the Government of the United States, and may, in addition, be affected by the impact of exceptional, economically adverse circumstances. The Government of Palau shall therefore report annually to the President of the United States and to the Congress of the United States on the implementation of this plan and on its use of the funds specified in thisArticle. This report shall outline the achievements of the plan to date and the need, if any, for an additional authorization and appropriation of economic assistance for that year to account for any exceptional, economically adverse circumstances. The availability of such additional economic assistance from the Government of the United States shall be subject to the authorization and appropriation of funds by the Government of the United States.
 
 #### "Section 232
 
@@ -538,7 +538,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 252
 
-"The Government of Palau may, with respect to United States persons, tax income derived from sources within its respective jurisdiction, property situated therein, including transfers of such property by gift or at death, and products consumed therein, in such manner as such Government deems appropriate. The determination of the source of any income, or the situs of any property, shall, for purposes of this Compact, be made according to the United States Internal Revenue Code.
+"The Government of Palau may, with respect to United States persons, tax income derived from sources within its respective jurisdiction, property situated therein, including transfers of such property by gift orat death, and products consumed therein, in such manner as such Government deems appropriate. The determination of the source of any income, or the situs of any property, shall, for purposes of this Compact, be made according to the United States Internal Revenue Code.
 
 #### "Section 253
 
@@ -560,7 +560,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 "(b) Subsection (a) of this Section shall not apply to Palau for any period after December 31, 1986, during which there is not in effect between Palau and the United States an exchange of information agreement of the kind described in section 274(h)(6)(C) (other than clause (ii) thereof) of the Internal Revenue Code of 1954.
 
-"(c) If the tax incentives extended to Palau under subsection (a) of this Section are, at any time during which the Compact is in effect, reduced, the United States Secretary of the Treasury shall negotiate an agreement with the Government of Palau under which, when such agreement is approved by law, Palau will be provided with benefits substantially equivalent to such reduction in benefits. If within the 1-year period after the date of the enactment of the Act making the reduction in benefits, an agreement negotiated under the preceding sentence is not approved by law, the matter shall be submitted to the Arbitration Board established pursuant to Section 424. For purposes of Article V of this Title, the Secretary of the Treasury or his delegateshall be the member of such Board representing the Government of the United States. Any decision of such Board in the matter when approved by law shall be binding on the United States, except that such decision rendered is binding only as to whether the United States has provided the substantially equivalent benefits referred to in this subsection.
+"(c) If the tax incentives extended to Palau under subsection (a) of this Section are, at any time during which the Compact is in effect, reduced, the United States Secretary of the Treasury shall negotiate an agreement with the Government of Palau under which, when such agreement is approved by law, Palau will be provided with benefits substantially equivalent to such reduction in benefits. If within the 1-year period after the date of the enactment of the Act making the reduction in benefits, an agreement negotiated under the preceding sentence is not approved by law, the matter shall be submitted to the Arbitration Board established pursuant to Section 424. For purposes of Article V of this Title, the Secretary of the Treasury or his delegate shall be the member of such Board representing the Government of the United States. Any decision of such Board in the matter when approved by law shall be binding on the United States, except that such decision rendered is binding only as to whether the United States has provided the substantially equivalent benefits referred to in this subsection.
 
 "(d) For purposes of section 274(h)(3)(A) of the Internal Revenue Code of 1954, the term 'North American area' shall include Palau.
 
@@ -610,7 +610,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 324
 
-"In the exercise in Palau of its authority and responsibility under this Title, the Government of the United States shall not use, test, store or dispose of nuclear, toxic chemical, gas or biological weapons intended for use in warfare and the Government of Palau assures the Government of the United States that in carrying out its security and defense responsibilities under this Title, the Government of the United States has the right to operate nuclear capable or nuclear propelled vessels and aircraft within the jurisdiction of Palau without either confirming or denying the presence or absence of such weapons within the jurisdiction of Palau.
+"In the exercise in Palau of its authority and responsibility under this Title, the Government of the UnitedStates shall not use, test, store or dispose of nuclear, toxic chemical, gas or biological weapons intended for use in warfare and the Government of Palau assures the Government of the United States that in carrying out its security and defense responsibilities under this Title, the Government of the United States has the right to operate nuclear capable or nuclear propelled vessels and aircraft within the jurisdiction of Palau without either confirming or denying the presence or absence of such weapons within the jurisdiction of Palau.
 
 #### "Article III
 
@@ -636,7 +636,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 "The Government of the United States shall have enrolled, at any one time, at least one qualified student from Palau as may be nominated by the Government of Palau, in each of:
 
-"(a) The United States Coast Guard Academy pursuant to 14 U.S.C. 195; and
+"(a) The United States Coast Guard Academy pursuant to 14 U.S.C. 195 \[now 14 U.S.C. 1923\]; and
 
 "(b) The United States Merchant Marine Academy pursuant to \[former\] 46 U.S.C. \[App.\] 1295b(b)(6) \[see 46 U.S.C. 51304\], provided that the provisions of 46 U.S.C. \[App.\] 1295b(b)(6)(C) \[now 46 U.S.C. 51304(b)(2)\] shall not apply to the enrollment of students pursuant to Section 342(b) of this Compact.
 
@@ -694,7 +694,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 421
 
-"The Government of the United States and the Government of Palau shall confer promptly at the request of the other on matters relating to the provisions of this Compact or of its related agreements.
+"The Government of the United States and the Government of Palau shall confer promptly at the requestof the other on matters relating to the provisions of this Compact or of its related agreements.
 
 #### "Section 422
 
@@ -724,7 +724,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 431
 
-"The provisions of this Compact may be amended at any time by mutual agreement of the Government ofthe United States and the Government of Palau in accordance with their respective constitutional processes.
+"The provisions of this Compact may be amended at any time by mutual agreement of the Government of the United States and the Government of Palau in accordance with their respective constitutional processes.
 
 #### "Section 432
 
@@ -810,7 +810,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 &emsp;"(2) public and private sector projects identified in the official overall economic development plan.
 
-"(i) 'Current Account' means, for each year of the Compact, those portions of the total grant assistanceprovided in Article I of Title Two, which are to be obligated for recurring operational activities including infrastructure maintenance as identified in the annual budget justifications submitted yearly to the Government of the United States.
+"(i) 'Current Account' means, for each year of the Compact, those portions of the total grant assistance provided in Article I of Title Two, which are to be obligated for recurring operational activities including infrastructure maintenance as identified in the annual budget justifications submitted yearly to the Government of the United States.
 
 "(j) 'Official National Development Plan' means the documented program of annual development which identifies the specific policy and project activities necessary to achieve a specified set of economic goals and objectives during the period of free association, consistent with the economic assistance authority in Title Two. Such a document should include an analysis of population trends, manpower requirements, social needs, gross national product estimates, resource utilization, infrastructure needs and expenditures, and the specific private sector projects required to develop the local economy of Palau. Project identification should include initial cost estimates, with project purposes related to specific development goals and objectives.
 
@@ -850,7 +850,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 "(a) The Government of the United States and the Government of Palau agree that they have full authority under their respective constitutions to enter into this Compact and its related agreements and to fulfill all of their respective responsibilities in accordance with the terms of this Compact and its related agreements. The Governments pledge that they are so committed.
 
-"(b) The Government of the United States and the Government of Palau shall take all necessary steps, of a general or particular character, to ensure, not later than the effective date of this Compact, that their laws, regulations and administrative procedures are such as to effect the commitments referred to in Section 471(a).
+"(b) The Government of the United States and the Government of Palau shall take all necessary steps, of a general or particular character, to ensure, not laterthan the effective date of this Compact, that their laws, regulations and administrative procedures are such as to effect the commitments referred to in Section 471(a).
 
 "(c) Without prejudice to the effects of this Compact under international law, this Compact has the force and effect of a statute under the laws of the United States.
 

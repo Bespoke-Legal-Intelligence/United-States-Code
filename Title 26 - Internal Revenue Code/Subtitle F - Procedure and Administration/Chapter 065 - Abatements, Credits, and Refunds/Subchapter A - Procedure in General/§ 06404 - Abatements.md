@@ -12,7 +12,7 @@ The Secretary is authorized to abate the unpaid portion of the assessment of any
 
 #### (b) No claim for abatement of income, estate, and gift taxes
 
-No claim for abatement shall be filed by a taxpayer in respect of any assessment of any tax imposed under subtitle A or B.
+No claim for abatement shall be filed by a taxpayer in respect of an assessment of any tax imposed under subtitle A or B.
 
 #### (c) Small tax balances
 
@@ -20,7 +20,7 @@ The Secretary is authorized to abate the unpaid portion of the assessment of any
 
 #### (d) Assessments attributable to certain mathematical errors by Internal Revenue Service
 
-In the case of an assessment of any tax imposed by chapter 1 attributable in whole or in part to a mathematical error described in section 6213(g)(2)(A), if the return was prepared by an officer or employee of the Internal Revenue Service acting in his official capacity to provide assistance to taxpayers in the preparation of income tax returns, the Secretary is authorized to abate the assessment of all or any part of any interest on such deficiency for any period ending on or before the 30th day following the date of notice and demand by the Secretary for payment of the deficiency.
+In the case of an assessment of any tax imposed by chapter 1 attributable in whole or inpart to a mathematical error described in section 6213(g)(2)(A), if the return was prepared by an officer or employee of the Internal Revenue Service acting in his official capacity to provide assistance to taxpayers in the preparation of income tax returns, the Secretary is authorized to abate the assessment of all or any part of any interest on such deficiency for any period ending on or before the 30th day following the date of notice and demand by the Secretary for payment of the deficiency.
 
 #### (e) Abatement of interest attributable to unreasonable errors and delays by Internal Revenue Service
 
@@ -88,7 +88,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;&emsp;(D) any interest, penalty, addition to tax, or additional amount with respect to any gross misstatement;
 
-&emsp;&emsp;(E) any interest, penalty, addition to tax, or additional amount with respect to any reportable transaction with respect to which the requirement of section 6664(d)(2)(A) <sup>1</sup> is not met and any listed transaction (as defined in 6707A(c)); or
+&emsp;&emsp;(E) any interest, penalty, addition to tax, or additional amount with respect to any reportable transaction with respect to which the requirement of section 6664(d)(3)(A) is not met and any listed transaction (as defined in 6707A(c)); or
 
 &emsp;&emsp;(F) any criminal penalty.
 
@@ -104,7 +104,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 #### (1) In general
 
-&emsp;The Tax Court shall have jurisdiction over any action brought by a taxpayer who meets the requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary's failure to abate interest under this section was an abuse of discretion, and may order an abatement, if such action is brought—
+&emsp;The Tax Court shall have jurisdiction over any action brought by a taxpayer who meetsthe requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary's failure to abate interest under this section was an abuse of discretion, and may order an abatement, if such action is brought—
 
 &emsp;&emsp;(A) at any time after the earlier of—
 
@@ -132,13 +132,11 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;&emsp;<b>For authority to suspend running of interest, etc. by reason of Presidentially declared disaster or terroristic or military action, see section 7508A.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 792; Pub. L. 94–455, title XII, §1212(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1712, 1834; Pub. L. 96–589, §6(b)(2), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 99–514, title XV, §1563(a), Oct. 22, 1986, 100 Stat. 2762; Pub. L. 100–647, title I,§1015(n), title VI, §6229(a), Nov. 10, 1988, 102 Stat. 3572, 3733; Pub. L. 104–168, title III, §§301(a), (b), 302(a), title VII, §701(c)(3), July 30, 1996, 110 Stat. 1457, 1464; Pub. L. 105–206, title III, §§3305(a), 3309(a), July 22, 1998, 112 Stat. 743, 745; Pub. L. 105–277, div. J, title IV, §4003(e)(2), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–134, title I, §112(d)(1), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–357, title VIII, §903(a)–(c), Oct. 22, 2004, 118 Stat. 1652; Pub. L. 109–135, title III, §303(b)(1), Dec. 21, 2005, 119 Stat. 2609; Pub. L. 110–28, title VIII, §8242(a), May 25, 2007, 121 Stat. 200; Pub. L. 113–295, div. A, title II, §221(a)(111), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 114–113, div. Q, title IV, §421(a), Dec. 18, 2015, 129 Stat. 3123.)
-
-#### References in Text
-
-Section 6664(d)(2)(A), referred to in subsec. (g)(2)(E), was redesignated as section 6664(d)(3)(A) by Pub. L. 111–152, title I, §1409(c)(2)(A), Mar. 30, 2010, 124 Stat. 1069.
+(Aug. 16, 1954, ch. 736, 68A Stat. 792; Pub. L. 94–455, title XII, §1212(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1712, 1834; Pub. L. 96–589, §6(b)(2), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 99–514, title XV, §1563(a), Oct. 22, 1986, 100 Stat. 2762; Pub. L. 100–647, title I, §1015(n), title VI, §6229(a), Nov. 10, 1988, 102 Stat. 3572, 3733; Pub. L. 104–168, title III, §§301(a), (b), 302(a), title VII, §701(c)(3), July 30, 1996, 110 Stat. 1457, 1464; Pub. L. 105–206, title III, §§3305(a), 3309(a), July 22, 1998, 112 Stat. 743, 745; Pub. L. 105–277, div. J, title IV, §4003(e)(2), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–134, title I, §112(d)(1), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–357, title VIII, §903(a)–(c), Oct. 22, 2004, 118 Stat. 1652; Pub. L. 109–135, title III, §303(b)(1), Dec. 21, 2005, 119 Stat. 2609; Pub. L. 110–28, title VIII, §8242(a), May 25, 2007, 121 Stat. 200; Pub. L. 113–295, div. A, title II, §221(a)(111), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 114–113, div. Q, title IV, §421(a), Dec. 18, 2015, 129 Stat. 3123; Pub. L. 115–141, div. U, title IV, §401(a)(288), Mar. 23, 2018, 132 Stat. 1198.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (g)(2)(E). Pub. L. 115–141 substituted "section 6664(d)(3)(A)" for "section 6664(d)(2)(A)".
 
 <b>2015</b>—Subsec. (h). Pub. L. 114–113, §421(a)(1), substituted "Judicial review" for "Review of denial" in heading.
 
@@ -238,7 +236,7 @@ In general.—Except as provided in clauses (ii), (iii), and (iv), the amendment
 
 Participants in settlement initiatives.—Clause (i) shall not apply to any transaction if, as of January 23, 2006—
 
-&emsp;&emsp;&emsp;"(I) the taxpayer is participating in a settlement initiative described in Internal RevenueService Announcement 2005–80 with respect to such transaction, or
+&emsp;&emsp;&emsp;"(I) the taxpayer is participating in a settlement initiative described in Internal Revenue Service Announcement 2005–80 with respect to such transaction, or
 
 &emsp;&emsp;&emsp;"(II) the taxpayer has entered into a settlement agreement pursuant to such an initiative.
 
@@ -319,6 +317,4 @@ Amendment by Pub. L. 96–589 effective on Oct. 1, 1979, but not applicable to p
 #### Effective Date of 1976 Amendment
 
 Pub. L. 94–455, title XII, §1212(b), Oct. 4, 1976, 90 Stat. 1712, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to returns filed for taxable years ending after the date of enactment of this Act \[Oct. 4, 1976\]."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

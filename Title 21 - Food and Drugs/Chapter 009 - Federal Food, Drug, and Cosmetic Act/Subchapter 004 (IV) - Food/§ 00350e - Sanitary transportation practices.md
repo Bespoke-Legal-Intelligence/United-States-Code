@@ -50,7 +50,7 @@ The regulations under subsection (b) shall—
 
 #### (1) In general
 
-&emsp;The Secretary may waive any requirement under this section, with respect to any class of persons, vehicles, food, or nonfood products, if the Secretary determines that the waiver—
+&emsp;The Secretary may waive any requirement under this section, with respect to any class ofpersons, vehicles, food, or nonfood products, if the Secretary determines that the waiver—
 
 &emsp;&emsp;(A) will not result in the transportation of food under conditions that would be unsafe for human or animal health; and
 

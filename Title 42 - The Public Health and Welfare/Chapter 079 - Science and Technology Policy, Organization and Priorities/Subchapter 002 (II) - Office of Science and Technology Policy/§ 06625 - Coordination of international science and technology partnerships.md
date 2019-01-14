@@ -6,7 +6,7 @@ This section may be cited as the "International Science and Technology Cooperati
 
 #### (b) Establishment
 
-The Director of the Office of Science and Technology Policy shall establish a body under the National Science and Technology Council with the responsibility to identify and coordinate international science and technology cooperation that can strengthen the United States science and technology enterprise, improve economic and national security, and support United States foreign policy goals.
+The Director of the Office of Science and Technology Policy shall establish a body under theNational Science and Technology Council with the responsibility to identify and coordinate international science and technology cooperation that can strengthen the United States science and technology enterprise, improve economic and national security, and support United States foreign policy goals.
 
 #### (c) NSTC body leadership
 

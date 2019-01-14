@@ -20,7 +20,7 @@
 
 #### house report no. 94–1476
 
-The bill, unlike the present law, contains a general statement of what constitutes infringement of copyright. Section 501(a) identifies a copyright infringer as someone who "violates any of the exclusive rights of the copyright owner as provided by sections 106through 118" of the bill, or who imports copies or phonorecords in violation of section 602. Under the latter section an unauthorized importation of copies or phonorecords acquired abroad is an infringement of the exclusive right of distribution under certain circumstances.
+The bill, unlike the present law, contains a general statement of what constitutes infringement of copyright. Section 501(a) identifies a copyright infringer as someone who "violates any of the exclusive rights of the copyright owner as provided by sections 106 through 118" of the bill, or who imports copies or phonorecords in violation of section 602. Under the latter section an unauthorized importation of copies or phonorecords acquired abroad is an infringement of the exclusive right of distribution under certain circumstances.
 
 The principle of the divisibility of copyright ownership, established by section 201(d), carries with it the need in infringement actions to safeguard the rights of all copyright owners and to avoid a multiplicity of suits. Subsection (b) of section 501 enables the owner of a particular right to bring an infringement action in that owner's name alone, while at the same time insuring to the extent possible that the other owners whose rights may be affected are notified and given a chance to join the action.
 

@@ -29,7 +29,7 @@
 | [1249\.](%C2%A7%2001249%20-%20Gain%20from%20certain%20sales%20or%20exchanges%20of%20patents%2C%20etc.%2C%20to%20foreign%20corporations.md) | Gain from certain sales or exchanges of patents, etc., to foreign corporations. |
 | [1250\.](%C2%A7%2001250%20-%20Gain%20from%20dispositions%20of%20certain%20depreciable%20realty.md) | Gain from dispositions of certain depreciable realty. |
 | \[1251. | Repealed.\] |
-| [1252\.](%C2%A7%2001252%20-%20Gain%20from%20disposition%20of%20farm%20land.md) | Gain from the disposition of farm land.<sup>1</sup> |
+| [1252\.](%C2%A7%2001252%20-%20Gain%20from%20disposition%20of%20farm%20land.md) | Gain from disposition of farm land. |
 | [1253\.](%C2%A7%2001253%20-%20Transfers%20of%20franchises%2C%20trademarks%2C%20and%20trade%20names.md) | Transfers of franchises, trademarks, and trade names. |
 | [1254\.](%C2%A7%2001254%20-%20Gain%20from%20disposition%20of%20interest%20in%20oil%2C%20gas%2C%20geothermal%2C%20or%20other%20mineral%20properties.md) | Gain from disposition of interest in oil, gas, geothermal, or other mineral properties. |
 | [1255\.](%C2%A7%2001255%20-%20Gain%20from%20disposition%20of%20section%20126%20property.md) | Gain from disposition of section 126 property. |
@@ -42,6 +42,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U. title IV, §401(a)(173), Mar. 23, 2018, 132 Stat. 1192, substituted "Gain from disposition of farm land" for "Gain from the disposition of farm land" in item 1252.
 
 <b>2004</b>—Pub. L. 108–357, title IV, §413(c)(32), Oct. 22, 2004, 118 Stat. 1510, struck out items 1246 "Gain on foreign investment company stock" and 1247 "Election by foreign investment companies to distribute income currently".
 

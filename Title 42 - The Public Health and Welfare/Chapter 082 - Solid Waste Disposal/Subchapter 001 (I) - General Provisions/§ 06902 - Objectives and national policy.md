@@ -20,7 +20,7 @@ The objectives of this chapter are to promote the protection of health and the e
 
 &emsp;(8) providing for the promulgation of guidelines for solid waste collection, transport, separation, recovery, and disposal practices and systems;
 
-&emsp;(9) promoting a national research and development program for improved solid waste management and resource conservation techniques, more effective organizational arrangements, and new and improved methods of collection, separation, and recovery, and recycling of solid wastes and environmentally safe disposal of nonrecoverable residues;
+&emsp;(9) promoting a national research and development program for improved solid wastemanagement and resource conservation techniques, more effective organizational arrangements, and new and improved methods of collection, separation, and recovery, and recycling of solid wastes and environmentally safe disposal of nonrecoverable residues;
 
 &emsp;(10) promoting the demonstration, construction, and application of solid waste management, resource recovery, and resource conservation systems which preserve and enhance the quality of air, water, and land resources; and
 

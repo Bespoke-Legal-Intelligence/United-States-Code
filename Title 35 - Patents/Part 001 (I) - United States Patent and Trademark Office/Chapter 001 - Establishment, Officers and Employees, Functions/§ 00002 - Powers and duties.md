@@ -92,7 +92,7 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(A), is
 
 Subsec. (b)(2)(G). Pub. L. 112–29, §25, added subpar. (G).
 
-Subsec. (b)(4)(A). Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the FederalProperty and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)".
+Subsec. (b)(4)(A). Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)".
 
 Subsec. (b)(11). Pub. L. 112–29, §21(a), inserted ", and the Office is authorized to expend funds to cover the subsistence expenses and travel-related expenses, including per diem, lodging costs, and transportation costs, of persons attending such programs who are not Federal employees" after "world".
 

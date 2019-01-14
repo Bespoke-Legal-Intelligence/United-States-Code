@@ -12,7 +12,7 @@ If the consignee of any designated archaeological or ethnological material is un
 
 &emsp;(2) satisfactory evidence that such material was exported from the State Party—
 
-&emsp;&emsp;(A) not less than ten years before the date of such entry and that neither the person for whose account the material is imported (or any related person) contracted for or acquired an interest, directly or indirectly, in such material more than one year before that date of entry, or
+&emsp;&emsp;(A) not less than ten years before the date of such entry and that neither the person forwhose account the material is imported (or any related person) contracted for or acquired an interest, directly or indirectly, in such material more than one year before that date of entry, or
 
 &emsp;&emsp;(B) on or before the date on which such material was designated under section 2604 of this title,
 

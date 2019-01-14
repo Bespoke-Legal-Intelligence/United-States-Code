@@ -64,6 +64,8 @@
 
 (3) Any person intending to file an application under paragraph (1), section 360ccc of this title, or a request for an investigational exemption under subsection (j) shall be entitled to one or more conferences prior to such submission to reach an agreement acceptable to the Secretary establishing a submission or an investigational requirement, which may include a requirement for a field investigation. A decision establishing a submission or an investigational requirement shall bind the Secretary and the applicant or requestor unless (A) the Secretary and the applicant or requestor mutually agree to modify the requirement, or (B) the Secretary by written order determines that a substantiated scientific requirement essential to the determination of safety or effectiveness of the animal drug involved has appeared after the conference. No later than 25 calendar days after each such conference, the Secretary shall provide a written order setting forth a scientific justification specific to the animal drug and intended uses under consideration if the agreement referred to in the first sentence requires more than one field investigation as being essential to provide substantial evidence of effectiveness for the intended uses of the drug. Nothing in this paragraph shall be construed as compelling the Secretary to require a field investigation.
 
+(4) Beginning on October 1, 2018, all applications or submissions pursuant to this subsection shall be submitted by electronic means in such format as the Secretary may require.
+
 #### (c) Period for submission and approval of application; period for notice and expedition of hearing; period for issuance of order; abbreviated applications; withdrawal periods; effective date of approval; relationship to other applications; withdrawal or suspension of approval; bioequivalence; filing of additional patent information
 
 (1) Within one hundred and eighty days after the filing of an application pursuant to subsection (b), or such additional period as may be agreed upon by the Secretary and the applicant, the Secretary shall either (A) issue an order approving the application if he then finds that none of the grounds for denying approval specified in subsection (d) applies, or (B) give the applicant notice of an opportunity for a hearing before the Secretary under subsection (d) on the question whether such application is approvable. If the applicant elects to accept the opportunity for a hearing by written request within thirty days after such notice, such hearing shall commence not more than ninety days after the expiration of such thirty days unless the Secretary and the applicant otherwise agree. Any such hearing shall thereafter be conducted on an expedited basis and the Secretary's order thereon shall be issued within ninety days after the date fixed by the Secretary for filing final briefs.
@@ -500,7 +502,7 @@ For purposes of this section, the term "patent" means a patent issued by the Uni
 
 &emsp;&emsp;(B) the date of issuance of the interim final rule controlling the drug.
 
-(June 25, 1938, ch. 675, §512, as added Pub. L. 90–399, §101(b), July 13, 1968, 82 Stat. 343; amended Pub. L. 100–670, title I, §§101, 102, 104, 107(a)(2), Nov. 16, 1988, 102 Stat. 3971, 3981, 3982, 3984; Pub. L. 102–108, §2(e), Aug. 17, 1991, 105 Stat. 550; Pub. L. 103–80, §3(r), Aug. 13, 1993, 107 Stat. 777; Pub. L. 103–396, §2(a), (b)(2), (3), Oct. 22, 1994, 108 Stat. 4153, 4154; Pub. L. 104–250, §§2(a)–(d), 3, 4, 5(c), 6(a), (b), Oct. 9, 1996, 110 Stat. 3151–3153, 3155–3157; Pub. L. 105–115, title I, §124(b), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 105–277, div. A, §101(a) \[title VII, §737\], Oct. 21, 1998, 112 Stat. 2681, 2681–30; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(11)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 108–282, title I, §102(b)(2), (3), (5)(I)–(S), Aug. 2, 2004, 118 Stat. 892, 903, 904; Pub. L. 110–316, title I, §105(a), Aug. 14, 2008, 122 Stat. 3513; Pub. L. 114–89, §2(a)(3)(A), Nov. 25, 2015, 129 Stat. 699; Pub. L. 114–255, div. A, title III, §3088(b), Dec. 13, 2016, 130 Stat. 1149.)
+(June 25, 1938, ch. 675, §512, as added Pub. L. 90–399, §101(b), July 13, 1968, 82 Stat. 343; amended Pub. L. 100–670, title I, §§101, 102, 104, 107(a)(2), Nov. 16, 1988, 102 Stat. 3971, 3981, 3982, 3984; Pub. L. 102–108, §2(e), Aug. 17, 1991, 105 Stat. 550; Pub. L. 103–80, §3(r), Aug. 13, 1993, 107 Stat. 777; Pub. L. 103–396, §2(a), (b)(2), (3), Oct. 22, 1994, 108 Stat. 4153, 4154; Pub. L. 104–250, §§2(a)–(d), 3, 4, 5(c), 6(a), (b), Oct. 9, 1996, 110 Stat. 3151–3153, 3155–3157; Pub. L. 105–115, title I, §124(b), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 105–277, div. A, §101(a) \[title VII, §737\], Oct. 21, 1998, 112 Stat. 2681, 2681–30; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(11)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 108–282, title I, §102(b)(2), (3), (5)(I)–(S), Aug. 2, 2004, 118 Stat. 892, 903, 904; Pub. L. 110–316, title I, §105(a), Aug. 14, 2008, 122 Stat. 3513; Pub. L. 114–89, §2(a)(3)(A), Nov. 25, 2015, 129 Stat. 699; Pub. L. 114–255, div. A, title III, §3088(b), Dec. 13, 2016, 130 Stat. 1149; Pub. L. 115–234, title III, §301(a), Aug. 14, 2018, 132 Stat. 2436.)
 
 #### References in Text
 
@@ -509,6 +511,8 @@ Section 342(a)(2) of this title, referred to in subsec. (a)(6), was amended by P
 The Controlled Substances Act, referred to in subsec. (q)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(4). Pub. L. 115–234 added par. (4).
 
 <b>2016</b>—Subsec. (a)(1)(D). Pub. L. 114–255 added subpar. (D).
 
@@ -522,7 +526,7 @@ Subsec. (b)(3). Pub. L. 108–282, §102(b)(5)(J), substituted "under paragraph 
 
 Subsec. (c)(2)(F)(ii), (iii), (v). Pub. L. 108–282, §102(b)(2), substituted "(other than bioequivalence studies or residue depletion studies, except residue depletion studies for minor uses or minor species)" for "(other than bioequivalence or residue studies)".
 
-Subsec. (d)(4). Pub. L. 108–282, §102(b)(5)(K), substituted "have previously been separately approved pursuant to an application submitted under subsection (b)(1)" for "have previously been separately approved" in introductory provisions.
+Subsec. (d)(4). Pub. L. 108–282, §102(b)(5)(K), substituted "have previously been separately approvedpursuant to an application submitted under subsection (b)(1)" for "have previously been separately approved" in introductory provisions.
 
 Subsec. (d)(5). Pub. L. 108–282, §102(b)(3), added par. (5).
 
@@ -660,7 +664,7 @@ In general.—Not later than 6 months after the date of enactment of this Act \[
 
 Contents.—In issuing regulations implementing the amendments made by this Act \[see Short Title of 1996 Amendments note set out under section 301 of this title\], and in taking an action to review an application for approval of a new animal drug under section 512 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360b), or a request for an investigational exemption for a new animal drug under subsection (j) of such section, that is pending or has been submitted prior to the effective date of the regulations, the Secretary shall—
 
-&emsp;"(A) further define the term 'adequate and well controlled', as used in subsection (d)(3) of section 512 of such Act, to require that field investigations be designed and conducted in a scientifically sound manner, taking into account practical conditions in the field and differences between field conditions and laboratory conditions;
+&emsp;"(A) further define the term 'adequate and well controlled', as used in subsection (d)(3) of section 512of such Act, to require that field investigations be designed and conducted in a scientifically sound manner, taking into account practical conditions in the field and differences between field conditions and laboratory conditions;
 
 &emsp;"(B) further define the term 'substantial evidence', as defined in subsection (d)(3) of such section, in a manner that encourages the submission of applications and supplemental applications; and
 
@@ -680,6 +684,26 @@ General Rule.—The Secretary of Health and Human Services shall promulgate, in 
 
 Transition.—During the period beginning 60 days after the date of enactment of this Act \[Nov. 16, 1988\] and ending on the date regulations promulgated under subsection (a) take effect, abbreviated new animal drug applications may be submitted in accordance with the provisions of section 314.55 and part 320 of title 21 of the Code of Federal Regulations and shall be considered as suitable for any drug which has been approved for safety and effectiveness under section 512(c) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360b(c)\] before the date of enactment of this Act. If any such provision of section 314.55 or part 320 is inconsistent with the requirements of section 512 of the Federal Food, Drug, and Cosmetic Act (as amended by this title), the Secretary shall consider the application under the applicable requirements of section 512 (as so amended)."
 
+#### Guidance Addressing Investigation Designs
+
+Pub. L. 115–234, title III, §305, Aug. 14, 2018, 132 Stat. 2440, provided that:
+
+"(a)
+
+In General.—For purposes of assisting sponsors in incorporating complex adaptive and other novel investigation designs, data from foreign countries, real world evidence (including ongoing surveillance activities, observational studies, and registry data), biomarkers, and surrogate endpoints (referred to in this section as 'elements of investigations') into proposed clinical investigation protocols and applications for new animal drugs under sections 512 and 571 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360b; 360ccc), the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall issue guidance addressing the use of such elements of investigations in the development and regulatory review of such new animal drugs.
+
+"(b)
+
+Contents.—The guidance under subsection (a) shall address how the Secretary will evaluate the elements of investigations proposed or submitted pursuant to section 512(b)(1)(A) of the Federal Food, Drug, and Cosmetic Act or to meet the commitment under section 571(a)(2)(F) of such Act, and how sponsors of such applications may obtain feedback from the Secretary on technical issues related to such investigations prior to the submission of an application to the Secretary.
+
+"(c)
+
+Meeting.—Prior to issuing the guidance under subsection (a), the Secretary shall consult with stakeholders, including representatives of regulated industry, consumer groups, academia, veterinarians, and food producers, through a public meeting to be held not later than 1 year after the date of enactment of this Act \[Aug. 14, 2018\].
+
+"(d)
+
+Timing.—The Secretary shall issue a draft guidance under subsection (a) not later than 1 year after the date of the public meeting under subsection (c), and shall finalize such guidance not later than 1 year after the date on which the public comment period on such draft guidance ends."
+
 #### Antimicrobial Animal Drug Distribution Reports
 
 Pub. L. 110–316, title I, §105(b), (c), Aug. 14, 2008, 122 Stat. 3514, provided that:
@@ -698,7 +722,7 @@ Pub. L. 104–250, §2(f), Oct. 9, 1996, 110 Stat. 3154, provided that: "The Sec
 
 #### Transitional Provision Regarding Implementation of Pub. L. 104–250; Approved Medicated Feed Application Deemed License
 
-Pub. L. 104–250, §6(c), Oct. 9, 1996, 110 Stat. 3160, provided that: "A person engaged in the manufacture of animal feeds bearing or containing new animal drugs who holds at least one approved medicated feed application for an animal feed bearing or containing new animal drugs, the manufacture of which was not otherwise exempt from the requirement for an approved medicated feed application on the date of the enactment of this Act \[Oct. 9, 1996\], shall be deemed to hold a license for the manufacturing site identified in the approved medicated feed application. The revocation of license provisions of section 512(m)(4) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360b(m)(4)\], as amended by this Act, shall apply to such licenses. Such license shall expire within 18 months from the date of enactment of this Act unless the person submits to the Secretary a completed license application for the manufacturing site accompanied by a copy of an approved medicated feed application for such site, which license application shall be deemed to be approved upon receipt by the Secretary."
+Pub. L. 104–250, §6(c), Oct. 9, 1996, 110 Stat. 3160, provided that: "A person engaged in the manufacture of animal feeds bearing or containing new animal drugs who holds at least one approved medicated feed application for an animal feed bearing or containing new animal drugs, the manufacture of which was not otherwise exempt from the requirement for an approved medicated feed application on the date of the enactment of this Act \[Oct. 9, 1996\], shall be deemed to hold a license for the manufacturing site identified in the approved medicated feed application. The revocation of license provisions of section 512(m)(4) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360b(m)(4)\], as amended by this Act, shall apply to such licenses. Such license shall expire within 18 months from the date of enactment of this Act unless the person submits to the Secretary a completed license application for the manufacturing site accompanied by a copy of an approved medicated feed application for such site, which licenseapplication shall be deemed to be approved upon receipt by the Secretary."
 
 #### Drugs Primarily Manufactured Using Biotechnology
 

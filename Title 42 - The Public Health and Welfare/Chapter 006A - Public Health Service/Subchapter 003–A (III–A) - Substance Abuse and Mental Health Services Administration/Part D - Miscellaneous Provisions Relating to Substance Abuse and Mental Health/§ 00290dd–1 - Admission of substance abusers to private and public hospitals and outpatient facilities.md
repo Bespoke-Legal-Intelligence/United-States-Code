@@ -2,7 +2,7 @@
 
 #### (a) Nondiscrimination
 
-Substance abusers who are suffering from medical conditions shall not be discriminated against in admission or treatment, solely because of their substance abuse, by any private or public general hospital, or outpatient facility (as defined in section 300s–3(4) of this title) which receives support in any form from any program supported in whole or in part by funds appropriated to any Federal department or agency.
+Substance abusers who are suffering from medical conditions shall not be discriminatedagainst in admission or treatment, solely because of their substance abuse, by any private or public general hospital, or outpatient facility (as defined in section 300s–3(4) of this title) which receives support in any form from any program supported in whole or in part by funds appropriated to any Federal department or agency.
 
 #### (b) Regulations
 
@@ -26,7 +26,7 @@ Section was formerly classified to section 4561 of this title prior to renumberi
 
 <b>1992</b>—Pub. L. 102–321 amended section generally, substituting provisions relating to admission of substance abusers to private and public hospitals and outpatient facilities for provisions relating to programs for government and other employees.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–570, §6002(b)(1), redesignated subsec. (b) as (a), struck out "similar" after "fostering and encouraging" in par. (1), and struck out former subsec. (a) which read as follows: "The Office of Personnel Management shall be responsible for developing and maintaining, in cooperation with the Secretary and with other Federal agencies and departments, and in accordance with the provisions of subpart F of part III of title 5, appropriate prevention, treatment, and rehabilitation programs and servicesfor alcohol abuse and alcoholism among Federal civilian employees, consistent with the purposes of this chapter. Such agencies and departments are encouraged to extend, to the extent feasible, these programs and services to the families of alcoholic employees and to employees who have family members who are alcoholics. Such policies and services shall make optimal use of existing governmental facilities, services, and skills."
+<b>1986</b>—Subsec. (a). Pub. L. 99–570, §6002(b)(1), redesignated subsec. (b) as (a), struck out "similar" after "fostering and encouraging" in par. (1), and struck out former subsec. (a) which read as follows: "The Office of Personnel Management shall be responsible for developing and maintaining, in cooperation with the Secretary and with other Federal agencies and departments, and in accordance with the provisions of subpart F of part III of title 5, appropriate prevention, treatment, and rehabilitation programs and services for alcohol abuse and alcoholism among Federal civilian employees, consistent with the purposes of this chapter. Such agencies and departments are encouraged to extend, to the extent feasible, these programs and services to the families of alcoholic employees and to employees who have family members who are alcoholics. Such policies and services shall make optimal use of existing governmental facilities, services, and skills."
 
 Subsecs. (b) to (d). Pub. L. 99–570, §6002(b)(1)(C), redesignated subsecs. (c) and (d) as (b) and (c), respectively. Former subsec. (b) redesignated (a).
 

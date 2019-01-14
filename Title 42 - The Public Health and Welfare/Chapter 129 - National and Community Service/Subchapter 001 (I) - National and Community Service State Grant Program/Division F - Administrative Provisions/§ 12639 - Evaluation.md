@@ -32,7 +32,7 @@ The Corporation shall evaluate and compare the effectiveness of different progra
 
 The Corporation shall ensure that programs that receive assistance under division C are evaluated to determine their effectiveness in—
 
-&emsp;(1) recruiting and enrolling diverse participants in such programs, consistent with the requirements of section 12575 <sup>1</sup> of this title,based on economic background, race, ethnicity, age, marital status, education levels, and disability;
+&emsp;(1) recruiting and enrolling diverse participants in such programs, consistent with the requirements of section 12575 <sup>1</sup> of this title, based on economic background, race, ethnicity, age, marital status, education levels, and disability;
 
 &emsp;(2) promoting the educational achievement of each participant in such programs, based on earning a high school diploma or the equivalent of such diploma and the future enrollment and completion of increasingly higher levels of education;
 
@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, in addition to amounts appropriated 
 
 #### (k) Performance levels
 
-The Corporation shall, in consultation with each recipient of assistance under the nationalservice laws, establish performance levels for such recipient to meet during the term of the assistance. The performance levels may include, for each national service program carried out by the recipient, performance levels based on the following performance measures:
+The Corporation shall, in consultation with each recipient of assistance under the national service laws, establish performance levels for such recipient to meet during the term of the assistance. The performance levels may include, for each national service program carried out by the recipient, performance levels based on the following performance measures:
 
 &emsp;(1) Number of participants enrolled in the program and completing terms of service, as compared to the stated participation and retention goals of the program.
 
@@ -138,7 +138,7 @@ The Corporation shall, in consultation with each recipient of assistance under t
 
 #### (A) New program
 
-&emsp;&emsp;For a program that has received assistance under the national service laws for less than 3 years and for which the recipient is failing to meet or exceed the performance levels agreed upon under subsection (k), the Corporation shall—
+&emsp;&emsp;For a program that has received assistance under the national service laws for less than 3 years and for which the recipient is failing to meet or exceed the performance levelsagreed upon under subsection (k), the Corporation shall—
 
 &emsp;&emsp;&emsp;(i) provide technical assistance to the recipient to address targeted performance problems relating to the performance levels for the program; and
 

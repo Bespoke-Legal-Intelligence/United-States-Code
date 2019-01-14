@@ -10,7 +10,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 &emsp;Except for a voyage or a segment of a voyage that begins and ends in the State of Hawaii, or as provided in paragraph (2), this section does not prohibit—
 
-&emsp;&emsp;(A) the repair, transport, possession, or use of a gambling device on a vessel that is not within the boundaries of any State or possession of the United States;
+&emsp;&emsp;(A) the repair, transport, possession, or use of a gambling device on a vessel that is notwithin the boundaries of any State or possession of the United States;
 
 &emsp;&emsp;(B) the transport or possession, on a voyage, of a gambling device on a vessel that is within the boundaries of any State or possession of the United States, if—
 
@@ -36,7 +36,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 #### (C) Exclusion of certain voyages and segments
 
-&emsp;&emsp;Except for a voyage or segment of a voyage that occurs within the boundaries of theState of Hawaii, a voyage or segment of a voyage is not described in subparagraph (B) if it includes or consists of a segment—
+&emsp;&emsp;Except for a voyage or segment of a voyage that occurs within the boundaries of the State of Hawaii, a voyage or segment of a voyage is not described in subparagraph (B) if it includes or consists of a segment—
 
 &emsp;&emsp;&emsp;(i) that begins and ends in the same State;
 

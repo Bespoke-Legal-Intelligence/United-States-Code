@@ -30,7 +30,7 @@ To be eligible to receive a grant or enter into a contract under this section, a
 
 #### (3) Agreement on adjusted levels of performance
 
-&emsp;The Secretary and the entity described in subsection (b) shall reach agreement on thelevels of performance for each of the primary indicators of performance described in section 3141(b)(2)(A) of this title, taking into account economic conditions, characteristics of the individuals served, and other appropriate factors, and using, to the extent practicable, the statistical adjustment model under section 3141(b)(3)(A)(viii) of this title. The levels agreed to shall be the adjusted levels of performance and shall be incorporated in the program plan.
+&emsp;The Secretary and the entity described in subsection (b) shall reach agreement on the levels of performance for each of the primary indicators of performance described in section 3141(b)(2)(A) of this title, taking into account economic conditions, characteristics of the individuals served, and other appropriate factors, and using, to the extent practicable, the statistical adjustment model under section 3141(b)(3)(A)(viii) of this title. The levels agreed to shall be the adjusted levels of performance and shall be incorporated in the program plan.
 
 #### (4) Administration
 

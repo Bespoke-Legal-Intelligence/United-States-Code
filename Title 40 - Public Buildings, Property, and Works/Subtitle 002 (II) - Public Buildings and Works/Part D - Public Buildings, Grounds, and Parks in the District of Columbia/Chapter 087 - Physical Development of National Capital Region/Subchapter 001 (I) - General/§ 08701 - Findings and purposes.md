@@ -38,7 +38,7 @@ Objective.—The general objective of this chapter (except sections 8733–8736)
 
 &emsp;&emsp;(A) consistent with the nature and function of the National Capital and with due regard for the rights and prerogatives of the adjoining States and local governments to exercise control appropriate to their functions; and
 
-&emsp;&emsp;(B) which will, in accordance with present and future needs, best promote public health, safety, morals, order, convenience, prosperity, and the general welfare, as well as efficiency and economy in the process of development.
+&emsp;&emsp;(B) which will, in accordance with present and future needs, best promote public health, safety, morals, order, convenience, prosperity, and the general welfare, as wellas efficiency and economy in the process of development.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1216.)
 
@@ -68,5 +68,5 @@ June 6, 1924, ch. 270, §1(a), 43 Stat. 463; Apr. 30, 1926, ch. 198, 44 Stat. 37
 
 In subsection (a)(7), the words "from time to time" are omitted as unnecessary.
 
-In subsection (b), the text of 40:72a, restated as section 8732 of the revised title, is included in the purposesand objectives of this chapter because by its terms, the authority of the National Capital Planning Commission is enlarged as provided in that section.
+In subsection (b), the text of 40:72a, restated as section 8732 of the revised title, is included in the purposes and objectives of this chapter because by its terms, the authority of the National Capital Planning Commission is enlarged as provided in that section.
 

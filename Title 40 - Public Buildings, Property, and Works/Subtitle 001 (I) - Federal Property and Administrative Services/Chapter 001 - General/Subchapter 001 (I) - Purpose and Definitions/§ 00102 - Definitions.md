@@ -88,7 +88,7 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, §3, 63 Stat. 378; Sept. 5, 1950, ch. 849, §§7(a), 8(a), 64 Stat. 590, 591; July 12, 1952, ch. 703, §1(a), (b), 66 Stat. 593; Sept. 1, 1954, ch. 1211, §4(c), 68 Stat. 1129; Aug. 12, 1955, ch. 874, §2, 69 Stat. 722; Pub. L. 85–337, §5, Feb. 28, 1958, 72 Stat. 29; Pub. L. 86–70, §30(a), June 25, 1959, 73 Stat. 148; Pub. L. 86–624, §27(a), July 12, 1960, 74 Stat. 418; Pub. L. 93–594, Jan. 2, 1975, 88 Stat. 1926.
 
-In this section, the words "and in title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)" are added to provide an accurate literal translation of the words "this Act", meaning the Federal Property and Administrative Services Act of 1949. See the revision note under section 111 of this title. The definition of "Administrator" is omitted as unnecessary. The text of 40:472(i) is omitted as unnecessary because of the definition of "person" in 1:1.
+In this section, the words "and in title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)" are added to provide an accurateliteral translation of the words "this Act", meaning the Federal Property and Administrative Services Act of 1949. See the revision note under section 111 of this title. The definition of "Administrator" is omitted as unnecessary. The text of 40:472(i) is omitted as unnecessary because of the definition of "person" in 1:1.
 
 In clause (6), the words "the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau" are substituted for "the Trust Territory of the Pacific Islands" because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
 

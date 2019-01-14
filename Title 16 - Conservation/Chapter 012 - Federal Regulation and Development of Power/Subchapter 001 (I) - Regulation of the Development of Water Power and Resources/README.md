@@ -51,3 +51,6 @@ Section 212 of act of Aug. 26, 1935, ch. 687, 49 Stat. 847, provided that sectio
 - [&sect; 00823b - Enforcement](%C2%A7%2000823b%20-%20Enforcement.md)
 - [&sect; 00823c - Alaska State jurisdiction over small hydroelectric projects](%C2%A7%2000823c%20-%20Alaska%20State%20jurisdiction%20over%20small%20hydroelectric%20projects.md)
 - [&sect; 00823d - Alternative conditions and prescriptions](%C2%A7%2000823d%20-%20Alternative%20conditions%20and%20prescriptions.md)
+- [&sect; 00823e - Promoting hydropower development at existing nonpowered dams](%C2%A7%2000823e%20-%20Promoting%20hydropower%20development%20at%20existing%20nonpowered%20dams.md)
+- [&sect; 00823f - Closed-loop pumped storage projects](%C2%A7%2000823f%20-%20Closed-loop%20pumped%20storage%20projects.md)
+- [&sect; 00823g - Considerations for relicensing terms](%C2%A7%2000823g%20-%20Considerations%20for%20relicensing%20terms.md)

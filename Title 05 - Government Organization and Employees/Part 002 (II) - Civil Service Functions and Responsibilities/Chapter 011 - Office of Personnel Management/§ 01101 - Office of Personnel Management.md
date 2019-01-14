@@ -32,7 +32,7 @@ Pub. L. 95–454, title IX, §907, Oct. 13, 1978, 92 Stat. 1227, provided that: 
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–378, §1(a), Oct. 2, 1992, 106 Stat. 1346, provided that: "This Act \[see Tables for classification\] may be cited as the 'Technical and Miscellaneous Civil Service Amendments Act of 1992'."
+Pub. L. 102–378, §1(a), Oct. 2, 1992, 106 Stat. 1346, provided that: "This Act \[see Tables for classification\]may be cited as the 'Technical and Miscellaneous Civil Service Amendments Act of 1992'."
 
 #### Short Title of 1984 Amendment
 
@@ -50,7 +50,7 @@ Pub. L. 95–454, title IX, §902, Oct. 13, 1978, 92 Stat. 1223, provided that:
 
 "(b) No provision of this Act \[see Tables for classification\] shall affect any administrative proceedings pending at the time such provision takes effect. Orders shall be issued in such proceedings and appeals shall be taken therefrom as if this Act had not been enacted.
 
-"(c) No suit, action, or other proceeding lawfully commenced by or against the Director of the Office ofPersonnel Management or the members of the Merit Systems Protection Board, or officers or employees thereof, in their official capacity or in relation to the discharge of their official duties, as in effect immediately before the effective date of this Act \[see Effective Date of 1978 Amendment note above\], shall abate by reason of the enactment of this Act \[see Tables for classification\]. Determinations with respect to any such suit, action, or other proceeding shall be made as if this Act had not been enacted."
+"(c) No suit, action, or other proceeding lawfully commenced by or against the Director of the Office of Personnel Management or the members of the Merit Systems Protection Board, or officers or employees thereof, in their official capacity or in relation to the discharge of their official duties, as in effect immediately before the effective date of this Act \[see Effective Date of 1978 Amendment note above\], shall abate by reason of the enactment of this Act \[see Tables for classification\]. Determinations with respect to any such suit, action, or other proceeding shall be made as if this Act had not been enacted."
 
 #### Transmittal of Record Relating to Presidentially Appointed Positions to Presidential Candidates
 
@@ -122,7 +122,7 @@ Transfer of Personnel.—(1) If the Director of the Office of Personnel Manageme
 
 &emsp;"(B) the Defense Security Service employees who, as of such time, are first level supervisors of employees transferred under subparagraph (A).
 
-"(2) The Secretary may also transfer to the Office of Personnel Management any Defense Security Service employees (including higher level supervisors) who provide support services for the performance of the functions transferred under subsection (a) or for the personnel (including supervisors) transferred under paragraph (1) if the Director—
+"(2) The Secretary may also transfer to the Office of Personnel Management any Defense Security Serviceemployees (including higher level supervisors) who provide support services for the performance of the functions transferred under subsection (a) or for the personnel (including supervisors) transferred under paragraph (1) if the Director—
 
 &emsp;"(A) determines that the transfer of such additional employees and the positions of such employees to the Office of Personnel Management is necessary in the interest of effective performance of the transferred functions; and
 
@@ -140,7 +140,7 @@ Transfer of Personnel.—(1) If the Director of the Office of Personnel Manageme
 
 "(d)
 
-Actions After Transfer.—(1) Not later than one year after a transfer of functions to the Office of Personnel Management under subsection (a), the Director of the Office of Personnel Management, in coordination with the Secretary of Defense, shall review all functions performed by personnel of the Defense Security Service at the time of the transfer and make awritten determination regarding whether each such function is inherently governmental or is otherwise inappropriate for performance by contractor personnel.
+Actions After Transfer.—(1) Not later than one year after a transfer of functions to the Office of Personnel Management under subsection (a), the Director of the Office of Personnel Management, in coordination with the Secretary of Defense, shall review all functions performed by personnel of the Defense Security Service at the time of the transfer and make a written determination regarding whether each such function is inherently governmental or is otherwise inappropriate for performance by contractor personnel.
 
 "(2) A function performed by Defense Security Service employees as of the date of the enactment of this Act \[Nov. 24, 2003\] may not be converted to contractor performance by the Director of the Office of Personnel Management until—
 
@@ -398,7 +398,7 @@ Federal Register.
 
 #### Sec. 203. Savings Provision
 
-The Board shall accept appeals from agency actions effected prior to the effective date of this Plan. On the effective date of Part II of this Plan, proceedings then before the Federal Employee Appeals Authority shall continue before the Board; proceedings then before the Appeals Review Board and proceedings then before the United States Civil Service Commission on appeal from decisions of the Appeals Review Board shall continue before the Board; other employee appeals before boards or other bodies pursuant to law or regulation shall continue to be processed pursuant to those laws or regulations. Nothing in this section shall affect the right of a Federal employee to judicial review under applicable law.
+The Board shall accept appeals from agency actions effected prior to the effective date of this Plan. On the effective date of Part II of this Plan, proceedings then before the Federal Employee Appeals Authority shall continue before the Board; proceedings then before the Appeals Review Board and proceedings then before the United States Civil Service Commission on appeal from decisions of the Appeals Review Board shall continue before the Board; other employee appeals before boards or other bodies pursuant to law or regulation shall continue to be processed pursuant to those laws or regulations. Nothing in this section shall affect the right ofa Federal employee to judicial review under applicable law.
 
 #### Sec. 204. The Special Counsel
 
@@ -410,7 +410,7 @@ The Board shall accept appeals from agency actions effected prior to the effecti
 
 (d) When in the judgment of the Special Counsel, such personnel practices exist, he shall report his findings and recommendations to the Chairman of the Merit Systems Protection Board, the agency affected, and to the Office of Personnel Management, and may report such findings to the President.
 
-(e) When in the judgment of the Special Counsel, the results of an investigation would warrant the taking of disciplinary action against an employee who is within the jurisdiction of the Board, the Special Counsel shall prepare charges against such employee and present them with supporting documentation to the Board.Evidence supporting the need for disciplinary action against a Presidential appointee shall be submitted by the Special Counsel to the President.
+(e) When in the judgment of the Special Counsel, the results of an investigation would warrant the taking of disciplinary action against an employee who is within the jurisdiction of the Board, the Special Counsel shall prepare charges against such employee and present them with supporting documentation to the Board. Evidence supporting the need for disciplinary action against a Presidential appointee shall be submitted by the Special Counsel to the President.
 
 (f) The Special Counsel may appoint personnel necessary to assist in the performance of his functions.
 
@@ -470,7 +470,7 @@ All matters which relate to the functions transferred by Section 304 of this Pla
 
 #### Sec. 401. Incidental Transfer
 
-So much of the personnel, property, records, and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agencies abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
+So much of the personnel, property, records, and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation wasoriginally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agencies abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
 
 #### Sec. 402. Interim Officers
 
@@ -480,7 +480,7 @@ So much of the personnel, property, records, and unexpended balances of appropri
 
 #### Sec. 403. Effective Date
 
-The provisions of this Reorganization Plan shall become effective at such time or times, on or before January 1, 1979, as the President shall specify, but notsooner than the earliest time allowable under Section 906 of Title 5, United States Code.
+The provisions of this Reorganization Plan shall become effective at such time or times, on or before January 1, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5, United States Code.
 
 \[Pursuant to Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, this Reorg. Plan is generally effective Jan. 1, 1979.\]
 
@@ -534,7 +534,7 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12107. Implementation of Reform of Personnel Management System
 
-Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, as amended by Ex. Ord. No. 12126, Mar. 29, 1979, 44 F.R. 18923; Ex. Ord. No. 12128, Apr. 4, 1979, 44 F.R. 20625, provided:
+Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, as amended by Ex. Ord. No. 12126, Mar. 29, 1979, 44 F.R.18923; Ex. Ord. No. 12128, Apr. 4, 1979, 44 F.R. 20625, provided:
 
 By virtue of the authority vested in me as President by the Constitution and statutes of the United States of America, and by Section 403 of Reorganization Plan No. 2 of 1978 (43 FR 36037) \[set out above\], it is hereby ordered as follows:
 
@@ -754,7 +754,7 @@ Redesignations
 
 12105
 
-2–102. <i>Merit Systems Protection Board</i>. The provisions of Section 3(e) of Executive Order No. 10774 \[set out as anote under section 2025 of Title 22, Foreign Relations and Intercourse\], and Executive Order No. 11787 \[formerly set out as a note under section 7701 of this title\], are hereby amended and revised by substituting the words "Merit Systems Protection Board" for the words "Civil Service Commission" or "Commission" when used as a reference to the Civil Service Commission wherever such words appear.
+2–102. <i>Merit Systems Protection Board</i>. The provisions of Section 3(e) of Executive Order No. 10774 \[set out as a note under section 2025 of Title 22, Foreign Relations and Intercourse\], and Executive Order No. 11787 \[formerly set out as a note under section 7701 of this title\], are hereby amended and revised by substituting the words "Merit Systems Protection Board" for the words "Civil Service Commission" or "Commission" when used as a reference to the Civil Service Commission wherever such words appear.
 
 2–103. \[Amended Civil Service Rules under section 101 of Ex. Ord. No. 10577, formerly set out as a note under section 3301 of this title.\]
 
@@ -806,7 +806,7 @@ Section 1.
 
 (a) The Director of the Office of Personnel Management shall make arrangements for voluntary health and welfare organizations to solicit contributions from Federal employees and members of the uniformed services at their places of employment or duty. Federal employees and members of the uniformed services can also be solicited to make pledges of volunteer time. These arrangements shall take the form of an annual Combined Federal Campaign in which eligible voluntary health and welfare organizations are authorized to take part.
 
-(b) The Director shall consider permitting annuitants to make contributions to the Combined Federal Campaign through allotments or assignments of amounts from their Federal annuities. The Director may prescribe rules and regulations to govern the solicitation of such contributions and make arrangements to inform annuitants of their ability to make contributions in this manner.
+(b) The Director shall consider permitting annuitants to make contributions to the Combined Federal Campaign through allotments or assignments of amounts from their Federal annuities. The Director may prescribe rules and regulations to govern the solicitationof such contributions and make arrangements to inform annuitants of their ability to make contributions in this manner.
 
 Sec. 2. (a) The Director shall establish criteria for determining the eligibility of voluntary health and welfare organizations that may participate in each of the annual Combined Federal Campaigns.
 

@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (B) Income in subsequent years
 
-&emsp;&emsp;If any taxpayer has any loss for any taxable year from a working interest in any oil or gas property which is treated as a loss which is not from a passive activity, then any net income from such property (or any property the basis of which is determined in whole or in part by reference to the basis of such property) for any succeeding taxable year shall be treated as income of the taxpayer which is not from a passive activity. If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.
+&emsp;&emsp;If any taxpayer has any loss for any taxable year from a working interest in any oil or gas property which is treated as a loss which is not from a passive activity, then any net income from such property (or any property the basis of which is determined in whole or in part by reference to the basis of such property) for any succeeding taxable year shall be treated as income of the taxpayer which is not from a passive activity. If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.
 
 #### (4) Material participation not required for paragraphs (2) and (3)
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (C) Real property trade or business
 
-&emsp;&emsp;For purposes of this paragraph, the term "real property trade or business" means anyreal property development, redevelopment, construction, reconstruction, acquisition, conversion, rental, operation, management, leasing, or brokerage trade or business.
+&emsp;&emsp;For purposes of this paragraph, the term "real property trade or business" means any real property development, redevelopment, construction, reconstruction, acquisition, conversion, rental, operation, management, leasing, or brokerage trade or business.
 
 #### (D) Special rules for subparagraph (B)
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) subpart D of part IV of subchapter A, or
 
-&emsp;&emsp;&emsp;(ii) subpart B (other than section 27(a)) of such part IV, exceeds
+&emsp;&emsp;&emsp;(ii) subpart B (other than section 27) of such part IV, exceeds
 
 &emsp;&emsp;(B) the regular tax liability of the taxpayer for the taxable year allocable to all passive activities.
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### (B) Return on working capital
 
-&emsp;&emsp;For purposes of subparagraph (A), any income, gain, or loss which is attributable to an investment of working capital shall be treated as not derived in the ordinary course of a trade or business.
+&emsp;&emsp;For purposes of subparagraph (A), any income, gain, or loss which is attributable toan investment of working capital shall be treated as not derived in the ordinary course of a trade or business.
 
 #### (2) Passive losses of certain closely held corporations may offset active income
 
@@ -252,7 +252,7 @@ If during the taxable year a taxpayer disposes of his entire interest in any pas
 
 #### (3) Installment sale of entire interest
 
-&emsp;In the case of an installment sale of an entire interest in an activity to which section 453 applies, paragraph (1) shall apply to the portion of such losses for each taxable year which bears the same ratio to all such losses as the gain recognized on such sale during such taxable year bears to the gross profit from such sale (realized or to be realized when payment is completed).
+&emsp;In the case of an installment sale of an entire interest in an activity to which section453 applies, paragraph (1) shall apply to the portion of such losses for each taxable year which bears the same ratio to all such losses as the gain recognized on such sale during such taxable year bears to the gross profit from such sale (realized or to be realized when payment is completed).
 
 #### (h) Material participation defined
 
@@ -308,29 +308,23 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of any portion of the passive activity credit for any taxable year which is attributable to the rehabilitation credit determined under section 47, subparagraph (A) shall be applied by substituting "$200,000" for "$100,000".
 
-#### (C) Exception for commercial revitalization deduction
-
-&emsp;&emsp;Subparagraph (A) shall not apply to any portion of the passive activity loss for any taxable year which is attributable to the commercial revitalization deduction under section 1400I.
-
-#### (D) Exception for low-income housing credit
+#### (C) Exception for low-income housing credit
 
 &emsp;&emsp;Subparagraph (A) shall not apply to any portion of the passive activity credit for any taxable year which is attributable to any credit determined under section 42.
 
-#### (E) Ordering rules to reflect exceptions and separate phase-outs
+#### (D) Ordering rule
 
-&emsp;&emsp;If subparagraph (B), (C), or (D) applies for a taxable year, paragraph (1) shall be applied—
+&emsp;&emsp;Paragraph (1) shall be applied for any taxable year—
 
-&emsp;&emsp;&emsp;(i) first to the portion of the passive activity loss to which subparagraph (C) does not apply,
+&emsp;&emsp;&emsp;(i) first, to the passive activity loss,
 
-&emsp;&emsp;&emsp;(ii) second to the portion of such loss to which subparagraph (C) applies,
+&emsp;&emsp;&emsp;(ii) second, to the portion of the passive activity credit to which subparagraph (B) and <sup>1</sup> (C) does not apply,
 
-&emsp;&emsp;&emsp;(iii) third to the portion of the passive activity credit to which subparagraph (B) or (D) does not apply,
+&emsp;&emsp;&emsp;(iii) third, to the portion of such credit to which subparagraph (B) applies, and
 
-&emsp;&emsp;&emsp;(iv) fourth to the portion of such credit to which subparagraph (B) applies, and
+&emsp;&emsp;&emsp;(iv) then, to the portion of such credit to which subparagraph (C) applies.
 
-&emsp;&emsp;&emsp;(v) then to the portion of such credit to which subparagraph (D) applies.
-
-#### (F) Adjusted gross income
+#### (E) Adjusted gross income
 
 &emsp;&emsp;For purposes of this paragraph, adjusted gross income shall be determined without regard to—
 
@@ -356,7 +350,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), in the case of any married individual filing a separate return, this subsection shall be applied by substituting—
+&emsp;&emsp;Except as provided in subparagraph (B), in the case of any married individual filing aseparate return, this subsection shall be applied by substituting—
 
 &emsp;&emsp;&emsp;(i) "$12,500" for "$25,000" each place it appears,
 
@@ -378,15 +372,13 @@ For purposes of this section—
 
 &emsp;&emsp;An individual shall not be treated as actively participating with respect to any interest in any rental real estate activity for any period if, at any time during such period, such interest (including any interest of the spouse of the individual) is less than 10 percent (by value) of all interests in such activity.
 
-#### (B) No participation requirement for low-income housing, rehabilitation credit, or commercial revitalization deduction
+#### (B) No participation requirement for low-income housing or rehabilitation credit
 
 &emsp;&emsp;Paragraphs (1) and (4)(A) shall be applied without regard to the active participation requirement in the case of—
 
-&emsp;&emsp;&emsp;(i) any credit determined under section 42 for any taxable year,
+&emsp;&emsp;&emsp;(i) any credit determined under section 42 for any taxable year, or
 
-&emsp;&emsp;&emsp;(ii) any rehabilitation credit determined under section 47, or
-
-&emsp;&emsp;&emsp;(iii) any deduction under section 1400I (relating to commercial revitalization deduction).
+&emsp;&emsp;&emsp;(ii) any rehabilitation credit determined under section 47,<sup>2</sup>
 
 #### (C) Interest as a limited partner
 
@@ -498,9 +490,21 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) which deal with changes in marital status and changes between joint returns and separate returns.
 
-(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599; Pub. L. 107–16, title IV, §431(c)(3), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §412(a), Mar. 9, 2002, 116 Stat. 53; Pub. L. 108–357, title I, §102(d)(5), title III, §331(g), Oct. 22, 2004, 118 Stat. 1429, 1477; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (60)(A), Dec. 19, 2014, 128 Stat. 4044, 4047; Pub. L. 115–97, title I, §§13305(b)(1), 14202(b)(3), Dec. 22, 2017, 131 Stat. 2126, 2216.)
+(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599; Pub. L. 107–16, title IV, §431(c)(3), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §412(a), Mar. 9, 2002, 116 Stat. 53; Pub. L. 108–357, title I, §102(d)(5), title III, §331(g), Oct. 22, 2004, 118 Stat. 1429, 1477; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (60)(A), Dec. 19, 2014, 128 Stat. 4044, 4047; Pub. L. 115–97, title I, §§13305(b)(1), 14202(b)(3), Dec. 22, 2017, 131 Stat. 2126, 2216; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(ii), (5)(B)(i)–(iii), Mar. 23, 2018, 132 Stat. 1206, 1210.)
 
 #### Amendments
+
+<b>2018</b>—Subsecs. (c)(3)(B), (d)(2)(A)(ii). Pub. L. 115–141, §401(d)(1)(D)(ii), substituted "27" for "27(a)".
+
+Subsec. (i)(3)(C). Pub. L. 115–141, §401(d)(5)(B)(i), redesignated subpar. (D) as (C) and struck out former subpar. (C). Prior to amendment, text of subpar. (C) read as follows: "Subparagraph (A) shall not apply to any portion of the passive activity loss for any taxable year which is attributable to the commercial revitalization deduction under section 1400I."
+
+Subsec. (i)(3)(D). Pub. L. 115–141, §401(d)(5)(B)(i), (ii), redesignated subpar. (E) as (D) and amended it generally. Prior to amendment, subpar. related to ordering rules to reflect exceptions and separate phase-outs. Former subpar. (D) redesignated (C).
+
+Subsec. (i)(3)(E), (F). Pub. L. 115–141, §401(d)(5)(B)(i), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
+
+Subsec. (i)(6)(B). Pub. L. 115–141, §401(d)(5)(B)(iii)(I), substituted "or rehabilitation credit" for ", rehabilitation credit, or commercial revitalization deduction" in heading.
+
+Subsec. (i)(6)(B)(iii). Pub. L. 115–141, §401(d)(5)(B)(iii)(II)–(IV), struck out cl. (iii) which read as follows: "any deduction under section 1400I (relating to commercial revitalization deduction)."
 
 <b>2017</b>—Subsec. (i)(3)(F)(iii). Pub. L. 115–97, §14202(b)(3), substituted "222, and 250" for "and 222".
 
@@ -642,7 +646,7 @@ Subsec. (m)(3)(A). Pub. L. 100–647, §1005(a)(12), added subpar. (A) and struc
 
 #### Effective Date of 2017 Amendment
 
-Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
+Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
 Amendment by section 14202(b)(3) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 14202(c) of Pub. L. 115–97, set out as a note under section 172 of this title.
 
@@ -668,7 +672,7 @@ Amendment by Pub. L. 107–16 applicable to payments made in taxable years begin
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub.L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -712,7 +716,7 @@ Amendment by Pub. L. 100–203 effective as if included in the amendments made b
 
 #### Effective Date
 
-Pub. L. 99–514, title V, §501(c), Oct. 22, 1986, 100 Stat. 2241, as amended by Pub. L. 100–647, title I, §1005(a)(10), title IV, §4003(b)(2), Nov. 10, 1988, 102 Stat. 3388, 3644, provided that:
+Pub. L. 99–514, title V, §501(c), Oct. 22, 1986, 100 Stat. 2241, as amended by Pub. L. 100–647, title I, §1005(a)(10),title IV, §4003(b)(2), Nov. 10, 1988, 102 Stat. 3388, 3644, provided that:
 
 "(1)
 
@@ -735,6 +739,10 @@ Income from sales of passive activities in taxable years beginning before januar
 > then such gain shall be treated as gain from a passive activity for purposes of such section."
 
 #### Savings Provision
+
+Amendment by section 401(d)(5)(B)(i)–(iii) of Pub. L. 115–141 not applicable to certain qualified community assets acquired, wages paid or incurred, qualified revitalization buildings placed in service, or property acquired before Jan. 1, 2010, see section 401(d)(5)(C) of Pub. L. 115–141, set out as a note under former section 1400E of this title.
+
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 For provisions that nothing in amendment by section 11813(b)(16) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
@@ -808,7 +816,7 @@ Special rule for certain partnerships.—In the case of any property which is he
 
 &emsp;&emsp;"(A) which placed such property in service on or after December 31, 1985, and before August 17, 1986, and continuously held such property through the close of the taxable year for which the determination is being made, and
 
-&emsp;&emsp;"(B) which was not treated as a new partnership or as terminated at any time on or after the date on which such property was placed in service and through the close of the taxable year for which the determination is being made,
+&emsp;&emsp;"(B) which was not treated as a new partnership or as terminated at any time on or after the dateon which such property was placed in service and through the close of the taxable year for which the determination is being made,
 
 > &emsp;paragraph (1)(A)(i) shall be applied by substituting 'December 31, 1988' for 'August 16, 1986' the 2nd place it appears.
 
@@ -839,4 +847,8 @@ Only cash and other property taken into account.—In determining the amount any
 Coordination with credit.—No low-income housing credit shall be determined under section 42 of the Internal Revenue Code of 1986 with respect to any project with respect to which any person has been allowed any benefit under this section."
 
 \[Pub. L. 99–509, title VIII, §8073(b), Oct. 21, 1986, 100 Stat. 1965, provided that: "The amendment made by subsection (a) \[amending section 502 of Pub. L. 99–514, set out above\] shall take effect as if included in section 502 of the Tax Reform Act of 1986 on the date of its enactment \[Oct. 22, 1986\]."\]
+
+<i><sup>1</sup></i><i> So in original. Probably should be "or".</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should be a period.</i>
 

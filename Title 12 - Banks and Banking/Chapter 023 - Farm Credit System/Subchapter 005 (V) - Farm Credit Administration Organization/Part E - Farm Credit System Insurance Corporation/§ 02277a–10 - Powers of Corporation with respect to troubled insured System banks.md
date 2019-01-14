@@ -70,7 +70,7 @@
 
 #### (D) Rule for stand-alone assistance
 
-&emsp;&emsp;Before providing any assistance under paragraph (1), the Corporation shall evaluate the adequacy of managerial resources of the insured System bank. The continued service of any director or senior ranking officer who serves in a policymaking role for the assisted insured System bank, as determined by the Corporation, shall be subject to approval by the Corporation as a condition of assistance.
+&emsp;&emsp;Before providing any assistance under paragraph (1), the Corporation shall evaluate the adequacy of managerial resources of theinsured System bank. The continued service of any director or senior ranking officer who serves in a policymaking role for the assisted insured System bank, as determined by the Corporation, shall be subject to approval by the Corporation as a condition of assistance.
 
 #### (E) Discretionary determinations
 
@@ -90,7 +90,7 @@
 
 #### (b) Authority to pledge or sell assets
 
-The Corporation, in its discretion, may make loans on the security of, or may purchase, andliquidate or sell, any part of the assets of, any insured System bank that is placed in receivership because of the inability of the bank to pay principal or interest on any of its notes, bonds, debentures, or other obligations in a timely manner.
+The Corporation, in its discretion, may make loans on the security of, or may purchase, and liquidate or sell, any part of the assets of, any insured System bank that is placed in receivership because of the inability of the bank to pay principal or interest on any of its notes, bonds, debentures, or other obligations in a timely manner.
 
 #### (c) Subrogation
 

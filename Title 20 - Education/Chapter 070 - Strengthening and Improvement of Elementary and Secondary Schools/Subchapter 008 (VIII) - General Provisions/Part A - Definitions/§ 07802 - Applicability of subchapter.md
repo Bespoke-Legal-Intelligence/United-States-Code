@@ -6,7 +6,7 @@ Parts B, C, D, E, and F of this subchapter do not apply to subchapter VII of thi
 
 #### Prior Provisions
 
-A prior section 7802, Pub. L. 89–10, title IX, §9102, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3774, set out purpose of provisions relating to Indian education, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
+A prior section 7802, Pub. L. 89–10, title IX, §9102, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3774, set out purpose of provisions relating to Indian education, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
 
 #### Amendments
 

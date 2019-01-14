@@ -20,6 +20,7 @@
 | [547a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000547a%20-%20Inclusion%20of%20regional%20economic%20development%20benefits%20in%20economic%20analysis%20for%20purposes%20of%20computing%20economic%20justification%20of%20project.md) | Inclusion of regional economic development benefits in economic analysis for purposes of computing economic justification of project. |
 | 548, 549. | Omitted or Repealed. |
 | [549a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000549a%20-%20Review%20of%20navigation%2C%20flood%20control%2C%20and%20water%20supply%20projects.md) | Review of navigation, flood control, and water supply projects. |
+| [549b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000549b%20-%20Inclusion%20of%20project%20or%20facility%20in%20Corps%20of%20Engineers%20workplan.md) | Inclusion of project or facility in Corps of Engineers workplan. |
 | [550\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000550%20-%20Report%20on%20water%20terminal%20and%20transfer%20facilities.md) | Report on water terminal and transfer facilities. |
 | [551\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000551%20-%20Policy%20of%20Government%20as%20to%20terminal%20facilities%20for%20new%20projects.md) | Policy of Government as to terminal facilities for new projects. |
 | [552\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000552%20-%20Repealed.%20May%2029%2C%201928%2C%20ch.%20901%2C%20%C2%A71%2828%29%2C%2045%20Stat.%20988.md) | Repealed. |
@@ -38,7 +39,7 @@
 | [558c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558c%20-%20Rights-of-way%20over%20United%20States%20land.md) | Rights-of-way over United States land. |
 | [559\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000559%20-%20Disposition%20of%20rentals%20for%20Government%20plants.md) | Disposition of rentals for Government plants. |
 | [560\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000560%20-%20Contributions%20from%20private%20parties%3B%20return%20of%20excess.md) | Contributions from private parties; return of excess. |
-| [561\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000561%20-%20Advances%20by%20private%20parties%3B%20repayment.md) | Advances by private parties; repayment. |
+| [561\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000561%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93270%2C%20title%20I%2C%20%C2%A71166%28c%29%2C%20Oct.%2023%2C%202018%2C%20132%20Stat.%203798.md) | Repealed. |
 | [561a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000561a%20-%20Contributions%20from%20local%20interests%3B%20reduction%20to%20meet%20lowered%20cost.md) | Contributions from local interests; reduction to meet lowered cost. |
 | [562\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000562%20-%20Channel%20depths%20and%20dimensions%20defined.md) | Channel depths and dimensions defined. |
 | [562a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000562a%20-%20Project%20depths%20for%20national%20defense%20purposes%3B%20waterways%20for%20general%20commerce.md) | Project depths for national defense purposes; waterways for general commerce. |
@@ -72,12 +73,17 @@
 | [577b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000577b%20-%20Cost%20of%20operation%20and%20maintenance%20of%20general%20navigation%20features%20of%20small%20boat%20harbor%20projects%3B%20applicable%20projects.md) | Cost of operation and maintenance of general navigation features of small boat harbor projects; applicable projects. |
 | [578\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000578%20-%20Disposal%20of%20surplus%20property%20for%20development%20of%20public%20port%20or%20industrial%20facilities.md) | Disposal of surplus property for development of public port or industrial facilities. |
 | [578a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000578a%20-%20Disposition%20studies.md) | Disposition studies. |
+| [578b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000578b%20-%20Disposition%20of%20projects.md) | Disposition of projects. |
 | [579\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93640%2C%20title%20I%2C%20%C2%A7119%28b%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%204630.md) | Repealed. |
-| [579a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579a%20-%20Project%20deauthorizations.md) | Project deauthorizations. |
+| [579a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579a%20-%20Corps%20budgeting%3B%20project%20deauthorizations%3B%20comprehensive%20backlog%20report.md) | Corps budgeting; project deauthorizations; comprehensive backlog report. |
 | [579b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579b%20-%20Omitted.md) | Omitted. |
 | [579c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579c%20-%20Backlog%20prevention%20projects%20from%20Public%20Law%20113%E2%80%93121.md) | Backlog prevention: projects from Public Law 113–121. |
 | 579c–1. | Backlog prevention: projects from Public Law 114–322. |
-| [579d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579d%20-%20Deauthorization%20of%20inactive%20projects.md) | Deauthorization of inactive projects. |
+| 579c–2. | Backlog prevention: projects from Public Law 115–270. |
+| [579d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579d%20-%20Deauthorization%20of%20inactive%20projects%20as%20of%20Public%20Law%20114%E2%80%93322.md) | Deauthorization of inactive projects as of Public Law 114–322. |
+| 579d–1. | Deauthorization of inactive projects as of Public Law 115–270. |
+| [579e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579e%20-%20Access%20to%20real%20estate%20data.md) | Access to real estate data. |
+| [579f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000579f%20-%20Budgetary%20evaluation%20metrics%20and%20transparency%3B%20public%20participation.md) | Budgetary evaluation metrics and transparency; public participation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -106,6 +112,7 @@
 | [596\.](Subchapter%20003%20%28III%29%20-%20Acquisition%20of%20Land%20and%20Materials/%C2%A7%2000596%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93646%2C%20title%20III%2C%20%C2%A7306%2C%20Jan.%202%2C%201971%2C%2084%20Stat.%201907.md) | Repealed. |
 | [597\.](Subchapter%20003%20%28III%29%20-%20Acquisition%20of%20Land%20and%20Materials/%C2%A7%2000597%20-%20Acquisition%20of%20lands%20for%20water%20resource%20development%20projects%3B%20information%20as%20to%20probable%20timing%20for%20acquisition%3B%20public%20meetings%E2%80%A6.md) | Acquisition of lands for water resource development projects; information as to probable timing for acquisition; public meetings; regulations. |
 | [598\.](Subchapter%20003%20%28III%29%20-%20Acquisition%20of%20Land%20and%20Materials/%C2%A7%2000598%20-%20Resettlement%20of%20displaced%20families%2C%20individuals%2C%20and%20business%20concerns.md) | Resettlement of displaced families, individuals, and business concerns. |
+| [598a.](Subchapter%20003%20%28III%29%20-%20Acquisition%20of%20Land%20and%20Materials/%C2%A7%2000598a%20-%20Property%20acquisition.md) | Property acquisition. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -125,7 +132,7 @@
 | [607a.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000607a%20-%20Appropriations%3B%20separate%20project.md) | Appropriations; separate project. |
 | [608\.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000608%20-%20Construction%20of%20fishways.md) | Construction of fishways. |
 | [609\.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000609%20-%20Sluices%20and%20other%20work%20in%20dams%20for%20development%20of%20water%20power.md) | Sluices and other work in dams for development of water power. |
-| [610\.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000610%20-%20Control%20of%20aquatic%20plant%20growths.md) | Control of aquatic plant growths. |
+| [610\.](Subchapter%20004%20%28IV%29%20-%20Particular%20Work%20or%20Improvements/%C2%A7%2000610%20-%20Control%20of%20aquatic%20plant%20growths%20and%20invasive%20species.md) | Control of aquatic plant growths and invasive species. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -146,6 +153,7 @@
 | [631\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000631%20-%20Transfer%20of%20property%20between%20projects.md) | Transfer of property between projects. |
 | [632\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000632%20-%20Omitted.md) | Omitted. |
 | [633\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000633%20-%20Protection%2C%20alteration%2C%20reconstruction%2C%20relocation%2C%20or%20replacement%20of%20structures%20and%20facilities%3B%20contract%20standards%3B%20reasonable%20costs.md) | Protection, alteration, reconstruction, relocation, or replacement of structures and facilities; contract standards; reasonable costs. |
+| [634\.](Subchapter%20005%20%28V%29%20-%20Prosecution%20of%20Work%20Generally/%C2%A7%2000634%20-%20Assistance%20relating%20to%20water%20supply.md) | Assistance relating to water supply. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

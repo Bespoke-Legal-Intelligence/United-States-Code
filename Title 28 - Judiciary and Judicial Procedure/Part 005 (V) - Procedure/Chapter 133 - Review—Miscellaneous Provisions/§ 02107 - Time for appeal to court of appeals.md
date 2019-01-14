@@ -12,7 +12,7 @@
 
 &emsp;(4) a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the United States, including all instances in which the United States represents that officer or employee when the judgment, order, or decree is entered or files the appeal for that officer or employee.
 
-(c) The district court may, upon motion filed not later than 30 days after the expiration of the time otherwise set for bringing appeal, extend the time for appeal upon a showing of excusable neglect or good cause. In addition, if the district court finds—
+(c) The district court may, upon motion filed not later than 30 days after the expiration of thetime otherwise set for bringing appeal, extend the time for appeal upon a showing of excusable neglect or good cause. In addition, if the district court finds—
 
 &emsp;(1) that a party entitled to notice of the entry of a judgment or order did not receive such notice from the clerk or any party within 21 days of its entry, and
 
@@ -54,7 +54,7 @@ Changes were made in phraseology.
 
 #### Senate Revision Amendment
 
-By Senate amendment, all provisions relating to the Tax Court were eliminated. Therefore, section 1142 oftitle 26, U.S.C., Internal Revenue Code, was not one of the sources of this section as finally enacted. However, no change in the text of this section was necessary. See 80th Congress Senate Report No. 1559.
+By Senate amendment, all provisions relating to the Tax Court were eliminated. Therefore, section 1142 of title 26, U.S.C., Internal Revenue Code, was not one of the sources of this section as finally enacted. However, no change in the text of this section was necessary. See 80th Congress Senate Report No. 1559.
 
 #### 1949 Act
 

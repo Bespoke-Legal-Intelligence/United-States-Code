@@ -108,7 +108,7 @@ Allocation of, and Limitation on, Grant Funding.—
 
 &emsp;(1)
 
-Allocation.—To the extent feasible, the Secretary shall ensure that the amount madeavailable under subsection (b) for maritime heritage education projects is equal to the amount made available under subsection (c) for maritime heritage preservation projects.
+Allocation.—To the extent feasible, the Secretary shall ensure that the amount made available under subsection (b) for maritime heritage education projects is equal to the amount made available under subsection (c) for maritime heritage preservation projects.
 
 &emsp;(2)
 
@@ -216,7 +216,7 @@ In subsection (h)(2), the text of 16 U.S.C. 5403(h)(5) and (6) is omitted as obs
 
 <b>2016</b>—Subsec. (c)(1). Pub. L. 114–328, §3507(b), substituted "under section 308704(b)(1)(A)" for "under section 308704(b)(1)(B)".
 
-Subsec. (j). Pub. L. 114–328, §3507(c)(1), in introductory provisions, substituted "the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Energy and Natural Resources of the Senate, the Committee on Natural Resources of the House of Representatives, the Committee on Armed Services of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives" for "Congress".
+Subsec. (j). Pub. L. 114–328, §3507(c)(1), in introductory provisions, substituted "the Committee on Commerce, Science, and Transportation of the Senate, theCommittee on Energy and Natural Resources of the Senate, the Committee on Natural Resources of the House of Representatives, the Committee on Armed Services of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives" for "Congress".
 
 Subsec. (j)(1). Pub. L. 114–328, §3507(c)(3), added par. (1). Former par. (1) redesignated (2).
 

@@ -2,7 +2,7 @@
 
 #### (a) Preparation by Secretary of Agriculture; time of preparation, updating and contents
 
-In recognition of the vital importance of America's renewable resources of the forest, range, and other associated lands to the Nation's social and economic well-being, and of the necessity for a long term perspective in planning and undertaking related national renewable resource programs administered by the Forest Service, the Secretary of Agriculture shall prepare a Renewable Resource Assessment (hereinafter called the "Assessment"). The Assessment shall be prepared not later than December 31, 1975, and shall be updated during 1979 and each tenth year thereafter, and shall include but not be limited to—
+In recognition of the vital importance of America's renewable resources of the forest, range, and other associated lands to the Nation's social and economic well-being, and of the necessity for a long term perspective in planning and undertaking related national renewable resource programs administered by the Forest Service, the Secretary of Agriculture (referred to in this subchapter as the "Secretary") shall prepare a Renewable Resource Assessment (hereinafter called the "Assessment"). The Assessment shall be prepared not later than December 31, 1975, and shall be updated during 1979 and each tenth year thereafter, and shall include but not be limited to—
 
 &emsp;(1) an analysis of present and anticipated uses, demand for, and supply of the renewable resources, with consideration of the international resource situation, and an emphasis of pertinent supply and demand and price relationship trends;
 
@@ -26,7 +26,7 @@ The Secretary shall report in the 1979 and subsequent Assessments on:
 
 &emsp;(2) the potential for increased utilization of forest and wood product wastes in the National Forest System and on other lands, and of urban wood wastes and wood product recycling, including recommendations to the Congress for actions which would lead to increased utilization of material now being wasted both in the forests and in manufactured products; and
 
-&emsp;(3) the milling and other wood fiber product fabrication facilities and their location in the United States, noting the public and private forested areas that supply such facilities, assessing the degree of utilization into product form of harvested trees by such facilities, and setting forth the technology appropriate to the facilities to improve utilization either individually or in aggregate units of harvested trees and to reduce wasted wood fibers. The Secretary shall set forth a program to encourage the adoption by these facilities of thesetechnologies for improving wood fiber utilization.
+&emsp;(3) the milling and other wood fiber product fabrication facilities and their location in the United States, noting the public and private forested areas that supply such facilities, assessing the degree of utilization into product form of harvested trees by such facilities, and setting forth the technology appropriate to the facilities to improve utilization either individually or in aggregate units of harvested trees and to reduce wasted wood fibers. The Secretary shall set forth a program to encourage the adoption by these facilities of these technologies for improving wood fiber utilization.
 
 #### (d) <sup>3</sup> Public involvement; consultation with governmental departments and agencies
 
@@ -44,13 +44,15 @@ In developing the reports required under subsection (c) of this section, the Sec
 
 The Secretary shall submit an annual report to the Congress on the amounts, types, and uses of herbicides and pesticides used in the National Forest System, including the beneficial or adverse effects of such uses.
 
-(Pub. L. 93–378, §3, formerly §2, Aug. 17, 1974, 88 Stat. 476; renumbered §3 and amended Pub. L. 94–588, §§2–4, Oct. 22, 1976, 90 Stat. 2949, 2950; Pub. L. 101–624, title XXIV, §2408(a), Nov. 28, 1990, 104 Stat. 4061.)
+(Pub. L. 93–378, §3, formerly §2, Aug. 17, 1974, 88 Stat. 476; renumbered §3 and amended Pub. L. 94–588, §§2–4, Oct. 22, 1976, 90 Stat. 2949, 2950; Pub. L. 101–624, title XXIV, §2408(a), Nov. 28, 1990, 104 Stat. 4061; Pub. L. 115–141, div. O, title II, §208(b)(1), Mar. 23, 2018, 132 Stat. 1066.)
 
 #### Codification
 
 Subsec. (b) of this section amended section 581h of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–141 inserted "(referred to in this subchapter as the 'Secretary')" after "Secretary of Agriculture" in introductory provisions.
 
 <b>1990</b>—Subsec. (a)(5), (6). Pub. L. 101–624 added pars. (5) and (6).
 
@@ -62,7 +64,7 @@ For termination, effective May 15, 2000, of provisions in subsecs. (d)(1) and (e
 
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this subchapter and system activities requiring coordination and approval under general authorities of this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f),203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involvelands and programs under jurisdiction of that Department, related to compliance with this subchapter and system activities requiring coordination and approval under general authorities of this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 #### Presidential Commission on State and Private Forests
 

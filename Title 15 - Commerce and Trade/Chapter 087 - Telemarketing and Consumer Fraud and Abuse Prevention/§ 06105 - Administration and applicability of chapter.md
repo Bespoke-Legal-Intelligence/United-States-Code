@@ -6,7 +6,7 @@ Except as otherwise provided in sections 6102(d), 6102(e), 6103, and 6104 of thi
 
 #### (b) Actions by Commission
 
-The Commission shall prevent any person from violating a rule of the Commission under section 6102 of this title in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this chapter. Any person who violates such rule shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this chapter.
+The Commission shall prevent any person from violating a rule of the Commission undersection 6102 of this title in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this chapter. Any person who violates such rule shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this chapter.
 
 #### (c) Effect on other laws
 
@@ -20,7 +20,7 @@ Except as otherwise provided in sections 6102(d), 6102(e), 6103, and 6104 of thi
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat.717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 This chapter, referred to in subsecs. (c) and (d), was in the original "this Act", meaning Pub. L. 103–297, Aug. 16, 1994, 108 Stat. 1545, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 

@@ -32,7 +32,7 @@ Pub. L. 85–172, §1, Aug. 28, 1957, 71 Stat. 441, provided: "That this Act \[e
 
 #### Separability
 
-Pub. L. 90–492, §19, Aug. 18, 1968, 82 Stat. 808, provided that: "If any provisions of this Act or of the amendments made hereby \[see Short Title of 1968 Amendment note above\] or the application thereof to any person orcircumstances is held invalid, the validity of the remainder of the Act and the remaining amendments and of the application of such provision to other persons and circumstances shall not be affected thereby."
+Pub. L. 90–492, §19, Aug. 18, 1968, 82 Stat. 808, provided that: "If any provisions of this Act or of the amendments made hereby \[see Short Title of 1968 Amendment note above\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the remaining amendments and of the application of such provision to other persons and circumstances shall not be affected thereby."
 
 Pub. L. 85–172, §28, formerly §21, Aug. 28, 1957, 71 Stat. 449, as renumbered by Pub. L. 90–492, §17, Aug. 18, 1968, 82 Stat. 805, provided that: "If any provision of this Act \[this chapter\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby."
 

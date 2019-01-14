@@ -30,7 +30,7 @@ A violation of subsection (a) shall be considered an offense against property fo
 
 Any person who violates subsection (a) shall be subject to declaratory and injunctive remedies as set forth in section 843(f) of this title.
 
-(Pub. L. 91–513, title II, §416, as added Pub. L. 99–570, title I, §1841(a), Oct. 27, 1986, 100 Stat. 3207–52; amended Pub. L. 106–310, div. B, title XXXVI, §3613(e), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 108–21, title VI, §608(b)(1), (2), (c), Apr. 30, 2003, 117 Stat. 691.)
+(Pub. L. 91–513, title II, §416, as added Pub. L. 99–570, title I, §1841(a), Oct. 27, 1986, 100 Stat. 3207–52; amended Pub. L. 106–310, div. B, title XXXVI, §3613(e), Oct. 17, 2000, 114 Stat. 1230; Pub.L. 108–21, title VI, §608(b)(1), (2), (c), Apr. 30, 2003, 117 Stat. 691.)
 
 #### Amendments
 

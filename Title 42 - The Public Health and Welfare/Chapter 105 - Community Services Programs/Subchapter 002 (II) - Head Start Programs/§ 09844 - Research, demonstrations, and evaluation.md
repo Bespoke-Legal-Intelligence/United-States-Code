@@ -44,7 +44,7 @@ In carrying out activities under this section, the Secretary shall—
 
 &emsp;(2) whenever feasible and appropriate, obtain the views of persons participating in and served by programs and projects assisted under this subchapter with respect to activities under this section; and
 
-&emsp;(3) establish, to the extent appropriate, working relationships with the faculties of institutions of higher education, as defined in section 1001 of title 20, located in the area in which any evaluation under this section is being conducted, unless there is no such institution of higher education willing and able to participate in such evaluation.
+&emsp;(3) establish, to the extent appropriate, working relationships with the faculties of institutions of higher education, as defined insection 1001 of title 20, located in the area in which any evaluation under this section is being conducted, unless there is no such institution of higher education willing and able to participate in such evaluation.
 
 #### (d) Specific objectives
 
@@ -104,7 +104,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 #### (B) Travel expenses
 
-&emsp;&emsp;The members of the panel shall not receive compensation for the performance of services for the panel, but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employeesof agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the panel. Notwithstanding section 1342 of title 31, the Secretary may accept the voluntary and uncompensated services of members of the panel.
+&emsp;&emsp;The members of the panel shall not receive compensation for the performance of services for the panel, but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the panel. Notwithstanding section 1342 of title 31, the Secretary may accept the voluntary and uncompensated services of members of the panel.
 
 #### (2) General authority
 
@@ -242,7 +242,7 @@ For purposes of conducting the study described in subsection (h), activities des
 
 &emsp;&emsp;&emsp;(ii) validity and reliability for all purposes for which assessments under this subchapter are designed and used;
 
-&emsp;&emsp;&emsp;(iii) developmental and linguistic appropriateness of such assessments for childrenassessed, including children who are limited English proficient; and
+&emsp;&emsp;&emsp;(iii) developmental and linguistic appropriateness of such assessments for children assessed, including children who are limited English proficient; and
 
 &emsp;&emsp;&emsp;(iv) that the results can be used to improve the quality of, accountability of, and training and technical assistance in, Head Start programs.
 
@@ -306,7 +306,7 @@ The Secretary shall—
 
 #### (2) Publication of plan
 
-&emsp;Not later than 1 year after December 12, 2007, the Secretary shall publish in the Federal Register a notice about how the Secretary plans to implement the activities identified in paragraph (1) and shall provide a period for public comment. To the extent practicable, the Secretary shall consider comments received before implementing any of the activities identified in paragraph (1).
+&emsp;Not later than 1 year after December 12, 2007, the Secretary shall publish in the Federal Register a notice about how the Secretaryplans to implement the activities identified in paragraph (1) and shall provide a period for public comment. To the extent practicable, the Secretary shall consider comments received before implementing any of the activities identified in paragraph (1).
 
 #### (3) Report
 

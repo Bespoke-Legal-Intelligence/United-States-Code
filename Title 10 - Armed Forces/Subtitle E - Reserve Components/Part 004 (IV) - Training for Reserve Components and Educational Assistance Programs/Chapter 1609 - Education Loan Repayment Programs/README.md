@@ -10,7 +10,7 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–181, div. A, title VI, §672(c)(2), Jan. 28, 2008, 122 Stat. 185, substituted "Education loan repayment program: members of Selected Reserve" for "Education loan repayment program: enlisted membersof Selected Reserve with critical specialties" in item 16301.
+<b>2008</b>—Pub. L. 110–181, div. A, title VI, §672(c)(2), Jan. 28, 2008, 122 Stat. 185, substituted "Education loan repayment program: members of Selected Reserve" for "Education loan repayment program: enlisted members of Selected Reserve with critical specialties" in item 16301.
 
 <b>2006</b>—Pub. L. 109–163, div. A, title VI, §684(b), Jan. 6, 2006, 119 Stat. 3325, added item 16303.
 

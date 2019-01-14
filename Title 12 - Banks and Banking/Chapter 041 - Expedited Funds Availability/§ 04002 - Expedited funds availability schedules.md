@@ -80,7 +80,7 @@
 
 #### (4) Applicability
 
-&emsp;This subsection shall apply with respect to funds deposited by check in an account at a depository institution on or after September 1, 1990, except that the Board may, by regulation, make this subsection or any part of this subsection applicable earlier than September 1, 1990.
+&emsp;This subsection shall apply with respect to funds deposited by check in an account at a depository institution on or after September 1, 1990, except that the Board may, by regulation, make this subsection or any part of thissubsection applicable earlier than September 1, 1990.
 
 #### (c) Temporary schedule
 
@@ -88,7 +88,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) of this paragraph, subsections (a)(2), (d), and (e) of this section, and section 4003 of this title, not more than 2 business days shall intervenebetween the business day on which funds are deposited in an account at a depository institution by a check drawn on a local originating depository institution and the business day on which such funds are available for withdrawal.
+&emsp;&emsp;Subject to subparagraph (B) of this paragraph, subsections (a)(2), (d), and (e) of this section, and section 4003 of this title, not more than 2 business days shall intervene between the business day on which funds are deposited in an account at a depository institution by a check drawn on a local originating depository institution and the business day on which such funds are available for withdrawal.
 
 #### (B) Time period adjustment for cash withdrawal of certain checks
 
@@ -122,7 +122,7 @@
 
 &emsp;Notwithstanding any other provision of law, any time period established under subsection (b), (c), or (e) shall be extended by 1 business day in the case of any deposit which is both—
 
-&emsp;&emsp;(A) deposited in an account at a depository institution which is located in Alaska, Hawaii, Puerto Rico, or the Virgin Islands; and
+&emsp;&emsp;(A) deposited in an account at a depository institution which is located in Alaska, Hawaii, Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, or the Virgin Islands; and
 
 &emsp;&emsp;(B) deposited by a check drawn on an originating depository institution which is not located in the same State, commonwealth, or territory as the receiving depository institution.
 
@@ -162,9 +162,11 @@ No provision of this section shall be construed as requiring that, with respect 
 
 &emsp;(2) any notice of nonpayment of any such check be given to such depository institution within the times set forth in subsection (a), (b), (c), or (e) or in the regulations issued under any such subsection.
 
-(Pub. L. 100–86, title VI, §603, Aug. 10, 1987, 101 Stat. 637; Pub. L. 101–625, title X, §1001, Nov. 28, 1990, 104 Stat. 4424; Pub. L. 102–242, title II, §227(a), (b)(1), Dec. 19, 1991, 105 Stat. 2307; Pub. L. 111–203, title X, §1086(a), (e), July 21, 2010, 124 Stat. 2085, 2086.)
+(Pub. L. 100–86, title VI, §603, Aug. 10, 1987, 101 Stat. 637; Pub. L. 101–625, title X, §1001, Nov. 28, 1990, 104 Stat. 4424; Pub. L. 102–242, title II, §227(a), (b)(1), Dec. 19, 1991, 105 Stat. 2307; Pub. L. 111–203, title X, §1086(a), (e), July 21, 2010, 124 Stat. 2085, 2086; Pub. L. 115–174, title II, §208(a)(2), May 24, 2018, 132 Stat. 1312.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(2)(A). Pub. L. 115–174 inserted "American Samoa, the Commonwealth of the Northern Mariana Islands, Guam," after "Puerto Rico,".
 
 <b>2010</b>—Subsec. (a)(2)(D). Pub. L. 111–203, §1086(e)(1), substituted "$200" for "$100".
 
@@ -183,6 +185,10 @@ Subsec. (e)(2) to (4). Pub. L. 102–242, §227(a), (b)(1)(B), redesignated pars
 Subsec. (e)(1)(C). Pub. L. 101–625, §1001(2), substituted "prior to the expiration of the 2-year period beginning on November 28, 1990" for "before September 1, 1990".
 
 Subsec. (e)(2)(D). Pub. L. 101–625, §1001(3), substituted "the expiration of the 2-year period beginning on November 28, 1990" for "September 1, 1990".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–174 effective 30 days after May 24, 2018, see section 208(b) of Pub. L. 115–174, set out as a note under section 4001 of this title.
 
 #### Effective Date of 2010 Amendment
 

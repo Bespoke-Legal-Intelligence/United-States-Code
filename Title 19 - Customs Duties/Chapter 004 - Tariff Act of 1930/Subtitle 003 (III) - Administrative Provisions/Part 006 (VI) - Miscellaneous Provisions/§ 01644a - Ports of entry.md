@@ -12,7 +12,7 @@ The definitions in section 40102(a) of title 49 apply to this section.
 
 &emsp;(B) detail to ports of entry officers and employees of the United States Customs Service the Secretary considers necessary;
 
-&emsp;(C) give an officer or employee of the United States Government stationed at a port of entry (with the consent of the head of the department, agency, or instrumentality of the Government with jurisdiction over the officer or employee) duties and powers of officers or employees of the Customs Service;
+&emsp;(C) give an officer or employee of the United States Government stationed at a port ofentry (with the consent of the head of the department, agency, or instrumentality of the Government with jurisdiction over the officer or employee) duties and powers of officers or employees of the Customs Service;
 
 &emsp;(D) by regulation, apply to civil air navigation the laws and regulations on carrying out the customs laws, to the extent and under conditions the Secretary considers necessary; and
 

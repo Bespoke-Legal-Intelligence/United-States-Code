@@ -18,7 +18,7 @@ Section 1380f, act Feb. 16, 1938, ch. 30, title III, §380f, as added May 28, 19
 
 Section 1380g, act Feb. 16, 1938, ch. 30, title III, §380g, as added May 28, 1956, ch. 327, title V, §501(3), 70 Stat. 209, related to certificates issued to cooperators.
 
-Section 1380h, act Feb. 16, 1938, ch. 30, title III, §380h, as added May 28, 1956, ch. 327, title V, §501(3), 70 Stat. 210, related to inventory adjustment payments to persons owning rough rice located in continental United States, for purpose of facilitating transition from price support program formerly in effect.
+Section 1380h, act Feb. 16, 1938, ch. 30, title III, §380h, as added May 28, 1956, ch. 327, title V, §501(3), 70 Stat.210, related to inventory adjustment payments to persons owning rough rice located in continental United States, for purpose of facilitating transition from price support program formerly in effect.
 
 Section 1380i, act Feb. 16, 1938, ch. 30, title III, §380i, as added May 28, 1956, ch. 327, title V, §501(3), 70 Stat. 210, related to set-aside of certain rough and processed rice.
 

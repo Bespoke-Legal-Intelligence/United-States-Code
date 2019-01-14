@@ -26,7 +26,7 @@
 
 #### (b) Modification of disciplinary procedures
 
-Nothing in this chapter shall be construed to modify existing law with regard to the binding effect (1) on any member of or participant in any self-regulatory organization of any action taken by the authorities of such organization to settle disputes between its members or participants, (2) on any municipal securities dealer or municipal securities broker of any action taken pursuant to a procedure established by the Municipal Securities Rulemaking Board to settle disputesbetween municipal securities dealers and municipal securities brokers, or (3) of any action described in paragraph (1) or (2) on any person who has agreed to be bound thereby.
+Nothing in this chapter shall be construed to modify existing law with regard to the binding effect (1) on any member of or participant in any self-regulatory organization of any action taken by the authorities of such organization to settle disputes between its members or participants, (2) on any municipal securities dealer or municipal securities broker of any action taken pursuant to a procedure established by the Municipal Securities Rulemaking Board to settle disputes between municipal securities dealers and municipal securities brokers, or (3) of any action described in paragraph (1) or (2) on any person who has agreed to be bound thereby.
 
 #### (c) Continuing validity of disciplinary sanctions
 
@@ -34,7 +34,7 @@ The stay, setting aside, or modification pursuant to section 78s(e) of this titl
 
 #### (d) Physical location of facilities of registered clearing agencies or registered transfer agents not to subject changes in beneficial or record ownership of securities to State or local taxes
 
-No State or political subdivision thereof shall impose any tax on any change in beneficial or record ownership of securities effected through the facilities of a registered clearing agency or registered transfer agent or any nominee thereof or custodian therefor or upon the delivery or transfer of securities to or through or receipt from such agency or agent or any nominee thereof or custodian therefor, unless such change in beneficial or record ownership or such transfer or delivery or receipt would otherwise be taxable by such State or political subdivision if the facilities of such registered clearing agency, registered transfer agent, or any nominee thereof or custodian therefor were not physically located in the taxing State or political subdivision. No State or political subdivision thereof shall impose any tax on securities which are deposited in or retained by a registered clearing agency, registered transfer agent, or any nominee thereof or custodian therefor, unless such securities would otherwise be taxable by such State or political subdivision if the facilities of such registered clearing agency, registered transfer agent, or any nominee thereof or custodian therefor were not physically located in the taxing State or political subdivision.
+No State or political subdivision thereof shall impose any tax on any change in beneficial orrecord ownership of securities effected through the facilities of a registered clearing agency or registered transfer agent or any nominee thereof or custodian therefor or upon the delivery or transfer of securities to or through or receipt from such agency or agent or any nominee thereof or custodian therefor, unless such change in beneficial or record ownership or such transfer or delivery or receipt would otherwise be taxable by such State or political subdivision if the facilities of such registered clearing agency, registered transfer agent, or any nominee thereof or custodian therefor were not physically located in the taxing State or political subdivision. No State or political subdivision thereof shall impose any tax on securities which are deposited in or retained by a registered clearing agency, registered transfer agent, or any nominee thereof or custodian therefor, unless such securities would otherwise be taxable by such State or political subdivision if the facilities of such registered clearing agency, registered transfer agent, or any nominee thereof or custodian therefor were not physically located in the taxing State or political subdivision.
 
 #### (e) Exchange, broker, and dealer commissions; brokerage and research services
 
@@ -142,17 +142,13 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 #### (E) Covered security
 
-&emsp;&emsp;The term "covered security" means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 18(b) of the Securities Act of 1933 \[15 U.S.C. 77r(b)\], at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conductoccurred, except that such term shall not include any debt security that is exempt from registration under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] pursuant to rules issued by the Commission under section 4(2) <sup>1</sup> of that Act \[15 U.S.C. 77d(a)(2)\].
+&emsp;&emsp;The term "covered security" means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 18(b) of the Securities Act of 1933 \[15 U.S.C. 77r(b)\], at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] pursuant to rules issued by the Commission under section 4(2) <sup>1</sup> of that Act \[15 U.S.C. 77d(a)(2)\].
 
 #### (F) Rule of construction
 
 &emsp;&emsp;Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
 
 (June 6, 1934, ch. 404, title I, §28, 48 Stat. 903; Pub. L. 94–29, §21, June 4, 1975, 89 Stat. 160; Pub. L. 97–303, §4, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title III, §§327–329, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 104–290, title I, §103(b), Oct. 11, 1996, 110 Stat. 3422; Pub. L. 105–353, title I, §101(b)(1), Nov. 3, 1998, 112 Stat. 3230; Pub. L. 106–554, §1(a)(5) \[title II, §§203(a)(2), 210\], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–436; Pub. L. 111–203, title VII, §767, July 21, 2010, 124 Stat. 1799.)
-
-#### Amendment of Section
-
-<i>Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 

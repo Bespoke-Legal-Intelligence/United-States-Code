@@ -14,7 +14,7 @@ Subject to the limitations contained in subsection (b), the corporation shall gu
 
 (2) For purposes of this subsection, the time a successor plan (within the meaning of section 1321(a) of this title) has been in effect includes the time a previously established plan (within the meaning of section 1321(a) of this title) was in effect. For purposes of determining what benefits are guaranteed under this section in the case of a plan to which section 1321 of this title does not apply on September 3, 1974, the 60-month period referred to in paragraph (1) shall be computed beginning on the first date on which such section does apply to the plan.
 
-(3) The amount of monthly benefits described in subsection (a) provided by a plan, which areguaranteed under this section with respect to a participant, shall not have an actuarial value which exceeds the actuarial value of a monthly benefit in the form of a life annuity commencing at age 65 equal to the lesser of—
+(3) The amount of monthly benefits described in subsection (a) provided by a plan, which are guaranteed under this section with respect to a participant, shall not have an actuarial value which exceeds the actuarial value of a monthly benefit in the form of a life annuity commencing at age 65 equal to the lesser of—
 
 &emsp;(A) his average monthly gross income from his employer during the 5 consecutive calendar year period (or, if less, during the number of calendar years in such period in which he actively participates in the plan) during which his gross income from that employer was greater than during any other such period with that employer determined by dividing 1/12 of the sum of all such gross income by the number of such calendar years in which he had such gross income, or
 
@@ -126,7 +126,7 @@ If any plan makes an election under section 402(a)(1) of the Pension Protection 
 
 &emsp;&emsp;(B) the amount determined under paragraph (1).
 
-(Pub. L. 93–406, title IV, §4022, Sept. 2, 1974, 88 Stat. 1016; Pub. L. 96–364, title IV, §403(c), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI,§11016(c)(8), (9), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9312(b)(3)(A), Dec. 22, 1987, 101 Stat. 1330–362; Pub. L. 101–239, title VII, §§7881(f)(4), (5), (11), 7891(a)(1), 7894(g)(1), (3)(B), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451; Pub. L. 103–465, title VII, §§766(c), 777(a), Dec. 8, 1994, 108 Stat. 5037, 5049; Pub. L. 109–280, title IV, §§402(g)(2)(A), 403(a), 404(a), 407(a), 408(a), (b)(1), Aug. 17, 2006, 120 Stat. 926, 928, 929, 931.)
+(Pub. L. 93–406, title IV, §4022, Sept. 2, 1974, 88 Stat. 1016; Pub. L. 96–364, title IV, §403(c), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(c)(8), (9), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9312(b)(3)(A), Dec. 22, 1987, 101 Stat. 1330–362; Pub. L. 101–239, title VII, §§7881(f)(4), (5), (11), 7891(a)(1), 7894(g)(1), (3)(B), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451; Pub. L. 103–465, title VII, §§766(c), 777(a), Dec. 8, 1994, 108 Stat. 5037, 5049; Pub. L. 109–280, title IV, §§402(g)(2)(A), 403(a), 404(a), 407(a), 408(a), (b)(1), Aug. 17, 2006, 120 Stat. 926, 928, 929, 931.)
 
 #### References in Text
 
@@ -148,7 +148,7 @@ Subsec. (c)(3)(A). Pub. L. 109–280, §408(b)(1), amended subpar. (A) generally
 
 Subsec. (c)(3)(B)(ii). Pub. L. 109–280, §408(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "notices of intent to terminate were provided after December 17, 1987, and during the 5-Federal fiscal year period ending with the fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate with respect to the plan termination for which the recovery ratio is being determined."
 
-Subsec. (g). Pub. L. 109–280, §404(a), which directed amendment of this section, as amended by Pub. L. 109–280, by adding subsec. (g) at the end, was executed by adding subsec. (g) after subsec. (f) and before subsec. (h) to reflect the probable intent of Congress.
+Subsec. (g). Pub. L. 109–280, §404(a), which directed amendment of this section, as amended by Pub. L.109–280, by adding subsec. (g) at the end, was executed by adding subsec. (g) after subsec. (f) and before subsec. (h) to reflect the probable intent of Congress.
 
 Subsec. (h). Pub. L. 109–280, §402(g)(2)(A), added subsec. (h).
 
@@ -192,7 +192,7 @@ Pub. L. 109–280, title IV, §408(c), Aug. 17, 2006, 120 Stat. 932, provided th
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 766(c) of Pub. L. 103–465 applicable to plan amendments adopted on or after Dec. 8,1994, see section 766(d) of Pub. L. 103–465, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 766(c) of Pub. L. 103–465 applicable to plan amendments adopted on or after Dec. 8, 1994, see section 766(d) of Pub. L. 103–465, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Pub. L. 103–465, title VII, §777(b), Dec. 8, 1994, 108 Stat. 5049, provided that: "The amendment made by this section \[amending this section\] shall be effective for plan terminations under section 4041(c) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1341(c)\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of such Act \[29 U.S.C. 1342\], or under section 4042 of such Act with respect to which proceedings are instituted by the corporation, on or after the date of enactment of this Act \[Dec. 8, 1994\]."
 

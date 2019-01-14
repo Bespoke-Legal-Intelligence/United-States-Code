@@ -88,7 +88,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "qualifying proposal" means a proposal that contains sufficient information to enable the Department of Defense to conduct a meaningful audit of the information contained in the proposal.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §908(d)(1)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–140, and Pub. L. 99–591, §101(c) \[title X, §908(d)(1)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–140; Pub. L. 99–661, div. A, title IX, formerly title IV, §908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3920, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(6), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 102–25, title VII, §701(d)(5), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §1505, Oct. 13, 1994, 108 Stat. 3298; Pub. L. 105–85, div. A, title VIII, §803(a), Nov. 18, 1997, 111 Stat. 1831; Pub. L. 114–328, div. A, title VIII, §811, Dec. 23, 2016, 130 Stat. 2268; Pub. L. 115–91, div. A, title VIII, §815(a), (b), Dec. 12, 2017, 131 Stat. 1462.)
+(Added Pub. L. 99–500, §101(c) \[title X, §908(d)(1)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–140, and Pub. L. 99–591, §101(c) \[title X, §908(d)(1)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–140; Pub. L. 99–661, div. A, title IX, formerly title IV, §908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3920, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(6), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 102–25, title VII, §701(d)(5), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §1505, Oct. 13, 1994, 108 Stat. 3298; Pub. L. 105–85, div. A, title VIII, §803(a), Nov. 18, 1997, 111 Stat. 1831; Pub. L. 114–328, div. A, titleVIII, §811, Dec. 23, 2016, 130 Stat. 2268; Pub. L. 115–91, div. A, title VIII, §815(a), (b), Dec. 12, 2017, 131 Stat. 1462.)
 
 #### Codification
 
@@ -114,7 +114,7 @@ Subsec. (i)(1). Pub. L. 114–328, §811(4)(A), redesignated subpars. (B) to (D)
 
 Subsec. (i)(2). Pub. L. 114–328, §811(4)(B), substituted "a meaningful audit of the information contained in the proposal." for "complete and meaningful audits of the information contained in the proposal and of any other information that the Department is entitled to review in connection with the contract, as determined by the contracting officer."
 
-<b>1997</b>—Subsec. (b)(4). Pub. L. 105–85 amended par. (4) generally. Prior to amendment, par. (4) read as follows:"The head of an agency may waive the provisions of this subsection with respect to a contract of that agency if such head of an agency determines that the waiver is necessary in order to support a contingency operation."
+<b>1997</b>—Subsec. (b)(4). Pub. L. 105–85 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The head of an agency may waive the provisions of this subsection with respect to a contract of that agency if such head of an agency determines that the waiver is necessary in order to support a contingency operation."
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–355, §1505(a)(1), struck out "and expenditure" after "obligation" in heading.
 
@@ -210,59 +210,5 @@ report.—Not later than two years after the date of the enactment of this Act, 
 
 #### Limitation on Use of Funds for Undefinitized Contractual Actions; Oversight by Inspector General; Waiver Authority
 
-Pub. L. 99–500, §101(c) \[title X, §908(a)–(c), (e)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–139, 1783–140, 1783–142, Pub. L. 99–591, §101(c) \[title X, §908(a)–(c), (e)\], Oct. 18, 1986, 100 Stat. 3341–82, 3341–139, 3341–140, 3341–142, and Pub. L. 99–661, div. A, title IX, formerly title IV, §908(a)–(c), (e), Nov. 14, 1986, 100 Stat. 3918, 3919, 3921, renumbered titleIX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21, 1987, 101 Stat. 273, 274; Pub. L. 104–106, div. D, title XLIII, §4322(b)(2), Feb. 10, 1996, 110 Stat. 677, provided that:
-
-"(a)
-
-Limitation on Use of Funds for Undefinitized Contractual Actions.—(1) On the last day of each six-month period described in paragraph (4), the Secretary of Defense (with respect to the Defense Logistics Agency) and the Secretary of each military department shall determine—
-
-&emsp;"(A) the total amount of funds obligated for contractual actions during the six-month period;
-
-&emsp;"(B) the total amount of funds obligated during the six-month period for undefinitized contractual actions; and
-
-&emsp;"(C) the total amount of funds obligated during the six-month period for undefinitized contractual actions that are not definitized on or before the last day of such period.
-
-"(2) On the last day of each six-month period described in paragraph (4), the amount of funds obligated for undefinitized contractual actions entered into by the Secretary of Defense (with respect to the Defense Logistics Agency) or the Secretary of a military department during the six-month period that are not definitized on or before such day may not exceed 10 percent of the amount of funds obligated for all contractual actions entered into by the Secretary during the six-month period.
-
-"(3) If on the last day of a six-month period described in paragraph (4) the total amount of funds obligated for undefinitized contractual actions under the jurisdiction of a Secretary that were entered into during the six-month period exceeds the limit established in paragraph (2), the Secretary—
-
-&emsp;"(A) shall, not later than the end of the 45-day period beginning on the first day following the six-month period, submit to the defense committees an unclassified report concerning—
-
-&emsp;&emsp;"(i) the amount of funds obligated for contractual actions under the jurisdiction of the Secretary that were entered into during the six-month period with respect to which the report is submitted; and
-
-&emsp;&emsp;"(ii) the amount of such funds obligated for undefinitized contractual actions; and
-
-&emsp;"(B) except with respect to the six-month period described in paragraph (4)(A), may not enter into any additional undefinitized contractual actions until the date on which the Secretary certifies to Congress that such limit is not exceeded by the cumulative amount of funds obligated for undefinitized contractual actions under the jurisdiction of the Secretary that are not definitized on or before such date and were entered into—
-
-&emsp;&emsp;"(i) during the six-month period for which such limit was exceeded; or
-
-&emsp;&emsp;"(ii) after the end of such six-month period.
-
-"(4) This subsection applies to the following six-month periods:
-
-&emsp;"(A) The period beginning on October 1, 1986, and ending on March 31, 1987.
-
-&emsp;"(B) The period beginning on April 1, 1987, and ending on September 30, 1987.
-
-&emsp;"(C) The period beginning on October 1, 1987, and ending on March 31, 1988.
-
-&emsp;"(D) The period beginning on April 1, 1988, and ending on September 30, 1988.
-
-&emsp;"(E) The period beginning on October 1, 1988, and ending on March 31, 1989.
-
-"(b)
-
-Oversight by Inspector General.—The Inspector General of the Department of Defense shall—
-
-&emsp;"(1) periodically conduct an audit of contractual actions under the jurisdiction of the Secretary of Defense (with respect to the Defense Logistics Agency) and the Secretaries of the military departments; and
-
-&emsp;"(2) after each audit, submit to Congress a report on the management of undefinitized contractual actions by each Secretary, including the amount of contractual actions under the jurisdiction of each Secretary that is represented by undefinitized contractual actions.
-
-"(c)
-
-Waiver Authority.—The Secretary of Defense may waive the application of subsections (a) and (b) for urgent and compelling considerations relating to national security or public safety if the Secretary notifies the Committees on Armed Services of the Senate and House of Representatives of such waiver before the end of the 30-day period beginning on the date that the waiver is made.
-
-"(e)
-
-Definition.—For purposes of this section, the term 'undefinitized contractual action' has the meaning given such term in section 2326(g) \[now 2326(j)\] of title 10, United States Code (as added by subsection (d)(1))."
+Pub. L. 99–500, §101(c) \[title X, §908(a)–(c), (e)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–139, 1783–140, 1783–142, Pub. L. 99–591, §101(c) \[title X, §908(a)–(c), (e)\], Oct. 18, 1986, 100 Stat. 3341–82, 3341–139, 3341–140, 3341–142, and Pub. L. 99–661, div. A, title IX, formerly title IV, §908(a)–(c), (e), Nov. 14, 1986, 100 Stat. 3918, 3919, 3921, renumbered title IX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21, 1987, 101 Stat. 273, 274; Pub. L. 104–106, div. D, title XLIII, §4322(b)(2), Feb. 10, 1996, 110 Stat. 677, which related to limitations on funding for undefinitized contractual actions, Inspector General audits and oversight, and waiver authority, were repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(21), Aug. 13, 2018, 132 Stat. 1848.
 

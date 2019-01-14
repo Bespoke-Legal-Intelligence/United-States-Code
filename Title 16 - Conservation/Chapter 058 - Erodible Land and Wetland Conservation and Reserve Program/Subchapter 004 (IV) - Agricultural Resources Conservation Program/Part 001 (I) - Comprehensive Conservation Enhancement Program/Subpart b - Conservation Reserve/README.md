@@ -10,8 +10,9 @@ Subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 03831 - Conservation reserve](%C2%A7%2003831%20-%20Conservation%20reserve.md)
-- [&sect; 03831a - Repealed. Pub. L. 113&#8211;79, title II, &sect;2702(a), Feb. 7, 2014, 128 Stat. 766](%C2%A7%2003831a%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20II%2C%20%C2%A72702%28a%29%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20766.md)
+- [&sect; 03831a - Conservation reserve enhancement program](%C2%A7%2003831a%20-%20Conservation%20reserve%20enhancement%20program.md)
 - [&sect; 03831b - Farmable wetland program](%C2%A7%2003831b%20-%20Farmable%20wetland%20program.md)
+- [&sect; 03831c - Pilot programs](%C2%A7%2003831c%20-%20Pilot%20programs.md)
 - [&sect; 03832 - Duties of owners and operators](%C2%A7%2003832%20-%20Duties%20of%20owners%20and%20operators.md)
 - [&sect; 03833 - Duties of the Secretary](%C2%A7%2003833%20-%20Duties%20of%20the%20Secretary.md)
 - [&sect; 03834 - Payments](%C2%A7%2003834%20-%20Payments.md)

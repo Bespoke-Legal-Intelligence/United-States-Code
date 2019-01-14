@@ -38,7 +38,7 @@ Development and implementation of program.—Not later than 60 days after the da
 
 (d)
 
-Appeals.—(1) An individual whose application for the issuance or renewal of an airman certificate has been denied may appeal the denial to the National Transportation Safety Board, except if the individual holds a certificate that—
+Appeals.—(1) An individual whose application for the issuance or renewal of an airman certificate has been denied may appeal the denial to the National Transportation SafetyBoard, except if the individual holds a certificate that—
 
 &emsp;(A) is suspended at the time of denial; or
 
@@ -190,7 +190,7 @@ Privacy protections.—An air carrier that receives the records of an individual
 
 &emsp;(12)
 
-Periodic review.—Not later than 18 months after the date of the enactment of the Pilot Records Improvement Act of 1996, and at least once every 3 years thereafter, the Administrator shall transmit to Congress a statement that contains, taking into account recent developments in the aviation industry—
+Periodic review.—Not later than 18 months after the date of the enactment of thePilot Records Improvement Act of 1996, and at least once every 3 years thereafter, the Administrator shall transmit to Congress a statement that contains, taking into account recent developments in the aviation industry—
 
 &emsp;&emsp;(A) recommendations by the Administrator concerning proposed changes to Federal Aviation Administration records, air carrier records, and other records required to be furnished under subparagraphs (A) and (B) of paragraph (1); or
 
@@ -356,7 +356,7 @@ Privacy protections.—
 
 &emsp;&emsp;(A)
 
-Use of records.—An air carrier that accesses records pertaining to an individual under paragraph (1) may use the recordsonly to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
+Use of records.—An air carrier that accesses records pertaining to an individual under paragraph (1) may use the records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
 
 &emsp;&emsp;(B)
 
@@ -474,7 +474,7 @@ Limitation on liability.—No action or proceeding may be brought by or on behal
 
 &emsp;(2)
 
-Preemption.—No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) that prohibits, penalizes, or imposes liability for furnishing or using records in accordance with subsection (h) or (i).
+Preemption.—No State or political subdivision thereof may enact, prescribe, issue, continue in effect, or enforce any law (including any regulation, standard, or other provision having the force and effect of law) thatprohibits, penalizes, or imposes liability for furnishing or using records in accordance with subsection (h) or (i).
 
 &emsp;(3)
 
@@ -586,7 +586,7 @@ In subsection (b)(1)(E), the word "designate" is substituted for "be entitled wi
 
 In subsection (c)(1), before clause (A), the words "may appeal . . . to" are substituted for "may file with . . . a petition for review of the Secretary of Transportation's action" for consistency with section 1109 of the revised title. The words "the individual holds a certificate that" are substituted for "persons whose certificates" for clarity.
 
-In subsection (c)(2), the words "conduct a hearing on the appeal" are substituted for "thereupon assign such petition for hearing" for consistency. The words "In the conduct of such hearing and in determining whether the airman meets the pertinent rules, regulations, orstandards" are omitted as surplus. The word "Administrator" is substituted for "Federal Aviation Administration" because of 49:106(b) and (g). The words "meets the applicable regulations" are substituted for "meets the pertinent rules, regulations" because "rules" and "regulations" are synonymous and for consistency in the revised title.
+In subsection (c)(2), the words "conduct a hearing on the appeal" are substituted for "thereupon assign such petition for hearing" for consistency. The words "In the conduct of such hearing and in determining whether the airman meets the pertinent rules, regulations, or standards" are omitted as surplus. The word "Administrator" is substituted for "Federal Aviation Administration" because of 49:106(b) and (g). The words "meets the applicable regulations" are substituted for "meets the pertinent rules, regulations" because "rules" and "regulations" are synonymous and for consistency in the revised title.
 
 In subsection (d), before clause (1), the words "in his discretion" are omitted as surplus. In clause (2), the words "the terms of" and "entered into" are omitted as surplus. The words "government of a foreign country" are substituted for "foreign governments" for consistency in the revised title and with other titles of the United States Code.
 
@@ -665,6 +665,50 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 #### Deemed References to Chapters 509 and 511 of Title 51
 
 General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+
+#### Applicability of Medical Certification Standards to Operators of Air Balloons
+
+Pub. L. 115–254, div. B, title III, §318, Oct. 5, 2018, 132 Stat. 3269, provided that:
+
+"(a)
+
+Short Title.—This section may be cited as the 'Commercial Balloon Pilot Safety Act of 2018'.
+
+"(b)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall revise section 61.3(c) of title 14, Code of Federal Regulations (relating to second-class medical certificates), to apply to an operator of an air balloon to the same extent such regulations apply to a pilot flight crewmember of other aircraft.
+
+"(c)
+
+Air Balloon Defined.—In this section, the term 'air balloon' has the meaning given the term 'balloon' in section 1.1 of title 14, Code of Federal Regulations (or any corresponding similar regulation or ruling)."
+
+#### Designated Pilot Examiner Reforms
+
+Pub. L. 115–254, div. B, title III, §319, Oct. 5, 2018, 132 Stat. 3269, provided that:
+
+"(a)
+
+In General.—The Administrator \[of the Federal Aviation Administration\] shall assign to the Aviation Rulemaking Advisory Committee (in this section referred to as the 'Committee') the task of reviewing all regulations and policies related to designated pilot examiners appointed under section 183.23 of title 14, Code of Federal Regulations. The Committee shall focus on the processes and requirements by which the FAA \[Federal Aviation Administration\] selects, trains, and deploys individuals as designated pilot examiners, and provide recommendations with respect to the regulatory and policy changes necessary to ensure an adequate number of designated pilot examiners are deployed and available to perform their duties. The Committee also shall make recommendations with respect to the regulatory and policy changes if necessary to allow a designated pilot examiner perform a daily limit of 3 new check rides with no limit for partial check rides and to serve as a designed pilot examiner without regard to any individual managing office.
+
+"(b)
+
+Action Based on Recommendations.—Not later than 1 year after receiving recommendations under subsection (a), the Administrator shall take such action as the Administrator considers appropriate with respect to those recommendations."
+
+#### Public Aircraft Eligible for Logging Flight Times
+
+Pub. L. 115–254, div. B, title V, §517, Oct. 5, 2018, 132 Stat. 3359, provided that: "The Administrator \[of the Federal Aviation Administration\] shall issue regulations modifying section 61.51(j)(4) of title 14, Code of Federal Regulations, so as to include aircraft under the direct operational control of forestry and fire protection agencies as public aircraft eligible for logging flight times."
+
+#### Portability of Repairman Certificates
+
+Pub. L. 115–254, div. B, title V, §582, Oct. 5, 2018, 132 Stat. 3399, provided that:
+
+"(a)
+
+In General.—The Administrator \[of the Federal Aviation Administration\] shall assign to the Aviation Rulemaking Advisory Committee the task of making recommendations with respect to the regulatory and policy changes, as appropriate, to allow a repairman certificate issued under section 65.101 of title 14, Code of Federal Regulations, to be portable from one employing certificate holder to another.
+
+"(b)
+
+Action Based on Recommendations.—Not later than 1 year after receiving recommendations under subsection (a), the Administrator may take such action as the Administrator considers appropriate with respect to those recommendations."
 
 #### Medical Certification of Certain Small Aircraft Pilots
 
@@ -746,7 +790,7 @@ Requirements.—The checklist shall contain—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the individual is aware of the regulations pertaining to the prohibition on operations during medical deficiency and has no medically disqualifying conditions in accordance with applicable law;
 
-&emsp;&emsp;"(B) a section with instructions for the individual to provide the completed checklist to the physician performing the comprehensive medical examination required in subsection (a)(7); and
+&emsp;&emsp;"(B) a section with instructions for the individual to provide the completed checklist to the physicianperforming the comprehensive medical examination required in subsection (a)(7); and
 
 &emsp;&emsp;"(C) a section, for the physician to complete, that instructs the physician—
 
@@ -796,7 +840,7 @@ Requirements.—The checklist shall contain—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(XXII) anything else the physician, in his or her medical judgment, considers necessary;
 
-&emsp;&emsp;&emsp;"(ii) to exercise medical discretion to address, as medically appropriate, any medical conditionsidentified, and to exercise medical discretion in determining whether any medical tests are warranted as part of the comprehensive medical examination;
+&emsp;&emsp;&emsp;"(ii) to exercise medical discretion to address, as medically appropriate, any medical conditions identified, and to exercise medical discretion in determining whether any medical tests are warranted as part of the comprehensive medical examination;
 
 &emsp;&emsp;&emsp;"(iii) to discuss all drugs the individual reports taking (prescription and nonprescription) and their potential to interfere with the safe operation of an aircraft or motor vehicle;
 
@@ -868,7 +912,7 @@ In general.—An individual who has qualified for the third-class medical certif
 
 &emsp;&emsp;&emsp;"(ii) psychosis, defined as a case in which an individual—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) has manifested delusions, hallucinations, grossly bizarre or disorganized behavior, or other commonly accepted symptoms of psychosis; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) has manifested delusions, hallucinations, grossly bizarre or disorganized behavior, orother commonly accepted symptoms of psychosis; or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) may reasonably be expected to manifest delusions, hallucinations, grossly bizarre or disorganized behavior, or other commonly accepted symptoms of psychosis;
 
@@ -996,7 +1040,7 @@ Authority To Require Additional Information.—
 
 &emsp;"(1)
 
-In general.—If the Administrator receives credible or urgent information, including from the National Driver Register or the Administrator's Safety Hotline, that reflects on an individual's ability to safely operate a covered aircraft under the third-class medical certificate exemption in subsection (a), the Administrator may require the individual to provide additional information or history so that the Administrator may determine whether the individual is safe to continue operating a covered aircraft.
+In general.—If the Administrator receives credible or urgent information, including from the National Driver Register or the Administrator's Safety Hotline, that reflects on an individual's ability to safely operate a covered aircraft under the third-class medical certificate exemption in subsection (a), the Administrator may require the individual to provideadditional information or history so that the Administrator may determine whether the individual is safe to continue operating a covered aircraft.
 
 &emsp;"(2)
 
@@ -1004,7 +1048,7 @@ Use of information.—The Administrator may use credible or urgent information r
 
 #### Federal Aviation Administration Enforcement Proceedings and Elimination of Deference
 
-Pub. L. 112–153, §2, Aug. 3, 2012, 126 Stat. 1159, provided that:
+Pub. L. 112–153, §2, Aug. 3, 2012, 126 Stat. 1159, as amended by Pub. L. 115–254, div. B, title III, §392, Oct. 5, 2018, 132 Stat. 3323, provided that:
 
 "(a)
 
@@ -1022,7 +1066,7 @@ In general.—Except as provided under paragraph (3), the Administrator of the F
 
 Information required.—The notification required under paragraph (1) shall inform the individual—
 
-&emsp;&emsp;"(A) of the nature of the investigation;
+&emsp;&emsp;"(A) of the nature of the investigation and the specific activity on which the investigation is based;
 
 &emsp;&emsp;"(B) that an oral or written response to a Letter of Investigation from the Administrator is not required;
 
@@ -1036,7 +1080,7 @@ Information required.—The notification required under paragraph (1) shall info
 
 &emsp;"(3)
 
-Exception.—The Administrator may delay timely notification under paragraph (1) if the Administrator determines that such notification may threaten the integrity of the investigation.
+Exception.—The Administrator may delay notification under paragraph (1) if the Administrator determines that such notification may threaten the integrity of the investigation.
 
 &emsp;"(4)
 
@@ -1088,7 +1132,7 @@ Provision of information to individual.—If the Administrator receives a reques
 
 &emsp;"(5)
 
-Timing.—Except when the Administrator determines that an emergency exists under section 44709(c)(2) \[probably should be 44709(e)(2)\] or 46105(c) \[of title 49, United States Code\], the Administrator may not proceed against an individual that is the subject of an investigation described in paragraph (1) during the 30-day period beginning on the date on which the air traffic data required under paragraph (4) is made available to the individual.
+Timing.—Except when the Administrator determines that an emergency exists under section 44709(e)(2) or 46105(c) \[of title 49, United States Code\], the Administrator may not proceed against an individual that is the subject of an investigation described in paragraph (1) during the 30-day period beginning on the date on which the air traffic data required under paragraph (4) is made available to the individual.
 
 "(c)
 
@@ -1128,7 +1172,53 @@ In general.—In an appeal filed under subsection (d) in a United States distric
 
 &emsp;"(2)
 
-Evidence.—A United States district court's review under paragraph (1) shall include in evidence any record of the proceeding before the Administrator and any record of the proceeding before the National Transportation Safety Board, including hearing testimony, transcripts, exhibits, decisions, and briefs submitted by the parties."
+Evidence.—A United States district court's review under paragraph (1) shall include in evidence any record of the proceeding before the Administrator and any record of the proceeding before the National Transportation Safety Board, including hearing testimony, transcripts, exhibits, decisions, and briefs submitted by the parties.
+
+"(f)
+
+Release of Investigative Reports.—
+
+&emsp;"(1)
+
+In general.—
+
+&emsp;&emsp;"(A)
+
+Emergency orders.—In any proceeding conducted under part 821 of title 49, Code of Federal Regulations, relating to the amendment, modification, suspension, or revocation of an airman certificate, in which the Administrator issues an emergency order under subsections (d) and (e) of section 44709, section 44710, or section 46105(c) of title 49, United States Code, or another order that takes effect immediately, the Administrator shall provide, upon request, to the individual holding the airman certificate the releasable portion of the investigative report at the time the Administrator issues the order. If the complete Report of Investigation is not available at the time of the request, the Administrator shall issue all portions of the report that are available at the time and shall provide the full report not later than 5 days after its completion.
+
+&emsp;&emsp;"(B)
+
+Other orders.—In any nonemergency proceeding conducted under part 821 of title 49, Code of Federal Regulations, relating to the amendment, modification, suspension, or revocation of an airman certificate, in which the Administrator notifies the certificate holder of a proposed certificate action under subsections (b) and (c) of section 44709 or section 44710 of title 49, United States Code, the Administrator shall, upon the written request of the covered certificate holder and at any time after that notification, provide to the covered certificate holder the releasable portion of the investigative report.
+
+&emsp;"(2)
+
+Motion for dismissal.—If the Administrator does not provide the releasable portions of the investigative report to the individual holding the airman certificate subject to the proceeding referred to in paragraph (1) by the time required by that paragraph, the individual may move to dismiss the complaint of the Administrator or for other relief and, unless the Administrator establishes good cause for the failure to provide the investigative report or for a lack of timeliness, the administrative law judge shall order such relief as the judge considers appropriate.
+
+&emsp;"(3)
+
+Releasable portion of investigative report.—For purposes of paragraph (1), the releasable portion of an investigative report is all information in the report, except for the following:
+
+&emsp;&emsp;"(A) Information that is privileged.
+
+&emsp;&emsp;"(B) Information that constitutes work product or reflects internal deliberative process.
+
+&emsp;&emsp;"(C) Information that would disclose the identity of a confidential source.
+
+&emsp;&emsp;"(D) Information the disclosure of which is prohibited by any other provision of law.
+
+&emsp;&emsp;"(E) Information that is not relevant to the subject matter of the proceeding.
+
+&emsp;&emsp;"(F) Information the Administrator can demonstrate is withheld for good cause.
+
+&emsp;&emsp;"(G) Sensitive security information, as defined in section 15.5 of title 49, Code of Federal Regulations (or any corresponding similar ruling or regulation).
+
+&emsp;"(4)
+
+Rule of construction.—Nothing in this subsection shall be construed to prevent the Administrator from releasing to an individual subject to an investigation described in subsection (b)(1)—
+
+&emsp;&emsp;"(A) information in addition to the information included in the releasable portion of the investigative report; or
+
+&emsp;&emsp;"(B) a copy of the investigative report before the Administrator issues a complaint."
 
 #### Medical Certification
 

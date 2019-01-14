@@ -228,7 +228,7 @@ Pub. L. 108–429, title II, §2004(i)(3), Dec. 3, 2004, 118 Stat. 2595, provide
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 130 of Pub. L. 103–465, set out as an Effective Date note under section 3531 of this title.
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as an Effective Date note under section 3531 of this title.
 
 #### Effective Date of 1979 Amendment
 

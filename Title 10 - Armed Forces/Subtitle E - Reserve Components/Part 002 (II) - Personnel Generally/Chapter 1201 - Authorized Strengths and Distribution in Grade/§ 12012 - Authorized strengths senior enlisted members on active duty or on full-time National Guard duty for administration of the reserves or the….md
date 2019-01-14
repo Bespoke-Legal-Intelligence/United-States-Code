@@ -60,7 +60,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 1,300 | 60 | 13&nbsp;&nbsp; |
 | 1,400 | 65 | 14&nbsp;&nbsp; |
 | 1,500 | 70 | 15&nbsp;&nbsp; |
-| 1,600 | 75 | 16   |
+| 1,600 | 75 | 16&nbsp;&nbsp; |
 | 1,700 | 80 | 17&nbsp;&nbsp; |
 | 1,800 | 85 | 18&nbsp;&nbsp; |
 | 1,900 | 89 | 19&nbsp;&nbsp; |
@@ -90,22 +90,22 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 10,000 | 800 | 400&nbsp;&nbsp; |
 | &nbsp; |  |  |
 | Air National Guard: |  |  |
-| 5,000 | 1,020 | 405&nbsp;&nbsp; |
-| 6,000 | 1,070 | 435&nbsp;&nbsp; |
-| 7,000 | 1,120 | 465&nbsp;&nbsp; |
-| 8,000 | 1,170 | 490&nbsp;&nbsp; |
-| 9,000 | 1,220 | 510&nbsp;&nbsp; |
-| 10,000 | 1,270 | 530&nbsp;&nbsp; |
-| 11,000 | 1,320 | 550&nbsp;&nbsp; |
-| 12,000 | 1,370 | 570&nbsp;&nbsp; |
-| 13,000 | 1,420 | 589&nbsp;&nbsp; |
-| 14,000 | 1,470 | 608&nbsp;&nbsp; |
-| 15,000 | 1,520 | 626&nbsp;&nbsp; |
-| 16,000 | 1,570 | 644&nbsp;&nbsp; |
-| 17,000 | 1,620 | 661&nbsp;&nbsp; |
-| 18,000 | 1,670 | 678&nbsp;&nbsp; |
-| 19,000 | 1,720 | 695&nbsp;&nbsp; |
-| 20,000 | 1,770 | 712\. |
+| 10,000 | 1,350 | 550&nbsp;&nbsp; |
+| 12,000 | 1,466 | 594&nbsp;&nbsp; |
+| 14,000 | 1,582 | 636&nbsp;&nbsp; |
+| 16,000 | 1,698 | 676&nbsp;&nbsp; |
+| 18,000 | 1,814 | 714&nbsp;&nbsp; |
+| 20,000 | 1,930 | 752&nbsp;&nbsp; |
+| 22,000 | 2,046 | 790&nbsp;&nbsp; |
+| 24,000 | 2,162 | 828&nbsp;&nbsp; |
+| 26,000 | 2,278 | 866&nbsp;&nbsp; |
+| 28,000 | 2,394 | 904&nbsp;&nbsp; |
+| 30,000 | 2,510 | 942&nbsp;&nbsp; |
+| 32,000 | 2,626 | 980&nbsp;&nbsp; |
+| 34,000 | 2,742 | 1,018&nbsp;&nbsp; |
+| 36,000 | 2,858 | 1,056&nbsp;&nbsp; |
+| 38,000 | 2,974 | 1,094&nbsp;&nbsp; |
+| 40,000 | 3,090 | 1,132  . |
 
 (b)
 
@@ -113,7 +113,7 @@ Determinations by Interpolation.—If the total number of members of a reserve c
 
 (c)
 
-Reallocations to Lower Grade.—Whenever the number of members serving in pay grade E–9 for duty described in subsection (a) is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for pay grade E–8.
+Reallocations to Lower Grade.—Whenever the number of members serving in paygrade E–9 for duty described in subsection (a) is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for pay grade E–8.
 
 (d)
 
@@ -125,13 +125,15 @@ Secretarial Waiver.—(1) Upon determining that it is in the national interest t
 
 Full-Time Reserve Component Duty Defined.—In this section, the term "full-time reserve component duty" has the meaning given the term in section 12011(e) of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2987; amended Pub. L. 104–106, div. A, title IV, §414(b), title XV, §1501(b)(10), Feb. 10, 1996, 110 Stat. 288, 496; Pub. L. 105–261, div. A, title IV, §414(b), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(b), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(b), 421(c), 424(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(b), Dec. 28, 2001, 115 Stat. 1073; Pub. L. 108–375, div. A, title X, §1084(d)(34), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–163, div. A, title V, §515(b)(1)(II), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–417, \[div. A\], title V, §512(c), Oct. 14, 2008, 122 Stat. 4440.)
+(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2987; amended Pub. L. 104–106, div. A, title IV, §414(b), title XV, §1501(b)(10), Feb. 10, 1996, 110 Stat. 288, 496; Pub. L. 105–261, div. A, title IV, §414(b), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(b), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(b), 421(c), 424(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(b), Dec. 28, 2001, 115 Stat. 1073; Pub. L. 108–375, div. A, title X, §1084(d)(34), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–163, div. A, title V, §515(b)(1)(II), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–417, \[div. A\], title V, §512(c), Oct. 14, 2008, 122 Stat. 4440; Pub. L. 115–232, div. A, title V, §515(b), Aug. 13, 2018, 132 Stat. 1753.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 517(b), (c) of this title, prior to amendment by Pub. L. 103–337, §1662(a)(4).
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–232 inserted section of table relating to the Air National Guard and struck out corresponding former section.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–417 inserted section of table relating to the Army National Guard and struck out corresponding former section.
 
@@ -143,7 +145,7 @@ Provisions similar to those in this section were contained in section 517(b), (c
 
 Subsec. (b). Pub. L. 107–107 inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: "Whenever the number of members serving in pay grade E–9 for duty described in subsection (a) is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8."
 
-Subsec. (c). Pub. L. 107–107 inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: "Whenever under section 527of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section."
+Subsec. (c). Pub. L. 107–107 inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: "Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section."
 
 Subsec. (d). Pub. L. 107–107 inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: "Upon increasing under subsection (c)(2) of section 115 of this title the end strength that is authorized under subsection (a)(1)(B) of that section for a fiscal year for active-duty personnel and full-time National Guard duty personnel of an armed force who are to be paid from funds appropriated for reserve personnel, the Secretary of Defense may increase for that fiscal year the limitation that is set forth in subsection (a) of this section for the number of enlisted members of that armed force serving in any grade if the Secretary determines that such action is in the national interest. The percent of the increase may not exceed the percent by which the Secretary increases that end strength."
 

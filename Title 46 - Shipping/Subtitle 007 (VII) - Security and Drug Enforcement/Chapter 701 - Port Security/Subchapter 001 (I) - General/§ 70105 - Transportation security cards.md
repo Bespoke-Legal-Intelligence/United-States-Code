@@ -58,7 +58,7 @@ Permanent disqualifying criminal offenses.—Except as provided under paragraph 
 
 &emsp;&emsp;&emsp;(iii) Treason or conspiracy to commit treason.
 
-&emsp;&emsp;&emsp;(iv) A Federal crime of terrorism (as defined in section 2332b(g) of title 18), a crime under a comparable State law, or conspiracy to commit such crime.
+&emsp;&emsp;&emsp;(iv) A Federal crime of terrorism (as defined in section 2332b(g) of title 18), acrime under a comparable State law, or conspiracy to commit such crime.
 
 &emsp;&emsp;&emsp;(v) A crime involving a transportation security incident.
 
@@ -144,7 +144,7 @@ Other potential disqualifications.—Except as provided under subparagraphs (A) 
 
 Modification of listed offenses.—The Secretary may, by rulemaking, add to or modify the list of disqualifying crimes described in paragraph (1)(B).
 
-&emsp;(2) The Secretary shall prescribe regulations that establish a waiver process for issuing a transportation security card to an individual found to be otherwise ineligible for such a card under subparagraph (A), (B), or (D) of paragraph (1). In deciding to issue a card to such an individual, the Secretary shall—
+&emsp;(2) The Secretary shall prescribe regulations that establish a waiver process for issuing atransportation security card to an individual found to be otherwise ineligible for such a card under subparagraph (A), (B), or (D) of paragraph (1). In deciding to issue a card to such an individual, the Secretary shall—
 
 &emsp;&emsp;(A) give consideration to the circumstances of any disqualifying act or offense, restitution made by the individual, Federal and State mitigation remedies, and other factors from which it may be concluded that the individual does not pose a terrorism risk warranting denial of the card; and
 
@@ -220,7 +220,7 @@ Definition.—In this section, the term "alien" has the meaning given the term i
 
 (g)
 
-Applications for Merchant Mariners' Documents.—The Assistant Secretary of Homeland Security for the Transportation Security Administration and the Commandant of the Coast Guard shall concurrently process an application from an individual for merchant mariner's documents under chapter 73 of title 46, United States Code, and an application from that individual for a transportation security card under this section.
+Applications for Merchant Mariners' Documents.—The Assistant Secretary of Homeland Security for the Transportation SecurityAdministration and the Commandant of the Coast Guard shall concurrently process an application from an individual for merchant mariner's documents under chapter 73 of title 46, United States Code, and an application from that individual for a transportation security card under this section.
 
 (h)
 
@@ -382,7 +382,7 @@ Subsecs. (g) to (m). Pub. L. 109–347, §104(a), added subsecs. (g) to (m).
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–328, div. C, title XXXV, §3509(c), Dec. 23, 2016, 130 Stat. 2781, provided that: "Section 70105(j)(2) of title 46, United States Code, as amended by this section, shall apply to applications for transportation security cards submitted after the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 23, 2016\]."
+Pub. L. 114–328, div. C, title XXXV, §3509(c), Dec. 23, 2016, 130 Stat. 2781, provided that: "Section 70105(j)(2) oftitle 46, United States Code, as amended by this section, shall apply to applications for transportation security cards submitted after the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 23, 2016\]."
 
 #### Effective Date of 2010 Amendment
 
@@ -478,7 +478,7 @@ Contents.—The assessment commissioned under paragraph (1) shall—
 
 &emsp;&emsp;&emsp;"(ii) evaluating the potential for a non-biometric credential alternative;
 
-&emsp;&emsp;&emsp;"(iii) identifying the technology, business process, and operational impacts of the use of thetransportation security card and transportation security card readers in the maritime and port environments;
+&emsp;&emsp;&emsp;"(iii) identifying the technology, business process, and operational impacts of the use of the transportation security card and transportation security card readers in the maritime and port environments;
 
 &emsp;&emsp;&emsp;"(iv) assessing the costs and benefits of the Program, as implemented; and
 
@@ -494,7 +494,7 @@ Submission to congress.—Not later than 60 days after the date that the assessm
 
 "(c)
 
-Corrective Action Plan; Program Reforms.—If the assessment commissioned under subsection (b) identifies a deficiency in the effectiveness of the Program, the Secretary of Homeland Security, not later than 60 days after the date on which the assessment is completed, shall submit a corrective action plan to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives that—
+Corrective Action Plan; Program Reforms.—If the assessment commissioned under subsection (b)identifies a deficiency in the effectiveness of the Program, the Secretary of Homeland Security, not later than 60 days after the date on which the assessment is completed, shall submit a corrective action plan to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives that—
 
 &emsp;"(1) responds to findings of the assessment;
 

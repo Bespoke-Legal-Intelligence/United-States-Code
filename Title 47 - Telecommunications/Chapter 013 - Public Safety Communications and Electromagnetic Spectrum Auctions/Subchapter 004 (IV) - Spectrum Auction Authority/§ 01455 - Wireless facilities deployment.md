@@ -20,57 +20,91 @@
 
 &emsp;Nothing in paragraph (1) shall be construed to relieve the Commission from the requirements of the National Historic Preservation Act <sup>1</sup> or the National Environmental Policy Act of 1969.
 
-#### (b) Federal easements and rights-of-way
+#### (b) Federal easements, rights-of-way, and leases
 
 #### (1) Grant
 
-&emsp;If an executive agency, a State, a political subdivision or agency of a State, or a person, firm, or organization applies for the grant of an easement or right-of-way to, in, over, or on a building or other property owned by the Federal Government for the right to install, construct, and maintain wireless service antenna structures and equipment and backhaul transmission equipment, the executive agency having control of the building or other property may grant to the applicant, on behalf of the Federal Government, an easement or right-of-way to perform such installation, construction, and maintenance.
+&emsp;If an executive agency, a State, a political subdivision or agency of a State, or a person, firm, or organization applies for the grant of an easement, right-of-way, or lease to, in, over, or on a building or other property owned by the Federal Government for the right to install, construct, modify, or maintain a communications facility installation, the executive agency having control of the building or other property may grant to the applicant, on behalf of the Federal Government, subject to paragraph (3), an easement, right-of-way, or lease to perform such installation, construction, modification, or maintenance.
 
 #### (2) Application
 
-&emsp;The Administrator of General Services shall develop a common form for applications for easements and rights-of-way under paragraph (1) for all executive agencies that shall be used by applicants with respect to the buildings or other property of each such agency.
+#### (A) In general
 
-#### (3) Fee
+&emsp;&emsp;The Administrator of General Services shall develop a common form for applications for easements, rights-of-way, and leases under paragraph (1) for all executive agencies that, except as provided in subparagraph (B), shall be used by all executive agencies and applicants with respect to the buildings or other property of each such agency.
+
+#### (B) Exception
+
+&emsp;&emsp;The requirement under subparagraph (A) for an executive agency to use the common form developed by the Administrator of General Services shall not apply to an executive agency if the head of an executive agency notifies the Administrator that the executive agency uses a substantially similar application.
+
+#### (3) Timely consideration of applications
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law, the Administrator of General Services shall establish a fee for the grant of an easement or right-of-way pursuant to paragraph (1) that is based on direct cost recovery.
+&emsp;&emsp;Not later than 270 days after the date on which an executive agency receives a duly filed application for an easement, right-of-way, or lease under this subsection, the executive agency shall—
 
-#### (B) Exceptions
+&emsp;&emsp;&emsp;(i) grant or deny, on behalf of the Federal Government, the application; and
 
-&emsp;&emsp;The Administrator of General Services may establish exceptions to the fee amount required under subparagraph (A)—
+&emsp;&emsp;&emsp;(ii) notify the applicant of the grant or denial.
 
-&emsp;&emsp;&emsp;(i) in consideration of the public benefit provided by a grant of an easement or right-of-way; and
+#### (B) Explanation of denial
 
-&emsp;&emsp;&emsp;(ii) in the interest of expanding wireless and broadband coverage.
+&emsp;&emsp;If an executive agency denies an application under subparagraph (A), the executive agency shall notify the applicant in writing, including a clear statement of the reasons for the denial.
 
-#### (4) Use of fees collected
+#### (C) Applicability of environmental laws
 
-&emsp;Any fee amounts collected by an executive agency pursuant to paragraph (3) may be made available, as provided in appropriations Acts, to such agency to cover the costs of granting the easement or right-of-way.
+&emsp;&emsp;Nothing in this paragraph shall be construed to relieve an executive agency of the requirements of division A of subtitle III of title 54 or the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
-#### (c) Master contracts for wireless facility sitings
+#### (D) Point of contact
+
+&emsp;&emsp;Upon receiving an application under subparagraph (A), an executive agency shall designate one or more appropriate individuals within the executive agency to act as a point of contact with the applicant.
+
+#### (c) Master contracts for communications facility installation sitings
 
 #### (1) In general
 
-&emsp;Notwithstanding section 704 of the Telecommunications Act of 1996 or any other provision of law, and not later than 60 days after February 22, 2012, the Administrator of General Services shall—
+&emsp;Notwithstanding section 704 of the Telecommunications Act of 1996 (Public Law104–104; 110 Stat. 151) or any other provision of law, the Administrator of General Services shall—
 
-&emsp;&emsp;(A) develop 1 or more master contracts that shall govern the placement of wireless service antenna structures on buildings and other property owned by the Federal Government; and
+&emsp;&emsp;(A) develop one or more master contracts that shall govern the placement of communications facility installations on buildings and other property owned by the Federal Government; and
 
-&emsp;&emsp;(B) in developing the master contract or contracts, standardize the treatment of the placement of wireless service antenna structures on building rooftops or facades, the placement of wireless service antenna equipment on rooftops or inside buildings, the technology used in connection with wireless service antenna structures or equipment placed on Federal buildings and other property, and any other key issues the Administrator of General Services considers appropriate.
+&emsp;&emsp;(B) in developing the master contract or contracts, standardize the treatment of the placement of communications facility installations on building rooftops or facades, the placement of communications facility installations on rooftops or inside buildings, the technology used in connection with communications facility installations placed on Federal buildings and other property, and any other key issues the Administrator of General Services considers appropriate.
 
 #### (2) Applicability
 
-&emsp;The master contract or contracts developed by the Administrator of General Services under paragraph (1) shall apply to all publicly accessible buildings and other property owned by the Federal Government, unless the Administrator of General Services decides that issues with respect to the siting of a wireless service antenna structure on a specific building or other property warrant nonstandard treatment of such building or other property.
+&emsp;The master contract or contracts developed by the Administrator of General Services under paragraph (1) shall apply to all publicly accessible buildings and other property owned by the Federal Government, unless the Administrator of General Services decides that issues with respect to the siting of a communications facility installation on a specific building or other property warrant nonstandard treatment of such building or other property.
 
 #### (3) Application
 
-&emsp;The Administrator of General Services shall develop a common form or set of forms for wireless service antenna structure siting applications under this subsection for all executive agencies that shall be used by applicants with respect to the buildings and other property of each such agency.
+#### (A) In general
 
-#### (d) Executive agency defined
+&emsp;&emsp;The Administrator of General Services shall develop a common form or set of forms for communications facility installation siting applications that, except as provided in subparagraph (B), shall be used by all executive agencies and applicants with respect to the buildings and other property of each such agency.
 
-In this section, the term "executive agency" has the meaning given such term in section 102 of title 40.
+#### (B) Exception
 
-(Pub. L. 112–96, title VI, §6409, Feb. 22, 2012, 126 Stat. 232.)
+&emsp;&emsp;The requirement under subparagraph (A) for an executive agency to use the common form or set of forms developed by the Administrator of General Services shall not apply to an executive agency if the head of the executive agency notifies the Administrator that the executive agency uses a substantially similar application.
+
+#### (d) Definitions
+
+In this section:
+
+#### (1) Communications facility installation
+
+&emsp;The term "communications facility installation" includes—
+
+&emsp;&emsp;(A) any infrastructure, including any transmitting device, tower, or support structure, and any equipment, switches, wiring, cabling, power sources, shelters, or cabinets, associated with the licensed or permitted unlicensed wireless or wireline transmission of writings, signs, signals, data, images, pictures, and sounds of all kinds; and
+
+&emsp;&emsp;(B) any antenna or apparatus that—
+
+&emsp;&emsp;&emsp;(i) is designed for the purpose of emitting radio frequency;
+
+&emsp;&emsp;&emsp;(ii) is designed to be operated, or is operating, from a fixed location pursuant to authorization by the Federal Communications Commission or is using duly authorized devices that do not require individual licenses; and
+
+&emsp;&emsp;&emsp;(iii) is added to a tower, building, or other structure.
+
+#### (2) Executive agency
+
+&emsp;The term "executive agency" has the meaning given such term in section 102 of title 40.
+
+(Pub. L. 112–96, title VI, §6409, Feb. 22, 2012, 126 Stat. 232; Pub. L. 115–141, div. P, title VI, §606(a), Mar. 23, 2018, 132 Stat. 1101.)
 
 #### References in Text
 
@@ -78,7 +112,25 @@ Section 704 of the Telecommunications Act of 1996, referred to in subsecs. (a)(1
 
 The National Historic Preservation Act, referred to in subsec. (a)(3), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. The Act, except for section 1, was repealed and restated in division A (§300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of Title 16, see Disposition Table preceding section 100101 of Title 54.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(3) and (b)(3)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+#### Amendments
+
+<b>2018</b>—Subsecs. (b) to (d). Pub. L. 115–141 added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which related to Federal easements and rights-of-way, master contracts for wireless facility sitings, and definition of executive agency, respectively.
+
+#### Savings Provisions
+
+Pub. L. 115–141, div. P, title VI, §606(b), Mar. 23, 2018, 132 Stat. 1103, provided that: "An application for an easement, right-of-way, or lease that was made or granted under section 6409 of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1455) before the date of enactment of this Act \[Mar. 23, 2018\] shall continue, subject to that section as in effect on the day before such date of enactment."
+
+Pub. L. 115–141, div. P, title VI, §606(d), Mar. 23, 2018, 132 Stat. 1104, provided that:
+
+"(1)
+
+Real property authorities.—Nothing in this section \[amending this section and enacting provisions set out as a note under this section\], or the amendments made by this section, shall be construed as providing any executive agency with any new leasing or other real property authorities not existing prior to the date of enactment of this Act \[Mar. 23, 2018\].
+
+"(2)
+
+Effect on other laws.—Nothing in this section, or the amendments made by this section, and no actions taken pursuant to this section, or the amendments made by this section, shall impact a decision or determination by any executive agency to sell, dispose of, declare excess or surplus, lease, reuse, or redevelop any Federal real property pursuant to title 40, United States Code, the Federal Assets Sale and Transfer Act of 2016 (Public Law 114–287) \[40 U.S.C. 1303 note\], or anyother law governing real property activities of the Federal Government. No agreement entered into pursuant to this section, or the amendments made by this section, may obligate the Federal Government to hold, control, or otherwise retain or use real property that may otherwise be deemed as excess, surplus, or that could be otherwise sold, leased, or redeveloped."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

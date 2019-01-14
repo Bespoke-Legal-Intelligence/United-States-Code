@@ -36,7 +36,7 @@ Purpose.—This New York Bight and Harbor effort will address the engineering, e
 
 "(d)
 
-Coordination With EPA; Reports.—The Secretary shall coordinate fully with the Administrator of the Environmental Protection Agency in carrying out the study described in the section and shall report any findings and recommendations to Congress. The Secretary and the Administrator shall also consider the views of other appropriate Federal, State, and local agencies, academic institutions, and members of the public who are concerned about water and sediment quality in the New York Bight and Harbor region.
+Coordination With EPA; Reports.—The Secretary shall coordinate fully with the Administrator of the Environmental Protection Agency in carrying outthe study described in the section and shall report any findings and recommendations to Congress. The Secretary and the Administrator shall also consider the views of other appropriate Federal, State, and local agencies, academic institutions, and members of the public who are concerned about water and sediment quality in the New York Bight and Harbor region.
 
 "(e)
 
@@ -58,5 +58,5 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[Oc
 
 Funding.—There is authorized to be appropriated $3,000,000 for fiscal years beginning after September 30, 1992. Such sums shall remain available until expended."
 
-Pub. L. 100–220, title II, subtitle C, Dec. 29, 1987, 101 Stat. 1467, as amended by Pub. L. 100–688, title I, §1003(b), (c), Nov. 18, 1988, 102 Stat. 4150, directed Administrator of the Environmental Protection Agency, within 3 years after Dec. 29, 1987, in consultation with Administrator of the National Oceanic and Atmospheric Administration and other Federal, State, andinterstate agencies, to prepare and submit to Congress a New York Bight Restoration Plan and a detailed schedule and two preliminary reports at specified times, and further directed Administrator to conduct a study of problems associated with plastic debris in the New York Bight and report to Congress within 6 months after Dec. 29, 1987.
+Pub. L. 100–220, title II, subtitle C, Dec. 29, 1987, 101 Stat. 1467, as amended by Pub. L. 100–688, title I, §1003(b), (c), Nov. 18, 1988, 102 Stat. 4150, directed Administrator of the Environmental Protection Agency, within 3 years after Dec. 29, 1987, in consultation with Administrator of the National Oceanic and Atmospheric Administration and other Federal, State, and interstate agencies, to prepare and submit to Congress a New York Bight Restoration Plan and a detailed schedule and two preliminary reports at specified times, and further directed Administrator to conduct a study of problems associated with plastic debris in the New York Bight and report to Congress within 6 months after Dec. 29, 1987.
 

@@ -8,7 +8,7 @@ The Secretary shall establish a project to be known as the "Next Generation Nucl
 
 The Project shall consist of the research, development, design, construction, and operation of a prototype plant, including a nuclear reactor that—
 
-&emsp;(1) is based on research and development activities supported by the Generation IV Nuclear Energy Systems Initiative under section 16272(d) <sup>1</sup> of this title; and
+&emsp;(1) is based on research and development activities supported by the Generation IV Nuclear Energy Systems Initiative under section 16272(c) of this title; and
 
 &emsp;(2) shall be used—
 
@@ -18,11 +18,9 @@ The Project shall consist of the research, development, design, construction, an
 
 &emsp;&emsp;(C) both to generate electricity and to produce hydrogen.
 
-(Pub. L. 109–58, title VI, §641, Aug. 8, 2005, 119 Stat. 794.)
+(Pub. L. 109–58, title VI, §641, Aug. 8, 2005, 119 Stat. 794; Pub. L. 115–248, §2(b)(2), Sept. 28, 2018, 132 Stat. 3155.)
 
-#### References in Text
+#### Amendments
 
-Section 16272(d) of this title, referred to in subsec. (b)(1), was in the original a reference to section 942(d)of Pub. L. 109–58, which is classified to section 16251(d) of this title but was translated as meaning section 952(d) of Pub. L. 109–58 to reflect the probable intent of Congress, because section 952(d) relates to Generation IV Nuclear Energy Systems Initiative and section 942(d) relates to limitations on production incentives for cellulosic biofuels.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<b>2018</b>—Pub. L. 115–248 substituted "section 16272(c)" for "section 16272(d)", which had been an editorial translation of a reference in original text to section 942(d) of Pub. L. 109–58.
 

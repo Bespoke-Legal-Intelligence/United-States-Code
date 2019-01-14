@@ -8,7 +8,7 @@ The Administrator should ensure that NASA maintains a strong aeronautics researc
 
 #### (2) Environmental sustainability
 
-&emsp;The Directorate shall consider and pursue concepts to reduce noise, emissions, and fuelconsumption while maintaining high safety standards and shall pursue research related to alternative fuels.
+&emsp;The Directorate shall consider and pursue concepts to reduce noise, emissions, and fuel consumption while maintaining high safety standards and shall pursue research related to alternative fuels.
 
 #### (3) Aviation safety
 

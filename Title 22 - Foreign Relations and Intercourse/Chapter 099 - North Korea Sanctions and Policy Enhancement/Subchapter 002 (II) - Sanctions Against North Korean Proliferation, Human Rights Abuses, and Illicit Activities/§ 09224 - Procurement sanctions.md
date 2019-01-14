@@ -12,7 +12,7 @@ Except as provided in this section, the head of an executive agency may not proc
 
 #### (2) Applicability
 
-&emsp;The revision required under paragraph (1) shall apply with respect to contracts for whichsolicitations are issued on or after the date that is 90 days after February 18, 2016.
+&emsp;The revision required under paragraph (1) shall apply with respect to contracts for which solicitations are issued on or after the date that is 90 days after February 18, 2016.
 
 #### (c) Remedies
 

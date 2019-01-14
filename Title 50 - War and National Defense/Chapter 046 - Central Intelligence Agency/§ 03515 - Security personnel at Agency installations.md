@@ -24,7 +24,7 @@ The Director is authorized to establish penalties for violations of the rules or
 
 #### (c) Identification
 
-Agency personnel designated by the Director under subsection (a) of this section shall be clearly identifiable as United States Government security personnel while engaged in the performance of the functions to which subsection (a) of this section refers.
+Agency personnel designated by the Director under subsection (a) of this section shall be clearly identifiable as United States Government security personnel while engaged in theperformance of the functions to which subsection (a) of this section refers.
 
 #### (d) Protection of certain CIA personnel from tort liability
 
@@ -46,7 +46,7 @@ Agency personnel designated by the Director under subsection (a) of this section
 
 Section was formerly classified to section 403o of this title prior to editorial reclassification and renumbering as this section.
 
-Pub. L. 98–473, title I, §140 and Pub. L. 98–618, title IV, §401, added substantially identical sections 15 to actJune 20, 1949, ch. 227. This section is based on the section 15 of act June 20, 1949, ch. 227, as added by Pub. L. 98–618.
+Pub. L. 98–473, title I, §140 and Pub. L. 98–618, title IV, §401, added substantially identical sections 15 to act June 20, 1949, ch. 227. This section is based on the section 15 of act June 20, 1949, ch. 227, as added by Pub. L. 98–618.
 
 #### Amendments
 

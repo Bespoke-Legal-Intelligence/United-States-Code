@@ -26,5 +26,5 @@ In performing its duties under subsection (a), the Interagency Committee shall c
 
 #### Prior Provisions
 
-A prior section 402 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 2694, related to duties of the National Women's Business Council, prior to the general amendment of title IV of Pub. L. 100–533 by Pub. L. 103–403. See section 7106 of this title.
+A prior section 402 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 2694, related to duties of the NationalWomen's Business Council, prior to the general amendment of title IV of Pub. L. 100–533 by Pub. L. 103–403. See section 7106 of this title.
 

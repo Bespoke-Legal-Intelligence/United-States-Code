@@ -20,7 +20,7 @@
 
 (d) The fees provided for in this section are for the purpose of reimbursing the United States Government for the costs of creating, publishing or distributing nautical products of the National Oceanic and Atmospheric Administration. The collection of fees authorized by this section shall not alter or expand any duty or liability of the United States under existing law for the performance of functions for which fees are collected, nor shall the collection of fees constitute an express or implied undertaking by the United States to perform any activity in a certain manner.
 
-(e) For purposes of this section, the term "nautical products" includes all nautical charts, tide and tidal current tables, tidal current charts, coast pilots, water level products, and associated data bases which are created or published by the National Oceanic and Atmospheric Administration.
+(e) For purposes of this section, the term "nautical products" includes all nautical charts, tide and tidal current tables, tidal current charts, coast pilots, water level products, andassociated data bases which are created or published by the National Oceanic and Atmospheric Administration.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1266; Pub. L. 99–272, title VI, §6011(a), Apr. 7, 1986, 100 Stat. 121; Pub. L. 105–362, title II, §201(a), Nov. 10, 1998, 112 Stat. 3282; Pub. L. 106–181, title VI, §606(a)–(c), Apr. 5, 2000, 114 Stat. 154.)
 

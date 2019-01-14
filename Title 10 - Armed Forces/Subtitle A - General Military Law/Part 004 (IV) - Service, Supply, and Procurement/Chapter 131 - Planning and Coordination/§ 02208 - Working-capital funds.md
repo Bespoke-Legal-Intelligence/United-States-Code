@@ -1,6 +1,6 @@
 ### §2208. Working-capital funds
 
-(a) To control and account more effectively for the cost of programs and work performed in the Department of Defense, the Secretary of Defensemay require the establishment of working-capital funds in the Department of Defense to—
+(a) To control and account more effectively for the cost of programs and work performed in the Department of Defense, the Secretary of Defense may require the establishment of working-capital funds in the Department of Defense to—
 
 &emsp;(1) finance inventories of such supplies as he may designate; and
 
@@ -18,7 +18,13 @@
 
 (d) The Secretary of Defense may provide capital for working-capital funds by capitalizing inventories. In addition, such amounts may be appropriated for the purpose of providing capital for working-capital funds as have been specifically authorized by law.
 
-(e) Subject to the authority and direction of the Secretary of Defense, the Secretary of each military department shall allocate responsibility for its functions, powers, and duties to accomplish the most economical and efficient organization and operation of the activities, and the most economical and efficient use of the inventories, for which working-capital funds are authorized by this section.
+(e) Subject to the authority and direction of the Secretary of Defense, the Secretary of each military department shall allocate responsibility for its functions, powers, and duties to accomplish the most economical and efficient organization and operation of the activities, and the most economical and efficient use of the inventories, for which working-capital funds are authorized by this section. The accomplishment of the most economical and efficient organization and operation of working capital fund activities for the purposes of this subsection shall include actions toward the following:
+
+&emsp;(1) Undertaking efforts to optimize the rate structure for all requisitioning entities.
+
+&emsp;(2) Encouraging a working capital fund activity to perform reimbursable work for other entities to sustain the efficient use of the workforce.
+
+&emsp;(3) Determining the appropriate leadership level for approving work from outside entities to maximize efficiency.
 
 (f) The requisitioning agency may not incur a cost for supplies drawn from inventories, or services or work performed by industrial-type or commercial-type activities for which working-capital funds may be established under this section, that is more than the amount of appropriations or other funds available for those purposes.
 
@@ -26,7 +32,7 @@
 
 (h) The Secretary of Defense shall prescribe regulations governing the operation of activities and use of inventories authorized by this section. The regulations may, if the needs of the Department of Defense require it and it is otherwise authorized by law, authorize supplies to be sold to, or services to be rendered or work performed for, persons outside the Department of Defense. However, supplies available in inventories financed by working capital funds established under this section may be sold to contractors for use in performing contracts with the Department of Defense. Working-capital funds shall be reimbursed for supplies so sold, services so rendered, or work so performed by charges to applicable appropriations or payments received in cash.
 
-(i) For provisions relating to sales outside the Department of Defense of manufactured articles and services by a working-capital funded Army industrial facility (including a Department of the Army arsenal) that manufactures large caliber cannons, gun mounts, recoil mechanisms, ammunition, munitions, or components thereof, see section 4543 of this title.
+(i) For provisions relating to sales outside the Department of Defense of manufactured articles and services by a working-capital funded Army industrial facility (including a Department of the Army arsenal) that manufactures large caliber cannons, gun mounts, recoil mechanisms, ammunition, munitions, or components thereof, see section 7543 of this title.
 
 (j)(1) The Secretary of a military department may authorize a working capital funded industrial facility of that department to manufacture or remanufacture articles and sell these articles, as well as manufacturing, remanufacturing, and engineering services provided by such facilities, to persons outside the Department of Defense if—
 
@@ -124,7 +130,7 @@ Annual Reports and Budget.—The Secretary of Defense, with respect to each work
 
 Notification of Transfers.—(1) Notwithstanding any authority provided in this section to transfer funds, the transfer of funds from a working-capital fund, including a transfer to another working-capital fund, shall not be made under such authority unless the Secretary of Defense submits, in advance, a notification of the proposed transfer to the congressional defense committees in accordance with customary procedures.
 
-(2) The amount of a transfer covered by a notification under paragraph (1) that is made in a fiscal year does not count toward any limitation on the total amount of transfers that may bemade for that fiscal year under authority provided to the Secretary of Defense in a law authorizing appropriations for a fiscal year for military activities of the Department of Defense or a law making appropriations for the Department of Defense.
+(2) The amount of a transfer covered by a notification under paragraph (1) that is made in a fiscal year does not count toward any limitation on the total amount of transfers that may be made for that fiscal year under authority provided to the Secretary of Defense in a law authorizing appropriations for a fiscal year for military activities of the Department of Defense or a law making appropriations for the Department of Defense.
 
 (s)
 
@@ -150,7 +156,17 @@ Market Fluctuation Account.—(1) From amounts available for Working Capital Fun
 
 (2) A budget request for the anticipated costs of fuel may not take into account the availability of funds reserved under paragraph (1).
 
-(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§331(a)(1), 332, title X, §1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §341(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64; Pub. L. 108–375, div. A, title X, §1009, Oct. 28, 2004, 118 Stat. 2037; Pub. L. 111–383, div. A, title XIV, §1403, Jan. 7, 2011, 124 Stat. 4410; Pub. L. 112–81, div. B, title XXVIII, §2802(c)(1), Dec. 31, 2011, 125 Stat. 1684; Pub. L. 114–92, div. A, title XIV, §§1421, 1422, Nov. 25, 2015, 129 Stat. 1083, 1084; Pub. L. 115–91, div. A, title II, §212, Dec. 12, 2017, 131 Stat. 1324.)
+(u)
+
+Use for Unspecified Minor Military Construction Projects to Revitalize and Recapitalize Defense Industrial Base Facilities.—(1) The Secretary of a military department may use a working capital fund of the department under this section to carry out an unspecified minor military construction project under section 2805 for the revitalization and recapitalization of a defense industrial base facility owned by the United States and under the jurisdiction of the Secretary.
+
+(2) Section 2805 shall apply with respect to a project carried out with a working capital fund under the authority of this subsection in the same manner as such section applies to any unspecified minor military construction project under section 2805.
+
+(3) In this subsection, the term "defense industrial base facility" means any Department of Defense depot, arsenal, shipyard, or plant located within the United States.
+
+(4) The authority to use a working capital fund to carry out a project under the authority of this subsection expires on September 30, 2023.
+
+(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§331(a)(1), 332, title X, §1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §341(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64; Pub. L. 108–375, div. A, title X, §1009, Oct. 28, 2004, 118 Stat. 2037; Pub. L. 111–383, div. A, title XIV, §1403, Jan. 7, 2011, 124 Stat. 4410; Pub. L. 112–81, div. B, title XXVIII, §2802(c)(1), Dec. 31, 2011, 125 Stat. 1684; Pub. L. 114–92, div. A, title XIV, §§1421, 1422, Nov. 25, 2015, 129 Stat. 1083, 1084; Pub. L. 115–91, div. A, title II, §212, Dec. 12, 2017, 131 Stat. 1324; Pub. L. 115–232, div. A, title III, §321, title VIII, §809(a), title XIV, §1422, Aug. 13, 2018, 132 Stat. 1718, 1840, 2093.)
 
 Historical and Revision Notes<br>1956
 
@@ -234,6 +250,18 @@ Provisions similar to those in subsecs. (m) to (q) of this section were containe
 
 #### Amendments
 
+<b>2018</b>—Subsec. (e). Pub. L. 115–232, §1422, inserted at end "The accomplishment of the most economical and efficient organization and operation of working capital fund activities for the purposes of this subsection shall include actions toward the following:
+
+&emsp;"(1) Undertaking efforts to optimize the rate structure for all requisitioning entities.
+
+&emsp;"(2) Encouraging a working capital fund activity to perform reimbursable work for other entities to sustain the efficient use of the workforce.
+
+&emsp;"(3) Determining the appropriate leadership level for approving work from outside entities to maximize efficiency."
+
+Subsec. (i). Pub. L. 115–232, §809(a), substituted "section 7543" for "section 4543".
+
+Subsec. (u). Pub. L. 115–232, §321, added subsec. (u).
+
 <b>2017</b>—Subsec. (k)(2). Pub. L. 115–91 substituted "$500,000 for procurements by a major range and test facility installation or a science and technology reinvention laboratory and not less than $250,000 for procurements at all other facilities" for "$250,000" in introductory provisions.
 
 <b>2015</b>—Subsec. (s). Pub. L. 114–92, §1421, added subsec. (s).
@@ -293,6 +321,10 @@ Subsec. (k). Pub. L. 101–510, §1301(6), struck out subsec. (k) which read as 
 <b>1983</b>—Subsec. (d). Pub. L. 98–94 substituted "In addition, such amounts may be appropriated for the purpose of providing capital for working-capital funds as have been specifically authorized by law" for "If this method does not, in the determination of the Secretary of Defense, provide adequate amounts of working capital, such amounts as may be necessary may be appropriated for that purpose".
 
 <b>1982</b>—Subsec. (h). Pub. L. 97–295 inserted provision that supplies available in inventories financed by working capital funds established under this section may be sold to contractors for use in performing contracts with the Department of Defense.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by section 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1998 Amendment
 

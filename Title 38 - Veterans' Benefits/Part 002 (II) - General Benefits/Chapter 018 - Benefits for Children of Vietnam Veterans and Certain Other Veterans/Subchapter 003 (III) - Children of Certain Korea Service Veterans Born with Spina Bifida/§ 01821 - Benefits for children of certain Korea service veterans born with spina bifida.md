@@ -2,7 +2,7 @@
 
 (a)
 
-Benefits Authorized.—The Secretary may provide to any child of a veteran of covered service in Korea who is suffering from spina bifida the health care, vocational training and rehabilitation, and monetary allowance required to be paid to a child of a Vietnam veteran who is suffering from spina bifida under subchapter I of this chapter as if such child of a veteran of covered service in Korea were a child of a Vietnam veteran who is suffering from spina bifida under such subchapter.
+Benefits Authorized.—The Secretary may provide to any child of a veteran of covered service in Korea who is suffering from spina bifidathe health care, vocational training and rehabilitation, and monetary allowance required to be paid to a child of a Vietnam veteran who is suffering from spina bifida under subchapter I of this chapter as if such child of a veteran of covered service in Korea were a child of a Vietnam veteran who is suffering from spina bifida under such subchapter.
 
 (b)
 

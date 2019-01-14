@@ -88,7 +88,7 @@ In this section:
 
 &emsp;The term "covered procurement" means the following:
 
-&emsp;&emsp;(A) A source selection for a covered system or a covered item of supply involving either a performance specification, as described in subsection (a)(3)(B) of section 3306 of title 41, or an evaluation factor, as described in subsection (b)(1) of such section, relating to supply chain risk.
+&emsp;&emsp;(A) A source selection for a covered system or a covered item of supply involving eithera performance specification, as described in subsection (a)(3)(B) of section 3306 of title 41, or an evaluation factor, as described in subsection (b)(1) of such section, relating to supply chain risk.
 
 &emsp;&emsp;(B) The consideration of proposals for and issuance of a task or delivery order for a covered system or a covered item of supply, as provided in section 4106(d)(3) of title 41, where the task or delivery order contract concerned includes a contract clause establishing a requirement relating to supply chain risk.
 
@@ -108,7 +108,7 @@ In this section:
 
 &emsp;The term "covered system" means the following:
 
-&emsp;&emsp;(A) National security systems (as defined in section 3542(b) <sup>1</sup> of title 44) and components of such systems.
+&emsp;&emsp;(A) National security systems (as defined in section 3552(b) of title 44) and components of such systems.
 
 &emsp;&emsp;(B) Nuclear weapons and components of nuclear weapons.
 
@@ -122,33 +122,17 @@ In this section:
 
 &emsp;The term "supply chain risk" means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system or covered item of supply so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of the system or item of supply.
 
-#### (g) Effective date
+#### (g) Termination
 
-#### (1) In general
+The authority under this section shall terminate on June 30, 2023.
 
-&emsp;This section shall take effect on June 24, 2014.
-
-#### (2) Applicability
-
-&emsp;The authority under subsection (a) shall apply to—
-
-&emsp;&emsp;(A) contracts awarded on or after the effective date specified in paragraph (1); and
-
-&emsp;&emsp;(B) task and delivery orders issued on or after that effective date pursuant to contracts awarded before, on, or after that effective date.
-
-#### (3) Termination
-
-&emsp;The authority under this section shall terminate on the date that is four years after the effective date specified in paragraph (1).
-
-(Pub. L. 107–314, div. D, title XLVIII, §4806, as added Pub. L. 113–66, div. C, title XXXI, §3113(a), Dec. 26, 2013, 127 Stat. 1053; amended Pub. L. 113–291, div. C, title XXXI, §3142(s), Dec. 19, 2014, 128 Stat. 3901.)
-
-#### References in Text
-
-Section 3542(b) of title 44, referred to in subsec. (f)(5)(A), was repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions defining "national security system" are now contained in section 3552 of title 44, as enacted by Pub. L. 113–283.
+(Pub. L. 107–314, div. D, title XLVIII, §4806, as added Pub. L. 113–66, div. C, title XXXI, §3113(a), Dec. 26, 2013, 127 Stat. 1053; amended Pub. L. 113–291, div. C, title XXXI, §3142(s), Dec. 19, 2014, 128 Stat. 3901; Pub. L. 115–232, div. C, title XXXI, §3117, Aug. 13, 2018, 132 Stat. 2292.)
 
 #### Amendments
 
-<b>2014</b>—Subsec. (g)(1). Pub. L. 113–291 substituted "June 24, 2014" for "the date that is 180 days after December 26, 2013".
+<b>2018</b>—Subsec. (f)(5)(A). Pub. L. 115–232, §3117(b), substituted "section 3552(b) of title 44" for "section 3542(b) of title 44".
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Subsec. (g). Pub. L. 115–232, §3117(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to effective date, applicability, and termination of section.
+
+<b>2014</b>—Subsec. (g)(1). Pub. L. 113–291 substituted "June 24, 2014" for "the date that is 180 days after December 26, 2013".
 

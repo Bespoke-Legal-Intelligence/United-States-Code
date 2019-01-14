@@ -10,7 +10,7 @@
 
 &emsp;(2) a Director of the Bank, by and with the advice and consent of the Senate.
 
-(b) No person shall be entitled to receive any salary or other compensation from the United States for services as a Governor or Alternate Governor. The Director may, in the discretion of the President, receive such compensation, allowances, and other benefits as, together with those received by him from the Bank, will equal those authorized for a chief of mission under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\].
+(b) No person shall be entitled to receive any salary or other compensation from the UnitedStates for services as a Governor or Alternate Governor. The Director may, in the discretion of the President, receive such compensation, allowances, and other benefits as, together with those received by him from the Bank, will equal those authorized for a chief of mission under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\].
 
 (Pub. L. 89–369, §3, Mar. 16, 1966, 80 Stat. 71; Pub. L. 96–465, title II, §2206(a)(1), Oct. 17, 1980, 94 Stat. 2160; Pub. L. 112–166, §2(aa), Aug. 10, 2012, 126 Stat. 1289.)
 

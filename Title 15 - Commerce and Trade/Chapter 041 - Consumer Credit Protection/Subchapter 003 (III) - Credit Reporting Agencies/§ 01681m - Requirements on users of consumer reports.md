@@ -2,7 +2,7 @@
 
 #### (a) Duties of users taking adverse actions on basis of information contained in consumer reports
 
-If any person takes any adverse action with respect to any consumer that is based in wholeor in part on any information contained in a consumer report, the person shall—
+If any person takes any adverse action with respect to any consumer that is based in whole or in part on any information contained in a consumer report, the person shall—
 
 &emsp;(1) provide oral, written, or electronic notice of the adverse action to the consumer;
 
@@ -78,7 +78,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;&emsp;(D) the consumer has a right to prohibit information contained in the consumer's file with any consumer reporting agency from being used in connection with any credit or insurance transaction that is not initiated by the consumer; and
 
-&emsp;&emsp;(E) the consumer may exercise the right referred to in subparagraph (D) by notifying a notification system established under section 1681b(e) of this title.
+&emsp;&emsp;(E) the consumer may exercise the right referred to in subparagraph (D) by notifyinga notification system established under section 1681b(e) of this title.
 
 #### (2) Disclosure of address and telephone number; format
 
@@ -126,7 +126,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 #### (3) Consistency with verification requirements
 
-&emsp;Guidelines established pursuant to paragraph (1) shall not be inconsistent with thepolicies and procedures required under section 5318(l) of title 31.
+&emsp;Guidelines established pursuant to paragraph (1) shall not be inconsistent with the policies and procedures required under section 5318(l) of title 31.
 
 #### (4) Definitions
 
@@ -140,7 +140,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;&emsp;&emsp;(iii) advances funds to or on behalf of a person, based on an obligation of the person to repay the funds or repayable from specific property pledged by or on behalf of the person;
 
-&emsp;&emsp;(B) does not include a creditor described in subparagraph (A)(iii) that advances funds on behalf of a person for expenses incidental to a service provided by the creditor to that person; and
+&emsp;&emsp;(B) does not include a creditor described in subparagraph (A)(iii) that advances funds onbehalf of a person for expenses incidental to a service provided by the creditor to that person; and
 
 &emsp;&emsp;(C) includes any other type of creditor, as defined in that section 1691a of this title, as the agency described in paragraph (1) having authority over that creditor may determine appropriate by rule promulgated by that agency, based on a determination that such creditor offers or maintains accounts that are subject to a reasonably foreseeable risk of identity theft.
 
@@ -204,7 +204,7 @@ If a person acting as a debt collector (as that term is defined in subchapter V)
 
 &emsp;&emsp;(C) include a statement informing the consumer that the consumer may obtain a copy of a consumer report from that consumer reporting agency without charge;
 
-&emsp;&emsp;(D) include the contact information specified by that consumer reporting agency forobtaining such consumer reports (including a toll-free telephone number established by the agency in the case of a consumer reporting agency described in section 1681a(p) of this title); and
+&emsp;&emsp;(D) include the contact information specified by that consumer reporting agency for obtaining such consumer reports (including a toll-free telephone number established by the agency in the case of a consumer reporting agency described in section 1681a(p) of this title); and
 
 &emsp;&emsp;(E) include a statement informing the consumer of—
 
@@ -298,7 +298,7 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance,see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
 #### Effective Date
 

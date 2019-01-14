@@ -46,7 +46,7 @@
 
 (c) Amounts in the Fund which are not currently needed for the purposes specified in subsection (a) shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
-(d) The Attorney General shall transmit to the Congress, not later than 120 days after the end of each fiscal year, a detailed report on the amounts deposited in the Fund and a description of expenditures made under this section.
+(d) The Attorney General shall transmit to the Congress, not later than 120 days after the end ofeach fiscal year, a detailed report on the amounts deposited in the Fund and a description of expenditures made under this section.
 
 (e) There are authorized to be appropriated to the Fund for any fiscal year such sums as may be necessary to supplement amounts deposited under subsection (b) for the purposes specified in subsection (a).
 

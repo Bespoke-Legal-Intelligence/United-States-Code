@@ -4,7 +4,7 @@
 
 Insofar as practicable and to the maximum extent consistent with the accomplishment of the purposes of this chapter, the President shall assist American small business to participate equitably in the furnishing of commodities, defense articles, and services (including defense services) financed with funds made available under this chapter—
 
-&emsp;(1) by causing to be made available to suppliers in the United States, and particularly to small independent enterprises, information, asfar in advance as possible, with respect to purchases proposed to be financed with such funds;
+&emsp;(1) by causing to be made available to suppliers in the United States, and particularly to small independent enterprises, information, as far in advance as possible, with respect to purchases proposed to be financed with such funds;
 
 &emsp;(2) by causing to be made available to prospective purchasers in the countries and areas receiving assistance under this chapter information as to such commodities, articles, and services produced by small independent enterprises in the United States; and
 
@@ -94,7 +94,7 @@ Initial Report.—Not later than 120 days after the date of the enactment of thi
 
 Plan To Increase Small Business Contracting.—The plan required for the report under subsection (a)(3) shall include the following matters:
 
-&emsp;"(1) Proposals and milestones that apply to all contracts entered into by or on behalf of the Agency inWashington, D.C., and proposals and milestones that apply to all contracts entered into by or on behalf of the Agency by offices outside Washington, D.C.
+&emsp;"(1) Proposals and milestones that apply to all contracts entered into by or on behalf of the Agency in Washington, D.C., and proposals and milestones that apply to all contracts entered into by or on behalf of the Agency by offices outside Washington, D.C.
 
 &emsp;"(2) Proposals and milestones of the Agency to increase the amount of subcontracting to businesses described in such subsection (a)(3) by the prime contractors of the Agency.
 

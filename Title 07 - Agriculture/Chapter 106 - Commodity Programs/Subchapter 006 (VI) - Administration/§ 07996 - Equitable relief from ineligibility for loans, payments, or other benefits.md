@@ -74,7 +74,7 @@ As a condition of receiving relief under this section, the Secretary may require
 
 &emsp;&emsp;(B) the total amount of loans, payments, and benefits for which relief has been previously provided to the participant under this subsection is not more than $5,000; and
 
-&emsp;&emsp;(C) the total amount of loans, payments, and benefits for which relief is provided to similarly situated participants under this subsection is not more than $1,000,000, as determined by the Secretary.
+&emsp;&emsp;(C) the total amount of loans, payments, and benefits for which relief is provided tosimilarly situated participants under this subsection is not more than $1,000,000, as determined by the Secretary.
 
 #### (2) Consultation, approval, and reversal
 

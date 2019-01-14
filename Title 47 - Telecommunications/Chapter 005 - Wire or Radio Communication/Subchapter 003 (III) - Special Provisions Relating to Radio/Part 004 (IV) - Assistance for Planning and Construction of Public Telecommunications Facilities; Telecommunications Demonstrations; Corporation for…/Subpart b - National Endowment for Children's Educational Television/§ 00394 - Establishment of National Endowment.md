@@ -48,7 +48,7 @@ Upon approving any application for a grant under subsection (b)(1)(B), the Secre
 
 (1) The Secretary shall establish an Advisory Council on Children's Educational Television. The Secretary shall appoint ten individuals as members of the Council and designate one of such members to serve as Chairman.
 
-(2) Members of the Council shall have terms of two years, and no member shall serve for more than three consecutive terms. The members shall have expertise in the fields of education, psychology, child development, or television programming, or related disciplines. Officers and employees of the United States shall not be appointed as members.
+(2) Members of the Council shall have terms of two years, and no member shall serve for morethan three consecutive terms. The members shall have expertise in the fields of education, psychology, child development, or television programming, or related disciplines. Officers and employees of the United States shall not be appointed as members.
 
 (3) While away from their homes or regular places of business in the performance of duties for the Council, the members of the Council shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, in accordance with section 5703 of title 5.
 
@@ -66,7 +66,7 @@ The Secretary is authorized to make such rules and regulations as may be necessa
 
 #### (h) Authorization of appropriations; availability
 
-There are authorized to be appropriated $2,000,000 for fiscal year 1991, $4,000,000 for fiscal year 1992, $5,000,000 for fiscal year 1993, and$6,000,000 for fiscal year 1994 to be used by the Secretary to carry out the provisions of this section. Sums appropriated under this subsection for any fiscal year shall remain available for contracts and grants for projects for which applications approved under this section have been submitted wtihin <sup>1</sup> one year after the last day of such fiscal year.
+There are authorized to be appropriated $2,000,000 for fiscal year 1991, $4,000,000 for fiscal year 1992, $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994 to be used by the Secretary to carry out the provisions of this section. Sums appropriated under this subsection for any fiscal year shall remain available for contracts and grants for projects for which applications approved under this section have been submitted wtihin <sup>1</sup> one year after the last day of such fiscal year.
 
 #### (i) Definitions
 

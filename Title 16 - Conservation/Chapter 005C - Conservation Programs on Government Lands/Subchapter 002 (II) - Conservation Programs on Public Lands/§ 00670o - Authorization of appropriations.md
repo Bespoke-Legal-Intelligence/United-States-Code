@@ -28,7 +28,7 @@ In subsec. (d), "division C (except sections 3302, 3307(e), 3501(b), 3509, 3901,
 
 #### Prior Provisions
 
-A prior section 208 of Pub. L. 86–797 was classified to section 670n of this title prior to repeal by Pub. L.112–81, div. A, title III, §312(d), Dec. 31, 2011, 125 Stat. 1355.
+A prior section 208 of Pub. L. 86–797 was classified to section 670n of this title prior to repeal by Pub. L. 112–81, div. A, title III, §312(d), Dec. 31, 2011, 125 Stat. 1355.
 
 #### Amendments
 

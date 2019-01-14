@@ -2,9 +2,9 @@
 
 #### (a) Research and evaluation
 
-(1) The Administrator may—
+(1) The Administrator shall—
 
-&emsp;(A) plan and identify the purposes and goals of all agreements carried out with funds provided under this subsection; and
+&emsp;(A) annually publish a plan to identify the purposes and goals of all agreements carried out with funds provided under this subsection; and
 
 &emsp;(B) conduct research or evaluation in juvenile justice matters, for the purpose of providing research and evaluation relating to—
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) the link between juvenile delinquency and the incarceration of members of the families of juveniles;
 
-&emsp;&emsp;(iii) successful efforts to prevent first-time minor offenders from committing subsequent involvement in serious crime;
+&emsp;&emsp;(iii) successful efforts to prevent status offenders and first-time minor offenders from subsequent involvement with the juvenile justice and criminal justice systems;
 
 &emsp;&emsp;(iv) successful efforts to prevent recidivism;
 
@@ -20,13 +20,25 @@
 
 &emsp;&emsp;(vi) juvenile violence;
 
-&emsp;&emsp;(vii) appropriate mental health services for juveniles and youth at risk of participating in delinquent activities;
+&emsp;&emsp;(vii) the prevalence and duration of behavioral health needs (including mental health, substance abuse, and co-occurring disorders) among juveniles pre-placement and post-placement in the juvenile justice system, including an examination of the effects of secure detention in a correctional facility;
 
 &emsp;&emsp;(viii) reducing the proportion of juveniles detained or confined in secure detention facilities, secure correctional facilities, jails, and lockups who are members of minority groups;
 
-&emsp;&emsp;(ix) evaluating services, treatment, and aftercare placement of juveniles who were under the care of the State child protection system before their placement in the juvenile justice system;
+&emsp;&emsp;(ix) training efforts and reforms that have produced reductions in or elimination of the use of dangerous practices;
 
-&emsp;&emsp;(x) determining—
+&emsp;&emsp;(x) methods to improve the recruitment, selection, training, and retention of professional personnel who are focused on the prevention, identification, and treatment of delinquency;
+
+&emsp;&emsp;(xi) methods to improve the identification and response to victims of domestic child sex trafficking within the juvenile justice system;
+
+&emsp;&emsp;(xii) identifying positive outcome measures, such as attainment of employment and educational degrees, that States and units of local government should use to evaluate the success of programs aimed at reducing recidivism of youth who have come in contact with the juvenile justice system or criminal justice system;
+
+&emsp;&emsp;(xiii) evaluating the impact and outcomes of the prosecution and sentencing of juveniles as adults;
+
+&emsp;&emsp;(xiv) successful and cost-effective efforts by States and units of local government to reduce recidivism through policies that provide for consideration of appropriate alternative sanctions to incarceration of youth facing nonviolent charges, while ensuring that public safety is preserved;
+
+&emsp;&emsp;(xvi) <sup>1</sup> evaluating services, treatment, and aftercare placement of juveniles who were under the care of the State child protection system before their placement in the juvenile justice system;
+
+&emsp;&emsp;(xvii) determining—
 
 &emsp;&emsp;&emsp;(I) the frequency, seriousness, and incidence of drug use by youth in schools and communities in the States using, if appropriate, data submitted by the States pursuant to this subparagraph and subsection (b); and
 
@@ -38,13 +50,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(cc) the type of weapons used in incidents, as classified in the Uniform Crime Reports of the Federal Bureau of Investigation; and
 
-&emsp;&emsp;(xi) other purposes consistent with the purposes of this subchapter and subchapter I.
+&emsp;&emsp;(xviii) other purposes consistent with the purposes of this subchapter and subchapter I.
 
 (2) The Administrator shall ensure that an equitable amount of funds available to carry out paragraph (1)(B) is used for research and evaluation relating to the prevention of juvenile delinquency.
 
 (3) Nothing in this subsection shall be construed to permit the development of a national database of personally identifiable information on individuals involved in studies, or in data-collection efforts, carried out under paragraph (1)(B)(x).
 
-(4) Not later than 1 year after November 2, 2002, the Administrator shall conduct a study with respect to juveniles who, prior to placement in the juvenile justice system, were under the care or custody of the State child welfare system, and to juveniles who are unable to return to their family after completing their disposition in the juvenile justice system and who remain wards of the State. Such study shall include—
+(4) Not later than 1 year after December 21, 2018, the Administrator shall conduct a study with respect to juveniles who, prior to placement in the juvenile justice system, were under the care or custody of the State child welfare system, and to juveniles who are unable to return to their family after completing their disposition in the juvenile justice system and who remain wards of the State in accordance with applicable confidentiality requirements. Such study shall include—
 
 &emsp;(A) the number of juveniles in each category;
 
@@ -52,17 +64,21 @@
 
 &emsp;(C) the Federal and local sources of funds used for placements and post-placement services;
 
-&emsp;(D) barriers faced by State in providing services to these juveniles;
+&emsp;(D) barriers faced by State <sup>2</sup> and Indian Tribes in providing services to these juveniles;
 
 &emsp;(E) the types of post-placement services used;
 
-&emsp;(F) the frequency of case plans and case plan reviews; and
+&emsp;(F) the frequency of case plans and case plan reviews;
 
-&emsp;(G) the extent to which case plans identify and address permanency and placement barriers and treatment plans.
+&emsp;(G) the extent to which case plans identify and address permanency and placement barriers and treatment plans;
+
+&emsp;(H) a description of the best practices in discharge planning; and
+
+&emsp;(I) an assessment of living arrangements for juveniles who, upon release from confinement in a State correctional facility, cannot return to the residence they occupied prior to such confinement.
 
 #### (b) Statistical analyses
 
-The Administrator may—
+The Administrator shall—
 
 &emsp;(1) plan and identify the purposes and goals of all agreements carried out with funds provided under this subsection; and
 
@@ -86,13 +102,53 @@ The Administrator may—
 
 &emsp;(3) make grants and contracts with public and private agencies, institutions, and organizations, for the purpose of disseminating information to representatives and personnel of public and private agencies, including practitioners in juvenile justice, law enforcement, the courts, corrections, schools, and related services, in the establishment, implementation, and operation of projects and activities for which financial assistance is provided under this subchapter.
 
-(Pub. L. 93–415, title II, §251, as added Pub. L. 107–273, div. C, title II, §12211, Nov. 2, 2002, 116 Stat. 1888.)
+#### (f) National recidivism measure
+
+The Administrator, in accordance with applicable confidentiality requirements and in consultation with experts in the field of juvenile justice research, recidivism, and data collection, shall—
+
+&emsp;(1) establish a uniform method of data collection and technology that States may use to evaluate data on juvenile recidivism on an annual basis;
+
+&emsp;(2) establish a common national juvenile recidivism measurement system; and
+
+&emsp;(3) make cumulative juvenile recidivism data that is collected from States available to the public.
+
+(Pub. L. 93–415, title II, §251, as added Pub. L. 107–273, div. C, title II, §12211, Nov. 2, 2002, 116 Stat. 1888; amended Pub. L. 115–385, title II, §207, Dec. 21, 2018, 132 Stat. 5140.)
 
 #### Codification
 
 Section was formerly classified to section 5661 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–385, §207(1)(A)(i), substituted "shall" for "may" in introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 115–385, §207(1)(A)(ii), substituted "annually publish a plan to identify" for "plan and identify".
+
+Subsec. (a)(1)(B)(iii). Pub. L. 115–385, §207(1)(A)(iii)(I), added cl. (iii) and struck out former cl. (iii) which read as follows: "successful efforts to prevent first-time minor offenders from committing subsequent involvement in serious crime;".
+
+Subsec. (a)(1)(B)(vii). Pub. L. 115–385, §207(1)(A)(iii)(II), added cl. (vii) and struck out former cl. (vii) which read as follows: "appropriate mental health services for juveniles and youth at risk of participating in delinquent activities;".
+
+Subsec. (a)(1)(B)(ix) to (xviii). Pub. L. 115–385, §207(1)(A)(iii)(III), (IV), added cls. (ix) to (xiv) and redesignated former cls. (ix) to (xi) as (xvi) to (xviii), respectively.
+
+Subsec. (a)(4). Pub. L. 115–385, §207(1)(B)(i), in introductory provisions, substituted "December 21, 2018" for "November 2, 2002" and inserted "in accordance with applicable confidentiality requirements" after "wards of the State".
+
+Subsec. (a)(4)(D). Pub. L. 115–385, §207(1)(B)(ii), inserted "and Indian Tribes" after "State".
+
+Subsec. (a)(4)(H), (I). Pub. L. 115–385, §207(1)(B)(iii)–(v), added subpars. (H) and (I).
+
+Subsec. (b). Pub. L. 115–385, §207(2), substituted "shall" for "may" in introductory provisions.
+
+Subsec. (f). Pub. L. 115–385, §207(3), added subsec. (f).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under section 11102 of this title.
+
 #### Effective Date
 
 Part effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as an Effective Date of 2002 Amendment note under section 11101 of this title.
+
+<i><sup>1</sup></i><i> So in original. There is no cl. (xv).</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "States".</i>
 

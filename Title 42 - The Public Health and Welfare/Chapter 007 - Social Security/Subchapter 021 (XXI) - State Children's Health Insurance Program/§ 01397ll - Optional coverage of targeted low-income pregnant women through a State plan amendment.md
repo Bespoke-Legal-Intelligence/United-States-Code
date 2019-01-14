@@ -18,7 +18,7 @@ A State may only elect the option under subsection (a) if the following conditio
 
 #### (2) No CHIP income eligibility level for pregnant women lower than the State's Medicaid level
 
-&emsp;The State does not apply an effective income level for pregnant women under the State plan amendment that is lower than the effective income level (expressed as a percent of the poverty line and considering applicable income disregards) specified under subsection (a)(10)(A)(i)(III), (a)(10)(A)(i)(IV), or (l)(1)(A) of section 1396a of this title, on February 4, 2009, to be eligible for medical assistance as a pregnant woman.
+&emsp;The State does not apply an effective income level for pregnant women under the State plan amendment that is lower than the effective income level (expressed as a percent of the poverty line and considering applicable incomedisregards) specified under subsection (a)(10)(A)(i)(III), (a)(10)(A)(i)(IV), or (l)(1)(A) of section 1396a of this title, on February 4, 2009, to be eligible for medical assistance as a pregnant woman.
 
 #### (3) No coverage for higher income pregnant women without covering lower income pregnant women
 

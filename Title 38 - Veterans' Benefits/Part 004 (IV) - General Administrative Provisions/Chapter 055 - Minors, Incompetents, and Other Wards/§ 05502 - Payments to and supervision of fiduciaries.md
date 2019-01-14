@@ -60,7 +60,7 @@ Pub. L. 102–83, §4(a)(1), substituted "administered by the Secretary" for "ad
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–576, §701(76)(A), substituted "the Administrator" for "he" before "may deem proper".
 
-Subsec. (b). Pub. L. 99–576, §§505, 701(76)(B), substituted "the trust of such guardian, curator, conservator, or other person" for "his trust" in first sentence, substituted "the Administrator's" for "his duly" infirst sentence, substituted "the Administrator's" for "his" in second and third sentences, substituted "the Administrator" for "himself" in third sentence, and inserted after second sentence "The Administrator may require the fiduciary, as part of such account, to disclose any additional financial information concerning the beneficiary (except for information that is not available to the fiduciary)."
+Subsec. (b). Pub. L. 99–576, §§505, 701(76)(B), substituted "the trust of such guardian, curator, conservator, or other person" for "his trust" in first sentence, substituted "the Administrator's" for "his duly" in first sentence, substituted "the Administrator's" for "his" in second and third sentences, substituted "the Administrator" for "himself" in third sentence, and inserted after second sentence "The Administrator may require the fiduciary, as part of such account, to disclose any additional financial information concerning the beneficiary (except for information that is not available to the fiduciary)."
 
 Subsec. (d). Pub. L. 99–576, §701(76)(C), substituted "the veteran's" for "his" in second sentence, substituted "the beneficiary's" for "his" in third sentence, and in fourth sentence substituted "the beneficiary" for "him", "the beneficiary" for "he", and "the beneficiary's" for "his" in six places.
 
@@ -76,7 +76,7 @@ Subsec. (a). Pub. L. 98–223, §207(a), designated existing provisions as par. 
 
 Subsec. (c). Pub. L. 93–295, §301(b), substituted "fiduciary or other person for the purpose of payment of benefits payable under laws administered by the Veterans' Administration" for "guardian, curator, conservator, or other person legally vested with the care of the claimant or his estate", and "such benefits" for "such estates".
 
-Subsec. (e). Pub. L. 93–295, §301(c), substituted "hands of a fiduciary appointed by a State court or the Veterans' Administration derived from" for "hands of a guardian, curator, conservator, or person legally vested with the care of the beneficiary or his estate, derived from", and "such fiduciary" for "such guardian, curator, conservator, or person legally vested with the care of the beneficiary or his estate".
+Subsec. (e). Pub. L. 93–295, §301(c), substituted "hands of a fiduciary appointed by a State court or the Veterans' Administration derived from" for "hands of a guardian, curator, conservator, or person legally vestedwith the care of the beneficiary or his estate, derived from", and "such fiduciary" for "such guardian, curator, conservator, or person legally vested with the care of the beneficiary or his estate".
 
 Subsecs. (f), (g). Pub. L. 93–295, §301(d), repealed subsec. (f) which permitted the Administrator, in the case of any incompetent veteran having no guardian, to pay compensation, pension or retirement pay to the wife of such veteran for the use of the veteran and his dependents, and subsec. (g) which permitted payment of death benefits to a widow for herself and child or children, if any, notwithstanding that she may be a minor.
 

@@ -26,9 +26,11 @@ Offenses.—The offenses described in this section are—
 
 &emsp;(1) a Federal felony involving a controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)) for which the maximum penalty is not less than 5 years;
 
-&emsp;(2) a Federal felony crime of violence that has as an element the use or attempted use of physical force against the person of another; and
+&emsp;(2) a Federal felony crime of violence that has as an element the use or attempted use of physical force against the person of another;
 
-&emsp;(3) a conspiracy to commit an offense described in paragraph (1) or (2).
+&emsp;(3) a Federal offense involving human trafficking, sexual abuse, sexual exploitation, or transportation for prostitution or any illegal sexual activity; and
+
+&emsp;(4) a conspiracy to commit an offense described in paragraph (1), (2), or (3).
 
 (d)
 
@@ -52,9 +54,11 @@ Circumstances.—The circumstances described in this section are that the offens
 
 &emsp;&emsp;(D) a conspiracy to commit an offense described in subparagraph (A), (B), or (C).
 
-(Added Pub. L. 103–322, title XV, §150001(a), Sept. 13, 1994, 108 Stat. 2034; amended Pub. L. 104–294,title VI, §607(q), Oct. 11, 1996, 110 Stat. 3513; Pub. L. 107–273, div. B, title IV, §4002(b)(3), Nov. 2, 2002, 116 Stat. 1807.)
+(Added Pub. L. 103–322, title XV, §150001(a), Sept. 13, 1994, 108 Stat. 2034; amended Pub. L. 104–294, title VI, §607(q), Oct. 11, 1996, 110 Stat. 3513; Pub. L. 107–273, div. B, title IV, §4002(b)(3), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 115–392, §12, Dec. 21, 2018, 132 Stat. 5255.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(3), (4). Pub. L. 115–392 added par. (3), redesignated former par. (3) as (4), and in par. (4), substituted "(1), (2), or (3)" for "(1) or (2)".
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–273 realigned margins of par. defining "State".
 

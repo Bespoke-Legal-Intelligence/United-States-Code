@@ -8,11 +8,11 @@ In order to receive any grant, loan, or work assistance under this subchapter, a
 
 &emsp;(2) if the student is presently enrolled at an institution, be maintaining satisfactory progress in the course of study the student is pursuing in accordance with the provisions of subsection (c);
 
-&emsp;(3) not owe a refund on grants previously received at any institution under this subchapter, or be in default on any loan from a student loan fund at any institution providedfor in part E, or a loan made, insured, or guaranteed by the Secretary under this subchapter for attendance at any institution;
+&emsp;(3) not owe a refund on grants previously received at any institution under this subchapter, or be in default on any loan from a student loan fund at any institution provided for in part E, or a loan made, insured, or guaranteed by the Secretary under this subchapter for attendance at any institution;
 
 &emsp;(4) file with the Secretary, as part of the original financial aid application process, a certification, which need not be notarized, but which shall include—
 
-&emsp;&emsp;(A) a statement of educational purpose stating that the money attributable to such grant, loan, or loan guarantee will be used solely for expenses related to attendance or continued attendance at such institution; and
+&emsp;&emsp;(A) a statement of educational purpose stating that the money attributable to suchgrant, loan, or loan guarantee will be used solely for expenses related to attendance or continued attendance at such institution; and
 
 &emsp;&emsp;(B) such student's social security number;
 
@@ -76,11 +76,11 @@ In order to receive any grant, loan, or work assistance under this subchapter, a
 
 #### (1) Student eligibility
 
-&emsp;In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligiblefor any assistance under subparts 1, 3, and 4 of part A and parts B, C, D, and E of this subchapter, the student shall meet the requirements of one of the following subparagraphs:
+&emsp;In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, D, and E of this subchapter, the student shall meet the requirements of one of the following subparagraphs:
 
 &emsp;&emsp;(A) The student is enrolled in an eligible career pathway program and meets one of the following standards:
 
-&emsp;&emsp;&emsp;(i) The student shall take an independently administered examination and shall achieve a score, specified by the Secretary, demonstrating that such student can benefit from the education or training being offered. Such examination shall be approved by the Secretary on the basis of compliance with such standards for development, administration, and scoring as the Secretary may prescribe in regulations.
+&emsp;&emsp;&emsp;(i) The student shall take an independently administered examination and shallachieve a score, specified by the Secretary, demonstrating that such student can benefit from the education or training being offered. Such examination shall be approved by the Secretary on the basis of compliance with such standards for development, administration, and scoring as the Secretary may prescribe in regulations.
 
 &emsp;&emsp;&emsp;(ii) The student shall be determined as having the ability to benefit from the education or training in accordance with such process as the State shall prescribe. Any such process described or approved by a State for the purposes of this section shall be effective 6 months after the date of submission to the Secretary unless the Secretary disapproves such process. In determining whether to approve or disapprove such process, the Secretary shall take into account the effectiveness of such process in enabling students without secondary school diplomas or the equivalent thereof to benefit from the instruction offered by institutions utilizing such process, and shall also take into account the cultural diversity, economic circumstances, and educational preparation of the populations served by the institutions.
 
@@ -130,7 +130,7 @@ Each eligible institution may certify student eligibility for a loan by an eligi
 
 #### (2) Special rule
 
-&emsp;The documents collected and maintained by an eligible institution in the admission of a student to the institution may be used by the student in lieu of the documents used to establish both employment authorization and identity under section 1324a(b)(1)(B) of title 8 toverify eligibility to participate in work-study programs under part C of this subchapter.
+&emsp;The documents collected and maintained by an eligible institution in the admission of a student to the institution may be used by the student in lieu of the documents used to establish both employment authorization and identity under section 1324a(b)(1)(B) of title 8 to verify eligibility to participate in work-study programs under part C of this subchapter.
 
 #### (3) Verification mechanisms
 
@@ -202,7 +202,7 @@ A student shall not be eligible to receive grant, loan, or work assistance under
 
 #### (3) Special rule
 
-&emsp;For award years beginning prior to July 1, 2008, the Secretary shall not take any compliance, disallowance, penalty, or other action based on a violation of this subsection against a student or an eligible institution when suchaction arises out of such institution's prior award of student assistance under this subchapter if the institution demonstrates to the satisfaction of the Secretary that its course of instruction would have been in conformance with the requirements of this subsection.
+&emsp;For award years beginning prior to July 1, 2008, the Secretary shall not take any compliance, disallowance, penalty, or other action based on a violation of this subsection against a student or an eligible institution when such action arises out of such institution's prior award of student assistance under this subchapter if the institution demonstrates to the satisfaction of the Secretary that its course of instruction would have been in conformance with the requirements of this subsection.
 
 #### (m) Students with a first baccalaureate or professional degree
 
@@ -325,11 +325,11 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;The Secretary shall prepare and submit to the authorizing committees, in each fiscal year, a report describing the results obtained by the establishment and operation of the data system authorized by this subsection.
 
-(Pub. L. 89–329, title IV, §484, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1479; amended Pub. L. 99–603, title I, §121(a)(3), Nov. 6, 1986, 100 Stat. 3388; Pub. L. 100–50, §15(7)–(9), June 3, 1987, 101 Stat. 356, 357; Pub. L. 100–369, §§1, 2, 6, July 18, 1988, 102 Stat. 835, 836; Pub. L. 100–525, §2(g), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–508, title III, §3005(a), Nov. 5, 1990, 104 Stat. 1388–27; Pub. L. 102–26, §2(b), (c)(2), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–73, title VIII, §801(a), July 25, 1991, 105 Stat. 359; Pub. L. 102–325, title IV, §484(a), (b)(1), (c)–(h), July 23, 1992, 106 Stat. 615–619; Pub. L. 103–208, §2(h)(13)–(25), Dec. 20, 1993, 107 Stat. 2476, 2477; Pub. L. 103–382, title III, §360A, Oct. 20, 1994, 108 Stat. 3969; Pub. L. 104–208, div. C, title V, §507(b), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–244, title IV, §483(a)–(f)(1), Oct. 7, 1998, 112 Stat. 1735, 1736; Pub. L. 109–171, title VIII, §§8020(c), 8021, Feb. 8, 2006, 120 Stat. 178; Pub. L. 109–270, §2(c)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title IV, §485(a), Aug. 14, 2008, 122Stat. 3287; Pub. L. 111–39, title IV, §407(b)(4), July 1, 2009, 123 Stat. 1950; Pub. L. 112–74, div. F, title III, §309(c)(1), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–235, div. G, title III, §309(a)(1), Dec. 16, 2014, 128 Stat. 2504; Pub. L. 114–113, div. H, title III, §313(1), Dec. 18, 2015, 129 Stat. 2638.)
+(Pub. L. 89–329, title IV, §484, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1479; amended Pub. L. 99–603, title I, §121(a)(3), Nov. 6, 1986, 100 Stat. 3388; Pub. L. 100–50, §15(7)–(9), June 3, 1987, 101 Stat. 356, 357; Pub. L. 100–369, §§1, 2, 6, July 18, 1988, 102 Stat. 835, 836; Pub. L. 100–525, §2(g), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–508, title III, §3005(a), Nov. 5, 1990, 104 Stat. 1388–27; Pub. L. 102–26, §2(b), (c)(2), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–73, title VIII, §801(a), July 25, 1991, 105 Stat. 359; Pub. L. 102–325, title IV, §484(a), (b)(1), (c)–(h), July 23, 1992, 106 Stat. 615–619; Pub. L. 103–208, §2(h)(13)–(25), Dec. 20, 1993, 107 Stat. 2476, 2477; Pub. L. 103–382, title III, §360A, Oct. 20, 1994, 108 Stat. 3969; Pub. L. 104–208, div. C, title V, §507(b), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–244, title IV, §483(a)–(f)(1), Oct. 7, 1998, 112 Stat. 1735, 1736; Pub. L. 109–171, title VIII, §§8020(c), 8021, Feb. 8, 2006, 120 Stat. 178; Pub. L. 109–270, §2(c)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title IV, §485(a), Aug. 14, 2008, 122 Stat. 3287; Pub. L. 111–39, title IV, §407(b)(4), July 1, 2009, 123 Stat. 1950; Pub. L. 112–74, div. F, title III, §309(c)(1), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–235, div. G, title III, §309(a)(1), Dec. 16, 2014, 128 Stat. 2504; Pub. L. 114–113, div. H, title III, §313(1), Dec. 18, 2015, 129 Stat. 2638.)
 
 #### References in Text
 
-Section 1078–1 of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
+Section 1078–1 of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994,except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 Act of August 16, 1937, commonly known as the National Apprenticeship Act, referred to in subsec. (d)(2)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
@@ -463,7 +463,7 @@ Pub. L. 103–208, §2(h)(24), substituted "documented evidence of a social secu
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–325, §484(a)(1), inserted "(including a program of study abroad approved for credit by the eligible institution at which such student is enrolled)" after "or other program".
 
-Subsec. (a)(4). Pub. L. 102–325, §484(a)(2), added par. (4) and struck out former par. (4) which read as follows: "file with the institution of higher education which the student intends to attend, or is attending (or in the case of a loan or loan guarantee with the lender), a statement of educational purpose (which need not be notarized but which shall include such student's social security number or, if the student does not have a social security number, such student's student identification number) stating that the money attributable to such grant, loan, or loan guarantee will be used solely for expenses related to attendance or continued attendance at such institution; and".
+Subsec. (a)(4). Pub. L. 102–325, §484(a)(2), added par. (4) and struck out former par. (4) which read as follows: "file with the institution of higher education which the student intends to attend, or is attending (or in the case of a loan or loan guarantee with the lender), a statement of educational purpose (which need not be notarized but which shall include such student's socialsecurity number or, if the student does not have a social security number, such student's student identification number) stating that the money attributable to such grant, loan, or loan guarantee will be used solely for expenses related to attendance or continued attendance at such institution; and".
 
 Subsec. (b)(4). Pub. L. 102–325, §484(b)(1)(A), substituted "part B, D, or E or work-study assistance under part C" for "part B" in concluding provisions.
 
@@ -619,11 +619,11 @@ For repeal of section 3005 of Pub. L. 101–508 and application of subsec. (d) o
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Satisfactory Progress
 
-Pub. L. 99–498, title XIII, §1301, Oct. 17, 1986, 100 Stat. 1579, as amended by Pub. L. 100–50, §23(1), June 3, 1987, 101 Stat. 362, directed Secretary, through the Office of Educational Research and Improvement, to conduct survey over 5-year period ending Sept. 30, 1991, on impact on grades of students of amendments made by Pub. L. 99–498 to subsec. (c) of this section and to submit annual reports to Congress of survey, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
+Pub. L. 99–498, title XIII, §1301, Oct. 17, 1986, 100 Stat. 1579, as amended by Pub. L. 100–50, §23(1), June 3, 1987, 101 Stat. 362, directed Secretary, through the Office ofEducational Research and Improvement, to conduct survey over 5-year period ending Sept. 30, 1991, on impact on grades of students of amendments made by Pub. L. 99–498 to subsec. (c) of this section and to submit annual reports to Congress of survey, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
 
 #### Denial of Student Assistance to Certain Noncitizens
 

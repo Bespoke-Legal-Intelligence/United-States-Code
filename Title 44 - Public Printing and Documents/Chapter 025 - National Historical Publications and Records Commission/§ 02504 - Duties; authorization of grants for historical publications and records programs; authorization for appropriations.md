@@ -146,7 +146,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to the requirement that the Chairman of the Commission transmit biennial reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 16th item on page 183 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to the requirement that the Chairman of the Commission transmit biennial reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113of Title 31, Money and Finance, and the 16th item on page 183 of House Document No. 103–7.
 
 #### Grants for Establishment of State and Local Databases for Records of Servitude, Emancipation, and Post–Civil War Reconstruction
 

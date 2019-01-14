@@ -26,13 +26,13 @@
 
 #### (3) Removal from list
 
-&emsp;Any person whose name has been included in a list published under paragraph (1) may petition the Secretary to be removed from such list. If the Secretary finds that such person has not committed any violations described in paragraph (2) for a period of not less than 3 years after the date on which the person's name was so published, the Secretary shall remove such person from the list as of the next publication of the list under paragraph (1).
+&emsp;Any person whose name has been included in a list published under paragraph (1) may petition the Secretary to be removed from such list. If the Secretary finds that such personhas not committed any violations described in paragraph (2) for a period of not less than 3 years after the date on which the person's name was so published, the Secretary shall remove such person from the list as of the next publication of the list under paragraph (1).
 
 #### (4) Reasonable care required for subsequent imports
 
 #### (A) Responsibility of importers and others
 
-&emsp;&emsp;After the name of a person has been published under paragraph (1), the Secretary ofthe Treasury shall require any importer of record entering, introducing, or attempting to introduce into the commerce of the United States textile or apparel products that were either directly or indirectly produced, manufactured, supplied, sold, exported, or transported by such named person to show, to the satisfaction of the Secretary, that such importer has exercised reasonable care to ensure that the textile or apparel products are accompanied by documentation, packaging, and labelling that are accurate as to its origin. Such reasonable care shall not include reliance solely on a source of information which is the named person.
+&emsp;&emsp;After the name of a person has been published under paragraph (1), the Secretary of the Treasury shall require any importer of record entering, introducing, or attempting to introduce into the commerce of the United States textile or apparel products that were either directly or indirectly produced, manufactured, supplied, sold, exported, or transported by such named person to show, to the satisfaction of the Secretary, that such importer has exercised reasonable care to ensure that the textile or apparel products are accompanied by documentation, packaging, and labelling that are accurate as to its origin. Such reasonable care shall not include reliance solely on a source of information which is the named person.
 
 #### (B) Failure to exercise reasonable care
 
@@ -66,7 +66,7 @@
 
 #### Effective Date
 
-Section effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 335 of Pub. L. 103–465, set out as a note under section 3591 of this title.
+Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 335 of Pub. L. 103–465, set out as a note under section 3591 of this title.
 
 #### Transfer of Functions
 

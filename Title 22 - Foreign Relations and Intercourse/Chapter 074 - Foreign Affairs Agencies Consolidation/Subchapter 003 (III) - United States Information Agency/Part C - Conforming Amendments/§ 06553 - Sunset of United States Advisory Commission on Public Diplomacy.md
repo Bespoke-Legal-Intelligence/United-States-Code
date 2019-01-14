@@ -30,7 +30,7 @@ Pub. L. 114–323, title VII, §702(b), Dec. 16, 2016, 130 Stat. 1940, provided 
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title XII, §1280(d)(2), Jan. 2, 2013, 126 Stat. 2033, provided that: "The amendmentmade by paragraph (1) \[amending this section\] shall take effect on October 1, 2010."
+Pub. L. 112–239, div. A, title XII, §1280(d)(2), Jan. 2, 2013, 126 Stat. 2033, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 2010."
 
 #### Effective Date of 2001 Amendment
 

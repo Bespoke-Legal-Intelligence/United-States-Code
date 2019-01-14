@@ -18,7 +18,7 @@ Application.—(1) This section applies to a motor vehicle only if the vehicle i
 
 Standards for States and Indian Tribes.—(1) The Secretary, in consultation with the States, shall prescribe by regulation standards for States and Indian tribes to use in carrying out subsection (a) of this section. The standards shall include—
 
-&emsp;(A) a requirement that a highway routing designation, limitation, or requirement of a State or Indian tribe shall enhance public safety in the area subject to the jurisdiction of the State or tribe and in areas of the United States not subject to the jurisdiction of the State or tribe and directly affected by the designation, limitation, or requirement;
+&emsp;(A) a requirement that a highway routing designation, limitation, or requirement of a State or Indian tribe shall enhance public safety in the area subject to the jurisdiction of the State or tribe and in areas of the UnitedStates not subject to the jurisdiction of the State or tribe and directly affected by the designation, limitation, or requirement;
 
 &emsp;(B) minimum procedural requirements to ensure public participation when the State or Indian tribe is establishing a highway routing designation, limitation, or requirement;
 

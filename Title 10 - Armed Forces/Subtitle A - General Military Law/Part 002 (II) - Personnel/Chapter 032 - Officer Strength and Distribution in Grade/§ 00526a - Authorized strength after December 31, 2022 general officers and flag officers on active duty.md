@@ -2,7 +2,7 @@
 
 (a)
 
-Limitations.—The number of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, after December 31, 2022, may not exceed the number specified for the armed force concerned as follows:
+Limitations.—The number of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, after December 31, 2022,may not exceed the number specified for the armed force concerned as follows:
 
 &emsp;(1) For the Army, 220.
 

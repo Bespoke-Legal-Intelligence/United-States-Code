@@ -22,7 +22,7 @@ Congress makes the following findings:
 
 #### (c) Professional intelligence training
 
-The Director of National Intelligence shall require the head of each element and componentwithin the Office of the Director of National Intelligence who has responsibility for professional intelligence training to periodically review and revise the curriculum for the professional intelligence training of the senior and intermediate level personnel of such element or component in order to—
+The Director of National Intelligence shall require the head of each element and component within the Office of the Director of National Intelligence who has responsibility for professional intelligence training to periodically review and revise the curriculum for the professional intelligence training of the senior and intermediate level personnel of such element or component in order to—
 
 &emsp;(1) strengthen the focus of such curriculum on the integration of intelligence collection and analysis throughout the Office; and
 

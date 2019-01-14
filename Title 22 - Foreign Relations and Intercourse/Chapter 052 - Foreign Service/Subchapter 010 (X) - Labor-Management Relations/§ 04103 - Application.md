@@ -26,7 +26,7 @@ Pub. L. 105–277, §1335(k)(3), substituted "Broadcasting Board of Governors" f
 
 #### Change of Name
 
-"United States Information Agency" substituted for "International Communication Agency" in subsec. (a), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title.
+"United States Information Agency" substituted for "International Communication Agency" in subsec. (a),pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title.
 
 #### Effective Date of 1998 Amendment
 

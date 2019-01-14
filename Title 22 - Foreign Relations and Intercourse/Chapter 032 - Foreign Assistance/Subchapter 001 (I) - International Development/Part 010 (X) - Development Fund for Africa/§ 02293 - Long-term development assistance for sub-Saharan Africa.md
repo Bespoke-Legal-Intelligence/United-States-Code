@@ -36,7 +36,7 @@ Except to the extent inconsistent with this section—
 
 #### (1) Consultation to ensure local perspectives
 
-&emsp;The Agency for International Development shall take into account the local-level perspectives of the rural and urban poor in sub-Saharan Africa, including women, during the planning process for project and program assistance under this section. In order to gain that perspective the Agency for International Development should consult closely with African, United States, and other private and voluntary organizations that have demonstrated effectiveness in or commitment to the promotion of local, grassroots activities on behalf of long-term development in sub-Saharan Africa as described in subsection (c).
+&emsp;The Agency for International Development shall take into account the local-level perspectives of the rural and urban poor in sub-Saharan Africa, including women, during theplanning process for project and program assistance under this section. In order to gain that perspective the Agency for International Development should consult closely with African, United States, and other private and voluntary organizations that have demonstrated effectiveness in or commitment to the promotion of local, grassroots activities on behalf of long-term development in sub-Saharan Africa as described in subsection (c).
 
 #### (2) "Private and voluntary organization" defined
 
@@ -172,7 +172,7 @@ Funds made available to carry out this section may be used to assist the governm
 
 &emsp;To the maximum extent feasible, the assistance authorized by this subsection shall be provided consistent with the policies and authorities contained in the preceding subsection of this section.
 
-(Pub. L. 87–195, pt. I, §496, as added Pub. L. 101–513, title V, §562(a), Nov. 5, 1990, 104 Stat. 2026; amended Pub. L. 106–200, title I, §127(c), May 18, 2000, 114 Stat. 273; Pub. L. 106–264, title I, §111(b), Aug. 19, 2000, 114 Stat. 752.)
+(Pub. L. 87–195, pt. I, §496, as added Pub. L. 101–513, title V, §562(a), Nov. 5, 1990, 104 Stat.2026; amended Pub. L. 106–200, title I, §127(c), May 18, 2000, 114 Stat. 273; Pub. L. 106–264, title I, §111(b), Aug. 19, 2000, 114 Stat. 752.)
 
 #### References in Text
 
@@ -438,6 +438,8 @@ In General.—Not later than three years after the date of the enactment of this
 
 \[For delegation of functions vested in President by sections 4 and 7 of Pub. L. 114–121, set out above, see Memorandum of President of the United States, Aug. 3, 2016, 81 F.R. 52323, set out below.\]
 
+\[Pub. L. 115–254, div. F, title VI, §1470(k), (w), Oct. 5, 2018, 132 Stat. 3517, 3519, provided that, effective at the end of the transition period, as defined in section 9681 of this title, sections 5 and 7 of the Electrify Africa Act of 2015 (Public Law 114–121; 22 U.S.C. 2293 note), set out above, are amended by striking "Overseas Private Investment Corporation" each place it appears and inserting "United States International Development Finance Corporation".\]
+
 #### Agricultural and Rural Development in Sub-Saharan Africa
 
 Pub. L. 105–385, §2, Nov. 13, 1998, 112 Stat. 3460, provided that:
@@ -454,7 +456,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(4) African women produce up to 80 percent of the total food supply in Africa according to the International Food Policy Research Institute.
 
-&emsp;"(5) An effective way to improve conditions of the poor is to increase the productivity of the agricultural sector. Productivity increases can be fostered by increasing research and education in agriculture and rural development.
+&emsp;"(5) An effective way to improve conditions of the poor is to increase the productivity of the agricultural sector. Productivity increases can be fosteredby increasing research and education in agriculture and rural development.
 
 &emsp;"(6) In November 1996, the World Food Summit set a goal of reducing hunger worldwide by 50 percent by the year 2015 and encouraged national governments to develop domestic food plans and to support international aid efforts.
 
@@ -560,7 +562,7 @@ Other activities.—In addition to carrying out paragraph (1), the Administrator
 
 "(a)
 
-Purpose.—The purpose of this section is to encourage the Overseas Private Investment Corporation to work with United States businesses and other United States entities to invest in rural sub-Saharan Africa, particularly in ways that will develop the capacities of small-scale farmers and small rural entrepreneurs, including women, in sub-Saharan Africa.
+Purpose.—The purpose of this section is to encourage the Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\] to work with United States businesses and other United States entities to invest in rural sub-Saharan Africa, particularly in ways that will develop the capacities of small-scale farmers and small rural entrepreneurs, including women, in sub-Saharan Africa.
 
 "(b)
 
@@ -616,7 +618,7 @@ Section 1. <i>Policy</i>. It is the policy of the United States to partner, cons
 
 On June 30, 2013, my Administration launched Power Africa, a new initiative to double access to power in Sub-Saharan Africa, where more than two-thirds of the population is without electricity, and more than 85 percent of those living in rural areas lack access to electricity. In its initial phase, Power Africa aimed to add more than 10,000 MW of cleaner, more efficient electricity generation capacity and to increase electricity access by at least 20 million new households and commercial entities with on-grid, mini-grid, and off-grid solutions. Power Africa builds on Africa's enormous power potential, including extensive clean geothermal, hydro, wind and solar energy resources, as well as vast oil and gas reserves. Power Africa works with countries to develop resources responsibly, build out power generation, transmission, and distribution, and expand the reach of mini-grid and off-grid solutions. Power Africa brings to bear a wide range of tools from across the Federal Government and more than 130 public and private sector partners to support investment in Africa's energy sector. Power Africa provides coordinated support to help African partners expand their power networks and access to electricity, including through policy and regulatory best practices, institutional capacity building, pre-feasibility support, grants, long-term financing, insurance, guarantees, credit enhancements, and technical assistance.
 
-On August 5, 2014, during the U.S.-Africa Leaders Summit, my Administration affirmed that Power Africa is intended to reach across Sub-Saharan Africa, and tripled Power Africa's goals. Power Africa is now working toward adding 30,000 MW of new, cleaner electricity generation capacity and increasing electricity access by at least 60 million new connections. On January 28, 2016, my Administration, in coordination with Power Africa partners, launched the Power Africa Roadmap, which lays out a concrete plan for Power Africa to meet its ambitious goals by 2030.
+On August 5, 2014, during the U.S.-Africa Leaders Summit, my Administration affirmed that Power Africa is intended to reach across Sub-Saharan Africa, and tripled Power Africa's goals. Power Africa is now working toward adding 30,000 MW of new, cleaner electricity generation capacity and increasing electricity accessby at least 60 million new connections. On January 28, 2016, my Administration, in coordination with Power Africa partners, launched the Power Africa Roadmap, which lays out a concrete plan for Power Africa to meet its ambitious goals by 2030.
 
 The Electrify Africa Act of 2015, enacted on February 8, 2016 (Public Law 114–121) (the "Act"), calls for the development of a strategy to add at least 20,000 MW of electrical power and promote first-time access to power and power services for at least 50 million people in Sub-Saharan Africa by 2020 in both urban and rural areas—an effort that directly supports and complements Power Africa's goals. This order furthers the purposes of the Act and the work that Power Africa has been undertaking.
 
@@ -640,7 +642,7 @@ Sec. 3. <i>Power Africa Working Group</i>. (a) There is hereby established the P
 
 (vii) the United States Agency for International Development;
 
-(viii) the Overseas Private Investment Corporation;
+(viii) the Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\];
 
 (ix) the United States Trade and Development Agency;
 

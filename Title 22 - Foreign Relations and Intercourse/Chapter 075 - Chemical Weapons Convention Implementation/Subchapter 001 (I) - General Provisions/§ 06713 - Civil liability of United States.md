@@ -14,7 +14,7 @@
 
 #### (2) Notification
 
-&emsp;Any person intending to bring a civil action pursuant to paragraph (1) shall notify the United States National Authority of that intent at least one year before filing the claim in the United States Court of Federal Claims. Action on any claim filed during that one-year period shall be stayed. The one-year period following the notification shall not be counted for purposes of any law limiting the period within which the civil action may be commenced.
+&emsp;Any person intending to bring a civil action pursuant to paragraph (1) shall notify the United States National Authority of that intent at least one year before filing the claim in the United States Court of Federal Claims. Action on any claim filed during that one-yearperiod shall be stayed. The one-year period following the notification shall not be counted for purposes of any law limiting the period within which the civil action may be commenced.
 
 #### (3) Initial steps by United States Government to seek remedies
 
@@ -50,7 +50,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (2) United States actions in courts outside the United States
 
-&emsp;The Attorney General is authorized to seek any and all available redress in any international tribunal for indemnification to the United States for any liability imposed on the United States by virtue of the actions of an inspector of the Technical Secretariat, and toseek such redress in the courts of the foreign nation from which the inspector is a national.
+&emsp;The Attorney General is authorized to seek any and all available redress in any international tribunal for indemnification to the United States for any liability imposed on the United States by virtue of the actions of an inspector of the Technical Secretariat, and to seek such redress in the courts of the foreign nation from which the inspector is a national.
 
 #### (3) Actions brought by individuals and businesses
 
@@ -70,7 +70,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 &emsp;&emsp;&emsp;(i) any foreign person, officer, or employee of the Organization, including any member of an inspection team of the Technical Secretariat, for whose actions or omissions the United States has been held liable for a tort or taking pursuant to this chapter; and
 
-&emsp;&emsp;&emsp;(ii) any foreign person or business entity organized and operating under the laws of a foreign nation which knowingly assisted, encouraged or induced, in any way, a foreign person described in clause (i) to publish, divulge, disclose, or make known in any manner or to any extent not authorized by the Convention any United States confidential business information.
+&emsp;&emsp;&emsp;(ii) any foreign person or business entity organized and operating under the laws of a foreign nation which knowingly assisted, encouraged or induced, in any way, a foreign person described in clause (i) to publish, divulge, disclose, or make known inany manner or to any extent not authorized by the Convention any United States confidential business information.
 
 #### (B) Sanctions
 
@@ -80,7 +80,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (ii) Sanctions under Export Administration Act of 1979
 
-&emsp;&emsp;&emsp;The authorities under section 6 of the Export Administration Act of 1979 \[50 U.S.C. 4605\] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act \[50 U.S.C. 4604(c)(1)\] to a person described in subparagraph (A).
+&emsp;&emsp;&emsp;The authorities under section 6 <sup>1</sup> of the Export Administration Act of 1979 shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) <sup>1</sup> of that Act to a person described in subparagraph (A).
 
 #### (iii) International financial assistance
 
@@ -112,7 +112,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (i) Arms export transactions
 
-&emsp;&emsp;&emsp;The United States Government shall not sell a country described in subparagraph\(A) any item on the United States Munitions List, shall terminate sales of any defense articles, defense services, or design and construction services to that country under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], and shall terminate all foreign military financing for that country under the Arms Export Control Act.
+&emsp;&emsp;&emsp;The United States Government shall not sell a country described in subparagraph (A) any item on the United States Munitions List, shall terminate sales of any defense articles, defense services, or design and construction services to that country under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], and shall terminate all foreign military financing for that country under the Arms Export Control Act.
 
 #### (ii) Denial of certain licenses
 
@@ -124,7 +124,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (iv) Sanctions under Export Administration Act of 1979
 
-&emsp;&emsp;&emsp;The authorities of section 6 of the Export Administration Act of 1979 \[50 U.S.C. 4605\] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act \[50 U.S.C. 4604(c)(1)\] to a country described in subparagraph (A).
+&emsp;&emsp;&emsp;The authorities of section 6 <sup>1</sup> of the Export Administration Act of 1979 shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) <sup>1</sup> of that Act to a country described in subparagraph (A).
 
 #### (v) International financial assistance
 
@@ -140,7 +140,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (viii) Private bank transactions
 
-&emsp;&emsp;&emsp;Regulations shall be issued to prohibit any United States bank from making any loan or providing any credit to a country described in subparagraph (A).
+&emsp;&emsp;&emsp;Regulations shall be issued to prohibit any United States bank from making anyloan or providing any credit to a country described in subparagraph (A).
 
 #### (ix) Denial of landing rights
 
@@ -162,7 +162,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 The Secretary of State shall deny a visa to, and the Attorney General shall exclude from the United States any alien who, after October 21, 1998—
 
-&emsp;(1) is, or previously served as, an officer or employee of the Organization and who has willfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any United States confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses <sup>1</sup> or damages to a United States person and for which actions or omissions the United States has been found liable of a tort or taking pursuant to this chapter;
+&emsp;(1) is, or previously served as, an officer or employee of the Organization and who has willfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any United States confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses <sup>2</sup> or damages to a United States person and for which actions or omissions the United States has been found liable of a tort or taking pursuant to this chapter;
 
 &emsp;(2) traffics in United States confidential business information, a proven claim to which is owned by a United States national;
 
@@ -202,11 +202,15 @@ This chapter, referred to in text, was in the original "this Act" and was transl
 
 The Arms Export Control Act, referred to in subsec. (e)(2)(B)(i), (3)(B)(i), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
+The Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), (3)(B)(iv), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Sections 5 and 6 of the Act were classified to sections 4604 and 4605, respectively, of Title 50 prior to repeal.
+
 The Foreign Assistance Act of 1961, referred to in subsec. (e)(3)(B)(vi), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "losses".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "losses".</i>
 

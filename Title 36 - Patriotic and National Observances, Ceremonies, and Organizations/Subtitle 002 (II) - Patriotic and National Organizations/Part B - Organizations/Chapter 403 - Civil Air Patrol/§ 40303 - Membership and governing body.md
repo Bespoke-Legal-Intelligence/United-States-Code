@@ -6,9 +6,9 @@ Membership.—Eligibility for membership in the corporation and the rights and p
 
 (b)
 
-Governing Body.—The Civil Air Patrol has a Board of Governors. The composition and responsibilities of the Board of Governors are set forth in section 9447 of title 10.
+Governing Body.—The Civil Air Patrol has a Board of Governors. The composition and responsibilities of the Board of Governors are set forth in section 9497 of title 10.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1332; Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(b)(2)(A), (B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–300.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1332; Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(b)(2)(A), (B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–300; Pub. L. 115–232, div. A, title VIII, §809(l)(2), Aug. 13, 2018, 132 Stat. 1843.)
 
 Historical and Revision Notes
 
@@ -30,7 +30,13 @@ The words "are as provided in" are substituted for "shall be determined accordin
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b). Pub. L. 115–232 substituted "section 9497 of title 10" for "section 9447 of title 10".
+
 <b>2000</b>—Pub. L. 106–398 inserted "and governing body" after "Membership" in section catchline, designated existing provisions as subsec. (a), inserted subsec. (a) heading, and added subsec. (b).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
 
 #### Effective Date of 2000 Amendment
 

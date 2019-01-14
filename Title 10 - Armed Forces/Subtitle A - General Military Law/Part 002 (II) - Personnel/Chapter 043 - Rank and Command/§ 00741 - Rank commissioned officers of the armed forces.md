@@ -19,7 +19,7 @@
 
 (b) Rank among officers of the same grade or of equivalent grades is determined by comparing dates of rank. An officer whose date of rank is earlier than the date of rank of another officer of the same or equivalent grade is senior to that officer.
 
-(c) Rank among officers of the Army, Navy, Air Force, and Marine Corps of the same gradeor of equivalent grades who have the same date of rank is determined by regulations prescribed by the Secretary of Defense which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
+(c) Rank among officers of the Army, Navy, Air Force, and Marine Corps of the same grade or of equivalent grades who have the same date of rank is determined by regulations prescribed by the Secretary of Defense which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
 
 (d)(1) The date of rank of an officer of the Army, Navy, Air Force, or Marine Corps who holds a grade as the result of an original appointment shall be determined by the Secretary of the military department concerned at the time of such appointment. The date of rank of an officer of the Army, Navy, Air Force, or Marine Corps who holds a grade as the result of an original appointment and who at the time of such appointment was awarded service credit for prior commissioned service or constructive credit for advanced education or training, or special experience shall be determined so as to reflect such prior commissioned service or constructive service. Determinations by the Secretary concerned under this paragraph shall be made under regulations prescribed by the Secretary of Defense which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
 
@@ -127,7 +127,7 @@ Pub. L. 103–337, §1626(1), as amended by Pub. L. 104–106, inserted "or who 
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted "Rear admiral (lower half)" for "Commodore" in table.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–557 struck out "(Navy) and Rear admiral (upper half) (Coast Guard)" after "Rear admiral" and "(Navy) and Rear admiral (lower half) (Coast Guard)" after "Commodore" in table.
+<b>1984</b>—Subsec. (a). Pub. L. 98–557 struck out "(Navy) and Rear admiral (upper half) (Coast Guard)" after"Rear admiral" and "(Navy) and Rear admiral (lower half) (Coast Guard)" after "Commodore" in table.
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–295 substituted "the" for "the the" after "uniformly among".
 
@@ -171,7 +171,7 @@ Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under theamendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
 #### Transfer of Functions
 

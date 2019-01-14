@@ -16,7 +16,7 @@ salaries, officers and employees" may be transferred among and merged with the v
 
 (1) Amounts appropriated for any fiscal year for the House of Representatives under the headings specified in paragraph (2) may be transferred among and merged with such headings, effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer.
 
-(2) The headings referred to in paragraph (1) are "House Leadership Offices", "Members' Representational Allowances", "Committee Employees", "Salaries, Officers and Employees", "Allowances and Expenses", the heading for any joint committee under the heading "Joint Items" (to the extent that amounts appropriated for the joint committee are disbursed bythe Chief Administrative Officer of the House of Representatives), and "Office of the Attending Physician".
+(2) The headings referred to in paragraph (1) are "House Leadership Offices", "Members' Representational Allowances", "Committee Employees", "Salaries, Officers and Employees", "Allowances and Expenses", the heading for any joint committee under the heading "Joint Items" (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), and "Office of the Attending Physician".
 
 #### (d) Transfers to Architect of the Capitol
 
@@ -26,7 +26,11 @@ Amounts appropriated for any fiscal year for the House of Representatives under 
 
 Amounts appropriated for any fiscal year for the House of Representatives under any heading other than the heading "Members' Representational Allowances" may be transferred to the Architect of the Capitol and merged with and made available under the heading "House Historic Buildings Revitalization Trust Fund", subject to the approval of the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 102–392, title I, §101, Oct. 6, 1992, 106 Stat. 1709; Pub. L. 108–7, div. H, title I, §109(a), Feb. 20, 2003, 117 Stat. 355; Pub. L. 111–8, div. G, title I, §§103(a), 105(a), (b), Mar. 11, 2009, 123 Stat. 817, 818; Pub. L. 111–68, div. A, title I, §§104(a), 1304(d), Oct. 1, 2009, 123 Stat. 2029, 2035; Pub. L. 113–76, div. I, title I, §103(a), Jan. 17, 2014, 128 Stat. 422.)
+#### (f) Transfers among House Leadership Offices
+
+Amounts appropriated for any fiscal year for the House of Representatives under the heading "House Leadership Offices" may be transferred among and merged with the various offices and activities under such heading, effective upon theexpiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer.
+
+(Pub. L. 102–392, title I, §101, Oct. 6, 1992, 106 Stat. 1709; Pub. L. 108–7, div. H, title I, §109(a), Feb. 20, 2003, 117 Stat. 355; Pub. L. 111–8, div. G, title I, §§103(a), 105(a), (b), Mar. 11, 2009, 123 Stat. 817, 818; Pub. L. 111–68, div. A, title I, §§104(a), 1304(d), Oct. 1, 2009, 123 Stat. 2029, 2035; Pub. L. 113–76, div. I, title I, §103(a), Jan. 17, 2014, 128 Stat. 422; Pub. L. 115–244, div. B, title I, §119(a), Sept. 21, 2018, 132 Stat. 2930.)
 
 #### Codification
 
@@ -35,6 +39,8 @@ Section was formerly classified to section 95b of this title prior to editorial 
 Section is from the Congressional Operations Appropriations Act, 1993, which is title I of the Legislative Branch Appropriations Act, 1993.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f). Pub. L. 115–244 added subsec. (f).
 
 <b>2014</b>—Subsec. (c)(2). Pub. L. 113–76 substituted " 'Allowances and Expenses', the heading for any joint committee under the heading 'Joint Items' (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), and 'Office of the Attending Physician' " for "and 'Allowances and Expenses' ".
 
@@ -53,6 +59,10 @@ Pub. L. 111–8, §103(a), added subsec. (d).
 Subsec. (e). Pub. L. 111–68, §1304(d), added subsec. (e).
 
 <b>2003</b>—Subsecs. (a), (b), (c)(1). Pub. L. 108–7 substituted "effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer" for "upon approval of the Committee on Appropriations of the House of Representatives".
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–244, div. B, title I, §119(b), Sept. 21, 2018, 132 Stat. 2931, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2019 and each succeeding fiscal year."
 
 #### Effective Date of 2014 Amendment
 

@@ -28,7 +28,7 @@ Composition.—(1) A board appointed under this section shall be composed of at 
 
 &emsp;&emsp;(i) the board shall include at least one officer described in subparagraph (A) and at least one employee of the Department of Defense described in subparagraph (B)(i); and
 
-&emsp;&emsp;(ii) the ratio of such officers to such employees on the board shall be roughly proportional to the ratio of the number of members of the armed forces who are subjects of the board's inquiry to the number of civilians who are subjects of the board's inquiry.
+&emsp;&emsp;(ii) the ratio of such officers to such employees on the board shall be roughly proportional to the ratio of the number of members of the armed forces who are subjects ofthe board's inquiry to the number of civilians who are subjects of the board's inquiry.
 
 (2) The Secretary concerned shall designate one member of a board appointed under this section as president of the board. The president of the board shall have a security clearance that affords the president access to all information relating to the whereabouts and status of each person covered by the inquiry.
 
@@ -50,7 +50,7 @@ Duties of Board.—A board appointed under this section to conduct an inquiry in
 
 &emsp;(3) draw conclusions as to the whereabouts and status of the person;
 
-&emsp;(4) determine on the basis of the activities under paragraphs (1) and (2) whether thestatus of the person should be continued or changed; and
+&emsp;(4) determine on the basis of the activities under paragraphs (1) and (2) whether the status of the person should be continued or changed; and
 
 &emsp;(5) submit to the Secretary concerned a report describing the findings and conclusions of the board, together with a recommendation for a determination by the Secretary concerning the whereabouts and status of the person.
 
@@ -92,7 +92,7 @@ Attendance of Family Members and Certain Other Interested Persons at Proceedings
 
 (h)
 
-Availability of Information to Boards.—(1) In conducting proceedings in an inquiry under this section, a board may secure directly from any department or agency of the United States any information that the board considers necessary in order to conduct the proceedings.
+Availability of Information to Boards.—(1) In conducting proceedings in an inquiry under this section, a board may secure directly from any department or agency of the UnitedStates any information that the board considers necessary in order to conduct the proceedings.
 
 (2) Upon written request from the president of a board, the head of a department or agency of the United States shall release information covered by the request to the board. In releasing such information, the head of the department or agency shall—
 
@@ -108,7 +108,7 @@ Availability of Information to Boards.—(1) In conducting proceedings in an inq
 
 Recommendation on Status.—(1) Upon completion of an inquiry under this section, a board shall make a recommendation as to the current whereabouts and status of each missing person covered by the inquiry.
 
-(2) A board may not recommend under paragraph (1) that a person be declared dead unlessin making the recommendation the board complies with section 1507 of this title.
+(2) A board may not recommend under paragraph (1) that a person be declared dead unless in making the recommendation the board complies with section 1507 of this title.
 
 (j)
 

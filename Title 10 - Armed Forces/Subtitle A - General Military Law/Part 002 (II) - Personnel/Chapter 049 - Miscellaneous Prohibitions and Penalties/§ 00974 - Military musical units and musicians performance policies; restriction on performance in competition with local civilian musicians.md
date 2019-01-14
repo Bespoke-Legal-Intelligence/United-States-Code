@@ -80,7 +80,7 @@ A prior section 974, added Pub. L. 90–235, §6(a)(6)(A), Jan. 2, 1968, 81 Stat
 
 #### Amendments
 
-<b>2017</b>—Subsec. (d)(3). Pub. L. 115–91 struck out par. (3) which read as follows: "Not later than January 30 ofeach year, the Secretary concerned shall submit to Congress a report on any contributions of money, personal property, and services accepted under paragraph (1) during the fiscal year preceding the fiscal year during which the report is submitted."
+<b>2017</b>—Subsec. (d)(3). Pub. L. 115–91 struck out par. (3) which read as follows: "Not later than January 30 of each year, the Secretary concerned shall submit to Congress a report on any contributions of money, personal property, and services accepted under paragraph (1) during the fiscal year preceding the fiscal year during which the report is submitted."
 
 <b>2013</b>—Subsecs. (d) to (f). Pub. L. 113–66 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 

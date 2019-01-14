@@ -98,7 +98,7 @@
 
 #### (B) Solicitation
 
-&emsp;&emsp;Within 90 days after October 17, 1986, and no less often than once every 12 months thereafter, the Administrator shall publish a solicitation for innovative or alternative technologies at a stage of development suitable for full-scale demonstrations at sites at which a response action may be undertaken under section 9604 of this title. The purposeof any such project shall be to demonstrate the use of an alternative or innovative treatment technology with respect to hazardous substances or pollutants or contaminants which are located at the site or which are to be removed from the site. The solicitation notice shall prescribe information to be included in the application, including technical and economic data derived from the applicant's own research and development efforts, and other information sufficient to permit the Administrator to assess the technology's potential and the types of remedial action to which it may be applicable.
+&emsp;&emsp;Within 90 days after October 17, 1986, and no less often than once every 12 months thereafter, the Administrator shall publish a solicitation for innovative or alternative technologies at a stage of development suitable for full-scale demonstrations at sites at which a response action may be undertaken under section 9604 of this title. The purpose of any such project shall be to demonstrate the use of an alternative or innovative treatment technology with respect to hazardous substances or pollutants or contaminants which are located at the site or which are to be removed from the site. The solicitation notice shall prescribe information to be included in the application, including technical and economic data derived from the applicant's own research and development efforts, and other information sufficient to permit the Administrator to assess the technology's potential and the types of remedial action to which it may be applicable.
 
 #### (C) Applications
 
@@ -140,11 +140,11 @@
 
 &emsp;In selecting technologies to be demonstrated under this subsection, the Administrator shall, consistent with the protection of human health and the environment, consider each of the following criteria:
 
-&emsp;&emsp;(A) The potential for contributing to solutions to those waste problems which pose the greatest threat to human health, whichcannot be adequately controlled under present technologies, or which otherwise pose significant management difficulties.
+&emsp;&emsp;(A) The potential for contributing to solutions to those waste problems which pose the greatest threat to human health, which cannot be adequately controlled under present technologies, or which otherwise pose significant management difficulties.
 
 &emsp;&emsp;(B) The availability of technologies which have been sufficiently developed for field demonstration and which are likely to be cost-effective and reliable.
 
-&emsp;&emsp;(C) The availability and suitability of sites for demonstrating such technologies, taking into account the physical, biological, chemical, and geological characteristics of the sites, the extent and type of contamination found at the site, and the capability to conduct demonstration projects in such a manner as to assure the protection of human health and the environment.
+&emsp;&emsp;(C) The availability and suitability of sites for demonstrating such technologies, takinginto account the physical, biological, chemical, and geological characteristics of the sites, the extent and type of contamination found at the site, and the capability to conduct demonstration projects in such a manner as to assure the protection of human health and the environment.
 
 &emsp;&emsp;(D) The likelihood that the data to be generated from the demonstration project at the site will be applicable to other sites.
 

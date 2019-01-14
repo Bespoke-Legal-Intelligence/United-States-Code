@@ -4,7 +4,7 @@
 
 (1) Notwithstanding the laws of the State, if the shareholders of a Native Corporation—
 
-&emsp;(A) fail to approve an amendment authorized by section 1629c(b) of this title to terminate alienability restrictions, a shareholder who voted for the amendment may demand payment from the corporation for all of his or her shares of Settlement Common Stock; or
+&emsp;(A) fail to approve an amendment authorized by section 1629c(b) of this title to terminatealienability restrictions, a shareholder who voted for the amendment may demand payment from the corporation for all of his or her shares of Settlement Common Stock; or
 
 &emsp;(B) approve an amendment authorized by section 1629c(d) of this title to continue alienability restrictions without issuing alienable common stock pursuant to section 1629c(d)(6) of this title, a shareholder who voted against the amendment may demand payment from the corporation for all of his or her shares of Settlement Common Stock.
 

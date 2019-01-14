@@ -48,7 +48,7 @@ It is unlawful to import into the United States any of the following:
 
 &emsp;(2) Any marine mammal product if—
 
-&emsp;&emsp;(A) the importation into the United States of the marine mammal from which such product is made is unlawful under paragraph (1) of this subsection; or
+&emsp;&emsp;(A) the importation into the United States of the marine mammal from which suchproduct is made is unlawful under paragraph (1) of this subsection; or
 
 &emsp;&emsp;(B) the sale in commerce of such product in the country of origin of the product is illegal;
 

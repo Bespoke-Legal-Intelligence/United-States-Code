@@ -28,7 +28,7 @@ Contents of Notice.—Notice of a proposed procurement policy, regulation, proce
 
 &emsp;(1) the text of the proposal or, if it is impracticable to publish the full text of the proposal, a summary of the proposal and a statement specifying the name, address, and telephone number of the officer or employee of the executive agency from whom the full text may be obtained; and
 
-&emsp;(2) a request for interested parties to submit comments on the proposal and the name and address of the officer or employee of the Federal Government designated to receive the comments.
+&emsp;(2) a request for interested parties to submit comments on the proposal and the name andaddress of the officer or employee of the Federal Government designated to receive the comments.
 
 (d)
 

@@ -47,7 +47,7 @@ At or after his retirement, any individual who has elected to receive retired pa
 
 Any individual who—
 
-&emsp;(1) retires under paragraph (1), (2), or (3) of subsection (b) and elects under subsection (e) to receive retired pay under this subsection shall receive retired pay during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period as the number of years he has served as judge bears to 10; except that the rate of such retired pay shall not be more than the rate of such salary for such period; or
+&emsp;(1) retires under paragraph (1), (2), or (3) of subsection (b) and elects under subsection (e) to receive retired pay under this subsection shall receive retired pay during any period ata rate which bears the same ratio to the rate of the salary payable to a judge during such period as the number of years he has served as judge bears to 10; except that the rate of such retired pay shall not be more than the rate of such salary for such period; or
 
 &emsp;(2) retires under paragraph (4) of subsection (b) and elects under subsection (e) to receive retired pay under this subsection shall receive retired pay during any period at a rate—
 
@@ -133,7 +133,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 (1) Any judge who becomes permanently disabled from performing his duties shall certify to the President his disability in writing. If the chief judge retires for disability, his retirement shall not take effect until concurred in by the President. If any other judge retires for disability, he shall furnish to the President a certificate of disability signed by the chief judge.
 
-(2) Whenever any judge who becomes permanently disabled from performing his duties doesnot retire and the President finds that such judge is unable to discharge efficiently all the duties of his office by reason of permanent mental or physical disability and that the appointment of an additional judge is necessary for the efficient dispatch of business, the President shall declare such judge to be retired.
+(2) Whenever any judge who becomes permanently disabled from performing his duties does not retire and the President finds that such judge is unable to discharge efficiently all the duties of his office by reason of permanent mental or physical disability and that the appointment of an additional judge is necessary for the efficient dispatch of business, the President shall declare such judge to be retired.
 
 #### (i) Revocation of election to receive retired pay
 
@@ -207,7 +207,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 &emsp;&emsp;Notwithstanding subparagraph (C), if any judge retires under this section, or resigns without having met the age and service requirements set forth under subsection (b)(2), and such judge's nonforfeitable account balance is less than an amount that the Executive Director of the Federal Retirement Thrift Investment Board prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 880; Pub. L. 89–354, §1, Feb. 2, 1966, 80 Stat. 5; Pub. L. 91–172, title IX, §§954, 960(c), (d), Dec. 30, 1969, 83 Stat. 730, 734; Pub. L. 92–41, §4(a), July 1, 1971, 85 Stat. 99; Pub. L. 95–472, §1, Oct. 17, 1978, 92 Stat. 1332; Pub. L. 97–362, title I, §106(d), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 99–514, title XV, §1557(a), (b), (d), Oct. 22, 1986, 100 Stat. 2756, 2757; Pub. L. 100–647, title I, §1015(k)(1), Nov. 10, 1988, 102 Stat.3571; Pub. L. 109–280, title VIII, §853(a), Aug. 17, 2006, 120 Stat. 1016; Pub. L. 113–295, div. A, title II, §221(a)(115), Dec. 19, 2014, 128 Stat. 4054.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 880; Pub. L. 89–354, §1, Feb. 2, 1966, 80 Stat. 5; Pub. L. 91–172, title IX, §§954, 960(c), (d), Dec. 30, 1969, 83 Stat. 730, 734; Pub. L. 92–41, §4(a), July 1, 1971, 85 Stat. 99; Pub. L. 95–472, §1, Oct. 17, 1978, 92 Stat. 1332; Pub. L. 97–362, title I, §106(d), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 99–514, title XV, §1557(a), (b), (d), Oct. 22, 1986, 100 Stat. 2756, 2757; Pub. L. 100–647, title I, §1015(k)(1), Nov. 10, 1988, 102 Stat. 3571; Pub. L. 109–280, title VIII, §853(a), Aug. 17, 2006, 120 Stat. 1016; Pub. L. 113–295, div. A, title II, §221(a)(115), Dec. 19, 2014, 128 Stat. 4054.)
 
 #### Amendments
 

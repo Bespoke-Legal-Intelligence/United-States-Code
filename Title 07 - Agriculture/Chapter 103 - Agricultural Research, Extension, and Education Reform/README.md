@@ -61,6 +61,8 @@
 | [7655\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007655%20-%20Safe%20food%20handling%20education.md) | Safe food handling education. |
 | [7655a.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007655a%20-%20Food%20safety%20education%20initiatives.md) | Food safety education initiatives. |
 | [7655b.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007655b%20-%20Forestry%20products%20advanced%20utilization%20research.md) | Forestry products advanced utilization research. |
+| [7655c.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007655c%20-%20Clarification%20of%20research%20and%20development%20program%20for%20wood%20building%20construction.md) | Clarification of research and development program for wood building construction. |
+| [7655d.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007655d%20-%20Wood%20innovation%20grant%20program.md) | Wood innovation grant program. |
 | [7656\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007656%20-%20Designation%20of%20Crisis%20Management%20Team%20within%20Department.md) | Designation of Crisis Management Team within Department. |
 | [7657\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007657%20-%20Senior%20Scientific%20Research%20Service.md) | Senior Scientific Research Service. |
 

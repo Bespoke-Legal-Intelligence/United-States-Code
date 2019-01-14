@@ -60,7 +60,7 @@ Contents of guidance.—The guidance required under paragraph (1) shall include 
 
 &emsp;&emsp;"(A) A prioritized list of specified geographic areas that the President determines are necessary to address and an explicit discussion and list of the criteria or rationale used to prioritize the areas on the list, including a discussion of the conditions that would hamper the ability of the United States to strengthen at-risk states or other entities in such areas.
 
-&emsp;&emsp;"(B) For each specified geographic area, a description, analysis, and discussion of the core problems and contributing issues that allow or could allow al-Qaeda and its violent extremist affiliates to use the area as a safe haven from which to plan and launch attacks, engage in propaganda, or raise funds and other support, including any ongoing or potential radicalization of the population, or to use the area as a key transit route for personnel, weapons, funding, or other support.
+&emsp;&emsp;"(B) For each specified geographic area, a description, analysis, and discussion of the core problems and contributing issues that allow or could allow al-Qaeda and its violent extremist affiliates to use the area as a safe haven from which to plan and launch attacks, engage in propaganda, or raisefunds and other support, including any ongoing or potential radicalization of the population, or to use the area as a key transit route for personnel, weapons, funding, or other support.
 
 &emsp;&emsp;"(C) For each specified geographic area, a description of the following:
 
@@ -70,7 +70,7 @@ Contents of guidance.—The guidance required under paragraph (1) shall include 
 
 &emsp;&emsp;&emsp;"(iii) How such programs would be implemented.
 
-&emsp;&emsp;&emsp;"(iv) How such programs would support the national security priorities and interests of theUnited States and complement other efforts of the United States Government in the area and in other specified geographic areas.
+&emsp;&emsp;&emsp;"(iv) How such programs would support the national security priorities and interests of the United States and complement other efforts of the United States Government in the area and in other specified geographic areas.
 
 &emsp;&emsp;"(D) A list of short-term, mid-term, and long-term goals for each specified geographic area, prioritized by importance.
 
@@ -156,5 +156,5 @@ Definitions.—In this section:
 
 #### National Commission on the Future Role of United States Nuclear Weapons, Problems of Command, Control, and Safety of Soviet Nuclear Weapons, and Reduction of Nuclear Weapons
 
-Pub. L. 102–172, title VIII, §8132, Nov. 26, 1991, 105 Stat. 1208, provided for establishment of a National Commission which was to submit to Congress, not later than May 1, 1993, a final report containing an assessment and recommendations regarding role of, and requirements for, nuclear weapons in security strategy of United States as result of significant changes in former Warsaw Pact, former Soviet Union, and Third World, including possibilities for international cooperation with former Soviet Union regarding such problems, and safeguards to protect against accidental or unauthorized use of nuclear weapons, further directed Commission to obtain study from National Academy of Sciences on these matters, further authorized establishment of joint working group comprised of experts from governments of United States and former Soviet Union which was to meet on regular basis and provide recommendations regarding these matters, and further provided for composition of Commission as well as powers, procedures, personnel matters, appropriations, and termination of Commission upon submission of its final report.
+Pub. L. 102–172, title VIII, §8132, Nov. 26, 1991, 105 Stat. 1208, provided for establishment of a National Commission which was to submit to Congress, not later than May 1, 1993, a final report containing an assessment and recommendations regarding role of, and requirements for, nuclear weapons in security strategy ofUnited States as result of significant changes in former Warsaw Pact, former Soviet Union, and Third World, including possibilities for international cooperation with former Soviet Union regarding such problems, and safeguards to protect against accidental or unauthorized use of nuclear weapons, further directed Commission to obtain study from National Academy of Sciences on these matters, further authorized establishment of joint working group comprised of experts from governments of United States and former Soviet Union which was to meet on regular basis and provide recommendations regarding these matters, and further provided for composition of Commission as well as powers, procedures, personnel matters, appropriations, and termination of Commission upon submission of its final report.
 

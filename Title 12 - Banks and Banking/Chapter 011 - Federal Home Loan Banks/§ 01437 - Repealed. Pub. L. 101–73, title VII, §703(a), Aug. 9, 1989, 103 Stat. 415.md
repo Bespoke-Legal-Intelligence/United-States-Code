@@ -46,7 +46,7 @@ Payment by fdic.—Upon the request of the Chairman of the Federal Home Loan Ban
 
 &emsp;&emsp;"(C)
 
-Exclusive source of funds.—No funds or other property of the Federal Home Loan BankBoard or the Federal Savings and Loan Insurance Corporation (other than the FSLIC Resolution Fund) may be used by the Chairman of the Federal Home Loan Bank Board to pay any expense incurred in carrying out any provision of this title \[see Tables for classification\].
+Exclusive source of funds.—No funds or other property of the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation (other than the FSLIC Resolution Fund) may be used by the Chairman of the Federal Home Loan Bank Board to pay any expense incurred in carrying out any provision of this title \[see Tables for classification\].
 
 &emsp;&emsp;"(D)
 
@@ -58,7 +58,7 @@ Authority and Status of Chairman of the Federal Home Loan Bank Board.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding the repeal of section 17 of the Federal Home Loan Bank Act \[12 U.S.C. 1437\] by section 703 of this Act, the repeal of section 402(c) of the National Housing Act \[12 U.S.C. 1725(c)\] by section 407 of this title, the abolishment of the Federal Savings and Loan Insurance Corporation under section 401 of this title, the Chairman of the Federal Home Loan Bank Board shall have any authority vested in the Chairman or the Board before such date of enactment \[Aug. 9, 1989\] which is necessary for the Chairman to carry out the requirements of this section, paragraphs (1) and (2) of section 403(b), and section 405(a) during the 60-day period beginning on such date.
+In general.—Notwithstanding the repeal of section 17 of the Federal Home Loan Bank Act \[12 U.S.C. 1437\] by section 703 of this Act, the repeal ofsection 402(c) of the National Housing Act \[12 U.S.C. 1725(c)\] by section 407 of this title, the abolishment of the Federal Savings and Loan Insurance Corporation under section 401 of this title, the Chairman of the Federal Home Loan Bank Board shall have any authority vested in the Chairman or the Board before such date of enactment \[Aug. 9, 1989\] which is necessary for the Chairman to carry out the requirements of this section, paragraphs (1) and (2) of section 403(b), and section 405(a) during the 60-day period beginning on such date.
 
 &emsp;"(2)
 
@@ -144,11 +144,11 @@ In general.—No action or other proceeding commenced by or against the Federal 
 
 Continuation of Orders, Resolutions, Determinations, and Regulations.—Subject to section 402, all orders, resolutions, determinations, and regulations, which—
 
-&emsp;"(1) have been issued, made, prescribed, or allowed to become effective by the Federal Savings and Loan Insurance Corporation or the Federal Home LoanBank Board (including orders, resolutions, determinations, and regulations which relate to the conduct of conservatorships and receiverships), or by a court of competent jurisdiction, in the performance of functions which are transferred by this Act \[see Tables for classification\]; and
+&emsp;"(1) have been issued, made, prescribed, or allowed to become effective by the Federal Savings and Loan Insurance Corporation or the Federal Home Loan Bank Board (including orders, resolutions, determinations, and regulations which relate to the conduct of conservatorships and receiverships), or by a court of competent jurisdiction, in the performance of functions which are transferred by this Act \[see Tables for classification\]; and
 
 &emsp;"(2) are in effect on the date this Act takes effect \[Aug. 9, 1989\],
 
-> shall continue in effect according to the terms of such orders, resolutions, determinations, and regulations and shall be enforceable by or against the Director of the Office of Thrift Supervision, the Federal Deposit Insurance Corporation, the Federal Housing Finance Board, or the Resolution Trust Corporation, as the case may be, until modified, terminated, set aside, or superseded in accordance with applicable law by the Director of the Office of Thrift Supervision, the Federal Deposit Insurance Corporation, the Federal Housing Finance Board, or the Resolution Trust Corporation, as the case may be, by any court of competent jurisdiction, or by operation of law.
+> shall continue in effect according to the terms of such orders, resolutions, determinations, and regulations and shall be enforceable by or against the Director of the Office of Thrift Supervision, the Federal Deposit Insurance Corporation, the Federal Housing Finance Board, or the Resolution Trust Corporation, as the case may be, until modified, terminated, set aside, or superseded in accordance with applicable law by the Director of the Office of Thrift Supervision, the Federal Deposit Insurance Corporation, the Federal Housing Finance Board, or the Resolution Trust Corporation, as the casemay be, by any court of competent jurisdiction, or by operation of law.
 
 "(i)
 
@@ -302,7 +302,7 @@ FSLIC Employees Engaged in Conservatorship or Receivership Functions.—Individu
 
 &emsp;"(4) If any agency or entity to which employees are transferred determines, after the end of the 1-year period beginning on the date the transfer of functions to such agency or entity is completed, that a reorganization of the combined work force is required, that reorganization shall be deemed a 'major reorganization' for purposes of affording affected employees retirement under section 8336(d)(2) or 8414(b)(1)(B) of title 5, United States Code.
 
-&emsp;"(5) Any employee accepting employment with any agency or entity (other than the Office of Thrift Supervision) as a result of such transfer may retain for 1 year after the date such transfer occurs membership in any employee benefit program of the Federal Home Loan Bank Board, including insurance, to which such employee belongs on the date of the enactment of this Act \[Aug. 9, 1989\] if—
+&emsp;"(5) Any employee accepting employment with any agency or entity (other than the Office of Thrift Supervision) as a result of such transfer may retain for 1 year after the date such transfer occurs membership in any employee benefit program of the Federal Home Loan Bank Board, including insurance, towhich such employee belongs on the date of the enactment of this Act \[Aug. 9, 1989\] if—
 
 &emsp;&emsp;"(A) the employee does not elect to give up the benefit or membership in the program; and
 
@@ -512,7 +512,7 @@ Appearance.—The Federal Home Loan Bank Board and the Federal Savings and Loan 
 
 "(d)
 
-Guidelines for Employment of Outside Accountants, Attorneys, Conservators, and Other Consultants.—Before the end of the 6-month period beginning on the date of the enactment of this Act \[Aug. 10, 1987\], the Federal Home Loan Bank Board shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing guidelines to improve the management of and control over all outside accountants, attorneys, conservators, consultants, andother persons whose services are employed by the Board, the Federal Savings and Loan Insurance Corporation, the Federal Asset Disposition Association, the principal supervisory agent for any Federal home loan bank district, or any other entity created, owned, or controlled by the Board in connection with any function for which the Board has direct or indirect regulatory or supervisory responsibility."
+Guidelines for Employment of Outside Accountants, Attorneys, Conservators, and Other Consultants.—Before the end of the 6-month period beginning on the date of the enactment of this Act \[Aug. 10, 1987\], the Federal Home Loan Bank Board shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing guidelines to improve the management of and control over all outside accountants, attorneys, conservators, consultants, and other persons whose services are employed by the Board, the Federal Savings and Loan Insurance Corporation, the Federal Asset Disposition Association, the principal supervisory agent for any Federal home loan bank district, or any other entity created, owned, or controlled by the Board in connection with any function for which the Board has direct or indirect regulatory or supervisory responsibility."
 
 #### Study and Reports Concerning Direct Investments
 

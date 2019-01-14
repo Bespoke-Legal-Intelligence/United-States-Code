@@ -10,7 +10,7 @@ As used in this section—
 
 &emsp;(1) The term "refrigerant" means any class I or class II substance used in a motor vehicle air conditioner. Effective 5 years after November 15, 1990, the term "refrigerant" shall also include any substitute substance.
 
-&emsp;(2)(A) The term "approved refrigerant recycling equipment" means equipment certified by the Administrator (or an independent standards testing organization approved by the Administrator) to meet the standards established by the Administrator and applicableto equipment for the extraction and reclamation of refrigerant from motor vehicle air conditioners. Such standards shall, at a minimum, be at least as stringent as the standards of the Society of Automotive Engineers in effect as of November 15, 1990, and applicable to such equipment (SAE standard J–1990).
+&emsp;(2)(A) The term "approved refrigerant recycling equipment" means equipment certified by the Administrator (or an independent standards testing organization approved by the Administrator) to meet the standards established by the Administrator and applicable to equipment for the extraction and reclamation of refrigerant from motor vehicle air conditioners. Such standards shall, at a minimum, be at least as stringent as the standards of the Society of Automotive Engineers in effect as of November 15, 1990, and applicable to such equipment (SAE standard J–1990).
 
 &emsp;(B) Equipment purchased before the proposal of regulations under this section shall be considered certified if it is substantially identical to equipment certified as provided in subparagraph (A).
 

@@ -4,7 +4,7 @@
 
 General Authority.—The Secretary of Defense may—
 
-&emsp;(1) establish, as positions in the excepted service, such defense intelligence positions inthe Department of Defense as the Secretary determines necessary to carry out the intelligence functions of the Department, including—
+&emsp;(1) establish, as positions in the excepted service, such defense intelligence positions in the Department of Defense as the Secretary determines necessary to carry out the intelligence functions of the Department, including—
 
 &emsp;&emsp;(A) Intelligence Senior Level positions designated under section 1607 of this title; and
 
@@ -58,7 +58,7 @@ Suspension of Certain Pay Authority.—Effective with respect to amounts paid du
 
 "(b)
 
-Response to GAO Report.—Not later than 3 months after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional oversight committees a written description of any actions taken or proposed to be taken by such Secretary in response to the review and recommendations of the Government Accountability Office regarding the Defense Civilian Intelligence Personnel System.
+Response to GAO Report.—Not later than 3 months after the date of the enactment of this Act, theSecretary of Defense shall submit to the congressional oversight committees a written description of any actions taken or proposed to be taken by such Secretary in response to the review and recommendations of the Government Accountability Office regarding the Defense Civilian Intelligence Personnel System.
 
 "(c)
 

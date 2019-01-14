@@ -1,4 +1,4 @@
-### §2410s. Security clearances for facilities of certain companies.
+### §2410s. Security clearances for facilities of certain companies
 
 (a)
 
@@ -16,5 +16,9 @@ Authority.—If the senior management official of a covered company does not hav
 
 Covered Company.—In this section, the term "covered company" means a company that has entered into a contract or agreement with the Department of Defense, assists the Department, or requires a facility to process classified information.
 
-(Added Pub. L. 115–91, div. A, title XVI, §1621(a), Dec. 12, 2017, 131 Stat. 1732.)
+(Added Pub. L. 115–91, div. A, title XVI, §1621(a), Dec. 12, 2017, 131 Stat. 1732; amended Pub. L. 115–232, div. A, title X, §1081(a)(23), Aug. 13, 2018, 132 Stat. 1984.)
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–232 struck out period at end of section catchline.
 

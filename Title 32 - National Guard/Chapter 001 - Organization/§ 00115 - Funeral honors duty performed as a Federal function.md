@@ -24,7 +24,7 @@ Reimbursable Expenses.—A member who performs funeral honors duty under this se
 
 Regulations.—The exercise of authority under subsection (a) is subject to regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 106–65, div. A, title V, §578(g)(2), Oct. 5, 1999, 113 Stat. 627; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §575(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107, div. A, title V, §562(b), Dec. 28, 2001, 115 Stat. 1119; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Added Pub. L. 106–65, div. A, title V, §578(g)(2), Oct. 5, 1999, 113 Stat. 627; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §575(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107, div. A, title V, §562(b), Dec. 28, 2001, 115 Stat.1119; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 

@@ -12,7 +12,7 @@ Congress makes the following findings:
 
 &emsp;(4) In 1997, the Group of Seven, the World Bank, and the International Monetary Fund adopted the Heavily Indebted Poor Countries Initiative (HIPC), a commitment by the international community that all multilateral and bilateral creditors, acting in a coordinated and concerted fashion, would reduce poor country debt to a sustainable level.
 
-&emsp;(5) The HIPC Initiative is currently undergoing reforms to address concerns raised aboutcountry conditionality, the amount of debt forgiven, and the allocation of savings realized through the debt forgiveness program to ensure that the Initiative accomplishes the goals of economic growth and poverty alleviation in the world's poorest countries.
+&emsp;(5) The HIPC Initiative is currently undergoing reforms to address concerns raised about country conditionality, the amount of debt forgiven, and the allocation of savings realized through the debt forgiveness program to ensure that the Initiative accomplishes the goals of economic growth and poverty alleviation in the world's poorest countries.
 
 #### (b) Sense of the Congress
 

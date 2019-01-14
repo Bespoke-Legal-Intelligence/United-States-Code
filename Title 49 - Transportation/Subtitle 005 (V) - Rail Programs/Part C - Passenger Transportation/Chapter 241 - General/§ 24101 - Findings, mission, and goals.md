@@ -12,7 +12,7 @@ Findings.—(1) Public convenience and necessity require that Amtrak, to the ext
 
 (5) Modern and efficient commuter rail passenger transportation is important to the viability and well-being of major urban areas and to the energy conservation and self-sufficiency goals of the United States.
 
-(6) As a rail passenger transportation entity, Amtrak should be available to operate commuter rail passenger transportation through its subsidiary, Amtrak Commuter, under contract with commuter authorities that do not provide the transportation themselves as part of the governmental function of the State.
+(6) As a rail passenger transportation entity, Amtrak should be available to operate commuter rail passenger transportation through itssubsidiary, Amtrak Commuter, under contract with commuter authorities that do not provide the transportation themselves as part of the governmental function of the State.
 
 (7) The Northeast Corridor is a valuable resource of the United States used by intercity and commuter rail passenger transportation and freight transportation.
 
@@ -110,7 +110,7 @@ In subsection (c), before clause (1), the words "Amtrak shall" are substituted f
 
 #### References in Text
 
-Section 204 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (d), is section 204 of Pub. L. 110–432, which was set out in a note below, prior to repeal by Pub. L. 114–94, div. A, title XI, §11203(d), Dec. 4, 2015, 129 Stat. 1634.
+Section 204 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (d), is section 204 of Pub. L. 110–432, which was set out in a notebelow, prior to repeal by Pub. L. 114–94, div. A, title XI, §11203(d), Dec. 4, 2015, 129 Stat. 1634.
 
 #### Amendments
 
@@ -214,11 +214,11 @@ Amtrak Principal and Interest Payments.—
 
 &emsp;"(1)
 
-Principal on debt service.—Unless the Secretary of the Treasury makes sufficient payments to creditors under subsection (d) so that Amtrak is required to make no payments to creditors in a fiscal year, the Secretary \[of Transportation\] shall use funds authorized for the use of Amtrak for retirement of principal or payment of interest on loans for capital equipment, or capital leases.
+Principal on debt service.—Unless the Secretary of the Treasury makes sufficient payments tocreditors under subsection (d) so that Amtrak is required to make no payments to creditors in a fiscal year, the Secretary \[of Transportation\] shall use funds authorized for the use of Amtrak for retirement of principal or payment of interest on loans for capital equipment, or capital leases.
 
 &emsp;"(2)
 
-Reductions in authorization levels.—Whenever action taken by the Secretary of the Treasuryunder subsection (a) results in reductions in amounts of principal or interest that Amtrak must service on existing debt, the corresponding amounts authorized for Amtrak shall be reduced accordingly.
+Reductions in authorization levels.—Whenever action taken by the Secretary of the Treasury under subsection (a) results in reductions in amounts of principal or interest that Amtrak must service on existing debt, the corresponding amounts authorized for Amtrak shall be reduced accordingly.
 
 "(f)
 
@@ -294,7 +294,7 @@ In General.—Within 2 years after the date of enactment of this Act \[Oct. 16, 
 
 &emsp;"(1) ensures, within 5 years after the date of enactment of this Act, equal treatment in the provision of like services of all States and groups of States (including the District of Columbia); and
 
-&emsp;"(2) allocates to each route the costs incurred only for the benefit of that route and a proportionate share, based upon factors that reasonably reflect relative use, of costs incurred for the common benefit of more than 1 route.
+&emsp;"(2) allocates to each route the costs incurred only for the benefit of that route and a proportionateshare, based upon factors that reasonably reflect relative use, of costs incurred for the common benefit of more than 1 route.
 
 "(b)
 
@@ -304,7 +304,7 @@ Review.—If Amtrak and the States (including the District of Columbia) in which
 
 Use of Chapter 244
 
-Funds.—Funds provided to a State under chapter 244 of title 49, United States Code, may be used, as provided in that chapter, to pay capital costs determined in accordance with this section."
+Funds.—Funds provided to a State under chapter 244 \[now 229\] of title 49, United States Code, may be used, as provided in that chapter, to pay capital costs determined in accordance with this section."
 
 #### On-Board Service Improvements
 
@@ -342,7 +342,7 @@ Cooperative Agreements.—Amtrak and States participating in the Committee may e
 
 "(d)
 
-Funding.—In addition to the authorizations provided in this section, capital projects to carry out the purposes of this section shall be eligible for grants made pursuant to chapter 244 of title 49, United States Code.
+Funding.—In addition to the authorizations provided in this section, capital projects to carry out the purposes of this section shall be eligible for grants made pursuant to chapter 244 \[now 229\] of title 49, United States Code.
 
 "(e)
 
@@ -388,7 +388,7 @@ Pub. L. 105–134, §2, Dec. 2, 1997, 111 Stat. 2571, provided that: "The Congre
 
 #### Fiscal Accountability
 
-Pub. L. 105–134, title II, §§202–205, Dec. 2, 1997, 111 Stat. 2578–2582, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–432, div. B, title II, §218(a)(2), Oct. 16, 2008, 122 Stat. 4930, provided that:
+Pub. L. 105–134, title II, §§202–205, Dec. 2, 1997, 111 Stat. 2578–2582, as amended by Pub. L. 108–271, §8(b),July 7, 2004, 118 Stat. 814; Pub. L. 110–432, div. B, title II, §218(a)(2), Oct. 16, 2008, 122 Stat. 4930, provided that:
 
 #### "SEC. 202. INDEPENDENT ASSESSMENT.
 
@@ -510,7 +510,7 @@ Meetings.—Each meeting of the Council, other than a meeting at which proprieta
 
 "(f)
 
-Access to Information.—Amtrak shall make available to the Council all information the Council requires to carry out its duties under this section. The Council shall establish appropriate procedures to ensure against the public disclosure of any information obtained under this subsection that is a trade secret or commercial or financial information that is privileged or confidential.
+Access to Information.—Amtrak shall make available to the Council all information the Council requires to carry out its duties under this section. The Council shall establish appropriate procedures to ensure against the public disclosure of any informationobtained under this subsection that is a trade secret or commercial or financial information that is privileged or confidential.
 
 "(g)
 

@@ -2,11 +2,15 @@
 
 The Retired Reserve consists of the following Reserves:
 
-&emsp;(1) Reserves who are or have been retired under section 3911, 6323, or 8911 of this title or under section 291 of title 14.
+&emsp;(1) Reserves who are or have been retired under section 7311, 8323, or 9311 of this title or under section 291 <sup>1</sup> of title 14.
 
 &emsp;(2) Reserves who have been transferred to the Retired Reserve, retain their status as Reserves, and are otherwise qualified.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2975; amended Pub. L. 107–107, div. A, title V, §517(a), Dec. 28, 2001, 115 Stat. 1094.)
+(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2975; amended Pub. L. 107–107, div. A, title V, §517(a), Dec. 28, 2001, 115 Stat. 1094; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+
+#### References in Text
+
+Section 291 of title 14, referred to in par. (1), was redesignated section 2152 of title 14 by Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216, and references to section 291 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 #### Prior Provisions
 
@@ -14,7 +18,13 @@ Provisions similar to those in this section were contained in section 274 of thi
 
 #### Amendments
 
+<b>2018</b>—Par. (1). Pub. L. 115–232 substituted "section 7311, 8323, or 9311" for "section 3911, 6323, or 8911".
+
 <b>2001</b>—Par. (2). Pub. L. 107–107 struck out "upon their request" after "Retired Reserve".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2001 Amendment
 
@@ -43,4 +53,6 @@ Effect on Commissary and Exchange Benefits.—The issuance of a military identif
 "(d)
 
 Limitation on Color and Format.—The Secretary shall ensure that the color and format in which a military identification card is issued under subsection (a) is not similar to the color and format in which a military identification card is issued by the Department of Defense to individuals other than members described in subsection (b)."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

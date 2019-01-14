@@ -1,6 +1,6 @@
 ### §5058. Eligibility for other benefits
 
-Notwithstanding any other provision of law, no payment for supportive services or reimbursement of out-of-pocket expenses made to persons serving pursuant to subchapter II of this chapter shall be subject to any tax or charge or be treated as wages or compensation for the purposes of unemployment, temporary disability, retirement, public assistance, workers' compensation, or similar benefit payments, or minimum wage laws. This section shall become effective with respect to all payments made after October 1, 1973.
+Notwithstanding any other provision of law, no payment for supportive services or reimbursement of out-of-pocket expenses made to persons serving pursuant to subchapter II of thischapter shall be subject to any tax or charge or be treated as wages or compensation for the purposes of unemployment, temporary disability, retirement, public assistance, workers' compensation, or similar benefit payments, or minimum wage laws. This section shall become effective with respect to all payments made after October 1, 1973.
 
 (Pub. L. 93–113, title IV, §418, Oct. 1, 1973, 87 Stat. 413; Pub. L. 96–143, §18(a)(2), Dec. 13, 1979, 93 Stat. 1083; Pub. L. 98–288, §24, May 21, 1984, 98 Stat. 196.)
 

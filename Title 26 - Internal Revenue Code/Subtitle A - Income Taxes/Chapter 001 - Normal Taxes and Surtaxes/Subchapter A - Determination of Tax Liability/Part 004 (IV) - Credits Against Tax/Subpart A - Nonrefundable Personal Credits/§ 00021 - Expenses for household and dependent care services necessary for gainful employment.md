@@ -156,7 +156,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) if such person is an organization described in section 501(c)(3) and exempt from tax under section 501(a), the name and address of such person are included on the return claiming the credit.
 
-> &emsp;In the case of a failure to provide the information required under the preceding sentence, the preceding sentence shall not apply if it is shown that the taxpayer exercised due diligence in attempting to provide the information so required.
+> &emsp;In the case of a failure to provide the information required under the preceding sentence, the preceding sentence shall not apply if it isshown that the taxpayer exercised due diligence in attempting to provide the information so required.
 
 #### (10) Identifying information required with respect to qualifying individuals
 
@@ -166,7 +166,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added Pub. L. 94–455, title V, §504(a)(1), Oct. 4, 1976, 90 Stat. 1563, §44A; amended Pub. L. 95–600, title I, §121(a), Nov. 6, 1978, 92 Stat. 2779; Pub. L. 97–34, title I §124 (a)–(d), Aug. 13, 1981, 95 Stat. 197, 198; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §21 and amendedPub. L. 98–369, div. A, title IV, §§423(c)(4), 471(c), 474(c), July 18, 1984, 98 Stat. 801, 826, 830; Pub. L. 99–514, title I, §104(b)(1), Oct. 22, 1986, 100 Stat. 2104; Pub. L. 100–203, title X, §10101(a), Dec. 22, 1987, 101 Stat. 1330–384; Pub. L. 100–485, title VII, §703(a)–(c)(1), Oct. 13, 1988, 102 Stat. 2426, 2427; Pub. L. 104–188, title I, §1615(b), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 107–16, title II, §204(a), (b), June 7, 2001, 115 Stat. 49; Pub. L. 107–147, title IV, §418(b), Mar. 9, 2002, 116 Stat. 57; Pub. L. 108–311, title II, §§203, 207(2), (3), Oct. 4, 2004, 118 Stat. 1175, 1177; Pub. L. 109–135, title IV, §404(b), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 110–172, §11(a)(1), Dec. 29, 2007, 121 Stat. 2484.)
+(Added Pub. L. 94–455, title V, §504(a)(1), Oct. 4, 1976, 90 Stat. 1563, §44A; amended Pub. L. 95–600, title I, §121(a), Nov. 6, 1978, 92 Stat. 2779; Pub. L. 97–34, title I §124 (a)–(d), Aug. 13, 1981, 95 Stat. 197, 198; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §21 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(4), 471(c), 474(c), July 18, 1984, 98 Stat. 801, 826, 830; Pub. L. 99–514, title I, §104(b)(1), Oct. 22, 1986, 100 Stat. 2104; Pub. L. 100–203, title X, §10101(a), Dec. 22, 1987, 101 Stat. 1330–384; Pub. L. 100–485, title VII, §703(a)–(c)(1), Oct. 13, 1988, 102 Stat. 2426, 2427; Pub. L. 104–188, title I, §1615(b), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 107–16, title II, §204(a), (b), June 7, 2001, 115 Stat. 49; Pub. L. 107–147, title IV, §418(b), Mar. 9, 2002, 116 Stat. 57; Pub. L. 108–311, title II, §§203, 207(2), (3), Oct. 4, 2004, 118 Stat. 1175, 1177; Pub. L. 109–135, title IV, §404(b), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 110–172, §11(a)(1), Dec. 29, 2007, 121 Stat. 2484.)
 
 #### Prior Provisions
 
@@ -346,7 +346,7 @@ Pub. L. 95–600, title I, §121(b), Nov. 6, 1978, 92 Stat. 2779, provided that:
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1975, see section 508 of Pub. L. 94–455, set out asan Effective Date of 1976 Amendment note under section 3 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1975, see section 508 of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 3 of this title.
 
 #### Program To Increase Public Awareness
 

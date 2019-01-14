@@ -22,7 +22,7 @@ Laboratory Revitalization.—(1) For the revitalization and recapitalization of 
 
 &emsp;(A) from appropriations available to the Secretary concerned for operation and maintenance, amounts necessary to carry out an unspecified minor military construction project costing not more than $6,000,000, notwithstanding subsection (c); or
 
-&emsp;(B) from appropriations available to the Secretary concerned for military construction not otherwise authorized by law or from funds authorized to be made available section <sup>1</sup> 2363(a) of this title, amounts necessary to carry outan unspecified minor military construction project costing not more than $6,000,000.
+&emsp;(B) from appropriations available to the Secretary concerned for military construction not otherwise authorized by law or from funds authorized to be made available section <sup>1</sup> 2363(a)of this title, amounts necessary to carry out an unspecified minor military construction project costing not more than $6,000,000.
 
 (2) For purposes of this subsection, an unspecified minor military construction project is a military construction project that (notwithstanding subsection (a)) has an approved cost equal to or less than $6,000,000.
 

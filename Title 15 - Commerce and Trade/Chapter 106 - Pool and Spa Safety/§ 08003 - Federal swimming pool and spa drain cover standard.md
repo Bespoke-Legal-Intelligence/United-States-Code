@@ -42,7 +42,7 @@ Effective 1 year after December 19, 2007, each swimming pool or spa drain cover 
 
 #### (VI) Other systems
 
-&emsp;&emsp;&emsp;&emsp;Any other system determined by the Commission to be equally effective as, or better than, the systems described in subclauses (I) through (V) of this clause at preventing or eliminating the risk of injury or death associated with pool drainage systems.
+&emsp;&emsp;&emsp;&emsp;Any other system determined by the Commission to be equally effective as, orbetter than, the systems described in subclauses (I) through (V) of this clause at preventing or eliminating the risk of injury or death associated with pool drainage systems.
 
 #### (B) Applicable standards
 

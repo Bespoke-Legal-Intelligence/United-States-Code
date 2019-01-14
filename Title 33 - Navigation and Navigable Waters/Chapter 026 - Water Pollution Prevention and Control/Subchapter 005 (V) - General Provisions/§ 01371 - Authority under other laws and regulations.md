@@ -2,7 +2,7 @@
 
 #### (a) Impairment of authority or functions of officials and agencies; treaty provisions
 
-This chapter shall not be construed as (1) limiting the authority or functions of any officer oragency of the United States under any other law or regulation not inconsistent with this chapter; (2) affecting or impairing the authority of the Secretary of the Army (A) to maintain navigation or (B) under the Act of March 3, 1899, (30 Stat. 1112); except that any permit issued under section 1344 of this title shall be conclusive as to the effect on water quality of any discharge resulting from any activity subject to section 403 of this title, or (3) affecting or impairing the provisions of any treaty of the United States.
+This chapter shall not be construed as (1) limiting the authority or functions of any officer or agency of the United States under any other law or regulation not inconsistent with this chapter; (2) affecting or impairing the authority of the Secretary of the Army (A) to maintain navigation or (B) under the Act of March 3, 1899, (30 Stat. 1112); except that any permit issued under section 1344 of this title shall be conclusive as to the effect on water quality of any discharge resulting from any activity subject to section 403 of this title, or (3) affecting or impairing the provisions of any treaty of the United States.
 
 #### (b) Discharges of pollutants into navigable waters
 
@@ -16,7 +16,7 @@ Discharges of pollutants into the navigable waters subject to the Rivers and Har
 
 &emsp;(A) authorize any Federal agency authorized to license or permit the conduct of any activity which may result in the discharge of a pollutant into the navigable waters to review any effluent limitation or other requirement established pursuant to this chapter or the adequacy of any certification under section 1341 of this title; or
 
-&emsp;(B) authorize any such agency to impose, as a condition precedent to the issuance of any license or permit, any effluent limitation other than any such limitation established pursuant to this chapter.
+&emsp;(B) authorize any such agency to impose, as a condition precedent to the issuance of anylicense or permit, any effluent limitation other than any such limitation established pursuant to this chapter.
 
 #### (d) Consideration of international water pollution control agreements
 

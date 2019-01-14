@@ -6,7 +6,7 @@ Whenever benefit amounts under subchapter II are increased by any percentage eff
 
 &emsp;(1) each of the dollar amounts in effect for such month under subsections (a)(1)(A), (a)(2)(A), (b)(1), and (b)(2) of section 1382 of this title, and subsection (a)(1)(A) of section 211 of Public Law 93–66, as specified in such subsections or as previously increased under this section, shall be increased by the amount (if any) by which—
 
-&emsp;&emsp;(A) the amount which would have been in effect for such month under such subsection but for the rounding of such amount pursuant to paragraph (2), exceeds
+&emsp;&emsp;(A) the amount which would have been in effect for such month under such subsectionbut for the rounding of such amount pursuant to paragraph (2), exceeds
 
 &emsp;&emsp;(B) the amount in effect for such month under such subsection; and
 
@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 98–21, §401(a)(2), substituted "subsection (a) of this s
 
 Subsec. (c). Pub. L. 98–21, §401(a)(1), added subsec. (c).
 
-<b>1982</b>—Pub. L. 97–248 redesignated existing provisions as subsec. (a), revised method of computation into pars. (1) and (2) and among other changes increased base forrounding-off from a multiple of $1.20 to a multiple of $12.00, and struck out provisions relating to publication of increased dollar amounts in the Federal Register, and added subsec. (b).
+<b>1982</b>—Pub. L. 97–248 redesignated existing provisions as subsec. (a), revised method of computation into pars. (1) and (2) and among other changes increased base for rounding-off from a multiple of $1.20 to a multiple of $12.00, and struck out provisions relating to publication of increased dollar amounts in the Federal Register, and added subsec. (b).
 
 #### Effective Date of 1982 Amendment
 

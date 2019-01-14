@@ -4,7 +4,7 @@ Section, Pub. L. 102–511, title I, §104, Oct. 24, 1992, 106 Stat. 3324; Pub. 
 
 #### Restrictions on Assistance for New Independent States of Former Soviet Union; Report to Congress
 
-Pub. L. 103–87, title V, §560(g), Sept. 30, 1993, 107 Stat. 967, which related to restrictions on availability offunds to new independent states of the former Soviet Union and Secretary of State's annual report, was repealed by Pub. L. 112–74, div. I, title VII, §7034(n), Dec. 23, 2011, 125 Stat. 1217.
+Pub. L. 103–87, title V, §560(g), Sept. 30, 1993, 107 Stat. 967, which related to restrictions on availability of funds to new independent states of the former Soviet Union and Secretary of State's annual report, was repealed by Pub. L. 112–74, div. I, title VII, §7034(n), Dec. 23, 2011, 125 Stat. 1217.
 
 Similar provisions relating to nonavailability of funds to any government of the new independent states of the former Soviet Union if that government directs any action in violation of the territorial integrity or national sovereignty of any other new independent state, were contained in the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2006, Pub. L. 109–102, title V, §517(a), Nov. 14, 2005, 119 Stat. 2201, and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
 

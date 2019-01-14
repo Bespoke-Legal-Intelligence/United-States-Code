@@ -36,7 +36,7 @@
 
 #### (A) Determination of payment amounts
 
-&emsp;&emsp;Determining (subject to the provisions of section 1395oo of this title and to such review by the Secretary as may be provided for by the contracts) the amount of the payments required pursuant to this subchapter to be made to providers of services, suppliers and individuals.
+&emsp;&emsp;Determining (subject to the provisions of section 1395oo of this title and to such reviewby the Secretary as may be provided for by the contracts) the amount of the payments required pursuant to this subchapter to be made to providers of services, suppliers and individuals.
 
 #### (B) Making payments
 
@@ -74,7 +74,7 @@
 
 #### (B) Construction
 
-&emsp;&emsp;An entity shall not be treated as a medicare administrative contractor merely by reason of having entered into a contractwith the Secretary under section 1395ddd of this title.
+&emsp;&emsp;An entity shall not be treated as a medicare administrative contractor merely by reason of having entered into a contract with the Secretary under section 1395ddd of this title.
 
 #### (6) Application of Federal Acquisition Regulation
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;&emsp;The incentives provided for under clause (ii)—
 
-&emsp;&emsp;&emsp;&emsp;(I) may include a sliding scale of award fee payments and additional incentives to medicare administrative contractors that either reduce the improper payment rates in their jurisdictions to certain thresholds, as determined by the Secretary, or accomplish tasks, as determined by the Secretary, that further improve payment accuracy; and
+&emsp;&emsp;&emsp;&emsp;(I) may include a sliding scale of award fee payments and additional incentives to medicare administrative contractorsthat either reduce the improper payment rates in their jurisdictions to certain thresholds, as determined by the Secretary, or accomplish tasks, as determined by the Secretary, that further improve payment accuracy; and
 
 &emsp;&emsp;&emsp;&emsp;(II) may include substantial reductions in award fee payments under cost-plus-award-fee contracts, for medicare administrative contractors that reach an upper end improper payment rate threshold or other threshold as determined by the Secretary, or fail to accomplish tasks, as determined by the Secretary, that further improve payment accuracy.
 
@@ -202,7 +202,7 @@
 
 #### (B) Conditions
 
-&emsp;&emsp;The Secretary may not provide indemnification under subparagraph (A) insofar as the liability for such costs arises directly from conduct that is determined by the judicial proceeding or by the Secretary to be criminal in nature, fraudulent, or grossly negligent. If indemnification is provided by the Secretary with respect to a contractor before a determination that such costs arose directly from such conduct, the contractorshall reimburse the Secretary for costs of indemnification.
+&emsp;&emsp;The Secretary may not provide indemnification under subparagraph (A) insofar as the liability for such costs arises directly from conduct that is determined by the judicial proceeding or by the Secretary to be criminal in nature, fraudulent, or grossly negligent. If indemnification is provided by the Secretary with respect to a contractor before a determination that such costs arose directly from such conduct, the contractor shall reimburse the Secretary for costs of indemnification.
 
 #### (C) Scope of indemnification
 
@@ -232,7 +232,7 @@
 
 &emsp;&emsp;Each year a medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) (relating to determining and making payments) shall undergo an evaluation of the information security of the contractor with respect to such functions under this subchapter. The evaluation shall—
 
-&emsp;&emsp;&emsp;(i) be performed by an entity that meets such requirements for independence as the Inspector General of the Department of Health and Human Services may establish; and
+&emsp;&emsp;&emsp;(i) be performed by an entity that meets such requirements for independence as theInspector General of the Department of Health and Human Services may establish; and
 
 &emsp;&emsp;&emsp;(ii) test the effectiveness of information security control techniques of an appropriate subset of the contractor's information systems (as defined in section 3502(8) of title 44) relating to such functions under this subchapter and an assessment of compliance with the requirements of this subsection and related information security policies, procedures, standards and guidelines, including policies and procedures as may be prescribed by the Director of the Office of Management and Budget and applicable information security standards promulgated under section 11331 of title 40.
 
@@ -296,7 +296,7 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 #### (ii) Evaluation
 
-&emsp;&emsp;&emsp;In conducting evaluations of individual medicare administrative contractors, the Secretary shall take into account the results of the monitoring conducted under subparagraph (A) taking into account as performance requirements the standards established under clause (i). The Secretary shall, in consultation with organizations representing providers of services, suppliers, and individuals entitled to benefits under part A or enrolled under part B, or both, establish standards relating to the accuracy, consistency, and timeliness of the information so provided.
+&emsp;&emsp;&emsp;In conducting evaluations of individual medicare administrative contractors, the Secretary shall take into account the results of the monitoring conducted under subparagraph (A) taking into account asperformance requirements the standards established under clause (i). The Secretary shall, in consultation with organizations representing providers of services, suppliers, and individuals entitled to benefits under part A or enrolled under part B, or both, establish standards relating to the accuracy, consistency, and timeliness of the information so provided.
 
 #### (C) Direct monitoring
 
@@ -366,10 +366,6 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1874A, as added and amended Pub. L. 108–173, title IX, §§911(a)(1), 912(a), 921(b)(1), (c)(1), 934(a), 940A(b), Dec. 8, 2003, 117 Stat. 2378, 2387–2389, 2406, 2417; Pub. L. 111–152, title I, §1302, Mar. 30, 2010, 124 Stat. 1057; Pub. L. 114–10, title V, §§505(a), 509(a), (c), Apr. 16, 2015, 129 Stat. 166, 170; Pub. L. 114–115, §7(a), Dec. 28, 2015, 129 Stat. 3134.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by section 7(a) of Pub. L. 114–115 applicable to contracts entered into or renewed on or after the date that is 3 years after Dec. 28, 2015, with provision for application to certain existing contracts. See 2015 Amendment note below.</i>
-
 #### References in Text
 
 Section 3544 of title 44, referred to in subsec. (e)(1), (2)(C)(iii), was repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions similar to section 3544 of title 44 are now contained in section 3554 of title 44, as enacted by Pub. L. 113–283.
@@ -428,7 +424,7 @@ In general.—Except as provided in this subsection, the amendment made by subse
 
 "(2)
 
-Deadline for promulgation of certain regulations.—The Secretary \[of Health and Human Services\] shall first issue regulations under section 1874A(h) of the Social Security Act \[42 U.S.C. 1395kk–1(h)\], asadded by subsection (a), by not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\].
+Deadline for promulgation of certain regulations.—The Secretary \[of Health and Human Services\] shall first issue regulations under section 1874A(h) of the Social Security Act \[42 U.S.C. 1395kk–1(h)\], as added by subsection (a), by not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\].
 
 "(3)
 

@@ -26,13 +26,13 @@ The revised section is inserted to reflect the limited definition of the word "m
 
 #### 1958 Act
 
-Aviation cadets were omitted from chapter 61 because Title IV of the Career Compensation Act of 1949 (formerly 37 U.S.C. 271 et seq.), which was the source law for this chapter, covered only members entitled to basic pay and it was believed that aviation cadets were not so entitled. However, the Comptroller General has ruled that aviation cadets are entitled to basic pay (30 Comp. Gen. 431). Accordingly, aviation cadets were covered by Title IV and should not be excepted from chapter 61.
+Aviation cadets were omitted from chapter 61 because Title IV of the Career Compensation Act of 1949 (formerly 37 U.S.C. 271 et seq.), which was the source law for this chapter, covered only members entitled to basic pay and it was believed that aviation cadets werenot so entitled. However, the Comptroller General has ruled that aviation cadets are entitled to basic pay (30 Comp. Gen. 431). Accordingly, aviation cadets were covered by Title IV and should not be excepted from chapter 61.
 
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–364 substituted "October 28, 2004" for "the date of the enactment of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005".
 
-<b>2004</b>—Pub. L. 108–375 amended section catchline and text generally. Prior to amendment, text read as follows: "This chapter does not apply to cadets at the United States Military Academy, the United States AirForce Academy, or the Coast Guard Academy, or to midshipmen of the Navy."
+<b>2004</b>—Pub. L. 108–375 amended section catchline and text generally. Prior to amendment, text read as follows: "This chapter does not apply to cadets at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, or to midshipmen of the Navy."
 
 <b>1958</b>—Pub. L. 85–861 struck out provisions which made chapter inapplicable to aviation cadets.
 

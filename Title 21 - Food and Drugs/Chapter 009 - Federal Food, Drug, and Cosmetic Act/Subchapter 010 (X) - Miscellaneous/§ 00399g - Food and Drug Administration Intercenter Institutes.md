@@ -6,7 +6,7 @@ The Secretary shall establish one or more Intercenter Institutes within the Food
 
 &emsp;(1) coordination of staff from the Centers with diverse product expertise in the diagnosis, cure, mitigation, treatment, or prevention of the specific diseases relevant to the major disease area of focus of the Institute;
 
-&emsp;(2) streamlining, where appropriate, the review of medical products to diagnose, cure, mitigate, treat, or prevent the specific diseases relevant to the major disease area of focus of the Institute, applying relevant standards under sections 355, 360(k), 360c(f)(2), and 360e of this title and section 262 of title 42, and other applicable authorities;
+&emsp;(2) streamlining, where appropriate, the review of medical products to diagnose, cure,mitigate, treat, or prevent the specific diseases relevant to the major disease area of focus of the Institute, applying relevant standards under sections 355, 360(k), 360c(f)(2), and 360e of this title and section 262 of title 42, and other applicable authorities;
 
 &emsp;(3) promotion of scientific programs within the Centers related to the major disease area of focus of the Institute;
 

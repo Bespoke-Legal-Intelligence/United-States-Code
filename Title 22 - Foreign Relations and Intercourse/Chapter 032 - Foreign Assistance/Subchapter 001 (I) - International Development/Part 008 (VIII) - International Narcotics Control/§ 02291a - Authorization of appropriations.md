@@ -10,7 +10,7 @@
 
 #### (1) Prohibition
 
-&emsp;Except as provided in paragraph (2), funds made available to carry out this part shall notbe made available for the procurement of weapons or ammunition.
+&emsp;Except as provided in paragraph (2), funds made available to carry out this part shall not be made available for the procurement of weapons or ammunition.
 
 #### (2) Exceptions
 

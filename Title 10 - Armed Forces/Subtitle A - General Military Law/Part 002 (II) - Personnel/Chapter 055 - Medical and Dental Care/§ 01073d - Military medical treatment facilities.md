@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—To support the medical readiness of the armed forces and the readiness of medical personnel, the Secretary of Defense, in consultation with the Secretaries of the military departments, shall maintain the military medical treatment facilities described in subsections (b), (c), and (d).
+In General.—To support the medical readiness of the armed forces and the readiness of medical personnel, the Secretary of Defense, in consultation with the Secretaries of the military departments, shall maintain the militarymedical treatment facilities described in subsections (b), (c), and (d).
 
 (b)
 
@@ -98,9 +98,9 @@ Pub. L. 114–328, div. A, title VII, §703(b), (e), Dec. 23, 2016, 130 Stat. 21
 
 "(b)
 
-Exception.—In carrying out section 1073d of title 10, United States Code, as added by subsection (a)(1), the Secretary of Defense may not restructure or realign the infrastructure of, or modify the health care services provided by, a military medical treatment facility unless the Secretary determines that, if such a restructure, realignment, or modification will eliminate the ability of a covered beneficiary to access health care services at a military medical treatment facility, the covered beneficiary will be able to access such health care services through the purchased care component of the TRICARE program."
+Exception.—In carrying out section 1073d of title 10, United States Code, as added by subsection (a)(1),the Secretary of Defense may not restructure or realign the infrastructure of, or modify the health care services provided by, a military medical treatment facility unless the Secretary determines that, if such a restructure, realignment, or modification will eliminate the ability of a covered beneficiary to access health care services at a military medical treatment facility, the covered beneficiary will be able to access such health care services through the purchased care component of the TRICARE program."
 
 "(e)
 
-Definitions.—In this section \[enacting this section and provisions set out as notes under this section\],the terms 'covered beneficiary' and 'TRICARE program' have the meaning given those terms in section 1072 of title 10, United States Code."
+Definitions.—In this section \[enacting this section and provisions set out as notes under this section\], the terms 'covered beneficiary' and 'TRICARE program' have the meaning given those terms in section 1072 of title 10, United States Code."
 

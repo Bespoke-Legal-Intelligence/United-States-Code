@@ -166,7 +166,7 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 #### (2) Conventions on cruise ships
 
-&emsp;In the case of any individual who attends a convention, seminar, or other meeting whichis held on any cruise ship, no deduction shall be allowed under section 162 for expenses allocable to such meeting, unless the taxpayer meets the requirements of paragraph (5) and establishes that the meeting is directly related to the active conduct of his trade or business and that—
+&emsp;In the case of any individual who attends a convention, seminar, or other meeting which is held on any cruise ship, no deduction shall be allowed under section 162 for expenses allocable to such meeting, unless the taxpayer meets the requirements of paragraph (5) and establishes that the meeting is directly related to the active conduct of his trade or business and that—
 
 &emsp;&emsp;(A) the cruise ship is a vessel registered in the United States; and
 
@@ -190,7 +190,7 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 &emsp;&emsp;(A) Except as provided in subparagraph (B), this subsection shall apply to deductions otherwise allowable under section 162 to any person, whether or not such person is the individual attending the convention, seminar, or similar meeting.
 
-&emsp;&emsp;(B) This subsection shall not deny a deduction to any person other than the individual attending the convention, seminar, or similar meeting with respect to any amount paid by such person to or on behalf of such individual if includible in the gross income of such individual. The preceding sentence shall not apply if the amount is required to be included in any information return filed by such person under part III of subchapter A of chapter 61 and is not so included.
+&emsp;&emsp;(B) This subsection shall not deny a deduction to any person other than the individual attending the convention, seminar, or similar meeting with respect to any amount paid by such person to or on behalf of such individual if includible in the gross income of such individual. The preceding sentence shall not apply if the amount is required tobe included in any information return filed by such person under part III of subchapter A of chapter 61 and is not so included.
 
 #### (5) Reporting requirements
 
@@ -316,7 +316,7 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;An employee achievement award shall not be treated as a qualified plan award forany taxable year if the average cost of all employee achievement awards which are provided by the employer during the year, and which would be qualified plan awards but for this subparagraph, exceeds $400. For purposes of the preceding sentence, average cost shall be determined by including the entire cost of qualified plan awards, without taking into account employee achievement awards of nominal value.
+&emsp;&emsp;&emsp;An employee achievement award shall not be treated as a qualified plan award for any taxable year if the average cost of all employee achievement awards which are provided by the employer during the year, and which would be qualified plan awards but for this subparagraph, exceeds $400. For purposes of the preceding sentence, average cost shall be determined by including the entire cost of qualified plan awards, without taking into account employee achievement awards of nominal value.
 
 #### (4) Special rules
 
@@ -464,7 +464,7 @@ Subsec. (a)(1). Pub. L. 115–97, §13304(a)(1)(B), struck out concluding provis
 
 Subsec. (a)(1)(A). Pub. L. 115–97, §13304(a)(1)(A), struck out "unless the taxpayer establishes that the item was directly related to, or, in the case of an item directly preceding or following a substantial and bona fide business discussion (including business meetings at a convention or otherwise), that such item was associated with, the active conduct of the taxpayer's trade or business," after "or recreation,".
 
-Subsec. (a)(2)(C). Pub. L. 115–97, §13304(a)(1)(C), struck out subpar. (C) which read as follows: "In the case of a club, paragraph (1)(B) shall apply unless the taxpayer establishes that the facility was used primarily for the furtherance of the taxpayer's trade or business andthat the item was directly related to the active conduct of such trade or business."
+Subsec. (a)(2)(C). Pub. L. 115–97, §13304(a)(1)(C), struck out subpar. (C) which read as follows: "In the case of a club, paragraph (1)(B) shall apply unless the taxpayer establishes that the facility was used primarily for the furtherance of the taxpayer's trade or business and that the item was directly related to the active conduct of such trade or business."
 
 Subsec. (a)(4). Pub. L. 115–97, §13304(c)(1)(B), added par. (4).
 
@@ -544,7 +544,7 @@ Subsec. (n)(2). Pub. L. 100–647, §6003(a), struck out "or" at end of subpar. 
 
 Pub. L. 100–647, §1001(g)(4)(A), struck out "or" at end of subpar. (C), substituted ", or" for the period at end of subpar. (D), and added subpar. (E) and flush sentence at end.
 
-Pub. L. 100–647, §1001(g)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:"subsection (a) does not apply to such expense by reason of paragraph (2), (3), (4), (7), (8), or (9) of subsection (e),".
+Pub. L. 100–647, §1001(g)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "subsection (a) does not apply to such expense by reason of paragraph (2), (3), (4), (7), (8), or (9) of subsection (e),".
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §122(c)(1)–(3), and Pub. L. 100–647, §1018(u)(2), made conforming amendments to subpars. (A) and (B) and struck out subpar. (C) which read as follows: "an item of tangible personal property which is awarded to an employee by reason of length of service, productivity, or safety achievement, but only to the extent that—
 
@@ -612,7 +612,7 @@ Subsec. (a)(2)(C). Pub. L. 95–600, §361(b), as amended by Pub. L. 96–222, �
 
 Subsec. (h)(3). Pub. L. 95–600, §701(g)(3), substituted "at least one-half" for "more than one-half" in first sentence.
 
-Subsec. (h)(6)(D). Pub. L. 95–600, §701(g)(1), designated existing provisions as cl. (i), inserted introductoryphrase "Except as provided in clause (ii)" and substituted "For the purposes" for "For purpose", and added cl. (ii).
+Subsec. (h)(6)(D). Pub. L. 95–600, §701(g)(1), designated existing provisions as cl. (i), inserted introductory phrase "Except as provided in clause (ii)" and substituted "For the purposes" for "For purpose", and added cl. (ii).
 
 Subsec. (h)(6)(E). Pub. L. 95–600, §701(g)(2), added subpar. (E).
 

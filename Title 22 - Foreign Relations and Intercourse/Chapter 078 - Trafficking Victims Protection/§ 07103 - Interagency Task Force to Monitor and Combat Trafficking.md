@@ -6,7 +6,7 @@ The President shall establish an Interagency Task Force to Monitor and Combat Tr
 
 #### (b) Appointment
 
-The President shall appoint the members of the Task Force, which shall include the Secretary of State, the Administrator of the United States Agency for International Development, the Attorney General, the Secretary of Labor, the Secretary of Health and Human Services, the Director of National Intelligence, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Education, and such other officials as may be designated by the President.
+The President shall appoint the members of the Task Force, which shall include the Secretary of State, the Administrator of the United States Agency for International Development, the Attorney General, the Secretary of Labor, the Secretary of Health and Human Services, the Director of National Intelligence, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Education, the Secretary of the Treasury, the United States Trade Representative, and such other officials as may be designated by the President.
 
 #### (c) Chairman
 
@@ -20,7 +20,7 @@ The Task Force shall carry out the following activities:
 
 &emsp;(2) Measure and evaluate progress of the United States and other countries in the areas of trafficking prevention, protection, and assistance to victims of trafficking, and prosecution and enforcement against traffickers, including the role of public corruption in facilitating trafficking. The Task Force shall have primary responsibility for assisting the Secretary of State in the preparation of the reports described in section 7107 of this title.
 
-&emsp;(3) Expand interagency procedures to collect and organize data, including significant research and resource information on domestic and international trafficking. Any data collection procedures established under this subsection shall respect the confidentiality of victims of trafficking.
+&emsp;(3) Expand interagency procedures to collect and organize data, including significant research and resource information on domesticand international trafficking and providing an annual report on the case referrals received from the national human trafficking hotline by Federal departments and agencies. Any data collection procedures and reporting requirements established under this subsection shall respect the confidentiality of victims of trafficking.
 
 &emsp;(4) Engage in efforts to facilitate cooperation among countries of origin, transit, and destination. Such efforts shall aim to strengthen local and regional capacities to prevent trafficking, prosecute traffickers and assist trafficking victims, and shall include initiatives to enhance cooperative efforts between destination countries and countries of origin and assist in the appropriate reintegration of stateless victims of trafficking.
 
@@ -40,7 +40,7 @@ The Task Force shall carry out the following activities:
 
 &emsp;&emsp;(E) the amount of Federal funds expended in direct benefits paid to individuals described in subparagraph (D) in conjunction with T visa status;
 
-&emsp;&emsp;(F) the number of persons who have applied for, been granted, or been denied a visaor status under section 1101(a)(15)(U)(i) of title 8 during the preceding fiscal year;
+&emsp;&emsp;(F) the number of persons who have applied for, been granted, or been denied a visa or status under section 1101(a)(15)(U)(i) of title 8 during the preceding fiscal year;
 
 &emsp;&emsp;(G) the mean and median time in which it takes to adjudicate applications submitted under the provisions of law set forth in subparagraph (C), including the time between the receipt of an application and the issuance of a visa and work authorization;
 
@@ -68,7 +68,7 @@ The Task Force shall carry out the following activities:
 
 &emsp;&emsp;(N) activities or actions by Federal departments and agencies to enforce—
 
-&emsp;&emsp;&emsp;(i) section 7104(g) of this title and any similar law, regulation, or policy relating to United States Government contractors and their employees or United States Government subcontractors and their employees that engage in severe forms of trafficking in persons, the procurement of commercial sex acts, or the use of forced labor, including debt bondage;
+&emsp;&emsp;&emsp;(i) section 7104(g) of this title and any similar law, regulation, or policy relating to United States Government contractorsand their employees or United States Government subcontractors and their employees that engage in severe forms of trafficking in persons, the procurement of commercial sex acts, or the use of forced labor, including debt bondage;
 
 &emsp;&emsp;&emsp;(ii) section 1307 of title 19 (relating to prohibition on importation of convict-made goods), including any determinations by the Secretary of Homeland Security to waive the restrictions of such section; and
 
@@ -90,17 +90,21 @@ The Task Force shall carry out the following activities:
 
 &emsp;&emsp;&emsp;(v) the number of victims granted a visa or otherwise provided status under subparagraph (T)(i) or (U)(i) of section 1101(a)(15) of title 8;
 
-&emsp;&emsp;&emsp;(vi) the number of individuals required by a court order to pay restitution in connection with a violation of each offense under title 18, the amount of restitution required to be paid under each such order, and the amount of restitution actually paid pursuant to each such order; and
+&emsp;&emsp;&emsp;(vi) the number of individuals required by a court order to pay restitution in connection with a violation of each offense under title 18, the amount of restitution required to be paid under each such order, and the amount of restitution actually paid pursuant to each such order;
 
-&emsp;&emsp;&emsp;(vii) the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense; and
+&emsp;&emsp;&emsp;(vii) the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense; <sup>3</sup>
 
-&emsp;&emsp;(R) the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 20702(a) of title 34, and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible.
+&emsp;&emsp;&emsp;(viii) the number of convictions obtained under chapter 77 of title 18, aggregated separately by the form of offense committed with respect to the victim, including recruiting, enticing, harboring, transporting, providing, obtaining, advertising, maintaining, patronizing, or soliciting a human trafficking victim; and <sup>2</sup>
+
+&emsp;&emsp;(R) the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 20702(a) <sup>1</sup> of title 34, and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible; and
+
+&emsp;&emsp;(S) tactics and strategies employed by human trafficking task forces sponsored by the Department of Justice to reduce demand for trafficking victims.
 
 #### (e) Office To Monitor and Combat Trafficking
 
 #### (1) In general
 
-&emsp;The Secretary of State shall establish within the Department of State an Office to Monitor and Combat Trafficking, which shall provide assistance to the Task Force. Any such Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large. The Director shall have the primary responsibility for assisting the Secretary of State in carrying outthe purposes of this chapter and may have additional responsibilities as determined by the Secretary. The Director shall consult with nongovernmental organizations and multilateral organizations, and with trafficking victims or other affected persons. The Director shall have the authority to take evidence in public hearings or by other means. The agencies represented on the Task Force are authorized to provide staff to the Office on a nonreimbursable basis.
+&emsp;The Secretary of State shall establish within the Department of State an Office to Monitor and Combat Trafficking, which shall provide assistance to the Task Force. Any such Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large. The Director shall have the primary responsibility for assisting the Secretary of State in carrying out the purposes of this chapter and may have additional responsibilities as determined by the Secretary. The Director shall consult with nongovernmental organizations and multilateral organizations, and with trafficking victims or other affected persons. The Director shall have the authority to take evidence in public hearings or by other means. The agencies represented on the Task Force are authorized to provide staff to the Office on a nonreimbursable basis.
 
 #### (2) United States assistance
 
@@ -146,7 +150,7 @@ Each regional bureau in the Department of State shall contribute to the realizat
 
 &emsp;Not later than 90 days after December 19, 2003, the President shall promulgate regulations to implement this section, including regulations to carry out paragraph (4).
 
-(Pub. L. 106–386, div. A, §105, Oct. 28, 2000, 114 Stat. 1473; Pub. L. 108–193, §6(a)(1), (b)(1), (c)(1), Dec. 19, 2003, 117 Stat. 2880, 2881; Pub. L. 109–164, title I, §104(a), title II, §205, Jan. 10, 2006, 119 Stat. 3564, 3571; Pub. L. 110–457, title I, §§101, 102, title II, §231, title III, §304(a), Dec. 23, 2008, 122 Stat. 5045, 5072, 5087; Pub. L. 112–239, div. A, title XVII, §1707, Jan. 2, 2013, 126 Stat. 2098; Pub. L. 113–4, title XII, §§1201, 1203(a), 1231, Mar. 7, 2013, 127 Stat. 136, 138, 144; Pub. L. 114–22, title VI, §602, May 29, 2015, 129 Stat. 259.)
+(Pub. L. 106–386, div. A, §105, Oct. 28, 2000, 114 Stat. 1473; Pub. L. 108–193, §6(a)(1), (b)(1), (c)(1), Dec. 19, 2003, 117 Stat. 2880, 2881; Pub. L. 109–164, title I, §104(a), title II, §205, Jan. 10, 2006, 119 Stat. 3564, 3571; Pub. L. 110–457, title I, §§101, 102, title II, §231, title III, §304(a), Dec. 23, 2008, 122 Stat. 5045, 5072, 5087; Pub. L. 112–239, div. A, title XVII, §1707, Jan. 2, 2013, 126 Stat. 2098; Pub. L. 113–4, title XII, §§1201, 1203(a), 1231, Mar. 7, 2013, 127 Stat. 136, 138, 144; Pub. L. 114–22, title VI, §602, May 29, 2015, 129 Stat. 259; Pub. L. 115–392, §§16, 18(a), Dec. 21, 2018, 132 Stat. 5257, 5258; Pub. L. 115–425, title I, §121(a), title II, §201, Jan. 8, 2019, 132 Stat. 5478, 5482.)
 
 #### References in Text
 
@@ -158,9 +162,19 @@ Sections 20702 and 20705 of title 34, referred to in subsec. (d)(7)(L), was in t
 
 Executive Order 13107, referred to in subsec. (d)(7)(N)(iii), is set out as a note under section 601 of Title 5, Government Organization and Employees.
 
+Section 20702(a) of title 34, referred to in subsec. (d)(7)(R), was amended generally by Pub. L. 113–4, title XII, §1241(a), Mar. 7, 2013, 127 Stat. 149, and Pub. L. 115–393, title III, §301(e)(1)(A), Dec. 21, 2018, 132 Stat. 5272, and, as so amended, sets out definitions for that section. Prior to amendment, section 20702(a) of title 34 related to grants made by the Secretary of Health and Human Services for assistance programs for victims of trafficking occurring within the United States.
+
 Executive Order No. 13257, referred to in subsec. (g)(2)(A), is set out as a note below.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b). Pub. L. 115–425, §201, inserted "the Secretary of the Treasury, the United States Trade Representative," after "the Secretary of Education,".
+
+Subsec. (d)(7)(S). Pub. L. 115–425, §121(a), added subpar. (S).
+
+<b>2018</b>—Subsec. (d)(3). Pub. L. 115–392, §18(a), inserted "and providing an annual report on the case referrals received from the national human trafficking hotline by Federal departments and agencies" after "international trafficking" and "and reporting requirements" after "Any data collection procedures".
+
+Subsec. (d)(7)(Q)(viii). Pub. L. 115–392, §16, added cl. (viii).
 
 <b>2015</b>—Subsec. (d)(7)(Q). Pub. L. 114–22 substituted "1590, 1591, 1592, 1594, 2251, 2251A, 2421, 2422, and 2423" for "1590, 1592, and 1594" in introductory provisions and added cls. (vi) and (vii).
 
@@ -272,7 +286,7 @@ Sec. 3. <i>Administration</i>. (a) The Department of State shall provide funding
 
 (c) Task Force members may designate representatives from their respective agencies to represent them at Task Force meetings.
 
-(d) Whenever the work of the Task Force involves a matter committed by law or Presidential directive to the consideration of the National Security Council, or by Executive Order 13228 of October 8, 2001 \[50 U.S.C.3021 note\], to the consideration of the Homeland Security Council, that work shall be undertaken, and any communication by the Secretary of State to the President shall be undertaken, in a manner consistent with such law, Presidential directive, or Executive Order.
+(d) Whenever the work of the Task Force involves a matter committed by law or Presidential directive to the consideration of the National Security Council, or by Executive Order 13228 of October 8, 2001 \[50 U.S.C. 3021 note\], to the consideration of the Homeland Security Council, that work shall be undertaken, and any communication by the Secretary of State to the President shall be undertaken, in a manner consistent with such law, Presidential directive, or Executive Order.
 
 (e) The Task Force shall have no directive authority or other substantial independent authority.
 
@@ -313,4 +327,6 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The word "and" probably should not appear.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by "and".</i>
 

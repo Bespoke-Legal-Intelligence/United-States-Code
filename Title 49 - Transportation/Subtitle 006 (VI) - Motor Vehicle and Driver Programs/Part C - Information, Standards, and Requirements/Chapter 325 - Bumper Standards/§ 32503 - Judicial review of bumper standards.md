@@ -52,7 +52,7 @@ In subsection (a), the words "may apply for" are added for clarity. The text of 
 
 In subsection (b), the words "or his delegate" and "thereupon" are omitted as surplus. The words "in which the standard was prescribed" are substituted for "on which the Secretary based his rule, as provided in section 2112 of title 28" to eliminate unnecessary words.
 
-In subsection (c)(1), the words "On request of the petitioner" are substituted for "If the petitioner applies to the court for leave to adduce" to eliminate unnecessary words. The words "the Secretary to receive" are substituted for "to be taken before the Secretary, andto be adduced in a hearing" for clarity. The words "in such manner and upon such terms and conditions as the court may deem proper" are omitted as surplus.
+In subsection (c)(1), the words "On request of the petitioner" are substituted for "If the petitioner applies to the court for leave to adduce" to eliminate unnecessary words. The words "the Secretary to receive" are substituted for "to be taken before the Secretary, and to be adduced in a hearing" for clarity. The words "in such manner and upon such terms and conditions as the court may deem proper" are omitted as surplus.
 
 In subsection (c)(2), the words "with the court" are substituted for "with the return of" for clarity.
 

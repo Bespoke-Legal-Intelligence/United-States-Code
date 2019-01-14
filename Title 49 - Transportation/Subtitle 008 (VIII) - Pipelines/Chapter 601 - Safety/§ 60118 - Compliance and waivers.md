@@ -64,7 +64,7 @@ Operator Assistance in Investigations.—
 
 &emsp;(1)
 
-Assistance and access.—If the Secretary or the National Transportation Safety Board investigates an accident or incident involving a pipeline facility, the operator of the facility shall—
+Assistance and access.—If the Secretary or the National Transportation Safety Board investigates an accident or incident involvinga pipeline facility, the operator of the facility shall—
 
 &emsp;&emsp;(A) make available to the Secretary or the Board all records and information that in any way pertain to the accident or incident, including integrity management plans and test results; and
 
@@ -150,7 +150,7 @@ In subsection (a)(1), the words "at all times after the date . . . takes effec
 
 In subsection (a)(2), the words "establish and" in 49 App.:2006(a)(2) and "and comply with such plan" are omitted as surplus.
 
-In subsection (b), the word "prescribed" is substituted for "issued" for consistency in the revised title and with other titles of the United States Code. Theword "particular" is omitted as surplus. The words "a person must take to comply" are substituted for "required of the person to whom the order is issued" for clarity and to eliminate unnecessary words.
+In subsection (b), the word "prescribed" is substituted for "issued" for consistency in the revised title and with other titles of the United States Code. The word "particular" is omitted as surplus. The words "a person must take to comply" are substituted for "required of the person to whom the order is issued" for clarity and to eliminate unnecessary words.
 
 In subsection (c), the words "any part of" are substituted for "in whole or in part" to eliminate unnecessary words. The words "and to such extent" and "he determines that . . . of compliance with such standard" are omitted as surplus.
 

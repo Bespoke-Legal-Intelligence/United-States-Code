@@ -2,7 +2,7 @@
 
 For the purposes of this chapter:
 
-&emsp;(1) The term "Indian agricultural lands" means Indian land, including farmland and rangeland, but excluding Indian forest land, that is used for the production of agricultural products, and Indian lands occupied by industries that support the agricultural community, regardless of whether a formal inspection and land classification has been conducted.
+&emsp;(1) The term "Indian agricultural lands" means Indian land, including farmland and rangeland, but excluding Indian forest land,that is used for the production of agricultural products, and Indian lands occupied by industries that support the agricultural community, regardless of whether a formal inspection and land classification has been conducted.
 
 &emsp;(2) The term "agricultural product" means—
 
@@ -60,7 +60,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(B) is the beneficiary of the trust under which such Indian land is held by the United States.
 
-&emsp;(14) The term "rangeland" means Indian land, excluding Indian forest land, on which the native vegetation is predominantly grasses, grass-like plants, forbs, half-shrubs or shrubs suitable for grazing or browsing use, and includes lands revegetated naturally orartificially to provide a forage cover that is managed as native vegetation.
+&emsp;(14) The term "rangeland" means Indian land, excluding Indian forest land, on which the native vegetation is predominantly grasses, grass-like plants, forbs, half-shrubs or shrubs suitable for grazing or browsing use, and includes lands revegetated naturally or artificially to provide a forage cover that is managed as native vegetation.
 
 &emsp;(15) The term "Secretary" means the Secretary of the Interior.
 
@@ -68,5 +68,5 @@ For the purposes of this chapter:
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in par. (10), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (10), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat.688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

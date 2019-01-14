@@ -8,7 +8,7 @@ Establishment as Department of Defense Field Activity.—The Secretary of Defens
 
 Director and Deputy Director.—(1) At the head of the Center shall be a Director, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation.
 
-(2) There shall be a Deputy Director of the Center, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation. The Deputy Director shall act for, and exercise the powers of, the Director when the Director is disabled or the position of Director is vacant.
+(2) There shall be a Deputy Director of the Center, selected by the Secretary from amongindividuals who have substantial experience in the field of test and evaluation. The Deputy Director shall act for, and exercise the powers of, the Director when the Director is disabled or the position of Director is vacant.
 
 (c)
 
@@ -20,7 +20,7 @@ Duties of Director.—(1) The Director shall have the following duties:
 
 &emsp;&emsp;(ii) all other test and evaluation facilities and resources within and outside of the Department of Defense, other than budgets and expenditures for activities described in section 139(j) of this title.
 
-&emsp;(B) To review proposed significant changes to the test and evaluation facilities and resources of the Major Range and Test Facility Base, including with respect to the expansion, divestment, consolidation, or curtailment of activities, before they are implemented by the Secretaries of the military departments or the heads of the Defense Agencies with test and evaluation responsibilities and advise the Secretary of Defense and the Under Secretary of Acquisition, Technology, and Logistics of the impact of such changes on the adequacy of such test and evaluation facilities and resources to meet the test and evaluation requirements of the Department.
+&emsp;(B) To review proposed significant changes to the test and evaluation facilities and resources of the Major Range and Test Facility Base, including with respect to the expansion, divestment, consolidation, or curtailment of activities, before they are implemented by the Secretaries of the military departments or the heads of the Defense Agencies with test and evaluation responsibilities and advise the Secretary of Defense and the Under Secretary of Defense for Research and Engineering of the impact of such changes on the adequacy of such test and evaluation facilities and resources to meet the test and evaluation requirements of the Department.
 
 &emsp;(C) To complete and maintain the strategic plan required by subsection (d).
 
@@ -32,7 +32,7 @@ Duties of Director.—(1) The Director shall have the following duties:
 
 (d)
 
-Strategic Plan for Department of Defense Test and Evaluation Resources.—(1) Not less often than once every two fiscal years, the Director, in coordination with the Director of Operational Test and Evaluation, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a strategic plan reflecting the needs of the Department of Defense with respect to test and evaluation facilities and resources, including modeling and simulation capabilities. Each such strategic plan shall cover the period of ten fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The strategic plan shall be based on a comprehensive review of the test and evaluation requirements of the Department and the adequacy of the test and evaluation facilities and resources of the Department to meet those requirements.
+Strategic Plan for Department of Defense Test and Evaluation Resources.—(1) Not less often than once every two fiscal years, the Under Secretary of Defense for Research and Engineering, in coordination with the Director of the Department of Defense Test Resources Management Center, the Director of Operational Test and Evaluation, the Director of the Defense Intelligence Agency, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a strategic plan reflecting the future needs of the Department of Defense with respect to test and evaluation facilities and resources. Each strategic plan shall cover the period of thirty fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The strategic plan shall be based on a comprehensive review of both funded and unfunded test and evaluation requirements of the Department, future threats to national security, and the adequacy of the test and evaluation facilities and resources of the Department to meet those future requirements and threats.
 
 (2) The strategic plan shall include the following:
 
@@ -40,7 +40,7 @@ Strategic Plan for Department of Defense Test and Evaluation Resources.—(1) No
 
 &emsp;(B) An identification of performance measures associated with the successful achievement of test and evaluation objectives for the period covered by the plan.
 
-&emsp;(C) An assessment of the test and evaluation facilities and resources that will be needed to meet such requirements and satisfy such performance measures.
+&emsp;(C) An assessment of the test and evaluation facilities and resources that will be needed to meet current and future requirements based on current and emerging threats and satisfy such performance measures.
 
 &emsp;(D) An assessment of the current state of the test and evaluation facilities and resources of the Department.
 
@@ -58,7 +58,7 @@ Strategic Plan for Department of Defense Test and Evaluation Resources.—(1) No
 
 Certification of Budgets.—(1) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require that the Secretary of each military department and the head of each Defense Agency with test and evaluation responsibilities transmit such Secretary's or Defense Agency head's proposed budget for test and evaluation activities, including modeling and simulation activities, for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year to the Director of the Center for review under paragraph (2) before submitting such proposed budget to the Under Secretary of Defense (Comptroller).
 
-(2)(A) The Director of the Center shall review each proposed budget transmitted under paragraph (1) and shall, not later than January 31 of the year preceding the fiscal year for which such budgets are proposed, submit to the Secretary of Defense a report containing the comments of the Director with respect to all such proposed budgets, together with the certification of the Director as to whether such proposed budgets are adequate.
+(2)(A) The Director of the Center shall review each proposed budget transmitted under paragraph (1) and shall, not later than January 31 ofthe year preceding the fiscal year for which such budgets are proposed, submit to the Secretary of Defense a report containing the comments of the Director with respect to all such proposed budgets, together with the certification of the Director as to whether such proposed budgets are adequate.
 
 (B) The Director shall also submit, together with such report and such certification, an additional certification as to whether such proposed budgets provide balanced support for such strategic plan.
 
@@ -80,7 +80,7 @@ Approval of Certain Modifications.—(1) The Secretary of a military department 
 
 (g)
 
-Supervision of Director by Under Secretary.—The Director of the Center shall be subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics. The Director shall report directly to the Under Secretary, without the interposition of any other supervising official.
+Supervision of Director by Under Secretary.—The Director of the Center shall be subject to the supervision of the Under Secretary of Defense for Research and Engineering. The Director shall report directly to the Under Secretary, without the interposition of any other supervising official.
 
 (h)
 
@@ -90,9 +90,17 @@ Administrative Support of Center.—The Secretary of Defense shall provide the D
 
 Definition.—In this section, the term "Major Range and Test Facility Base" means the test and evaluation facilities and resources that are designated by the Secretary of Defense as facilities and resources comprising the Major Range and Test Facility Base.
 
-(Added Pub. L. 107–314, div. A, title II, §231(a)(1), Dec. 2, 2002, 116 Stat. 2487; amended Pub. L. 108–136, div. A, title II, §212, Nov. 24, 2003, 117 Stat. 1416; Pub. L. 109–163, div. A, title II, §258(a), title IX, §902, Jan. 6, 2006, 119 Stat. 3185, 3397; Pub. L. 111–84, div. A, title II, §251, Oct. 28, 2009, 123 Stat. 2241; Pub. L. 113–291, div. A, title II, §214, Dec. 19, 2014, 128 Stat. 3326; Pub. L. 114–328,div. A, title V, §502(c), title X, §1081(a)(3), Dec. 23, 2016, 130 Stat. 2102, 2417; Pub. L. 115–91, div. A, title II, §222, Dec. 12, 2017, 131 Stat. 1333.)
+(Added Pub. L. 107–314, div. A, title II, §231(a)(1), Dec. 2, 2002, 116 Stat. 2487; amended Pub. L. 108–136, div. A, title II, §212, Nov. 24, 2003, 117 Stat. 1416; Pub. L. 109–163, div. A, title II, §258(a), title IX, §902, Jan. 6, 2006, 119 Stat. 3185, 3397; Pub. L. 111–84, div. A, title II, §251, Oct. 28, 2009, 123 Stat. 2241; Pub. L. 113–291, div. A, title II, §214, Dec. 19, 2014, 128 Stat. 3326; Pub. L. 114–328, div. A, title V, §502(c), title X, §1081(a)(3), Dec. 23, 2016, 130 Stat. 2102, 2417; Pub. L. 115–91, div. A, title II, §222, Dec. 12, 2017, 131 Stat. 1333; Pub. L. 115–232, div. A, title II, §221, title IX, §904, Aug. 13, 2018, 132 Stat. 1681, 1922.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1)(B). Pub. L. 115–232, §904, which directed substitution of "Under Secretary of Defense for Research and Engineering" for "Under Secretary of Defense for Acquisition, Technology, and Logistics", was executed by making the substitution for "Under Secretary of Acquisition, Technology, and Logistics" to reflect the probable intent of Congress.
+
+Subsec. (d)(1). Pub. L. 115–232, §221(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Not less often than once every two fiscal years, the Director, in coordination with the Director of Operational Test and Evaluation, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a strategic plan reflecting the needs of the Department of Defense with respect to test and evaluation facilities and resources, including modeling and simulation capabilities. Each such strategic plan shall cover the period of ten fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The strategic plan shall be based on a comprehensive review of the test and evaluation requirements of the Department and the adequacy of the test and evaluation facilities and resources of the Department to meet those requirements."
+
+Subsec. (d)(2)(C). Pub. L. 115–232, §221(2), substituted "needed to meet current and future requirements based on current and emerging threats" for "needed to meet such requirements".
+
+Subsec. (g). Pub. L. 115–232, §904, substituted "Under Secretary of Defense for Research and Engineering" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
 <b>2017</b>—Subsec. (d)(1). Pub. L. 115–91, §222(1), inserted ", including modeling and simulation capabilities" after "and resources" in the first sentence.
 
@@ -110,7 +118,7 @@ Subsec. (e)(1). Pub. L. 113–291, §214(c), inserted "and for the period covere
 
 Subsecs. (f) to (i). Pub. L. 113–291, §214(d), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 
-<b>2009</b>—Subsec. (c). Pub. L. 111–84 inserted par. (1) designation before "The Director", redesignated former par. (1) as subpar. (A) and former subpars. (A) and (B) as cl. (i) and (ii), respectively, of subpar. (A), added subpar. (B), redesignated former pars. (2) to (4) as subpars. (C) to (E), respectively, and added par. (2).
+<b>2009</b>—Subsec. (c). Pub. L. 111–84 inserted par. (1) designation before "The Director", redesignated formerpar. (1) as subpar. (A) and former subpars. (A) and (B) as cl. (i) and (ii), respectively, of subpar. (A), added subpar. (B), redesignated former pars. (2) to (4) as subpars. (C) to (E), respectively, and added par. (2).
 
 <b>2006</b>—Subsec. (b)(1). Pub. L. 109–163, §902(a), substituted "individuals who have substantial experience in the field of test and evaluation." for "commissioned officers of the armed forces on active duty or from among senior civilian officers and employees of the Department of Defense."
 

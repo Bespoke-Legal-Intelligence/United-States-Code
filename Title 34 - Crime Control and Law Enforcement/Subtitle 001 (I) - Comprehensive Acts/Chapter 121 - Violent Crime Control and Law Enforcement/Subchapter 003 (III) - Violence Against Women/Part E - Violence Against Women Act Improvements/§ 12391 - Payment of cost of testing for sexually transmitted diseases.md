@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) the test for the etiologic agent for acquired immune deficiency syndrome is requested by the victim after appropriate counseling; and
 
-&emsp;&emsp;(C) the test would provide information necessary for the health of the victim of the alleged offense and the court determines that the alleged conduct of the defendant created a risk of transmission, as determined by the Centers for Disease Control, of the etiologic agent for acquired immune deficiency syndrome to the victim.
+&emsp;&emsp;(C) the test would provide information necessary for the health of the victim of the alleged offense and the court determines that the alleged conduct of the defendantcreated a risk of transmission, as determined by the Centers for Disease Control, of the etiologic agent for acquired immune deficiency syndrome to the victim.
 
 #### (3) Follow-up testing
 
@@ -48,7 +48,7 @@ Not later than 6 months after September 13, 1994, the United States Sentencing C
 
 Section was formerly classified to section 14011 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-Section is comprised of section 40503 of Pub. L. 103–322. Subsec. (a) of section 40503 of Pub. L. 103–322amended section 20141 of this title. Subsec. (c) of section 40503 of Pub. L. 103–322 also enacted provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure.
+Section is comprised of section 40503 of Pub. L. 103–322. Subsec. (a) of section 40503 of Pub. L. 103–322 amended section 20141 of this title. Subsec. (c) of section 40503 of Pub. L. 103–322 also enacted provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
 

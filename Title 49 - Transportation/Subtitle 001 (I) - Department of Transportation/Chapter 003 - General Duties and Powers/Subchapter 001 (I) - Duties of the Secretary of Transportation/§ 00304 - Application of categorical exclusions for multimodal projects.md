@@ -100,7 +100,7 @@ In general.—A cooperating authority shall provide modal expertise to the lead 
 
 "(2)
 
-Use of categorical exclusion.—In a case described in paragraph (1), the 1 or more categorical exclusions of a cooperating authority may be applied by the lead authority once the cooperating authority reviews the project on behalf of the lead authority and determines the project satisfies the conditions for a categorical exclusion under the implementing regulations or procedures of the cooperating authority under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and this section."
+Use of categorical exclusion.—In a case described in paragraph (1), the 1 or more categorical exclusions of a cooperating authority may be applied by the lead authority once the cooperating authority reviews the project on behalf of the lead authority and determines the project satisfies the conditions for a categorical exclusion under the implementing regulations or procedures of the cooperating authority underthe National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and this section."
 
 2012–Pub. L. 112–141 amended section generally. Prior to amendment, section related to joint activities with the Secretary of Housing and Urban Development.
 

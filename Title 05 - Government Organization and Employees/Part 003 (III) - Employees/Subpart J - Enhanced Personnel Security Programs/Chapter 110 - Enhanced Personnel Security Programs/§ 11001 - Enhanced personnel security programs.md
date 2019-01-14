@@ -2,7 +2,7 @@
 
 (a)
 
-Enhanced Personnel Security Program.—The Director of National Intelligenceshall direct each agency to implement a program to provide enhanced security review of covered individuals—
+Enhanced Personnel Security Program.—The Director of National Intelligence shall direct each agency to implement a program to provide enhanced security review of covered individuals—
 
 &emsp;(1) in accordance with this section; and
 

@@ -46,7 +46,7 @@ Subsec. (b). Pub. L. 112–141 substituted "Administrator" for "Director".
 
 <b>2010</b>—Subsec. (a)(5). Pub. L. 111–203 struck out ", the Office of Thrift Supervision" after "the Comptroller of the Currency".
 
-<b>1994</b>—Subsec. (a)(5). Pub. L. 103–325, §511(a)(1), added par. (5) and struck out former par. (5) which read as follows: " 'Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions' means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Federal Home Loan Bank Board, the Federal Savings and Loan Insurance Corporation, and the National Credit Union Administration; and".
+<b>1994</b>—Subsec. (a)(5). Pub. L. 103–325, §511(a)(1), added par. (5) and struck out former par. (5) which read as follows: " 'Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions' means the Board of Governors of the Federal ReserveSystem, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Federal Home Loan Bank Board, the Federal Savings and Loan Insurance Corporation, and the National Credit Union Administration; and".
 
 Subsec. (a)(7) to (11). Pub. L. 103–325, §511(a)(2), (3), added pars. (7) to (11).
 

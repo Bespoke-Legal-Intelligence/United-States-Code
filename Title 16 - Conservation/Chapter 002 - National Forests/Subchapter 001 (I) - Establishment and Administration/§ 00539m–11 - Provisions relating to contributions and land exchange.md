@@ -34,7 +34,7 @@
 
 #### (5) Failure to make offer
 
-&emsp;If the land exchange offer is not made by the date that is 180 days after February 20, 2003, the Secretary shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives, a report explaining the reasons for the failure to make the offer including an assessment of the need for any additional legislation that may be necessary for the exchange. If additional legislation is not necessary, the Secretary, consistent with this section, should proceed with the exchange pursuant to existing law.
+&emsp;If the land exchange offer is not made by the date that is 180 days after February 20, 2003, the Secretary shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives, a report explaining the reasonsfor the failure to make the offer including an assessment of the need for any additional legislation that may be necessary for the exchange. If additional legislation is not necessary, the Secretary, consistent with this section, should proceed with the exchange pursuant to existing law.
 
 #### (6) Failure to exchange
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;If the land exchange authorized under paragraph (1) is not completed by the date that is 30 days after June 9, 2014, the Secretary, on request of the Pueblo and the Secretary of the Interior, shall transfer the National Forest land generally depicted as "Land to be Held in Trust" on the map entitled "Sandia Pueblo Settlement Technical Amendment Act" and dated October 18, 2013, to the Secretary of the Interior to be held in trust by the United States for the Pueblo—
 
-&emsp;&emsp;&emsp;(i) subject to the restriction enforced by the Secretary of the Interior that the landremain undeveloped, with the natural characteristics of the land to be preserved in perpetuity; and
+&emsp;&emsp;&emsp;(i) subject to the restriction enforced by the Secretary of the Interior that the land remain undeveloped, with the natural characteristics of the land to be preserved in perpetuity; and
 
 &emsp;&emsp;&emsp;(ii) consistent with subsection (c).
 

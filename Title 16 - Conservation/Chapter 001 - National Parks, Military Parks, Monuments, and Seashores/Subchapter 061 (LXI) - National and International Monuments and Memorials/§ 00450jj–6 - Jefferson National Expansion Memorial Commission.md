@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established the Jefferson National Expansion Memorial Commission (hereinafter in sections 450jj–6 to 450jj–9 of this title referred to as the "Commission").
+There is hereby established the Jefferson National Expansion Memorial <sup>1</sup> Commission (hereinafter in sections 450jj–6 to 450jj–9 of this title referred to as the "Commission").
 
 #### (b) Composition
 
@@ -46,7 +46,7 @@ The Commission shall be composed of twenty members as follows:
 
 (1) Except as provided in paragraphs (2) and (3), members of the Commission shall be appointed for terms of three years.
 
-(2) Of the members of the Commission first appointed under paragraphs (14) and (15) of subsection (c)— <sup>1</sup>
+(2) Of the members of the Commission first appointed under paragraphs (14) and (15) of subsection (c)— <sup>2</sup>
 
 &emsp;(A) two shall be appointed for terms of one year;
 
@@ -68,7 +68,7 @@ The chairperson of the Commission shall be elected by the members of the Commiss
 
 #### (f) Assistance from Federal agencies
 
-Upon request of the Commission, the head of any Federal agency represented by members on the Commission may detail any of the personnel or <sup>2</sup> such agency, or provide administrative services to the Commission to assist the Commission in carrying out the Commission's duties under section 450jj–7 of this title.
+Upon request of the Commission, the head of any Federal agency represented by members on the Commission may detail any of the personnel or <sup>3</sup> such agency, or provide administrative services to the Commission to assist the Commission in carrying out the Commission's duties under section 450jj–7 of this title.
 
 #### (g) Gifts, bequests, or donations
 
@@ -82,7 +82,13 @@ The Commission may, for the purposes of carrying out the Commission's duties und
 
 (May 17, 1954, ch. 204, §7, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1469.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be "subsection (b)—".</i>
+#### Change of Name
 
-<i><sup>2</sup></i><i> So in original. Probably should be "of".</i>
+Jefferson National Expansion Memorial redesignated Gateway Arch National Park by Pub. L. 115–128, §2, Feb. 22, 2018, 132 Stat. 328, which is classified to section 450jj–10 of this title.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "subsection (b)—".</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "of".</i>
 

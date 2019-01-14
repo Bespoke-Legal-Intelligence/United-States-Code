@@ -30,7 +30,7 @@ Any classified portions of the reports required by this chapter shall be submitt
 
 (2) This subsection does not apply to any intradepartmental document of the Department of State or the Department of Energy, or any portion of such document, that is solely concerned with internal, confidential advice on policy concerning the conduct of interagency deliberations on nuclear proliferation matters.
 
-(Pub. L. 95–242, title VI, §602, Mar. 10, 1978, 92 Stat. 151; Pub. L. 99–661, div. A, title XIII, §1370, Nov. 14, 1986, 100 Stat. 4004; Pub. L. 103–437,§9(a)(8), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(e)(6), Oct. 21, 1998, 112 Stat. 2681–775; Pub. L. 106–113, div. B, §1000(a)(7), \[div. B, title XI, §1131\], Nov. 29, 1999, 113 Stat. 1536, 1501A–492.)
+(Pub. L. 95–242, title VI, §602, Mar. 10, 1978, 92 Stat. 151; Pub. L. 99–661, div. A, title XIII, §1370, Nov. 14, 1986, 100 Stat. 4004; Pub. L. 103–437, §9(a)(8), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(e)(6), Oct. 21, 1998, 112 Stat. 2681–775; Pub. L. 106–113, div. B, §1000(a)(7), \[div. B, title XI, §1131\], Nov. 29, 1999, 113 Stat. 1536, 1501A–492.)
 
 #### References in Text
 

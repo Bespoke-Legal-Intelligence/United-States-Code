@@ -4,7 +4,7 @@ A qualified organization shall use grants made under this chapter—
 
 &emsp;(1) to provide training and technical assistance to disadvantaged entrepreneurs;
 
-&emsp;(2) to provide training and capacity building services to microenterprise development organizations and programs and groups of such organizations to assist such organizations andprograms in developing microenterprise training and services;
+&emsp;(2) to provide training and capacity building services to microenterprise development organizations and programs and groups of such organizations to assist such organizations and programs in developing microenterprise training and services;
 
 &emsp;(3) to aid in researching and developing the best practices in the field of microenterprise and technical assistance programs for disadvantaged entrepreneurs; and
 

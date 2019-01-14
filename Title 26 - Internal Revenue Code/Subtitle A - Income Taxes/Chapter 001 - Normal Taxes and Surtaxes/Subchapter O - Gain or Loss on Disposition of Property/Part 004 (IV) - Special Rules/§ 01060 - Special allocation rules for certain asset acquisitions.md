@@ -8,7 +8,7 @@ In the case of any applicable asset acquisition, for purposes of determining bot
 
 &emsp;(2) the gain or loss of the transferor with respect to such acquisition,
 
-> the consideration received for such assets shall be allocated among such assets acquired in such acquisition in the same manner as amounts are allocated to assets under section 338(b)(5). If inconnection with an applicable asset acquisition, the transferee and transferor agree in writing as to the allocation of any consideration, or as to the fair market value of any of the assets, such agreement shall be binding on both the transferee and transferor unless the Secretary determines that such allocation (or fair market value) is not appropriate.
+> the consideration received for such assets shall be allocated among such assets acquired in such acquisition in the same manner as amounts are allocated to assets under section 338(b)(5). If in connection with an applicable asset acquisition, the transferee and transferor agree in writing as to the allocation of any consideration, or as to the fair market value of any of the assets, such agreement shall be binding on both the transferee and transferor unless the Secretary determines that such allocation (or fair market value) is not appropriate.
 
 #### (b) Information required to be furnished to Secretary
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 101–508 applicable to acquisitions after Oct. 9, 1990, bu
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

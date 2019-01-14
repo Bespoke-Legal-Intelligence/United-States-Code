@@ -40,7 +40,7 @@ Until the date on which the Commission conducts its first meeting, the Secretary
 
 &emsp;(3) is determined by the Secretary to be of national significance;
 
-> and would be subject to demolition or major alteration in a manner inconsistent with the purposes of this subchapter unless acquired by the Secretary. Such property may be acquired only as provided in subsection (a)(1) of this section.
+> and would be subject to demolition or major alteration in a manner inconsistent with the purposes of this subchapter unless acquired by theSecretary. Such property may be acquired only as provided in subsection (a)(1) of this section.
 
 #### (c) Easements; manner of acquisition
 
@@ -48,7 +48,7 @@ The Secretary may acquire easements within the park for the purpose of carrying 
 
 #### (d) Exchange of land or interest in land
 
-(1) The Secretary may exchange any land or interest in land within the boundaries of the park for any land or interest in land owned bythe Commonwealth of Massachusetts, the city of Lowell, or the University of Massachusetts Building Authority.
+(1) The Secretary may exchange any land or interest in land within the boundaries of the park for any land or interest in land owned by the Commonwealth of Massachusetts, the city of Lowell, or the University of Massachusetts Building Authority.
 
 (2) Except as provided in paragraph (3), an exchange under this subsection shall be subject to the laws, regulations, and policies applicable to exchanges of land administered by the National Park Service and any other terms and conditions that the Secretary determines to be necessary to protect the interests of the United States.
 

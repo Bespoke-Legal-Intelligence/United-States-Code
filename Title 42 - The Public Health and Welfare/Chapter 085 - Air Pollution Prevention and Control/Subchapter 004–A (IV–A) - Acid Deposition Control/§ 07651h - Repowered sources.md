@@ -6,7 +6,7 @@ Not later than December 31, 1997, the owner or operator of an existing unit subj
 
 &emsp;(1) the replacement unit is designated by the owner or operator to replace such existing unit, and
 
-&emsp;(2) the existing unit is retired from service on or before the date on which the designated replacement unit enters commercial operation.
+&emsp;(2) the existing unit is retired from service on or before the date on which the designatedreplacement unit enters commercial operation.
 
 #### (b) Extension
 

@@ -74,7 +74,7 @@
 
 #### (i) Filing of action for review
 
-&emsp;&emsp;&emsp;Any entity against whom an order imposing a civil money penalty has been entered after an agency hearing under this paragraph may obtain review by the United States district court for any district in which such entity is located or the United States District Court for the District of Columbia by filing a notice of appeal in such court within 30 days from the date of such order, and simultaneously sending a copy of such notice by registered mail to the Secretary.
+&emsp;&emsp;&emsp;Any entity against whom an order imposing a civil money penalty has been entered after an agency hearing under this paragraph may obtain review by the United States district court for any district in which such entity is located or the United States District Court for the District of Columbia by filing a notice of appeal in such court within 30 days from the date of such order, and simultaneouslysending a copy of such notice by registered mail to the Secretary.
 
 #### (ii) Certification of administrative record
 
@@ -192,7 +192,7 @@ Subsec. (b)(1)(B). Pub. L. 111–148, §1563(c)(13)(B), formerly §1562(c)(13)(B
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–233 applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub.L. 110–233, set out as a note under section 300gg–21 of this title.
+Amendment by Pub. L. 110–233 applicable, with respect to group health plans and health insurance coverage offered in connection with group health plans, for plan years beginning after the date that is one year after May 21, 2008, and, with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market, after the date that is one year after May 21, 2008, see section 102(d)(2) of Pub. L. 110–233, set out as a note under section 300gg–21 of this title.
 
 #### Effective Date
 

@@ -6,7 +6,7 @@ If the Secretary designates a drug under section 355f(d) of this title as a qual
 
 #### (b) Construction
 
-Nothing in this section shall prohibit the Secretary from giving priority review to a humandrug application or efficacy supplement submitted for approval under section 355(b) of this title that otherwise meets the criteria for the Secretary to grant priority review.
+Nothing in this section shall prohibit the Secretary from giving priority review to a human drug application or efficacy supplement submitted for approval under section 355(b) of this title that otherwise meets the criteria for the Secretary to grant priority review.
 
 (June 25, 1938, ch. 675, §524A, as added Pub. L. 112–144, title VIII, §802(a), July 9, 2012, 126 Stat. 1079; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(N), Dec. 13, 2016, 130 Stat. 1154.)
 

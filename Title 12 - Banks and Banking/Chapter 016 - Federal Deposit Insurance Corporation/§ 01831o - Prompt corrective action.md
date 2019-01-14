@@ -108,7 +108,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) establish any additional relevant capital measures to carry out the purpose of this section; or
 
-&emsp;&emsp;&emsp;(ii) rescind any relevant capital measure required under subparagraph (A) upon determining (with the concurrence of the other Federal banking agencies) that themeasure is no longer an appropriate means for carrying out the purpose of this section.
+&emsp;&emsp;&emsp;(ii) rescind any relevant capital measure required under subparagraph (A) upon determining (with the concurrence of the other Federal banking agencies) that the measure is no longer an appropriate means for carrying out the purpose of this section.
 
 #### (2) Capital categories generally
 
@@ -206,7 +206,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) if the insured depository institution is undercapitalized, each company having control of the institution has—
 
-&emsp;&emsp;&emsp;&emsp;(I) guaranteed that the institution will comply with the plan until the institution has been adequately capitalized onaverage during each of 4 consecutive calendar quarters; and
+&emsp;&emsp;&emsp;&emsp;(I) guaranteed that the institution will comply with the plan until the institution has been adequately capitalized on average during each of 4 consecutive calendar quarters; and
 
 &emsp;&emsp;&emsp;&emsp;(II) provided appropriate assurances of performance.
 
@@ -228,7 +228,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) an amount equal to 5 percent of the institution's total assets at the time the institution became undercapitalized; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the amount which is necessary (or would have been necessary) to bring the institution into compliance with all capital standards applicable with respect to such institution as of the time the institution fails to comply with a plan under this subsection.
+&emsp;&emsp;&emsp;&emsp;(II) the amount which is necessary (or would have been necessary) to bring theinstitution into compliance with all capital standards applicable with respect to such institution as of the time the institution fails to comply with a plan under this subsection.
 
 #### (ii) Certain affiliates not affected
 
@@ -292,7 +292,7 @@ For purposes of this section:
 
 #### (B) Restricting transactions with affiliates
 
-&emsp;&emsp;(i) Requiring the institution to comply with section 371c of this title as if subsection\(d)(1) of that section (exempting transactions with certain affiliated institutions) did not apply.
+&emsp;&emsp;(i) Requiring the institution to comply with section 371c of this title as if subsection (d)(1) of that section (exempting transactions with certain affiliated institutions) did not apply.
 
 &emsp;&emsp;(ii) Further restricting the institution's transactions with affiliates.
 
@@ -394,7 +394,7 @@ For purposes of this section:
 
 #### (1) In general
 
-&emsp;If the appropriate Federal banking agency determines (after notice and an opportunity for hearing) that an insured depository institution is in an unsafe or unsound condition or, pursuant to section 1818(b)(8) of this title, deems the institution to be engaging in an unsafe or unsound practice, the agency may—
+&emsp;If the appropriate Federal banking agency determines (after notice and an opportunityfor hearing) that an insured depository institution is in an unsafe or unsound condition or, pursuant to section 1818(b)(8) of this title, deems the institution to be engaging in an unsafe or unsound practice, the agency may—
 
 &emsp;&emsp;(A) if the institution is well capitalized, reclassify the institution as adequately capitalized;
 
@@ -538,7 +538,7 @@ Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall n
 
 &emsp;&emsp;&emsp;(ii) $150,000,000, if the loss occurs during the period beginning on January 1, 2012, and ending on December 31, 2013; and
 
-&emsp;&emsp;&emsp;(iii) $50,000,000, if the loss occurs on or after January 1, 2014, provided that if the inspector general of a Federal banking agency certifies to the Committee onBanking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that the number of projected failures of depository institutions that would require material loss reviews for the following 12 months will be greater than 30 and would hinder the effectiveness of its oversight functions, then the definition of "material loss" shall be $75,000,000 for a duration of 1 year from the date of the certification.
+&emsp;&emsp;&emsp;(iii) $50,000,000, if the loss occurs on or after January 1, 2014, provided that if the inspector general of a Federal banking agency certifies to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that the number of projected failures of depository institutions that would require material loss reviews for the following 12 months will be greater than 30 and would hinder the effectiveness of its oversight functions, then the definition of "material loss" shall be $75,000,000 for a duration of 1 year from the date of the certification.
 
 #### (3) Deadline for report
 
@@ -550,7 +550,7 @@ Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall n
 
 &emsp;&emsp;&emsp;(ii) the date on which it becomes apparent that the assistance will not be fully repaid during the 24-month period described in paragraph (2)(A)(i).
 
-&emsp;&emsp;(B) If the institution is described in paragraph (2)(A)(ii), during the 6-month period beginning on the date on which it becomes apparent that the present value of the outlays of the Deposit Insurance Fund with respect to that institution will exceed the present value of receivership dividends or other payments on the claims held by the Corporation.
+&emsp;&emsp;(B) If the institution is described in paragraph (2)(A)(ii), during the 6-month period beginning on the date on which it becomesapparent that the present value of the outlays of the Deposit Insurance Fund with respect to that institution will exceed the present value of receivership dividends or other payments on the claims held by the Corporation.
 
 #### (4) Public disclosure required
 
@@ -610,7 +610,7 @@ Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall n
 
 #### (m) Other authority not affected
 
-This section does not limit any authority of an appropriate Federal banking agency, the Corporation, or a State to take action in additionto (but not in derogation of) that required under this section.
+This section does not limit any authority of an appropriate Federal banking agency, the Corporation, or a State to take action in addition to (but not in derogation of) that required under this section.
 
 #### (n) Administrative review of dismissal orders
 
@@ -771,6 +771,46 @@ Section effective 1 year after Dec. 19, 1991, see section 131(f) of Pub. L. 102�
 #### Regulations
 
 Pub. L. 102–242, title I, §131(b), Dec. 19, 1991, 105 Stat. 2266, provided that: "Each appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) (and the Corporation, acting in the Corporation's capacity as insurer of depository institutions under that Act \[12 U.S.C. 1811 et seq.\]) shall, after notice and opportunity for comment, promulgate final regulations under section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831o\] (as added by subsection (a)) not later than 9 months after the date of enactment of this Act \[Dec. 19, 1991\], and those regulations shall become effective not later than 1 year after that date of enactment."
+
+#### Supplementary Leverage Ratio for Custodial Banks
+
+Pub. L. 115–174, title IV, §402, May 24, 2018, 132 Stat. 1359, provided that:
+
+"(a)
+
+Definition.—In this section, the term 'custodial bank' means any depository institution holding company predominantly engaged in custody, safekeeping, and asset servicing activities, including any insured depository institution subsidiary of such a holding company.
+
+"(b)
+
+Regulations.—
+
+&emsp;"(1)
+
+Definition.—In this subsection, the term 'central bank' means—
+
+&emsp;&emsp;"(A) the Federal Reserve System;
+
+&emsp;&emsp;"(B) the European Central Bank; and
+
+&emsp;&emsp;"(C) central banks of member countries of the Organisation for Economic Co-operation and Development, if—
+
+&emsp;&emsp;&emsp;"(i) the member country has been assigned a zero percent risk weight under sections 3.32, 217.32, and 324.32 of title 12, Code of Federal Regulations, or any successor regulation; and
+
+&emsp;&emsp;&emsp;"(ii) the sovereign debt of such member country is not in default or has not been in default during the previous 5 years.
+
+&emsp;"(2)
+
+Regulations.—The appropriate Federal banking agencies shall promulgate regulations to amend sections 3.10, 217.10, and 324.10 of title 12, Code of Federal Regulations, to specify that—
+
+&emsp;&emsp;"(A) subject to subparagraph (B), funds of a custodial bank that are deposited with a central bank shall not be taken into account when calculating the supplementary leverage ratio as applied to the custodial bank; and
+
+&emsp;&emsp;"(B) with respect to the funds described in subparagraph (A), any amount that exceeds the total value of deposits of the custodial bank that are linked to fiduciary or custodial and safekeeping accounts shall be taken into account when calculating the supplementary leverage ratio as applied to the custodial bank.
+
+"(c)
+
+Rule of Construction.—Nothing in subsection (b) shall be construed to limit the authority of the appropriate Federal banking agencies to tailor or adjust the supplementary leverage ratio or any other leverage ratio for any company that is not a custodial bank."
+
+\[For definitions of terms used in section 402 of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a Definitions note under section 5365 of this title.\]
 
 #### Deposit of Insurance Proceeds
 

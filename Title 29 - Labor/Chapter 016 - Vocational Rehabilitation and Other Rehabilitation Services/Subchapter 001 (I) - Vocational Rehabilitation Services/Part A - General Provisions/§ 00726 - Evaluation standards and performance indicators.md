@@ -8,7 +8,7 @@
 
 #### (2) Additional performance accountability indicators
 
-&emsp;A State may establish and provide information on additional performance accountability indicators, which shall be identified in the State plan submitted under section 721 of this title.
+&emsp;A State may establish and provide information on additional performance accountabilityindicators, which shall be identified in the State plan submitted under section 721 of this title.
 
 #### (b) Compliance
 

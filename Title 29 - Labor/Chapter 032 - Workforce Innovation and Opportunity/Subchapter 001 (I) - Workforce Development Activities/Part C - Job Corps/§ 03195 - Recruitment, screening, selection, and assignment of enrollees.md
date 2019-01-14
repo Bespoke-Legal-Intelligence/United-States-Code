@@ -10,7 +10,7 @@
 
 &emsp;In prescribing standards and procedures under paragraph (1), the Secretary, at a minimum, shall—
 
-&emsp;&emsp;(A) prescribe procedures for informing enrollees that drug tests will be administeredto the enrollees and the results received within 45 days after the enrollees enroll in the Job Corps;
+&emsp;&emsp;(A) prescribe procedures for informing enrollees that drug tests will be administered to the enrollees and the results received within 45 days after the enrollees enroll in the Job Corps;
 
 &emsp;&emsp;(B) establish standards for recruitment of Job Corps applicants;
 
@@ -60,7 +60,7 @@
 
 #### (3) Individuals convicted of certain crimes
 
-&emsp;An individual shall not be selected as an enrollee if the individual has been convicted of a felony consisting of murder (as described in section 1111 of title 18), child abuse, or a crime involving rape or sexual assault.
+&emsp;An individual shall not be selected as an enrollee if the individual has been convicted of afelony consisting of murder (as described in section 1111 of title 18), child abuse, or a crime involving rape or sexual assault.
 
 #### (c) Assignment plan
 

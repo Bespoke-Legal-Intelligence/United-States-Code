@@ -58,7 +58,7 @@
 
 &emsp;(C) by the Chief Justice of the United States or his designee for the judicial branch of the Government.
 
-(2) Such regulations shall provide that an agency's administrative costs in executing agarnishment action may be added to the garnishment, and that the agency may retain costs recovered as offsetting collections.
+(2) Such regulations shall provide that an agency's administrative costs in executing a garnishment action may be added to the garnishment, and that the agency may retain costs recovered as offsetting collections.
 
 (k)(1) No later than 180 days after the date of the enactment of this Act, the Secretaries of the Executive departments concerned shall promulgate regulations to carry out the purposes of this section with regard to members of the uniformed services.
 
@@ -118,7 +118,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Review and Update of Regulations Governing Debt Collectors Interactions With Unit Commanders of Members of the Armed Forces
 
-Pub. L. 115–91, div. A, title VI, §634, Dec. 12, 2017, 131 Stat. 1431, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall review and update Department of Defense Directive 1344.09 and any associated regulations to ensure that such regulations complywith Federal consumer protection laws with respect to the collection of debt."
+Pub. L. 115–91, div. A, title VI, §634, Dec. 12, 2017, 131 Stat. 1431, provided that: "Not later than 180 days afterthe date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall review and update Department of Defense Directive 1344.09 and any associated regulations to ensure that such regulations comply with Federal consumer protection laws with respect to the collection of debt."
 
 #### Pilot Program on Alternative Notice of Receipt of Legal Process for Garnishment of Federal Pay for Child Support and Alimony
 

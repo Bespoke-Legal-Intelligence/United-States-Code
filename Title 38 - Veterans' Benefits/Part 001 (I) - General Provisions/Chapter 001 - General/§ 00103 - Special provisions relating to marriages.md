@@ -8,7 +8,7 @@
 
 (d)(1) The remarriage of the surviving spouse of a veteran shall not bar the furnishing of benefits to such person as the surviving spouse of the veteran if the remarriage is void, or has been annulled by a court with basic authority to render annulment decrees unless the Secretary determines that the annulment was secured through fraud by either party or collusion.
 
-(2)(A) The remarriage of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person asthe surviving spouse of the veteran if the remarriage has been terminated by death or divorce unless the Secretary determines that the divorce was secured through fraud or collusion.
+(2)(A) The remarriage of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran if the remarriage has been terminated by death or divorce unless the Secretary determines that the divorce was secured through fraud or collusion.
 
 (B) The remarriage after age 57 of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran. Notwithstanding the previous sentence, the remarriage after age 55 of the surviving spouse of a veteran shall not bar the furnishing of benefits under section 1781 of this title to such person as the surviving spouse of the veteran.
 
@@ -132,7 +132,7 @@ Pub. L. 102–568, title I, §103, Oct. 29, 1992, 106 Stat. 4322, provided that:
 
 "(a)
 
-Exception.—The amendments made by section 8004 of the Omnibus Budget Reconciliation Act of 1990 (105 Stat. 424) \[Pub. L. 101–508, 104 Stat. 1388–343, amending this section\] shall not apply to any case in which a legal proceeding to terminate an existing marital relationship was commenced before November 1, 1990, by an individual described in subsection (b) if that proceeding directly resulted in the termination of such marriage.
+Exception.—The amendments made by section 8004 of the Omnibus Budget Reconciliation Act of 1990 (105 Stat. 424) \[Pub. L. 101–508, 104 Stat. 1388–343, amending this section\] shall not apply to any case in whicha legal proceeding to terminate an existing marital relationship was commenced before November 1, 1990, by an individual described in subsection (b) if that proceeding directly resulted in the termination of such marriage.
 
 "(b)
 

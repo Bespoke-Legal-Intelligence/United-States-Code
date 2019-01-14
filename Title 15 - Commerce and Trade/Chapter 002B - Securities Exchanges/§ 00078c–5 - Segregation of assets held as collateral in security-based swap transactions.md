@@ -2,7 +2,7 @@
 
 #### (a) Registration requirement
 
-It shall be unlawful for any person to accept any money, securities, or property (or to extendany credit in lieu of money, securities, or property) from, for, or on behalf of a security-based swaps customer to margin, guarantee, or secure a security-based swap cleared by or through a clearing agency (including money, securities, or property accruing to the customer as the result of such a security-based swap), unless the person shall have registered under this chapter with the Commission as a broker, dealer, or security-based swap dealer, and the registration shall not have expired nor been suspended nor revoked.
+It shall be unlawful for any person to accept any money, securities, or property (or to extend any credit in lieu of money, securities, or property) from, for, or on behalf of a security-based swaps customer to margin, guarantee, or secure a security-based swap cleared by or through a clearing agency (including money, securities, or property accruing to the customer as the result of such a security-based swap), unless the person shall have registered under this chapter with the Commission as a broker, dealer, or security-based swap dealer, and the registration shall not have expired nor been suspended nor revoked.
 
 #### (b) Cleared security-based swaps
 
@@ -32,7 +32,7 @@ It shall be unlawful for any person to accept any money, securities, or property
 
 #### (d) Permitted investments
 
-Money described in subsection (b) may be invested in obligations of the United States, in general obligations of any State or of any political subdivision of a State, and in obligations fully guaranteed as to principal and interest by the United States, or in any other investment that the Commission may by rule or regulation prescribe, and such investments shall be made in accordance with such rules and regulations and subject to such conditions as the Commission may prescribe.
+Money described in subsection (b) may be invested in obligations of the United States, in general obligations of any State or of any political subdivision of a State, and in obligations fully guaranteed as to principal and interest bythe United States, or in any other investment that the Commission may by rule or regulation prescribe, and such investments shall be made in accordance with such rules and regulations and subject to such conditions as the Commission may prescribe.
 
 #### (e) Prohibition
 

@@ -66,3 +66,7 @@ Subsec. (b). Pub. L. 106–398, §1 \[div. C, title XXXI, §3157(2)\], struck ou
 
 Subsec. (d). Pub. L. 106–398, §1 \[div. C, title XXXI, §3157(3)\], added subsec. (d).
 
+#### Effective Date
+
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under section 2401 of this title.
+

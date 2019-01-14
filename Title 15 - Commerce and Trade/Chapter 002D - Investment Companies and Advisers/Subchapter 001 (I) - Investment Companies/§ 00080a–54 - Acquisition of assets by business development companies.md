@@ -8,7 +8,7 @@ It shall be unlawful for a business development company to acquire any assets (o
 
 &emsp;&emsp;(A) from the issuer of such securities, which issuer is an eligible portfolio company, from any person who is, or who within the preceding thirteen months has been, an affiliated person of such eligible portfolio company, or from any other person, subject to such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors; or
 
-&emsp;&emsp;(B) from the issuer of such securities, which issuer is described in section80a–2(a)(46)(A) and (B) of this title but is not an eligible portfolio company because it has issued a class of securities with respect to which a member of a national securities exchange, broker, or dealer may extend or maintain credit to or for a customer pursuant to rules or regulations adopted by the Board of Governors of the Federal Reserve System under section 78g of this title, or from any person who is an officer or employee of such issuer, if—
+&emsp;&emsp;(B) from the issuer of such securities, which issuer is described in section 80a–2(a)(46)(A) and (B) of this title but is not an eligible portfolio company because it has issued a class of securities with respect to which a member of a national securities exchange, broker, or dealer may extend or maintain credit to or for a customer pursuant to rules or regulations adopted by the Board of Governors of the Federal Reserve System under section 78g of this title, or from any person who is an officer or employee of such issuer, if—
 
 &emsp;&emsp;&emsp;(i) at the time of the purchase, the business development company owns at least 50 per centum of—
 
@@ -28,7 +28,7 @@ It shall be unlawful for a business development company to acquire any assets (o
 
 &emsp;&emsp;(B) issued by an issuer pursuant to or in consummation of such a plan or arrangement; or
 
-&emsp;&emsp;(C) issued by an issuer that, immediately prior to the purchase of such issuer's securities by the business development company, was not in bankruptcy proceedings but was unable to meet its obligations as they came due without material assistance other than conventional lending or financing arrangements;
+&emsp;&emsp;(C) issued by an issuer that, immediately prior to the purchase of such issuer's securities by the business development company, was not in bankruptcy proceedings but wasunable to meet its obligations as they came due without material assistance other than conventional lending or financing arrangements;
 
 &emsp;(4) securities of eligible portfolio companies purchased from any person in transactions not involving any public offering, if there is no ready market for such securities and if immediately prior to such purchase the business development company owns at least 60 per centum of the outstanding equity securities of such issuer (giving effect to all securities presently convertible into or exchangeable for equity securities of such issuer as if such securities were so converted or exchanged);
 

@@ -16,7 +16,7 @@ The Congress finds and declares that—
 
 #### (b) Use, possession, or transportation of peyote
 
-(1) Notwithstanding any other provision of law, the use, possession, or transportation of peyote by an Indian for bona fide traditional ceremonial purposes in connection with the practice of a traditional Indian religion is lawful, and shall not be prohibited by the United States or any State. No Indian shall be penalized or discriminated against on the basis of such use, possession or transportation, including, but not limited to, denial of otherwise applicable benefits under public assistance programs.
+(1) Notwithstanding any other provision of law, the use, possession, or transportation of peyote by an Indian for bona fide traditional ceremonial purposes in connection with the practice of a traditional Indian religion is lawful, and shall not be prohibited by the United States or any State. No Indian shall be penalized or discriminated against on the basis of such use, possession or transportation, including, but notlimited to, denial of otherwise applicable benefits under public assistance programs.
 
 (2) This section does not prohibit such reasonable regulation and registration by the Drug Enforcement Administration of those persons who cultivate, harvest, or distribute peyote as may be consistent with the purposes of this section and section 1996 of this title.
 
@@ -28,7 +28,7 @@ The Congress finds and declares that—
 
 (6) Subject to the provisions of the Religious Freedom Restoration Act (Public Law 103–141; 42 U.S.C. 2000bb–1) \[42 U.S.C. 2000bb et seq.\], this section shall not be construed to prohibit States from enacting or enforcing reasonable traffic safety laws or regulations.
 
-(7) Subject to the provisions of the Religious Freedom Restoration Act (Public Law 103–141; 42 U.S.C. 2000bb–1), this section does not prohibit the Secretary of Defense from promulgating regulations establishing reasonable limitations onthe use, possession, transportation, or distribution of peyote to promote military readiness, safety, or compliance with international law or laws of other countries. Such regulations shall be adopted only after consultation with representatives of traditional Indian religions for which the sacramental use of peyote is integral to their practice.
+(7) Subject to the provisions of the Religious Freedom Restoration Act (Public Law 103–141; 42 U.S.C. 2000bb–1), this section does not prohibit the Secretary of Defense from promulgating regulations establishing reasonable limitations on the use, possession, transportation, or distribution of peyote to promote military readiness, safety, or compliance with international law or laws of other countries. Such regulations shall be adopted only after consultation with representatives of traditional Indian religions for which the sacramental use of peyote is integral to their practice.
 
 #### (c) Definitions
 

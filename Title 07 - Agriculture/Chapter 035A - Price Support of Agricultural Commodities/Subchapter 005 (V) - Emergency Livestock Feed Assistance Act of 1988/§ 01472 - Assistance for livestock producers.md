@@ -42,5 +42,5 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–97 applicable to losses resulting from a disaster that occurs on or after July 28, 2005, and inapplicable to losses resulting from a disaster that occurs before such date, see section 784(c) ofPub. L. 109–97, set out as a note under section 1471 of this title.
+Amendment by Pub. L. 109–97 applicable to losses resulting from a disaster that occurs on or after July 28, 2005, and inapplicable to losses resulting from a disaster that occurs before such date, see section 784(c) of Pub. L. 109–97, set out as a note under section 1471 of this title.
 

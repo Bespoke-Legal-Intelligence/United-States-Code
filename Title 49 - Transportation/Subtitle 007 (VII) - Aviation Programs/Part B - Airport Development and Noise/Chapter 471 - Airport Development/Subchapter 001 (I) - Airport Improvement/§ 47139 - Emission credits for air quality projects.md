@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Administrator of the Environmental Protection Agency, in consultation with the Secretary of Transportation, shall issue guidance on how to ensure that airport sponsors receive appropriate emission reduction credits for carrying out projects described in sections 40117(a)(3)(G), 47102(3)(K), and 47102(3)(L). Such guidance shall include, at a minimum, the following conditions:
+In General.—The Administrator of the Environmental Protection Agency, in consultation with the Secretary of Transportation, shall issue guidance on how to ensure that airport sponsors receive appropriate emission reduction credits for carrying out projects described insections 40117(a)(3)(G), 47102(3)(K), and 47102(3)(L). Such guidance shall include, at a minimum, the following conditions:
 
 &emsp;(1) The provision of credits is consistent with the Clean Air Act (42 U.S.C. 7402 et seq.).
 
@@ -20,19 +20,17 @@ Assurance of Receipt of Credits.—As a condition for making a grant for a proje
 
 (c)
 
-Previously Approved Projects.—The Administrator of the Environmental Protection Agency, in consultation with the Secretary, shall determine how to provide appropriate emissions credits to airport projects previously approved under section 47136 consistent with the guidance and conditions specified in subsection (a).
-
-(d)
-
 State Authority Under CAA.—Nothing in this section shall be construed as overriding existing State law or regulation pursuant to section 116 of the Clean Air Act (42 U.S.C. 7416).
 
-(Added Pub. L. 108–176, title I, §158(a), Dec. 12, 2003, 117 Stat. 2508; amended Pub. L. 112–95, title I, §§111(c)(2)(A)(v), 152(d), Feb. 14, 2012, 126 Stat. 18, 34.)
+(Added Pub. L. 108–176, title I, §158(a), Dec. 12, 2003, 117 Stat. 2508; amended Pub. L. 112–95, title I, §§111(c)(2)(A)(v), 152(d), Feb. 14, 2012, 126 Stat. 18, 34; Pub. L. 115–254, div. B, title I, §166(b)(2), Oct. 5, 2018, 132 Stat. 3226.)
 
 #### References in Text
 
 The Clean Air Act, referred to in subsec. (a)(1), (2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsecs. (c), (d). Pub. L. 115–254 redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: "The Administrator of the Environmental Protection Agency, in consultation with the Secretary, shall determine how to provide appropriate emissions credits to airport projects previously approved under section 47136 consistent with the guidance and conditions specified in subsection (a)."
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–95, §152(d)(1), struck out "47102(3)(F)," after "40117(a)(3)(G)," in introductory provisions.
 

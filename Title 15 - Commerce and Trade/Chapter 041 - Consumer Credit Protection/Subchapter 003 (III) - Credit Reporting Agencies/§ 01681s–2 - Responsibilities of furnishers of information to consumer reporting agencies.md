@@ -24,6 +24,44 @@
 
 &emsp;&emsp;For purposes of subparagraph (A), the term "reasonable cause to believe that the information is inaccurate" means having specific knowledge, other than solely allegations by the consumer, that would cause a reasonable person to have substantial doubts about the accuracy of the information.
 
+#### (E) Rehabilitation of private education loans
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this section, a consumer may request a financial institution to remove from a consumer report a reported default regarding a private education loan, and such information shall not be considered inaccurate, if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the financial institution chooses to offer a loan rehabilitation program which includes, without limitation, a requirement of the consumer to make consecutive on-time monthly payments in a number that demonstrates, in the assessment of the financial institution offering the loan rehabilitation program, a renewed ability and willingness to repay the loan; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the requirements of the loan rehabilitation program described in subclause (I) are successfully met.
+
+#### (ii) Banking agencies
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;If a financial institution is supervised by a Federal banking agency, the financial institution shall seek written approval concerning the terms and conditions of the loan rehabilitation program described in clause (i) from the appropriate Federal banking agency.
+
+#### (II) Feedback
+
+&emsp;&emsp;&emsp;&emsp;An appropriate Federal banking agency shall provide feedback to a financial institution within 120 days of a request for approval under subclause (I).
+
+#### (iii) Limitation
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;A consumer may obtain the benefits available under this subsection with respect to rehabilitating a loan only 1 time per loan.
+
+#### (II) Rule of construction
+
+&emsp;&emsp;&emsp;&emsp;Nothing in this subparagraph may be construed to require a financial institution to offer a loan rehabilitation program or to remove any reported default from a consumer report as a consideration of a loan rehabilitation program, except as described in clause (i).
+
+#### (iv) Definitions
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph—
+
+&emsp;&emsp;&emsp;&emsp;(I) the term "appropriate Federal banking agency" has the meaning given the term in section 1813 of title 12; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the term "private education loan" has the meaning given the term in section 1650(a) of this title.
+
 #### (2) Duty to correct and update information
 
 &emsp;A person who—
@@ -200,7 +238,7 @@
 
 #### (G) Exclusion of credit repair organizations
 
-&emsp;&emsp;This paragraph shall not apply if the notice of the dispute is submitted by, is prepared on behalf of the consumer by, or is submitted on a form supplied to the consumer by, a credit repair organization, as defined in section 1679a(3) of this title, or an entity that would be a credit repair organization, but for section 1679a(3)(B)(i) of this title.
+&emsp;&emsp;This paragraph shall not apply if the notice of the dispute is submitted by, is prepared on behalf of the consumer by, or is submitted on a form supplied to the consumer by, a credit repair organization, as defined in section 1679a(3) of this title, or anentity that would be a credit repair organization, but for section 1679a(3)(B)(i) of this title.
 
 #### (9) Duty to provide notice of status as medical information furnisher
 
@@ -268,13 +306,15 @@ The provisions of law described in paragraphs (1) through (3) of subsection (c) 
 
 &emsp;&emsp;(D) examine the policies and processes that persons that furnish information to consumer reporting agencies employ to conduct reinvestigations and correct inaccurate information relating to consumers that has been furnished to consumer reporting agencies.
 
-(Pub. L. 90–321, title VI, §623, as added Pub. L. 104–208, div. A, title II, §2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447; amended Pub. L. 108–159, title I, §154(a), title II, §217(a), title III, §§312(a)–(e)(1), 314(b), title IV, §412(a), Dec. 4, 2003, 117 Stat. 1966, 1986, 1989–1993, 1995, 2002; Pub. L. 111–203, title X, §1088(a)(2)(D), (11), July 21, 2010, 124 Stat. 2087, 2090.)
+(Pub. L. 90–321, title VI, §623, as added Pub. L. 104–208, div. A, title II, §2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447; amended Pub. L. 108–159, title I, §154(a), title II, §217(a), title III, §§312(a)–(e)(1), 314(b), title IV, §412(a), Dec. 4, 2003, 117 Stat. 1966, 1986, 1989–1993, 1995, 2002; Pub. L. 111–203, title X, §1088(a)(2)(D), (11), July 21, 2010, 124 Stat. 2087, 2090; Pub. L. 115–174, title VI, §602(a), May 24, 2018, 132 Stat. 1366.)
 
 #### Prior Provisions
 
 A prior section 623 of Pub. L. 90–321 was renumbered section 625 and is classified to section 1681t of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(E). Pub. L. 115–174 added subpar. (E).
 
 <b>2010</b>—Subsec. (a)(7)(D). Pub. L. 111–203, §1088(a)(11)(A), added subpar. (D) and struck out former subpar. (D) which related to duty of Board to prescribe a model disclosure.
 

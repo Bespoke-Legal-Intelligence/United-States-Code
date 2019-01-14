@@ -88,7 +88,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Cleared defense contractor.—The term "cleared defense contractor" means a private entity granted clearance by the Department ofDefense to access, receive, or store classified information for the purpose of bidding for a contract or conducting activities in support of any program of the Department of Defense.
+Cleared defense contractor.—The term "cleared defense contractor" means a private entity granted clearance by the Department of Defense to access, receive, or store classified information for the purpose of bidding for a contract or conducting activities in support of any program of the Department of Defense.
 
 &emsp;(2)
 

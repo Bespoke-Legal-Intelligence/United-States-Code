@@ -50,7 +50,7 @@ In order to improve the adequacy of information available to consumers, prevent 
 
 &emsp;&emsp;(II) the phone number of the manufacturer, the postal mailing address of the manufacturer, or another reasonable non-Internet based means of contacting the manufacturer to obtain and review such terms.
 
-(B) With respect to any requirement that the terms of any written warranty for a consumer product be made available to the consumer (or prospective consumer) prior to sale of the product, in a case in which a consumer product is offered for sale in a retail location, by catalog, orthrough door-to-door sales, subparagraph (A) shall only apply if the seller makes available, through electronic or other means, at the location of the sale to the consumer purchasing the consumer product the terms of the warranty for the consumer product before the purchase.
+(B) With respect to any requirement that the terms of any written warranty for a consumer product be made available to the consumer (or prospective consumer) prior to sale of the product, in a case in which a consumer product is offered for sale in a retail location, by catalog, or through door-to-door sales, subparagraph (A) shall only apply if the seller makes available, through electronic or other means, at the location of the sale to the consumer purchasing the consumer product the terms of the warranty for the consumer product before the purchase.
 
 #### (c) Prohibition on conditions for written or implied warranty; waiver by Commission
 

@@ -32,7 +32,7 @@ Responsibilities.—The Council shall have the responsibility to ensure effectiv
 
 Alternative Performance of Responsibilities.—Notwithstanding subsection (c), the President may assign the responsibilities of the Council to another interagency organization of the executive branch that includes among its members the officials specified in paragraphs (1) through (4) of subsection (b).
 
-(Added Pub. L. 102–484, div. D, title XLII, §4212(a), Oct. 23, 1992, 106 Stat. 2664; amended Pub. L. 103–160, div. A, title XIII, §1312(b), Nov. 30, 1993, 107 Stat. 1786; Pub. L. 103–337, div. A, title X, §1070(a)(12), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title X, §1081(b), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(c)(2), formerly §829(c)(2), (3), Sept. 23, 1996, 110 Stat. 2613, renumbered Pub. L. 105–85, div. A, title X, §1073(c)(7)(B), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 105–85, div. A, title X, §1073(c)(7)(A), Nov. 18, 1997, 111 Stat. 1904.)
+(Added Pub. L. 102–484, div. D, title XLII, §4212(a), Oct. 23, 1992, 106 Stat. 2664; amended Pub. L. 103–160, div. A, title XIII, §1312(b), Nov. 30, 1993, 107 Stat. 1786; Pub. L. 103–337, div. A,title X, §1070(a)(12), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title X, §1081(b), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(c)(2), formerly §829(c)(2), (3), Sept. 23, 1996, 110 Stat. 2613, renumbered Pub. L. 105–85, div. A, title X, §1073(c)(7)(B), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 105–85, div. A, title X, §1073(c)(7)(A), Nov. 18, 1997, 111 Stat. 1904.)
 
 #### Prior Provisions
 

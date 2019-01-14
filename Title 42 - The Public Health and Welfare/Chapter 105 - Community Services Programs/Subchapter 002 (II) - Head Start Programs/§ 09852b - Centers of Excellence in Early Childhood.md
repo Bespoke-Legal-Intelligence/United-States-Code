@@ -56,7 +56,7 @@ The Secretary shall, subject to the availability of funds under this section, es
 
 #### (2) Selection
 
-&emsp;In selecting agencies to designate as centers of excellence under subsection (b), the Secretary shall designate not less than 1 from each of the 50 States, the District of Columbia, an Indian Head Start program, a migrant orseasonal Head Start program, and the Commonwealth of Puerto Rico.
+&emsp;In selecting agencies to designate as centers of excellence under subsection (b), the Secretary shall designate not less than 1 from each of the 50 States, the District of Columbia, an Indian Head Start program, a migrant or seasonal Head Start program, and the Commonwealth of Puerto Rico.
 
 #### (3) Priority
 

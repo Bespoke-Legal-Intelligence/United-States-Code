@@ -8,7 +8,7 @@
 
 #### (2) Task Force procedures
 
-&emsp;The Secretary shall convene meetings of the Task Force as appropriate to ensure that the list is produced and transmitted annually to the Congress as required by this subsection. If necessary to ensure transmittal of the list on a timely basis, the Task Force shall produce the list by a majority vote of those Task Force members who are present and voting; except that no coastal wetlands restoration project shall be placed on the list without the concurrence of the lead Task Force member that the project is cost effective and sound from an engineering perspective. Those projects which potentially impact navigation or flood control on the lower Mississippi River System shall be constructed consistent with section 3953 of this title.
+&emsp;The Secretary shall convene meetings of the Task Force as appropriate to ensure that thelist is produced and transmitted annually to the Congress as required by this subsection. If necessary to ensure transmittal of the list on a timely basis, the Task Force shall produce the list by a majority vote of those Task Force members who are present and voting; except that no coastal wetlands restoration project shall be placed on the list without the concurrence of the lead Task Force member that the project is cost effective and sound from an engineering perspective. Those projects which potentially impact navigation or flood control on the lower Mississippi River System shall be constructed consistent with section 3953 of this title.
 
 #### (3) Transmittal of list
 
@@ -56,7 +56,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 &emsp;&emsp;(B) identification, by map or other means, of coastal areas in Louisiana in need of coastal wetlands restoration projects;
 
-&emsp;&emsp;(C) identification of high priority coastal wetlands restoration projects in Louisiananeeded to address the areas identified in subparagraph (B) and that would provide for the long-term conservation of restored wetlands and dependent fish and wildlife populations;
+&emsp;&emsp;(C) identification of high priority coastal wetlands restoration projects in Louisiana needed to address the areas identified in subparagraph (B) and that would provide for the long-term conservation of restored wetlands and dependent fish and wildlife populations;
 
 &emsp;&emsp;(D) a listing of such coastal wetlands restoration projects, in order of priority, to be submitted annually, incorporating any project identified previously in lists produced and submitted under subsection (a) of this section;
 

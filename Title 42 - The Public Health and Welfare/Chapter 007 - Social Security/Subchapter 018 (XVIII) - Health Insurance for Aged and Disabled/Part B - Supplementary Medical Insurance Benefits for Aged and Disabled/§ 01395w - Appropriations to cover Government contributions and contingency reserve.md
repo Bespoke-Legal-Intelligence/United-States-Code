@@ -18,7 +18,7 @@ There are authorized to be appropriated from time to time, out of any moneys in 
 
 &emsp;(C) the aggregate amount of additional premium payments attributable to the application of section 1395r(i) of this title; plus
 
-&emsp;(2) such sums as the Secretary deems necessary to place the Trust Fund, at the end of any fiscal year occurring after June 30, 1967, in the same position in which it would have been at the end of such fiscal year if (A) a Government contribution representing the excess of the premiums deposited in the Trust Fund during the fiscal year ending June 30, 1967, over the Government contribution actually appropriated to the Trust Fund during such fiscal year had been appropriated to it on June30, 1967, and (B) the Government contribution for premiums deposited in the Trust Fund after June 30, 1967, had been appropriated to it when such premiums were deposited; plus
+&emsp;(2) such sums as the Secretary deems necessary to place the Trust Fund, at the end of any fiscal year occurring after June 30, 1967, in the same position in which it would have been at the end of such fiscal year if (A) a Government contribution representing the excess of the premiums deposited in the Trust Fund during the fiscal year ending June 30, 1967, over the Government contribution actually appropriated to the Trust Fund during such fiscal year had been appropriated to it on June 30, 1967, and (B) the Government contribution for premiums deposited in the Trust Fund after June 30, 1967, had been appropriated to it when such premiums were deposited; plus
 
 &emsp;(3) a Government contribution equal to the amount of payment incentives payable under sections 1395w–4(o) and 1395w–23(l)(3) of this title.
 
@@ -26,7 +26,7 @@ There are authorized to be appropriated from time to time, out of any moneys in 
 
 #### (b) Contingency reserve
 
-In order to assure prompt payment of benefits provided under this part and the administrative expenses thereunder during the early months of the program established by this part, and to provide a contingency reserve, there is also authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, to remain available through the calendar year 1969 for repayable advances (without interest) to the Trust Fund, an amount equal to $18 multiplied by the number of individuals (as estimated by the Secretary) who could be covered in July 1966 by the insurance program established by this part if they had theretofore enrolled under this part.
+In order to assure prompt payment of benefits provided under this part and the administrative expenses thereunder during the early months of the program established by this part, and to provide a contingency reserve, there is also authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, to remain available through the calendar year 1969 for repayable advances (without interest) to theTrust Fund, an amount equal to $18 multiplied by the number of individuals (as estimated by the Secretary) who could be covered in July 1966 by the insurance program established by this part if they had theretofore enrolled under this part.
 
 #### (c) Election under section 1395w–24
 
@@ -82,7 +82,7 @@ Pub. L. 108–173, §222(l)(2)(C), inserted "or any credits provided under secti
 
 <b>1984</b>—Subsec. (a)(1)(B)(ii). Pub. L. 98–369 substituted "; plus" for a period.
 
-<b>1983</b>—Subsec. (a)(1)(A)(i). Pub. L. 98–21, §606(a)(3)(F), substituted "section 1395r(a)(1)" for "section1395r(c)(1)" and "section 1395r(a)(3) or 1395r(e)" for "section 1395r(c)(3) or 1395r(g)".
+<b>1983</b>—Subsec. (a)(1)(A)(i). Pub. L. 98–21, §606(a)(3)(F), substituted "section 1395r(a)(1)" for "section 1395r(c)(1)" and "section 1395r(a)(3) or 1395r(e)" for "section 1395r(c)(3) or 1395r(g)".
 
 Subsec. (a)(1)(B)(i). Pub. L. 98–21, §606(a)(3)(G), substituted "1395r(a)(4)" for "1395r(c)(4)" and "1395r(a)(3) or 1395r(e)" for "1395r(c)(3) or 1395r(g)".
 
@@ -100,7 +100,7 @@ Amendment by section 222(l)(2)(C) of Pub. L. 108–173 applicable with respect t
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 applicable to years beginning with 2003, see section 1(a)(6) \[title VI, §606(b)\] of Pub. L. 106–554, set out as a note under section 1395r of this title.
+Amendment by Pub. L. 106–554 applicable to years beginning with 2003, see section 1(a)(6) \[title VI, §606(b)\]of Pub. L. 106–554, set out as a note under section 1395r of this title.
 
 #### Effective Date of 1989 Amendment
 

@@ -28,7 +28,7 @@ The Attorney General may, by regulation, waive the requirement for registration 
 
 (1) A separate registration shall be required at each principal place of business or professional practice where the applicant manufactures, distributes, or dispenses controlled substances or list I chemicals.
 
-(2) Notwithstanding paragraph (1), a registrant who is a veterinarian shall not be required tohave a separate registration in order to transport and dispense controlled substances in the usual course of veterinary practice at a site other than the registrant's registered principal place of business or professional practice, so long as the site of transporting and dispensing is located in a State where the veterinarian is licensed to practice veterinary medicine and is not a principal place of business or professional practice.
+(2) Notwithstanding paragraph (1), a registrant who is a veterinarian shall not be required to have a separate registration in order to transport and dispense controlled substances in the usual course of veterinary practice at a site other than the registrant's registered principal place of business or professional practice, so long as the site of transporting and dispensing is located in a State where the veterinarian is licensed to practice veterinary medicine and is not a principal place of business or professional practice.
 
 #### (f) Inspection
 
@@ -48,7 +48,53 @@ The Attorney General is authorized to inspect the establishment of a registrant 
 
 (4) If a person dies while lawfully in possession of a controlled substance for personal use, any person lawfully entitled to dispose of the decedent's property may deliver the controlled substance to another person for the purpose of disposal under the same conditions as provided in paragraph (1) for an ultimate user.
 
-(Pub. L. 91–513, title II, §302, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 98–473, title II, §510, Oct. 12, 1984, 98 Stat. 2072; Pub. L. 103–200, §3(b), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 111–273, §3(a), Oct. 12, 2010, 124 Stat. 2859; Pub. L. 113–143, §2, Aug. 1, 2014, 128 Stat. 1750.)
+(5)(A) In the case of a person receiving hospice care, an employee of a qualified hospice program, acting within the scope of employment, may handle, without being registered under this section, any controlled substance that was lawfully dispensed to the person receiving hospice care, for the purpose of disposal of the controlled substance so long as such disposal occurs onsite in accordance with all applicable Federal, State, Tribal, and local law and—
+
+&emsp;(i) the disposal occurs after the death of a person receiving hospice care;
+
+&emsp;(ii) the controlled substance is expired; or
+
+&emsp;(iii)(I) the employee is—
+
+&emsp;&emsp;(aa) the physician of the person receiving hospice care; and
+
+&emsp;&emsp;(bb) registered under section 823(f) of this title; and
+
+&emsp;(II) the hospice patient no longer requires the controlled substance because the plan of care of the hospice patient has been modified.
+
+(B) For the purposes of this paragraph:
+
+&emsp;(i) The terms "hospice care" and "hospice program" have the meanings given to those terms in section 1395x(dd) of title 42.
+
+&emsp;(ii) The term "employee of a qualified hospice program" means a physician, physician assistant, nurse, or other person who—
+
+&emsp;&emsp;(I) is employed by, or pursuant to arrangements made by, a qualified hospice program;
+
+&emsp;&emsp;(II)(aa) is licensed to perform medical or nursing services by the jurisdiction in which the person receiving hospice care was located; and
+
+&emsp;&emsp;(bb) is acting within the scope of such employment in accordance with applicable State law; and
+
+&emsp;&emsp;(III) has completed training through the qualified hospice program regarding the disposal of controlled substances in a secure and responsible manner so as to discourage abuse, misuse, or diversion.
+
+&emsp;(iii) The term "qualified hospice program" means a hospice program that—
+
+&emsp;&emsp;(I) has written policies and procedures for assisting in the disposal of the controlled substances of a person receiving hospice care after the person's death;
+
+&emsp;&emsp;(II) at the time when the controlled substances are first ordered—
+
+&emsp;&emsp;&emsp;(aa) provides a copy of the written policies and procedures to the patient or patient representative and family;
+
+&emsp;&emsp;&emsp;(bb) discusses the policies and procedures with the patient or representative and the family in a language and manner that they understand to ensure that these parties are educated regarding the safe disposal of controlled substances; and
+
+&emsp;&emsp;&emsp;(cc) documents in the patient's clinical record that the written policies and procedures were provided and discussed; and
+
+&emsp;&emsp;(III) at the time following the disposal of the controlled substances—
+
+&emsp;&emsp;&emsp;(aa) documents in the patient's clinical record the type of controlled substance, dosage, route of administration, and quantity so disposed; and
+
+&emsp;&emsp;&emsp;(bb) the time, date, and manner in which that disposal occurred.
+
+(Pub. L. 91–513, title II, §302, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 98–473, title II, §510, Oct. 12, 1984, 98 Stat. 2072; Pub. L. 103–200, §3(b), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 111–273, §3(a), Oct. 12, 2010, 124 Stat. 2859; Pub. L. 113–143, §2, Aug. 1, 2014, 128 Stat. 1750; Pub. L. 115–271, title III, §3222(a), Oct. 24, 2018, 132 Stat. 3948.)
 
 #### References in Text
 
@@ -57,6 +103,8 @@ This subchapter, referred to in subsecs. (b), (c), and (g)(1), was in the origin
 Section 802(25) of this title, referred to in subsec. (c)(3), was redesignated section 802(26) of this title by Pub. L. 98–473, title II, §507(a), Oct. 12, 1984, 98 Stat. 2071, and was further redesignated section 802(27) of this title by Pub. L. 99–570, title I, §1003(b)(2), Oct. 27, 1986, 100 Stat. 3207–6.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (g)(5). Pub. L. 115–271 added par. (5).
 
 <b>2014</b>—Subsec. (e). Pub. L. 113–143 designated existing provisions as par. (1) and added par. (2).
 
@@ -79,6 +127,14 @@ Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17,
 #### Effective Date
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under section 801 of this title.
+
+#### Rule of Construction Relating to State and Local Law
+
+Pub. L. 115–271, title III, §3222(c), Oct. 24, 2018, 132 Stat. 3949, provided that: "Nothing in this section \[amending this section and enacting provisions set out as a note below\] or the amendments made by this section shall be construed to prevent a State or local government from imposing additional controls or restrictions relating to the regulation of the disposal of controlled substances in hospice care or hospice programs."
+
+#### Guidance
+
+Pub. L. 115–271, title III, §3222(b), Oct. 24, 2018, 132 Stat. 3949, provided that: "The Attorney General may issue guidance to hospice programs (as defined in paragraph (5) of section 302(g) of the Controlled Substances Act (21 U.S.C. 822(g)), as added by subsection (a)) to assist the programs in satisfying the requirements under such paragraph (5)."
 
 #### Findings
 
@@ -104,7 +160,7 @@ Pub. L. 111–273, §2, Oct. 12, 2010, 124 Stat. 2858, provided that: "Congress 
 
 &emsp;"(4)(A) Many State and local law enforcement agencies have established drug disposal programs (often called 'take-back' programs) to facilitate the collection and destruction of unused, unwanted, or expired medications. These programs help get outdated or unused medications off household shelves and out of the reach of children and teenagers.
 
-&emsp;"(B) However, take-back programs often cannot dispose of the most dangerous pharmaceutical drugs—controlled substance medications—because Federal law does not permit take-back programs toaccept controlled substances unless they get specific permission from the Drug Enforcement Administration and arrange for full-time law enforcement officers to receive the controlled substances directly from the member of the public who seeks to dispose of them.
+&emsp;"(B) However, take-back programs often cannot dispose of the most dangerous pharmaceutical drugs—controlled substance medications—because Federal law does not permit take-back programs to accept controlled substances unless they get specific permission from the Drug Enforcement Administration and arrange for full-time law enforcement officers to receive the controlled substances directly from the member of the public who seeks to dispose of them.
 
 &emsp;"(C) Individuals seeking to reduce the amount of unwanted controlled substances in their household consequently have few disposal options beyond discarding or flushing the substances, which may not be appropriate means of disposing of the substances. Drug take-back programs are also a convenient and effective means for individuals in various communities to reduce the introduction of some potentially harmful substances into the environment, particularly into water.
 

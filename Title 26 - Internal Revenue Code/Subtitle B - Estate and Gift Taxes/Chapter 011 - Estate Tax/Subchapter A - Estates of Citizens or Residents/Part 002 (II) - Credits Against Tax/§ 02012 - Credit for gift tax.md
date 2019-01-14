@@ -8,7 +8,7 @@ If a tax on a gift has been paid under chapter 12 (sec. 2501 and following), or 
 
 In applying, with respect to any gift, the ratio stated in subsection (a), the value at the time of the gift or at the time of the death, referred to in such ratio, shall be reduced—
 
-&emsp;(1) by such amount as will properly reflect the amount of such gift which was excluded in determining (for purposes of section 2503(a)), or of corresponding provisions of prior laws, the total amount of gifts made during the calendar quarter (or calendar year if the gift was made before January 1, 1971) in which the gift was made;
+&emsp;(1) by such amount as will properly reflect the amount of such gift which was excluded in determining (for purposes of section 2503(a)), or of corresponding provisions of prior laws,the total amount of gifts made during the calendar quarter (or calendar year if the gift was made before January 1, 1971) in which the gift was made;
 
 &emsp;(2) if a deduction with respect to such gift is allowed under section 2056(a) (relating to marital deduction), then by the amount of such value, reduced as provided in paragraph (1); and
 
@@ -76,5 +76,5 @@ Amendment by section 2001(a)(3), (c)(1)(B) of Pub. L. 94–455 applicable to est
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
+Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) ofPub. L. 91–614, set out as a note under section 2501 of this title.
 

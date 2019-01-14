@@ -22,7 +22,7 @@ The Surgeon General, with the approval of the Federal Hospital Council and the S
 
 #### (b) Standards of construction and equipment
 
-&emsp;general standards of construction and equipment for facilities of different classes and in different types of location, for which assistance is available under this part;
+&emsp;general standards of construction and equipment for facilities of different classes and indifferent types of location, for which assistance is available under this part;
 
 #### (c) Criteria for determining needs for beds, hospitals and other facilities; plans for distribution of beds and facilities
 

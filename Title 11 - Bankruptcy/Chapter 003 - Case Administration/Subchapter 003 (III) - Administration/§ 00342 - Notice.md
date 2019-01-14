@@ -62,7 +62,7 @@ Subsections (b) and (c) \[enacted as section 549(c)\] are derived from section 2
 
 Subsec. (c). Pub. L. 109–8, §315(a)(1) designated existing provisions as par. (1), struck out ", but the failure of such notice to contain such information shall not invalidate the legal effect of such notice" after "number of the debtor", and added par. (2).
 
-Pub. L. 109–8, §234(b), inserted "last 4 digits of the" before "taxpayer identification number" and "If the notice concerns an amendment that adds a creditor to the schedules of assets and liabilities, the debtor shall include the full taxpayer identification number in the notice sent to that creditor, but the debtor shall include only the last 4 digits of the taxpayer identification number in the copy of the notice filed with the court." at end.
+Pub. L. 109–8, §234(b), inserted "last 4 digits of the" before "taxpayer identification number" and "If thenotice concerns an amendment that adds a creditor to the schedules of assets and liabilities, the debtor shall include the full taxpayer identification number in the notice sent to that creditor, but the debtor shall include only the last 4 digits of the taxpayer identification number in the copy of the notice filed with the court." at end.
 
 Subsec. (d). Pub. L. 109–8, §102(d), added subsec. (d).
 
@@ -90,5 +90,5 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

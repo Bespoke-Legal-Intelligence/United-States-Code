@@ -2,12 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [511\.](%C2%A7%2000511%20-%20Imposition%20of%20tax%20on%20unrelated%20business%20income%20of%20charitable%2C%20etc.%2C%20organizations.md) | Imposition of tax on unrelated business income of charitable organizations, etc.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [511\.](%C2%A7%2000511%20-%20Imposition%20of%20tax%20on%20unrelated%20business%20income%20of%20charitable%2C%20etc.%2C%20organizations.md) | Imposition of tax on unrelated business income of charitable, etc., organizations. |
 | [512\.](%C2%A7%2000512%20-%20Unrelated%20business%20taxable%20income.md) | Unrelated business taxable income. |
 | [513\.](%C2%A7%2000513%20-%20Unrelated%20trade%20or%20business.md) | Unrelated trade or business. |
 | [514\.](%C2%A7%2000514%20-%20Unrelated%20debt-financed%20income.md) | Unrelated debt-financed income. |
@@ -17,9 +12,9 @@
 
 #### Amendments
 
-<b>1969</b>—Pub. L. 91–172, title I, §§101(a), 121(d)(3)(C), Dec. 30, 1969, 83 Stat. 492, 548, substituted "PART III" for "PART II" as part designation and substituted "Unrelated debt-financed income" for "Business leases" in item 514.
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(125), Mar. 23, 2018, 132 Stat. 1190, substituted "Imposition of tax on unrelated business income of charitable, etc., organizations." for "Imposition of tax on unrelated business income of charitable organizations, etc." in item 511.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+<b>1969</b>—Pub. L. 91–172, title I, §§101(a), 121(d)(3)(C), Dec. 30, 1969, 83 Stat. 492, 548, substituted "PART III" for "PART II" as part designation and substituted "Unrelated debt-financed income" for "Business leases" in item 514.
 
 
 ---

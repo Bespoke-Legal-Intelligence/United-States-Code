@@ -6,7 +6,7 @@ The Attorney General may make competitive grants to States, units of local gover
 
 &emsp;(1) improving the provision of drug treatment to offenders in prisons, jails, and juvenile facilities; and
 
-&emsp;(2) reducing the use of alcohol and other drugs by long-term substance abusers during the period in which each such long-term substance abuser is in prison, jail, or a juvenile facility, and through the completion of parole or court supervision of such long-term substance abuser.
+&emsp;(2) reducing the use of alcohol and other drugs by long-term substance abusers duringthe period in which each such long-term substance abuser is in prison, jail, or a juvenile facility, and through the completion of parole or court supervision of such long-term substance abuser.
 
 #### (b) Use of grant funds
 
@@ -66,15 +66,19 @@ The term "Single State Authority for Substance Abuse" means an entity designated
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2009 and 2010.
+&emsp;There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2019 through 2023.
 
 #### (2) Equitable distribution of grant amounts
 
 &emsp;Of the amount made available to carry out this section in any fiscal year, the Attorney General shall ensure that grants awarded under this section are equitably distributed among geographical regions and between urban and rural populations, including Indian Tribes, consistent with the objective of reducing recidivism among criminal offenders.
 
-(Pub. L. 110–199, title II, §201, Apr. 9, 2008, 122 Stat. 678.)
+(Pub. L. 110–199, title II, §201, Apr. 9, 2008, 122 Stat. 678; Pub. L. 115–391, title V, §502(e), Dec. 21, 2018, 132 Stat. 5230.)
 
 #### Codification
 
 Section was formerly classified to section 17521 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (f)(1). Pub. L. 115–391 amended par. (1) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2009 and 2010."
 

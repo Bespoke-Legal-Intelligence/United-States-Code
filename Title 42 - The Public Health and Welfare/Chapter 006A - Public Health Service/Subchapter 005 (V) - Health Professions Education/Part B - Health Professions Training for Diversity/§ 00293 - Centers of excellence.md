@@ -94,7 +94,7 @@ The Secretary may not make a grant under subsection (a) unless the designated he
 
 &emsp;&emsp;(C) the school agrees, as a condition of receiving a grant under subsection (a), that—
 
-&emsp;&emsp;&emsp;(i) the school will establish an arrangement with 1 or more public or nonprofit community based Hispanic serving organizations, or public or nonprofit private institutions of higher education, including schools of nursing, whose enrollment of students has traditionally included a significant number of Hispanic individuals, the purposes of which will be to carry out a program—
+&emsp;&emsp;&emsp;(i) the school will establish an arrangement with 1 or more public or nonprofit community based Hispanic serving organizations, or public or nonprofit private institutions of higher education, includingschools of nursing, whose enrollment of students has traditionally included a significant number of Hispanic individuals, the purposes of which will be to carry out a program—
 
 &emsp;&emsp;&emsp;&emsp;(I) to identify Hispanic students who are interested in a career in the health profession involved; and
 
@@ -170,7 +170,7 @@ In this section:
 
 #### (2) Program of excellence
 
-&emsp;The term "program of excellence" means any program carried out by a designated health professions school with a grant made under subsection (a), if the program is for purposes for which the school involved is authorized in subsection (b) or (c) to expend the grant.
+&emsp;The term "program of excellence" means any program carried out by a designatedhealth professions school with a grant made under subsection (a), if the program is for purposes for which the school involved is authorized in subsection (b) or (c) to expend the grant.
 
 #### (3) Native Americans
 

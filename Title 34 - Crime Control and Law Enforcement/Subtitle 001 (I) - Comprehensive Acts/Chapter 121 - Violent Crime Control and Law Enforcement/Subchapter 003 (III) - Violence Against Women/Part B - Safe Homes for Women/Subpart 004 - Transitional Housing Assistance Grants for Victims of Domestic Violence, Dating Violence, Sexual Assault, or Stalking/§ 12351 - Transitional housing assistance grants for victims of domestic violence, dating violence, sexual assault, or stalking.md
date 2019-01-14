@@ -20,7 +20,7 @@ Grants awarded under this section may be used for programs that provide—
 
 &emsp;&emsp;(A) locate and secure permanent housing;
 
-&emsp;&emsp;(B) secure employment, including obtaining employment counseling, occupationaltraining, job retention counseling, and counseling concerning re-entry in to <sup>2</sup> the workforce; and
+&emsp;&emsp;(B) secure employment, including obtaining employment counseling, occupational training, job retention counseling, and counseling concerning re-entry in to <sup>2</sup> the workforce; and
 
 &emsp;&emsp;(C) integrate into a community by providing that minor, adult, or dependent with services, such as transportation, counseling, child care services, case management, and other assistance. Participation in the support services shall be voluntary. Receipt of the benefits of the housing assistance described in paragraph (2) shall not be conditioned upon the participation of the youth, adults, or their dependents in any or all of the support services offered them.
 

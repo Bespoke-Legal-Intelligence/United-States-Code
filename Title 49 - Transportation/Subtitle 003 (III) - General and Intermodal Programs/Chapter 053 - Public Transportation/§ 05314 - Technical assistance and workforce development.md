@@ -30,7 +30,7 @@ Eligible activities.—The activities carried out under subparagraph (A) may inc
 
 Technical assistance.—The Secretary, through a competitive bid process, may enter into contracts, cooperative agreements, and other agreements with national nonprofit organizations that have the appropriate demonstrated capacity to provide public-transportation-related technical assistance under this subsection. The Secretary may enter into such contracts, cooperative agreements, and other agreements to assist providers of public transportation to—
 
-&emsp;&emsp;(A) comply with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) through technical assistance, demonstrationprograms, research, public education, and other activities related to complying with such Act;
+&emsp;&emsp;(A) comply with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) through technical assistance, demonstration programs, research, public education, and other activities related to complying with such Act;
 
 &emsp;&emsp;(B) comply with human services transportation coordination requirements and to enhance the coordination of Federal resources for human services transportation with those of the Department of Transportation through technical assistance, training, and support services related to complying with such requirements;
 
@@ -46,7 +46,7 @@ Technical assistance.—The Secretary, through a competitive bid process, may en
 
 &emsp;&emsp;(H) assist with the development and deployment of low or no emission vehicles (as defined in section 5339(c)(1)) or low or no emission vehicle components (as defined in section 5312(h)(1)); and
 
-&emsp;&emsp;(I) any other technical assistance activity that the Secretary determines is necessary to advance the interests of public transportation.
+&emsp;&emsp;(I) any other technical assistance activity that the Secretary determines is necessaryto advance the interests of public transportation.
 
 &emsp;(3)
 
@@ -232,7 +232,7 @@ In general.—Not more than 0.5 percent of amounts made available to a recipient
 
 Existing programs.—A recipient may use amounts made available under subparagraph (A) to carry out existing local education and training programs for public transportation employees supported by the Secretary, the Department of Labor, or the Department of Education.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 812; Pub. L. 105–178, title III, §§3016, 3029(b)(6), June 9,1998, 112 Stat. 361, 372; Pub. L. 109–59, title III, §§3002(b)(4), 3016(a), (b), Aug. 10, 2005, 119 Stat. 1545, 1598, 1599; Pub. L. 110–244, title II, §201(g), June 6, 2008, 122 Stat. 1610; Pub. L. 112–141, div. B, §20012, July 6, 2012, 126 Stat. 690; Pub. L. 114–94, div. A, title III, §3009(a), Dec. 4, 2015, 129 Stat. 1469.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 812; Pub. L. 105–178, title III, §§3016, 3029(b)(6), June 9, 1998, 112 Stat. 361, 372; Pub. L. 109–59, title III, §§3002(b)(4), 3016(a), (b), Aug. 10, 2005, 119 Stat. 1545, 1598, 1599; Pub. L. 110–244, title II, §201(g), June 6, 2008, 122 Stat. 1610; Pub. L. 112–141, div. B, §20012, July 6, 2012, 126 Stat. 690; Pub. L. 114–94, div. A, title III, §3009(a), Dec. 4, 2015, 129 Stat. 1469.)
 
 Historical and Revision Notes
 

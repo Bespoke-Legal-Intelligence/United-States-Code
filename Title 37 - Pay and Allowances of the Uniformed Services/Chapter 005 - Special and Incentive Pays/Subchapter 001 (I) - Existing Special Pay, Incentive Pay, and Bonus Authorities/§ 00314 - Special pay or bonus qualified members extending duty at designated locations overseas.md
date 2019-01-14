@@ -54,7 +54,7 @@ Subsecs. (a), (b). Pub. L. 108–136, §621(a)(1), substituted "a member" for "a
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title VI, §625(b), Nov. 18, 1997, 111 Stat. 1795, provided that: "Section 314 of title 37, United States Code, as amended by subsection (a), shall apply with respect to an agreement to extend a tour of duty as provided in such section executed on or after October 1, 1997."
+Pub. L. 105–85, div. A, title VI, §625(b), Nov. 18, 1997, 111 Stat. 1795, provided that: "Section 314 of title 37,United States Code, as amended by subsection (a), shall apply with respect to an agreement to extend a tour of duty as provided in such section executed on or after October 1, 1997."
 
 #### Effective Date of 1985 Amendment
 

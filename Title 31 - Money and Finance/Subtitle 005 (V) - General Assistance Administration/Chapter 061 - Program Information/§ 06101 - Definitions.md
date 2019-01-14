@@ -116,13 +116,31 @@ Pub. L. 113–101, §1, May 9, 2014, 128 Stat. 1146, provided that: "This Act \[
 
 Pub. L. 110–252, title VI, §6201, June 30, 2008, 122 Stat. 2387, provided that: "This chapter \[chapter 2 (§§6201, 6202) of title VI of Pub. L. 110–252, enacting and amending provisions set out as notes under this section\] may be cited as the 'Government Funding Transparency Act of 2008'."
 
+#### Exemption From Certain Reporting Requirements for Certain Agricultural Producers
+
+Pub. L. 115–334, title I, §1707, Dec. 20, 2018, 132 Stat. 4529, provided that:
+
+"(a)
+
+Definition of Exempted Producer.—In this section, the term 'exempted producer' means an individual or entity that is eligible to participate in—
+
+&emsp;"(1) a conservation program under title II \[see Tables for classification\] or a law amended by title II;
+
+&emsp;"(2) an indemnity or disease control program under the Animal Health Protection Act (7 U.S.C. 8301 et seq.) or the Plant Protection Act (7 U.S.C. 7701 et seq.); or
+
+&emsp;"(3) a commodity program under title I of the Agricultural Act of 2014 (7 U.S.C. 9011 et seq.), excluding the assistance provided to users of cotton under sections 1207(c) and 1208 of that Act (7 U.S.C. 9037(c), 9038).
+
+"(b)
+
+Exemption.—Notwithstanding the Federal Funding Accountability and Transparency Act of 2006 (Public Law 109–282; 31 U.S.C. 6101 note), the requirements of parts 25 and 170 of title 2, Code of Federal Regulations (or successor regulations), shall not apply with respect to assistance received by an exempted producer from the Secretary \[of Agriculture\], acting through the Chief of the Natural Resources Conservation Service, the Administrator of the Animal and Plant Health Inspection Service, or the Administrator of the Farm Service Agency."
+
 #### Purposes
 
 Pub. L. 113–101, §2, May 9, 2014, 128 Stat. 1146, provided that: "The purposes of this Act \[see Short Title of 2014 Amendment note above\] are to—
 
 &emsp;"(1) expand the Federal Funding Accountability and Transparency Act of 2006 \[Pub. L. 109–282\] (31 U.S.C. 6101 note) by disclosing direct Federal agency expenditures and linking Federal contract, loan, and grant spending information to programs of Federal agencies to enable taxpayers and policy makers to track Federal spending more effectively;
 
-&emsp;"(2) establish Government-wide data standards for financial data and provide consistent, reliable, and searchable Government-wide spending data that is displayed accurately for taxpayers and policy makers on USASpending.gov (or a successor system that displays the data);
+&emsp;"(2) establish Government-wide data standards for financial data and provide consistent, reliable, and searchable Government-wide spending data that isdisplayed accurately for taxpayers and policy makers on USASpending.gov (or a successor system that displays the data);
 
 &emsp;"(3) simplify reporting for entities receiving Federal funds by streamlining reporting requirements and reducing compliance costs while improving transparency;
 
@@ -680,7 +698,7 @@ In general.—In accordance with paragraph (2) and after a review of the reports
 
 &emsp;"(2)
 
-Deadlines.—Not later than 30 months after the date on which the Director and the Secretary issue guidance to Federal agencies under section 4(c)(1), and every 2 years thereafter until the date that is 4 years after the date on which the first report is submitted under this subsection, the Comptroller General of the United States shall submit and make publically available a report as described in paragraph (1).
+Deadlines.—Not later than 30 months after the date on which the Director and the Secretary issue guidance to Federal agencies under section 4(c)(1), and every 2 years thereafter until the date that is 4years after the date on which the first report is submitted under this subsection, the Comptroller General of the United States shall submit and make publically available a report as described in paragraph (1).
 
 "(c)
 
@@ -730,7 +748,7 @@ Pub. L. 106–107, Nov. 20, 1999, 113 Stat. 1486, as amended by Pub. L. 108–27
 
 #### Uniform Suspension, Debarment or Exclusion From Procurement or Nonprocurement Activity
 
-Pub. L. 103–355, title II, §2455, Oct. 13, 1994, 108 Stat. 3327, as amended by Pub. L. 111–84, div. A, title VIII, §815, Oct. 28, 2009, 123 Stat. 2408, provided that:
+Pub. L. 103–355, title II, §2455, Oct. 13, 1994, 108 Stat. 3327, as amended by Pub. L. 111–84, div. A, title VIII, §815, Oct. 28, 2009, 123 Stat. 2408; Pub. L. 115–232, div. A, title VIII, §836(g)(4), Aug. 13, 2018, 132 Stat. 1873, provided that:
 
 "(a)
 
@@ -750,6 +768,8 @@ Definitions.—In this section:
 
 &emsp;"(3) The term 'agency' means an Executive agency as defined in section 103 of title 5, United States Code."
 
+<i>\[Pub. L. 115–232, div. A, title VIII, §836(g)(4), (h), Aug. 13, 2018, 132 Stat. 1873, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, section 2455(c)(1) of Pub. L. 103–355, set out above, is amended by striking "commercial items" and inserting "commercial products".\]</i>
+
 #### Transfer of Personnel, Property, Records, and Appropriations
 
 Pub. L. 98–169, §7, Nov. 29, 1983, 97 Stat. 1115, provided that: "The Director of the Office of Management and Budget shall transfer to the Administrator of General Services such personnel, property, records, and unexpended balances of appropriations available in connection with any authorities and responsibilities so transferred, as the Director of the Office of Management and Budget determines are necessary to carry out the responsibilities transferred pursuant to this Act \[enacting sections 6105 and 6106 of this title, amending sections 6101 to 6104 of this title and repealing section 6105 of this title\]."
@@ -760,7 +780,7 @@ Ex. Ord. No. 12549, Feb. 18, 1986, 51 F.R. 6370, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to curb fraud, waste, and abuse in Federal programs, increase agency accountability, and ensure consistency among agency regulations concerning debarment and suspension of participants in Federal programs, it is hereby ordered that:
 
-Section 1. (a) To the extent permitted by law and subject to the limitations in Section 1(c), Executive departments and agencies shall participate in a system for debarment and suspension from programs and activities involving Federal financial and nonfinancial assistance and benefits. Debarment or suspension of a participant in a program by one agency shall have government-wide effect.
+Section 1. (a) To the extent permitted by law and subject to the limitations in Section 1(c), Executive departments and agencies shall participate in a system for debarment and suspension from programs and activities involving Federal financial and nonfinancialassistance and benefits. Debarment or suspension of a participant in a program by one agency shall have government-wide effect.
 
 (b) Activities covered by this Order include but are not limited to: grants, cooperative agreements, contracts of assistance, loans, and loan guarantees.
 
@@ -770,7 +790,7 @@ Sec. 2. To the extent permitted by law, Executive departments and agencies shall
 
 (a) Follow government-wide criteria and government-wide minimum due process procedures when they act to debar or suspend participants in affected programs.
 
-(b) Send to the agency designated pursuant to Section 5 identifying information concerning debarred andsuspended participants in affected programs, participants who have agreed to exclusion from participation, and participants declared ineligible under applicable law, including Executive Orders. This information shall be included in the list to be maintained pursuant to Section 5.
+(b) Send to the agency designated pursuant to Section 5 identifying information concerning debarred and suspended participants in affected programs, participants who have agreed to exclusion from participation, and participants declared ineligible under applicable law, including Executive Orders. This information shall be included in the list to be maintained pursuant to Section 5.
 
 (c) Not allow a party to participate in any affected program if any Executive department or agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in an affected program. An agency may grant an exception permitting a debarred, suspended, or excluded party to participate in a particular transaction upon a written determination by the agency head or authorized designee stating the reason(s) for deviating from this Presidential policy. However, I intend that exceptions to this policy should be granted only infrequently.
 

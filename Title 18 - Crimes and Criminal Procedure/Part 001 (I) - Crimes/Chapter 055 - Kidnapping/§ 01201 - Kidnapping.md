@@ -16,7 +16,7 @@
 
 (b) With respect to subsection (a)(1), above, the failure to release the victim within twenty-four hours after he shall have been unlawfully seized, confined, inveigled, decoyed, kidnapped, abducted, or carried away shall create a rebuttable presumption that such person has been transported in interstate or foreign commerce. Notwithstanding the preceding sentence, the fact that the presumption under this section has not yet taken effect does not preclude a Federal investigation of a possible violation of this section before the 24-hour period has ended.
 
-(c) If two or more persons conspire to violate this section and one or more of such persons doany overt act to effect the object of the conspiracy, each shall be punished by imprisonment for any term of years or for life.
+(c) If two or more persons conspire to violate this section and one or more of such persons do any overt act to effect the object of the conspiracy, each shall be punished by imprisonment for any term of years or for life.
 
 (d) Whoever attempts to violate subsection (a) shall be punished by imprisonment for not more than twenty years.
 

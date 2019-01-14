@@ -20,7 +20,7 @@ Environmental Checklist.—
 
 &emsp;(1)
 
-In general.—Not later than 90 days after the date of enactment of this section, the Secretary of Transportation and Federal agencies of jurisdiction likely to have substantive review or approval responsibilities on transportation projects shall jointly develop a checklist to help project sponsors identify potential natural, cultural, and historic resources in the area of a proposed project.
+In general.—Not later than 90 days after the date of enactment of this section, the Secretary of Transportation and Federal agenciesof jurisdiction likely to have substantive review or approval responsibilities on transportation projects shall jointly develop a checklist to help project sponsors identify potential natural, cultural, and historic resources in the area of a proposed project.
 
 &emsp;(2)
 
@@ -60,7 +60,7 @@ Focus of collaboration sessions.—The interagency collaboration sessions, and t
 
 &emsp;(4)
 
-Consultation.—The interagency collaboration sessions shall include a consultationwith groups or individuals representing State, tribal, and local governments that are engaged in the infrastructure permitting process.
+Consultation.—The interagency collaboration sessions shall include a consultation with groups or individuals representing State, tribal, and local governments that are engaged in the infrastructure permitting process.
 
 (e)
 
@@ -72,7 +72,7 @@ Reports.—
 
 &emsp;(1)
 
-Report to congress.—Not later than 2 years after the date of enactment of this section and biennially thereafter, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes—
+Report to congress.—Not later than 2 years after the date of enactment of this section and biennially thereafter, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, and make publicly available on the Department of Transportation website, a report that describes—
 
 &emsp;&emsp;(A) progress in aligning Federal environmental reviews under this section; and
 
@@ -90,13 +90,17 @@ Inspector general report.—Not later than 3 years after the date of enactment o
 
 Savings Provision.—This section shall not apply to any project subject to section 139 of title 23.
 
-(Added Pub. L. 114–94, div. A, title I, §1313(a), Dec. 4, 2015, 129 Stat. 1400.)
+(Added Pub. L. 114–94, div. A, title I, §1313(a), Dec. 4, 2015, 129 Stat. 1400; amended Pub. L. 115–420, §3, Jan. 3, 2019, 132 Stat. 5444.)
 
 #### References in Text
 
 The date of enactment of this section, referred to in subsecs. (a), (c)(1), (e), and (f)(1), (2), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (f)(1). Pub. L. 115–420 inserted ", and make publicly available on the Department of Transportation website," after "House of Representatives" in introductory provisions.
 
 #### Effective Date
 

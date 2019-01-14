@@ -4,7 +4,7 @@ The Commission shall also have power—
 
 #### (a) Investigation of persons, partnerships, or corporations
 
-To gather and compile information concerning, and to investigate from time to time the organization, business, conduct, practices, and management of any person, partnership, or corporation engaged in or whose business affects commerce, excepting banks, savings and loan institutions described in section 57a(f)(3) of this title, Federal credit unions described in section 57a(f)(4) of this title, and common carriers subject to the Act to regulate commerce, and its relation to other persons, partnerships, and corporations.
+To gather and compile information concerning, and to investigate from time to time the organization, business, conduct, practices, and management of any person, partnership, or corporation engaged in or whose business affectscommerce, excepting banks, savings and loan institutions described in section 57a(f)(3) of this title, Federal credit unions described in section 57a(f)(4) of this title, and common carriers subject to the Act to regulate commerce, and its relation to other persons, partnerships, and corporations.
 
 #### (b) Reports of persons, partnerships, and corporations
 
@@ -24,7 +24,7 @@ Upon the application of the Attorney General to investigate and make recommendat
 
 #### (f) Publication of information; reports
 
-To make public from time to time such portions of the information obtained by it hereunder as are in the public interest; and to make annual and special reports to the Congress and to submit therewith recommendations for additional legislation; and to provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use: <i>Provided</i>, That the Commission shall not have any authority to make public any trade secret or any commercial or financial information which is obtained from any person and which is privileged or confidential, except that the Commission may disclose such information (1) to officers and employees of appropriate Federal law enforcement agencies or to any officer or employee of any State law enforcement agency upon the prior certification ofan officer of any such Federal or State law enforcement agency that such information will be maintained in confidence and will be used only for official law enforcement purposes, and (2) to any officer or employee of any foreign law enforcement agency under the same circumstances that making material available to foreign law enforcement agencies is permitted under section 57b–2(b) of this title.
+To make public from time to time such portions of the information obtained by it hereunder as are in the public interest; and to make annual and special reports to the Congress and to submit therewith recommendations for additional legislation; and to provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use: <i>Provided</i>, That the Commission shall not have any authority to make public any trade secret or any commercial or financial information which is obtained from any person and which is privileged or confidential, except that the Commission may disclose such information (1) to officers and employees of appropriate Federal law enforcement agencies or to any officer or employee of any State law enforcement agency upon the prior certification of an officer of any such Federal or State law enforcement agency that such information will be maintained in confidence and will be used only for official law enforcement purposes, and (2) to any officer or employee of any foreign law enforcement agency under the same circumstances that making material available to foreign law enforcement agencies is permitted under section 57b–2(b) of this title.
 
 #### (g) Classification of corporations; regulations
 
@@ -82,7 +82,7 @@ With respect to the International Antitrust Enforcement Assistance Act of 1994 \
 
 #### (7) Assistance to certain countries
 
-&emsp;The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) of title 50.
+&emsp;The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) <sup>1</sup> of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) <sup>1</sup> of title 50.
 
 #### (k) Referral of evidence for criminal proceedings
 
@@ -127,6 +127,8 @@ Nothing in this section (other than the provisions of clause (c) and clause (d))
 The Act to regulate commerce, referred to in subsecs. (a), (b), (j)(6), and the proviso following subsec. (l), is defined in section 44 of this title.
 
 The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (i), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+
+Section 4605(j) of title 50, referred to in subsec. (j)(7), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of title 50, see section 4813(c) of title 50, as enacted by Pub. L. 115–232.
 
 #### Amendments
 
@@ -182,7 +184,7 @@ For applicability to rules promulgated or proposed under subsec. (g) of this sec
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
 #### Study and Evaluation of Effectiveness of State Policies and Programs Relating to Regulation of Certain Health Insurance Policies
 
@@ -197,4 +199,6 @@ By virtue of the authority vested in me by section 55(a) of the Internal Revenue
 This Executive Order shall be effective upon its filing for publication in the Federal Register.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

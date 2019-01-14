@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Administrator of General Services may acquire, by purchase, condemnation, donation, exchange, or otherwise, any building and its site which the Administrator decides is necessary to carry out the duties of the Administrator under this chapter.
+In General.—The Administrator of General Services may acquire, by purchase, condemnation, donation, exchange, or otherwise,any building and its site which the Administrator decides is necessary to carry out the duties of the Administrator under this chapter.
 
 (b)
 

@@ -4,17 +4,19 @@
 
 In this section, the term "essential service provider" means an entity that—
 
-&emsp;(1) provides—
+&emsp;(1)(A) provides
 
-&emsp;&emsp;(A) telecommunications service;
+&emsp;&emsp;(i) wireline or mobile telephone service, Internet access service, radio or television broadcasting, cable service, or direct broadcast satellite service;
 
-&emsp;&emsp;(B) electrical power;
+&emsp;&emsp;(ii) electrical power;
 
-&emsp;&emsp;(C) natural gas;
+&emsp;&emsp;(iii) natural gas;
 
-&emsp;&emsp;(D) water and sewer services; or
+&emsp;&emsp;(iv) water and sewer services; or
 
-&emsp;&emsp;(E) any other essential service, as determined by the President;
+&emsp;&emsp;(v) any other essential service, as determined by the President; or
+
+&emsp;(B) is a tower owner or operator;
 
 &emsp;(2) is—
 
@@ -38,5 +40,9 @@ Unless exceptional circumstances apply, in an emergency or major disaster, the h
 
 In implementing this section, the head of a Federal agency shall follow all applicable Federal laws, regulations, and policies.
 
-(Pub. L. 93–288, title IV, §427, formerly §425, as added Pub. L. 109–347, title VI, §607, Oct. 13, 2006, 120 Stat. 1941; renumbered §427, Pub. L. 113–2, div. B, §1102(1), Jan. 29, 2013, 127 Stat. 39.)
+(Pub. L. 93–288, title IV, §427, formerly §425, as added Pub. L. 109–347, title VI, §607, Oct. 13, 2006, 120 Stat. 1941; renumbered §427, Pub. L. 113–2, div. B, §1102(1), Jan. 29, 2013, 127 Stat. 39; amended Pub. L. 115–141, div. P, title III, §302, Mar. 23, 2018, 132 Stat. 1087.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–141 designated existing provisions as subpar. (A), redesignated former subpars. (A) to (E) as cls. (i) to (v), respectively, of subpar. (A), substituted "wireline or mobile telephone service, Internet access service, radio or television broadcasting, cable service, or direct broadcast satellite service" for "telecommunications service" in cl. (i), and added subpar. (B).
 

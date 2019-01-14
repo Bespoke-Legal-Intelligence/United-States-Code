@@ -160,7 +160,7 @@ In general.—To ensure compliance by a State with any agreement of the State un
 
 &emsp;&emsp;(B) conduct annual audits during each of the first 4 years of State participation; and
 
-&emsp;&emsp;(C) ensure that the time period for completing an annual audit, from initiation tocompletion (including public comment and responses to those comments), does not exceed 180 days.
+&emsp;&emsp;(C) ensure that the time period for completing an annual audit, from initiation to completion (including public comment and responses to those comments), does not exceed 180 days.
 
 &emsp;(2)
 
@@ -212,7 +212,7 @@ Termination by secretary.—The Secretary may terminate the participation of any
 
 &emsp;&emsp;&emsp;(iii) on request of the Governor of the State, a detailed description of each responsibility in need of corrective action regarding an inadequacy identified under subparagraph (A); and
 
-&emsp;&emsp;(C) the State, after the notification and period provided under subparagraph (B), fails to take satisfactory corrective action, as determined by the Secretary.
+&emsp;&emsp;(C) the State, after the notification and period provided under subparagraph (B), failsto take satisfactory corrective action, as determined by the Secretary.
 
 &emsp;(2)
 
@@ -310,7 +310,7 @@ Pub. L. 112–141, §1313(g)(1), redesignated subsec. (i) as (j).
 
 #### Effective Date of 2015 Amendment
 
-Except as otherwise provided, amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+Except as otherwise provided, amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L.114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 Pub. L. 114–94, div. A, title I, §1446(d), Dec. 4, 2015, 129 Stat. 1438, provided that the amendment made by section 1446(d)(3) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
 

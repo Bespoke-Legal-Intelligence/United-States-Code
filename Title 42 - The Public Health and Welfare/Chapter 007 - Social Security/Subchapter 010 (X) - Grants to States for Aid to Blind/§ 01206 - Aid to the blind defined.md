@@ -36,7 +36,7 @@ For the purposes of this subchapter, the term "aid to the blind" means money pay
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 221(b) of Pub. L. 89–97 applicable in the case of expenditures made after Dec. 31, 1965, under a State plan approved under this subchapter, see section 221(e) of Pub. L. 89–97, set out as a note under section 302 of this title.
+Amendment by section 221(b) of Pub. L. 89–97 applicable in the case of expenditures made after Dec. 31, 1965, under a State plan approved under this subchapter, seesection 221(e) of Pub. L. 89–97, set out as a note under section 302 of this title.
 
 Amendment by section 402(c) of Pub. L. 89–97 applicable in the case of expenditures made after December 31, 1965, under a State plan approved under subchapters I, X, XIV, or XVI of this chapter, see section 402(e) of Pub. L. 89–97, set out as a note under section 306 of this title.
 

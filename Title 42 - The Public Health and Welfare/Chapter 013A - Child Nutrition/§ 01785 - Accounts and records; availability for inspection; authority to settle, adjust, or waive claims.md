@@ -24,5 +24,5 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 820(a)(7)(C), 
 
 #### Study of Cost Accounting Requirements
 
-Secretary prohibited from delaying or withholding or causing any State to delay or withhold payments for reimbursement of per meal costs on the basis of noncompliance with full cost accounting procedure unless and until the Secretary has studied additional personnel and training needs of States, local school districts and schools resulting from imposition of requirementto implement full cost accounting procedures, see section 21 of Pub. L. 94–105, set out as a note under section 1760 of this title.
+Secretary prohibited from delaying or withholding or causing any State to delay or withhold payments for reimbursement of per meal costs on the basis of noncompliance with full cost accounting procedure unless and until the Secretary has studied additional personnel and training needs of States, local school districts and schools resulting from imposition of requirement to implement full cost accounting procedures, see section 21 of Pub. L. 94–105, set out as a note under section 1760 of this title.
 

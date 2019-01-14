@@ -18,7 +18,7 @@ The Secretary of Labor may not issue a certification under subsection (a) with r
 
 &emsp;(2)(A) The employer during the previous two-year period employed H–2A workers and the Secretary of Labor has determined, after notice and opportunity for a hearing, that the employer at any time during that period substantially violated a material term or condition of the labor certification with respect to the employment of domestic or nonimmigrant workers.
 
-&emsp;(B) No employer may be denied certification under subparagraph (A) for more than threeyears for any violation described in such subparagraph.
+&emsp;(B) No employer may be denied certification under subparagraph (A) for more than three years for any violation described in such subparagraph.
 
 &emsp;(3) The employer has not provided the Secretary with satisfactory assurances that if the employment for which the certification is sought is not covered by State workers' compensation law, the employer will provide, at no cost to the worker, insurance covering injury and disease arising out of and in the course of the worker's employment which will provide benefits at least equal to those provided under the State workers' compensation law for comparable employment.
 
@@ -46,7 +46,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 &emsp;&emsp;(ii) the employer does not actually have, or has not been provided with referrals of, qualified eligible individuals who have indicated their availability to perform such labor or services on the terms and conditions of a job offer which meets the requirements of the Secretary.
 
-> &emsp;In considering the question of whether a specific qualification is appropriate in a job offer, the Secretary shall apply the normal and accepted qualifications required by non-H–2A-employers in the same or comparable occupations and crops.
+> &emsp;In considering the question of whether a specific qualification is appropriate in a job offer,the Secretary shall apply the normal and accepted qualifications required by non-H–2A-employers in the same or comparable occupations and crops.
 
 &emsp;(B)(i) For a period of 3 years subsequent to the effective date of this section, labor certifications shall remain effective only if, from the time the foreign worker departs for the employer's place of employment, the employer will provide employment to any qualified United States worker who applies to the employer until 50 percent of the period of the work contract, under which the foreign worker who is in the job was hired, has elapsed. In addition, the employer will offer to provide benefits, wages and working conditions required pursuant to this section and regulations.
 
@@ -78,7 +78,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 #### (1) Permitting filing by agricultural associations
 
-&emsp;A petition to import an alien as a temporary agricultural worker, and an application for a labor certification with respect to such a worker, may be filed by an association of agricultural producers which use agricultural services.
+&emsp;A petition to import an alien as a temporary agricultural worker, and an application for alabor certification with respect to such a worker, may be filed by an association of agricultural producers which use agricultural services.
 
 #### (2) Treatment of associations acting as employers
 
@@ -100,7 +100,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 (1) Regulations shall provide for an expedited procedure for the review of a denial of certification under subsection (a)(1) or a revocation of such a certification or, at the applicant's request, for a de novo administrative hearing respecting the denial or revocation.
 
-(2) The Secretary of Labor shall expeditiously, but in no case later than 72 hours after the timea new determination is requested, make a new determination on the request for certification in the case of an H–2A worker if able, willing, and qualified eligible individuals are not actually available at the time such labor or services are required and a certification was denied in whole or in part because of the availability of qualified workers. If the employer asserts that any eligible individual who has been referred is not able, willing, or qualified, the burden of proof is on the employer to establish that the individual referred is not able, willing, or qualified because of employment-related reasons.
+(2) The Secretary of Labor shall expeditiously, but in no case later than 72 hours after the time a new determination is requested, make a new determination on the request for certification in the case of an H–2A worker if able, willing, and qualified eligible individuals are not actually available at the time such labor or services are required and a certification was denied in whole or in part because of the availability of qualified workers. If the employer asserts that any eligible individual who has been referred is not able, willing, or qualified, the burden of proof is on the employer to establish that the individual referred is not able, willing, or qualified because of employment-related reasons.
 
 #### (f) Violators disqualified for 5 years
 
@@ -130,7 +130,7 @@ An alien may not be admitted to the United States as a temporary agricultural wo
 
 For purposes of this section:
 
-&emsp;(1) The term "eligible individual" means, with respect to employment, an individual who is not an unauthorized alien (as defined in section 1324a(h)(3) of this title) with respect to that employment.
+&emsp;(1) The term "eligible individual" means, with respect to employment, an individual who is not an unauthorized alien (as defined insection 1324a(h)(3) of this title) with respect to that employment.
 
 &emsp;(2) The term "H–2A worker" means a nonimmigrant described in section 1101(a)(15)(H)(ii)(a) of this title.
 
@@ -218,7 +218,7 @@ Presidential Reports.—The President shall transmit to the Committees on the Ju
 
 &emsp;&emsp;"(D) the relative benefits to domestic workers and burdens upon employers of a policy which requires employers, as a condition for certification under the program, to continue to accept qualified United States workers for employment after the date the H–2A workers depart for work with the employer.
 
-> The recommendations under subparagraph (D) shall be made in furtherance of the Congressional policy that aliens not be admitted under the H–2A program unless there are not sufficient workers in the United States who are able, willing, and qualified to perform the labor or services needed and that the employment of the alien in such labor or services will not adversely affect the wages and working conditions of workers in the United States similarly employed.
+> The recommendations under subparagraph (D) shall be made in furtherance of the Congressional policy that aliens not be admitted under the H–2A program unless there are not sufficient workers in the United Stateswho are able, willing, and qualified to perform the labor or services needed and that the employment of the alien in such labor or services will not adversely affect the wages and working conditions of workers in the United States similarly employed.
 
 "(b)
 

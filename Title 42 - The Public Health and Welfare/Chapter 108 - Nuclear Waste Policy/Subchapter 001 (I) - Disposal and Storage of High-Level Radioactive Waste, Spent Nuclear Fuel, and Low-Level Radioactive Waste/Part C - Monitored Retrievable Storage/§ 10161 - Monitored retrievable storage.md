@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) the executive branch and the Congress should proceed as expeditiously as possible to consider fully a proposal for construction of one or more monitored retrievable storage facilities to provide such long-term storage;
 
-&emsp;(3) the Federal Government has the responsibility to ensure that site-specific designs forsuch facilities are available as provided in this section;
+&emsp;(3) the Federal Government has the responsibility to ensure that site-specific designs for such facilities are available as provided in this section;
 
 &emsp;(4) the generators and owners of the high-level radioactive waste and spent nuclear fuel to be stored in such facilities have the responsibility to pay the costs of the long-term storage of such waste and spent fuel; and
 
@@ -64,7 +64,7 @@ Nothing in this section limits the consideration of alternative facility designs
 
 &emsp;(B) utilized by units of general local government only for planning, construction, maintenance, and provision of public services related to the siting of such facility.
 
-(3) Such payments shall be subject to such terms and conditions as the Secretary determines are necessary to ensure achievement of the purposes of this subsection. The Secretary shall issue such regulations as may be necessary to carry out the provisions of this subsection.
+(3) Such payments shall be subject to such terms and conditions as the Secretary determines are necessary to ensure achievement ofthe purposes of this subsection. The Secretary shall issue such regulations as may be necessary to carry out the provisions of this subsection.
 
 (4) Such payments shall be made available entirely from funds held in the Nuclear Waste Fund established in section 10222(c) of this title and shall be available only to the extent provided in advance in appropriation Acts.
 

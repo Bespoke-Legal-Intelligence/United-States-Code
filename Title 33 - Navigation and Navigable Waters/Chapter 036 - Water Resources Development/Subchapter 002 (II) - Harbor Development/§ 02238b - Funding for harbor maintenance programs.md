@@ -66,7 +66,7 @@ If the target total budget resources for a fiscal year described in subparagraph
 
 #### Codification
 
-Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part ofthe Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
 

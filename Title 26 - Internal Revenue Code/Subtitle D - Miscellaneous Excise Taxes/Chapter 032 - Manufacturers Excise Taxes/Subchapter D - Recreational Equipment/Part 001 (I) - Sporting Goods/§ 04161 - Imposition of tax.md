@@ -80,7 +80,7 @@
 
 &emsp;No tax shall be imposed under this subsection with respect to any article taxable under subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 489; Pub. L. 89–44, title II, §205(a), June 21, 1965, 79 Stat. 140; Pub. L. 92–558, title II, §201(a), Oct. 25, 1972, 86 Stat. 1173; Pub. L. 98–369, div. A, title X, §§1015(a), 1017(a), (b), July 18, 1984, 98 Stat. 1017, 1021; Pub.L. 99–514, title XVIII, §1899A(48), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 105–34, title XIV, §1433(a), Aug. 5, 1997, 111 Stat. 1051; Pub. L. 108–357, title III, §§332(a)–(c), 333(a), Oct. 22, 2004, 118 Stat. 1477, 1478; Pub. L. 108–493, §1(a)–(c), Dec. 23, 2004, 118 Stat. 3984; Pub. L. 109–59, title XI, §11117(a), (b), Aug. 10, 2005, 119 Stat. 1951; Pub. L. 109–135, title IV, §412(uu), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. C, title V, §503(a), Oct. 3, 2008, 122 Stat. 3877; Pub. L. 115–97, title I, §11002(d)(11), Dec. 22, 2017, 131 Stat. 2062.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 489; Pub. L. 89–44, title II, §205(a), June 21, 1965, 79 Stat. 140; Pub. L. 92–558, title II, §201(a), Oct. 25, 1972, 86 Stat. 1173; Pub. L. 98–369, div. A, title X, §§1015(a), 1017(a), (b), July 18, 1984, 98 Stat. 1017, 1021; Pub. L. 99–514, title XVIII, §1899A(48), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 105–34, title XIV, §1433(a), Aug. 5, 1997, 111 Stat. 1051; Pub. L. 108–357, title III, §§332(a)–(c), 333(a), Oct. 22, 2004, 118 Stat. 1477, 1478; Pub. L. 108–493, §1(a)–(c), Dec. 23, 2004, 118 Stat. 3984; Pub. L. 109–59, title XI, §11117(a), (b), Aug. 10, 2005, 119 Stat. 1951; Pub. L. 109–135, title IV, §412(uu), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–343, div. C, title V, §503(a), Oct. 3, 2008, 122 Stat. 3877; Pub. L. 115–97, title I, §11002(d)(11), Dec. 22, 2017, 131 Stat. 2062.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -166,7 +166,7 @@ Pub. L. 105–34, title XIV, §1433(b), Aug. 5, 1997, 111 Stat. 1052, provided t
 
 Amendment by section 1015(a) of Pub. L. 98–369 applicable with respect to articles sold by the manufacturer, producer, or importer after Sept. 30, 1984, see section 1015(e) of Pub. L. 98–369, set out as an Effective Date note under section 4162 of this title.
 
-Pub. L. 98–369, div. A, title X, §1017(c), July 18, 1984, 98 Stat. 1021, provided that: "The amendments made bythis section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer after September 30, 1984."
+Pub. L. 98–369, div. A, title X, §1017(c), July 18, 1984, 98 Stat. 1021, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer after September 30, 1984."
 
 #### Effective Date of 1972 Amendment
 
@@ -178,7 +178,7 @@ Pub. L. 89–44, title VII, §701(a), June 21, 1965, 79 Stat. 155, provided that
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by titles I and II of this Act \[enacting sections 4094 and 6424 of this title, amending this section and sections 4055, 4057, 4061, 4091, 4216, 4218, 4221, 4222, 4227, 6011, 6206, 6412, 6416, 6675, 7210, 7603, 7604, and 7605 of this title, repealing sections 4001 to 4003, 4011 to 4013, 4021, 4022, 4031, 4051 to 4053, 4111, 4121, 4131, 4141 to 4143, 4151, 4171 to 4173, 4191, 4192, 4201, 4211, and 4224 of this title, and amending provisions set out as a note under section 120 of Title 23, Highways\] shall apply with respect to articles sold on or after the day after the date of the enactment of this Act \[June 21, 1965\].
+In general.—Except as otherwise provided in this subsection, the amendments made by titles I and II of this Act \[enacting sections 4094 and 6424 of this title, amending this section and sections 4055, 4057, 4061, 4091, 4216, 4218, 4221, 4222, 4227, 6011, 6206, 6412, 6416, 6675, 7210, 7603, 7604, and 7605 of this title, repealing sections4001 to 4003, 4011 to 4013, 4021, 4022, 4031, 4051 to 4053, 4111, 4121, 4131, 4141 to 4143, 4151, 4171 to 4173, 4191, 4192, 4201, 4211, and 4224 of this title, and amending provisions set out as a note under section 120 of Title 23, Highways\] shall apply with respect to articles sold on or after the day after the date of the enactment of this Act \[June 21, 1965\].
 
 "(2)
 

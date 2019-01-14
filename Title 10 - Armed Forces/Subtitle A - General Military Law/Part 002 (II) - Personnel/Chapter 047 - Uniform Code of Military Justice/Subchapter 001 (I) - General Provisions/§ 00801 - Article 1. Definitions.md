@@ -14,13 +14,13 @@ In this chapter (the Uniform Code of Military Justice):
 
 &emsp;(6) The term "cadet" means a cadet of the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy.
 
-&emsp;(7) The term "midshipman" means a midshipman of the United States Naval Academy and any other midshipman on active duty in the naval service.
+&emsp;(7) The term "midshipman" means a midshipman of the United States Naval Academyand any other midshipman on active duty in the naval service.
 
 &emsp;(8) The term "military" refers to any or all of the armed forces.
 
 &emsp;(9) The term "accuser" means a person who signs and swears to charges, any person who directs that charges nominally be signed and sworn to by another, and any other person who has an interest other than an official interest in the prosecution of the accused.
 
-&emsp;(10) The term "military judge" means an official of a general or special court-martial detailed in accordance with section 826 of this title (article 26).
+&emsp;(10) The term "military judge" means a judge advocate designated under section 826(c) of this title (article 26(c)) who is detailed under section 826(a) or section 830a of this title (article 26(a) or 30a).
 
 &emsp;\[(11) Repealed. Pub. L. 109–241, title II, §218(a)(1), July 11, 2006, 120 Stat. 526.\]
 
@@ -28,9 +28,9 @@ In this chapter (the Uniform Code of Military Justice):
 
 &emsp;(13) The term "judge advocate" means—
 
-&emsp;&emsp;(A) an officer of the Judge Advocate General's Corps of the Army or the Navy;
+&emsp;&emsp;(A) an officer of the Judge Advocate General's Corps of the Army, the Navy, or the Air Force;
 
-&emsp;&emsp;(B) an officer of the Air Force or the Marine Corps who is designated as a judge advocate; or
+&emsp;&emsp;(B) an officer of the Marine Corps who is designated as a judge advocate; or
 
 &emsp;&emsp;(C) a commissioned officer of the Coast Guard designated for special duty (law).
 
@@ -45,22 +45,6 @@ In this chapter (the Uniform Code of Military Justice):
 &emsp;(16) The term "national security" means the national defense and foreign relations of the United States.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §218(a), July 11, 2006, 120 Stat. 526; Pub. L. 114–328, div. E, title LI, §5101, Dec. 23, 2016, 130 Stat. 2894; Pub. L. 115–91, div. A, title X, §1081(a)(21), (c)(1)(A), Dec. 12, 2017, 131 Stat. 1595, 1597.)
-
-#### Amendment of Clauses (10) and (13)
-
-<i>Pub. L. 114–328, div. E, title LI, §5101, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2894, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended as follows:</i>
-
-<i>(1) Clause (10) is amended to read as follows:</i>
-
-&emsp;<i>(10) The term "military judge" means a judge advocate designated under section 826(c) of this title (article 26(c)) who is detailed under section 826(a) or section 830a of this title (article 26(a) or 30a).</i>
-
-<i>(2) Clause (13) is amended—</i>
-
-<i>(A) in subparagraph (A), by striking "the Army or the Navy" and inserting "the Army, the Navy, or the Air Force"; and</i>
-
-<i>(B) in subparagraph (B), by striking "the Air Force or".</i>
-
-<i>See 2016 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -80,7 +64,7 @@ The words "In this chapter" are substituted for the introductory clause.
 
 In the introductory clause and throughout the revised chapter the word "chapter" is substituted for the word "code".
 
-Clauses (1), (2), and (5) of 50:551 are omitted as respectively covered by the definitions in clauses (4), (6), and\(14) of section 101 of this title. The words "commissioned officer" are substituted for the word "officer" for clarity throughout this chapter, since the latter term was defined in the limited sense of commissioned officer in clause (5) of 50:551, and is now covered by section 101(14) of this title.
+Clauses (1), (2), and (5) of 50:551 are omitted as respectively covered by the definitions in clauses (4), (6), and (14) of section 101 of this title. The words "commissioned officer" are substituted for the word "officer" for clarity throughout this chapter, since the latter term was defined in the limited sense of commissioned officer in clause (5) of 50:551, and is now covered by section 101(14) of this title.
 
 In clauses (1), (4)–(7), and (9)–(12) of the revised section, the word "means" is substituted for the words "shall be construed to refer to" and "shall be construed to refer \* \* \* to".
 
@@ -116,7 +100,7 @@ Cl. (13)(C). Pub. L. 109–241, §218(a)(2), added subpar. (C) and struck out fo
 
 <b>1988</b>—Cl. (1). Pub. L. 100–456 substituted "term 'Judge" for "term 'judge".
 
-<b>1987</b>—Cls. (1), (3) to (14). Pub. L. 100–180 inserted "The term" after each clause designation and revised first word in quotes in each clause to make initial letter of such word lowercase.
+<b>1987</b>—Cls. (1), (3) to (14). Pub. L. 100–180 inserted "The term" after each clause designation and revised firstword in quotes in each clause to make initial letter of such word lowercase.
 
 <b>1983</b>—Cl. (13). Pub. L. 98–209, §2(a), added officers of the Coast Guard who are designated as law specialists to definition of "Judge Advocate".
 
@@ -142,7 +126,7 @@ Pub. L. 114–328, div. E, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2967, a
 
 "(a)
 
-In General.—Except as otherwise provided in this division \[div. E (§§5001–5542) of Pub. L. 114–328, see Tables for classification\], the amendments made by this division \[enacting, amending, and transferring numerous sections throughout this chapter\] shall take effect on the date designated by the President, which date shall be not later than the first day of the first calendar month that begins two years after the date of the enactment of this Act \[Dec. 23, 2016\].
+In General.—Except as otherwise provided in this division \[div. E (§§5001–5542) of Pub. L. 114–328, see Tables for classification\], the amendments made by this division \[enacting, amending, and transferring numerous sections throughout this chapter\] shall take effect on the date designated by the President \[Jan. 1, 2019, with certain conditions and exceptions, see Ex. Ord. No. 13825, set out below\], which date shall be not later than the first day of the first calendar month that begins two years after the date of the enactment of this Act \[Dec. 23, 2016\].
 
 "(b)
 
@@ -170,7 +154,7 @@ In general.—The amendments made by title LX \[§§5401–5452 of div. E of Pub
 
 &emsp;&emsp;"(B)
 
-Construction.—Nothing in subparagraph (A) shall be construed to invalidate the prosecution ofany offense committed before the effective date of such amendments.
+Construction.—Nothing in subparagraph (A) shall be construed to invalidate the prosecution of any offense committed before the effective date of such amendments.
 
 &emsp;"(4)
 
@@ -242,7 +226,7 @@ Rights, duties, and proceedings not affected by Pub. L. 90–179 establishing Ju
 
 #### Legislative Construction
 
-Act Aug. 10, 1956, ch. 1041, §49(e), 70A Stat. 640, provided that: "In chapter 47 of title 10, United StatesCode \[this chapter\], enacted by section 1 of this Act, no inference of a legislative construction is to be drawn from the part in which any article is placed nor from the catchlines of the part or the article as set out in that chapter."
+Act Aug. 10, 1956, ch. 1041, §49(e), 70A Stat. 640, provided that: "In chapter 47 of title 10, United States Code \[this chapter\], enacted by section 1 of this Act, no inference of a legislative construction is to be drawn from the part in which any article is placed nor from the catchlines of the part or the article as set out in that chapter."
 
 #### Transfer of Functions
 
@@ -374,7 +358,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;"(ii) otherwise under detention at United States Naval Station, Guantanamo Bay, Cuba.
 
-&emsp;"(3) The term 'foreign terrorist organization' means any organization so designated by the Secretary of State under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
+&emsp;"(3) The term 'foreign terrorist organization' means any organization so designated by the Secretary ofState under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
 
 &emsp;"(4) The term 'state sponsor of terrorism' has the meaning given that term in section 301(13) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8541(13))."
 
@@ -446,7 +430,7 @@ Construction With Other Requirements.—Nothing in this section shall be constru
 
 &emsp;"(2) Section 8120 of the Department of Defense Appropriations Act, 2012 \[div. A of Pub. L. 112–74, 125 Stat. 833\]."
 
-\[Memorandum of President of the United States, Jan. 27, 2012, 77 F.R. 11371, delegated to the Secretary of State, in consultation with the Secretary of Defense, the function to provide to Congress the information specified in section 308(a) of Pub. L. 112–87, set out above.\]
+\[Memorandum of President of the United States, Jan. 27, 2012, 77 F.R. 11371, delegated to the Secretary of State, in consultation with the Secretary of Defense, the function to provide to Congress the informationspecified in section 308(a) of Pub. L. 112–87, set out above.\]
 
 #### Detention Authority and Procedures, Transfer Certifications and Prosecution Consultation Requirement
 
@@ -628,7 +612,7 @@ Appropriate Committees of Congress Defined.—In this section, the term 'appropr
 
 "(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall develop and submit to thecongressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a national security protocol governing communications to and from individuals detained at United States Naval Station, Guantanamo Bay, Cuba, pursuant to the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note), and related issues.
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall develop and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a national security protocol governing communications to and from individuals detained at United States Naval Station, Guantanamo Bay, Cuba, pursuant to the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note), and related issues.
 
 "(b)
 
@@ -764,7 +748,7 @@ Pub. L. 111–84, div. A, title X, §1080, Oct. 28, 2009, 123 Stat. 2479, as ame
 
 "(a)
 
-Videotaping or Other Electronic Recording Required.—In accordance with the Army Field Manual on Human Intelligence Collector Operations (FM 2–22.3, September 2006), or any successor thereto, and the guidelines developed pursuant to subsection (f), the Secretary of Defense shall ensure that each strategic intelligence interrogation of any person who is in the custody or under the effective control of the Department of Defense or under detention in a Department of Defense facility is videotaped or otherwise electronically recorded.
+Videotaping or Other Electronic Recording Required.—In accordance with the Army Field Manualon Human Intelligence Collector Operations (FM 2–22.3, September 2006), or any successor thereto, and the guidelines developed pursuant to subsection (f), the Secretary of Defense shall ensure that each strategic intelligence interrogation of any person who is in the custody or under the effective control of the Department of Defense or under detention in a Department of Defense facility is videotaped or otherwise electronically recorded.
 
 "(b)
 
@@ -920,7 +904,7 @@ Report.—Not later than March 1, 2006, the Secretary shall submit to the congre
 
 #### Detainee Interrogation, Status Review, and Treatment
 
-Pub. L. 109–163, div. A, title XIV, §§1402, 1405, 1406, Jan. 6, 2006, 119 Stat. 3475, 3476, 3479, as amended byPub. L. 111–84, div. A, title XVIII, §1803(b)(2), as added Pub. L. 111–383, div. A, title X, §1075(d)(21), Jan. 7, 2011, 124 Stat. 4374, provided that:
+Pub. L. 109–163, div. A, title XIV, §§1402, 1405, 1406, Jan. 6, 2006, 119 Stat. 3475, 3476, 3479, as amended by Pub. L. 111–84, div. A, title XVIII, §1803(b)(2), as added Pub. L. 111–383, div. A, title X, §1075(d)(21), Jan. 7, 2011, 124 Stat. 4374, provided that:
 
 #### "SEC. 1402. UNIFORM STANDARDS FOR THE INTERROGATION OF PERSONS UNDER THE DETENTION OF THE DEPARTMENT OF DEFENSE.
 
@@ -1300,7 +1284,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 Policy.—It is the policy of the United States to—
 
-&emsp;"(1) ensure that no detainee shall be subject to torture or cruel, inhuman, or degrading treatment or punishment that is prohibited by the Constitution, laws, or treaties of the United States;
+&emsp;"(1) ensure that no detainee shall be subject to torture or cruel, inhuman, or degrading treatment orpunishment that is prohibited by the Constitution, laws, or treaties of the United States;
 
 &emsp;"(2) investigate and prosecute, as appropriate, all alleged instances of unlawful treatment of detainees in a manner consistent with the international obligations, laws, or policies of the United States;
 
@@ -1438,7 +1422,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13492. Review and Disposition of Individuals Detained At the Guantanamo Bay Naval Base and Closure of Detention Facilities
 
-Ex. Ord. No. 13492, Jan. 22, 2009, 74 F.R. 4897, provided:
+Ex. Ord. No. 13492, Jan. 22, 2009, 74 F.R. 4897, as amended by Ex. Ord. No. 13823, §2(a), Jan. 30, 2018, 83 F.R. 4831, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, in order to effect the appropriate disposition of individuals currently detained by the Department of Defense at the Guantanamo Bay Naval Base (Guantanamo) and promptly to close detention facilities at Guantanamo, consistent with the national security and foreign policy interests of the United States and the interests of justice, I hereby order as follows:
 
@@ -1462,7 +1446,7 @@ Sec. 2. <i>Findings</i>.
 
 (a) Over the past 7 years, approximately 800 individuals whom the Department of Defense has ever determined to be, or treated as, enemy combatants have been detained at Guantanamo. The Federal Government has moved more than 500 such detainees from Guantanamo, either by returning them to their home country or by releasing or transferring them to a third country. The Department of Defense has determined that a number of the individuals currently detained at Guantanamo are eligible for such transfer or release.
 
-(b) Some individuals currently detained at Guantanamo have been there for more than 6 years, and most have been detained for at least 4 years. In view of the significant concerns raised by these detentions, both within the United States and internationally, prompt and appropriate disposition of the individuals currently detained at Guantanamo and closure of the facilities in which they are detained would further the national security and foreign policy interests of the United States and the interests of justice. Merely closing the facilities without promptly determining the appropriate disposition of the individuals detained would not adequately serve those interests. To the extent practicable, the prompt and appropriate disposition of the individuals detained at Guantanamo should precede the closure of the detention facilities at Guantanamo.
+(b) Some individuals currently detained at Guantanamo have been there for more than 6 years, and most have been detained for at least 4 years. In view of thesignificant concerns raised by these detentions, both within the United States and internationally, prompt and appropriate disposition of the individuals currently detained at Guantanamo and closure of the facilities in which they are detained would further the national security and foreign policy interests of the United States and the interests of justice. Merely closing the facilities without promptly determining the appropriate disposition of the individuals detained would not adequately serve those interests. To the extent practicable, the prompt and appropriate disposition of the individuals detained at Guantanamo should precede the closure of the detention facilities at Guantanamo.
 
 (c) The individuals currently detained at Guantanamo have the constitutional privilege of the writ of habeas corpus. Most of those individuals have filed petitions for a writ of habeas corpus in Federal court challenging the lawfulness of their detention.
 
@@ -1474,7 +1458,7 @@ Sec. 2. <i>Findings</i>.
 
 (g) It is in the interests of the United States that the executive branch conduct a prompt and thorough review of the circumstances of the individuals currently detained at Guantanamo who have been charged with offenses before military commissions pursuant to the Military Commissions Act of 2006, Public Law 109–366, as well as of the military commission process more generally.
 
-Sec. 3. <i>Closure of Detention Facilities at Guantanamo</i>. The detention facilities at Guantanamo for individuals covered by this order shall be closed as soon as practicable, and no later than 1 year from the date of this order. If any individuals covered by this order remain in detention at Guantanamo at the time of closure of those detention facilities, they shall be returned to their home country, released, transferred to a third country, or transferred to another United States detention facility in a manner consistent with law and the national security and foreign policy interests of the United States.
+Sec. 3. \[Revoked by Ex. Ord. No. 13823, §2(a), Jan. 30, 2018, 83 F.R. 4831, set out below.\]
 
 Sec. 4. <i>Immediate Review of All Guantanamo Detentions.</i>
 
@@ -1504,7 +1488,7 @@ Sec. 4. <i>Immediate Review of All Guantanamo Detentions.</i>
 
 &emsp;(3) <i>Determination of Prosecution</i>. In accordance with United States law, the cases of individuals detained at Guantanamo not approved for release or transfer shall be evaluated to determine whether the Federal Government should seek to prosecute the detained individuals for any offenses they may have committed, including whether it is feasible to prosecute such individuals before a court established pursuant to Article III of the United States Constitution, and the Review participants shall in turn take the necessary and appropriate steps based on such determinations.
 
-&emsp;(4) <i>Determination of Other Disposition</i>. With respect to any individuals currently detained at Guantanamowhose disposition is not achieved under paragraphs (2) or (3) of this subsection, the Review shall select lawful means, consistent with the national security and foreign policy interests of the United States and the interests of justice, for the disposition of such individuals. The appropriate authorities shall promptly implement such dispositions.
+&emsp;(4) <i>Determination of Other Disposition</i>. With respect to any individuals currently detained at Guantanamo whose disposition is not achieved under paragraphs (2) or (3) of this subsection, the Review shall select lawful means, consistent with the national security and foreign policy interests of the United States and the interests of justice, for the disposition of such individuals. The appropriate authorities shall promptly implement such dispositions.
 
 &emsp;(5) <i>Consideration of Issues Relating to Transfer to the United States</i>. The Review shall identify and consider legal, logistical, and security issues relating to the potential transfer of individuals currently detained at Guantanamo to facilities within the United States, and the Review participants shall work with the Congress on any legislation that may be appropriate.
 
@@ -1520,9 +1504,7 @@ Sec. 8. <i>General Provisions</i>.
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against theUnited States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 #### Ex. Ord. No. 13567. Periodic Review of Individuals Detained at Guantánamo Bay Naval Station Pursuant to the Authorization for Use of Military Force
 
@@ -1592,7 +1574,7 @@ Sec. 9. <i>Definitions</i>. (a) "Law of War Detention" means: detention authoriz
 
 (b) "Periodic Review Board" means: a board composed of senior officials tasked with fulfilling the functions described in section 3 of this order, one appointed by each of the following departments and offices: the Departments of State, Defense, Justice, and Homeland Security, as well as the Offices of the Director of National Intelligence and the Chairman of the Joint Chiefs of Staff.
 
-(c) "Conditional Detention" means: the status of those detainees designated by the Executive Order 13492review as eligible for transfer if one of the following conditions is satisfied: (1) the security situation improves in Yemen; (2) an appropriate rehabilitation program becomes available; or (3) an appropriate third-country resettlement option becomes available.
+(c) "Conditional Detention" means: the status of those detainees designated by the Executive Order 13492 review as eligible for transfer if one of the following conditions is satisfied: (1) the security situation improves in Yemen; (2) an appropriate rehabilitation program becomes available; or (3) an appropriate third-country resettlement option becomes available.
 
 (d) "Review Committee" means: a committee composed of the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, the Director of National Intelligence, and the Chairman of the Joint Chiefs of Staff.
 
@@ -1605,4 +1587,114 @@ Sec. 10. <i>General Provisions</i>. (a) Nothing in this order shall prejudice th
 (d) Nothing in this order, and no determination made under this order, shall be construed as grounds for release of detainees covered by this order into the United States.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13823. Protecting America Through Lawful Detention of Terrorists
+
+Ex. Ord. No. 13823, Jan. 30, 2018, 83 F.R. 4831, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Findings</i>. (a) Consistent with long-standing law of war principles and applicable law, the United States may detain certain persons captured in connection with an armed conflict for the duration of the conflict.
+
+(b) Following the terrorist attacks of September 11, 2001, the 2001 Authorization for Use of Military Force (AUMF) and other authorities authorized the United States to detain certain persons who were a part of or substantially supported al-Qa'ida, the Taliban, or associated forces engaged in hostilities against the United States or its coalition partners. Today, the United States remains engaged in an armed conflict with al-Qa'ida, the Taliban, and associated forces, including with the Islamic State of Iraq and Syria.
+
+(c) The detention operations at the U.S. Naval Station Guantánamo Bay are legal, safe, humane, and conducted consistent with United States and international law.
+
+(d) Those operations are continuing given that a number of the remaining individuals at the detention facility are being prosecuted in military commissions, while others must be detained to protect against continuing, significant threats to the security of the United States, as determined by periodic reviews.
+
+(e) Given that some of the current detainee population represent the most difficult and dangerous cases from among those historically detained at the facility, there is significant reason for concern regarding their reengagement in hostilities should they have the opportunity.
+
+Sec. 2. <i>Status of Detention Facilities at U.S. Naval Station Guantánamo Bay</i>. (a) Section 3 of Executive Order 13492 of January 22, 2009 (Review and Disposition of Individuals Detained at the Guantánamo Bay Naval Base and Closure of Detention Facilities) \[formerly set out above\], ordering the closure of detention facilities at U.S. Naval Station Guantánamo Bay, is hereby revoked.
+
+(b) Detention operations at U.S. Naval Station Guantánamo Bay shall continue to be conducted consistent with all applicable United States and international law, including the Detainee Treatment Act of 2005 \[see Short Title note set out under section 2000dd of Title 42, The Public Health and Welfare\].
+
+(c) In addition, the United States may transport additional detainees to U.S. Naval Station Guantánamo Bay when lawful and necessary to protect the Nation.
+
+(d) Within 90 days of the date of this order, the Secretary of Defense shall, in consultation with the Secretary of State, the Attorney General, the Secretary of Homeland Security, the Director of National Intelligence, and the heads of any other appropriate executive departments and agencies as determined by the Secretary of Defense, recommend policies to the President regarding the disposition of individuals captured in connection with an armed conflict, including policies governing transfer of individuals to U.S. Naval Station Guantánamo Bay.
+
+(e) Unless charged in or subject to a judgment of conviction by a military commission, any detainees transferred to U.S. Naval Station Guantánamo Bay after the date of this order shall be subject to the procedures for periodic review established in Executive Order 13567 of March 7, 2011 (Periodic Review of Individuals Detained at Guantánamo Bay Naval Station Pursuant to the Authorization for Use of Military Force) \[set out above\], to determine whether continued law of war detention is necessary to protect against a significant threat to the security of the United States.
+
+Sec. 3. <i>Rules of Construction</i>. (a) Nothing in this order shall prevent the Secretary of Defense from transferring any individual away from the U.S. Naval Station Guantánamo Bay when appropriate, including to effectuate an order affecting the disposition of that individual issued by a court or competent tribunal of the United States having lawful jurisdiction.
+
+(b) Nothing in this order shall be construed to affect existing law or authorities relating to the detention of United States citizens, lawful permanent residents of the United States, or any persons who are captured or arrested in the United States.
+
+(c) Nothing in this order shall prevent the Attorney General from, as appropriate, investigating, detaining, and prosecuting a terrorist subject to the criminal laws and jurisdiction of the United States.
+
+Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13825. 2018 Amendments to the Manual for Courts-Martial, United States
+
+Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including chapter 47 of title 10, United States Code (Uniform Code of Military Justice (UCMJ), 10 U.S.C. 801–946), and in order to prescribe amendments to the Manual for Courts-Martial, United States, prescribed by Executive Order 12473 of April 13, 1984, as amended, it is hereby ordered as follows:
+
+Section 1. Part II, Part III, and Part IV of the Manual for Courts-Martial, United States, are amended as described in Annex 1, which is attached to and made a part of this order \[not set out in the Code\].
+
+Sec. 2. The amendments in Annex 1 shall take effect on the date of this order, subject to the following:
+
+(a) Nothing in Annex 1 shall be construed to make punishable any act done or omitted prior to the date of this order that was not punishable when done or omitted.
+
+(b) Nothing in Annex 1 shall be construed to invalidate the prosecution of any offense committed before the date of this order. The maximum punishment for an offense committed before the date of this order shall not exceed the maximum punishment in effect at the time of the commission of such offense.
+
+(c) Nothing in Annex 1 shall be construed to invalidate any nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action begun prior to the date of this order, and any such nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action shall proceed in the same manner and with the same effect as if the amendments in Annex 1 had not been prescribed.
+
+Sec. 3. (a) Pursuant to section 5542 of the Military Justice Act of 2016 (MJA) \[Pub. L. 114–328, set out as an Effective Date of 2016 Amendment note above\], division E of the National Defense Authorization Act for Fiscal Year 2017, Public Law 114–328, 130 Stat. 2000, 2967 (2016), except as otherwise provided by the MJA or this order, the MJA shall take effect on January 1, 2019.
+
+(b) Nothing in the MJA shall be construed to make punishable any act done or omitted prior to January 1, 2019, that was not punishable when done or omitted.
+
+(c) Nothing in title LX of the MJA shall be construed to invalidate the prosecution of any offense committed before January 1, 2019. The maximum punishment for an offense committed before January 1, 2019, shall not exceed the maximum punishment in effect at the time of the commission of such offense.
+
+(d) Nothing in the MJA shall be construed to invalidate any nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action begun prior to January 1, 2019. Except as otherwise provided in this order, the MJA shall not apply in any case in which charges are referred to trial by court-martial before January 1, 2019. Except as otherwise provided in this order, proceedings in any such case shall be held in the same manner and with the same effect as if the MJA had not been enacted.
+
+Sec. 4. The Manual for Courts-Martial, United States, as amended by section 1 of this order, is amended as described in Annex 2, which is attached to and made a part of this order \[not set out in the Code\].
+
+Sec. 5. The amendments in Annex 2, including Appendix 12A, shall take effect on January 1, 2019, subject to the following:
+
+(a) Nothing in Annex 2 shall be construed to make punishable any act done or omitted prior to January 1, 2019, that was not punishable when done or omitted.
+
+(b) Nothing in section 4 of Annex 2 shall be construed to invalidate the prosecution of any offense committed before January 1, 2019. The maximum punishment for an offense committed before January 1, 2019, shall not exceed the maximum punishment in effect at the time of the commission of such offense.
+
+(c) Nothing in Annex 2 shall be construed to invalidate any nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action begun prior to January 1, 2019. Except as otherwise provided in this order, the amendments in Annex 2 shall not apply in any case in which charges are referred to trial by court-martial before January 1, 2019. Except as otherwise provided in this order, proceedings in any such case shall be held in the same manner and with the same effect as if such amendments had not been prescribed.
+
+Sec. 6. (a) The amendments to Articles 2, 56(d), 58a, and 63 of the UCMJ \[10 U.S.C. 802, 856(d), 858a, 863\] enacted by sections 5102, 5301, 5303, and 5327 of the MJA apply only to cases in which all specifications allege offenses committed on or after January 1, 2019.
+
+(b) If the accused is found guilty of a specification alleging the commission of one or more offenses before January 1, 2019, Article 60 of the UCMJ \[10 U.S.C. 860\], as in effect on the date of the earliest offense of which the accused was found guilty, shall apply to the convening authority, in addition to the suspending authority in Article 60a(c) \[10 U.S.C. 860a(c)\] as enacted by the MJA, to the extent that Article 60:
+
+(1) requires action by the convening authority on the sentence;
+
+(2) permits action by the convening authority on findings;
+
+(3) authorizes the convening authority to modify the findings and sentence of a court-martial, dismiss any charge or specification by setting aside a finding of guilty thereto, or change a finding of guilty to a charge or specification to a finding of guilty to an offense that is a lesser included offense of the offense stated in the charge or specification;
+
+(4) authorizes the convening authority to order a proceeding in revision or a rehearing; or
+
+(5) authorizes the convening authority to approve, disapprove, commute, or suspend a sentence in whole or in part.
+
+Sec. 7. The amendment to Article 15 of the UCMJ \[10 U.S.C. 815\] enacted by section 5141 of the MJA shall apply to any nonjudicial punishment imposed on or after January 1, 2019.
+
+Sec. 8. The amendments to Articles 32 and 34 of the UCMJ \[10 U.S.C. 832, 834\] enacted by sections 5203 and 5205 of the MJA apply with respect to preliminary hearings conducted and advice given on or after January 1, 2019.
+
+Sec. 9. The amendments to Article 79 of the UCMJ \[10 U.S.C. 879\] enacted by section 5402 of the MJA and the amendments to Appendix 12A to the Manual for Courts-Martial, United States, made by this order apply only to offenses committed on or after January 1, 2019.
+
+Sec. 10. Except as provided by Rule for Courts-Martial 902A, as promulgated by Annex 2, any change to sentencing procedures:
+
+(a) made by Articles 16(c)(2), 19(b), 25(d)(2) and (3), 39(a)(4), 53, 53a, or 56(c) of the UCMJ \[10 U.S.C. 816(c)(2), 819(b), 825(d)(2) and (3), 839(a)(4), 853, 853a, 856(c)\], as enacted by sections 5161, 5163, 5182, 5222, 5236, 5237, and 5301 of the MJA; or
+
+(b) included in Annex 2 in rules implementing those articles, applies only to cases in which all specifications allege offenses committed on or after January 1, 2019.
+
+Sec. 11. The amendments to Article 146 of the UCMJ \[10 U.S.C. 946\] enacted by section 5521 of the MJA and the new Article 146a \[10 U.S.C. 946a\] enacted by section 5522 of the MJA shall take effect on the day after the report for fiscal year 2017 required by Article 146(c) of the UCMJ (as in effect before the MJA's amendments) is submitted in accordance with Article 146(c)(1), but in no event later than December 1, 2018.
+
+Sec. 12. In accordance with Article 33 of the UCMJ \[10 U.S.C. 833\], as amended by section 5204 of the MJA, the Secretary of Defense, in consultation with the Secretary of Homeland Security, will issue nonbinding guidance regarding factors that commanders, convening authorities, staff judge advocates, and judge advocates should take into account when exercising their duties with respect to the disposition of charges and specifications in the interest of justice and discipline under Articles 30 and 34 of the UCMJ \[10 U.S.C. 830, 834\]. That guidance will take into account, with appropriate consideration of military requirements, the principles contained in official guidance of the Attorney General to attorneys for the Federal Government with respect to the disposition of Federal criminal cases in accordance with the principle of fair and evenhanded administration of Federal criminal law.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

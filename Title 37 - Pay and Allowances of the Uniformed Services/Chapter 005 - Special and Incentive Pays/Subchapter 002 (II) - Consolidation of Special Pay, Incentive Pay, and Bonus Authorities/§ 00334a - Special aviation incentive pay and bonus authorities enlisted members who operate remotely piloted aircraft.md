@@ -60,7 +60,7 @@ Lump sum or installments.—A bonus under this section may be paid in a lump sum
 
 &emsp;(3)
 
-Fixing bonus amount.—Upon acceptance by the Secretary concerned of the writtenagreement required by subsection (d), the total amount of the bonus to be paid under the agreement shall be fixed.
+Fixing bonus amount.—Upon acceptance by the Secretary concerned of the written agreement required by subsection (d), the total amount of the bonus to be paid under the agreement shall be fixed.
 
 (d)
 

@@ -4,7 +4,7 @@ Section 1501, Pub. L. 91–345, §2, July 20, 1970, 84 Stat. 440, related to Con
 
 Section 1502, Pub. L. 91–345, §3, July 20, 1970, 84 Stat. 440; Pub. L. 102–95, §2, Aug. 14, 1991, 105 Stat. 479, related to establishment of National Commission on Libraries and Information Science.
 
-Section 1503, Pub. L. 91–345, §4, July 20, 1970, 84 Stat. 441; Pub. L. 102–95, §3, Aug. 14, 1991, 105 Stat. 479; Pub. L. 108–81, title IV, §401, Sept. 25, 2003, 117 Stat. 1002, related to contributions.
+Section 1503, Pub. L. 91–345, §4, July 20, 1970, 84 Stat. 441; Pub. L. 102–95, §3, Aug. 14, 1991, 105 Stat. 479; Pub.L. 108–81, title IV, §401, Sept. 25, 2003, 117 Stat. 1002, related to contributions.
 
 Section 1504, Pub. L. 91–345, §5, July 20, 1970, 84 Stat. 441; Pub. L. 93–29, title VIII, §802(a), May 3, 1973, 87 Stat. 59; Pub. L. 102–95, §4, Aug. 14, 1991, 105 Stat. 479; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §703(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–306; Pub. L. 108–81, title V, §505(a), Sept. 25, 2003, 117 Stat. 1004, related to functions and powers.
 

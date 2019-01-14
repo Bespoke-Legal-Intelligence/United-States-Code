@@ -6,7 +6,7 @@ The Director, subject to the policy advice of the Museum and Library Services Bo
 
 &emsp;(1) supporting museums in providing learning and access to collections, information, and educational resources in a variety of formats (including exhibitions, programs, publications, and websites) for individuals of all ages;
 
-&emsp;(2) supporting museums in building learning partnerships with the Nation's schools and developing museum resources and programs in support of State and local school curricula;
+&emsp;(2) supporting museums in building learning partnerships with the Nation's schools, including tribal schools, and developing museum resources, capabilities, and programs in support of State and local efforts to offer a well-rounded educational experience to all students;
 
 &emsp;(3) supporting the conservation and preservation of museum collections, including efforts to—
 
@@ -14,35 +14,45 @@ The Director, subject to the policy advice of the Museum and Library Services Bo
 
 &emsp;&emsp;(B) prepare for and respond to disasters and emergency situations;
 
-&emsp;&emsp;(C) establish endowments for conservation; and
+&emsp;&emsp;(C) establish endowments for conservation;
 
-&emsp;&emsp;(D) train museum staff in collections care;
+&emsp;&emsp;(D) curate, stabilize, and organize object-related information; and
+
+&emsp;&emsp;(E) train museum staff in collections care;
 
 &emsp;(4) supporting efforts at the State level to leverage museum resources, including statewide assessments of museum services and needs and development of State plans to improve and maximize museum services through the State;
 
-&emsp;(5) stimulating greater collaboration, in order to share resources and strengthen communities, among museums and—
+&emsp;(5) creating shared technology tools and data resources, and developing museum staff training plans to improve and maximize museum services through organizations such as museum associations, professional networks, community-based organizations, and foundations, and through other collaborative mechanisms;
+
+&emsp;(6) stimulating greater collaboration, in order to share resources and strengthen communities, among museums and—
 
 &emsp;&emsp;(A) libraries;
 
 &emsp;&emsp;(B) schools;
 
-&emsp;&emsp;(C) international, Federal, State, regional, and local agencies or organizations;
+&emsp;&emsp;(C) institutions of higher education;
 
-&emsp;&emsp;(D) nongovernmental organizations; and
+&emsp;&emsp;(D) international, Federal, State, regional, tribal, and local agencies or organizations;
 
-&emsp;&emsp;(E) other community organizations;
+&emsp;&emsp;(E) nongovernmental organizations;
 
-&emsp;(6) encouraging the use of new technologies and media, including new ways to disseminate information, to enhance access to museum collections, programs, and services;
+&emsp;&emsp;(F) other community organizations; and
 
-&emsp;(7) supporting museums in providing services to people of diverse geographic, cultural, and socioeconomic backgrounds and to individuals with disabilities;
+&emsp;&emsp;(G) other relevant research and policy organizations;
 
-&emsp;(8) supporting museums in developing and carrying out specialized programs for specific segments of the public, such as programs for urban neighborhoods, rural areas, Indian reservations, and State institutions;
+&emsp;(7) encouraging the use of new and emerging technologies and media, including new ways to disseminate information, engage varied audiences in experiential learning, and support teachers and students to enhance access to and engagement with museum collections, programs, and services;
 
-&emsp;(9) supporting professional development and technical assistance programs to enhance museum operations, and the skills of museum staff, at all levels, and to support the development of the next generation of museum leaders and professionals, in order to ensure thehighest standards in all aspects of museum operations;
+&emsp;(8) supporting museums in developing, carrying out, and providing programs and services that meet the needs of communities throughout the Nation, including people of diverse geographic, cultural, and socioeconomic backgrounds, individuals with disabilities, residents of rural and urban areas, Native Americans, military families, veterans, and caregivers, and for State institutions;
 
-&emsp;(10) supporting museums in research, program evaluation, and the collection and dissemination of information to museum professionals and the public; and
+&emsp;(9) supporting professional development and technical assistance programs to enhance museum operations, and the skills of museum staff, at all levels, and to support the development of the next generation of museum leaders and professionals, in order to ensure the highest standards in all aspects of museum operations;
 
-&emsp;(11) encouraging, supporting, and disseminating model programs of museum and library collaboration.
+&emsp;(10) supporting museums in research, program evaluation, and the collection and dissemination of information to museum professionals and the public;
+
+&emsp;(11) encouraging, supporting, and disseminating model programs of museum and library collaboration;
+
+&emsp;(12) enabling museums to serve as anchor institutions to support community revitalization and the creation of opportunities for advancement; and
+
+&emsp;(13) developing public and private partnerships with other agencies and community-based organizations to expand and enhance museum services.
 
 #### (b) Federal share
 
@@ -66,7 +76,7 @@ The Director, subject to the policy advice of the Museum and Library Services Bo
 
 #### (2) Grant distribution
 
-&emsp;In awarding grants, the Director shall take into consideration the equitable distribution of grants to museums of various types and sizes and to different geographic areas of the United States <sup>1</sup>
+&emsp;In awarding grants, the Director shall take into consideration the equitable distribution of grants to museums of various types and sizes and to different geographic areas of the United States.
 
 #### (3) Applications for technical assistance
 
@@ -80,15 +90,47 @@ The Director, subject to the policy advice of the Museum and Library Services Bo
 
 #### (d) Services for Native Americans
 
-From amounts appropriated under section 9176 of this title, the Director shall reserve 1.75 percent to award grants to, or enter into contracts or cooperative agreements with, Indian tribes and organizations that primarily serve and represent Native Hawaiians (as defined in section 7517 of this title), to enable such tribes and organizations to carry out the activities described in subsection (a).
+From amounts appropriated under section 9176 of this title, the Director shall reserve 2.25 percent to award grants to, or enter into contracts or cooperative agreements with, Indian tribes and organizations that primarily serve and represent Native Hawaiians (as defined in section 7517 of this title), to enable such tribes and organizations to carry out the activities described in subsection (a).
 
-(Pub. L. 94–462, title II, §274, formerly §273, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–303; renumbered §274 and amended Pub. L. 108–81, title III, §§303, 306(1), Sept. 25, 2003, 117 Stat. 1000, 1002; Pub. L. 111–340, title III, §303, Dec. 22, 2010, 124 Stat. 3603; Pub. L. 114–95, title IX, §9215(aaa)(4), Dec. 10, 2015, 129 Stat. 2184.)
+(Pub. L. 94–462, title II, §274, formerly §273, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–303; renumbered §274 and amended Pub. L. 108–81, title III, §§303, 306(1), Sept. 25, 2003, 117 Stat. 1000, 1002; Pub. L. 111–340, title III, §303, Dec. 22, 2010, 124 Stat. 3603; Pub. L. 114–95, title IX, §9215(aaa)(4), Dec. 10, 2015, 129 Stat. 2184; Pub. L. 115–410, §18, Dec. 31, 2018, 132 Stat. 5420.)
 
 #### Prior Provisions
 
 A prior section 274 of Pub. L. 94–462 was classified to section 9174 of this title, prior to repeal by Pub. L. 108–81.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2). Pub. L. 115–410, §18(a)(1), added par. (2) and struck out former par. (2) which read as follows: "supporting museums in building learning partnerships with the Nation's schools and developing museum resources and programs in support of State and local school curricula;".
+
+Subsec. (a)(3)(D), (E). Pub. L. 115–410, §18(a)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (a)(5). Pub. L. 115–410, §18(a)(5), added par. (5). Former par. (5) redesignated (6).
+
+Subsec. (a)(6). Pub. L. 115–410, §18(a)(4), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Subsec. (a)(6)(C). Pub. L. 115–410, §18(a)(6)(B), added subpar. (C). Former subpar. (C) redesignated (D).
+
+Subsec. (a)(6)(D). Pub. L. 115–410, §18(a)(6)(A), (C), redesignated subpar. (C) as (D) and inserted "tribal," after "regional,". Former subpar. (D) redesignated (E).
+
+Subsec. (a)(6)(E), (F). Pub. L. 115–410, §18(a)(6)(A), (D), redesignated subpars. (D) and (E) as (E) and (F), respectively.
+
+Subsec. (a)(6)(G). Pub. L. 115–410, §18(a)(6)(D)–(F), added subpar. (G).
+
+Subsec. (a)(7). Pub. L. 115–410, §18(a)(4), (7), redesignated par. (4) as (7), struck it out, and added a new par. (7). Prior to amendment, par. read as follows: "supporting efforts at the State level to leverage museum resources, including statewide assessments of museum services and needs and development of State plans to improve and maximize museum services through the State;".
+
+Pub. L. 115–410, §18(a)(3), struck out par. (7) which read as follows: "supporting museums in providing services to people of diverse geographic, cultural, and socioeconomic backgrounds and to individuals with disabilities;".
+
+Subsec. (a)(8). Pub. L. 115–410, §18(a)(8), added par. (8) and struck out former par. (8) which read as follows: "supporting museums in developing and carrying out specialized programs for specific segments of the public, such as programs for urban neighborhoods, rural areas, Indian reservations, and State institutions;".
+
+Subsec. (a)(12), (13). Pub. L. 115–410, §18(a)(9)–(11), added pars. (12) and (13).
+
+Subsec. (c)(2). Pub. L. 115–410, §18(c)(1)(A), inserted period at end.
+
+Subsec. (c)(3)(A). Pub. L. 115–410, §18(c)(1)(B)(i), amended subpar. (A) of par. (3) to duplicate amendment made by Pub. L. 111–340, §303(2)(C)(i), which had been directed to subpar. (A) of par. (2) but executed to par. (3) to reflect the probable intent of Congress, thus resulting in no change in text. See 2010 Amendment note below.
+
+Subsec. (c)(3)(B). Pub. L. 115–410, §18(c)(1)(B)(ii), amended subpar. (B) of par. (3) to duplicate amendment made by Pub. L. 111–340, §303(2)(C)(ii), which had been directed to subpar. (B) of par. (2) but executed to par. (3) to reflect the probable intent of Congress, thus resulting in no change in text. See 2010 Amendment note below.
+
+Subsec. (d). Pub. L. 115–410, §18(b), (c)(2), substituted "2.25 percent" for "1.75 percent" and made technical amendment to reference in original act which appears in text as reference to section 9176 of this title.
 
 <b>2015</b>—Subsec. (d). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7517 of this title.
 
@@ -119,6 +161,4 @@ Subsec. (c)(3)(B). Pub. L. 111–340, §303(2)(C)(ii), which directed the substi
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

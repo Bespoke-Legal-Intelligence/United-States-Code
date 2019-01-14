@@ -4,7 +4,7 @@
 
 The Administrator may—
 
-&emsp;(1) participate in the technical group described in Article 7 of the Convention, and in any other body convened pursuant to the Convention for the consideration of new or additional controls on antifouling systems;
+&emsp;(1) participate in the technical group described in Article 7 of the Convention, and inany other body convened pursuant to the Convention for the consideration of new or additional controls on antifouling systems;
 
 &emsp;(2) evaluate any risks of adverse effects on nontarget organisms or human health presented by a given antifouling system such that the amendment of annex 1 of the Convention may be warranted;
 

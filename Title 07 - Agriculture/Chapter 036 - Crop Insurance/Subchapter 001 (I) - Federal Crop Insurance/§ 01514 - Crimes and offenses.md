@@ -6,7 +6,7 @@
 
 The provisions of section 6306 of title 41 shall not apply to any crop insurance agreements made under this subchapter.
 
-(Feb. 16, 1938, ch. 30, title V, §514, 52 Stat. 76; June 25, 1948, ch. 645, §§4, 21, 62 Stat. 859, 862;Pub. L. 110–234, title XII, §12033(c)(2)(B), May 22, 2008, 122 Stat. 1405; Pub. L. 110–246, §4(a), title XII, §12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2167.)
+(Feb. 16, 1938, ch. 30, title V, §514, 52 Stat. 76; June 25, 1948, ch. 645, §§4, 21, 62 Stat. 859, 862; Pub. L. 110–234, title XII, §12033(c)(2)(B), May 22, 2008, 122 Stat. 1405; Pub. L. 110–246, §4(a), title XII, §12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2167.)
 
 #### Codification
 

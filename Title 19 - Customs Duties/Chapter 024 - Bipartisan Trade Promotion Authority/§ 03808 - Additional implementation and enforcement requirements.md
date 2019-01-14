@@ -10,7 +10,7 @@ At the time the President submits to the Congress the final text of an agreement
 
 #### (2) Agency staffing requirements
 
-&emsp;A description of additional personnel required by Federal agencies responsible formonitoring and implementing the trade agreement, including personnel required by the Office of the United States Trade Representative, the Department of Commerce, the Department of Agriculture (including additional personnel required to implement sanitary and phytosanitary measures in order to obtain market access for United States exports), the Department of the Treasury, and such other agencies as may be necessary.
+&emsp;A description of additional personnel required by Federal agencies responsible for monitoring and implementing the trade agreement, including personnel required by the Office of the United States Trade Representative, the Department of Commerce, the Department of Agriculture (including additional personnel required to implement sanitary and phytosanitary measures in order to obtain market access for United States exports), the Department of the Treasury, and such other agencies as may be necessary.
 
 #### (3) Customs infrastructure requirements
 

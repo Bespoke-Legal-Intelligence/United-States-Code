@@ -42,7 +42,7 @@ For purposes of this section and section 2056(d), the term "qualified domestic t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the tax imposed on the estate of the decedent under section 2001 is not finally determined before the taxable event, the amount of the tax imposed by paragraph (1) on such event shall be determined by using the highest rate of tax in effectunder section 2001 as of the date of the decedent's death.
+&emsp;&emsp;&emsp;If the tax imposed on the estate of the decedent under section 2001 is not finally determined before the taxable event, the amount of the tax imposed by paragraph (1) on such event shall be determined by using the highest rate of tax in effect under section 2001 as of the date of the decedent's death.
 
 #### (ii) Refund of excess when tax finally determined
 
@@ -56,7 +56,7 @@ For purposes of this section and section 2056(d), the term "qualified domestic t
 
 #### (C) Special rule where decedent has more than 1 qualified domestic trust
 
-&emsp;&emsp;If there is more than 1 qualified domestic trust with respect to any decedent, the amount of the tax imposed by paragraph (1) with respect to such trusts shall be determined by using the highest rate of tax in effect under section 2001 as of the date of the decedent's death (and the provisions of paragraph (3)(B) shall not apply) unless, pursuant to a designation made by the decedent's executor, there is 1 person—
+&emsp;&emsp;If there is more than 1 qualified domestic trust with respect to any decedent, theamount of the tax imposed by paragraph (1) with respect to such trusts shall be determined by using the highest rate of tax in effect under section 2001 as of the date of the decedent's death (and the provisions of paragraph (3)(B) shall not apply) unless, pursuant to a designation made by the decedent's executor, there is 1 person—
 
 &emsp;&emsp;&emsp;(i) who is an individual citizen of the United States or a domestic corporation and is responsible for filing all returns of tax imposed under paragraph (1) with respect to such trusts and for paying all tax so imposed, and
 
@@ -212,7 +212,7 @@ Subsec. (b)(4). Pub. L. 101–239, §7815(d)(7)(D), amended par. (4) generally. 
 
 Pub. L. 101–239, §7815(d)(7)(B), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (b)(5). Pub. L. 101–239, §7815(d)(15), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The estate tax imposed by paragraph (1) shall be due and payable on the 15th day of the 4th month following the calendar year in which the taxable event occurs."
+Subsec. (b)(5). Pub. L. 101–239, §7815(d)(15), amended par. (5) generally. Prior to amendment, par. (5) read asfollows: "The estate tax imposed by paragraph (1) shall be due and payable on the 15th day of the 4th month following the calendar year in which the taxable event occurs."
 
 Pub. L. 101–239, §7815(d)(7)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 

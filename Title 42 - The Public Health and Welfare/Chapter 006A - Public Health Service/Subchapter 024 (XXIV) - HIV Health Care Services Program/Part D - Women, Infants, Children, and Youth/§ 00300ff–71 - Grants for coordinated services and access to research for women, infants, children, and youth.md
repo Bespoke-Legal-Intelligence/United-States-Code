@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall award grants to public andnonprofit private entities (including a health facility operated by or pursuant to a contract with the Indian Health Service) for the purpose of providing family-centered care involving outpatient or ambulatory care (directly or through contracts or memoranda of understanding) for women, infants, children, and youth with HIV/AIDS.
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall award grants to public and nonprofit private entities (including a health facility operated by or pursuant to a contract with the Indian Health Service) for the purpose of providing family-centered care involving outpatient or ambulatory care (directly or through contracts or memoranda of understanding) for women, infants, children, and youth with HIV/AIDS.
 
 #### (b) Additional services for patients and families
 
@@ -142,5 +142,5 @@ Subsec. (j). Pub. L. 111–87, §11(a)(1), redesignated subsec. (i) as (j).
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by sections 2(e) and 11 of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendmentby sections 2(e) and 11 of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

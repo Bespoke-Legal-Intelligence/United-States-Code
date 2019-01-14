@@ -34,7 +34,7 @@ In carrying out the purposes of subsection (a), the Secretary is authorized to�
 
 (2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients that are pertinent to the grants or contracts entered into under this part under other than competitive bidding procedures.
 
-(June 25, 1938, ch. 675, §532, formerly act July 1, 1944, ch. 373, title III, §532, formerly §356, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1174; renumbered §532 and amended Pub. L.101–629, §19(a)(1)(B), (2)(A), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
+(June 25, 1938, ch. 675, §532, formerly act July 1, 1944, ch. 373, title III, §532, formerly §356, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1174; renumbered §532 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(A), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
 
 #### Codification
 

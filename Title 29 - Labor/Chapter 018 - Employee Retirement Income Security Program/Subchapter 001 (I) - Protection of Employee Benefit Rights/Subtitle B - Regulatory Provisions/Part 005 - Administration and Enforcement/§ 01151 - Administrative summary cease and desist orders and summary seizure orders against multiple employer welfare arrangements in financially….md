@@ -6,7 +6,7 @@ The Secretary may issue a cease and desist (ex parte) order under this subchapte
 
 #### (b) Hearing
 
-A person that is adversely affected by the issuance of a cease and desist order under subsection (a) may request a hearing by the Secretary regarding such order. The Secretary may require that a proceeding under this section, including all related information and evidence, be conducted in a confidential manner.
+A person that is adversely affected by the issuance of a cease and desist order under subsection (a) may request a hearing by the Secretary regarding such order. The Secretary may require that a proceeding under this section, includingall related information and evidence, be conducted in a confidential manner.
 
 #### (c) Burden of proof
 

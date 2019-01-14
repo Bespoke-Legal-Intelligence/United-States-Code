@@ -44,7 +44,7 @@ No payment shall be made under this section except upon application therefor whi
 
 &emsp;(2) applications are consistent with the purposes of this section. Such regulations and procedures shall clearly indicate that obscenity is without artistic merit, is not protected speech, and shall not be funded. Projects, productions, workshops, and programs that are determined to be obscene are prohibited from receiving financial assistance under this subchapter from the National Endowment for the Arts.
 
-> The disapproval or approval of an application by the Chairperson shall not be construed to mean,and shall not be considered as evidence that, the project, production, workshop, or program for which the applicant requested financial assistance is or is not obscene.
+> The disapproval or approval of an application by the Chairperson shall not be construed to mean, and shall not be considered as evidence that, the project, production, workshop, or program for which the applicant requested financial assistance is or is not obscene.
 
 #### (e) Limitation on amount of grant to group; grants and contracts of the National Endowment for the Arts
 
@@ -174,7 +174,7 @@ The Inspector General of the Endowment shall conduct appropriate reviews to ensu
 
 #### (m) Labor standards of professional performers and personnel; healthy and safe working conditions
 
-It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State or State agency receiving such grant furnish adequate assurances to the Secretary of Labor that (1) all professional performers and related or supporting professional personnel (other than laborers and mechanics with respect to whom labor standards are prescribed in subsection (n) of this section) employed on projects or productions which are financed in whole or in part under this section will be paid, without subsequent deduction or rebate on any account, not less than the minimum compensation as determined by the Secretary of Labor to be the prevailing minimum compensation for persons employed in similar activities; and (2) no part of any project or production which is financed in whole or in part under this section will be performed or engaged in under working conditions which are unsanitary or hazardous or dangerous to the health and safety of the employees engaged in such project or production. Compliance with the safety and sanitary laws of the State in which the performance or part thereof is to take place shall be prima facie evidence of compliance. The Secretary of Labor shall have the authority to prescribe standards, regulations, and procedures as the Secretary of Labor may deem necessary or appropriate to carry out the provisions of this subsection.
+It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State or State agency receiving such grant furnish adequate assurances to the Secretary of Labor that\(1) all professional performers and related or supporting professional personnel (other than laborers and mechanics with respect to whom labor standards are prescribed in subsection (n) of this section) employed on projects or productions which are financed in whole or in part under this section will be paid, without subsequent deduction or rebate on any account, not less than the minimum compensation as determined by the Secretary of Labor to be the prevailing minimum compensation for persons employed in similar activities; and (2) no part of any project or production which is financed in whole or in part under this section will be performed or engaged in under working conditions which are unsanitary or hazardous or dangerous to the health and safety of the employees engaged in such project or production. Compliance with the safety and sanitary laws of the State in which the performance or part thereof is to take place shall be prima facie evidence of compliance. The Secretary of Labor shall have the authority to prescribe standards, regulations, and procedures as the Secretary of Labor may deem necessary or appropriate to carry out the provisions of this subsection.
 
 #### (n) Labor standards of laborers and mechanics
 
@@ -222,7 +222,7 @@ The Chairperson shall correlate the programs of the National Endowment for the A
 
 &emsp;(ii) stimulating artistic activity and awareness and broadening public access to the arts in rural and innercity areas and other areas that are underserved artistically.
 
-(B) For purposes of providing financial assistance under this paragraph, the Chairperson shall give priority to the activities described in subparagraph (A)(i).
+(B) For purposes of providing financial assistance under this paragraph, the Chairperson shallgive priority to the activities described in subparagraph (A)(i).
 
 (C) The Chairperson may not provide financial assistance under this paragraph to a particular applicant in more than 3 fiscal years for the purpose specified in subparagraph (A)(i).
 
@@ -358,7 +358,7 @@ Subsec. (g)(1). Pub. L. 93–133, §2(a)(4)(A), struck out reference to Federal 
 
 Subsec. (g)(2). Pub. L. 93–133, §2(a)(4)(B), (C), in provisions preceding cl. (A), substituted "assistance under this subsection" and "at such time as shall be specified by the Chairman" for "such assistance" and "prior to the first day of such fiscal year" respectively, and in cl. (B), struck out exception that in the first fiscal year in which the state was allotted funds after Sept. 29, 1965, the plan may provide that amount not exceeding $25,000 will be expended to conduct a study to plan the development and the establishment of a State agency.
 
-Subsec. (g)(3). Pub. L. 93–133, §2(a)(4)(D), added par. (3) and struck out former par. (3) which read as follows: "From the sums appropriated to carry out the purposes of this subsection for any fiscal year, not less than $65,000 shall be allotted to each State. That part of such sums as may remain after such allotment shall be allotted among the States in equal amounts, except that for the purposes of this sentence the term 'State' shall not include Guam and American Samoa. If the sums appropriated for any fiscal year to carry out the purposes of this subsection are insufficient to satisfy allotments under the first sentence of this paragraph, such sums shall be allotted among the States in equal amounts."
+Subsec. (g)(3). Pub. L. 93–133, §2(a)(4)(D), added par. (3) and struck out former par. (3) which read as follows: "From the sums appropriated to carry out the purposes of this subsection for any fiscal year, not less than $65,000 shall be allotted to each State. That part of such sums as may remain after such allotment shall be allotted among the States in equal amounts, except that for the purposes of this sentence the term 'State' shallnot include Guam and American Samoa. If the sums appropriated for any fiscal year to carry out the purposes of this subsection are insufficient to satisfy allotments under the first sentence of this paragraph, such sums shall be allotted among the States in equal amounts."
 
 Subsec. (g)(4). Pub. L. 93–133, §2(a)(4)(D), added par. (4) and struck out former par. (4) which read as follows: "The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1), and to pay up to 100 per centum of the cost of conducting a study and establishing a State agency under paragraph (2)(B) of this subsection."
 
@@ -410,7 +410,7 @@ Amendment by section 5(a)(1), (2) of Pub. L. 91–346 effective after June 30, 1
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (q) of this section relating to quadrenniallysubmitting the state of the arts report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 183 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (q) of this section relating to quadrennially submitting the state of the arts report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 183 of House Document No. 103–7.
 
 #### GAO Study Regarding Federal, State, and Local Funding of the Arts
 
@@ -432,5 +432,5 @@ Report Required.—Not later than October 1, 1992, the Comptroller General shall
 
 #### Temporary Independent Commission To Review Grant Making Procedures and Consider Standards for Publicly Funded Art
 
-Pub. L. 101–121, title III, §304(a)–(c), Oct. 23, 1989, 103 Stat. 741, 742, prohibited use of funds for National Endowment for the Arts or National Endowment for the Humanities to promote, disseminate, or produce materials which in judgment of National Endowment for the Arts or National Endowment for the Humanities may be considered obscene; stated the sense of Congress concerning present procedures employed for awarding National Endowment for the Arts grants; and established Independent Commission, to expire Sept. 30, 1990, for purpose of reviewing National Endowment for the Arts grant making procedures, and considering whether standard for publicly funded art should be different than standard for privately funded art.
+Pub. L. 101–121, title III, §304(a)–(c), Oct. 23, 1989, 103 Stat. 741, 742, prohibited use of funds for National Endowment for the Arts or National Endowment for the Humanities to promote, disseminate, or produce materials which in judgment of National Endowment for theArts or National Endowment for the Humanities may be considered obscene; stated the sense of Congress concerning present procedures employed for awarding National Endowment for the Arts grants; and established Independent Commission, to expire Sept. 30, 1990, for purpose of reviewing National Endowment for the Arts grant making procedures, and considering whether standard for publicly funded art should be different than standard for privately funded art.
 

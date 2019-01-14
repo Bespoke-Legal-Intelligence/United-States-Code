@@ -24,7 +24,7 @@ Section was formerly classified to section 170t of Title 5 prior to the general 
 
 #### Amendments
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–475 incorporated existing provisions into par. (1) preceding subpar. (A), and par. 3(B), added pars. (1)(A), (B), (2), and (3)(A), and substituted "enacted before October 26, 1974, no money appropriated to the Department of State under any law shall be available for obligation or expenditure with respect to any fiscal year commencing on or after July 1, 1972" of ", no appropriation shall be made to the Department of State under any law for any fiscal year commencing on or after July 1, 1972, unless previously authorized by legislation hereafter enacted by the Congress.", in par. (1) preceding subpar. (A), and "section" for "subsection" in par. (3).
+<b>1974</b>—Subsec. (a). Pub. L. 93–475 incorporated existing provisions into par. (1) preceding subpar. (A), and par. 3(B), added pars. (1)(A), (B), (2), and (3)(A), and substituted "enacted before October 26, 1974, no money appropriated to the Department of State under any law shall be available for obligation or expenditure with respect to any fiscal year commencing on or after July 1, 1972" of ", no appropriation shall be made to the Department of State under any law for any fiscal yearcommencing on or after July 1, 1972, unless previously authorized by legislation hereafter enacted by the Congress.", in par. (1) preceding subpar. (A), and "section" for "subsection" in par. (3).
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–352 inserted provisions that this subsection shall not apply to, or affect in any manner, permanent appropriations, trust funds, and other similar accounts administered by the Department as authorized by law.
 

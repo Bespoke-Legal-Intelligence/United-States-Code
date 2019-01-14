@@ -48,7 +48,7 @@ Electric Lighting Demonstration Program.—(1) The Secretary of Defense shall co
 
 "(c)
 
-Refrigeration Equipment Demonstration Program.—(1) The Secretary of Defense shall conduct a demonstration program for using energy efficient refrigeration equipment.
+Refrigeration Equipment Demonstration Program.—(1) The Secretary of Defense shall conduct ademonstration program for using energy efficient refrigeration equipment.
 
 "(2) The Secretary shall designate 50 facilities owned or operated by the Department of Defense for participation in the demonstration program under this subsection.
 
@@ -62,7 +62,7 @@ Refrigeration Equipment Demonstration Program.—(1) The Secretary of Defense sh
 
 "(d)
 
-General Provisions for Demonstration Programs.—(1) The Secretary of Defense shall make thedesignations under subsections (b)(2) and (c)(2) not later than 180 days after the date of the enactment of this Act \[Oct. 23, 1992\].
+General Provisions for Demonstration Programs.—(1) The Secretary of Defense shall make the designations under subsections (b)(2) and (c)(2) not later than 180 days after the date of the enactment of this Act \[Oct. 23, 1992\].
 
 "(2) The Secretary of Defense may designate a facility described in subsections (b)(2) and (c)(2) for participation in the demonstration program under subsection (b) and the demonstration program under subsection (c).
 

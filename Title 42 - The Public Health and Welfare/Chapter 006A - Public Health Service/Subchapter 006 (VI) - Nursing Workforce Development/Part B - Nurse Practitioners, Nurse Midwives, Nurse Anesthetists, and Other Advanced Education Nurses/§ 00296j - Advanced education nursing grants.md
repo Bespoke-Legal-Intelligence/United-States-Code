@@ -68,7 +68,7 @@ Subsecs. (d), (e). Pub. L. 111–148, §5308(3), (4), added subsec. (d) and rede
 
 Subsec. (f). Pub. L. 111–148, §5308(3), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (f)(2), (3). Pub. L. 111–148, §5308(2), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The Secretary may not obligate more than 10 percent of the traineeships under subsection (a) of this section for individuals in doctorate degree programs."
+Subsec. (f)(2), (3). Pub. L. 111–148, §5308(2), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The Secretary may not obligate more than 10 percent of thetraineeships under subsection (a) of this section for individuals in doctorate degree programs."
 
 Subsec. (g). Pub. L. 111–148, §5308(3), redesignated subsec. (f) as (g).
 

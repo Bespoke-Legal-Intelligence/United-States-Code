@@ -154,7 +154,7 @@ For local educational agencies using funds under this part for the purposes desc
 
 &emsp;&emsp;&emsp;(i) information on the level of achievement and academic growth of the student, if applicable and available, on each of the State academic assessments required under this part; and
 
-&emsp;&emsp;&emsp;(ii) timely notice that the student has been assigned, or has been taught for 4 or more consecutive weeks by, a teacher whodoes not meet applicable State certification or licensure requirements at the grade level and subject area in which the teacher has been assigned.
+&emsp;&emsp;&emsp;(ii) timely notice that the student has been assigned, or has been taught for 4 or more consecutive weeks by, a teacher who does not meet applicable State certification or licensure requirements at the grade level and subject area in which the teacher has been assigned.
 
 #### (2) Testing transparency
 

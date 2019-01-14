@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Agriculture shall charge a rental charge for all ski area permits issued pursuant to section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b), the Act of March 4, 1915 (38 Stat. 1101, chapter 144; 16 U.S.C. 497), or the 9th through 20th paragraphs under the heading "SURVEYING THE PUBLIC LANDS" under the heading "UNDER THE DEPARTMENT OF THE INTERIOR" in the Act of June 4, 1897 (30 Stat. 34, chapter 2), on National Forest System lands. Permit rental charges for permits issued pursuant to the National Forest Ski Area Permit Act of 1986 shall be calculated as set forth in subsection (b). Permit rental charges for existing ski area permits issued pursuant to the Act of March 4, 1915, and the Act of June 4, 1897, shall be calculated in accordance with those existing permits: <i>Provided</i>, That apermittee may, at the permittee's option, use the calculation method set forth in subsection (b).
+The Secretary of Agriculture shall charge a rental charge for all ski area permits issued pursuant to section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b), the Act of March 4, 1915 (38 Stat. 1101, chapter 144; 16 U.S.C. 497), or the 9th through 20th paragraphs under the heading "SURVEYING THE PUBLIC LANDS" under the heading "UNDER THE DEPARTMENT OF THE INTERIOR" in the Act of June 4, 1897 (30 Stat. 34, chapter 2), on National Forest System lands. Permit rental charges for permits issued pursuant to the National Forest Ski Area Permit Act of 1986 shall be calculated as set forth in subsection (b). Permit rental charges for existing ski area permits issued pursuant to the Act of March 4, 1915, and the Act of June 4, 1897, shall be calculated in accordance with those existing permits: <i>Provided</i>, That a permittee may, at the permittee's option, use the calculation method set forth in subsection (b).
 
 #### (b) Formula
 
@@ -58,7 +58,7 @@ Where the new rental charge provided for in subsection (b)(1) results in an incr
 
 #### (i) Construction with National Environmental Policy Act of 1969
 
-To reduce Federal costs in administering the provisions of this section, the reissuance of a ski area permit to provide activities similar in nature and amount to the activities provided under the previous permit shall not constitute a major Federal action for the purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4331 et seq.).
+To reduce Federal costs in administering the provisions of this section, the reissuance of a ski area permit to provide activities similar in nature and amount to the activities providedunder the previous permit shall not constitute a major Federal action for the purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4331 et seq.).
 
 #### (j) Withdrawal from mining laws
 

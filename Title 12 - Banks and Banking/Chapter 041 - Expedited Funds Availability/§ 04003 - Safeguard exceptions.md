@@ -44,7 +44,7 @@ The Board, jointly with the Director of the Bureau of Consumer Financial Protect
 
 #### (1) In general
 
-&emsp;In accordance with regulations which the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall prescribe, subsections (a)(2), (b), (c), and (e) of section 4002 of this title shall not apply with respect to any check deposited in an account at a depository institution if the receiving depository institution has reasonable cause to believe that the check is uncollectible from the originating depository institution. For purposes of the preceding sentence, reasonable cause to believe requires the existence of factswhich would cause a well-grounded belief in the mind of a reasonable person. Such reasons shall be included in the notice required under subsection (f).
+&emsp;In accordance with regulations which the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall prescribe, subsections (a)(2), (b), (c), and (e) of section 4002 of this title shall not apply with respect to any check deposited in an account at a depository institution if the receiving depository institution has reasonable cause to believe that the check is uncollectible from the originating depository institution. For purposes of the preceding sentence, reasonable cause to believe requires the existence of facts which would cause a well-grounded belief in the mind of a reasonable person. Such reasons shall be included in the notice required under subsection (f).
 
 #### (2) Basis for determination
 
@@ -120,7 +120,7 @@ Subject to such regulations as the Board, jointly with the Director of the Burea
 
 &emsp;&emsp;&emsp;(ii) the reason the exception was invoked; and
 
-&emsp;&emsp;(B) except where other time periods are specifically provided in this chapter, the availability of the funds deposited shall be governed by the policy of the receiving depository institution, but shall not exceed a reasonable period of time as determined by the Board, jointly with the Director of the Bureau of Consumer Financial Protection.
+&emsp;&emsp;(B) except where other time periods are specifically provided in this chapter, theavailability of the funds deposited shall be governed by the policy of the receiving depository institution, but shall not exceed a reasonable period of time as determined by the Board, jointly with the Director of the Bureau of Consumer Financial Protection.
 
 #### (2) Time for notice
 

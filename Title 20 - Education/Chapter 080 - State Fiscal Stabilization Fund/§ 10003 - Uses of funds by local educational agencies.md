@@ -34,7 +34,7 @@ The Carl D. Perkins Career and Technical Education Act of 2006, referred to in s
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–8 substituted "the Adult Education and Family Literacy Act (20 U.S.C. 9201 et seq.)" for "the Adult and Family Literacy Act (20 U.S.C. 1400 et seq.)".
+<b>2009</b>—Subsec. (a). Pub. L. 111–8 substituted "the Adult Education and Family Literacy Act (20 U.S.C. 9201 etseq.)" for "the Adult and Family Literacy Act (20 U.S.C. 1400 et seq.)".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

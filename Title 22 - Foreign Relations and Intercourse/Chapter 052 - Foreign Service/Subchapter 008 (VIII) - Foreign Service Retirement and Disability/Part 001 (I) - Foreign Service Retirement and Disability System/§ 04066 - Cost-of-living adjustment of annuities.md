@@ -12,7 +12,7 @@ Each annuity increase under this section shall be identical to the corresponding
 
 Eligibility for an annuity increase under this section shall be governed by the commencing date of each annuity payable from the Fund under this part as of the effective date of an increase except as follows:
 
-&emsp;(1) The first increase (if any) made under this section to an annuity which is payable from the Fund to a participant or to the surviving spouse or former spouse of a deceased participant who died in service or a deceased annuitant whose annuity was not increased under this section, shall be equal to the product (adjusted to the nearest 1/10 of 1 percent) of—
+&emsp;(1) The first increase (if any) made under this section to an annuity which is payablefrom the Fund to a participant or to the surviving spouse or former spouse of a deceased participant who died in service or a deceased annuitant whose annuity was not increased under this section, shall be equal to the product (adjusted to the nearest 1/10 of 1 percent) of—
 
 &emsp;&emsp;(A) 1/12 of the applicable percent change computed under subsection (b) of this section, multiplied by
 
@@ -24,7 +24,7 @@ Eligibility for an annuity increase under this section shall be governed by the 
 
 &emsp;(2) Effective from its commencing date, an annuity payable from the Fund under this part to the survivor of an annuitant, except a child entitled to an annuity under section 4046(c) of this title or section 4049(c) or (d) of this title, shall be increased by the total percentage increase the annuitant was receiving under this section at death.
 
-&emsp;(3) For purposes of computing or recomputing an annuity to a child under section 4046(c)or (d) of this title or section 4049(c) or (d) of this title, the items $900, $1,080, $2,700, and $3,240 appearing in section 4046(c) of this title shall be increased by the total percentage increases by which corresponding amounts are being increased under section 8340 of title 5 on the date the annuity of the child becomes effective.
+&emsp;(3) For purposes of computing or recomputing an annuity to a child under section 4046(c) or (d) of this title or section 4049(c) or (d) of this title, the items $900, $1,080, $2,700, and $3,240 appearing in section 4046(c) of this title shall be increased by the total percentage increases by which corresponding amounts are being increased under section 8340 of title 5 on the date the annuity of the child becomes effective.
 
 #### (d) Exclusion of additional annuity purchased after retirement by voluntary contribution
 

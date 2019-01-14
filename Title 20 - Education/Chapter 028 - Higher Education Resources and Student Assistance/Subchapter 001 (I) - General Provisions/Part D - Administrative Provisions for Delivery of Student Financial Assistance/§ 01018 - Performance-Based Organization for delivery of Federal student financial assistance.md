@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(vi) ensuring the integrity of the Federal student financial assistance programs authorized under subchapter IV.
 
-&emsp;&emsp;(B) Annual development of a budget for the activities and functions of the PBO, in consultation with the Secretary, and forconsideration and inclusion in the Department's annual budget submission.
+&emsp;&emsp;(B) Annual development of a budget for the activities and functions of the PBO, in consultation with the Secretary, and for consideration and inclusion in the Department's annual budget submission.
 
 #### (3) Additional functions
 
@@ -66,7 +66,7 @@
 
 #### (4) Independence
 
-&emsp;Subject to paragraph (1), in carrying out its functions, the PBO shall exercise independent control of its budget allocations and expenditures, personnel decisions and processes, procurements, and other administrative and management functions.
+&emsp;Subject to paragraph (1), in carrying out its functions, the PBO shall exercise independentcontrol of its budget allocations and expenditures, personnel decisions and processes, procurements, and other administrative and management functions.
 
 #### (5) Audits and review
 
@@ -218,7 +218,7 @@
 
 #### (B) Bonus
 
-&emsp;&emsp;In addition, a senior manager may receive a bonus in an amount such that the manager's total annual compensation does not exceed 125 percent of the maximum rate of basic pay for the Senior Executive Service, including any applicable locality-based comparability payment, based upon the ChiefOperating Officer's evaluation of the manager's performance in relation to the goals set forth in the performance agreement described in paragraph (2).
+&emsp;&emsp;In addition, a senior manager may receive a bonus in an amount such that the manager's total annual compensation does not exceed 125 percent of the maximum rate of basic pay for the Senior Executive Service, including any applicable locality-based comparability payment, based upon the Chief Operating Officer's evaluation of the manager's performance in relation to the goals set forth in the performance agreement described in paragraph (2).
 
 #### (4) Removal
 

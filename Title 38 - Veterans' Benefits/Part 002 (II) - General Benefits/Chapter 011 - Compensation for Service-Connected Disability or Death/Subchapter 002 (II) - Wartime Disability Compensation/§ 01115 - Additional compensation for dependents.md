@@ -12,7 +12,7 @@ Any veteran entitled to compensation at the rates provided in section 1114 of th
 
 &emsp;&emsp;(D) has a parent dependent upon such veteran for support, then, in addition to the above amounts, $120 for each parent so dependent;
 
-&emsp;&emsp;(E) notwithstanding the other provisions of this paragraph, the monthly payable amount on account of a spouse who is (i) a patient in a nursing home or (ii) blind, or so nearly blind or significantly disabled as to need or require the regular aid and attendance of another person, shall be $286 for a totally disabled veteran and proportionate amounts for partially disabled veterans in accordance with paragraph (2) of this section; and
+&emsp;&emsp;(E) notwithstanding the other provisions of this paragraph, the monthly payable amount on account of a spouse who is (i) a patient in a nursing home or (ii) blind, or so nearly blind or significantly disabled as to need or require the regular aid and attendance of another person, shall be $286 for a totally disabled veteran and proportionateamounts for partially disabled veterans in accordance with paragraph (2) of this section; and
 
 &emsp;&emsp;(F) notwithstanding the other provisions of this paragraph, the monthly amount payable on account of each child who has attained the age of eighteen years and who is pursuing a course of instruction at an approved educational institution shall be $240 for a totally disabled veteran and proportionate amounts for partially disabled veterans in accordance with paragraph (2) of this section.
 

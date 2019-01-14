@@ -40,7 +40,7 @@ NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America
 
 (1) Additional U.S. notes to chapter 4 of the HTS are modified as specified in the Annex to this proclamation.
 
-(2) The USTR is authorized to exercise my authority under section 604 of the Trade Act \[19 U.S.C. 2483\] to embody in the HTS the substance of any actions takenby USTR under section 404(d)(3) of the URAA \[19 U.S.C. 3601(d)(3)\].
+(2) The USTR is authorized to exercise my authority under section 604 of the Trade Act \[19 U.S.C. 2483\] to embody in the HTS the substance of any actions taken by USTR under section 404(d)(3) of the URAA \[19 U.S.C. 3601(d)(3)\].
 
 (3) Any provisions of previous proclamations and Executive orders that are inconsistent with the actions taken in this proclamation are superseded to the extent of such inconsistency.
 

@@ -38,6 +38,20 @@ Pub. L. 91–513, title II, §704, Oct. 27, 1970, 84 Stat. 1284, provided that:
 
 "(c) Sections 305 (relating to labels and labeling) \[section 825 of this title\], and 306 (relating to manufacturing quotas) \[section 826 of this title\] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title \[see Short Title note below\]."
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–271, title III, §3211, Oct. 24, 2018, 132 Stat. 3947, provided that: "This chapter \[chapter 2 (§§3211, 3212) of subtitle B of title III of Pub. L. 115–271, enacting provisions set out as a note under section 829 of this title\] may be cited as the 'Empowering Pharmacists in the Fight Against Opioid Abuse Act'."
+
+Pub. L. 115–271, title III, §3221, Oct. 24, 2018, 132 Stat. 3947, provided that: "This chapter \[chapter 3 (§§3221–3223) of subtitle B of title III of Pub. L. 115–271, amending section 822 of this title and enacting provisions set out as notes under section 822 of this title\] may be cited as the 'Safe Disposal of Unused Medication Act'."
+
+Pub. L. 115–271, title III, §3231, Oct. 24, 2018, 132 Stat. 3949, provided that: "This chapter \[chapter 4 (§§3231, 3232) of subtitle B of title III of Pub. L. 115–271, amending section 831 of this title\] may be cited as the 'Special Registration for Telemedicine Clarification Act of 2018'."
+
+Pub. L. 115–271, title III, §3271, Oct. 24, 2018, 132 Stat. 3952, provided that: "This chapter \[chapter 7 (§§3271–3274) of subtitle B of title III of Pub. L. 115–271, amending sections 827, 842, and 873 of this title and enacting provisions set out as a note under section 827 of this title\] may be cited as the 'Using Data To Prevent Opioid Diversion Act of 2018'."
+
+Pub. L. 115–271, title III, §3281, Oct. 24, 2018, 132 Stat. 3954, provided that: "This chapter \[chapter 8 (§§3281, 3282) of subtitle B of title III of Pub. L. 115–271, amending section 826 of this title and enacting provisions set out as a note under section 826 of this title\] may be cited as the 'Opioid Quota Reform Act'."
+
+Pub. L. 115–271, title III, §3291, Oct. 24, 2018, 132 Stat. 3956, provided that: "This chapter \[chapter 9 (§§3291, 3292) of subtitle B of title III of Pub. L. 115–271, enacting section 832 of this title and amending section 802 of this title\] may be cited as the 'Preventing Drug Diversion Act of 2018'."
+
 #### Short Title of 2017 Amendment
 
 Pub. L. 115–83, §1, Nov. 17, 2017, 131 Stat. 1267, provided that: "This Act \[amending section 823 of this title\] may be cited as the 'Protecting Patient Access to Emergency Medications Act of 2017'."
@@ -76,7 +90,7 @@ Pub. L. 109–177, title VII, §701, Mar. 9, 2006, 120 Stat. 256, provided that:
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–57, §1(a), Aug. 2, 2005, 119 Stat. 592, provided that: "This Act \[amending section 953 of this title\] may be cited as the 'Controlled Substances Export Reform Act of 2005'."
+Pub. L. 109–57, §1(a), Aug. 2, 2005, 119 Stat. 592, provided that: "This Act \[amending section 953 of thistitle\] may be cited as the 'Controlled Substances Export Reform Act of 2005'."
 
 #### Short Title of 2004 Amendment
 
@@ -164,7 +178,7 @@ Pub. L. 93–281, §1, May 14, 1974, 88 Stat. 124, provided: "That this Act \[am
 
 #### Short Title
 
-Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, provided: "That this Act \[enacting this chapter and sections 257a, 2688l–1, 2688n–1, and 3509 of Title 42, The Public Health and Welfare, amending sections 162, 198a, 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114, 1952, and 4251 of Title 18, Crimes and Criminal Procedure, sections 1584, 2078, 2079, and 2080 of Title 19, Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, section 2901 of Title 28, Judiciary and Judicial Procedure, section 304m of former Title 40, Public Buildings, Property, and Works, sections 201, 225a, 242, 242a, 246,257, 258, 259, 260, 261, 261a, 2688k, 2688l, 2688m, 2688n, 2688o, 2688r, and 3411 of Title 42, The Public Health and Welfare, section 239a of former Title 46, Shipping, and section 787 of Title 49, Appendix, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, 360a, and 501 to 517 of this title, sections 1401 to 1407 and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, Money and Finance, and section 1421m of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171, 321, 822, 951, and 957 of this title\] may be cited as the 'Comprehensive Drug Abuse Prevention and Control Act of 1970'."
+Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, provided: "That this Act \[enacting this chapter and sections 257a, 2688l–1, 2688n–1, and 3509 of Title 42, The Public Health and Welfare, amending sections 162, 198a, 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114, 1952, and 4251 of Title 18, Crimes and Criminal Procedure, sections 1584, 2078, 2079, and 2080 of Title 19, Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, section 2901 of Title 28, Judiciary and Judicial Procedure, section 304m of former Title 40, Public Buildings, Property, and Works, sections 201, 225a, 242, 242a, 246, 257, 258, 259, 260, 261, 261a, 2688k, 2688l, 2688m, 2688n, 2688o, 2688r, and 3411 of Title 42, The Public Health and Welfare, section 239a of former Title 46, Shipping, and section 787 of Title 49, Appendix, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, 360a, and 501 to 517 of this title, sections 1401 to 1407 and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, Money and Finance, and section 1421m of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171, 321, 822, 951, and 957 of this title\] may be cited as the 'Comprehensive Drug Abuse Prevention and Control Act of 1970'."
 
 Pub. L. 91–513, title II, §100, Oct. 27, 1970, 84 Stat. 1242, provided that: "This title \[enacting this subchapter, repealing section 360a of this title, amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 321 and 822 of this title\] may be cited as the 'Controlled Substances Act'."
 
@@ -234,7 +248,7 @@ Development of plan; recommendations of advisory committee.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary, in consultation with the Attorney General, shall develop a plan forcarrying out a national campaign to educate individuals described in subparagraph (B) on the following:
+In general.—The Secretary, in consultation with the Attorney General, shall develop a plan for carrying out a national campaign to educate individuals described in subparagraph (B) on the following:
 
 &emsp;&emsp;&emsp;"(i) The dangers of date-rape drugs.
 
@@ -326,7 +340,7 @@ Demonstration Projects.—
 
 &emsp;"(2) The Attorney General may not under this subsection make a grant or enter into a contract unless the applicant for such assistance agrees to comply with the guidelines issued pursuant to subsection (d).
 
-&emsp;"(3) The Attorney General shall, through grant or contract, provide for independent evaluations of the activities carried out pursuant to this subsection andshall recommend appropriate legislation to the Congress.
+&emsp;"(3) The Attorney General shall, through grant or contract, provide for independent evaluations of the activities carried out pursuant to this subsection and shall recommend appropriate legislation to the Congress.
 
 "(f)
 
@@ -360,7 +374,7 @@ Negotiations With Canada on Drug Enforcement Cooperation.—The Secretary of Sta
 
 #### GAO Study of Capabilities of United States To Control Drug Smuggling Into United States
 
-Pub. L. 100–180, div. A, title XII, §1241, Dec. 4, 1987, 101 Stat. 1162, directed Comptroller General of the United States to conduct a comprehensive study regarding smuggling of illegal drugs into United States and current capabilities of United States to deter such smuggling, with special consideration given to issues involving use of military and National Guard units along with Customs Service in cooperative drug smuggling interdiction efforts, and to issue, not later than Apr. 30, 1988, and Mar. 31, 1989, reports to Congress outlining results of this study.
+Pub. L. 100–180, div. A, title XII, §1241, Dec. 4, 1987, 101 Stat. 1162, directed Comptroller General of the United States to conduct a comprehensive study regardingsmuggling of illegal drugs into United States and current capabilities of United States to deter such smuggling, with special consideration given to issues involving use of military and National Guard units along with Customs Service in cooperative drug smuggling interdiction efforts, and to issue, not later than Apr. 30, 1988, and Mar. 31, 1989, reports to Congress outlining results of this study.
 
 #### Compliance With Budget Act
 
@@ -438,7 +452,7 @@ Amounts authorized.—There are authorized to be appropriated, in addition to an
 
 &emsp;"(3)
 
-Coast guard-bahamas drug interdiction docking facility.—(A) There is authorized to be appropriated for acquisition, construction, and improvements for the Coast Guard for fiscal year 1987, $5,000,000, to be used for initial design engineering, and other activities for construction of a drug interdiction docking facility in the Bahamas to facilitate Coast Guard and Bahamian drug interdiction operations in and through the Bahama Islands. Of the amounts authorized to be appropriated in this subsection, such sums as may be necessary shall be available for necessary communication and air support.
+Coast guard-bahamas drug interdiction docking facility.—(A) There is authorized to be appropriated for acquisition, construction, and improvements for the Coast Guard for fiscal year 1987,$5,000,000, to be used for initial design engineering, and other activities for construction of a drug interdiction docking facility in the Bahamas to facilitate Coast Guard and Bahamian drug interdiction operations in and through the Bahama Islands. Of the amounts authorized to be appropriated in this subsection, such sums as may be necessary shall be available for necessary communication and air support.
 
 &emsp;"(B) The Commandant of the Coast Guard shall use such amounts appropriated pursuant to the authorization in this paragraph as may be necessary to establish a repair, maintenance, and boat lift facility to provide repair and maintenance services for both Coast Guard and Bahamian marine drug interdiction equipment, vessels, and related assets.
 
@@ -478,7 +492,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(4) the total cost of drug abuse to the Nation in 1983 was over $60,000,000,000; and
 
-&emsp;"(5) the vast majority of health benefits plans provide only limited coverage for treatment of drug andalcohol addiction, which is a fact that can discourage the abuser from seeking treatment or, if the abuser does seek treatment, can cause the abuser to face significant out of pocket expenses for the treatment.
+&emsp;"(5) the vast majority of health benefits plans provide only limited coverage for treatment of drug and alcohol addiction, which is a fact that can discourage the abuser from seeking treatment or, if the abuser does seek treatment, can cause the abuser to face significant out of pocket expenses for the treatment.
 
 "(b)
 
@@ -516,7 +530,7 @@ Pub. L. 91–513, title II, §601, Oct. 27, 1970, 84 Stat. 1280, as amended by P
 
 \[Personnel; experts; information from departments and agencies\] (1) The Commission shall have the power to appoint and fix the compensation of such personnel as it deems advisable, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
 
-"(2) The Commission may procure, in accordance with the provisions of section 3109 of title 5, United States Code, the temporary or intermittent services of experts or consultants. Persons so employed shall receive compensation at a rate to be fixed by the Commission, but not in excess of $75 per diem, including traveltime. While away from his home or regular place of business in the performance of services for the Commission, any such person may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703(b) of title 5, United States Code, for persons in the Government service employed intermittently.
+"(2) The Commission may procure, in accordance with the provisions of section 3109 of title 5, United States Code, the temporary or intermittent services of experts or consultants. Persons so employed shall receive compensation at a rate to be fixed by the Commission, but not in excess of $75 per diem, including traveltime. While away from his home or regular placeof business in the performance of services for the Commission, any such person may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703(b) of title 5, United States Code, for persons in the Government service employed intermittently.
 
 "(3) The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out its duties under this section. Upon request of the Chairman of the Commission, such department or agency shall furnish such information to the Commission.
 
@@ -592,7 +606,7 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby directed as follows:
 
-Section 1. <i>Policy</i>. It shall be the policy of the United States to use all lawful means to combat the drug demand and opioid crisis currently afflicting our country. Individuals, families, and communities across the United States continue to be devastated by an unprecedented epidemic of drug abuse and overdose, including of prescription opioids, heroin, and illicit synthetic opioids. Last year, we lost at least 64,000 of our fellow Americans to drug overdose, primarily from opioids. This is an increase of approximately 12,000 people over the year before and more than ever recorded in United States history. Drug overdoses now kill more Americans than motor vehicle crashes or gun-related incidents, and more than 300,000 Americans have died of an opioid overdose since 2000. Further, more than 2.1 million of our fellow citizens are addicted to opioids, and in 2014 more than 1,500 people were treated each day in emergency departments for opioid-related emergencies.
+Section 1. <i>Policy</i>. It shall be the policy of the United States to use all lawful means to combat the drug demand and opioid crisis currently afflicting our country. Individuals, families, and communities across the United States continue to be devastated by an unprecedented epidemic of drug abuse and overdose, including of prescription opioids, heroin, and illicit synthetic opioids. Last year, we lost at least 64,000 of our fellow Americans to drug overdose, primarily from opioids. This is an increase of approximately 12,000 people over the year before and more than ever recorded in United States history. Drug overdoses now kill more Americans than motor vehicle crashes or gun-related incidents, and more than 300,000 Americans have died of an opioid overdose since 2000. Further, more than 2.1 million of our fellow citizens are addicted to opioids, andin 2014 more than 1,500 people were treated each day in emergency departments for opioid-related emergencies.
 
 This crisis has devastated our communities. It has been particularly harmful for children affected by their parents' drug abuse. The number of infants born drug-dependent increased by nearly 500 percent from 2000 to 2012. The number of children being placed into foster care due, at least in part, to parental drug abuse is increasing, and accounted for almost a third of all child removals in Fiscal Year 2015. Serious drug users are also more likely to be arrested for crimes such as burglary, robbery, and handling stolen goods. Moreover, the drug trafficking that supplies illegal drugs to our country is associated with other illegal activities, including murder and other violent crimes. All of this devastates lives and harms communities in both the United States and foreign countries involved in the illegal drug supply chain. Federal, State, and local governments; law enforcement; first responders; the medical, public health, and substance abuse treatment community; and faith-based and community organizations are working tirelessly and have even expanded their efforts to combat the drug demand and opioid crisis.
 

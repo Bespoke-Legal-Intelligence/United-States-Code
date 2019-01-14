@@ -152,7 +152,7 @@
 
 #### (2) Alignment of claims data with standardized patient assessment data
 
-&emsp;To the extent practicable, not later than October 1, 2018, for PAC providers described inclauses (ii), (iii), and (iv) of subsection (a)(2)(A), and January 1, 2019, for PAC providers described in clause (i) of such subsection, the Secretary shall match claims data with assessment data pursuant to this section for purposes of assessing prior service use and concurrent service use, such as antecedent hospital or PAC provider use, and may use such matched data for such other uses as the Secretary determines appropriate.
+&emsp;To the extent practicable, not later than October 1, 2018, for PAC providers described in clauses (ii), (iii), and (iv) of subsection (a)(2)(A), and January 1, 2019, for PAC providers described in clause (i) of such subsection, the Secretary shall match claims data with assessment data pursuant to this section for purposes of assessing prior service use and concurrent service use, such as antecedent hospital or PAC provider use, and may use such matched data for such other uses as the Secretary determines appropriate.
 
 #### (3) Replacement of certain existing data
 
@@ -246,7 +246,7 @@
 
 #### (A) Initial implementation phase
 
-&emsp;&emsp;The initial implementation phase, with respect to such a measure, shall, in accordance with subsections (c) and (d), as applicable, consist of—
+&emsp;&emsp;The initial implementation phase, with respect to such a measure, shall, in accordancewith subsections (c) and (d), as applicable, consist of—
 
 &emsp;&emsp;&emsp;(i) measure specification, including informing the public of the measure's numerator, denominator, exclusions, and any other aspects the Secretary determines necessary;
 
@@ -302,7 +302,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the succeeding paragraphs of this subsection, the Secretary shall provide forpublic reporting of PAC provider performance on quality measures under subsection (c)(1) and the resource use and other measures under subsection (d)(1), including by establishing procedures for making available to the public information regarding the performance of individual PAC providers with respect to such measures.
+&emsp;Subject to the succeeding paragraphs of this subsection, the Secretary shall provide for public reporting of PAC provider performance on quality measures under subsection (c)(1) and the resource use and other measures under subsection (d)(1), including by establishing procedures for making available to the public information regarding the performance of individual PAC providers with respect to such measures.
 
 #### (2) Opportunity to review
 
@@ -362,7 +362,7 @@ For purposes of carrying out this section, the Secretary shall provide for the t
 
 #### (l) Limitation
 
-There shall be no administrative or judicial review under sections 1395ff and 1395oo of thistitle or otherwise of the specification of standardized patient assessment data required, the determination of measures, and the systems to report such standardized data under this section.
+There shall be no administrative or judicial review under sections 1395ff and 1395oo of this title or otherwise of the specification of standardized patient assessment data required, the determination of measures, and the systems to report such standardized data under this section.
 
 #### (m) Non-application of Paperwork Reduction Act
 
@@ -392,7 +392,7 @@ Study using existing medicare data.—
 
 &emsp;&emsp;"(i)
 
-Study.—The Secretary of Health and Human Services (in this subsection referred to as the 'Secretary') shall conduct a study that examines the effect of individuals' socioeconomic status on quality measures and resource use and other measures for individuals under the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) (such as to recognize that less healthy individuals may require more intensive interventions). The study shall use information collected on such individuals in carrying out such program, such as urban and rural location, eligibility for Medicaid under title XIX of such Act (42 U.S.C. 1396 et seq.) (recognizing and accounting for varying Medicaid eligibility across States), and eligibility for benefits under the supplemental security income (SSI) program. The Secretary shall carry out this paragraph acting through the Assistant Secretary for Planning and Evaluation.
+Study.—The Secretary of Health and Human Services (in this subsection referred to as the 'Secretary') shall conduct a study that examines the effect of individuals' socioeconomic status on quality measures and resource use and other measures forindividuals under the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) (such as to recognize that less healthy individuals may require more intensive interventions). The study shall use information collected on such individuals in carrying out such program, such as urban and rural location, eligibility for Medicaid under title XIX of such Act (42 U.S.C. 1396 et seq.) (recognizing and accounting for varying Medicaid eligibility across States), and eligibility for benefits under the supplemental security income (SSI) program. The Secretary shall carry out this paragraph acting through the Assistant Secretary for Planning and Evaluation.
 
 &emsp;&emsp;"(ii)
 
@@ -456,5 +456,5 @@ Funding.—There are hereby appropriated to the Secretary from the Federal Hospi
 
 "(3)
 
-Strategic plan for accessing race and ethnicity data.—Not later than 18 months after the date of the enactment of this Act \[Oct. 6, 2014\], the Secretary shall develop and report to Congress on a strategic plan for collecting or otherwise accessing data on race and ethnicity for purposes of specifying quality measures and resource use and other measures undersubsections (c) and (d) of section 1899B of the Social Security Act, as added by subsection (a), and, as the Secretary determines appropriate, other similar provisions of, including payment adjustments under, title XVIII of such Act (42 U.S.C. 1395 et seq.)."
+Strategic plan for accessing race and ethnicity data.—Not later than 18 months after the date of the enactment of this Act \[Oct. 6, 2014\], the Secretary shall develop and report to Congress on a strategic plan for collecting or otherwise accessing data on race and ethnicity for purposes of specifying quality measures and resource use and other measures under subsections (c) and (d) of section 1899B of the Social Security Act, as added by subsection (a), and, as the Secretary determines appropriate, other similar provisions of, including payment adjustments under, title XVIII of such Act (42 U.S.C. 1395 et seq.)."
 

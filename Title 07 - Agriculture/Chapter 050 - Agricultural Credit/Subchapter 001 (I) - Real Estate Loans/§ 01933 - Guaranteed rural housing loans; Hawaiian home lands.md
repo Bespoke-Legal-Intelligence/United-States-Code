@@ -1,6 +1,6 @@
 ### §1933. Guaranteed rural housing loans; Hawaiian home lands
 
-(a) Rural Housing Loans which (1) are guaranteed by the Secretary under section 517(a)(2) <sup>1</sup> of the Housing Act of 1949 \[42 U.S.C. 1487(a)(2)\], (2) are made by other lenders approved by the Secretary to provide dwellings in rural areas for the applicants' own use, and (3) bear interest and other charges at rates not above the maximum rates prescribed by the Secretary of Housing and Urban Development for loans made by private lenders for similar purposes and guaranteed by the Secretary of Housing and Urban Development under the National Housing Act \[12 U.S.C. 1701 et seq.\] or superseding legislation shall not be subject to sections 501(c) and 502(b)(3) of the Housing Act of 1949 \[42 U.S.C. 1471(c) and 1472(b)(3)\].
+(a) Rural Housing Loans which (1) are guaranteed by the Secretary under section 517(a)(2) <sup>1</sup> of the Housing Act of 1949 \[42 U.S.C. 1487(a)(2)\], (2) are made by other lenders approved by the Secretary to provide dwellings in rural areas for the applicants' own use, and (3) bear interest and other charges at rates not above the maximum rates prescribed by the Secretary of Housing and Urban Development for loans made by private lenders for similar purposes and guaranteed by the Secretary of Housing and Urban Development under the National Housing Act \[12 U.S.C. 1701 et seq.\] or superseding legislation shall not be subject to sections 501(c) and 502(b)(3) of theHousing Act of 1949 \[42 U.S.C. 1471(c) and 1472(b)(3)\].
 
 (b) For the purposes of title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\] or this chapter, a guarantee of payment given under the color of law by the Department of Hawaiian Home Lands (or its successor in function) shall be found by the Secretary reasonably to assure repayment of any indebtedness so guaranteed.
 
@@ -14,7 +14,7 @@ The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 
 
 Title V of the Housing Act of 1949, referred to in subsec. (b), is title V of act July 15, 1949, ch. 338, 63 Stat. 432, as amended, which is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see References in Text note set out under section 1441 of Title 42 and Tables.
 
-For definition of "this chapter", referred to in subsec. (b), see note set out under section 1921 of this title.
+This chapter, referred to in subsec. (b), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Amendments
 

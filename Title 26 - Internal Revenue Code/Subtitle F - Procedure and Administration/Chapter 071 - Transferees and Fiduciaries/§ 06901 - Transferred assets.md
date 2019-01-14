@@ -20,7 +20,7 @@ The amounts of the following liabilities shall, except as hereinafter in this se
 
 #### (B) Fiduciaries
 
-&emsp;&emsp;The liability of a fiduciary under section 3713(b) of title 31, United States Code <sup>1</sup> in respect of the payment of any tax described in subparagraph (A) from the estate of the taxpayer, the decedent, or the donor, as the case may be.
+&emsp;&emsp;The liability of a fiduciary under section 3713(b) of title 31, United States Code, in respect of the payment of any tax described in subparagraph (A) from the estate of the taxpayer, the decedent, or the donor, as the case may be.
 
 #### (2) Other taxes
 
@@ -78,13 +78,13 @@ As used in this section, the term "transferee" includes donee, heir, legatee, de
 
 &emsp;&emsp;<b>For extensions of time by reason of armed service in a combat zone, see section 7508.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 841; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §3(f)(10), Sept. 13, 1982, 96 Stat. 1065.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 841; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §3(f)(10), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 115–141, div. U, title IV, §401(a)(322), Mar. 23, 2018, 132 Stat. 1199.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(B). Pub. L. 115–141 substituted "Code, in" for "Code in".
 
 <b>1982</b>—Subsec. (a)(1)(B). Pub. L. 97–258 substituted "section 3713(b) of title 31, United States Code" for "section 3467 of the Revised Statutes (31 U.S.C. 192)".
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

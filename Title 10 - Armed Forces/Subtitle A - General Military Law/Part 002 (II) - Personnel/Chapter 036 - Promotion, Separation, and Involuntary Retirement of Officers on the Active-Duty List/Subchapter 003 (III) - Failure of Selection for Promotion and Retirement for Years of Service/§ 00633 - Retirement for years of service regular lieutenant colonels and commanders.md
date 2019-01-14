@@ -2,19 +2,21 @@
 
 (a) 28
 
-Years of Active Commissioned Service.—Except as provided in subsection (b) and as provided under section 637(b) or 637a of this title, each officer of the Regular Army, Regular Air Force, or Regular Marine Corps who holds the regular grade of lieutenant colonel, and each officer of the Regular Navy who holds the regular grade of commander, who is not on a list ofofficers recommended for promotion to the regular grade of colonel or captain, respectively, shall, if not earlier retired, be retired on the first day of the month after the month in which he completes 28 years of active commissioned service.
+Years of Active Commissioned Service.—Except as provided in subsection (b) and as provided under section 637(b) or 637a of this title, each officer of the Regular Army, Regular Air Force, or Regular Marine Corps who holds the regular grade of lieutenant colonel, and each officer of the Regular Navy who holds the regular grade of commander, who is not on a list of officers recommended for promotion to the regular grade of colonel or captain, respectively, shall, if not earlier retired, be retired on the first day of the month after the month in which he completes 28 years of active commissioned service.
 
 (b)
 
 Exceptions.—Subsection (a) does not apply to the following:
 
-&emsp;(1) An officer of the Navy or Marine Corps who is an officer designated for limited duty to whom section 5596(e) or 6383 of this title applies.
+&emsp;(1) An officer of the Navy or Marine Corps who is an officer designated for limited duty to whom section 8146(e) or 8372 of this title applies.
 
 &emsp;(2) An officer of the Navy or Marine Corps who is a permanent professor at the United States Naval Academy.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2862; amended Pub. L. 98–525, title V, §529(b), title XIV, §1405(12), Oct. 19, 1984, 98 Stat. 2526, 2622; Pub. L. 102–484, div. A, title V, §504(a), Oct. 23, 1992, 106 Stat. 2403; Pub. L. 103–160, div. A, title V, §561(e), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §504(a), Oct. 17, 1998, 112 Stat. 2004; Pub. L. 109–163, div. A, title V, §509(a)(1), Jan. 6, 2006, 119 Stat. 3229; Pub. L. 114–328, div. A, title V, §505(b)(1), Dec. 23, 2016, 130 Stat. 2108.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2862; amended Pub. L. 98–525, title V, §529(b), title XIV, §1405(12), Oct. 19, 1984, 98 Stat. 2526, 2622; Pub. L. 102–484, div. A, title V, §504(a), Oct. 23, 1992, 106 Stat. 2403; Pub. L. 103–160, div. A, title V, §561(e), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §504(a), Oct. 17, 1998, 112 Stat. 2004; Pub. L. 109–163, div. A, title V, §509(a)(1), Jan. 6, 2006, 119 Stat. 3229; Pub. L. 114–328, div. A, title V, §505(b)(1), Dec. 23, 2016, 130 Stat. 2108; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–232 substituted "section 8146(e) or 8372" for "section 5596(e) or 6383".
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–328 inserted "or 637a" after "637(b)".
 
@@ -29,6 +31,10 @@ Exceptions.—Subsection (a) does not apply to the following:
 <b>1984</b>—Pub. L. 98–525, §1405(12), substituted "28" for "twenty-eight".
 
 Pub. L. 98–525, §529(b), substituted "Except an officer of the Navy designated for limited duty to whom section 5596(e) of this title applies and an officer of the Marine Corps designated for limited duty to whom section 5596(e) or section 6383 of this title applies" for "Except an officer of the Navy and Marine Corps who is an officer designated for limited duty (to whom section 5596(e) or 6383 of this title applies)".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date
 

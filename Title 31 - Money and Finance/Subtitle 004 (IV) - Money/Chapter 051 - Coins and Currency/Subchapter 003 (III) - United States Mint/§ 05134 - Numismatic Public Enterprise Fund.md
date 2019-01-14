@@ -42,7 +42,7 @@ Payment of expenses.—Any expense incurred by the Secretary for numismatic oper
 
 &emsp;(2)
 
-Deposit of receipts.—All receipts from numismatic operations and programs shall bedeposited into the Fund, including amounts attributable to any surcharge imposed with respect to the sale of any numismatic item.
+Deposit of receipts.—All receipts from numismatic operations and programs shall be deposited into the Fund, including amounts attributable to any surcharge imposed with respect to the sale of any numismatic item.
 
 &emsp;(3)
 
@@ -60,7 +60,7 @@ In general.—At such times as the Secretary determines to be appropriate, the S
 
 Report to congress.—The Secretary shall submit an annual report to the Congress containing—
 
-&emsp;&emsp;&emsp;(i) a statement of the total amount transferred to the Treasury pursuant to subparagraph (A) during the period covered by the report;
+&emsp;&emsp;&emsp;(i) a statement of the total amount transferred to the Treasury pursuant tosubparagraph (A) during the period covered by the report;
 
 &emsp;&emsp;&emsp;(ii) a statement of the amount by which the amount on deposit in the Fund at the end of the period covered by the report exceeds the estimated operating costs of the Fund for the 1-year period beginning at the end of such period; and
 
@@ -162,7 +162,7 @@ Contents of annual report.—The annual report required under subparagraph (A) f
 
 &emsp;&emsp;&emsp;(v) a summary of the corrective actions taken with respect to material weaknesses relating to numismatic operations and programs identified in the reports prepared under section 3512(c);
 
-&emsp;&emsp;&emsp;(vi) any other information the Secretary considers appropriate to fully inform theCongress concerning the financial management of the Fund; and
+&emsp;&emsp;&emsp;(vi) any other information the Secretary considers appropriate to fully inform the Congress concerning the financial management of the Fund; and
 
 &emsp;&emsp;&emsp;(vii) a statement of the total amount of excess funds transferred to the Treasury.
 
@@ -244,7 +244,7 @@ Use of surcharges for audits.—Any designated recipient organization that recei
 
 &emsp;&emsp;(F)
 
-Waiver of paragraph.—The Secretary of the Treasury may waive the application of any subparagraph of this paragraph to any designated recipient organization forany fiscal year after taking into account the amount of surcharges that such organization received or expended during such year.
+Waiver of paragraph.—The Secretary of the Treasury may waive the application of any subparagraph of this paragraph to any designated recipient organization for any fiscal year after taking into account the amount of surcharges that such organization received or expended during such year.
 
 &emsp;&emsp;(G)
 

@@ -12,7 +12,7 @@
 - [&sect; 01805 - Issuance of order](%C2%A7%2001805%20-%20Issuance%20of%20order.md)
 - [&sect; 01805a to 1805c - Repealed. Pub. L. 110&#8211;261, title IV, &sect;403(a)(1)(A), July 10, 2008, 122 Stat. 2473](%C2%A7%2001805a%20to%201805c%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93261%2C%20title%20IV%2C%20%C2%A7403%28a%29%281%29%28A%29%2C%20July%2010%2C%202008%2C%20122%20Stat.%202473.md)
 - [&sect; 01806 - Use of information](%C2%A7%2001806%20-%20Use%20of%20information.md)
-- [&sect; 01807 - Report to Administrative Office of the United States Court and to Congress](%C2%A7%2001807%20-%20Report%20to%20Administrative%20Office%20of%20the%20United%20States%20Court%20and%20to%20Congress.md)
+- [&sect; 01807 - Report of electronic surveillance](%C2%A7%2001807%20-%20Report%20of%20electronic%20surveillance.md)
 - [&sect; 01808 - Report of Attorney General to Congressional committees; limitation on authority or responsibility of information gathering activities of&#8230;](%C2%A7%2001808%20-%20Report%20of%20Attorney%20General%20to%20Congressional%20committees%3B%20limitation%20on%20authority%20or%20responsibility%20of%20information%20gathering%20activities%20of%E2%80%A6.md)
 - [&sect; 01809 - Criminal sanctions](%C2%A7%2001809%20-%20Criminal%20sanctions.md)
 - [&sect; 01810 - Civil liability](%C2%A7%2001810%20-%20Civil%20liability.md)

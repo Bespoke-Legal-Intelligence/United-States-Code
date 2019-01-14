@@ -70,7 +70,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(A) is a law enforcement officer within the meaning of section 8331(20) or 8401(17);
 
-&emsp;&emsp;(B) in the case of an employee who holds a supervisory or administrative position andis subject to subchapter III of chapter 83, but who does not qualify to be considered a law enforcement officer within the meaning of section 8331(20), would so qualify if such employee had transferred directly to such position after serving as a law enforcement officer within the meaning of such section;
+&emsp;&emsp;(B) in the case of an employee who holds a supervisory or administrative position and is subject to subchapter III of chapter 83, but who does not qualify to be considered a law enforcement officer within the meaning of section 8331(20), would so qualify if such employee had transferred directly to such position after serving as a law enforcement officer within the meaning of such section;
 
 &emsp;&emsp;(C) in the case of an employee who holds a supervisory or administrative position and is subject to chapter 84, but who does not qualify to be considered a law enforcement officer within the meaning of section 8401(17), would so qualify if such employee had transferred directly to such position after performing duties described in section 8401(17)(A) and (B) for at least 3 years; and
 
@@ -152,7 +152,7 @@ Section 1291(a) of title 50, appendix, referred to in par. (2)(C)(ix), is sectio
 
 <b>1992</b>—Par. (3). Pub. L. 102–378 added par. (3).
 
-<b>1990</b>—Par. (2)(iv). Pub. L. 101–509 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "a member of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, or the Executive Protective Service;".
+<b>1990</b>—Par. (2)(iv). Pub. L. 101–509 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "amember of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, or the Executive Protective Service;".
 
 <b>1988</b>—Par. (2)(xvii). Pub. L. 100–325 added cl. (xvii).
 
@@ -238,7 +238,7 @@ Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §115\], Nov. 29, 1999, 113 S
 
 "(b) Notwithstanding any other provision of law, neither the United States nor any individual or entity acting on its behalf shall be liable for premium pay under title 5, United States Code, sections 5542–5549, for any work performed on or after the date of the enactment of this Act \[Nov. 29, 1999\] by any individual employed as an attorney in the Department of Justice, including an Assistant United States Attorney."
 
-\[Pub. L. 106–553, §1(a)(2) \[title I, §111\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, provided that: "Section 115 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2000 (as enacted into law by section 1000(a)(1) of Public Law 106–113) \[set out above\] shall apply hereafter."\]
+\[Pub. L. 106–553, §1(a)(2) \[title I, §111\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, provided that: "Section 115 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act,2000 (as enacted into law by section 1000(a)(1) of Public Law 106–113) \[set out above\] shall apply hereafter."\]
 
 #### Sense of Congress Relating to Law Enforcement Officer Provisions
 
@@ -250,7 +250,7 @@ Pub. L. 102–378, §2(40)(D), Oct. 2, 1992, 106 Stat. 1351, provided that: "It 
 
 &emsp;&emsp;"(II) do not reflect any intent of the Congress to change retirement eligibility standards for law enforcement officers; and
 
-&emsp;"(ii) law enforcement officers in primary positions have different retirement eligibility standards thanemployees in supervisory or administrative positions because of the different requirements in their responsibilities."
+&emsp;"(ii) law enforcement officers in primary positions have different retirement eligibility standards than employees in supervisory or administrative positions because of the different requirements in their responsibilities."
 
 #### Payment of Bonuses for Foreign Language Capabilities
 

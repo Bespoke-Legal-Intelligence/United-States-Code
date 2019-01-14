@@ -8,7 +8,11 @@ As used in this chapter:
 
 #### (2) Digital literacy skills
 
-&emsp;The term "digital literacy skills" means the skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information.
+&emsp;The term "digital literacy skills" means the skills associated with—
+
+&emsp;&emsp;(A) using technology to enable users to find, evaluate, organize, create, and communicate information; and
+
+&emsp;&emsp;(B) developing digital citizenship and the responsible use of technology.
 
 #### (3) Director
 
@@ -24,7 +28,7 @@ As used in this chapter:
 
 #### (5) Indian tribe
 
-&emsp;The term "Indian tribe" means any tribe, band, nation, or other organized group or community, including any Alaska native village, regional corporation, or village corporation (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), which is recognized by the Secretary of the Interior as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;The term "Indian tribe" means any tribe, band, nation, or other organized group or community, including any Alaska native village, regional corporation, or village corporation (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (6) Institute
 
@@ -44,7 +48,7 @@ As used in this chapter:
 
 &emsp;&emsp;(C) such project, when taken as a whole, lacks serious literary, artistic, political, or scientific value.
 
-(Pub. L. 94–462, title II, §202, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–294; amended Pub. L. 108–81, title I, §101, Sept. 25, 2003, 117 Stat. 992; Pub. L. 111–340, title I, §101, Dec. 22, 2010, 124 Stat. 3595.)
+(Pub. L. 94–462, title II, §202, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–294; amended Pub. L. 108–81, title I, §101, Sept. 25, 2003, 117 Stat. 992; Pub. L. 111–340, title I, §101, Dec. 22, 2010, 124 Stat. 3595; Pub. L. 115–410, §2, Dec. 31, 2018, 132 Stat. 5412.)
 
 #### References in Text
 
@@ -55,6 +59,10 @@ The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92�
 A prior section 202 of Pub. L. 94–462 was classified to section 961 of this title prior to the general amendment of title II of Pub. L. 94–462 by Pub. L. 104–208.
 
 #### Amendments
+
+<b>2018</b>—Par. (2). Pub. L. 115–410, §2(1), substituted "means the skills associated with—" and subpars. (A) and (B) for "means the skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information."
+
+Par. (5). Pub. L. 115–410, §2(2), struck out "by the Secretary of the Interior" after "which is recognized".
 
 <b>2010</b>—Pars. (2) to (8). Pub. L. 111–340 added par. (2) and redesignated former pars. (2) to (7) as (3) to (8), respectively.
 
@@ -67,6 +75,10 @@ Pars. (6), (7). Pub. L. 108–81, §101(5), added pars. (6) and (7).
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–81, title V, §506, Sept. 25, 2003, 117 Stat. 1005, provided that: "The amendments made by this Act \[enacting sections 9105a and 9107 to 9109 of this title, amending this section, sections 956a, 974, 1503 to 1505, 9102, 9103, 9106, 9121 to 9123, 9131, 9134, 9141, 9162, 9171 to 9173, and 9176 of this title, and section 170 of Title 26, Internal Revenue Code, repealing sections 9174 and 9175 of this title, enacting provisions set out as a note under this section, and repealing provisions set out as notes under sections 9102, 9103, and 9105 of this title\] shall take effect on the date of enactment of this Act \[Sept. 25, 2003\], except that the amendments made by sections 203, 204, and 305 of this Act \[amending sections 9123, 9131, and 9176 of this title\] shall take effect on October 1, 2003."
+
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–410, §1(a), Dec. 31, 2018, 132 Stat. 5412, provided that: "This Act \[enacting section 9175 of this title and amending sections 9101, 9103, 9105a, 9108, 9111, 9121 to 9123, 9131, 9134, 9141, 9151, 9162, 9165, 9171 to 9173, and 9176 of this title\] may be cited as the 'Museum and Library Services Act of 2018'."
 
 #### Short Title of 2010 Amendment
 
@@ -88,7 +100,7 @@ Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §701\], Sept. 30, 199
 
 Pub. L. 94–462, title II, §201, as added by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, provided that: "This title \[enacting this chapter\] may be cited as the 'Museum and Library Services Act'."
 
-Pub. L. 94–462, title II, §211, as added by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295, provided that: "This subtitle \[subtitle B (§§211–263) of title II of Pub. L. 94–462, enacting subchapter II of this chapter\] may be cited as the 'Library Services and Technology Act'."
+Pub. L. 94–462, title II, §211, as added by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295, provided that: "Thissubtitle \[subtitle B (§§211–263) of title II of Pub. L. 94–462, enacting subchapter II of this chapter\] may be cited as the 'Library Services and Technology Act'."
 
 Pub. L. 94–462, title II, §271, as added by Pub. L. 108–81, title III, §306(2), Sept. 25, 2003, 117 Stat. 1002, provided that: "This subtitle \[subtitle C (§§271–276) of title II of Pub. L. 94–462, enacting subchapter III of this chapter\] may be cited as the 'Museum Services Act'."
 

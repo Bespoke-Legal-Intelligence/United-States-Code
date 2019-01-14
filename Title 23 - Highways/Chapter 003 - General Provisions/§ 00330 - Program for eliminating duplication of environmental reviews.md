@@ -10,7 +10,7 @@ In general.—The Secretary shall establish a pilot program to authorize States 
 
 &emsp;(2)
 
-Participating states.—The Secretary may select not more than 5 States to participate in the program.
+Participating states.—The Secretary may select not more than 2 States to participate in the program.
 
 &emsp;(3)
 
@@ -128,7 +128,7 @@ Limitation on review.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law, a claim seeking judicial review of a permit, license, or approval issued by a State under this section shall be barred unless the claim is filed not later than 2 years after the date of publication in the Federal Register by the Secretary of a notice that the permit, license, or approval is final pursuant to the law under which the action is taken.
+In general.—Notwithstanding any other provision of law, a claim seeking judicial review of a permit, license, or approval issued by a State under this section shall be barred unless the claim is filed not later than 150 days as set forth in section 139(l) after the date of publication in the Federal Register by the Secretary of a notice that the permit, license, or approval is final pursuant to the law under which the action is taken.
 
 &emsp;&emsp;(B)
 
@@ -160,7 +160,7 @@ Treatment of final agency action.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The final agency action that follows preparation of a supplemental environmental impact statement, if required, shall be considered a separate final agency action, and the deadline for filing a claim for judicial review of the action shall be 2 years after the date of publication in the Federal Register by the Secretary of a notice announcing such action.
+In general.—The final agency action that follows preparation of a supplemental environmental impact statement, if required, shall be considered a separate final agency action, and the deadline for filing a claim for judicial review of the action shall be 150 days as set forth in section 139(l) after the date of publication in the Federal Register by the Secretary of a notice announcing such action.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -258,13 +258,19 @@ Project.—The term "project" means—
 
 &emsp;&emsp;(B) a multimodal project.
 
-(Added Pub. L. 114–94, div. A, title I, §1309(b), Dec. 4, 2015, 129 Stat. 1392.)
+(Added Pub. L. 114–94, div. A, title I, §1309(b), Dec. 4, 2015, 129 Stat. 1392; amended Pub. L. 115–254, div. B, title V, §578, Oct. 5, 2018, 132 Stat. 3394.)
 
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (3)(A)(i), (ii), (B)(i), (ii), (d)(2), (f), (g), (h)(2), and (i)(5), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The date of enactment of this section, referred to in subsecs. (j) and (k), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(2). Pub. L. 115–254, §578(1), substituted "2 States" for "5 States".
+
+Subsec. (e)(2)(A), (3)(B)(i). Pub. L. 115–254, §578(2), substituted "150 days as set forth in section 139(l)" for "2 years".
 
 #### Effective Date
 

@@ -22,7 +22,7 @@ Ex. Ord. No. 6084, Mar. 27, 1933, provided in part: . . . it is hereby ordered
 
 (d) The Crop Production Loan Office and the Seed Loan Office of the Department of Agriculture, and the functions thereof;
 
-(e) The functions of the Reconstruction Finance Corporation and its Board of Directors relating to the appointment of officers and agents to manage regionalagricultural credit corporations formed under section 201(e) of the Emergency Relief and Construction Act of 1932 \[section 1148 of this title\]; relating to the establishment of rules and regulations for such management; and relating to the approval of loans and advances made by such corporations and of the terms and conditions thereof.
+(e) The functions of the Reconstruction Finance Corporation and its Board of Directors relating to the appointment of officers and agents to manage regional agricultural credit corporations formed under \[former\] section 201(e) of the Emergency Relief and Construction Act of 1932 \[former 12 U.S.C. 1148\]; relating to the establishment of rules and regulations for such management; and relating to the approval of loans and advances made by such corporations and of the terms and conditions thereof.
 
 (6) The functions vested in the Federal Farm Board by section 9 of the Agricultural Marketing Act \[section 1141g of this title\] are abolished except that such functions shall continue to be exercised to such extent and for such time as may be necessary to permit the orderly winding up of the activities of stabilization corporations heretofore recognized under authority of such section, and the governor of the Farm Credit Administration shall take appropriate action for winding up at the earliest practicable date the activities of such corporations and all affairs related to the exercise of such functions.
 
@@ -63,7 +63,7 @@ Franklin D. Roosevelt.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [&sect; 02250 - Farm Credit Administration operating expenses fund](%C2%A7%2002250%20-%20Farm%20Credit%20Administration%20operating%20expenses%20fund.md)
 - [&sect; 02251 - Quarters and facilities for the Farm Credit Administration](%C2%A7%2002251%20-%20Quarters%20and%20facilities%20for%20the%20Farm%20Credit%20Administration.md)
 - [&sect; 02252 - Powers and duties](%C2%A7%2002252%20-%20Powers%20and%20duties.md)
-- [&sect; 02253 - Prior delegations](%C2%A7%2002253%20-%20Prior%20delegations.md)
+- [&sect; 02253 - Repealed. Pub. L. 115&#8211;334, title V, &sect;5411(30), Dec. 20, 2018, 132 Stat. 4682](%C2%A7%2002253%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20V%2C%20%C2%A75411%2830%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204682.md)
 - [&sect; 02254 - Examinations](%C2%A7%2002254%20-%20Examinations.md)
 - [&sect; 02255 - Conditions of other banks and lending institutions](%C2%A7%2002255%20-%20Conditions%20of%20other%20banks%20and%20lending%20institutions.md)
 - [&sect; 02256 - Consent to the availability of reports and to examinations](%C2%A7%2002256%20-%20Consent%20to%20the%20availability%20of%20reports%20and%20to%20examinations.md)

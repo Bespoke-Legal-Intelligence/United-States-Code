@@ -76,7 +76,7 @@ Congress finds the following:
 
 &emsp;(C) African-American children are identified as having intellectual disabilities and emotional disturbance at rates greater than their White counterparts.
 
-&emsp;(D) In the 1998–1999 school year, African-American children represented just 14.8 percent of the population aged 6 through 21, butcomprised 20.2 percent of all children with disabilities.
+&emsp;(D) In the 1998–1999 school year, African-American children represented just 14.8 percent of the population aged 6 through 21, but comprised 20.2 percent of all children with disabilities.
 
 &emsp;(E) Studies have found that schools with predominately White students and teachers have placed disproportionately high numbers of their minority students into special education.
 

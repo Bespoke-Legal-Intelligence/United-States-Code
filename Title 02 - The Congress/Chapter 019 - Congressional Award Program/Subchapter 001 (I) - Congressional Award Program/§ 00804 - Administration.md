@@ -34,7 +34,7 @@ Subsec. (c)(2)(A). Pub. L. 113–188, §902(c)(2)(B), substituted "The independe
 
 Subsec. (c)(2). Pub. L. 111–200, §2(c)(2), added par. (2) and struck out former par. (2) which read as follows:
 
-"(2)(A) The Comptroller General of the United States shall determine, for calendar years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, and 2009, whether the Director has substantially complied with paragraph (1). The findings made by the Comptroller General under the preceding sentence shallbe included in the first report submitted under section 807(b) of this title after December 31, 1994.
+"(2)(A) The Comptroller General of the United States shall determine, for calendar years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, and 2009, whether the Director has substantially complied with paragraph (1). The findings made by the Comptroller General under the preceding sentence shall be included in the first report submitted under section 807(b) of this title after December 31, 1994.
 
 "(B) If the Director fails to substantially comply with paragraph (1), the Board shall take such actions as may be necessary to prepare, pursuant to section 808 of this title, for the orderly cessation of the activities of the Board."
 

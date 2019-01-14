@@ -46,13 +46,13 @@ Terms and Conditions.—Any licenses granted under section 207(a)(2) shall conta
 
 (e)
 
-Public Notice.—No exclusive or partially exclusive license may be granted under section 207(a)(2) unless public notice of the intention to grant an exclusive or partially exclusive license on a federally owned invention has been provided in an appropriate manner at least 15 days before the license is granted, and the Federal agency has considered all comments received before the end of the comment period in response to that public notice. This subsection shall not apply to the licensing of inventions made under a cooperative research and development agreement entered into under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a).
+Public Notice.—No exclusive or partially exclusive license may be granted under section 207(a)(2) unless public notice of the intention to grant an exclusive or partially exclusive licenseon a federally owned invention has been provided in an appropriate manner at least 15 days before the license is granted, and the Federal agency has considered all comments received before the end of the comment period in response to that public notice. This subsection shall not apply to the licensing of inventions made under a cooperative research and development agreement entered into under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a).
 
 (f)
 
 Plan.—No Federal agency shall grant any license under a patent or patent application on a federally owned invention unless the person requesting the license has supplied the agency with a plan for development or marketing of the invention, except that any such plan shall be treated by the Federal agency as commercial and financial information obtained from a person and privileged and confidential and not subject to disclosure under section 552 of title 5.
 
-(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3024; amended Pub. L. 106–404, §4(a), Nov. 1,2000, 114 Stat. 1743; Pub. L. 107–273, div. C, title III, §13206(a)(15), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 112–29, §20(i)(3), Sept. 16, 2011, 125 Stat. 335.)
+(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3024; amended Pub. L. 106–404, §4(a), Nov. 1, 2000, 114 Stat. 1743; Pub. L. 107–273, div. C, title III, §13206(a)(15), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 112–29, §20(i)(3), Sept. 16, 2011, 125 Stat. 335.)
 
 #### Amendments
 

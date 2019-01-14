@@ -60,11 +60,11 @@ No guarantee may be made with respect to any debenture under subsection (a) unle
 
 #### (3) Development company fee
 
-&emsp;The Administration shall collect annually from each development company a fee of 0.125 percent of the outstanding principal balance of any guaranteed debenture authorized by the Administration after September 30, 1996. Such fee shall be derived from the servicing fees collected by the development company pursuant to regulation, and shall not be derived from any additional fees imposed on small business concerns. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a).
+&emsp;The Administration shall collect annually from each development company a fee of 0.125percent of the outstanding principal balance of any guaranteed debenture authorized by the Administration after September 30, 1996. Such fee shall be derived from the servicing fees collected by the development company pursuant to regulation, and shall not be derived from any additional fees imposed on small business concerns. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a).
 
 #### (e) "Qualified State or local development company" defined; exception for rural company; authority
 
-(1) For purposes of this section, the term "qualified State or local development company"means any State or local development company which, as determined by the Administration, has—
+(1) For purposes of this section, the term "qualified State or local development company" means any State or local development company which, as determined by the Administration, has—
 
 &emsp;(A) a full-time professional staff;
 
@@ -134,13 +134,13 @@ Pub. L. 108–199 substituted "March 15, 2004" for "October 1, 2003" before peri
 
 Subsec. (i). Pub. L. 107–100, §6(b)(2), added subsec. (i).
 
-<b>2000</b>—Subsec. (f). Pub. L. 106–554 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "The fees authorized by subsections (b) and (c) of this section shall apply to financings approved by the Administration on or after October 1, 1996, but shall not apply to financings approved by the Administration on or after October 1, 2000."
+<b>2000</b>—Subsec. (f). Pub. L. 106–554 amended heading and text of subsec. (f) generally. Prior to amendment, textread as follows: "The fees authorized by subsections (b) and (c) of this section shall apply to financings approved by the Administration on or after October 1, 1996, but shall not apply to financings approved by the Administration on or after October 1, 2000."
 
 <b>1997</b>—Subsec. (b)(7)(A). Pub. L. 105–135, §222(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "assesses and collects a fee, which shall be payable by the borrower, in an amount equal to the lesser of—
 
 &emsp;"(i) 0.9375 percent per year of the outstanding balance of the loan; or
 
-&emsp;"(ii) such percentage per year of the outstanding balance of the loan as the Administrator may determine to be necessary to reduce the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter to an amount that, taking into consideration any available appropriated funds, would permit the Administration to purchase orguarantee $2,000,000,000 of debentures in fiscal year 1997; and".
+&emsp;"(ii) such percentage per year of the outstanding balance of the loan as the Administrator may determine to be necessary to reduce the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter to an amount that, taking into consideration any available appropriated funds, would permit the Administration to purchase or guarantee $2,000,000,000 of debentures in fiscal year 1997; and".
 
 Subsec. (f). Pub. L. 105–135, §222(2), substituted "2000" for "1997".
 

@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 18 months after August 7, 1998, the Architectural and Transportation Barriers Compliance Board (referred to in this section as the "Access Board"), after consultation with the Secretary of Education, the Administrator of General Services, the Secretary of Commerce, the Chairman of the Federal Communications Commission, the Secretary of Defense, and the head of any other Federal department or agency that the Access Board determines to be appropriate, including consultation on relevant research findings, and after consultation with the electronic and information technology industry and appropriate public or nonprofit agencies or organizations, including organizations representing individuals with disabilities, shall issue and publish standards setting forth—
+&emsp;&emsp;Not later than 18 months after August 7, 1998, the Architectural and TransportationBarriers Compliance Board (referred to in this section as the "Access Board"), after consultation with the Secretary of Education, the Administrator of General Services, the Secretary of Commerce, the Chairman of the Federal Communications Commission, the Secretary of Defense, and the head of any other Federal department or agency that the Access Board determines to be appropriate, including consultation on relevant research findings, and after consultation with the electronic and information technology industry and appropriate public or nonprofit agencies or organizations, including organizations representing individuals with disabilities, shall issue and publish standards setting forth—
 
 &emsp;&emsp;&emsp;(i) for purposes of this section, a definition of electronic and information technology that is consistent with the definition of information technology specified in section 11101(6) of title 40; and
 
@@ -54,7 +54,7 @@
 
 #### (B) Software and peripheral devices
 
-&emsp;&emsp;Except as required to comply with standards issued by the Access Board under paragraph (2), nothing in paragraph (1) requires the installation of specific accessibility-related software or the attachment of a specific accessibility-related peripheral deviceat a workstation of a Federal employee who is not an individual with a disability.
+&emsp;&emsp;Except as required to comply with standards issued by the Access Board under paragraph (2), nothing in paragraph (1) requires the installation of specific accessibility-related software or the attachment of a specific accessibility-related peripheral device at a workstation of a Federal employee who is not an individual with a disability.
 
 #### (b) Technical assistance
 

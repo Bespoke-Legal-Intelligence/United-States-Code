@@ -28,13 +28,13 @@ In order to carry out this section, the Secretary shall establish a research cap
 
 #### (e) Preparation and submission of estimates of housing needs
 
-The Secretary of Agriculture shall prepare and submit to the President and to the Congress estimates of national rural housing needs and reports with respect to the progress being made toward meeting such needs and correlate and recommend proposals for such executive action or legislation necessary or desirable for the furtherance of the national housing objective and policy established by this Act with respect to rural housing, together with such other reports or information as may be required of the Secretary by the President or the Congress.
+The Secretary of Agriculture shall prepare and submit to the President and to the Congress estimates of national rural housing needs and reports with respect to the progress being made toward meeting such needs and correlate and recommend proposals for such executive action or legislation necessary or desirable for the furtherance of the national housing objective and policy established by this Act with respect to rural housing, together with such other reportsor information as may be required of the Secretary by the President or the Congress.
 
 #### (f) Study of housing available for migrant and settled farmworkers
 
 (1) The Secretary shall conduct a study of housing which is available for migrant and settled farmworkers. In conducting such study, the Secretary shall—
 
-&emsp;(A) determine the location, number, quality, and condition of housing units which areavailable to such farmworkers and the cost assessed such farmworkers for occupying such units;
+&emsp;(A) determine the location, number, quality, and condition of housing units which are available to such farmworkers and the cost assessed such farmworkers for occupying such units;
 
 &emsp;(B) recommend legislative, administrative, and other action (including the need for new authority for such action) which may be taken for the purpose of improving both the availability and the condition of such housing units; and
 

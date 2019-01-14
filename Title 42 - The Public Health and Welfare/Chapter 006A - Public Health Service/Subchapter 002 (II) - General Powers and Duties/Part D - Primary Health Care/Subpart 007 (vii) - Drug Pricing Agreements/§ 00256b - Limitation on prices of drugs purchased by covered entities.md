@@ -12,7 +12,7 @@
 
 &emsp;&emsp;For a covered outpatient drug purchased in a calendar quarter, the "rebate percentage" is the amount (expressed as a percentage) equal to—
 
-&emsp;&emsp;&emsp;(i) the average total rebate required under section 1927(c) of the Social SecurityAct \[42 U.S.C. 1396r–8(c)\] with respect to the drug (for a unit of the dosage form and strength involved) during the preceding calendar quarter; divided by
+&emsp;&emsp;&emsp;(i) the average total rebate required under section 1927(c) of the Social Security Act \[42 U.S.C. 1396r–8(c)\] with respect to the drug (for a unit of the dosage form and strength involved) during the preceding calendar quarter; divided by
 
 &emsp;&emsp;&emsp;(ii) the average manufacturer price for such a unit of the drug during such quarter.
 
@@ -92,7 +92,7 @@
 
 #### (D) Additional sanction for noncompliance
 
-&emsp;&emsp;If the Secretary finds, after audit as described in subparagraph (C) and after notice and hearing, that a covered entity is in violation of a requirement described in subparagraphs <sup>2</sup> (A) or (B), the covered entity shall be liable to the manufacturer of the covered outpatient drug that is the subject of the violation in an amount equal to the reduction in the price of the drug (as described in subparagraph (A)) provided under the agreement between the entity and the manufacturer under this paragraph.
+&emsp;&emsp;If the Secretary finds, after audit as described in subparagraph (C) and after notice and hearing, that a covered entity is in violation of a requirement described in subparagraphs <sup>2</sup> (A) or (B), the covered entity shall be liable to the manufacturer of the covered outpatient drug that is the subject of the violation in an amount equal to the reduction in the price of the drug (as described insubparagraph (A)) provided under the agreement between the entity and the manufacturer under this paragraph.
 
 #### (6) Treatment of distinct units of hospitals
 
@@ -136,7 +136,7 @@
 
 #### (1) In general
 
-&emsp;In this section, the terms "average manufacturer price", "covered outpatient drug", and"manufacturer" have the meaning given such terms in section 1927(k) of the Social Security Act \[42 U.S.C. 1396r–8(k)\].
+&emsp;In this section, the terms "average manufacturer price", "covered outpatient drug", and "manufacturer" have the meaning given such terms in section 1927(k) of the Social Security Act \[42 U.S.C. 1396r–8(k)\].
 
 #### (2) Covered drug
 
@@ -218,7 +218,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) Where the Secretary determines a violation of subsection (a)(5)(B) was systematic and egregious as well as knowing and intentional, removing the covered entity from the drug discount program under this section and disqualifying the entity from re-entry into such program for a reasonable period of time to be determined by the Secretary.
 
-&emsp;&emsp;&emsp;&emsp;(III) Referring matters to appropriate Federal authorities within the Food and Drug Administration, the Office of Inspector General of Department of Health and Human Services, or other Federal agencies for consideration of appropriate action under other Federal statutes, such as the Prescription Drug Marketing Act (21 U.S.C. 353).<sup>1</sup>
+&emsp;&emsp;&emsp;&emsp;(III) Referring matters to appropriate Federal authorities within the Food and Drug Administration, the Office of Inspector General of Department of Health and Human Services, or other Federal agencies for consideration of appropriateaction under other Federal statutes, such as the Prescription Drug Marketing Act (21 U.S.C. 353).<sup>1</sup>
 
 #### (3) Administrative dispute resolution process
 
@@ -248,7 +248,7 @@
 
 #### (4) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection, such sums as maybe necessary for fiscal year 2010 and each succeeding fiscal year.
+&emsp;There are authorized to be appropriated to carry out this subsection, such sums as may be necessary for fiscal year 2010 and each succeeding fiscal year.
 
 #### (e) Exclusion of orphan drugs for certain covered entities
 
@@ -266,7 +266,7 @@ Subpart II of part C of subchapter XXIV, referred to in subsec. (a)(4)(D), was r
 
 The Native Hawaiian Health Care Act of 1988, referred to in subsec. (a)(4)(H), was Pub. L. 100–579, Oct. 31, 1988, 102 Stat. 2916, and subtitle D of title II of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4222, which were classified generally to chapter 122 (§11701 et seq.) of this title prior to being amended generally and renamed the Native Hawaiian Health Care Improvement Act by Pub. L. 102–396. For complete classification of this Act to the Code, see Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (a)(4)(I), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (a)(4)(I), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of thisAct to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 Section 247b(j)(2) of this title, referred to in subsec. (a)(4)(K), was repealed and section 247b(j)(1)(B) was redesignated section 247b(j)(2) by Pub. L. 103–183, title III, §301(b)(1)(A), (C), Dec. 14, 1993, 107 Stat. 2235.
 
@@ -320,7 +320,7 @@ Exceptions.—The Secretary shall establish reasonable exceptions to clause (i)�
 
 "(iv)
 
-Purchasing arrangements for inpatient drugs.—The Secretary shall ensure that a hospital described in subparagraph (L), (M), (N), or (O) of subsection (a)(4) that is enrolled to participate in the drug discount program under this section shall have multiple options for purchasing covered outpatient drugs for inpatients, including by utilizing a group purchasing organization or other group purchasing arrangement, establishing and utilizing its own group purchasing program, purchasing directly from a manufacturer,and any other purchasing arrangements that the Secretary determines is appropriate to ensure access to drug discount pricing under this section for inpatient drugs taking into account the particular needs of small and rural hospitals."
+Purchasing arrangements for inpatient drugs.—The Secretary shall ensure that a hospital described in subparagraph (L), (M), (N), or (O) of subsection (a)(4) that is enrolled to participate in the drug discount program under this section shall have multiple options for purchasing covered outpatient drugs for inpatients, including by utilizing a group purchasing organization or other group purchasing arrangement, establishing and utilizing its own group purchasing program, purchasing directly from a manufacturer, and any other purchasing arrangements that the Secretary determines is appropriate to ensure access to drug discount pricing under this section for inpatient drugs taking into account the particular needs of small and rural hospitals."
 
 Pub. L. 111–148, §7101(c)(2)(B), added subpar. (C). Former subpar. (C) redesignated (D).
 

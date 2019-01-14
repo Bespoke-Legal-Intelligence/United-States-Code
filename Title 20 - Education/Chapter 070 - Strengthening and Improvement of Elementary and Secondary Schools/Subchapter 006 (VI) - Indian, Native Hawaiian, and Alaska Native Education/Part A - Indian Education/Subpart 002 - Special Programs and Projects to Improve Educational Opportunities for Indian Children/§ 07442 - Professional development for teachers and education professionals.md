@@ -26,7 +26,7 @@ For the purpose of this section, the term "eligible entity" means—
 
 #### (c) Program authorized
 
-The Secretary is authorized to award grants to eligible entities having applications approved under this section to enable those entities to carry out the activities described in subsection (d).
+The Secretary is authorized to award grants to eligible entities having applications approvedunder this section to enable those entities to carry out the activities described in subsection (d).
 
 #### (d) Authorized activities
 
@@ -36,7 +36,7 @@ The Secretary is authorized to award grants to eligible entities having applicat
 
 &emsp;&emsp;(A) continuing education programs, symposia, workshops, and conferences;
 
-&emsp;&emsp;(B) teacher mentoring programs, professional guidance, and instructional support provided by educators, local traditionalleaders, or cultural experts, as appropriate for teachers during their first 3 years of employment as teachers;
+&emsp;&emsp;(B) teacher mentoring programs, professional guidance, and instructional support provided by educators, local traditional leaders, or cultural experts, as appropriate for teachers during their first 3 years of employment as teachers;
 
 &emsp;&emsp;(C) direct financial support; and
 

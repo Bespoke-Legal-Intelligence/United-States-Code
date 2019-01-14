@@ -6,7 +6,7 @@
 
 &emsp;(1) that the person seeking exclusion obtain a court order enjoining importation of the articles; or
 
-&emsp;(2) that the person seeking exclusion furnish proof, of a specified nature and in accordance with prescribed procedures, that the copyright in which such person claims an interest is valid and that the importation would violate the prohibition in section 602; the person seeking exclusion may also be required to post a surety bond for any injury that may result ifthe detention or exclusion of the articles proves to be unjustified.
+&emsp;(2) that the person seeking exclusion furnish proof, of a specified nature and in accordance with prescribed procedures, that the copyright in which such person claims an interest is valid and that the importation would violate the prohibition in section 602; the person seeking exclusion may also be required to post a surety bond for any injury that may result if the detention or exclusion of the articles proves to be unjustified.
 
 (c) Articles imported in violation of the importation prohibitions of this title are subject to seizure and forfeiture in the same manner as property imported in violation of the customs revenue laws. Forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be.
 
@@ -22,5 +22,5 @@ Subsection (b) of section 603 deals only with the prohibition against importatio
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–153 substituted a period at end for "; however, the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of law."
+<b>1996</b>—Subsec. (c). Pub. L. 104–153 substituted a period at end for "; however, the articles may be returned tothe country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of law."
 

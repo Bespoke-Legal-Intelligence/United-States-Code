@@ -20,7 +20,7 @@ The National Security Agency may pay, directly or by reimbursement to program pa
 
 &emsp;(B) to continue in the service of the Agency following completion of the assignment for a period of one-and-a-half years for each year of the assignment or part thereof;
 
-&emsp;(C) to reimburse the United States for the total cost of education (excluding the program participant's pay and allowances) provided under this section to the program participant if, prior to the program participant's completing the educational course of training for which the program participant is assigned, the assignment or the program participant's employment with the Agency is terminated—
+&emsp;(C) to reimburse the United States for the total cost of education (excluding the program participant's pay and allowances) provided under this section to the program participant if, prior to the program participant's completing the educational course of training forwhich the program participant is assigned, the assignment or the program participant's employment with the Agency is terminated—
 
 &emsp;&emsp;(i) by the Agency due to misconduct by the program participant;
 

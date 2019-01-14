@@ -6,7 +6,7 @@ Whoever, being an officer, agent, or employee of the United States or any depart
 
 &emsp;&emsp;(a) serving a warrant of arrest; or
 
-&emsp;&emsp;(b) arresting or attempting to arrest a person committing or attempting to commit an offense in his presence, or who has committed or is suspected on reasonable grounds of having committed a felony; or
+&emsp;&emsp;(b) arresting or attempting to arrest a person committing or attempting to commit anoffense in his presence, or who has committed or is suspected on reasonable grounds of having committed a felony; or
 
 &emsp;&emsp;(c) making a search at the request or invitation or with the consent of the occupant of the premises.
 

@@ -10,7 +10,7 @@ All guarantees entered into by the Secretary under section 822 of this title sha
 
 #### (c) Assignment of loan guarantees
 
-The holder of a loan guarantee made under section 822 of this title may assign the loan guarantee in whole or in part, subject to such requirements as the Secretary may prescribe.
+The holder of a loan guarantee made under section 822 of this title may assign the loanguarantee in whole or in part, subject to such requirements as the Secretary may prescribe.
 
 #### (d) Modifications
 
@@ -28,7 +28,7 @@ The Secretary shall assure compliance, by an applicant, any other party to the l
 
 #### (f) Commercial validity
 
-For purposes of claims by any party other than the Secretary, a loan guarantee or loanguarantee commitment shall be conclusive evidence that the underlying obligation is in compliance with the provisions of this subchapter, and that such obligation has been approved and is legal as to principal, interest, and other terms. Such a guarantee or commitment shall be valid and incontestable in the hands of a holder thereof, including the original lender or any other holder, as of the date when the Secretary granted the application therefor, except as to fraud or material misrepresentation by such holder.
+For purposes of claims by any party other than the Secretary, a loan guarantee or loan guarantee commitment shall be conclusive evidence that the underlying obligation is in compliance with the provisions of this subchapter, and that such obligation has been approved and is legal as to principal, interest, and other terms. Such a guarantee or commitment shall be valid and incontestable in the hands of a holder thereof, including the original lender or any other holder, as of the date when the Secretary granted the application therefor, except as to fraud or material misrepresentation by such holder.
 
 #### (g) Default
 
@@ -104,11 +104,11 @@ No attachment or execution may be issued against the Secretary, or any property 
 
 &emsp;&emsp;A servicer appointed under subparagraph (A) shall receive a servicing fee from the obligor or other loan party, subject to approval by the Secretary.
 
-#### (4) Safety and operations account
+#### (4) National Surface Transportation and Innovative Finance Bureau account
 
 &emsp;Amounts collected under this subsection shall—
 
-&emsp;&emsp;(A) be credited directly to the Safety and Operations account of the Federal Railroad Administration; and
+&emsp;&emsp;(A) be credited directly to the National Surface Transportation and Innovative Finance Bureau account; and
 
 &emsp;&emsp;(B) remain available until expended to pay for the costs described in this subsection.
 
@@ -116,7 +116,7 @@ No attachment or execution may be issued against the Secretary, or any property 
 
 Except as provided in this subchapter, the Secretary may not assess any fees, including user fees, or charges in connection with a direct loan or loan guarantee provided under section 822 of this title.
 
-(Pub. L. 94–210, title V, §503, as added and amended Pub. L. 105–178, title VII, §7203(a)(1), (4), June 9, 1998, 112 Stat. 475, 477; Pub. L. 109–59, title IX, §9003(h), (i), Aug. 10, 2005, 119 Stat. 1923; Pub. L. 114–94, div. A, title XI, §11605(b), Dec. 4, 2015, 129 Stat. 1695.)
+(Pub. L. 94–210, title V, §503, as added and amended Pub. L. 105–178, title VII, §7203(a)(1), (4), June 9, 1998, 112 Stat. 475, 477; Pub. L. 109–59, title IX, §9003(h), (i), Aug. 10, 2005, 119 Stat. 1923; Pub. L. 114–94, div. A, title XI, §11605(b), Dec. 4, 2015, 129 Stat. 1695; Pub. L. 115–56, div. D, §164(b), as added Pub. L. 115–123, div. B, §20101(2), Feb. 9, 2018, 132 Stat. 121.)
 
 #### Codification
 
@@ -127,6 +127,10 @@ The text of section 831(c) of this title, which was transferred to subsec. (b) o
 A prior section 823, Pub. L. 94–210, title V, §503, Feb. 5, 1976, 90 Stat. 69; Pub. L. 94–555, title II, §216(b), Oct. 19, 1976, 90 Stat. 2627, related to classification and designation of rail lines, prior to repeal by Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 471.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (l)(4). Pub. L. 115–56, §164(b)(1), as added by Pub. L. 115–123, §20101(2), substituted "National Surface Transportation and Innovative Finance Bureau account" for "Safety and operations account" in heading.
+
+Subsec. (l)(4)(A). Pub. L. 115–56, §164(b)(2), as added by Pub. L. 115–123, §20101(2), substituted "National Surface Transportation and Innovative Finance Bureau account" for "Safety and Operations account of the Federal Railroad Administration".
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–94, §11605(b)(1), inserted ", including a program guide, a standard term sheet, and specific timetables" before period at end.
 

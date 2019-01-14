@@ -12,7 +12,7 @@ In the budget materials submitted to the President by the Board in connection wi
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsec. (a), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (a), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101,which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

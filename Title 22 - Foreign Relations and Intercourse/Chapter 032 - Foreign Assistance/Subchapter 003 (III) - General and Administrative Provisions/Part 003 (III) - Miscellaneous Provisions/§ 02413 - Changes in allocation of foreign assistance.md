@@ -24,7 +24,7 @@ Subsecs. (b), (c). Pub. L. 99–83, §1209(b)(2), (3), redesignated subsec. (c) 
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–384 substituted in provisions preceding par. (1) in two places and in par. (2) "assistance under part IV of subchapter II of this chapter" for "security supporting assistance" and in provisions preceding par. (1) in two places "part VI of subchapter II" for "subchapter IV" and inserted in par. (2) "or assistance under part VI of subchapter II of this chapter" before ", the President includes".
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–559, §21(1), struck out provisions limiting the military grant assistance or security supporting assistance to any foreign country or international organization to an amount not more than 10 percent of funds authorized under any law unless the President determines that it would be in the security interests of the United States to provide excess fundsand reports to Congress the identity of the recipient, the amount of excess funds provided, and the justification for additional assistance. See subsec. (b) of this section.
+<b>1974</b>—Subsec. (a). Pub. L. 93–559, §21(1), struck out provisions limiting the military grant assistance or security supporting assistance to any foreign country or international organization to an amount not more than 10 percent of funds authorized under any law unless the President determines that it would be in the security interests of the United States to provide excess funds and reports to Congress the identity of the recipient, the amount of excess funds provided, and the justification for additional assistance. See subsec. (b) of this section.
 
 Subsecs. (b), (c). Pub. L. 93–559, §21(2), added subsec. (b) and redesignated former subsec. (b) as (c).
 

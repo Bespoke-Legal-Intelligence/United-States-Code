@@ -28,13 +28,13 @@
 
 (2) For purposes of section 7117(a) of this title, no regulation prescribed to carry out subsection (a)(2) of this section shall be considered to be a Government-wide rule or regulation.
 
-(c) Subsection (a) of this section does not modify existing statutes which provide for forfeiture of pay or allowances. This section and section 3530(d) of title 31 do not repeal, modify, or amend section 4837(d) or 9837(d) of title 10 or section 1007(b), (c) of title 37.
+(c) Subsection (a) of this section does not modify existing statutes which provide for forfeiture of pay or allowances. This section and section 3530(d) of title 31 do not repeal, modify, or amend section 7837(d) or 9837(d) of title 10 or section 1007(b), (c) of title 37.
 
 (d) A levy pursuant to the Internal Revenue Code of 1986 shall take precedence over other deductions under this section.
 
 (e) An employee of a nonappropriated fund instrumentality described in section 2105(c) of this title is deemed an employee covered by this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 477; Pub. L. 96–54, §2(a)(2), Aug. 14, 1979, 93 Stat. 381; Pub. L. 97–258, §3(a)(12), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–365, §5, Oct. 25, 1982, 96 Stat. 1751; Pub. L. 97–452, §2(a)(2), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–216, §3(a)(4), Feb. 14, 1984, 98 Stat. 6; Pub. L. 104–134, title III, §31001(h), Apr. 26, 1996, 110 Stat. 1321–363; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–181, div. A, title VI, §652, Jan. 28, 2008, 122 Stat. 162.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 477; Pub. L. 96–54, §2(a)(2), Aug. 14, 1979, 93 Stat. 381; Pub. L. 97–258, §3(a)(12), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–365, §5, Oct. 25, 1982, 96 Stat. 1751; Pub. L. 97–452, §2(a)(2), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–216, §3(a)(4), Feb. 14, 1984, 98 Stat. 6; Pub. L. 104–134, title III, §31001(h), Apr. 26, 1996, 110 Stat. 1321–363; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–181, div. A, title VI, §652, Jan. 28, 2008, 122 Stat. 162; Pub. L. 115–232, div. A, title VIII, §809(c)(3), Aug. 13, 2018, 132 Stat. 1841.)
 
 Historical and Revision Notes
 
@@ -66,6 +66,8 @@ Sections 4837(d) and 9837(d) of title 10, referred to in subsec. (c), probably r
 
 #### Amendments
 
+<b>2018</b>—Subsec. (c). Pub. L. 115–232 substituted "section 7837(d) or 9837(d) of title 10" for "section 4837(d) or 9837(d) of title 10".
+
 <b>2008</b>—Subsec. (a)(5)(B). Pub. L. 110–181, §652(1), inserted "any nonappropriated fund instrumentality described in section 2105(c) of this title," after "Commission,".
 
 Subsec. (e). Pub. L. 110–181, §652(2), added subsec. (e).
@@ -96,6 +98,10 @@ Pub. L. 97–258 substituted "section 3530(d)" for "section 581d".
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–54 substituted "President" for "Director of the Bureau of the Budget".
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
+
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
@@ -116,5 +122,5 @@ Pub. L. 97–365, §8(e), Oct. 25, 1982, 96 Stat. 1754, as amended by Pub. L. 99
 
 #### Collection of Indebtedness of Employees of Federal Government Resulting From Action or Suit Brought Against Employee by United States
 
-Pub. L. 97–276, §124, Oct. 2, 1982, 96 Stat. 1195, provided that: "Notwithstanding any other provision of this joint resolution \[Pub. L. 97–276\], in the case of any employee of the Federal Government who is indebted to the United States, as determined by a court of the United States in an action or suit brought against such employee by the United States, the amount of the indebtedness may be collected in monthly installments, or at officially established regular pay period intervals, by deduction in reasonable amounts from the current pay account of the individual. The deductions may be made only from basic pay, special pay, incentive pay, or, in the case of an individual not entitled to basic pay, other authorized pay. Collection shall be made over a period not greater than the anticipated period of employment. The amount deducted for any period may not exceed one-fourth of the pay from which the deduction is made, unless the deduction of a greater amount is necessary to make the collection within the period of anticipated employment. If the individual retires or resigns, or if his employment otherwise ends, before collection of the amount of the indebtedness is completed, deduction shall be made from later payments of any nature due to the individual from the United States Treasury."
+Pub. L. 97–276, §124, Oct. 2, 1982, 96 Stat. 1195, provided that: "Notwithstanding any other provision of this joint resolution \[Pub. L. 97–276\], in the case of any employee of the Federal Government who is indebted tothe United States, as determined by a court of the United States in an action or suit brought against such employee by the United States, the amount of the indebtedness may be collected in monthly installments, or at officially established regular pay period intervals, by deduction in reasonable amounts from the current pay account of the individual. The deductions may be made only from basic pay, special pay, incentive pay, or, in the case of an individual not entitled to basic pay, other authorized pay. Collection shall be made over a period not greater than the anticipated period of employment. The amount deducted for any period may not exceed one-fourth of the pay from which the deduction is made, unless the deduction of a greater amount is necessary to make the collection within the period of anticipated employment. If the individual retires or resigns, or if his employment otherwise ends, before collection of the amount of the indebtedness is completed, deduction shall be made from later payments of any nature due to the individual from the United States Treasury."
 

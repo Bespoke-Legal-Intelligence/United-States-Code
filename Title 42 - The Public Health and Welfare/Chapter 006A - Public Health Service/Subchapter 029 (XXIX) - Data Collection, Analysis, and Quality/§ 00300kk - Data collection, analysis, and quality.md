@@ -134,7 +134,7 @@ Section 285t of this title, referred to in subsec. (b)(1), was in the original "
 
 The Indian Health Care Improvement Act, referred to in subsec. (c)(1)(F), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
-Section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; 110 Stat.2033), referred to in subsec. (e)(1)(A)(i), is set out as a note under section 1320d–2 of this title.
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; 110 Stat. 2033), referred to in subsec. (e)(1)(A)(i), is set out as a note under section 1320d–2 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

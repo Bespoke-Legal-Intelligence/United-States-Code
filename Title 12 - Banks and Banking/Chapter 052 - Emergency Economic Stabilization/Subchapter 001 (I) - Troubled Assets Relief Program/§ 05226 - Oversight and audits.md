@@ -36,7 +36,7 @@
 
 #### (A) Definition
 
-&emsp;&emsp;In this paragraph, the term "governmental unit" has the meaning given under section101(27) of title 11, and does not include any insured depository institution as defined under section 1813 of this title.
+&emsp;&emsp;In this paragraph, the term "governmental unit" has the meaning given under section 101(27) of title 11, and does not include any insured depository institution as defined under section 1813 of this title.
 
 #### (B) GAO presence
 

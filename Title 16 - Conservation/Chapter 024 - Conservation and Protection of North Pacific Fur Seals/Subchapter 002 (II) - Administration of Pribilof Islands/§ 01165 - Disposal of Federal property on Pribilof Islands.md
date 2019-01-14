@@ -62,7 +62,7 @@ In carrying out the purposes of this chapter, the Secretary is authorized to ent
 
 #### Repeal of Subsections (a) to (d)
 
-<i>Pub. L. 106–562, title I, §105(c), Dec. 23, 2000, 114 Stat. 2798, as amended by Pub. L. 114–120, title V, §523(3)(B), Feb. 8, 2016, 130 Stat. 71, provided that, effective on the date on which</i><i>the Secretary of Commerce publishes the notice of certification required by Pub. L. 106–562, §105(b)(5), set out in a Termination of Responsibilities note under section 1161 of this title, subsections (a) to (d) of this section are repealed.</i>
+<i>Pub. L. 106–562, title I, §105(c), Dec. 23, 2000, 114 Stat. 2798, as amended by Pub. L. 114–120, title V, §523(3)(B), Feb. 8, 2016, 130 Stat. 71, provided that, effective on the date on which the Secretary of Commerce publishes the notice of certification required by Pub. L. 106–562, §105(b)(5), set out in a Termination of Responsibilities note under section 1161 of this title, subsections (a) to (d) of this section are repealed.</i>
 
 <i>Substantially identical provisions repealing this section were contained in Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(5)(C)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–247.</i>
 

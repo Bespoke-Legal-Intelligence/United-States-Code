@@ -12,7 +12,7 @@ In case of an alleged violation of an injunction or restraining order issued und
 
 #### (1) In general
 
-&emsp;In any case in which the State has reason to believe that an interest of the residents ofthat State has been or is being threatened or adversely affected by the action of a person, entity, or Internet site that violates the provisions of section 823(f), 829(e), or 831 of this title, the State may bring a civil action on behalf of such residents in a district court of the United States with appropriate jurisdiction—
+&emsp;In any case in which the State has reason to believe that an interest of the residents of that State has been or is being threatened or adversely affected by the action of a person, entity, or Internet site that violates the provisions of section 823(f), 829(e), or 831 of this title, the State may bring a civil action on behalf of such residents in a district court of the United States with appropriate jurisdiction—
 
 &emsp;&emsp;(A) to enjoin the conduct which violates this section;
 
@@ -36,7 +36,7 @@ In case of an alleged violation of an injunction or restraining order issued und
 
 #### (4) Venue
 
-&emsp;Any civil action brought under paragraph (1) in a district court of the United States may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under section 1391 of title 28. Process in such action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
+&emsp;Any civil action brought under paragraph (1) in a district court of the United States may bebrought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under section 1391 of title 28. Process in such action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
 
 #### (5) No private right of action
 

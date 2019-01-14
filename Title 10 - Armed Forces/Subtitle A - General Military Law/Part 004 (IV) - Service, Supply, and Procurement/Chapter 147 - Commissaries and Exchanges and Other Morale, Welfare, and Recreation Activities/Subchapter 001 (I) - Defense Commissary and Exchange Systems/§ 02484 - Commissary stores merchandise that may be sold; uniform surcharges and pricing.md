@@ -98,7 +98,7 @@ Use of Surcharge for Construction, Repair, Improvement, and Maintenance.—(1)(A
 
 (i)
 
-Variable Pricing Program.—(1) Notwithstanding subsection (e), and subject to subsection (k), the Secretary of Defense may establish a variable pricing program pursuant towhich prices may be established in response to market conditions and customer demand, in accordance with the requirements of this subsection. Notwithstanding the amount of the uniform surcharge assessed in subsection (d), the Secretary may provide for an alternative surcharge of not more than five percent of sales proceeds under the variable pricing program to be made available for the purposes specified in subsection (h).
+Variable Pricing Program.—(1) Notwithstanding subsection (e), and subject to subsection (k), the Secretary of Defense may establish a variable pricing program pursuant to which prices may be established in response to market conditions and customer demand, in accordance with the requirements of this subsection. Notwithstanding the amount of the uniform surcharge assessed in subsection (d), the Secretary may provide for an alternative surcharge of not more than five percent of sales proceeds under the variable pricing program to be made available for the purposes specified in subsection (h).
 
 (2) Subject to subsection (k), before establishing a variable pricing program under this subsection, the Secretary shall establish the following:
 
@@ -136,7 +136,11 @@ Oversight Required To Ensure Continued Benefit to Patrons.—(1) With respect to
 
 &emsp;(C) Converting the defense commissary system to a nonappropriated fund entity or instrumentality under subsection (j)(1).
 
-(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852, §2486; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, §364, Oct. 17, 1998, 112 Stat. 1986; Pub. L. 106–65, div. A, title X, §1066(a)(21), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §§332(a), 334\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, 1654A–60; Pub. L. 107–314, div. A, title X, §1041(a)(14), Dec. 2, 2002, 116 Stat. 2645; renumbered §2484 and amended Pub. L. 108–375, div. A, title VI, §651(a)(2), (4), (5), Oct. 28, 2004, 118 Stat. 1964, 1966; Pub. L. 109–364, div. A, title VI, §661, title X, §1071(g)(6), Oct. 17, 2006, 120 Stat. 2262, 2402; Pub. L. 110–417, \[div. A\], title VI, §641, Oct. 14, 2008, 122 Stat. 4493; Pub. L. 113–291, div. A, title VI, §631, Dec. 19, 2014, 128 Stat. 3405; Pub. L. 114–328, div. A, title VI, §661(c), Dec. 23, 2016, 130 Stat. 2170.)
+(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852, §2486; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, §364, Oct. 17, 1998, 112 Stat. 1986; Pub. L. 106–65, div. A, title X, §1066(a)(21), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §§332(a), 334\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, 1654A–60; Pub. L. 107–314, div. A, title X, §1041(a)(14), Dec. 2, 2002, 116 Stat. 2645; renumbered §2484 and amended Pub. L. 108–375, div. A, title VI, §651(a)(2), (4), (5), Oct. 28, 2004, 118 Stat. 1964, 1966; Pub. L. 109–364, div. A, title VI, §661, title X, §1071(g)(6), Oct. 17, 2006, 120 Stat. 2262, 2402; Pub. L. 110–417, \[div. A\], title VI, §641, Oct. 14, 2008, 122 Stat. 4493; Pub. L. 113–291, div. A, title VI, §631, Dec. 19, 2014, 128 Stat. 3405; Pub. L. 114–328, div. A, title VI, §661(c), Dec. 23, 2016, 130 Stat. 2170; Pub. L. 115–232, div. A, title VIII, §836(e)(11), Aug. 13, 2018, 132 Stat. 1870.)
+
+#### Amendment of Subsection (f)
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(e)(11), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (f) of this section is amended by striking "Commercial Items" in the heading and inserting "Commercial Products" and by striking "commercial item" and inserting "commercial product". See 2018 Amendment note below.</i>
 
 #### References in Text
 
@@ -147,6 +151,8 @@ The date of the enactment of this subsection, referred to in subsec. (j)(3)(C), 
 A prior section 2484 was renumbered section 2483 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f). Pub. L. 115–232 substituted "Commercial Products" for "Commercial Items" in heading and substituted "commercial product" for "commercial item" in text.
 
 <b>2016</b>—Subsecs. (i) to (k). Pub. L. 114–328 added subsecs. (i) to (k).
 
@@ -230,6 +236,10 @@ Subsec. (f). Pub. L. 105–85, §372(d), added subsec. (f).
 
 Subsec. (d). Pub. L. 100–180, §313(a)(1), added subsec. (d).
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–364, div. A, title X, §1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made by section 1071(g)(6) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
@@ -272,11 +282,15 @@ Application to Overseas Defense Retail Systems.—The regulations required by su
 
 "(d)
 
-Defense Retail Systems Defined.—In this section, the term 'defense retail systems' has the meaning given that term in section 2487(b)(2) of title 10, United States Code."
+Defense Retail Systems Defined.—In this section, the term 'defense retail systems' has the meaninggiven that term in section 2487(b)(2) of title 10, United States Code."
 
-Pub. L. 115–31, div. C, title VIII, §8034, May 5, 2017, 131 Stat. 254, provided that: "The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: <i>Provided</i>, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States."
+Pub. L. 115–245, div. A, title VIII, §8034, Sept. 28, 2018, 132 Stat. 3007, provided that: "The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: <i>Provided</i>, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–141, div. C, title VIII, §8033, Mar. 23, 2018, 132 Stat. 471.
+
+Pub. L. 115–31, div. C, title VIII, §8034, May 5, 2017, 131 Stat. 254.
 
 Pub. L. 114–113, div. C, title VIII, §8033, Dec. 18, 2015, 129 Stat. 2358.
 

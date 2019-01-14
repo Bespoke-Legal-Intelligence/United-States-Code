@@ -10,11 +10,11 @@
 
 &emsp;&emsp;(ii) there is no substantial likelihood that the physical search will involve the premises, information, material, or property of a United States person; and
 
-&emsp;&emsp;(iii) the proposed minimization procedures with respect to such physical search meet the definition of minimization procedures under paragraphs (1) through (4) <sup>1</sup> of section 1821(4) of this title; and
+&emsp;&emsp;(iii) the proposed minimization procedures with respect to such physical search meet the definition of minimization procedures under subparagraphs (A) through (D) of section 1821(4) of this title; and
 
 &emsp;(B) the Attorney General reports such minimization procedures and any changes thereto to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate at least 30 days before their effective date, unless the Attorney General determines that immediate action is required and notifies the committees immediately of such minimization procedures and the reason for their becoming effective immediately.
 
-(2) A physical search authorized by this subsection may be conducted only in accordance with the certification and minimization procedures adopted by the Attorney General. The Attorney General shall assess compliance with such procedures and shall report such assessments to the Permanent Select Committee on Intelligence of the House of Representatives andthe Select Committee on Intelligence of the Senate under the provisions of section 1826 of this title.
+(2) A physical search authorized by this subsection may be conducted only in accordance with the certification and minimization procedures adopted by the Attorney General. The Attorney General shall assess compliance with such procedures and shall report such assessments to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate under the provisions of section 1826 of this title.
 
 (3) The Attorney General shall immediately transmit under seal to the Foreign Intelligence Surveillance Court a copy of the certification. Such certification shall be maintained under security measures established by the Chief Justice of the United States with the concurrence of the Attorney General, in consultation with the Director of National Intelligence, and shall remain sealed unless—
 
@@ -40,15 +40,19 @@ The Foreign Intelligence Surveillance Court shall have jurisdiction to hear appl
 
 #### (d) Court of review; record; transmittal to Supreme Court
 
-The court of review established under section 1803(b) of this title shall have jurisdiction to review the denial of any application made under this subchapter. If such court determines that the application was properly denied, the court shall immediately provide for the record a written statement of each reason for its decision and, on petition of the United States for a writ of certiorari, the record shall be transmitted under seal to the Supreme Court, which shall have jurisdiction to review such decision.
+The court of review established under section 1803(b) of this title shall have jurisdiction to review the denial of any application made under this subchapter. If such court determines that the application was properly denied, the court shall provide for the record a written statement of each reason for its decision and, on petition of the United States for a writ of certiorari, the record shall be transmitted under seal to the Supreme Court, which shall have jurisdiction to review such decision.
 
 #### (e) Expeditious conduct of proceedings; security measures for maintenance of records
 
 Judicial proceedings under this subchapter shall be concluded as expeditiously as possible. The record of proceedings under this subchapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice of the United States in consultation with the Attorney General and the Director of National Intelligence.
 
-(Pub. L. 95–511, title III, §302, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3444; amended Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 110–261, title I, §109(b)(2)(B), July 10, 2008, 122 Stat. 2465; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748.)
+(Pub. L. 95–511, title III, §302, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3444; amended Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 110–261, title I, §109(b)(2)(B), July 10, 2008, 122 Stat. 2465; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 115–118, title II, §205(a)(2), (b)(3), Jan. 19, 2018, 132 Stat. 21, 22.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(A)(iii). Pub. L. 115–118, §205(a)(2), substituted "subparagraphs (A) through (D)" for "paragraphs (1) through (4)".
+
+Subsec. (d). Pub. L. 115–118, §205(b)(3), struck out "immediately" after "the court shall".
 
 <b>2010</b>—Subsecs. (a)(3), (4)(A)(ii), (e). Pub. L. 111–259 made technical amendment to directory language of Pub. L. 108–458. See 2004 Amendment note below.
 
@@ -65,6 +69,10 @@ Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in se
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+
+#### Effective Date
+
+Section effective 90 days after Oct. 14, 1994, with exception for certain physical searches approved by the Attorney General to gather foreign intelligence information, see section 807(c) of Pub. L. 103–359, set out as a note under section 1821 of this title.
 
 #### Ex. Ord. No. 12949. Foreign Intelligence Physical Searches
 
@@ -97,6 +105,4 @@ Sec. 3. Pursuant to section 303(a)(6) of the Act, the following officials, each 
 &emsp;(i) Deputy Director of the Federal Bureau of Investigation.
 
 > None of the above officials, nor anyone officially acting in that capacity, may exercise the authority to make the above certifications, unless that official has been appointed by the President, by and with the advice and consent of the Senate. The requirement of the preceding sentence that the named official must be appointed by the President with the advice and consent of the Senate does not apply to the Deputy Director of the Federal Bureau of Investigation.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "subparagraphs (A) through (D)".</i>
 

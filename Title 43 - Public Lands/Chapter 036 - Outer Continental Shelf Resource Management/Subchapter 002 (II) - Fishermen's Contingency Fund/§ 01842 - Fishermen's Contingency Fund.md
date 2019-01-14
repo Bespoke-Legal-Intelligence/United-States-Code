@@ -10,7 +10,7 @@
 
 &emsp;(C) amounts recovered by the Secretary under section 1845(h)(2) of this title.
 
-> The total amount in the Fund that is collected under subsection (b) may at no time exceed $2,000,000; and the total amount in the Fund which is attributable to revenue received under paragraph (3) or recovered by the Secretary under section 1845(h)(2) of this title shall be expended prior to amounts collected under subsection (b). Not more than 8 percent of the totalamount in the Fund may be expended in any fiscal year for paying the administrative and personnel expenses referred to in paragraph (2)(A).
+> The total amount in the Fund that is collected under subsection (b) may at no time exceed $2,000,000; and the total amount in the Fund which is attributable to revenue received under paragraph (3) or recovered by the Secretary under section 1845(h)(2) of this title shall be expended prior to amounts collected under subsection (b). Not more than 8 percent of the total amount in the Fund may be expended in any fiscal year for paying the administrative and personnel expenses referred to in paragraph (2)(A).
 
 (2) The Fund shall be available, as provided for in appropriation Acts solely for the payment of—
 
@@ -26,7 +26,7 @@
 
 #### (b) Payments by each holder of lease, permit, easement, or right-of-way
 
-(1) Except as provided in paragraph (2), each holder of a lease that is issued or maintained under the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\] and each holder of an exploration permit, or an easement or right-of-way for the construction of a pipeline in any area of the Outer Continental Shelf, shall pay an amount specified by the Secretary. The Secretary of the Interior shall collect such amount and deposit it into the Fund. In any calendar year, no holder of a lease, permit, easement, or right-of-way shall be required to pay an amount in excess of $5,000 per lease, permit, easement, or right-of-way.
+(1) Except as provided in paragraph (2), each holder of a lease that is issued or maintained under the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\] and each holder of an exploration permit, or an easement or right-of-wayfor the construction of a pipeline in any area of the Outer Continental Shelf, shall pay an amount specified by the Secretary. The Secretary of the Interior shall collect such amount and deposit it into the Fund. In any calendar year, no holder of a lease, permit, easement, or right-of-way shall be required to pay an amount in excess of $5,000 per lease, permit, easement, or right-of-way.
 
 (2) Payments may not be required under paragraph (1) by the Secretary of the Interior with respect to geological permits and geophysical permits, other than prelease exploratory drilling permits issued under section 11 of the Outer Continental Shelf Lands Act (43 U.S.C. 1340).
 

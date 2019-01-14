@@ -2,7 +2,7 @@
 
 #### (a) Care and treatment
 
-(1) At or through the National Hansen's Disease Programs Center (located in the State of Louisiana), the Secretary shall without charge provide short-term care and treatment, including outpatient care, for Hansen's disease and related complications to any person determined by the Secretary to be in need of such care and treatment. The Secretary may not at or through such Center provide long-term care for any such disease or complication.
+(1) At or through the National Hansen's Disease Programs Center (located in the State ofLouisiana), the Secretary shall without charge provide short-term care and treatment, including outpatient care, for Hansen's disease and related complications to any person determined by the Secretary to be in need of such care and treatment. The Secretary may not at or through such Center provide long-term care for any such disease or complication.
 
 (2) The Center referred to in paragraph (1) shall conduct training in the diagnosis and management of Hansen's disease and related complications, and shall conduct and promote the coordination of research (including clinical research), investigations, demonstrations, and studies relating to the causes, diagnosis, treatment, control, and prevention of Hansen's disease and other mycobacterial diseases and complications related to such diseases.
 
@@ -20,7 +20,7 @@ The Secretary shall carry out subsections (a) and (b) acting through an agency o
 
 The Secretary shall make payments to the Board of Health of the State of Hawaii for the care and treatment (including outpatient care) in its facilities of persons suffering from Hansen's disease at a rate determined by the Secretary. The rate shall be approximately equal to the operating cost per patient of such facilities, except that the rate may not exceed the comparable costs per patient with Hansen's disease for care and treatment provided by the Center referred to in subsection (a). Payments under this subsection are subject to the availability of appropriations for such purpose.
 
-(July 1, 1944, ch. 373, title III, §320, formerly §331, 58 Stat. 698; June 25, 1948, ch. 654, §4, 62Stat. 1018; June 25, 1952, ch. 460, 66 Stat. 157; Pub. L. 86–624, §29(b), July 12, 1960, 74 Stat. 419; renumbered §339, Pub. L. 94–484, title IV, §407(b)(2), Oct. 12, 1976, 90 Stat. 2268; renumbered §320, and amended Pub. L. 95–626, title I, §105(a), Nov. 10, 1978, 92 Stat. 3560; Pub. L. 96–32, §7(b), July 10, 1979, 93 Stat. 84; Pub. L. 99–117, §2(a), Oct. 7, 1985, 99 Stat. 491; Pub. L. 105–78, title II, §211(h), Nov. 13, 1997, 111 Stat. 1494; Pub. L. 107–220, §1(a), Aug. 21, 2002, 116 Stat. 1332.)
+(July 1, 1944, ch. 373, title III, §320, formerly §331, 58 Stat. 698; June 25, 1948, ch. 654, §4, 62 Stat. 1018; June 25, 1952, ch. 460, 66 Stat. 157; Pub. L. 86–624, §29(b), July 12, 1960, 74 Stat. 419; renumbered §339, Pub. L. 94–484, title IV, §407(b)(2), Oct. 12, 1976, 90 Stat. 2268; renumbered §320, and amended Pub. L. 95–626, title I, §105(a), Nov. 10, 1978, 92 Stat. 3560; Pub. L. 96–32, §7(b), July 10, 1979, 93 Stat. 84; Pub. L. 99–117, §2(a), Oct. 7, 1985, 99 Stat. 491; Pub. L. 105–78, title II, §211(h), Nov. 13, 1997, 111 Stat. 1494; Pub. L. 107–220, §1(a), Aug. 21, 2002, 116 Stat. 1332.)
 
 #### References in Text
 
@@ -168,7 +168,7 @@ Pub. L. 105–78, title II, §211(a)–(g), Nov. 13, 1997, 111 Stat. 1489, as am
 
 &emsp;&emsp;"(i) The choice the patient makes under subparagraph (A) does not affect the responsibility of the Secretary for providing to the patient such care at or through the Center.
 
-&emsp;&emsp;"(ii) If the patient chooses the option under subparagraph (A)(ii) and receives inpatient care at or through the Center, the Secretary may reduce the amount of payments under such subparagraph, except to the extent that reimbursement for the expenses of such care is available to the provider of the care through the program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] or the program under title XIX of such Act \[42 U.S.C. 1396 et seq.\]. Any such reduction shall be made on the basis of the number of days for which the patient received the inpatient care.
+&emsp;&emsp;"(ii) If the patient chooses the option under subparagraph (A)(ii) and receives inpatient care at or through the Center, the Secretary may reduce the amount of payments under such subparagraph, except to the extent that reimbursement for the expenses of such care is available to the provider of the care through the program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] or the program under title XIX of such Act \[42 U.S.C.1396 et seq.\]. Any such reduction shall be made on the basis of the number of days for which the patient received the inpatient care.
 
 &emsp;"(6) The Secretary shall provide to each eligible patient such information and time as may be necessary for the patient to make an informed decision regarding the options under paragraph (5)(A).
 

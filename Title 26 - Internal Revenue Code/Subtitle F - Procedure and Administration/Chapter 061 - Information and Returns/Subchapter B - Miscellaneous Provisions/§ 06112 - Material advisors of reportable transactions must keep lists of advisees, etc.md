@@ -58,5 +58,5 @@ Amendment by Pub. L. 108–357 applicable to transactions with respect to which 
 
 #### Effective Date
 
-Pub. L. 98–369, div. A, title I, §142(d), July 18, 1984, 98 Stat. 682, provided that: "The amendments made by this section \[enacting this section and section 6708 of this title and renumbering former section 6112 as section 6113 of this title\] shall apply to any interest which is first sold to any investor after August 31, 1984."
+Pub. L. 98–369, div. A, title I, §142(d), July 18, 1984, 98 Stat. 682, provided that: "The amendments made bythis section \[enacting this section and section 6708 of this title and renumbering former section 6112 as section 6113 of this title\] shall apply to any interest which is first sold to any investor after August 31, 1984."
 

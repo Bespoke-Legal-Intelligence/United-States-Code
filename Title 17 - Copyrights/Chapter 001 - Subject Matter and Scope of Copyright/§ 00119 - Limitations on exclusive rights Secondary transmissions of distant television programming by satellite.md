@@ -30,7 +30,7 @@ Accurate determinations of eligibility.—
 
 &emsp;&emsp;&emsp;&emsp;(I)
 
-Accurate predictive model.—In determining presumptively whether a person resides in an unserved householdunder subsection (d)(10)(A), a court shall rely on the Individual Location Longley-Rice model set forth by the Federal Communications Commission in Docket No. 98–201, as that model may be amended by the Commission over time under section 339(c)(3) of the Communications Act of 1934 to increase the accuracy of that model.
+Accurate predictive model.—In determining presumptively whether a person resides in an unserved household under subsection (d)(10)(A), a court shall rely on the Individual Location Longley-Rice model set forth by the Federal Communications Commission in Docket No. 98–201, as that model may be amended by the Commission over time under section 339(c)(3) of the Communications Act of 1934 to increase the accuracy of that model.
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
@@ -90,7 +90,7 @@ For those receiving distant signals.—In the case of a subscriber of a satellit
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) only until such time as the subscriber elects to receive such local signal.
 
-&emsp;&emsp;&emsp;&emsp;(II) Notwithstanding subclause (I), the statutory license under paragraph (2) shall not apply with respect to any subscriber who is eligible to receive the distant signal of a television network station solely by reason of subsection (e), unless the satellite carrier, within 60 days after the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004, submitsto that television network a list, aggregated by designated market area (as defined in section 122(j)(2)(C)), that—
+&emsp;&emsp;&emsp;&emsp;(II) Notwithstanding subclause (I), the statutory license under paragraph (2) shall not apply with respect to any subscriber who is eligible to receive the distant signal of a television network station solely by reason of subsection (e), unless the satellite carrier, within 60 days after the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004, submits to that television network a list, aggregated by designated market area (as defined in section 122(j)(2)(C)), that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) identifies that subscriber by name and address (street or rural route number, city, State, and zip code) and specifies the distant signals received by the subscriber; and
 
@@ -98,7 +98,7 @@ For those receiving distant signals.—In the case of a subscriber of a satellit
 
 &emsp;&emsp;&emsp;(ii)
 
-For those not receiving distant signals.—In the case of any subscriber of a satellite carrier who is eligible to receive the distant signal of a network station solely by reason of subsection (e) and who did not receive a distant signal of a station affiliated with the same network on October 1, 2004, the statutory license under paragraph (2) shall not apply to secondary transmissions by that satellite carrier to that subscriber of the distant signal of a station affiliated with the same network.
+For those not receiving distant signals.—In the case of any subscriber of a satellite carrier who is eligible to receivethe distant signal of a network station solely by reason of subsection (e) and who did not receive a distant signal of a station affiliated with the same network on October 1, 2004, the statutory license under paragraph (2) shall not apply to secondary transmissions by that satellite carrier to that subscriber of the distant signal of a station affiliated with the same network.
 
 &emsp;&emsp;(B)
 
@@ -130,11 +130,11 @@ Available defined.—For purposes of this paragraph, a satellite carrier makes a
 
 &emsp;(4)
 
-Noncompliance with reporting and payment requirements.—Notwithstanding the provisions of paragraphs (1) and (2), the willful or repeated secondary transmission to thepublic by a satellite carrier of a primary transmission made by a non-network station or a network station and embodying a performance or display of a work is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, where the satellite carrier has not deposited the statement of account and royalty fee required by subsection (b), or has failed to make the submissions to networks required by paragraph (2)(C).
+Noncompliance with reporting and payment requirements.—Notwithstanding the provisions of paragraphs (1) and (2), the willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission made by a non-network station or a network station and embodying a performance or display of a work is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, where the satellite carrier has not deposited the statement of account and royalty fee required by subsection (b), or has failed to make the submissions to networks required by paragraph (2)(C).
 
 &emsp;(5)
 
-Willful alterations.—Notwithstanding the provisions of paragraphs (1) and (2), the secondary transmission to the public by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a non-network station or a network station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and section 510, if the content of the particular program in which the performance or display is embodied, or any commercial advertising or station announcement transmitted by the primary transmitter during, or immediately before or after, the transmission of such program, is in any way willfully altered by the satellite carrier through changes, deletions, or additions, or is combined with programming from any other broadcast signal.
+Willful alterations.—Notwithstanding the provisions of paragraphs (1) and (2), the secondary transmission to the public by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a non-network station or a network station is actionable as an act of infringementunder section 501, and is fully subject to the remedies provided by sections 502 through 506 and section 510, if the content of the particular program in which the performance or display is embodied, or any commercial advertising or station announcement transmitted by the primary transmitter during, or immediately before or after, the transmission of such program, is in any way willfully altered by the satellite carrier through changes, deletions, or additions, or is combined with programming from any other broadcast signal.
 
 &emsp;(6)
 
@@ -258,7 +258,7 @@ Restricted transmission of out-of-state distant network signals into certain mar
 
 &emsp;&emsp;(A)
 
-Out-of-state network affiliates.—Notwithstanding any other provision of this title, the statutory license in this subsection and subsection (b) shall not apply to any secondary transmission of the primary transmission of a network station located outside of the State of Alaska to any subscriber in that State to whom the secondary transmission of the primary transmission of a television station located in that State is made available by the satellite carrier pursuant to section 122.
+Out-of-state network affiliates.—Notwithstanding any other provision of this title, the statutory license in this subsectionand subsection (b) shall not apply to any secondary transmission of the primary transmission of a network station located outside of the State of Alaska to any subscriber in that State to whom the secondary transmission of the primary transmission of a television station located in that State is made available by the satellite carrier pursuant to section 122.
 
 &emsp;&emsp;(B)
 
@@ -320,7 +320,7 @@ Initial fee.—The appropriate fee for purposes of determining the royalty fee u
 
 &emsp;&emsp;(B)
 
-Fee set by voluntary negotiation.—On or before June 1, 2010, the Copyright Royalty Judges shall cause to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining the royalty fee to be paid by satellite carriers for the secondary transmission of the primary transmissions of network stations and non-network stations under subsection (b)(1)(B).
+Fee set by voluntary negotiation.—On or before June 1, 2010, the Copyright Royalty Judges shall cause to be published inthe Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining the royalty fee to be paid by satellite carriers for the secondary transmission of the primary transmissions of network stations and non-network stations under subsection (b)(1)(B).
 
 &emsp;&emsp;(C)
 
@@ -536,7 +536,7 @@ In general.—Upon a request made by a satellite carrier, a court that issued an
 
 &emsp;&emsp;(B)
 
-Expiration of temporary waiver.—A temporary waiver of an injunction undersubparagraph (A) shall expire after the end of the 120-day period beginning on the date such temporary waiver is issued unless extended for good cause by the court making the temporary waiver.
+Expiration of temporary waiver.—A temporary waiver of an injunction under subparagraph (A) shall expire after the end of the 120-day period beginning on the date such temporary waiver is issued unless extended for good cause by the court making the temporary waiver.
 
 &emsp;&emsp;(C)
 
@@ -546,7 +546,7 @@ Failure to provide local-into-local service to all dmas.—
 
 Failure to act reasonably and in good faith.—If the court issuing a temporary waiver under subparagraph (A) determines that the satellite carrier that made the request for such waiver has failed to act reasonably or has failed to make a good faith effort to provide local-into-local service to all DMAs, such failure—
 
-&emsp;&emsp;&emsp;&emsp;(I) is actionable as an act of infringement under section 501 and the court may in its discretion impose the remedies provided for in sections 502 through 506 and subsection (a)(6)(B) of this section; and
+&emsp;&emsp;&emsp;&emsp;(I) is actionable as an act of infringement under section 501 and the courtmay in its discretion impose the remedies provided for in sections 502 through 506 and subsection (a)(6)(B) of this section; and
 
 &emsp;&emsp;&emsp;&emsp;(II) shall result in the termination of the waiver issued under subparagraph (A).
 
@@ -636,7 +636,7 @@ Submission of report.—The special master shall file the report required by cla
 
 &emsp;&emsp;&emsp;(iv)
 
-Evidence of infringement.—The special master shall include in the report a statement of whether the examination by the special master indicated that there is substantial evidence that a copyright holder could bring a successful action under this section against the qualified carrier for infringement.
+Evidence of infringement.—The special master shall include in the report a statement of whether the examination by the special master indicated that there is substantial evidence that a copyright holder could bring a successful actionunder this section against the qualified carrier for infringement.
 
 &emsp;&emsp;&emsp;(v)
 
@@ -698,7 +698,7 @@ Local-into-local service to all dmas defined.—For purposes of this subsection:
 
 &emsp;&emsp;(A)
 
-In general.—An entity provides "local-into-local service to all DMAs" if the entity provides local service in all designated market areas (as such term is defined in section 122(j)(2)(C)) pursuant to the license under section 122.
+In general.—An entity provides "local-into-local service to all DMAs" if theentity provides local service in all designated market areas (as such term is defined in section 122(j)(2)(C)) pursuant to the license under section 122.
 
 &emsp;&emsp;(B)
 
@@ -848,7 +848,7 @@ Subsec. (c)(1)(F)(i). Pub. L. 111–175, §102(e)(1)(G)(ii)(I), (II), (IV), (g)(
 
 Subsec. (c)(1)(F)(i)(II). Pub. L. 111–175, §102(e)(1)(G)(ii)(III), substituted "Copyright Royalty Judges" for "Librarian of Congress" and struck out "arbitration" after "participate in the".
 
-Subsec. (c)(1)(F)(ii). Pub. L. 111–175, §102(e)(1)(G)(iii), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "In determining royalty fees under this subparagraph, the copyright arbitration royalty panel appointed under chapter 8, as in effect on the day before the date of the enactment of the Copyright Royalty and Distribution Act of 2004 shall establish fees for the secondary transmissions of the primary analog transmissionof network stations and superstations that most clearly represent the fair market value of secondary transmissions, except that the Librarian of Congress and any copyright arbitration royalty panel shall adjust those fees to account for the obligations of the parties under any applicable voluntary agreement filed with the Copyright Office pursuant to subparagraph (D). In determining the fair market value, the panel shall base its decision on economic, competitive, and programming information presented by the parties, including—".
+Subsec. (c)(1)(F)(ii). Pub. L. 111–175, §102(e)(1)(G)(iii), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "In determining royalty fees under this subparagraph, the copyright arbitration royalty panel appointed under chapter 8, as in effect on the day before the date of the enactment of the Copyright Royalty and Distribution Act of 2004 shall establish fees for the secondary transmissions of the primary analog transmission of network stations and superstations that most clearly represent the fair market value of secondary transmissions, except that the Librarian of Congress and any copyright arbitration royalty panel shall adjust those fees to account for the obligations of the parties under any applicable voluntary agreement filed with the Copyright Office pursuant to subparagraph (D). In determining the fair market value, the panel shall base its decision on economic, competitive, and programming information presented by the parties, including—".
 
 Subsec. (c)(1)(F)(iii). Pub. L. 111–175, §102(e)(1)(G)(iv), amended cl. (iii) generally. Prior to amendment, text read as follows: "The obligation to pay the royalty fee established under a determination which—
 
@@ -930,7 +930,7 @@ Subsec. (a)(2)(A). Pub. L. 108–447, §102(2)(A), substituted "paragraphs (5), 
 
 Subsec. (a)(2)(B)(i). Pub. L. 108–447, §102(7), inserted at end "The limitation in this clause shall not apply to secondary transmissions under paragraph (3)."
 
-Subsec. (a)(2)(C), (D). Pub. L. 108–447, §102(2)(B), added subpars. (C) and (D) and struck out heading and text of former subpar. (C). Text read as follows: "A satellite carrier that makes secondary transmissions of a primary transmission made by a network station pursuant to subparagraph (A) shall, 90 days after commencing such secondary transmissions, submit to the network that owns or is affiliated with the network station a list identifying (by name and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission. Thereafter, on the 15th of each month, the satellite carrier shall submit to the network a list identifying (by name and street address, including county and zip code) any persons who have been added or dropped as such subscribers since the last submission under this subparagraph. Such subscriber information submitted by a satellite carrier may be used only for purposes of monitoring compliance by the satellite carrier with this subsection. The submission requirements of this subparagraph shall apply to a satellite carrier only if the network to whom the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register shall maintain for public inspection a file of all such documents."
+Subsec. (a)(2)(C), (D). Pub. L. 108–447, §102(2)(B), added subpars. (C) and (D) and struck out heading and text of former subpar. (C). Text read as follows: "A satellite carrier that makes secondary transmissions of a primary transmission made by a network station pursuant to subparagraph (A) shall, 90 days after commencing such secondary transmissions, submit to the network that owns or is affiliated with the network station a list identifying (by name and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission. Thereafter, on the 15th of each month, the satellite carrier shall submit to the network a list identifying (by name and street address, including county and zip code) any persons who have been added or dropped as such subscribers since the last submission under this subparagraph. Such subscriber information submitted by a satellite carrier may be used only for purposes of monitoring compliance by thesatellite carrier with this subsection. The submission requirements of this subparagraph shall apply to a satellite carrier only if the network to whom the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register shall maintain for public inspection a file of all such documents."
 
 Subsec. (a)(3) to (6). Pub. L. 108–447, §§102(5), (6), 103(1), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
 
@@ -1146,7 +1146,7 @@ Subsec. (c)(3)(C). Pub. L. 103–198, §5(2)(C)(ii), (v), redesignated subpar. (
 
 Subsec. (c)(3)(D). Pub. L. 103–198, §5(2)(C)(vi), redesignated subpar. (H) as (D) and substituted "referred to in subparagraph (C)" for "adopted or ordered under subparagraph (F)". Former subpar. (D) redesignated (B).
 
-Subsec. (c)(3)(E) to (H). Pub. L. 103–198, §5(2)(C)(iv)–(vi)(I), struck out subpar. (E) which required the Arbitration Panel to report to the Copyright Royalty Tribunal not later than 60 days after publication of notice initiating an arbitration proceeding, struck out subpar. (F) which required action by the Tribunal within 60 days after receiving the report by the Panel, and redesignated subpars. (G) and (H) as (C) and (D), respectively.
+Subsec. (c)(3)(E) to (H). Pub. L. 103–198, §5(2)(C)(iv)–(vi)(I), struck out subpar. (E) which required the Arbitration Panel to report to the Copyright Royalty Tribunal not later than 60 days after publication of notice initiating an arbitration proceeding, struck out subpar. (F) which required action by theTribunal within 60 days after receiving the report by the Panel, and redesignated subpars. (G) and (H) as (C) and (D), respectively.
 
 Subsec. (c)(4). Pub. L. 103–198, §5(2)(D), struck out par. (4) which established procedures for judicial review of decisions of the Copyright Royalty Tribunal.
 

@@ -18,7 +18,7 @@ Subsection (d) of section 336 of the Immigration and Nationality Act, referred t
 
 #### Effective Date of 1990 Amendment; Savings Provisions
 
-Amendment by Pub. L. 101–649 effective Nov. 29, 1990, with general savings provisions, see section 408(a)(3) and (d) of Pub. L. 101–649, set out as a note under section 1421 of Title 8, Aliens and Nationality.
+Amendment by Pub. L. 101–649 effective Nov. 29, 1990, with general savings provisions, see section 408(a)(3)and (d) of Pub. L. 101–649, set out as a note under section 1421 of Title 8, Aliens and Nationality.
 
 #### Effective Date of 1981 Amendment
 

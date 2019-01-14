@@ -82,7 +82,7 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 &emsp;&emsp;&emsp;(i) any portion of the stock redeemed was acquired, directly or indirectly, within the 10-year period ending on the date of the distribution by the distributee from a person the ownership of whose stock would (at the time of distribution) be attributable to the distributee under section 318(a), or
 
-&emsp;&emsp;&emsp;(ii) any person owns (at the time of the distribution) stock the ownership of which is attributable to the distributee under section 318(a) and such person acquired any stock in the corporation, directly or indirectly, from the distributee within the 10-year period ending on the date of the distribution, unless such stock so acquired from the distributee is redeemed in the same transaction.
+&emsp;&emsp;&emsp;(ii) any person owns (at the time of the distribution) stock the ownership of which is attributable to the distributee under section 318(a) and such person acquired any stock in the corporation, directly orindirectly, from the distributee within the 10-year period ending on the date of the distribution, unless such stock so acquired from the distributee is redeemed in the same transaction.
 
 > &emsp;&emsp;The preceding sentence shall not apply if the acquisition (or, in the case of clause (ii), the disposition) by the distributee did not have as one of its principal purposes the avoidance of Federal income tax.
 
@@ -240,7 +240,7 @@ Special rule where offer subject to approval by foreign regulatory body.—In an
 
 &emsp;&emsp;&emsp;"(I) such public announcement shall be treated as a tender offer, and
 
-&emsp;&emsp;&emsp;"(II) clause (i) shall be applied by substituting for 'October 1, 1982' the date which is 90 days after the date on which such regulatory body approvesa public offer to acquire stock in such corporation.
+&emsp;&emsp;&emsp;"(II) clause (i) shall be applied by substituting for 'October 1, 1982' the date which is 90 days after the date on which such regulatory body approves a public offer to acquire stock in such corporation.
 
 &emsp;&emsp;"(iv)
 

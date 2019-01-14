@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of section 401(a)(29), a defined benefit plan which is a single-employer plan (other than a CSEC plan) shall be treated asmeeting the requirements of this section if the plan meets the requirements of subsections (b), (c), (d), and (e).
+For purposes of section 401(a)(29), a defined benefit plan which is a single-employer plan (other than a CSEC plan) shall be treated as meeting the requirements of this section if the plan meets the requirements of subsections (b), (c), (d), and (e).
 
 #### (b) Funding-based limitation on shutdown benefits and other unpredictable contingent event benefits under single-employer plans
 
@@ -60,7 +60,7 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 #### (2) Bankruptcy
 
-&emsp;A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan (determined by not taking into account any adjustment of segment rates under section 430(h)(2)(C)(iv)) is not less than 100 percent.
+&emsp;A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, the plan may notpay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan (determined by not taking into account any adjustment of segment rates under section 430(h)(2)(C)(iv)) is not less than 100 percent.
 
 #### (3) Limited payment if percentage at least 60 percent but less than 80 percent
 
@@ -148,7 +148,7 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (C), in any case in which a benefit limitation under subsection (b), (c), (d), or (e) would (but for this subparagraph and determined without regard to subsection (b)(2), (c)(2), or (e)(2)) apply to such plan for the plan year, the plan sponsorof such plan shall be treated for purposes of this title as having made an election under section 430(f) to reduce the prefunding balance or funding standard carryover balance by such amount as is necessary for such benefit limitation to not apply to the plan for such plan year.
+&emsp;&emsp;Subject to subparagraph (C), in any case in which a benefit limitation under subsection (b), (c), (d), or (e) would (but for this subparagraph and determined without regard to subsection (b)(2), (c)(2), or (e)(2)) apply to such plan for the plan year, the plan sponsor of such plan shall be treated for purposes of this title as having made an election under section 430(f) to reduce the prefunding balance or funding standard carryover balance by such amount as is necessary for such benefit limitation to not apply to the plan for such plan year.
 
 #### (B) Exception for insufficient funding balances
 
@@ -212,7 +212,7 @@ For purposes of this section—
 
 #### (k) Secretarial authority for plans with alternate valuation date
 
-In the case of a plan which has designated a valuation date other than the first day of theplan year, the Secretary may prescribe rules for the application of this section which are necessary to reflect the alternate valuation date.
+In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary may prescribe rules for the application of this section which are necessary to reflect the alternate valuation date.
 
 #### (l) Single-employer plan
 

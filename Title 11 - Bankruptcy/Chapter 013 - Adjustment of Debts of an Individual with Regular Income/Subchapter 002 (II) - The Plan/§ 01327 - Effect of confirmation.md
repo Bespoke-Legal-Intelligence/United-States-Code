@@ -4,7 +4,7 @@
 
 (b) Except as otherwise provided in the plan or the order confirming the plan, the confirmation of a plan vests all of the property of the estate in the debtor.
 
-(c) Except as otherwise provided in the plan or in the order confirming the plan, the propertyvesting in the debtor under subsection (b) of this section is free and clear of any claim or interest of any creditor provided for by the plan.
+(c) Except as otherwise provided in the plan or in the order confirming the plan, the property vesting in the debtor under subsection (b) of this section is free and clear of any claim or interest of any creditor provided for by the plan.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2650.)
 

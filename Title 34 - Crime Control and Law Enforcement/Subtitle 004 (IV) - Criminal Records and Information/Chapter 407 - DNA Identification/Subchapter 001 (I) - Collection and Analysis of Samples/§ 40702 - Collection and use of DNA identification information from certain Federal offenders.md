@@ -6,7 +6,7 @@
 
 &emsp;(A) The Attorney General may, as prescribed by the Attorney General in regulation, collect DNA samples from individuals who are arrested, facing charges, or convicted or from non-United States persons who are detained under the authority of the United States. The Attorney General may delegate this function within the Department of Justice as provided in section 510 of title 28 and may also authorize and direct any other agency of the United States that arrests or detains individuals or supervises individuals facing charges to carry out any function and exercise any power of the Attorney General under this section.
 
-&emsp;(B) The Director of the Bureau of Prisons shall collect a DNA sample from each individual in the custody of the Bureau of Prisonswho is, or has been, convicted of a qualifying Federal offense (as determined under subsection (d)) or a qualifying military offense, as determined under section 1565 of title 10.
+&emsp;(B) The Director of the Bureau of Prisons shall collect a DNA sample from each individual in the custody of the Bureau of Prisons who is, or has been, convicted of a qualifying Federal offense (as determined under subsection (d)) or a qualifying military offense, as determined under section 1565 of title 10.
 
 #### (2) From individuals on release, parole, or probation
 

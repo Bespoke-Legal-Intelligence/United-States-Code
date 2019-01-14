@@ -128,7 +128,7 @@ In this section:
 
 #### (15) Normal production on the farm
 
-&emsp;The term "normal production on the farm" means the sum of the expected revenue for all crops on the farm, as determined under subsection (b)(6)(A).
+&emsp;The term "normal production on the farm" means the sum of the expected revenue for allcrops on the farm, as determined under subsection (b)(6)(A).
 
 #### (16) Qualifying natural disaster declaration
 
@@ -140,7 +140,7 @@ In this section:
 
 #### (18) Socially disadvantaged farmer or rancher
 
-&emsp;The term "socially disadvantaged farmer or rancher" has the meaning given the term in section 2279(e) of this title.
+&emsp;The term "socially disadvantaged farmer or rancher" has the meaning given the term in section 2279(e) <sup>1</sup> of this title.
 
 #### (19) State
 
@@ -204,7 +204,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) for each insurable commodity on the farm, 115 percent of the product obtained by multiplying—
 
-&emsp;&emsp;&emsp;&emsp;(I) a payment rate for the commodity that is equal to the price election for thecommodity elected by the eligible producer;
+&emsp;&emsp;&emsp;&emsp;(I) a payment rate for the commodity that is equal to the price election for the commodity elected by the eligible producer;
 
 &emsp;&emsp;&emsp;&emsp;(II) the payment acres for the commodity that is equal to the number of acres planted, or prevented from being planted, to the commodity;
 
@@ -228,7 +228,7 @@ In this section:
 
 #### (B) Adjustment insurance guarantee
 
-&emsp;&emsp;Notwithstanding subparagraph (A), in the case of an insurable commodity for which a plan of insurance provides for an adjustment in the guarantee, such as in the case of prevented planting, the adjusted insurance guarantee shall be the basis for determining the disaster assistance program guarantee for the insurable commodity.
+&emsp;&emsp;Notwithstanding subparagraph (A), in the case of an insurable commodity for which a plan of insurance provides for an adjustment in the guarantee, such as in the case of prevented planting, the adjusted insuranceguarantee shall be the basis for determining the disaster assistance program guarantee for the insurable commodity.
 
 #### (C) Adjusted assistance level
 
@@ -242,7 +242,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the total farm revenue for a farm,<sup>1</sup> shall equal the sum obtained by adding—
+&emsp;&emsp;For purposes of this subsection, the total farm revenue for a farm,<sup>2</sup> shall equal the sum obtained by adding—
 
 &emsp;&emsp;&emsp;(i) the estimated actual value for each crop produced on a farm by using the product obtained by multiplying—
 
@@ -250,11 +250,11 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) subject to subparagraphs (B) and (C), to the extent practicable, the national average market price received for the marketing year, as determined by the Secretary;
 
-&emsp;&emsp;&emsp;(ii) 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 <sup>2</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8713, 8753\] or successor sections;
+&emsp;&emsp;&emsp;(ii) 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 <sup>1</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8713, 8753\] or successor sections;
 
-&emsp;&emsp;&emsp;(iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 <sup>2</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8714, 8754\] or successor sections or of any average crop revenue election payments made to the producer under section 1105 <sup>2</sup> of that Act \[7 U.S.C. 8715\];
+&emsp;&emsp;&emsp;(iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 <sup>1</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8714, 8754\] or successor sections or of any average crop revenue election payments made to the producer under section 1105 <sup>1</sup> of that Act \[7 U.S.C. 8715\];
 
-&emsp;&emsp;&emsp;(iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C <sup>2</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8731 et seq., 8751 et seq.\] or successor subtitles;
+&emsp;&emsp;&emsp;(iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C <sup>1</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8731 et seq., 8751 et seq.\] or successor subtitles;
 
 &emsp;&emsp;&emsp;(v) the amount of payments for prevented planting on a farm;
 
@@ -276,7 +276,7 @@ In this section:
 
 #### (C) Maximum amount for certain crops
 
-&emsp;&emsp;With respect to a crop for which an eligible producer on a farm receives assistanceunder the noninsured crop assistance program, the national average market price received during the marketing year shall be an amount not more than 100 percent of the price of the crop established under the noninsured crop assistance program.
+&emsp;&emsp;With respect to a crop for which an eligible producer on a farm receives assistance under the noninsured crop assistance program, the national average market price received during the marketing year shall be an amount not more than 100 percent of the price of the crop established under the noninsured crop assistance program.
 
 #### (5) Expected revenue
 
@@ -382,7 +382,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) is an owner, cash or share lessee, or contract grower of covered livestock that provides the pastureland or grazing land, including cash-leased pastureland or grazing land, for the livestock;
 
-&emsp;&emsp;&emsp;&emsp;(II) provides the pastureland or grazing land for covered livestock, includingcash-leased pastureland or grazing land that is physically located in a county affected by drought;
+&emsp;&emsp;&emsp;&emsp;(II) provides the pastureland or grazing land for covered livestock, including cash-leased pastureland or grazing land that is physically located in a county affected by drought;
 
 &emsp;&emsp;&emsp;&emsp;(III) certifies grazing loss; and
 
@@ -480,7 +480,7 @@ In this section:
 
 #### (I) D2
 
-&emsp;&emsp;&emsp;&emsp;An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. DroughtMonitor as having a D2 (severe drought) intensity in any area of the county for at least 8 consecutive weeks during the normal grazing period for the county, as determined by the Secretary, shall be eligible to receive assistance under this paragraph in an amount equal to 1 monthly payment using the monthly payment rate determined under subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having a D2 (severe drought) intensity in any area of the county for at least 8 consecutive weeks during the normal grazing period for the county, as determined by the Secretary, shall be eligible to receive assistance under this paragraph in an amount equal to 1 monthly payment using the monthly payment rate determined under subparagraph (B).
 
 #### (II) D3
 
@@ -548,7 +548,7 @@ In this section:
 
 #### (ii) 2008 calendar year
 
-&emsp;&emsp;&emsp;In the case of an eligible livestock producer that suffered losses on grazing land during the 2008 calendar year, the Secretary shall take special consideration to provide equitable relief in cases in which the eligible livestock producer failed to meet the requirements of subparagraph (A) due to the enactment of this subchapter after the closing date of sales periods forcrop insurance under subchapter I and the noninsured crop assistance program.
+&emsp;&emsp;&emsp;In the case of an eligible livestock producer that suffered losses on grazing land during the 2008 calendar year, the Secretary shall take special consideration to provide equitable relief in cases in which the eligible livestock producer failed to meet the requirements of subparagraph (A) due to the enactment of this subchapter after the closing date of sales periods for crop insurance under subchapter I and the noninsured crop assistance program.
 
 #### (6) No duplicative payments
 
@@ -572,7 +572,7 @@ In this section:
 
 #### (2) Use of funds
 
-&emsp;Funds made available under this subsection shall be used to reduce losses caused by feed or water shortages, disease, or other factors as determined by the Secretary.
+&emsp;Funds made available under this subsection shall be used to reduce losses caused by feed orwater shortages, disease, or other factors as determined by the Secretary.
 
 #### (3) Availability of funds
 
@@ -710,7 +710,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) pay the appropriate fee described in paragraph (4)(A) not later than 90 days after February 17, 2009; and
 
-&emsp;&emsp;&emsp;(ii)(I) in the case of each insurable commodity of the eligible producers on the farm, excluding grazing land, agree to obtain a policy or plan of insurance under subchapter I (excluding a crop insurancepilot program under that subchapter) for the next insurance year for which crop insurance is available to the eligible producers on the farm at a level of coverage equal to 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
+&emsp;&emsp;&emsp;(ii)(I) in the case of each insurable commodity of the eligible producers on the farm, excluding grazing land, agree to obtain a policy or plan of insurance under subchapter I (excluding a crop insurance pilot program under that subchapter) for the next insurance year for which crop insurance is available to the eligible producers on the farm at a level of coverage equal to 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
 
 &emsp;&emsp;&emsp;(II) in the case of each noninsurable commodity of the eligible producers on the farm, agree to file the required paperwork, and pay the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program for the next year for which a policy is available.
 
@@ -720,7 +720,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) in the case of each insurable commodity of the eligible producers on the farm, had obtained a policy or plan of insurance for the 2008 crop year at a level of coverage not to exceed 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
 
-&emsp;&emsp;&emsp;(ii) in the case of each noninsurable commodity of the eligible producers on the farm, had filed the required paperwork, and paid the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program for the 2008 crop year, except that in determining the level of coverage, the Secretary shall use 70 percent of the applicable yield.
+&emsp;&emsp;&emsp;(ii) in the case of each noninsurable commodity of the eligible producers on the farm, had filed the required paperwork, and paid the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program for the 2008 crop year, except that in determiningthe level of coverage, the Secretary shall use 70 percent of the applicable yield.
 
 #### (C) Equitable relief
 
@@ -799,6 +799,8 @@ In implementing any other program which makes disaster assistance payments (exce
 (Feb. 16, 1938, ch. 30, title V, §531, as added Pub. L. 110–234, title XII, §12033(a), May 22, 2008, 122 Stat. 1392, and Pub. L. 110–246, §4(a), title XII, §12033(a), June 18, 2008, 122 Stat. 1664, 2154; amended Pub. L. 110–398, §2(a), Oct. 13, 2008, 122 Stat. 4214; Pub. L. 111–5, div. A, title I, §102(a), Feb. 17, 2009, 123 Stat. 121; Pub. L. 111–80, title VII, §745(a), Oct. 21, 2009, 123 Stat. 2129; Pub. L. 112–240, title VII, §702(a), Jan. 2, 2013, 126 Stat. 2368; Pub. L. 113–79, title XI, §11028(c), Feb. 7, 2014, 128 Stat. 978.)
 
 #### References in Text
+
+Section 2279(e) of this title, referred to in subsec. (a)(18), was redesignated section 2279(a) of this title by section 12301(b)(3) of Pub. L. 115–334.
 
 Sections 1103 and 1303 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(ii), were repealed by Pub. L. 113–79, title I, §1101, Feb. 7, 2014, 128 Stat. 658.
 
@@ -938,9 +940,9 @@ Pub. L. 110–234, title XII, §12033(b), May 22, 2008, 122 Stat. 1405, and Pub.
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
 

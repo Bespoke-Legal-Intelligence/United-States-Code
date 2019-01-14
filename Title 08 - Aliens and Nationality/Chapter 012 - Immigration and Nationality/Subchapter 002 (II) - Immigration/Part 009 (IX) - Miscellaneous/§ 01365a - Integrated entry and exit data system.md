@@ -82,7 +82,7 @@ For purposes of this section, the term "integrated entry and exit data system" m
 
 #### (g) Use of task force recommendations
 
-The Attorney General shall continuously update and improve the integrated entry and exit data system as technology improves and using the recommendations of the task force established under section 3 of the Immigration andNaturalization Service Data Management Improvement Act of 2000.
+The Attorney General shall continuously update and improve the integrated entry and exit data system as technology improves and using the recommendations of the task force established under section 3 of the Immigration and Naturalization Service Data Management Improvement Act of 2000.
 
 #### (h) Authorization of appropriations
 

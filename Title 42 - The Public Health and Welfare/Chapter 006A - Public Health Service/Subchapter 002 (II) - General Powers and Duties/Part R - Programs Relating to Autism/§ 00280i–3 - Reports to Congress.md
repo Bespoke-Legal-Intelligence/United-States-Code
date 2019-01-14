@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 4 years after August 8, 2014, the Secretary, in coordination with the Secretary of Education and the Secretary of Defense, shall prepare and submit to the Health, Education, Labor, and Pensions Committee of the Senate and the Energy and Commerce Committee of the House of Representatives, and make publicly available, including through posting on the Internet Web site of the Department of Health and Human Services, a progress report on activities related toautism spectrum disorder and other developmental disabilities.
+&emsp;Not later than 4 years after August 8, 2014, the Secretary, in coordination with the Secretary of Education and the Secretary of Defense, shall prepare and submit to the Health, Education, Labor, and Pensions Committee of the Senate and the Energy and Commerce Committee of the House of Representatives, and make publicly available, including through posting on the Internet Web site of the Department of Health and Human Services, a progress report on activities related to autism spectrum disorder and other developmental disabilities.
 
 #### (2) Contents
 

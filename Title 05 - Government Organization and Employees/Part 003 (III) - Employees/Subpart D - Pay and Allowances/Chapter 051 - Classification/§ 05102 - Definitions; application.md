@@ -78,7 +78,7 @@
 
 &emsp;(5) members of the Metropolitan Police, the Fire Department of the District of Columbia, the United States Park Police, and the United States Secret Service Uniformed Division; members of the police force of the National Zoological Park whose pay is fixed under section 5375 of this title; and members of the police forces of the Bureau of Engraving and Printing and the United States Mint whose pay is fixed under section 5378 of this title;
 
-&emsp;(6) lighthouse keepers and civilian employees on lightships and vessels of the Coast Guard whose pay is fixed under section 432(f) and (g) of title 14;
+&emsp;(6) lighthouse keepers and civilian employees on lightships and vessels of the Coast Guard whose pay is fixed under section 432(f) and (g) <sup>1</sup> of title 14;
 
 &emsp;(7) employees in recognized trades or crafts, or other skilled mechanical crafts, or in unskilled, semiskilled, or skilled manual-labor occupations, and other employees including foremen and supervisors in positions having trade, craft, or laboring experience and knowledge as the paramount requirement, and employees in the Bureau of Engraving and Printing whose duties are to perform or to direct manual or machine operations requiring special skill or experience, or to perform or direct the counting, examining, sorting, or other verification of the product of manual or machine operations;
 
@@ -86,7 +86,7 @@
 
 &emsp;(9) employees of the Government Publishing Office whose pay is fixed under section 305 of title 44;
 
-&emsp;(10) civilian professors, instructors, and lecturers at a professional military education school (and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director) whose pay is fixed under section 1595, 4021, 7478, or 9021 of title 10; civilian professors, lecturers, and instructors at the Military Academy, the Naval Academy, and the Air Force Academy whose pay is fixed under sections 4338, 6952, and 9338, respectively, of title 10; senior professors, professors, associate and assistant professors, and instructors at the Naval Postgraduate School whose pay is fixed under section 7044 of title 10; the Provost and Academic Dean of the Naval Postgraduate School whose pay is fixed under section 7043 of title 10; civilian professors, instructors, and lecturers in the defense acquisition university structure (including the Defense Systems Management College) whose pay is fixed under section 1746(b) of title 10;
+&emsp;(10) civilian professors, instructors, and lecturers at a professional military education school (and, in the case of the George C. Marshall European Center for Security Studies, the Director and the Deputy Director) whose pay is fixed under section 1595, 7371, 8748, or 9371 of title 10; civilian professors, lecturers, and instructors at the Military Academy, the Naval Academy, and the Air Force Academy whose pay is fixed under sections 7438, 8452, and 9438, respectively, of title 10; senior professors, professors, associate and assistant professors, and instructors at the Naval Postgraduate School whose pay is fixed under section 8544 of title 10; the Provost and Academic Dean of the Naval Postgraduate School whose pay is fixed under section 8543 of title 10; civilian professors, instructors, and lecturers in the defense acquisition university structure (including the Defense Systems Management College) whose pay is fixed under section 1746(b) of title 10;
 
 &emsp;(11) aliens or noncitizens of the United States who occupy positions outside the United States;
 
@@ -112,7 +112,7 @@
 
 &emsp;(20) employees employed on a fee, contract, or piece work basis;
 
-&emsp;(21) employees who may lawfully perform their duties concurrently with their private profession, business, or other employment, and whose duties require only a portion of their time, when it is impracticable to ascertain or anticipate the proportion of time devoted to the service of the Government of the United States;
+&emsp;(21) employees who may lawfully perform their duties concurrently with their privateprofession, business, or other employment, and whose duties require only a portion of their time, when it is impracticable to ascertain or anticipate the proportion of time devoted to the service of the Government of the United States;
 
 &emsp;(22) "teachers" and "teaching positions" as defined by section 901 of title 20;
 
@@ -126,7 +126,7 @@
 
 &emsp;(27) members of the police of the Library of Congress whose pay is fixed under section 167 of title 2;
 
-&emsp;(28) civilian members of the faculty of the Air Force Institute of Technology whose pay is fixed under section 9314 of title 10;
+&emsp;(28) civilian members of the faculty of the Air Force Institute of Technology whose pay is fixed under section 9414 of title 10;
 
 &emsp;(29) administrative law judges appointed under section 3105; or
 
@@ -136,7 +136,7 @@
 
 (e) Except as may be specifically provided, this chapter does not apply for pay purposes to any employee of the government of the District of Columbia during fiscal year 2006 or any succeeding fiscal year.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII, §1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(2), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–375, div. A, title V, §557(b)(5), Oct. 28, 2004, 118 Stat. 1916; Pub. L. 109–356, title III, §303(b), Oct. 16, 2006, 120 Stat. 2040; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–282, §4(c)(1), Oct. 15, 2010, 124 Stat. 3043; Pub. L. 111–350, §5(a)(8), Jan. 4, 2011, 124 Stat. 3841; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. M, title IV, §402, Dec. 18, 2015, 129 Stat. 2921.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII, §1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(2), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–375, div. A, title V, §557(b)(5), Oct. 28, 2004, 118 Stat. 1916; Pub. L. 109–356, title III, §303(b), Oct. 16, 2006, 120 Stat. 2040; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–282, §4(c)(1), Oct. 15, 2010, 124 Stat. 3043; Pub. L. 111–350, §5(a)(8), Jan. 4, 2011, 124 Stat. 3841; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. M, title IV, §402, Dec. 18, 2015, 129 Stat. 2921; Pub. L. 115–232, div. A, title VIII, §809(c)(1), Aug. 13, 2018, 132 Stat. 1841.)
 
 Historical and Revision Notes<br>1966
 
@@ -222,7 +222,7 @@ Oct. 28, 1949, ch. 782, §204(b), 63 Stat. 957.
 
 The section is reorganized and restated for clarity.
 
-In subsection (a)(1)(i), the exception of "a Government controlled corporation" is added to preserve the application of this chapter to "corporations wholly owned by the United States". This is necessary as the defined term "Executive agency" includes the defined term "Government corporation" and the latter includes both Government owned and controlled corporations. Thus the exclusion of Government controlledcorporations, which are distinct from wholly owned corporations, operates to preserve the application of the chapter to wholly owned corporations.
+In subsection (a)(1)(i), the exception of "a Government controlled corporation" is added to preserve the application of this chapter to "corporations wholly owned by the United States". This is necessary as the defined term "Executive agency" includes the defined term "Government corporation" and the latter includes both Government owned and controlled corporations. Thus the exclusion of Government controlled corporations, which are distinct from wholly owned corporations, operates to preserve the application of the chapter to wholly owned corporations.
 
 In subsection (a)(1)(vii), the words "Panama Canal Company" are substituted for "Panama Railroad Company" on authority of the Act of Sept. 26, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038.
 
@@ -286,9 +286,15 @@ The General Schedule, referred to in subsec. (a)(5), is set out under section 53
 
 The Foreign Service Act of 1980, referred to in subsec. (c)(2), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
+Section 432 of title 14, referred to in subsec. (c)(6), was redesignated section 2531 of title 14 by Pub. L. 115–282, title I, §114(b), Dec. 4, 2018, 132 Stat. 4223, and references to section 432 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+
 Level V of the Executive Schedule, referred to in subsec. (c)(25), is set out in section 5316 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(10). Pub. L. 115–232, §809(c)(1)(A), substituted "section 1595, 7371, 8748, or 9371 of title 10" for "section 1595, 4021, 7478, or 9021 of title 10", "sections 7438, 8452, and 9438, respectively, of title 10" for "sections 4338, 6952, and 9338, respectively, of title 10", "section 8544 of title 10" for "section 7044 of title 10", and "section 8543 of title 10" for "section 7043 of title 10".
+
+Subsec. (c)(28). Pub. L. 115–232, §809(c)(1)(B), substituted "section 9414 of title 10" for "section 9314 of title 10".
 
 <b>2015</b>—Subsec. (a)(1)(vii), (viii), (x). Pub. L. 114–113 struck out "or" at end of cl. (vii), added cl. (viii), and substituted semicolon for period at end of cl. (x).
 
@@ -310,7 +316,7 @@ Subsec. (c)(10). Pub. L. 108–375, §557(b)(5)(A), substituted "Provost and Aca
 
 <b>1996</b>—Subsec. (a)(1)(vi), (vii). Pub. L. 104–201, §3548(a)(2)(A), redesignated cls. (vii) and (viii) as (vi) and (vii), respectively, and struck out former cl. (vi) which read as follows: "the Panama Canal Commission;".
 
-Subsec. (a)(1)(viii). Pub. L. 104–201, §3548(a)(2)(A)(ii), which directed redesignation of cl. (ix) as (viii) could not be executed because subsec. (a)(1) did not contain acl. (ix). See 1983 Amendment note below. Former cl. (viii) redesignated (vii).
+Subsec. (a)(1)(viii). Pub. L. 104–201, §3548(a)(2)(A)(ii), which directed redesignation of cl. (ix) as (viii) could not be executed because subsec. (a)(1) did not contain a cl. (ix). See 1983 Amendment note below. Former cl. (viii) redesignated (vii).
 
 Subsec. (a)(1)(ix), (x). Pub. L. 104–201, §3548(a)(2)(A)(ii), redesignated cls. (x) and (xi) as (ix) and (x), respectively.
 
@@ -390,13 +396,17 @@ Subsec. (c)(4). Pub. L. 91–358 expanded reference to include chief judges, sub
 
 "Government Publishing Office" substituted for "Government Printing Office" in subsecs. (a)(1)(D) and (c)(9) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–282, §5, Oct. 15, 2010, 124 Stat. 3044, provided that: "This Act \[enacting chapter 102 of this title, amending this section and sections 5541, 6304, and 6324 of this title, enacting provisions set out as notes under section 10201 of this title, and amending provisions set out as notes under section 3056A of Title 18, Crimes and Criminal Procedure\] and the amendments made by this Act shall take effect on the first day of the first pay period which begins after the date of the enactment of this Act \[Oct. 15, 2010\]."
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1996 Amendment
 
@@ -480,7 +490,7 @@ Virgin Islands Corporation established to have succession until June 30, 1969, u
 
 #### Civilian Members of Faculty of Air Force Institute of Technology on November 8, 1985
 
-Pub. L. 99–145, title V, §504(c), Nov. 8, 1985, 99 Stat. 622, provided that: "Section 9314(b)(2) of title 10, United States Code (as added by subsection (a)(1)(B)), and section 5102(c)(28) of title 5, United States Code (as added by subsection (b)), shall not apply to any person who on the date of the enactment of this Act \[Nov. 8, 1985\]—
+Pub. L. 99–145, title V, §504(c), Nov. 8, 1985, 99 Stat. 622, as amended by Pub. L. 115–232, div. A, title VIII, §809(c)(2), Aug. 13, 2018, 132 Stat. 1841, provided that: "Section 9414(b)(2) of title 10, United States Code (as added by subsection (a)(1)(B)), and section 5102(c)(28) of title 5, United States Code (as added by subsection (b)), shall not apply to any person who on the date of the enactment of this Act \[Nov. 8, 1985\]—
 
 &emsp;"(1) is a civilian member of the faculty of the United States Air Force Institute of Technology;
 
@@ -495,4 +505,6 @@ Amendments by Pub. L. 92–392 not to decrease basic pay rate of subsec. (c)(7),
 #### Reduction of Basic Pay Rate
 
 Rate of basic pay not to be reduced by reason of the enactment of Pub. L. 91–34, which amended this section, see section 3(b) of Pub. L. 91–34, set out as a note under section 5365 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

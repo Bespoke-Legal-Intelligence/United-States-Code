@@ -234,7 +234,7 @@ The Secretary shall submit to the President, for inclusion in each report requir
 
 &emsp;(6) the amount of scholarship grants provided under section 1613a of this title, in total and by health profession;
 
-&emsp;(7) the number of providers of health care that will be needed by Indian health programs,by location and profession, during the three fiscal years beginning after the date the report is filed; and
+&emsp;(7) the number of providers of health care that will be needed by Indian health programs, by location and profession, during the three fiscal years beginning after the date the report is filed; and
 
 &emsp;(8) the measures the Secretary plans to take to fill the health professional positions maintained by the Service or by tribes or tribal or Indian organizations for which recruitment or retention is difficult.
 

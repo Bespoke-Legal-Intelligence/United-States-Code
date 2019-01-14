@@ -4,7 +4,7 @@
 
 Foreign Voyages and Foreign Vessels.—This chapter applies to a vessel that—
 
-&emsp;(1)(A) is transporting more than 12 passengers described in section 2101(21)(A) of this title; or
+&emsp;(1)(A) is transporting more than 12 passengers described in section 2101(29)(A) of this title; or
 
 &emsp;(B) is of at least 500 gross tons as measured under section 14302 of this title and is a tanker, freight vessel, bulk freight vessel, high speed freight vessel, or self-propelled mobile offshore drilling unit; and
 
@@ -38,9 +38,11 @@ Exception.—Except as provided in subsection (c) of this section, this chapter 
 
 &emsp;(5) a public vessel.
 
-(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3928; amended Pub. L. 108–293, title IV, §405(a), Aug. 9, 2004, 118 Stat. 1043; Pub. L. 111–281, title VI, §610(a), Oct. 15, 2010, 124 Stat. 2969.)
+(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3928; amended Pub. L. 108–293, title IV, §405(a), Aug. 9, 2004, 118 Stat. 1043; Pub. L. 111–281, title VI, §610(a), Oct. 15, 2010, 124 Stat. 2969; Pub. L. 115–232, div. C, title XXXV, §3541(b)(8), Aug. 13, 2018, 132 Stat. 2323.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–232 substituted "section 2101(29)(A)" for "section 2101(21)(A)".
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–281, §610(a)(1), substituted "
 

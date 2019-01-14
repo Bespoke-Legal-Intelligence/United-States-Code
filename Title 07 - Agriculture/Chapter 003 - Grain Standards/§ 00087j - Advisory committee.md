@@ -14,7 +14,7 @@ The Secretary shall provide the advisory committee with necessary clerical assis
 
 #### (d) Compensation and travel expenses
 
-Members of the advisory committee shall serve without compensation, if not otherwise officers or employees of the United States, except that members shall, while away from their homes or regular places of business in the performance of services under this chapter, be allowed travel expenses, including per diem in lieuof subsistence, as authorized under section 5703 of title 5.
+Members of the advisory committee shall serve without compensation, if not otherwise officers or employees of the United States, except that members shall, while away from their homes or regular places of business in the performance of services under this chapter, be allowed travel expenses, including per diem in lieu of subsistence, as authorized under section 5703 of title 5.
 
 #### (e) Expiration of Secretary's authority
 
@@ -26,7 +26,7 @@ The authority provided to the Secretary for the establishment and maintenance of
 
 The enactment of this section, referred to in subsec. (a), means Oct. 24, 1988, the date of enactment of Pub. L. 100–518.
 
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

@@ -16,7 +16,7 @@ The President shall seek to establish in the renegotiation provided for in artic
 
 #### (1) Report in the event of inadequate progress
 
-&emsp;If, during the renegotiations of the Agreement, the President at any time determines that the renegotiations are not progressing satisfactorily and are not likely to result, within twelve months of the commencement thereof, in an expansion of the Agreement to cover purchases by the entities of the governments of developed countries which are the principal purchasers of goods and equipment in appropriate product sectors, he shall so report to the congressional committees referred to in section 2512(c)(1) of this title. Taking into account the objectives set forth in subsections (a) and (b) of this section and the factors required to be analyzed under section 2512(c) of this title, the President shall further report to such committees appropriate actions to seek reciprocity in such product sectors with such countries in the area of government procurement.
+&emsp;If, during the renegotiations of the Agreement, the President at any time determinesthat the renegotiations are not progressing satisfactorily and are not likely to result, within twelve months of the commencement thereof, in an expansion of the Agreement to cover purchases by the entities of the governments of developed countries which are the principal purchasers of goods and equipment in appropriate product sectors, he shall so report to the congressional committees referred to in section 2512(c)(1) of this title. Taking into account the objectives set forth in subsections (a) and (b) of this section and the factors required to be analyzed under section 2512(c) of this title, the President shall further report to such committees appropriate actions to seek reciprocity in such product sectors with such countries in the area of government procurement.
 
 #### (2) Legislative recommendations
 
@@ -52,7 +52,7 @@ Subsec. (e). Pub. L. 103–465, §342(b)(3), substituted "the date it enters int
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in section 3511(d)(17) of this title, enters into force with respect to the United States \[Jan. 1, 1995\], see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
+Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in section 3511(d)(17) of this title, enters into force with respect to the United States (Jan. 1, 1995), see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
 
 #### Delegation of Functions
 

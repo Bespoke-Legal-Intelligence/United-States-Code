@@ -26,7 +26,7 @@ For purposes of this section—
 
 &emsp;The term "person" means the officer or employee having control of the payment of the unemployment compensation, or the person appropriately designated for purposes of this section.
 
-(Added Pub. L. 95–600, title I, §112(b), Nov. 6, 1978, 92 Stat. 2777; amended Pub. L. 99–514, titleXV, §1501(c)(7), Oct. 22, 1986, 100 Stat. 2738; Pub. L. 104–168, title XII, §1201(a)(7), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(t)(14), Aug. 20, 1996, 110 Stat. 1888.)
+(Added Pub. L. 95–600, title I, §112(b), Nov. 6, 1978, 92 Stat. 2777; amended Pub. L. 99–514, title XV, §1501(c)(7), Oct. 22, 1986, 100 Stat. 2738; Pub. L. 104–168, title XII, §1201(a)(7), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(t)(14), Aug. 20, 1996, 110 Stat. 1888.)
 
 #### Amendments
 

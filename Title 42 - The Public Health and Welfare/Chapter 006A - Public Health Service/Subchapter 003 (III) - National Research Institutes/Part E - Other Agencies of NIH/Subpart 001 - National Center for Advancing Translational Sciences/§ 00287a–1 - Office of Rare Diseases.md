@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Center an office to be known as the Office of Rare Diseases (in this section referred to as the "Office"), which shall be headed by a Director (in this section referred to as the "Director"), appointed by the Director of the Center.
+There is established within the Center an office to be known as the Office of Rare Diseases\(in this section referred to as the "Office"), which shall be headed by a Director (in this section referred to as the "Director"), appointed by the Director of the Center.
 
 #### (b) Duties
 
@@ -64,13 +64,13 @@ Pub. L. 107–280, §2, Nov. 6, 2002, 116 Stat. 1988, provided that:
 
 Findings.—Congress makes the following findings:
 
-&emsp;"(1) Rare diseases and disorders are those which affect small patient populations, typically populations smaller than 200,000 individuals in the United States.Such diseases and conditions include Huntington's disease, amyotrophic lateral sclerosis (Lou Gehrig's disease), Tourette syndrome, Crohn's disease, cystic fibrosis, cystinosis, and Duchenne muscular dystrophy.
+&emsp;"(1) Rare diseases and disorders are those which affect small patient populations, typically populations smaller than 200,000 individuals in the United States. Such diseases and conditions include Huntington's disease, amyotrophic lateral sclerosis (Lou Gehrig's disease), Tourette syndrome, Crohn's disease, cystic fibrosis, cystinosis, and Duchenne muscular dystrophy.
 
 &emsp;"(2) For many years, the 25,000,000 Americans suffering from the over 6,000 rare diseases and disorders were denied access to effective medicines because prescription drug manufacturers could rarely make a profit from marketing drugs for such small groups of patients. The prescription drug industry did not adequately fund research into such treatments. Despite the urgent health need for these medicines, they came to be known as 'orphan drugs' because no companies would commercialize them.
 
 &emsp;"(3) During the 1970s, an organization called the National Organization for Rare Disorders (NORD) was founded to provide services and to lobby on behalf of patients with rare diseases and disorders. NORD was instrumental in pressing Congress for legislation to encourage the development of orphan drugs.
 
-&emsp;"(4) The Orphan Drug Act \[Pub. L. 97–414, see Short Title of 1983 Amendments note set out under section 301 of Title 21, Food and Drugs\] created financial incentives for the research and production of such orphan drugs. New Federal programs at the National Institutes of Health and the Food and Drug Administration encouraged clinical research and commercial product development for products that target rare diseases. An Orphan Products Board was established to promote the development of drugs and devices for rare diseases or disorders.
+&emsp;"(4) The Orphan Drug Act \[Pub. L. 97–414, see Short Title of 1983 Amendments note set out under section 301 of Title 21, Food and Drugs\] created financial incentives for the research and production of such orphan drugs. New Federal programs at the National Institutes of Health and the Food and Drug Administration encouraged clinical research and commercial product development for products that target rare diseases. An Orphan Products Board was establishedto promote the development of drugs and devices for rare diseases or disorders.
 
 &emsp;"(5) Before 1983, some 38 orphan drugs had been developed. Since the enactment of the Orphan Drug Act \[Jan. 4, 1983\], more than 220 new orphan drugs have been approved and marketed in the United States and more than 800 additional drugs are in the research pipeline.
 

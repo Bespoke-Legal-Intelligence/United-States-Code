@@ -56,7 +56,7 @@ Minimum apportionment.—Notwithstanding subparagraph (A), a State may not recei
 
 &emsp;(2)
 
-Allocation to mpo's.—Amounts apportioned to a State under paragraph (1) shall be made available, not later than 30 days after the date of apportionment, to metropolitan planning organizations in the State designated under this section under a formula that—
+Allocation to mpo's.—Amounts apportioned to a State under paragraph (1) shall bemade available, not later than 30 days after the date of apportionment, to metropolitan planning organizations in the State designated under this section under a formula that—
 
 &emsp;&emsp;(A) considers population of urbanized areas;
 

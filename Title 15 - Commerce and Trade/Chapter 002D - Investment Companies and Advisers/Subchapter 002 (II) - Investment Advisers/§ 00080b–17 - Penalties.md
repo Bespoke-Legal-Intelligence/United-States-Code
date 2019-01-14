@@ -1,6 +1,6 @@
 ### §80b–17. Penalties
 
-Any person who willfully violates any provision of this subchapter, or any rule, regulation, or order promulgated by the Commission under authority thereof, shall, upon conviction, be fined not more than $10,000, imprisoned for not more than five years, or both.
+Any person who willfully violates any provision of this subchapter, or any rule, regulation,or order promulgated by the Commission under authority thereof, shall, upon conviction, be fined not more than $10,000, imprisoned for not more than five years, or both.
 
 (Aug. 22, 1940, ch. 686, title II, §217, 54 Stat. 857; Pub. L. 86–750, §15, Sept. 13, 1960, 74 Stat. 888; Pub. L. 94–29, §27(f), June 4, 1975, 89 Stat. 163.)
 

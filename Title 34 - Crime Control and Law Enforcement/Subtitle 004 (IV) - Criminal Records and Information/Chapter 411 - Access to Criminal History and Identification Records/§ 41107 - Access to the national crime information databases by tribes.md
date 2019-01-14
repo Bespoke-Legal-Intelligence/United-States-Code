@@ -16,7 +16,7 @@ Each tribal justice official serving an Indian tribe with criminal jurisdiction 
 
 #### Codification
 
-Section was formerly classified as a note under section 534 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
+Section was formerly classified as a note under section 534 of Title 28, Judiciary and Judicial Procedure,prior to editorial reclassification and renumbering as this section.
 
 Section is comprised of subsec. (b) of section 233 of Pub. L. 111–211. Subsec. (a) of section 233 amended section 534 of Title 28, Judiciary and Judicial Procedure.
 

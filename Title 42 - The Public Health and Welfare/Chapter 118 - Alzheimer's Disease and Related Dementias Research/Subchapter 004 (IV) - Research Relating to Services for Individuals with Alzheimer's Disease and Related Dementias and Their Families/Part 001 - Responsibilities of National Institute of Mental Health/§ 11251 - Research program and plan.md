@@ -26,7 +26,7 @@ The Director of the National Institute of Mental Health shall—
 
 &emsp;&emsp;(D) the efficacy of various special care units in the United States for individuals with Alzheimer's disease, including an assessment of the costs incurred in operating such units, the evaluation of best practices for the development of appropriate standards to be used by such units, and the measurement of patient outcomes in such units;
 
-&emsp;&emsp;(E) methods to combine formal support services provided by health care professionals for individuals with Alzheimer's disease and related dementias with informalsupport services provided for such individuals by their families, friends, and neighbors, including services such as day care services, respite care services, home care services, nursing home services, and other residential services and care, and an evaluation of the services actually used for such individuals and the sources of payment for such services;
+&emsp;&emsp;(E) methods to combine formal support services provided by health care professionals for individuals with Alzheimer's disease and related dementias with informal support services provided for such individuals by their families, friends, and neighbors, including services such as day care services, respite care services, home care services, nursing home services, and other residential services and care, and an evaluation of the services actually used for such individuals and the sources of payment for such services;
 
 &emsp;&emsp;(F) methods to sustain family members who provide care for individuals with Alzheimer's disease and related dementias through interventions to reduce psychological and social problems and physical problems induced by stress; and
 
@@ -44,7 +44,7 @@ A prior section 931 of Pub. L. 99–660, which was classified to section 11231 o
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–507, §7(a)(1)(B), inserted "and specialized care" after "services".
 
-Subsec. (b). Pub. L. 102–507, §7(a)(2), designated par. (1) as entire subsec. and redesignated former par. (1)(A) as par. (1), former par. (1)(A)(i) to (vii) as par. (1)(A) to (G), respectively, former par. (1)(A)(iii)(I) to (IV) as par. (1)(C)(i) to (iv), respectively, and former par. (1)(B) as par. (2).
+Subsec. (b). Pub. L. 102–507, §7(a)(2), designated par. (1) as entire subsec. and redesignated former par. (1)(A)as par. (1), former par. (1)(A)(i) to (vii) as par. (1)(A) to (G), respectively, former par. (1)(A)(iii)(I) to (IV) as par. (1)(C)(i) to (iv), respectively, and former par. (1)(B) as par. (2).
 
 Subsec. (b)(1). Pub. L. 102–507, §7(a)(1)(C)(i), substituted "The Director of the National Institute of Mental Health shall" for "Within 6 months after November 14, 1986, the Director of the National Institute of Mental Health shall prepare and transmit to the Chairman of the Council a plan for the research to be conducted under subsection (a) of this section. The plan shall" in introductory provisions.
 

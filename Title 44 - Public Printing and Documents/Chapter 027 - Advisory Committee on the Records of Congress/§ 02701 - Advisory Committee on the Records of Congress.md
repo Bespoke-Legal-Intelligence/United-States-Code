@@ -2,7 +2,7 @@
 
 (a) There is established the Advisory Committee on the Records of Congress (hereafter in this chapter referred to as the Committee).
 
-(b) The Committee shall be subject to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.), except that the Committee shall be of permanent duration, notwithstanding anyprovision of section 14 of the Federal Advisory Committee Act.
+(b) The Committee shall be subject to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.), except that the Committee shall be of permanent duration, notwithstanding any provision of section 14 of the Federal Advisory Committee Act.
 
 (Added Pub. L. 101–509, title IV, §1(d)(1), Nov. 5, 1990, 104 Stat. 1417.)
 

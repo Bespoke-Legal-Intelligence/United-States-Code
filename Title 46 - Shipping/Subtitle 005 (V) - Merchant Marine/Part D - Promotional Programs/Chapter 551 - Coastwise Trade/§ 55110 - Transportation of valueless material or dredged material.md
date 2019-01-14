@@ -44,7 +44,7 @@ Pub. L. 100–329, §3, June 7, 1988, 102 Stat. 589, provided that: "Notwithstan
 
 #### Vessel Under Contract With Municipality for Transportation of Sewage Sludge: Applicability of Provisions
 
-Pub. L. 100–329, §4, June 7, 1988, 102 Stat. 589, provided that: "For purposes of the first paragraph of section 805(a) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1223(a)) \[now 46 U.S.C. 58101\], a vessel described in section 3(2) of this Act \[set out as a note above\] is not a vessel engaged in domestic intercoastal or coastwiseservice, but the prohibitions in the second paragraph apply to that vessel."
+Pub. L. 100–329, §4, June 7, 1988, 102 Stat. 589, provided that: "For purposes of the first paragraph of section 805(a) of the Merchant Marine Act, 1936 (46 App. U.S.C. 1223(a)) \[now 46 U.S.C. 58101\], a vessel described in section 3(2) of this Act \[set out as a note above\] is not a vessel engaged in domestic intercoastal or coastwise service, but the prohibitions in the second paragraph apply to that vessel."
 
 #### Certificate of Documentation to Vessel Transporting Valueless Material in Coastwise Trade, or Dredged Material, Whether or Not of Value; Issuance, Endorsement, Etc.
 

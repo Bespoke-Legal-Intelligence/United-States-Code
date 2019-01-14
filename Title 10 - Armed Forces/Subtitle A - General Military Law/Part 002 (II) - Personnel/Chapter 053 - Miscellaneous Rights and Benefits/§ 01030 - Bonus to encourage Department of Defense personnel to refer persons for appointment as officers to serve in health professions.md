@@ -16,7 +16,7 @@ Individuals eligible for bonus.—Subject to subsection (c), the following indiv
 
 &emsp;&emsp;(B) A member of the armed forces in a reserve component of the armed forces.
 
-&emsp;&emsp;(C) A member of the armed forces in a retired status, including a member under 60years of age who, but for age, would be eligible for retired or retainer pay.
+&emsp;&emsp;(C) A member of the armed forces in a retired status, including a member under 60 years of age who, but for age, would be eligible for retired or retainer pay.
 
 &emsp;&emsp;(D) A civilian employee of a military department or the Department of Defense.
 

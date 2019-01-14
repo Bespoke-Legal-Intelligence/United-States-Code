@@ -42,7 +42,7 @@ For the purpose of the exercise by any agency referred to in subsection (b) of i
 
 #### (d) Actions by the Commission
 
-The Commission shall prevent any person from violating this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this chapter. Any entity that violates any provision of that subtitle <sup>1</sup> is subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of that subtitle.<sup>1</sup>
+The Commission shall prevent any person from violating this chapter in the same manner,by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this chapter. Any entity that violates any provision of that subtitle <sup>1</sup> is subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of that subtitle.<sup>1</sup>
 
 #### (e) Availability of cease-and-desist orders and injunctive relief without showing of knowledge
 
@@ -134,7 +134,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (8) Limitation on State action while Federal action is pending
 
-&emsp;If the Commission, or other appropriate Federal agency under subsection (b), has instituted a civil action or an administrative action for violation of this chapter, no State attorney general, or official or agency of a State, may bring an action under this subsection during the pendency of that action against any defendant named in the complaintof the Commission or the other agency for any violation of this chapter alleged in the complaint.
+&emsp;If the Commission, or other appropriate Federal agency under subsection (b), has instituted a civil action or an administrative action for violation of this chapter, no State attorney general, or official or agency of a State, may bring an action under this subsection during the pendency of that action against any defendant named in the complaint of the Commission or the other agency for any violation of this chapter alleged in the complaint.
 
 #### (9) Requisite scienter for certain civil actions
 
@@ -208,7 +208,7 @@ The Investment Company Act of 1940, referred to in subsec. (b)(4), is title I of
 
 The Investment Advisers Act of 1940, referred to in subsec. (b)(5), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80b–20 of this title and Tables.
 
-The Packers and Stockyards Act, 1921, referred to in subsec. (b)(8), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, asamended, which is classified generally to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
+The Packers and Stockyards Act, 1921, referred to in subsec. (b)(8), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, as amended, which is classified generally to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
 The Farm Credit Act of 1971, referred to in subsec. (b)(9), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified principally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 

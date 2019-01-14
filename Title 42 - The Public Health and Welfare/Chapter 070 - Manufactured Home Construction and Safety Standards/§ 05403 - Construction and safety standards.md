@@ -34,7 +34,7 @@
 
 #### (B) Competitively procured contract
 
-&emsp;&emsp;Upon the expiration of the 4-year period beginning on the date on which all members of the consensus committee are appointed under paragraph (3), the Secretary shall, using competitive procedures (as such term is defined in section 132 of title 41), enter into a competitively awarded contract with an administering organization. The administering organization shall administer the consensus process for the development and interpretation of the Federal standards, the procedural and enforcement regulations, and regulations specifying the permissible scope and conduct of monitoring, in accordance with this chapter.
+&emsp;&emsp;Upon the expiration of the 4-year period beginning on the date on which all members of the consensus committee are appointed under paragraph (3), the Secretary shall, using competitive procedures (as such term is defined in section 132 of title 41), enter into a competitively awarded contract with an administering organization. The administering organization shall administer theconsensus process for the development and interpretation of the Federal standards, the procedural and enforcement regulations, and regulations specifying the permissible scope and conduct of monitoring, in accordance with this chapter.
 
 #### (C) Performance review
 
@@ -268,7 +268,7 @@
 
 #### (5) Authority to act and emergency
 
-&emsp;If the Secretary determines, in writing, that such action is necessary to address an issue on which the Secretary determines that the consensus committee has not made a timely recommendation following a request by the Secretary, or in order to respond to an emergency that jeopardizes the public health or safety, the Secretary may issue an order that is not developed under the procedures set forth in subsection (a) or in this subsection, if the Secretary—
+&emsp;If the Secretary determines, in writing, that such action is necessary to address an issue on which the Secretary determines that the consensus committee has not made a timely recommendation following a request by the Secretary, or in order to respond to an emergency that jeopardizes the public health or safety, the Secretary may issue an order that is notdeveloped under the procedures set forth in subsection (a) or in this subsection, if the Secretary—
 
 &emsp;&emsp;(A) provides to the consensus committee a written description and sets forth the reasons why action is necessary and all supporting documentation; and
 
@@ -322,7 +322,7 @@ The Secretary shall exclude from the coverage of this chapter any structure whic
 
 (2) The energy conservation standards established under this subsection shall be cost-effective energy conservation performance standards designed to ensure the lowest total of construction and operating costs.
 
-(3) The energy conservation standards established under this subsection shall take into consideration the design and factory construction techniques of manufactured homes and shall provide for alternative practices that result in net estimated energy consumption equal to or less than the specified standards.
+(3) The energy conservation standards established under this subsection shall take into consideration the design and factory construction techniques of manufactured homes and shallprovide for alternative practices that result in net estimated energy consumption equal to or less than the specified standards.
 
 #### (h) New performance standards for hardboard siding
 
@@ -378,5 +378,5 @@ Section effective upon the expiration of 180 days following Aug. 22, 1974, see s
 
 #### Exception to Federal Preemption for Thermal Insulation and Energy Efficiency Standards
 
-Pub. L. 102–486, title I, §104(c), Oct. 24, 1992, 106 Stat. 2792, provided that: "If the Secretary of Housing andUrban Development has not issued, within 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], final regulations pursuant to section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5403) that establish thermal insulation and energy efficiency standards for manufactured housing that take effect before January 1, 1995, then States may establish thermal insulation and energy efficiency standards for manufactured housing if such standards are at least as stringent as thermal performance standards for manufactured housing contained in the Second Public Review Draft of BSR/ASHRAE 90.2P entitled 'Energy Efficient Design of Low-Rise Residential Buildings' and all public reviews of Independent Substantive Changes to such document that have been approved on or before the date of the enactment of this Act."
+Pub. L. 102–486, title I, §104(c), Oct. 24, 1992, 106 Stat. 2792, provided that: "If the Secretary of Housing and Urban Development has not issued, within 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], final regulations pursuant to section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5403) that establish thermal insulation and energy efficiency standards for manufactured housing that take effect before January 1, 1995, then States may establish thermal insulation and energy efficiency standards for manufactured housing if such standards are at least as stringent as thermal performance standards for manufactured housing contained in the Second Public Review Draft of BSR/ASHRAE 90.2P entitled 'Energy Efficient Design of Low-Rise Residential Buildings' and all public reviewsof Independent Substantive Changes to such document that have been approved on or before the date of the enactment of this Act."
 

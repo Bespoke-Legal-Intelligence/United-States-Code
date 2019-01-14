@@ -32,7 +32,7 @@ United States policy regarding Cyprus, Greece, and Turkey shall be directed towa
 
 #### (c) Review of policy; report to Congress
 
-Because progress toward a Cyprus settlement is a high priority of United States policy in the Eastern Mediterranean, the President and theCongress shall continually review that progress and shall determine United States policy in the region accordingly. To facilitate such a review the President shall, within 60 days after the date of enactment of this section and at the end of each succeeding 60-day period, transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report on progress made toward the conclusion of a negotiated solution of the Cyprus problem. Such transmissions shall include any relevant reports prepared by the Secretary General of the United Nations for the Security Council.
+Because progress toward a Cyprus settlement is a high priority of United States policy in the Eastern Mediterranean, the President and the Congress shall continually review that progress and shall determine United States policy in the region accordingly. To facilitate such a review the President shall, within 60 days after the date of enactment of this section and at the end of each succeeding 60-day period, transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report on progress made toward the conclusion of a negotiated solution of the Cyprus problem. Such transmissions shall include any relevant reports prepared by the Secretary General of the United Nations for the Security Council.
 
 #### (d) Certification by President to Congress of assistance to Greece and Turkey
 
@@ -84,7 +84,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(1) the inability to achieve a just and lasting Cyprus settlement will continue to affect relations among the United States and its close NATO allies, Greece and Turkey, to the detriment of larger, mutually shared, security interests in the Eastern Mediterranean region;
 
-&emsp;"(2) it is of paramount importance that Cyprus, Greece, and Turkey resolve their differences through negotiations and otherwise peaceful procedures, and that the United States should support the resolution of these differences through all the diplomatic means at its disposal;
+&emsp;"(2) it is of paramount importance that Cyprus, Greece, and Turkey resolve their differences throughnegotiations and otherwise peaceful procedures, and that the United States should support the resolution of these differences through all the diplomatic means at its disposal;
 
 &emsp;"(3) it is in the national interest of the United States that the President make a significant new diplomatic demarche towards bringing this dispute to a resolution; and
 
@@ -96,7 +96,7 @@ Appointment of Special Ambassador.—The President is authorized to appoint a sp
 
 "(c)
 
-Report.—Not later than June 1, 1988, the President shall submit a report to the Congress describing in detail the activities being undertaken by the special ambassador, the progress being made toward achievement of a peaceful resolution of the Cyprus dispute, anassessment of the obstacles to achievement of such a resolution and of the future role of the United States in acheiving \[sic\] a settlement on Cyprus, and an assessment of the progress being made toward resolution of issues affecting the Aegean region.
+Report.—Not later than June 1, 1988, the President shall submit a report to the Congress describing in detail the activities being undertaken by the special ambassador, the progress being made toward achievement of a peaceful resolution of the Cyprus dispute, an assessment of the obstacles to achievement of such a resolution and of the future role of the United States in acheiving \[sic\] a settlement on Cyprus, and an assessment of the progress being made toward resolution of issues affecting the Aegean region.
 
 "(d)
 

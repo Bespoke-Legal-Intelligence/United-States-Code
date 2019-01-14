@@ -244,7 +244,7 @@ Consultation.—(1) The statement required by subsection (b)(1) shall be prepare
 
 Contracting.—The Forest Service, subject to the availability of appropriations, may carry out any (or all) of the requirements of this section using private contracts.
 
-"\[(i)\] By June 1, 2008, the Forest Service shall initiate a collaborative process with the Plaintiffs in Sierra Nevada Forest Prot. Campaign v. Rey, Case No.CIV–S–05–0205 MCE/GGH (E.D. Cal.), appeal docketed sub nom. Sierra Forest Legacy v. Rey, No. 07–16892 (9th Cir. Oct. 23, 2007) and the Quincy Library Group to determine whether modifications to the Pilot Project are appropriate for the remainder of the Pilot Project.
+"\[(i)\] By June 1, 2008, the Forest Service shall initiate a collaborative process with the Plaintiffs in Sierra Nevada Forest Prot. Campaign v. Rey, Case No. CIV–S–05–0205 MCE/GGH (E.D. Cal.), appeal docketed sub nom. Sierra Forest Legacy v. Rey, No. 07–16892 (9th Cir. Oct. 23, 2007) and the Quincy Library Group to determine whether modifications to the Pilot Project are appropriate for the remainder of the Pilot Project.
 
 "(j)
 

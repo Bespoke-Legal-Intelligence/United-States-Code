@@ -68,7 +68,7 @@ A vacancy in the Advisory Council shall be filled in the manner in which the ori
 
 (1) Except as provided in paragraph (2), a member of the Advisory Council may—
 
-&emsp;(A) be provided a stipend consistent with the daily government consultant fee for each day on which the member is engaged in the performance of services for the Advisory Council; and
+&emsp;(A) be provided a stipend consistent with the daily government consultant fee for each dayon which the member is engaged in the performance of services for the Advisory Council; and
 
 &emsp;(B) while away from home or regular place of business in the performance of services for the Advisory Council, be allowed travel expenses (including per diem in lieu of subsistence) in the same manner as a person employed intermittently in Government under sections 5701 through 5707 of title 5.
 

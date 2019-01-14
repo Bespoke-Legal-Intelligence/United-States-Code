@@ -1,6 +1,6 @@
 ### §945. Reservation in patents of right of way for ditches or canals
 
-In all patents for lands taken up after August 30, 1890, under any of the land laws of the United States or on entries or claims validated by this Act, west of the one hundredth meridian, it shall be expressed that there is reserved from thelands in said patent described a right of way thereon for ditches or canals constructed by the authority of the United States.
+In all patents for lands taken up after August 30, 1890, under any of the land laws of the United States or on entries or claims validated by this Act, west of the one hundredth meridian, it shall be expressed that there is reserved from the lands in said patent described a right of way thereon for ditches or canals constructed by the authority of the United States.
 
 (Aug. 30, 1890, ch. 837, §1, 26 Stat. 391.)
 

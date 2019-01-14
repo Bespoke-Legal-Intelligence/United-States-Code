@@ -4,7 +4,7 @@ The President is requested to issue each year a proclamation—
 
 &emsp;(1) designating September 17 through September 23 as Constitution Week; and
 
-&emsp;(2) inviting the people of the United States to observe Constitution Week, in schools, churches, and other suitable places, with appropriate ceremonies and activities.
+&emsp;(2) inviting the people of the United States to observe Constitution Week, in schools,churches, and other suitable places, with appropriate ceremonies and activities.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1256.)
 

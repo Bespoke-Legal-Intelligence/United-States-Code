@@ -1,6 +1,6 @@
 ### §2802. Military construction projects
 
-(a) The Secretary of Defense and the Secretaries of the military departments may carry out such military construction projects, land acquisitions, and defense access road projects (as described under section 210 of title 23) as are authorized by law.
+(a) The Secretary of Defense and the Secretaries of the military departments may carry outsuch military construction projects, land acquisitions, and defense access road projects (as described under section 210 of title 23) as are authorized by law.
 
 (b) Authority provided by law to carry out a military construction project includes authority for—
 
@@ -18,11 +18,9 @@
 
 \[(d) Repealed. Pub. L. 114–328, div. B, title XXVIII, §2811(b), Dec. 23, 2016, 130 Stat. 2716.\]
 
-(e)(1) If a construction project, land acquisition, or defense access road project described in paragraph (2) will be carried out pursuant to a provision of law other than a Military Construction Authorization Act, the Secretary concerned shall—
+(e)(1) If a construction project, land acquisition, or defense access road project described in paragraph (2) will be carried out pursuant to a provision of law other than a Military Construction Authorization Act, the Secretary concerned shall comply with the congressional notification requirement contained in the provision of law under which the construction project, land acquisition, or defense access road project will be carried out and submit to the congressional defense committees any materials required to be submitted to Congress or any other congressional committees pursuant to the congressional notification requirement; or
 
-&emsp;(A) comply with the congressional notification requirement contained in the provision of law under which the construction project, land acquisition, or defense access road project will be carried out; or
-
-&emsp;(B) in the absence of such a congressional notification requirement, submit to the congressional defense committees, in an electronic medium pursuant to section 480 of this title, a report describing the construction project, land acquisition, or defense access road project at least 15 days before commencing the construction project, land acquisition, or defense access road project.
+&emsp;(B)<sup>1</sup> in the absence of such a congressional notification requirement, submit to the congressional defense committees, in an electronic medium pursuant to section 480 of this title, a report describing the construction project, land acquisition, or defense access road project at least 15 days before commencing the construction project, land acquisition, or defense access road project.
 
 (2) Except as provided in paragraph (3), a construction project, land acquisition, or defense access road project subject to the notification requirement imposed by paragraph (1) is a construction project, land acquisition, or defense access road project that—
 
@@ -34,9 +32,11 @@
 
 (3) This subsection does not apply to a construction project, land acquisition, or defense access road project described in paragraph (2) whose cost is less than or equal to the threshold amount specified in section 2805(b) of this title.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 110–181, div. B, titleXXVIII, §2802(a), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, §2801(b), Oct. 14, 2008, 122 Stat. 4719; Pub. L. 113–66, div. B, title XXVIII, §2807(c), Dec. 26, 2013, 127 Stat. 1012; Pub. L. 113–291, div. B, title XXVIII, §§2801, 2803(b), Dec. 19, 2014, 128 Stat. 3695, 3697; Pub. L. 114–328, div. B, title XXVIII, §2811(b), (c), Dec. 23, 2016, 130 Stat. 2716; Pub. L. 115–91, div. A, title X, §1081(d)(15), Dec. 12, 2017, 131 Stat. 1600.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 110–181, div. B, title XXVIII, §2802(a), Jan. 28, 2008, 122 Stat. 539; Pub. L. 110–417, div. B, title XXVIII, §2801(b), Oct. 14, 2008, 122 Stat. 4719; Pub. L. 113–66, div. B, title XXVIII, §2807(c), Dec. 26, 2013, 127 Stat. 1012; Pub. L. 113–291, div. B, title XXVIII, §§2801, 2803(b), Dec. 19, 2014, 128 Stat. 3695, 3697; Pub. L. 114–328, div. B, title XXVIII, §2811(b), (c), Dec. 23, 2016, 130 Stat. 2716; Pub. L. 115–91, div. A, title X, §1081(d)(15), Dec. 12, 2017, 131 Stat. 1600; Pub. L. 115–232, div. B, title XXVIII, §2803, Aug. 13, 2018, 132 Stat. 2261.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(1). Pub. L. 115–232 substituted "Secretary concerned shall" for "Secretary concerned shall—", struck out subpar. (A) designation before "comply with the congressional notification requirement", and inserted "and submit to the congressional defense committees any materials required to be submitted to Congress or any other congressional committees pursuant to the congressional notification requirement" after "road project will be carried out".
 
 <b>2017</b>—Subsec. (d). Pub. L. 115–91, §1081(d)(15), amended Pub. L. 114–328, §2811(c). See 2016 Amendment note below.
 
@@ -61,6 +61,52 @@ Pub. L. 115–91, div. A, title X, §1081(d), Dec. 12, 2017, 131 Stat. 1599, pro
 #### Effective Date
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
+
+#### Updates and Modifications to Department of Defense Form 1391, Unified Facilities Criteria, and Military Installation Master Plans
+
+Pub. L. 115–232, div. B, title XXVIII, §2805(a), (b), Aug. 13, 2018, 132 Stat. 2262, provided that:
+
+"(a)
+
+Flood Risk Disclosure for Military Construction.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall modify Department of Defense Form 1391 to require,with respect to any proposed major or minor military construction project requiring congressional notification or approval—
+
+&emsp;&emsp;"(A) disclosure whether a proposed project will be sited within or partially within a 100-year floodplain, according to the most recent available Federal Emergency Management Agency flood hazard data; and
+
+&emsp;&emsp;"(B) if the proposed project will be sited within or partially within a 100-year floodplain, the specific risk mitigation plan.
+
+&emsp;"(2)
+
+Delineation of floodplain.—To the extent that Federal Emergency Management Agency flood hazard data are not available for a proposed major or minor military construction site, the Secretary concerned shall establish a process for delineating the 100-year floodplain using risk analysis that is consistent with the standards used to inform Federal flood risk assessments.
+
+&emsp;"(3)
+
+Reporting requirements.—For proposed projects that are to be sited within or partially within a 100-year floodplain, the Secretary concerned shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report with the following:
+
+&emsp;&emsp;"(A) An assessment of flood vulnerability for the proposed project.
+
+&emsp;&emsp;"(B) Any information concerning alternative construction sites that were considered, and an explanation of why those sites do not satisfy mission requirements.
+
+&emsp;&emsp;"(C) A description of planned flood mitigation measures.
+
+&emsp;"(4)
+
+Minimum flood mitigation requirements.—When mitigating the flood risk of a major or minor military construction project within or partially within the 100-year floodplain, the Secretary concerned shall require any mitigation plan to assume an additional—
+
+&emsp;&emsp;"(A) 2 feet above the base flood elevation for non-mission critical buildings, as determined by the Secretary; and
+
+&emsp;&emsp;"(B) 3 feet above the base flood elevation for mission-critical buildings, as determined by the Secretary.
+
+"(b)
+
+Disclosure Requirements for Department of Defense Form 1391.—Not later than 30 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall amend Department of Defense Form 1391 to require, for each requested military construction project—
+
+&emsp;"(1) disclosure whether the project was included in the prior year's future-years defense program submitted to Congress pursuant to section 221 of title 10, United States Code; and
+
+&emsp;"(2) inclusion of an energy study or life cycle analysis."
 
 #### Requirements Related to Providing World Class Military Medical Centers
 
@@ -146,11 +192,11 @@ Initial report.—Not later than 120 days after the first meeting of the panel, 
 
 &emsp;&emsp;"(B)
 
-Additional reports.—Not later than February 1, 2011, and each February 1 thereafter until termination of the panel, the panel shall submit to the Secretary of Defense a report on the findings and recommendations of the panel to address any deficiencies identified by the panel.
+Additional reports.—Not later than February 1, 2011, and each February 1 thereafter untiltermination of the panel, the panel shall submit to the Secretary of Defense a report on the findings and recommendations of the panel to address any deficiencies identified by the panel.
 
 &emsp;"(6)
 
-Assessment of recommendations.—Not later than 30 days after the date of the submission of eachreport under paragraph (5), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report including—
+Assessment of recommendations.—Not later than 30 days after the date of the submission of each report under paragraph (5), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report including—
 
 &emsp;&emsp;"(A) a copy of the panel's assessment;
 
@@ -211,4 +257,6 @@ Limitation on Expenditures.—The Secretary of Defense and the Secretaries of th
 #### Reports Relating to Military Construction for Facilities Supporting New Weapon Systems
 
 Pub. L. 102–190, div. B, title XXVIII, §2868, Dec. 5, 1991, 105 Stat. 1562, as amended by Pub. L. 108–136, div. A, title X, §1031(c)(2), Nov. 24, 2003, 117 Stat. 1604, which required the Secretary of Defense to submit to Congress a report relating to the permanent basing of a new weapon system not later than 30 days after selecting a site or sites for such permanent basing, was repealed by Pub. L. 112–81, div. A, title X, §1062(m), Dec. 31, 2011, 125 Stat. 1586.
+
+<i><sup>1</sup></i><i> So in original. There is no subpar. (A).</i>
 

@@ -4,7 +4,7 @@ For purposes of this subchapter:
 
 #### (1) Community referral services
 
-&emsp;The term "community referral services" means services provided under contract or through interagency agreements to assist families in obtaining needed information, mutual support and community resources, including respite care services, health and mental healthservices, employability development and job training, and other social services, including early developmental screening of children, through help lines or other methods.
+&emsp;The term "community referral services" means services provided under contract or through interagency agreements to assist families in obtaining needed information, mutual support and community resources, including respite care services, health and mental health services, employability development and job training, and other social services, including early developmental screening of children, through help lines or other methods.
 
 #### (2) Community-based and prevention-focused programs and activities to prevent child abuse and neglect
 
@@ -32,7 +32,7 @@ Another prior section 208 of Pub. L. 93–247 was classified to section 5116g of
 
 #### Amendments
 
-<b>2010</b>—Par. (1). Pub. L. 111–320, §139(1), (2), redesignated par. (2) as (1) and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: "The term 'children with disabilities' has the same meaning given the term 'child with a disability' in section 1401(3) or 'infant or toddler with a disability' in section 1432(5) of title 20."
+<b>2010</b>—Par. (1). Pub. L. 111–320, §139(1), (2), redesignated par. (2) as (1) and struck out former par. (1). Prior toamendment, text of par. (1) read as follows: "The term 'children with disabilities' has the same meaning given the term 'child with a disability' in section 1401(3) or 'infant or toddler with a disability' in section 1432(5) of title 20."
 
 Par. (2). Pub. L. 111–320, §139(2), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 

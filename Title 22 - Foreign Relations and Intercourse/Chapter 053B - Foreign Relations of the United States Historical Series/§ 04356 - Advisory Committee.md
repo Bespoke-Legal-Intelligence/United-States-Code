@@ -10,7 +10,7 @@
 
 (B)(i) Six members of the Advisory Committee shall be appointed from lists of individuals nominated by the American Historical Association, the Organization of American Historians, the American Political Science Association, Society of American Archivists, the American Society of International Law, and the Society for Historians of American Foreign Relations. One member shall be appointed from each list.
 
-(ii) If an organization does not submit a list of nominees under clause (i) in a timely fashion, the Secretary of State shall make an appointment from among the nominees on other lists.
+(ii) If an organization does not submit a list of nominees under clause (i) in a timely fashion,the Secretary of State shall make an appointment from among the nominees on other lists.
 
 #### (b) Terms of service for appointments
 

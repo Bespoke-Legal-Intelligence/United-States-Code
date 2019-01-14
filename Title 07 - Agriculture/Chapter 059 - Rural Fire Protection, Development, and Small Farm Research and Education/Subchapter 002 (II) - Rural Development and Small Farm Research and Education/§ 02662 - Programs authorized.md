@@ -1,6 +1,6 @@
 ### §2662. Programs authorized
 
-The Secretary of Agriculture may conduct, in cooperation and coordination with colleges and universities, the following programs to carry out the purposes and achieve the goals of this subchapter.
+The Secretary of Agriculture (referred to in this subchapter as the "Secretary") may conduct, in cooperation and coordination with colleges and universities, the following programs to carry out the purposes and achieve the goals of this subchapter.
 
 #### (a) Rural development extension programs
 
@@ -12,7 +12,7 @@ Rural development research shall consist of research, investigations, and basic 
 
 #### (c) Small farm research programs
 
-Small farm research programs shall consist of programs of research to develop new approaches for initiating and upgrading small farm operations through management techniques, agricultural production techniques, farm machinery technology, new products, new marketing techniques, and small farm finance; to develop new enterprises that can use labor, skills, or natural resources available to the small farm family; or that will help to increase the quality and availability of services and facilities needed by the small farm family.
+Small farm research programs shall consist of programs of research to develop new approaches for initiating and upgrading small farm operations through management techniques, agricultural production techniques, farm machinery technology, new products, new marketing techniques, and small farm finance; to develop new enterprises that can use labor, skills, or natural resources available to the small farm family; orthat will help to increase the quality and availability of services and facilities needed by the small farm family.
 
 #### (d) Small farm extension programs
 
@@ -28,7 +28,7 @@ Special grants programs shall consist of extension and research programs to stre
 
 #### (1) National program
 
-&emsp;The Secretary of Agriculture shall establish a national program, to be administered by the National Institute of Food and Agriculture, to provide rural citizens with training in, technical and management assistance regarding, and educational opportunities to enhance their knowledge of—
+&emsp;The Secretary shall establish a national program, to be administered by the National Institute of Food and Agriculture, to provide rural citizens with training in, technical and management assistance regarding, and educational opportunities to enhance their knowledge of—
 
 &emsp;&emsp;(A) beginning businesses through entrepreneurship;
 
@@ -154,13 +154,13 @@ Special grants programs shall consist of extension and research programs to stre
 
 &emsp;For grants under this subsection, there are authorized to be appropriated $5,000,000 for fiscal year 1991, $10,000,000 for fiscal year 1992, $15,000,000 for fiscal year 1993, and $20,000,000 for fiscal year 1994 and each subsequent fiscal year. Amounts appropriated under this subsection shall remain available until expended.
 
-(Pub. L. 92–419, title V, §502, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1323; amended Pub. L. 99–198, title XIV, §1440(a), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 100–219, §2, Dec. 29, 1987, 101 Stat. 1456; Pub. L. 101–624, title XXIII, §§2346, 2349, 2389(a)–(c)(1), 2390(b)(1), Nov. 28, 1990, 104 Stat. 4032, 4037, 4053–4055; Pub. L. 102–237, title IV, §403(a), title VII, §704, Dec. 13, 1991, 105 Stat. 1863, 1881; Pub. L. 104–127, title VII, §792(a), title VIII, §§871, 886, Apr. 4, 1996, 110 Stat. 1152, 1175, 1180; Pub. L. 110–234, title VII, §7511(c)(6), May 22, 2008, 122 Stat. 1267; Pub. L. 110–246, §4(a), title VII, §7511(c)(6), June 18, 2008, 122 Stat. 1664, 2029.)
+(Pub. L. 92–419, title V, §502, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1323; amended Pub. L. 99–198, title XIV, §1440(a), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 100–219, §2, Dec. 29, 1987, 101 Stat. 1456; Pub. L. 101–624, title XXIII, §§2346, 2349, 2389(a)–(c)(1), 2390(b)(1), Nov. 28, 1990, 104 Stat. 4032, 4037, 4053–4055; Pub. L. 102–237, title IV, §403(a), title VII, §704, Dec. 13, 1991, 105 Stat. 1863, 1881; Pub. L. 104–127, title VII, §792(a), title VIII, §§871, 886, Apr. 4, 1996, 110 Stat. 1152, 1175, 1180; Pub. L. 110–234, title VII, §7511(c)(6), May 22, 2008, 122 Stat. 1267; Pub. L. 110–246, §4(a), title VII, §7511(c)(6), June 18, 2008, 122 Stat. 1664, 2029; Pub. L. 115–334, title VI, §6101(a)(3), Dec. 20, 2018, 132 Stat. 4727.)
 
 #### References in Text
 
 Act of July 2, 1862, referred to in subsec. (i)(4), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, referred to in subsec. (i)(4), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the "Agricultural College Act of 1890" and also as the "Second Morrill Act", which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (i)(4), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the "Agricultural College Act of 1890"and also as the "Second Morrill Act", which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 #### Codification
 
@@ -171,6 +171,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 2662, Pub. L. 92–419, title V, §502, Aug. 30, 1972, 86 Stat. 671; Pub. L. 95–113, title XIV, §1440, Sept. 29, 1977, 91 Stat. 1005, related to programs authorization and cooperation and coordination with colleges and universities, prior to repeal by Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–334, §6101(a)(3)(A), inserted "(referred to in this subchapter as the 'Secretary')" after "Agriculture" in introductory provisions.
+
+Subsec. (h)(1). Pub. L. 115–334, §6101(a)(3)(B), substituted "Secretary" for "Secretary of Agriculture" in introductory provisions.
 
 <b>2008</b>—Subsec. (h)(1). Pub. L. 110–246, §7511(c)(6)(A), substituted "National Institute of Food and Agriculture" for "Extension Service" in introductory provisions.
 

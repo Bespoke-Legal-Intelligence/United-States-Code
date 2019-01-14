@@ -58,7 +58,7 @@ Oct. 15, 1966, Pub. L. 89–670, §§3(e)(3) (related to USCG), 6(b)(1), (2), 80
 
 Subsection (a) reflects the transfer of the Coast Guard to the Department of Transportation as provided by the source provisions and 14:1. The words "Except when operating as a service of the Navy" are substituted for 49:1655(b)(2) because of 14:3. The words "The Secretary of Transportation exercises . . . vested in the Secretary of the Treasury . . . immediately before April 1, 1967" are substituted for "and there are hereby transferred to and vested in the Secretary . . . of the Secretary of the Treasury" to reflect the transfer of duties and powers to the Secretary of Transportation on April 1, 1967, the effective date of the Department of Transportation Act (Pub. L. 89–670, 80 Stat. 931).
 
-In subsection (b), the first sentence is included to provide the name of the officer in charge of the Coast Guard, as reflected in 14:44. In the 2d sentence, the words "carrying out the duties and powers specified by law" are substituted for "such functions, powers, and duties as are specified in this chapter to be carried out", and the words "carry out duties and powers prescribed" are substituted for "carry out such additional functions, powers, and duties as", for consistency.
+In subsection (b), the first sentence is included to provide the name of the officer in charge of the Coast Guard, as reflected in 14:44. In the 2d sentence, the words "carrying out the duties and powers specified bylaw" are substituted for "such functions, powers, and duties as are specified in this chapter to be carried out", and the words "carry out duties and powers prescribed" are substituted for "carry out such additional functions, powers, and duties as", for consistency.
 
 #### Pub. L. 103–272
 
@@ -86,7 +86,7 @@ Legal Documents.—All orders (including delegations by the Secretary of Transpo
 
 &emsp;"(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date),
 
-> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Department, any otherauthorized official, a court of competent jurisdiction, or operation of law.
+> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Department, any other authorized official, a court of competent jurisdiction, or operation of law.
 
 "(c)
 

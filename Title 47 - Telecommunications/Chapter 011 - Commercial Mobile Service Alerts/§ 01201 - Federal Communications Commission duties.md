@@ -46,7 +46,7 @@ Within 180 days after the date on which the Commercial Mobile Service Alert Advi
 
 #### (E) Consumer choice technology
 
-&emsp;&emsp;Any commercial mobile service licensee electing to transmit emergency alerts may offer subscribers the capability of preventing the subscriber's device from receiving such alerts, or classes of such alerts, other than an alert issued by the President. Within 2 years after the Commission completes the proceeding under paragraph (1), the Commission shall examine the issue of whether a commercial mobile service provider should continue to be permitted to offer its subscribers such capability. The Commission shall submit a report with its recommendations to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+&emsp;&emsp;Any commercial mobile service licensee electing to transmit emergency alerts mayoffer subscribers the capability of preventing the subscriber's device from receiving such alerts, or classes of such alerts, other than an alert issued by the President. Within 2 years after the Commission completes the proceeding under paragraph (1), the Commission shall examine the issue of whether a commercial mobile service provider should continue to be permitted to offer its subscribers such capability. The Commission shall submit a report with its recommendations to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
 
 #### (c) Digital television transmission towers retransmission capability
 

@@ -16,7 +16,7 @@
 
 #### (3) Date for payment of installments
 
-&emsp;If an election is made under paragraph (1), the first installment shall be paid on or before the date selected by the executor which is notmore than 5 years after the date prescribed by section 6151(a) for payment of the tax, and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed by this paragraph for payment of the preceding installment.
+&emsp;If an election is made under paragraph (1), the first installment shall be paid on or before the date selected by the executor which is not more than 5 years after the date prescribed by section 6151(a) for payment of the tax, and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed by this paragraph for payment of the preceding installment.
 
 #### (b) Definitions and special rules
 
@@ -104,7 +104,7 @@
 
 #### (i) Holding company stock treated as business company stock
 
-&emsp;&emsp;&emsp;For purposes of this section, the portion of the stock of any holding company which represents direct ownership (or indirectownership through 1 or more other holding companies) by such company in a business company shall be deemed to be stock in such business company.
+&emsp;&emsp;&emsp;For purposes of this section, the portion of the stock of any holding company which represents direct ownership (or indirect ownership through 1 or more other holding companies) by such company in a business company shall be deemed to be stock in such business company.
 
 #### (ii) 5-year deferral for principal not to apply
 
@@ -440,7 +440,7 @@ Subsec. (a). Pub. L. 97–34, §422(a)(1), (e)(5)(A), substituted in par. (1) "3
 
 Subsec. (c). Pub. L. 97–34, §422(a)(2), substituted "20 percent or more" for "more than 20 percent".
 
-Subsec. (g)(1)(A). Pub. L. 97–34, §422(c)(1), redesignated cl. (i) as cl. (i)(I), substituted "any portion" for "one-third or more in value", added cl. (i)(II), substituted in cl. (ii) "the aggregate of such distributions, sales, exchanges, or other dispositions and withdrawals equals or exceeds 50 percent of the value of such interest" for "aggregate withdrawals of money and other property from the trade or business, an interest in which qualifies under subsection (a)(1), made with respect to such interest, equal or exceed one-third of the value of such trade or business" and in provision following cl. (ii) substituted "the unpaid portion" for "any unpaid portion".
+Subsec. (g)(1)(A). Pub. L. 97–34, §422(c)(1), redesignated cl. (i) as cl. (i)(I), substituted "any portion" for "one-third or more in value", added cl. (i)(II), substituted in cl. (ii) "the aggregate of such distributions, sales, exchanges, or other dispositions and withdrawals equals or exceeds 50 percent of the value of such interest" for "aggregate withdrawals of money and otherproperty from the trade or business, an interest in which qualifies under subsection (a)(1), made with respect to such interest, equal or exceed one-third of the value of such trade or business" and in provision following cl. (ii) substituted "the unpaid portion" for "any unpaid portion".
 
 Subsec. (g)(1)(D). Pub. L. 97–34, §422(c)(3), inserted provision for application of a similar rule in the case of a series of subsequent transfers of the property by reason of death so long as each transfer is to a member of the family of the transferor in such transfer.
 
@@ -508,7 +508,7 @@ Pub. L. 97–34, title IV, §422(f), Aug. 13, 1981, 95 Stat. 316, provided that:
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 303, 2011, 2204, 2621, 6161, 6324A, 6503, and 7403 of this title and repealing section 6166A ofthis title\] shall apply to the estates of decedents dying after December 31, 1981.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 303, 2011, 2204, 2621, 6161, 6324A, 6503, and 7403 of this title and repealing section 6166A of this title\] shall apply to the estates of decedents dying after December 31, 1981.
 
 "(2)
 

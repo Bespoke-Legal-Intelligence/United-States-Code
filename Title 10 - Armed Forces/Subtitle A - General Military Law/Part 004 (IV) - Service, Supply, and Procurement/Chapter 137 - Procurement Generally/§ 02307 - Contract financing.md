@@ -2,11 +2,19 @@
 
 (a)
 
-Payment Authority.—The head of any agency may—
+Payment Authority.—(1) The head of any agency may <sup>1</sup>
 
-&emsp;(1) make advance, partial, progress, or other payments under contracts for property or services made by the agency; and
+&emsp;(A) make advance, partial, progress, or other payments under contracts for property or services made by the agency; and
 
-&emsp;(2) insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.
+&emsp;(B) insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.
+
+(2)(A) For a prime contractor (as defined in section 8701 of title 41) that is a small business concern (as defined in section 3 of the Small Business Act (15 U.S.C. 632)), the Secretary of Defense shall, to the fullest extent permitted by law, establish an accelerated payment date with a goal of 15 days after receipt of a proper invoice for the amount due if a specific payment date is not established by contract.
+
+(B) For a prime contractor that subcontracts with a small business concern, the Secretary of Defense shall, to the fullest extent permitted by law, establish an accelerated payment date with a goal of 15 days after receipt of a proper invoice for the amount due if—
+
+&emsp;(i) a specific payment date is not established by contract; and
+
+&emsp;(ii) the prime contractor agrees to make payments to the subcontractor in accordance with the accelerated payment date, to the maximum extent practicable, without any further consideration from or fees charged to the subcontractor.
 
 (b)
 
@@ -64,7 +72,7 @@ Certain Navy Contracts.—(1) The Secretary of the Navy shall provide that the r
 
 (h)
 
-Vesting of Title in the United States.—If a contract paid by a method authorized under subsection (a)(1) provides for title to property to vest in the United States, the title to the property shall vest in accordance with the terms of the contract, regardless of any security interestin the property that is asserted before or after the contract is entered into.
+Vesting of Title in the United States.—If a contract paid by a method authorized under subsection (a)(1) provides for title to property to vest in the United States, the title to the property shall vest in accordance with the terms of the contract, regardless of any security interest in the property that is asserted before or after the contract is entered into.
 
 (i)
 
@@ -84,7 +92,7 @@ Action in Case of Fraud.—(1) In any case in which the remedy coordination offi
 
 &emsp;(B) transmit a recommendation to the head of such agency whether the suspension or reduction should continue.
 
-(7) The head of an agency shall prepare for each year a report containing the recommendations made by the remedy coordination official of that agency to reduce or suspend payments under paragraph (2), the actions taken on the recommendations and the reasons for such actions, and an assessment of the effects of such actions on the Federal Government. The Secretary of each military department shall transmit the annual report of such department to the Secretary of Defense. Each such report shall be available to any member of Congress upon request.
+(7) The head of an agency shall prepare for each year a report containing the recommendations made by the remedy coordination official of that agency to reduce or suspend payments under paragraph (2), the actions taken on therecommendations and the reasons for such actions, and an assessment of the effects of such actions on the Federal Government. The Secretary of each military department shall transmit the annual report of such department to the Secretary of Defense. Each such report shall be available to any member of Congress upon request.
 
 (8) This subsection applies to the agencies named in paragraphs (1), (2), (3), (4), and (6) of section 2303(a) of this title.
 
@@ -92,7 +100,17 @@ Action in Case of Fraud.—(1) In any case in which the remedy coordination offi
 
 (10) In this subsection, the term "remedy coordination official", with respect to an agency, means the person or entity in that agency who coordinates within that agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592; Pub. L. 114–328, div. A, title VIII, §831(a), Dec. 23, 2016, 130 Stat. 2282.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592; Pub. L. 114–328, div. A, title VIII, §831(a), Dec. 23, 2016, 130 Stat. 2282; Pub. L. 115–232, div. A, title VIII, §§836(c)(6), 852, Aug. 13, 2018, 132 Stat. 1866, 1884.)
+
+#### Amendment of Subsection (f)
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(c)(6), (h), Aug. 13, 2018, 132 Stat. 1866, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (f) of this section is amended as follows:</i>
+
+<i>(1) in heading, by striking "Commercial Items" and inserting "Commercial Products and Commercial Services"; and</i>
+
+<i>(2) in paragraphs (1) and (2), by striking "commercial items" and inserting "commercial products and commercial services".</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 Historical and Revision Notes<br>1956
 
@@ -132,7 +150,11 @@ Provisions similar to those in subsec. (g) of this section were contained in sec
 
 #### Amendments
 
-Subsec. (b). Pub. L. 114–328, §831(a)(3), which directed substitution of "(1) Whenever practicable, payments under subsection (a) shall be made using performance-based payments" for "Wherever practicable, payment under subsection (a) shall be made", was executed by making the substitution for "Whenever practicable, payments under subsection (a) shall be made" to reflect the probable intent of Congress.
+<b>2018</b>—Subsec. (a). Pub. L. 115–232, §852, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
+Subsec. (f). Pub. L. 115–232, §836(c)(6), substituted "Commercial Products and Commercial Services" for "Commercial Items" in heading and "commercial products and commercial services" for "commercial items" in text of pars. (1) and (2).
+
+<b>2016</b>—Subsec. (b). Pub. L. 114–328, §831(a)(3), which directed substitution of "(1) Whenever practicable, payments under subsection (a) shall be made using performance-based payments" for "Wherever practicable, payment under subsection (a) shall be made", was executed by making the substitution for "Whenever practicable, payments under subsection (a) shall be made" to reflect the probable intent of Congress.
 
 Pub. L. 114–328, §831(a)(1), which directed insertion of "
 
@@ -206,6 +228,10 @@ Subsec. (f). Pub. L. 101–510, §836(a), added subsec. (f).
 
 <b>1958</b>—Pub. L. 85–800 authorized advance or other payments under contracts for property or services by agency, authorized insertion in bid solicitations of provision limiting advance or progress payments to small business concerns, restricted payments under subsec. (a) to unpaid contract price, and reworded generally conditions for making advance payments.
 
+#### Effective Date of 2018 Amendment
+
+Amendment by section 836(c)(6) of Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
@@ -229,4 +255,6 @@ Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 Stat. 688, which required Se
 #### Obligations Entered Into Before November 16, 1973
 
 Pub. L. 93–155, title VIII, §807(e), Nov. 16, 1973, 87 Stat. 616, provided that: "The amendments made by this section \[amending this section and sections 1431, 3816, and 4532 of Title 50, War and National Defense\] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section \[Nov. 16, 1973\]."
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -26,5 +26,5 @@ There is authorized to be appropriated for carrying out the provisions of this s
 
 #### Change of Name
 
-"Government Publishing Office" substituted for "Government Printing Office" in subsec. (a)(1), (3) onauthority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+"Government Publishing Office" substituted for "Government Printing Office" in subsec. (a)(1), (3) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 

@@ -26,7 +26,7 @@ Factors To Be Considered in Imposing a Sentence.—The court shall impose a sent
 
 &emsp;&emsp;&emsp;(ii) that, except as provided in section 3742(g), are in effect on the date the defendant is sentenced; or
 
-&emsp;&emsp;(B) in the case of a violation of probation or supervised release, the applicable guidelines or policy statements issued by the Sentencing Commission pursuant to section994(a)(3) of title 28, United States Code, taking into account any amendments made to such guidelines or policy statements by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under section 994(p) of title 28);
+&emsp;&emsp;(B) in the case of a violation of probation or supervised release, the applicable guidelines or policy statements issued by the Sentencing Commission pursuant to section 994(a)(3) of title 28, United States Code, taking into account any amendments made to such guidelines or policy statements by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under section 994(p) of title 28);
 
 &emsp;(5) any pertinent policy statement—
 
@@ -80,7 +80,7 @@ Statement of Reasons for Imposing a Sentence.—The court, at the time of senten
 
 (d)
 
-Presentence Procedure for an Order of Notice.—Prior to imposing an order of notice pursuant to section 3555, the court shall give notice to the defendant and the Government that it is considering imposing such an order. Upon motion of the defendant or the Government, or on its own motion, the court shall—
+Presentence Procedure for an Order of Notice.—Prior to imposing an order of noticepursuant to section 3555, the court shall give notice to the defendant and the Government that it is considering imposing such an order. Upon motion of the defendant or the Government, or on its own motion, the court shall—
 
 &emsp;(1) permit the defendant and the Government to submit affidavits and written memoranda addressing matters relevant to the imposition of such an order;
 
@@ -96,9 +96,15 @@ Limited Authority To Impose a Sentence Below a Statutory Minimum.—Upon motion 
 
 (f)
 
-Limitation on Applicability of Statutory Minimums in Certain Cases.—Notwithstanding any other provision of law, in the case of an offense under section 401, 404, or 406 of the Controlled Substances Act (21 U.S.C. 841, 844, 846) or section 1010 or 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 960, 963), the court shall impose a sentence pursuant to guidelines promulgated by the United States Sentencing Commission under section 994 of title 28 without regard to any statutory minimum sentence, if the court finds at sentencing, after the Government has been afforded the opportunity to make a recommendation, that—
+Limitation on Applicability of Statutory Minimums in Certain Cases.—Notwithstanding any other provision of law, in the case of an offense under section 401, 404, or 406 of the Controlled Substances Act (21 U.S.C. 841, 844, 846), section 1010 or 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 960, 963), or section 70503 or 70506 of title 46, the court shall impose a sentence pursuant to guidelines promulgated by the United States Sentencing Commission under section 994 of title 28 without regard to any statutory minimum sentence, if the court finds at sentencing, after the Government has been afforded the opportunity to make a recommendation, that—
 
-&emsp;(1) the defendant does not have more than 1 criminal history point, as determined under the sentencing guidelines;
+&emsp;(1) the defendant does not have—
+
+&emsp;&emsp;(A) more than 4 criminal history points, excluding any criminal history points resulting from a 1-point offense, as determined under the sentencing guidelines;
+
+&emsp;&emsp;(B) a prior 3-point offense, as determined under the sentencing guidelines; and
+
+&emsp;&emsp;(C) a prior 2-point violent offense, as determined under the sentencing guidelines;
 
 &emsp;(2) the defendant did not use violence or credible threats of violence or possess a firearm or other dangerous weapon (or induce another participant to do so) in connection with the offense;
 
@@ -108,7 +114,13 @@ Limitation on Applicability of Statutory Minimums in Certain Cases.—Notwithsta
 
 &emsp;(5) not later than the time of the sentencing hearing, the defendant has truthfully provided to the Government all information and evidence the defendant has concerning the offense or offenses that were part of the same course of conduct or of a common scheme or plan, but the fact that the defendant has no relevant or useful other information to provide or that the Government is already aware of the information shall not preclude a determination by the court that the defendant has complied with this requirement.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1989; amended Pub. L. 99–570, title I, §1007(a), Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§8(a), 9(a), 80(a), 81(a), Nov. 10, 1986, 100 Stat. 3593, 3619; Pub. L. 100–182, §§3, 16(a), 17, Dec. 7, 1987, 101 Stat. 1266, 1269, 1270; Pub. L. 100–690, title VII, §7102, Nov. 18, 1988, 102 Stat. 4416; Pub. L. 103–322, title VIII, §80001(a), title XXVIII, §280001, Sept. 13, 1994, 108 Stat. 1985, 2095; Pub. L. 104–294, title VI, §§601(b)(5), (6), (h), Oct. 11, 1996, 110 Stat. 3499, 3500; Pub. L. 107–273, div. B, title IV, §4002(a)(8), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 108–21, title IV, §401(a), (c), (j)(5), Apr. 30, 2003, 117 Stat. 667, 669, 673; Pub. L. 111–174, §4, May 27, 2010, 124 Stat. 1216.)
+> Information disclosed by a defendant under this subsection may not be used to enhance the sentence of the defendant unless the information relates to a violent offense.
+
+(g)
+
+Definition of Violent Offense.—As used in this section, the term "violent offense" means a crime of violence, as defined in section 16, that is punishable by imprisonment.
+
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1989; amended Pub. L. 99–570, title I, §1007(a), Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§8(a), 9(a), 80(a), 81(a), Nov. 10, 1986, 100 Stat. 3593, 3619; Pub. L. 100–182, §§3, 16(a), 17, Dec. 7, 1987, 101 Stat. 1266, 1269, 1270; Pub. L. 100–690, title VII, §7102, Nov. 18, 1988, 102 Stat. 4416; Pub. L. 103–322, title VIII, §80001(a), title XXVIII, §280001, Sept. 13, 1994, 108 Stat. 1985, 2095; Pub. L. 104–294, title VI, §§601(b)(5), (6), (h), Oct. 11, 1996, 110 Stat. 3499, 3500; Pub. L. 107–273, div. B, title IV, §4002(a)(8), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 108–21, title IV, §401(a), (c), (j)(5), Apr. 30, 2003, 117 Stat. 667, 669, 673; Pub. L. 111–174, §4, May 27, 2010, 124 Stat. 1216; Pub. L. 115–391, title IV, §402(a), Dec. 21, 2018, 132 Stat. 5221.)
 
 #### References in Text
 
@@ -122,9 +134,15 @@ For information regarding constitutionality of certain provisions of this sectio
 
 #### Amendments
 
+<b>2018</b>—Subsec. (f). Pub. L. 115–391, §402(a)(1)(A), (C), in introductory provisions, substituted ", section 1010" for "or section 1010" and inserted ", or section 70503 or 70506 of title 46" after "963)", and inserted concluding provisions.
+
+Subsec. (f)(1). Pub. L. 115–391, §402(a)(1)(B), added par. (1) and struck out former par. (1) which read as follows: "the defendant does not have more than 1 criminal history point, as determined under the sentencing guidelines;".
+
+Subsec. (g). Pub. L. 115–391, §402(a)(2), added subsec. (g).
+
 <b>2010</b>—Subsec. (c)(2). Pub. L. 111–174 substituted "a statement of reasons form issued under section 994(w)(1)(B) of title 28" for "the written order of judgment and commitment".
 
-<b>2003</b>—Subsec. (a)(4)(A). Pub. L. 108–21, §401(j)(5)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines issued by the Sentencing Commission pursuant to section 994(a)(1) of title 28, United States Code, and that are in effect on the date the defendant is sentenced; or".
+<b>2003</b>—Subsec. (a)(4)(A). Pub. L. 108–21, §401(j)(5)(A), amended subpar. (A) generally. Prior to amendment,subpar. (A) read as follows: "the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines issued by the Sentencing Commission pursuant to section 994(a)(1) of title 28, United States Code, and that are in effect on the date the defendant is sentenced; or".
 
 Subsec. (a)(4)(B). Pub. L. 108–21, §401(j)(5)(B), inserted before semicolon at end ", taking into account any amendments made to such guidelines or policy statements by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under section 994(p) of title 28)".
 
@@ -168,6 +186,10 @@ Subsec. (d). Pub. L. 99–646, §80(a), struck out "or restitution" after "notic
 
 Subsec. (e). Pub. L. 99–570 added subsec. (e).
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–391, title IV, §402(b), Dec. 21, 2018, 132 Stat. 5221, provided that: "The amendments made by this section \[amending this section\] shall apply only to a conviction entered on or after the date of enactment of this Act \[Dec. 21, 2018\]."
+
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–322, title VIII, §80001(c), Sept. 13, 1994, 108 Stat. 1986, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to all sentences imposed on or after the 10th day beginning after the date of enactment of this Act \[Sept. 13, 1994\]."
@@ -198,7 +220,7 @@ Pub. L. 108–21, title IV, §401(l), Apr. 30, 2003, 117 Stat. 674, provided tha
 
 "(1)
 
-Defined term.—For purposes of this section \[amending this section, section 3742 of this title, andsection 994 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as a note under section 991 of Title 28, and enacting provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28\], the term 'report described in paragraph (3)' means a report, submitted by the Attorney General, which states in detail the policies and procedures that the Department of Justice has adopted subsequent to the enactment of this Act \[Apr. 30, 2003\]—
+Defined term.—For purposes of this section \[amending this section, section 3742 of this title, and section 994 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as a note under section 991 of Title 28, and enacting provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28\], the term 'report described in paragraph (3)' means a report, submitted by the Attorney General, which states in detail the policies and procedures that the Department of Justice has adopted subsequent to the enactment of this Act \[Apr. 30, 2003\]—
 
 &emsp;"(A) to ensure that Department of Justice attorneys oppose sentencing adjustments, including downward departures, that are not supported by the facts and the law;
 

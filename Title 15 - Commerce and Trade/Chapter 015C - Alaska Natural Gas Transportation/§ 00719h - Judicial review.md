@@ -20,7 +20,7 @@ Notwithstanding any other provision of law, the actions of Federal officers or a
 
 #### (B) Exclusive jurisdiction
 
-&emsp;&emsp;The Special Court shall have exclusive jurisdiction to determine such proceeding in accordance with the procedures hereinafter provided, and no other court of the United States, or any State, territory, or possession of the United States, or of the District of Columbia, shall have jurisdiction of any such claim in any proceeding instituted prior to or on or after October 22, 1976.
+&emsp;&emsp;The Special Court shall have exclusive jurisdiction to determine such proceeding in accordance with the procedures hereinafter provided, and no other court of the United States, or any State, territory, or possessionof the United States, or of the District of Columbia, shall have jurisdiction of any such claim in any proceeding instituted prior to or on or after October 22, 1976.
 
 #### (2) Expedited consideration
 
@@ -50,7 +50,7 @@ Subsec. (c)(3). Pub. L. 108–324, §107(d)(4), inserted heading.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620,set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
 #### Transfer of Functions
 

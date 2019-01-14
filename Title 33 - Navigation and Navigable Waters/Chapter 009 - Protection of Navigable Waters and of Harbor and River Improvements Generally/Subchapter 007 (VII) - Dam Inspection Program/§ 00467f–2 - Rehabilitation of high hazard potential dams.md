@@ -196,7 +196,7 @@ Final rule.—Not later than 180 days after the date of enactment of this Act, t
 
 #### Rehabilitation of Corps of Engineers Constructed Dams
 
-Pub. L. 114–322, title I, §1177, Dec. 16, 2016, 130 Stat. 1674, provided that:
+Pub. L. 114–322, title I, §1177, Dec. 16, 2016, 130 Stat. 1674, as amended by Pub. L. 115–270, title I, §1132, Oct. 23, 2018, 132 Stat. 3781, provided that:
 
 "(a)
 
@@ -228,9 +228,9 @@ Agreements.—Construction of a project under this section shall be initiated on
 
 "(e)
 
-Cost Limitation.—The Secretary shall not expend more than $10,000,000 for a project at any single dam under this section.
+Cost Limitation.—The Secretary shall not expend more than $40,000,000 for a project at any single dam under this section.
 
 "(f)
 
-Funding.—There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2017 through 2026."
+Funding.—There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2017 through 2026."
 

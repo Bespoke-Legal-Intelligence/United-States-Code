@@ -22,7 +22,7 @@ In any judicial proceeding in which review is sought of a determination under th
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–182, §113(c)(2), (3), in concluding provisions, substituted "or any other final Agency action" for "or issuance of the order" and inserted at end "In any petition concerning the assessment of a civil penalty pursuant to section 300g–3(g)(3)(B) of this title, the petitioner shall simultaneously send a copy of the complaint by certified mail to the Administrator and the Attorney General. The court shall set aside and remand the penalty order if the court finds that there is not substantial evidence in the record to support the finding of a violation or that the assessment of the penalty by the Administrator constitutes an abuse of discretion."
+<b>1996</b>—Subsec. (a). Pub. L. 104–182, §113(c)(2), (3), in concluding provisions, substituted "or any other final Agency action" for "or issuance of the order" and inserted at end "In any petition concerning the assessment of a civil penalty pursuant to section 300g–3(g)(3)(B) of this title, the petitioner shall simultaneously send a copy of the complaint by certified mailto the Administrator and the Attorney General. The court shall set aside and remand the penalty order if the court finds that there is not substantial evidence in the record to support the finding of a violation or that the assessment of the penalty by the Administrator constitutes an abuse of discretion."
 
 Subsec. (a)(2). Pub. L. 104–182, §113(c)(1), substituted "any other final action" for "any other action".
 

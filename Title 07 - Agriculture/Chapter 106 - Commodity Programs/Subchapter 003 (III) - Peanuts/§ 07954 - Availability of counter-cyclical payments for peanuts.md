@@ -50,7 +50,7 @@ If counter-cyclical payments are required to be paid for the 2002 crop of peanut
 
 #### (f) Payment amount for subsequent crop years
 
-If counter-cyclical payments are required to be paid for any of the 2003 through 2007 crops of peanuts, the amount of the counter-cyclical payment to be paid to the producers on a farm for that crop year shall be equal to the product of the following:
+If counter-cyclical payments are required to be paid for any of the 2003 through 2007 crops ofpeanuts, the amount of the counter-cyclical payment to be paid to the producers on a farm for that crop year shall be equal to the product of the following:
 
 &emsp;(1) The payment rate specified in subsection (d).
 

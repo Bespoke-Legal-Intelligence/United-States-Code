@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;No credit shall be allowed under section 901 for any taxes paid or accrued (or treated as paid or accrued) with respect to any dividend for which a deduction is allowed under this section.
+&emsp;No credit shall be allowed under section 901 for any taxes paid or accrued (or treated aspaid or accrued) with respect to any dividend for which a deduction is allowed under this section.
 
 #### (2) Denial of deduction
 

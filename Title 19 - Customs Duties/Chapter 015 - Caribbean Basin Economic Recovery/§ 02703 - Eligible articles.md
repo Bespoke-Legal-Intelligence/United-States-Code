@@ -8,7 +8,7 @@
 
 &emsp;(B) the sum of (i) the cost or value of the materials produced in a beneficiary country or two or more beneficiary countries, plus (ii) the direct costs of processing operations performed in a beneficiary country or countries is not less than 35 per centum of the appraised value of such article at the time it is entered.
 
-> For purposes of determining the percentage referred to in subparagraph (B), the term "beneficiary country" includes the Commonwealth of Puerto Rico, the United States Virgin Islands, and any former beneficiary country. If the cost or value of materials produced in the customs territory of the United States (other than the Commonwealth of Puerto Rico) is included with respect to an article to which this paragraph applies, an amount not to exceed 15 per centum of the appraised value of the article at the time it is entered that is attributed to such United States cost or value may be applied toward determining the percentage referred to in subparagraph (B).
+> For purposes of determining the percentage referred to in subparagraph (B), the term "beneficiary country" includes the Commonwealth ofPuerto Rico, the United States Virgin Islands, and any former beneficiary country. If the cost or value of materials produced in the customs territory of the United States (other than the Commonwealth of Puerto Rico) is included with respect to an article to which this paragraph applies, an amount not to exceed 15 per centum of the appraised value of the article at the time it is entered that is attributed to such United States cost or value may be applied toward determining the percentage referred to in subparagraph (B).
 
 (2) The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out this subsection including, but not limited to, regulations providing that, in order to be eligible for duty-free treatment under this chapter, an article must be wholly the growth, product, or manufacture of a beneficiary country, or must be a new or different article of commerce which has been grown, produced, or manufactured in the beneficiary country; but no article or material of a beneficiary country shall be eligible for such treatment by virtue of having merely undergone—
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(aa) the President determines that such fabrics or yarn cannot be supplied by the domestic industry in commercial quantities in a timely manner;
 
-&emsp;&emsp;&emsp;&emsp;(bb) the President has obtained advice regarding the proposed action from theappropriate advisory committee established under section 135 of the Trade Act of 1974 (19 U.S.C. 2155) and the United States International Trade Commission;
+&emsp;&emsp;&emsp;&emsp;(bb) the President has obtained advice regarding the proposed action from the appropriate advisory committee established under section 135 of the Trade Act of 1974 (19 U.S.C. 2155) and the United States International Trade Commission;
 
 &emsp;&emsp;&emsp;&emsp;(cc) within 60 days after the request, the President has submitted a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth the action proposed to be proclaimed and the reasons for such actions, and the advice obtained under division (bb);
 
@@ -200,7 +200,7 @@
 
 #### (ii) Penalties for countries
 
-&emsp;&emsp;&emsp;Whenever the President finds, based on sufficient evidence, that transshipment has occurred, the President shall request that the CBTPA beneficiary country or countries through whose territory the transshipment has occurred take all necessary and appropriate actions to prevent such transshipment. If the President determines that a country is not taking such actions, the President shall reduce the quantities of textile and apparel articles that may be imported into the United States from such country by the quantity of the transshipped articles multiplied by 3, to the extent consistent with the obligations of the United States under the WTO.
+&emsp;&emsp;&emsp;Whenever the President finds, based on sufficient evidence, that transshipment has occurred, the President shall request that the CBTPA beneficiary country or countries through whose territory the transshipment has occurred take all necessary and appropriate actions to prevent such transshipment. If the President determines that a country is not taking such actions, the President shall reduce the quantities of textile and apparel articles that may be imported into the United States from such country by the quantity of the transshipped articles multiplied by3, to the extent consistent with the obligations of the United States under the WTO.
 
 #### (iii) Transshipment described
 
@@ -232,7 +232,7 @@
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Clause (i) does not apply to any article accorded duty-free treatment under U.S.Note 2(b) to subchapter II of chapter 98 of the HTS.
+&emsp;&emsp;&emsp;Clause (i) does not apply to any article accorded duty-free treatment under U.S. Note 2(b) to subchapter II of chapter 98 of the HTS.
 
 #### (iii) Certain footwear
 
@@ -272,7 +272,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) from which the article is exported; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in which materials used in the production of the article originate or in which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (2) or (3).
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in which materials used in the production of the article originate orin which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (2) or (3).
 
 #### (B) Certificate of origin
 
@@ -346,7 +346,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) no country other than the United States and a CBTPA beneficiary country may be treated as being a party to the NAFTA;
 
-&emsp;&emsp;&emsp;&emsp;(II) any reference to trade between the United States and Mexico shall be deemed to refer to trade between the United States and a CBTPA beneficiary country;
+&emsp;&emsp;&emsp;&emsp;(II) any reference to trade between the United States and Mexico shall bedeemed to refer to trade between the United States and a CBTPA beneficiary country;
 
 &emsp;&emsp;&emsp;&emsp;(III) any reference to a party shall be deemed to refer to a CBTPA beneficiary country or the United States; and
 
@@ -418,7 +418,7 @@
 
 &emsp;(B) on the basis of his evaluation, the President determines that the Plan of a beneficiary country does not meet the criteria set forth in paragraph (1)(B); or
 
-&emsp;(C) as a result of the monitoring of the operation of the Plan under paragraph (5), the President determines that a beneficiary country is not making a good faith effort to implement its Plan, or that the measures and proposals in the Plan, although being implemented, are not achieving their purposes.
+&emsp;(C) as a result of the monitoring of the operation of the Plan under paragraph (5), thePresident determines that a beneficiary country is not making a good faith effort to implement its Plan, or that the measures and proposals in the Plan, although being implemented, are not achieving their purposes.
 
 (3) Before the President suspends duty-free treatment by reason of paragraph (2)(A), (B), or (C) to the sugar and beef products of a beneficiary country, he must offer to enter into consultation with the beneficiary country for purposes of formulating appropriate remedial action which may be taken by that country to avoid such suspension. If the beneficiary country thereafter enters into consultation within a reasonable time and undertakes to formulate remedial action in good faith, the President shall withhold the suspension of duty-free treatment on the condition that the remedial action agreed upon be appropriately implemented by that country.
 
@@ -442,7 +442,7 @@ No quantity of an agricultural product subject to a tariff-rate quota that excee
 
 (3) For purposes of subsections <sup>1</sup> section 203 of the Trade Act of 1974 \[19 U.S.C. 2253(a), (c)\], the suspension of the duty-free treatment provided by this chapter shall be treated as an increase in duty.
 
-(4) No proclamation which provides solely for a suspension referred to in paragraph (3) of this subsection with respect to any article shall betaken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] unless the United States International Trade Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under such section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the duty-free treatment provided by this chapter.
+(4) No proclamation which provides solely for a suspension referred to in paragraph (3) of this subsection with respect to any article shall be taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] unless the United States International Trade Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under such section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the duty-free treatment provided by this chapter.
 
 (5)(A) Any action taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effect when duty-free treatment pursuant to section 2701 <sup>2</sup> of this title is proclaimed shall remain in effect until modified or terminated.
 
@@ -522,7 +522,7 @@ The United States-Caribbean Basin Trade Partnership Act, referred to in subsec. 
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (c)(1)(A), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
-Section 2701 of this title, referred to in subsec. (e)(5)(A), was in the original "section 101 of this title" which has been translated as the probable intent of Congress as meaning section 211 of this title.
+Section 2701 of this title, referred to in subsec. (e)(5)(A), was in the original "section 101 of this title"which has been translated as the probable intent of Congress as meaning section 211 of this title.
 
 #### Codification
 
@@ -568,7 +568,7 @@ Subsec. (b)(3)(A)(i). Pub. L. 108–429, §1558(2)(A), substituted "Subject to c
 
 Subsec. (b)(3)(A)(iii). Pub. L. 108–429, §1558(2)(B), added cl. (iii).
 
-<b>2002</b>—Subsec. (b)(2)(A)(i). Pub. L. 107–210, §3107(a)(1)(B), as amended by Pub. L. 108–429, §2004(b)(2),substituted "Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States." for "Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States." See Codification note above.
+<b>2002</b>—Subsec. (b)(2)(A)(i). Pub. L. 107–210, §3107(a)(1)(B), as amended by Pub. L. 108–429, §2004(b)(2), substituted "Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States." for "Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States." See Codification note above.
 
 Pub. L. 107–210, §3107(a)(1)(A), added introductory provisions and struck out former introductory provisions which read as follows: "Apparel articles assembled in one or more CBTPA beneficiary countries from fabrics wholly formed and cut in the United States, from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed and cut in the United States) that are—".
 
@@ -662,7 +662,7 @@ Subsec. (f)(5)(A). Pub. L. 100–418, §1214(q)(2)(D)(i), amended subpar. (A) ge
 
 Subsec. (f)(5)(B). Pub. L. 100–418, §1214(q)(2)(D)(ii), substituted "headings 0701 through 0709 (except subheading 0709.52.00) and heading 0714 of the HTS" for "items 135.10 through 138.46 of the TSUS".
 
-Subsec. (f)(5)(C). Pub. L. 100–418, §1214(q)(2)(D)(iv), as amended by Pub. L. 100–647, §9001(a)(14), redesignated subpar. (D) as (C) and substituted "subheadings 0804.20 through 0810.90 (except citrons of subheading 0805.90.00, tamarinds and kiwi fruit of subheading 0810.90.20, and cashew apples, mameyes colorados, sapodillas, soursops and sweetsops of subheading 0810.90.40) of the HTS; and" for "items 146.10, 146.20, 146.30, 146.50 through 146.62, 146.90, 146.91, 147.03 through 147.33, 147.50 through 149.21 and 149.50 of the TSUS;".
+Subsec. (f)(5)(C). Pub. L. 100–418, §1214(q)(2)(D)(iv), as amended by Pub. L. 100–647, §9001(a)(14), redesignated subpar. (D) as (C) and substituted "subheadings 0804.20 through 0810.90 (except citrons of subheading 0805.90.00, tamarinds and kiwi fruit of subheading 0810.90.20, and cashew apples, mameyes colorados, sapodillas, soursops and sweetsops of subheading 0810.90.40) of the HTS; and" for "items 146.10, 146.20, 146.30, 146.50 through146.62, 146.90, 146.91, 147.03 through 147.33, 147.50 through 149.21 and 149.50 of the TSUS;".
 
 Pub. L. 100–418, §1214(q)(2)(D)(iii), struck out subpar. (C) "fresh mushrooms provided for in item 144.10 of the TSUS;".
 
@@ -712,7 +712,7 @@ Pub. L. 107–206, title III, §3001(c), Aug. 2, 2002, 116 Stat. 910, provided t
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of this title.
+Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -928,7 +928,7 @@ Sec. 2. <i>Handloomed, Handmade, and Folklore Articles and Ethnic Printed Fabric
 
 Sec. 3. <i>Certain Interlinings</i>. The Committee is authorized to exercise the authority vested in the President under section 112(d)(1)(B)(iii) of the AGOA (19 U.S.C. 3721(d)(1)(B)(iii)) to determine whether U.S. manufacturers are producing interlinings in the United States in commercial quantities. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
 
-Sec. 4. <i>Penalties for Transshipments</i>. The Committee, after consultation with the Commissioner, is authorized to exercise the authority vested in the President under section 113(b)(3) of the AGOA (19 U.S.C. 3722(b)(3)) to determine, based on sufficient evidence, whether an exporter has engaged in transshipment and to deny for a period of 5 years all benefits under section 112 of the AGOA (19 U.S.C. 3721) to any such exporter, any successor of such exporter, and any other entity owned or operated by the principal of such exporter. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take suchactions to carry out any such determination as directed by the Committee.
+Sec. 4. <i>Penalties for Transshipments</i>. The Committee, after consultation with the Commissioner, is authorized to exercise the authority vested in the President under section 113(b)(3) of the AGOA (19 U.S.C. 3722(b)(3)) to determine, based on sufficient evidence, whether an exporter has engaged in transshipment and to deny for a period of 5 years all benefits under section 112 of the AGOA (19 U.S.C. 3721) to any such exporter, any successor of such exporter, and any other entity owned or operated by the principal of such exporter. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
 
 Sec. 5. <i>Effective Visa Systems</i>. Pursuant to sections 112(a) and 113(a)(1) of the AGOA (19 U.S.C. 3721(a) and 3722(a)(1)), the USTR is authorized to direct the Commissioner to take such actions as may be necessary to ensure that textile and apparel articles described in section 112(b) of the AGOA (19 U.S.C. 3721(b)) that are entered, or withdrawn from warehouse, for consumption are accompanied by an appropriate export visa, if the preferential treatment described in section 112(a) of the AGOA is claimed with respect to such articles.
 
@@ -940,7 +940,7 @@ Sec. 7. <i>Certain Interlinings</i>. The Committee is authorized to exercise the
 
 Sec. 8. <i>Handloomed, Handmade, and Folklore Articles</i>. The Committee, after consultation with the Commissioner, is authorized to exercise the authority vested in the President under section 213(b)(2)(C) of the CBERA (19 U.S.C. 2703(b)(2)(C)), as added by section 211(a) of the CBTPA, to consult with representatives of CBTPA beneficiary countries for the purpose of identifying particular textile and apparel goods that are mutually agreed upon as being handloomed, hand made, or folklore goods within the meaning of that section. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
 
-Sec. 9. <i>Penalties for Transshipments</i>. The Committee, after consultation with the Commissioner, is authorized to exercise the authority vested in the President under section 213(b)(2)(D) of the CBERA (19 U.S.C. 2703(b)(2)(D)), as added by section 211(a) of the CBTPA, to determine, based on sufficient evidence, whether an exporter has engaged in transshipment and, if transshipment has occurred, to deny all benefits under the CBTPA to any such exporter, and any successor of such exporter, for a period of 2 years; to request that any CBTPA beneficiary country through whose territory transshipment has occurred take all necessary and appropriate actions to prevent such transshipment; and to impose the penalty provided in section 213(b)(2)(D)(ii) of the CBERA on a CBTPA beneficiary country if the Committee determines that such country is not taking such actions. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
+Sec. 9. <i>Penalties for Transshipments</i>. The Committee, after consultation with the Commissioner, is authorized to exercise the authority vested in the President under section 213(b)(2)(D) of the CBERA (19 U.S.C. 2703(b)(2)(D)), as added by section 211(a) of the CBTPA, to determine, based on sufficient evidence, whether an exporter has engaged in transshipment and, if transshipment has occurred, to deny all benefits under the CBTPA to any such exporter, and any successor of such exporter, for a period of 2 years; to request that any CBTPA beneficiary country through whose territory transshipment has occurred take all necessary and appropriate actions to prevent such transshipment; and to impose the penalty provided in section 213(b)(2)(D)(ii) of the CBERA on a CBTPA beneficiary country if the Committee determines that such country is not taking such actions. The determination ordeterminations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
 
 Sec. 10. <i>Bilateral Emergency Tariff Actions</i>. The Committee is authorized to exercise the authority vested in the President under section 213(b)(2)(E) of the CBERA (19 U.S.C. 2703(b)(2)(E)), as added by section 211(a) of the CBTPA, to take bilateral emergency tariff actions, if the Committee determines that the conditions provided in section 213(b)(2)(E) of the CBERA are satisfied. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such bilateral emergency tariff action as directed by the Committee.
 

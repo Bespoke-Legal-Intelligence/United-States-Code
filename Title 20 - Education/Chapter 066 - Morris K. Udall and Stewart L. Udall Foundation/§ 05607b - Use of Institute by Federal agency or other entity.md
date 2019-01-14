@@ -70,7 +70,7 @@ A Federal agency may use the Foundation and the Institute to provide assessment,
 
 (2)
 
-Payment into the environmental dispute resolution fund.—Entities utilizing servicespursuant to this subsection shall reimburse the Institute for the costs of services provided. Such amounts shall be deposited into the Environmental Dispute Resolution Fund established under section 5607a of this title.
+Payment into the environmental dispute resolution fund.—Entities utilizing services pursuant to this subsection shall reimburse the Institute for the costs of services provided. Such amounts shall be deposited into the Environmental Dispute Resolution Fund established under section 5607a of this title.
 
 #### (f) Agency management or control
 

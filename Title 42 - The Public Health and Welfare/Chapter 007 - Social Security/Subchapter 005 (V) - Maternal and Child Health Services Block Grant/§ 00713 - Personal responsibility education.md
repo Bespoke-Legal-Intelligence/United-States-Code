@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2017, the Secretary shall allot to each State an amount equal to the product of—
+&emsp;&emsp;For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2019, the Secretary shall allot to each State an amount equal to the product of—
 
 &emsp;&emsp;&emsp;(i) the amount appropriated under subsection (f) for the fiscal year and available for allotments to States after the application of subsection (c); and
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;The State application shall contain an assurance that the State has complied with the requirements of this section in preparing and submitting the application and shall include the following as well as such additional information as the Secretary may require:
 
-&emsp;&emsp;&emsp;&emsp;(I) Based on data from the Centers for Disease Control and Prevention National Center for Health Statistics, the most recent pregnancy rates for the State foryouth ages 10 to 14 and youth ages 15 to 19 for which data are available, the most recent birth rates for such youth populations in the State for which data are available, and trends in those rates for the most recently preceding 5-year period for which such data are available.
+&emsp;&emsp;&emsp;&emsp;(I) Based on data from the Centers for Disease Control and Prevention National Center for Health Statistics, the most recent pregnancy rates for the State for youth ages 10 to 14 and youth ages 15 to 19 for which data are available, the most recent birth rates for such youth populations in the State for which data are available, and trends in those rates for the most recently preceding 5-year period for which such data are available.
 
 &emsp;&emsp;&emsp;&emsp;(II) State-established goals for reducing the pregnancy rates and birth rates for such youth populations.
 
@@ -60,13 +60,13 @@
 
 #### (A) Grants from unexpended allotments
 
-&emsp;&emsp;If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2017 and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2017. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
+&emsp;&emsp;If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2019 and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2019. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
 
-#### (B) 3-year grants
+#### (B) Competitive prep grants
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall solicit applications to award 3-year grants in each of fiscal years 2012 through 2017 to local organizations and entities to conduct, consistent with subsection (b), programs and activities in States that do not submit an application for an allotment under this section for fiscal year 2010 or 2011.
+&emsp;&emsp;&emsp;The Secretary shall continue through fiscal year 2019 grants awarded for any of fiscal years 2015 through 2017 to local organizations and entities to conduct, consistent with subsection (b), programs and activities in States that do not submit an application for an allotment under this section for fiscal year 2010 or 2011.
 
 #### (ii) Faith-based organizations or consortia
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;The requirements of this subparagraph are the following:
 
-&emsp;&emsp;&emsp;(i) The program replicates evidence-based effective programs or substantially incorporates elements of effective programs that have been proven on the basis of rigorous scientific research to changebehavior, which means delaying sexual activity, increasing condom or contraceptive use for sexually active youth, or reducing pregnancy among youth.
+&emsp;&emsp;&emsp;(i) The program replicates evidence-based effective programs or substantially incorporates elements of effective programs that have been proven on the basis of rigorous scientific research to change behavior, which means delaying sexual activity, increasing condom or contraceptive use for sexually active youth, or reducing pregnancy among youth.
 
 &emsp;&emsp;&emsp;(ii) The program is medically-accurate and complete.
 
@@ -136,7 +136,7 @@
 
 #### (1) Grants to implement innovative strategies
 
-&emsp;From the amount appropriated under subsection (f) for the fiscal year, the Secretary shall reserve $10,000,000 of such amount for purposes of awarding grants to entities to implement innovative youth pregnancy prevention strategies and target services to high-risk, vulnerable, and culturally under-represented youth populations, including youth in foster care, homeless youth, youth with HIV/AIDS, pregnant women who are under 21 years of age and their partners, mothers who are under 21 years of age and their partners, and youth residing in areas with high birth rates for youth. An entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation of the activities carried out with grant funds.
+&emsp;From the amount appropriated under subsection (f) for the fiscal year, the Secretary shall reserve $10,000,000 of such amount for purposes of awarding grants to entities to implement innovative youth pregnancy prevention strategies and target services to high-risk, vulnerable, and culturally under-represented youth populations, including youth in foster care, homeless youth, youth with HIV/AIDS, victims of human trafficking, pregnant women who are under 21 years of age and their partners, mothers who are under 21 years of age and their partners, and youth residing in areas with high birth rates for youth. An entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation of the activities carried out with grant funds.
 
 #### (2) Other reservations
 
@@ -214,9 +214,9 @@ In this section:
 
 #### (f) Appropriation
 
-For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2017. Amounts appropriated under this subsection shall remain available until expended.
+For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2019. Amounts appropriated under this subsection shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title V, §513, as added and amended Pub. L. 111–148, title II, §2953, title X, §10201(h), Mar. 23, 2010, 124 Stat. 347, 922; Pub. L. 113–93, title II, §206, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §215, Apr. 16, 2015, 129 Stat. 153.)
+(Aug. 14, 1935, ch. 531, title V, §513, as added and amended Pub. L. 111–148, title II, §2953, title X, §10201(h), Mar. 23, 2010, 124 Stat. 347, 922; Pub. L. 113–93, title II, §206, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §215, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title V, §50503(a), Feb. 9, 2018, 132 Stat. 227.)
 
 #### Prior Provisions
 
@@ -227,6 +227,18 @@ Another prior section 713, acts Aug. 14, 1935, ch. 531, title V, §513, 49 Stat.
 Provisions similar to those comprising former section 713 were contained in section 541 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 634 (formerly classified to section 731 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–123, §50503(a)(1), substituted "2019" for "2017" in introductory provisions.
+
+Subsec. (a)(4)(A). Pub. L. 115–123, §50503(a)(2)(A), substituted "2019" for "2017" in two places.
+
+Subsec. (a)(4)(B). Pub. L. 115–123, §50503(a)(2)(B)(i), substituted "Competitive prep grants" for "3-year grants" in heading.
+
+Subsec. (a)(4)(B)(i). Pub. L. 115–123, §50503(a)(2)(B)(ii), substituted "continue through fiscal year 2019 grants awarded for any of fiscal years 2015 through 2017" for "solicit applications to award 3-year grants in each of fiscal years 2012 through 2017".
+
+Subsec. (c)(1). Pub. L. 115–123, §50503(a)(3), inserted "victims of human trafficking," after "youth with HIV/AIDS,".
+
+Subsec. (f). Pub. L. 115–123, §50503(a)(4), substituted "2019" for "2017".
 
 <b>2015</b>—Subsec. (a)(1)(A), (4)(A). Pub. L. 114–10, §215(1), substituted "2017" for "2015" wherever appearing.
 
@@ -241,4 +253,8 @@ Subsec. (a)(4)(B)(i). Pub. L. 113–93, §206(2), substituted "2014, and 2015" f
 Subsec. (f). Pub. L. 113–93, §206(3), substituted "2015" for "2014".
 
 <b>2010</b>—Subsec. (b)(2)(C)(i). Pub. L. 111–148, §10201(h), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "Healthy relationships, such as positive self-esteem and relationship dynamics, friendships, dating, romantic involvement, marriage, and family interactions."
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–123, div. E, title V, §50503(b), Feb. 9, 2018, 132 Stat. 227, provided that: "The amendments made by this section \[amending this section\] shall take effect as if enacted on October 1, 2017."
 

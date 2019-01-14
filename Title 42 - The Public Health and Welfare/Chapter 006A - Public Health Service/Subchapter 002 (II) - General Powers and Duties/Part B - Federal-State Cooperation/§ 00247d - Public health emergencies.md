@@ -30,7 +30,7 @@ Funds appropriated under this section shall be used to supplement and not suppla
 
 #### (d) Data submittal and reporting deadlines
 
-In any case in which the Secretary determines that, wholly or partially as a result of a public health emergency that has been determined pursuant to subsection (a), individuals or public or private entities are unable to comply with deadlines for the submission to the Secretary of data or reports required under any law administered by the Secretary, the Secretary may, notwithstanding any other provision of law, grant such extensions of such deadlines as the circumstances reasonably require, and may waive, wholly or partially, any sanctions otherwise applicable to such failure to comply. Before or promptly after granting such an extension orwaiver, the Secretary shall notify the Congress of such action and publish in the Federal Register a notice of the extension or waiver.
+In any case in which the Secretary determines that, wholly or partially as a result of a public health emergency that has been determined pursuant to subsection (a), individuals or public or private entities are unable to comply with deadlines for the submission to the Secretary of data or reports required under any law administered by the Secretary, the Secretary may, notwithstanding any other provision of law, grant such extensions of such deadlines as the circumstances reasonably require, and may waive, wholly or partially, any sanctions otherwise applicable to such failure to comply. Before or promptly after granting such an extension or waiver, the Secretary shall notify the Congress of such action and publish in the Federal Register a notice of the extension or waiver.
 
 #### (e) Temporary reassignment of State and local personnel during a public health emergency
 
@@ -88,7 +88,7 @@ In any case in which the Secretary determines that, wholly or partially as a res
 
 #### (A) In general
 
-&emsp;&emsp;Unless otherwise provided under the law or regulation of the State or Indian tribe that receives authorization for temporary reassignment of personnel under paragraph (1), personnel eligible for reassignment pursuant to such authorization—
+&emsp;&emsp;Unless otherwise provided under the law or regulation of the State or Indian tribe that receives authorization for temporary reassignment of personnel under paragraph (1),personnel eligible for reassignment pursuant to such authorization—
 
 &emsp;&emsp;&emsp;(i) shall have the opportunity to volunteer for temporary reassignment; and
 
@@ -176,7 +176,7 @@ In any case in which the Secretary determines that, wholly or partially as a res
 
 &emsp;&emsp;An initiative subject to a waiver under paragraph (1) that is ongoing after the date on which the waiver expires, shall be subject to the requirements of subchapter I of chapter 35 of title 44 and the Secretary shall ensure that compliance with such requirements occurs in as timely a manner as possible based on the applicable circumstances, but not to exceed 30 calendar days after the expiration of the applicable waiver.
 
-(July 1, 1944, ch. 373, title III, §319, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat.2315; amended Pub. L. 107–188, title I, §§141, 144(a), 158, June 12, 2002, 116 Stat. 626, 630, 633; Pub. L. 113–5, title II, §201, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–255, div. A, title III, §3087, Dec. 13, 2016, 130 Stat. 1147.)
+(July 1, 1944, ch. 373, title III, §319, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315; amended Pub. L. 107–188, title I, §§141, 144(a), 158, June 12, 2002, 116 Stat. 626, 630, 633; Pub. L. 113–5, title II, §201, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–255, div. A, title III, §3087, Dec. 13, 2016, 130 Stat. 1147.)
 
 #### Prior Provisions
 

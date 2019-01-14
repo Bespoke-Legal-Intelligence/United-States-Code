@@ -4,7 +4,7 @@
 
 #### (1) Applicability of certain Federal securities laws
 
-&emsp;For purposes of section 77c(a)(2) of title 15, no security representing an interest in, or obligations backed by, a pool of qualified loans for which guarantees have been provided by the Corporation shall be deemed to be a security issued or guaranteed by a person controlled or supervised by, or acting as an instrumentality of, the Government of the United States. No such security shall be deemed to be a "government security" for purposes of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] or for purposes of the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\].
+&emsp;For purposes of section 77c(a)(2) of title 15, no security representing an interest in, or obligations backed by, a pool of qualified loans for which guarantees have been provided by the Corporation shall be deemed to be a security issued or guaranteed by a person controlled or supervised by, or acting as an instrumentality of, the Government of the United States. No such security shall be deemed to be a "government security" for purposes of the Securities Exchange Act of 1934\[15 U.S.C. 78a et seq.\] or for purposes of the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\].
 
 #### (2) No full faith and credit of the United States
 
@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;Securities representing an interest in, or obligations backed by, pools of qualified loans with respect to which the Corporation has provided a guarantee shall be authorized investments of any person, trust, corporation, partnership, association, business trust, or business entity created pursuant to or existing under the laws of the United States or any State to the same extent that the person, trust, corporation, partnership, association, business trust, or business entity is authorized under any applicable law to purchase, hold, or invest in obligations issued by or guaranteed as to principal and interest by the United States or any agency or instrumentality of the United States. Such securities or obligations may be accepted as security for all fiduciary,trust, and public funds, the investment or deposits of which shall be under the authority and control of the United States or any State or any officers of either.
+&emsp;Securities representing an interest in, or obligations backed by, pools of qualified loans with respect to which the Corporation has provided a guarantee shall be authorized investments of any person, trust, corporation, partnership, association, business trust, or business entity created pursuant to or existing under the laws of the United States or any State to the same extent that the person, trust, corporation, partnership, association, business trust, or business entity is authorized under any applicable law to purchase, hold, or invest in obligations issued by or guaranteed as to principal and interest by the United States or any agency or instrumentality of the United States. Such securities or obligations may be accepted as security for all fiduciary, trust, and public funds, the investment or deposits of which shall be under the authority and control of the United States or any State or any officers of either.
 
 #### (2) State limitations on purchase, holding, or investment
 

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible land
 
-&emsp;The term "eligible land" means privately owned agricultural land (including land in which a State has a property interest as a result of State water law)—
+&emsp;The term "eligible land" means privately owned agricultural land (including land inwhich a State has a property interest as a result of State water law)—
 
 &emsp;&emsp;(A) that a landowner voluntarily agrees to sell to a State; and
 
@@ -110,7 +110,7 @@ The Secretary shall—
 
 #### (1) In general
 
-&emsp;The Secretary of the Interior, acting through the Commissioner of Reclamation, may use the funds described in subsection (e)(2) to administer and provide financial assistance to carry out this subsection to provide water and assistance to a terminal lake described in subsection (a)(3)(B) through willing sellers or willing participants only—
+&emsp;The Secretary of the Interior, acting through the Commissioner of Reclamation,may use the funds described in subsection (e)(2) to administer and provide financial assistance to carry out this subsection to provide water and assistance to a terminal lake described in subsection (a)(3)(B) through willing sellers or willing participants only—
 
 &emsp;&emsp;(A) to lease water;
 
@@ -142,15 +142,25 @@ The Secretary shall—
 
 #### (e) Funding
 
-#### (1) Authorization of appropriations
-
-&emsp;There is authorized to be appropriated to the Secretary to carry out subsection (c) $25,000,000, to remain available until expended.
-
-#### (2) Commodity Credit Corporation
+#### (1) Commodity Credit Corporation
 
 &emsp;As soon as practicable after February 7, 2014, the Secretary shall transfer to the "Bureau of Reclamation—Water and Related Resources" account $150,000,000 from the funds of the Commodity Credit Corporation to carry out subsection (d), to remain available until expended.
 
-(Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275; Pub. L. 110–234, title II, §2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II, §2807, June 18, 2008, 122 Stat. 1664, 1818; Pub. L. 111–85, title II, §207, Oct. 28, 2009, 123 Stat. 2858; Pub. L. 112–74, div. B, title II, §208(a), Dec. 23, 2011, 125 Stat. 866; Pub. L. 113–79, title II, §2507, Feb. 7, 2014, 128 Stat. 753.)
+#### (2) No additional funds
+
+#### (A) In general
+
+&emsp;&emsp;Nothing in this section authorizes any additional funds to carry out this section.
+
+#### (B) Availability of funds
+
+&emsp;&emsp;Any funds made available to carry out this section before December 20, 2018, may remain available until expended.
+
+#### (f) Termination of authority
+
+The authority provided by this section shall terminate on October 1, 2023.
+
+(Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275; Pub. L. 110–234, title II, §2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II, §2807, June 18, 2008, 122 Stat. 1664, 1818; Pub. L. 111–85, title II, §207, Oct. 28, 2009, 123 Stat. 2858; Pub. L. 112–74, div. B, title II, §208(a), Dec. 23, 2011, 125 Stat. 866; Pub. L. 113–79, title II, §2507, Feb. 7, 2014, 128 Stat. 753; Pub. L. 115–334, title II, §2821(d), Dec. 20, 2018, 132 Stat. 4603.)
 
 #### References in Text
 
@@ -175,6 +185,10 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 Section was formerly set out as a note under section 2211 of Title 43, Public Lands.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e). Pub. L. 115–334, §2821(d)(1), added par. (2), redesignated former par. (2) as (1), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: "There is authorized to be appropriated to the Secretary to carry out subsection (c) $25,000,000, to remain available until expended."
+
+Subsec. (f). Pub. L. 115–334, §2821(d)(2), added subsec. (f).
 
 <b>2014</b>—Pub. L. 113–79 amended section generally. Prior to amendment, section directed Secretary of Agriculture, subject to certain other provisions, to transfer $175,000,000 of the funds of the Commodity Credit Corporation to the Bureau of Reclamation Water and Related Resources Account to provide water to at-risk natural desert terminal lakes.
 

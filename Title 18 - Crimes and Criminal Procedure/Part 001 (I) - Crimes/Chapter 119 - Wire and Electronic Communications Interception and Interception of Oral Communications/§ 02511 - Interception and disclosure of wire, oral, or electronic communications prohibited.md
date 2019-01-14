@@ -32,7 +32,7 @@
 
 &emsp;(B) a certification in writing by a person specified in section 2518(7) of this title or the Attorney General of the United States that no warrant or court order is required by law, that all statutory requirements have been met, and that the specified assistance is required,
 
-> setting forth the period of time during which the provision of the information, facilities, or technical assistance is authorized and specifying the information, facilities, or technical assistance required. No provider of wire or electronic communication service, officer, employee, or agent thereof, or landlord, custodian, or other specified person shall disclose the existence of any interception or surveillance or the device used to accomplish the interception or surveillance with respect to which the person has been furnished a court order or certification under this chapter, except as may otherwise be required by legal process and then only after prior notification to the Attorney General or to the principal prosecuting attorney of a State or any political subdivision of a State, as may be appropriate. Any such disclosure, shall render such person liable for the civil damages provided for in section 2520. No cause of action shall lie in any court against any provider of wire or electronic communication service, its officers, employees, or agents, landlord, custodian, or other specified person for providing information, facilities, or assistance in accordance with the terms of a court order, statutory authorization, or certification under this chapter.
+> setting forth the period of time during which the provision of the information, facilities, or technical assistance is authorized and specifying the information, facilities, or technical assistance required. No provider of wire or electronic communication service, officer, employee, or agent thereof, or landlord, custodian, or other specified person shall disclose the existence of any interception or surveillance or the device used to accomplish the interception or surveillance with respect to which the person has been furnished a court order or certification under this chapter, except as may otherwise be required by legal process and then only after prior notification to the Attorney General or to the principal prosecuting attorney of a State or any political subdivision of a State, as may be appropriate. Any such disclosure, shall render such person liable for the civil damages provided for in section 2520. No cause of action shall lie in any court against any provider of wire or electronic communication service, its officers, employees, or agents, landlord, custodian, or other specified person for providing information, facilities, or assistance in accordance with theterms of a court order, statutory authorization, or certification under this chapter.
 
 (iii) If a certification under subparagraph (ii)(B) for assistance to obtain foreign intelligence information is based on statutory authority, the certification shall identify the specific statutory provision and shall certify that the statutory requirements have been met.
 
@@ -86,6 +86,8 @@
 
 &emsp;(IV) such interception does not acquire communications other than those transmitted to or from the computer trespasser.
 
+(j) It shall not be unlawful under this chapter for a provider of electronic communication service to the public or remote computing service to intercept or disclose the contents of a wire or electronic communication in response to anorder from a foreign government that is subject to an executive agreement that the Attorney General has determined and certified to Congress satisfies section 2523.
+
 (3)(a) Except as provided in paragraph (b) of this subsection, a person or entity providing an electronic communication service to the public shall not intentionally divulge the contents of any communication (other than one to such person or entity, or an agent thereof) while in transmission on that service to any person or entity other than an addressee or intended recipient of such communication or an agent of such addressee or intended recipient.
 
 (b) A person or entity providing electronic communication service to the public may divulge the contents of any such communication—
@@ -124,11 +126,11 @@
 
 (b) The court may use any means within its authority to enforce an injunction issued under paragraph (ii)(A), and shall impose a civil fine of not less than $500 for each violation of such an injunction.
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 213; amended Pub. L. 91–358, title II, §211(a), July 29, 1970, 84 Stat. 654; Pub. L. 95–511, title II, §201(a)–(c), Oct. 25, 1978, 92 Stat. 1796, 1797; Pub. L. 98–549, §6(b)(2), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 99–508, title I, §§101(b), (c)(1), (5), (6), (d), (f)\[(1)\], 102, Oct. 21, 1986, 100 Stat. 1849, 1851–1853; Pub. L. 103–322, title XXXII, §320901, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2123, 2147; Pub. L. 103–414, title II, §§202(b), 204, 205, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–294, title VI, §604(b)(42), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 107–56, title II, §§204, 217(2), Oct. 26, 2001, 115 Stat. 281, 291; Pub. L. 107–296, title II, §225(h)(2), (j)(1), Nov. 25, 2002, 116 Stat. 2158; Pub. L. 110–261, title I, §§101(c)(1), 102(c)(1), title IV, §403(b)(2)(C), July 10, 2008, 122 Stat. 2459, 2474.)
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 213; amended Pub. L. 91–358, title II, §211(a), July 29, 1970, 84 Stat. 654; Pub. L. 95–511, title II, §201(a)–(c), Oct. 25, 1978, 92 Stat. 1796, 1797; Pub. L. 98–549, §6(b)(2), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 99–508, title I, §§101(b), (c)(1), (5), (6), (d), (f)\[(1)\], 102, Oct. 21, 1986, 100 Stat. 1849, 1851–1853; Pub. L. 103–322, title XXXII, §320901, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2123, 2147; Pub. L. 103–414, title II, §§202(b), 204, 205, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–294, title VI, §604(b)(42), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 107–56, title II, §§204, 217(2), Oct. 26, 2001, 115 Stat. 281, 291; Pub. L. 107–296, title XXII, §2207(h)(2), (j)(1), formerly title II, §225(h)(2), (j)(1), Nov. 25, 2002, 116 Stat. 2158, renumbered §2207(h)(2), (j)(1), Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 110–261, title I, §§101(c)(1), 102(c)(1), title IV, §403(b)(2)(C), July 10, 2008, 122 Stat. 2459, 2474; Pub. L. 115–141, div. V, §104(1)(A), Mar. 23, 2018, 132 Stat. 1216.)
 
 #### Amendment of Paragraph (2)(a)(ii)(A)
 
-<i>Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of Title 50, War and National Defense, effective Dec. 31, 2017, paragraph (2)(a)(ii)(A) of this section is amended by striking "or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978". For delay of effective date, see Effective Date of 2017 Amendment note set out under section 1881 of Title 50, War and National Defense.</i>
+<i>Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(2), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of Title 50, War and National Defense, effective Dec. 31, 2023, paragraph (2)(a)(ii)(A) of this section is amended by striking "or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978".</i>
 
 #### References in Text
 
@@ -138,17 +140,19 @@ Sections 633, 705, and 706 of the Communications Act of 1934, referred to in par
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section, as amended by section101(c)(1)(A) of Pub. L. 99–508, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, as amended by section 101(c)(1)(A) of Pub. L. 99–508, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
+
+<b>2018</b>—Par. (2)(j). Pub. L. 115–141 added subpar. (j).
 
 <b>2008</b>—Par. (2)(a)(ii)(A). Pub. L. 110–261, §101(c)(1), inserted "or a court order pursuant to section 704 of the Foreign Intelligence Surveillance Act of 1978" after "assistance".
 
 Par. (2)(a)(iii). Pub. L. 110–261, §102(c)(1), added cl. (iii).
 
-<b>2002</b>—Par. (2)(a)(ii). Pub. L. 107–296, §225(h)(2), inserted ", statutory authorization," after "terms of a court order" in concluding provisions.
+<b>2002</b>—Par. (2)(a)(ii). Pub. L. 107–296, §2207(h)(2), formerly §225(h)(2), as renumbered by Pub. L. 115–278, §2(g)(2)(I), inserted ", statutory authorization," after "terms of a court order" in concluding provisions.
 
-Par. (4)(b), (c). Pub. L. 107–296, §225(j)(1), redesignated subpar. (c) as (b) and struck out former subpar. (b) which read as follows: "If the offense is a first offense under paragraph (a) of this subsection and is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, and the wire or electronic communication with respect to which the offense under paragraph (a) is a radio communication that is not scrambled, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then—
+Par. (4)(b), (c). Pub. L. 107–296, §2207(j)(1), formerly §225(j)(1), as renumbered by Pub. L. 115–278, §2(g)(2)(I), redesignated subpar. (c) as (b) and struck out former subpar. (b) which read as follows: "If the offense is a first offense under paragraph (a) of this subsection and is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, and the wire or electronic communication with respect to which the offense under paragraph (a) is a radio communication that is not scrambled, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then—
 
 &emsp;"(i) if the communication is not the radio portion of a cellular telephone communication, a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit, a public land mobile radio service communication or a paging service communication, and the conduct is not that described in subsection (5), the offender shall be fined under this title or imprisoned not more than one year, or both; and
 
@@ -210,7 +214,7 @@ Par. (3). Pub. L. 95–511, §201(c), struck out par. (3) which provided that no
 
 Amendments by sections 101(c)(1) and 102(c)(1) of Pub. L. 110–261 effective July 10, 2008, except as otherwise provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, see section 402 of Pub. L. 110–261, set out as a note under section 1801 of Title 50.
 
-Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec. 30, 2012, 126 Stat. 1631, provided that, except as providedin section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, the amendments made by section 403(b)(2) are effective Dec. 31, 2017. For delay of effective date, see Effective Date of 2017 Amendment note set out under section 1881 of Title 50, War and National Defense.
+Pub. L. 110–261, title IV, §403(b)(2), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(2), Dec.30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(2), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of Title 50, War and National Defense, the amendments made by section 403(b)(2) are effective Dec. 31, 2023.
 
 #### Effective Date of 2002 Amendment
 

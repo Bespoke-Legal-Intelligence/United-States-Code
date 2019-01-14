@@ -66,7 +66,7 @@ Except as provided in subsection (f)—
 
 &emsp;If the allocation of the GST exemption to any transfers of property is made on a gift tax return filed on or before the date prescribed by section 6075(b) for such transfer or is deemed to be made under section 2632(b)(1) or (c)(1)—
 
-&emsp;&emsp;(A) the value of such property for purposes of subsection (a) shall be its value as finallydetermined for purposes of chapter 12 (within the meaning of section 2001(f)(2)), or, in the case of an allocation deemed to have been made at the close of an estate tax inclusion period, its value at the time of the close of the estate tax inclusion period, and
+&emsp;&emsp;(A) the value of such property for purposes of subsection (a) shall be its value as finally determined for purposes of chapter 12 (within the meaning of section 2001(f)(2)), or, in the case of an allocation deemed to have been made at the close of an estate tax inclusion period, its value at the time of the close of the estate tax inclusion period, and
 
 &emsp;&emsp;(B) such allocation shall be effective on and after the date of such transfer, or, in the case of an allocation deemed to have been made at the close of an estate tax inclusion period, on and after the close of such estate tax inclusion period.
 
@@ -74,7 +74,7 @@ Except as provided in subsection (f)—
 
 #### (A) Transfers at death
 
-&emsp;&emsp;If property is transferred as a result of the death of the transferor, the value of such property for purposes of subsection (a) shall be its value as finally determined for purposes of chapter 11; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned.
+&emsp;&emsp;If property is transferred as a result of the death of the transferor, the value of suchproperty for purposes of subsection (a) shall be its value as finally determined for purposes of chapter 11; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned.
 
 #### (B) Allocations to property transferred at death of transferor
 
@@ -172,7 +172,7 @@ Except as provided in subsection (f)—
 
 #### (2) Adjusted GST exemption
 
-&emsp;For purposes of paragraph (1), the adjusted GST exemption is an amount equal to the GST exemption allocated to the trust increased by interest determined—
+&emsp;For purposes of paragraph (1), the adjusted GST exemption is an amount equal to the GSTexemption allocated to the trust increased by interest determined—
 
 &emsp;&emsp;(A) at the interest rate used in determining the amount of the deduction under section 2055 or 2522 (as the case may be) for the charitable lead annuity, and
 
@@ -254,7 +254,7 @@ Except as provided in regulations—
 
 &emsp;An allocation of GST exemption under section 2632 that demonstrates an intent to have the lowest possible inclusion ratio with respect to a transfer or a trust shall be deemed to be an allocation of so much of the transferor's unused GST exemption as produces the lowest possible inclusion ratio. In determining whether there has been substantial compliance, all relevant circumstances shall be taken into account, including evidence of intent contained in the trust instrument or instrument of transfer and such other factors as the Secretary deems relevant.
 
-(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2722; amended Pub. L. 100–647, title I, §1014(g)(3)(A), (4), (17)(A), (B), (18), Nov. 10, 1988, 102 Stat. 3563, 3566, 3567; Pub. L. 101–239, title VII, §7811(j)(4), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 101–508, title XI, §§11703(c)(1), (2), 11704(a)(17), (36), Nov. 5, 1990, 104 Stat. 1388–517, 1388–519; Pub. L. 107–16, title V, §§562(a), 563(a), (b), 564(a), June 7, 2001, 115 Stat. 89–91.)
+(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2722; amended Pub. L. 100–647, title I, §1014(g)(3)(A), (4), (17)(A), (B), (18), Nov. 10, 1988, 102 Stat. 3563, 3566, 3567; Pub. L. 101–239, title VII, §7811(j)(4), Dec. 19, 1989, 103 Stat. 2411;Pub. L. 101–508, title XI, §§11703(c)(1), (2), 11704(a)(17), (36), Nov. 5, 1990, 104 Stat. 1388–517, 1388–519; Pub. L. 107–16, title V, §§562(a), 563(a), (b), 564(a), June 7, 2001, 115 Stat. 89–91.)
 
 #### Amendments
 

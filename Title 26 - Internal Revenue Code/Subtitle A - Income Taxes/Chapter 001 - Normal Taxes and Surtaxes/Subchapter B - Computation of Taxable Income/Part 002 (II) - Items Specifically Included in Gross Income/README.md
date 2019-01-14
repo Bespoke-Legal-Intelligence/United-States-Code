@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [71\.](%C2%A7%2000071%20-%20Alimony%20and%20separate%20maintenance%20payments.md) | Alimony and separate maintenance payments. |
+| \[71. | Repealed.\] |
 | [72\.](%C2%A7%2000072%20-%20Annuities%3B%20certain%20proceeds%20of%20endowment%20and%20life%20insurance%20contracts.md) | Annuities; certain proceeds of endowment and life insurance contracts. |
 | [73\.](%C2%A7%2000073%20-%20Services%20of%20child.md) | Services of child. |
 | [74\.](%C2%A7%2000074%20-%20Prizes%20and%20awards.md) | Prizes and awards. |
@@ -18,14 +18,9 @@
 | [79\.](%C2%A7%2000079%20-%20Group-term%20life%20insurance%20purchased%20for%20employees.md) | Group-term life insurance purchased for employees. |
 | [80\.](%C2%A7%2000080%20-%20Restoration%20of%20value%20of%20certain%20securities.md) | Restoration of value of certain securities. |
 | \[81. | Repealed.\] |
-| [82\.](%C2%A7%2000082%20-%20Reimbursement%20for%20expenses%20of%20moving.md) | Reimbursement of moving expenses.<sup>2</sup> |
+| [82\.](%C2%A7%2000082%20-%20Reimbursement%20of%20moving%20expenses.md) | Reimbursement of moving expenses. |
 | [83\.](%C2%A7%2000083%20-%20Property%20transferred%20in%20connection%20with%20performance%20of%20services.md) | Property transferred in connection with performance of services. |
-| [84\.](%C2%A7%2000084%20-%20Transfer%20of%20appreciated%20property%20to%20political%20organization.md) | Transfer of appreciated property to political organizations.<sup>2</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [84\.](%C2%A7%2000084%20-%20Transfer%20of%20appreciated%20property%20to%20political%20organizations.md) | Transfer of appreciated property to political organizations. |
 | [85\.](%C2%A7%2000085%20-%20Unemployment%20compensation.md) | Unemployment compensation. |
 | [86\.](%C2%A7%2000086%20-%20Social%20security%20and%20tier%201%20railroad%20retirement%20benefits.md) | Social security and tier 1 railroad retirement benefits. |
 | [87\.](%C2%A7%2000087%20-%20Alcohol%20and%20biodiesel%20fuels%20credits.md) | Alcohol and biodiesel fuels credits. |
@@ -35,10 +30,6 @@
 | [91\.](%C2%A7%2000091%20-%20Certain%20foreign%20branch%20losses%20transferred%20to%20specified%2010-percent%20owned%20foreign%20corporations.md) | Certain foreign branch losses transferred to specified 10-percent owned foreign corporations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 115–97, title I, §11051(b)(1)(B), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, provided that,</i><i>applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, this analysis is amended by striking item 71. See 2017 Amendment note below.</i>
 
 #### Amendments
 
@@ -76,16 +67,14 @@ Pub. L. 89–384, §1(b)(2), Apr. 8, 1966, 80 Stat. 102, added item 80.
 
 <b>1962</b>—Pub. L. 87–834, §9(d)(1), Oct. 16, 1962, 76 Stat. 1001, added item 78.
 
-<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 115–79 without corresponding amendment of analysis.</i>
-
-<i><sup>2</sup></i><i> So in original. Does not conform to section catchline.</i>
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 115–97 without corresponding amendment of analysis.</i>
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00071 - Alimony and separate maintenance payments](%C2%A7%2000071%20-%20Alimony%20and%20separate%20maintenance%20payments.md)
+- [&sect; 00071 - Repealed. Pub. L. 115&#8211;97, title I, &sect;11051(b)(1)(B), Dec. 22, 2017, 131 Stat. 2089](%C2%A7%2000071%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9397%2C%20title%20I%2C%20%C2%A711051%28b%29%281%29%28B%29%2C%20Dec.%2022%2C%202017%2C%20131%20Stat.%202089.md)
 - [&sect; 00072 - Annuities; certain proceeds of endowment and life insurance contracts](%C2%A7%2000072%20-%20Annuities%3B%20certain%20proceeds%20of%20endowment%20and%20life%20insurance%20contracts.md)
 - [&sect; 00073 - Services of child](%C2%A7%2000073%20-%20Services%20of%20child.md)
 - [&sect; 00074 - Prizes and awards](%C2%A7%2000074%20-%20Prizes%20and%20awards.md)
@@ -96,9 +85,9 @@ Pub. L. 89–384, §1(b)(2), Apr. 8, 1966, 80 Stat. 102, added item 80.
 - [&sect; 00079 - Group-term life insurance purchased for employees](%C2%A7%2000079%20-%20Group-term%20life%20insurance%20purchased%20for%20employees.md)
 - [&sect; 00080 - Restoration of value of certain securities](%C2%A7%2000080%20-%20Restoration%20of%20value%20of%20certain%20securities.md)
 - [&sect; 00081 - Repealed. Pub. L. 100&#8211;203, title X, &sect;10201(b)(1), Dec. 22, 1987, 101 Stat. 1330&#8211;387](%C2%A7%2000081%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93203%2C%20title%20X%2C%20%C2%A710201%28b%29%281%29%2C%20Dec.%2022%2C%201987%2C%20101%20Stat.%201330%E2%80%93387.md)
-- [&sect; 00082 - Reimbursement for expenses of moving](%C2%A7%2000082%20-%20Reimbursement%20for%20expenses%20of%20moving.md)
+- [&sect; 00082 - Reimbursement of moving expenses](%C2%A7%2000082%20-%20Reimbursement%20of%20moving%20expenses.md)
 - [&sect; 00083 - Property transferred in connection with performance of services](%C2%A7%2000083%20-%20Property%20transferred%20in%20connection%20with%20performance%20of%20services.md)
-- [&sect; 00084 - Transfer of appreciated property to political organization](%C2%A7%2000084%20-%20Transfer%20of%20appreciated%20property%20to%20political%20organization.md)
+- [&sect; 00084 - Transfer of appreciated property to political organizations](%C2%A7%2000084%20-%20Transfer%20of%20appreciated%20property%20to%20political%20organizations.md)
 - [&sect; 00085 - Unemployment compensation](%C2%A7%2000085%20-%20Unemployment%20compensation.md)
 - [&sect; 00086 - Social security and tier 1 railroad retirement benefits](%C2%A7%2000086%20-%20Social%20security%20and%20tier%201%20railroad%20retirement%20benefits.md)
 - [&sect; 00087 - Alcohol and biodiesel fuels credits](%C2%A7%2000087%20-%20Alcohol%20and%20biodiesel%20fuels%20credits.md)

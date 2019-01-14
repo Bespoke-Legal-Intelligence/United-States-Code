@@ -82,7 +82,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;In each local area, not more than 5 percent of the in-school youth assisted under this section may be eligible under paragraph (1) because the youth are in-school youth described in paragraph (1)(C)(iv)(VII).
+&emsp;&emsp;In each local area, not more than 5 percent of the in-school youth assisted under thissection may be eligible under paragraph (1) because the youth are in-school youth described in paragraph (1)(C)(iv)(VII).
 
 #### (4) Out-of-school priority
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;A State that receives a minimum allotment under section 3162(b)(1) of this title in accordance with section 3162(b)(1)(C)(iv) of this title or under section 3172(b)(1) of this title in accordance with section 3172(b)(1)(B)(iv) of this title may decrease the percentage described in subparagraph (A) to not less than 50 percent for a local area in the State, if—
 
-&emsp;&emsp;&emsp;(i) after an analysis of the in-school youth and out-of-school youth populationsin the local area, the State determines that the local area will be unable to use at least 75 percent of the funds available for activities under subsection (c) to serve out-of-school youth due to a low number of out-of-school youth; and
+&emsp;&emsp;&emsp;(i) after an analysis of the in-school youth and out-of-school youth populations in the local area, the State determines that the local area will be unable to use at least 75 percent of the funds available for activities under subsection (c) to serve out-of-school youth due to a low number of out-of-school youth; and
 
 &emsp;&emsp;&emsp;(ii)(I) the State submits to the Secretary, for the local area, a request including a proposed percentage decreased to not less than 50 percent for purposes of subparagraph (A), and a summary of the analysis described in clause (i); and
 
@@ -160,7 +160,7 @@
 
 &emsp;Funds allocated to a local area for eligible youth under section 3163(b) of this title shall be used to carry out, for eligible youth, programs that—
 
-&emsp;&emsp;(A) provide an objective assessment of the academic levels, skill levels, and serviceneeds of each participant, which assessment shall include a review of basic skills, occupational skills, prior work experience, employability, interests, aptitudes (including interests and aptitudes for nontraditional jobs), supportive service needs, and developmental needs of such participant, for the purpose of identifying appropriate services and career pathways for participants, except that a new assessment of a participant is not required if the provider carrying out such a program determines it is appropriate to use a recent assessment of the participant conducted pursuant to another education or training program;
+&emsp;&emsp;(A) provide an objective assessment of the academic levels, skill levels, and service needs of each participant, which assessment shall include a review of basic skills, occupational skills, prior work experience, employability, interests, aptitudes (including interests and aptitudes for nontraditional jobs), supportive service needs, and developmental needs of such participant, for the purpose of identifying appropriate services and career pathways for participants, except that a new assessment of a participant is not required if the provider carrying out such a program determines it is appropriate to use a recent assessment of the participant conducted pursuant to another education or training program;
 
 &emsp;&emsp;(B) develop service strategies for each participant that are directly linked to 1 or more of the indicators of performance described in section 3141(b)(2)(A)(ii) of this title, and that shall identify career pathways that include education and employment goals (including, in appropriate circumstances, nontraditional employment), appropriate achievement objectives, and appropriate services for the participant taking into account the assessment conducted pursuant to subparagraph (A), except that a new service strategy for a participant is not required if the provider carrying out such a program determines it is appropriate to use a recent service strategy developed for the participant under another education or training program;
 
@@ -282,7 +282,7 @@ Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovati
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "who".</i>
 

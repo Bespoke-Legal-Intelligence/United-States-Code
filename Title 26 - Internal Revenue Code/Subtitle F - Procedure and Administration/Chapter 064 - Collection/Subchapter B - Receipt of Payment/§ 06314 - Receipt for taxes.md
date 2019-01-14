@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The Secretary shall, upon request, give receipts for all sums collected by him, exceptingonly when the same are in payment for stamps sold and delivered; but no receipt shall be issued in lieu of a stamp representing a tax.
+The Secretary shall, upon request, give receipts for all sums collected by him, excepting only when the same are in payment for stamps sold and delivered; but no receipt shall be issued in lieu of a stamp representing a tax.
 
 #### (b) Duplicate receipts for payment of estate taxes
 

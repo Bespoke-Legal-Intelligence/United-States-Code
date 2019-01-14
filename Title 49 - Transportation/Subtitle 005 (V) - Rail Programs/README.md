@@ -25,6 +25,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |  |
+| :--- | :---: | ---: |
+| [<b>229.</b>](Part%20B%20-%20Assistance/Chapter%20229%20-%20Rail%20Improvement%20Grants/README.md) | <b>Rail Improvement Grants</b> | <b>22901</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### PART C—PASSENGER TRANSPORTATION
 
 |  |  |  |
@@ -37,12 +43,7 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>243.</b>](Part%20C%20-%20Passenger%20Transportation/Chapter%20243%20-%20Amtrak/README.md) | <b>Amtrak</b> | <b>24301</b> |
-| [<b>244.</b>](Part%20C%20-%20Passenger%20Transportation/Chapter%20244%20-%20Rail%20Improvement%20Grants/README.md) | <b>Rail improvement grants </b><b><sup>3</sup></b> | <b>24401</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| <b>\[244.</b> | <b>Transferred.\]</b> |  |
 | <b>\[245.</b> | <b>Repealed.\]</b> |  |
 | [<b>247.</b>](Part%20C%20-%20Passenger%20Transportation/Chapter%20247%20-%20Amtrak%20Route%20System/README.md) | <b>Amtrak Route System</b> | <b>24701</b> |
 | [<b>249.</b>](Part%20C%20-%20Passenger%20Transportation/Chapter%20249%20-%20Northeast%20Corridor%20Improvement%20Program/README.md) | <b>Northeast Corridor Improvement Program</b> | <b>24901</b> |
@@ -69,6 +70,8 @@
 
 #### Amendments
 
+<b>2019</b>—Pub. L. 115–420, §7(a)(4), Jan. 3, 2019, 132 Stat. 5445, added item for chapter 229 and struck out item for chapter 244 "Rail improvement grants".
+
 2015–Pub. L. 114–94, div. A, title XI, §§11301(c)(3), 11303(b)(2), 11503(c), Dec. 4, 2015, 129 Stat. 1648, 1654, 1692, struck out item for chapter 225 "Federal grants to States for highway-rail grade crossing safety", added item for chapter 242, and substituted "Rail improvement grants" for "Intercity Passenger Rail Service Corridor Capital Assistance" in item for chapter 244.
 
 <b>2008</b>—Pub. L. 110–432, div. A, title II, §207(b), div. B, title III, §301(b), title IV, §401(b), Oct. 16, 2008, 122 Stat. 4875, 4946, 4956, added items for chapters 225, 244, and 285.
@@ -88,8 +91,6 @@ Pub. L. 110–432, div. B, title III, §303(b), Oct. 16, 2008, 122 Stat. 4951, w
 <i><sup>1</sup></i><i> So in original. Probably should be "State Rail Plans".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be "Project Delivery".</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be "Rail Improvement Grants".</i>
 
 
 ---

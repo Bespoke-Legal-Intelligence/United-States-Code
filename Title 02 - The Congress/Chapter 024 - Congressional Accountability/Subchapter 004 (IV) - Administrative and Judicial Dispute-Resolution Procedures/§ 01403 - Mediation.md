@@ -30,13 +30,71 @@ No individual, who is appointed by the Executive Director to mediate, may conduc
 
 &emsp;In developing the master list under this subsection, the Executive Director shall consider candidates recommended by the Federal Mediation and Conciliation Service or the Administrative Conference of the United States.
 
-(Pub. L. 104–1, title IV, §403, Jan. 23, 1995, 109 Stat. 32; Pub. L. 114–6, §2(a), Mar. 20, 2015, 129 Stat. 81.)
+(Pub. L. 104–1, title IV, §404, formerly §403, Jan. 23, 1995, 109 Stat. 32; Pub. L. 114–6, §2(a), Mar. 20, 2015, 129 Stat. 81; renumbered §404 and amended Pub. L. 115–397, title I, §§101(c)(2), 104, Dec. 21, 2018, 132 Stat. 5301, 5305.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–397, title I, §§101(c)(2), 104, title IV, §401, Dec. 21, 2018, 132 Stat. 5301, 5305, 5327, renumbered this section as section 404 of Pub. L. 104–1 (see credit above) and made amendments to subsections (a) to (c), effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings. After such effective date, subsections (a) to (c) of this section will read as follows:</i>
+
+#### <i>(a) Availability of mediation</i>
+
+#### <i>(1) Notification regarding mediation</i>
+
+#### <i>(A) Covered employee</i>
+
+&emsp;&emsp;<i>Upon receipt of a claim under section 1402 of this title, the Office shall notify the covered employee who filed the claim about the process for mediation under this section and the deadlines applicable to such mediation.</i>
+
+#### <i>(B) Employing office</i>
+
+&emsp;&emsp;<i>Upon transmission to the employing office of the claim pursuant to section 1402(b) of this title, the Office shall notify the employing office about the process for mediation under this section and the deadlines applicable to such mediation.</i>
+
+#### <i>(2) Initiation</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>During the period described in subparagraph (B), either the covered employee who filed a</i><i>claim under section 1402 of this title or the employing office named in the claim may file a request for mediation with the Office, which shall promptly notify the other party. If the other party agrees to the request, the Office shall promptly assign a mediator to the claim, and conduct mediation under this section.</i>
+
+#### <i>(B) Timing</i>
+
+&emsp;&emsp;<i>A covered employee or an employing office may file a request for mediation under subparagraph (A) during the period beginning on the date that the covered employee or employing office, respectively, receives a notification under paragraph (1) regarding a claim under section 1402 of this title and ending on the date on which a hearing officer issues a written decision relating to the claim under section 1405(g) of this title or the covered employee files a civil action with respect to the claim in accordance with section 1408 of this title, as applicable.</i>
+
+#### <i>(3) Failure to request or accept mediation to have no effect on treatment of claim</i>
+
+&emsp;<i>The failure of a party to request mediation under this section with respect to a claim, or the failure of a party to agree to a request for mediation under this section, may not be taken into consideration under any procedure under this subchapter with respect to the claim, including a preliminary review under section 1402a of this title, a formal hearing under section 1405 of this title, or a civil action under section 1408 of this title.</i>
+
+#### <i>(b) Process</i>
+
+<i>Mediation under this section—</i>
+
+&emsp;<i>(1) may include the Office, the covered employee, the employing office, and one or more individuals appointed by the Executive Director from the master list developed and maintained under subsection (e), and</i>
+
+&emsp;<i>(2) shall involve meetings with the parties during which, at the request of any of the parties, the parties shall be separated, for the purpose of resolving the dispute between the covered employee and the employing office.</i>
+
+#### <i>(c) Mediation period</i>
+
+<i>The mediation period shall be 30 days, beginning on the first day after the second party agrees to the request for the mediation. The mediation period may be extended for one additional period of 30 days at the joint request of the covered employee and employing office. Any deadline in this chapter relating to a claim for which mediation has been agreed to in this section, that has not already passed by the first day of the mediation period, shall be stayed during the mediation period. The Office shall notify in writing the covered employee and the employing office when the mediation period has ended.</i>
+
+<i>See 2018 Amendment notes below.</i>
+
+#### Prior Provisions
+
+A prior section 404 of Pub. L. 104–1 was classifed to section 1404 of this title, prior to repeal by Pub. L. 115–397, title I, §101(c)(1), Dec. 21, 2018, 132 Stat. 5301.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–397, §104(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "Not later than 15 days after receipt by the employee of notice of the end of the counseling period under section 1402 of this title, but prior to and as a condition of making an election under section 1404 of this title, the covered employee who alleged a violation of a law shall file a request for mediation with the Office."
+
+Subsec. (b)(2). Pub. L. 115–397, §104(b), substituted "meetings with the parties during which, at the request of any of the parties, the parties shall be separated," for "meetings with the parties separately or jointly".
+
+Subsec. (c). Pub. L. 115–397, §104(c), substituted "The mediation period shall be 30 days, beginning on the first day after the second party agrees to the request for the mediation. The mediation period may be extended for one additional period of 30 days at the joint request of the covered employee and employing office. Any deadline in this chapter relating to a claim for which mediation has been agreed to in this section, that has not already passed by the first day of the mediation period, shall be stayed during the mediation period." for "The mediation period shall be 30 days beginning on the date the request for mediation is received. The mediation period may be extended for additional periods at the joint request of the covered employee and the employing office."
 
 <b>2015</b>—Subsec. (b)(1). Pub. L. 114–6, §2(a)(1), substituted "from the master list developed and maintained under subsection (e)" for "after considering recommendations by organizations composed primarily of individuals experienced in adjudicating or arbitrating personnel matters".
 
 Subsec. (e). Pub. L. 114–6, §2(a)(2), added subsec. (e).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 
 #### Effective Date of 2015 Amendment
 

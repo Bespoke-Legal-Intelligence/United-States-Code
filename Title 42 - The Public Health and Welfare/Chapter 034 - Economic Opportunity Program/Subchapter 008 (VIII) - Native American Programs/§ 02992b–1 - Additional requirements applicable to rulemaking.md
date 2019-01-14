@@ -38,7 +38,7 @@ Notwithstanding section 553(d) of title 5, no rule (including an interpretative 
 
 #### (d) Statutory citation required
 
-Each rule (including an interpretative rule) and each general statement of policy to which this section applies shall contain after each of its sections, paragraphs, or similar textual units a citation to the particular provision of statutory or other law that is the legal authority for such section, paragraph, or unit.
+Each rule (including an interpretative rule) and each general statement of policy to whichthis section applies shall contain after each of its sections, paragraphs, or similar textual units a citation to the particular provision of statutory or other law that is the legal authority for such section, paragraph, or unit.
 
 #### (e) Rule or general statement of policy necessary as result of legislation; time for issuance
 

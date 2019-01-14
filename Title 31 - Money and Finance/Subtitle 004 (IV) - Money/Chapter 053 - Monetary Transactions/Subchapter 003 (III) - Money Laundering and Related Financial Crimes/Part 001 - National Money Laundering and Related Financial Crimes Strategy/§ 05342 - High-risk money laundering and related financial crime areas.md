@@ -50,7 +50,7 @@ Factors.—In considering the designation of any area as a high-risk money laund
 
 &emsp;(1) The population of the area.
 
-&emsp;(2) The number of bank and nonbank financial institution transactions which originate in such area or involve institutions located in such area.
+&emsp;(2) The number of bank and nonbank financial institution transactions which originatein such area or involve institutions located in such area.
 
 &emsp;(3) The number of stock or commodities transactions which originate in such area or involve institutions located in such area.
 

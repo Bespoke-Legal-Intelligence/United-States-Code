@@ -58,7 +58,7 @@ In the course of any hearing, investigation, or other proceeding that he is auth
 
 &emsp;&emsp;&emsp;(i) submit to the Secretary a description of the methodologies that such qualified entity will use to evaluate the performance of providers of services and suppliers using such data;
 
-&emsp;&emsp;&emsp;(ii)(I) except as provided in subclause (II), if available, use standard measures, such as measures endorsed by the entity with a contract under section 1395aaa(a) of this title and measures developed pursuant to section 299b–31 of this title; or
+&emsp;&emsp;&emsp;(ii)(I) except as provided in subclause (II), if available, use standard measures,such as measures endorsed by the entity with a contract under section 1395aaa(a) of this title and measures developed pursuant to section 299b–31 of this title; or
 
 &emsp;&emsp;&emsp;(II) use alternative measures if the Secretary, in consultation with appropriate stakeholders, determines that use of such alternative measures would be more valid, reliable, responsive to consumer preferences, cost-effective, or relevant to dimensions of quality and resource use not addressed by such standard measures;
 
@@ -126,7 +126,7 @@ The Secretary shall establish and maintain procedures, including procedures for 
 
 #### References in Text
 
-The Railroad Retirement Act of 1974, referred to in subsec. (a), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (a), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out precedingsection 231 of Title 45, section 231t of Title 45, and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (d)(1), is classified generally to Title 26, Internal Revenue Code.
 
@@ -172,7 +172,7 @@ Amendment by Pub. L. 89–97 applicable to calendar year 1966 or to any subseque
 
 #### Report
 
-Pub. L. 114–10, title V, §502(b), Apr. 16, 2015, 129 Stat. 165, provided that: "Not later than 18 months after the date of the enactment of this section \[Apr. 16, 2015\], and periodically thereafter as determined necessary by the Office of Inspector General of the Department of Health and Human Services, such Office shall submit to Congress a report on the activities described in subsection (f) of section 1874 of the Social Security Act (42 U.S.C.1395kk), as added by subsection (a), that have been conducted since such date of enactment."
+Pub. L. 114–10, title V, §502(b), Apr. 16, 2015, 129 Stat. 165, provided that: "Not later than 18 months after the date of the enactment of this section \[Apr. 16, 2015\], and periodically thereafter as determined necessary by the Office of Inspector General of the Department of Health and Human Services, such Office shall submit to Congress a report on the activities described in subsection (f) of section 1874 of the Social Security Act (42 U.S.C. 1395kk), as added by subsection (a), that have been conducted since such date of enactment."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

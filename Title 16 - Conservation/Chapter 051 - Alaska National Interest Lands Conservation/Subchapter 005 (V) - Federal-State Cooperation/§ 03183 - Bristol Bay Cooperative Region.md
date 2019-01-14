@@ -24,7 +24,7 @@ The purpose of this section is to provide for the preparation and implementation
 
 #### (c) Federal-State cooperation in preparation of plans
 
-(1) If within three months after December 2, 1980, the Governor notifies the Secretary that the State wishes to participate in the preparation of the plan, and that the Governor will, to the extent of his authority, manage State lands within the region to conserve fish and wildlife during such preparation, the Secretary and the Governor shall undertake to prepare the planwhich shall contain such provisions as are necessary and appropriate to achieve the purposes set forth in subsection (b), including but not limited to—
+(1) If within three months after December 2, 1980, the Governor notifies the Secretary that the State wishes to participate in the preparation of the plan, and that the Governor will, to the extent of his authority, manage State lands within the region to conserve fish and wildlife during such preparation, the Secretary and the Governor shall undertake to prepare the plan which shall contain such provisions as are necessary and appropriate to achieve the purposes set forth in subsection (b), including but not limited to—
 
 &emsp;(A) the identification of the significant resources of the region;
 
@@ -70,7 +70,7 @@ On December 2, 1980, and for a period of three years thereafter, all Federal lan
 
 #### References in Text
 
-Section 6 of the Alaska Statehood Act, referred to in subsec. (b)(4), is section 6 of Pub. L. 85–508, July 7, 1958, 72 Stat. 399, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
+Section 6 of the Alaska Statehood Act, referred to in subsec. (b)(4), is section 6 of Pub. L. 85–508, July 7, 1958,72 Stat. 399, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
 This Act, referred to in subsecs. (b)(4) and (f), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. Title IX of this Act enacted sections 1631 to 1638 of Title 43, Public Lands, amended sections 1614 and 1620 of Title 43, and amended provisions set out as notes under section 1611 of Title 43 and preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 

@@ -12,7 +12,7 @@ Directors and Assistant Directors.—(1) The Secretary shall assign to each Stat
 
 (b)
 
-Additional Federal Personnel.—The Secretary may also assign as supervisory personnel such representatives of the Veterans' Employment and Training Service as the Secretary determines appropriate to carry out the employment, training, and placement servicesrequired under this chapter, including Assistant Directors for Veterans' Employment and Training.
+Additional Federal Personnel.—The Secretary may also assign as supervisory personnel such representatives of the Veterans' Employment and Training Service as the Secretary determines appropriate to carry out the employment, training, and placement services required under this chapter, including Assistant Directors for Veterans' Employment and Training.
 
 (c)
 

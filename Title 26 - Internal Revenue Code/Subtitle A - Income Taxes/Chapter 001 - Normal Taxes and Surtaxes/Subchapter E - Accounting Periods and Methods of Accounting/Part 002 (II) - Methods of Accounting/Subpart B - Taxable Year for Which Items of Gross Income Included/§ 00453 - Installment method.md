@@ -36,7 +36,7 @@ For purposes of this section, the term "installment method" means a method under
 
 #### (2) Time and manner for making election
 
-&emsp;Except as otherwise provided by regulations, an election under paragraph (1) with respect to a disposition may be made only on or before the due date prescribed by law (including extensions) for filing the taxpayer's return of the tax imposed by this chapter for the taxable year in which the disposition occurs. Such an election shall be made in the manner prescribed by regulations.
+&emsp;Except as otherwise provided by regulations, an election under paragraph (1) with respect to a disposition may be made only on or before the due date prescribed by law (including extensions) for filing the taxpayer's return of thetax imposed by this chapter for the taxable year in which the disposition occurs. Such an election shall be made in the manner prescribed by regulations.
 
 #### (3) Election revocable only with consent
 
@@ -224,7 +224,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) stock in trade of the corporation,
 
-&emsp;&emsp;&emsp;(ii) other property of a kind which would properly be included in the inventory of the corporation if on hand at the close of the taxable year, and
+&emsp;&emsp;&emsp;(ii) other property of a kind which would properly be included in the inventory ofthe corporation if on hand at the close of the taxable year, and
 
 &emsp;&emsp;&emsp;(iii) property held by the corporation primarily for sale to customers in the ordinary course of its trade or business,
 
@@ -316,7 +316,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### (A) Farm property
 
-&emsp;&emsp;The disposition on the installment plan of any property used or produced in the trade or business of farming (within the meaning of section 2032A(e)(4) or (5)).
+&emsp;&emsp;The disposition on the installment plan of any property used or produced in the tradeor business of farming (within the meaning of section 2032A(e)(4) or (5)).
 
 #### (B) Timeshares and residential lots
 
@@ -336,7 +336,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### (C) Carrying charges or interest
 
-&emsp;&emsp;Any carrying charges or interest with respect to a disposition described in subparagraph (A) or (B) which are added on thebooks of account of the seller to the established cash selling price of the property shall be included in the total contract price of the property and, if such charges or interest are not so included, any payments received shall be treated as applying first against such carrying charges or interest.
+&emsp;&emsp;Any carrying charges or interest with respect to a disposition described in subparagraph (A) or (B) which are added on the books of account of the seller to the established cash selling price of the property shall be included in the total contract price of the property and, if such charges or interest are not so included, any payments received shall be treated as applying first against such carrying charges or interest.
 
 #### (3) Payment of interest on timeshares and residential lots
 
@@ -673,7 +673,7 @@ Pub. L. 97–448, title III, §311(a), Jan. 12, 1983, 96 Stat. 2411, provided th
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable years ending after that date, see section 209(a) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
+Amendment by Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable yearsending after that date, see section 209(a) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
 
 #### Effective Date; Application of Former Section 453(b) to Certain Dispositions
 
@@ -705,7 +705,7 @@ For section 2(c).—The amendments made by section 2(c) \[amending sections 336,
 
 "(7)
 
-Special rule for application of former section 453 to certain dispositions.—In the case of any disposition made on or before the date of the enactment of this Act \[Oct. 19, 1980\] in any taxable year ending after such date, the provisions of section 453(b) of the Internal Revenue Code of 1986 \[see subsec. (b) offormer section 453 of this title, set out below\] as in effect before such date, shall be applied with respect to such disposition without regard to—
+Special rule for application of former section 453 to certain dispositions.—In the case of any disposition made on or before the date of the enactment of this Act \[Oct. 19, 1980\] in any taxable year ending after such date, the provisions of section 453(b) of the Internal Revenue Code of 1986 \[see subsec. (b) of former section 453 of this title, set out below\] as in effect before such date, shall be applied with respect to such disposition without regard to—
 
 &emsp;"(A) paragraph (2) of such section 453(b), and
 

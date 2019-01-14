@@ -8,7 +8,7 @@ Whenever a political committee makes a disbursement for the purpose of financing
 
 &emsp;(2) if paid for by other persons but authorized by a candidate, an authorized political committee of a candidate, or its agents, shall clearly state that the communication is paid for by such other persons and authorized by such authorized political committee; <sup>1</sup>
 
-&emsp;(3) if not authorized by a candidate, an authorized political committee of a candidate, orits agents, shall clearly state the name and permanent street address, telephone number, or World Wide Web address of the person who paid for the communication and state that the communication is not authorized by any candidate or candidate's committee.
+&emsp;(3) if not authorized by a candidate, an authorized political committee of a candidate, or its agents, shall clearly state the name and permanent street address, telephone number, or World Wide Web address of the person who paid for the communication and state that the communication is not authorized by any candidate or candidate's committee.
 
 #### (b) Charge for newspaper or magazine space
 

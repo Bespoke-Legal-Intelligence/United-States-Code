@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) a 35-percent controlled entity,
 
-&emsp;&emsp;(D) any person who is described in subparagraph (A), (B), or (C) with respect to an organization described in section 509(a)(3) and organized and operated exclusively for the benefit of, to perform the functions of, or to carry out the purposes of the applicable tax-exempt organization.<sup>1</sup>
+&emsp;&emsp;(D) any person who is described in subparagraph (A), (B), or (C) with respect to an organization described in section 509(a)(3) and organized and operated exclusively for the benefit of, to perform the functions of, or to carry out the purposes of the applicable tax-exempt organization,
 
 &emsp;&emsp;(E) which involves a donor advised fund (as defined in section 4966(d)(2)), any person who is described in paragraph (7) with respect to such donor advised fund (as so defined), and
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (4) Family members
 
-&emsp;The members of an individual's family shall be determined under section 4946(d); exceptthat such members also shall include the brothers and sisters (whether by the whole or half blood) of the individual and their spouses.
+&emsp;The members of an individual's family shall be determined under section 4946(d); except that such members also shall include the brothers and sisters (whether by the whole or half blood) of the individual and their spouses.
 
 #### (5) Taxable period
 
@@ -186,13 +186,15 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term "investment advisor" means, with respect to any sponsoring organization (as defined in section 4966(d)(1)), any person (other than an employee of such organization) compensated by such organization for managing the investment of, or providing investment advice with respect to, assets maintained in donor advised funds (as defined in section 4966(d)(2)) owned by such organization.
 
-(Added Pub. L. 104–168, title XIII, §1311(a), July 30, 1996, 110 Stat. 1475; amended Pub. L. 109–280, title XII, §§1212(a)(3), 1232(a), (b), 1242(a), (b), Aug. 17, 2006, 120 Stat. 1074, 1098, 1099, 1104; Pub. L. 110–172, §3(i), Dec. 29, 2007, 121 Stat. 2475; Pub. L. 111–148, title I, §1322(h)(3), Mar. 23, 2010, 124 Stat. 192.)
+(Added Pub. L. 104–168, title XIII, §1311(a), July 30, 1996, 110 Stat. 1475; amended Pub. L. 109–280, title XII, §§1212(a)(3), 1232(a), (b), 1242(a), (b), Aug. 17, 2006, 120 Stat. 1074, 1098, 1099, 1104; Pub. L. 110–172, §3(i), Dec. 29, 2007, 121 Stat. 2475; Pub. L. 111–148, title I, §1322(h)(3), Mar. 23, 2010, 124 Stat. 192; Pub. L. 115–141, div. U, title IV, §401(a)(224), Mar. 23, 2018, 132 Stat. 1194.)
 
 #### Codification
 
 Sections 1212(a)(3), 1232(a), (b), and 1242(a), (b) of Pub. L. 109–280, which directed the amendment of section 4958 without specifying the act to be amended, were executed to this section, which is section 4958 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f)(1)(D). Pub. L. 115–141 substituted comma for period at end.
 
 <b>2010</b>—Subsec. (e)(1). Pub. L. 111–148 substituted "paragraph (3), (4), or (29)" for "paragraph (3) or (4)".
 
@@ -247,6 +249,4 @@ Subsection (b).—The amendments made by subsection (a) \[probably should be "su
 #### Effective Date
 
 Section applicable to excess benefit transactions occurring on or after Sept. 14, 1995, and not applicable to any benefit arising from a transaction pursuant to any written contract which was binding on Sept. 13, 1995, and at all times thereafter before such transaction occurred, see section 1311(d)(1), (2) of Pub. L. 104–168, set out as an Effective Date of 1996 Amendment note under section 4955 of this title.
-
-<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

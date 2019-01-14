@@ -28,3 +28,7 @@ Section 11711, added Pub. L. 96–454, §7(a)(1), Oct. 15, 1980, 94 Stat. 2016; 
 
 Section 11712, added Pub. L. 103–180, §4(a), Dec. 3, 1993, 107 Stat. 2049, related to tariff reconciliation rules for motor common carriers of property. See section 14709 of this title.
 
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+

@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding section 1232 of this title and section 553 of title 5, the Secretary shall, by notice in the Federal Register, publish the waivers or modifications of statutory and regulatory provisions the Secretary deems necessary to achieve the purposes of this section.
+&emsp;Notwithstanding section 1232 of this title and section 553 of title 5, the Secretary shall, by notice in the Federal Register, publish thewaivers or modifications of statutory and regulatory provisions the Secretary deems necessary to achieve the purposes of this section.
 
 #### (2) Terms and conditions
 

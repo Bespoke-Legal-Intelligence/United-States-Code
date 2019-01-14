@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-From amounts made available under section 10103(c) of this title, the Director of the Office of Weed and Seed Strategies may implement strategies, to be known as Weed and Seed strategies,to prevent, control, and reduce violent crime, criminal drug-related activity, and gang activity in designated Weed-and-Seed communities. Each such strategy shall involve both of the following activities:
+From amounts made available under section 10103(c) of this title, the Director of the Office of Weed and Seed Strategies may implement strategies, to be known as Weed and Seed strategies, to prevent, control, and reduce violent crime, criminal drug-related activity, and gang activity in designated Weed-and-Seed communities. Each such strategy shall involve both of the following activities:
 
 #### (1) Weeding
 
@@ -20,7 +20,7 @@ From amounts made available under section 10103(c) of this title, the Director o
 
 The Director shall issue guidelines for the development and implementation of Weed and Seed strategies under this section. The guidelines shall ensure that the Weed and Seed strategy for a community referred to in subsection (a) shall—
 
-&emsp;(1) be planned and implemented through and under the auspices of a steering committee, properly established in the community, comprised of—
+&emsp;(1) be planned and implemented through and under the auspices of a steering committee,properly established in the community, comprised of—
 
 &emsp;&emsp;(A) in a voting capacity, representatives of—
 
@@ -82,7 +82,7 @@ An application for designation as a Weed-and-Seed community for purposes of subs
 
 &emsp;&emsp;(A) for a period of more than 10 fiscal years;
 
-&emsp;&emsp;(B) for more than 5 separate fiscal years, except that the Assistant Attorney Generalmay, in single increments and only upon a showing of extraordinary circumstances, authorize grants for not more than 3 additional separate fiscal years; or
+&emsp;&emsp;(B) for more than 5 separate fiscal years, except that the Assistant Attorney General may, in single increments and only upon a showing of extraordinary circumstances, authorize grants for not more than 3 additional separate fiscal years; or
 
 &emsp;&emsp;(C) in an aggregate amount of more than $1,000,000, except that the Assistant Attorney General may, upon a showing of extraordinary circumstances, authorize grants for not more than an additional $500,000.
 
@@ -106,7 +106,7 @@ An application for designation as a Weed-and-Seed community for purposes of subs
 
 #### (6) Supplement, not supplant
 
-&emsp;To receive a grant under this subsection, the applicant must provide assurances that the amounts received under the grant shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for programs or services provided in the community.
+&emsp;To receive a grant under this subsection, the applicant must provide assurances that theamounts received under the grant shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for programs or services provided in the community.
 
 (Pub. L. 90–351, title I, §104, as added Pub. L. 109–162, title XI, §1121(a), Jan. 5, 2006, 119 Stat. 3104.)
 

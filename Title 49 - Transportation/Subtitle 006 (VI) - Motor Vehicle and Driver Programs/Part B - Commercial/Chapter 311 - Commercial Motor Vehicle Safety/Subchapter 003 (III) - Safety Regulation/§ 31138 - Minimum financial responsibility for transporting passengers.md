@@ -6,7 +6,7 @@ General Requirement.—
 
 &emsp;(1)
 
-Transportation of passengers for compensation.—The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability and property damage for the transportation of passengers for compensation by motor vehicle in the United States between a place in a State and—
+Transportation of passengers for compensation.—The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability andproperty damage for the transportation of passengers for compensation by motor vehicle in the United States between a place in a State and—
 
 &emsp;&emsp;(A) a place in another State;
 
@@ -64,7 +64,7 @@ Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secr
 
 (3) The Secretary of Transportation may compromise the penalty before referring the matter to the Attorney General for collection.
 
-(4) The Attorney General shall bring a civil action in an appropriate district court of theUnited States to collect a penalty referred to the Attorney General for collection under this subsection.
+(4) The Attorney General shall bring a civil action in an appropriate district court of the United States to collect a penalty referred to the Attorney General for collection under this subsection.
 
 (5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this section shall be deposited in the Highway Trust Fund (other than the Mass Transit Account).
 

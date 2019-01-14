@@ -44,7 +44,7 @@ Whenever the Commission has reason to believe that a unit investment trust is in
 
 &emsp;&emsp;&emsp;(i) complies with all other applicable provisions of this section, as if it were a trustee or custodian of the registered separate account;
 
-&emsp;&emsp;&emsp;(ii) files with the insurance regulatory authority of the State which is the domiciliary State of the insurance company, an annual statement of its financial condition, which most recent statement indicates that the insurance company has a combined capital and surplus, if a stock company, or an unassigned surplus, if amutual company, of not less than $1,000,000, or such other amount as the Commission may from time to time prescribe by rule, as necessary or appropriate in the public interest or for the protection of investors; and
+&emsp;&emsp;&emsp;(ii) files with the insurance regulatory authority of the State which is the domiciliary State of the insurance company, an annual statement of its financial condition, which most recent statement indicates that the insurance company has a combined capital and surplus, if a stock company, or an unassigned surplus, if a mutual company, of not less than $1,000,000, or such other amount as the Commission may from time to time prescribe by rule, as necessary or appropriate in the public interest or for the protection of investors; and
 
 &emsp;&emsp;&emsp;(iii) together with its registered separate accounts, is supervised and examined periodically by the insurance authority of such State.
 

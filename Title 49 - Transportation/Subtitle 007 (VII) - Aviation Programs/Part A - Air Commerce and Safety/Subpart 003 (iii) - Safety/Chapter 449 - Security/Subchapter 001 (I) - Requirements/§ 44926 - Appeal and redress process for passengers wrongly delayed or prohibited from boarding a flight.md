@@ -18,7 +18,7 @@ Records.—The process established by the Secretary pursuant to subsection (a) s
 
 &emsp;(3)
 
-Information.—To prevent repeated delays of an <sup>1</sup> misidentified passenger or other individual, the Office shall—
+Information.—To prevent repeated delays of a misidentified passenger or other individual, the Office shall—
 
 &emsp;&emsp;(A) ensure that the records maintained under this subsection contain information determined by the Secretary to authenticate the identity of such a passenger or individual;
 
@@ -28,7 +28,7 @@ Information.—To prevent repeated delays of an <sup>1</sup> misidentified pass
 
 &emsp;(4)
 
-Handling of personally identifiable information.—The Secretary, in conjunction with the Chief Privacy Officer of the Department shall—
+Handling of personally identifiable information.—The Secretary, in conjunctionwith the Chief Privacy Officer of the Department shall—
 
 &emsp;&emsp;(A) require that Federal employees of the Department handling personally identifiable information of passengers (in this paragraph referred to as "PII") complete mandatory privacy and security training prior to being authorized to handle PII;
 
@@ -48,11 +48,13 @@ Handling of personally identifiable information.—The Secretary, in conjunction
 
 Initiation of redress process at airports.—The Office shall establish at each airport at which the Department has a significant presence a process to provide information to air carrier passengers to begin the redress process established pursuant to subsection (a).
 
-(Added Pub. L. 110–53, title XVI, §1606(a), Aug. 3, 2007, 121 Stat. 482.)
+(Added Pub. L. 110–53, title XVI, §1606(a), Aug. 3, 2007, 121 Stat. 482; amended Pub. L. 115–254, div. K, title I, §1991(d)(22), Oct. 5, 2018, 132 Stat. 3637.)
 
 #### References in Text
 
 The Federal Information Security Management Act of 2002, referred to in subsec. (b)(4)(E), is title X of Pub. L. 107–296, Nov. 25, 116 Stat. 2259. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6, Domestic Security, and Tables.
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(3). Pub. L. 115–254 substituted "a misidentified passenger" for "an misidentified passenger" in introductory provisions.
 

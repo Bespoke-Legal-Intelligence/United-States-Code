@@ -14,7 +14,7 @@ Exceptions.—Subsection (a) does not apply to the following:
 
 &emsp;(3) The appointment in the Navy Reserve of a person appointed for service under the Naval Aviation Cadet (NAVCAD) program or the Seaman to Admiral program.
 
-&emsp;(4) The appointment to or recognition in a higher grade of any person who was appointedto, or federally recognized in, the grade of captain or, in the case of the Navy, lieutenant before October 1, 1995.
+&emsp;(4) The appointment to or recognition in a higher grade of any person who was appointed to, or federally recognized in, the grade of captain or, in the case of the Navy, lieutenant before October 1, 1995.
 
 &emsp;(5) Recognition in the grade of captain or major in the Alaska Army National Guard of a person who resides permanently at a location in Alaska that is more than 50 miles from each of the cities of Anchorage, Fairbanks, and Juneau, Alaska, by paved road and who is serving in a Scout unit or a Scout supporting unit.
 

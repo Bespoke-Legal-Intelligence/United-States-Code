@@ -10,7 +10,7 @@ Allowance Authorized.—(1) Under regulations prescribed by the Secretary concer
 
 > is entitled to transportation, or an allowance for transportation under section 474(d)(3) of this title, for round-trip travel from the port of construction to either of those locations as provided in paragraph (2).
 
-(2) A member referred to in paragraph (1) shall be entitled to such transportation or allowance on or after the thirty-first day (and every sixtieth day after the thirty-first day) after the later of—
+(2) A member referred to in paragraph (1) shall be entitled to such transportation or allowanceon or after the thirty-first day (and every sixtieth day after the thirty-first day) after the later of—
 
 &emsp;(A) the date on which the ship enters the construction port; and
 
@@ -52,7 +52,7 @@ Pub. L. 112–81, §631(d)(2), renumbered section 406c of this title as this sec
 
 Subsec. (e). Pub. L. 112–81, §631(e)(9), added subsec. (e).
 
-<b>1991</b>—Subsec. (b)(1). Pub. L. 102–190 substituted "the designated home port of the ship, or the area where thedependents of the member are residing," for "the location that was the home port of the ship before commencement of construction".
+<b>1991</b>—Subsec. (b)(1). Pub. L. 102–190 substituted "the designated home port of the ship, or the area where the dependents of the member are residing," for "the location that was the home port of the ship before commencement of construction".
 
 #### Effective Date of 2013 Amendment
 

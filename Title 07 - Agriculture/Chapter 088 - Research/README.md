@@ -24,7 +24,7 @@
 |  |  |
 | :--- | ---: |
 | [5821\.](Subchapter%20001%20%28I%29%20-%20Sustainable%20Agriculture%20Research%20and%20Education/Part%20B%20-%20Integrated%20Management%20Systems/%C2%A7%2005821%20-%20Integrated%20management%20systems.md) | Integrated management systems. |
-| [5822\.](Subchapter%20001%20%28I%29%20-%20Sustainable%20Agriculture%20Research%20and%20Education/Part%20B%20-%20Integrated%20Management%20Systems/%C2%A7%2005822%20-%20Integrated%20Farm%20Management%20Program%20Option.md) | Integrated Farm Management Program Option. |
+| [5822\.](Subchapter%20001%20%28I%29%20-%20Sustainable%20Agriculture%20Research%20and%20Education/Part%20B%20-%20Integrated%20Management%20Systems/%C2%A7%2005822%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20II%2C%20%C2%A72816%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204602.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -57,6 +57,7 @@
 | [5853\.](Subchapter%20003%20%28III%29%20-%20National%20Agricultural%20Weather%20Information%20System/%C2%A7%2005853%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VII%2C%20%C2%A77304%28a%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20455.md) | Repealed. |
 | [5854\.](Subchapter%20003%20%28III%29%20-%20National%20Agricultural%20Weather%20Information%20System/%C2%A7%2005854%20-%20State%20agricultural%20weather%20information%20systems.md) | State agricultural weather information systems. |
 | [5855\.](Subchapter%20003%20%28III%29%20-%20National%20Agricultural%20Weather%20Information%20System/%C2%A7%2005855%20-%20Funding.md) | Funding. |
+| [5856\.](Subchapter%20003%20%28III%29%20-%20National%20Agricultural%20Weather%20Information%20System/%C2%A7%2005856%20-%20Improvements%20to%20United%20States%20Drought%20Monitor.md) | Improvements to United States Drought Monitor. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -90,7 +91,7 @@
 | :--- | ---: |
 | [5921\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005921%20-%20Biotechnology%20risk%20assessment%20research.md) | Biotechnology risk assessment research. |
 | 5921a to 5923. Repealed. |  |
-| [5924\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005924%20-%20Agricultural%20Genome%20Initiative.md) | Agricultural Genome Initiative. |
+| [5924\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005924%20-%20Agricultural%20Genome%20to%20Phenome%20Initiative.md) | Agricultural Genome to Phenome Initiative. |
 | [5925\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925%20-%20High-priority%20research%20and%20extension%20initiatives.md) | High-priority research and extension initiatives. |
 | [5925a.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925a%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VII%2C%20%C2%A77210%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20885.md) | Repealed. |
 | [5925b.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925b%20-%20Organic%20agriculture%20research%20and%20extension%20initiative.md) | Organic agriculture research and extension initiative. |
@@ -98,6 +99,7 @@
 | [5925d.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925d%20-%20International%20organic%20research%20collaboration.md) | International organic research collaboration. |
 | [5925e.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925e%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VII%2C%20%C2%A77212%28a%29%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20886.md) | Repealed. |
 | [5925f.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925f%20-%20Farm%20business%20management.md) | Farm business management. |
+| [5925g.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925g%20-%20Urban%2C%20indoor%2C%20and%20other%20emerging%20agricultural%20production%20research%2C%20education%2C%20and%20extension%20initiative.md) | Urban, indoor, and other emerging agricultural production research, education, and extension initiative. |
 | [5926\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005926%20-%20Centers%20of%20excellence.md) | Centers of excellence. |
 | 5927 to 5929. Repealed. |  |
 | [5930\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005930%20-%20Reservation%20extension%20agents.md) | Reservation extension agents. |

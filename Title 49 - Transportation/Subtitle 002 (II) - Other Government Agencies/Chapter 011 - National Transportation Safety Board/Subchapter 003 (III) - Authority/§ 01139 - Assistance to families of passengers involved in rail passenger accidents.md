@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—As soon as practicable after being notified of a rail passenger accident within the United States involving a rail passenger carrier and resulting in a major loss of life, the Chairman of the National Transportation Safety Board shall—
+In General.—As soon as practicable after being notified of a rail passenger accident within the United States involving a rail passenger carrier and resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency, the Chairman of the National Transportation Safety Board shall—
 
 &emsp;(1) designate and publicize the name and telephone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the rail passenger carrier and the families; and
 
@@ -44,7 +44,7 @@ Requests for passenger lists.—
 
 &emsp;&emsp;(A)
 
-Requests by director of family support services.—It shall be the responsibility of the director of family support services designated for an accident under subsection (a)(1) to request, as soon as practicable, from the rail passenger carrier involved in the accident a list, which is based on the best available information at the time of the request, of the names of the passengers that were aboard the rail passenger carrier's train involved in the accident. A rail passenger carrier shall use reasonable efforts, with respect to its unreserved trains, and passengers not holding reservations on its other trains, to ascertain the names of passengers aboard a train involved in an accident.
+Requests by director of family support services.—It shall be the responsibility of the director of family support services designated for an accident under subsection (a)(1) to request, as soon as practicable, from the rail passenger carrier involved in the accident a list, which is based on the best available information at the time of the request, of the names of the passengers that were aboard the rail passenger carrier's train involved in the accident. A rail passenger carrier shall use reasonable efforts, with respect to its unreserved trains, andpassengers not holding reservations on its other trains, to ascertain the names of passengers aboard a train involved in an accident.
 
 &emsp;&emsp;(B)
 
@@ -88,13 +88,17 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Rail passenger accident.—The term "rail passenger accident" means any rail passenger disaster resulting in a major loss of life occurring in the provision of—
+Rail passenger accident.—The term "rail passenger accident" means any rail passenger disaster that—
 
-&emsp;&emsp;(A) interstate intercity rail passenger transportation (as such term is defined in section 24102); or
+&emsp;&emsp;(A) results in any loss of life;
 
-&emsp;&emsp;(B) interstate or intrastate high-speed rail (as such term is defined in section 26105) transportation,
+&emsp;&emsp;(B) the National Transportation Safety Board will serve as the lead investigative agency for; and
 
-> &emsp;regardless of its cause or suspected cause.
+&emsp;&emsp;(C) occurs in the provision of—
+
+&emsp;&emsp;&emsp;(i) interstate intercity rail passenger transportation (as such term is defined in section 24102); or
+
+&emsp;&emsp;&emsp;(ii) high-speed rail (as such term is defined in section 26105) transportation, regardless of its cause or suspected cause.
 
 &emsp;(2)
 
@@ -130,15 +134,25 @@ General rule.—This section (other than subsection (g)) shall not apply to a ra
 
 &emsp;(2)
 
-Board assistance.—If this section does not apply to a rail passenger accident because the Board has relinquished investigative priority with respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
+Board assistance.—If this section does not apply to a rail passenger accident because the Board has relinquished investigative priority with respect to the accident, the Boardshall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
 
 (k)
 
 Savings Clause.—Nothing in this section shall be construed to abridge the authority of the Board or the Secretary of Transportation to investigate the causes or circumstances of any rail accident, including development of information regarding the nature of injuries sustained and the manner in which they were sustained for the purposes of determining compliance with existing laws and regulations or for identifying means of preventing similar injuries in the future, or both.
 
-(Added Pub. L. 110–432, div. A, title V, §501(a), Oct. 16, 2008, 122 Stat. 4894; amended Pub. L. 114–94, div. A, title XI, §11316(a), Dec. 4, 2015, 129 Stat. 1676.)
+(Added Pub. L. 110–432, div. A, title V, §501(a), Oct. 16, 2008, 122 Stat. 4894; amended Pub. L. 114–94, div. A, title XI, §11316(a), Dec. 4, 2015, 129 Stat. 1676; Pub. L. 115–254, div. C, §1109(d), Oct. 5, 2018, 132 Stat. 3435.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–254, §1109(d)(1), substituted "resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency" for "resulting in a major loss of life" in introductory provisions.
+
+Subsec. (h)(1). Pub. L. 115–254, §1109(d)(2), amended par. (1) generally. Prior to amendment, text read as follows: "The term 'rail passenger accident' means any rail passenger disaster resulting in a major loss of life occurring in the provision of—
+
+&emsp;"(A) interstate intercity rail passenger transportation (as such term is defined in section 24102); or
+
+&emsp;"(B) interstate or intrastate high-speed rail (as such term is defined in section 26105) transportation,
+
+> regardless of its cause or suspected cause."
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–94, §11316(a)(1), substituted "telephone number" for "phone number".
 

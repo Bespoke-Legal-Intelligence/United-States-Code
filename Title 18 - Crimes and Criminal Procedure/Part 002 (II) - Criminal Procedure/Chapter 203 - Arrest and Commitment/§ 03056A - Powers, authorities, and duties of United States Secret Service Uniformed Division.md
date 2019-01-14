@@ -58,7 +58,7 @@
 
 #### References in Text
 
-Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (d), is title II of actAug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§4301 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of title II to the Code, see Short Title note set out under section 4301 of Title 22 and Tables.
+Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (d), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§4301 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of title II to the Code, see Short Title note set out under section 4301 of Title 22 and Tables.
 
 #### Change of Name
 
@@ -100,7 +100,7 @@ Credit for increases during transition.—Each member whose position is to be co
 
 &emsp;&emsp;"(C)
 
-Creditable service described.—For purposes of this paragraph, an officer's or member's creditable service is any police service in pay status with the United States Secret Service Uniformed Division, United States Park Police, or Metropolitan Police Department.
+Creditable service described.—For purposes of this paragraph, an officer's or member's creditable service is any police service in paystatus with the United States Secret Service Uniformed Division, United States Park Police, or Metropolitan Police Department.
 
 "(b)
 
@@ -126,7 +126,7 @@ Adjustment To Take Into Account General Schedule Adjustments During Transition.�
 
 Conversion Not Treated as Salary Increase for Purposes of Certain Pensions and Allowances.—The conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 (as amended by section 2\[902\](a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be treated as an increase in salary for purposes of section 3 of the Act entitled 'An Act to provide increased pensions for widows and children of deceased members of the Police Department and the Fire Department of the District of Columbia', approved August 4, 1949 \[ch. 394, 63 Stat. 566\] (sec. 4–604, D.C. Code), or section 301 of the District of Columbia Police and Firemen's Salary Act of 1953 \[June 20, 1953, ch. 146, title III, 67 Stat. 75\] (sec. 4–605, D.C. Code)."
 
-\[Pub. L. 111–282, §4(b)(4), Oct. 15, 2010, 124 Stat. 3043, which directed amendment of section 1(a)(4) \[div. B, title IX, §905(a)(1)\] of Pub. L. 106–554, set out above, bystriking out "the Secretary of Treasury" and all that followed through "United States Secret Service Uniformed Division, and", was executed by striking out "the Secretary of the Treasury shall fix the rates of basic pay for officers and members of the United States Secret Service Uniformed Division, and" to reflect the probable intent of Congress.
+\[Pub. L. 111–282, §4(b)(4), Oct. 15, 2010, 124 Stat. 3043, which directed amendment of section 1(a)(4) \[div. B, title IX, §905(a)(1)\] of Pub. L. 106–554, set out above, by striking out "the Secretary of Treasury" and all that followed through "United States Secret Service Uniformed Division, and", was executed by striking out "the Secretary of the Treasury shall fix the rates of basic pay for officers and members of the United States Secret Service Uniformed Division, and" to reflect the probable intent of Congress.
 
 \[Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §909\], Dec. 21, 2000, 114 Stat. 2763, 2763A–310, provided that: "Except as provided in section 908(c) \[114 Stat. 2763A–310\], this title \[enacting provisions set out as notes above and under sections 5301, 5304, and 5305 of Title 5, Government Organization and Employees, and amending provisions set out as a note under section 5305 of Title 5\] and the amendments made by this title shall become effective on the first day of the first pay period beginning 6 months after the date of enactment \[Dec. 21, 2000\]."\]
 
@@ -166,7 +166,7 @@ Section 1. There is transferred to the Secretary of State authority to determine
 
 Sec. 2. There are transferred to the Secretary of State such unexpended moneys as may have been appropriated to the Department of the Treasury for the purpose of permitting reimbursements to be made under the provisions of \[former\] section 208(a) of Title 3, United States Code;
 
-Sec. 3. The authority transferred pursuant to this Order shall be exercised in coordination with protective security programs administered by the Secretary of State under the Foreign Missions Act of 1982 \[22 U.S.C. 4301 et seq.\]; authority available under that Act may also be applied to any foreign mission to which \[former\] section 202(7) applies; and
+Sec. 3. The authority transferred pursuant to this Order shall be exercised in coordination with protectivesecurity programs administered by the Secretary of State under the Foreign Missions Act of 1982 \[22 U.S.C. 4301 et seq.\]; authority available under that Act may also be applied to any foreign mission to which \[former\] section 202(7) applies; and
 
 Sec. 4. This Order shall be effective on October 1, 1984.
 

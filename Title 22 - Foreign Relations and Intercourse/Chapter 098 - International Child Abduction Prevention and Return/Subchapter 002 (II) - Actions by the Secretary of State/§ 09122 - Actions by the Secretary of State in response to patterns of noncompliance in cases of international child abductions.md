@@ -22,7 +22,7 @@ It is the policy of the United States—
 
 #### (2) Determinations of responsible parties
 
-&emsp;The Secretary of State shall seek to determine the agencies or instrumentalities of thegovernment of each country determined to have engaged in a pattern of noncompliance under paragraph (1)(A) that are responsible for such pattern of noncompliance—
+&emsp;The Secretary of State shall seek to determine the agencies or instrumentalities of the government of each country determined to have engaged in a pattern of noncompliance under paragraph (1)(A) that are responsible for such pattern of noncompliance—
 
 &emsp;&emsp;(A) to appropriately target actions in response to such noncompliance; and
 
@@ -100,7 +100,7 @@ Except as provided in subsection (f), the actions by the Secretary of State refe
 
 #### (2) Notification
 
-&emsp;If commensurate action is taken pursuant to this subsection, the Secretary shall submit a report to the appropriate congressional committees that—
+&emsp;If commensurate action is taken pursuant to this subsection, the Secretary shall submit areport to the appropriate congressional committees that—
 
 &emsp;&emsp;(A) describes such action;
 
@@ -118,7 +118,7 @@ The Secretary of State shall seek to take all appropriate actions authorized by 
 
 #### (g) Humanitarian exception
 
-Any action taken pursuant to subsection (d) or (e) may not prohibit or restrict the provision ofmedicine, medical equipment or supplies, food, or other life-saving humanitarian assistance.
+Any action taken pursuant to subsection (d) or (e) may not prohibit or restrict the provision of medicine, medical equipment or supplies, food, or other life-saving humanitarian assistance.
 
 (Pub. L. 113–150, title II, §202, Aug. 8, 2014, 128 Stat. 1818.)
 

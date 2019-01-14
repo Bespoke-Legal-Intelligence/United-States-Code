@@ -2,7 +2,7 @@
 
 (a) In managing the provision of hospital care and medical services under section 1710(a) of this title, the Secretary, in accordance with regulations the Secretary shall prescribe, shall establish and operate a system of annual patient enrollment. The Secretary shall manage the enrollment of veterans in accordance with the following priorities, in the order listed:
 
-&emsp;(1) Veterans with service-connected disabilities rated 50 percent or greater and veterans who were awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14.
+&emsp;(1) Veterans with service-connected disabilities rated 50 percent or greater and veterans who were awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 <sup>1</sup> of title 14.
 
 &emsp;(2) Veterans with service-connected disabilities rated 30 percent or 40 percent.
 
@@ -30,9 +30,15 @@
 
 (2) The Secretary shall provide hospital care and medical services under section 1710(a)(1) of this title, and under subparagraph (B) of section 1710(a)(2) of this title, for the 12-month period following such veteran's discharge or release from service, to any veteran referred to in such sections for a disability specified in the applicable subparagraph of such section, notwithstanding the failure of the veteran to enroll in the system of patient enrollment referred to in subsection (a) of this section.
 
-(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3182; amended Pub. L. 106–117, title I, §112(2), Nov. 30, 1999, 113 Stat. 1556; Pub. L. 107–135, title II, §202(a), Jan. 23, 2002, 115 Stat. 2457; Pub. L. 107–330, title III, §308(g)(4), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 111–163, title V, §512, May 5, 2010, 124 Stat. 1164; Pub. L. 114–315, title VI, §603(a)(1), Dec. 16, 2016, 130 Stat. 1570.)
+(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3182; amended Pub. L. 106–117, title I, §112(2), Nov. 30, 1999, 113 Stat. 1556; Pub. L. 107–135, title II, §202(a), Jan. 23, 2002, 115 Stat. 2457; Pub. L. 107–330, title III, §308(g)(4), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 111–163, title V, §512, May 5, 2010, 124 Stat. 1164; Pub. L. 114–315, title VI, §603(a)(1), Dec. 16, 2016, 130 Stat. 1570; Pub. L. 115–232, div. A, title VIII, §809(n)(1)(A), Aug. 13, 2018, 132 Stat. 1843.)
+
+#### References in Text
+
+Section 491 of title 14, referred to in subsec. (a)(1), was redesignated section 2732 of title 14 by Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 491 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–232 substituted "section 7271, 8291, or 9271 of title 10" for "section 3741, 6241, or 8741 of title 10".
 
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–315, §603(a)(1)(A), inserted "and veterans who were awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14" before period at end.
 
@@ -45,6 +51,10 @@ Subsec. (a)(3). Pub. L. 114–315, §603(a)(1)(B), struck out "veterans who were
 Subsec. (c)(1). Pub. L. 107–330 substituted "The Secretary" for "Effective on October 1, 1998, the Secretary".
 
 <b>1999</b>—Subsec. (a)(3). Pub. L. 106–117 inserted "or who were awarded the Purple Heart" after "former prisoners of war".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
 
 #### Effective Date of 2002 Amendment
 
@@ -95,4 +105,6 @@ Matters To Be Included.—The report under subsection (b) shall include detailed
 &emsp;"(5) The numbers and characteristics of, and the type and extent of health care furnished to, veterans not enrolled for care (shown separately by reference to each class of eligibility, both in total and separately by facility).
 
 &emsp;"(6) The specific fiscal impact (shown in total and by geographic health-care delivery areas) of changes in delivery patterns instituted under the amendments made by this title \[enacting this section and section 1706 of this title and amending sections 1525, 1701, 1703, 1710, 1712, 1712A, 1717, 1718, 1720, 1722, 1729, 2104, 5317, 8110, and 8111A of this title\]."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

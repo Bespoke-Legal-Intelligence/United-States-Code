@@ -120,7 +120,7 @@ Final report.—The Advisory Committee shall, not later than 1 year after the da
 
 "(f)
 
-Implementation.—The Secretary of Education shall consult with the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate and shall subsequently initiate a redesign of the form required by section 483 of the Higher Education Act of 1965 (20 U.S.C. 1090). Such redesign shall include the testing of alternative simplified versions of the free Federal form. The Secretary shall keep the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate fully and currently informed on the progress of these efforts.
+Implementation.—The Secretary of Education shall consult with the Committee on Education and theWorkforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate and shall subsequently initiate a redesign of the form required by section 483 of the Higher Education Act of 1965 (20 U.S.C. 1090). Such redesign shall include the testing of alternative simplified versions of the free Federal form. The Secretary shall keep the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate fully and currently informed on the progress of these efforts.
 
 "(g)
 

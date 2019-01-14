@@ -22,9 +22,37 @@
 
 &emsp;&emsp;&emsp;In addition to the uses under clause (i), a State or Indian tribe may use a grant under this subsection to—
 
-&emsp;&emsp;&emsp;&emsp;(I) capitalize a revolving loan fund for brownfield remediation under section 9604(k)(3) of this title; or
+&emsp;&emsp;&emsp;&emsp;(I) capitalize a revolving loan fund for brownfield remediation under section 9604(k)(3) of this title;
 
-&emsp;&emsp;&emsp;&emsp;(II) purchase insurance or develop a risk sharing pool, an indemnity pool, or insurance mechanism to provide financing for response actions under a State response program.
+&emsp;&emsp;&emsp;&emsp;(II) purchase insurance or develop a risk sharing pool, an indemnity pool, or insurance mechanism to provide financing for response actions under a State response program; or
+
+&emsp;&emsp;&emsp;&emsp;(III) assist small communities, Indian tribes, rural areas, or disadvantagedareas in carrying out activities described in section 9604(k)(7)(A) of this title with respect to brownfield sites.
+
+#### (iii) Small communities, Indian tribes, rural areas, and disadvantaged areas
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;To make grants to States or Indian tribes under clause (ii)(III), the Administrator may use, in addition to amounts available to carry out this subsection, not more than $1,500,000 of the amounts made available to carry out section 9604(k)(7) of this title in each fiscal year.
+
+#### (II) Limitation
+
+&emsp;&emsp;&emsp;&emsp;Each grant made under subclause (I) may be not more than $20,000.
+
+#### (III) Inclusion in other grants
+
+&emsp;&emsp;&emsp;&emsp;The Administrator may, at the request of a State or Indian tribe, include a grant under this clause in any other grant to the State or Indian tribe made under this subsection.
+
+#### (iv) Definitions
+
+&emsp;&emsp;&emsp;In this subparagraph:
+
+#### (I) Disadvantaged area
+
+&emsp;&emsp;&emsp;&emsp;The term "disadvantaged area" means a community with an annual median household income that is less than 80 percent of the statewide annual median household income, as determined by the President based on the latest available decennial census.
+
+#### (II) Small community
+
+&emsp;&emsp;&emsp;&emsp;The term "small community" means a community with a population of not more than 15,000 individuals, as determined by the President based on the latest available decennial census.
 
 #### (2) Elements
 
@@ -58,7 +86,7 @@
 
 #### (3) Funding
 
-&emsp;There is authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2002 through 2006.
+&emsp;There is authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2019 through 2023.
 
 #### (b) Enforcement in cases of a release subject to State program
 
@@ -80,7 +108,7 @@
 
 &emsp;&emsp;&emsp;(i) the State requests that the President provide assistance in the performance of a response action;
 
-&emsp;&emsp;&emsp;(ii) the Administrator determines that contamination has migrated or will migrate across a State line, resulting in the need for further response action to protect human health or the environment, or the President determines that contamination has migrated or is likely to migrate onto property subject to the jurisdiction, custody, or control of a department, agency, or instrumentality of the United States and may impact the authorized purposes of the Federal property;
+&emsp;&emsp;&emsp;(ii) the Administrator determines that contamination has migrated or will migrate across a State line, resulting in the need for further response action to protect human health or the environment, or the President determines that contaminationhas migrated or is likely to migrate onto property subject to the jurisdiction, custody, or control of a department, agency, or instrumentality of the United States and may impact the authorized purposes of the Federal property;
 
 &emsp;&emsp;&emsp;(iii) after taking into consideration the response activities already taken, the Administrator determines that—
 
@@ -134,7 +162,7 @@
 
 &emsp;&emsp;&emsp;(i) modifies or otherwise affects a memorandum of agreement, memorandum of understanding, or any similar agreement relating to this chapter between a State agency or an Indian tribe and the Administrator that is in effect on or before January 11, 2002 (which agreement shall remain in effect, subject to the terms of the agreement); or
 
-&emsp;&emsp;&emsp;(ii) limits the discretionary authority of the President to enter into or modify anagreement with a State, an Indian tribe, or any other person relating to the implementation by the President of statutory authorities.
+&emsp;&emsp;&emsp;(ii) limits the discretionary authority of the President to enter into or modify an agreement with a State, an Indian tribe, or any other person relating to the implementation by the President of statutory authorities.
 
 #### (3) Effective date
 
@@ -154,7 +182,7 @@ Nothing in this section affects any liability or response authority under any Fe
 
 &emsp;(5) the Safe Drinking Water Act (42 U.S.C. 300f et seq.).
 
-(Pub. L. 96–510, title I, §128, as added Pub. L. 107–118, title II, §231(b), Jan. 11, 2002, 115 Stat. 2375.)
+(Pub. L. 96–510, title I, §128, as added Pub. L. 107–118, title II, §231(b), Jan. 11, 2002, 115 Stat. 2375; amended Pub. L. 115–141, div. N, §§14(a), 15, Mar. 23, 2018, 132 Stat. 1058, 1059.)
 
 #### References in Text
 
@@ -167,4 +195,12 @@ The Federal Water Pollution Control Act, referred to in subsec. (c)(3), is act J
 The Toxic Substances Control Act, referred to in subsec. (c)(4), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
 The Safe Drinking Water Act, referred to in subsec. (c)(5), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(B)(ii)(III). Pub. L. 115–141, §14(a)(1), added subcl. (III).
+
+Subsec. (a)(1)(B)(iii), (iv). Pub. L. 115–141, §14(a)(2), added cls. (iii) and (iv).
+
+Subsec. (a)(3). Pub. L. 115–141, §15, amended par. (3) generally. Prior to amendment, text read as follows: "There is authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2002 through 2006."
 

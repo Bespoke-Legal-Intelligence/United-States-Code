@@ -16,7 +16,7 @@
 
 &emsp;(7) Such directors of such other professional or auxiliary services as may be appointed to suit the needs of the Department, who shall be responsible to the Under Secretary for Health for the operation of their respective services.
 
-&emsp;(8) The Director of the National Center for Preventive Health, who shall be responsible to the Under Secretary for Health for the operation of the Center.
+&emsp;(8) The Director of the National Center for Preventive Health, who shall be responsible tothe Under Secretary for Health for the operation of the Center.
 
 &emsp;(9) The Director of Physician Assistant Services, who shall—
 
@@ -64,7 +64,7 @@
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(9). Pub. L. 111–163 added par. (9) and struck out former par. (9) which read as follows: "The Advisor on Physician Assistants, who shall be a physician assistant with appropriate experience and whoshall advise the Under Secretary for Health on all matters relating to the utilization and employment of physician assistants in the Administration."
+<b>2010</b>—Subsec. (a)(9). Pub. L. 111–163 added par. (9) and struck out former par. (9) which read as follows: "The Advisor on Physician Assistants, who shall be a physician assistant with appropriate experience and who shall advise the Under Secretary for Health on all matters relating to the utilization and employment of physician assistants in the Administration."
 
 <b>2002</b>—Subsec. (a)(5). Pub. L. 107–135 inserted ", and report directly to," after "responsible to".
 

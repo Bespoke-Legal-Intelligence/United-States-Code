@@ -10,7 +10,7 @@ The President is hereby authorized to accept membership for the United States in
 
 > that since wars begin in the minds of men, it is in the minds of men that the defences of peace must be constructed;
 
-> that ignorance of each other's ways and lives has been a common cause, throughout the history of mankind,of that suspicion and mistrust between the peoples of the world through which their differences have all too often broken into war;
+> that ignorance of each other's ways and lives has been a common cause, throughout the history of mankind, of that suspicion and mistrust between the peoples of the world through which their differences have all too often broken into war;
 
 > that the great and terrible war which has now ended was a war made possible by the denial of the democratic principles of the dignity, equality and mutual respect of men, and by the propagation, in their place, through ignorance and prejudice, of the doctrine of the inequality of men and races;
 

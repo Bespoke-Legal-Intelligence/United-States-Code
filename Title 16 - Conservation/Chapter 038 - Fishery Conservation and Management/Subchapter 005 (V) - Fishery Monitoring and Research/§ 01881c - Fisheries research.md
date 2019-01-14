@@ -6,7 +6,7 @@ The Secretary shall initiate and maintain, in cooperation with the Councils, a c
 
 #### (b) Strategic plan
 
-Within one year after October 11, 1996, and at least every 3 years thereafter, the Secretary shall develop and publish in the Federal Register a strategic plan for fisheries research for the 5 years immediately following such publication. The plan shall—
+Within one year after October 11, 1996, and at least every 3 years thereafter, the Secretaryshall develop and publish in the Federal Register a strategic plan for fisheries research for the 5 years immediately following such publication. The plan shall—
 
 &emsp;(1) identify and describe a comprehensive program with a limited number of priority objectives for research in each of the areas specified in subsection (c);
 
@@ -34,11 +34,27 @@ Areas of research are as follows:
 
 In developing the plan required under subsection (a), the Secretary shall consult with relevant Federal, State, and international agencies, scientific and technical experts, and other interested persons, public and private, and shall publish a proposed plan in the Federal Register for the purpose of receiving public comment on the plan. The Secretary shall ensure that affected commercial fishermen are actively involved in the development of the portion of the plan pertaining to conservation engineering research. Upon final publication in the Federal Register, the plan shall be submitted by the Secretary to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.
 
-(Pub. L. 94–265, title IV, §404, as added Pub. L. 104–297, title II, §205, Oct. 11, 1996, 110 Stat. 3609; amended Pub. L. 109–479, title II, §203(b), Jan. 12, 2007, 120 Stat. 3614.)
+#### (e) Improving data collection and analysis
+
+#### (1) In general
+
+&emsp;Not later than 1 year after December 31, 2018, the Secretary shall develop, in consultation with the science and statistical committees of the Councils established under section 1852(g) of this title and the Marine Fisheries Commissions, and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives a report on facilitating greater incorporation of data, analysis, stock assessments, and surveys from State agencies and nongovernmental sources described in paragraph (2), to the extent such information is consistent with section 1851(a)(2) of this title, into fisheries management decisions.
+
+#### (2) Content
+
+&emsp;In developing the report under paragraph (1), the Secretary shall—
+
+&emsp;&emsp;(A) identify types of data and analysis, especially concerning recreational fishing, that can be used for purposes of this chapter as the basis for establishing conservation and management measures as required by section 1853(a)(1) of this title, including setting standards for the collection and use of that data and analysis in stock assessments and surveys and for other purposes;
+
+&emsp;&emsp;(B) provide specific recommendations for collecting data and performing analyses identified as necessary to reduce uncertainty in and improve the accuracy of future stock assessments, including whether such data and analysis could be provided by nongovernmental sources; and
+
+&emsp;&emsp;(C) consider the extent to which the acceptance and use of data and analyses identified in the report in fishery management decisions is practicable and compatible with the requirements of section 1851(a)(2) of this title.
+
+(Pub. L. 94–265, title IV, §404, as added Pub. L. 104–297, title II, §205, Oct. 11, 1996, 110 Stat. 3609; amended Pub. L. 109–479, title II, §203(b), Jan. 12, 2007, 120 Stat. 3614; Pub. L. 115–405, §201(a), Dec. 31, 2018, 132 Stat. 5358.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (e)(2)(A), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Prior Provisions
 
@@ -46,11 +62,13 @@ A prior section 404 of Pub. L. 94–265, amended section 1362 of this title and 
 
 #### Amendments
 
+<b>2018</b>—Subsec. (e). Pub. L. 115–405 added subsec. (e).
+
 <b>2007</b>—Subsec. (c)(4). Pub. L. 109–479 struck out "under section 1881 of this title" after "system".
 
 #### Change of Name
 
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of Houseof Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Study of Contribution of Bycatch to Charitable Organizations
 

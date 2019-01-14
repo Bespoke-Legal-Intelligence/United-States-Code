@@ -18,7 +18,7 @@ The Secretary of Health and Human Services, after consultation with the Secretar
 
 The Secretary of Health and Human Services shall approve State agencies or private, nonprofit entities as accrediting bodies to act on behalf of such Secretary in implementing the certification and quality assurance programs in accordance with the requirements of this section. In making such approvals the Secretary of Health and Human Services shall—
 
-&emsp;(1) oversee and review the performance of any accrediting body acting on behalf of the Secretary to ensure that such accrediting body is in compliance with the requirements of the certification program under this section; and
+&emsp;(1) oversee and review the performance of any accrediting body acting on behalf of theSecretary to ensure that such accrediting body is in compliance with the requirements of the certification program under this section; and
 
 &emsp;(2) have the right to obtain from an accrediting body acting on behalf of the Secretary and from any laboratory that may be certified by such a body all records and materials that may be necessary for the oversight and review required by paragraph (1).
 

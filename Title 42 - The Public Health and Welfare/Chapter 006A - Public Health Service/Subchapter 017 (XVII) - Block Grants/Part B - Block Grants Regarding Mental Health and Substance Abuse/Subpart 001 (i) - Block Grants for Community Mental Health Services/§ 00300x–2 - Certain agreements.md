@@ -56,7 +56,7 @@ Section 300x–1(b)(9) of this title, referred to in subsec. (a)(1)(A), was repe
 
 #### Prior Provisions
 
-A prior section 300x–2, act July 1, 1944, ch. 373, title XIX, §1914, formerly §1913, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 545; renumbered §1914 and amended Oct. 19, 1984, Pub. L. 98–509, title I, §106(a), (c)–(e), (g), 98 Stat. 2358, 2359; Nov. 18, 1988, Pub. L. 100–690, title II, §2022(e), 102 Stat. 4197; Aug. 16, 1989, Pub. L. 101–93, §2(c)(1), 103 Stat. 605, related to payment to States of allotments of grants for alcohol, drug abuse, and mental health services, prior to repeal by Pub. L. 102–321, §201(2).
+A prior section 300x–2, act July 1, 1944, ch. 373, title XIX, §1914, formerly §1913, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 545; renumbered §1914 and amended Oct. 19, 1984, Pub. L. 98–509, title I, §106(a), (c)–(e), (g), 98 Stat. 2358, 2359; Nov. 18, 1988, Pub. L. 100–690, title II, §2022(e), 102 Stat. 4197; Aug. 16, 1989,Pub. L. 101–93, §2(c)(1), 103 Stat. 605, related to payment to States of allotments of grants for alcohol, drug abuse, and mental health services, prior to repeal by Pub. L. 102–321, §201(2).
 
 A prior section 1913 of act July 1, 1944, was classified to section 300x–1b of this title and repealed by Pub. L. 102–321.
 

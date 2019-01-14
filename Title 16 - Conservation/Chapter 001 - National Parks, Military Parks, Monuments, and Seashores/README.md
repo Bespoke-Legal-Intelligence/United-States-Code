@@ -2202,6 +2202,7 @@
 | 450jj–7. | Development and management plan for East Saint Louis, Illinois, portion of Memorial. |
 | 450jj–8. | Repealed. |
 | 450jj–9. | Activities in Memorial area pending submission of plan. |
+| 450jj–10. | Designation of Gateway Arch National Park. |
 | [450kk.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450kk%20-%20Fort%20Union%20National%20Monument%3B%20acquisition%20of%20site%20and%20other%20lands%3B%20reversions%20and%20reservations.md) | Fort Union National Monument; acquisition of site and other lands; reversions and reservations. |
 | 450kk–1. | Establishment; publication in Federal Register; additional properties. |
 | 450<i>ll.</i> | Booker T. Washington National Monument; acquisition of site. |
@@ -3657,11 +3658,19 @@
 | [460bbbb.](Subchapter%20139%20%28CXXXIX%29%20-%20Martin%20Luther%20King%2C%20Jr.%20National%20Historical%20Park/%C2%A7%2000460bbbb%20-%20Establishment%20of%20Martin%20Luther%20King%2C%20Jr.%20National%20Historical%20Park.md) | Establishment of Martin Luther King, Jr. National Historical Park. |
 | 460bbbb–1. | Administration. |
 | 460bbbb–2. | Authority of Secretary regarding property and concessions. |
-| 460bbbb–3. | Establishment of Advisory Commission. |
+| 460bbbb–3. | Omitted. |
 | 460bbbb–4. | Entrance or admission fees prohibited. |
 | 460bbbb–5. | Authorization of appropriations; limitation on authority. |
 | 460bbbb–6. | Minimizing adverse impacts on preservation district. |
-| 460bbbb–7. | Submission of comprehensive general management plan. |
+| 460bbbb–7. | Omitted. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER CXL—STE. GENEVIEVE NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [460cccc.](Subchapter%20140%20%28CXL%29%20-%20Ste.%20Genevieve%20National%20Historical%20Park/%C2%A7%2000460cccc%20-%20Ste.%20Genevieve%20National%20Historical%20Park.md) | Ste. Genevieve National Historical Park. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3860,3 +3869,4 @@
 - [Subchapter 137 (CXXXVII) - Dominguez-Escalante National Conservation Area](Subchapter%20137%20%28CXXXVII%29%20-%20Dominguez-Escalante%20National%20Conservation%20Area/README.md)
 - [Subchapter 138 (CXXXVIII) - Nellis Dunes Off-Highway Vehicle Recreation Area](Subchapter%20138%20%28CXXXVIII%29%20-%20Nellis%20Dunes%20Off-Highway%20Vehicle%20Recreation%20Area/README.md)
 - [Subchapter 139 (CXXXIX) - Martin Luther King, Jr. National Historical Park](Subchapter%20139%20%28CXXXIX%29%20-%20Martin%20Luther%20King%2C%20Jr.%20National%20Historical%20Park/README.md)
+- [Subchapter 140 (CXL) - Ste. Genevieve National Historical Park](Subchapter%20140%20%28CXL%29%20-%20Ste.%20Genevieve%20National%20Historical%20Park/README.md)

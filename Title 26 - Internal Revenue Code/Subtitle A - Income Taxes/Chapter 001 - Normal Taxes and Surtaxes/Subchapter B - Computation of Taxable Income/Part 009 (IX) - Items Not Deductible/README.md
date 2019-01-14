@@ -33,11 +33,13 @@
 | [280E.](%C2%A7%2000280E%20-%20Expenditures%20in%20connection%20with%20the%20illegal%20sale%20of%20drugs.md) | Expenditures in connection with the illegal sale of drugs. |
 | [280F.](%C2%A7%2000280F%20-%20Limitation%20on%20depreciation%20for%20luxury%20automobiles%3B%20limitation%20where%20certain%20property%20used%20for%20personal%20purposes.md) | Limitation on depreciation for luxury automobiles; limitation where certain property used for personal purposes. |
 | [280G.](%C2%A7%2000280G%20-%20Golden%20parachute%20payments.md) | Golden parachute payments. |
-| [280H.](%C2%A7%2000280H%20-%20Limitation%20on%20certain%20amounts%20paid%20to%20employee-owners%20by%20personal%20service%20corporations%20electing%20alternative%20taxable%20years.md) | Limitation on certain amounts paid to owner-employees by personal service corporations electing alternative taxable years.<sup>1</sup> |
+| [280H.](%C2%A7%2000280H%20-%20Limitation%20on%20certain%20amounts%20paid%20to%20employee-owners%20by%20personal%20service%20corporations%20electing%20alternative%20taxable%20years.md) | Limitation on certain amounts paid to employee-owners by personal service corporations electing alternative taxable years. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(59), Mar. 23, 2018, 132 Stat. 1187, substituted "Limitation on certain amounts paid to employee-owners by personal service corporations electing alternative taxable years" for "Limitation on certain amounts paid to owner-employees by personal service corporations electing alternative taxable years" in item 280H.
 
 <b>2017</b>—Pub. L. 115–97, title I, §14222(b), Dec. 22, 2017, 131 Stat. 2220, added item 267A.
 
@@ -72,8 +74,6 @@
 <b>1964</b>—Pub. L. 88–272, title II, §§207(b)(3)(B), 227(b)(4), Feb. 26, 1964, 78 Stat. 42, 98, inserted "or domestic iron ore" in item 272, and added item 275.
 
 <b>1962</b>—Pub. L. 87–834, §4(a)(2), Oct. 16, 1962, 76 Stat. 976, added item 274.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

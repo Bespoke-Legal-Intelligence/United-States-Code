@@ -1,6 +1,6 @@
 ### §11502. Withholding State and local income tax by rail carriers
 
-(a) No part of the compensation paid by a rail carrier providing transportation subject to thejurisdiction of the Board under this part to an employee who performs regularly assigned duties as such an employee on a railroad in more than one State shall be subject to the income tax laws of any State or subdivision of that State, other than the State or subdivision thereof of the employee's residence.
+(a) No part of the compensation paid by a rail carrier providing transportation subject to the jurisdiction of the Board under this part to an employee who performs regularly assigned duties as such an employee on a railroad in more than one State shall be subject to the income tax laws of any State or subdivision of that State, other than the State or subdivision thereof of the employee's residence.
 
 (b) A rail carrier withholding pay from an employee under subsection (a) of this section shall file income tax information returns and other reports only with the State and subdivision of residence of the employee.
 
@@ -25,4 +25,8 @@ Section 11505, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1448; Pub. L. 99–521,
 Section 11506, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1448; Pub. L. 102–240, title IV, §4005, Dec. 18, 1991, 105 Stat. 2146, related to registration of motor carriers by a State.
 
 Section 11507, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1449; Pub. L. 98–473, title II, §233, Oct. 12, 1984, 98 Stat. 2031, related to prison-made property governed by State law.
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

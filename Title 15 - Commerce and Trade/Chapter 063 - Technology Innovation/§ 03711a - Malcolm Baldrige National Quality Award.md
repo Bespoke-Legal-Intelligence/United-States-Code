@@ -90,13 +90,13 @@ Findings.—The Congress finds and declares that—
 
 &emsp;"(3) strategic planning for quality and quality improvement programs, through a commitment to excellence in manufacturing and services, are becoming more and more essential to the well-being of our Nation's economy and our ability to compete effectively in the global marketplace;
 
-&emsp;"(4) improved management understanding of the factory floor, worker involvement in quality, and greater emphasis on statistical process control canlead to dramatic improvements in the cost and quality of manufactured products;
+&emsp;"(4) improved management understanding of the factory floor, worker involvement in quality, and greater emphasis on statistical process control can lead to dramatic improvements in the cost and quality of manufactured products;
 
 &emsp;"(5) the concept of quality improvement is directly applicable to small companies as well as large, to service industries as well as manufacturing, and to the public sector as well as private enterprise;
 
 &emsp;"(6) in order to be successful, quality improvement programs must be management-led and customer-oriented and this may require fundamental changes in the way companies and agencies do business;
 
-&emsp;"(7) several major industrial nations have successfully coupled rigorous private sector quality audits with national awards giving special recognition to those enterprises the audits identify as the very best; and
+&emsp;"(7) several major industrial nations have successfully coupled rigorous private sector quality auditswith national awards giving special recognition to those enterprises the audits identify as the very best; and
 
 &emsp;"(8) a national quality award program of this kind in the United States would help improve quality and productivity by—
 

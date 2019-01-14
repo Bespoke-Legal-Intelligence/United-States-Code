@@ -32,7 +32,7 @@ It is the sense of Congress that the United States should further global energy 
 
 #### (2) Matters to be included
 
-&emsp;The report required by paragraph (1) shall include a detailed description of United States participation in the EITI, bilateral and multilateral diplomatic efforts to further participation in the EITI, and other United States initiatives to strengthen energy security, deter energy kleptocracy, and promote transparency in the extractive industries.
+&emsp;The report required by paragraph (1) shall include a detailed description of United Statesparticipation in the EITI, bilateral and multilateral diplomatic efforts to further participation in the EITI, and other United States initiatives to strengthen energy security, deter energy kleptocracy, and promote transparency in the extractive industries.
 
 #### (e) Authorization of appropriations
 

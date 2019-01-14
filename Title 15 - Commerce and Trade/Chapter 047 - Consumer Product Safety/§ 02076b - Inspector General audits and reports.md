@@ -40,7 +40,7 @@ Not later than 30 days after August 14, 2008, the Commission shall establish and
 
 This Act, referred to in subsec. (a), is Pub. L. 110–314, Aug. 14, 2008, 122 Stat. 3016, known as the Consumer Product Safety Improvement Act of 2008. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2051 of this title and Tables.
 
-The Consumer Product Safety Act, referred to in subsec. (b)(1), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
+The Consumer Product Safety Act, referred to in subsec. (b)(1), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207,which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 
 #### Codification
 

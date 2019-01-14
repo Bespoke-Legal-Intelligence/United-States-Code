@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From amounts to be appropriated under section 282a(b) of this title, the Secretary of Health and Human Services, acting through the Director of NIH, (in this subsection referred to as the "Secretary") in consultation with the Director of the National Science Foundation, the Secretary of Energy, and other agency heads when necessary, may allocate funds for the national research institutes and national centers to make grants for the purpose of improving the public health through demonstration projects for biomedical research at the interface between the biological, behavioral, and social sciences and the physical, chemical, mathematical, and computational sciences.
+&emsp;From amounts to be appropriated under section 282a(b) of this title, the Secretary ofHealth and Human Services, acting through the Director of NIH, (in this subsection referred to as the "Secretary") in consultation with the Director of the National Science Foundation, the Secretary of Energy, and other agency heads when necessary, may allocate funds for the national research institutes and national centers to make grants for the purpose of improving the public health through demonstration projects for biomedical research at the interface between the biological, behavioral, and social sciences and the physical, chemical, mathematical, and computational sciences.
 
 #### (2) Goals, priorities, and methods; interagency collaboration
 
@@ -56,5 +56,5 @@ Section was enacted as part of the National Institutes of Health Reform Act of 2
 
 #### Effective Date
 
-Section applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscalyears, see section 109 of Pub. L. 109–482, set out as an Effective Date of 2007 Amendment note under section 281 of this title.
+Section applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as an Effective Date of 2007 Amendment note under section 281 of this title.
 

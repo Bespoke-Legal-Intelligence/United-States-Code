@@ -26,7 +26,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 &emsp;&emsp;(A) supplement the aggregate amount of assistance provided under this section with an amount of funds from sources other than this section equal to not less than 5 percent of the amount provided under this section; and
 
-&emsp;&emsp;(B) in addition to supplemental amounts provided in accordance with subparagraph\(A), if the applicant uses more than 5 percent of the amount of assistance provided under this section for services under subsection (d)(1)(L), provide supplemental funds from sources other than this section in an amount equal to the amount so used in excess of 5 percent.
+&emsp;&emsp;(B) in addition to supplemental amounts provided in accordance with subparagraph (A), if the applicant uses more than 5 percent of the amount of assistance provided under this section for services under subsection (d)(1)(L), provide supplemental funds from sources other than this section in an amount equal to the amount so used in excess of 5 percent.
 
 #### (2) Supplemental funds
 
@@ -68,7 +68,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (2) Endowment trust for supportive services
 
-&emsp;In using grant amounts under this section made available in fiscal year 2000 or thereafter for supportive services under paragraph (1)(L), a public housing agency may deposit such amounts in an endowment trust to provide supportive services over such period of time as the agency determines. Such amounts shall be provided to the agency by the Secretary in a lump sum when requested by the agency, shall be invested in a wise and prudent manner, and shall be used (together with any interest thereon earned) only for eligible uses pursuant to paragraph (1)(L). A public housing agency may use amounts in an endowment trust under this paragraph in conjunction with other amounts donated or otherwise made available to the trust for similar purposes.
+&emsp;In using grant amounts under this section made available in fiscal year 2000 or thereafter for supportive services under paragraph (1)(L), a public housing agency may deposit such amounts in an endowment trust to provide supportive services over such period of time as the agency determines. Such amounts shall be provided to the agency by the Secretary in a lump sum when requested by the agency, shallbe invested in a wise and prudent manner, and shall be used (together with any interest thereon earned) only for eligible uses pursuant to paragraph (1)(L). A public housing agency may use amounts in an endowment trust under this paragraph in conjunction with other amounts donated or otherwise made available to the trust for similar purposes.
 
 #### (e) Application and selection
 

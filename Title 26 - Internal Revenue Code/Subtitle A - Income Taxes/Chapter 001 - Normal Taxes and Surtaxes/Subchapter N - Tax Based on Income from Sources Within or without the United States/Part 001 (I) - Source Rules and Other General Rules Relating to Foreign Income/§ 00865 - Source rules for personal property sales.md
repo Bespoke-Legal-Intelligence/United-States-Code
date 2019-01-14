@@ -56,7 +56,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (A) Depreciable personal property
 
-&emsp;&emsp;The term "depreciable personal property" means any personal property if the adjustedbasis of such property includes depreciation adjustments.
+&emsp;&emsp;The term "depreciable personal property" means any personal property if the adjusted basis of such property includes depreciation adjustments.
 
 #### (B) Depreciation adjustments
 
@@ -130,7 +130,7 @@ If—
 
 &emsp;(3) more than 50 percent of the gross income of such affiliate for the 3-year period ending with the close of such affiliate's taxable year immediately preceding the year in which the sale occurred was derived from the active conduct of a trade or business in such foreign country,
 
-> any gain from such sale shall be sourced outside the United States. For purposes of paragraphs (2) and (3), the United States resident may elect to treat an affiliate and all other corporations which are wholly owned (directly or indirectly) by the affiliate as one corporation.
+> any gain from such sale shall be sourced outside the United States. For purposes of paragraphs\(2) and (3), the United States resident may elect to treat an affiliate and all other corporations which are wholly owned (directly or indirectly) by the affiliate as one corporation.
 
 #### (g) United States resident; nonresident
 
@@ -234,7 +234,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) applying the rules of this section to income derived from trading in futures contracts, forward contracts, options contracts, and other instruments, and
 
-&emsp;(3) providing that, subject to such conditions (which may include provisions comparable to section 877) as may be provided in such regulations, subsections (e)(1)(B) and (g)(2) shall not apply for purposes of sections 931, 933, and 936.
+&emsp;(3) providing that, subject to such conditions (which may include provisions comparable to section 877) as may be provided in such regulations, subsections (e)(1)(B) and (g)(2) shall not apply for purposes of sections 931 and 933.
 
 #### (k) Cross references
 
@@ -242,9 +242,11 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;<b>(2) For sourcing of income from certain foreign currency transactions, see section 988.</b>
 
-(Added Pub. L. 99–514, title XII, §1211(a), Oct. 22, 1986, 100 Stat. 2533; amended Pub. L. 100–647, title I, §1012(d)(1)–(6), (8), (9), (11), (12), Nov. 10, 1988, 102 Stat. 3497–3499; Pub. L. 101–508, title XI, §11813(b)(18), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13239(c), Aug. 10, 1993, 107 Stat. 509; Pub. L. 104–188, title I, §1704(f)(4)(A), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 106–170, titleV, §532(c)(1)(E), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 115–97, title I, §14301(c)(6), Dec. 22, 2017, 131 Stat. 2222.)
+(Added Pub. L. 99–514, title XII, §1211(a), Oct. 22, 1986, 100 Stat. 2533; amended Pub. L. 100–647, title I, §1012(d)(1)–(6), (8), (9), (11), (12), Nov. 10, 1988, 102 Stat. 3497–3499; Pub. L. 101–508, title XI, §11813(b)(18), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13239(c), Aug. 10, 1993, 107 Stat. 509; Pub. L. 104–188, title I, §1704(f)(4)(A), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 106–170, title V, §532(c)(1)(E), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 115–97, title I, §14301(c)(6), Dec. 22, 2017, 131 Stat. 2222; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xi), Mar. 23, 2018, 132 Stat. 1208.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (j)(3). Pub. L. 115–141 substituted "and 933" for ", 933, and 936".
 
 <b>2017</b>—Subsec. (h)(1)(B). Pub. L. 115–97 substituted "907" for "902, 907,".
 
@@ -340,7 +342,9 @@ Special rule for foreign persons.—In the case of any foreign person other than
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into accountprior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

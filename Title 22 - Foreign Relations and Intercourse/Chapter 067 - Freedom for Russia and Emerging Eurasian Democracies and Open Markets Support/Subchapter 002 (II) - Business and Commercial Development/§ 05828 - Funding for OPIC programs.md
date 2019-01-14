@@ -16,3 +16,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 
 The Overseas Private Investment Corporation Act Amendments Act of 1992, referred to in subsec. (b), probably means the Overseas Private Investment Corporation Amendments Act of 1992, which was title I of H.R. 4996, 102d Congress, as passed by the House of Representatives. H.R. 4996 was enacted into law as Pub. L. 102–549 and title I was significantly revised and no longer contained provisions designating it as the Overseas Private Investment Corporation Amendments Act of 1992.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of this title.
+

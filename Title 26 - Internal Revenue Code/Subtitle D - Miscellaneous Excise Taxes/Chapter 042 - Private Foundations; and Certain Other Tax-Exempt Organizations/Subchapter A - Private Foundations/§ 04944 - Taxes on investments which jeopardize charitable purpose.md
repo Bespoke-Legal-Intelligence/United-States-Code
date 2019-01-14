@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (2) Removal from jeopardy
 
-&emsp;An investment which jeopardizes the carrying out of exempt purposes shall be consideredto be removed from jeopardy when such investment is sold or otherwise disposed of, and the proceeds of such sale or other disposition are not investments which jeopardize the carrying out of exempt purposes.
+&emsp;An investment which jeopardizes the carrying out of exempt purposes shall be considered to be removed from jeopardy when such investment is sold or otherwise disposed of, and the proceeds of such sale or other disposition are not investments which jeopardize the carrying out of exempt purposes.
 
 (Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 511; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–596, §2(a)(1)(E), (2)(D), (3)(D), Dec. 24, 1980, 94 Stat. 3469–3471; Pub. L. 109–280, title XII, §1212(d), Aug. 17, 2006, 120 Stat. 1074.)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any institution of higher education (as such term is defined in section 1001(a) <sup>1</sup> of title 20)that receives National Science Foundation research support and has received at least $25,000,000 in total Federal research grants in the most recent fiscal year shall keep, maintain, and report annually to the National Science Foundation the universal record locator for a public website that contains information concerning its general approach to and mechanisms for transfer of technology and the commercialization of research results, including—
+Any institution of higher education (as such term is defined in section 1001(a) <sup>1</sup> of title 20) that receives National Science Foundation research support and has received at least $25,000,000 in total Federal research grants in the most recent fiscal year shall keep, maintain, and report annually to the National Science Foundation the universal record locator for a public website that contains information concerning its general approach to and mechanismsfor transfer of technology and the commercialization of research results, including—
 
 &emsp;(1) contact information for individuals and university offices responsible for technology transfer and commercialization;
 

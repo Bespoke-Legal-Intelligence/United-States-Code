@@ -34,7 +34,7 @@ The Secretary shall administer the recreation area in accordance with this subch
 
 #### (b) Management areas
 
-(1) The recreation area shall contain eight management areas, as generally depicted on themap referred to in section 460bbb–2(b) of this title. The Secretary may, pursuant to section 460bbb–2(b) of this title, make minor revisions or amendments to the boundaries of the management areas.
+(1) The recreation area shall contain eight management areas, as generally depicted on the map referred to in section 460bbb–2(b) of this title. The Secretary may, pursuant to section 460bbb–2(b) of this title, make minor revisions or amendments to the boundaries of the management areas.
 
 (2) The Secretary shall administer each management area within the recreation area in accordance with the following:
 

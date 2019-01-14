@@ -38,7 +38,7 @@ The Secretary of State, in consultation with the Secretary, may designate from t
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of State shall pay the necessary travel expenses of a Commissioner or an alternate Commissioner in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
+&emsp;&emsp;The Secretary of State shall pay the necessary travel expenses of a Commissioner or an alternate Commissioner in accordance with the Federal Travel Regulations andsections 5701, 5702, 5704 through 5708, and 5731 of title 5.
 
 #### (B) Reimbursement
 

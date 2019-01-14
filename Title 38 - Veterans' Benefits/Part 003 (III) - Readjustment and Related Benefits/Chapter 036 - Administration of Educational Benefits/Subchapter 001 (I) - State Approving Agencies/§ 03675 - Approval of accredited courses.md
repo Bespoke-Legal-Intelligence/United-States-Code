@@ -44,7 +44,7 @@
 
 (4) Notwithstanding paragraph (3), a qualified provider of entrepreneurship courses shall maintain such records as the Secretary determines to be necessary to comply with reporting requirements that apply under section 3684(a)(1) of this title with respect to eligible persons and veterans enrolled in an entrepreneurship course offered by the provider.
 
-(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 159, §1775; amended Pub. L. 89–358, §3(a)(8), Mar. 3, 1966, 80 Stat. 21; Pub. L. 94–502, title V, §§504, 513(a)(2), Oct. 15, 1976, 90 Stat. 2399, 2402; Pub. L. 96–466, title VIII, §801(d), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3675 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §312, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 103–446, title VI, §605(a)(2)(A), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 104–275, title I, §103(c), Oct. 9, 1996, 110 Stat. 3326; Pub. L. 108–183, title III, §305(a), Dec. 16, 2003, 117 Stat. 2660; Pub. L. 108–454, title I, §110(c)(1), Dec. 10, 2004, 118 Stat. 3605; Pub. L. 111–377, title II, §203(c), Jan. 4, 2011, 124 Stat. 4125; Pub. L. 114–315, title IV, §§408(b), 409(c), 410(b), Dec. 16, 2016, 130 Stat. 1558, 1560, 1561.)
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 159, §1775; amended Pub. L. 89–358, §3(a)(8), Mar. 3, 1966, 80 Stat. 21; Pub. L. 94–502, title V, §§504, 513(a)(2), Oct. 15, 1976, 90 Stat. 2399, 2402; Pub. L. 96–466, title VIII, §801(d), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec.18, 1989, 103 Stat. 2092; renumbered §3675 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §312, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 103–446, title VI, §605(a)(2)(A), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 104–275, title I, §103(c), Oct. 9, 1996, 110 Stat. 3326; Pub. L. 108–183, title III, §305(a), Dec. 16, 2003, 117 Stat. 2660; Pub. L. 108–454, title I, §110(c)(1), Dec. 10, 2004, 118 Stat. 3605; Pub. L. 111–377, title II, §203(c), Jan. 4, 2011, 124 Stat. 4125; Pub. L. 114–315, title IV, §§408(b), 409(c), 410(b), Dec. 16, 2016, 130 Stat. 1558, 1560, 1561.)
 
 #### References in Text
 
@@ -72,7 +72,7 @@ Subsec. (b). Pub. L. 111–377, §203(c)(2), inserted "the Secretary or" after "
 
 <b>2003</b>—Subsec. (c). Pub. L. 108–183 added subsec. (c).
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–275 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "As a condition to approval under this section, the State approving agency must find that adequate records are kept by the educational institution to show the progress of each eligible person or veteran and must include as a minimum (except for attendance) the requirements set forth in section 3676(c)(7) of this title. The State approving agency must also find that the educational institution maintains a written record of the previous education and training of the eligible person or veteran and clearly indicates that appropriate credit has been given by the institution for previouseducation and training, with the training period shortened proportionately and the eligible person or veteran and the Secretary so notified."
+<b>1996</b>—Subsec. (b). Pub. L. 104–275 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "As a condition to approval under this section, the State approving agency must find that adequate records are kept by the educational institution to show the progress of each eligible person or veteran and must include as a minimum (except for attendance) the requirements set forth in section 3676(c)(7) of this title. The State approving agency must also find that the educational institution maintains a written record of the previous education and training of the eligible person or veteran and clearly indicates that appropriate credit has been given by the institution for previous education and training, with the training period shortened proportionately and the eligible person or veteran and the Secretary so notified."
 
 <b>1994</b>—Subsec. (a)(2)(B). Pub. L. 103–446 substituted "Except as provided in section 3672(e) of this title, a State" for "A State".
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 108–183 applicable to courses approved by State approving
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–446 applicable with respect to programs of education exclusively by correspondence and to correspondence-residence courses commencing more than 90 days after Nov. 2, 1994, see section 605(b) of Pub. L. 103–446, set out as a note under section 3672 of this title.
+Amendment by Pub. L. 103–446 applicable with respect to programs of education exclusively by correspondence and to correspondence-residence coursescommencing more than 90 days after Nov. 2, 1994, see section 605(b) of Pub. L. 103–446, set out as a note under section 3672 of this title.
 
 #### Effective Date of 1980 Amendment
 

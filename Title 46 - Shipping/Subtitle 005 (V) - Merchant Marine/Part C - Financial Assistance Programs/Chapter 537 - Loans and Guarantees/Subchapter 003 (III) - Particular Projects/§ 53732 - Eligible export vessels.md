@@ -68,7 +68,7 @@ Priority of documented vessels.—The Administrator may not make a commitment to
 
 (d)
 
-Restriction on Transfer of Vessel.—The Administrator may not guarantee or make acommitment to guarantee an obligation for an eligible export vessel unless the owner of the vessel agrees with the Administrator that the vessel will not be transferred to a country designated by the Secretary of Defense as a country whose interests are hostile to the interests of the United States.
+Restriction on Transfer of Vessel.—The Administrator may not guarantee or make a commitment to guarantee an obligation for an eligible export vessel unless the owner of the vessel agrees with the Administrator that the vessel will not be transferred to a country designated by the Secretary of Defense as a country whose interests are hostile to the interests of the United States.
 
 (e)
 
@@ -140,7 +140,7 @@ June 29, 1936, ch. 858, title XI, §1103(g), as added Pub. L. 103–160, div. A,
 
 46 App.:1273(g)(2).
 
-In subsection (f), the source provides that the authority to issue commitments to guarantee obligations for eligible export vessels expires after the later of three events. The first event, which is "(A) the 5th anniversary of the date on which the Secretary publishes final regulations setting forth the application procedures for the issuance of commitments to guarantee obligations for eligible export vessels", is omitted because the final regulations were published on September 16, 1994. See 59 Fed. Reg. 47548. The second event, which is "(B) the last day of any 5-year period in which funding and guarantee authority for obligations for eligible export vessels have been continuously available", is omitted because that date was November 11, 1998, five years after enactment of the Department of Defense Appropriations Act, 1994 (Pub. L. 103–139, Nov. 11, 1993, 107 Stat. 1418).
+In subsection (f), the source provides that the authority to issue commitments to guarantee obligations for eligible export vessels expires after the later of three events. The first event, which is "(A) the 5th anniversary of the date on which the Secretary publishes final regulations setting forth the application procedures for the issuance of commitments to guarantee obligations for eligible export vessels", is omitted because the finalregulations were published on September 16, 1994. See 59 Fed. Reg. 47548. The second event, which is "(B) the last day of any 5-year period in which funding and guarantee authority for obligations for eligible export vessels have been continuously available", is omitted because that date was November 11, 1998, five years after enactment of the Department of Defense Appropriations Act, 1994 (Pub. L. 103–139, Nov. 11, 1993, 107 Stat. 1418).
 
 #### Amendments
 

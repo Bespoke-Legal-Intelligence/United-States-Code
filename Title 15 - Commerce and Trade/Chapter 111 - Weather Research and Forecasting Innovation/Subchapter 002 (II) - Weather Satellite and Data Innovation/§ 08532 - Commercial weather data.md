@@ -24,7 +24,7 @@ Notwithstanding any other provision of law, the Secretary of Commerce may enter 
 
 &emsp;&emsp;&emsp;(i) how standards will be set to ensure that data is reliable and effective;
 
-&emsp;&emsp;&emsp;(ii) how data may be acquired through commercial experimental or innovative techniques and then evaluated for integration into operational use;
+&emsp;&emsp;&emsp;(ii) how data may be acquired through commercial experimental or innovativetechniques and then evaluated for integration into operational use;
 
 &emsp;&emsp;&emsp;(iii) how to guarantee public access to all forecast-critical data to ensure that the United States weather industry and the public continue to have access to information critical to their work; and
 
@@ -60,7 +60,7 @@ Notwithstanding any other provision of law, the Secretary of Commerce may enter 
 
 #### (3) Authorization of appropriations
 
-&emsp;For each of fiscal years 2017 through 2020, there are authorized to be appropriated forprocurement, acquisition, and construction at National <sup>1</sup> Environmental Satellite, Data, and Information Service, $6,000,000 to carry out this subsection.
+&emsp;For each of fiscal years 2019 through 2023, there are authorized to be appropriated for procurement, acquisition, and construction at the National Environmental Satellite, Data, and Information Service, $6,000,000 to carry out this subsection.
 
 #### (d) Obtaining future data
 
@@ -78,7 +78,11 @@ If an assessment under subsection (c)(2)(B) demonstrates the ability of commerci
 
 The Under Secretary shall continue to meet the international meteorological agreements into which the Under Secretary has entered, including practices set forth through World Meteorological Organization Resolution 40.
 
-(Pub. L. 115–25, title III, §302, Apr. 18, 2017, 131 Stat. 103.)
+(Pub. L. 115–25, title III, §302, Apr. 18, 2017, 131 Stat. 103; Pub. L. 115–423, §7(b), Jan. 7, 2019, 132 Stat. 5461.)
+
+#### Amendments
+
+<b>2019</b>—Subsec. (c)(3). Pub. L. 115–423 substituted "2019 through 2023" for "2017 through 2020" and inserted "the" before "National".
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

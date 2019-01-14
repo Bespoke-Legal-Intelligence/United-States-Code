@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) being stated, insofar as practicable, in terms of performance;
 
-&emsp;(2) requiring the installation, carrying, or use of associated equipment (including fuel systems, ventilation systems, electrical systems, sound-producing devices, firefighting equipment, lifesaving devices, signaling devices, ground tackle, life- and grab-rails, and navigational equipment) on recreational vessels and classes of recreational vessels subject to this chapter, and prohibiting the installation, carrying, or use of associated equipment that does not conform with safety standards established under this section; and
+&emsp;(2) requiring the installation, carrying, or use of associated equipment (including fuel systems, ventilation systems, electrical systems, sound-producing devices, firefighting equipment, lifesaving devices, signaling devices, ground tackle, life- and grab-rails, and navigational equipment) on recreational vessels and classes of recreational vessels subject to this chapter, and prohibiting the installation, carrying, or use of associated equipmentthat does not conform with safety standards established under this section; and
 
 &emsp;(3) requiring or permitting the display of seals, labels, plates, insignia, or other devices for certifying or evidencing compliance with safety regulations and standards of the United States Government for recreational vessels and associated equipment.
 
@@ -22,7 +22,7 @@
 
 &emsp;(3) not compel substantial alteration of a recreational vessel or item of associated equipment that is in existence, or the construction or manufacture of which is begun before the effective date of the regulation, but subject to that limitation may require compliance or performance, to avoid a substantial risk of personal injury to the public, that the Secretary considers appropriate in relation to the degree of hazard that the compliance will correct; and
 
-&emsp;(4) consult with the National Boating Safety Advisory Council established under section 13110 of this title about the considerations referred to in clauses (1)–(3) of this subsection.
+&emsp;(4) consult with the National Boating Safety Advisory Committee established under section 15105 of this title about the considerations referred to in clauses (1)–(3) of this subsection.
 
 (d) Section 8903 of this title does not apply to a vessel being operated for bona fide dealer demonstrations provided without fee to business invitees. However, if on the basis of substantial evidence, the Secretary decides under this section that requiring vessels so operated to be under the control of licensed individuals is necessary for boating safety, then the Secretary may prescribe regulations requiring the licensing of individuals controlling these vessels in the same manner as provided in chapter 89 of this title for individuals in control of vessels carrying passengers for hire.
 
@@ -34,7 +34,7 @@
 
 (2) Upon the request of a recreational vessel manufacturer to which this chapter applies, the Secretary may alter a model year for a model of recreational vessel of the manufacturer and associated equipment, by no more than 6 months from the model year described in paragraph (1).
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 530; Pub. L. 114–120, title III, §303(a), Feb. 8, 2016, 130 Stat. 53.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 530; Pub. L. 114–120, title III, §303(a), Feb. 8, 2016, 130 Stat. 53; Pub. L. 115–282, title VI, §601(c)(4)(B)(i), Dec. 4, 2018, 132 Stat. 4290.)
 
 Historical and Revision Notes
 
@@ -64,11 +64,95 @@ Section 4302(d) exempts dealer demonstration boats from the requirement of havin
 
 #### Amendments
 
+<b>2018</b>—Subsec. (c)(4). Pub. L. 115–282 substituted "Committee established under section 15105 of this title" for "Council established under section 13110 of this title".
+
 <b>2016</b>—Subsec. (e). Pub. L. 114–120 added subsec. (e).
 
 #### Effective Date of 2016 Amendment
 
 Pub. L. 114–120, title III, §303(b), Feb. 8, 2016, 130 Stat. 53, provided that: "This section \[amending this section\] shall only apply with respect to recreational vessels and associated equipment constructed or manufactured, respectively, on or after the date of enactment of this Act \[Feb. 8, 2016\]."
+
+#### Equipment Requirements; Exemption From Throwable Personal Flotation Devices Requirement
+
+Pub. L. 115–282, title VIII, §827, Dec. 4, 2018, 132 Stat. 4314, provided that: "Not later than one year after the date of enactment of this Act \[Dec. 4, 2018\], the Secretary of the department in which the Coast Guard is operating shall—
+
+&emsp;"(1) prescribe regulations in part 160 of title 46, Code of Federal Regulations, that treat a marine throw bag, as that term is commonly used in the commercial whitewater rafting industry, as a type of lifesaving equipment; and
+
+&emsp;"(2) revise section 175.17 of title 33, Code of Federal Regulations, to exempt rafts that are 16 feet or more overall in length from the requirement to carry an additional throwable personal flotation device when such a marine throw bag is onboard and accessible."
+
+#### Visual Distress Signals and Alternative Use
+
+Pub. L. 115–282, title VIII, §828, Dec. 4, 2018, 132 Stat. 4314, provided that:
+
+"(a)
+
+In General.—The Secretary of the department in which the Coast Guard is operating shall develop a performance standard for the alternative use and possession of visual distress alerting and locating signals as mandated by carriage requirements for recreational boats in subpart C of part 175 of title 33, Code of Federal Regulations.
+
+"(b)
+
+Regulations.—Not later than 180 days after the performance standard for alternative use and possession of visual distress alerting and locating signals is finalized, the Secretary shall revise part 175 of title 33, Code of Federal Regulations, to allow for carriage of such alternative signal devices."
+
+#### Large Recreational Vessel Regulations
+
+Pub. L. 115–232, div. C, title XXXV, §3529(a), Aug. 13, 2018, 132 Stat. 2318, provided that:
+
+"(a)
+
+In General.—
+
+&emsp;"(1)
+
+Issuance.—The Secretary of the department in which the Coast Guard is operating shall issue large recreational vessel regulations applicable to any recreational vessel (as defined in section 2101 of title 46, United States Code) over 300 gross tons as measured under section 14502 of such title, or an alternate tonnage measured under section 14302 of such title as prescribed by the Secretary under section 14104 of such title, that does not carry any cargo or passengers for hire.
+
+&emsp;"(2)
+
+Scope and content of regulations.—The regulations issued under this subsection—
+
+&emsp;&emsp;"(A) subject to subparagraph (B), shall be comparable to the code set forth in Merchant Shipping Notice 1851(M) (commonly referred to as the 'Large Commercial Yacht Code (LY3)'), as published by the Maritime and Coastguard Agency of the United Kingdom on August 20, 2013, or an equivalent code, regulation, or standard that is acceptable to the Secretary; and
+
+&emsp;&emsp;"(B) shall require that, as part of the review of an application for documentation of a vessel that is subject to the regulations, the owner shall disclose to the Coast Guard—
+
+&emsp;&emsp;&emsp;"(i) the identification and place of residence of such owner; and
+
+&emsp;&emsp;&emsp;"(ii) if the owner is an entity described in paragraph (2), (3), or (4) of section 12103(b) of title 46, United States Code, the beneficial owners of such entity.
+
+&emsp;"(3)
+
+Deadline.—The Secretary shall issue regulations required by paragraph (1) by not later than one year after the date of the enactment of this Act \[Aug. 13, 2018\].
+
+&emsp;"(4)
+
+Interim compliance.—Until the effective date of regulations issued under paragraph (1), a recreational vessel described in paragraph (1) shall not be subject to inspection under section 3301(7) of title 46, United States Code, if the Secretary determines, as part of the review of the application for documentation submitted for the vessel by the owner of the vessel and other materials as considered necessary by the Secretary, that the vessel complies with the code set forth in Merchant Shipping Notice 1851(M) (commonly referred to as the 'Large Commercial Yacht Code (LY3)'), as published by the Maritime and Coastguard Agency of the United Kingdom on August 20, 2013, or an equivalent code, regulation, or standard that is acceptable to the Secretary.
+
+&emsp;"(5)
+
+Definitions.—
+
+&emsp;&emsp;"(A)
+
+Beneficial owner.—In this subsection the term 'beneficial owner'—
+
+&emsp;&emsp;&emsp;"(i) means, with respect to an entity, each natural person who, directly or indirectly—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) exercises control over the entity through ownership interests, voting rights, agreements, or otherwise; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) has an interest in or receives substantial economic benefits from the assets of the entity; and
+
+&emsp;&emsp;&emsp;"(ii) does not include, with respect to an entity—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) a minor child;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) a person acting as a nominee, intermediary, custodian, or agent on behalf of another person;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) a person acting solely as an employee of the entity and whose control over or economic benefits from the entity derives solely from the employment status of the person;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) a person whose only interest in the entity is through a right of inheritance, unless the person otherwise meets the definition of 'beneficial owner' under this subparagraph; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) a creditor of the entity, unless the creditor otherwise meets the requirements of 'beneficial owner' under this subparagraph.
+
+&emsp;&emsp;"(B)
+
+Owner.—In this subsection, other than in subparagraph (A) of this paragraph, the term 'owner' means the person who is the eligible owner of the vessel for purposes of section 12103(b) of title 46, United States Code."
 
 #### Availability and Use of EPIRBs for Recreational Vessels
 

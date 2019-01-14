@@ -32,7 +32,7 @@ The Tennessee Valley Authority shall, to the maximum extent practicable, use cur
 
 #### (1) Disposition
 
-&emsp;Any personal property, including structures and facilities, that the Secretary determines cannot be efficiently managed and maintained either by the Forest Service or by lease or permit to other persons may be declared excess by the Secretary and—
+&emsp;Any personal property, including structures and facilities, that the Secretary determines cannot be efficiently managed and maintainedeither by the Forest Service or by lease or permit to other persons may be declared excess by the Secretary and—
 
 &emsp;&emsp;(A) sold by the Secretary on such terms and conditions as the Secretary may prescribe to achieve the maximum benefit to the Federal Government; or
 

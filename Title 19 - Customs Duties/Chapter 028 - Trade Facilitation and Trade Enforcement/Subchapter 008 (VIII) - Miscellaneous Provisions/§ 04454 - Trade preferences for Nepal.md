@@ -114,7 +114,7 @@ Congress makes the following findings:
 
 #### (2) Establishment of trade facilitation and capacity building program
 
-&emsp;Not later than 180 days after February 24, 2016, the President shall, in consultation with the Government of Nepal, establish a trade facilitation and capacity building program for Nepal—
+&emsp;Not later than 180 days after February 24, 2016, the President shall, in consultation withthe Government of Nepal, establish a trade facilitation and capacity building program for Nepal—
 
 &emsp;&emsp;(A) to enhance the central export promotion agency of Nepal to support successful exporters and to build awareness among potential exporters in Nepal about opportunities abroad and ways to manage trade documentation and regulations in the United States and other countries;
 

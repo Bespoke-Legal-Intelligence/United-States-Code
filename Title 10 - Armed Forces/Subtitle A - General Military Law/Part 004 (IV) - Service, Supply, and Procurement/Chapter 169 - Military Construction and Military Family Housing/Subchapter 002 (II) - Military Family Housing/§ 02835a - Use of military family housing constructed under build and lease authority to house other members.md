@@ -28,7 +28,7 @@ Section 2828(g) of this title (commonly known as the "Build to Lease program"), 
 
 #### Amendments
 
-<b>2017</b>—Subsec. (c). Pub. L. 115–91 substituted "until after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a notice of the intent to undertake the conversion." for "until—" and struck out subpars. (A) and (B) which required a notice of intent and a wait period and par. (2) which read as follows: "The notice required by paragraph (1) shall include—
+<b>2017</b>—Subsec. (c). Pub. L. 115–91 substituted "until after the end of the 14-day period beginning on the dateon which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a notice of the intent to undertake the conversion." for "until—" and struck out subpars. (A) and (B) which required a notice of intent and a wait period and par. (2) which read as follows: "The notice required by paragraph (1) shall include—
 
 &emsp;"(A) an explanation of the reasons for the conversion of the military family housing to military unaccompanied housing;
 

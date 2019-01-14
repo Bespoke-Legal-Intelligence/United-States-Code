@@ -4,7 +4,7 @@
 
 (b) When discharging a seaman, a consular officer who fails to require the payment of the wages due a seaman at the time, and of the extra wages due under subsection (a) of this section, is accountable to the United States Government for the total amount.
 
-(c) A seaman discharged under this section with the consent of the seaman is entitled towages up to the time of discharge, but not for any additional period.
+(c) A seaman discharged under this section with the consent of the seaman is entitled to wages up to the time of discharge, but not for any additional period.
 
 (d) If the seaman is discharged involuntarily, and it appears that the discharge was not because of neglect of duty, incompetency, or injury incurred on the vessel, the master shall provide the seaman with employment on a vessel agreed to by the seaman or shall provide the seaman with one month's extra wages.
 

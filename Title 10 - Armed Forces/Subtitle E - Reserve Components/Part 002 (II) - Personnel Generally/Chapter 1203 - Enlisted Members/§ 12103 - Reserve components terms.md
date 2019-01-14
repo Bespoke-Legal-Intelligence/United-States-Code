@@ -94,7 +94,7 @@ Subsec. (d). Pub. L. 97–252 extended to 270 from 180 days requirement for comm
 
 <b>1975</b>—Subsec. (d). Pub. L. 94–106 reduced initial period of active duty for training for persons enlisted under this subsection from four months to twelve weeks.
 
-<b>1967</b>—Subsec. (d). Pub. L. 90–168 substituted the Secretary of Transportation for the Secretary of theTreasury as the prescribing authority for regulations covering the Coast Guard when not operating as part of the Navy, inserted exception as provided in section 6(c)(2)(A)(ii) and (iii) of the Military Selective Service Act of 1967, added requirement that the initial period of four months' service commence insofar as practicable within 180 days after the date of enlistment, and struck out provision that the remainder of the period of service after the initial period of four months be served, subject to section 269(e)(4) of this title, as a member of the Ready Reserve.
+<b>1967</b>—Subsec. (d). Pub. L. 90–168 substituted the Secretary of Transportation for the Secretary of the Treasury as the prescribing authority for regulations covering the Coast Guard when not operating as part of the Navy, inserted exception as provided in section 6(c)(2)(A)(ii) and (iii) of the Military Selective Service Act of 1967, added requirement that the initial period of four months' service commence insofar as practicable within 180 days after the date of enlistment, and struck out provision that the remainder of the period of service after the initial period of four months be served, subject to section 269(e)(4) of this title, as a member of the Ready Reserve.
 
 <b>1963</b>—Subsec. (d). Pub. L. 88–110 added subsec. (d).
 

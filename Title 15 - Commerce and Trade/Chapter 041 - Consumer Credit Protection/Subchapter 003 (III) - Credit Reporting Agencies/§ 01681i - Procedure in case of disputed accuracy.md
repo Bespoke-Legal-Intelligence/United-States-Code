@@ -70,7 +70,7 @@
 
 #### (iii) Additional information
 
-&emsp;&emsp;&emsp;As part of, or in addition to, the notice under clause (ii), a consumer reporting agency shall provide to a consumer in writing not later than 5 business days after the date of the reinsertion—
+&emsp;&emsp;&emsp;As part of, or in addition to, the notice under clause (ii), a consumer reporting agency shall provide to a consumer inwriting not later than 5 business days after the date of the reinsertion—
 
 &emsp;&emsp;&emsp;&emsp;(I) a statement that the disputed information has been reinserted;
 
@@ -130,7 +130,7 @@ Whenever a statement of a dispute is filed, unless there is reasonable grounds t
 
 #### (d) Notification of deletion of disputed information
 
-Following any deletion of information which is found to be inaccurate or whose accuracy can no longer be verified or any notation as to disputed information, the consumer reporting agency shall, at the request of the consumer, furnish notification that the item has been deleted or the statement, codification or summary pursuant to subsection (b) or (c) to any person specifically designated by the consumer who has within two years prior thereto received a consumer report for employment purposes, or within six months prior thereto received a consumer report for any other purpose, which contained the deleted or disputed information.
+Following any deletion of information which is found to be inaccurate or whose accuracy can no longer be verified or any notation as to disputed information, the consumer reporting agency shall, at the request of the consumer, furnish notification that the item has been deleted or the statement, codification or summary pursuant to subsection (b) or (c) to any person specifically designated by the consumer who haswithin two years prior thereto received a consumer report for employment purposes, or within six months prior thereto received a consumer report for any other purpose, which contained the deleted or disputed information.
 
 #### (e) Treatment of complaints and report to Congress
 
@@ -194,13 +194,41 @@ Following any deletion of information which is found to be inaccurate or whose a
 
 &emsp;No provision of this subsection shall be construed as prohibiting a reseller from conducting a reinvestigation of a consumer dispute directly.
 
-(Pub. L. 90–321, title VI, §611, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2409, Sept. 30, 1996, 110 Stat. 3009–439; Pub. L. 105–347, §6(5), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title III, §§313(a), 314(a), 316, 317, Dec. 4, 2003, 117 Stat. 1994–1996, 1998; Pub. L. 111–203, title X, §1088(a)(2)(C), (6), July 21, 2010, 124 Stat. 2087.)
+(Pub. L. 90–321, title VI, §611, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2409, Sept. 30, 1996, 110 Stat. 3009–439; Pub. L. 105–347, §6(5), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title III, §§313(a), 314(a), 316, 317, Dec. 4, 2003, 117 Stat. 1994–1996, 1998; Pub. L. 111–203, title X, §1088(a)(2)(C), (6), July 21, 2010, 124 Stat. 2087; Pub. L. 115–174, title III, §302(b)(3), May 24, 2018, 132 Stat. 1333.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–174, title III, §302(b)(3), (e), May 24, 2018, 132 Stat. 1333, 1335, provided that, effective 1 year after May 24, 2018, this section is amended:</i>
+
+<i>(1) in subsection (a)(1)(A), by inserting "and except as provided in subsection (g)" after "subsection (f)"; and</i>
+
+<i>(2) by adding at the end the following new subsection:</i>
+
+#### <i>(g) Dispute process for veteran's medical debt</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>With respect to a veteran's medical debt, the veteran may submit a notice described in paragraph (2), proof of liability of the Department of Veterans Affairs for payment of that debt, or documentation that the Department of Veterans Affairs is in the process of making payment for authorized hospital care, medical services, or extended care services rendered to a consumer reporting agency or a reseller to dispute the inclusion of that debt on a consumer report of the veteran.</i>
+
+#### <i>(2) Notification to veteran</i>
+
+&emsp;<i>The Department of Veterans Affairs shall submit to a veteran a notice that the Department of Veterans Affairs has assumed liability for part or all of a veteran's medical debt.</i>
+
+#### <i>(3) Deletion of information from file</i>
+
+&emsp;<i>If a consumer reporting agency receives notice, proof of liability, or documentation under paragraph (1), the consumer reporting agency shall delete all information relating to the veteran's medical debt from the file of the veteran and notify the furnisher and the veteran of that deletion.</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 #### References in Text
 
 The Consumer Financial Protection Act of 2010, referred to in subsec. (e)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–174, §302(b)(3)(A), inserted "and except as provided in subsection (g)" after "subsection (f)".
+
+Subsec. (g). Pub. L. 115–174, §302(b)(3)(B), added subsec. (g).
 
 <b>2010</b>—Subsec. (e)(2). Pub. L. 111–203, §1088(a)(6), added par. (2) and struck out former par. (2) which read as follows: "Complaints received or obtained by the Commission pursuant to its investigative authority under the Federal Trade Commission Act shall not be subject to paragraph (1)."
 
@@ -228,6 +256,10 @@ Subsec. (f). Pub. L. 108–159, §316(b), added subsec. (f).
 
 Subsec. (d). Pub. L. 104–208, §2409(b), struck out at end "The consumer reporting agency shall clearly and conspicuously disclose to the consumer his rights to make such a request. Such disclosure shall be made at or prior to the time the information is deleted or the consumer's statement regarding the disputed information is received."
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–174 effective 1 year after May 24, 2018, see section 302(e) of Pub. L. 115–174, set out as a note under section 1681a of this title.
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
@@ -254,7 +286,7 @@ Pub. L. 108–159, title III, §313(b), Dec. 4, 2003, 117 Stat. 1994, provided t
 
 "(1)
 
-Study required.—The Board and the Commission shall jointly study the extent to which, and the manner in which, consumer reporting agencies and furnishers of consumer information to consumer reporting agencies are complying with the procedures, time lines, and requirements under the Fair Credit Reporting Act \[this subchapter\] for the prompt investigation of the disputed accuracy of any consumer information, the completeness of the information provided to consumer reporting agencies, and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified.
+Study required.—The Board and the Commission shall jointly study the extent to which, and the manner in which, consumer reporting agencies and furnishers of consumer information to consumer reporting agencies are complying with the procedures, time lines,and requirements under the Fair Credit Reporting Act \[this subchapter\] for the prompt investigation of the disputed accuracy of any consumer information, the completeness of the information provided to consumer reporting agencies, and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified.
 
 "(2)
 

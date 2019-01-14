@@ -54,7 +54,7 @@ As used in this paragraph, the term "any person" includes the United States, all
 
 (D) Any failure by a manufacturer, licensee, or licensor of technology to qualify for the exemption under subparagraphs (A) and (B) shall not be construed to create an inference that any such party that engages in conduct described in paragraph (11) of section 110 of title 17 is liable for trademark infringement by reason of such conduct.
 
-(July 5, 1946, ch. 540, title VI, §32, 60 Stat. 437; Pub. L. 87–772, §17, Oct. 9, 1962, 76 Stat. 773; Pub. L. 100–667, title I, §127, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 102–542, §3(a), Oct. 27, 1992, 106 Stat. 3567; Pub. L. 105–330, title II, §201(a)(8), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, §4(a), Aug. 5, 1999, 113 Stat. 219; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3004\], Nov. 29, 1999, 113 Stat. 1536, 1501A–549; Pub. L. 109–9, title II, §202(b), Apr. 27, 2005, 119 Stat. 223.)
+(July 5, 1946, ch. 540, title VI, §32, 60 Stat. 437; Pub. L. 87–772, §17, Oct. 9, 1962, 76 Stat. 773; Pub.L. 100–667, title I, §127, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 102–542, §3(a), Oct. 27, 1992, 106 Stat. 3567; Pub. L. 105–330, title II, §201(a)(8), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, §4(a), Aug. 5, 1999, 113 Stat. 219; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3004\], Nov. 29, 1999, 113 Stat. 1536, 1501A–549; Pub. L. 109–9, title II, §202(b), Apr. 27, 2005, 119 Stat. 223.)
 
 #### Prior Provisions
 

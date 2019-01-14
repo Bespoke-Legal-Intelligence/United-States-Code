@@ -18,7 +18,7 @@
 
 #### (2) Consultation
 
-&emsp;In issuing the regulations under paragraph (1), the Secretary shall consult with the National Association of Insurance Commissioners and its members and with health insurance issuers, consumer organizations, andsuch other individuals as the Secretary selects in a manner designed to ensure balanced representation among interested parties.
+&emsp;In issuing the regulations under paragraph (1), the Secretary shall consult with the National Association of Insurance Commissioners and its members and with health insurance issuers, consumer organizations, and such other individuals as the Secretary selects in a manner designed to ensure balanced representation among interested parties.
 
 #### (b) State action
 

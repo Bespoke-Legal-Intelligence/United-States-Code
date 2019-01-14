@@ -54,7 +54,7 @@ For purposes of section 300x–21 of this title, an application for a grant unde
 
 #### (A) Authority of Secretary
 
-&emsp;&emsp;As a condition; <sup>1</sup> of making a grant under section 300x–21 of this title to a State for a fiscal year, the Secretary may require that the State modify any provision of the plan submitted by the State under subsection (a)(6) (including provisions on priorities in carrying out authorized activities). If the Secretary approves the plan and makes the grant to the State for the fiscal year, the Secretary may not during such year require the State to modify the plan.
+&emsp;&emsp;As a condition; <sup>1</sup> of making a grant under section 300x–21 of this title to a State for afiscal year, the Secretary may require that the State modify any provision of the plan submitted by the State under subsection (a)(6) (including provisions on priorities in carrying out authorized activities). If the Secretary approves the plan and makes the grant to the State for the fiscal year, the Secretary may not during such year require the State to modify the plan.
 
 #### (B) State request for modification
 

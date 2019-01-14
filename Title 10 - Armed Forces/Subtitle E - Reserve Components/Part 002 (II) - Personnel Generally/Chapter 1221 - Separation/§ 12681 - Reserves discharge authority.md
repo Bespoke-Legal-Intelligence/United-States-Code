@@ -1,6 +1,6 @@
 ### §12681. Reserves: discharge authority
 
-Subject to other provisions of this title, reserve commissioned officers may be discharged at the pleasure of the President. Other Reserves may be discharged under regulations prescribed by the Secretary concerned.
+Subject to other provisions of this title, reserve commissioned officers may be dischargedat the pleasure of the President. Other Reserves may be discharged under regulations prescribed by the Secretary concerned.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(i)(1), Oct. 5, 1994, 108 Stat. 2997.)
 
@@ -178,7 +178,7 @@ Temporary Special Authority for Elimination of Officers From Active Status.—(1
 
 "(2) An officer who is to be eliminated from an active status under this section, shall, if qualified, be given an opportunity to request transfer to the appropriate Retired Reserve and, if the officer requests it, shall be so transferred. If the officer is not transferred to the Retired Reserve, the officer shall, in the discretion of the Secretary concerned, be transferred to the appropriate inactive status list or be discharged.
 
-"(3) A member of the Army National Guard of the United States or the Air National Guard of the United States may not be eliminated from an active statusunder this section without the consent of the Governor or other appropriate authority of the State or territory, Puerto Rico, or the District of Columbia, whichever is concerned.
+"(3) A member of the Army National Guard of the United States or the Air National Guard of the United States may not be eliminated from an active status under this section without the consent of the Governor or other appropriate authority of the State or territory, Puerto Rico, or the District of Columbia, whichever is concerned.
 
 "(b)
 
@@ -282,7 +282,7 @@ Applicability Subject to Needs of the Service.—(1) Subject to regulations pres
 
 "(b)
 
-Inapplicability to Certain Separations and Reassignments.—Sections 4418 through 4420 do notapply with respect to personnel who cease to be members of the Selected Reserve under adverse conditions, as characterized by the Secretary of the military department concerned.
+Inapplicability to Certain Separations and Reassignments.—Sections 4418 through 4420 do not apply with respect to personnel who cease to be members of the Selected Reserve under adverse conditions, as characterized by the Secretary of the military department concerned.
 
 "(c)
 

@@ -20,7 +20,7 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 (1) Any regulations developed pursuant to subsection (c) shall take effect if, and only if—
 
-&emsp;(A) the Secretary of Labor, not later than the day which is 3 years after September 2, 1974, delivers a copy of such regulations to theHouse of Representatives and a copy to the Senate, and
+&emsp;(A) the Secretary of Labor, not later than the day which is 3 years after September 2, 1974, delivers a copy of such regulations to the House of Representatives and a copy to the Senate, and
 
 &emsp;(B) before the close of the 120–day period which begins on the day on which the copies of such regulations are delivered to the House of Representatives and to the Senate, neither the House of Representatives nor the Senate adopts, by an affirmative vote of a majority of those present and voting in that House, a resolution of disapproval.
 
@@ -32,7 +32,7 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 (B) A motion to discharge may be made only by an individual favoring the resolution, is highly privileged (except that it may not be made after the committee has reported a resolution of disapproval), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
-(C) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution of disapproval.
+(C) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed,nor may another motion to discharge the committee be made with respect to any other resolution of disapproval.
 
 (5)(A) When the committee has reported, or has been discharged from further consideration of, a resolution of disapproval, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 

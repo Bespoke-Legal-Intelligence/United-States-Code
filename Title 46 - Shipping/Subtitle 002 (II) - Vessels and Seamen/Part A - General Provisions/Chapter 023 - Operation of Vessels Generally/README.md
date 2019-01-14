@@ -9,7 +9,7 @@
 | [2304\.](%C2%A7%2002304%20-%20Duty%20to%20provide%20assistance%20at%20sea.md) | Duty to provide assistance at sea. |
 | [2305\.](%C2%A7%2002305%20-%20Injunctions.md) | Injunctions. |
 | [2306\.](%C2%A7%2002306%20-%20Vessel%20reporting%20requirements.md) | Vessel reporting requirements. |
-| [2307\.](%C2%A7%2002307%20-%20Limitation%20of%20liability%20for%20Coast%20Guard%20Vessel%20Traffic%20Service%20pilots%20and%20non-Federal%20vessel%20traffic%20service%20operators.md) | Limitation of liability for Coast Guard Vessel Traffic Service pilots and non-Federal vessel traffic service operators. |
+| \[2307. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -18,6 +18,8 @@
 Chapter 23 lists requirements that relate to the general operation of all vessels. These include penalties and injunctive relief for negligent operation of a vessel. It also provides penalties for failure to render assistance.
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–282, title IV, §402(d), Dec. 4, 2018, 132 Stat. 4264, struck out item 2307 "Limitation of liability for Coast Guard Vessel Traffic Service pilots and non-Federal vessel traffic service operators".
 
 <b>2012</b>—Pub. L. 112–213, title III, §302(b), Dec. 20, 2012, 126 Stat. 1563, substituted "Limitation of liability for Coast Guard Vessel Traffic Service pilots and non-Federal vessel traffic service operators" for "Limitation of liability for Coast Guard Vessel Traffic Service pilots" in item 2307.
 
@@ -39,4 +41,4 @@ Chapter 23 lists requirements that relate to the general operation of all vessel
 - [&sect; 02304 - Duty to provide assistance at sea](%C2%A7%2002304%20-%20Duty%20to%20provide%20assistance%20at%20sea.md)
 - [&sect; 02305 - Injunctions](%C2%A7%2002305%20-%20Injunctions.md)
 - [&sect; 02306 - Vessel reporting requirements](%C2%A7%2002306%20-%20Vessel%20reporting%20requirements.md)
-- [&sect; 02307 - Limitation of liability for Coast Guard Vessel Traffic Service pilots and non-Federal vessel traffic service operators](%C2%A7%2002307%20-%20Limitation%20of%20liability%20for%20Coast%20Guard%20Vessel%20Traffic%20Service%20pilots%20and%20non-Federal%20vessel%20traffic%20service%20operators.md)
+- [&sect; 02307 - Repealed. Pub. L. 115&#8211;282, title IV, &sect;402(d), Dec. 4, 2018, 132 Stat. 4264](%C2%A7%2002307%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93282%2C%20title%20IV%2C%20%C2%A7402%28d%29%2C%20Dec.%204%2C%202018%2C%20132%20Stat.%204264.md)

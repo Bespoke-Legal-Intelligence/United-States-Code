@@ -93,7 +93,7 @@
 
 (D) The Secretary of the Treasury shall credit to the Thrift Savings Fund, out of any sums in the Treasury not otherwise appropriated, the amounts determined by the Director to be necessary to carry out this paragraph.
 
-(d) Notwithstanding any other provision of this section, no contribution may be made under this section for any year to the extent that such contribution, when added to prior contributions for such year, exceeds any limitation under section 415 of the Internal Revenue Code of 1986. However, no contribution made under subsection (c)(3) shall be subject to, or taken into account, for purposes of the preceding sentence.
+(d) Notwithstanding any other provision of this section, no contribution may be made under this section for any year to the extent that such contribution, when added to prior contributions for such year, exceeds any limitation under section 415 of the Internal Revenue Code of 1986.However, no contribution made under subsection (c)(3) shall be subject to, or taken into account, for purposes of the preceding sentence.
 
 (e) The sums required to be contributed to the Thrift Savings Fund by an employing agency under subsection (c) for the benefit of an employee or Member shall be paid from the appropriation or fund available to such agency for payment of salaries of the employee's or Member's office or establishment. When an employee or Member in the legislative branch is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives the contribution that otherwise would be contributed from the appropriation or fund used to pay the employee or Member.
 
@@ -133,7 +133,7 @@
 
 &emsp;&emsp;(ii) would be so eligible but for having either elected to terminate individual contributions to the Thrift Savings Fund within 2 months before commencing military service or separated in order to perform military service.
 
-(2) The Executive Director shall prescribe regulations to ensure that any employee to whomthis subsection applies shall, within a reasonable time after being restored or reemployed (in the manner described in section 8432b(a)(2)), be afforded the opportunity to make, for purposes of this section, any election which would be allowable during a period described in subsection (b)(1)(A).
+(2) The Executive Director shall prescribe regulations to ensure that any employee to whom this subsection applies shall, within a reasonable time after being restored or reemployed (in the manner described in section 8432b(a)(2)), be afforded the opportunity to make, for purposes of this section, any election which would be allowable during a period described in subsection (b)(1)(A).
 
 (j)(1) For the purpose of this subsection—
 
@@ -149,7 +149,7 @@
 
 (2) Contributions under this subsection are subject to subsection (d).
 
-(3) For purposes of subsection (c), basic pay of an employee of the Central Intelligence Agency participating in the pilot project referred to in paragraph (1) shall include bonus pay received by the employee as part of the pilot project.
+(3) For purposes of subsection (c), basic pay of an employee of the Central Intelligence Agencyparticipating in the pilot project referred to in paragraph (1) shall include bonus pay received by the employee as part of the pilot project.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 99–509, title VI, §6001(a)(1), (2), Oct. 21, 1986, 100 Stat. 1929, 1930; Pub. L. 100–20, §1(b), Apr. 7, 1987, 101 Stat. 265; Pub. L. 100–238, title I, §§114, 115, 121, Jan. 8, 1988, 101 Stat. 1751, 1752; Pub. L. 103–353, §§4(c), 5(e)(3), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–93, title III, §304(a), Jan. 6, 1996, 109 Stat. 965; Pub. L. 104–186, title II, §215(16), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–361, §§1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, 114 Stat. 1400, 1401; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 107–304, §1(b)(1), Nov. 27, 2002, 116 Stat. 2363; Pub. L. 108–177, title IV, §405(b)(2), Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–469, §1(b), (c), (d)(2), Dec. 21, 2004, 118 Stat. 3891; Pub. L. 111–31, div. B, title I, §102, June 22, 2009, 123 Stat. 1853; Pub. L. 114–92, div. A, title VI, §632(b), (c), Nov. 25, 2015, 129 Stat. 847; Pub. L. 114–328, div. A, title VI, §632, Dec. 23, 2016, 130 Stat. 2162.)
 
@@ -219,7 +219,7 @@ Subsec. (g)(5). Pub. L. 104–93 added par. (5).
 
 Subsec. (i). Pub. L. 103–353, §4(c), added subsec. (i).
 
-<b>1988</b>—Subsec. (c)(1)(A). Pub. L. 100–238, §121(a), substituted "At the time prescribed by the Executive Director, but no later than 12 days after the end of" for "At the end of" and "within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period)" for "at the end of each succeeding pay period".
+<b>1988</b>—Subsec. (c)(1)(A). Pub. L. 100–238, §121(a), substituted "At the time prescribed by the Executive Director, but no later than 12 days after the end of" for"At the end of" and "within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period)" for "at the end of each succeeding pay period".
 
 Subsec. (c)(2)(A). Pub. L. 100–238, §121(b), substituted "within such time as the Executive Director may prescribe, but no later than 12 days after the end of each such pay period" for "at the end of such pay period".
 
@@ -295,7 +295,7 @@ Pub. L. 104–93, title III, §304(b), Jan. 6, 1996, 109 Stat. 965, provided tha
 
 Amendment by section 4(c) of Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans' Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
 
-Amendment by section 5(e)(3) of Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38.
+Amendment by section 5(e)(3) of Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub.L. 103–353, set out as an Effective Date note under section 4301 of Title 38.
 
 #### Effective Date of 1986 Amendment
 
@@ -363,7 +363,7 @@ In general.—Except as provided in paragraph (2), the regulations prescribed un
 
 &emsp;"(2)
 
-Exception.—The regulations prescribed under this section shall, with respect to individuals undersubsection (c)(1)(C), be effective as of January 1, 1987."
+Exception.—The regulations prescribed under this section shall, with respect to individuals under subsection (c)(1)(C), be effective as of January 1, 1987."
 
 #### Contributions to Thrift Savings Fund
 

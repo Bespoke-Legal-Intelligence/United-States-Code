@@ -60,7 +60,7 @@ Any depository institution lacking Federal deposit insurance shall, within the U
 
 #### (B) New depositors obtained through a conversion or merger
 
-&emsp;&emsp;With respect to a depositor at a federally insured depository institution that convertsto, or merges into, a depository institution lacking federal insurance after October 13, 2006, receive any deposit for the account of such depositor only if—
+&emsp;&emsp;With respect to a depositor at a federally insured depository institution that converts to, or merges into, a depository institution lacking federal insurance after October 13, 2006, receive any deposit for the account of such depositor only if—
 
 &emsp;&emsp;&emsp;(i) the depositor has signed a written acknowledgement described in subparagraph (A); or
 
@@ -152,7 +152,7 @@ For purposes of this section:
 
 #### (1) Limited enforcement authority
 
-&emsp;Compliance with the requirements of subsections (b), (c), and (e), and any regulation prescribed or order issued under such subsection, shall be enforced under the Consumer Financial Protection Act of 2010, by the Bureau, subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\], and under the Federal Trade Commission Act (15 U.S.C. 41 et seq.) by the Federal Trade Commission.
+&emsp;Compliance with the requirements of subsections (b), (c), and (e), and any regulationprescribed or order issued under such subsection, shall be enforced under the Consumer Financial Protection Act of 2010, by the Bureau, subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\], and under the Federal Trade Commission Act (15 U.S.C. 41 et seq.) by the Federal Trade Commission.
 
 #### (2) Broad State enforcement authority
 

@@ -2,7 +2,7 @@
 
 #### (a) Employment of personnel
 
-The Director of the Office of Defense Mobilization, subject to the direction of the President, is authorized, subject to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5, to appoint and fix the compensation of such personnel as may be necessary to assist the Director in carrying out his functions.
+The Director of the Office of Defense Mobilization, subject to the direction of the President, isauthorized, subject to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5, to appoint and fix the compensation of such personnel as may be necessary to assist the Director in carrying out his functions.
 
 #### (b) Functions
 
@@ -68,7 +68,7 @@ Ex. Ord. No. 10169, Oct. 11, 1950, 15 F.R. 6901, which provided for a National A
 
 #### Executive Order No. 10421
 
-Ex. Ord. No. 10421, Dec. 31, 1952, 18 F.R. 57, as amended by Ex. Ord. No. 10438, Mar. 13, 1953, 18 F.R. 1491; Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 6, 1958, 23 F.R. 6971; Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which related to physical security of defensefacilities, was revoked by Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out under section 5195 of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 10421, Dec. 31, 1952, 18 F.R. 57, as amended by Ex. Ord. No. 10438, Mar. 13, 1953, 18 F.R. 1491; Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 6, 1958, 23 F.R. 6971; Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which related to physical security of defense facilities, was revoked by Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Executive Order No. 10438
 

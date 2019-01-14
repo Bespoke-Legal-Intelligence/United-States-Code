@@ -24,7 +24,7 @@ Requirements for Replacement Facilities.—The Secretary of a military departmen
 
 (e)
 
-Consultation Requirements.—The Secretary of a military department authorized toenter into an agreement under subsection (a) to convey an existing facility under the control of that Secretary by exchange shall consult with representatives of other reserve components to evaluate—
+Consultation Requirements.—The Secretary of a military department authorized to enter into an agreement under subsection (a) to convey an existing facility under the control of that Secretary by exchange shall consult with representatives of other reserve components to evaluate—
 
 &emsp;(1) the value of using the facility to meet the military requirements of another reserve component, instead of conveying the facility under this section; and
 
@@ -38,7 +38,7 @@ Advance Notice of Proposed Exchange.—(1) When a decision is made to enter into
 
 &emsp;(B) A description of the facility to be conveyed by the United States under the agreement, including the current condition and fair market value of the facility, and a description of the method by which the fair market value of the facility was determined.
 
-&emsp;(C) Information on the facility, or addition to an existing facility, to be acquired by the United States under the agreement and the intended use of the facility or addition, which shall meet requirements for information provided to Congress for military construction projects to obtain a similar facility or addition to an existing facility.
+&emsp;(C) Information on the facility, or addition to an existing facility, to be acquired by the United States under the agreement and the intended use of the facility or addition, whichshall meet requirements for information provided to Congress for military construction projects to obtain a similar facility or addition to an existing facility.
 
 &emsp;(D) A certification that the Secretary complied with the consultation requirements under subsection (e).
 
@@ -80,7 +80,7 @@ Pub. L. 108–375, div. B, title XXVIII, §2809(c), Oct. 28, 2004, 118 Stat. 212
 
 "(4) In this section, the term 'facility' has the meaning given that term in section 18232(2) of title 10, United States Code.
 
-"(5) No cash equalization payment may be made or accepted under the authority of this subsection afterSeptember 30, 2010. Except as otherwise specifically authorized by law, the authority provided by this subsection to make or accept cash equalization payments in connection with the acquisition or disposal of facilities of the reserve components is the sole authority available in law to the Secretary of Defense or the Secretary of a military department for that purpose.
+"(5) No cash equalization payment may be made or accepted under the authority of this subsection after September 30, 2010. Except as otherwise specifically authorized by law, the authority provided by this subsection to make or accept cash equalization payments in connection with the acquisition or disposal of facilities of the reserve components is the sole authority available in law to the Secretary of Defense or the Secretary of a military department for that purpose.
 
 "(6) Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the exercise of the authority provided by this subsection. The report shall include the following:
 

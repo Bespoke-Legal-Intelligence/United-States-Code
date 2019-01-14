@@ -36,7 +36,7 @@ A State that receives a grant under this chapter may use—
 
 &emsp;&emsp;&emsp;(iii) evaluate and approve applications submitted by Local Councils under section 9412 of this title;
 
-&emsp;&emsp;&emsp;(iv) ensure collaboration with respect to assistance provided under this chapter between the State agency responsible foreducation and the State agency responsible for children and family services;
+&emsp;&emsp;&emsp;(iv) ensure collaboration with respect to assistance provided under this chapter between the State agency responsible for education and the State agency responsible for children and family services;
 
 &emsp;&emsp;&emsp;(v) prepare and submit to the Secretary, an annual report on the activities carried out in the State under this chapter, which shall include a statement describing how all funds received under this chapter are expended and documentation of the effects that resources under this chapter have had on—
 

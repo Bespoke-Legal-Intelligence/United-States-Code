@@ -8,7 +8,7 @@ Congress makes the following findings:
 
 &emsp;(2) According to the Joint United Nations Programme on HIV/AIDS (UNAIDS), more than 34,300,000 people in the world today are living with HIV/AIDS, of which approximately 95 percent live in the developing world.
 
-&emsp;(3) UNAIDS data shows that among children age 14 and under worldwide, more than 3,800,000 have died from AIDS, more than 1,300,000 are living with the disease; and in 1 year alone—1999—an estimated 620,000 became infected, of which over 90 percent were babies born to HIV-positive women.
+&emsp;(3) UNAIDS data shows that among children age 14 and under worldwide, more than3,800,000 have died from AIDS, more than 1,300,000 are living with the disease; and in 1 year alone—1999—an estimated 620,000 became infected, of which over 90 percent were babies born to HIV-positive women.
 
 &emsp;(4) Although sub-Saharan Africa has only 10 percent of the world's population, it is home to more than 24,500,000—roughly 70 percent—of the world's HIV/AIDS cases.
 

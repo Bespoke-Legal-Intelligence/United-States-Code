@@ -92,7 +92,7 @@ Request by united states.—In any civil proceeding under this section, upon req
 
 &emsp;&emsp;(B)
 
-Order granting request.—If the court enters an order granting a request under this paragraph, the entire text of the documents to which the request relates shall be sealed and preserved in the records of the court to be made available to the appellate court in the event of an appeal.
+Order granting request.—If the court enters an order granting a request under this paragraph, the entire text of the documents to which the request relates shall be sealedand preserved in the records of the court to be made available to the appellate court in the event of an appeal.
 
 &emsp;&emsp;(C)
 
@@ -272,7 +272,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(6) some foreign terrorist organizations, acting through affiliated groups or individuals, raise significant funds within the United States, or use the United States as a conduit for the receipt of funds raised in other nations; and
 
-&emsp;"(7) foreign organizations that engage in terrorist activity are so tainted by their criminal conduct thatany contribution to such an organization facilitates that conduct.
+&emsp;"(7) foreign organizations that engage in terrorist activity are so tainted by their criminal conduct that any contribution to such an organization facilitates that conduct.
 
 "(b)
 

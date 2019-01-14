@@ -28,7 +28,7 @@ Section 615ss, Pub. L. 87–483, §11, June 13, 1962, 76 Stat. 99; Pub. L. 111�
 
 Section 615tt, Pub. L. 87–483, §12, June 13, 1962, 76 Stat. 100, related to water use rights of New Mexico and Arizona.
 
-Section 615uu, Pub. L. 87–483, §13, June 13, 1962, 76 Stat. 101, provided use of water through works constructed pursuant to sections 615ii to 615yy of this title be subject to Colorado River compact, Upper Colorado River Basin compact, Boulder Canyon Project Act (43 U.S.C. 617 et seq.), Boulder Canyon Project AdjustmentAct (43 U.S.C. 618 et seq.), Colorado River Storage Project Act (43 U.S.C. 620 et seq.), and Mexican Water Treaty (Treaty Series 994).
+Section 615uu, Pub. L. 87–483, §13, June 13, 1962, 76 Stat. 101, provided use of water through works constructed pursuant to sections 615ii to 615yy of this title be subject to Colorado River compact, Upper Colorado River Basin compact, Boulder Canyon Project Act (43 U.S.C. 617 et seq.), Boulder Canyon Project Adjustment Act (43 U.S.C. 618 et seq.), Colorado River Storage Project Act (43 U.S.C. 620 et seq.), and Mexican Water Treaty (Treaty Series 994).
 
 Section 615vv, Pub. L. 87–483, §14, June 13, 1962, 76 Stat. 101, required compliance with above-mentioned compacts, laws, and treaties and provided for enforcement and consent to suit.
 

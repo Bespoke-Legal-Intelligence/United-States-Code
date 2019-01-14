@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(i) that have been released to any person under paragraph (3); and
 
-&emsp;&emsp;(ii)(I) that because of the nature of their subject matter, the agency determines have become or are likely to become the subject of subsequent requests for substantially the same records; or
+&emsp;&emsp;(ii)(I) that because of the nature of their subject matter, the agency determines havebecome or are likely to become the subject of subsequent requests for substantially the same records; or
 
 &emsp;&emsp;(II) that have been requested 3 or more times; and
 
@@ -40,7 +40,7 @@
 
 &emsp;(ii) the party has actual and timely notice of the terms thereof.
 
-(3)(A) Except with respect to the records made available under paragraphs (1) and (2) of this subsection, and except as provided in subparagraph (E), each agency, upon any request for records which (i) reasonably describes suchrecords and (ii) is made in accordance with published rules stating the time, place, fees (if any), and procedures to be followed, shall make the records promptly available to any person.
+(3)(A) Except with respect to the records made available under paragraphs (1) and (2) of this subsection, and except as provided in subparagraph (E), each agency, upon any request for records which (i) reasonably describes such records and (ii) is made in accordance with published rules stating the time, place, fees (if any), and procedures to be followed, shall make the records promptly available to any person.
 
 (B) In making any record available to a person under this paragraph, an agency shall provide the record in any form or format requested by the person if the record is readily reproducible by the agency in that form or format. Each agency shall make reasonable efforts to maintain its records in forms or formats that are reproducible for purposes of this section.
 
@@ -80,7 +80,7 @@
 
 (vii) In any action by a requester regarding the waiver of fees under this section, the court shall determine the matter de novo: <i>Provided</i>, That the court's review of the matter shall be limited to the record before the agency.
 
-(viii)(I) Except as provided in subclause (II), an agency shall not assess any search fees (or in thecase of a requester described under clause (ii)(II) of this subparagraph, duplication fees) under this subparagraph if the agency has failed to comply with any time limit under paragraph (6).
+(viii)(I) Except as provided in subclause (II), an agency shall not assess any search fees (or in the case of a requester described under clause (ii)(II) of this subparagraph, duplication fees) under this subparagraph if the agency has failed to comply with any time limit under paragraph (6).
 
 (II)(aa) If an agency has determined that unusual circumstances apply (as the term is defined in paragraph (6)(B)) and the agency provided a timely written notice to the requester in accordance with paragraph (6)(B), a failure described in subclause (I) is excused for an additional 10 days. If the agency fails to comply with the extended time limit, the agency may not assess any search fees (or in the case of a requester described under clause (ii)(II) of this subparagraph, duplication fees).
 
@@ -234,7 +234,7 @@
 
 &emsp;(6) personnel and medical files and similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
 
-&emsp;(7) records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C)could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution which furnished information on a confidential basis, and, in the case of a record or information compiled by criminal law enforcement authority in the course of a criminal investigation or by an agency conducting a lawful national security intelligence investigation, information furnished by a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions if such disclosure could reasonably be expected to risk circumvention of the law, or (F) could reasonably be expected to endanger the life or physical safety of any individual;
+&emsp;(7) records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution which furnished information on a confidential basis, and, in the case of a record or information compiled by criminal law enforcement authority in the course of a criminal investigation or by an agency conducting a lawful national security intelligence investigation, information furnished by a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions if such disclosure could reasonably be expected to risk circumvention of the law, or (F) could reasonably be expected to endanger the life or physical safety of any individual;
 
 &emsp;(8) contained in or related to examination, operating, or condition reports prepared by, on behalf of, or for the use of an agency responsible for the regulation or supervision of financial institutions; or
 
@@ -254,7 +254,7 @@
 
 (3) Whenever a request is made which involves access to records maintained by the Federal Bureau of Investigation pertaining to foreign intelligence or counterintelligence, or international terrorism, and the existence of the records is classified information as provided in subsection (b)(1), the Bureau may, as long as the existence of the records remains classified information, treat the records as not subject to the requirements of this section.
 
-(d) This section does not authorize withholding of information or limit the availability of records to the public, except as specifically stated in this section. This section is not authority to withhold information from Congress.
+(d) This section does not authorize withholding of information or limit the availability ofrecords to the public, except as specifically stated in this section. This section is not authority to withhold information from Congress.
 
 (e)(1) On or before February 1 of each year, each agency shall submit to the Attorney General of the United States and to the Director of the Office of Government Information Services a report which shall cover the preceding fiscal year and which shall include—
 
@@ -312,7 +312,7 @@
 
 &emsp;(C) in a format that may be downloaded in bulk.
 
-(4) The Attorney General of the United States shall make each report which has been made available by electronic means available at a single electronic access point. The Attorney General of the United States shall notify the Chairman and ranking minority member of the Committee on Oversight and Government Reform of the House of Representatives and the Chairman and ranking minority member of the Committees on Homeland Security and Governmental Affairs and the Judiciary of the Senate, no later than March 1 of the year in which each such report is issued, that such reports are available by electronic means.
+(4) The Attorney General of the United States shall make each report which has been made available by electronic means available at a single electronic access point. The Attorney General of the United States shall notify the Chairman and ranking minority member of the Committee on Oversight and Government Reform of the House of Representatives and the Chairman and ranking minority member of the Committees on Homeland Security and GovernmentalAffairs and the Judiciary of the Senate, no later than March 1 of the year in which each such report is issued, that such reports are available by electronic means.
 
 (5) The Attorney General of the United States, in consultation with the Director of the Office of Management and Budget, shall develop reporting and performance guidelines in connection with reports required by this subsection by October 1, 1997, and may establish additional requirements for such reports as the Attorney General determines may be useful.
 
@@ -536,7 +536,7 @@ Subsec. (a)(2)(D). Pub. L. 114–185, §2(1)(A)(ii), added subpar. (D) and struc
 
 Subsec. (a)(4)(A)(viii). Pub. L. 114–185, §2(1)(B), added cl. (viii) and struck out former cl. (viii) which read as follows: "An agency shall not assess search fees (or in the case of a requester described under clause (ii)(II), duplication fees) under this subparagraph if the agency fails to comply with any time limit under paragraph (6), if no unusual or exceptional circumstances (as those terms are defined for purposes of paragraphs (6)(B) and (C), respectively) apply to the processing of the request."
 
-Subsec. (a)(6)(A)(i). Pub. L. 114–185, §2(1)(C)(i), substituted "making such request of—" for "making such request of such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and" and added subcls. (I) to (III).
+Subsec. (a)(6)(A)(i). Pub. L. 114–185, §2(1)(C)(i), substituted "making such request of—" for "making suchrequest of such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and" and added subcls. (I) to (III).
 
 Subsec. (a)(6)(B)(ii). Pub. L. 114–185, §2(1)(C)(ii), substituted "the agency, and notify the requester of the right of the requester to seek dispute resolution services from the Office of Government Information Services." for "the agency."
 
@@ -616,7 +616,7 @@ Pub. L. 104–231, §4(7), inserted after first sentence "For records created on
 
 Pub. L. 104–231, §4(1), in second sentence substituted "staff manual, instruction, or copies of records referred to in subparagraph (D)" for "or staff manual or instruction".
 
-Pub. L. 104–231, §4(2), inserted before period at end of third sentence ", and the extent of such deletion shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in subsection (b) under which the deletion is made".
+Pub. L. 104–231, §4(2), inserted before period at end of third sentence ", and the extent of such deletion shallbe indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in subsection (b) under which the deletion is made".
 
 Pub. L. 104–231, §4(3), inserted after third sentence "If technically feasible, the extent of the deletion shall be indicated at the place in the record where the deletion was made."
 
@@ -898,7 +898,7 @@ Disclosure to Congress.—Nothing in this section shall be construed to authoriz
 
 #### Disclosure of Arson, Explosive, or Firearm Records
 
-Pub. L. 108–7, div. J, title VI, §644, Feb. 20, 2003, 117 Stat. 473, provided that: "No funds appropriated under this Act or any other Act with respect to any fiscalyear shall be available to take any action based upon any provision of 5 U.S.C. 552 with respect to records collected or maintained pursuant to 18 U.S.C. 846(b), 923(g)(3) or 923(g)(7), or provided by Federal, State, local, or foreign law enforcement agencies in connection with arson or explosives incidents or the tracing of a firearm, except that such records may continue to be disclosed to the extent and in the manner that records so collected, maintained, or obtained have been disclosed under 5 U.S.C. 552 prior to the date of the enactment of this Act \[Feb. 20, 2003\]."
+Pub. L. 108–7, div. J, title VI, §644, Feb. 20, 2003, 117 Stat. 473, provided that: "No funds appropriated under this Act or any other Act with respect to any fiscal year shall be available to take any action based upon any provision of 5 U.S.C. 552 with respect to records collected or maintained pursuant to 18 U.S.C. 846(b), 923(g)(3) or 923(g)(7), or provided by Federal, State, local, or foreign law enforcement agencies in connection with arson or explosives incidents or the tracing of a firearm, except that such records may continue to be disclosed to the extent and in the manner that records so collected, maintained, or obtained have been disclosed under 5 U.S.C. 552 prior to the date of the enactment of this Act \[Feb. 20, 2003\]."
 
 #### Disclosure of Information on Japanese Imperial Government
 
@@ -958,7 +958,7 @@ Functions.—Not later than 1 year after the date of the enactment of this Act \
 
 &emsp;"(2) coordinate with agencies and take such actions as necessary to expedite the release of such records to the public; and
 
-&emsp;"(3) submit a report to Congress, including the Committee on Government Reform \[now Committee on Oversight and Government Reform\] and the Permanent Select Committee on Intelligence of the House of Representatives, and the Committee on the Judiciary and the Select Committee on Intelligence of the Senate, describing all such records, the disposition of such records, and the activities of the Interagency Group and agencies under this section.
+&emsp;"(3) submit a report to Congress, including the Committee on Government Reform \[now Committee on Oversight and Government Reform\] and the Permanent Select Committee on Intelligence of the House of Representatives, and the Committee on theJudiciary and the Select Committee on Intelligence of the Senate, describing all such records, the disposition of such records, and the activities of the Interagency Group and agencies under this section.
 
 "(d)
 
@@ -1122,7 +1122,7 @@ Exception for privacy, etc.—An agency head may exempt from release under parag
 
 &emsp;&emsp;"(G) reveal information that would seriously and demonstrably impair relations between the United States and a foreign government, or seriously and demonstrably undermine ongoing diplomatic activities of the United States;
 
-&emsp;&emsp;"(H) reveal information that would clearly and demonstrably impair the current ability of United States Government officials to protect the President, Vice President, and other officials for whomprotection services, in the interest of national security, are authorized;
+&emsp;&emsp;"(H) reveal information that would clearly and demonstrably impair the current ability of United States Government officials to protect the President, Vice President, and other officials for whom protection services, in the interest of national security, are authorized;
 
 &emsp;&emsp;"(I) reveal information that would seriously and demonstrably impair current national security emergency preparedness plans; or
 
@@ -1294,7 +1294,7 @@ Ex. Ord. No. 13110, Jan. 11, 1999, 64 F.R. 2419, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Nazi War Crimes Disclosure Act (Public Law 105–246) (the "Act") \[5 U.S.C. 552 note\], it is hereby ordered as follows:
 
-Section 1. <i>Establishment of Working Group</i>. There is hereby established the Nazi War Criminal RecordsInteragency Working Group \[now Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group\] (Working Group). The function of the Group shall be to locate, inventory, recommend for declassification, and make available to the public at the National Archives and Records Administration all classified Nazi war criminal records of the United States, subject to certain designated exceptions as provided in the Act. The Working Group shall coordinate with agencies and take such actions as necessary to expedite the release of such records to the public.
+Section 1. <i>Establishment of Working Group</i>. There is hereby established the Nazi War Criminal Records Interagency Working Group \[now Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group\] (Working Group). The function of the Group shall be to locate, inventory, recommend for declassification, and make available to the public at the National Archives and Records Administration all classified Nazi war criminal records of the United States, subject to certain designated exceptions as provided in the Act. The Working Group shall coordinate with agencies and take such actions as necessary to expedite the release of such records to the public.
 
 Sec. 2. <i>Schedule</i>. The Working Group should complete its work to the greatest extent possible and report to the Congress within 1 year.
 
@@ -1398,7 +1398,7 @@ Sec. 3. <i>Review, Plan, and Report.</i>
 
 (iii) The plan shall also include activities to increase public awareness of FOIA processing, including as appropriate, expanded use of the agency's Center and its FOIA Public Liaisons.
 
-(iv) The plan shall also include, taking appropriate account of the resources available to the agency and the mission of the agency, concrete milestones, with specific timetables and outcomes to be achieved, by which the head of the agency, after consultation with the OMB Director, shall measure and evaluate the agency's success in the implementation of the plan.
+(iv) The plan shall also include, taking appropriate account of the resources available to the agency andthe mission of the agency, concrete milestones, with specific timetables and outcomes to be achieved, by which the head of the agency, after consultation with the OMB Director, shall measure and evaluate the agency's success in the implementation of the plan.
 
 (c) <i>Agency Reports to the Attorney General and OMB Director.</i>
 
@@ -1458,7 +1458,7 @@ To promote continued job growth, Government efficiency, and the social good that
 
 Sec. 2. <i>Open Data Policy</i>. (a) The Director of the Office of Management and Budget (OMB), in consultation with the Chief Information Officer (CIO), Chief Technology Officer (CTO), and Administrator of the Office of Information and Regulatory Affairs (OIRA), shall issue an Open Data Policy to advance the management of Government information as an asset, consistent with my memorandum of January 21, 2009 (Transparency and Open Government), OMB Memorandum M–10–06 (Open Government Directive), OMB and National Archives and Records Administration Memorandum M–12–18 (Managing Government Records Directive), the Office of Science and Technology Policy Memorandum of February 22, 2013 (Increasing Access to the Results of Federally Funded Scientific Research), and the CIO's strategy entitled "Digital Government: Building a 21st Century Platform to Better Serve the American People." The Open Data Policy shall be updated as needed.
 
-(b) Agencies shall implement the requirements of the Open Data Policy and shall adhere to the deadlines for specific actions specified therein. When implementing the Open Data Policy, agencies shall incorporate a full analysis of privacy, confidentiality, and security risks into each stage of the information lifecycle to identify information that should not be released. These review processes should be overseen by the senior agency official for privacy. It is vital that agencies not release information if doing so would violate any law or policy, or jeopardize privacy, confidentiality, or national security.
+(b) Agencies shall implement the requirements of the Open Data Policy and shall adhere to the deadlines forspecific actions specified therein. When implementing the Open Data Policy, agencies shall incorporate a full analysis of privacy, confidentiality, and security risks into each stage of the information lifecycle to identify information that should not be released. These review processes should be overseen by the senior agency official for privacy. It is vital that agencies not release information if doing so would violate any law or policy, or jeopardize privacy, confidentiality, or national security.
 
 Sec. 3. <i>Implementation of the Open Data Policy</i>. To facilitate effective Government-wide implementation of the Open Data Policy, I direct the following:
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(ii) to the extent practicable, of their eligibility for other forms of State and institutional need-based student assistance;
 
-&emsp;(E) to make recommendations that will expand and improve partnerships among the Federal Government, States, institutions ofhigher education, and private entities to increase the awareness and the total amount of need-based student assistance available to low- and moderate-income students; and
+&emsp;(E) to make recommendations that will expand and improve partnerships among the Federal Government, States, institutions of higher education, and private entities to increase the awareness and the total amount of need-based student assistance available to low- and moderate-income students; and
 
 &emsp;(F) to collect information on Federal regulations, and on the impact of Federal regulations on student financial assistance and on the cost of receiving a postsecondary education, and to make recommendations to help streamline the regulations for institutions of higher education from all sectors.
 
@@ -348,7 +348,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1987 Amendment
 

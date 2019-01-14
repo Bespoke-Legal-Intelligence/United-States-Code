@@ -158,7 +158,7 @@ Federal Requirements.—
 
 &emsp;(1)
 
-In general.—In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, and the requirements of section 5333(a) of title 49 for rail projects, the following provisions of law shall apply to funds madeavailable under the TIFIA program and projects assisted with those funds:
+In general.—In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, and the requirements of section 5333(a) of title 49 for rail projects, the following provisions of law shall apply to funds made available under the TIFIA program and projects assisted with those funds:
 
 &emsp;&emsp;(A) Title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).
 

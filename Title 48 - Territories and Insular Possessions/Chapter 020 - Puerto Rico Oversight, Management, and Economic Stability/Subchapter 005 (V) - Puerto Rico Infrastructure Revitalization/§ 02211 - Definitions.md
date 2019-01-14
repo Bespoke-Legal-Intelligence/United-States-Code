@@ -56,7 +56,7 @@ In this subchapter:
 
 #### (14) Puerto Rico Electric Power Authority
 
-&emsp;The term "Puerto Rico Electric Power Authority" means the Puerto Rico Electric Power Authority established by Puerto Rico Act 83–1941.
+&emsp;The term "Puerto Rico Electric Power Authority" means the Puerto Rico ElectricPower Authority established by Puerto Rico Act 83–1941.
 
 (Pub. L. 114–187, title V, §501, June 30, 2016, 130 Stat. 596.)
 

@@ -10,7 +10,7 @@ Every employer required so to deduct the tax shall be liable for the payment of 
 
 #### (c) Special rule for tips
 
-(1) In the case of tips which constitute wages, subsection (a) shall be applicable only to such tips as are included in a written statement furnished to the employer pursuant to section 6053(a), and only to the extent that collection can be made by the employer, at or after the time such statement is so furnished and before the close of the 10th day following the calendar month (or, if paragraph (3) applies, the 30th day following the year) in which the tips were deemed paid, by deducting the amount of the tax from such wages of the employee (excluding tips, but including funds turned over by the employee to the employer pursuant to paragraph (2)) as are under control of the employer.
+(1) In the case of tips which constitute wages, subsection (a) shall be applicable only to such tips as are included in a written statement furnished to the employer pursuant to section 6053(a), and only to the extent that collection can be made by the employer, at or after the time such statement is so furnished and beforethe close of the 10th day following the calendar month (or, if paragraph (3) applies, the 30th day following the year) in which the tips were deemed paid, by deducting the amount of the tax from such wages of the employee (excluding tips, but including funds turned over by the employee to the employer pursuant to paragraph (2)) as are under control of the employer.
 
 (2) If the tax imposed by section 3101, with respect to tips which are included in written statements furnished in any month to the employer pursuant to section 6053(a), exceeds the wages of the employee (excluding tips) from which the employer is required to collect the tax under paragraph (1), the employee may furnish to the employer on or before the 10th day of the following month (or, if paragraph (3) applies, on or before the 30th day of the following year) an amount of money equal to the amount of the excess.
 
@@ -84,7 +84,7 @@ In the case of any payments of wages for service performed in the employ of an i
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–203 struck out "and the employee has not performed agricultural labor for the employer on 20 days or more in the calendar year for cash remuneration computed on a time basis" after "less than $150".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–387 in second sentence substituted "An employer who in any calendar year" for "An employer who in any calendar quarter" and "remuneration paid to the employee by the employer in the calendar year is less than the applicable dollar threshold (as defined in section 3121(x)) for such year" for "remuneration paid to the employee by the employer in the calendar quarter is less than $50".
+<b>1994</b>—Subsec. (a). Pub. L. 103–387 in second sentence substituted "An employer who in any calendar year"for "An employer who in any calendar quarter" and "remuneration paid to the employee by the employer in the calendar year is less than the applicable dollar threshold (as defined in section 3121(x)) for such year" for "remuneration paid to the employee by the employer in the calendar quarter is less than $50".
 
 Subsec. (e). Pub. L. 103–296 added subsec. (e).
 

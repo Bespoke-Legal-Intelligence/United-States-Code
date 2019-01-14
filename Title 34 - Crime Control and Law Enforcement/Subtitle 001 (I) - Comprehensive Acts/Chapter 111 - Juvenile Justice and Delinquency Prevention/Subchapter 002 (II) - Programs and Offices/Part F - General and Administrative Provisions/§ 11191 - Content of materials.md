@@ -6,7 +6,7 @@ Materials produced, procured, or distributed both using funds appropriated to ca
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–415, Sept. 7, 1974, 88Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of this title and Tables.
 
 #### Codification
 
@@ -14,5 +14,5 @@ Section was formerly classified to section 5681 of Title 42, The Public Health a
 
 #### Effective Date
 
-Section effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as an Effective Date of 2002 Amendment note under section 11101 of this title.
+Section effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable onlywith respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as an Effective Date of 2002 Amendment note under section 11101 of this title.
 

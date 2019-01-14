@@ -2,7 +2,7 @@
 
 #### (a) Information to Congress
 
-Notwithstanding sections 4042 and 4043 of this title, not later than 1 year after June 22, 2016, the Secretary shall prepare and, after consultation with Indian tribes and appropriate Indian organizations, submit to the Committee on Natural Resources of the House of Representatives, the Committee on Indian Affairs of the Senate, and the Committees on Appropriations of the House of Representatives and the Senate—
+Notwithstanding sections 4042 and 4043 of this title, not later than 1 year after June 22, 2016, the Secretary shall prepare and, after consultation with Indian tribes and appropriate Indian organizations, submit to the Committee on Natural Resources of the House of Representatives,the Committee on Indian Affairs of the Senate, and the Committees on Appropriations of the House of Representatives and the Senate—
 
 &emsp;(1) an identification of all functions, other than the collection, management, and investment of Indian trust funds, that the Office of the Special Trustee performs independently or in concert with the BIA or other Federal agencies, specifically those functions that affect or relate to management of nonmonetary trust resources;
 

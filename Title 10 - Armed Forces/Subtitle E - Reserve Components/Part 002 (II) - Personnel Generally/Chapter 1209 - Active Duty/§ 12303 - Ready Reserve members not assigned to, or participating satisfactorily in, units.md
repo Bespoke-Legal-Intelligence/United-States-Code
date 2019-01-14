@@ -44,7 +44,7 @@ Section 1. (a) The Secretary of Defense is hereby authorized and empowered to ex
 
 &emsp;(2) employment necessary to maintain the national health, safety, or interest.
 
-Sec. 2. The Secretary of Homeland Security is hereby authorized and empowered to exercise the authorityvested in the President by section 673a \[now 12303\] of the title 10 of the United States Code, with respect to any member of the Ready Reserve of the Coast Guard when it is not operating as a service in the Navy, under the same conditions as such authority may be exercised by the Secretary of Defense under this Order with respect to any member of the Ready Reserve of any other armed force.
+Sec. 2. The Secretary of Homeland Security is hereby authorized and empowered to exercise the authority vested in the President by section 673a \[now 12303\] of the title 10 of the United States Code, with respect to any member of the Ready Reserve of the Coast Guard when it is not operating as a service in the Navy, under the same conditions as such authority may be exercised by the Secretary of Defense under this Order with respect to any member of the Ready Reserve of any other armed force.
 
 Sec. 3. (a) The Secretary of Defense may designate any of the Secretaries of the military departments of the Department of Defense to exercise the authority vested in him by section 1 of this Order.
 

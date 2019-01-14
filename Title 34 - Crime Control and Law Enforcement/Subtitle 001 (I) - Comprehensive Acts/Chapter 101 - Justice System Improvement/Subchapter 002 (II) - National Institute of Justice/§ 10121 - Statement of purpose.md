@@ -40,7 +40,7 @@ Pub. L. 110–424, Oct. 15, 2008, 122 Stat. 4819, provided that:
 
 #### "SECTION 1. TRAINING FOR STATE AND LOCAL PROSECUTORS.
 
-"The Attorney General is authorized to award a grant to a national nonprofit organization (such as theNational District Attorneys Association) to conduct a national training program for State and local prosecutors for the purpose of improving the professional skills of State and local prosecutors and enhancing the ability of Federal, State, and local prosecutors to work together.
+"The Attorney General is authorized to award a grant to a national nonprofit organization (such as the National District Attorneys Association) to conduct a national training program for State and local prosecutors for the purpose of improving the professional skills of State and local prosecutors and enhancing the ability of Federal, State, and local prosecutors to work together.
 
 #### "SEC. 2. COMPREHENSIVE CONTINUING LEGAL EDUCATION.
 

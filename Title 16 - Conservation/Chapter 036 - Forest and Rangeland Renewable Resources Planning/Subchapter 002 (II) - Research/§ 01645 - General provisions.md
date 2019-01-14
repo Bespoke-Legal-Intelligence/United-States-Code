@@ -26,7 +26,7 @@ In implementing this subchapter, the Secretary, as the Secretary deems appropria
 
 #### (e) Construction of statutory provisions
 
-This subchapter shall be construed as supplementing all other laws relating to the Department of Agriculture and shall not be construed as limiting or repealing any existing law or authority of the Secretary except as specifically cited in this subchapter.
+This subchapter shall be construed as supplementing all other laws relating to the Department of Agriculture and shall not be construedas limiting or repealing any existing law or authority of the Secretary except as specifically cited in this subchapter.
 
 #### (f) Definitions
 

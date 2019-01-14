@@ -26,7 +26,7 @@ In this subchapter:
 
 &emsp;The term "basic research" means research—
 
-&emsp;&emsp;(A) to gain fundamental knowledge or understanding of phenomena and observable facts, without specific application toward processes or products; and
+&emsp;&emsp;(A) to gain fundamental knowledge or understanding of phenomena and observablefacts, without specific application toward processes or products; and
 
 &emsp;&emsp;(B) for the advancement of knowledge in the field of education.
 

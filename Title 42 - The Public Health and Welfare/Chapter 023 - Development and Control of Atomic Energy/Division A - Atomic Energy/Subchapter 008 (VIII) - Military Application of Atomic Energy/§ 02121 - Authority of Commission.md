@@ -30,7 +30,7 @@ The President may authorize the Commission or the Department of Defense, with th
 
 &emsp;(4) source, byproduct, or special nuclear material for research on, development of, or use in atomic weapons: <i>Provided, however</i>, That the transfer of such material to that nation is necessary to improve its atomic weapon design, development, or fabrication capability: <i>And provided further</i>, That such nation has made substantial progress in the development of atomic weapons,
 
-> whenever the President determines that the proposed cooperation and each proposed transfer arrangement for the nonnuclear parts of atomicweapons and atomic weapons systems, utilization facilities or source, byproduct, or special nuclear material will promote and will not constitute an unreasonable risk to the common defense and security, while such other nation is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security: <i>Provided, however</i>, That the cooperation is undertaken pursuant to an agreement entered into in accordance with section 2153 of this title: <i>And provided further</i>, That if an agreement for cooperation arranged pursuant to this subsection provides for transfer of utilization facilities for military applications the Commission, or the Department of Defense with respect to cooperation it has been authorized to undertake, may authorize any person to transfer such utilization facilities for military applications in accordance with the terms and conditions of this subsection and of the agreement for cooperation.
+> whenever the President determines that the proposed cooperation and each proposed transfer arrangement for the nonnuclear parts of atomic weapons and atomic weapons systems, utilization facilities or source, byproduct, or special nuclear material will promote and will not constitute an unreasonable risk to the common defense and security, while such other nation is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security: <i>Provided, however</i>, That the cooperation is undertaken pursuant to an agreement entered into in accordance with section 2153 of this title: <i>And provided further</i>, That if an agreement for cooperation arranged pursuant to this subsection provides for transfer of utilization facilities for military applications the Commission, or the Department of Defense with respect to cooperation it has been authorized to undertake, may authorize any person to transfer such utilization facilities for military applications in accordance with the terms and conditions of this subsection and of the agreement for cooperation.
 
 (Aug. 1, 1946, ch. 724, title I, §91, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 936; amended Pub. L. 85–479, §1, July 2, 1958, 72 Stat. 276; Pub. L. 101–189, div. C, title XXXI, §3157, Nov. 29, 1989, 103 Stat. 1684; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
@@ -54,7 +54,7 @@ Pub. L. 106–398, §1 \[div. C, title XXXI, §3194\], Oct. 30, 2000, 114 Stat. 
 
 #### Authority To Provide Certificate of Commendation to Department of Energy and Contractor Employees for Exemplary Service in Stockpile Stewardship and Security
 
-Pub. L. 106–398, §1 \[div. C, title XXXI, §3195\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, which was formerly set out as a note under this section, was renumbered section 4605 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(6), Nov. 24, 2003, 117 Stat. 1778, and is classified to section 2705 of Title 50, War and National Defense.
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3195\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, which was formerly setout as a note under this section, was renumbered section 4605 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(6), Nov. 24, 2003, 117 Stat. 1778, and is classified to section 2705 of Title 50, War and National Defense.
 
 #### Nuclear Weapons Stockpile Life Extension Program
 
@@ -96,7 +96,7 @@ Report.—Not later than October 1 of 1999 and 2000, and not later than February
 
 Cooperation of Other Agencies.—(1) The panel may secure directly from the Department of Energy, the Department of Defense, or any of the national weapons laboratories or plants or any other Federal department or agency information that the panel considers necessary to carry out its duties.
 
-"(2) For carrying out its duties, the panel shall be provided full and timely cooperation by the Secretary of Energy, the Secretary of Defense, the Commander of United States Strategic Command, the Directors of the Los Alamos National Laboratory, the Lawrence Livermore National Laboratory, the Sandia National Laboratories, the Savannah River Site, the Y–12 Plant, thePantex Facility, and the Kansas City Plant, and any other official of the United States that the chairman of the panel determines as having information described in paragraph (1).
+"(2) For carrying out its duties, the panel shall be provided full and timely cooperation by the Secretary of Energy, the Secretary of Defense, the Commander of United States Strategic Command, the Directors of the Los Alamos National Laboratory, the Lawrence Livermore National Laboratory, the Sandia National Laboratories, the Savannah River Site, the Y–12 Plant, the Pantex Facility, and the Kansas City Plant, and any other official of the United States that the chairman of the panel determines as having information described in paragraph (1).
 
 "(3) The Secretary of Energy and the Secretary of Defense shall each designate at least one officer or employee of the Department of Energy and the Department of Defense, respectively, to serve as a liaison officer between the department and the panel.
 
@@ -126,7 +126,7 @@ Pub. L. 104–106, div. C, title XXXI, §3133, Feb. 10, 1996, 110 Stat. 618, whi
 
 #### Manufacturing Infrastructure for Refabrication and Certification of Nuclear Weapons Stockpile
 
-Pub. L. 104–106, div. C, title XXXI, §3137, Feb. 10, 1996, 110 Stat. 620, as amended by Pub. L. 104–201, div. C, title XXXI, §3132(a), (b), Sept. 23, 1996, 110 Stat. 2829, which was formerly set out as a note under this section, was renumbered section 4212 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(13)(A)–(C), Nov. 24, 2003, 117 Stat. 1760, and is classified to section 2532 of Title 50, War and National Defense.
+Pub. L. 104–106, div. C, title XXXI, §3137, Feb. 10, 1996, 110 Stat. 620, as amended by Pub. L. 104–201, div. C, title XXXI, §3132(a), (b), Sept. 23, 1996, 110 Stat. 2829, which was formerly set out as a note under this section, was renumbered section 4212 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(13)(A)–(C), Nov. 24, 2003, 117 Stat. 1760, and isclassified to section 2532 of Title 50, War and National Defense.
 
 #### Fellowship Program for Development of Skills Critical to Department of Energy Nuclear Weapons Complex
 
@@ -244,7 +244,7 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, as amended by P
 
 "(f) \[Transferred to section 2530 of Title 50, War and National Defense.\]
 
-"(g) In the computation of the 90-day period referred to in subsection (c)(1) and the 60-day period referred toin subsection (e)(2)(A)(ii), the days on which either House is not in session because of an adjournment of more than 3 days to a day certain shall be excluded.
+"(g) In the computation of the 90-day period referred to in subsection (c)(1) and the 60-day period referred to in subsection (e)(2)(A)(ii), the days on which either House is not in session because of an adjournment of more than 3 days to a day certain shall be excluded.
 
 "(h) In this section, the term 'modern safety feature' means any of the following features:
 

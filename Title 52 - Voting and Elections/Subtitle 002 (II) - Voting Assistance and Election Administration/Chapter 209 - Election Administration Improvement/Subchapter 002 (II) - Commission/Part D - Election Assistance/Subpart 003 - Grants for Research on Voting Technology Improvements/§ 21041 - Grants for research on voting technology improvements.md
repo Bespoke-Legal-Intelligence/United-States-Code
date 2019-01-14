@@ -14,7 +14,7 @@ An entity is eligible to receive a grant under this subpart if it submits to the
 
 #### (c) Applicability of regulations governing patent rights in inventions made with Federal assistance
 
-Any invention made by the recipient of a grant under this subpart using funds provided under this subpart shall be subject to chapter 18of title 35 (relating to patent rights in inventions made with Federal assistance).
+Any invention made by the recipient of a grant under this subpart using funds provided under this subpart shall be subject to chapter 18 of title 35 (relating to patent rights in inventions made with Federal assistance).
 
 #### (d) Recommendation of topics for research
 

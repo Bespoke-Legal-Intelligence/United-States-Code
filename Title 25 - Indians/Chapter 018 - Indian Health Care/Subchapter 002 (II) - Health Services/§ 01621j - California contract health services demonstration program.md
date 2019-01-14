@@ -6,7 +6,7 @@ The Secretary shall establish a demonstration program to evaluate the use of a c
 
 #### (b) Agreement with California Rural Indian Health Board
 
-(1) In establishing such program, the Secretary shall enter into an agreement with the California Rural Indian Health Board to reimburse the Board for costs (including reasonable administrative costs) incurred, during the period of the demonstration program, in providing medical treatment under contract to California Indians described in section 1679(b) <sup>1</sup> of this titlethroughout the California contract health services delivery area described in section 1680 of this title with respect to high-cost contract care cases.
+(1) In establishing such program, the Secretary shall enter into an agreement with the California Rural Indian Health Board to reimburse the Board for costs (including reasonable administrative costs) incurred, during the period of the demonstration program, in providing medical treatment under contract to California Indians described in section 1679(b) <sup>1</sup> of this title throughout the California contract health services delivery area described in section 1680 of this title with respect to high-cost contract care cases.
 
 (2) Not more than 5 percent of the amounts provided to the Board under this section for any fiscal year may be for reimbursement for administrative expenses incurred by the Board during such fiscal year.
 
@@ -42,7 +42,7 @@ For the purposes of this section, the term "high-cost contract care cases" means
 
 #### References in Text
 
-Section 1679 of this title, referred to in subsec. (b)(1), was repealed and a new section 1679 was enacted by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935. Provisions describing California Indians, similar to those that appeared in former section 1679(b) are now contained in new section 1679(a).
+Section 1679 of this title, referred to in subsec. (b)(1), was repealed and a new section 1679 was enacted by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat.935. Provisions describing California Indians, similar to those that appeared in former section 1679(b) are now contained in new section 1679(a).
 
 Section 1621a of this title, referred to in subsec. (f)(1), was amended generally by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (b)(2).
 

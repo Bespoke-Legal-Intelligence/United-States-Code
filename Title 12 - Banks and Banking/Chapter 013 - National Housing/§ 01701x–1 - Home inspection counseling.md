@@ -16,7 +16,7 @@
 
 #### (2) Availability
 
-&emsp;The Secretary shall make the materials specified in paragraph (1) available for electronic access and, where appropriate, inform potential homebuyers of such availability through home purchase counseling public service announcements and toll-free telephone hotlines of the Department of Housing and Urban Development. The Secretary shall givespecial emphasis to reaching first-time and low-income homebuyers with these materials and efforts.
+&emsp;The Secretary shall make the materials specified in paragraph (1) available for electronic access and, where appropriate, inform potential homebuyers of such availability through home purchase counseling public service announcements and toll-free telephone hotlines of the Department of Housing and Urban Development. The Secretary shall give special emphasis to reaching first-time and low-income homebuyers with these materials and efforts.
 
 #### (3) Updating
 
@@ -28,7 +28,7 @@ Each mortgagee approved for participation in the mortgage insurance programs und
 
 #### (c) Requirements for HUD-approved counseling agencies
 
-Each counseling agency certified pursuant by <sup>1</sup> the Secretary to provide housing counseling services shall provide each of their clients, as part of the home purchase counseling process, the materials specified in subparagraphs (C) and (D) of subsection (a)(1).
+Each counseling agency certified pursuant by <sup>1</sup> the Secretary to provide housing counseling services shall provide each of their clients, as part of the home purchase counseling process,the materials specified in subparagraphs (C) and (D) of subsection (a)(1).
 
 #### (d) Training
 

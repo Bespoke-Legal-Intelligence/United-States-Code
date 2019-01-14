@@ -16,7 +16,7 @@ Dispute resolution.—
 
 Mediation.—If the Administrator does not reach an agreement under paragraph (1) or the provisions referred to in subsection (g)(2)(C) with the exclusive bargaining representative of the employees, the Administrator and the bargaining representative—
 
-&emsp;&emsp;&emsp;(i) shall use the services of the Federal Mediation and Conciliation Service to attempt to reach such agreement in accordance with part 1425 of title 29, Code of Federal Regulations (as in effect on the date of enactment of the FAA Modernization and Reform Act of 2012); or
+&emsp;&emsp;&emsp;(i) shall use the services of the Federal Mediation and Conciliation Service to attempt to reach such agreement in accordance with part 1425 of title 29, Code of Federal Regulations (as in effect on the dateof enactment of the FAA Modernization and Reform Act of 2012); or
 
 &emsp;&emsp;&emsp;(ii) may by mutual agreement adopt alternative procedures for the resolution of disputes or impasses arising in the negotiation of the collective-bargaining agreement.
 
@@ -108,7 +108,7 @@ Applicability of title 5.—The provisions of title 5 shall not apply to the new
 
 &emsp;&emsp;(A) section 2302(b), relating to whistleblower protection, including the provisions for investigation and enforcement as provided in chapter 12 of title 5;
 
-&emsp;&emsp;(B) sections 3308–3320, relating to veterans' preference;
+&emsp;&emsp;(B) sections 3304(f), to the extent consistent with the Federal Aviation Administration's status as an excepted service agency, 3308–3320, 3330a, 3330b, 3330c, and 3330d, relating to veterans' preference;
 
 &emsp;&emsp;(C) chapter 71, relating to labor-management relations;
 
@@ -164,7 +164,7 @@ Election of Forum.—Where a major adverse personnel action may be contested thr
 
 Definition.—In this section, the term "major adverse personnel action" means a suspension of more than 14 days, a reduction in pay or grade, a removal for conduct or performance, a nondisciplinary removal, a furlough of 30 days or less (but not including placement in a nonpay status as the result of a lapse of appropriations or an enactment by Congress), or a reduction in force action.
 
-(Added Pub. L. 104–264, title II, §253, Oct. 9, 1996, 110 Stat. 3237; amended Pub. L. 106–181, title III, §§307(a), 308, Apr. 5, 2000, 114 Stat. 124, 126; Pub. L. 112–95, title VI, §§601, 602, 611, Feb. 14, 2012, 126 Stat. 109, 111, 117; Pub. L. 114–242, §2(a), (b), Oct. 7, 2016, 130 Stat. 978.)
+(Added Pub. L. 104–264, title II, §253, Oct. 9, 1996, 110 Stat. 3237; amended Pub. L. 106–181, title III, §§307(a), 308, Apr. 5, 2000, 114 Stat. 124, 126; Pub. L. 112–95, title VI, §§601, 602, 611, Feb. 14, 2012, 126 Stat. 109, 111, 117; Pub. L. 114–242, §2(a), (b), Oct. 7, 2016, 130 Stat. 978; Pub. L. 115–254, div. B, title V, §531, Oct. 5, 2018, 132 Stat. 3366.)
 
 #### References in Text
 
@@ -175,6 +175,8 @@ Executive Order No. 12674, referred to in subsec. (d), is set out as a note unde
 The effective date of the Air Traffic Management System Performance Improvement Act of 1996, referred to in subsec. (f), is the date that is 30 days after Oct. 9, 1996. See section 203 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (g)(2)(B). Pub. L. 115–254 inserted "3304(f), to the extent consistent with the Federal Aviation Administration's status as an excepted service agency," before "3308–3320" and "3330a, 3330b, 3330c, and 3330d," before "relating".
 
 <b>2016</b>—Subsec. (g)(2)(J). Pub. L. 114–242, §2(a), added subpar. (J).
 

@@ -10,7 +10,7 @@ Prohibition of Performance of Military Honors.—The Secretary of a military dep
 
 (b)
 
-Disqualification From Burial in Military Cemeteries.—A person who is ineligible for interment in a national cemetery under the control of the National Cemetery Administration by reason of section 2411(b) of title 38 is not entitled to or eligible for, and may not be provided, burial in—
+Disqualification From Burial in Military Cemeteries.—Except as provided in subsection (c), a person who is ineligible for interment in a national cemetery under the control of the National Cemetery Administration by reason of section 2411(b) of title 38 is not entitled to or eligible for, and may not be provided, burial in—
 
 &emsp;(1) Arlington National Cemetery;
 
@@ -20,11 +20,19 @@ Disqualification From Burial in Military Cemeteries.—A person who is ineligibl
 
 (c)
 
+Unclaimed Remains of Military Prisoners.—Subsection (b) shall not preclude the burial at the United States Disciplinary Barracks Cemetery at Fort Leavenworth, Kansas, of a military prisoner, including a military prisoner who is a person described in section 2411(b) of title 38, who dies while in custody of a military department and whose remains are not claimed by the person authorized to direct disposition of the remains or by other persons legally authorized to dispose of the remains.
+
+(d)
+
 Definition.—In this section, the term "burial" includes inurnment.
 
-(Added Pub. L. 105–85, div. A, title X, §1077(a)(1), Nov. 18, 1997, 111 Stat. 1914; amended Pub. L.107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title VI, §662(b)(1)–(3), (c)(1), Jan. 6, 2006, 119 Stat. 3315.)
+(Added Pub. L. 105–85, div. A, title X, §1077(a)(1), Nov. 18, 1997, 111 Stat. 1914; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title VI, §662(b)(1)–(3), (c)(1), Jan. 6, 2006, 119 Stat. 3315; Pub. L. 115–232, div. A, title V, §592, Aug. 13, 2018, 132 Stat. 1788.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–232, §592(1), substituted "Except as provided in subsection (c), a person who is ineligible" for "A person who is ineligible" in introductory provisions.
+
+Subsecs. (c), (d). Pub. L. 115–232, §592(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 <b>2006</b>—Pub. L. 109–163, §662(c)(1), substituted "Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits" for "Persons convicted of capital crimes: denial of certain burial-related benefits" in section catchline.
 
@@ -54,7 +62,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date
 
-Pub. L. 105–85, div. A, title X, §1077(b), Nov. 18, 1997, 111 Stat. 1915, provided that: "Section 985 of title 10, United States Code, as added by subsection (a), applies with respect to persons dying after January 1, 1997."
+Pub. L. 105–85, div. A, title X, §1077(b), Nov. 18, 1997, 111 Stat. 1915, provided that: "Section 985 of title 10,United States Code, as added by subsection (a), applies with respect to persons dying after January 1, 1997."
 
 #### Regulations
 

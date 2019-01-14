@@ -10,7 +10,7 @@ For purposes of this part, except as otherwise provided in this section, the ter
 
 &emsp;&emsp;(A) 501(c)(3) organizations were treated as governmental units with respect to their activities which do not constitute unrelated trades or businesses, determined by applying section 513(a), and
 
-&emsp;&emsp;(B) paragraphs (1) and (2) of section 141(b) were applied by substituting "5 percent" for "10 percent" each place it appears and by substituting "net proceeds" for "proceeds" each place it appears.
+&emsp;&emsp;(B) paragraphs (1) and (2) of section 141(b) were applied by substituting "5 percent" for"10 percent" each place it appears and by substituting "net proceeds" for "proceeds" each place it appears.
 
 #### (b) $150,000,000 limitation on bonds other than hospital bonds
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1013(a)(6)–(8) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1013(a)(6)–(8) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title V, §5053(c), Nov. 10, 1988, 102 Stat. 3678, provided that:
 

@@ -16,27 +16,65 @@ In carrying out this section, the Secretary shall—
 
 &emsp;(4) develop a timeline and a proposed budget for the completion of deferred maintenance on plant and equipment, with the goal of ensuring that Department programs under this part will be generally recognized to be among the best in the world.
 
-#### (c) Plan
+#### (c) Versatile neutron source
 
-The Secretary shall develop a comprehensive plan for the facilities at the Idaho National Laboratory, especially taking into account the resources available at other National Laboratories. In developing the plan, the Secretary shall—
+#### (1) Mission need
 
-&emsp;(1) evaluate the facilities planning processes utilized by other physical science and engineering research and development institutions, both in the United States and abroad, that are generally recognized as being among the best in the world, and consider how those processes might be adapted toward developing such facilities plan;
+#### (A) In general
 
-&emsp;(2) avoid duplicating, moving, or transferring nuclear science and engineering facilities, equipment, expertise, and other assets that currently exist at other National Laboratories;
+&emsp;&emsp;Not later than December 31, 2017, the Secretary shall determine the mission need for a versatile reactor-based fast neutron source, which shall operate as a national user facility.
 
-&emsp;(3) consider the establishment of a national transuranic analytic chemistry laboratory as a user facility at the Idaho National Laboratory;
+#### (B) Consultations required
 
-&emsp;(4) include a plan to develop, if feasible, the Advanced Test Reactor and Test Reactor Area into a user facility that is more readily accessible to academic and industrial researchers;
+&emsp;&emsp;In carrying out subparagraph (A), the Secretary shall consult with the private sector, institutions of higher education, the National Laboratories, and relevant Federal agencies to ensure that the user facility described in subparagraph (A) will meet the research needs of the largest practicable majority of prospective users.
 
-&emsp;(5) consider the establishment of a fast neutron source as a user facility;
+#### (2) Establishment
 
-&emsp;(6) consider the establishment of new hot cells and the configuration of hot cells most likely to advance research, development, demonstration, and commercial application in nuclear science and engineering, especially in the context of the condition and availability of these facilities elsewhere in the National Laboratories; and
+&emsp;As soon as practicable after determining the mission need under paragraph (1)(A), the Secretary shall submit to the appropriate committees of Congress a detailed plan for the establishment of the user facility.
 
-&emsp;(7) include a timeline and a proposed budget for the completion of deferred maintenance on plant and equipment.
+#### (3) Facility requirements
 
-#### (d) Transmittal to Congress
+#### (A) Capabilities
 
-Not later than 1 year after August 8, 2005, the Secretary shall transmit the plan under subsection (c) to Congress.
+&emsp;&emsp;The Secretary shall ensure that the user facility will provide, at a minimum, the following capabilities:
 
-(Pub. L. 109–58, title IX, §955, Aug. 8, 2005, 119 Stat. 887.)
+&emsp;&emsp;&emsp;(i) Fast neutron spectrum irradiation capability.
+
+&emsp;&emsp;&emsp;(ii) Capacity for upgrades to accommodate new or expanded research needs.
+
+#### (B) Considerations
+
+&emsp;&emsp;In carrying out the plan submitted under paragraph (2), the Secretary shall consider the following:
+
+&emsp;&emsp;&emsp;(i) Capabilities that support experimental high-temperature testing.
+
+&emsp;&emsp;&emsp;(ii) Providing a source of fast neutrons at a neutron flux, higher than that at which current research facilities operate, sufficient to enable research for an optimal base of prospective users.
+
+&emsp;&emsp;&emsp;(iii) Maximizing irradiation flexibility and irradiation volume to accommodate as many concurrent users as possible.
+
+&emsp;&emsp;&emsp;(iv) Capabilities for irradiation with neutrons of a lower energy spectrum.
+
+&emsp;&emsp;&emsp;(v) Multiple loops for fuels and materials testing in different coolants.
+
+&emsp;&emsp;&emsp;(vi) Additional pre-irradiation and post-irradiation examination capabilities.
+
+&emsp;&emsp;&emsp;(vii) Lifetime operating costs and lifecycle costs.
+
+#### (4) Deadline for establishment
+
+&emsp;The Secretary shall, to the maximum extent practicable, complete construction of, and approve the start of operations for, the user facility by not later than December 31, 2025.
+
+#### (5) Reporting
+
+&emsp;The Secretary shall include in the annual budget request of the Department an explanation for any delay in the progress of the Department in completing the user facility by the deadline described in paragraph (4).
+
+#### (6) Coordination
+
+&emsp;The Secretary shall leverage the best practices for management, construction, and operation of national user facilities from the Office of Science.
+
+(Pub. L. 109–58, title IX, §955, Aug. 8, 2005, 119 Stat. 887; Pub. L. 115–248, §2(e), Sept. 28, 2018, 132 Stat. 3156.)
+
+#### Amendments
+
+<b>2018</b>—Subsecs. (c), (d). Pub. L. 115–248 added subsec. (c) and struck out former subsecs. (c) and (d) which required development of a comprehensive plan for the facilities at the Idaho National Laboratory and transmittal of the plan to Congress.
 

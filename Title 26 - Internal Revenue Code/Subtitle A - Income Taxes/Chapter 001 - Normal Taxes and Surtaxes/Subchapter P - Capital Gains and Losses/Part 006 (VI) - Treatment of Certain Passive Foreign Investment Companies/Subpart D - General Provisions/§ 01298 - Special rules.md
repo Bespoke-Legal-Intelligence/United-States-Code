@@ -32,7 +32,7 @@ For purposes of this part—
 
 #### (5) Successive application
 
-&emsp;Stock considered to be owned by a person by reason of the application of paragraph (2), (3),or (4) shall, for purposes of applying such paragraphs, be considered as actually owned by such person.
+&emsp;Stock considered to be owned by a person by reason of the application of paragraph (2), (3), or (4) shall, for purposes of applying such paragraphs, be considered as actually owned by such person.
 
 #### (b) Other special rules
 
@@ -84,7 +84,7 @@ For purposes of this part—
 
 #### (B) Amount treated in same manner as previously taxed income
 
-&emsp;&emsp;Rules similar to the rules of section 959(b) shall apply to any amount described in subparagraph (A) and to any amount included in gross income under section 1293(a) (or which would have been so included but for section 951(f)) <sup>1</sup> in respect of stock which the taxpayer is treated as owning under subsection (a).
+&emsp;&emsp;Rules similar to the rules of section 959(b) shall apply to any amount described in subparagraph (A) and to any amount included in gross income under section 1293(a) (or which would have been so included but for section 951(c)) in respect of stock which the taxpayer is treated as owning under subsection (a).
 
 #### (6) Dispositions
 
@@ -132,11 +132,11 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;The amount taken into account under section 1296(a)(2) <sup>1</sup> with respect to any asset to which paragraph (1) applies shall be the unamortized portion (as determined under regulations prescribed by the Secretary) of the present value of the payments under the lease for the use of such property.
+&emsp;&emsp;The amount taken into account under section 1297(a)(2) with respect to any asset to which paragraph (1) applies shall be the unamortized portion (as determined under regulations prescribed by the Secretary) of the present value of the payments under the lease for the use of such property.
 
 #### (B) Present value
 
-&emsp;&emsp;For purposes of subparagraph (A), the present value of payments described in subparagraph (A) shall be determined in the manner provided in regulations prescribed by the Secretary—
+&emsp;&emsp;For purposes of subparagraph (A), the present value of payments described in subparagraph (A) shall be determined in themanner provided in regulations prescribed by the Secretary—
 
 &emsp;&emsp;&emsp;(i) as of the beginning of the lease term, and
 
@@ -166,7 +166,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any intangible property (as defined in section 936(h)(3)(B)) with respect to which a controlled foreign corporation is a licensee and which is used by such foreign corporation in the active conduct of a trade or business, the adjusted basis of the total assets of such foreign corporation shall be increased by an amount equal to 300 percent of the payments made during the taxable year by such foreign corporation for the use of such intangible property.
+&emsp;&emsp;In the case of any intangible property (as defined in section 367(d)(4)) with respect to which a controlled foreign corporation is a licensee and which is used by such foreign corporation in the active conduct of a trade or business, the adjusted basis of the total assets of such foreign corporation shall be increased by an amount equal to 300 percent of the payments made during the taxable year by such foreign corporation for the use of such intangible property.
 
 #### (B) Exceptions
 
@@ -174,7 +174,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(i) any payments to a foreign person if such foreign person is a related person (as defined in section 954(d)(3)) with respect to the controlled foreign corporation, and
 
-&emsp;&emsp;&emsp;(ii) any payments under a license if a principal purpose of entering into such license was to avoid the provisons <sup>2</sup> of this part.
+&emsp;&emsp;&emsp;(ii) any payments under a license if a principal purpose of entering into such license was to avoid the provisions of this part.
 
 #### (3) Controlled foreign corporation
 
@@ -188,15 +188,17 @@ Except as otherwise provided by the Secretary, each United States person who is 
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this part.
 
-(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2573, §1297; amended Pub. L. 100–647, title I, §1012(p)(10), (17), (20), (22), (24), (35), (36), Nov. 10, 1988, 102 Stat. 3517–3519, 3522; Pub. L. 101–239, title VII, §7811(i)(4), Dec. 19, 1989, 103 Stat. 2410; Pub. L. 103–66, title XIII, §13231(d)(2), (4), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §§1501(b)(10), (11), 1703(i)(5), (6), Aug. 20, 1996, 110 Stat. 1826, 1876; renumbered §1298 and amended Pub. L. 105–34, title XI, §1122(a), (e), Aug. 5, 1997, 111 Stat. 972, 977; Pub. L. 105–206, title VI, §6011(b)(2), July 22, 1998, 112 Stat. 818; Pub. L. 110–172, §11(a)(24)(C), (f)(2), Dec. 29, 2007, 121 Stat. 2487, 2489; Pub. L. 111–147, title V, §521(a), Mar. 18, 2010, 124 Stat. 112.)
-
-#### References in Text
-
-Section 951(f), referred to in subsec. (b)(5)(B), was redesignated section 951(d) by Pub. L. 108–357, title IV, §413(c)(16), Oct. 22, 2004, 118 Stat. 1508, and subsequently was redesignated section 951(c) by Pub. L. 110–172, §11(g)(13), Dec. 29, 2007, 121 Stat. 2490.
-
-Section 1296, referred to in subsec. (d)(2)(A), was renumbered section 1297 and a new section 1296 was added by Pub. L. 105–34, title XI, §1122(a), Aug. 5, 1997, 111 Stat. 972.
+(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2573, §1297; amended Pub. L. 100–647, title I, §1012(p)(10), (17), (20), (22), (24), (35), (36), Nov. 10, 1988, 102 Stat. 3517–3519, 3522; Pub. L. 101–239, title VII, §7811(i)(4), Dec. 19, 1989, 103 Stat. 2410; Pub. L. 103–66, title XIII, §13231(d)(2), (4), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §§1501(b)(10), (11), 1703(i)(5), (6), Aug. 20, 1996, 110 Stat. 1826, 1876; renumbered §1298 and amended Pub. L. 105–34, title XI, §1122(a), (e), Aug. 5, 1997, 111 Stat. 972, 977; Pub. L. 105–206, title VI, §6011(b)(2), July 22, 1998, 112 Stat. 818; Pub. L. 110–172, §11(a)(24)(C), (f)(2), Dec. 29, 2007, 121 Stat. 2487, 2489; Pub. L. 111–147, title V, §521(a), Mar. 18, 2010, 124 Stat. 112; Pub. L. 115–141, div. U, title IV, §401(a)(184)–(186), (d)(1)(D)(viii)(III), Mar. 23, 2018, 132 Stat. 1193, 1207.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(5)(B). Pub. L. 115–141, §401(a)(184), substituted "section 951(c)" for "section 951(f)".
+
+Subsec. (d)(2)(A). Pub. L. 115–141, §401(a)(185), substituted "section 1297(a)(2)" for "section 1296(a)(2)".
+
+Subsec. (e)(2)(A). Pub. L. 115–141, §401(d)(1)(D)(viii)(III), substituted "section 367(d)(4)" for "section 936(h)(3)(B)".
+
+Subsec. (e)(2)(B)(ii). Pub. L. 115–141, §401(a)(186), substituted "provisions" for "provisons".
 
 <b>2010</b>—Subsecs. (f), (g). Pub. L. 111–147 added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -280,9 +282,9 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section1235(h) of Pub. L. 99–514, set out as a note under section 1291 of this title.
+Section applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as a note under section 1291 of this title.
 
-<i><sup>1</sup></i><i> See References in Text notes below.</i>
+#### Savings Provision
 
-<i><sup>2</sup></i><i> So in original. Probably should be "provisions".</i>
+For provisions that nothing in amendment by section 401(d)(1)(D)(viii)(III) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 

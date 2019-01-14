@@ -14,7 +14,7 @@ The Administrator shall conduct a continuing review of the grant program adminis
 
 #### (d) Administration
 
-Under an agreement entered into pursuant to subsection (a), the Administrator may transfer funds appropriated to carry out this chapter toan organization. Amounts received by an organization under this subsection may be used for matching, in whole or in part, contributions (whether in money, services, or property) made to the organization by private persons and State and local government agencies.
+Under an agreement entered into pursuant to subsection (a), the Administrator may transfer funds appropriated to carry out this chapter to an organization. Amounts received by an organization under this subsection may be used for matching, in whole or in part, contributions (whether in money, services, or property) made to the organization by private persons and State and local government agencies.
 
 (Pub. L. 106–562, title II, §205, Dec. 23, 2000, 114 Stat. 2803.)
 

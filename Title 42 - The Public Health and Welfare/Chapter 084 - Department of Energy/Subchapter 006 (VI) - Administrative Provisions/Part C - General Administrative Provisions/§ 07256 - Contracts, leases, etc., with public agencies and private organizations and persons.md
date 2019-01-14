@@ -26,7 +26,7 @@ The Secretary may lease, upon terms and conditions the Secretary considers appro
 
 #### (e) Environmental concerns
 
-(1) Before entering into a lease under subsection (c), the Secretary shall consult with the Administrator of the Environmental Protection Agency (with respect to property located on a site on the National Priorities List) or the appropriate State official (with respect to property located on a site that is not listed on the National Priorities List) to determine whether the environmental conditions of the property are such that leasing the property, and the terms and conditions of the lease agreement, are consistent with safety and the protection of public health and the environment.
+(1) Before entering into a lease under subsection (c), the Secretary shall consult with theAdministrator of the Environmental Protection Agency (with respect to property located on a site on the National Priorities List) or the appropriate State official (with respect to property located on a site that is not listed on the National Priorities List) to determine whether the environmental conditions of the property are such that leasing the property, and the terms and conditions of the lease agreement, are consistent with safety and the protection of public health and the environment.
 
 (2) Before entering into a lease under subsection (c), the Secretary shall obtain the concurrence of the Administrator of the Environmental Protection Agency or the appropriate State official, as the case may be, in the determination required under paragraph (1). The Secretary may enter into a lease under subsection (c) without obtaining such concurrence if, within 60 days after the Secretary requests the concurrence, the Administrator or appropriate State official, as the case may be, fails to submit to the Secretary a notice of such individual's concurrence with, or rejection of, the determination.
 
@@ -126,7 +126,7 @@ Goal.—Except as provided in subsection (c), a goal of 5 percent of the amount 
 
 &emsp;"(1) small business concerns, including mass media and advertising firms, owned and controlled by socially and economically disadvantaged individuals (as such term is used in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and regulations issued under that section), the majority of the earnings of which directly accrue to such individuals;
 
-&emsp;"(2) historically Black colleges and universities, including any nonprofit research institution that wasan integral part of such a college or university before November 14, 1986; and
+&emsp;"(2) historically Black colleges and universities, including any nonprofit research institution that was an integral part of such a college or university before November 14, 1986; and
 
 &emsp;"(3) minority institutions (as defined in section 1046(3) of the Higher Education Act of 1965 (20 U.S.C. 1135d-5(3))), which, for the purposes of this section, shall include Hispanic-serving institutions (as defined in section 316(b)(1) of such Act (20 U.S.C. 1059c(b)(1))).
 

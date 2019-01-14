@@ -20,11 +20,11 @@ In carrying out this subchapter, the Secretary shall make loans to producers on 
 
 #### (d) Compliance with conservation and wetlands requirements
 
-As a condition of the receipt of a marketing assistance loan under subsection (a), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.) and applicable wetland protection requirements under subtitle C of title XII of the Act (16 U.S.C. 3821 et seq.) during the term of the loan.
+As a condition of the receipt of a marketing assistance loan under subsection (a), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.)and applicable wetland protection requirements under subtitle C of title XII of the Act (16 U.S.C. 3821 et seq.) during the term of the loan.
 
 #### (e) Termination of superseded loan authority
 
-Notwithstanding section 131 of the Federal Agriculture Improvement and Reform Act of 1996 (7U.S.C. 7231), nonrecourse marketing assistance loans shall not be made for the 2002 crop of loan commodities under subtitle C of title I of such Act \[7 U.S.C. 7231 et seq.\].
+Notwithstanding section 131 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7231), nonrecourse marketing assistance loans shall not be made for the 2002 crop of loan commodities under subtitle C of title I of such Act \[7 U.S.C. 7231 et seq.\].
 
 (Pub. L. 107–171, title I, §1201, May 13, 2002, 116 Stat. 155.)
 

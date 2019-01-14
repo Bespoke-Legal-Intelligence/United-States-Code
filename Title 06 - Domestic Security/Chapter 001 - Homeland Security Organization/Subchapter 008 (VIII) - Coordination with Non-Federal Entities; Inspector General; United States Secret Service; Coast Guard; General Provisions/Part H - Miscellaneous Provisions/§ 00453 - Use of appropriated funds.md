@@ -12,7 +12,7 @@
 
 #### (b) Gifts
 
-Except as authorized by section 2601 of title 10, by section 93 of title 14, or by section 321n or 464 of this title, gifts or donations of services or property of or for the Department may not be accepted, used, or disposed of unless specifically permitted in advance in an appropriations Act and only under the conditions and for the purposes specified in such appropriations Act.
+Except as authorized by section 2601 of title 10, by section 93 <sup>1</sup> of title 14, or by section 321n or 464 of this title, gifts or donations of services or property of or for the Department may not be accepted, used, or disposed of unless specifically permitted in advance in an appropriations Act and only under the conditions and for the purposes specified in such appropriations Act.
 
 #### (c) Budget request
 
@@ -28,9 +28,13 @@ This chapter, referred to in subsec. (a)(1), was in the original a reference to 
 
 In subsec. (a)(1), "subchapter IV of chapter 5 of title 40" substituted for "section 204 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 485)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
+Section 93 of title 14, referred to in subsec. (b), was redesignated section 504 of title 14 by Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 93 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+
 #### Amendments
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–245 substituted "title 10, by section 93 of title 14, or by section 321n or 464 of this title, gifts or donations" for "title 10 and by section 93 of title 14, gifts or donations".
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–7 substituted "Except as authorized by section 2601 of title 10 and by section 93 of title 14, gifts" for "Gifts".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

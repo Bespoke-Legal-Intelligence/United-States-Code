@@ -42,7 +42,7 @@
 | [2321\.](%C2%A7%2002321%20-%20Validation%20of%20proprietary%20data%20restrictions.md) | Validation of proprietary data restrictions. |
 | [2322\.](%C2%A7%2002322%20-%20Management%20of%20intellectual%20property%20matters%20within%20the%20Department%20of%20Defense.md) | Management of intellectual property matters within the Department of Defense. |
 | [2322a.](%C2%A7%2002322a%20-%20Requirement%20for%20consideration%20of%20certain%20matters%20during%20acquisition%20of%20noncommercial%20computer%20software.md) | Requirement for consideration of certain matters during acquisition of noncommercial computer software. |
-| [2323\.](%C2%A7%2002323%20-%20Contract%20goal%20for%20small%20disadvantaged%20businesses%20and%20certain%20institutions%20of%20higher%20education.md) | Contract goal for small disadvantaged businesses and certain institutions of higher education. |
+| \[2323. | Repealed.\] |
 | [2323a.](%C2%A7%2002323a%20-%20Credit%20for%20Indian%20contracting%20in%20meeting%20certain%20subcontracting%20goals%20for%20small%20disadvantaged%20businesses%20and%20certain%20institutions%20of%E2%80%A6.md) | Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses and certain institutions of higher education. |
 | [2324\.](%C2%A7%2002324%20-%20Allowable%20costs%20under%20defense%20contracts.md) | Allowable costs under defense contracts. |
 | [2325\.](%C2%A7%2002325%20-%20Restructuring%20costs.md) | Restructuring costs. |
@@ -53,7 +53,7 @@
 | [2330\.](%C2%A7%2002330%20-%20Procurement%20of%20contract%20services%20management%20structure.md) | Procurement of contract services: management structure. |
 | [2330a.](%C2%A7%2002330a%20-%20Procurement%20of%20services%20tracking%20of%20purchases.md) | Procurement of services: tracking of purchases. |
 | [2331\.](%C2%A7%2002331%20-%20Procurement%20of%20services%20contracts%20for%20professional%20and%20technical%20services.md) | Procurement of services: contracts for professional and technical services. |
-| [2332\.](%C2%A7%2002332%20-%20Share-in-savings%20contracts.md) | Share-in-savings contracts. |
+| \[2332. | Repealed.\] |
 | [2333\.](%C2%A7%2002333%20-%20Joint%20policies%20on%20requirements%20definition%2C%20contingency%20program%20management%2C%20and%20contingency%20contracting.md) | Joint policies on requirements definition, contingency program management, and contingency contracting. |
 | [2334\.](%C2%A7%2002334%20-%20Independent%20cost%20estimation%20and%20cost%20analysis.md) | Independent cost estimation and cost analysis. |
 | [2335\.](%C2%A7%2002335%20-%20Prohibition%20on%20collection%20of%20political%20information.md) | Prohibition on collection of political information. |
@@ -61,11 +61,14 @@
 | [2337\.](%C2%A7%2002337%20-%20Life-cycle%20management%20and%20product%20support.md) | Life-cycle management and product support. |
 | [2337a.](%C2%A7%2002337a%20-%20Assessment%2C%20management%2C%20and%20control%20of%20operating%20and%20support%20costs%20for%20major%20weapon%20systems.md) | Assessment, management, and control of operating and support costs for major weapon systems. |
 | [2338\.](%C2%A7%2002338%20-%20Micro-purchase%20threshold.md) | Micro-purchase threshold. |
-| [2339\.](%C2%A7%2002339%20-%20Micro-purchase%20threshold%20for%20basic%20research%20programs%20and%20activities%20of%20the%20Department%20of%20Defense%20science%20and%20technology%20reinvention%E2%80%A6.md) | Micro-purchase threshold for basic research programs and activities of the Department of Defense science and technology reinvention laboratories. |
+| \[2339. | Repealed.\] |
+| [2339a.](%C2%A7%2002339a%20-%20Requirements%20for%20information%20relating%20to%20supply%20chain%20risk.md) | Requirements for information relating to supply chain risk. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §§812(a)(2)(B), (3)(B), 821(c)(2), 881(a)(2), Aug. 13, 2018, 132 Stat. 1846, 1847, 1853, 1913, struck out items 2323 "Contract goal for small disadvantaged businesses and certain institutions of higher education", 2332 "Share-in-savings contracts", and 2339 "Micro-purchase threshold for basic research programs and activities of the Department of Defense science and technology reinvention laboratories" and added item 2339a.
 
 <b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(1), Dec. 12, 2017, 131 Stat. 1599, amended directory language of Pub. L. 114–328, §217(a)(2), effective Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted. See 2016 Amendment note below.
 
@@ -186,7 +189,7 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02321 - Validation of proprietary data restrictions](%C2%A7%2002321%20-%20Validation%20of%20proprietary%20data%20restrictions.md)
 - [&sect; 02322 - Management of intellectual property matters within the Department of Defense](%C2%A7%2002322%20-%20Management%20of%20intellectual%20property%20matters%20within%20the%20Department%20of%20Defense.md)
 - [&sect; 02322a - Requirement for consideration of certain matters during acquisition of noncommercial computer software](%C2%A7%2002322a%20-%20Requirement%20for%20consideration%20of%20certain%20matters%20during%20acquisition%20of%20noncommercial%20computer%20software.md)
-- [&sect; 02323 - Contract goal for small disadvantaged businesses and certain institutions of higher education](%C2%A7%2002323%20-%20Contract%20goal%20for%20small%20disadvantaged%20businesses%20and%20certain%20institutions%20of%20higher%20education.md)
+- [&sect; 02323 - Repealed. Pub. L. 115&#8211;232, div. A, title VIII, &sect;812(a)(2)(A), Aug. 13, 2018, 132 Stat. 1846](%C2%A7%2002323%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93232%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7812%28a%29%282%29%28A%29%2C%20Aug.%2013%2C%202018%2C%20132%20Stat.%201846.md)
 - [&sect; 02323a - Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses and certain institutions of&#8230;](%C2%A7%2002323a%20-%20Credit%20for%20Indian%20contracting%20in%20meeting%20certain%20subcontracting%20goals%20for%20small%20disadvantaged%20businesses%20and%20certain%20institutions%20of%E2%80%A6.md)
 - [&sect; 02324 - Allowable costs under defense contracts](%C2%A7%2002324%20-%20Allowable%20costs%20under%20defense%20contracts.md)
 - [&sect; 02325 - Restructuring costs](%C2%A7%2002325%20-%20Restructuring%20costs.md)
@@ -197,7 +200,7 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02330 - Procurement of contract services management structure](%C2%A7%2002330%20-%20Procurement%20of%20contract%20services%20management%20structure.md)
 - [&sect; 02330a - Procurement of services tracking of purchases](%C2%A7%2002330a%20-%20Procurement%20of%20services%20tracking%20of%20purchases.md)
 - [&sect; 02331 - Procurement of services contracts for professional and technical services](%C2%A7%2002331%20-%20Procurement%20of%20services%20contracts%20for%20professional%20and%20technical%20services.md)
-- [&sect; 02332 - Share-in-savings contracts](%C2%A7%2002332%20-%20Share-in-savings%20contracts.md)
+- [&sect; 02332 - Repealed. Pub. L. 115&#8211;232, div. A, title VIII, &sect;812(a)(3)(A), Aug. 13, 2018, 132 Stat. 1847](%C2%A7%2002332%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93232%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7812%28a%29%283%29%28A%29%2C%20Aug.%2013%2C%202018%2C%20132%20Stat.%201847.md)
 - [&sect; 02333 - Joint policies on requirements definition, contingency program management, and contingency contracting](%C2%A7%2002333%20-%20Joint%20policies%20on%20requirements%20definition%2C%20contingency%20program%20management%2C%20and%20contingency%20contracting.md)
 - [&sect; 02334 - Independent cost estimation and cost analysis](%C2%A7%2002334%20-%20Independent%20cost%20estimation%20and%20cost%20analysis.md)
 - [&sect; 02335 - Prohibition on collection of political information](%C2%A7%2002335%20-%20Prohibition%20on%20collection%20of%20political%20information.md)
@@ -205,4 +208,5 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02337 - Life-cycle management and product support](%C2%A7%2002337%20-%20Life-cycle%20management%20and%20product%20support.md)
 - [&sect; 02337a - Assessment, management, and control of operating and support costs for major weapon systems](%C2%A7%2002337a%20-%20Assessment%2C%20management%2C%20and%20control%20of%20operating%20and%20support%20costs%20for%20major%20weapon%20systems.md)
 - [&sect; 02338 - Micro-purchase threshold](%C2%A7%2002338%20-%20Micro-purchase%20threshold.md)
-- [&sect; 02339 - Micro-purchase threshold for basic research programs and activities of the Department of Defense science and technology reinvention&#8230;](%C2%A7%2002339%20-%20Micro-purchase%20threshold%20for%20basic%20research%20programs%20and%20activities%20of%20the%20Department%20of%20Defense%20science%20and%20technology%20reinvention%E2%80%A6.md)
+- [&sect; 02339 - Repealed. Pub. L. 115&#8211;232, div. A, title VIII, &sect;821(c)(1), Aug. 13, 2018, 132 Stat. 1853](%C2%A7%2002339%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93232%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7821%28c%29%281%29%2C%20Aug.%2013%2C%202018%2C%20132%20Stat.%201853.md)
+- [&sect; 02339a - Requirements for information relating to supply chain risk](%C2%A7%2002339a%20-%20Requirements%20for%20information%20relating%20to%20supply%20chain%20risk.md)

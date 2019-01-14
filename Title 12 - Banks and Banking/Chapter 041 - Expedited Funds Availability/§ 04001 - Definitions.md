@@ -66,7 +66,7 @@ For purposes of this chapter—
 
 #### (13) Local originating depository institution
 
-&emsp;The term "local originating depository institution" means any originating depository institution which is located in the same check processing region as the receiving depository institution.
+&emsp;The term "local originating depository institution" means any originating depositoryinstitution which is located in the same check processing region as the receiving depository institution.
 
 #### (14) Noncash item
 
@@ -112,11 +112,11 @@ For purposes of this chapter—
 
 #### (20) Receiving depository institution
 
-&emsp;The term "receiving depository institution" means the branch of a depository institution or the proprietary ATM in which a check is first deposited.
+&emsp;The term "receiving depository institution" means the branch of a depository institution or the proprietary ATM, located in the United States, in which a check is first deposited.
 
 #### (21) State
 
-&emsp;The term "State" means any State, the District of Columbia, the Commonwealth of Puerto Rico, or the Virgin Islands.
+&emsp;The term "State" means any State, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, or the Virgin Islands.
 
 #### (22) Teller's check
 
@@ -124,7 +124,7 @@ For purposes of this chapter—
 
 #### (23) United States
 
-&emsp;The term "United States" means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the Virgin Islands.
+&emsp;The term "United States" means the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the Virgin Islands.
 
 #### (24) Unit of general local government
 
@@ -134,11 +134,21 @@ For purposes of this chapter—
 
 &emsp;The term "wire transfer" has such meaning as the Board shall prescribe by regulations.
 
-(Pub. L. 100–86, title VI, §602, Aug. 10, 1987, 101 Stat. 635.)
+(Pub. L. 100–86, title VI, §602, Aug. 10, 1987, 101 Stat. 635; Pub. L. 115–174, title II, §208(a)(1), May 24, 2018, 132 Stat. 1312.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title VI of Pub. L. 100–86, Aug. 10, 1987, 101 Stat. 635, known as the Expedited Funds Availability Act, which enacted this chapter, amended section 248a of this title, and enacted provisions set out as notes under sections 248a and 4001 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### Amendments
+
+<b>2018</b>—Par. (20). Pub. L. 115–174, §208(a)(1)(A), inserted ", located in the United States," after "ATM".
+
+Pars. (21), (23). Pub. L. 115–174, §208(a)(1)(B), (C), inserted "American Samoa, the Commonwealth of the Northern Mariana Islands, Guam," after "Puerto Rico,".
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–174, title II, §208(b), May 24, 2018, 132 Stat. 1313, provided that: "The amendments made by this section \[amending this section and section 4002 of this title\] shall take effect on the date that is 30 days after the date of enactment of this Act \[May 24, 2018\]."
 
 #### Effective Date
 

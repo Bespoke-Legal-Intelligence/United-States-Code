@@ -56,7 +56,7 @@ The membership of the National Counterintelligence Policy Board shall consist of
 
 &emsp;(C) where, after appropriate consultation with the department or agency concerned, the Federal Bureau of Investigation undertakes investigative activities to determine the source of the loss or compromise, the Federal Bureau of Investigation is given complete and timely access to the employees and records of the department or agency concerned for purposes of such investigative activities.
 
-(2) Except as provided in paragraph (5), the Director of the Federal Bureau of Investigation shall ensure that espionage information obtained by the Federal Bureau of Investigation pertaining to the personnel, operations, or information of departments or agencies of the executive branch, is provided through appropriate channels in a timely manner to the department or agency concerned, and that such departments or agencies are consulted in a timely manner with respect to espionage investigations undertaken by the Federal Bureau of Investigation which involve the personnel, operations, or information of such department or agency.
+(2) Except as provided in paragraph (5), the Director of the Federal Bureau of Investigationshall ensure that espionage information obtained by the Federal Bureau of Investigation pertaining to the personnel, operations, or information of departments or agencies of the executive branch, is provided through appropriate channels in a timely manner to the department or agency concerned, and that such departments or agencies are consulted in a timely manner with respect to espionage investigations undertaken by the Federal Bureau of Investigation which involve the personnel, operations, or information of such department or agency.
 
 (3)(A) The Director of the Federal Bureau of Investigation shall submit to the head of the department or agency concerned a written assessment of the potential impact of the actions of the department or agency on a counterintelligence investigation.
 
@@ -128,7 +128,7 @@ Subsec. (c)(3). Pub. L. 106–567, §605(a)(3), added par. (3). Former par. (3) 
 
 Subsec. (c)(4). Pub. L. 106–567, §605(a), (c), added par. (4). Former par. (4) redesignated (6).
 
-Subsec. (c)(5). Pub. L. 106–567, §605(a)(2), (4), redesignated par. (3) as (5) and substituted "paragraph (1), (2),or (3)" for "paragraph (1) or (2)". Former par. (5) redesignated (7).
+Subsec. (c)(5). Pub. L. 106–567, §605(a)(2), (4), redesignated par. (3) as (5) and substituted "paragraph (1), (2), or (3)" for "paragraph (1) or (2)". Former par. (5) redesignated (7).
 
 Subsec. (c)(6) to (8). Pub. L. 106–567, §605(a)(2), redesignated pars. (4) to (6) as (6) to (8), respectively.
 

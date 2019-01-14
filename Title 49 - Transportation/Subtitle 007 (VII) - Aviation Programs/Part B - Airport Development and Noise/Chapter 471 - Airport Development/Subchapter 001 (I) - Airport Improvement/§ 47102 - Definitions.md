@@ -64,7 +64,7 @@ In this subchapter—
 
 &emsp;&emsp;(E) relocating after December 31, 1991, an air traffic control tower and any navigational aid (including radar) if the relocation is necessary to carry out a project approved by the Secretary under this subchapter or under section 40117.
 
-&emsp;&emsp;(F) constructing, reconstructing, repairing, or improving an airport, or purchasing capital equipment for an airport, if necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), except constructing or purchasing capital equipment that would benefit primarily a revenue-producing area of the airport used by a nonaeronautical business.
+&emsp;&emsp;(F) constructing, reconstructing, repairing, or improving an airport, or purchasingcapital equipment for an airport, if necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), except constructing or purchasing capital equipment that would benefit primarily a revenue-producing area of the airport used by a nonaeronautical business.
 
 &emsp;&emsp;(G) acquiring land for, or work necessary to construct, a pad suitable for deicing aircraft before takeoff at a commercial service airport, including constructing or reconstructing paved areas, drainage collection structures, treatment and discharge systems, appropriate lighting, paved access for deicing vehicles and aircraft, and including acquiring glycol recovery vehicles, but not including acquiring aircraft deicing fluids or constructing or reconstructing storage facilities for aircraft deicing equipment or fluids.
 
@@ -74,9 +74,13 @@ In this subchapter—
 
 &emsp;&emsp;(J) constructing an air traffic control tower or acquiring and installing air traffic control, communications, and related equipment at an air traffic control tower under the terms specified in section 47124(b)(4).
 
-&emsp;&emsp;(K) work necessary to construct or modify airport facilities to provide low-emission fuel systems, gate electrification, and other related air quality improvements at a commercial service airport if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) <sup>1</sup> and if such project will result in an airport receiving appropriate emission credits, as described in section 47139.
+&emsp;&emsp;(K) work necessary to construct or modify airport facilities to provide low-emission fuel systems, gate electrification, and other related air quality improvements at a commercial service airport if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a)) and if the airport would be able to receive emission credits, as described in section 47139.
 
-&emsp;&emsp;(L) a project for the acquisition or conversion of vehicles and ground support equipment, owned by a commercial service airport, to low-emission technology, if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) <sup>1</sup> and if such project will result in an airport receiving appropriate emission credits as described in section 47139.
+&emsp;&emsp;(L) a project by a commercial service airport for the acquisition of airport-owned vehicles or ground support equipment equipped with low-emission technology if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a)), if the airport would be able to receive appropriate emission credits (as described in section 47139), and the vehicles are;
+
+&emsp;&emsp;&emsp;(i) used exclusively on airport property; or
+
+&emsp;&emsp;&emsp;(ii) used exclusively to transport passengers and employees between the airport and the airport's consolidated rental car facility or an intermodal surface transportation facility adjacent to the airport.
 
 &emsp;&emsp;(M) construction of mobile refueler parking within a fuel farm at a nonprimary airport meeting the requirements of section 112.8 of title 40, Code of Federal Regulations.
 
@@ -84,9 +88,15 @@ In this subchapter—
 
 &emsp;&emsp;(O) acquiring and installing facilities and equipment to provide air conditioning, heating, or electric power from terminal-based, nonexclusive use facilities to aircraft parked at a public use airport for the purpose of reducing energy use or harmful emissions as compared to the provision of such air conditioning, heating, or electric power from aircraft-based systems.
 
+&emsp;&emsp;(P) an on-airport project to improve the reliability and efficiency of the airport's power supply and to prevent power disruptions to the airfield, passenger terminal, and any other airport facilities, including the acquisition and installation of electrical generators, separation of the airport's main power supply from its redundant power supply, and the construction or modification of airport facilities to install a microgrid (as defined in section 641 of the United States Energy Storage Competitiveness Act of 2007 (42 U.S.C. 17231)).
+
+&emsp;&emsp;(Q) converting or retrofitting vehicles and ground support equipment into eligible zero-emission vehicles and equipment (as defined in section 47136) and for acquiring, by purchase or lease, eligible zero-emission vehicles and equipment.
+
+&emsp;&emsp;(R) predevelopment planning, including financial, legal, or procurement consulting services, related to an application or proposed application for an exemption under section 47134.
+
 &emsp;(4) "airport hazard" means a structure or object of natural growth located on or near a public-use airport, or a use of land near the airport, that obstructs or otherwise is hazardous to the landing or taking off of aircraft at or from the airport.
 
-&emsp;(5) "airport planning" means planning as defined by regulations the Secretary prescribes and includes—
+&emsp;(5) "airport planning" means planning as defined by requirements the Secretary prescribes and includes—
 
 &emsp;&emsp;(A) integrated airport system planning;
 
@@ -98,7 +108,7 @@ In this subchapter—
 
 &emsp;(7) "commercial service airport" means a public airport in a State that the Secretary determines has at least 2,500 passenger boardings each year and is receiving scheduled passenger aircraft service.
 
-&emsp;(8) "general aviation airport" means a public airport that is located in a State and that, as determined by the Secretary—
+&emsp;(8) "general aviation airport" means a public-use airport that is located in a State and that, as determined by the Secretary—
 
 &emsp;&emsp;(A) does not have scheduled service; or
 
@@ -188,7 +198,7 @@ In this subchapter—
 
 &emsp;&emsp;(B) the cost of a vehicle described in section 47119(a)(1)(B).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1248; Pub. L. 103–305, title I, §105, Aug. 23, 1994, 108 Stat. 1572; Pub. L. 104–264, title I, §142(b)(1), Oct. 9, 1996, 110 Stat. 3221; Pub. L. 106–181, title I, §§121(c), 122, 123(b), 137(b), title V, §514(a), Apr. 5, 2000, 114 Stat. 74, 75, 85, 144; Pub. L. 107–71, title I, §119(a)(1), (5), Nov. 19, 2001, 115 Stat. 628, 629; Pub. L. 108–7, div. I, title III, §370(a), Feb. 20, 2003, 117 Stat. 424; Pub. L. 108–176, title I, §§141, 142, 159(b)(1), (d), title VIII, §801(a), Dec. 12, 2003, 117 Stat. 2503, 2510, 2511, 2586; Pub. L. 112–95, title I, §132, Feb. 14, 2012, 126 Stat. 21.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1248; Pub. L. 103–305, title I, §105, Aug. 23, 1994, 108Stat. 1572; Pub. L. 104–264, title I, §142(b)(1), Oct. 9, 1996, 110 Stat. 3221; Pub. L. 106–181, title I, §§121(c), 122, 123(b), 137(b), title V, §514(a), Apr. 5, 2000, 114 Stat. 74, 75, 85, 144; Pub. L. 107–71, title I, §119(a)(1), (5), Nov. 19, 2001, 115 Stat. 628, 629; Pub. L. 108–7, div. I, title III, §370(a), Feb. 20, 2003, 117 Stat. 424; Pub. L. 108–176, title I, §§141, 142, 159(b)(1), (d), title VIII, §801(a), Dec. 12, 2003, 117 Stat. 2503, 2510, 2511, 2586; Pub. L. 112–95, title I, §132, Feb. 14, 2012, 126 Stat. 21; Pub. L. 115–254, div. B, title I, §165, Oct. 5, 2018, 132 Stat. 3225.)
 
 Historical and Revision Notes
 
@@ -340,6 +350,16 @@ The Federal Water Pollution Control Act, referred to in par. (3)(F), is act June
 
 #### Amendments
 
+<b>2018</b>—Par. (3)(K). Pub. L. 115–254, §165(1)(A), substituted "7505a)) and if the airport would be able to receive" for "7505a) and if such project will result in an airport receiving appropriate".
+
+Par. (3)(L). Pub. L. 115–254, §165(1)(B), added subpar. (L) and struck out former subpar. (L) which read as follows: "a project for the acquisition or conversion of vehicles and ground support equipment, owned by a commercial service airport, to low-emission technology, if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) and if such project will result in an airport receiving appropriate emission credits as described in section 47139."
+
+Par. (3)(P) to (R). Pub. L. 115–254, §165(1)(C), added subpars. (P) to (R).
+
+Par. (5). Pub. L. 115–254, §165(2), substituted "requirements" for "regulations" in introductory provisions.
+
+Par. (8). Pub. L. 115–254, §165(3), substituted "public-use" for "public" in introductory provisions.
+
 <b>2012</b>—Par. (3)(B)(iv). Pub. L. 112–95, §132(a)(1), substituted "9" for "20".
 
 Par. (3)(G). Pub. L. 112–95, §132(a)(2), inserted "and including acquiring glycol recovery vehicles," after "vehicles and aircraft,".
@@ -436,6 +456,40 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### Airport Access Roads in Remote Locations
+
+Pub. L. 115–254, div. B, title I, §162, Oct. 5, 2018, 132 Stat. 3223, provided that: "Notwithstanding section 47102 of title 49, United States Code, for fiscal years 2018 through 2023—
+
+&emsp;"(1) the definition of the term 'airport development' under that section includes the construction of a storage facility to shelter snow removal equipment or aircraft rescue and firefighting equipment that is owned by an airport sponsor and used exclusively to maintain safe airfield operations, up to the facility size necessary to accommodate the types and quantities of equipment prescribed by the FAA, regardless of whether Federal funding was used to acquire the equipment;
+
+&emsp;"(2) a storage facility to shelter snow removal equipment may exceed the facility size limitation described in paragraph (1) if the airport sponsor certifies to the Secretary that the following conditions are met:
+
+&emsp;&emsp;"(A) The storage facility to be constructed will be used to store snow removal equipment exclusively used for clearing airfield pavement of snow and ice following a weather event.
+
+&emsp;&emsp;"(B) The airport is categorized as a local general aviation airport in the Federal Aviation Administration's 2017–2021 National Plan of Integrated Airport Systems (NPIAS) report.
+
+&emsp;&emsp;"(C) The 30-year annual snowfall normal of the nearest weather station based on the National Oceanic and Atmospheric Administration Summary of Monthly Normals 1981–2010 exceeds 26 inches.
+
+&emsp;&emsp;"(D) The airport serves as a base for a medical air ambulance transport aircraft.
+
+&emsp;&emsp;"(E) The airport master record (Form 5010–1) effective on September 14, 2017 for the airport indicates 45 based aircraft consisting of single engine, multiple engine, and jet engine aircraft.
+
+&emsp;&emsp;"(F) No funding under this section will be used for any portion of the storage facility designed to shelter maintenance and operations equipment that are not required for clearing airfield pavement of snow and ice.
+
+&emsp;&emsp;"(G) The airport sponsor will complete design of the storage building not later than September 30, 2019, and will initiate construction of the storage building not later than September 30, 2020.
+
+&emsp;&emsp;"(H) The area of the storage facility, or portion thereof, to be funded under this subsection \[sic\] does not exceed 6,000 square feet; and
+
+&emsp;"(3) the definition of the term 'terminal development' under that section includes the development of an airport access road that—
+
+&emsp;&emsp;"(A) is located in a noncontiguous State;
+
+&emsp;&emsp;"(B) is not more than 5 miles in length;
+
+&emsp;&emsp;"(C) connects to the nearest public roadways of not more than the 2 closest census designated places; and
+
+&emsp;&emsp;"(D) may provide incidental access to public or private property that is adjacent to the road and is not otherwise connected to a public road."
+
 #### Guidance
 
 Pub. L. 108–176, title I, §159(b)(2), Dec. 12, 2003, 117 Stat. 2510, provided that:
@@ -447,6 +501,4 @@ Eligible low-emission modifications and improvements.—The Secretary of Transpo
 "(B)
 
 Eligible low-emission vehicle technology.—The Secretary, in consultation with the Administrator, shall issue guidance describing eligible low-emission vehicle technology, and stating how airport sponsors will demonstrate benefits, under section 47102(3)(L) of title 49, United States Code, as added by this subsection."
-
-<i><sup>1</sup></i><i> So in original. There probably should be a second closing parenthesis.</i>
 

@@ -130,7 +130,7 @@ Receiving apportionment.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), for an area with a fixed guideway system, the amounts provided under this subsection shall be apportioned to the designated recipient for the urbanized area in which the system operates.
+In general.—Except as provided in subparagraph (B), for an area with a fixedguideway system, the amounts provided under this subsection shall be apportioned to the designated recipient for the urbanized area in which the system operates.
 
 &emsp;&emsp;(B)
 
@@ -194,7 +194,7 @@ Remaining costs.—The remainder of the net project cost shall be provided—
 
 &emsp;&emsp;(C) from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 844; Pub. L. 103–429, §6(14), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 102–240, title III, §3049(b), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §§3028, 3029(b)(12), June 9, 1998, 112 Stat. 366, 373; Pub. L. 105–206, title IX, §9009(p), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(b)(2), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 109–59, title III, §3035(a), Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(m), June 6, 2008, 122 Stat. 1611; Pub. L. 111–147, title IV, §435, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2305, Dec. 22, 2010, 124 Stat. 3528; Pub. L. 112–5, title III, §305, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §135, Sept. 16, 2011, 125Stat. 352; Pub. L. 112–102, title III, §305, Mar. 30, 2012, 126 Stat. 277; Pub. L. 112–140, title III, §305, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20027, div. G, title III, §113005, July 6, 2012, 126 Stat. 723, 985; Pub. L. 114–94, div. A, title III, §3015, Dec. 4, 2015, 129 Stat. 1478.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 844; Pub. L. 103–429, §6(14), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 102–240, title III, §3049(b), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §§3028, 3029(b)(12), June 9, 1998, 112 Stat. 366, 373; Pub. L. 105–206, title IX, §9009(p), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(b)(2), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 109–59, title III, §3035(a), Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(m), June 6, 2008, 122 Stat. 1611; Pub. L. 111–147, title IV, §435, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2305, Dec. 22, 2010, 124 Stat. 3528; Pub. L. 112–5, title III, §305, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §135, Sept. 16, 2011, 125 Stat. 352; Pub. L. 112–102, title III, §305, Mar. 30, 2012, 126 Stat. 277; Pub. L. 112–140, title III, §305, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20027, div. G, title III, §113005, July 6, 2012, 126 Stat. 723, 985; Pub. L. 114–94, div. A, title III, §3015, Dec. 4, 2015, 129 Stat. 1478.)
 
 Historical and Revision Notes
 
@@ -240,7 +240,7 @@ This amends 49:5337(a)(4) to correct an erroneous cross-reference.
 
 #### References in Text
 
-The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (c)(2)(B), (4)(B), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways.
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (c)(2)(B), (4)(B), is deemed to be Oct. 1, 2012, see section 3(a), (b)of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways.
 
 Section 3028(a) of the Transportation Equity Act for the 21st Century (Public Law 105–178; 112 Stat. 366), referred to in subsec. (c)(6)(B), amended generally subsec. (a) of this section. See 1998 Amendment note below.
 
@@ -302,7 +302,7 @@ Subsec. (e). Pub. L. 102–240, §3049(b)(2), as added by Pub. L. 105–130, add
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective and Termination Dates of 2012 Amendment
 
@@ -324,5 +324,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 Pub. L. 108–310, §8(b), Sept. 30, 2004, 118 Stat. 1154, provided for pro rata apportionment for fixed guideway modernization to reflect partial fiscal year 2005 funding.
 
-Pub. L. 108–88, §8(b)(1), Sept. 30, 2003, 117 Stat. 1121, as amended by Pub. L. 108–202, §9(b), Feb. 29, 2004, 118 Stat. 485; Pub. L. 108–224, §7(b), Apr. 30, 2004, 118 Stat. 633; Pub. L. 108–263, §7(b), June 30, 2004, 118 Stat. 704, which directed the Secretary of Transportation to determine the amount that each urbanized area would be apportioned for fixed guideway modernization under section 5337 of this title on a pro rata basis reflecting partial fiscal year 2004 funding made available under section 5338 of this title, was repealed by Pub. L. 108–280, §7(b), July 30, 2004, 118 Stat. 882.
+Pub. L. 108–88, §8(b)(1), Sept. 30, 2003, 117 Stat. 1121, as amended by Pub. L. 108–202, §9(b), Feb. 29, 2004, 118 Stat. 485; Pub. L. 108–224, §7(b), Apr. 30, 2004, 118 Stat. 633; Pub. L. 108–263, §7(b), June 30, 2004, 118 Stat. 704, which directed the Secretary of Transportation to determine the amount that each urbanized area would be apportioned for fixed guideway modernization under section 5337 of this title on a pro rata basis reflecting partialfiscal year 2004 funding made available under section 5338 of this title, was repealed by Pub. L. 108–280, §7(b), July 30, 2004, 118 Stat. 882.
 

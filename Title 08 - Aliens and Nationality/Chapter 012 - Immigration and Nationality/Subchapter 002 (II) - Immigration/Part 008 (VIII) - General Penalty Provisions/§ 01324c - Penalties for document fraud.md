@@ -46,7 +46,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 #### (B) Conduct of hearing
 
-&emsp;&emsp;Any hearing so requested shall be conducted before an administrative law judge.The hearing shall be conducted in accordance with the requirements of section 554 of title 5. The hearing shall be held at the nearest practicable place to the place where the person or entity resides or of the place where the alleged violation occurred. If no hearing is so requested, the Attorney General's imposition of the order shall constitute a final and unappealable order.
+&emsp;&emsp;Any hearing so requested shall be conducted before an administrative law judge. The hearing shall be conducted in accordance with the requirements of section 554 of title 5. The hearing shall be held at the nearest practicable place to the place where the person or entity resides or of the place where the alleged violation occurred. If no hearing is so requested, the Attorney General's imposition of the order shall constitute a final and unappealable order.
 
 #### (C) Issuance of orders
 

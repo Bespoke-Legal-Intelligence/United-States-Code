@@ -126,7 +126,7 @@ For purposes of determining the market feasibility of any project to be assisted
 
 #### (m) Standards for housing and related facilities rehabilitated or repaired; establishment, criteria, etc.
 
-The Secretary shall establish standards for housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section. Standards established by the Secretary under this subsection shall provide that except for substantial rehabilitation the particular items or systems repaired or rehabilitated must meet appropriate levels of quality or performance comparable to those levels prescribed by the Secretary of Housing and Urban Development for rehabilitation, but shall not require that such items or systems or the remainder of the property meet the standards which are applicable to new construction. The Secretary shall ensure that standards prescribed under this subsection provide decent, safe, and sanitary housing and related facilities.
+The Secretary shall establish standards for housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section. Standards established by the Secretary under this subsection shall provide that except for substantial rehabilitation the particular items or systems repaired or rehabilitated must meet appropriatelevels of quality or performance comparable to those levels prescribed by the Secretary of Housing and Urban Development for rehabilitation, but shall not require that such items or systems or the remainder of the property meet the standards which are applicable to new construction. The Secretary shall ensure that standards prescribed under this subsection provide decent, safe, and sanitary housing and related facilities.
 
 #### (n) Assistance to projects located on more than one site
 
@@ -134,7 +134,7 @@ The Secretary may not deny assistance under this section or section 1490a of thi
 
 #### (o) Rental assistance payments as affecting assistance to projects or occupancy by eligible persons
 
-The Secretary may not (1) deny assistance under this section on the basis that rental assistance payments under section 1490a of thistitle may be required unless the authority to provide such assistance is not available; or (2) promulgate any regulation that would have the effect of denying occupancy to eligible persons on the basis that such persons require rental assistance payments under section 1490a of this title.
+The Secretary may not (1) deny assistance under this section on the basis that rental assistance payments under section 1490a of this title may be required unless the authority to provide such assistance is not available; or (2) promulgate any regulation that would have the effect of denying occupancy to eligible persons on the basis that such persons require rental assistance payments under section 1490a of this title.
 
 #### (p) Occupancy by low income persons and families other than very low-income persons and families
 
@@ -184,7 +184,7 @@ No fee other than a late fee may be imposed by or for the Secretary or any other
 
 #### (2) Timing
 
-&emsp;The Secretary is authorized to guarantee an equity loan under this subsection after the expiration of the 20-year period beginning on the date that an existing loan under subsection (b) of this section was made or insured. Not morethan one equity loan under this subsection may be provided for any project.
+&emsp;The Secretary is authorized to guarantee an equity loan under this subsection after the expiration of the 20-year period beginning on the date that an existing loan under subsection (b) of this section was made or insured. Not more than one equity loan under this subsection may be provided for any project.
 
 #### (3) Amount of the takeout
 
@@ -408,7 +408,7 @@ Subsec. (e)(4). Pub. L. 102–550, §707(a), struck out "and" before "initial op
 
 Subsec. (l)(1). Pub. L. 102–550, §707(b)(1), added par. (1) and struck out former par. (1) which read as follows: "in the case of any applicant whose project is expected to utilize rental assistance payments under section 1490a of this title, the Secretary shall only require such applicant to demonstrate that a market exists for persons and families eligible for such rental assistance payments; and".
 
-Subsec. (p)(4). Pub. L. 102–550, §707(b)(2)(1), substituted period at end for ", except when the Secretary determines that the continued vacancy of units that have been unoccupied for at least 6 months threatens the financial viability of the project. The preceding sentence shall not be interpreted as authorizing the Secretary to—
+Subsec. (p)(4). Pub. L. 102–550, §707(b)(2)(1), substituted period at end for ", except when the Secretary determines that the continued vacancy of units thathave been unoccupied for at least 6 months threatens the financial viability of the project. The preceding sentence shall not be interpreted as authorizing the Secretary to—
 
 &emsp;"(A) limit the ability of a housing credit agency to require an owner of housing, in order to receive a low-income housing tax credit, to enter into a restrictive covenant, in such form and for such period as the housing credit agency deems appropriate, to maintain the occupancy characteristics of the project as prescribed in section 42(h)(6) of title 26; or
 
@@ -418,7 +418,7 @@ Subsec. (p)(5). Pub. L. 102–550, §707(b)(2)(2), added par. (5).
 
 Subsec. (r)(2). Pub. L. 102–550, §707(c), inserted before period at end ", except that the Secretary shall require a 5 percent contribution in the case of a project that is allocated a low-income housing tax credit pursuant to section 42 of title 26".
 
-Subsec. (w)(1). Pub. L. 102–550, §708(a)(1)–(3), substituted "not less than 9 percent of the amounts available in fiscal years 1993 and 1994" for "not less than 7 percent of the amounts available in fiscal year 1991 and not less than 9 percent of the amounts available in fiscal year 1992" in first sentence, struck out "or under whole or partial control with a for-profitentity" after "by a for-profit entity" in second sentence, and inserted at end "A partnership, that has as its general partner a nonprofit entity or the nonprofit entity's for-profit subsidiary, is eligible to receive funds set aside under this subsection to sponsor a project which is receiving low-income housing tax credits authorized under section 42 of title 26. For the purposes of this subsection, a nonprofit entity is an organization that—" and subpars. (A) to (D).
+Subsec. (w)(1). Pub. L. 102–550, §708(a)(1)–(3), substituted "not less than 9 percent of the amounts available in fiscal years 1993 and 1994" for "not less than 7 percent of the amounts available in fiscal year 1991 and not less than 9 percent of the amounts available in fiscal year 1992" in first sentence, struck out "or under whole or partial control with a for-profit entity" after "by a for-profit entity" in second sentence, and inserted at end "A partnership, that has as its general partner a nonprofit entity or the nonprofit entity's for-profit subsidiary, is eligible to receive funds set aside under this subsection to sponsor a project which is receiving low-income housing tax credits authorized under section 42 of title 26. For the purposes of this subsection, a nonprofit entity is an organization that—" and subpars. (A) to (D).
 
 Subsec. (w)(2). Pub. L. 102–550, §708(a)(4), inserted at end "The Secretary may provide amounts available for reallocation under this subsection in excess of $750,000 in a given State, if such amounts are necessary to finance a project under this section."
 

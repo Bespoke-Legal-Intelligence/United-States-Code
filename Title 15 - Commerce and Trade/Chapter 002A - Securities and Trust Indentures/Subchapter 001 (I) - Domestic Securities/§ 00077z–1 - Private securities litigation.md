@@ -42,7 +42,7 @@
 
 #### (ii) Multiple actions
 
-&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the same claim or claims arising under this subchapter is filed, only the plaintiff or plaintiffs in the first filed action shall be required to cause notice to be published in accordance with clause (i).
+&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the sameclaim or claims arising under this subchapter is filed, only the plaintiff or plaintiffs in the first filed action shall be required to cause notice to be published in accordance with clause (i).
 
 #### (iii) Additional notices may be required under Federal rules
 
@@ -176,7 +176,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), for purposes of paragraph (2), the court shall adopt a presumption that the appropriate sanction—
+&emsp;&emsp;Subject to subparagraphs (B) and (C), for purposes of paragraph (2), the court shalladopt a presumption that the appropriate sanction—
 
 &emsp;&emsp;&emsp;(i) for failure of any responsive pleading or dispositive motion to comply with any requirement of Rule 11(b) of the Federal Rules of Civil Procedure is an award to the opposing party of the reasonable attorneys' fees and other expenses incurred as a direct result of the violation; and
 
@@ -216,7 +216,7 @@ Amendment by section 101(a)(2) of Pub. L. 105–353 not to affect or apply to an
 
 #### Effective Date
 
-Section not to affect or apply to any private action arising under this subchapter or title I of the SecuritiesExchange Act of 1934 (15 U.S.C. 78a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as an Effective Date of 1995 Amendment note under section 77l of this title.
+Section not to affect or apply to any private action arising under this subchapter or title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as an Effective Date of 1995 Amendment note under section 77l of this title.
 
 #### Construction
 

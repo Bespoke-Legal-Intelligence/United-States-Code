@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (B) Amount of adjustment in the case of redemptions
 
-&emsp;&emsp;In the case of any redemption which is treated as an exchange under section 302(a) or 303(a), the adjustment in the accumulatedadjustments account shall be an amount which bears the same ratio to the balance in such account as the number of shares redeemed in such redemption bears to the number of shares of stock in the corporation immediately before such redemption.
+&emsp;&emsp;In the case of any redemption which is treated as an exchange under section 302(a) or 303(a), the adjustment in the accumulated adjustments account shall be an amount which bears the same ratio to the balance in such account as the number of shares redeemed in such redemption bears to the number of shares of stock in the corporation immediately before such redemption.
 
 #### (C) Net loss for year disregarded
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;An S corporation may, with the consent of all of its affected shareholders, elect to have paragraph (1) of subsection (c) not apply to all distributions made during the taxable year for which the election is made.
+&emsp;&emsp;An S corporation may, with the consent of all of its affected shareholders, elect to haveparagraph (1) of subsection (c) not apply to all distributions made during the taxable year for which the election is made.
 
 #### (B) Affected shareholder
 
@@ -92,11 +92,13 @@ If a director receives a distribution (not in part or full payment in exchange f
 
 &emsp;(1) shall be includible in gross income of the director, and
 
-&emsp;(2) shall be deductible by the corporation for the taxable year of such corporation in which or with which ends the taxable year in which such amount in <sup>1</sup> included in the gross income of the director.
+&emsp;(2) shall be deductible by the corporation for the taxable year of such corporation in which or with which ends the taxable year in which such amount is included in the gross income of the director.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1680; amended Pub. L. 97–448, title III, §305(d)(2), Jan. 12, 1983, 96 Stat. 2399; Pub. L. 98–369, div. A, title VII, §721(r), July 18, 1984, 98 Stat. 970; Pub. L. 99–514, title XVIII, §1879(m)(1)(B), Oct. 22, 1986, 100 Stat. 2910; Pub. L. 104–188, title I, §1309(a)(2)–(c), Aug. 20, 1996, 110 Stat. 1783; Pub. L. 110–28, title VIII, §8232(b), May 25, 2007, 121 Stat. 197.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1680; amended Pub. L. 97–448, title III, §305(d)(2), Jan. 12, 1983, 96 Stat. 2399; Pub. L. 98–369, div. A, title VII, §721(r), July 18, 1984, 98 Stat. 970; Pub. L. 99–514, title XVIII, §1879(m)(1)(B), Oct. 22, 1986, 100 Stat. 2910; Pub. L. 104–188, title I, §1309(a)(2)–(c), Aug. 20, 1996, 110 Stat. 1783; Pub. L. 110–28, title VIII, §8232(b), May 25, 2007, 121 Stat. 197; Pub. L. 115–141, div. U, title IV, §401(a)(193), Mar. 23, 2018, 132 Stat. 1193.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f)(2). Pub. L. 115–141 substituted "is included" for "in included".
 
 <b>2007</b>—Subsec. (f). Pub. L. 110–28 added subsec. (f).
 
@@ -140,7 +142,5 @@ Section applicable to taxable years beginning after Dec. 31, 1982, see section 6
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "is".</i>
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

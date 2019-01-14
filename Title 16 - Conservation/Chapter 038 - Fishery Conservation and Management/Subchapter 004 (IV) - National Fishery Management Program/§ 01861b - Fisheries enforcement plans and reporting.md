@@ -10,7 +10,7 @@ Prior to undertaking fisheries patrols, the Commandant of the Coast Guard shall 
 
 #### (c) Annual summary
 
-The Commandant of the Coast Guard shall prepare and make available to the Under Secretary of Commerce for Oceans and Atmosphere, State and local enforcement entities, and other relevant stakeholders, an annual summary report of fisheries enforcement activities for the preceding year, including a summary of the number of patrols, law enforcement actions taken, and resource hours expended.
+The Commandant of the Coast Guard shall prepare and make available to the Under Secretary of Commerce for Oceans and Atmosphere,State and local enforcement entities, and other relevant stakeholders, an annual summary report of fisheries enforcement activities for the preceding year, including a summary of the number of patrols, law enforcement actions taken, and resource hours expended.
 
 (Pub. L. 108–293, title II, §224, Aug. 9, 2004, 118 Stat. 1040.)
 

@@ -64,7 +64,7 @@ For purposes of section 77d(6) <sup>1</sup> of this title, an issuer who offers
 
 &emsp;&emsp;&emsp;&emsp;(II) financial statements of the issuer, which shall be certified by the principal executive officer of the issuer to be true and complete in all material respects;
 
-&emsp;&emsp;&emsp;(ii) more than $100,000, but not more than $500,000, financial statements reviewed by a public accountant who is independent of the issuer, using professional standards and procedures for such review or standards and procedures established by the Commission, by rule, for such purpose; and
+&emsp;&emsp;&emsp;(ii) more than $100,000, but not more than $500,000, financial statements reviewed by a public accountant who is independent of the issuer, using professionalstandards and procedures for such review or standards and procedures established by the Commission, by rule, for such purpose; and
 
 &emsp;&emsp;&emsp;(iii) more than $500,000 (or such other amount as the Commission may establish, by rule), audited financial statements;
 
@@ -102,7 +102,7 @@ For purposes of section 77d(6) <sup>1</sup> of this title, an issuer who offers
 
 #### (A) In general
 
-&emsp;&emsp;Subject to paragraph (2), a person who purchases a security in a transaction exemptedby the provisions of section 77d(6) <sup>1</sup> of this title may bring an action against an issuer described in paragraph (2), either at law or in equity in any court of competent jurisdiction, to recover the consideration paid for such security with interest thereon, less the amount of any income received thereon, upon the tender of such security, or for damages if such person no longer owns the security.
+&emsp;&emsp;Subject to paragraph (2), a person who purchases a security in a transaction exempted by the provisions of section 77d(6) <sup>1</sup> of this title may bring an action against an issuer described in paragraph (2), either at law or in equity in any court of competent jurisdiction, to recover the consideration paid for such security with interest thereon, less the amount of any income received thereon, upon the tender of such security, or for damages if such person no longer owns the security.
 
 #### (B) Liability
 

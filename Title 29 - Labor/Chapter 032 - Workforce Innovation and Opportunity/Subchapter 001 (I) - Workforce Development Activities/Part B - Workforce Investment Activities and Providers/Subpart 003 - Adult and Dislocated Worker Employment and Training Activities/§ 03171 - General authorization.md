@@ -352,7 +352,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### "provision of training through educational institutions
 
-"Sec. 10. An employer may enter into an agreement with an educational institution that has been approvedfor the enrollment of veterans under chapter 34 of title 38, United States Code, in order that such institution may provide a program of job training (or a portion of such a program) under this Act. When such an agreement has been entered into, the application of the employer under section 7 shall so state and shall include a description of the training to be provided under the agreement.
+"Sec. 10. An employer may enter into an agreement with an educational institution that has been approved for the enrollment of veterans under chapter 34 of title 38, United States Code, in order that such institution may provide a program of job training (or a portion of such a program) under this Act. When such an agreement has been entered into, the application of the employer under section 7 shall so state and shall include a description of the training to be provided under the agreement.
 
 #### "discontinuance of approval of participation in certain employer programs
 
@@ -446,7 +446,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 "(e) The Administrator and the Secretary shall assist veterans and employers desiring to participate under this Act in making application and completing necessary certifications.
 
-"(f) The Secretary shall, on a not less frequent than quarterly basis, collect and compile from the heads of State employment services and Directors for Veterans' Employment and Training for each State information available to such heads and Directors, and derived from programs carried out in their respective States, with respect to the numbers of veterans who receive counseling services pursuant to section 14, who are referred to employers participating under this Act, who participate in programs of job training under this Act, and who complete such programs, and the reasons for veterans' noncompletion.
+"(f) The Secretary shall, on a not less frequent than quarterly basis, collect and compile from the heads ofState employment services and Directors for Veterans' Employment and Training for each State information available to such heads and Directors, and derived from programs carried out in their respective States, with respect to the numbers of veterans who receive counseling services pursuant to section 14, who are referred to employers participating under this Act, who participate in programs of job training under this Act, and who complete such programs, and the reasons for veterans' noncompletion.
 
 #### "authorization of appropriations
 

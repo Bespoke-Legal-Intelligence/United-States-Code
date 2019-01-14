@@ -38,7 +38,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;(5) support activities that will improve the provision of treatment, prevention and related services, including the development of national mental health and substance use disorder goals and model programs;
 
-&emsp;(6) in cooperation with the National Institutes of Health, the Centers for Disease Control and Prevention, and the Health Resources and Services Administration, develop educational materials and intervention strategies to reduce the risks of HIV, hepatitis, tuberculosis, and other communicable diseases among individuals with mental or substance use disorders, and to develop appropriate mental health services for individuals with such diseases or disorders;
+&emsp;(6) in cooperation with the National Institutes of Health, the Centers for Disease Control and Prevention, and the Health Resources and Services Administration, develop educational materials and intervention strategies to reduce the risks of HIV, hepatitis, tuberculosis, and other communicable diseasesamong individuals with mental or substance use disorders, and to develop appropriate mental health services for individuals with such diseases or disorders;
 
 &emsp;(7) coordinate Federal policy with respect to the provision of treatment services for substance use disorders, including services that utilize drugs or devices approved or cleared by the Food and Drug Administration for the treatment of substance use disorders;
 
@@ -74,7 +74,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;(17) in collaboration with the National Institute on Aging, and in consultation with the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism and the National Institute of Mental Health, as appropriate, promote and evaluate substance use disorder services for older Americans in need of such services, and mental health services for older Americans who are seriously mentally ill;
 
-&emsp;(18) promote the coordination of service programs conducted by other departments, agencies, organizations and individuals that are ormay be related to the problems of individuals suffering from mental illness or substance abuse, including liaisons with the Social Security Administration, Centers for Medicare \& Medicaid Services, and other programs of the Department, as well as liaisons with the Department of Education, Department of Justice, and other Federal Departments and offices, as appropriate;
+&emsp;(18) promote the coordination of service programs conducted by other departments, agencies, organizations and individuals that are or may be related to the problems of individuals suffering from mental illness or substance abuse, including liaisons with the Social Security Administration, Centers for Medicare \& Medicaid Services, and other programs of the Department, as well as liaisons with the Department of Education, Department of Justice, and other Federal Departments and offices, as appropriate;
 
 &emsp;(19) consult with State, local, and tribal governments, nongovernmental entities, and individuals with mental illness, particularly adults with a serious mental illness, children with a serious emotional disturbance, and the family members of such adults and children, with respect to improving community-based and other mental health services;
 
@@ -124,7 +124,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 #### (1) Appointment
 
-&emsp;The Assistant Secretary, with the approval of the Secretary, shall appoint an AssociateAdministrator for Women's Services who shall report directly to the Assistant Secretary.
+&emsp;The Assistant Secretary, with the approval of the Secretary, shall appoint an Associate Administrator for Women's Services who shall report directly to the Assistant Secretary.
 
 #### (2) Duties
 
@@ -216,7 +216,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;&emsp;(D) participate in regular strategic planning with the Administration;
 
-&emsp;&emsp;(E) coordinate with the Assistant Secretary for Planning and Evaluation to assess the use of performance metrics to evaluate activities within the Administration related to mental and substance use disorders; and
+&emsp;&emsp;(E) coordinate with the Assistant Secretary for Planning and Evaluation to assess the use of performance metrics to evaluateactivities within the Administration related to mental and substance use disorders; and
 
 &emsp;&emsp;(F) coordinate with the Assistant Secretary to ensure mental and substance use disorders grant programs within the Administration consistently utilize appropriate performance metrics and evaluation designs.
 
@@ -316,7 +316,7 @@ Not later than September 30, 2020, and every 2 years thereafter, the Assistant S
 
 &emsp;&emsp;(D) information on how the National Mental Health and Substance Use Policy Laboratory is consulting with the Assistant Secretary for Planning and Evaluation and collaborating with the Center for Substance Abuse Treatment, the Center for Substance Abuse Prevention, the Center for Behavioral Health Statistics and Quality, and the Center for Mental Health Services to carry out such activities; and
 
-&emsp;(7) recommendations made by the Assistant Secretary for Planning and Evaluation undersection 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016 to improve programs within the Administration, and actions taken in response to such recommendations to improve programs within the Administration.
+&emsp;(7) recommendations made by the Assistant Secretary for Planning and Evaluation under section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016 to improve programs within the Administration, and actions taken in response to such recommendations to improve programs within the Administration.
 
 > The Assistant Secretary may meet reporting requirements established under this subchapter by providing the contents of such reports as an addendum to the biennial report established under this subsection, notwithstanding the timeline of other reporting requirements in this subchapter. Nothing in this subsection shall be construed to alter the content requirements of such reports or authorize the Assistant Secretary to alter the timeline of any such reports to be less frequent than biennially, unless as specified in this subchapter.
 
@@ -328,7 +328,7 @@ With respect to awards of grants, cooperative agreements, and contracts under th
 
 &emsp;(2) with respect to carrying out the purpose for which the award is to be provided, the application provides assurances of compliance satisfactory to such official; and
 
-&emsp;(3) the application is otherwise in such form, is made in such manner, and contains such agreements, assurances, and information as the official determines to be necessary to carry out the purpose for which the award is to be provided.
+&emsp;(3) the application is otherwise in such form, is made in such manner, and contains such agreements, assurances, and information asthe official determines to be necessary to carry out the purpose for which the award is to be provided.
 
 #### (o) Emergency response
 
@@ -394,7 +394,7 @@ Subsec. (d)(7). Pub. L. 114–255, §6002(2)(E), substituted "use disorders, inc
 
 Subsec. (d)(8). Pub. L. 114–255, §6002(2)(F), substituted "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy Research" and "prevention and treatment" for "treatment and prevention".
 
-Subsec. (d)(9). Pub. L. 114–255, §6002(2)(G), inserted "and maintenance" after "development" and substituted "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy Research" and "prevention, treatment, and recovery support services and are appropriately incorporated into programs carried out by the Administration" for "treatment and prevention services".
+Subsec. (d)(9). Pub. L. 114–255, §6002(2)(G), inserted "and maintenance" after "development" and substituted "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy Research" and "prevention, treatment, and recovery support servicesand are appropriately incorporated into programs carried out by the Administration" for "treatment and prevention services".
 
 Subsec. (d)(10). Pub. L. 114–255, §6002(2)(H), substituted "use disorder" for "abuse".
 
@@ -466,7 +466,7 @@ Subsec. (f)(4), (5). Pub. L. 111–148, §3509(d)(2), (3), added par. (4) and re
 
 <b>2003</b>—Subsec. (d)(18). Pub. L. 108–173 substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration".
 
-<b>2000</b>—Subsec. (e)(1). Pub. L. 106–310, §3401(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "There shall be in the Administration an Associate Administrator for Alcohol Prevention and Treatment Policy to whom the Administrator shall delegate the functions of promoting, monitoring, and evaluating service programs for the prevention and treatment of alcoholism and alcohol abuse within the Center for Substance Abuse Prevention, the Center for Substance Abuse Treatment, and the Center for Mental Health Services, and coordinating such programs among the Centers, and among the Centers and other public and private entities. The Associate Administrator also shall ensure that alcohol prevention, education, and policy strategies are integrated into all programs of the Centers that address substance abuse prevention, education, and policy, and that the Center for Substance Abuse Prevention addresses the Healthy People 2000 goals and the National Dietary Guidelines of the Department ofHealth and Human Services and the Department of Agriculture related to alcohol consumption."
+<b>2000</b>—Subsec. (e)(1). Pub. L. 106–310, §3401(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "There shall be in the Administration an Associate Administrator for Alcohol Prevention and Treatment Policy to whom the Administrator shall delegate the functions of promoting, monitoring, and evaluating service programs for the prevention and treatment of alcoholism and alcohol abuse within the Center for Substance Abuse Prevention, the Center for Substance Abuse Treatment, and the Center for Mental Health Services, and coordinating such programs among the Centers, and among the Centers and other public and private entities. The Associate Administrator also shall ensure that alcohol prevention, education, and policy strategies are integrated into all programs of the Centers that address substance abuse prevention, education, and policy, and that the Center for Substance Abuse Prevention addresses the Healthy People 2000 goals and the National Dietary Guidelines of the Department of Health and Human Services and the Department of Agriculture related to alcohol consumption."
 
 Subsecs. (m) to (o). Pub. L. 106–310, §3102, added subsecs. (m) and (n), redesignated former subsec. (m) as (o), and substituted "2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003" for "1993, and such sums as may be necessary for fiscal year 1994" before period at end.
 
@@ -546,7 +546,7 @@ Pub. L. 102–321, title I, subtitle D, July 10, 1992, 106 Stat. 370, as amended
 
 "(a)
 
-Substance Abuse and Mental Health Services Administration.—Except as specifically providedotherwise in this Act \[see Tables for classification\] or an amendment made by this Act, there are transferred to the Administrator of the Substance Abuse and Mental Health Services Administration all service related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration, or the Director of any entity within the Alcohol, Drug Abuse and Mental Health Administration, exercised before the date of the enactment of this Act \[July 10, 1992\] and all related functions of any officer or employee of the Alcohol, Drug Abuse and Mental Health Administration.
+Substance Abuse and Mental Health Services Administration.—Except as specifically provided otherwise in this Act \[see Tables for classification\] or an amendment made by this Act, there are transferred to the Administrator of the Substance Abuse and Mental Health Services Administration all service related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration, or the Director of any entity within the Alcohol, Drug Abuse and Mental Health Administration, exercised before the date of the enactment of this Act \[July 10, 1992\] and all related functions of any officer or employee of the Alcohol, Drug Abuse and Mental Health Administration.
 
 "(b)
 
@@ -560,7 +560,7 @@ Adequate Personnel and Resources.—The transfers required under this subtitle s
 
 "(a)
 
-Substance Abuse and Mental Health Services Administration.—Except as otherwise provided in the Public Health Service Act \[42 U.S.C. 201 et seq.\], all personnel employed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration by this subtitle, subject to section 1531 of title 31, United States Code, shall be transferred to the Substance Abuse and Mental Health Services Administration. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
+Substance Abuse and Mental Health Services Administration.—Except as otherwise provided in thePublic Health Service Act \[42 U.S.C. 201 et seq.\], all personnel employed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration by this subtitle, subject to section 1531 of title 31, United States Code, shall be transferred to the Substance Abuse and Mental Health Services Administration. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
 "(b)
 
@@ -618,7 +618,7 @@ Effect on Legal Actions.—Except as provided in subsection (e)—
 
 "(d)
 
-No Abatement of Actions or Proceedings.—No action or other proceeding commenced by or against any officer in his official capacity as an officer of the Department of Health and Human Services with respect to functions transferred by this subtitle shall abate by reason of the enactment of this Act \[see Tables for classification\]. No cause of action by or against the Department of Health and Human Services with respect to functions transferred by this subtitle, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act. Causes of action and actions with respect to a function transferred by this subtitle, or other proceedings may be asserted by or against the United States or the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, as may be appropriate, and, in an action pending when this Act takes effect \[see Effective Date of 1992 Amendment note set out under section 236 of this title\], the court may at any time, on its own motion or that of any party, enter an order which will give effect to the provisions of this subsection.
+No Abatement of Actions or Proceedings.—No action or other proceeding commenced by or against any officer in his official capacity as an officer of the Department of Health and Human Services with respect to functions transferred by this subtitle shall abate by reason of the enactment of this Act \[see Tables for classification\]. No cause of action by or against the Department of Health and Human Services with respect to functions transferred by this subtitle, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act. Causes of action and actions with respect to a function transferred by this subtitle, or other proceedings may be asserted by or against the United States or the Administrator of the Alcohol, Drug Abuse and Mental Health Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health, as may be appropriate, and, in an action pending when this Act takes effect \[see Effective Date of 1992 Amendment note set out under section 236 of this title\], the court may at any time, on its own motion orthat of any party, enter an order which will give effect to the provisions of this subsection.
 
 "(e)
 
@@ -656,6 +656,120 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 
 "With respect to fiscal years 1994 and 1995, the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health shall notwithstanding section 405(a) \[42 U.S.C. 284(a)\], prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate (including an estimate of the number and type of personnel needs for the Institute) for their respective Institutes, after reasonable opportunity for comment (but without change) by the Secretary of Health and Human Services, the Director of the National Institutes of Health, and the Institute's advisory council."
 
+#### Interdepartmental Substance Use Disorders Coordinating Committee
+
+Pub. L. 115–271, title VII, §7022, Oct. 24, 2018, 132 Stat. 4010, provided that:
+
+"(a)
+
+Establishment.—Not later than 3 months after the date of the enactment of this Act \[Oct. 24, 2018\], the Secretary of Health and Human Services (in this section referred to as the 'Secretary') shall, in coordination with the Director of National Drug Control Policy, establish a committee, to be known as the Interdepartmental Substance Use Disorders Coordinating Committee (in this section referred to as the 'Committee'), to coordinate Federal activities related to substance use disorders.
+
+"(b)
+
+Membership.—
+
+&emsp;"(1)
+
+Federal members.—The Committee shall be composed of the following Federal representatives, or the designees of such representatives:
+
+&emsp;&emsp;"(A) The Secretary, who shall serve as the Chair of the Committee.
+
+&emsp;&emsp;"(B) The Attorney General of the United States.
+
+&emsp;&emsp;"(C) The Secretary of Labor.
+
+&emsp;&emsp;"(D) The Secretary of Housing and Urban Development.
+
+&emsp;&emsp;"(E) The Secretary of Education.
+
+&emsp;&emsp;"(F) The Secretary of Veterans Affairs.
+
+&emsp;&emsp;"(G) The Commissioner of Social Security.
+
+&emsp;&emsp;"(H) The Assistant Secretary for Mental Health and Substance Use.
+
+&emsp;&emsp;"(I) The Director of National Drug Control Policy.
+
+&emsp;&emsp;"(J) Representatives of other Federal agencies that support or conduct activities or programs related to substance use disorders, as determined appropriate by the Secretary.
+
+&emsp;"(2)
+
+Non-federal members.—The Committee shall include a minimum of 15 non-Federal members appointed by the Secretary, of which—
+
+&emsp;&emsp;"(A) at least two such members shall be an individual who has received treatment for a diagnosis of a substance use disorder;
+
+&emsp;&emsp;"(B) at least two such members shall be a director of a State substance abuse agency;
+
+&emsp;&emsp;"(C) at least two such members shall be a representative of a leading research, advocacy, or service organization for adults with substance use disorder;
+
+&emsp;&emsp;"(D) at least two such members shall—
+
+&emsp;&emsp;&emsp;"(i) be a physician, licensed mental health professional, advance practice registered nurse, or physician assistant; and
+
+&emsp;&emsp;&emsp;"(ii) have experience in treating individuals with substance use disorders;
+
+&emsp;&emsp;"(E) at least one such member shall be a substance use disorder treatment professional who provides treatment services at a certified opioid treatment program;
+
+&emsp;&emsp;"(F) at least one such member shall be a substance use disorder treatment professional who has research or clinical experience in working with racial and ethnic minority populations;
+
+&emsp;&emsp;"(G) at least one such member shall be a substance use disorder treatment professional who has research or clinical mental health experience in working with medically underserved populations;
+
+&emsp;&emsp;"(H) at least one such member shall be a State-certified substance use disorder peer support specialist;
+
+&emsp;&emsp;"(I) at least one such member shall be a drug court judge or a judge with experience in adjudicating cases related to substance use disorder;
+
+&emsp;&emsp;"(J) at least one such member shall be a public safety officer with extensive experience in interacting with adults with a substance use disorder; and
+
+&emsp;&emsp;"(K) at least one such member shall be an individual with experience providing services for homeless individuals with a substance use disorder.
+
+"(c)
+
+Terms.—
+
+&emsp;"(1)
+
+In general.—A member of the Committee appointed under subsection (b)(2) shall be appointed for a term of 3 years and may be reappointed for one or more 3-year terms.
+
+&emsp;"(2)
+
+Vacancies.—A vacancy on the Committee shall be filled in the same manner in which the original appointment was made. Any individual appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and may serve after the expiration of such term until a successor has been appointed.
+
+"(d)
+
+Meetings.—The Committee shall meet not fewer than two times each year.
+
+"(e)
+
+Duties.—The Committee shall—
+
+&emsp;"(1) identify areas for improved coordination of activities, if any, related to substance use disorders, including research, services, supports, and prevention activities across all relevant Federal agencies;
+
+&emsp;"(2) identify and provide to the Secretary recommendations for improving Federal programs for the prevention and treatment of, and recovery from, substance use disorders, including by expanding access to prevention, treatment, and recovery services;
+
+&emsp;"(3) analyze substance use disorder prevention and treatment strategies in different regions of and populations in the United States and evaluate the extent to which Federal substance use disorder prevention and treatment strategies are aligned with State and local substance use disorder prevention and treatment strategies;
+
+&emsp;"(4) make recommendations to the Secretary regarding any appropriate changes with respect to the activities and strategies described in paragraphs (1) through (3);
+
+&emsp;"(5) make recommendations to the Secretary regarding public participation in decisions relating to substance use disorders and the process by which public feedback can be better integrated into such decisions; and
+
+&emsp;"(6) make recommendations to ensure that substance use disorder research, services, supports, and prevention activities of the Department of Health and Human Services and other Federal agencies are not unnecessarily duplicative.
+
+"(f)
+
+Annual Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 24, 2018\], and annually thereafter for the life of the Committee, the Committee shall publish on the Internet website of the Department of Health and Human Services, which may include the public information dashboard established under section 1711 of the Public Health Service Act \[42 U.S.C. 300u–16\], as added by section 7021, a report summarizing the activities carried out by the Committee pursuant to subsection (e), including any findings resulting from such activities.
+
+"(g)
+
+Working Groups.—The Committee may establish working groups for purposes of carrying out the duties described in subsection (e). Any such working group shall be composed of members of the Committee (or the designees of such members) and may hold such meetings as are necessary to enable the working group to carry out the duties delegated to the working group.
+
+"(h)
+
+Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee only to the extent that the provisions of such Act do not conflict with the requirements of this section.
+
+"(i)
+
+Sunset.—The Committee shall terminate on the date that is 6 years after the date on which the Committee is established under subsection (a)."
+
 #### Improving Oversight of Mental and Substance Use Disorders Programs Through the Assistant Secretary for Planning and Evaluation
 
 Pub. L. 114–255, div. B, title VI, §6021, Dec. 13, 2016, 130 Stat. 1215, provided that:
@@ -684,7 +798,7 @@ Consultation.—In carrying out this section, the Assistant Secretary for Planni
 
 "(d)
 
-Recommendations.—In carrying out this section, the Assistant Secretary for Planning and Evaluation shall provide recommendations to the Secretary of Health and Human Services, the Assistant Secretary for Mental Health and Substance Use, and the Congress on improving the quality of prevention and treatment programs and activities related to mental and substance use disorders, including recommendations for the use of performance metrics. The Assistant Secretary for Mental Health and Substance Use shall include such recommendations in the biennial report required by subsection 501(m) of the Public Health Service Act \[42 U.S.C. 290aa(m)\], as redesignated by section 6003 of this Act."
+Recommendations.—In carrying out this section, the Assistant Secretary for Planning and Evaluation shall provide recommendations to the Secretary ofHealth and Human Services, the Assistant Secretary for Mental Health and Substance Use, and the Congress on improving the quality of prevention and treatment programs and activities related to mental and substance use disorders, including recommendations for the use of performance metrics. The Assistant Secretary for Mental Health and Substance Use shall include such recommendations in the biennial report required by subsection 501(m) of the Public Health Service Act \[42 U.S.C. 290aa(m)\], as redesignated by section 6003 of this Act."
 
 #### Assisted Outpatient Treatment Grant Program for Individuals With Serious Mental Illness
 

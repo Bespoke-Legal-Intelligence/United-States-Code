@@ -46,7 +46,7 @@ Within 180 days after October 24, 1992, the Secretary shall prepare and submit t
 
 &emsp;(4) potential alternative funding sources for carrying out this section.
 
-> In preparing the program plan, the Secretary shall consult with appropriate representatives of industry, institutions of higher education, Federal agencies, including national laboratories, and professional and technical societies. The Secretary shall update the program plan annually and submit such update to Congress. Each such update shall describe any activities that are behind schedule, any funding shortfalls, and any other circumstances that might affect the ability of the Secretary to meet the goals set forth in subsection (b).
+> In preparing the program plan, the Secretary shall consult with appropriate representatives ofindustry, institutions of higher education, Federal agencies, including national laboratories, and professional and technical societies. The Secretary shall update the program plan annually and submit such update to Congress. Each such update shall describe any activities that are behind schedule, any funding shortfalls, and any other circumstances that might affect the ability of the Secretary to meet the goals set forth in subsection (b).
 
 (Pub. L. 102–486, title XXI, §2122, Oct. 24, 1992, 106 Stat. 3082.)
 

@@ -22,7 +22,7 @@
 
 #### (D) Treatment as medical assistance
 
-&emsp;&emsp;Payment of premiums for such coverage under this subsection shall be treated as payment of other insurance premiums described in the third sentence of section 1396d(a) of this title.
+&emsp;&emsp;Payment of premiums for such coverage under this subsection shall be treated aspayment of other insurance premiums described in the third sentence of section 1396d(a) of this title.
 
 #### (E) Rule of construction
 
@@ -62,7 +62,7 @@
 
 #### (v) Eligible on basis of institutionalization
 
-&emsp;&emsp;&emsp;The individual is an inpatient in a hospital, nursing facility, intermediate carefacility for the mentally retarded, or other medical institution, and is required, as a condition of receiving services in such institution under the State plan, to spend for costs of medical care all but a minimal amount of the individual's income required for personal needs.
+&emsp;&emsp;&emsp;The individual is an inpatient in a hospital, nursing facility, intermediate care facility for the mentally retarded, or other medical institution, and is required, as a condition of receiving services in such institution under the State plan, to spend for costs of medical care all but a minimal amount of the individual's income required for personal needs.
 
 #### (vi) Medically frail and special medical needs individuals
 
@@ -96,7 +96,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, subject to clause (ii), the term "full-benefit eligible individual" means for a State for a month an individual who is determined eligible by the State for medical assistance for all services defined in section 1396d(a) of this title which are covered under the State plan under this subchapter for such month under section 1396a(a)(10)(A) of this title or under any other category of eligibility for medical assistance for all such services under this subchapter, as determined by the Secretary.
+&emsp;&emsp;&emsp;For purposes of this paragraph, subject to clause (ii), the term "full-benefit eligible individual" means for a State for a month an individual who is determined eligible by the State for medical assistancefor all services defined in section 1396d(a) of this title which are covered under the State plan under this subchapter for such month under section 1396a(a)(10)(A) of this title or under any other category of eligibility for medical assistance for all such services under this subchapter, as determined by the Secretary.
 
 #### (ii) Exclusion of medically needy and spend-down populations
 
@@ -212,7 +212,7 @@
 
 With respect to a State plan amendment to provide benchmark benefits in accordance with subsections (a) and (b) that is approved by the Secretary, the Secretary shall publish on the Internet website of the Centers for Medicare \& Medicaid Services, a list of the provisions of this subchapter that the Secretary has determined do not apply in order to enable the State to carry out the plan amendment and the reason for each such determination on the date such approval is made, and shall publish such list in the Federal Register and <sup>3</sup> not later than 30 days after such date of approval.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1937, as added Pub. L. 109–171, title VI, §6044(a), Feb. 8, 2006, 120 Stat. 88; amended Pub. L. 111–3, title VI, §611(a)–(c), Feb. 4, 2009, 123 Stat. 100, 101; Pub. L.111–148, title II, §§2001(a)(5)(E), (c), 2004(c)(2), 2303(c), Mar. 23, 2010, 124 Stat. 275, 276, 283, 296.)
+(Aug. 14, 1935, ch. 531, title XIX, §1937, as added Pub. L. 109–171, title VI, §6044(a), Feb. 8, 2006, 120 Stat. 88; amended Pub. L. 111–3, title VI, §611(a)–(c), Feb. 4, 2009, 123 Stat. 100, 101; Pub. L. 111–148, title II, §§2001(a)(5)(E), (c), 2004(c)(2), 2303(c), Mar. 23, 2010, 124 Stat. 275, 276, 283, 296.)
 
 #### Prior Provisions
 

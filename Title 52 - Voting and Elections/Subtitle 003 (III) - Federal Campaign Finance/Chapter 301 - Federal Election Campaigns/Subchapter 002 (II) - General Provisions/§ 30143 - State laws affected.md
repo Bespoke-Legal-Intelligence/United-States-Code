@@ -8,7 +8,7 @@ Subject to subsection (b), the provisions of this Act, and of rules prescribed u
 
 Notwithstanding any other provision of this Act, a State or local committee of a political party may, subject to State law, use exclusively funds that are not subject to the prohibitions, limitations, and reporting requirements of the Act for the purchase or construction of an office building for such State or local committee.
 
-(Pub. L. 92–225, title IV, §403, Feb. 7, 1972, 86 Stat. 20; Pub. L. 93–443, title III, §301, Oct. 15, 1974, 88 Stat. 1289; Pub. L. 107–155, title I, §103(b)(2), Mar. 27, 2002, 116 Stat. 87.)
+(Pub. L. 92–225, title IV, §403, Feb. 7, 1972, 86 Stat. 20; Pub. L. 93–443, title III, §301, Oct. 15,1974, 88 Stat. 1289; Pub. L. 107–155, title I, §103(b)(2), Mar. 27, 2002, 116 Stat. 87.)
 
 #### References in Text
 

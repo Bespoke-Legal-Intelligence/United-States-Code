@@ -28,7 +28,7 @@ A voluntary separation incentive payment made under this section—
 
 #### (1) Plan required for making payments
 
-&emsp;No voluntary separation incentive payment may be paid under this section with respect to an office unless the head of the office submits a plan described in paragraph (2) to each applicable committee described in paragraph (3),and each applicable committee approves the plan.
+&emsp;No voluntary separation incentive payment may be paid under this section with respect to an office unless the head of the office submits a plan described in paragraph (2) to each applicable committee described in paragraph (3), and each applicable committee approves the plan.
 
 #### (2) Contents of plan
 

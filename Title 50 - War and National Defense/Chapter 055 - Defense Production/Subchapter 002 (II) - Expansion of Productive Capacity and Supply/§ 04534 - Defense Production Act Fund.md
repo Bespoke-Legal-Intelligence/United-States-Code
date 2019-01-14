@@ -72,7 +72,7 @@ Section 310, act Sept. 8, 1950, ch. 932, title III, as added Pub. L. 102–558, 
 
 #### Defense Production Act Fund Manager
 
-Secretary of Defense designated Defense Production Act Fund Manager in accordance with subsec. (f) of thissection, see section 309 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16655, set out as a note under section 4553 of this title.
+Secretary of Defense designated Defense Production Act Fund Manager in accordance with subsec. (f) of this section, see section 309 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16655, set out as a note under section 4553 of this title.
 
 #### Executive Order No. 12346
 

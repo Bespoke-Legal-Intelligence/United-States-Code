@@ -6,7 +6,7 @@ From the amount reserved under section 1810(b),<sup>1</sup> the Attorney General
 
 #### (b) Eligibility
 
-Indian tribes, as defined by section 5130 of title 25, or a consortia of such tribes, shall submit tothe Attorney General an application in such form and containing such information as the Attorney General may require. Only tribes that carry out tribal juvenile justice functions shall be eligible to receive a grant under this section.
+Indian tribes, as defined by section 5130 of title 25, or a consortia of such tribes, shall submit to the Attorney General an application in such form and containing such information as the Attorney General may require. Only tribes that carry out tribal juvenile justice functions shall be eligible to receive a grant under this section.
 
 #### (c) Awards
 

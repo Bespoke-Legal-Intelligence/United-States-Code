@@ -346,7 +346,7 @@ Eligible activities.—The freight planning capacity building initiative shall i
 
 &emsp;&emsp;(C) Refinement of data and analysis tools used in conjunction with assessing freight transportation needs.
 
-&emsp;&emsp;(D) Technical assistance to State transportation departments and local transportationagencies reorganizing to address freight transportation issues.
+&emsp;&emsp;(D) Technical assistance to State transportation departments and local transportation agencies reorganizing to address freight transportation issues.
 
 &emsp;&emsp;(E) Facilitating relationship building between governmental and private entities involved in freight transportation.
 
@@ -366,7 +366,7 @@ Centers for Surface Transportation Excellence.—
 
 &emsp;(1)
 
-In general.—The Secretary shall make grants under this section to establish and maintain centers for surface transportation excellence.
+In general.—The Secretary shall make grants under this section to establish andmaintain centers for surface transportation excellence.
 
 &emsp;(2)
 
@@ -462,7 +462,7 @@ Pub. L. 109–59, title V, §5504, Aug. 10, 2005, 119 Stat. 1822, provided that:
 
 "(a)
 
-Establishment.—The Secretary \[of Transportation\] shall establish a Center for Transportation Advancement and Regional Development (referred to in this section as the 'Center') to assist, through training, education, and research, in the comprehensive development of small metropolitan and rural regional transportation systems that are responsive to the needs of businesses and local communities.
+Establishment.—The Secretary \[of Transportation\] shall establish a Center for Transportation Advancement and Regional Development (referred to inthis section as the 'Center') to assist, through training, education, and research, in the comprehensive development of small metropolitan and rural regional transportation systems that are responsive to the needs of businesses and local communities.
 
 "(b)
 

@@ -40,7 +40,7 @@ Each funding agreement shall—
 
 &emsp;&emsp;(B) shall be responsible for the administration of programs, services, functions, and activities pursuant to agreements entered into under this section; and
 
-&emsp;(9) prohibit the Secretary from waiving, modifying, or diminishing in any way the trust responsibility of the United States with respect to Indian tribes and individual Indians that exists under treaties, Executive orders, and other laws.
+&emsp;(9) prohibit the Secretary from waiving, modifying, or diminishing in any way the trust responsibility of the United States withrespect to Indian tribes and individual Indians that exists under treaties, Executive orders, and other laws.
 
 #### (c) Additional activities
 

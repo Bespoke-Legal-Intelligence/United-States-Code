@@ -44,7 +44,7 @@ Scope of Planning Process.—
 
 In general.—Each State shall carry out a statewide transportation planning process that provides for consideration and implementation of projects, strategies, and services that will—
 
-&emsp;&emsp;(A) support the economic vitality of the United States, the States, nonmetropolitanareas, and metropolitan areas, especially by enabling global competitiveness, productivity, and efficiency;
+&emsp;&emsp;(A) support the economic vitality of the United States, the States, nonmetropolitan areas, and metropolitan areas, especially by enabling global competitiveness, productivity, and efficiency;
 
 &emsp;&emsp;(B) increase the safety of the transportation system for motorized and nonmotorized users;
 
@@ -154,7 +154,7 @@ In general.—The long-range transportation plan shall be developed, as appropri
 
 &emsp;&emsp;&emsp;(ii)
 
-Comparison and consideration.—Consultation under clause (i) shall involve comparison of transportation plans to State and tribal conservation plans or maps, if available, and comparison of transportation plans to inventories of natural or historic resources, if available.
+Comparison and consideration.—Consultation under clause (i) shall involve comparison of transportation plans to State and tribal conservation plans ormaps, if available, and comparison of transportation plans to inventories of natural or historic resources, if available.
 
 &emsp;(3)
 
@@ -256,7 +256,7 @@ Nonmetropolitan areas.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—With respect to each nonmetropolitan area in the State, the program shall be developed in cooperation with affected nonmetropolitan local officials with responsibility for transportation or, if applicable, through regional transportation planning organizations described in subsection (l).
+In general.—With respect to each nonmetropolitan area in the State, the program shall be developed in cooperation with affected nonmetropolitan local officials with responsibility for transportationor, if applicable, through regional transportation planning organizations described in subsection (l).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -342,7 +342,7 @@ No required selection.—Notwithstanding subparagraph (F), a State shall not be 
 
 &emsp;&emsp;&emsp;(ii)
 
-Required action by the secretary.—Action by the Secretary shall be required for a State to select any project from the illustrative list of additionalprojects included in the financial plan under subparagraph (F) for inclusion in an approved transportation improvement program.
+Required action by the secretary.—Action by the Secretary shall be required for a State to select any project from the illustrative list of additional projects included in the financial plan under subparagraph (F) for inclusion in an approved transportation improvement program.
 
 &emsp;&emsp;(H)
 
@@ -520,7 +520,7 @@ Subsec. (d)(2)(B)(ii). Pub. L. 114–94, §3003(b)(2)(B)(i), struck out "urbaniz
 
 Subsec. (d)(2)(C). Pub. L. 114–94, §3003(b)(2)(B)(ii), struck out "urbanized" after "public transportation in".
 
-Subsec. (f)(3)(A)(ii). Pub. L. 114–94, §3003(b)(3), inserted "public ports," before "freight shippers," and"(including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program)" after "private providers of transportation".
+Subsec. (f)(3)(A)(ii). Pub. L. 114–94, §3003(b)(3), inserted "public ports," before "freight shippers," and "(including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program)" after "private providers of transportation".
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to statewide transportation planning and consisted of subsecs. (a) to (j).
 

@@ -28,7 +28,7 @@ The Water Resources Planning Act, referred to in subsec. (a), is Pub. L. 89–80
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–590 added subsec. (d).
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–486 struck out provision which directed that no river be added to the national wild and scenic river system after October 2, 1968, until the close of the next full session of the State legislature or legislatures, if more than one State was involved, which began following submission of the proposed addition to the President.
+<b>1976</b>—Subsec. (b). Pub. L. 94–486 struck out provision which directed that no river be added to the national wild and scenic river system after October 2, 1968, untilthe close of the next full session of the State legislature or legislatures, if more than one State was involved, which began following submission of the proposed addition to the President.
 
 <b>1975</b>—Subsec. (a). Pub. L. 93–621, in first paragraph, designated provision relating to the developments, which, if undertaken, would render the rivers unsuitable for inclusion in the system as cl. (i), and added cl. (ii).
 

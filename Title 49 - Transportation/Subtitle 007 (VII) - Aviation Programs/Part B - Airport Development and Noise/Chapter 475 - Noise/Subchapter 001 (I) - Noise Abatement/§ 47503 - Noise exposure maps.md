@@ -10,9 +10,21 @@ Submission and Preparation.—An airport operator may submit to the Secretary of
 
 (b)
 
-Revised Maps.—If, in an area surrounding an airport, a change in the operation of the airport would establish a substantial new noncompatible use, or would significantly reduce noise over existing noncompatible uses, that is not reflected in either the existing conditions map or forecast map currently on file with the Federal Aviation Administration, the airport operator shall submit a revised noise exposure map to the Secretary showing the new noncompatible use or noise reduction.
+Revised Maps.—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1284; Pub. L. 108–176, title III, §324, Dec. 12, 2003, 117 Stat. 2542.)
+&emsp;(1)
+
+In general.—An airport operator that submits a noise exposure map under subsection (a) shall submit a revised map to the Secretary if, in an area surrounding an airport, a change in the operation of the airport would establish a substantial new noncompatible use, or would significantly reduce noise over existing noncompatible uses, that is not reflected in either the existing conditions map or forecast map currently on file with the Federal Aviation Administration.
+
+&emsp;(2)
+
+Timing.—A submission under paragraph (1) shall be required only if the relevant change in the operation of the airport occurs during—
+
+&emsp;&emsp;(A) the forecast period of the applicable noise exposure map submitted by an airport operator under subsection (a); or
+
+&emsp;&emsp;(B) the implementation period of the airport operator's noise compatibility program.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1284; Pub. L. 108–176, title III, §324, Dec. 12, 2003, 117 Stat. 2542; Pub. L. 115–254, div. B, title I, §174, Oct. 5, 2018, 132 Stat. 3228.)
 
 Historical and Revision Notes
 
@@ -34,11 +46,13 @@ Feb. 18, 1980, Pub. L. 96–193, §103(a), 94 Stat. 50.
 
 49 App.:2103(a)(2).
 
-In subsection (a), before clause (1), the words "After the effective date of the regulations promulgated in accordance with section 2102 of this Appendix" are omitted as executed. The words "of an airport" and "at such airport" are omitted as surplus. The word "how" is substituted for "the ways, if any, in which" to eliminate unnecessary words. In clause (1), the words "planning authorities" are substituted for "planning agencies" for consistency.
+In subsection (a), before clause (1), the words "After the effective date of the regulations promulgated in accordance with section 2102 of this Appendix" are omitted as executed. The words "of an airport" and "at such airport" are omitted as surplus. The word "how" issubstituted for "the ways, if any, in which" to eliminate unnecessary words. In clause (1), the words "planning authorities" are substituted for "planning agencies" for consistency.
 
 In subsection (b), the words "to the Secretary" are added for clarity. The words "after the submission to the Secretary of a noise exposure map under paragraph (1)" are omitted as surplus.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–254 amended subsec. (b) generally. Prior to amendment, text read as follows: "If, in an area surrounding an airport, a change in the operation of the airport would establish a substantial new noncompatible use, or would significantly reduce noise over existing noncompatible uses, that is not reflected in either the existing conditions map or forecast map currently on file with the Federal Aviation Administration, the airport operator shall submit a revised noise exposure map to the Secretary showing the new noncompatible use or noise reduction."
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–176, §324(1), substituted "a forecast period that is at least 5 years in the future" for "1985," in introductory provisions.
 

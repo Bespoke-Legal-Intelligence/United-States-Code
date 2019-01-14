@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (4) Adjustment for inflation
 
-&emsp;In the case of any taxable year beginning after December 31, 2018, the dollar amount inparagraph (1) shall be increased by an amount equal to—
+&emsp;In the case of any taxable year beginning after December 31, 2018, the dollar amount in paragraph (1) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
@@ -142,9 +142,13 @@ For purposes of this section—
 
 #### (8) Use of related parties, etc.
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent the useof related parties, pass-thru entities, or intermediaries to avoid the application of this section.
+&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent the use of related parties, pass-thru entities, or intermediaries to avoid the application of this section.
 
 (Added Pub. L. 99–514, title VIII, §801(a), Oct. 22, 1986, 100 Stat. 2345; amended Pub. L. 100–647, title I, §1008(a)(1), (2), (7)–(9), title VI, §6032(a), Nov. 10, 1988, 102 Stat. 3436, 3437, 3695; Pub. L. 107–147, title IV, §403(a), Mar. 9, 2002, 116 Stat. 40; Pub. L. 115–97, title I, §13102(a)(1)–(4), Dec. 22, 2017, 131 Stat. 2102.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
 

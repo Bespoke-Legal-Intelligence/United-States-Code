@@ -38,7 +38,7 @@ In carrying out the duties referred to in subsection (c), personnel of the Insti
 
 #### (e) Annual reports
 
-The Institute shall submit to the President an annual report on the activities of the Instituteunder this section. Each report shall be in accordance with requirements prescribed by the President.
+The Institute shall submit to the President an annual report on the activities of the Institute under this section. Each report shall be in accordance with requirements prescribed by the President.
 
 #### (f) Sponsorship
 

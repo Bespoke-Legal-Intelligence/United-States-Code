@@ -156,7 +156,7 @@ The Superintendent is authorized to admit to the courses and programs of the Aca
 
 In the first annual report filed pursuant to section 2215 of this title for which the deadline for filing is after the expiration of the 18-month period that begins on October 8, 2008, and in every third annual report thereafter, the Administrator shall include information about changes made to the National Fire Academy curriculum, including—
 
-&emsp;(1) the basis for such changes, including a review of the incorporation of lessons learned by emergency response personnel after significant emergency events and emergency preparedness exercises performed under the National Exercise Program; and
+&emsp;(1) the basis for such changes, including a review of the incorporation of lessons learned byemergency response personnel after significant emergency events and emergency preparedness exercises performed under the National Exercise Program; and
 
 &emsp;(2) the desired training outcome of all such changes.
 
@@ -208,7 +208,7 @@ Pub. L. 108–169, title II, §204(b), Dec. 6, 2003, 117 Stat. 2039, provided th
 
 #### Coordination With Other Programs To Avoid Duplication
 
-Pub. L. 108–169, title II, §204(c), Dec. 6, 2003, 117 Stat. 2039, provided that: "The Administrator of the United States Fire Administration shall coordinate trainingprovided under section 7(d)(1) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2206(d)(1)) with the Attorney General, the Secretary of Health and Human Services, and the heads of other Federal agencies—
+Pub. L. 108–169, title II, §204(c), Dec. 6, 2003, 117 Stat. 2039, provided that: "The Administrator of the United States Fire Administration shall coordinate training provided under section 7(d)(1) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2206(d)(1)) with the Attorney General, the Secretary of Health and Human Services, and the heads of other Federal agencies—
 
 &emsp;"(1) to ensure that such training does not duplicate existing courses available to fire service personnel; and
 

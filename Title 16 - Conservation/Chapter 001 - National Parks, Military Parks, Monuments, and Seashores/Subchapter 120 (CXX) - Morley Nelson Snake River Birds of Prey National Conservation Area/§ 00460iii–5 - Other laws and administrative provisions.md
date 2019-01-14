@@ -6,7 +6,7 @@
 
 (2) Except as otherwise specifically provided in this subchapter, nothing in this subchapter shall be construed as limiting the applicability to lands in the conservation area of laws applicable to public lands generally, including but not limited to the National Historic Preservation Act,<sup>1</sup> the Archaeological Resources Protection Act of 1979 \[16 U.S.C. 470aa et seq.\], or the Native American Graves Protection and Repatriation Act \[25 U.S.C. 3001 et seq.\].
 
-(3) Nothing in this subchapter shall be construed as by itself altering the status of anylands that on August 4, 1993, were not managed by the Bureau of Land Management.
+(3) Nothing in this subchapter shall be construed as by itself altering the status of any lands that on August 4, 1993, were not managed by the Bureau of Land Management.
 
 (4) Nothing in this subchapter shall be construed as prohibiting the Secretary from engaging qualified persons to use public lands within the conservation area for the propagation of plants (including seeds) to be used for vegetative enhancement of the conservation area in accordance with the plan and in furtherance of the purposes for which the conservation area is established.
 
@@ -34,7 +34,7 @@ Public Land Orders 5133 dated October 12, 1971, and 5777 dated November 21, 1980
 
 The Endangered Species Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The National Trails System Act, referred to in subsec. (a)(1), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, as amended, which is classified generally to chapter 27 (§1241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1241 of this title and Tables.
+The National Trails System Act, referred to in subsec. (a)(1), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, as amended, which is classified generally to chapter 27 (§1241 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 1241 of this title and Tables.
 
 The National Historic Preservation Act, referred to in subsec. (a)(2), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. The Act, except for section 1, was repealed and restated in division A (§300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 

@@ -46,7 +46,7 @@ Quarterly report by attorney general.—Not later than 30 days after the end of 
 
 &emsp;(3)
 
-Quarterly report by special counsel.—Not later than 30 days after the end of each fiscal quarter, the Special Counsel shall submit to Congress, the Secretary, the Secretary of Defense, and the Attorney General a report setting forth, for the previous full quarter, the number of cases for which the Special Counsel received a referral under paragraph (1) of section 4324(a) of this title but did not meet the requirements of paragraph (2)(B) of section 4324(a) of this title for such referral.
+Quarterly report by special counsel.—Not later than 30 days after the end of each fiscal quarter, the Special Counsel shall submit to Congress, the Secretary, the Secretary of Defense, and the Attorney General a report setting forth, for the previous full quarter, thenumber of cases for which the Special Counsel received a referral under paragraph (1) of section 4324(a) of this title but did not meet the requirements of paragraph (2)(B) of section 4324(a) of this title for such referral.
 
 (c)
 

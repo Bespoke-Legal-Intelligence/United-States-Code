@@ -2,7 +2,7 @@
 
 Section 830, Pub. L. 93–203, title I, §128, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1947, authorized the Secretary to accept and utilize services and property in the furtherance of the purposes of this chapter.
 
-Provisions similar to those comprising this section were contained in former section 987 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+Provisions similar to those comprising this section were contained in former section 987 of this title priorto the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 831, Pub. L. 93–203, title I, §129, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1947, provided the Secretary with additional authorization to utilize various services and facilities of Federal, State, and local agencies and public and private organizations in the performance of functions under this chapter.
 

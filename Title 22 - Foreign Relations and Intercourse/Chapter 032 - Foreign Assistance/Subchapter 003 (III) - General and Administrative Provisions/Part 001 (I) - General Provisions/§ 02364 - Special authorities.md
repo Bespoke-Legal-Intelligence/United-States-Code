@@ -4,7 +4,7 @@
 
 (1) The President may authorize the furnishing of assistance under this chapter without regard to any provision of this chapter, the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], any law relating to receipts and credits accruing to the United States, and any Act authorizing or appropriating funds for use under this chapter, in furtherance of any of the purposes of this chapter, when the President determines, and so notifies in writing the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, that to do so is important to the security interests of the United States.
 
-(2) The President may make sales, extend credit, and issue guaranties under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], without regard to any provision of this chapter, the Arms Export Control Act, any law relating to receipts and credits accruing to the United States, and any Act authorizing or appropriating funds for use under the Arms Export Control Act, in furtherance of any of the purposes of such Act, when the President determines, and so notifies in writing the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, that to do so is vital to the national security interests of the United States.
+(2) The President may make sales, extend credit, and issue guaranties under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], without regard to any provision of this chapter, the Arms Export Control Act, any law relating to receipts and credits accruing to the United States, and any Act authorizing or appropriating funds for use under the Arms Export ControlAct, in furtherance of any of the purposes of such Act, when the President determines, and so notifies in writing the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, that to do so is vital to the national security interests of the United States.
 
 (3) Before exercising the authority granted in this subsection, the President shall consult with, and shall provide a written policy justification to, the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
@@ -56,7 +56,7 @@ Part IV of subchapter I (§2241 et seq.) of this chapter has been repealed. Refe
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–137 substituted "506" for "510", classified to the Code as section 2318 of this title.
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–583, §301(f), provided that the $50,000,000 limitation on allocation of funds to any country in any one fiscal year shall not apply to any country which is a victim of active Communist or Communist-supported aggression.
+<b>1966</b>—Subsec. (a). Pub. L. 89–583, §301(f), provided that the $50,000,000 limitation on allocation of funds to anycountry in any one fiscal year shall not apply to any country which is a victim of active Communist or Communist-supported aggression.
 
 Subsec. (c). Pub. L. 89–583, §301(g), inserted provision for reports to Congress of use of funds under this subsec.
 

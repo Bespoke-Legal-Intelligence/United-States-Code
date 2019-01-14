@@ -60,5 +60,5 @@ Section 6101(b
 
 ) of title 41" for "
 
-Section 3709 of revised statutes" in heading and "Section 6101(b) to\(d) of title 41" for "Section 3709 of the Revised Statutes (41 U.S.C. 5)" in text.
+Section 3709 of revised statutes" in heading and "Section 6101(b) to (d) of title 41" for "Section 3709 of the Revised Statutes (41 U.S.C. 5)" in text.
 

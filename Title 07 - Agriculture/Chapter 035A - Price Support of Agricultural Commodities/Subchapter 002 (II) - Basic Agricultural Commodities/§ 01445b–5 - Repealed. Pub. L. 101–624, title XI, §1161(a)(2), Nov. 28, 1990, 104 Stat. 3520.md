@@ -4,5 +4,5 @@ Section, act Oct. 31, 1949, ch. 792, title I, §107F, as added Dec. 23, 1985, Pu
 
 #### Effective Date of Repeal
 
-Repeal effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, seesection 1171 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1421 of this title.
+Repeal effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1421 of this title.
 

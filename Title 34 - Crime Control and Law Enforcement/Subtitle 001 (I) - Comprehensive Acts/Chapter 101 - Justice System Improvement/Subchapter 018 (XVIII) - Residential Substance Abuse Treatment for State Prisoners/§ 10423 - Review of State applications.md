@@ -10,7 +10,7 @@ The Attorney General shall make a grant under section 10421 of this title to car
 
 #### (b) Approval
 
-Each application submitted under section 10422 of this title shall be considered approved,in whole or in part, by the Attorney General not later than 90 days after first received unless the Attorney General informs the applicant of specific reasons for disapproval.
+Each application submitted under section 10422 of this title shall be considered approved, in whole or in part, by the Attorney General not later than 90 days after first received unless the Attorney General informs the applicant of specific reasons for disapproval.
 
 #### (c) Restriction
 

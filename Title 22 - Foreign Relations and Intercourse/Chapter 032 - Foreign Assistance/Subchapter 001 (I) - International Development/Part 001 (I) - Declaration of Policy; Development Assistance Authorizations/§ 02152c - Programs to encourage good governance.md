@@ -58,7 +58,7 @@ Projects and activities under the programs established pursuant to subsection (a
 
 #### (e) Funding
 
-Amounts made available to carry out the other provisions of subchapter I of this chapter (including part IV of subchapter II of this chapter) and the Support for East European Democracy (SEED) Act of 1989 \[22 U.S.C. 5401 et seq.\] shall be made available to carry out this section.
+Amounts made available to carry out the other provisions of subchapter I of this chapter (including part IV of subchapter II of this chapter) and the Support for East European Democracy (SEED) Act of 1989 \[22 U.S.C. 5401 et seq.\]shall be made available to carry out this section.
 
 (Pub. L. 87–195, pt. I, §133, as added Pub. L. 106–309, title II, §205(a), Oct. 17, 2000, 114 Stat. 1092; amended Pub. L. 107–228, div. A, title VI, §672(a), Sept. 30, 2002, 116 Stat. 1407; Pub. L. 112–74, div. I, title VII, §7034(n), Dec. 23, 2011, 125 Stat. 1217.)
 

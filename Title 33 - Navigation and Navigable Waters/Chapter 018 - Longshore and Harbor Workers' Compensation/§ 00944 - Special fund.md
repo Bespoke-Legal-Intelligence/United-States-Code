@@ -44,7 +44,7 @@ Neither the United States nor the Secretary shall be liable in respect of paymen
 
 #### (g) Audit by Comptroller General; finality of payment determinations; credits of disbursing officers
 
-The Comptroller General of the United States shall audit the account for such fund, but the action of the Secretary in making payments from such fund shall be final and not subject to review, and the Comptroller General is authorized and directed to allow credit in the accounts of any disbursing officer of the Secretary for payments made from such fund authorized by the Secretary.
+The Comptroller General of the United States shall audit the account for such fund, but the action of the Secretary in making payments from such fund shall be final and not subject toreview, and the Comptroller General is authorized and directed to allow credit in the accounts of any disbursing officer of the Secretary for payments made from such fund authorized by the Secretary.
 
 #### (h) Civil actions for civil penalties and unpaid assessments
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14, Coast Guard.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

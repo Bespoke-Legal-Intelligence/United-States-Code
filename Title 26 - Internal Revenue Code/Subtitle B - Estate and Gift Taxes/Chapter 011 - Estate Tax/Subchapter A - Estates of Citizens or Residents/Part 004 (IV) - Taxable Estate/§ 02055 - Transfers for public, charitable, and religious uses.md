@@ -14,7 +14,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 &emsp;(5) to an employee stock ownership plan if such transfer qualifies as a qualified gratuitous transfer of qualified employer securities within the meaning of section 664(g).
 
-> For purposes of this subsection, the complete termination before the date prescribed for the filing of the estate tax return of a power to consume, invade, or appropriate property for the benefit of an individual before such power has been exercised by reason of the death of such individual or for any other reason shall be considered and deemed to be a qualified disclaimer with the same full force and effect as though he had filed such qualified disclaimer. Rules similar to the rules of section 501(j) shall apply for purposes of paragraph (2).
+> For purposes of this subsection, the complete termination before the date prescribed for the filing of the estate tax return of a power to consume, invade, or appropriate property for the benefit of an individual before such power hasbeen exercised by reason of the death of such individual or for any other reason shall be considered and deemed to be a qualified disclaimer with the same full force and effect as though he had filed such qualified disclaimer. Rules similar to the rules of section 501(j) shall apply for purposes of paragraph (2).
 
 #### (b) Powers of appointment
 
@@ -74,7 +74,7 @@ Reformable interest.—For purposes of this paragraph—
 
 &emsp;&emsp;(i)
 
-In general.—The term "reformable interest" means any interest for which a deduction would be allowable under subsection\(a) at the time of the decedent's death but for paragraph (2).
+In general.—The term "reformable interest" means any interest for which a deduction would be allowable under subsection (a) at the time of the decedent's death but for paragraph (2).
 
 &emsp;&emsp;(ii)
 
@@ -94,7 +94,7 @@ Special rule for will executed before january 1, 1979, etc.—In the case of any
 
 &emsp;(D)
 
-Qualified interest.—For purposes of this paragraph, the term "qualified interest" means an interest for which a deduction is allowable under subsection (a).
+Qualified interest.—For purposes of this paragraph, the term "qualified interest"means an interest for which a deduction is allowable under subsection (a).
 
 &emsp;(E)
 
@@ -106,7 +106,7 @@ Special rule where income beneficiary dies.—If (by reason of the death of any 
 
 &emsp;(G)
 
-Statute of limitations.—The period for assessing any deficiency of any tax attributable to the application of this paragraph shall not expire before the date 1 year after the date on which the Secretary is notified that such reformation (or other proceeding pursuant to subparagraph (J) <sup>1</sup> has occurred.
+Statute of limitations.—The period for assessing any deficiency of any tax attributable to the application of this paragraph shall not expire before the date 1 year after the date on which the Secretary is notified that such reformation (or other proceeding pursuant to subparagraph (J)) has occurred.
 
 &emsp;(H)
 
@@ -148,7 +148,7 @@ Qualified contribution defined.—For purposes of this paragraph, the term "qual
 
 &emsp;(D)
 
-Qualified organization defined.—For purposes of this paragraph, the term "qualified organization" means any organization described in section 501(c)(3) other than a private foundation (as defined in section 509). For purposes of the preceding sentence, a private operating foundation (as defined in section4942(j)(3)) shall not be treated as a private foundation.
+Qualified organization defined.—For purposes of this paragraph, the term "qualified organization" means any organization described in section 501(c)(3) other than a private foundation (as defined in section 509). For purposes of the preceding sentence, a private operating foundation (as defined in section 4942(j)(3)) shall not be treated as a private foundation.
 
 (5)
 
@@ -174,7 +174,7 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 &emsp;&emsp;<b>(3) For exemption of gifts and bequests to or for the benefit of Library of Congress, see section 5 of the Act of March 3, 1925, as amended (2 U.S.C. 161).</b>
 
-&emsp;&emsp;<b>(4) For treatment of gifts and bequests for the benefit of the Naval Historical Center as gifts or bequests to or for the use of the United States, see section 7222 of title 10, United States Code.</b>
+&emsp;&emsp;<b>(4) For treatment of gifts and bequests for the benefit of the Naval Historical Center as gifts or bequests to or for the use of the United States, see section 8622 of title 10, United States Code.</b>
 
 &emsp;&emsp;<b>(5) For treatment of gifts and bequests to or for the benefit of National Park Foundation as gifts or bequests to or for the use of the United States, see section 8 of the Act of December 18, 1967 (16 U.S.C. 191).</b>
 
@@ -184,15 +184,15 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 &emsp;&emsp;<b>(8) For payment of tax on gifts and bequests of United States obligations to the United States, see section 3113(e) of title 31, United States Code.</b>
 
-&emsp;&emsp;<b>(9) For treatment of gifts and bequests for benefit of the Naval Academy as gifts or bequests to or for the use of the United States, see section 6973 of title 10, United States Code.</b>
+&emsp;&emsp;<b>(9) For treatment of gifts and bequests for benefit of the Naval Academy as gifts or bequests to or for the use of the United States, see section 8473 of title 10, United States Code.</b>
 
-&emsp;&emsp;<b>(10) For treatment of gifts and bequests for benefit of the Naval Academy Museum as gifts or bequests to or for the use of the United States, see section 6974 of title 10, United States Code.</b>
+&emsp;&emsp;<b>(10) For treatment of gifts and bequests for benefit of the Naval Academy Museum as gifts or bequests to or for the use of the United States, see section 8474 of title 10, United States Code.</b>
 
 &emsp;&emsp;<b>(11) For exemption of gifts and bequests received by National Archives Trust Fund Board, see section 2308 of title 44, United States Code.</b>
 
 &emsp;&emsp;<b>(12) For treatment of gifts and bequests to or for the use of Indian tribal governments (or their subdivisions), see section 7871.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 390; Aug. 6, 1956, ch. 1020, §1, 70 Stat. 1075; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 91–172, title II, §201(d)(1), (4)(A), Dec. 30, 1969, 83 Stat. 560, 561; Pub. L. 91–614, title I, §101(c), Dec. 31, 1970, 84 Stat. 1836; Pub. L. 93–483, §3(a), Oct. 26, 1974, 88 Stat. 1457; Pub. L. 94–455, title XIII, §§1304(a), 1307(d)(1)(B)(ii), (C), 1313(b)(2), title XIX, §§1902(a)(4), (12)(A), 1906(b)(13)(A), title XX, §2009(b)(4)(B), (C), title XXI, §2124(e)(2), Oct. 4, 1976, 90 Stat. 1715, 1727, 1730, 1804, 1805, 1834, 1894, 1919; Pub. L. 95–600, title V, §514(a), Nov. 6, 1978, 92 Stat. 2883; Pub. L. 96–222, title I, §105(a)(4)(A), Apr. 1, 1980, 94 Stat. 219; Pub. L. 96–465, title II, §2206(e)(4), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 96–605, title III, §301(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title IV, §423(a), Aug. 13, 1981, 95 Stat. 316; Pub. L. 97–248, title II, §286(b)(2), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–258, §3(f)(1), (2), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 97–473, title II, §202(b)(5), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title X, §§1022(a), 1032(b)(2), July 18, 1984, 98 Stat. 1026, 1033; Pub. L. 99–514, title XIV, §1422(a), Oct. 22, 1986, 100 Stat. 2716; Pub. L. 100–203, title X, §10711(a)(3), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 104–201, div. A, title X, §1073(b)(3), Sept. 23, 1996, 110 Stat. 2657; Pub. L. 105–34, title X, §1089(b)(3), (5), title XV, §1530(c)(7), Aug. 5, 1997, 111 Stat. 960, 961, 1078; Pub. L. 109–280, title XII, §§1218(b), 1234(b), Aug. 17, 2006, 120 Stat. 1081, 1100; Pub. L. 110–172, §3(d)(1), Dec. 29, 2007, 121 Stat. 2474.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 390; Aug. 6, 1956, ch. 1020, §1, 70 Stat. 1075; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 91–172, title II, §201(d)(1), (4)(A), Dec. 30, 1969, 83 Stat. 560, 561; Pub. L. 91–614, title I, §101(c), Dec. 31, 1970, 84 Stat. 1836; Pub. L. 93–483, §3(a), Oct. 26, 1974, 88 Stat. 1457; Pub. L. 94–455, title XIII, §§1304(a), 1307(d)(1)(B)(ii), (C), 1313(b)(2), title XIX, §§1902(a)(4), (12)(A), 1906(b)(13)(A), title XX, §2009(b)(4)(B), (C), title XXI, §2124(e)(2), Oct. 4, 1976, 90 Stat. 1715, 1727, 1730, 1804, 1805, 1834, 1894, 1919; Pub. L. 95–600, title V, §514(a), Nov. 6, 1978, 92 Stat. 2883; Pub. L. 96–222, title I, §105(a)(4)(A), Apr. 1, 1980, 94 Stat. 219; Pub. L. 96–465, title II, §2206(e)(4), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 96–605, title III, §301(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title IV, §423(a), Aug. 13, 1981, 95 Stat. 316; Pub. L. 97–248, title II, §286(b)(2), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–258, §3(f)(1), (2), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 97–473, title II, §202(b)(5), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title X, §§1022(a), 1032(b)(2), July 18, 1984, 98 Stat. 1026, 1033; Pub. L. 99–514, title XIV, §1422(a), Oct. 22, 1986, 100 Stat. 2716; Pub. L. 100–203, title X, §10711(a)(3), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 104–201, div. A, title X, §1073(b)(3), Sept. 23, 1996, 110 Stat. 2657; Pub. L. 105–34, title X, §1089(b)(3), (5), title XV, §1530(c)(7), Aug. 5, 1997, 111 Stat. 960, 961, 1078; Pub. L. 109–280, title XII, §§1218(b), 1234(b), Aug. 17, 2006, 120 Stat. 1081, 1100; Pub. L. 110–172, §3(d)(1), Dec. 29, 2007, 121 Stat. 2474; Pub. L. 115–141, div. U, title IV, §401(a)(202), Mar. 23, 2018, 132 Stat. 1193; Pub. L. 115–232, div. A, title VIII, §809(h)(2), Aug. 13, 2018, 132 Stat. 1842.)
 
 #### References in Text
 
@@ -203,6 +203,14 @@ Section 25 of the State Department Basic Authorities Act of 1956, referred to in
 Sections 1218(b) and 1234(b) of Pub. L. 109–280, which directed the amendment of section 2055 without specifying the act to be amended, were executed to this section, which is section 2055 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(3)(G). Pub. L. 115–141 substituted "subparagraph (J))" for "subparagraph (J)".
+
+Subsec. (g)(4). Pub. L. 115–232, §809(h)(2)(A), substituted "section 8622 of title 10, United States Code" for "section 7222 of title 10, United States Code".
+
+Subsec. (g)(9). Pub. L. 115–232, §809(h)(2)(B), substituted "section 8473 of title 10, United States Code" for "section 6973 of title 10, United States Code".
+
+Subsec. (g)(10). Pub. L. 115–232, §809(h)(2)(C), substituted "section 8474 of title 10, United States Code" for "section 6974 of title 10, United States Code".
 
 <b>2007</b>—Subsecs. (g), (h). Pub. L. 110–172 redesignated subsec. (h) as (g) and struck out heading and text of former subsec. (g). Text read as follows:
 
@@ -242,7 +250,7 @@ Subsec. (e)(3)(J). Pub. L. 105–34, §1089(b)(3), added subpar. (J).
 
 <b>1986</b>—Subsecs. (f), (g). Pub. L. 99–514 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-<b>1984</b>—Subsec. (e)(3). Pub. L. 98–369, §1022(a), amended par. (3) generally, substituting provisions relating to reformations to comply with par. (2), defining "qualified reformation", "reformable interest", and "qualified interest", and setting forth limitations on the deduction, a special rule where the income beneficiary dies, statute of limitations, regulations prescribed by the Secretary, and reformations permitted in the case of remainder interests in a residence or farm, pooled income funds, etc., for former par. (3), which provided: "In the case of a will executed before December 31, 1978, or a trust created before such date, if a deduction is not allowable at the time of the decedent's death because of the failure of an interest in property which passes from the decedent to a person, or for a use, described in subsection (a) to meet the requirements of subparagraph (A) or (B) of paragraph (2) of this subsection, and if the governing instrument is amended or conformed on or before December 31, 1981, or, if later, on or before the 30th day after the date on which judicial proceedings begun on or before December 31, 1981, (which are required to amend or conform the governing instrument), become final, so that the interest is in a trust which meets the requirements of such subparagraph (A) or (B) (as the case may be), a deduction shall nevertheless be allowed. The Secretary may, by regulation, provide for the application of the provisions of this paragraph to trusts whose governing instruments are amended or conformed in accordance with this paragraph, and such regulations may provide for any adjustments in the application of the provisions of section 508 (relating to special rules with respect to section 501(c)(3) organizations), subchapter J (relating to estates, trusts, beneficiaries, and decedents), and chapter 42 (relating to private foundations), to such trusts made necessary by the application of this paragraph. If, by the due date for the filing of an estate tax return (including any extension thereof), the interest is in a charitable trust which, upon allowance of a deduction, would be described in section 4947(a)(1), or the interest passes directly to a person or for a use described in subsection (a), a deduction shall be allowed as if the governing instrument was amended or conformed under this paragraph. If the amendment or conformation of the governing instrument is made after the due date for the filing of the estate tax return (including any extension thereof), the deduction shall be allowed upon the filing of a timely claim for credit or refund (as provided for in section 6511) of an overpayment resulting from the application of this paragraph. In the case of a credit or refund as a result of an amendment or conformation made pursuant to this paragraph, no interest shall be allowed for the period prior to the expiration of the 180th day after the date on which the claim for credit or refund is filed."
+<b>1984</b>—Subsec. (e)(3). Pub. L. 98–369, §1022(a), amended par. (3) generally, substituting provisions relating to reformations to comply with par. (2), defining "qualified reformation", "reformable interest", and "qualified interest", and setting forth limitations on the deduction, a special rule where the income beneficiary dies, statute of limitations, regulations prescribed by the Secretary, and reformations permitted in the case of remainder interests in a residence or farm, pooled income funds, etc., for former par. (3), which provided: "In the case of a will executed before December 31, 1978, or a trust created before such date, if a deduction is not allowable at the time of the decedent's death because of the failure of an interest in property which passesfrom the decedent to a person, or for a use, described in subsection (a) to meet the requirements of subparagraph (A) or (B) of paragraph (2) of this subsection, and if the governing instrument is amended or conformed on or before December 31, 1981, or, if later, on or before the 30th day after the date on which judicial proceedings begun on or before December 31, 1981, (which are required to amend or conform the governing instrument), become final, so that the interest is in a trust which meets the requirements of such subparagraph (A) or (B) (as the case may be), a deduction shall nevertheless be allowed. The Secretary may, by regulation, provide for the application of the provisions of this paragraph to trusts whose governing instruments are amended or conformed in accordance with this paragraph, and such regulations may provide for any adjustments in the application of the provisions of section 508 (relating to special rules with respect to section 501(c)(3) organizations), subchapter J (relating to estates, trusts, beneficiaries, and decedents), and chapter 42 (relating to private foundations), to such trusts made necessary by the application of this paragraph. If, by the due date for the filing of an estate tax return (including any extension thereof), the interest is in a charitable trust which, upon allowance of a deduction, would be described in section 4947(a)(1), or the interest passes directly to a person or for a use described in subsection (a), a deduction shall be allowed as if the governing instrument was amended or conformed under this paragraph. If the amendment or conformation of the governing instrument is made after the due date for the filing of the estate tax return (including any extension thereof), the deduction shall be allowed upon the filing of a timely claim for credit or refund (as provided for in section 6511) of an overpayment resulting from the application of this paragraph. In the case of a credit or refund as a result of an amendment or conformation made pursuant to this paragraph, no interest shall be allowed for the period prior to the expiration of the 180th day after the date on which the claim for credit or refund is filed."
 
 Subsec. (f)(2). Pub. L. 98–369, §1032(b)(2), added par. (2), and redesignated former pars. (2) to (11) as pars. (3) to (12), respectively.
 
@@ -270,7 +278,7 @@ Subsec. (b). Pub. L. 94–455, §1902(a)(4)(A), struck out provisions under whic
 
 Subsec. (e)(2). Pub. L. 94–455, §2124(e)(2), substituted "(other than an interest described in section 170(f)(3)(B))" for "(other than a remainder interest in a personal residence or farm or an undivided portion of the decedent's entire interest in property)" in provisions preceding subpar. (A).
 
-Subsec. (e)(3). Pub. L. 94–455, §1304(a), §1906(b)(13)(A), substituted "will executed before December 31, 1977," for "will executed before September 21, 1974," and "amended or conformed on or before December 31, 1977, or, if later, on or before the 30th day after the date on which judicial proceedings begun on or before December 31, 1977" for "amended or conformed on or beforeDecember 31, 1975, or, if later, on or before the 30th day after the date on which judicial proceedings begun on or before December 31, 1975" and struck out "or his delegate" after "Secretary".
+Subsec. (e)(3). Pub. L. 94–455, §1304(a), §1906(b)(13)(A), substituted "will executed before December 31, 1977," for "will executed before September 21, 1974," and "amended or conformed on or before December 31, 1977, or, if later, on or before the 30th day after the date on which judicial proceedings begun on or before December 31, 1977" for "amended or conformed on or before December 31, 1975, or, if later, on or before the 30th day after the date on which judicial proceedings begun on or before December 31, 1975" and struck out "or his delegate" after "Secretary".
 
 Subsec. (f). Pub. L. 94–455, §1902(a)(4)(B), extended par. (2) by inserting reference to gifts, struck out par. (3) which made a cross reference to section 2 of the Act of Aug. 8, 1946 (60 Stat. 924; 5 U.S.C. 393) for construction of bequests for benefit of the library of the Post Office Department as bequests to or for the use of the United States, redesignated pars. (4)–(11) as (3)–(10), respectively, substituted "For treatment of gifts and bequests for the benefit of the Office of Naval Records and History as gifts or bequests to or for the use of the United States, see section 7222 of title 10, United States Code" for "For exemption of bequests for benefit of Office of Naval Records and Library, Navy Department, see section 2 of the Act of March 4, 1937 (50 Stat. 25; 5 U.S.C. 419b)" in par. (3) as so redesignated, substituted "For treatment of gifts and bequests to or for the benefit of National Park Foundation as gifts or bequests to or for the use of the United States, see section 8 of the Act of December 18, 1967 (16 U.S.C. 191)" for "For exemption of bequests to or for benefit of National Park Service, see section 5 of the Act of July 10, 1935 (49 Stat. 478; 16 U.S.C. 19c)" in par. (4) as so redesignated, and corrected obsolete and inaccurate references in pars. (5)–(10) as so redesignated.
 
@@ -291,6 +299,10 @@ Subsec. (e). Pub. L. 91–172, §201(d)(1), substituted substantive provisions f
 #### Change of Name
 
 International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
 
 #### Effective Date of 2007 Amendment
 
@@ -366,7 +378,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Extension of 1978 Amendment; Charitable Lead Trusts and Charitable Remainder Trusts in Case of Income and Gift Taxes
 
-Pub. L. 96–605, title III, §301(b)(2), Dec. 28, 1980, 94 Stat. 3531, provided that: "Section 514(b) \[section 514(b) of Pub. L. 95–600, set out below\] (and section 514(c) \[section 514(c) of Pub. L. 95–600, set out below\] insofar as it relates to section 514(b)) of the Revenue Act of 1978 shall be applied as if the amendment made by subsection (a) \[amending this section\] had been included in the amendment made by section 514(a) of such Act \[section 514(a) of Pub. L. 95–600, amending this section\]."
+Pub. L. 96–605, title III, §301(b)(2), Dec. 28, 1980, 94 Stat. 3531, provided that: "Section 514(b) \[section 514(b) of Pub. L. 95–600, set out below\] (and section 514(c) \[section 514(c) of Pub. L. 95–600, set out below\] insofar as itrelates to section 514(b)) of the Revenue Act of 1978 shall be applied as if the amendment made by subsection (a) \[amending this section\] had been included in the amendment made by section 514(a) of such Act \[section 514(a) of Pub. L. 95–600, amending this section\]."
 
 #### Effective Date of 1978 Amendment; Charitable Lead Trusts and Charitable Remainder Trusts in Case of Income and Gift Taxes
 
@@ -420,6 +432,8 @@ Act Aug. 6, 1956, ch. 1020, §3, 70 Stat. 1075, provided that: "The amendments m
 
 United States International Development Cooperation Agency (other than Agency for International Development and Overseas Private Investment Corporation) abolished and functions and authorities transferred, see sections 6561 and 6562 of Title 22, Foreign Relations and Intercourse.
 
+For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of Title 22, Foreign Relations and Intercourse.
+
 #### Special Donations
 
 Pub. L. 99–514, title XIV, §1422(d), Oct. 22, 1986, 100 Stat. 2717, provided that: "If the Secretary of the Interior acquires by donation after December 31, 1986, a conservation easement (within the meaning of section 2(h) of S. 720, 99th Congress, 1st Session, as in effect on August 16, 1986) \[see Pub. L. 99–420, Sept. 25, 1986, §102(h), 99 Stat. 955, 957\], such donation shall qualify for treatment under section 2055(f) or 2522(d) of the Internal Revenue Code of 1954 \[now 1986\], as added by this section."
@@ -431,6 +445,4 @@ Pub. L. 95–600, title V, §514(b), Nov. 6, 1978, 92 Stat. 2884, as amended by 
 #### Extension of Period for Filing Claim for Refund
 
 Pub. L. 94–455, title XIII, §1304(b), Oct. 4, 1976, 90 Stat. 1716, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "A claim for refund or credit of an overpayment of the tax imposed by section 2001 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] allowable under section 2055(e)(3) of such Code (as amended by subsection (a)) shall not be denied because of the expiration of the time for filing such a claim under section 6511(a) if such claim is filed not later than June 30, 1978."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by an additional closing parenthesis.</i>
 

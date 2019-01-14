@@ -1,6 +1,6 @@
 ### §1140p. Purpose
 
-It is the purpose of this subpart to provide technical assistance and information on bestand promising practices to students with disabilities, the families of students with disabilities, and entities awarded grants, contracts, or cooperative agreements under subpart 1, 2, or 3 to improve the postsecondary recruitment, transition, retention, and completion rates of students with disabilities.
+It is the purpose of this subpart to provide technical assistance and information on best and promising practices to students with disabilities, the families of students with disabilities, and entities awarded grants, contracts, or cooperative agreements under subpart 1, 2, or 3 to improve the postsecondary recruitment, transition, retention, and completion rates of students with disabilities.
 
 (Pub. L. 89–329, title VII, §776, as added Pub. L. 110–315, title VII, §709(2), Aug. 14, 2008, 122 Stat. 3373.)
 

@@ -76,7 +76,7 @@ In this section:
 
 #### (d) Contents of reports
 
-Each serious adverse event report under this section shall be submitted to the Secretaryusing the MedWatch form, which may be modified by the Secretary for nonprescription drugs, and may be accompanied by additional information.
+Each serious adverse event report under this section shall be submitted to the Secretary using the MedWatch form, which may be modified by the Secretary for nonprescription drugs, and may be accompanied by additional information.
 
 #### (e) Maintenance and inspection of records
 
@@ -100,7 +100,7 @@ Each serious adverse event report under this section shall be submitted to the S
 
 #### (f) Protected information
 
-A serious adverse event report submitted to the Secretary under this section, including any new medical information submitted under subsection (c)(2), or an adverse event report voluntarily submitted to the Secretary shall be considered to be—
+A serious adverse event report submitted to the Secretary under this section, including anynew medical information submitted under subsection (c)(2), or an adverse event report voluntarily submitted to the Secretary shall be considered to be—
 
 &emsp;(1) a safety report under section 379v of this title and may be accompanied by a statement, which shall be a part of any report that is released for public disclosure, that denies that the report or the records constitute an admission that the product involved caused or contributed to the adverse event; and
 

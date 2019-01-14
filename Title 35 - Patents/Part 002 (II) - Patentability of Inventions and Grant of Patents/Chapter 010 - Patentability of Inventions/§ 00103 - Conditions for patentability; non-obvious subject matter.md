@@ -16,7 +16,7 @@ The second sentence states that patentability as to this requirement is not to b
 
 Subsecs. (a), (c)(1). Pub. L. 112–29, §20(j), struck out "of this title" after "102".
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–453 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Subject matter developed by another person, which qualifies as prior art only under one or more of subsections (e), (f), and (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person."
+<b>2004</b>—Subsec. (c). Pub. L. 108–453 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Subject matter developed by another person, which qualifies as prior art only under one or more of subsections (e), (f), and (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed inventionwere, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person."
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–113 substituted "one or more of subsections (e), (f), and (g)" for "subsection (f) or (g)".
 

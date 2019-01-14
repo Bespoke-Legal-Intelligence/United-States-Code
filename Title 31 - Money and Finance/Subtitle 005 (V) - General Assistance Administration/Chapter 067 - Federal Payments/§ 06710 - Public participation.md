@@ -18,7 +18,7 @@ Disclosure of Information.—
 
 &emsp;(1)
 
-In general.—By the 10th day before a hearing required under subsection (a)(1) isheld, a unit of general local government shall—
+In general.—By the 10th day before a hearing required under subsection (a)(1) is held, a unit of general local government shall—
 
 &emsp;&emsp;(A) make available for inspection by the public at the principal office of the government a statement of the proposed use of the payment and a summary of the proposed budget of the government; and
 

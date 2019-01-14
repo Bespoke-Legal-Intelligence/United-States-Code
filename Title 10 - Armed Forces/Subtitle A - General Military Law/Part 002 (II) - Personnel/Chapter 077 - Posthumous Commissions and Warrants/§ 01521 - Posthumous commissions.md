@@ -4,7 +4,7 @@
 
 &emsp;(1) was appointed to a commissioned grade but was unable to accept the appointment because of death;
 
-&emsp;(2) successfully completed the course at an officers' training school and was recommended for appointment to a commissioned grade by the commanding officer or officer in charge of the school but was unable to accept the appointment because of death; or
+&emsp;(2) successfully completed the course at an officers' training school and was recommendedfor appointment to a commissioned grade by the commanding officer or officer in charge of the school but was unable to accept the appointment because of death; or
 
 &emsp;(3) was officially recommended for appointment or promotion to a commissioned grade but was unable to accept the promotion or appointment because of death.
 

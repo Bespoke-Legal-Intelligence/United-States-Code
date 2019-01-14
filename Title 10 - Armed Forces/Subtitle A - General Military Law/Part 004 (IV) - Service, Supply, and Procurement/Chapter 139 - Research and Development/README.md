@@ -6,11 +6,12 @@
 | \[2352. | Repealed.\] |
 | [2353\.](%C2%A7%2002353%20-%20Contracts%20acquisition%2C%20construction%2C%20or%20furnishing%20of%20test%20facilities%20and%20equipment.md) | Contracts: acquisition, construction, or furnishing of test facilities and equipment. |
 | [2354\.](%C2%A7%2002354%20-%20Contracts%20indemnification%20provisions.md) | Contracts: indemnification provisions. |
-| \[2355 to 2357. Repealed.\] |  |
+| \[2355, 2356. Repealed.\] |  |
+| [2357\.](%C2%A7%2002357%20-%20Technology%20protection%20features%20activities.md) | Technology protection features activities. |
 | [2358\.](%C2%A7%2002358%20-%20Research%20and%20development%20projects.md) | Research and development projects. |
 | [2358a.](%C2%A7%2002358a%20-%20Authorities%20for%20certain%20positions%20at%20science%20and%20technology%20reinvention%20laboratories.md) | Authorities for certain positions at science and technology reinvention laboratories. |
 | [2359\.](%C2%A7%2002359%20-%20Science%20and%20technology%20programs%20to%20be%20conducted%20so%20as%20to%20foster%20the%20transition%20of%20science%20and%20technology%20to%20higher%20levels%20of%20research%E2%80%A6.md) | Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation. |
-| \[2359a. | Repealed.\] |
+| [2359a.](%C2%A7%2002359a%20-%20Defense%20Research%20and%20Development%20Rapid%20Innovation%20Program.md) | Defense Research and Development Rapid Innovation Program. |
 | [2359b.](%C2%A7%2002359b%20-%20Defense%20Acquisition%20Challenge%20Program.md) | Defense Acquisition Challenge Program. |
 | [2360\.](%C2%A7%2002360%20-%20Research%20and%20development%20laboratories%20contracts%20for%20services%20of%20university%20students.md) | Research and development laboratories: contracts for services of university students. |
 | [2361\.](%C2%A7%2002361%20-%20Award%20of%20grants%20and%20contracts%20to%20colleges%20and%20universities%20requirement%20of%20competition.md) | Award of grants and contracts to colleges and universities: requirement of competition. |
@@ -38,6 +39,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title II, §§223(b), 224(a)(2), Aug. 13, 2018, 132 Stat. 1683, 1684, added items 2357 and 2359a.
 
 <b>2017</b>—Pub. L. 115–91, div. A, title II, §220(b), title X, §1081(a)(33), Dec. 12, 2017, 131 Stat. 1333, 1596, added item 2363 and inserted a period at end of items 2372 and 2372a.
 
@@ -124,11 +127,11 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 - [&sect; 02354 - Contracts indemnification provisions](%C2%A7%2002354%20-%20Contracts%20indemnification%20provisions.md)
 - [&sect; 02355 - Repealed. Pub. L. 103&#8211;355, title II, &sect;2002(a), Oct. 13, 1994, 108 Stat. 3303](%C2%A7%2002355%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20II%2C%20%C2%A72002%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203303.md)
 - [&sect; 02356 - Repealed. Pub. L. 104&#8211;106, div. A, title VIII, &sect;802(a), Feb. 10, 1996, 110 Stat. 390](%C2%A7%2002356%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7802%28a%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20390.md)
-- [&sect; 02357 - Repealed. Pub. L. 101&#8211;510, div. A, title XIII, &sect;1301(11), Nov. 5, 1990, 104 Stat. 1668](%C2%A7%2002357%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93510%2C%20div.%20A%2C%20title%20XIII%2C%20%C2%A71301%2811%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201668.md)
+- [&sect; 02357 - Technology protection features activities](%C2%A7%2002357%20-%20Technology%20protection%20features%20activities.md)
 - [&sect; 02358 - Research and development projects](%C2%A7%2002358%20-%20Research%20and%20development%20projects.md)
 - [&sect; 02358a - Authorities for certain positions at science and technology reinvention laboratories](%C2%A7%2002358a%20-%20Authorities%20for%20certain%20positions%20at%20science%20and%20technology%20reinvention%20laboratories.md)
 - [&sect; 02359 - Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research&#8230;](%C2%A7%2002359%20-%20Science%20and%20technology%20programs%20to%20be%20conducted%20so%20as%20to%20foster%20the%20transition%20of%20science%20and%20technology%20to%20higher%20levels%20of%20research%E2%80%A6.md)
-- [&sect; 02359a - Repealed. Pub. L. 112&#8211;81, div. A, title II, &sect;251(a)(1), Dec. 31, 2011, 125 Stat. 1347](%C2%A7%2002359a%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7251%28a%29%281%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201347.md)
+- [&sect; 02359a - Defense Research and Development Rapid Innovation Program](%C2%A7%2002359a%20-%20Defense%20Research%20and%20Development%20Rapid%20Innovation%20Program.md)
 - [&sect; 02359b - Defense Acquisition Challenge Program](%C2%A7%2002359b%20-%20Defense%20Acquisition%20Challenge%20Program.md)
 - [&sect; 02360 - Research and development laboratories contracts for services of university students](%C2%A7%2002360%20-%20Research%20and%20development%20laboratories%20contracts%20for%20services%20of%20university%20students.md)
 - [&sect; 02361 - Award of grants and contracts to colleges and universities requirement of competition](%C2%A7%2002361%20-%20Award%20of%20grants%20and%20contracts%20to%20colleges%20and%20universities%20requirement%20of%20competition.md)

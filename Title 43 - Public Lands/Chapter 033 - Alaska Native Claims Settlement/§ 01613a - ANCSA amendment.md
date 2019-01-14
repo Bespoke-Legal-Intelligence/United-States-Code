@@ -6,7 +6,7 @@ All land and interests in land in the State of Alaska conveyed by the Federal Go
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in text, is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Alaska Native Claims Settlement Act, referred to in text, is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to this chapter. For complete classification of this Act to the Code, see ShortTitle note set out under section 1601 of this title and Tables.
 
 #### Codification
 

@@ -52,7 +52,7 @@ The Director, in coordination with the Director of the Office of Personnel Manag
 
 #### (3) Financial and logistical assistance
 
-&emsp;Notwithstanding section 1345 of title 31 or any other law to the contrary, the Director may include as a form of financial or logistical assistance under this subsection temporary housing and transportation to and from Institute facilities.
+&emsp;Notwithstanding section 1345 of title 31 or any other law to the contrary, the Director may include as a form of financial or logisticalassistance under this subsection temporary housing and transportation to and from Institute facilities.
 
 #### (e) Educational outreach activities
 

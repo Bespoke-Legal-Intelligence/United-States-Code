@@ -2,7 +2,7 @@
 
 (a)
 
-Criteria for Issuing Permit.—Before issuing a permit for the construction of a commemorative work in the District of Columbia and its environs, the Secretary of the Interior or Administrator of General Services, as appropriate, shall determine that—
+Criteria for Issuing Permit.—Before issuing a permit for the construction of a commemorative work in the District of Columbia and its environs, the Secretary of the Interior orAdministrator of General Services, as appropriate, shall determine that—
 
 &emsp;(1) the site and design have been approved by the Secretary or Administrator, the National Capital Planning Commission and the Commission of Fine Arts;
 

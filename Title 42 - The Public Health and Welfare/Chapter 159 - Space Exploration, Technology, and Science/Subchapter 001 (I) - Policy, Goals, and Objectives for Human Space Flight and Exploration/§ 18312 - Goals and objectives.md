@@ -32,5 +32,5 @@ The key objectives of the United States for human expansion into space shall be�
 
 Subsec. (b)(5). Pub. L. 115–10, §412, added par. (5).
 
-<i><sup>1</sup></i><i> So in original. Probably should be "century.".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "century."</i>
 

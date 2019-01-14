@@ -12,6 +12,7 @@
 | [4007\.](%C2%A7%2004007%20-%20Effect%20on%20other%20Federal%20authority.md) | Effect on other Federal authority. |
 | [4008\.](%C2%A7%2004008%20-%20Definitions.md) | Definitions. |
 | [4009\.](%C2%A7%2004009%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [4010\.](%C2%A7%2004010%20-%20Hypoxia%20or%20harmful%20algal%20bloom%20of%20national%20significance.md) | Hypoxia or harmful algal bloom of national significance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -30,3 +31,4 @@
 - [&sect; 04007 - Effect on other Federal authority](%C2%A7%2004007%20-%20Effect%20on%20other%20Federal%20authority.md)
 - [&sect; 04008 - Definitions](%C2%A7%2004008%20-%20Definitions.md)
 - [&sect; 04009 - Authorization of appropriations](%C2%A7%2004009%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 04010 - Hypoxia or harmful algal bloom of national significance](%C2%A7%2004010%20-%20Hypoxia%20or%20harmful%20algal%20bloom%20of%20national%20significance.md)

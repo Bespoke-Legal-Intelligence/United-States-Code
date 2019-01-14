@@ -70,7 +70,7 @@ In subsection (a), the first 22 words are substituted for 50 App. U.S.C. 1002(a)
 
 In subsection (b), the first sentence is substituted for 50 App. U.S.C. 1002(a) (1st 21 words of 2d sentence). The words "or employment" are omitted as inapplicable to members of the uniformed services. The words "entitlement to pay and allowances under subsection (a) of this section" are substituted for "Such entitlement to pay and allowances" for clarity. The words "Notwithstanding the death of a member while in a missing status" are substituted for 50 App. U.S.C. 1002(a) (2d sentence, less 1st 21 words). The word "member" is substituted for "person" and the word "Secretary" is substituted for "department" to conform to the definitions in 37 U.S.C. 101(5) and (23).
 
-In subsection (c), the words "A member" are substituted for "such person". The words "under subsection (a) of this section" are inserted for clarity. Thewords "United States" are substituted for "Government" to conform to the style of title 37.
+In subsection (c), the words "A member" are substituted for "such person". The words "under subsection (a) of this section" are inserted for clarity. The words "United States" are substituted for "Government" to conform to the style of title 37.
 
 In subsection (d), the words "A member . . . he . . . in a missing status" are substituted for "Persons", "such persons", and the enumerated absent stata to conform to the definitions in 37 U.S.C. 101(23) and revised section 551(2) of this chapter.
 

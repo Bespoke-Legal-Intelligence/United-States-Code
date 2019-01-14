@@ -14,7 +14,7 @@ Section 795b, Pub. L. 93–112, title VI, §613, as added Pub. L. 95–602, titl
 
 Section 795c, Pub. L. 93–112, title VI, §614, as added Pub. L. 95–602, title II, §201, Nov. 6, 1978, 92 Stat. 2992; amended Pub. L. 98–221, title I, §104(b)(5), Feb. 22, 1984, 98 Stat. 18, related to interagency cooperation.
 
-Section 795d, Pub. L. 93–112, title VI, §615, as added Pub. L. 95–602, title II, §201, Nov. 6, 1978, 92 Stat. 2992; amended Pub. L. 99–506, title I, §103(d)(2)(C), title VII, §701, Oct. 21, 1986, 100 Stat. 1810, 1831; Pub. L. 102–569, title I, §102(p)(37), Oct. 29, 1992, 106 Stat. 4360, related to award of grants or contracts.
+Section 795d, Pub. L. 93–112, title VI, §615, as added Pub. L. 95–602, title II, §201, Nov. 6, 1978, 92 Stat. 2992; amended Pub. L. 99–506, title I, §103(d)(2)(C), title VII,§701, Oct. 21, 1986, 100 Stat. 1810, 1831; Pub. L. 102–569, title I, §102(p)(37), Oct. 29, 1992, 106 Stat. 4360, related to award of grants or contracts.
 
 Section 795e, Pub. L. 93–112, title VI, §616, as added Pub. L. 95–602, title II, §201, Nov. 6, 1978, 92 Stat. 2993; amended Pub. L. 99–506, title I, §103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 102–569, title I, §102(p)(38), title VI, §603, Oct. 29, 1992, 106 Stat. 4361, 4434, defined terms "community service" and "pilot program".
 

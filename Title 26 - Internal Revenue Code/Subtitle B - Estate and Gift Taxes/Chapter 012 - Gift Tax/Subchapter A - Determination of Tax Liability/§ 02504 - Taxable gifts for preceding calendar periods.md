@@ -4,7 +4,7 @@
 
 In computing taxable gifts for preceding calendar periods for purposes of computing the tax for any calendar year—
 
-&emsp;(1) there shall be treated as gifts such transfers as were considered to be gifts under thegift tax laws applicable to the calendar period in which the transfers were made,
+&emsp;(1) there shall be treated as gifts such transfers as were considered to be gifts under the gift tax laws applicable to the calendar period in which the transfers were made,
 
 &emsp;(2) there shall be allowed such deductions as were provided for under such laws, and
 
@@ -12,7 +12,7 @@ In computing taxable gifts for preceding calendar periods for purposes of comput
 
 #### (b) Exclusions from gifts for preceding calendar periods
 
-In the case of gifts made to any person by the donor during preceding calendar periods, the amount excluded, if any, by the provisions of gift tax laws applicable to the periods in which the gifts were made shall not, for purposes of subsection (a), be included in the total amount of the gifts made during such preceding calendar periods.
+In the case of gifts made to any person by the donor during preceding calendar periods, theamount excluded, if any, by the provisions of gift tax laws applicable to the periods in which the gifts were made shall not, for purposes of subsection (a), be included in the total amount of the gifts made during such preceding calendar periods.
 
 #### (c) Valuation of gifts
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to gifts made after Aug. 5, 1997, see section 506(e)(1) of Pub. L. 105–34,as amended, set out as a note under section 2001 of this title.
+Amendment by Pub. L. 105–34 applicable to gifts made after Aug. 5, 1997, see section 506(e)(1) of Pub. L. 105–34, as amended, set out as a note under section 2001 of this title.
 
 #### Effective Date of 1981 Amendment
 

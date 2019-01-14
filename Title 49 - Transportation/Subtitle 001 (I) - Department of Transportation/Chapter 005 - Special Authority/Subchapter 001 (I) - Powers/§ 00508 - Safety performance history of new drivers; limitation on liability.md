@@ -4,7 +4,7 @@
 
 Limitation on Liability.—No action or proceeding for defamation, invasion of privacy, or interference with a contract that is based on the furnishing or use of safety performance records in accordance with regulations issued by the Secretary may be brought against—
 
-&emsp;(1) a motor carrier requesting the safety performance records of an individual under consideration for employment as a commercialmotor vehicle driver as required by and in accordance with regulations issued by the Secretary;
+&emsp;(1) a motor carrier requesting the safety performance records of an individual under consideration for employment as a commercial motor vehicle driver as required by and in accordance with regulations issued by the Secretary;
 
 &emsp;(2) a person who has complied with such a request; or
 

@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;The Secretary is authorized to make grants to institutions of higher education, consortia of such institutions, or partnerships betweennonprofit educational organizations and institutions of higher education, to assist such institutions, consortia or partnerships in planning, developing, and carrying out programs to improve undergraduate instruction in international studies and foreign languages. Such grants shall be awarded to institutions, consortia or partnerships seeking to create new programs or to strengthen existing programs in foreign languages, area studies, and other international fields.
+&emsp;The Secretary is authorized to make grants to institutions of higher education, consortia of such institutions, or partnerships between nonprofit educational organizations and institutions of higher education, to assist such institutions, consortia or partnerships in planning, developing, and carrying out programs to improve undergraduate instruction in international studies and foreign languages. Such grants shall be awarded to institutions, consortia or partnerships seeking to create new programs or to strengthen existing programs in foreign languages, area studies, and other international fields.
 
 #### (2) Use of funds
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(A) may be provided in cash from the private sector corporations or foundations in an amount equal to one-third of the total cost of the programs assisted under this section; or
 
-&emsp;&emsp;(B) may be provided as an in-cash or in-kind contribution from institutional and noninstitutional funds, including State and private sector corporation or foundation contributions, equal to one-half of the total cost of the programs assisted under this section.
+&emsp;&emsp;(B) may be provided as an in-cash or in-kind contribution from institutional andnoninstitutional funds, including State and private sector corporation or foundation contributions, equal to one-half of the total cost of the programs assisted under this section.
 
 #### (4) Special rule
 

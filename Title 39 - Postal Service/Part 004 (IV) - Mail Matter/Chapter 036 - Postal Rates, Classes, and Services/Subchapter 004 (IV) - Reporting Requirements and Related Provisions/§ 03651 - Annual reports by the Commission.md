@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Postal Regulatory Commission shall submit an annual report to thePresident and the Congress concerning the operations of the Commission under this title, including the extent to which regulations are achieving the objectives under sections 3622 and 3633, respectively.
+In General.—The Postal Regulatory Commission shall submit an annual report to the President and the Congress concerning the operations of the Commission under this title, including the extent to which regulations are achieving the objectives under sections 3622 and 3633, respectively.
 
 (b)
 

@@ -28,13 +28,13 @@ Nothing in this section shall be construed to—
 
 #### (2) Rule of construction
 
-&emsp;Nothing in this chapter shall be construed to prohibit a State, local educational agency, or school from using funds provided under this chapter for the development or implementation of any instructional content, academic standards, academic assessments, curriculum, or program of instruction that a State, local educational agency, or school chooses, as permitted under State and local law, as long as the use of such funds is consistent with theterms of the grant, contract, or cooperative agreement providing such funds.
+&emsp;Nothing in this chapter shall be construed to prohibit a State, local educational agency, or school from using funds provided under this chapter for the development or implementation of any instructional content, academic standards, academic assessments, curriculum, or program of instruction that a State, local educational agency, or school chooses, as permitted under State and local law, as long as the use of such funds is consistent with the terms of the grant, contract, or cooperative agreement providing such funds.
 
 #### (3) Building standards
 
 &emsp;Nothing in this chapter shall be construed to mandate national school building standards for a State, local educational agency, or school.
 
-(Pub. L. 89–10, title VIII, §8527, formerly title IX, §9527, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1983; renumbered title VIII, §8527, and amended Pub. L. 114–95, title VIII, §§8001(a)(6), 8024, Dec. 10, 2015, 129 Stat. 2088, 2089, 2113.)
+(Pub. L. 89–10, title VIII, §8527, formerly title IX, §9527, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1983; renumbered title VIII, §8527, and amended Pub. L. 114–95, title VIII,§§8001(a)(6), 8024, Dec. 10, 2015, 129 Stat. 2088, 2089, 2113.)
 
 #### References in Text
 

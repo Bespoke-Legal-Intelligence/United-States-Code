@@ -16,7 +16,7 @@ If a protesting party believes that an application for further review was errone
 
 If a protest is timely and properly filed, but is denied contrary to proper instructions, the Customs Service may on its own initiative, or pursuant to a written request by the protesting party filed with the appropriate port director within 90 days after the date of the protest denial, void the denial of the protest.
 
-(June 17, 1930, ch. 497, title IV, §515, 46 Stat. 734; Pub. L. 91–271, title II, §208, June 2, 1970, 84 Stat. 285; Pub. L. 96–39, title X, §1001(b)(2), July 26, 1979, 93 Stat. 304; Pub. L. 96–417, title VI, §606, Oct. 10, 1980, 94 Stat. 1745; Pub. L. 103–182, title VI, §617, Dec. 8, 1993, 107 Stat. 2179; Pub. L. 104–295, §3(a)(11), Oct. 11, 1996, 110 Stat. 3516; Pub.L. 106–36, title II, §2407, June 25, 1999, 113 Stat. 171; Pub. L. 108–429, title II, §2104, Dec. 3, 2004, 118 Stat. 2598; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(June 17, 1930, ch. 497, title IV, §515, 46 Stat. 734; Pub. L. 91–271, title II, §208, June 2, 1970, 84 Stat. 285; Pub. L. 96–39, title X, §1001(b)(2), July 26, 1979, 93 Stat. 304; Pub. L. 96–417, title VI, §606, Oct. 10, 1980, 94 Stat. 1745; Pub. L. 103–182, title VI, §617, Dec. 8, 1993, 107 Stat. 2179; Pub. L. 104–295, §3(a)(11), Oct. 11, 1996, 110 Stat. 3516; Pub. L. 106–36, title II, §2407, June 25, 1999, 113 Stat. 171; Pub. L. 108–429, title II, §2104, Dec. 3, 2004, 118 Stat. 2598; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 #### Prior Provisions
 
@@ -36,7 +36,7 @@ Provisions for transmission of the invoice, papers, and exhibits to the board of
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–417 substituted reference to section "1581" for "1582" of title 28.
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–39 required that notice of denial include a statement of reasons for denial, as well as a statement informing protesting party of his right to file a civil action contesting denial of a protest under section 1514 of this title.
+<b>1979</b>—Subsec. (a). Pub. L. 96–39 required that notice of denial include a statement of reasons for denial, as well as a statement informing protesting party of his rightto file a civil action contesting denial of a protest under section 1514 of this title.
 
 <b>1970</b>—Pub. L. 91–271 designating existing provisions as subsec. (a), substituted provisions authorizing review by appropriate customs officer for provisions authorizing review by collector and revised such review procedures, and added subsec. (b).
 

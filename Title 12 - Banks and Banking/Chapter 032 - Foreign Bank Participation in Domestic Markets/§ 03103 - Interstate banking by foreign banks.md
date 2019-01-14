@@ -26,7 +26,7 @@
 
 #### (4) Operation
 
-&emsp;Subsections (c) and (d)(2) of section 1831u of this title shall apply with respect to each branch and agency of a foreign bank which is established and operated pursuant to an application approved under this subsection in the same manner and to the same extent such provisions of such section apply to a domestic branch of a national or State bank (as such terms are defined in section 1813 of this title) which resulted from a merger transaction under such section 1831u of this title.
+&emsp;Subsections (c) and (d)(2) of section 1831u of this title shall apply with respect to each branch and agency of a foreign bank which is established and operated pursuant to an application approved under this subsection in the same manner and to the same extent such provisions of such section apply to a domestic branch of a national or State bank (as suchterms are defined in section 1813 of this title) which resulted from a merger transaction under such section 1831u of this title.
 
 #### (5) Exclusive authority for additional branches
 
@@ -106,7 +106,7 @@ Section 25A of the Federal Reserve Act, referred to in subsec. (a)(7)(A)(ii), (8
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a)(7). Pub. L. 106–102 amended heading and text of par. (7) generally. Prior to amendment, text read as follows: "Notwithstanding paragraphs (1) and\(2), a foreign bank may, with the approval of the Board and the Comptroller of the Currency, establish and operate a Federal branch or Federal agency or, with the approval of the Board and the appropriate State bank supervisor, a State branch or State agency in any State outside the foreign bank's home State if—
+<b>1999</b>—Subsec. (a)(7). Pub. L. 106–102 amended heading and text of par. (7) generally. Prior to amendment, text read as follows: "Notwithstanding paragraphs (1) and (2), a foreign bank may, with the approval of the Board and the Comptroller of the Currency, establish and operate a Federal branch or Federal agency or, with the approval of the Board and the appropriate State bank supervisor, a State branch or State agency in any State outside the foreign bank's home State if—
 
 "(A) the establishment and operation of a branch or agency is expressly permitted by the State in which the branch or agency is to be established; and
 

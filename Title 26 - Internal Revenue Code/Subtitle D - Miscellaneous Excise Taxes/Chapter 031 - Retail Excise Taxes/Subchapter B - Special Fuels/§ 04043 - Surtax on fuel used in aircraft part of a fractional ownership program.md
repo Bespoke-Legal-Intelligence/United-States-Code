@@ -84,9 +84,13 @@ For purposes of this section—
 
 #### (d) Termination
 
-This section shall not apply to liquids used as a fuel in an aircraft after September 30, 2021.
+This section shall not apply to liquids used as a fuel in an aircraft after September 30, 2023.
 
-(Added Pub. L. 112–95, title XI, §1103(a)(1), Feb. 14, 2012, 126 Stat. 149.)
+(Added Pub. L. 112–95, title XI, §1103(a)(1), Feb. 14, 2012, 126 Stat. 149; amended Pub. L. 115–254, div. B, title VIII, §802(c)(1), Oct. 5, 2018, 132 Stat. 3429.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–254 substituted "September 30, 2023" for "September 30, 2021".
 
 #### Effective Date
 

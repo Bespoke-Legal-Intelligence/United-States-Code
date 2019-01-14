@@ -30,7 +30,7 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this title", meaning title XVIII of Pub. L. 110–53, which enacted this chapter, amended section 3021 ofthis title and sections 5952 and 5963 of Title 22, Foreign Relations and Intercourse, and amended provisions set out as notes under sections 2551 and 5952 of Title 22. For complete classification of title XVIII to the Code, see Tables.
+This chapter, referred to in text, was in the original "this title", meaning title XVIII of Pub. L. 110–53, which enacted this chapter, amended section 3021 of this title and sections 5952 and 5963 of Title 22, Foreign Relations and Intercourse, and amended provisions set out as notes under sections 2551 and 5952 of Title 22. For complete classification of title XVIII to the Code, see Tables.
 
 Section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997, referred to in par. (1)(A), is section 1501(b) of Pub. L. 104–201, which was set out in a note under section 2362 of this title, prior to repeal by Pub. L. 113–291, div. A, title XIII, §1351(5), Dec. 19, 2014, 128 Stat. 3607.
 

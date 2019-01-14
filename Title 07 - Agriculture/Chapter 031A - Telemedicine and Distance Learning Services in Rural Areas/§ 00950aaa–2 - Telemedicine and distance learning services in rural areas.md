@@ -108,7 +108,7 @@ Notwithstanding subsection (f), financial assistance provided under this chapter
 
 #### (1) In general
 
-&emsp;The Secretary may establish and carry out procedures to ensure that expedited consideration and determination is given to applications for loans and advances of funds submitted by local exchange carriers under this chapter and the Rural Electrification Act of 1936 (7U.S.C. 901 et seq.) to enable the exchange carriers to provide advanced telecommunications services in rural areas in conjunction with any other projects carried out under this chapter.
+&emsp;The Secretary may establish and carry out procedures to ensure that expedited consideration and determination is given to applications for loans and advances of funds submitted by local exchange carriers under this chapter and the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.) to enable the exchange carriers to provide advanced telecommunicationsservices in rural areas in conjunction with any other projects carried out under this chapter.
 
 #### (2) Deadline imposed on Secretary
 

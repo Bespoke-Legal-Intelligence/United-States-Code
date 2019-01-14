@@ -12,7 +12,7 @@ If—
 
 #### (b) Limitation on tax applicable to individuals
 
-In the case of an individual, if the stock sold or exchanged is a capital asset (within the meaning of section 1221) and has been held for more than 1 year, the tax attributable to anamount included in gross income as a dividend under subsection (a) shall not be greater than a tax equal to the sum of—
+In the case of an individual, if the stock sold or exchanged is a capital asset (within the meaning of section 1221) and has been held for more than 1 year, the tax attributable to an amount included in gross income as a dividend under subsection (a) shall not be greater than a tax equal to the sum of—
 
 &emsp;(1) a pro rata share of the excess of—
 
@@ -68,11 +68,11 @@ For purposes of this section, the following amounts shall be excluded, with resp
 
 &emsp;&emsp;(B) for any taxable year beginning after December 31, 1966, as income effectively connected with the conduct by such corporation of a trade or business within the United States.
 
-> &emsp;This paragraph shall not apply with respect to any item which is exempt from taxation (or issubject to a reduced rate of tax) pursuant to a treaty obligation of the United States.
+> &emsp;This paragraph shall not apply with respect to any item which is exempt from taxation (or is subject to a reduced rate of tax) pursuant to a treaty obligation of the United States.
 
 #### (5) Foreign trade income
 
-&emsp;Earnings and profits of the foreign corporation attributable to foreign trade income of a FSC (as defined in section 922) other than foreign trade income which—
+&emsp;Earnings and profits of the foreign corporation attributable to foreign trade income of aFSC (as defined in section 922) other than foreign trade income which—
 
 &emsp;&emsp;(A) is section 923(a)(2) non-exempt income (within the meaning of section 927(d)(6)), or
 
@@ -152,7 +152,7 @@ Unless the taxpayer establishes the amount of the earnings and profits of the fo
 
 #### (2) 10-percent corporate shareholder defined
 
-&emsp;For purposes of this subsection, the term "10-percent corporate shareholder" means any domestic corporation which, as of the day before the exchange referred to in paragraph (1), satisfies the stock ownership requirements of subsection (a)(2) with respect to the foreign corporation.
+&emsp;For purposes of this subsection, the term "10-percent corporate shareholder" means anydomestic corporation which, as of the day before the exchange referred to in paragraph (1), satisfies the stock ownership requirements of subsection (a)(2) with respect to the foreign corporation.
 
 #### (j) Coordination with dividends received deduction
 
@@ -282,7 +282,7 @@ Amendment by section 631(d)(2) of Pub. L. 99–514 applicable to any distributio
 
 Pub. L. 99–514, title XVIII, §1875(g)(2), Oct. 22, 1986, 100 Stat. 2897, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to exchanges after March 1, 1986."
 
-Amendment by sections 1810(i)(1) and 1876(a)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by sections 1810(i)(1) and 1876(a)(2) of Pub. L. 99–514 effective, except as otherwise provided,as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

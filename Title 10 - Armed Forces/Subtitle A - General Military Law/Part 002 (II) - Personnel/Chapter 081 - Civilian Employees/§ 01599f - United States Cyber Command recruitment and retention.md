@@ -40,7 +40,7 @@ Additional Compensation, Incentives, and Allowances.—(1) The Secretary may pro
 
 (d)
 
-Implementation Plan Required.—The authority granted in subsection (a) shall become effective 30 days after the date on which the Secretary of Defense provides to the congressional defense committees a plan for implementation of such authority. The plan shall include the following:
+Implementation Plan Required.—The authority granted in subsection (a) shall become effective 30 days after the date on which theSecretary of Defense provides to the congressional defense committees a plan for implementation of such authority. The plan shall include the following:
 
 &emsp;(1) An assessment of the current scope of the positions covered by the authority.
 

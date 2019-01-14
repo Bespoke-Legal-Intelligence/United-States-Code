@@ -40,7 +40,7 @@ Contract Authority Limitation.—Authority under this section to enter into cont
 
 Definition.—In this section, the term "AWACS memorandum of understanding" means—
 
-&emsp;(1) the Multilateral Memorandum of Understanding Between the North Atlantic Treaty Organization (NATO) Ministers of Defence on the NATO E–3A Cooperative Programme, signed by the Secretary of Defense on December 6, 1978;
+&emsp;(1) the Multilateral Memorandum of Understanding Between the North Atlantic TreatyOrganization (NATO) Ministers of Defence on the NATO E–3A Cooperative Programme, signed by the Secretary of Defense on December 6, 1978;
 
 &emsp;(2) the Memorandum of Understanding for Operations and Support of the NATO Airborne Early Warning and Control Force, signed by the United States Ambassador to NATO on September 26, 1984;
 

@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(H) provide such additional assurances as the Secretary determines necessary to ensure compliance with the requirements of this division;
 
-&emsp;&emsp;(I) provide information about the activities that will be carried out by the eligibleentity to support systemic changes from which future cohorts of students will benefit; and
+&emsp;&emsp;(I) provide information about the activities that will be carried out by the eligible entity to support systemic changes from which future cohorts of students will benefit; and
 
 &emsp;&emsp;(J) describe the sources of matching funds that will enable the eligible entity to meet the matching requirement described in subsection (b).
 
@@ -90,7 +90,7 @@ A prior section 1070a–23, Pub. L. 89–329, title IV, §404C, as added Pub. L.
 
 Subsec. (a). Pub. L. 110–315, §404(c)(2)(A), substituted "Application" for "Plan" in heading.
 
-Subsec. (a)(1). Pub. L. 110–315, §404(c)(2)(B), substituted "an application" for "a plan" and struck out at end "Such plan shall provide for the conduct of a scholarship component if required or undertaken pursuant to section 1070a–25 of this title and an early intervention component required pursuant to section 1070a–24 of this title."
+Subsec. (a)(1). Pub. L. 110–315, §404(c)(2)(B), substituted "an application" for "a plan" and struck outat end "Such plan shall provide for the conduct of a scholarship component if required or undertaken pursuant to section 1070a–25 of this title and an early intervention component required pursuant to section 1070a–24 of this title."
 
 Subsec. (a)(2). Pub. L. 110–315, §404(c)(2)(C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Each plan submitted pursuant to paragraph (1) shall be in such form, contain or be accompanied by such information or assurances, and be submitted at such time as the Secretary may require by regulation. Each such plan shall—
 

@@ -126,7 +126,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 <b>1999</b>—Subsec. (d)(4). Pub. L. 106–170 inserted at end "A payment shall be treated as directly secured by an interest in an installment obligation to the extent an arrangement allows the taxpayer to satisfy all or a portion of the indebtedness with the installment obligation."
 
-<b>1993</b>—Subsec. (c)(3). Pub. L. 103–66 inserted at end "For purposes of applying the preceding sentence with respect to so much of the gain which, when recognized, will be treated as long-term capital gain, the maximum rate on net capital gain under section 1(h) or 1201 (whichever is appropriate) shall be taken into account."
+<b>1993</b>—Subsec. (c)(3). Pub. L. 103–66 inserted at end "For purposes of applying the preceding sentence with respect to so much of the gain which, when recognized, will be treated as long-term capital gain, the maximum rate on net capital gain under section 1(h) or 1201\(whichever is appropriate) shall be taken into account."
 
 <b>1989</b>—Subsec. (b)(2)(B). Pub. L. 101–239, §7821(a)(1), substituted "such obligations held by the taxpayer" for "obligations of the taxpayer described in paragraph (1)".
 

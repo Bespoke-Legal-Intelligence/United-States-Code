@@ -88,7 +88,7 @@ Upon completion and publication of the report described in subsection (c), the S
 
 &emsp;&emsp;&emsp;(iii) express student results or student competencies in terms consistent with the State's aligned academic achievement standards under section 6311(b)(1) of this title;
 
-&emsp;&emsp;&emsp;(iv) generate results that are valid and reliable, and comparable, for all students and for each subgroup of students described in section 6311(b)(2)(B)(xi) of this title, as compared to the results for such students on the State assessments under section 6311(b)(2) of this title;
+&emsp;&emsp;&emsp;(iv) generate results that are valid and reliable, and comparable, for all studentsand for each subgroup of students described in section 6311(b)(2)(B)(xi) of this title, as compared to the results for such students on the State assessments under section 6311(b)(2) of this title;
 
 &emsp;&emsp;&emsp;(v) be developed in collaboration with—
 
@@ -260,7 +260,7 @@ The Secretary shall withdraw the authorization for demonstration authority provi
 
 &emsp;&emsp;(A) the State has met all of the requirements of this section, except transition to full statewide use of the innovative assessment system; and
 
-&emsp;&emsp;(B) the State continues to comply with the other requirements of this section, and demonstrates a high-quality plan for transitionto statewide use of the innovative assessment system in a reasonable period of time.
+&emsp;&emsp;(B) the State continues to comply with the other requirements of this section, and demonstrates a high-quality plan for transition to statewide use of the innovative assessment system in a reasonable period of time.
 
 #### (k) Available funds
 
@@ -268,7 +268,7 @@ A State may use funds available under section 6361 of this title to carry out th
 
 #### (l) Consortium
 
-A consortium of States may apply to participate in the program of demonstration authority under this section, and the Secretary may provide each State member of such consortium with such authority if each such State member meets all of the requirements of this section. Such consortium shall be subject to the limitation described in subsection (b)(3)(B) during the initial 3 years of the demonstration authority.
+A consortium of States may apply to participate in the program of demonstration authority under this section, and the Secretary may provide each State member of such consortium with such authority if each such State member meets all of the requirements of this section.Such consortium shall be subject to the limitation described in subsection (b)(3)(B) during the initial 3 years of the demonstration authority.
 
 #### (m) Dissemination of best practices
 
@@ -328,7 +328,7 @@ Section 6369, Pub. L. 89–10, title I, §1209, as added Pub. L. 103–382, titl
 
 Section 6369a, Pub. L. 89–10, title I, §1210, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409, related to indicators of Even Start program quality.
 
-Section 6369b, Pub. L. 89–10, title I, §1211, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §205\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410; amended Pub. L.106–554, §1(a)(4) \[div. B, title XVI, §1604(m)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–333, authorized research.
+Section 6369b, Pub. L. 89–10, title I, §1211, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §205\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(m)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–333, authorized research.
 
 Section 6370, Pub. L. 89–10, title I, §1212, formerly §1210, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3584; renumbered §1212, Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409, related to construction of provisions.
 

@@ -8,7 +8,7 @@ The Secretary shall establish within the Department of Agriculture a board to be
 
 #### (1) In general
 
-&emsp;The Advisory Board shall consist of 25 members, appointed by the Secretary.
+&emsp;The Advisory Board shall consist of 15 members, appointed by the Secretary.
 
 #### (2) Selection of members
 
@@ -18,55 +18,61 @@ The Secretary shall establish within the Department of Agriculture a board to be
 
 &emsp;The Advisory Board shall consist of members from each of the following categories:
 
-&emsp;&emsp;(A) 1 member representing a national farm organization.
+&emsp;&emsp;(A) 3 members representing national farm or producer organizations, which may include members—
 
-&emsp;&emsp;(B) 1 member representing farm cooperatives.
+&emsp;&emsp;&emsp;(i) representing farm cooperatives;
 
-&emsp;&emsp;(C) 1 member actively engaged in the production of a food animal commodity, recommended by a coalition of national livestock organizations.
+&emsp;&emsp;&emsp;(ii) who are producers actively engaged in the production of a food animal commodity and who are recommended by a coalition of national livestock organizations;
 
-&emsp;&emsp;(D) 1 member actively engaged in the production of a plant commodity, recommended by a coalition of national crop organizations.
+&emsp;&emsp;&emsp;(iii) who are producers actively engaged in the production of a plant commodity and who are recommended by a coalition of national crop organizations; or
 
-&emsp;&emsp;(E) 1 member actively engaged in aquaculture, recommended by a coalition of national aquacultural organizations.
+&emsp;&emsp;&emsp;(iv) who are producers actively engaged in aquaculture and who are recommended by a coalition of national aquacultural organizations.
 
-&emsp;&emsp;(F) 1 member representing a national food animal science society.
+&emsp;&emsp;(B) 2 members representing academic or research societies, which may include members representing—
 
-&emsp;&emsp;(G) 1 member representing a national crop, soil, agronomy, horticulture, plant pathology, or weed science society.
+&emsp;&emsp;&emsp;(i) a national food animal science society;
 
-&emsp;&emsp;(H) 1 member representing a national food science organization.
+&emsp;&emsp;&emsp;(ii) a national crop, soil, agronomy, horticulture, plant pathology, or weed science society;
 
-&emsp;&emsp;(I) 1 member representing a national human health association.
+&emsp;&emsp;&emsp;(iii) a national food science organization;
 
-&emsp;&emsp;(J) 1 member representing a national nutritional science society.
+&emsp;&emsp;&emsp;(iv) a national human health association; or
 
-&emsp;&emsp;(K) 1 member representing the land-grant colleges and universities eligible to receive funds under the Act of July 2, 1862 (7 U.S.C. 301 et seq.).
+&emsp;&emsp;&emsp;(v) a national nutritional science society.
 
-&emsp;&emsp;(L) 1 member representing the land-grant colleges and universities eligible to receive funds under the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee University.
+&emsp;&emsp;(C) 5 members representing agricultural research, extension, and education, which shall include each of the following:
 
-&emsp;&emsp;(M) 1 member representing the 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382)).
+&emsp;&emsp;&emsp;(i) 1 member representing the land-grant colleges and universities eligible to receive funds under the Act of July 2, 1862 (7 U.S.C. 301 et seq.).
 
-&emsp;&emsp;(N) 1 member representing NLGCA Institutions.
+&emsp;&emsp;&emsp;(ii) 1 member representing the land-grant colleges and universities eligible to receive funds under the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee University.
 
-&emsp;&emsp;(O) 1 member representing Hispanic-serving institutions.
+&emsp;&emsp;&emsp;(iii) 1 member representing the 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382)).
 
-&emsp;&emsp;(P) 1 member representing the American Colleges of Veterinary Medicine.
+&emsp;&emsp;&emsp;(iv) 1 member representing NLGCA Institutions or Hispanic-serving institutions.
 
-&emsp;&emsp;(Q) 1 member engaged in the transportation of food and agricultural products to domestic and foreign markets.
+&emsp;&emsp;&emsp;(v) 1 member representing American colleges of veterinary medicine.
 
-&emsp;&emsp;(R) 1 member representing food retailing and marketing interests.
+&emsp;&emsp;(D) 5 members representing industry, consumer, or rural interests, including members representing—
 
-&emsp;&emsp;(S) 1 member representing food and fiber processors.
+&emsp;&emsp;&emsp;(i) entities engaged in transportation of food and agricultural products to domestic and foreign markets;
 
-&emsp;&emsp;(T) 1 member actively engaged in rural economic development.
+&emsp;&emsp;&emsp;(ii) food retailing and marketing interests;
 
-&emsp;&emsp;(U) 1 member representing a national consumer interest group.
+&emsp;&emsp;&emsp;(iii) food and fiber processors;
 
-&emsp;&emsp;(V) 1 member representing a national forestry group.
+&emsp;&emsp;&emsp;(iv) rural economic development interests;
 
-&emsp;&emsp;(W) 1 member representing a national conservation or natural resource group.
+&emsp;&emsp;&emsp;(v) a national consumer interest group;
 
-&emsp;&emsp;(X) 1 member representing private sector organizations involved in international development.
+&emsp;&emsp;&emsp;(vi) a national forestry group;
 
-&emsp;&emsp;(Y) 1 member representing a national social science association.
+&emsp;&emsp;&emsp;(vii) a national conservation or natural resource group;
+
+&emsp;&emsp;&emsp;(viii) a national social science association;
+
+&emsp;&emsp;&emsp;(ix) private sector organizations involved in international development; or
+
+&emsp;&emsp;&emsp;(x) a national association of agricultural economists.
 
 #### (4) Ex officio members
 
@@ -88,21 +94,21 @@ The Secretary shall establish within the Department of Agriculture a board to be
 
 The Advisory Board shall—
 
-&emsp;(1) review and provide consultation to the Secretary, land-grant colleges and universities, and the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Subcommittee on Agriculture, Rural Development, Food and Drug Administration and Related Agencies of the Committee on Appropriations of the House of Representatives, and the Subcommittee on Agriculture, Rural Development and Related Agencies of the Committee on Appropriations of the Senate on—
+&emsp;(1) make recommendations, review, and provide consultation to the Secretary, land-grant colleges and universities, and the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Subcommittee on Agriculture, Rural Development, Food and Drug Administration and Related Agencies of the Committee on Appropriations of the House of Representatives, and the Subcommittee on Agriculture, Rural Development and Related Agencies of the Committee on Appropriations of the Senate on—
 
-&emsp;&emsp;(A) long-term and short-term national policies and priorities consistent with the purposes specified in section 3101 of this title for agricultural research, extension, education, and economics; and
+&emsp;&emsp;(A) long-term and short-term national policies and priorities consistent with the—
 
-&emsp;&emsp;(B) the annual establishment of priorities that—
+&emsp;&emsp;&emsp;(i) purposes specified in section 3101 of this title for agricultural research, extension, education, and economics; and
 
-&emsp;&emsp;&emsp;(i) are in accordance with the purposes specified in a provision of a covered law (as defined in subsection (d) of section 3371 of this title) under which competitive grants (described in subsection (c) of such section) are awarded; and
+&emsp;&emsp;&emsp;(ii) priority areas of the Agriculture and Food Research Initiative specified in subsection (b)(2) of section 3157 of this title;
 
-&emsp;&emsp;&emsp;(ii) the Board determines are national priorities.
+&emsp;&emsp;(B) the annual establishment of national priorities that are in accordance with the priority areas of the Agriculture and Food Research Initiative specified in subsection (b)(2) of section 3157 of this title.
 
-&emsp;(2) evaluate the results and effectiveness of agricultural research, extension, education, and economics with respect to the policies and priorities;
+&emsp;(2) evaluate the results and effectiveness of agricultural research, extension, education, and economics with respect to the policies and priorities and make recommendations to the Secretary based on such evaluation;
 
 &emsp;(3) review and make recommendations to the Under Secretary of Agriculture for Research, Education, and Economics on the research, extension, education, and economics portion of the draft strategic plan required under section 306 of title 5;
 
-&emsp;(4) review the mechanisms of the Department of Agriculture for technology assessment (which should be conducted by qualified professionals) for the purposes of—
+&emsp;(4) review and make recommendations on the mechanisms of the Department of Agriculture for technology assessment (which should be conducted by qualified professionals) for the purposes of—
 
 &emsp;&emsp;(A) performance measurement and evaluation of the implementation by the Secretary of the strategic plan required under section 306 of title 5;
 
@@ -146,15 +152,15 @@ The Advisory Board shall be deemed to have filed a charter for the purpose of se
 
 #### (h) Termination
 
-The Advisory Board shall remain in existence until September 30, 2018.
+The Advisory Board shall remain in existence until September 30, 2023.
 
-(Pub. L. 95–113, title XIV, §1408, Sept. 29, 1977, 91 Stat. 988; Pub. L. 97–98, title XIV, §1408, Dec. 22, 1981, 95 Stat. 1300; Pub. L. 99–198, title XIV, §1406, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, §1604(b), Nov. 28, 1990, 104 Stat. 3709; Pub. L. 102–237, title IV, §402(2), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–66, title I, §§1011(t), 1012(f), Dec. 21, 1995, 109 Stat. 710, 712; Pub. L. 104–127, title VIII, §802(a), Apr. 4, 1996, 110 Stat. 1156; Pub. L. 105–185, title II, §222, June 23, 1998, 112 Stat. 538; Pub. L. 107–171, title VII, §§7133, 7209(a), May 13, 2002, 116 Stat. 435, 444; Pub. L. 110–234, title VII, §§7102(a), 7511(c)(8), May 22, 2008, 122 Stat. 1214, 1268; Pub. L. 110–246, §4(a), title VII, §§7102(a), 7511(c)(8), June 18, 2008, 122 Stat. 1664, 1975, 2029; Pub. L. 113–79, title VII, §7102, Feb. 7, 2014, 128 Stat. 863.)
+(Pub. L. 95–113, title XIV, §1408, Sept. 29, 1977, 91 Stat. 988; Pub. L. 97–98, title XIV, §1408, Dec. 22, 1981, 95 Stat. 1300; Pub. L. 99–198, title XIV, §1406, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, §1604(b), Nov. 28, 1990, 104 Stat. 3709; Pub. L. 102–237, title IV, §402(2), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–66, title I, §§1011(t), 1012(f), Dec. 21, 1995, 109 Stat. 710, 712; Pub. L. 104–127, title VIII, §802(a), Apr. 4, 1996, 110 Stat. 1156; Pub. L. 105–185, title II, §222, June 23, 1998, 112 Stat. 538; Pub. L. 107–171, title VII, §§7133, 7209(a), May 13, 2002, 116 Stat. 435, 444; Pub. L. 110–234, title VII, §§7102(a), 7511(c)(8), May 22, 2008, 122 Stat. 1214, 1268; Pub. L. 110–246, §4(a), title VII, §§7102(a), 7511(c)(8), June 18, 2008, 122 Stat. 1664, 1975, 2029; Pub. L. 113–79, title VII, §7102, Feb. 7, 2014, 128 Stat. 863; Pub. L. 115–334, title VII, §7103, Dec. 20, 2018, 132 Stat. 4781.)
 
 #### References in Text
 
-Act of July 2, 1862, referred to in subsec. (b)(3)(K), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (b)(3)(C)(i), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, referred to in subsec. (b)(3)(L), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (b)(3)(C)(ii), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 For definition of "this chapter", referred to in subsec. (d)(2), see note set out under section 3102 of this title.
 
@@ -167,6 +173,26 @@ The authorities provided by each provision of, and each amendment made by, Pub. 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–334, §7103(1)(A), substituted "15" for "25".
+
+Subsec. (b)(3). Pub. L. 115–334, §7103(1)(B), amended par. (3) generally. Prior to amendment, par. (3) provided 25 membership categories of the Advisory Board.
+
+Subsec. (c)(1). Pub. L. 115–334, §7103(2)(A)(i), substituted "make recommendations, review, and" for "review and" in introductory provisions.
+
+Subsec. (c)(1)(A). Pub. L. 115–334, §7103(2)(A)(ii), added subpar. (A) and struck out former subpar. (A) which read as follows: "long-term and short-term national policies and priorities consistent with the purposes specified in section 3101 of this title for agricultural research, extension, education, and economics; and".
+
+Subsec. (c)(1)(B). Pub. L. 115–334, §7103(2)(A)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the annual establishment of priorities that—
+
+&emsp;"(i) are in accordance with the purposes specified in a provision of a covered law (as defined in subsection (d) of section 3371 of this title) under which competitive grants (described in subsection (c) of such section) are awarded; and
+
+&emsp;"(ii) the Board determines are national priorities."
+
+Subsec. (c)(2). Pub. L. 115–334, §7103(2)(B), inserted "and make recommendations to the Secretary based on such evaluation" after "priorities".
+
+Subsec. (c)(4). Pub. L. 115–334, §7103(2)(C), inserted "and make recommendations on" after "review" in introductory provisions.
+
+Subsec. (h). Pub. L. 115–334, §7103(3), substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (c)(1). Pub. L. 113–79, §7102(b)(1), substituted "Committee on Appropriations of the Senate on—" for "Committee on Appropriations of the Senate on long-term and short-term national policies and priorities, as set forth in section 3101 of this title, relating to agricultural research, extension, education, and economics;" and added subpars. (A) and (B).
 
@@ -232,7 +258,7 @@ Subcommittee on Agriculture, Rural Development, and Related Agencies of the Comm
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set outas an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by section 7511(c)(8) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 

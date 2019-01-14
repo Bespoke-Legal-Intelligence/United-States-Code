@@ -22,7 +22,7 @@ The Indian tribe shall assume responsibility for the successful completion of th
 
 #### (e) Funding
 
-Funding for construction projects carried out under this subchapter shall be included in funding agreements as annual advance payments, with semiannual payments at the option of the Indian tribe. Annual advance and semiannual payment amounts shall be determined based onmutually agreeable project schedules reflecting work to be accomplished within the advance payment period, work accomplished and funds expended in previous payment periods, and the total prior payments. The Secretary shall include associated project contingency funds with each advance payment installment. The Indian tribe shall be responsible for the management of the contingency funds included in funding agreements.
+Funding for construction projects carried out under this subchapter shall be included in funding agreements as annual advance payments, with semiannual payments at the option of the Indian tribe. Annual advance and semiannual payment amounts shall be determined based on mutually agreeable project schedules reflecting work to be accomplished within the advance payment period, work accomplished and funds expended in previous payment periods, and the total prior payments. The Secretary shall include associated project contingency funds with each advance payment installment. The Indian tribe shall be responsible for the management of the contingency funds included in funding agreements.
 
 #### (f) Approval
 
@@ -30,7 +30,7 @@ The Secretary shall have at least one opportunity to approve project planning an
 
 #### (g) Wages
 
-All laborers and mechanics employed by contractors and subcontractors (excluding tribes and tribal organizations) in the construction, alteration, or repair, including painting or decorating of a building or other facilities in connection with construction projects funded by the United States under this chapter shall be paid wages at not less than those prevailing wages on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. With respect to construction alteration, or repair work to which sections 3141–3144, 3146, and 3147 of title 40 are applicable under this section, the Secretary of Labor shall have the authority and functions set forth in the Reorganization Plan numbered 14, of 1950, and section 3145 of title 40.
+All laborers and mechanics employed by contractors and subcontractors (excluding tribes and tribal organizations) in the construction, alteration, or repair, including painting or decorating of a building or other facilities in connection with construction projects funded by the United States under this chapter shall be paid wages at not less than those prevailing wages on similar construction in the locality as determined by the Secretary of Labor in accordancewith sections 3141–3144, 3146, and 3147 of title 40. With respect to construction alteration, or repair work to which sections 3141–3144, 3146, and 3147 of title 40 are applicable under this section, the Secretary of Labor shall have the authority and functions set forth in the Reorganization Plan numbered 14, of 1950, and section 3145 of title 40.
 
 #### (h) Application of other laws
 

@@ -52,7 +52,7 @@
 
 &emsp;(4) the Government Accountability Office.
 
-(g) If an agency's programs or activities have not met performance goals as determined by the Office of Management and Budget for 1 fiscal year, the head of the agency shall submit a performance improvement plan to the Office of Management and Budget to increase program effectiveness for each unmet goal with measurable milestones. The agency shall designate a senior official who shall oversee the performance improvement strategies for each unmet goal.
+(g) If an agency's programs or activities have not met performance goals as determined by theOffice of Management and Budget for 1 fiscal year, the head of the agency shall submit a performance improvement plan to the Office of Management and Budget to increase program effectiveness for each unmet goal with measurable milestones. The agency shall designate a senior official who shall oversee the performance improvement strategies for each unmet goal.
 
 (h)(1) If the Office of Management and Budget determines that agency programs or activities have unmet performance goals for 2 consecutive fiscal years, the head of the agency shall—
 
@@ -86,7 +86,7 @@ In general.—Each report submitted annually by the Merit Systems Protection Boa
 
 &emsp;"(A) Information relating to the outcome of cases decided by the Merit Systems Protection Board during the period covered by such report in which violations of section 2302(b)(8) or (9)(A)(i), (B)(i), (C), or (D) of title 5, United States Code, were alleged.
 
-&emsp;"(B) The number of such cases filed in the regional and field offices, and the number of petitions for review filed in such cases, during the period covered bysuch report, and the outcomes of any such cases or petitions for review (irrespective of when filed) decided during such period.
+&emsp;"(B) The number of such cases filed in the regional and field offices, and the number of petitions for review filed in such cases, during the period covered by such report, and the outcomes of any such cases or petitions for review (irrespective of when filed) decided during such period.
 
 "(2)
 

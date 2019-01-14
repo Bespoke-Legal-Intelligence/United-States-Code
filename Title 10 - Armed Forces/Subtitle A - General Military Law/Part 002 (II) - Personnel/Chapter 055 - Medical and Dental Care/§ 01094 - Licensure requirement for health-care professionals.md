@@ -68,7 +68,7 @@ Subsec. (d)(2). Pub. L. 101–189, §1622(e)(3)(B), substituted "The term 'healt
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title VII, §734(c)(1), Oct. 17, 1998, 112 Stat. 2073, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1999."
+Pub. L. 105–261, div. A, title VII, §734(c)(1), Oct. 17, 1998, 112 Stat. 2073, provided that: "The amendmentmade by subsection (a) \[amending this section\] shall take effect on October 1, 1999."
 
 #### Effective Date
 

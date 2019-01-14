@@ -8,7 +8,7 @@ In this chapter:
 
 &emsp;&emsp;(A) the recipient expressly consented to receive the message, either in response to a clear and conspicuous request for such consent or at the recipient's own initiative; and
 
-&emsp;&emsp;(B) if the message is from a party other than the party to which the recipient communicated such consent, the recipient wasgiven clear and conspicuous notice at the time the consent was communicated that the recipient's electronic mail address could be transferred to such other party for the purpose of initiating commercial electronic mail messages.
+&emsp;&emsp;(B) if the message is from a party other than the party to which the recipient communicated such consent, the recipient was given clear and conspicuous notice at the time the consent was communicated that the recipient's electronic mail address could be transferred to such other party for the purpose of initiating commercial electronic mail messages.
 
 #### (2) Commercial electronic mail message
 
@@ -84,7 +84,7 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term "sender", when used with respect to a commercial electronic mail message, means a person who initiates such a message and whose product, service, or Internet website is advertised or promoted by the message.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "sender", when used with respect to a commercial electronic mail message, means a person who initiates such a message and whose product, service, or Internet web site is advertised or promoted by the message.
 
 #### (B) Separate lines of business or divisions
 

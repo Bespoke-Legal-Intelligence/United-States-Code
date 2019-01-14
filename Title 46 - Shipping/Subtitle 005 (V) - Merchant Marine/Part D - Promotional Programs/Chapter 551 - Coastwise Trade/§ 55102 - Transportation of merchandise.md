@@ -10,7 +10,7 @@ Definition.—In this section, the term "merchandise" includes—
 
 (b)
 
-Requirements.—Except as otherwise provided in this chapter or chapter 121 of this title, a vessel may not provide any part of the transportation of merchandise by water, or by land and water, between points in the United Statesto which the coastwise laws apply, either directly or via a foreign port, unless the vessel—
+Requirements.—Except as otherwise provided in this chapter or chapter 121 of this title, a vessel may not provide any part of the transportation of merchandise by water, or by land and water, between points in the United States to which the coastwise laws apply, either directly or via a foreign port, unless the vessel—
 
 &emsp;(1) is wholly owned by citizens of the United States for purposes of engaging in the coastwise trade; and
 

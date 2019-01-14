@@ -48,5 +48,5 @@ In this section:
 
 #### Codification
 
-Section was enacted as part of the Better Buildings Act of 2015, and also as part of the Energy Efficiency Improvement Act of 2015, and not as part of the EnergyIndependence and Security Act of 2007 which comprises this chapter.
+Section was enacted as part of the Better Buildings Act of 2015, and also as part of the Energy Efficiency Improvement Act of 2015, and not as part of the Energy Independence and Security Act of 2007 which comprises this chapter.
 

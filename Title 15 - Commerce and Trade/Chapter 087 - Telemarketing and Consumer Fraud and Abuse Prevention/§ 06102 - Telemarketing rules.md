@@ -4,7 +4,7 @@
 
 (1) The Commission shall prescribe rules prohibiting deceptive telemarketing acts or practices and other abusive telemarketing acts or practices.
 
-(2) The Commission shall include in such rules respecting deceptive telemarketing acts or practices a definition of deceptive telemarketing acts or practices which shall include fraudulent charitable solicitations, and which may include acts or practices of entities or individuals thatassist or facilitate deceptive telemarketing, including credit card laundering.
+(2) The Commission shall include in such rules respecting deceptive telemarketing acts or practices a definition of deceptive telemarketing acts or practices which shall include fraudulent charitable solicitations, and which may include acts or practices of entities or individuals that assist or facilitate deceptive telemarketing, including credit card laundering.
 
 (3) The Commission shall include in such rules respecting other abusive telemarketing acts or practices—
 
@@ -46,7 +46,7 @@ Any violation of any rule prescribed under subsection (a)—
 
 &emsp;&emsp;&emsp;(ii) such a rule promulgated by the Securities and Exchange Commission is not necessary or appropriate in the public interest, or for the protection of investors, or would be inconsistent with the maintenance of fair and orderly markets.
 
-> &emsp;&emsp;If the Securities and Exchange Commission determines that an exception described in clause (i) or (ii) applies, the Securities and Exchange Commission shall publish in the Federal Register its determination with the reasons for it.
+> &emsp;&emsp;If the Securities and Exchange Commission determines that an exception described inclause (i) or (ii) applies, the Securities and Exchange Commission shall publish in the Federal Register its determination with the reasons for it.
 
 #### (2) Application
 

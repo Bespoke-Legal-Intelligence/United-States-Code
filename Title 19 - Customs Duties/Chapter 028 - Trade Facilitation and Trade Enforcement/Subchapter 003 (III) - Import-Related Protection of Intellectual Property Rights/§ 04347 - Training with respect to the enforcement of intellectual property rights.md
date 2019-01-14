@@ -12,7 +12,7 @@ The Commissioner shall consult with private sector entities to better identify o
 
 In consultation with private sector entities, the Commissioner shall identify—
 
-&emsp;(1) technologies with the cost-effective capability to detect and identify merchandise at United States ports of entry that infringes intellectual property rights; and
+&emsp;(1) technologies with the cost-effective capability to detect and identify merchandise atUnited States ports of entry that infringes intellectual property rights; and
 
 &emsp;(2) cost-effective programs for training officers of U.S. Customs and Border Protection to use such technologies.
 

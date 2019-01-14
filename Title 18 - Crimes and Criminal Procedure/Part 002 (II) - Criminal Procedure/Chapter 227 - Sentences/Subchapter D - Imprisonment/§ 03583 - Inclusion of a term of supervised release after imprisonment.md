@@ -58,7 +58,7 @@ Mandatory Revocation for Possession of Controlled Substance or Firearm or for Re
 
 &emsp;(4) as a part of drug testing, tests positive for illegal controlled substances more than 3 times over the course of 1 year;
 
-> the court shall revoke the term of supervised release and require the defendant to serve a term of imprisonment not to exceed the maximum term of imprisonment authorized under subsection (e)(3).
+> the court shall revoke the term of supervised release and require the defendant to serve a term of imprisonment not to exceed the maximumterm of imprisonment authorized under subsection (e)(3).
 
 (h)
 
@@ -202,7 +202,7 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 
 #### Effective Date of 1986 Amendments
 
-Pub. L. 99–646, §14(b), Nov. 10, 1986, 100 Stat. 3594, provided that: "The amendments made by this section\[amending this section\] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code \[Nov. 1, 1987\]."
+Pub. L. 99–646, §14(b), Nov. 10, 1986, 100 Stat. 3594, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code \[Nov. 1, 1987\]."
 
 Pub. L. 99–570, title I, §1006(a)(4), Oct. 27, 1986, 100 Stat. 3207–7, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code \[Nov. 1, 1987\]."
 

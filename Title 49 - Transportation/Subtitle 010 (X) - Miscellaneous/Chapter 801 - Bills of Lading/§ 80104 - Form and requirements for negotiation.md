@@ -2,7 +2,7 @@
 
 (a)
 
-General Rules.—(1) A negotiable bill of lading may be negotiated by indorsement. Anindorsement may be made in blank or to a specified person. If the goods are deliverable to the order of a specified person, then the bill must be indorsed by that person.
+General Rules.—(1) A negotiable bill of lading may be negotiated by indorsement. An indorsement may be made in blank or to a specified person. If the goods are deliverable to the order of a specified person, then the bill must be indorsed by that person.
 
 (2) A negotiable bill of lading may be negotiated by delivery when the common carrier, under the terms of the bill, undertakes to deliver the goods to the order of a specified person and that person or a subsequent indorsee has indorsed the bill in blank.
 

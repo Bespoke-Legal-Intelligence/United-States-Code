@@ -32,6 +32,12 @@
 | [<b>443.</b>](Part%20A%20-%20Air%20Commerce%20and%20Safety/Subpart%20003%20%28iii%29%20-%20Safety/Chapter%20443%20-%20Insurance/README.md) | <b>Insurance</b> | <b>44301</b> |
 | [<b>445.</b>](Part%20A%20-%20Air%20Commerce%20and%20Safety/Subpart%20003%20%28iii%29%20-%20Safety/Chapter%20445%20-%20Facilities%2C%20Personnel%2C%20and%20Research/README.md) | <b>Facilities, Personnel, and Research</b> | <b>44501</b> |
 | [<b>447.</b>](Part%20A%20-%20Air%20Commerce%20and%20Safety/Subpart%20003%20%28iii%29%20-%20Safety/Chapter%20447%20-%20Safety%20Regulation/README.md) | <b>Safety Regulation</b> | <b>44701</b> |
+| [<b>448.</b>](Part%20A%20-%20Air%20Commerce%20and%20Safety/Subpart%20003%20%28iii%29%20-%20Safety/Chapter%20448%20-%20Unmanned%20Aircraft%20Systems/README.md) | <b>Unmanned aircraft systems </b><b><sup>1</sup></b> | <b>44801</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>449.</b>](Part%20A%20-%20Air%20Commerce%20and%20Safety/Subpart%20003%20%28iii%29%20-%20Safety/Chapter%20449%20-%20Security/README.md) | <b>Security</b> | <b>44901</b> |
 | [<b>451.</b>](Part%20A%20-%20Air%20Commerce%20and%20Safety/Subpart%20003%20%28iii%29%20-%20Safety/Chapter%20451%20-%20Alcohol%20and%20Controlled%20Substances%20Testing/README.md) | <b>Alcohol and Controlled Substances Testing</b> | <b>45101</b> |
 | [<b>453.</b>](Part%20A%20-%20Air%20Commerce%20and%20Safety/Subpart%20003%20%28iii%29%20-%20Safety/Chapter%20453%20-%20Fees/README.md) | <b>Fees</b> | <b>45301</b> |
@@ -64,7 +70,7 @@
 | :--- | :---: | ---: |
 | [<b>481.</b>](Part%20C%20-%20Financing/Chapter%20481%20-%20Airport%20and%20Airway%20Trust%20Fund%20Authorizations/README.md) | <b>Airport and Airway Trust Fund Authorizations</b> | <b>48101</b> |
 | [<b>482.</b>](Part%20C%20-%20Financing/Chapter%20482%20-%20Advance%20Appropriations%20for%20Airport%20and%20Airway%20Trust%20Facilities/README.md) | <b>Advance Appropriations for Airport and Airway Trust Facilities</b> | <b>48201</b> |
-| [<b>483.</b>](Part%20C%20-%20Financing/Chapter%20483%20-%20Aviation%20Security%20Funding/README.md) | <b>Aviation Security Funding</b> | <b>48301</b> |
+| <b>\[483.</b> | <b>Repealed.\]</b> |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -86,6 +92,10 @@
 
 #### Amendments
 
+<b>2018</b>—Pub. L. 115–254, div. K, title I, §1991(i)(2), Oct. 5, 2018, 132 Stat. 3645, which directed amendment of this analysis by striking item for chapter 483 "Aviation security funding", was executed by striking item for chapter 483 "Aviation Security Funding" to reflect the probable intent of Congress.
+
+Pub. L. 115–254, div. B, title III, §341(b)(1), Oct. 5, 2018, 132 Stat. 3287, added item for chapter 448.
+
 <b>2012</b>—Pub. L. 112–95, title IV, §415(d), Feb. 14, 2012, 126 Stat. 96, added item for chapter 423.
 
 <b>2001</b>—Pub. L. 107–71, title I, §118(c)(2), Nov. 19, 2001, 115 Stat. 628, added item for chapter 483.
@@ -95,6 +105,8 @@
 <b>1996</b>—Pub. L. 104–287, §5(64), Oct. 11, 1996, 110 Stat. 3395, substituted "RESERVED" for "MISCELLANEOUS" in item for part D, struck out item for chapter 491 "Buy-American Preferences", and added items for part E and chapter 501.
 
 Pub. L. 104–264, title II, §277(b), Oct. 9, 1996, 110 Stat. 3248, added item for chapter 482.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "Unmanned Aircraft Systems".</i>
 
 
 ---

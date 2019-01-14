@@ -38,7 +38,7 @@ It shall be unlawful for any person who is related to a business development com
 
 &emsp;(2) knowingly to purchase from such business development company or from any company controlled by such business development company, any security or other property (except securities of which the seller is the issuer);
 
-&emsp;(3) knowingly to borrow money or other property from such business development company or from any company controlled by suchbusiness development company (unless the borrower is controlled by the lender), except as permitted in section 80a–21(b) of this title; or
+&emsp;(3) knowingly to borrow money or other property from such business development company or from any company controlled by such business development company (unless the borrower is controlled by the lender), except as permitted in section 80a–21(b) of this title; or
 
 &emsp;(4) knowingly to effect any transaction in which such business development company or a company controlled by such business development company is a joint or a joint and several participant with such affiliated person in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such business development company or controlled company on a basis less advantageous than that of such affiliated person, except that nothing contained in this paragraph shall be deemed to preclude any person from acting as manager of any underwriting syndicate or other group in which such business development company or controlled company is a participant and receiving compensation therefor.
 
@@ -78,7 +78,7 @@ Until the adoption by the Commission of rules or regulations under subsections (
 
 Notwithstanding subsections (a) and (d) of this section, any director, officer, or employee of, or general partner in, a business development company may—
 
-&emsp;(1) acquire warrants, options, and rights to purchase voting securities of such business development company, and securities issued upon the exercise or conversion thereof, pursuant to an executive compensation plan offered by such company which meets the requirements of section 80a–60(a)(3)(B) of this title; and
+&emsp;(1) acquire warrants, options, and rights to purchase voting securities of such business development company, and securities issued upon the exercise or conversion thereof, pursuant to an executive compensation plan offered by such company which meets the requirements of section 80a–60(a)(4)(B) of this title; and
 
 &emsp;(2) borrow money from such business development company for the purpose of purchasing securities issued by such company pursuant to an executive compensation plan, if each such loan—
 
@@ -108,7 +108,7 @@ It shall be unlawful for any person described in subsection (l)—
 
 &emsp;&emsp;(C) 1 per centum of the purchase or sale price of such securities if the sale is otherwise effected,
 
-> unless the Commission, by rules and regulations or order in the public interest and consistent with the protection of investors, permits a larger commission.
+> unless the Commission, by rules and regulations or order in the public interest and consistentwith the protection of investors, permits a larger commission.
 
 #### (l) Persons subject to brokerage commission restrictions
 
@@ -134,15 +134,15 @@ For purposes of subsections (a) and (d), a person who is a director, officer, or
 
 &emsp;(ii) in the case of a profit-sharing plan which includes one or more directors of the business development company who are not also officers or employees of such company, or one or more general partners in such company, such profit-sharing plan is approved by order of the Commission, upon application, on the basis that such plan is reasonable and fair to the shareholders or partners of such company, does not involve overreaching of such company or its shareholders or partners on the part of any person concerned, and is consistent with the interests of the shareholders or partners of such company; and
 
-&emsp;(B) the aggregate amount of benefits which would be paid or accrued under such plan shallnot exceed 20 per centum of the business development company's net income after taxes in any fiscal year.
+&emsp;(B) the aggregate amount of benefits which would be paid or accrued under such plan shall not exceed 20 per centum of the business development company's net income after taxes in any fiscal year.
 
-(2) This subsection may not be used where the business development company has outstanding any stock option, warrant, or right issued as part of an executive compensation plan, including a plan pursuant to section 80a–60(a)(3)(B) of this title, or has an investment adviser registered or required to be registered under subchapter II of this chapter.
+(2) This subsection may not be used where the business development company has outstanding any stock option, warrant, or right issued as part of an executive compensation plan, including a plan pursuant to section 80a–60(a)(4)(B) of this title, or has an investment adviser registered or required to be registered under subchapter II of this chapter.
 
 #### (o) Required majority for approval of proposed transactions
 
 The term "required majority", when used with respect to the approval of a proposed transaction, plan, or arrangement, means both a majority of a business development company's directors or general partners who have no financial interest in such transaction, plan, or arrangement and a majority of such directors or general partners who are not interested persons of such company.
 
-(Aug. 22, 1940, ch. 686, title I, §57, as added Pub. L. 96–477, title I, §105, Oct. 21, 1980, 94 Stat. 2280; amended Pub. L. 100–181, title VI, §627, Dec. 4, 1987, 101 Stat. 1263.)
+(Aug. 22, 1940, ch. 686, title I, §57, as added Pub. L. 96–477, title I, §105, Oct. 21, 1980, 94 Stat. 2280; amended Pub. L. 100–181, title VI, §627, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 115–141, div. S, title VIII, §802(b)(2)(A), Mar. 23, 2018, 132 Stat. 1140.)
 
 #### References in Text
 
@@ -151,6 +151,8 @@ The Securities Act of 1933, referred to in subsecs. (c)(2) and (f)(2), is act Ma
 The Securities Exchange Act of 1934, referred to in subsecs. (c)(2) and (f)(2), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsecs. (j)(1), (n)(2). Pub. L. 115–141 substituted "section 80a–60(a)(4)(B) of this title" for "section 80a–60(a)(3)(B) of this title".
 
 <b>1987</b>—Subsec. (i). Pub. L. 100–181 substituted "subsections (a) and (d) of section 80a–17 of this title" for "sections 80a–17(a) and (d) of this title" in two places.
 

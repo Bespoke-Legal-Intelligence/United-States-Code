@@ -160,11 +160,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;A planning grant shall be effective for a period of 1 year, beginning on the first day of the month in which the planning grant is made. Applicants may not receive more than 1 such planning grant.
 
-#### (D) Amount
-
-&emsp;&emsp;The amount of a planning grant may not exceed $75,000, except that the Attorney General may, for good cause, approve a grant in a higher amount.
-
-#### (E) Collaboration set aside
+#### (D) Collaboration set aside
 
 &emsp;&emsp;Up to 5 percent of all planning funds shall be used to foster collaboration between State and local governments in furtherance of the purposes set forth in the Mentally Ill Offender Treatment and Crime Reduction Act of 2004.
 
@@ -260,7 +256,7 @@ In this section, the following definitions shall apply:
 
 #### (i) Mental health courts and diversion/alternative prosecution and sentencing programs
 
-&emsp;&emsp;&emsp;Funds may be used to create or expand existing mental health courts that meet program requirements established by the Attorney General under subchapter XXI of this chapter, other court-based programs, or diversion and alternative prosecution and sentencing programs (including crisis intervention teams and treatment accountability services for communities) that meet requirements established by the Attorney General and the Secretary.
+&emsp;&emsp;&emsp;Funds may be used to create or expand existing mental health courts that meet program requirements established by the Attorney General under subchapter XXI of this chapter, other court-based programs, or diversion and alternative prosecution and sentencing programs (including crisis intervention teams and treatment accountability services for communities)that meet requirements established by the Attorney General and the Secretary.
 
 #### (ii) Training
 
@@ -334,7 +330,7 @@ The Attorney General, in awarding funds under this section, shall give priority 
 
 #### (e) Federal use of funds
 
-The Attorney General, in consultation with the Secretary, in administering grants under this section, may use up to 3 percent of funds appropriated to—
+The Attorney General, in consultation with the Secretary, in administering grants under this section, shall use not less than 6 percent of funds appropriated to—
 
 &emsp;(1) research the use of alternatives to prosecution through pretrial diversion in appropriate cases involving individuals with mental illness;
 
@@ -362,9 +358,9 @@ The Attorney General, in consultation with the Secretary, in administering grant
 
 &emsp;&emsp;(B) submit, not later than 2 years after October 30, 2004, a report to Congress containing recommendations for improved interdepartmental collaboration regarding the provision of services to preliminarily qualified offenders.
 
-#### (g) Minimum allocation
+#### (g) Collaboration set-aside
 
-Unless all eligible applications submitted by any State or unit of local government within such State for a planning or implementation grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.75 percent of the total amount appropriated in the fiscal year for planning or implementation grants pursuant to this section.
+The Attorney General shall use not less than 8 percent of funds appropriated to provide technical assistance to State and local governments receiving grants under this subchapter to foster collaboration between such governments in furtherance of the purposes set forth in section 3 of the Mentally Ill Offender Treatment and Crime Reduction Act of 2004 (34 U.S.C. 10651 note).
 
 #### (h) Law enforcement response to mentally ill offenders improvement grants
 
@@ -402,7 +398,7 @@ Unless all eligible applications submitted by any State or unit of local governm
 
 #### (3) Matching funds
 
-&emsp;The Federal share of funds for a program funded by a grant received under this subsection may not exceed 50 percent of the costs of the program. The non-Federal share of payments made for such a program may be madein cash or in-kind fairly evaluated, including planned equipment or services.
+&emsp;The Federal share of funds for a program funded by a grant received under this subsection may not exceed 50 percent of the costs of the program. The non-Federal share of payments made for such a program may be made in cash or in-kind fairly evaluated, including planned equipment or services.
 
 #### (4) Priority consideration
 
@@ -480,7 +476,7 @@ Unless all eligible applications submitted by any State or unit of local governm
 
 &emsp;&emsp;(D) payments for treatment providers that are approved by the State or Indian Tribe and licensed, if necessary, to provide needed treatment to eligible offenders participating in the program, including behavioral health services and aftercare supervision; and
 
-&emsp;&emsp;(E) training for all FACT teams to promote high-fidelity practice principles and technical assistance to support effective andcontinuing integration with criminal justice agency partners.
+&emsp;&emsp;(E) training for all FACT teams to promote high-fidelity practice principles and technical assistance to support effective and continuing integration with criminal justice agency partners.
 
 #### (3) Supplement and not supplant
 
@@ -690,11 +686,11 @@ All grants awarded by the Attorney General under this section shall be subject t
 
 &emsp;Not more than 20 percent of the funds authorized to be appropriated under this section may be used for purposes described in subsection (i) (relating to veterans).
 
-(Pub. L. 90–351, title I, §2991, as added Pub. L. 108–414, §4(a), Oct. 30, 2004, 118 Stat. 2328; amended Pub. L. 110–416, §§3, 4, Oct. 14, 2008, 122 Stat. 4352, 4353; Pub. L. 114–198, title V, §502, July 22, 2016, 130 Stat. 728; Pub. L. 114–255, div. B, title XIV, §§14005, 14018, 14021–14024, 14027, 14028(a), 14029, Dec. 13, 2016, 130 Stat. 1295, 1307–1311, 1313.)
+(Pub. L. 90–351, title I, §2991, as added Pub. L. 108–414, §4(a), Oct. 30, 2004, 118 Stat. 2328; amended Pub. L. 110–416, §§3, 4, Oct. 14, 2008, 122 Stat. 4352, 4353; Pub. L. 114–198, title V, §502, July 22, 2016, 130 Stat. 728; Pub. L. 114–255, div. B, title XIV, §§14005, 14018, 14021–14024, 14027, 14028(a), 14029, Dec. 13, 2016, 130 Stat. 1295, 1307–1311, 1313; Pub. L. 115–391, title VI, §612, Dec. 21, 2018, 132 Stat. 5247.)
 
 #### References in Text
 
-The Mentally Ill Offender Treatment and Crime Reduction Act of 2004, referred to in subsec. (b)(4)(E), is Pub. L. 108–414, Oct. 30, 2004, 118 Stat. 2327, which enacted this subchapter and provisions set out as notes below. For complete classification of this Act to the Code, see Short Title of 2004 Act note set out under section 10101 of this title and Tables.
+The Mentally Ill Offender Treatment and Crime Reduction Act of 2004, referred to in subsec. (b)(4)(D), is Pub. L. 108–414, Oct. 30, 2004, 118 Stat. 2327, which enacted this subchapter and provisions set out as notes below. For complete classification of this Act to the Code, see Short Title of 2004 Act note set out under section 10101 of this title and Tables.
 
 This Act, referred to in subsec. (n)(1), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, known as the Omnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
@@ -703,6 +699,12 @@ This Act, referred to in subsec. (n)(1), is Pub. L. 90–351, June 19, 1968, 82 
 Section was formerly classified to section 3797aa of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(4)(D), (E). Pub. L. 115–391, §612(1)(A), (B), redesignated subpar. (E) as (D) and struck out former subpar. (D). Prior to amendment, text of subpar. (D) read as follows: "The amount of a planning grant may not exceed $75,000, except that the Attorney General may, for good cause, approve a grant in a higher amount."
+
+Subsec. (e). Pub. L. 115–391, §612(2), substituted "shall use not less than 6 percent" for "may use up to 3 percent" in introductory provisions.
+
+Subsec. (g). Pub. L. 115–391, §612(3), amended subsec. (g) generally. Prior to amendment, text read as follows: "Unless all eligible applications submitted by any State or unit of local government within such State for a planning or implementation grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.75 percent of the total amount appropriated in the fiscal year for planning or implementation grants pursuant to this section."
 
 <b>2016</b>—Subsec. (a)(7). Pub. L. 114–255, §14028(a)(1), substituted "Mental illness; mental health disorder" for "Mental illness" in heading and "terms 'mental illness' and 'mental health disorder' mean" for "term 'mental illness' means" in introductory provisions.
 
@@ -770,7 +772,7 @@ Pub. L. 108–414, §2, Oct. 30, 2004, 118 Stat. 2327, provided that: "Congress 
 
 &emsp;"(1) According to the Bureau of Justice Statistics, over 16 percent of adults incarcerated in United States jails and prisons have a mental illness.
 
-&emsp;"(2) According to the Office of Juvenile Justice and Delinquency Prevention, approximately 20 percent ofyouth in the juvenile justice system have serious mental health problems, and a significant number have co-occurring mental health and substance abuse disorders.
+&emsp;"(2) According to the Office of Juvenile Justice and Delinquency Prevention, approximately 20 percent of youth in the juvenile justice system have serious mental health problems, and a significant number have co-occurring mental health and substance abuse disorders.
 
 &emsp;"(3) According to the National Alliance for the Mentally Ill, up to 40 percent of adults who suffer from a serious mental illness will come into contact with the American criminal justice system at some point in their lives.
 
@@ -778,7 +780,7 @@ Pub. L. 108–414, §2, Oct. 30, 2004, 118 Stat. 2327, provided that: "Congress 
 
 &emsp;"(5) A significant proportion of adults with a serious mental illness who are involved with the criminal justice system are homeless or at imminent risk of homelessness, and many of these individuals are arrested and jailed for minor, nonviolent offenses.
 
-&emsp;"(6) The majority of individuals with a mental illness or emotional disorder who are involved in the criminal or juvenile justice systems are responsive to medical and psychological interventions that integrate treatment, rehabilitation, and support services.
+&emsp;"(6) The majority of individuals with a mental illness or emotional disorder who are involved in the criminal or juvenile justice systems are responsive tomedical and psychological interventions that integrate treatment, rehabilitation, and support services.
 
 &emsp;"(7) Collaborative programs between mental health, substance abuse, and criminal or juvenile justice systems that ensure the provision of services for those with mental illness or co-occurring mental illness and substance abuse disorders can reduce the number of such individuals in adult and juvenile corrections facilities, while providing improved public safety."
 

@@ -12,7 +12,7 @@ For purposes of this section—
 
 &emsp;Except as provided in paragraphs (2) and (3), the term "base erosion minimum tax amount" means, with respect to any applicable taxpayer for any taxable year, the excess (if any) of—
 
-&emsp;&emsp;(A) an amount equal to 10 percent (5 percent in the case of taxable years beginning in calendar year 2018) of the modified taxable income of such taxpayer for the taxable year, over
+&emsp;&emsp;(A) an amount equal to 10 percent (5 percent in the case of taxable years beginningin calendar year 2018) of the modified taxable income of such taxpayer for the taxable year, over
 
 &emsp;&emsp;(B) an amount equal to the regular tax liability (as defined in section 26(b)) of the taxpayer for the taxable year, reduced (but not below zero) by the excess (if any) of—
 
@@ -302,7 +302,7 @@ For purposes of this section—
 
 #### (C) Exception for certain contracts
 
-&emsp;&emsp;Such term shall not include any insurance, annuity, or endowment contract issued by an insurance company to which subchapter L applies (or issued by any foreign corporation to which such subchapter would apply if such foreign corporation were a domestic corporation).
+&emsp;&emsp;Such term shall not include any insurance, annuity, or endowment contract issued byan insurance company to which subchapter L applies (or issued by any foreign corporation to which such subchapter would apply if such foreign corporation were a domestic corporation).
 
 #### (i) Regulations
 

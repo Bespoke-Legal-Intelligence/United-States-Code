@@ -2,11 +2,11 @@
 
 (a)
 
-Devotion of Space Activities to Peaceful Purposes for Benefit of All Humankind.—Congress declares that it is the policy of the United States that activities in space should be devoted to peaceful purposes for the benefit of all humankind.
+Devotion of Space Activities to Peaceful Purposes for Benefit of All Humankind.—Congress declares that it is the policy of the United States that activities in space shouldbe devoted to peaceful purposes for the benefit of all humankind.
 
 (b)
 
-Aeronautical and Space Activities for Welfare and Security of United States.—Congress declares that the general welfare andsecurity of the United States require that adequate provision be made for aeronautical and space activities. Congress further declares that such activities shall be the responsibility of, and shall be directed by, a civilian agency exercising control over aeronautical and space activities sponsored by the United States, except that activities peculiar to or primarily associated with the development of weapons systems, military operations, or the defense of the United States (including the research and development necessary to make effective provision for the defense of the United States) shall be the responsibility of, and shall be directed by, the Department of Defense; and that determination as to which agency has responsibility for and direction of any such activity shall be made by the President.
+Aeronautical and Space Activities for Welfare and Security of United States.—Congress declares that the general welfare and security of the United States require that adequate provision be made for aeronautical and space activities. Congress further declares that such activities shall be the responsibility of, and shall be directed by, a civilian agency exercising control over aeronautical and space activities sponsored by the United States, except that activities peculiar to or primarily associated with the development of weapons systems, military operations, or the defense of the United States (including the research and development necessary to make effective provision for the defense of the United States) shall be the responsibility of, and shall be directed by, the Department of Defense; and that determination as to which agency has responsibility for and direction of any such activity shall be made by the President.
 
 (c)
 
@@ -232,7 +232,7 @@ Pub. L. 101–611, title I, §§101, 102, Nov. 16, 1990, 104 Stat. 3188, 3189, p
 
 Pub. L. 100–685, title I, §101, Nov. 17, 1988, 102 Stat 4083, provided that: "Congress finds that—
 
-&emsp;"(1) in accordance with section 106 of the National Aeronautics and Space Administration Authorization Act of 1988 (Public Law 100–147) \[set out as a note under section 70901 of this title\], a space station, hereafter referred to as the United States International Space Station, shall be constructed in order to establish a permanent presence for man in space for the following purposes—
+&emsp;"(1) in accordance with section 106 of the National Aeronautics and Space Administration AuthorizationAct of 1988 (Public Law 100–147) \[set out as a note under section 70901 of this title\], a space station, hereafter referred to as the United States International Space Station, shall be constructed in order to establish a permanent presence for man in space for the following purposes—
 
 &emsp;&emsp;"(A) the conduct of scientific experiments, applications experiments, and engineering experiments;
 

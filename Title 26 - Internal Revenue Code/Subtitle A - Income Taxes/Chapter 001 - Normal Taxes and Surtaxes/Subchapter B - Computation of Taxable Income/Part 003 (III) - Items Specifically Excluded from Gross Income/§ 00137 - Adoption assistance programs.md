@@ -8,7 +8,7 @@
 
 #### (2) $10,000 exclusion for adoption of child with special needs regardless of expenses
 
-&emsp;In the case of an adoption of a child with special needs which becomes final during a taxable year, the qualified adoption expenses with respect to such adoption for such year shall be increased by an amount equal to the excess (if any) of $10,000 over the actual aggregate qualified adoption expenses with respect to such adoption during such taxable year and all prior taxable years.
+&emsp;In the case of an adoption of a child with special needs which becomes final during ataxable year, the qualified adoption expenses with respect to such adoption for such year shall be increased by an amount equal to the excess (if any) of $10,000 over the actual aggregate qualified adoption expenses with respect to such adoption during such taxable year and all prior taxable years.
 
 #### (b) Limitations
 
@@ -40,7 +40,7 @@ For purposes of this section, an adoption assistance program is a separate writt
 
 &emsp;(2) which meets requirements similar to the requirements of paragraphs (2), (3), (5), and (6) of section 127(b).
 
-> An adoption reimbursement program operated under section 1052 of title 10, United States Code (relating to armed forces) or section 514 <sup>1</sup> of title 14, United States Code (relating to members of the Coast Guard) shall be treated as an adoption assistance program for purposes of this section.
+> An adoption reimbursement program operated under section 1052 of title 10, United States Code (relating to armed forces) or section 541 <sup>1</sup> of title 14, United States Code (relating to members of the Coast Guard) shall be treated as an adoption assistance program for purposes of this section.
 
 #### (d) Qualified adoption expenses
 
@@ -60,7 +60,7 @@ In the case of a taxable year beginning after December 31, 2002, each of the dol
 
 > If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.
 
-(Added Pub. L. 104–188, title I, §1807(b), Aug. 20, 1996, 110 Stat. 1901; amended Pub. L. 105–34, title XVI, §1601(h)(2)(C), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(C), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title II, §202(a)(2), (b)(1)(B), (2)(B), (d)(2), (e)(2), title IV, §431(c)(1), June 7, 2001, 115 Stat. 47, 48, 68; Pub. L. 107–147, title IV, §§411(c)(2), 418(a)(2), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–311, title IV, §403(e), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 111–148, title X, §10909(a)(2), (b)(2)(J), (c), Mar. 23, 2010, 124 Stat. 1022, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 115–97, title I, §§11002(d)(1)(N), 13305(b)(1), Dec. 22, 2017, 131 Stat. 2060, 2126.)
+(Added Pub. L. 104–188, title I, §1807(b), Aug. 20, 1996, 110 Stat. 1901; amended Pub. L. 105–34, title XVI, §1601(h)(2)(C), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(C), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title II, §202(a)(2), (b)(1)(B), (2)(B), (d)(2), (e)(2), title IV, §431(c)(1), June 7, 2001, 115 Stat. 47, 48, 68; Pub. L. 107–147, title IV, §§411(c)(2), 418(a)(2), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–311, title IV, §403(e), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 111–148, title X, §10909(a)(2), (b)(2)(J), (c), Mar. 23, 2010, 124 Stat. 1022, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 115–97, title I, §§11002(d)(1)(N), 13305(b)(1), Dec. 22, 2017, 131 Stat. 2060, 2126; Pub. L. 115–141, div. U, title IV, §401(a)(40), Mar. 23, 2018, 132 Stat. 1186.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -68,13 +68,15 @@ In the case of a taxable year beginning after December 31, 2002, each of the dol
 
 #### References in Text
 
-Section 514 of title 14, referred to in subsec. (c), was renumbered section 541 of title 14 by Pub. L. 113–281, title II, §214(b)(1)(A), Dec. 18, 2014, 128 Stat. 3033.
+Section 541 of title 14, referred to in subsec. (c), was redesignated section 2903 of title 14 by Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230, and references to section 541 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 #### Prior Provisions
 
 A prior section 137 was renumbered section 140 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–141 substituted "section 541" for "section 514" in concluding provisions.
 
 <b>2017</b>—Subsec. (b)(3)(A). Pub. L. 115–97, §13305(b)(1), struck out "199," before "221".
 
@@ -130,7 +132,7 @@ Subsec. (f). Pub. L. 107–16, §202(d)(2), (e)(2), added subsec. (f) and struck
 
 Amendment by section 11002(d)(1)(N) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
-Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
+Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
 #### Effective and Termination Dates of 2010 Amendment
 
@@ -156,7 +158,7 @@ Amendment by section 202(b)(1)(B), (2)(B), (d)(2), (e)(2) of Pub. L. 107–16 ap
 
 Amendment by section 202(a)(2) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2002, see section 202(g)(2) of Pub. L. 107–16, set out as a note under section 23 of this title.
 
-Amendment by section 431(c)(1) of Pub. L. 107–16 applicable to payments made in taxable years beginningafter Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
+Amendment by section 431(c)(1) of Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
 #### Effective Date of 1998 Amendment
 

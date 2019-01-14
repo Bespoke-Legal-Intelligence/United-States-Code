@@ -1,6 +1,6 @@
 ### §17096. Authorization of appropriations
 
-There is authorized to be appropriated to carry out sections 434 through 439 and 482 <sup>1</sup> $4,000,000 for each of fiscal years 2008 through 2012, to remain available until expended.
+There is authorized to be appropriated to carry out sections 434 through 439 and 482 <sup>1</sup>$4,000,000 for each of fiscal years 2008 through 2012, to remain available until expended.
 
 (Pub. L. 110–140, title IV, §440, Dec. 19, 2007, 121 Stat. 1623.)
 

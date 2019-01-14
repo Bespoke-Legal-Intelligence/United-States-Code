@@ -28,7 +28,7 @@ The written contract (referred to in this section as the "written contract") bet
 
 &emsp;(1) an agreement on the part of the Secretary that the Secretary will repay on behalf of the individual loans incurred by the individual in the pursuit of the relevant degree or certificate in accordance with the terms of the contract;
 
-&emsp;(2) an agreement on the part of the individual that the individual will serve in the full-time employment of a Federal, State, local, ortribal public health agency or a related fellowship program in a position related to the course of study or program for which the contract was awarded for a period of time (referred to in this section as the "period of obligated service") equal to the greater of—
+&emsp;(2) an agreement on the part of the individual that the individual will serve in the full-time employment of a Federal, State, local, or tribal public health agency or a related fellowship program in a position related to the course of study or program for which the contract was awarded for a period of time (referred to in this section as the "period of obligated service") equal to the greater of—
 
 &emsp;&emsp;(A) 3 years; or
 

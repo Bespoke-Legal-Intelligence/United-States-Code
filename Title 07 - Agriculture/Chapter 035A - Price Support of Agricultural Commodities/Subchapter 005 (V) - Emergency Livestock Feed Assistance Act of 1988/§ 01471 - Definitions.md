@@ -4,7 +4,7 @@ As used in this subchapter:
 
 &emsp;(1) The term "livestock producer" means—
 
-&emsp;&emsp;(A) a person that is actively engaged in farming and that receives a substantialamount of total income from the production of grain or livestock, as determined by the Secretary, that is—
+&emsp;&emsp;(A) a person that is actively engaged in farming and that receives a substantial amount of total income from the production of grain or livestock, as determined by the Secretary, that is—
 
 &emsp;&emsp;&emsp;(i) an established producer or husbander of livestock or a dairy producer who is a citizen of, or legal resident alien in, the United States; or
 
@@ -20,7 +20,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(iv) any economic enterprise (as defined in section 1452(e) of title 25);
 
-&emsp;(2) The term "livestock" means cattle, elk, reindeer, bison, horses, deer, sheep, goats, swine, poultry (including egg-producing poultry), fish used for food, and other animals designated by the Secretary (at the Secretary's sole discretion) that—
+&emsp;(2) The term "livestock" means cattle, elk, reindeer, bison, horses, deer, sheep, goats, swine, poultry (including egg-producing poultry), llamas, alpacas, live fish, crawfish, and other animals that—
 
 &emsp;&emsp;(A) are part of a foundation herd (including producing dairy cattle) or offspring; or
 
@@ -36,7 +36,7 @@ As used in this subchapter:
 
 &emsp;(5) The term "area" includes any Indian reservation (as defined in section 1985(e)(1)(D)(ii) <sup>2</sup> of this title).
 
-(Oct. 31, 1949, ch. 792, title VI, §602, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 926; amended Pub. L. 108–447, div. A, title VII, §785(b)(1), Dec. 8, 2004, 118 Stat. 2850; Pub. L. 109–97, title VII, §784(b)(1), Nov. 10, 2005, 119 Stat. 2162.)
+(Oct. 31, 1949, ch. 792, title VI, §602, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 926; amended Pub. L. 108–447, div. A, title VII, §785(b)(1), Dec. 8, 2004, 118 Stat. 2850; Pub. L. 109–97, title VII, §784(b)(1), Nov. 10, 2005, 119 Stat. 2162; Pub. L. 115–334, title XII, §12104, Dec. 20, 2018, 132 Stat. 4942.)
 
 #### References in Text
 
@@ -47,6 +47,8 @@ Act of June 18, 1934, referred to in par. (1)(B)(ii), is act June 18, 1934, ch. 
 Section 1985(e)(1)(D)(ii) of this title, referred to in par. (5), was redesignated section 1985(e)(1)(A)(ii) of this title by Pub. L. 104–127, title VI, §638(3)(A)(ii), Apr. 4, 1996, 110 Stat. 1096.
 
 #### Amendments
+
+<b>2018</b>—Par. (2). Pub. L. 115–334 substituted "llamas, alpacas, live fish, crawfish, and other animals that" for "fish used for food, and other animals designated by the Secretary (at the Secretary's sole discretion) that" in introductory provisions.
 
 <b>2005</b>—Par. (2). Pub. L. 109–97, in introductory provisions, inserted "horses, deer," after "bison," and struck out "equine animals used for food or in the production of food," before "fish".
 

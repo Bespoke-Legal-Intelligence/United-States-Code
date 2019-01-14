@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Dispute Settlement Understanding
 
-&emsp;The term "Dispute Settlement Understanding" means the Understanding on Rules andProcedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of title 19.
+&emsp;The term "Dispute Settlement Understanding" means the Understanding on Rules and Procedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of title 19.
 
 #### (2) Government of the People's Republic of China
 

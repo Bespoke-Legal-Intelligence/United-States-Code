@@ -8,7 +8,7 @@ Any officer or employee of the Service authorized under regulations prescribed b
 
 &emsp;(2) to arrest any alien who in his presence or view is entering or attempting to enter the United States in violation of any law or regulation made in pursuance of law regulating the admission, exclusion, expulsion, or removal of aliens, or to arrest any alien in the United States, if he has reason to believe that the alien so arrested is in the United States in violation of any such law or regulation and is likely to escape before a warrant can be obtained for his arrest, but the alien arrested shall be taken without unnecessary delay for examination before an officer of the Service having authority to examine aliens as to their right to enter or remain in the United States;
 
-&emsp;(3) within a reasonable distance from any external boundary of the United States, to boardand search for aliens any vessel within the territorial waters of the United States and any railway car, aircraft, conveyance, or vehicle, and within a distance of twenty-five miles from any such external boundary to have access to private lands, but not dwellings, for the purpose of patrolling the border to prevent the illegal entry of aliens into the United States;
+&emsp;(3) within a reasonable distance from any external boundary of the United States, to board and search for aliens any vessel within the territorial waters of the United States and any railway car, aircraft, conveyance, or vehicle, and within a distance of twenty-five miles from any such external boundary to have access to private lands, but not dwellings, for the purpose of patrolling the border to prevent the illegal entry of aliens into the United States;
 
 &emsp;(4) to make arrests for felonies which have been committed and which are cognizable under any law of the United States regulating the admission, exclusion, expulsion, or removal of aliens, if he has reason to believe that the person so arrested is guilty of such felony and if there is likelihood of the person escaping before a warrant can be obtained for his arrest, but the person arrested shall be taken without unnecessary delay before the nearest available officer empowered to commit persons charged with offenses against the laws of the United States; and
 
@@ -16,7 +16,7 @@ Any officer or employee of the Service authorized under regulations prescribed b
 
 &emsp;&emsp;(A) for any offense against the United States, if the offense is committed in the officer's or employee's presence, or
 
-&emsp;&emsp;(B) for any felony cognizable under the laws of the United States, if the officer or employee has reasonable grounds to believe that the person to be arrested has committed or is committing such a felony,
+&emsp;&emsp;(B) for any felony cognizable under the laws of the United States, if the officer oremployee has reasonable grounds to believe that the person to be arrested has committed or is committing such a felony,
 
 > &emsp;if the officer or employee is performing duties relating to the enforcement of the immigration laws at the time of the arrest and if there is a likelihood of the person escaping before a warrant can be obtained for his arrest.
 
@@ -56,7 +56,7 @@ Notwithstanding any other provision of this section other than paragraph (3) of 
 
 (1) Notwithstanding section 1342 of title 31, the Attorney General may enter into a written agreement with a State, or any political subdivision of a State, pursuant to which an officer or employee of the State or subdivision, who is determined by the Attorney General to be qualified to perform a function of an immigration officer in relation to the investigation, apprehension, or detention of aliens in the United States (including the transportation of such aliens across State lines to detention centers), may carry out such function at the expense of the State or political subdivision and to the extent consistent with State and local law.
 
-(2) An agreement under this subsection shall require that an officer or employee of a State or political subdivision of a State performing a function under the agreement shall have knowledge of, and adhere to, Federal law relating to the function, and shall contain a written certification that the officers or employees performing the function under the agreement have received adequate training regarding the enforcement of relevant Federal immigration laws.
+(2) An agreement under this subsection shall require that an officer or employee of a State or political subdivision of a State performing a function under the agreement shall have knowledge of, and adhere to, Federal law relating tothe function, and shall contain a written certification that the officers or employees performing the function under the agreement have received adequate training regarding the enforcement of relevant Federal immigration laws.
 
 (3) In performing a function under this subsection, an officer or employee of a State or political subdivision of a State shall be subject to the direction and supervision of the Attorney General.
 

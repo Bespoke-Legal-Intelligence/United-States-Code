@@ -16,7 +16,7 @@ In addition to the authorities granted under section 515 of this title and secti
 
 #### (1) In general
 
-&emsp;Lands and interests therein acquired under subsection (c) may be held in perpetuity for program and easement administration purposes as the Secretary may provide. In administering lands and interests therein under the program, the Secretary shall identify the environmental values to be protected by entry of the lands into the program, management activities which are planned and the manner in which they may affect the values identified, and obtain from the landowner other information determined appropriate for administration and management purposes.
+&emsp;Lands and interests therein acquired under subsection (c) may be held in perpetuity forprogram and easement administration purposes as the Secretary may provide. In administering lands and interests therein under the program, the Secretary shall identify the environmental values to be protected by entry of the lands into the program, management activities which are planned and the manner in which they may affect the values identified, and obtain from the landowner other information determined appropriate for administration and management purposes.
 
 #### (2) Initial programs
 
@@ -84,7 +84,7 @@ Under the terms of a conservation easement or other property interest acquired u
 
 #### (1) In general
 
-&emsp;The Secretary shall, at the request of a participating State, provide a grant to the Stateto carry out the Forest Legacy Program in the State.
+&emsp;The Secretary shall, at the request of a participating State, provide a grant to the State to carry out the Forest Legacy Program in the State.
 
 #### (2) Administration
 

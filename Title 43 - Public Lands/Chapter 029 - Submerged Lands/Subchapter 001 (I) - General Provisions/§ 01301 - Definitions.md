@@ -18,7 +18,7 @@ When used in this subchapter and subchapter II—
 
 (e) The term "natural resources" includes, without limiting the generality thereof, oil, gas, and all other minerals, and fish, shrimp, oysters, clams, crabs, lobsters, sponges, kelp, and other marine animal and plant life but does not include water power, or the use of water for the production of power;
 
-(f) The term "lands beneath navigable waters" does not include the beds of streams in lands now or heretofore constituting a part of the public lands of the United States if such streams were not meandered in connection with the public survey of such lands under the laws of theUnited States and if the title to the beds of such streams was lawfully patented or conveyed by the United States or any State to any person;
+(f) The term "lands beneath navigable waters" does not include the beds of streams in lands now or heretofore constituting a part of the public lands of the United States if such streams were not meandered in connection with the public survey of such lands under the laws of the United States and if the title to the beds of such streams was lawfully patented or conveyed by the United States or any State to any person;
 
 (g) The term "State" means any State of the Union;
 

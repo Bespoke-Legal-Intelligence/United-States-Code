@@ -40,7 +40,7 @@ The Comptroller General (and his duly authorized representatives) shall have the
 
 #### (5) Cooperation by Federated States of Micronesia
 
-&emsp;The Government of the Federated States of Micronesia will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable theComptroller General to fully discharge his responsibilities under this joint resolution.
+&emsp;The Government of the Federated States of Micronesia will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
 
 (Pub. L. 108–188, title I, §102, Dec. 17, 2003, 117 Stat. 2725.)
 

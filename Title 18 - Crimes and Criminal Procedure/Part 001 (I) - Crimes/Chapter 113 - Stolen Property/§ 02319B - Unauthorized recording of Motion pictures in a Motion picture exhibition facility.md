@@ -46,7 +46,7 @@ Contents.—A victim impact statement submitted under this subsection shall incl
 
 (f)
 
-State Law Not Preempted.—Nothing in this section may be construed to annul or limit any rights or remedies under the laws of any State.
+State Law Not Preempted.—Nothing in this section may be construed to annul or limitany rights or remedies under the laws of any State.
 
 (g)
 

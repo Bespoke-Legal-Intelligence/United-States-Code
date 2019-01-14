@@ -26,7 +26,7 @@ Pub. L. 103–446, title VI, §604(b), Nov. 2, 1994, 108 Stat. 4671, provided th
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
+Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 
 #### Effective Date of 1976 Amendment
 

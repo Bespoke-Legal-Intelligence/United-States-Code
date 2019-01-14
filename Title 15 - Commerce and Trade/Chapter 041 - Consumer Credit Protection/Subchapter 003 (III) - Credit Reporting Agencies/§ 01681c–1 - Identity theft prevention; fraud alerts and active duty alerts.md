@@ -6,7 +6,7 @@
 
 &emsp;Upon the direct request of a consumer, or an individual acting on behalf of or as a personal representative of a consumer, who asserts in good faith a suspicion that the consumer has been or is about to become a victim of fraud or related crime, including identity theft, a consumer reporting agency described in section 1681a(p) of this title that maintains a file on the consumer and has received appropriate proof of the identity of the requester shall—
 
-&emsp;&emsp;(A) include a fraud alert in the file of that consumer, and also provide that alert along with any credit score generated in using that file, for a period of not less than 90 days, beginning on the date of such request, unless the consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose; and
+&emsp;&emsp;(A) include a fraud alert in the file of that consumer, and also provide that alert along with any credit score generated in using that file, for a period of not less than 1 year, beginning on the date of such request, unless the consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose; and
 
 &emsp;&emsp;(B) refer the information regarding the fraud alert under this paragraph to each of the other consumer reporting agencies described in section 1681a(p) of this title, in accordance with procedures developed under section 1681s(f) of this title.
 
@@ -42,7 +42,7 @@
 
 Upon the direct request of an active duty military consumer, or an individual acting on behalf of or as a personal representative of an active duty military consumer, a consumer reporting agency described in section 1681a(p) of this title that maintains a file on the active duty military consumer and has received appropriate proof of the identity of the requester shall—
 
-&emsp;(1) include an active duty alert in the file of that active duty military consumer, and also provide that alert along with any credit score generated in using that file, during a period of not less than 12 months, or such longer period as the Bureau shall determine, by regulation, beginning on the date of the request, unless the active duty military consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose;
+&emsp;(1) include an active duty alert in the file of that active duty military consumer, and also provide that alert along with any credit score generated in using that file, during a period ofnot less than 12 months, or such longer period as the Bureau shall determine, by regulation, beginning on the date of the request, unless the active duty military consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose;
 
 &emsp;(2) during the 2-year period beginning on the date of such request, exclude the active duty military consumer from any list of consumers prepared by the consumer reporting agency and provided to any third party to offer credit or insurance to the consumer as part of a transaction that was not initiated by the consumer, unless the consumer requests that such exclusion be rescinded before the end of such period; and
 
@@ -92,9 +92,9 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 #### (A) Notification
 
-&emsp;&emsp;Each extended alert under this section shall include information that provides allprospective users of a consumer report relating to a consumer with—
+&emsp;&emsp;Each extended alert under this section shall include information that provides all prospective users of a consumer report relating to a consumer with—
 
-&emsp;&emsp;&emsp;(i) notification that the consumer does not authorize the establishment of any new credit plan or extension of credit described in clause (i), other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B); and
+&emsp;&emsp;&emsp;(i) notification that the consumer does not authorize the establishment of any new credit plan or extension of credit described in clause (i), other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase incredit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B); and
 
 &emsp;&emsp;&emsp;(ii) a telephone number or other reasonable contact method designated by the consumer.
 
@@ -102,15 +102,291 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 &emsp;&emsp;No prospective user of a consumer report or of a credit score generated using the information in the file of a consumer that includes an extended fraud alert in accordance with this section may establish a new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issue an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, unless the user contacts the consumer in person or using the contact method described in subparagraph (A)(ii) to confirm that the application for a new credit plan or increase in credit limit, or request for an additional card is not the result of identity theft.
 
-(Pub. L. 90–321, title VI, §605A, as added Pub. L. 108–159, title I, §112(a), Dec. 4, 2003, 117 Stat. 1955; amended Pub. L. 111–203, title X, §1088(a)(2)(C), July 21, 2010, 124 Stat. 2087.)
+#### (i) National security freeze
+
+#### (1) Definitions
+
+&emsp;For purposes of this subsection:
+
+&emsp;&emsp;(A) The term "consumer reporting agency" means a consumer reporting agency described in section 1681a(p) of this title.
+
+&emsp;&emsp;(B) The term "proper identification" has the meaning of such term as used under section 1681h of this title.
+
+&emsp;&emsp;(C) The term "security freeze" means a restriction that prohibits a consumer reporting agency from disclosing the contents of a consumer report that is subject to such security freeze to any person requesting the consumer report.
+
+#### (2) Placement of security freeze
+
+#### (A) In general
+
+&emsp;&emsp;Upon receiving a direct request from a consumer that a consumer reporting agency place a security freeze, and upon receiving proper identification from the consumer, the consumer reporting agency shall, free of charge, place the security freeze not later than—
+
+&emsp;&emsp;&emsp;(i) in the case of a request that is by toll-free telephone or secure electronic means, 1 business day after receiving the request directly from the consumer; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a request that is by mail, 3 business days after receiving the request directly from the consumer.
+
+#### (B) Confirmation and additional information
+
+&emsp;&emsp;Not later than 5 business days after placing a security freeze under subparagraph (A), a consumer reporting agency shall—
+
+&emsp;&emsp;&emsp;(i) send confirmation of the placement to the consumer; and
+
+&emsp;&emsp;&emsp;(ii) inform the consumer of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the process by which the consumer may remove the security freeze, including a mechanism to authenticate the consumer; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the consumer's right described in section 1681m(d)(1)(D) of this title.
+
+#### (C) Notice to third parties
+
+&emsp;&emsp;A consumer reporting agency may advise a third party that a security freeze has been placed with respect to a consumer under subparagraph (A).
+
+#### (3) Removal of security freeze
+
+#### (A) In general
+
+&emsp;&emsp;A consumer reporting agency shall remove a security freeze placed on the consumer report of a consumer only in the following cases:
+
+&emsp;&emsp;&emsp;(i) Upon the direct request of the consumer.
+
+&emsp;&emsp;&emsp;(ii) The security freeze was placed due to a material misrepresentation of fact by the consumer.
+
+#### (B) Notice if removal not by request
+
+&emsp;&emsp;If a consumer reporting agency removes a security freeze under subparagraph (A)(ii), the consumer reporting agency shall notify the consumer in writing prior to removing the security freeze.
+
+#### (C) Removal of security freeze by consumer request
+
+&emsp;&emsp;Except as provided in subparagraph (A)(ii), a security freeze shall remain in place until the consumer directly requests that the security freeze be removed. Upon receiving a direct request from a consumer that a consumer reporting agency remove a security freeze, and upon receiving proper identification from the consumer, the consumer reporting agency shall, free of charge, remove the security freeze not later than—
+
+&emsp;&emsp;&emsp;(i) in the case of a request that is by toll-free telephone or secure electronic means, 1 hour after receiving the request for removal; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a request that is by mail, 3 business days after receiving the request for removal.
+
+#### (D) Third-party requests
+
+&emsp;&emsp;If a third party requests access to a consumer report of a consumer with respect to which a security freeze is in effect, where such request is in connection with an application for credit, and the consumer does not allow such consumer report to be accessed, the third party may treat the application as incomplete.
+
+#### (E) Temporary removal of security freeze
+
+&emsp;&emsp;Upon receiving a direct request from a consumer under subparagraph (A)(i), if the consumer requests a temporary removal of a security freeze, the consumer reporting agency shall, in accordance with subparagraph (C), remove the security freeze for the period of time specified by the consumer.
+
+#### (4) Exceptions
+
+&emsp;A security freeze shall not apply to the making of a consumer report for use of the following:
+
+&emsp;&emsp;(A) A person or entity, or a subsidiary, affiliate, or agent of that person or entity, oran assignee of a financial obligation owed by the consumer to that person or entity, or a prospective assignee of a financial obligation owed by the consumer to that person or entity in conjunction with the proposed purchase of the financial obligation, with which the consumer has or had prior to assignment an account or contract including a demand deposit account, or to whom the consumer issued a negotiable instrument, for the purposes of reviewing the account or collecting the financial obligation owed for the account, contract, or negotiable instrument. For purposes of this subparagraph, "reviewing the account" includes activities related to account maintenance, monitoring, credit line increases, and account upgrades and enhancements.
+
+&emsp;&emsp;(B) Any Federal, State, or local agency, law enforcement agency, trial court, or private collection agency acting pursuant to a court order, warrant, or subpoena.
+
+&emsp;&emsp;(C) A child support agency acting pursuant to part D of title IV of the Social Security Act (42 U.S.C. 651 et seq.).
+
+&emsp;&emsp;(D) A Federal agency or a State or its agents or assigns acting to investigate fraud or acting to investigate or collect delinquent taxes or unpaid court orders or to fulfill any of its other statutory responsibilities, provided such responsibilities are consistent with a permissible purpose under section 1681b of this title.
+
+&emsp;&emsp;(E) By a person using credit information for the purposes described under section 1681b(c) of this title.
+
+&emsp;&emsp;(F) Any person or entity administering a credit file monitoring subscription or similar service to which the consumer has subscribed.
+
+&emsp;&emsp;(G) Any person or entity for the purpose of providing a consumer with a copy of the consumer's consumer report or credit score, upon the request of the consumer.
+
+&emsp;&emsp;(H) Any person using the information in connection with the underwriting of insurance.
+
+&emsp;&emsp;(I) Any person using the information for employment, tenant, or background screening purposes.
+
+&emsp;&emsp;(J) Any person using the information for assessing, verifying, or authenticating a consumer's identity for purposes other than the granting of credit, or for investigating or preventing actual or potential fraud.
+
+#### (5) Notice of rights
+
+&emsp;At any time a consumer is required to receive a summary of rights required under section 1681g of this title, the following notice shall be included:
+
+"Consumers Have the Right To Obtain a Security Freeze
+
+"You have a right to place a 'security freeze' on your credit report, which will prohibit a consumer reporting agency from releasing information in your credit report without your express authorization. The security freeze is designed to prevent credit, loans, and services from being approved in your name without your consent. However, you should be aware that using a security freeze to take control over who gets access to the personal and financial information in your credit report may delay, interfere with, or prohibit the timely approval of any subsequent request or application you make regarding a new loan, credit, mortgage, or any other account involving the extension of credit.
+
+"As an alternative to a security freeze, you have the right to place an initial or extended fraud alert on your credit file at no cost. An initial fraud alert is a 1-year alert that is placed on a consumer's credit file. Upon seeing a fraud alert display on a consumer's credit file, a business is required to take steps to verify the consumer's identity before extending new credit. If you are a victim of identity theft, you are entitled to an extended fraud alert, which is a fraud alert lasting 7 years.
+
+"A security freeze does not apply to a person or entity, or its affiliates, or collection agencies acting on behalf of the person or entity, with which you have an existing account that requests information in your credit report for the purposes of reviewing or collecting the account. Reviewing the account includes activities related to account maintenance, monitoring, credit line increases, and account upgrades and enhancements.".
+
+#### (6) Webpage
+
+#### (A) Consumer reporting agencies
+
+&emsp;&emsp;A consumer reporting agency shall establish a webpage that—
+
+&emsp;&emsp;&emsp;(i) allows a consumer to request a security freeze;
+
+&emsp;&emsp;&emsp;(ii) allows a consumer to request an initial fraud alert;
+
+&emsp;&emsp;&emsp;(iii) allows a consumer to request an extended fraud alert;
+
+&emsp;&emsp;&emsp;(iv) allows a consumer to request an active duty fraud alert;
+
+&emsp;&emsp;&emsp;(v) allows a consumer to opt-out of the use of information in a consumer report to send the consumer a solicitation of credit or insurance, in accordance with section 1681m(d) of this title; and
+
+&emsp;&emsp;&emsp;(vi) shall not be the only mechanism by which a consumer may request a security freeze.
+
+#### (B) FTC
+
+&emsp;&emsp;The Federal Trade Commission shall establish a single webpage that includes a link to each webpage established under subparagraph (A) within the Federal Trade Commission's website www.Identitytheft.gov, or a successor website.
+
+#### (j) National protection for files and credit records of protected consumers
+
+#### (1) Definitions
+
+&emsp;As used in this subsection:
+
+&emsp;&emsp;(A) The term "consumer reporting agency" means a consumer reporting agency described in section 1681a(p) of this title.
+
+&emsp;&emsp;(B) The term "protected consumer" means an individual who is—
+
+&emsp;&emsp;&emsp;(i) under the age of 16 years at the time a request for the placement of a security freeze is made; or
+
+&emsp;&emsp;&emsp;(ii) an incapacitated person or a protected person for whom a guardian or conservator has been appointed.
+
+&emsp;&emsp;(C) The term "protected consumer's representative" means a person who provides to a consumer reporting agency sufficient proof of authority to act on behalf of a protected consumer.
+
+&emsp;&emsp;(D) The term "record" means a compilation of information that—
+
+&emsp;&emsp;&emsp;(i) identifies a protected consumer;
+
+&emsp;&emsp;&emsp;(ii) is created by a consumer reporting agency solely for the purpose of complying with this subsection; and
+
+&emsp;&emsp;&emsp;(iii) may not be created or used to consider the protected consumer's credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living.
+
+&emsp;&emsp;(E) The term "security freeze" means a restriction that prohibits a consumer reporting agency from disclosing the contents of a consumer report that is the subject of such security freeze or, in the case of a protected consumer for whom the consumer reporting agency does not have a file, a record that is subject to such security freeze to any person requesting the consumer report for the purpose of opening a new account involving the extension of credit.
+
+&emsp;&emsp;(F) The term "sufficient proof of authority" means documentation that shows a protected consumer's representative has authority to act on behalf of a protected consumer and includes—
+
+&emsp;&emsp;&emsp;(i) an order issued by a court of law;
+
+&emsp;&emsp;&emsp;(ii) a lawfully executed and valid power of attorney;
+
+&emsp;&emsp;&emsp;(iii) a document issued by a Federal, State, or local government agency in the United States showing proof of parentage, including a birth certificate; or
+
+&emsp;&emsp;&emsp;(iv) with respect to a protected consumer who has been placed in a foster care setting, a written communication from a county welfare department or its agent or designee, or a county probation department or its agent or designee, certifying that the protected consumer is in a foster care setting under its jurisdiction.
+
+&emsp;&emsp;(G) The term "sufficient proof of identification" means information or documentation that identifies a protected consumer and a protected consumer's representative and includes—
+
+&emsp;&emsp;&emsp;(i) a social security number or a copy of a social security card issued by the Social Security Administration;
+
+&emsp;&emsp;&emsp;(ii) a certified or official copy of a birth certificate issued by the entity authorized to issue the birth certificate; or
+
+&emsp;&emsp;&emsp;(iii) a copy of a driver's license, an identification card issued by the motor vehicle administration, or any other government issued identification.
+
+#### (2) Placement of security freeze for a protected consumer
+
+#### (A) In general
+
+&emsp;&emsp;Upon receiving a direct request from a protected consumer's representative that a consumer reporting agency place a security freeze, and upon receiving sufficient proof of identification and sufficient proof of authority, the consumer reporting agency shall, free of charge, place the security freeze not later than—
+
+&emsp;&emsp;&emsp;(i) in the case of a request that is by toll-free telephone or secure electronic means, 1 business day after receiving the request directly from the protected consumer's representative; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a request that is by mail, 3 business days after receiving the request directly from the protected consumer's representative.
+
+#### (B) Confirmation and additional information
+
+&emsp;&emsp;Not later than 5 business days after placing a security freeze under subparagraph (A), a consumer reporting agency shall—
+
+&emsp;&emsp;&emsp;(i) send confirmation of the placement to the protected consumer's representative; and
+
+&emsp;&emsp;&emsp;(ii) inform the protected consumer's representative of the process by which the protected consumer may remove the security freeze, including a mechanism to authenticate the protected consumer's representative.
+
+#### (C) Creation of file
+
+&emsp;&emsp;If a consumer reporting agency does not have a file pertaining to a protected consumer when the consumer reporting agency receives a direct request under subparagraph (A), the consumer reporting agency shall create a record for the protected consumer.
+
+#### (3) Prohibition on release of record or file of protected consumer
+
+&emsp;After a security freeze has been placed under paragraph (2)(A), and unless the security freeze is removed in accordance with this subsection, a consumer reporting agency may not release the protected consumer's consumer report, any information derived from the protected consumer's consumer report, or any record created for the protected consumer.
+
+#### (4) Removal of a protected consumer security freeze
+
+#### (A) In general
+
+&emsp;&emsp;A consumer reporting agency shall remove a security freeze placed on the consumer report of a protected consumer only in the following cases:
+
+&emsp;&emsp;&emsp;(i) Upon the direct request of the protected consumer's representative.
+
+&emsp;&emsp;&emsp;(ii) Upon the direct request of the protected consumer, if the protected consumer is not under the age of 16 years at the time of the request.
+
+&emsp;&emsp;&emsp;(iii) The security freeze was placed due to a material misrepresentation of fact by the protected consumer's representative.
+
+#### (B) Notice if removal not by request
+
+&emsp;&emsp;If a consumer reporting agency removes a security freeze under subparagraph (A)(iii), the consumer reporting agency shall notify the protected consumer's representative in writing prior to removing the security freeze.
+
+#### (C) Removal of freeze by request
+
+&emsp;&emsp;Except as provided in subparagraph (A)(iii), a security freeze shall remain in place until a protected consumer's representative or protected consumer described in subparagraph (A)(ii) directly requests that the security freeze be removed. Upon receiving a direct request from the protected consumer's representative or protected consumer described in subparagraph (A)(ii) that a consumer reporting agency remove a security freeze, and upon receiving sufficient proof of identification and sufficient proof of authority, the consumer reporting agency shall, free of charge, remove the security freeze not later than—
+
+&emsp;&emsp;&emsp;(i) in the case of a request that is by toll-free telephone or secure electronic means, 1 hour after receiving the request for removal; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a request that is by mail, 3 business days after receiving the request for removal.
+
+#### (D) Temporary removal of security freeze
+
+&emsp;&emsp;Upon receiving a direct request from a protected consumer or a protected consumer's representative under subparagraph (A)(i), if the protected consumer or protected consumer's representative requests a temporary removal of a security freeze, the consumer reporting agency shall, in accordance with subparagraph (C), remove the security freeze for the period of time specified by the protected consumer or protected consumer's representative.
+
+(Pub. L. 90–321, title VI, §605A, as added Pub. L. 108–159, title I, §112(a), Dec. 4, 2003, 117 Stat. 1955; amended Pub. L. 111–203, title X, §1088(a)(2)(C), July 21, 2010, 124 Stat. 2087; Pub. L. 115–174, title III, §§301(a), 302(d)(1), May 24, 2018, 132 Stat. 1326, 1334.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–174, title III, §302(d)(1), (e), May 24, 2018, 132 Stat. 1334, 1335, provided that, effective 1 year after May 24, 2018, this section is amended by adding at the end the following new subsection:</i>
+
+#### <i>(k) Credit monitoring</i>
+
+#### <i>(1) Definitions</i>
+
+&emsp;<i>In this subsection:</i>
+
+&emsp;&emsp;<i>(A) The term "active duty military consumer" includes a member of the National Guard.</i>
+
+&emsp;&emsp;<i>(B) The term "National Guard" has the meaning given the term in section 101(c) of title 10.</i>
+
+#### <i>(2) Credit monitoring</i>
+
+&emsp;<i>A consumer reporting agency described in section 1681a(p) of this title shall provide a free electronic credit monitoring service that, at a minimum, notifies a consumer of material additions or modifications to the file of the consumer at the consumer reporting agency to any consumer who provides to the consumer reporting agency—</i>
+
+&emsp;&emsp;<i>(A) appropriate proof that the consumer is an active duty military consumer; and</i>
+
+&emsp;&emsp;<i>(B) contact information of the consumer.</i>
+
+#### <i>(3) Rulemaking</i>
+
+&emsp;<i>Not later than 1 year after May 24, 2018, the Federal Trade Commission shall promulgate regulations regarding the requirements of this subsection, which shall at a minimum include—</i>
+
+&emsp;&emsp;<i>(A) a definition of an electronic credit monitoring service and material additions or modifications to the file of a consumer; and</i>
+
+&emsp;&emsp;<i>(B) what constitutes appropriate proof.</i>
+
+#### <i>(4) Applicability</i>
+
+&emsp;<i>(A) Sections 1681n and 1681</i>o of this title shall not apply to any violation of this subsection.
+
+&emsp;<i>(B) This subsection shall be enforced exclusively under section 1681s of this title by the Federal agencies and Federal and State officials identified in that section.</i>
+
+<i>See 2018 Amendment note below.</i>
 
 #### References in Text
 
 Section 1602(i) of this title, referred to in subsec. (h), was redesignated section 1602(j) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
+The Social Security Act, referred to in subsec. (i)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part D of title IV of the Act is classified generally to part D (§651 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
 #### Amendments
 
+<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–174, §301(a)(1), substituted "1 year" for "90 days".
+
+Subsecs. (i), (j). Pub. L. 115–174, §301(a)(2), added subsecs. (i) and (j).
+
+Subsec. (k). Pub. L. 115–174, §302(d)(1), added subsec. (k).
+
 <b>2010</b>—Subsecs. (c)(1), (g). Pub. L. 111–203 substituted "the Bureau" for "the Commission".
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–174, title III, §301(c), May 24, 2018, 132 Stat. 1332, provided that: "The amendments made by this section \[amending this section and section 1681t of this title\] shall take effect on the date that is 120 days after the date of enactment of this Act \[May 24, 2018\]."
+
+Amendment by section 302(d)(1) of Pub. L. 115–174 effective 1 year after May 24, 2018, see section 302(e) of Pub. L. 115–174, set out as a note under section 1681a of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -126,7 +402,7 @@ Pub. L. 108–159, title I, §112(b), Dec. 4, 2003, 117 Stat. 1959, as amended b
 
 #### Public Campaign To Prevent Identity Theft
 
-Pub. L. 108–159, title I, §151(b), Dec. 4, 2003, 117 Stat. 1964, provided that: "Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2003\], the Commission shall establish and implement a media and distribution campaign to teach the public how to prevent identity theft. Such campaign shall include existing Commission education materials, as well as radio, television, and print public service announcements, video cassettes, interactive digital video discs (DVD's) or compact audio discs (CD's), and Internet resources."
+Pub. L. 108–159, title I, §151(b), Dec. 4, 2003, 117 Stat. 1964, provided that: "Not later than 2 years after thedate of enactment of this Act \[Dec. 4, 2003\], the Commission shall establish and implement a media and distribution campaign to teach the public how to prevent identity theft. Such campaign shall include existing Commission education materials, as well as radio, television, and print public service announcements, video cassettes, interactive digital video discs (DVD's) or compact audio discs (CD's), and Internet resources."
 
 \[For definitions of terms used in section 151(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
 

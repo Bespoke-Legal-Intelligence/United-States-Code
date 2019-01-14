@@ -138,7 +138,7 @@ In subsection (a)(2), the words "Secretary of the Treasury" are substituted for 
 
 In subsection (a)(3), the words "numismatic items" are retained and used throughout the revised title to apply to medals, proof coins, uncirculated coins, numismatic accessories, and other numismatic items to eliminate unnecessary words and for consistency. The words "In connection with the operations of the Bureau of the Mint" are omitted as unnecessary because of the restatement. The text of 31:324h(last sentence) is omitted as unnecessary because of the source provisions restated in section 5132(a) of the revised title.
 
-In subsection (a)(4), the words "may mint" are substituted for "It shall be lawful for coinage to be executed" in 31:367, and the words "regular minting operations" are substituted for "required coinage of the United States", for consistency in the revised section. The words "at the mints of the United States" and "according to the legally prescribed standards and devices of such country" are omitted as unnecessary because of the restatement. The words "The Secretary of the Treasury . . . shall prescribe a charge" are substituted for "the charge . . . to be fixed by the Director of theMint, with the approval of the Secretary of the Treasury" because of the source provisions restated in section 321(c) of the revised title. The words "minting the foreign coins" are substituted for "the same", for clarity. The words "under such regulations as the Secretary of the Treasury may prescribe" are omitted as unnecessary because of section 321(b) of the revised title.
+In subsection (a)(4), the words "may mint" are substituted for "It shall be lawful for coinage to be executed" in 31:367, and the words "regular minting operations" are substituted for "required coinage of the United States", for consistency in the revised section. The words "at the mints of the United States" and "according to the legally prescribed standards and devices of such country" are omitted as unnecessary because of the restatement. The words "The Secretary of the Treasury . . . shall prescribe a charge" are substituted for "the charge . . . to be fixed by the Director of the Mint, with the approval of the Secretary of the Treasury" because of the source provisions restated in section 321(c) of the revised title. The words "minting the foreign coins" are substituted for "the same", for clarity. The words "under such regulations as the Secretary of the Treasury may prescribe" are omitted as unnecessary because of section 321(b) of the revised title.
 
 In subsection (b), the first sentence is added for clarity and because of the restatement. The words "amount by which the nominal value of the coins minted from the metal exceeds the cost of the metal" are substituted for "gain arising from the coinage of metals purchased out of such fund into coin of a nominal value exceeding the cost of such metals" to eliminate unnecessary words. The words "The Secretary shall deposit in the Treasury as miscellaneous receipts excess amounts in the coinage profit fund" are substituted for "such sums as shall from time to time be transferred therefrom to the general fund of the Treasury" for clarity and for consistency in the revised title.
 
@@ -167,6 +167,16 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 
 Provisions authorizing commemorative medals were contained in the following acts:
+
+Pub. L. 115–415, Jan. 3, 2019, 132 Stat. 5433, recognizing Stephen Michael Gleason.
+
+Pub. L. 115–338, Dec. 20, 2018, 132 Stat. 5033, recognizing the crew of the USS Indianapolis.
+
+Pub. L. 115–337, Dec. 20, 2018, 132 Stat. 5029, recognizing Chinese-American Veterans of World II.
+
+Pub. L. 115–322, Dec. 17, 2018, 132 Stat. 4440, recognizing Larry Doby.
+
+Pub. L. 115–310, Dec. 13, 2018, 132 Stat. 4424, recognizing Anwar Sadat.
 
 Pub. L. 115–60, Sept. 15, 2017, 131 Stat. 1154, recognizing Bob Dole.
 
@@ -230,7 +240,7 @@ Pub. L. 109–287, Sept. 27, 2006, 120 Stat. 1231, recognizing the Fourteenth Da
 
 Pub. L. 109–213, Apr. 11, 2006, 120 Stat. 322, recognizing the Tuskegee Airmen.
 
-Pub. L. 108–447, div. B, title I, §124, Dec. 8, 2004, 118 Stat. 2871; Pub. L. 109–13, div. A, title VI, §6060, May 11, 2005, 119 Stat. 297, recognizing members of public safety agencies killed in the terrorist attacks in the United States on Sept. 11, 2001.
+Pub. L. 108–447, div. B, title I, §124, Dec. 8, 2004, 118 Stat. 2871; Pub. L. 109–13, div. A, title VI, §6060, May 11, 2005, 119 Stat. 297; Pub. L. 115–276, Nov. 3, 2018, 132 Stat. 4166, recognizing members of public safety organizations who were killed in, or died as a result of, the terrorist attacks in the United States on Sept. 11, 2001.
 
 Pub. L. 108–368, Oct. 25, 2004, 118 Stat. 1746; Pub. L. 113–118, §2, June 9, 2014, 128 Stat. 1183, recognizing Reverend Doctor Martin Luther King, Jr., and his widow Coretta Scott King.
 

@@ -10,7 +10,7 @@ The Administrator shall undertake a systematic study of the composition of the s
 
 #### (c) Priorities study
 
-For purposes of determining priorities for research on recovery of materials and energy from solid waste and developing materials and energy recovery research, development, and demonstration strategies, the Administrator shall review, and make a study of, the various existing and promising techniques of energy recovery from solid waste (including, but not limited to, waterwall furnace incinerators, dry shredded fuel systems, pyrolysis, densified refuse-derived fuel systems, anerobic digestion, and fuel and feedstock preparation systems). In carrying out such study the Administrator shall investigate with respect to each such technique—
+For purposes of determining priorities for research on recovery of materials and energy fromsolid waste and developing materials and energy recovery research, development, and demonstration strategies, the Administrator shall review, and make a study of, the various existing and promising techniques of energy recovery from solid waste (including, but not limited to, waterwall furnace incinerators, dry shredded fuel systems, pyrolysis, densified refuse-derived fuel systems, anerobic digestion, and fuel and feedstock preparation systems). In carrying out such study the Administrator shall investigate with respect to each such technique—
 
 &emsp;(1) the degree of public need for the potential results of such research, development, or demonstration,
 
@@ -74,7 +74,7 @@ The Administrator shall conduct research and report on the economics of, and imp
 
 &emsp;(A) the appropriateness of recommended incentives and disincentives to foster resource conservation;
 
-&emsp;(B) the effect of existing public policies (including subsidies and economic incentives and disincentives, percentage depletion allowances, capital gains treatment and other tax incentives and disincentives) upon resource conservation, and the likely effect of the modification or elimination of such incentives and disincentives upon resource conservation;
+&emsp;(B) the effect of existing public policies (including subsidies and economic incentives anddisincentives, percentage depletion allowances, capital gains treatment and other tax incentives and disincentives) upon resource conservation, and the likely effect of the modification or elimination of such incentives and disincentives upon resource conservation;
 
 &emsp;(C) the appropriateness and feasibility of restricting the manufacture or use of categories of consumer products as a resource conservation strategy;
 
@@ -156,7 +156,7 @@ The Administrator shall conduct a detailed and comprehensive study and submit a 
 
 #### (o) Cement kiln dust waste
 
-The Administrator shall conduct a detailed and comprehensive study of the adverse effectson human health and the environment, if any, of the disposal of cement kiln dust waste. Such study shall include an analysis of—
+The Administrator shall conduct a detailed and comprehensive study of the adverse effects on human health and the environment, if any, of the disposal of cement kiln dust waste. Such study shall include an analysis of—
 
 &emsp;(1) the source and volumes of such materials generated per year;
 
@@ -204,7 +204,7 @@ There are authorized to be appropriated not to exceed $8,000,000 for the fiscal 
 
 #### (r) Minimization of hazardous waste
 
-The Administrator shall compile, and not later than October 1, 1986, submit to the Congress, a report on the feasibility and desirability of establishing standards of performance or of taking other additional actions under this chapter to require the generators of hazardous waste to reduce the volume or quantity and toxicity of the hazardous waste they generate, and of establishing with respect to hazardous wastes required management practices or other requirements to assure such wastes are managed in ways that minimize present and future risks to human health and the environment. Such report shall include any recommendations for legislative changes which the Administrator determines are feasible and desirable to implement the national policy established by section 6902 of this title.
+The Administrator shall compile, and not later than October 1, 1986, submit to the Congress, a report on the feasibility and desirabilityof establishing standards of performance or of taking other additional actions under this chapter to require the generators of hazardous waste to reduce the volume or quantity and toxicity of the hazardous waste they generate, and of establishing with respect to hazardous wastes required management practices or other requirements to assure such wastes are managed in ways that minimize present and future risks to human health and the environment. Such report shall include any recommendations for legislative changes which the Administrator determines are feasible and desirable to implement the national policy established by section 6902 of this title.
 
 #### (s) Extending landfill life and reusing landfilled areas
 
@@ -224,7 +224,7 @@ The Administrator shall conduct detailed, comprehensive studies of methods to ex
 
 &emsp;(7) methods to coordinate use of a landfill owned by one municipality by nearby municipalities, and to establish equitable rates for such use, taking into account the need to provide future landfill capacity to replace that so used.
 
-> The Administrator is authorized to conduct demonstrations in the areas of study provided in this subsection. The Administrator shall periodically report on the results of such studies, with the first such report not later than October1, 1986. In carrying out this subsection, the Administrator need not duplicate other studies which have been completed and may rely upon information which has previously been compiled.
+> The Administrator is authorized to conduct demonstrations in the areas of study provided in this subsection. The Administrator shall periodically report on the results of such studies, with the first such report not later than October 1, 1986. In carrying out this subsection, the Administrator need not duplicate other studies which have been completed and may rely upon information which has previously been compiled.
 
 (Pub. L. 89–272, title II, §8002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2831; amended Pub. L. 95–609, §7(t), Nov. 8, 1978, 92 Stat. 3083; H. Res. 549, Mar. 25, 1980; Pub. L. 96–482, §29, Oct. 21, 1980, 94 Stat. 2349; Pub. L. 98–616, title II, §224(c), title VII, §702, Nov. 8, 1984, 98 Stat. 3253, 3289.)
 

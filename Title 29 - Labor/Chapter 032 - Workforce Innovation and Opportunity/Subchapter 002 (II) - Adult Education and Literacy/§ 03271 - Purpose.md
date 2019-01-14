@@ -62,7 +62,7 @@ Sec. 4. <i>Membership and Operation of the Working Group</i>.
 
 (ii) the Secretary of the Treasury, the Attorney General, and the Secretaries of the Interior, Labor, Health and Human Services, Housing and Urban Development, and Veterans Affairs; and
 
-(iii) other officers or full-time or permanent part-time employees of the United States, as determined bythe Chair, with the concurrence of the head of the agency concerned.
+(iii) other officers or full-time or permanent part-time employees of the United States, as determined by the Chair, with the concurrence of the head of the agency concerned.
 
 (b) The Chair, or the Chair's designee under subsection (c) of this section, in implementing section 5 of this order, shall convene and preside at the meetings of the Working Group, determine its agenda, direct its work, and establish and direct subgroups of the Working Group, as appropriate to deal with particular subject matters, that shall consist exclusively of members of the Working Group or their designees under subsection (c) of this section.
 
@@ -100,7 +100,7 @@ Sec. 5. <i>Functions of the Working Group</i>. Consistent with the policy set fo
 
 (e) at the request of the head of an agency, unless the Chair declines the request, promptly review and provide advice on a proposed action by that agency relating to adult education; and
 
-(f) report to the President, through the Assistant to the President for Domestic Policy, on its work, and on the implementation of any recommendations arising from its work, at such times and in such formats as the Chair may specify, with the first such report to be submitted no later than 9 months after the date of this order.
+(f) report to the President, through the Assistant to the President for Domestic Policy, on its work, and onthe implementation of any recommendations arising from its work, at such times and in such formats as the Chair may specify, with the first such report to be submitted no later than 9 months after the date of this order.
 
 Sec. 6. <i>Administration of the Working Group</i>. (a) To the extent permitted by law, the Department of Education shall provide the funding and administrative support the Working Group needs, as determined by the Chair, to implement this order.
 

@@ -60,11 +60,11 @@ Failures of Selection.—An officer covered by this section who, on the day befo
 
 "(c)
 
-Officers Other Than Covered Officers Recommended for Promotion.—A reserve officer of the Navy or Marine Corps who on the day before the effective date of this title (1) has been recommended for promotion in the approved report of a selection board convened under chapter 549 of title 10, United States Code, and (2) was on the active-duty list of the Navy or Marine Corps may be promoted under that chapter, as in effect on the day before the effective date of this title.
+Officers Other Than Covered Officers Recommended for Promotion.—A reserve officer of the Navy or Marine Corps who on the day before the effective date of this title (1) has been recommended for promotion in the approved report of a selection board convened under chapter 549 of title 10, United States Code,and (2) was on the active-duty list of the Navy or Marine Corps may be promoted under that chapter, as in effect on the day before the effective date of this title.
 
 "(d)
 
-Officers Found Qualified for Promotion to Lieutenant (Junior Grade) or First Lieutenant.—A covered officer who, on the effective date of this title, holds the grade of second lieutenant and has been found qualified for promotion in accordance with section 5908 or 5910 of title 10, United States Code, as in effect on the day before the effective date of this title, shall be promoted on the date on which the officer would havebeen promoted under the provisions of chapter 549 of such title, as in effect on the day before the effective date of this title, unless sooner promoted under regulations prescribed by the Secretary of the Navy under section 14307(b) of such title, as added by this title.
+Officers Found Qualified for Promotion to Lieutenant (Junior Grade) or First Lieutenant.—A covered officer who, on the effective date of this title, holds the grade of second lieutenant and has been found qualified for promotion in accordance with section 5908 or 5910 of title 10, United States Code, as in effect on the day before the effective date of this title, shall be promoted on the date on which the officer would have been promoted under the provisions of chapter 549 of such title, as in effect on the day before the effective date of this title, unless sooner promoted under regulations prescribed by the Secretary of the Navy under section 14307(b) of such title, as added by this title.
 
 "(e)
 

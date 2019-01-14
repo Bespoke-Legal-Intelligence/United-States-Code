@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—An employee of a private sector organization assigned to an agency underthis chapter is deemed, during the period of the assignment, to be on detail to such agency.
+In General.—An employee of a private sector organization assigned to an agency under this chapter is deemed, during the period of the assignment, to be on detail to such agency.
 
 (b)
 

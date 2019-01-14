@@ -2,7 +2,7 @@
 
 #### (a) Exclusive jurisdiction
 
-Except for review by the Supreme Court on writ of certiorari, the United States Court of Appeals for the District of Columbia Circuit shall have original and exclusive jurisdiction to determine—
+Except for review by the Supreme Court on writ of certiorari, the United States Court ofAppeals for the District of Columbia Circuit shall have original and exclusive jurisdiction to determine—
 
 &emsp;(1) the validity of any final order or action (including a failure to act) of any Federal agency or officer under this chapter;
 
@@ -36,7 +36,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original "this div
 
 The Endangered Species Act of 1973, referred to in subsec. (a)(3)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(3)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to theCode, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(3)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (a)(3)(E), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
 

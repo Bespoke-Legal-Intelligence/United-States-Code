@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall provide through the CO–OP program for the awarding to personsapplying to become qualified nonprofit health insurance issuers of—
+&emsp;The Secretary shall provide through the CO–OP program for the awarding to persons applying to become qualified nonprofit health insurance issuers of—
 
 &emsp;&emsp;(A) loans to provide assistance to such person in meeting its start-up costs; and
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(i) take into account the recommendations of the advisory board established under paragraph (3);
 
-&emsp;&emsp;&emsp;(ii) give priority to applicants that will offer qualified health plans on a Statewide basis, will utilize integrated care models, and have significant private support; and
+&emsp;&emsp;&emsp;(ii) give priority to applicants that will offer qualified health plans on a Statewidebasis, will utilize integrated care models, and have significant private support; and
 
 &emsp;&emsp;&emsp;(iii) ensure that there is sufficient funding to establish at least 1 qualified nonprofit health insurance issuer in each State, except that nothing in this clause shall prohibit the Secretary from funding the establishment of multiple qualified nonprofit health insurance issuers in any State if the funding is sufficient to do so.
 
@@ -192,7 +192,7 @@ No representative of any Federal, State, or local government (or of any politica
 
 #### (2) Competition
 
-&emsp;Nothing in this section shall be construed as authorizing the Secretary to interfere with the competitive nature of providing health benefits through qualified nonprofit health insurance issuers.
+&emsp;Nothing in this section shall be construed as authorizing the Secretary to interfere withthe competitive nature of providing health benefits through qualified nonprofit health insurance issuers.
 
 #### (g) Appropriations
 

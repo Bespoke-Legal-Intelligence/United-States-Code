@@ -48,7 +48,7 @@ In this section, the term "local development district" means an entity that—
 
 #### (B) Maximum period
 
-&emsp;&emsp;No grant described in paragraph (1) shall be awarded to a State agency certified as a local development district for a period greater than 3 years.
+&emsp;&emsp;No grant described in paragraph (1) shall be awarded to a State agency certified as alocal development district for a period greater than 3 years.
 
 #### (C) Local share
 
@@ -68,9 +68,11 @@ A local development district shall—
 
 &emsp;&emsp;(C) provide leadership and civic development assistance.
 
-(Pub. L. 87–128, title III, §382E, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–276; amended Pub. L. 107–171, title VI, §6027(e), May 13, 2002, 116 Stat. 374.)
+(Pub. L. 87–128, title III, §382E, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–276; amended Pub. L. 107–171, title VI, §6027(e), May 13, 2002, 116 Stat. 374; Pub. L. 115–334, title VI, §6701(g), Dec. 20, 2018, 132 Stat. 4779.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(B)(iv). Pub. L. 115–334 realigned margins.
 
 <b>2002</b>—Subsec. (b)(1). Pub. L. 107–171 substituted "Authority shall" for "Authority may".
 

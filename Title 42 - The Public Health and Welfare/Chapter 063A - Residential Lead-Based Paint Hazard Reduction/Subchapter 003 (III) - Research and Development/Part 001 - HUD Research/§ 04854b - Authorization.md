@@ -1,6 +1,6 @@
 ### §4854b. Authorization
 
-Of the total amount approved in appropriation Acts under section 4852(o) <sup>1</sup> of this title, there shall be set aside to carry out this part $5,000,000for fiscal year 1993, and $5,000,000 for fiscal year 1994.
+Of the total amount approved in appropriation Acts under section 4852(o) <sup>1</sup> of this title, there shall be set aside to carry out this part $5,000,000 for fiscal year 1993, and $5,000,000 for fiscal year 1994.
 
 (Pub. L. 102–550, title X, §1053, Oct. 28, 1992, 106 Stat. 3926.)
 

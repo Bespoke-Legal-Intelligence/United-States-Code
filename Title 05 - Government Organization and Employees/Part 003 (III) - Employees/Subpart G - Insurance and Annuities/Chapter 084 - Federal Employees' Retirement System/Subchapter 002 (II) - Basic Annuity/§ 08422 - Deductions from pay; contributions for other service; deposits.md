@@ -67,7 +67,7 @@
 
 (2) Deposit may not be required for days of unused sick leave credited under paragraph (1) or (2) of section 8415(m).
 
-(e)(1)(A) Except as provided in subparagraph (B), and subject to paragraph (6), each employee or Member who has performed military service before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office shall issue, to the agency by which the employee is employed, or, in the case of a Member or a Congressional employee, to the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, an amount equal to 3 percent of the amount of the basic pay paid under section204 of title 37 to the employee or Member for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the employee or Member may provide, or if the Office determines sufficient evidence has not been so provided to adequately determine basic pay for military service, such payment shall be based on estimates of such basic pay provided to the Office under paragraph (4).
+(e)(1)(A) Except as provided in subparagraph (B), and subject to paragraph (6), each employee or Member who has performed military service before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office shall issue, to the agency by which the employee is employed, or, in the case of a Member or a Congressional employee, to the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, an amount equal to 3 percent of the amount of the basic pay paid under section 204 of title 37 to the employee or Member for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the employee or Member may provide, or if the Office determines sufficient evidence has not been so provided to adequately determine basic pay for military service, such payment shall be based on estimates of such basic pay provided to the Office under paragraph (4).
 
 (B) In any case where military service interrupts creditable civilian service under this subchapter and reemployment pursuant to chapter 43 of title 38 occurs on or after August 1, 1990, the deposit payable under this paragraph may not exceed the amount that would have been deducted and withheld under subsection (a)(1) from basic pay during civilian service if the employee had not performed the period of military service.
 
@@ -91,6 +91,12 @@
 
 &emsp;(B) January 1, 2000, through December 31, 2000, shall be 3.4 percent.
 
+(7)(A) In calculating and processing the deposit under paragraph (1) with respect to an employee, Member, or annuitant, if the employing agency of such employee, Member, or annuitant makes an administrative error, such employing agency may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
+
+(B) For purposes of subparagraph (A), the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, shall be considered the employing agency of a Member or Congressional employee.
+
+(C) The Director of the Office of Personnel Management shall issue such regulations as are necessary to carry out this paragraph.
+
 (f)(1) Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B,<sup>1</sup> or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 3 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Service Act of 1964 or section 5(c) or 6(1) of the Peace Corps Act or the stipend paid to the employee or Member under part A, B,<sup>1</sup> or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader. This paragraph shall be subject to paragraph (4).
 
 (2) Any deposit made under paragraph (1) more than 2 years after the later of—
@@ -109,17 +115,25 @@
 
 &emsp;(B) January 1, 2000, through December 31, 2000, shall be 3.4 percent.
 
+(5)(A) In calculating and processing the deposit under paragraph (1) with respect to an employee, Member, or annuitant, if an employing agency of such employee, Member, or annuitant makes an administrative error that causes additional interest assessed to accrue on the deposit, the employee, Member, or annuitant's employing agency may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
+
+(B) In calculating and processing the deposit under paragraph (1) with respect to an employee, Member, or annuitant, if the Office of Personnel Management makes an administrative error that causes additional interest assessed to accrue on the deposit, the Office of Personnel Management may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
+
+(C) For purposes of subparagraph (A), the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, shall be considered the employing agency of a Member or congressional employee.
+
+(D) The Director of the Office of Personnel Management shall issue such regulations as are necessary to carry out this paragraph.
+
 (g) A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under section 8334(e).
 
 (h) No deposit may be made with respect to service credited under section 8411(b)(6).
 
 (i)(1) Each employee or Member who has received a refund of retirement deductions under this or any other retirement system established for employees of the Government covering service for which such employee or Member may be allowed credit under this chapter may deposit the amount received, with interest. Credit may not be allowed for the service covered by the refund until the deposit is made.
 
-(2) Interest under this subsection shall be computed in accordance with paragraphs (2) and (3) of section 8334(e) and regulations prescribed bythe Office. The option under the third sentence of section 8334(e)(2) to make a deposit in one or more installments shall apply to deposits under this subsection.
+(2) Interest under this subsection shall be computed in accordance with paragraphs (2) and (3) of section 8334(e) and regulations prescribed by the Office. The option under the third sentence of section 8334(e)(2) to make a deposit in one or more installments shall apply to deposits under this subsection.
 
 (3) For the purpose of survivor annuities, deposits authorized by this subsection may also be made by a survivor of an employee or Member.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, §3154(i)(1), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–52; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title XI, §1132(b)(2)(A), (B), Dec. 28, 2001, 115 Stat. 1243, 1244; Pub. L. 107–135, title I, §122(b), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(b), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(2)(A), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, §535(b)(4), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–84, div. A, title XIX, §§1901(b), 1904(a), (b)(2), (3)(A), Oct. 28, 2009, 123 Stat. 2615, 2616; Pub. L. 112–96, title V, §5001(b), (c)(2)(A), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, §401(b), Dec. 26, 2013, 127 Stat. 1184.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, §3154(i)(1), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–52; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title XI, §1132(b)(2)(A), (B), Dec. 28, 2001, 115 Stat. 1243, 1244; Pub. L. 107–135, title I, §122(b), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(b), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(2)(A), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, §535(b)(4), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–84, div. A, title XIX, §§1901(b), 1904(a), (b)(2), (3)(A), Oct. 28, 2009, 123 Stat. 2615, 2616; Pub. L. 112–96, title V, §5001(b), (c)(2)(A), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, §401(b), Dec. 26, 2013, 127 Stat. 1184; Pub. L. 115–352, §§2(b), 3(b), Dec. 21, 2018, 132 Stat. 5067, 5068.)
 
 #### References in Text
 
@@ -127,11 +141,15 @@ Section 3101(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)
 
 The Economic Opportunity Act of 1964, referred to in subsec. (f)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, §110, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, §603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§4951 et seq.) and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which was classified generally to part B (§4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat.394. Parts A and C of title I of the Act are classified generally to parts A (§4951 et seq.) and C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which was classified generally to part B (§4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, §2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
 The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(7). Pub. L. 115–352, §2(b), added par. (7).
+
+Subsec. (f)(5). Pub. L. 115–352, §3(b), added par. (5).
 
 <b>2013</b>—Subsec. (a)(3)(A). Pub. L. 113–67, §401(b)(1), inserted "or further revised annuity employees" after "revised annuity employees".
 
@@ -256,6 +274,10 @@ Amendment by Pub. L. 103–353 effective with respect to reemployments initiated
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, and applicable with respect to any individual entitled to an annuity on the basis of a separation from service occurring before, on, or after Oct. 1, 1993, subject to rule relating to annuities based on earlier separations, see sections 371(c) and 392 of Pub. L. 103–82, set out as notes under section 8332 of this title and section 4951 of Title 42, The Public Health and Welfare, respectively.
+
+#### Authorization of Payments
+
+Payments from the Office of Personnel Management authorized by section 3(b) of Pub. L. 115–352, which amended this section, to be paid from the Civil Service Retirement and Disability Fund, see section 3(c) of Pub. L. 115–352, set out as a note under section 8334 of this title.
 
 #### No Reduction in Agency Contributions
 

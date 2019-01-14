@@ -38,7 +38,7 @@ A State shall receive only 80 percent of the allotment that the State is otherwi
 
 &emsp;&emsp;(A) the methods or criteria that the State will use to identify and prioritize the public water systems most in need of improving technical, managerial, and financial capacity;
 
-&emsp;&emsp;(B) a description of the institutional, regulatory, financial, tax, or legal factors at the Federal, State, or local level that encourage or impair capacity development;
+&emsp;&emsp;(B) a description of the institutional, regulatory, financial, tax, or legal factors at theFederal, State, or local level that encourage or impair capacity development;
 
 &emsp;&emsp;(C) a description of how the State will use the authorities and resources of this subchapter or other means to—
 
@@ -48,13 +48,19 @@ A State shall receive only 80 percent of the allotment that the State is otherwi
 
 &emsp;&emsp;&emsp;(iii) assist public water systems in the training and certification of operators;
 
-&emsp;&emsp;(D) a description of how the State will establish a baseline and measure improvements in capacity with respect to national primary drinking water regulations and State drinking water law; and
+&emsp;&emsp;(D) a description of how the State will establish a baseline and measure improvements in capacity with respect to national primary drinking water regulations and State drinking water law;
 
-&emsp;&emsp;(E) an identification of the persons that have an interest in and are involved in the development and implementation of the capacity development strategy (including all appropriate agencies of Federal, State, andlocal governments, private and nonprofit public water systems, and public water system customers).
+&emsp;&emsp;(E) an identification of the persons that have an interest in and are involved in the development and implementation of the capacity development strategy (including all appropriate agencies of Federal, State, and local governments, private and nonprofit public water systems, and public water system customers); and
+
+&emsp;&emsp;(F) a description of how the State will, as appropriate—
+
+&emsp;&emsp;&emsp;(i) encourage development by public water systems of asset management plans that include best practices for asset management; and
+
+&emsp;&emsp;&emsp;(ii) assist, including through the provision of technical assistance, public water systems in training operators or other relevant and appropriate persons in implementing such asset management plans.
 
 #### (3) Report
 
-&emsp;Not later than 2 years after the date on which a State first adopts a capacity development strategy under this subsection, and every 3 years thereafter, the head of the State agency that has primary responsibility to carry out this subchapter in the State shall submit to the Governor a report that shall also be available to the public on the efficacy of the strategy and progress made toward improving the technical, managerial, and financial capacity of public water systems in the State.
+&emsp;Not later than 2 years after the date on which a State first adopts a capacity development strategy under this subsection, and every 3 years thereafter, the head of the State agency that has primary responsibility to carry out this subchapter in the State shall submit to the Governor a report that shall also be available to the public on the efficacy of the strategy and progress made toward improving the technical, managerial, and financial capacity of public water systems in the State, including efforts of the State to encourage development by public water systems of asset management plans and to assist public water systems in training relevant and appropriate persons in implementing such asset management plans.
 
 #### (4) Review
 
@@ -88,6 +94,10 @@ A State shall receive only 80 percent of the allotment that the State is otherwi
 
 &emsp;Not later than 2 years after August 6, 1996, the Administrator shall publish guidance developed in consultation with the States describing legal authorities and other means to ensure that all new community water systems and new nontransient, noncommunity water systems demonstrate technical, managerial, and financial capacity with respect to national primary drinking water regulations.
 
+#### (5) Information on asset management practices
+
+&emsp;Not later than 5 years after October 23, 2018, and not less often than every 5 years thereafter, the Administrator shall review and, if appropriate, update educational materials, including handbooks, training materials, and technical information, made available by the Administrator to owners, managers, and operators of public water systems, local officials, technical assistance providers (including nonprofit water associations), and State personnel concerning best practices for asset management strategies that may be used by public water systems.
+
 #### (e) Variances and exemptions
 
 Based on information obtained under subsection (c)(3), the Administrator shall, as appropriate, modify regulations concerning variances and exemptions for small public water systems to ensure flexibility in the use of the variances and exemptions. Nothing in this subsection shall be interpreted, construed, or applied to affect or alter the requirements of section 300g–4 or 300g–5 of this title.
@@ -96,7 +106,7 @@ Based on information obtained under subsection (c)(3), the Administrator shall, 
 
 #### (1) Grant program
 
-&emsp;The Administrator is authorized to make grants to institutions of higher learning to establish and operate small public water system technology assistance centers in the United States.
+&emsp;The Administrator is authorized to make grants to institutions of higher learning to establish and operate small public water systemtechnology assistance centers in the United States.
 
 #### (2) Responsibilities of the centers
 
@@ -152,5 +162,13 @@ Based on information obtained under subsection (c)(3), the Administrator shall, 
 
 &emsp;No portion of any funds made available under this subsection may be used for lobbying expenses.
 
-(July 1, 1944, ch. 373, title XIV, §1420, as added Pub. L. 104–182, title I, §119, Aug. 6, 1996, 110 Stat. 1647.)
+(July 1, 1944, ch. 373, title XIV, §1420, as added Pub. L. 104–182, title I, §119, Aug. 6, 1996, 110 Stat. 1647; amended Pub. L. 115–270, title II, §2012, Oct. 23, 2018, 132 Stat. 3849.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c)(2)(F). Pub. L. 115–270, §2012(1), added subpar. (F).
+
+Subsec. (c)(3). Pub. L. 115–270, §2012(2), inserted ", including efforts of the State to encourage development by public water systems of asset management plans and to assist public water systems in training relevant and appropriate persons in implementing such asset management plans" before period at end.
+
+Subsec. (d)(5). Pub. L. 115–270, §2012(3), added par. (5).
 

@@ -8,7 +8,7 @@ A taxpayer may file an application for a tentative carryback adjustment of the t
 
 &emsp;(2) The amount of the tax previously determined for the prior taxable year affected by such carryback, the tax previously determined being ascertained in accordance with the method prescribed in section 1314(a);
 
-&emsp;(3) The amount of decrease in such tax, attributable to such carryback, such decrease being determined by applying the carryback inthe manner provided by law to the items on the basis of which such tax was determined;
+&emsp;(3) The amount of decrease in such tax, attributable to such carryback, such decrease being determined by applying the carryback in the manner provided by law to the items on the basis of which such tax was determined;
 
 &emsp;(4) The unpaid amount of such tax, not including any amount required to be shown under paragraph (5);
 
@@ -50,7 +50,7 @@ If the corporation seeking a tentative carryback adjustment under this section, 
 
 #### (2) Allowance of adjustments
 
-&emsp;Within a period of 90 days from the date on which an application is filed under paragraph (1) or from the date of the overpayment (determined under section 1341(b)(1)), whichever is later, the Secretary shall—
+&emsp;Within a period of 90 days from the date on which an application is filed under paragraph\(1) or from the date of the overpayment (determined under section 1341(b)(1)), whichever is later, the Secretary shall—
 
 &emsp;&emsp;(A) review the application,
 
@@ -90,7 +90,7 @@ Subsecs. (b), (c). Pub. L. 98–369, §474(r)(37)(B), substituted "unused resear
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–34, §331(d)(2)(B), inserted in introductory provisions "by an employee stock ownership credit carryback provided by section 44G(b)(2)" after "section 44F(g)(2)," and substituted "unused research credit, or unused employee stock ownership credit" for "or unused research credit", "a research credit carryback, or employee stock ownership credit carryback" for "or a research credit carryback", and "new employee credit carryback, or, in the case of an employee stock ownership credit carryback, to an investment credit carryback, a new employee credit carryback or a research and experimental credit carryback)" for "new employee credit carryback)" and in par. (1) substituted "unused research credit, or unused employee stock ownership credit" for "or unused research credit".
 
-Pub. L. 97–34, §221(b)(2)(B), inserted in introductory provision "by a research credit carryback provided in section 44F(g)(2)," after "section 53(b)," and substituted "unused new employee credit, or unused research credit" for "or unused new employee credit", "a new employee credit carryback, or a research credit carryback" for "or a new employee credit carryback", and "work incentive program carryback, or, in the case of a research credit carryback, to an investment credit carryback, a work incentive program carryback, or new employee credit carryback)" for "work incentive program carryback)" and in par. (1) substituted "unused new employee credit, or unused research credit" for "or unused new employee credit".
+Pub. L. 97–34, §221(b)(2)(B), inserted in introductory provision "by a research credit carryback provided in section 44F(g)(2)," after "section 53(b)," and substituted "unused new employee credit, or unused research credit" for "or unused new employee credit", "a new employee credit carryback, or a research credit carryback" for "or a new employee credit carryback", and "work incentive program carryback, or, in the case of a research credit carryback, to an investment creditcarryback, a work incentive program carryback, or new employee credit carryback)" for "work incentive program carryback)" and in par. (1) substituted "unused new employee credit, or unused research credit" for "or unused new employee credit".
 
 Subsec. (b). Pub. L. 97–34, §331(d)(2)(B)(i), substituted "unused research credit, or unused employee stock ownership credit" for "or unused research credit".
 
@@ -118,7 +118,7 @@ Subsecs. (b), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delega
 
 <b>1971</b>—Pub. L. 92–178, §601(e)(1)(A), substituted "unused investment credit, or unused work incentive program credit" for "or unused investment credit" wherever appearing in subsecs. (a), (a)(1), (b), and (c).
 
-Subsec. (a). Pub. L. 92–178, §601(e)(1)(B) and (C), inserted "by a work incentive program carryback provided in section 50A(b)," after "section 46(b)," in firstsentence, and "or a work incentive program carryback" after "investment credit carryback" in second sentence, respectively.
+Subsec. (a). Pub. L. 92–178, §601(e)(1)(B) and (C), inserted "by a work incentive program carryback provided in section 50A(b)," after "section 46(b)," in first sentence, and "or a work incentive program carryback" after "investment credit carryback" in second sentence, respectively.
 
 <b>1969</b>—Subsec. (a). Pub. L. 91–172, §512(d)(1), (2), provided quick refund procedure, presently available in case of net operating loss carrybacks, to be made available in the case of the 3-year capital loss carryback, and substituted "net operating loss, net capital loss, or unused investment credit" for "net operating loss or unused investment credit" in par. (1).
 
@@ -168,7 +168,7 @@ Amendment by section 331(d)(2)(B) of Pub. L. 97–34 applicable to taxable years
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in theprovisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 90–225 applicable with respect to investment credit carry
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–721, §2(g), Nov. 2, 1966, 80 Stat. 1150, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[amending this section and section 6501 of this title\] shall apply with respect to taxable years ending after December 31, 1961, but only in the case of applications filed after the date of the enactment of this Act \[Nov. 2, 1966\]. The period of 12 months referred to in the second sentence of section 6411(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) for filing an application for a tentativecarryback adjustment of tax attributable to the carryback of any unused investment credit shall not expire before the close of December 31, 1966."
+Pub. L. 89–721, §2(g), Nov. 2, 1966, 80 Stat. 1150, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[amending this section and section 6501 of this title\] shall apply with respect to taxable years ending after December 31, 1961, but only in the case of applications filed after the date of the enactment of this Act \[Nov. 2, 1966\]. The period of 12 months referred to in the second sentence of section 6411(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) for filing an application for a tentative carryback adjustment of tax attributable to the carryback of any unused investment credit shall not expire before the close of December 31, 1966."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

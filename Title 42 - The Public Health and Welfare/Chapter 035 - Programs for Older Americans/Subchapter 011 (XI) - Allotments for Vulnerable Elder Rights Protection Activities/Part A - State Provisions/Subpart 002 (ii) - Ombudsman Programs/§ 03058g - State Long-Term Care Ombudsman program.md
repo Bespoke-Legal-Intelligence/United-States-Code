@@ -20,9 +20,9 @@
 
 &emsp;&emsp;(A) identify, investigate, and resolve complaints that—
 
-&emsp;&emsp;&emsp;(i) are made by, or on behalf of, residents, including residents with limited or no decisionmaking capacity and who have no known legal representative, and if such a resident is unable to communicate consent for an Ombudsman to work on a complaint directly involving the resident, the Ombudsman shall seek evidence to indicate what outcome the resident would have communicated (and, in the absence of evidence to the contrary, shall assume that the resident wishes to have the resident's health, safety, welfare, and rights protected) and shall work to accomplish that outcome; and
+&emsp;&emsp;&emsp;(i) are made by, or on behalf of, residents, including residents with limited or no decisionmaking capacity and who haveno known legal representative, and if such a resident is unable to communicate consent for an Ombudsman to work on a complaint directly involving the resident, the Ombudsman shall seek evidence to indicate what outcome the resident would have communicated (and, in the absence of evidence to the contrary, shall assume that the resident wishes to have the resident's health, safety, welfare, and rights protected) and shall work to accomplish that outcome; and
 
-&emsp;&emsp;&emsp;(ii) relate to action, inaction, or decisions, that may adversely affect the health, safety, welfare, or rights of the residents (including the welfare and rightsof the residents with respect to the appointment and activities of guardians and representative payees), of—
+&emsp;&emsp;&emsp;(ii) relate to action, inaction, or decisions, that may adversely affect the health, safety, welfare, or rights of the residents (including the welfare and rights of the residents with respect to the appointment and activities of guardians and representative payees), of—
 
 &emsp;&emsp;&emsp;&emsp;(I) providers, or representatives of providers, of long-term care services;
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(vi) support, actively encourage, and assist in the development of resident and family councils;
 
-&emsp;&emsp;&emsp;(vii) identify, investigate, and resolve complaints described in clause (iii) that are made by or on behalf of residents with limited or no decisionmaking capacity and who have no known legal representative, and if such a resident is unable to communicate consent for an Ombudsman to work on a complaint directly involving the resident, the Ombudsman shall seek evidence to indicate what outcome the resident would have communicated (and, in the absence of evidence to the contrary, shall assume that the resident wishes to have the resident's health, safety, welfare, and rights protected) and shall work to accomplish that outcome; and
+&emsp;&emsp;&emsp;(vii) identify, investigate, and resolve complaints described in clause (iii) thatare made by or on behalf of residents with limited or no decisionmaking capacity and who have no known legal representative, and if such a resident is unable to communicate consent for an Ombudsman to work on a complaint directly involving the resident, the Ombudsman shall seek evidence to indicate what outcome the resident would have communicated (and, in the absence of evidence to the contrary, shall assume that the resident wishes to have the resident's health, safety, welfare, and rights protected) and shall work to accomplish that outcome; and
 
 &emsp;&emsp;&emsp;(viii) carry out other activities that the Ombudsman determines to be appropriate.
 
@@ -184,7 +184,7 @@ The State agency shall establish a statewide uniform reporting system to—
 
 &emsp;The procedures described in paragraph (1) shall—
 
-&emsp;&emsp;(A) provide that, subject to subparagraph (B), the files, records, and other information described in paragraph (1) may be disclosed only at the discretion of the Ombudsman (or the person designated by the Ombudsman to disclose the files, records, and other information);
+&emsp;&emsp;(A) provide that, subject to subparagraph (B), the files, records, and other informationdescribed in paragraph (1) may be disclosed only at the discretion of the Ombudsman (or the person designated by the Ombudsman to disclose the files, records, and other information);
 
 &emsp;&emsp;(B) prohibit the disclosure of the identity of any complainant or resident with respect to whom the Office maintains such files, records, or other information unless—
 
@@ -264,11 +264,11 @@ In planning and operating the program, the State agency shall consider the views
 
 #### (ii) Action by Assistant Secretary
 
-&emsp;&emsp;&emsp;In a case in which a potential or actual organizational conflict of interest (within the meaning of subparagraph (A)) involving the Office is disclosed or reported to the Assistant Secretary by any person or entity, the Assistant Secretary shall require that the State agency, in accordance with the policies and procedures established by the State agency under subsection (a)(5)(D)(iii)—
+&emsp;&emsp;&emsp;In a case in which a potential or actual organizational conflict of interest (withinthe meaning of subparagraph (A)) involving the Office is disclosed or reported to the Assistant Secretary by any person or entity, the Assistant Secretary shall require that the State agency, in accordance with the policies and procedures established by the State agency under subsection (a)(5)(D)(iii)—
 
 &emsp;&emsp;&emsp;&emsp;(I) remove the conflict; or
 
-&emsp;&emsp;&emsp;&emsp;(II) submit, and obtain the approval of the Assistant Secretary for, an adequate remedial plan that indicates how theOmbudsman will be unencumbered in fulfilling all of the functions specified in subsection (a)(3).
+&emsp;&emsp;&emsp;&emsp;(II) submit, and obtain the approval of the Assistant Secretary for, an adequate remedial plan that indicates how the Ombudsman will be unencumbered in fulfilling all of the functions specified in subsection (a)(3).
 
 #### (g) Legal counsel
 
@@ -440,7 +440,7 @@ Pub. L. 114–144, §8(c)(6)(C), redesignated par. (9) as (10).
 
 Subsec. (a)(5)(C)(ii). Pub. L. 106–501, §704(1), inserted "and not stand to gain financially through an action or potential action brought on behalf of individuals the Ombudsman serves" after "interest".
 
-Subsec. (h)(4). Pub. L. 106–501, §704(2)(A), substituted "strengthen and update" for "(A) not later than 1 year after September 30, 1992, establish" in introductory provisions, redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, redesignated subcls. (I) to (III) of former subpar. (A)(ii) as cls. (i) to (iii), respectively, of subpar. (B), redesignated cl.\(iii) of former subpar. (A) as subpar. (C) and struck out "and" at end, and struck out former subpar. (B) which read as follows: "require implementation of the procedures not later than 21 months after September 30, 1992;". Amendment was executed to reflect the probable intent of Congress notwithstanding error in directory language misquoting original text to be struck out, which had been translated as reference to September 30, 1992.
+Subsec. (h)(4). Pub. L. 106–501, §704(2)(A), substituted "strengthen and update" for "(A) not later than 1 year after September 30, 1992, establish" in introductory provisions, redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, redesignated subcls. (I) to (III) of former subpar. (A)(ii) as cls. (i) to (iii), respectively, of subpar. (B), redesignated cl. (iii) of former subpar. (A) as subpar. (C) and struck out "and" at end, and struck out former subpar. (B) which read as follows: "require implementation of the procedures not later than 21 months after September 30, 1992;". Amendment was executed to reflect the probable intent of Congress notwithstanding error in directory language misquoting original text to be struck out, which had been translated as reference to September 30, 1992.
 
 Subsec. (h)(6)(A). Pub. L. 106–402 substituted "subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000" for "part A of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6001 et seq.)".
 

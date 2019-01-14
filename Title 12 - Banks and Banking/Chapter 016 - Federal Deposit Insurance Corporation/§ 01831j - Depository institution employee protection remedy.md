@@ -4,7 +4,7 @@
 
 #### (1) Employees of depository institutions
 
-&emsp;No insured depository institution may discharge or otherwise discriminate against anyemployee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to the request of the employee) provided information to any Federal banking agency or to the Attorney General regarding—
+&emsp;No insured depository institution may discharge or otherwise discriminate against any employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to the request of the employee) provided information to any Federal banking agency or to the Attorney General regarding—
 
 &emsp;&emsp;(A) a possible violation of any law or regulation; or
 

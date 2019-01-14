@@ -16,7 +16,7 @@ The rules of law that apply to the Armed Forces under the following provisions o
 
 &emsp;(6) Section 1052, relating to reimbursement for adoption expenses.
 
-&emsp;(7) Section 1174a, relating to special separation benefits (except that benefits under subsection (b)(2)(B) of such section are subject tothe availability of appropriations for such purpose and are provided at the discretion of the Secretary of Commerce).
+&emsp;(7) Section 1174a, relating to special separation benefits (except that benefits under subsection (b)(2)(B) of such section are subject to the availability of appropriations for such purpose and are provided at the discretion of the Secretary of Commerce).
 
 &emsp;(8) Chapter 61, relating to retirement or separation for physical disability.
 

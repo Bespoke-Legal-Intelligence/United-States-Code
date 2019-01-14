@@ -6,7 +6,7 @@ Any person—
 
 &emsp;(1) who aids or assists in, procures, or advises with respect to, the preparation or presentation of any portion of a return, affidavit, claim, or other document,
 
-&emsp;(2) who knows (or has reason to believe) that such portion will be used in connection with any material matter arising under the internal revenue laws, and
+&emsp;(2) who knows (or has reason to believe) that such portion will be used in connection withany material matter arising under the internal revenue laws, and
 
 &emsp;(3) who knows that such portion (if so used) would result in an understatement of the liability for tax of another person,
 

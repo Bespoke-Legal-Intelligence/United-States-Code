@@ -80,11 +80,15 @@ Subsec. (f). Pub. L. 104–264, §404(d), added subsec. (f).
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
 General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+
+#### Firefighting Foam and Fluorinated Chemicals
+
+Pub. L. 115–254, div. B, title III, §332(a), Oct. 5, 2018, 132 Stat. 3273, provided that: "Not later than 3 years after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\], using the latest version of National Fire Protection Association 403, 'Standard for Aircraft Rescue and Fire-Fighting Services at Airports', and in coordination with the Administrator of the Environmental Protection Agency, aircraft manufacturers and airports, shall not require the use of fluorinated chemicals to meet the performance standards referenced in chapter 6 of AC No: 150/5210–6D and acceptable under \[section\] 139.319(l) of title 14, Code of Federal Regulations."
 
 #### Improvement of Runway Safety Areas
 

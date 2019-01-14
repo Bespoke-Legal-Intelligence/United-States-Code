@@ -236,7 +236,7 @@ Subject fingerprints or other approved forms of positive identification shall be
 
 #### (b) Submission of State requests
 
-Each request for a criminal history record check utilizing the national indices made underany approved State statute shall be submitted through that State's criminal history record repository. A State criminal history record repository shall process an interstate request for noncriminal justice purposes through the national indices only if such request is transmitted through another State criminal history record repository or the FBI.
+Each request for a criminal history record check utilizing the national indices made under any approved State statute shall be submitted through that State's criminal history record repository. A State criminal history record repository shall process an interstate request for noncriminal justice purposes through the national indices only if such request is transmitted through another State criminal history record repository or the FBI.
 
 #### (c) Submission of Federal requests
 
@@ -318,7 +318,7 @@ The Council shall be composed of 15 members, each of whom shall be appointed by 
 
 #### (1) In general
 
-&emsp;The Council shall meet at least once each year at the call of the Chairman. Each meeting of the Council shall be open to the public. The Council shall provide prior public noticein the Federal Register of each meeting of the Council, including the matters to be addressed at such meeting.
+&emsp;The Council shall meet at least once each year at the call of the Chairman. Each meeting of the Council shall be open to the public. The Council shall provide prior public notice in the Federal Register of each meeting of the Council, including the matters to be addressed at such meeting.
 
 #### (2) Quorum
 

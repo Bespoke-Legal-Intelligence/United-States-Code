@@ -364,7 +364,7 @@ Pub. L. 106–554, §1(a)(4) \[div. A, §1402\], Dec. 21, 2000, 114 Stat. 2763, 
 
 &emsp;"(1) Sections 1105(a), 1106(a) and (b), and 1109(a) of title 31, United States Code, and any other law relating to the budget of the United States Government.
 
-&emsp;"(2) The Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900 et seq.) \[see ShortTitle note set out under section 900 of Title 2, The Congress\].
+&emsp;"(2) The Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900 et seq.) \[see Short Title note set out under section 900 of Title 2, The Congress\].
 
 &emsp;"(3) Sections 202(e)(1) and (3) of the Congressional Budget Act of 1974 (2 U.S.C. 602(e)(1) and (3)).
 
@@ -616,7 +616,7 @@ Pub. L. 106–197, §1, May 2, 2000, 114 Stat. 246, provided that: "Section 3003
 
 &emsp;"(22) Section 102(b)(5) of the Department of Justice and Related Agencies Appropriations Act, 1993 \[Pub. L. 102–395\] (28 U.S.C. 533 note)."
 
-Pub. L. 106–181, title I, §163, Apr. 5, 2000, 114 Stat. 91, provided that: "Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+Pub. L. 106–181, title I, §163, Apr. 5, 2000, 114 Stat. 91, provided that: "Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any reportrequired to be submitted under any of the following provisions of law:
 
 &emsp;"(1) Section 44501 of title 49, United States Code.
 
@@ -662,7 +662,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29,
 
 &emsp;"(18) Section 5(b) of the Japan-United States Friendship Act (Public Law 94–118; 22 U.S.C. 2904(b)) (relating to Japan-United States Friendship Commission activities)."
 
-Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided that: "Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, as amended by Pub. L. 115–232, div. A, title VIII, §813(i)(2), Aug. 13, 2018, 132 Stat. 1852, provided that: "Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
 &emsp;"(1) The following sections of title 10, United States Code: sections 113, 115a, 116, 139(f) \[now 139(g)\], 221, \[former\] 226, 401(d), \[former\] 662(b), 946, \[former\] 1464(c), \[former\] 2006(e)(3), 2010, 2011(e), 2391(c), 2431(a), 2432, 2457(d), 2461(g), 2537, 2662(b), 2706, 2859, 2861, 2902(g)(2), 4542(g)(2), 7424(b), 7425(b), 7431(c), 10541, 12302(d), and 16137.
 
@@ -726,7 +726,7 @@ Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided
 
 &emsp;"(31) Section 708 of the Defense Production Act of 1950 (50 U.S.C. App. 2158) \[now 50 U.S.C. 4558\].
 
-&emsp;"(32) Section 703(g) of the Military Construction Authorization Act, 1982 (Public Law 97–99; 95 Stat. 1376).
+&emsp;"\[(32) Repealed. Pub. L. 115–232, div. A, title VIII, §813(i)(2), Aug. 13, 2018, 132 Stat. 1852.\]
 
 &emsp;"(33) Section 704 of the Military Construction Authorization Act, 1982 (Public Law 97–99; 95 Stat. 1377).
 
@@ -790,7 +790,7 @@ Specific Reports Exempted.—Subsection (a)(1) shall not apply to any report req
 
 &emsp;"(14) section 204 of the International Emergency Economic Powers Act (50 U.S.C. 1703);
 
-&emsp;"(15) section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413) \[now 50 U.S.C. 4616\];
+&emsp;"(15) \[former\] section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413) \[former 50 U.S.C. 4616\];
 
 &emsp;"(16) section 207 of the International Economic Policy Act of 1972 (Public Law 92–412; 86 Stat. 648) \[former 22 U.S.C. 2846\];
 
@@ -816,9 +816,9 @@ Specific Reports Exempted.—Subsection (a)(1) shall not apply to any report req
 
 &emsp;"(27) section 23 of the Act of August 1, 1956 (Chapter 841 \[probably should be section 515(b)(2) of Public Law 95–105\]; 22 U.S.C. 2694(2));
 
-&emsp;"(28) section 5(c)(5) of the Export Administration Act of 1979 (50 U.S.C. App. 2404(c)(5)) \[now 50 U.S.C. 4604(c)(5)\];
+&emsp;"(28) \[former\] section 5(c)(5) of the Export Administration Act of 1979 (50 U.S.C. App. 2404(c)(5)) \[former 50 U.S.C. 4604(c)(5)\];
 
-&emsp;"(29) section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413) \[now 50 U.S.C. 4616\];
+&emsp;"(29) \[former\] section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413) \[former 50 U.S.C. 4616\];
 
 &emsp;"(30) section 50 of Public Law 87–297 (22 U.S.C. 2590);
 

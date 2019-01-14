@@ -24,6 +24,7 @@
 | [2668\.](Subchapter%20002%20%28II%29%20-%20Rural%20Development%20and%20Small%20Farm%20Research%20and%20Education/%C2%A7%2002668%20-%20Omitted.md) | Omitted. |
 | [2669\.](Subchapter%20002%20%28II%29%20-%20Rural%20Development%20and%20Small%20Farm%20Research%20and%20Education/%C2%A7%2002669%20-%20Pilot%20projects%20for%20production%20and%20marketing%20of%20industrial%20hydrocarbons%20and%20alcohols%20from%20agricultural%20commodities%20and%20forest%20products.md) | Pilot projects for production and marketing of industrial hydrocarbons and alcohols from agricultural commodities and forest products. |
 | [2670\.](Subchapter%20002%20%28II%29%20-%20Rural%20Development%20and%20Small%20Farm%20Research%20and%20Education/%C2%A7%2002670%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9398%2C%20title%20XIV%2C%20%C2%A71444%28b%29%2C%20Dec.%2022%2C%201981%2C%2095%20Stat.%201326.md) | Repealed. |
+| [2671\.](Subchapter%20002%20%28II%29%20-%20Rural%20Development%20and%20Small%20Farm%20Research%20and%20Education/%C2%A7%2002671%20-%20Establishment%20of%20technical%20assistance%20program.md) | Establishment of technical assistance program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

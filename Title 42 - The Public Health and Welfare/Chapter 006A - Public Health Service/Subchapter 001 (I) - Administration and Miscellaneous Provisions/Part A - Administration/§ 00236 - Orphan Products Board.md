@@ -6,7 +6,7 @@ There is established in the Department of Health and Human Services a board for 
 
 #### (b) Function
 
-The function of the Board shall be to promote the development of drugs and devices for rare diseases or conditions and the coordination among Federal, other public, and private agencies in carrying out their respective functions relating to the development of such articles for such diseases or conditions.
+The function of the Board shall be to promote the development of drugs and devices for rare diseases or conditions and the coordination among Federal, other public, and private agencies in carrying out their respective functionsrelating to the development of such articles for such diseases or conditions.
 
 #### (c) Duties with respect to drugs for rare diseases or conditions
 

@@ -38,7 +38,7 @@ Basis for Investigation.—(1) A forensic pathology investigation of a death und
 
 (c)
 
-Determination of Justification.—(1) Subject to paragraph (2), the determination that acircumstance exists under paragraph (2) of subsection (b) shall be made by the Armed Forces Medical Examiner.
+Determination of Justification.—(1) Subject to paragraph (2), the determination that a circumstance exists under paragraph (2) of subsection (b) shall be made by the Armed Forces Medical Examiner.
 
 (2) A commander may make the determination that a circumstance exists under paragraph (2) of subsection (b) and require a forensic pathology investigation under this section without regard to a determination made by the Armed Forces Medical Examiner if—
 
@@ -48,7 +48,7 @@ Determination of Justification.—(1) Subject to paragraph (2), the determinatio
 
 (d)
 
-Limitation in Concurrent Jurisdiction Cases.—(1) The exercise of authority under this section is subject to the exercise of primary jurisdiction for the investigation of a death—
+Limitation in Concurrent Jurisdiction Cases.—(1) The exercise of authority under thissection is subject to the exercise of primary jurisdiction for the investigation of a death—
 
 &emsp;(A) in the case of a death in a State, by the State or a local government of the State; or
 

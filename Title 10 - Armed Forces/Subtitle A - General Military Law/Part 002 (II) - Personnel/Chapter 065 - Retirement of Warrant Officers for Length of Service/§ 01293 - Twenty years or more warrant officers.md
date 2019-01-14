@@ -44,7 +44,7 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 Pub. L. 112–213, title II, §219, Dec. 20, 2012, 126 Stat. 1558, provided that: "For fiscal years 2013 through 2018—
 
-&emsp;"(1) notwithstanding subsection (c)(2)(A) of section 4403 of the National Defense Authorization Act forFiscal Year 1993 \[Pub. L. 102–484\] (10 U.S.C. 1293 note), such section shall apply to the Coast Guard in the same manner and to the same extent it applies to the Department of Defense, except that—
+&emsp;"(1) notwithstanding subsection (c)(2)(A) of section 4403 of the National Defense Authorization Act for Fiscal Year 1993 \[Pub. L. 102–484\] (10 U.S.C. 1293 note), such section shall apply to the Coast Guard in the same manner and to the same extent it applies to the Department of Defense, except that—
 
 &emsp;&emsp;"(A) the Secretary of Homeland Security shall implement such section with respect to the Coast Guard and, for purposes of that implementation, shall apply the applicable provisions of title 14, United States Code, relating to retirement of Coast Guard personnel; and
 
@@ -70,7 +70,7 @@ Pub. L. 104–106, div. A, title V, §566(c), Feb. 10, 1996, 110 Stat. 328, as a
 
 Pub. L. 103–337, div. A, title V, §542(d), Oct. 5, 1994, 108 Stat. 2769, as amended by Pub. L. 107–296, title XVII, §1704(e)(5), Nov. 25, 2002, 116 Stat. 2315, provided that: "Section 4403 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note) shall apply to the Coast Guard in the same manner and to the same extent as that provision applies to the Department of Defense. The Secretary of Homeland Security shall implement the provisions of that section with respect to the Coast Guard and apply the applicable provisions of title 14, United States Code, relating to retirement of Coast Guard personnel."
 
-Pub. L. 102–484, div. D, title XLIV, §4403, Oct. 23, 1992, 106 Stat. 2702, as amended by Pub. L. 103–160, div. A, title V, §561(a), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 104–106, div. A, title XV, §1504(c)(3), Feb. 10, 1996, 110 Stat. 514; Pub. L. 105–261, div. A, title V, §561(a), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–314, div. A, title V, §554, Dec. 2, 2002, 116 Stat. 2553; Pub. L. 112–81, title V, §504(b), Dec. 31, 2011, 125 Stat. 1390; Pub. L. 112–239, div. A, title X, §1076(k), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 114–328, div. A, title V, §508(a), Dec. 23, 2016, 130 Stat. 2109, provided that:
+Pub. L. 102–484, div. D, title XLIV, §4403, Oct. 23, 1992, 106 Stat. 2702, as amended by Pub. L. 103–160, div. A, title V, §561(a), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 104–106, div. A, title XV, §1504(c)(3), Feb. 10, 1996, 110 Stat. 514; Pub. L. 105–261, div. A, title V, §561(a), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–314, div. A, title V, §554, Dec. 2, 2002, 116 Stat. 2553; Pub. L. 112–81, title V, §504(b), Dec. 31, 2011, 125 Stat. 1390; Pub. L. 112–239, div. A, title X, §1076(k), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 114–328, div. A, title V, §508(a), Dec. 23, 2016, 130 Stat. 2109; Pub. L. 115–232, div. A, title V, §553(b)(5), title VIII, §809(b)(2), Aug. 13, 2018, 132 Stat. 1772, 1840, provided that:
 
 "(a)
 
@@ -84,41 +84,33 @@ to 20
 
 Years of Service.—(1) During the active force drawdown period, the Secretary of the Army may—
 
-&emsp;"(A) apply the provisions of section 3911 of title 10, United States Code, to a regular or reserve commissioned officer with at least 15 but less than 20 years of service by substituting 'at least 15 years' for 'at least 20 years' in subsection (a) of that section;
+&emsp;"(A) apply the provisions of section 7311 of title 10, United States Code, to a regular or reserve commissioned officer with at least 15 but less than 20 years of service by substituting 'at least 15 years' for 'at least 20 years' in subsection (a) of that section;
 
-&emsp;"(B) apply the provisions of section 3914 of such title to an enlisted member with at least 15 but less than 20 years of service by substituting 'at least 15' for 'at least 20'; and
+&emsp;"(B) apply the provisions of section 7314 of such title to an enlisted member with at least 15 but less than 20 years of service by substituting 'at least 15' for 'at least 20'; and
 
 &emsp;"(C) apply the provisions of section 1293 of such title to a warrant officer with at least 15 but less than 20 years of service by substituting 'at least 15 years' for 'at least 20 years'.
 
 "(2) During the active force drawdown period, the Secretary of the Navy may—
 
-&emsp;"(A) apply the provisions of section 6323 of title 10, United States Code, to an officer with at least 15 but less than 20 years of service by substituting 'at least 15 years' for 'at least 20 years' in subsection (a) of that section;
+&emsp;"(A) apply the provisions of section 8323 of title 10, United States Code, to an officer with at least 15 but less than 20 years of service by substituting 'at least 15 years' for 'at least 20 years' in subsection (a) of that section;
 
-&emsp;"(B) apply the provisions of section 6330 of such title to an enlisted member of the Navy or Marine Corps with at least 15 but less than 20 years of service by substituting '15 or more years' for '20 or more years' in the first sentence of subsection (a)\[(b)\], in the case of an enlisted member of the Navy, and in the second sentence of subsection (b), in the case of an enlisted member of the Marine Corps; and
+&emsp;"(B) apply the provisions of section 8330 of such title to an enlisted member of the Navy or Marine Corps with at least 15 but less than 20 years of service by substituting '15 or more years' for '20 or more years' in the first sentence of subsection (a)\[(b)\], in the case of an enlisted member of the Navy, and in the second sentence of subsection (b), in the case of an enlisted member of the Marine Corps; and
 
 &emsp;"(C) apply the provisions of section 1293 of such title to a warrant officer with at least 15 but less than 20 years of service by substituting 'at least 15 years' for 'at least 20 years'.
 
 "(3) During the active force drawdown period, the Secretary of the Air Force may—
 
-&emsp;"(A) apply the provisions of section 8911 of title 10, United States Code, to a regular or reserve commissioned officer with at least 15 but less than 20 years of service by substituting 'at least 15 years' for 'at least 20 years' in subsection (a) of that section; and
+&emsp;"(A) apply the provisions of section 9311 of title 10, United States Code, to a regular or reserve commissioned officer with at least 15 but less than 20 years of service by substituting 'at least 15 years' for 'at least 20 years' in subsection (a) of that section; and
 
-&emsp;"(B) apply the provisions of section 8914 of such title to an enlisted member with at least 15 but less than 20 years of service by substituting 'at least 15' for 'at least 20'.
+&emsp;"(B) apply the provisions of section 9314 of such title to an enlisted member with at least 15 but less than 20 years of service by substituting 'at least 15' for 'at least 20'.
 
 "(c)
 
-Inapplicability of Certain Provisions.—
+Inapplicability of Certain Provisions.—During the period specified in subsection (i)(2), this section does not apply as follows:
 
-&emsp;"(1)
+&emsp;"(1) To members of the Coast Guard, notwithstanding section 542(d) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 10 U.S.C. 1293 note).
 
-Increased retired pay for public or community service.—The provisions of section 4464 of this Act (10 U.S.C. 1143a note) shall not apply with respect to a member or former member retired by reason of eligibility under this section during the active force drawdown period specified in subsection (i)(2).
-
-&emsp;"(2)
-
-Coast guard and noaa.—During the period specified in subsection (i)(2), this section does not apply as follows:
-
-&emsp;&emsp;"(A) To members of the Coast Guard, notwithstanding section 542(d) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 10 U.S.C. 1293 note).
-
-&emsp;&emsp;"(B) To members of the commissioned corps of the National Oceanic and Atmospheric Administration, notwithstanding section 566(c) of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 10 U.S.C. 1293 note).
+&emsp;"(2) To members of the commissioned corps of the National Oceanic and Atmospheric Administration, notwithstanding section 566(c) of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 10 U.S.C. 1293 note).
 
 "(d)
 

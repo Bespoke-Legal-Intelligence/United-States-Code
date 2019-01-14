@@ -150,7 +150,7 @@ In granting or withholding approval or consent under subsection (b) of this sect
 
 #### (3) Penalty
 
-&emsp;Whoever knowingly violates paragraph (1) or (2) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
+&emsp;Whoever knowingly violates paragraph (1) or (2) shall be fined not more than $1,000,000 foreach day such prohibition is violated or imprisoned for not more than 5 years, or both.
 
 #### (e) Security standards; reports; penalty
 

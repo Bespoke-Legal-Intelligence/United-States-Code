@@ -66,7 +66,7 @@ Pub. L. 114–328, div. A, title VIII, §830, Dec. 23, 2016, 130 Stat. 2282, as 
 
 "(a)
 
-Requirement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], theSecretary of Defense shall prescribe regulations to require the use of firm fixed-price contracts for foreign military sales.
+Requirement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall prescribe regulations to require the use of firm fixed-price contracts for foreign military sales.
 
 "(b)
 
@@ -94,7 +94,7 @@ In general.—The Secretary of Defense shall establish a pilot program to reform
 
 &emsp;"(2)
 
-Determination of same or similar product.—The Secretary of Defense and the Secretary of State shall jointly determine whether a product is considered to be a similar product for the purposes of this pilot program.
+Determination of same or similar product.—The Secretary of Defense and the Secretary of Stateshall jointly determine whether a product is considered to be a similar product for the purposes of this pilot program.
 
 &emsp;"(3)
 

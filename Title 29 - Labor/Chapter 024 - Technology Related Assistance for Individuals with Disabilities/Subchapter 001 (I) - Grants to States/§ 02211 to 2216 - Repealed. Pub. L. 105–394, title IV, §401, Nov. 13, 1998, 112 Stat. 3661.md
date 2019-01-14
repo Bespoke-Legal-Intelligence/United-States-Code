@@ -8,7 +8,7 @@ Section 2213, Pub. L. 100–407, title I, §103, Aug. 19, 1988, 102 Stat. 1055; 
 
 Section 2214, Pub. L. 100–407, title I, §104, Aug. 19, 1988, 102 Stat. 1056; Pub. L. 103–218, title I, §104, Mar. 9, 1994, 108 Stat. 75, related to progress criteria and reports.
 
-Section 2215, Pub. L. 100–407, title I, §105, Aug. 19, 1988, 102 Stat. 1057; Pub. L. 101–476, title IX, §901(a)(2),Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–218, title I, §105, Mar. 9, 1994, 108 Stat. 76, related to administrative provisions.
+Section 2215, Pub. L. 100–407, title I, §105, Aug. 19, 1988, 102 Stat. 1057; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–218, title I, §105, Mar. 9, 1994, 108 Stat. 76, related to administrative provisions.
 
 Section 2216, Pub. L. 100–407, title I, §106, Aug. 19, 1988, 102 Stat. 1058; Pub. L. 103–218, title I, §106, Mar. 9, 1994, 108 Stat. 82, related to authorization of appropriations.
 

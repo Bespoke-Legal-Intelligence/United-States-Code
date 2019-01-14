@@ -22,7 +22,7 @@
 
 &emsp;(i) A bilateral or multilateral counterterrorism agreement.
 
-&emsp;(ii) A bilateral agreement with a country that is subject to a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)),<sup>1</sup> section 620A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2371(a)), or section 40(d) of the Arms Export Control Act (22 U.S.C. 2780(d)).
+&emsp;(ii) A bilateral agreement with a country that is subject to a determination under section 6(j)(1)(A) <sup>1</sup> of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), section 620A(a) of the Foreign Assistance Act of1961 (22 U.S.C. 2371(a)), or section 40(d) of the Arms Export Control Act (22 U.S.C. 2780(d)).
 
 (f) The President shall, through the Secretary of State, promulgate such rules and regulations as may be necessary to carry out this section.
 
@@ -30,7 +30,7 @@
 
 #### References in Text
 
-Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), was classified to section 2405(j)(1)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4605(j)(1)(A) of Title 50.
+Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), which was classified to section 2405(j)(1)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4605(j)(1)(A) of Title 50, was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Amendments
 
@@ -46,7 +46,7 @@ Subsec. (f). Pub. L. 108–458, §7121(c)(1), redesignated subsec. (e) as (f).
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted "Committee on Foreign Affairs" for "Committee on International Relations".
 
-<b>1978</b>—Pub. L. 95–426 designated existing provisions as subsec. (a), inserted "(including the text of any oralinternational agreement, which agreement shall be reduced to writing)", and added subsecs. (b) to (e).
+<b>1978</b>—Pub. L. 95–426 designated existing provisions as subsec. (a), inserted "(including the text of any oral international agreement, which agreement shall be reduced to writing)", and added subsecs. (b) to (e).
 
 <b>1977</b>—Pub. L. 95–45 substituted "Committee on International Relations of the House of Representatives" for "Committee on Foreign Affairs of the House of Representatives" and inserted requirement that any department or agency of the United States Government which enters into any international agreement on behalf of the United States transmit to the Department of State the text of such agreement not later than twenty days after the agreement has been signed.
 

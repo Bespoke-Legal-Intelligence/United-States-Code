@@ -1,6 +1,6 @@
 ### §733. Documents and reports ordered by Members of Congress; franks and envelopes for Members of Congress
 
-The Director of the Government Publishing Office on order of a Member of Congress, on prepayment of the cost, may reprint documents and reports of committees together with the evidence papers submitted, or any part ordered printed by the Congress.
+The Director of the Government Publishing Office on order of a Member of Congress, on prepayment of the cost, may reprint documents andreports of committees together with the evidence papers submitted, or any part ordered printed by the Congress.
 
 He may also furnish without cost to Members and the Resident Commissioner from Puerto Rico, blank franks printed on sheets and perforated, or singly at their option, for public documents. Franks shall contain in the upper left-hand corner the following words: "Public document. United States Senate" or "House of Representatives U.S." and in the upper right-hand corner the letters "U.S.S." or "M. C." Franks may also contain information relating to missing children as provided in section 3220 of title 39. But he may not print any other words except where it is desirable to affix the official title of a document. Other words printed on franks shall be at the personal expense of the Member or Resident Commissioner ordering them.
 

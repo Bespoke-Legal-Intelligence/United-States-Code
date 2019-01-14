@@ -108,7 +108,7 @@ Pub. L. 99–272, §7102(b)(1), substituted "527,000,000 barrels" for "500,000,0
 
 Subsec. (d)(1)(B). Pub. L. 99–509, §3202(b)(2), substituted "75,000 barrels" for "100,000 barrels", and substituted a period for "; or".
 
-Subsec. (d)(1)(C). Pub. L. 99–509, §3202(b)(3), struck out subpar. (C) which read as follows: "acquisition, transportation, and injection activities for the Reserve are being undertaken, beginning in fiscal year 1986 and continuing through fiscal years 1987 and 1988 until the quantity of crude oil in storage within the Reserve is at least 527,000,000 barrels, at a level sufficient to assure that petroleum products in storage in the Reserve will be increased at a minimum annual average rate of at least 35,000 barrels per day in addition to any petroleum products acquired for the Reserve to replace petroleum products withdrawn from the Reserve as a result of a test drawdown and distribution".
+Subsec. (d)(1)(C). Pub. L. 99–509, §3202(b)(3), struck out subpar. (C) which read as follows: "acquisition, transportation, and injection activities for the Reserve are being undertaken, beginning in fiscal year 1986 and continuing through fiscal years 1987 and 1988 until the quantity of crude oil in storage within the Reserve is at least 527,000,000 barrels, at a level sufficient to assure that petroleum products in storage in the Reserve will be increased at a minimum annual average rate ofat least 35,000 barrels per day in addition to any petroleum products acquired for the Reserve to replace petroleum products withdrawn from the Reserve as a result of a test drawdown and distribution".
 
 Pub. L. 99–272, §7102(b)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: "the fill rate is sufficient to attain a level of 500,000,000 barrels by the end of the fiscal year during which the fill rate falls below the rate established in (B)."
 
@@ -142,7 +142,7 @@ Pub. L. 97–229, §4(a)(2), Aug. 3, 1982, 96 Stat. 251, provided that: "The ame
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title X, §1038, Aug. 13, 1981, 95 Stat. 621, provided that: "The provisions of this title \[enactingsections 6247, 8341, and 8484 of this title, amending this section and sections 6245, 6246, 6831 to 6833, 6835, 6837 to 6839, 8372, 8421, 8422, and 8803 of this title, repealing sections 6834, 6836 and 8341 of this title, and enacting provisions set out as notes under sections 6201, 6231, 6247, 7270, and 8341 of this title, section 3620 of Title 12, Banks and Banking, and section 719e of Title 15, Commerce and Trade\] shall take effect on the date of enactment of this Act \[Aug. 13, 1981\]."
+Pub. L. 97–35, title X, §1038, Aug. 13, 1981, 95 Stat. 621, provided that: "The provisions of this title \[enacting sections 6247, 8341, and 8484 of this title, amending this section and sections 6245, 6246, 6831 to 6833, 6835, 6837 to 6839, 8372, 8421, 8422, and 8803 of this title, repealing sections 6834, 6836 and 8341 of this title, and enacting provisions set out as notes under sections 6201, 6231, 6247, 7270, and 8341 of this title, section 3620 of Title 12, Banks and Banking, and section 719e of Title 15, Commerce and Trade\] shall take effect on the date of enactment of this Act \[Aug. 13, 1981\]."
 
 #### Effective Date of 1980 Amendment
 
@@ -178,7 +178,7 @@ Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1406, provided in part tha
 
 #### Study and Report on Oil Leasing and Other Arrangements To Fill SPR to One Billion Barrels
 
-Pub. L. 101–46, §2, June 30, 1989, 103 Stat. 132, directed Secretary of Energy to conduct a study on potential financial arrangements, including long-term leasing of crude oil and storage facilities, that could be used to provide additional, alternative means of financing the filling of the Strategic Petroleum Reserve to one billion barrels and directed Secretary to transmit an interim report to Committee on Energy and Natural Resources of Senate and Committee on Energy and Commerce of House of Representatives no later than Oct. 15, 1989, and no later than Feb. 1, 1990, to transmit to such committees a copy of the preliminary written solicitations for proposed alternative financial arrangements to assist in filling the Strategic Petroleum Reserve to one billion barrels and a final report containing findings and conclusions together with a draft of legislative changes necessary to authorize the most significant alternative financial arrangements.
+Pub. L. 101–46, §2, June 30, 1989, 103 Stat. 132, directed Secretary of Energy to conduct a study on potential financial arrangements, including long-term leasing of crude oil and storage facilities, that could be used to provide additional, alternative means of financing the filling of the Strategic Petroleum Reserve to one billion barrels and directed Secretary to transmit an interim report to Committee on Energy and Natural Resources of Senate and Committee on Energy and Commerce of House of Representatives no later than Oct.15, 1989, and no later than Feb. 1, 1990, to transmit to such committees a copy of the preliminary written solicitations for proposed alternative financial arrangements to assist in filling the Strategic Petroleum Reserve to one billion barrels and a final report containing findings and conclusions together with a draft of legislative changes necessary to authorize the most significant alternative financial arrangements.
 
 #### Exchange of Agricultural Products for Crude Oil To Be Delivered to Strategic Petroleum Reserve
 
@@ -234,7 +234,7 @@ Ex. Ord. No. 12231, Aug. 4, 1980, 45 F.R. 52139, provided:
 
 By the authority vested in me as President of the United States of America by Title VIII of the Energy Security Act (Public Law 96–294) \[title VIII of Pub. L. 96–294, which amended this section and section 7430 of Title 10, Armed Forces, and enacted provisions set out as a note above\] and by Section 301 of Title 3 of the United States Code, and in order to meet the goals and requirements for the strategic petroleum reserve, it is hereby ordered as follows:
 
-1–101. The functions vested in the President by Section 160(c) of the Energy Policy and Conservation Act, as amended, are delegated to the Secretary of Energy (42 U.S.C. 6240(c); see Section 801 of the Energy Security Act).
+1–101. The functions vested in the President by Section 160(c) of the Energy Policy and Conservation Act,as amended, are delegated to the Secretary of Energy (42 U.S.C. 6240(c); see Section 801 of the Energy Security Act).
 
 1–102. The functions vested in the President by Section 7430(k) of Title 10 of the United States Code are delegated to the Secretary of Energy (see Section 804(b) of the Energy Security Act).
 

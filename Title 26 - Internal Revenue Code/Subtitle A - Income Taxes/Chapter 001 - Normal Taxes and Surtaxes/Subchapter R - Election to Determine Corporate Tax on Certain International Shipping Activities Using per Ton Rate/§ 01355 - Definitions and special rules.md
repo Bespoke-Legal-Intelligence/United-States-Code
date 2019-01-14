@@ -136,7 +136,7 @@ In applying this subchapter to a partner in a partnership—
 
 #### (3) Period disregard in effect
 
-&emsp;The period of temporary use under paragraph (1) continues until the earlier of the date of <sup>1</sup> which—
+&emsp;The period of temporary use under paragraph (1) continues until the earlier of the date on which—
 
 &emsp;&emsp;(A) the electing corporation abandons its intention to resume operations of the vessel in the United States foreign trade, or
 
@@ -204,9 +204,11 @@ In applying this subchapter to a partner in a partnership—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 108–357, title II, §248(a), Oct. 22, 2004, 118 Stat. 1452; amended Pub. L. 109–135, title IV, §403(g)(1)(B)–(2), Dec. 21, 2005, 119 Stat. 2624; Pub. L. 109–222, title II, §205(a), May 17, 2006, 120 Stat. 350; Pub. L. 109–432, div. A, title IV, §§413(a), 415(a), Dec. 20, 2006, 120 Stat. 2963.)
+(Added Pub. L. 108–357, title II, §248(a), Oct. 22, 2004, 118 Stat. 1452; amended Pub. L. 109–135, title IV, §403(g)(1)(B)–(2), Dec. 21, 2005, 119 Stat. 2624; Pub. L. 109–222, title II, §205(a), May 17, 2006, 120 Stat. 350; Pub. L. 109–432, div. A, title IV, §§413(a), 415(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 115–141, div. U, title IV, §401(a)(187), Mar. 23, 2018, 132 Stat. 1193.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f)(3). Pub. L. 115–141 substituted "on which" for "of which" in introductory provisions.
 
 <b>2006</b>—Subsec. (a)(4). Pub. L. 109–432, §413(a), substituted "6,000" for "10,000 (6,000, in the case of taxable years beginning after December 31, 2005, and ending before January 1, 2011)".
 
@@ -228,7 +230,7 @@ Subsec. (c)(3). Pub. L. 109–135, §403(g)(2), substituted "determined by treat
 
 &emsp;"(B) by disregarding vessel charters between members of such group."
 
-Subsec. (d)(3). Pub. L. 109–135, §403(g)(1)(D), amended par. (3) generally. Prior to amendment, par. (3) read asfollows: "the extent of a partner's ownership or charter interest in any vessel owned by or chartered to the partnership shall be determined on the basis of the partner's interest in the partnership."
+Subsec. (d)(3). Pub. L. 109–135, §403(g)(1)(D), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the extent of a partner's ownership or charter interest in any vessel owned by or chartered to the partnership shall be determined on the basis of the partner's interest in the partnership."
 
 #### Effective Date of 2006 Amendment
 
@@ -245,6 +247,4 @@ Amendments by Pub. L. 109–135 effective as if included in the provisions of th
 #### Effective Date
 
 Section applicable to taxable years beginning after Oct. 22, 2004, see section 248(c) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendments note under section 56 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

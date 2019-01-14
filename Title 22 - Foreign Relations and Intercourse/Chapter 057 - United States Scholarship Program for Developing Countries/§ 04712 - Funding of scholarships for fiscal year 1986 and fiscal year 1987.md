@@ -2,7 +2,7 @@
 
 #### (a) Central American undergraduate scholarship program
 
-The undergraduate scholarship program financed by the United States Information Agency for students from Central America for fiscalyear 1986 and fiscal year 1987 shall be conducted in accordance with this chapter.
+The undergraduate scholarship program financed by the United States Information Agency for students from Central America for fiscal year 1986 and fiscal year 1987 shall be conducted in accordance with this chapter.
 
 #### (b) Scholarships for students from other developing countries
 

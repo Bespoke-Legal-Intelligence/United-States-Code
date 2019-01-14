@@ -1,20 +1,30 @@
 ### §11117. Annual report
 
-Not later than 180 days after the end of a fiscal year, the Administrator shall submit to the President, the Speaker of the House of Representatives, and the President pro tempore of the Senate a report that contains the following with respect to such fiscal year:
+Not later than 180 days after the end of each fiscal year, the Administrator shall submit to the President, the Speaker of the House of Representatives, and the President pro tempore of the Senate a report that contains the following with respect to such fiscal year:
 
 &emsp;(1) A detailed summary and analysis of the most recent data available regarding the number of juveniles taken into custody, the rate at which juveniles are taken into custody, and the trends demonstrated by the data required by subparagraphs (A), (B), and (C). Such summary and analysis shall set out the information required by subparagraphs (A), (B), (C), and (D) separately for juvenile nonoffenders, juvenile status offenders, and other juvenile offenders. Such summary and analysis shall separately address with respect to each category of juveniles specified in the preceding sentence—
 
 &emsp;&emsp;(A) the types of offenses with which the juveniles are charged;
 
-&emsp;&emsp;(B) the race and gender of the juveniles;
+&emsp;&emsp;(B) the race, gender, and ethnicity, as such term is defined by the Bureau of the Census, of the juveniles;
 
 &emsp;&emsp;(C) the ages of the juveniles;
 
 &emsp;&emsp;(D) the types of facilities used to hold the juveniles (including juveniles treated as adults for purposes of prosecution) in custody, including secure detention facilities, secure correctional facilities, jails, and lockups;
 
-&emsp;&emsp;(E) the number of juveniles who died while in custody and the circumstances under which they died; and
+&emsp;&emsp;(E) the number of juveniles who died while in custody and the circumstances under which they died;
 
-&emsp;&emsp;(F) the educational status of juveniles, including information relating to learning disabilities, failing performance, grade retention, and dropping out of school.
+&emsp;&emsp;(F) the educational status of juveniles, including information relating to learning and other disabilities, failing performance, grade retention, and dropping out of school;
+
+&emsp;&emsp;(G) a summary of data from 1 month of the applicable fiscal year of the use of restraints and isolation upon juveniles held in the custody of secure detention and correctional facilities operated by a State or unit of local government;
+
+&emsp;&emsp;(H) the number of status offense cases petitioned to court, number of status offenders held in secure detention, the findings used to justify the use of secure detention, and the average period of time a status offender was held in secure detention;
+
+&emsp;&emsp;(I) the number of juveniles released from custody and the type of living arrangement to which they are released;
+
+&emsp;&emsp;(J) the number of juveniles whose offense originated on school grounds, during school-sponsored off-campus activities, or due to a referral by a school official, as collected and reported by the Department of Education or similar State educational agency; and
+
+&emsp;&emsp;(K) the number of juveniles in the custody of secure detention and correctional facilities operated by a State or unit of local or tribal government who report being pregnant.
 
 &emsp;(2) A description of the activities for which funds are expended under this part, including the objectives, priorities, accomplishments, and recommendations of the Council.
 
@@ -22,7 +32,35 @@ Not later than 180 days after the end of a fiscal year, the Administrator shall 
 
 &emsp;(4) An evaluation of the programs funded under this subchapter and their effectiveness in reducing the incidence of juvenile delinquency, particularly violent crime, committed by juveniles.
 
-(Pub. L. 93–415, title II, §207, as added Pub. L. 100–690, title VII, §7255, Nov. 18, 1988, 102 Stat. 4437; amended Pub. L. 102–586, §2(e), Nov. 4, 1992, 106 Stat. 4986; Pub. L. 107–273, div. C, title II, §12207, Nov. 2, 2002, 116 Stat. 1872.)
+&emsp;(5) A description of the criteria used to determine what programs qualify as evidence-based and promising programs under this subchapter and subchapter V and a comprehensive list of those programs the Administrator has determined meet such criteria in both rural and urban areas.
+
+&emsp;(6) A description of funding provided to Indian Tribes under this chapter or for a juvenile delinquency or prevention program under the Tribal Law and Order Act of 2010 (Public Law 111–211; 124 Stat. 2261), including direct Federal grants and funding provided to Indian Tribes through a State or unit of local government.
+
+&emsp;(7) An analysis and evaluation of the internal controls at the Office of Juvenile Justice and Delinquency Prevention to determine if grantees are following the requirements of the Office of Juvenile Justice and Delinquency Prevention grant programs and what remedialaction the Office of Juvenile Justice and Delinquency Prevention has taken to recover any grant funds that are expended in violation of the grant programs, including instances—
+
+&emsp;&emsp;(A) in which supporting documentation was not provided for cost reports;
+
+&emsp;&emsp;(B) where unauthorized expenditures occurred; or
+
+&emsp;&emsp;(C) where subrecipients of grant funds were not compliant with program requirements.
+
+&emsp;(8) An analysis and evaluation of the total amount of payments made to grantees that the Office of Juvenile Justice and Delinquency Prevention recouped from grantees that were found to be in violation of policies and procedures of the Office of Juvenile Justice and Delinquency Prevention grant programs, including—
+
+&emsp;&emsp;(A) the full name and location of the grantee;
+
+&emsp;&emsp;(B) the violation of the program found;
+
+&emsp;&emsp;(C) the amount of funds sought to be recouped by the Office of Juvenile Justice and Delinquency Prevention; and
+
+&emsp;&emsp;(D) the actual amount recouped by the Office of Juvenile Justice and Delinquency Prevention.
+
+(Pub. L. 93–415, title II, §207, as added Pub. L. 100–690, title VII, §7255, Nov. 18, 1988, 102 Stat. 4437; amended Pub. L. 102–586, §2(e), Nov. 4, 1992, 106 Stat. 4986; Pub. L. 107–273, div. C, title II, §12207, Nov. 2, 2002, 116 Stat. 1872; Pub. L. 115–385, title II, §203, Dec. 21, 2018, 132 Stat. 5128.)
+
+#### References in Text
+
+This chapter, referred to in par. (6), was in the original "this Act", meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of this title and Tables.
+
+The Tribal Law and Order Act of 2010, referred to in par. (6), is title II of Pub. L. 111–211, July 29, 2010, 124 Stat. 2261. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 2801 of Title 25, Indians, and Tables.
 
 #### Codification
 
@@ -36,6 +74,16 @@ Another prior section 207 of title II of Pub. L. 93–415, Sept. 7, 1974, 88 Sta
 
 #### Amendments
 
+<b>2018</b>—Pub. L. 115–385, §203(1), substituted "each fiscal year" for "a fiscal year" in introductory provisions.
+
+Par. (1)(B). Pub. L. 115–385, §203(2)(A), substituted ", gender, and ethnicity, as such term is defined by the Bureau of the Census," for "and gender".
+
+Par. (1)(F). Pub. L. 115–385, §203(2)(C), inserted "and other" before "disabilities," and substituted semicolon for period at end.
+
+Par. (1)(G) to (K). Pub. L. 115–385, §203(2)(B), (D), added subpars. (G) to (K).
+
+Pars. (5) to (8). Pub. L. 115–385, §203(3), added pars. (5) to (8).
+
 <b>2002</b>—Pars. (4), (5). Pub. L. 107–273 added par. (4) and struck out former pars. (4) and (5) which read as follows:
 
 "(4) A summary of each program or activity for which assistance is provided under part C or D of this subchapter, an evaluation of the results of such program or activity, and a determination of the feasibility and advisability of replicating such program or activity in other locations.
@@ -45,6 +93,10 @@ Another prior section 207 of title II of Pub. L. 93–415, Sept. 7, 1974, 88 Sta
 <b>1992</b>—Par. (1)(D). Pub. L. 102–586, §2(e)(1)(A), inserted "(including juveniles treated as adults for purposes of prosecution)".
 
 Par. (1)(F). Pub. L. 102–586, §2(e)(1)(B), (2), (3), added subpar. (F).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under section 11102 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -56,5 +108,5 @@ Section effective Oct. 1, 1988, with the report required by this section with re
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in this section relating to submittal to the Speaker of the House of Representatives and the President protempore of the Senate of an annual report, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 10 on page 177 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in this section relating to submittal to the Speaker of the House of Representatives and the President pro tempore of the Senate of an annual report, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 10 on page 177 of House Document No. 103–7.
 

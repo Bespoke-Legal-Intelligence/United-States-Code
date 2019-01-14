@@ -2,7 +2,7 @@
 
 #### (a) Definition of small impoverished community
 
-In this section, the term "small impoverished community" means a community of 3,000 orfewer individuals that is economically disadvantaged, as determined by the State in which the community is located and based on criteria established by the President.
+In this section, the term "small impoverished community" means a community of 3,000 or fewer individuals that is economically disadvantaged, as determined by the State in which the community is located and based on criteria established by the President.
 
 #### (b) Establishment of program
 
@@ -10,7 +10,7 @@ The President may establish a program to provide technical and financial assista
 
 #### (c) Approval by President
 
-If the President determines that a State or local government has identified natural disaster hazards in areas under its jurisdiction and has demonstrated the ability to form effective public-private natural disaster hazard mitigation partnerships, the President, using amounts in the National Predisaster Mitigation Fund established under subsection (i) (referred to in this section as the "Fund"), may provide technical and financial assistance to the State or local government to be used in accordance with subsection (e).
+If the President determines that a State or local government has identified natural disaster hazards in areas under its jurisdiction and has demonstrated the ability to form effective public-private natural disaster hazard mitigation partnerships, the President, using amounts in the National Public Infrastructure Predisaster Mitigation Fund established under subsection (i) (referred to in this section as the "Fund"), may provide technical and financial assistance to the State or local government to be used in accordance with subsection (e).
 
 #### (d) State recommendations
 
@@ -54,9 +54,11 @@ If the President determines that a State or local government has identified natu
 
 &emsp;&emsp;&emsp;(i) to support effective public-private natural disaster hazard mitigation partnerships;
 
-&emsp;&emsp;&emsp;(ii) to improve the assessment of a community's vulnerability to natural hazards; or
+&emsp;&emsp;&emsp;(ii) to improve the assessment of a community's vulnerability to natural hazards;
 
-&emsp;&emsp;&emsp;(iii) to establish hazard mitigation priorities, and an appropriate hazard mitigation plan, for a community.
+&emsp;&emsp;&emsp;(iii) to establish hazard mitigation priorities, and an appropriate hazard mitigation plan, for a community; or
+
+&emsp;&emsp;&emsp;(iv) to establish and carry out enforcement activities and implement the latest published editions of relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings' users against disasters.
 
 #### (2) Dissemination
 
@@ -66,7 +68,7 @@ If the President determines that a State or local government has identified natu
 
 #### (1) In general
 
-&emsp;The President shall award financial assistance under this section on a competitive basis and in accordance with the criteria in subsection (g).
+&emsp;The President shall award financial assistance under this section on a competitive basis for mitigation activities that are cost effective and in accordance with the criteria in subsection (g).
 
 #### (2) Minimum and maximum amounts
 
@@ -80,9 +82,17 @@ If the President determines that a State or local government has identified natu
 
 &emsp;&emsp;(B) does not exceed the amount that is equal to 15 percent of the total funds appropriated to carry out this section for the fiscal year.
 
+#### (3) Redistribution of unobligated amounts
+
+&emsp;The President may—
+
+&emsp;&emsp;(A) withdraw amounts of financial assistance made available to a State (including amounts made available to local governments of a State) under this subsection that remain unobligated by the end of the third fiscal year after the fiscal year for which the amounts were allocated; and
+
+&emsp;&emsp;(B) in the fiscal year following a fiscal year in which amounts were withdrawn under subparagraph (A), add the amounts to any other amounts available to be awarded on a competitive basis pursuant to paragraph (1).
+
 #### (g) Criteria for assistance awards
 
-In determining whether to provide technical and financial assistance to a State or local government under this section, the President shall take into account—
+In determining whether to provide technical and financial assistance to a State or local government under this section, the President shall provide financial assistance only in States that have received a major disaster declaration in the previous 7 years, or to any Indian tribal government located partially or entirely within the boundaries of such States, and take into account—
 
 &emsp;(1) the extent and nature of the hazards to be mitigated;
 
@@ -100,9 +110,13 @@ In determining whether to provide technical and financial assistance to a State 
 
 &emsp;(8) the opportunity to fund activities that maximize net benefits to society;
 
-&emsp;(9) the extent to which assistance will fund mitigation activities in small impoverished communities; and
+&emsp;(9) the extent to which assistance will fund mitigation activities in small impoverished communities;
 
-&emsp;(10) such other criteria as the President establishes in consultation with State and local governments.
+&emsp;(10) the extent to which the State, local, Indian tribal, or territorial government has facilitated the adoption and enforcement of the latest published editions of relevant consensus-based codes, specifications, and standards, including amendments made by State, local, Indian tribal, or territorial governments during the adoption process that incorporate the latest hazard-resistant designs and establish criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings' users against disasters;
+
+&emsp;(11) the extent to which the assistance will fund activities that increase the level of resiliency; and
+
+&emsp;(12) such other criteria as the President establishes in consultation with State and local governments.
 
 #### (h) Federal share
 
@@ -114,61 +128,21 @@ In determining whether to provide technical and financial assistance to a State 
 
 &emsp;Notwithstanding paragraph (1), the President may contribute up to 90 percent of the total cost of a mitigation activity carried out in a small impoverished community.
 
-#### (i) National Predisaster Mitigation Fund
+#### (i) National public infrastructure predisaster mitigation assistance
 
-#### (1) Establishment
+#### (1) In general
 
-&emsp;The President may establish in the Treasury of the United States a fund to be known as the "National Predisaster Mitigation Fund", to be used in carrying out this section.
+&emsp;The President may set aside from the Disaster Relief Fund, with respect to each major disaster, an amount equal to 6 percent of the estimated aggregate amount of the grants to be made pursuant to sections 5170b, 5172, 5173, 5174, 5177, 5183, and 5189f of this title for the major disaster in order to provide technical and financial assistance under this section and such set aside shall be deemed to be related to activities carried out pursuant to major disasters under this chapter.
 
-#### (2) Transfers to Fund
+#### (2) Estimated aggregate amount
 
-&emsp;There shall be deposited in the Fund—
+&emsp;Not later than 180 days after each major disaster declaration pursuant to this chapter, the estimated aggregate amount of grants for purposes of paragraph (1) shall be determined by the President and such estimated amount need not be reduced, increased, or changed due to variations in estimates.
 
-&emsp;&emsp;(A) amounts appropriated to carry out this section, which shall remain available until expended; and
+#### (3) No reduction in amounts
 
-&emsp;&emsp;(B) sums available from gifts, bequests, or donations of services or property received by the President for the purpose of predisaster hazard mitigation.
+&emsp;The amount set aside pursuant to paragraph (1) shall not reduce the amounts otherwise made available for sections 5170b, 5170c, 5172, 5173, 5174, 5177, 5183, and 5189f of this title under this chapter.
 
-#### (3) Expenditures from Fund
-
-&emsp;Upon request by the President, the Secretary of the Treasury shall transfer from the Fund to the President such amounts as the President determines are necessary to provide technical and financial assistance under this section.
-
-#### (4) Investment of amounts
-
-#### (A) In general
-
-&emsp;&emsp;The Secretary of the Treasury shall invest such portion of the Fund as is not, in the judgment of the Secretary of the Treasury, required to meet current withdrawals. Investments may be made only in interest-bearing obligations of the United States.
-
-#### (B) Acquisition of obligations
-
-&emsp;&emsp;For the purpose of investments under subparagraph (A), obligations may be acquired—
-
-&emsp;&emsp;&emsp;(i) on original issue at the issue price; or
-
-&emsp;&emsp;&emsp;(ii) by purchase of outstanding obligations at the market price.
-
-#### (C) Sale of obligations
-
-&emsp;&emsp;Any obligation acquired by the Fund may be sold by the Secretary of the Treasury at the market price.
-
-#### (D) Credits to Fund
-
-&emsp;&emsp;The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to and form a part of the Fund.
-
-#### (E) Transfers of amounts
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;The amounts required to be transferred to the Fund under this subsection shall be transferred at least monthly from the general fund of the Treasury to the Fund on the basis of estimates made by the Secretary of the Treasury.
-
-#### (ii) Adjustments
-
-&emsp;&emsp;&emsp;Proper adjustment shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
-
-#### (j) Limitation on total amount of financial assistance
-
-The President shall not provide financial assistance under this section in an amount greater than the amount available in the Fund.
-
-#### (k) Multihazard advisory maps
+#### (j) Multihazard advisory maps
 
 #### (1) Definition of multihazard advisory map
 
@@ -198,21 +172,11 @@ The President shall not provide financial assistance under this section in an am
 
 &emsp;&emsp;&emsp;(iii) other public uses.
 
-#### (l) Report on Federal and State administration
+#### (k) Report on Federal and State administration
 
 Not later than 18 months after October 30, 2000, the President, in consultation with State and local governments, shall submit to Congress a report evaluating efforts to implement this section and recommending a process for transferring greater authority and responsibility for administering the assistance program established under this section to capable States.
 
-#### (m) Authorization of appropriations
-
-There are authorized to be appropriated to carry out this section—
-
-&emsp;(1) $180,000,000 for fiscal year 2011;
-
-&emsp;(2) $200,000,000 for fiscal year 2012; and
-
-&emsp;(3) $200,000,000 for fiscal year 2013.
-
-#### (n) Prohibition on earmarks
+#### (l) Prohibition on earmarks
 
 #### (1) Definition
 
@@ -226,13 +190,43 @@ There are authorized to be appropriated to carry out this section—
 
 &emsp;The Administrator of the Federal Emergency Management Agency shall submit to Congress a certification regarding whether all financial assistance under this section was awarded in accordance with this section.
 
-(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan. 23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343; Pub. L. 109–139, §2, Dec. 22, 2005, 119 Stat. 2649; Pub. L. 110–329, div. D, title V, §553, Sept. 30, 2008, 122 Stat. 3690; Pub. L. 111–83, title V, §543, Oct. 28, 2009, 123 Stat. 2176; Pub. L. 111–351, §§3(a), (b), 4, Jan. 4, 2011, 124 Stat. 3864.)
+#### (m) Latest published editions
+
+For purposes of subsections (e)(1)(B)(iv) and (g)(10), the term "latest published editions" means, with respect to relevant consensus-based codes, specifications, and standards, the 2 most recently published editions.
+
+(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan.23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343; Pub. L. 109–139, §2, Dec. 22, 2005, 119 Stat. 2649; Pub. L. 110–329, div. D, title V, §553, Sept. 30, 2008, 122 Stat. 3690; Pub. L. 111–83, title V, §543, Oct. 28, 2009, 123 Stat. 2176; Pub. L. 111–351, §§3(a), (b), 4, Jan. 4, 2011, 124 Stat. 3864; Pub. L. 115–254, div. D, §1234(a), (d), Oct. 5, 2018, 132 Stat. 3461, 3463.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–254, div. D, §1234(d), Oct. 5, 2018, 132 Stat. 3463, provided that, effective 5 years after Oct. 5, 2018, this section is amended by striking subsection (m). See 2018 Amendment note below.</i>
 
 #### References in Text
 
-This chapter, referred to in subsec. (g)(5), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+This chapter, referred to in subsecs. (e)(1)(B)(iv), (g)(5), (10), and (i), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–254, §1234(a)(1), inserted "Public Infrastructure" after "National".
+
+Subsec. (e)(1)(B)(iv). Pub. L. 115–254, §1234(a)(2), added cl. (iv).
+
+Subsec. (f)(1). Pub. L. 115–254, §1234(a)(3)(A), inserted "for mitigation activities that are cost effective" after "competitive basis".
+
+Subsec. (f)(3). Pub. L. 115–254, §1234(a)(3)(B), added par. (3).
+
+Subsec. (g). Pub. L. 115–254, §1234(a)(4)(A), in introductory provisions, inserted "provide financial assistance only in States that have received a major disaster declaration in the previous 7 years, or to any Indian tribal government located partially or entirely within the boundaries of such States, and" after "the President shall".
+
+Subsec. (g)(10) to (12). Pub. L. 115–254, §1234(a)(4)(B)–(D), added pars. (10) and (11) and redesignated former par. (10) as (12).
+
+Subsec. (i). Pub. L. 115–254, §1234(a)(5), added subsec. (i) and struck out former subsec. (i) which related to National Predisaster Mitigation Fund.
+
+Subsecs. (j) to (l). Pub. L. 115–254, §1234(a)(6), (7), redesignated subsecs. (k), (l), and (n) as (j), (k), and (l), respectively, and struck out former subsec. (j) which related to limitation on total amount of financial assistance.
+
+Subsec. (m). Pub. L. 115–254, §1234(d), struck out subsec. (m) which defined the term "latest published editions" for subsecs. (e)(1)(B)(iv) and (g)(10).
+
+Pub. L. 115–254, §1234(a)(6), (8), added subsec. (m) and struck out former subsec. (m) which related to authorization of appropriations.
+
+Subsec. (n). Pub. L. 115–254, §1234(a)(7), redesignated subsec. (n) as (l).
 
 <b>2011</b>—Subsec. (f). Pub. L. 111–351, §3(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to a different allocation of funds.
 
@@ -249,6 +243,14 @@ Subsec. (n). Pub. L. 111–351, §4, added subsec. (n).
 <b>2004</b>—Subsec. (m). Pub. L. 108–447 substituted "2005" for "2004".
 
 Pub. L. 108–199 substituted "2004" for "2003".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under section 5121 of this title.
+
+Pub. L. 115–254, div. D, §1234(b), Oct. 5, 2018, 132 Stat. 3462, provided that: "The amendments made to section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) by paragraphs (3) and (5) of subsection (a) shall apply to funds appropriated on or after the date of enactment of this Act \[Oct. 5, 2018\]."
+
+Pub. L. 115–254, div. D, §1234(d), Oct. 5, 2018, 132 Stat. 3463, provided that the amendment made by section 1234(d) is effective on the date that is 5 years after Oct. 5, 2018.
 
 #### Findings
 

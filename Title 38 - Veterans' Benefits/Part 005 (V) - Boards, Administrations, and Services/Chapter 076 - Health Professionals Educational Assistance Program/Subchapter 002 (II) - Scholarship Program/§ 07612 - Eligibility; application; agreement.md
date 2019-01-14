@@ -12,7 +12,7 @@
 
 (3) The Secretary may designate additional fields of education or training as qualifying fields of education or training if the education or training leads to employment in a position which would qualify the individual for increased basic pay under subsection (a)(1) of section 7455 of this title for personnel described in subsection (a)(2)(B) of such section.
 
-(4) Before awarding the initial scholarship in a course of education or training other than medicine or nursing, the Secretary shall notify the Committees on Veterans' Affairs of the Senate and House of Representatives of the Secretary's intent to award a scholarship in such course of education or training. The notice shall include a statement of the reasons why the award of scholarships in that course of education or training is necessary to assist in providing the Department with an adequate supply of personnel in the health profession concerned. Any such notice shall be given not less than 60 days before the first such scholarship is awarded.
+(4) Before awarding the initial scholarship in a course of education or training other than medicine or nursing, the Secretary shall notify theCommittees on Veterans' Affairs of the Senate and House of Representatives of the Secretary's intent to award a scholarship in such course of education or training. The notice shall include a statement of the reasons why the award of scholarships in that course of education or training is necessary to assist in providing the Department with an adequate supply of personnel in the health profession concerned. Any such notice shall be given not less than 60 days before the first such scholarship is awarded.
 
 (5) In selecting applicants for the Scholarship Program, the Secretary—
 
@@ -21,6 +21,20 @@
 &emsp;(B) shall give priority to applicants pursuing a course of education or training toward a career in an occupation for which the Inspector General of the Department has, in the most current determination published in the Federal Register pursuant to section 7412(a) of this title, determined that there is one of the largest staffing shortages throughout the Department with respect to such occupation; and
 
 &emsp;(C) shall ensure an equitable allocation of scholarships to persons enrolled in the second year of a program leading to an associate degree in nursing.
+
+(6)(A) Of the scholarships awarded under this subchapter, the Secretary shall ensure that not less than 50 scholarships are awarded each year to individuals who are accepted for enrollment or enrolled (as described in section 7602 of this title) in a program of education or training leading to employment as a physician or dentist until such date as the Secretary determines that the staffing shortage of physicians and dentists in the Department is less than 500.
+
+(B) After such date, the Secretary shall ensure that of the scholarships awarded under this subchapter, a number of scholarships is awarded each year to individuals referred to in subparagraph (A) in an amount equal to not less than ten percent of the staffing shortage of physicians and dentists in the Department, as determined by the Secretary.
+
+(C) Notwithstanding subsection (c)(1), the agreement between the Secretary and a participant in the Scholarship Program who receives a scholarship pursuant to this paragraph shall provide the following:
+
+&emsp;(i) The Secretary's agreement to provide the participant with a scholarship under this subchapter for a specified number (from two to four) of school years during which the participant is pursuing a course of education or training leading to employment as a physician or dentist.
+
+&emsp;(ii) The participant's agreement to serve as a full-time employee in the Veterans Health Administration for a period of time (hereinafter in this subchapter referred to as the "period of obligated service") of 18 months for each school year or part thereof for which the participant was provided a scholarship under the Scholarship Program.
+
+(D) In providing scholarships pursuant to this paragraph, the Secretary may provide a preference for applicants who are veterans.
+
+(E) On an annual basis, the Secretary shall provide to appropriate educational institutions informational material about the availability of scholarships under this paragraph.
 
 (c)(1) An agreement between the Secretary and a participant in the Scholarship Program shall (in addition to the requirements set forth in section 7604 of this title) include the following:
 
@@ -32,15 +46,17 @@
 
 (3) In the case of a participant who is a part-time student—
 
-&emsp;(A) the period of obligated service shall be reduced in accordance with the proportion that the number of credit hours carried bysuch participant in any such school year bears to the number of credit hours required to be carried by a full-time student in the course of training being pursued by the participant, but in no event to less than one year; and
+&emsp;(A) the period of obligated service shall be reduced in accordance with the proportion that the number of credit hours carried by such participant in any such school year bears to the number of credit hours required to be carried by a full-time student in the course of training being pursued by the participant, but in no event to less than one year; and
 
 &emsp;(B) the agreement shall include the participant's agreement to maintain employment, while enrolled in such course of education or training, as a Department employee permanently assigned to a Department health-care facility.
 
 (4) If a participant's period of obligated service is deferred under section 7616(b)(3)(A)(i) of this title, the agreement terms under paragraph (1) of this subsection shall provide for the participant to serve any additional period of obligated service that is prescribed by the Secretary under section 7616(b)(4)(B) of this title.
 
-(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 520, §4312; amended Pub. L. 101–237, title II, §207(a), Dec. 18, 1989, 103 Stat. 2068; renumbered §7612 and amended Pub. L. 102–40, title IV, §§402(b)(1), (d)(1), 403(b)(4), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title II, §202(a), Oct. 9, 1992, 106 Stat. 1983; Pub. L. 103–446, title XII, §1201(b)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 111–163, title VI, §603(b), May 5, 2010, 124 Stat. 1173; Pub. L. 113–146, title III, §301(c), Aug. 7, 2014, 128 Stat. 1786.)
+(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 520, §4312; amended Pub. L. 101–237, title II, §207(a), Dec. 18, 1989, 103 Stat. 2068; renumbered §7612 and amended Pub. L. 102–40, title IV, §§402(b)(1), (d)(1), 403(b)(4), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title II, §202(a), Oct. 9, 1992, 106 Stat. 1983; Pub. L. 103–446, title XII, §1201(b)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 111–163, title VI, §603(b), May 5, 2010, 124 Stat. 1173; Pub. L. 113–146, title III, §301(c), Aug. 7, 2014, 128 Stat. 1786; Pub. L. 115–182, title III, §301(a), June 6, 2018, 132 Stat. 1462.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(6). Pub. L. 115–182 added par. (6).
 
 <b>2014</b>—Subsec. (b)(5)(B), (C). Pub. L. 113–146 added subpar. (B) and redesignated former subpar. (B) as (C).
 

@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-(1)(A) The Board of Trustees of Gallaudet University is authorized, in accordance with theagreement under section 4305 of this title, to maintain and operate the Laurent Clerc National Deaf Education Center (referred to in this section as the "Clerc Center") to carry out exemplary elementary and secondary education programs, projects, and activities for the primary purpose of developing, evaluating, and disseminating innovative curricula, instructional techniques and strategies, and materials that can be used in various educational environments serving individuals who are deaf or hard of hearing throughout the Nation.
+(1)(A) The Board of Trustees of Gallaudet University is authorized, in accordance with the agreement under section 4305 of this title, to maintain and operate the Laurent Clerc National Deaf Education Center (referred to in this section as the "Clerc Center") to carry out exemplary elementary and secondary education programs, projects, and activities for the primary purpose of developing, evaluating, and disseminating innovative curricula, instructional techniques and strategies, and materials that can be used in various educational environments serving individuals who are deaf or hard of hearing throughout the Nation.
 
 (B) The elementary and secondary education programs described in subparagraph (A) shall serve students with a broad spectrum of needs, including students who are lower achieving academically, who come from non-English-speaking homes, who have secondary disabilities, who are members of minority groups, or who are from rural areas.
 
@@ -132,7 +132,7 @@ Subsec. (b)(4)(C). Pub. L. 105–244, §912(5), amended subpar. (C) generally. P
 
 <b>1993</b>—Pub. L. 103–73, §203(d)(1), substituted "education" for "educational" in section catchline.
 
-Subsec. (a)(1). Pub. L. 103–73, §203(d)(2), in subpar. (A) substituted "deaf or hard" for "deaf and individuals who are hard", in subpar. (B) inserted "education" after "elementary and secondary" and substituted "non-English-speaking" for "non-English speaking", and in subpar. (C), in introductory provisions, inserted "education" after "elementary and secondary", in cl. (i) substituted "students" for "individuals" wherever appearing and "deaf from the age of onset of deafness to age fifteen, inclusive, but not beyond the eighthgrade or its equivalent," for "deaf,", and in cl. (ii) substituted "students" for "individuals" wherever appearing and "deaf from grades nine through twelve, inclusive," for "deaf,".
+Subsec. (a)(1). Pub. L. 103–73, §203(d)(2), in subpar. (A) substituted "deaf or hard" for "deaf and individuals who are hard", in subpar. (B) inserted "education" after "elementary and secondary" and substituted "non-English-speaking" for "non-English speaking", and in subpar. (C), in introductory provisions, inserted "education" after "elementary and secondary", in cl. (i) substituted "students" for "individuals" wherever appearing and "deaf from the age of onset of deafness to age fifteen, inclusive, but not beyond the eighth grade or its equivalent," for "deaf,", and in cl. (ii) substituted "students" for "individuals" wherever appearing and "deaf from grades nine through twelve, inclusive," for "deaf,".
 
 Subsec. (b)(1). Pub. L. 103–73, §203(d)(3), substituted "infants, children, and youth" for "infants and children" in subpar. (A) and a period for the semicolon at end of subpar. (C).
 

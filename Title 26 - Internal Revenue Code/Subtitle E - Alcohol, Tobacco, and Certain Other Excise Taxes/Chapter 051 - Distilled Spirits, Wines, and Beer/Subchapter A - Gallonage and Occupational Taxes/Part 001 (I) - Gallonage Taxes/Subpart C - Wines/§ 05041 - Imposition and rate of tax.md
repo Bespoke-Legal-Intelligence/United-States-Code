@@ -100,7 +100,7 @@ There is hereby imposed on all wines (including imitation, substandard, or artif
 
 &emsp;&emsp;&emsp;(i) a limitation to ensure that the number of wine gallons of wine for which the tax credit has been assigned by a foreign producer—
 
-&emsp;&emsp;&emsp;&emsp;(I) to any importer does not exceed the number of wine gallons of wine producedby such foreign producer during the calendar year which were imported into the United States by such importer, and
+&emsp;&emsp;&emsp;&emsp;(I) to any importer does not exceed the number of wine gallons of wine produced by such foreign producer during the calendar year which were imported into the United States by such importer, and
 
 &emsp;&emsp;&emsp;&emsp;(II) to all importers does not exceed the 750,000 wine gallons of wine to which the tax credit applies,
 
@@ -186,7 +186,7 @@ For purposes of subsection (b)(6), the term "hard cider" means a wine—
 
 &emsp;This subsection shall not apply to wine removed after December 31, 2019.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 86–75, §3(a)(5), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(7), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(7), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(6), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(7), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(7), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(c), title VIII, §806(a), June 21, 1965, 79 Stat. 150, 162; Pub. L. 93–490, §6(a), Oct. 26, 1974, 88 Stat. 1468; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title VI, §6101(a), Nov. 10, 1988, 102 Stat.3710; Pub. L. 101–508, title XI, §11201(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–415, 1388–416; Pub. L. 104–188, title I, §1702(b)(5), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §908(a), (b), Aug. 5, 1997, 111 Stat. 876; Pub. L. 105–206, title VI, §6009(a), July 22, 1998, 112 Stat. 812; Pub. L. 114–113, div. Q, title III, §335(a), Dec. 18, 2015, 129 Stat. 3109; Pub. L. 115–97, title I, §§13804(a)–(c), 13805(a), 13806(a), Dec. 22, 2017, 131 Stat. 2173–2175.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 86–75, §3(a)(5), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(7), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(7), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(6), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(7), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(7), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(c), title VIII, §806(a), June 21, 1965, 79 Stat. 150, 162; Pub. L. 93–490, §6(a), Oct. 26, 1974, 88 Stat. 1468; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title VI, §6101(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 101–508, title XI, §11201(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–415, 1388–416; Pub. L. 104–188, title I, §1702(b)(5), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §908(a), (b), Aug. 5, 1997, 111 Stat. 876; Pub. L. 105–206, title VI, §6009(a), July 22, 1998, 112 Stat. 812; Pub. L. 114–113, div. Q, title III, §335(a), Dec. 18, 2015, 129 Stat. 3109; Pub. L. 115–97, title I, §§13804(a)–(c), 13805(a), 13806(a), Dec. 22, 2017, 131 Stat. 2173–2175.)
 
 #### Prior Provisions
 
@@ -290,7 +290,7 @@ Pub. L. 100–647, title VI, §6101(b), Nov. 10, 1988, 102 Stat. 3710, provided 
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–490, §6(b), Oct. 26, 1974, 88 Stat. 1468, provided that: "The amendment made by this section\[amending this section\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of enactment of this Act \[Oct. 26, 1974\]."
+Pub. L. 93–490, §6(b), Oct. 26, 1974, 88 Stat. 1468, provided that: "The amendment made by this section \[amending this section\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of enactment of this Act \[Oct. 26, 1974\]."
 
 #### Effective Date of 1965 Amendment
 

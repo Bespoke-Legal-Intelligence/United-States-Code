@@ -6,7 +6,7 @@ Any records or other documents required to be kept under this part or regulation
 
 #### (b) Entry of premises for inspection
 
-The Secretary may enter during business hours the premises (including places of storage) of any dealer for the purpose of inspecting or examining any records or other documents required to be kept by such dealer under this chapter or regulations issued pursuant thereto and any distilled spirits, wines, or beer kept or stored by such dealer on such premises.
+The Secretary may enter during business hours the premises (including places of storage)of any dealer for the purpose of inspecting or examining any records or other documents required to be kept by such dealer under this chapter or regulations issued pursuant thereto and any distilled spirits, wines, or beer kept or stored by such dealer on such premises.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1348, §5146; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; renumbered §5123, Pub. L. 109–59, title XI, §11125(b)(7), Aug. 10, 2005, 119 Stat. 1955.)
 

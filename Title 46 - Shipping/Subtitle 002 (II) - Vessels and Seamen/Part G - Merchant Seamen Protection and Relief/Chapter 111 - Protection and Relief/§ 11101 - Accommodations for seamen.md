@@ -14,7 +14,7 @@
 
 (c) A steam vessel of the United States operating on the Mississippi River or its tributaries shall provide, under the direction and approval of the Secretary, an appropriate place for the crew that shall conform to the requirements of this section, as far as they apply to the steam vessel, by providing a properly heated sleeping room in the engineroom of the steam vessel properly protected from the cold, wind, and rain by means of suitable awnings or screens on either side of the guards or sides and forward, reaching from the boiler deck to the lower or main deck.
 
-(d) A merchant vessel of the United States, the construction of which began after March 4, 1915, having more than 10 seamen on deck, shall have at least one lighted, clean, and properly heated and ventilated washing place. There shall be provided at least one washing outfit for each 2 seamen of the watch. A separate washing place shall be provided for the fireroom and engineroom seamen, if their number is more than 10, that shall be large enough to accommodate at least one-sixth of them at the same time, and have a hot and cold water supply and a sufficient number of washbasins, sinks, and shower baths.
+(d) A merchant vessel of the United States, the construction of which began after March 4, 1915, having more than 10 seamen on deck, shall have at least one lighted, clean, and properly heated and ventilated washing place. There shall be provided at least one washing outfit for each2 seamen of the watch. A separate washing place shall be provided for the fireroom and engineroom seamen, if their number is more than 10, that shall be large enough to accommodate at least one-sixth of them at the same time, and have a hot and cold water supply and a sufficient number of washbasins, sinks, and shower baths.
 
 (e) Forecastles shall be fumigated at intervals provided by regulations prescribed by the Secretary of Health and Human Services, with the approval of the Secretary, and shall have at least 2 exits, one of which may be used in emergencies.
 
@@ -36,7 +36,7 @@ Section 11101 provides mandatory standards for crew accommodations and a penalty
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–324 inserted "as measured under section 14502 of this title, or an alternatetonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "100 gross tons" in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–324 inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "100 gross tons" in introductory provisions.
 
 <b>1985</b>—Subsec. (d). Pub. L. 99–36 substituted "lighted" for "light".
 

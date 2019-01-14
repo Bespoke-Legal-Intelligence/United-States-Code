@@ -26,7 +26,7 @@ The approach of the bill is to set forth the copyright owner's exclusive rights 
 
 The exclusive rights accorded to a copyright owner under section 106 are "to do and to authorize" any of the activities specified in the five numbered clauses. Use of the phrase "to authorize" is intended to avoid any questions as to the liability of contributory infringers. For example, a person who lawfully acquires an authorized copy of a motion picture would be an infringer if he or she engages in the business of renting it to others for purposes of unauthorized public performance.
 
-<b>Rights of Reproduction, Adaptation, and Publication.</b> The first three clauses of section 106, which cover all rights under a copyright except those of performance and display, extend to every kind of copyrighted work. The exclusive rights encompassed by these clauses, though closely related, are independent; they can generally be characterized as rights of copying, recording, adaptation, and publishing. A single act of infringement may violate all of these rights at once, as where a publisher reproduces, adapts, and sells copies of a person's copyrighted work as part of a publishing venture. Infringement takes place when any one of the rights is violated: where, for example, a printer reproduces copies without selling them or a retailer sells copies without having anything to do with their reproduction. The references to "copies or phonorecords," although in the plural, are intended here and throughout the bill to include the singular (1 U.S.C. §1).
+<b>Rights of Reproduction, Adaptation, and Publication.</b> The first three clauses of section 106, which cover allrights under a copyright except those of performance and display, extend to every kind of copyrighted work. The exclusive rights encompassed by these clauses, though closely related, are independent; they can generally be characterized as rights of copying, recording, adaptation, and publishing. A single act of infringement may violate all of these rights at once, as where a publisher reproduces, adapts, and sells copies of a person's copyrighted work as part of a publishing venture. Infringement takes place when any one of the rights is violated: where, for example, a printer reproduces copies without selling them or a retailer sells copies without having anything to do with their reproduction. The references to "copies or phonorecords," although in the plural, are intended here and throughout the bill to include the singular (1 U.S.C. §1).
 
 <i>Reproduction</i>.—Read together with the relevant definitions in section 101, the right "to reproduce the copyrighted work in copies or phonorecords" means the right to produce a material object in which the work is duplicated, transcribed, imitated, or simulated in a fixed form from which it can be "perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device." As under the present law, a copyrighted work would be infringed by reproducing it in whole or in any substantial part, and by duplicating it exactly or by imitation or simulation. Wide departures or variations from the copyrighted work would still be an infringement as long as the author's "expression" rather than merely the author's "ideas" are taken. An exception to this general principle, applicable to the reproduction of copyrighted sound recordings, is specified in section 114.
 
@@ -34,7 +34,7 @@ The exclusive rights accorded to a copyright owner under section 106 are "to do 
 
 <i>Preparation of Derivative Works</i>.—The exclusive right to prepare derivative works, specified separately in clause (2) of section 106, overlaps the exclusive right of reproduction to some extent. It is broader than that right, however, in the sense that reproduction requires fixation in copies or phonorecords, whereas the preparation of a derivative work, such as a ballet, pantomime, or improvised performance, may be an infringement even though nothing is ever fixed in tangible form.
 
-To be an infringement the "derivative work" must be "based upon the copyrighted work," and the definitionin section 101 refers to "a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted." Thus, to constitute a violation of section 106(2), the infringing work must incorporate a portion of the copyrighted work in some form; for example, a detailed commentary on a work or a programmatic musical composition inspired by a novel would not normally constitute infringements under this clause.
+To be an infringement the "derivative work" must be "based upon the copyrighted work," and the definition in section 101 refers to "a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted." Thus, to constitute a violation of section 106(2), the infringing work must incorporate a portion of the copyrighted work in some form; for example, a detailed commentary on a work or a programmatic musical composition inspired by a novel would not normally constitute infringements under this clause.
 
 <i>Use in Information Storage and Retrieval Systems</i>.—As section 117 declares explicitly, the bill is not intended to alter the present law with respect to the use of copyrighted works in computer systems.
 
@@ -50,13 +50,13 @@ The exclusive right of public performance is expanded to include not only motion
 
 <b>Definitions.</b> Under the definitions of "perform," "display," "publicly," and "transmit" in section 101, the concepts of public performance and public display cover not only the initial rendition or showing, but also any further act by which that rendition or showing is transmitted or communicated to the public. Thus, for example: a singer is performing when he or she sings a song; a broadcasting network is performing when it transmits his or her performance (whether simultaneously or from records); a local broadcaster is performing when it transmits the network broadcast; a cable television system is performing when it retransmits the broadcast to its subscribers; and any individual is performing whenever he or she plays a phonorecord embodying the performance or communicates the performance by turning on a receiving set. Although any act by which the initial performance or display is transmitted, repeated, or made to recur would itself be a "performance" or "display" under the bill, it would not be actionable as an infringement unless it were done "publicly," as defined in section 101. Certain other performances and displays, in addition to those that are "private," are exempted or given qualified copyright control under sections 107 through 118.
 
-To "perform" a work, under the definition in section 101, includes reading a literary work aloud, singing or playing music, dancing a ballet or other choreographic work, and acting out a dramatic work or pantomime. A performance may be accomplished "either directly or by means of any device or process," including all kinds of equipment for reproducing or amplifying sounds or visual images, any sort of transmitting apparatus, any type of electronic retrieval system, and any other techniques and systems not yet in use or even invented.
+To "perform" a work, under the definition in section 101, includes reading a literary work aloud, singing or playing music, dancing a ballet or other choreographic work, and acting out a dramatic work or pantomime. Aperformance may be accomplished "either directly or by means of any device or process," including all kinds of equipment for reproducing or amplifying sounds or visual images, any sort of transmitting apparatus, any type of electronic retrieval system, and any other techniques and systems not yet in use or even invented.
 
 The definition of "perform" in relation to "a motion picture or other audiovisual work" is "to show its images in any sequence or to make the sounds accompanying it audible." The showing of portions of a motion picture, filmstrip, or slide set must therefore be sequential to constitute a "performance" rather than a "display", but no particular order need be maintained. The purely aural performance of a motion picture sound track, or of the sound portions of an audiovisual work, would constitute a performance of the "motion picture or other audiovisual work"; but, where some of the sounds have been reproduced separately on phonorecords, a performance from the phonorecord would not constitute performance of the motion picture or audiovisual work.
 
 The corresponding definition of "display" covers any showing of a "copy" of the work, "either directly or by means of a film, slide, television image, or any other device or process." Since "copies" are defined as including the material object "in which the work is first fixed," the right of public display applies to original works of art as well as to reproductions of them. With respect to motion pictures and other audiovisual works, it is a "display" (rather than a "performance") to show their "individual images nonsequentially." In addition to the direct showings of a copy of a work, "display" would include the projection of an image on a screen or other surface by any method, the transmission of an image by electronic or other means, and the showing of an image on a cathode ray tube, or similar viewing apparatus connected with any sort of information storage and retrieval system.
 
-Under clause (1) of the definition of "publicly" in section 101, a performance or display is "public" if it takes place "at a place open to the public or at any place where a substantial number of persons outside of a normal circle of a family and its social acquaintances is gathered." One of the principal purposes of the definition was to make clear that, contrary to the decision in <i>Metro-Goldwyn-Mayer Distributing Corp. v. Wyatt</i>, 21 C.O.Bull. 203 (D.Md.1932), performances in "semipublic" places such as clubs, lodges, factories, summer camps, and schools are "public performances" subject to copyright control. The term "a family" in this context would include an individual living alone, so that a gathering confined to the individual's social acquaintances would normally be regarded as private. Routine meetings of businesses and governmental personnelwould be excluded because they do not represent the gathering of a "substantial number of persons."
+Under clause (1) of the definition of "publicly" in section 101, a performance or display is "public" if it takes place "at a place open to the public or at any place where a substantial number of persons outside of a normal circle of a family and its social acquaintances is gathered." One of the principal purposes of the definition was to make clear that, contrary to the decision in <i>Metro-Goldwyn-Mayer Distributing Corp. v. Wyatt</i>, 21 C.O.Bull. 203 (D.Md.1932), performances in "semipublic" places such as clubs, lodges, factories, summer camps, and schools are "public performances" subject to copyright control. The term "a family" in this context would include an individual living alone, so that a gathering confined to the individual's social acquaintances would normally be regarded as private. Routine meetings of businesses and governmental personnel would be excluded because they do not represent the gathering of a "substantial number of persons."
 
 Clause (2) of the definition of "publicly" in section 101 makes clear that the concepts of public performance and public display include not only performances and displays that occur initially in a public place, but also acts that transmit or otherwise communicate a performance or display of the work to the public by means of any device or process. The definition of "transmit"—to communicate a performance or display "by any device or process whereby images or sound are received beyond the place from which they are sent"—is broad enough to include all conceivable forms and combinations of wired or wireless communications media, including but by no means limited to radio and television broadcasting as we know them. Each and every method by which the images or sounds comprising a performance or display are picked up and conveyed is a "transmission," and if the transmission reaches the public in my \[any\] form, the case comes within the scope of clauses (4) or (5) of section 106.
 
@@ -83,4 +83,58 @@ Amendment by Pub. L. 104–39 effective 3 months after Nov. 1, 1995, see section
 Amendment by Pub. L. 101–650 applicable to any architectural work created on or after Dec. 1, 1990, and any architectural work, that, on Dec. 1, 1990, is unconstructed and embodied in unpublished plans or drawings, except that protection for such architectural work under this title terminates on Dec. 31, 2002, unless the work is constructed by that date, see section 706 of Pub. L. 101–650, set out as a note under section 101 of this title.
 
 Pub. L. 101–318, §3(e)(3), July 3, 1990, 104 Stat. 289, provided that: "The amendment made by subsection (d) \[amending this section\] shall be effective as of November 16, 1988."
+
+#### Performing Rights Society Consent Decrees
+
+Pub. L. 115–264, title I, §105, Oct. 11, 2018, 132 Stat. 3726, provided that:
+
+"(a)
+
+Definition.—In this section, the term 'performing rights society' has the meaning given the term in section 101 of title 17, United States Code.
+
+"(b)
+
+Notification of Review.—
+
+&emsp;"(1)
+
+In general.—The Department of Justice shall provide timely briefings upon request of any Member of the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives regarding the status of a review in progress of a consent decree between the United States and a performing rights society.
+
+&emsp;"(2)
+
+Confidentiality and deliberative process.—In accordance with applicable rules relating to confidentiality and agency deliberative process, the Department of Justice shall share with such Members of Congress detailed and timely information and pertinent documents related to the consent decree review.
+
+"(c)
+
+Action Before Motion to Terminate.—
+
+&emsp;"(1)
+
+In general.—Before filing with the appropriate district court of the United States a motion to terminate a consent decree between the United States and a performing rights society, including a motion to terminate a consent decree after the passage of a specified period of time, the Department of Justice shall—
+
+&emsp;&emsp;"(A) notify Members of Congress and committees of Congress described in subsection (b); and
+
+&emsp;&emsp;"(B) provide to such Members of Congress and committees information regarding the impact of the proposed termination on the market for licensing the public performance of musical works should the motion be granted.
+
+&emsp;"(2)
+
+Notification.—
+
+&emsp;&emsp;"(A)
+
+In general.—During the notification described in paragraph (1), and not later than a reasonable time before the date on which the Department of Justice files with the appropriate district court of the United States a motion to terminate a consent decree between the United States and a performing rights society, the Department of Justice should submit to the chairmen and ranking members of the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a written notification of the intent of the Department of Justice to file the motion.
+
+&emsp;&emsp;"(B)
+
+Contents.—The notification provided in subparagraph (A) shall include a written report to the chairmen and ranking members of the Committee on the Judiciary of \[the\] Senate and the Committee on the Judiciary of the House of Representatives setting forth—
+
+&emsp;&emsp;&emsp;"(i) an explanation of the process used by the Department of Justice to review the consent decree;
+
+&emsp;&emsp;&emsp;"(ii) a summary of the public comments received by the Department of Justice during the review by the Department; and
+
+&emsp;&emsp;&emsp;"(iii) other information provided to Congress under paragraph (1)(B).
+
+"(d)
+
+Scope.—This section applies only to a consent decree between the United States and a performing rights society."
 

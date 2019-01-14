@@ -2,7 +2,27 @@
 
 #### (a) Payments
 
-Subject to subsection (h)(2), the Secretary shall make payments under this section for direct expenses and for indirect expenses to qualified teaching health centers that are listed as sponsoring institutions by the relevant accrediting body for expansion of existing or establishment of new approved graduate medical residency training programs.
+#### (1) In general
+
+&emsp;Subject to subsection (h)(2), the Secretary shall make payments under this section for direct expenses and indirect expenses to qualified teaching health centers that are listed as sponsoring institutions by the relevant accrediting body for, as appropriate—
+
+&emsp;&emsp;(A) maintenance of filled positions at existing approved graduate medical residency training programs;
+
+&emsp;&emsp;(B) expansion of existing approved graduate medical residency training programs; and
+
+&emsp;&emsp;(C) establishment of new approved graduate medical residency training programs.
+
+#### (2) Per resident amount
+
+&emsp;In making payments under paragraph (1), the Secretary shall consider the cost of training residents at teaching health centers and the implications of the per resident amount on approved graduate medical residency training programs at teaching health centers.
+
+#### (3) Priority
+
+&emsp;In making payments under paragraph (1)(C), the Secretary shall give priority to qualified teaching health centers that—
+
+&emsp;&emsp;(A) serve a health professional shortage area with a designation in effect under section 254e of this title or a medically underserved community (as defined in section 295p of this title); or
+
+&emsp;&emsp;(B) are located in a rural area (as defined in section 1395ww(d)(2)(D) of this title).
 
 #### (b) Amount of payments
 
@@ -92,23 +112,23 @@ Payments under this section—
 
 #### (f) Reconciliation
 
-The Secretary shall determine any changes to the number of residents reported by a hospital in the application of the hospital for the current fiscal year to determine the final amount payable to the hospital for the current fiscal year for both direct expense and indirect expense amounts. Based on such determination, the Secretary shall recoup any overpayments made to pay any balance due to the extent possible. The final amount so determined shall be considered a final intermediary determination for the purposes of section 1395oo of this title and shall be subject to administrative and judicial review under that section in the same manner as the amount of payment under section 1395ww(d) <sup>2</sup> of this title is subject to review under such section.
+The Secretary shall determine any changes to the number of residents reported by a teaching health center in the application of the teaching health center for the current fiscal year to determine the final amount payable to the teaching health center for the current fiscal year for both direct expense and indirect expense amounts. Based on such determination, the Secretary shall recoup any overpayments made to pay any balance due to the extent possible. The final amount so determined shall be considered a final intermediary determination for the purposes of section 1395oo of this title and shall be subject to administrative and judicial review under that section in the same manner as the amount of payment under section 1395ww(d) <sup>2</sup> of this title is subject to review under such section.
 
 #### (g) Funding
 
 #### (1) In general
 
-&emsp;To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, and $30,000,000 for the period of the first and second quarters of fiscal year 2018, to remain available until expended.
+&emsp;To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, and $126,500,000 for each of fiscal years 2018 and 2019, to remain available until expended.
 
 #### (2) Administrative expenses
 
-&emsp;Of the amount made available to carry out this section for any fiscal year, the Secretary may not use more than 5 percent of such amount for the expenses of administering this section.
+&emsp;Of the amount made available to carry out this section for any fiscal year, the Secretary may not use more than 5 percent of suchamount for the expenses of administering this section.
 
 #### (h) Annual reporting required
 
 #### (1) Annual report
 
-&emsp;The report required under this paragraph for a qualified teaching health center for a fiscal year is a report that includes (in a form and manner specified by the Secretary) the following information for the residency academicyear completed immediately prior to such fiscal year:
+&emsp;The report required under this paragraph for a qualified teaching health center for a fiscal year is a report that includes (in a form and manner specified by the Secretary) the following information for the residency academic year completed immediately prior to such fiscal year:
 
 &emsp;&emsp;(A) The types of primary care resident approved training programs that the qualified teaching health center provided for residents.
 
@@ -116,7 +136,19 @@ The Secretary shall determine any changes to the number of residents reported by
 
 &emsp;&emsp;(C) The number of residents described in paragraph (4) who completed their residency training at the end of such residency academic year and care for vulnerable populations living in underserved areas.
 
-&emsp;&emsp;(D) Other information as deemed appropriate by the Secretary.
+&emsp;&emsp;(D) The number of patients treated by residents described in paragraph (4).
+
+&emsp;&emsp;(E) The number of visits by patients treated by residents described in paragraph (4).
+
+&emsp;&emsp;(F) Of the number of residents described in paragraph (4) who completed their residency training at the end of such residency academic year, the number and percentage of such residents entering primary care practice (meaning any of the areas of practice listed in the definition of a primary care residency program in section 293l–1 of this title).
+
+&emsp;&emsp;(G) Of the number of residents described in paragraph (4) who completed their residency training at the end of such residency academic year, the number and percentage of such residents who entered practice at a health care facility—
+
+&emsp;&emsp;&emsp;(i) primarily serving a health professional shortage area with a designation in effect under section 254e of this title or a medically underserved community (as defined in section 295p of this title); or
+
+&emsp;&emsp;&emsp;(ii) located in a rural area (as defined in section 1395ww(d)(2)(D) of this title).
+
+&emsp;&emsp;(H) Other information as deemed appropriate by the Secretary.
 
 #### (2) Audit authority; limitation on payment
 
@@ -162,15 +194,19 @@ In this section:
 
 &emsp;&emsp;(B) that meets criteria for accreditation (as established by the Accreditation Council for Graduate Medical Education, the American Osteopathic Association, or the American Dental Association).
 
-#### (2) Primary care residency program
+#### (2) New approved graduate medical residency training program
+
+&emsp;The term "new approved graduate medical residency training program" means an approved graduate medical residency training program for which the sponsoring qualified teaching health center has not received a payment under this section for a previous fiscal year (other than pursuant to subsection (a)(1)(C)).
+
+#### (3) Primary care residency program
 
 &emsp;The term "primary care residency program" has the meaning given that term in section 293l–1 of this title.
 
-#### (3) Qualified teaching health center
+#### (4) Qualified teaching health center
 
 &emsp;The term "qualified teaching health center" has the meaning given the term "teaching health center" in section 293l–1 of this title.
 
-(July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670; amended Pub. L. 114–10, title II, §221(b), Apr. 16, 2015, 129 Stat. 154; Pub. L. 115–63, title III, §301(a), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–96, div. C, title I, §3101(c), Dec. 22, 2017, 131 Stat. 2048.)
+(July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670; amended Pub. L. 114–10, title II, §221(b), Apr. 16, 2015, 129 Stat. 154; Pub. L. 115–63, title III, §301(a), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–96, div. C, title I, §3101(c), Dec. 22, 2017, 131 Stat. 2048; Pub. L. 115–123, div. E, title IX, §50901(d)(1)–(3), (5), (6), Feb. 9, 2018, 132 Stat. 287–289.)
 
 #### References in Text
 
@@ -184,11 +220,25 @@ Another section 340H of act July 1, 1944, was renumbered section 340I and is cla
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a). Pub. L. 115–123, §50901(d)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "Subject to subsection (h)(2), the Secretary shall make payments under this section for direct expenses and for indirect expenses to qualified teaching health centers that are listed as sponsoring institutions by the relevant accrediting body for expansion of existing or establishment of new approved graduate medical residency training programs."
+
+Subsec. (f). Pub. L. 115–123, §50901(d)(6), substituted "teaching health center" for "hospital" wherever appearing.
+
+Subsec. (g)(1). Pub. L. 115–123, §50901(d)(2), substituted "and $126,500,000 for each of fiscal years 2018 and 2019," for "and $30,000,000 for the period of the first and second quarters of fiscal year 2018,".
+
+Subsec. (h)(1)(D) to (H). Pub. L. 115–123, §50901(d)(3), added subpars. (D) to (G) and redesignated former subpar. (D) as (H).
+
+Subsec. (j)(2) to (4). Pub. L. 115–123, §50901(d)(5), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
 <b>2017</b>—Subsec. (g). Pub. L. 115–96 designated existing provisions as par. (1), inserted heading, substituted "and $30,000,000 for the period of the first and second quarters of fiscal year 2018, to remain available until expended" for "and $15,000,000 for the first quarter of fiscal year 2018", and added par. (2).
 
 Pub. L. 115–63 substituted "2015, $60,000,000" for "2015 and $60,000,000" and inserted ", and $15,000,000 for the first quarter of fiscal year 2018" before period at end.
 
 <b>2015</b>—Subsec. (g). Pub. L. 114–10 inserted "and $60,000,000 for each of fiscal years 2016 and 2017" before period at end.
+
+#### Payments for Previous Fiscal Years
+
+Pub. L. 115–123, div. E, title IX, §50901(d)(7), Feb. 9, 2018, 132 Stat. 289, provided that: "The provisions of section 340H of the Public Health Service Act (42 U.S.C. 256h), as in effect on the day before the date of enactment of Public Law 115–96 \[Dec. 22, 2017\], shall continue to apply with respect to payments under such section for fiscal years before fiscal year 2018."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsections".</i>
 

@@ -42,7 +42,7 @@
 
 #### (2) Reporting requirements
 
-&emsp;Each branch or agency of a foreign bank, other than a Federal branch or agency, shall be subject to section 335 of this title and the provision requiring the reports of condition contained in section 324 of this title to the same extent and in the same manner as if the branch or agency were a State member bank. In addition to any requirements imposed under section 3102 of this title, each Federal branch and agency shall be subject to section 248(a) of this title and to section 483 of this title to the same extent and in the same manner as if it were a member bank.
+&emsp;Each branch or agency of a foreign bank, other than a Federal branch or agency, shall be subject to section 335 of this title and the provision requiring the reports of condition contained in section 324 of this title to the same extent and in the same manner as if thebranch or agency were a State member bank. In addition to any requirements imposed under section 3102 of this title, each Federal branch and agency shall be subject to section 248(a) of this title and to section 483 of this title to the same extent and in the same manner as if it were a member bank.
 
 #### (d) Establishment of foreign bank offices in United States
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(B) the financial and managerial resources of the foreign bank, including the bank's experience and capacity to engage in international banking;
 
-&emsp;&emsp;(C) whether the foreign bank has provided the Board with adequate assurances that the bank will make available to the Board such information on the operations or activities of the foreign bank and any affiliate of the bank that the Board deems necessary to determine and enforce compliance with thischapter, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], and other applicable Federal law;
+&emsp;&emsp;(C) whether the foreign bank has provided the Board with adequate assurances that the bank will make available to the Board such information on the operations or activities of the foreign bank and any affiliate of the bank that the Board deems necessary to determine and enforce compliance with this chapter, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], and other applicable Federal law;
 
 &emsp;&emsp;(D) whether the foreign bank and the United States affiliates of the bank are in compliance with applicable United States law; and
 
@@ -106,7 +106,7 @@
 
 #### (A) Final action
 
-&emsp;&emsp;The Board shall take final action on any application under paragraph (1) not later than 180 days after receipt of the application, except that the Board may extend for an additional 180 days the period within which to take final action on such application after providing notice of, and the reasons for, the extension to the applicant foreign bank and any appropriate State bank supervisor or the Comptroller of the Currency, as appropriate.
+&emsp;&emsp;The Board shall take final action on any application under paragraph (1) not later than 180 days after receipt of the application, except that the Board may extend for an additional 180 days the period withinwhich to take final action on such application after providing notice of, and the reasons for, the extension to the applicant foreign bank and any appropriate State bank supervisor or the Comptroller of the Currency, as appropriate.
 
 #### (B) Failure to submit information
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;(B)(i) there is reasonable cause to believe that such foreign bank, or any affiliate of such foreign bank, has committed a violation of law or engaged in an unsafe or unsound banking practice in the United States; and
 
-&emsp;&emsp;(ii) as a result of such violation or practice, the continued operation of the foreignbank's branch, agency or commercial lending company subsidiary in the United States would not be consistent with the public interest or with the purposes of this chapter, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\]; or
+&emsp;&emsp;(ii) as a result of such violation or practice, the continued operation of the foreign bank's branch, agency or commercial lending company subsidiary in the United States would not be consistent with the public interest or with the purposes of this chapter, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\]; or
 
 &emsp;&emsp;(C) for a foreign bank that presents a risk to the stability of the United States financial system, the home country of the foreign bank has not adopted, or made demonstrable progress toward adopting, an appropriate system of financial regulation to mitigate such risk.
 
@@ -168,7 +168,7 @@
 
 #### (7) Criteria relating to foreign supervision
 
-&emsp;Not later than 1 year after December 19, 1991, the Board, in consultation with the Secretary of the Treasury, shall develop and publish criteria to be used in evaluating the operation of any foreign bank in the United States that the Board has determined is not subject to comprehensive supervision or regulation on a consolidated basis. In developing such criteria, the Board shall allow reasonable opportunity for public review and comment.
+&emsp;Not later than 1 year after December 19, 1991, the Board, in consultation with the Secretary of the Treasury, shall develop and publish criteria to be used in evaluating the operation of any foreign bank in the United States that the Board has determined is not subject to comprehensive supervision or regulation ona consolidated basis. In developing such criteria, the Board shall allow reasonable opportunity for public review and comment.
 
 #### (f) Judicial review
 
@@ -200,7 +200,7 @@ The Board shall request and consider any views of the appropriate State bank sup
 
 &emsp;&emsp;(A) the Board has determined that such activity is consistent with sound banking practice; and
 
-&emsp;&emsp;(B) in the case of an insured branch, the Federal Deposit Insurance Corporation hasdetermined that the activity would pose no significant risk to the deposit insurance fund.
+&emsp;&emsp;(B) in the case of an insured branch, the Federal Deposit Insurance Corporation has determined that the activity would pose no significant risk to the deposit insurance fund.
 
 #### (2) Single borrower lending limit
 
@@ -252,7 +252,7 @@ Not later than 180 days after December 19, 1991, the Board and the Secretary of 
 
 #### (1) Transactions prohibited
 
-&emsp;A branch or agency of a foreign bank shall not manage, through an office of the foreign bank which is located outside the United States and is managed or controlled by such branch or agency, any type of activity that a bank organized under the laws of the United States, any State, or the District of Columbia is not permitted to manage at any branch or subsidiary of such bank which is located outside the United States.
+&emsp;A branch or agency of a foreign bank shall not manage, through an office of the foreign bank which is located outside the United States and is managed or controlled by such branch or agency, any type of activity that abank organized under the laws of the United States, any State, or the District of Columbia is not permitted to manage at any branch or subsidiary of such bank which is located outside the United States.
 
 #### (2) Regulations
 
@@ -332,7 +332,7 @@ Subsec. (j). Pub. L. 102–242, §214(b), as amended by Pub. L. 102–550, §160
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, setout as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 2010 Amendment
 

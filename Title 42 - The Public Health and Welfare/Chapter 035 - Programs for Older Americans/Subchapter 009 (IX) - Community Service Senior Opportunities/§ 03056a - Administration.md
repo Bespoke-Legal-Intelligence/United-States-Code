@@ -56,7 +56,7 @@
 
 #### (6) Combined State plan
 
-&emsp;In lieu of the plan described in paragraph (1), a State may develop and submit a combined State plan in accordance with section 103 of the Workforce Innovation and OpportunityAct (29 U.S.C. 3113). For a State that obtains approval of such a combined State plan, that section 103 shall apply in lieu of this subsection and a reference in any other provision of this subchapter (other than this subsection) to a State plan shall be considered to be a reference to that combined State plan.
+&emsp;In lieu of the plan described in paragraph (1), a State may develop and submit a combined State plan in accordance with section 103 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3113). For a State that obtains approval of such a combined State plan, that section 103 shall apply in lieu of this subsection and a reference in any other provision of this subchapter (other than this subsection) to a State plan shall be considered to be a reference to that combined State plan.
 
 #### (7) Disruptions
 
@@ -180,7 +180,7 @@ Subsec. (a)(7) to (9). Pub. L. 114–144, §6(b)(1)(A), redesignated pars. (6) t
 
 Subsec. (b)(2)(B)(i). Pub. L. 114–144, §6(b)(2), substituted "Workforce Innovation and Opportunity Act" for "Workforce Investment Act of 1998".
 
-<b>2014</b>—Subsec. (a)(2)(A). Pub. L. 113–128, §512(w)(4)(A)(i), substituted "the State and local workforce development boards established under title I of the Workforce Innovation and Opportunity Act" for"the State and local workforce investment boards established under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)".
+<b>2014</b>—Subsec. (a)(2)(A). Pub. L. 113–128, §512(w)(4)(A)(i), substituted "the State and local workforce development boards established under title I of the Workforce Innovation and Opportunity Act" for "the State and local workforce investment boards established under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)".
 
 Subsec. (a)(4)(F). Pub. L. 113–128, §512(w)(4)(A)(ii), substituted "plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act" for "plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)".
 

@@ -10,7 +10,7 @@ In the announcement of the specific provisions of any commodity program administ
 
 #### (c) Purchase from other sources of commodities covered by nonrecourse loans
 
-When a nonrecourse loan program is in effect for a crop of a commodity, the Secretary may enter the commercial market to purchase such commodity if the Secretary determines that the cost of such purchases plus appropriate carrying charges will probably be less than the comparable cost of later acquiring the commoditythrough defaults on nonrecourse loans under the program.
+When a nonrecourse loan program is in effect for a crop of a commodity, the Secretary may enter the commercial market to purchase such commodity if the Secretary determines that the cost of such purchases plus appropriate carrying charges will probably be less than the comparable cost of later acquiring the commodity through defaults on nonrecourse loans under the program.
 
 #### (d) Reduction in settlement price of nonrecourse loans
 
@@ -46,5 +46,5 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

@@ -46,7 +46,7 @@ In this section, the word "navigate" is omitted as being included in the definit
 
 In subsection (a), the words "Except as provided in subsection (b) of this section" are added for clarity. The words "a person may . . . an aircraft only when the aircraft is registered under section 44103 of this title" are substituted for "It shall be unlawful . . . any aircraft eligible for registration if such aircraft is not registered by its owner as provided in this section, or . . . any aircraft not eligible for registration" for clarity and to eliminate unnecessary words.
 
-In subsection (b), before clause (1), the words "A person may operate an aircraft in the United States that is not registered" are substituted for "may be operated and navigated without being so registered" and "may . . . permit the operation and navigation of aircraft without registration" for clarity. In clause (2), the words "identified in a way" are substituted for "identified, by the agency having jurisdiction over them, in a manner" to eliminate unnecessary words.
+In subsection (b), before clause (1), the words "A person may operate an aircraft in the United States thatis not registered" are substituted for "may be operated and navigated without being so registered" and "may . . . permit the operation and navigation of aircraft without registration" for clarity. In clause (2), the words "identified in a way" are substituted for "identified, by the agency having jurisdiction over them, in a manner" to eliminate unnecessary words.
 
 #### Effective Date of 2004 Amendment
 

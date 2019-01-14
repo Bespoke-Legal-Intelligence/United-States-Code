@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1983</b>—Pub. L. 98–129 amended section generally, substituting provisions, which were contained in section 1181 of this title, relating to seizure and forfeiture of vessels for provisions prohibiting the taking of sea otters on the high seas.
+<b>1983</b>—Pub. L. 98–129 amended section generally, substituting provisions, which were contained in section 1181 of this title, relating to seizure and forfeiture ofvessels for provisions prohibiting the taking of sea otters on the high seas.
 

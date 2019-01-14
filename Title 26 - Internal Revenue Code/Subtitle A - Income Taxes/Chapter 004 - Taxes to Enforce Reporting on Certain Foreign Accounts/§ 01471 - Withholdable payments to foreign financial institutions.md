@@ -138,7 +138,7 @@ For purposes of this section—
 
 #### (4) Foreign financial institution
 
-&emsp;The term "foreign financial institution" means any financial institution which is a foreign entity. Except as otherwise provided by the Secretary, such term shall not include a financial institution which is organized under the laws of any possession of the United States.
+&emsp;The term "foreign financial institution" means any financial institution which is a foreign entity. Except as otherwise provided by the Secretary, such term shall not include afinancial institution which is organized under the laws of any possession of the United States.
 
 #### (5) Financial institution
 
@@ -206,7 +206,7 @@ Pub. L. 111–147, title V, §501(d), Mar. 18, 2010, 124 Stat. 106, provided tha
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section\[enacting this chapter and amending sections 6414, 6501, 6513, 6611, and 6724 of this title\] shall apply to payments made after December 31, 2012.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this chapter and amending sections 6414, 6501, 6513, 6611, and 6724 of this title\] shall apply to payments made after December 31, 2012.
 
 "(2)
 

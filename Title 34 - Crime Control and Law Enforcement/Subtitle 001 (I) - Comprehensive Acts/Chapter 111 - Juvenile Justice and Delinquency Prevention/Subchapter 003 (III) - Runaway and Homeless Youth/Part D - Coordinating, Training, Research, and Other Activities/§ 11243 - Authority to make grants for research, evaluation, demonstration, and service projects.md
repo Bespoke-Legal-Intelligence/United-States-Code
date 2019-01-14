@@ -10,7 +10,7 @@ In selecting among applications for grants under subsection (a), the Secretary s
 
 &emsp;(1) youth who repeatedly leave and remain away from their homes;
 
-&emsp;(2) transportation of runaway youth and homeless youth in connection with servicesauthorized to be provided under this subchapter;
+&emsp;(2) transportation of runaway youth and homeless youth in connection with services authorized to be provided under this subchapter;
 
 &emsp;(3) the special needs of runaway youth and homeless youth programs in rural areas;
 
@@ -20,7 +20,7 @@ In selecting among applications for grants under subsection (a), the Secretary s
 
 &emsp;&emsp;(A) the behavioral and emotional effects of sexual abuse and assault, severe forms of trafficking in persons (as defined in section 7102(9) of title 22), and sex trafficking (as defined in section 7102(10) of title 22);
 
-&emsp;&emsp;(B) responding to youth who are showing effects of sexual abuse and assault, severe forms of trafficking in persons (as defined in section 7102(9) of title 22), or sex trafficking (as defined in section 7102(10) of title 22); and
+&emsp;&emsp;(B) responding to youth who are showing effects of sexual abuse and assault, severeforms of trafficking in persons (as defined in section 7102(9) of title 22), or sex trafficking (as defined in section 7102(10) of title 22); and
 
 &emsp;&emsp;(C) agency-wide strategies for working with runaway and homeless youth who have been sexually victimized, including such youth who are victims of trafficking (as defined in section 7102(15) of title 22);
 

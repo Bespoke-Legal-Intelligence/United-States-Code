@@ -26,7 +26,7 @@
 
 (2) A personal assistant, including a reading or interpreting assistant, employed under this subsection may receive pay for services performed by the assistant from the handicapped employee or a nonprofit organization, without regard to section 209 of title 18.
 
-(c) The head of each agency may also employ or assign one or more personal assistants whothe head of the agency determines are necessary to enable a handicapped employee of that agency to perform the employee's official duties. Such employment may include the employing of a reading assistant or assistants for a blind employee or an interpreting assistant or assistants for a deaf employee.
+(c) The head of each agency may also employ or assign one or more personal assistants who the head of the agency determines are necessary to enable a handicapped employee of that agency to perform the employee's official duties. Such employment may include the employing of a reading assistant or assistants for a blind employee or an interpreting assistant or assistants for a deaf employee.
 
 (d)(1) In the case of any handicapped employee (including a blind or deaf employee) traveling on official business, the head of the agency may authorize the payment to an individual to accompany or assist (or both) the handicapped employee for all or a portion of the travel period involved. Any payment under this subsection to such an individual may be made either directly to that individual or by advancement or reimbursement to the handicapped employee.
 

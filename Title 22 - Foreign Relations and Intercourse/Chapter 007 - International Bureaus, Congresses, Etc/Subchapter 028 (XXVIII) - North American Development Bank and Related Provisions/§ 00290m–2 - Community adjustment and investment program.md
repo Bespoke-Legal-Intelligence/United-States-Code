@@ -42,7 +42,7 @@
 
 #### (B) Representation
 
-&emsp;&emsp;Each of the categories described in clauses (i) through (iv) of subparagraph (A) shall be represented by no fewer than 1 and no more than 3 members of the Advisory Committee.
+&emsp;&emsp;Each of the categories described in clauses (i) through (iv) of subparagraph (A) shall berepresented by no fewer than 1 and no more than 3 members of the Advisory Committee.
 
 #### (3) Function
 
@@ -98,7 +98,7 @@ The President shall submit to the appropriate congressional committees an annual
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(1), (4)(D), is Pub. L. 92–463, Oct. 6, 1972, 86Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(1), (4)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Delegation of Functions
 

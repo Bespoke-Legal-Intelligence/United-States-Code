@@ -50,7 +50,7 @@ It shall be unlawful for any officer or director of any public utility to receiv
 
 &emsp;(F) any company, firm, or organization which is controlled by any company, firm, or organization referred to in this paragraph.
 
-> On or before January 31 of each calendar year, each public utility shall publish a list, pursuant to rules prescribed by the Commission, of the purchasers to which subparagraph (D) applies,for purposes of any filing under paragraph (1) of such calendar year.
+> On or before January 31 of each calendar year, each public utility shall publish a list, pursuant to rules prescribed by the Commission, of the purchasers to which subparagraph (D) applies, for purposes of any filing under paragraph (1) of such calendar year.
 
 (3) For purposes of this subsection—
 

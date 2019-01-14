@@ -12,7 +12,7 @@
 
 #### (3) Damages
 
-&emsp;The powers, remedies, and procedures provided in section 1981a of this title, including the limitations contained in subsection (b)(3) of such section 1981a, shall be powers, remedies, and procedures this chapter provides to the Commission, the Attorney General, or any person, alleging such a practice (not an employment practice specifically excluded from coverage under section 1981a(a)(1) of this title).
+&emsp;The powers, remedies, and procedures provided in section 1981a of this title, includingthe limitations contained in subsection (b)(3) of such section 1981a, shall be powers, remedies, and procedures this chapter provides to the Commission, the Attorney General, or any person, alleging such a practice (not an employment practice specifically excluded from coverage under section 1981a(a)(1) of this title).
 
 #### (b) Employees covered by Government Employee Rights Act of 1991
 
@@ -68,7 +68,7 @@
 
 #### (2) Costs and fees
 
-&emsp;The powers, remedies, and procedures provided in subsections (b) and (c) of section 1988 of this title,<sup>1</sup> shall be powers, remedies, and procedures this chapter provides to the Commission, the Attorney General, the Librarian of Congress, or any person, alleging such a practice.
+&emsp;The powers, remedies, and procedures provided in subsections (b) and (c) of section 1988of this title,<sup>1</sup> shall be powers, remedies, and procedures this chapter provides to the Commission, the Attorney General, the Librarian of Congress, or any person, alleging such a practice.
 
 #### (3) Damages
 
@@ -88,7 +88,7 @@ In this section, the term "Commission" means the Equal Employment Opportunity Co
 
 The Civil Rights Act of 1964, referred to in subsec. (a), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Government Employee Rights Act of 1991, referred to in subsec. (b), is title III of Pub. L. 102–166,Nov. 21, 1991, 105 Stat. 1088, which is classified generally to sections 2000e–16a to 2000e–16c of this title. For complete classification of this Act to the Code, see section 2000e–16a(a) of Title 42 and Tables.
+The Government Employee Rights Act of 1991, referred to in subsec. (b), is title III of Pub. L. 102–166, Nov. 21, 1991, 105 Stat. 1088, which is classified generally to sections 2000e–16a to 2000e–16c of this title. For complete classification of this Act to the Code, see section 2000e–16a(a) of Title 42 and Tables.
 
 The Congressional Accountability Act of 1995, referred to in subsec. (c)(1), (4), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to chapter 24 (§1301 et seq.) of Title 2, The Congress. Title III of the Act is classified generally to subchapter III (§1381 et seq.) of chapter 24 of Title 2. For complete classification of this Act to the Code, see Short Title note under section 1301 of Title 2 and Tables.
 

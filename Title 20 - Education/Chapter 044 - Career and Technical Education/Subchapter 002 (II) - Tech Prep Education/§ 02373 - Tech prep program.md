@@ -164,6 +164,10 @@ Each tech prep program may—
 
 (Pub. L. 88–210, title II, §203, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 738; amended Pub. L. 110–315, title IX, §941(k)(2)(D)(iii), Aug. 14, 2008, 122 Stat. 3466; Pub. L. 114–95, title IX, §9215(n)(10), Dec. 10, 2015, 129 Stat. 2170.)
 
+#### Repeal of Section
+
+<i>Pub. L. 115–224, §4, title II, §201(a)(5), July 31, 2018, 132 Stat. 1564, 1621, provided that, effective July 1, 2019, this section is repealed.</i>
+
 #### References in Text
 
 The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (a)(1)(B)(i)(I)(bb)(AA), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
@@ -185,6 +189,10 @@ Another prior section 203 of Pub. L. 88–210 was classified to section 2333 of 
 <b>2015</b>—Subsec. (c)(2)(D). Pub. L. 114–95 substituted "as part of a well-rounded education (as defined in section 7801 of this title)" for "in core academic subjects (as defined in section 7801 of this title)".
 
 <b>2008</b>—Subsec. (a)(1)(B)(i)(I)(bb)(AA). Pub. L. 110–315 substituted "the Tribally Controlled Colleges and Universities Assistance Act of 1978" for "the Tribally Controlled College or University Assistance Act of 1978".
+
+#### Effective Date of Repeal
+
+Repeal effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as an Effective Date of 2018 Amendment note under section 2301 of this title.
 
 #### Effective Date of 2015 Amendment
 

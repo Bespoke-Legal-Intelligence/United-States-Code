@@ -22,7 +22,7 @@ The authority specified in subsection (a) of this section may be exercised only 
 
 &emsp;&emsp;(B) an explanation of the reasons why the continuation of the withdrawal or a classification or portion thereof proposed for revocation, modification, or termination is no longer necessary for the purposes of the statutory or other program or programs for which the withdrawal or classification was made or other relevant programs;
 
-&emsp;&emsp;(C) assurances that all relevant documents concerning the proposed exchange or purchase for which such authority is proposed to be exercised (including documents related to compliance with the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and all other applicable provisions of law) are available for public inspection in the office of the Secretary concerned located nearest to the lands proposed for transfer out of Federal ownership in furtherance ofsuch exchange and that the relevant portions of such documents are also available in the offices of the Secretary concerned in Washington, District of Columbia; and
+&emsp;&emsp;(C) assurances that all relevant documents concerning the proposed exchange or purchase for which such authority is proposed to be exercised (including documents related to compliance with the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and all other applicable provisions of law) are available for public inspection in the office of the Secretary concerned located nearest to the lands proposed for transfer out of Federal ownership in furtherance of such exchange and that the relevant portions of such documents are also available in the offices of the Secretary concerned in Washington, District of Columbia; and
 
 &emsp;&emsp;(D) an explanation of the effect of the revocation, modification, or termination of a withdrawal or classification or portion thereof and the transfer of lands out of Federal ownership pursuant to the particular proposed exchange, on the objectives of the land management plan which is applicable at the time of such transfer to the land to be transferred out of Federal ownership.
 
@@ -32,7 +32,7 @@ The authority specified in subsection (a) of this section may be exercised only 
 
 (2) Except as specifically provided in this section, nothing in this section shall be construed as modifying, terminating, revoking, or otherwise affecting any provision of law applicable to land exchanges, withdrawals, or classifications.
 
-(3) The availability or exercise of the authority granted in subsection (a) may not be considered by the Secretary of the Interior in making a determination pursuant to this Act or other applicable law as to whether or not any proposed exchange is in the public interest.
+(3) The availability or exercise of the authority granted in subsection (a) may not be considered by the Secretary of the Interior in makinga determination pursuant to this Act or other applicable law as to whether or not any proposed exchange is in the public interest.
 
 #### (d) Termination
 

@@ -34,7 +34,7 @@ Not later than 90 days after October 3, 2008, the Secretary shall report to the 
 
 #### (4) Adjustment to purchase authority
 
-&emsp;The purchase authority limit in section 5225 of this title shall be reduced by an amount equal to the difference between the total ofthe outstanding guaranteed obligations and the balance in the Troubled Assets Insurance Financing Fund.
+&emsp;The purchase authority limit in section 5225 of this title shall be reduced by an amount equal to the difference between the total of the outstanding guaranteed obligations and the balance in the Troubled Assets Insurance Financing Fund.
 
 #### (d) Troubled Assets Insurance Financing Fund
 

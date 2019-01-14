@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 85–624 designated second sentence of existing provisions 
 
 Subsecs. (c) to (f). Pub. L. 85–624 added subsecs. (c) to (f).
 
-<b>1946</b>—Act Aug. 14, 1946, amended section generally to provide for conservation and maintenance of wildlife resources upon impounding of waters, and to provide for free use of waters under certain conditions.
+<b>1946</b>—Act Aug. 14, 1946, amended section generally to provide for conservation and maintenance of wildliferesources upon impounding of waters, and to provide for free use of waters under certain conditions.
 
 #### Transfer of Functions
 

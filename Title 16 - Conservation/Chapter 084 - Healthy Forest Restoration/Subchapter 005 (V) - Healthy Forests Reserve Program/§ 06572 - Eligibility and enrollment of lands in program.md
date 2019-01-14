@@ -6,23 +6,29 @@ The Secretary of Agriculture, in coordination with the Secretary of the Interior
 
 #### (b) Eligibility
 
-To be eligible for enrollment in the healthy forests reserve program, land shall be—
+To be eligible for enrollment in the healthy forests reserve program, land shall be private forest land, or private land being restored to forest land, the enrollment of which will maintain, restore, enhance, or otherwise measurably—
 
-&emsp;(1) private land the enrollment of which will restore, enhance, or otherwise measurably increase the likelihood of recovery of a species listed as endangered or threatened under section 1533 of this title; and
+&emsp;(1) increase the likelihood of recovery of a species that is listed as endangered or threatened under section 1533 of this title; or
 
-&emsp;(2) private land the enrollment of which will restore, enhance, or otherwise measurably improve the well-being of species that—
+&emsp;(2) improve the well-being of a species that—
 
-&emsp;&emsp;(A) are not listed as endangered or threatened under section 1533 of this title; but
+&emsp;&emsp;(A) is—
 
-&emsp;&emsp;(B) are candidates for such listing, State-listed species, or special concern species.
+&emsp;&emsp;&emsp;(i) not listed as endangered or threatened under such section; and
+
+&emsp;&emsp;&emsp;(ii) a candidate for such listing, a State-listed species, or a special concern species; or
+
+&emsp;&emsp;(B) is deemed a species of greatest conservation need by a State wildlife action plan.
 
 #### (c) Other considerations
 
 In enrolling land that satisfies the criteria under subsection (b), the Secretary of Agriculture shall give additional consideration to land the enrollment of which will—
 
-&emsp;(1) improve biological diversity; and
+&emsp;(1) improve biological diversity;
 
-&emsp;(2) increase carbon sequestration.
+&emsp;(2) conserve forest land that provides habitat for species described in subsection (b); and
+
+&emsp;(3) increase carbon sequestration.
 
 #### (d) Enrollment by willing owners
 
@@ -42,21 +48,7 @@ The Secretary of Agriculture shall enroll land in the healthy forests reserve pr
 
 &emsp;&emsp;(ii) in a State that imposes a maximum duration for easements, an easement for the maximum duration allowed under State law.
 
-#### (2) Limitation on use of cost-share agreements and easements
-
-#### (A) In general
-
-&emsp;&emsp;Of the total amount of funds expended under the program for a fiscal year to acquire easements and enter into cost-share agreements described in paragraph (1)—
-
-&emsp;&emsp;&emsp;(i) not more than 40 percent shall be used for cost-share agreements described in paragraph (1)(A); and
-
-&emsp;&emsp;&emsp;(ii) not more than 60 percent shall be used for easements described in subparagraphs (B) and (C) of paragraph (1).
-
-#### (B) Repooling
-
-&emsp;&emsp;The Secretary may use any funds allocated under clause (i) or (ii) of subparagraph (A) that are not obligated by April 1 of the fiscal year for which the funds are made available to carry out a different method of enrollment during that fiscal year.
-
-#### (3) Acreage owned by Indian tribes
+#### (2) Acreage owned by Indian tribes
 
 #### (A) Definition of acreage owned by Indian tribes
 
@@ -80,9 +72,11 @@ The Secretary of Agriculture shall enroll land in the healthy forests reserve pr
 
 &emsp;&emsp;&emsp;(i) a 30-year contract (the value of which shall be equivalent to the value of a 30-year easement);
 
-&emsp;&emsp;&emsp;(ii) a 10-year cost-share agreement; or
+&emsp;&emsp;&emsp;(ii) a 10-year cost-share agreement;
 
-&emsp;&emsp;&emsp;(iii) any combination of the options described in clauses (i) and (ii).
+&emsp;&emsp;&emsp;(iii) a permanent easement; or
+
+&emsp;&emsp;&emsp;(iv) any combination of the options described in clauses (i) through (iii).
 
 #### (f) Enrollment priority
 
@@ -96,19 +90,45 @@ The Secretary of Agriculture shall enroll land in the healthy forests reserve pr
 
 &emsp;&emsp;&emsp;(i) are not listed as endangered or threatened under section 1533 of this title; but
 
-&emsp;&emsp;&emsp;(ii) are candidates for such listing, State-listed species, or special concern species.
+&emsp;&emsp;&emsp;(ii)(I) are candidates for such listing, State-listed species, or special concern species; or
+
+&emsp;&emsp;&emsp;(II) are deemed a species of greatest conservation need under a State wildlife action plan.
 
 #### (2) Cost-effectiveness
 
 &emsp;The Secretary of Agriculture shall also consider the cost-effectiveness of each agreement or easement, and associated restoration plans, so as to maximize the environmental benefits per dollar expended.
 
-(Pub. L. 108–148, title V, §502, Dec. 3, 2003, 117 Stat. 1911; Pub. L. 110–234, title VIII, §8205(a), May 22, 2008, 122 Stat. 1294; Pub. L. 110–246, §4(a), title VIII, §8205(a), June 18, 2008, 122 Stat. 1664, 2056; Pub. L. 113–79, title VIII, §8203(a), Feb. 7, 2014, 128 Stat. 914.)
+(Pub. L. 108–148, title V, §502, Dec. 3, 2003, 117 Stat. 1911; Pub. L. 110–234, title VIII, §8205(a), May 22, 2008, 122 Stat. 1294; Pub. L. 110–246, §4(a), title VIII, §8205(a), June 18, 2008, 122 Stat. 1664, 2056; Pub. L. 113–79, title VIII, §8203(a), Feb. 7, 2014, 128 Stat. 914; Pub. L. 115–334, title VIII, §8407(a)(2)–(6), Dec. 20, 2018, 132 Stat. 4845, 4846.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–334, §8407(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "To be eligible for enrollment in the healthy forests reserve program, land shall be—
+
+&emsp;"(1) private land the enrollment of which will restore, enhance, or otherwise measurably increase the likelihood of recovery of a species listed as endangered or threatened under section 1533 of this title; and
+
+&emsp;"(2) private land the enrollment of which will restore, enhance, or otherwise measurably improve the well-being of species that—
+
+&emsp;&emsp;"(A) are not listed as endangered or threatened under section 1533 of this title; but
+
+&emsp;&emsp;"(B) are candidates for such listing, State-listed species, or special concern species."
+
+Subsec. (c)(2), (3). Pub. L. 115–334, §8407(a)(3), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (e)(2). Pub. L. 115–334, §8407(a)(4), redesignated par. (3) as (2) and struck out former par. (2) which related to limitation on use of cost-share agreements and easements.
+
+Subsec. (e)(2)(B)(ii) to (iv). Pub. L. 115–334, §8407(a)(5), added cls. (ii) to (iv) and struck out former cls. (ii) and (iii) which read as follows:
+
+"(ii) a 10-year cost-share agreement; or
+
+"(iii) any combination of the options described in clauses (i) and (ii)."
+
+Subsec. (e)(3). Pub. L. 115–334, §8407(a)(4), redesignated par. (3) as (2).
+
+Subsec. (f)(1)(B)(ii). Pub. L. 115–334, §8407(a)(6), added cl. (ii) and struck out former cl. (ii) which read as follows: "are candidates for such listing, State-listed species, or special concern species."
 
 <b>2014</b>—Subsec. (e)(3). Pub. L. 113–79, §8203(a)(2), (3), added subpar. (A), designated existing provisions as subpar. (B) and inserted heading, and redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (B) and realigned margins.
 

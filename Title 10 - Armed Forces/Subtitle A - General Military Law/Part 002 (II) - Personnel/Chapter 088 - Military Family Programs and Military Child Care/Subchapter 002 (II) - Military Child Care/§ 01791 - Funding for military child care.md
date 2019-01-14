@@ -64,5 +64,5 @@ Elements.—Each report required by subsection (a) shall include the following, 
 
 &emsp;"(9) The barriers to access, if any, to such financial assistance faced by members of the Armed Forces, including whether standards and criteria of the Department of Defense for child care off-installation may affect access to child care.
 
-&emsp;"(10) Any other matters the Secretary considers appropriate in connection with such report, includingwith respect to the enhancement of access to Department of Defense child care development centers and financial assistance for child care off-installation for members of the Armed Forces."
+&emsp;"(10) Any other matters the Secretary considers appropriate in connection with such report, including with respect to the enhancement of access to Department of Defense child care development centers and financial assistance for child care off-installation for members of the Armed Forces."
 

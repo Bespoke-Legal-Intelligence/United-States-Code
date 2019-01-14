@@ -24,7 +24,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;&emsp;(i) scientists of other countries to serve in research capacities in the United States in association with the National Institutes of Health or elsewhere, or opportunities for employees of the National Institutes of Health or other public health officials in the United States to serve in such capacities in other countries, or both;
 
-&emsp;&emsp;&emsp;(ii) the conduct and support of studies, projects, and research, which may include stipends, travel and other support for personnel in collaboration with national and international non-profit and for-profit organizations;
+&emsp;&emsp;&emsp;(ii) the conduct and support of studies, projects, and research, which may includestipends, travel and other support for personnel in collaboration with national and international non-profit and for-profit organizations;
 
 &emsp;&emsp;&emsp;(iii) the conduct and support of forums, meetings, conferences, courses, and training workshops that may include undergraduate, graduate, post-graduate, and post-doctoral accredited courses and the maintenance of accreditation of such courses by the Foundation at the State and national level for college or continuing education credits or for degrees;
 
@@ -186,7 +186,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (1) Foundation integrity
 
-&emsp;The members of the Board shall be accountable for the integrity of the operations of the Foundation and shall ensure such integrity through the development and enforcement of criteria and procedures relating to standards of conduct, financial disclosure statements, conflict of interest rules, recusal and waiver rules, audits and other matter determined appropriate by the Board.
+&emsp;The members of the Board shall be accountable for the integrity of the operations of theFoundation and shall ensure such integrity through the development and enforcement of criteria and procedures relating to standards of conduct, financial disclosure statements, conflict of interest rules, recusal and waiver rules, audits and other matter determined appropriate by the Board.
 
 #### (2) Financial conflicts of interest
 
@@ -228,7 +228,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (8) National Institutes of Health Amendments of 1990
 
-&emsp;The activities conducted in support of the National Institutes of Health Amendments of 1990 (Public Law 101–613), and the amendmentsmade by such Act, shall not be nullified by the enactment of this section.<sup>1</sup>
+&emsp;The activities conducted in support of the National Institutes of Health Amendments of 1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>1</sup>
 
 #### (9) Limitation of activities
 
@@ -388,7 +388,7 @@ Subsec. (i). Pub. L. 103–43, §1701(2), redesignated subsec. (g) as (i). Forme
 
 Subsec. (i)(4). Pub. L. 103–43, §1701(5)(A), inserted before period at end ", and define the duties of the officers and employees".
 
-Subsec. (i)(5), (6). Pub. L. 103–43, §1701(5)(B), (C), redesignated par. (6) as (5) and struck out former par. (5)which read as follows: "prescribe by its Board its bylaws, that shall be consistent with law, and that shall provide for the manner in which—
+Subsec. (i)(5), (6). Pub. L. 103–43, §1701(5)(B), (C), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: "prescribe by its Board its bylaws, that shall be consistent with law, and that shall provide for the manner in which—
 
 &emsp;"(A) its officers, employees, and agents are selected;
 

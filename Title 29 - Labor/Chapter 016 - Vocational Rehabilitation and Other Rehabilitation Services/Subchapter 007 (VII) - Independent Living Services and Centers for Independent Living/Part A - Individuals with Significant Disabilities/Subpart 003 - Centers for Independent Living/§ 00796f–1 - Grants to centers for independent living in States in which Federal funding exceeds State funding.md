@@ -120,7 +120,7 @@ In general.—If the conditions described in paragraph (2) are satisfied with re
 
 &emsp;&emsp;"(ii) shall disregard any funds provided to such centers from funds appropriated by the American Recovery and Reinvestment Act of 2009 for the centers for independent living program under part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.); and
 
-&emsp;"(B) in fiscal year 2011 and subsequent fiscal years, shall disregard any funds provided to such centersfrom funds appropriated by the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) for the centers for independent living program under part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.).
+&emsp;"(B) in fiscal year 2011 and subsequent fiscal years, shall disregard any funds provided to such centers from funds appropriated by the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) for the centers for independent living program under part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.).
 
 "(2)
 

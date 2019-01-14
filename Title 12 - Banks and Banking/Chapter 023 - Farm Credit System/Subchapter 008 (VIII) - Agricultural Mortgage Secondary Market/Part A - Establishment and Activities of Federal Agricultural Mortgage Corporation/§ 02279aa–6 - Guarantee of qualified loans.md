@@ -20,7 +20,7 @@
 
 #### (3) Power of Corporation
 
-&emsp;Notwithstanding any other provision of law, the Corporation is empowered, in connection with any guarantee under this subsection, whether before or after any default, to provide by contract with the facility for the extinguishment, on default by the facility, of any redemption, equitable, legal, or other right, title, or interest of the facility in any mortgage or mortgages constituting the pool against which the guaranteed securities are issued. With respect to any issue of guaranteed securities, in the event of default and pursuant otherwise to the terms of the contract, the mortgages that constitute such pool shall become the absolute property of the Corporation subject only to the unsatisfied rights of the holders of the securities based on and backed by such pool.
+&emsp;Notwithstanding any other provision of law, the Corporation is empowered, in connection with any guarantee under this subsection, whether before or after any default, to provide by contract with the facility for the extinguishment, on default by the facility, of any redemption, equitable, legal, or other right,title, or interest of the facility in any mortgage or mortgages constituting the pool against which the guaranteed securities are issued. With respect to any issue of guaranteed securities, in the event of default and pursuant otherwise to the terms of the contract, the mortgages that constitute such pool shall become the absolute property of the Corporation subject only to the unsatisfied rights of the holders of the securities based on and backed by such pool.
 
 #### (b) Other responsibilities of and limitations on certified facilities
 
@@ -58,25 +58,7 @@ To ensure the liquidity of securities for which guarantees have been provided un
 
 &emsp;(2) transfer requirements.
 
-#### (d) Aggregate principal amounts of qualified loans
-
-#### (1) Initial year
-
-&emsp;During the first year after January 6, 1988, the Corporation may not provide guarantees for securities representing interests in, or obligations backed by, qualified loans (other than loans which back securities issued by Farm Credit System institutions for which the Corporation provides a guarantee) in an aggregate principal amount in excess of 2 percent of the total agricultural real estate debt outstanding at the close of the prior calendar year (as published by the Board of Governors of the Federal Reserve System), less all Farmers Home Administration agricultural real estate debt.
-
-#### (2) Second year
-
-&emsp;During the year following the year referred to in paragraph (1), the Corporation may not provide guarantees for securities representing interests in, or obligations backed by, qualified loans (other than loans which back securities issued by Farm Credit System institutions for which the Corporation provides a guarantee) in an additional principal amount in excess of 4 percent of the total agricultural real estate debt outstanding at the close of the prior calendar year, less all Farmers Home Administration agricultural real estate debt.
-
-#### (3) Third year
-
-&emsp;During the year following the year referred to in paragraph (2), the Corporation may not provide guarantees for securities representing interests in, or obligations backed by, qualified loans (other than loans which back securities issued by Farm Credit System institutions for which the Corporation provides a guarantee) in an additional principal amount in excess of 8 percent of the total agricultural real estate debt outstanding at the close of the prior calendar year, less all Farmers Home Administration agricultural real estate debt.
-
-#### (4) Subsequent years
-
-&emsp;In years subsequent to the year referred to in paragraph (3), the Corporation may provide guarantees without regard to the principal amount of the qualified loans guaranteed.
-
-#### (e) Purchase of guaranteed securities
+#### (d) Purchase of guaranteed securities
 
 #### (1) Purchase authority
 
@@ -84,7 +66,7 @@ To ensure the liquidity of securities for which guarantees have been provided un
 
 #### (2) Issuance of debt obligations
 
-&emsp;The Corporation (and affiliates) may issue debt obligations solely for the purpose of obtaining amounts for the purchase of any securities under paragraph (1), for the purchase of qualified loans (as defined in section 2279aa(9) of this title), and for maintaining reasonable amounts for business operations (including adequate liquidity) relating to activities under this subsection.
+&emsp;The Corporation (and affiliates) may issue debt obligations solely for the purpose of obtaining amounts for the purchase of any securities under paragraph (1), for the purchase of qualified loans (as defined in section 2279aa of this title), and for maintaining reasonable amounts for business operations (including adequate liquidity) relating to activities under this subsection.
 
 #### (3) Terms and limitations
 
@@ -100,13 +82,19 @@ To ensure the liquidity of securities for which guarantees have been provided un
 
 &emsp;&emsp;The Corporation may not issue obligations pursuant to paragraph (2) under this subsection while any obligation issued by the Corporation under section 2279aa–13(a) of this title remains outstanding.
 
-(Pub. L. 92–181, title VIII, §8.6, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1695; amended Pub. L. 100–399, title VI, §601(f)–(h), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 102–237, title V, §503(d), Dec. 13, 1991, 105 Stat. 1877; Pub. L. 104–105, title I, §§107, 108(a), (c)(2), 109(a), (b)(4), Feb. 10, 1996, 110 Stat. 164, 165; Pub. L. 110–234, title V, §5406(b), May 22, 2008, 122 Stat. 1158; Pub. L. 110–246, §4(a), title V, §5406(b), June 18, 2008, 122 Stat. 1664, 1920.)
+(Pub. L. 92–181, title VIII, §8.6, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1695; amended Pub. L. 100–399, title VI, §601(f)–(h), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 102–237, title V, §503(d), Dec. 13, 1991, 105 Stat. 1877; Pub. L. 104–105, title I, §§107, 108(a), (c)(2), 109(a), (b)(4), Feb. 10, 1996, 110 Stat. 164, 165; Pub. L. 110–234, title V, §5406(b), May 22, 2008, 122 Stat. 1158; Pub. L. 110–246, §4(a), title V, §5406(b), June 18, 2008, 122 Stat. 1664, 1920; Pub. L. 115–334, title V, §5411(45), Dec. 20, 2018, 132 Stat. 4685.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–334, §5411(45)(A), (B), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to aggregate principal amounts of qualified loans and limits on provision of guarantees during certain years.
+
+Subsec. (d)(2). Pub. L. 115–334, §5411(45)(C), substituted "2279aa of this title)" for "2279aa(9) of this title)".
+
+Subsec. (e). Pub. L. 115–334, §5411(45)(B), redesignated subsec. (e) as (d).
 
 <b>2008</b>—Subsec. (a)(1)(A), (B)(i). Pub. L. 110–246, §5406(b), inserted "applicable" before "standards".
 

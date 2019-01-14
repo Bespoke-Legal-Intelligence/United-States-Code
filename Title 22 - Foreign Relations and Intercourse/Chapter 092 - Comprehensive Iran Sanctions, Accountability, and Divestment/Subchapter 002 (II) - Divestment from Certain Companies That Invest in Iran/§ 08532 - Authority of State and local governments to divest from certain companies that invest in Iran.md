@@ -2,7 +2,7 @@
 
 #### (a) Sense of Congress
 
-It is the sense of Congress that the United States should support the decision of any State or local government that for moral, prudential, or reputational reasons divests from, or prohibits the investment of assets of the State or local government in, a person that engages in investment activities in the energy sector of Iran, as long as Iran is subject to economic sanctions imposed by the United States.
+It is the sense of Congress that the United States should support the decision of any State or local government that for moral, prudential,or reputational reasons divests from, or prohibits the investment of assets of the State or local government in, a person that engages in investment activities in the energy sector of Iran, as long as Iran is subject to economic sanctions imposed by the United States.
 
 #### (b) Authority to divest
 
@@ -38,7 +38,7 @@ Any measure taken by a State or local government under subsection (b) shall meet
 
 #### (e) Notice to Department of Justice
 
-Not later than 30 days after adopting a measure pursuant to subsection (b), a State or localgovernment shall submit written notice to the Attorney General describing the measure.
+Not later than 30 days after adopting a measure pursuant to subsection (b), a State or local government shall submit written notice to the Attorney General describing the measure.
 
 #### (f) Nonpreemption
 
@@ -90,7 +90,7 @@ In this section:
 
 #### (j) Rule of construction
 
-Nothing in this Act or any other provision of law authorizing sanctions with respect to Iran shall be construed to abridge the authority of a State to issue and enforce rules governing the safety, soundness, and solvency of a financial institution subject to its jurisdiction or the business of insurance pursuant to the Act of March 9, 1945 (15 U.S.C. 1011 et seq.) (commonly known as the "McCarran-Ferguson Act").
+Nothing in this Act or any other provision of law authorizing sanctions with respect to Iranshall be construed to abridge the authority of a State to issue and enforce rules governing the safety, soundness, and solvency of a financial institution subject to its jurisdiction or the business of insurance pursuant to the Act of March 9, 1945 (15 U.S.C. 1011 et seq.) (commonly known as the "McCarran-Ferguson Act").
 
 (Pub. L. 111–195, title II, §202, July 1, 2010, 124 Stat. 1342; Pub. L. 112–158, title II, §222(b), Aug. 10, 2012, 126 Stat. 1239.)
 

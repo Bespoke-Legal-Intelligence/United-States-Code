@@ -2,7 +2,7 @@
 
 #### (a) Administrative and other expenses
 
-Funds made available for the purposes of this chapter may be used for compensation, allowances and travel of employees, including members of the Foreign Service whose services are utilized primarily for the purposes of this chapter, for printing and binding without regard to the provisions of any other law, and for expenditures outside the United States for the procurement of supplies and services and for other administrative and operating purposes (other than compensation of employees) without regard to such laws and regulations governing the obligation and expenditure of Government funds as may be necessary to accomplish the purposes of this chapter.
+Funds made available for the purposes of this chapter may be used for compensation, allowances and travel of employees, including members of the Foreign Service whose services are utilized primarily for the purposes of this chapter, for printing and binding without regard to the provisions of any other law, and for expenditures outside the United States for the procurement of supplies and services and for other administrative and operating purposes (other than compensation of employees) without regard to such laws and regulations governing the obligation and expenditure of Government funds asmay be necessary to accomplish the purposes of this chapter.
 
 #### (b) Travel expenses abroad; transportation of personal effects, household goods and automobiles; storage
 
@@ -42,7 +42,7 @@ Funds available for the purposes of this chapter shall be available for—
 
 &emsp;(13) the transportation of Peace Corps employees, Peace Corps volunteers, dependents of such employees and volunteers, and accompanying baggage, by a foreign air carrier when the transportation is between two places outside the United States without regard to section 40118 of title 49.
 
-(Pub. L. 87–293, title I, §15, Sept. 22, 1961, 75 Stat. 621; Pub. L. 89–134, §7, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, §3, Sept. 13, 1966, 80 Stat. 765; Pub. L. 96–465, title II, §2202(e), Oct. 17, 1980, 94 Stat. 2158; Pub. L. 96–533, title VI, §601(c), Dec. 16, 1980, 94 Stat. 3155; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–145; Pub. L. 106–30, §2(a), (b)(5)–(8), May 21, 1999, 113 Stat. 55, 56.)
+(Pub. L. 87–293, title I, §15, Sept. 22, 1961, 75 Stat. 621; Pub. L. 89–134, §7, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, §3, Sept. 13, 1966, 80 Stat. 765; Pub. L. 96–465, title II, §2202(e), Oct. 17, 1980, 94 Stat. 2158; Pub. L. 96–533, title VI, §601(c), Dec.16, 1980, 94 Stat. 3155; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–145; Pub. L. 106–30, §2(a), (b)(5)–(8), May 21, 1999, 113 Stat. 55, 56.)
 
 #### References in Text
 

@@ -26,7 +26,7 @@
 
 #### (2) Placement; typography; etc.
 
-&emsp;Each label statement required by paragraph (1) shall be located in the upper portion of the front and rear panels of the package, directly on the package underneath the cellophane or other clear wrapping. Each label statement shall comprise the top 50 percent of the front and rear panels of the package. The word "WARNING" shall appear in capital letters and all text shall be in conspicuous and legible 17-point type, unless the text of the label statement would occupy more than 70 percent of such area, in which case the text may be in a smaller conspicuous and legible type size, provided that at least 60 percent of such area is occupied by required text. The text shall be black on a white background, or white on a black background, in a manner that contrasts, by typography, layout, or color, with all other printed material on the package, in an alternating fashion under the plan submitted under subsection (c).
+&emsp;Each label statement required by paragraph (1) shall be located in the upper portion of the front and rear panels of the package, directly on the package underneath the cellophane or other clear wrapping. Each label statement shall comprise the top 50 percent of the front and rear panels of the package. The word "WARNING" shall appear in capital letters and all text shall be in conspicuous and legible 17-point type, unless the text of the label statement would occupy more than 70 percent of such area, in which case the text may be in a smaller conspicuous and legible type size, provided that at least 60 percent of such areais occupied by required text. The text shall be black on a white background, or white on a black background, in a manner that contrasts, by typography, layout, or color, with all other printed material on the package, in an alternating fashion under the plan submitted under subsection (c).
 
 #### (3) Does not apply to foreign distribution
 
@@ -78,7 +78,7 @@
 
 &emsp;The Secretary shall review each plan submitted under paragraph (2) and approve it if the plan—
 
-&emsp;&emsp;(A) will provide for the equal distribution and display on packaging and the rotation required in advertising under this subsection; and
+&emsp;&emsp;(A) will provide for the equal distribution and display on packaging and the rotationrequired in advertising under this subsection; and
 
 &emsp;&emsp;(B) assures that all of the labels required under this section will be displayed by the tobacco product manufacturer, importer, distributor, or retailer at the same time.
 
@@ -88,7 +88,7 @@
 
 #### (d) <sup>1</sup> Graphic label statements
 
-Not later than 24 months after June 22, 2009, the Secretary shall issue regulations that require color graphics depicting the negative health consequences of smoking to accompany the label statements specified in subsection (a)(1). The Secretary may adjust the type size, text and format of the label statements specified in subsections (a)(2) and (b)(2) as the Secretarydetermines appropriate so that both the graphics and the accompanying label statements are clear, conspicuous, legible and appear within the specified area.
+Not later than 24 months after June 22, 2009, the Secretary shall issue regulations that require color graphics depicting the negative health consequences of smoking to accompany the label statements specified in subsection (a)(1). The Secretary may adjust the type size, text and format of the label statements specified in subsections (a)(2) and (b)(2) as the Secretary determines appropriate so that both the graphics and the accompanying label statements are clear, conspicuous, legible and appear within the specified area.
 
 #### (d) <sup>1</sup> Change in required statements
 
@@ -136,7 +136,7 @@ Subsec. (c)(2)(A). Pub. L. 99–117 substituted "brand style" for "brand" in pro
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–31, div. A, title II, §201(b), June 22, 2009, 123 Stat. 1845, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect 15 months after the issuance of the regulations required by subsection (a) \[final rule issued June 22, 2011, eff. Sept. 22, 2012; see 76 F.R. 36628\]. Such effective date shall be with respect to the date of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturer shall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with section 4 of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333), as amended by subsection (a)."
+Pub. L. 111–31, div. A, title II, §201(b), June 22, 2009, 123 Stat. 1845, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect15 months after the issuance of the regulations required by subsection (a) \[final rule issued June 22, 2011, eff. Sept. 22, 2012; see 76 F.R. 36628\]. Such effective date shall be with respect to the date of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturer shall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with section 4 of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333), as amended by subsection (a)."
 
 #### Effective Date of 1985 Amendment
 
@@ -148,7 +148,7 @@ Pub. L. 99–92, §11(c), Aug. 16, 1985, 99 Stat. 403, provided that:
 
 &emsp;"(B) a manufacturer or importer of cigarettes may elect to have the amendments apply at an earlier date or dates selected by the manufacturer or importer.
 
-"(2) The Federal Trade Commission may, upon application of a manufacturer or importer of cigarettes withan approved application under section 4(c)(2) of the Federal Cigarette Labeling and Advertising Act \[subsec. (c)(2) of this section\], as amended by subsection (a), extend the effective date specified in paragraph (1) to January 11, 1986. The Commission may approve an application for such an extension only if the Commission determines that the effective date specified in such paragraph (1) would cause unreasonable economic hardship to the applicant. Section 4 of the Federal Cigarette Labeling and Advertising Act \[this section\], as in effect before October 12, 1985, shall apply with respect to a manufacturer or importer with an application approved under this paragraph."
+"(2) The Federal Trade Commission may, upon application of a manufacturer or importer of cigarettes with an approved application under section 4(c)(2) of the Federal Cigarette Labeling and Advertising Act \[subsec. (c)(2) of this section\], as amended by subsection (a), extend the effective date specified in paragraph (1) to January 11, 1986. The Commission may approve an application for such an extension only if the Commission determines that the effective date specified in such paragraph (1) would cause unreasonable economic hardship to the applicant. Section 4 of the Federal Cigarette Labeling and Advertising Act \[this section\], as in effect before October 12, 1985, shall apply with respect to a manufacturer or importer with an application approved under this paragraph."
 
 #### Effective Date of 1984 Amendment
 

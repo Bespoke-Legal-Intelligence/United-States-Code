@@ -1,0 +1,38 @@
+### §16277. High-performance computation and supportive research
+
+#### (a) Modeling and simulation
+
+The Secretary shall carry out a program to enhance the capabilities of the United States to develop new reactor technologies through high-performance computation modeling and simulation techniques.
+
+#### (b) Coordination
+
+In carrying out the program under subsection (a), the Secretary shall coordinate with relevant Federal agencies as described by the National Strategic Computing Initiative established by Executive Order 13702 (80 Fed. Reg. 46177 (July 29, 2015)), while taking into account the following objectives:
+
+&emsp;(1) Using expertise from the private sector, institutions of higher education, and the National Laboratories to develop computational software and capabilities that prospective users may access to accelerate research and development of advanced nuclear reactor systems and reactor systems for space exploration.
+
+&emsp;(2) Developing computational tools to simulate and predict nuclear phenomena that may be validated through physical experimentation.
+
+&emsp;(3) Increasing the utility of the research infrastructure of the Department by coordinating with the Advanced Scientific Computing Research program within the Office of Science.
+
+&emsp;(4) Leveraging experience from the Energy Innovation Hub for Modeling and Simulation.
+
+&emsp;(5) Ensuring that new experimental and computational tools are accessible to relevant research communities, including private sector entities engaged in nuclear energy technology development.
+
+#### (c) Supportive research activities
+
+The Secretary shall consider support for additional research activities to maximize the utility of the research facilities of the Department, including physical processes—
+
+&emsp;(1) to simulate degradation of materials and behavior of fuel forms; and
+
+&emsp;(2) for validation of computational tools.
+
+(Pub. L. 109–58, title IX, §957, Aug. 8, 2005, 119 Stat. 888; Pub. L. 115–248, §2(g), Sept. 28, 2018, 132 Stat. 3157.)
+
+#### References in Text
+
+Executive Order 13702, referred to in subsec. (b), is set out as a note under section 5501 of Title 15, Commerce and Trade.
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–248 amended section generally. Prior to amendment, section related to survey and plan regarding alternatives to industrial radioactive sources.
+

@@ -12,7 +12,7 @@
 
 &emsp;(5) Section 2304(a)(1) <sup>1</sup> of title 10; <sup>2</sup>
 
-(b) Each committee of the House of Representatives and the Senate having jurisdiction withrespect to any provision of law referred to in subsection (a) of this section shall make a complete study and investigation concerning that provision of law and make a report, including any recommendations and proposed revisions such committee may have, to its respective House of Congress within two hundred and seventy days after September 14, 1976.
+(b) Each committee of the House of Representatives and the Senate having jurisdiction with respect to any provision of law referred to in subsection (a) of this section shall make a complete study and investigation concerning that provision of law and make a report, including any recommendations and proposed revisions such committee may have, to its respective House of Congress within two hundred and seventy days after September 14, 1976.
 
 (Pub. L. 94–412, title V, §502, Sept. 14, 1976, 90 Stat. 1258; Pub. L. 95–223, title I, §101(d), Dec. 28, 1977, 91 Stat. 1625; Pub. L. 96–513, title V, §507(b), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 105–362, title IX, §901(r)(2), Nov. 10, 1998, 112 Stat. 3291; Pub. L. 107–314, div. A, title X, §1062(o)(1), Dec. 2, 2002, 116 Stat. 2652.)
 

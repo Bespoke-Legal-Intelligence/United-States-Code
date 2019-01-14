@@ -16,7 +16,7 @@ Repeal of supplemental medicare premium.—The repeal of section 111 of MCCA \[P
 
 #### Effective Date
 
-Pub. L. 100–360, title I, §111(e), July 1, 1988, 102 Stat. 698, which provided that the enactment of this sectionand the amendment of section 6050F of this title applied to taxable years beginning after December 31, 1988, and that in case of a taxable year beginning in 1989, the premium imposed by this section should not be treated as a tax for purposes of applying section 6654 of this title, was repealed by Pub. L. 101–234, title I, §102(a), Dec. 13, 1989, 103 Stat. 1980.
+Pub. L. 100–360, title I, §111(e), July 1, 1988, 102 Stat. 698, which provided that the enactment of this section and the amendment of section 6050F of this title applied to taxable years beginning after December 31, 1988, and that in case of a taxable year beginning in 1989, the premium imposed by this section should not be treated as a tax for purposes of applying section 6654 of this title, was repealed by Pub. L. 101–234, title I, §102(a), Dec. 13, 1989, 103 Stat. 1980.
 
 #### Announcement of Supplemental Premium Rate
 

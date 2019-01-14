@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) a C corporation with respect to which the stock ownership requirement of paragraph (2) of section 542(a) is met,
 
-> &emsp;engaged in an activity to which this section applies, any loss from such activity for the taxable year shall be allowed only to the extent of the aggregate amount with respect to which the taxpayer is at risk (within the meaning of subsection (b)) for such activity at the close of the taxable year.
+> &emsp;engaged in an activity to which this section applies, any loss from such activity for thetaxable year shall be allowed only to the extent of the aggregate amount with respect to which the taxpayer is at risk (within the meaning of subsection (b)) for such activity at the close of the taxable year.
 
 #### (2) Deduction in succeeding year
 
@@ -100,7 +100,7 @@
 
 #### (C) Special rule for partnerships
 
-&emsp;&emsp;In the case of a partnership, a partner's share of any qualified nonrecourse financing of such partnership shall be determined on the basis of the partner's share of liabilities of such partnership incurred in connection with such financing (within the meaning of section 752).
+&emsp;&emsp;In the case of a partnership, a partner's share of any qualified nonrecourse financing of such partnership shall be determined onthe basis of the partner's share of liabilities of such partnership incurred in connection with such financing (within the meaning of section 752).
 
 #### (D) Qualified person defined
 
@@ -254,7 +254,7 @@
 
 #### (C) Qualified leasing member
 
-&emsp;&emsp;For purposes of this paragraph, a corporation shall be treated as a qualified leasingmember for the taxable year only if for each of the taxable years referred to in subparagraph (B)—
+&emsp;&emsp;For purposes of this paragraph, a corporation shall be treated as a qualified leasing member for the taxable year only if for each of the taxable years referred to in subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) it is a component member of the controlled group of corporations, and
 
@@ -340,7 +340,7 @@
 
 #### (iv) Special rule for banks
 
-&emsp;&emsp;&emsp;For purposes of clause (iii) of subparagraph (C), in the case of a bank (as definedin section 581) or a financial institution to which section 591 applies—
+&emsp;&emsp;&emsp;For purposes of clause (iii) of subparagraph (C), in the case of a bank (as defined in section 581) or a financial institution to which section 591 applies—
 
 &emsp;&emsp;&emsp;&emsp;(I) gross income shall be determined without regard to the exclusion of interest from gross income under section 103, and
 
@@ -536,7 +536,7 @@ Amendment by section 1011(b)(1) of Pub. L. 99–514 applicable to taxable years 
 
 Pub. L. 98–369, div. A, title IV, §432(d), July 18, 1984, 98 Stat. 815, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1983; except that any loss from an activity described in section 465(c)(7)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) which (but for the amendments made by this section) would have been treated as a deduction for the taxpayer's first taxable year beginning after December 31, 1983, under section 465(a)(2) of such Code shall be allowed as a deduction for such first taxable year notwithstanding such amendments."
 
-Amendment by section 721(x)(2) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
+Amendment by section 721(x)(2) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Actof 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 
 #### Effective Date of 1982 Amendment
 

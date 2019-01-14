@@ -22,7 +22,7 @@ From the amounts appropriated under subsection (f), the Secretary is authorized 
 
 In carrying out the grant program under subsection (b), the Secretary shall enter into an agreement with the grantee under which the grantee agrees to use the grant funds provided under this section to—
 
-&emsp;(1) provide teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title, to high-needlocal educational agencies in urban and rural communities;
+&emsp;(1) provide teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title, to high-need local educational agencies in urban and rural communities;
 
 &emsp;(2) pay the costs of recruiting, selecting, training, and supporting new teachers; and
 
@@ -70,7 +70,7 @@ In carrying out the grant program under subsection (b), the Secretary shall ente
 
 #### (C) Requirements
 
-&emsp;&emsp;The Secretary shall provide for such a study not less than once every three years, and each such study shall include multiple placement sites and multiple schools within placement sites.
+&emsp;&emsp;The Secretary shall provide for such a study not less than once every three years,and each such study shall include multiple placement sites and multiple schools within placement sites.
 
 #### (D) Peer review standards
 

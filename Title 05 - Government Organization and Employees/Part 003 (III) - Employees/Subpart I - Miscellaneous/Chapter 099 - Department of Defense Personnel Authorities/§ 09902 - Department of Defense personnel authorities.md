@@ -168,7 +168,7 @@ Provisions Related to Separation and Retirement Incentives.—
 
 &emsp;&emsp;(A) a reemployed annuitant under subchapter III of chapter 83 or chapter 84, or another retirement system for employees of the Federal Government;
 
-&emsp;&emsp;(B) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under anyof the retirement systems referred to in subparagraph (A); or
+&emsp;&emsp;(B) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under any of the retirement systems referred to in subparagraph (A); or
 
 &emsp;&emsp;(C) for purposes of eligibility for separation incentives under this section, an employee who is in receipt of a decision notice of involuntary separation for misconduct or unacceptable performance.
 

@@ -50,7 +50,7 @@ Salary and performance agreement.—The Commissioners shall be paid an annual ra
 
 &emsp;&emsp;(C)
 
-Removal.—The Commissioners may be removed from office by the Secretary for misconduct or nonsatisfactory performance under the performance agreement described in subparagraph (B), without regard to the provisions of title 5. The Secretary shall provide notification of any such removal to both Houses of Congress.
+Removal.—The Commissioners may be removed from office by the Secretary formisconduct or nonsatisfactory performance under the performance agreement described in subparagraph (B), without regard to the provisions of title 5. The Secretary shall provide notification of any such removal to both Houses of Congress.
 
 &emsp;(3)
 
@@ -120,7 +120,7 @@ Continuation in office of certain officers.—(A) The individual serving as the 
 
 #### Historical and Revision Notes
 
-Based on Title 35, U.S.C., 1946 ed., §2 (R.S. 476, amended (1) Feb. 15, 1916, ch. 22, §1, 39 Stat. 8, (2) Feb. 14, 1927, ch. 139, §1, 44 Stat. 1098, (3) Apr. 11, 1930, ch. 132, §1, 46 Stat. 155).
+Based on Title 35, U.S.C., 1946 ed., §2 (R.S. 476, amended (1) Feb. 15, 1916, ch. 22, §1, 39 Stat. 8, (2) Feb. 14, 1927,ch. 139, §1, 44 Stat. 1098, (3) Apr. 11, 1930, ch. 132, §1, 46 Stat. 155).
 
 The temporary designation of the assistant commissioner as Commissioner in case of a vacancy in office is added. This will eliminate complications since present applicable general statutes (5 U.S.C., 1946 ed., §7) permit a vacancy to be temporarily filled only for not more than 30 days.
 

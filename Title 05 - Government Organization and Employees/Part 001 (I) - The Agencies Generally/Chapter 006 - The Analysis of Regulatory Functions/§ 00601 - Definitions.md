@@ -284,7 +284,7 @@ Procedures.—Procedures described under subparagraph (B)(ii)—
 
 &emsp;"(5)
 
-Agency preparation of guides.—The agency shall, in its sole discretion, taking into account the subject matter of the rule and the language of relevant statutes, ensure that the guide is written usingsufficiently plain language likely to be understood by affected small entities. Agencies may prepare separate guides covering groups or classes of similarly affected small entities and may cooperate with associations of small entities to develop and distribute such guides. An agency may prepare guides and apply this section with respect to a rule or a group of related rules.
+Agency preparation of guides.—The agency shall, in its sole discretion, taking into account the subject matter of the rule and the language of relevant statutes, ensure that the guide is written using sufficiently plain language likely to be understood by affected small entities. Agencies may prepare separate guides covering groups or classes of similarly affected small entities and may cooperate with associations of small entities to develop and distribute such guides. An agency may prepare guides and apply this section with respect to a rule or a group of related rules.
 
 &emsp;"(6)
 
@@ -320,7 +320,7 @@ Reporting.—Each agency regulating the activities of small business shall repor
 
 #### "SEC. 215. COOPERATION ON GUIDANCE.
 
-"Agencies may, to the extent resources are available and where appropriate, in cooperation with the States, develop guides that fully integrate requirements of both Federal and State regulations where regulations within an agency's area of interest at the Federal and State levels impact small entities. Where regulations vary among the States, separate guides may be created for separate States in cooperation with State agencies.
+"Agencies may, to the extent resources are available and where appropriate, in cooperation with the States, develop guides that fully integrate requirements ofboth Federal and State regulations where regulations within an agency's area of interest at the Federal and State levels impact small entities. Where regulations vary among the States, separate guides may be created for separate States in cooperation with State agencies.
 
 #### "SEC. 216. EFFECTIVE DATE.
 
@@ -378,7 +378,7 @@ Pub. L. 101–574, title III, §309, Nov. 15, 1990, 104 Stat. 2831, provided tha
 
 "(a)
 
-Study.—The Office of Technology Assessment shall conduct a study of the effects of deregulation onthe economic vitality of rural areas. Such study shall include, but not be limited to, a thorough analysis of the impact of deregulation on—
+Study.—The Office of Technology Assessment shall conduct a study of the effects of deregulation on the economic vitality of rural areas. Such study shall include, but not be limited to, a thorough analysis of the impact of deregulation on—
 
 &emsp;"(1) the number of loans made by financial institutions to small businesses located in rural areas, a change in the level of security interests required for such loans, and the cost of such loans to rural small businesses for creation and expansion;
 
@@ -398,7 +398,7 @@ Report.—Not later than 12 months after the date of enactment of this title \[N
 
 #### Congressional Findings and Declaration of Purpose
 
-Section 2 of Pub. L. 96–354 provided that:
+Pub. L. 96–354, §2, Sept. 19, 1980, 94 Stat. 1164, provided that:
 
 "(a) The Congress finds and declares that—
 
@@ -412,7 +412,7 @@ Section 2 of Pub. L. 96–354 provided that:
 
 &emsp;"(5) unnecessary regulations create entry barriers in many industries and discourage potential entrepreneurs from introducing beneficial products and processes;
 
-&emsp;"(6) the practice of treating all regulated businesses, organizations, and governmental jurisdictions as equivalent may lead to inefficient use of regulatory agency resources, enforcement problems, and, in some cases, to actions inconsistent with the legislative intent of health, safety, environmental and economic welfare legislation;
+&emsp;"(6) the practice of treating all regulated businesses, organizations, and governmental jurisdictionsas equivalent may lead to inefficient use of regulatory agency resources, enforcement problems, and, in some cases, to actions inconsistent with the legislative intent of health, safety, environmental and economic welfare legislation;
 
 &emsp;"(7) alternative regulatory approaches which do not conflict with the stated objectives of applicable statutes may be available which minimize the significant economic impact of rules on small businesses, small organizations, and small governmental jurisdictions;
 
@@ -492,7 +492,7 @@ Sec. 3. <i>General Principles</i>. In formulating or implementing policies that 
 
 (d) While normal governmental processes do not ordinarily effect takings, undue delays in decision-making during which private property use if interfered with carry a risk of being held to be takings. Additionally, a delay in processing may increase significantly the size of compensation due if a taking is later found to have occurred.
 
-(e) The Just Compensation Clause is self-actuating, requiring that compensation be paid whenever governmental action results in a taking of private property regardless of whether the underlying authority for theaction contemplated a taking or authorized the payment of compensation. Accordingly, governmental actions that may have a significant impact on the use or value of private property should be scrutinized to avoid undue or unplanned burdens on the public fisc.
+(e) The Just Compensation Clause is self-actuating, requiring that compensation be paid whenever governmental action results in a taking of private property regardless of whether the underlying authority for the action contemplated a taking or authorized the payment of compensation. Accordingly, governmental actions that may have a significant impact on the use or value of private property should be scrutinized to avoid undue or unplanned burdens on the public fisc.
 
 Sec. 4. <i>Department and Agency Action</i>. In addition to the fundamental principles set forth in Section 3, Executive departments and agencies shall adhere, to the extent permitted by law, to the following criteria when implementing policies that have takings implications:
 
@@ -626,7 +626,7 @@ Sec. 3. <i>Definitions</i>. For purposes of this Executive order: (a) "Advisors"
 
 &emsp;(4) Raise novel legal or policy issues arising out of legal mandates, the President's priorities, or the principles set forth in this Executive order.
 
-Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory program, to provide for coordination of regulations, to maximize consultation and the resolution of potential conflicts at an early stage, to involve the public and its State, local, and tribal officials in regulatory planning, and to ensure that new or revised regulations promote the President's priorities and the principles set forth in this Executive order, these procedures shall be followed, to the extent permitted by law: (a) <i>Agencies' Policy Meeting</i>. Early in each year's planning cycle, the Vice President shall convene a meeting of the Advisors and the heads of agencies to seek a common understanding of priorities and to coordinate regulatory efforts to be accomplished in the upcoming year.
+Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory program, to provide for coordination of regulations, to maximize consultation and the resolution of potential conflicts at an early stage, to involve the public and its State, local, and tribal officials in regulatory planning, and to ensure that new or revisedregulations promote the President's priorities and the principles set forth in this Executive order, these procedures shall be followed, to the extent permitted by law: (a) <i>Agencies' Policy Meeting</i>. Early in each year's planning cycle, the Vice President shall convene a meeting of the Advisors and the heads of agencies to seek a common understanding of priorities and to coordinate regulatory efforts to be accomplished in the upcoming year.
 
 (b) <i>Unified Regulatory Agenda</i>. For purposes of this subsection, the term "agency" or "agencies" shall also include those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10). Each agency shall prepare an agenda of all regulations under development or review, at a time and in a manner specified by the Administrator of OIRA. The description of each regulatory action shall contain, at a minimum, a regulation identifier number, a brief summary of the action, the legal authority for the action, any legal deadline for the action, and the name and telephone number of a knowledgeable agency official. Agencies may incorporate the information required under 5 U.S.C. 602 and \[former\] 41 U.S.C. 402 into these agendas.
 
@@ -654,7 +654,7 @@ Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory prog
 
 (6) The Vice President, with the Advisors' assistance, may consult with the heads of agencies with respect to their Plans and, in appropriate instances, request further consideration or inter-agency coordination.
 
-(7) The Plans developed by the issuing agency shall be published annually in the October publication of theUnified Regulatory Agenda. This publication shall be made available to the Congress; State, local, and tribal governments; and the public. Any views on any aspect of any agency Plan, including whether any planned regulatory action might conflict with any other planned or existing regulation, impose any unintended consequences on the public, or confer any unclaimed benefits on the public, should be directed to the issuing agency, with a copy to OIRA.
+(7) The Plans developed by the issuing agency shall be published annually in the October publication of the Unified Regulatory Agenda. This publication shall be made available to the Congress; State, local, and tribal governments; and the public. Any views on any aspect of any agency Plan, including whether any planned regulatory action might conflict with any other planned or existing regulation, impose any unintended consequences on the public, or confer any unclaimed benefits on the public, should be directed to the issuing agency, with a copy to OIRA.
 
 (d) <i>Regulatory Working Group</i>. Within 30 days of the date of this Executive order, the Administrator of OIRA shall convene a Regulatory Working Group ("Working Group"), which shall consist of representatives of the heads of each agency that the Administrator determines to have significant domestic regulatory responsibility, the Advisors, and the Vice President. The Administrator of OIRA shall chair the Working Group and shall periodically advise the Vice President on the activities of the Working Group. The Working Group shall serve as a forum to assist agencies in identifying and analyzing important regulatory issues (including, among others (1) the development of innovative regulatory techniques, (2) the methods, efficacy, and utility of comparative risk assessment in regulatory decision-making, and (3) the development of short forms and other streamlined regulatory approaches for small businesses and other entities). The Working Group shall meet at least quarterly and may meet as a whole or in subgroups of agencies with an interest in particular issues or subject areas. To inform its discussions, the Working Group may commission analytical studies and reports by OIRA, the Administrative Conference of the United States, or any other agency.
 
@@ -662,7 +662,7 @@ Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory prog
 
 Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on the American people, their families, their communities, their State, local, and tribal governments, and their industries; to determine whether regulations promulgated by the executive branch of the Federal Government have become unjustified or unnecessary as a result of changed circumstances; to confirm that regulations are both compatible with each other and not duplicative or inappropriately burdensome in the aggregate; to ensure that all regulations are consistent with the President's priorities and the principles set forth in this Executive order, within applicable law; and to otherwise improve the effectiveness of existing regulations: (a) Within 90 days of the date of this Executive order, each agency shall submit to OIRA a program, consistent with its resources and regulatory priorities, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified or eliminated so as to make the agency's regulatory program more effective in achieving the regulatory objectives, less burdensome, or in greater alignment with the President's priorities and the principles set forth in this Executive order. Any significant regulations selected for review shall be included in the agency's annual Plan. The agency shall also identify any legislative mandates that require the agency to promulgate or continue to impose regulations that the agency believes are unnecessary or outdated by reason of changed circumstances.
 
-(b) The Administrator of OIRA shall work with the Regulatory Working Group and other interested entities to pursue the objectives of this section. State, local, and tribal governments are specifically encouraged to assist in the identification of regulations that impose significant or unique burdens on those governmental entities and that appear to have outlived their justification or be otherwise inconsistent with the public interest.
+(b) The Administrator of OIRA shall work with the Regulatory Working Group and other interested entities to pursue the objectives of this section. State, local, and tribal governments are specifically encouraged to assist in the identification of regulations that impose significant or unique burdens on those governmental entities and that appear to have outlived theirjustification or be otherwise inconsistent with the public interest.
 
 (c) The Vice President, in consultation with the Advisors, may identify for review by the appropriate agency or agencies other existing regulations of an agency or groups of regulations of more than one agency that affect a particular group, industry, or sector of the economy, or may identify legislative mandates that may be appropriate for reconsideration by the Congress.
 
@@ -934,7 +934,7 @@ Sec. 8. <i>Accountability.</i>
 
 (a) In transmitting any draft final regulation that has federalism implications to the Office of Management and Budget pursuant to Executive Order 12866 of September 30, 1993 \[set out above\], each agency shall include a certification from the official designated to ensure compliance with this order stating that the requirements of this order have been met in a meaningful and timely manner.
 
-(b) In transmitting proposed legislation that has federalism implications to the Office of Management and Budget, each agency shall include a certification from the official designated to ensure compliance with this order that all relevant requirements of this order have been met.
+(b) In transmitting proposed legislation that has federalism implications to the Office of Management and Budget, each agency shall include a certification fromthe official designated to ensure compliance with this order that all relevant requirements of this order have been met.
 
 (c) Within 180 days after the effective date of this order, the Director of the Office of Management and Budget and the Assistant to the President for Intergovernmental Affairs shall confer with State and local officials to ensure that this order is being properly and effectively implemented.
 
@@ -954,21 +954,21 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13198. Agency Responsibilities With Respect to Faith-Based and Community Initiatives
 
-Ex. Ord. No. 13198, Jan. 29, 2001, 66 F.R. 8497, provided:
+Ex. Ord. No. 13198, Jan. 29, 2001, 66 F.R. 8497, as amended by Ex. Ord. No. 13831, §2(a), May 3, 2018, 83 F.R. 20715, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet social needs in America's communities, it is hereby ordered as follows:
 
-Section 1. <i>Establishment of Executive Department Centers for Faith-Based and Community Initiatives</i>. (a) The Attorney General, the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall each establish within their respective departments a Center for Faith-Based and Community Initiatives (Center).
+Section 1. <i>Establishment of Executive Department Centers for Faith and Opportunity Initiatives</i>. (a) The Attorney General, the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall each establish within their respective departments a Center for Faith and Opportunity Initiatives (Center).
 
-(b) Each executive department Center shall be supervised by a Director, appointed by the department head in consultation with the White House Office of Faith-Based and Community Initiatives (White House OFBCI).
+(b) Each executive department Center shall be supervised by a Director, appointed by the department head in consultation with the White House Faith and Opportunity Initiative (White House Faith and Opportunity Initiative).
 
 (c) Each department shall provide its Center with appropriate staff, administrative support, and other resources to meet its responsibilities under this order.
 
 (d) Each department's Center shall begin operations no later than 45 days from the date of this order.
 
-Sec. 2. <i>Purpose of Executive Department Centers for Faith-Based and Community Initiatives</i>. The purpose of the executive department Centers will be to coordinate department efforts to eliminate regulatory, contracting, and other programmatic obstacles to the participation of faith-based and other community organizations in the provision of social services.
+Sec. 2. <i>Purpose of Executive Department Centers for Faith and Opportunity Initiatives</i>. The purpose of the executive department Centers will be to coordinate department efforts to eliminate regulatory, contracting, and other programmatic obstacles to the participation of faith-based and other community organizations in the provision of social services.
 
-Sec. 3. <i>Responsibilities of Executive Department Centers for Faith-Based and Community Initiatives</i>. Each Center shall, to the extent permitted by law: (a) conduct, in coordination with the White House OFBCI, a department-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social services by the department, including but not limited to regulations, rules, orders, procurement, and other internal policiesand practices, and outreach activities that either facially discriminate against or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
+Sec. 3. <i>Responsibilities of Executive Department Centers for Faith and Opportunity Initiatives</i>. Each Center shall, to the extent permitted by law: (a) conduct, in coordination with the White House Faith and Opportunity Initiative, a department-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social services by the department, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that either facially discriminate against or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
 
 (b) coordinate a comprehensive departmental effort to incorporate faith-based and other community organizations in department programs and initiatives to the greatest extent possible;
 
@@ -980,7 +980,7 @@ Sec. 3. <i>Responsibilities of Executive Department Centers for Faith-Based and 
 
 Sec. 4. <i>Additional Responsibilities of the Department of Health and Human Services and the Department of Labor Centers</i>. In addition to those responsibilities described in section 3 of this order, the Department of Health and Human Services and the Department of Labor Centers shall, to the extent permitted by law: (a) conduct a comprehensive review of policies and practices affecting existing funding streams governed by so-called "Charitable Choice" legislation to assess the department's compliance with the requirements of Charitable Choice; and (b) promote and ensure compliance with existing Charitable Choice legislation by the department, as well as its partners in State and local government, and their contractors.
 
-Sec. 5. <i>Reporting Requirements</i>. (a) Report. Not later than 180 days after the date of this order and annually thereafter, each of the five executive department Centers described in section 1 of this order shall prepare and submit a report to the White House OFBCI.
+Sec. 5. <i>Reporting Requirements</i>. (a) Report. Not later than 180 days after the date of this order and annually thereafter, each of the five executive department Centers described in section 1 of this order shall prepare and submit a report to the White House Faith and Opportunity Initiative.
 
 (b) Contents. The report shall include a description of the department's efforts in carrying out its responsibilities under this order, including but not limited to:
 
@@ -990,15 +990,15 @@ Sec. 5. <i>Reporting Requirements</i>. (a) Report. Not later than 180 days after
 
 (c) Performance Indicators. The first report, filed 180 days after the date of this order, shall include annual performance indicators and measurable objectives for department action. Each report filed thereafter shall measure the department's performance against the objectives set forth in the initial report.
 
-Sec. 6. <i>Responsibilities of All Executive Departments and Agencies</i>. All executive departments and agencies (agencies) shall: (a) designate an agency employee to serve as the liaison and point of contact with the White House OFBCI; and
+Sec. 6. <i>Responsibilities of All Executive Departments and Agencies</i>. All executive departments and agencies (agencies) shall: (a) designate an agency employee to serve as the liaison and point of contact with the White House Faith and Opportunity Initiative; and
 
-(b) cooperate with the White House OFBCI and provide such information, support, and assistance to the White House OFBCI as it may request, to the extent permitted by law.
+(b) cooperate with the White House Faith and Opportunity Initiative and provide such information, support, and assistance to the White House Faith and Opportunity Initiative as it may request, to the extent permitted by law.
 
 Sec. 7. <i>Administration and Judicial Review</i>. (a) The agencies' actions directed by this Executive Order shall be carried out subject to the availability of appropriations and to the extent permitted by law.
 
 (b) This order does not create any right or benefit, substantive or procedural, enforceable at law or equity against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+\[Ex. Ord. No. 13831, §2(a), which directed substitution of "Centers for Faith and Opportunity Initiatives" for "Centers for Faith-Based and Community Initiatives" wherever appearing in Ex. Ord. No. 13198, set out above, was executed by also substituting "Center for Faith and Opportunity Initiatives" for "Center for Faith-Based and Community Initiatives" in section 1(a).\]
 
 #### Ex. Ord. No. 13272. Proper Consideration of Small Entities in Agency Rulemaking
 
@@ -1026,7 +1026,7 @@ Sec. 3. <i>Responsibilities of Federal Agencies</i>. Consistent with the require
 
 Sec. 4. <i>Definitions</i>. Terms defined in section 601 of title 5, United States Code, including the term "agency," shall have the same meaning in this order.
 
-Sec. 5. <i>Preservation of Authority</i>. Nothing in this order shall be construed to impair or affect the authority ofthe Administrator of the Small Business Administration to supervise the Small Business Administration as provided in the first sentence of section 2(b)(1) of Public Law 85–09536 \[Pub. L. 85–536\] (15 U.S.C. 633(b)(1)).
+Sec. 5. <i>Preservation of Authority</i>. Nothing in this order shall be construed to impair or affect the authority of the Administrator of the Small Business Administration to supervise the Small Business Administration as provided in the first sentence of section 2(b)(1) of Public Law 85–09536 \[Pub. L. 85–536\] (15 U.S.C. 633(b)(1)).
 
 Sec. 6. <i>Reporting</i>. For the purpose of promoting compliance with this order, Advocacy shall submit a report not less than annually to the Director of the Office of Management and Budget on the extent of compliance with this order by agencies.
 
@@ -1038,7 +1038,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13279. Equal Protection of the Laws for Faith-Based and Other Neighborhood Organizations
 
-Ex. Ord. No. 13279, Dec. 12, 2002, 67 F.R. 77141, as amended by Ex. Ord. No. 13403, §2, May 12, 2006, 71 F.R. 28543; Ex. Ord. No. 13559, Nov. 17, 2010, 75 F.R. 71319, provided:
+Ex. Ord. No. 13279, Dec. 12, 2002, 67 F.R. 77141, as amended by Ex. Ord. No. 13403, §2, May 12, 2006, 71 F.R. 28543; Ex. Ord. No. 13559, Nov. 17, 2010, 75 F.R. 71319; Ex. Ord. No. 13831, §2, May 3, 2018, 83 F.R. 20715, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 121(a) of title 40, United States Code, and section 301 of title 3, United States Code, and in order to guide Federal agencies in formulating and developing policies with implications for faith-based organizations and other other \[sic\] neighborhood organizations, to ensure equal protection of the laws for faith-based and other neighborhood organizations, to further the national effort to expand opportunities for, and strengthen the capacity of, faith-based and other other \[sic\] neighborhood organizations so that they may better meet social needs in America's communities, and to ensure the economical and efficient administration and completion of Government contracts, it is hereby ordered as follows:
 
@@ -1048,7 +1048,7 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 (b) "Social service program" means a program that is administered by the Federal Government, or by a State or local government using Federal financial assistance, and that provides services directed at reducing poverty, improving opportunities for low-income children, revitalizing low-income communities, empowering low-income families and low-income individuals to become self-sufficient, or otherwise helping people in need. Such programs include, but are not limited to, the following:
 
-&emsp;(i) child care services, protective services for children and adults, services for children and adults in foster care, adoption services, services related to the management and maintenance of the home, day care services for adults, and services to meet the special needs of children, older individuals, and individuals with disabilities (including physical, mental, or emotional disabilities);
+&emsp;(i) child care services, protective services for children and adults, services for children and adults in foster care, adoption services, services related to the management and maintenance of the home, day care services for adults, and services to meet the specialneeds of children, older individuals, and individuals with disabilities (including physical, mental, or emotional disabilities);
 
 &emsp;(ii) transportation services;
 
@@ -1110,19 +1110,13 @@ Sec. 2. <i>Fundamental Principles</i>. In formulating and implementing policies 
 
 (e) The Federal Government must implement Federal programs in accordance with the Establishment Clause and the Free Exercise Clause of the First Amendment to the United States Constitution, as well as other applicable law, and must monitor and enforce standards regarding the relationship between religion and government in ways that avoid excessive entanglement between religious bodies and governmental entities.
 
-(f) Organizations that engage in explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, orproselytization) must perform such activities and offer such services outside of programs that are supported with direct Federal financial assistance (including through prime awards or sub-awards), separately in time or location from any such programs or services supported with direct Federal financial assistance, and participation in any such explicitly religious activities must be voluntary for the beneficiaries of the social service program supported with such Federal financial assistance.
+(f) Organizations that engage in explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, or proselytization) must perform such activities and offer such services outside of programs that are supported with direct Federal financial assistance (including through prime awards or sub-awards), separately in time or location from any such programs or services supported with direct Federal financial assistance, and participation in any such explicitly religious activities must be voluntary for the beneficiaries of the social service program supported with such Federal financial assistance.
 
 (g) Faith-based organizations should be eligible to compete for Federal financial assistance used to support social service programs and to participate fully in the social service programs supported with Federal financial assistance without impairing their independence, autonomy, expression outside the programs in question, or religious character. Accordingly, a faith-based organization that applies for, or participates in, a social service program supported with Federal financial assistance may retain its independence and may continue to carry out its mission, including the definition, development, practice, and expression of its religious beliefs, provided that it does not use direct Federal financial assistance that it receives (including through a prime award or sub-award) to support or engage in any explicitly religious activities (including activities that involve overt religious content such as worship, religious instruction, or proselytization), or in any other manner prohibited by law. Among other things, faith-based organizations that receive Federal financial assistance may use their facilities to provide social services supported with Federal financial assistance, without removing or altering religious art, icons, scriptures, or other symbols from these facilities. In addition, a faith-based organization that applies for, or participates in, a social service program supported with Federal financial assistance may retain religious terms in its name, select its board members on a religious basis, and include religious references in its organization's mission statements and other chartering or governing documents.
 
-(h) Each agency responsible for administering or awarding Federal financial assistance for social service programs shall offer protections for beneficiaries of such programs pursuant to the following principles:
+(h) To promote transparency and accountability, agencies that provide Federal financial assistance for social service programs shall post online, in an easily accessible manner, regulations, guidance documents, and policies that reflect or elaborate upon the fundamental principles described in this section. Agencies shall also post online a list of entities that receive Federal financial assistance for provision of social service programs, consistent with law and pursuant to guidance set forth in paragraph (c) of section 3 of this order.
 
-(i) <i>Referral to an Alternative Provider</i>. If a beneficiary or prospective beneficiary of a social service program supported by Federal financial assistance objects to the religious character of an organization that provides services under the program, that organization shall, within a reasonable time after the date of the objection, refer the beneficiary to an alternative provider.
-
-(ii) <i>Agency Responsibilities</i>. Each agency responsible for administering a social service program or supporting a social service program with Federal financial assistance shall establish policies and procedures designed to ensure that (1) appropriate and timely referrals are made to an alternative provider; (2) all referrals are made in a manner consistent with all applicable privacy laws and regulations; (3) the organization subject to subsection (h)(i) notifies the agency of any referral; (4) such organization has established a process for determining whether the beneficiary has contacted the alternative provider; and (5) each beneficiary of a social service program receives written notice of the protections set forth in this subsection prior to enrolling in or receiving services from such program.
-
-(i) To promote transparency and accountability, agencies that provide Federal financial assistance for social service programs shall post online, in an easily accessible manner, regulations, guidance documents, and policies that reflect or elaborate upon the fundamental principles described in this section. Agencies shall also post online a list of entities that receive Federal financial assistance for provision of social service programs, consistent with law and pursuant to guidance set forth in paragraph (c) of section 3 of this order.
-
-(j) Decisions about awards of Federal financial assistance must be free from political interference or even the appearance of such interference and must be made on the basis of merit, not on the basis of the religious affiliation of a recipient organization or lack thereof.
+(i) Decisions about awards of Federal financial assistance must be free from political interference or even the appearance of such interference and must be made on the basis of merit, not on the basis of the religious affiliation of a recipient organization or lack thereof.
 
 Sec. 3. <i>Ensuring Uniform Implementation Across the Federal Government</i>. In order to promote uniformity in agencies' policies that have implications for faith-based and other neighborhood organizations and in related guidance, and to ensure that those policies and guidance are consistent with the fundamental principles set forth in section 2 of this order, there is established an Interagency Working Group on Faith-Based and Other Neighborhood Partnerships (Working Group).
 
@@ -1130,11 +1124,11 @@ Sec. 3. <i>Ensuring Uniform Implementation Across the Federal Government</i>. In
 
 (b) <i>Uniform Agency Implementation</i>. Within 120 days of the date of this order, the Working Group shall submit a report to the President on amendments, changes, or additions that are necessary to ensure that regulations and guidance documents associated with the distribution of Federal financial assistance for social service programs are consistent with the fundamental principles set forth in section 2 of this order. The Working Group's report should include, but not be limited to, a model set of regulations and guidance documents for agencies to adopt in the following areas:
 
-(i) prohibited uses of direct Federal financial assistance and separation requirements; (ii) protections for religious identity; (iii) the distinction between "direct" and "indirect" Federal financial assistance; (iv) protections for beneficiaries of social service programs; (v) transparency requirements, consistent with and in furtherance of existing open government initiatives; (vi) obligations of nongovernmental and governmental intermediaries; (vii) instructions for peer reviewers and those who recruit peer reviewers; and (viii) training on these matters for government employees and for Federal, State, and local governmental and nongovernmental organizations that receive Federal financial assistance under social service programs. In developing this report and in reviewing agency regulations and guidance for consistency with section 2 of this order, the Working Group shall consult the March 2010 report and recommendations prepared by the President's Advisory Council on Faith-Based and Neighborhood Partnerships on the topic of reforming the Office of Faith-Based and Neighborhood Partnerships.
+(i) prohibited uses of direct Federal financial assistance and separation requirements; (ii) protections for religious identity; (iii) the distinction between "direct" and "indirect" Federal financial assistance; (iv) protections for beneficiaries of social service programs; (v) transparency requirements, consistent with and in furtherance of existing open government initiatives; (vi) obligations of nongovernmental and governmental intermediaries; (vii) instructions for peer reviewers and those who recruit peer reviewers; and (viii) training on these matters for government employees and for Federal, State, and local governmental and nongovernmental organizations that receive Federal financial assistance under social service programs. In developing this report and in reviewing agency regulations and guidance for consistency with section 2 of this order, the Working Group shall consult the March 2010 report and recommendations prepared by the President's Advisory Council on Faith-Based and Neighborhood Partnerships on the topic of reforming the White House Faith and Opportunity Initiative.
 
 (c) <i>Guidance</i>. The Director of the Office of Management and Budget (OMB), following receipt of a copy of the report of the Working Group, and in coordination with the Department of Justice, shall issue guidance to agencies on the implementation of this order, including in particular subsections 2(h)–(j).
 
-(d) <i>Membership of the Working Group</i>. The Director of the Office of Faith-Based and Neighborhood Partnerships and a senior official from the OMB designated by the Director of the OMB shall serve as the Co-Chairs of the Working Group. The Co-Chairs shall convene regular meetings of the Working Group, determine its agenda, and direct its work. In addition to the Co-Chairs, the Working Group shall consist of a senior official with knowledge of policies that have implications for faith-based and other neighborhood organizations from the following agencies and offices:
+(d) <i>Membership of the Working Group</i>. The Director of the White House Faith and Opportunity Initiative and a senior official from the OMB designated by the Director of the OMB shall serve as the Co-Chairs of the Working Group. The Co-Chairs shall convene regular meetings of the Working Group, determine its agenda, and direct its work. In addition to the Co-Chairs, the Working Group shall consist of a senior official with knowledge of policies that have implications for faith-based and other neighborhood organizations from the following agencies and offices:
 
 (i) the Department of State;
 
@@ -1184,17 +1178,17 @@ Pursuant to section 121(a) of title 40, United States Code, and section 301 of t
 
 Sec. 5. <i>General Provisions.</i>
 
-(a) This order supplements but does not supersede the requirements contained in Executive Orders 13198 \[set out above\] and 13199 \[3 U.S.C. note prec. 101\] of January 29, 2001.
+(a) This order supplements but does not supersede the requirements contained in Executive Orders 13198 \[set out above\] and 13199 \[former 3 U.S.C. note prec. 101\] of January 29, 2001.
 
-(b) The agencies shall coordinate with the White House OFBCI concerning the implementation of this order.
+(b) The agencies shall coordinate with the White House Faith and Opportunity Initiative concerning the implementation of this order.
 
 (c) Nothing in this order shall be construed to require an agency to take any action that would impair the conduct of foreign affairs or the national security.
 
 Sec. 6. <i>Responsibilities of Executive Departments and Agencies</i>. All executive departments and agencies (agencies) shall:
 
-(a) designate an agency employee to serve as the liaison and point of contact with the White House OFBCI; and
+(a) designate an agency employee to serve as the liaison and point of contact with the White House Faith and Opportunity Initiative; and
 
-(b) cooperate with the White House OFBCI and provide such information, support, and assistance to the White House OFBCI as it may request, to the extent permitted by law.
+(b) cooperate with the White House Faith and Opportunity Initiative and provide such information, support, and assistance to the White House Faith and Opportunity Initiative as it may request, to the extent permitted by law.
 
 Sec. 7. <i>Judicial Review.</i>
 
@@ -1202,23 +1196,23 @@ This order is intended only to improve the internal management of the executive 
 
 #### Ex. Ord. No. 13280. Responsibilities of the Department of Agriculture and the Agency for International Development With Respect to Faith-Based and Community Initiatives
 
-Ex. Ord. No. 13280, Dec. 12, 2002, 67 F.R. 77145, provided:
+Ex. Ord. No. 13280, Dec. 12, 2002, 67 F.R. 77145, as amended by Ex. Ord. No. 13831, §2(a), May 3, 2018, 83 F.R. 20715, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet social needs in America's communities, it is hereby ordered as follows:
 
-Section 1. <i>Establishment of Centers for Faith-Based and Community Initiatives at the Department of Agriculture and the Agency for International Development</i>. (a) The Secretary of Agriculture and the Administrator of the Agency for International Development shall each establish within their respective agencies a Center for Faith-Based and Community Initiatives (Center).
+Section 1. <i>Establishment of Centers for Faith and Opportunity Initiatives at the Department of Agriculture and the Agency for International Development</i>. (a) The Secretary of Agriculture and the Administrator of the Agency for International Development shall each establish within their respective agencies a Center for Faith and Opportunity Initiatives (Center).
 
-(b) Each of these Centers shall be supervised by a Director, appointed by the agency head in consultation with the White House Office of Faith-Based and Community Initiatives (White House OFBCI).
+(b) Each of these Centers shall be supervised by a Director, appointed by the agency head in consultation with the White House Faith and Opportunity Initiative (White House Faith and Opportunity Initiative).
 
 (c) Each agency shall provide its Center with appropriate staff, administrative support, and other resources to meet its responsibilities under this order.
 
 (d) Each Center shall begin operations no later than 45 days from the date of this order.
 
-Sec. 2. <i>Purpose of Executive Branch Centers for Faith-Based and Community Initiatives</i>. The purpose of the agency Centers will be to coordinate agency efforts to eliminate regulatory, contracting, and other programmatic obstacles to the participation of faith-based and other community organizations in the provision of social services.
+Sec. 2. <i>Purpose of Executive Branch Centers for Faith and Opportunity Initiatives</i>. The purpose of the agency Centers will be to coordinate agency efforts to eliminate regulatory, contracting, and other programmatic obstacles to the participation of faith-based and other community organizations in the provision of social services.
 
-Sec. 3. <i>Responsibilities of the Centers for Faith-Based and Community Initiatives</i>. Each Center shall, to the extent permitted by law:
+Sec. 3. <i>Responsibilities of the Centers for Faith and Opportunity Initiatives</i>. Each Center shall, to the extent permitted by law:
 
-(a) conduct, in coordination with the White House OFBCI, an agency-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social services by the agency, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that either facially discriminate against or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
+(a) conduct, in coordination with the White House Faith and Opportunity Initiative, an agency-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social services by the agency, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that either facially discriminate against or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
 
 (b) coordinate a comprehensive agency effort to incorporate faith-based and other community organizations in agency programs and initiatives to the greatest extent possible;
 
@@ -1230,7 +1224,7 @@ Sec. 3. <i>Responsibilities of the Centers for Faith-Based and Community Initiat
 
 Sec. 4. <i>Reporting Requirements.</i>
 
-(a) <i>Report</i>. Not later than 180 days from the date of this order and annually thereafter, each of the two Centers described in section 1 of this order shall prepare and submit a report to the White House OFBCI.
+(a) <i>Report</i>. Not later than 180 days from the date of this order and annually thereafter, each of the two Centers described in section 1 of this order shall prepare and submit a report to the White House Faith and Opportunity Initiative.
 
 (b) <i>Contents</i>. The report shall include a description of the agency's efforts in carrying out its responsibilities under this order, including but not limited to:
 
@@ -1242,37 +1236,37 @@ Sec. 4. <i>Reporting Requirements.</i>
 
 Sec. 5. <i>Responsibilities of the Secretary of Agriculture and the Administrator of the Agency for International Development</i>. The Secretary and the Administrator shall:
 
-(a) designate an employee within their respective agencies to serve as the liaison and point of contact with the White House OFBCI; and
+(a) designate an employee within their respective agencies to serve as the liaison and point of contact with the White House Faith and Opportunity Initiative; and
 
-(b) cooperate with the White House OFBCI and provide such information, support, and assistance to the White House OFBCI as it may request, to the extent permitted by law.
+(b) cooperate with the White House Faith and Opportunity Initiative and provide such information, support, and assistance to the White House Faith and Opportunity Initiative as it may request, to the extent permitted by law.
 
 Sec. 6. <i>Administration and Judicial Review</i>. (a) The agency actions directed by this executive order shall be carried out subject to the availability of appropriations and to the extent permitted by law.
 
 (b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, or entities, its officers, employees or agents, or any other person.
 
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+\[Ex. Ord. No. 13831, §2(a), which directed substitution of "Centers for Faith and Opportunity Initiatives" for "Centers for Faith-Based and Community Initiatives" wherever appearing in Ex. Ord. No. 13280, set out above, was executed by also substituting "Center for Faith and Opportunity Initiatives" for "Center for Faith-Based and Community Initiatives" in section 1(a).\]
 
 #### Ex. Ord. No. 13342. Responsibilities of the Departments of Commerce and Veterans Affairs and the Small Business Administration With Respect to Faith-Based and Community Initiatives
 
-Ex. Ord. No. 13342, June 1, 2004, 69 F.R. 31509, provided:
+Ex. Ord. No. 13342, June 1, 2004, 69 F.R. 31509, as amended by Ex. Ord. No. 13831, §2(a), May 3, 2018, 83 F.R. 20715, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet America's social and community needs, it is hereby ordered as follows:
 
-Section 1. <i>Establishment of Centers for Faith-Based and Community Initiatives at the Departments of Commerce and Veterans Affairs and the Small Business Administration.</i>
+Section 1. <i>Establishment of Centers for Faith and Opportunity Initiatives at the Departments of Commerce and Veterans Affairs and the Small Business Administration.</i>
 
-(a) The Secretaries of Commerce and Veterans Affairs and the Administrator of the Small Business Administration shall each establish within their respective agencies a Center for Faith-Based and Community Initiatives (Center).
+(a) The Secretaries of Commerce and Veterans Affairs and the Administrator of the Small Business Administration shall each establish within their respective agencies a Center for Faith and Opportunity Initiatives (Center).
 
-(b) Each of these Centers shall be supervised by a Director, appointed by the agency head in consultation with the White House Office of Faith-Based and Community Initiatives (White House OFBCI).
+(b) Each of these Centers shall be supervised by a Director, appointed by the agency head in consultation with the White House Faith and Opportunity Initiative (White House Faith and Opportunity Initiative).
 
 (c) Each agency shall provide its Center with appropriate staff, administrative support, and other resources to meet its responsibilities under this order.
 
 (d) Each Center shall begin operations no later than 45 days from the date of this order.
 
-Sec. 2. <i>Purpose of Executive Branch Centers for Faith-Based and Community Initiatives</i>. The purpose of the agency Centers will be to coordinate agency efforts to eliminate regulatory, contracting, and other programmatic obstacles to the participation of faith-based and other community organizations in the provision of social and community services.
+Sec. 2. <i>Purpose of Executive Branch Centers for Faith and Opportunity Initiatives</i>. The purpose of the agencyCenters will be to coordinate agency efforts to eliminate regulatory, contracting, and other programmatic obstacles to the participation of faith-based and other community organizations in the provision of social and community services.
 
-Sec. 3. <i>Responsibilities of the Centers for Faith-Based and Community Initiatives</i>. Each Center shall, to the extent permitted by law:
+Sec. 3. <i>Responsibilities of the Centers for Faith and Opportunity Initiatives</i>. Each Center shall, to the extent permitted by law:
 
-(a) conduct, in coordination with the White House OFBCI, an agency-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social and community services by the agency, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that either facially discriminate against or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
+(a) conduct, in coordination with the White House Faith and Opportunity Initiative, an agency-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social and community services by the agency, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that either facially discriminate against or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
 
 (b) coordinate a comprehensive agency effort to incorporate faith-based and other community organizations in agency programs and initiatives to the greatest extent possible;
 
@@ -1282,7 +1276,7 @@ Sec. 3. <i>Responsibilities of the Centers for Faith-Based and Community Initiat
 
 (e) develop and coordinate agency outreach efforts to disseminate information more effectively to faith-based and other community organizations with respect to programming changes, contracting opportunities, and other agency initiatives, including but not limited to Web and Internet resources.
 
-Sec. 4. <i>Reporting Requirements</i>. (a) <i>Report</i>. Not later than 180 days from the date of this order and annually thereafter, each of the three Centers described in section 1 of this order shall prepare and submit a report to the President through the White House OFBCI.
+Sec. 4. <i>Reporting Requirements</i>. (a) <i>Report</i>. Not later than 180 days from the date of this order and annually thereafter, each of the three Centers described in section 1 of this order shall prepare and submit a report to the President through the White House Faith and Opportunity Initiative.
 
 (b) <i>Contents</i>. The report shall include a description of the agency's efforts in carrying out its responsibilities under this order, including but not limited to:
 
@@ -1294,27 +1288,27 @@ Sec. 4. <i>Reporting Requirements</i>. (a) <i>Report</i>. Not later than 180 day
 
 Sec. 5. <i>Responsibilities of the Secretaries of Commerce and Veterans Affairs and the Administrator of the Small Business Administration</i>. The Secretaries and the Administrator shall:
 
-(a) designate an employee within their respective agencies to serve as the liaison and point of contact with the White House OFBCI; and
+(a) designate an employee within their respective agencies to serve as the liaison and point of contact with the White House Faith and Opportunity Initiative; and
 
-(b) cooperate with the White House OFBCI and provide such information, support, and assistance to the White House OFBCI as it may request, to the extent permitted by law.
+(b) cooperate with the White House Faith and Opportunity Initiative and provide such information, support, and assistance to the White House Faith and Opportunity Initiative as it may request, to the extent permitted by law.
 
 Sec. 6. <i>Administration and Judicial Review</i>. (a) The agency actions directed by this executive order shall be carried out subject to the availability of appropriations and to the extent permitted by law.
 
 (b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities or entities, its officers, employees or agents, or any other person.
 
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+\[Ex. Ord. No. 13831, §2(a), which directed substitution of "Centers for Faith and Opportunity Initiatives" for "Centers for Faith-Based and Community Initiatives" wherever appearing in Ex. Ord. No. 13342, set out above, was executed by also substituting "Center for Faith and Opportunity Initiatives" for "Center for Faith-Based and Community Initiatives" in section 1(a).\]
 
 #### Ex. Ord. No. 13397. Responsibilities of the Department of Homeland Security With Respect to Faith-Based and Community Initiatives
 
-Ex. Ord. No. 13397, Mar. 7, 2006, 71 F.R. 12275, provided:
+Ex. Ord. No. 13397, Mar. 7, 2006, 71 F.R. 12275, as amended by Ex. Ord. No. 13831, §2(a), May 3, 2018, 83 F.R. 20715, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet America's social and community needs, it is hereby ordered as follows:
 
-Section 1. <i>Establishment of a Center for Faith-Based and Community Initiatives at the Department of Homeland Security.</i>
+Section 1. <i>Establishment of a Center for Faith and Opportunity Initiatives at the Department of Homeland Security.</i>
 
-(a) The Secretary of Homeland Security (Secretary) shall establish within the Department of Homeland Security (Department) a Center for Faith-Based and Community Initiatives (Center).
+(a) The Secretary of Homeland Security (Secretary) shall establish within the Department of Homeland Security (Department) a Center for Faith and Opportunity Initiatives (Center).
 
-(b) The Center shall be supervised by a Director appointed by \[the\] Secretary. The Secretary shall consult with the Director of the White House Office of Faith-Based and Community Initiatives (WHOFBCI Director) prior to making such appointment.
+(b) The Center shall be supervised by a Director appointed by \[the\] Secretary. The Secretary shall consult with the Director of the White House Faith and Opportunity Initiative (WHOFBCI Director \[probably should be "White House Faith and Opportunity Initiative Director"\]) prior to making such appointment.
 
 (c) The Department shall provide the Center with appropriate staff, administrative support, and other resources to meet its responsibilities under this order.
 
@@ -1356,7 +1350,7 @@ Sec. 6. <i>General Provisions</i>. (a) This order shall be implemented subject t
 
 (b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its agencies, or entities, its officers, employees, or agents, or any other person.
 
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+\[Ex. Ord. No. 13831, §2(a), which directed substitution of "Centers for Faith and Opportunity Initiatives" for "Centers for Faith-Based and Community Initiatives" wherever appearing in Ex. Ord. No. 13397, set out above, was executed by also substituting "Center for Faith and Opportunity Initiatives" for "Center for Faith-Based and Community Initiatives" in two places in section 1.\]
 
 #### Ex. Ord. No. 13406. Protecting the Property Rights of the American People
 
@@ -1382,7 +1376,7 @@ Sec. 3. <i>Specific Exclusions</i>. Nothing in this order shall be construed to 
 
 (a) public ownership or exclusive use of the property by the public, such as for a public medical facility, roadway, park, forest, governmental office building, or military reservation;
 
-(b) projects designated for public, common carrier, public transportation, or public utility use, includingthose for which a fee is assessed, that serve the general public and are subject to regulation by a governmental entity;
+(b) projects designated for public, common carrier, public transportation, or public utility use, including those for which a fee is assessed, that serve the general public and are subject to regulation by a governmental entity;
 
 (c) conveying the property to a nongovernmental entity, such as a telecommunications or transportation common carrier, that makes the property available for use by the general public as of right;
 
@@ -1506,7 +1500,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. (a) To maintain our Nation's competitive edge and ensure an economy built to last, the United States must have fast, reliable, resilient, and environmentally sound means of moving people, goods, energy, and information. In a global economy, we will compete for the world's investments based in significant part on the quality of our infrastructure. Investing in the Nation's infrastructure provides immediate and long-term economic benefits for local communities and the Nation as a whole.
 
-The quality of our Nation's infrastructure depends in critical part on Federal permitting and review processes, including planning, approval, and consultation processes. These processes inform decision-makers and affected communities about the potential benefits and impacts of proposed infrastructure projects, and ensure that projects are designed, built, and maintained in a manner that is consistent with protecting our publichealth, welfare, safety, national security, and environment. Reviews and approvals of infrastructure projects can be delayed due to many factors beyond the control of the Federal Government, such as poor project design, incomplete applications, uncertain funding, or multiple reviews and approvals by State, local, tribal, or other jurisdictions. Given these factors, it is critical that executive departments and agencies (agencies) take all steps within their authority, consistent with available resources, to execute Federal permitting and review processes with maximum efficiency and effectiveness, ensuring the health, safety, and security of communities and the environment while supporting vital economic growth.
+The quality of our Nation's infrastructure depends in critical part on Federal permitting and review processes, including planning, approval, and consultation processes. These processes inform decision-makers and affected communities about the potential benefits and impacts of proposed infrastructure projects, and ensure that projects are designed, built, and maintained in a manner that is consistent with protecting our public health, welfare, safety, national security, and environment. Reviews and approvals of infrastructure projects can be delayed due to many factors beyond the control of the Federal Government, such as poor project design, incomplete applications, uncertain funding, or multiple reviews and approvals by State, local, tribal, or other jurisdictions. Given these factors, it is critical that executive departments and agencies (agencies) take all steps within their authority, consistent with available resources, to execute Federal permitting and review processes with maximum efficiency and effectiveness, ensuring the health, safety, and security of communities and the environment while supporting vital economic growth.
 
 To achieve that objective, our Federal permitting and review processes must provide a transparent, consistent, and predictable path for both project sponsors and affected communities. They must ensure that agencies set and adhere to timelines and schedules for completion of reviews, set clear permitting performance goals, and track progress against those goals. They must encourage early collaboration among agencies, project sponsors, and affected stakeholders in order to incorporate and address their interests and minimize delays. They must provide for transparency and accountability by utilizing cost-effective information technology to collect and disseminate information about individual projects and agency performance, so that the priorities and concerns of all our citizens are considered. They must rely upon early and active consultation with State, local, and tribal governments to avoid conflicts or duplication of effort, resolve concerns, and allow for concurrent rather than sequential reviews. They must recognize the critical role project sponsors play in assuring the timely and cost-effective review of projects by providing complete information and analysis and by supporting, as appropriate, the costs associated with review. And, they must enable agencies to share priorities, work collaboratively and concurrently to advance reviews and permitting decisions, and facilitate the resolution of disputes at all levels of agency organization.
 
@@ -1568,7 +1562,7 @@ Sec. 3. <i>Plans for Measurable Performance Improvement</i>. (a) By May 31, 2012
 
 (ii) developing mechanisms to better communicate priorities and resolve disputes among agencies at the national and regional levels;
 
-(iii) institutionalizing use of the Dashboard, working with the CIO to enhance the Dashboard, and utilizingother cost-effective information technology systems to share environmental and project-related information with the public, project sponsors, and permit reviewers; and
+(iii) institutionalizing use of the Dashboard, working with the CIO to enhance the Dashboard, and utilizing other cost-effective information technology systems to share environmental and project-related information with the public, project sponsors, and permit reviewers; and
 
 (iv) identifying timeframes and Member Agency responsibilities for the implementation of each proposed action.
 
@@ -1674,7 +1668,7 @@ Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (i) the authority granted by law to a department or agency, or the head thereof;
 
-(ii) the coordination and development of international trade policy and negotiations pursuant to section 411 of the Trade Agreements Act of 1979 (19 U.S.C. 2451 \[2541\]) and section 141 of the Trade Act of 1974 (19 U.S.C. 2171);
+(ii) the coordination and development of international trade policy and negotiations pursuant to section 411 of the Trade Agreements Act of 1979 (19 U.S.C.2451 \[2541\]) and section 141 of the Trade Act of 1974 (19 U.S.C. 2171);
 
 (iii) international trade activities undertaken pursuant to section 3 of the Act of February 14, 1903 (15 U.S.C. 1512), subtitle C of the Export Enhancement Act of 1988, as amended (15 U.S.C. 4721 et seq.), and Reorganization Plan No. 3 of 1979 (19 U.S.C. 2171 note);
 
@@ -1726,7 +1720,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13707, Sept. 15, 2015, 80 F.R. 56365, provided:
 
-A growing body of evidence demonstrates that behavioral science insights—research findings from fields such as behavioral economics and psychology about how people make decisions and act on them—can be used to design government policies to better serve the American people.
+A growing body of evidence demonstrates that behavioral science insights—research findings from fieldssuch as behavioral economics and psychology about how people make decisions and act on them—can be used to design government policies to better serve the American people.
 
 Where Federal policies have been designed to reflect behavioral science insights, they have substantially improved outcomes for the individuals, families, communities, and businesses those policies serve. For example, automatic enrollment and automatic escalation in retirement savings plans have made it easier to save for the future, and have helped Americans accumulate billions of dollars in additional retirement savings. Similarly, streamlining the application process for Federal financial aid has made college more financially accessible for millions of students.
 
@@ -1842,7 +1836,7 @@ Sec. 2. <i>Principles</i>. Our effort to modernize the Federal Government's work
 
 Sec. 3. <i>Community Solutions Council</i>.
 
-(a) <i>Establishment</i>. There is hereby established a Council for Community Solutions (Council), led by two Co-Chairs. One Co-Chair will be an Assistant to the President or the Director of the Office of Management and Budget, as designated by the President. The second Co-Chair will be rotated every 4 years and designated by the President from among the heads of the Departments of Justice, Agriculture, Commerce, Labor, Health and Human Services, Housing and Urban Development, Transportation, and Education, and the Environmental Protection Agency (Agency Co-Chair).
+(a) <i>Establishment</i>. There is hereby established a Council for Community Solutions (Council), led by two Co-Chairs. One Co-Chair will be an Assistant to the President or the Director of the Office of Management and Budget, as designated by the President. The second Co-Chair will be rotated every 4 years and designated bythe President from among the heads of the Departments of Justice, Agriculture, Commerce, Labor, Health and Human Services, Housing and Urban Development, Transportation, and Education, and the Environmental Protection Agency (Agency Co-Chair).
 
 (b) <i>Membership</i>. The Council shall consist of the following members:
 
@@ -2067,6 +2061,94 @@ Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (i) the authority granted by law to an executive department or agency, or the head thereof; or
 
 (ii) the functions of the Director relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13828. Reducing Poverty in America by Promoting Opportunity and Economic Mobility
+
+Ex. Ord. No. 13828, Apr. 10, 2018, 83 F.R. 15941, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to promote economic mobility, strong social networks, and accountability to American taxpayers, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. The United States and its Constitution were founded on the principles of freedom and equal opportunity for all. To ensure that all Americans would be able to realize the benefits of those principles, especially during hard times, the Government established programs to help families with basic unmet needs. Unfortunately, many of the programs designed to help families have instead delayed economic independence, perpetuated poverty, and weakened family bonds. While bipartisan welfare reform enacted in 1996 was a step toward eliminating the economic stagnation and social harm that can result from long-term Government dependence, the welfare system still traps many recipients, especially children, in poverty and is in need of further reform and modernization in order to increase self-sufficiency, well-being, and economic mobility.
+
+Sec. 2. <i>Policy</i>. (a) In 2017, the Federal Government spent more than $700 billion on low-income assistance. Since its inception, the welfare system has grown into a large bureaucracy that might be susceptible to measuring success by how many people are enrolled in a program rather than by how many have moved from poverty into financial independence. This is not the type of system that was envisioned when welfare programs were instituted in this country. The Federal Government's role is to clear paths to self-sufficiency, reserving public assistance programs for those who are truly in need. The Federal Government should do everything within its authority to empower individuals by providing opportunities for work, including by investing in Federal programs that are effective at moving people into the workforce and out of poverty. It must examine Federal policies and programs to ensure that they are consistent with principles that are central to the American spirit—work, free enterprise, and safeguarding human and economic resources. For those policies or programs that are not succeeding in those respects, it is our duty to either improve or eliminate them.
+
+(b) It shall be the policy of the Federal Government to reform the welfare system of the United States so that it empowers people in a manner that is consistent with applicable law and the following principles, which shall be known as the Principles of Economic Mobility:
+
+(i) Improve employment outcomes and economic independence (including by strengthening existing work requirements for work-capable people and introducing new work requirements when legally permissible);
+
+(ii) Promote strong social networks as a way of sustainably escaping poverty (including through work and marriage);
+
+(iii) Address the challenges of populations that may particularly struggle to find and maintain employment (including single parents, formerly incarcerated individuals, the homeless, substance abusers, individuals with disabilities, and disconnected youth);
+
+(iv) Balance flexibility and accountability both to ensure that State, local, and tribal governments, and other institutions, may tailor their public assistance programs to the unique needs of their communities and to ensure that welfare services and administering agencies can be held accountable for achieving outcomes (including by designing and tracking measures that assess whether programs help people escape poverty);
+
+(v) Reduce the size of bureaucracy and streamline services to promote the effective use of resources;
+
+(vi) Reserve benefits for people with low incomes and limited assets;
+
+(vii) Reduce wasteful spending by consolidating or eliminating Federal programs that are duplicative or ineffective;
+
+(viii) Create a system by which the Federal Government remains updated on State, local, and tribal successes and failures, and facilitates access to that information so that other States and localities can benefit from it; and
+
+(ix) Empower the private sector, as well as local communities, to develop and apply locally based solutions to poverty.
+
+(c) As part of our pledge to increase opportunities for those in need, the Federal Government must first enforce work requirements that are required by law. It must also strengthen requirements that promote obtaining and maintaining employment in order to move people to independence. To support this focus on employment, the Federal Government should:
+
+(i) review current federally funded workforce development programs. If more than one executive department or agency (agency) administers programs that are similar in scope or population served, they should be consolidated, to the extent permitted by law, into the agency that is best equipped to fulfill the expectations of the programs, while ineffective programs should be eliminated; and
+
+(ii) invest in effective workforce development programs and encourage, to the greatest extent possible, entities that have demonstrated success in equipping participants with skills necessary to obtain employment that enables them to financially support themselves and their families in today's economy.
+
+(d) It is imperative to empower State, local, and tribal governments and private-sector entities to effectively administer and manage public assistance programs. Federal policies should allow local entities to develop and implement programs and strategies that are best for their respective communities. Specifically, policies should allow the private sector, including community and faith-based organizations, to create solutions that alleviate the need for welfare assistance, promote personal responsibility, and reduce reliance on government intervention and resources.
+
+(i) To promote the proper scope and functioning of government, the Federal Government must afford State, local, and tribal governments the freedom to design and implement programs that better allocate limited resources to meet different community needs.
+
+(ii) States and localities can use such flexibility to devise and evaluate innovative programs that serve diverse populations and families. States and localities can also model their own initiatives on the successful programs of others. To achieve the right balance, Federal leaders must continue to discuss opportunities to improve public assistance programs with State and local leaders, including our Nation's governors.
+
+(e) The Federal Government owes it to Americans to use taxpayer dollars for their intended purposes. Relevant agencies should establish clear metrics that measure outcomes so that agencies administering public assistance programs can be held accountable. These metrics should include assessments of whether programs help individuals and families find employment, increase earnings, escape poverty, and avoid long-term dependence. Whenever possible, agencies should harmonize their metrics to facilitate easier cross-programmatic comparisons and to encourage further integration of service delivery at the local level. Agencies should also adopt policies to ensure that only eligible persons receive benefits and enforce all relevant laws providing that aliens who are not otherwise qualified and eligible may not receive benefits.
+
+(i) All entities that receive funds should be required to guarantee the integrity of the programs they administer. Technology and innovation should drive initiatives that increase program integrity and reduce fraud, waste, and abuse in the current system.
+
+(ii) The Federal Government must support State, local, and tribal partners by investing in tools to combat payment errors and verify eligibility for program participants. It must also work alongside public and private partners to assist recipients of welfare assistance to maximize access to services and benefits that support paths to self-sufficiency.
+
+Sec. 3. <i>Review of Regulations and Guidance Documents</i>. (a) The Secretaries of the Treasury, Agriculture, Commerce, Labor, Health and Human Services, Housing and Urban Development, Transportation, and Education (Secretaries) shall:
+
+(i) review all regulations and guidance documents of their respective agencies relating to waivers, exemptions, or exceptions for public assistance program eligibility requirements to determine whether such documents are, to the extent permitted by law, consistent with the principles outlined in this order;
+
+(ii) review any public assistance programs of their respective agencies that do not currently require work for receipt of benefits or services, and determine whether enforcement of a work requirement would be consistent with Federal law and the principles outlined in this order;
+
+(iii) review any public assistance programs of their respective agencies that do currently require work for receipt of benefits or services, and determine whether the enforcement of such work requirements is consistent with Federal law and the principles outlined in this order;
+
+(iv) within 90 days of the date of this order \[Apr. 10, 2018\], and based on the reviews required by this section, submit to the Director of the Office of Management and Budget and the Assistant to the President for Domestic Policy a list of recommended regulatory and policy changes and other actions to accomplish the principles outlined in this order; and
+
+(v) not later than 90 days after submission of the recommendations required by section 3(a)(iv) of this order, and in consultation with the Director of the Office ofManagement and Budget and the Assistant to the President for Domestic Policy, take steps to implement the recommended administrative actions.
+
+(b) Within 90 days of the date of this order, the Secretaries shall each submit a report to the President, through the Director of the Office of Management and Budget and the Assistant to the President for Domestic Policy, that:
+
+(i) states how their respective agencies are complying with 8 U.S.C. 1611(a), which provides that an alien who is not a "qualified alien" as defined by 8 U.S.C. 1641 is, subject to certain statutorily defined exceptions, not eligible for any Federal public benefit as defined by 8 U.S.C. 1611(c);
+
+(ii) provides a list of Federal benefit programs that their respective agencies administer that are restricted pursuant to 8 U.S.C. 1611; and
+
+(iii) provides a list of Federal benefit programs that their respective agencies administer that are not restricted pursuant to 8 U.S.C. 1611.
+
+Sec. 4. <i>Definitions</i>. For the purposes of this order:
+
+(a) the terms "individuals," "families," and "persons" mean any United States citizen, lawful permanent resident, or other lawfully present alien who is qualified to or otherwise may receive public benefits;
+
+(b) the terms "work" and "workforce" include unsubsidized employment, subsidized employment, job training, apprenticeships, career and technical education training, job searches, basic education, education directly related to current or future employment, and workfare; and
+
+(c) the terms "welfare" and "public assistance" include any program that provides means-tested assistance, or other assistance that provides benefits to people, households, or families that have low incomes (i.e., those making less than twice the Federal poverty level), the unemployed, or those out of the labor force.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
@@ -2310,7 +2392,7 @@ This modernization shall build upon and incorporate reforms identified by agenci
 
 (b) Through an interagency process, coordinated by the CPO and working closely with CEQ and OIRA, the Steering Committee shall conduct the following modernization efforts:
 
-(i) Within 60 days of the date of this memorandum, the Steering Committee shall identify and prioritize opportunities to modernize key regulations, policies, and procedures—both agency-specific and those involving multiple agencies—to reduce the aggregate project review and permitting time, while improving environmental and community outcomes.
+(i) Within 60 days of the date of this memorandum, the Steering Committee shall identify and prioritize opportunities to modernize key regulations, policies, and procedures—both agency-specific and those involving multiple agencies—to reduce the aggregate projectreview and permitting time, while improving environmental and community outcomes.
 
 (ii) Within 120 days of the date of this memorandum, the Steering Committee shall prepare a plan for a comprehensive modernization of Federal review and permitting for infrastructure projects based on the analysis required by subsection (b)(i) of this section that outlines specific steps for re-engineering both the intra- and inter-agency review and approval processes based on experience implementing Executive Order 13604. The plan shall identify proposed actions and associated timelines to:
 
@@ -2394,7 +2476,7 @@ The Federal Government can meaningfully expand opportunities for public-private 
 
 Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
 
-Section 1. <i>Policy</i>. It shall be the policy of the Federal Government for all executive departments and agencies (agencies) that provide grants, technical assistance, and other forms of support for nonfederal domestic infrastructure assets, or regulate the development of these infrastructure assets, to actively support nonfederal predevelopment activities with all available tools, including grants, technical assistance, and regulatory changes, to the extent permitted by law and consistent with agency mission. Agencies shall seek to make predevelopment funding and support available, as permitted by law and consistent with agency mission and where it is in the public interest and does not supplant existing public investment, to encourage opportunities for private sector investment. Agencies shallpay particular attention to predevelopment activities in sectors where State, local, and tribal governments have traditionally played a significant role, such as surface transportation, drinking water, sewage and storm water management systems, landside ports, and social infrastructure like schools and community facilities.
+Section 1. <i>Policy</i>. It shall be the policy of the Federal Government for all executive departments and agencies (agencies) that provide grants, technical assistance, and other forms of support for nonfederal domestic infrastructure assets, or regulate the development of these infrastructure assets, to actively support nonfederal predevelopment activities with all available tools, including grants, technical assistance, and regulatory changes, to the extent permitted by law and consistent with agency mission. Agencies shall seek to make predevelopment funding and support available, as permitted by law and consistent with agency mission and where it is in the public interest and does not supplant existing public investment, to encourage opportunities for private sector investment. Agencies shall pay particular attention to predevelopment activities in sectors where State, local, and tribal governments have traditionally played a significant role, such as surface transportation, drinking water, sewage and storm water management systems, landside ports, and social infrastructure like schools and community facilities.
 
 Sec. 2. <i>Definitions</i>. For the purposes of this memorandum:
 

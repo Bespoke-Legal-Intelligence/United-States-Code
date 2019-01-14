@@ -18,7 +18,7 @@ Amount.—The Administrator shall reimburse a Government corporation, or a fund 
 
 (b)
 
-Addition to Acquisition Services Fund.—If the Administrator takes over motor vehicles or related equipment or supplies under section 602 of this title but reimbursement is not required under subsection (a), the value of the property taken over, as determined by the Administrator, may be added to the capital of the Acquisition Services Fund. If the Administrator subsequently returns property of a similar kind under section 610 of this title, the value of the property may be deducted from the Fund.
+Addition to Acquisition Services Fund.—If the Administrator takes over motor vehicles or related equipment or supplies under section602 of this title but reimbursement is not required under subsection (a), the value of the property taken over, as determined by the Administrator, may be added to the capital of the Acquisition Services Fund. If the Administrator subsequently returns property of a similar kind under section 610 of this title, the value of the property may be deducted from the Fund.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1122; Pub. L. 109–313, §3(h)(5), Oct. 6, 2006, 120 Stat. 1736.)
 

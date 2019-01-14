@@ -74,7 +74,7 @@ No tax shall be imposed by section 4051 on any of the following articles:
 
 &emsp;Any insulation that has an R value of not less than R35 per inch.
 
-(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2176; amended Pub. L. 98–369, div. A, title VII, §735(b)(1), July 18, 1984, 98 Stat. 981; Pub. L. 108–357, title VIII, §851(a)(1), Oct. 22, 2004,118 Stat. 1607; Pub. L. 110–343, div. B, title II, §206(a), Oct. 3, 2008, 122 Stat. 3839.)
+(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2176; amended Pub. L. 98–369, div. A, title VII, §735(b)(1), July 18, 1984, 98 Stat. 981; Pub. L. 108–357, title VIII, §851(a)(1), Oct. 22, 2004, 118 Stat. 1607; Pub. L. 110–343, div. B, title II, §206(a), Oct. 3, 2008, 122 Stat. 3839.)
 
 #### Prior Provisions
 

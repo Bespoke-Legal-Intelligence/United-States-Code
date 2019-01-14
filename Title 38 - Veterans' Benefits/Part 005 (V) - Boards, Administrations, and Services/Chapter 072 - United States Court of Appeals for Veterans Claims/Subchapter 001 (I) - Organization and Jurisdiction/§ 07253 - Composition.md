@@ -6,7 +6,7 @@ Composition.—The Court of Appeals for Veterans Claims is composed of at least 
 
 (b)
 
-Appointment.—The judges of the Court shall be appointed by the President, by and with the advice and consent of the Senate, solely on the grounds of fitness to perform the duties of the office. A person may not be appointed to the Court who is not a member in good standing of the bar of a Federal court or of the highest court of a State. Not more than the number equal to the next whole number greater than one-half of the number of judges of the Court may be members of the same political party.
+Appointment.—The judges of the Court shall be appointed by the President, by and with the advice and consent of the Senate, solely on the grounds of fitness to perform the duties of the office. A person may not be appointed to the Court who is not a member in good standing of the bar of a Federal court or of the highest court of a State. Not more than the number equal tothe next whole number greater than one-half of the number of judges of the Court may be members of the same political party.
 
 (c)
 
@@ -72,7 +72,7 @@ Temporary Expansion of Court.—(1) During the period from January 1, 2002, thro
 
 (B) If a judge is not appointed under this subsection pursuant to a nomination made in 2002, a judge may be appointed under this subsection pursuant to a nomination made in 2004. If a judge is not appointed under this subsection pursuant to a nomination made in 2003, a judge may be appointed under this subsection pursuant to a nomination made in 2004. In either case, such an appointment may be made only pursuant to a nomination made before October 1, 2004.
 
-(3) The term of office and the eligibility for retirement of a judge appointed under this subsection, other than a judge described in paragraph (4), are governed by the provisions of section 1012 of the Court of Appeals for Veterans Claims Amendments of 1999 (title X of Public Law 106–117; 113 Stat. 1590; 38 U.S.C. 7296 note) if the judge is one of the first two judges appointed to the Court after November 30, 1999.
+(3) The term of office and the eligibility for retirement of a judge appointed under this subsection, other than a judge described in paragraph (4), are governed by the provisions of section 1012 of the Court of Appeals for Veterans Claims Amendments of 1999 (title X of PublicLaw 106–117; 113 Stat. 1590; 38 U.S.C. 7296 note) if the judge is one of the first two judges appointed to the Court after November 30, 1999.
 
 (4) A judge of the Court as of December 27, 2001, who was appointed to the Court before January 1, 1991, may accept appointment as a judge of the Court under this subsection notwithstanding that the term of office of the judge on the Court has not yet expired under this section. The term of office of an incumbent judge who receives an appointment as described in the preceding sentence shall be 15 years, which includes any period remaining in the unexpired term of the judge. Any service following an appointment under this subsection shall be treated as though served as part of the original term of office of that judge on the Court.
 
@@ -120,7 +120,7 @@ Subsec. (g)(3)(B). Pub. L. 107–273, §11043(f)(3), substituted "361" for "372(
 
 Subsec. (h). Pub. L. 107–103, §601(a), added subsec. (h).
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–117, §1031, inserted heading and amended text of subsec. (a) generally. Prior toamendment, text read as follows: "The Court of Appeals for Veterans Claims shall be composed of a chief judge and at least two and not more than six associate judges."
+<b>1999</b>—Subsec. (a). Pub. L. 106–117, §1031, inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "The Court of Appeals for Veterans Claims shall be composed of a chief judge and at least two and not more than six associate judges."
 
 Subsec. (d). Pub. L. 106–117, §1032(a), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: "The chief judge is the head of the Court".
 

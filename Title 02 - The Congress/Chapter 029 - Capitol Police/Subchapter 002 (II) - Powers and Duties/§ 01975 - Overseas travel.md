@@ -16,11 +16,11 @@ A member of the Capitol Police may travel outside of the United States if—
 
 #### (c) Law enforcement functions
 
-Subsection (b) shall not be construed to authorize the performance of law enforcementfunctions by a member of the Capitol Police in connection with the travel authorized under that subsection.
+Subsection (b) shall not be construed to authorize the performance of law enforcement functions by a member of the Capitol Police in connection with the travel authorized under that subsection.
 
 #### (d) Reimbursement
 
-The Capitol Police shall be reimbursed for the overtime pay, travel, and related expenses of any member of the Capitol Police who travels under the authority of this section. Any reimbursement under this subsection shall be paid from the account under the heading "
+The Capitol Police shall be reimbursed for the overtime pay, travel, and related expenses ofany member of the Capitol Police who travels under the authority of this section. Any reimbursement under this subsection shall be paid from the account under the heading "
 
 sergeant at arms and doorkeeper of the senate" under the heading "
 

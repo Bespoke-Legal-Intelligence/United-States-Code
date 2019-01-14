@@ -34,7 +34,7 @@ The President shall impose the sanctions described in subsection (b) with respec
 
 #### (B) Good defined
 
-&emsp;&emsp;In this paragraph, the term "good" has the meaning given that term in section 4618 of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
+&emsp;&emsp;In this paragraph, the term "good" has the meaning given that term in section 4618 <sup>1</sup> of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
 #### (4) Exception to comply with United Nations headquarters agreement
 
@@ -42,11 +42,11 @@ The President shall impose the sanctions described in subsection (b) with respec
 
 #### (c) Waiver
 
-except <sup>1</sup> as provided in subsection (d), the President may waive the application of sanctions under subsection (b) with respect to a person if the President—
+except <sup>2</sup> as provided in subsection (d), the President may waive the application of sanctions under subsection (b) with respect to a person if the President—
 
 &emsp;(1) determines that such a waiver is in the national security interests of the United States; and
 
-&emsp;(2) on or before the date on which the waiver takes effect, submits to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives a notice of and a justification for the waiver.
+&emsp;(2) on or before the date on which the waiver takes effect, submits to the Committee on Foreign Relations and the Committee onBanking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives a notice of and a justification for the waiver.
 
 #### (d) Termination
 
@@ -56,7 +56,7 @@ Subject to section 9511 of this title, the President may terminate the applicati
 
 &emsp;(2) the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under subsection (a) in the future.
 
-#### (e) <sup>2</sup> Application of new sanctions
+#### (e) <sup>3</sup> Application of new sanctions
 
 The President may waive the initial application of sanctions under subsection (b) with respect to a person only if the President submits to the appropriate congressional committees—
 
@@ -68,7 +68,7 @@ The President may waive the initial application of sanctions under subsection (b
 
 &emsp;(2) a certification that the Government of the Russian Federation is taking steps to implement the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed in Minsk, Belarus, on February 11, 2015, by the leaders of Ukraine, Russia, France, and Germany, the Minsk Protocol, which was agreed to on September 5, 2014, and any successor agreements that are agreed to by the Government of Ukraine.
 
-#### (e) <sup>2</sup> Regulatory authority
+#### (e) <sup>3</sup> Regulatory authority
 
 The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
 
@@ -77,6 +77,8 @@ The President shall issue such regulations, licenses, and orders as are necessar
 #### References in Text
 
 The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A), (3)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
+Section 4618 of title 50, referred to in subsec. (b)(3)(B), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Codification
 
@@ -94,7 +96,9 @@ Subsecs. (d), (e). Pub. L. 115–44, §230(b), added subsec. (d) and redesignate
 
 Pub. L. 115–44, §227(2), (4), added subsec. (d) and redesignated former subsec. (d), relating to regulatory authority, as (e). See Codification note above.
 
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>3</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
 

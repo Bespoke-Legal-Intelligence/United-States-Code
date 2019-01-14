@@ -38,7 +38,7 @@
 
 #### (2) Amount of payments
 
-&emsp;Payments under paragraph (1) with respect to an eligible individual described in suchparagraph shall be made as if such individual were an eligible individual to whom compensation would be paid under subsection (a) of section 239d of this title, with the rate augmented in accordance with subsection (b)(2) of such section and with such individual considered to be an eligible individual described in subsection (c)(3)(B) of such section.
+&emsp;Payments under paragraph (1) with respect to an eligible individual described in such paragraph shall be made as if such individual were an eligible individual to whom compensation would be paid under subsection (a) of section 239d of this title, with the rate augmented in accordance with subsection (b)(2) of such section and with such individual considered to be an eligible individual described in subsection (c)(3)(B) of such section.
 
 #### (3) Limitations
 

@@ -42,5 +42,5 @@ Pub. L. 98–573, title II, §238, Oct. 30, 1984, 98 Stat. 2993, directed Commis
 
 #### Pembina, North Dakota, Customs District; Change in Boundaries Prohibited Without Congressional Consent
 
-Pub. L. 93–245, ch. X, §1000, Jan. 3, 1974, 87 Stat. 1083, prohibited use of funds to change boundaries of Pembina, North Dakota Customs District (Region IX), without consent of certain Congressional committees.
+Pub. L. 93–245, ch. X, §1000, Jan. 3, 1974, 87 Stat. 1083, prohibited use of funds to change boundaries ofPembina, North Dakota Customs District (Region IX), without consent of certain Congressional committees.
 

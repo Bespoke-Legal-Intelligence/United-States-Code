@@ -26,7 +26,7 @@ The Director of the National Nanotechnology Coordination Office shall enter into
 
 &emsp;(11) a review of the performance of the National Nanotechnology Coordination Office and its efforts to promote access to and early application of the technologies, innovations, and expertise derived from Program activities to agency missions and systems across the Federal Government and to United States industry;
 
-&emsp;(12) an analysis of the relative position of the United States compared to other nationswith respect to nanotechnology research and development, including the identification of any critical research areas where the United States should be the world leader to best achieve the goals of the Program; and
+&emsp;(12) an analysis of the relative position of the United States compared to other nations with respect to nanotechnology research and development, including the identification of any critical research areas where the United States should be the world leader to best achieve the goals of the Program; and
 
 &emsp;(13) an analysis of the current impact of nanotechnology on the United States economy and recommendations for increasing its future impact.
 

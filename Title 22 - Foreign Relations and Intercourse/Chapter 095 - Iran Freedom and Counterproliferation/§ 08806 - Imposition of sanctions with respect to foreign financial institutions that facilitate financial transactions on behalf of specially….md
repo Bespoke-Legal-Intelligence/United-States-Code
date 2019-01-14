@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in this section, the President shall prohibit the opening, and prohibit or impose strict conditions on the maintaining, in the United States of a correspondent account ora payable-through account by a foreign financial institution that the President determines has, on or after the date that is 180 days after January 2, 2013, knowingly facilitated a significant financial transaction on behalf of any Iranian person included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury (other than an Iranian financial institution described in subsection (b)).
+Except as provided in this section, the President shall prohibit the opening, and prohibit or impose strict conditions on the maintaining, in the United States of a correspondent account or a payable-through account by a foreign financial institution that the President determines has, on or after the date that is 180 days after January 2, 2013, knowingly facilitated a significant financial transaction on behalf of any Iranian person included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury (other than an Iranian financial institution described in subsection (b)).
 
 #### (b) Iranian financial institutions described
 
@@ -16,7 +16,7 @@ An Iranian financial institution described in this subsection is an Iranian fina
 
 #### (c) Humanitarian exception
 
-The President may not impose sanctions under subsection (a) with respect to any person for conducting or facilitating a transaction for the sale of agricultural commodities, food, medicine, or medical devices to Iran or for the provision of humanitarian assistance to the people of Iran.
+The President may not impose sanctions under subsection (a) with respect to any person forconducting or facilitating a transaction for the sale of agricultural commodities, food, medicine, or medical devices to Iran or for the provision of humanitarian assistance to the people of Iran.
 
 #### (d) Applicability of sanctions to petroleum and petroleum products
 

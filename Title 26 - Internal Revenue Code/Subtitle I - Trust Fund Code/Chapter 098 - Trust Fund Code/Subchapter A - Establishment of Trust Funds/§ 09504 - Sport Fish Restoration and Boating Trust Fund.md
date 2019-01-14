@@ -8,7 +8,7 @@ There is hereby established in the Treasury of the United States a trust fund to
 
 #### (1) Transfer of certain taxes to Trust Fund
 
-&emsp;There is hereby appropriated to the Sport Fish Restoration and Boating Trust Fund amounts equivalent to the following amounts received in the Treasury on or after October 1, 1984—
+&emsp;There is hereby appropriated to the Sport Fish Restoration and Boating Trust Fundamounts equivalent to the following amounts received in the Treasury on or after October 1, 1984—
 
 &emsp;&emsp;(A) the taxes imposed by section 4161(a) (relating to sport fishing equipment), and
 
@@ -24,7 +24,7 @@ There is hereby established in the Treasury of the United States a trust fund to
 
 &emsp;&emsp;(C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the FAST Act).
 
-> &emsp;Amounts transferred to such account under section 9503(c)(4) may be used only for makingexpenditures described in subparagraph (C) of this paragraph.
+> &emsp;Amounts transferred to such account under section 9503(c)(4) may be used only for making expenditures described in subparagraph (C) of this paragraph.
 
 #### (c) Expenditures from Boat Safety Account
 
@@ -54,7 +54,7 @@ Amounts remaining in the Boat Safety Account on October 1, 2005, and amounts the
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
-The Dingell-Johnson Sport Fish Restoration Act, referred to in subsec. (b)(2)(A), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 777 of Title 16 and Tables.
+The Dingell-Johnson Sport Fish Restoration Act, referred to in subsec. (b)(2)(A), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally tochapter 10B (§777 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 777 of Title 16 and Tables.
 
 The date of the enactment of the FAST Act, referred to in subsec. (b)(2)(A) to (C), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
@@ -278,7 +278,7 @@ Subsec. (c). Pub. L. 102–240, §8002(d)(2)(C), substituted "1998" for "1994".
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–508, §11211(i)(2), inserted reference to section 9503(c)(5) in last sentence.
 
-Subsec. (b)(2). Pub. L. 101–508, §11211(i)(3), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: "Amounts in the Sport Fish Restoration Account shall be available, as provided by appropriation Acts, to carry out the purposes of the Act entitled 'An Act to provide that the United States shall aid the States in fish restoration and management projects, and for other purposes', approved August 9, 1950 (as in effect on October 1, 1988)."
+Subsec. (b)(2). Pub. L. 101–508, §11211(i)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Amounts in the Sport Fish Restoration Account shall be available, as provided by appropriation Acts, to carry out the purposes of the Act entitled 'An Act to provide that the United States shall aid the States in fish restoration and management projects, and for other purposes', approved August 9, 1950 (as in effect on October 1, 1988)."
 
 <b>1988</b>—Subsec. (b)(1)(B). Pub. L. 100–418 substituted "heading 9507 of the Harmonized Tariff Schedule of the United States" for "subpart B of part 5 of schedule 7 of the Tariff Schedules of the United States" and "chapter 89 of the Harmonized Tariff Schedule of the United States" for "subpart D of part 6 of schedule 6 of such Schedules".
 
@@ -348,7 +348,7 @@ In general.—The amendments made by this section \[enacting this section, amend
 
 "(2)
 
-Boat safety account treated as continuation of national recreational boating safety and facilities improvement fund.—The Boat Safety Account in the Aquatic Resources Trust Fund established by the amendments made by this section shall be treated for all purposes of law as the continuation of the National Recreational Boating Safety and Facilities Improvement Fund established by \[former\] section 13107 of title 46, United States Code. Any reference in any law to the National Recreational Boating Safety and Facilities Improvement Fund established by such section shall be deemed to include (wherever appropriate) a reference to such Boat Safety Account."
+Boat safety account treated as continuation of national recreational boating safety and facilities improvement fund.—The Boat Safety Account inthe Aquatic Resources Trust Fund established by the amendments made by this section shall be treated for all purposes of law as the continuation of the National Recreational Boating Safety and Facilities Improvement Fund established by \[former\] section 13107 of title 46, United States Code. Any reference in any law to the National Recreational Boating Safety and Facilities Improvement Fund established by such section shall be deemed to include (wherever appropriate) a reference to such Boat Safety Account."
 
 #### Construction of 2006 Amendment
 

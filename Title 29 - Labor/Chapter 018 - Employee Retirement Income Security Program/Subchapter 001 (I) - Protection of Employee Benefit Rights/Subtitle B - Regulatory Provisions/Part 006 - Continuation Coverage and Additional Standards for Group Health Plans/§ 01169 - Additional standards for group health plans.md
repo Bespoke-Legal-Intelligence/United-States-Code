@@ -128,7 +128,7 @@
 
 #### (1) Coverage effective upon placement for adoption
 
-&emsp;In any case in which a group health plan provides coverage for dependent children of participants or beneficiaries, such plan shall provide benefits to dependent children placed with participants or beneficiaries for adoption under the same terms and conditions as apply in the case of dependent children who are natural children of participants or beneficiaries under the plan, irrespective of whether the adoption has become final.
+&emsp;In any case in which a group health plan provides coverage for dependent children of participants or beneficiaries, such plan shall provide benefits to dependent children placed with participants or beneficiaries for adoption under the same terms and conditions as applyin the case of dependent children who are natural children of participants or beneficiaries under the plan, irrespective of whether the adoption has become final.
 
 #### (2) Restrictions based on preexisting conditions at time of placement for adoption prohibited
 
@@ -308,7 +308,7 @@ Medical child support order.—The term 'medical child support order' means any 
 
 &emsp;&emsp;&emsp;"(ii) is made pursuant to a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 \[13623\] of the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66\]) with respect to a church group health plan,
 
-&nbsp;&nbsp;if such judgment, decree, or order: (I) is issued by a court of competent jurisdiction; or (II) is issued through an administrative process established under State law and has the force and effect of law under applicable State law. For purposes of this paragraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and which has the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.
+&nbsp;&nbsp;if such judgment, decree, or order: (I) is issued by a court of competent jurisdiction; or (II) is issuedthrough an administrative process established under State law and has the force and effect of law under applicable State law. For purposes of this paragraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and which has the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.
 
 &emsp;&emsp;"(D)
 
@@ -368,7 +368,7 @@ National medical support notice deemed to be a qualified medical child support o
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—If the plan administrator of any church group health plan which is maintained by the employer of a parent of a child or to which such an employer contributes receives an appropriately completed National Medical Support Notice promulgated pursuant to subsection (b) of this section \[section 401(b) of Pub. L. 105–200, 42 U.S.C. 651 note\] in the case of suchchild, and the Notice meets the requirements of paragraphs (3) and (4) of this subsection, the Notice shall be deemed to be a qualified medical child support order in the case of such child.
+In general.—If the plan administrator of any church group health plan which is maintained by the employer of a parent of a child or to which such an employer contributes receives an appropriately completed National Medical Support Notice promulgated pursuant to subsection (b) of this section \[section 401(b) of Pub. L. 105–200, 42 U.S.C. 651 note\] in the case of such child, and the Notice meets the requirements of paragraphs (3) and (4) of this subsection, the Notice shall be deemed to be a qualified medical child support order in the case of such child.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -396,7 +396,7 @@ Effective date.—The provisions of this subsection shall take effect on the dat
 
 "(g)
 
-Report and Recommendations Regarding the Enforcement of Qualified Medical Child Support Orders.—Not later than 8 months after the issuance of the report to the Congress pursuant to subsection (a)(5) \[section 401(a)(5) of Pub. L. 105–200, 42 U.S.C. 651 note\], the Secretary of Health and Human Services and the Secretary of Labor shall jointly submit to each House of the Congress a report containing recommendations for appropriate legislation to improve the effectiveness of, and enforcement of, qualified medical child support orders under the provisions of subsection (f) of this section and section 609(a) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1169(a))."
+Report and Recommendations Regarding the Enforcement of Qualified Medical Child SupportOrders.—Not later than 8 months after the issuance of the report to the Congress pursuant to subsection (a)(5) \[section 401(a)(5) of Pub. L. 105–200, 42 U.S.C. 651 note\], the Secretary of Health and Human Services and the Secretary of Labor shall jointly submit to each House of the Congress a report containing recommendations for appropriate legislation to improve the effectiveness of, and enforcement of, qualified medical child support orders under the provisions of subsection (f) of this section and section 609(a) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1169(a))."
 
 #### Plan Amendments Not Required Until January 1, 1994
 

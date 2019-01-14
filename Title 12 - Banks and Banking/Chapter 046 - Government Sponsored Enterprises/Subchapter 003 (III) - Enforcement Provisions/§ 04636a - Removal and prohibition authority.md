@@ -42,7 +42,7 @@
 
 #### (1) Suspension or prohibition authority
 
-&emsp;If the Director serves written notice under subsection (a) upon a party subject to thatsubsection (a), the Director may, by order, suspend or remove such party from office, or prohibit such party from further participation in any manner in the conduct of the affairs of the regulated entity, if the Director—
+&emsp;If the Director serves written notice under subsection (a) upon a party subject to that subsection (a), the Director may, by order, suspend or remove such party from office, or prohibit such party from further participation in any manner in the conduct of the affairs of the regulated entity, if the Director—
 
 &emsp;&emsp;(A) determines that such action is necessary for the protection of the regulated entity; and
 
@@ -114,7 +114,7 @@ Any person subject to an order issued under this section shall not—
 
 #### (2) Exception if Director provides written consent
 
-&emsp;If, on or after the date on which an order is issued under this section which removes or suspends from office any party, or prohibits such party from participating in the conduct of the affairs of a regulated entity or the Office of Finance, such party receives the written consent of the Director, the order shall, to the extent of such consent, cease to apply to such party with respect to the regulated entity or such Office of Finance described in the written consent. Any such consent shall be publicly disclosed.
+&emsp;If, on or after the date on which an order is issued under this section which removes or suspends from office any party, or prohibits such party from participating in the conduct of the affairs of a regulated entity or the Office of Finance, such party receives the written consent of the Director, the order shall, to the extent of such consent, cease to apply to such party with respect to the regulated entity or such Office of Finance described in thewritten consent. Any such consent shall be publicly disclosed.
 
 #### (3) Violation of paragraph (1) treated as violation of order
 
@@ -126,7 +126,7 @@ This section shall only apply to a person who is an individual, unless the Direc
 
 #### (g) Stay of suspension and prohibition of entity-affiliated party
 
-Not later than 10 days after the date on which any entity-affiliated party has been suspendedfrom office or prohibited from participation in the conduct of the affairs of a regulated entity under this section, such party may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district in which the headquarters of the regulated entity is located, for a stay of such suspension or prohibition pending the completion of the administrative proceedings pursuant to subsection (c). The court shall have jurisdiction to stay such suspension or prohibition.
+Not later than 10 days after the date on which any entity-affiliated party has been suspended from office or prohibited from participation in the conduct of the affairs of a regulated entity under this section, such party may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district in which the headquarters of the regulated entity is located, for a stay of such suspension or prohibition pending the completion of the administrative proceedings pursuant to subsection (c). The court shall have jurisdiction to stay such suspension or prohibition.
 
 #### (h) Suspension or removal of entity-affiliated party charged with felony
 

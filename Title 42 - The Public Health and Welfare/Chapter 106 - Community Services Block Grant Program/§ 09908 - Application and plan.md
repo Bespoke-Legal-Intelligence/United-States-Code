@@ -22,7 +22,7 @@
 
 #### (b) State application and plan
 
-Beginning with fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan covering a period of not less than 1 fiscal year and not more than 2 fiscal years. The plan shall be submitted not later than 30 days prior to the beginning of the first fiscal year covered by the plan, and shall contain such information as the Secretary shall require, including—
+Beginning with fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan covering a period of not less than 1 fiscal year and not more than 2 fiscal years. The plan shall be submitted not later than 30 daysprior to the beginning of the first fiscal year covered by the plan, and shall contain such information as the Secretary shall require, including—
 
 &emsp;(1) an assurance that funds made available through the grant or allotment will be used—
 
@@ -70,7 +70,7 @@ Beginning with fiscal year 2000, to be eligible to receive a grant or allotment 
 
 &emsp;(5) an assurance that the State and the eligible entities in the State will coordinate, and establish linkages between, governmental and other social services programs to assure the effective delivery of such services to low-income individuals and to avoid duplication of such services, and a description of how the State and the eligible entities will coordinate the provision of employment and training activities, as defined in section 3 of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3102\], in the State and in communities with entities providing activities through statewide and local workforce development systems under such Act;
 
-&emsp;(6) an assurance that the State will ensure coordination between antipoverty programs in each community in the State, and ensure, where appropriate, that emergency energy crisis intervention programs under title XXVI \[42 U.S.C. 8621 et seq.\] (relating to low-income home energy assistance) are conducted in such community;
+&emsp;(6) an assurance that the State will ensure coordination between antipoverty programs in each community in the State, and ensure, where appropriate, that emergency energy crisis intervention programs under title XXVI \[42 U.S.C. 8621 et seq.\] (relating to low-incomehome energy assistance) are conducted in such community;
 
 &emsp;(7) an assurance that the State will permit and cooperate with Federal investigations undertaken in accordance with section 9916 of this title;
 
@@ -126,7 +126,7 @@ For fiscal year 2000, to be eligible to receive a grant or allotment under secti
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(5), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 

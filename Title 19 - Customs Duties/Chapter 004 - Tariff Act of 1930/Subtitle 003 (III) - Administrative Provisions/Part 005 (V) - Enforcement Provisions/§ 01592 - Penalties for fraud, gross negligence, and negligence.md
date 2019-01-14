@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(A) if the violation resulted from fraud—
 
-&emsp;&emsp;&emsp;(i) an amount equal to 100 percent of the lawful duties, taxes, and fees of which the United States is or may be deprived, so long as such person tenders the unpaid amount of the lawful duties, taxes, and fees at the time of disclosure, or within 30 days (or such longer period as the CustomsService may provide) after notice by the Customs Service of its calculation of such unpaid amount, or
+&emsp;&emsp;&emsp;(i) an amount equal to 100 percent of the lawful duties, taxes, and fees of which the United States is or may be deprived, so long as such person tenders the unpaid amount of the lawful duties, taxes, and fees at the time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its calculation of such unpaid amount, or
 
 &emsp;&emsp;&emsp;(ii) if such violation did not affect the assessment of duties, 10 percent of the dutiable value; or
 
@@ -134,7 +134,7 @@
 
 #### (11) Prior disclosure regarding claims under the United States–Korea Free Trade Agreement
 
-&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States–Korea Free Trade Agreement Implementation Act if the importer, in accordancewith regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing with respect to that good.
+&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrectclaim that a good qualifies as an originating good under section 202 of the United States–Korea Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing with respect to that good.
 
 #### (12) Prior disclosure regarding claims under the United States–Colombia Trade Promotion Agreement
 
@@ -190,7 +190,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a Chile FTA Certificate of Origin (as defined in section 1508(f)(1)(B) of this title <sup>1</sup> that a good exported from the United States qualifies as an originating good under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act. The procedures and penalties of this section thatapply to a violation of subsection (a) also apply to a violation of this subsection.
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a Chile FTA Certificate of Origin (as defined in section 1508(f)(1)(B) of this title <sup>1</sup> that a good exported from the United States qualifies as an originating good under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
 #### (2) Immediate and voluntary disclosure of incorrect information
 
@@ -254,7 +254,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;A person shall not be considered to have violated paragraph (1) if—
 
-&emsp;&emsp;(A) the information was correct at the time it was provided in a KFTA certification of origin but was later rendered incorrect due to a change in circumstances; and
+&emsp;&emsp;(A) the information was correct at the time it was provided in a KFTA certificationof origin but was later rendered incorrect due to a change in circumstances; and
 
 &emsp;&emsp;(B) the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.
 
@@ -322,7 +322,7 @@ Section 202 of the United States-Singapore Free Trade Agreement Implementation A
 
 Section 203 of the United States-Australia Free Trade Agreement Implementation Act, referred to in subsec. (c)(8)(A), is section 203 of Pub. L. 108–286, which is set out in a note under section 3805 of this title.
 
-Section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, referred to in subsecs. (c)(10) and (i)(1), is section 203 of Pub. L.110–138, which is set out in a note under section 3805 of this title.
+Section 203 of the United States-Peru Trade Promotion Agreement Implementation Act, referred to in subsecs. (c)(10) and (i)(1), is section 203 of Pub. L. 110–138, which is set out in a note under section 3805 of this title.
 
 Section 202 of the United States–Korea Free Trade Agreement Implementation Act, referred to in subsecs. (c)(11) and (j)(1), is section 202 of Pub. L. 112–41, which is set out in a note under section 3805 of this title.
 

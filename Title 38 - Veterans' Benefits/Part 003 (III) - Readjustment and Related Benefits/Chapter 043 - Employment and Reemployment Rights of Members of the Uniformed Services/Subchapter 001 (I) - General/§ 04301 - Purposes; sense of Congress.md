@@ -4,7 +4,7 @@
 
 &emsp;(1) to encourage noncareer service in the uniformed services by eliminating or minimizing the disadvantages to civilian careers and employment which can result from such service;
 
-&emsp;(2) to minimize the disruption to the lives of persons performing service in the uniformed services as well as to their employers, their fellow employees, and their communities, by providing for the prompt reemployment ofsuch persons upon their completion of such service; and
+&emsp;(2) to minimize the disruption to the lives of persons performing service in the uniformed services as well as to their employers, their fellow employees, and their communities, by providing for the prompt reemployment of such persons upon their completion of such service; and
 
 &emsp;(3) to prohibit discrimination against persons because of their service in the uniformed services.
 
@@ -64,7 +64,7 @@ Insurance.—(1) The provisions of section 4316 of title 38, United States Code,
 
 Disability.—(1) Section 4313(a)(3) of chapter 43 of title 38, United States Code, as provided in the amendments made by this Act, shall apply to reemployments initiated on or after August 1, 1990.
 
-"(2) Effective as of August 1, 1990, section 4307 of title 38, United States Code (as in effect on the date of enactment of this Act \[Oct. 13, 1994\]), is repealed, and the table of sections at the beginning of chapter 43 of such title (as in effect on the date of enactment of this Act) is amended by striking out the item relating to section 4307.
+"(2) Effective as of August 1, 1990, section 4307 of title 38, United States Code (as in effect on the date of enactment of this Act \[Oct. 13, 1994\]), is repealed, and thetable of sections at the beginning of chapter 43 of such title (as in effect on the date of enactment of this Act) is amended by striking out the item relating to section 4307.
 
 "(e)
 
@@ -76,7 +76,7 @@ Previous Actions.—Except as otherwise provided, the amendments made by this Ac
 
 "(g)
 
-Rights and Benefits Relative to Notice of Intent Not To Return.—Section 4316(b)(2) of title 38, United States Code, as added by the amendments madeby this Act, applies only to the rights and benefits provided in section 4316(b)(1)(B) and does not apply to any other right or benefit of a person under chapter 43 of title 38, United States Code. Such section shall apply only to persons who leave a position of employment for service in the uniformed services more than 60 days after the date of enactment of this Act \[Oct. 13, 1994\].
+Rights and Benefits Relative to Notice of Intent Not To Return.—Section 4316(b)(2) of title 38, United States Code, as added by the amendments made by this Act, applies only to the rights and benefits provided in section 4316(b)(1)(B) and does not apply to any other right or benefit of a person under chapter 43 of title 38, United States Code. Such section shall apply only to persons who leave a position of employment for service in the uniformed services more than 60 days after the date of enactment of this Act \[Oct. 13, 1994\].
 
 "(h)
 
@@ -238,7 +238,7 @@ Section 1. <i>USERRA Employment Protection Working Group</i>. There is establish
 
 (d) Within 90 days of the date of this memorandum, the Working Group shall report to the President on Government-wide progress in implementing this memorandum.
 
-Sec. 2. <i>Federal USERRA Guidance</i>. (a) Within 180 days of the date of this memorandum, the Director of the Office of Personnel Management, in consultation with the Council on Veterans Employment established by Executive Order 13518 and offices and agencies participating in the Working Group, as appropriate, shall issue guidance to agencies on Federal USERRA employment protection, which shall describe specific steps agencies can take to improve USERRA employment and reemployment protection policies and practices, including:
+Sec. 2. <i>Federal USERRA Guidance</i>. (a) Within 180 days of the date of this memorandum, the Director of the Office of Personnel Management, in consultation with the Council on Veterans Employment established by Executive Order 13518 and offices and agencies participating in the Working Group, as appropriate, shall issue guidance to agencies on Federal USERRA employment protection, which shall describe specific steps agencies cantake to improve USERRA employment and reemployment protection policies and practices, including:
 
 (i) improving data collection procedures to help better track overall service member employment data in the Federal Government, including Guard and Reserve members;
 

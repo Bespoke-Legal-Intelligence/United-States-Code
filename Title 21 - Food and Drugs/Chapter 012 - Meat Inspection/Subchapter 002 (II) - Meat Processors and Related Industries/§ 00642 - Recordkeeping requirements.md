@@ -2,7 +2,7 @@
 
 #### (a) Classes of persons bound; scope of disclosure; access to places of business; examination of records, facilities, and inventories; copies; samples
 
-The following classes of persons, firms, and corporations shall keep such records as will fully and correctly disclose all transactions involved in their businesses; and all persons, firms, and corporations subject to such requirements shall, at all reasonable times upon notice by a duly authorized representative of the Secretary, afford such representative access to their places of business and opportunity to examine the facilities, inventory, and recordsthereof, to copy all such records, and to take reasonable samples of their inventory upon payment of the fair market value therefor—
+The following classes of persons, firms, and corporations shall keep such records as will fully and correctly disclose all transactions involved in their businesses; and all persons, firms, and corporations subject to such requirements shall, at all reasonable times upon notice by a duly authorized representative of the Secretary, afford such representative access to their places of business and opportunity to examine the facilities, inventory, and records thereof, to copy all such records, and to take reasonable samples of their inventory upon payment of the fair market value therefor—
 
 &emsp;(1) Any persons, firms, or corporations that engage, for commerce, in the business of slaughtering any cattle, sheep, swine, goats, horses, mules, or other equines, or preparing, freezing, packaging, or labeling any carcasses, or parts or products of carcasses, of any such animals, for use as human food or animal food;
 

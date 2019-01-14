@@ -12,9 +12,9 @@ Project Grant Application Approval.—The Secretary of Transportation may approv
 
 &emsp;(4) the project will be completed without unreasonable delay;
 
-&emsp;(5) the sponsor has authority to carry out the project as proposed; and
+&emsp;(5) the sponsor has authority to carry out the project as proposed;
 
-&emsp;(6) if the project is for an airport that has an airport master plan, the master plan addresses issues relating to solid waste recycling at the airport, including—
+&emsp;(6) if the project is for an airport that has an airport master plan that includes the project, the master plan addresses issues relating to solid waste recycling at the airport, including—
 
 &emsp;&emsp;(A) the feasibility of solid waste recycling at the airport;
 
@@ -24,7 +24,17 @@ Project Grant Application Approval.—The Secretary of Transportation may approv
 
 &emsp;&emsp;(D) the review of waste management contracts; and
 
-&emsp;&emsp;(E) the potential for cost savings or the generation of revenue.
+&emsp;&emsp;(E) the potential for cost savings or the generation of revenue; and
+
+&emsp;(7) if the project is at an airport that is listed as having an unclassified status under the most recent national plan of integrated airport systems (as described in section 47103), the project will be funded with an amount appropriated under section 47114(d)(3)(B) and is—
+
+&emsp;&emsp;(A) for maintenance of the pavement of the primary runway;
+
+&emsp;&emsp;(B) for obstruction removal for the primary runway;
+
+&emsp;&emsp;(C) for the rehabilitation of the primary runway; or
+
+&emsp;&emsp;(D) for a project that the Secretary considers necessary for the safe operation of the airport.
 
 (b)
 
@@ -48,7 +58,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 &emsp;&emsp;(iii) with respect to an airport development project involving the location of an airport, runway, or major runway extension at a medium or large hub airport, the airport sponsor has made available to and has provided upon request to the metropolitan planning organization in the area in which the airport is located, if any, a copy of the proposed amendment to the airport layout plan to depict the project and a copy of any airport master plan in which the project is described or depicted; and
 
-&emsp;(B) if the application is found to have a significant adverse effect on natural resources, including fish and wildlife, natural, scenic, and recreation assets, water and air quality, or another factor affecting the environment, only after finding that no possible and prudent alternative to the project exists and that every reasonable step has been taken to minimize the adverse effect.
+&emsp;(B) if the application is found to have a significant adverse effect on natural resources, including fish and wildlife, natural, scenic, and recreation assets, water and air quality, or another factor affecting the environment, only after finding that no possible and prudent alternative to the project exists and thatevery reasonable step has been taken to minimize the adverse effect.
 
 (2) The Secretary may approve an application under this subchapter for an airport development project that does not involve the location of an airport or runway, or a major runway extension, at an existing airport without requiring an environmental impact statement related to noise for the project if—
 
@@ -58,7 +68,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 (3) At the Secretary's request, the sponsor shall give the Secretary a copy of the transcript of any hearing held under paragraph (1)(A) of this subsection.
 
-(4) The Secretary may make a finding under paragraph (1)(B) of this subsection only aftercompletely reviewing the matter. The review and finding must be a matter of public record.
+(4) The Secretary may make a finding under paragraph (1)(B) of this subsection only after completely reviewing the matter. The review and finding must be a matter of public record.
 
 (d)
 
@@ -114,7 +124,15 @@ Covered airport defined.—In this subsection, the term "covered airport" means 
 
 Consultation With Secretary of Homeland Security.—The Secretary shall consult with the Secretary of Homeland Security before approving an application under this subchapter for an airport development project grant for activities described in section 47102(3)(B)(ii) only as they relate to security equipment or section 47102(3)(B)(x) only as they relate to installation of bulk explosive detection system.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b), Apr. 5, 2000, 114 Stat. 88; Pub. L. 107–71, title I, §123(a), Nov. 19, 2001, 115 Stat. 630; Pub. L. 107–296, title IV, §426(b), Nov. 25, 2002, 116 Stat. 2187; Pub. L. 108–176, title I, §187, title III, §305, Dec. 12, 2003, 117 Stat. 2518, 2539; Pub. L. 112–95, title I, §§111(c)(2)(A)(i), 133, 134, Feb. 14, 2012, 126 Stat. 18, 22.)
+(h)
+
+Evaluation of Airport Master Plans.—When evaluating the master plan of an airport for purposes of this subchapter, the Secretary shall take into account—
+
+&emsp;(1) the role the airport plays with respect to medical emergencies and evacuations; and
+
+&emsp;(2) the role the airport plays in emergency or disaster preparedness in the community served by the airport.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b), Apr. 5, 2000, 114 Stat. 88; Pub. L. 107–71, title I, §123(a), Nov. 19, 2001, 115 Stat. 630; Pub. L. 107–296, title IV, §426(b), Nov. 25, 2002, 116 Stat. 2187; Pub. L. 108–176, title I, §187, title III, §305, Dec. 12, 2003, 117 Stat. 2518, 2539; Pub. L. 112–95, title I, §§111(c)(2)(A)(i), 133, 134, Feb. 14, 2012, 126 Stat. 18, 22; Pub. L. 115–254, div. B, title I, §§148(a), 149, Oct. 5, 2018, 132 Stat. 3214, 3215.)
 
 Historical and Revision Notes
 
@@ -213,6 +231,12 @@ In subsection (e)(2)(A), the word "mutual" is omitted as surplus.
 In subsection (e)(3), the words "adversely affected" are substituted for "aggrieved" for consistency in the revised title and with other titles of the United States Code. The words "the date on which" are omitted as surplus.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(6). Pub. L. 115–254, §148(a)(2), inserted "that includes the project" before ", the master plan" in introductory provisions.
+
+Subsec. (a)(7). Pub. L. 115–254, §148(a)(1), (3), (4), added par. (7).
+
+Subsec. (h). Pub. L. 115–254, §149, added subsec. (h).
 
 <b>2012</b>—Subsec. (a)(6). Pub. L. 112–95, §133, added par. (6).
 

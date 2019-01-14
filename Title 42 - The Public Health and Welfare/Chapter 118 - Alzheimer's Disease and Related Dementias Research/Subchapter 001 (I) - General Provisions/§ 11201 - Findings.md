@@ -54,7 +54,7 @@ The Social Security Act, referred to in par. (14), is act Aug. 14, 1935, ch. 531
 
 #### Amendments
 
-<b>1992</b>—Pars. (4) to (14). Pub. L. 102–507 added pars. (4) to (8), redesignated former pars. (7) to (12) as (9) to (14),respectively, and struck out former pars. (4) to (6) which read as follows:
+<b>1992</b>—Pars. (4) to (14). Pub. L. 102–507 added pars. (4) to (8), redesignated former pars. (7) to (12) as (9) to (14), respectively, and struck out former pars. (4) to (6) which read as follows:
 
 "(4) the care for individuals with Alzheimer's disease and related dementias falls primarily on their families, and such care is very often financially and emotionally devastating;
 

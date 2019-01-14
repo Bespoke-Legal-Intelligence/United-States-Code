@@ -14,19 +14,16 @@
 | [2279\.](%C2%A7%2002279%20-%20Foreign%20commercial%20satellite%20services%20and%20foreign%20launches.md) | Foreign commercial satellite services and foreign launches. |
 | \[2279a. | Repealed.\] |
 | [2279b.](%C2%A7%2002279b%20-%20Council%20on%20Oversight%20of%20the%20Department%20of%20Defense%20Positioning%2C%20Navigation%2C%20and%20Timing%20Enterprise.md) | Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise. |
-| 2279c.<sup>1</sup> | Air Force Space Command. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 2279c.<sup>1</sup> | Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments.<sup>2</sup> |
+| [2279c.](%C2%A7%2002279c%20-%20Air%20Force%20Space%20Command.md) | Air Force Space Command. |
+| [2279d.](%C2%A7%2002279d%20-%20Limitation%20on%20construction%20on%20United%20States%20territory%20of%20satellite%20positioning%20ground%20monitoring%20stations%20of%20certain%20foreign%20governments.1.md) | Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>2017</b>—Pub. L. 115–91, div. A, title X, §1051(a)(13)(B), title XVI, §§1601(a)(2), (b)(2)(B), (b)(2), 1603(d)(2), Dec. 12,2017, 131 Stat. 1561, 1719, 1720, 1723, added item 2279c "Air Force Space Command", substituted "Space Rapid Capabilities Office" for "Operationally Responsive Space Program Office" in item 2273a and "Foreign commercial satellite services and foreign launches" for "Foreign commercial satellite services" in item 2279, and struck out items 2277 "Report on foreign counter-space programs" and 2279a "Principal Advisor on Space Control".
+<b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(a)(18)(B), Aug. 13, 2018, 132 Stat. 1984, added item 2279d.
+
+<b>2017</b>—Pub. L. 115–91, div. A, title X, §1051(a)(13)(B), title XVI, §§1601(a)(2), (b)(2)(B), (b)(2), 1603(d)(2), Dec. 12, 2017, 131 Stat. 1561, 1719, 1720, 1723, added item 2279c, substituted "Space Rapid Capabilities Office" for "Operationally Responsive Space Program Office" in item 2273a and "Foreign commercial satellite services and foreign launches" for "Foreign commercial satellite services" in item 2279, and struck out items 2277 "Report on foreign counter-space programs" and 2279a "Principal Advisor on Space Control".
 
 <b>2015</b>—Pub. L. 114–92, div. A, title XVI, §§1602(b), 1603(b), Nov. 25, 2015, 129 Stat. 1096, 1098, added items 2279a and 2279b.
 
@@ -41,10 +38,6 @@ Pub. L. 112–239, div. A, title IX, §§911(b), 912(b), 913(c)(2), Jan. 2, 2013
 <b>2004</b>—Pub. L. 108–375, div. A, title IX, §913(a)(2), Oct. 28, 2004, 118 Stat. 2028, added item 2273a.
 
 <b>2003</b>—Pub. L. 108–136, div. A, title IX, §§911(a)(2), 912(b), 913(b), Nov. 24, 2003, 117 Stat. 1564, 1565, 1567, added items 2272 to 2274.
-
-<i><sup>1</sup></i><i> So in original. Two sections 2279c have been enacted.</i>
-
-<i><sup>2</sup></i><i> Editorially supplied. Section 2279c added by Pub. L. 115–91 without corresponding amendment of chapter analysis.</i>
 
 
 ---
@@ -63,5 +56,5 @@ Pub. L. 112–239, div. A, title IX, §§911(b), 912(b), 913(c)(2), Jan. 2, 2013
 - [&sect; 02279 - Foreign commercial satellite services and foreign launches](%C2%A7%2002279%20-%20Foreign%20commercial%20satellite%20services%20and%20foreign%20launches.md)
 - [&sect; 02279a - Repealed. Pub. L. 115&#8211;91, div. A, title XVI, &sect;1601(b)(2)(A), Dec. 12, 2017, 131 Stat. 1719](%C2%A7%2002279a%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9391%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71601%28b%29%282%29%28A%29%2C%20Dec.%2012%2C%202017%2C%20131%20Stat.%201719.md)
 - [&sect; 02279b - Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise](%C2%A7%2002279b%20-%20Council%20on%20Oversight%20of%20the%20Department%20of%20Defense%20Positioning%2C%20Navigation%2C%20and%20Timing%20Enterprise.md)
-- [&sect; 02279c - 1 Air Force Space Command](%C2%A7%2002279c%20-%201%20Air%20Force%20Space%20Command.md)
-- [&sect; 02279c - 1 Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign&#8230;](%C2%A7%2002279c%20-%201%20Limitation%20on%20construction%20on%20United%20States%20territory%20of%20satellite%20positioning%20ground%20monitoring%20stations%20of%20certain%20foreign%E2%80%A6.md)
+- [&sect; 02279c - Air Force Space Command](%C2%A7%2002279c%20-%20Air%20Force%20Space%20Command.md)
+- [&sect; 02279d - Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments.1](%C2%A7%2002279d%20-%20Limitation%20on%20construction%20on%20United%20States%20territory%20of%20satellite%20positioning%20ground%20monitoring%20stations%20of%20certain%20foreign%20governments.1.md)

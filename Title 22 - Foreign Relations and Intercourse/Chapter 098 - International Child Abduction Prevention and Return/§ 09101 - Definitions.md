@@ -182,7 +182,7 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 113–150, Aug. 8, 2014, 126 Stat. 1807, known as the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 113–150, Aug. 8, 2014, 126Stat. 1807, known as the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 

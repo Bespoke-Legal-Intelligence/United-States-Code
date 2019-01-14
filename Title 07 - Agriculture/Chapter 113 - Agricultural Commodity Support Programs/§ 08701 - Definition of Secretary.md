@@ -72,7 +72,7 @@ Milk income loss contract program.—\[Amended section 8773 of this title.\]
 
 Suspension of permanent price support authorities.—The provisions of law specified in subsections (a) through (c) of section 1602 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8782) shall be suspended—
 
-&emsp;&emsp;"(A) for the 2013 crop or production year of a covered commodity (as that term is defined in section1001 of that Act (7 U.S.C. 8702)), peanuts, sugarcane, and sugar, as appropriate; and
+&emsp;&emsp;"(A) for the 2013 crop or production year of a covered commodity (as that term is defined in section 1001 of that Act (7 U.S.C. 8702)), peanuts, sugarcane, and sugar, as appropriate; and
 
 &emsp;&emsp;"(B) in the case of milk, through December 31, 2013.
 
@@ -114,7 +114,7 @@ Specialty crop research initiative.—\[Amended section 7632 of this title.\]
 
 &emsp;"(3)
 
-Beginning farmer and rancher development program.—\[Amended section 3319f of this title.\]
+Beginning farmer and rancher development program.—\[Amended former section 3319f of this title.\]
 
 "(f)
 
@@ -130,7 +130,7 @@ Biorefinery assistance.—\[Amended section 8103 of this title.\]
 
 &emsp;"(3)
 
-Repowering assistance.—\[Amended section 8104 of this title.\]
+Repowering assistance.—\[Amended former section 8104 of this title.\]
 
 &emsp;"(4)
 
@@ -150,7 +150,7 @@ Biomass research and development.—\[Amended section 8108 of this title.\]
 
 &emsp;"(8)
 
-Rural energy self-sufficiency initiative.—\[Amended section 8109 of this title.\]
+Rural energy self-sufficiency initiative.—\[Amended former section 8109 of this title.\]
 
 &emsp;"(9)
 
@@ -174,7 +174,7 @@ Horticulture and Organic Agriculture Programs.—
 
 &emsp;"(1)
 
-Farmers market promotion program.—\[Amended section 3005 of this title.\]
+Farmers market promotion program.—\[Amended former section 3005 of this title.\]
 
 &emsp;"(2)
 

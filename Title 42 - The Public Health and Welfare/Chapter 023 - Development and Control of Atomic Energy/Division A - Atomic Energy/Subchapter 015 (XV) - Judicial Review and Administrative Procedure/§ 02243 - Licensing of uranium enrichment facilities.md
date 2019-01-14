@@ -4,7 +4,7 @@
 
 #### (1) Major Federal action
 
-&emsp;The issuance of a license under sections 2073 and 2093 of this title for the construction and operation of any uranium enrichment facility shall be considered a major Federal action significantly affecting the quality of the humanenvironment for purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+&emsp;The issuance of a license under sections 2073 and 2093 of this title for the construction and operation of any uranium enrichment facility shall be considered a major Federal action significantly affecting the quality of the human environment for purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 #### (2) Timing
 

@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) over 2,000,000 reports of suspected child abuse and neglect are made each year, and drug abuse is associated with a significant portion of these;
+&emsp;(1) over 3,300,000 reports of suspected child abuse and neglect are made each year, and drug abuse is associated with a significant portion of these;
 
 &emsp;(2) the investigation and prosecution of child abuse cases is extremely complex, involving numerous agencies and dozens of personnel;
 
@@ -12,17 +12,31 @@ The Congress finds that—
 
 &emsp;(5) there is a national need to enhance coordination among community agencies and professionals involved in the intervention system;
 
-&emsp;(6) multidisciplinary child abuse investigation and prosecution programs have been developed that increase the reporting of child abuse cases, reduce the trauma to the child victim, and increase the successful prosecution of child abuse offenders; and
+&emsp;(6) multidisciplinary child abuse investigation and prosecution programs have been developed that increase the reporting of child abuse cases, reduce the trauma to the child victim, improve positive outcomes for the child, and increase the successful prosecution of child abuse offenders;
 
-&emsp;(7) such programs have proven effective, and with targeted Federal assistance, could be duplicated in many jurisdictions throughout the country.
+&emsp;(7) such programs have proven effective, and with targeted Federal assistance, have expanded dramatically throughout the United States; and
 
-(Pub. L. 101–647, title II, §211, Nov. 29, 1990, 104 Stat. 4792; Pub. L. 102–586, §6(a), Nov. 4, 1992, 106 Stat. 5029.)
+&emsp;(8) State chapters of children's advocacy center networks are needed to—
+
+&emsp;&emsp;(A) assist local communities in coordinating their multidisciplinary child abuse investigation, prosecution, and intervention services; and
+
+&emsp;&emsp;(B) provide oversight of, and training and technical assistance in, the effective delivery of evidence-informed programming.
+
+(Pub. L. 101–647, title II, §211, Nov. 29, 1990, 104 Stat. 4792; Pub. L. 102–586, §6(a), Nov. 4, 1992, 106 Stat. 5029; Pub. L. 115–424, §2(a), Jan. 7, 2019, 132 Stat. 5465.)
 
 #### Codification
 
 Section was formerly classified to section 13001 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2019</b>—Par. (1). Pub. L. 115–424, §2(a)(1), substituted "3,300,000" for "2,000,000".
+
+Par. (6). Pub. L. 115–424, §2(a)(2), inserted "improve positive outcomes for the child," before "and increase" and substituted semicolon for "; and" at end.
+
+Par. (7). Pub. L. 115–424, §2(a)(3), substituted "have expanded dramatically throughout the United States; and" for "could be duplicated in many jurisdictions throughout the country."
+
+Par. (8). Pub. L. 115–424, §2(a)(4), added par. (8).
 
 <b>1992</b>—Pars. (3) to (7). Pub. L. 102–586 added pars. (3) and (5) and redesignated former pars. (3), (4), and (5) as (4), (6), and (7), respectively.
 

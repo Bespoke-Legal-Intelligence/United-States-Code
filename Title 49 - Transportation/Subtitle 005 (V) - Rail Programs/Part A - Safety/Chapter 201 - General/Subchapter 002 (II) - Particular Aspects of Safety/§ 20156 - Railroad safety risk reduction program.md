@@ -28,7 +28,7 @@ Voluntary compliance.—A railroad carrier that is not required to submit a rail
 
 (b)
 
-Certification.—The chief official responsible for safety of each railroad carrier requiredto submit a railroad safety risk reduction program under subsection (a) shall certify that the contents of the program are accurate and that the railroad carrier will implement the contents of the program as approved by the Secretary.
+Certification.—The chief official responsible for safety of each railroad carrier required to submit a railroad safety risk reduction program under subsection (a) shall certify that the contents of the program are accurate and that the railroad carrier will implement the contents of the program as approved by the Secretary.
 
 (c)
 

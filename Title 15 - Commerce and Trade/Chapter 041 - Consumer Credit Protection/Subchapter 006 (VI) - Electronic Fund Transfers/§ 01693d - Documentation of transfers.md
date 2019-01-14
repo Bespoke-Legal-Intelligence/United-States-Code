@@ -42,7 +42,7 @@ In the case of a consumer's account, other than a passbook account, which may no
 
 In any action involving a consumer, any documentation required by this section to be given to the consumer which indicates that an electronic fund transfer was made to another person shall be admissible as evidence of such transfer and shall constitute prima facie proof that such transfer was made.
 
-(Pub. L. 90–321, title IX, §906, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3731; amended Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
+(Pub. L. 90–321, title IX, §906, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3731;amended Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
 
 #### Amendments
 

@@ -52,7 +52,7 @@ At the request of any Indian tribe pursuant to a resolution adopted under subsec
 
 #### (e) Federal action
 
-If any Indian tribe does not adopt a resolution as provided in subsection (a) within 90 days after the publication of the Memorandum of Agreement in the Federal Register as provided in section 2411 of this title, the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall require the Bureau of Indian Affairs agency and education superintendents, where appropriate, and the Indian Health Service service unit director serving such tribe to enter into an agreement to identify and coordinate available programs and resources to carry out the purposes of this chapter for such tribe. After such an agreement has been entered into for a tribe such tribe may adopt a resolution under subsection (a).
+If any Indian tribe does not adopt a resolution as provided in subsection (a) within 90 days afterthe publication of the Memorandum of Agreement in the Federal Register as provided in section 2411 of this title, the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall require the Bureau of Indian Affairs agency and education superintendents, where appropriate, and the Indian Health Service service unit director serving such tribe to enter into an agreement to identify and coordinate available programs and resources to carry out the purposes of this chapter for such tribe. After such an agreement has been entered into for a tribe such tribe may adopt a resolution under subsection (a).
 
 #### (f) Grants for training, education, and prevention programs
 

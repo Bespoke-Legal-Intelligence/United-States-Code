@@ -24,7 +24,7 @@ Significantly viewed stations.—
 
 &emsp;&emsp;(A)
 
-In general.—A secondary transmission of a performance or display of a work embodied in a primary transmission of a television broadcast station to subscribers who receive secondary transmissions of primary transmissions under paragraph (1) shall be subject to statutory licensing under this paragraph if the secondary transmission is of the primary transmission of a network station or a non-network station to a subscriber who resides outside the station's local market but within a community in which the signal has been determined by the Federal Communications Commission to be significantly viewed in such community, pursuant to the rules, regulations, and authorizations of the Federal Communications Commission in effect on April 15, 1976, applicable to determining with respect to a cable system whether signals are significantly viewed in a community.
+In general.—A secondary transmission of a performance or display of awork embodied in a primary transmission of a television broadcast station to subscribers who receive secondary transmissions of primary transmissions under paragraph (1) shall be subject to statutory licensing under this paragraph if the secondary transmission is of the primary transmission of a network station or a non-network station to a subscriber who resides outside the station's local market but within a community in which the signal has been determined by the Federal Communications Commission to be significantly viewed in such community, pursuant to the rules, regulations, and authorizations of the Federal Communications Commission in effect on April 15, 1976, applicable to determining with respect to a cable system whether signals are significantly viewed in a community.
 
 &emsp;&emsp;(B)
 
@@ -52,7 +52,7 @@ Special exceptions.—A secondary transmission of a performance or display of a 
 
 &emsp;&emsp;(A)
 
-States with single full-power network station.—In a State in which there is licensed by the Federal Communications Commission a single full-power station thatwas a network station on January 1, 1995, the statutory license provided for in this paragraph shall apply to the secondary transmission by a satellite carrier of the primary transmission of that station to any subscriber in a community that is located within that State and that is not within the first 50 television markets as listed in the regulations of the Commission as in effect on such date (47 C.F.R. 76.51).
+States with single full-power network station.—In a State in which there is licensed by the Federal Communications Commission a single full-power station that was a network station on January 1, 1995, the statutory license provided for in this paragraph shall apply to the secondary transmission by a satellite carrier of the primary transmission of that station to any subscriber in a community that is located within that State and that is not within the first 50 television markets as listed in the regulations of the Commission as in effect on such date (47 C.F.R. 76.51).
 
 &emsp;&emsp;(B)
 
@@ -72,7 +72,7 @@ Additional stations.—In the case of that State in which are located 4 counties
 
 Certain additional stations.—If 2 adjacent counties in a single State are in a local market comprised principally of counties located in another State, the statutory license provided for in this paragraph shall apply to the secondary transmission by a satellite carrier to subscribers in those 2 counties of the primary transmissions of any network station located in the capital of the State in which such 2 counties are located, if—
 
-&emsp;&emsp;&emsp;(i) the 2 counties are located in a local market that is in the top 100 markets for the year 2003 according to Nielsen Media Research; and
+&emsp;&emsp;&emsp;(i) the 2 counties are located in a local market that is in the top 100 markets forthe year 2003 according to Nielsen Media Research; and
 
 &emsp;&emsp;&emsp;(ii) the total number of television households in the 2 counties combined did not exceed 10,000 for the year 2003 according to Nielsen Media Research.
 
@@ -110,7 +110,7 @@ Use of subscriber information.—Subscriber information submitted by a satellite
 
 &emsp;(4)
 
-Requirements of networks.—The submission requirements of this subsection shall apply to a satellite carrier only if the network to which the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register of Copyrights shallmaintain for public inspection a file of all such documents.
+Requirements of networks.—The submission requirements of this subsection shall apply to a satellite carrier only if the network to which the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register of Copyrights shall maintain for public inspection a file of all such documents.
 
 (c)
 
@@ -202,7 +202,7 @@ Market determinations.—The local market of a commercial television broadcast s
 
 &emsp;(3)
 
-Low power television station.—The term "low power television station" means a low power TV station as defined in section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term "low power television station" includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.
+Low power television station.—The term "low power television station" means a low power TV station as defined in section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term "low power television station" includes a low power televisionstation that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.
 
 &emsp;(4)
 
@@ -244,7 +244,7 @@ Subsec. (a). Pub. L. 111–175, §103(b), amended subsec. (a) generally. Prior t
 
 Subsec. (b)(1). Pub. L. 111–175, §103(c)(1), substituted "station—" for "station a list identifying (by name in alphabetical order and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission under subsection (a)." and added subpars. (A) and (B).
 
-Subsec. (b)(2). Pub. L. 111–175, §103(c)(2), substituted "network—" for "network a list identifying (by namein alphabetical order and street address, including county and zip code) any subscribers who have been added or dropped as subscribers since the last submission under this subsection." and added subpars. (A) and (B).
+Subsec. (b)(2). Pub. L. 111–175, §103(c)(2), substituted "network—" for "network a list identifying (by name in alphabetical order and street address, including county and zip code) any subscribers who have been added or dropped as subscribers since the last submission under this subsection." and added subpars. (A) and (B).
 
 Subsec. (c). Pub. L. 111–175, §103(d), inserted "for Certain Secondary Transmissions" after "Required" in heading and substituted "paragraphs (1), (2), and (3) of subsection (a)" for "subsection (a)" in text.
 

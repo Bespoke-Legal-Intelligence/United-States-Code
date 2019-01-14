@@ -22,7 +22,7 @@
 
 #### (2) Procedure
 
-The Secretary shall approve the release of funds for projects subject to the procedures authorized by this section only if, not less than 15 days prior to such approval and prior to any commitment of funds to such projects, the recipient submits to the Secretary a request for such release, accompanied by a certification of the State or unit of general local government which meets the requirements of paragraph (3). The Secretary's approval of any such certificationshall be deemed to satisfy the Secretary's responsibilities under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and such other provisions of law as the regulations of the Secretary specify insofar as those responsibilities relate to the releases of funds for special projects to be carried out pursuant thereto which are covered by such certification.
+The Secretary shall approve the release of funds for projects subject to the procedures authorized by this section only if, not less than 15 days prior to such approval and prior to any commitment of funds to such projects, the recipient submits to the Secretary a request for such release, accompanied by a certification of the State or unit of general local government which meets the requirements of paragraph (3). The Secretary's approval of any such certification shall be deemed to satisfy the Secretary's responsibilities under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and such other provisions of law as the regulations of the Secretary specify insofar as those responsibilities relate to the releases of funds for special projects to be carried out pursuant thereto which are covered by such certification.
 
 #### (3) Certification
 

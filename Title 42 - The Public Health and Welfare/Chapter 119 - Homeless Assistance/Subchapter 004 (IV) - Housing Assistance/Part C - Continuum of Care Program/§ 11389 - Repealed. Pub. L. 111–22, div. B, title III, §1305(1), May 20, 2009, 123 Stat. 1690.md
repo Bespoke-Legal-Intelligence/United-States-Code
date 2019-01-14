@@ -32,7 +32,7 @@ Section 11398, Pub. L. 100–77, title IV, §438, as added Pub. L. 102–550, ti
 
 Section 11399, Pub. L. 100–77, title IV, §439, as added Pub. L. 102–550, title XIV, §1404, Oct. 28, 1992, 106 Stat. 4028, authorized appropriations for fiscal years 1993 and 1994.
 
-Section 11401, Pub. L. 100–77, title IV, §441, July 22, 1987, 101 Stat. 508; Pub. L. 100–628, title IV, §481(a)–(d)(1), Nov. 7, 1988, 102 Stat. 3237, 3238; Pub. L.101–625, title VIII, §835, Nov. 28, 1990, 104 Stat. 4366; Pub. L. 102–550, title XIV, §1405(a)–(d), Oct. 28, 1992, 106 Stat. 4028, 4029; Pub. L. 104–330, title V, §506(a)(8), Oct. 26, 1996, 110 Stat. 4044, related to section 1437f assistance for single room occupancy dwellings.
+Section 11401, Pub. L. 100–77, title IV, §441, July 22, 1987, 101 Stat. 508; Pub. L. 100–628, title IV, §481(a)–(d)(1), Nov. 7, 1988, 102 Stat. 3237, 3238; Pub. L. 101–625, title VIII, §835, Nov. 28, 1990, 104 Stat. 4366; Pub. L. 102–550, title XIV, §1405(a)–(d), Oct. 28, 1992, 106 Stat. 4028, 4029; Pub. L. 104–330, title V, §506(a)(8), Oct. 26, 1996, 110 Stat. 4044, related to section 1437f assistance for single room occupancy dwellings.
 
 Section 11402, Pub. L. 100–77, title IV, §443, as added Pub. L. 100–628, title IV, §482(a), Nov. 7, 1988, 102 Stat. 3238; amended Pub. L. 106–377, §1(a)(1) \[title II, §208\], Oct. 27, 2000, 114 Stat. 1441, 1441A–25, related to environmental review.
 
@@ -56,7 +56,7 @@ Section 11403e–3, Pub. L. 100–77, title IV, §459, formerly §466, as added 
 
 Section 11403e–4, Pub. L. 100–77, title IV, §460, as added Pub. L. 102–550, title XIV, §1406(e)(6), Oct. 28, 1992, 106 Stat. 4031, related to occupancy of dwelling units receiving assistance.
 
-Section 11403f, Pub. L. 100–77, title IV, §461, formerly §457, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4369; renumbered §461, Pub. L. 102–550, title XIV, §1406(e)(1), Oct. 28, 1992, 106 Stat. 4031, related to termination of assistance.
+Section 11403f, Pub. L. 100–77, title IV, §461, formerly §457, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4369; renumbered §461, Pub. L. 102–550,title XIV, §1406(e)(1), Oct. 28, 1992, 106 Stat. 4031, related to termination of assistance.
 
 Another prior section 461 of Pub. L. 100–77 was classified to section 11404 of this title, prior to repeal by Pub. L. 102–550, title XIV, §1406(d)(3), Oct. 28, 1992, 106 Stat. 4030.
 
@@ -118,7 +118,7 @@ Another prior section 11406b, Pub. L. 100–77, title IV, §483, as added Pub. L
 
 Section 11406c, Pub. L. 100–77, title IV, §484, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4373, which related to payment of administrative fees to nonprofit entities for costs of administering rental housing assistance under shelter plus care program, was repealed by Pub. L. 102–550, §1406(d)(2).
 
-Section 11407, Pub. L. 100–77, title IV, §486, as added Pub. L. 102–550, title XIV, §1406(f), Oct. 28, 1992, 106 Stat. 4033; amended Pub. L. 110–289, div. B, title VIII, §2835(c)(1)(B), July 30, 2008, 122 Stat. 2874, authorized Secretary to use amounts made available under former section 11403h of this title in connection with the moderate rehabilitation of single room occupancy housing.
+Section 11407, Pub. L. 100–77, title IV, §486, as added Pub. L. 102–550, title XIV, §1406(f), Oct. 28, 1992, 106 Stat.4033; amended Pub. L. 110–289, div. B, title VIII, §2835(c)(1)(B), July 30, 2008, 122 Stat. 2874, authorized Secretary to use amounts made available under former section 11403h of this title in connection with the moderate rehabilitation of single room occupancy housing.
 
 Section 11407a, Pub. L. 100–77, title IV, §487, as added Pub. L. 102–550, title XIV, §1406(f), Oct. 28, 1992, 106 Stat. 4033, related to fire and safety improvements.
 

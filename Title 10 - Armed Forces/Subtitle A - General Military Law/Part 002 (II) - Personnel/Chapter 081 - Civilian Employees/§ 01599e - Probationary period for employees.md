@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Notwithstanding sections 3321 and 3393(d) of title 5, the appointment of acovered employee shall become final only after such employee has served a probationary period of two years. The Secretary concerned may extend a probationary period under this subsection at the discretion of such Secretary.
+In General.—Notwithstanding sections 3321 and 3393(d) of title 5, the appointment of a covered employee shall become final only after such employee has served a probationary period of two years. The Secretary concerned may extend a probationary period under this subsection at the discretion of such Secretary.
 
 (b)
 

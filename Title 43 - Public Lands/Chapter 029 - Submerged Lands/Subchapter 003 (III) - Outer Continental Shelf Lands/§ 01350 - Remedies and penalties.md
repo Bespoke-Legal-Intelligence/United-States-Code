@@ -12,7 +12,7 @@ At the request of the Secretary, the Secretary of the Army, or the Secretary of 
 
 #### (c) Criminal penalties
 
-Any person who knowingly and willfully (1) violates any provision of this subchapter, any term of a lease, license, or permit issued pursuant to this subchapter, or any regulation or order issued under the authority of this subchapter designed to protect health, safety, orthe environment or conserve natural resources, (2) makes any false statement, representation, or certification in any application, record, report, or other document filed or required to be maintained under this subchapter, (3) falsifies, tampers with, or renders inaccurate any monitoring device or method of record required to be maintained under this subchapter, or (4) reveals any data or information required to be kept confidential by this subchapter shall, upon conviction, be punished by a fine of not more than $100,000, or by imprisonment for not more than ten years, or both. Each day that a violation under clause (1) of this subsection continues, or each day that any monitoring device or data recorder remains inoperative or inaccurate because of any activity described in clause (3) of this subsection, shall constitute a separate violation.
+Any person who knowingly and willfully (1) violates any provision of this subchapter, any term of a lease, license, or permit issued pursuant to this subchapter, or any regulation or order issued under the authority of this subchapter designed to protect health, safety, or the environment or conserve natural resources, (2) makes any false statement, representation, or certification in any application, record, report, or other document filed or required to be maintained under this subchapter, (3) falsifies, tampers with, or renders inaccurate any monitoring device or method of record required to be maintained under this subchapter, or (4) reveals any data or information required to be kept confidential by this subchapter shall, upon conviction, be punished by a fine of not more than $100,000, or by imprisonment for not more than ten years, or both. Each day that a violation under clause (1) of this subsection continues, or each day that any monitoring device or data recorder remains inoperative or inaccurate because of any activity described in clause (3) of this subsection, shall constitute a separate violation.
 
 #### (d) Liability of corporate officers and agents for violations by corporation
 
@@ -26,7 +26,7 @@ The remedies and penalties prescribed in this subchapter shall be concurrent and
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–380 substituted "(1) Except as provided in paragraph (2), if any" for "If any", substituted "$20,000" for "$10,000", inserted at end "The Secretary shall, by regulation at least every 3 years, adjust the penalty specified in this paragraph to reflect any increases in the Consumer Price Index (all items, United States city average) as prepared by the Department of Labor", and added par. (2).
+<b>1990</b>—Subsec. (b). Pub. L. 101–380 substituted "(1) Except as provided in paragraph (2), if any" for "If any", substituted "$20,000" for "$10,000", inserted at end "The Secretary shall, by regulation at least every 3 years, adjust the penalty specified in this paragraph to reflectany increases in the Consumer Price Index (all items, United States city average) as prepared by the Department of Labor", and added par. (2).
 
 #### Effective Date of 1990 Amendment
 

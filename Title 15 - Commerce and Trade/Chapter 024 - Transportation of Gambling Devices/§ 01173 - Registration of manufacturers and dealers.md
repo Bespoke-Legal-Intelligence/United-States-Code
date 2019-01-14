@@ -2,7 +2,7 @@
 
 #### (a) Activities requiring registration; contents of registration statement
 
-(1) It shall be unlawful for any person engaged in the business of manufacturing gambling devices, if the activities of such business in any way affect interstate or foreign commerce, to manufacture any gambling device during any calendar year, unless, after November 30 of the preceding calendar year, and before the date onwhich such device is manufactured, such person has registered with the Attorney General under this subsection, regardless of whether such device ever enters interstate or foreign commerce.
+(1) It shall be unlawful for any person engaged in the business of manufacturing gambling devices, if the activities of such business in any way affect interstate or foreign commerce, to manufacture any gambling device during any calendar year, unless, after November 30 of the preceding calendar year, and before the date on which such device is manufactured, such person has registered with the Attorney General under this subsection, regardless of whether such device ever enters interstate or foreign commerce.
 
 (2) It shall be unlawful for any person during any calendar year to engage in the business of repairing, reconditioning, buying, selling, leasing, using, or making available for use by others any gambling device, if in such business he sells, ships, or delivers any such device knowing that it will be introduced into interstate or foreign commerce after the effective date of the Gambling Devices Act of 1962, unless, after November 30 of the preceding calendar year, and before the date such sale, shipment, or delivery occurs, such person has registered with the Attorney General under this subsection.
 
@@ -30,7 +30,7 @@
 
 &emsp;(A) in the case of each such gambling device defined in paragraph (a)(1) or (a)(2) of section 1171 of this title, the information which is required to be affixed on such gambling device by subsection (b)(1) of this section; and
 
-&emsp;(B) in the case of each such gambling device defined in paragraph (a)(3) of section 1171 of this title, the information required to be affixed on such gambling device by subsection (b)(2) of this section, or, if such gambling device does not have affixed on it any such information, its catalog listing, description, and, in the case of each such device owned or possessed by him or in his custody, its location.
+&emsp;(B) in the case of each such gambling device defined in paragraph (a)(3) of section 1171 of this title, the information required to be affixed on such gambling device by subsection\(b)(2) of this section, or, if such gambling device does not have affixed on it any such information, its catalog listing, description, and, in the case of each such device owned or possessed by him or in his custody, its location.
 
 > Such record shall also show (i) in the case of any such gambling device described in paragraph (1)(A) of this subsection, the name and address of the person from whom such device was purchased or acquired and the name and address of the carrier; and (ii) in the case of any such gambling device described in paragraph (1)(C) of this subsection, the name and address of the buyer and consignee thereof and the name and address of the carrier.
 
@@ -46,7 +46,7 @@ Each record required to be maintained under this section shall be kept by the pe
 
 #### (f) Authority of Federal Bureau of Investigation
 
-Agents of the Federal Bureau of Investigation shall, at any place designated pursuant to subsection (a)(4)(C) of this section by any person required to register by subsection (a) of this section, at all reasonable times, have access to and the right to copy any of the records required to be kept by this section, and, in case of refusal byany person registered under such subsection (a) to allow inspection and copying of such records, the United States district court for the district in which such place is located shall have jurisdiction to issue an order compelling production of such records for inspection or copying.
+Agents of the Federal Bureau of Investigation shall, at any place designated pursuant to subsection (a)(4)(C) of this section by any person required to register by subsection (a) of this section, at all reasonable times, have access to and the right to copy any of the records required to be kept by this section, and, in case of refusal by any person registered under such subsection (a) to allow inspection and copying of such records, the United States district court for the district in which such place is located shall have jurisdiction to issue an order compelling production of such records for inspection or copying.
 
 (Jan. 2, 1951, ch. 1194, §3, 64 Stat. 1135; Pub. L. 87–840, §5, Oct. 18, 1962, 76 Stat. 1075.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Designation of participants
 
-The Director may from time to time designate employees of the Agency who shall be entitled to participate in the system. Employees so designated who elect to participate in the system are referred to in this chapter as "participants".
+The Director may from time to time designate employees of the Agency who shall be entitledto participate in the system. Employees so designated who elect to participate in the system are referred to in this chapter as "participants".
 
 #### (b) Qualifying service
 
@@ -37,6 +37,10 @@ A prior section 203 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1044;
 <b>2014</b>—Subsec. (b). Pub. L. 113–126, §202(a)(1), substituted "service performed by an Agency employee" for "service in the Agency performed" in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 113–126, §202(a)(2), substituted "intelligence activities" for "Agency activities".
+
+#### Effective Date
+
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.
 
 #### Application of 2014 Amendment
 

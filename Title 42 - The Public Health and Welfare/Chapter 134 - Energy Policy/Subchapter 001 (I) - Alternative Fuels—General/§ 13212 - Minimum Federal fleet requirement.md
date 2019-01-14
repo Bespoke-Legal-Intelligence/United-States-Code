@@ -126,7 +126,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 #### Executive Order No. 12844
 
-Ex. Ord. No. 12844, Apr. 21, 1993, 58 F.R. 21885, as amended by Ex. Ord. No. 12974, §3(b), Sept. 29, 1995, 60 F.R. 51876, which required the Federal Government to institute a Federal fleet vehicle acquisition program and established the Federal Fleet Conversion Task Force to advise on implementation of the program, wasrevoked by Ex. Ord. No. 13031, §9, Dec. 13, 1996, 61 F.R. 66531, formerly set out below.
+Ex. Ord. No. 12844, Apr. 21, 1993, 58 F.R. 21885, as amended by Ex. Ord. No. 12974, §3(b), Sept. 29, 1995, 60 F.R. 51876, which required the Federal Government to institute a Federal fleet vehicle acquisition program and established the Federal Fleet Conversion Task Force to advise on implementation of the program, was revoked by Ex. Ord. No. 13031, §9, Dec. 13, 1996, 61 F.R. 66531, formerly set out below.
 
 #### Executive Order No. 13031
 

@@ -12,7 +12,7 @@ In this chapter—
 
 &emsp;(3) "International Fuel Tax Agreement" means the interstate agreement on collecting and distributing fuel use taxes paid by motor carriers, developed under the auspices of the National Governors' Association.
 
-&emsp;(4) "International Registration Plan" means the interstate agreement on apportioning vehicle registration fees paid by motor carriers,developed by the American Association of Motor Vehicle Administrators.
+&emsp;(4) "International Registration Plan" means the interstate agreement on apportioning vehicle registration fees paid by motor carriers, developed by the American Association of Motor Vehicle Administrators.
 
 &emsp;(5) "Regional Fuel Tax Agreement" means the interstate agreement on collecting and distributing fuel use taxes paid by motor carriers in the States of Maine, Vermont, and New Hampshire.
 

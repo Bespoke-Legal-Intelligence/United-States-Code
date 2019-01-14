@@ -6,7 +6,7 @@ It is the policy of the United States that guidelines and criteria established p
 
 #### (b) Nature of uniformity
 
-Such uniformity refers to one policy applied uniformly to de jure segregation wherever foundand such other policy as may be provided pursuant to law applied uniformly to de facto segregation wherever found.
+Such uniformity refers to one policy applied uniformly to de jure segregation wherever found and such other policy as may be provided pursuant to law applied uniformly to de facto segregation wherever found.
 
 #### (c) Prohibition of construction for diminution of obligation for enforcement or compliance with nondiscrimination requirements
 

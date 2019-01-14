@@ -52,7 +52,7 @@ The President shall appoint, by and with the advice and consent of the Senate, a
 
 &emsp;&emsp;&emsp;&emsp;(VIII) The Department of Agriculture.
 
-&emsp;&emsp;&emsp;&emsp;(IX) Any such other agencies as the President determines to be substantially involved in the efforts of the Federal Government to combat counterfeiting and infringement.
+&emsp;&emsp;&emsp;&emsp;(IX) Any such other agencies as the President determines to be substantiallyinvolved in the efforts of the Federal Government to combat counterfeiting and infringement.
 
 &emsp;&emsp;&emsp;(ii) The Register of Copyrights, or a senior representative of the United States Copyright Office appointed by the Register of Copyrights.
 
@@ -70,7 +70,7 @@ This subchapter, referred to in subsec. (a), was in the original "this title", m
 
 Ex. Ord. No. 13565, Feb. 8, 2011, 76 F.R. 7681, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including title III of the Prioritizing Resources and Organization for Intellectual Property Act of 2008 (Public Law 110–403) (15 U.S.C. 8111–8116) (the "PRO IP Act"), and in order to strengthen the efforts of the Federal Government to encourage innovationthrough the effective and efficient enforcement of laws protecting copyrights, patents, trademarks, trade secrets, and other forms of intellectual property, both in the United States and abroad, including matters relating to combating infringement, and thereby support efforts to reinvigorate the Nation's global competitiveness, accelerate export growth, promote job creation, and reduce threats posed to national security and to public health and safety, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including title III of the Prioritizing Resources and Organization for Intellectual Property Act of 2008 (Public Law 110–403) (15 U.S.C. 8111–8116) (the "PRO IP Act"), and in order to strengthen the efforts of the Federal Government to encourage innovation through the effective and efficient enforcement of laws protecting copyrights, patents, trademarks, trade secrets, and other forms of intellectual property, both in the United States and abroad, including matters relating to combating infringement, and thereby support efforts to reinvigorate the Nation's global competitiveness, accelerate export growth, promote job creation, and reduce threats posed to national security and to public health and safety, it is hereby ordered as follows:
 
 Section 1. <i>Senior Intellectual Property Enforcement Advisory Committee</i>.
 
@@ -140,7 +140,7 @@ Pursuant to the PRO IP Act (15 U.S.C. 8111), the Coordinator shall also invite t
 
 &emsp;(C) recommendations to enhance cooperation among Federal, State, and local authorities responsible for intellectual property enforcement.
 
-(ii) The Coordinator may establish subgroups, consisting exclusively of Enforcement Advisory Committee members or their designees, who must be officials from the designating member's department or agency, to support the functions of the Enforcement Advisory Committee. The subgroups shall be chaired by the Coordinator, or the Coordinator's designee with expertise and experience in intellectual property enforcement matters, and may include:
+(ii) The Coordinator may establish subgroups, consisting exclusively of Enforcement Advisory Committee members or their designees, who must be officialsfrom the designating member's department or agency, to support the functions of the Enforcement Advisory Committee. The subgroups shall be chaired by the Coordinator, or the Coordinator's designee with expertise and experience in intellectual property enforcement matters, and may include:
 
 &emsp;(A) an Enforcement Subcommittee; and
 

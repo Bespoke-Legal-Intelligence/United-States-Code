@@ -20,7 +20,7 @@ The provisions of this chapter shall be enforced by the Secretary and the Secret
 
 &emsp;&emsp;(v) seize any other evidence related to any violation of any provision of this chapter; and
 
-&emsp;&emsp;(vi) access, directly or indirectly, for enforcement purposes any data or information required to be provided under this subchapter or regulations under this subchapter, including data from vessel monitoring systems, satellite-based maritime distress and safety systems, or any similar system, subject to the confidentiality provisions of section 1881a of this title;
+&emsp;&emsp;(vi) access, directly or indirectly, for enforcement purposes any data or informationrequired to be provided under this subchapter or regulations under this subchapter, including data from vessel monitoring systems, satellite-based maritime distress and safety systems, or any similar system, subject to the confidentiality provisions of section 1881a of this title;
 
 &emsp;(B) execute any warrant or other process issued by any court of competent jurisdiction; and
 
@@ -142,7 +142,7 @@ The Secretary, in consultation with the Governors of the Pacific Insular Areas a
 
 &emsp;The Secretary shall promptly enter into an agreement with a State under section 1881a(b)(1)(B) of this title if—
 
-&emsp;&emsp;(A) the Attorney General or highest ranking legal officer of the State provides a written opinion or certification that State law allows the State to maintain the confidentiality of information required by Federal law to be kept confidential; or
+&emsp;&emsp;(A) the Attorney General or highest ranking legal officer of the State provides a written opinion or certification that State lawallows the State to maintain the confidentiality of information required by Federal law to be kept confidential; or
 
 &emsp;&emsp;(B) the Secretary is provided other reasonable assurance that the State can and will protect the identity or business of any person to which such information relates.
 
@@ -240,7 +240,7 @@ Sec. 110. There is established in the Treasury a non-interest bearing fund to be
 
 "
 
-Sec. 111. There is established in the Treasury a non-interest bearing fund to be known as the 'Sanctuaries Enforcement Asset Forfeiture Fund', which shall consist of all sums received as fines, penalties, and forfeitures of property for violations of any provisions of 16 U.S.C. chapter 38, which are currently deposited in the Operations, Research, and Facilities account: <i>Provided</i>, That all unobligated balances that have been collected pursuant to 16 U.S.C. 1437 shall be transferred from the Operations, Research, and Facilities account into theSanctuaries Enforcement Asset Forfeiture Fund and shall remain available until expended."
+Sec. 111. There is established in the Treasury a non-interest bearing fund to be known as the 'Sanctuaries Enforcement Asset Forfeiture Fund', which shall consist of all sums received as fines, penalties, and forfeitures of property for violations of any provisions of 16 U.S.C. chapter 38, which are currently deposited in the Operations, Research, and Facilities account: <i>Provided</i>, That all unobligated balances that have been collected pursuant to 16 U.S.C. 1437 shall be transferred from the Operations, Research, and Facilities account into the Sanctuaries Enforcement Asset Forfeiture Fund and shall remain available until expended."
 
 #### Action Against Vessels and Vessel Owners Engaged in Illegal, Unreported, or Unregulated Fishing
 

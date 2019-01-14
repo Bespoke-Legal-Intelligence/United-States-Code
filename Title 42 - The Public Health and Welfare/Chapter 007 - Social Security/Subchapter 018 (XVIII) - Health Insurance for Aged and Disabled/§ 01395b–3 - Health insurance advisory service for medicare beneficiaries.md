@@ -74,9 +74,17 @@ Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, an
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–173 substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration".
 
+#### State Health Insurance Assistance Program Reporting Requirements
+
+Pub. L. 115–123, div. E, title II, §50207(b), Feb. 9, 2018, 132 Stat. 187, provided that: "Beginning not later than April 1, 2019, and biennially thereafter, the Agency for Community Living \[probably means the Administration for Community Living\] shall electronically post on its website the following information, with respect to grants to States for State health insurance assistance programs, (such information to be presented by State and by entity receiving funds from the State to carry out such a program funded by such grant):
+
+&emsp;"(1) The amount of Federal funding provided to each such State for such program for the period involved and the amount of Federal funding provided by each such State for such program to each such entity for the period involved.
+
+&emsp;"(2) Information as the Secretary may specify, with respect to such programs carried out through such grants, consistent with the terms and conditions for receipt of such grants."
+
 #### Medicare Enrollment Assistance
 
-Pub. L. 110–275, title I, §119, July 15, 2008, 122 Stat. 2508, as amended by Pub. L. 111–148, title III, §3306, Mar. 23, 2010, 124 Stat. 470; Pub. L. 112–240, title VI, §610, Jan. 2, 2013, 126 Stat. 2351; Pub. L. 113–67, div. B, title I, §1110, Dec. 26, 2013, 127 Stat. 1198; Pub. L. 113–93, title I, §110, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §208, Apr. 16, 2015, 129 Stat. 145, provided that:
+Pub. L. 110–275, title I, §119, July 15, 2008, 122 Stat. 2508, as amended by Pub. L. 111–148, title III, §3306, Mar. 23, 2010, 124 Stat. 470; Pub. L. 112–240, title VI, §610, Jan. 2, 2013, 126 Stat. 2351; Pub. L. 113–67, div. B, title I,§1110, Dec. 26, 2013, 127 Stat. 1198; Pub. L. 113–93, title I, §110, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §208, Apr. 16, 2015, 129 Stat. 145; Pub. L. 115–123, div. E, title II, §50207(a), Feb. 9, 2018, 132 Stat. 186, provided that:
 
 "(a)
 
@@ -104,9 +112,13 @@ Funding.—For purposes of making grants under this subsection, the Secretary sh
 
 &emsp;&emsp;&emsp;"(v) for fiscal year 2015, of $7,500,000;
 
-&emsp;&emsp;&emsp;"(vi) for fiscal year 2016, of $13,000,000; and
+&emsp;&emsp;&emsp;"(vi) for fiscal year 2016, of $13,000,000;
 
-&emsp;&emsp;&emsp;"(vii) for fiscal year 2017, of $13,000,000.
+&emsp;&emsp;&emsp;"(vii) for fiscal year 2017, of $13,000,000; and \[sic\]
+
+&emsp;&emsp;&emsp;"(viii) for fiscal year 2018, of $13,000,000; and
+
+&emsp;&emsp;&emsp;"(ix) for fiscal year 2019, of $13,000,000.
 
 &nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -156,9 +168,13 @@ Funding.—For purposes of making grants under this subsection, the Secretary sh
 
 &emsp;&emsp;&emsp;"(v) for fiscal year 2015, of $7,500,000;
 
-&emsp;&emsp;&emsp;"(vi) for fiscal year 2016, of $7,500,000; and
+&emsp;&emsp;&emsp;"(vi) for fiscal year 2016, of $7,500,000;
 
-&emsp;&emsp;&emsp;"(vii) for fiscal year 2017, of $7,500,000.
+&emsp;&emsp;&emsp;"(vii) for fiscal year 2017, of $7,500,000; and \[sic\]
+
+&emsp;&emsp;&emsp;"(viii) for fiscal year 2018, of $7,500,000; and
+
+&emsp;&emsp;&emsp;"(ix) for fiscal year 2019, of $7,500,000.
 
 &nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -204,9 +220,13 @@ Funding.—For purposes of making grants under this subsection, the Secretary sh
 
 &emsp;&emsp;&emsp;"(v) for fiscal year 2015, of $5,000,000;
 
-&emsp;&emsp;&emsp;"(vi) for fiscal year 2016, of $5,000,000; and
+&emsp;&emsp;&emsp;"(vi) for fiscal year 2016, of $5,000,000;
 
-&emsp;&emsp;&emsp;"(vii) for fiscal year 2017, of $5,000,000.
+&emsp;&emsp;&emsp;"(vii) for fiscal year 2017, of $5,000,000; and \[sic\]
+
+&emsp;&emsp;&emsp;"(viii) for fiscal year 2018, of $5,000,000; and
+
+&emsp;&emsp;&emsp;"(ix) for fiscal year 2019, of $5,000,000.
 
 &nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -244,9 +264,13 @@ Funding.—For purposes of making a grant or entering into a contract under para
 
 &emsp;&emsp;"(v) for fiscal year 2015, of $5,000,000;
 
-&emsp;&emsp;"(vi) for fiscal year 2016, of $12,000,000; and
+&emsp;&emsp;"(vi) for fiscal year 2016, of $12,000,000;
 
-&emsp;&emsp;"(vii) for fiscal year 2017, of $12,000,000.
+&emsp;&emsp;"(vii) for fiscal year 2017, of $12,000,000; and \[sic\]
+
+&emsp;&emsp;"(viii) for fiscal year 2018, of $12,000,000; and
+
+&emsp;&emsp;"(ix) for fiscal year 2019, of $12,000,000.
 
 > &emsp;Amounts appropriated under this subparagraph shall remain available until expended.
 

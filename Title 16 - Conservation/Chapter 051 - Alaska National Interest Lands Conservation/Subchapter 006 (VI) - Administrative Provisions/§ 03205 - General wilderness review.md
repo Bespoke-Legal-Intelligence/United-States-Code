@@ -6,7 +6,7 @@ Within five years from December 2, 1980, the Secretary shall, in accordance with
 
 #### (b) Presidential recommendations to Congress
 
-The Secretary shall conduct his review, and the President shall advise the United States Senate and House of Representatives of his recommendations, in accordance with the provisions of sections <sup>1</sup> 1132(c) and (d) of this title.The President shall advise the Congress of his recommendations with respect to such areas within seven years from December 2, 1980.
+The Secretary shall conduct his review, and the President shall advise the United States Senate and House of Representatives of his recommendations, in accordance with the provisions of sections <sup>1</sup> 1132(c) and (d) of this title. The President shall advise the Congress of his recommendations with respect to such areas within seven years from December 2, 1980.
 
 #### (c) Administration of units unaffected pending Congressional action
 

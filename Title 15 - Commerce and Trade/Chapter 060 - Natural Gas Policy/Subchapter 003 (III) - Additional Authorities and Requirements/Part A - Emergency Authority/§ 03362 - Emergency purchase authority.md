@@ -26,7 +26,7 @@ The Commission shall require any interstate pipeline or local distribution compa
 
 #### (e) Special limitation
 
-No sale under any emergency purchase contract under this section for emergency supplies of natural gas for sale and delivery from any intrastate pipeline which is operating under court supervision as of January 1, 1977, may take effect unless the court approves.
+No sale under any emergency purchase contract under this section for emergency suppliesof natural gas for sale and delivery from any intrastate pipeline which is operating under court supervision as of January 1, 1977, may take effect unless the court approves.
 
 (Pub. L. 95–621, title III, §302, Nov. 9, 1978, 92 Stat. 3382.)
 

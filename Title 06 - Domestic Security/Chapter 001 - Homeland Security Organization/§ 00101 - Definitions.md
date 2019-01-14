@@ -26,7 +26,7 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;(A) the United States Secret Service; and
 
-&emsp;&emsp;(B) the Coast Guard, when operating under the direct authority of the Secretary of Defense or Secretary of the Navy pursuant to section 3 of title 14, except that nothing in this paragraph shall affect or diminish the authority and responsibilities of the Commandant of the Coast Guard to command or control the Coast Guard as an armed force or the authority of the Director of National Intelligence with respect to the Coast Guard as an element of the intelligence community (as defined under section 3003(4) of title 50.<sup>1</sup>
+&emsp;&emsp;(B) the Coast Guard, when operating under the direct authority of the Secretary of Defense or Secretary of the Navy pursuant to section 3 <sup>1</sup> of title 14, except that nothing in this paragraph shall affect or diminish the authority and responsibilities of the Commandant of the Coast Guard to command or control the Coast Guard as an armed force orthe authority of the Director of National Intelligence with respect to the Coast Guard as an element of the intelligence community (as defined under section 3003(4) of title 50.<sup>2</sup>
 
 &emsp;(12) The term "key resources" means publicly or privately controlled resources essential to the minimal operations of the economy and government.
 
@@ -74,6 +74,8 @@ In this chapter, the following definitions apply:
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+Section 3 of title 14, referred to in par. (11)(B), was redesignated section 103 of title 14 by Pub. L. 115–282, title I, §103(b), Dec. 4, 2018, 132 Stat. 4195, and references to section 3 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+
 The Immigration and Nationality Act, referred to in par. (19)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Amendments
@@ -91,6 +93,18 @@ Pub. L. 109–295 inserted "fire," after "safety,".
 #### Effective Date
 
 Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: "This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\]."
+
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–387, §1, Dec. 21, 2018, 132 Stat. 5162, provided that: "This Act \[enacting sections 350, 590, 591, 591g, 591h, 596b, and 597 of this title, amending sections 113, 195b, 195c, 315, 321q, 592, 593, 594, 596, and 596a of this title, repealing sections 321e, 591, and 595 of this title, and enacting provisions set out as notes under section 591 of this title\] may be cited as the 'Countering Weapons of Mass Destruction Act of 2018'."
+
+Pub. L. 115–331, §1, Dec. 19, 2018, 132 Stat. 4484, provided that: "This Act \[enacting section 126 of this title\] may be cited as the 'Department of Homeland Security Data Framework Act of 2018'."
+
+Pub. L. 115–278, §1, Nov. 16, 2018, 132 Stat. 4168, provided that: "This Act \[see Tables for classification\] may be cited as the 'Cybersecurity and Infrastructure Security Agency Act of 2018'."
+
+Pub. L. 115–254, div. H, §1601, Oct. 5, 2018, 132 Stat. 3522, provided that: "This division \[enacting section 124 of this title and section 104 of Title 14, Coast Guard\] may be cited as the 'Preventing Emerging Threats Act of 2018'."
+
+Pub. L. 115–125, §1, Feb. 14, 2018, 132 Stat. 315, provided that: "This Act \[enacting section 242 of this title and provisions set out as a note under section 242 of this title\] may be cited as the 'Department of Homeland Security Blue Campaign Authorization Act'."
 
 #### Short Title of 2017 Amendment
 
@@ -126,7 +140,7 @@ Pub. L. 113–284, §1, Dec. 18, 2014, 128 Stat. 3089, provided that: "This Act 
 
 Pub. L. 113–282, §1, Dec. 18, 2014, 128 Stat. 3066, provided that: "This Act \[enacting sections 148 to 150 of this title and provisions set out as notes under sections 148 and 149 of this title and formerly set out as a note under section 3543 of Title 44, Public Printing and Documents\] may be cited as the 'National Cybersecurity Protection Act of 2014'."
 
-Pub. L. 113–254, §1, Dec. 18, 2014, 128 Stat. 2898, provided that: "This Act \[enacting subchapter XVI of this chapter and enacting and repealing provisions set outas notes under section 121 of this title\] may be cited as the 'Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014'."
+Pub. L. 113–254, §1, Dec. 18, 2014, 128 Stat. 2898, provided that: "This Act \[enacting subchapter XVI of this chapter and enacting and repealing provisions set out as notes under section 121 of this title\] may be cited as the 'Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014'."
 
 Pub. L. 113–246, §1, Dec. 18, 2014, 128 Stat. 2880, provided that: "This Act \[enacting section 146 of this title and provisions set out as a note under section 146 of this title\] may be cited as the 'Cybersecurity Workforce Assessment Act'."
 
@@ -156,7 +170,7 @@ Pub. L. 111–140, §1, Feb. 16, 2010, 124 Stat. 31, provided that: "This Act \[
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–412, §1, Oct. 14, 2008, 122 Stat. 4336, provided that: "This Act \[amending section 609 of this title\] may be cited as the 'Personnel Reimbursement for Intelligence Cooperation and Enhancement of Homeland Security Act of 2008' or the 'PRICE of Homeland Security Act'."
+Pub. L. 110–412, §1, Oct. 14, 2008, 122 Stat. 4336, provided that: "This Act \[amending section 609 of this title\] may be cited as the 'Personnel Reimbursementfor Intelligence Cooperation and Enhancement of Homeland Security Act of 2008' or the 'PRICE of Homeland Security Act'."
 
 #### Short Title of 2007 Amendment
 
@@ -182,7 +196,7 @@ Pub. L. 108–7, div. L, Feb. 20, 2003, 117 Stat. 532, provided in part that: "T
 
 Pub. L. 107–296, §1(a), Nov. 25, 2002, 116 Stat. 2135, provided that: "This Act \[see Tables for classification\] may be cited as the 'Homeland Security Act of 2002'."
 
-Pub. L. 107–296, title II, §211, Nov. 25, 2002, 116 Stat. 2150, provided that: "This subtitle \[subtitle B (§§211–215) of title II of Pub. L. 107–296, enacting part B of subchapter II of this chapter\] may be cited as the 'Critical Infrastructure Information Act of 2002'."
+Pub. L. 107–296, title XXII, §2221, formerly title II, §211, Nov. 25, 2002, 116 Stat. 2150; renumbered §2221, Pub. L. 115–278, §2(g)(2)(H), Nov. 16, 2018, 132 Stat. 4178, provided that: "This subtitle \[subtitle B (§§2221–2225) of title XXII of Pub. L. 107–296, enacting part B of subchapter XVIII of this chapter\] may be cited as the 'Critical Infrastructure Information Act of 2002'."
 
 Pub. L. 107–296, title VIII, §861, Nov. 25, 2002, 116 Stat. 2238, provided that: "This subtitle \[subtitle G (§§861–865) of title VIII of Pub. L. 107–296, enacting part G of subchapter VIII of this chapter\] may be cited as the 'Support Anti-terrorism by Fostering Effective Technologies Act of 2002' or the 'SAFETY Act'."
 
@@ -230,7 +244,7 @@ Members.—The Commission shall be composed of 10 members, of whom—
 
 &emsp;"(1) 1 member shall be appointed by the President, who shall serve as chairman of the Commission;
 
-&emsp;"(2) 1 member shall be appointed by the leader of the Senate (majority or minority leader, as the case may be) of the Democratic Party, in consultation with the leader of the House of Representatives (majority or minority leader, as the case may be) of the Democratic Party, who shall serve as vice chairman of the Commission;
+&emsp;"(2) 1 member shall be appointed by the leader of the Senate (majority or minority leader, as the casemay be) of the Democratic Party, in consultation with the leader of the House of Representatives (majority or minority leader, as the case may be) of the Democratic Party, who shall serve as vice chairman of the Commission;
 
 &emsp;"(3) 2 members shall be appointed by the senior member of the Senate leadership of the Democratic Party;
 
@@ -448,7 +462,7 @@ Consultant Services.—The Commission is authorized to procure the services of e
 
 "(a)
 
-Compensation.—Each member of the Commission may be compensated at not to exceed the dailyequivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day during which that member is engaged in the actual performance of the duties of the Commission.
+Compensation.—Each member of the Commission may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day during which that member is engaged in the actual performance of the duties of the Commission.
 
 "(b)
 
@@ -488,11 +502,13 @@ Transfer From the National Foreign Intelligence Program.—Of the amounts author
 
 "(b)
 
-Additional Funding.—In addition to the amounts made available to the Commission under subsection (a) and under chapter 2 of title II of the Emergency Wartime Supplemental Appropriations Act, 2003 (Public Law 108–11; 117 Stat. 591), of the amounts appropriated for the programs and activities of the Federal Government for fiscal year 2004 that remain available for obligation, not more than $1,000,000 shall be available for transfer to the Commission for purposes of the activities of the Commission under this title.
+Additional Funding.—In addition to the amounts made available to the Commission under subsection (a) and under chapter 2 of title II of the Emergency Wartime Supplemental Appropriations Act, 2003\(Public Law 108–11; 117 Stat. 591), of the amounts appropriated for the programs and activities of the Federal Government for fiscal year 2004 that remain available for obligation, not more than $1,000,000 shall be available for transfer to the Commission for purposes of the activities of the Commission under this title.
 
 "(c)
 
 Duration of Availability.—Amounts made available to the Commission under this section shall remain available until the termination of the Commission."
 
-<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the period.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. A closing parenthesis probably should precede the period.</i>
 

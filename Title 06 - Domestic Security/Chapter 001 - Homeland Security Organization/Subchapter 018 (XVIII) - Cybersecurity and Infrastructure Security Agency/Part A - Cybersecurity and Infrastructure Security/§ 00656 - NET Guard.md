@@ -1,0 +1,16 @@
+### §656. NET Guard
+
+The Director of Cybersecurity and Infrastructure Security may establish a national technology guard, to be known as "NET Guard", comprised of local teams of volunteers with expertise in relevant areas of science and technology, to assist local communities to respond and recover from attacks on information systems and communications networks.
+
+(Pub. L. 107–296, title XXII, §2206, formerly title II, §224, Nov. 25, 2002, 116 Stat. 2156; Pub. L. 110–53, title V, §531(b)(1)(B), Aug. 3, 2007, 121 Stat. 334; renumbered title XXII, §2206, and amended Pub. L. 115–278, §2(g)(2)(I), (9)(A)(ii), Nov. 16, 2018, 132 Stat. 4178, 4180.)
+
+#### Codification
+
+Section was formerly classified to section 144 of this title prior to renumbering by Pub. L. 115–278.
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–278, §2(g)(9)(A)(ii), substituted "Director of Cybersecurity and Infrastructure Security" for "Assistant Secretary for Infrastructure Protection".
+
+<b>2007</b>—Pub. L. 110–53 substituted "Assistant Secretary for Infrastructure Protection" for "Under Secretary for Information Analysis and Infrastructure Protection".
+

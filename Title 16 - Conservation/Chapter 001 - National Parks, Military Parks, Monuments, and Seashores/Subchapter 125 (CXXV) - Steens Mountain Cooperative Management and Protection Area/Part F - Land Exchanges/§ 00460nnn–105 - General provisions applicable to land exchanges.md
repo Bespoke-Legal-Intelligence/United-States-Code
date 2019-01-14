@@ -14,7 +14,7 @@ Title to the non-Federal lands to be conveyed under this part must be acceptable
 
 #### (d) Legal descriptions
 
-The exact acreage and legal description of all lands to be exchanged under this part shall bedetermined by surveys satisfactory to the Secretary. The costs of any such survey, as well as other administrative costs incurred to execute a land exchange under this part, shall be borne by the Secretary.
+The exact acreage and legal description of all lands to be exchanged under this part shall be determined by surveys satisfactory to the Secretary. The costs of any such survey, as well as other administrative costs incurred to execute a land exchange under this part, shall be borne by the Secretary.
 
 (Pub. L. 106–399, title VI, §605, Oct. 30, 2000, 114 Stat. 1673.)
 

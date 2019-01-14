@@ -106,7 +106,11 @@ Not later than 180 days after March 12, 1996, the President shall transmit to th
 
 &emsp;The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and the appropriate congressional committees and shall seek advice from the appropriate advisory committees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\] regarding the policy and negotiating objectives and the legislative proposals described in paragraph (1).
 
-(Pub. L. 104–114, title II, §202, Mar. 12, 1996, 110 Stat. 806; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(W), June 18, 2008, 122 Stat. 1820, 1821.)
+(Pub. L. 104–114, title II, §202, Mar. 12, 1996, 110 Stat. 806; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(W), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 115–254, div. F, title VI, §1470(n), Oct. 5, 2018, 132 Stat. 3518.)
+
+#### Amendment of Subsection (b)(2)(B)(iv)
+
+<i>Pub. L. 115–254, div. F, title VI, §1470(n), (w), Oct. 5, 2018, 132 Stat. 3518, 3519, provided that, effective at the end of the transition period, as defined in section 9681 of this title, subsection (b)(2)(B)(iv) of this section is amended by striking "Overseas Private Investment Corporation" and inserting "United States International Development Finance Corporation". See 2018 Amendment note below.</i>
 
 #### References in Text
 
@@ -116,13 +120,19 @@ The Food for Peace Act, referred to in subsec. (b)(2)(B)(ii), is act July 10, 19
 
 This chapter, referred to in subsec. (e)(1), was in the original "this Act", meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6021 of this title and Tables.
 
-The Trade Act of 1974, referred to in subsec. (h)(1)(B)(ii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978,as amended. Title V of the Act is classified generally to subchapter V (§2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (h)(1)(B)(ii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Act is classified generally to subchapter V (§2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
 The Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(1)(B)(ii), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§2701 et seq.) of Title 19. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 19 and Tables.
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b)(2)(B)(iv). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation".
+
 <b>2008</b>—Subsec. (b)(2)(B)(ii). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of this title, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
 #### Effective Date of 2008 Amendment
 

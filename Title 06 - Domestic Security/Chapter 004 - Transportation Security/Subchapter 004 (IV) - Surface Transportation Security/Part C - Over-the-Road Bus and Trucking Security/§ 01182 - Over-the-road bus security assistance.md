@@ -84,7 +84,7 @@ In carrying out this section, the Secretary shall consult with over-the-road bus
 
 #### (1) In general
 
-&emsp;From the amounts appropriated pursuant to section 114(w) of title 49, there shall be made available to the Secretary to make grants under this section—
+&emsp;From the amounts appropriated pursuant to section 114(w) <sup>1</sup> of title 49, there shall be made available to the Secretary to make grants under this section—
 
 &emsp;&emsp;(A) $12,000,000 for fiscal year 2008;
 
@@ -99,4 +99,10 @@ In carrying out this section, the Secretary shall consult with over-the-road bus
 &emsp;Sums appropriated to carry out this section shall remain available until expended.
 
 (Pub. L. 110–53, title XV, §1532, Aug. 3, 2007, 121 Stat. 457.)
+
+#### References in Text
+
+Section 114(w) of title 49, referred to in subsec. (k)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, §1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

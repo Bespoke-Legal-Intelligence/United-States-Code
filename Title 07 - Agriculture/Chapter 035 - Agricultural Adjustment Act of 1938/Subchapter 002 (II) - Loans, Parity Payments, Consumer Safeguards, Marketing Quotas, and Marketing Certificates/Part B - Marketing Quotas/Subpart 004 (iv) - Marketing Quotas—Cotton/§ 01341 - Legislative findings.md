@@ -24,5 +24,5 @@ Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, an
 
 #### 1947 Marketing Quotas and Acreage Allotments
 
-Joint Res. July 24, 1946, ch. 616, 60 Stat. 662, suspended marketing quotas and acreage allotments for 1947 in view of the critical shortage of fats and oils and protein feeds.
+Joint Res. July 24, 1946, ch. 616, 60 Stat. 662, suspended marketing quotas and acreage allotments for1947 in view of the critical shortage of fats and oils and protein feeds.
 

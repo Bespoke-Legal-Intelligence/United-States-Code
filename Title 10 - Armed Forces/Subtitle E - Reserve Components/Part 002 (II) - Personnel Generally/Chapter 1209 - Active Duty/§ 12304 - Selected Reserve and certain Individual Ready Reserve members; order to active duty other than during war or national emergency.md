@@ -14,7 +14,7 @@ Support for Responses to Certain Emergencies.—The authority under subsection (
 
 (c)
 
-Limitations.—(1) No unit or member of a reserve component may be ordered to active duty under this section to perform any of the functions authorized by chapter 15 or section 12406 of this title or, except as provided in subsection (b), to provide assistance to either the Federal Government or a State in time of a serious natural or manmade disaster, accident, or catastrophe.
+Limitations.—(1) No unit or member of a reserve component may be ordered to active duty under this section to perform any of the functions authorized by chapter 13 or section 12406 of this title or, except as provided in subsection (b), to provide assistance to either the Federal Government or a State in time of a serious natural or manmade disaster, accident, or catastrophe.
 
 (2) Not more than 200,000 members of the Selected Reserve and the Individual Ready Reserve may be on active duty under this section at any one time, of whom not more than 30,000 may be members of the Individual Ready Reserve.
 
@@ -66,13 +66,15 @@ Definitions.—In this section:
 
 &emsp;(2) The term "weapon of mass destruction" has the meaning given that term in section 1403 of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1)).
 
-(Added Pub. L. 94–286, §1, May 14, 1976, 90 Stat. 517, §673b; amended Pub. L. 96–584, §2, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–295, §1(9), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–661, div. A, title V, §521, Nov. 14, 1986, 100 Stat. 3870; renumbered §12304 and amended, Pub. L. 103–337, div. A, title V, §511(a), title XVI, §§1662(e)(2), 1675(c)(2), Oct. 5, 1994, 108 Stat. 2752, 2992, 3017; Pub. L. 105–85, div. A, title V, §511(b)–(e)(1), Nov. 18, 1997, 111 Stat. 1728, 1729; Pub. L. 105–261, div. A, title V, §511(a), Oct. 17, 1998, 112 Stat. 2005; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §514(a), Dec. 2, 2002, 116 Stat. 2539; Pub. L. 108–136, div. A, title V, §515, Nov. 24, 2003, 117 Stat. 1460; Pub. L. 108–375, div. A, title V, §514(c), Oct. 28, 2004, 118 Stat. 1883; Pub. L. 109–364, div. A, title V, §522, title X, §1076(c), Oct. 17, 2006, 120 Stat. 2192, 2406; Pub. L. 110–181, div. A, title X, §§1063(a)(15), 1068(c), Jan. 28, 2008, 122 Stat. 322, 326; Pub. L. 112–81, div. A, title V, §516(b), Dec. 31, 2011, 125 Stat. 1397.)
+(Added Pub. L. 94–286, §1, May 14, 1976, 90 Stat. 517, §673b; amended Pub. L. 96–584, §2, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 97–295, §1(9), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–661, div. A, title V, §521, Nov. 14, 1986, 100 Stat. 3870; renumbered §12304 and amended, Pub. L. 103–337, div. A, title V, §511(a), title XVI, §§1662(e)(2), 1675(c)(2), Oct. 5, 1994, 108 Stat. 2752, 2992, 3017; Pub. L. 105–85, div. A, title V, §511(b)–(e)(1), Nov. 18, 1997, 111 Stat. 1728, 1729; Pub. L. 105–261, div. A, title V, §511(a), Oct. 17, 1998, 112 Stat. 2005; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §514(a), Dec. 2, 2002, 116 Stat. 2539; Pub. L. 108–136, div. A, title V, §515, Nov. 24, 2003, 117 Stat. 1460; Pub. L. 108–375, div. A, title V, §514(c), Oct. 28, 2004, 118 Stat. 1883; Pub. L. 109–364, div. A, title V, §522, title X, §1076(c), Oct. 17, 2006, 120 Stat. 2192, 2406; Pub. L. 110–181, div. A, title X, §§1063(a)(15), 1068(c), Jan. 28, 2008, 122 Stat. 322, 326; Pub. L. 112–81, div. A, title V, §516(b), Dec. 31, 2011, 125 Stat. 1397; Pub. L. 115–232, div. A, title XII, §1204(a)(5), Aug. 13, 2018, 132 Stat. 2017.)
 
 #### References in Text
 
 The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–232 substituted "chapter 13" for "chapter 15".
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–81 inserted "named" before "operational mission" and substituted "365 consecutive days" for "365 days".
 
@@ -226,7 +228,7 @@ This order is intended only to improve the internal management of the executive 
 
 Ex. Ord. No. 13529, Jan. 16, 2010, 75 F.R. 3331, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active Armed Forces of the United States for the effective conduct of operational missions, including those involving humanitarian assistance, related to relief efforts in Haiti necessitated by the earthquake on January 12, 2010. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, under their respective jurisdictions, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve, or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, and to terminate the service of those units and members ordered to active duty.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active Armed Forces of the United States for the effective conduct of operational missions, including those involving humanitarian assistance, related to relief efforts in Haiti necessitated by the earthquake on January 12, 2010. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, under their respective jurisdictions, to order to active duty any units, and any individual members not assigned to a unit organized toserve as a unit, of the Selected Reserve, or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, and to terminate the service of those units and members ordered to active duty.
 
 This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 

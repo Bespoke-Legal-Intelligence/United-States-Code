@@ -32,7 +32,7 @@ The Corps shall be composed of individuals who—
 
 #### (2) Drills
 
-&emsp;In conjunction with the core training programs referred to in paragraph (1), and in order to facilitate the integration of trainedvolunteers into the health care system at the local level, Corps members shall engage in periodic training exercises to be carried out at the local level. Such training exercises shall, as appropriate and applicable, incorporate the needs of at-risk individuals in the event of a public health emergency.
+&emsp;In conjunction with the core training programs referred to in paragraph (1), and in order to facilitate the integration of trained volunteers into the health care system at the local level, Corps members shall engage in periodic training exercises to be carried out at the local level. Such training exercises shall, as appropriate and applicable, incorporate the needs of at-risk individuals in the event of a public health emergency.
 
 #### (e) Deployment
 

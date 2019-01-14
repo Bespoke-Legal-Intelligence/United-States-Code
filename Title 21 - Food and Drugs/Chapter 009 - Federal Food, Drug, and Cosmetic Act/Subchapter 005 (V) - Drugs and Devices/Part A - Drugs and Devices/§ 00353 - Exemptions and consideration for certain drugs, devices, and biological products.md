@@ -12,7 +12,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(B) is limited by an approved application under section 355 of this title to use under the professional supervision of a practitioner licensed by law to administer such drug;
 
-> shall be dispensed only (i) upon a written prescription of a practitioner licensed by law to administer such drug, or (ii) upon an oral prescription of such practitioner which is reduced promptly to writing and filed by the pharmacist, or (iii) by refilling any such written or oral prescription if such refilling is authorized by the prescriber either in the original prescription orby oral order which is reduced promptly to writing and filed by the pharmacist. The act of dispensing a drug contrary to the provisions of this paragraph shall be deemed to be an act which results in the drug being misbranded while held for sale.
+> shall be dispensed only (i) upon a written prescription of a practitioner licensed by law to administer such drug, or (ii) upon an oral prescription of such practitioner which is reduced promptly to writing and filed by the pharmacist, or (iii) by refilling any such written or oral prescription if such refilling is authorized by the prescriber either in the original prescription or by oral order which is reduced promptly to writing and filed by the pharmacist. The act of dispensing a drug contrary to the provisions of this paragraph shall be deemed to be an act which results in the drug being misbranded while held for sale.
 
 (2) Any drug dispensed by filling or refilling a written or oral prescription of a practitioner licensed by law to administer such drug shall be exempt from the requirements of section 352 of this title, except paragraphs (a), (i)(2) and (3), (k), and (l), and the packaging requirements of paragraphs (g), (h), and (p), if the drug bears a label containing the name and address of the dispenser, the serial number and date of the prescription or of its filling, the name of the prescriber, and, if stated in the prescription, the name of the patient, and the directions for use and cautionary statements, if any, contained in such prescription. This exemption shall not apply to any drug dispensed in the course of the conduct of a business of dispensing drugs pursuant to diagnosis by mail, or to a drug dispensed in violation of paragraph (1) of this subsection.
 
@@ -204,7 +204,7 @@ State licensing fees.—Nothing in this chapter shall prohibit States from colle
 
 &emsp;&emsp;&emsp;(I) purchased such product directly from the pharmaceutical manufacturer or from a wholesale distributor that purchased the product directly from the pharmaceutical manufacturer; and
 
-&emsp;&emsp;&emsp;(II) does not alter the primary container or label of the product as purchased fromthe manufacturer or wholesale distributor; and
+&emsp;&emsp;&emsp;(II) does not alter the primary container or label of the product as purchased from the manufacturer or wholesale distributor; and
 
 &emsp;&emsp;(iv) in the case of a medical convenience kit that includes a product, the product is—
 
@@ -240,7 +240,7 @@ Third-party logistics providers.—Notwithstanding paragraphs (1) through (4), e
 
 (6)
 
-Affiliate.—For purposes of this subsection, the term "affiliate" means a business entity that has a relationship with a second business entity if, directly or indirectly—
+Affiliate.—For purposes of this subsection, the term "affiliate" means a businessentity that has a relationship with a second business entity if, directly or indirectly—
 
 &emsp;(A) one business entity controls, or has the power to control, the other business entity; or
 
@@ -280,7 +280,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 (3) The Secretary may by regulation exempt drugs for animals other than man subject to section 360b, 360ccc, or 360ccc–1 of this title from the requirements of paragraph (1) when such requirements are not necessary for the protection of the public health.
 
-(4) A drug which is subject to paragraph (1) shall be deemed to be misbranded if at any time prior to dispensing its label fails to bear the statement "Caution: Federal law restricts this drug to use by or on the order of a licensed veterinarian.". A drug to which paragraph (1) doesnot apply shall be deemed to be misbranded if at any time prior to dispensing its label bears the statement specified in the preceding sentence.
+(4) A drug which is subject to paragraph (1) shall be deemed to be misbranded if at any time prior to dispensing its label fails to bear the statement "Caution: Federal law restricts this drug to use by or on the order of a licensed veterinarian.". A drug to which paragraph (1) does not apply shall be deemed to be misbranded if at any time prior to dispensing its label bears the statement specified in the preceding sentence.
 
 #### (g) Regulation of combination products
 
@@ -308,7 +308,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 &emsp;(II) if the sponsor proposes any such studies, the Secretary and the sponsor of such product shall collaborate and seek to reach agreement, within a reasonable time of such proposal, not to exceed 90 calendar days, on the design of such studies; and
 
-&emsp;(III) if an agreement is reached under subclause (II) and the sponsor conducts one or more of such studies, the Secretary shall consider the data resulting from any such study when reevaluating the determination of the primary mode of action of such product, and unless and until such reevaluation has occurred and the Secretary issues a new determination, the determination of the Secretary under subparagraph (D) shall remain in effect.
+&emsp;(III) if an agreement is reached under subclause (II) and the sponsor conducts one ormore of such studies, the Secretary shall consider the data resulting from any such study when reevaluating the determination of the primary mode of action of such product, and unless and until such reevaluation has occurred and the Secretary issues a new determination, the determination of the Secretary under subparagraph (D) shall remain in effect.
 
 (2)(A) <sup>1</sup> (i) To establish clarity and certainty for the sponsor, the sponsor of a combination product may request a meeting on such combination product. If the Secretary concludes that a determination of the primary mode of action pursuant to paragraph (1)(D) is necessary, the sponsor may request such meeting only after the Secretary makes such determination. If the sponsor submits a written meeting request, the Secretary shall, not later than 75 calendar days after receiving such request, meet with the sponsor of such combination product.
 
@@ -332,7 +332,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 (4) For purposes of paragraph (3), an approved constituent part is—
 
-&emsp;(A) a drug constituent part of a combination product being reviewed in a single application or request under section 360e, 360(k), or 360c(f)(2) of this title (submitted in accordancewith paragraph (5)), that is an approved drug, provided such application or request complies with paragraph (5);
+&emsp;(A) a drug constituent part of a combination product being reviewed in a single application or request under section 360e, 360(k), or 360c(f)(2) of this title (submitted in accordance with paragraph (5)), that is an approved drug, provided such application or request complies with paragraph (5);
 
 &emsp;(B) a device constituent part approved under section 360e of this title that is referenced by the sponsor and that is available for use by the Secretary under section 360j(h)(4) of this title; or
 
@@ -386,7 +386,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 &emsp;(I) ensure that any meeting between the Secretary and the sponsor of such product is attended by each agency center involved in the review, as appropriate;
 
-&emsp;(II) ensure that each consulting agency center has completed its premarket review andprovided the results of such review to the primary agency center in a timely manner; and
+&emsp;(II) ensure that each consulting agency center has completed its premarket review and provided the results of such review to the primary agency center in a timely manner; and
 
 &emsp;(III) ensure that each consulting center follows the guidance described in clause (vi) and advises, as appropriate, on other relevant regulations, guidances, and policies.
 
@@ -442,7 +442,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 &emsp;(D) The terms "premarket review" and "reviews" include all activities of the Food and Drug Administration conducted prior to approval or clearance of an application, notification, or request for classification submitted under section 355, 360(k), 360c(f)(2), 360e, or 360j of this title or under section 351 of the Public Health Service Act \[42 U.S.C. 262\], including with respect to investigational use of the product.
 
-(June 25, 1938, ch. 675, §503, 52 Stat. 1051; Oct. 26, 1951, ch. 578, §1, 65 Stat. 648; Pub. L. 87–781, title I, §104(e)(2), Oct. 10, 1962, 76 Stat. 785; Pub. L. 91–601, §6(e), formerly §7(e), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 100–293, §§4–6, Apr. 22, 1988, 102 Stat. 96–98; Pub. L. 100–670, title I, §105, Nov. 16, 1988, 102 Stat.3983; Pub. L. 101–629, §16(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–108, §2(d), Aug. 17, 1991, 105 Stat. 550; Pub. L. 102–300, §6(d), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §§2(a)–(c), 4, Aug. 26, 1992, 106 Stat. 941, 942; Pub. L. 104–250, §5(a), Oct. 9, 1996, 110 Stat. 3155; Pub. L. 105–115, title I, §§123(e), 126(a), (c)(1), (2), Nov. 21, 1997, 111 Stat. 2324, 2327, 2328; Pub. L. 107–250, title II, §204, Oct. 26, 2002, 116 Stat. 1611; Pub. L. 108–282, title I, §102(b)(5)(F), Aug. 2, 2004, 118 Stat. 903; Pub. L. 113–54, title II, §204(a)(1)–(4), (b), Nov. 27, 2013, 127 Stat. 630–635; Pub. L. 114–255, div. A, title III, §3038(a), Dec. 13, 2016, 130 Stat. 1105.)
+(June 25, 1938, ch. 675, §503, 52 Stat. 1051; Oct. 26, 1951, ch. 578, §1, 65 Stat. 648; Pub. L. 87–781, title I, §104(e)(2), Oct. 10, 1962, 76 Stat. 785; Pub. L. 91–601, §6(e), formerly §7(e), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 100–293, §§4–6, Apr. 22, 1988, 102 Stat. 96–98; Pub. L. 100–670, title I, §105, Nov. 16, 1988, 102 Stat. 3983; Pub. L. 101–629, §16(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–108, §2(d), Aug. 17, 1991, 105 Stat. 550; Pub. L. 102–300, §6(d), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §§2(a)–(c), 4, Aug. 26, 1992, 106 Stat. 941, 942; Pub. L. 104–250, §5(a), Oct. 9, 1996, 110 Stat. 3155; Pub. L. 105–115, title I, §§123(e), 126(a), (c)(1), (2), Nov. 21, 1997, 111 Stat. 2324, 2327, 2328; Pub. L. 107–250, title II, §204, Oct. 26, 2002, 116 Stat. 1611; Pub. L. 108–282, title I, §102(b)(5)(F), Aug. 2, 2004, 118 Stat. 903; Pub. L. 113–54, title II, §204(a)(1)–(4), (b), Nov. 27, 2013, 127 Stat. 630–635; Pub. L. 114–255, div. A, title III, §3038(a), Dec. 13, 2016, 130 Stat. 1105.)
 
 #### References in Text
 
@@ -450,7 +450,7 @@ The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in 
 
 The Public Health Service Act, referred to in subsec. (g)(2)(A)(iv)(II), (3), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-Section 357 of this title, referred to in subsec. (g)(5)(C)(i), was repealed by Pub. L. 105–115, title I, §125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
+Section 357 of this title, referred to in subsec. (g)(9)(C)(i), was repealed by Pub. L. 105–115, title I, §125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
 
 #### Codification
 
@@ -468,7 +468,7 @@ In subsec. (b)(5), "sections 4721, 6001, and 6151 of title 26" and "section 4761
 
 Subsec. (g)(2). Pub. L. 114–255, §3038(a)(4), added par. (2). Former par. (2) redesignated (7).
 
-Subsec. (g)(3). Pub. L. 114–255, §3038(a)(1), (4), added par. (3) and struck out former par. (3) which read as follows: "The Secretary shall promulgate regulations to implement market clearance procedures in accordance with paragraphs (1) and (2) not later than 1 year after November 28, 1990."
+Subsec. (g)(3). Pub. L. 114–255, §3038(a)(1), (4), added par. (3) and struck out former par. (3) which read as follows: "The Secretary shall promulgate regulations to implement market clearance procedures in accordancewith paragraphs (1) and (2) not later than 1 year after November 28, 1990."
 
 Subsec. (g)(4) to (6). Pub. L. 114–255, §3038(a)(4), added pars. (4) to (6). Former pars. (4) and (5) redesignated (8) and (9), respectively.
 
@@ -644,7 +644,7 @@ Plan.—The plan described in subsection (a) shall—
 
 "(d)
 
-Limitation on the Authority of the Secretary.—The Secretary of the Department of Health and Human Services shall have no authority to implement the proposed rule described in subsection (a), or to develop any similar regulation, policy statement, or other guideline specifying a uniform content or format for written information voluntarily provided to consumers about prescription drugs if, (1) not later than 120 days after the date of enactment of this Act \[Aug. 6, 1996\], the national organizations described in subsection (a) develop and submit to the Secretary for Health and Human Services a comprehensive, long-range action plan (as described in subsection (a)) which shall be acceptable to the Secretary of Health and Human Services; (2) the aforementioned plan is submitted to the Secretary of Health and Human Services for review and acceptance: <i>Provided</i>, That the Secretary shall give due consideration to the submitted plan and that any such acceptance shall not be arbitrarily withheld; and (3) the implementation of (a) a plan accepted by the Secretary commences within 30 days of the Secretary's acceptance of such plan, or (b) the plan submitted to the Secretary commences within 60 days of the submission of such plan if the Secretary fails to take any action on the plan within 30 days of the submission of the plan. The Secretary shall accept, reject or suggest modifications to the plan submitted within 30 days of its submission. The Secretary may confer with and assist private parties in the development of the plan described in subsections (a) and (b).
+Limitation on the Authority of the Secretary.—The Secretary of the Department of Health and Human Services shall have no authority to implement the proposed rule described in subsection (a), or to develop any similar regulation, policy statement, or other guideline specifying a uniform content or format for written information voluntarily provided to consumers about prescription drugs if, (1) not later than 120 days after the date of enactment of this Act \[Aug. 6, 1996\], the national organizations described in subsection (a) develop and submit to the Secretary for Health and Human Services a comprehensive, long-range action plan (as described in subsection (a)) which shall be acceptable to the Secretary of Health and Human Services; (2) the aforementioned plan is submitted to the Secretary of Health and Human Services for review and acceptance: <i>Provided</i>, That the Secretary shall give due consideration to the submitted plan and that any such acceptance shall not be arbitrarily withheld; and (3) the implementation of (a) a plan accepted by the Secretary commences within 30 days of the Secretary's acceptance of such plan, or (b) the plan submitted to the Secretary commences within 60 days of the submission of such plan if the Secretary fails totake any action on the plan within 30 days of the submission of the plan. The Secretary shall accept, reject or suggest modifications to the plan submitted within 30 days of its submission. The Secretary may confer with and assist private parties in the development of the plan described in subsections (a) and (b).
 
 "(e)
 

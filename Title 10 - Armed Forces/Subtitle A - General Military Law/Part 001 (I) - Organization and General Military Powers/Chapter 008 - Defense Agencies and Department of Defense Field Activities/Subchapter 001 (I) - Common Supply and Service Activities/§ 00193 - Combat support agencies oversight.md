@@ -46,7 +46,7 @@ Definition of Combat Support Agency.—In this section, the term "combat support
 
 &emsp;(5) Any other Defense Agency designated as a combat support agency by the Secretary of Defense.
 
-(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 104–201, div. A, title XI, §1112(c), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 105–85, div. A, title X, §1073(a)(5), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, §921(d)(3), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 109–364, div. A, title IX, §907, Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–181, div. A, title IX, §931(a)(2), (3), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(1), (2), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–66, div. A, title X, §1082, Dec. 26, 2013, 127 Stat. 871.)
+(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 104–201, div. A, title XI, §1112(c), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 105–85, div. A, title X, §1073(a)(5), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, §921(d)(3), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 109–364, div. A, title IX, §907, Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–181, div. A, title IX, §931(a)(2), (3), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(1), (2), Oct. 14,2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–66, div. A, title X, §1082, Dec. 26, 2013, 127 Stat. 871.)
 
 #### Amendments
 
@@ -85,6 +85,70 @@ Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, pro
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–201, div. A, title XI, §1124, Sept. 23, 1996, 110 Stat. 2688, provided that: "This title \[enacting section 424 and chapter 22 of this title and sections 3045 and 3046 of Title 50, War and National Defense, amending this section, sections 201 and 451 to 456 of this title, sections 2302, 3132, 4301, 4701, 5102, 5342, 6339, and 7323 of Title 5, Government Organization and Employees, section 105 of the Ethics in Government Act of 1978, set out in the Appendix to Title 5, section 82 of Title 14, Coast Guard, section 2006 of Title 29, Labor, section 1336 of Title 44, Public Printing and Documents, and sections 3003 and 3038 of Title 50, renumbering chapter 22 and sections 451, 452, 2792 to 2796, and 2798 of this title as chapter 23 and sections 481, 482, 451 to 455, and 456 of this title, respectively, repealing sections 424, 425, 2791, and 2797 of this title, enacting provisions set out as notes under section 441 of this title, and amending provisions set out as a note under section 501 of Title 44\] and the amendments made by this title shall take effect on October 1, 1996, or the date of the enactment of this Act \[Sept. 23, 1996\], whichever is later."
+
+#### Framework on Governance, Mission Management, Resourcing, and Effective Oversight of Combat Support Agencies That Are Also Elements of the Intelligence Community
+
+Pub. L. 115–232, div. A, title XVI, §1626, Aug. 13, 2018, 132 Stat. 2121, provided that:
+
+"(a)
+
+Framework Required.—
+
+&emsp;"(1)
+
+In general.—In accordance with section 105 of the National Security Act of 1947 (50 U.S.C. 3038), section 193 of title 10, United States Code, and section 1018 of the National Security Intelligence Reform Act of 2004 (Public Law 108–458; 50 U.S.C. 3023 note), the Secretary of Defense, in coordination with the Director of National Intelligence, shall develop and establish in policy a framework and supporting processes within the Department of Defense to help ensure that the missions, roles, and functions of the combat support agencies of the Department of Defense that are also elements of the intelligence community, and other intelligence components of the Department, are appropriately balanced and resourced.
+
+&emsp;"(2)
+
+Scope.—The framework shall include a consistent, repeatable process for the evaluation of proposed additions, transfers, or eliminations of a mission, role, or functions and associated resource profiles of the elements described in paragraph (1) for purposes of preventing imbalances in priorities, insufficient or misaligned resources, and the unauthorized expansion of mission parameters.
+
+"(b)
+
+Elements.—The framework required by subsection (a) shall include the following:
+
+&emsp;"(1) A lexicon of relevant terms used by the Department of Defense and the Office of the Director of National Intelligence that—
+
+&emsp;&emsp;"(A) ensures consistent definitions are used in determinations about the balance described in subsection (a)(1); and
+
+&emsp;&emsp;"(B) reconciles jointly used definitions.
+
+&emsp;"(2) A reevaluation of the intelligence components of the Department, including the Joint Intelligence Centers and Joint Intelligence Operations Centers within the combatant commands, in order to determine which components should be formally designated as part of the intelligence community and any components not so designated conform to relevant tradecraft standards.
+
+&emsp;"(3) A repeatable process of the Department for evaluating the addition, transfer, or elimination of defense intelligence missions, roles, and functions, currently or to be performed by elements described in subsection (a)(1) that includes—
+
+&emsp;&emsp;"(A) a justification for any proposed addition, transfer, or elimination of a mission, role, or function;
+
+&emsp;&emsp;"(B) the identification of the elements in the Federal Government, if any, that currently perform the mission, role, or function concerned;
+
+&emsp;&emsp;"(C) for any proposed addition of a mission, role, or function, an assessment of the most appropriate element of the Department to assume it, taking into account current resource profiles, scope of existing responsibilities, primary customers, and infrastructure necessary to support the addition; and
+
+&emsp;&emsp;"(D) for any proposed addition or transfer of a mission, role, or function—
+
+&emsp;&emsp;&emsp;"(i) a determination of the appropriate resource profile for such mission, role, or function; and
+
+&emsp;&emsp;&emsp;"(ii) the identification, in writing, for the Department elements concerned of the resources anticipated to be needed and source of such resources during the period covered by the future-years defense program submitted to Congress under section 221 of title 10, United States Code, as in effect at the time of the proposed addition or transfer.
+
+"(c)
+
+Briefing.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary, in coordination with the Director, shall provide to the Committees on Armed Services of the House of Representatives and the Senate, and to any other appropriate congressional committee upon request, a briefing on the framework required by subsection (a).
+
+"(d)
+
+Policy.—Not later than 270 days after the date of the enactment of this Act, the Secretary, in coordination with the Director, shall submit to the appropriate congressional committees a report setting forth the policy establishing the framework required by subsection (a).
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;"(2) The term 'combat support agency' has the meaning given that term in section 193 of title 10, United States Code.
+
+&emsp;"(3) The term 'intelligence community' has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))."
 
 #### First Report and Other Actions by Chairman of Joint Chiefs of Staff
 

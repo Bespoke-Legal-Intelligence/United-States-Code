@@ -1,6 +1,6 @@
 ### §5211. Production and entry of distilled spirits
 
-Distilled spirits in the process of production in a distilled spirits plant may be held prior to the production gauge only for so long as is reasonably necessary to complete the process of production. Under such regulations as the Secretary shall prescribe, all distilled spirits produced in a distilled spirits plant shall be gaugedand a record made of such gauge within a reasonable time after the production thereof has been completed. The proprietor shall, pursuant to such production gauge and in accordance with such regulations as the Secretary shall prescribe, make appropriate entry for—
+Distilled spirits in the process of production in a distilled spirits plant may be held prior to the production gauge only for so long as is reasonably necessary to complete the process of production. Under such regulations as the Secretary shall prescribe, all distilled spirits produced in a distilled spirits plant shall be gauged and a record made of such gauge within a reasonable time after the production thereof has been completed. The proprietor shall, pursuant to such production gauge and in accordance with such regulations as the Secretary shall prescribe, make appropriate entry for—
 
 &emsp;(1) deposit of such spirits on bonded premises for storage or processing;
 
@@ -20,7 +20,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-<b>1979</b>—Pars. (1), (5). Pub. L. 96–39 substituted in par. (1) "on bonded premises for storage or processing" for "in storage on bonded premises" and struck out par. (5) which related to an appropriate entry by the proprietor for immediate denaturation.
+<b>1979</b>—Pars. (1), (5). Pub. L. 96–39 substituted in par. (1) "on bonded premises for storage or processing" for "instorage on bonded premises" and struck out par. (5) which related to an appropriate entry by the proprietor for immediate denaturation.
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 

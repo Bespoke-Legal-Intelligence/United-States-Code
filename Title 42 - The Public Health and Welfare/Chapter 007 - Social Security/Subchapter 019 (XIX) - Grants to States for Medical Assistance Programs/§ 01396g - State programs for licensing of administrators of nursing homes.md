@@ -26,7 +26,7 @@ It shall be the function and duty of such agency or board to—
 
 #### (d) Waiver of standards other than good character or suitability standards
 
-No State shall be considered to have failed to comply with the provisions of section 1396a(a)(29) of this title because the agency or board of such State (established pursuant tosubsection (b)) shall have granted any waiver, with respect to any individual who, during all of the three calendar years immediately preceding the calendar year in which the requirements prescribed in section 1396a(a)(29) of this title are first met by the State, has served as a nursing home administrator, of any of the standards developed, imposed, and enforced by such agency or board pursuant to subsection (c).
+No State shall be considered to have failed to comply with the provisions of section 1396a(a)(29) of this title because the agency or board of such State (established pursuant to subsection (b)) shall have granted any waiver, with respect to any individual who, during all of the three calendar years immediately preceding the calendar year in which the requirements prescribed in section 1396a(a)(29) of this title are first met by the State, has served as a nursing home administrator, of any of the standards developed, imposed, and enforced by such agency or board pursuant to subsection (c).
 
 #### (e) "Nursing home" and "nursing home administrator" defined
 
@@ -50,7 +50,7 @@ Another section 1908 of act Aug. 14, 1935, was renumbered section 1908A and is c
 
 <b>1997</b>—Subsec. (e)(1). Pub. L. 105–33 which directed substitution of "a religious nonmedical health care institution (as defined in section 1395x(ss)(1) of this title)." for "a Christian Science sanatorium operated, or listed and certified, by the First Church of Christ, Scientist, Boston, Massachusetts; and" in "Section 1908(e)(1) (42 U.S.C. 1396g–1(e)(1))" of the Social Security Act, was executed by making the substitution in subsec. (e)(1) of this section to reflect the probable intent of Congress, because section 1396g–1 of this title, which is also section 1908 of the Social Security Act, does not have a subsec. (e).
 
-<b>1996</b>—Subsec. (e)(1). Pub. L. 104–193, which directed substitution of "The Commission for Accreditation of Christian Science Nursing Organizations/Facilities, Inc." for "The First Church of Christ, Scientist, Boston, Massachusetts" in section 1908(e)(1) of the Social Security Act (42 U.S.C. 1396g–1(e)(1)) could not be executed to this section or section 1396g–1 of this title, both of which are section 1908. Section 1396g–1 does not have a subsec. (e) and subsec. (e)(1) of this section does not contain the quoted language with the word "the" capitalized.
+<b>1996</b>—Subsec. (e)(1). Pub. L. 104–193, which directed substitution of "The Commission for Accreditation of Christian Science Nursing Organizations/Facilities, Inc." for "The First Church of Christ, Scientist, Boston, Massachusetts" in section 1908(e)(1) of the Social Security Act (42 U.S.C. 1396g–1(e)(1)) could not be executed to this section or section 1396g–1 of this title, both of which are section 1908. Section 1396g–1 does nothave a subsec. (e) and subsec. (e)(1) of this section does not contain the quoted language with the word "the" capitalized.
 
 <b>1973</b>—Subsec. (d). Pub. L. 93–233 struck out second sentence reading substantially the same as the first sentence but containing the following additional text reading "other than such standards as relate to good character or suitability if—
 

@@ -2,13 +2,13 @@
 
 (a)
 
-Contents of Wire or Electronic Communications in Electronic Storage.—A governmental entity may require the disclosure by a provider of electronic communication service of the contents of a wire or electronic communication, that is in electronic storage in an electronic communications system for one hundred and eighty days or less, only pursuant to a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures) by a court of competent jurisdiction. A governmental entity may require the disclosure by a provider of electronic communications services of the contents of a wire or electronic communication that has been in electronic storage in an electronic communications system for more than one hundred and eighty days by the means available under subsection (b) of this section.
+Contents of Wire or Electronic Communications in Electronic Storage.—A governmental entity may require the disclosure by a provider of electronic communication service of the contents of a wire or electronic communication, that is in electronic storage in an electronic communications system for one hundred and eighty days or less, only pursuant to a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures and, in the case of a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title, in accordance with regulations prescribed by the President) by a court of competent jurisdiction. A governmental entity may require the disclosure by a provider of electronic communications services of the contents of a wire or electronic communication that has been in electronic storage in an electronic communications system for more than one hundred and eighty days by the means available under subsection (b) of this section.
 
 (b)
 
 Contents of Wire or Electronic Communications in a Remote Computing Service.—(1) A governmental entity may require a provider of remote computing service to disclose the contents of any wire or electronic communication to which this paragraph is made applicable by paragraph (2) of this subsection—
 
-&emsp;(A) without required notice to the subscriber or customer, if the governmental entity obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures) by a court of competent jurisdiction; or
+&emsp;(A) without required notice to the subscriber or customer, if the governmental entity obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures and, in the case of a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title, in accordance with regulations prescribed by the President) by a court of competent jurisdiction; or
 
 &emsp;(B) with prior notice from the governmental entity to the subscriber or customer if the governmental entity—
 
@@ -28,7 +28,7 @@ Contents of Wire or Electronic Communications in a Remote Computing Service.—(
 
 Records Concerning Electronic Communication Service or Remote Computing Service.—(1) A governmental entity may require a provider of electronic communication service or remote computing service to disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications) only when the governmental entity—
 
-&emsp;(A) obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures) by a court of competent jurisdiction;
+&emsp;(A) obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures and, in the case of a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title, in accordance with regulations prescribed by the President) by a court of competent jurisdiction;
 
 &emsp;(B) obtains a court order for such disclosure under subsection (d) of this section;
 
@@ -80,25 +80,79 @@ Period of retention.—Records referred to in paragraph (1) shall be retained fo
 
 Presence of Officer Not Required.—Notwithstanding section 3105 of this title, the presence of an officer shall not be required for service or execution of a search warrant issued in accordance with this chapter requiring disclosure by a provider of electronic communications service or remote computing service of the contents of communications or records or other information pertaining to a subscriber to or customer of such service.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, §330003(b), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 103–414, title II, §207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, §804, Apr. 24, 1996, 110 Stat. 1305; Pub. L. 104–293, title VI, §601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, §605(f), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–184, §8, June 23, 1998, 112 Stat. 522; Pub. L. 107–56, title II, §§209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, 115 Stat. 283, 285, 291, 292; Pub. L. 107–273, div. B, title IV, §4005(a)(2), div. C, title I, §11010, Nov. 2, 2002, 116 Stat. 1812, 1822; Pub. L. 107–296, title II, §225(h)(1), Nov. 25, 2002, 116 Stat. 2158; Pub. L. 109–162, title XI, §1171(a)(1), Jan. 5, 2006, 119 Stat. 3123; Pub. L. 111–79, §2(1), Oct. 19, 2009, 123 Stat. 2086; Pub. L. 114–328, div. E, title LVII, §5228(b)(1), Dec. 23, 2016, 130 Stat. 2912.)
+(h)
 
-#### Amendment of Subsections (a), (b)(1)(A), and (c)(1)(A)
+Comity Analysis and Disclosure of Information Regarding Legal Process Seeking Contents of Wire or Electronic Communication.—
 
-<i>Pub. L. 114–328, div. E, title LVII, §5228(b)(1), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2912, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended—</i>
+&emsp;(1)
 
-<i>(1) in the first sentence of subsection (a);</i>
+Definitions.—In this subsection—
 
-<i>(2) in subsection (b)(1)(A); and</i>
+&emsp;&emsp;(A) the term "qualifying foreign government" means a foreign government—
 
-<i>(3) in subsection (c)(1)(A);</i>
+&emsp;&emsp;&emsp;(i) with which the United States has an executive agreement that has entered into force under section 2523; and
 
-<i>by inserting after "warrant procedures" the following: "and, in the case of a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title, in accordance with regulations prescribed by the President". See 2016 Amendment note below.</i>
+&emsp;&emsp;&emsp;(ii) the laws of which provide to electronic communication service providers and remote computing service providers substantive and procedural opportunities similar to those provided under paragraphs (2) and (5); and
+
+&emsp;&emsp;(B) the term "United States person" has the meaning given the term in section 2523.
+
+&emsp;(2)
+
+Motions to quash or modify.—(A) A provider of electronic communication service to the public or remote computing service, including a foreign electronic communication service or remote computing service, that is being required to disclose pursuant to legal process issued under this section the contents of a wire or electronic communication of a subscriber or customer, may file a motion to modify or quash the legal process where the provider reasonably believes—
+
+&emsp;&emsp;(i) that the customer or subscriber is not a United States person and does not reside in the United States; and
+
+&emsp;&emsp;(ii) that the required disclosure would create a material risk that the provider would violate the laws of a qualifying foreign government.
+
+> &emsp;&emsp;Such a motion shall be filed not later than 14 days after the date on which the provider was served with the legal process, absent agreement with the government or permission from the court to extend the deadline based on an application made within the 14 days. The right to move to quash is without prejudice to any other grounds to move to quash or defenses thereto, but it shall be the sole basis for moving to quash on the grounds of a conflict of law related to a qualifying foreign government.
+
+&emsp;(B) Upon receipt of a motion filed pursuant to subparagraph (A), the court shall afford the governmental entity that applied for or issued the legal process under this section the opportunity to respond. The court may modify or quash the legal process, as appropriate, only if the court finds that—
+
+&emsp;&emsp;(i) the required disclosure would cause the provider to violate the laws of a qualifying foreign government;
+
+&emsp;&emsp;(ii) based on the totality of the circumstances, the interests of justice dictate that the legal process should be modified or quashed; and
+
+&emsp;&emsp;(iii) the customer or subscriber is not a United States person and does not reside in the United States.
+
+&emsp;(3)
+
+Comity analysis.—For purposes of making a determination under paragraph (2)(B)(ii), the court shall take into account, as appropriate—
+
+&emsp;&emsp;(A) the interests of the United States, including the investigative interests of the governmental entity seeking to require the disclosure;
+
+&emsp;&emsp;(B) the interests of the qualifying foreign government in preventing any prohibited disclosure;
+
+&emsp;&emsp;(C) the likelihood, extent, and nature of penalties to the provider or any employees of the provider as a result of inconsistent legal requirements imposed on the provider;
+
+&emsp;&emsp;(D) the location and nationality of the subscriber or customer whose communications are being sought, if known, and the nature and extent of the subscriber or customer's connection to the United States, or if the legal process has been sought on behalf of a foreign authority pursuant to section 3512, the nature and extent of the subscriber or customer's connection to the foreign authority's country;
+
+&emsp;&emsp;(E) the nature and extent of the provider's ties to and presence in the United States;
+
+&emsp;&emsp;(F) the importance to the investigation of the information required to be disclosed;
+
+&emsp;&emsp;(G) the likelihood of timely and effective access to the information required to be disclosed through means that would cause less serious negative consequences; and
+
+&emsp;&emsp;(H) if the legal process has been sought on behalf of a foreign authority pursuant to section 3512, the investigative interests of the foreign authority making the request for assistance.
+
+&emsp;(4)
+
+Disclosure obligations during pendency of challenge.—A service provider shall preserve, but not be obligated to produce, information sought during the pendency of a motion brought under this subsection, unless the court finds that immediate production is necessary to prevent an adverse result identified in section 2705(a)(2).
+
+&emsp;(5)
+
+Disclosure to qualifying foreign government.—(A) It shall not constitute a violation of a protective order issued under section 2705 for a provider of electronic communication service to the public or remote computing service to disclose to the entity within a qualifying foreign government, designated in an executive agreement under section 2523, the fact of the existence of legal process issued under this section seeking the contents of a wire or electronic communication of a customer or subscriber who is a national or resident of the qualifying foreign government.
+
+&emsp;(B) Nothing in this paragraph shall be construed to modify or otherwise affect any other authority to make a motion to modify or quash a protective order issued under section 2705.
+
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, §330003(b), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 103–414, title II, §207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, §804, Apr. 24, 1996, 110 Stat. 1305; Pub. L. 104–293, title VI, §601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, §605(f), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–184, §8, June 23, 1998, 112 Stat. 522; Pub. L. 107–56, title II, §§209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, 115 Stat. 283, 285, 291, 292; Pub. L. 107–273, div. B, title IV, §4005(a)(2), div. C, title I, §11010, Nov. 2, 2002, 116 Stat. 1812, 1822; Pub. L. 107–296, title XXII, §2207(h)(1), formerly title II, §225(h)(1), Nov. 25, 2002, 116 Stat. 2158, renumbered §2207(h)(1), Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 109–162, title XI, §1171(a)(1), Jan. 5, 2006, 119 Stat. 3123; Pub. L. 111–79, §2(1), Oct. 19, 2009, 123 Stat. 2086; Pub. L. 114–328, div. E, title LVII, §5228(b)(1), Dec. 23, 2016, 130 Stat. 2912; Pub. L. 115–141, div. V, §103(b), Mar. 23, 2018, 132 Stat. 1214.)
 
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsecs. (a), (b)(1)(A), and (c)(1)(B)(i), are set out in the Appendix to this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (h). Pub. L. 115–141 added subsec. (h).
 
 <b>2016</b>—Subsecs. (a), (b)(1)(A), (c)(1)(A). Pub. L. 114–328 inserted "and, in the case of a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title, in accordance with regulations prescribed by the President" after "warrant procedures".
 
@@ -122,7 +176,7 @@ Subsec. (b)(1). Pub. L. 107–56, §§209(2)(C), 220(a)(1), substituted "any wir
 
 Subsec. (b)(2). Pub. L. 107–56, §209(2)(C), substituted "any wire or electronic communication" for "any electronic communication" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 107–56, §§212(b)(1)(C), 220(a)(1), designated subpar. (A) and introductory provisions of subpar. (B) as par. (1), substituted "A governmental entity may require a provider of electronic communication service or remote computing service to" for "(A) Except as provided in subparagraph (B), a provider of electronic communication service or remote computing service may" and a closing parenthesis for provisions which began with "covered by subsection (a) or (b) of this section) to any person other than a governmental entity." in former subpar. (A) and ended with "(B) A provider of electronic communication service or remote computing service shall disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by subsection (a) or (b) of this section) to a governmental entity", redesignated clauses (i) to (iv) of former subpar. (B) as subpars. (A) to (D), respectively, substituted "using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation"for "under the Federal Rules of Criminal Procedure" in subpar. (A) and "; or" for period at end of subpar. (D), added subpar. (E), and redesignated former subpar. (C) as par. (2).
+Subsec. (c)(1). Pub. L. 107–56, §§212(b)(1)(C), 220(a)(1), designated subpar. (A) and introductory provisions of subpar. (B) as par. (1), substituted "A governmental entity may require a provider of electronic communication service or remote computing service to" for "(A) Except as provided in subparagraph (B), a provider of electronic communication service or remote computing service may" and a closing parenthesis for provisions which began with "covered by subsection (a) or (b) of this section) to any person other than a governmental entity." in former subpar. (A) and ended with "(B) A provider of electronic communication service or remote computing service shall disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by subsection (a) or (b) of this section) to a governmental entity", redesignated clauses (i) to (iv) of former subpar. (B) as subpars. (A) to (D), respectively, substituted "using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation" for "under the Federal Rules of Criminal Procedure" in subpar. (A) and "; or" for period at end of subpar. (D), added subpar. (E), and redesignated former subpar. (C) as par. (2).
 
 Subsec. (c)(2). Pub. L. 107–56, §210, amended par. (2), as redesignated by section 212 of Pub. L. 107–56, by substituting "entity the—" for "entity the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber" in introductory provisions, inserting subpars. (A) to (F), striking out "and the types of services the subscriber or customer utilized," before "when the governmental entity uses an administrative subpoena", inserting "of a subscriber" at beginning of concluding provisions and designating "to or customer of such service when the governmental entity uses an administrative subpoena authorized by a Federal or State statute or a Federal or State grand jury or trial subpoena or any means available under paragraph (1)." as remainder of concluding provisions.
 
@@ -156,7 +210,7 @@ Subsec. (d). Pub. L. 100–690, §7039, inserted "may be issued by any court tha
 
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of Title 10, Armed Forces.
+Amendment by Pub. L. 114–328 effective on the date designated by the President \[Jan. 1, 2019, with certain conditions and exceptions, see Ex. Ord. No. 13825, set out as a note under section 801 of Title 10, Armed Forces\], not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of Title 10, Armed Forces.
 
 #### Effective Date of 2002 Amendment
 
@@ -165,4 +219,8 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Effective Date
 
 Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
+
+#### Rule of Construction
+
+Pub. L. 115–141, div. V, §103(c), Mar. 23, 2018, 132 Stat. 1216, provided that: "Nothing in this section \[enacting section 2713 of this title and amending this section\], or an amendment made by this section, shall be construed to modify or otherwise affect the common law standards governing the availability or application of comity analysis to other types of compulsory process or to instances of compulsory process issued under section 2703 of title 18, United States Code, as amended by this section, and not covered under subsection (h)(2) of such section 2703."
 

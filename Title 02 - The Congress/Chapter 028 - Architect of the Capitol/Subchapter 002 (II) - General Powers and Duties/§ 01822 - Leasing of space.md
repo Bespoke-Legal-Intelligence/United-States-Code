@@ -10,7 +10,7 @@ Funds appropriated to the Architect of the Capitol shall be available—
 
 #### (b) Conditions to lease space
 
-The Architect of the Capitol may lease space under subsection (a) upon submission of writtennotice of intent to lease such space to, and approved by—
+The Architect of the Capitol may lease space under subsection (a) upon submission of written notice of intent to lease such space to, and approved by—
 
 &emsp;(1) the Committees on Appropriations and Rules and Administration of the Senate for space to be leased for the Senate;
 

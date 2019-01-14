@@ -36,7 +36,7 @@ The Secretary—
 
 &emsp;&emsp;(D) other Federal departments and agencies; and
 
-&emsp;&emsp;(E) other Federal and private research laboratories, research entities, and institutions of higher education, including HistoricallyBlack Colleges and Universities, Hispanic Serving Institutions, and Indian Tribally Controlled Colleges and Universities;
+&emsp;&emsp;(E) other Federal and private research laboratories, research entities, and institutions of higher education, including Historically Black Colleges and Universities, Hispanic Serving Institutions, and Indian Tribally Controlled Colleges and Universities;
 
 &emsp;(3) shall carry out any research and development project authorized by this section through a reimbursable agreement with an appropriate Federal agency, if the agency—
 
@@ -62,7 +62,7 @@ The Secretary—
 
 #### (1) In general
 
-&emsp;From the amounts appropriated pursuant to section 114(w) of title 49, there shall be made available to the Secretary to carry out this section—
+&emsp;From the amounts appropriated pursuant to section 114(w) <sup>1</sup> of title 49, there shall be made available to the Secretary to carry out this section—
 
 &emsp;&emsp;(A) $2,000,000 for fiscal year 2008;
 
@@ -81,4 +81,8 @@ The Secretary—
 #### References in Text
 
 This Act, referred to in subsec. (c)(1), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266, known as the Implementing Recommendations of the 9/11 Commission Act of 2007, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 101 of this title and Tables.
+
+Section 114(w) of title 49, referred to in subsec. (e)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, §1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

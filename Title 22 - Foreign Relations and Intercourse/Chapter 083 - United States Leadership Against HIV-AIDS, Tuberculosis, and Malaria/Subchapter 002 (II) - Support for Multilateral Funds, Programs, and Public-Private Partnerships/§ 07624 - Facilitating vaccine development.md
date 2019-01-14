@@ -40,7 +40,7 @@ The Administrator of the United States Agency for International Development, uti
 
 &emsp;&emsp;(A) the Secretary of the Treasury shall submit a report to the appropriate congressional committees on the status of the United States negotiations to participate in programs for the advanced market commitments under this subsection; and
 
-&emsp;&emsp;(B) the President shall produce a comprehensive report, written by a study group of qualified professionals from relevant Federal agencies and initiatives, nongovernmental organizations, and industry representatives, that sets forth a coordinated strategy to accelerate development of vaccines for infectious diseases, such as HIV/AIDS, malaria, and tuberculosis, which includes—
+&emsp;&emsp;(B) the President shall produce a comprehensive report, written by a study group of qualified professionals from relevant Federal agencies and initiatives, nongovernmentalorganizations, and industry representatives, that sets forth a coordinated strategy to accelerate development of vaccines for infectious diseases, such as HIV/AIDS, malaria, and tuberculosis, which includes—
 
 &emsp;&emsp;&emsp;(i) initiatives to create economic incentives for the research, development, and manufacturing of vaccines for HIV/AIDS, tuberculosis, malaria, and other infectious diseases;
 

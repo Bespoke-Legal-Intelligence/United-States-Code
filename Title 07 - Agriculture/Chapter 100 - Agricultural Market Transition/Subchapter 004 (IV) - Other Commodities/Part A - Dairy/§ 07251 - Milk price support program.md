@@ -2,7 +2,7 @@
 
 #### (a) Support activities
 
-The Secretary of Agriculture shall support the price of milk produced in the 48 contiguous States through the purchase of cheese, butter, and nonfat dry milk produced from the milk.
+The Secretary of Agriculture shall support the price of milk produced in the 48 contiguousStates through the purchase of cheese, butter, and nonfat dry milk produced from the milk.
 
 #### (b) Rate
 
@@ -30,7 +30,7 @@ The support purchase prices under this section for each of the products of milk 
 
 #### (2) Timing of purchase price adjustments
 
-&emsp;The Secretary may make any such adjustments in the purchase prices for nonfat drymilk and butter the Secretary considers to be necessary not more than twice in each calendar year.
+&emsp;The Secretary may make any such adjustments in the purchase prices for nonfat dry milk and butter the Secretary considers to be necessary not more than twice in each calendar year.
 
 #### (e) Refunds of 1995 and 1996 assessments
 

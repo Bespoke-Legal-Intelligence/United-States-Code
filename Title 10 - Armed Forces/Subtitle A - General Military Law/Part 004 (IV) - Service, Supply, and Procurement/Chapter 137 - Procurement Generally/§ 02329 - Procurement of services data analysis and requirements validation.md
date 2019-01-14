@@ -12,15 +12,17 @@ In General.—The Secretary of Defense shall ensure that—
 
 (b)
 
-Specification of Amounts Requested in Budget.—Effective October 1, 2022, the Secretary of Defense shall annually submit to Congress information on services contracts that clearly and separately identifies the amount requested for each category of services to be procured for each Defense Agency, Department of Defense Field Activity, command, or military installation. Such information shall—
+Specification of Amounts Requested in Budget.—Effective October 1, 2021, the Secretary of Defense shall annually submit to Congress information on services contracts that clearly and separately identifies the amount requested for each category of services to be procured for each Defense Agency, Department of Defense Field Activity, command, or military installation. Such information shall—
 
-&emsp;(1) be submitted at or about the time of the budget submission by the President under section 1105(a) of title 31;
+&emsp;(1) be submitted at or before the time of the budget submission by the President under section 1105(a) of title 31 or on the date on which the future-years defense program is submitted to Congress under section 221 of this title;
 
 &emsp;(2) cover the fiscal year covered by such budget submission by the President;
 
-&emsp;(3) be consistent with total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Department of Defense included in such budget submission by the President for that fiscal year; and
+&emsp;(3) be consistent with total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Department of Defense included in such budget submission by the President for that fiscal year;
 
-&emsp;(4) be organized using a common enterprise data structure developed under section 2222 of this title.
+&emsp;(4) be organized using a common enterprise data structure developed under section 2222 of this title; and
+
+&emsp;(5) be included in the future-years defense program submitted to Congress under section 221 of this title.
 
 (c)
 
@@ -58,7 +60,7 @@ Timely Planning to Avoid Bridge Contracts.—(1) Effective October 1, 2018, the 
 
 &emsp;(ii) for a services contract in an amount equal to or greater than $10,000,000, provide an update on the status of the bridge contract (including the rationale for using the bridge contract) to the service acquisition executive for the military department concerned, the head of the Defense Agency concerned, the combatant commander concerned, or the Under Secretary of Defense for Acquisition and Sustainment, as applicable.
 
-(B) Upon the second use, due to inadequate planning (as determined by the Secretary of Defense), of a bridge contract to provide for continuation of a service to be performed through a services contract in an amount less than $10,000,000, the commander or senior civilian official referred to in subparagraph (A)(i) shall provide notification of such second use to the Vice Chief of Staff of the armed force concerned and the service acquisition executive of the military department concerned, the head of theDefense Agency concerned, the combatant commander concerned, or the Under Secretary of Defense for Acquisition and Sustainment, as applicable.
+(B) Upon the second use, due to inadequate planning (as determined by the Secretary of Defense), of a bridge contract to provide for continuation of a service to be performed through a services contract in an amount less than $10,000,000, the commander or senior civilian official referred to in subparagraph (A)(i) shall provide notification of such second use to the Vice Chief of Staff of the armed force concerned and the service acquisition executive of the military department concerned, the head of the Defense Agency concerned, the combatant commander concerned, or the Under Secretary of Defense for Acquisition and Sustainment, as applicable.
 
 (f)
 
@@ -74,7 +76,7 @@ Exception.—Except with respect to the analyses required under subsection (c), 
 
 Definitions.—In this section:
 
-&emsp;(1) The term "bridge contact" means—
+&emsp;(1) The term "bridge contact" <sup>1</sup> means—
 
 &emsp;&emsp;(A) an extension to an existing contract beyond the period of performance to avoid a lapse in service caused by a delay in awarding a subsequent contract; or
 
@@ -84,7 +86,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "Services Requirements Review Board" has the meaning given in Department of Defense Instruction 5000.74, titled "Defense Acquisition of Services" and dated January 5, 2016, or a successor instruction.
 
-(Added Pub. L. 115–91, div. A, title VIII, §851(a)(1), Dec. 12, 2017, 131 Stat. 1489.)
+(Added Pub. L. 115–91, div. A, title VIII, §851(a)(1), Dec. 12, 2017, 131 Stat. 1489; amended Pub. L. 115–232, div. A, title VIII, §818(a), Aug. 13, 2018, 132 Stat. 1852.)
 
 #### References in Text
 
@@ -93,6 +95,14 @@ The date of the enactment of this subsection, referred to in subsec. (c)(3)(C), 
 #### Prior Provisions
 
 A prior section 2329, added Pub. L. 100–180, div. A, title VIII, §810(a)(1), Dec. 4, 1987, 101 Stat. 1130; amended Pub. L. 100–456, div. A, title XII, §1233(j), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728, related to contract terms and conditions for production special tooling and production special test equipment, prior to repeal by Pub. L. 103–355, title I, §1506(a), Oct. 13, 1994, 108 Stat. 3298.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–232, §818(a)(1), substituted "October 1, 2021" for "October 1, 2022" in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 115–232, §818(a)(2), substituted "at or before" for "at or about" and inserted "or on the date on which the future-years defense program is submitted to Congress under section 221 of this title" after "title 31".
+
+Subsec. (b)(5). Pub. L. 115–232, §818(a)(3)–(5), added par. (5).
 
 #### Standard Guidelines for Evaluation of Requirements for Services Contracts
 
@@ -109,4 +119,6 @@ Definitions.—In this section—
 &emsp;"(1) the terms 'Defense Agency', 'Department of Defense Field Activity', and 'military department' have the meanings given those terms in section 101 of title 10, United States Code; and
 
 &emsp;"(2) the term 'total force management policies and procedures' means the policies and procedures established under section 129a of such title."
+
+<i><sup>1</sup></i><i> So in original. Probably should be " 'bridge contract' ".</i>
 

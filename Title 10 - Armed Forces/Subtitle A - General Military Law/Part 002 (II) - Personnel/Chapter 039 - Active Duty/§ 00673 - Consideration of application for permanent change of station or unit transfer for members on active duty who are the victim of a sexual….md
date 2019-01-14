@@ -2,23 +2,13 @@
 
 (a)
 
-Timely Consideration and Action.—The Secretary concerned shall provide for timely determination and action on an application for consideration of a change of station or unittransfer submitted by a member of the armed forces serving on active duty who was a victim of a sexual assault or other offense covered by section 920, 920a, or 920c of this title (article 120, 120a, or 120c of the Uniform Code of Military Justice) so as to reduce the possibility of retaliation against the member for reporting the sexual assault or other offense.
+Timely Consideration and Action.—The Secretary concerned shall provide for timely determination and action on an application for consideration of a change of station or unit transfer submitted by a member of the armed forces serving on active duty who was a victim of a sexual assault or other offense covered by section 920, 920c, or 930 of this title (article 120, 120c, or 130 of the Uniform Code of Military Justice) so as to reduce the possibility of retaliation against the member for reporting the sexual assault or other offense.
 
 (b)
 
 Regulations.—The Secretary concerned shall issue regulations to carry out this section, within guidelines provided by the Secretary of Defense. These guidelines shall provide that the application submitted by a member described in subsection (a) for a change of station or unit transfer must be approved or disapproved by the member's commanding officer within 72 hours of the submission of the application. Additionally, if the application is disapproved by the commanding officer, the member shall be given the opportunity to request review by the first general officer or flag officer in the chain of command of the member, and that decision must be made within 72 hours of submission of the request for review.
 
 (Added Pub. L. 112–81, div. A, title V, §582(a), Dec. 31, 2011, 125 Stat. 1432; amended Pub. L. 113–66, div. A, title X, §1091(a)(8), title XVII, §1712, Dec. 26, 2013, 127 Stat. 876, 963; Pub. L. 115–91, div. A, title X, §1081(c)(2)(A), Dec. 12, 2017, 131 Stat. 1599.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 115–91, div. A, title X, §1081(c)(2)(A), (4), Dec. 12, 2017, 131 Stat. 1599, provided that, effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 (see Tables for classification) take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), subsection (a) of this section is amended—</i>
-
-<i>(1) by striking "920a, or 920c" and inserting "920c, or 930"; and</i>
-
-<i>(2) by striking "120a, or 120c" and inserting "120c, or 130".</i>
-
-<i>See 2017 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -34,5 +24,21 @@ Subsec. (b). Pub. L. 113–66, §1712, substituted "The Secretary concerned" for
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note) \[amendments effective Jan. 1, 2019\], see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+
+#### Standardization of Policies Related to Expedited Transfer in Cases of Sexual Assault or Domestic Violence
+
+Pub. L. 115–232, div. A, title V, §536, Aug. 13, 2018, 132 Stat. 1761, provided that:
+
+"(a)
+
+Policies for Members.—The Secretary of Defense shall modify, in accordance with section 673 of title 10, United States Code, all policies that the Secretary determines necessary to establish a standardized expedited transfer process for a member of the Army, Navy, Air Force, or Marine Corps who is the alleged victim of—
+
+&emsp;"(1) sexual assault (regardless of whether the case is handled under the Sexual Assault Prevention and Response Program or Family Advocacy Program); or
+
+&emsp;"(2) physical domestic violence (as defined by the Secretary in regulations prescribed under this section) committed by the spouse or intimate partner of the member, regardless of whether the spouse or intimate partner is a member of the Armed Forces.
+
+"(b)
+
+Policy for Dependents of Members.—The Secretary of Defense shall establish a policy to allow the transfer of a member of the Army, Navy, Air Force, or Marine Corps whose dependent is the victim of sexual assault perpetrated by a member of the Armed Forces who is not related to the victim."
 

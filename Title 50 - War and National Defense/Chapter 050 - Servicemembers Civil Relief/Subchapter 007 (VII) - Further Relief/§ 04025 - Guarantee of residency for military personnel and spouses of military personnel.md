@@ -20,7 +20,23 @@ For the purposes of voting for any Federal office (as defined in section 30101 o
 
 &emsp;(3) be deemed to have become a resident in or a resident of any other State.
 
-(Oct. 17, 1940, ch. 888, title VII, §705, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2865; amended Pub. L. 111–97, §2(a), Nov. 11, 2009, 123 Stat. 3007.)
+(Oct. 17, 1940, ch. 888, title VII, §705, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2865; amended Pub. L. 111–97, §2(a), Nov. 11, 2009, 123 Stat. 3007; Pub. L. 115–407, title III, §303(a), Dec. 31, 2018, 132 Stat. 5373.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 115–407, title III, §303, Dec. 31, 2018, 132 Stat. 5373, provided that, effective on the date that is 90 days after December 31, 2018, subsection (b) of this section is amended by substituting "State or local office—" for "State or local office, a person who is absent from a State because the person is accompanying the person's spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—" in introductory provisions, striking paragraphs (1) to (3), and inserting the following new paragraphs:</i>
+
+&emsp;<i>(1) a person who is absent from a State because the person is accompanying the person's spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—</i>
+
+&emsp;&emsp;<i>(A) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;</i>
+
+&emsp;&emsp;<i>(B) be deemed to have acquired a residence or domicile in any other State; or</i>
+
+&emsp;&emsp;<i>(C) be deemed to have become a resident in or a resident of any other State; and</i>
+
+&emsp;<i>(2) the spouse of a servicemember may elect to use the same residence as the servicemember regardless of the date on which the marriage of the spouse and the servicemember occurred.</i>
+
+<i>See 2018 Amendment note below.</i>
 
 #### Codification
 
@@ -28,9 +44,25 @@ Section was formerly classified to section 595 of the former Appendix to this ti
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b). Pub. L. 115–407 substituted "State or local office—" for "State or local office, a person who is absent from a State because the person is accompanying the person's spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
+
+"(1) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;
+
+"(2) be deemed to have acquired a residence or domicile in any other State; or
+
+"(3) be deemed to have become a resident in or a resident of any other State."
+
 <b>2009</b>—Pub. L. 111–97 inserted "and spouses of military personnel" after "military personnel" in section catchline, designated existing provisions as subsec.(a), inserted heading, and added subsec. (b).
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–407, title III, §303(b), Dec. 31, 2018, 132 Stat. 5374, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is 90 days after the date of the enactment of this Act \[Dec. 31, 2018\]."
 
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–97, §2(c), Nov. 11, 2009, 123 Stat. 3007, provided that: "Subsection (b) of section 705 of such Act \[Servicemembers Civil Relief Act\] (50 U.S.C. App. 595) \[now 50 U.S.C. 4025\], as added by subsection (a) of this section, shall apply with respect to absences from States described in such subsection (b) on or after the date of the enactment of this Act \[Nov. 11, 2009\], regardless of the date of the military or naval order concerned."
+
+#### Effective Date
+
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under section 3901 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Not later than the date that is 60 days after February 24, 2016, the Secretary of the Treasury and the Secretary of Homeland Security shall jointly establish a Commercial Customs Operations Advisory Committee (in this section referred to as the "Advisory Committee").
+Not later than the date that is 60 days after February 24, 2016, the Secretary of the Treasuryand the Secretary of Homeland Security shall jointly establish a Commercial Customs Operations Advisory Committee (in this section referred to as the "Advisory Committee").
 
 #### (b) Membership
 
@@ -84,7 +84,7 @@ Sections 10(f) and 14(a)(2) of the Federal Advisory Committee Act, referred to i
 
 #### Codification
 
-Section is comprised of section 109 of Pub. L. 114–125. Subsec. (g)(1) of section 109 of Pub. L. 114–125 repealed section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (Pub. L. 100–203), formerly set out as a note under section 2071 of this title, effective on the date on which the Advisory Committee was established under subsection (a) of this section. Notice of the establishment of the Advisory Committee on Mar. 29, 2016, was published at 81 F.R. 18865.
+Section is comprised of section 109 of Pub. L. 114–125. Subsec. (g)(1) of section 109 of Pub. L. 114–125 repealedsection 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (Pub. L. 100–203), formerly set out as a note under section 2071 of this title, effective on the date on which the Advisory Committee was established under subsection (a) of this section. Notice of the establishment of the Advisory Committee on Mar. 29, 2016, was published at 81 F.R. 18865.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

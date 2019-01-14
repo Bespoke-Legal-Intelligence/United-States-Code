@@ -18,7 +18,7 @@ The Secretary of Agriculture (hereinafter in this section referred to as the "Se
 
 #### (A) Grant authority
 
-&emsp;&emsp;The Secretary, in consultation with the Administrator, shall establish a program tomake grants for the development of data to support minor use pesticide registrations and reregistrations. The amount of any such grant shall not exceed ½ of the cost of the project for which the grant is made.
+&emsp;&emsp;The Secretary, in consultation with the Administrator, shall establish a program to make grants for the development of data to support minor use pesticide registrations and reregistrations. The amount of any such grant shall not exceed ½ of the cost of the project for which the grant is made.
 
 #### (B) Applicants
 

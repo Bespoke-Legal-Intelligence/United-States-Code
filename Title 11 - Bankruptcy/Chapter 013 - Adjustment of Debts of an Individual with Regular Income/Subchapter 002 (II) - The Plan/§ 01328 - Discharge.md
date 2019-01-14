@@ -14,7 +14,7 @@
 
 &emsp;(1) the debtor's failure to complete such payments is due to circumstances for which the debtor should not justly be held accountable;
 
-&emsp;(2) the value, as of the effective date of the plan, of property actually distributed under the plan on account of each allowed unsecured claim is not less than the amount that would have been paid on such claim if the estate of the debtor had been liquidated under chapter 7 of this title on such date; and
+&emsp;(2) the value, as of the effective date of the plan, of property actually distributed under the plan on account of each allowed unsecuredclaim is not less than the amount that would have been paid on such claim if the estate of the debtor had been liquidated under chapter 7 of this title on such date; and
 
 &emsp;(3) modification of the plan under section 1329 of this title is not practicable.
 
@@ -50,7 +50,7 @@
 
 &emsp;(2) there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2650; Pub. L. 98–353, title III, §532, July 10, 1984, 98 Stat. 389; Pub. L. 101–508, title III, §3007(b)(1), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 101–581, §§2(b), 3, Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXXI, §§3102(b), 3103, Nov. 29, 1990, 104 Stat. 4916; Pub. L. 103–394, title III, §302, title V, §501(d)(38),Oct. 22, 1994, 108 Stat. 4132, 4147; Pub. L. 109–8, title I, §106(c), title II, §213(11), title III, §§312(2), 314(b), 330(d), title VII, §707, Apr. 20, 2005, 119 Stat. 38, 53, 87, 88, 102, 126.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2650; Pub. L. 98–353, title III, §532, July 10, 1984, 98 Stat. 389; Pub. L. 101–508, title III, §3007(b)(1), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 101–581, §§2(b), 3, Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXXI, §§3102(b), 3103, Nov. 29, 1990, 104 Stat. 4916; Pub. L. 103–394, title III, §302, title V, §501(d)(38), Oct. 22, 1994, 108 Stat. 4132, 4147; Pub. L. 109–8, title I, §106(c), title II, §213(11), title III, §§312(2), 314(b), 330(d), title VII, §707, Apr. 20, 2005, 119 Stat. 38, 53, 87, 88, 102, 126.)
 
 #### Historical and Revision Notes
 
@@ -80,7 +80,7 @@ Pub. L. 109–8, §314(b), added pars. (1) to (4) and struck out former pars. (1
 
 "(3) for restitution, or a criminal fine, included in a sentence on the debtor's conviction of a crime."
 
-Pub. L. 109–8, §213(11), inserted ", and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid" after "completion by the debtor of all payments under the plan" in introductory provisions.
+Pub. L. 109–8, §213(11), inserted ", and in the case of a debtor who is required by a judicial or administrativeorder, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid" after "completion by the debtor of all payments under the plan" in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 109–8, §707, substituted "section 507(a)(8)(C) or in paragraph (1)(B), (1)(C)," for "paragraph".
 

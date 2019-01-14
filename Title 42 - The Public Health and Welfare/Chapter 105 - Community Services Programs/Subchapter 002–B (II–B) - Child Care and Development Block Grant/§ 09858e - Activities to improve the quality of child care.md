@@ -4,7 +4,7 @@
 
 #### (1) Reservation for activities relating to the quality of child care services
 
-&emsp;A State that receives funds to carry out this subchapter for a fiscal year referred to in paragraph (2) shall reserve and use a portion ofsuch funds, in accordance with paragraph (2), for activities provided directly, or through grants or contracts with local child care resource and referral organizations or other appropriate entities, that are designed to improve the quality of child care services and increase parental options for, and access to, high-quality child care, and is in alignment with a Statewide assessment of the State's needs to carry out such services and care, provided in accordance with this subchapter.
+&emsp;A State that receives funds to carry out this subchapter for a fiscal year referred to in paragraph (2) shall reserve and use a portion of such funds, in accordance with paragraph (2), for activities provided directly, or through grants or contracts with local child care resource and referral organizations or other appropriate entities, that are designed to improve the quality of child care services and increase parental options for, and access to, high-quality child care, and is in alignment with a Statewide assessment of the State's needs to carry out such services and care, provided in accordance with this subchapter.
 
 #### (2) Amount of reservations
 

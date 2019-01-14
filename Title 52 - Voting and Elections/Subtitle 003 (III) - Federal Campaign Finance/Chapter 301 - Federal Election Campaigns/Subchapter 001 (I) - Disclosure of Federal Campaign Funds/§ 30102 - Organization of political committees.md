@@ -58,15 +58,9 @@ The treasurer shall preserve all records required to be kept by this section and
 
 (2) Each principal campaign committee shall receive all designations, statements, and reports required to be filed with it under paragraph (1) and shall compile and file such designations, statements, and reports in accordance with this Act.
 
-#### (g) Filing with and receipt of designations, statements, and reports by Secretary of Senate; forwarding to Commission; filing requirements with Commission; public inspection and preservation of designations, etc.
+#### (g) Filing with the Commission
 
-(1) Designations, statements, and reports required to be filed under this Act by a candidate for the office of Senator, by the principal campaign committee of such candidate, and by the Republican and Democratic Senatorial Campaign Committees shall be filed with the Secretary of the Senate, who shall receive such designations, statements, and reports, as custodian for the Commission.
-
-(2) The Secretary of the Senate shall forward a copy of any designation, statement, or report filed with the Secretary under this subsection to the Commission as soon as possible (but no later than 2 working days) after receiving such designation, statement, or report.
-
-(3) All designations, statements, and reports required to be filed under this Act, except designations, statements, and reports filed in accordance with paragraph (1), shall be filed with the Commission.
-
-(4) The Secretary of the Senate shall make the designations, statements, and reports received under this subsection available for public inspection and copying in the same manner as the Commission under section 30111(a)(4) of this title, and shall preserve such designations, statements, and reports in the same manner as the Commission under section 30111(a)(5) of this title.
+All designations, statements, and reports required to be filed under this Act shall be filed with the Commission.
 
 #### (h) Campaign depositories; designations, maintenance of accounts, etc.; petty cash fund for disbursements; record of disbursements
 
@@ -78,7 +72,7 @@ The treasurer shall preserve all records required to be kept by this section and
 
 When the treasurer of a political committee shows that best efforts have been used to obtain, maintain, and submit the information required by this Act for the political committee, any report or any records of such committee shall be considered in compliance with this Act or chapter 95 or chapter 96 of title 26.
 
-(Pub. L. 92–225, title III, §302, Feb. 7, 1972, 86 Stat. 12; Pub. L. 93–443, title II, §§202, 208(c)(2), Oct. 15, 1974, 88 Stat. 1275, 1286; Pub. L. 94–283, title I, §103, May 11, 1976, 90 Stat. 480; Pub. L. 96–187, title I, §102, Jan. 8, 1980, 93 Stat. 1345; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §§1(b), 3(a), Dec. 28, 1995, 109 Stat. 791, 792; Pub. L. 105–61, title VI, §637, Oct. 10, 1997, 111 Stat. 1316; Pub. L. 108–447, div. H, title V, §525, Dec. 8, 2004, 118 Stat. 3271.)
+(Pub. L. 92–225, title III, §302, Feb. 7, 1972, 86 Stat. 12; Pub. L. 93–443, title II, §§202, 208(c)(2), Oct. 15, 1974, 88 Stat. 1275, 1286; Pub. L. 94–283, title I, §103, May 11, 1976, 90 Stat. 480; Pub. L. 96–187, title I, §102, Jan. 8, 1980, 93 Stat. 1345; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §§1(b), 3(a), Dec. 28, 1995, 109 Stat. 791, 792; Pub. L. 105–61, title VI, §637, Oct. 10, 1997, 111 Stat. 1316; Pub. L. 108–447, div. H, title V, §525, Dec. 8, 2004, 118 Stat. 3271; Pub. L. 115–244, div. B, title I, §102, Sept. 21, 2018, 132 Stat. 2926.)
 
 #### References in Text
 
@@ -90,6 +84,16 @@ Section was formerly classified to section 432 of Title 2, The Congress, prior t
 
 #### Amendments
 
+<b>2018</b>—Subsec. (g). Pub. L. 115–244 amended subsec. (g) generally. Prior to amendment, text read as follows:
+
+"(1) Designations, statements, and reports required to be filed under this Act by a candidate for the office of Senator, by the principal campaign committee of such candidate, and by the Republican and Democratic Senatorial Campaign Committees shall be filed with the Secretary of the Senate, who shall receive such designations, statements, and reports, as custodian for the Commission.
+
+"(2) The Secretary of the Senate shall forward a copy of any designation, statement, or report filed with the Secretary under this subsection to the Commission as soon as possible (but no later than 2 working days) after receiving such designation, statement, or report.
+
+"(3) All designations, statements, and reports required to be filed under this Act, except designations, statements, and reports filed in accordance with paragraph (1), shall be filed with the Commission.
+
+"(4) The Secretary of the Senate shall make the designations, statements, and reports received under this subsection available for public inspection and copying in the same manner as the Commission under section 30111(a)(4) of this title, and shall preserve such designations, statements, and reports in the same manner as the Commission under section 30111(a)(5) of this title."
+
 <b>2004</b>—Subsec. (e)(3)(B). Pub. L. 108–447 substituted "$2,000" for "$1,000".
 
 <b>1997</b>—Subsec. (g)(1). Pub. L. 105–61 struck out "and" after "Senator," and inserted "and by the Republican and Democratic Senatorial Campaign Committees" after "candidate,".
@@ -100,7 +104,7 @@ Subsec. (g)(1). Pub. L. 104–79, §3(a)(1), (2), redesignated par. (2) as (1) a
 
 Subsec. (g)(2). Pub. L. 104–79, §3(a)(2), (3), redesignated par. (3) as (2), struck out "Clerk of the House of Representatives and the" before "Secretary of the Senate", and substituted "filed with the Secretary" for "filed with them". Former par. (2) redesignated (1).
 
-Subsec. (g)(3). Pub. L. 104–79, §3(a)(2), (4), redesignated par. (4) as (3) and substituted "paragraph (1)" for"paragraphs (1) and (2)". Former par. (3) redesignated (2).
+Subsec. (g)(3). Pub. L. 104–79, §3(a)(2), (4), redesignated par. (4) as (3) and substituted "paragraph (1)" for "paragraphs (1) and (2)". Former par. (3) redesignated (2).
 
 Subsec. (g)(4). Pub. L. 104–79, §3(a)(2), (5), redesignated par. (5) as (4) and struck out "Clerk of the House of Representatives and the" before "Secretary of the Senate". Former par. (4) redesignated (3).
 

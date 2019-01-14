@@ -46,7 +46,7 @@ The Board shall have such of the powers and authority of the Association as may 
 
 #### (3) Private sector representatives
 
-&emsp;In making any appointment pursuant to subparagraph (B) or (C) of paragraph (1), the President may seek recommendations for candidates from groups representing the category of individuals described, which shall not be binding on the President.
+&emsp;In making any appointment pursuant to subparagraph (B) or (C) of paragraph (1), thePresident may seek recommendations for candidates from groups representing the category of individuals described, which shall not be binding on the President.
 
 #### (4) State insurance commissioner defined
 

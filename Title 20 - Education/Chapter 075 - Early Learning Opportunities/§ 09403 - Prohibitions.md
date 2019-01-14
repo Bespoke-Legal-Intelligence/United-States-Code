@@ -10,7 +10,7 @@ Nothing in this chapter shall be construed to affect the rights of parents other
 
 #### (c) Particular methods or settings
 
-No entity that receives funds under this chapter shall be required to provide services under this chapter through a particular instructional method or in a particular instructional setting to comply with this chapter.
+No entity that receives funds under this chapter shall be required to provide services under this chapter through a particular instructionalmethod or in a particular instructional setting to comply with this chapter.
 
 #### (d) Nonduplication
 

@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to consolidate and expand the statutory authority for the operation of the library of the Department of Agriculture established pursuant to section 2201 ofthis title as the primary agricultural information resource of the United States.
+The purpose of this section is to consolidate and expand the statutory authority for the operation of the library of the Department of Agriculture established pursuant to section 2201 of this title as the primary agricultural information resource of the United States.
 
 #### (b) Establishment
 
@@ -18,7 +18,7 @@ The Director may—
 
 &emsp;(1) acquire, preserve, and manage information and information products and services in all phases of agriculture and allied sciences;
 
-&emsp;(2) organize agricultural information and information products and services by cataloging, indexing, bibliographical listing, and other appropriate techniques;
+&emsp;(2) organize agricultural information and information products and services by cataloging,indexing, bibliographical listing, and other appropriate techniques;
 
 &emsp;(3) provide agricultural information and information products and services to agencies of the Department of Agriculture and the Federal Government, public and private organizations, and individuals, within the United States and internationally;
 
@@ -60,13 +60,13 @@ There are authorized to be appropriated for each fiscal year such sums as may be
 
 (Pub. L. 95–113, title XIV, §1410A, as added Pub. L. 101–624, title XVI, §1606(a), Nov. 28, 1990, 104 Stat. 3714.)
 
-#### Enhanced Use Lease Authority Pilot Program
+#### Enhanced Use Lease Authority Program
 
-Pub. L. 103–354, title III, §308, as added by Pub. L. 110–234, title VII, §7409, May 22, 2008, 122 Stat. 1252, and Pub. L. 110–246, §4(a), title VII, §7409, June 18, 2008, 122 Stat. 1664, 2014; Pub. L. 113–79, title VII, §§7511, 7605, Feb. 7, 2014, 128 Stat. 901, 912, provided that:
+Pub. L. 103–354, title III, §308, as added by Pub. L. 110–234, title VII, §7409, May 22, 2008, 122 Stat. 1252, and Pub. L. 110–246, §4(a), title VII, §7409, June 18, 2008, 122 Stat. 1664, 2014; Pub. L. 113–79, title VII, §§7511, 7605, Feb. 7, 2014, 128 Stat. 901, 912; Pub. L. 115–334, title VII, §7601, Dec. 20, 2018, 132 Stat. 4825, provided that:
 
 "(a)
 
-Establishment.—To enhance the use of real property administered by agencies of the Department, the Secretary may establish a pilot program, in accordance with this section, at the Beltsville Agricultural Research Center of the Agricultural Research Service and the National Agricultural Library to lease nonexcess property of the Center or the Library to any individual or entity, including agencies or instrumentalities of State or local governments.
+Establishment.—To enhance the use of real property administered by agencies of the Department, the Secretary may establish a program, in accordance with this section, at the Beltsville Agricultural Research Center of the Agricultural Research Service and the National Agricultural Library to lease nonexcess property of the Center or the Library to any individual or entity, including agencies or instrumentalities of State or local governments.
 
 "(b)
 
@@ -140,7 +140,7 @@ Prohibition of use of appropriations.—The Secretary shall not use any funds ma
 
 Termination of authority.—This section and the authority provided by this section terminate—
 
-&emsp;&emsp;"(A) on the date that is 10 years after the date of enactment of this section \[June 18, 2008\]; or
+&emsp;&emsp;"(A) on September 30, 2023; or
 
 &emsp;&emsp;"(B) with respect to any particular leased property, on the date of termination of the lease.
 
@@ -166,7 +166,7 @@ In general.—Not later than 90 days after the date of enactment of this section
 
 &emsp;"(2)
 
-Reports.—Not later than 6, 8, and 10 years after the date of enactment of this section \[June 18, 2008\], the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the implementation of the program under this section, including—
+Reports.—Not later than September 30, 2021, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the implementation of the program under this section, including—
 
 &emsp;&emsp;"(A) a copy of each lease entered into pursuant to this section; and
 

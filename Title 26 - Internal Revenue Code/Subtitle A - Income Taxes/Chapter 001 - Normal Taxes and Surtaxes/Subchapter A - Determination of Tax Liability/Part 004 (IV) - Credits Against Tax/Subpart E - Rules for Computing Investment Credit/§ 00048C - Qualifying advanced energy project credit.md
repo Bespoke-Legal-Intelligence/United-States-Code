@@ -118,7 +118,7 @@ For purposes of section 46, the qualifying advanced energy project credit for an
 
 &emsp;&emsp;&emsp;(i) there is an insufficient quantity of qualifying applications for certification pending at the time of the review, or
 
-&emsp;&emsp;&emsp;(ii) any certification made pursuant to paragraph (2) has been revoked pursuant toparagraph (2)(B) because the project subject to the certification has been delayed as a result of third party opposition or litigation to the proposed project.
+&emsp;&emsp;&emsp;(ii) any certification made pursuant to paragraph (2) has been revoked pursuant to paragraph (2)(B) because the project subject to the certification has been delayed as a result of third party opposition or litigation to the proposed project.
 
 #### (C) Reallocation
 

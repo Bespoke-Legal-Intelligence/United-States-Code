@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–103 struck out "(1)" before "In order to", redesignated par. (2) of subsec. (a) as subsec. (b),redesignated par. (3) of subsec. (a) as subsec. (c) and subpars. (A) and (B) thereof as pars. (1) and (2), respectively, redesignated par. (4) of subsec. (a) as subsec. (d) and substituted "subsection (c)(2)" for "paragraph (3)(B)", and struck out former subsec. (b) which read as follows: "The appellant shall also furnish the Secretary with a copy of such notice, but a failure to do so shall not constitute a failure of timely compliance with subsection (a) of this section."
+<b>2001</b>—Pub. L. 107–103 struck out "(1)" before "In order to", redesignated par. (2) of subsec. (a) as subsec. (b), redesignated par. (3) of subsec. (a) as subsec. (c) and subpars. (A) and (B) thereof as pars. (1) and (2), respectively, redesignated par. (4) of subsec. (a) as subsec. (d) and substituted "subsection (c)(2)" for "paragraph (3)(B)", and struck out former subsec. (b) which read as follows: "The appellant shall also furnish the Secretary with a copy of such notice, but a failure to do so shall not constitute a failure of timely compliance with subsection (a) of this section."
 
 <b>1998</b>—Subsec. (a)(1). Pub. L. 105–368 substituted "Court of Appeals for Veterans Claims" for "Court of Veterans Appeals".
 
@@ -34,7 +34,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–446, title V, §511(b), Nov. 2, 1994, 108 Stat. 4670, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 2, 1994\] and shall apply to notices of appeal that are delivered or mailed to the United States Court of Veterans Appeals \[now United States Court of Appeals for Veterans Claims\] on or after that date."
+Pub. L. 103–446, title V, §511(b), Nov. 2, 1994, 108 Stat. 4670, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 2, 1994\] andshall apply to notices of appeal that are delivered or mailed to the United States Court of Veterans Appeals \[now United States Court of Appeals for Veterans Claims\] on or after that date."
 
 #### Interim Provision for Filing Notices of Appeal
 

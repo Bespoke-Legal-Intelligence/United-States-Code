@@ -52,7 +52,7 @@ Section 2898, Pub. L. 105–220, title I, §158, Aug. 7, 1998, 112 Stat. 1016, c
 
 Provisions similar to those formerly contained in section 2898 were contained in sections 1707 and 1709 of this title prior to repeal by Pub. L. 105–220.
 
-Section 2899, Pub. L. 105–220, title I, §159, Aug. 7, 1998, 112 Stat. 1017; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411, related to management information. See section 3209 of this title.
+Section 2899, Pub. L. 105–220, title I, §159, Aug. 7, 1998, 112 Stat. 1017; Pub. L. 105–277, div. A, §101(f) \[title VIII,§401(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411, related to management information. See section 3209 of this title.
 
 Section 2900, Pub. L. 105–220, title I, §160, Aug. 7, 1998, 112 Stat. 1020, related to dissemination of information, collections, and expenditures. See section 3210 of this title.
 

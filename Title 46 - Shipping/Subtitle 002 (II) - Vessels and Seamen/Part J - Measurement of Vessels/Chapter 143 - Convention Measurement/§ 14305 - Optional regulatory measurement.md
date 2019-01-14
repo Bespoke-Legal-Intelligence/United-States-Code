@@ -1,6 +1,6 @@
 ### §14305. Optional regulatory measurement
 
-(a) On request of the owner of a vessel measured under this chapter that is of United States registry or nationality, or a vessel operated under the authority of the United States, the Secretary also shall measure the vessel under chapter 145 of this title. The tonnages determined under that chapter shall be used in applying—
+(a) On request of the owner of a vessel measured under this chapter that is of United States registry or nationality, or a vessel operated under the authority of the United States, the Secretary also shall measure the vessel underchapter 145 of this title. The tonnages determined under that chapter shall be used in applying—
 
 &emsp;(1) parts A, B, C, E, F, and G of this subtitle and section 12116 of this title;
 
@@ -8,7 +8,7 @@
 
 &emsp;(3) section 4 of the Bridge to Bridge Radiotelephone Act (33 U.S.C. 1203(a));
 
-&emsp;(4) section 4(a)(3) of the Ports and Waterways Safety Act (33 U.S.C. 1223(a)(3));
+&emsp;(4) section 4(a)(3) <sup>1</sup> of the Ports and Waterways Safety Act (33 U.S.C. 1223(a)(3));
 
 &emsp;(5) section 30506 of this title;
 
@@ -74,7 +74,7 @@ The International Convention on Standards of Training, Certification, and Watchk
 
 The International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973: IMO Resolution A.541 (XIII) of November 17, 1983, provides that:
 
-&emsp;At the request of a shipowner, the Administration may allow a ship of less than 400 tons gross tonnage (measured under the previous national tonnage rules) the keel of which is laid on or before 31 December 1985 and which is required to be measured under the provisions of the International Convention on Tonnage Measurement of Ships, 1969, to use the gross tonnage measured under the national tonnage rules which were in effect prior to the coming into force of the 1969 Tonnage Convention, for the purpose of application of the provisions of MARPOL 73/78. Such tonnage, however, shall not be shown on the 1969 Tonnage Certificate.
+&emsp;At the request of a shipowner, the Administration may allow a ship of less than 400 tons gross tonnage (measured under the previous national tonnage rules) the keel of which is laid on or before 31 December 1985and which is required to be measured under the provisions of the International Convention on Tonnage Measurement of Ships, 1969, to use the gross tonnage measured under the national tonnage rules which were in effect prior to the coming into force of the 1969 Tonnage Convention, for the purpose of application of the provisions of MARPOL 73/78. Such tonnage, however, shall not be shown on the 1969 Tonnage Certificate.
 
 It further provides that "the interim scheme shall not apply to ships the keels of which are laid after 31 December 1985, except that in respect of regulations for ships of less than 400 tons gross tonnage (as measured under previous national rules), the keels of which are laid after 31 December 1985, the Administration may continue to apply the interim scheme until 18 July 1994."
 
@@ -87,6 +87,8 @@ Section 14305(b) provides that if a vessel is measured under the regulatory tonn
 #### References in Text
 
 Section 4 of the Bridge to Bridge Radiotelephone Act (33 U.S.C. 1203(a)), referred to in subsec. (a)(3), probably means section 4(a) of the Vessel Bridge-to-Bridge Radiotelephone Act, which is classified to section 1203(a) of Title 33, Navigation and Navigable Waters.
+
+Section 4(a)(3) of the Ports and Waterways Safety Act (33 U.S.C. 1223(a)(3)), referred to in subsec. (a)(4), is section 4(a)(3) of Pub. L. 92–340, which was classified to section 1223(a)(3) of Title 33, Navigation and Navigable Waters, prior to repeal by Pub. L. 115–282, title IV, §402(e), Dec. 4, 2018, 132 Stat. 4264. See Transitional and Savings Provisions note preceding section 101 of this title and section 70001 of this title.
 
 Sections 351, 352, 355, and 356 of the Ship Radio Act (47 U.S.C. 351, 352, 354, and 354a), referred to in subsec. (a)(8), probably means sections 351, 352, 355, and 356 of the Communications Act of 1934, June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which are classified to sections 351, 352, 354, and 354a, respectively, of Title 47, Telecommunications.
 
@@ -107,4 +109,6 @@ Subsec. (a)(5). Pub. L. 109–304, §15(26)(B), substituted "section 30506 of th
 Subsec. (a)(6). Pub. L. 109–304, §15(26)(C), substituted "sections 12118 and 12132 of this title" for "sections 27 and 27A of the Act of June 5, 1920 (46 App. U.S.C. 883 and 883–1)".
 
 Subsec. (a)(7). Pub. L. 109–304, §15(26)(D), substituted "section 12139(b) of this title" for "Act of July 14, 1956 (46 App. U.S.C. 883a)".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

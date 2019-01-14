@@ -14,7 +14,7 @@ An appeal may be taken to the Secretary from any decision under section 1359dd o
 
 &emsp;The Secretary shall provide each appellant an opportunity for a hearing before an administrative law judge in accordance with sections 554 and 556 of title 5. The expenses for conducting the hearing shall be reimbursed by the Commodity Credit Corporation.
 
-(Feb. 16, 1938, ch. 30, title III, §359i, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 202; amended Pub. L. 110–234, title I, §1403(h), May 22, 2008, 122 Stat. 988; Pub. L. 110–246, §4(a), title I, §1403(h), June 18, 2008, 122 Stat. 1664, 1716.)
+(Feb. 16, 1938, ch. 30, title III, §359i, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 202; amended Pub. L. 110–234, title I, §1403(h), May 22, 2008, 122 Stat. 988; Pub. L.110–246, §4(a), title I, §1403(h), June 18, 2008, 122 Stat. 1664, 1716.)
 
 #### Codification
 

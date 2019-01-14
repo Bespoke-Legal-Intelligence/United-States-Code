@@ -18,7 +18,7 @@ In this Act:
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492, known as the Energy Independence and Security Act of 2007, which enacted this chapter and enacted and amended numerous other sectionsand notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492, known as the Energy Independence and Security Act of 2007, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Effective Date
 

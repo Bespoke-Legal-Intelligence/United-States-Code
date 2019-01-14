@@ -12,7 +12,7 @@ The effective date of this subsection, referred to in subsec. (b), probably mean
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–553 inserted at end "Funds from the Wildlife Conservation and Restoration Account may be used for a wildlife conservation education program, except that no such funds may be used for education efforts, projects, or programs that promote or encourage opposition to the regulated taking of wildlife."
+<b>2000</b>—Subsec. (a). Pub. L. 106–553 inserted at end "Funds from the Wildlife Conservation and RestorationAccount may be used for a wildlife conservation education program, except that no such funds may be used for education efforts, projects, or programs that promote or encourage opposition to the regulated taking of wildlife."
 
 Subsec. (b). Pub. L. 106–408 substituted "section 669c(c) of this title" for "section 669c(b) of this title" in first sentence.
 

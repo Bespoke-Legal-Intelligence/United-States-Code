@@ -15,3 +15,4 @@
 - [&sect; 47508 - Noise standards for air carriers and foreign air carriers providing foreign air transportation](%C2%A7%2047508%20-%20Noise%20standards%20for%20air%20carriers%20and%20foreign%20air%20carriers%20providing%20foreign%20air%20transportation.md)
 - [&sect; 47509 - Research program on quiet aircraft technology for propeller and rotor driven aircraft](%C2%A7%2047509%20-%20Research%20program%20on%20quiet%20aircraft%20technology%20for%20propeller%20and%20rotor%20driven%20aircraft.md)
 - [&sect; 47510 - Tradeoff allowance](%C2%A7%2047510%20-%20Tradeoff%20allowance.md)
+- [&sect; 47511 - CLEEN engine and airframe technology partnership](%C2%A7%2047511%20-%20CLEEN%20engine%20and%20airframe%20technology%20partnership.md)

@@ -2,23 +2,17 @@
 
 There are authorized to be appropriated for payments under section 53106, to remain available until expended—
 
-&emsp;(1) $156,000,000 for each of fiscal years 2006, 2007, and 2008;
+&emsp;(1) $300,000,000 for each of fiscal years 2018, 2019, and 2020;
 
-&emsp;(2) $174,000,000 for each of fiscal years 2009, 2010, and 2011;
+&emsp;(2) $314,007,780 for fiscal year 2021; and
 
-&emsp;(3) $186,000,000 for each of fiscal years 2012, 2013, 2014, and 2015 <sup>1</sup>
+&emsp;(3) $222,000,000 for each fiscal year thereafter through fiscal year 2025.
 
-&emsp;(4) $299,997,000 for fiscal year 2017;
-
-&emsp;(5) $300,000,000 for each of fiscal years 2018, 2019, and 2020;
-
-&emsp;(6) $314,007,780 for fiscal year 2021; and
-
-&emsp;(7) $222,000,000 for each fiscal year thereafter through fiscal year 2025.
-
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1817; amended Pub. L. 111–383, div. C, title XXXV, §3502(3), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(i), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–92, div. C, title XXXV, §3504(b), Nov. 25, 2015, 129 Stat. 1219; Pub. L. 114–113, div. O, title I, §101(e)(2), Dec. 18, 2015, 129 Stat. 2988.)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1817; amended Pub. L. 111–383, div. C, title XXXV, §3502(3), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(i), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–92, div. C, title XXXV, §3504(b), Nov. 25, 2015, 129 Stat. 1219; Pub. L. 114–113, div. O, title I, §101(e)(2), Dec. 18, 2015, 129 Stat. 2988; Pub. L. 115–232, div. C, title XXXV, §3546(p), Aug. 13, 2018, 132 Stat. 2327.)
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232 redesignated pars. (5) to (7) as (1) to (3), respectively, and struck out former pars. (1) to (4) which set out authorized amounts for fiscal years 2006 to 2017.
 
 <b>2015</b>—Par. (3). Pub. L. 114–113, §101(e)(2)(A), substituted "and 2015" for "2015, 2017, and 2018;".
 
@@ -31,6 +25,4 @@ Pars. (4) to (7). Pub. L. 114–113, §101(e)(2)(B), (C), added pars. (4) to (6)
 Pars. (3) to (5). Pub. L. 112–239, §3508(i)(2), which directed amendment of par. (3) "to read as follows" and then set out pars. (3) to (5), was executed by amending par. (3) generally and adding pars. (4) and (5) to reflect the probable intent of Congress. Prior to amendment, par. (3) read as follows: "$186,000,000 for each fiscal year thereafter through fiscal year 2025."
 
 <b>2011</b>—Par. (3). Pub. L. 111–383 substituted "2025" for "2015".
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

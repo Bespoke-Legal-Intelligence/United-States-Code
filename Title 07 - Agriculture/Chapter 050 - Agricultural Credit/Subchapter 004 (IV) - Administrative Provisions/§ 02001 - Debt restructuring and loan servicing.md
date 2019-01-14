@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall modify delinquent farmer program loans made or insured under this chapter, or purchased from the lender or the Federal Deposit Insurance Corporation under section 1929b of this title, to the maximum extent possible—
+The Secretary shall modify delinquent farmer program loans made or insured under this chapter, or purchased from the lender or the FederalDeposit Insurance Corporation under section 1929b of this title, to the maximum extent possible—
 
 &emsp;(1) to avoid losses to the Secretary on such loans, with priority consideration being placed on writing-down the loan principal and interest (subject to subsections (d) and (e)), and debt set-aside (subject to subsection (e)), whenever these procedures would facilitate keeping the borrower on the farm or ranch, or otherwise through the use of primary loan service programs as provided in this section; and
 
@@ -68,7 +68,7 @@ To be eligible to obtain assistance under subsection (a)—
 
 #### (B) Present value
 
-&emsp;&emsp;For the purpose of calculating the present value referred to in subparagraph (A), theSecretary shall use a discount rate of not more than the current rate on 90-day Treasury bills.
+&emsp;&emsp;For the purpose of calculating the present value referred to in subparagraph (A), the Secretary shall use a discount rate of not more than the current rate on 90-day Treasury bills.
 
 #### (C) Cash flow margin
 
@@ -86,7 +86,7 @@ To be eligible to obtain assistance under subsection (a)—
 
 #### (5) Restructuring of loans
 
-&emsp;If the value of the restructured loan is greater than or equal to the recovery value, the Secretary shall, within 45 days after notifying the borrower of such calculations, offer to restructure the loan obligations of the borrower under this chapter through primary loan service programs that would enable the borrower to meet the obligations (as modified) under the loan and to continue the farming operations of the borrower. If the borrower accepts such offer, within 45 days after receipt of notice of acceptance, the Secretary shall restructure the loan accordingly.
+&emsp;If the value of the restructured loan is greater than or equal to the recovery value, theSecretary shall, within 45 days after notifying the borrower of such calculations, offer to restructure the loan obligations of the borrower under this chapter through primary loan service programs that would enable the borrower to meet the obligations (as modified) under the loan and to continue the farming operations of the borrower. If the borrower accepts such offer, within 45 days after receipt of notice of acceptance, the Secretary shall restructure the loan accordingly.
 
 #### (6) Termination of loan obligations
 
@@ -272,7 +272,7 @@ The Secretary may provide not more than $300,000 in principal and interest forgi
 
 #### References in Text
 
-For definition of "this chapter", referred to in subsecs. (a), (c)(5), and (k), see note set out under section 1921 of this title.
+This chapter, referred to in subsecs. (a), (c)(5), and (k), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 Section 1983b of this title, referred to in subsec. (h), was repealed by Pub. L. 103–354, title II, §281(c), Oct. 13, 1994, 108 Stat. 3233.
 
@@ -324,7 +324,7 @@ Subsec. (c)(3)(C). Pub. L. 101–624, §1816(c), added subpar. (C).
 
 Subsec. (c)(4). Pub. L. 101–624, §1816(d), substituted "90" for "60" in introductory provisions.
 
-Subsec. (c)(6). Pub. L. 101–624, §1816(f), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "If the value of the restructured loan is less than the recovery value and if, within 45 days after receipt of the notification described in paragraph (4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the recovery value, the obligations of the borrower to the Secretary under the loan shall terminate, except that the Secretary may require, as a condition of such termination of loan obligations, that the borrower enter into an agreement with the Secretary if the borrower sells or otherwiseconveys the real property used to secure such loan within 2 years after the date of such agreement. Any such agreement shall provide for the recapture of part or all of the difference between the recovery value of the loan and the fair market value (on the date of such agreement) of the property securing the loan if the borrower realizes a gain on the sale or conveyance over the amount of the recovery value of the loan. In no event shall any such agreement provide for recapture of an amount that exceeds the difference between such recovery value and the fair market value of the property securing the loan on the date of such agreement."
+Subsec. (c)(6). Pub. L. 101–624, §1816(f), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "If the value of the restructured loan is less than the recovery value and if, within 45 days after receipt of the notification described in paragraph (4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the recovery value, the obligations of the borrower to the Secretary under the loan shall terminate, except that the Secretary may require, as a condition of such termination of loan obligations, that the borrower enter into an agreement with the Secretary if the borrower sells or otherwise conveys the real property used to secure such loan within 2 years after the date of such agreement. Any such agreement shall provide for the recapture of part or all of the difference between the recovery value of the loan and the fair market value (on the date of such agreement) of the property securing the loan if the borrower realizes a gain on the sale or conveyance over the amount of the recovery value of the loan. In no event shall any such agreement provide for recapture of an amount that exceeds the difference between such recovery value and the fair market value of the property securing the loan on the date of such agreement."
 
 Subsec. (c)(7). Pub. L. 101–624, §1816(g), added par. (7).
 
@@ -336,7 +336,7 @@ Amendment by section 645(1) of Pub. L. 104–127 effective 90 days after Apr. 4,
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(3) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation,and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(3) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 
 #### Effective Date of 1990 Amendment
 

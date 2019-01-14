@@ -52,7 +52,7 @@ No registered public accounting firm shall be liable in a private action for any
 
 #### (d) Civil penalties in cease-and-desist proceedings
 
-If the Commission finds, after notice and opportunity for hearing in a proceeding instituted pursuant to section 78u–3 of this title, that a registered public accounting firm has willfully violated paragraph (3) or (4) of subsection (b), the Commission may, in addition to entering an order under section 78u–3 of this title, impose a civil penalty against the registered public accounting firm and any other person that the Commission finds was a cause of such violation. The determination to impose a civil penalty and the amount of the penalty shall be governed by the standards set forth in section 78u–2 of this title.
+If the Commission finds, after notice and opportunity for hearing in a proceeding instituted pursuant to section 78u–3 of this title, that a registered public accounting firm has willfully violated paragraph (3) or (4) of subsection (b), the Commission may, in addition to entering an order under section 78u–3 of this title, impose a civil penalty against the registered public accounting firm and any other person that the Commission finds was a cause of such violation. The determination to impose a civil penalty andthe amount of the penalty shall be governed by the standards set forth in section 78u–2 of this title.
 
 #### (e) Preservation of existing authority
 
@@ -64,7 +64,7 @@ As used in this section, the term "illegal act" means an act or omission that vi
 
 #### (g) Prohibited activities
 
-Except as provided in subsection (h), it shall be unlawful for a registered public accounting firm (and any associated person of that firm, to the extent determined appropriate by the Commission) that performs for any issuer any audit required by this chapter or the rules of the Commission under this chapter or, beginning 180days after the date of commencement of the operations of the Public Company Accounting Oversight Board established under section 7211 of this title (in this section referred to as the "Board"), the rules of the Board, to provide to that issuer, contemporaneously with the audit, any non-audit service, including—
+Except as provided in subsection (h), it shall be unlawful for a registered public accounting firm (and any associated person of that firm, to the extent determined appropriate by the Commission) that performs for any issuer any audit required by this chapter or the rules of the Commission under this chapter or, beginning 180 days after the date of commencement of the operations of the Public Company Accounting Oversight Board established under section 7211 of this title (in this section referred to as the "Board"), the rules of the Board, to provide to that issuer, contemporaneously with the audit, any non-audit service, including—
 
 &emsp;(1) bookkeeping or other services related to the accounting records or financial statements of the audit client;
 
@@ -218,7 +218,7 @@ Subsec. (c). Pub. L. 107–204, §205(b)(3), substituted "No registered public a
 
 Subsec. (d). Pub. L. 107–204, §205(b)(1), (2), substituted "a registered public accounting firm" for "an independent public accountant" and "the registered public accounting firm" for "the independent public accountant".
 
-Subsec. (f). Pub. L. 107–204, §205(d), substituted "Definitions" for "Definition" in heading and inserted at end "As used in this section, the term 'issuer' means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, or that files or has filed a registration statement that has not yet become effectiveunder the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn."
+Subsec. (f). Pub. L. 107–204, §205(d), substituted "Definitions" for "Definition" in heading and inserted at end "As used in this section, the term 'issuer' means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn."
 
 Subsecs. (g), (h). Pub. L. 107–204, §201(a), added subsecs. (g) and (h).
 

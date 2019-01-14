@@ -24,3 +24,4 @@ A prior subpart 4, consisting of sections 300gg–21 to 300gg–23, which relate
 - [&sect; 00300gg&#8211;18 - Bringing down the cost of health care coverage](%C2%A7%2000300gg%E2%80%9318%20-%20Bringing%20down%20the%20cost%20of%20health%20care%20coverage.md)
 - [&sect; 00300gg&#8211;19 - Appeals process](%C2%A7%2000300gg%E2%80%9319%20-%20Appeals%20process.md)
 - [&sect; 00300gg&#8211;19a - Patient protections](%C2%A7%2000300gg%E2%80%9319a%20-%20Patient%20protections.md)
+- [&sect; 00300gg&#8211;19b - Information on prescription drugs](%C2%A7%2000300gg%E2%80%9319b%20-%20Information%20on%20prescription%20drugs.md)

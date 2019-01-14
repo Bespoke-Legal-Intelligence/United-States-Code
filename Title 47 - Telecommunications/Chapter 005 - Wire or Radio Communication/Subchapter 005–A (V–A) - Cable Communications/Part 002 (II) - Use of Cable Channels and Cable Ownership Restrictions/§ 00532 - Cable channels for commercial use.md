@@ -26,7 +26,7 @@ The purpose of this section is to promote competition in the delivery of diverse
 
 (5) For the purposes of this section, the term "commercial use" means the provision of video programming, whether or not for profit.
 
-(6) Any channel capacity which has been designated for public, educational, or governmentaluse may not be considered as designated under this section for commercial use for purpose of this section.
+(6) Any channel capacity which has been designated for public, educational, or governmental use may not be considered as designated under this section for commercial use for purpose of this section.
 
 #### (c) Use of channel capacity by unaffiliated persons; editorial control; restriction on service; rules on rates, terms, and conditions
 
@@ -68,7 +68,7 @@ Notwithstanding sections 541(c) and 543(a) of this title, at such time as cable 
 
 #### (h) Cable service unprotected by Constitution
 
-Any cable service offered pursuant to this section shall not be provided, or shall be providedsubject to conditions, if such cable service in the judgment of the franchising authority or the cable operator is obscene, or is in conflict with community standards in that it is lewd, lascivious, filthy, or indecent or is otherwise unprotected by the Constitution of the United States. This subsection shall permit a cable operator to enforce prospectively a written and published policy of prohibiting programming that the cable operator reasonably believes describes or depicts sexual or excretory activities or organs in a patently offensive manner as measured by contemporary community standards.
+Any cable service offered pursuant to this section shall not be provided, or shall be provided subject to conditions, if such cable service in the judgment of the franchising authority or the cable operator is obscene, or is in conflict with community standards in that it is lewd, lascivious, filthy, or indecent or is otherwise unprotected by the Constitution of the United States. This subsection shall permit a cable operator to enforce prospectively a written and published policy of prohibiting programming that the cable operator reasonably believes describes or depicts sexual or excretory activities or organs in a patently offensive manner as measured by contemporary community standards.
 
 #### (i) Programming from qualified minority or educational programming sources
 
@@ -92,7 +92,7 @@ Any cable service offered pursuant to this section shall not be provided, or sha
 
 (2) Cable operators shall comply with the regulations promulgated pursuant to paragraph (1).
 
-(June 19, 1934, ch. 652, title VI, §612, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2782; amended Pub. L. 102–385, §§9, 10(a), (b), Oct. 5, 1992, 106 Stat. 1484, 1486; Pub. L. 104–104, title V, §506(b), Feb. 8, 1996, 110 Stat. 137.)
+(June 19, 1934, ch. 652, title VI, §612, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2782;amended Pub. L. 102–385, §§9, 10(a), (b), Oct. 5, 1992, 106 Stat. 1484, 1486; Pub. L. 104–104, title V, §506(b), Feb. 8, 1996, 110 Stat. 137.)
 
 #### Constitutionality
 

@@ -16,11 +16,11 @@ For purposes of this section, an aircraft shall not be considered as operated on
 
 For purposes of this section, the term "jet aircraft" shall not include any aircraft which is a rotorcraft or propeller aircraft.
 
-(Added Pub. L. 91–258, title II, §205(a)(1), May 21, 1970, 84 Stat. 241; amended Pub. L. 97–248, title II, §280(c)(2)(B), Sept. 3, 1982, 96 Stat. 564; Pub. L. 109–59, title XI, §11124(a), Aug. 10, 2005, 119 Stat. 1952; Pub. L. 112–95, title XI, §1107(a), Feb. 14, 2012, 126 Stat. 154; Pub. L. 113–295, div. A, title II, §204(a), Dec. 19, 2014, 128 Stat. 4025.)
+(Added Pub. L. 91–258, title II, §205(a)(1), May 21, 1970, 84 Stat. 241; amended Pub. L. 97–248, titleII, §280(c)(2)(B), Sept. 3, 1982, 96 Stat. 564; Pub. L. 109–59, title XI, §11124(a), Aug. 10, 2005, 119 Stat. 1952; Pub. L. 112–95, title XI, §1107(a), Feb. 14, 2012, 126 Stat. 154; Pub. L. 113–295, div. A, title II, §204(a), Dec. 19, 2014, 128 Stat. 4025.)
 
 #### Prior Provisions
 
-A prior section 4281, act Aug. 16, 1954, ch. 736, 68A Stat. 508, related to tax on transportation of oil by pipeline, prior to repeal by Pub. L. 85–475, §4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an EffectiveDate of 1958 Amendment note under section 6415 of this title.
+A prior section 4281, act Aug. 16, 1954, ch. 736, 68A Stat. 508, related to tax on transportation of oil by pipeline, prior to repeal by Pub. L. 85–475, §4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
 
 #### Amendments
 

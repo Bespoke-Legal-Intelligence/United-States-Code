@@ -10,7 +10,7 @@ Section 1414, Pub. L. 89–563, title I, §154, as added Pub. L. 93–492, title
 
 Section 1415, Pub. L. 89–563, title I, §155, as added Pub. L. 93–492, title I, §102(a), Oct. 27, 1974, 88 Stat. 1474; amended Pub. L. 98–620, title IV, §402(17), Nov. 8, 1984, 98 Stat. 3358, related to enforcement of notification and remedy orders. See section 30121 of Title 49.
 
-Section 1416, Pub. L. 89–563, title I, §156, as added Pub. L. 93–492, title I, §102(a), Oct. 27, 1974, 88 Stat. 1475, related to hearing on reasonableness of notificationand remedy for defect or failure to comply with motor vehicle safety standard. See sections 30118 and 30120 of Title 49.
+Section 1416, Pub. L. 89–563, title I, §156, as added Pub. L. 93–492, title I, §102(a), Oct. 27, 1974, 88 Stat. 1475, related to hearing on reasonableness of notification and remedy for defect or failure to comply with motor vehicle safety standard. See sections 30118 and 30120 of Title 49.
 
 Section 1417, Pub. L. 89–563, title I, §157, as added Pub. L. 93–492, title I, §102(a), Oct. 27, 1974, 88 Stat. 1475, related to exemption for inconsequential defect or failure to comply with motor vehicle safety standard. See sections 30118 and 30120 of Title 49.
 

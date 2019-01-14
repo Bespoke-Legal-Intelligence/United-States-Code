@@ -13,3 +13,4 @@ Part A—Federal Administrative Provisions
 - [&sect; 02396 - Federal laws guaranteeing civil rights](%C2%A7%2002396%20-%20Federal%20laws%20guaranteeing%20civil%20rights.md)
 - [&sect; 02397 - Participation of private school personnel and children](%C2%A7%2002397%20-%20Participation%20of%20private%20school%20personnel%20and%20children.md)
 - [&sect; 02398 - Limitation on Federal regulations](%C2%A7%2002398%20-%20Limitation%20on%20Federal%20regulations.md)
+- [&sect; 02399 - Study on programs of study aligned to high-skill, high-wage occupations](%C2%A7%2002399%20-%20Study%20on%20programs%20of%20study%20aligned%20to%20high-skill%2C%20high-wage%20occupations.md)

@@ -48,7 +48,7 @@
 
 (4)(A) A former member of a uniformed service referred to in paragraph (1) is a member who—
 
-&emsp;(i) received a dishonorable or bad-conduct discharge or was dismissed from a uniformedservice as a result of a court-martial conviction for an offense, under either military or civil law, involving abuse of a dependent of the member; or
+&emsp;(i) received a dishonorable or bad-conduct discharge or was dismissed from a uniformed service as a result of a court-martial conviction for an offense, under either military or civil law, involving abuse of a dependent of the member; or
 
 &emsp;(ii) was administratively discharged from a uniformed service as a result of such an offense.
 
@@ -212,7 +212,7 @@ Amendment by section 1671(c)(7)(A) of Pub. L. 103–337 effective Dec. 1, 1994, 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 731(c)(1) of Pub. L. 101–189 applicable to a person referred to in 10 U.S.C. 1072(2)(H) whose decree of divorce, dissolution, or annulment becomes final on or after Nov. 29, 1989, and to a person so referred to whose decree became final during the period from Sept. 29, 1988 to Nov. 28, 1989, as if the amendment had become effective on Sept. 29, 1988, see section 731(d) of Pub. L. 101–189, set out as a note under section 1072 of this title.
+Amendment by section 731(c)(1) of Pub. L. 101–189 applicable to a person referred to in 10 U.S.C. 1072(2)(H)whose decree of divorce, dissolution, or annulment becomes final on or after Nov. 29, 1989, and to a person so referred to whose decree became final during the period from Sept. 29, 1988 to Nov. 28, 1989, as if the amendment had become effective on Sept. 29, 1988, see section 731(d) of Pub. L. 101–189, set out as a note under section 1072 of this title.
 
 #### Effective Date of 1988 Amendment
 

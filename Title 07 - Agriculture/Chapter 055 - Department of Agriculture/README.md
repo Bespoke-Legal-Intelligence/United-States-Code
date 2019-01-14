@@ -14,12 +14,16 @@
 | [2204a.](%C2%A7%2002204a%20-%20Rural%20development%3B%20utilization%20of%20non-Federal%20offices%3B%20location%20of%20field%20units%3B%20interchange%20of%20personnel%20and%20facilities.md) | Rural development; utilization of non-Federal offices; location of field units; interchange of personnel and facilities. |
 | [2204b.](%C2%A7%2002204b%20-%20Rural%20development%20policy.md) | Rural development policy. |
 | 2204b–1. | Rural development. |
+| 2204b–2. | Temporary prioritization of rural health assistance. |
+| 2204b–3. | Council on Rural Community Innovation and Economic Development. |
 | [2204c.](%C2%A7%2002204c%20-%20Water%20management%20for%20rural%20areas.md) | Water management for rural areas. |
 | [2204d.](%C2%A7%2002204d%20-%20Encouragement%20of%20private%20contracting.md) | Encouragement of private contracting. |
 | [2204e.](%C2%A7%2002204e%20-%20Office%20of%20Risk%20Assessment%20and%20Cost-Benefit%20Analysis.md) | Office of Risk Assessment and Cost-Benefit Analysis. |
 | [2204f.](%C2%A7%2002204f%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VI%2C%20%C2%A76403%28a%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20429.md) | Repealed. |
 | [2204g.](%C2%A7%2002204g%20-%20Authority%20of%20Secretary%20of%20Agriculture%20to%20conduct%20census%20of%20agriculture.md) | Authority of Secretary of Agriculture to conduct census of agriculture. |
 | [2204h.](%C2%A7%2002204h%20-%20Local%20food%20production%20and%20program%20evaluation.md) | Local food production and program evaluation. |
+| [2204i.](%C2%A7%2002204i%20-%20Reports%20on%20land%20access%20and%20farmland%20ownership%20data%20collection.md) | Reports on land access and farmland ownership data collection. |
+| [2204j.](%C2%A7%2002204j%20-%20National%20agriculture%20imagery%20program.md) | National agriculture imagery program. |
 | [2205\.](%C2%A7%2002205%20-%20Duties%20of%20former%20Commissioner%20of%20Agriculture%20transferred%20to%20Secretary.md) | Duties of former Commissioner of Agriculture transferred to Secretary. |
 | [2206\.](%C2%A7%2002206%20-%20Custody%20of%20property%20and%20records.md) | Custody of property and records. |
 | [2206a.](%C2%A7%2002206a%20-%20Conveyance%20of%20excess%20Federal%20personal%20property.md) | Conveyance of excess Federal personal property. |
@@ -28,6 +32,7 @@
 | [2207a.](%C2%A7%2002207a%20-%20Reports%20to%20Congress%20on%20obligation%20and%20expenditure.md) | Reports to Congress on obligation and expenditure. |
 | [2207b.](%C2%A7%2002207b%20-%20Program%20metrics.md) | Program metrics. |
 | [2207c.](%C2%A7%2002207c%20-%20Annual%20report%20on%20work%20of%20agricultural%20experiment%20stations%20and%20of%20college%20extension%20work%3B%20publication%20and%20distribution.md) | Annual report on work of agricultural experiment stations and of college extension work; publication and distribution. |
+| [2207d.](%C2%A7%2002207d%20-%20Reports%20on%20disbursement%20of%20funds%20for%20agricultural%20research%20and%20extension%20at%201862%20and%201890%20land-grant%20colleges%2C%20including%20Tuskegee%E2%80%A6.md) | Reports on disbursement of funds for agricultural research and extension at 1862 and 1890 land-grant colleges, including Tuskegee University. |
 | [2208\.](%C2%A7%2002208%20-%20Expenditure%20of%20appropriations%3B%20accounting.md) | Expenditure of appropriations; accounting. |
 | [2208a.](%C2%A7%2002208a%20-%20Loan%20levels%20provided%20to%20Department%20of%20Agriculture.md) | Loan levels provided to Department of Agriculture. |
 | [2209\.](%C2%A7%2002209%20-%20Additional%20statement%20of%20expenditures.md) | Additional statement of expenditures. |
@@ -119,6 +124,8 @@
 | [2264\.](%C2%A7%2002264%20-%20National%20Agricultural%20Library%3B%20acceptance%20of%20gifts%2C%20bequests%2C%20or%20devises%3B%20conditional%20gifts.md) | National Agricultural Library; acceptance of gifts, bequests, or devises; conditional gifts. |
 | [2265\.](%C2%A7%2002265%20-%20Deposit%20of%20money%20accepted%20for%20benefit%20of%20National%20Agricultural%20Library%3B%20disbursement.md) | Deposit of money accepted for benefit of National Agricultural Library; disbursement. |
 | [2266\.](%C2%A7%2002266%20-%20Congressional%20reaffirmation%20of%20policy%20to%20foster%20and%20encourage%20family%20farms.md) | Congressional reaffirmation of policy to foster and encourage family farms. |
+| [2266a.](%C2%A7%2002266a%20-%20Century%20Farms%20program.md) | Century Farms program. |
+| [2266b.](%C2%A7%2002266b%20-%20Eligibility%20for%20operators%20on%20heirs%20property%20land%20to%20obtain%20a%20farm%20number.md) | Eligibility for operators on heirs property land to obtain a farm number. |
 | [2267\.](%C2%A7%2002267%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93387%2C%20title%20I%2C%20%C2%A7101%28b%29%281%29%2C%20Aug.%2011%2C%201988%2C%20102%20Stat.%20931.md) | Repealed. |
 | [2268\.](%C2%A7%2002268%20-%20Public%20lands%3B%20relinquishment.md) | Public lands; relinquishment. |
 | [2268a.](%C2%A7%2002268a%20-%20Acquisition%20of%20land%3B%20options.md) | Acquisition of land; options. |
@@ -138,7 +145,7 @@
 | [2276\.](%C2%A7%2002276%20-%20Confidentiality%20of%20information.md) | Confidentiality of information. |
 | [2277\.](%C2%A7%2002277%20-%20Contracts%20by%20Animal%20and%20Plant%20Health%20Inspection%20Service%20for%20services%20to%20be%20performed%20abroad.md) | Contracts by Animal and Plant Health Inspection Service for services to be performed abroad. |
 | [2278\.](%C2%A7%2002278%20-%20Consistency%20with%20international%20obligations%20of%20United%20States.md) | Consistency with international obligations of United States. |
-| [2279\.](%C2%A7%2002279%20-%20Outreach%20and%20assistance%20for%20socially%20disadvantaged%20farmers%20and%20ranchers%20and%20veteran%20farmers%20and%20ranchers.md) | Outreach and assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers. |
+| [2279\.](%C2%A7%2002279%20-%20Farming%20opportunities%20training%20and%20outreach.md) | Farming opportunities training and outreach. |
 | 2279–1. | Transparency and accountability for socially disadvantaged farmers and ranchers. |
 | 2279–2. | Report of civil rights complaints, resolutions, and actions. |
 | [2279a.](%C2%A7%2002279a%20-%20Fair%20and%20equitable%20treatment%20of%20socially%20disadvantaged%20producers.md) | Fair and equitable treatment of socially disadvantaged producers. |
@@ -150,6 +157,8 @@
 | [2279g.](%C2%A7%2002279g%20-%20Marketing%20services%3B%20cooperative%20agreements.md) | Marketing services; cooperative agreements. |
 | [2279h.](%C2%A7%2002279h%20-%20Cross-servicing%20activities%20of%20National%20Finance%20Center.md) | Cross-servicing activities of National Finance Center. |
 | [2279i.](%C2%A7%2002279i%20-%20Cooperation%20with%20State%20and%20other%20agencies%3B%20expenditures.md) | Cooperation with State and other agencies; expenditures. |
+| [2279j.](%C2%A7%2002279j%20-%20Conversion%20authority.md) | Conversion authority. |
+| [2279k.](%C2%A7%2002279k%20-%20Authorization%20of%20protection%20operations%20for%20the%20Secretary%20of%20Agriculture%20and%20others.md) | Authorization of protection operations for the Secretary of Agriculture and others. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -170,12 +179,16 @@
 - [&sect; 02204a - Rural development; utilization of non-Federal offices; location of field units; interchange of personnel and facilities](%C2%A7%2002204a%20-%20Rural%20development%3B%20utilization%20of%20non-Federal%20offices%3B%20location%20of%20field%20units%3B%20interchange%20of%20personnel%20and%20facilities.md)
 - [&sect; 02204b - Rural development policy](%C2%A7%2002204b%20-%20Rural%20development%20policy.md)
 - [&sect; 02204b&#8211;1 - Rural development](%C2%A7%2002204b%E2%80%931%20-%20Rural%20development.md)
+- [&sect; 02204b&#8211;2 - Temporary prioritization of rural health assistance](%C2%A7%2002204b%E2%80%932%20-%20Temporary%20prioritization%20of%20rural%20health%20assistance.md)
+- [&sect; 02204b&#8211;3 - Council on Rural Community Innovation and Economic Development](%C2%A7%2002204b%E2%80%933%20-%20Council%20on%20Rural%20Community%20Innovation%20and%20Economic%20Development.md)
 - [&sect; 02204c - Water management for rural areas](%C2%A7%2002204c%20-%20Water%20management%20for%20rural%20areas.md)
 - [&sect; 02204d - Encouragement of private contracting](%C2%A7%2002204d%20-%20Encouragement%20of%20private%20contracting.md)
 - [&sect; 02204e - Office of Risk Assessment and Cost-Benefit Analysis](%C2%A7%2002204e%20-%20Office%20of%20Risk%20Assessment%20and%20Cost-Benefit%20Analysis.md)
 - [&sect; 02204f - Repealed. Pub. L. 107&#8211;171, title VI, &sect;6403(a), May 13, 2002, 116 Stat. 429](%C2%A7%2002204f%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VI%2C%20%C2%A76403%28a%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20429.md)
 - [&sect; 02204g - Authority of Secretary of Agriculture to conduct census of agriculture](%C2%A7%2002204g%20-%20Authority%20of%20Secretary%20of%20Agriculture%20to%20conduct%20census%20of%20agriculture.md)
 - [&sect; 02204h - Local food production and program evaluation](%C2%A7%2002204h%20-%20Local%20food%20production%20and%20program%20evaluation.md)
+- [&sect; 02204i - Reports on land access and farmland ownership data collection](%C2%A7%2002204i%20-%20Reports%20on%20land%20access%20and%20farmland%20ownership%20data%20collection.md)
+- [&sect; 02204j - National agriculture imagery program](%C2%A7%2002204j%20-%20National%20agriculture%20imagery%20program.md)
 - [&sect; 02205 - Duties of former Commissioner of Agriculture transferred to Secretary](%C2%A7%2002205%20-%20Duties%20of%20former%20Commissioner%20of%20Agriculture%20transferred%20to%20Secretary.md)
 - [&sect; 02206 - Custody of property and records](%C2%A7%2002206%20-%20Custody%20of%20property%20and%20records.md)
 - [&sect; 02206a - Conveyance of excess Federal personal property](%C2%A7%2002206a%20-%20Conveyance%20of%20excess%20Federal%20personal%20property.md)
@@ -184,6 +197,7 @@
 - [&sect; 02207a - Reports to Congress on obligation and expenditure](%C2%A7%2002207a%20-%20Reports%20to%20Congress%20on%20obligation%20and%20expenditure.md)
 - [&sect; 02207b - Program metrics](%C2%A7%2002207b%20-%20Program%20metrics.md)
 - [&sect; 02207c - Annual report on work of agricultural experiment stations and of college extension work; publication and distribution](%C2%A7%2002207c%20-%20Annual%20report%20on%20work%20of%20agricultural%20experiment%20stations%20and%20of%20college%20extension%20work%3B%20publication%20and%20distribution.md)
+- [&sect; 02207d - Reports on disbursement of funds for agricultural research and extension at 1862 and 1890 land-grant colleges, including Tuskegee&#8230;](%C2%A7%2002207d%20-%20Reports%20on%20disbursement%20of%20funds%20for%20agricultural%20research%20and%20extension%20at%201862%20and%201890%20land-grant%20colleges%2C%20including%20Tuskegee%E2%80%A6.md)
 - [&sect; 02208 - Expenditure of appropriations; accounting](%C2%A7%2002208%20-%20Expenditure%20of%20appropriations%3B%20accounting.md)
 - [&sect; 02208a - Loan levels provided to Department of Agriculture](%C2%A7%2002208a%20-%20Loan%20levels%20provided%20to%20Department%20of%20Agriculture.md)
 - [&sect; 02209 - Additional statement of expenditures](%C2%A7%2002209%20-%20Additional%20statement%20of%20expenditures.md)
@@ -277,6 +291,8 @@
 - [&sect; 02264 - National Agricultural Library; acceptance of gifts, bequests, or devises; conditional gifts](%C2%A7%2002264%20-%20National%20Agricultural%20Library%3B%20acceptance%20of%20gifts%2C%20bequests%2C%20or%20devises%3B%20conditional%20gifts.md)
 - [&sect; 02265 - Deposit of money accepted for benefit of National Agricultural Library; disbursement](%C2%A7%2002265%20-%20Deposit%20of%20money%20accepted%20for%20benefit%20of%20National%20Agricultural%20Library%3B%20disbursement.md)
 - [&sect; 02266 - Congressional reaffirmation of policy to foster and encourage family farms](%C2%A7%2002266%20-%20Congressional%20reaffirmation%20of%20policy%20to%20foster%20and%20encourage%20family%20farms.md)
+- [&sect; 02266a - Century Farms program](%C2%A7%2002266a%20-%20Century%20Farms%20program.md)
+- [&sect; 02266b - Eligibility for operators on heirs property land to obtain a farm number](%C2%A7%2002266b%20-%20Eligibility%20for%20operators%20on%20heirs%20property%20land%20to%20obtain%20a%20farm%20number.md)
 - [&sect; 02267 - Repealed. Pub. L. 100&#8211;387, title I, &sect;101(b)(1), Aug. 11, 1988, 102 Stat. 931](%C2%A7%2002267%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93387%2C%20title%20I%2C%20%C2%A7101%28b%29%281%29%2C%20Aug.%2011%2C%201988%2C%20102%20Stat.%20931.md)
 - [&sect; 02268 - Public lands; relinquishment](%C2%A7%2002268%20-%20Public%20lands%3B%20relinquishment.md)
 - [&sect; 02268a - Acquisition of land; options](%C2%A7%2002268a%20-%20Acquisition%20of%20land%3B%20options.md)
@@ -296,7 +312,7 @@
 - [&sect; 02276 - Confidentiality of information](%C2%A7%2002276%20-%20Confidentiality%20of%20information.md)
 - [&sect; 02277 - Contracts by Animal and Plant Health Inspection Service for services to be performed abroad](%C2%A7%2002277%20-%20Contracts%20by%20Animal%20and%20Plant%20Health%20Inspection%20Service%20for%20services%20to%20be%20performed%20abroad.md)
 - [&sect; 02278 - Consistency with international obligations of United States](%C2%A7%2002278%20-%20Consistency%20with%20international%20obligations%20of%20United%20States.md)
-- [&sect; 02279 - Outreach and assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers](%C2%A7%2002279%20-%20Outreach%20and%20assistance%20for%20socially%20disadvantaged%20farmers%20and%20ranchers%20and%20veteran%20farmers%20and%20ranchers.md)
+- [&sect; 02279 - Farming opportunities training and outreach](%C2%A7%2002279%20-%20Farming%20opportunities%20training%20and%20outreach.md)
 - [&sect; 02279&#8211;1 - Transparency and accountability for socially disadvantaged farmers and ranchers](%C2%A7%2002279%E2%80%931%20-%20Transparency%20and%20accountability%20for%20socially%20disadvantaged%20farmers%20and%20ranchers.md)
 - [&sect; 02279&#8211;2 - Report of civil rights complaints, resolutions, and actions](%C2%A7%2002279%E2%80%932%20-%20Report%20of%20civil%20rights%20complaints%2C%20resolutions%2C%20and%20actions.md)
 - [&sect; 02279a - Fair and equitable treatment of socially disadvantaged producers](%C2%A7%2002279a%20-%20Fair%20and%20equitable%20treatment%20of%20socially%20disadvantaged%20producers.md)
@@ -308,3 +324,5 @@
 - [&sect; 02279g - Marketing services; cooperative agreements](%C2%A7%2002279g%20-%20Marketing%20services%3B%20cooperative%20agreements.md)
 - [&sect; 02279h - Cross-servicing activities of National Finance Center](%C2%A7%2002279h%20-%20Cross-servicing%20activities%20of%20National%20Finance%20Center.md)
 - [&sect; 02279i - Cooperation with State and other agencies; expenditures](%C2%A7%2002279i%20-%20Cooperation%20with%20State%20and%20other%20agencies%3B%20expenditures.md)
+- [&sect; 02279j - Conversion authority](%C2%A7%2002279j%20-%20Conversion%20authority.md)
+- [&sect; 02279k - Authorization of protection operations for the Secretary of Agriculture and others](%C2%A7%2002279k%20-%20Authorization%20of%20protection%20operations%20for%20the%20Secretary%20of%20Agriculture%20and%20others.md)

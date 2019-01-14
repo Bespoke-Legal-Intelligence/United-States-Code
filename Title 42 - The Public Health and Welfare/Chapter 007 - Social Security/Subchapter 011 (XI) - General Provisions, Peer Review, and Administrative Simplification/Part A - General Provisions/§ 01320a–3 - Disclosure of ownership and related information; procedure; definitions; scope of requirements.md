@@ -16,7 +16,7 @@
 
 &emsp;(B) an entity (other than an individual practitioner or group of practitioners) that furnishes, or arranges for the furnishing of, items or services with respect to which payment may be claimed by the entity under any plan or program established pursuant to subchapter V or under a State plan approved under subchapter XIX; or
 
-&emsp;(C) a carrier or other agency or organization that is acting as a fiscal intermediary or agent with respect to one or more providers of services (for purposes of part A or part B of subchapter XVIII, or both, or for purposes of a State plan approved under subchapter XIX)pursuant to (i) an agreement under section 1395h of this title, (ii) a contract under section 1395u of this title, or (iii) an agreement with a single State agency administering or supervising the administration of a State plan approved under subchapter XIX.
+&emsp;(C) a carrier or other agency or organization that is acting as a fiscal intermediary or agent with respect to one or more providers of services (for purposes of part A or part B of subchapter XVIII, or both, or for purposes of a State plan approved under subchapter XIX) pursuant to (i) an agreement under section 1395h of this title, (ii) a contract under section 1395u of this title, or (iii) an agreement with a single State agency administering or supervising the administration of a State plan approved under subchapter XIX.
 
 (3) As used in this section, the term "person with an ownership or control interest" means, with respect to an entity, a person who—
 
@@ -30,7 +30,7 @@
 
 #### (b) Other disclosing entities
 
-To the extent determined to be feasible under regulations of the Secretary, a disclosing entity shall also include in the information supplied under subsection (a)(1), with respect to each person with an ownership or control interest in the entity, the name of any other disclosing entity with respect to which the person is a person with an ownership or control interest.
+To the extent determined to be feasible under regulations of the Secretary, a disclosing entity shall also include in the information supplied under subsection (a)(1), with respect to each person with an ownership or control interest in the entity, the name of any other disclosing entitywith respect to which the person is a person with an ownership or control interest.
 
 #### (c) Required disclosure of ownership and additional disclosable parties information
 
@@ -82,7 +82,7 @@ To the extent determined to be feasible under regulations of the Secretary, a di
 
 #### (B) Guidance
 
-&emsp;&emsp;The Secretary shall provide guidance and technical assistance to States on how toadopt the standardized format under subparagraph (A).
+&emsp;&emsp;The Secretary shall provide guidance and technical assistance to States on how to adopt the standardized format under subparagraph (A).
 
 #### (4) No effect on existing reporting requirements
 
@@ -184,7 +184,7 @@ Pub. L. 95–142, §3(e), Oct. 25, 1977, 91 Stat. 1179, provided that: "The amen
 
 #### Public Availability of Information
 
-Pub. L. 111–148, title VI, §6101(b), Mar. 23, 2010, 124 Stat. 702, provided that: "Not later than the date that is 1 year after the date on which the final regulations promulgated under section 1124(c)(3)(A) of the Social Security Act \[42 U.S.C. 1320a–3(c)(3)(A)\], as added by subsection (a), are published in the Federal Register, the Secretary of Health and Human Services shall make the information reported in accordance with such final regulations available to the public in accordance with procedures established by the Secretary."
+Pub. L. 111–148, title VI, §6101(b), Mar. 23, 2010, 124 Stat. 702, provided that: "Not later than the date thatis 1 year after the date on which the final regulations promulgated under section 1124(c)(3)(A) of the Social Security Act \[42 U.S.C. 1320a–3(c)(3)(A)\], as added by subsection (a), are published in the Federal Register, the Secretary of Health and Human Services shall make the information reported in accordance with such final regulations available to the public in accordance with procedures established by the Secretary."
 
 #### Report on Confidentiality of Social Security Account Numbers
 

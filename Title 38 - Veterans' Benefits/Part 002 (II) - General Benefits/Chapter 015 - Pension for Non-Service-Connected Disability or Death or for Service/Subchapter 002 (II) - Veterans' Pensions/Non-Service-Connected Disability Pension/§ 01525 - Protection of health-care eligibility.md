@@ -4,7 +4,7 @@
 
 (b) For purposes of this section, the term "terminated by reason of income from work or training" means terminated as a result of the veteran's receipt of earnings from activity performed for remuneration or with gain, but only if the veteran's annual income from sources other than such earnings would, taken alone, not result in the termination of the veteran's pension.
 
-(Added Pub. L. 98–543, title III, §301(a)(1), Oct. 24, 1984, 98 Stat. 2746, §525; amended Pub. L. 99–272, title XIX, §19011(d)(1), Apr. 7, 1986, 100 Stat. 378; Pub. L. 99–576, title VII, §703(b)(2), Oct. 28, 1986, 100 Stat. 3303; Pub. L. 100–687, div. B, title XIII, §1303(c), Nov. 18, 1988, 102 Stat. 4128; renumbered §1525 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, §2(c), May 20, 1992, 106 Stat. 178; Pub. L. 102–568, title IV, §403(a), (b)(1), Oct. 29, 1992, 106 Stat. 4337; Pub. L. 104–262, title I, §101(e)(1), Oct. 9, 1996, 110 Stat. 3180.)
+(Added Pub. L. 98–543, title III, §301(a)(1), Oct. 24, 1984, 98 Stat. 2746, §525; amended Pub. L. 99–272, title XIX, §19011(d)(1), Apr. 7, 1986, 100 Stat. 378; Pub. L. 99–576, title VII, §703(b)(2), Oct. 28, 1986, 100 Stat. 3303; Pub. L. 100–687, div. B, title XIII, §1303(c), Nov. 18, 1988, 102 Stat. 4128; renumbered §1525 and amended Pub. L. 102–83, §5(a), (c)(1),Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, §2(c), May 20, 1992, 106 Stat. 178; Pub. L. 102–568, title IV, §403(a), (b)(1), Oct. 29, 1992, 106 Stat. 4337; Pub. L. 104–262, title I, §101(e)(1), Oct. 9, 1996, 110 Stat. 3180.)
 
 #### Amendments
 

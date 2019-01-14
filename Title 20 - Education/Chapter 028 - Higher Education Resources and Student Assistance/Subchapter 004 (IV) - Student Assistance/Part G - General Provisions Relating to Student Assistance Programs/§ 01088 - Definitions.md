@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(ii) a graduate or professional program.
 
-(2)(A) A program is an eligible program for purposes of part B of this subchapter if it is a program of at least 300 clock hours of instruction, but less than 600 clock hours of instruction, offered during a minimum of 10 weeks, that—
+(2)(A) A program is an eligible program for purposes of part B of this subchapter if it is aprogram of at least 300 clock hours of instruction, but less than 600 clock hours of instruction, offered during a minimum of 10 weeks, that—
 
 &emsp;(i) has a verified completion rate of at least 70 percent, as determined in accordance with the regulations of the Secretary;
 
@@ -90,13 +90,13 @@ For purposes of parts B, D, and E of this subchapter:
 
 #### (e) Consumer reporting agency
 
-For purposes of this subchapter, the term "consumer reporting agency" has the meaninggiven the term "consumer reporting agency that compiles and maintains files on consumers on a nationwide basis" in Section <sup>1</sup> 1681a(p) of title 15.
+For purposes of this subchapter, the term "consumer reporting agency" has the meaning given the term "consumer reporting agency that compiles and maintains files on consumers on a nationwide basis" in Section <sup>1</sup> 1681a(p) of title 15.
 
 #### (f) Definition of educational service agency
 
 For purposes of parts B, D, and E, the term "educational service agency" has the meaning given the term in section 7801 of this title.
 
-(Pub. L. 89–329, title IV, §481, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1476; amended Pub. L. 100–50, §15(1), June 3, 1987, 101 Stat. 355; Pub. L. 101–239, title II, §2007(b), (c), Dec. 19, 1989, 103 Stat. 2120, 2121; Pub. L. 101–508, title III, §3005(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(a)(2), (3), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–325, title IV, §481, July 23, 1992, 106 Stat. 609; Pub. L. 103–208, §2(h)(1)–(6), Dec. 20, 1993, 107 Stat. 2475, 2476; Pub. L. 105–216, §12, July 29, 1998, 112 Stat. 908; Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 109–171, title VIII, §§8007(d), 8020(a), (b), Feb. 8, 2006, 120 Stat. 161, 177; Pub. L. 110–315, title IV, §481, Aug. 14, 2008, 122 Stat. 3271; Pub. L. 111–39, title IV, §407(b)(1), July 1, 2009, 123 Stat. 1950; Pub. L. 114–95, title IX, §9215(oo)(10), Dec. 10, 2015, 129 Stat. 2180.)
+(Pub. L. 89–329, title IV, §481, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1476; amended Pub. L. 100–50, §15(1), June 3, 1987, 101 Stat. 355; Pub. L. 101–239, title II, §2007(b), (c), Dec. 19, 1989, 103 Stat. 2120, 2121; Pub. L. 101–508, title III, §3005(b), Nov. 5, 1990, 104 Stat.1388–28; Pub. L. 102–26, §2(a)(2), (3), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–325, title IV, §481, July 23, 1992, 106 Stat. 609; Pub. L. 103–208, §2(h)(1)–(6), Dec. 20, 1993, 107 Stat. 2475, 2476; Pub. L. 105–216, §12, July 29, 1998, 112 Stat. 908; Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 109–171, title VIII, §§8007(d), 8020(a), (b), Feb. 8, 2006, 120 Stat. 161, 177; Pub. L. 110–315, title IV, §481, Aug. 14, 2008, 122 Stat. 3271; Pub. L. 111–39, title IV, §407(b)(1), July 1, 2009, 123 Stat. 1950; Pub. L. 114–95, title IX, §9215(oo)(10), Dec. 10, 2015, 129 Stat. 2180.)
 
 #### Prior Provisions
 
@@ -138,7 +138,7 @@ Subsec. (f). Pub. L. 103–208, §2(h)(6), substituted "individual, or any State
 
 <b>1992</b>—Pub. L. 102–325, §481(a), amended section catchline.
 
-Subsec. (a). Pub. L. 102–325, §481(a), added subsec. (a) and struck out former subsec. (a) which contained pars.\(1) and (2) defining "institution of higher education" and "accredited" and par. (3) which related to recognition of accreditation of eligible institutions of higher education.
+Subsec. (a). Pub. L. 102–325, §481(a), added subsec. (a) and struck out former subsec. (a) which contained pars. (1) and (2) defining "institution of higher education" and "accredited" and par. (3) which related to recognition of accreditation of eligible institutions of higher education.
 
 Subsec. (b). Pub. L. 102–325, §481(b)(4), struck out at end "For the purpose of this subsection, the Secretary shall publish a list of nationally recognized accrediting agencies or associations which he determines to be reliable authority as to the quality of training offered."
 
@@ -224,7 +224,7 @@ Section 3005(c) of Pub. L. 101–508, which provided that the amendments made by
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Construction of 2006 Amendment
 

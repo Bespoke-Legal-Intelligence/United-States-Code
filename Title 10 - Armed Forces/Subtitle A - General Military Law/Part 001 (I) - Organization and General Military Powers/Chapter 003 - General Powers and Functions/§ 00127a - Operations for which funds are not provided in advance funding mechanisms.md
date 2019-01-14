@@ -16,7 +16,7 @@ In General.—(1) The Secretary of Defense shall use the procedures prescribed b
 
 > Any operation the incremental cost of which is expected not to exceed $10,000,000 shall be disregarded for the purposes of subparagraph (B).
 
-(3) This section does not provide authority for the President or the Secretary of Defense to carry out any operation, but establishes mechanisms for the Department of Defense by which funds are provided for operations that the armed forces are required to carry out under some other authority.
+(3) This section does not provide authority for the President or the Secretary of Defense tocarry out any operation, but establishes mechanisms for the Department of Defense by which funds are provided for operations that the armed forces are required to carry out under some other authority.
 
 (b)
 

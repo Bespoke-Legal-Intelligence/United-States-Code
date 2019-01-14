@@ -16,7 +16,7 @@ Relief.—In an action under this section, appropriate relief includes—
 
 (c)
 
-Computation of Damages.—(1) In an action under this section, if the conduct in violation of this chapter is the private viewing of a private satellite video communication that is not scrambled or encrypted or if the communication is a radio communication that is transmitted on frequencies allocated under subpart D of part 74 of the rules of the Federal Communications Commission that is not scrambled or encrypted and the conduct is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, then the court shall assess damages as follows:
+Computation of Damages.—(1) In an action under this section, if the conduct in violation of this chapter is the private viewing of a private satellite video communication that is not scrambled or encrypted or if the communication is a radio communication that is transmitted on frequencies allocated under subpart D of part 74 of the rules of the Federal CommunicationsCommission that is not scrambled or encrypted and the conduct is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, then the court shall assess damages as follows:
 
 &emsp;(A) If the person who engaged in that conduct has not previously been enjoined under section 2511(5) and has not been found liable in a prior civil action under this section, the court shall assess the greater of the sum of actual damages suffered by the plaintiff, or statutory damages of not less than $50 and not more than $500.
 
@@ -36,7 +36,7 @@ Defense.—A good faith reliance on—
 
 &emsp;(2) a request of an investigative or law enforcement officer under section 2518(7) of this title; or
 
-&emsp;(3) a good faith determination that section 2511(3) or 2511(2)(i) of this title permitted the conduct complained of;
+&emsp;(3) a good faith determination that section 2511(3), 2511(2)(i), or 2511(2)(j) of this title permitted the conduct complained of;
 
 > is a complete defense against any civil or criminal action brought under this chapter or any other law.
 
@@ -52,9 +52,11 @@ Administrative Discipline.—If a court or appropriate department or agency dete
 
 Improper Disclosure Is Violation.—Any willful disclosure or use by an investigative or law enforcement officer or governmental entity of information beyond the extent permitted by section 2517 is a violation of this chapter for purposes of section 2520(a).
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 223; amended Pub. L. 91–358, title II, §211(c), July 29, 1970, 84 Stat. 654; Pub. L. 99–508, title I, §103, Oct. 21, 1986, 100 Stat. 1853; Pub. L. 107–56, title II, §223(a), Oct. 26, 2001, 115 Stat. 293; Pub. L. 107–296, title II, §225(e), Nov. 25, 2002, 116 Stat. 2157.)
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 223; amended Pub. L. 91–358, title II, §211(c), July 29, 1970, 84 Stat. 654; Pub. L. 99–508, title I, §103, Oct. 21, 1986, 100 Stat. 1853; Pub. L. 107–56, title II, §223(a), Oct. 26, 2001, 115 Stat. 293; Pub. L. 107–296, title XXII, §2207(e), formerly title II, §225(e), Nov. 25, 2002, 116 Stat. 2157, renumbered §2207(e), Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 115–141, div. V, §104(1)(B), Mar. 23, 2018, 132 Stat. 1216.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(3). Pub. L. 115–141 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "a good faith determination that section 2511(3) or 2511(2)(i) of this title permitted the conduct complained of;".
 
 <b>2002</b>—Subsec. (d)(3). Pub. L. 107–296 inserted "or 2511(2)(i)" after "2511(3)".
 
@@ -85,4 +87,8 @@ Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in cas
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–358 effective on first day of seventh calendar month which begins after July 29, 1970, see section 901(a) of Pub. L. 91–358.
+
+#### Rule of Construction
+
+Pub. L. 115–141, div. V, §106, Mar. 23, 2018, 132 Stat. 1224, provided that: "Nothing in this division \[see section 101 of Pub. L. 115–141, set out as a Short Title of 2018 Amendment note under section 1 of this title\], or the amendments made by this division, shall be construed to preclude any foreign authority from obtaining assistance in a criminal investigation or prosecution pursuant to section 3512 of title 18, United States Code, section 1782 of title 28, United States Code, or as otherwise provided by law."
 

@@ -24,7 +24,7 @@ Selective Early Separation Boards.—Whenever the needs of the Army, Navy, Air F
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–136, §511(b)(1)(A), (D), substituted "Selective Early Separation Boards" for "Continuation Boards" in heading and struck out concluding provisions which read as follows: "A selection board convened under this subsection shall be known as a 'continuation board'."
 
-Subsec. (b)(1) to (3). Pub. L. 108–136, §511(b)(1)(B), (C), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: "for continuation on the reserve active-status list under section 14701 of this title;".
+Subsec. (b)(1) to (3). Pub. L. 108–136, §511(b)(1)(B), (C), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows:"for continuation on the reserve active-status list under section 14701 of this title;".
 
 <b>2001</b>—Subsec. (a)(3). Pub. L. 107–107 added par. (3).
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Improvements and Operations Not Exempted.—The improvements and operations on land leased by a person with an enhanced-use lease from the Secretary shall be subject to all applicable provisions of Federal, State, or local law relating to taxation, fees, and assessments.
+Improvements and Operations Not Exempted.—The improvements and operations on land leased by a person with an enhanced-use lease from the Secretary shall be subject to allapplicable provisions of Federal, State, or local law relating to taxation, fees, and assessments.
 
 (b)
 

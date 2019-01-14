@@ -32,13 +32,17 @@ The Secretary shall establish a Technology Transfer Working Group, which shall c
 
 #### (e) Technology Commercialization Fund
 
-The Secretary shall establish an Energy Technology Commercialization Fund, using 0.9 percent of the amount made available to the Department for applied energy research, development, demonstration, and commercial application for each fiscal year based on future planned activities and the amount of the appropriations for the fiscal year, to be used to provide matching funds with private partners to promote promising energy technologies for commercial purposes.
+The Secretary shall establish an Energy Technology Commercialization Fund, using 0.9 percent of the amount made available to the Department for applied energy research, development, demonstration, and commercial application for each fiscal year based on future planned activities and the amount of the appropriationsfor the fiscal year, to be used to provide matching funds with private partners to promote promising energy technologies for commercial purposes.
 
 #### (f) Technology transfer responsibility
 
 Nothing in this section affects the technology transfer responsibilities of Federal employees under the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).
 
-#### (g) Planning and reporting
+#### (g) Early stage technology demonstration
+
+The Secretary shall permit the directors of the National Laboratories to use funds authorized to support technology transfer within the Department to carry out early stage and precommercial technology demonstration activities to remove technology barriers that limit private sector interest and demonstrate potential commercial applications of any research and technologies arising from National Laboratory activities.
+
+#### (h) Planning and reporting
 
 #### (1) In general
 
@@ -48,13 +52,15 @@ Nothing in this section affects the technology transfer responsibilities of Fede
 
 &emsp;Each year after the submission of the plan under paragraph (1), the Secretary shall submit to Congress an updated execution plan and reports that describe progress toward meeting goals set forth in the execution plan and the funds expended under subsection (e).
 
-(Pub. L. 109–58, title X, §1001, Aug. 8, 2005, 119 Stat. 926; Pub. L. 113–291, div. C, title XXXI, §3144, Dec. 19, 2014, 128 Stat. 3902.)
+(Pub. L. 109–58, title X, §1001, Aug. 8, 2005, 119 Stat. 926; Pub. L. 113–291, div. C, title XXXI, §3144, Dec. 19, 2014, 128 Stat. 3902; Pub. L. 115–246, title I, §102, Sept. 28, 2018, 132 Stat. 3131.)
 
 #### References in Text
 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsecs. (g), (h). Pub. L. 115–246 added subsec. (g) and redesignated former subsec. (g) as (h).
 
 <b>2014</b>—Subsec. (e). Pub. L. 113–291 inserted "based on future planned activities and the amount of the appropriations for the fiscal year" after "each fiscal year".
 

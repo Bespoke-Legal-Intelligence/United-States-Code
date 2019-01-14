@@ -56,7 +56,7 @@ In carrying out this part, each area agency on aging shall make use of trained v
 
 #### (3) Reports
 
-&emsp;The State shall prepare and submit to the Assistant Secretary reports on the data and records required under paragraph (2), including information on the services funded under this part, and standards and mechanisms bywhich the quality of the services shall be assured. The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or older relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.
+&emsp;The State shall prepare and submit to the Assistant Secretary reports on the data and records required under paragraph (2), including information on the services funded under this part, and standards and mechanisms by which the quality of the services shall be assured. The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or older relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.
 
 #### (f) Caregiver allotment
 
@@ -124,7 +124,7 @@ Subsec. (c)(1)(B). Pub. L. 109–365, §321(2)(A), substituted "subparagraph (A)
 
 Subsec. (c)(2). Pub. L. 109–365, §321(2)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "In providing services under this subpart, the State shall give priority for services to older individuals with greatest social and economic need, (with particular attention to low-income older individuals) and older individuals providing care and support to persons with mental retardation and related developmental disabilities (as defined in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6001)) (referred to in this subpart as 'developmental disabilities')."
 
-Subsec. (d). Pub. L. 109–365, §321(3), amended subsec. (d) generally. Prior to amendment, text read as follows: "In carrying out this subpart, each area agency on aging shall coordinate the activities of the agency, or entity that such agency has contracted with, with the activities of other community agencies and voluntary organizations providing the types of services described in subsection (b) of this section."
+Subsec. (d). Pub. L. 109–365, §321(3), amended subsec. (d) generally. Prior to amendment, text read as follows: "In carrying out this subpart, each area agency on aging shall coordinate the activities of the agency, or entity that such agency has contracted with, with the activities of other community agencies and voluntaryorganizations providing the types of services described in subsection (b) of this section."
 
 Subsec. (e)(3). Pub. L. 109–365, §321(4), inserted at end "The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or grandparents or older individuals who are relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities."
 

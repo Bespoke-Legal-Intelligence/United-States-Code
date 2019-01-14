@@ -10,7 +10,7 @@ Findings.—Congress finds that—
 
 &emsp;(3) new and innovative equipment and services are being sought, produced, and offered by entrepreneurs in telecommunications, information services, microgravity research, human space flight, and remote sensing technologies;
 
-&emsp;(4) the private sector in the United States has the capability of developing and providing private launching, reentry, and associatedservices that would complement the launching, reentry, and associated capabilities of the United States Government;
+&emsp;(4) the private sector in the United States has the capability of developing and providing private launching, reentry, and associated services that would complement the launching, reentry, and associated capabilities of the United States Government;
 
 &emsp;(5) the development of commercial launch vehicles, reentry vehicles, and associated services would enable the United States to retain its competitive position internationally, contributing to the national interest and economic well-being of the United States;
 

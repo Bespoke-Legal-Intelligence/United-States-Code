@@ -12,7 +12,7 @@ The Administrator (or another Federal department or agency designated by the Adm
 
 &emsp;(4) Publication of public information materials concerning radon health risks and methods of radon mitigation.
 
-&emsp;(5) Operation of cooperative projects between the Environmental Protection Agency'sRadon Action Program and the State's radon program. Such projects shall include the Home Evaluation Program, in which the Environmental Protection Agency evaluates homes and States demonstrate mitigation methods in these homes. To the maximum extent practicable, consistent with the objectives of the evaluation and demonstration, homes of low-income persons should be selected for evaluation and demonstration.
+&emsp;(5) Operation of cooperative projects between the Environmental Protection Agency's Radon Action Program and the State's radon program. Such projects shall include the Home Evaluation Program, in which the Environmental Protection Agency evaluates homes and States demonstrate mitigation methods in these homes. To the maximum extent practicable, consistent with the objectives of the evaluation and demonstration, homes of low-income persons should be selected for evaluation and demonstration.
 
 &emsp;(6) Demonstration of radon mitigation methods in various types of structures and in various geographic settings and publication of findings. In the case of demonstration of such methods in homes, the Administrator should select homes of low-income persons, to the maximum extent practicable and consistent with the objectives of the demonstration.
 
@@ -90,7 +90,7 @@ The Administrator, or another Federal department or agency designated by the Adm
 
 #### (7) User fee
 
-&emsp;In addition to any charge imposed pursuant to paragraph (2), the Administrator shall collect user fees from persons seeking certification under the radon proficiency program in an amount equal to $1,500,000 to cover the Environmental Protection Agency's cost of conducting research pursuant to paragraph (5) for each of the fiscal years 1991, 1992, 1993, 1994, and 1995. Such funds shall be deposited in the account established pursuant to paragraph (3).
+&emsp;In addition to any charge imposed pursuant to paragraph (2), the Administrator shall collect user fees from persons seeking certification under the radon proficiency program in an amount equal to $1,500,000 to cover the Environmental Protection Agency's cost of conducting research pursuant to paragraph (5) for each of the fiscal years 1991, 1992, 1993, 1994,and 1995. Such funds shall be deposited in the account established pursuant to paragraph (3).
 
 #### (e) Authorization
 

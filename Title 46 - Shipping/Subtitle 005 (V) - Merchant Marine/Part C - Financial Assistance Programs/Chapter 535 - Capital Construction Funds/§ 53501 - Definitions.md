@@ -64,7 +64,7 @@ Qualified vessel.—The term "qualified vessel" means—
 
 &emsp;&emsp;&emsp;(ii) documented under the laws of the United States; and
 
-&emsp;&emsp;&emsp;(iii) agreed, between the Secretary and the person maintaining the capital construction fund established under section 53503 of this title, to be operated in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade trade <sup>1</sup> or in the fisheries of the United States; and
+&emsp;&emsp;&emsp;(iii) agreed, between the Secretary and the person maintaining the capital construction fund established under section 53503 of this title, to be operated in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade or in the fisheries of the United States; and
 
 &emsp;&emsp;(B) a commercial fishing vessel—
 
@@ -86,7 +86,7 @@ Secretary.—The term "Secretary" means—
 
 &emsp;&emsp;(B) the Secretary of Transportation with respect to other vessels.
 
-&emsp;(7) <sup>2</sup>
+&emsp;(7)
 
 Short sea transportation trade.—The term "short sea transportation trade" means the carriage by vessel of cargo—
 
@@ -102,11 +102,11 @@ Short sea transportation trade.—The term "short sea transportation trade" mean
 
 &emsp;&emsp;&emsp;(ii) loaded at a port in Canada located in the Great Lakes Saint Lawrence Seaway System and unloaded at a port in the United States.
 
-&emsp;(7) <sup>2</sup>
+&emsp;(8)
 
 United states foreign trade.—The term "United States foreign trade" includes those areas in domestic trade in which a vessel built with a construction-differential subsidy is allowed to operate under the first sentence of section 506 of the Merchant Marine Act, 1936.
 
-&emsp;(8)
+&emsp;(9)
 
 Vessel.—The term "vessel" includes—
 
@@ -130,7 +130,7 @@ Historical and Revision Notes
 
 46 App.:1177(b)(3), (k)(3).
 
-June 29, 1936, ch. 858, title VI, §607(b)(3), (k)(1)–(3), (5)–(9), 49 Stat. 2005; June 23, 1938, ch. 600, §§23–28, 52 Stat. 960; Aug. 4, 1939, ch. 417, §10, 53 Stat. 1185; July 17, 1952, ch. 939, §§17–19, 66 Stat. 764; Pub. L. 85–637, Aug. 14, 1958, 72 Stat. 592; Pub. L. 86–518, §1, June 12, 1960, 74 Stat. 216; Pub. L. 87–45, §6, May 27, 1961, 75 Stat. 91; Pub. L. 87–271, Sept. 21, 1961, 75 Stat. 570; restated Pub. L. 91–469, §21(a), Oct. 21, 1970, 84 Stat. 1027, 1031, 1032; Pub. L. 93–116, Oct. 1, 1973, 87 Stat. 421; Pub. L. 97–31, §12(97), Aug. 6, 1981, 95 Stat. 162.
+June 29, 1936, ch. 858, title VI, §607(b)(3), (k)(1)–(3), (5)–(9), 49 Stat. 2005; June 23, 1938, ch. 600, §§23–28, 52 Stat. 960; Aug. 4, 1939, ch. 417, §10, 53 Stat. 1185; July 17, 1952, ch. 939, §§17–19, 66 Stat. 764; Pub. L. 85–637, Aug. 14, 1958, 72 Stat. 592; Pub. L. 86–518, §1, June 12, 1960, 74 Stat. 216; Pub. L. 87–45, §6, May 27, 1961, 75 Stat. 91; Pub. L. 87–271, Sept. 21, 1961, 75 Stat. 570; restated Pub. L. 91–469, §21(a), Oct. 21, 1970, 84 Stat. 1027, 1031, 1032; Pub. L. 93–116, Oct. 1, 1973, 87 Stat. 421; Pub. L. 97–31, §12(97), Aug. 6, 1981, 95 Stat. 162; Pub. L. 115–232, div. C, title XXXV, §3546(q), Aug. 13, 2018, 132 Stat. 2327.
 
 53501(2)
 
@@ -176,9 +176,15 @@ In paragraph (2)(A)(iii), the word "trade" is substituted for "commerce" for con
 
 #### References in Text
 
-Section 506 of the Merchant Marine Act, 1936, referred to in par. (7), is section 506 of act June 29, 1936, ch. 858, 49 Stat. 1985, which is set out as a note under section 53101 of this title.
+Section 506 of the Merchant Marine Act, 1936, referred to in par. (8), is section 506 of act June 29, 1936, ch. 858, 49 Stat. 1985, which is set out as a note under section 53101 of this title.
 
 #### Amendments
+
+<b>2018</b>—Par. (5)(A)(iii). Pub. L. 115–232, §3546(q)(1), substituted "transportation trade or" for "transportation trade trade or".
+
+Par. (7). Pub. L. 115–232, §3546(q)(3), struck out par. (7), as added by Pub. L. 109–304, §8(c), which read as follows: "The term 'United States foreign trade' includes those areas in domestic trade in which a vessel built with a construction-differential subsidy is allowed to operate under the first sentence of section 506 of the Merchant Marine Act, 1936."
+
+Pars. (8), (9). Pub. L. 115–232, §3546(q)(2), (4), added par. (8) and redesignated former par. (8) as (9).
 
 <b>2007</b>—Par. (5)(A)(iii). Pub. L. 110–140, §1122(a)(1), substituted "noncontiguous domestic, or short sea transportation trade" for "or noncontiguous domestic".
 
@@ -187,8 +193,4 @@ Par. (7). Pub. L. 110–140, §1122(a)(2), added par. (7) relating to short sea 
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
-
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> So in original. Two pars. (7) have been enacted.</i>
 

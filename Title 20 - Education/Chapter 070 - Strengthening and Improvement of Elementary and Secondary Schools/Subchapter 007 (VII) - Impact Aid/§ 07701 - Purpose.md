@@ -36,7 +36,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, and effective with respec
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1818\], Oct. 30, 2000, 114 Stat. 1654, 1654A–389, provided that: "This title \[amending this section and sections 1228, 7702, 7703, 7705, 7707, 7709 to 7713, and 7714 of this title, repealing section 7706 of this title, and enacting provisions set out as notes under sections 6301, 7703, and 7711 of this title\], and the amendments made by this title, shall take effect on October 1, 2000, or the date of the enactment of this Act \[Oct. 30, 2000\], whichever occurs later."
+Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1818\], Oct. 30, 2000, 114 Stat. 1654, 1654A–389, provided that: "Thistitle \[amending this section and sections 1228, 7702, 7703, 7705, 7707, 7709 to 7713, and 7714 of this title, repealing section 7706 of this title, and enacting provisions set out as notes under sections 6301, 7703, and 7711 of this title\], and the amendments made by this title, shall take effect on October 1, 2000, or the date of the enactment of this Act \[Oct. 30, 2000\], whichever occurs later."
 
 #### Effective Date
 

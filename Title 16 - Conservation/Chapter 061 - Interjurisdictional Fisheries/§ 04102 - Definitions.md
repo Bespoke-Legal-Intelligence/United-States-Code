@@ -8,7 +8,7 @@ For the purposes of this chapter:
 
 &emsp;(3) The term "interjurisdictional fishery resource" means—
 
-&emsp;&emsp;(A) a fishery resource for which a fishery occurs in waters under the jurisdiction of one or more States and the exclusive economic zone established by Proclamation Numbered 5030, dated March 10, 1983;
+&emsp;&emsp;(A) a fishery resource for which a fishery occurs in waters under the jurisdiction ofone or more States and the exclusive economic zone established by Proclamation Numbered 5030, dated March 10, 1983;
 
 &emsp;&emsp;(B) a fishery resource for which there exists an interstate fishery management plan; or
 

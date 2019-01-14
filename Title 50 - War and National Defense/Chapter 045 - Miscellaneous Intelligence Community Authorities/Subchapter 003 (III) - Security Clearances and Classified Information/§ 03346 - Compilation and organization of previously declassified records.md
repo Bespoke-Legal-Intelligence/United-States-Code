@@ -14,7 +14,7 @@ For the purpose of this section, the term "special search" means the response of
 
 &emsp;(2) An Executive order to conduct a declassification review on a specified set of agency records.
 
-&emsp;(3) An order from the President or an official with delegated authority from the Presidentto conduct a declassification review on a specified set of agency records.
+&emsp;(3) An order from the President or an official with delegated authority from the President to conduct a declassification review on a specified set of agency records.
 
 (Pub. L. 106–398, §1 \[\[div. A\], title X, §1075\], Oct. 30, 2000, 114 Stat. 1654, 1654A–280.)
 

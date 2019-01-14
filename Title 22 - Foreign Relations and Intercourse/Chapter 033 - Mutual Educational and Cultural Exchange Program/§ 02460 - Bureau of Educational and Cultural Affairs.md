@@ -186,7 +186,7 @@ Sec. 4. The Working Group shall have the following responsibilities:
 
 (d) No later than 1 year from the date of this order, develop initially and thereafter assess annually a coordinated strategy for all United States Government-sponsored international exchange and training programs, and issue a report on such strategy;
 
-(e) No later than 2 years from the date of this order, develop recommendations on performance measures for all United States Government-sponsored international exchange and training programs, and issue a report thereon; and
+(e) No later than 2 years from the date of this order, develop recommendations on performance measures forall United States Government-sponsored international exchange and training programs, and issue a report thereon; and
 
 (f) Develop strategies for expanding public and private partnerships in, and leveraging private sector support for, United States Government-sponsored international exchange and training activities.
 

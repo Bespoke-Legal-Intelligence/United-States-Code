@@ -8,7 +8,7 @@
 
 #### (2) Required information
 
-&emsp;The application or protocol described in paragraph (1) shall include, with respect to the device for which approval is sought and if readily available—
+&emsp;The application or protocol described in paragraph (1) shall include, with respect to thedevice for which approval is sought and if readily available—
 
 &emsp;&emsp;(A) a description of any pediatric subpopulations that suffer from the disease or condition that the device is intended to treat, diagnose, or cure; and
 

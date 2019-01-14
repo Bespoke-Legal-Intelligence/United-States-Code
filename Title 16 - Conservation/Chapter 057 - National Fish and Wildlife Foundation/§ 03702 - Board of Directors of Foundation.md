@@ -12,7 +12,7 @@
 
 #### (3) Not Federal employees
 
-&emsp;Appointment as a Director of the Foundation shall not constitute employment by, or the holding of an office of, the United States for the purpose of any Federal law.
+&emsp;Appointment as a Director of the Foundation shall not constitute employment by, orthe holding of an office of, the United States for the purpose of any Federal law.
 
 #### (b) Appointment and terms
 
@@ -50,7 +50,7 @@
 
 #### (B) Initial appointments to new member positions
 
-&emsp;&emsp;Of the Directors appointed by the Secretary of the Interior under paragraph\(2)(B)(ii), the Secretary shall appoint, in fiscal year 2001, three Directors for a term of 6 years.
+&emsp;&emsp;Of the Directors appointed by the Secretary of the Interior under paragraph (2)(B)(ii), the Secretary shall appoint, in fiscal year 2001, three Directors for a term of 6 years.
 
 #### (C) Subsequent appointments to new member positions
 
@@ -112,7 +112,7 @@ Members of the Board shall serve without pay, but may be reimbursed for the actu
 
 &emsp;(A) Officers and employees may not be appointed until the Foundation has sufficient funds to pay them for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
-&emsp;(B) The first officer or employee appointed by the Board shall be the Secretary of the Board who (i) shall serve, at the direction of the Board, as its chief operating officer, and (ii) shall be knowledgeable and experienced in matters relating to fish and wildlife conservation.
+&emsp;(B) The first officer or employee appointed by the Board shall be the Secretary of the Board who (i) shall serve, at the direction of the Board, as its chief operating officer, and (ii) shall be knowledgeable and experienced inmatters relating to fish and wildlife conservation.
 
 (Pub. L. 98–244, §3, Mar. 26, 1984, 98 Stat. 107; Pub. L. 101–593, title I, §110(b), Nov. 16, 1990, 104 Stat. 2959; Pub. L. 103–232, title I, §103(a)(1), (b), Apr. 11, 1994, 108 Stat. 336; Pub. L. 106–408, title II, §203(a), (b), Nov. 1, 2000, 114 Stat. 1777, 1778; Pub. L. 110–281, §2, July 21, 2008, 122 Stat. 2617.)
 

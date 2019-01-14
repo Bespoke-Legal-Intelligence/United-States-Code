@@ -48,7 +48,7 @@ Pub. L. 101–147, §1(a), Nov. 10, 1989, 103 Stat. 877, provided that: "This Ac
 
 Pub. L. 99–661, §4001(a), Nov. 14, 1986, 100 Stat. 4070, provided that: "This division \[div. D (§§4001–4503) of Pub. L. 99–661, amending sections 1752, 1755, 1758, 1760, 1761, 1762a, 1766, 1769 to 1769b, 1772, 1773, 1776, 1784, 1786, 1788, and 1789 of this title, repealing sections 1767, 1768, and 1769c of this title, and enacting provisions set out as notes under sections 1758, 1760, 1766, 1772, 1773, and 1786 of this title and section 1431e of Title 7, Agriculture\] may be cited as the 'Child Nutrition Amendments of 1986'."
 
-Pub. L. 99–500, title III, §301(a), Oct. 18, 1986, 100 Stat. 1783–359, and Pub. L. 99–591, title III, §301(a), Oct. 30,1986, 100 Stat. 3341–362, provided that: "This title \[amending sections 1752, 1755, 1758, 1760, 1761, 1762a, 1766, 1769 to 1769b, 1772, 1773, 1776, 1784, 1786, 1788, and 1789 of this title and section 1929a of Title 7, Agriculture, repealing sections 1767, 1768, and 1769c of this title, and enacting provisions set out as notes under sections 1758, 1760, 1766, 1772, 1773, and 1786 of this title and sections 1431e and 1929a of Title 7\] may be cited as the 'School Lunch and Child Nutrition Amendments of 1986'."
+Pub. L. 99–500, title III, §301(a), Oct. 18, 1986, 100 Stat. 1783–359, and Pub. L. 99–591, title III, §301(a), Oct. 30, 1986, 100 Stat. 3341–362, provided that: "This title \[amending sections 1752, 1755, 1758, 1760, 1761, 1762a, 1766, 1769 to 1769b, 1772, 1773, 1776, 1784, 1786, 1788, and 1789 of this title and section 1929a of Title 7, Agriculture, repealing sections 1767, 1768, and 1769c of this title, and enacting provisions set out as notes under sections 1758, 1760, 1766, 1772, 1773, and 1786 of this title and sections 1431e and 1929a of Title 7\] may be cited as the 'School Lunch and Child Nutrition Amendments of 1986'."
 
 #### Short Title of 1978 Amendment
 
@@ -138,7 +138,7 @@ Coordination.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Agriculture shall develop proposed changes to the regulations under the school lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 etseq.), the summer food service program under section 13 of that Act (42 U.S.C. 1761), and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773), for the purpose of simplifying and coordinating those programs into a comprehensive meal program.
+In general.—The Secretary of Agriculture shall develop proposed changes to the regulations under the school lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.), the summer food service program under section 13 of that Act (42 U.S.C. 1761), and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773), for the purpose of simplifying and coordinating those programs into a comprehensive meal program.
 
 &emsp;"(2)
 
@@ -180,7 +180,7 @@ Requirements.—In establishing the comprehensive meal program under subsection 
 
 &emsp;"(2) The Secretary shall continue to make breakfast assistance payments in accordance with section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) and food assistance payments in accordance with the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 
-&emsp;"(3) The Secretary may not consolidate any aspect of the school lunch program or the school breakfast program with respect to any matter described in any of subparagraphs (A) through (N) of section 12(l)(4) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)(4)).
+&emsp;"(3) The Secretary may not consolidate any aspect of the school lunch program or the school breakfastprogram with respect to any matter described in any of subparagraphs (A) through (N) of section 12(l)(4) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)(4)).
 
 "(c)
 

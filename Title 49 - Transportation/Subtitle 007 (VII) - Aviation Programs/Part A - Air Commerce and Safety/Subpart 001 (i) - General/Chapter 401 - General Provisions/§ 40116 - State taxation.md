@@ -42,6 +42,8 @@ Unreasonable Burdens and Discrimination Against Interstate Commerce.—(1) In th
 
 &emsp;(iv) levy or collect a tax, fee, or charge, first taking effect after August 23, 1994, exclusively upon any business located at a commercial service airport or operating as a permittee of such an airport other than a tax, fee, or charge wholly utilized for airport or aeronautical purposes.
 
+&emsp;(v) except as otherwise provided under section 47133, levy or collect a tax, fee, or charge, first taking effect after the date of enactment of this clause, upon any business located at a commercial service airport or operating as a permittee of such an airport that is not generally imposed on sales or services by that State, political subdivision, or authority unless wholly utilized for airport or aeronautical purposes.
+
 (B) Subparagraph (A) of this paragraph does not apply to an in lieu tax completely used for airport and aeronautical purposes.
 
 (e)
@@ -66,7 +68,7 @@ Pay of Air Carrier Employees.—(1) In this subsection—
 
 &emsp;(A) the State or political subdivision of the State that is the residence of the employee.
 
-&emsp;(B) the State or political subdivision of the State in which the employee earns more than 50 percent of the pay received by the employee from the carrier.
+&emsp;(B) the State or political subdivision of the State in which the employee earns more than50 percent of the pay received by the employee from the carrier.
 
 (3) Compensation paid by an air carrier to an employee described in subsection (a) in connection with such employee's authorized leave or other authorized absence from regular duties on the carrier's aircraft in order to perform services on behalf of the employee's airline union shall be subject to the income tax laws of only the following:
 
@@ -74,7 +76,7 @@ Pay of Air Carrier Employees.—(1) In this subsection—
 
 &emsp;(B) The State or political subdivision of the State in which the employee's scheduled flight time would have been more than 50 percent of the employee's total scheduled flight time for the calendar year had the employee been engaged full time in the performance of regularly assigned duties on the carrier's aircraft.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1111; Pub. L. 103–305, title I, §112(e), title II, §208, Aug. 23, 1994, 108 Stat. 1576, 1588; Pub. L. 104–264, title I, §149(b), Oct. 9, 1996, 110 Stat. 3226; Pub. L. 104–287, §5(66), Oct. 11, 1996, 110 Stat. 3395.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1111; Pub. L. 103–305, title I, §112(e), title II, §208, Aug. 23, 1994, 108 Stat. 1576, 1588; Pub. L. 104–264, title I, §149(b), Oct. 9, 1996, 110 Stat. 3226; Pub. L. 104–287, §5(66), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 115–254, div. B, title I, §159(a), Oct. 5, 2018, 132 Stat. 3220.)
 
 Historical and Revision Notes
 
@@ -152,7 +154,13 @@ In subsection (f)(2), before clause (A), the words "as such an employee" are omi
 
 This amends 49:40116(d)(2)(A)(iv) to conform to the style of title 49 and to set out the effective date for this clause.
 
+#### References in Text
+
+The date of enactment of this clause, referred to in subsec. (d)(2)(A)(v), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.
+
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(2)(A)(v). Pub. L. 115–254 added cl. (v).
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–264, in introductory provisions, substituted "a State, a" for "a State or" and inserted ", and any person that has purchased or leased an airport under section 47134 of this title" after "of a State".
 
@@ -167,4 +175,8 @@ Subsec. (f)(3). Pub. L. 103–305, §208, added par. (3).
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Construction of 2018 Amendment
+
+Pub. L. 115–254, div. B, title I, §159(b), Oct. 5, 2018, 132 Stat. 3220, provided that: "Nothing in this section \[amending this section\] or an amendment made by this section shall affect a change to a rate or other provision of a tax, fee, or charge under section 40116 of title 49, United States Code, that was enacted prior to the date of enactment of this Act \[Oct. 5, 2018\]. Such provision of a tax, fee, or charge shall continue to be subject to the requirements to which such provision was subject under that section as in effect on the day before the date of enactment of this Act."
 

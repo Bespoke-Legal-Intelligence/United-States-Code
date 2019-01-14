@@ -12,7 +12,7 @@
 
 &emsp;(C) to a veteran whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title; or
 
-&emsp;(D) to a veteran who was awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14.
+&emsp;(D) to a veteran who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 <sup>1</sup> of title 14.
 
 (4) Paragraph (1) does not apply to opioid antagonists furnished under this chapter to a veteran who is at high risk for overdose of a specific medication or substance in order to reverse the effect of such an overdose.
 
@@ -24,9 +24,15 @@
 
 (c) Amounts collected under this section shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund.
 
-(Added Pub. L. 101–508, title VIII, §8012(a)(1), Nov. 5, 1990, 104 Stat. 1388–345, §622A; renumbered §1722A, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–139, title V, §518(a), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–568, title VI, §§605(a), 606(a), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12002(b), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title XII, §1201(e)(7), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 105–33, title VIII, §§8021(b), 8023(b)(3), Aug. 5, 1997, 111 Stat. 665, 667; Pub. L. 106–117, title II, §201(a), Nov. 30, 1999, 113 Stat. 1560; Pub. L. 108–7, div. K, title I, §113(c), Feb. 20, 2003, 117 Stat. 482; Pub. L. 108–170, title I, §101(b), Dec. 6, 2003, 117 Stat. 2043; Pub. L. 114–198, title IX, §915(a), July 22, 2016, 130 Stat. 765; Pub. L. 114–223, div. A, title II, §243(a), Sept. 29, 2016, 130 Stat. 884; Pub. L. 114–315, title VI, §603(d), Dec. 16, 2016, 130 Stat. 1570.)
+(Added Pub. L. 101–508, title VIII, §8012(a)(1), Nov. 5, 1990, 104 Stat. 1388–345, §622A; renumbered §1722A, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–139, title V, §518(a), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–568, title VI, §§605(a), 606(a), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12002(b), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title XII, §1201(e)(7), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 105–33, title VIII, §§8021(b), 8023(b)(3), Aug. 5, 1997, 111 Stat. 665, 667; Pub. L. 106–117, title II, §201(a), Nov. 30, 1999, 113 Stat. 1560; Pub. L. 108–7, div. K, title I, §113(c), Feb. 20, 2003, 117 Stat. 482; Pub. L. 108–170, title I, §101(b), Dec. 6, 2003, 117 Stat. 2043; Pub. L. 114–198, title IX, §915(a), July 22, 2016, 130 Stat. 765; Pub. L. 114–223, div. A, title II, §243(a), Sept. 29, 2016, 130 Stat. 884; Pub. L. 114–315, title VI, §603(d), Dec. 16, 2016, 130 Stat. 1570; Pub. L. 115–232, div. A, title VIII, §809(n)(1)(D), Aug. 13, 2018, 132 Stat. 1843.)
+
+#### References in Text
+
+Section 491 of title 14, referred to in subsec. (a)(3)(D), was redesignated section 2732 of title 14 by Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 491 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(3)(D). Pub. L. 115–232 substituted "section 7271, 8291, or 9271 of title 10" for "section 3741, 6241, or 8741 of title 10".
 
 <b>2016</b>—Subsec. (a)(3)(D). Pub. L. 114–315 added subpar. (D).
 
@@ -62,6 +68,10 @@ Subsec. (c). Pub. L. 102–568, §606(a), inserted at end "Notwithstanding the p
 
 Subsec. (c). Pub. L. 102–139, as amended by Pub. L. 102–229, substituted "September 30, 1992" for "September 30, 1991".
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by section 8023(b)(3) of Pub. L. 105–33 effective Oct. 1, 1997, see section 8023(g) of Pub. L. 105–33, set out as a note under section 1710 of this title.
@@ -77,4 +87,6 @@ Section to remain in effect through the period covered by Pub. L. 102–145, see
 Section to remain in effect through the period covered by Pub. L. 102–109, see section 111 of Pub. L. 102–109, set out as an Effective and Termination Dates of 1990 Amendment note under section 1710 of this title.
 
 Pub. L. 101–508, title VIII, §8012(b), Nov. 5, 1990, 104 Stat. 1388–345, provided that: "The amendments made by subsection (a) \[enacting this section\] shall take effect with respect to medication furnished to a veteran after October 31, 1990, or the date of the enactment of this Act \[Nov. 5, 1990\], whichever is later."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -52,7 +52,7 @@ The programs described in subsection (a) shall supplement and be coordinated wit
 
 #### (d) Science, Engineering, and Mathematics Education Fund
 
-The Secretary shall establish a Science, Engineering, and Mathematics Education Fund, using not less than 0.3 percent of the amount made available to the Department for research, development, demonstration, and commercialapplication for each fiscal year, to carry out sections 7381b, 7381c, and 7381c–1 of this title.
+The Secretary shall establish a Science, Engineering, and Mathematics Education Fund, using not less than 0.3 percent of the amount made available to the Department for research, development, demonstration, and commercial application for each fiscal year, to carry out sections 7381b, 7381c, and 7381c–1 of this title.
 
 #### (e) Annual plan for allocation of education funding
 

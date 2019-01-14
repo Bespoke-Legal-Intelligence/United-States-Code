@@ -4,7 +4,7 @@
 
 #### (1) Terms of affidavit
 
-&emsp;No affidavit of support may be accepted by the Attorney General or by any consular officer to establish that an alien is not excludable as a public charge under section 1182(a)(4) of this title unless such affidavit is executed by a sponsor of the alien as a contract—
+&emsp;No affidavit of support may be accepted by the Attorney General or by any consular officer to establish that an alien is not excludable as a public charge under section 1182(a)(4) ofthis title unless such affidavit is executed by a sponsor of the alien as a contract—
 
 &emsp;&emsp;(A) in which the sponsor agrees to provide support to maintain the sponsored alien at an annual income that is not less than 125 percent of the Federal poverty line during the period in which the affidavit is enforceable;
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(ii) all of the qualifying quarters worked by a spouse of such alien during their marriage and the alien remains married to such spouse or such spouse is deceased.
 
-> &emsp;&emsp;No such qualifying quarter of coverage that is creditable under title II of the Social Security Act for any period beginning after December 31, 1996, may be credited to an alien under clause (i) or (ii) if the parent or spouse (as the case may be) of such alien received any Federal means-tested public benefit (asprovided under section 1613 of this title) during the period for which such qualifying quarter of coverage is so credited.
+> &emsp;&emsp;No such qualifying quarter of coverage that is creditable under title II of the Social Security Act for any period beginning after December 31, 1996, may be credited to an alien under clause (i) or (ii) if the parent or spouse (as the case may be) of such alien received any Federal means-tested public benefit (as provided under section 1613 of this title) during the period for which such qualifying quarter of coverage is so credited.
 
 #### (C) Provision of information to save system
 
@@ -116,7 +116,7 @@ An action to enforce an affidavit of support executed under subsection (a) may b
 
 #### (3) Active duty armed services case
 
-&emsp;Such term also includes an individual who does not meet the requirement of paragraph\(1)(E) but is on active duty (other than active duty for training) in the Armed Forces of the United States, is petitioning for the admission of the alien under section 1154 of this title as the spouse or child of the individual, and demonstrates (as provided in paragraph (6)) the means to maintain an annual income equal to at least 100 percent of the Federal poverty line.
+&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(E) but is on active duty (other than active duty for training) in the Armed Forces of the United States, is petitioning for the admission of the alien under section 1154 of this title as the spouse or child of the individual, and demonstrates (as provided in paragraph (6)) the means to maintain an annual income equal to at least 100 percent of the Federal poverty line.
 
 #### (4) Certain employment-based immigrants case
 
@@ -176,7 +176,7 @@ For purposes of this section, the term "Federal poverty line" means the level of
 
 &emsp;(B) a comparison of such numbers with the numbers of such sponsors for the preceding fiscal year.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §213A, as added Pub. L. 104–193, title IV, §423(a), Aug. 22, 1996, 110 Stat. 2271; amended Pub. L. 104–208, div. C, title V, §551(a), Sept. 30, 1996, 110 Stat. 3009–675; Pub. L. 107–150, §2(a)(1), (3), Mar. 13,2002, 116 Stat. 74, 75; Pub. L. 111–83, title V, §568(e), Oct. 28, 2009, 123 Stat. 2187.)
+(June 27, 1952, ch. 477, title II, ch. 2, §213A, as added Pub. L. 104–193, title IV, §423(a), Aug. 22, 1996, 110 Stat. 2271; amended Pub. L. 104–208, div. C, title V, §551(a), Sept. 30, 1996, 110 Stat. 3009–675; Pub. L. 107–150, §2(a)(1), (3), Mar. 13, 2002, 116 Stat. 74, 75; Pub. L. 111–83, title V, §568(e), Oct. 28, 2009, 123 Stat. 2187.)
 
 #### References in Text
 
@@ -214,7 +214,7 @@ In general.—The amendments made by this section \[enacting this section, amend
 
 Promulgation of form.—Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General, in consultation with the heads of other appropriate agencies, shall promulgate a standard form for an affidavit of support consistent with the provisions of section 213A of the Immigration and Nationality Act \[this section\], as amended by subsection (a)."
 
-Pub. L. 104–193, title IV, §423(c), Aug. 22, 1996, 110 Stat. 2273, provided that subsec. (a) of this section was applicable to affidavits of support executed on or after a date specified by Attorney General, which date was to be not earlier than 60 days (and not later than 90 days) after date Attorney General formulated form for such affidavits under subsec. (b) of this section, prior to repeal by Pub. L. 104–208, div. C, title V, §551(b)(2), Sept. 30, 1996, 104 Stat. 3009–679.
+Pub. L. 104–193, title IV, §423(c), Aug. 22, 1996, 110 Stat. 2273, provided that subsec. (a) of this section was applicable to affidavits of support executed on or aftera date specified by Attorney General, which date was to be not earlier than 60 days (and not later than 90 days) after date Attorney General formulated form for such affidavits under subsec. (b) of this section, prior to repeal by Pub. L. 104–208, div. C, title V, §551(b)(2), Sept. 30, 1996, 104 Stat. 3009–679.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

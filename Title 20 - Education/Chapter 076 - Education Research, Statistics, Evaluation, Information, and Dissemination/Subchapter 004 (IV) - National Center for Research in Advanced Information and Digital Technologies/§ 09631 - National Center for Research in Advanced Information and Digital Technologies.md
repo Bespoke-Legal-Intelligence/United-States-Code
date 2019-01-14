@@ -40,7 +40,7 @@ The purpose of the Center shall be to support a comprehensive research and devel
 
 &emsp;&emsp;(A) reflect representation from the public and private sectors;
 
-&emsp;&emsp;(B) shall provide, as nearly as practicable, a broad representation of various regions of the United States, various professions and occupations, and various kinds of talent and experience appropriate to the functions and responsibilities of the Center;
+&emsp;&emsp;(B) shall provide, as nearly as practicable, a broad representation of various regions ofthe United States, various professions and occupations, and various kinds of talent and experience appropriate to the functions and responsibilities of the Center;
 
 &emsp;&emsp;(C) shall not be in a position to benefit financially directly from the contracts and grants to eligible institutions under subsection (f)(2); and
 

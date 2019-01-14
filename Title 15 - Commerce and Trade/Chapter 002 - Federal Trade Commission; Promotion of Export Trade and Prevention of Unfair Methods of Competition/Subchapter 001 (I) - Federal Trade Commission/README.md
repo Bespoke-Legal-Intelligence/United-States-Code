@@ -13,6 +13,7 @@
 - [&sect; 00045a - Labels on products](%C2%A7%2000045a%20-%20Labels%20on%20products.md)
 - [&sect; 00045b - Consumer review protection](%C2%A7%2000045b%20-%20Consumer%20review%20protection.md)
 - [&sect; 00045c - Unfair and deceptive acts and practices relating to circumvention of ticket access control measures](%C2%A7%2000045c%20-%20Unfair%20and%20deceptive%20acts%20and%20practices%20relating%20to%20circumvention%20of%20ticket%20access%20control%20measures.md)
+- [&sect; 00045d - Unfair or deceptive acts or practices with respect to substance use disorder treatment service and products](%C2%A7%2000045d%20-%20Unfair%20or%20deceptive%20acts%20or%20practices%20with%20respect%20to%20substance%20use%20disorder%20treatment%20service%20and%20products.md)
 - [&sect; 00046 - Additional powers of Commission](%C2%A7%2000046%20-%20Additional%20powers%20of%20Commission.md)
 - [&sect; 00046a - Concurrent resolution essential to authorize investigations](%C2%A7%2000046a%20-%20Concurrent%20resolution%20essential%20to%20authorize%20investigations.md)
 - [&sect; 00047 - Reference of suits under antitrust statutes to Commission](%C2%A7%2000047%20-%20Reference%20of%20suits%20under%20antitrust%20statutes%20to%20Commission.md)

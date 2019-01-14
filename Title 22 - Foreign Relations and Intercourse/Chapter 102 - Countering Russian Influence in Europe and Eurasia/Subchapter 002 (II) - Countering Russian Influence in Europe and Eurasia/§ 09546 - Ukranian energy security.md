@@ -8,7 +8,7 @@ It is the policy of the United States—
 
 &emsp;(2) to condemn and oppose all of the destabilizing efforts by the Government of the Russian Federation in Ukraine in violation of its obligations and international commitments;
 
-&emsp;(3) to never recognize the illegal annexation of Crimea by the Government of the Russian Federation or the separation of any portion of Ukrainian territory through the use of military force;
+&emsp;(3) to never recognize the illegal annexation of Crimea by the Government of the Russian Federation or the separation of any portion ofUkrainian territory through the use of military force;
 
 &emsp;(4) to deter the Government of the Russian Federation from further destabilizing and invading Ukraine and other independent countries in Central and Eastern Europe and the Caucuses; <sup>1</sup>
 
@@ -20,7 +20,7 @@ It is the policy of the United States—
 
 &emsp;(8) to work with European Union member states and European Union institutions to promote energy security through developing diversified and liberalized energy markets that provide diversified sources, suppliers, and routes;
 
-&emsp;(9) to continue to oppose the NordStream 2 pipeline given its detrimental impacts on theEuropean Union's energy security, gas market development in Central and Eastern Europe, and energy reforms in Ukraine; and
+&emsp;(9) to continue to oppose the NordStream 2 pipeline given its detrimental impacts on the European Union's energy security, gas market development in Central and Eastern Europe, and energy reforms in Ukraine; and
 
 &emsp;(10) that the United States Government should prioritize the export of United States energy resources in order to create American jobs, help United States allies and partners, and strengthen United States foreign policy.
 
@@ -96,7 +96,7 @@ It is the policy of the United States—
 
 &emsp;&emsp;(A) the United States should assist the efforts of the countries of Europe and Eurasia to enhance their energy security through diversification of energy supplies in order to lessen dependencies on Russian Federation energy resources and state-owned entities; and
 
-&emsp;&emsp;(B) the Export-Import Bank of the United States and the Overseas Private InvestmentCorporation should play key roles in supporting critical energy projects that contribute to that goal.
+&emsp;&emsp;(B) the Export-Import Bank of the United States and the Overseas Private Investment Corporation should play key roles in supporting critical energy projects that contribute to that goal.
 
 #### (3) Use of Countering Russian Influence Fund to provide technical assistance
 
@@ -110,11 +110,23 @@ There is authorized to be appropriated for the Department of State a total of $3
 
 Nothing in this section shall be construed as affecting the responsibilities required and authorities provided under section 7 of the Ukraine Freedom Support Act of 2014 (22 U.S.C. 8926).
 
-(Pub. L. 115–44, title II, §257, Aug. 2, 2017, 131 Stat. 931.)
+(Pub. L. 115–44, title II, §257, Aug. 2, 2017, 131 Stat. 931; Pub. L. 115–254, div. F, title VI, §1470(t), Oct. 5, 2018, 132 Stat. 3519.)
+
+#### Amendment of Subsection (c)(2)(B)
+
+<i>Pub. L. 115–254, div. F, title VI, §1470(t), (w), Oct. 5, 2018, 132 Stat. 3519, provided that, effective at the end of the transition period, as defined in section 9681 of this title, subsection (c)(2)(B) of this section is amended by striking "Overseas Private Investment Corporation" and inserting "United States International Development Finance Corporation". See 2018 Amendment note below.</i>
 
 #### References in Text
 
 The Ukraine Freedom Support Act of 2014, referred to in subsec. (b)(3)(A), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8921 of this title and Tables.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c)(2)(B). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of this title, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Caucasus;".</i>
 

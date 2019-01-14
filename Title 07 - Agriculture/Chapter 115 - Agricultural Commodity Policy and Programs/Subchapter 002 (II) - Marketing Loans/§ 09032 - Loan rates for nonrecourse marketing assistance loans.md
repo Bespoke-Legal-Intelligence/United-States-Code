@@ -1,6 +1,6 @@
 ### §9032. Loan rates for nonrecourse marketing assistance loans
 
-#### (a) In general
+#### (a) 2014 through 2018 crop years
 
 For purposes of each of the 2014 through 2018 crop years, the loan rate for a marketing assistance loan under section 9031 of this title for a loan commodity shall be equal to the following:
 
@@ -62,9 +62,105 @@ For purposes of each of the 2014 through 2018 crop years, the loan rate for a ma
 
 &emsp;(20) In the case of peanuts, $355 per ton.
 
-#### (b) Single county loan rate for other oilseeds
+#### (b) 2019 through 2023 crop years
 
-The Secretary shall establish a single loan rate in each county for each kind of other oilseeds described in subsection (a)(11).
+For purposes of each of the 2019 through 2023 crop years, the loan rate for a marketing assistance loan under section 9031 of this title for a loan commodity shall be equal to the following:
 
-(Pub. L. 113–79, title I, §1202, Feb. 7, 2014, 128 Stat. 675.)
+&emsp;(1) In the case of wheat, $3.38 per bushel.
+
+&emsp;(2) In the case of corn, $2.20 per bushel.
+
+&emsp;(3) In the case of grain sorghum, $2.20 per bushel.
+
+&emsp;(4) In the case of barley, $2.50 per bushel.
+
+&emsp;(5) In the case of oats, $2.00 per bushel.
+
+&emsp;(6)(A) Subject to subparagraphs (B) and (C), in the case of base quality of upland cotton, the simple average of the adjusted prevailing world price for the 2 immediately preceding marketing years, as determined by the Secretary and announced October 1 preceding the next domestic planting.
+
+&emsp;(B) Except as provided in subparagraph (C), the loan rate determined under subparagraph (A) may not equal less than an amount equal to 98 percent of the loan rate for base quality of upland cotton for the preceding year.
+
+&emsp;(C) The loan rate determined under subparagraph (A) may not be equal to an amount—
+
+&emsp;&emsp;(i) less than $0.45 per pound; or
+
+&emsp;&emsp;(ii) more than $0.52 per pound.
+
+&emsp;(7) In the case of extra long staple cotton, $0.95 per pound.
+
+&emsp;(8) In the case of long grain rice, $7.00 per hundredweight.
+
+&emsp;(9) In the case of medium grain rice, $7.00 per hundredweight.
+
+&emsp;(10) In the case of soybeans, $6.20 per bushel.
+
+&emsp;(11) In the case of other oilseeds, $10.09 per hundredweight for each of the following kinds of oilseeds:
+
+&emsp;&emsp;(A) Sunflower seed.
+
+&emsp;&emsp;(B) Rapeseed.
+
+&emsp;&emsp;(C) Canola.
+
+&emsp;&emsp;(D) Safflower.
+
+&emsp;&emsp;(E) Flaxseed.
+
+&emsp;&emsp;(F) Mustard seed.
+
+&emsp;&emsp;(G) Crambe.
+
+&emsp;&emsp;(H) Sesame seed.
+
+&emsp;&emsp;(I) Other oilseeds designated by the Secretary.
+
+&emsp;(12) In the case of dry peas, $6.15 per hundredweight.
+
+&emsp;(13) In the case of lentils, $13.00 per hundredweight.
+
+&emsp;(14) In the case of small chickpeas, $10.00 per hundredweight.
+
+&emsp;(15) In the case of large chickpeas, $14.00 per hundredweight.
+
+&emsp;(16) In the case of graded wool, $1.15 per pound.
+
+&emsp;(17) In the case of nongraded wool, $0.40 per pound.
+
+&emsp;(18) In the case of mohair, $4.20 per pound.
+
+&emsp;(19) In the case of honey, $0.69 per pound.
+
+&emsp;(20) In the case of peanuts, $355 per ton.
+
+#### (c) Single county loan rate for other oilseeds
+
+The Secretary shall establish a single loan rate in each county for each kind of other oilseeds described in subsections (a)(11) and (b)(11).
+
+#### (d) Seed cotton
+
+#### (1) In general
+
+&emsp;For purposes of section 9016 (b)(2) of this title and paragraphs (1)(B)(ii) and (2)(A)(ii)(II) of section 9017(b) of this title, the loan rate for seed cotton shall be deemed to be equal to $0.25 per pound.
+
+#### (2) Effect
+
+&emsp;Nothing in this subsection authorizes any nonrecourse marketing assistance loan under this subchapter for seed cotton.
+
+(Pub. L. 113–79, title I, §1202, Feb. 7, 2014, 128 Stat. 675; Pub. L. 115–123, div. F, §60101(a)(9), Feb. 9, 2018, 132 Stat. 310; Pub. L. 115–334, title I, §1202(a), Dec. 20, 2018, 132 Stat. 4509.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–334, §1202(a)(1), substituted "2014 through 2018 crop years" for "In general" in heading.
+
+Subsec. (b). Pub. L. 115–334, §1202(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 115–334, §1202(a)(2), (4), redesignated subsec. (b) as (c) and substituted "subsections (a)(11) and (b)(11)" for "subsection (a)(11)". Former subsec. (c) redesignated (d).
+
+Pub. L. 115–123 added subsec. (c).
+
+Subsec. (d). Pub. L. 115–334, §1202(a)(2), redesignated subsec. (c) as (d).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–123 applicable beginning with the 2018 crop year, see section 60101(a)(13) of Pub. L. 115–123, set out as a note under section 9011 of this title.
 

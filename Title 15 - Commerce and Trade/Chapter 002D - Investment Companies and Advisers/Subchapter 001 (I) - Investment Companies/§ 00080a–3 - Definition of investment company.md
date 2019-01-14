@@ -26,11 +26,15 @@ Notwithstanding paragraph (1)(C) of subsection (a), none of the following person
 
 Notwithstanding subsection (a), none of the following persons is an investment company within the meaning of this subchapter:
 
-&emsp;(1) Any issuer whose outstanding securities (other than short-term paper) are beneficially owned by not more than one hundred persons and which is not making and does not presently propose to make a public offering of its securities. Such issuer shall be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title governing the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer. For purposes of this paragraph:
+&emsp;(1) Any issuer whose outstanding securities (other than short-term paper) are beneficially owned by not more than one hundred persons (or, in the case of a qualifying venture capital fund, 250 persons) and which is not making and does not presently propose to make a public offering of its securities. Such issuer shall be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title governing the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer. For purposes of this paragraph:
 
 &emsp;&emsp;(A) Beneficial ownership by a company shall be deemed to be beneficial ownership by one person, except that, if the company owns 10 per centum or more of the outstanding voting securities of the issuer, and is or, but for the exception provided for in this paragraph or paragraph (7), would be an investment company, the beneficial ownership shall be deemed to be that of the holders of such company's outstanding securities (other than short-term paper).
 
 &emsp;&emsp;(B) Beneficial ownership by any person who acquires securities or interests in securities of an issuer described in the first sentence of this paragraph shall be deemed to be beneficial ownership by the person from whom such transfer was made, pursuant to such rules and regulations as the Commission shall prescribe as necessary or appropriate in the public interest and consistent with the protection of investors and the purposes fairly intended by the policy and provisions of this subchapter, where the transfer was caused by legal separation, divorce, death, or other involuntary event.
+
+&emsp;&emsp;(C)(i) The term "qualifying venture capital fund" means a venture capital fund that has not more than $10,000,000 in aggregate capital contributions and uncalled committed capital, with such dollar amount to be indexed for inflation once every 5 years by the Commission, beginning from a measurement made by the Commission on a date selected by the Commission, rounded to the nearest $1,000,000.
+
+&emsp;&emsp;(ii) The term "venture capital fund" has the meaning given the term in section 275.203(l)–1 of title 17, Code of Federal Regulations, or any successor regulation.
 
 &emsp;(2)(A) Any person primarily engaged in the business of underwriting and distributing securities issued by other persons, selling securities to customers, acting as broker, and acting as market intermediary, or any one or more of such activities, whose gross income normally is derived principally from such business and related activities.
 
@@ -60,7 +64,7 @@ Notwithstanding subsection (a), none of the following persons is an investment c
 
 &emsp;(4) Any person substantially all of whose business is confined to making small loans, industrial banking, or similar businesses.
 
-&emsp;(5) Any person who is not engaged in the business of issuing redeemable securities, face-amount certificates of the installment type or periodic payment plan certificates, and who is primarily engaged in one or more of the following businesses: (A) Purchasing or otherwise acquiring notes, drafts, acceptances, open accounts receivable, and other obligations representing part or all of the sales price of merchandise, insurance, and services; (B) making loans to manufacturers, wholesalers, and retailers of, and to prospective purchasers of, specified merchandise, insurance, and services; and (C) purchasing or otherwise acquiring mortgages and other liens on and interests in real estate.
+&emsp;(5) Any person who is not engaged in the business of issuing redeemable securities, face-amount certificates of the installment type or periodic payment plan certificates, and who is primarily engaged in one or more of the following businesses: (A) Purchasing or otherwise acquiring notes, drafts, acceptances, open accounts receivable, and other obligations representing part or all of the sales price of merchandise, insurance, and services; (B) making loans to manufacturers, wholesalers, and retailers of, and to prospective purchasers of, specified merchandise, insurance, and services;and (C) purchasing or otherwise acquiring mortgages and other liens on and interests in real estate.
 
 &emsp;(6) Any company primarily engaged, directly or through majority-owned subsidiaries, in one or more of the businesses described in paragraphs (3), (4), and (5) of this subsection, or in one or more of such businesses (from which not less than 25 per centum of such company's gross income during its last fiscal year was derived) together with an additional business or businesses other than investing, reinvesting, owning, holding, or trading in securities.
 
@@ -156,11 +160,15 @@ Notwithstanding subsection (a), none of the following persons is an investment c
 
 &emsp;&emsp;&emsp;(ii) administering or providing benefits pursuant to church plans.
 
-(Aug. 22, 1940, ch. 686, title I, §3, 54 Stat. 797; Oct. 21, 1942, ch. 619, title I, §162(e), 56 Stat. 867; Pub. L. 89–485, §13(i), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §3(a), (b), Dec. 14, 1970, 84 Stat. 1414; Pub. L. 94–210, title III, §308(c), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title I, §102, title VII, §703, Oct. 21, 1980, 94 Stat. 2276, 2295; Pub. L. 100–181, title VI, §§604–606, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 104–62, §2(a), Dec. 8, 1995, 109 Stat. 682; Pub. L. 104–290, title II, §209(a), (c), title V, §508(a), Oct. 11, 1996, 110 Stat. 3432, 3435, 3447; Pub. L. 105–353, title III, §301(c)(2), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §221(c), Nov. 12, 1999, 113 Stat. 1401; Pub. L. 108–359, §1(a), Oct. 25, 2004, 118 Stat. 1666; Pub. L. 111–203, title IX, §986(c)(2), July 21, 2010, 124 Stat. 1936.)
+(Aug. 22, 1940, ch. 686, title I, §3, 54 Stat. 797; Oct. 21, 1942, ch. 619, title I, §162(e), 56 Stat. 867; Pub. L. 89–485, §13(i), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §3(a), (b), Dec. 14, 1970, 84 Stat. 1414; Pub. L. 94–210, title III, §308(c), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title I, §102, title VII, §703, Oct. 21, 1980, 94 Stat. 2276, 2295; Pub. L. 100–181, title VI, §§604–606, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 104–62, §2(a), Dec. 8, 1995, 109 Stat. 682; Pub. L. 104–290, title II, §209(a), (c), title V, §508(a), Oct. 11, 1996, 110 Stat. 3432, 3435, 3447; Pub. L. 105–353, title III, §301(c)(2), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §221(c), Nov. 12, 1999, 113 Stat. 1401; Pub. L. 108–359, §1(a), Oct. 25, 2004, 118 Stat. 1666; Pub. L. 111–203, title IX, §986(c)(2), July 21, 2010, 124 Stat. 1936; Pub. L. 115–174, title V, §504, May 24, 2018, 132 Stat. 1362.)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(8). Pub. L. 111–203 substituted "\[Repealed\]" for text of par. (8) which read as follows: "Anycompany subject to regulation under the Public Utility Holding Company Act of 1935."
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–174, §504(1), inserted "(or, in the case of a qualifying venture capital fund, 250 persons)" after "one hundred persons" in introductory provisions.
+
+Subsec. (c)(1)(C). Pub. L. 115–174, §504(2), added subpar. (C).
+
+<b>2010</b>—Subsec. (c)(8). Pub. L. 111–203 substituted "\[Repealed\]" for text of par. (8) which read as follows: "Any company subject to regulation under the Public Utility Holding Company Act of 1935."
 
 <b>2004</b>—Subsec. (c)(11). Pub. L. 108–359, which directed the substitution of "one or more of such trusts, government plans, or church plans, companies or accounts that are excluded from the definition of an investment company under paragraph (14) of this subsection" for "such trusts or government plans, or both", was executed by making the substitution for "such trusts or governmental plans, or both", to reflect the probable intent of Congress.
 
@@ -214,7 +222,7 @@ Subsec. (c)(8). Pub. L. 91–547, §3(b)(2), (4), redesignated par. (10) as (8),
 
 Subsecs. (c)(9), (10). Pub. L. 91–547, §3(b)(2), redesignated pars. (11) and (12) as (9) and (10), respectively. Former pars. (9) and (10) redesignated (7) and (8).
 
-Subsec. (c)(11). Pub. L. 91–547, §3(b)(2), (5), redesignated par. (13) as (11), substituted "requirements for qualification under section 401 of title 26 \[I.R.C. 1954\]" for "conditions of section 165 of title 26, as amended \[I.R. 1939\]", and inserted provisions for exclusion as an investment company any collective trust fund maintained by a bank consisting solely of assets of suchtrusts or any separate account the assets of which are derived from certain sources. Former par. (11) redesignated (9).
+Subsec. (c)(11). Pub. L. 91–547, §3(b)(2), (5), redesignated par. (13) as (11), substituted "requirements for qualification under section 401 of title 26 \[I.R.C. 1954\]" for "conditions of section 165 of title 26, as amended \[I.R. 1939\]", and inserted provisions for exclusion as an investment company any collective trust fund maintained by a bank consisting solely of assets of such trusts or any separate account the assets of which are derived from certain sources. Former par. (11) redesignated (9).
 
 Subsecs. (c)(12) to (15). Pub. L. 91–547, §3(b)(2), redesignated pars. (14) and (15) as (12) and (13), respectively. Former pars. (12) and (13) redesignated (10) and (11).
 
@@ -288,7 +296,7 @@ Pub. L. 104–290, title V, §508(f), Oct. 11, 1996, 110 Stat. 3448, provided th
 
 "(1)
 
-Registration requirements.—Any security issued by or any interest or participation in any church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and any offer, sale, or purchase thereof, shall be exempt from any law of a State that requires registration or qualification of securities.
+Registration requirements.—Any security issued by or any interest or participation in any churchplan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], as added by subsection (a) of this section, and any offer, sale, or purchase thereof, shall be exempt from any law of a State that requires registration or qualification of securities.
 
 "(2)
 

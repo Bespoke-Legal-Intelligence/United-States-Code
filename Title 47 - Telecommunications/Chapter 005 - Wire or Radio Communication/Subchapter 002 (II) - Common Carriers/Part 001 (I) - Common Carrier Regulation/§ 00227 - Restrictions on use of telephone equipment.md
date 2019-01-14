@@ -124,7 +124,7 @@ As used in this section—
 
 &emsp;A person or entity may, if otherwise permitted by the laws or rules of court of a State, bring in an appropriate court of that State—
 
-&emsp;&emsp;(A) an action based on a violation of this subsection or the regulations prescribedunder this subsection to enjoin such violation,
+&emsp;&emsp;(A) an action based on a violation of this subsection or the regulations prescribed under this subsection to enjoin such violation,
 
 &emsp;&emsp;(B) an action to recover for actual monetary loss from such a violation, or to receive $500 in damages for each such violation, whichever is greater, or
 
@@ -218,7 +218,7 @@ As used in this section—
 
 &emsp;It shall be unlawful for any person within the United States—
 
-&emsp;&emsp;(A) to initiate any communication using a telephone facsimile machine, or to make any telephone call using any automatic telephone dialing system, that does not comply with the technical and procedural standards prescribed under this subsection, or to use any telephone facsimile machine or automatic telephone dialing system in a manner that does not comply with such standards; or
+&emsp;&emsp;(A) to initiate any communication using a telephone facsimile machine, or to make anytelephone call using any automatic telephone dialing system, that does not comply with the technical and procedural standards prescribed under this subsection, or to use any telephone facsimile machine or automatic telephone dialing system in a manner that does not comply with such standards; or
 
 &emsp;&emsp;(B) to use a computer or other electronic device to send any message via a telephone facsimile machine unless such person clearly marks, in a margin at the top or bottom of each transmitted page of the message or on the first page of the transmission, the date and time it is sent and an identification of the business, other entity, or individual sending the message and the telephone number of the sending machine or of such business, other entity, or individual.
 
@@ -264,9 +264,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) a court order that specifically authorizes the use of caller identification manipulation.
 
-#### (4) Report
-
-&emsp;Not later than 6 months after December 22, 2010, the Commission shall report to Congress whether additional legislation is necessary to prohibit the provision of inaccurate caller identification information in technologies that are successor or replacement technologies to telecommunications service or IP-enabled voice service.
+#### (4) Repealed. Pub. L. 115–141, div. P, title IV, §402(i)(3), Mar. 23, 2018, 132 Stat. 1089
 
 #### (5) Penalties
 
@@ -320,7 +318,7 @@ As used in this section—
 
 #### (i) Venue
 
-&emsp;&emsp;&emsp;An action brought under subparagraph (A) shall be brought in a district court ofthe United States that meets applicable requirements relating to venue under section 1391 of title 28.
+&emsp;&emsp;&emsp;An action brought under subparagraph (A) shall be brought in a district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28.
 
 #### (ii) Service of process
 
@@ -370,7 +368,7 @@ As used in this section—
 
 #### (2) State use of databases
 
-&emsp;If, pursuant to subsection (c)(3), the Commission requires the establishment of a single national database of telephone numbers of subscribers who object to receiving telephone solicitations, a State or local authority may not, in its regulation of telephone solicitations, require the use of any database, list, or listing system that does not include the part of such single national database that relates to such State.
+&emsp;If, pursuant to subsection (c)(3), the Commission requires the establishment of a singlenational database of telephone numbers of subscribers who object to receiving telephone solicitations, a State or local authority may not, in its regulation of telephone solicitations, require the use of any database, list, or listing system that does not include the part of such single national database that relates to such State.
 
 #### (g) Actions by States
 
@@ -426,7 +424,7 @@ The Commission shall submit an annual report to Congress regarding the enforceme
 
 &emsp;&emsp;(D) the status of the proceeding;
 
-&emsp;(5) the number of final orders imposing forfeiture penalties issued pursuant to section 503 of this title during the year to enforce any law, regulation, or policy relating to sending of unsolicited advertisements to telephone facsimile machines;
+&emsp;(5) the number of final orders imposing forfeiture penalties issued pursuant to section 503 of this title during the year to enforce any law, regulation, or policy relating to sendingof unsolicited advertisements to telephone facsimile machines;
 
 &emsp;(6) for each forfeiture order referred to in paragraph (5)—
 
@@ -448,13 +446,171 @@ The Commission shall submit an annual report to Congress regarding the enforceme
 
 &emsp;&emsp;(C) whether the recovery action resulted in collection of any amount, and if so, the amount collected.
 
-(June 19, 1934, ch. 652, title II, §227, as added Pub. L. 102–243, §3(a), Dec. 20, 1991, 105 Stat. 2395; amended Pub. L. 102–556, title IV, §402, Oct. 28, 1992, 106 Stat. 4194; Pub. L. 103–414, title III, §303(a)(11), (12), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 108–187, §12, Dec. 16, 2003, 117 Stat. 2717; Pub. L. 109–21, §§2(a)–(g), 3, July 9, 2005, 119 Stat. 359–362; Pub. L. 111–331, §2, Dec. 22, 2010, 124 Stat. 3572; Pub. L. 114–74, title III, §301(a), Nov. 2, 2015, 129 Stat. 588.)
+(June 19, 1934, ch. 652, title II, §227, as added Pub. L. 102–243, §3(a), Dec. 20, 1991, 105 Stat. 2395; amended Pub. L. 102–556, title IV, §402, Oct. 28, 1992, 106 Stat. 4194; Pub. L. 103–414, title III, §303(a)(11), (12), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 108–187, §12, Dec. 16, 2003, 117 Stat. 2717; Pub. L. 109–21, §§2(a)–(g), 3, July 9, 2005, 119 Stat. 359–362; Pub. L. 111–331, §2, Dec. 22, 2010, 124 Stat. 3572; Pub. L. 114–74, title III, §301(a), Nov. 2, 2015, 129 Stat. 588; Pub. L. 115–141, div. P, title IV, §402(i)(3), title V, §503(a)(1)–(4)(A), Mar. 23, 2018, 132 Stat. 1089, 1091, 1092.)
+
+#### Amendment of Subsection (e)
+
+<i>Pub. L. 115–141, div. P, title V, §503(a)(1)–(4)(A), (5), Mar. 23, 2018, 132 Stat. 1091, 1092, provided that, effective on the date that is 6 months after the date on which the Federal Communications Commission prescribes regulations under paragraph (4) (set out as a Regulations note under this section), subsection (e) of this section is amended, and after such effective date, subsection (e) of this section will read as follows:</i>
+
+#### <i>(e) Prohibition on provision of misleading or inaccurate caller identification information</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>It shall be unlawful for any person within the United States, or any person outside the United States if the recipient is within the United States, in connection with any voice service or text messaging service, to cause any caller identification service to knowingly transmit misleading or inaccurate caller identification information with the intent to defraud, cause harm, or wrongfully obtain anything of value, unless such transmission is exempted pursuant to paragraph (3)(B).</i>
+
+#### <i>(2) Protection for blocking caller identification information</i>
+
+&emsp;<i>Nothing in this subsection may be construed to prevent or restrict any person from blocking the capability of any caller identification service to transmit caller identification information.</i>
+
+#### <i>(3) Regulations</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>The Commission shall prescribe regulations to implement this subsection.</i>
+
+#### <i>(B) Content of regulations</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>The regulations required under subparagraph (A) shall include such exemptions from the prohibition under paragraph (1) as the Commission determines is appropriate.</i>
+
+#### <i>(ii) Specific exemption for law enforcement agencies or court orders</i>
+
+&emsp;&emsp;&emsp;<i>The regulations required under subparagraph (A) shall exempt from the prohibition under paragraph (1) transmissions in connection with—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) any authorized activity of a law enforcement agency; or</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) a court order that specifically authorizes the use of caller identification manipulation.</i>
+
+#### <i>(4) Repealed. Pub. L. 115–141, div. P, title IV, §402(i)(3), Mar. 23, 2018, 132 Stat. 1089</i>
+
+#### <i>(5) Penalties</i>
+
+#### <i>(A) Civil forfeiture</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>Any person that is determined by the Commission, in accordance with paragraphs (3) and (4) of section 503(b) of this title, to have violated this subsection shall be liable to the United States for a forfeiture penalty. A forfeiture penalty under this paragraph shall be in addition to any other penalty provided for by this chapter. The amount of the forfeiture penalty determined under this paragraph shall not exceed $10,000 for each violation, or 3 times that amount for each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $1,000,000 for any single act or failure to act.</i>
+
+#### <i>(ii) Recovery</i>
+
+&emsp;&emsp;&emsp;<i>Any forfeiture penalty determined under clause (i) shall be recoverable pursuant to section 504(a) of this title.</i>
+
+#### <i>(iii) Procedure</i>
+
+&emsp;&emsp;&emsp;<i>No forfeiture liability shall be determined under clause (i) against any person unless such person receives the notice required by section 503(b)(3) of this title or section 503(b)(4) of this title.</i>
+
+#### <i>(iv) 2-year statute of limitations</i>
+
+&emsp;&emsp;&emsp;<i>No forfeiture penalty shall be determined or imposed against any person under clause (i) if the violation charged occurred more than 2 years prior to the date of issuance of the required notice or notice or apparent liability.</i>
+
+#### <i>(B) Criminal fine</i>
+
+&emsp;&emsp;<i>Any person who willfully and knowingly violates this subsection shall upon conviction thereof be fined not more than $10,000 for each violation, or 3 times that amount for each day</i><i>of a continuing violation, in lieu of the fine provided by section 501 of this title for such a violation. This subparagraph does not supersede the provisions of section 501 of this title relating to imprisonment or the imposition of a penalty of both fine and imprisonment.</i>
+
+#### <i>(6) Enforcement by States</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>The chief legal officer of a State, or any other State officer authorized by law to bring actions on behalf of the residents of a State, may bring a civil action, as parens patriae, on behalf of the residents of that State in an appropriate district court of the United States to enforce this subsection or to impose the civil penalties for violation of this subsection, whenever the chief legal officer or other State officer has reason to believe that the interests of the residents of the State have been or are being threatened or adversely affected by a violation of this subsection or a regulation under this subsection.</i>
+
+#### <i>(B) Notice</i>
+
+&emsp;&emsp;<i>The chief legal officer or other State officer shall serve written notice on the Commission of any civil action under subparagraph (A) prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action, except that if it is not feasible for the State to provide such prior notice, the State shall provide such notice immediately upon instituting such civil action.</i>
+
+#### <i>(C) Authority to intervene</i>
+
+&emsp;&emsp;<i>Upon receiving the notice required by subparagraph (B), the Commission shall have the right—</i>
+
+&emsp;&emsp;&emsp;<i>(i) to intervene in the action;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) upon so intervening, to be heard on all matters arising therein; and</i>
+
+&emsp;&emsp;&emsp;<i>(iii) to file petitions for appeal.</i>
+
+#### <i>(D) Construction</i>
+
+&emsp;&emsp;<i>For purposes of bringing any civil action under subparagraph (A), nothing in this paragraph shall prevent the chief legal officer or other State officer from exercising the powers conferred on that officer by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.</i>
+
+#### <i>(E) Venue; service or process</i>
+
+#### <i>(i) Venue</i>
+
+&emsp;&emsp;&emsp;<i>An action brought under subparagraph (A) shall be brought in a district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28.</i>
+
+#### <i>(ii) Service of process</i>
+
+&emsp;&emsp;&emsp;<i>In an action brought under subparagraph (A)—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) process may be served without regard to the territorial limits of the district or of the State in which the action is instituted; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) a person who participated in an alleged violation that is being litigated in the civil action may be joined in the civil action without regard to the residence of the person.</i>
+
+#### <i>(7) Effect on other laws</i>
+
+&emsp;<i>This subsection does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States.</i>
+
+#### <i>(8) Definitions</i>
+
+&emsp;<i>For purposes of this subsection:</i>
+
+#### <i>(A) Caller identification information</i>
+
+&emsp;&emsp;<i>The term "caller identification information" means information provided by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a voice service or a text message sent using a text messaging service.</i>
+
+#### <i>(B) Caller identification service</i>
+
+&emsp;&emsp;<i>The term "caller identification service" means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a voice service or a text message sent using a text messaging service. Such term includes automatic number identification services.</i>
+
+#### <i>(C) Text message</i>
+
+&emsp;&emsp;<i>The term "text message"—</i>
+
+&emsp;&emsp;&emsp;<i>(i) means a message consisting of text, images, sounds, or other information that is transmitted to or from a device that is identified as the receiving or transmitting device by means of a 10-digit telephone number or N11 service code;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) includes a short message service (commonly referred to as "SMS") message and a multimedia message service (commonly referred to as "MMS") message; and</i>
+
+&emsp;&emsp;&emsp;<i>(iii) does not include—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) a real-time, two-way voice or video communication; or</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) a message sent over an IP-enabled messaging service to another user of the same messaging service, except a message described in clause (ii).</i>
+
+#### <i>(D) Text messaging service</i>
+
+&emsp;&emsp;<i>The term "text messaging service" means a service that enables the transmission or receipt of a text message, including a service provided as part of or in connection with a voice service.</i>
+
+#### <i>(E) Voice service</i>
+
+&emsp;&emsp;<i>The term "voice service"—</i>
+
+&emsp;&emsp;&emsp;<i>(i) means any service that is interconnected with the public switched telephone network and that furnishes voice communications to an end user using resources from the North American Numbering Plan or any successor to the North American Numbering Plan adopted by the Commission under section 251(e)(1) of this title; and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) includes transmissions from a telephone facsimile machine, computer, or other device to a telephone facsimile machine.</i>
+
+#### <i>(9) Limitation</i>
+
+&emsp;<i>Notwithstanding any other provision of this section, subsection (f) shall not apply to this sub</i><i>section or to the regulations under this subsection.</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 #### References in Text
 
 This chapter, referred to in subsec. (e)(5)(A)(i), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e). Pub. L. 115–141, §503(a)(3), inserted "misleading or" before "inaccurate" in heading.
+
+Subsec. (e)(1). Pub. L. 115–141, §503(a)(1), substituted "or any person outside the United States if the recipient is within the United States, in connection with any voice service or text messaging service" for "in connection with any telecommunications service".
+
+Subsec. (e)(3)(A). Pub. L. 115–141, §503(a)(4)(A), substituted "The Commission" for "Not later than 6 months after December 22, 2010, the Commission".
+
+Subsec. (e)(4). Pub. L. 115–141, §402(i)(3), struck out par. (4). Text read as follows: "Not later than 6 months after December 22, 2010, the Commission shall report to Congress whether additional legislation is necessary to prohibit the provision of inaccurate caller identification information in technologies that are successor or replacement technologies to telecommunications service or IP-enabled voice service."
+
+Subsec. (e)(8)(A), (B). Pub. L. 115–141, §503(a)(2)(A), (B), substituted "voice service or a text message sent using a text messaging service" for "telecommunications service or IP-enabled voice service".
+
+Subsec. (e)(8)(C) to (E). Pub. L. 115–141, §503(a)(2)(C), added subpars. (C) to (E) and struck out former subpar. (C) which defined IP-enabled voice service.
 
 <b>2015</b>—Subsec. (b)(1)(A)(iii). Pub. L. 114–74, §301(a)(1)(A), inserted ", unless such call is made solely to collect a debt owed to or guaranteed by the United States" after "charged for the call".
 
@@ -482,6 +638,10 @@ Subsec. (e)(2). Pub. L. 103–414, §303(a)(12), substituted "national database"
 
 <b>1992</b>—Subsec. (b)(2)(C). Pub. L. 102–556 added subpar. (C).
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–141, div. P, title V, §503(a)(5), Mar. 23, 2018, 132 Stat. 1092, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the date that is 6 months after the date on which the Commission \[Federal Communications Commission\] prescribes regulations under paragraph (4) \[set out as a note under this section\]."
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–187 effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as an Effective Date note under section 7701 of Title 15, Commerce and Trade.
@@ -500,9 +660,19 @@ Effective date.—The requirements of section 227 of the Communications Act of 1
 
 #### Regulations
 
+Pub. L. 115–141, div. P, title V, §503(a)(4)(B), Mar. 23, 2018, 132 Stat. 1092, provided that: "The Commission \[Federal Communications Commission\] shall prescribe regulations to implement the amendments made by this subsection \[amending this section\] not later than 18 months after the date of enactment of this Act \[Mar. 23, 2018\]."
+
 Pub. L. 114–74, title III, §301(b), Nov. 2, 2015, 129 Stat. 588, provided that: "Not later than 9 months after the date of enactment of this Act \[Nov. 2, 2015\], the Federal Communications Commission, in consultation with the Department of the Treasury, shall prescribe regulations to implement the amendments made by this section \[amending this secton\]."
 
 Pub. L. 109–21, §2(h), July 9, 2005, 119 Stat. 362, provided that: "Except as provided in section 227(b)(2)(G)(ii) of the Communications Act of 1934 \[47 U.S.C. 227(b)(2)(G)(ii)\] (as added by subsection (f)), not later than 270 days after the date of enactment of this Act \[July 9, 2005\], the Federal Communications Commission shall issue regulations to implement the amendments made by this section."
+
+#### Construction
+
+Pub. L. 115–141, div. P, title V, §503(d), Mar. 23, 2018, 132 Stat. 1094, provided that: "Nothing in this section \[enacting section 227a of this title, amending this section, and enacting provisions set out as notes under this section\], or the amendments made by this section, shall be construed to modify, limit, or otherwise affect any rule or order adopted by the Commission \[Federal Communications Commission\] in connection with—
+
+&emsp;"(1) the Telephone Consumer Protection Act of 1991 (Public Law 102–243; 105 Stat. 2394) \[see Short Title of 1991 Amendment note set out under section 609 of this title\] or the amendments made by that Act; or
+
+&emsp;"(2) the CAN–SPAM Act of 2003 (15 U.S.C. 7701 et seq.)."
 
 #### Congressional Statement of Findings
 

@@ -46,7 +46,7 @@ Section 421(f) of the National Aeronautics and Space Administration Transition A
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–10, §417(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "It is the policy of the United States to possess the capability for human access to space on a continuous basis."
 
-Subsec. (b). Pub. L. 115–10, §417(2), substituted "Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives describing the progress being made toward developing the Space Launch System and Orion" for "Committee on Scienceand Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the progress being made toward developing the Crew Exploration Vehicle and the Crew Launch Vehicle".
+Subsec. (b). Pub. L. 115–10, §417(2), substituted "Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives describing the progress being made toward developing the Space Launch System and Orion" for "Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the progress being made toward developing the Crew Exploration Vehicle and the Crew Launch Vehicle".
 
 #### Change of Name
 

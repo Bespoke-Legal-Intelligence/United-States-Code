@@ -2,13 +2,17 @@
 
 (a)
 
-In General.—A person in the United States may not act as an ocean transportation intermediary unless the person holds an ocean transportation intermediary's license issued by the Federal Maritime Commission. The Commission shall issue a license to a person that the Commission determines to be qualified by experience and character to act as an ocean transportation intermediary.
+In General.—A person in the United States may not advertise, hold oneself out, oract as an ocean transportation intermediary unless the person holds an ocean transportation intermediary's license issued by the Federal Maritime Commission. The Commission shall issue a license to a person that the Commission determines to be qualified by experience and character to act as an ocean transportation intermediary.
 
 (b)
 
 Exception.—A person whose primary business is the sale of merchandise may forward shipments of the merchandise for its own account without an ocean transportation intermediary's license.
 
-(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1538.)
+(c)
+
+Applicability.—Subsection (a) and section 40902 do not apply to a person that performs ocean transportation intermediary services on behalf of an ocean transportation intermediary for which it is a disclosed agent.
+
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1538; Pub. L. 115–282, title VII, §707(a), (b), Dec. 4, 2018, 132 Stat. 4295.)
 
 Historical and Revision Notes
 
@@ -29,4 +33,10 @@ Pub. L. 98–237, §19(a), (d), Mar. 20, 1984, 98 Stat. 87, 88; Pub. L. 105–25
 40901(b)
 
 46 App.:1718(d).
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–282, §707(a), inserted "advertise, hold oneself out, or" after "may not".
+
+Subsec. (c). Pub. L. 115–282, §707(b), added subsec. (c).
 

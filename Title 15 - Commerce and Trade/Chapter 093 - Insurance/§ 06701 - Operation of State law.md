@@ -6,7 +6,7 @@ The Act entitled "An Act to express the intent of Congress with reference to the
 
 #### (b) Mandatory insurance licensing requirements
 
-No person shall engage in the business of insurance in a State as principal or agent unless such person is licensed as required by the appropriate insurance regulator of such State in accordance with the relevant State insurance law, subject to subsections (c), (d), and (e).
+No person shall engage in the business of insurance in a State as principal or agent unlesssuch person is licensed as required by the appropriate insurance regulator of such State in accordance with the relevant State insurance law, subject to subsections (c), (d), and (e).
 
 #### (c) Affiliations
 
@@ -60,7 +60,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;(v) Restrictions prohibiting any compensation paid to or received by any individual who is not licensed to sell insurance, for the referral of a customer that seeks to purchase, or seeks an opinion or advice on, any insurance product to a person that sells or provides opinions or advice on such product, based on the purchase of insurance by the customer.
 
-&emsp;&emsp;&emsp;(vi) Restrictions prohibiting the release of the insurance information of a customer (defined as information concerning the premiums, terms, and conditions of insurance coverage, including expiration dates and rates, and insurance claims of a customer contained in the records of the depository institution or an affiliate thereof) to any person other than an officer, director, employee, agent, or affiliate of a depository institution, for the purpose of soliciting or selling insurance, without theexpress consent of the customer, other than a provision that prohibits—
+&emsp;&emsp;&emsp;(vi) Restrictions prohibiting the release of the insurance information of a customer (defined as information concerning the premiums, terms, and conditions of insurance coverage, including expiration dates and rates, and insurance claims of a customer contained in the records of the depository institution or an affiliate thereof) to any person other than an officer, director, employee, agent, or affiliate of a depository institution, for the purpose of soliciting or selling insurance, without the express consent of the customer, other than a provision that prohibits—
 
 &emsp;&emsp;&emsp;&emsp;(I) a transfer of insurance information to an unaffiliated insurer in connection with transferring insurance in force on existing insureds of the depository institution or an affiliate thereof, or in connection with a merger with or acquisition of an unaffiliated insurer; or
 
@@ -90,7 +90,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;(xii) Restrictions prohibiting, when a customer obtains insurance (other than credit insurance or flood insurance) and credit from a depository institution or an affiliate of such institution, or any person soliciting the purchase of or selling insurance on the premises thereof, inclusion of the expense of insurance premiums in the primary credit transaction without the express written consent of the customer.
 
-&emsp;&emsp;&emsp;(xiii) Restrictions requiring maintenance of separate and distinct books and records relating to insurance transactions, including all files relating to and reflecting consumer complaints, and requiring that such insurance books and records be made available to the appropriate State insurance regulator for inspection upon reasonable notice.
+&emsp;&emsp;&emsp;(xiii) Restrictions requiring maintenance of separate and distinct books and records relating to insurance transactions, including all files relating to and reflecting consumer complaints, and requiring that suchinsurance books and records be made available to the appropriate State insurance regulator for inspection upon reasonable notice.
 
 #### (C) Limitations
 
@@ -108,7 +108,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;&emsp;(I) to limit the applicability of the decision of the Supreme Court in Barnett Bank of Marion County N.A. v. Nelson, 517 U.S. 25 (1996) with respect to any State statute, regulation, order, interpretation, or other action that is not referred to or described in subparagraph (B); or
 
-&emsp;&emsp;&emsp;&emsp;(II) to create any inference with respect to any State statute, regulation,order, interpretation, or other action that is not described in this paragraph.
+&emsp;&emsp;&emsp;&emsp;(II) to create any inference with respect to any State statute, regulation, order, interpretation, or other action that is not described in this paragraph.
 
 #### (3) Insurance activities other than sales
 
@@ -164,7 +164,7 @@ Subsections (c) and (d) shall not be construed to affect—
 
 &emsp;&emsp;(B) to require the registration of securities or the licensure or registration of brokers, dealers, or investment advisers (consistent with section 80b–3a of this title), or the associated persons of a broker, dealer, or investment adviser (consistent with such section 80b–3a of this title); or
 
-&emsp;(2) State laws, regulations, orders, interpretations, or other actions of general applicability relating to the governance of corporations, partnerships, limited liability companies, or other business associations incorporated or formed under the laws of that State or domiciled in that State, or the applicability of the antitrust laws of any State or any State law that is similar to the antitrust laws if such laws, regulations, orders, interpretations, or other actions are not inconsistent with thepurposes of this Act to authorize or permit certain affiliations and to remove barriers to such affiliations.
+&emsp;(2) State laws, regulations, orders, interpretations, or other actions of general applicability relating to the governance of corporations, partnerships, limited liability companies, or other business associations incorporated or formed under the laws of that State or domiciled in that State, or the applicability of the antitrust laws of any State or any State law that is similar to the antitrust laws if such laws, regulations, orders, interpretations, or other actions are not inconsistent with the purposes of this Act to authorize or permit certain affiliations and to remove barriers to such affiliations.
 
 #### (g) Definitions
 
@@ -236,7 +236,7 @@ Finding.—Congress finds that it is desirable to encourage the growth of nongov
 
 &emsp;"(2)
 
-Rule of construction.—Nothing in this Act \[see section 1(a) of Pub. L. 114–1, set out as a Short Title of 2015 Amendment note above\], any amendment made by this Act, or the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) \[see Short Title of 2002 Amendment note above\] shall prohibit insurers from developing risk-sharing mechanisms to voluntarily reinsure terrorism losses between and among themselves.
+Rule of construction.—Nothing in this Act \[see section 1(a) of Pub. L. 114–1, set out as a ShortTitle of 2015 Amendment note above\], any amendment made by this Act, or the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) \[see Short Title of 2002 Amendment note above\] shall prohibit insurers from developing risk-sharing mechanisms to voluntarily reinsure terrorism losses between and among themselves.
 
 "(b)
 
@@ -264,7 +264,7 @@ Pub. L. 107–297, title I, Nov. 26, 2002, 116 Stat. 2322, as amended by Pub. L.
 
 Findings.—The Congress finds that—
 
-&emsp;"(1) the ability of businesses and individuals to obtain property and casualty insurance at reasonable and predictable prices, in order to spread the risk ofboth routine and catastrophic loss, is critical to economic growth, urban development, and the construction and maintenance of public and private housing, as well as to the promotion of United States exports and foreign trade in an increasingly interconnected world;
+&emsp;"(1) the ability of businesses and individuals to obtain property and casualty insurance at reasonable and predictable prices, in order to spread the risk of both routine and catastrophic loss, is critical to economic growth, urban development, and the construction and maintenance of public and private housing, as well as to the promotion of United States exports and foreign trade in an increasingly interconnected world;
 
 &emsp;"(2) property and casualty insurance firms are important financial institutions, the products of which allow mutualization of risk and the efficient use of financial resources and enhance the ability of the economy to maintain stability, while responding to a variety of economic, political, environmental, and other risks with a minimum of disruption;
 
@@ -366,7 +366,7 @@ Insured loss.—The term 'insured loss' means any loss resulting from an act of 
 
 &emsp;&emsp;"(A) occurs within the United States; or
 
-&emsp;&emsp;"(B) occurs to an air carrier (as defined in section 40102 of title 49, United States Code), to a United States flag vessel (or a vessel based principally in the United States, on which United States incometax is paid and whose insurance coverage is subject to regulation in the United States), regardless of where the loss occurs, or at the premises of any United States mission.
+&emsp;&emsp;"(B) occurs to an air carrier (as defined in section 40102 of title 49, United States Code), to a United States flag vessel (or a vessel based principally in the United States, on which United States income tax is paid and whose insurance coverage is subject to regulation in the United States), regardless of where the loss occurs, or at the premises of any United States mission.
 
 &emsp;"(6)
 
@@ -596,7 +596,7 @@ Report to congress.—Not later than 120 days after the date of enactment of the
 
 &emsp;"(3)
 
-Notice to congress.—The Secretary shall notify the Congress if estimated or actual aggregate insured losses exceed $100,000,000,000 during any calendar year. The Secretary shall provide an initial notice to Congress not later than 15 days after the date of an act of terrorism, stating whether the Secretary estimates that aggregate insured losses will exceed $100,000,000,000.
+Notice to congress.—The Secretary shall notify the Congress if estimated or actual aggregate insured losses exceed $100,000,000,000 during any calendar year. The Secretary shall provide an initial notice to Congress not later than 15 days after the dateof an act of terrorism, stating whether the Secretary estimates that aggregate insured losses will exceed $100,000,000,000.
 
 &emsp;"(4)
 
@@ -724,7 +724,7 @@ Adjustments.—In determining the method and manner of imposing terrorism loss r
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the economic impact on commercial centers of urban areas, including the effect on commercial rents and commercial insurance premiums, particularly rents and premiums charged to small businesses, and the availability of lease space and commercial insurance within urban areas;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the risk factors related to rural areas and smaller commercial centers, including the potential exposure to loss and the likely magnitude of such loss, as well as any resulting cross-subsidization that might result; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the risk factors related to rural areas and smaller commercial centers, including thepotential exposure to loss and the likely magnitude of such loss, as well as any resulting cross-subsidization that might result; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the various exposures to terrorism risk for different lines of insurance.
 
@@ -846,7 +846,7 @@ In general.—The Secretary shall annually compile information on the terrorism 
 
 &emsp;"(2)
 
-Access to information.—To the extent that such information is not otherwise available to the Secretary, the Secretary may require each insurer to submit to the NAIC terrorism risk insurance premium rates, as necessary to carry out paragraph (1), and the NAIC shall make such information available to the Secretary.
+Access to information.—To the extent that such information is not otherwise available to the Secretary, the Secretary may require each insurer tosubmit to the NAIC terrorism risk insurance premium rates, as necessary to carry out paragraph (1), and the NAIC shall make such information available to the Secretary.
 
 &emsp;"(3)
 

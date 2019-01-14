@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Every person who acquires a life insurance contract or any interest in a life insurancecontract in a reportable policy sale during any taxable year shall make a return for such taxable year (at such time and in such manner as the Secretary shall prescribe) setting forth—
+&emsp;Every person who acquires a life insurance contract or any interest in a life insurance contract in a reportable policy sale during any taxable year shall make a return for such taxable year (at such time and in such manner as the Secretary shall prescribe) setting forth—
 
 &emsp;&emsp;(A) the name, address, and TIN of such person,
 
@@ -92,5 +92,5 @@ For purposes of this section:
 
 #### Effective Date
 
-Section applicable to reportable policy sales (as defined in subsection (d)(2) of this section) after Dec. 31, 2017, and reportable death benefits (as defined in subsection (d)(4) of this section) paid after Dec. 31, 2017, see section 13520(d) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 6047 of this title.
+Section applicable to reportable policy sales (as defined in subsection (d)(2) of this section) after Dec. 31, 2017, and reportable death benefits (as defined in subsection (d)(4) of this section) paid after Dec. 31, 2017, see section 13520(d) of Pub. L. 115–97, set out as an EffectiveDate of 2017 Amendment note under section 6047 of this title.
 

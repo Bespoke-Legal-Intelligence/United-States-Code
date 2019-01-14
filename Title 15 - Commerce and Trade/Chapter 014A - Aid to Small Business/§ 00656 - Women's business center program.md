@@ -60,7 +60,7 @@ The Administration may provide financial assistance to private nonprofit organiz
 
 #### (d) Contract authority
 
-A women's business center may enter into a contract with a Federal department or agency to provide specific assistance to women and other underserved small business concerns. Performance of such contract should not hinder the women's business centers in carrying out the terms of the grant received by the women's business centers from the Administration.
+A women's business center may enter into a contract with a Federal department or agency to provide specific assistance to women andother underserved small business concerns. Performance of such contract should not hinder the women's business centers in carrying out the terms of the grant received by the women's business centers from the Administration.
 
 #### (e) Submission of 5-year plan
 
@@ -148,7 +148,7 @@ The Administration shall evaluate and rank applicants in accordance with predete
 
 #### (2) Conditions for continued funding
 
-&emsp;In determining whether to award a contract (as a sustainability grant) under subsection (l) or to renew a contract (either as a grant or cooperative agreement) under this section with a women's business center, the Administration—
+&emsp;In determining whether to award a contract (as a sustainability grant) under subsection (l)or to renew a contract (either as a grant or cooperative agreement) under this section with a women's business center, the Administration—
 
 &emsp;&emsp;(A) shall consider the results of the most recent examination of the center under paragraph (1); and
 
@@ -298,7 +298,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 &emsp;A women's business center may not disclose the name, address, or telephone number of any individual or small business concern receiving assistance under this section without the consent of such individual or small business concern, unless—
 
-&emsp;&emsp;(A) the Administrator is ordered to make such a disclosure by a court in any civil orcriminal enforcement action initiated by a Federal or State agency; or
+&emsp;&emsp;(A) the Administrator is ordered to make such a disclosure by a court in any civil or criminal enforcement action initiated by a Federal or State agency; or
 
 &emsp;&emsp;(B) the Administrator considers such a disclosure to be necessary for the purpose of conducting a financial audit of a women's business center, but a disclosure under this subparagraph shall be limited to the information necessary for such audit.
 
@@ -440,7 +440,7 @@ In general.—Subject to paragraph (2), any organization conducting a 3-year pro
 
 "(2)
 
-Terms of assistance for certain organizations.—Any organization operating in the third year of a 3-year project under section 29 of the Small Business Act (15 U.S.C. 656) (as in effect on the day before the effective date of this Act) on September 30, 1997, may request an extension of the term of that project to a total term of 5 years. If such an extension is made, during the fourth and fifth years of the project, the organization shall receive financial assistance in accordance with section 29(c)(1)(C) of the Small Business Act (as amended by this section) subject to procedures established by the Administrator, in coordination with the Assistant Administrator of the Office of Women's Business Ownership established under section 29 of the Small Business Act (15 U.S.C. 656) (as amended by this section)."
+Terms of assistance for certain organizations.—Any organization operating in the third year of a 3-year project under section 29 of the Small Business Act (15 U.S.C. 656) (as in effect on the day before the effective date of this Act) on September 30, 1997, may request an extension of the term of that project to a total term of 5 years. If such an extension is made, duringthe fourth and fifth years of the project, the organization shall receive financial assistance in accordance with section 29(c)(1)(C) of the Small Business Act (as amended by this section) subject to procedures established by the Administrator, in coordination with the Assistant Administrator of the Office of Women's Business Ownership established under section 29 of the Small Business Act (15 U.S.C. 656) (as amended by this section)."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "therefor".</i>
 

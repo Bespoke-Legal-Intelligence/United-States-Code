@@ -28,7 +28,7 @@ Pub. L. 96–265 substituted "not less than 24 months" for "not less than 24 con
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–234, title I, §101(d), Dec. 13, 1989, 103 Stat. 1980, provided that: "The provisions of this section \[amending this section and sections 1395d, 1395e, 1395f, 1395k, 1395x, 1395cc, and 1395tt of this title, enacting provisions set out as notes under sections 1395e and 1395ww of this title, and amending provisions set out as notes under sections 1395e and 1395ww of this title\] shall take effect January 1, 1990, except that the amendments made by subsection (c) \[amending provisions set out as a note under section 1395ww of this title\] shall be effective as if included in the enactment of MCCA \[Pub. L. 100–360\]."
+Pub. L. 101–234, title I, §101(d), Dec. 13, 1989, 103 Stat. 1980, provided that: "The provisions of this section \[amending this section and sections 1395d, 1395e, 1395f, 1395k, 1395x, 1395cc, and 1395tt of this title, enacting provisions set out as notes under sections 1395e and 1395ww of this title, and amending provisions set out as notes under sections 1395e and 1395ww of this title\] shall take effect January 1, 1990, except that theamendments made by subsection (c) \[amending provisions set out as a note under section 1395ww of this title\] shall be effective as if included in the enactment of MCCA \[Pub. L. 100–360\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -55,6 +55,76 @@ Amendment by Pub. L. 96–265 applicable with respect to hospital insurance or s
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–292 effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfth month following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as a note under section 426 of this title.
+
+#### Developing Guidance on Pain Management and Opioid Use Disorder Prevention for Hospitals Receiving Payment Under Part A of the Medicare Program
+
+Pub. L. 115–271, title VI, §6092, Oct. 24, 2018, 132 Stat. 3999, provided that:
+
+"(a)
+
+In General.—Not later than July 1, 2019, the Secretary of Health and Human Services (in this section referred to as the 'Secretary') shall develop and publish on the public website of the Centers for Medicare \& Medicaid Services guidance for hospitals receiving payment under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.) on pain management strategies and opioid use disorder prevention strategies with respect to individuals entitled to benefits under such part.
+
+"(b)
+
+Consultation.—In developing the guidance described in subsection (a), the Secretary shall consult with relevant stakeholders, including—
+
+&emsp;"(1) medical professional organizations;
+
+&emsp;"(2) providers and suppliers of services (as such terms are defined in section 1861 of the Social Security Act (42 U.S.C. 1395x));
+
+&emsp;"(3) health care consumers or groups representing such consumers; and
+
+&emsp;"(4) other entities determined appropriate by the Secretary.
+
+"(c)
+
+Contents.—The guidance described in subsection (a) shall include, with respect to hospitals and individuals described in such subsection, the following:
+
+&emsp;"(1) Best practices regarding evidence-based screening and practitioner education initiatives relating to screening and treatment protocols for opioid use disorder, including—
+
+&emsp;&emsp;"(A) methods to identify such individuals at-risk of opioid use disorder, including risk stratification;
+
+&emsp;&emsp;"(B) ways to prevent, recognize, and treat opioid overdoses; and
+
+&emsp;&emsp;"(C) resources available to such individuals, such as opioid treatment programs, peer support groups, and other recovery programs.
+
+&emsp;"(2) Best practices for such hospitals to educate practitioners furnishing items and services at such hospital with respect to pain management and substance use disorders, including education on—
+
+&emsp;&emsp;"(A) the adverse effects of prolonged opioid use;
+
+&emsp;&emsp;"(B) non-opioid, evidence-based, non-pharmacological pain management treatments;
+
+&emsp;&emsp;"(C) monitoring programs for individuals who have been prescribed opioids; and
+
+&emsp;&emsp;"(D) the prescribing of naloxone along with an initial opioid prescription.
+
+&emsp;"(3) Best practices for such hospitals to make such individuals aware of the risks associated with opioid use (which may include use of the notification template described in paragraph (4)).
+
+&emsp;"(4) A notification template developed by the Secretary, for use as appropriate, for such individuals who are prescribed an opioid that—
+
+&emsp;&emsp;"(A) explains the risks and side effects associated with opioid use (including the risks of addiction and overdose) and the importance of adhering to the prescribed treatment regimen, avoiding medications that may have an adverse interaction with such opioid, and storing such opioid safely and securely;
+
+&emsp;&emsp;"(B) highlights multimodal and evidence-based non-opioid alternatives for pain management;
+
+&emsp;&emsp;"(C) encourages such individuals to talk to their health care providers about such alternatives;
+
+&emsp;&emsp;"(D) provides for a method (through signature or otherwise) for such an individual, or person acting on such individual's behalf, to acknowledge receipt of such notification template;
+
+&emsp;&emsp;"(E) is worded in an easily understandable manner and made available in multiple languages determined appropriate by the Secretary; and
+
+&emsp;&emsp;"(F) includes any other information determined appropriate by the Secretary.
+
+&emsp;"(5) Best practices for such hospital to track opioid prescribing trends by practitioners furnishing items and services at such hospital, including—
+
+&emsp;&emsp;"(A) ways for such hospital to establish target levels, taking into account the specialties of such practitioners and the geographic area in which such hospital is located, with respect to opioids prescribed by such practitioners;
+
+&emsp;&emsp;"(B) guidance on checking the medical records of such individuals against information included in prescription drug monitoring programs;
+
+&emsp;&emsp;"(C) strategies to reduce long-term opioid prescriptions; and
+
+&emsp;&emsp;"(D) methods to identify such practitioners who may be over-prescribing opioids.
+
+&emsp;"(6) Other information the Secretary determines appropriate, including any such information from the Opioid Safety Initiative established by the Department of Veterans Affairs or the Opioid Overdose Prevention Toolkit published by the Substance Abuse and Mental Health Services Administration."
 
 #### Advisory Council To Study Coverage of Disabled Under This Subchapter
 

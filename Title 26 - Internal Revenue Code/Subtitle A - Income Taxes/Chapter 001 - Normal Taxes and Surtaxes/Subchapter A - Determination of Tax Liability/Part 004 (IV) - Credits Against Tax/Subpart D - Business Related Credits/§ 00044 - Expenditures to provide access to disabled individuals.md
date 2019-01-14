@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of section 38, in the case of an eligible small business, the amount of the disabled access credit determined under this section for any taxable year shall be an amount equal to 50percent of so much of the eligible access expenditures for the taxable year as exceed $250 but do not exceed $10,250.
+For purposes of section 38, in the case of an eligible small business, the amount of the disabled access credit determined under this section for any taxable year shall be an amount equal to 50 percent of so much of the eligible access expenditures for the taxable year as exceed $250 but do not exceed $10,250.
 
 #### (b) Eligible small business
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (5) Expenditures must meet standards
 
-&emsp;The term "eligible access expenditures" shall not include any amount unless the taxpayer establishes, to the satisfaction of the Secretary, that the resulting removal of any barrier (or the provision of any services, modifications, materials, or equipment) meets the standards promulgated by the Secretary with the concurrence of the Architectural and Transportation Barriers Compliance Board and set forth in regulations prescribed by the Secretary.
+&emsp;The term "eligible access expenditures" shall not include any amount unless the taxpayer establishes, to the satisfaction of the Secretary, that the resulting removal of any barrier (or the provision of any services, modifications, materials, or equipment) meets thestandards promulgated by the Secretary with the concurrence of the Architectural and Transportation Barriers Compliance Board and set forth in regulations prescribed by the Secretary.
 
 #### (d) Definition of disability; special rules
 
@@ -102,7 +102,7 @@ The Secretary shall prescribe regulations necessary to carry out the purposes of
 
 #### References in Text
 
-The Americans With Disabilities Act of 1990, referred to in subsecs. (c)(1) and (d)(1) is Pub. L. 101–336, July 26,1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans With Disabilities Act of 1990, referred to in subsecs. (c)(1) and (d)(1) is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The date of the enactment of this section, referred to in subsecs. (c)(1), (4) and (d)(1), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 

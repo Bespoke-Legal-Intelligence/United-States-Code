@@ -202,7 +202,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (B) Use of fees
 
-&emsp;&emsp;The Attorney General shall deposit payments received under this paragraph in a separate account and amounts in such account shall be available, without fiscal year limitation, to cover administrative and other expenses incurred in connection with the review of applications filed under this section.
+&emsp;&emsp;The Attorney General shall deposit payments received under this paragraph in a separate account and amounts in such account shall be available, without fiscal year limitation, to cover administrative andother expenses incurred in connection with the review of applications filed under this section.
 
 #### (C) Immigration-related unfair employment practices
 
@@ -402,7 +402,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (4) Treatment of certain programs
 
-&emsp;Assistance furnished under any of the following provisions of law shall not be construedto be financial assistance described in paragraph (1)(A)(i):
+&emsp;Assistance furnished under any of the following provisions of law shall not be construed to be financial assistance described in paragraph (1)(A)(i):
 
 &emsp;&emsp;(A) The Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\].
 
@@ -456,7 +456,7 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (h)(4)(
 
 The Child Nutrition Act of 1966, referred to in subsec. (h)(4)(B), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (h)(4)(C), is Pub. L.88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (h)(4)(C), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (h)(4)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
@@ -474,7 +474,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 1255a, Pub. L. 85–316, §9, Sept. 11, 1957, 71 Stat. 641, provided for adjustment of status of certain resident aliens to that of a person admitted for permanent residence, the recording by Attorney General of alien's lawful admission for permanent residence, and for granting of nonquota status to spouse and children, prior to repeal, eff. 180 days after Sept. 26, 1961, by Pub. L. 87–301, §24(a)(5), (b), Sept. 26, 1961, 75 Stat. 657.
+A prior section 1255a, Pub. L. 85–316, §9, Sept. 11, 1957, 71 Stat. 641, provided for adjustment of status of certain resident aliens to that of a person admitted for permanent residence, the recording by Attorney General of alien's lawful admission for permanent residence, and for granting of nonquota status to spouse and children, prior to repeal, eff. 180 days after Sept. 26,1961, by Pub. L. 87–301, §24(a)(5), (b), Sept. 26, 1961, 75 Stat. 657.
 
 #### Amendments
 
@@ -528,7 +528,7 @@ Subsec. (d)(2)(B)(ii). Pub. L. 102–232, substituted "Subclause (IV)" for "Subc
 
 Subsec. (b)(2)(C). Pub. L. 101–649, §703(a)(2), substituted "43rd" for "thirty-first".
 
-Subsec. (c)(7)(A). Pub. L. 101–649, §703(b), inserted at end "The Attorney General shall provide for an additional fee for filing an application for adjustment undersubsection (b)(1) of this section after the end of the first year of the 2-year period described in subsection (b)(1)(A) of this section."
+Subsec. (c)(7)(A). Pub. L. 101–649, §703(b), inserted at end "The Attorney General shall provide for an additional fee for filing an application for adjustment under subsection (b)(1) of this section after the end of the first year of the 2-year period described in subsection (b)(1)(A) of this section."
 
 Subsec. (d)(2)(A). Pub. L. 101–649, §603(a)(13)(A), substituted "(5) and (7)(A)" for "(14), (20), (21), (25), and (32)".
 

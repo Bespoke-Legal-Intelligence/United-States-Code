@@ -10,7 +10,7 @@
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a). Pub. L. 114–315 substituted "persons eligible for burial in a national cemetery by reason of any of paragraphs (1), (2), (3), or (7) of section 2402(a) of this title," for "veterans, discharged under honorable conditions, and persons who died in the active military, naval, or air service,".
+<b>2016</b>—Subsec. (a). Pub. L. 114–315 substituted "persons eligible for burial in a national cemetery by reason ofany of paragraphs (1), (2), (3), or (7) of section 2402(a) of this title," for "veterans, discharged under honorable conditions, and persons who died in the active military, naval, or air service,".
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–154 inserted "and persons who died in the active military, naval, or air service," after "under honorable conditions," and substituted "deceased individual's" for "veteran's".
 

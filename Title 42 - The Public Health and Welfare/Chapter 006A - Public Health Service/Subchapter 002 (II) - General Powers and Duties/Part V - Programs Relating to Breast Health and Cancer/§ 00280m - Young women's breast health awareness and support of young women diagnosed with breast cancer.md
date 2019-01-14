@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) breast awareness and good breast health habits;
 
-&emsp;&emsp;(C) the occurrence of breast cancer and the general and specific risk factors in womenwho may be at high risk for breast cancer based on familial, racial, ethnic, and cultural backgrounds such as Ashkenazi Jewish populations;
+&emsp;&emsp;(C) the occurrence of breast cancer and the general and specific risk factors in women who may be at high risk for breast cancer based on familial, racial, ethnic, and cultural backgrounds such as Ashkenazi Jewish populations;
 
 &emsp;&emsp;(D) evidence-based information that would encourage young women and their health care professional to increase early detection of breast cancers; and
 

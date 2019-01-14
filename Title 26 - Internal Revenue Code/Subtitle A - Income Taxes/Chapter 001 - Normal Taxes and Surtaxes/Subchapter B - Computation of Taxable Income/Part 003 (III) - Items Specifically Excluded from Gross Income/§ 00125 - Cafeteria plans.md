@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (2) Highly compensated individual
 
-&emsp;The term "highly compensated individual" means an individual who is described in subparagraphs <sup>1</sup> (A), (B), (C), or (D) of paragraph (1).
+&emsp;The term "highly compensated individual" means an individual who is described in subparagraph (A), (B), (C), or (D) of paragraph (1).
 
 #### (f) Qualified benefits defined
 
@@ -302,7 +302,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section.
 
-(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1), title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058; Pub. L. 108–173, title XII, §1201(i), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–311, title II, §207(11), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–172, §11(a)(12), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §114(a), June 17, 2008, 122 Stat. 1636; Pub. L. 111–148, title I, §1515(a), (b), title IX, §§9005(a), 9022(a), title X, §10902(a), Mar. 23, 2010, 124 Stat. 258, 854, 874, 1016; Pub. L. 111–152, title I, §1403(b), Mar. 30, 2010, 124 Stat. 1063; Pub. L. 113–295, div. A, title II, §§213(b), 220(f), (g), Dec. 19, 2014, 128 Stat. 4033, 4036; Pub. L. 115–97, title I, §11002(d)(1)(L), Dec. 22, 2017, 131 Stat. 2060.)
+(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1), title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058; Pub. L. 108–173, title XII, §1201(i), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–311, title II, §207(11), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–172, §11(a)(12), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §114(a), June 17, 2008, 122 Stat. 1636; Pub. L. 111–148, title I, §1515(a), (b), title IX, §§9005(a), 9022(a), title X, §10902(a), Mar. 23, 2010, 124 Stat. 258, 854, 874, 1016; Pub. L. 111–152, title I, §1403(b), Mar. 30, 2010, 124 Stat. 1063; Pub. L. 113–295, div. A, title II, §§213(b), 220(f), (g), Dec. 19, 2014, 128 Stat. 4033, 4036; Pub. L. 115–97, title I, §11002(d)(1)(L), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(a)(37), Mar. 23, 2018, 132 Stat. 1186.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -321,6 +321,8 @@ Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendment
 A prior section 125 was renumbered section 140 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(2). Pub. L. 115–141 substituted "subparagraph" for "subparagraphs".
 
 <b>2017</b>—Subsec. (i)(2)(B). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
@@ -372,7 +374,7 @@ Subsec. (e)(2)(A). Pub. L. 101–239 substituted "includible only because" for "
 
 Subsec. (g)(3)(A). Pub. L. 101–140, §203(a)(3), substituted "section 410(b)(2)(A)(i)" for "subparagraph (B) of section 410(b)(1)".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1011B(a)(11)(A), amended subsec. (a) generally, see Codification note above. Prior to amendment, subsec. (a) read as follows: "In the case of a cafeteria plan—
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1011B(a)(11)(A), amended subsec. (a) generally, see Codification noteabove. Prior to amendment, subsec. (a) read as follows: "In the case of a cafeteria plan—
 
 &emsp;"(1) amounts shall not be included in gross income of a participant in such plan solely because, under the plan, the participant may choose among the benefits of the plan, and
 
@@ -524,7 +526,7 @@ Pub. L. 98–369, div. A, title V, §531(b)(5), July 18, 1984, 98 Stat. 883, as 
 
 "(A)
 
-General transitional rule.—Any cafeteria plan in existence on February 10, 1984, which failed as of such date and continued to fail thereafter to satisfy the rules relating to section 125 under proposed Treasury regulations, and any benefit offered under such a cafeteria plan which failed as of such date and continued to fail thereafter to satisfy the rules of section 105, 106, 120, or 129 under proposed Treasury regulations, will not fail to be a cafeteria plan under section 125 or a nontaxable benefit under section 105, 106, 120, or 129 solely because of such failures. The preceding sentence shall apply only with respect to cafeteria plans and benefits provided under cafeteria plans before the earlier of—
+General transitional rule.—Any cafeteria plan in existence on February 10, 1984, which failed asof such date and continued to fail thereafter to satisfy the rules relating to section 125 under proposed Treasury regulations, and any benefit offered under such a cafeteria plan which failed as of such date and continued to fail thereafter to satisfy the rules of section 105, 106, 120, or 129 under proposed Treasury regulations, will not fail to be a cafeteria plan under section 125 or a nontaxable benefit under section 105, 106, 120, or 129 solely because of such failures. The preceding sentence shall apply only with respect to cafeteria plans and benefits provided under cafeteria plans before the earlier of—
 
 &emsp;"(i) January 1, 1985, or
 
@@ -551,6 +553,4 @@ Collective bargaining agreements.—In the case of any cafeteria plan in existen
 "(E)
 
 Special rule where contributions or reimbursements suspended.—For purposes of subparagraphs (A) and (B), a plan shall not be treated as not continuing to fail to satisfy the rules referred to in such subparagraphs with respect to any benefit provided in the form of a flexible spending arrangement merely because contributions or reimbursements (or both) with respect to such plan were suspended before January 1, 1985."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

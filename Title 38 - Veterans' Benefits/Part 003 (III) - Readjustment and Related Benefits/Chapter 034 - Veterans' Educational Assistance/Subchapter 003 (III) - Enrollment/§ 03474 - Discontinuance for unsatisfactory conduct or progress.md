@@ -16,7 +16,7 @@ The Secretary shall discontinue the educational assistance allowance of an eligi
 
 #### Prior Provisions
 
-Provisions similar to those comprising the first sentence of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1178, which was classified to former section 1624 of this title, prior to repeal by section 4(a) of Pub. L. 89–358.
+Provisions similar to those comprising the first sentence of this section were contained in Pub. L. 85–857,Sept. 2, 1958, 72 Stat. 1178, which was classified to former section 1624 of this title, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
 

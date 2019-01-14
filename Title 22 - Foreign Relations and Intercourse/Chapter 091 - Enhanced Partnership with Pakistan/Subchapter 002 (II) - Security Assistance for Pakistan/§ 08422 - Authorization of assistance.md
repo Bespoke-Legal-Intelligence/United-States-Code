@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A significant portion of the amount made available to carry out this subsection for a fiscal year shall be for the purchase of defense articles, defense services, and military education and training for activities relating to counterinsurgency and counterterrorism operations in Pakistan.
+&emsp;&emsp;A significant portion of the amount made available to carry out this subsection for afiscal year shall be for the purchase of defense articles, defense services, and military education and training for activities relating to counterinsurgency and counterterrorism operations in Pakistan.
 
 #### (B) Sense of Congress
 
@@ -54,7 +54,7 @@ It is the sense of Congress that the United States should facilitate Pakistan's 
 
 #### (2) Elements of program
 
-&emsp;The program authorized under paragraph (1) may include conferences, seminars, exchanges, and other events, distribution of publications and reimbursements of expenses of foreignmilitary personnel participating in the program, including transportation, translation and administrative expenses.
+&emsp;The program authorized under paragraph (1) may include conferences, seminars, exchanges, and other events, distribution of publications and reimbursements of expenses of foreign military personnel participating in the program, including transportation, translation and administrative expenses.
 
 #### (3) Role of nongovernmental organizations
 

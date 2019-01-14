@@ -42,7 +42,7 @@ Any United States district court within the jurisdiction of which any inquiry is
 
 #### (d) Disclosure of information
 
-No person shall be subject to civil liability to any person (other than the Commission or the United States) for disclosing information at the request of the Commission.
+No person shall be subject to civil liability to any person (other than the Commission or theUnited States) for disclosing information at the request of the Commission.
 
 #### (e) Performance and technical data
 
@@ -70,7 +70,7 @@ The Commission may plan, construct, and operate a facility or facilities suitabl
 
 Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note), the Commission shall prepare and submit to the President and the Congress at the beginning of each regular session of Congress a comprehensive report on the administration of this chapter for the preceding fiscal year. Such report shall include—
 
-&emsp;(1) a thorough appraisal, including statistical analyses, estimates, and long-term projections, of the incidence of injury and effects to the population resulting from consumerproducts, with a breakdown, insofar as practicable, among the various sources of such injury;
+&emsp;(1) a thorough appraisal, including statistical analyses, estimates, and long-term projections, of the incidence of injury and effects to the population resulting from consumer products, with a breakdown, insofar as practicable, among the various sources of such injury;
 
 &emsp;(2) a list of consumer product safety rules prescribed or in effect during such year;
 
@@ -140,7 +140,7 @@ Subsec. (b)(9). Pub. L. 112–28, §8(2), (3), added par. (9). Former par. (9) r
 
 Subsec. (b)(10). Pub. L. 112–28, §8(3), (4), redesignated par. (9) as (10) and inserted "(except as provided in paragraph (9))" after "paragraph (3)".
 
-<b>2008</b>—Subsec. (j). Pub. L. 110–314, §209(a)(1), substituted "Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C.1113 note), the Commission" for "The Commission" in introductory provisions.
+<b>2008</b>—Subsec. (j). Pub. L. 110–314, §209(a)(1), substituted "Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note), the Commission" for "The Commission" in introductory provisions.
 
 Subsec. (j)(5) to (13). Pub. L. 110–314, §209(a)(2), added pars. (5) and (6) and redesignated former pars. (5) to (11) as (7) to (13), respectively.
 

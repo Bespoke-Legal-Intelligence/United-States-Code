@@ -30,7 +30,7 @@ $75 where the amount involved is over $5,000.
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§571, 572, and 578 (R.S. §§823, 824; May 28, 1896, ch. 252, §§6, 24, 29 Stat. 179,186; Feb. 26, 1919, ch. 49, §1, 40 Stat. 1182; July 19, 1919, ch. 24, §1, 41 Stat. 209; Feb. 11, 1921, ch. 46, 41 Stat. 1099; June 6, 1930, ch. 409, 46 Stat. 522; Aug. 3, 1935, ch. 431, §1, 49 Stat. 513).
+Based on title 28, U.S.C., 1940 ed., §§571, 572, and 578 (R.S. §§823, 824; May 28, 1896, ch. 252, §§6, 24, 29 Stat. 179, 186; Feb. 26, 1919, ch. 49, §1, 40 Stat. 1182; July 19, 1919, ch. 24, §1, 41 Stat. 209; Feb. 11, 1921, ch. 46, 41 Stat. 1099; June 6, 1930, ch. 409, 46 Stat. 522; Aug. 3, 1935, ch. 431, §1, 49 Stat. 513).
 
 Section consolidates sections 571, 572, and 578 of title 28, U.S.C., 1940 ed.
 

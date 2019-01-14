@@ -14,7 +14,7 @@ The president, subject to Institute's bylaws and general policies established by
 
 #### (d) Assignment of Federal officers or employees to the Institute
 
-(1) The president may request the assignment of any Federal officer or employee to the Institute by an appropriate department, agency, or congressional official or Member of Congress and may enter into an agreement for such assignment, if the affected officer or employee agrees to such assignment and such assignment causes no prejudice to the salary, benefits, status, or advancement within the department, agency, or congressional staff of such officer or employee.
+(1) The president may request the assignment of any Federal officer or employee to the Institute by an appropriate department, agency, or congressional official or Member of Congress and may enter into an agreement for such assignment, if the affected officer or employee agrees to such assignment and such assignment causes no prejudice to the salary, benefits, status, or advancement within the department,agency, or congressional staff of such officer or employee.
 
 (2) The Secretary of State, the Secretary of Defense, and the Director of Central Intelligence each may assign officers and employees of his respective department or agency, on a rotating basis to be determined by the Board, to the Institute if the affected officer or employee agrees to such assignment and such assignment causes no prejudice to the salary, benefits, status, or advancement within the respective department or agency of such officer or employee.
 
@@ -30,7 +30,7 @@ No officer or full-time employee of the Institute may receive any salary or othe
 
 #### (g) Distributions prohibited during life or upon dissolution or liquidation of Institute or legal entity; compensation for services or expenses
 
-No part of the financial resources, income, or assets of the Institute or of any legal entity created by the Institute shall inure to any agent, employee, officer, or director or be distributableto any such person during the life of the corporation or upon dissolution or final liquidation. Nothing in this section may be construed to prevent the payment of reasonable compensation for services or expenses to the directors, officers, employees, and agents of the Institute in amounts approved in accordance with the provisions of this chapter.
+No part of the financial resources, income, or assets of the Institute or of any legal entity created by the Institute shall inure to any agent, employee, officer, or director or be distributable to any such person during the life of the corporation or upon dissolution or final liquidation. Nothing in this section may be construed to prevent the payment of reasonable compensation for services or expenses to the directors, officers, employees, and agents of the Institute in amounts approved in accordance with the provisions of this chapter.
 
 #### (h) Loans prohibition; joint and several liability
 

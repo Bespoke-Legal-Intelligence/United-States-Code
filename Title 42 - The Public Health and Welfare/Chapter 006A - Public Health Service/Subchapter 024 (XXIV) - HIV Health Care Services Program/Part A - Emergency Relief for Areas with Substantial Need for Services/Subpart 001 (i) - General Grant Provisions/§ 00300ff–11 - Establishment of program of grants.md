@@ -20,7 +20,7 @@ For purposes of determining eligibility under this subpart—
 
 &emsp;(2) with respect to a metropolitan area that becomes eligible to receive funding under this subpart in any fiscal year after fiscal year 2006, the boundaries of such metropolitan area shall be the boundaries that are in effect for such area when such area initially receives funding under this subpart.
 
-(July 1, 1944, ch. 373, title XXVI, §2601, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104Stat. 576; amended Pub. L. 102–531, title III, §312(d)(25), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 104–146, §§3(a)(1), (2), 12(c)(1), May 20, 1996, 110 Stat. 1346, 1373; Pub. L. 109–415, title I, §§101(a), (b), 106(a), 107(b), title VII, §§702(1), 703, Dec. 19, 2006, 120 Stat. 2768, 2780, 2783, 2819, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+(July 1, 1944, ch. 373, title XXVI, §2601, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 576; amended Pub. L. 102–531, title III, §312(d)(25), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 104–146, §§3(a)(1), (2), 12(c)(1), May 20, 1996, 110 Stat. 1346, 1373; Pub. L. 109–415, title I, §§101(a), (b), 106(a), 107(b), title VII, §§702(1), 703, Dec. 19, 2006, 120 Stat. 2768, 2780, 2783, 2819, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### Prior Provisions
 

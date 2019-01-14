@@ -4,11 +4,7 @@
 
 (2) No funds may be appropriated for any fiscal year, and the Secretary may not obligate or expend funds (other than for advance planning and design), for any major medical facility project or any major medical facility lease unless funds for that project or lease have been specifically authorized by law.
 
-(3) For the purpose of this subsection:
-
-&emsp;(A) The term "major medical facility project" means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $10,000,000, but such term does not include an acquisition by exchange.
-
-&emsp;(B) The term "major medical facility lease" means a lease for space for use as a new medical facility at an average annual rental of more than $1,000,000.
+(3) For purposes of this subsection, the term "major medical facility project" means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $20,000,000, but such term does not include an acquisition by exchange, nonrecurring maintenance projects of the Department, or the construction, alteration, or acquisition of a shared Federal medical facility for which the Department's estimated share of the project costs does not exceed $20,000,000.
 
 (b) Whenever the President or the Secretary submit to the Congress a request for the funding of a major medical facility project (as defined in subsection (a)(3)(A)) or a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
 
@@ -24,7 +20,7 @@
 
 &emsp;&emsp;(E) Total costs of ancillary services, equipment, and all other items.
 
-&emsp;(2) Demographic data applicable to such facility, including information on projected changes in the population of veterans to be served by the facility over a five-year period, a ten-year period, and a twenty-year period.
+&emsp;(2) Demographic data applicable to such facility, including information on projectedchanges in the population of veterans to be served by the facility over a five-year period, a ten-year period, and a twenty-year period.
 
 &emsp;(3) Current and projected workload and utilization data regarding the facility, including information on projected changes in workload and utilization over a five-year period, a ten-year period, and a twenty-year period.
 
@@ -48,7 +44,7 @@
 
 &emsp;&emsp;(C) an analysis of the methodology used in determining the asset cost, fair market value, and cancellation costs of the lease.
 
-(c)(1) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10percent, the Secretary shall provide the committees with notice of the Secretary's intention to do so and the reasons for the specified amount being exceeded.
+(c)(1) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent, the Secretary shall provide the committees with notice of the Secretary's intention to do so and the reasons for the specified amount being exceeded.
 
 (2) The Secretary shall—
 
@@ -110,9 +106,15 @@
 
 (3) Not more than 30 days after entering into a major medical facility lease, the Secretary shall submit to each committee described in paragraph (1) a report on any material differences between the lease that was entered into and the proposed lease described under such paragraph, including how the lease that was entered into changes the previously submitted scoring analysis described in subparagraph (D) of such paragraph.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub.L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, §416, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 109–461, title VIII, §812, Dec. 22, 2006, 120 Stat. 3447; Pub. L. 110–387, title VII, §705, Oct. 10, 2008, 122 Stat. 4138; Pub. L. 111–275, title IX, §905, Oct. 13, 2010, 124 Stat. 2895; Pub. L. 112–37, §§6, 7, Oct. 5, 2011, 125 Stat. 394, 396; Pub. L. 113–146, title VI, §602(c), Aug. 7, 2014, 128 Stat. 1794; Pub. L. 114–315, title VIII, §801(b), (c), Dec. 16, 2016, 130 Stat. 1590.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, §416, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 109–461, title VIII, §812, Dec. 22, 2006, 120 Stat. 3447; Pub. L. 110–387, title VII, §705, Oct. 10, 2008, 122 Stat. 4138; Pub. L. 111–275, title IX, §905, Oct. 13, 2010, 124 Stat. 2895; Pub. L. 112–37, §§6, 7, Oct. 5, 2011, 125 Stat. 394, 396; Pub. L. 113–146, title VI, §602(c), Aug. 7, 2014, 128 Stat. 1794; Pub. L. 114–315, title VIII, §801(b), (c), Dec. 16, 2016, 130 Stat. 1590; Pub. L. 115–182, title V, §503(b), June 6, 2018, 132 Stat. 1476.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(3). Pub. L. 115–182, which directed the general amendment of par. (3) of section 8104(a), without specifying the Code title to be amended, was executed by amending par. (3) of subsec. (a) of this section, to reflect the probable intent of Congress. Prior to amendment, par. (3) read as follows: "For the purpose of this subsection:
+
+&emsp;"(A) The term 'major medical facility project' means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $10,000,000, but such term does not include an acquisition by exchange.
+
+&emsp;"(B) The term 'major medical facility lease' means a lease for space for use as a new medical facility at an average annual rental of more than $1,000,000."
 
 <b>2016</b>—Subsec. (c). Pub. L. 114–315, §801(b), designated existing provisions as par. (1) and added par. (2).
 
@@ -220,7 +222,7 @@ Subsecs. (d) to (f). Pub. L. 100–322, §422(d), redesignated subsecs. (e) and 
 
 &emsp;"(1) no appropriation may be made for the construction, alteration, or acquisition (not including exchanges) of any medical facility which involves a total expenditure of more than $2,000,000 unless each committee has first adopted a resolution approving such construction, alteration, or acquisition and setting forth the estimated cost thereof; and
 
-&emsp;"(2) no appropriation may be made for the lease of any space for use as a medical facility at an average annual rental of more than $500,000 unless each committee has first adopted a resolution approving such lease and setting forth the estimated cost thereof."
+&emsp;"(2) no appropriation may be made for the lease of any space for use as a medical facility at an averageannual rental of more than $500,000 unless each committee has first adopted a resolution approving such lease and setting forth the estimated cost thereof."
 
 Subsec. (b)(1). Pub. L. 99–166, §303, inserted "and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase" after "such facility".
 

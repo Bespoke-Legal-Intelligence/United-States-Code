@@ -28,7 +28,7 @@ The Federal share of the cost of operation and maintenance of any project for na
 
 #### (2) Non-Federal cost share
 
-&emsp;The non-Federal share of the cost of operation, maintenance, repair, rehabilitation, andreplacement of any structure under this subsection shall be 35 percent.
+&emsp;The non-Federal share of the cost of operation, maintenance, repair, rehabilitation, and replacement of any structure under this subsection shall be 35 percent.
 
 #### (d) Authorizations from general fund
 
@@ -54,7 +54,7 @@ Section 844 of this Act, referred to in subsecs. (a)(3) and (d)(2), is section 8
 
 #### Acceptance of Contributed Funds To Increase Lock Operations
 
-Pub. L. 113–121, title I, §1017, June 10, 2014, 128 Stat. 1223, provided that:
+Pub. L. 113–121, title I, §1017, June 10, 2014, 128 Stat. 1223, as amended by Pub. L. 115–270, title I, §1135, Oct. 23, 2018, 132 Stat. 3783, provided that:
 
 "(a)
 
@@ -90,5 +90,5 @@ Annual Review.—The Secretary shall carry out an annual review of the commercia
 
 "(f)
 
-Termination.—The authority to accept funds under this section shall terminate 5 years after the date of enactment of this Act."
+Termination.—The authority to accept funds under this section shall terminate 10 years after the date of enactment of this Act."
 

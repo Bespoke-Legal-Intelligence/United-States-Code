@@ -88,7 +88,7 @@ The legislative history of Pub. L. 93–438 (which is classified principally to 
 
 Subsection 31b. \[42 U.S.C. 2051(b)\] (certain grants and contributions).
 
-Section 33 \[42 U.S.C. 2053\] ("Research for Others"); provided that the NSLC retains authority to contractout for research as it deems necessary to exercise its licensing and related regulatory functions.
+Section 33 \[42 U.S.C. 2053\] ("Research for Others"); provided that the NSLC retains authority to contract out for research as it deems necessary to exercise its licensing and related regulatory functions.
 
 Chapter 5 \[(sections 41–44) 42 U.S.C. 2061–2064\] ("Production of Special Nuclear Material").
 
@@ -188,7 +188,7 @@ Section 274 \[42 U.S.C. 2021\] ("Cooperation with States").
 
 Chapter 1 \[(sections 1–3) 42 U.S.C. 2011–2013\] ("Declaration, Findings and Purpose"); provided that all references to encouraging, promoting, utilizing, developing and participating in atomic energy or the atomic industry shall not be applicable to the NSLC.
 
-Chapter 2 \[(section 11) 42 U.S.C. 2014\] ("Definitions"); provided that (i) the determinations and criteria in j. \[42 U.S.C. 2014(j)\] (extraordinary nuclear occurrences) shall be the responsibility of the Administrator only in regard to activities and matters not covered by the licensing and related regulatory facets of Section 170 of the Atomic Energy Act, as amended, \[42 U.S.C. 2210\] and (ii) the determinations in v. (production facility), z. (source material), aa. (special nuclear material), and cc. (utilization facility) \[42 U.S.C. 2014(v), (z), (aa), (cc)\] shall be the responsibility of the Administrator only in regard to facilities and materials not subject to licensing and related regulatory control by NSLC.
+Chapter 2 \[(section 11) 42 U.S.C. 2014\] ("Definitions"); provided that (i) the determinations and criteria in j. \[42 U.S.C. 2014(j)\] (extraordinary nuclear occurrences) shall be the responsibility of the Administrator only in regard to activities and matters not covered by the licensing and related regulatory facets of Section 170 of the Atomic Energy Act, as amended, \[42 U.S.C. 2210\]and (ii) the determinations in v. (production facility), z. (source material), aa. (special nuclear material), and cc. (utilization facility) \[42 U.S.C. 2014(v), (z), (aa), (cc)\] shall be the responsibility of the Administrator only in regard to facilities and materials not subject to licensing and related regulatory control by NSLC.
 
 Chapter 3 \[(sections 21–29) 42 U.S.C. 2031–2039\] ("Organization"); except (i) as provided for in this bill, (ii) the Inspection Division established by subsection 25c. \[42 U.S.C. 2035(c)\] will be transferred to NSLC and the ERDA Administrator also will provide for the discharge of the inspection function under subsection 25c. in ERDA, (iii) in regard to section 29 \[42 U.S.C. 2039\] ("Advisory Committee on Reactor Safeguards"), it is intended that the ACRS be transferred to NSLC but that the ACRS also be made available to ERDA as the Administrator may request to perform such of the activities contemplated by section 29 as relate to functions transferred to the Administrator.
 

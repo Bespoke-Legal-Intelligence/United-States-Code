@@ -18,7 +18,7 @@ Congress makes the following findings:
 
 #### (b) Designation of ports and entities in the energy, shipping, and shipbuilding sectors of Iran as entities of proliferation concern
 
-Entities that operate ports in Iran and entities in the energy, shipping, and shipbuilding sectors of Iran, including the National Iranian Oil Company, the National Iranian Tanker Company, the Islamic Republic of Iran Shipping Lines, andtheir affiliates, play an important role in Iran's nuclear proliferation efforts and all such entities are hereby designated as entities of proliferation concern.
+Entities that operate ports in Iran and entities in the energy, shipping, and shipbuilding sectors of Iran, including the National Iranian Oil Company, the National Iranian Tanker Company, the Islamic Republic of Iran Shipping Lines, and their affiliates, play an important role in Iran's nuclear proliferation efforts and all such entities are hereby designated as entities of proliferation concern.
 
 #### (c) Blocking of property of entities in energy, shipping, and shipbuilding sectors
 
@@ -30,7 +30,7 @@ Entities that operate ports in Iran and entities in the energy, shipping, and sh
 
 #### (B) Exception
 
-&emsp;&emsp;The requirement to block and prohibit all transactions in all property and interests in property under subparagraph (A) shall not include the authority to impose sanctions on the importation of goods.
+&emsp;&emsp;The requirement to block and prohibit all transactions in all property and interests inproperty under subparagraph (A) shall not include the authority to impose sanctions on the importation of goods.
 
 #### (2) Persons described
 
@@ -94,7 +94,7 @@ The President may provide for an exception from the imposition of sanctions unde
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), this section shall apply with respect to the purchase of petroleum or petroleum products from Iran only if, at the time of the purchase, a determination of the President under section 8513a(d)(4)(B) of this title that the price andsupply of petroleum and petroleum products produced in countries other than Iran is sufficient to permit purchasers of petroleum and petroleum products from Iran to reduce significantly their purchases from Iran is in effect.
+&emsp;Except as provided in paragraph (2), this section shall apply with respect to the purchase of petroleum or petroleum products from Iran only if, at the time of the purchase, a determination of the President under section 8513a(d)(4)(B) of this title that the price and supply of petroleum and petroleum products produced in countries other than Iran is sufficient to permit purchasers of petroleum and petroleum products from Iran to reduce significantly their purchases from Iran is in effect.
 
 #### (2) Exception for certain countries
 
@@ -106,7 +106,7 @@ The President may provide for an exception from the imposition of sanctions unde
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;This section shall not apply with respect to a financial transaction described in clause (ii) conducted or facilitated by a foreign financial institution if, at the time of the transaction, the exception under section 8513a(d)(4)(D)(i) of this title applies to the country with primary jurisdiction over the foreign financial institution.
+&emsp;&emsp;&emsp;This section shall not apply with respect to a financial transaction described in clause (ii) conducted or facilitated by aforeign financial institution if, at the time of the transaction, the exception under section 8513a(d)(4)(D)(i) of this title applies to the country with primary jurisdiction over the foreign financial institution.
 
 #### (ii) Financial transactions described
 

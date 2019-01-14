@@ -2,59 +2,23 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to the Office of National Drug Control Policy to carry out this subchapter—
-
-&emsp;(1) $10,000,000 for fiscal year 1998;
-
-&emsp;(2) $20,000,000 for fiscal year 1999;
-
-&emsp;(3) $30,000,000 for fiscal year 2000;
-
-&emsp;(4) $40,000,000 for fiscal year 2001;
-
-&emsp;(5) $50,600,000 for fiscal year 2002;
-
-&emsp;(6) $60,000,000 for fiscal year 2003;
-
-&emsp;(7) $70,000,000 for fiscal year 2004;
-
-&emsp;(8) $80,000,000 for fiscal year 2005;
-
-&emsp;(9) $90,000,000 for fiscal year 2006;
-
-&emsp;(10) $99,000,000 for fiscal year 2007;
-
-&emsp;(11) $109,000,000 for fiscal year 2008;
-
-&emsp;(12) $114,000,000 for fiscal year 2009;
-
-&emsp;(13) $119,000,000 for fiscal year 2010;
-
-&emsp;(14) $124,000,000 for fiscal year 2011; and
-
-&emsp;(15) $129,000,000 for fiscal year 2012.
+There is authorized to be appropriated to the Office of National Drug Control Policy to carry out this subchapter $99,000,000 for each of fiscal years 2018 through 2023.
 
 #### (b) Administrative costs
 
-#### (1) Limitation
+Not more than 8 percent of the funds appropriated to carry out this subchapter may be used by the Office of National Drug Control Policy to pay administrative costs associated with the responsibilities of the Office under this subchapter.
 
-&emsp;Not more than 3 percent of the funds appropriated for this subchapter may be used by theOffice of National Drug Control Policy to pay for administrative costs associated with their responsibilities under the subchapter.
-
-#### (2) Designated agency
-
-&emsp;The agency delegated to carry out this program under section 1531(d) of this title may use up to 5 percent of the funds allocated for grants under this subchapter for administrative costs associated with carrying out the program.
-
-(Pub. L. 100–690, title I, §1024, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 226; amended Pub. L. 107–82, §1(b), (c), Dec. 14, 2001, 115 Stat. 817; Pub. L. 109–469, title VIII, §801, Dec. 29, 2006, 120 Stat. 3535.)
-
-#### Codification
-
-Pub. L. 109–469, §801, which directed amendment of section 1024 of the "Drug-Free Communities Act of 1997", was executed to this section, which is section 1024 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. See 2006 Amendment notes below.
+(Pub. L. 100–690, title I, §1024, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 226; amended Pub. L. 107–82, §1(b), (c), Dec. 14, 2001, 115 Stat. 817; Pub. L. 109–469, title VIII, §801, Dec. 29, 2006, 120 Stat. 3535; Pub. L. 115–271, title VIII, §8203(a)(4)(A), (b)(3), Oct. 24, 2018, 132 Stat. 4111.)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(11) to (15). Pub. L. 109–469, §801(a), added pars. (11) to (15). See Codification note above.
+<b>2018</b>—Pub. L. 115–271, §8203(b)(3), which directed adding subsecs. (a) and (b) and striking out former subsecs. (a) and (b), which related to authorization of appropriations and administrative costs, respectively, in section 1024 of "chapter 2 of subtitle A of title I of the National Narcotics Leadership Act of 1988", was executed to this section, which is section 1024 of chapter 2 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. The National Narcotics Leadership Act of 1988 is itself subtitle A of title I of Pub. L. 100–690.
 
-Subsec. (b). Pub. L. 109–469, §801(b), amended subsec. (b) generally. See Codification note above. Prior to amendment, text read as follows: "Not more than the following percentages of the amounts authorized under subsection (a) of this section may be used to pay administrative costs:
+Pub. L. 115–271, §8203(a)(4)(A), amended directory language of Pub. L. 109–469, §801. See 2006 Amendment notes below.
+
+<b>2006</b>—Subsec. (a)(11) to (15). Pub. L. 109–469, §801(a), as amended by Pub. L. 115–271, §8203(a)(4)(A), added pars. (11) to (15).
+
+Subsec. (b). Pub. L. 109–469, §801(b), as amended by Pub. L. 115–271, §8203(a)(4)(A), amended subsec. (b) generally. Prior to amendment, text read as follows: "Not more than the following percentages of the amounts authorized under subsection (a) of this section may be used to pay administrative costs:
 
 &emsp;"(1) 10 percent for fiscal year 1998.
 
@@ -69,4 +33,8 @@ Subsec. (b). Pub. L. 109–469, §801(b), amended subsec. (b) generally. See Cod
 <b>2001</b>—Subsec. (a)(5) to (10). Pub. L. 107–82, §1(b), added pars. (5) to (10) and struck out former par. (5) which read as follows: "$43,500,000 for fiscal year 2002."
 
 Subsec. (b)(5). Pub. L. 107–82, §1(c), added par. (5) and struck out former par. (5) which read as follows: "3 percent for fiscal year 2002."
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–271, title VIII, §8203(a)(4)(B), Oct. 24, 2018, 132 Stat. 4111, provided that: "The amendments made by subparagraph (A) \[amending this section, section 1532 of this title, and provisions set out as a note under section 1532 of this title\] shall take effect as though enacted as part of the Office of National Drug Control Policy Reauthorization Act of 2006 (Public Law 109–469; 120 Stat. 3502)."
 

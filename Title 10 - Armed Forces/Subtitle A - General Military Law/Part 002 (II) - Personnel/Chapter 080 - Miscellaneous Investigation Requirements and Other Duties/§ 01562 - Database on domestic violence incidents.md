@@ -50,7 +50,7 @@ Review.—During the two-year period beginning on the date of the enactment of t
 
 &emsp;"(1) the efforts of the Department to ensure confidentiality for victims and accountability and education of commanding officers and chaplains; and
 
-&emsp;"(2) the resources that the Department of Defense has provided toward such implementation, including personnel, facilities, and other administrative support, in order to ensure that necessary resources are provided to the organization within the Office of the Secretary of Defense with direct responsibility for oversight of implementation by the military departments of recommendations of the Task Force in order for that organization to carry out its duties and responsibilities.
+&emsp;"(2) the resources that the Department of Defense has provided toward such implementation, includingpersonnel, facilities, and other administrative support, in order to ensure that necessary resources are provided to the organization within the Office of the Secretary of Defense with direct responsibility for oversight of implementation by the military departments of recommendations of the Task Force in order for that organization to carry out its duties and responsibilities.
 
 "(b)
 

@@ -16,7 +16,7 @@
 
 &emsp;(A) remanding the rule to the agency, and
 
-&emsp;(B) deferring the enforcement of the rule against small entities unless the court finds that continued enforcement of the rule is in the public interest.
+&emsp;(B) deferring the enforcement of the rule against small entities unless the court findsthat continued enforcement of the rule is in the public interest.
 
 (5) Nothing in this subsection shall be construed to limit the authority of any court to stay the effective date of any rule or provision thereof under any other provision of law or to grant any other relief in addition to the requirements of this section.
 

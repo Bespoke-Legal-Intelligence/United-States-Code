@@ -6,7 +6,7 @@ On and after May 20, 1926, such amount of money as may be authorized by the Secr
 
 #### Amendments
 
-<b>1972</b>—Pub. L. 92–310 struck out provisions which permitted the expenses of procuring necessary official bonds of certain enlisted men to be paid from the receipts of the system.
+<b>1972</b>—Pub. L. 92–310 struck out provisions which permitted the expenses of procuring necessary officialbonds of certain enlisted men to be paid from the receipts of the system.
 
 #### Change of Name
 

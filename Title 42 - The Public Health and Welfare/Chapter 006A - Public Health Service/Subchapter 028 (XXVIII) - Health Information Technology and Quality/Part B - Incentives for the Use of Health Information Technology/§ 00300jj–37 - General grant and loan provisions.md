@@ -10,7 +10,7 @@ The Secretary may require that an entity receiving assistance under this part sh
 
 #### (b) Requirement to improve quality of care and decrease in costs
 
-The National Coordinator shall annually evaluate the activities conducted under this part and shall, in awarding grants, implementthe lessons learned from such evaluation in a manner so that awards made subsequent to each such evaluation are made in a manner that, in the determination of the National Coordinator, will result in the greatest improvement in the quality and efficiency of health care.
+The National Coordinator shall annually evaluate the activities conducted under this part and shall, in awarding grants, implement the lessons learned from such evaluation in a manner so that awards made subsequent to each such evaluation are made in a manner that, in the determination of the National Coordinator, will result in the greatest improvement in the quality and efficiency of health care.
 
 (July 1, 1944, ch. 373, title XXX, §3017, as added Pub. L. 111–5, div. A, title XIII, §13301, Feb. 17, 2009, 123 Stat. 257.)
 

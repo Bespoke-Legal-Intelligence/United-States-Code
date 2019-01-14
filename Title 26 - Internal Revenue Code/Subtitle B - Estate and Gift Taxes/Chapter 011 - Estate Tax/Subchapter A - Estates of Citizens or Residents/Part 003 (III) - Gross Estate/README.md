@@ -31,7 +31,7 @@
 
 <b>1981</b>—Pub. L. 97–34, title IV, §403(d)(3)(A)(ii), Aug. 13, 1981, 95 Stat. 304, added item 2044 and redesignated former items 2044 and 2045 as items 2045 and 2046, respectively.
 
-<b>1976</b>—Pub. L. 94–455, title XX, §§2001(c)(1)(N)(iii), 2003(d)(1), 2009(b)(3)(B), Oct. 4, 1976, 90 Stat. 1853, 1862,1894, added items 2032A and 2045 and substituted "Adjustments for gifts made within 3 years of decedent's death" for "Transactions in contemplation of death" in item 2035.
+<b>1976</b>—Pub. L. 94–455, title XX, §§2001(c)(1)(N)(iii), 2003(d)(1), 2009(b)(3)(B), Oct. 4, 1976, 90 Stat. 1853, 1862, 1894, added items 2032A and 2045 and substituted "Adjustments for gifts made within 3 years of decedent's death" for "Transactions in contemplation of death" in item 2035.
 
 
 ---

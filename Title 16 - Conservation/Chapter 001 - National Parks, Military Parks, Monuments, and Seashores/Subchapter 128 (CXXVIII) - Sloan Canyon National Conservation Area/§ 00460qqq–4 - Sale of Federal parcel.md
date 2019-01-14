@@ -10,7 +10,7 @@ Of the gross proceeds from the conveyance of land under subsection (a)—
 
 &emsp;(1) 5 percent shall be available to the State for use in the general education program of the State; and
 
-&emsp;(2) the remainder shall be deposited in the special account established under the Southern Nevada Public Lands Management Act of 1998 (Public Law 105–263; 112 Stat. 2345), to be available to the Secretary, without further appropriation for—
+&emsp;(2) the remainder shall be deposited in the special account established under the Southern Nevada Public Lands Management Act of 1998 (Public Law 105–263; 112 Stat. 2345), to beavailable to the Secretary, without further appropriation for—
 
 &emsp;&emsp;(A) the construction and operation of facilities to support the management of the Conservation Area;
 

@@ -4,7 +4,7 @@
 
 In order to be an eligible institution for the purposes of any program authorized under this subchapter, an institution must be an institution of higher education or an eligible institution (as that term is defined for the purpose of that program) and shall, except with respect to a program under subpart 4 of part A, enter into a program participation agreement with the Secretary. The agreement shall condition the initial and continuing eligibility of an institution to participate in a program upon compliance with the following requirements:
 
-&emsp;(1) The institution will use funds received by it for any program under this subchapter and any interest or other earnings thereon solely for the purpose specified in and in accordance with the provision of that program.
+&emsp;(1) The institution will use funds received by it for any program under this subchapter andany interest or other earnings thereon solely for the purpose specified in and in accordance with the provision of that program.
 
 &emsp;(2) The institution shall not charge any student a fee for processing or handling any application, form, or data required to determine the student's eligibility for assistance under this subchapter or the amount of such assistance.
 
@@ -20,7 +20,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(5) The institution will submit reports to the Secretary and, in the case of an institution participating in a program under part B or part E, to holders of loans made to the institution's students under such parts at such times and containing such information as the Secretary may reasonably require to carry out the purpose of this subchapter.
 
-&emsp;(6) The institution will not provide any student with any statement or certification toany lender under part B that qualifies the student for a loan or loans in excess of the amount that student is eligible to borrow in accordance with sections 1075(a), 1078(a)(2), and 1078(b)(1)(A) and (B) of this title.
+&emsp;(6) The institution will not provide any student with any statement or certification to any lender under part B that qualifies the student for a loan or loans in excess of the amount that student is eligible to borrow in accordance with sections 1075(a), 1078(a)(2), and 1078(b)(1)(A) and (B) of this title.
 
 &emsp;(7) The institution will comply with the requirements of section 1092 of this title.
 
@@ -62,7 +62,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(19) The institution will not impose any penalty, including the assessment of late fees, the denial of access to classes, libraries, or other institutional facilities, or the requirement that the student borrow additional funds, on any student because of the student's inability to meet his or her financial obligations to the institution as a result of the delayed disbursement of the proceeds of a loan made under this subchapter due to compliance with the provisions of this subchapter, or delays attributable to the institution.
 
-&emsp;(20) The institution will not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to anypersons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except that this paragraph shall not apply to the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
+&emsp;(20) The institution will not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except that this paragraph shall not apply to the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
 
 &emsp;(21) The institution will meet the requirements established by the Secretary and accrediting agencies or associations, and will provide evidence to the Secretary that the institution has the authority to operate within a State.
 
@@ -92,7 +92,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(26) The institution will, upon written request, disclose to the alleged victim of any crime of violence (as that term is defined in section 16 of title 18), or a nonforcible sex offense, the report on the results of any disciplinary proceeding conducted by such institution against a student who is the alleged perpetrator of such crime or offense with respect to such crime or offense. If the alleged victim of such crime or offense is deceased as a result of such crime or offense, the next of kin of such victim shall be treated as the alleged victim for purposes of this paragraph.
 
-&emsp;(27) In the case of an institution that has entered into a preferred lender arrangement, the institution will at least annually compile, maintain, and make available for students attending the institution, and the families of such students, a list, in print or other medium, of the specific lenders for loans made, insured, or guaranteed under this subchapter or private education loans that the institution recommends, promotes, or endorses in accordance with such preferred lender arrangement. In making such list, the institution shall comply with the requirements of subsection (h).
+&emsp;(27) In the case of an institution that has entered into a preferred lender arrangement, the institution will at least annually compile, maintain, and make available for students attending the institution, and the families of such students, a list, in print or other medium, of the specific lenders for loans made,insured, or guaranteed under this subchapter or private education loans that the institution recommends, promotes, or endorses in accordance with such preferred lender arrangement. In making such list, the institution shall comply with the requirements of subsection (h).
 
 &emsp;(28)(A) The institution will, upon the request of an applicant for a private education loan, provide to the applicant the form required under section 1638(e)(3) of title 15, and the information required to complete such form, to the extent the institution possesses such information.
 
@@ -126,13 +126,13 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(ii) with regard to a third party servicer that is audited under chapter 75 of title 31, such audit shall be deemed to satisfy the requirements of clause (i) for the period covered by such audit;
 
-&emsp;(D)(i) a compliance audit of a secondary market with regard to its transactions involving, and its servicing and collection of, loans made under this subchapter, at least once a year and covering the period since the most recent audit, conducted by a qualified, independent organization or person in accordance with standards established by the Comptroller General for the audit of governmental organizations, programs, and functions, and as prescribed in regulations of the Secretary, the results of which shall be submitted to the Secretary; or
+&emsp;(D)(i) a compliance audit of a secondary market with regard to its transactions involving, and its servicing and collection of, loans made under this subchapter, at least once a year and covering the period since the mostrecent audit, conducted by a qualified, independent organization or person in accordance with standards established by the Comptroller General for the audit of governmental organizations, programs, and functions, and as prescribed in regulations of the Secretary, the results of which shall be submitted to the Secretary; or
 
 &emsp;(ii) with regard to a secondary market that is audited under chapter 75 of title 31, such audit shall be deemed to satisfy the requirements of clause (i) for the period covered by the audit;
 
 &emsp;(E) the establishment, by each eligible institution under part B responsible for furnishing to the lender the statement required by section 1078(a)(2)(A)(i) of this title, of policies and procedures by which the latest known address and enrollment status of any student who has had a loan insured under this part and who has either formally terminated his enrollment, or failed to re-enroll on at least a half-time basis, at such institution, shall be furnished either to the holder (or if unknown, the insurer) of the note, not later than 60 days after such termination or failure to re-enroll;
 
-&emsp;(F) the limitation, suspension, or termination of the participation in any program under this subchapter of an eligible institution, or the imposition of a civil penalty under paragraph (3)(B) whenever the Secretary has determined, after reasonable notice and opportunity for hearing, that such institution has violated or failed to carry out any provision of this subchapter, any regulation prescribed under this subchapter, or any applicable special arrangement, agreement, or limitation, except that no period of suspension under thissection shall exceed 60 days unless the institution and the Secretary agree to an extension or unless limitation or termination proceedings are initiated by the Secretary within that period of time;
+&emsp;(F) the limitation, suspension, or termination of the participation in any program under this subchapter of an eligible institution, or the imposition of a civil penalty under paragraph (3)(B) whenever the Secretary has determined, after reasonable notice and opportunity for hearing, that such institution has violated or failed to carry out any provision of this subchapter, any regulation prescribed under this subchapter, or any applicable special arrangement, agreement, or limitation, except that no period of suspension under this section shall exceed 60 days unless the institution and the Secretary agree to an extension or unless limitation or termination proceedings are initiated by the Secretary within that period of time;
 
 &emsp;(G) an emergency action against an institution, under which the Secretary shall, effective on the date on which a notice and statement of the basis of the action is mailed to the institution (by registered mail, return receipt requested), withhold funds from the institution or its students and withdraw the institution's authority to obligate funds under any program under this subchapter, if the Secretary—
 
@@ -168,7 +168,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 > the Secretary may impose a civil penalty upon such institution of not to exceed $25,000 for each violation or misrepresentation.
 
-(ii) Any civil penalty may be compromised by the Secretary. In determining the amount ofsuch penalty, or the amount agreed upon in compromise, the appropriateness of the penalty to the size of the institution of higher education subject to the determination, and the gravity of the violation, failure, or misrepresentation shall be considered. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the institution charged.
+(ii) Any civil penalty may be compromised by the Secretary. In determining the amount of such penalty, or the amount agreed upon in compromise, the appropriateness of the penalty to the size of the institution of higher education subject to the determination, and the gravity of the violation, failure, or misrepresentation shall be considered. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the institution charged.
 
 (4) The Secretary shall publish a list of State agencies which the Secretary determines to be reliable authority as to the quality of public postsecondary vocational education in their respective States for the purpose of determining eligibility for all Federal student assistance programs.
 
@@ -268,7 +268,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 #### (4) Report to Congress
 
-&emsp;Not later than July 1, 2009, and July 1 of each succeeding year, the Secretary shall submit to the authorizing committees a report that contains, for each proprietary institution of higher education that receives assistance under this subchapter, as provided in the audited financial statements submitted to the Secretary by each institution pursuant to the requirements of subsection (a)(24)—
+&emsp;Not later than July 1, 2009, and July 1 of each succeeding year, the Secretary shall submit to the authorizing committees a report that contains, for each proprietary institution of higher education that receives assistanceunder this subchapter, as provided in the audited financial statements submitted to the Secretary by each institution pursuant to the requirements of subsection (a)(24)—
 
 &emsp;&emsp;(A) the amount and percentage of such institution's revenues received from sources under this subchapter; and
 
@@ -422,7 +422,7 @@ The Inspector General of the Department shall—
 
 &emsp;&emsp;&emsp;(ii) why the institution has entered into a preferred lender arrangement with each lender on the preferred lender list, particularly with respect to terms and conditions or provisions favorable to the borrower; and
 
-&emsp;&emsp;&emsp;(iii) that the students attending the institution, or the families of such students,do not have to borrow from a lender on the preferred lender list;
+&emsp;&emsp;&emsp;(iii) that the students attending the institution, or the families of such students, do not have to borrow from a lender on the preferred lender list;
 
 &emsp;&emsp;(B) ensure, through the use of the list of lender affiliates provided by the Secretary under paragraph (2), that—
 

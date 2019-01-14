@@ -4,7 +4,7 @@
 
 #### (1) Guidance
 
-&emsp;Within 12 months after August 6, 1996, after notice and comment, the Administrator shall publish guidance for States exercising primary enforcement responsibility for public water systems to carry out directly or through delegation (for the protection and benefit of publicwater systems and for the support of monitoring flexibility) a source water assessment program within the State's boundaries. Each State adopting modifications to monitoring requirements pursuant to section 300g–7(b) of this title shall, prior to adopting such modifications, have an approved source water assessment program under this section and shall carry out the program either directly or through delegation.
+&emsp;Within 12 months after August 6, 1996, after notice and comment, the Administrator shall publish guidance for States exercising primary enforcement responsibility for public water systems to carry out directly or through delegation (for the protection and benefit of public water systems and for the support of monitoring flexibility) a source water assessment program within the State's boundaries. Each State adopting modifications to monitoring requirements pursuant to section 300g–7(b) of this title shall, prior to adopting such modifications, have an approved source water assessment program under this section and shall carry out the program either directly or through delegation.
 
 #### (2) Program requirements
 

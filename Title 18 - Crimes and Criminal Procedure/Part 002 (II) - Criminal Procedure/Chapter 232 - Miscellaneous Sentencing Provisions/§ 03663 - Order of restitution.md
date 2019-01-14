@@ -72,7 +72,7 @@
 
 #### References in Text
 
-The Controlled Substances Act, referred to in subsec. (c)(4), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat.1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (c)(4), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Amendments
 
@@ -112,7 +112,7 @@ Subsec. (f)(4). Pub. L. 101–647, §3595, substituted "604(a)(18)" for "604(a)(
 
 <b>1987</b>—Subsec. (f)(4). Pub. L. 100–185 inserted "or the person designated under section 604(a)(17) of title 28" after "Attorney General".
 
-Subsec. (g). Pub. L. 100–182 substituted "revoke probation or a term of supervised release," for "revoke probation," in two places and inserted "probation or" after "modify the term or conditions of" in two places.
+Subsec. (g). Pub. L. 100–182 substituted "revoke probation or a term of supervised release," for "revokeprobation," in two places and inserted "probation or" after "modify the term or conditions of" in two places.
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–646, §20(a), which directed that subsec. (a)(1) be amended by inserting ", in the case of a misdemeanor," after "in addition to or", was executed to subsec. (a) to reflect the probable intent of Congress and the prior amendment to subsec. (a) by Pub. L. 99–646, §8(b), below.
 

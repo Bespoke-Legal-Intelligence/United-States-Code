@@ -14,7 +14,7 @@
 
 &emsp;(C) may audit a financial statement of a Government corporation at the discretion of the Comptroller General or at the request of a committee of the Congress.
 
-> An audit the Comptroller General performs under this paragraph shall be in lieu of the auditotherwise required by paragraph (1) of this subsection. Prior to performing such audit, the Comptroller General shall consult with the Inspector General of the agency which prepared the statement.
+> An audit the Comptroller General performs under this paragraph shall be in lieu of the audit otherwise required by paragraph (1) of this subsection. Prior to performing such audit, the Comptroller General shall consult with the Inspector General of the agency which prepared the statement.
 
 (5) A Government corporation shall reimburse the Comptroller General of the United States for the full cost of any audit conducted by the Comptroller General under this subsection, as determined by the Comptroller General. All reimbursements received under this paragraph by the Comptroller General of the United States shall be deposited in the Treasury as miscellaneous receipts.
 
@@ -112,7 +112,7 @@ Pub. L. 100–233 added par. (4).
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee onGovernment Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1993 Amendment
 

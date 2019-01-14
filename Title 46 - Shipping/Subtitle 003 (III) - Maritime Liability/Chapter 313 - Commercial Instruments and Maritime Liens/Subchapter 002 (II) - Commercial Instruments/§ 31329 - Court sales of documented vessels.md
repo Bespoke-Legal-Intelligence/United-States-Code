@@ -58,7 +58,7 @@ Under section 31329(d) a vessel may be operated by the trustee only with the app
 
 Subsec. (b)(2). Pub. L. 109–304, §15(32)(B)(i), substituted "chapter 563 of this title" for "section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242)".
 
-Subsec. (b)(3). Pub. L. 109–304, §15(32)(B)(ii), substituted "sale to a person not a citizen of the UnitedStates under section 12132 of this title" for "sale foreign within the terms of the first proviso of section 27 of the Merchant Marine Act, 1920 (46 App. U.S.C. 883)".
+Subsec. (b)(3). Pub. L. 109–304, §15(32)(B)(ii), substituted "sale to a person not a citizen of the United States under section 12132 of this title" for "sale foreign within the terms of the first proviso of section 27 of the Merchant Marine Act, 1920 (46 App. U.S.C. 883)".
 
 <b>1996</b>—Subsec. (f). Pub. L. 104–324 added subsec. (f).
 

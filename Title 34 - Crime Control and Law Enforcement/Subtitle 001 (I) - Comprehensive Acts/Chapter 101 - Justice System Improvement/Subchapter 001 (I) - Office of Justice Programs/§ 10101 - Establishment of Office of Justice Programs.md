@@ -1,6 +1,6 @@
 ### §10101. Establishment of Office of Justice Programs
 
-There is hereby established an Office of Justice Programs within the Department of Justiceunder the general authority of the Attorney General. The Office of Justice Programs (hereinafter referred to in this chapter as the "Office") shall be headed by an Assistant Attorney General (hereinafter in this chapter referred to as the "Assistant Attorney General") appointed by the President, by and with the advice and consent of the Senate.
+There is hereby established an Office of Justice Programs within the Department of Justice under the general authority of the Attorney General. The Office of Justice Programs (hereinafter referred to in this chapter as the "Office") shall be headed by an Assistant Attorney General (hereinafter in this chapter referred to as the "Assistant Attorney General") appointed by the President, by and with the advice and consent of the Senate.
 
 (Pub. L. 90–351, title I, §101, as added Pub. L. 98–473, title II, §603(a), Oct. 12, 1984, 98 Stat. 2077.)
 
@@ -28,7 +28,39 @@ Pub. L. 98–473, title II, §609AA, Oct. 12, 1984, 98 Stat. 2107, provided that
 
 "(2) Section 609Z \[repealing section 204 of Pub. L. 98–411, which had amended sections 10281, 10282, and 10284 of this title and enacted provisions set out as a note under section 10281 of this title\] shall take effect on October 1, 1984."
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 115–424, §1, Jan. 7, 2019, 132 Stat. 5465, provided that: "This Act \[enacting section 20342 of this title and amending sections 20301 to 20307, 20323, and 20333 of this title and section 5106a of Title 42, The Public Health and Welfare\] may be cited as the 'Victims of Child Abuse Act Reauthorization Act of 2018'."
+
 #### Short Title of 2018 Amendment
+
+Pub. L. 115–401, §1, Dec. 31, 2018, 132 Stat. 5336, provided that: "This Act \[enacting chapter 219 of this title, amending sections 40504 and 50112 of this title, and amending provisions set out as a note under section 40504 of this title\] may be cited as the 'Ashanti Alert Act of 2018'."
+
+Pub. L. 115–393, §1(a), Dec. 21, 2018, 132 Stat. 5265, provided that: "This Act \[enacting sections 11295a, 20709b, and 20709c of this title, section 645a of Title 6, Domestic Security, section 1595A of Title 18, Crimes and Criminal Procedure, and section 7105b of Title 22, Foreign Relations and Intercourse, amending sections 10381, 11291 to 11294, 11296, 11297, 12451, 20333, 20701, 20702, 20705, 20709, and 41303 of this title, section 1232 of Title 8, Aliens and Nationality, sections 1593A and 3056 of Title 18, and sections 7105, 7109a, 7110, and 7113 of Title 22, enacting provisions set out as a note under section 20702 of this title, and repealing provisions set out as a note under section 20702 of this title\] may be cited as the 'Trafficking Victims Protection Act of 2017'."
+
+Pub. L. 115–391, title V, §501, Dec. 21, 2018, 132 Stat. 5222, provided that: "This title \[enacting sections 10741, 60505, and 60506 of this title, amending sections 10261, 10591, 10593, 10631, 60502, 60504, 60511, 60521, 60531, and 60541 of this title, section 3624 of Title 18, Crimes and Criminal Procedure, and sections 3797s—5 and 17555 of Title 42, The Public Health and Welfare, repealing sections 10581, 10633, 10681, 60532, and 60544 of this title, and enacting provisions set out as notes under section 60501 of this title and section 3621 of Title 18\] may be cited as the 'Second Chance Reauthorization Act of 2018'."
+
+Pub. L. 115–385, §1, Dec. 21, 2018, 132 Stat. 5123, provided that: "This Act \[enacting sections 11314, 11321, and 11322 of this title, amending sections 11102, 11103, 11114, 11116, 11117, 11131 to 11133, 11161, 11162, 11182, 11280, and 11311 to 11313 of this title and section 5784 of Title 42, The Public Health and Welfare, repealing sections 11141 to 11146 and 11181 of this title and section 5784 of Title 42, enacting provisions set out as notes under this section and section 11102 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Juvenile Justice Reform Act of 2018'."
+
+Pub. L. 115–274, §1, Oct. 31, 2018, 132 Stat. 4160, provided that: "This Act \[amending section 30307 of this title and enacting provisions set out as a note under section 3551 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'United States Parole Commission Extension Act of 2018'."
+
+Pub. L. 115–271, title VIII, §8091, Oct. 24, 2018, 132 Stat. 4103, provided that: "This subtitle \[subtitle H (§§8091, 8092) of title VIII of Pub. L. 115–271, amending section 10261 of this title\] may be cited as the 'Reauthorizing and Extending Grants for Recovery from Opioid Use Programs Act of 2018' or the 'REGROUP Act of 2018'."
+
+Pub. L. 115–267, §1, Oct. 11, 2018, 132 Stat. 3756, provided that: "This Act \[enacting section 11295a of this title, amending sections 11291 to 11294, 11296, and 11297 of this title, and enacting provisions set out as a note under section 11291 of this title\] may be cited as the 'Missing Children's Assistance Act of 2018'."
+
+Pub. L. 115–257, §1, Oct. 9, 2018, 132 Stat. 3660, provided that: "This Act \[amending section 40701 of this title\] may be cited as the 'Justice Served Act of 2018'."
+
+Pub. L. 115–185, §1, June 18, 2018, 132 Stat. 1485, provided that: "This Act \[enacting chapter 607 of this title\] may be cited as the 'Project Safe Neighborhoods Grant Program Authorization Act of 2018'."
+
+Pub. L. 115–166, §1, Apr. 13, 2018, 132 Stat. 1274, provided that: "This Act \[amending section 20504 of this title\] may be cited as the 'Ashlynne Mike AMBER Alert in Indian Country Act'."
+
+Pub. L. 115–141, div. Q, §1, Mar. 23, 2018, 132 Stat. 1115, provided that: "This division \[enacting sections 12622 and 12623 of this title, amending sections 11293 and 12621 of this title, and enacting provisions set out as notes under this section and section 12623 of this title\] may be cited as the 'Kevin and Avonte's Law of 2018'."
+
+Pub. L. 115–141, div. Q, title I, §101, Mar. 23, 2018, 132 Stat. 1116, provided that: "This title \[enacting section 12622 of this title and amending section 12621 of this title\] may be cited as the 'Missing Americans Alert Program Act of 2018'."
+
+Pub. L. 115–141, div. S, title V, §501, Mar. 23, 2018, 132 Stat. 1128, provided that: "This title \[enacting sections 10555 and 10556 of this title, amending sections 10551 to 10554 of this title, and repealing section 3797e of Title 42, The Public Health and Welfare\] may be cited as the 'Student, Teachers, and Officers Preventing School Violence Act of 2018' or the 'STOP School Violence Act of 2018'."
+
+Pub. L. 115–141, div. S, title VI, §601, Mar. 23, 2018, 132 Stat. 1132, provided that: "This title \[enacting section 40917 of this title and amending sections 40301, 40302, 40901, 40912, and 40913 of this title\] may be cited as the 'Fix NICS Act of 2018'."
 
 Pub. L. 115–113, §1, Jan. 10, 2018, 131 Stat. 2276, provided that: "This Act \[amending section 10381 of this title and enacting provisions set out as notes preceding section 50101 of this title\] may be cited as the 'Law Enforcement Mental Health and Wellness Act of 2017'."
 
@@ -214,7 +246,7 @@ Pub. L. 106–177, title II, §201, Mar. 10, 2000, 114 Stat. 36, provided that: 
 
 #### Short Title of 1999 Act
 
-Pub. L. 106–71, §1, Oct. 12, 1999, 113 Stat. 1032, provided that: "This Act \[enacting sections 11245, 11261, 11276,and 11279 of this title, amending sections 11201, 11211, 11212, 11213, 11221 to 11241, 11243, 11244, 11271 to 11275, 11277, 11280 to 11293, 11294, and 11297 of this title, and enacting provisions set out as a note under section 7101 of Title 20, Education\] may be cited as the 'Missing, Exploited, and Runaway Children Protection Act'."
+Pub. L. 106–71, §1, Oct. 12, 1999, 113 Stat. 1032, provided that: "This Act \[enacting sections 11245, 11261, 11276, and 11279 of this title, amending sections 11201, 11211, 11212, 11213, 11221 to 11241, 11243, 11244, 11271 to 11275, 11277, 11280 to 11293, 11294, and 11297 of this title, and enacting provisions set out as a note under section 7101 of Title 20, Education\] may be cited as the 'Missing, Exploited, and Runaway Children Protection Act'."
 
 #### Short Title of 1998 Act
 
@@ -234,7 +266,7 @@ Pub. L. 105–180, §1, June 16, 1998, 112 Stat. 511, provided that: "This Act \
 
 #### Short Title of 1996 Act
 
-Pub. L. 104–238, §1, Oct. 3, 1996, 110 Stat. 3114, provided that: "This Act \[enacting part B of subchapter XI of this chapter\] may be cited as the 'Federal Law Enforcement Dependents Assistance Act of 1996'."
+Pub. L. 104–238, §1, Oct. 3, 1996, 110 Stat. 3114, provided that: "This Act \[enacting part B of subchapter XI ofthis chapter\] may be cited as the 'Federal Law Enforcement Dependents Assistance Act of 1996'."
 
 Pub. L. 104–132, title II, §231, Apr. 24, 1996, 110 Stat. 1243, provided that: "This subtitle \[subtitle C (§§231–236) of title II of Pub. L. 104–132, enacting sections 20105 and 20142 of this title, amending this section and sections 20102 and 20103 of this title, and enacting provisions set out as notes under section 20102 of this title\] may be cited as the 'Justice for Victims of Terrorism Act of 1996'."
 
@@ -278,7 +310,7 @@ Pub. L. 101–647, title V, §501, Nov. 29, 1990, 104 Stat. 4820, provided that:
 
 #### Short Title of 1988 Act
 
-Pub. L. 100–690, title VII, §7250(a), Nov. 18, 1988, 102 Stat. 4434, provided that: "This subtitle \[subtitle F\(§§7250–7296) of title VII of Pub. L. 100–690, see Tables for classification\] may be cited as the 'Juvenile Justice and Delinquency Prevention Amendments of 1988'."
+Pub. L. 100–690, title VII, §7250(a), Nov. 18, 1988, 102 Stat. 4434, provided that: "This subtitle \[subtitle F (§§7250–7296) of title VII of Pub. L. 100–690, see Tables for classification\] may be cited as the 'Juvenile Justice and Delinquency Prevention Amendments of 1988'."
 
 Pub. L. 100–413, §1, Aug. 22, 1988, 102 Stat. 1101, provided that "This Act \[enacting section 41102 of this title and provisions set out as a note under section 41102 of this title\] may be cited as the 'Parimutuel Licensing Simplification Act of 1988'."
 
@@ -316,11 +348,13 @@ Pub. L. 94–430, §1, Sept. 29, 1976, 90 Stat. 1346, provided: "That this Act \
 
 Pub. L. 93–415, §1, Sept. 7, 1974, 88 Stat. 1109, provided: "That this Act \[see Tables for classification\] may be cited as the 'Juvenile Justice and Delinquency Prevention Act of 1974'."
 
+Pub. L. 93–415, title II, §220, as added by Pub. L. 115–385, title II, §204(c)(2), Dec. 21, 2018, 132 Stat. 5131, provided that: "This part \[part B (§§220–223) of title II of Pub. L. 93–415, enacting part B of subchapter II of chapter 111 of this title\] may be cited as the 'Charles Grassley Juvenile Justice and Delinquency Prevention Program'."
+
 Pub. L. 93–415, title III, §301, Sept. 7, 1974, 88 Stat. 1129, as amended by Pub. L. 96–509, §18(b), Dec. 8, 1980, 94 Stat. 2762, provided that: "This title \[enacting subchapter III of chapter 111 of this title\] may be cited as the 'Runaway and Homeless Youth Act'."
 
 Pub. L. 93–415, title IV, §401, as added by Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2125, as amended by Pub. L. 101–204, title X, §1004(1), Dec. 7, 1990, 103 Stat. 1828, provided that: "This title \[enacting subchapter IV of chapter 111 of this title\] may be cited as the 'Missing Children's Assistance Act'."
 
-Pub. L. 93–415, title V, §501, as added by Pub. L. 107–273, div. C, title II, §12222(a), Nov. 2, 2002, 116 Stat. 1894, provided that: "This title \[enacting subchapter V of chapter 111 of this title\] may be cited as the 'Incentive Grants for Local Delinquency Prevention Programs Act of 2002'."
+Pub. L. 93–415, title V, §501, as added by Pub. L. 107–273, div. C, title II, §12222(a), Nov. 2, 2002, 116 Stat. 1894; amended by Pub. L. 115–385, title III, §301, Dec. 21, 2018, 132 Stat. 5145, provided that: "This title \[enacting subchapter V of chapter 111 of this title\] may be cited as the 'Incentive Youth Promise Grants for Local Delinquency Prevention Programs Act of 2018'."
 
 A prior section 501 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5027, provided that title V (enacting subchapter V of chapter 72 of Title 42, The Public Health and Welfare) could be cited as the "Incentive Grants for Local Delinquency Prevention Programs Act", prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273, §12222(a).
 
@@ -350,5 +384,5 @@ Pub. L. 98–473, title II, §609I, Oct. 12, 1984, 98 Stat. 2102, provided that:
 
 "(a) Any reference to the Law Enforcement Assistance Administration, or to the Administrator of the Law Enforcement Assistance Administration, in any law other than this Act \[see Short Title of 1984 Act note set out above\] and the Omnibus Crime Control and Safe Streets Act of 1968 \[see Short Title of 1968 Act note set out above\], applicable to activities, functions, powers, and duties that after the date of the enactment of this Act \[Oct. 12, 1984\] are carried out by the Bureau of Justice Assistance shall be deemed to be a reference to the Bureau of Justice Assistance, or to the Director of the Bureau of Justice Assistance, as the case may be.
 
-"(b) Any reference to the Office of Justice Assistance, Research, and Statistics, or to the Director of the Office of Justice Assistance, Research, and Statistics, in any law other than this Act and the Omnibus Crime Control and Safe Streets Act of 1968, applicable to activities, functions, powers, and duties that after the date of the enactment of this Act are carried out by the Office of Justice Programs, the Bureau of Justice Assistance, the Bureau of Justice Statistics, the National Institute of Justice, or the Office of Juvenile Justice \[and\] Delinquency Prevention shall be deemed to be a reference to the Office of Justice Programs, the Bureau of Justice Assistance, the Bureau of Justice Statistics, National Institute of Justice, or Office of Juvenile Justice \[and\] Delinquency Prevention, or to the Director ofthe Office of Justice Programs, the Director of the Bureau of Justice Assistance, the Director of the Bureau of Justice Statistics, the Director of the National Institute of Justice, or the Administrator of the Office of Juvenile Justice and Delinquency Prevention, as the case may be."
+"(b) Any reference to the Office of Justice Assistance, Research, and Statistics, or to the Director of the Office of Justice Assistance, Research, and Statistics, in any law other than this Act and the Omnibus Crime Control and Safe Streets Act of 1968, applicable to activities, functions, powers, and duties that after the date of the enactment of this Act are carried out by the Office of Justice Programs, the Bureau of Justice Assistance, the Bureau of Justice Statistics, the National Institute of Justice, or the Office of Juvenile Justice \[and\] Delinquency Prevention shall be deemed to be a reference to the Office of Justice Programs, the Bureau of Justice Assistance, the Bureau of Justice Statistics, National Institute of Justice, or Office of Juvenile Justice \[and\] Delinquency Prevention, or to the Director of the Office of Justice Programs, the Director of the Bureau of Justice Assistance, the Director of the Bureau of Justice Statistics, the Director of the National Institute of Justice, or the Administrator of the Office of Juvenile Justice and Delinquency Prevention, as the case may be."
 

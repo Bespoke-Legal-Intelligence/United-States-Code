@@ -16,7 +16,7 @@
 
 A recipient of a grant under this section shall use the grant funds for one or more of the following:
 
-&emsp;(1) Security and redundancy for critical communications, computer, and train control systems essential for secure railroad operations.
+&emsp;(1) Security and redundancy for critical communications, computer, and train control systems essential for secure railroad operations, including communications interoperability where appropriate with relevant outside agencies and entities.
 
 &emsp;(2) Accommodation of railroad cargo or passenger security inspection facilities, related infrastructure, and operations at or near United States international borders or other ports of entry.
 
@@ -24,15 +24,15 @@ A recipient of a grant under this section shall use the grant funds for one or m
 
 &emsp;(4) Chemical, biological, radiological, or explosive detection, including canine patrols for such detection.
 
-&emsp;(5) The security of intercity passenger railroad stations, trains, and infrastructure, including security capital improvement projects that the Secretary determines enhance railroad station security.
+&emsp;(5) The security and preparedness of intercity passenger railroad stations, trains, and infrastructure, including security capital improvement projects that the Secretary determines enhance railroad station security.
 
 &emsp;(6) Technologies to reduce the vulnerabilities of railroad cars, including structural modification of railroad cars transporting security-sensitive materials to improve their resistance to acts of terrorism.
 
-&emsp;(7) The sharing of intelligence and information about security threats.
+&emsp;(7) The sharing of intelligence and information about security threats and preparedness, including connectivity to the National Terrorist Screening Center.
 
 &emsp;(8) To obtain train tracking and communications equipment, including equipment that is interoperable with Federal, State, and local agencies and tribal governments.
 
-&emsp;(9) To hire, train, and employ police and security officers, including canine units, assigned to full-time security or counterterrorism duties related to railroad transportation.
+&emsp;(9) To hire, train, and employ police, security, and preparedness officers, including canine units, assigned to full-time security or counterterrorism duties related to railroad transportation.
 
 &emsp;(10) Overtime reimbursement, including reimbursement of State, local, and tribal governments for costs, for enhanced security personnel assigned to duties related to railroad security during periods of high or severe threat levels and National Special Security Events or other periods of heightened security as determined by the Secretary.
 
@@ -104,7 +104,7 @@ A recipient of a grant under this section and sections 1164 and 1165 of this tit
 
 #### (1) In general
 
-&emsp;Out of funds appropriated pursuant to section 114(w) of title 49, there shall be made available to the Secretary to carry out this section—
+&emsp;Out of funds appropriated pursuant to section 114(w) <sup>1</sup> of title 49, there shall be made available to the Secretary to carry out this section—
 
 &emsp;&emsp;(A) $300,000,000 for fiscal year 2008;
 
@@ -118,5 +118,21 @@ A recipient of a grant under this section and sections 1164 and 1165 of this tit
 
 &emsp;Sums appropriated to carry out this section shall remain available until expended.
 
-(Pub. L. 110–53, title XV, §1513, Aug. 3, 2007, 121 Stat. 433.)
+(Pub. L. 110–53, title XV, §1513, Aug. 3, 2007, 121 Stat. 433; Pub. L. 115–254, div. K, title I, §1973(a), Oct. 5, 2018, 132 Stat. 3614.)
+
+#### References in Text
+
+Section 114(w) of title 49, referred to in subsec. (i)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, §1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–254, §1973(a)(1), substituted ", including communications interoperability where appropriate with relevant outside agencies and entities." for period at end.
+
+Subsec. (b)(5). Pub. L. 115–254, §1973(a)(2), substituted "security and preparedness of" for "security of".
+
+Subsec. (b)(7). Pub. L. 115–254, §1973(a)(3), substituted "security threats and preparedness, including connectivity to the National Terrorist Screening Center" for "security threats".
+
+Subsec. (b)(9). Pub. L. 115–254, §1973(a)(4), substituted ", security, and preparedness officers" for "and security officers".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

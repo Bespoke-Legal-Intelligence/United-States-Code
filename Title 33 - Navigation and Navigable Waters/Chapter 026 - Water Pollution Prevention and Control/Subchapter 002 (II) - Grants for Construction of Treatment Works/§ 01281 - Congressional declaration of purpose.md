@@ -58,7 +58,7 @@ A grant may be made under this section to construct a privately owned treatment 
 
 &emsp;(2) such public body has entered into an agreement with the Administrator which guarantees that such treatment works will be properly operated and maintained and will comply with all other requirements of section 1284 of this title and includes a system of charges to assure that each recipient of waste treatment services under such a grant will pay its proportionate share of the cost of operation and maintenance (including replacement); and
 
-&emsp;(3) the total cost and environmental impact of providing waste treatment services to such residences or commercial establishments will be less than the cost of providing a system of collection and central treatment of such wastes.
+&emsp;(3) the total cost and environmental impact of providing waste treatment services to such residences or commercial establishments will be less than the cost of providing a system ofcollection and central treatment of such wastes.
 
 #### (i) Waste treatment management methods, processes, and techniques to reduce energy requirements
 
@@ -76,7 +76,7 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 (1) After December 29, 1981, Federal grants shall not be made for the purpose of providing assistance solely for facility plans, or plans, specifications, and estimates for any proposed project for the construction of treatment works. In the event that the proposed project receives a grant under this section for construction, the Administrator shall make an allowance in such grant for non-Federal funds expended during the facility planning and advanced engineering and design phase at the prevailing Federal share under section 1282(a) of this title, based on the percentage of total project costs which the Administrator determines is the general experience for such projects.
 
-(2)(A) Each State shall use a portion of the funds allotted to such State each fiscal year, but not to exceed 10 per centum of such funds, to advance to potential grant applicants under thissubchapter the costs of facility planning or the preparation of plans, specifications, and estimates.
+(2)(A) Each State shall use a portion of the funds allotted to such State each fiscal year, but not to exceed 10 per centum of such funds, to advance to potential grant applicants under this subchapter the costs of facility planning or the preparation of plans, specifications, and estimates.
 
 (B) Such an advance shall be limited to the allowance for such costs which the Administrator establishes under paragraph (1) of this subsection, and shall be provided only to a potential grant applicant which is a small community and which in the judgment of the State would otherwise be unable to prepare a request for a grant for construction costs under this section.
 
@@ -200,7 +200,7 @@ Treatment works.—The term 'treatment works' has the meaning provided in sectio
 
 "(b)
 
-Grants for Wastewater Assistance.—The Administrator of the Environmental Protection Agency and the heads of other appropriate Federal agencies are authorized to award grants to a border State to provide assistance to eligible communities for the planning, design, and construction or improvement of sewers, treatment works, and appropriate connections for wastewater treatment.
+Grants for Wastewater Assistance.—The Administrator of the Environmental Protection Agency and the heads of other appropriate Federal agencies are authorized to award grants to a border State to provideassistance to eligible communities for the planning, design, and construction or improvement of sewers, treatment works, and appropriate connections for wastewater treatment.
 
 "(c)
 
@@ -242,7 +242,7 @@ Pub. L. 101–507, title III, Nov. 5, 1990, 104 Stat. 1372.
 
 Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading \["
 
-Environmental Protection Agency" and"
+Environmental Protection Agency" and "
 
 state and tribal assistance grants"\], subject to such terms and conditions as the Administrator shall establish, to any State or federally recognized Indian tribe for multimedia or single media pollution prevention, control and abatement and related environmental activities at the request of the Governor or other appropriate State official or the tribe".
 
@@ -280,7 +280,7 @@ Pub. L. 92–500, §12, Oct. 18, 1972, 86 Stat. 899, as amended by Pub. L. 97–
 
 "(f) \[Initial Capital\] To provide initial capital to the Authority the Secretary of the Treasury is authorized to advance the funds necessary for this purpose. Each such advance shall be upon such terms and conditions as to yield a return at a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturities. Interest payments on such advances may be deferred, at the discretion of the Secretary, but any such deferred payments shall themselves bear interest at the rate specified in this section. There is authorized to be appropriated not to exceed $100,000,000, which shall be available for the purposes of this subsection.
 
-"(g) \[Issuance of Obligations\] (1) The Authority is authorized, with the approval of the Secretary of theTreasury, to issue and have outstanding obligations having such maturities and bearing such rate or rates of interest as may be determined by the Authority. Such obligations may be redeemable at the option of the Authority before maturity in such manner as may be stipulated therein.
+"(g) \[Issuance of Obligations\] (1) The Authority is authorized, with the approval of the Secretary of the Treasury, to issue and have outstanding obligations having such maturities and bearing such rate or rates of interest as may be determined by the Authority. Such obligations may be redeemable at the option of the Authority before maturity in such manner as may be stipulated therein.
 
 "(2) As authorized in appropriation Acts, and such authorizations may be without fiscal year limitations, the Secretary of the Treasury may in his discretion purchase or agree to purchase any obligations issued pursuant to paragraph (1) of this subsection, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force, are extended to include such purchases. Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon such terms and conditions as to yield a return at a rate not less than a rate determined by the Secretary of the Treasury, taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturities. The Secretary of the Treasury may sell, upon such terms and conditions and at such price or prices as he shall determine, any of the obligations acquired by him under this paragraph. All purchases and sales by the Secretary of the Treasury of such obligations under this paragraph shall be treated as public debt transactions of the United States. (As amended Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067.)
 
@@ -308,7 +308,7 @@ Pub. L. 92–500, §12, Oct. 18, 1972, 86 Stat. 899, as amended by Pub. L. 97–
 
 "(j) \[Tax Exemption, Exemptions\] The Authority, its property, its franchise, capital, reserves, surplus, security holdings, and other funds, and its income shall be exempt from all taxation now or hereafter imposed by the United States or by any State or local taxing authority; except that (A) any real property and any tangible personal property of the Authority shall be subject to Federal, State, and local taxation to the same extent according to its value as other such property is taxed, and (B) any and all obligations issued by the Authority shall be subject both as to principal and interest to Federal, State, and local taxation to the same extent as the obligations of private corporations are taxed.
 
-"(k) \[Nature of Obligations\] All obligations issued by the Authority shall be lawful investments, and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under authority or control of the United States or of any officer or officers thereof. All obligations issued by the Authority pursuant to this section shall be deemed to be exempt securities within the meaning of laws administered by the Securities and Exchange Commission, to the same extent as securities which are issued by the United States.
+"(k) \[Nature of Obligations\] All obligations issued by the Authority shall be lawful investments, and may beaccepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under authority or control of the United States or of any officer or officers thereof. All obligations issued by the Authority pursuant to this section shall be deemed to be exempt securities within the meaning of laws administered by the Securities and Exchange Commission, to the same extent as securities which are issued by the United States.
 
 "(l) \[Preparation of Obligations by Secretary of the Treasury\] In order to furnish obligations for delivery by the Authority, the Secretary of the Treasury is authorized to prepare such obligations in such form as the Authority may approve, such obligations when prepared to be held in the Treasury subject to delivery upon order by the Authority. The engraved plates, dies, bed pieces, and so forth, executed in connection therewith, shall remain in the custody of the Secretary of the Treasury. The Authority shall reimburse the Secretary of the Treasury for any expenditures made in the preparation, custody, and delivery of such obligations.
 

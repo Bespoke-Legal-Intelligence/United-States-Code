@@ -24,7 +24,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 &emsp;(1) identifying United States businesses with the potential to export goods and services and providing such businesses with advice and information on establishing export businesses;
 
-&emsp;(2) providing United States exporters with information on economic conditions, market opportunities, the status of the intellectual property system in such country, and the legal and regulatory environment within foreign countries;
+&emsp;(2) providing United States exporters with information on economic conditions, market opportunities, the status of the intellectual property system in such country, and the legaland regulatory environment within foreign countries;
 
 &emsp;(3) providing United States exporters with information and advice on the necessary adaptation of product design and marketing strategy to meet the differing cultural and technical requirements of foreign countries;
 
@@ -130,7 +130,11 @@ For purposes of this section—
 
 &emsp;(6) the term "United States" means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Pub. L. 100–418, title II, §2301, Aug. 23, 1988, 102 Stat. 1338; Pub. L. 102–429, title II, §§202, 203, 205, Oct. 21, 1992, 106 Stat. 2201, 2204.)
+(Pub. L. 100–418, title II, §2301, Aug. 23, 1988, 102 Stat. 1338; Pub. L. 102–429, title II, §§202, 203, 205, Oct. 21, 1992, 106 Stat. 2201, 2204; Pub. L. 115–254, div. F, title VI, §1470(d), Oct. 5, 2018, 132 Stat. 3516.)
+
+#### Amendment of Subsections (b)(9) and (f)
+
+<i>Pub. L. 115–254, div. F, title VI, §1470(d), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, subsection (b)(9) and the introductory provisions of subsection (f) of this section are amending by striking "Overseas Private Investment Corporation" and inserting "United States International Development Finance Corporation". See 2018 Amendment notes below.</i>
 
 #### References in Text
 
@@ -142,11 +146,19 @@ Section is comprised of section 2301 of Pub. L. 100–418. Subsec. (i) of sectio
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b)(9). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation".
+
+Subsec. (f). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation" in introductory provisions.
+
 <b>1992</b>—Subsec. (b)(8), (9). Pub. L. 102–429, §§202, 203(a), added pars. (8) and (9).
 
 Subsec. (d)(1). Pub. L. 102–429, §205, substituted "16" for "8".
 
 Subsecs. (f) to (j). Pub. L. 102–429, §203(b), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
 #### Termination of Reporting Requirements
 

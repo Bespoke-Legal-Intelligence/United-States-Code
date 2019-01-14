@@ -9,22 +9,8 @@
 | [943\.](%C2%A7%2000943%20-%20Art.%20143.%20Organization%20and%20employees.md) | 143\. | Organization and employees. |
 | [944\.](%C2%A7%2000944%20-%20Art.%20144.%20Procedure.md) | 144\. | Procedure. |
 | [945\.](%C2%A7%2000945%20-%20Art.%20145.%20Annuities%20for%20judges%20and%20survivors.md) | 145\. | Annuities for judges and survivors. |
-| [946\.](%C2%A7%2000946%20-%20Art.%20146.%20Code%20committee.md) | 146\. | Code committee. |
+| [946\.](%C2%A7%2000946%20-%20Art.%20146.%20Military%20Justice%20Review%20Panel.md) | 146\. | Military Justice Review Panel. |
 | [946a.](%C2%A7%2000946a%20-%20Art.%20146a.%20Annual%20reports.md) | 146a. | Annual reports. |
-
-#### Amendment of Analysis
-
-<i>Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1599, 1601, made technical amendment to Pub. L. 114–328, §5541(8), set out below in part, effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted. See 2017 Amendment note below.</i>
-
-<i>Pub. L. 114–328, div. E, title LXIII, §§5541(8), 5542, Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, provided in part that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking item 946 and inserting the following new item:</i>
-
-&nbsp;
-
-| Sec. | Art. | &nbsp; |
-| --- | --- | --- |
-| [946\.](%C2%A7%2000946%20-%20Art.%20146.%20Code%20committee.md) | 146\. | Military Justice Review Panel. |
-
-<i>See 2016 Amendment note below.</i>
 
 #### Amendments
 
@@ -46,5 +32,5 @@
 - [&sect; 00943 - Art. 143. Organization and employees](%C2%A7%2000943%20-%20Art.%20143.%20Organization%20and%20employees.md)
 - [&sect; 00944 - Art. 144. Procedure](%C2%A7%2000944%20-%20Art.%20144.%20Procedure.md)
 - [&sect; 00945 - Art. 145. Annuities for judges and survivors](%C2%A7%2000945%20-%20Art.%20145.%20Annuities%20for%20judges%20and%20survivors.md)
-- [&sect; 00946 - Art. 146. Code committee](%C2%A7%2000946%20-%20Art.%20146.%20Code%20committee.md)
+- [&sect; 00946 - Art. 146. Military Justice Review Panel](%C2%A7%2000946%20-%20Art.%20146.%20Military%20Justice%20Review%20Panel.md)
 - [&sect; 00946a - Art. 146a. Annual reports](%C2%A7%2000946a%20-%20Art.%20146a.%20Annual%20reports.md)

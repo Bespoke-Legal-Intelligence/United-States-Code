@@ -24,7 +24,7 @@
 
 &emsp;(2) the development of methods for diverting problem drinkers from criminal justice systems into prevention and treatment programs;
 
-&emsp;(3) the development and encouragement of prevention programs designed to combat thespread of alcoholism, alcohol abuse, and abuse of other legal and illegal drugs;
+&emsp;(3) the development and encouragement of prevention programs designed to combat the spread of alcoholism, alcohol abuse, and abuse of other legal and illegal drugs;
 
 &emsp;(4) the development and encouragement of effective occupational prevention and treatment programs within government and in cooperation with the private sector; and
 

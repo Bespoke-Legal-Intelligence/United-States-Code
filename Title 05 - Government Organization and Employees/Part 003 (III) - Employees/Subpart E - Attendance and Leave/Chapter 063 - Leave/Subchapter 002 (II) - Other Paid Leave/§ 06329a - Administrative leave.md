@@ -48,7 +48,7 @@ Regulations.—
 
 &emsp;(1)
 
-OPM regulations.—Not later than 270 calendar days after the date of enactment of this section, the Director of the Office of Personnel Management shall—
+OPM regulations.—Not later than 270 calendar days after the date of enactment ofthis section, the Director of the Office of Personnel Management shall—
 
 &emsp;&emsp;(A) prescribe regulations to carry out this section; and
 

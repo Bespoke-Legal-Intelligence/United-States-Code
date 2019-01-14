@@ -36,7 +36,7 @@ Any person designated to perform the duties of an officer of the Customs Service
 
 #### (1) In general
 
-&emsp;The Secretary of Homeland Security, the United States Trade Representative, and other appropriate Federal officials shall workthrough appropriate international organizations including the World Customs Organization (WCO), the World Trade Organization (WTO), the International Maritime Organization, and the Asia-Pacific Economic Cooperation, to align, to the extent practicable, customs procedures, standards, requirements, and commitments in order to facilitate the efficient flow of international trade.
+&emsp;The Secretary of Homeland Security, the United States Trade Representative, and other appropriate Federal officials shall work through appropriate international organizations including the World Customs Organization (WCO), the World Trade Organization (WTO), the International Maritime Organization, and the Asia-Pacific Economic Cooperation, to align, to the extent practicable, customs procedures, standards, requirements, and commitments in order to facilitate the efficient flow of international trade.
 
 #### (2) United States Trade Representative
 
@@ -112,7 +112,7 @@ Subsec. (g). Pub. L. 108–7, §127(c)(4), which directed addition of subsec. (g
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17,2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
+Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
 
 #### Authority for the Establishment of Integrated Border Inspection Areas at the United States-Canada Border
 

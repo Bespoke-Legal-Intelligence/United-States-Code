@@ -10,7 +10,7 @@ The term "vessel" includes every kind of water and air craft or other contrivanc
 
 The term "American vessel" means any vessel documented or numbered under the laws of the United States; and includes any vessel which is neither documented or numbered under the laws of the United States nor documented under the laws of any foreign country, if such vessel is owned by, chartered to, or otherwise controlled by one or more citizens or residents of the United States or corporations organized under the laws of the United States or of any State.
 
-The term "wire communication facility" means any and all instrumentalities, personnel, and services (among other things, the receipt, forwarding, or delivery of communications) used or useful in the transmission of writings, signs, pictures, and sounds of all kinds by aid of wire,cable, or other like connection between the points of origin and reception of such transmission.
+The term "wire communication facility" means any and all instrumentalities, personnel, and services (among other things, the receipt, forwarding, or delivery of communications) used or useful in the transmission of writings, signs, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission.
 
 (Added May 24, 1949, ch. 139, §23, 63 Stat. 92; amended Pub. L. 87–216, §1, Sept. 13, 1961, 75 Stat. 491; Pub. L. 103–322, title XXXII, §320501, Sept. 13, 1994, 108 Stat. 2114.)
 

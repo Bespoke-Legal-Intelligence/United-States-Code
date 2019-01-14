@@ -92,7 +92,7 @@ As used in this chapter:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), for the purpose of determining the amount of annual sales of cut flowers and cut greens under subparagraphs (A) and (B), the amount of a sale shall be determined on the basis of the gross sales price of the cut flowers and cut greens sold.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), for the purpose of determining the amount of annual sales of cut flowers and cut greensunder subparagraphs (A) and (B), the amount of a sale shall be determined on the basis of the gross sales price of the cut flowers and cut greens sold.
 
 #### (ii) Transfers
 

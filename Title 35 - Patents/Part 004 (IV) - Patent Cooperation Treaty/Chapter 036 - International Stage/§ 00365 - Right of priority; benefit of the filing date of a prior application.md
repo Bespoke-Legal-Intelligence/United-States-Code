@@ -1,6 +1,6 @@
 ### §365. Right of priority; benefit of the filing date of a prior application
 
-(a) In accordance with the conditions and requirements of subsections (a) through (d) of section 119, a national application shall be entitled to the right of priority based on a prior filedinternational application which designated at least one country other than the United States.
+(a) In accordance with the conditions and requirements of subsections (a) through (d) of section 119, a national application shall be entitled to the right of priority based on a prior filed international application which designated at least one country other than the United States.
 
 (b) In accordance with the conditions and requirement of section 119(a) and the treaty and the Regulations, an international application designating the United States shall be entitled to the right of priority based on a prior foreign application, or a prior international application designating at least one country other than the United States. The Director may establish procedures, including the requirement for payment of the fee specified in section 41(a)(7), to accept an unintentionally delayed claim for priority under the treaty and the Regulations, and to accept a priority claim that pertains to an application that was not filed within the priority period specified in the treaty and Regulations, but was filed within the additional 2-month period specified under section 119(a) or the treaty and Regulations.
 

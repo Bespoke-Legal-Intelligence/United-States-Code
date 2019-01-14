@@ -12,5 +12,5 @@ The E-Government Act of 2002, referred to in text, is Pub. L. 107–347, Dec. 17
 
 #### Regulations
 
-Pub. L. 109–461, title IX, §902(c), Dec. 22, 2006, 120 Stat. 3460, provided that: "Not later than one year after the date of the enactment of this Act \[Dec. 22, 2006\], the Secretary of Veterans Affairs shall prescribe regulations to carry out subchapter III of chapter 57 of title 38, United States Code, as added by subsection (a)."
+Pub. L. 109–461, title IX, §902(c), Dec. 22, 2006, 120 Stat. 3460, provided that: "Not later than one year after thedate of the enactment of this Act \[Dec. 22, 2006\], the Secretary of Veterans Affairs shall prescribe regulations to carry out subchapter III of chapter 57 of title 38, United States Code, as added by subsection (a)."
 

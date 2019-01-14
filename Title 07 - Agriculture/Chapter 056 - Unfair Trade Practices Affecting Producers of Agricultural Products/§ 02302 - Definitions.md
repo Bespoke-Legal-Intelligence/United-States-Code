@@ -20,7 +20,7 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "handler" means any person engaged in the business or practice of (i) acquiring agricultural products from producers or associations of producers for processing or sale; or (ii) grading, packaging, handling, storing, or processing agricultural products received from producers or associations of producers; or (iii) contracting or negotiating contracts or other arrangements, written or oral, with or on behalf of producers or associations of producers with respect to the production or marketing of any agricultural product; or (iv) acting as an agent or brokerfor a handler in the performance of any function or act specified in clause (i), (ii), or (iii).
+&emsp;&emsp;The term "handler" means any person engaged in the business or practice of (i) acquiring agricultural products from producers or associations of producers for processing or sale; or (ii) grading, packaging, handling, storing, or processing agricultural products received from producers or associations of producers; or (iii) contracting or negotiating contracts or other arrangements, written or oral, with or on behalf of producers or associations of producers with respect to the production or marketing of any agricultural product; or (iv) acting as an agent or broker for a handler in the performance of any function or act specified in clause (i), (ii), or (iii).
 
 #### (B) Exclusion
 

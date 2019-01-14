@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Whoever knowingly makes restricted personal information about a covered person, or a member of the immediate family of that covered person, publicly available—
+In General.—Whoever knowingly makes restricted personal information about a coveredperson, or a member of the immediate family of that covered person, publicly available—
 
 &emsp;(1) with the intent to threaten, intimidate, or incite the commission of a crime of violence against that covered person, or a member of the immediate family of that covered person; or
 

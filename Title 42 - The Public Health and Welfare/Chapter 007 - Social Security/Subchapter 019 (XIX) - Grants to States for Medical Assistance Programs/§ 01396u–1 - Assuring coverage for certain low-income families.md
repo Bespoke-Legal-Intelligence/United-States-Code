@@ -42,7 +42,7 @@ Subject to the succeeding provisions of this section, with respect to a State an
 
 &emsp;&emsp;&emsp;(iii) has the cash assistance under such program terminated pursuant to section 607(e)(1)(B) of this title (as in effect on or after the welfare reform effective date) because of refusing to work,
 
-> &emsp;&emsp;the State may terminate such individual's eligibility for medical assistance under this subchapter until such time as there no longer is a basis for the termination of such cash assistance because of such refusal.
+> &emsp;&emsp;the State may terminate such individual's eligibility for medical assistance under this subchapter until such time as there nolonger is a basis for the termination of such cash assistance because of such refusal.
 
 #### (B) Exception for children
 
@@ -64,7 +64,7 @@ In the case of a waiver of a provision of part A of subchapter IV in effect with
 
 #### (e) State option to use 1 application form
 
-Nothing in this section, or part A of subchapter IV, shall be construed as preventing aState from providing for the same application form for assistance under a State program funded under part A of subchapter IV (on or after the welfare reform effective date) and for medical assistance under this subchapter.
+Nothing in this section, or part A of subchapter IV, shall be construed as preventing a State from providing for the same application form for assistance under a State program funded under part A of subchapter IV (on or after the welfare reform effective date) and for medical assistance under this subchapter.
 
 #### (f) Additional rules of construction
 
@@ -110,7 +110,7 @@ A prior section 1931 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 <b>1999</b>—Subsec. (h)(3). Pub. L. 106–113, §1000(a)(6) \[title VI, §602(a)(1)\], struck out "and ending with fiscal year 2000" after "fiscal year 1997".
 
-Subsec. (h)(4). Pub. L. 106–113, §1000(a)(6) \[title VI, §602(a)(2)\], struck out heading and text of par. (4). Prior to amendment, text read as follows: "This subsection shall only apply with respect to a State for expenditures incurred during the first 12 calendar quarters in which the State program funded under part A of subchapter IV of this chapter (as in effect on and after the welfare reform effective date) is in effect."
+Subsec. (h)(4). Pub. L. 106–113, §1000(a)(6) \[title VI, §602(a)(2)\], struck out heading and text of par. (4). Prior to amendment, text read as follows: "This subsection shall only apply with respect to a State for expenditures incurred during the first 12 calendar quarters inwhich the State program funded under part A of subchapter IV of this chapter (as in effect on and after the welfare reform effective date) is in effect."
 
 #### Effective Date of 1999 Amendment
 

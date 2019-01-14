@@ -6,7 +6,7 @@
 
 &emsp;(i) the assembly, correlation, publication, and dissemination of information with respect to the construction, rehabilitation, and operation of low- and moderate-income housing;
 
-&emsp;(ii) the provision of advice and technical assistance to public bodies or to nonprofit or cooperative organizations with respect to the construction, rehabilitation, and operation of low- and moderate-income housing, including assistance with respect to self-help and mutual self-help programs;
+&emsp;(ii) the provision of advice and technical assistance to public bodies or to nonprofit or cooperative organizations with respect to the construction, rehabilitation, and operation oflow- and moderate-income housing, including assistance with respect to self-help and mutual self-help programs;
 
 &emsp;(iii) counseling and advice to tenants and homeowners with respect to property maintenance, financial management, and such other matters as may be appropriate to assist them in improving their housing conditions and in meeting the responsibilities of tenancy or homeownership; and
 
@@ -74,7 +74,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (b) Loans to nonprofit organizations or public housing agencies; purpose and terms; repayment; authorization of appropriations; deposit of appropriations in Low and Moderate Income Sponsor Fund
 
-(1) The Secretary is authorized to make loans to nonprofit organizations or public housing agencies for the necessary expenses, prior to construction, in planning, and obtaining financing for, the rehabilitation or construction of housing for low or moderate income families under section 235 of the National Housing Act \[12 U.S.C. 1715z\] or any other federally assisted program. Such loans shall be made without interest and shall not exceed 80 per centum of the reasonable costs expected to be incurred in planning, and in obtaining financing for, such housing prior to the availability of financing, including, but not limited to, preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site acquisition, application and mortgage commitment fees, and construction loan fees and discounts. The Secretary shall require repayment of loans made under this subsection, under such terms and conditions as he may require, upon completion of the project or sooner, and may cancel any part or all of a loan if he determines that it cannot be recovered from the proceeds of any permanent loan made to finance the rehabilitation or construction of the housing.
+(1) The Secretary is authorized to make loans to nonprofit organizations or public housing agencies for the necessary expenses, prior to construction, in planning, and obtaining financing for, the rehabilitation or construction of housing for low or moderate income families under section 235 of the National Housing Act \[12 U.S.C. 1715z\] or any other federally assisted program. Such loans shall be made without interest and shall not exceed 80 per centum of the reasonable costs expected to be incurred in planning, and in obtaining financing for, such housing prior to the availability of financing, including, but not limited to, preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site acquisition, application and mortgage commitment fees, andconstruction loan fees and discounts. The Secretary shall require repayment of loans made under this subsection, under such terms and conditions as he may require, upon completion of the project or sooner, and may cancel any part or all of a loan if he determines that it cannot be recovered from the proceeds of any permanent loan made to finance the rehabilitation or construction of the housing.
 
 (2) The Secretary shall determine prior to the making of any loan that the nonprofit organization or public housing agency meets such requirements with respect to financial responsibility and stability as he may prescribe.
 
@@ -130,7 +130,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 &emsp;&emsp;(C) the homeowner is, or is expected to be, unable to make payments, correct a home loan delinquency within a reasonable time, or resume full home loan payments due to a reduction in the income of the homeowner because of—
 
-&emsp;&emsp;&emsp;(i) an involuntary loss of, or reduction in, the employment of the homeowner, theself-employment of the homeowner, or income from the pursuit of the occupation of the homeowner;
+&emsp;&emsp;&emsp;(i) an involuntary loss of, or reduction in, the employment of the homeowner, the self-employment of the homeowner, or income from the pursuit of the occupation of the homeowner;
 
 &emsp;&emsp;&emsp;(ii) any similar loss or reduction experienced by any person who contributes to the income of the homeowner;
 
@@ -440,7 +440,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (B) Selection
 
-&emsp;&emsp;The Secretary shall provide for entities meeting the requirements of subparagraph\(A) to submit applications to provide the training and certification program under this subsection. The Secretary shall select an application based on the ability of the entity to—
+&emsp;&emsp;The Secretary shall provide for entities meeting the requirements of subparagraph (A) to submit applications to provide the training and certification program under this subsection. The Secretary shall select an application based on the ability of the entity to—
 
 &emsp;&emsp;&emsp;(i) establish the program as soon as possible on a national basis, but not later than the date under paragraph (6);
 
@@ -454,7 +454,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (4) Certification
 
-&emsp;The entity selected under paragraph (2)(B) shall administer the examination under subsection (e)(2) and, on behalf of the Secretary, certify individuals successfully completing the examination. The Secretary, in consultation with such entity, shall establish the content and format of the examination.
+&emsp;The entity selected under paragraph (2)(B) shall administer the examination under subsection (e)(2) and, on behalf of the Secretary,certify individuals successfully completing the examination. The Secretary, in consultation with such entity, shall establish the content and format of the examination.
 
 #### (5) Fees
 
@@ -680,7 +680,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) require any organization or entity, as a condition of receipt of any covered assistance, to agree to comply with such requirements regarding covered assistance as the Secretary shall establish, which shall include—
 
-&emsp;&emsp;&emsp;(i) appropriate periodic financial and grant activity reporting, record retention, and audit requirements for the duration of the covered assistance to the organizationor entity to ensure compliance with the limitations and requirements of this section, the regulations under this section, and any requirements or conditions under which such amounts were provided; and
+&emsp;&emsp;&emsp;(i) appropriate periodic financial and grant activity reporting, record retention, and audit requirements for the duration of the covered assistance to the organization or entity to ensure compliance with the limitations and requirements of this section, the regulations under this section, and any requirements or conditions under which such amounts were provided; and
 
 &emsp;&emsp;&emsp;(ii) any other requirements that the Secretary determines are necessary to ensure appropriate administration and compliance.
 
@@ -838,7 +838,7 @@ Subsec. (a)(3). Pub. L. 93–383, §811(b)(2), (d), redesignated former par. (2)
 
 Subsec. (b)(1), (2). Pub. L. 93–383, §811(e), (f), inserted reference to public housing agencies.
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–609, §903(a), designated existing provisions as par. (1), inserted provision respecting specific authorities without limitation to such authorities, redesignated former par. (1) as cl. (i), struck out introductory text relating to assistance with respect to construction, rehabilitation, and operation by nonprofit organizations of housing for low or moderate income families now incorporated in cl. (i), redesignated former par. (2) as cl. (ii), inserting therein provision for assistance to public bodies or to nonprofit or cooperative organizations, including assistance with respect to self-help and mutual self-help programs, and added cl. (iii) and par. (2).
+<b>1970</b>—Subsec. (a). Pub. L. 91–609, §903(a), designated existing provisions as par. (1), inserted provision respecting specific authorities without limitation to such authorities, redesignated former par. (1) as cl. (i), struck out introductory text relating to assistance with respect to construction, rehabilitation, and operation by nonprofit organizations of housing for low ormoderate income families now incorporated in cl. (i), redesignated former par. (2) as cl. (ii), inserting therein provision for assistance to public bodies or to nonprofit or cooperative organizations, including assistance with respect to self-help and mutual self-help programs, and added cl. (iii) and par. (2).
 
 Subsec. (b)(1). Pub. L. 91–609, §903(b), substituted "section 1715z of this title or any other federally assisted program" for "any federally assisted program" in first sentence.
 

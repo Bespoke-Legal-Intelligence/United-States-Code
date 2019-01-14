@@ -32,7 +32,7 @@
 
 &emsp;(B) a provision stating that the head of the executive or <sup>2</sup> legislative agency which refers a claim under the contract retains the authority to resolve a dispute regarding the claim, to compromise the claim, or to terminate a collection action on the claim; and
 
-&emsp;(C) a provision requiring the private counsel to transmit monthly to the Attorney General and the head of the executive or <sup>1</sup> legislative agency referring a claim under the contract a report on the services relating to the claim rendered under the contract during the month and the progress made during the month in collecting the claim under the contract.
+&emsp;(C) a provision requiring the private counsel to transmit monthly to the Attorney General and the head of the executive or <sup>2</sup> legislative agency referring a claim under the contract a report on the services relating to the claim rendered under the contract during the month and the progress made during the month in collecting the claim under the contract.
 
 (6) Notwithstanding the fourth sentence of section 803(6) of the Fair Debt Collection Practices Act (15 U.S.C. 1692a(6)), a private counsel performing legal services pursuant to a contract made under paragraph (1) of this subsection shall be considered to be a debt collector for the purposes of such Act.
 
@@ -148,7 +148,7 @@ Subsec. (f). Pub. L. 99–578, §1(1), redesignated former subsec. (d) as (f).
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 2323 of Title 10, Armed Forces.
+Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 657a of Title 15, Commerce and Trade.
 
 #### Effective Date of 1997 Amendment
 

@@ -30,7 +30,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;(F) collect and disseminate information related to problems experienced by older Native Americans, including information (compiled with assistance from public or nonprofit private entities, including institutions of higher education, with experience in assessing the characteristics and health status of older individuals who are Native Americans) on elder abuse, in-home care, health problems, and other problems unique to Native Americans;
 
-&emsp;(G) develop research plans, and conduct and arrange for research, in the field of AmericanNative aging with a special emphasis on the gathering of statistics on the status of older individuals who are Native Americans;
+&emsp;(G) develop research plans, and conduct and arrange for research, in the field of American Native aging with a special emphasis on the gathering of statistics on the status of older individuals who are Native Americans;
 
 &emsp;(H) develop and provide technical assistance and training programs to grantees under subchapter X;
 
@@ -142,7 +142,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;(B) to assist States and other eligible entities under subchapter XI to develop strategic plans to better coordinate elder justice activities, research, and training.
 
-(3) The Secretary, acting through the Assistant Secretary, may issue such regulations as may be necessary to carry out this subsection and section 3058aa–1 of this title.
+(3) The Secretary, acting through the Assistant Secretary, may issue such regulations asmay be necessary to carry out this subsection and section 3058aa–1 of this title.
 
 #### (f) Mental health services
 

@@ -14,7 +14,7 @@ At a hearing under this section, each party may appear in person, be represented
 
 #### (d) Expedited discovery and hearing
 
-(1) Discovery in administrative proceedings under this section shall be conducted as expeditiously and inexpensively as possible, consistentwith the need of all parties to obtain relevant evidence.
+(1) Discovery in administrative proceedings under this section shall be conducted as expeditiously and inexpensively as possible, consistent with the need of all parties to obtain relevant evidence.
 
 (2) A hearing under this section shall be conducted as expeditiously and inexpensively as possible, consistent with the needs and rights of the parties to obtain a fair hearing and a complete record.
 
@@ -64,9 +64,9 @@ An administrative law judge may not continue administrative proceedings under th
 
 #### (i) Judicial review
 
-(1) Any party aggrieved by a final order for relief under this section granting or denying in whole or in part the relief sought may obtain a review of such order under chapter 158 of title 28.
+(1) Any party aggrieved by a final order for relief under this section granting or denying inwhole or in part the relief sought may obtain a review of such order under chapter 158 of title 28.
 
-(2) Notwithstanding such chapter, venue of the proceeding shall be in the judicial circuit in which the discriminatory housing practice is alleged to have occurred, and filing of the petitionfor review shall be not later than 30 days after the order is entered.
+(2) Notwithstanding such chapter, venue of the proceeding shall be in the judicial circuit in which the discriminatory housing practice is alleged to have occurred, and filing of the petition for review shall be not later than 30 days after the order is entered.
 
 #### (j) Court enforcement of administrative order upon petition by Secretary
 

@@ -6,7 +6,7 @@ The Commission shall monitor and investigate compliance with each license and pe
 
 #### (b) Revocation orders
 
-After notice and opportunity for an evidentiary hearing, the Commission may also issue an order revoking any license issued under this subchapter or any exemption granted from any requirement of this subchapter where anylicensee or exemptee is found by the Commission:
+After notice and opportunity for an evidentiary hearing, the Commission may also issue an order revoking any license issued under this subchapter or any exemption granted from any requirement of this subchapter where any licensee or exemptee is found by the Commission:
 
 &emsp;(1) to have knowingly violated a final order issued under subsection (a) after completion of judicial review (or the opportunity for judicial review); and
 

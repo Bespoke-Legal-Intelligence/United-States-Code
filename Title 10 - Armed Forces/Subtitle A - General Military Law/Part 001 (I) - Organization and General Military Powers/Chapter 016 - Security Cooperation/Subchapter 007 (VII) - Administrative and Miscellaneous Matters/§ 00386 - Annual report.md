@@ -24,7 +24,7 @@ Elements of Report.—Each report required under subsection (a) shall provide fo
 
 Specified Authorities.—The authorities specified in this subsection are the following authorities (or any successor authorities):
 
-&emsp;(1) Sections 311, 321, 331, 332, 333, 344, 348, 349, and 350 of this title.
+&emsp;(1) Sections 246, 251, 252, 253,<sup>1</sup> 321, 344, 348, 349, and 350 of this title.
 
 &emsp;(2) Section 166a(b)(6) of this title, relating to humanitarian and civic assistance by the commanders of the combatant commands.
 
@@ -72,13 +72,15 @@ Exception.—Paragraph (1) does not apply with respect to information required u
 
 Form.—Each report required under subsection (a) shall be submitted in unclassified form, but may contain a classified annex that may also include other sensitive information.
 
-(Added and amended Pub. L. 114–328, div. A, title XII, §§1246(d)(2)(A), 1251(a)–(f), Dec. 23, 2016, 130 Stat. 2521, 2529–2531.)
+(Added and amended Pub. L. 114–328, div. A, title XII, §§1246(d)(2)(A), 1251(a)–(f), Dec. 23, 2016, 130Stat. 2521, 2529–2531; Pub. L. 115–232, div. A, title XII, §1204(b)(1)(A), Aug. 13, 2018, 132 Stat. 2017.)
 
 #### Amendment of Subsection (c)(1)
 
-<i>Pub. L. 114–328, div. A, title XII, §1246(d)(2)(A), Dec. 23, 2016, 130 Stat. 2521, provided that, effective as of Jan. 1, 2020, subsection (c)(1) of this section is amended by inserting "341," after "333,". See 2016 Amendment note below.</i>
+<i>Pub. L. 114–328, div. A, title XII, §1246(d)(2)(A), Dec. 23, 2016, 130 Stat. 2521, provided that, effective as of Jan. 1, 2020, subsection (c)(1) of this section is amended by inserting "341," after "333,". See 2016 and 2018 Amendment notes below.</i>
 
 #### References in Text
+
+Sections 246, 251, 252, and 253 of this title, referred to in subsec. (c)(1), probably should be references to sections 311, 331, 332, and 333 of this title, respectively, as they were prior to amendment by Pub. L. 115–232. See 2018 Amendment note below. Although there were sections 311, 331, 332, and 333 of this title that had been renumbered 246, 251, 252, and 253, the references in subsec. (c)(1) should probably be to the current sections 311, 331, 332, and 333 and not to the ones that were renumbered.
 
 Section 168 of this title, referred to in subsec. (c)(3), was repealed by Pub. L. 114–328, div. A, title XII, §1253(a)(1)(A), Dec. 23, 2016, 130 Stat. 2532.
 
@@ -102,6 +104,8 @@ Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a)
 
 #### Amendments
 
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–232 substituted "Sections 246, 251, 252, 253, 321," for "Sections 311, 321, 331, 332, 333,".
+
 <b>2016</b>—Subsec. (a). Pub. L. 114–328, §1251(b)(6), which directed striking out "under the authorities in subsection (c)" after "submitted", was executed by striking out "under the authorities specified in subsection (c)" after "submitted", to reflect the probable intent of Congress.
 
 Pub. L. 114–328, §1251(b)(1)–(5), in heading, substituted "Annual Report Required" for "Biennial Report Required", and, in text, substituted "Not later than January 31 of each year beginning in 2018, the Secretary of Defense" for "Not later than February 1 of each of 2016, 2018, and 2020, the Secretary of Defense", "appropriate congressional committees" for "congressional defense committees", "assistance" for "security assistance", and "the fiscal year" for "the two fiscal years" and inserted "under the authorities in subsection (c)" after "Department of Defense".
@@ -112,7 +116,7 @@ Subsec. (b)(2). Pub. L. 114–328, §1251(c)(2), substituted "The cost and expen
 
 Subsec. (b)(4) to (6). Pub. L. 114–328, §1251(c)(3), added pars. (4) to (6).
 
-Subsec. (c)(1). Pub. L. 114–328, §1246(d)(2)(A), inserted "341," after "333,".
+Subsec. (c)(1). Pub. L. 114–328, §1246(d)(2)(A), which directed amendment of subsec. (c)(1) by inserting "341," after "333,", was executed by making the insertion after "321," to reflect the probable intent of Congress and the intervening amendment by Pub. L. 115–232. See 2018 Amendment note above.
 
 Pub. L. 114–328, §1251(d)(1), added par. (1) and struck out former par. (1) which read as follows: "Section 127d of title 10, United States Code, relating to authority to provide logistic support, supplies, and services to allied forces participating in a combined operation with the Armed Forces."
 
@@ -149,4 +153,6 @@ Subsec. (e). Pub. L. 114–328, §1251(f), inserted "that may also include other
 #### Effective Date of 2016 Amendment
 
 Pub. L. 114–328, div. A, title XII, §1246(d)(2), Dec. 23, 2016, 130 Stat. 2521, provided that the amendment made by section 1246(d)(2)(A) is effective as of January 1, 2020.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

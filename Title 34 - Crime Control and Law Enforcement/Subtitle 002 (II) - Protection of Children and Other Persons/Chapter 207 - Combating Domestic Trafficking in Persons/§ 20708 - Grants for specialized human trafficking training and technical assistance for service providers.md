@@ -1,0 +1,96 @@
+### §20708. Grants for specialized human trafficking training and technical assistance for service providers
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) Act of trafficking
+
+&emsp;The term "act of trafficking" means an act or practice described in paragraph (9) of section 7102 of title 22.
+
+#### (2) Eligible entity
+
+&emsp;The term "eligible entity" means—
+
+&emsp;&emsp;(A) a State or unit of local government;
+
+&emsp;&emsp;(B) a federally recognized Indian tribal government, as determined by the Secretary of the Interior;
+
+&emsp;&emsp;(C) a victim service provider;
+
+&emsp;&emsp;(D) a nonprofit or for-profit organization (including a tribal nonprofit or for-profit organization);
+
+&emsp;&emsp;(E) a national organization; or
+
+&emsp;&emsp;(F) an institution of higher education (including tribal institutions of higher education).
+
+#### (3) State
+
+&emsp;The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and any other territory or possession of the United States.
+
+#### (4) Victim of trafficking
+
+&emsp;The term "victim of trafficking" means a person subjected to an act of trafficking.
+
+#### (b) Grants authorized
+
+The Attorney General may award grants to eligible entities to—
+
+&emsp;(1) provide training to identify and protect victims of trafficking;
+
+&emsp;(2) improve the quality and quantity of services offered to trafficking survivors; and
+
+&emsp;(3) improve victim service providers' partnerships with Federal, State, tribal, and local law enforcement agencies and other relevant entities.
+
+#### (c) Use of funds
+
+A grant awarded under this section shall be used to—
+
+&emsp;(1) train law enforcement personnel to identify and protect victims of trafficking, including training such personnel to utilize Federal, State, or local resources to assist victims of trafficking;
+
+&emsp;(2) train law enforcement or State or local prosecutors to identify, investigate, or prosecute acts of trafficking;
+
+&emsp;(3) train law enforcement or State or local prosecutors to utilize laws that prohibit acts of trafficking and to assist in the development of State and local laws to prohibit acts of trafficking;
+
+&emsp;(4) provide technical assistance on the range of services available to victim service providers who serve trafficking victims;
+
+&emsp;(5) develop and distribute materials, including materials identifying best practices in accordance with Federal law and policies, to support victim service providers working with human trafficking victims;
+
+&emsp;(6) identify and disseminate other publicly available materials in accordance with Federal law to help build capacity of service providers;
+
+&emsp;(7) provide training at relevant conferences, through webinars, or through other mechanisms in accordance with Federal law; or
+
+&emsp;(8) assist service providers in developing additional resources such as partnerships with Federal, State, tribal, and local law enforcement agencies and other relevant entities in order to access a range of available services in accordance with Federal law.
+
+#### (d) Restrictions
+
+#### (1) Administrative expenses
+
+&emsp;An eligible entity that receives a grant under this section may use not more than 5percent of the total amount of such grant for administrative expenses.
+
+#### (2) Nonexclusivity
+
+&emsp;Nothing in this section may be construed to restrict the ability of an eligible entity to apply for or obtain funding from any other source to carry out the training described in subsection (c).
+
+#### (e) Authorization of appropriations
+
+There are authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2011 to carry out the provisions of this section.
+
+(Pub. L. 109–162, title I, §111, Jan. 5, 2006, 119 Stat. 2984; Pub. L. 113–4, title XII, §1212(b)(2)(D), Mar. 7, 2013, 127 Stat. 144; Pub. L. 115–392, §10(a), Dec. 21, 2018, 132 Stat. 5254.)
+
+#### Codification
+
+Section was formerly classified to section 14044f of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–392, §10(a)(1), substituted "specialized human trafficking training and technical assistance for service providers" for "law enforcement training programs" in section catchline.
+
+Subsec. (a)(2). Pub. L. 115–392, §10(a)(2), substituted "means—" and subpars. (A) to (F) for "means a State or a local government."
+
+Subsec. (b). Pub. L. 115–392, §10(a)(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The Attorney General may award grants to eligible entities to provide training to State and local law enforcement personnel to identify and protect victims of trafficking."
+
+Subsec. (c)(4) to (8). Pub. L. 115–392, §10(a)(4), added pars. (4) to (8).
+
+<b>2013</b>—Subsec. (a)(1). Pub. L. 113–4 substituted "paragraph (9)" for "paragraph (8)".
+

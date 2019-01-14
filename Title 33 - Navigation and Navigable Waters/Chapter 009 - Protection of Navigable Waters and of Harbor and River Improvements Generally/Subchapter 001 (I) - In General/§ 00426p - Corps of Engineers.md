@@ -64,7 +64,7 @@ Grants.—Upon application by a Great Lakes State within 1 year after the date o
 
 &emsp;"(2) coordination of available State and Federal assistance;
 
-&emsp;"(3) development and implementation of nonstructural measures to reduce or prevent damage attributable to high water levels in the Great Lakes, including establishment of setback requirements and other conditions on construction and reconstruction of public and private facilities, mapping of flooding zones, and technical assistance; and
+&emsp;"(3) development and implementation of nonstructural measures to reduce or prevent damage attributable to high water levels in the Great Lakes, including establishment of setback requirements andother conditions on construction and reconstruction of public and private facilities, mapping of flooding zones, and technical assistance; and
 
 &emsp;"(4) assisting local governments in developing and implementing plans for nonstructural reduction and prevention of damages attributable to high water levels in the Great Lakes.
 

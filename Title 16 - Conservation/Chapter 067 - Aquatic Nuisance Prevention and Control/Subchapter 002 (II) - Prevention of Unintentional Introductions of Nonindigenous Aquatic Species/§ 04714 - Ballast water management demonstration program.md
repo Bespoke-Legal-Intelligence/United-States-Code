@@ -66,7 +66,7 @@ For purposes of this section, the term "technologies and practices" means those 
 
 #### (4) Selection of technologies and practices
 
-&emsp;In selecting technologies and practices for demonstration under this subsection, the Secretary of the Interior and the Secretary ofCommerce shall give priority consideration to technologies and practices identified as promising by the National Research Council Marine Board of the National Academy of Sciences in its report on ships' ballast water operations issued in July 1996.
+&emsp;In selecting technologies and practices for demonstration under this subsection, the Secretary of the Interior and the Secretary of Commerce shall give priority consideration to technologies and practices identified as promising by the National Research Council Marine Board of the National Academy of Sciences in its report on ships' ballast water operations issued in July 1996.
 
 #### (5) Report
 

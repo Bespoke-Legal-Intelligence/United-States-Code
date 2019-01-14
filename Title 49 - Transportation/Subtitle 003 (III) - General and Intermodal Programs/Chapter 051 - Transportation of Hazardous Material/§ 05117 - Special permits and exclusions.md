@@ -26,7 +26,7 @@ Exclusions.—(1) The Secretary shall exclude, in any part, from this chapter an
 
 &emsp;(B) a vessel exempted under section 3702 of title 46 from chapter 37 of title 46; and
 
-&emsp;(C) a vessel to the extent it is regulated under the Ports and Waterways Safety Act of 1972 (33 U.S.C. 1221 et seq.).
+&emsp;(C) a vessel to the extent it is regulated under the Ports and Waterways Safety Act of 1972 <sup>1</sup> (33 U.S.C. 1221 et seq.).
 
 (2) This chapter and regulations prescribed under this chapter do not prohibit—
 
@@ -118,7 +118,7 @@ In subsection (d), the words "by which", "the requirements of", and "or relieved
 
 #### References in Text
 
-The Ports and Waterways Safety Act of 1972, referred to in subsec. (d)(1)(C), is Pub. L. 92–340, July 10, 1972, 86 Stat. 424, as amended, which is classified generally to chapter 25 (§1221 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1221 of Title 33 and Tables.
+The Ports and Waterways Safety Act of 1972, referred to in subsec. (d)(1)(C), is Pub. L. 92–340, July 10, 1972, 86 Stat. 424, which was renamed the Ports and Waterways Safety Act by Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1471, and was classified generally to chapter 25 (§1221 et seq.) of Title 33, Navigation and Navigable Waters, prior to repeal by Pub. L. 115–282, title IV, §402(e), Dec. 4, 2018, 132 Stat. 4264. See Transitional and Savings Provisions note preceding section 101 of Title 46, Shipping, and chapter 700 (§70001 et seq.) of Title 46.
 
 #### Amendments
 
@@ -191,4 +191,6 @@ Factors.—In conducting the review and analysis under paragraph (1), the Secret
 &emsp;"(3)
 
 Rulemaking.—After completing the review and analysis under paragraph (1), but not later than 3 years after the date of enactment of this Act, and after providing notice and opportunity for public comment, the Secretary shall issue regulations to incorporate into the hazardous materials regulations any special permits identified in the review under paragraph (1) that the Secretary determines are appropriate for incorporation, based on the factors identified in paragraph (2)."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -88,5 +88,5 @@ Subsec. (e). Pub. L. 104–106, §911(c), added subsec. (e).
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title IX, §911(f), Feb. 10, 1996, 110 Stat. 407, provided that: "Subsections (c) and (d) of section 2779 of title 10, United States Code, as added by subsections (a) and (b), and the repeals made by subsection (d) \[repealing provisions set out as a note under section 114 of this title\], shall apply only with respectto amounts appropriated for a fiscal year after fiscal year 1995."
+Pub. L. 104–106, div. A, title IX, §911(f), Feb. 10, 1996, 110 Stat. 407, provided that: "Subsections (c) and (d) of section 2779 of title 10, United States Code, as added by subsections (a) and (b), and the repeals made by subsection (d) \[repealing provisions set out as a note under section 114 of this title\], shall apply only with respect to amounts appropriated for a fiscal year after fiscal year 1995."
 

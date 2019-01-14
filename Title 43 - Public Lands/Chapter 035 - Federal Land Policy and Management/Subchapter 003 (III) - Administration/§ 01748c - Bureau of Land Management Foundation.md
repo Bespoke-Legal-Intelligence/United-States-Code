@@ -184,7 +184,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;No officer or employee may be appointed to the Foundation until the date on which the Board determines that the Foundationhas sufficient funds to pay for the service of the officer or employee.
+&emsp;&emsp;No officer or employee may be appointed to the Foundation until the date on which the Board determines that the Foundation has sufficient funds to pay for the service of the officer or employee.
 
 #### (B) Limitation
 

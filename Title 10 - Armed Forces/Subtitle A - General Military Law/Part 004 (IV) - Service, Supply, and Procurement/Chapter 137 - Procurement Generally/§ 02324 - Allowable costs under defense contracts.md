@@ -12,7 +12,7 @@ Penalty for Violation of Cost Principle.—(1) If the head of the agency determi
 
 &emsp;(B) interest (to be computed based on provisions in the Federal Acquisition Regulation) to compensate the United States for the use of any funds which a contractor has been paid in excess of the amount to which the contractor was entitled.
 
-(2) If the head of the agency determines that a proposal for settlement of indirect costs submitted by a contractor includes a cost determined to be unallowable in the case of such contractor before the submission of such proposal, the head of the agency shall assess a penalty against the contractor in an amount equal to two times the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted.
+(2) If the head of the agency determines that a proposal for settlement of indirect costs submitted by a contractor includes a cost determined to be unallowable in the case of such contractor before the submission of such proposal, the head of the agency shall assess a penalty against thecontractor in an amount equal to two times the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted.
 
 (c)
 
@@ -180,7 +180,7 @@ Contractor To Have Burden of Proof.—In a proceeding before the Armed Services 
 
 (k)
 
-Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subsection, costs incurred by a contractor or subcontractor, or personal services contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States, by a State, or by a contractor or subcontractor, orpersonal services contractor employee submitting a complaint under section 2409 of this title are not allowable as reimbursable costs under a covered contract, subcontract, or personal services contract if the proceeding (A) relates to a violation of, or failure to comply with, a Federal or State statute or regulation or to any other activity described in subparagraphs (A) through (C) of section 2409(a)(1) of this title, and (B) results in a disposition described in paragraph (2).
+Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subsection, costs incurred by a contractor or subcontractor, or personal services contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States, by a State, or by a contractor or subcontractor, or personal services contractor employee submitting a complaint under section 2409 of this title are not allowable as reimbursable costs under a covered contract, subcontract, or personal services contract if the proceeding (A) relates to a violation of, or failure to comply with, a Federal or State statute or regulation or to any other activity described in subparagraphs (A) through (C) of section 2409(a)(1) of this title, and (B) results in a disposition described in paragraph (2).
 
 (2) A disposition referred to in paragraph (1)(B) is any of the following:
 
@@ -238,7 +238,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 Definitions.—In this section:
 
-&emsp;(1)(A) The term "covered contract" means a contract for an amount in excess of $500,000 that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or anyfirm fixed-price contract for the purchase of commercial items.
+&emsp;(1)(A) The term "covered contract" means a contract for an amount in excess of $500,000 that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial items.
 
 &emsp;(B) Effective on October 1 of each year that is divisible by five, the amount set forth in subparagraph (A) shall be adjusted in accordance with section 1908 of title 41.
 
@@ -252,7 +252,11 @@ Definitions.—In this section:
 
 &emsp;(6) The term "fiscal year" means a fiscal year established by a contractor for accounting purposes.
 
-(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700, §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 111–350, §5(b)(19), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 112–81, div. A, title VIII, §803(a), (b), Dec. 31, 2011, 125 Stat. 1485; Pub. L. 112–239, div. A, title VIII, §827(g), Jan. 2, 2013, 126 Stat. 1836; Pub. L. 113–66, div. A, title VIII, §811(a), Dec. 26, 2013, 127 Stat. 806; Pub. L. 113–67, div. A, title VII, §702(a)(2), Dec. 26, 2013, 127 Stat. 1189; Pub. L. 113–291, div. A, title VIII, §857, Dec. 19, 2014, 128 Stat. 3460; Pub. L. 114–261, §1(b)(1), Dec. 14, 2016, 130 Stat. 1362; Pub. L. 115–91, div. A, title VIII, §811(e), Dec. 12, 2017, 131 Stat. 1460.)
+(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700, §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 111–350, §5(b)(19), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 112–81, div. A, title VIII, §803(a), (b), Dec. 31, 2011, 125 Stat. 1485; Pub. L. 112–239, div. A, title VIII, §827(g), Jan. 2, 2013, 126 Stat. 1836; Pub. L. 113–66, div. A, title VIII, §811(a), Dec. 26, 2013, 127 Stat. 806; Pub. L. 113–67, div. A, title VII, §702(a)(2), Dec. 26, 2013, 127 Stat. 1189; Pub. L. 113–291, div. A, title VIII, §857, Dec. 19, 2014, 128 Stat. 3460; Pub. L. 114–261, §1(b)(1), Dec. 14, 2016, 130 Stat. 1362; Pub. L. 115–91, div. A, title VIII, §811(e), Dec. 12, 2017, 131 Stat. 1460; Pub. L. 115–232, div. A, title VIII, §836(c)(9), Aug. 13, 2018, 132 Stat. 1866.)
+
+#### Amendment of Subsection (l)(1)(A)
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(c)(9), (h), Aug. 13, 2018, 132 Stat. 1866, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (l)(1)(A) of this section is amended by striking "commercial items" and inserting "commercial products or commercial services". See 2018 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -271,6 +275,8 @@ Section 4 of the Buy American Act (as added by section 7002(2) of the Omnibus Tr
 Another section 2324 of this title was contained in chapter 138 and was renumbered section 2344 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (l)(1)(A). Pub. L. 115–232 substituted "commercial products or commercial services" for "commercial items".
 
 <b>2017</b>—Subsec. (l)(1)(B). Pub. L. 115–91 substituted "in accordance with section 1908 of title 41." for "to the equivalent amount in constant fiscal year 1994 dollars. An amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000."
 
@@ -444,7 +450,7 @@ Subsec. (e)(2), (3). Pub. L. 100–700, §8(b)(1)(B), (C), redesignated par. (3)
 
 Pub. L. 100–456, §832(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (f)(5). Pub. L. 100–463, §8105(a), and Pub. L. 100–456, §826(a), amended section identically, temporarily adding par. (5). Pub. L. 100–526 provided that Pub.L. 100–463, §8105, and amendment made by that section shall cease to be effective. See Effective and Termination Dates of 1988 Amendment note below.
+Subsec. (f)(5). Pub. L. 100–463, §8105(a), and Pub. L. 100–456, §826(a), amended section identically, temporarily adding par. (5). Pub. L. 100–526 provided that Pub. L. 100–463, §8105, and amendment made by that section shall cease to be effective. See Effective and Termination Dates of 1988 Amendment note below.
 
 Subsec. (j). Pub. L. 100–370, §1(f)(3)(A)(ii), added subsec. (j). Former subsec. (j) redesignated (k).
 
@@ -465,6 +471,10 @@ Subsec. (k). Pub. L. 100–26 inserted "the term" after "In this section,".
 Subsec. (h)(2). Pub. L. 99–190, §101(b) \[§8112(a)(2)\], inserted ", in an exceptional case," in provisions preceding subpar. (A).
 
 Subsecs. (j), (k). Pub. L. 99–190, §101(b) \[§8112(a)(3)\], added subsec. (j) and redesignated former subsec. (j) as (k).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
 #### Effective Date of 2013 Amendment
 
@@ -586,7 +596,7 @@ Pub. L. 112–239, div. A, title VIII, §827(h), Jan. 2, 2013, 126 Stat. 1836, p
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Inclusion of Contract Clause in Contracts Awarded Before Effective Date
 
@@ -594,7 +604,7 @@ Pub. L. 114–261, §1(c), Dec. 14, 2016, 130 Stat. 1363, provided that: "At the
 
 #### Report and Regulations on Excessive Pass-Through Charges
 
-Pub. L. 109–364, div. A, title VIII, §852, Oct. 17, 2006, 120 Stat. 2340, as amended by Pub. L. 113–291, div. A, title X, §1071(b)(3)(B), Dec. 19, 2014, 128 Stat. 3506, provided that:
+Pub. L. 109–364, div. A, title VIII, §852, Oct. 17, 2006, 120 Stat. 2340, as amended by Pub. L. 113–291, div. A, title X, §1071(b)(3)(B), Dec. 19, 2014, 128 Stat. 3506; Pub. L. 115–232, div. A, title VIII, §836(f)(5), Aug. 13, 2018, 132 Stat. 1871, provided that:
 
 "(a)
 
@@ -620,7 +630,7 @@ Regulations Required.—
 
 &emsp;"(1)
 
-In general.—Not later than May 1, 2007, the Secretary of Defense shall prescribe regulations to ensure that pass-through charges on contracts or subcontracts (or task or delivery orders) that are entered into for or on behalf of the Department of Defense are not excessive in relation to the cost of work performed by the relevant contractor or subcontractor.
+In general.—Not later than May 1, 2007, the Secretary of Defense shall prescribe regulations toensure that pass-through charges on contracts or subcontracts (or task or delivery orders) that are entered into for or on behalf of the Department of Defense are not excessive in relation to the cost of work performed by the relevant contractor or subcontractor.
 
 &emsp;"(2)
 
@@ -652,61 +662,11 @@ Report.—Not later than one year after the date of the enactment of this Act \[
 
 Effective date.—The regulations prescribed under this subsection shall apply to contracts awarded for or on behalf of the Department of Defense on or after May 1, 2007."
 
+<i>\[Pub. L. 115–232, div. A, title VIII, §836(f)(5), (h), Aug. 13, 2018, 132 Stat. 1871, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, section 852(b)(2)(A)(ii) of Pub. L. 109–364, set out above, is amended by striking "a commercial item, as defined in section 103 of title 41" and inserting "a commercial product or a commercial service, as defined in sections 103 and 103a, respectively, of title 41".\]</i>
+
 #### Payment of Restructuring Costs Under Defense Contracts
 
-Pub. L. 103–337, div. A, title VIII, §818, Oct. 5, 1994, 108 Stat. 2821, as amended by Pub. L. 105–85, div. A, title VIII, §804(d), Nov. 18, 1997, 111 Stat. 1834, provided that:
-
-"\[(a) Repealed. Pub. L. 105–85, div. A, title VIII, §804(d), Nov. 18, 1997, 111 Stat. 1834.\]
-
-"(b)
-
-Requirement for Regulations.—Not later than January 1, 1995, the Secretary of Defense shall prescribe regulations on the allowability of restructuring costs associated with business combinations under defense contracts.
-
-"(c)
-
-Matters To Be Included.—At a minimum, the regulations shall—
-
-&emsp;"(1) include a definition of the term 'restructuring costs'; and
-
-&emsp;"(2) address the issue of contract novations under such contracts.
-
-"(d)
-
-Consultation.—In developing the regulations, the Secretary of Defense shall consult with the Administrator for Federal Procurement Policy.
-
-"(e)
-
-Report.—Not later than November 13 in each of the years 1995, 1996, and 1997, the Secretary of Defense shall submit to Congress a report on the following:
-
-&emsp;"(1) A description of the procedures being followed within the Department of Defense for evaluating projected costs and savings under a defense contract resulting from a restructuring of a defense contractor associated with a business combination.
-
-&emsp;"(2) A list of all defense contractors for which restructuring costs have been allowed by the Department, along with the identities of the firms which those contractors have acquired or with which those contractors have combined since July 21, 1993, that qualify the contractors for such restructuring reimbursement.
-
-&emsp;"(3) The Department's experience with business combinations for which the Department has agreed to allow restructuring costs since July 21, 1993, including the following:
-
-&emsp;&emsp;"(A) The estimated amount of costs associated with each restructuring that have been or will be treated as allowable costs under defense contracts, including the type and amounts of costs that would not have arisen absent the business combination.
-
-&emsp;&emsp;"(B) The estimated amount of savings associated with each restructuring that are expected to be achieved on defense contracts.
-
-&emsp;&emsp;"(C) The types of documentation relied on to establish that savings associated with each restructuring will exceed costs associated with the restructuring.
-
-&emsp;&emsp;"(D) Actual experience on whether savings associated with each restructuring are exceeding costs associated with the restructuring.
-
-&emsp;&emsp;"(E) Identification of any programmatic or budgetary disruption in the Department of Defense resulting from contractor restructuring.
-
-"(f)
-
-Definition.—In this section, the term 'business combination' includes a merger or acquisition.
-
-"(g)
-
-Comptroller General Reports.—(1) Not later than March 1, 1995, the Comptroller General shall submit to Congress a report on the adequacy of the regulations prescribed under subsection (b) with respect to—
-
-&emsp;"(A) whether such regulations are consistent with the purposes of this section, other applicable law, and the Federal Acquisition Regulation; and
-
-&emsp;"(B) whether such regulations establish policies, procedures, and standards to ensure that restructuring costs are paid only when in the best interests of the United States.
-
-"(2) The Comptroller General shall report periodically to Congress on the implementation of the policy of the Department of Defense regarding defense industry restructuring."
+Pub. L. 103–337, div. A, title VIII, §818, Oct. 5, 1994, 108 Stat. 2821, as amended by Pub. L. 105–85, div. A, title VIII, §804(d), Nov. 18, 1997, 111 Stat. 1834, which related to regulations concerning allowability of restructuring costs associated with business combinations under defense contracts, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(20), Aug. 13, 2018, 132 Stat. 1848.
 
 #### Reimbursement of Indirect Costs of Institutions of Higher Education Under Department of Defense Contracts
 

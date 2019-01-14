@@ -184,7 +184,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall adopt operating rules under this subsection, by regulation in accordance with subparagraph (C), following consideration of the operating rules developed by the non-profit entity described in paragraph (2) and the recommendation submitted by the National Committee on Vital and Health Statistics under paragraph (3)(E) and having ensured consultation with providers.
+&emsp;&emsp;The Secretary shall adopt operating rules under this subsection, by regulation in accordance with subparagraph (C), followingconsideration of the operating rules developed by the non-profit entity described in paragraph (2) and the recommendation submitted by the National Committee on Vital and Health Statistics under paragraph (3)(E) and having ensured consultation with providers.
 
 #### (B) Adoption requirements; effective dates
 
@@ -240,7 +240,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (A) In general
 
-&emsp;&emsp;A health plan (including entities described under paragraph (3)) shall file a statement with the Secretary, in such form as the Secretary may require, certifying that the data and information systems for such plan are in compliance with any applicable revised standards and associated operating rules under this subsection for any interim final rule promulgated by the Secretary under subsection (i) that—
+&emsp;&emsp;A health plan (including entities described under paragraph (3)) shall file a statementwith the Secretary, in such form as the Secretary may require, certifying that the data and information systems for such plan are in compliance with any applicable revised standards and associated operating rules under this subsection for any interim final rule promulgated by the Secretary under subsection (i) that—
 
 &emsp;&emsp;&emsp;(i) amends any standard or operating rule described under paragraph (1) of this subsection; or
 
@@ -352,7 +352,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of the Treasury, acting through the Financial Management Service, shall administer the collection of penaltyfees from health plans that have been identified by the Secretary in the penalty fee report provided under paragraph (3).
+&emsp;&emsp;The Secretary of the Treasury, acting through the Financial Management Service, shall administer the collection of penalty fees from health plans that have been identified by the Secretary in the penalty fee report provided under paragraph (3).
 
 #### (B) Notice
 
@@ -397,6 +397,22 @@ Subsec. (a)(4). Pub. L. 111–148, §1104(b)(2)(B), added par. (4).
 Subsec. (a)(5). Pub. L. 111–148, §10109(a)(1)(B), added par. (5).
 
 Subsecs. (g) to (j). Pub. L. 111–148, §1104(b)(2)(C), added subsecs. (g) to (j).
+
+#### Making T–MSIS Data on Substance Use Disorders Available to Researchers
+
+Pub. L. 115–271, title I, §1015(b), Oct. 24, 2018, 132 Stat. 3922, provided that:
+
+"(1)
+
+In general.—The Secretary \[probably means the Secretary of Health and Human Services\] shall publish in the Federal Register a system of records notice for the data specified in paragraph (2) for the Transformed Medicaid Statistical Information System, in accordance with section 552a(e)(4) of title 5, United States Code. The notice shall outline policies that protect the security and privacy of the data that, at a minimum, meet the security and privacy policies of SORN09–70–0541 for the Medicaid Statistical Information System.
+
+"(2)
+
+Required data.—The data covered by the systems of records notice required under paragraph (1) shall be sufficient for researchers and States to analyze the prevalence of substance use disorders in the Medicaid beneficiary population and the treatment of substance use disorders under Medicaid across all States (including the District of Columbia, Puerto Rico, the United States Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa), forms of treatment, and treatment settings.
+
+"(3)
+
+Initiation of data-sharing activities.—Not later than January 1, 2019, the Secretary shall initiate the data-sharing activities outlined in the notice required under paragraph (1)."
 
 #### Accessing, Sharing, and Using Health Data for Research Purposes
 
@@ -516,7 +532,7 @@ The rule.—References to 'the Rule' refer to part 160 or part 164, as appropria
 
 &emsp;"(2)
 
-Part 164.—References to a specified section of 'part 164', refer to such specified section of part 164 of title 45, Code of Federal Regulations (or any successor section)."
+Part 164.—References to a specified section of 'part 164', refer to such specified section of part 164 oftitle 45, Code of Federal Regulations (or any successor section)."
 
 #### Clarification on Permitted Uses and Disclosures of Protected Health Information
 
@@ -658,7 +674,7 @@ Use of revised crosswalk.—For purposes of paragraph (2), any revised crosswalk
 
 &emsp;"(4)
 
-Subsequent crosswalks.—For subsequent revisions of the International Classification of Diseasesthat are adopted by the Secretary as a standard code set under section 1173(c) of the Social Security Act (42 U.S.C. 1320d–2(c)), the Secretary shall, after consultation with the appropriate stakeholders, post on the website of the Centers for Medicare \& Medicaid Services a crosswalk between the previous and subsequent version of the International Classification of Diseases not later than the date of implementation of such subsequent revision."
+Subsequent crosswalks.—For subsequent revisions of the International Classification of Diseases that are adopted by the Secretary as a standard code set under section 1173(c) of the Social Security Act (42 U.S.C. 1320d–2(c)), the Secretary shall, after consultation with the appropriate stakeholders, post on the website of the Centers for Medicare \& Medicaid Services a crosswalk between the previous and subsequent version of the International Classification of Diseases not later than the date of implementation of such subsequent revision."
 
 #### Recommendations With Respect to Privacy of Certain Health Information
 

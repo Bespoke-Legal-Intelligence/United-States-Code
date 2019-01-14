@@ -142,7 +142,7 @@
 
 #### (IV) Special origin rule
 
-&emsp;&emsp;&emsp;&emsp;An article otherwise eligible for preferential treatment under clause (i) or (iii) shall not be ineligible for such treatment because the article contains nylon filament yarn (other than elastomeric yarn) that is classifiable under subheading 5402.10.30, 5402.10.60, 5402.31.30, 5402.31.60, 5402.32.30, 5402.32.60, 5402.41.10, 5402.41.90, 5402.51.00, or 5402.61.00 of the HTS from a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1995.
+&emsp;&emsp;&emsp;&emsp;An article otherwise eligible for preferential treatment under clause (i) or (iii) shall not be ineligible for such treatment because the article contains nylon filament yarn (other than elastomeric yarn) that is classifiable under subheading 5402.10.30, 5402.10.60, 5402.31.30, 5402.31.60, 5402.32.30, 5402.32.60, 5402.41.10, 5402.41.90, 5402.51.00, or 5402.61.00 of the HTS from a country that is a party to anagreement with the United States establishing a free trade area, which entered into force before January 1, 1995.
 
 #### (vii) Textile luggage
 
@@ -206,7 +206,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) a vessel that has a certificate of documentation with a fishery endorsement under chapter 121 of title 46; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a vessel without a fishery endorsement, a vessel that is documented under the laws of the United States and for which a license has been issued pursuant to section 973g of title 16.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a vessel without a fishery endorsement, a vessel that is documented under the laws of the UnitedStates and for which a license has been issued pursuant to section 973g of title 16.
 
 #### (ii) ATPDEA vessel
 
@@ -248,7 +248,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) from which the article is exported; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in which materials used in the production of the article originate orin which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (1), (3), or (4).
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in which materials used in the production of the article originate or in which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (1), (3), or (4).
 
 #### (B) Certificate of Origin
 
@@ -348,7 +348,7 @@
 
 (2) Within 14 days after the filing of a petition under paragraph (1) of this subsection—
 
-&emsp;(A) if the Secretary of Agriculture has reason to believe that a perishable product from a beneficiary country is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry producing a perishable product like or directly competitive with the imported product and that emergency action is warranted, he shall advise the President and recommend that the President take emergency action; or
+&emsp;(A) if the Secretary of Agriculture has reason to believe that a perishable product from a beneficiary country is being imported into the United States in such increased quantities as to be a substantial cause of serious injury,or the threat thereof, to the domestic industry producing a perishable product like or directly competitive with the imported product and that emergency action is warranted, he shall advise the President and recommend that the President take emergency action; or
 
 &emsp;(B) the Secretary of Agriculture shall publish a notice of his determination not to recommend the imposition of emergency action and so advise the petitioner.
 
@@ -382,7 +382,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 No quantity of an agricultural product subject to a tariff-rate quota that exceeds the in-quota quantity shall be eligible for duty-free treatment under this chapter.
 
-(Pub. L. 102–182, title II, §204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, §404(e)(2), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, §3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, §2004(e), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–432, div. D, title V, §5005(b), title VII, §7003, Dec. 20, 2006, 120 Stat. 3190, 3194; Pub. L. 110–42, §2, June 30, 2007,121 Stat. 235; Pub. L. 110–191, §2(b), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, §1(b), Oct. 16, 2008, 122 Stat. 4977; Pub. L. 111–124, §2(b), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, §201(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–42, title V, §501(b), Oct. 21, 2011, 125 Stat. 494.)
+(Pub. L. 102–182, title II, §204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, §404(e)(2), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, §3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, §2004(e), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–432, div. D, title V, §5005(b), title VII, §7003, Dec. 20, 2006, 120 Stat. 3190, 3194; Pub. L. 110–42, §2, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, §2(b), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, §1(b), Oct. 16, 2008, 122 Stat. 4977; Pub. L. 111–124, §2(b), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, §201(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–42, title V, §501(b), Oct. 21, 2011, 125 Stat. 494.)
 
 #### References in Text
 
@@ -484,7 +484,7 @@ Amendment by section 5005(b) of Pub. L. 109–432 applicable to articles entered
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of this title.
+Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of this title.
 
 #### Transfer of Functions
 
@@ -536,7 +536,7 @@ Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, as amended by Proc. No. 7748, Dec.
 
 4\. Section 3103(a)(2) of the ATPDEA amended section 204(b) of the ATPA to provide that eligible tuna products of a designated ATPDEA beneficiary country shall enter the United States free of duty and free of quantitative limitations, provided that the President determines that the country has satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the NAFTA.
 
-5\. Section 203(e)(2)(A) of the ATPA (19 U.S.C. 3202(e)(2)(A)) requires the President to publish in the Federal Register notice of proposed action under section 203(e)(1) of the ATPA (19 U.S.C. 3202(e)(1)) at least 30 days prior to taking such action. Section 212(e)(2)(A) of the Caribbean Basin Economic Recovery Act\(CBERA) (19 U.S.C. 2702(e)(2)(A)) requires the President to publish in the Federal Register notice of proposed action under section 212(e)(1) of the CBERA (19 U.S.C. 2702(e)(1)) at least 30 days prior to taking such action.
+5\. Section 203(e)(2)(A) of the ATPA (19 U.S.C. 3202(e)(2)(A)) requires the President to publish in the Federal Register notice of proposed action under section 203(e)(1) of the ATPA (19 U.S.C. 3202(e)(1)) at least 30 days prior to taking such action. Section 212(e)(2)(A) of the Caribbean Basin Economic Recovery Act (CBERA) (19 U.S.C. 2702(e)(2)(A)) requires the President to publish in the Federal Register notice of proposed action under section 212(e)(1) of the CBERA (19 U.S.C. 2702(e)(1)) at least 30 days prior to taking such action.
 
 6\. In order to implement the tariff treatment provided under the ATPDEA, it is necessary to modify the Harmonized Tariff Schedule of the United States (HTS).
 

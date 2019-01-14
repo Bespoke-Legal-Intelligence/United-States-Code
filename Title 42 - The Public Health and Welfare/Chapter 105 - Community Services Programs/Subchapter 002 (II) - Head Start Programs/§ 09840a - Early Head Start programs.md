@@ -68,7 +68,7 @@ In awarding grants to eligible applicants under this section, the Secretary shal
 
 #### (1) Requirement
 
-&emsp;In order to ensure the successful operation of programs assisted under this section, the Secretary shall use funds made available under section 9835(a)(2)(E) of this title to monitor the operation of such programs, and funds made available under section 9835(a)(2)(C)(i)(I) of this title to provide training and technical assistance tailored to the particular needs of such programs, consistent with section 9835(c) of this title.
+&emsp;In order to ensure the successful operation of programs assisted under this section, the Secretary shall use funds made available under section 9835(a)(2)(E) of this title to monitor the operation of such programs, and funds made available under section 9835(a)(2)(C)(i)(I) of this title to provide training and technicalassistance tailored to the particular needs of such programs, consistent with section 9835(c) of this title.
 
 #### (2) Training and technical assistance
 
@@ -128,7 +128,7 @@ The Secretary shall—
 
 &emsp;&emsp;(C) early childhood development with respect to children from birth through age 3;
 
-&emsp;&emsp;(D) methods to help parents promote emergent literacy in their children from birth through age 3, including use of research-based strategies to support the development of literacy and language skills for children who are limited English proficient;
+&emsp;&emsp;(D) methods to help parents promote emergent literacy in their children from birththrough age 3, including use of research-based strategies to support the development of literacy and language skills for children who are limited English proficient;
 
 &emsp;&emsp;(E) ascertaining what health and developmental services the family receives and working with providers of these services to eliminate gaps in service by offering annual health, vision, hearing, and developmental screening for children from birth to entry into kindergarten, when needed;
 
@@ -200,7 +200,7 @@ Subsec. (d). Pub. L. 105–285, §113(5), inserted "and" at end of par. (1), red
 
 &emsp;"(B) programs receiving financial assistance under the Comprehensive Child Development Act, as in effect on such date; and".
 
-Subsec. (e). Pub. L. 105–285, §113(8), struck out "other" before "grant recipients" in heading and substituted "From the portion specified in section9835(a)(6) of this title," for "From the balance remaining of the portion specified in section 9835(a)(6) of this title, after making grants to the eligible entities specified in subsection (e) of this section," in text.
+Subsec. (e). Pub. L. 105–285, §113(8), struck out "other" before "grant recipients" in heading and substituted "From the portion specified in section 9835(a)(6) of this title," for "From the balance remaining of the portion specified in section 9835(a)(6) of this title, after making grants to the eligible entities specified in subsection (e) of this section," in text.
 
 Pub. L. 105–285, §113(6), (7), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e) which related to time-limited priority for certain entities.
 

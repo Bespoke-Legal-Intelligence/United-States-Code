@@ -6,7 +6,7 @@ Aliens subject to the worldwide level specified in section 1151(c) of this title
 
 #### (1) Unmarried sons and daughters of citizens
 
-&emsp;Qualified immigrants who are the unmarried sons or daughters of citizens of the United States shall be allocated visas in a number not to exceed 23,400, plus any visas not required for the class specified in paragraph (4).
+&emsp;Qualified immigrants who are the unmarried sons or daughters of citizens of the UnitedStates shall be allocated visas in a number not to exceed 23,400, plus any visas not required for the class specified in paragraph (4).
 
 #### (2) Spouses and unmarried sons and unmarried daughters of permanent resident aliens
 
@@ -24,7 +24,7 @@ Aliens subject to the worldwide level specified in section 1151(c) of this title
 
 #### (4) Brothers and sisters of citizens
 
-&emsp;Qualified immigrants who are the brothers or sisters of citizens of the United States, if such citizens are at least 21 years of age, shall be allocated visas in a number not to exceed65,000, plus any visas not required for the classes specified in paragraphs (1) through (3).
+&emsp;Qualified immigrants who are the brothers or sisters of citizens of the United States, if such citizens are at least 21 years of age, shall be allocated visas in a number not to exceed 65,000, plus any visas not required for the classes specified in paragraphs (1) through (3).
 
 #### (b) Preference allocation for employment-based immigrants
 
@@ -88,7 +88,7 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 #### (II) Prohibition
 
-&emsp;&emsp;&emsp;&emsp;No permanent resident visa may be issued to an alien physician described in subclause (I) by the Secretary of State under section 1154(b) of this title, and the Attorney General may not adjust the status of such an alien physician from that of a nonimmigrant alien to that of a permanent resident alien under section 1255 of this title, until such time as the alien has worked full time as a physician for an aggregate of 5 years (not including the time served in the status of an alien described in section 1101(a)(15)(J) of thistitle), in an area or areas designated by the Secretary of Health and Human Services as having a shortage of health care professionals or at a health care facility under the jurisdiction of the Secretary of Veterans Affairs.
+&emsp;&emsp;&emsp;&emsp;No permanent resident visa may be issued to an alien physician described in subclause (I) by the Secretary of State under section 1154(b) of this title, and the Attorney General may not adjust the status of such an alien physician from that of a nonimmigrant alien to that of a permanent resident alien under section 1255 of this title, until such time as the alien has worked full time as a physician for an aggregate of 5 years (not including the time served in the status of an alien described in section 1101(a)(15)(J) of this title), in an area or areas designated by the Secretary of Health and Human Services as having a shortage of health care professionals or at a health care facility under the jurisdiction of the Secretary of Veterans Affairs.
 
 #### (III) Statutory construction
 
@@ -130,7 +130,7 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 #### (4) Certain special immigrants
 
-&emsp;Visas shall be made available, in a number not to exceed 7.1 percent of such worldwide level, to qualified special immigrants described in section 1101(a)(27) of this title (other than those described in subparagraph (A) or (B) thereof), of which not more than 5,000 may be made available in any fiscal year to special immigrants described in subclause (II) or (III) of section 1101(a)(27)(C)(ii) of this title, and not more than 100 may be made available in any fiscal year to special immigrants, excluding spouses and children, who are described in section 1101(a)(27)(M) of this title.
+&emsp;Visas shall be made available, in a number not to exceed 7.1 percent of such worldwide level, to qualified special immigrants described in section 1101(a)(27) of this title (other than those described in subparagraph (A) or (B) thereof), of which not more than 5,000 maybe made available in any fiscal year to special immigrants described in subclause (II) or (III) of section 1101(a)(27)(C)(ii) of this title, and not more than 100 may be made available in any fiscal year to special immigrants, excluding spouses and children, who are described in section 1101(a)(27)(M) of this title.
 
 #### (5) Employment creation
 
@@ -146,7 +146,7 @@ Aliens subject to the worldwide level specified in section 1151(d) of this title
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not less than 3,000 of the visas made available under this paragraph in each fiscal year shall be reserved for qualified immigrants who invest in a new commercial enterprise described in subparagraph (A)which will create employment in a targeted employment area.
+&emsp;&emsp;&emsp;Not less than 3,000 of the visas made available under this paragraph in each fiscal year shall be reserved for qualified immigrants who invest in a new commercial enterprise described in subparagraph (A) which will create employment in a targeted employment area.
 
 #### (ii) "Targeted employment area" defined
 
@@ -344,7 +344,7 @@ For purposes of carrying out the Secretary's responsibilities in the orderly adm
 
 &emsp;Paragraphs (1) through (3) shall apply to self-petitioners and derivatives of self-petitioners.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §203, 66 Stat. 178; Pub. L. 85–316, §3, Sept. 11, 1957, 71 Stat. 639; Pub. L. 86–363, §§1–3, Sept. 22, 1959, 73 Stat. 644; Pub. L. 89–236, §3, Oct. 3, 1965, 79 Stat. 912; Pub. L. 94–571, §4, Oct. 20, 1976, 90 Stat. 2705; Pub. L. 95–412, §3, Oct. 5, 1978, 92 Stat. 907; Pub. L. 95–417, §1, Oct. 5, 1978, 92 Stat. 917; Pub. L. 96–212, title II, §203(c), (i), Mar. 17, 1980, 94 Stat. 107, 108; Pub. L. 101–649, title I, §§111, 121(a), 131, 162(a)(1), title VI, §603(a)(3), Nov. 29, 1990, 104 Stat. 4986, 4987, 4997, 5009, 5082; Pub. L. 102–110, §2(b), Oct. 1, 1991, 105 Stat. 555; Pub. L. 102–232, title III, §302(b)(2), (e)(3), Dec. 12, 1991, 105 Stat. 1743, 1745; Pub. L. 103–416, title II, §§212(b), 219(c), Oct. 25, 1994, 108 Stat. 4314, 4316; Pub. L. 106–95, §5, Nov. 12, 1999, 113 Stat. 1318; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §117\], Nov. 29, 1999, 113 Stat. 1535, 1501A–21; Pub. L. 106–536, §1(b)(1), Nov. 22, 2000, 114 Stat. 2560; Pub. L. 107–208, §3, Aug. 6, 2002, 116 Stat. 928; Pub. L. 107–273, div. C, title I, §§11035, 11036(a), Nov. 2, 2002, 116 Stat. 1846; Pub. L. 109–162, title VIII, §805(b)(2), Jan. 5, 2006, 119 Stat. 3056.)
+(June 27, 1952, ch. 477, title II, ch. 1, §203, 66 Stat. 178; Pub. L. 85–316, §3, Sept. 11, 1957, 71 Stat. 639; Pub. L. 86–363, §§1–3, Sept. 22, 1959, 73 Stat. 644; Pub. L. 89–236, §3, Oct. 3, 1965, 79 Stat. 912; Pub. L. 94–571, §4, Oct. 20, 1976, 90 Stat. 2705; Pub. L. 95–412, §3, Oct. 5, 1978, 92 Stat. 907; Pub. L. 95–417, §1, Oct. 5, 1978, 92 Stat. 917; Pub. L. 96–212, title II, §203(c), (i), Mar. 17, 1980, 94 Stat. 107, 108; Pub. L. 101–649, title I, §§111, 121(a), 131, 162(a)(1), title VI, §603(a)(3), Nov. 29, 1990, 104 Stat. 4986, 4987, 4997, 5009, 5082; Pub. L. 102–110, §2(b), Oct. 1, 1991, 105 Stat. 555; Pub. L. 102–232, title III, §302(b)(2), (e)(3), Dec. 12, 1991, 105 Stat. 1743, 1745; Pub. L. 103–416, title II, §§212(b), 219(c), Oct. 25, 1994, 108 Stat. 4314, 4316; Pub. L. 106–95, §5, Nov. 12, 1999,113 Stat. 1318; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §117\], Nov. 29, 1999, 113 Stat. 1535, 1501A–21; Pub. L. 106–536, §1(b)(1), Nov. 22, 2000, 114 Stat. 2560; Pub. L. 107–208, §3, Aug. 6, 2002, 116 Stat. 928; Pub. L. 107–273, div. C, title I, §§11035, 11036(a), Nov. 2, 2002, 116 Stat. 1846; Pub. L. 109–162, title VIII, §805(b)(2), Jan. 5, 2006, 119 Stat. 3056.)
 
 #### References in Text
 
@@ -366,7 +366,7 @@ Subsec. (h). Pub. L. 107–208 added subsec. (h).
 
 <b>2000</b>—Subsec. (b)(4). Pub. L. 106–536 inserted before period at end ", and not more than 100 may be made available in any fiscal year to special immigrants, excluding spouses and children, who are described in section 1101(a)(27)(M) of this title".
 
-<b>1999</b>—Subsec. (b)(2)(B). Pub. L. 106–95 and Pub. L. 106–113 amended subpar. (B) generally in substantiallyidentical manner. Pub. L. 106–95 provided headings. Text is based on Pub. L. 106–113. Prior to amendment, text read as follows: "The Attorney General may, when he deems it to be in the national interest, waive the requirement of subparagraph (A) that an alien's services in the sciences, arts, professions, or business be sought by an employer in the United States."
+<b>1999</b>—Subsec. (b)(2)(B). Pub. L. 106–95 and Pub. L. 106–113 amended subpar. (B) generally in substantially identical manner. Pub. L. 106–95 provided headings. Text is based on Pub. L. 106–113. Prior to amendment, text read as follows: "The Attorney General may, when he deems it to be in the national interest, waive the requirement of subparagraph (A) that an alien's services in the sciences, arts, professions, or business be sought by an employer in the United States."
 
 <b>1994</b>—Subsec. (b)(5)(B), (C). Pub. L. 103–416, §219(c), substituted "Targeted" and "targeted" for "Targetted" and "targetted", respectively, wherever appearing in headings and text.
 
@@ -428,13 +428,13 @@ Subsec. (h). Pub. L. 96–212, §203(c)(8), struck out subsec. (h) which related
 
 Subsec. (a)(8). Pub. L. 95–417 inserted provisions requiring a valid adoption home-study prior to the granting of a nonpreference visa for children adopted abroad or coming for adoption by United States citizens and requiring that no other nonpreference visa be issued to an unmarried child under the age of 16 unless accompanying or following to join his natural parents.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–571, §4(1)–(3), substituted "section 1151(a)(1) or (2) of this title" for "section 1151(a)(ii) of this title" in pars. (1) to (7); made visas available, in par. (3), to qualified immigrants whose services in the professions, sciences, or arts are sought by an employer in the United States; and required, in par. (5), that the United States citizens be at least twenty-one years of age.
+<b>1976</b>—Subsec. (a). Pub. L. 94–571, §4(1)–(3), substituted "section 1151(a)(1) or (2) of this title" for "section 1151(a)(ii) of this title" in pars. (1) to (7); made visas available, in par. (3), to qualified immigrants whose services in the professions, sciences, or arts are sought by an employer in the United States; and required, inpar. (5), that the United States citizens be at least twenty-one years of age.
 
 Subsec. (e). Pub. L. 94–571, §4(4), substituted provision requiring Secretary of State to terminate the registration of an alien who fails to apply for an immigrant visa within one year following notification of the availability of such visa, including provision for reinstatement of a registration upon establishment within two years following the notification that the failure to apply was due to circumstances beyond the alien's control for prior provision for discretionary termination of the registration on a waiting list of an alien failing to evidence continued intention to apply for a visa as prescribed by regulation and inserted provision for automatic revocation of approval of a petition approved under section 1154(b) of this title upon such termination.
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–236 substituted provisions setting up preference priorities and percentage allocations of the total numerical limitation for the admission of qualified immigrants, consisting of unmarried sons or daughters of U.S. citizens (20 percent), husbands, wives, and unmarried sons or daughters of alien residents (20 percent plus any unused portion of class 1), members of professions, scientists, and artists (10 percent), married sons or daughters of U.S. citizens (10 percent plus any unused portions of classes 1–3), brothers or sisters of U.S. citizens (24 percent plus any unused portions of classes 1 through 4), skilled or unskilled persons capable of filling labor shortages in the United States (10 percent), refugees (6 percent), otherwise qualified immigrants (portion not used by classes 1 through 7), and allowing a spouse or child to be given the same status and order of consideration as the spouse or parent, for provisions spelling out the preferences under the quotas based on the previous national origins quota systems.
 
-Subsec. (b). Pub. L. 89–236 substituted provisions requiring that consideration be given applications for immigrant visas in the order in which the classes of whichthey are members are listed in subsec. (a), for provisions allowing issuance of quota immigrant visas under the previous national origins quota system in the order of filing in the first calendar month after receipt of notice of approval for which a quota number was available.
+Subsec. (b). Pub. L. 89–236 substituted provisions requiring that consideration be given applications for immigrant visas in the order in which the classes of which they are members are listed in subsec. (a), for provisions allowing issuance of quota immigrant visas under the previous national origins quota system in the order of filing in the first calendar month after receipt of notice of approval for which a quota number was available.
 
 Subsec. (c). Pub. L. 89–236 substituted provisions requiring issuance of immigrant visas pursuant to paragraphs (1) through (6) of subsection (a) of this section in the order of filing of the petitions therefor with the Attorney General, for provisions which related to issuance of quota immigrant visas in designated classes in the order of registration in each class on quota waiting lists.
 
@@ -662,6 +662,8 @@ Pub. L. 102–395, title VI, §610, Oct. 6, 1992, 106 Stat. 1874, as amended by 
 
 "(d) In processing petitions under section 204(a)(1)(H) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(H)) for classification under section 203(b)(5) of such Act (8 U.S.C. 1153(b)(5)), the Secretary of Homeland Security may give priority to petitions filed by aliens seeking admission under the program described in this section. Notwithstanding section 203(e) of such Act (8 U.S.C. 1153(e)), immigrant visas made available under such section 203(b)(5) may be issued to such aliens in an order that takes into account any priority accorded under the preceding sentence."
 
+\[Pub. L. 115–141, div. M, title II, §204, Mar. 23, 2018, 132 Stat. 1049, provided that: "Section 610(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 \[Pub. L. 102–395\] (8 U.S.C. 1153 note) \[set out above\] shall be applied by substituting 'September 30, 2018' for 'September 30, 2015'."\]
+
 \[Pub. L. 115–31, div. F, title V, §542, May 5, 2017, 131 Stat. 432, provided that: "Section 610(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 \[Pub. L. 102–395\] (8 U.S.C. 1153 note) \[set out above\] shall be applied by substituting 'September 30, 2017' for 'September 30, 2015'."\]
 
 \[Pub. L. 114–113, div. F, title V, §575, Dec. 18, 2015, 129 Stat. 2526, provided that: "Section 610(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 \[Pub. L. 102–395\] (8 U.S.C. 1153 note) \[set out above\] shall be applied by substituting 'September 30, 2016' for the date specified in section 106(3) of the Continuing Appropriations Act, 2016 (Public Law 114–53) \[Dec. 11, 2015, which had been substituted as applied by Pub. L. 114–53, div. B, §131, Sept. 30, 2015, 129 Stat. 509\]."\]
@@ -818,7 +820,7 @@ Derivative Status for Spouses and Children.—A spouse or child (as defined in s
 
 "(e)
 
-Waivers of Grounds of Exclusion.—In determining the admissibility of an alien provided a visa number under this section, the Attorney General shall waive the ground of exclusion specified in paragraph (6)(C) of section 212(a) of the Immigration and Nationality Act \[8 U.S.C. 1182(a)\], unless the Attorney General finds that such a waiver is not in the national interest. In addition, the provisions of section 212(e) of such Act shall not apply so as to prevent an individual's application for a visa or admission under this section.
+Waivers of Grounds of Exclusion.—In determining the admissibility of an alien provided a visa number under this section, the Attorney General shall waive the ground of exclusion specified in paragraph (6)(C) of section 212(a) of the Immigration and Nationality Act \[8 U.S.C. 1182(a)\], unless the Attorney Generalfinds that such a waiver is not in the national interest. In addition, the provisions of section 212(e) of such Act shall not apply so as to prevent an individual's application for a visa or admission under this section.
 
 "(f)
 
@@ -884,7 +886,7 @@ Pub. L. 94–571, §9, Oct. 20, 1976, 90 Stat. 2707, provided that:
 
 "(a) The amendments made by this Act \[see Short Title of 1976 Amendment note set out under section 1101 of this title\] shall not operate to effect the entitlement to immigrant status or the order of consideration for issuance of an immigrant visa of an alien entitled to a preference status, under section 203(a) of the Immigration and Nationality Act \[subsec. (a) of this section\] as in effect on the day before the effective date of this Act \[see Effective Date of 1976 Amendment note set out under section 1101 of this title\], on the basis of a petition filed with the Attorney General prior to such effective date.
 
-"(b) An alien chargeable to the numerical limitation contained in section 21(e) of the Act of October 3, 1965 (79 Stat. 921) \[which provided that unless legislation inconsistent therewith was enacted on or before June 30, 1968, the number of special immigrants within the meaning of section 1101(a)(27)(A) of this title, exclusive of special immigrants who were immediate relatives of United States citizens as described in section 1151(b) of this title, should not, in the fiscal year beginning July 1, 1968, or in any fiscal year thereafter, exceed a total of 120,000\] who established a priority date at a consular office on the basis of entitlement to immigrant status under statutory or regulatory provisions in existence on the day before the effective date of this Act \[see Effective Date of 1976 Amendment note under section 1101 of this title\] shall be deemed to be entitled to immigrant status under section 203(a)(8) of the Immigration and Nationality Act \[subsec. (a)(8) of this section\] and shall be accorded the priority date previously established by him. Nothing in this section shall be construed to preclude the acquisition by such an alien of a preference status under section 203(a) of the Immigration and Nationality Act \[subsec. (a) of this section\], as amended by section 4 of this Act. Any petition filed by, or in behalf of, such an alien to accord him a preference status under section 203(a) \[subsec. (a) of this section\] shall, upon approval, be deemed to have been filed as of the priority date previously established by such alien. The numerical limitation to which such an alien shall be chargeable shall be determined as provided in sections 201 and 202 of the Immigration and Nationality Act \[sections 1151 and 1152 of this title\], as amended by this Act \[see Short Title of 1976 Amendment note set out under section 1101 of this title\]."
+"(b) An alien chargeable to the numerical limitation contained in section 21(e) of the Act of October 3, 1965 (79 Stat. 921) \[which provided that unless legislation inconsistent therewith was enacted on or before June 30, 1968, the number of special immigrants within the meaning of section 1101(a)(27)(A) of this title, exclusive of special immigrants who were immediate relatives of United States citizens as described in section 1151(b) of this title, should not, in the fiscal year beginning July1, 1968, or in any fiscal year thereafter, exceed a total of 120,000\] who established a priority date at a consular office on the basis of entitlement to immigrant status under statutory or regulatory provisions in existence on the day before the effective date of this Act \[see Effective Date of 1976 Amendment note under section 1101 of this title\] shall be deemed to be entitled to immigrant status under section 203(a)(8) of the Immigration and Nationality Act \[subsec. (a)(8) of this section\] and shall be accorded the priority date previously established by him. Nothing in this section shall be construed to preclude the acquisition by such an alien of a preference status under section 203(a) of the Immigration and Nationality Act \[subsec. (a) of this section\], as amended by section 4 of this Act. Any petition filed by, or in behalf of, such an alien to accord him a preference status under section 203(a) \[subsec. (a) of this section\] shall, upon approval, be deemed to have been filed as of the priority date previously established by such alien. The numerical limitation to which such an alien shall be chargeable shall be determined as provided in sections 201 and 202 of the Immigration and Nationality Act \[sections 1151 and 1152 of this title\], as amended by this Act \[see Short Title of 1976 Amendment note set out under section 1101 of this title\]."
 
 #### Nonquota Immigrant Status of Certain Relatives of United States Citizens; Issuance of Nonquota Immigrant Visas on Basis of Petitions Filed Prior to January 1, 1962
 
@@ -892,7 +894,7 @@ Pub. L. 87–885, §1, Oct. 24, 1962, 76 Stat. 1247, which provided that certain
 
 #### Nonquota Immigrant Status of Skilled Specialists; Issuance of Nonquota Immigrant Visas on Basis of Petitions Filed Prior to April 1, 1962
 
-Pub. L. 87–885, §2, Oct. 24, 1962, 76 Stat. 1247, which provided that certain alien skilled specialists eligiblefor a quota immigrant status on the basis of a petition filed with the Attorney General prior to April 1, 1962, be held to be nonquota immigrants and be issued nonquota immigrant visas, was repealed by Pub. L. 99–653, §11, Nov. 14, 1986, 100 Stat. 3657, as amended by Pub. L. 100–525, §8(j)(1), Oct. 24, 1988, 102 Stat. 2617, eff. Nov. 14, 1986.
+Pub. L. 87–885, §2, Oct. 24, 1962, 76 Stat. 1247, which provided that certain alien skilled specialists eligible for a quota immigrant status on the basis of a petition filed with the Attorney General prior to April 1, 1962, be held to be nonquota immigrants and be issued nonquota immigrant visas, was repealed by Pub. L. 99–653, §11, Nov. 14, 1986, 100 Stat. 3657, as amended by Pub. L. 100–525, §8(j)(1), Oct. 24, 1988, 102 Stat. 2617, eff. Nov. 14, 1986.
 
 #### Issuance of Nonquota Immigrant Visas to Certain Eligible Orphans
 

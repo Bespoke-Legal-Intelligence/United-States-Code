@@ -8,7 +8,7 @@ Antiterrorism and Force Protection Guidance and Criteria.—The Secretary of Def
 
 &emsp;(2) to develop construction standards that, taking into consideration other security or force-protection measures available for the facility or military installation concerned, are designed to reduce the vulnerability of structures to terrorist attack and improve the security of the occupants of such structures;
 
-&emsp;(3) to prepare and carry out military construction projects, such as gate and fencelineconstruction, to improve the physical security of military installations; and
+&emsp;(3) to prepare and carry out military construction projects, such as gate and fenceline construction, to improve the physical security of military installations; and
 
 &emsp;(4) to assist in prioritizing such projects within the military construction budget of each of the armed forces.
 

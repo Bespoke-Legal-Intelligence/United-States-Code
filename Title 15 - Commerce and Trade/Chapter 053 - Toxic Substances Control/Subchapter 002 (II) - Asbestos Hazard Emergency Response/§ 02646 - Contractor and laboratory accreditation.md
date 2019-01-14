@@ -18,7 +18,7 @@ A person may not—
 
 #### (A) Persons to be accredited
 
-&emsp;&emsp;Within 180 days after October 22, 1986, the Administrator, in consultation with affectedorganizations, shall develop a model contractor accreditation plan for States to give accreditation to persons in the following categories:
+&emsp;&emsp;Within 180 days after October 22, 1986, the Administrator, in consultation with affected organizations, shall develop a model contractor accreditation plan for States to give accreditation to persons in the following categories:
 
 &emsp;&emsp;&emsp;(i) Persons who inspect for asbestos-containing material in school buildings under the authority of a local educational agency or in public or commercial buildings.
 
@@ -34,7 +34,7 @@ A person may not—
 
 &emsp;&emsp;&emsp;(ii) Health hazards of asbestos and the relationship between asbestos exposure and disease.
 
-&emsp;&emsp;&emsp;(iii) Assessing the risk of asbestos exposure through a knowledge of percentage weight of asbestos-containing material, friability, age, deterioration, location and accessibility of materials, and advantages and disadvantages of dry and wet response action methods.
+&emsp;&emsp;&emsp;(iii) Assessing the risk of asbestos exposure through a knowledge of percentage weight of asbestos-containing material,friability, age, deterioration, location and accessibility of materials, and advantages and disadvantages of dry and wet response action methods.
 
 &emsp;&emsp;&emsp;(iv) Respirators and their use, care, selection, degree of protection afforded, fitting, testing, and maintenance and cleaning procedures.
 
@@ -104,7 +104,7 @@ A person may not—
 
 &emsp;(B) uses a laboratory (or laboratories) which is accredited under the program developed under subsection (d).
 
-(2) This subsection shall apply to any financial assistance provided under the Asbestos School Hazard Abatement Act of 1984 \[20 U.S.C. 4011 et seq.\] for activities performed after the following dates:
+(2) This subsection shall apply to any financial assistance provided under the Asbestos SchoolHazard Abatement Act of 1984 \[20 U.S.C. 4011 et seq.\] for activities performed after the following dates:
 
 &emsp;(A) In the case of activities performed by persons, after the date which is one year after October 22, 1986.
 
@@ -142,7 +142,7 @@ Pub. L. 101–637, §15(a)(3), Nov. 28, 1990, 104 Stat. 4596, provided that: "No
 
 #### EPA Administrator Not Exercising "Statutory Authority" Under OSHA Law in Exercising Authority Under This Chapter
 
-Pub. L. 101–637, §15(b), Nov. 28, 1990, 104 Stat. 4596, provided that: "In exercising any authority under the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] in connection with the amendment made by subsection (a) of this section \[amending this section and section 2647 of this title\], the Administrator of the Environmental Protection Agency shall not, for purposes of section 4(b)(1) of the Occupational Safety and Health Act of1970 (29 U.S.C. 653(b)(1)), be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health."
+Pub. L. 101–637, §15(b), Nov. 28, 1990, 104 Stat. 4596, provided that: "In exercising any authority under the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] in connection with the amendment made by subsection (a) of this section \[amending this section and section 2647 of this title\], the Administrator of the Environmental Protection Agency shall not, for purposes of section 4(b)(1) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 653(b)(1)), be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subparagraph (A)".</i>
 

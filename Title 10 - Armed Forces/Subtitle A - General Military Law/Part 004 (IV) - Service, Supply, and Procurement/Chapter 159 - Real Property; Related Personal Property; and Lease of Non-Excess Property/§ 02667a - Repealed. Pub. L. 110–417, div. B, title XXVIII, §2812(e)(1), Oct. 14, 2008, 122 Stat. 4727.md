@@ -12,7 +12,7 @@ Pub. L. 110–417, div. B, title XXVIII, §2812(e)(2), (3), Oct. 14, 2008, 122 S
 
 "(2)
 
-Effect on existing contracts.—The repeal of section 2667a of title 10, United States Code, shall not affect the validity or terms of any lease with respect to property of a Defense Agency entered into by the Secretary of Defense under such section before the date of the enactment of this Act \[Oct. 14, 2008\].
+Effect on existing contracts.—The repeal of section 2667a of title 10, United States Code, shall not affect the validity or terms of any lease with respect toproperty of a Defense Agency entered into by the Secretary of Defense under such section before the date of the enactment of this Act \[Oct. 14, 2008\].
 
 "(3)
 

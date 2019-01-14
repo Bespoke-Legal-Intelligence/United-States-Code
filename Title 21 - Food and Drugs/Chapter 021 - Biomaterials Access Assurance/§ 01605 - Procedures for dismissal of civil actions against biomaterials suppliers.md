@@ -42,7 +42,7 @@ The following rules shall apply to any proceeding on a motion to dismiss filed b
 
 #### (A) Defendant
 
-&emsp;&emsp;A defendant may submit affidavits supporting the grounds for dismissal containedin its motion to dismiss under subsection (a). If the motion is made under subsection (a)(1), the defendant may submit an affidavit demonstrating that the defendant has not included the implant on a list, if any, filed with the Secretary pursuant to section 360(j) of this title.
+&emsp;&emsp;A defendant may submit affidavits supporting the grounds for dismissal contained in its motion to dismiss under subsection (a). If the motion is made under subsection (a)(1), the defendant may submit an affidavit demonstrating that the defendant has not included the implant on a list, if any, filed with the Secretary pursuant to section 360(j) of this title.
 
 #### (B) Claimant
 

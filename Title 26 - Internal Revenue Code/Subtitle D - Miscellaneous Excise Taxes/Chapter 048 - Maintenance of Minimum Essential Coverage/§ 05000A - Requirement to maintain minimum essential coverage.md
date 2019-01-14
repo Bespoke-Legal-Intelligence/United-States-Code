@@ -22,7 +22,7 @@ An applicable individual shall for each month beginning after 2013 ensure that t
 
 &emsp;&emsp;(B) files a joint return for the taxable year including such month, such individual and the spouse of such individual shall be jointly liable for such penalty.
 
-#### (c) <sup>1</sup> Amount of penalty
+#### (c) Amount of penalty
 
 #### (1) In general
 
@@ -52,7 +52,7 @@ An applicable individual shall for each month beginning after 2013 ensure that t
 
 &emsp;&emsp;&emsp;(ii) 2.0 percent for taxable years beginning in 2015.
 
-&emsp;&emsp;&emsp;(iii) 2.5 percent for taxable years beginning after 2015.
+&emsp;&emsp;&emsp;(iii) Zero percent for taxable years beginning after 2015.
 
 #### (3) Applicable dollar amount
 
@@ -60,7 +60,7 @@ An applicable individual shall for each month beginning after 2013 ensure that t
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the applicable dollar amount is $695.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the applicable dollar amount is $0.
 
 #### (B) Phase in
 
@@ -69,16 +69,6 @@ An applicable individual shall for each month beginning after 2013 ensure that t
 #### (C) Special rule for individuals under age 18
 
 &emsp;&emsp;If an applicable individual has not attained the age of 18 as of the beginning of a month, the applicable dollar amount with respect to such individual for the month shall be equal to one-half of the applicable dollar amount for the calendar year in which the month occurs.
-
-#### (D) Indexing of amount
-
-&emsp;&emsp;In the case of any calendar year beginning after 2016, the applicable dollar amount shall be equal to $695, increased by an amount equal to—
-
-&emsp;&emsp;&emsp;(i) $695, multiplied by
-
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting "calendar year 2015" for "calendar year 2016" in subparagraph (A)(ii) thereof.
-
-> &emsp;&emsp;If the amount of any increase under clause (i) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
 
 #### (4) Terms relating to income and families
 
@@ -118,13 +108,25 @@ For purposes of this section—
 
 #### (2) Religious exemptions
 
-#### (A) Religious conscience exemption
+#### (A) Religious conscience exemptions
 
-&emsp;&emsp;Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is—
+#### (i) In general
 
-&emsp;&emsp;&emsp;(i) a member of a recognized religious sect or division thereof which is described in section 1402(g)(1), and
+&emsp;&emsp;&emsp;Such term shall not include any individual for any month if such individual has ineffect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that—
 
-&emsp;&emsp;&emsp;(ii) an adherent of established tenets or teachings of such sect or division as described in such section.
+&emsp;&emsp;&emsp;&emsp;(I) such individual is a member of a recognized religious sect or division thereof which is described in section 1402(g)(1), and is adherent of established tenets or teachings of such sect or division as described in such section; or
+
+&emsp;&emsp;&emsp;&emsp;(II) such individual is a member of a religious sect or division thereof which is not described in section 1402(g)(1), who relies solely on a religious method of healing, and for whom the acceptance of medical health services would be inconsistent with the religious beliefs of the individual.
+
+#### (ii) Special rules
+
+#### (I) Medical health services defined
+
+&emsp;&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "medical health services" does not include routine dental, vision and hearing services, midwifery services, vaccinations, necessary medical services provided to children, services required by law or by a third party, and such other services as the Secretary of Health and Human Services may provide in implementing section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act.
+
+#### (II) Attestation required
+
+&emsp;&emsp;&emsp;&emsp;Clause (i)(II) shall apply to an individual for months in a taxable year only if the information provided by the individual under section 1411(b)(5)(A) of such Act includes an attestation that the individual has not received medical health services during the preceding taxable year.
 
 #### (B) Health care sharing ministry
 
@@ -174,7 +176,7 @@ No penalty shall be imposed under subsection (a) with respect to—
 
 #### (C) Special rules for individuals related to employees
 
-&emsp;&emsp;For purposes of subparagraph (B)(i), if an applicable individual is eligible for minimum essential coverage through an employer by reason of a relationship to an employee, the determination under subparagraph (A) shall be made by reference to <sup>2</sup> required contribution of the employee.
+&emsp;&emsp;For purposes of subparagraph (B)(i), if an applicable individual is eligible for minimum essential coverage through an employer by reason of a relationship to an employee, the determination under subparagraph (A) shall be made by reference to <sup>1</sup> required contribution of the employee.
 
 #### (D) Indexing
 
@@ -226,13 +228,13 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the Medicaid program under title XIX of the Social Security Act,
 
-&emsp;&emsp;&emsp;(iii) the CHIP program under title XXI of the Social Security Act,
+&emsp;&emsp;&emsp;(iii) the CHIP program under title XXI of the Social Security Act or under a qualified CHIP look-alike program (as defined in section 2107(g) of the Social Security Act),
 
-&emsp;&emsp;&emsp;(iv) medical coverage under chapter 55 of title 10, United States Code, including coverage under the TRICARE program; <sup>3</sup>
+&emsp;&emsp;&emsp;(iv) medical coverage under chapter 55 of title 10, United States Code, including coverage under the TRICARE program; <sup>2</sup>
 
 &emsp;&emsp;&emsp;(v) a health care program under chapter 17 or 18 of title 38, United States Code, as determined by the Secretary of Veterans Affairs, in coordination with the Secretary of Health and Human Services and the Secretary,
 
-&emsp;&emsp;&emsp;(vi) a health plan under section 2504(e) of title 22, United States Code (relating to Peace Corps volunteers); <sup>3</sup> or
+&emsp;&emsp;&emsp;(vi) a health plan under section 2504(e) of title 22, United States Code (relating to Peace Corps volunteers); <sup>2</sup> or
 
 &emsp;&emsp;&emsp;(vii) the Nonappropriated Fund Health Benefits Program of the Department of Defense, established under section 349 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 10 U.S.C. 1587 note).
 
@@ -304,61 +306,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) levy on any such property with respect to such failure.
 
-(Added and amended Pub. L. 111–148, title I, §1501(b), title X, §10106(b)–(d), Mar. 23, 2010, 124 Stat. 244, 909, 910; Pub. L. 111–152, title I, §§1002, 1004(a)(1)(C), (2)(B), Mar. 30, 2010, 124 Stat. 1032, 1034; Pub. L. 111–159, §2(a), Apr. 26, 2010, 124 Stat. 1123; Pub. L. 111–173, §1(a), May 27, 2010, 124 Stat. 1215; Pub. L. 115–97, title I, §§11002(d)(1)(GG), 11081(a), Dec. 22, 2017, 131 Stat. 2060, 2092.)
-
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 115–97, title I, §11081, Dec. 22, 2017, 131 Stat. 2092, amended subsection (c) of this section, applicable to months beginning after Dec. 31, 2018. After amendment, subsection (c) reads as follows:</i>
-
-#### <i>(c) Amount of penalty</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>The amount of the penalty imposed by this section on any taxpayer for any taxable year with respect to failures described in subsection (b)(1) shall be equal to the lesser of—</i>
-
-&emsp;&emsp;<i>(A) the sum of the monthly penalty amounts determined under paragraph (2) for months in the taxable year during which 1 or more such failures occurred, or</i>
-
-&emsp;&emsp;<i>(B) an amount equal to the national average premium for qualified health plans which have a bronze level of coverage, provide coverage for the applicable family size involved, and are offered through Exchanges for plan years beginning in the calendar year with or within which the taxable year ends.</i>
-
-#### <i>(2) Monthly penalty amounts</i>
-
-&emsp;<i>For purposes of paragraph (1)(A), the monthly penalty amount with respect to any taxpayer for any month during which any failure described in subsection (b)(1) occurred is an amount equal to 1/12 of the greater of the following amounts:</i>
-
-#### <i>(A) Flat dollar amount</i>
-
-&emsp;&emsp;<i>An amount equal to the lesser of—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the sum of the applicable dollar amounts for all individuals with respect to whom such failure occurred during such month, or</i>
-
-&emsp;&emsp;&emsp;<i>(ii) 300 percent of the applicable dollar amount (determined without regard to paragraph (3)(C)) for the calendar year with or within which the taxable year ends.</i>
-
-#### <i>(B) Percentage of income</i>
-
-&emsp;&emsp;<i>An amount equal to the following percentage of the excess of the taxpayer's household income for the taxable year over the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer for the taxable year:</i>
-
-&emsp;&emsp;&emsp;<i>(i) 1.0 percent for taxable years beginning in 2014.</i>
-
-&emsp;&emsp;&emsp;<i>(ii) 2.0 percent for taxable years beginning in 2015.</i>
-
-&emsp;&emsp;&emsp;<i>(iii) Zero percent for taxable years beginning after 2015.</i>
-
-#### <i>(3) Applicable dollar amount</i>
-
-&emsp;<i>For purposes of paragraph (1)—</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>Except as provided in subparagraphs (B) and (C), the applicable dollar amount is $0.</i>
-
-#### <i>(B) Phase in</i>
-
-&emsp;&emsp;<i>The applicable dollar amount is $95 for 2014 and $325 for 2015.</i>
-
-#### <i>(C) Special rule for individuals under age 18</i>
-
-&emsp;&emsp;<i>If an applicable individual has not attained the age of 18 as of the beginning of a month, the applicable dollar amount with respect to such individual for the month shall be equal to one-half of the applicable dollar amount for the calendar year in which the month occurs.</i>
-
-<i>See 2017 Amendment notes below.</i>
+(Added and amended Pub. L. 111–148, title I, §1501(b), title X, §10106(b)–(d), Mar. 23, 2010, 124 Stat. 244, 909, 910; Pub. L. 111–152, title I, §§1002, 1004(a)(1)(C), (2)(B), Mar. 30, 2010, 124 Stat. 1032, 1034; Pub. L. 111–159, §2(a), Apr. 26, 2010, 124 Stat. 1123; Pub. L. 111–173, §1(a), May 27, 2010, 124 Stat. 1215; Pub. L. 115–97, title I, §§11002(d)(1)(GG), 11081(a), Dec. 22, 2017, 131 Stat. 2060, 2092; Pub. L. 115–120, div. C, §3002(g)(2)(A), Jan. 22, 2018, 132 Stat. 35; Pub. L. 115–271, title IV, §4003(a), Oct. 24, 2018, 132 Stat. 3959.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -366,13 +314,21 @@ For purposes of this section—
 
 #### References in Text
 
-The Patient Protection and Affordable Care Act, referred to in subsecs. (d)(2)(A), (e)(1)(A), (2), and (f)(5), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Title I of the Act enacted chapter 157 of Title 42, The Public Health and Welfare, and enacted, amended, and transferred numerous other sections and notes in the Code. Sections 1311(d)(4)(H) and 1412(b)(1)(B) of the Act are classified to sections 18031(d)(4)(H) and 18082(b)(1)(B), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42 and Tables.
+The Patient Protection and Affordable Care Act and such Act, referred to in subsecs. (d)(2)(A), (e)(1)(A), (2), and (f)(5), are Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Title I of the Act enacted chapter 157 of Title 42, The Public Health and Welfare, and enacted, amended, and transferred numerous other sections and notes in the Code. Sections 1311(d)(4)(H), 1411(b)(5)(A), and 1412(b)(1)(B) of the Act are classified to sections 18031(d)(4)(H), 18081(b)(5)(A), and 18082(b)(1)(B), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42 and Tables.
 
-The Social Security Act, referred to in subsec. (f)(1)(A)(i) to (iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title XVIII of the Act is classified generally to part A (§1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(1)(A)(i) to (iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title XVIII of the Act is classified generally to part A (§1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Section 2107(g) of the Act is classified to section 1397gg(g) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 2791 of the Public Health Service Act, referred to in subsec. (f)(2)(A), (3), is classified to section 300gg–91 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(2)(A). Pub. L. 115–271 amended subpar. (A) generally. Prior to amendment, text read as follows: "Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is—
+
+&emsp;"(i) a member of a recognized religious sect or division thereof which is described in section 1402(g)(1), and
+
+&emsp;"(ii) an adherent of established tenets or teachings of such sect or division as described in such section."
+
+Subsec. (f)(1)(A)(iii). Pub. L. 115–120 inserted "or under a qualified CHIP look-alike program (as defined in section 2107(g) of the Social Security Act)" before comma at end.
 
 <b>2017</b>—Subsec. (c)(2)(B)(iii). Pub. L. 115–97, §11081(a)(1), substituted "Zero percent" for "2.5 percent".
 
@@ -382,7 +338,9 @@ Subsec. (c)(3)(D). Pub. L. 115–97, §11081(a)(2)(B), struck out subpar. (D). T
 
 &emsp;"(i) $695, multiplied by
 
-&emsp;"(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting 'calendar year 2015' for 'calendar year 2016' in subparagraph (A)(ii) thereof."
+&emsp;"(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting 'calendar year 2015' for 'calendar year 2016' in subparagraph (A)(ii) thereof.
+
+> If the amount of any increase under clause (i) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50."
 
 Subsec. (c)(3)(D)(ii). Pub. L. 115–97, §11002(d)(1)(GG), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
@@ -438,6 +396,12 @@ Subsec. (f)(1)(A)(v). Pub. L. 111–173, §1(a), amended cl. (v) generally. Prio
 
 Subsec. (f)(1)(A)(vii). Pub. L. 111–159, §2(a)(2)–(4), added cl. (vii).
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–271, title IV, §4003(b), Oct. 24, 2018, 132 Stat. 3960, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2018."
+
+Pub. L. 115–120, div. C, §3002(g)(2)(B), Jan. 22, 2018, 132 Stat. 35, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 2017."
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 11002(d)(1)(GG) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
@@ -454,9 +418,11 @@ Pub. L. 111–159, §2(b), Apr. 26, 2010, 124 Stat. 1123, provided that: "The am
 
 Pub. L. 111–148, title I, §1501(d), Mar. 23, 2010, 124 Stat. 249, provided that: "The amendments made by this section \[enacting this section and section 18091 of Title 42, The Public Health and Welfare\] shall apply to taxable years ending after December 31, 2013."
 
-<i><sup>1</sup></i><i> See Amendment of Subsection (c) note below.</i>
+#### Construction of 2018 Amendment
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by "the".</i>
+Pub. L. 115–271, title IV, §4003(c), Oct. 24, 2018, 132 Stat. 3960, provided that: "Nothing in the amendment made by subsection (a) \[amending this section\] shall preempt any State law requiring the provision of medical treatment for children, especially those who are seriously ill."
 
-<i><sup>3</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "the".</i>
+
+<i><sup>2</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

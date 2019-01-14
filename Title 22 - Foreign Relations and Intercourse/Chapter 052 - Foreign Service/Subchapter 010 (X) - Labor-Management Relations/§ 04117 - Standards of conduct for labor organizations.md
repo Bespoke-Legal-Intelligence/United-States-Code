@@ -8,7 +8,7 @@ The Department shall accord recognition only to a labor organization that is fre
 
 &emsp;&emsp;(A) provisions for periodic elections to be conducted subject to recognized safeguards, and
 
-&emsp;&emsp;(B) provisions defining and securing the right of individual members to participate in the affairs of the organization, to receive fair and equal treatment under the governing rules of the organization, and to receive fair process in disciplinary proceedings;
+&emsp;&emsp;(B) provisions defining and securing the right of individual members to participate in the affairs of the organization, to receivefair and equal treatment under the governing rules of the organization, and to receive fair process in disciplinary proceedings;
 
 &emsp;(2) the exclusion from office in the organization of persons affiliated with Communist or other totalitarian movements and persons identified with corrupt influences;
 
@@ -20,7 +20,7 @@ The Department shall accord recognition only to a labor organization that is fre
 
 A labor organization may be required to furnish evidence of its freedom from corrupt influences opposed to basic democratic principles if there is reasonable cause to believe that—
 
-&emsp;(1) the organization has been suspended or expelled from, or is subject to other sanctionby, a parent labor organization, or federation of organizations with which it has been affiliated, because it has demonstrated an unwillingness or inability to comply with governing requirements comparable in purpose to those required by subsection (a); or
+&emsp;(1) the organization has been suspended or expelled from, or is subject to other sanction by, a parent labor organization, or federation of organizations with which it has been affiliated, because it has demonstrated an unwillingness or inability to comply with governing requirements comparable in purpose to those required by subsection (a); or
 
 &emsp;(2) the organization is in fact subject to influences that would preclude recognition under this subchapter.
 

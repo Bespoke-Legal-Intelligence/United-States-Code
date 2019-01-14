@@ -58,7 +58,7 @@ The Secretary shall provide for jurisdictions to submit applications for approva
 
 #### (2) Approval
 
-&emsp;The Secretary may approve jurisdictions for participation in the demonstration program under this subchapter, but only from among applications that the Secretary has determined under paragraph <sup>2</sup> are approvable under this subchapter and only in accordance with section 1437bbb–1(c) of this title. The Secretary shall base the selection of jurisdictions to approve on the potential success, as evidenced by the application, in—
+&emsp;The Secretary may approve jurisdictions for participation in the demonstration program under this subchapter, but only from amongapplications that the Secretary has determined under paragraph <sup>2</sup> are approvable under this subchapter and only in accordance with section 1437bbb–1(c) of this title. The Secretary shall base the selection of jurisdictions to approve on the potential success, as evidenced by the application, in—
 
 &emsp;&emsp;(A) achieving the goals set forth in the performance standards under paragraph (4)(A); and
 

@@ -76,7 +76,7 @@ In determining the amount of the alternative minimum taxable income for any taxa
 
 #### (b) Adjustments applicable to individuals
 
-In determining the amount of the alternative minimum taxable income of any taxpayer (other than a corporation), the following treatmentshall apply (in lieu of the treatment applicable for purposes of computing the regular tax):
+In determining the amount of the alternative minimum taxable income of any taxpayer (other than a corporation), the following treatment shall apply (in lieu of the treatment applicable for purposes of computing the regular tax):
 
 #### (1) Limitation on deductions
 
@@ -112,7 +112,7 @@ In determining the amount of the alternative minimum taxable income of any taxpa
 
 #### (E) Standard deduction and deduction for personal exemptions not allowed
 
-&emsp;&emsp;The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed. The preceding sentence shall not apply to so much of the standard deduction as is determined under subparagraphs (D) and (E) <sup>1</sup> of section 63(c)(1).
+&emsp;&emsp;The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed.
 
 #### (F) Section 68 not applicable
 
@@ -162,7 +162,7 @@ In determining the amount of the alternative minimum taxable income of any taxpa
 
 &emsp;&emsp;&emsp;(ii) the lesser of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount of such deduction attributable to an applicable net operating loss with respect to which an election is made under section 172(b)(1)(H),<sup>1</sup> or
+&emsp;&emsp;&emsp;&emsp;(I) the amount of such deduction attributable to an applicable net operating loss with respect to which an election is made under section 172(b)(1)(H) (as in effect before its repeal by the Tax Increase Prevention Act of 2014), or
 
 &emsp;&emsp;&emsp;&emsp;(II) alternative minimum taxable income determined without regard to such deduction and the deduction under section 199 <sup>1</sup> reduced by the amount determined under clause (i), and
 
@@ -228,7 +228,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(ii) a qualified dwelling used by the taxpayer (or any member of his family (within the meaning of section 267(c)(4))).
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 106–519, §4(1), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 106–554, §1(a)(7) \[title III, §314(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title I, §102(c)(1), title IV, §417(5), Mar. 9, 2002, 116 Stat. 26, 56; Pub. L. 108–173, title XII, §1202(b), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–311, title IV, §403(b)(4), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 108–357, title I, §§101(b)(4), 102(b), title II, §248(b)(1), title IV, §422(b), title VIII, §835(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1428, 1457, 1519, 1593; Pub. L. 109–58,title XIII, §1326(d), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–135, title IV, §403(a)(14), (r)(2), Dec. 21, 2005, 119 Stat. 2619, 2628; Pub. L. 109–304, §17(e)(1), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–172, §11(g)(1), (2), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 110–289, div. C, title I, §3022(a)(2), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. C, title VII, §§706(b)(3), 708(c), Oct. 3, 2008, 122 Stat. 3922, 3925; Pub. L. 111–5, div. B, title I, §§1008(d), 1503(b), Feb. 17, 2009, 123 Stat. 318, 354; Pub. L. 111–92, §13(b), Nov. 6, 2009, 123 Stat. 2993; Pub. L. 111–148, title IX, §9013(c), Mar. 23, 2010, 124 Stat. 868; Pub. L. 113–295, div. A, title II, §§215(b), 221(a)(9), (25)(B), (30)(C), Dec. 19, 2014, 128 Stat. 4034, 4038, 4040, 4042; Pub. L. 115–97, title I, §§11027(b), 12001(b)(7), (8)(A), Dec. 22, 2017, 131 Stat. 2077, 2093.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 106–519, §4(1), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 106–554, §1(a)(7) \[title III, §314(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title I, §102(c)(1), title IV, §417(5), Mar. 9, 2002, 116 Stat. 26, 56; Pub. L. 108–173, title XII, §1202(b), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–311, title IV, §403(b)(4), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 108–357, title I, §§101(b)(4), 102(b), title II, §248(b)(1), title IV, §422(b), title VIII, §835(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1428, 1457, 1519, 1593; Pub. L. 109–58, title XIII, §1326(d), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–135, title IV, §403(a)(14), (r)(2), Dec. 21, 2005, 119 Stat. 2619, 2628; Pub. L. 109–304, §17(e)(1), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–172, §11(g)(1), (2), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 110–289, div. C, title I, §3022(a)(2), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. C, title VII, §§706(b)(3), 708(c), Oct. 3, 2008, 122 Stat. 3922, 3925; Pub. L. 111–5, div. B, title I, §§1008(d), 1503(b), Feb. 17, 2009, 123 Stat. 318, 354; Pub. L. 111–92, §13(b), Nov. 6, 2009, 123 Stat. 2993; Pub. L. 111–148, title IX, §9013(c), Mar. 23, 2010, 124 Stat. 868; Pub. L. 113–295, div. A, title II, §§215(b), 221(a)(9), (25)(B), (30)(C), Dec. 19, 2014, 128 Stat. 4034, 4038, 4040, 4042; Pub. L. 115–97, title I, §§11027(b), 12001(b)(7), (8)(A), Dec. 22, 2017, 131 Stat. 2077, 2093; Pub. L. 115–141, div. U, title IV, §401(b)(7), (8), Mar. 23, 2018, 132 Stat. 1202.)
 
 #### References in Text
 
@@ -238,11 +238,9 @@ Sections 203, 204, and 251(d) of such Act, referred to in subsec. (a)(1)(C), are
 
 Section 460(e)(6), referred to in subsec. (a)(3), was redesignated section 460(e)(5) by Pub. L. 115–97, title I, §13102(d)(2), Dec. 22, 2017, 131 Stat. 2104.
 
-Subpars. (D) and (E) of section 63(c)(1), referred to in subsec. (b)(1)(E), were repealed by Pub. L. 113–295, div. A, title II, §221(a)(13)(A), Dec. 19, 2014, 128 Stat. 4039.
-
 Section 199, referred to in subsec. (d)(1)(A)(i)(II), (ii)(II), was repealed by Pub. L. 115–97, title I, §13305(a), Dec. 22, 2017, 131 Stat. 2126.
 
-Subpar. (H) of section 172(b)(1), referred to subsec. (d)(1)(A)(ii)(I), was repealed by Pub. L. 113–295, div. A, title II, §221(a)(30)(A)(i), Dec. 19, 2014, 128 Stat. 4041.
+Section 172(b)(1)(H) (as in effect before its repeal by the Tax Increase Prevention Act of 2014), referred to subsec. (d)(1)(A)(ii)(I), means subpar. (H) of section 172(b)(1) of this title prior to its repeal by Pub. L. 113–295, div. A, title II, §221(a)(30)(A)(i), Dec. 19, 2014, 128 Stat. 4041.
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (g)(4)(A)(iii), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
@@ -250,9 +248,13 @@ The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in
 
 #### Prior Provisions
 
-A prior section 56, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 580; amended Pub. L. 91–614, title V, §501(a), Dec. 31, 1970, 84 Stat. 1846; Pub. L. 92–178, title VI, §601(c)(4), (5), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title II, §§2001(g)(2)(D), 2002(g)(4), 2005(c)(7), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title II, §§203(b)(2), (3), 208(d)(2), (3), Mar. 29, 1975, 89 Stat. 30, 35; Pub. L. 94–455, title III, §301(a), (b), (c)(4)(B), Oct. 4, 1976, 90 Stat. 1549, 1552; Pub. L. 95–30, title II, §202(d)(2), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title I, §141(d), Nov. 6, 1978, 92 Stat. 2794; Pub. L. 95–618, title I, §101(b)(2), Nov. 9, 1978, 92 Stat. 3179; Pub. L. 96–222, title I, §101(a)(7)(L)(iii)(IV), Apr. 1, 1980, 94 Stat. 200; Pub. L. 97–34, title III, §331(c)(2), Aug. 13, 1981, 95 Stat. 293; Pub. L. 97–248, title II, §201(d)(1), formerly §201(c)(1), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(1), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(1), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title XI, §1171(b)(3), Oct. 22, 1986, 100 Stat. 2513, related to a corporate minimum tax, prior to the general revision of this part by Pub. L. 99–514, §701(a).
+A prior section 56, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 580; amended Pub. L. 91–614, title V, §501(a), Dec. 31, 1970, 84 Stat. 1846; Pub. L. 92–178, title VI, §601(c)(4), (5), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title II, §§2001(g)(2)(D), 2002(g)(4), 2005(c)(7), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title II, §§203(b)(2), (3), 208(d)(2), (3), Mar. 29, 1975, 89 Stat. 30, 35; Pub. L. 94–455, title III, §301(a), (b), (c)(4)(B), Oct. 4, 1976, 90 Stat. 1549, 1552; Pub. L. 95–30, title II, §202(d)(2), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title I, §141(d), Nov. 6, 1978, 92 Stat. 2794; Pub. L. 95–618, title I, §101(b)(2), Nov. 9, 1978, 92 Stat. 3179; Pub. L. 96–222, title I, §101(a)(7)(L)(iii)(IV), Apr. 1, 1980, 94 Stat. 200; Pub. L. 97–34, title III, §331(c)(2), Aug. 13, 1981, 95 Stat. 293; Pub. L. 97–248, title II, §201(d)(1), formerly §201(c)(1), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(1), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(1), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title XI, §1171(b)(3), Oct. 22, 1986, 100 Stat. 2513, related to acorporate minimum tax, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1)(E). Pub. L. 115–141, §401(b)(7), struck out at end "The preceding sentence shall not apply to so much of the standard deduction as is determined under subparagraphs (D) and (E) of section 63(c)(1)."
+
+Subsec. (d)(1)(A)(ii)(I). Pub. L. 115–141, §401(b)(8), inserted "(as in effect before its repeal by the Tax Increase Prevention Act of 2014)" after "section 172(b)(1)(H)".
 
 <b>2017</b>—Subsec. (b)(1)(B). Pub. L. 115–97, §11027(b), inserted at end "This subparagraph shall not apply to taxable years beginning after December 31, 2016, and ending before January 1, 2019".
 
@@ -334,7 +336,7 @@ Installment sales of certain property.—In the case of any disposition after Ma
 
 Subsec. (e)(1)(A), (3)(B)(i). Pub. L. 105–34, §312(d)(1), substituted "section 121" for "section 1034".
 
-Subsec. (g)(4)(B)(i). Pub. L. 105–34, §1212(a), inserted at end of concluding provisions "In the case of any insurance company taxable under section 831(b), this clause shall not apply to any amount not described in section 834(b)."
+Subsec. (g)(4)(B)(i). Pub. L. 105–34, §1212(a), inserted at end of concluding provisions "In the case of any insurance company taxable under section 831(b), thisclause shall not apply to any amount not described in section 834(b)."
 
 <b>1996</b>—Subsec. (b)(3). Pub. L. 104–188, §1702(h)(12), provided that the amendment made by section 11801(c)(9)(G)(ii) of Pub. L. 101–508 shall be applied as if it struck "Section 422A(c)(2)" and inserted "Section 422(c)(2)". See 1990 Amendment note below.
 
@@ -462,7 +464,7 @@ Subsec. (g)(4)(H). Pub. L. 101–239, §7205(b), added cl. (ii) and concluding p
 
 > then the adjusted basis of each asset of such corporation (as of such time) shall be its proportionate share (determined on the basis of respective fair market values) of the amount referred to in clause (ii)(II)."
 
-Subsec. (g)(4)(H)(i). Pub. L. 101–239, §7611(f)(1), substituted "in a taxable year beginning after 1989" for"after the date of the enactment of the Tax Reform Act of 1986".
+Subsec. (g)(4)(H)(i). Pub. L. 101–239, §7611(f)(1), substituted "in a taxable year beginning after 1989" for "after the date of the enactment of the Tax Reform Act of 1986".
 
 Subsec. (g)(5)(A). Pub. L. 101–239, §7611(f)(4), redesignated subpar. (B) as (A) and struck out former subpar. (A) which defined "book purposes".
 
@@ -560,7 +562,7 @@ Amendment by section 221(a)(9), (25)(B), (30)(C) of Pub. L. 113–295 effective 
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title IX, §9013(d), Mar. 23, 2010, 124 Stat. 868, provided that: "The amendments made bythis section \[amending this section and section 213 of this title\] shall apply to taxable years beginning after December 31, 2012."
+Pub. L. 111–148, title IX, §9013(d), Mar. 23, 2010, 124 Stat. 868, provided that: "The amendments made by this section \[amending this section and section 213 of this title\] shall apply to taxable years beginning after December 31, 2012."
 
 #### Effective Date of 2009 Amendment
 
@@ -656,7 +658,7 @@ Application to pass-thru entities, etc.—In determining the deduction under \[f
 
 Pub. L. 108–357, title II, §248(c), Oct. 22, 2004, 118 Stat. 1457, provided that: "The amendments made by this section \[enacting subchapter R of this chapter and amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
-Pub. L. 108–357, title IV, §422(d), Oct. 22, 2004, 118 Stat. 1519, provided that: "The amendments made by thissection \[enacting section 965 of this title and amending this section\] shall apply to taxable years ending on or after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title IV, §422(d), Oct. 22, 2004, 118 Stat. 1519, provided that: "The amendments made by this section \[enacting section 965 of this title and amending this section\] shall apply to taxable years ending on or after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 Pub. L. 108–357, title VIII, §835(c), Oct. 22, 2004, 118 Stat. 1594, provided that:
 
@@ -698,7 +700,7 @@ No new fscs.—No corporation may elect after September 30, 2000, to be a FSC (a
 
 &emsp;"(2)
 
-Termination of inactive fscs.—If a FSC has no foreign trade income (as defined in section 923(b) of such Code, as so in effect) for any period of 5 consecutive taxable years beginning after December 31, 2001, such FSC shall cease to be treated as a FSC for purposes of such Code for any taxable year beginning after such period.
+Termination of inactive fscs.—If a FSC has no foreign trade income (as defined in section 923(b)of such Code, as so in effect) for any period of 5 consecutive taxable years beginning after December 31, 2001, such FSC shall cease to be treated as a FSC for purposes of such Code for any taxable year beginning after such period.
 
 "(c)
 
@@ -762,7 +764,7 @@ Related person.—For purposes of this subsection, the term 'related person' has
 
 &emsp;"(5)
 
-Section references.—Except as otherwise expressly provided, any reference in this subsection to a section or other provision shall be considered to bea reference to a section or other provision of the Internal Revenue Code of 1986, as amended by this Act.
+Section references.—Except as otherwise expressly provided, any reference in this subsection to a section or other provision shall be considered to be a reference to a section or other provision of the Internal Revenue Code of 1986, as amended by this Act.
 
 "(d)
 
@@ -796,7 +798,7 @@ Pub. L. 105–34, title XII, §1212(b), Aug. 5, 1997, 111 Stat. 1000, provided t
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1601(b)(2)(B), (C) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, except as otherwise provided, see section 1601(c) of Pub. L. 104–188, set out as an Effective Date note under section 30A of this title.
+Amendment by section 1601(b)(2)(B), (C) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, except as otherwise provided, see section 1601(c) of Pub. L. 104–188, set out as a note under section 55 of this title.
 
 Amendment by section 1621(b)(2) of Pub. L. 104–188 effective Sept. 1, 1997, see section 1621(d) of Pub. L. 104–188, set out as a note under section 26 of this title.
 
@@ -840,7 +842,7 @@ Pub. L. 101–508, title XI, §11531(c), Nov. 5, 1990, 104 Stat. 1388–490, pro
 
 Pub. L. 101–508, title XI, §11704(b), Nov. 5, 1990, 104 Stat. 1388–520, provided that: "The amendments made by this section \[amending this section, sections 172, 351, 413, 461, 469, 597, 857, 860D, 860G, 892, 927, 936, 1017, 1245, 1441, 2056A, 2642, 3231, 4091, 4093, 5061, 6013, 6038A, 6039D, 6045, 6323, 6332, 6655, 7519, 7522, 7608, and 7701 of this title, and provisions set out as a note under section 231n of Title 45, Railroads\] shall take effect on the date of the enactment of this Act."
 
-Amendment by section 11812(b)(4) of Pub. L. 101–508 applicable to property placed in service after Nov. 5,1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by section 11812(b)(4) of Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -910,11 +912,13 @@ Section applicable to taxable years beginning after Dec. 31, 1986, with certain 
 
 #### Savings Provision
 
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+
 For provisions that nothing in amendment by sections 11801 and 11812 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Coordination With Heartland Disaster Relief
 
-Pub. L. 110–343, div. C, title VII, §712, Oct. 3, 2008, 122 Stat. 3929, as amended by Pub. L. 113–295, div. A, titleII, §211(c)(3), Dec. 19, 2014, 128 Stat. 4033, provided that: "The amendments made by this subtitle \[subtitle B (§§706–712) of title VII of div. C of Pub. L. 110–343, enacting section 198A of this title and amending this section and sections 63, 139, 143, 165, 168, 172, 179, 1033, and 7508A of this title\], other than the amendments made by sections 706(a)(2) \[amending sections 139, 165, 172, 1033, and 7508A of this title\], 710 \[amending section 168 of this title\], and 711 \[amending section 179 of this title\], shall not apply to any disaster described in section 702(b)(1)(A) \[122 Stat. 3912\], or to any expenditure or loss resulting from such disaster."
+Pub. L. 110–343, div. C, title VII, §712, Oct. 3, 2008, 122 Stat. 3929, as amended by Pub. L. 113–295, div. A, title II, §211(c)(3), Dec. 19, 2014, 128 Stat. 4033, provided that: "The amendments made by this subtitle \[subtitle B (§§706–712) of title VII of div. C of Pub. L. 110–343, enacting section 198A of this title and amending this section and sections 63, 139, 143, 165, 168, 172, 179, 1033, and 7508A of this title\], other than the amendments made by sections 706(a)(2) \[amending sections 139, 165, 172, 1033, and 7508A of this title\], 710 \[amending section 168 of this title\], and 711 \[amending section 179 of this title\], shall not apply to any disaster described in section 702(b)(1)(A) \[122 Stat. 3912\], or to any expenditure or loss resulting from such disaster."
 
 #### Application of Former Subsection (g)(1) and (3) to Taxable Years Beginning in 1991 and 1992
 

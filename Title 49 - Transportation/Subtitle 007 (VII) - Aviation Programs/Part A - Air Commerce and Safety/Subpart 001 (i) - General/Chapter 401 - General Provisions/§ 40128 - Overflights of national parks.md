@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-General requirements.—A commercial air tour operator may not conduct commercial air tour operations over a national park or tribal lands, as defined by this section, except—
+General requirements.—A commercial air tour operator may not conduct commercialair tour operations over a national park or tribal lands, as defined by this section, except—
 
 &emsp;&emsp;(A) in accordance with this section;
 
@@ -56,7 +56,7 @@ Priority.—In acting on applications under this paragraph to provide commercial
 
 &emsp;(3)
 
-Exception.—Notwithstanding paragraph (1), commercial air tour operators may conduct commercial air tour operations over a national park under part 91 of the <sup>1</sup> title 14, Code of Federal Regulations if—
+Exception.—Notwithstanding paragraph (1), commercial air tour operators may conduct commercial air tour operations over a national park under part 91 of title 14, Code of Federal Regulations if—
 
 &emsp;&emsp;(A) such activity is permitted under part 119 of such title;
 
@@ -66,7 +66,7 @@ Exception.—Notwithstanding paragraph (1), commercial air tour operators may co
 
 &emsp;(4)
 
-Special rule for safety requirements.—Notwithstanding subsection (c), an existing commercial air tour operator shall apply, not later than 90 days after the date of the enactment of this section, for operating authority under part 119, 121, or 135 of title 14, Code of Federal Regulations. A new entrant commercial air tour operator shall apply for such authority before conducting commercialair tour operations over a national park or tribal lands. The Administrator shall make every effort to act on any such application for a new entrant and issue a decision on the application not later than 24 months after it is received or amended.
+Special rule for safety requirements.—Notwithstanding subsection (c), an existing commercial air tour operator shall apply, not later than 90 days after the date of the enactment of this section, for operating authority under part 119, 121, or 135 of title 14, Code of Federal Regulations. A new entrant commercial air tour operator shall apply for such authority before conducting commercial air tour operations over a national park or tribal lands. The Administrator shall make every effort to act on any such application for a new entrant and issue a decision on the application not later than 24 months after it is received or amended.
 
 &emsp;(5)
 
@@ -166,7 +166,7 @@ In general.—As an alternative to an air tour management plan, the Director and
 
 &emsp;&emsp;(B)
 
-Park protection.—A voluntary agreement under this paragraph with respect to commercial air tour operations over a national park shall address the management issues necessary to protect the resources of such park and visitor use of such park without compromising aviation safety or the air traffic control system and may—
+Park protection.—A voluntary agreement under this paragraph with respect tocommercial air tour operations over a national park shall address the management issues necessary to protect the resources of such park and visitor use of such park without compromising aviation safety or the air traffic control system and may—
 
 &emsp;&emsp;&emsp;(i) include provisions such as those described in subparagraphs (B) through (E) of paragraph (3);
 
@@ -250,7 +250,7 @@ In general.—The Administrator, in cooperation with the Director, may grant int
 
 &emsp;&emsp;(B)
 
-Safety limitation.—The Administrator may not grant interim operating authority under subparagraph (A) if the Administrator determines that it would create a safety problem at the park or on the tribal lands, or the Director determines that it would create a noise problem at the park or on the tribal lands.
+Safety limitation.—The Administrator may not grant interim operating authority under subparagraph (A) if the Administrator determines that it would create a safety problem at the park or on the tribal lands, or the Director determines that itwould create a noise problem at the park or on the tribal lands.
 
 &emsp;&emsp;(C)
 
@@ -348,7 +348,7 @@ Administrator.—The term "Administrator" means the Administrator of the Federal
 
 Director.—The term "Director" means the Director of the National Park Service.
 
-(Added Pub. L. 106–181, title VIII, §803(a), Apr. 5, 2000, 114 Stat. 186; amended Pub. L. 108–176, title III, §323(a), Dec. 12, 2003, 117 Stat. 2541; Pub. L. 109–115, div. A, title I, §177, Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title V, §501, Feb. 14, 2012, 126 Stat. 100; Pub. L. 112–141, div. C, title V, §35002, July 6, 2012, 126 Stat. 843.)
+(Added Pub. L. 106–181, title VIII, §803(a), Apr. 5, 2000, 114 Stat. 186; amended Pub. L. 108–176, titleIII, §323(a), Dec. 12, 2003, 117 Stat. 2541; Pub. L. 109–115, div. A, title I, §177, Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title V, §501, Feb. 14, 2012, 126 Stat. 100; Pub. L. 112–141, div. C, title V, §35002, July 6, 2012, 126 Stat. 843; Pub. L. 115–254, div. B, title V, §539(c), Oct. 5, 2018, 132 Stat. 3370.)
 
 #### References in Text
 
@@ -357,6 +357,8 @@ The date of the enactment of this section, referred to in subsecs. (a)(4), (c)(2
 The date of enactment of the FAA Modernization and Reform Act of 2012, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(3). Pub. L. 115–254 substituted "under part 91 of title 14," for "under part 91 of the title 14,".
 
 <b>2012</b>—Subsec. (a)(1)(C). Pub. L. 112–95, §501(a), inserted "or voluntary agreement under subsection (b)(7)" before "for the park".
 
@@ -668,7 +670,7 @@ Study by Park Service.—The Secretary of the Interior (hereinafter referred to 
 
 "(b)
 
-General Requirements of Study.—The study shall identify any problems associated with overflight by aircraft of units of the National Park System and shall provide information regarding the types of overflight which may be impacting on park unit resources. The study shall distinguish between the impacts caused by sightseeing aircraft, military aircraft, commercial aviation, general aviation, and other forms of aircraft which affect such units. The study shall identify those park system units, and portions thereof, in which the most serious adverse impacts from aircraft overflights exist.
+General Requirements of Study.—The study shall identify any problems associated with overflight by aircraft of units of the National Park System and shall provide information regarding the types of overflight which may be impacting on park unit resources. The study shall distinguish between the impacts causedby sightseeing aircraft, military aircraft, commercial aviation, general aviation, and other forms of aircraft which affect such units. The study shall identify those park system units, and portions thereof, in which the most serious adverse impacts from aircraft overflights exist.
 
 "(c)
 
@@ -781,6 +783,4 @@ Authorization.—Effective October 1, 1987, there are authorized to be appropria
 #### "SEC. 6. CONSULTATION WITH FEDERAL AGENCIES.
 
 "In conducting the study and the assessment required by this Act, the Secretary of the Interior and the Chief of the Forest Service shall consult with other Federal agencies that are engaged in an analysis of the impacts of aircraft overflights over federally-owned land."
-
-<i><sup>1</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

@@ -66,7 +66,7 @@ Another prior section 212, act June 25, 1948, ch. 645, 62 Stat. 693, related to 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(2)(C) to (H). Pub. L. 111–203 redesignated subpars. (D) to (H) as (C) to (G), respectively, and struck out former subpar. (C) which read as follows: "the Office of Thrift Supervision;".
+<b>2010</b>—Subsec. (c)(2)(C) to (H). Pub. L. 111–203 redesignated subpars. (D) to (H) as (C) to (G), respectively, andstruck out former subpar. (C) which read as follows: "the Office of Thrift Supervision;".
 
 <b>2008</b>—Subsec. (c)(2)(E). Pub. L. 110–289 substituted "Federal Housing Finance Agency" for "Federal Housing Finance Board".
 

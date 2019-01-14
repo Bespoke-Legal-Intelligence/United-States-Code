@@ -20,7 +20,7 @@
 | [1926b.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001926b%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7743%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201125.md) | Repealed. |
 | [1926c.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001926c%20-%20Water%20and%20waste%20facility%20loans%20and%20grants%20to%20alleviate%20health%20risks.md) | Water and waste facility loans and grants to alleviate health risks. |
 | [1926d.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001926d%20-%20Water%20systems%20for%20rural%20and%20Native%20villages%20in%20Alaska.md) | Water systems for rural and Native villages in Alaska. |
-| [1926e.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001926e%20-%20Grants%20to%20nonprofit%20organizations%20to%20finance%20the%20construction%2C%20refurbishing%2C%20and%20servicing%20of%20individually-owned%20household%20water%20well%E2%80%A6.md) | Grants to nonprofit organizations to finance the construction, refurbishing, and servicing of individually-owned household water well systems in rural areas for individuals with low or moderate incomes. |
+| [1926e.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001926e%20-%20Rural%20decentralized%20water%20systems.md) | Rural decentralized water systems. |
 | [1926f.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001926f%20-%20Contracts%20with%20not-for-profit%20third%20parties.md) | Contracts with not-for-profit third parties. |
 | [1927\.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001927%20-%20Repayment%20requirements.md) | Repayment requirements. |
 | [1927a.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001927a%20-%20Loan%20interest%20rates%20charged%20by%20Farmers%20Home%20Administration%3B%20grant%20funds%20associated%20with%20loans.md) | Loan interest rates charged by Farmers Home Administration; grant funds associated with loans. |
@@ -38,6 +38,7 @@
 | [1936\.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001936%20-%20Beginning%20farmer%20or%20rancher%20and%20socially%20disadvantaged%20farmer%20or%20rancher%20contract%20land%20sales%20program.md) | Beginning farmer or rancher and socially disadvantaged farmer or rancher contract land sales program. |
 | [1936a.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001936a%20-%20Use%20of%20rural%20development%20loans%20and%20grants%20for%20other%20purposes.md) | Use of rural development loans and grants for other purposes. |
 | [1936b.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001936b%20-%20Intermediary%20relending%20program.md) | Intermediary relending program. |
+| [1936c.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001936c%20-%20Relending%20program%20to%20resolve%20ownership%20and%20succession%20on%20farmland.md) | Relending program to resolve ownership and succession on farmland. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -97,6 +98,7 @@
 | [1988\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001988%20-%20Appropriations.md) | Appropriations. |
 | [1989\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001989%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [1990\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001990%20-%20Transfer%20of%20lands%20to%20Secretary.md) | Transfer of lands to Secretary. |
+| [1990a.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001990a%20-%20Refinancing%20of%20certain%20rural%20hospital%20debt.md) | Refinancing of certain rural hospital debt. |
 | [1991\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001991%20-%20Definitions.md) | Definitions. |
 | [1992\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001992%20-%20Loan%20limitations.md) | Loan limitations. |
 | [1993\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001993%20-%20Transition%20to%20private%20commercial%20or%20other%20sources%20of%20credit.md) | Transition to private commercial or other sources of credit. |
@@ -122,7 +124,9 @@
 | [2006f.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002006f%20-%20Rural%20development%20certified%20lenders%20program.md) | Rural development certified lenders program. |
 | 2007 to 2007e. Repealed. |  |
 | [2008\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008%20-%20Rural%20development%20and%20farm%20loan%20program%20activities.md) | Rural development and farm loan program activities. |
-| 2008a to 2008c. Repealed. |  |
+| [2008a.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008a%20-%20Equitable%20relief.md) | Equitable relief. |
+| [2008b.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008b%20-%20Socially%20disadvantaged%20farmers%20and%20ranchers%3B%20qualified%20beginning%20farmers%20and%20ranchers.md) | Socially disadvantaged farmers and ranchers; qualified beginning farmers and ranchers. |
+| [2008c.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008c%20-%20Rural%20Business-Cooperative%20Service%20programs%20technical%20assistance%20and%20training.md) | Rural Business-Cooperative Service programs technical assistance and training. |
 | [2008d.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008d%20-%20Recordkeeping%20of%20loans%20by%20borrower%27s%20gender.md) | Recordkeeping of loans by borrower's gender. |
 | [2008e.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008e%20-%20Prohibition%20under%20rural%20development%20programs.md) | Prohibition under rural development programs. |
 | [2008f.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008f%20-%20Crop%20insurance%20requirement.md) | Crop insurance requirement. |
@@ -133,16 +137,17 @@
 | [2008k.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008k%20-%20Making%20and%20servicing%20of%20loans%20by%20personnel%20of%20State%2C%20county%2C%20or%20area%20committees.md) | Making and servicing of loans by personnel of State, county, or area committees. |
 | [2008l.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008l%20-%20Eligibility%20of%20employees%20of%20State%2C%20county%2C%20or%20area%20committee%20for%20loans%20and%20loan%20guarantees.md) | Eligibility of employees of State, county, or area committee for loans and loan guarantees. |
 | [2008m.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008m%20-%20National%20Rural%20Development%20Partnership.md) | National Rural Development Partnership. |
-| [2008n.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008n%20-%20Rural%20telework.md) | Rural telework. |
-| [2008o.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008o%20-%20Historic%20barn%20preservation.md) | Historic barn preservation. |
+| 2008n, 2008o. | Repealed. |
 | [2008p.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008p%20-%20Grants%20for%20NOAA%20weather%20radio%20transmitters.md) | Grants for NOAA weather radio transmitters. |
-| [2008q.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008q%20-%20Grants%20to%20train%20farm%20workers%20in%20new%20technologies%20and%20to%20train%20farm%20workers%20in%20specialized%20skills%20necessary%20for%20higher%20value%20crops.md) | Grants to train farm workers in new technologies and to train farm workers in specialized skills necessary for higher value crops. |
+| [2008q.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008q%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20VI%2C%20%C2%A76601%28a%29%281%29%28E%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204775.md) | Repealed. |
 | 2008q–1. | Grants to improve supply, stability, safety, and training of agricultural labor force. |
-| [2008r.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008r%20-%20Delta%20region%20agricultural%20economic%20development.md) | Delta region agricultural economic development. |
+| [2008r.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008r%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20VI%2C%20%C2%A76601%28a%29%281%29%28F%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204776.md) | Repealed. |
 | [2008s.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008s%20-%20Rural%20microentrepreneur%20assistance%20program.md) | Rural microentrepreneur assistance program. |
-| [2008t.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008t%20-%20Grants%20for%20expansion%20of%20employment%20opportunities%20for%20individuals%20with%20disabilities%20in%20rural%20areas.md) | Grants for expansion of employment opportunities for individuals with disabilities in rural areas. |
+| [2008t.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008t%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20VI%2C%20%C2%A76601%28a%29%281%29%28G%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204776.md) | Repealed. |
 | [2008u.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008u%20-%20Health%20care%20services.md) | Health care services. |
 | [2008v.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008v%20-%20Strategic%20economic%20and%20community%20development.md) | Strategic economic and community development. |
+| [2008w.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008w%20-%20Rural%20Innovation%20Stronger%20Economy%20Grant%20Program.md) | Rural Innovation Stronger Economy Grant Program. |
+| [2008x.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008x%20-%20Reporting.md) | Reporting. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -239,16 +244,9 @@
 
 #### SUBCHAPTER IX—RURAL COLLABORATIVE INVESTMENT PROGRAM
 
-|  |  |
-| :--- | ---: |
-| [2009dd.](Subchapter%20009%20%28IX%29%20-%20Rural%20Collaborative%20Investment%20Program/%C2%A7%2002009dd%20-%20Purpose.md) | Purpose. |
-| 2009dd–1. | Definitions. |
-| 2009dd–2. | Establishment and administration of Rural Collaborative Investment Program. |
-| 2009dd–3. | Regional Rural Investment Boards. |
-| 2009dd–4. | Regional investment strategy grants. |
-| 2009dd–5. | Regional innovation grants program. |
-| 2009dd–6. | Rural endowment loans program. |
-| 2009dd–7. | Authorization of appropriations. |
+|  |
+| :--- |
+| 2009dd to 2009dd–7. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -6,7 +6,7 @@ Any receipt of the United States as a result of an agreement entered into under 
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–337 substituted "shall be credited, at the option of the Secretary of Defense, to (1) the appropriation, fund, or account used in incurring the obligation, or (2) an appropriate appropriation, fund, or account currently available for the purposes for which the expenditures were made" for "shall be credited toapplicable appropriations, accounts, and funds of the Department of Defense".
+<b>1994</b>—Pub. L. 103–337 substituted "shall be credited, at the option of the Secretary of Defense, to (1) the appropriation, fund, or account used in incurring the obligation, or (2) an appropriate appropriation, fund, or account currently available for the purposes for which the expenditures were made" for "shall be credited to applicable appropriations, accounts, and funds of the Department of Defense".
 
 <b>1989</b>—Pub. L. 101–189 substituted "this subchapter" for "this chapter".
 

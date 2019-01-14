@@ -40,7 +40,7 @@ A prior section 402 was renumbered section 401(b) of this title.
 
 Subsec. (b)(1)(E). Pub. L. 108–136, §312(b)(2), inserted "or use" after "distribution".
 
-Subsec. (b)(3). Pub. L. 108–136, §312(b)(3), substituted "entity requesting the transport of supplies under this section to ensure that the supplies" for "donor to ensure that supplies to be transported under this section".
+Subsec. (b)(3). Pub. L. 108–136, §312(b)(3), substituted "entity requesting the transport of supplies under thissection to ensure that the supplies" for "donor to ensure that supplies to be transported under this section".
 
 Subsecs. (d), (e). Pub. L. 108–136, §312(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 

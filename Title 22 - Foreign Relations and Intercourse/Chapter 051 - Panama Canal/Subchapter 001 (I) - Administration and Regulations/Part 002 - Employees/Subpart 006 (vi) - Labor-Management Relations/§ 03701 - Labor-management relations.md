@@ -30,7 +30,7 @@ Labor-management and employee relations of the Commission, other Executive agenc
 
 &emsp;(C) If the Federal Services Impasses Panel fails to issue a decision within 90 days after the date on which notice under subparagraph (B) is received by the Panel (or within such shorter period as may be mutually agreed upon by the parties), the efforts of the Panel shall be terminated.
 
-&emsp;(D) In such a case, the Chairman of the Panel (or another member in the absence ofthe Chairman) shall immediately determine the matter by a drawing (conducted in such manner as the Chairman (or, in the absence of the Chairman, such other member) determines appropriate) between the last offer of the Commission and the last offer of the exclusive representative, with the offer chosen through such drawing becoming the binding resolution of the matter.
+&emsp;(D) In such a case, the Chairman of the Panel (or another member in the absence of the Chairman) shall immediately determine the matter by a drawing (conducted in such manner as the Chairman (or, in the absence of the Chairman, such other member) determines appropriate) between the last offer of the Commission and the last offer of the exclusive representative, with the offer chosen through such drawing becoming the binding resolution of the matter.
 
 (4) In the case of a notice of agreement described in paragraph (2)(A) that is transmitted to the Congress as described in the second sentence of that paragraph after July 1, 1998, the impasse resolution procedures covered by that notice shall apply to any impasse between the Commission and the other party to the agreement that is unresolved on the date on which that notice is transmitted to the Congress.
 

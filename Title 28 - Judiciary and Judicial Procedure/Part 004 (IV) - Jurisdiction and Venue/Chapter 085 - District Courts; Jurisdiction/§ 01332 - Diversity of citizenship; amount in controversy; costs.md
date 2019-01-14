@@ -10,7 +10,7 @@
 
 &emsp;(4) a foreign state, defined in section 1603(a) of this title, as plaintiff and citizens of a State or of different States.
 
-(b) Except when express provision therefor is otherwise made in a statute of the United States, where the plaintiff who files the case originally in the Federal courts is finally adjudged to be entitled to recover less than the sum or value of $75,000, computed without regard to any setoff or counterclaim to which the defendant may be adjudged to be entitled, and exclusive of interest and costs, the district courtmay deny costs to the plaintiff and, in addition, may impose costs on the plaintiff.
+(b) Except when express provision therefor is otherwise made in a statute of the United States, where the plaintiff who files the case originally in the Federal courts is finally adjudged to be entitled to recover less than the sum or value of $75,000, computed without regard to any setoff or counterclaim to which the defendant may be adjudged to be entitled, and exclusive of interest and costs, the district court may deny costs to the plaintiff and, in addition, may impose costs on the plaintiff.
 
 (c) For the purposes of this section and section 1441 of this title—
 
@@ -112,7 +112,7 @@
 
 &emsp;(IV) the claims have been consolidated or coordinated solely for pretrial proceedings.
 
-(C)(i) Any action(s) removed to Federal court pursuant to this subsection shall not thereafter be transferred to any other court pursuant to section 1407, or the rules promulgated thereunder, unless a majority of the plaintiffs in the action request transfer pursuant to section 1407.
+(C)(i) Any action(s) removed to Federal court pursuant to this subsection shall not thereafterbe transferred to any other court pursuant to section 1407, or the rules promulgated thereunder, unless a majority of the plaintiffs in the action request transfer pursuant to section 1407.
 
 (ii) This subparagraph will not apply—
 
@@ -142,7 +142,7 @@ The revised section conforms with the views of Philip F. Herrick, United States 
 
 This changes the law to insure uniformity. The 1940 amendment applied only to the provision as to controversies between "citizens of different States." The new definition in subsection (b) extends the 1940 amendment to apply to controversies between citizens of the Territories or the District of Columbia, and foreign states or citizens or subjects thereof.
 
-The diversity of citizenship language of section 41(1) of title 28, U.S.C., 1940 ed., as amended in 1940, was described as ambiguous in <i>McGarry v. City of Bethlehem</i>, 45 F.Supp. 385, 386. In that case the 1940 amendment was held unconstitutional insofar as it affected the District of Columbia. However, two other district courts upheldthe amendment. <i>Winkler v. Daniels</i>, D.C.Va. 1942, 43 F.Supp. 265; <i>Glaeser v. Acacia Mutual Life Ass'n</i>., D.C.Cal. 1944, 55 F.Supp. 925.
+The diversity of citizenship language of section 41(1) of title 28, U.S.C., 1940 ed., as amended in 1940, was described as ambiguous in <i>McGarry v. City of Bethlehem</i>, 45 F.Supp. 385, 386. In that case the 1940 amendment was held unconstitutional insofar as it affected the District of Columbia. However, two other district courts upheld the amendment. <i>Winkler v. Daniels</i>, D.C.Va. 1942, 43 F.Supp. 265; <i>Glaeser v. Acacia Mutual Life Ass'n</i>., D.C.Cal. 1944, 55 F.Supp. 925.
 
 This section is intended to cover all diversity of citizenship instances in civil actions in accordance with the judicial construction of the language in the original section 41(1) of title 28, U.S.C., 1940 ed. Therefore, the revised language covers civil actions between—
 

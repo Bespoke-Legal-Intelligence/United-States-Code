@@ -112,7 +112,7 @@ Interchange.—The term "interchange"—
 
 &emsp;&emsp;(B) does not include the leasing of equipment to a motor carrier for primary use in the motor carrier's freight hauling operations.
 
-(Added Pub. L. 109–59, title IV, §4118(a), Aug. 10, 2005, 119 Stat. 1729; amended Pub. L. 110–244, titleIII, §301(e), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, §32931(b), July 6, 2012, 126 Stat. 829.)
+(Added Pub. L. 109–59, title IV, §4118(a), Aug. 10, 2005, 119 Stat. 1729; amended Pub. L. 110–244, title III, §301(e), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, §32931(b), July 6, 2012, 126 Stat. 829.)
 
 #### References in Text
 

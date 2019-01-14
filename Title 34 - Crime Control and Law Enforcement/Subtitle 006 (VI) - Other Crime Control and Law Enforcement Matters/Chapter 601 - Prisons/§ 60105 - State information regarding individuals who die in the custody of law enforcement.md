@@ -28,7 +28,7 @@ The report required by this section shall contain information that, at a minimum
 
 #### (2) Ineligibility for funds
 
-&emsp;For any fiscal year after the expiration of the period specified in paragraph (1), a State that fails to comply with subsection (a), shall, at the discretion of the Attorney General, be subject to not more than a 10-percent reduction of the funds that would otherwise be allocated for that fiscal year to the State under subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750 et seq.),<sup>1</sup> whether characterized as the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, the Local Government Law Enforcement Block Grants Program, the Edward Byrne Memorial Justice Assistance Grant Program, or otherwise.
+&emsp;For any fiscal year after the expiration of the period specified in paragraph (1), a State that fails to comply with subsection (a), shall, at the discretion of the Attorney General, be subject to not more than a 10-percent reduction of the funds that would otherwise be allocated for that fiscal year to the State under subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750 et seq.),<sup>1</sup> whether characterized as the Edward Byrne Memorial State and LocalLaw Enforcement Assistance Programs, the Local Government Law Enforcement Block Grants Program, the Edward Byrne Memorial Justice Assistance Grant Program, or otherwise.
 
 #### (d) Reallocation
 
@@ -56,7 +56,7 @@ In this section the terms "boot camp prison" and "State" have the meaning given 
 
 #### References in Text
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(2), is Pub. L. 90–351, June19, 1968, 82 Stat. 197. Subpart 1 of part E of title I of the Act was classified generally to part A (§3750 et seq.) of subchapter V of chapter 46 of Title 42, The Public Health and Welfare, prior to editorial reclassification as part A (§10151 et seq.) of subchapter V of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(2), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Subpart 1 of part E of title I of the Act was classified generally to part A (§3750 et seq.) of subchapter V of chapter 46 of Title 42, The Public Health and Welfare, prior to editorial reclassification as part A (§10151 et seq.) of subchapter V of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
 Section 3(a), referred to in subsec. (f)(1), is section 3(a) of Pub. L. 113–242, Dec. 18, 2014, 128 Stat. 2861. Section 3 of Pub. L. 113–242 was editorially reclassified as a note under section 4001 of Title 18, Crimes and Criminal Procedure.
 

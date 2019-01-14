@@ -16,9 +16,11 @@
 
 &emsp;&emsp;(A) the costs of mobilizing and employing the National Guard for performance of eligible work;
 
-&emsp;&emsp;(B) the costs of using prison labor to perform eligible work, including wages actually paid, transportation to a worksite, and extraordinary costs of guards, food, and lodging; and
+&emsp;&emsp;(B) the costs of using prison labor to perform eligible work, including wages actually paid, transportation to a worksite, and extraordinary costs of guards, food, and lodging;
 
-&emsp;&emsp;(C) base and overtime wages for the employees and extra hires of a State, local government, or person described in paragraph (1) that perform eligible work, plus fringe benefits on such wages to the extent that such benefits were being paid before the major disaster.
+&emsp;&emsp;(C) base and overtime wages for the employees and extra hires of a State, local government, or person described in paragraph (1) that perform eligible work, plus fringe benefits on such wages to the extent that such benefits were being paid before the major disaster; and
+
+&emsp;&emsp;(D) base and overtime wages for extra hires to facilitate the implementation and enforcement of adopted building codes for a period of not more than 180 days after the major disaster is declared.
 
 #### (3) Conditions for assistance to private nonprofit facilities
 
@@ -39,6 +41,10 @@
 #### (B) Definition of critical services
 
 &emsp;&emsp;In this paragraph, the term "critical services" includes power, water (including water provided by an irrigation organization or facility), sewer, wastewater treatment, communications (including broadcast and telecommunications), education, and emergency medical care.
+
+#### (C) Religious facilities
+
+&emsp;&emsp;A church, synagogue, mosque, temple, or other house of worship, educational facility, or any other private nonprofit facility, shall be eligible for contributions under paragraph (1)(B), without regard to the religious character of the facility or the primary religious use of the facility. No house of worship, educational facility, or any other private nonprofit facility may be excluded from receiving contributions under paragraph (1)(B) because leadership or membership in the organization operating the house of worship is limited to persons who share a religious faith or practice.
 
 #### (4) Notification to Congress
 
@@ -66,13 +72,41 @@
 
 &emsp;&emsp;(B) the owner of which has failed to implement appropriate mitigation measures to address the hazard that caused the damage to the facility.
 
+#### (3) Increased Federal share
+
+#### (A) Incentive measures
+
+&emsp;&emsp;The President may provide incentives to a State or Tribal government to invest in measures that increase readiness for, and resilience from, a major disaster by recognizing such investments through a sliding scale that increases the minimum Federal share to 85 percent. Such measures may include—
+
+&emsp;&emsp;&emsp;(i) the adoption of a mitigation plan approved under section 5165 of this title;
+
+&emsp;&emsp;&emsp;(ii) investments in disaster relief, insurance, and emergency management programs;
+
+&emsp;&emsp;&emsp;(iii) encouraging the adoption and enforcement of the latest published editions of relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings' users against disasters;
+
+&emsp;&emsp;&emsp;(iv) facilitating participation in the community rating system; and
+
+&emsp;&emsp;&emsp;(v) funding mitigation projects or granting tax incentives for projects that reduce risk.
+
+#### (B) Comprehensive guidance
+
+&emsp;&emsp;Not later than 1 year after February 9, 2018, the President, acting through the Administrator, shall issue comprehensive guidance to State and Tribal governments regarding the measures and investments, weighted appropriately based on actuarial assessments of eligible actions, that will be recognized for the purpose of increasing the Federal share under this section. Guidance shall ensure that the agency's review of eligible measures and investments does not unduly delay determining the appropriate Federal cost share.
+
+#### (C) Report
+
+&emsp;&emsp;One year after the issuance of the guidance required by subparagraph (B), the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report regarding the analysis of the Federal cost shares paid under this section.
+
+#### (D) Savings clause
+
+&emsp;&emsp;Nothing in this paragraph prevents the President from increasing the Federal cost share above 85 percent.
+
 #### (c) Large in-lieu contributions
 
 #### (1) For public facilities
 
 #### (A) In general
 
-&emsp;&emsp;In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A), a contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
+&emsp;&emsp;In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A), a contribution in an amount equal to the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
 
 #### (B) Use of funds
 
@@ -96,7 +130,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In any case in which a person that owns or operates a private nonprofit facility determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing the facility, the person may elect to receive, in lieu of a contribution under subsection (a)(1)(B), a contribution in an amount equal to 75 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
+&emsp;&emsp;In any case in which a person that owns or operates a private nonprofit facility determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing the facility, the person may elect to receive, in lieu of a contribution under subsection (a)(1)(B), a contribution in an amount equal to the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
 
 #### (B) Use of funds
 
@@ -120,7 +154,7 @@
 
 #### (1) Reduction of Federal assistance
 
-&emsp;If a public facility or private nonprofit facility located in a special flood hazard area identified for more than 1 year by the Administrator pursuant to the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) is damaged or destroyed, after the 180th day following November 23, 1988, by flooding in a major disaster and such facility is not covered on the date of such flooding by flood insurance, the Federal assistance which would otherwise be available under this section with respect to repair, restoration, reconstruction, and replacement of such facility and associated expenses shall be reduced in accordance with paragraph (2).
+&emsp;If a public facility or private nonprofit facility located in a special flood hazard area identified for more than 1 year by the Administrator pursuant to the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) is damaged or destroyed, after the 180th day following November 23, 1988, by flooding in a major disaster and such facility is not covered on the date of such flooding by flood insurance, the Federal assistance which would otherwise be available under this section with respect to repair, restoration, reconstruction, and replacement of such facility and associated expenses shall be reduced in accordance with paragraph (2). This section shall not apply to more than one building of a multi-structure educational, law enforcement, correctional, fire, or medical campus, for any major disaster or emergency declared by the President under section 5170 or 5191, respectively, of this title on or after January 1, 2016, through December 31, 2018.
 
 #### (2) Amount of reduction
 
@@ -144,11 +178,13 @@
 
 #### (A) In general
 
-&emsp;&emsp;For the purposes of this section, the President shall estimate the eligible cost of repairing, restoring, reconstructing, or replacing a public facility or private nonprofit facility—
+&emsp;&emsp;For the purposes of this section, for disasters declared on or after August 1, 2017, or a disaster in which a cost estimate has not yet been finalized for a project, or for any project for which the finalized cost estimate is on appeal, the President shall estimate the eligible cost of repairing, restoring, reconstructing, or replacing a public facility or private nonprofit facility—
 
-&emsp;&emsp;&emsp;(i) on the basis of the design of the facility as the facility existed immediately before the major disaster; and
+&emsp;&emsp;&emsp;(i) on the basis of the design of the facility as the facility existed immediately before the major disaster;
 
-&emsp;&emsp;&emsp;(ii) in conformity with codes, specifications, and standards (including floodplain management and hazard mitigation criteria required by the President or under the Coastal Barrier Resources Act (16 U.S.C. 3501 et seq.)) applicable at the time at which the disaster occurred.
+&emsp;&emsp;&emsp;(ii) in conformity with the latest published editions of relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purposes of protecting the health, safety, and general welfare of a facility's users against disasters (including floodplain management and hazard mitigation criteria required by the President or under the Coastal Barrier Resources Act (16 U.S.C. 3501 et seq.)); and
+
+&emsp;&emsp;&emsp;(iii) in a manner that allows the facility to meet the definition of resilient developed pursuant to this subsection.
 
 #### (B) Cost estimation procedures
 
@@ -160,6 +196,10 @@
 
 &emsp;&emsp;&emsp;The procedures specified in this paragraph and paragraph (2) shall apply only to projects the eligible cost of which is equal to or greater than the amount specified in section 5189 of this title.
 
+#### (C) Contributions
+
+&emsp;&emsp;Contributions for the eligible cost made under this section may be provided on an actual cost basis or on cost-estimation procedures.
+
 #### (2) Modification of eligible cost
 
 #### (A) Actual cost greater than ceiling percentage of estimated cost
@@ -170,7 +210,7 @@
 
 #### (i) Greater than or equal to floor percentage of estimated cost
 
-&emsp;&emsp;&emsp;In any case in which the actual cost of repairing, restoring, reconstructing, or replacing a facility under this section is less than 100 percent of the cost estimated under paragraph (1), but is greater than or equal to the floor percentage established under paragraph (3) of the cost estimated under paragraph (1), the State or local government or person receiving funds under this section shall use the excess funds to carry out cost-effective activities that reduce the risk of future damage, hardship, or suffering from a major disaster.
+&emsp;&emsp;&emsp;In any case in which the actual cost of repairing, restoring, reconstructing, or replacing a facility under this section is less than 100 percent of the cost estimated under paragraph (1), but is greater than or equal to the floor percentage established under paragraph (3) of the cost estimatedunder paragraph (1), the State or local government or person receiving funds under this section shall use the excess funds to carry out cost-effective activities that reduce the risk of future damage, hardship, or suffering from a major disaster.
 
 #### (ii) Less than floor percentage of estimated cost
 
@@ -214,15 +254,35 @@
 
 &emsp;In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing the facility shall include, for the purposes of this section, only those costs that, under the contract for the construction, are the owner's responsibility and not the contractor's responsibility.
 
-(Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699; amended Pub. L. 106–390, title II, §205(a)–(d)(1), (e), Oct. 30, 2000, 114 Stat. 1562–1564, 1566; Pub. L. 109–295, title VI, §689h, Oct. 4, 2006, 120 Stat. 1453; Pub. L. 109–347, title VI, §609, Oct. 13, 2006, 120 Stat. 1942; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864; Pub. L. 114–111, §2(b), Dec. 18, 2015, 129 Stat. 2240.)
+#### (5) New rules
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 18 months after October 5, 2018, the President, acting through the Administrator of the Federal Emergency Management Agency, and in consultation with the heads of relevant Federal departments and agencies, shall issue a final rulemaking that defines the terms "resilient" and "resiliency" for purposes of this subsection.
+
+#### (B) Interim guidance
+
+&emsp;&emsp;Not later than 60 days after October 5, 2018, the Administrator shall issue interim guidance to implement this subsection. Such interim guidance shall expire 18 months after October 5, 2018, or upon issuance of final regulations pursuant to subparagraph (A), whichever occurs first.
+
+#### (C) Guidance
+
+&emsp;&emsp;Not later than 90 days after the date on which the Administrator issues the final rulemaking under this paragraph, the Administrator shall issue any necessary guidance related to the rulemaking.
+
+#### (D) Report
+
+&emsp;&emsp;Not later than 2 years after October 5, 2018, the Administrator shall submit to Congress a report summarizing the regulations and guidance issued pursuant to this paragraph.
+
+(Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699; amended Pub. L. 106–390, title II, §205(a)–(d)(1), (e), Oct. 30, 2000, 114 Stat. 1562–1564, 1566; Pub. L. 109–295, title VI, §689h, Oct. 4, 2006, 120 Stat. 1453; Pub. L. 109–347, title VI, §609, Oct. 13, 2006, 120 Stat. 1942; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864; Pub. L. 114–111, §2(b), Dec. 18, 2015, 129 Stat. 2240; Pub. L. 115–123, div. B, title VI, §§20604(b), 20606, Feb. 9, 2018, 132 Stat. 86; Pub. L. 115–254, div. D, §§1206(b), 1207(a), (b), 1235(b)–(d), Oct. 5, 2018, 132 Stat. 3440, 3463, 3464.)
 
 #### References in Text
+
+This chapter, referred to in subsecs. (b)(3)(A)(iii) and (e)(1)(A)(ii), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 The National Flood Insurance Act of 1968, referred to in subsecs. (c)(1)(C)(ii), (2)(C)(ii) and (d)(1), (2)(B), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 The National Flood Insurance Act, referred to in subsec. (d)(3), probably means the National Flood Insurance Act of 1968. See above.
 
-The Coastal Barrier Resources Act, referred to in subsec. (e)(1)(A)(ii), is Pub. L. 97–348, Oct. 18, 1982, 96 Stat. 1653, as amended, which is classified principally to chapter 55 (§3501 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 16 and Tables.
+The Coastal Barrier Resources Act, referred to in subsec. (e)(1)(A)(ii), is Pub. L. 97–348, Oct. 18, 1982, 96 Stat.1653, as amended, which is classified principally to chapter 55 (§3501 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 16 and Tables.
 
 #### Prior Provisions
 
@@ -231,6 +291,30 @@ A prior section 5172, Pub. L. 93–288, title IV, §402, May 22, 1974, 88 Stat. 
 A prior section 406 of Pub. L. 93–288 was renumbered section 409 by Pub. L. 100–707 and is classified to section 5176 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2)(D). Pub. L. 115–254, §1206(b), added subpar. (D).
+
+Subsec. (a)(3)(C). Pub. L. 115–123, §20604(b), added subpar. (C).
+
+Subsec. (b)(3). Pub. L. 115–123, §20606, added par. (3).
+
+Subsec. (c)(1)(A). Pub. L. 115–254, §1207(a)(1), struck out "90 percent of" before "the Federal share".
+
+Subsec. (c)(2)(A). Pub. L. 115–254, §1207(a)(2), struck out "75 percent of" before "the Federal share".
+
+Subsec. (d)(1). Pub. L. 115–254, §1207(b), inserted at end "This section shall not apply to more than one building of a multi-structure educational, law enforcement, correctional, fire, or medical campus, for any major disaster or emergency declared by the President under section 5170 or 5191, respectively, of this title on or after January 1, 2016, through December 31, 2018."
+
+Subsec. (e)(1)(A). Pub. L. 115–254, §1235(b)(1), inserted "for disasters declared on or after August 1, 2017, or a disaster in which a cost estimate has not yet been finalized for a project, or for any project for which the finalized cost estimate is on appeal," after "section," in introductory provisions.
+
+Subsec. (e)(1)(A)(i). Pub. L. 115–254, §1235(b)(2), struck out "and" at end.
+
+Subsec. (e)(1)(A)(ii). Pub. L. 115–254, §1235(b)(3), substituted "the latest published editions of relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purposes of protecting the health, safety, and general welfare of a facility's users against disasters" for "codes, specifications, and standards" and "(16 U.S.C. 3501 et seq.)); and" for "(16 U.S.C. 3501 et seq.)) applicable at the time at which the disaster occurred."
+
+Subsec. (e)(1)(A)(iii). Pub. L. 115–254, §1235(b)(4), added cl. (iii).
+
+Subsec. (e)(1)(C). Pub. L. 115–254, §1235(c), added subpar. (C).
+
+Subsec. (e)(5). Pub. L. 115–254, §1235(d), added par. (5).
 
 <b>2015</b>—Subsec. (a)(3)(B). Pub. L. 114–111 substituted "communications (including broadcast and telecommunications)," for "communications,".
 
@@ -270,13 +354,93 @@ Special rule.—In any case in which the facility being repaired, restored, reco
 
 Subsec. (f). Pub. L. 106–390, §205(e), struck out subsec. (f) which set out various associated expenses, including necessary and extraordinary costs, and costs of using the National Guard and prison labor.
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on orafter Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under section 5121 of this title.
+
+Amendment by section 20604(b) of Pub. L. 115–123 applicable to provision of assistance in response to major disaster or emergency declared on or after Aug. 23, 2017, or, with respect to any application for assistance that, as of Feb. 9, 2018, is pending before Federal Emergency Management Agency, and any application for assistance that has been denied, where a challenge to that denial is not yet finally resolved as of Feb. 9, 2018, see section 20604(c) of Pub. L. 115–123, set out as a note under section 5122 of this title.
+
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–390, title II, §205(d)(2), Oct. 30, 2000, 114 Stat. 1566, provided that: "The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Oct. 30, 2000\] and applies to funds appropriated after the date of the enactment of this Act, except that paragraph (1) of section 406(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[subsec. (e)(1) of this section\] (as amended by paragraph (1)) takes effect on the date on which the cost estimation procedures established under paragraph (3) of that section take effect."
+Pub. L. 106–390, title II, §205(d)(2), Oct. 30, 2000, 114 Stat. 1566, as amended by Pub. L. 115–254, div. D, §1235(e), Oct. 5, 2018, 132 Stat. 3464, provided that: "The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Oct. 30, 2000\] and applies to funds appropriated after the date of the enactment of this Act, except that paragraph (1)(B) of section 406(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[subsec. (e)(1) of this section\] (as amended by paragraph (1)) takes effect on the date on which the cost estimation procedures established under paragraph (3) of that section take effect."
 
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Guidance on Inundated and Submerged Roads
+
+Pub. L. 115–254, div. D, §1228, Oct. 5, 2018, 132 Stat. 3459, provided that: "The Administrator of the Federal Emergency Management Agency, in coordination with the Administrator of the Federal Highway Administration, shall develop and issue guidance for State, local, and Indian tribal governments regarding repair, restoration, and replacement of inundated and submerged roads damaged or destroyed by a major disaster, and for associated expenses incurred by the Government, with respect to roads eligible for assistance under section 406 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5172)."
+
+\[For definition of "State" as used in section 1228 of Pub. L. 115–254, set out above, see section 1203 of Pub. L. 115–254, set out as a note under section 5122 of this title.\]
+
+#### Guidance and Recommendations
+
+Pub. L. 115–254, div. D, §1230, Oct. 5, 2018, 132 Stat. 3459, provided that:
+
+"(a)
+
+Guidance.—The Administrator \[of the Federal Emergency Management Agency\] shall provide guidance to a common interest community that provides essential services of a governmental nature on actions that a common interest community may take in order to be eligible to receive reimbursement from a grantee that receives funds from the \[Federal Emergency Management\] Agency for certain activities performed after an event that results in a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170).
+
+"(b)
+
+Recommendations.—Not later than 90 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a legislative proposal on how to provide eligibility for disaster assistance with respect to common areas of condominiums and housing cooperatives.
+
+"(c)
+
+Effective Date.—This section shall be effective on the date of enactment of this Act."
+
+#### Post-Disaster Building Safety Assessment
+
+Pub. L. 115–254, div. D, §1241, Oct. 5, 2018, 132 Stat. 3466, provided that:
+
+"(a)
+
+Building Safety Assessment Team.—
+
+&emsp;"(1)
+
+In general.—The Administrator \[of the Federal Emergency Management Agency\] shall coordinate with State and local governments and organizations representing design professionals, such as architects and engineers, to develop guidance, including best practices, for post-disaster assessment of buildings by licensed architects and engineers to ensure the design professionals properly analyze the structural integrity and livability of buildings and structures.
+
+&emsp;"(2)
+
+Publication.—The Administrator shall publish the guidance required to be developed under paragraph (1) not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\].
+
+"(b)
+
+National Incident Management System.—The Administrator shall revise or issue guidance as required to the National Incident Management System Resource Management component to ensure the functions of post-disaster building safety assessment, such as those functions performed by design professionals are accurately resource typed within the National Incident Management System.
+
+"(c)
+
+Effective Date.—This section shall be effective on the date of enactment of this Act."
+
+\[For definition of "State" as used in section 1241 of Pub. L. 115–254, set out above, see section 1203 of Pub. L. 115–254, set out as a note under section 5122 of this title.\]
+
+#### Review of Assistance for Damaged Underground Water Infrastructure
+
+Pub. L. 115–254, div. D, §1245, Oct. 5, 2018, 132 Stat. 3468, provided that:
+
+"(a)
+
+Definition of Public Assistance Grant Program.—The term 'public assistance grant program' means the public assistance grant program authorized under sections 403, 406, 407, 428, and 502(a) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170b, 5172, 5173, \[5189f,\] 5192(a)).
+
+"(b)
+
+Review and Briefing.—Not later than 60 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Emergency Management Agency\] shall—
+
+&emsp;"(1) conduct a review of the assessment and eligibility process under the public assistance grant program with respect to assistance provided for damaged underground water infrastructure as a result of a major disaster declared under section 401 of such Act (42 U.S.C. 5170), including wildfires, and shall include the extent to which local technical memoranda, prepared by a local unit of government in consultation with the relevant State or Federal agencies, identified damaged underground water infrastructure that should be eligible for the public assistance grant program; and
+
+&emsp;"(2) provide to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on the review conducted under paragraph (1).
+
+"(c)
+
+Report and Recommendations.—The Administrator shall—
+
+&emsp;"(1) not later than 180 days after the date of enactment of this Act, issue a report on the review conducted under subsection (b)(1); and
+
+&emsp;"(2) not later than 180 days after the date on which the Administrator issues the report required under paragraph (1), initiate a rulemaking, if appropriate, to address any recommendations contained in the report."
+
+\[For definition of "State" as used in section 1245 of Pub. L. 115–254, set out above, see section 1203 of Pub. L. 115–254, set out as a note under section 5122 of this title.\]
 

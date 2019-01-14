@@ -8,7 +8,7 @@ In case of disability or death resulting from injury, as defined by section 2(2)
 
 > compensation shall be provided in accordance with regulations prescribed by the Secretary of the military department concerned and approved by the Secretary of Defense or regulations prescribed by the Secretary of Transportation, as the case may be.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 556; Pub. L. 103–272, §4(b)(3), July 5, 1994, 108 Stat. 1361; Pub. L. 103–337, div. A, title X, §1070(d)(8)(B), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §1505(b)(2), Feb. 10, 1996, 110 Stat. 514.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 556; Pub. L. 103–272, §4(b)(3), July 5, 1994, 108 Stat. 1361; Pub.L. 103–337, div. A, title X, §1070(d)(8)(B), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §1505(b)(2), Feb. 10, 1996, 110 Stat. 514.)
 
 Historical and Revision Notes
 

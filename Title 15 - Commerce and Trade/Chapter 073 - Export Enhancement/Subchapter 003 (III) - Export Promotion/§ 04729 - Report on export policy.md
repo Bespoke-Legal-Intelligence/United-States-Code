@@ -34,7 +34,7 @@ Not later than May 31 of each year, the Secretary of Commerce shall submit to th
 
 &emsp;&emsp;(G) the status, activities, and effectiveness of the United States commercial centers established under section 4723a of this title;
 
-&emsp;&emsp;(H) the implementation of sections 5821 and 5822 of title 22 <sup>1</sup> concerning AmericanBusiness Centers and the Independent States Business and Agriculture Advisory Council;
+&emsp;&emsp;(H) the implementation of sections 5821 and 5822 of title 22 <sup>1</sup> concerning American Business Centers and the Independent States Business and Agriculture Advisory Council;
 
 &emsp;&emsp;(I) the programs of other industrialized nations to assist their companies with their efforts to transact business in the independent states of the former Soviet Union; and
 

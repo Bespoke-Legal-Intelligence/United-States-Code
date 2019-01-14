@@ -75,7 +75,7 @@
 | [<b>64.</b>](Chapter%20064%20-%20Excellence%20in%20Mathematics%2C%20Science%2C%20and%20Engineering%20Education/README.md) | <b>Excellence in Mathematics, Science, and Engineering Education \[Repealed\]</b> | <b>5301</b> |
 | [<b>65.</b>](Chapter%20065%20-%20National%20Environmental%20Education/README.md) | <b>National Environmental Education</b> | <b>5501</b> |
 | [<b>66.</b>](Chapter%20066%20-%20Morris%20K.%20Udall%20and%20Stewart%20L.%20Udall%20Foundation/README.md) | <b>Morris K. Udall and Stewart L. Udall Foundation</b> | <b>5601</b> |
-| [<b>67.</b>](Chapter%20067%20-%20Christopher%20Columbus%20Fellowship%20Foundation/README.md) | <b>Christopher Columbus Fellowship Foundation</b> | <b>5701</b> |
+| [<b>67.</b>](Chapter%20067%20-%20Christopher%20Columbus%20Fellowship%20Foundation/README.md) | <b>Christopher Columbus Fellowship Foundation \[Repealed\]</b> | <b>5701</b> |
 | [<b>68.</b>](Chapter%20068%20-%20National%20Education%20Reform/README.md) | <b>National Education Reform</b> | <b>5801</b> |
 | [<b>69.</b>](Chapter%20069%20-%20School-to-Work%20Opportunities/README.md) | <b>School-to-Work Opportunities \[Omitted\]</b> | <b>6101</b> |
 | [<b>70.</b>](Chapter%20070%20-%20Strengthening%20and%20Improvement%20of%20Elementary%20and%20Secondary%20Schools/README.md) | <b>Strengthening and Improvement of Elementary and Secondary Schools</b> | <b>6301</b> |

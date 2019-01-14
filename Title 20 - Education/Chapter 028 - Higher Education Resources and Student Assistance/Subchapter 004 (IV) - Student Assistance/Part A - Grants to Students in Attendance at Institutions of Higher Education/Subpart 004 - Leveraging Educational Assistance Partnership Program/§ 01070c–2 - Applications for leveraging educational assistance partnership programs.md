@@ -20,7 +20,7 @@ From a State's allotment under this subpart for any fiscal year the Secretary is
 
 &emsp;&emsp;(C) grants for such jobs be made in accordance with the provisions of section 1087–53(b)(1) of this title;
 
-&emsp;(4) provides for the selection of recipients of such grants or of such State work-study jobson the basis of substantial financial need determined annually on the basis of criteria established by the State and approved by the Secretary, except that for the purpose of collecting data to make such determination of financial need, no student or parent shall be charged a fee that is payable to an entity other than such State;
+&emsp;(4) provides for the selection of recipients of such grants or of such State work-study jobs on the basis of substantial financial need determined annually on the basis of criteria established by the State and approved by the Secretary, except that for the purpose of collecting data to make such determination of financial need, no student or parent shall be charged a fee that is payable to an entity other than such State;
 
 &emsp;(5) provides that, effective with respect to any academic year beginning on or after October 1, 1978, all nonprofit institutions of higher education in the State are eligible to participate in the State program, except in any State in which participation of nonprofit institutions of higher education is in violation of the constitution of the State or in any State in which participation of nonprofit institutions of higher education is in violation of a statute of the State which was enacted prior to October 1, 1978;
 

@@ -50,7 +50,7 @@ Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug 
 
 #### (7) Elements to assure safe use
 
-&emsp;In the case of a drug that is compounded from a drug that is the subject of a risk evaluation and mitigation strategy approved with elements to assure safe use pursuant to section 355–1 of this title, or from a bulk drug substance that is a component of such drug, the outsourcing facility demonstrates to the Secretary prior to beginning compounding that such facility will utilize controls comparable to the controls applicable under the relevant risk evaluation and mitigation strategy.
+&emsp;In the case of a drug that is compounded from a drug that is the subject of a risk evaluation and mitigation strategy approved with elements to assure safe use pursuant to section 355–1 of this title, or from a bulk drug substance that is a component of such drug, the outsourcing facility demonstrates to the Secretary prior to beginning compoundingthat such facility will utilize controls comparable to the controls applicable under the relevant risk evaluation and mitigation strategy.
 
 #### (8) Prohibition on wholesaling
 
@@ -116,7 +116,7 @@ Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug 
 
 #### (A) Annual registration
 
-&emsp;&emsp;Upon electing and in order to become an outsourcing facility, and during the periodbeginning on October 1 and ending on December 31 of each year thereafter, a facility—
+&emsp;&emsp;Upon electing and in order to become an outsourcing facility, and during the period beginning on October 1 and ending on December 31 of each year thereafter, a facility—
 
 &emsp;&emsp;&emsp;(i) shall register with the Secretary its name, place of business, and unique facility identifier (which shall conform to the requirements for the unique facility identifier established under section 360 of this title), and a point of contact email address; and
 
@@ -196,7 +196,7 @@ Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug 
 
 #### (2) Advisory committee on compounding
 
-&emsp;Before issuing regulations to implement subsection (a)(6), the Secretary shall convene and consult an advisory committee on compounding. The advisory committee shall include representatives from the National Association ofBoards of Pharmacy, the United States Pharmacopeia, pharmacists with current experience and expertise in compounding, physicians with background and knowledge in compounding, and patient and public health advocacy organizations.
+&emsp;Before issuing regulations to implement subsection (a)(6), the Secretary shall convene and consult an advisory committee on compounding. The advisory committee shall include representatives from the National Association of Boards of Pharmacy, the United States Pharmacopeia, pharmacists with current experience and expertise in compounding, physicians with background and knowledge in compounding, and patient and public health advocacy organizations.
 
 #### (3) Interim list
 

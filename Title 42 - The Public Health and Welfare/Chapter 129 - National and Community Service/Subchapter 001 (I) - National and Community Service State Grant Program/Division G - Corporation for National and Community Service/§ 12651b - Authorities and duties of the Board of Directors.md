@@ -40,7 +40,7 @@ For purposes of the provisions of chapter 11 of part I of title 18, and any othe
 
 &emsp;This subsection shall not be construed—
 
-&emsp;&emsp;(A) to affect any other immunities and protections that may be available to such member under applicable law with respect to such transactions;
+&emsp;&emsp;(A) to affect any other immunities and protections that may be available to suchmember under applicable law with respect to such transactions;
 
 &emsp;&emsp;(B) to affect any other right or remedy against the Corporation, against the United States under applicable law, or against any person other than a member of the Board participating in such transactions; or
 
@@ -82,7 +82,7 @@ The Board shall have responsibility for setting overall policy for the Corporati
 
 &emsp;&emsp;&emsp;(ii) shall provide that the program (including any program operated by another Federal agency) will comply with all requirements related to evaluation, performance, and other goals applicable to similar programs under the national service laws, as determined by the Corporation,
 
-&emsp;(11) prepare and make recommendations to the authorizing committees and the Presidentfor changes in the national service laws resulting from the studies and demonstrations the Chief Executive Officer is required to carry out under section 12651d(b)(11) of this title, which recommendations shall be submitted to the authorizing committees and President not later than January 1, 2012.
+&emsp;(11) prepare and make recommendations to the authorizing committees and the President for changes in the national service laws resulting from the studies and demonstrations the Chief Executive Officer is required to carry out under section 12651d(b)(11) of this title, which recommendations shall be submitted to the authorizing committees and President not later than January 1, 2012.
 
 #### (h) Administration
 
@@ -100,7 +100,7 @@ As part of the agenda of meetings of the Board under subsection (a), the Board s
 
 #### References in Text
 
-Section 8E of the Inspector General Act of 1978, referred to in subsec. (g)(6), is section 8E of Pub. L. 95–452, as added by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 8E of the Inspector General Act of 1978, referred to in subsec. (g)(6), is section 8E of Pub. L. 95–452,as added by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (g)(10)(A), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 

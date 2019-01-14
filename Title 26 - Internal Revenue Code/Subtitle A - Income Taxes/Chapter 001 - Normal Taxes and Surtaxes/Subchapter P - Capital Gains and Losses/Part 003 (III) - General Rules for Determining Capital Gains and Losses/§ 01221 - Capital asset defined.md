@@ -4,7 +4,7 @@
 
 For purposes of this subtitle, the term "capital asset" means property held by the taxpayer (whether or not connected with his trade or business), but does not include—
 
-&emsp;(1) stock in trade of the taxpayer or other property of a kind which would properly be included in the inventory of the taxpayer if on hand at the close of the taxable year, or property held by the taxpayer primarily for sale to customers in the ordinary course of his trade or business;
+&emsp;(1) stock in trade of the taxpayer or other property of a kind which would properly be included in the inventory of the taxpayer if onhand at the close of the taxable year, or property held by the taxpayer primarily for sale to customers in the ordinary course of his trade or business;
 
 &emsp;(2) property, used in his trade or business, of a character which is subject to the allowance for depreciation provided in section 167, or real property used in his trade or business;
 
@@ -82,7 +82,7 @@ For purposes of this subtitle, the term "capital asset" means property held by t
 
 #### (3) Sale or exchange of self-created musical works
 
-&emsp;At the election of the taxpayer, paragraphs (1) and (3) of subsection (a) shall not apply to musical compositions or copyrights in musical works sold or exchanged by a taxpayer described in subsection (a)(3).
+&emsp;At the election of the taxpayer, paragraphs (1) and (3) of subsection (a) shall not apply tomusical compositions or copyrights in musical works sold or exchanged by a taxpayer described in subsection (a)(3).
 
 #### (4) Regulations
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to property acquired and positions established by the taxpayerafter June 23, 1981, in taxable years ending after such date, and applicable when so elected with respect to property held on June 23, 1981, see section 508 of Pub. L. 97–34, set out as an Effective Date note under section 1092 of this title.
+Amendment by Pub. L. 97–34 applicable to property acquired and positions established by the taxpayer after June 23, 1981, in taxable years ending after such date, and applicable when so elected with respect to property held on June 23, 1981, see section 508 of Pub. L. 97–34, set out as an Effective Date note under section 1092 of this title.
 
 #### Effective Date of 1976 Amendment
 

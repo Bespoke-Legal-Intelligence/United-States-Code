@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;On March 31, 2013, and on the 90th day of each calendar year beginning thereafter, anyapplicable manufacturer that provides a payment or other transfer of value to a covered recipient (or to an entity or individual at the request of or designated on behalf of a covered recipient), shall submit to the Secretary, in such electronic form as the Secretary shall require, the following information with respect to the preceding calendar year:
+&emsp;&emsp;On March 31, 2013, and on the 90th day of each calendar year beginning thereafter, any applicable manufacturer that provides a payment or other transfer of value to a covered recipient (or to an entity or individual at the request of or designated on behalf of a covered recipient), shall submit to the Secretary, in such electronic form as the Secretary shall require, the following information with respect to the preceding calendar year:
 
 &emsp;&emsp;&emsp;(i) The name of the covered recipient.
 
@@ -88,7 +88,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;The total amount of civil money penalties imposed under subparagraph (A) with respect to each annual submission of information under subsection (a) by an applicablemanufacturer or applicable group purchasing organization shall not exceed $150,000.
+&emsp;&emsp;The total amount of civil money penalties imposed under subparagraph (A) with respect to each annual submission of information under subsection (a) by an applicable manufacturer or applicable group purchasing organization shall not exceed $150,000.
 
 #### (2) Knowing failure to report
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;&emsp;(vii) contains any other information the Secretary determines would be helpful to the average consumer;
 
-&emsp;&emsp;&emsp;(viii) does not contain the National Provider Identifier of the covered recipient, and
+&emsp;&emsp;&emsp;(viii) in the case of information made available under this subparagraph prior to January 1, 2022, does not contain the National Provider Identifier of the covered recipient, and
 
 &emsp;&emsp;&emsp;(ix) subject to subparagraph (D), provides the applicable manufacturer, applicable group purchasing organization, or covered recipient an opportunity to review and submit corrections to the information submitted with respect to the applicable manufacturer, applicable group purchasing organization, or covered recipient, respectively, for a period of not less than 45 days prior to such information being made available to the public.
 
@@ -192,7 +192,7 @@ No preemption of additional requirements.—Subparagraph (A) shall not preempt a
 
 &emsp;&emsp;(ii) described in subsection (e)(10)(B), except in the case of information described in clause (i) of such subsection;
 
-&emsp;&emsp;(iii) by any person or entity other than an applicable manufacturer (as so defined) or a covered recipient (as defined in subsection (e)); or
+&emsp;&emsp;(iii) by any person or entity other than an applicable manufacturer (as so defined) or acovered recipient (as defined in subsection (e)); or
 
 &emsp;&emsp;(iv) to a Federal, State, or local governmental agency for public health surveillance, investigation, or other public health purposes or health oversight purposes.
 
@@ -236,9 +236,15 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) A teaching hospital.
 
+&emsp;&emsp;&emsp;(iii) A physician assistant, nurse practitioner, or clinical nurse specialist (as such terms are defined in section 1395x(aa)(5) of this title).
+
+&emsp;&emsp;&emsp;(iv) A certified registered nurse anesthetist (as defined in section 1395x(bb)(2) of this title).
+
+&emsp;&emsp;&emsp;(v) A certified nurse-midwife (as defined in section 1395x(gg)(2) of this title).
+
 #### (B) Exclusion
 
-&emsp;&emsp;Such term does not include a physician who is an employee of the applicable manufacturer that is required to submit information under subsection (a).
+&emsp;&emsp;Such term does not include a physician, physician assistant, nurse practitioner, clinical nurse specialist, certified nurse anesthetist, or certified nurse-midwife who is an employee of the applicable manufacturer that is required to submit information under subsection (a).
 
 #### (7) Employee
 
@@ -268,7 +274,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) Educational materials that directly benefit patients or are intended for patient use.
 
-&emsp;&emsp;&emsp;(iv) The loan of a covered device for a short-term trial period, not to exceed 90 days, to permit evaluation of the covered device by the covered recipient.
+&emsp;&emsp;&emsp;(iv) The loan of a covered device for a short-term trial period, not to exceed 90days, to permit evaluation of the covered device by the covered recipient.
 
 &emsp;&emsp;&emsp;(v) Items or services provided under a contractual warranty, including the replacement of a covered device, where the terms of the warranty are set forth in the purchase or lease agreement for the covered device.
 
@@ -290,5 +296,25 @@ In this section:
 
 &emsp;The term "physician" has the meaning given that term in section 1395x(r) of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128G, as added Pub. L. 111–148, title VI, §6002, Mar. 23, 2010, 124 Stat. 689.)
+(Aug. 14, 1935, ch. 531, title XI, §1128G, as added Pub. L. 111–148, title VI, §6002, Mar. 23, 2010, 124 Stat. 689; amended Pub. L. 115–271, title VI, §6111(a)(1), (b), Oct. 24, 2018, 132 Stat. 4006, 4007.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 6111(a)(1) of Pub. L. 115–271 applicable with respect to information required to be submitted under this section on or after Jan. 1, 2022. See 2018 Amendment notes below.</i>
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c)(1)(C)(viii). Pub. L. 115–271, §6111(b), substituted "in the case of information made available under this subparagraph prior to January 1, 2022, does not contain" for "does not contain".
+
+Subsec. (e)(6)(A)(iii) to (v). Pub. L. 115–271, §6111(a)(1)(A), added cls. (iii) to (v).
+
+Subsec. (e)(6)(B). Pub. L. 115–271, §6111(a)(1)(B), inserted ", physician assistant, nurse practitioner, clinical nurse specialist, certified nurse anesthetist, or certified nurse-midwife" after "physician".
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–271, title VI, §6111(a)(2), Oct. 24, 2018, 132 Stat. 4006, provided that: "The amendments made by this subsection \[amending this section\] shall apply with respect to information required to be submitted under section 1128G of the Social Security Act (42 U.S.C. 1320a–7h) on or after January 1, 2022."
+
+#### Administration
+
+Pub. L. 115–271, title VI, §6111(c), Oct. 24, 2018, 132 Stat. 4007, provided that: "Chapter 35 of title 44, United States Code, shall not apply to this section \[amending this section and enacting provisions set out as notes under this section\] or the amendments made by this section."
 

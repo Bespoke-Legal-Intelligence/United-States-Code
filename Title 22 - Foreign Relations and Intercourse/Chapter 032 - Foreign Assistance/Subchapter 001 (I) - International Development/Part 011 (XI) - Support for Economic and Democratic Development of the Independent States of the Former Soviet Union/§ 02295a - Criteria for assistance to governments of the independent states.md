@@ -38,7 +38,7 @@ In providing assistance under this part for the government of any independent st
 
 The President shall not provide assistance under this part—
 
-&emsp;(1) for the government of any independent state that the President determines is engaged in a consistent pattern of gross violations of internationally recognized human rights or of international law;
+&emsp;(1) for the government of any independent state that the President determines is engagedin a consistent pattern of gross violations of internationally recognized human rights or of international law;
 
 &emsp;(2) for the government of any independent state that the President determines has failed to take constructive actions to facilitate the effective implementation of applicable arms control obligations derived from agreements signed by the former Soviet Union;
 
@@ -100,7 +100,7 @@ Assistance prohibited by subsection (b) or any similar provision of law, other t
 
 &emsp;&emsp;(F) assistance under the secondary school exchange program administered by the United States Information Agency; or
 
-&emsp;&emsp;(G) assistance for the purposes described in the Cooperative Threat Reduction Act of 1993 (title XII of Public Law 103–160) \[22 U.S.C. 5951 et seq.\].
+&emsp;&emsp;(G) assistance for the purposes described in the Cooperative Threat Reduction Act of1993 (title XII of Public Law 103–160) \[22 U.S.C. 5951 et seq.\].
 
 (Pub. L. 87–195, pt. I, §498A, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3326; amended Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519; Pub. L. 104–114, title I, §106(b), (c)(1), (3), (d)(2), Mar. 12, 1996, 110 Stat. 795–797.)
 

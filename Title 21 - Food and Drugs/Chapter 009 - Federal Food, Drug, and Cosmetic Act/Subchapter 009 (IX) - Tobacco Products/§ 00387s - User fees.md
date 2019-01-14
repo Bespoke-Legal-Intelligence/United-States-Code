@@ -66,7 +66,7 @@ Beginning on June 22, 2009, the Secretary shall in accordance with this section 
 
 #### (iv) Reallocations
 
-&emsp;&emsp;&emsp;In the case of a class of tobacco products that is not listed in section 387a(b) of thistitle or deemed by the Secretary in a regulation under section 387a(b) of this title to be subject to this subchapter, the amount of user fees that would otherwise be assessed to such class of tobacco products shall be reallocated to the classes of tobacco products that are subject to this subchapter in the same manner and based on the same relative percentages otherwise determined under clause (ii).
+&emsp;&emsp;&emsp;In the case of a class of tobacco products that is not listed in section 387a(b) of this title or deemed by the Secretary in a regulation under section 387a(b) of this title to be subject to this subchapter, the amount of user fees that would otherwise be assessed to such class of tobacco products shall be reallocated to the classes of tobacco products that are subject to this subchapter in the same manner and based on the same relative percentages otherwise determined under clause (ii).
 
 #### (3) Determination of user fee by company
 

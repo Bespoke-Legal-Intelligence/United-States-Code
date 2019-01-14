@@ -1,0 +1,114 @@
+### §1301. Sewer overflow and stormwater reuse municipal grants
+
+#### (a) In general
+
+#### (1) Grants to States
+
+&emsp;The Administrator may make grants to States for the purpose of providing grants to a municipality or municipal entity for planning, design, and construction of—
+
+&emsp;&emsp;(A) treatment works to intercept, transport, control, treat, or reuse municipal combined sewer overflows, sanitary sewer overflows, or stormwater; and
+
+&emsp;&emsp;(B) any other measures to manage, reduce, treat, or recapture stormwater or subsurface drainage water eligible for assistance under section 1383(c) of this title.
+
+#### (2) Direct municipal grants
+
+&emsp;Subject to subsection (g), the Administrator may make a direct grant to a municipality or municipal entity for the purposes described in paragraph (1).
+
+#### (b) Prioritization
+
+In selecting from among municipalities applying for grants under subsection (a), a State or the Administrator shall give priority to an applicant that—
+
+&emsp;(1) is a municipality that is a financially distressed community under subsection (c);
+
+&emsp;(2) has implemented or is complying with an implementation schedule for the nine minimum controls specified in the CSO control policy referred to in section 1342(q)(1) of this title and has begun implementing a long-term municipal combined sewer overflow control plan or a separate sanitary sewer overflow control plan;
+
+&emsp;(3) is requesting a grant for a project that is on a State's intended use plan pursuant to section 1386(c) of this title; or
+
+&emsp;(4) is an Alaska Native Village.
+
+#### (c) Financially distressed community
+
+#### (1) Definition
+
+&emsp;In subsection (b), the term "financially distressed community" means a community that meets affordability criteria established by the State in which the community is located, if such criteria are developed after public review and comment.
+
+#### (2) Consideration of impact on water and sewer rates
+
+&emsp;In determining if a community is a distressed community for the purposes of subsection (b), the State shall consider, among other factors, the extent to which the rate of growth of a community's tax base has been historically slow such that implementing a plan described in subsection (b)(2) would result in a significant increase in any water or sewer rate charged by the community's publicly owned wastewater treatment facility.
+
+#### (3) Information to assist States
+
+&emsp;The Administrator may publish information to assist States in establishing affordability criteria under paragraph (1).
+
+#### (d) Cost-sharing
+
+The Federal share of the cost of activities carried out using amounts from a grant made under subsection (a) shall be not less than 55 percent of the cost. The non-Federal share of the cost may include, in any amount, public and private funds and in-kind services, and may include, notwithstanding section 1383(h) of this title, financial assistance, including loans, from a State water pollution control revolving fund.
+
+#### (e) Administrative requirements
+
+A project that receives assistance under this section shall be carried out subject to the same requirements as a project that receives assistance from a State water pollution control revolving fund under subchapter VI of this chapter, except to the extent that the Governor of the State in which the project is located determines that a requirement of subchapter VI of this chapter is inconsistent with the purposes of this section. For the purposes of this subsection, a Governor may not determine that the requirements of subchapter VI of this chapter relating to the application of section 1372 of this title are inconsistent with the purposes of this section.
+
+#### (f) Authorization of appropriations
+
+#### (1) In general
+
+&emsp;There is authorized to be appropriated to carry out this section $225,000,000 for each of fiscal years 2019 through 2020.
+
+#### (2) Minimum allocations
+
+&emsp;To the extent there are sufficient eligible project applications, the Administrator shall ensure that a State uses not less than 20 percent of the amount of the grants made to the State under subsection (a) in a fiscal year to carry out projects to intercept, transport, control, treat, or reuse municipal combined sewer overflows, sanitary sewer overflows, or stormwater through the use of green infrastructure, water and energy efficiency improvements, and other environmentally innovative activities.
+
+#### (g) Allocation of funds
+
+#### (1) Fiscal year 2019
+
+&emsp;Subject to subsection (h), the Administrator shall use the amounts appropriated to carry out this section for fiscal year 2019 for making grants to municipalities and municipal entities under subsection (a)(2) in accordance with the criteria set forth in subsection (b).
+
+#### (2) Fiscal year 2020 and thereafter
+
+&emsp;Subject to subsection (h), the Administrator shall use the amounts appropriated to carry out this section for fiscal year 2020 and each fiscal year thereafter for making grants to States under subsection (a)(1) in accordance with a formula to be established by the Administrator, after providing notice and an opportunity for public comment, that allocates to each State a proportional share of such amounts based on the total needs of the State for municipal combined sewer overflow controls, sanitary sewer overflow controls, and stormwater identified in the most recent detailed estimate and comprehensive study submitted pursuant to section 1375 of this title and any other information the Administrator considers appropriate.
+
+#### (h) Administrative expenses
+
+Of the amounts appropriated to carry out this section for each fiscal year—
+
+&emsp;(1) the Administrator may retain an amount not to exceed 1 percent for the reasonable and necessary costs of administering this section; and
+
+&emsp;(2) the Administrator, or a State, may retain an amount not to exceed 4 percent of any grant made to a municipality or municipal entity under subsection (a), for the reasonable and necessary costs of administering the grant.
+
+#### (i) Reports
+
+Not later than December 31, 2003, and periodically thereafter, the Administrator shall transmit to Congress a report containing recommended funding levels for grants under this section. The recommended funding levels shall be sufficient to ensure the continued expeditious implementation of municipal combined sewer overflow and sanitary sewer overflow controls nationwide.
+
+(June 30, 1948, ch. 758, title II, §221, as added Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–225; amended Pub. L. 115–270, title IV, §4106, Oct. 23, 2018, 132 Stat. 3875.)
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–270, §4106(1), substituted "Sewer overflow and stormwater reuse municipal grants" for "Sewer overflow control grants" in section catchline.
+
+Subsec. (a). Pub. L. 115–270, §4106(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to purposes for making sewer overflow control grants to States, municipalities, and municipal entities.
+
+Subsec. (e). Pub. L. 115–270, §4106(3), amended subsec. (e) generally. Prior to amendment, text read as follows: "If a project receives grant assistance under subsection (a) and loan assistance from a State water pollution control revolving fund and the loan assistance is for 15 percent or more of the cost of the project, the project may be administered in accordance with State water pollution control revolving fund administrative reporting requirements for the purposes of streamlining such requirements."
+
+Subsec. (f). Pub. L. 115–270, §4106(4), amended subsec. (f) generally. Prior to amendment, text read as follows: "There is authorized to be appropriated to carry out this section $750,000,000 for each of fiscal years 2002 and 2003. Such sums shall remain available until expended."
+
+Subsec. (g). Pub. L. 115–270, §4106(5), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to allocation of funds.
+
+#### Information on CSOS and SSOS
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–227, provided that:
+
+"(1)
+
+Report to congress.—Not later than 3 years after the date of enactment of this Act \[Dec. 21, 2000\], the Administrator of the Environmental Protection Agency shall transmit to Congress a report summarizing—
+
+&emsp;"(A) the extent of the human health and environmental impacts caused by municipal combined sewer overflows and sanitary sewer overflows, including the location of discharges causing such impacts, the volume of pollutants discharged, and the constituents discharged;
+
+&emsp;"(B) the resources spent by municipalities to address these impacts; and
+
+&emsp;"(C) an evaluation of the technologies used by municipalities to address these impacts.
+
+"(2)
+
+Technology clearinghouse.—After transmitting a report under paragraph (1), the Administrator shall maintain a clearinghouse of cost-effective and efficient technologies for addressing human health and environmental impacts due to municipal combined sewer overflows and sanitary sewer overflows."
+

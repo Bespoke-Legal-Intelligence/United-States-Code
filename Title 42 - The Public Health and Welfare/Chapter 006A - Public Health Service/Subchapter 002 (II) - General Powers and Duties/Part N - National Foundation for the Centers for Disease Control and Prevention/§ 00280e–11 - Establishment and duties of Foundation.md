@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There shall be established in accordance with this section a nonprofit private corporation to be known as the National Foundation for the Centers for Disease Control and Prevention (in this part referred to as the "Foundation"). The Foundation shall not be an agency or instrumentality of the Federal Government, and officers, employees, and members of the board of the Foundation shall not be officers or employees of the Federal Government.
+There shall be established in accordance with this section a nonprofit private corporation tobe known as the National Foundation for the Centers for Disease Control and Prevention (in this part referred to as the "Foundation"). The Foundation shall not be an agency or instrumentality of the Federal Government, and officers, employees, and members of the board of the Foundation shall not be officers or employees of the Federal Government.
 
 #### (b) Purpose of Foundation
 
@@ -72,7 +72,7 @@ In carrying out subsection (b), the Foundation may provide for the following wit
 
 &emsp;(B) In establishing bylaws under subsection (e)(1), the Board shall ensure that the bylaws of the Foundation (and activities carried out under the bylaws) do not—
 
-&emsp;&emsp;(i) reflect unfavorably upon the ability of the Foundation, or the Centers for Disease Control and Prevention, to carry out its responsibilities or official duties in a fair and objective manner; or
+&emsp;&emsp;(i) reflect unfavorably upon the ability of the Foundation, or the Centers for DiseaseControl and Prevention, to carry out its responsibilities or official duties in a fair and objective manner; or
 
 &emsp;&emsp;(ii) compromise, or appear to compromise, the integrity of any governmental program or any officer or employee involved in such program.
 
@@ -84,7 +84,7 @@ In carrying out subsection (b), the Foundation may provide for the following wit
 
 #### (3) Chair
 
-&emsp;The Board shall, from among the members of the Board, designate an individual to serveas the chair of the Board (in this subsection referred to as the "Chair").
+&emsp;The Board shall, from among the members of the Board, designate an individual to serve as the chair of the Board (in this subsection referred to as the "Chair").
 
 #### (4) Appointments, vacancies, and terms
 
@@ -212,7 +212,7 @@ In carrying out subsection (e)(2), the Director shall carry out the following fu
 
 #### (3) Certain restriction
 
-&emsp;If the Foundation receives Federal funds for the purpose of serving as a fiscal intermediary between Federal agencies, the Foundation may not receive such funds for the indirect costs of carrying out such purpose in an amount exceeding 10 percent of the direct costs of carrying out such purpose. The preceding sentence may not be construed as authorizing the expenditure of any grant under paragraph (1) for such purpose.
+&emsp;If the Foundation receives Federal funds for the purpose of serving as a fiscal intermediarybetween Federal agencies, the Foundation may not receive such funds for the indirect costs of carrying out such purpose in an amount exceeding 10 percent of the direct costs of carrying out such purpose. The preceding sentence may not be construed as authorizing the expenditure of any grant under paragraph (1) for such purpose.
 
 #### (4) Support services
 
@@ -290,7 +290,7 @@ In carrying out subsection (e)(2), the Director shall carry out the following fu
 
 #### References in Text
 
-The Ethics in Government Act, referred to in subsec. (h)(4)(A), probably means the Ethics in Government Act of 1978, Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 ofPub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+The Ethics in Government Act, referred to in subsec. (h)(4)(A), probably means the Ethics in Government Act of 1978, Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
 The Technology Transfer Act, referred to in subsec. (h)(4)(A), may mean the Federal Technology Transfer Act of 1986, Pub. L. 99–502, Oct. 20, 1986, 100 Stat. 1785, as amended, or the National Competitiveness Technology Transfer Act of 1989, part C (§§3131–3133) of title XXXI of div. C of Pub. L. 101–189, Nov. 29, 1989, 103 Stat. 1674. For complete classification of these Acts to the Code, see Short Title of 1986 Amendment note and Short Title of 1989 Amendment note both set out under section 3701 of Title 15, Commerce and Trade, and Tables.
 

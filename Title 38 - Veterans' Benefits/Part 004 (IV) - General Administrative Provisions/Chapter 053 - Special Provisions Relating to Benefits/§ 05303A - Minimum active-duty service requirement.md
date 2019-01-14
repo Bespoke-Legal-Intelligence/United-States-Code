@@ -130,7 +130,7 @@ Amendment by Pub. L. 101–510 effective Oct. 19, 1984, see section 562(c) of Pu
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–689 effective July 1, 1985, with respect to individuals discharged or released for medical condition which preexisted service on active duty or in Selected Reserve and which Administrator determines is not service connected, and effective Oct. 1, 1987, with respect to individuals involuntarily discharged or released for convenience of Government as a result of reduction in force, see section 102(c) of Pub. L. 100–689, set out as a note under section 3011 of this title.
+Amendment by Pub. L. 100–689 effective July 1, 1985, with respect to individuals discharged or released for medical condition which preexisted service on active duty or in Selected Reserve and which Administrator determines is not service connected, and effective Oct.1, 1987, with respect to individuals involuntarily discharged or released for convenience of Government as a result of reduction in force, see section 102(c) of Pub. L. 100–689, set out as a note under section 3011 of this title.
 
 #### Effective Date
 

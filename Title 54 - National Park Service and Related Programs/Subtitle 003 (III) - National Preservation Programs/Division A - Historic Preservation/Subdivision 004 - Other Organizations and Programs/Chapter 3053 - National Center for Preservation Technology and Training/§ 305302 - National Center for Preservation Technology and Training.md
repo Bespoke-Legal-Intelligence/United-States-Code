@@ -14,7 +14,7 @@ Purposes.—The purposes of the Center shall be to—
 
 &emsp;(3) take steps to apply preservation technology benefits from ongoing research by other agencies and institutions;
 
-&emsp;(4) facilitate the transfer of preservation technology among Federal agencies, State andlocal governments, universities, international organizations, and the private sector; and
+&emsp;(4) facilitate the transfer of preservation technology among Federal agencies, State and local governments, universities, international organizations, and the private sector; and
 
 &emsp;(5) cooperate with related international organizations including the International Council on Monuments and Sites, the International Center for the Study of Preservation and Restoration of Cultural Property, and the International Council on Museums.
 

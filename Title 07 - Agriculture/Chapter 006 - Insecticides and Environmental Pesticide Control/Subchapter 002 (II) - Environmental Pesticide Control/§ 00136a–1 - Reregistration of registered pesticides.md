@@ -100,7 +100,7 @@ Reregistrations of pesticides under this section shall be carried out in the fol
 
 &emsp;&emsp;(iii) in the case of a pesticide containing an active ingredient listed under subsection (c)(2)(D), not later than 3 months after the date of publication of the listing of such active ingredient.
 
-> &emsp;On application, the Administrator may extend a time period prescribed by this subparagraph if the Administrator determines that factors beyond the control of the registrant preventthe registrant from complying with such period.
+> &emsp;On application, the Administrator may extend a time period prescribed by this subparagraph if the Administrator determines that factors beyond the control of the registrant prevent the registrant from complying with such period.
 
 &emsp;(B) A registrant shall submit data in accordance with a commitment entered into under paragraph (3)(B) within a reasonable period of time, as determined by the Administrator, but not more than 48 months after the date the registrant submitted the commitment. The Administrator, on application of a registrant, may extend the period prescribed by the preceding sentence by no more than 2 years if extraordinary circumstances beyond the control of the registrant prevent the registrant from submitting data within such prescribed period. Upon application of a registrant, the Administrator shall, in the case of a minor use, extend the deadline for the production of residue chemistry data under this subparagraph for data required solely to support that minor use until the final deadline for submission of data under this section for the other uses of the pesticide established as of August 3, 1996, if—
 
@@ -150,7 +150,7 @@ Reregistrations of pesticides under this section shall be carried out in the fol
 
 &emsp;&emsp;(C) a reformat of the data from each study summarized under subparagraph (A) or (B) by the registrant concerning chronic dosing, oncogenicity, reproductive effects, mutagenicity, neurotoxicity, teratogenicity, or residue chemistry of the active ingredient that were submitted to the Administrator before January 1, 1982;
 
-&emsp;&emsp;(D) where data described in subparagraph (C) are not required for the active ingredient by regulations issued under section 136a of this title, a reformat of acute and subchronic dosing data submitted by the registrant to the Administrator before January 1, 1982, that the registrant considers to be adequate to meet the requirements of section 136a of this title and the regulations issued under such section;
+&emsp;&emsp;(D) where data described in subparagraph (C) are not required for the active ingredient by regulations issued under section 136a of this title, a reformat of acute and subchronic dosing data submitted by the registrant to the Administrator before January 1, 1982, that the registrant considers to beadequate to meet the requirements of section 136a of this title and the regulations issued under such section;
 
 &emsp;&emsp;(E) an identification of data that are required to be submitted to the Administrator under section 136d(a)(2) of this title, indicating an adverse effect of the pesticide;
 
@@ -174,7 +174,7 @@ Reregistrations of pesticides under this section shall be carried out in the fol
 
 &emsp;&emsp;(i) in the case of a pesticide containing an active ingredient listed under subsection (c)(2)(B), not later than 12 months after the date of publication of the listing of such active ingredient;
 
-&emsp;&emsp;(ii) in the case of a pesticide containing an active ingredient listed under subsection (c)(2)(C), not later than 12 months after thedate of publication of the listing of such active ingredient; and
+&emsp;&emsp;(ii) in the case of a pesticide containing an active ingredient listed under subsection (c)(2)(C), not later than 12 months after the date of publication of the listing of such active ingredient; and
 
 &emsp;&emsp;(iii) in the case of a pesticide containing an active ingredient listed under subsection (c)(2)(D), not later than 12 months after the date of publication of the listing of such active ingredient.
 
@@ -190,7 +190,7 @@ Reregistrations of pesticides under this section shall be carried out in the fol
 
 #### (3) Cancellation
 
-&emsp;(A) If the registrant of a pesticide fails to submit the information required by paragraph (1) within the time prescribed by paragraph (2), the Administrator, by order and without hearing, shall cancel the registration of such pesticide. If the registrant does not commit to support a specific minor use of the pesticide, but is supporting and providing data in a timely and adequate fashion to support uses of the pesticide on a food, or if all uses of the pesticide are nonfood uses and the registrant does not commit to support a specific minor use of the pesticide but is supporting and providing data in a timely and adequate fashion to support other nonfood uses of the pesticide, the Administrator, at the written request of the registrant, shall not take any action pursuant to this subparagraph in regard to such unsupported minor use until the final deadline established as of August 3, 1996, for the submission of data under this section for the supported uses identified pursuant to this subparagraph unless the Administrator determines that the absence of the data is significant enough to cause human health or environmental concerns. On the basis of such determination, the Administrator may refuse the request for extension by the registrant. Upon receipt of the request from the registrant, the Administrator shall publish in the Federal Register a notice of the receipt of the request and the effective date upon which the uses not being supported will be voluntarily deleted from the registration pursuant to section 136d(f)(1) of this title. If the Administrator grants an extension under this subparagraph, the Administrator shall monitor the development of the data for the uses being supported and shall ensure that the registrant is meeting the schedule for the production of such data. If the Administrator determines that the registrant is not meeting or has not met the schedule for the production of such data, the Administrator may proceed in accordance with section 136a(c)(2)(B)(iv) of this title regarding the continued registration of the affected products with the minor and other uses and shall inform the public of such action in accordance with section 136d(f)(2) of this title. Notwithstanding this subparagraph, the Administrator may deny, modify, or revoke the temporary extension under this subparagraph if the Administrator determines that the continuation of the minor use may cause an unreasonable adverse effect on the environment. In the event of modification or revocation, the Administrator shall provide, in writing, to the registrant a notice revoking the temporary extension and establish a new effective date by which the minor use shall be deleted from the registration.
+&emsp;(A) If the registrant of a pesticide fails to submit the information required by paragraph (1) within the time prescribed by paragraph (2), the Administrator, by order and without hearing, shall cancel the registration of such pesticide. If the registrant does not commit to support a specific minor use of the pesticide, but is supporting and providing data in a timely and adequate fashion to support uses of the pesticide on a food, or if all uses of the pesticide are nonfood uses and the registrant does not commit to support a specific minor use of the pesticide but is supporting and providing data in a timely and adequate fashion to support other nonfood uses of the pesticide, theAdministrator, at the written request of the registrant, shall not take any action pursuant to this subparagraph in regard to such unsupported minor use until the final deadline established as of August 3, 1996, for the submission of data under this section for the supported uses identified pursuant to this subparagraph unless the Administrator determines that the absence of the data is significant enough to cause human health or environmental concerns. On the basis of such determination, the Administrator may refuse the request for extension by the registrant. Upon receipt of the request from the registrant, the Administrator shall publish in the Federal Register a notice of the receipt of the request and the effective date upon which the uses not being supported will be voluntarily deleted from the registration pursuant to section 136d(f)(1) of this title. If the Administrator grants an extension under this subparagraph, the Administrator shall monitor the development of the data for the uses being supported and shall ensure that the registrant is meeting the schedule for the production of such data. If the Administrator determines that the registrant is not meeting or has not met the schedule for the production of such data, the Administrator may proceed in accordance with section 136a(c)(2)(B)(iv) of this title regarding the continued registration of the affected products with the minor and other uses and shall inform the public of such action in accordance with section 136d(f)(2) of this title. Notwithstanding this subparagraph, the Administrator may deny, modify, or revoke the temporary extension under this subparagraph if the Administrator determines that the continuation of the minor use may cause an unreasonable adverse effect on the environment. In the event of modification or revocation, the Administrator shall provide, in writing, to the registrant a notice revoking the temporary extension and establish a new effective date by which the minor use shall be deleted from the registration.
 
 &emsp;(B)(i) If the registrant of a pesticide submits the information required by paragraph (1) within the time prescribed by paragraph (2) and such information does not conform to the guidelines for submissions established by the Administrator, the Administrator shall determine whether the registrant made a good faith attempt to conform its submission to such guidelines.
 
@@ -238,7 +238,7 @@ Reregistrations of pesticides under this section shall be carried out in the fol
 
 &emsp;&emsp;(ii) in the case of a pesticide containing an active ingredient listed under subsection (c)(2)(C), not later than 24 months after the date of the listing of such active ingredient; and
 
-&emsp;&emsp;(iii) in the case of a pesticide containing an active ingredient listed under subsection (c)(2)(D), not later than 33 months after the date of the listing of such active ingredient.
+&emsp;&emsp;(iii) in the case of a pesticide containing an active ingredient listed under subsection\(c)(2)(D), not later than 33 months after the date of the listing of such active ingredient.
 
 &emsp;(B) If the Administrator issues a notice to a registrant under paragraph (1)(B) for the submission of additional data, the registrant shall submit such data within a reasonable period of time, as determined by the Administrator, but not to exceed 48 months after the issuance of such notice. The Administrator, on application of a registrant, may extend the period prescribed by the preceding sentence by no more than 2 years if extraordinary circumstances beyond the control of the registrant prevent the registrant from submitting data within such prescribed period. Upon application of a registrant, the Administrator shall, in the case of a minor use, extend the deadline for the production of residue chemistry data under this subparagraph for data required solely to support that minor use until the final deadline for submission of data under this section for the other uses of the pesticide established as of August 3, 1996, if—
 
@@ -248,7 +248,7 @@ Reregistrations of pesticides under this section shall be carried out in the fol
 
 &emsp;&emsp;(iii) the Administrator has determined that such extension will not significantly delay the Administrator's schedule for issuing a reregistration eligibility determination required under this section; and
 
-&emsp;&emsp;(iv) the Administrator has determined that based on existing data, such extension would not significantly increase the risk of any unreasonable adverse effect on the environment. If the Administrator grants an extension under this subparagraph, the Administrator shall monitor the development of the data and shall ensure that the registrant is meeting the schedule for the production of the data. If the Administrator determines that the registrant is not meeting or has not met the schedule for the production of such data, the Administrator may proceed in accordance with clause (iv) of section 136a(c)(2)(B) of this title or other provisionsof this section, as appropriate, regarding the continued registration of the affected products with the minor use and shall inform the public of such action. Notwithstanding the provisions of this subparagraph, the Administrator may take action to modify or revoke the extension under this subparagraph if the Administrator determines that the extension for the minor use may cause an unreasonable adverse effect on the environment. In such circumstance, the Administrator shall provide written notice to the registrant revoking the extension of time for submission of data. Such data shall instead be due in accordance with the date then established by the Administrator for submission of the data.
+&emsp;&emsp;(iv) the Administrator has determined that based on existing data, such extension would not significantly increase the risk of any unreasonable adverse effect on the environment. If the Administrator grants an extension under this subparagraph, the Administrator shall monitor the development of the data and shall ensure that the registrant is meeting the schedule for the production of the data. If the Administrator determines that the registrant is not meeting or has not met the schedule for the production of such data, the Administrator may proceed in accordance with clause (iv) of section 136a(c)(2)(B) of this title or other provisions of this section, as appropriate, regarding the continued registration of the affected products with the minor use and shall inform the public of such action. Notwithstanding the provisions of this subparagraph, the Administrator may take action to modify or revoke the extension under this subparagraph if the Administrator determines that the extension for the minor use may cause an unreasonable adverse effect on the environment. In such circumstance, the Administrator shall provide written notice to the registrant revoking the extension of time for submission of data. Such data shall instead be due in accordance with the date then established by the Administrator for submission of the data.
 
 #### (3) Suspensions and penalties
 
@@ -258,7 +258,7 @@ Reregistrations of pesticides under this section shall be carried out in the fol
 
 #### (1) Data review
 
-&emsp;The Administrator shall conduct a thorough examination of all data submitted under this section concerning an active ingredient listed under subsection (c)(2) and of all other available data found by the Administrator to be relevant.
+&emsp;The Administrator shall conduct a thorough examination of all data submitted under thissection concerning an active ingredient listed under subsection (c)(2) and of all other available data found by the Administrator to be relevant.
 
 #### (2) Reregistration and other actions
 
@@ -290,7 +290,7 @@ In general.—Subject to subclause (II), the Administrator shall require that da
 
 Extraordinary circumstances.—In the case of extraordinary circumstances, the Administrator may provide such a longer period, of not more than 2 additional years, for submission of data to the Administrator under this subparagraph.
 
-&emsp;(C) After conducting the review required by paragraph (1) for each active ingredient of a pesticide and the review required by subparagraph (B) of this paragraph, the Administratorshall determine whether to reregister a pesticide by determining whether such pesticide meets the requirements of section 136a(c)(5) of this title. If the Administrator determines that a pesticide is eligible to be reregistered, the Administrator shall reregister such pesticide within 6 months after the submission of the data concerning such pesticide under subparagraph (B).
+&emsp;(C) After conducting the review required by paragraph (1) for each active ingredient of a pesticide and the review required by subparagraph (B) of this paragraph, the Administrator shall determine whether to reregister a pesticide by determining whether such pesticide meets the requirements of section 136a(c)(5) of this title. If the Administrator determines that a pesticide is eligible to be reregistered, the Administrator shall reregister such pesticide within 6 months after the submission of the data concerning such pesticide under subparagraph (B).
 
 &emsp;(D)
 
@@ -392,7 +392,7 @@ Definition.—In this subparagraph, the term "qualified small business entity" m
 
 &emsp;&emsp;&emsp;(I) has 500 or fewer employees;
 
-&emsp;&emsp;&emsp;(II) during the 3-year period prior to the most recent maintenance fee billing cycle,had an average annual global gross revenue from all sources that did not exceed $10,000,000; and
+&emsp;&emsp;&emsp;(II) during the 3-year period prior to the most recent maintenance fee billing cycle, had an average annual global gross revenue from all sources that did not exceed $10,000,000; and
 
 &emsp;&emsp;&emsp;(III) holds not more than 5 pesticide registrations under this paragraph.
 
@@ -428,7 +428,7 @@ The requirements of subsections (d), (e), (f), and (i) (other than subsection (i
 
 &emsp;(A) All moneys derived from fees collected by the Administrator under subsection (i) shall be deposited in the fund and shall be available to the Administrator, without fiscal year limitation, specifically to offset the costs of reregistration and expedited processing of the applications specified in paragraph (3), to enhance the information systems capabilities to improve the tracking of pesticide registration decisions, and to offset the costs of registration review under section 136a(g) of this title. Such moneys derived from fees may not be expended in any fiscal year to the extent such moneys derived from fees would exceed money appropriated for use by the Administrator and expended in such year for such costs of reregistration and expedited processing of such applications. The Administrator shall, prior to expending any such moneys derived from fees—
 
-&emsp;&emsp;(i) effective October 1, 1997, adopt specific and cost accounting rules and procedures as approved by the Government Accountability Office and the Inspector General of the Environmental Protection Agency to ensure that moneys derived from fees are allocated solely to offset the costs of reregistration and expedited processing of the applications specified in paragraph (3), to enhance the information systems capabilities to improve the tracking of pesticide registration decisions, and to offset the costs of registration review under section 136a(g) of this title;
+&emsp;&emsp;(i) effective October 1, 1997, adopt specific and cost accounting rules and procedures as approved by the Government Accountability Office and the Inspector General of the Environmental Protection Agency to ensure that moneys derived from fees are allocated solely to offset the costs of reregistration and expedited processing of the applications specified in paragraph (3), to enhance the information systems capabilities to improvethe tracking of pesticide registration decisions, and to offset the costs of registration review under section 136a(g) of this title;
 
 &emsp;&emsp;(ii) prohibit the use of such moneys derived from fees to pay for any costs other than those necessary to achieve reregistration and expedited processing of the applications specified in paragraph (3), to enhance the information systems capabilities to improve the tracking of pesticide registration decisions, and to offset the costs of registration review under section 136a(g) of this title; and
 
@@ -448,7 +448,7 @@ The requirements of subsections (d), (e), (f), and (i) (other than subsection (i
 
 &emsp;&emsp;(ii) to ensure the expedited processing and review of any application that—
 
-&emsp;&emsp;&emsp;(I) proposes the initial or amended registration of an end-use pesticide that, if registered as proposed, would be identical or substantially similar in composition and labeling to a currently-registered pesticide identified in the application, or thatwould differ in composition and labeling from any such currently-registered pesticide only in ways that would not significantly increase the risk of unreasonable adverse effects on the environment;
+&emsp;&emsp;&emsp;(I) proposes the initial or amended registration of an end-use pesticide that, if registered as proposed, would be identical or substantially similar in composition and labeling to a currently-registered pesticide identified in the application, or that would differ in composition and labeling from any such currently-registered pesticide only in ways that would not significantly increase the risk of unreasonable adverse effects on the environment;
 
 &emsp;&emsp;&emsp;(II) proposes an amendment to the registration of a registered pesticide that does not require scientific review of data; or
 
@@ -500,7 +500,7 @@ The Administrator shall establish and publish annually in the Federal Register p
 
 &emsp;(1) the number of products reregistered, canceled, or amended, the status of reregistration, the number and type of data requests under section 136a(c)(2)(B) of this title issued to support product reregistration by active ingredient, the progress in reducing the number of unreviewed, required reregistration studies, the aggregate status of tolerances reassessed, and the number of applications for registration submitted under subsection (k)(3) that were approved or disapproved;
 
-&emsp;(2) the future schedule for reregistrations, including the projection for such schedules that will be issued under subsection (g)(2)(A)and (B) in the current fiscal year and the succeeding fiscal year; and
+&emsp;(2) the future schedule for reregistrations, including the projection for such schedules that will be issued under subsection (g)(2)(A) and (B) in the current fiscal year and the succeeding fiscal year; and
 
 &emsp;(3) the projected year of completion of the reregistrations under this section.
 
@@ -538,7 +538,7 @@ Any failure of the Administrator to take any action required by this section sha
 
 &emsp;There is authorized to be appropriated to carry out the purposes of this section $12,000,000 for fiscal year 1997, and such sums as may be necessary for succeeding fiscal years.
 
-(June 25, 1947, ch. 125, §4, formerly §3A, as added and renumbered §4, Pub. L. 100–532, title I, §102(a), title VIII, §801(q)(2)(A), Oct. 25, 1988, 102 Stat. 2655, 2683; amended Pub. L. 101–624, title XIV, §1493, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(4), (e), (f), Dec. 13, 1991, 105 Stat. 1895–1897; Pub. L. 104–170, title I, §103, title II, §§210(c)(2), (f)(1), 232, 237, title V, §501, Aug. 3, 1996, 110 Stat. 1490, 1496, 1498, 1508, 1509, 1536; Pub. L. 107–73, title III, \[(1)–(4)\], Nov. 26, 2001, 115 Stat. 686; Pub. L. 108–7, div. K, title III, \[(1)–(4)\], Feb. 20, 2003, 117 Stat. 513; Pub. L. 108–199, div. G, title V, §501(c), (d)(1), (e), Jan. 23, 2004, 118 Stat. 419, 422; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–94, §4(a)–(d)(1), (e), Oct. 9, 2007, 121 Stat. 1001, 1002; Pub. L. 112–177, §2(a)(1), (2)(A), (4), Sept. 28, 2012, 126 Stat. 1327, 1329.)
+(June 25, 1947, ch. 125, §4, formerly §3A, as added and renumbered §4, Pub. L. 100–532, title I, §102(a), title VIII, §801(q)(2)(A), Oct. 25, 1988, 102 Stat. 2655, 2683; amended Pub. L. 101–624, title XIV, §1493, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(4), (e), (f), Dec. 13, 1991,105 Stat. 1895–1897; Pub. L. 104–170, title I, §103, title II, §§210(c)(2), (f)(1), 232, 237, title V, §501, Aug. 3, 1996, 110 Stat. 1490, 1496, 1498, 1508, 1509, 1536; Pub. L. 107–73, title III, \[(1)–(4)\], Nov. 26, 2001, 115 Stat. 686; Pub. L. 108–7, div. K, title III, \[(1)–(4)\], Feb. 20, 2003, 117 Stat. 513; Pub. L. 108–199, div. G, title V, §501(c), (d)(1), (e), Jan. 23, 2004, 118 Stat. 419, 422; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–94, §4(a)–(d)(1), (e), Oct. 9, 2007, 121 Stat. 1001, 1002; Pub. L. 112–177, §2(a)(1), (2)(A), (4), Sept. 28, 2012, 126 Stat. 1327, 1329.)
 
 #### References in Text
 
@@ -795,6 +795,20 @@ Amendment by Pub. L. 108–199 effective on the date that is 60 days after Jan. 
 #### Effective Date
 
 Section effective on expiration of 60 days after Oct. 25, 1988, see section 901 of Pub. L. 100–532, set out as an Effective Date of 1988 Amendment note under section 136 of this title.
+
+#### Extension of Limitations on Fee Amounts and Usage of Fees
+
+Pub. L. 115–141, div. M, title IV, §401(a), Mar. 23, 2018, 132 Stat. 1049, provided that: "The following sections of the Federal Insecticide, Fungicide, and Rodenticide Act shall continue in effect through September 30, 2018—
+
+&emsp;"(1) subparagraphs (C) through (E) of section 4(i)(1) (7 U.S.C. 136a–1(i)(1)(C)–(E));
+
+&emsp;"(2) section 4(k)(3) (7 U.S.C. 136a–1(k)(3));
+
+&emsp;"(3) section 4(k)(4) (7 U.S.C. 136a–1(k)(4)); and
+
+&emsp;"(4) section 33(c)(3)(B) (7 U.S.C. 136w–8(c)(3)(B))."
+
+Pub. L. 115–141, div. M, title IV, §401(b)(1), Mar. 23, 2018, 132 Stat. 1050, provided that: "Section 4(i)(1)(I) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(i)(1)(I)) shall be applied by substituting 'September 30, 2018' for 'September 30, 2017'."
 
 #### Relationship of Pub. L. 112–177 to Other Law
 

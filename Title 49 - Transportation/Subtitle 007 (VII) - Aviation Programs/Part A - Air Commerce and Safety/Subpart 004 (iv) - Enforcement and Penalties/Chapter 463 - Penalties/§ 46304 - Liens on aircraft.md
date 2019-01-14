@@ -6,7 +6,7 @@ Aircraft Subject to Liens.—When an aircraft is involved in a violation referre
 
 (b)
 
-Seizure.—An aircraft subject to a lien under this section may be seized summarily and placed in the custody of a person authorized to take custody of it under regulations of the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator). A report on the seizure shall be submitted to the Attorney General. The Attorney General promptly shall bring a civil action in rem to enforce the lien or notify the Secretary or Administrator that the action will not be brought.
+Seizure.—An aircraft subject to a lien under this section may be seized summarily and placed in the custody of a person authorized to take custody of it under regulations of the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration). A report on the seizure shall be submitted to the Attorney General. The Attorney General promptly shall bring a civil action in rem to enforce the lien or notify the Secretary or Administrator that the action will not be brought.
 
 (c)
 
@@ -22,7 +22,7 @@ Release.—An aircraft seized under subsection (b) of this section shall be rele
 
 &emsp;(5) a bond (in an amount and with a surety the Secretary or Administrator prescribes), conditioned on payment of the penalty or compromise, is deposited with the Secretary or Administrator.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1235; Pub. L. 108–176, title V, §503(d)(2), Dec. 12, 2003, 117 Stat. 2559.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1235; Pub. L. 108–176, title V, §503(d)(2), Dec. 12, 2003, 117 Stat. 2559; Pub. L. 115–254, div. K, title I, §1991(g)(2), Oct. 5, 2018, 132 Stat. 3644.)
 
 Historical and Revision Notes
 
@@ -77,6 +77,8 @@ In subsection (b), the words "report on the seizure" are substituted for "report
 In subsection (c)(3), the words "under a civil action in rem" are substituted for "in pursuance of process of any court in proceedings in rem" to eliminate unnecessary words and for consistency.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–254 substituted "or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration" for "or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator".
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–176 struck out ", (2), or (3)" after "section 46301(a)(1)(A)–(C)".
 

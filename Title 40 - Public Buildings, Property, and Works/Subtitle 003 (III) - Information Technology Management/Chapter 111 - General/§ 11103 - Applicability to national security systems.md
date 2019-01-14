@@ -82,7 +82,7 @@ Pub. L. 114–328, div. A, title VIII, §895, Dec. 23, 2016, 130 Stat. 2326, pro
 
 "(a)
 
-Waiver Authority.—Notwithstanding subsection (c)(2) of section 11103 of title 40, United States Code, a national security system described in subsection (a)(1)(D) of such section shall not be subject to the requirements of paragraphs (2) through (5) of section 11312(b) of such title unless the milestone decision authority determines in writing that application of such requirements is appropriate and in the best interests of the Department of Defense.
+Waiver Authority.—Notwithstanding subsection (c)(2) of section 11103 of title 40, United StatesCode, a national security system described in subsection (a)(1)(D) of such section shall not be subject to the requirements of paragraphs (2) through (5) of section 11312(b) of such title unless the milestone decision authority determines in writing that application of such requirements is appropriate and in the best interests of the Department of Defense.
 
 "(b)
 

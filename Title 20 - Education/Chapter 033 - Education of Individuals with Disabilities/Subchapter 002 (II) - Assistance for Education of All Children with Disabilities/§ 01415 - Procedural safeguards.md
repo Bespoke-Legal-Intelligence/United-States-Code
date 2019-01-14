@@ -64,7 +64,7 @@ The procedures required by this section shall include the following:
 
 &emsp;&emsp;(B) an explanation of why the agency proposes or refuses to take the action and a description of each evaluation procedure, assessment, record, or report the agency used as a basis for the proposed or refused action;
 
-&emsp;&emsp;(C) a statement that the parents of a child with a disability have protection under the procedural safeguards of this subchapter and, if this notice is not an initial referralfor evaluation, the means by which a copy of a description of the procedural safeguards can be obtained;
+&emsp;&emsp;(C) a statement that the parents of a child with a disability have protection under the procedural safeguards of this subchapter and, if this notice is not an initial referral for evaluation, the means by which a copy of a description of the procedural safeguards can be obtained;
 
 &emsp;&emsp;(D) sources for parents to contact to obtain assistance in understanding the provisions of this subchapter;
 
@@ -96,7 +96,7 @@ The procedures required by this section shall include the following:
 
 #### (II) Sufficiency
 
-&emsp;&emsp;&emsp;&emsp;A response filed by a local educational agency pursuant to subclause (I) shall not be construed to preclude such local educational agency from asserting that the parent's due process complaint notice was insufficient where appropriate.
+&emsp;&emsp;&emsp;&emsp;A response filed by a local educational agency pursuant to subclause (I) shall not be construed to preclude such local educational agency from asserting thatthe parent's due process complaint notice was insufficient where appropriate.
 
 #### (ii) Other party response
 
@@ -380,7 +380,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 #### (A) In general
 
-&emsp;&emsp;Any party aggrieved by the findings and decision made under subsection (f) or (k) who does not have the right to an appeal under subsection (g), and any party aggrieved by the findings and decision made under this subsection, shall have the right to bring a civil action with respect to the complaint presented pursuant to this section, which action may be brought in any State court of competent jurisdiction or in a district court of the United States, without regard to the amount in controversy.
+&emsp;&emsp;Any party aggrieved by the findings and decision made under subsection (f) or (k) who does not have the right to an appeal under subsection (g), and any party aggrieved by the findings and decision made under this subsection, shall have the right to bring a civil action with respect to the complaint presented pursuant to this section, which action may be brought in any Statecourt of competent jurisdiction or in a district court of the United States, without regard to the amount in controversy.
 
 #### (B) Limitation
 
@@ -500,7 +500,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), within 10 school days of any decision to change the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant membersof the IEP Team (as determined by the parent and the local educational agency) shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine—
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), within 10 school days of any decision to change the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant members of the IEP Team (as determined by the parent and the local educational agency) shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine—
 
 &emsp;&emsp;&emsp;&emsp;(I) if the conduct in question was caused by, or had a direct and substantial relationship to, the child's disability; or
 
@@ -570,7 +570,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (A) In general
 
-&emsp;&emsp;A child who has not been determined to be eligible for special education and relatedservices under this subchapter and who has engaged in behavior that violates a code of student conduct, may assert any of the protections provided for in this subchapter if the local educational agency had knowledge (as determined in accordance with this paragraph) that the child was a child with a disability before the behavior that precipitated the disciplinary action occurred.
+&emsp;&emsp;A child who has not been determined to be eligible for special education and related services under this subchapter and who has engaged in behavior that violates a code of student conduct, may assert any of the protections provided for in this subchapter if the local educational agency had knowledge (as determined in accordance with this paragraph) that the child was a child with a disability before the behavior that precipitated the disciplinary action occurred.
 
 #### (B) Basis of knowledge
 
@@ -634,7 +634,7 @@ Nothing in this chapter shall be construed to restrict or limit the rights, proc
 
 #### (1) In general
 
-&emsp;A State that receives amounts from a grant under this subchapter may provide that, whena child with a disability reaches the age of majority under State law (except for a child with a disability who has been determined to be incompetent under State law)—
+&emsp;A State that receives amounts from a grant under this subchapter may provide that, when a child with a disability reaches the age of majority under State law (except for a child with a disability who has been determined to be incompetent under State law)—
 
 &emsp;&emsp;(A) the agency shall provide any notice required by this section to both the individual and the parents;
 
@@ -664,7 +664,7 @@ Section 327 of the District of Columbia Appropriations Act, 2005, referred to in
 
 The Federal Rules of Civil Procedure, referred to in subsec. (i)(3)(D)(i)(I), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Controlled Substances Act, referred to in subsec. (k)(7)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (k)(7)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21,Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (l), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 

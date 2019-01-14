@@ -74,7 +74,7 @@ The Railway Labor Act, referred to in subsec. (e)(2), is act May 20, 1926, ch. 3
 
 #### Prior Provisions
 
-A prior section 22301, added Pub. L. 105–178, title VII, §7202(a), June 9, 1998, 112 Stat. 470, related to grants for light density rail line pilot projects, prior to the general amendment of this chapter by Pub. L. 110–140.
+A prior section 22301, added Pub. L. 105–178, title VII, §7202(a), June 9, 1998, 112 Stat. 470, related to grants forlight density rail line pilot projects, prior to the general amendment of this chapter by Pub. L. 110–140.
 
 #### Amendments
 

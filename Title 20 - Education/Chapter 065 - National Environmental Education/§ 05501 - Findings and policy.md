@@ -26,7 +26,7 @@ The Congress finds that—
 
 #### (b) Policy
 
-It is the policy of the United States to establish and support a program of education on the environment, for students and personnel working with students, through activities in schools, institutions of higher education, and related educational activities, and to encourage postsecondary students to pursue careers related to the environment.
+It is the policy of the United States to establish and support a program of education on the environment, for students and personnel working with students, through activities in schools, institutions of higher education, and relatededucational activities, and to encourage postsecondary students to pursue careers related to the environment.
 
 (Pub. L. 101–619, §2, Nov. 16, 1990, 104 Stat. 3325.)
 

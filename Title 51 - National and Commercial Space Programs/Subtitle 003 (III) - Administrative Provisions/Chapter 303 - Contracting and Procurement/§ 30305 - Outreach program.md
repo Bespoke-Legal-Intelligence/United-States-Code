@@ -22,7 +22,7 @@ Creating network of economic development organizations.—Creating a network of 
 
 (c)
 
-Report.—Not later than one year after October 15, 2008, and annually thereafter, the Administrator shall submit a report to the Committee on Science and Technology of the Houseof Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the efforts and accomplishments of the program established under subsection (a) in support of the Administration's Innovative Partnerships Program. As part of the report, the Administrator shall provide—
+Report.—Not later than one year after October 15, 2008, and annually thereafter, the Administrator shall submit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the efforts and accomplishments of the program established under subsection (a) in support of the Administration's Innovative Partnerships Program. As part of the report, the Administrator shall provide—
 
 &emsp;(1) data on the number of small businesses receiving assistance, jobs created and retained, and volunteer hours donated by the Administration, contractors, and academic institutions nationwide;
 

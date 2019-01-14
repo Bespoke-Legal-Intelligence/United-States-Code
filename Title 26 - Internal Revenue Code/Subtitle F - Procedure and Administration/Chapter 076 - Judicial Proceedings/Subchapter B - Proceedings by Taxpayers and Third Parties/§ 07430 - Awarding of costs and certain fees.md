@@ -12,7 +12,7 @@ In any administrative or court proceeding which is brought by or against the Uni
 
 #### (1) Requirement that administrative remedies be exhausted
 
-&emsp;A judgment for reasonable litigation costs shall not be awarded under subsection (a) inany court proceeding unless the court determines that the prevailing party has exhausted the administrative remedies available to such party within the Internal Revenue Service. Any failure to agree to an extension of the time for the assessment of any tax shall not be taken into account for purposes of determining whether the prevailing party meets the requirements of the preceding sentence.
+&emsp;A judgment for reasonable litigation costs shall not be awarded under subsection (a) in any court proceeding unless the court determines that the prevailing party has exhausted the administrative remedies available to such party within the Internal Revenue Service. Any failure to agree to an extension of the time for the assessment of any tax shall not be taken into account for purposes of determining whether the prevailing party meets the requirements of the preceding sentence.
 
 #### (2) Only costs allocable to the United States
 
@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any administrative fees or similar charges imposed by the Internal Revenue Service, and
 
-&emsp;&emsp;(B) expenses, costs, and fees described in paragraph (1)(B), except that any determination made by the court under clause (ii) or (iii) thereof shall be made by the Internal Revenue Service in cases where the determination under paragraph (4)(C) of the awarding of reasonable administrative costs is made by the Internal Revenue Service.
+&emsp;&emsp;(B) expenses, costs, and fees described in paragraph (1)(B), except that any determination made by the court under clause (ii) or (iii) thereof shall be made by the Internal Revenue Service in cases where the determination under paragraph (4)(C) of theawarding of reasonable administrative costs is made by the Internal Revenue Service.
 
 > &emsp;Such term shall only include costs incurred on or after whichever of the following is the earliest: (i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Office of Appeals; (ii) the date of the notice of deficiency; or (iii) the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals is sent.
 
@@ -226,7 +226,7 @@ For purposes of subsection (c)(4)—
 
 &emsp;&emsp;(B) ending on the date which is 30 days before the date the case is first set for trial.
 
-(Added Pub. L. 97–248, title II, §292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, §714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, §1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, §1015(i), title VI, §6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–168, title VII, §§701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, 110 Stat. 1463, 1464; Pub. L. 105–34, title XII, §1285(a)–(c), title XIV, §1453(a), Aug. 5, 1997, 111 Stat. 1038, 1055; Pub. L. 105–206, title III, §3101(a)–(e), title VI, §§6012(h), 6014(e), July 22, 1998, 112 Stat. 727, 728, 819, 820; Pub. L. 106–554, §1(a)(7) \[title III, §319(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 115–97, title I, §11002(d)(1)(SS), Dec. 22, 2017, 131 Stat. 2061.)
+(Added Pub. L. 97–248, title II, §292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, §714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, §1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, §1015(i), title VI, §6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 104–168, title VII, §§701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, 110 Stat. 1463, 1464; Pub. L. 105–34, title XII, §1285(a)–(c), title XIV, §1453(a), Aug. 5, 1997, 111 Stat. 1038, 1055; Pub. L. 105–206, title III, §3101(a)–(e), title VI, §§6012(h), 6014(e), July 22, 1998, 112 Stat. 727, 728, 819, 820; Pub. L. 106–554, §1(a)(7) \[title III, §319(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 115–97, title I, §11002(d)(1)(SS), Dec. 22, 2017, 131 Stat. 2061; Pub. L. 115–141, div. U, title IV, §401(a)(325)(A), Mar. 23, 2018, 132 Stat. 1199.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -237,6 +237,8 @@ For purposes of subsection (c)(4)—
 A prior section 7430 was renumbered section 7437 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(6). Pub. L. 115–141 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
 <b>2017</b>—Subsec. (c)(1). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)" in concluding provisions.
 
@@ -250,7 +252,7 @@ Subsec. (c)(1)(B)(iii). Pub. L. 105–206, §3101(a), substituted "$125" for "$1
 
 Subsec. (c)(2). Pub. L. 105–206, §3101(b), added concluding provisions and struck out former concluding provisions which read as follows: "Such term shall only include costs incurred on or after the earlier of (i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Office of Appeals, or (ii) the date of the notice of deficiency."
 
-Subsec. (c)(3). Pub. L. 105–206, §3101(c), substituted "attorneys" for "attorney's" in heading and amended text of par. (3) generally. Prior to amendment, textread as follows: "For purposes of paragraphs (1) and (2), fees for the services of an individual (whether or not an attorney) who is authorized to practice before the Tax Court or before the Internal Revenue Service shall be treated as fees for the services of an attorney."
+Subsec. (c)(3). Pub. L. 105–206, §3101(c), substituted "attorneys" for "attorney's" in heading and amended text of par. (3) generally. Prior to amendment, text read as follows: "For purposes of paragraphs (1) and (2), fees for the services of an individual (whether or not an attorney) who is authorized to practice before the Tax Court or before the Internal Revenue Service shall be treated as fees for the services of an attorney."
 
 Subsec. (c)(4)(B)(iii), (iv). Pub. L. 105–206, §3101(d), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
@@ -300,8 +302,6 @@ Subsec. (c)(4)(C). Pub. L. 104–168, §701(c)(2), substituted "Any determinatio
 
 Pub. L. 104–168, §701(b), redesignated subpar. (B) as (C).
 
-<b>1992</b>—Subsec. (c)(6). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
-
 <b>1988</b>—Pub. L. 100–647, §6239(a), substituted "costs" for "court costs" in section catchline and amended text generally, revising and restating provisions so as to include costs and fees in administrative proceedings.
 
 Subsec. (c)(2)(A)(iii). Pub. L. 100–647, §1015(i), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "meets the requirements of section 504(b)(1)(B) of title 5, United States Code (as in effect on the date of the enactment of the Tax Reform Act of 1986 and applied by taking into account the commencement of the proceeding described in subsection (a) in lieu of the initiation of the adjudication referred to in such section)."
@@ -310,7 +310,7 @@ Subsec. (c)(2)(A)(iii). Pub. L. 100–647, §1015(i), amended cl. (iii) generall
 
 Subsec. (b). Pub. L. 99–514, §1551(a), (b), redesignated pars. (2) to (4) as (1) to (3), respectively, added par. (4), and struck out former par. (1), maximum dollar amount, which read as follows: "The amount of reasonable litigation costs which may be awarded under subsection (a) with respect to any prevailing party in any civil proceeding shall not exceed $25,000."
 
-Subsec. (c)(1)(A). Pub. L. 99–514, §1551(c), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The term 'reasonable litigation costs' includes—
+Subsec. (c)(1)(A). Pub. L. 99–514, §1551(c), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: "The term 'reasonable litigation costs' includes—
 
 &emsp;"(i) reasonable court costs,
 
@@ -346,17 +346,13 @@ Pub. L. 105–34, title XIV, §1453(b), Aug. 5, 1997, 111 Stat. 1055, provided t
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 701(a)–(c)(2) of Pub. L. 104–168 applicable in case of proceedings commenced after July30, 1996, see section 701(d) of Pub. L. 104–168, set out as a note under section 6404 of this title.
+Amendment by section 701(a)–(c)(2) of Pub. L. 104–168 applicable in case of proceedings commenced after July 30, 1996, see section 701(d) of Pub. L. 104–168, set out as a note under section 6404 of this title.
 
 Pub. L. 104–168, title VII, §702(b), July 30, 1996, 110 Stat. 1464, provided that: "The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\]."
 
 Pub. L. 104–168, title VII, §703(b), July 30, 1996, 110 Stat. 1464, provided that: "The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\]."
 
 Pub. L. 104–168, title VII, §704(b), July 30, 1996, 110 Stat. 1464, provided that: "The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\]."
-
-#### Effective Date of 1992 Amendment
-
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1988 Amendment
 

@@ -42,7 +42,7 @@ There shall be an independent committee to be known as the National Sea Grant Ad
 
 (8) The Board may establish such subcommittees as are reasonably necessary to carry out its duties under subsection (b). Such subcommittees may include individuals who are not Board members.
 
-(Pub. L. 89–454, title II, §209, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1967; amended Pub. L. 96–289, §1(5), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §§3104(b)(1)(F), 3108,Dec. 29, 1987, 101 Stat. 1471, 1473; Pub. L. 102–186, §§4(b)(1)(E), (F), 5(b)(2), Dec. 4, 1991, 105 Stat. 1283, 1284; Pub. L. 105–160, §§4(b)(1), 8, Mar. 6, 1998, 112 Stat. 22, 25; Pub. L. 107–299, §6, Nov. 26, 2002, 116 Stat. 2346; Pub. L. 110–394, §9(a)(4)(A), (C)(iii)–(e), Oct. 13, 2008, 122 Stat. 4208.)
+(Pub. L. 89–454, title II, §209, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1967; amended Pub. L. 96–289, §1(5), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §§3104(b)(1)(F), 3108, Dec. 29, 1987, 101 Stat. 1471, 1473; Pub. L. 102–186, §§4(b)(1)(E), (F), 5(b)(2), Dec. 4, 1991, 105 Stat. 1283, 1284; Pub. L. 105–160, §§4(b)(1), 8, Mar. 6, 1998, 112 Stat. 22, 25; Pub. L. 107–299, §6, Nov. 26, 2002, 116 Stat. 2346; Pub. L. 110–394, §9(a)(4)(A), (C)(iii)–(e), Oct. 13, 2008, 122 Stat. 4208.)
 
 #### Amendments
 

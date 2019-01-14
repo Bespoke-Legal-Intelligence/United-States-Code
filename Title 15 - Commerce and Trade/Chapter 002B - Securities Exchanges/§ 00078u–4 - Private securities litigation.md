@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each plaintiff seeking to serve as a representative party on behalf of a class shall provide a sworn certification, which shall be personally signed by such plaintiff and filed with the complaint, that—
+&emsp;&emsp;Each plaintiff seeking to serve as a representative party on behalf of a class shall provide a sworn certification, which shall bepersonally signed by such plaintiff and filed with the complaint, that—
 
 &emsp;&emsp;&emsp;(i) states that the plaintiff has reviewed the complaint and authorized its filing;
 
@@ -80,7 +80,7 @@
 
 #### (iv) Discovery
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, discovery relating to whether a member or members of the purported plaintiff class is the most adequate plaintiff may be conducted by a plaintiff only if the plaintiff first demonstrates a reasonable basis for a finding that the presumptively most adequate plaintiff is incapable of adequately representing the class.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, discovery relating to whether a member or members of the purported plaintiff class is the most adequate plaintiff may be conducted by a plaintiff only if the plaintifffirst demonstrates a reasonable basis for a finding that the presumptively most adequate plaintiff is incapable of adequately representing the class.
 
 #### (v) Selection of lead counsel
 
@@ -282,7 +282,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 &emsp;&emsp;&emsp;(i) whether such person violated the securities laws;
 
-&emsp;&emsp;&emsp;(ii) the percentage of responsibility of such person, measured as a percentage of the total fault of all persons who caused or contributed to the loss incurred by the plaintiff; and
+&emsp;&emsp;&emsp;(ii) the percentage of responsibility of such person, measured as a percentage ofthe total fault of all persons who caused or contributed to the loss incurred by the plaintiff; and
 
 &emsp;&emsp;&emsp;(iii) whether such person knowingly committed a violation of the securities laws.
 

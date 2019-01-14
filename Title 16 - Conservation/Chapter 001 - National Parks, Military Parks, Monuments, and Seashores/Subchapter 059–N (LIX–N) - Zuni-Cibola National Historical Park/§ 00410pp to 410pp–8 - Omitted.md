@@ -6,7 +6,7 @@ Sections 410pp to 410pp–8 were omitted pursuant to section 410pp which termina
 
 Section 410pp, Pub. L. 100–567, §2, Oct. 31, 1988, 102 Stat. 2847; Pub. L. 101–313, title III, §302(1), June 27, 1990, 104 Stat. 279, provided for establishment of the Zuni-Cibola National Historical Park effective on the date of publication by the Secretary of a notice of acceptance of a leasehold interest in the Zuni Indian Reservation pursuant to section 410pp–1 and provided for termination of this section six years after Oct. 31, 1988, unless prior to the end of that six-year period the Secretary had published such a notice.
 
-Section 410pp–1, Pub. L. 100–567, §3, Oct. 31, 1988, 102 Stat. 2847; Pub. L. 101–313, title III, §302(2), June 27, 1990, 104 Stat. 279; Pub. L. 103–437, §6(k), Nov. 2, 1994, 108 Stat. 4586, set forth conditions under which the Secretary could accept a leasehold offer from the Zuni Tribe, required preparation of a map of the park upon acceptance of the leasehold, and provided for boundary adjustments.
+Section 410pp–1, Pub. L. 100–567, §3, Oct. 31, 1988, 102 Stat. 2847; Pub. L. 101–313, title III, §302(2), June 27,1990, 104 Stat. 279; Pub. L. 103–437, §6(k), Nov. 2, 1994, 108 Stat. 4586, set forth conditions under which the Secretary could accept a leasehold offer from the Zuni Tribe, required preparation of a map of the park upon acceptance of the leasehold, and provided for boundary adjustments.
 
 Section 410pp–2, Pub. L. 100–567, §4, Oct. 31, 1988, 102 Stat. 2848, related to management of the park.
 

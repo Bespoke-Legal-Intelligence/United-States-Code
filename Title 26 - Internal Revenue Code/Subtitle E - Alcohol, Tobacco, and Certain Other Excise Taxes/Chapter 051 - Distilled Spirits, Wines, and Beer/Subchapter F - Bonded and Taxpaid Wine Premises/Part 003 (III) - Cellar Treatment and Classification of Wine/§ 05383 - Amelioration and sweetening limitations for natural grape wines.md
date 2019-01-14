@@ -8,11 +8,11 @@ Any natural grape wine may be sweetened after fermentation and before taxpayment
 
 #### (1) Amelioration
 
-&emsp;Before, during, and after fermentation, ameliorating materials consisting of pure drysugar or liquid sugar, water, or a combination of sugar and water, may be added to natural grape wines of a winemaker's own production when such wines are made from juice having a natural fixed acid content of more than five parts per thousand (calculated before fermentation and as tartaric acid). Ameliorating material so added shall not reduce the natural fixed acid content of the juice to less than five parts per thousand, nor exceed 35 percent of the volume of juice (calculated exclusive of pulp) and ameliorating material combined.
+&emsp;Before, during, and after fermentation, ameliorating materials consisting of pure dry sugar or liquid sugar, water, or a combination of sugar and water, may be added to natural grape wines of a winemaker's own production when such wines are made from juice having a natural fixed acid content of more than five parts per thousand (calculated before fermentation and as tartaric acid). Ameliorating material so added shall not reduce the natural fixed acid content of the juice to less than five parts per thousand, nor exceed 35 percent of the volume of juice (calculated exclusive of pulp) and ameliorating material combined.
 
 #### (2) Sweetening
 
-&emsp;Any wine produced under this subsection may be sweetened by the producer thereof, after amelioration and fermentation, with pure dry sugar or liquid sugar if the total solids content of the finished wine does not exceed (A) 17 percent by weight if the alcoholic content is more than 14 percent by volume, or (B) 21 percent by weight if the alcoholic content is not more than 14 percent by volume. The use under this paragraph of liquid sugar shall be limited to cases where the resultant volume does not exceed the volume which could result from the maximum authorized use of pure dry sugar only.
+&emsp;Any wine produced under this subsection may be sweetened by the producer thereof, after amelioration and fermentation, with pure dry sugar or liquid sugar if the total solids content of the finished wine does not exceed (A) 17 percent by weight if the alcoholic content is more than 14 percent by volume, or (B) 21 percent by weight if the alcoholic content is not more than 14 percent by volume. The use under this paragraph of liquid sugarshall be limited to cases where the resultant volume does not exceed the volume which could result from the maximum authorized use of pure dry sugar only.
 
 #### (3) Wine spirits
 

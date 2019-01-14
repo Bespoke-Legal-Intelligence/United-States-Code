@@ -32,7 +32,11 @@ House of Representatives.—Section 6101 of this title does not apply to purchas
 
 Congressional Budget Office.—The Director of the Congressional Budget Office may enter into agreements or contracts without regard to section 6101 of this title.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3802.)
+(i)
+
+Senate.—Section 6101 of this title does not apply to agreements, contracts or purchases by any office of the Senate.
+
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3802; Pub. L. 115–141, div. I, title I, §102, Mar. 23, 2018, 132 Stat. 772.)
 
 Historical and Revision Notes
 
@@ -95,4 +99,8 @@ In subsection (e), the words "On and after July 27, 1965" are omitted as unneces
 In subsection (g), the words "in any fiscal year" are omitted as unnecessary.
 
 In subsection (h), the text of 41:6a–4(b) is omitted as unnecessary.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (i). Pub. L. 115–141 added subsec. (i).
 

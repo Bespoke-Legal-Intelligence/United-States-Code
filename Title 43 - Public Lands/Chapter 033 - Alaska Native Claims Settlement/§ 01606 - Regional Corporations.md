@@ -40,7 +40,7 @@ If a majority of all eligible Natives eighteen years of age or older who are not
 
 #### (d) Incorporation; business for profit; eligibility for benefits; provisions in articles for carrying out chapter
 
-Five incorporators within each region, named by the Native association in the region, shall incorporate under the laws of Alaska a Regional Corporation to conduct business for profit, which shall be eligible for the benefits of this chapter so long as it is organized and functions in accordance with this chapter. The articles of incorporation shall include provisions necessary to carry out the terms of this chapter.
+Five incorporators within each region, named by the Native association in the region, shall incorporate under the laws of Alaska a RegionalCorporation to conduct business for profit, which shall be eligible for the benefits of this chapter so long as it is organized and functions in accordance with this chapter. The articles of incorporation shall include provisions necessary to carry out the terms of this chapter.
 
 #### (e) Original articles and bylaws: approval by Secretary prior to filing, submission for approval; amendments to articles: approval by Secretary; withholding approval in event of creation of inequities among Native individuals or groups
 
@@ -86,7 +86,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 &emsp;&emsp;&emsp;(cc) the stock shall not be transferred by gift under subsection (h)(1)(C)(iii).
 
-&emsp;(iv) Settlement Common Stock issued pursuant to clause (i) shall not carry rights to share in distributions made to shareholders pursuant to subsections (j) and (m) unless, prior to the issuance of such stock, a majority of the class of existing holders of Settlement Common Stock carrying such rights separately approve the granting of such rights. The articlesof incorporation of the Regional Corporation shall be deemed to be amended to authorize such class vote.
+&emsp;(iv) Settlement Common Stock issued pursuant to clause (i) shall not carry rights to share in distributions made to shareholders pursuant to subsections (j) and (m) unless, prior to the issuance of such stock, a majority of the class of existing holders of Settlement Common Stock carrying such rights separately approve the granting of such rights. The articles of incorporation of the Regional Corporation shall be deemed to be amended to authorize such class vote.
 
 &emsp;(C)(i) A Regional Corporation may amend its articles of incorporation to authorize the issuance of additional shares of Settlement Common Stock as a dividend or other distribution (without regard to surplus of the corporation under the laws of the State) upon each outstanding share of Settlement Common Stock issued pursuant to subparagraphs (A) and (B).
 
@@ -334,7 +334,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 #### (j) Corporate funds and other net income, distribution among: stockholders of Regional Corporations; Village Corporations and nonresident stockholders; and stockholders of thirteenth Regional Corporation
 
-During the five years following December 18, 1971, not less than 10% of all corporate funds received by each of the twelve Regional Corporations under section 1605 of this title (Alaska Native Fund), and under subsection (i) (revenuesfrom the timber resources and subsurface estate patented to it pursuant to this chapter), and all other net income, shall be distributed among the stockholders of the twelve Regional Corporations. Not less than 45% of funds from such sources during the first five-year period, and 50% thereafter, shall be distributed among the Village Corporations in the region and the class of stockholders who are not residents of those villages, as provided in subsection <sup>2</sup> to it. In the case of the thirteenth Regional Corporation, if organized, not less than 50% of all corporate funds received under section 1605 of this title shall be distributed to the stockholders.
+During the five years following December 18, 1971, not less than 10% of all corporate funds received by each of the twelve Regional Corporations under section 1605 of this title (Alaska Native Fund), and under subsection (i) (revenues from the timber resources and subsurface estate patented to it pursuant to this chapter), and all other net income, shall be distributed among the stockholders of the twelve Regional Corporations. Not less than 45% of funds from such sources during the first five-year period, and 50% thereafter, shall be distributed among the Village Corporations in the region and the class of stockholders who are not residents of those villages, as provided in subsection <sup>2</sup> to it. In the case of the thirteenth Regional Corporation, if organized, not less than 50% of all corporate funds received under section 1605 of this title shall be distributed to the stockholders.
 
 #### (k) Distributions among Village Corporations; computation of amount
 
@@ -372,7 +372,7 @@ The authority of a Native Corporation to provide benefits to its shareholders wh
 
 #### Amendments
 
-<b>2008</b>—Subsec. (g)(1)(B)(iii). Pub. L. 110–453 added cl. (iii) and struck out former cl. (iii) which read as follows: "The amendment authorized by clause (i) mayprovide that Settlement Common Stock issued to a Native pursuant to such amendment (or stock issued in exchange for such Settlement Common Stock pursuant to subsection (h)(3) of this section or section 1629c(d) of this title) shall be deemed canceled upon the death of such Native. No compensation for this cancellation shall be paid to the estate of the deceased Native or to any person holding the stock."
+<b>2008</b>—Subsec. (g)(1)(B)(iii). Pub. L. 110–453 added cl. (iii) and struck out former cl. (iii) which read as follows: "The amendment authorized by clause (i) may provide that Settlement Common Stock issued to a Native pursuant to such amendment (or stock issued in exchange for such Settlement Common Stock pursuant to subsection (h)(3) of this section or section 1629c(d) of this title) shall be deemed canceled upon the death of such Native. No compensation for this cancellation shall be paid to the estate of the deceased Native or to any person holding the stock."
 
 <b>2000</b>—Subsec. (h)(1)(C)(iii). Pub. L. 106–194 inserted before period at end ", notwithstanding an adoption, relinquishment, or termination of parental rights that may have altered or severed the legal relationship between the gift donor and recipient".
 
@@ -396,7 +396,7 @@ Subsec. (h)(1), (2). Pub. L. 100–241, §5, amended pars. (1) and (2) generally
 
 Subsec. (h)(3). Pub. L. 100–241, §5, amended par. (3) generally, revising and restating as subpars. (A) to (E) provisions of former subpars. (A) to (C).
 
-Subsec. (o). Pub. L. 100–241, §12(a), struck out ", to the Secretary of the Interior and to the Committees on Interior and Insular Affairs of the Senate and the House of Representatives" after "to each stockholder" in last sentence.
+Subsec. (o). Pub. L. 100–241, §12(a), struck out ", to the Secretary of the Interior and to the Committees onInterior and Insular Affairs of the Senate and the House of Representatives" after "to each stockholder" in last sentence.
 
 <b>1980</b>—Subsec. (h)(1). Pub. L. 96–487, §1401(c), inserted "or by stockholder who is a member of a professional organization, association, or board which limits the ability of that stockholder to practice his profession because of holding stock issued under this chapter" after "divorce or child support". Section 1401(c) of Pub. L. 96–487 directed that section 1696(h)(1) of this title be amended, however, since no section 1696 of this title has been enacted, amendment was executed to subsec. (h)(1) of this section to reflect the probable intent of Congress.
 

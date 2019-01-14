@@ -10,7 +10,7 @@ Any person knowingly violating any regulation of the Secretary issued under subs
 
 #### (c) Publication in Federal Register
 
-Each determination issued by the Secretary to establish, adjust, or suspend allotments underthis subpart shall be promptly published in the Federal Register and shall be accompanied by a statement of the reasons for the determination.
+Each determination issued by the Secretary to establish, adjust, or suspend allotments under this subpart shall be promptly published in the Federal Register and shall be accompanied by a statement of the reasons for the determination.
 
 #### (d) Jurisdiction of courts; United States attorneys
 

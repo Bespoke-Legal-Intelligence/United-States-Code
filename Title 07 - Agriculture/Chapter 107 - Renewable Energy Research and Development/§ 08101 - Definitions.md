@@ -38,7 +38,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;The term "biobased product" means a product determined by the Secretary to be a commercial or industrial product (other than food or feed) that is—
 
-&emsp;&emsp;(A) composed, in whole or in significant part, of biological products, including renewable domestic agricultural materials and forestry materials; or
+&emsp;&emsp;(A) composed, in whole or in significant part, of biological products, including renewable domestic agricultural materials, renewable chemicals, and forestry materials; or
 
 &emsp;&emsp;(B) an intermediate ingredient or feedstock.
 
@@ -62,7 +62,13 @@ Except as otherwise provided, in this chapter:
 
 &emsp;The term "biorefinery" means a facility (including equipment and processes) that—
 
-&emsp;&emsp;(A) converts renewable biomass into biofuels and biobased products; and
+&emsp;&emsp;(A) converts renewable biomass or an intermediate ingredient or feedstock of renewable biomass into any 1 or more, or a combination, of—
+
+&emsp;&emsp;&emsp;(i) biofuels;
+
+&emsp;&emsp;&emsp;(ii) renewable chemicals; or
+
+&emsp;&emsp;&emsp;(iii) biobased products; and
 
 &emsp;&emsp;(B) may produce electricity.
 
@@ -94,7 +100,7 @@ Except as otherwise provided, in this chapter:
 
 #### (12) Intermediate ingredient or feedstock
 
-&emsp;The term "intermediate ingredient or feedstock" means a material or compound made inwhole or in significant part from biological products, including renewable agricultural materials (including plant, animal, and marine materials) or forestry materials, that are subsequently used to make a more complex compound or product.
+&emsp;The term "intermediate ingredient or feedstock" means a material or compound made in whole or in significant part from biological products, including renewable agricultural materials (including plant, animal, and marine materials) or forestry materials, that are subsequently used to make a more complex compound or product.
 
 #### (13) Renewable biomass
 
@@ -160,13 +166,17 @@ Except as otherwise provided, in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the term "renewable energy system" means a system that—
+&emsp;&emsp;Subject to subparagraph (C), the term "renewable energy system" means a system that produces usable energy from a renewable energy source.
 
-&emsp;&emsp;&emsp;(i) produces usable energy from a renewable energy source; and
+#### (B) Inclusions
 
-&emsp;&emsp;&emsp;(ii) may include distribution components necessary to move energy produced by such system to the initial point of sale.
+&emsp;&emsp;The term "renewable energy system" includes—
 
-#### (B) Limitation
+&emsp;&emsp;&emsp;(i) distribution components necessary to move energy produced by a system described in subparagraph (A) to the initial point of sale; and
+
+&emsp;&emsp;&emsp;(ii) other components and ancillary infrastructure of a system described in subparagraph (A), such as a storage system.
+
+#### (C) Limitation
 
 &emsp;&emsp;A system described in subparagraph (A) may not include a mechanism for dispensing energy at retail.
 
@@ -174,7 +184,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;The term "Secretary" means the Secretary of Agriculture.
 
-(Pub. L. 107–171, title IX, §9001, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1303, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2064; amended Pub. L. 113–79, title IX, §9001, Feb. 7, 2014, 128 Stat. 926.)
+(Pub. L. 107–171, title IX, §9001, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1303, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2064; amended Pub. L. 113–79, title IX, §9001, Feb. 7, 2014, 128 Stat. 926; Pub. L. 115–334, title IX, §9001, Dec. 20, 2018, 132 Stat. 4883.)
 
 #### Codification
 
@@ -185,6 +195,18 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8101, Pub. L. 107–171, title IX, §9001, May 13, 2002, 116 Stat. 475; Pub. L. 109–58, title IX, §943(a)(1), Aug. 8, 2005, 119 Stat. 880, contained definitions for this chapter, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Par. (4)(A). Pub. L. 115–334, §9001(1), substituted "agricultural materials, renewable chemicals," for "agricultural materials".
+
+Par. (7)(A). Pub. L. 115–334, §9001(2), substituted "or an intermediate ingredient or feedstock of renewable biomass into any 1 or more, or a combination, of—" and cls. (i) to (iii) for "into biofuels and biobased products; and".
+
+Par. (16)(A). Pub. L. 115–334, §9001(3)(A), substituted "subparagraph (C), the term 'renewable energy system' means a system that produces usable energy from a renewable energy source." for "subparagraph (B), the term 'renewable energy system' means a system that—
+
+&emsp;"(i) produces usable energy from a renewable energy source; and
+
+&emsp;"(ii) may include distribution components necessary to move energy produced by such system to the initial point of sale."
+
+Par. (16)(B), (C). Pub. L. 115–334, §9001(3)(B), (C), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 <b>2014</b>—Par. (9). Pub. L. 113–79, §9001(2), added par. (9). Former par. (9) redesignated (10).
 
@@ -208,7 +230,7 @@ Pub. L. 108–199, div. A, title VII, §778(a), Jan. 23, 2004, 118 Stat. 41, pro
 
 #### Biomass Research and Development
 
-Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, §9008, May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, §201, Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, §941, Aug. 8, 2005, 119 Stat. 873, known as the Biomass Research and Development Act of 2000, and formerly set out as a note under this section, provided temporary authority for the Secretaries of Agriculture and Energy to promote biomass research and development. As amended by Pub. L. 109–58, the program became permanent, andtitle III of Pub. L. 106–224 was transferred to chapter 112 (§8601 et seq.) of this title. Subsequently, title III of Pub. L. 106–224 was repealed by Pub. L. 110–246, title IX, §9001(b), June 18, 2008, 122 Stat. 2095.
+Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, §9008, May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, §201, Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, §941, Aug. 8, 2005, 119 Stat. 873, known as the Biomass Research and Development Act of 2000, and formerly set out as a note under this section, provided temporary authority for the Secretaries of Agriculture and Energy to promote biomass research and development. As amended by Pub. L. 109–58, the program became permanent, and title III of Pub. L. 106–224 was transferred to chapter 112 (§8601 et seq.) of this title. Subsequently, title III of Pub. L. 106–224 was repealed by Pub. L. 110–246, title IX, §9001(b), June 18, 2008, 122 Stat. 2095.
 
 #### Biofuels And Rural Economic Development
 
@@ -242,7 +264,7 @@ Alongside the Working Group's efforts, the Secretary of Agriculture may pursue o
 
 (v) Guidance and support for collection, harvest, storage, and transportation assistance for eligible materials for use in biomass conversion facilities.
 
-This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural,enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 The Secretary of Agriculture is hereby authorized and directed to publish this memorandum in the Federal Register.
 

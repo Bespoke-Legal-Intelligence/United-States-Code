@@ -46,7 +46,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any acreage base remaining unassigned after the transfers and processes described in subparagraphs (A) through (E) shall be made available to the State committee ofthe Farm Service Agency for allocation among the remaining county committees in the State representing counties with farms eligible for assignment of the base, based on a random drawing.
+&emsp;&emsp;&emsp;Any acreage base remaining unassigned after the transfers and processes described in subparagraphs (A) through (E) shall be made available to the State committee of the Farm Service Agency for allocation among the remaining county committees in the State representing counties with farms eligible for assignment of the base, based on a random drawing.
 
 #### (ii) Allocation
 
@@ -86,7 +86,7 @@ The Secretary, after such notice as the Secretary by regulation may prescribe, m
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 

@@ -8,7 +8,7 @@ The President, with respect to any agreement that is subject to the provisions o
 
 &emsp;(2) before and after submission of the notice, consult regarding the negotiations with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives, such other committees of the House and Senate as the President deems appropriate, and the Congressional Oversight group convened under section 3807 of this title; and
 
-&emsp;(3) upon the request of a majority of the members of the Congressional Oversight Group under section 3807(c) of this title, meet with the Congressional Oversight Group beforeinitiating the negotiations or at any other time concerning the negotiations.
+&emsp;(3) upon the request of a majority of the members of the Congressional Oversight Group under section 3807(c) of this title, meet with the Congressional Oversight Group before initiating the negotiations or at any other time concerning the negotiations.
 
 #### (b) Negotiations regarding agriculture
 
@@ -24,7 +24,7 @@ The President, with respect to any agreement that is subject to the provisions o
 
 &emsp;&emsp;(ii) consult with the Committee on Ways and Means and the Committee on Agriculture of the House of Representatives and the Committee on Finance and the Committee on Agriculture, Nutrition, and Forestry of the Senate concerning—
 
-&emsp;&emsp;&emsp;(I) whether any further tariff reductions on the products identified under clause (i) should be appropriate, taking into account the impact of any such tariff reduction on the United States industry producing the product concerned;
+&emsp;&emsp;&emsp;(I) whether any further tariff reductions on the products identified under clause (i)should be appropriate, taking into account the impact of any such tariff reduction on the United States industry producing the product concerned;
 
 &emsp;&emsp;&emsp;(II) whether the products so identified face unjustified sanitary or phytosanitary restrictions, including those not based on scientific principles in contravention of the Uruguay Round Agreements; and
 

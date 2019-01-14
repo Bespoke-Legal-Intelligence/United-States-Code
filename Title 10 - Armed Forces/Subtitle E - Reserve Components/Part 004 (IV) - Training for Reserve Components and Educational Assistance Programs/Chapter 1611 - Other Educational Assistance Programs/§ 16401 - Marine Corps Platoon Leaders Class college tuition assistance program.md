@@ -48,7 +48,7 @@ Limitations.—(1) Financial assistance may be provided to a member under this s
 
 (f)
 
-Failure To Complete Program.—(1) An enlisted member who receives financial assistance under this section may be ordered to active duty in the Marine Corps by the Secretary to serve in an appropriate enlisted grade for such period as the Secretary prescribes, but not for more thanfour years, and an officer who receives financial assistance under this section shall be subject to the repayment provisions of section 303a(e) or 373 of title 37, if the member—
+Failure To Complete Program.—(1) An enlisted member who receives financial assistance under this section may be ordered to active duty in the Marine Corps by the Secretary to serve in an appropriate enlisted grade for such period as the Secretary prescribes, but not for more than four years, and an officer who receives financial assistance under this section shall be subject to the repayment provisions of section 303a(e) or 373 of title 37, if the member—
 
 &emsp;(A) completes the military and academic requirements of the Marine Corps Platoon Leaders Class program and refuses to accept an appointment as a commissioned officer in the Marine Corps when offered or, if already a commissioned officer in the Marine Corps, refuses to accept an assignment on active duty when offered;
 
@@ -68,7 +68,7 @@ Failure To Complete Program.—(1) An enlisted member who receives financial ass
 
 Institution of Higher Education Defined.—In this section, the term "institution of higher education" has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
-(Added Pub. L. 106–65, div. A, title V, §551(a)(1), Oct. 5, 1999, 113 Stat. 612; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §533(a)–(d), (f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110, 1654A–111; Pub. L. 109–163, div. A, title VI, §687(c)(15), Jan. 6, 2006, 119 Stat. 3336; Pub. L. 115–91, div. A, title VI, §618(a)(1)(R), Dec. 12, 2017, 131 Stat. 1426.)
+(Added Pub. L. 106–65, div. A, title V, §551(a)(1), Oct. 5, 1999, 113 Stat. 612; amended Pub. L.106–398, §1 \[\[div. A\], title V, §533(a)–(d), (f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110, 1654A–111; Pub. L. 109–163, div. A, title VI, §687(c)(15), Jan. 6, 2006, 119 Stat. 3336; Pub. L. 115–91, div. A, title VI, §618(a)(1)(R), Dec. 12, 2017, 131 Stat. 1426.)
 
 #### Amendments
 
@@ -106,7 +106,7 @@ Subsec. (f)(2). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(d)(2)\], add
 
 #### Savings Provision
 
-For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) ofPub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
 
 #### Transition Provision
 

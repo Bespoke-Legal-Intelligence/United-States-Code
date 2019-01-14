@@ -32,7 +32,7 @@ Nonprofit corporations and public housing agencies receiving assistance for cong
 
 #### (h) Fees for meal and other services
 
-Each nonprofit corporation and public housing agency shall establish fees for meal service and other appropriate services provided to eligible project residents. These fees shall be reasonable, may not exceed the cost of providing the service, and shall be calculated on a sliding scale related to income which permits the provision of services to such residents who cannot afford meal and service fees. When meal services are provided to other project residents, fees shall be reasonable and may not exceed the cost of providing the meal service.
+Each nonprofit corporation and public housing agency shall establish fees for meal service andother appropriate services provided to eligible project residents. These fees shall be reasonable, may not exceed the cost of providing the service, and shall be calculated on a sliding scale related to income which permits the provision of services to such residents who cannot afford meal and service fees. When meal services are provided to other project residents, fees shall be reasonable and may not exceed the cost of providing the meal service.
 
 #### (i) Standards for provision of services
 

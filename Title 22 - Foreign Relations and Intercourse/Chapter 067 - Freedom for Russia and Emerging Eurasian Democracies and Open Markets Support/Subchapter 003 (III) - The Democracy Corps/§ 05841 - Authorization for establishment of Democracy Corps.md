@@ -66,7 +66,7 @@ Funds made available to the Democracy Corps under this section may not be expend
 
 #### (3) AID review
 
-&emsp;In the event that the Democracy Corps determines not to comply with a request for records under section 552 of title 5, the Democracy Corps shall submit a report to the Administrator explaining the reasons for not complying with such request. If the Administrator approves such determination, the Agency for International Development shall assume full responsibility, including financial responsibility, for defending the Democracy Corps in any litigation relating to such request. If the Administrator disapproves such determination, the Democracy Corps shall be required to comply with such request.
+&emsp;In the event that the Democracy Corps determines not to comply with a request forrecords under section 552 of title 5, the Democracy Corps shall submit a report to the Administrator explaining the reasons for not complying with such request. If the Administrator approves such determination, the Agency for International Development shall assume full responsibility, including financial responsibility, for defending the Democracy Corps in any litigation relating to such request. If the Administrator disapproves such determination, the Democracy Corps shall be required to comply with such request.
 
 #### (i) Annual reports
 

@@ -8,7 +8,7 @@ Except as otherwise provided in this section, members of the National Civilian C
 
 #### (1) In general
 
-&emsp;For purposes of subchapter I of chapter 81 of title 5 relating to the compensation of Federalemployees for work injuries, members of the Corps shall be considered as employees of the United States within the meaning of the term "employee", as defined in section 8101 of such title.
+&emsp;For purposes of subchapter I of chapter 81 of title 5 relating to the compensation of Federal employees for work injuries, members of the Corps shall be considered as employees of the United States within the meaning of the term "employee", as defined in section 8101 of such title.
 
 #### (2) Special rule
 

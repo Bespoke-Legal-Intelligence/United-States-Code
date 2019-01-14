@@ -70,7 +70,7 @@ Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory
 
 The Department of Homeland Security Science and Technology Advisory Committee shall terminate on December 31, 2008.
 
-(Pub. L. 107–296, title III, §311, Nov. 25, 2002, 116 Stat. 2174; Pub. L. 108–334, title V, §520, Oct. 18, 2004, 118 Stat. 1318; Pub. L. 109–347, title III, §302(a), Oct. 13, 2006, 120 Stat. 1920.)
+(Pub. L. 107–296, title III, §311, Nov. 25, 2002, 116 Stat. 2174; Pub. L. 108–334, title V, §520, Oct. 18,2004, 118 Stat. 1318; Pub. L. 109–347, title III, §302(a), Oct. 13, 2006, 120 Stat. 1920.)
 
 #### References in Text
 
@@ -84,5 +84,5 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–347, title III, §302(b), Oct. 13, 2006, 120 Stat. 1921, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective asif enacted on the date of the enactment of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) \[Nov. 25, 2002\]."
+Pub. L. 109–347, title III, §302(b), Oct. 13, 2006, 120 Stat. 1921, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as if enacted on the date of the enactment of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) \[Nov. 25, 2002\]."
 

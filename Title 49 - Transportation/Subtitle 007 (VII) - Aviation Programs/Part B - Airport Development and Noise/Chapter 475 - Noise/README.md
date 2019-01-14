@@ -14,6 +14,7 @@
 | [47508\.](Subchapter%20001%20%28I%29%20-%20Noise%20Abatement/%C2%A7%2047508%20-%20Noise%20standards%20for%20air%20carriers%20and%20foreign%20air%20carriers%20providing%20foreign%20air%20transportation.md) | Noise standards for air carriers and foreign air carriers providing foreign air transportation. |
 | [47509\.](Subchapter%20001%20%28I%29%20-%20Noise%20Abatement/%C2%A7%2047509%20-%20Research%20program%20on%20quiet%20aircraft%20technology%20for%20propeller%20and%20rotor%20driven%20aircraft.md) | Research program on quiet aircraft technology for propeller and rotor driven aircraft. |
 | [47510\.](Subchapter%20001%20%28I%29%20-%20Noise%20Abatement/%C2%A7%2047510%20-%20Tradeoff%20allowance.md) | Tradeoff allowance. |
+| [47511\.](Subchapter%20001%20%28I%29%20-%20Noise%20Abatement/%C2%A7%2047511%20-%20CLEEN%20engine%20and%20airframe%20technology%20partnership.md) | CLEEN engine and airframe technology partnership. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -39,6 +40,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–254, div. B, title VII, §743(b), Oct. 5, 2018, 132 Stat. 3413, added item 47511.
 
 <b>2012</b>—Pub. L. 112–95, title V, §506(b)(3), Feb. 14, 2012, 126 Stat. 106, which directed amendment of the analysis for subchapter II of this chapter by substituting "Penalties" for "Penalties for violating sections 47528–47530" in item 47531 and by adding item 47534, was executed to the analysis for this chapter to reflect the probable intent of Congress.
 

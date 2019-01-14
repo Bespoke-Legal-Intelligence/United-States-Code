@@ -6,7 +6,7 @@ It is the sense of Congress that the United States should work with other countr
 
 #### (b) Authorization of appropriations
 
-There is authorized to be appropriated $14,000,000 for each of fiscal years 2008 and 2009 tothe Secretary for a United States contribution to the United Nations Democracy Fund.
+There is authorized to be appropriated $14,000,000 for each of fiscal years 2008 and 2009 to the Secretary for a United States contribution to the United Nations Democracy Fund.
 
 (Pub. L. 110–53, title XXI, §2161, Aug. 3, 2007, 121 Stat. 536.)
 

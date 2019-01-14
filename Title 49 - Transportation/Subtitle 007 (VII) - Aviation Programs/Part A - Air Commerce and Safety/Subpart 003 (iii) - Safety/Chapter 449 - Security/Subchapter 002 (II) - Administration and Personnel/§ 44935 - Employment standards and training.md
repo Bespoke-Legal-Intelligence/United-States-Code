@@ -2,7 +2,7 @@
 
 (a)
 
-Employment Standards.—The Under Secretary of Transportation for Security shall prescribe standards for the employment and continued employment of, and contracting for, air carrier personnel and, as appropriate, airport security personnel. The standards shall include—
+Employment Standards.—The Administrator shall prescribe standards for the employment and continued employment of, and contracting for, air carrier personnel and, as appropriate, airport security personnel. The standards shall include—
 
 &emsp;(1) minimum training requirements for new employees;
 
@@ -16,21 +16,21 @@ Employment Standards.—The Under Secretary of Transportation for Security shall
 
 (b)
 
-Review and Recommendations.—In coordination with air carriers, airport operators, and other interested persons, the Under Secretary shall review issues related to human performance in the aviation security system to maximize that performance. When the review is completed, the Under Secretary shall recommend guidelines and prescribe appropriate changes in existing procedures to improve that performance.
+Review and Recommendations.—In coordination with air carriers, airport operators, and other interested persons, the Administrator shall review issues related to human performance in the aviation security system to maximize that performance. When the review is completed, the Administrator shall recommend guidelines and prescribe appropriate changes in existing procedures to improve that performance.
 
 (c)
 
-Security Program Training, Standards, and Qualifications.—(1) The Under Secretary—
+Security Program Training, Standards, and Qualifications.—(1) The Administrator—
 
 &emsp;(A) may train individuals employed to carry out a security program under section 44903(c) of this title; and
 
 &emsp;(B) shall prescribe uniform training standards and uniform minimum qualifications for individuals eligible for that training.
 
-(2) The Under Secretary may authorize reimbursement for travel, transportation, and subsistence expenses for security training of non-United States Government domestic and foreign individuals whose services will contribute significantly to carrying out civil aviation security programs. To the extent practicable, air travel reimbursed under this paragraph shall be on air carriers.
+(2) The Administrator may authorize reimbursement for travel, transportation, and subsistence expenses for security training of non-United States Government domestic and foreign individuals whose services will contribute significantly to carrying out civil aviation security programs. To the extent practicable, air travel reimbursed under this paragraph shall be on air carriers.
 
 (d)
 
-Education and Training Standards for Security Coordinators, Supervisory Personnel, and Pilots.—(1) The Under Secretary shall prescribe standards for educating and training—
+Education and Training Standards for Security Coordinators, Supervisory Personnel, and Pilots.—(1) The Administrator shall prescribe standards for educating and training—
 
 &emsp;(A) ground security coordinators;
 
@@ -46,7 +46,7 @@ Security Screeners.—
 
 &emsp;(1)
 
-Training program.—The Under Secretary of Transportation for Security shall establish a program for the hiring and training of security screening personnel.
+Training program.—The Administrator shall establish a program for the hiring and training of security screening personnel.
 
 &emsp;(2)
 
@@ -54,29 +54,29 @@ Hiring.—
 
 &emsp;&emsp;(A)
 
-Qualifications.—Within 30 days after the date of enactment of the Aviation and Transportation Security Act, the Under Secretary shall establish qualification standards for individuals to be hired by the United States as security screening personnel. Notwithstanding any provision of law, those standards shall require, at a minimum, an individual—
+Qualifications.—The Administrator shall establish qualification standards for individuals to be hired by the United States as security screening personnel. Notwithstanding any other provision of law, those standards shall require, at a minimum, an individual—
 
 &emsp;&emsp;&emsp;(i) to have a satisfactory or better score on a Federal security screening personnel selection examination;
 
-&emsp;&emsp;&emsp;(ii) to be a citizen of the United States or a national of the United States, as defined in section 1101(a)(22) <sup>1</sup> of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
+&emsp;&emsp;&emsp;(ii) to be a citizen of the United States or a national of the United States, as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
 
 &emsp;&emsp;&emsp;(iii) to meet, at a minimum, the requirements set forth in subsection (f);
 
-&emsp;&emsp;&emsp;(iv) to meet such other qualifications as the Under Secretary may establish; and
+&emsp;&emsp;&emsp;(iv) to meet such other qualifications as the Administrator may establish; and
 
 &emsp;&emsp;&emsp;(v) to have the ability to demonstrate daily a fitness for duty without any impairment due to illegal drugs, sleep deprivation, medication, or alcohol.
 
 &emsp;&emsp;(B)
 
-Background checks.—The Under Secretary shall require that an individual to be hired as a security screener undergo an employment investigation (including a criminal history record check) under section 44936(a)(1).
+Background checks.—The Administrator shall require that an individual to be hired as a security screener undergo an employment investigation (including a criminal history record check) under section 44936(a)(1).
 
 &emsp;&emsp;(C)
 
-Disqualification of individuals who present national security risks.—TheUnder Secretary, in consultation with the heads of other appropriate Federal agencies, shall establish procedures, in addition to any background check conducted under section 44936, to ensure that no individual who presents a threat to national security is employed as a security screener.
+Disqualification of individuals who present national security risks.—The Administrator, in consultation with the heads of other appropriate Federal agencies, shall establish procedures, in addition to any background check conducted under section 44936, to ensure that no individual who presents a threat to national security is employed as a security screener.
 
 &emsp;(3)
 
-Examination; review of existing rules.—The Under Secretary shall develop a security screening personnel examination for use in determining the qualification of individuals seeking employment as security screening personnel. The Under Secretary shall also review, and revise as necessary, any standard, rule, or regulation governing the employment of individuals as security screening personnel.
+Examination; review of existing rules.—The Administrator shall develop a security screening personnel examination for use in determining the qualification of individuals seeking employment as security screening personnel. The Administrator shall also review, and revise as necessary, any standard, rule, or regulation governing the employment of individuals as security screening personnel.
 
 (f)
 
@@ -84,13 +84,13 @@ Employment Standards for Screening Personnel.—
 
 &emsp;(1)
 
-Screener requirements.—Notwithstanding any provision of law, an individual may not be deployed as a security screener unless that individual meets the following requirements:
+Screener requirements.—Notwithstanding any other provision of law, an individual may not be deployed as a security screener unless that individual meets the following requirements:
 
-&emsp;&emsp;(A) The individual shall possess a high school diploma, a general equivalency diploma, or experience that the Under Secretary has determined to be sufficient for the individual to perform the duties of the position.
+&emsp;&emsp;(A) The individual shall possess a high school diploma, a general equivalency diploma, or experience that the Administrator has determined to be sufficient for the individual to perform the duties of the position.
 
 &emsp;&emsp;(B) The individual shall possess basic aptitudes and physical abilities, including color perception, visual and aural acuity, physical coordination, and motor skills, to the following standards:
 
-&emsp;&emsp;&emsp;(i) Screeners operating screening equipment shall be able to distinguish on the screening equipment monitor the appropriate imaging standard specified by the Under Secretary.
+&emsp;&emsp;&emsp;(i) Screeners operating screening equipment shall be able to distinguish on the screening equipment monitor the appropriate imaging standard specified by the Administrator.
 
 &emsp;&emsp;&emsp;(ii) Screeners operating any screening equipment shall be able to distinguish each color displayed on every type of screening equipment and explain what each color signifies.
 
@@ -114,7 +114,7 @@ Screener requirements.—Notwithstanding any provision of law, an individual may
 
 &emsp;(2)
 
-Veterans preference.—The Under Secretary shall provide a preference for the hiring of an individual as a security screener if the individual is a member or former member of the armed forces and if the individual is entitled, under statute, to retired, retirement, or retainer pay on account of service as a member of the armed forces.
+Veterans preference.—The Administrator shall provide a preference for the hiring of an individual as a security screener if the individual is a member or former member of the armed forces and if the individual is entitled, under statute, to retired, retirement, or retainer pay on account of service as a member of the armed forces.
 
 &emsp;(3)
 
@@ -126,11 +126,11 @@ Exceptions.—An individual who has not completed the training required by this 
 
 &emsp;(4)
 
-Remedial training.—No individual employed as a security screener may perform a screening function after that individual has failed an operational test related to that function until that individual has successfully completed the remedial training specified in the security program.
+Remedial training.—No individual employed as a security screener may perform ascreening function after that individual has failed an operational test related to that function until that individual has successfully completed the remedial training specified in the security program.
 
 &emsp;(5)
 
-Annual proficiency review.—The Under Secretary shall provide that an annual evaluation of each individual assigned screening duties is conducted and documented. An individual employed as a security screener may not continue to be employed in that capacity unless the evaluation demonstrates that the individual—
+Annual proficiency review.—The Administrator shall provide that an annual evaluation of each individual assigned screening duties is conducted and documented. An individual employed as a security screener may not continue to be employed in that capacity unless the evaluation demonstrates that the individual—
 
 &emsp;&emsp;(A) continues to meet all qualifications and standards required to perform a screening function;
 
@@ -140,7 +140,7 @@ Annual proficiency review.—The Under Secretary shall provide that an annual ev
 
 &emsp;(6)
 
-Operational testing.—In addition to the annual proficiency review conducted under paragraph (5), the Under Secretary shall provide for the operational testing of such personnel.
+Operational testing.—In addition to the annual proficiency review conducted under paragraph (5), the Administrator shall provide for the operational testing of such personnel.
 
 (g)
 
@@ -148,17 +148,17 @@ Training.—
 
 &emsp;(1)
 
-Use of other agencies.—The Under Secretary may enter into a memorandum of understanding or other arrangement with any other Federal agency or department with appropriate law enforcement responsibilities, to provide personnel, resources, or other forms of assistance in the training of security screening personnel.
+Use of other agencies.—The Administrator may enter into a memorandum of understanding or other arrangement with any other Federal agency or department with appropriate law enforcement responsibilities, to provide personnel, resources, or other forms of assistance in the training of security screening personnel.
 
 &emsp;(2)
 
-Training plan.—Within 60 days after the date of enactment of the Aviation and Transportation Security Act, the Under Secretary shall develop a plan for the training of security screening personnel. The plan shall require, at a minimum, that a security screener—
+Training plan.—The Administrator shall develop a plan for the training of security screening personnel. The plan shall require, at a minimum, that a security screener—
 
-&emsp;&emsp;(A) has completed 40 hours of classroom instruction or successfully completed a program that the Under Secretary determines will train individuals to a level of proficiency equivalent to the level that would be achieved by such classroom instruction;
+&emsp;&emsp;(A) has completed 40 hours of classroom instruction or successfully completed a program that the Administrator determines will train individuals to a level of proficiency equivalent to the level that would be achieved by such classroom instruction;
 
 &emsp;&emsp;(B) has completed 60 hours of on-the-job instructions; and
 
-&emsp;&emsp;(C) has successfully completed an on-the-job training examination prescribed by the Under Secretary.
+&emsp;&emsp;(C) has successfully completed an on-the-job training examination prescribed by the Administrator.
 
 &emsp;(3)
 
@@ -170,11 +170,11 @@ Technological Training.—
 
 &emsp;(1)
 
-In general.—The Under Secretary shall require training to ensure that screeners are proficient in using the most up-to-date new technology and to ensure their proficiency in recognizing new threats and weapons.
+In general.—The Administrator shall require training to ensure that screeners are proficient in using the most up-to-date new technology and to ensure their proficiency in recognizing new threats and weapons.
 
 &emsp;(2)
 
-Periodic assessments.—The Under Secretary shall make periodic assessments to determine if there are dual use items and inform security screening personnel of the existence of such items.
+Periodic assessments.—The Administrator shall make periodic assessments to determine if there are dual use items and inform security screening personnel of the existence of such items.
 
 &emsp;(3)
 
@@ -184,19 +184,51 @@ Current lists of dual use items.—Current lists of dual use items shall be part
 
 Dual use defined.—For purposes of this subsection, the term "dual use" item means an item that may seem harmless but that may be used as a weapon.
 
-(i) <sup>2</sup>
+(i)
 
 Limitation on Right To Strike.—An individual that screens passengers or property, or both, at an airport under this section may not participate in a strike, or assert the right to strike, against the person (including a governmental entity) employing such individual to perform such screening.
 
 (j)
 
-Uniforms.—The Under Secretary shall require any individual who screens passengers and property pursuant to section 44901 to be attired while on duty in a uniform approved by the Under Secretary.
+Uniforms.—The Administrator shall require any individual who screens passengers and property pursuant to section 44901 to be attired while on duty in a uniform approved by the Administrator.
 
-(i) <sup>2</sup>
+(k)
 
-Accessibility of Computer-Based Training Facilities.—The Under Secretary shall work with air carriers and airports to ensure that computer-based training facilities intended for use by security screeners at an airport regularly serving an air carrier holding a certificate issued by the Secretary of Transportation are conveniently located for that airport and easily accessible.
+Accessibility of Computer-based Training Facilities.—The Administrator shall work with air carriers and airports to ensure that computer-based training facilities intended for use by security screeners at an airport regularly serving an air carrier holding a certificate issued by the Secretary of Transportation are conveniently located for that airport and easily accessible.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1217; Pub. L. 106–528, §3, Nov. 22, 2000, 114 Stat. 2519; Pub. L. 107–71, title I, §§101(f)(7), (9), 111(a), Nov. 19, 2001, 115 Stat. 603, 616; Pub. L. 107–296, title XVI, §1603, Nov. 25, 2002, 116 Stat. 2313.)
+(l) <sup>1</sup>
+
+Initial and Recurring Training.—
+
+&emsp;(1)
+
+In general.—The Administrator shall establish a training program for new security screening personnel located at the Transportation Security Administration Academy.
+
+&emsp;(2)
+
+Recurring training.—
+
+&emsp;&emsp;(A)
+
+In general.—Not later than 180 days after the date of enactment of the TSA Modernization Act, the Administrator shall establish recurring training for security screening personnel regarding updates to screening procedures and technologies, including, in response to weaknesses identified in covert tests at airports—
+
+&emsp;&emsp;&emsp;(i) methods to identify the verification of false or fraudulent travel documents; and
+
+&emsp;&emsp;&emsp;(ii) training on emerging threats.
+
+&emsp;&emsp;(B)
+
+Contents.—The training under subparagraph (A) shall include—
+
+&emsp;&emsp;&emsp;(i) internal controls for monitoring and documenting compliance of transportation security officers with such training requirements; and
+
+&emsp;&emsp;&emsp;(ii) such other matters as identified by the Administrator with regard to such training.
+
+(l) <sup>1</sup>
+
+Definition of Administrator.—In this section, the term "Administrator" means the Administrator of the Transportation Security Administration.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1217; Pub. L. 106–528, §3, Nov. 22, 2000, 114 Stat. 2519; Pub. L. 107–71, title I, §§101(f)(7), (9), 111(a), Nov. 19, 2001, 115 Stat. 603, 616; Pub. L. 107–296, title XVI, §1603, Nov. 25, 2002, 116 Stat. 2313; Pub. L. 115–254, div. K, title I, §§1948(a), 1991(d)(26), Oct. 5, 2018, 132 Stat. 3587, 3638.)
 
 Historical and Revision Notes
 
@@ -240,9 +272,35 @@ In subsection (d)(1), before clause (A), the words "Not later than 180 days afte
 
 #### References in Text
 
-The date of enactment of the Aviation and Transportation Security Act, referred to in subsecs. (e)(2)(A) and (g)(2), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+The date of enactment of the TSA Modernization Act, referred to in subsec. (l)(2)(A), is the date of enactment of title I of div. K of Pub. L. 115–254, which was approved Oct. 5, 2018.
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–254, §1991(d)(26)(E), substituted "Administrator" for "Under Secretary" wherever appearing.
+
+Subsec. (a). Pub. L. 115–254, §1991(d)(26)(A), substituted "Administrator" for "Under Secretary of Transportation for Security" in introductory provisions.
+
+Subsec. (e)(1). Pub. L. 115–254, §1991(d)(26)(B)(i), substituted "Administrator" for "Under Secretary of Transportation for Security".
+
+Subsec. (e)(2)(A). Pub. L. 115–254, §1991(d)(26)(B)(ii)(I), in introductory provisions, substituted "The" for "Within 30 days after the date of enactment of the Aviation and Transportation Security Act, the" and inserted "other" before "provision of law".
+
+Subsec. (e)(2)(A)(ii). Pub. L. 115–254, §1991(d)(26)(B)(ii)(II), which directed substitution of "section 101(a)(22)" for "section 1102(a)(22)", was executed by making the substitution for "section 1101(a)(22)", to reflect the probable intent of Congress.
+
+Subsec. (f)(1). Pub. L. 115–254, §1991(d)(26)(C), inserted "other" before "provision of law" in introductory provisions.
+
+Subsec. (g)(2). Pub. L. 115–254, §1991(d)(26)(D), substituted "The" for "Within 60 days after the date of enactment of the Aviation and Transportation Security Act, the" in introductory provisions.
+
+Subsec. (k). Pub. L. 115–254, §1948(a)(1), which directed the redesignation of subsec. (i) relating to accessibility of computer-based training facilities as (k) by substituting "(k)
+
+Accessibility of Computer-based Training Facilities.—" for "(i)
+
+Accessibility of Computer-based Training Facilities.—", was executed by making the substitution for "(i)
+
+Accessibility of Computer-Based Training Facilities.—" to reflect the probable intent of Congress.
+
+Subsec. (l). Pub. L. 115–254, §1991(d)(26)(F), added subsec. (l) defining "Administrator".
+
+Pub. L. 115–254, §1948(a)(2), added subsec. (l) relating to initial and recurring training.
 
 <b>2002</b>—Subsec. (e)(2)(A)(ii). Pub. L. 107–296 substituted "citizen of the United States or a national of the United States, as defined in section 1101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))" for "citizen of the United States".
 
@@ -278,13 +336,9 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see section 9 of Pub. L. 106–528, set out as a note under section 106 of this title.
 
-#### Transfer of Functions
-
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
 #### Transition
 
-Pub. L. 107–71, title I, §111(c), Nov. 19, 2001, 115 Stat. 620, provided that: "The Under Secretary of Transportation for Security shall complete the full implementation of section 44935 (e), (f), (g), and (h) of title 49, United States Code, as amended by subsection (a), as soon as is practicable. The Under Secretary may make or continue such arrangements for the training of security screeners under that section as the Under Secretary determines necessary pending full implementation of that section as so amended."
+Pub. L. 107–71, title I, §111(c), Nov. 19, 2001, 115 Stat. 620, provided that: "The Under Secretary of Transportation for Security \[now Administrator of the Transportation Security Administration\] shall complete the full implementation of section 44935 (e), (f), (g), and (h) of title 49, United States Code, as amended by subsection (a), as soon as is practicable. The Under Secretary may make or continue such arrangements for the training of security screeners under that section as the Under Secretary determines necessary pending full implementation of that section as so amended."
 
 #### Improvement of Screener Job Performance
 
@@ -296,7 +350,7 @@ Required Action.—The Assistant Secretary of Homeland Security (Transportation 
 
 "(b)
 
-Human Factors Study.—In carrying out this section, the Assistant Secretary shall provide, not later than 180 days after the date of the enactment of this Act \[Dec. 17, 2004\], to the appropriate congressional committees a report on the results of any human factors study conducted by the Department of Homeland Security to better understand problems in screener performance and to improve screener performance."
+Human Factors Study.—In carrying out this section, the Assistant Secretary shall provide, not laterthan 180 days after the date of the enactment of this Act \[Dec. 17, 2004\], to the appropriate congressional committees a report on the results of any human factors study conducted by the Department of Homeland Security to better understand problems in screener performance and to improve screener performance."
 
 \[For definitions of "airport" and "appropriate congressional committees" used in section 4015 of Pub. L. 108–458, set out above, see section 4081 of Pub. L. 108–458, set out as a note under section 44901 of this title.\]
 
@@ -306,7 +360,7 @@ Pub. L. 107–71, title I, §111(d), Nov. 19, 2001, 115 Stat. 620, as amended by
 
 "(1)
 
-General authority.—Except as provided in paragraph (2), and notwithstanding any other provision of law, the Under Secretary of Transportation for Security may employ, appoint, discipline, terminate, and fix the compensation, terms, and conditions of employment of Federal service for such a number of individuals as the Under Secretary determines to be necessary to carry out the screening functions of the Under Secretary under section 44901 of title 49, United States Code. The Under Secretary shall establish levels of compensation and other benefits for individuals so employed.
+General authority.—Except as provided in paragraph (2), and notwithstanding any other provision of law, the Under Secretary of Transportation for Security \[now Administrator of the Transportation Security Administration\] may employ, appoint, discipline, terminate, and fix the compensation, terms, and conditions of employment of Federal service for such a number of individuals as the Under Secretary determines to be necessary to carry out the screening functions of the Under Secretary under section 44901 of title 49, United States Code. The Under Secretary shall establish levels of compensation and other benefits for individuals so employed.
 
 "(2)
 
@@ -350,7 +404,5 @@ Study.—The Administrator of the Federal Aviation Administration shall conduct 
 
 Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 9, 1996\], the Administrator shall transmit to Congress a report on the results of the study."
 
-<i><sup>1</sup></i><i> So in original. Probably should be section "101(a)(22)".</i>
-
-<i><sup>2</sup></i><i> So in original. Two subsecs. (i) have been enacted.</i>
+<i><sup>1</sup></i><i> So in original. Two subsecs. (l) have been enacted.</i>
 

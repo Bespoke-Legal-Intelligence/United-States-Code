@@ -14,7 +14,7 @@ Procedural Rights.—Under regulations prescribed by the Secretary of Defense, a
 
 (b)
 
-Summary of Records Withheld.—When a record is withheld under subsection (a)(4), the officer whose case is under consideration shall, to the extent that the interest of national security permits, be furnished a summary of the record so withheld.
+Summary of Records Withheld.—When a record is withheld under subsection (a)(4), theofficer whose case is under consideration shall, to the extent that the interest of national security permits, be furnished a summary of the record so withheld.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2959.)
 

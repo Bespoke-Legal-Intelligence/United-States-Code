@@ -6,7 +6,7 @@ No cooperative agreement shall be entered into or continued in force under the a
 
 (b) In order to insure a stable and efficient organization for the development and administration of the lands acquired under sections 567a to 567c of this title, the State shall provide for the employment of a State forester, who shall be a trained forester of recognized standing.
 
-(c) The Secretary of Agriculture and the appropriate authorities of each cooperating State shall work out a mutually satisfactory plan defining forest areas within the State which can be most effectively and economically administered by said State, which plan shall constitute a part of the cooperative agreement between the United States and the State concerned: <i>Provided</i>, That nothing herein shall be held to prevent the Secretary of Agriculture from later agreeingwith the proper State authorities to desirable modifications in such plan.
+(c) The Secretary of Agriculture and the appropriate authorities of each cooperating State shall work out a mutually satisfactory plan defining forest areas within the State which can be most effectively and economically administered by said State, which plan shall constitute a part of the cooperative agreement between the United States and the State concerned: <i>Provided</i>, That nothing herein shall be held to prevent the Secretary of Agriculture from later agreeing with the proper State authorities to desirable modifications in such plan.
 
 (d) No payment of Federal funds shall be made for land selected for purchase by the United States under sections 567a to 567c of this title until such proposed purchase has been submitted to and approved by the National Forest Reservation Commission created by section 513 of this title.
 

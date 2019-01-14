@@ -2,27 +2,39 @@
 
 (a)
 
-Policy.—It is the policy of the United States for the President to undertake actions appropriate to ensure, to the maximum extentpracticable, that the United States has the capabilities necessary to launch and insert United States national security payloads into space whenever such payloads are needed in space.
+Policy.—It is the policy of the United States for the President to undertake actions appropriate to ensure, to the maximum extent practicable, that the United States has the capabilities necessary to launch and insert United States national security payloads into space whenever such payloads are needed in space.
 
 (b)
 
 Included Actions.—The appropriate actions referred to in subsection (a) shall include, at a minimum, providing resources and policy guidance to sustain—
 
-&emsp;(1) the availability of at least two space launch vehicles (or families of space launch vehicles) capable of delivering into space any payload designated by the Secretary of Defense or the Director of National Intelligence as a national security payload; and
+&emsp;(1) the availability of at least two space launch vehicles (or families of space launch vehicles) capable of delivering into space any payload designated by the Secretary of Defense or the Director of National Intelligence as a national security payload <sup>1</sup>
 
-&emsp;(2) a robust space launch infrastructure and industrial base.
+&emsp;(2) a robust space launch infrastructure and industrial base; and
+
+&emsp;(3) the availability of rapid, responsive, and reliable space launches for national security space programs to—
+
+&emsp;&emsp;(A) improve the responsiveness and flexibility of a national security space system;
+
+&emsp;&emsp;(B) lower the costs of launching a national security space system; and
+
+&emsp;&emsp;(C) maintain risks of mission success at acceptable levels.
 
 (c)
 
-Coordination.—The Secretary of Defense shall, to the maximum extent practicable, pursue the attainment of the capabilities described in subsection (a) in coordination with the Administrator of the National Aeronautics and Space Administration.
+Coordination.—The Secretary of Defense shall, to the maximum extent practicable, pursue the attainment of the capabilities described in subsection (a) in coordination with the Administrator of the National Aeronautics and Space Administration and the Director of National Intelligence.
 
-(Added Pub. L. 108–136, div. A, title IX, §912(a)(1), Nov. 24, 2003, 117 Stat. 1565; Pub. L. 110–181, div. A, title IX, §931(a)(12), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(11), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
+(Added Pub. L. 108–136, div. A, title IX, §912(a)(1), Nov. 24, 2003, 117 Stat. 1565; Pub. L. 110–181, div. A, title IX, §931(a)(12), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(11), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 115–232, div. A, title XVI, §1603(a), Aug. 13, 2018, 132 Stat. 2105.)
 
 #### Prior Provisions
 
 A prior section 2273, acts Aug. 10, 1956, ch. 1041, 70A Stat. 125; Apr. 2, 1982, Pub. L. 97–164, title I, §160(a)(4), 96 Stat. 48; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516, related to right of United States to designs, rights of designers to patents, and rights to sue United States, prior to repeal by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(3). Pub. L. 115–232, §1603(a)(1), added par. (3).
+
+Subsec. (c). Pub. L. 115–232, §1603(a)(2), inserted "and the Director of National Intelligence" before period at end.
 
 <b>2009</b>—Subsec. (b)(1). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(11). See 2008 Amendment note below.
 
@@ -31,6 +43,54 @@ A prior section 2273, acts Aug. 10, 1956, ch. 1041, 70A Stat. 125; Apr. 2, 1982,
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+
+#### Use of Reusable Launch Vehicles
+
+Pub. L. 115–232, div. A, title XVI, §1603, Aug. 13, 2018, 132 Stat. 2105, provided that:
+
+"(a)
+
+Assured Access to Space.—\[Amended this section.\]
+
+"(b)
+
+Reusability of Launch Vehicles.—
+
+&emsp;"(1)
+
+Designation.—Effective March 1, 2019, the Evolved Expendable Launch Vehicle program of the Department of Defense shall be known as the 'National Security Space Launch program'. Any reference in Federal law, regulations, guidance, instructions, or other documents of the Federal Government to the Evolved Expendable Launch Vehicle program shall be deemed to be a reference to the National Security Space Launch program.
+
+&emsp;"(2)
+
+Requirement.—In carrying out the National Security Space Launch program, the Secretary of Defense shall provide for consideration of both reusable and expendable launch vehicles with respect to any solicitation occurring on or after March 1, 2019, for which the use of a reusable launch vehicle is technically capable and maintains risk at acceptable levels.
+
+&emsp;"(3)
+
+Notification of solicitations for non-reusable launch vehicles.—Beginning March 1, 2019, if the Secretary proposes to issue a solicitation for a contract for space launch services for which the use of reusable launch vehicles is not eligible for the award of the contract, the Secretary shall notify in writing the appropriate congressional committees of such proposed solicitation, including justifications for such ineligibility, by not later than 10 days after issuing such solicitation.
+
+"(c)
+
+Risk and Cost Impact Analysis.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall conduct a risk and cost impact analysis with respect to launch services that use reusable launch vehicles. Such analysis shall include—
+
+&emsp;&emsp;"(A) an assessment of how the inspection and certification regime of the Air Force for previously flown launch vehicles will ensure increased responsiveness and operational flexibility while maintaining acceptable risk; and
+
+&emsp;&emsp;"(B) an assessment of the anticipated cost savings to the Department of Defense realized by using a previously flown launch vehicle or components.
+
+&emsp;"(2)
+
+Submission.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary shall submit to the appropriate congressional committees the analysis conducted under paragraph (1).
+
+"(d)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means the following:
+
+&emsp;"(1) The congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
+
+&emsp;"(2) The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate."
 
 #### Launch Support and Infrastructure Modernization
 
@@ -44,7 +104,7 @@ In General.—In support of the policy specified in section 2273 of title 10, Un
 
 Elements.—The program under subsection (a) shall include—
 
-&emsp;"(1) investments in infrastructure to improve operations at the Eastern and Western Ranges that may benefit all users, to enhance the overall capabilities of ranges, to improve safety, and to reduce the long-term cost of operations and maintenance;
+&emsp;"(1) investments in infrastructure to improve operations at the Eastern and Western Ranges that maybenefit all users, to enhance the overall capabilities of ranges, to improve safety, and to reduce the long-term cost of operations and maintenance;
 
 &emsp;"(2) measures to normalize processes, systems, and products across the Eastern and Western ranges to minimize the burden on launch providers; and
 
@@ -76,7 +136,7 @@ Elements.—The report under paragraph (1) shall include—
 
 &emsp;&emsp;"(C) recommendations for improving transparency, flexibility, and responsiveness in launch scheduling."
 
-#### Acquisition Strategy for Evolved Expendable Launch Vehicle Program
+#### Acquisition Strategy for National Security Space Launch Program
 
 Pub. L. 114–92, div. A, title XVI, §1608, Nov. 25, 2015, 129 Stat. 1100, provided that:
 
@@ -112,11 +172,11 @@ Consistent Standards.—In accordance with section 2306a of title 10, United Sta
 
 "(c)
 
-Acquisition Strategy.—In accordance with subsections (a) and (b) and section 2273 of title 10, United States Code, the Secretary shall develop and carry out a 10-year phased acquisition strategy, including near and long term, for the evolved expendable launch vehicle program.
+Acquisition Strategy.—In accordance with subsections (a) and (b) and section 2273 of title 10, United States Code, the Secretary shall develop and carry out a 10-year phased acquisition strategy, including near and long term, for the evolved expendable launch vehicle program \[now the National Security Space Launch program\].
 
 "(d)
 
-Elements.—The acquisition strategy under subsection (c) for the evolved expendable launch vehicle program shall—
+Elements.—The acquisition strategy under subsection (c) for the evolved expendable launch vehicle program \[now the National Security Space Launch program\] shall—
 
 &emsp;"(1) provide the necessary—
 
@@ -247,4 +307,6 @@ Definitions.—In this section:
 &emsp;&emsp;"(B) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
 &emsp;"(2) The term 'rocket propulsion system' means, with respect to the development authorized by subsection (a), a main booster, first-stage rocket engine or motor. The term does not include a launch vehicle, an upper stage, a strap-on motor, or related infrastructure."
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

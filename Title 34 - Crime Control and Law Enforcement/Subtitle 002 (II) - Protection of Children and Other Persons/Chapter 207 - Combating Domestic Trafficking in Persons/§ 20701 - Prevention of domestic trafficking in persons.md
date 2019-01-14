@@ -10,7 +10,7 @@
 
 #### (B) Contents
 
-&emsp;&emsp;The research and statistical review and analysis under this paragraph shall consist of two separate studies, utilizing the same statistical data where appropriate, as follows:
+&emsp;&emsp;The research and statistical review and analysis under this paragraph shall consistof two separate studies, utilizing the same statistical data where appropriate, as follows:
 
 &emsp;&emsp;&emsp;(i) The first study shall address severe forms of trafficking in persons in the United States and shall include, but need not be limited to—
 
@@ -70,9 +70,9 @@ There are authorized to be appropriated—
 
 &emsp;(1) $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(i) and $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(ii); and
 
-&emsp;(2) $250,000 for each of the fiscal years 2014 through 2017 to carry out the activities described in subsection (a)(2).
+&emsp;(2) $250,000 for each of the fiscal years 2014 through 2021 to carry out the activities described in subsection (a)(2).
 
-(Pub. L. 109–164, title II, §201, Jan. 10, 2006, 119 Stat. 3567; Pub. L. 110–457, title III, §302(2), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, §1252(2), Mar. 7, 2013, 127 Stat. 156.)
+(Pub. L. 109–164, title II, §201, Jan. 10, 2006, 119 Stat. 3567; Pub. L. 110–457, title III, §302(2), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, §1252(2), Mar. 7, 2013, 127 Stat. 156; Pub. L. 115–393, title III, §301(b), Dec. 21, 2018, 132 Stat. 5272.)
 
 #### Codification
 
@@ -82,11 +82,31 @@ Section was formerly classified to section 14044 of Title 42, The Public Health 
 
 #### Amendments
 
+<b>2018</b>—Subsec. (c)(2). Pub. L. 115–393 substituted "2021" for "2017".
+
 <b>2013</b>—Subsec. (c)(2). Pub. L. 113–4 substituted "$250,000 for each of the fiscal years 2014 through 2017" for "$1,000,000 for each of the fiscal years 2008 through 2011".
 
 <b>2008</b>—Subsec. (c)(1). Pub. L. 110–457, §302(2)(A), substituted "$1,500,000 for each of the fiscal years 2008 through 2011" for "$2,500,000 for each of the fiscal years 2006 and 2007" in two places.
 
-Subsec. (c)(2). Pub. L. 110–457, §302(2)(B), which directed substitution of "2008 through 2011" for "2006 and2007", was executed by making the substitution for "2006 through 2007", to reflect the probable intent of Congress.
+Subsec. (c)(2). Pub. L. 110–457, §302(2)(B), which directed substitution of "2008 through 2011" for "2006 and 2007", was executed by making the substitution for "2006 through 2007", to reflect the probable intent of Congress.
+
+#### Best Practices in Delivering Justice for Victims of Trafficking
+
+Pub. L. 115–392, §8, Dec. 21, 2018, 132 Stat. 5253, provided that: "Not later than 180 days after the date of enactment of this Act \[Dec. 21, 2018\], the Attorney General shall issue guidance to all offices and components of the Department of Justice—
+
+&emsp;"(1) emphasizing that an individual who knowingly solicits or patronizes a commercial sex act from a person who was a minor (consistent with section 1591(c) of title 18, United States Code) or was subject to force, fraud, or coercion is guilty of an offense under chapter 77 of title 18, United States Code, and is a party to a severe form of trafficking in persons, as that term is defined in section 103(9) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(9));
+
+&emsp;"(2) recommending and implementing best practices for the collection of special assessments under section 3014 of title 18, United States Code, as added by section 101 of the Justice for Victims of Trafficking Act of 2015 (Public Law 114–22; 129 Stat. 228), including a directive that civil liens are an authorized collection method and remedy under section 3613 of title 18, United States Code; and
+
+&emsp;"(3) clarifying that commercial sexual exploitation is a form of gender-based violence."
+
+#### Ending Government Partnerships With the Commercial Sex Industry
+
+Pub. L. 115–392, §19, Dec. 21, 2018, 132 Stat. 5258, provided that: "No Federal funds or resources may be used for the operation of, participation in, or partnership with any program that involves the provision of funding or resources to an organization that—
+
+&emsp;"(1) has the primary purpose of providing adult entertainment; and
+
+&emsp;"(2) derives profits from the commercial sex trade."
 
 #### Recommendations To Prevent Sex Trafficking of Indian Women
 

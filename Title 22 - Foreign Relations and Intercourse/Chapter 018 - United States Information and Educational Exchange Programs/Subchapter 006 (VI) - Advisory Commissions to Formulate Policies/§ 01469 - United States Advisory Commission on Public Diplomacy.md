@@ -108,7 +108,7 @@ The Commission shall appraise United States Government activities intended to un
 
 Subsec. (c). Pub. L. 112–239, §1280(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) described the Commission's duties and responsibilities, including formulation and appraisal of policies and programs and submission of reports.
 
-Subsec. (d). Pub. L. 112–239, §1280(c), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO."
+Subsec. (d). Pub. L. 112–239, §1280(c), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Boardor the United States National Commission for UNESCO."
 
 <b>2001</b>—Pub. L. 107–77 reenacted this section. See Reenactment and Repeal of Certain Provisions of Law note below.
 
@@ -160,5 +160,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Continued Service of Commission Members
 
-Pub. L. 101–246, title II, §206(b), Feb. 16, 1990, 104 Stat. 53, provided that each member of the United States Advisory Commission on Public Diplomacy as in existence on the day before Jan. 20, 1989, was to continue to servefor the remainder of the term to which such member was appointed.
+Pub. L. 101–246, title II, §206(b), Feb. 16, 1990, 104 Stat. 53, provided that each member of the United States Advisory Commission on Public Diplomacy as in existence on the day before Jan. 20, 1989, was to continue to serve for the remainder of the term to which such member was appointed.
 

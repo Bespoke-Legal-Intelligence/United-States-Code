@@ -106,9 +106,167 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 
 <b>1958</b>—Pub. L. 85–577, §1(2), July 31, 1958, 72 Stat. 456, added item 1585.
 
+#### John S. McCain Strategic Defense Fellows Program
+
+Pub. L. 115–232, div. A, title IX, §932, Aug. 13, 2018, 132 Stat. 1935, provided that:
+
+"(a)
+
+Fellowship Program.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall establish within the Department of Defense a civilian fellowship program designed to provide leadership development and the commencement of a career track toward senior leadership in the Department.
+
+&emsp;"(2)
+
+Designation.—The fellowship program shall be known as the 'John S. McCain Strategic Defense Fellows Program' (in this section referred to as the 'fellows program').
+
+"(b)
+
+Eligibility.—An individual is eligible for participation in the fellows program if the individual—
+
+&emsp;"(1) is a citizen of the United States or a lawful permanent resident of the United States in the year in which the individual applies for participation in the fellows program; and
+
+&emsp;"(2) either—
+
+&emsp;&emsp;"(A) possesses a graduate degree from an accredited institution of higher education in the United States that was awarded not later than two years before the date of the acceptance of the individual into the fellows program; or
+
+&emsp;&emsp;"(B) will be awarded a graduate degree from an accredited institution of higher education in the United States not later than six months after the date of the acceptance of the individual into the fellows program.
+
+"(c)
+
+Application.—
+
+&emsp;"(1)
+
+Application required.—Each individual seeking to participate in the fellows program shall submit to the Secretary of Defense an application therefor at such time and in such manner as the Secretary shall specify.
+
+&emsp;"(2)
+
+Elements.—Each application of an individual under this subsection shall include the following:
+
+&emsp;&emsp;"(A) Transcripts of educational achievement at the undergraduate and graduate level.
+
+&emsp;&emsp;"(B) A resume.
+
+&emsp;&emsp;"(C) Proof of citizenship or lawful permanent residence.
+
+&emsp;&emsp;"(D) An endorsement from the applicant's graduate institution of higher education.
+
+&emsp;&emsp;"(E) An academic writing sample.
+
+&emsp;&emsp;"(F) Letters of recommendation addressing the applicant's character, academic ability, and any extracurricular activities.
+
+&emsp;&emsp;"(G) A personal statement by the applicant explaining career areas of interest and motivations for service in the Department.
+
+&emsp;&emsp;"(H) Such other information as the Secretary considers appropriate.
+
+"(d)
+
+Selection.—
+
+&emsp;"(1)
+
+In general.—Each year, the Secretary of Defense shall select participants in the fellows program from among applicants for the fellows program forsuch year who qualify for participation in the fellows program based on character, commitment to public service, academic achievement, extracurricular activities, and such other qualifications for participation in the fellows program as the Secretary considers appropriate.
+
+&emsp;"(2)
+
+Number.—The number of individuals selected to participate in the fellows program in any year may not exceed the numbers as follows:
+
+&emsp;&emsp;"(A) Ten individuals from each geographic region of the United States as follows:
+
+&emsp;&emsp;&emsp;"(i) The Northeast.
+
+&emsp;&emsp;&emsp;"(ii) The Southeast.
+
+&emsp;&emsp;&emsp;"(iii) The Midwest.
+
+&emsp;&emsp;&emsp;"(iv) The Southwest.
+
+&emsp;&emsp;&emsp;"(v) The West.
+
+&emsp;&emsp;"(B) Ten additional individuals.
+
+&emsp;"(3)
+
+Background investigation.—An individual selected to participate in the fellows program may not participate in the program unless the individual successfully undergoes a background investigation applicable to the position to which the individual will be assigned under the fellows program and otherwise meets such requirements applicable to assignment to a sensitive position within the Department that the Secretary considers appropriate.
+
+"(e)
+
+Assignment.—
+
+&emsp;"(1)
+
+In general.—Each individual who participates in the fellows program shall be assigned to a position in one of the following:
+
+&emsp;&emsp;"(A) The Office of the Secretary of Defense.
+
+&emsp;&emsp;"(B) An office of the Secretary of a military department.
+
+&emsp;"(2)
+
+Position requirements.—Each Secretary of a military department, and each Under Secretary of Defense and Director of a Defense Agency who reports directly to the Secretary of Defense, shall submit to the Secretary of Defense each year the qualifications and skills to be demonstrated by participants in the fellows program to qualify for assignment under this subsection for service in a position of the office of such Secretary, Under Secretary, or Director.
+
+&emsp;"(3)
+
+Assignment to positions.—The Secretary of Defense shall each year assign participants in the fellows program to positions in the offices of the Secretaries of the military departments, and the offices of the Under Secretaries and Directors described in paragraph (2). In making such assignments, the Secretary of Defense shall seek to best match the qualifications and skills of participants in the fellows program with the requirements of positions available for assignment. Each participant so assigned shall serve as a special assistant to the Secretary, Under Secretary, or Director to whom assigned.
+
+&emsp;"(4)
+
+Limitation on number assignable to secretaries of military departments.—The number of participants in the fellows program who are assigned to the office of a Secretary of a military department in any year may not exceed five participants.
+
+&emsp;"(5)
+
+Term.—The term of each assignment under the fellows program shall be one year.
+
+&emsp;"(6)
+
+Pay and benefits.—An individual assigned to a position under the fellows program shall be compensated at the rate of compensation for employees at level GS–10 of the General Schedule, and shall be treated as an employee of the United States during the term of assignment, including for purposes of eligibility for health care benefits and retirement benefits available to employees of the United States.
+
+&emsp;"(7)
+
+Education loan repayment.—To the extent that funds are provided in advance in appropriations Acts, the Secretary of Defense may repay any loan of a participant in the fellows program if the loan is described by subparagraph (A), (B), or (C) of section 16301(a)(1) of title 10, United States Code. Any repayment of loans under this paragraph shall be on a first-come, first-served basis.
+
+"(f)
+
+Career Development.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall ensure that participants in the fellows program—
+
+&emsp;&emsp;"(A) receive opportunities and support appropriate for the commencement of a career track within the Department leading toward a future position of senior leadership within the Department, including ongoing mentorship support through appropriate personnel from entities within the Department such as the Defense Business Board and the Defense Innovation Board; and
+
+&emsp;&emsp;"(B) are provided appropriate opportunities for employment and advancement within the Department upon successful completion of the fellows program, including, if appropriate, opportunities to work at Department installations or Field Activities for between 12 and 24 months.
+
+&emsp;"(2)
+
+Reservation of positions.—In carrying out paragraph (1)(B), the Secretary shall reserve for participants who successfully complete the fellows program not fewer than 30 positions in the excepted service within the Department that are suitable for the commencement of a career track toward senior leadership within the Department. Any position so reserved shall not be subject to or covered by any reduction in headquarters personnel required under any other provision of law.
+
+&emsp;"(3)
+
+Noncompetitive appointment.—Upon the successful completion of the assignment of a participant in the fellows program in a position pursuant to subsection (e), the Secretary may, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, appoint the participant to a position reserved pursuant to paragraph (2) if the Secretary determines that such appointment will contribute to the development of highly qualified future senior leaders for the Department.
+
+&emsp;"(4)
+
+Publication of selection.—The Secretary shall publish on an Internet website of the Department available to the public the names of the individuals selected to participate in the fellows program.
+
+"(g)
+
+Outreach.—The Secretary of Defense shall undertake appropriate outreach to inform potential participants in the fellows program of the nature and benefits of participation in the fellows program.
+
+"(h)
+
+Regulations.—The Secretary of Defense shall carry out this section in accordance with such regulations as the Secretary may prescribe for purposes of this section.
+
+"(i)
+
+Funding.—Of the amounts authorized to be appropriated for each fiscal year for the Department of Defense for operation and maintenance, Defense-wide, $10,000,000 may be available to carry out the fellows program in such fiscal year."
+
 #### Pilot Programs on Appointment in the Excepted Service in the Department of Defense of Physically Disqualified Former Cadets and Midshipmen
 
-Pub. L. 115–91, div. A, title V, §549, Dec. 12, 2017, 131 Stat. 1399, provided that:
+Pub. L. 115–91, div. A, title V, §549, Dec. 12, 2017, 131 Stat. 1399, as amended by Pub. L. 115–232, div. A, title VIII, §809(b)(4), Aug. 13, 2018, 132 Stat. 1840, provided that:
 
 "(a)
 
@@ -124,7 +282,7 @@ Cadets and midshipmen.—Except as provided in paragraph (3), a former cadet or 
 
 &emsp;&emsp;"(A) completed the prescribed course of instruction and graduated from the applicable service academy; and
 
-&emsp;&emsp;"(B) is determined to be medically disqualified to complete a period of active duty in the Armed Forces prescribed in an agreement signed by such cadet or midshipman in accordance with section 4348, 6959, or 9348 of title 10, United States Code.
+&emsp;&emsp;"(B) is determined to be medically disqualified to complete a period of active duty in the ArmedForces prescribed in an agreement signed by such cadet or midshipman in accordance with section 7448, 8459, or 9448 of title 10, United States Code.
 
 &emsp;"(3)
 
@@ -248,13 +406,13 @@ In general.—The authority to appoint individuals in this section shall expire 
 
 Construction with existing appointments.—The expiration in paragraph (1) of the authority in this section shall not be construed to terminate any appointment made under this section before the date of expiration that continues according to its term as of the date of expiration."
 
-#### Pilot Program on Enhanced Personnel Management System for Cybsersecurity and Legal Professionals in the Department of Defense
+#### Pilot Program on Enhanced Personnel Management System for Cybersecurity and Legal Professionals in the Department of Defense
 
 Pub. L. 115–91, div. A, title XI, §1110, Dec. 12, 2017, 131 Stat. 1631, provided that:
 
 "(a)
 
-Pilot Program Required.—The Secretary of Defense shall carry out within the Department of Defense a pilot program to assess the feasability and advisability of an enhanced personnel management system in accordance with this section for cybersecurity and legal professionals in the Department described in subsection (b) who enter civilian service with the Department on or after January 1, 2020.
+Pilot Program Required.—The Secretary of Defense shall carry out within the Department of Defense a pilot program to assess the feasability and advisability of an enhanced personnel management system in accordance with this section for cybersecurity andlegal professionals in the Department described in subsection (b) who enter civilian service with the Department on or after January 1, 2020.
 
 "(b)
 
@@ -358,7 +516,7 @@ Particular conditions.—In prescribing conditions for the renewal of appointmen
 
 &emsp;&emsp;"(A) The necessity for the continuation of the position concerned based on mission requirements and other applicable justifications for the position.
 
-&emsp;&emsp;"(B) The service performance of the individual serving in the position concerned, with individuals with satisfactory or better performance afforded preference in renewal.
+&emsp;&emsp;"(B) The service performance of the individual serving in the position concerned, with individualswith satisfactory or better performance afforded preference in renewal.
 
 &emsp;&emsp;"(C) Input from employees on conditions for renewal.
 
@@ -490,11 +648,11 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'temporary appointment' means the appointment of an employee in the competitive service for a period that is not more than one year.
 
-&emsp;"(2) The term 'term appointment' means the appointment of an employee in the competitive servicefor a period that is more than one year and not more than five years, unless the Secretary of Defense, before the appointment of the employee, authorizes a longer period."
+&emsp;"(2) The term 'term appointment' means the appointment of an employee in the competitive service for a period that is more than one year and not more than five years, unless the Secretary of Defense, before the appointment of the employee, authorizes a longer period."
 
 #### Direct-Hire Authority for the Department of Defense for Post-Secondary Students and Recent Graduates
 
-Pub. L. 114–328, div. A, title XI, §1106, Dec. 23, 2016, 130 Stat. 2447, provided that:
+Pub. L. 114–328, div. A, title XI, §1106, Dec. 23, 2016, 130 Stat. 2447, as amended by Pub. L. 115–232, div. A, title XI, §1102, Aug. 13, 2018, 132 Stat. 2001, provided that:
 
 "(a)
 
@@ -502,7 +660,7 @@ Hiring Authority.—Without regard to sections 3309 through 3318, 3327, and 3330
 
 "(b)
 
-Limitation on Appointments.—Subject to subsection (c)(2), the total number of employees appointed by the Secretary under subsection (a) during a fiscal year may not exceed the number equal to 15 percent of the number of hires made into professional and administrative occupations of the Department at the GS–11 level and below (or equivalent) under competitive examining procedures during the previous fiscal year.
+Limitation on Appointments.—Subject to subsection (c)(2), the total number of employees appointed by the Secretary under subsection (a) during a fiscal year may not exceed the number equal to 25 percent of the number of hires made into professional and administrative occupations of the Department at the GS–11 level and below (or equivalent) under competitive examining procedures during the previous fiscal year.
 
 "(c)
 
@@ -526,7 +684,7 @@ Public notice and advertising.—To the extent practical, as determined by the S
 
 "(d)
 
-Sunset.—The authority provided under this section shall terminate on September 30, 2021.
+Sunset.—The authority provided under this section shall terminate on September 30, 2025.
 
 "(e)
 
@@ -546,7 +704,7 @@ Definitions.—In this section:
 
 #### Direct Hire Authority for Financial Management Experts in the Department of Defense Workforce
 
-Pub. L. 114–328, div. A, title XI, §1110, Dec. 23, 2016, 130 Stat. 2450, as amended by Pub. L. 115–91, div. A, title XI, §1106(a), Dec. 12, 2017, 131 Stat. 1629, provided that:
+Pub. L. 114–328, div. A, title XI, §1110, Dec. 23, 2016, 130 Stat. 2450, as amended by Pub. L. 115–91, div. A, title XI, §1106(a), Dec. 12, 2017, 131 Stat. 1629; Pub. L. 115–232, div. A, title XI, §1113, Aug. 13, 2018, 132 Stat. 2013, provided that:
 
 "(a)
 
@@ -590,23 +748,25 @@ Nature of Appointment.—Any appointment under this section shall be treated as 
 
 Department of Defense Component Defined.—In this section, the term 'Department of Defense component' means the following:
 
-&emsp;"(1) A Defense Agency.
+&emsp;"(1) The Office of the Secretary of Defense.
 
-&emsp;"(2) The Office of the Chairman of the Joint Chiefs of Staff.
+&emsp;"(2) A Defense Agency.
 
-&emsp;"(3) The Joint Staff.
+&emsp;"(3) The Office of the Chairman of the Joint Chiefs of Staff.
 
-&emsp;"(4) A combatant command.
+&emsp;"(4) The Joint Staff.
 
-&emsp;"(5) The Office of the Inspector General of the Department of Defense.
+&emsp;"(5) A combatant command.
 
-&emsp;"(6) A Field Activity of the Department of Defense.
+&emsp;"(6) The Office of the Inspector General of the Department of Defense.
 
-&emsp;"(7) The Department of the Army.
+&emsp;"(7) A Field Activity of the Department of Defense.
 
-&emsp;"(8) The Department of the Navy.
+&emsp;"(8) The Department of the Army.
 
-&emsp;"(9) The Department of the Air Force.
+&emsp;"(9) The Department of the Navy.
+
+&emsp;"(10) The Department of the Air Force.
 
 "(g)
 
@@ -620,7 +780,7 @@ Pub. L. 114–328, div. A, title XI, §1125, Dec. 23, 2016, 130 Stat. 2457, as a
 
 "(a)
 
-Defense Industrial Base Facility and MRTFB.—During each of fiscal years 2017 through 2021, the Secretary of Defense may appoint, without regard to the provisions of subchapter I of chapter 33 of title5, United States Code, other than sections 3303 and 3328 of such title, qualified candidates to positions in the competitive service at any defense industrial base facility or the Major Range and Test Facilities Base.
+Defense Industrial Base Facility and MRTFB.—During each of fiscal years 2017 through 2021, the Secretary of Defense may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title, qualified candidates to positions in the competitive service at any defense industrial base facility or the Major Range and Test Facilities Base.
 
 "(b)
 
@@ -708,7 +868,7 @@ Regulations.—Not later than 120 days after the date of the enactment of this A
 
 "(c)
 
-Annual Report.—Not later than 60 days after the end of each fiscal year for which the authority in subsection (a) is in effect, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of such authority. Each report shall cover the preceding fiscal year and shall identify, at a minimum, the following:
+Annual Report.—Not later than 60 days after the end of each fiscal year for which the authority in subsection (a) is in effect, the Secretary shall submit tothe congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of such authority. Each report shall cover the preceding fiscal year and shall identify, at a minimum, the following:
 
 &emsp;"(1) The amount of funds used under the authority in subsection (a) to provide compensation for civilian employees.
 
@@ -830,7 +990,7 @@ Applicability.—This section applies with respect to candidates for scientific 
 
 "(c)
 
-Limitation.—(1) Authority under this section may not, in any calendar year and with respect to any laboratory, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineering positions within such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+Limitation.—(1) Authority under this section may not, in any calendar year and with respect to any laboratory, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineering positions within such laboratory that are filled as of theclose of the fiscal year last ending before the start of such calendar year.
 
 "(2) For purposes of this subsection, positions and candidates shall be counted on a full-time equivalent basis.
 

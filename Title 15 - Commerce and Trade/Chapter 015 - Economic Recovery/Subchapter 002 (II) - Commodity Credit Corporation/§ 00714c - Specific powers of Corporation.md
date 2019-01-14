@@ -1,6 +1,6 @@
 ### §714c. Specific powers of Corporation
 
-In the fulfillment of its purposes and in carrying out its annual budget programs submitted toand approved by the Congress pursuant to chapter 91 of title 31, the Corporation is authorized to use its general powers only to—
+In the fulfillment of its purposes and in carrying out its annual budget programs submitted to and approved by the Congress pursuant to chapter 91 of title 31, the Corporation is authorized to use its general powers only to—
 
 (a) Support the prices of agricultural commodities (other than tobacco) through loans, purchases, payments, and other operations.
 
@@ -62,7 +62,7 @@ Pub. L. 101–220, §2, Dec. 12, 1989, 103 Stat. 1876, provided that:
 
 "(a)
 
-Commissaries.—During each of fiscal years 1990, 1991, and 1992, the Commodity Credit Corporation shall, in carrying out the export enhancement program established pursuant to section 5(f) of the Commodity Credit Corporation Charter Act (15 U.S.C. 714c(f)), promote the export of United States meat, including poultry products, to commissaries on military installations in the European Community.
+Commissaries.—During each of fiscal years 1990, 1991, and 1992, the Commodity Credit Corporation shall, in carrying out the export enhancement program established pursuant to section 5(f) of the Commodity Credit Corporation Charter Act (15 U.S.C. 714c(f)), promote theexport of United States meat, including poultry products, to commissaries on military installations in the European Community.
 
 "(b)
 
@@ -78,7 +78,7 @@ Transportation costs.—Funds or commodities shall be made available under this 
 
 "(c)
 
-Reimbursement of Corporation.—Section 4 of the Act of July 16, 1943 (57 Stat. 566, chapter 241; 15 U.S.C. 713a \[15 U.S.C. 713a–9\]) shall not apply to servicesperformed, losses sustained, operating costs incurred, or commodities purchased or delivered by the Commodity Credit Corporation pursuant to this section."
+Reimbursement of Corporation.—Section 4 of the Act of July 16, 1943 (57 Stat. 566, chapter 241; 15 U.S.C. 713a \[15 U.S.C. 713a–9\]) shall not apply to services performed, losses sustained, operating costs incurred, or commodities purchased or delivered by the Commodity Credit Corporation pursuant to this section."
 
 #### Use of Commodity Credit Corporation for Purchase of Agricultural Products Formerly Intended for Export to Soviet Union
 

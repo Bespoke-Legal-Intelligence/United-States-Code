@@ -22,7 +22,7 @@ The Secretary shall—
 
 #### (b) Termination of quota or moratorium
 
-The Secretary shall terminate a quota or moratorium established under subsection (a) if the Secretary finds that the reasons for establishing the quota or moratorium no longer exist.
+The Secretary shall terminate a quota or moratorium established under subsection (a) if theSecretary finds that the reasons for establishing the quota or moratorium no longer exist.
 
 (Pub. L. 102–440, title I, §108, Oct. 23, 1992, 106 Stat. 2229.)
 

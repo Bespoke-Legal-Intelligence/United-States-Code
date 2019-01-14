@@ -78,7 +78,7 @@ The Secretary shall undertake such measures as are necessary to ensure that stan
 
 &emsp;&emsp;(A) submit an annual report that lists all detailed project schedules under paragraph (2) and an explanation of any missed deadlines to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives; and
 
-&emsp;&emsp;(B) make publicly available, including on the Internet, a copy of the annual report described in subparagraph (A) not later than 14 days after date <sup>2</sup> on which a report is submitted to Congress.
+&emsp;&emsp;(B) make publicly available, including on the Internet, a copy of the annual report described in subparagraph (A) not later than 14days after date <sup>2</sup> on which a report is submitted to Congress.
 
 #### (5) Failure to act
 
@@ -120,7 +120,11 @@ Subsecs. (c) to (f). Pub. L. 110–114, §2043(b)(2)(B)–(E), added subsec. (c)
 
 <b>2000</b>—Subsec. (e). Pub. L. 106–541 added subsec. (e).
 
-#### Applicability
+#### Natural Infrastructure
+
+Pub. L. 115–270, title I, §1149(c), Oct. 23, 2018, 132 Stat. 3787, provided that: "In carrying out a feasibility report developed under section 905 of the Water Resources Development Act of 1986 (33 U.S.C. 2282) for a project for flood risk management or hurricane and storm damage risk reduction, the Secretary \[of the Army\] shall consider the use of both traditional and natural infrastructure alternatives, alone or in conjunction with each other, if those alternatives are practicable."
+
+#### Continuation of Studies
 
 Pub. L. 113–121, title I, §1002(d), June 10, 2014, 128 Stat. 1199, provided that: "The Secretary \[of the Army\] shall continue to carry out a study for which a reconnaissance level investigation has been initiated before the date of enactment of this Act \[June 10, 2014\] as if this section \[amending this section\], including the amendments made by this section, had not been enacted."
 

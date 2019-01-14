@@ -50,7 +50,7 @@ For purposes of this section, the term "total unstated interest" means, with res
 
 #### (3) Carrying charges
 
-&emsp;In the case of the purchaser, the tax treatment of amounts paid on account of the saleor exchange of property shall be made without regard to this section if any such amounts are treated under section 163(b) as if they included interest.
+&emsp;In the case of the purchaser, the tax treatment of amounts paid on account of the sale or exchange of property shall be made without regard to this section if any such amounts are treated under section 163(b) as if they included interest.
 
 #### (4) Certain sales of patents
 

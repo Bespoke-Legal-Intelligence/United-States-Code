@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 101–41, §11, June 21, 1989, 103 Stat. 89, which required the Secretary to take such actions as needed to carry out this subchapter and the Settlement Agreement, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 101–41, §11, June 21, 1989, 103 Stat. 89, which required the Secretary to take such actions asneeded to carry out this subchapter and the Settlement Agreement, was omitted from the Code as being of special and not general application.
 

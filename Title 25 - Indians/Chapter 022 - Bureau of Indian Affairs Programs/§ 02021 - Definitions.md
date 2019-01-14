@@ -86,7 +86,7 @@ For the purposes of this chapter, unless otherwise specified:
 
 #### (14) Local school board
 
-&emsp;The term "local school board", when used with respect to a Bureau school, means a bodychosen in accordance with the laws of the tribe to be served or, in the absence of such laws, elected by the parents of the Indian children attending the school, except that, for a school serving a substantial number of students from different tribes—
+&emsp;The term "local school board", when used with respect to a Bureau school, means a body chosen in accordance with the laws of the tribe to be served or, in the absence of such laws, elected by the parents of the Indian children attending the school, except that, for a school serving a substantial number of students from different tribes—
 
 &emsp;&emsp;(A) the members of the body shall be appointed by the tribal governing bodies of the tribes affected; and
 

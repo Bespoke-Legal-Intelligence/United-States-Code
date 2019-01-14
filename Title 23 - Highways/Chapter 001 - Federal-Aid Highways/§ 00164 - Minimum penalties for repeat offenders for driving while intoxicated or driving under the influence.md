@@ -92,7 +92,7 @@ Use for highway safety improvement program.—
 
 &emsp;&emsp;(A)
 
-In general.—A State may elect to use all or a portion of the funds reserved under paragraph (2) for activities eligible under section 148.
+In general.—A State may elect to use all or a portion of the funds reserved underparagraph (2) for activities eligible under section 148.
 
 &emsp;&emsp;(B)
 
@@ -132,7 +132,7 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 &emsp;(7)
 
-Limitation on applicability of obligation limitation.—Notwithstanding any other provision of law, no limitation on the total of obligations for highway safety programs undersection 402 shall apply to funds transferred under this subsection to the apportionment of a State under such section.
+Limitation on applicability of obligation limitation.—Notwithstanding any other provision of law, no limitation on the total of obligations for highway safety programs under section 402 shall apply to funds transferred under this subsection to the apportionment of a State under such section.
 
 (Added Pub. L. 105–178, title I, §1406(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 845; amended Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225; Pub. L. 110–244, title I, §115, June 6, 2008, 122 Stat. 1606; Pub. L. 112–141, div. A, title I, §1403, July 6, 2012, 126 Stat. 556; Pub. L. 114–94, div. A, title I, §§1414, 1446(a)(10), Dec. 4, 2015, 129 Stat. 1420, 1437.)
 
@@ -182,7 +182,7 @@ Subsec. (b)(2). Pub. L. 112–141, §1403(b)(1), added par. (2) and struck out f
 
 Subsec. (b)(3). Pub. L. 112–141, §1403(b)(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "A State may elect to use all or a portion of the funds transferred under paragraph (1) or (2) for activities eligible under section 148."
 
-Subsec. (b)(5). Pub. L. 112–141, §1403(b)(3), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: "The amount to be transferred under paragraph (1) or (2) may be derived from one or more of the following:
+Subsec. (b)(5). Pub. L. 112–141, §1403(b)(3), added par. (5) and struck out former par. (5). Prior to amendment,text read as follows: "The amount to be transferred under paragraph (1) or (2) may be derived from one or more of the following:
 
 &emsp;"(A) The apportionment of the State under section 104(b)(1).
 

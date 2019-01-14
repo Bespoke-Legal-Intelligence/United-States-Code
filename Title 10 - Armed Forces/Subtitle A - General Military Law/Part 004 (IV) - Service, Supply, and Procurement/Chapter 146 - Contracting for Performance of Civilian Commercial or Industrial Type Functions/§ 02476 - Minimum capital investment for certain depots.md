@@ -114,7 +114,7 @@ Pub. L. 109–364, div. A, title III, §332(d), Oct. 17, 2006, 120 Stat. 2150, p
 
 "(1)
 
-Reduced percentage of required investment for fiscal years 2007 and 2008.—The Secretary of the Army shall apply subsection (a) of section 2476 of title 10, United States Code, as added by subsection (a), to the covered depots of the Army, and the Secretary of the Navy shall apply such subsection to the covered depots of the Department of the Navy—
+Reduced percentage of required investment for fiscal years 2007 and 2008.—The Secretary of theArmy shall apply subsection (a) of section 2476 of title 10, United States Code, as added by subsection (a), to the covered depots of the Army, and the Secretary of the Navy shall apply such subsection to the covered depots of the Department of the Navy—
 
 &emsp;"(A) for fiscal year 2007, by substituting 'four percent' for 'six percent'; and
 

@@ -64,7 +64,7 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 &emsp;(E) a date for the hearing required under paragraph (10) of this subsection.
 
-(6) The court shall take appropriate action to protect the person against whom an order underthis subsection is directed from publicity, by or at the behest of the plaintiff, about such order and any seizure under such order.
+(6) The court shall take appropriate action to protect the person against whom an order under this subsection is directed from publicity, by or at the behest of the plaintiff, about such order and any seizure under such order.
 
 (7) Any materials seized under this subsection shall be taken into the custody of the court. For seizures made under this section, the court shall enter an appropriate protective order with respect to discovery and use of any records or information that has been seized. The protective order shall provide for appropriate procedures to ensure that confidential, private, proprietary, or privileged information contained in such records is not improperly disclosed or used.
 
@@ -78,7 +78,7 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 (11) A person who suffers damage by reason of a wrongful seizure under this subsection has a cause of action against the applicant for the order under which such seizure was made, and shall be entitled to recover such relief as may be appropriate, including damages for lost profits, cost of materials, loss of good will, and punitive damages in instances where the seizure was sought in bad faith, and, unless the court finds extenuating circumstances, to recover a reasonable attorney's fee. The court in its discretion may award prejudgment interest on relief recovered under this paragraph, at an annual interest rate established under section 6621(a)(2) of title 26, commencing on the date of service of the claimant's pleading setting forth the claim under this paragraph and ending on the date such recovery is granted, or for such shorter time as the court deems appropriate.
 
-(July 5, 1946, ch. 540, title VI, §34, 60 Stat. 439; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–473, title II, §1503(1), Oct. 12, 1984, 98 Stat. 2179; Pub. L. 100–667, title I, §128(c)–(e), Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, §6, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, §3(a)(1), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3003(a)(1), title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–548, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(8)–(10), Nov. 2, 2002, 116 Stat. 1908; Pub. L. 110–403, title I, §102(b), Oct. 13, 2008, 122 Stat. 4258.)
+(July 5, 1946, ch. 540, title VI, §34, 60 Stat. 439; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–473, title II, §1503(1), Oct. 12, 1984, 98 Stat. 2179; Pub. L. 100–667, title I, §128(c)–(e), Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, §6, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, §3(a)(1), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B,§1000(a)(9) \[title III, §3003(a)(1), title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–548, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(8)–(10), Nov. 2, 2002, 116 Stat. 1908; Pub. L. 110–403, title I, §102(b), Oct. 13, 2008, 122 Stat. 4258.)
 
 #### References in Text
 

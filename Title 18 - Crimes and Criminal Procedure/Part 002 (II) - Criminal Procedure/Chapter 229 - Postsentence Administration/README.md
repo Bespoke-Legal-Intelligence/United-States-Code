@@ -10,12 +10,13 @@
 | [<b>A.</b>](Subchapter%20A%20-%20Probation/README.md) | <b>Probation</b> | <b>3601</b> |
 | [<b>B.</b>](Subchapter%20B%20-%20Fines/README.md) | <b>Fines</b> | <b>3611</b> |
 | [<b>C.</b>](Subchapter%20C%20-%20Imprisonment/README.md) | <b>Imprisonment</b> | <b>3621</b> |
+| [<b>D.</b>](Subchapter%20D%20-%20Risk%20and%20Needs%20Assessment%20System/README.md) | <b>Risk and Needs Assessment </b><b><sup>2</sup></b> | <b>3631</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Prior Provisions
 
-A prior chapter 229 (§3611 et seq.) was repealed (except sections 3611, 3612, 3615, 3617 to 3620 which were renumbered sections 3665 to 3671, respectively), by Pub. L. 98–473, title II, §§212(a)(1), (2), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2031, as amended, effective Nov. 1, 1987, and applicable only to offenses committed after the takingeffect of such repeal. See Effective Date note set out under section 3551 of this title.
+A prior chapter 229 (§3611 et seq.) was repealed (except sections 3611, 3612, 3615, 3617 to 3620 which were renumbered sections 3665 to 3671, respectively), by Pub. L. 98–473, title II, §§212(a)(1), (2), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2031, as amended, effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal. See Effective Date note set out under section 3551 of this title.
 
 Section 3611 renumbered section 3665 of this title.
 
@@ -45,7 +46,13 @@ Section 3623, added Pub. L. 98–596, §6(a), Oct. 30, 1984, 98 Stat. 3137, rela
 
 Section 3624, added Pub. L. 98–596, §6(a), Oct. 30, 1984, 98 Stat. 3138, related to security for stayed fine.
 
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–391, title I, §101(b), Dec. 21, 2018, 132 Stat. 5208, added item for subchapter D.
+
 <i><sup>1</sup></i><i> Editorially supplied.</i>
+
+<i><sup>2</sup></i><i> So in original. Does not conform to subchapter heading.</i>
 
 
 ---
@@ -55,3 +62,4 @@ Section 3624, added Pub. L. 98–596, §6(a), Oct. 30, 1984, 98 Stat. 3138, rela
 - [Subchapter A - Probation](Subchapter%20A%20-%20Probation/README.md)
 - [Subchapter B - Fines](Subchapter%20B%20-%20Fines/README.md)
 - [Subchapter C - Imprisonment](Subchapter%20C%20-%20Imprisonment/README.md)
+- [Subchapter D - Risk and Needs Assessment System](Subchapter%20D%20-%20Risk%20and%20Needs%20Assessment%20System/README.md)

@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(II) that is used to facilitate, or is intended to be used to facilitate, the commission of the offense of which the person is convicted.
 
-(B) The court, in imposing sentence on a person described in subparagraph (A), shall order that the person forfeit to the United States all property described in that subparagraph.
+(B) The court, in imposing sentence on a person described in subparagraph (A), shall orderthat the person forfeit to the United States all property described in that subparagraph.
 
 (7) The court, in imposing sentence on a person convicted of a Federal health care offense, shall order the person to forfeit property, real or personal, that constitutes or is derived, directly or indirectly, from gross proceeds traceable to the commission of the offense.
 

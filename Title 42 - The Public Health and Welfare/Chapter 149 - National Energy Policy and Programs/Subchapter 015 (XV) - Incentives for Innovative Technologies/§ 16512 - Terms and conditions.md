@@ -56,7 +56,7 @@ The term of an obligation shall require full repayment over a period not to exce
 
 #### (B) Payment required
 
-&emsp;&emsp;Within such period as may be specified in the guarantee or related agreements, the Secretary shall pay to the holder of the guarantee the unpaid interest on, and unpaid principal of the obligation as to which the borrower has defaulted, unless the Secretary finds that there was no default by the borrower in the payment of interest or principal or that the default has been remedied.
+&emsp;&emsp;Within such period as may be specified in the guarantee or related agreements, theSecretary shall pay to the holder of the guarantee the unpaid interest on, and unpaid principal of the obligation as to which the borrower has defaulted, unless the Secretary finds that there was no default by the borrower in the payment of interest or principal or that the default has been remedied.
 
 #### (C) Forbearance
 
@@ -142,7 +142,7 @@ The full faith and credit of the United States is pledged to the payment of all 
 
 #### (k) Wage rate requirements
 
-All laborers and mechanics employed by contractors and subcontractors in the performance of construction work financed in whole or in part by a loan guaranteed under this subchapter shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40. With respect to the labor standards in this subsection, the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (64 Stat. 1267; 5 U.S.C. App.) and section 3145 of title 40.
+All laborers and mechanics employed by contractors and subcontractors in the performance of construction work financed in whole or in part by a loan guaranteed under this subchapter shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40. With respect to the labor standards in this subsection, the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (64Stat. 1267; 5 U.S.C. App.) and section 3145 of title 40.
 
 (Pub. L. 109–58, title XVII, §1702, Aug. 8, 2005, 119 Stat. 1117; Pub. L. 111–85, title III, §310, Oct. 28, 2009, 123 Stat. 2873; Pub. L. 112–74, div. B, title III, §305(1), Dec. 23, 2011, 125 Stat. 877.)
 

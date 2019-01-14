@@ -52,7 +52,7 @@ The Commodity Credit Corporation shall finance or guarantee under this section o
 
 #### (h) Conditions for fish and processed fish products
 
-In making available any guarantees of credit under this section in connection with sales of fish and processed fish products, the Secretary shall make such guarantees available under terms and conditions that are comparable to the terms and conditions that apply to guarantees provided with respect to sales of other agricultural commodities under this section.
+In making available any guarantees of credit under this section in connection with sales of fish and processed fish products, the Secretary shall make such guarantees available under terms and conditions that are comparable to theterms and conditions that apply to guarantees provided with respect to sales of other agricultural commodities under this section.
 
 #### (i) Consultation on agricultural export credit programs
 
@@ -172,11 +172,11 @@ Pub. L. 104–127, title II, §243(d), Apr. 4, 1996, 110 Stat. 967, provided tha
 
 #### Promotion of Agricultural Exports to Emerging Markets
 
-Pub. L. 101–624, title XV, §1542, Nov. 28, 1990, 104 Stat. 3691, as amended by Pub. L. 102–237, title III, §338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III, §321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979; Pub. L. 107–171, title III, §3203, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §3204, June 18, 2008, 122 Stat. 1837; Pub. L. 113–79, title III, §3203, Feb. 7, 2014, 128 Stat. 779; Pub. L. 113–188, title I, §101(b), Nov. 26, 2014, 128 Stat. 2017, provided that:
+Pub. L. 101–624, title XV, §1542, Nov. 28, 1990, 104 Stat. 3691, as amended by Pub. L. 102–237, title III, §338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III, §321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979; Pub. L. 107–171, title III, §3203, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §3204, June 18, 2008, 122 Stat. 1837; Pub. L. 113–79, title III, §3203, Feb. 7, 2014, 128 Stat. 779; Pub. L. 113–188, title I, §101(b), Nov. 26, 2014, 128 Stat. 2017; Pub. L. 115–334, title III, §§3201(b)(3)(A), 3304, Dec. 20, 2018, 132 Stat. 4616, 4619, provided that:
 
 "(a)
 
-Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2018 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621 and 5622), in addition to the amounts acquired or authorized under section 211 of the Act (7 U.S.C. 5641) for the program.
+Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2023 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621 and 5622), in addition to the amounts acquired or authorized under section 211 of the Act (7 U.S.C. 5641) for the program.
 
 "(b)
 
@@ -222,101 +222,13 @@ Consultations.—Before the authority under this section is exercised, the Secre
 
 "(d)
 
-E (Kika) de la Garza Agricultural Fellowship Program.—The Secretary of Agriculture (hereafter in this section referred to as the 'Secretary') shall establish a program, to be known as the 'E (Kika) de la Garza Agricultural Fellowship Program', to develop agricultural markets in emerging markets and to promote cooperation and exchange of information between agricultural institutions and agribusinesses in the United States and emerging markets, as follows:
-
-&emsp;"(1)
-
-Development of agricultural systems.—
-
-&emsp;&emsp;"(A)
-
-In general.—
-
-&emsp;&emsp;&emsp;"(i)
-
-Establishment of program.—For each of the fiscal years 1991 through 2018, the Secretary of Agriculture (hereafter in this section referred to as the 'Secretary'), in order to develop, maintain, or expand markets for United States agricultural exports, is directed to make available to emerging markets the expertise of the United States to make assessments of the food and rural business systems needs of such democracies \[markets\], make recommendations on measures necessary to enhance the effectiveness of the systems, including potential reductions in trade barriers, and identify and carry out specific opportunities and projects to enhance the effectiveness of those systems.
-
-&emsp;&emsp;&emsp;"(ii)
-
-Extent of program.—The Secretary shall implement this paragraph with respect to at least 3 emerging markets in each fiscal year.
-
-&emsp;&emsp;"(B)
-
-Experts from the united states.—The Secretary may implement the requirements of subparagraph (A)—
-
-&emsp;&emsp;&emsp;"(i) by providing assistance to teams consisting primarily of agricultural consultants, farmers, other persons from the private sector, and government officials expert in assessing the food and rural business systems of other countries to enable such teams to conduct the assessments, make the recommendations, and identify the opportunities and projects specified in subparagraph (A) in emerging markets;
-
-&emsp;&emsp;&emsp;"(ii) by providing necessary subsistence expenses in the United States and necessary transportation expenses by individuals designated by emerging markets to enable such individuals to consult with food and rural business system experts in the United States to enhance such systems of such emerging markets; and
-
-&emsp;&emsp;&emsp;"(iii) by providing for necessary subsistence expenses in emerging markets and necessary transportation expenses of United States agricultural producers and other individuals knowledgeable in agricultural and agribusiness matters to assist in transferring their knowledge and expertise to entities in emerging markets.
-
-&emsp;&emsp;"(C)
-
-Cost-sharing.—The Secretary shall encourage the nongovernmental experts described in subparagraph (B) to share the costs of, and otherwise assist in, the participation of such experts in the program under this paragraph.
-
-&emsp;&emsp;"(D)
-
-Technical assistance.—The Secretary is authorized to provide, or pay the necessary costs for, technical assistance (including the establishment of extension services) to enable individuals or other entities to implement the recommendations or to carry out the opportunities and projects identified under paragraph (1)(A). Notwithstanding any other provision of law, the assistance shall include assistance for administrative and overhead expenses of the International Cooperation and Development Program Area of the Foreign Agriculture Service, to the extent that the expenses were incurred pursuant to reimbursable agreements entered into prior to September 30, 1993, the expenses do not exceed $2,000,000 per year, and the expenses are not incurred for information technology systems.
-
-&emsp;&emsp;"(E)
-
-Reports to secretary.—A team that receives assistance under subparagraph (B) shall prepare such reports as the Secretary may designate.
-
-&emsp;&emsp;"(F)
-
-Advisory committee.—To provide the Secretary with information that may be useful to the Secretary in carrying out the provisions of this paragraph, the Secretary shall establish an advisory committee composed of representatives of the various sectors of the food and rural business systems of the United States.
-
-&emsp;&emsp;"(G)
-
-Use of ccc.—The Secretary shall implement this paragraph through the funds and facilities of the Commodity Credit Corporation. The authority provided under this paragraph shall be in addition to and not in place of any other authority of the Secretary or the Commodity Credit Corporation.
-
-&emsp;&emsp;"(H)
-
-Level of assistance.—The Secretary shall provide assistance under this paragraph of not more than $10,000,000 in any fiscal year.
-
-&emsp;"(2)
-
-Agricultural information program.—
-
-&emsp;&emsp;"(A)
-
-Establishment of program.—The Secretary shall establish a program, administered to complement the emerging markets export promotion program developed under this section, to initiate and develop collaboration between the United States Department of Agriculture, United States agribusinesses, and appropriate agricultural institutions in emerging markets in order to promote the exchange of information and resources that will make a long-term contribution to the establishment of free market food production and distribution systems in emerging markets and the enhancement of agricultural trade with the United States.
-
-&emsp;&emsp;"(B)
-
-Implementation.—The Secretary shall draw on the Department of Agriculture's experience to design, implement, and evaluate, on a cost-sharing basis with cooperating agricultural institutions, a program to—
-
-&emsp;&emsp;&emsp;"(i) compile, through contacts with the governments of emerging markets and private sector officials in emerging markets, a list of their agricultural institutions, including the location, capabilities, and needs of the institutions;
-
-&emsp;&emsp;&emsp;"(ii) make such information available through an appropriate agency of the Department of Agriculture to agribusinesses and agricultural institutions in the United States and other agencies of the United States Government; and
-
-&emsp;&emsp;&emsp;"(iii) carry out a program—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) to review available agricultural information resources, to determine which would be useful for the purposes of this program;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) to arrange for the exchange of persons associated with such agricultural institutions and agribusinesses with experience or interest in the areas of need identified in clause (i);
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) to help establish contacts between agricultural entrepreneurs and businesses in the United States and emerging markets, which may include individuals and entities participating in the program established under paragraph (1), to facilitate cooperation and joint enterprises; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) to provide for the exchange of administrators and faculty members from agricultural and other institutions to strengthen and revise educational programs in agricultural economics, agribusiness, and agrarian law, to support change towards a free market economy in emerging markets.
-
-&emsp;&emsp;"(C)
-
-Consultation and coordination.—The Secretary shall consult and coordinate with the Secretary of State and the Agency for International Development in the formulation and implementation of this program in conjunction with overall assistance to emerging markets.
-
-&emsp;&emsp;"(D)
-
-Authorization for appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out the program established under this paragraph.
+Foreign Debt Burdens.—In carrying out the program described in subsection (a), the Secretary of Agriculture shall ensure that the credits for which repayment is guaranteed under subsection (a) do not negatively affect the political and economic situation in emerging markets by excessively adding to the foreign debt burdens of such countries.
 
 "(e)
 
-Foreign Debt Burdens.—In carrying out the program described in subsection (a), the Secretary of Agriculture shall ensure that the credits for which repayment is guaranteed under subsection (a) do not negatively affect the political and economic situation in emerging markets by excessively adding to the foreign debt burdens of such countries.
+Emerging Market.—In this section and section 1543 \[7 U.S.C. 3293\], the term 'emerging market' means any country, foreign territory, customs union, or other economic market that the Secretary determines—
 
-"(f)
-
-Emerging Market.—In this section and section 1543 \[7 U.S.C. 3293\], the term 'emerging market' means any country that the Secretary determines—
-
-&emsp;"(1) is taking steps toward a market-oriented economy through the food, agriculture, or rural business sectors of the economy of the country; and
+&emsp;"(1) is taking steps toward a market-oriented economy through the food, agriculture, or rural business sectors of its economy; and
 
 &emsp;"(2) has the potential to provide a viable and significant market for United States agricultural commodities or products of United States agricultural commodities."
 

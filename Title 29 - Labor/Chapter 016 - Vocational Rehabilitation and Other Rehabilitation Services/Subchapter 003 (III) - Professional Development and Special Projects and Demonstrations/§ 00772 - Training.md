@@ -40,7 +40,7 @@
 
 #### (5) Joint funding
 
-&emsp;Training and other activities provided under paragraph (4) for personnel may be jointly funded with the Department of Labor, using funds made available under subtitle B of titleI of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3151 et seq.\].
+&emsp;Training and other activities provided under paragraph (4) for personnel may be jointly funded with the Department of Labor, using funds made available under subtitle B of title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3151 et seq.\].
 
 #### (b) Grants and contracts for academic degrees and academic certificate granting training projects
 
@@ -130,7 +130,7 @@ A grant may not be awarded to a State or other organization under this section u
 
 #### (e) Evaluation and collection of data
 
-The Commissioner shall evaluate the impact of the training programs conducted under this section, and collect information on the training needs of, and data on shortages of qualified personnel necessary to provide services to individuals with disabilities. The Commissioner shall prepare and submit to Congress, by September 30 of each fiscal year, a report setting forth and justifying in detail how the funds made available for training under this section for the fiscal year prior to such submission are allocated by professional discipline and other program areas. The report shall also contain findings on such personnel shortages, how funds proposed for the succeeding fiscal year will be allocated under the President's budget proposal, and how the findings on personnel shortages justify the allocations.
+The Commissioner shall evaluate the impact of the training programs conducted under this section, and collect information on the training needs of, and data on shortages of qualified personnel necessary to provide services to individuals with disabilities. The Commissioner shall prepare and submit to Congress, by September 30 of each fiscal year, a report setting forth andjustifying in detail how the funds made available for training under this section for the fiscal year prior to such submission are allocated by professional discipline and other program areas. The report shall also contain findings on such personnel shortages, how funds proposed for the succeeding fiscal year will be allocated under the President's budget proposal, and how the findings on personnel shortages justify the allocations.
 
 #### (f) Grants for the training of interpreters
 
@@ -176,7 +176,7 @@ The Commissioner shall evaluate the impact of the training programs conducted un
 
 #### (1) Technical assistance
 
-&emsp;The Commissioner is authorized to provide technical assistance to State designated agencies and community rehabilitation programs, directly or through contracts with State designated agencies or nonprofit organizations. Any technical assistance provided to community rehabilitation programs shall be focusedon the employment outcome of competitive integrated employment for individuals with disabilities.
+&emsp;The Commissioner is authorized to provide technical assistance to State designated agencies and community rehabilitation programs, directly or through contracts with State designated agencies or nonprofit organizations. Any technical assistance provided to community rehabilitation programs shall be focused on the employment outcome of competitive integrated employment for individuals with disabilities.
 
 #### (2) Compensation
 

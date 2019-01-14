@@ -72,7 +72,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the initial applicable 1-year period and any 1-year period thereafter, apparel articles described in this paragraph are apparel articles that are wholly assembled, or are knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, and yarns, only if, for each entry in that 1-year period, the sum of—
+&emsp;&emsp;&emsp;In the initial applicable 1-year period and any 1-year period thereafter, apparelarticles described in this paragraph are apparel articles that are wholly assembled, or are knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, and yarns, only if, for each entry in that 1-year period, the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the cost or value of the materials produced in Haiti or one or more countries described in clause (iii), or any combination thereof, plus
 
@@ -158,7 +158,7 @@ In this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;U.S. Customs and Border Protection of the Department of Homeland Security shall develop and implement methods and procedures to ensure ongoing compliance with the requirements set forth in clauses (i) and (iv).
+&emsp;&emsp;&emsp;&emsp;U.S. Customs and Border Protection of the Department of Homeland Securityshall develop and implement methods and procedures to ensure ongoing compliance with the requirements set forth in clauses (i) and (iv).
 
 #### (II) Noncompliance
 
@@ -259,7 +259,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) The following apparel articles of cotton, for men or boys, that are classifiable under subheading 6109.10.00 of the HTS:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) All white T-shirts, with short hemmed sleeves and hemmed bottom,with crew or round neckline or with V-neck and with a mitered seam at the center of the V, and without pockets, trim, or embroidery.
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) All white T-shirts, with short hemmed sleeves and hemmed bottom, with crew or round neckline or with V-neck and with a mitered seam at the center of the V, and without pockets, trim, or embroidery.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) All white singlets, without pockets, trim, or embroidery.
 
@@ -403,7 +403,7 @@ In this section:
 
 #### (B) Other apparel articles
 
-&emsp;&emsp;Any of the following apparel articles that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made:
+&emsp;&emsp;Any of the following apparel articles that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, oryarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made:
 
 &emsp;&emsp;&emsp;(i) Any apparel article that is of a type listed in chapter rule 3, 4, or 5 for chapter 61 of the HTS (as such chapter rules are contained in section A of the Annex to Proclamation 8213 of the President of December 20, 2007) as being excluded from the scope of such chapter rule, when such chapter rule is applied to determine whether an apparel article is an originating good for purposes of general note 29(n) to the HTS, except that, for purposes of this clause, reference in such chapter rules to "6104.12.00" shall be deemed to be a reference to "6104.19.60".
 
@@ -729,7 +729,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) The Secretary of Commerce may require any textile mill or other entity located in the United States that exports to Haiti qualifying woven fabric or qualifying knit fabric to submit, upon such export or upon request, documentation, such as a Shipper's Export Declaration, to the Secretary of Commerce—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) verifying that the qualifying woven fabric or qualifying knit fabric was exported to a producer in Haiti or to an entity controlling production; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) verifying that the qualifying woven fabric or qualifying knit fabricwas exported to a producer in Haiti or to an entity controlling production; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) identifying such producer or entity controlling production, and the quantity and description of qualifying woven fabric or qualifying knit fabric exported to such producer or entity controlling production.
 
@@ -781,7 +781,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Any apparel article that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source of the fabrics, fabric components, components knit-to-shape, or yarns from which the article is made, if the fabrics, fabric components, components knit-to-shape, or yarns comprising the component that determines the tariff classification of the article are of any of the following:
+&emsp;&emsp;Any apparel article that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, without regard to the source ofthe fabrics, fabric components, components knit-to-shape, or yarns from which the article is made, if the fabrics, fabric components, components knit-to-shape, or yarns comprising the component that determines the tariff classification of the article are of any of the following:
 
 &emsp;&emsp;&emsp;(i) Fabrics or yarns, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA.
 
@@ -1021,7 +1021,7 @@ In this section:
 
 #### (ii) Assistance to producers; withdrawal, etc., of preferential treatment
 
-&emsp;&emsp;&emsp;For each producer that the President identifies under clause (i), the President shall seek to assist such producer in coming into compliance with core labor standards and with the labor laws of Haiti that directly relate to and are consistent withcore labor standards. If such efforts fail, the President shall withdraw, suspend, or limit the application of preferential treatment under subsection (b) to articles of such producer.
+&emsp;&emsp;&emsp;For each producer that the President identifies under clause (i), the President shall seek to assist such producer in coming into compliance with core labor standards and with the labor laws of Haiti that directly relate to and are consistent with core labor standards. If such efforts fail, the President shall withdraw, suspend, or limit the application of preferential treatment under subsection (b) to articles of such producer.
 
 #### (iii) Reinstating preferential treatment
 
@@ -1059,7 +1059,7 @@ In this section:
 
 &emsp;&emsp;(A) Haiti has adopted an effective visa system, domestic laws, and enforcement procedures applicable to articles described in subsection (b) to prevent unlawful transshipment of the articles and the use of counterfeit documents relating to the importation of the articles into the United States.
 
-&emsp;&emsp;(B) Haiti has enacted legislation or promulgated regulations that would permit U.S. Customs and Border Protection verification teams to have the access necessary to investigate thoroughly allegations of transshipment through such country.
+&emsp;&emsp;(B) Haiti has enacted legislation or promulgated regulations that would permitU.S. Customs and Border Protection verification teams to have the access necessary to investigate thoroughly allegations of transshipment through such country.
 
 &emsp;&emsp;(C) Haiti agrees to report, on a timely basis, at the request of U.S. Customs and Border Protection, on the total exports from and imports into that country of articles described in subsection (b), consistent with the manner in which the records are kept by Haiti.
 
@@ -1081,7 +1081,7 @@ In this section:
 
 #### (B) Technical and other assistance
 
-&emsp;&emsp;The Commissioner responsible for U.S. Customs and Border Protection shall provide technical and other assistance to Haiti andthe Dominican Republic to develop expeditiously the procedures described in subparagraph (A).
+&emsp;&emsp;The Commissioner responsible for U.S. Customs and Border Protection shall provide technical and other assistance to Haiti and the Dominican Republic to develop expeditiously the procedures described in subparagraph (A).
 
 #### (g) Regulations
 
@@ -1117,7 +1117,7 @@ Subsec. (b)(2)(B)(iii). Pub. L. 114–27, §301(1)(B)(ii), substituted "16 succe
 
 Subsec. (h). Pub. L. 114–27, §301(2), substituted "September 30, 2025" for "September 30, 2020".
 
-<b>2012</b>—Subsec. (b)(4)(C), (D). Pub. L. 112–234, which directed amendment of section 231A(b)(4) of the Caribbean Basin Economic Recovery Act by redesignating subpar. (D) as (C) and striking out former subpar. (C), was executed to this section, which is section 213A of the Caribbean Basin Economic Recovery Act, to reflect the probable intent of Congress. Prior to amendment, text of subpar. (C) read as follows: "The United States Government Accountability Office shall review the program established under subparagraph (B) annually for the purpose of evaluating the effectiveness of, and making recommendations for improvements in, the program."
+<b>2012</b>—Subsec. (b)(4)(C), (D). Pub. L. 112–234, which directed amendment of section 231A(b)(4) of the Caribbean Basin Economic Recovery Act by redesignatingsubpar. (D) as (C) and striking out former subpar. (C), was executed to this section, which is section 213A of the Caribbean Basin Economic Recovery Act, to reflect the probable intent of Congress. Prior to amendment, text of subpar. (C) read as follows: "The United States Government Accountability Office shall review the program established under subparagraph (B) annually for the purpose of evaluating the effectiveness of, and making recommendations for improvements in, the program."
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–171, §7(1), added par. (1) and struck out former par. (1) which defined "applicable 1-year period", "initial applicable 1-year period", "second applicable 1-year period", "third applicable 1-year period", "fourth applicable 1-year period", and "fifth applicable 1-year period" in subpars. (A) to (F), respectively.
 
@@ -1237,7 +1237,7 @@ Pub. L. 110–234, title XV, §15407, May 22, 2008, 122 Stat. 1546, and Pub. L. 
 
 #### Delegation of Functions
 
-Proc. No. 8296, Sept. 30, 2008, 73 F.R. 57476, provided in par. (3) that the United States Trade Representative is authorized to perform the functions under subsec. (d)(4) of this section, the reporting function under subsec. (e)(1)(B)(ii) of this section, the consultation function under subsec. (e)(1)(C)(i) of this section, and the functions under subsec. (e)(5) of this section and provided in par. (4) that the Secretary of Labor, in consultationwith the United States Trade Representative, is authorized to perform the functions under subsec. (e)(4)(B)(i), (ii) of this section.
+Proc. No. 8296, Sept. 30, 2008, 73 F.R. 57476, provided in par. (3) that the United States Trade Representative is authorized to perform the functions under subsec. (d)(4) of this section, the reporting function under subsec. (e)(1)(B)(ii) of this section, the consultation function under subsec. (e)(1)(C)(i) of this section, and the functions under subsec. (e)(5) of this section and provided in par. (4) that the Secretary of Labor, in consultation with the United States Trade Representative, is authorized to perform the functions under subsec. (e)(4)(B)(i), (ii) of this section.
 
 Proc. No. 8114, Mar. 19, 2007, 72 F.R. 13656, provided in par. (5) that the Secretary of the Treasury is authorized to perform the functions assigned to the President under subsec. (f) of this section.
 
@@ -1275,7 +1275,7 @@ In General.—
 
 Rapid response team.—The Commissioner responsible for United States Customs and Border Protection (in this section referred to as the 'Commissioner') shall, in consultation with the United States Coast Guard, the Drug Enforcement Agency, and other Federal agencies, as appropriate, seek to send a rapid response team to Haiti—
 
-&emsp;&emsp;"(A) to assess the short-term and long-term technical, capacity-building, and training needs of the authorities of the Government of Haiti responsible for customs services; and
+&emsp;&emsp;"(A) to assess the short-term and long-term technical, capacity-building, and training needs of theauthorities of the Government of Haiti responsible for customs services; and
 
 &emsp;&emsp;"(B) to provide immediate assistance, as warranted, particularly with respect to—
 
@@ -1327,7 +1327,7 @@ Supplement and not supplant.—The amounts authorized to be appropriated by para
 
 #### Presidential Proclamation Authority
 
-Pub. L. 110–234, title XV, §15406, May 22, 2008, 122 Stat. 1546, and Pub. L. 110–246, §4(a), title XV, §15406, June 18, 2008, 122 Stat. 1664, 2308, provided that: "The President may exercise the authority under section 604 of the Trade Act of 1974 \[19 U.S.C. 2483\] to proclaim such modifications to the Harmonized Tariff Schedule of theUnited States as may be necessary to carry out this part \[part I (§§15401–15412) of subtitle D of title XV of Pub. L. 110–246, amending this section and section 2703 of this title and enacting provisions set out as notes under this section and section 2701 of this title\] and the amendments made by this part."
+Pub. L. 110–234, title XV, §15406, May 22, 2008, 122 Stat. 1546, and Pub. L. 110–246, §4(a), title XV, §15406, June 18, 2008, 122 Stat. 1664, 2308, provided that: "The President may exercise the authority under section 604 of the Trade Act of 1974 \[19 U.S.C. 2483\] to proclaim such modifications to the Harmonized Tariff Schedule of the United States as may be necessary to carry out this part \[part I (§§15401–15412) of subtitle D of title XV of Pub. L. 110–246, amending this section and section 2703 of this title and enacting provisions set out as notes under this section and section 2701 of this title\] and the amendments made by this part."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 

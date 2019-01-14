@@ -21,7 +21,7 @@ Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818, substituted 
 - [&sect; 00707 - Criminal penalty for false statements](%C2%A7%2000707%20-%20Criminal%20penalty%20for%20false%20statements.md)
 - [&sect; 00708 - Nondiscrimination provisions](%C2%A7%2000708%20-%20Nondiscrimination%20provisions.md)
 - [&sect; 00709 - Administration of Federal and State programs](%C2%A7%2000709%20-%20Administration%20of%20Federal%20and%20State%20programs.md)
-- [&sect; 00710 - Separate program for abstinence education](%C2%A7%2000710%20-%20Separate%20program%20for%20abstinence%20education.md)
+- [&sect; 00710 - Sexual risk avoidance education](%C2%A7%2000710%20-%20Sexual%20risk%20avoidance%20education.md)
 - [&sect; 00711 - Maternal, infant, and early childhood home visiting programs](%C2%A7%2000711%20-%20Maternal%2C%20infant%2C%20and%20early%20childhood%20home%20visiting%20programs.md)
 - [&sect; 00712 - Services to individuals with a postpartum condition and their families](%C2%A7%2000712%20-%20Services%20to%20individuals%20with%20a%20postpartum%20condition%20and%20their%20families.md)
 - [&sect; 00713 - Personal responsibility education](%C2%A7%2000713%20-%20Personal%20responsibility%20education.md)

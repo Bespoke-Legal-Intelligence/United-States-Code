@@ -40,7 +40,7 @@ When access to financial records is obtained pursuant to section 3414(b) of this
 
 #### (d) Preservation of memorandums, affidavits, or other papers
 
-Any memorandum, affidavit, or other paper filed in connection with a request for delay in notification shall be preserved by the court. Upon petition by the customer to whom such records pertain, the court may order disclosure of such papers to the petitioner unless the court makes the findings required in subsection (a).
+Any memorandum, affidavit, or other paper filed in connection with a request for delay in notification shall be preserved by the court. Upon petition by the customer to whom such records pertain, the court may order disclosureof such papers to the petitioner unless the court makes the findings required in subsection (a).
 
 (Pub. L. 95–630, title XI, §1109, Nov. 10, 1978, 92 Stat. 3702; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 

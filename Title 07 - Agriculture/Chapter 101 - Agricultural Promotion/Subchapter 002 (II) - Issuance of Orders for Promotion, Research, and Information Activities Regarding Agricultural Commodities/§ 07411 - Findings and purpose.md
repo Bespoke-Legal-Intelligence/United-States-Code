@@ -12,7 +12,7 @@ Congress finds the following:
 
 &emsp;(4) Generic promotion, research, and information activities for agricultural commodities play a unique role in advancing the demand for such commodities, since such activities increase the total market for a product to the benefit of consumers and all producers. These generic activities complement branded advertising initiatives, which are aimed at increasing the market share of individual competitors, and are of particular benefit to small producers who lack the resources or market power to advertise on their own. These generic activities do not impede the branded advertising efforts of individual firms, but instead increase general market demand for an agricultural commodity using methods that individual companies do not have the incentive to employ.
 
-&emsp;(5) Generic promotion, research, and information activities for agricultural commodities, paid by the producers and others in theindustry who reap the benefits of such activities, provide a unique opportunity for producers to inform consumers about a particular agricultural commodity.
+&emsp;(5) Generic promotion, research, and information activities for agricultural commodities, paid by the producers and others in the industry who reap the benefits of such activities, provide a unique opportunity for producers to inform consumers about a particular agricultural commodity.
 
 &emsp;(6) It is important to ensure that generic promotion, research, and information activities for agricultural commodities be carried out in an effective and coordinated manner designed to strengthen the position of the commodities in the marketplace and to maintain and expand their markets and uses. Independent evaluation of the effectiveness of the generic promotion activities of these programs will assist the Secretary of Agriculture and Congress in ensuring that these objectives are met.
 
@@ -36,7 +36,7 @@ The purpose of this subchapter is to authorize the establishment, through the ex
 
 #### (c) Rule of construction
 
-Nothing in this subchapter provides for the control of production or otherwise limits the right of any person to produce, handle, or import an agricultural commodity.
+Nothing in this subchapter provides for the control of production or otherwise limits theright of any person to produce, handle, or import an agricultural commodity.
 
 (Pub. L. 104–127, title V, §512, Apr. 4, 1996, 110 Stat. 1032.)
 

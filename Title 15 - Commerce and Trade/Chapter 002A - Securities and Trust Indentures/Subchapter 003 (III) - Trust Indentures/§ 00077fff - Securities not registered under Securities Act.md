@@ -10,7 +10,7 @@ In the case of any security which is not registered under the Securities Act of 
 
 #### (b) Prohibitions affecting unregistered securities issued under indenture
 
-In the case of any security which is not registered under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], but which has been or is to be issued under an indenture as to which an application for qualification is effective, it shall be unlawful for any person, directly or indirectly—
+In the case of any security which is not registered under the Securities Act of 1933 \[15U.S.C. 77a et seq.\], but which has been or is to be issued under an indenture as to which an application for qualification is effective, it shall be unlawful for any person, directly or indirectly—
 
 &emsp;(1) to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to carry or transmit any prospectus relating to any such security, unless such prospectus, to the extent the Commission may prescribe by rules and regulations as necessary and appropriate in the public interest or for the protection of investors, includes or is accompanied by a written statement that contains the information specified in subsection (c) of section 77eee of this title; or
 
@@ -38,5 +38,5 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

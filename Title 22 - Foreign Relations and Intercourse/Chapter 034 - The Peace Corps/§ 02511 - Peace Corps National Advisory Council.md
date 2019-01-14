@@ -6,7 +6,7 @@ A Peace Corps National Advisory Council (hereinafter in this section referred to
 
 #### (b) Functions
 
-(1) The Council shall advise and consult with the President and the Director of the Peace Corps with regard to policies and programs designed to further the purposes of this chapter and shall, as the Council considers appropriate, periodically report to the Congress with regard to the Peace Corps.
+(1) The Council shall advise and consult with the President and the Director of the PeaceCorps with regard to policies and programs designed to further the purposes of this chapter and shall, as the Council considers appropriate, periodically report to the Congress with regard to the Peace Corps.
 
 (2) Members of the Council shall (subject to subsection (d)(1)) conduct on-site inspections, and make examinations, of the activities of the Peace Corps in the United States and in other countries in order to—
 
@@ -40,7 +40,7 @@ A Peace Corps National Advisory Council (hereinafter in this section referred to
 
 (H) An appointed member of the Council may be removed by a vote of nine members for malfeasance in office, for persistent neglect of or inability to discharge duties, or for offenses involving moral turpitude, and for no other cause.
 
-(I) Within thirty days after any vacancy occurs in the office of an appointed member of theCouncil, the President shall nominate an individual to fill the vacancy.
+(I) Within thirty days after any vacancy occurs in the office of an appointed member of the Council, the President shall nominate an individual to fill the vacancy.
 
 (3) In addition to the voting members of the Council, the Secretary of State and the Administrator of the Agency for International Development, or their designees, and the Director and Deputy Director of the Peace Corps, shall be non-voting members, ex officio, of the Council.
 

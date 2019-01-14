@@ -54,7 +54,7 @@ A civil action brought under subsection (a) shall be referred to the Attorney Ge
 
 #### (2) Standard of review
 
-&emsp;A finding of the Secretary shall be set aside under this subsection only if the finding isfound to be unsupported by substantial evidence.
+&emsp;A finding of the Secretary shall be set aside under this subsection only if the finding is found to be unsupported by substantial evidence.
 
 #### (e) Failure to obey an order
 

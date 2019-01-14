@@ -2,7 +2,7 @@
 
 (a)
 
-General Venue.—Any civil action under section 2333 of this title against any person may be instituted in the district court of the United States for any district where any plaintiff resides or where any defendant resides or is served, or has an agent. Process in such a civil action may be served in any district where the defendant resides, is found, or has an agent.
+General Venue.—Any civil action under section 2333 of this title against any person maybe instituted in the district court of the United States for any district where any plaintiff resides or where any defendant resides or is served, or has an agent. Process in such a civil action may be served in any district where the defendant resides, is found, or has an agent.
 
 (b)
 
@@ -22,7 +22,47 @@ Convenience of the Forum.—The district court shall not dismiss any action brou
 
 &emsp;(3) that foreign court offers a remedy which is substantially the same as the one available in the courts of the United States.
 
-(Added Pub. L. 102–572, title X, §1003(a)(4), Oct. 29, 1992, 106 Stat. 4522.)
+(e)
+
+Consent of Certain Parties to Personal Jurisdiction.—
+
+&emsp;(1)
+
+In general.—Except as provided in paragraph (2), for purposes of any civil action under section 2333 of this title, a defendant shall be deemed to have consented to personal jurisdiction in such civil action if, regardless of the date of the occurrence of the act of international terrorism upon which such civil action was filed, the defendant—
+
+&emsp;&emsp;(A) after the date that is 120 days after the date of enactment of this subsection, accepts—
+
+&emsp;&emsp;&emsp;(i) any form of assistance, however provided, under chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 et seq.);
+
+&emsp;&emsp;&emsp;(ii) any form of assistance, however provided, under section 481 of the Foreign Assistance Act of 1961 (22 U.S.C. 2291) for international narcotics control and law enforcement; or
+
+&emsp;&emsp;&emsp;(iii) any form of assistance, however provided, under chapter 9 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2349bb et seq.); or
+
+&emsp;&emsp;(B) in the case of a defendant benefiting from a waiver or suspension of section 1003 of the Anti-Terrorism Act of 1987 (22 U.S.C. 5202) after the date that is 120 days after the date of enactment of this subsection—
+
+&emsp;&emsp;&emsp;(i) continues to maintain any office, headquarters, premises, or other facilities or establishments within the jurisdiction of the United States; or
+
+&emsp;&emsp;&emsp;(ii) establishes or procures any office, headquarters, premises, or other facilities or establishments within the jurisdiction of the United States.
+
+&emsp;(2)
+
+Applicability.—Paragraph (1) shall not apply to any defendant who ceases to engage in the conduct described in paragraphs (1)(A) and (1)(B) for 5 consecutive calendar years.
+
+(Added Pub. L. 102–572, title X, §1003(a)(4), Oct. 29, 1992, 106 Stat. 4522; amended Pub. L. 115–253, §4(a), Oct. 3, 2018, 132 Stat. 3184.)
+
+#### References in Text
+
+The date of enactment of this subsection, referred to in subsec. (e)(1)(A), (B), is the date of enactment of Pub. L. 115–253, which was approved Oct. 3, 2018.
+
+The Foreign Assistance Act of 1961, referred to in subsec. (e)(1)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified generally to part IV (§2346 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. Chapter 9 of part II of the Act is classified generally to part IX (§2349bb et seq.) of subchapter II of chapter 32 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (e). Pub. L. 115–253 added subsec. (e).
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–253, §4(b), Oct. 3, 2018, 132 Stat. 3185, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 3, 2018\]."
 
 #### Effective Date
 

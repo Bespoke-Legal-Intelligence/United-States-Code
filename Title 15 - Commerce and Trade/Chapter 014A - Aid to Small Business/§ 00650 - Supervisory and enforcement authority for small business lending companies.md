@@ -48,7 +48,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 &emsp;(B) Any suspension under paragraph (1) shall remain in effect until the Administrator makes a decision pursuant to subparagraph (4) to permanently revoke the authority of the small business lending company or non-Federally regulated lender, suspend the authority for a time certain, or terminate the suspension.
 
-(3) The small business lending company or non-Federally regulated lender must notify borrowers of a revocation and that a new entity hasbeen appointed to service their loans. The Administrator or an employee of the Administration designated by the Administrator may provide such notice to the borrower.
+(3) The small business lending company or non-Federally regulated lender must notify borrowers of a revocation and that a new entity has been appointed to service their loans. The Administrator or an employee of the Administration designated by the Administrator may provide such notice to the borrower.
 
 (4) Any revocation or suspension under paragraph (1) shall be made by the Administrator except that the Administrator shall delegate to an administrative law judge as that term is used in section 3105 of title 5 the authority to conduct any hearing required under subsection (f). The Administrator shall base the decision to revoke on the record of the hearing.
 
@@ -142,7 +142,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 &emsp;&emsp;&emsp;&emsp;(I) pending the completion of the administrative proceedings pursuant to a notice of intention to remove served under paragraph (2); and
 
-&emsp;&emsp;&emsp;&emsp;(II) until such time as the Administrator dismisses the charges specified in the notice, or, if an order of removal or prohibition is issued against the management official, until the effective date of any such order.
+&emsp;&emsp;&emsp;&emsp;(II) until such time as the Administrator dismisses the charges specified inthe notice, or, if an order of removal or prohibition is issued against the management official, until the effective date of any such order.
 
 #### (C) Judicial review of suspension prior to hearing
 

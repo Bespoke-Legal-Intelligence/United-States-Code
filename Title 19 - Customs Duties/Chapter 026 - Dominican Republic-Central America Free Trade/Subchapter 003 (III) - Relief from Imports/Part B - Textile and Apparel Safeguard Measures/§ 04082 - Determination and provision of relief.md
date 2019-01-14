@@ -10,7 +10,7 @@
 
 &emsp;In making a determination under paragraph (1), the President—
 
-&emsp;&emsp;(A) shall examine the effect of increased imports on the domestic industry, as reflected in changes in such relevant economic factors as output, productivity, utilization of capacity, inventories, market share, exports, wages, employment, domestic prices, profits, and investment, none of which is necessarily decisive; and
+&emsp;&emsp;(A) shall examine the effect of increased imports on the domestic industry, as reflected in changes in such relevant economic factors as output, productivity, utilizationof capacity, inventories, market share, exports, wages, employment, domestic prices, profits, and investment, none of which is necessarily decisive; and
 
 &emsp;&emsp;(B) shall not consider changes in technology or consumer preference as factors supporting a determination of serious damage or actual threat thereof.
 

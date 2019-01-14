@@ -72,11 +72,11 @@ Plan.—Within 180 days after the date of the enactment of this Act \[Nov. 28, 1
 
 "(c)
 
-Demonstration Project.—The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall implement a demonstration project for disposing on an annual basis up to 10 percent of the material dredged from the New York/New Jersey Harbor region in an environmentally sound manner other than by ocean disposal. Environmentally sound alternatives may include, among others, capping of borrow pits, construction of a containment island, application for landfill cover, habitat restoration, and use of decontamination technology.
+Demonstration Project.—The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall implement a demonstration project for disposing on an annual basis up to 10 percent of the material dredged from the New York/New Jersey Harbor region in an environmentallysound manner other than by ocean disposal. Environmentally sound alternatives may include, among others, capping of borrow pits, construction of a containment island, application for landfill cover, habitat restoration, and use of decontamination technology.
 
 "(d)
 
-Mud Dump Site Defined.—For purposes of this section, the term 'Mud Dump Site' means the area located approximately 5¾ miles east of Sandy Hook, New Jersey, with boundary coordinates of 40 degrees, 23 minutes, 48 seconds North, 73 degrees, 51 minutes, 28 seconds West; 40 degrees, 21 minutes, 48 seconds North, 73 degrees, 50 minutes, 00 seconds West; 40 degrees, 21 minutes, 48 seconds North; 73 degrees, 51 minutes, 28seconds West; and 40 degrees, 23 minutes, 48 seconds North; 73 degrees, 50 minutes, 00 seconds West.
+Mud Dump Site Defined.—For purposes of this section, the term 'Mud Dump Site' means the area located approximately 5¾ miles east of Sandy Hook, New Jersey, with boundary coordinates of 40 degrees, 23 minutes, 48 seconds North, 73 degrees, 51 minutes, 28 seconds West; 40 degrees, 21 minutes, 48 seconds North, 73 degrees, 50 minutes, 00 seconds West; 40 degrees, 21 minutes, 48 seconds North; 73 degrees, 51 minutes, 28 seconds West; and 40 degrees, 23 minutes, 48 seconds North; 73 degrees, 50 minutes, 00 seconds West.
 
 "(e)
 

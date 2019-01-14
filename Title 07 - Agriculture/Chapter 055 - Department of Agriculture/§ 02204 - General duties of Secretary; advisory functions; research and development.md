@@ -156,7 +156,7 @@ Maintenance of standards and preparedness.—In making recommendations to transf
 
 &emsp;"(5)
 
-Submission of results.—Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretaries shall submit to Congress theresults of the study, including any recommendations to transfer inspection authority or otherwise change Department inspection specifications and procedures and a cost-benefit analysis of such recommendations.
+Submission of results.—Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretaries shall submit to Congress the results of the study, including any recommendations to transfer inspection authority or otherwise change Department inspection specifications and procedures and a cost-benefit analysis of such recommendations.
 
 "(b)
 

@@ -44,7 +44,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the term "unsecured PHR identifiable health information" means PHR identifiable health information that is not protected through the use of a technology or methodology specified by the Secretary in the guidance issued under section 17932(h)(2) of this title.
+&emsp;&emsp;Subject to subparagraph (B), the term "unsecured PHR identifiable health information" means PHR identifiable health information that is not protected through the use of a technology or methodology specified bythe Secretary in the guidance issued under section 17932(h)(2) of this title.
 
 #### (B) Exception in case timely guidance not issued
 

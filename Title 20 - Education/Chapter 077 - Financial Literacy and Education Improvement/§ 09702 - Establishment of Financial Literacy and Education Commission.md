@@ -24,7 +24,7 @@ The Commission shall serve to improve the financial literacy and education of pe
 
 #### (2) Alternates
 
-&emsp;Each member of the Commission may designate an alternate if the member is unable toattend a meeting of the Commission. Such alternate shall be an individual who exercises significant decisionmaking authority.
+&emsp;Each member of the Commission may designate an alternate if the member is unable to attend a meeting of the Commission. Such alternate shall be an individual who exercises significant decisionmaking authority.
 
 #### (d) Chairperson
 

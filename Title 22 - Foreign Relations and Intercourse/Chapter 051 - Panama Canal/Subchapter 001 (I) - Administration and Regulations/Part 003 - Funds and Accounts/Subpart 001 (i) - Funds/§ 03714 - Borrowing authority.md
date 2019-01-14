@@ -14,7 +14,7 @@ Amounts borrowed under this section shall not be available for payments to Panam
 
 #### (c) Effect on investment interest in Panama Canal
 
-Amounts borrowed under this section shall increase the investment of the United States inthe Panama Canal, and repayment of such amounts shall decrease such investment.
+Amounts borrowed under this section shall increase the investment of the United States in the Panama Canal, and repayment of such amounts shall decrease such investment.
 
 #### (d) Report to Congress
 

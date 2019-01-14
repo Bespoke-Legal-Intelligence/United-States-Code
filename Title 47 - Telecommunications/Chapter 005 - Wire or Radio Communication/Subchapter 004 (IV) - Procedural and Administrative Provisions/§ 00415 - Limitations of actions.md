@@ -6,7 +6,7 @@ All actions at law by carriers for recovery of their lawful charges, or any part
 
 #### (b) Recovery of damages
 
-All complaints against carriers for the recovery of damages not based on overcharges shallbe filed with the Commission within two years from the time the cause of action accrues, and not after, subject to subsection (d) of this section.
+All complaints against carriers for the recovery of damages not based on overcharges shall be filed with the Commission within two years from the time the cause of action accrues, and not after, subject to subsection (d) of this section.
 
 #### (c) Recovery of overcharges
 

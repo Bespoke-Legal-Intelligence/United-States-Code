@@ -236,7 +236,7 @@ United states.—The term 'United States' means the States of the United States,
 
 &emsp;"(4)
 
-Usable water.—The term 'usable water' means water of a high quality suitable for environmental enhancement, agricultural, industrial, municipal, and other beneficial consumptive or nonconsumptive uses.
+Usable water.—The term 'usable water' means water of a high quality suitable for environmental enhancement, agricultural, industrial, municipal,and other beneficial consumptive or nonconsumptive uses.
 
 &emsp;"(5)
 
@@ -438,7 +438,7 @@ Pub. L. 99–662, title XI, §1121, Nov. 17, 1986, 100 Stat. 4239, provided that
 
 "(a) The Congress finds that—
 
-&emsp;"(1) the Ogallala aquifer lies beneath, and provides needed water supplies to, the 8 States of the HighPlains Region: Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming;
+&emsp;"(1) the Ogallala aquifer lies beneath, and provides needed water supplies to, the 8 States of the High Plains Region: Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming;
 
 &emsp;"(2) the High Plains region has become an important source of agricultural commodities and livestock for domestic and international markets, providing 15 percent of the Nation's supply of wheat, corn, feed grains, sorghum, and cotton, plus 38 percent of the value of livestock raised in the United States; and
 
@@ -568,7 +568,7 @@ Sec. 309. (a) For each of the fiscal years ending September 30, 1987, through Se
 
 &emsp;" '(5) $600,000 for the purposes of section 306.
 
-" '(b) Funds made available under this title for distribution to the States of the High Plains region shall be distributed equally among the States.' " \[As amended Pub. L. 101–397, §1(o), Sept. 28, 1990, 104 Stat. 854.\]
+" '(b) Funds made available under this title for distribution to the States of the High Plains region shallbe distributed equally among the States.' " \[As amended Pub. L. 101–397, §1(o), Sept. 28, 1990, 104 Stat. 854.\]
 
 \[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 17th and 18th items on page 72 identify reporting provisions which, as subsequently amended, are contained in sections 306 and 308 of Pub. L. 98–242, set out in the note above), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 

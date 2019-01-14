@@ -16,7 +16,7 @@ Minor changes were made in phraseology.
 
 #### Constitutionality
 
-For information regarding constitutionality of this section, see reference to act June 19, 1934, ch. 652, §316 (on which this section is based), in Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1,Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of this section, see reference to act June 19, 1934, ch. 652, §316 (on which this section is based), in Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 

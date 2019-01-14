@@ -8,7 +8,7 @@ With respect to any Alaska natural gas transportation project, on a request by 1
 
 Before ordering an expansion under subsection (a), the Commission shall—
 
-&emsp;(1) approve or establish rates for the expansion service that are designed to ensure the recovery, on an incremental or rolled-in basis, of the cost associated with the expansion (including a reasonable rate of return on investment);
+&emsp;(1) approve or establish rates for the expansion service that are designed to ensure the recovery, on an incremental or rolled-in basis, ofthe cost associated with the expansion (including a reasonable rate of return on investment);
 
 &emsp;(2) ensure that the rates do not require existing shippers on the Alaska natural gas transportation project to subsidize expansion shippers;
 

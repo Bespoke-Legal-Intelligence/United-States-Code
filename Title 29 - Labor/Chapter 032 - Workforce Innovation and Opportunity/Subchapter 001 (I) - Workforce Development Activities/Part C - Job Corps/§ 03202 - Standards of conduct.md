@@ -2,7 +2,7 @@
 
 #### (a) Provision and enforcement
 
-The Secretary shall provide, and directors of Job Corps centers shall stringently enforce,standards of conduct within the centers. Such standards of conduct shall include provisions forbidding the actions described in subsection (b)(2)(A).
+The Secretary shall provide, and directors of Job Corps centers shall stringently enforce, standards of conduct within the centers. Such standards of conduct shall include provisions forbidding the actions described in subsection (b)(2)(A).
 
 #### (b) Disciplinary measures
 

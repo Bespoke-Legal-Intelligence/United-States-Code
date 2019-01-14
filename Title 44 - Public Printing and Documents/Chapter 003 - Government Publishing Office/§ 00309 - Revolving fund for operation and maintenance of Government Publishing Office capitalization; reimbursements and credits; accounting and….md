@@ -28,7 +28,7 @@
 
 (d) The Inspector General of the Government Publishing Office shall audit the financial and operational activities of the Government Publishing Office each year. The audits shall be conducted under the direction of the Joint Committee on Printing. For purposes of the audits, the Inspector General shall have such access to the records, files, personnel, and facilities of the Government Publishing Office as the Inspector General considers appropriate. The Inspector General shall furnish reports of the audits to the Congress and the Director of the Government Publishing Office.
 
-(e) The Director of the Government Publishing Office shall prepare an annual financial statement meeting the requirements of section3515(b) of title 31, United States Code. Each financial statement shall be audited in accordance with applicable generally accepted Government auditing standards—
+(e) The Director of the Government Publishing Office shall prepare an annual financial statement meeting the requirements of section 3515(b) of title 31, United States Code. Each financial statement shall be audited in accordance with applicable generally accepted Government auditing standards—
 
 &emsp;(1) by an independent external auditor selected by the Director of the Government Publishing Office, or
 
@@ -82,7 +82,7 @@ Pub. L. 103–69, title II, §207(c), Aug. 11, 1993, 107 Stat. 708, provided tha
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 23rd item on page 4 identifies a reporting provision which, as subsequently amended, is contained in subsec. (d) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 23rd item on page 4 identifies a reporting provision which, as subsequently amended, is contained in subsec. (d) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Federal Register Program; Use of Revolving Fund; Reimbursement
 

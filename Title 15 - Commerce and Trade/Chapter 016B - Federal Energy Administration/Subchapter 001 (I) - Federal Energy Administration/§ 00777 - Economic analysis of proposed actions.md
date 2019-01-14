@@ -36,7 +36,7 @@ The Administrator, together with the Secretaries of Labor and Commerce, shall mo
 
 #### (e) Industrial or regional discrimination; equal bearing of costs and burdens of meeting energy shortages
 
-The Administrator shall formulate and implement regulatory and other actions in a manner (1) which does not unduly discriminate against any industry or any region of the United States; and (2) designed to insure that, to the greatest extent possible, the costs and burdens of meeting energy shortages shall be borne equally by every sector and segment of the country and of the economy.
+The Administrator shall formulate and implement regulatory and other actions in a manner\(1) which does not unduly discriminate against any industry or any region of the United States; and (2) designed to insure that, to the greatest extent possible, the costs and burdens of meeting energy shortages shall be borne equally by every sector and segment of the country and of the economy.
 
 (Pub. L. 93–275, §18, May 7, 1974, 88 Stat. 110; Pub. L. 94–385, title I, §109(d), Aug. 14, 1976, 90 Stat. 1130.)
 

@@ -204,7 +204,7 @@ Binding contracts.—The amendment made by this section shall not apply to any t
 
 Pub. L. 101–508, title XI, §11701(h), Nov. 5, 1990, 104 Stat. 1388–508, provided that the amendment made by that section is effective with respect to transfers after Aug. 3, 1990.
 
-Pub. L. 101–508, title XI, §11703(d)(2), Nov. 5, 1990, 104 Stat. 1388–517, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to transfers after July 18, 1984."
+Pub. L. 101–508, title XI, §11703(d)(2), Nov. 5, 1990, 104 Stat. 1388–517, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to transfers after July 18, 1984."
 
 #### Effective Date of 1989 Amendment
 
@@ -232,7 +232,7 @@ In general.—Except as otherwise provided in this subsection, the amendment mad
 
 "(2)
 
-Binding contract exception for transfer of partnership interests.—Paragraph (2)(D) of section1031(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a)) shall not apply in the case of any exchange pursuant to a binding contract in effect on March 1, 1984, and at all times thereafter before the exchange.
+Binding contract exception for transfer of partnership interests.—Paragraph (2)(D) of section 1031(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a)) shall not apply in the case of any exchange pursuant to a binding contract in effect on March 1, 1984, and at all times thereafter before the exchange.
 
 "(3)
 

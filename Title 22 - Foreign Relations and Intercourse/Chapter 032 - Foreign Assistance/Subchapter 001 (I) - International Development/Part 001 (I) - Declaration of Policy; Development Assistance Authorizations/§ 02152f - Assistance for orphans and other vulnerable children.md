@@ -16,7 +16,7 @@ Congress finds the following:
 
 &emsp;(6) The United States Government administers various assistance programs for orphans and other vulnerable children in developing countries. In order to improve targeting and programming of resources, the United States Agency for International Development should develop methods to adequately track the overall number of orphans and other vulnerable children receiving assistance, the kinds of programs for such children by sector and location, and any other such related data and analysis.
 
-&emsp;(7) The United States Agency for International Development should improve its capabilities to deliver assistance to orphans andother vulnerable children in developing countries through partnerships with private volunteer organizations, including community and faith-based organizations.
+&emsp;(7) The United States Agency for International Development should improve its capabilities to deliver assistance to orphans and other vulnerable children in developing countries through partnerships with private volunteer organizations, including community and faith-based organizations.
 
 &emsp;(8) The United States Agency for International Development should be the primary United States Government agency responsible for identifying and assisting orphans and other vulnerable children in developing countries.
 
@@ -176,7 +176,7 @@ Pub. L. 109–95, §2, Nov. 8, 2005, 119 Stat. 2111, provided that: "Congress ma
 
 &emsp;&emsp;"(A) ensures that Federal agencies and the private sector coordinate efforts to prevent and eliminate duplication of efforts and waste in the provision of such assistance; and
 
-&emsp;&emsp;"(B) to the maximum extent possible, focuses on community-based programs that allow orphans and other vulnerable children to remain connected to the traditions and rituals of their families and communities."
+&emsp;&emsp;"(B) to the maximum extent possible, focuses on community-based programs that allow orphans andother vulnerable children to remain connected to the traditions and rituals of their families and communities."
 
 #### Strategy of the United States
 

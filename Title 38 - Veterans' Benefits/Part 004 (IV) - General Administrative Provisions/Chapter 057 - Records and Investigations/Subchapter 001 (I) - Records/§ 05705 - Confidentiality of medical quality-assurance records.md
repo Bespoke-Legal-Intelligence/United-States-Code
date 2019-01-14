@@ -8,7 +8,7 @@
 
 &emsp;(B) To a Federal executive agency or provider of health-care services, if such record or document is required by such agency or provider for participation by the Department in a health-care program with such agency or provider.
 
-&emsp;(C) To a criminal or civil law enforcement governmental agency or instrumentality charged under applicable law with the protection of the public health or safety, if a qualified representative of such agency or instrumentality makes a written request that such record or document be provided for a purpose authorized by law.
+&emsp;(C) To a criminal or civil law enforcement governmental agency or instrumentality charged under applicable law with the protection of the public health or safety, if a qualified representative of such agency or instrumentality makes a written request that suchrecord or document be provided for a purpose authorized by law.
 
 &emsp;(D) To health-care personnel, to the extent necessary to meet a medical emergency affecting the health or safety of any individual.
 
@@ -72,7 +72,7 @@ Pub. L. 102–54, §14(d)(4)(A), amended subsec. (c)(2) as in effect immediately
 
 Subsec. (d)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator" wherever appearing.
 
-Pub. L. 102–54, §14(d)(4)(B)(i)–(iii), amended subsec. (d)(1) as in effect immediately before the enactment of Pub. L. 102–40 by substituting "The" for "Not later than 180 days after the date of the enactment of this section, the" in first sentence, substituting "October 7, 1980," for "such enactment date" in second sentence, and striking out "existing" after "provisions of the" and inserting "in existence on October 7, 1980" after "such programs" in last sentence.
+Pub. L. 102–54, §14(d)(4)(B)(i)–(iii), amended subsec. (d)(1) as in effect immediately before the enactment of Pub. L. 102–40 by substituting "The" for "Not laterthan 180 days after the date of the enactment of this section, the" in first sentence, substituting "October 7, 1980," for "such enactment date" in second sentence, and striking out "existing" after "provisions of the" and inserting "in existence on October 7, 1980" after "such programs" in last sentence.
 
 Subsec. (d)(2). Pub. L. 102–54, §14(d)(4)(B)(iv), amended subsec. (d)(2) as in effect immediately before the enactment of Pub. L. 102–40 by substituting "An activity may not be considered" for "After the date on which such regulations are first prescribed, no activity shall be considered".
 

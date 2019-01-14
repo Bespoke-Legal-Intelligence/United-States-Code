@@ -68,7 +68,7 @@ Recommendations.—The Commission shall develop recommendations based on the sta
 
 Submission of statement of goals, recommendations, and performance reports.—The Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
 
-&emsp;&emsp;(A) any updates made to the statement of goals developed under paragraph (1) not later than 60 days after such updates are made; and
+&emsp;&emsp;(A) any updates made to the statement of goals developed under paragraph (1) notlater than 60 days after such updates are made; and
 
 &emsp;&emsp;(B) annual performance reports and recommendations for improvements, as appropriate, issued not later than March 31 of each year, for the prior fiscal year, which summarize—
 
@@ -140,13 +140,9 @@ In general.—The Secretary shall establish a Northeast Corridor Safety Committe
 
 &emsp;(2)
 
-Function; meetings.—The Secretary shall consult with the Committee about safety and security improvements on the Northeast Corridor main line. The Committee shall meet at least two times per year to consider safety and security matters on the main line and meet annually with the Commission on the topic of Northeast Corridor safety and security.
+Sunset.—The Committee established under this subsection ceases to exist on the date that the Secretary determines positive train control, as required by section 20157, is fully implemented along the Northeast Corridor.
 
-&emsp;(3)
-
-Report.—At the beginning of the first session of each Congress, the Secretary shall submit a report to the Commission and to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of efforts to improve safety and security on the Northeast Corridor main line. The report shall include the safety and security recommendations of the Committee and the comments of the Secretary on those recommendations.
-
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 935; Pub. L. 110–432, div. B, title II, §212(a), Oct. 16, 2008, 122 Stat. 4921; Pub. L. 114–94, div. A, titleXI, §11305(a)–(d)(1), Dec. 4, 2015, 129 Stat. 1656, 1657.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 935; Pub. L. 110–432, div. B, title II, §212(a), Oct. 16, 2008, 122 Stat. 4921; Pub. L. 114–94, div. A, title XI, §11305(a)–(d)(1), Dec. 4, 2015, 129 Stat. 1656,1657; Pub. L. 115–420, §§4(a), 6(a), Jan. 3, 2019, 132 Stat. 5444, 5445.)
 
 Historical and Revision Notes
 
@@ -198,6 +194,10 @@ Section 11101(g) of the Passenger Rail Reform and Investment Act of 2015, referr
 
 #### Amendments
 
+<b>2019</b>—Subsec. (e)(2). Pub. L. 115–420, §6(a), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Secretary shall consult with the Committee about safety and security improvements on the Northeast Corridor main line. The Committee shall meet at least two times per year to consider safety and security matters on the main line and meet annually with the Commission on the topic of Northeast Corridor safety and security."
+
+Subsec. (e)(3). Pub. L. 115–420, §4(a), struck out par. (3). Text read as follows: "At the beginning of the first session of each Congress, the Secretary shall submit a report to the Commission and to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of efforts to improve safety and security on the Northeast Corridor main line. The report shall include the safety and security recommendations of the Committee and the comments of the Secretary on those recommendations."
+
 <b>2015</b>—Pub. L. 114–94, §11305(d)(1)(A), struck out "Infrastructure and Operations Advisory" after "Corridor" in section catchline.
 
 Subsec. (a). Pub. L. 114–94, §11305(d)(1)(B)(i), struck out "Infrastructure and Operations Advisory" after "Corridor" in heading.
@@ -238,7 +238,7 @@ Subsec. (c)(4). Pub. L. 114–94, §11305(c)(5), added par. (4).
 
 Subsec. (d). Pub. L. 114–94, §11305(d)(1)(E), substituted "to the Secretary for the use of the Commission and the Northeast Corridor Safety Committee" for "to the Commission" and "to carry out this section during fiscal years 2016 through 2020, in addition to any amounts withheld under section 11101(g) of the Passenger Rail Reform and Investment Act of 2015" for "for the period encompassing fiscal years 2009 through 2013 to carry out this section".
 
-Pub. L. 114–94, §11305(d)(1)(C), (D), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to transmission of statement of goals and recommendations.
+Pub. L. 114–94, §11305(d)(1)(C), (D), redesignated subsec. (e) as (d) and struck out former subsec. (d) whichrelated to transmission of statement of goals and recommendations.
 
 Subsec. (e). Pub. L. 114–94, §11305(d)(1)(D), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
@@ -250,5 +250,5 @@ Subsec. (f). Pub. L. 114–94, §11305(d)(1)(D), redesignated subsec. (f) as (e)
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 

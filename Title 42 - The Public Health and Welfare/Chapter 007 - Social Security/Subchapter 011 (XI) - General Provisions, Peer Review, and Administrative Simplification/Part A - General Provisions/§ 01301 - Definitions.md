@@ -28,11 +28,11 @@
 
 &emsp;&emsp;(A) two or more health care practitioners practice their professions at a common physical location;
 
-&emsp;&emsp;(B) such practitioners share (i) common waiting areas, examining rooms, treatmentrooms, or other space, (ii) the services of supporting staff, or (iii) equipment;
+&emsp;&emsp;(B) such practitioners share (i) common waiting areas, examining rooms, treatment rooms, or other space, (ii) the services of supporting staff, or (iii) equipment;
 
 &emsp;&emsp;(C) such practitioners have a person (who may himself be a practitioner)—
 
-&emsp;&emsp;&emsp;(i) who is in charge of, controls, manages, or supervises substantial aspects of the arrangement or operation for the delivery of health or medical services at such common physical location, other than the direct furnishing of professional health care services by the practitioners to their patients; or
+&emsp;&emsp;&emsp;(i) who is in charge of, controls, manages, or supervises substantial aspects of the arrangement or operation for the delivery of health or medical services at such common physical location, other than thedirect furnishing of professional health care services by the practitioners to their patients; or
 
 &emsp;&emsp;&emsp;(ii) who makes available to such practitioners the services of supporting staff who are not employees of such practitioners;
 
@@ -84,9 +84,9 @@ Subsec. (a)(8), (9). Pub. L. 98–369, §2663(e)(1), realigned margins of pars. 
 
 <b>1982</b>—Subsec. (a)(1). Pub. L. 97–248, §136(a), inserted "and American Samoa" after "includes the Northern Mariana Islands".
 
-Pub. L. 97–248, §160(c), substituted "Guam, and the Northern Mariana Islands" for "American Samoa, theNorthern Mariana Islands, and the Trust Territory of the Pacific Islands".
+Pub. L. 97–248, §160(c), substituted "Guam, and the Northern Mariana Islands" for "American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands".
 
-<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §§2162(a)(1), 2352(b), substituted "American Samoa, the Northern Mariana Islands, and" for "American Samoa and" and inserted provisions that "State" when used in subchapter XIX of this chapter also includes the Northern Mariana Islands and when used in subchapter XX of this chapter also includes the Virgin Islands, American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §§2162(a)(1), 2352(b), substituted "American Samoa, the Northern Mariana Islands, and" for "American Samoa and" and inserted provisions that "State" when used in subchapter XIX of this chapter also includes the Northern Mariana Islands and when used in subchapter XX of this chapter also includes the Virgin Islands, American Samoa, theNorthern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
 Subsec. (a)(9)(D). Pub. L. 97–35, §2193(c)(2), substituted "subchapters XVIII, and XIX" for "subchapters V, XVIII, and XIX".
 
@@ -176,7 +176,7 @@ Hold Harmless Provision.—Notwithstanding subsection (b), for calendar quarters
 
 \[Pub. L. 99–509, title IX, §9102, Oct. 21, 1986, 100 Stat. 1972, provided that the amendment made by that section \[amending section 9528(c) of Pub. L. 99–272, set out above\] is effective as provided in section 9421(b) of Pub. L. 99–509. See below.\]
 
-\[Pub. L. 99–509, title IX, §9421(b), Oct. 21, 1986, 100 Stat. 2065, provided that: "The amendment made by subsection (a) \[enacting section 9528(c) of Pub. L. 99–272, set out above\] shall be effective as though it hadbeen included in the Consolidated Omnibus Budget Reconciliation Act of 1985 \[Pub. L. 99–272\] at the time of its enactment."\]
+\[Pub. L. 99–509, title IX, §9421(b), Oct. 21, 1986, 100 Stat. 2065, provided that: "The amendment made by subsection (a) \[enacting section 9528(c) of Pub. L. 99–272, set out above\] shall be effective as though it had been included in the Consolidated Omnibus Budget Reconciliation Act of 1985 \[Pub. L. 99–272\] at the time of its enactment."\]
 
 #### Effective Date of 1984 Amendment
 
@@ -254,7 +254,7 @@ Provisions of the Internal Revenue Code of 1939 were generally repealed by secti
 
 #### Transfer of Functions
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and Office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfareand all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and Office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Termination of Trust Territory of the Pacific Islands
 

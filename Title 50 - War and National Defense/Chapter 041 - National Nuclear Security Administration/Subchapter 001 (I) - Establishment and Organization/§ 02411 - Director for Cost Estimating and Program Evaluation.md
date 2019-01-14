@@ -96,9 +96,39 @@ In this section:
 
 &emsp;The term "performance baseline", with respect to a major atomic energy defense acquisition program, means the key parameters with respect to performance, scope, cost, and schedule for the project budget of the program.
 
-(Pub. L. 106–65, div. C, title XXXII, §3221, as added Pub. L. 113–66, div. C, title XXXI, §3112(a)(1), Dec. 26, 2013, 127 Stat. 1050; amended Pub. L. 113–291, div. C, title XXXI, §3117, Dec. 19, 2014, 128 Stat. 3889.)
+(Pub. L. 106–65, div. C, title XXXII, §3221, as added Pub. L. 113–66, div. C, title XXXI, §3112(a)(1), Dec. 26, 2013, 127 Stat. 1050; amended Pub. L. 113–291, div. C, title XXXI, §3117, Dec. 19, 2014, 128 Stat. 3889; Pub. L. 115–232, div. C, title XXXI, §3113(a), Aug. 13, 2018, 132 Stat. 2290.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–232, div. C, title XXXI, §3113(a), (b), Aug. 13, 2018, 132 Stat. 2290, provided that, effective 18 months after Aug. 13, 2018, this section is amended as follows:</i>
+
+<i>(1) by redesignating subsection (h) as subsection (i);</i>
+
+<i>(2) by inserting after subsection (g) the following new subsection:</i>
+
+#### <i>"(h) Rule of Construction</i>
+
+<i>"Nothing in this section shall be construed to require duplicate reviews or cost estimates for major atomic energy defense acquisition programs by the Administration or other elements of the Department of Energy."; and</i>
+
+<i>(3) in subsection (i)(2), as redesignated—</i>
+
+<i>(A) by striking the subpar. (A) designation and heading and "Except as provided in subparagraph (B), the term" and inserting "The term";</i>
+
+<i>(B) by striking subparagraph (B); and</i>
+
+<i>(C) by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and realigning the margins.</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 #### Amendments
 
+<b>2018</b>—Subsecs. (h), (i). Pub. L. 115–232, §3113(a)(1), (2), added subsec. (h) and redesignated former subsec. (h) as (i).
+
+Subsec. (i)(2). Pub. L. 115–232, §3113(a)(3), struck out subpar. (A) designation and heading "In general", substituted "The term" for "Except as provided in subparagraph (B), the term", redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, realigned margins, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "The term 'major atomic energy defense acquisition program' does not include a project covered by Department of Energy Order 413.3 (or a successor order) for the acquisition of capital assets for atomic energy defense activities."
+
 <b>2014</b>—Subsec. (h)(1) to (3). Pub. L. 113–291 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–232, div. C, title XXXI, §3113(b), Aug. 13, 2018, 132 Stat. 2290, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is 18 months after the date of the enactment of this Act \[Aug. 13, 2018\]."
 

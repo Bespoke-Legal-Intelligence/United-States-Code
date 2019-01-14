@@ -36,7 +36,7 @@ Pub. L. 113–291, §312, which directed amendment of section "103A" of the Sike
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–291, §312(a), designated existing provisions as par. (1) and added pars. (2) and (3). See Codification note above.
 
-Subsec. (c). Pub. L. 113–291, §312(b), amended subsec. (c) generally. See Codification note above. Prior to amendment, text read as follows: "Cooperative agreements and interagency agreements entered into under this section shall be subject to the availability of fundsand shall not be considered, nor be treated as, cooperative agreements to which chapter 63 of title 31 applies."
+Subsec. (c). Pub. L. 113–291, §312(b), amended subsec. (c) generally. See Codification note above. Prior to amendment, text read as follows: "Cooperative agreements and interagency agreements entered into under this section shall be subject to the availability of funds and shall not be considered, nor be treated as, cooperative agreements to which chapter 63 of title 31 applies."
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, which directed amendment of section 103A of Pub. L. 86–797 by inserting "Indian tribes," after "local governments," in introductory provisions of subsec. (a), was executed to this section, which is section 103a of Pub. L. 86–797, to reflect the probable intent of Congress.
 

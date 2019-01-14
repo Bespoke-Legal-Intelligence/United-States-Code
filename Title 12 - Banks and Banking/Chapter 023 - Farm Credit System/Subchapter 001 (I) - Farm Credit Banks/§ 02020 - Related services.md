@@ -32,7 +32,7 @@ A prior section 2020, Pub. L. 92–181, title I, §1.12, Dec. 10, 1971, 85 Stat.
 
 Subsec. (b)(4). Pub. L. 107–171, §5403(a)(2)(A)(ii)–(iv), added par. (4).
 
-<b>1996</b>—Pub. L. 104–105, §215(a)(2)(C), which directed amendment of "section 1.12(b)", without specifying the name of the Act being amended, was executed to this section, which is section 112 of the Farm Credit Act of 1971, to reflect the probable intent of Congress.
+<b>1996</b>—Pub. L. 104–105, §215(a)(2)(C), which directed amendment of "section 1.12(b)", without specifying thename of the Act being amended, was executed to this section, which is section 112 of the Farm Credit Act of 1971, to reflect the probable intent of Congress.
 
 Subsec. (b)(1). Pub. L. 104–105, §215(a)(2)(C)(i), inserted "(as defined in section 2277a–4(a)(3) of this title)" after "government-guaranteed loans".
 

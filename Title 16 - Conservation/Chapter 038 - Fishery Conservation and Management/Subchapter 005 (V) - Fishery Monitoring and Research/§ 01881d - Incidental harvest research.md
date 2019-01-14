@@ -30,7 +30,7 @@ Not later than 12 months after October 11, 1996, the Secretary shall, in coopera
 
 #### (e) Report to Congress
 
-The Secretary shall, within one year of completing the programs required by this section, submit a detailed report on the results of such programs to the Committee on Commerce,Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.
+The Secretary shall, within one year of completing the programs required by this section, submit a detailed report on the results of such programs to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.
 
 #### (f) Implementation criteria
 

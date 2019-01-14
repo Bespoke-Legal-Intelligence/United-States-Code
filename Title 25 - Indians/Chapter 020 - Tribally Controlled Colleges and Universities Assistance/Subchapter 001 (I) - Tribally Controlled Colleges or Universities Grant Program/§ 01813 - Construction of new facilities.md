@@ -14,7 +14,7 @@ In order to be eligible for a grant under this section, a tribally controlled co
 
 #### (c) Maximum amount of grant; waiver of restriction
 
-(1) Except as provided in paragraph (2), grants for construction under this section shall not exceed 80 per centum of the cost of such construction, except that no tribally controlled college or university shall be required to expend more than $400,000 in fulfillment of the remaining 20per centum. For the purpose of providing its required portion of the cost of such construction, a tribally controlled college or university may use funds provided under section 13 of this title.
+(1) Except as provided in paragraph (2), grants for construction under this section shall not exceed 80 per centum of the cost of such construction, except that no tribally controlled college or university shall be required to expend more than $400,000 in fulfillment of the remaining 20 per centum. For the purpose of providing its required portion of the cost of such construction, a tribally controlled college or university may use funds provided under section 13 of this title.
 
 (2) The Secretary may waive, in whole or in part, the requirements of paragraph (1) in the case of any tribally controlled college or university which demonstrates that neither such college or university nor the tribal government with which it is affiliated have sufficient resources to comply with such requirements. The Secretary shall base a decision on whether to grant such a waiver solely on the basis of the following factors: (A) tribal population; (B) potential student population; (C) the rate of unemployment among tribal members; (D) tribal financial resources; and (E) other factors alleged by the college or university to have a bearing on the availability of resources for compliance with the requirements of paragraph (1) and which may include the educational attainment of tribal members.
 
@@ -26,7 +26,7 @@ If, within twenty years after completion of construction of a facility which has
 
 &emsp;(2) the tribe with which the applicant is affiliated fails to use the facility for a public purpose approved by the tribal government in furtherance of the general welfare of the community served by the tribal government,
 
-> title to the facility shall vest in the United States and the applicant (or such tribe if such tribe is the successor in title to the facility) shall be entitled to recover from the United States an amount which bears the same ratio to the present value of the facility as the amount of the applicant's contribution (excluding any funds provided under section 13 of this title) bore to the original cost of the facility. Such value shall be determined by agreement of the parties or by action brought in the United States district court for the district in which such facility is located.
+> title to the facility shall vest in the United States and the applicant (or such tribe if such tribe is the successor in title to the facility)shall be entitled to recover from the United States an amount which bears the same ratio to the present value of the facility as the amount of the applicant's contribution (excluding any funds provided under section 13 of this title) bore to the original cost of the facility. Such value shall be determined by agreement of the parties or by action brought in the United States district court for the district in which such facility is located.
 
 #### (e) Religious use
 

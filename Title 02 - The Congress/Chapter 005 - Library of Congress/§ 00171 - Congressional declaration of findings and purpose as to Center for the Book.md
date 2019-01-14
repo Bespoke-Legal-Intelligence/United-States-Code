@@ -16,7 +16,7 @@ The Congress hereby finds and declares—
 
 &emsp;(7) that in the year 1977, the Congress of the United States assembled hereby declares its reaffirmation of the importance of the printed word and the book and recognizes the importance of a Center for the Book to the continued study and development of written record as central to our understanding of ourselves and our world.
 
-> It is therefore the purpose of sections 171 to 175 of this title to establish a Center for the Book in the Library of Congress to provide a program for the investigation of the transmission of humanknowledge and to heighten public interest in the role of books and printing in the diffusion of this knowledge.
+> It is therefore the purpose of sections 171 to 175 of this title to establish a Center for the Book in the Library of Congress to provide a program for the investigation of the transmission of human knowledge and to heighten public interest in the role of books and printing in the diffusion of this knowledge.
 
 (Pub. L. 95–129, §1, Oct. 13, 1977, 91 Stat. 1151.)
 

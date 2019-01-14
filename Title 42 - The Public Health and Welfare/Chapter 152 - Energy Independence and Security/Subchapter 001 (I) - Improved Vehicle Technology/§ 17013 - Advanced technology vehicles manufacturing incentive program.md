@@ -102,7 +102,7 @@ An award under subsection (b) shall apply to—
 
 &emsp;&emsp;(B) shall have a term equal to the lesser of—
 
-&emsp;&emsp;&emsp;(i) the projected life, in years, of the eligible project to be carried out using funds from the loan, as determined by the Secretary; and <sup>1</sup>
+&emsp;&emsp;&emsp;(i) the projected life, in years, of the eligible project to be carried out using fundsfrom the loan, as determined by the Secretary; and <sup>1</sup>
 
 &emsp;&emsp;&emsp;(ii) 25 years;
 

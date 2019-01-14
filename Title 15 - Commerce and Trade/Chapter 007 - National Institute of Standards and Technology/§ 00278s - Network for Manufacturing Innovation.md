@@ -158,7 +158,7 @@
 
 &emsp;&emsp;&emsp;(vii) How the center for manufacturing innovation will advance economic competitiveness and generate substantial benefits to the Nation that extend beyond the direct return to participants in the Program.
 
-&emsp;&emsp;&emsp;(viii) Whether the predominant focus of the center for manufacturing innovation is a manufacturing process, novel material, enabling technology, supply chain integration methodology, or other relevant aspect of advanced manufacturing that has not already been commercialized, marketed, distributed, or sold by another entity.
+&emsp;&emsp;&emsp;(viii) Whether the predominant focus of the center for manufacturing innovation isa manufacturing process, novel material, enabling technology, supply chain integration methodology, or other relevant aspect of advanced manufacturing that has not already been commercialized, marketed, distributed, or sold by another entity.
 
 &emsp;&emsp;&emsp;(ix) How the center for manufacturing innovation will strengthen and leverage the assets of a region.
 
@@ -280,7 +280,7 @@
 
 #### (A) Assessments
 
-&emsp;&emsp;Not less frequently than once every 2 years, the Comptroller General shall submitto Congress an assessment of the operation of the Program during the most recent 2-year period.
+&emsp;&emsp;Not less frequently than once every 2 years, the Comptroller General shall submit to Congress an assessment of the operation of the Program during the most recent 2-year period.
 
 #### (B) Final assessment
 
@@ -318,7 +318,7 @@
 
 #### (5) Acceptance of resources
 
-&emsp;In addition to amounts appropriated to carry out the Program, the Secretary may accept funds, services, equipment, personnel, and facilities from any covered entity to carry out the Program, subject to the same conditions and constraints otherwise applicable to the Secretary under this section and such funds may only be obligated to the extent provided for in advance by appropriations Acts.
+&emsp;In addition to amounts appropriated to carry out the Program, the Secretary may accept funds, services, equipment, personnel, and facilities from any covered entity to carry out the Program, subject to the same conditionsand constraints otherwise applicable to the Secretary under this section and such funds may only be obligated to the extent provided for in advance by appropriations Acts.
 
 #### (6) Covered entity
 

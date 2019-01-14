@@ -10,7 +10,7 @@ A prior section 1070d–41, Pub. L. 89–329, title IV, §419K, as added Pub. L.
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–315 substituted "such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years" for "$45,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years".
+<b>2008</b>—Pub. L. 110–315 substituted "such sums as may be necessary for fiscal year 2009 and each of the fivesucceeding fiscal years" for "$45,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years".
 
 <b>1998</b>—Pub. L. 105–244 substituted "$45,000,000 for fiscal year 1999" for "$10,000,000 for fiscal year 1993".
 

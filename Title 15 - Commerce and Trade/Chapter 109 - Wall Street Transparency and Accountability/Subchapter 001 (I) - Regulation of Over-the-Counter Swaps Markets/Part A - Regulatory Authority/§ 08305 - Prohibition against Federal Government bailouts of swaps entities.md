@@ -44,7 +44,7 @@ The term "covered depository institution" means—
 
 #### (c) Affiliates of covered depository institutions
 
-The prohibition on Federal assistance contained in subsection (a) does not apply to andshall not prevent a covered depository institution from having or establishing an affiliate which is a swaps entity, as long as such covered depository institution is part of a bank holding company, savings and loan holding company, or foreign banking organization (as such term is defined under Regulation K of the Board of Governors of the Federal Reserve System (12 CFR 211.21(o))), that is supervised by the Federal Reserve and such swaps entity affiliate complies with sections 371c and 371c–1 of title 12 and such other requirements as the Commodity Futures Trading Commission or the Securities Exchange Commission, as appropriate, and the Board of Governors of the Federal Reserve System, may determine to be necessary and appropriate.
+The prohibition on Federal assistance contained in subsection (a) does not apply to and shall not prevent a covered depository institution from having or establishing an affiliate which is a swaps entity, as long as such covered depository institution is part of a bank holding company, savings and loan holding company, or foreign banking organization (as such term is defined under Regulation K of the Board of Governors of the Federal Reserve System (12 CFR 211.21(o))), that is supervised by the Federal Reserve and such swaps entity affiliate complies with sections 371c and 371c–1 of title 12 and such other requirements as the Commodity Futures Trading Commission or the Securities Exchange Commission, as appropriate, and the Board of Governors of the Federal Reserve System, may determine to be necessary and appropriate.
 
 #### (d) Only bona fide hedging and traditional bank activities permitted
 
@@ -102,7 +102,7 @@ The prohibition in subsection (a) shall be effective 2 years following the date 
 
 #### (A) FDIC insured institutions
 
-&emsp;&emsp;All swaps entities that are FDIC insured institutions that are put into receivership or declared insolvent as a result of swap or security-based swap activity of the swaps entities shall be subject to the termination or transfer of that swap or security-based swap activity in accordance with applicable law prescribing the treatment of those contracts. No taxpayer funds shall be used to prevent the receivership of any swap entity resulting from swap or security-based swap activity of the swaps entity.
+&emsp;&emsp;All swaps entities that are FDIC insured institutions that are put into receivership ordeclared insolvent as a result of swap or security-based swap activity of the swaps entities shall be subject to the termination or transfer of that swap or security-based swap activity in accordance with applicable law prescribing the treatment of those contracts. No taxpayer funds shall be used to prevent the receivership of any swap entity resulting from swap or security-based swap activity of the swaps entity.
 
 #### (B) Institutions that pose a systemic risk and are subject to heightened prudential supervision as regulated under section 5323 of title 12
 
@@ -158,7 +158,7 @@ The Federal Deposit Insurance Act, referred to in subsec. (g), is act Sept. 21, 
 
 Title II, referred to in subsec. (g), is title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to subchapter II (§5381 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of title II to the Code, see Tables.
 
-For the date on which this Act is effective, referred to in subsec. (h), see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking, and section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of Title 7, Agriculture.
+For the date on which this Act is effective, referred to in subsec. (h), see section 4 of Pub. L. 111–203, set outas an Effective Date note under section 5301 of Title 12, Banks and Banking, and section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of Title 7, Agriculture.
 
 This title, referred to in subsec. (i)(3), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, known as the Wall Street Transparency and Accountability Act of 2010, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of title VII to the Code, see Short Title note set out under section 8301 of this title and Tables.
 

@@ -28,7 +28,7 @@ For purposes of this part—
 
 #### (C) Special rule for retirees and widows
 
-&emsp;&emsp;In the case of a qualifying event described in section 1163(6) of this title, the term"qualified beneficiary" includes a covered employee who had retired on or before the date of substantial elimination of coverage and any other individual who, on the day before such qualifying event, is a beneficiary under the plan—
+&emsp;&emsp;In the case of a qualifying event described in section 1163(6) of this title, the term "qualified beneficiary" includes a covered employee who had retired on or before the date of substantial elimination of coverage and any other individual who, on the day before such qualifying event, is a beneficiary under the plan—
 
 &emsp;&emsp;&emsp;(i) as the spouse of the covered employee,
 
@@ -52,7 +52,7 @@ For purposes of this part—
 
 #### Amendments
 
-<b>2016</b>—Par. (1). Pub. L. 114–255 inserted at end "Such term shall not include any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of title 26)."
+<b>2016</b>—Par. (1). Pub. L. 114–255 inserted at end "Such term shall not include any qualified small employerhealth reimbursement arrangement (as defined in section 9831(d)(2) of title 26)."
 
 <b>1996</b>—Par. (1). Pub. L. 104–191, §321(d)(2), inserted at end "Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c) of title 26)."
 

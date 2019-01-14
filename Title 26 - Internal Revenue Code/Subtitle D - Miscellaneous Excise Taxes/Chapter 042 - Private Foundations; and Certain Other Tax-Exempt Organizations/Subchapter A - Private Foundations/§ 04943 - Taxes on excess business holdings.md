@@ -260,7 +260,61 @@ For purposes of this section—
 
 &emsp;&emsp;(B) "January 1, 2007" shall be substituted for "January 1, 1971" in paragraph (4)(E).
 
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 507; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–596, §2(a)(1)(D), (2)(C), (3)(C), (4)(B), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 98–369, div. A, title III, §§307(a), 308(a), 309(a), 310(a), 314(c)(1), July 18, 1984, 98 Stat. 784, 785, 787; Pub. L. 109–280, title XII, §§1212(c), 1233(a), 1243(a), Aug. 17, 2006, 120 Stat. 1074, 1099, 1105; Pub. L. 113–295, div. A, title II, §220(r), Dec. 19, 2014, 128 Stat. 4036.)
+#### (g) Exception for certain holdings limited to independently-operated philanthropic business
+
+#### (1) In general
+
+&emsp;Subsection (a) shall not apply with respect to the holdings of a private foundation in any business enterprise which meets the requirements of paragraphs (2), (3), and (4) for the taxable year.
+
+#### (2) Ownership
+
+&emsp;The requirements of this paragraph are met if—
+
+&emsp;&emsp;(A) 100 percent of the voting stock in the business enterprise is held by the private foundation at all times during the taxable year, and
+
+&emsp;&emsp;(B) all the private foundation's ownership interests in the business enterprise were acquired by means other than by purchase.
+
+#### (3) All profits to charity
+
+#### (A) In general
+
+&emsp;&emsp;The requirements of this paragraph are met if the business enterprise, not later than 120 days after the close of the taxable year, distributes an amount equal to its net operating income for such taxable year to the private foundation.
+
+#### (B) Net operating income
+
+&emsp;&emsp;For purposes of this paragraph, the net operating income of any business enterprise for any taxable year is an amount equal to the gross income of the business enterprise for the taxable year, reduced by the sum of—
+
+&emsp;&emsp;&emsp;(i) the deductions allowed by chapter 1 for the taxable year which are directly connected with the production of such income,
+
+&emsp;&emsp;&emsp;(ii) the tax imposed by chapter 1 on the business enterprise for the taxable year, and
+
+&emsp;&emsp;&emsp;(iii) an amount for a reasonable reserve for working capital and other business needs of the business enterprise.
+
+#### (4) Independent operation
+
+&emsp;The requirements of this paragraph are met if, at all times during the taxable year—
+
+&emsp;&emsp;(A) no substantial contributor (as defined in section 4958(c)(3)(C)) to the private foundation or family member (as determined under section 4958(f)(4)) of such a contributor is a director, officer, trustee, manager, employee, or contractor of the business enterprise (or an individual having powers or responsibilities similar to any of the foregoing),
+
+&emsp;&emsp;(B) at least a majority of the board of directors of the private foundation are persons who are not—
+
+&emsp;&emsp;&emsp;(i) directors or officers of the business enterprise, or
+
+&emsp;&emsp;&emsp;(ii) family members (as so determined) of a substantial contributor (as so defined) to the private foundation, and
+
+&emsp;&emsp;(C) there is no loan outstanding from the business enterprise to a substantial contributor (as so defined) to the private foundation or to any family member of such a contributor (as so determined).
+
+#### (5) Certain deemed private foundations excluded
+
+&emsp;This subsection shall not apply to—
+
+&emsp;&emsp;(A) any fund or organization treated as a private foundation for purposes of this section by reason of subsection (e) or (f),
+
+&emsp;&emsp;(B) any trust described in section 4947(a)(1) (relating to charitable trusts), and
+
+&emsp;&emsp;(C) any trust described in section 4947(a)(2) (relating to split-interest trusts).
+
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 507; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–596, §2(a)(1)(D), (2)(C), (3)(C), (4)(B), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 98–369, div. A, title III, §§307(a), 308(a), 309(a), 310(a), 314(c)(1), July 18, 1984, 98 Stat. 784, 785, 787; Pub. L. 109–280, title XII, §§1212(c), 1233(a), 1243(a), Aug. 17, 2006, 120 Stat. 1074, 1099, 1105; Pub. L. 113–295, div. A, title II, §220(r), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–123, div. D, title II, §41110(a), Feb. 9, 2018, 132 Stat. 159.)
 
 #### References in Text
 
@@ -271,6 +325,8 @@ The date of enactment of this subsection, referred to in subsecs. (e)(3)(A) and 
 Sections 1212(c), 1233(a), and 1243(a) of Pub. L. 109–280, which directed the amendment of section 4943 without specifying the act to be amended, were executed to this section, which is section 4943 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (g). Pub. L. 115–123 added subsec. (g).
 
 <b>2014</b>—Subsecs. (e)(3)(B), (f)(7)(B). Pub. L. 113–295 substituted "January 1, 1971" for "January 1, 1970".
 
@@ -298,6 +354,10 @@ Subsec. (d)(3), (4). Pub. L. 96–596, §2(a)(3)(C), (4)(B), redesignated par. (
 
 <b>1976</b>—Subsecs. (c), (d). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–123, div. D, title II, §41110(b), Feb. 9, 2018, 132 Stat. 160, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
+
 #### Effective Date of 2006 Amendment
 
 Amendment by section 1212(c) of Pub. L. 109–280 applicable to taxable years beginning after Aug. 17, 2006, see section 1212(f) of Pub. L. 109–280, set out as a note under section 4941 of this title.
@@ -322,7 +382,7 @@ Pub. L. 98–369, div. A, title III, §308(b), July 18, 1984, 98 Stat. 785, prov
 
 Pub. L. 98–369, div. A, title III, §309(b), July 18, 1984, 98 Stat. 785, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendment made by section 101(b) of the Tax Reform Act of 1969 \[section 101(b) of Pub. L. 91–172 which enacted this section\]."
 
-Pub. L. 98–369, div. A, title III, §310(b), July 18, 1984, 98 Stat. 786, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to acquisitions after the date of the enactment of this Act \[July 18, 1984\]."
+Pub. L. 98–369, div. A, title III, §310(b), July 18, 1984, 98 Stat. 786, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply toacquisitions after the date of the enactment of this Act \[July 18, 1984\]."
 
 Pub. L. 98–369, div. A, title III, §314(c)(2), July 18, 1984, 98 Stat. 788, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\]."
 

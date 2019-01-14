@@ -72,9 +72,7 @@ Crediting of funds.—Funds received by the Secretary of Defense under subsectio
 
 Use of funds.—Funds deposited in the Defense Cooperation Space Launch Account under paragraph (2) are authorized to be appropriated and shall be available for obligation only to the extent provided in advance in an appropriation Act for costs incurred by the Department of Defense in carrying out subsection (b). Funds in the Account shall remain available until expended.
 
-(e)
-
-Annual Report.—Not later than January 31 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the funds, services, and equipment accepted and used by the Secretary under this section during the preceding fiscal year.
+\[(e) Repealed. Pub. L. 115–232, div. A, title VIII, §813(a)(2), Aug. 13, 2018, 132 Stat. 1851.\]
 
 (f)
 
@@ -104,13 +102,13 @@ Space recovery support facilities.—The term "space recovery support facilities
 
 Space transportation infrastructure.—The term "space transportation infrastructure" has the meaning given that term in section 50501(12) of title 51.
 
-(Added Pub. L. 112–239, div. A, title IX, §912(a), Jan. 2, 2013, 126 Stat. 1872.)
+(Added Pub. L. 112–239, div. A, title IX, §912(a), Jan. 2, 2013, 126 Stat. 1872; amended Pub. L. 115–232, div. A, title VIII, §813(a)(2), Aug. 13, 2018, 132 Stat. 1851.)
 
 #### Prior Provisions
 
 A prior section 2276, acts Aug. 10, 1956, ch. 1041, 70A Stat. 126; Sept. 7, 1962, Pub. L. 87–651, title I, §131, 76 Stat. 514, which related to inspection and audit of plants and books of contractors and provided criminal penalties for violations, was repealed by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
-#### Termination of Reporting Requirements
+#### Amendments
 
-For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+<b>2018</b>—Subsec. (e). Pub. L. 115–232 struck out subsec. (e). Text read as follows: "Not later than January 31 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the funds, services, and equipment accepted and used by the Secretary under this section during the preceding fiscal year."
 

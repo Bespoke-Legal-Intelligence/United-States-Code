@@ -38,7 +38,7 @@
 
 #### (C) Classified annex
 
-&emsp;&emsp;A report under subparagraph (A) shall be transmitted in unclassified form, but shall include a classified annex prepared in consultation with the Director of National Intelligence, summarizing relevant classified information.
+&emsp;&emsp;A report under subparagraph (A) shall be transmitted in unclassified form, but shallinclude a classified annex prepared in consultation with the Director of National Intelligence, summarizing relevant classified information.
 
 #### (3) Exception
 
@@ -102,13 +102,13 @@
 
 #### (2) In general
 
-&emsp;Notwithstanding any other provision of law, action involving any measure of statutory sanctions relief by the United States pursuant to an agreement subject to subsection (a) or the Joint Plan of Action—
+&emsp;Notwithstanding any other provision of law, action involving any measure of statutorysanctions relief by the United States pursuant to an agreement subject to subsection (a) or the Joint Plan of Action—
 
 &emsp;&emsp;(A) may be taken, consistent with existing statutory requirements for such action, if, during the period for review provided in subsection (b), there is enacted a joint resolution stating in substance that the Congress does favor the agreement;
 
 &emsp;&emsp;(B) may not be taken if, during the period for review provided in subsection (b), there is enacted a joint resolution stating in substance that the Congress does not favor the agreement; or
 
-&emsp;&emsp;(C) may be taken, consistent with existing statutory requirements for such action, if, following the period for review provided insubsection (b), there is not enacted any such joint resolution.
+&emsp;&emsp;(C) may be taken, consistent with existing statutory requirements for such action, if, following the period for review provided in subsection (b), there is not enacted any such joint resolution.
 
 #### (3) Definition
 
@@ -172,7 +172,7 @@
 
 #### (A) Agency reports
 
-&emsp;&emsp;Following submission of an agreement pursuant to subsection (a) to the appropriate congressional committees and leadership, the Department of State, the Department of Energy, and the Department of Defense shall, upon the request of any of those committees or leadership, promptly furnish to those committees or leadership their viewsas to whether the safeguards and other controls contained in the agreement with respect to Iran's nuclear program provide an adequate framework to ensure that Iran's activities permitted thereunder will not be inimical to or constitute an unreasonable risk to the common defense and security.
+&emsp;&emsp;Following submission of an agreement pursuant to subsection (a) to the appropriate congressional committees and leadership, the Department of State, the Department of Energy, and the Department of Defense shall, upon the request of any of those committees or leadership, promptly furnish to those committees or leadership their views as to whether the safeguards and other controls contained in the agreement with respect to Iran's nuclear program provide an adequate framework to ensure that Iran's activities permitted thereunder will not be inimical to or constitute an unreasonable risk to the common defense and security.
 
 #### (B) Provision of information on nuclear initiatives with Iran
 
@@ -242,7 +242,7 @@
 
 #### (A) Reporting and discharge
 
-&emsp;&emsp;If a committee of the House to which qualifying legislation has been referred hasnot reported such qualifying legislation within 10 legislative days after the date of referral, that committee shall be discharged from further consideration thereof.
+&emsp;&emsp;If a committee of the House to which qualifying legislation has been referred has not reported such qualifying legislation within 10 legislative days after the date of referral, that committee shall be discharged from further consideration thereof.
 
 #### (B) Proceeding to consideration
 
@@ -292,7 +292,7 @@
 
 &emsp;&emsp;&emsp;(ii) With respect to qualifying legislation of the House receiving the legislation—
 
-&emsp;&emsp;&emsp;&emsp;(I) the procedure in that House shall be the same as if no qualifying legislation had been received from the other House; but
+&emsp;&emsp;&emsp;&emsp;(I) the procedure in that House shall be the same as if no qualifying legislationhad been received from the other House; but
 
 &emsp;&emsp;&emsp;&emsp;(II) the vote on passage shall be on the qualifying legislation of the other House.
 
@@ -358,7 +358,7 @@ In this section:
 
 #### (7) Material breach
 
-&emsp;The term "material breach" means, with respect to an agreement described in subsection (a), any breach of the agreement, or in the case of non-binding commitments, any failure to perform those commitments, that substantially—
+&emsp;The term "material breach" means, with respect to an agreement described in subsection (a), any breach of the agreement, or in thecase of non-binding commitments, any failure to perform those commitments, that substantially—
 
 &emsp;&emsp;(A) benefits Iran's nuclear program;
 

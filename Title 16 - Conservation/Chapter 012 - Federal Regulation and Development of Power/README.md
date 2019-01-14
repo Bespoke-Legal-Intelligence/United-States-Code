@@ -45,6 +45,9 @@
 | [823b.](Subchapter%20001%20%28I%29%20-%20Regulation%20of%20the%20Development%20of%20Water%20Power%20and%20Resources/%C2%A7%2000823b%20-%20Enforcement.md) | Enforcement. |
 | [823c.](Subchapter%20001%20%28I%29%20-%20Regulation%20of%20the%20Development%20of%20Water%20Power%20and%20Resources/%C2%A7%2000823c%20-%20Alaska%20State%20jurisdiction%20over%20small%20hydroelectric%20projects.md) | Alaska State jurisdiction over small hydroelectric projects. |
 | [823d.](Subchapter%20001%20%28I%29%20-%20Regulation%20of%20the%20Development%20of%20Water%20Power%20and%20Resources/%C2%A7%2000823d%20-%20Alternative%20conditions%20and%20prescriptions.md) | Alternative conditions and prescriptions. |
+| [823e.](Subchapter%20001%20%28I%29%20-%20Regulation%20of%20the%20Development%20of%20Water%20Power%20and%20Resources/%C2%A7%2000823e%20-%20Promoting%20hydropower%20development%20at%20existing%20nonpowered%20dams.md) | Promoting hydropower development at existing nonpowered dams. |
+| [823f.](Subchapter%20001%20%28I%29%20-%20Regulation%20of%20the%20Development%20of%20Water%20Power%20and%20Resources/%C2%A7%2000823f%20-%20Closed-loop%20pumped%20storage%20projects.md) | Closed-loop pumped storage projects. |
+| [823g.](Subchapter%20001%20%28I%29%20-%20Regulation%20of%20the%20Development%20of%20Water%20Power%20and%20Resources/%C2%A7%2000823g%20-%20Considerations%20for%20relicensing%20terms.md) | Considerations for relicensing terms. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

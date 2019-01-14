@@ -26,7 +26,7 @@ Amount of Obligation.—The total principal amount of an obligation guaranteed u
 
 &emsp;(1) the actual cost or depreciated actual cost of the facility or plantship; or
 
-&emsp;(2) if the facility or plantship is supported with appropriated Federal funds, the total principal amount of that portion of the actual cost or depreciated actual cost for which the obligor is obligated to secure financing under the agreement between the obligor and the Department of Energy or other Federal agency.
+&emsp;(2) if the facility or plantship is supported with appropriated Federal funds, the total principal amount of that portion of the actualcost or depreciated actual cost for which the obligor is obligated to secure financing under the agreement between the obligor and the Department of Energy or other Federal agency.
 
 (f)
 

@@ -16,7 +16,7 @@
 - [Part H&#8211;1 - Stephanie Tubbs Jones Gift of Life Medal](Part%20H%E2%80%931%20-%20Stephanie%20Tubbs%20Jones%20Gift%20of%20Life%20Medal/README.md)
 - [Part I - C.W. Bill Young Cell Transplantation Program](Part%20I%20-%20C.W.%20Bill%20Young%20Cell%20Transplantation%20Program/README.md)
 - [Part J - Prevention and Control of Injuries](Part%20J%20-%20Prevention%20and%20Control%20of%20Injuries/README.md)
-- [Part K - Health Care Services in the Home](Part%20K%20-%20Health%20Care%20Services%20in%20the%20Home/README.md)
+- [Part K - Health Care Services in the Home and Public Health Programs for Dementia](Part%20K%20-%20Health%20Care%20Services%20in%20the%20Home%20and%20Public%20Health%20Programs%20for%20Dementia/README.md)
 - [Part L - \[Repealed](Part%20L%20-%20%5BRepealed/README.md)
 - [Part M - National Program of Cancer Registries](Part%20M%20-%20National%20Program%20of%20Cancer%20Registries/README.md)
 - [Part N - National Foundation for the Centers for Disease Control and Prevention](Part%20N%20-%20National%20Foundation%20for%20the%20Centers%20for%20Disease%20Control%20and%20Prevention/README.md)

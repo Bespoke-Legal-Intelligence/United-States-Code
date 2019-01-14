@@ -16,11 +16,11 @@
 
 #### (3) Collateral
 
-&emsp;A Bank, at the time of origination or renewal of a loan or advance, shall obtain andmaintain a security interest in collateral eligible pursuant to one or more of the following categories:
+&emsp;A Bank, at the time of origination or renewal of a loan or advance, shall obtain and maintain a security interest in collateral eligible pursuant to one or more of the following categories:
 
 &emsp;&emsp;(A) Fully disbursed, whole first mortgages on improved residential property (not more than 90 days delinquent), or securities representing a whole interest in such mortgages.
 
-&emsp;&emsp;(B) Securities issued, insured, or guaranteed by the United States Government or any agency thereof (including without limitation, mortgage-backed securities issued or guaranteed by the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Corporation, and the Government National Mortgage Association).
+&emsp;&emsp;(B) Securities issued, insured, or guaranteed by the United States Government or any agency thereof (including without limitation, mortgage-backed securities issued or guaranteed by the Federal Home Loan Mortgage Corporation, the Federal NationalMortgage Corporation, and the Government National Mortgage Association).
 
 &emsp;&emsp;(C) Cash or deposits of a Federal Home Loan Bank.
 
@@ -74,7 +74,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Federal Home Loan Banks may, upon the request of the Director of the Office of Thrift Supervision, make short-term liquidity advances to a savings association that—
+&emsp;Subject to paragraph (2), the Federal Home Loan Banks may, upon the request of the Director of the Office of Thrift Supervision,make short-term liquidity advances to a savings association that—
 
 &emsp;&emsp;(A) is solvent but presents a supervisory concern because of such association's poor financial condition; and
 
@@ -146,7 +146,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (A) In general
 
-&emsp;&emsp;If a Bank finds that the payments required under this paragraph are contributing to the financial instability of such Bank, it may apply to the Director for a temporary suspension of such payments.
+&emsp;&emsp;If a Bank finds that the payments required under this paragraph are contributing to the financial instability of such Bank, it mayapply to the Director for a temporary suspension of such payments.
 
 #### (B) Financial instability
 
@@ -348,7 +348,7 @@ Pub. L. 100–86, §105, added subsec. (e) relating to reduced eligibility for a
 
 &emsp;"(2) If secured by a home mortgage given in respect of an amortized home mortgage loan which was for an original term of six years or more, or in cases where shares of stock, which are pledged as security for such loan, mature in a period of six years or more, the advance may be for an amount not in excess of 65 per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of the advance exceed 60 per centum of the value of the real estate securing the home mortgage loan.
 
-&emsp;"(3) If secured by a home mortgage given in respect of any other home mortgage loan, the advance shall not be for an amount in excess of 50 per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of such advance exceed 40per centum of the value of the real estate securing the home mortgage loan.
+&emsp;"(3) If secured by a home mortgage given in respect of any other home mortgage loan, the advance shall not be for an amount in excess of 50 per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of such advance exceed 40 per centum of the value of the real estate securing the home mortgage loan.
 
 &emsp;"(4) If secured by obligations of the United States, or obligations fully guaranteed by the United States, the advance shall not be for an amount in excess of the face value of such obligations."
 
@@ -356,7 +356,7 @@ Subsec. (b). Pub. L. 97–320, §352(2), struck out provisions relating to accep
 
 Subsec. (c). Pub. L. 97–320, §352(3), substituted "twenty" for "twelve" wherever appearing.
 
-<b>1977</b>—Subsec. (b). Pub. L. 95–128 substituted prohibition against acceptance of a home mortgage as collateral security for an advance by a Federal Home Loan Bank if, at the time the advance is made, the home mortgage exceeds a sum equal to the dollar limitation under the first proviso of the first sentence of section 1464(c) of this title for each home or other dwelling unit covered by such mortgage for prior prohibition where the home mortgage exceeded a sum equal to $55,000 (except that with respect to dwellings in Alaska, Guam, and Hawaii the foregoing limitation, might, by regulation of the Board, be increased by not to exceed 50 per centum) for each home or other dwelling unit covered by the mortgage.
+<b>1977</b>—Subsec. (b). Pub. L. 95–128 substituted prohibition against acceptance of a home mortgage as collateral security for an advance by a Federal Home Loan Bank if, at the time the advance is made, the home mortgage exceeds a sum equal to the dollar limitation under the first proviso of the first sentence of section 1464(c) of this title for each home or other dwelling unitcovered by such mortgage for prior prohibition where the home mortgage exceeded a sum equal to $55,000 (except that with respect to dwellings in Alaska, Guam, and Hawaii the foregoing limitation, might, by regulation of the Board, be increased by not to exceed 50 per centum) for each home or other dwelling unit covered by the mortgage.
 
 <b>1974</b>—Subsec. (b). Pub. L. 93–449 substituted provisions limiting the home mortgage to a sum not to exceed $55,000, except with respect to dwellings in Alaska, Guam, etc., for provisions limiting the home mortgage to a sum not to exceed $40,000.
 

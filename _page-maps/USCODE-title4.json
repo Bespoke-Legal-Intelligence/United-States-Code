@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title4",
- "package": "USCODE-2017-title4",
+ "package": "USCODE-2018-title4",
  "pieces": [
   {
    "id": "4_",
@@ -32,18 +32,14 @@
    "id": "4_1",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       106,
-       "[Page 2]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 2]",
+     true
     ],
     [
      "L",
-     94,
+     98,
      "[Page 3]",
      true
     ]
@@ -141,35 +137,34 @@
      true
     ],
     [
+     "I",
+     40,
+     [
+      [
+       482,
+       "[Page 8]"
+      ]
+     ]
+    ],
+    [
      "L",
-     42,
-     "[Page 8]",
+     114,
+     "[Page 9]",
      true
     ]
    ],
    "path": "Chapter 001 - The Flag/§ 00007 - Position and manner of display.md",
    "printed_pages": [
     6,
-    8
+    9
    ]
   },
   {
    "id": "4_8",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       88,
-       "[Page 9]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - The Flag/§ 00008 - Respect for flag.md",
    "printed_pages": [
-    8,
+    9,
     9
    ]
   },
@@ -186,14 +181,10 @@
    "id": "4_10",
    "marks": [
     [
-     "I",
-     36,
-     [
-      [
-       268,
-       "[Page 10]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 10]",
+     true
     ]
    ],
    "path": "Chapter 001 - The Flag/§ 00010 - Modification of rules and customs by President.md",
@@ -270,10 +261,10 @@
    "marks": [
     [
      "I",
-     28,
+     7,
      [
       [
-       127,
+       101,
        "[Page 11]"
       ]
      ]
@@ -314,30 +305,26 @@
   },
   {
    "id": "4_104",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 12]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - The States/§ 00104 - Tax on motor fuel sold on military or other reservation 1 reports to State taxing authority.md",
    "printed_pages": [
     11,
-    11
+    12
    ]
   },
   {
    "id": "4_105",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       282,
-       "[Page 12]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The States/§ 00105 - State, and so forth, taxation affecting Federal areas; sales or use tax.md",
    "printed_pages": [
-    11,
+    12,
     12
    ]
   },
@@ -370,30 +357,26 @@
   },
   {
    "id": "4_109",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 13]",
+     true
+    ]
+   ],
    "path": "Chapter 004 - The States/§ 00109 - Same; exception of Indians.md",
    "printed_pages": [
     12,
-    12
+    13
    ]
   },
   {
    "id": "4_110",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       186,
-       "[Page 13]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The States/§ 00110 - Same; definitions.md",
    "printed_pages": [
-    12,
+    13,
     13
    ]
   },
@@ -411,10 +394,10 @@
    "marks": [
     [
      "I",
-     20,
+     10,
      [
       [
-       279,
+       113,
        "[Page 14]"
       ]
      ]
@@ -439,10 +422,14 @@
    "id": "4_114",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 15]",
-     true
+     "I",
+     34,
+     [
+      [
+       93,
+       "[Page 15]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - The States/§ 00114 - Limitation on State income taxation of certain pension income.md",
@@ -464,10 +451,14 @@
    "id": "4_116",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 16]",
-     true
+     "I",
+     28,
+     [
+      [
+       329,
+       "[Page 16]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - The States/§ 00116 - Rules for determining State and local government treatment of charges related to mobile telecommunications services.md",
@@ -498,10 +489,14 @@
    "id": "4_119",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 17]",
-     true
+     "I",
+     24,
+     [
+      [
+       79,
+       "[Page 17]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - The States/§ 00119 - Electronic databases for nationwide standard numeric jurisdictional codes.md",
@@ -521,26 +516,30 @@
   },
   {
    "id": "4_121",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       110,
+       "[Page 18]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - The States/§ 00121 - Correction of erroneous data for place of primary use.md",
    "printed_pages": [
     17,
-    17
+    18
    ]
   },
   {
    "id": "4_122",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 18]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 004 - The States/§ 00122 - Determination of place of primary use.md",
    "printed_pages": [
-    17,
+    18,
     18
    ]
   },
@@ -557,10 +556,14 @@
    "id": "4_124",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 19]",
-     true
+     "I",
+     24,
+     [
+      [
+       95,
+       "[Page 19]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - The States/§ 00124 - Definitions.md",
@@ -580,26 +583,30 @@
   },
   {
    "id": "4_126",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       110,
+       "[Page 20]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 004 - The States/§ 00126 - No inference.md",
    "printed_pages": [
     19,
-    19
+    20
    ]
   },
   {
    "id": "4_-ch5",
-   "marks": [
-    [
-     "L",
-     17,
-     "[Page 20]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Official Territorial Papers/README.md",
    "printed_pages": [
-    19,
+    20,
     20
    ]
   },
@@ -623,30 +630,26 @@
   },
   {
    "id": "4_143",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 21]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Official Territorial Papers/§ 00143 - Employment and utilization of other personnel; cost of copy reading and indexing.md",
    "printed_pages": [
     20,
-    20
+    21
    ]
   },
   {
    "id": "4_144",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       180,
-       "[Page 21]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Official Territorial Papers/§ 00144 - Cooperation of departments and agencies.md",
    "printed_pages": [
-    20,
+    21,
     21
    ]
   },
@@ -669,6 +672,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2017-title4 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2018-title4 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 04 - Flag and Seal, Seat of Government, and the States"
 }

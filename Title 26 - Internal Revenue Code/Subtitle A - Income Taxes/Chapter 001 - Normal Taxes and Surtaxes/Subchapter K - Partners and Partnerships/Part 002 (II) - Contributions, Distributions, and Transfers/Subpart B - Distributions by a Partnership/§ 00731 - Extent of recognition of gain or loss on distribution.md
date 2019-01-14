@@ -154,7 +154,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (6) Character of gain recognized
 
-&emsp;In the case of a distribution of a marketable security which is an unrealized receivable (asdefined in section 751(c)) or an inventory item (as defined in section 751(d)), any gain recognized under this subsection shall be treated as ordinary income to the extent of any increase in the basis of such security attributable to the gain described in paragraph (4)(A)(ii).
+&emsp;In the case of a distribution of a marketable security which is an unrealized receivable (as defined in section 751(c)) or an inventory item (as defined in section 751(d)), any gain recognized under this subsection shall be treated as ordinary income to the extent of any increase in the basis of such security attributable to the gain described in paragraph (4)(A)(ii).
 
 #### (7) Regulations
 

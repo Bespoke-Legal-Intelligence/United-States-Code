@@ -70,7 +70,7 @@ The information pamphlet and video developed under subsection (a) shall include 
 
 #### (3) Deadline for pamphlet development and distribution
 
-&emsp;Not later than 180 days after December 23, 2008, the Secretary of State shall distributeand make available the information pamphlet developed under subsection (a) in all the languages referred to in subsection (c).
+&emsp;Not later than 180 days after December 23, 2008, the Secretary of State shall distribute and make available the information pamphlet developed under subsection (a) in all the languages referred to in subsection (c).
 
 #### (4) Deadline for video development and distribution
 
@@ -94,7 +94,7 @@ The information pamphlet and video developed under subsection (a) shall include 
 
 &emsp;&emsp;(A) the legal rights of employment-based nonimmigrants under Federal immigration, labor, and employment laws;
 
-&emsp;&emsp;(B) the illegality of slavery, peonage, trafficking in persons, sexual assault, extortion, blackmail, and worker exploitation in the United States; and
+&emsp;&emsp;(B) the illegality of slavery, peonage, trafficking in persons, sexual assault, extortion,blackmail, and worker exploitation in the United States; and
 
 &emsp;&emsp;(C) the legal rights of immigrant victims of trafficking in persons, worker exploitation, and other related crimes, including—
 

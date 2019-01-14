@@ -20,11 +20,11 @@ The Secretary may, by regulation and under such conditions and procedures as he 
 
 #### (b) Plants located in noncontiguous areas of United States
 
-The Secretary shall, by regulation and under such procedures as he may prescribe, exempt any plant located within noncontiguous areas of the United States from specific provisions of this chapter, where, despite good faith efforts by the owner of such plant, such owner has notbeen able to bring his plant into full compliance with this chapter: <i>Provided</i>, That in order to provide at least minimum standards for the protection of the public health, whenever processing operations are being conducted at any such plant, continuous inspection shall be maintained to assure that it is operated in a sanitary manner. No exemption under this subsection shall be granted for a period extending beyond December 31, 1971.
+The Secretary shall, by regulation and under such procedures as he may prescribe, exempt any plant located within noncontiguous areas of the United States from specific provisions of this chapter, where, despite good faith efforts by the owner of such plant, such owner has not been able to bring his plant into full compliance with this chapter: <i>Provided</i>, That in order to provide at least minimum standards for the protection of the public health, whenever processing operations are being conducted at any such plant, continuous inspection shall be maintained to assure that it is operated in a sanitary manner. No exemption under this subsection shall be granted for a period extending beyond December 31, 1971.
 
 #### (c) Suspension or termination of exemptions
 
-The Secretary may immediately suspend or terminate any exemption under paragraph (a)(2) or (6) <sup>1</sup> of this section at any time with respect to any person, if the conditions of exemption prescribed by this section or the regulations of the Secretary are not being met. The Secretary may modify or revoke any regulation granting exemption under this chapter whenever he deems such action appropriate to effectuate the purposes of this chapter.
+The Secretary may immediately suspend or terminate any exemption under paragraph (a)(2) or (6) <sup>1</sup> of this section at any time with respect to any person, if the conditions of exemption prescribed by this section or the regulations of the Secretary are not being met. The Secretary may modify or revoke any regulation granting exemption under this chapter whenever hedeems such action appropriate to effectuate the purposes of this chapter.
 
 (Pub. L. 91–597, §15, Dec. 29, 1970, 84 Stat. 1629; Pub. L. 92–67, Aug. 6, 1971, 85 Stat. 173.)
 

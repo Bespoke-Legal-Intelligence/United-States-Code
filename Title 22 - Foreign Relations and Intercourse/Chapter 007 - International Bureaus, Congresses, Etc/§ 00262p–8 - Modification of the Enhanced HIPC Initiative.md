@@ -32,7 +32,7 @@ Debt cancellation under the modifications to the Enhanced HIPC Initiative descri
 
 &emsp;(2) provides for increased cost recovery from poor people to finance basic public services such as education, health care, clean water, or sanitation;
 
-&emsp;(3) reduces the country's minimum wage to a level of less than $2 per day or undermines workers' ability to exercise effectively their internationally recognized worker rights, as defined under section 262p–4p of this title; <sup>2</sup> or
+&emsp;(3) reduces the country's minimum wage to a level of less than $2 per day or underminesworkers' ability to exercise effectively their internationally recognized worker rights, as defined under section 262p–4p of this title; <sup>2</sup> or
 
 &emsp;(4) promotes unsustainable extraction of resources or results in reduced budget support for environmental programs.
 
@@ -42,7 +42,7 @@ A country shall not be eligible for cancellation of debt under modifications to 
 
 &emsp;(1) has an excessive level of military expenditures;
 
-&emsp;(2) has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under section 4605(j)(1) of title 50 or section 2371(a) of this title;
+&emsp;(2) has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under section 4605(j)(1) <sup>2</sup> of title 50 or section 2371(a) of this title;
 
 &emsp;(3) is failing to cooperate on international narcotics control matters; or
 
@@ -66,7 +66,7 @@ In this section:
 
 #### (1) Country suffering a public health crisis
 
-&emsp;The term "country suffering a public health crisis" means a country in which the HIV/AIDS infection rate, as reported in the mostrecent epidemiological data for that country compiled by the Joint United Nations Program on HIV/AIDS, is at least 5 percent among women attending prenatal clinics or more than 20 percent among individuals in groups with high-risk behavior.
+&emsp;The term "country suffering a public health crisis" means a country in which the HIV/AIDS infection rate, as reported in the most recent epidemiological data for that country compiled by the Joint United Nations Program on HIV/AIDS, is at least 5 percent among women attending prenatal clinics or more than 20 percent among individuals in groups with high-risk behavior.
 
 #### (2) Decision Point
 
@@ -81,6 +81,8 @@ In this section:
 #### References in Text
 
 Section 262p–4p of this title, referred to in subsec. (b)(3), was in the original "section 526(e) of the Foreign Operations, Export Financing and Related Programs Appropriations Act, 1995 (22 U.S.C. 262p–4p)" meaning section 526(e) of Pub. L. 103–306, which was translated as reading section 1621 of Pub. L. 95–118 which was enacted by section 526(e) of Pub. L. 103–306 and is classified to section 262p–4p of this title, to reflect the probable intent of Congress.
+
+Section 4605(j)(1) of title 50, referred to subsec. (c)(2), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Codification
 

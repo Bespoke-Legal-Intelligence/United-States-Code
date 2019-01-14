@@ -12,7 +12,7 @@ Upon a determination by the Secretary concerned that a member of the armed force
 
 &emsp;&emsp;&emsp;(ii) traveling directly to or from the place at which such duty is performed; or
 
-&emsp;&emsp;&emsp;(iii) remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site isoutside reasonable commuting distance of the member's residence; or
+&emsp;&emsp;&emsp;(iii) remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance of the member's residence; or
 
 &emsp;&emsp;(B) while the member—
 

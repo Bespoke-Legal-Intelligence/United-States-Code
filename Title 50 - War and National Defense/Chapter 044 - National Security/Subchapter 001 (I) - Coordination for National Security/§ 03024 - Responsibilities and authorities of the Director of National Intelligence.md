@@ -42,7 +42,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (B) Notwithstanding any other provision of law, pursuant to relevant appropriations Acts for the National Intelligence Program, the Director of the Office of Management and Budget shall exercise the authority of the Director of the Office of Management and Budget to apportion funds, at the exclusive direction of the Director of National Intelligence, for allocation to the elements of the intelligence community through the relevant host executive departments and the Central Intelligence Agency. Department comptrollers or appropriate budget execution officers shall allot, allocate, reprogram, or transfer funds appropriated for the National Intelligence Program in an expeditious manner.
 
-(C) The Director of National Intelligence shall monitor the implementation and execution of the National Intelligence Program by the heads of the elements of the intelligence community that manage programs and activities that are part of the National Intelligence Program, which may include audits and evaluations.
+(C) The Director of National Intelligence shall monitor the implementation and execution of the National Intelligence Program by the heads of the elements of the intelligence community that manage programs and activities that arepart of the National Intelligence Program, which may include audits and evaluations.
 
 (6) Apportionment and allotment of funds under this subsection shall be subject to chapter 13 and section 1517 of title 31 and the Congressional Budget and Impoundment Control Act of 1974 (2 U.S.C. 621 et seq.).
 
@@ -106,7 +106,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 &emsp;(iii) in the case of the transfer of personnel to or from the Department of Defense, the Committees on Armed Services of the Senate and the House of Representatives; and
 
-&emsp;(iv) in the case of the transfer of personnel to or from the Department of Justice, to theCommittees on the Judiciary of the Senate and the House of Representatives.
+&emsp;(iv) in the case of the transfer of personnel to or from the Department of Justice, to the Committees on the Judiciary of the Senate and the House of Representatives.
 
 (C) The Director shall include in any notice under subparagraph (B) an explanation of the nature of the transfer and how it satisfies the requirements of this subsection.
 
@@ -230,7 +230,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 &emsp;(F) have procurement approval authority over all enterprise architecture-related information technology items funded in the National Intelligence Program; and
 
-&emsp;(G) in accordance with Executive Order No. 13526 (75 Fed. Reg. 707; relating to classifiednational security information) (or any subsequent corresponding executive order), and part 2001 of title 32, Code of Federal Regulations (or any subsequent corresponding regulation), establish—
+&emsp;(G) in accordance with Executive Order No. 13526 (75 Fed. Reg. 707; relating to classified national security information) (or any subsequent corresponding executive order), and part 2001 of title 32, Code of Federal Regulations (or any subsequent corresponding regulation), establish—
 
 &emsp;&emsp;(i) guidance to standardize, in appropriate cases, the formats for classified and unclassified intelligence products created by elements of the intelligence community for purposes of promoting the sharing of intelligence products; and
 
@@ -340,7 +340,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 #### (m) Additional authority with respect to personnel
 
-(1) In addition to the authorities under subsection (f)(3), the Director of National Intelligence may exercise with respect to the personnel of the Office of the Director of National Intelligence any authority of the Director of the Central Intelligence Agency with respect to the personnel of the Central Intelligence Agency under the Central Intelligence Agency Act of 1949 \[50 U.S.C. 3501 et seq.\], and other applicable provisions of law, as of December 17, 2004, to the same extent, and subject to the same conditions and limitations, that the Director of the CentralIntelligence Agency may exercise such authority with respect to personnel of the Central Intelligence Agency.
+(1) In addition to the authorities under subsection (f)(3), the Director of National Intelligence may exercise with respect to the personnel of the Office of the Director of National Intelligence any authority of the Director of the Central Intelligence Agency with respect to the personnel of the Central Intelligence Agency under the Central Intelligence Agency Act of 1949 \[50 U.S.C. 3501 et seq.\], and other applicable provisions of law, as of December 17, 2004, to the same extent, and subject to the same conditions and limitations, that the Director of the Central Intelligence Agency may exercise such authority with respect to personnel of the Central Intelligence Agency.
 
 (2) Employees and applicants for employment of the Office of the Director of National Intelligence shall have the same rights and protections under the Office of the Director of National Intelligence as employees of the Central Intelligence Agency have under the Central Intelligence Agency Act of 1949 \[50 U.S.C. 3501 et seq.\], and other applicable provisions of law, as of December 17, 2004.
 
@@ -394,7 +394,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 (G) The Director of National Intelligence shall submit—
 
-&emsp;(i) to the congressional intelligence committees a notification of an authorization to exercise an authority referred to in subparagraph (A) or an extension of such authorization thatincludes the written authorization referred to in subparagraph (B)(ii); and
+&emsp;(i) to the congressional intelligence committees a notification of an authorization to exercise an authority referred to in subparagraph (A) or an extension of such authorization that includes the written authorization referred to in subparagraph (B)(ii); and
 
 &emsp;(ii) to the Director of the Office of Management and Budget a notification of an authorization to exercise an authority referred to in subparagraph (A) for an acquisition or class of acquisitions that will exceed $50,000,000 annually.
 
@@ -452,7 +452,7 @@ The Director of National Intelligence shall, in consultation with the heads of d
 
 &emsp;(B) to the extent necessary to recruit or retain an individual exceptionally well qualified for the position.
 
-(3) The head of a department or agency may not fix a rate of basic pay under this subsection at a rate greater than the rate payable for level II of the Executive Schedule under section 5313of title 5, except upon written approval of the Director of National Intelligence or as otherwise authorized by law.
+(3) The head of a department or agency may not fix a rate of basic pay under this subsection at a rate greater than the rate payable for level II of the Executive Schedule under section 5313 of title 5, except upon written approval of the Director of National Intelligence or as otherwise authorized by law.
 
 (4) The head of a department or agency may not fix a rate of basic pay under this subsection at a rate greater than the rate payable for level I of the Executive Schedule under section 5312 of title 5, except upon written approval of the President in response to a request by the Director of National Intelligence or as otherwise authorized by law.
 
@@ -496,7 +496,7 @@ The Director of National Intelligence, in consultation with the head of each dep
 
 &emsp;(1) ensure that—
 
-&emsp;&emsp;(A) any contractor to an element of the intelligence community with access to a classified network or classified information develops and operates a security plan that is consistent with standards established by the Director of National Intelligence for intelligence community networks; and
+&emsp;&emsp;(A) any contractor to an element of the intelligence community with access to a classified network or classified information develops and operates a security plan that is consistent with standards established by theDirector of National Intelligence for intelligence community networks; and
 
 &emsp;&emsp;(B) each contract awarded by an element of the intelligence community includes provisions requiring the contractor comply with such plan and such standards;
 
@@ -744,7 +744,7 @@ Pub. L. 108–458, title I, §1017, Dec. 17, 2004, 118 Stat. 3670, provided that
 
 "(a)
 
-In General.—Not later than 180 days after the effective date of this Act \[probably means the effective date of title I of Pub. L. 108–458, see Effective Date of 2004 Amendment; Transition Provisions note set out under section 3001 of this title\], the Director of National Intelligence shall establish a process and assign an individual or entity the responsibility for ensuring that, as appropriate, elements of the intelligence community conduct alternative analysis (commonly referred to as 'red-team analysis') of the information and conclusions in intelligence products.
+In General.—Not later than 180 days after the effective date of this Act \[probably means the effectivedate of title I of Pub. L. 108–458, see Effective Date of 2004 Amendment; Transition Provisions note set out under section 3001 of this title\], the Director of National Intelligence shall establish a process and assign an individual or entity the responsibility for ensuring that, as appropriate, elements of the intelligence community conduct alternative analysis (commonly referred to as 'red-team analysis') of the information and conclusions in intelligence products.
 
 "(b)
 

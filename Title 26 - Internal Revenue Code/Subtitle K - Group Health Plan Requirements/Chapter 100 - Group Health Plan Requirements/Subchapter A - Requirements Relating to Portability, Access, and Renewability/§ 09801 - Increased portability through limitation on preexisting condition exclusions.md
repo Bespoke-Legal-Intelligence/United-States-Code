@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (ii) Definitions
 
-&emsp;&emsp;&emsp;The terms "TAA-eligible individual" and "TAA-related loss of coverage" have themeanings given such terms in section 4980B(f)(5)(C)(iv).
+&emsp;&emsp;&emsp;The terms "TAA-eligible individual" and "TAA-related loss of coverage" have the meanings given such terms in section 4980B(f)(5)(C)(iv).
 
 #### (3) Method of crediting coverage
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) on the request on behalf of an individual made not later than 24 months after the date of cessation of the coverage described in clause (i) or (ii), whichever is later.
 
-> &emsp;&emsp;The certification under clause (i) may be provided, to the extent practicable, at a time consistent with notices required under any applicable COBRA continuation provision.
+> &emsp;&emsp;The certification under clause (i) may be provided, to the extent practicable, at atime consistent with notices required under any applicable COBRA continuation provision.
 
 #### (B) Certification
 
@@ -248,7 +248,7 @@ For purposes of this section—
 
 #### (ii) Eligibility for employment assistance under Medicaid or CHIP
 
-&emsp;&emsp;&emsp;The employee or dependent becomes eligible for assistance, with respect to coverage under the group health plan under such Medicaid plan or State child health plan (including under any waiver or demonstration project conducted under or inrelation to such a plan), if the employee requests coverage under the group health plan not later than 60 days after the date the employee or dependent is determined to be eligible for such assistance.
+&emsp;&emsp;&emsp;The employee or dependent becomes eligible for assistance, with respect to coverage under the group health plan under such Medicaid plan or State child health plan (including under any waiver or demonstration project conducted under or in relation to such a plan), if the employee requests coverage under the group health plan not later than 60 days after the date the employee or dependent is determined to be eligible for such assistance.
 
 #### (B) Employee outreach and disclosure
 
@@ -270,7 +270,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (c)(1)(C), (D), (f)(3)(A)(i), (B)(i)(I), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Sections 1928 and 2105 of the Act are classified to sections 1396s and 1397ee, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(1)(C), (D), (f)(3)(A)(i), (B)(i)(I), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.),respectively, of chapter 7 of Title 42. Sections 1928 and 2105 of the Act are classified to sections 1396s and 1397ee, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (f)(3)(B)(ii), is section 311(b)(1)(C) of Pub. L. 111–3, which is set out as a note under section 1181 of Title 29, Labor.
 
@@ -376,7 +376,7 @@ Transitional rule.—In the case of an individual who seeks to establish credita
 
 "(3)
 
-Special rule for collective bargaining agreements.—Except as provided in paragraph (2), in the case of a group health plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Aug. 21, 1996\], the amendments made by this section shall not apply to plan years beginning before the later of—
+Special rule for collective bargaining agreements.—Except as provided in paragraph (2), in thecase of a group health plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Aug. 21, 1996\], the amendments made by this section shall not apply to plan years beginning before the later of—
 
 &emsp;"(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act), or
 

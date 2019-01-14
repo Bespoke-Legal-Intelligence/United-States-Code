@@ -60,7 +60,7 @@ Use of administrative funds.—Funds available to a State under this subsection 
 
 (9)(A) If the Secretary determines that the administration of any program by a State under this chapter (other than section 1786 of this title) or under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) (including any requirement to provide sufficient training, technical assistance, and monitoring of the child and adult care food program under section 17 of that Act (42 U.S.C. 1766)), or compliance with a regulation issued pursuant to either this chapter or such Act, is seriously deficient, and the State fails to correct the deficiency within a specified period of time, the Secretary may withhold from the State some or all of the funds allocated to the State under this section or under section 13(k)(1) or 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761(k)(1) or 1766).
 
-(B) On a subsequent determination by the Secretary that the administration of any programreferred to in subparagraph (A), or compliance with the regulations issued to carry out the program, is no longer seriously deficient and is operated in an acceptable manner, the Secretary may allocate some or all of the funds withheld under such subparagraph.
+(B) On a subsequent determination by the Secretary that the administration of any program referred to in subparagraph (A), or compliance with the regulations issued to carry out the program, is no longer seriously deficient and is operated in an acceptable manner, the Secretary may allocate some or all of the funds withheld under such subparagraph.
 
 #### (b) Funds, usage: compensation, benefits, and travel expenses of personnel; support services; office equipment; staff development
 
@@ -68,7 +68,7 @@ Funds paid to a State under subsection (a) of this section may be used to pay sa
 
 #### (c) Fund adjustment; State administered programs
 
-If any State agency agrees to assume responsibility for the administration of food service programs in nonprofit private schools or child care institutions that were previously administered by the Secretary, an appropriate adjustment shall be made in the administrative funds paid under this section to the State not later than the succeeding fiscal year.
+If any State agency agrees to assume responsibility for the administration of food service programs in nonprofit private schools or child care institutions that were previously administered by the Secretary, an appropriate adjustment shall be made in the administrative fundspaid under this section to the State not later than the succeeding fiscal year.
 
 #### (d) Unused funds; availability for obligation and expenditure, and reallocation to other States
 
@@ -228,7 +228,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (B) Exception
 
-&emsp;&emsp;The Secretary may retain a portion of the amount provided to cover costs of activitiescarried out by the Secretary in lieu of the State.
+&emsp;&emsp;The Secretary may retain a portion of the amount provided to cover costs of activities carried out by the Secretary in lieu of the State.
 
 #### (3) Allocation
 
@@ -298,7 +298,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–296, §441(b)(1), substituted "Each fiscal year" for "Except as provided insubparagraph (B), each fiscal year" in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "In the case of each of fiscal years 2005 through 2007, the Secretary shall make available to each State for administrative costs not less than the initial allocation made to the State under this subsection for fiscal year 2004."
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–296, §441(b)(1), substituted "Each fiscal year" for "Except as provided in subparagraph (B), each fiscal year" in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "In the case of each of fiscal years 2005 through 2007, the Secretary shall make available to each State for administrative costs not less than the initial allocation made to the State under this subsection for fiscal year 2004."
 
 Subsec. (g). Pub. L. 111–296, §306, added subsec. (g) and struck out former subsec. (g) which required each State to provide, at least annually, training in administrative practices, with emphasis on the requirements established by the Child Nutrition and WIC Reauthorization Act of 2004, and set out the Federal role and procedures for required participation.
 
@@ -308,7 +308,7 @@ Subsec. (j). Pub. L. 111–296, §422, substituted "October 1, 2015" for "Octobe
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–265, §202(a)(1), inserted heading.
 
-Subsec. (a)(1). Pub. L. 108–265, §202(a)(1), (2)(A), inserted par. heading, designated first and second sentences as subpars. (A) and (C), respectively, inserted subpar. (A) and (C) headings, in subpar. (A) substituted "Except as provided in subparagraph (B), each" for "Each", added subpar. (B), and struck out at end "There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section."
+Subsec. (a)(1). Pub. L. 108–265, §202(a)(1), (2)(A), inserted par. heading, designated first and second sentences as subpars. (A) and (C), respectively, insertedsubpar. (A) and (C) headings, in subpar. (A) substituted "Except as provided in subparagraph (B), each" for "Each", added subpar. (B), and struck out at end "There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section."
 
 Subsec. (a)(2). Pub. L. 108–265, §202(a)(2)(B), inserted par. heading, designated existing provisions as subpars. (A) and (B)(i), inserted headings, in subpar. (A) substituted "Subject to subparagraph (B), the" for "The", in subpar. (B)(i) substituted "this paragraph" for "this subsection" and "$200,000 (as adjusted under clause (ii)" for "$100,000", and added subpar. (B)(ii).
 
@@ -380,7 +380,7 @@ Subsec. (e). Pub. L. 97–35, §814(b), substituted provisions relating to gener
 
 Subsec. (i). Pub. L. 96–499, §201(b)(2), substituted "September 30, 1984" for "September 30, 1980".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–627 generally revised and restructured subsection and, among other changes, inserted formula for determining State allocations for administrative costs incurred under the program authorized by section 17 of the National School Lunch Act, authorized the State to transfer up to ten percent of any amounts allocated for administrative costs of the programs for which such funds were allocated, and authorized retention by the Secretary for the Secretary's use in administering certain programs, allocations for such programs, under this section and section 13(k)(1) of the National School Lunch Act.
+<b>1978</b>—Subsec. (a). Pub. L. 95–627 generally revised and restructured subsection and, among other changes, inserted formula for determining State allocations for administrative costs incurred under the program authorized by section 17 of the National School LunchAct, authorized the State to transfer up to ten percent of any amounts allocated for administrative costs of the programs for which such funds were allocated, and authorized retention by the Secretary for the Secretary's use in administering certain programs, allocations for such programs, under this section and section 13(k)(1) of the National School Lunch Act.
 
 <b>1977</b>—Subsecs. (a) to (i). Pub. L. 95–166 added subsecs. (a) to (i) and struck out prior provisions authorizing the Secretary to utilize appropriated funds for advances to State educational agencies for use for administrative expenses, advancing the fund only in necessary amounts and for administration of certain activities, and authorizing appropriation of necessary sums, now incorporated in subsec. (i) of this section.
 

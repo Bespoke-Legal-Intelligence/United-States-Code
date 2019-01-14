@@ -16,7 +16,7 @@
 
 &emsp;(iv) make a recommendation to Congress as to whether such a facility should be included in the national nuclear waste management system in order to achieve the purposes of this chapter, including meeting needs for packaging and handling of spent nuclear fuel, improving the flexibility of the repository development schedule, and providing temporary storage of spent nuclear fuel accepted for disposal.
 
-(2) In preparing the report and making its recommendation under paragraph (1) the MRSCommission shall compare such a facility to the alternative of at-reactor storage of spent nuclear fuel prior to disposal of such fuel in a repository under this chapter. Such comparison shall take into consideration the impact on—
+(2) In preparing the report and making its recommendation under paragraph (1) the MRS Commission shall compare such a facility to the alternative of at-reactor storage of spent nuclear fuel prior to disposal of such fuel in a repository under this chapter. Such comparison shall take into consideration the impact on—
 
 &emsp;(A) repository design and construction;
 

@@ -1,0 +1,20 @@
+### §9905. Direct hire authority for certain personnel of the Department of Defense
+
+(a)
+
+In General.—The Secretary of Defense may appoint, without regard to the provisions of subchapter I of chapter 33 (other than sections 3303 and 3328 of such chapter), qualified candidates to any of the following positions in the competitive service in the Department of Defense:
+
+&emsp;(1) Any position involved with Department maintenance activities, including depot-level maintenance and repair.
+
+&emsp;(2) Any position involved with cybersecurity.
+
+&emsp;(3) Any individual in the acquisition workforce that manages any services contracts necessary to the operation and maintenance of programs of the Department.
+
+&emsp;(4) Any science, technology, or engineering position, including any such position at the Major Range and Test Facilities Base, in order to allow development of new systems and provide for the maintenance of legacy systems.
+
+(b)
+
+Sunset.—Effective on September 30, 2025, the authority provided under subsection (a) shall expire.
+
+(Added Pub. L. 115–232, div. A, title XI, §1101(a), Aug. 13, 2018, 132 Stat. 2000.)
+

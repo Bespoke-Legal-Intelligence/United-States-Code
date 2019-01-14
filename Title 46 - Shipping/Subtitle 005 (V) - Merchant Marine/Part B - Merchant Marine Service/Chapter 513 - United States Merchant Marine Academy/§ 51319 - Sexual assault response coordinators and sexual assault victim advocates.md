@@ -40,7 +40,7 @@ Training requirements.—The training referred to in subparagraph (A) shall incl
 
 &emsp;&emsp;(C)
 
-Completion of training.—A sexual assault response coordinator shall completethe training referred to in subparagraphs (A) and (B) not later than—
+Completion of training.—A sexual assault response coordinator shall complete the training referred to in subparagraphs (A) and (B) not later than—
 
 &emsp;&emsp;&emsp;(i) 270 days after enactment of the National Defense Authorization Act for Fiscal Year 2018; or
 

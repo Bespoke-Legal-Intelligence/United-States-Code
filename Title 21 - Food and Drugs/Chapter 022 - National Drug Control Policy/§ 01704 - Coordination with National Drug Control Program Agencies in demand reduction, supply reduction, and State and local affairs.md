@@ -1,0 +1,162 @@
+### §1704. Coordination with National Drug Control Program Agencies in demand reduction, supply reduction, and State and local affairs
+
+#### (a) Access to information
+
+#### (1) In general
+
+&emsp;Upon the request of the Director, the head of any National Drug Control Program agency shall cooperate with and provide to the Director any statistics, studies, reports, and other information prepared or collected by the agency concerning the responsibilities of the agency under the National Drug Control Strategy that relate to—
+
+&emsp;&emsp;(A) drug control; or
+
+&emsp;&emsp;(B) the manner in which amounts made available to that agency for drug control are being used by that agency.
+
+#### (2) Protection of intelligence information
+
+#### (A) In general
+
+&emsp;&emsp;The authorities conferred on the Office and the Director by this chapter shall be exercised in a manner consistent with provisions of the National Security Act of 1947 \[50 U.S.C. 3001 et seq.\]. The Director of National Intelligence shall prescribe such regulations as may be necessary to protect information provided pursuant to this chapter regarding intelligence sources and methods.
+
+#### (B) Duties of Director
+
+&emsp;&emsp;The Director of National Intelligence and the Director of the Central Intelligence Agency shall, to the maximum extent practicable in accordance with subparagraph (A), render full assistance and support to the Office and the Director.
+
+#### (3) Required reports
+
+#### (A) Secretaries of the Interior and Agriculture
+
+&emsp;&emsp;Not later than July 1 of each year, the Secretaries of Agriculture and the Interior shall jointly submit to the Director and the appropriate congressional committees an assessment of the quantity of illegal drug cultivation and manufacturing in the United States on lands owned or under the jurisdiction of the Federal Government for the preceding year.
+
+#### (B) Secretary of Homeland Security
+
+&emsp;&emsp;Not later than July 1 of each year, the Secretary of Homeland Security shall submit to the Director and the appropriate congressional committees information for the preceding year regarding—
+
+&emsp;&emsp;&emsp;(i) the number and type of seizures of drugs by each component of the Department of Homeland Security seizing drugs, as well as statistical information on the geographic areas of such seizures; and
+
+&emsp;&emsp;&emsp;(ii) the number of air and maritime patrol hours primarily dedicated to drug supply reduction missions undertaken by each component of the Department of Homeland Security.
+
+#### (C) Secretary of Defense
+
+&emsp;&emsp;The Secretary of Defense shall, by July 1 of each year, submit to the Director and the appropriate congressional committees information for the preceding year regarding the number of air and maritime patrol hours primarily dedicated to drug supply reduction missions undertaken by each component of the Department of Defense.
+
+#### (D) Attorney General
+
+&emsp;&emsp;The Attorney General shall, by July 1 of each year, submit to the Director and the appropriate congressional committees information for the preceding year regarding the number and type of—
+
+&emsp;&emsp;&emsp;(i) arrests for drug violations;
+
+&emsp;&emsp;&emsp;(ii) prosecutions for drug violations by United States Attorneys; and
+
+&emsp;&emsp;&emsp;(iii) seizures of drugs by each component of the Department of Justice seizing drugs, as well as statistical information on the geographic areas of such seizures.
+
+#### (b) Certification of policy changes to Director
+
+#### (1) In general
+
+&emsp;Subject to paragraph (2), the head of a National Drug Control Program agency shall, unless exigent circumstances require otherwise, notify the Director in writing regarding any proposed change in policies relating to the activities of that agency under the National Drug Control Program prior to implementation of such change. The Director shall promptly review such proposed change and certify to the head of that agency in writing whether such change is consistent with the National Drug Control Strategy.
+
+#### (2) Exception
+
+&emsp;If prior notice of a proposed change under paragraph (1) is not practicable—
+
+&emsp;&emsp;(A) the head of the National Drug Control Program agency shall notify the Director of the proposed change as soon as practicable; and
+
+&emsp;&emsp;(B) upon such notification, the Director shall review the change and certify to the head of that agency in writing whether the change is consistent with the National Drug Control Strategy.
+
+#### (c) General Services Administration
+
+The Administrator of General Services shall provide to the Director, on a reimbursable basis, such administrative support services as the Director may request.
+
+#### (d) Accounting of funds expended
+
+#### (1) In general
+
+&emsp;Not later than February 1 of each year, in accordance with guidance issued by the Director, the head of each National Drug Control Program Agency shall submit to the Director a detailed accounting of all funds expended by the agency for National Drug Control Program activities during the previous fiscal year and shall ensure such detailed accounting is authenticated for the previous fiscal year by the Inspector General for such agency prior to the submission to the Director as frequently as determined by the Inspector General but not less frequently that <sup>1</sup> every 3 years.
+
+#### (2) Submission to Congress
+
+&emsp;The Director shall submit to Congress not later than April 1 of each year the information submitted to the Director under paragraph (1).
+
+#### (e) Drug court training and technical assistance program
+
+#### (1) Grants authorized
+
+&emsp;The Director may make a grant to a nonprofit organization for the purpose of providing training and technical assistance to drug courts.
+
+#### (2) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2018 through 2023.
+
+#### (f) Tracking system for federally funded grant programs
+
+#### (1) Establishment
+
+&emsp;The Director, or the head of an agency designated by the Director, in coordination with the Secretary of Health and Human Services, shall track federally-funded grant programs to—
+
+&emsp;&emsp;(A) ensure the public has electronic access to information identifying:
+
+&emsp;&emsp;&emsp;(i) all drug control grants and pertinent identifying information for each grant; <sup>2</sup>
+
+&emsp;&emsp;&emsp;(ii) any available performance metrics, evaluations, or other information indicating the effectiveness of such programs;
+
+&emsp;&emsp;(B) facilitate efforts to identify duplication, overlap, or gaps in funding to provide increased accountability of Federally-funded grants for substance use disorder treatment, prevention, and enforcement; and
+
+&emsp;&emsp;(C) identify barriers in the grant application process impediments that applicants currently have in the grant application process <sup>3</sup> with applicable agencies.
+
+#### (2) National Drug Control <sup>4</sup> Agencies
+
+&emsp;The head of each National Drug Control Program Agency shall provide to the Director a complete list of all drug control program grant programs and any other relevant information for inclusion in the system developed under paragraph (1) and annually update such list.
+
+#### (3) Updating existing systems
+
+&emsp;The Director may meet the requirements of this subsection by utilizing, updating, or improving existing Federal information systems to ensure they meet the requirements of this subsection.
+
+#### (4) Report
+
+&emsp;Not later than 3 years after October 24, 2018, the Comptroller General of the United States shall submit to Congress a report examining implementation of this subsection.
+
+(Pub. L. 105–277, div. C, title VII, §§705, 715, Oct. 21, 1998, 112 Stat. 2681–680, 2681–693; Pub. L. 109–469, title I, §104, title VI, §602, Dec. 29, 2006, 120 Stat. 3510, 3533; Pub. L. 115–271, title VIII, §§8202(a), (b)(2), 8207, 8217(g), Oct. 24, 2018, 132 Stat. 4110, 4113, 4124.)
+
+#### References in Text
+
+The National Security Act of 1947, referred to in subsec. (a)(2)(A), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–271, §8202(b)(2), repealed Pub. L. 105–277, §715. See 1998 Amendment note below.
+
+Pub. L. 115–271, §8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
+
+Subsec. (d). Pub. L. 115–271, §8217(g)(1), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Director shall—
+
+&emsp;"(A) require the National Drug Control Program agencies to submit to the Director not later than February 1 of each year a detailed accounting of all funds expended by the agencies for National Drug Control Program activities during the previous fiscal year, and require such accounting to be authenticated by the Inspector General for each agency prior to submission to the Director; and
+
+&emsp;"(B) submit to Congress not later than April 1 of each year the information submitted to the Director under subparagraph (A)."
+
+Subsec. (e). Pub. L. 115–271, §8207, added subsec. (e).
+
+Subsec. (f). Pub. L. 115–271, §8217(g)(2), added subsec. (f).
+
+<b>2006</b>—Pub. L. 109–469, §602, amended Pub. L. 105–277, §715, which provided for the repeal of this section. See 1998 Amendment note below.
+
+Subsec. (a)(1)(A). Pub. L. 109–469, §104(1), struck out "abuse" after "drug".
+
+Subsec. (a)(2)(A). Pub. L. 109–469, §104(2), substituted "Director of National Intelligence" for "Director of Central Intelligence".
+
+Subsec. (a)(2)(B). Pub. L. 109–469, §104(3), substituted "Director of National Intelligence and the Director of the Central Intelligence Agency" for "Director of Central Intelligence".
+
+Subsec. (a)(3). Pub. L. 109–469, §104(4), amended par. (3) generally. Prior to amendment, text read as follows: "The Secretary of Agriculture shall annually submit to the Director an assessment of the acreage of illegal drug cultivation in the United States."
+
+Subsec. (b)(2)(B). Pub. L. 109–469, §104(5), substituted "Strategy" for "Program".
+
+Subsec. (c). Pub. L. 109–469, §104(6), substituted "on" for "in".
+
+<b>1998</b>—Pub. L. 105–277, §715, as amended by Pub. L. 109–469, §602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, §8202(b)(2). See former section 1712 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "than".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "and".</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be followed by "Program".</i>
+

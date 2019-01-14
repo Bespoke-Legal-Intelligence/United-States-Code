@@ -34,7 +34,7 @@ The requirements of this subsection are as follows:
 
 &emsp;&emsp;&emsp;&emsp;(I) in addition to such requirements, no person shall, in selling or offering to sell a qualified long-term care insurance contract, misrepresent a material fact; and
 
-&emsp;&emsp;&emsp;&emsp;(II) no such requirements shall include a requirement to inquire or identifywhether a prospective applicant or enrollee for long-term care insurance has accident and sickness insurance.
+&emsp;&emsp;&emsp;&emsp;(II) no such requirements shall include a requirement to inquire or identify whether a prospective applicant or enrollee for long-term care insurance has accident and sickness insurance.
 
 &emsp;&emsp;&emsp;(v) Section 22 (relating to appropriateness of recommended purchase).
 

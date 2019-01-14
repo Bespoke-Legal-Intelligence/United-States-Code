@@ -12,7 +12,7 @@ In conducting the program under this section, the Administrator shall establish 
 
 &emsp;(2) ensure that areas described in section 3203(c) of this title in the United States and its territories can have the opportunity to participate in the program;
 
-&emsp;(3) provide recommendations to the National Weather Service on how to improve theTsunamiReady program, particularly on ways to make communities more tsunami resilient through the use of inundation maps and other mitigation practices; and
+&emsp;(3) provide recommendations to the National Weather Service on how to improve the TsunamiReady program, particularly on ways to make communities more tsunami resilient through the use of inundation maps and other mitigation practices; and
 
 &emsp;(4) ensure that all components of the program are integrated with ongoing hazard warning and risk management activities, emergency response plans, and mitigation programs in affected areas, including integrating information to assist in tsunami evacuation route planning.
 
@@ -22,7 +22,7 @@ The Program conducted under subsection (a) shall include the following:
 
 &emsp;(1) Technical and financial assistance to coastal States, territories, tribes, and local governments to develop and implement activities under this section.
 
-&emsp;(2) Integration of tsunami preparedness and mitigation programs into ongoing State-based hazard warning, resilience planning, and risk management activities, including predisaster planning, emergency response, evacuation planning, disaster recovery, hazard mitigation, and community development and redevelopment planning programs in affected areas.
+&emsp;(2) Integration of tsunami preparedness and mitigation programs into ongoing State-based hazard warning, resilience planning, and risk management activities, including predisaster planning, emergency response, evacuationplanning, disaster recovery, hazard mitigation, and community development and redevelopment planning programs in affected areas.
 
 &emsp;(3) Coordination with other Federal preparedness and mitigation programs to leverage Federal investment, avoid duplication, and maximize effort.
 

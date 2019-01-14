@@ -66,7 +66,7 @@
 
 &emsp;A center established under subsection (c)(1)(C) shall—
 
-&emsp;&emsp;(A) develop fee schedules and other database tools that fairly and accurately reflectmarket rates for medical services and the geographic differences in those rates;
+&emsp;&emsp;(A) develop fee schedules and other database tools that fairly and accurately reflect market rates for medical services and the geographic differences in those rates;
 
 &emsp;&emsp;(B) use the best available statistical methods and data processing technology to develop such fee schedules and other database tools;
 

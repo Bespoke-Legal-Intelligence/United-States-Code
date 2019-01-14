@@ -18,7 +18,7 @@ In order to create an independent and objective office—
 
 #### Change of Name
 
-"Government Publishing Office" substituted for "Government Printing Office" in pars. (1) and (3) and concluding provisions on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
+"Government Publishing Office" substituted for "Government Printing Office" in pars. (1) and (3) andconcluding provisions on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
 
 #### Effective Date
 
@@ -30,7 +30,7 @@ For short title of title II of Pub. L. 100–504, which enacted this chapter, as
 
 #### Transfer of Office
 
-Pub. L. 100–504, title II, §203, Oct. 18, 1988, 102 Stat. 2531 transferred the office of the Government PrintingOffice referred to as the "Office of Inspector General", and the functions, powers, duties, and certain personnel of that office, to the Office of Inspector General in the Government Printing Office.
+Pub. L. 100–504, title II, §203, Oct. 18, 1988, 102 Stat. 2531 transferred the office of the Government Printing Office referred to as the "Office of Inspector General", and the functions, powers, duties, and certain personnel of that office, to the Office of Inspector General in the Government Printing Office.
 
 #### Payment Authority Subject to Appropriations
 

@@ -30,7 +30,7 @@ The order shall provide for the establishment and appointment by the Secretary, 
 
 &emsp;(A) Shares shall be assigned to each State—
 
-&emsp;&emsp;(i) for the 1986 calendar year, on the basis of one share for each $400,000 of farm marketvalue of porcine animals marketed from such State (as determined by the Secretary based on the annual average of farm market value in the most recent 3 calendar years preceding such year), rounded to the nearest $400,000; and
+&emsp;&emsp;(i) for the 1986 calendar year, on the basis of one share for each $400,000 of farm market value of porcine animals marketed from such State (as determined by the Secretary based on the annual average of farm market value in the most recent 3 calendar years preceding such year), rounded to the nearest $400,000; and
 
 &emsp;&emsp;(ii) for each calendar year thereafter, on the basis of one share for each $1,000 of the aggregate amount of assessments collected (minus refunds under section 4813 of this title) in such State from persons described in section 4809(a)(1)(A) and (B) of this title, rounded to the nearest $1,000.
 

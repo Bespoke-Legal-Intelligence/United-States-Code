@@ -6,7 +6,7 @@ The Congress finds that the participation of rural and urban poor people in thei
 
 #### (b) Payment of transportation charges on shipments by American National Red Cross and United States voluntary agencies
 
-In order to further the efficient use of United States voluntary contributions for development,relief, and rehabilitation of friendly peoples, the President is authorized to use funds made available for the purposes of this part and part X of this subchapter to pay transportation charges on shipments by the American National Red Cross and by United States voluntary agencies registered with the Agency for International Development.
+In order to further the efficient use of United States voluntary contributions for development, relief, and rehabilitation of friendly peoples, the President is authorized to use funds made available for the purposes of this part and part X of this subchapter to pay transportation charges on shipments by the American National Red Cross and by United States voluntary agencies registered with the Agency for International Development.
 
 #### (c) Reimbursement for transportation charges
 
@@ -156,7 +156,7 @@ Report.—The Administrator shall report the results of this study to the Congre
 
 Pub. L. 95–424, title I, §122, Oct. 6, 1978, 92 Stat. 954, as amended by Pub. L. 97–113, title VII, §734(a)(5), Dec. 29, 1981, 95 Stat. 1560, provided that:
 
-"(a) The Congress declares that the United States should place higher priority on the formulation and implementation of policies and programs to enable thepeople of African nations to develop their potential, fulfill their aspirations, and enjoy better, more productive lives. In furtherance of these objectives, the Congress finds that additional support is needed for community-based self-help activities in Africa and that an African Development Foundation, organized to further the purposes set forth in section 123 of the Foreign Assistance Act of 1961 \[this section\], can complement current United States development programs in Africa.
+"(a) The Congress declares that the United States should place higher priority on the formulation and implementation of policies and programs to enable the people of African nations to develop their potential, fulfill their aspirations, and enjoy better, more productive lives. In furtherance of these objectives, the Congress finds that additional support is needed for community-based self-help activities in Africa and that an African Development Foundation, organized to further the purposes set forth in section 123 of the Foreign Assistance Act of 1961 \[this section\], can complement current United States development programs in Africa.
 
 "(b) \[Repealed. Pub. L. 97–113, title VII, §734(a)(5), Dec. 29, 1981, 95 Stat. 1560.\]"
 

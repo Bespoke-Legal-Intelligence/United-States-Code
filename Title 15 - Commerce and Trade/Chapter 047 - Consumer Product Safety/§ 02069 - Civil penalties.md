@@ -14,7 +14,7 @@
 
 (B) Not later than December 1, 2011, and December 1 of each fifth calendar year thereafter, the Commission shall prescribe and publish in the Federal Register a schedule of maximum authorized penalties that shall apply for violations that occur after January 1 of the year immediately following such publication.
 
-(C) The schedule of maximum authorized penalties shall be prescribed by increasing each of the amounts referred to in paragraph (1) by the cost-of-living adjustment for the preceding fiveyears. Any increase determined under the preceding sentence shall be rounded to—
+(C) The schedule of maximum authorized penalties shall be prescribed by increasing each of the amounts referred to in paragraph (1) by the cost-of-living adjustment for the preceding five years. Any increase determined under the preceding sentence shall be rounded to—
 
 &emsp;(i) in the case of penalties greater than $1,000 but less than or equal to $10,000, the nearest multiple of $1,000;
 
@@ -44,7 +44,7 @@ Any civil penalty under this section may be compromised by the Commission. In de
 
 #### (d) "Knowingly" defined
 
-As used in the first sentence of subsection (a)(1) of this section, the term "knowingly" means (1) the having of actual knowledge, or (2) the presumed having of knowledge deemed to be possessed by a reasonable man who acts in the circumstances, including knowledge obtainable upon the exercise of due care to ascertain the truth of representations.
+As used in the first sentence of subsection (a)(1) of this section, the term "knowingly"means (1) the having of actual knowledge, or (2) the presumed having of knowledge deemed to be possessed by a reasonable man who acts in the circumstances, including knowledge obtainable upon the exercise of due care to ascertain the truth of representations.
 
 (Pub. L. 92–573, §20, Oct. 27, 1972, 86 Stat. 1225; Pub. L. 94–284, §13(b), May 11, 1976, 90 Stat. 509; Pub. L. 95–631, §6(c), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 97–35, title XII, §1211(c), Aug. 13, 1981, 95 Stat. 721; Pub. L. 101–608, title I, §§112(e), 115(a), Nov. 16, 1990, 104 Stat. 3117, 3118; Pub. L. 110–314, title II, §217(a)(1), (b)(1)(A), Aug. 14, 2008, 122 Stat. 3058.)
 

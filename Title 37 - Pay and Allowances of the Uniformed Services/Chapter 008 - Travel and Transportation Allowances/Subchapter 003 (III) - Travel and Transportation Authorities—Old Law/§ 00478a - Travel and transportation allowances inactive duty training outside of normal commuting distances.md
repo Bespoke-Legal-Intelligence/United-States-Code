@@ -2,7 +2,7 @@
 
 (a)
 
-Allowance Authorized.—The Secretary concerned may reimburse an eligible member of the Selected Reserve of the Ready Reserve for travel expenses for travel to an inactive duty training location to perform inactive duty training when the member is required to commute a distance from the member's permanent residence to the inactive duty training location that is outside the normal commuting distance (as determined under the regulations prescribed under subsection (d)) for that commute.
+Allowance Authorized.—The Secretary concerned may reimburse an eligible member of the Selected Reserve of the Ready Reserve for travel expenses for travel to an inactive duty training location to perform inactive duty training when the member is required to commute a distance from the member's permanent residence to the inactive duty training location that is outside the normal commuting distance\(as determined under the regulations prescribed under subsection (d)) for that commute.
 
 (b)
 

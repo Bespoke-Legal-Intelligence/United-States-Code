@@ -24,7 +24,7 @@ The Secretary of Defense may prescribe and issue such regulations as he deems ap
 
 #### Codification
 
-In subsec. (b), "section 5103 of title 5" and "paragraph (22) of section 5102(c) of title 5" substituted for "section 202 of the Classification Act of 1949" and "paragraph (33) of section 202 of such Act, added by section 3 of this Act" respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (b), "section 5103 of title 5" and "paragraph (22) of section 5102(c) of title 5" substituted for "section 202 of the Classification Act of 1949" and "paragraph (33) of section 202 of such Act, added by section 3 of thisAct" respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 Provisions of section 1(b) and (c) of Pub. L. 89–391 for amendment of subsec. (c) of this section and addition of other provisions as another subsec. (c), have been executed in the Code as an amendment of subsec. (c) of this section and addition of subsec. (e) of this section, respectively.
 
@@ -38,7 +38,7 @@ Subsec. (b)(1). Pub. L. 105–85, §1073(c)(9)(C), made technical correction to 
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201, §1606(b)(1)(B), substituted "the Department of Defense" for "his military department".
 
-Pub. L. 104–201, §1606(b)(1)(A), as amended by Pub. L. 105–85, §1073(c)(9)(B), substituted "Secretary of Defenseshall" for "secretary of each military department in the Department of Defense shall".
+Pub. L. 104–201, §1606(b)(1)(A), as amended by Pub. L. 105–85, §1073(c)(9)(B), substituted "Secretary of Defense shall" for "secretary of each military department in the Department of Defense shall".
 
 Subsec. (b). Pub. L. 104–201, §1606(b)(2)(A), substituted "Secretary of Defense—" for "secretary of each military department—" in introductory provisions.
 

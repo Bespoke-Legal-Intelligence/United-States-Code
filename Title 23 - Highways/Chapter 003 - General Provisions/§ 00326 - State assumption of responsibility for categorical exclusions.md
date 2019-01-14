@@ -96,7 +96,7 @@ Termination by the state.—The State may terminate the participation of the Sta
 
 (e)
 
-State Agency Deemed to Be Federal Agency.—A State agency that is assigned a responsibility under a memorandum of understanding shall be deemed to be a Federal agencyfor the purposes of the Federal law under which the responsibility is exercised.
+State Agency Deemed to Be Federal Agency.—A State agency that is assigned a responsibility under a memorandum of understanding shall be deemed to be a Federal agency for the purposes of the Federal law under which the responsibility is exercised.
 
 (f)
 

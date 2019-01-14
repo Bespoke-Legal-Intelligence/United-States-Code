@@ -16,7 +16,7 @@ Not later than 2 years after November 21, 2013, to the extent determined by the 
 
 Not later than 4 years after November 21, 2013, and annually thereafter, the Secretary,<sup>1</sup> shall—
 
-&emsp;(1) review the results of scientific research in conjunction with the Organ Procurement and Transplantation Network to determinewhether the results warrant revision of the standards of quality adopted under section 274(b)(2)(E) of this title with respect to donated organs infected with HIV and with respect to the safety of transplanting an organ with a particular strain of HIV into a recipient with a different strain of HIV;
+&emsp;(1) review the results of scientific research in conjunction with the Organ Procurement and Transplantation Network to determine whether the results warrant revision of the standards of quality adopted under section 274(b)(2)(E) of this title with respect to donated organs infected with HIV and with respect to the safety of transplanting an organ with a particular strain of HIV into a recipient with a different strain of HIV;
 
 &emsp;(2) if the Secretary determines under paragraph (1) that such results warrant revision of the standards of quality adopted under section 274(b)(2)(E) of this title with respect to donated organs infected with HIV and with respect to transplanting an organ with a particular strain of HIV into a recipient with a different strain of HIV, direct the Organ Procurement and Transplantation Network to revise such standards, consistent with section 274 of this title and in a way that ensures the changes will not reduce the safety of organ transplantation; and
 

@@ -10,7 +10,7 @@ In this section:
 
 #### (B) Clark County Off-Highway Vehicle Recreation Park
 
-&emsp;The term "Clark County Off-Highway Vehicle Recreation Park" means the approximately 960 acres of land identified on the Mapas "Clark County Off-Highway Vehicle Recreation Park".
+&emsp;The term "Clark County Off-Highway Vehicle Recreation Park" means the approximately 960 acres of land identified on the Map as "Clark County Off-Highway Vehicle Recreation Park".
 
 #### (C) County
 

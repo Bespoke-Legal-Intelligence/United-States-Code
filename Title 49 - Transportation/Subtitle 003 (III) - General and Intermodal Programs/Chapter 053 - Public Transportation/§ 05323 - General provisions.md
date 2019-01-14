@@ -80,7 +80,7 @@ Schoolbus Transportation.—
 
 &emsp;(1)
 
-Agreements.—Financial assistance under this chapter may be used for a capital project, or to operate public transportation equipment or a public transportation facility, only if the applicant agrees not to provide schoolbus transportation that exclusively transports students and school personnel in competition with a private schoolbus operator. This subsection does not apply—
+Agreements.—Financial assistance under this chapter may be used for a capital project, or to operate public transportation equipment or a public transportation facility, only if the applicant agrees not to provide schoolbus transportation that exclusively transports students and school personnel in competitionwith a private schoolbus operator. This subsection does not apply—
 
 &emsp;&emsp;(A) to an applicant that operates a school system in the area to be served and a separate and exclusive schoolbus program for the school system; and
 
@@ -238,7 +238,7 @@ Penalty for mislabeling and misrepresentation.—A person is ineligible under su
 
 &emsp;(9)
 
-State requirements.—The Secretary may not impose any limitation on assistance provided under this chapter that restricts a State from imposing more stringent requirements than this subsection on the use of articles, materials, and supplies mined, produced,or manufactured in foreign countries in projects carried out with that assistance or restricts a recipient of that assistance from complying with those State-imposed requirements.
+State requirements.—The Secretary may not impose any limitation on assistance provided under this chapter that restricts a State from imposing more stringent requirements than this subsection on the use of articles, materials, and supplies mined, produced, or manufactured in foreign countries in projects carried out with that assistance or restricts a recipient of that assistance from complying with those State-imposed requirements.
 
 &emsp;(10)
 
@@ -314,7 +314,7 @@ Environmental reviews.—Right-of-way acquired under this subsection may not be 
 
 (r)
 
-Reasonable Access to Public Transportation Facilities.—A recipient of assistance under this chapter may not deny reasonable access for a private intercity or charter transportation operator to federally funded public transportation facilities, including intermodal facilities, park and ride lots, and bus-only highwaylanes. In determining reasonable access, capacity requirements of the recipient of assistance and the extent to which access would be detrimental to existing public transportation services must be considered.
+Reasonable Access to Public Transportation Facilities.—A recipient of assistance under this chapter may not deny reasonable access for a private intercity or charter transportation operator to federally funded public transportation facilities, including intermodal facilities, park and ride lots, and bus-only highway lanes. In determining reasonable access, capacity requirements of the recipient of assistance and the extent to which access would be detrimental to existing public transportation services must be considered.
 
 (s)
 
@@ -328,7 +328,7 @@ Special Condition on Charter Bus Transportation Service.—If, in a fiscal year,
 
 &emsp;(2) any amounts withheld pursuant to paragraph (1) shall be added to the amount that the Secretary may apportion under section 5336 in the following fiscal year.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(15), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3020, June 9, 1998, 112 Stat. 362; Pub. L. 109–59, title III, §§3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005, 119 Stat. 1545, 1615–1619; Pub. L. 110–244, title II, §201(j), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20016, July 6, 2012, 126 Stat. 697; Pub. L. 114–94, div. A, title III, §3011, Dec. 4, 2015, 129 Stat. 1474.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(15), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3020, June 9, 1998, 112 Stat. 362; Pub. L. 109–59, title III, §§3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005,119 Stat. 1545, 1615–1619; Pub. L. 110–244, title II, §201(j), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20016, July 6, 2012, 126 Stat. 697; Pub. L. 114–94, div. A, title III, §3011, Dec. 4, 2015, 129 Stat. 1474.)
 
 Historical and Revision Notes
 
@@ -468,7 +468,7 @@ In subsection (d)(2), the words "alleged", "take appropriate action to", "and co
 
 In subsection (e), the words "This subsection shall apply to" and "which is acquiring such buses" are omitted as surplus. The words "occurring on or after November 6, 1978" are omitted as executed. The words "In the case of" are omitted as surplus. The words "may include" are substituted for "the Secretary shall permit . . . to provide in advertising for bids for" to eliminate unnecessary words.
 
-In subsection (f)(1), before clause (A), the words "for use in providing public", "to any applicant for such assistance", and "and the Secretary" are omitted as surplus. The word "agrees" is substituted for "shall have first entered into an agreement that such applicant" to eliminate unnecessary words. In clause (A), the words "with respect to operation of a schoolbus program" are omitted as surplus.
+In subsection (f)(1), before clause (A), the words "for use in providing public", "to any applicant for such assistance", and "and the Secretary" are omitted as surplus. The word "agrees" is substituted for "shall havefirst entered into an agreement that such applicant" to eliminate unnecessary words. In clause (A), the words "with respect to operation of a schoolbus program" are omitted as surplus.
 
 Subsection (g) is substituted for 49 App.:1602a to eliminate unnecessary words.
 
@@ -538,7 +538,7 @@ Subsec. (j)(5) to (11). Pub. L. 114–94, §3011(2)(B)–(D), added pars. (5) an
 
 Subsec. (j)(12), (13). Pub. L. 114–94, §3011(2)(E), added pars. (12) and (13).
 
-Subsec. (q)(1). Pub. L. 114–94, §3011(3), struck out at end "The Secretary may establish restrictions on suchan acquisition as the Secretary determines to be necessary and appropriate."
+Subsec. (q)(1). Pub. L. 114–94, §3011(3), struck out at end "The Secretary may establish restrictions on such an acquisition as the Secretary determines to be necessary and appropriate."
 
 Subsecs. (s), (t). Pub. L. 114–94, §3011(4), added subsecs. (s) and (t).
 
@@ -554,7 +554,7 @@ Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass tr
 
 Subsec. (b). Pub. L. 109–59, §3023(b), reenacted heading without change and amended text of subsec. (b) generally, substituting provisions relating to general requirements, notice, and application requirements, consisting of pars. (1) to (3), for provisions relating to application requirements and notice, consisting of pars. (1) and (2).
 
-Subsec. (c). Pub. L. 109–59, §3023(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "Amounts appropriated or made available under this chapter after September 30, 1989, may be obligated or expended to acquire a new bus model only if a bus of the model has been tested at the facility established under section 5318 of this title."
+Subsec. (c). Pub. L. 109–59, §3023(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "Amounts appropriated or made available under this chapter after September 30, 1989, may be obligated or expended to acquire a new busmodel only if a bus of the model has been tested at the facility established under section 5318 of this title."
 
 Subsec. (d)(1). Pub. L. 109–59, §3023(d)(1), inserted heading.
 

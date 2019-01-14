@@ -28,11 +28,9 @@ An individual who establishes an individual retirement plan shall not be require
 
 For purposes of this section, the term "special IRP tax" means a tax imposed by—
 
-&emsp;(1) section 408(f),<sup>1</sup>
+&emsp;(1) section 4973, or
 
-&emsp;(2) section 4973, or
-
-&emsp;(3) section 4974.
+&emsp;(2) section 4974.
 
 #### (f) Cross references
 
@@ -40,15 +38,15 @@ For purposes of this section, the term "special IRP tax" means a tax imposed by�
 
 &emsp;&emsp;<b>For coordination between the Department of the Treasury and the Department of Labor with respect to the information required under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.</b>
 
-(Added Pub. L. 93–406, title II, §1031(a), Sept. 2, 1974, 88 Stat. 945; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §157(k)(1), Nov. 6, 1978, 92 Stat. 2809; Pub. L. 98–369, div. A, title IV, §491(d)(48), July 18, 1984, 98 Stat. 852; Pub. L. 99–514, title XV, §1501(d)(1)(D), Oct. 22, 1986, 100 Stat. 2740.)
+(Added Pub. L. 93–406, title II, §1031(a), Sept. 2, 1974, 88 Stat. 945; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §157(k)(1), Nov. 6, 1978, 92 Stat. 2809; Pub. L. 98–369, div. A, title IV, §491(d)(48), July 18, 1984, 98 Stat. 852; Pub. L. 99–514, title XV, §1501(d)(1)(D), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 115–141, div. U, title IV, §401(a)(264), Mar. 23, 2018, 132 Stat. 1197.)
 
 #### References in Text
-
-Section 408(f), referred to in subsec. (e)(1), was repealed by Pub. L. 99–514, title XI, §1123(d)(2), Oct. 22, 1986, 100 Stat. 2475.
 
 Section 3004 of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f), is classified to section 1204 of Title 29, Labor.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e). Pub. L. 115–141 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: "section 408(f),".
 
 <b>1986</b>—Subsec. (f). Pub. L. 99–514 substituted "section 6652(e)" for "section 6652(f)".
 
@@ -66,7 +64,7 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
+Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) ofPub. L. 98–369, set out as a note under section 62 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -121,6 +119,4 @@ Effective date.—The provisions of this subsection shall apply to plan years be
 Simplified Annual Filing Requirement for Plans With Fewer Than 25
 
 Participants.—In the case of plan years beginning after December 31, 2006, the Secretary of the Treasury and the Secretary of Labor shall provide for the filing of a simplified annual return for any retirement plan which covers less than 25 participants on the first day of a plan year and which meets the requirements described in subparagraphs (B), (D), and (E) of subsection (a)(2)."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

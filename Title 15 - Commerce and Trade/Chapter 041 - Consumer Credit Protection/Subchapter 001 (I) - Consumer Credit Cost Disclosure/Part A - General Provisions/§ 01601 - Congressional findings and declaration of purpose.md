@@ -48,6 +48,10 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 Section 504(a) of Pub. L. 90–321 provided that this part is effective May 29, 1968.
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–174, §1(a), May 24, 2018, 132 Stat. 1296, provided that: "This Act \[see Tables for classification\] may be cited as the 'Economic Growth, Regulatory Relief, and Consumer Protection Act'."
+
 #### Short Title of 2015 Amendment
 
 Pub. L. 114–94, div. G, title LXXXIX, §89001, Dec. 4, 2015, 129 Stat. 1799, provided that: "This title \[amending sections 1639c and 1639d of this title and enacting provisions set out as a note under section 5512 of Title 12, Banks and Banking\] may be cited as the 'Helping Expand Lending Practices in Rural Communities Act of 2015' or the 'HELP Rural Communities Act of 2015'."
@@ -66,7 +70,7 @@ Pub. L. 111–24, §1(a), May 22, 2009, 123 Stat. 1734, provided that: "This Act
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–315, title X, §1001, Aug. 14, 2008, 122 Stat. 3478, provided that: "This title \[enacting section 1650 ofthis title and sections 1019d and 9709 of Title 20, Education, amending sections 1602, 1603, 1638, and 1640 of this title, section 2903 of Title 12, Banks and Banking, and section 1092 of Title 20, and enacting provisions set out as notes under sections 1638 and 1640 of this title, section 2903 of Title 12, and section 9709 of Title 20\] may be cited as the 'Private Student Loan Transparency and Improvement Act of 2008'."
+Pub. L. 110–315, title X, §1001, Aug. 14, 2008, 122 Stat. 3478, provided that: "This title \[enacting section 1650 of this title and sections 1019d and 9709 of Title 20, Education, amending sections 1602, 1603, 1638, and 1640 of this title, section 2903 of Title 12, Banks and Banking, and section 1092 of Title 20, and enacting provisions set out as notes under sections 1638 and 1640 of this title, section 2903 of Title 12, and section 9709 of Title 20\] may be cited as the 'Private Student Loan Transparency and Improvement Act of 2008'."
 
 Pub. L. 110–289, div. B, title V, §2501, July 30, 2008, 122 Stat. 2855, provided that: "This title \[amending sections 1638 and 1640 of this title and sections 24 and 338a of Title 12, Banks and Banking, and enacting provisions set out as a note under section 1638 of this title\] may be cited as the 'Mortgage Disclosure Improvement Act of 2008'."
 

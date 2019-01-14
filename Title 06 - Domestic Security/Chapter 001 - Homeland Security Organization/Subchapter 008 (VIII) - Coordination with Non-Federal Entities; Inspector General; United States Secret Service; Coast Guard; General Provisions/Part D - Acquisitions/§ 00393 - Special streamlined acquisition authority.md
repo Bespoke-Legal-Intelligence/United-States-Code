@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may use the authorities set forth in this section with respect to any procurement made during the period beginning on the effective date of this chapter and ending September 30, 2007, if the Secretary determines in writing that the mission of the Department (as described in section 111 of this title) would be seriously impaired without the use of such authorities.
+&emsp;The Secretary may use the authorities set forth in this section with respect to any procurement made during the period beginning onthe effective date of this chapter and ending September 30, 2007, if the Secretary determines in writing that the mission of the Department (as described in section 111 of this title) would be seriously impaired without the use of such authorities.
 
 #### (2) Delegation
 
@@ -88,7 +88,7 @@ Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (d)(3),
 
 #### Codification
 
-In subsec. (b)(1), "section 1902 of title 41" substituted for "section 32 of the Office of Federal Procurement Policy Act (41 U.S.C. 428)" and "subsections (a), (d), and (e) of such section 1902" substituted for "subsections (c), (d), and (f) of such section 32" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1), "section 1902 of title 41" substituted for "section 32 of the Office of Federal ProcurementPolicy Act (41 U.S.C. 428)" and "subsections (a), (d), and (e) of such section 1902" substituted for "subsections (c), (d), and (f) of such section 32" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (b)(2)(A), "section 1902(d) of title 41" substituted for "section 32(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 428(c))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

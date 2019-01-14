@@ -58,7 +58,7 @@ For the purposes of this division, the term "eligible entity" means—
 
 #### Prior Provisions
 
-A prior section 1070a–21, Pub. L. 89–329, title IV, §404A, as added Pub. L. 102–325, title IV, §402(a)(4), July23, 1992, 106 Stat. 492; amended Pub. L. 103–208, §2(b)(12), Dec. 20, 1993, 107 Stat. 2459, authorized establishment of early intervention program, prior to the general amendment of this division by Pub. L. 105–244.
+A prior section 1070a–21, Pub. L. 89–329, title IV, §404A, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 492; amended Pub. L. 103–208, §2(b)(12), Dec. 20, 1993, 107 Stat. 2459, authorized establishment of early intervention program, prior to the general amendment of this division by Pub. L. 105–244.
 
 #### Amendments
 

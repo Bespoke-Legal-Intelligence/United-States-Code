@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the requirements described in the succeeding paragraphs of this subsection are met; and
 
-&emsp;&emsp;&emsp;(ii) may restrict the number of provider agreements with managed care entitiesunder the State plan if such restriction does not substantially impair access to services.
+&emsp;&emsp;&emsp;(ii) may restrict the number of provider agreements with managed care entities under the State plan if such restriction does not substantially impair access to services.
 
 #### (B) "Managed care entity" defined
 
@@ -474,7 +474,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a managed care entity which has failed to meet the requirements of this part or a contract under section 1396b(m) or 1396d(t)(3) of this title, the State shall have the authority to terminate such contract with the entity and to enroll such entity's enrollees with other managed care entities (or to permit such enrollees to receive medical assistance under the State plan under this subchapter other than through a managed care entity).
+&emsp;&emsp;In the case of a managed care entity which has failed to meet the requirements of this part or a contract under section 1396b(m) or 1396d(t)(3) of this title, the State shall have the authority to terminate such contract with the entity and to enroll such entity'senrollees with other managed care entities (or to permit such enrollees to receive medical assistance under the State plan under this subchapter other than through a managed care entity).
 
 #### (B) Availability of hearing prior to termination of contract
 
@@ -494,7 +494,7 @@
 
 #### (f) Timeliness of payment; adequacy of payment for primary care services
 
-A contract under section 1396b(m) of this title with a medicaid managed care organization shall provide that the organization shall make payment to health care providers for items and services which are subject to the contract and that are furnished to individuals eligible for medical assistance under the State plan under this subchapter who are enrolled with the organization on a timely basis consistent with the claims payment procedures described in section 1396a(a)(37)(A) of this title, unless the health care provider and the organization agree to an alternate payment schedule and, in the case of primary care services described in section 1396a(a)(13)(C) of this title, consistent with the minimum payment rates specified in such section (regardless of the manner in which suchpayments are made, including in the form of capitation or partial capitation).
+A contract under section 1396b(m) of this title with a medicaid managed care organization shall provide that the organization shall make payment to health care providers for items and services which are subject to the contract and that are furnished to individuals eligible for medical assistance under the State plan under this subchapter who are enrolled with the organization on a timely basis consistent with the claims payment procedures described in section 1396a(a)(37)(A) of this title, unless the health care provider and the organization agree to an alternate payment schedule and, in the case of primary care services described in section 1396a(a)(13)(C) of this title, consistent with the minimum payment rates specified in such section (regardless of the manner in which such payments are made, including in the form of capitation or partial capitation).
 
 #### (g) Identification of patients for purposes of making DSH payments
 
@@ -548,7 +548,7 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 #### (ii) Payment rate for services provided by certain Indian health care providers
 
-&emsp;&emsp;&emsp;If the amount paid by a managed care entity to an Indian health care provider that is not a federally-qualified health center for services provided by the provider to an Indian enrollee with the managed care entity is less than the rate thatapplies to the provision of such services by the provider under the State plan, the plan shall provide for payment to the Indian health care provider, whether the provider is a participating or nonparticipating provider with respect to the entity, of the difference between such applicable rate and the amount paid by the managed care entity to the provider for such services.
+&emsp;&emsp;&emsp;If the amount paid by a managed care entity to an Indian health care provider that is not a federally-qualified health center for services provided by the provider to an Indian enrollee with the managed care entity is less than the rate that applies to the provision of such services by the provider under the State plan, the plan shall provide for payment to the Indian health care provider, whether the provider is a participating or nonparticipating provider with respect to the entity, of the difference between such applicable rate and the amount paid by the managed care entity to the provider for such services.
 
 #### (D) Construction
 
@@ -582,7 +582,11 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 &emsp;&emsp;The term "Medicaid managed care program" means a program under sections 1396b(m), 1396d(t), and 1396u–2 of this title and includes a managed care program operating under a waiver under section 1396n(b) or 1315 of this title or otherwise.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121; Pub. L. 111–5, div. B, title V, §5006(d)(1), Feb. 17, 2009, 123 Stat. 507; Pub. L. 111–152, title I, §1202(a)(2), Mar. 30, 2010, 124 Stat. 1053; Pub. L. 114–255, div. A, title V, §5005(a)(2), (b)(2), Dec. 13, 2016, 130 Stat. 1192, 1193.)
+#### (i) Drug utilization review activities and requirements
+
+Beginning not later than October 1, 2019, each contract under a State plan with a managed care entity (other than a primary care case manager) under section 1396b(m) of this title shall provide that the entity is in compliance with the applicable provisions of section 438.3(s)(2) of title 42, Code of Federal Regulations, section 483.3(s)(4)) <sup>2</sup> of such title, and section 483.3(s)(5) <sup>3</sup> of such title, as such provisions were in effect on March 31, 2018.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121; Pub. L. 111–5, div. B, title V, §5006(d)(1), Feb. 17, 2009, 123 Stat. 507; Pub. L. 111–152, title I, §1202(a)(2), Mar. 30, 2010, 124 Stat. 1053; Pub. L. 114–255, div. A, title V, §5005(a)(2), (b)(2), Dec. 13, 2016, 130 Stat. 1192, 1193; Pub. L. 115–271, title I, §1004(a)(3), Oct. 24, 2018, 132 Stat. 3911.)
 
 #### References in Text
 
@@ -615,6 +619,8 @@ In subsec. (d)(3), "chapter 21 of title 41" substituted for "section 27 of the O
 A prior section 1932 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (i). Pub. L. 115–271 added subsec. (i).
 
 <b>2016</b>—Subsec. (d)(5). Pub. L. 114–255, §5005(a)(2), added par. (5).
 
@@ -699,4 +705,8 @@ Study.—The Secretary of Health and Human Services, in consultation with States
 Report.—Not later than 2 years after the date of the enactment of this Act \[Aug. 5, 1997\], the Secretary shall submit to Committees described in paragraph (1)(B) a report on such study."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be section "438.3(s)(4)" and second parenthesis probably should not appear.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be section "438.3(s)(5)".</i>
 

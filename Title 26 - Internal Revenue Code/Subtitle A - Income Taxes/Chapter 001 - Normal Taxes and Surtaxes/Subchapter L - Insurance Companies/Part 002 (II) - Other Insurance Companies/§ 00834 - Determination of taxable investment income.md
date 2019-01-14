@@ -34,7 +34,7 @@ In computing taxable investment income, the following deductions shall be allowe
 
 #### (3) Real estate expenses
 
-&emsp;Taxes (as provided in section 164), and other expenses, paid or accrued during the taxable year exclusively on or with respect to the real estate owned by the company. No deduction shall be allowed under this paragraph for any amount paid out for new buildings, or for permanent improvements or betterments made to increase the value of any property.
+&emsp;Taxes (as provided in section 164), and other expenses, paid or accrued during the taxableyear exclusively on or with respect to the real estate owned by the company. No deduction shall be allowed under this paragraph for any amount paid out for new buildings, or for permanent improvements or betterments made to increase the value of any property.
 
 #### (4) Depreciation
 
@@ -98,7 +98,7 @@ For purposes of this part—
 
 #### (2) Dividends to policyholders
 
-&emsp;The term "dividends to policyholders" means dividends and similar distributions paid or declared to policyholders. For purposes of the preceding sentence, the term "paid or declared" shall be construed according to the method regularly employed in keeping the books of the insurance company.
+&emsp;The term "dividends to policyholders" means dividends and similar distributions paid or declared to policyholders. For purposes of the preceding sentence, the term "paid or declared" shall be construed according to themethod regularly employed in keeping the books of the insurance company.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 261, §822; Mar. 13, 1956, ch. 83, §3(a)(3)–(8), 70 Stat. 47, 48; Pub. L. 87–834, §8(b), Oct. 16, 1962, 76 Stat. 991; Pub. L. 88–272, title II, §228(b)(2), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, §104(i)(5), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§1901(a)(105), (b)(1)(P)–(S), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; renumbered §834 and amended Pub. L. 99–514, title X, §1024(a)(3), (c)(7), (8), Oct. 22, 1986, 100 Stat. 2405, 2407; Pub. L. 115–97, title I, §13001(b)(2)(I), Dec. 22, 2017, 131 Stat. 2096.)
 

@@ -8,7 +8,7 @@ For purposes of section 461(h), economic performance shall be deemed to occur as
 
 #### (1) In general
 
-&emsp;There is imposed on the gross income of any designated settlement fund for any taxableyear a tax at a rate equal to the maximum rate in effect for such taxable year under section 1(e).
+&emsp;There is imposed on the gross income of any designated settlement fund for any taxable year a tax at a rate equal to the maximum rate in effect for such taxable year under section 1(e).
 
 #### (2) Certain expenses allowed
 
@@ -100,7 +100,7 @@ Except as provided in regulations, any payment in respect of a liability describ
 
 &emsp;&emsp;(A) it is established pursuant to a consent decree entered by a judge of a United States District Court,
 
-&emsp;&emsp;(B) it is created for the receipt of settlement payments as directed by a government entity for the sole purpose of resolving orsatisfying one or more claims asserting liability under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980,
+&emsp;&emsp;(B) it is created for the receipt of settlement payments as directed by a government entity for the sole purpose of resolving or satisfying one or more claims asserting liability under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980,
 
 &emsp;&emsp;(C) the authority and control over the expenditure of funds therein (including the expenditure of contributions thereto and any net earnings thereon) is with such government entity, and
 
@@ -142,7 +142,7 @@ Pub. L. 109–222, title II, §201(b), May 17, 2006, 120 Stat. 348, provided tha
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
+Amendment by Pub. L. 101–508 effective as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which suchamendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -168,5 +168,5 @@ Pub. L. 99–514, title XVIII, §1807(a)(7)(C), Oct. 22, 1986, 100 Stat. 2816, a
 
 #### Clarification of Law With Respect to Certain Funds
 
-Pub. L. 99–514, title XVIII, §1807(a)(7)(D), Oct. 22, 1986, 100 Stat. 2816, provided that nothing in any provision of law be construed as providing that an escrow account, settlement fund, or similar fund established after Aug. 16, 1986, not be subject to current income tax and thatif contributions to such account or fund are not deductible then the account or fund be taxed as a grantor trust, prior to repeal by Pub. L. 100–647, title I, §1018(f)(5)(B), Nov. 10, 1988, 102 Stat. 3582.
+Pub. L. 99–514, title XVIII, §1807(a)(7)(D), Oct. 22, 1986, 100 Stat. 2816, provided that nothing in any provision of law be construed as providing that an escrow account, settlement fund, or similar fund established after Aug. 16, 1986, not be subject to current income tax and that if contributions to such account or fund are not deductible then the account or fund be taxed as a grantor trust, prior to repeal by Pub. L. 100–647, title I, §1018(f)(5)(B), Nov. 10, 1988, 102 Stat. 3582.
 

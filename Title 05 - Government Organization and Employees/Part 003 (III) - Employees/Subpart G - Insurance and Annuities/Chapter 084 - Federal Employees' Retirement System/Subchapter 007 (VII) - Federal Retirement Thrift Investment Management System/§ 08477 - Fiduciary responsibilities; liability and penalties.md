@@ -80,7 +80,7 @@
 
 &emsp;(A) deal with any assets of the Thrift Savings Fund in his own interest or for his own account;
 
-&emsp;(B) act, in an individual capacity or any other capacity, in any transaction involving the Thrift Savings Fund on behalf of a party, or representing a party, whose interests are adverse to the interests of the Thrift Savings Fund or the interests of its participants or beneficiaries; or
+&emsp;(B) act, in an individual capacity or any other capacity, in any transaction involving the Thrift Savings Fund on behalf of a party, or representing a party, whose interests are adverse to the interests of the Thrift SavingsFund or the interests of its participants or beneficiaries; or
 
 &emsp;(C) receive any consideration for his own personal account from any party dealing with sums credited to the Thrift Savings Fund in connection with a transaction involving assets of the Thrift Savings Fund.
 
@@ -138,7 +138,7 @@
 
 (E) The Secretary of Labor shall prescribe, in regulations, procedures for allocating fiduciary responsibilities among fiduciaries, including investment managers. Any fiduciary who, pursuant to such procedures, allocates to a person or persons any fiduciary responsibility shall not be liable for an act or omission of such person or persons unless—
 
-&emsp;(i) such fiduciary violated subsection (b) with respect to the allocation, with respect to the implementation of the procedures prescribed by the Secretary of Labor (or the Board under section 114 of the Federal Employees' Retirement System Technical Corrections Act of 1986), or in continuing such allocation; or
+&emsp;(i) such fiduciary violated subsection (b) with respect to the allocation, with respect tothe implementation of the procedures prescribed by the Secretary of Labor (or the Board under section 114 of the Federal Employees' Retirement System Technical Corrections Act of 1986), or in continuing such allocation; or
 
 &emsp;(ii) such fiduciary would otherwise be liable in accordance with subparagraph (D).
 
@@ -182,7 +182,7 @@
 
 &emsp;(ii) deemed a tort action brought against the United States under the provisions of title 28 and all references thereto.
 
-(D) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28, and with the same effect. To the extent section 2672 of title 28 provides that persons other than the Attorney General or his designee may compromise and settle claims, and that payment of such claims may be made from agency appropriations, such provisions shall notapply to claims based upon an alleged violation of subsection (b) or (c).
+(D) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28, and with the same effect. To the extent section 2672 of title 28 provides that persons other than the Attorney General or his designee may compromise and settle claims, and that payment of such claims may be made from agency appropriations, such provisions shall not apply to claims based upon an alleged violation of subsection (b) or (c).
 
 (E) For the purposes of paragraph (3)(C)(ii) the provisions of sections 2680(h) of title 28 shall not apply to any claim based upon an alleged violation of subsection (b) or (c).
 
@@ -258,7 +258,7 @@ Subsec. (e)(2), (3). Pub. L. 100–238, §133(a)(5), added pars. (2) and (3) and
 
 &emsp;&emsp;"(ii) to obtain any other appropriate equitable relief to redress a violation of any such provision; or
 
-&emsp;"(C) by any participant or beneficiary to recover benefits due to him or her under the provisions of subchapter III of this chapter, to enforce his or herrights under such provisions, or to clarify his or her rights to future benefits under such provisions.
+&emsp;"(C) by any participant or beneficiary to recover benefits due to him or her under the provisions of subchapter III of this chapter, to enforce his or her rights under such provisions, or to clarify his or her rights to future benefits under such provisions.
 
 "(3) An action may not be commenced under paragraph (2) with respect to a fiduciary's breach of any responsibility, duty, or obligation under subsection (b) or a violation of subsection (c) after the earlier of—
 

@@ -44,7 +44,7 @@ In clause (1), the words "an organization within the Federal Aviation Administra
 
 Act of September 7, 1950, ch. 905, 64 Stat. 770, referred to in par. (4), was classified to subchapter II (§2421 et seq.) of chapter 33 of former Title 49, Transportation, and was omitted from the Code when subtitles II, III, and V to X of Title 49, Transportation, were enacted by Pub. L. 103–272, July 5, 1994, 108 Stat. 745.
 
-Act of June 29, 1940, ch. 444, 54 Stat. 686, referred to in par. (5), was classified to subchapter I (§2401 et seq.) of chapter 33 of former Title 49, Transportation, and was omitted from the Code when subtitles II, III, and V to X of Title 49, Transportation, were enacted by Pub. L. 103–272, July 5, 1994, 108 Stat. 745.
+Act of June 29, 1940, ch. 444, 54 Stat. 686, referred to in par. (5), was classified to subchapter I (§2401 et seq.) of chapter 33 of former Title 49, Transportation, and was omitted from the Code when subtitles II, III, and Vto X of Title 49, Transportation, were enacted by Pub. L. 103–272, July 5, 1994, 108 Stat. 745.
 
 #### Prior Provisions
 

@@ -28,7 +28,7 @@ In this section:
 
 #### (1) Indian tribe; tribal organization
 
-&emsp;The terms "Indian tribe" and "tribal organization" mean a tribe, band, or other organized group recognized in the State in which the tribe, band, or group resides, or considered bythe Secretary of the Interior, to be an Indian tribe or an Indian organization for any purpose.
+&emsp;The terms "Indian tribe" and "tribal organization" mean a tribe, band, or other organized group recognized in the State in which the tribe, band, or group resides, or considered by the Secretary of the Interior, to be an Indian tribe or an Indian organization for any purpose.
 
 #### (2) Indian
 
@@ -38,7 +38,7 @@ In this section:
 
 #### Prior Provisions
 
-A prior section 9911, Pub. L. 97–35, title VI, §683, formerly §682, as added Pub. L. 101–501, title IV, §407(a), Nov. 3, 1990, 104 Stat. 1254; amended Pub. L. 103–171, §7(b), Dec. 2, 1993, 107 Stat. 1993; renumbered §683, Pub. L. 103–252, title II, §205(1), May 18, 1994, 108 Stat. 655, related to annual reports by Secretary, prior to the general amendment of this chapter by Pub. L. 105–285.
+A prior section 9911, Pub. L. 97–35, title VI, §683, formerly §682, as added Pub. L. 101–501, title IV, §407(a), Nov. 3, 1990, 104 Stat. 1254; amended Pub. L. 103–171,§7(b), Dec. 2, 1993, 107 Stat. 1993; renumbered §683, Pub. L. 103–252, title II, §205(1), May 18, 1994, 108 Stat. 655, related to annual reports by Secretary, prior to the general amendment of this chapter by Pub. L. 105–285.
 
 Another prior section 9911, Pub. L. 97–35, title VI, §682, Aug. 13, 1981, 95 Stat. 518; Pub. L. 97–115, §17(c), Dec. 29, 1981, 95 Stat. 1609; Pub. L. 97–274, Sept. 30, 1982, 96 Stat. 1183, related to transition provisions, prior to repeal by Pub. L. 101–501, §407(a).
 

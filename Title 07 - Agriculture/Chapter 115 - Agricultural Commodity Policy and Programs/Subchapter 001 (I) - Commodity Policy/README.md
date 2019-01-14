@@ -13,4 +13,4 @@
 - [&sect; 09016 - Price loss coverage](%C2%A7%2009016%20-%20Price%20loss%20coverage.md)
 - [&sect; 09017 - Agriculture risk coverage](%C2%A7%2009017%20-%20Agriculture%20risk%20coverage.md)
 - [&sect; 09018 - Producer agreements](%C2%A7%2009018%20-%20Producer%20agreements.md)
-- [&sect; 09019 - Transition assistance for producers of upland cotton](%C2%A7%2009019%20-%20Transition%20assistance%20for%20producers%20of%20upland%20cotton.md)
+- [&sect; 09019 - Repealed. Pub. L. 115&#8211;334, title I, &sect;1108, Dec. 20, 2018, 132 Stat. 4508](%C2%A7%2009019%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20I%2C%20%C2%A71108%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204508.md)

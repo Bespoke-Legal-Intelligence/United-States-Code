@@ -14,7 +14,7 @@ In accordance with sections 389 to 389e of this title, the order of the Secretar
 
 #### Klamath Indian Irrigation Project
 
-In accordance with sections 389 to 389e of this title, the order of the Secretary of the Interior canceling $401,440.55 of reimbursable irrigation costs and any accrued interest thereon chargeable to lands in the Klamath Indian irrigation project, was approved by Pub. L. 88–456, Aug. 20, 1964, 78 Stat. 554.
+In accordance with sections 389 to 389e of this title, the order of the Secretary of the Interior canceling$401,440.55 of reimbursable irrigation costs and any accrued interest thereon chargeable to lands in the Klamath Indian irrigation project, was approved by Pub. L. 88–456, Aug. 20, 1964, 78 Stat. 554.
 
 #### Oroville-Tonasket Irrigation District
 

@@ -44,13 +44,13 @@
 
 &emsp;(A) the Board shall render its decision within 30 days;
 
-&emsp;(B) for proposed sales, the Board shall determine the price and other terms of sale, exceptthat in no case shall the Board set a price which is below the fair market value of the line (including, unless otherwise mutually agreed, all facilities on the line or portion necessary to provide effective transportation services); and
+&emsp;(B) for proposed sales, the Board shall determine the price and other terms of sale, except that in no case shall the Board set a price which is below the fair market value of the line (including, unless otherwise mutually agreed, all facilities on the line or portion necessary to provide effective transportation services); and
 
 &emsp;(C) for proposed subsidies, the Board shall establish the compensation as the difference between the revenues attributable to that part of the railroad line and the avoidable cost of providing rail freight transportation on the line, plus a reasonable return on the value of the line.
 
 (2) The decision of the Board shall be binding on both parties, except that the person who has offered to subsidize or purchase the line may withdraw his offer within 10 days of the Board's decision. In such a case, the abandonment or discontinuance may be carried out immediately, unless other offers are being considered pursuant to paragraph (3) of this subsection.
 
-(3) If a rail carrier receives more than one offer to subsidize or purchase, it shall select the offeror with whom it wishes to transact business, and complete the subsidy or sale agreement, or request that the Board establish the conditions and amount of compensation before the 40th day after the expiration of the 4-month period described in subsection (c). If no agreement on subsidy or sale is reached within such 40-day period and the Board has not been requested to establish the conditions and amount of compensation, any other offeror whose offer was made within the 4-month period described in subsection (c) may request that the Board establish the conditions and amount of compensation. If the Board has established the conditions and amount of compensation, and the original offer has been withdrawn, any other offeror whose offer was made within the 4-month period described in subsection (c) may accept the Board's decision within 20 days after such decision, and the Board shall require the carrier to enter into a subsidy or sale agreement with such offeror, if such subsidy or sale agreement incorporates the Board's decision.
+(3) If a rail carrier receives more than one offer to subsidize or purchase, it shall select the offeror with whom it wishes to transact business, and complete the subsidy or sale agreement, or request that the Board establish the conditions and amount of compensation before the 40th day after the expiration of the 4-month period described in subsection (c). If no agreement on subsidy or sale is reached within such40-day period and the Board has not been requested to establish the conditions and amount of compensation, any other offeror whose offer was made within the 4-month period described in subsection (c) may request that the Board establish the conditions and amount of compensation. If the Board has established the conditions and amount of compensation, and the original offer has been withdrawn, any other offeror whose offer was made within the 4-month period described in subsection (c) may accept the Board's decision within 20 days after such decision, and the Board shall require the carrier to enter into a subsidy or sale agreement with such offeror, if such subsidy or sale agreement incorporates the Board's decision.
 
 (4)(A) No purchaser of a line or portion of line sold under this section may transfer or discontinue service on such line prior to the end of the second year after consummation of the sale, nor may such purchaser transfer such line, except to the rail carrier from whom it was purchased, prior to the end of the fifth year after consummation of the sale.
 
@@ -65,4 +65,8 @@
 Provisions similar to those in this section were contained in section 10905 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 A prior section 10904, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1404; Pub. L. 96–448, title IV, §402(b), Oct. 14, 1980, 94 Stat. 1941; Pub. L. 98–216, §2(4), Feb. 14, 1984, 98 Stat. 5, related to filing and procedure for applications to abandon or discontinue railroad lines or rail transportation, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See section 10903 of this title.
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

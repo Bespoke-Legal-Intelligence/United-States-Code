@@ -40,7 +40,7 @@ Where the donor transfers an interest in property, if by such transfer his spous
 
 &emsp;&emsp;(A) for purposes of subsection (a), such property shall be treated as transferred to the donee spouse, and
 
-&emsp;&emsp;(B) for purposes of subsection (b)(1), no part of such property shall be considered asretained in the donor or transferred to any person other than the donee spouse.
+&emsp;&emsp;(B) for purposes of subsection (b)(1), no part of such property shall be considered as retained in the donor or transferred to any person other than the donee spouse.
 
 #### (2) Qualified terminable interest property
 
@@ -98,11 +98,11 @@ Where the donor transfers an interest in property, if by such transfer his spous
 
 #### (1) In general
 
-&emsp;If, after the transfer, the donee spouse is the only noncharitable beneficiary (other than the donor) of a qualified charitable remainder trust, subsection (b) shall not apply to the interest in such trust which is transferred to the donee spouse.
+&emsp;If, after the transfer, the donee spouse is the only beneficiary who is not a charitable beneficiary (other than the donor) of a qualified charitable remainder trust, subsection (b) shall not apply to the interest in such trust which is transferred to the donee spouse.
 
 #### (2) Definitions
 
-&emsp;For purposes of paragraph (1), the term "noncharitable beneficiary" and "qualified charitable remainder trust" have the meanings given to such terms by section 2056(b)(8)(B).<sup>1</sup>
+&emsp;For purposes of paragraph (1), the term "charitable beneficiary" and "qualified charitable remainder trust" have the meanings given to such terms by section 2056(b)(8)(B).
 
 #### (h) Denial of double deduction
 
@@ -120,7 +120,7 @@ If the spouse of the donor is not a citizen of the United States—
 
 > This subsection shall not apply to any transfer resulting from the acquisition of rights under a joint and survivor annuity described in subsection (f)(6).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 412; Pub. L. 91–614, title I, §102(c)(3), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §1902(a)(12)(E), title XX, §2002(b), Oct. 4, 1976, 90 Stat. 1806, 1854; Pub. L. 97–34, title IV, §403(b)(1), (2), (d)(2), Aug. 13, 1981, 95 Stat. 301, 303; Pub. L. 97–448, title I, §104(a)(2)(B), (4)–(6), Jan. 12, 1983, 96 Stat. 2380, 2381; Pub. L. 99–514, title XVIII, §1879(n)(1), Oct. 22, 1986, 100 Stat. 2910; Pub. L. 100–647, title V, §5033(b), title VI, §6152(b), Nov. 10, 1988, 102 Stat. 3672, 3725; Pub. L. 101–239, title VII, §7815(d)(1)(A), (2), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 101–508, title XI, §11702(g)(1), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 102–486, title XIX, §1941(b), Oct. 24, 1992, 106 Stat. 3036; Pub. L. 105–34, title XVI, §1604(g)(4), Aug. 5, 1997, 111 Stat. 1099.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 412; Pub. L. 91–614, title I, §102(c)(3), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §1902(a)(12)(E), title XX, §2002(b), Oct. 4, 1976, 90 Stat. 1806, 1854; Pub. L. 97–34, title IV, §403(b)(1), (2), (d)(2), Aug. 13, 1981, 95 Stat. 301, 303; Pub. L. 97–448, title I, §104(a)(2)(B), (4)–(6), Jan. 12, 1983, 96 Stat. 2380, 2381; Pub. L. 99–514, title XVIII, §1879(n)(1), Oct. 22, 1986, 100 Stat. 2910; Pub. L. 100–647, title V, §5033(b), title VI, §6152(b), Nov. 10, 1988, 102 Stat. 3672, 3725; Pub. L. 101–239, title VII, §7815(d)(1)(A), (2), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 101–508, title XI, §11702(g)(1), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 102–486, title XIX, §1941(b), Oct. 24, 1992, 106 Stat. 3036; Pub. L. 105–34, title XVI, §1604(g)(4), Aug. 5, 1997, 111 Stat. 1099; Pub. L. 115–141, div. U, title IV, §401(a)(205), (206), Mar. 23, 2018, 132 Stat. 1194.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -128,11 +128,13 @@ If the spouse of the donor is not a citizen of the United States—
 
 #### References in Text
 
-Section 2056 of this title, referred to in subsec. (g)(2), was subsequently amended, and section 2056(b)(8)(B) no longer defines the term "noncharitable beneficiary".
-
 Sections 2515 and 2515A, referred to in subsec. (i)(3), were repealed by Pub. L. 97–34, title IV, §403(c)(3)(B), Aug. 13, 1981, 95 Stat. 302.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (g)(1). Pub. L. 115–141, §401(a)(205), substituted "beneficiary who is not a charitable beneficiary" for "noncharitable beneficiary".
+
+Subsec. (g)(2). Pub. L. 115–141, §401(a)(206), substituted "term 'charitable beneficiary' " for "term 'noncharitable beneficiary' ".
 
 <b>1997</b>—Subsec. (g)(1). Pub. L. 105–34 substituted "qualified charitable remainder trust" for "qualified remainder trust".
 
@@ -214,7 +216,7 @@ Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 3
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 
-For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
+For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of aforeign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -229,6 +231,4 @@ Pub. L. 99–514, title XVIII, §1879(n)(3), Oct. 22, 1986, 100 Stat. 2910, prov
 &emsp;"(B) was transferred pursuant to a trust instrument stating that the grantor's intention was that the property of the trust would constitute qualified terminable interest property as to which a Federal gift tax marital deduction would be allowed upon the grantor's election,
 
 > shall be made on the return of tax imposed by section 2501 of such Code for the calendar year 1984 which is filed on or before the due date of such return or, if a timely return is not filed, on the first such return filed after the due date of such return and before December 31, 1986."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

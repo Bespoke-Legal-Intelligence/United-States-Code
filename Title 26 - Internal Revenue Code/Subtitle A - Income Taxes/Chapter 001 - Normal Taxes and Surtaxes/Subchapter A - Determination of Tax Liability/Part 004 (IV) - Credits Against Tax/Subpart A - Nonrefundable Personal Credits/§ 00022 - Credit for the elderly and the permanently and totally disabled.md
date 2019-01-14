@@ -62,7 +62,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;&emsp;&emsp;(II) the Railroad Retirement Act of 1974, or
 
-&emsp;&emsp;&emsp;&emsp;(III) a law administered by the Veterans' Administration, or
+&emsp;&emsp;&emsp;&emsp;(III) a law administered by the Department of Veterans Affairs, or
 
 &emsp;&emsp;&emsp;(ii) which is excluded from gross income under any provision of law not contained in this title.
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (1) Married couple must file joint return
 
-&emsp;Except in the case of a husband and wife who live apart at all times during the taxable year,if the taxpayer is married at the close of the taxable year, the credit provided by this section shall be allowed only if the taxpayer and his spouse file a joint return for the taxable year.
+&emsp;Except in the case of a husband and wife who live apart at all times during the taxable year, if the taxpayer is married at the close of the taxable year, the credit provided by this section shall be allowed only if the taxpayer and his spouse file a joint return for the taxable year.
 
 #### (2) Marital status
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 No credit shall be allowed under this section to any nonresident alien.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 15, §37; Aug. 9, 1955, ch. 659, §1, 69 Stat. 591; Jan. 28, 1956, ch. 17, §1, 70 Stat. 8; Pub. L. 87–792, §7(a), Oct. 10, 1962, 76 Stat. 828; Pub. L. 87–876, §1, Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title I, §113(a), title II, §§201(d)(3), 202(a), Feb. 26, 1964, 78 Stat. 24, 32, 33; Pub. L. 93–406, title II, §2002(g)(1), Sept. 2, 1974, 88 Stat. 968; Pub. L. 94–455, title V, §503(a), title XIX, §1901(c)(1), Oct. 4, 1976, 90 Stat. 1559, 1803; Pub. L. 95–600, title VII, §§701(a)(1)–(3), 703(j)(11), Nov. 6, 1978, 92 Stat. 2897, 2942; Pub. L. 96–222, title I, §107(a)(1)(E)(i), Apr. 1, 1980, 94 Stat. 222; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 98–21, title I, §122(a), Apr. 20, 1983, 97 Stat. 85; renumbered §22 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(d), July 18, 1984, 98 Stat. 826, 830; Pub. L. 99–514, title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2658.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 15, §37; Aug. 9, 1955, ch. 659, §1, 69 Stat. 591; Jan. 28, 1956, ch. 17, §1, 70 Stat. 8; Pub. L. 87–792, §7(a), Oct. 10, 1962, 76 Stat. 828; Pub. L. 87–876, §1, Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title I, §113(a), title II, §§201(d)(3), 202(a), Feb. 26, 1964, 78 Stat. 24, 32, 33; Pub. L. 93–406, title II, §2002(g)(1), Sept. 2, 1974, 88 Stat. 968; Pub. L. 94–455, title V, §503(a), title XIX, §1901(c)(1), Oct. 4, 1976, 90 Stat. 1559, 1803; Pub. L. 95–600, title VII, §§701(a)(1)–(3), 703(j)(11), Nov. 6, 1978, 92 Stat. 2897, 2942; Pub. L. 96–222, title I, §107(a)(1)(E)(i), Apr. 1, 1980, 94 Stat. 222; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 98–21, title I, §122(a), Apr. 20, 1983, 97 Stat. 85; renumbered §22 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(d), July 18, 1984, 98 Stat. 826, 830; Pub. L. 99–514, title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2658; Pub. L. 115–141, div. U, title IV, §401(a)(2)(A), Mar. 23, 2018, 132 Stat. 1184.)
 
 #### References in Text
 
@@ -113,6 +113,8 @@ The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (B), is act Aug
 The Railroad Retirement Act of 1974, referred to in subsec. (c)(3)(A)(i)(II), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(3)(A)(i)(III). Pub. L. 115–141 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
 <b>1986</b>—Subsec. (e)(2). Pub. L. 99–514 substituted "section 7703" for "section 143".
 
@@ -220,7 +222,7 @@ Pub. L. 88–272, title II, §202(b), Feb. 26, 1964, 78 Stat. 33, provided that:
 
 Pub. L. 87–876, §2, Oct. 24, 1962, 76 Stat. 1199, provided that: "The amendment made by the first section of this Act \[amending this section\] shall apply only to taxable years ending after the date of the enactment of this Act \[Oct. 24, 1962\]."
 
-Pub. L. 87–792, §8, Oct. 10, 1962, 76 Stat. 831, provided that: "The amendments made by this Act \[enactingsections 405 and 6047 of this title and amending sections 37 \[now 22\], 62, 72, 101, 104, 105, 172, 401 to 404, 503, 805, 1361, 2039, 2517, 3306, 3401 and 7207 of this title\] shall apply to taxable years beginning after December 31, 1962."
+Pub. L. 87–792, §8, Oct. 10, 1962, 76 Stat. 831, provided that: "The amendments made by this Act \[enacting sections 405 and 6047 of this title and amending sections 37 \[now 22\], 62, 72, 101, 104, 105, 172, 401 to 404, 503, 805, 1361, 2039, 2517, 3306, 3401 and 7207 of this title\] shall apply to taxable years beginning after December 31, 1962."
 
 #### Effective Date of 1956 Amendment
 

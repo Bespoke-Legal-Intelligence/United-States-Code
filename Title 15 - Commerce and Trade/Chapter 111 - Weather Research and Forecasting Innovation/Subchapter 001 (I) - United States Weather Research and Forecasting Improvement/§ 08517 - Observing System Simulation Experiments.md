@@ -40,7 +40,7 @@ Observing System Simulation Experiments—
 
 #### (1) Global Navigation Satellite System Radio Occultation
 
-&emsp;Not later than 30 days after April 18, 2017, the Assistant Administrator for Oceanic and Atmospheric Research shall complete an Observing System Simulation Experiment to assess the value of data from Global Navigation Satellite System Radio Occultation.
+&emsp;Not later than 30 days after April 18, 2017, the Assistant Administrator for Oceanic andAtmospheric Research shall complete an Observing System Simulation Experiment to assess the value of data from Global Navigation Satellite System Radio Occultation.
 
 #### (2) Geostationary hyperspectral sounder global constellation
 

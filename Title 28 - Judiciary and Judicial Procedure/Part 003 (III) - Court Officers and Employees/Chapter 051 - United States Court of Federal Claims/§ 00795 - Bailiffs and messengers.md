@@ -22,7 +22,7 @@ Changes were made in phraseology.
 
 <b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
-<b>1982</b>—Pub. L. 97–164 substituted "Bailiffs and messengers" for "Bailiff and messenger" in section catchline and, in text, substituted "The chief judge of United States Claims Court, with the approval of the court, may appoint necessary bailiffs and messengers, in such numbers as the Director of the Administrative Office of the United States Courts may approve, each of whom shall be subject to removal by the chief judge, with the approval of the court" for "The Court of Claims may appoint a bailiff and a messenger who shall be subject to removal by the court" and struck out provision that the bailiff attend the court, preserve order, and perform such other necessary duties as the court might direct.
+<b>1982</b>—Pub. L. 97–164 substituted "Bailiffs and messengers" for "Bailiff and messenger" in section catchline and, in text, substituted "The chief judge of United States Claims Court, with the approval of the court, may appoint necessary bailiffs and messengers, in such numbers as the Director of the Administrative Office ofthe United States Courts may approve, each of whom shall be subject to removal by the chief judge, with the approval of the court" for "The Court of Claims may appoint a bailiff and a messenger who shall be subject to removal by the court" and struck out provision that the bailiff attend the court, preserve order, and perform such other necessary duties as the court might direct.
 
 #### Effective Date of 1992 Amendment
 

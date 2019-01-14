@@ -58,7 +58,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 &emsp;&emsp;&emsp;(IV) detention officers;
 
-&emsp;&emsp;&emsp;(V) executive personnel, including special agents in charge, and directors and deputies of various offices in the Office of Justice Services; and
+&emsp;&emsp;&emsp;(V) executive personnel, including special agents in charge, and directors anddeputies of various offices in the Office of Justice Services; and
 
 &emsp;&emsp;&emsp;(VI) tribal court judges, prosecutors, public defenders, appointed defense counsel, or related staff; and
 
@@ -98,13 +98,13 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 &emsp;&emsp;The training standards established under subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) shall be consistent with standards accepted by the Federal Law EnforcementTraining Accreditation commission for law enforcement officers attending similar programs; and
+&emsp;&emsp;&emsp;(i) shall be consistent with standards accepted by the Federal Law Enforcement Training Accreditation commission for law enforcement officers attending similar programs; and
 
 &emsp;&emsp;&emsp;(ii) shall include, or be supplemented by, instruction regarding Federal sources of authority and jurisdiction, Federal crimes, Federal rules of criminal procedure, and constitutional law to bridge the gap between State training and Federal requirements.
 
 #### (C) Training at State, tribal, and local academies
 
-&emsp;&emsp;Law enforcement personnel of the Office of Justice Services or an Indian tribe may satisfy the training standards established under subparagraph (A) through training at a State or tribal police academy, a State, regional, local, or tribal college or university, or other training academy (including any program at a State, regional, local, or tribal college or university) that meets the appropriate Peace Officer Standards of Training.
+&emsp;&emsp;Law enforcement personnel of the Office of Justice Services or an Indian tribe may satisfy the training standards established under subparagraph (A) through training at a State or tribal police academy, a State, regional, local, or tribal college or university, or other training academy (including any program at a State, regional, local, or tribalcollege or university) that meets the appropriate Peace Officer Standards of Training.
 
 #### (D) Maximum age requirement
 
@@ -164,7 +164,7 @@ Subsec. (e). Pub. L. 111–211, §231(a)(1)(A), inserted heading.
 
 Pub. L. 111–211, §211(b)(4), substituted "Office of Justice Services" for "Division of Law Enforcement Services" in pars. (1) to (3).
 
-Subsec. (e)(1). Pub. L. 111–211, §231(a)(1), inserted heading, designated existing provisions as subpar. (A),inserted subpar. (A) heading, and added subpars. (B) to (D).
+Subsec. (e)(1). Pub. L. 111–211, §231(a)(1), inserted heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpars. (B) to (D).
 
 Subsec. (e)(3). Pub. L. 111–211, §231(a)(2), substituted "agencies" for "Agencies".
 

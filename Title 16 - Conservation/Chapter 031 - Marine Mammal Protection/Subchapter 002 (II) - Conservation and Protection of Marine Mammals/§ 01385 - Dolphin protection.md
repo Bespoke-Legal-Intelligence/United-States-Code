@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (d) Labeling standard
 
-(1) It is a violation of section 45 of title 15 for any producer, importer, exporter, distributor, or seller of any tuna product that is exported from or offered for sale in the United States to include on the label of that product the term "dolphin safe" or any other term or symbol that falsely claims or suggests that the tuna contained in the product were harvested using a method of fishing that is not harmful to dolphins if the product contains tuna harvested—
+(1) It is a violation of section 45 of title 15 for any producer, importer, exporter, distributor, orseller of any tuna product that is exported from or offered for sale in the United States to include on the label of that product the term "dolphin safe" or any other term or symbol that falsely claims or suggests that the tuna contained in the product were harvested using a method of fishing that is not harmful to dolphins if the product contains tuna harvested—
 
 &emsp;(A) on the high seas by a vessel engaged in driftnet fishing;
 
@@ -86,7 +86,7 @@ For additional prohibitions relating to this section <sup>1</sup> and enforceme
 
 #### (f) Regulations
 
-The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations toimplement this section,<sup>1</sup> including regulations to establish a domestic tracking and verification program that provides for the effective tracking of tuna labeled under subsection (d). In the development of these regulations, the Secretary shall establish appropriate procedures for ensuring the confidentiality of proprietary information the submission of which is voluntary or mandatory. The regulations shall address each of the following items:
+The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this section,<sup>1</sup> including regulations to establish a domestic tracking and verification program that provides for the effective tracking of tuna labeled under subsection (d). In the development of these regulations, the Secretary shall establish appropriate procedures for ensuring the confidentiality of proprietary information the submission of which is voluntary or mandatory. The regulations shall address each of the following items:
 
 &emsp;(1) The use of weight calculation for purposes of tracking tuna caught, landed, processed, and exported.
 
@@ -134,7 +134,7 @@ Section was not enacted as part of the Marine Mammal Protection Act of 1972 whic
 
 #### Amendments
 
-<b>2015</b>—Subsec. (e). Pub. L. 114–81 amended subsec. (e) generally. Prior to amendment, text read as follows: "Any person who knowingly and willfully makes a statement or endorsement described in subsection (d)(2)(B) that is false is liable for a civil penalty of not to exceed $100,000 assessed in an action brought in any appropriate district court of the United States on behalf of the Secretary."
+<b>2015</b>—Subsec. (e). Pub. L. 114–81 amended subsec. (e) generally. Prior to amendment, text read as follows: "Any person who knowingly and willfully makes a statement or endorsement described in subsection\(d)(2)(B) that is false is liable for a civil penalty of not to exceed $100,000 assessed in an action brought in any appropriate district court of the United States on behalf of the Secretary."
 
 <b>1997</b>—Subsec. (d). Pub. L. 105–42, §5(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 

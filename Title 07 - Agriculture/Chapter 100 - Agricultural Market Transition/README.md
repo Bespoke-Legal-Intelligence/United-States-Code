@@ -113,7 +113,7 @@ st CENTURY PRODUCTION AGRICULTURE
 | [7331\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous%20Commodity%20Provisions/%C2%A7%2007331%20-%20Options%20pilot%20program.md) | Options pilot program. |
 | [7332\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous%20Commodity%20Provisions/%C2%A7%2007332%20-%20Risk%20management%20education.md) | Risk management education. |
 | [7333\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous%20Commodity%20Provisions/%C2%A7%2007333%20-%20Administration%20and%20operation%20of%20noninsured%20crop%20assistance%20program.md) | Administration and operation of noninsured crop assistance program. |
-| [7334\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous%20Commodity%20Provisions/%C2%A7%2007334%20-%20Flood%20risk%20reduction.md) | Flood risk reduction. |
+| [7334\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous%20Commodity%20Provisions/%C2%A7%2007334%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20II%2C%20%C2%A72814%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204602.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

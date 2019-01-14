@@ -78,7 +78,7 @@ Child's live testimony by 2-way closed circuit television.—
 
 &emsp;(2)
 
-Videotaped deposition of child.—(A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child's attorney, the child's parent or legal guardian, or the guardian ad litem appointed under subsection (h) may apply for anorder that a deposition be taken of the child's testimony and that the deposition be recorded and preserved on videotape.
+Videotaped deposition of child.—(A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child's attorney, the child's parent or legal guardian, or the guardian ad litem appointed under subsection (h) may apply for an order that a deposition be taken of the child's testimony and that the deposition be recorded and preserved on videotape.
 
 &emsp;(B)(i) Upon timely receipt of an application described in subparagraph (A), the court shall make a preliminary finding regarding whether at the time of trial the child is likely to be unable to testify in open court in the physical presence of the defendant, jury, judge, and public for any of the following reasons:
 
@@ -162,7 +162,7 @@ Not before jury.—A competency examination regarding a child witness shall be c
 
 &emsp;(7)
 
-Direct examination of child.—Examination of a child related to competency shall normally be conducted by the court on thebasis of questions submitted by the attorney for the Government and the attorney for the defendant including a party acting as an attorney pro se. The court may permit an attorney but not a party acting as an attorney pro se to examine a child directly on competency if the court is satisfied that the child will not suffer emotional trauma as a result of the examination.
+Direct examination of child.—Examination of a child related to competency shall normally be conducted by the court on the basis of questions submitted by the attorney for the Government and the attorney for the defendant including a party acting as an attorney pro se. The court may permit an attorney but not a party acting as an attorney pro se to examine a child directly on competency if the court is satisfied that the child will not suffer emotional trauma as a result of the examination.
 
 &emsp;(8)
 
@@ -236,7 +236,7 @@ In general.—A multidisciplinary child abuse team shall be used when it is feas
 
 Role of multidisciplinary child abuse teams.—The role of the multidisciplinary child abuse team shall be to provide for a child services that the members of the team in their professional roles are capable of providing, including—
 
-&emsp;&emsp;(A) medical diagnoses and evaluation services, including provision or interpretation ofx-rays, laboratory tests, and related services, as needed, and documentation of findings;
+&emsp;&emsp;(A) medical diagnoses and evaluation services, including provision or interpretation of x-rays, laboratory tests, and related services, as needed, and documentation of findings;
 
 &emsp;&emsp;(B) telephone consultation services in emergencies and in other situations;
 
@@ -260,7 +260,7 @@ In general.—The court may appoint, and provide reasonable compensation and pay
 
 &emsp;(2)
 
-Duties of guardian ad litem.—A guardian ad litem may attend all the depositions, hearings, and trial proceedings in which a child participates, and make recommendations to the court concerning the welfare of the child. The guardian ad litem may have access to all reports, evaluations and records, except attorney's work product, necessary to effectively advocate for the child. (The extent of access to grand jury materials is limited to the access routinely provided to victims and their representatives.) A guardian ad litem shall marshal and coordinate the delivery of resources and special services to the child. A guardian ad litem shall not be compelled to testify in any court action or proceeding concerning any information or opinion received from the child in the course of serving as a guardian ad litem.
+Duties of guardian ad litem.—A guardian ad litem may attend all the depositions, hearings, and trial proceedings in which a child participates, and make recommendations to the court concerning the welfare of the child. The guardian ad litem may have accessto all reports, evaluations and records, except attorney's work product, necessary to effectively advocate for the child. (The extent of access to grand jury materials is limited to the access routinely provided to victims and their representatives.) A guardian ad litem shall marshal and coordinate the delivery of resources and special services to the child. A guardian ad litem shall not be compelled to testify in any court action or proceeding concerning any information or opinion received from the child in the course of serving as a guardian ad litem.
 
 &emsp;(3)
 
@@ -292,7 +292,9 @@ Prohibition on Reproduction of Child Pornography.—
 
 &emsp;(B) For the purposes of subparagraph (A), property or material shall be deemed to be reasonably available to the defendant if the Government provides ample opportunity for inspection, viewing, and examination at a Government facility of the property or material by the defendant, his or her attorney, and any individual the defendant may seek to qualify to furnish expert testimony at trial.
 
-(Added Pub. L. 101–647, title II, §225(a), Nov. 29, 1990, 104 Stat. 4798; amended Pub. L. 103–322, titleXXXIII, §§330010(6), (7), 330011(e), 330018(b), Sept. 13, 1994, 108 Stat. 2143, 2145, 2149; Pub. L. 104–294, title VI, §605(h), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 109–248, title V, §§504, 507, July 27, 2006, 120 Stat. 629, 631; Pub. L. 111–16, §3(11), May 7, 2009, 123 Stat. 1608.)
+&emsp;(3) In any criminal proceeding, a victim, as defined under section 2259(c)(4), shall have reasonable access to any property or material that constitutes child pornography, as defined under section 2256(8), depicting the victim, for inspection, viewing, and examination at a Government facility or court, by the victim, his or her attorney, and any individual the victim may seek to qualify to furnish expert testimony, but under no circumstances may such child pornography be copied, photographed, duplicated, or otherwise reproduced. Such property or material may be redacted to protect the privacy of third parties.
+
+(Added Pub. L. 101–647, title II, §225(a), Nov. 29, 1990, 104 Stat. 4798; amended Pub. L. 103–322, title XXXIII, §§330010(6), (7), 330011(e), 330018(b), Sept. 13, 1994, 108 Stat. 2143, 2145, 2149; Pub. L. 104–294, title VI, §605(h), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 109–248, title V, §§504, 507, July 27, 2006, 120 Stat. 629, 631; Pub. L. 111–16, §3(11), May 7, 2009, 123 Stat. 1608; Pub. L. 115–299, §6, Dec. 7, 2018, 132 Stat. 4388.)
 
 #### References in Text
 
@@ -301,6 +303,8 @@ The Federal Rules of Evidence, referred to in subsec. (c)(1), are set out in the
 The Federal Rules of Criminal Procedure, referred to in subsecs. (f) and (m)(2)(A), are set out in the Appendix to this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (m)(3). Pub. L. 115–299 added par. (3).
 
 <b>2009</b>—Subsec. (b)(1)(A). Pub. L. 111–16 substituted "7 days" for "5 days".
 

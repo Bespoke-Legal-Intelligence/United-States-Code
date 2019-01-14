@@ -20,7 +20,7 @@ Section was formerly classified to section 623g of former Title 5, Executive Dep
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on the first day of the first pay period which begins on or afterJuly 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426, title V, Aug. 14, 1964, 78 Stat. 435.
+Amendment by Pub. L. 88–426 effective on the first day of the first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426, title V, Aug. 14, 1964, 78 Stat. 435.
 
 #### Effective Date
 

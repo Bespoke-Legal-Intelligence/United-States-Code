@@ -32,7 +32,7 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 (2) If a local educational agency denies a request by the Department of Defense for recruiting access, the Secretary of Defense, in cooperation with the Secretary of the military department concerned, shall designate an officer in a grade not below the grade of colonel or, in the case of the Navy, captain, or a senior executive of that military department to meet with representatives of that local educational agency in person, at the offices of that agency, for the purpose of arranging for recruiting access. The designated officer or senior executive shall seek to have that meeting within 120 days of the date of the denial of the request for recruiting access.
 
-(3) If, after a meeting under paragraph (2) with representatives of a local educational agency that has denied a request for recruiting access or (if the educational agency declines a request for the meeting) after the end of such 120-day period, the Secretary of Defense determines that the agency continues to deny recruiting access, the Secretary shall transmit to the chief executive of the State in which the agency is located a notification of the denial of recruiting access and a request for assistance in obtaining that access. The notification shall be transmitted within 60 days after the date of the determination. The Secretary shall provide to the Secretary of Education a copy of such notification and any other communication between the Secretary and that chief executive with respect to such access.
+(3) If, after a meeting under paragraph (2) with representatives of a local educational agency that has denied a request for recruiting access or (if the educational agency declines a request for the meeting) after the end of such 120-day period, the Secretary of Defense determines that the agency continues to deny recruiting access,the Secretary shall transmit to the chief executive of the State in which the agency is located a notification of the denial of recruiting access and a request for assistance in obtaining that access. The notification shall be transmitted within 60 days after the date of the determination. The Secretary shall provide to the Secretary of Education a copy of such notification and any other communication between the Secretary and that chief executive with respect to such access.
 
 (4) If a local educational agency continues to deny recruiting access one year after the date of the transmittal of a notification regarding that agency under paragraph (3), the Secretary—
 
@@ -78,7 +78,7 @@ Directory Information Defined.—In this section, the term "directory informatio
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), (6)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which isclassified generally to chapter 70 (§6301 et seq.) of Title 20, Education. Section 8101 of the Act is classified to section 7801 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), (6)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. Section 8101 of the Act is classified to section 7801 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments
 
@@ -168,7 +168,7 @@ Termination.—All pilot programs under this section shall terminate no later th
 
 "(e)
 
-Status Report.—Not later than January 1, 2020, each Secretary of a military department who conducts a pilot program under this section shall submit to the Committees on Armed Services of the Senate and theHouse of Representatives a report containing an evaluation of the success of the program in obtaining skilled cyber personnel for the Armed Forces."
+Status Report.—Not later than January 1, 2020, each Secretary of a military department who conducts a pilot program under this section shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing an evaluation of the success of the program in obtaining skilled cyber personnel for the Armed Forces."
 
 #### Temporary Authority To Develop and Provide Additional Recruitment Incentives
 
@@ -208,7 +208,7 @@ Limitation on Number of Incentives.—The Secretary of a military department may
 
 "(e)
 
-Limitation on Number of Individuals Receiving Incentives.—The number of individuals who receive one or more of the recruitment incentives provided under subsection (a) by the Secretary of a military department during a fiscal year for an Armed Force under the jurisdiction of the Secretary may not exceed 20 percent of the accession objective of that Armed Force for that fiscal year.
+Limitation on Number of Individuals Receiving Incentives.—The number of individuals who receiveone or more of the recruitment incentives provided under subsection (a) by the Secretary of a military department during a fiscal year for an Armed Force under the jurisdiction of the Secretary may not exceed 20 percent of the accession objective of that Armed Force for that fiscal year.
 
 "(f)
 
@@ -400,7 +400,7 @@ Pub. L. 108–375, div. A, title V, §593, Oct. 28, 2004, 118 Stat. 1934, as ame
 
 Enhanced Screening Methods and Process Improvements.—(1) The Secretary of the Army shall carry out an initiative—
 
-&emsp;"(A) to develop screening methods and process improvements for recruiting specified GED recipients soas to achieve attrition patterns, among the GED recipients so recruited, that match attrition patterns for Army recruits who are high school diploma graduates; and
+&emsp;"(A) to develop screening methods and process improvements for recruiting specified GED recipients so as to achieve attrition patterns, among the GED recipients so recruited, that match attrition patterns for Army recruits who are high school diploma graduates; and
 
 &emsp;"(B) subject to subsection (b), to implement such screening methods and process improvements on a test basis.
 
@@ -482,7 +482,7 @@ Outreach Through Motor Sports.—(1) One of the pilot programs shall be a pilot 
 
 "(c)
 
-Outreach at Vocational Schools and Community Colleges.—(1) One of the pilot programs shall be a pilot program under which Army recruiters are assigned, as their primary responsibility, at postsecondary vocational institutions and community colleges for the purpose of recruiting students graduating from those institutions and colleges, recent graduates ofthose institutions and colleges, and students withdrawing from enrollments in those institutions and colleges.
+Outreach at Vocational Schools and Community Colleges.—(1) One of the pilot programs shall be a pilot program under which Army recruiters are assigned, as their primary responsibility, at postsecondary vocational institutions and community colleges for the purpose of recruiting students graduating from those institutions and colleges, recent graduates of those institutions and colleges, and students withdrawing from enrollments in those institutions and colleges.
 
 "(2) The Secretary of the Army shall select the institutions and colleges to be invited to participate in the pilot program.
 

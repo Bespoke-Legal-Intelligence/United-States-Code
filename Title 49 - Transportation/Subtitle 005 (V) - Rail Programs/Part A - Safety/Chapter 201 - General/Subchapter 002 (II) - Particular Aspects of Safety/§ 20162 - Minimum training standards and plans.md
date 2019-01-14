@@ -8,11 +8,11 @@ In General.—The Secretary of Transportation shall, not later than 1 year after
 
 &emsp;(2) a requirement that railroad carriers, contractors, and subcontractors develop and submit training and qualification plans to the Secretary for approval, including training programs and information deemed necessary by the Secretary to ensure that all safety-related railroad employees receive appropriate training in a timely manner; and
 
-&emsp;(3) a minimum training curriculum, and ongoing training criteria, testing, and skills evaluation measures to ensure that safety-related railroad employees, and contractor and subcontractor employees, charged with the inspection of track or railroad equipment are qualified to assess railroad carrier compliance with Federal standards to identify defectiveconditions and initiate immediate remedial action to correct critical safety defects that are known to contribute to derailments, accidents, incidents, or injuries, and, in implementing the requirements of this paragraph, take into consideration existing training programs of railroad carriers.
+&emsp;(3) a minimum training curriculum, and ongoing training criteria, testing, and skills evaluation measures to ensure that safety-related railroad employees, and contractor and subcontractor employees, charged with the inspection of track or railroad equipment are qualified to assess railroad carrier compliance with Federal standards to identify defective conditions and initiate immediate remedial action to correct critical safety defects that are known to contribute to derailments, accidents, incidents, or injuries, and, in implementing the requirements of this paragraph, take into consideration existing training programs of railroad carriers.
 
 (b)
 
-Approval.—The Secretary shall review and approve the plans required under subsection (a)(2) utilizing an approval process required for programs to certify the qualification of locomotive engineers pursuant to part 240 of title 49, Code of Federal Regulations.
+Approval.—The Secretary shall review and approve the plans required under subsection\(a)(2) utilizing an approval process required for programs to certify the qualification of locomotive engineers pursuant to part 240 of title 49, Code of Federal Regulations.
 
 (c)
 

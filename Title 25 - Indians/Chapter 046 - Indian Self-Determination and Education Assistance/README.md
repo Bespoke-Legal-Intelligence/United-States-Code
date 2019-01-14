@@ -45,6 +45,7 @@
 | [5345\.](Subchapter%20002%20%28II%29%20-%20Contracts%20with%20States/%C2%A7%2005345%20-%20Contracts%20for%20education%20in%20public%20schools%3B%20submission%20of%20education%20plan%20by%20contractor%20as%20prerequisite%3B%20criteria%20for%20approval%20of%20plan%20by%E2%80%A6.md) | Contracts for education in public schools; submission of education plan by contractor as prerequisite; criteria for approval of plan by Secretary of the Interior; participation by non-Indian students. |
 | [5346\.](Subchapter%20002%20%28II%29%20-%20Contracts%20with%20States/%C2%A7%2005346%20-%20Local%20committee%20of%20Indian%20parents%20in%20school%20districts%20having%20school%20boards%20composed%20of%20non-Indian%20majority.md) | Local committee of Indian parents in school districts having school boards composed of non-Indian majority. |
 | [5347\.](Subchapter%20002%20%28II%29%20-%20Contracts%20with%20States/%C2%A7%2005347%20-%20Reimbursement%20to%20school%20districts%20for%20educating%20non-resident%20students.md) | Reimbursement to school districts for educating non-resident students. |
+| [5348\.](Subchapter%20002%20%28II%29%20-%20Contracts%20with%20States/%C2%A7%2005348%20-%20Computation%20of%20student%20count.md) | Computation of student count. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

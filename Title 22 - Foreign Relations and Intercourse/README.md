@@ -239,3 +239,4 @@
 - [Chapter 100 - Global Food Security](Chapter%20100%20-%20Global%20Food%20Security/README.md)
 - [Chapter 101 - Countering Iran's Destabilizing Activities](Chapter%20101%20-%20Countering%20Iran%27s%20Destabilizing%20Activities/README.md)
 - [Chapter 102 - Countering Russian Influence in Europe and Eurasia](Chapter%20102%20-%20Countering%20Russian%20Influence%20in%20Europe%20and%20Eurasia/README.md)
+- [Chapter 103 - Better Utilization of Investments Leading to Development](Chapter%20103%20-%20Better%20Utilization%20of%20Investments%20Leading%20to%20Development/README.md)

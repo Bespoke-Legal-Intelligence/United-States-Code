@@ -26,7 +26,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) armed conflict, whether or not war has been declared, between two or more nations; or
 
-&emsp;&emsp;(C) armed conflict between military forces of any origin; and
+&emsp;&emsp;(C) armed conflict between military forces of any origin;
 
 &emsp;(5) the term "domestic terrorism" means activities that—
 
@@ -40,9 +40,19 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(iii) to affect the conduct of a government by mass destruction, assassination, or kidnapping; and
 
-&emsp;&emsp;(C) occur primarily within the territorial jurisdiction of the United States.
+&emsp;&emsp;(C) occur primarily within the territorial jurisdiction of the United States; and
 
-(Added Pub. L. 102–572, title X, §1003(a)(3), Oct. 29, 1992, 106 Stat. 4521; amended Pub. L. 107–56, title VIII, §802(a), Oct. 26, 2001, 115 Stat. 376.)
+&emsp;(6) the term "military force" does not include any person that—
+
+&emsp;&emsp;(A) has been designated as a—
+
+&emsp;&emsp;&emsp;(i) foreign terrorist organization by the Secretary of State under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189); or
+
+&emsp;&emsp;&emsp;(ii) specially designated global terrorist (as such term is defined in section 594.310 of title 31, Code of Federal Regulations) by the Secretary of State or the Secretary of the Treasury; or
+
+&emsp;&emsp;(B) has been determined by the court to not be a "military force".
+
+(Added Pub. L. 102–572, title X, §1003(a)(3), Oct. 29, 1992, 106 Stat. 4521; amended Pub. L. 107–56, title VIII, §802(a), Oct. 26, 2001, 115 Stat. 376; Pub. L. 115–253, §2(a), Oct. 3, 2018, 132 Stat. 3183.)
 
 #### References in Text
 
@@ -54,9 +64,15 @@ A prior section 2331 was renumbered 2332 of this title.
 
 #### Amendments
 
+<b>2018</b>—Par. (6). Pub. L. 115–253 added par. (6).
+
 <b>2001</b>—Par. (1)(B)(iii). Pub. L. 107–56, §802(a)(1), substituted "by mass destruction, assassination, or kidnapping" for "by assassination or kidnapping".
 
 Par. (5). Pub. L. 107–56, §802(a)(2)–(4), added par. (5).
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–253, §2(b), Oct. 3, 2018, 132 Stat. 3183, provided that: "The amendments made by this section \[amending this section\] shall apply to any civil action pending on or commenced after the date of the enactment of this Act \[Oct. 3, 2018\]."
 
 #### Effective Date
 
@@ -64,7 +80,7 @@ Pub. L. 102–572, title X, §1003(c), Oct. 29, 1992, 106 Stat. 4524, provided t
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–458, title VI, §6601, Dec. 17, 2004, 118 Stat. 3761, provided that: "This subtitle \[subtitle G (§§6601–6604) of title VI of Pub. L. 108–458, enacting section 2339D of this title, amending sections 2332b and 2339A to 2339C of this title, and enacting provisions set out as a note under section 2332b of this title\] may be cited as the 'Material Support to Terrorism Prohibition Enhancement Act of 2004'."
+Pub. L. 108–458, title VI, §6601, Dec. 17, 2004, 118 Stat. 3761, provided that: "This subtitle \[subtitle G (§§6601–6604) of title VI of Pub. L. 108–458, enacting section 2339D of this title, amending sections 2332b and 2339A to 2339C of this title, and enacting provisions setout as a note under section 2332b of this title\] may be cited as the 'Material Support to Terrorism Prohibition Enhancement Act of 2004'."
 
 #### Short Title of 2002 Amendment
 

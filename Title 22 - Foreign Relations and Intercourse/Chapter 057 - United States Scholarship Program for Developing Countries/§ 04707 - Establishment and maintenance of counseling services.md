@@ -2,7 +2,7 @@
 
 #### (a) Counseling services abroad
 
-For the purpose of assisting foreign students in choosing fields of study, selecting appropriateinstitutions of higher education, and preparing for their stay in the United States, the President may make suitable arrangements for counseling and orientation services abroad.
+For the purpose of assisting foreign students in choosing fields of study, selecting appropriate institutions of higher education, and preparing for their stay in the United States, the President may make suitable arrangements for counseling and orientation services abroad.
 
 #### (b) Counseling services in the United States
 

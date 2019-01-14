@@ -124,7 +124,7 @@ Pub. L. 100–202, §101(m) \[title VI, §623(b)\], Dec. 22, 1987, 101 Stat. 132
 
 "(1)
 
-Generally.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amendingthis section\] shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\], and shall apply with respect to any employee found, in a final judgment entered or a final decision otherwise rendered on or after such date, to have been the subject of an unjustified or unwarranted personnel action, the correction of which entitles such employee to an amount under section 5596(b)(1)(A)(i) of title 5, United States Code.
+Generally.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\], and shall apply with respect to any employee found, in a final judgment entered or a final decision otherwise rendered on or after such date, to have been the subject of an unjustified or unwarranted personnel action, the correction of which entitles such employee to an amount under section 5596(b)(1)(A)(i) of title 5, United States Code.
 
 "(2)
 

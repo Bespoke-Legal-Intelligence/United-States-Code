@@ -54,9 +54,31 @@ Required.—Each executive agency shall—
 
 &emsp;&emsp;&emsp;(x) the estimated amount of capital expenditures projected to maintain and operate the property during the 5-year period beginning on the date of enactment of this paragraph; and
 
-&emsp;&emsp;&emsp;(xi) any additional information required by the Administrator of General Services to carry out section 623; and
+&emsp;&emsp;&emsp;(xi) any additional information required by the Administrator of General Services to carry out section 623;
 
-&emsp;(12) provide to the Federal Real Property Council and the Administrator of General Services the information described in paragraph (11)(B) to be used for the establishment and maintenance of the database described in section 21 of the Federal Assets Sale and Transfer Act of 2016.
+&emsp;(12) provide to the Federal Real Property Council and the Administrator of General Services the information described in paragraph (11)(B) to be used for the establishment and maintenance of the database described in section 21 of the Federal Assets Sale and Transfer Act of 2016; and
+
+&emsp;(13) in accordance with guidance from the Administrator of General Services—
+
+&emsp;&emsp;(A) on an annual basis, conduct an inventory and assessment of capitalized personal property to identify excess capitalized personal property under its control, including evaluating—
+
+&emsp;&emsp;&emsp;(i) the age and condition of the personal property;
+
+&emsp;&emsp;&emsp;(ii) the extent to which the executive agency utilizes the personal property;
+
+&emsp;&emsp;&emsp;(iii) the extent to which the mission of the executive agency is dependent on the personal property; and
+
+&emsp;&emsp;&emsp;(iv) any other aspect of the personal property that the Administrator determines is useful or necessary for the executive agency to evaluate; and
+
+&emsp;&emsp;(B) on a regular basis, conduct an inventory and assessment of accountable personal property under its control, including evaluating—
+
+&emsp;&emsp;&emsp;(i) the age and condition of the personal property;
+
+&emsp;&emsp;&emsp;(ii) the extent to which the executive agency utilizes the personal property;
+
+&emsp;&emsp;&emsp;(iii) the extent to which the mission of the executive agency is dependent on the personal property; and
+
+&emsp;&emsp;&emsp;(iv) any other aspect of the personal property that the Administrator determines is useful or necessary for the executive agency to evaluate.
 
 (b)
 
@@ -72,7 +94,7 @@ Required as Far as Practicable.—Each executive agency, as far as practicable, 
 
 Definition of Executive Agency.—For the purpose of paragraphs (6) through (12) of subsection (a), the term "executive agency" shall have the meaning given the term "Federal agency" in section 621.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1084; Pub. L. 114–318, §6, Dec. 16, 2016, 130 Stat. 1615.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1084; Pub. L. 114–318, §6, Dec. 16, 2016, 130 Stat. 1615; Pub. L. 115–419, §2(a), Jan. 3, 2019, 132 Stat. 5442.)
 
 Historical and Revision Notes
 
@@ -107,6 +129,8 @@ The date of enactment of this paragraph, referred to in subsec. (a)(11)(B)(x), i
 Section 21 of the Federal Assets Sale and Transfer Act of 2016, referred to in subsec. (a)(12), is section 21 of Pub. L. 114–287, which is set out in a note under section 1303 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(13). Pub. L. 115–419 added par. (13).
 
 <b>2016</b>—Subsec. (a)(6) to (12). Pub. L. 114–318, §6(a), added pars. (6) to (12).
 

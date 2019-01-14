@@ -2,7 +2,7 @@
 
 (a)
 
-Program Authority and Purpose.—The Secretary of Defense may use the National Guard to conduct a civilian youth opportunities program, to be known as the "National Guard Youth Challenge Program", which shall consist of at least a 22-week residential program and a 12-month post-residential mentoring period. The Program shall seek to improve life skills and employment potential of participants by providing military-based training and supervised work experience, together with the core program components of assisting participants to receive a high school diploma or its equivalent, leadership development, promoting fellowship and community service, developing life coping skills and job skills, and improving physical fitness and health and hygiene.
+Program Authority and Purpose.—The Secretary of Defense may use the NationalGuard to conduct a civilian youth opportunities program, to be known as the "National Guard Youth Challenge Program", which shall consist of at least a 22-week residential program and a 12-month post-residential mentoring period. The Program shall seek to improve life skills and employment potential of participants by providing military-based training and supervised work experience, together with the core program components of assisting participants to receive a high school diploma or its equivalent, leadership development, promoting fellowship and community service, developing life coping skills and job skills, and improving physical fitness and health and hygiene.
 
 (b)
 
@@ -56,7 +56,7 @@ Authorized Benefits for Participants.—(1) To the extent provided in an agreeme
 
 &emsp;(I) Subject to paragraph (2), a temporary stipend upon the successful completion of the training, as characterized in accordance with procedures provided in the agreement.
 
-(2) In the case of a person selected for training in the Program who afterwards becomes a member of the Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 (42 U.S.C. 12611 et seq.), the person may not receive a temporary stipend under paragraph (1)(I) while the person is a member of that Corps. The person may receive the temporary stipend after completing servicein the Corps unless the person elects to receive benefits provided under subsection (f) or (g) of section 158 of such Act (42 U.S.C. 12618).
+(2) In the case of a person selected for training in the Program who afterwards becomes a member of the Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 (42 U.S.C. 12611 et seq.), the person may not receive a temporary stipend under paragraph (1)(I) while the person is a member of that Corps. The person may receive the temporary stipend after completing service in the Corps unless the person elects to receive benefits provided under subsection (f) or (g) of section 158 of such Act (42 U.S.C. 12618).
 
 (g)
 
@@ -70,7 +70,9 @@ Program Personnel.—(1) Personnel of the National Guard of a State in which the
 
 Equipment and Facilities.—(1) Equipment and facilities of the National Guard, including military property of the United States issued to the National Guard, may be used in carrying out the Program.
 
-(2) Activities under the Program shall be considered noncombat activities of the National Guard for purposes of section 710 of this title.
+(2) Equipment and facilities of the Department of Defense may be used by the National Guard for purposes of carrying out the Program.
+
+(3) Activities under the Program shall be considered noncombat activities of the National Guard for purposes of section 710 of this title.
 
 (i)
 
@@ -126,13 +128,15 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 &emsp;(7) The procedures to be used by the Secretary when communicating with States about the Program.
 
-(Added Pub. L. 105–85, div. A, title X, §1076(a), Nov. 18, 1997, 111 Stat. 1911; amended Pub. L. 106–65, div. A, title V, §579, Oct. 5, 1999, 113 Stat. 631; Pub. L. 106–246, div. B, title I, §120, July 13, 2000, 114 Stat. 533; Pub. L. 106–398, §1 \[\[div. A\], title V, §577(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–140; Pub. L. 107–107, div. A, title V, §596(a), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–314, div. A, title X, §1062(g)(1), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–375, div. A, title V, §594(a), (b)(1), Oct. 28, 2004, 118 Stat. 1935, 1936; Pub. L. 110–417, \[div. A\], title V, §594(a), Oct. 14, 2008, 122 Stat. 4475; Pub. L. 111–84, div. A, title V, §593(a), Oct. 28, 2009, 123 Stat. 2337.)
+(Added Pub. L. 105–85, div. A, title X, §1076(a), Nov. 18, 1997, 111 Stat. 1911; amended Pub. L. 106–65, div. A, title V, §579, Oct. 5, 1999, 113 Stat. 631; Pub. L. 106–246, div. B, title I, §120, July 13, 2000, 114 Stat. 533; Pub. L. 106–398, §1 \[\[div. A\], title V, §577(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–140; Pub. L. 107–107, div. A, title V, §596(a), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–314, div. A, title X, §1062(g)(1), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–375, div. A, title V, §594(a), (b)(1), Oct. 28, 2004, 118 Stat. 1935, 1936; Pub. L. 110–417, \[div. A\], title V, §594(a), Oct. 14, 2008, 122 Stat. 4475; Pub. L. 111–84, div. A, title V, §593(a), Oct. 28, 2009, 123 Stat. 2337; Pub. L. 115–232, div. A, title V, §519, Aug. 13, 2018, 132 Stat. 1754.)
 
 #### References in Text
 
 The National and Community Service Act of 1990, referred to in subsec. (f)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle E of title I of the Act is classified generally to division E (§12611 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (h)(2), (3). Pub. L. 115–232 added par. (2) and redesignated former par. (2) as (3).
 
 <b>2009</b>—Subsec. (d)(1). Pub. L. 111–84 substituted "75 percent of the costs" for "60 percent of the costs".
 

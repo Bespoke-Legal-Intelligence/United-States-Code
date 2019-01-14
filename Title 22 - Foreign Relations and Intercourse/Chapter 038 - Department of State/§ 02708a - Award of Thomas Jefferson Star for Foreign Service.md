@@ -12,7 +12,7 @@ The President, upon the recommendation of the Secretary, may award a Thomas Jeff
 
 #### (b) Selection criteria
 
-The Secretary shall prescribe the procedures for identifying and considering persons eligiblefor award of a Thomas Jefferson Star for Foreign Service and for selecting the persons to be recommended for the award.
+The Secretary shall prescribe the procedures for identifying and considering persons eligible for award of a Thomas Jefferson Star for Foreign Service and for selecting the persons to be recommended for the award.
 
 #### (c) Award in the event of death
 

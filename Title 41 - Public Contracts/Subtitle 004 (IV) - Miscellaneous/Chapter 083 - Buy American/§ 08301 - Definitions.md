@@ -80,7 +80,7 @@ Sec. 3. <i>Immediate Enforcement and Assessment of Domestic Preferences Accordin
 
 (c) Within 60 days of the date of this order, the Secretary of Commerce and the Director of the Office of Management and Budget, in consultation with the Secretary of State, the Secretary of Labor, the United States Trade Representative, and the Federal Acquisition Regulatory Council, shall issue guidance to agencies about how to make the assessments and to develop the policies required by subsection (b) of this section.
 
-(d) Within 150 days of the date of this order, the heads of all agencies shall submit findings made pursuant to the assessments required by subsection (b) of this section to the Secretary of Commerce and the Director of the Office of Management and Budget.
+(d) Within 150 days of the date of this order, the heads of all agencies shall submit findings made pursuant tothe assessments required by subsection (b) of this section to the Secretary of Commerce and the Director of the Office of Management and Budget.
 
 (e) Within 150 days of the date of this order, the Secretary of Commerce and the United States Trade Representative shall assess the impacts of all United States free trade agreements and the World Trade Organization Agreement on Government Procurement on the operation of Buy American Laws, including their impacts on the implementation of domestic procurement preferences.
 

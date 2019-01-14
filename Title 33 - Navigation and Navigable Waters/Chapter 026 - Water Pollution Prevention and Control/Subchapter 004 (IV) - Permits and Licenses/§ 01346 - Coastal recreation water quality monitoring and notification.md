@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(i) the program is consistent with the performance criteria published by the Administrator under subsection (a);
 
-&emsp;&emsp;&emsp;(ii) the State or local government prioritizes the use of grant funds for particularcoastal recreation waters based on the use of the water and the risk to human health presented by pathogens or pathogen indicators;
+&emsp;&emsp;&emsp;(ii) the State or local government prioritizes the use of grant funds for particular coastal recreation waters based on the use of the water and the risk to human health presented by pathogens or pathogen indicators;
 
 &emsp;&emsp;&emsp;(iii) the State or local government makes available to the Administrator the factors used to prioritize the use of funds under clause (ii);
 
@@ -96,13 +96,13 @@ As a condition of receipt of a grant under subsection (b), a State or local gove
 
 &emsp;&emsp;(B) a designated official of a local government having jurisdiction over land adjoining the coastal recreation waters for which the failure to meet applicable standards is identified;
 
-&emsp;(6) measures for the posting of signs at beaches or similar points of access, or functionally equivalent communication measures that are sufficient to give notice to the public that the coastal recreation waters are not meeting or are not expected to meet applicable water quality standards for pathogens and pathogen indicators; and
+&emsp;(6) measures for the posting of signs at beaches or similar points of access, or functionally equivalent communication measuresthat are sufficient to give notice to the public that the coastal recreation waters are not meeting or are not expected to meet applicable water quality standards for pathogens and pathogen indicators; and
 
 &emsp;(7) measures that inform the public of the potential risks associated with water contact activities in the coastal recreation waters that do not meet applicable water quality standards.
 
 #### (d) Federal agency programs
 
-Not later than 3 years after October 10, 2000, each Federal agency that has jurisdiction overcoastal recreation waters adjacent to beaches or similar points of access that are used by the public shall develop and implement, through a process that provides for public notice and an opportunity for comment, a monitoring and notification program for the coastal recreation waters that—
+Not later than 3 years after October 10, 2000, each Federal agency that has jurisdiction over coastal recreation waters adjacent to beaches or similar points of access that are used by the public shall develop and implement, through a process that provides for public notice and an opportunity for comment, a monitoring and notification program for the coastal recreation waters that—
 
 &emsp;(1) protects the public health and safety;
 

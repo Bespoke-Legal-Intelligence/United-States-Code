@@ -36,7 +36,7 @@ For purposes of this section—
 
 &emsp;Except as otherwise provided in this subsection, the term "qualified zone employee" means, with respect to any period, any employee of an employer if—
 
-&emsp;&emsp;(A) substantially all of the services performed during such period by such employee for such employer are performed within an empowerment zone in a trade or business of the employer, and
+&emsp;&emsp;(A) substantially all of the services performed during such period by such employeefor such employer are performed within an empowerment zone in a trade or business of the employer, and
 
 &emsp;&emsp;(B) the principal place of abode of such employee while performing such services is within such empowerment zone.
 

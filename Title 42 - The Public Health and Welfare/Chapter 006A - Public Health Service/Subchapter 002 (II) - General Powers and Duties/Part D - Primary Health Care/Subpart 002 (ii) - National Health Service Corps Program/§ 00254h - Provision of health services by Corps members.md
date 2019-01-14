@@ -12,7 +12,7 @@ In providing health services in a health professional shortage area, Corps membe
 
 #### (c) Loan; purposes; limitations
 
-The Secretary may make one loan to any entity with an approved application under section 254f of this title to assist such entity in meeting the costs of (1) establishing medical, dental, or other health profession practices, including the development of medical practice management systems; (2) acquiring equipment for use in providing health services; and (3) renovating buildings to establish health facilities. No loan may be made under this subsection unless an application therefor is submitted to, and approved by, the Secretary. The amount of any such loan shall be determined by the Secretary, except that no such loan may exceed $50,000.
+The Secretary may make one loan to any entity with an approved application under section254f of this title to assist such entity in meeting the costs of (1) establishing medical, dental, or other health profession practices, including the development of medical practice management systems; (2) acquiring equipment for use in providing health services; and (3) renovating buildings to establish health facilities. No loan may be made under this subsection unless an application therefor is submitted to, and approved by, the Secretary. The amount of any such loan shall be determined by the Secretary, except that no such loan may exceed $50,000.
 
 #### (d) Property and equipment disposal; fair market value; sale at less than full market value
 
@@ -30,7 +30,7 @@ Upon the expiration of the assignment of all Corps members to a health professio
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (e)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 ofthis title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (e)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 

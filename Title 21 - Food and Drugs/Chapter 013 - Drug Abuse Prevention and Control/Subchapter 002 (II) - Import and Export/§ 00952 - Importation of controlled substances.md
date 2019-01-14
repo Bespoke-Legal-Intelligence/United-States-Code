@@ -10,7 +10,7 @@ It shall be unlawful to import into the customs territory of the United States f
 
 &emsp;&emsp;(A) during an emergency in which domestic supplies of such substance or drug are found by the Attorney General to be inadequate,
 
-&emsp;&emsp;(B) in any case in which the Attorney General finds that competition among domestic manufacturers of the controlled substance is inadequate and will not be rendered adequate by the registration of additional manufacturers under section 823 of this title, or
+&emsp;&emsp;(B) in any case in which the Attorney General finds that competition among domestic manufacturers of the controlled substance isinadequate and will not be rendered adequate by the registration of additional manufacturers under section 823 of this title, or
 
 &emsp;&emsp;(C) in any case in which the Attorney General finds that such controlled substance is in limited quantities exclusively for scientific, analytical, or research uses,
 

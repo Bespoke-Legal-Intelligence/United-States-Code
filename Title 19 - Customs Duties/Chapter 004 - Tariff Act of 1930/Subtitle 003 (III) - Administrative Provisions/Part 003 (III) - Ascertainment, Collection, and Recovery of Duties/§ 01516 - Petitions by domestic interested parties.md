@@ -28,7 +28,7 @@ If, after receipt and consideration of a petition filed by such an interested pa
 
 #### (c) Contest by petitioner of appraised value, classification, or rate of duty
 
-If the Secretary determines that the appraised value, classification, or rate of duty with respect to which a petition was filed pursuant to subsection (a) of this section is correct, he shall notify the petitioner. If dissatisfied with the determination of the Secretary, the petitioner may file with the Secretary, not later than thirty days after the date of the notification, notice that it desires to contest the appraised value, classification, or rate of duty. Upon receipt of notice from the petitioner, the Secretary shall cause publication to be made of his determination as to the proper appraised value, classification, or rate of duty and of the petitioner's desire to contest, and shall thereafter furnish the petitioner with such information as to the entries and consignees of such merchandise, entered after the publication of the determination of the Secretary, at such ports of entry designated by the petitioner in his notice of desire to contest, as will enable the petitioner to contest the appraised value, classification, or rate of duty imposed upon such merchandise in the liquidation of one such entry at such port. The Secretary shall direct the appropriate customs officer at such ports to immediately notify the petitioner by mail when the first of such entries is liquidated.
+If the Secretary determines that the appraised value, classification, or rate of duty with respect to which a petition was filed pursuant to subsection (a) of this section is correct, he shallnotify the petitioner. If dissatisfied with the determination of the Secretary, the petitioner may file with the Secretary, not later than thirty days after the date of the notification, notice that it desires to contest the appraised value, classification, or rate of duty. Upon receipt of notice from the petitioner, the Secretary shall cause publication to be made of his determination as to the proper appraised value, classification, or rate of duty and of the petitioner's desire to contest, and shall thereafter furnish the petitioner with such information as to the entries and consignees of such merchandise, entered after the publication of the determination of the Secretary, at such ports of entry designated by the petitioner in his notice of desire to contest, as will enable the petitioner to contest the appraised value, classification, or rate of duty imposed upon such merchandise in the liquidation of one such entry at such port. The Secretary shall direct the appropriate customs officer at such ports to immediately notify the petitioner by mail when the first of such entries is liquidated.
 
 #### (d) Appraisal, classification, and liquidation of entries of merchandise covered by published decisions of Secretary
 
@@ -56,7 +56,7 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 <b>1988</b>—Subsec. (a)(3). Pub. L. 100–418 added par. (3).
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514 inserted "Such term includes an association, a majority of whosemembers is composed of persons described in subparagraph (A), (B), or (C)."
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514 inserted "Such term includes an association, a majority of whose members is composed of persons described in subparagraph (A), (B), or (C)."
 
 <b>1982</b>—Subsecs. (d), (f). Pub. L. 97–164 substituted "Court of Appeals for the Federal Circuit" for "Court of Customs and Patent Appeals".
 
@@ -130,7 +130,7 @@ Functions of Secretary of the Treasury under this section insofar as they relate
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Application of Subsection (b) to Complaints
 

@@ -42,7 +42,7 @@
 
 #### (C) Tight domestic supply
 
-&emsp;&emsp;During any month for which the Secretary estimates the season-ending United States upland cotton stocks-to-use ratio, as determined under subparagraph (D), to be below 16 percent, the Secretary, in making the determination under subparagraph (B), shall not adjust the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, for the value of any certificates issued under subsection (a).
+&emsp;&emsp;During any month for which the Secretary estimates the season-ending United Statesupland cotton stocks-to-use ratio, as determined under subparagraph (D), to be below 16 percent, the Secretary, in making the determination under subparagraph (B), shall not adjust the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, for the value of any certificates issued under subsection (a).
 
 #### (D) Season-ending United States stocks-to-use ratio
 
@@ -156,7 +156,7 @@ The Harmonized Tariff Schedule, referred to in subsecs. (b)(5)(D) and (c)(1)(C)(
 
 Subsec. (a)(1)(A), (2). Pub. L. 106–78, §806(a)(2), substituted "1.25 cents per pound" for "3 cents per pound".
 
-Subsec. (a)(3)(A). Pub. L. 106–78, §806(a)(3)(A), substituted "owned by the Commodity Credit Corporation or pledged to the Commodity Credit Corporation as collateral for a loan in such manner, and at such price levels, as the Secretary determines will best effectuate the purposes of cotton user marketing certificates, including enhancing the competitiveness and marketability of United States cotton" for "owned by the Commodity Credit Corporation in such manner, and at such price levels, as the Secretary determines will besteffectuate the purposes of cotton user marketing certificates" in first sentence.
+Subsec. (a)(3)(A). Pub. L. 106–78, §806(a)(3)(A), substituted "owned by the Commodity Credit Corporation or pledged to the Commodity Credit Corporation as collateral for a loan in such manner, and at such price levels, as the Secretary determines will best effectuate the purposes of cotton user marketing certificates, including enhancing the competitiveness and marketability of United States cotton" for "owned by the Commodity Credit Corporation in such manner, and at such price levels, as the Secretary determines will best effectuate the purposes of cotton user marketing certificates" in first sentence.
 
 Subsec. (a)(3)(B). Pub. L. 106–78, §806(a)(3)(B), struck out at end "If any certificate is not presented for redemption, marketing, or exchange within a reasonable number of days after the issuance of the certificate (as determined by the Secretary), reasonable costs of storage and other carrying charges, as determined by the Secretary, shall be deducted from the value of the certificate for the period beginning after the reasonable number of days and ending with the date of the presentation of the certificate to the Commodity Credit Corporation."
 

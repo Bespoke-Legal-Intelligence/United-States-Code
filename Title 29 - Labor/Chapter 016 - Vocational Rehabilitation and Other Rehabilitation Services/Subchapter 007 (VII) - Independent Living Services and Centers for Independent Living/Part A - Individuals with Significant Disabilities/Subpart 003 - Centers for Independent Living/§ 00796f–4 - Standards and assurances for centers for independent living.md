@@ -44,7 +44,7 @@ Each center for independent living that receives assistance under this subpart s
 
 #### (c) Assurances
 
-The eligible agency shall provide at such time and in such manner as the Administrator may require, such satisfactory assurances as the Administrator may require, including satisfactory assurances that—
+The eligible agency shall provide at such time and in such manner as the Administrator mayrequire, such satisfactory assurances as the Administrator may require, including satisfactory assurances that—
 
 &emsp;(1) the applicant is an eligible agency;
 

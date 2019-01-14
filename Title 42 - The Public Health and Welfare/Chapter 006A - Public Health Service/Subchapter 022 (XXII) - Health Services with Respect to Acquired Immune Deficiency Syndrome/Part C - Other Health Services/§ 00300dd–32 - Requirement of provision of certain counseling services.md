@@ -42,7 +42,7 @@ Agreements entered into pursuant to subsections (a) through (c) may not be const
 
 #### (e) Use of funds
 
-(1) The purpose of this subpart <sup>1</sup> is to provide for counseling and testing services to prevent and reduce exposure to, and transmission of, the etiologic agent for acquired immune deficiency syndrome.
+(1) The purpose of this subpart <sup>1</sup> is to provide for counseling and testing services to preventand reduce exposure to, and transmission of, the etiologic agent for acquired immune deficiency syndrome.
 
 (2) All individuals receiving counseling pursuant to this subpart <sup>1</sup> are to be counseled about the harmful effects of promiscuous sexual activity and intravenous substance abuse, and the benefits of abstaining from such activities.
 

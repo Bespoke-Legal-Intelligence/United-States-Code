@@ -122,7 +122,7 @@
 
 #### (v) Information required to be filed
 
-&emsp;&emsp;&emsp;A plan shall not fail to satisfy the requirements of this subparagraph solely because it provides that no credit will begiven pursuant to this subparagraph unless the individual furnishes to the plan administrator such timely information as the plan may reasonably require to establish—
+&emsp;&emsp;&emsp;A plan shall not fail to satisfy the requirements of this subparagraph solely because it provides that no credit will be given pursuant to this subparagraph unless the individual furnishes to the plan administrator such timely information as the plan may reasonably require to establish—
 
 &emsp;&emsp;&emsp;&emsp;(I) that the absence from work is for reasons referred to in clause (i), and
 
@@ -214,7 +214,7 @@
 
 #### (B) Requirements may be met separately with respect to excluded group
 
-&emsp;&emsp;If employees not meeting the minimum age or service requirements of subsection (a)(1) (without regard to subparagraph (B) thereof) are covered under a plan of the employer which meets the requirements of paragraph (1) separately with respect to such employees, such employees may be excluded from consideration in determining whether any plan of the employer meets the requirements of paragraph (1).
+&emsp;&emsp;If employees not meeting the minimum age or service requirements of subsection (a)(1) (without regard to subparagraph (B) thereof) are covered under a plan of the employer which meets the requirements of paragraph (1) separately with respect to suchemployees, such employees may be excluded from consideration in determining whether any plan of the employer meets the requirements of paragraph (1).
 
 #### (C) Requirements not treated as being met before entry date
 
@@ -300,7 +300,7 @@
 
 &emsp;&emsp;(D) a plan established and maintained by a society, order, or association described in section 501(c)(8) or (9) if no part of the contributions to or under such plan are made by employers of participants in such plan.
 
-&emsp;(2) A plan described in paragraph (1) shall be treated as meeting the requirements of this section for purposes of section 401(a), except that in the case of a plan described in subparagraph (B), (C), or (D) of paragraph (1), this paragraph shall apply only if such plan meets the requirements of section 401(a)(3) (as in effect on September 1, 1974).
+&emsp;(2) A plan described in paragraph (1) shall be treated as meeting the requirements of thissection for purposes of section 401(a), except that in the case of a plan described in subparagraph (B), (C), or (D) of paragraph (1), this paragraph shall apply only if such plan meets the requirements of section 401(a)(3) (as in effect on September 1, 1974).
 
 #### (d) Election by church to have participation, vesting, funding, etc., provisions apply
 
@@ -380,7 +380,7 @@ Amendment by Pub. L. 109–280 applicable to years beginning before, on, or afte
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxable years beginning on or after Aug. 5, 1997, with certain governmental plans treated as satisfying requirements for all taxable years beginning before Aug. 5, 1997, see section 1505(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
+Amendment by Pub. L. 105–34 applicable to taxable years beginning on or after Aug. 5, 1997, with certaingovernmental plans treated as satisfying requirements for all taxable years beginning before Aug. 5, 1997, see section 1505(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -464,7 +464,7 @@ Application of funding rules.—
 
 &emsp;&emsp;"(A)
 
-In general.—In the case of a plan maintained on January 1, 1974, pursuant to one or moreagreements which the Secretary of Labor finds to be collective bargaining agreements between employee representatives and one or more employers, section 412 of the Internal Revenue Code of 1986, and other amendments made by this part to the extent such amendments relate to such section 412, shall not apply during the special temporary waiver period (as defined in paragraph (1)(B)).
+In general.—In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary of Labor finds to be collective bargaining agreements between employee representatives and one or more employers, section 412 of the Internal Revenue Code of 1986, and other amendments made by this part to the extent such amendments relate to such section 412, shall not apply during the special temporary waiver period (as defined in paragraph (1)(B)).
 
 &emsp;&emsp;"(B)
 
@@ -540,7 +540,7 @@ Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity 
 
 #### Deemed Election
 
-Pub. L. 113–97, title I, §103(c), Apr. 7, 2014, 128 Stat. 1120, provided that: "For purposes of the Internal Revenue Code of 1986, sections 4(b)(2) and 4021(b)(3) of the Employee Retirement Income Security Act of 1974 \[29U.S.C. 1003(b)(2), 1321(b)(3)\], and all other purposes, a plan shall be deemed to have made an irrevocable election under section 410(d) of the Internal Revenue Code of 1986 if—
+Pub. L. 113–97, title I, §103(c), Apr. 7, 2014, 128 Stat. 1120, provided that: "For purposes of the Internal Revenue Code of 1986, sections 4(b)(2) and 4021(b)(3) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1003(b)(2), 1321(b)(3)\], and all other purposes, a plan shall be deemed to have made an irrevocable election under section 410(d) of the Internal Revenue Code of 1986 if—
 
 &emsp;"(1) the plan was established before January 1, 2014;
 
@@ -548,7 +548,7 @@ Pub. L. 113–97, title I, §103(c), Apr. 7, 2014, 128 Stat. 1120, provided that
 
 &emsp;"(3) the plan sponsor does not make an election under section 210(f)(3)(A) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1060(f)(3)(A)\] and section 414(y)(3)(A) of the Internal Revenue Code of 1986, as added by this Act; and
 
-&emsp;"(4) the plan, plan sponsor, administrator, or fiduciary remits one or more premium payments for the plan to the Pension Benefit Guaranty Corporation for a plan year beginning after December 31, 2013."
+&emsp;"(4) the plan, plan sponsor, administrator, or fiduciary remits one or more premium payments for theplan to the Pension Benefit Guaranty Corporation for a plan year beginning after December 31, 2013."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

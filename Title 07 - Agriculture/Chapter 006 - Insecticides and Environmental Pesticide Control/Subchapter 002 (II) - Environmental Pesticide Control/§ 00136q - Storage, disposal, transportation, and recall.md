@@ -54,7 +54,7 @@
 
 &emsp;A regulation issued under this subsection may require any person that is subject to the regulation to—
 
-&emsp;&emsp;(A) arrange to make available one or more storage facilities to receive and store the pesticide to which the recall program applies, and inform the Administrator of the location of each such facility;
+&emsp;&emsp;(A) arrange to make available one or more storage facilities to receive and store thepesticide to which the recall program applies, and inform the Administrator of the location of each such facility;
 
 &emsp;&emsp;(B) accept and store at such a facility those existing stocks of such pesticide that are tendered by any other person who obtained the pesticide directly or indirectly from the person that is subject to such regulation;
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(C) 50 percent of the costs incurred by the registrant during the 1-year period beginning on the date of the approval of the plan by the Administrator or the date of cancellation of the registration of the pesticide, whichever is later;
 
-&emsp;&emsp;(D) none of the costs incurred by the registrant during the 3-year period beginning onthe 366th day following approval of the plan by the Administrator or the date of cancellation of the registration of the pesticide, whichever is later; and
+&emsp;&emsp;(D) none of the costs incurred by the registrant during the 3-year period beginning on the 366th day following approval of the plan by the Administrator or the date of cancellation of the registration of the pesticide, whichever is later; and
 
 &emsp;&emsp;(E) 25 percent of the costs incurred by the registrant during the period beginning on the first day of the 5th year following the date of the approval of the plan by the Administrator or the date of cancellation of the registration of the pesticide, whichever is later, and ending on the date that a disposal permit for the pesticide is issued by a State or an alternative plan for disposal of the pesticide in accordance with applicable law has been developed.
 
@@ -130,7 +130,7 @@
 
 #### (2) Compliance
 
-&emsp;The Administrator shall require compliance with the regulations referred to in paragraph (1) not later than 5 years after the effective date of this subsection.
+&emsp;The Administrator shall require compliance with the regulations referred to in paragraph\(1) not later than 5 years after the effective date of this subsection.
 
 #### (f) Pesticide residue removal
 
@@ -178,7 +178,7 @@
 
 #### (2) Report
 
-&emsp;Not later than 2 years after the effective date of this subsection, the Administratorshall submit to Congress a report describing the results of the study required under paragraph (1).
+&emsp;Not later than 2 years after the effective date of this subsection, the Administrator shall submit to Congress a report describing the results of the study required under paragraph (1).
 
 #### (h) Relationship to Solid Waste Disposal Act
 

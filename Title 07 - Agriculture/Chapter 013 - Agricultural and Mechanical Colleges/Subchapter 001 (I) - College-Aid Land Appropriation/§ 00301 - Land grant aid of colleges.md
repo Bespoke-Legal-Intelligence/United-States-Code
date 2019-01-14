@@ -18,7 +18,7 @@ Pub. L. 107–171, title VII, §7201(e), May 13, 2002, 116 Stat. 437, provided t
 
 Pub. L. 106–387, §1(a) \[title I\], Oct. 28, 2000, 114 Stat. 1549, 1549A–7, provided in part: "That hereafter, any distribution of the adjusted income from the Native American Institutions Endowment Fund is authorized to be used for facility renovation, repair, construction, and maintenance, in addition to other authorized purposes."
 
-Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title II, §251, title III, §301(g), June 23, 1998, 112 Stat. 557, 563; Pub. L. 105–332, §3(d), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 107–171, title VII, §§7126(f)–7128, 7201(a)–(d), May 13, 2002, 116 Stat. 435–437; Pub. L. 108–204, title I, §128, Mar. 2, 2004, 118 Stat. 547; Pub. L. 108–447, div. A, title VII, §777, Dec. 8, 2004, 118 Stat. 2849; Pub. L. 110–234, title VII, §7402(a)–(e), May 22, 2008, 122 Stat. 1245, 1246; Pub. L. 110–246, §4(a), title VII, §7402(a)–(e), June 18, 2008, 122 Stat. 1664, 2007; Pub. L. 110–315, title IX, §941(k)(2)(A), Aug. 14, 2008, 122 Stat. 3465; Pub. L. 113–79, title VII, §7402(a)(1), (b)–(d), Feb. 7, 2014, 128 Stat. 893, 894, provided that:
+Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title II, §251, title III, §301(g), June 23, 1998, 112 Stat. 557, 563; Pub. L. 105–332, §3(d), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 107–171, title VII, §§7126(f)–7128, 7201(a)–(d), May 13, 2002, 116 Stat. 435–437; Pub. L. 108–204, title I, §128, Mar. 2, 2004, 118 Stat. 547; Pub. L. 108–447, div. A, title VII, §777, Dec. 8, 2004, 118 Stat. 2849; Pub. L. 110–234, title VII, §7402(a)–(e), May 22, 2008, 122 Stat. 1245, 1246; Pub. L. 110–246, §4(a), title VII, §7402(a)–(e), June 18, 2008, 122 Stat. 1664, 2007; Pub. L. 110–315, title IX, §941(k)(2)(A), Aug. 14, 2008, 122 Stat. 3465; Pub. L. 113–79, title VII, §7402(a)(1), (b)–(d), Feb. 7, 2014, 128 Stat. 893, 894; Pub. L. 115–334, title VII, §§7502(a)(1), (b)–(d), 7609(b), Dec. 20, 2018, 132 Stat. 4820, 4821, 4830, provided that:
 
 #### "SEC. 531. SHORT TITLE.
 
@@ -48,55 +48,57 @@ Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by
 
 &emsp;"(10) Fond du Lac Tribal and Community College.
 
-&emsp;"(11) Fort Berthold Community College.
+&emsp;"(11) Fort Peck Community College.
 
-&emsp;"(12) Fort Peck Community College.
+&emsp;"(12) Haskell Indian Nations University.
 
-&emsp;"(13) Haskell Indian Nations University.
+&emsp;"(13) Ilisagvik College.
 
-&emsp;"(14) Ilisagvik College.
+&emsp;"(14) Institute of American Indian and Alaska Native Culture and Arts Development.
 
-&emsp;"(15) Institute of American Indian and Alaska Native Culture and Arts Development.
+&emsp;"(15) Keweenaw Bay Ojibwa Community College.
 
-&emsp;"(16) Keweenaw Bay Ojibwa Community College.
+&emsp;"(16) Lac Courte Oreilles Ojibwa Community College.
 
-&emsp;"(17) Lac Courte Oreilles Ojibwa Community College.
+&emsp;"(17) Leech Lake Tribal College.
 
-&emsp;"(18) Leech Lake Tribal College.
+&emsp;"(18) Little Big Horn College.
 
-&emsp;"(19) Little Big Horn College.
+&emsp;"(19) Little Priest Tribal College.
 
-&emsp;"(20) Little Priest Tribal College.
+&emsp;"(20) Navajo Technical University.
 
-&emsp;"(21) Navajo Technical College.
+&emsp;"(21) Nebraska Indian Community College.
 
-&emsp;"(22) Nebraska Indian Community College.
+&emsp;"(22) Northwest Indian College.
 
-&emsp;"(23) Northwest Indian College.
+&emsp;"(23) Nueta Hidatsa Sahnish College.
 
 &emsp;"(24) Oglala Lakota College.
 
-&emsp;"(25) Saginaw Chippewa Tribal College.
+&emsp;"(25) Red Lake Nation College.
 
-&emsp;"(26) Salish Kootenai College.
+&emsp;"(26) Saginaw Chippewa Tribal College.
 
-&emsp;"(27) Sinte Gleska University.
+&emsp;"(27) Salish Kootenai College.
 
-&emsp;"(28) Sisseton Wahpeton College.
+&emsp;"(28) Sinte Gleska University.
 
-&emsp;"(29) Sitting Bull College.
+&emsp;"(29) Sisseton Wahpeton College.
 
-&emsp;"(30) Southwestern Indian Polytechnic Institute.
+&emsp;"(30) Sitting Bull College.
 
-&emsp;"(31) Stone Child College.
+&emsp;"(31) Southwestern Indian Polytechnic Institute.
 
-&emsp;"(32) Tohono O'odham Community College.
+&emsp;"(32) Stone Child College.
 
-&emsp;"(33) Turtle Mountain Community College.
+&emsp;"(33) Tohono O'odham Community College.
 
-&emsp;"(34) United Tribes Technical College.
+&emsp;"(34) Turtle Mountain Community College.
 
-&emsp;"(35) White Earth Tribal and Community College.
+&emsp;"(35) United Tribes Technical College.
+
+&emsp;"(36) White Earth Tribal and Community College.
 
 #### "SEC. 533. LAND-GRANT STATUS FOR 1994 INSTITUTIONS.
 
@@ -114,7 +116,11 @@ institutions.—(A) 1994 Institutions shall not be considered as land-grant coll
 
 &emsp;&emsp;"(i) the Act of March 2, 1887 (24 Stat. 440, chapter 314; 7 U.S.C. 361a et seq.);
 
-&emsp;&emsp;"(ii) the Act of May 8, 1914 (38 Stat. 373, chapter 79; 7 U.S.C. 343), except as provided under section 3(b)(3) of such Act \[7 U.S.C. 343(b)(3)\] (as added by section 534(b)(1) of this part); or
+&emsp;&emsp;"(ii) the Smith-Lever Act (7 U.S.C. 341 et seq.), except as provided under—
+
+&emsp;&emsp;&emsp;"(I) section 3(b)(3) of that Act (7 U.S.C. 343(b)(3)); or
+
+&emsp;&emsp;&emsp;"(II) the third sentence of section 3(d) of that Act (7 U.S.C. 343(d)); or
 
 &emsp;&emsp;"(iii) the Act of August 30, 1890 (26 Stat. 417, chapter 841; 7 U.S.C. 321 et seq.) (commonly known as the Second Morrill Act).
 
@@ -130,7 +136,7 @@ Accreditation.—To receive funding under this section and sections 534, 535, an
 
 "(b)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2018. Amounts appropriated pursuant to this section shall be held and considered to have been granted to 1994 Institutions to establish an endowment pursuant to subsection (c).
+Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2023. Amounts appropriated pursuant to this section shall be held and considered to have been granted to 1994 Institutions to establish an endowment pursuant to subsection (c).
 
 "(c)
 
@@ -230,7 +236,7 @@ In General.—
 
 &emsp;"(1)
 
-Institutional capacity building grants.—For each of fiscal years 1996 through 2018, the Secretary shall make two or more institutional capacity building grants to assist 1994 Institutions with constructing, acquiring, and remodeling buildings, laboratories, and other capital facilities (including fixtures and equipment) necessary to conduct instructional activities more effectively in agriculture and sciences.
+Institutional capacity building grants.—For each of fiscal years 1996 through 2023, the Secretary shall make two or more institutional capacity building grants to assist 1994 Institutions with constructing, acquiring, and remodeling buildings, laboratories, and other capital facilities (including fixtures and equipment) necessary to conduct instructional activities more effectively in agriculture and sciences.
 
 &emsp;"(2)
 
@@ -242,7 +248,7 @@ Requirements for grants.—The Secretary shall make grants under this section—
 
 &emsp;"(3)
 
-Demonstration of need.—The Secretary shall require, as part of an application for a grant under this subsection, a demonstration of need. The Secretary may only award a grant under this subsection to an applicant that demonstrates a failure to obtain funding for a project after making a reasonable effort to otherwise obtain the funding.
+Demonstration of need.—The Secretary shall require, as part of an application for a grant underthis subsection, a demonstration of need. The Secretary may only award a grant under this subsection to an applicant that demonstrates a failure to obtain funding for a project after making a reasonable effort to otherwise obtain the funding.
 
 &emsp;"(4)
 
@@ -250,7 +256,7 @@ Payment of non-federal share.—A grant awarded under this subsection shall be m
 
 "(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Department of Agriculture to carry out this section, such sums as are necessary for each of fiscal years 2002 through 2018.
+Authorization of Appropriations.—There are authorized to be appropriated to the Department of Agriculture to carry out this section, such sums as are necessary for each of fiscal years 2002 through 2023.
 
 #### "SEC. 536. RESEARCH GRANTS.
 
@@ -274,7 +280,9 @@ Requirements.—Grant applications submitted under this section shall certify th
 
 "(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2018. Amounts appropriated shall remain available until expended."
+Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2023. Amounts appropriated shall remain available until expended."
+
+\[Pub. L. 115–334, title VII, §7502(a)(2), Dec. 20, 2018, 132 Stat. 4820, provided that: "The amendment made by paragraph (1) \[amending section 532 of Pub. L. 103–382, set out above\] shall take effect on the date of the enactment of this Act \[Dec. 20, 2018\]."\]
 
 \[Pub. L. 113–79, title VII, §7402(a)(2), Feb. 7, 2014, 128 Stat. 894, provided that: "The amendments made by paragraph (1) \[amending section 532 of Pub. L. 103–382, set out above\] shall take effect on October 1, 2014."\]
 

@@ -24,7 +24,7 @@
 
 &emsp;(B) remove and reduce to possession any such species from areas under Federal jurisdiction; maliciously damage or destroy any such species on any such area; or remove, cut, dig up, or damage or destroy any such species on any other area in knowing violation of any law or regulation of any State or in the course of any violation of a State criminal trespass law;
 
-&emsp;(C) deliver, receive, carry, transport, or ship in interstate or foreign commerce, by anymeans whatsoever and in the course of a commercial activity, any such species;
+&emsp;(C) deliver, receive, carry, transport, or ship in interstate or foreign commerce, by any means whatsoever and in the course of a commercial activity, any such species;
 
 &emsp;(D) sell or offer for sale in interstate or foreign commerce any such species; or
 
@@ -52,7 +52,7 @@
 
 &emsp;(A) such fish or wildlife is not an endangered species listed pursuant to section 1533 of this title but is listed in Appendix II to the Convention,
 
-&emsp;(B) the taking and exportation of such fish or wildlife is not contrary to the provisions of the Convention and all other applicable requirements of the Convention have been satisfied,
+&emsp;(B) the taking and exportation of such fish or wildlife is not contrary to the provisions ofthe Convention and all other applicable requirements of the Convention have been satisfied,
 
 &emsp;(C) the applicable requirements of subsections (d), (e), and (f) of this section have been satisfied, and
 
@@ -112,7 +112,7 @@ Section 668cc–4 of this title, referred to in subsec. (f)(2), was repealed by 
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–478, §1006, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "remove and reduce to possession any such species from areas under Federal jurisdiction;".
+<b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–478, §1006, amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: "remove and reduce to possession any such species from areas under Federal jurisdiction;".
 
 Subsec. (d). Pub. L. 100–478, §2301, amended subsec. (d) generally, revising and restating as pars. (1) to (4) provisions of former pars. (1) to (3).
 
@@ -126,6 +126,74 @@ Subsec. (b)(2)(A). Pub. L. 97–304, §9(b)(3), substituted "The provisions of s
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–632 designated existing provision as par. (1) and added par. (2).
 
+#### Exemption of Exportation of Certain Echinoderms From Permission and Licensing Requirements
+
+Pub. L. 115–334, title XII, §12617, Dec. 20, 2018, 132 Stat. 5016, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Conservation and management.—The term 'conservation and management' has the meaning given the term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802).
+
+&emsp;"(2)
+
+Marine Fisheries Commission.—The term 'Marine Fisheries Commission' means an interstate commission (as that term is used in the Interjurisdictional Fisheries Act of 1986 (16 USC \[U.S.C.\] 4101 et seq.)).
+
+&emsp;"(3)
+
+State jurisdiction.—The term 'State jurisdiction' means areas under the jurisdiction and authority of a State as described in section 306(a)(2) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1856(a)(2)).
+
+"(b)
+
+Exemption.—Not later than 90 days after the date of enactment of this Act \[Dec. 20, 2018\], the Director of the United States Fish and Wildlife Service shall amend section 14.92 of title 50, Code of Federal Regulations, to clarify that—
+
+&emsp;"(1) except as provided in paragraph (2) and subsection (d)(2)—
+
+&emsp;&emsp;"(A) fish and wildlife described in subsection (c) are fishery products exempt from the export permission requirements of section 9(d)(1) of the Endangered Species Act of 1973 (16 U.S.C. 1538(d)(1)); and
+
+&emsp;&emsp;"(B) any person may engage in business as an exporter of fish or wildlife described in subsection (c) without procuring—
+
+&emsp;&emsp;&emsp;"(i) permission under section 9(d)(1) of the Endangered Species Act of 1973 (16 U.S.C. 1538(d)(1)); or
+
+&emsp;&emsp;&emsp;"(ii) an export license under subpart I of part 14 of title 50, Code of Federal Regulations (or successor regulations); and
+
+&emsp;"(2) notwithstanding paragraph (1), unless the person has qualified for and obtained an export license described in paragraph (1)(B)(ii), any person that has been convicted of 1 or more violations of a Federal law relating to the importation, transportation, or exportation of wildlife shall not be permitted, during the 5-year period beginning on the date of the most recent conviction, to engage in business as an exporter of fish or wildlife described in subsection (c).
+
+"(c)
+
+Covered Fish or Wildlife.—The fish or wildlife referred to in subsection (b) are members of the species <i>Strongylocentrotus droebachiensis</i> (commonly known as the 'green sea urchin'), including any products of that species, that—
+
+&emsp;"(1) do not require a permit under part 16, 17, or 23 of title 50, Code of Federal Regulations (or successor regulations);
+
+&emsp;"(2)(A) are harvested in waters under State jurisdiction; or
+
+&emsp;"(B) are imported for processing in the United States pursuant to an import license as required under section 14.91 of title 50, Code of Federal Regulations (or a successor regulation), and not exempt from import license requirements under section 14.92 of that title (as in effect on the day before the date of enactment of this Act); and
+
+&emsp;"(3) are exported for purposes of human or animal consumption.
+
+"(d)
+
+Information Collection on Exports.—
+
+&emsp;"(1)
+
+In general.—The State agency that regulates or otherwise oversees a State fishery in which the fish and wildlife described in subsection (c) are harvested shall annually transmit the conservation and management data (as defined in subsection (a)) to the Interstate Fisheries Management Program Policy Board of the applicable Marine Fisheries Commission.
+
+&emsp;"(2)
+
+Privacy.—Such data thereafter shall not be released and shall be maintained as confidential by such applicable Marine Fisheries Commission, including data requested under the \[sic\] section 552 of title 5, United States Code, unless disclosure is required under court order or unless the data is essential for an enforcement action under Federal wildlife management laws.
+
+&emsp;"(3)
+
+Exclusion.—The exemption under subsection (b)(1) shall not apply in a State if—
+
+&emsp;&emsp;"(A) the State fails to transmit the data required under paragraph (1); or
+
+&emsp;&emsp;"(B) the applicable Marine Fisheries Commission determines, in consultation with the primary research agency of such Commission, after notice and an opportunity to comment, that the data required under paragraph (1) fails to prove that the State agency or official is engaged in conservation and management of the fish or wildlife described in subsection (c)."
+
 #### Human Activities Within Proximity of Whales
 
 Pub. L. 103–238, §17, Apr. 30, 1994, 108 Stat. 559, provided that:
@@ -136,7 +204,7 @@ Lawful Approaches.—In waters of the United States surrounding the State of Haw
 
 "(b)
 
-Termination of Legal Effect of Certain Regulations.—Subsection (b) of section 222.31 of title 50, Code of Federal Regulations, shall cease to be in force and effect."
+Termination of Legal Effect of Certain Regulations.—Subsection (b) of section 222.31 of title 50,Code of Federal Regulations, shall cease to be in force and effect."
 
 #### Territorial Sea of United States
 

@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall provide under subsection (d) for the purchase and delivery on behalf of each State meeting the requirement of section 1396a(a)(62) of this title (or, with respect to vaccines administered by an Indian tribe or tribal organization to Indian children, directly to the tribe or organization), without charge to the State, of suchquantities of qualified pediatric vaccines as may be necessary for the administration of such vaccines to all federally vaccine-eligible children in the State on or after October 1, 1994. This paragraph constitutes budget authority in advance of appropriations Acts, and represents the obligation of the Federal Government to provide for the purchase and delivery to States of the vaccines (or payment under subparagraph (C)) in accordance with this paragraph.
+&emsp;&emsp;The Secretary shall provide under subsection (d) for the purchase and delivery on behalf of each State meeting the requirement of section 1396a(a)(62) of this title (or, with respect to vaccines administered by an Indian tribe or tribal organization to Indian children, directly to the tribe or organization), without charge to the State, of such quantities of qualified pediatric vaccines as may be necessary for the administration of such vaccines to all federally vaccine-eligible children in the State on or after October 1, 1994. This paragraph constitutes budget authority in advance of appropriations Acts, and represents the obligation of the Federal Government to provide for the purchase and delivery to States of the vaccines (or payment under subparagraph (C)) in accordance with this paragraph.
 
 #### (B) Special rules where vaccine is unavailable
 
@@ -60,7 +60,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) The term "insured" means, with respect to a child—
 
-&emsp;&emsp;&emsp;&emsp;(I) for purposes of subparagraph (A)(ii), that the child is enrolled under, and entitled to benefits under, a health insurance policy or plan, including a group health plan, a prepaid health plan, or an employee welfare benefit plan under the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\]; and
+&emsp;&emsp;&emsp;&emsp;(I) for purposes of subparagraph (A)(ii), that the child is enrolled under, and entitled to benefits under, a health insurance policy or plan, including a group health plan, a prepaid health plan, or an employee welfare benefit plan under theEmployee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\]; and
 
 &emsp;&emsp;&emsp;&emsp;(II) for purposes of subparagraph (A)(iii)(II) with respect to a pediatric vaccine, that the child is entitled to benefits under such a health insurance policy or plan, but such benefits are not available with respect to the cost of the pediatric vaccine.
 
@@ -84,7 +84,7 @@ For purposes of this section:
 
 &emsp;A provider agreement for a provider under this paragraph is an agreement (in such form and manner as the Secretary may require) that the provider agrees as follows:
 
-&emsp;&emsp;(A)(i) Before administering a qualified pediatric vaccine to a child, the provider will ask a parent of the child such questions as are necessary to determine whether thechild is a vaccine-eligible child, but the provider need not independently verify the answers to such questions.
+&emsp;&emsp;(A)(i) Before administering a qualified pediatric vaccine to a child, the provider will ask a parent of the child such questions as are necessary to determine whether the child is a vaccine-eligible child, but the provider need not independently verify the answers to such questions.
 
 &emsp;&emsp;(ii) The provider will, for a period of time specified by the Secretary, maintain records of responses made to the questions.
 
@@ -164,7 +164,7 @@ The Secretary shall use, for the purpose of the purchase, delivery, and administ
 
 #### (f) Requirement of State maintenance of immunization laws
 
-In the case of a State that had in effect as of May 1, 1993, a law that requires some or all health insurance policies or plans to provide some coverage with respect to a pediatric vaccine, a State program under this section does not comply with the requirements of this section unless the State certifies to the Secretary that the State has not modified or repealed such law in a manner that reduces the amount of coverage so required.
+In the case of a State that had in effect as of May 1, 1993, a law that requires some or allhealth insurance policies or plans to provide some coverage with respect to a pediatric vaccine, a State program under this section does not comply with the requirements of this section unless the State certifies to the Secretary that the State has not modified or repealed such law in a manner that reduces the amount of coverage so required.
 
 #### (g) Termination
 
@@ -188,7 +188,7 @@ For purposes of this section:
 
 &emsp;(7) The term "program-registered provider" has the meaning given such term in subsection (c).
 
-&emsp;(8) The term "qualified pediatric vaccine" means a pediatric vaccine with respect towhich a contract is in effect under subsection (d).
+&emsp;(8) The term "qualified pediatric vaccine" means a pediatric vaccine with respect to which a contract is in effect under subsection (d).
 
 &emsp;(9) The terms "vaccine-eligible child", "federally vaccine-eligible child", and "State vaccine-eligible child" have the meaning given such terms in subsection (b).
 

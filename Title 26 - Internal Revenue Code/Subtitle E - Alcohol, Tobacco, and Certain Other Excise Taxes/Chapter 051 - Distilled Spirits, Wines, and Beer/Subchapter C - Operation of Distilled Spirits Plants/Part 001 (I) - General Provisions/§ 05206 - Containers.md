@@ -2,7 +2,7 @@
 
 #### (a) Authority to prescribe
 
-The Secretary shall by regulations prescribe the types or kinds of containers which may be used to contain, store, transfer, convey, remove, or withdraw distilled spirits.
+The Secretary shall by regulations prescribe the types or kinds of containers which may beused to contain, store, transfer, convey, remove, or withdraw distilled spirits.
 
 #### (b) Standards of fill
 

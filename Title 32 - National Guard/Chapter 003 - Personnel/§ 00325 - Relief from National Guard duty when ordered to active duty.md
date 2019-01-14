@@ -16,7 +16,7 @@ Advance Authorization and Consent.—The President and the Governor of a State o
 
 (c)
 
-Return to State Status.—So far as practicable, members, organizations, and units of the Army National Guard of the United Statesor the Air National Guard of the United States ordered to active duty shall be returned to their National Guard status upon relief from that duty.
+Return to State Status.—So far as practicable, members, organizations, and units of the Army National Guard of the United States or the Air National Guard of the United States ordered to active duty shall be returned to their National Guard status upon relief from that duty.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 607; Pub. L. 100–456, div. A, title XII, §1234(b)(6), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 108–136, div. A, title V, §516, Nov. 24, 2003, 117 Stat. 1461; Pub. L. 109–163, div. A, title X, §1057(b)(6), Jan. 6, 2006, 119 Stat. 3442; Pub. L. 110–417, \[div. A\], title V, §517, Oct. 14, 2008, 122 Stat. 4442.)
 

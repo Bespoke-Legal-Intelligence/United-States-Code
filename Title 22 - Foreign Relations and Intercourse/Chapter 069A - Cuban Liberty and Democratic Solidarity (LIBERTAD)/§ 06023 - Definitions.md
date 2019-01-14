@@ -112,7 +112,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;&emsp;(A) any United States citizen; or
 
-&emsp;&emsp;(B) any other legal entity which is organized under the laws of the United States, or of any State, the District of Columbia, or any commonwealth, territory, or possession of the United States, and which has its principal place of business in the United States.
+&emsp;&emsp;(B) any other legal entity which is organized under the laws of the United States, or of any State, the District of Columbia, orany commonwealth, territory, or possession of the United States, and which has its principal place of business in the United States.
 
 (Pub. L. 104–114, §4, Mar. 12, 1996, 110 Stat. 789.)
 

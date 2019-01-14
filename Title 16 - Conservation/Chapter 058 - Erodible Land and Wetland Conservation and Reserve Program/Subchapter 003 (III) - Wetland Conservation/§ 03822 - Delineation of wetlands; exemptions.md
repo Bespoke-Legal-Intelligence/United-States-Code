@@ -28,7 +28,7 @@
 
 #### (6) Reliance on prior certified delineation
 
-&emsp;No person shall be adversely affected because of having taken an action based on a previous certified wetland delineation by the Secretary. The delineation shall not be subjectto a subsequent wetland certification or delineation by the Secretary, unless requested by the person under paragraph (4).
+&emsp;No person shall be adversely affected because of having taken an action based on a previous certified wetland delineation by the Secretary. The delineation shall not be subject to a subsequent wetland certification or delineation by the Secretary, unless requested by the person under paragraph (4).
 
 #### (b) Exemptions
 
@@ -58,7 +58,7 @@ No person shall become ineligible under section 3821 of this title for program l
 
 &emsp;&emsp;(H) A converted wetland, if—
 
-&emsp;&emsp;&emsp;(i) the converted wetland was determined by the Natural Resources Conservation Service to have been manipulated for the production of an agricultural commodity or forage prior to December 23, 1985, and was returned to wetland conditions through a voluntary restoration, enhancement, or creation action subsequent to that determination;
+&emsp;&emsp;&emsp;(i) the converted wetland was determined by the Natural Resources Conservation Service to have been manipulated forthe production of an agricultural commodity or forage prior to December 23, 1985, and was returned to wetland conditions through a voluntary restoration, enhancement, or creation action subsequent to that determination;
 
 &emsp;&emsp;&emsp;(ii) technical determinations regarding the prior site conditions and the restoration, enhancement, or creation action have been adequately documented by the Natural Resources Conservation Service;
 
@@ -94,11 +94,17 @@ No person shall become ineligible under section 3821 of this title for program l
 
 #### (c) On-site inspection requirement
 
-No program loans, payments, or benefits shall be withheld from a person under this subchapter unless the Secretary has conducted an on-site visit of the subject land.
+#### (1) In general
+
+&emsp;No program loans, payments, or benefits shall be withheld from a person under this subchapter unless the Secretary has conducted an on-site visit of the subject land, which, except as provided in paragraph (2), shall be conducted in the presence of the affected person.
+
+#### (2) Exception
+
+&emsp;The Secretary may conduct an on-site visit under paragraph (1) without the affected person present if the Secretary has made a reasonable effort to include the presence of the affected person at the on-site visit.
 
 #### (d) Identification of minimal effect exemptions
 
-For purposes of applying the minimal effect exemption under subsection (f)(1), the Secretaryshall identify by regulation categorical minimal effect exemptions on a regional basis to assist persons in avoiding a violation of the ineligibility provisions of section 3821 of this title. The Secretary shall ensure that employees of the Department of Agriculture who administer this subchapter receive appropriate training to properly apply the minimal effect exemptions determined by the Secretary.
+For purposes of applying the minimal effect exemption under subsection (f)(1), the Secretary shall identify by regulation categorical minimal effect exemptions on a regional basis to assist persons in avoiding a violation of the ineligibility provisions of section 3821 of this title. The Secretary shall ensure that employees of the Department of Agriculture who administer this subchapter receive appropriate training to properly apply the minimal effect exemptions determined by the Secretary.
 
 #### (e) Nonwetlands
 
@@ -116,7 +122,7 @@ The Secretary shall exempt a person from the ineligibility provisions of section
 
 &emsp;(1) The action, individually and in connection with all other similar actions authorized by the Secretary in the area, will have a minimal effect on the functional hydrological and biological value of the wetlands in the area, including the value to waterfowl and wildlife.
 
-&emsp;(2) The wetland and the wetland values, acreage, and functions are mitigated by the person through the restoration of a converted wetland, the enhancement of an existing wetland, or the creation of a new wetland, and the restoration, enhancement, or creation is—
+&emsp;(2) The wetland and the wetland values, acreage, and functions are mitigated by theperson through the restoration of a converted wetland, the enhancement of an existing wetland, or the creation of a new wetland, and the restoration, enhancement, or creation is—
 
 &emsp;&emsp;(A) in accordance with a wetland conservation plan;
 
@@ -170,7 +176,7 @@ Any person who is determined to be ineligible for program benefits under section
 
 #### (j) Determinations; restoration and mitigation plans; monitoring activities
 
-Technical determinations, the development of restoration and mitigation plans, and monitoring activities under this section shall be made by the National <sup>2</sup> Resources Conservation Service.
+Technical determinations, the development of restoration and mitigation plans, and monitoring activities under this section shall be made by the Natural Resources Conservation Service.
 
 #### (k) Mitigation banking
 
@@ -180,9 +186,9 @@ Technical determinations, the development of restoration and mitigation plans, a
 
 &emsp;&emsp;Using authorities available to the Secretary, the Secretary shall operate a program or work with third parties to establish mitigation banks to assist persons in complying with the provisions of this section while mitigating any loss of wetland values and functions.
 
-#### (B) Funding
+#### (B) Authorization of appropriations
 
-&emsp;&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use $10,000,000, to remain available until expended, to carry out this paragraph.
+&emsp;&emsp;There is authorized to be appropriated to the Secretary to carry out this paragraph $5,000,000 for each of fiscal years 2019 through 2023.
 
 #### (2) Applicability
 
@@ -192,7 +198,7 @@ Technical determinations, the development of restoration and mitigation plans, a
 
 &emsp;The Secretary shall develop the appropriate policy and criteria that will allow willing persons to access existing mitigation banks, under this section or any other authority, that will serve the purposes of this section without requiring the Secretary to hold an easement, in whole or in part, in a mitigation bank.
 
-(Pub. L. 99–198, title XII, §1222, Dec. 23, 1985, 99 Stat. 1508; Pub. L. 101–624, title XIV, §1422, Nov. 28, 1990, 104 Stat. 3573; Pub. L. 104–127, title III, §322, Apr. 4, 1996, 110 Stat. 987; Pub. L. 110–234, title II, §2003, May 22, 2008, 122 Stat. 1028; Pub. L. 110–246, §4(a), title II, §2003, June 18, 2008, 122 Stat. 1664, 1756; Pub. L. 113–79, title II, §2609, Feb. 7, 2014, 128 Stat. 761.)
+(Pub. L. 99–198, title XII, §1222, Dec. 23, 1985, 99 Stat. 1508; Pub. L. 101–624, title XIV, §1422, Nov.28, 1990, 104 Stat. 3573; Pub. L. 104–127, title III, §322, Apr. 4, 1996, 110 Stat. 987; Pub. L. 110–234, title II, §2003, May 22, 2008, 122 Stat. 1028; Pub. L. 110–246, §4(a), title II, §2003, June 18, 2008, 122 Stat. 1664, 1756; Pub. L. 113–79, title II, §2609, Feb. 7, 2014, 128 Stat. 761; Pub. L. 115–334, title II, §§2102, 2103, 2821(b), Dec. 20, 2018, 132 Stat. 4530, 4602.)
 
 #### References in Text
 
@@ -203,6 +209,12 @@ Section 3843 of this title, referred to in subsec. (g), was omitted and a new se
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–334, §2102, designated existing provisions as par. (1), inserted heading, inserted ", which, except as provided in paragraph (2), shall be conducted in the presence of the affected person" before period at end, and added par. (2).
+
+Subsec. (j). Pub. L. 115–334, §2821(b), substituted "Natural Resources Conservation Service" for "National Resources Conservation Service".
+
+Subsec. (k)(1)(B). Pub. L. 115–334, §2103, amended subpar. (B) generally. Prior to amendment, text read as follows: "Of the funds of the Commodity Credit Corporation, the Secretary shall use $10,000,000, to remain available until expended, to carry out this paragraph."
 
 <b>2014</b>—Subsec. (k). Pub. L. 113–79 amended subsec. (k) generally. Prior to amendment, text read as follows: "Using authorities available to the Secretary, the Secretary may operate a pilot program for mitigation banking of wetlands to assist persons to increase the efficiency of agricultural operations while protecting wetland functions and values. Subsection (f)(2)(C) of this section shall not apply to this subsection."
 
@@ -237,6 +249,4 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section 326 of Pub. L. 104–127, set out as a note under section 3821 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "Natural".</i>
 

@@ -46,7 +46,7 @@ In this chapter:
 
 &emsp;&emsp;(D) A brother or sister of the person, if such brother or sister has attained the age of 18 years.
 
-&emsp;&emsp;(E) Any other blood relative or adoptive relative of the person, if such relative wasgiven sole legal custody of the person by a court decree or otherwise under law before the person attained the age of 18 years and such custody was not subsequently terminated before that time.
+&emsp;&emsp;(E) Any other blood relative or adoptive relative of the person, if such relative was given sole legal custody of the person by a court decree or otherwise under law before the person attained the age of 18 years and such custody was not subsequently terminated before that time.
 
 &emsp;(6) The term "previously designated person", in the case of a missing person, means an individual designated by the person under section 655 of this title for purposes of this chapter.
 

@@ -16,7 +16,7 @@ Lease to Public or Nonprofit Organizations.—(1) A lease under subsection (a) t
 
 (d)
 
-Notice.—Before entering into a lease under subsection (a), the Secretary shall give appropriate public notice of the intention of the Secretary to enter into the lease in a newspaper ofgeneral circulation in the community in which the lands or buildings concerned are located.
+Notice.—Before entering into a lease under subsection (a), the Secretary shall give appropriate public notice of the intention of the Secretary to enter into the lease in a newspaper of general circulation in the community in which the lands or buildings concerned are located.
 
 (e)
 

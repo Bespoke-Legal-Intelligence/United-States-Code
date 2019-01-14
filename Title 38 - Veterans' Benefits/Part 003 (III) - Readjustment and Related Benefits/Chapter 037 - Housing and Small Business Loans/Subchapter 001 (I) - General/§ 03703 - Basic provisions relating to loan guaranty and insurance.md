@@ -62,9 +62,9 @@
 
 &emsp;(i) the initial principal amount of the loan may not exceed the reasonable value of the property as of the time the loan is made; and
 
-&emsp;(ii) the principal amount of the loan thereafter (including the amount of all interest to be deferred and added to principal) may not at any time be scheduled to exceed the projected value of the property.
+&emsp;(ii) the principal amount of the loan thereafter (including the amount of all interest tobe deferred and added to principal) may not at any time be scheduled to exceed the projected value of the property.
 
-(C) For the purposes of subparagraph (B) of this paragraph, the projected value of the property shall be calculated by the Secretary by increasing the reasonable value of the property as of the time the loan is made at a rate not in excess of 2.5 percent per year, but in no event maythe projected value of the property for the purposes of such subparagraph exceed 115 percent of such reasonable value. A loan made for a purpose other than the acquisition of a single-family dwelling unit may not be guaranteed under such subparagraph.
+(C) For the purposes of subparagraph (B) of this paragraph, the projected value of the property shall be calculated by the Secretary by increasing the reasonable value of the property as of the time the loan is made at a rate not in excess of 2.5 percent per year, but in no event may the projected value of the property for the purposes of such subparagraph exceed 115 percent of such reasonable value. A loan made for a purpose other than the acquisition of a single-family dwelling unit may not be guaranteed under such subparagraph.
 
 (3)(A) Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan is so secured, the Secretary may either disregard or allow for subordination to a superior lien created by a duly recorded covenant running with the realty in favor of either of the following:
 
@@ -94,7 +94,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
-<b>2012</b>—Subsec. (d)(3). Pub. L. 112–154 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan for the purchase or construction of a home is so secured, the Secretary may disregard a superior lien created by a duly recorded covenant running with the realty in favor of a private entity to secure an obligation to such entity for the homeowner's share of the costs of the management, operation, or maintenance of property, services or programs within and for the benefit of the development or community in which the veteran's realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant. In respect to any such superior lien to be created after June 6, 1969, the Secretary's determinationmust have been made prior to the recordation of the covenant."
+<b>2012</b>—Subsec. (d)(3). Pub. L. 112–154 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan for the purchase or construction of a home is so secured, the Secretary may disregard a superior lien created by a duly recorded covenant running with the realty in favor of a private entity to secure an obligation to such entity for the homeowner's share of the costs of the management, operation, or maintenance of property, services or programs within and for the benefit of the development or community in which the veteran's realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant. In respect to any such superior lien to be created after June 6, 1969, the Secretary's determination must have been made prior to the recordation of the covenant."
 
 <b>2009</b>—Subsec. (d)(1). Pub. L. 111–22 inserted "at the time of origination" after "loan".
 
@@ -264,11 +264,11 @@ Amendment by Pub. L. 103–353 effective with respect to reemployments initiated
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–237, title III, §306(b), Dec. 18, 1989, 103 Stat. 2074, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 18, 1989\] and shall apply only with respect to loans closed after such date."
+Pub. L. 101–237, title III, §306(b), Dec. 18, 1989, 103 Stat. 2074, provided that: "The amendments made bysubsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 18, 1989\] and shall apply only with respect to loans closed after such date."
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–253, §3(c), Feb. 29, 1988, 102 Stat. 21, provided that: "The amendments made by this section \[amending this section and section 1819 \[now 3712\] ofthis title\] shall apply to loans which are closed on or after February 1, 1988, except that they shall not apply to any loan for which a guaranty commitment is made on or before December 31, 1987."
+Pub. L. 100–253, §3(c), Feb. 29, 1988, 102 Stat. 21, provided that: "The amendments made by this section \[amending this section and section 1819 \[now 3712\] of this title\] shall apply to loans which are closed on or after February 1, 1988, except that they shall not apply to any loan for which a guaranty commitment is made on or before December 31, 1987."
 
 #### Effective Date of 1987 Amendment
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(ii) determining, after an unusual mortality event has begun, if response actions with respect to that event are no longer necessary; and
 
-&emsp;&emsp;(iii) developing the contingency plan in accordance with subsection (b), to assist theSecretary in responding to unusual mortality events.
+&emsp;&emsp;(iii) developing the contingency plan in accordance with subsection (b), to assist the Secretary in responding to unusual mortality events.
 
 &emsp;(B) The Federal Advisory Committee Act (5 App. U.S.C.) shall not apply to the marine mammal unusual mortality event working group established under this paragraph.
 

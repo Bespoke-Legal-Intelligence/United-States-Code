@@ -26,7 +26,7 @@ In the case of a self-insured plan under subsection (a)(4), the amounts may be u
 
 Nothing in this section shall be construed as affecting the use of any amounts not referred to in subsection (a).
 
-(Pub. L. 94–437, title IV, §402, Sept. 30, 1976, 90 Stat. 1409; Pub. L. 100–713, title IV, §401(a), (b), Nov. 23, 1988, 102 Stat. 4818; Pub. L. 102–573, title IV, §401(b)(1), Oct. 29, 1992, 106 Stat. 4565; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title IV, §402, Sept. 30, 1976, 90 Stat. 1409; Pub. L. 100–713, title IV, §401(a), (b), Nov. 23, 1988, 102 Stat. 4818; Pub. L. 102–573, title IV, §401(b)(1), Oct. 29, 1992, 106 Stat. 4565; Pub. L.111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### References in Text
 

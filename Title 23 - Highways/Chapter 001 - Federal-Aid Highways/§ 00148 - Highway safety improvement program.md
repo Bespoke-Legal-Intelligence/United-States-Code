@@ -164,7 +164,7 @@ State strategic highway safety plan.—The term "State strategic highway safety 
 
 &emsp;(12)
 
-Systemic safety improvement.—The term "systemic safety improvement" means an improvement that is widely implementedbased on high-risk roadway features that are correlated with particular crash types, rather than crash frequency.
+Systemic safety improvement.—The term "systemic safety improvement" means an improvement that is widely implemented based on high-risk roadway features that are correlated with particular crash types, rather than crash frequency.
 
 (b)
 
@@ -352,7 +352,7 @@ Inclusions.—The term "data improvement activities" includes a project or activ
 
 &emsp;&emsp;&emsp;(i) to create, update, or enhance a highway basemap of all public roads in a State;
 
-&emsp;&emsp;&emsp;(ii) to collect safety data, including data identified as part of the model inventory for roadway elements, for creation of or use on a highway basemap of all public roads in a State;
+&emsp;&emsp;&emsp;(ii) to collect safety data, including data identified as part of the model inventory for roadway elements, for creation of oruse on a highway basemap of all public roads in a State;
 
 &emsp;&emsp;&emsp;(iii) to store and maintain safety data in an electronic manner;
 
@@ -566,7 +566,7 @@ Contents.—The report shall include—
 
 &emsp;&emsp;"(i) a summary of cost-effective roadway safety infrastructure improvements;
 
-&emsp;&emsp;"(ii) a summary of the latest research on the financial savings and reduction in fatalities and serious bodily injury crashes from the implementation of cost-effective roadway safety infrastructure improvements; and
+&emsp;&emsp;"(ii) a summary of the latest research on the financial savings and reduction in fatalities and serious bodily injury crashes from the implementationof cost-effective roadway safety infrastructure improvements; and
 
 &emsp;&emsp;"(iii) recommendations for State and local governments on best practice methods to install cost-effective roadway safety infrastructure on high-risk rural roads.
 

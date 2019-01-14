@@ -8,7 +8,7 @@
 
 #### (2) Increased efficiency and expertise through contracts
 
-&emsp;The Secretary may use the authority granted in paragraph (1) whenever the Secretary determines that use of a contract described in paragraph (1) will improve the timeliness of the review of an application or submission described in paragraph (1), unless using such authority would reduce the quality, or unduly increase the cost, of such review. The Secretary may use such authority whenever the Secretary determines that use of such a contract will improve the quality of the review of an application or submission described in paragraph (1), unless using such authority would unduly increase the cost of such review. Such improvement in timeliness or quality may include providing the Secretary increased scientific or technical expertise that is necessary to review or evaluate new therapies and technologies.
+&emsp;The Secretary may use the authority granted in paragraph (1) whenever the Secretary determines that use of a contract described in paragraph (1) will improve the timeliness of the review of an application or submission described in paragraph (1), unless using such authority would reduce the quality, or unduly increase the cost, of such review. The Secretary may use such authority whenever the Secretary determines that use of such a contract will improve the quality of the review of an application or submission described in paragraph (1), unless using such authority would unduly increase the cost of such review.Such improvement in timeliness or quality may include providing the Secretary increased scientific or technical expertise that is necessary to review or evaluate new therapies and technologies.
 
 #### (b) Review of expert review
 

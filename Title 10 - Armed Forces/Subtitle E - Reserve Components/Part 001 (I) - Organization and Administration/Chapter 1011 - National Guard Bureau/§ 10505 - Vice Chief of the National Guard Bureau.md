@@ -68,7 +68,7 @@ Subsecs. (d), (e). Pub. L. 108–375, §507(c), struck out subsecs. (d) and (e) 
 
 #### Change of Name
 
-Pub. L. 112–81, div. A, title V, §511(c)(3), Dec. 31, 2011, 125 Stat. 1393, provided that: "Any reference in any law, regulation, document, paper, or other record of the United States to the Director of the Joint Staff of the National Guard Bureau shall be deemed to be a reference to the Vice Chief of the National Guard Bureau."
+Pub. L. 112–81, div. A, title V, §511(c)(3), Dec. 31, 2011, 125 Stat. 1393, provided that: "Any reference in any law, regulation, document, paper, or other record of theUnited States to the Director of the Joint Staff of the National Guard Bureau shall be deemed to be a reference to the Vice Chief of the National Guard Bureau."
 
 Pub. L. 108–375, div. A, title V, §508(d), Oct. 28, 2004, 118 Stat. 1877, provided that: "Any reference in any law, regulation, document, paper, or other record of the United States to the Vice Chief of the National Guard Bureau shall be deemed to be a reference to the Director of the Joint Staff of the National Guard Bureau."
 

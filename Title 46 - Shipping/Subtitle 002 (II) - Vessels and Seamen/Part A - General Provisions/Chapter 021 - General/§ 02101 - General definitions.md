@@ -12,27 +12,23 @@ In this subtitle—
 
 &emsp;&emsp;(B) with the exception of emergency locator beacons for recreational vessels operating beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured or beyond 3 nautical miles from the coastline of the Great Lakes, does not include radio equipment.
 
-&emsp;\[(2) to (3a) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
+&emsp;(2) "Coast Guard" means the organization established and continued under section 1 <sup>1</sup> of title 14.
 
-&emsp;(4) "Coast Guard" means the organization established and continued under section 1 of title 14.
+&emsp;(3) "Commandant" means the Commandant of the Coast Guard.
 
-&emsp;(5) "commercial service" includes any type of trade or business involving the transportation of goods or individuals, except service performed by a combatant vessel.
+&emsp;(4) "commercial service" includes any type of trade or business involving the transportation of goods or individuals, except service performed by a combatant vessel.
 
-&emsp;(5a) "consideration" means an economic benefit, inducement, right, or profit including pecuniary payment accruing to an individual, person, or entity, but not including a voluntary sharing of the actual expenses of the voyage, by monetary contribution or donation of fuel, food, beverage, or other supplies.
+&emsp;(5) "consideration" means an economic benefit, inducement, right, or profit including pecuniary payment accruing to an individual, person, or entity, but not including a voluntary sharing of the actual expenses of the voyage, by monetary contribution or donation of fuel, food, beverage, or other supplies.
 
-&emsp;\[(6) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
+&emsp;(6) "crude oil" means a liquid hydrocarbon mixture occurring naturally in the earth, whether or not treated to render it suitable for transportation, and includes crude oil fromwhich certain distillate fractions may have been removed, and crude oil to which certain distillate fractions may have been added.
 
-&emsp;(7) "crude oil" means a liquid hydrocarbon mixture occurring naturally in the earth, whether or not treated to render it suitable for transportation, and includes crude oil from which certain distillate fractions may have been removed, and crude oil to which certain distillate fractions may have been added.
+&emsp;(7) "crude oil tanker" means a tanker engaged in the trade of carrying crude oil.
 
-&emsp;(8) "crude oil tanker" means a tanker engaged in the trade of carrying crude oil.
-
-&emsp;(8a) "dangerous drug" means a narcotic drug, a controlled substance, or a controlled substance analog (as defined in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802)).
+&emsp;(8) "dangerous drug" means a narcotic drug, a controlled substance, or a controlled substance analog (as defined in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802)).
 
 &emsp;(9) "discharge", when referring to a substance discharged from a vessel, includes spilling, leaking, pumping, pouring, emitting, emptying, or dumping, however caused.
 
-&emsp;\[(10), (10a) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
-
-&emsp;(10b) "ferry" means a vessel that is used on a regular schedule—
+&emsp;(10) "ferry" means a vessel that is used on a regular schedule—
 
 &emsp;&emsp;(A) to provide transportation only between places that are not more than 300 miles apart; and
 
@@ -44,27 +40,25 @@ In this subtitle—
 
 &emsp;(11) "fish" means finfish, mollusks, crustaceans, and all other forms of marine animal and plant life, except marine mammals and birds.
 
-&emsp;(11a) "fishing vessel" means a vessel that commercially engages in the catching, taking, or harvesting of fish or an activity that can reasonably be expected to result in the catching, taking, or harvesting of fish.
+&emsp;(12) "fishing vessel" means a vessel that commercially engages in the catching, taking, or harvesting of fish or an activity that can reasonably be expected to result in the catching, taking, or harvesting of fish.
 
-&emsp;(11b) "fish processing vessel" means a vessel that commercially prepares fish or fish products other than by gutting, decapitating, gilling, skinning, shucking, icing, freezing, or brine chilling.
+&emsp;(13) "fish processing vessel" means a vessel that commercially prepares fish or fish products other than by gutting, decapitating, gilling, skinning, shucking, icing, freezing, or brine chilling.
 
-&emsp;(11c) "fish tender vessel" means a vessel that commercially supplies, stores, refrigerates, or transports fish, fish products, or materials directly related to fishing or the preparation of fish to or from a fishing, fish processing, or fish tender vessel or a fish processing facility.
+&emsp;(14) "fish tender vessel" means a vessel that commercially supplies, stores, refrigerates, or transports fish, fish products, or materials directly related to fishing or the preparation of fish to or from a fishing, fish processing, or fish tender vessel or a fish processing facility.
 
-&emsp;\[(12) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
+&emsp;(15) "freight vessel" means a motor vessel of more than 15 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that carries freight for hire, except an oceanographic research vessel or an offshore supply vessel.
 
-&emsp;(13) "freight vessel" means a motor vessel of more than 15 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that carries freight for hire, except an oceanographic research vessel or an offshore supply vessel.
+&emsp;(16) "Great Lakes barge" means a non-self-propelled vessel of at least 3,500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title operating on the Great Lakes.
 
-&emsp;(13a) "Great Lakes barge" means a non-self-propelled vessel of at least 3,500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title operating on the Great Lakes.
-
-&emsp;(14) "hazardous material" means a liquid material or substance that is—
+&emsp;(17) "hazardous material" means a liquid material or substance that is—
 
 &emsp;&emsp;(A) flammable or combustible;
 
 &emsp;&emsp;(B) designated a hazardous substance under section 311(b) of the Federal Water Pollution Control Act (33 U.S.C. 1321); or
 
-&emsp;&emsp;(C) designated a hazardous material under section 5103(a) of title 49;
+&emsp;&emsp;(C) designated a hazardous material under section 5103(a) of title 49.
 
-&emsp;(14a) "major conversion" means a conversion of a vessel that—
+&emsp;(18) "major conversion" means a conversion of a vessel that—
 
 &emsp;&emsp;(A) substantially changes the dimensions or carrying capacity of the vessel;
 
@@ -74,7 +68,7 @@ In this subtitle—
 
 &emsp;&emsp;(D) otherwise so changes the vessel that it is essentially a new vessel, as decided by the Secretary.
 
-&emsp;(15) "marine environment" means—
+&emsp;(19) "marine environment" means—
 
 &emsp;&emsp;(A) the navigable waters of the United States and the land and resources in and under those waters;
 
@@ -84,25 +78,23 @@ In this subtitle—
 
 &emsp;&emsp;(D) the recreational, economic, and scenic values of the waters and resources referred to in subclauses (A)–(C) of this clause.
 
-&emsp;(15a) "mobile offshore drilling unit" means a vessel capable of engaging in drilling operations for the exploration or exploitation of subsea resources.
+&emsp;(20) "mobile offshore drilling unit" means a vessel capable of engaging in drilling operations for the exploration or exploitation of subsea resources.
 
-&emsp;(16) "motor vessel" means a vessel propelled by machinery other than steam.
+&emsp;(21) "motor vessel" means a vessel propelled by machinery other than steam.
 
-&emsp;(17) "nautical school vessel" means a vessel operated by or in connection with a nautical school or an educational institution under section 558 of title 40.
+&emsp;(22) "nautical school vessel" means a vessel operated by or in connection with a nautical school or an educational institution under section 558 of title 40.
 
-&emsp;(17a) "navigable waters of the United States" includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
+&emsp;(23) "navigable waters of the United States" includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
 
-&emsp;\[(17b) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
+&emsp;(24) "oceanographic research vessel" means a vessel that the Secretary finds is being employed only in instruction in oceanography or limnology, or both, or only in oceanographic or limnological research, including studies about the sea such as seismic, gravity meter, and magnetic exploration and other marine geophysical or geological surveys, atmospheric research, and biological research.
 
-&emsp;(18) "oceanographic research vessel" means a vessel that the Secretary finds is being employed only in instruction in oceanography or limnology, or both, or only in oceanographic or limnological research, including studies about the sea such as seismic, gravity meter, and magnetic exploration and other marine geophysical or geological surveys, atmospheric research, and biological research.
+&emsp;(25) "offshore supply vessel" means a motor vessel that regularly carries goods, supplies, individuals in addition to the crew, or equipment in support of exploration, exploitation, or production of offshore mineral or energy resources.
 
-&emsp;(19) "offshore supply vessel" means a motor vessel that regularly carries goods, supplies, individuals in addition to the crew, or equipment in support of exploration, exploitation, or production of offshore mineral or energy resources.
+&emsp;(26) "oil" includes oil of any type or in any form, including petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes except dredged spoil.
 
-&emsp;(20) "oil" includes oil of any type or in any form, including petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes except dredged spoil.
+&emsp;(27) "oil spill response vessel" means a vessel that is designated in its certificate of inspection as such a vessel, or that is adapted to respond to a discharge of oil or a hazardous material.
 
-&emsp;(20a) "oil spill response vessel" means a vessel that is designated in its certificate of inspection as such a vessel, or that is adapted to respond to a discharge of oil or a hazardous material.
-
-&emsp;(20b) "overall in length" means—
+&emsp;(28) "overall in length" means—
 
 &emsp;&emsp;(A) for a foreign vessel or a vessel engaged on a foreign voyage, the greater of—
 
@@ -112,7 +104,7 @@ In this subtitle—
 
 &emsp;&emsp;(B) for any other vessel, the horizontal distance of the hull between the foremost part of the stem and the aftermost part of the stern, excluding fittings and attachments.
 
-&emsp;(21) "passenger"—
+&emsp;(29) "passenger"—
 
 &emsp;&emsp;(A) means an individual carried on the vessel except—
 
@@ -154,9 +146,9 @@ In this subtitle—
 
 &emsp;&emsp;&emsp;(iv) a sailing school instructor or sailing school student.
 
-&emsp;(21a) "passenger for hire" means a passenger for whom consideration is contributed as acondition of carriage on the vessel, whether directly or indirectly flowing to the owner, charterer, operator, agent, or any other person having an interest in the vessel.
+&emsp;(30) "passenger for hire" means a passenger for whom consideration is contributed as a condition of carriage on the vessel, whether directly or indirectly flowing to the owner, charterer, operator, agent, or any other person having an interest in the vessel.
 
-&emsp;(22) "passenger vessel" means a vessel of at least 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
+&emsp;(31) "passenger vessel" means a vessel of at least 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
 &emsp;&emsp;(A) carrying more than 12 passengers, including at least one passenger for hire;
 
@@ -166,23 +158,23 @@ In this subtitle—
 
 &emsp;&emsp;(D) that is a ferry carrying a passenger.
 
-&emsp;(23) "product carrier" means a tanker engaged in the trade of carrying oil except crude oil.
+&emsp;(32) "product carrier" means a tanker engaged in the trade of carrying oil except crude oil.
 
-&emsp;(24) "public vessel" means a vessel that—
+&emsp;(33) "public vessel" means a vessel that—
 
 &emsp;&emsp;(A) is owned, or demise chartered, and operated by the United States Government or a government of a foreign country; and
 
 &emsp;&emsp;(B) is not engaged in commercial service.
 
-&emsp;(25) "recreational vessel" means a vessel—
+&emsp;(34) "recreational vessel" means a vessel—
 
 &emsp;&emsp;(A) being manufactured or operated primarily for pleasure; or
 
 &emsp;&emsp;(B) leased, rented, or chartered to another for the latter's pleasure.
 
-&emsp;(26) "recreational vessel manufacturer" means a person engaged in the manufacturing, construction, assembly, or importation of recreational vessels, components, or associated equipment.
+&emsp;(35) "recreational vessel manufacturer" means a person engaged in the manufacturing, construction, assembly, or importation of recreational vessels, components, or associated equipment.
 
-&emsp;(26a) "riding gang member" means an individual who—
+&emsp;(36) "riding gang member" means an individual who—
 
 &emsp;&emsp;(A) has not been issued a merchant mariner document under chapter 73;
 
@@ -198,17 +190,17 @@ In this subtitle—
 
 &emsp;&emsp;(E) is not a citizen or temporary or permanent resident of a country designated by the United States as a sponsor of terrorism or any other country that the Secretary, in consultation with the Secretary of State and the heads of other appropriate United States agencies, determines to be a security threat to the United States.
 
-&emsp;(27) "sailing instruction" means teaching, research, and practical experience in operating vessels propelled primarily by sail and may include—
+&emsp;(37) "sailing instruction" means teaching, research, and practical experience in operating vessels propelled primarily by sail and may include—
 
 &emsp;&emsp;(A) any subject related to that operation and to the sea, including seamanship, navigation, oceanography, other nautical and marine sciences, and maritime history and literature; and
 
 &emsp;&emsp;(B) only when in conjunction with a subject referred to in subclause (A) of this clause, instruction in mathematics and language arts skills to sailing school students having learning disabilities.
 
-&emsp;(28) "sailing school instructor" means an individual who is on board a sailing school vessel to provide sailing instruction, but does not include an operator or crewmember who is among those required to be on board the vessel to meet a requirement established under part F of this subtitle.
+&emsp;(38) "sailing school instructor" means an individual who is on board a sailing school vessel to provide sailing instruction, but does not include an operator or crewmember who is among those required to be on board the vessel to meet a requirement established under part F of this subtitle.
 
-&emsp;(29) "sailing school student" means an individual who is on board a sailing school vessel to receive sailing instruction.
+&emsp;(39) "sailing school student" means an individual who is on board a sailing school vessel to receive sailing instruction.
 
-&emsp;(30) "sailing school vessel" means a vessel—
+&emsp;(40) "sailing school vessel" means a vessel—
 
 &emsp;&emsp;(A) that is less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title;
 
@@ -218,15 +210,25 @@ In this subtitle—
 
 &emsp;&emsp;(D) owned or demise chartered, and operated by an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) and exempt from tax under section 501(a) of that Code, or by a State or political subdivision of a State, during times that the vessel is operated by the organization, State, or political subdivision only for sailing instruction.
 
-&emsp;(31) "scientific personnel" means individuals on board an oceanographic research vessel only to engage in scientific research, or to instruct or receive instruction in oceanography or limnology.
+&emsp;(41)(A) Subject to subparagraph (B), "scientific personnel" means individuals on board an oceanographic research vessel only to engage in scientific research, or to instruct or receive instruction in oceanography or limnology.
 
-&emsp;(32) "seagoing barge" means a non-self-propelled vessel of at least 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title making voyages beyond the Boundary Line.
+&emsp;(B)(i) Such term includes an individual who is on board an oceanographic research vessel only to—
 
-&emsp;(33) "seagoing motor vessel" means a motor vessel of at least 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title making voyages beyond the Boundary Line.
+&emsp;&emsp;(I) engage in scientific research;
 
-&emsp;(34) "Secretary" means the Secretary of the department in which the Coast Guard is operating.
+&emsp;&emsp;(II) instruct in oceanography or limnology; or
 
-&emsp;(35) "small passenger vessel" means a wing-in-ground craft, regardless of tonnage, carrying at least one passenger for hire, and a vessel of less than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
+&emsp;&emsp;(III) receive instruction in oceanography or limnology.
+
+&emsp;(ii) For purposes of clause (i), the age of an individual may not be considered in determining whether the individual is described in such clause.
+
+&emsp;(42) "seagoing barge" means a non-self-propelled vessel of at least 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title making voyages beyond the Boundary Line.
+
+&emsp;(43) "seagoing motor vessel" means a motor vessel of at least 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title making voyages beyond the Boundary Line.
+
+&emsp;(44) "Secretary" means the Secretary of the department in which the Coast Guard is operating.
+
+&emsp;(45) "small passenger vessel" means a wing-in-ground craft, regardless of tonnage, carrying at least one passenger for hire, and a vessel of less than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
 &emsp;&emsp;(A) carrying more than 6 passengers, including at least one passenger for hire;
 
@@ -238,15 +240,13 @@ In this subtitle—
 
 &emsp;&emsp;(E) that is a ferry carrying more than 6 passengers.
 
-&emsp;\[(36) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
+&emsp;(46) "steam vessel" means a vessel propelled in whole or in part by steam, except a recreational vessel of not more than 40 feet in length.
 
-&emsp;(37) "steam vessel" means a vessel propelled in whole or in part by steam, except a recreational vessel of not more than 40 feet in length.
+&emsp;(47) "submersible vessel" means a vessel that is capable of operating below the surface of the water.
 
-&emsp;(37a) "submersible vessel" means a vessel that is capable of operating below the surface of the water.
+&emsp;(48) "tanker" means a self-propelled tank vessel constructed or adapted primarily to carry oil or hazardous material in bulk in the cargo spaces.
 
-&emsp;(38) "tanker" means a self-propelled tank vessel constructed or adapted primarily to carry oil or hazardous material in bulk in the cargo spaces.
-
-&emsp;(39) "tank vessel" means a vessel that is constructed or adapted to carry, or that carries, oil or hazardous material in bulk as cargo or cargo residue, and that—
+&emsp;(49) "tank vessel" means a vessel that is constructed or adapted to carry, or that carries, oil or hazardous material in bulk as cargo or cargo residue, and that—
 
 &emsp;&emsp;(A) is a vessel of the United States;
 
@@ -254,11 +254,9 @@ In this subtitle—
 
 &emsp;&emsp;(C) transfers oil or hazardous material in a port or place subject to the jurisdiction of the United States.
 
-&emsp;(40) "towing vessel" means a commercial vessel engaged in or intending to engage in the service of pulling, pushing, or hauling along side, or any combination of pulling, pushing, or hauling along side.
+&emsp;(50) "towing vessel" means a commercial vessel engaged in or intending to engage in the service of pulling, pushing, or hauling along side, or any combination of pulling, pushing, or hauling along side.
 
-&emsp;\[(41) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
-
-&emsp;(42) "uninspected passenger vessel" means an uninspected vessel—
+&emsp;(51) "uninspected passenger vessel" means an uninspected vessel—
 
 &emsp;&emsp;(A) of at least 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
@@ -272,11 +270,9 @@ In this subtitle—
 
 &emsp;&emsp;&emsp;(ii) that is chartered with the crew provided or specified by the owner or the owner's representative and carrying not more than 6 passengers.
 
-&emsp;(43) "uninspected vessel" means a vessel not subject to inspection under section 3301 of this title that is not a recreational vessel.
+&emsp;(52) "uninspected vessel" means a vessel not subject to inspection under section 3301 of this title that is not a recreational vessel.
 
-&emsp;\[(44) to (46) Repealed. Pub. L. 109–304, §15(2)(A), Oct. 6, 2006, 120 Stat. 1702.\]
-
-&emsp;(47) "vessel of war" means a vessel—
+&emsp;(53) "vessel of war" means a vessel—
 
 &emsp;&emsp;(A) belonging to the armed forces of a country;
 
@@ -286,9 +282,9 @@ In this subtitle—
 
 &emsp;&emsp;(D) staffed by a crew under regular armed forces discipline.
 
-&emsp;(48) "wing-in-ground craft" means a vessel that is capable of operating completely above the surface of the water on a dynamic air cushion created by aerodynamic lift due to the ground effect between the vessel and the water's surface.
+&emsp;(54) "wing-in-ground craft" means a vessel that is capable of operating completely above the surface of the water on a dynamic air cushion created by aerodynamic lift due to the ground effect between the vessel and the water's surface.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 501; Pub. L. 98–364, title IV, §402(1), July 17, 1984, 98 Stat. 445; Pub. L. 98–454, title III, §301(a), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 98–557, §34(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(1), (2), May 19, 1986, 100 Stat. 444; Pub. L. 99–509, title V, §5102(b)(1), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–640, §§10(b)(1), 11(a), 13(d), Nov. 10, 1986, 100 Stat. 3549–3551; Pub. L. 100–239, §6(a)(1), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 100–424, §8(c)(1), Sept. 9, 1988, 102 Stat. 1593; Pub. L. 100–710, title I, §104(a)(1), (2), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–225, title II, §209, Dec. 12, 1989, 103 Stat. 1913; Pub. L. 101–380, title IV, §4103(a)(2)(A), Aug. 18, 1990, 104 Stat. 511; Pub. L. 101–595, title VI, §603(1), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 102–587, title V, §5208(a), Nov. 4, 1992, 106 Stat. 5075; Pub. L. 103–206, title V, §§502–510, Dec. 20, 1993, 107 Stat. 2439–2441; Pub. L. 103–272, §5(l), July 5, 1994, 108 Stat. 1375; Pub. L. 104–324, title VII, §709, title XI, §1104(a), Oct. 19, 1996, 110 Stat. 3934, 3966; Pub. L. 105–383, title III, §301(b)(1), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 107–217, §3(m)(1), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 107–295, title IV, §419, Nov. 25, 2002, 116 Stat. 2124; Pub. L. 109–241, title III, §§301, 312(b), July 11, 2006, 120 Stat. 526, 533; Pub. L. 109–304, §15(2), Oct. 6, 2006, 120 Stat. 1702; Pub. L. 111–281, title VI, §§617(a)(1)(A), 618, Oct. 15, 2010, 124 Stat. 2972, 2975; Pub. L. 111–330, §1(9), Dec. 22, 2010, 124 Stat. 3570.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 501; Pub. L. 98–364, title IV, §402(1), July 17, 1984, 98 Stat. 445; Pub. L. 98–454, title III, §301(a), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 98–557, §34(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(1), (2), May 19, 1986, 100 Stat. 444; Pub. L. 99–509, title V, §5102(b)(1), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–640, §§10(b)(1), 11(a), 13(d), Nov. 10, 1986, 100 Stat. 3549–3551; Pub. L. 100–239, §6(a)(1), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 100–424, §8(c)(1), Sept. 9, 1988, 102 Stat. 1593; Pub. L. 100–710, title I, §104(a)(1), (2), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–225, title II, §209, Dec. 12, 1989, 103 Stat. 1913; Pub. L. 101–380, title IV, §4103(a)(2)(A), Aug. 18, 1990, 104 Stat. 511; Pub. L. 101–595, title VI, §603(1), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 102–587, title V, §5208(a), Nov. 4, 1992, 106 Stat. 5075; Pub. L. 103–206, title V, §§502–510, Dec. 20, 1993, 107 Stat. 2439–2441; Pub. L. 103–272, §5(l), July 5, 1994, 108 Stat. 1375; Pub. L. 104–324, title VII, §709, title XI, §1104(a), Oct. 19, 1996, 110 Stat. 3934, 3966; Pub. L. 105–383, title III, §301(b)(1), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 107–217, §3(m)(1), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 107–295, title IV, §419, Nov. 25, 2002, 116 Stat. 2124; Pub. L. 109–241, title III, §§301, 312(b), July 11, 2006, 120 Stat. 526, 533; Pub. L. 109–304, §15(2), Oct. 6, 2006, 120 Stat. 1702; Pub. L. 111–281, title VI, §§617(a)(1)(A), 618, Oct. 15, 2010, 124 Stat. 2972, 2975; Pub. L. 111–330, §1(9), Dec. 22, 2010, 124 Stat. 3570; Pub. L. 115–232, div. C, title XXXV, §3541(a)(1), Aug. 13, 2018, 132 Stat. 2322; Pub. L. 115–282, title V, §515, Dec. 4, 2018, 132 Stat. 4279.)
 
 #### Historical and Revision Notes
 
@@ -429,13 +425,19 @@ Section 2101(44) defines "United States" to establish geographical boundaries fo
 
 Section 2101(45) makes it clear that "vessel" as used in this subtitle has the same meaning as is provided in section 3 of title 1, of the U.S.C.
 
-Section 2101(46) defines "vessel of the United States" as a vessel that is documented or numbered under the laws of the United States. A documented vessel and those vessels that are numbered by a State or Federal authority are afforded the protection of the laws of the United States.
+Section 2101(46) defines "vessel of the United States" as a vessel that is documented or numbered under the laws of the United States. A documented vessel andthose vessels that are numbered by a State or Federal authority are afforded the protection of the laws of the United States.
 
 #### References in Text
 
-Presidential Proclamation No. 5928, referred to in par. (17a), is set out under section 1331 of Title 43, Public Lands.
+Section 1 of title 14, referred to in par. (2), was redesignated section 101 of title 14 by Pub. L. 115–282, title I, §103(b), Dec. 4, 2018, 132 Stat. 4195, and references to section 1 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+
+Presidential Proclamation No. 5928, referred to in par. (23), is set out under section 1331 of Title 43, Public Lands.
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232 added undesignated par. defining "Commandant" after par. (4), substituted period for semicolon at end of par. (14), and redesignated pars. (1) to (48) as (1) to (54), respectively.
+
+Par. (41). Pub. L. 115–282 designated existing provisions as subpar. (A), inserted "Subject to subparagraph (B)," before " 'scientific personnel' " and added subpar. (B).
 
 <b>2010</b>—Par. (1)(B). Pub. L. 111–281, §618, as amended by Pub. L. 111–330, inserted "with the exception of emergency locator beacons for recreational vessels operating beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured or beyond 3 nautical miles from the coastline of the Great Lakes," before "does not include".
 
@@ -621,7 +623,7 @@ Pub. L. 103–206, title V, §513, Dec. 20, 1993, 107 Stat. 2443, provided that:
 
 "(a)
 
-Applicability Date for Certain Chartered Vessels.—Revised regulations governing small passenger vessels and passenger vessels (as the definitions of those terms in section 2101 of title 46, United States Code, are amended by this Act) shall not, before the date that is 6 months after the date of enactment of this Act \[Dec. 20, 1993\], apply to such vessels when chartered with no crew provided.
+Applicability Date for Certain Chartered Vessels.—Revised regulations governing small passenger vessels and passenger vessels (as the definitions of those terms in section 2101 of title 46, United States Code, are amended by this Act) shall not, before thedate that is 6 months after the date of enactment of this Act \[Dec. 20, 1993\], apply to such vessels when chartered with no crew provided.
 
 "(b)
 
@@ -670,4 +672,22 @@ Pub. L. 102–587, title V, §5209, Nov. 4, 1992, 106 Stat. 5076, as amended by 
 "(2) This section does not affect the requirement for fish tender vessels engaged in the Aleutian trade to comply with chapters 33, 45, 51, 81, and 87 of title 46, United States Code, as provided in the Aleutian Trade Act of 1990 (\[title VI of\] Public Law 101–595) \[see Short Title of 1990 Amendment note set out under section 101 of this title\].
 
 "(d) Current regulations governing the vessels in subsection (b) remain in effect."
+
+#### Definitions of Terms Used in Title II of Pub. L. 115–265
+
+Pub. L. 115–265, title II, §203, Oct. 11, 2018, 132 Stat. 3745, provided that: "In this title \[see section 201 of Pub. L. 115–265, set out as a Short Title of 2018 Amendment note under section 101 of this title\]:
+
+&emsp;"(1)
+
+Commandant.—The term 'Commandant' means the Commandant of the Coast Guard.
+
+&emsp;"(2)
+
+Recognized organization.—The term 'recognized organization' has the meaning given that term in section 2.45–1 of title 46, Code of Federal Regulations, as in effect on the date of the enactment of this Act \[Oct. 11, 2018\].
+
+&emsp;"(3)
+
+Secretary.—The term 'Secretary' means the Secretary of the department in which the Coast Guard is operating."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

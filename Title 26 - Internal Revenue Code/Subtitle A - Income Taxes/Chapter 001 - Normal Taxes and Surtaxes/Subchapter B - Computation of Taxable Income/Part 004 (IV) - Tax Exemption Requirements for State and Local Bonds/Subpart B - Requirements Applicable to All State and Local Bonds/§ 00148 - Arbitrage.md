@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (G) Intentional acts
 
-&emsp;&emsp;Subparagraph (A) shall cease to apply to any issue if the utility owned by the governmental unit engages in any intentional act to render the volume of natural gas acquired by such prepayment to be in excess of the sum of—
+&emsp;&emsp;Subparagraph (A) shall cease to apply to any issue if the utility owned by the governmental unit engages in any intentional actto render the volume of natural gas acquired by such prepayment to be in excess of the sum of—
 
 &emsp;&emsp;&emsp;(i) the amount of natural gas needed (other than for resale) by customers of such utility who are located within the service area of such utility, and
 
@@ -304,7 +304,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (II) Earnings on reserve included only for certain periods
 
-&emsp;&emsp;&emsp;&emsp;The term "available construction proceeds" shall not include amounts earnedon any reasonably required reserve or replacement fund after the earlier of the close of the 2-year period described in clause (ii) or the date the construction is substantially completed.
+&emsp;&emsp;&emsp;&emsp;The term "available construction proceeds" shall not include amounts earned on any reasonably required reserve or replacement fund after the earlier of the close of the 2-year period described in clause (ii) or the date the construction is substantially completed.
 
 #### (III) Payments on acquired purpose obligations excluded
 
@@ -386,7 +386,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (II) Determination of construction portion of issue
 
-&emsp;&emsp;&emsp;&emsp;For purposes of clause (v), any portion of an issue which is used to refund any issue (or portion thereof) shall be treated as a separate issue.
+&emsp;&emsp;&emsp;&emsp;For purposes of clause (v), any portion of an issue which is used to refund anyissue (or portion thereof) shall be treated as a separate issue.
 
 #### (III) Coordination with rebate requirement on refunding bonds
 
@@ -440,7 +440,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount which, when added to the aggregate face amount of other issues issued by such entity, does not exceed the portion of the $5,000,000 limitation under clause (i)(IV) which such governmental unit allocates to such entity.
 
-&emsp;&emsp;&nbsp;For purposes of the preceding sentence, an entity which issues bonds on behalf of a governmental unit with general taxing powers shall be treated as a subordinateentity of such unit. An allocation shall be taken into account under subclause (II) only if it is irrevocable and made before the issuance date of such issue and only to the extent that the limitation so allocated bears a reasonable relationship to the benefits received by such governmental unit from issues issued by such entity.
+&emsp;&emsp;&nbsp;For purposes of the preceding sentence, an entity which issues bonds on behalf of a governmental unit with general taxing powers shall be treated as a subordinate entity of such unit. An allocation shall be taken into account under subclause (II) only if it is irrevocable and made before the issuance date of such issue and only to the extent that the limitation so allocated bears a reasonable relationship to the benefits received by such governmental unit from issues issued by such entity.
 
 #### (v) Determination of whether refunding bonds eligible for exception from rebate requirement
 
@@ -604,7 +604,7 @@ Subsec. (f)(4)(B)(iii)(I). Pub. L. 100–647, §1013(a)(16)(A), substituted "pro
 
 Subsec. (f)(4)(B)(iii)(III). Pub. L. 100–647, §6177(a), substituted "the earlier of the date 6 months after such date of issuance." for "the earliest of the maturity date of the issue, the date 6 months after such date of issuance,".
 
-Subsec. (f)(4)(C). Pub. L. 100–647, §1013(a)(17)(A), in heading substituted "governmental units issuing $5,000,000 or less of bonds" for "small governmental units", designated existing provision as cl. (i), inserted heading "In general", redesignated existing cls. (i) to (iv) as subcls. (I) to (IV) and realigned their margins, struck out last sentence providing that cl. (iv) not take into account any bond which is not outstanding at the time of a later issue or which is redeemed, other than in an advance refunding, from the net proceeds of the later issue, and added cls. (ii) to (vi).
+Subsec. (f)(4)(C). Pub. L. 100–647, §1013(a)(17)(A), in heading substituted "governmental units issuing $5,000,000 or less of bonds" for "small governmental units", designated existing provision as cl. (i), inserted heading "In general", redesignated existing cls. (i) to (iv) as subcls. (I) to (IV) and realigned their margins, struck out last sentence providing that cl. (iv) not take into account any bond which is not outstanding at thetime of a later issue or which is redeemed, other than in an advance refunding, from the net proceeds of the later issue, and added cls. (ii) to (vi).
 
 Subsec. (f)(4)(C)(i)(IV). Pub. L. 100–647, §1013(a)(17)(B), struck out "(and all subordinate entities thereof)" after "such unit".
 
@@ -660,7 +660,7 @@ Pub. L. 100–647, title I, §1013(a)(17)(C), Nov. 10, 1988, 102 Stat. 3542, pro
 
 Pub. L. 100–647, title I, §1013(a)(43)(C), Nov. 10, 1988, 102 Stat. 3545, provided that: "The amendments made by this paragraph \[amending this section\] shall apply to obligations issued after March 31, 1988."
 
-Amendment by section 1013(a)(14), (15), (18), (19) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Actof 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1013(a)(14), (15), (18), (19) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Amendment by section 4005(d)(2) of Pub. L. 100–647 applicable to bonds issued, and nonissued bond amounts elected, after Dec. 31, 1988, see section 4005(h)(1) of Pub. L. 100–647, set out as a note under section 143 of this title.
 
@@ -686,7 +686,7 @@ Pub. L. 100–647, title VI, §6183(b), Nov. 10, 1988, 102 Stat. 3730, provided 
 
 #### Effective Date
 
-Subpart applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
+Subpart applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 ofPub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
 #### Extension of Period To Elect To Terminate Percent Penalty for Bonds Issued Before November 5, 1990
 

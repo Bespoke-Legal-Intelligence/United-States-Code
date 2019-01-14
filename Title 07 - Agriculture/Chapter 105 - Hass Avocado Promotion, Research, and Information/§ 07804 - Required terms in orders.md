@@ -100,7 +100,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 &emsp;(6)(A) implement plans and projects for Hass avocado promotion, industry information, consumer information, or related research, as provided in subsection (d); or
 
-&emsp;(B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e), and pay the costs of the implementation, or contracts and agreement, with funds received under the order;
+&emsp;(B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e), andpay the costs of the implementation, or contracts and agreement, with funds received under the order;
 
 &emsp;(7) evaluate on-going and completed plans and projects for Hass avocado promotion, industry information, consumer information, or related research and comply with the independent evaluation provisions of the Commodity Promotion, Research, and Information Act of 1996 (subtitle B of title V of Public Law 104–127 \[7 U.S.C. 7411 et seq.\]);
 
@@ -172,7 +172,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 &emsp;&emsp;The order shall provide that any contract or agreement entered into under this paragraph shall provide that—
 
-&emsp;&emsp;&emsp;(i) the contracting or agreeing party shall develop and submit to the Board a plan or project, together with a budget that includes the estimated costs to be incurred for the plan or project;
+&emsp;&emsp;&emsp;(i) the contracting or agreeing party shall develop and submit to the Board aplan or project, together with a budget that includes the estimated costs to be incurred for the plan or project;
 
 &emsp;&emsp;&emsp;(ii) the plan or project shall become effective on the approval of the Secretary; and
 
@@ -188,7 +188,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (2) Other contracts and agreements
 
-&emsp;The order shall provide that the Board, with the approval of the Secretary, may enter intoa contract or agreement for administrative services. Any contract or agreement entered into under this paragraph shall include provisions comparable to the provisions described in paragraph (1)(B).
+&emsp;The order shall provide that the Board, with the approval of the Secretary, may enter into a contract or agreement for administrative services. Any contract or agreement entered into under this paragraph shall include provisions comparable to the provisions described in paragraph (1)(B).
 
 #### (f) Books and records of Board
 
@@ -346,7 +346,7 @@ The order shall provide for reimbursing the Secretary—
 
 #### (2) Exceptions
 
-&emsp;Paragraph (1) does not preclude the Board from offering its programs and projects for use by commercial parties, under such terms and conditions as the Board may prescribe as approved by the Secretary. For the purposes of this subsection, a reference to State of origin does not constitute a reference to a privatebrand name with regard to any funds credited to, or disbursed by the Board to, a State organization of avocado producers established pursuant to State law. Furthermore, for the purposes of this section, a reference to either State of origin or country of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, any importers association established or certified in accordance with subsection (h)(9)(A).
+&emsp;Paragraph (1) does not preclude the Board from offering its programs and projects for use by commercial parties, under such terms and conditions as the Board may prescribe as approved by the Secretary. For the purposes of this subsection, a reference to State of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, a State organization of avocado producers established pursuant to State law. Furthermore, for the purposes of this section, a reference to either State of origin or country of origin does not constitute a reference to a private brand name with regard to any funds credited to, or disbursed by the Board to, any importers association established or certified in accordance with subsection (h)(9)(A).
 
 #### (k) Prohibition on use of funds to influence governmental action
 
@@ -424,9 +424,9 @@ The order shall contain such other terms and provisions, consistent with this ch
 
 #### References in Text
 
-The Commodity Promotion, Research, and Information Act of 1996, referred to in subsec. (c)(7), is subtitle B of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, which is classified generally to subchapter II (§7411 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Commodity Promotion, Research, and Information Act of 1996, referred to in subsec. (c)(7), is subtitleB of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, which is classified generally to subchapter II (§7411 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

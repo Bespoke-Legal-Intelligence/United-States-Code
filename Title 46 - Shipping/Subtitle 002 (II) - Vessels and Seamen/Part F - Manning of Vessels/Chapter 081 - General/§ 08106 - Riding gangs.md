@@ -112,13 +112,7 @@ Civil penalty.—A violation of paragraph (1) is punishable by a civil penalty o
 
 &emsp;(3)
 
-Continuing violations.—The maximum amount of a civil penalty for a violation under this subsection shall not exceed—
-
-&emsp;&emsp;(A) $50,000 if the violation occurs in fiscal year 2006;
-
-&emsp;&emsp;(B) $75,000 if the violation occurs in fiscal year 2007; and
-
-&emsp;&emsp;(C) $100,000 if the violation occurs after fiscal year 2007.
+Continuing violations.—The maximum amount of a civil penalty for a violation under this subsection shall be $100,000.
 
 &emsp;(4)
 
@@ -128,7 +122,11 @@ Determination of amount.—In determining the amount of the penalty, the Secreta
 
 Compromise, modification, and remittal.—The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty imposed under this section.
 
-(Added Pub. L. 109–241, title III, §312(a), July 11, 2006, 120 Stat. 530.)
+(Added Pub. L. 109–241, title III, §312(a), July 11, 2006, 120 Stat. 530; amended Pub. L. 115–232, div. C, title XXXV, §3546(g), Aug. 13, 2018, 132 Stat. 2326.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (f)(3). Pub. L. 115–232 added par. (3) and struck out former par. (3) which related to continuing violations in fiscal years 2006 and 2007 and after fiscal year 2007.
 
 #### International Convention for Safety of Life at Sea
 

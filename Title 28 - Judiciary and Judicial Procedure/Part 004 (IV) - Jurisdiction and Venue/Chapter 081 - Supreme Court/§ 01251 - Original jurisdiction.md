@@ -18,7 +18,7 @@ Based on title 28, U.S.C., 1940 ed., §§341, 371(7), (8) (Mar. 3, 1911, ch. 231
 
 This section reconciles provisions of sections 341 and 371(7), (8) of title 28, U.S.C., 1940 ed., with Article 3, section 2 and Amendment 11 of the Constitution.
 
-Sections 341 and 371 of title 28, U.S.C., 1940 ed., were not wholly consistent with such constitutional provisions. Said section 341 provided that the Supreme Courtshould have original jurisdiction of controversies between a State and citizens of other States or aliens, whereas the 11th Amendment prohibits an action in any Federal Court against a State by citizens of another State or aliens.
+Sections 341 and 371 of title 28, U.S.C., 1940 ed., were not wholly consistent with such constitutional provisions. Said section 341 provided that the Supreme Court should have original jurisdiction of controversies between a State and citizens of other States or aliens, whereas the 11th Amendment prohibits an action in any Federal Court against a State by citizens of another State or aliens.
 
 The original jurisdiction conferred on the Supreme Court by Article 3, section 2, of the Constitution is not exclusive by virtue of that provision alone. Congress may provide for or deny exclusiveness. <i>Ames v. Kansas</i>, 1884, 4 S.Ct. 437, 111 U.S. 449, 28 L.Ed. 442; <i>U.S. v. 4,450.72 Acres of Land, Clearwater County, State of Minnesota</i>, D.C. Minn., 1939, 27 F.Supp. 167, affirmed 125 F.2d 636.
 
@@ -46,7 +46,7 @@ Subsec. (b)(1). Pub. L. 95–393, §8(b)(2), substituted "to which ambassadors, 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–393 effective at the end of the ninety-day period beginning on Sept. 30, 1978, see section 9 of Pub. L. 95–393, set out as an Effective Date note under section 254a of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 95–393 effective at the end of the ninety-day period beginning on Sept. 30, 1978, seesection 9 of Pub. L. 95–393, set out as an Effective Date note under section 254a of Title 22, Foreign Relations and Intercourse.
 
 #### Statutes Governing Writs of Error To Apply to Appeals
 

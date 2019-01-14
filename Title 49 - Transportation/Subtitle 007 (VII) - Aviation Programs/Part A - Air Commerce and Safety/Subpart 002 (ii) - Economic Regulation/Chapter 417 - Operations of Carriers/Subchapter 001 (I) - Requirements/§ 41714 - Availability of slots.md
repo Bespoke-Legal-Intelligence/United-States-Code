@@ -6,7 +6,7 @@ Making Slots Available for Essential Air Service.—
 
 &emsp;(1)
 
-Operational authority.—If basic essential air service under subchapter II of this chapter is to be provided from an eligible point to a high density airport (other than Ronald Reagan Washington National Airport), the Secretary of Transportation shall ensure that the air carrier providing or selected to provide such service has sufficient operational authority at the high density airport to provide such service. The operational authority shall allow flights at reasonable times taking into account the needs of passengers with connecting flights.
+Operational authority.—If basic essential air service under subchapter II of this chapter is to be provided from an eligible point to a high density airport (other than Ronald Reagan Washington National Airport),the Secretary of Transportation shall ensure that the air carrier providing or selected to provide such service has sufficient operational authority at the high density airport to provide such service. The operational authority shall allow flights at reasonable times taking into account the needs of passengers with connecting flights.
 
 &emsp;(2)
 
@@ -90,7 +90,7 @@ Matters to be considered.—The Secretary shall continue the Secretary's current
 
 &emsp;&emsp;&emsp;(v) aviation safety;
 
-&emsp;&emsp;(C) the impact of the current slot allocation process upon the ability of air carriers to provide essential air service under subchapter II of this chapter;
+&emsp;&emsp;(C) the impact of the current slot allocation process upon the ability of air carriersto provide essential air service under subchapter II of this chapter;
 
 &emsp;&emsp;(D) the impact of such allocation process upon the ability of new entrant air carriers to obtain slots in time periods that enable them to provide service;
 
@@ -146,7 +146,7 @@ Limited incumbent air carrier.—The term "limited incumbent air carrier" has th
 
 &emsp;&emsp;&emsp;(ii) slots operated by an air carrier under a fee-for-service arrangement for another air carrier, if the air carrier operating such slots does not sell flights in its own name, and is under common ownership with an air carrier that seeks to qualify as a limited incumbent and that sells flights in its own name; or
 
-&emsp;&emsp;&emsp;(iii) slots held under a sale and license-back financing arrangement with another air carrier, where the slots are under themarketing control of the other air carrier; and
+&emsp;&emsp;&emsp;(iii) slots held under a sale and license-back financing arrangement with another air carrier, where the slots are under the marketing control of the other air carrier; and
 
 &emsp;&emsp;(C) for Ronald Reagan Washington National Airport, the Administrator shall not count, for the purposes of section 93.213(a)(5), slots currently held by an air carrier but leased out on a long-term basis by that carrier for use in foreign air transportation and renounced by the carrier for return to the Department of Transportation or the Federal Aviation Administration.
 
@@ -172,7 +172,7 @@ Day Application Process.—
 
 &emsp;(1)
 
-Request for slot exemptions.—Any slot exemption request filed with the Secretary under this section or section 41716 or 41717 (other than subsection (c)) shall include—
+Request for slot exemptions.—Any slot exemption request filed with the Secretaryunder this section or section 41716 or 41717 (other than subsection (c)) shall include—
 
 &emsp;&emsp;(A) the names of the airports to be served;
 
@@ -226,7 +226,7 @@ Subsec. (j). Pub. L. 112–95, §414(d), substituted ", except through an air c
 
 Subsec. (b)(2). Pub. L. 106–181, §231(d)(3), inserted "at Chicago O'Hare International Airport" after "a slot" and struck out before period at end "if the withdrawal of that slot would result in the withdrawal of slots from an air carrier at O'Hare International Airport under section 93.223 of title 14, Code of Federal Regulations, in excess of the total withdrawn from that air carrier as of October 31, 1993".
 
-Subsec. (b)(4). Pub. L. 106–181, §231(d)(4), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "This subsection and exemptions issued under this subsection shall cease to bein effect when the final rules issued under subsection (f) become effective."
+Subsec. (b)(4). Pub. L. 106–181, §231(d)(4), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "This subsection and exemptions issued under this subsection shall cease to be in effect when the final rules issued under subsection (f) become effective."
 
 Subsec. (c). Pub. L. 106–181, §231(a)(4), reenacted subsec. heading and struck out "(1)
 

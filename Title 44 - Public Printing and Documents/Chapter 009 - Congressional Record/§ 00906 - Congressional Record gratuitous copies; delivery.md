@@ -40,7 +40,7 @@ In unstitched form, and held in reserve by the Director of the Government Publis
 
 &emsp;to each committee and commission of Congress, one daily and one semimonthly copy;
 
-&emsp;to each joint committee and joint commission in Congress, as may be designated by the Joint Committee on Printing, two copies of the daily, one semimonthly copy, and one bound copy;
+&emsp;to each joint committee and joint commission in Congress, as may be designated by theJoint Committee on Printing, two copies of the daily, one semimonthly copy, and one bound copy;
 
 &emsp;to the Secretary and the Sergeant at Arms of the Senate, for office use, each, six semimonthly copies;
 
@@ -56,7 +56,7 @@ In unstitched form, and held in reserve by the Director of the Government Publis
 
 &emsp;to the offices of the marshal and clerk of the Supreme Court of the United States, each, two copies of the daily and one semimonthly copy;
 
-&emsp;to each United States circuit and district judge, and to the chief judge and each associate judge of the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Appeals for Veterans Claims, and the United States Court of Appeals for the Armed Forces, upon requestto a member of Congress and notification by the Member to the Director of the Government Publishing Office, one copy of the daily, in addition to those authorized to be furnished to Members of Congress under the preceding provisions of this section;
+&emsp;to each United States circuit and district judge, and to the chief judge and each associate judge of the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Appeals for Veterans Claims, and the United States Court of Appeals for the Armed Forces, upon request to a member of Congress and notification by the Member to the Director of the Government Publishing Office, one copy of the daily, in addition to those authorized to be furnished to Members of Congress under the preceding provisions of this section;
 
 &emsp;to the offices of the Vice President and the Speaker of the House of Representatives, each, six copies of the daily and one semimonthly copy;
 
@@ -158,7 +158,7 @@ Provisions respecting National Homes for Disabled Volunteer Soldiers, referred t
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of Title 38, Veterans' Benefits.
+Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov.11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 1992 Amendment
 

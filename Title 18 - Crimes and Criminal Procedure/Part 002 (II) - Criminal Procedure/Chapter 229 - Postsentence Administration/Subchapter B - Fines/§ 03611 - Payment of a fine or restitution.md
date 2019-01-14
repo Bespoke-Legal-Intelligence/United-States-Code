@@ -2,7 +2,7 @@
 
 A person who is sentenced to pay a fine, assessment, or restitution, shall pay the fine, assessment, or restitution (including any interest or penalty), as specified by the Director of the Administrative Office of the United States Courts. Such Director may specify that such payment be made to the clerk of the court or in the manner provided for under section 604(a)(18) of title 28, United States Code.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2004; amended Pub. L. 100–185, §10(a), Dec. 11, 1987, 101 Stat. 1283; Pub. L. 101–647, title XXXV, §3591, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, §207(c)(1), Apr. 24, 1996, 110 Stat. 1237.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2004; amended Pub. L. 100–185,§10(a), Dec. 11, 1987, 101 Stat. 1283; Pub. L. 101–647, title XXXV, §3591, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, §207(c)(1), Apr. 24, 1996, 110 Stat. 1237.)
 
 #### Prior Provisions
 
@@ -36,7 +36,7 @@ Pub. L. 100–185, §9, Dec. 11, 1987, 101 Stat. 1282, provided that:
 
 November 1, 1987,
 
-to April 30, 1988.—Notwithstanding section 3611 of title 18, United States Code, a person who, during the period beginning on November 1, 1987, and ending on April 30, 1988, is sentenced to pay a fine or assessment shall pay the fine or assessment\(including any interest or penalty) to the clerk of the court, with respect to an offense committed on or before December 31, 1984, and to the Attorney General, with respect to an offense committed after December 31, 1984.
+to April 30, 1988.—Notwithstanding section 3611 of title 18, United States Code, a person who, during the period beginning on November 1, 1987, and ending on April 30, 1988, is sentenced to pay a fine or assessment shall pay the fine or assessment (including any interest or penalty) to the clerk of the court, with respect to an offense committed on or before December 31, 1984, and to the Attorney General, with respect to an offense committed after December 31, 1984.
 
 "(b)
 

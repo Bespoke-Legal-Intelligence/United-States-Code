@@ -12,11 +12,11 @@ The Secretary shall conduct an inventory and analysis of oil and natural gas res
 
 &emsp;(4) estimate the effect that understated oil and gas resource inventories have on domestic energy investments; and
 
-&emsp;(5) identify and explain how legislative, regulatory, and administrative programs or processes restrict or impede the development of identified resources and the extent that they affect domestic supply, such as moratoria, lease terms and conditions, operational stipulations and requirements, approval delays by the Federal Government and coastal States, and local zoning restrictions for onshore processing facilities and pipeline landings.
+&emsp;(5) identify and explain how legislative, regulatory, and administrative programs or processes restrict or impede the development of identified resources and the extent that they affect domestic supply, such as moratoria,lease terms and conditions, operational stipulations and requirements, approval delays by the Federal Government and coastal States, and local zoning restrictions for onshore processing facilities and pipeline landings.
 
 #### (b) Reports
 
-The Secretary shall submit a report to Congress on the inventory of estimates and theanalysis of restrictions or impediments, together with any recommendations, within 6 months of August 8, 2005. The report shall be publicly available and updated at least every 5 years.
+The Secretary shall submit a report to Congress on the inventory of estimates and the analysis of restrictions or impediments, together with any recommendations, within 6 months of August 8, 2005. The report shall be publicly available and updated at least every 5 years.
 
 (Pub. L. 109–58, title III, §357, Aug. 8, 2005, 119 Stat. 720.)
 

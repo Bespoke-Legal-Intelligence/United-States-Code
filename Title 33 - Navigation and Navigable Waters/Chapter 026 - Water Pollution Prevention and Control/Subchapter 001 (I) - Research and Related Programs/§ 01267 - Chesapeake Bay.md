@@ -90,7 +90,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 #### (1) In general
 
-&emsp;If a signatory jurisdiction has approved and committed to implement all or substantially all aspects of the Chesapeake Bay Agreement,on the request of the chief executive of the jurisdiction, the Administrator—
+&emsp;If a signatory jurisdiction has approved and committed to implement all or substantially all aspects of the Chesapeake Bay Agreement, on the request of the chief executive of the jurisdiction, the Administrator—
 
 &emsp;&emsp;(A) shall make a grant to the jurisdiction for the purpose of implementing the management mechanisms established under the Chesapeake Bay Agreement, subject to such terms and conditions as the Administrator considers appropriate; and
 
@@ -438,7 +438,7 @@ Requirements.—The Administrator shall only select as Independent Evaluator a n
 
 "(c)
 
-Reports.—Not later than 180 days after the date of appointment and once every 2 years thereafter, theIndependent Evaluator shall submit to Congress a report describing the findings and recommendations of reviews conducted under subsection (a).
+Reports.—Not later than 180 days after the date of appointment and once every 2 years thereafter, the Independent Evaluator shall submit to Congress a report describing the findings and recommendations of reviews conducted under subsection (a).
 
 #### "SEC. 5. PROHIBITION ON NEW FUNDING.
 
@@ -568,7 +568,7 @@ Sec. 302. <i>Elements of EPA Reports</i>. The strategies and actions identified 
 
 #### PART 4—Agricultural Practices To Protect the Chesapeake Bay
 
-Sec. 401. In developing recommendations for focusing resources to protect the Chesapeake Bay in the report required by subsection 202(b) of this order, the Secretary of Agriculture shall, as appropriate, concentratethe USDA's working lands and land retirement programs within priority watersheds in counties in the Chesapeake Bay watershed. These programs should apply priority conservation practices that most efficiently reduce nutrient and sediment loads to the Chesapeake Bay, as identified by USDA and EPA data and scientific analysis. The Secretary of Agriculture shall work with State agriculture and conservation agencies in developing the report.
+Sec. 401. In developing recommendations for focusing resources to protect the Chesapeake Bay in the report required by subsection 202(b) of this order, the Secretary of Agriculture shall, as appropriate, concentrate the USDA's working lands and land retirement programs within priority watersheds in counties in the Chesapeake Bay watershed. These programs should apply priority conservation practices that most efficiently reduce nutrient and sediment loads to the Chesapeake Bay, as identified by USDA and EPA data and scientific analysis. The Secretary of Agriculture shall work with State agriculture and conservation agencies in developing the report.
 
 #### PART 5—Reduce Water Pollution From Federal Lands and Facilities
 
@@ -578,7 +578,7 @@ Sec. 502. The Administrator of the EPA shall, within 1 year of the date of this 
 
 #### PART 6—Protect Chesapeake Bay as the Climate Changes
 
-Sec. 601. The Secretaries of Commerce and the Interior shall, to the extent permitted by law, organize and conduct research and scientific assessments to support development of the strategy to adapt to climate change impacts on the Chesapeake Bay watershed as required in section 202 of this order and to evaluate the impacts of climate change on the Chesapeake Bay in future years. Such research should include assessment of:
+Sec. 601. The Secretaries of Commerce and the Interior shall, to the extent permitted by law, organize andconduct research and scientific assessments to support development of the strategy to adapt to climate change impacts on the Chesapeake Bay watershed as required in section 202 of this order and to evaluate the impacts of climate change on the Chesapeake Bay in future years. Such research should include assessment of:
 
 (a) the impact of sea level rise on the aquatic ecosystem of the Chesapeake Bay, including nutrient and sediment load contributions from stream banks and shorelines;
 

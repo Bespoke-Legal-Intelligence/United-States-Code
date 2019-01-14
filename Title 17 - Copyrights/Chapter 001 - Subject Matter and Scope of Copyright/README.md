@@ -26,13 +26,16 @@
 | [119\.](%C2%A7%2000119%20-%20Limitations%20on%20exclusive%20rights%20Secondary%20transmissions%20of%20distant%20television%20programming%20by%20satellite.md) | Limitations on exclusive rights: Secondary transmissions of distant television programming by satellite. |
 | [120\.](%C2%A7%2000120%20-%20Scope%20of%20exclusive%20rights%20in%20architectural%20works.md) | Scope of exclusive rights in architectural works. |
 | [121\.](%C2%A7%2000121%20-%20Limitations%20on%20exclusive%20rights%20Reproduction%20for%20blind%20or%20other%20people%20with%20disabilities.md) | Limitations on exclusive rights: Reproduction for blind or other people with disabilities. |
+| [121A.](%C2%A7%2000121A%20-%20Limitations%20on%20exclusive%20rights%20reproduction%20for%20blind%20or%20other%20people%20with%20disabilities%20in%20Marrakesh%20Treaty%20countries.md) | Limitations on exclusive rights: reproduction for blind or other people with disabilities in Marrakesh Treaty countries. |
 | [122\.](%C2%A7%2000122%20-%20Limitations%20on%20exclusive%20rights%20Secondary%20transmissions%20of%20local%20television%20programming%20by%20satellite.md) | Limitations on exclusive rights: Secondary transmissions of local television programming by satellite. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–175, title I, §§102(a)(2), 103(a)(2), 104(a)(2), May 27, 2010, 124 Stat. 1219, 1227, 1231, added items 111, 119, and 122 and struck out former items 111"Limitations on exclusive rights: Secondary transmissions", 119 "Limitations on exclusive rights: Secondary transmissions of superstations and network stations for private home viewing", and 122 "Limitations on exclusive rights: Secondary transmissions by satellite carriers within local markets".
+<b>2018</b>—Pub. L. 115–261, §2(b), Oct. 9, 2018, 132 Stat. 3669, added item 121A.
+
+<b>2010</b>—Pub. L. 111–175, title I, §§102(a)(2), 103(a)(2), 104(a)(2), May 27, 2010, 124 Stat. 1219, 1227, 1231, added items 111, 119, and 122 and struck out former items 111 "Limitations on exclusive rights: Secondary transmissions", 119 "Limitations on exclusive rights: Secondary transmissions of superstations and network stations for private home viewing", and 122 "Limitations on exclusive rights: Secondary transmissions by satellite carriers within local markets".
 
 <b>2002</b>—Pub. L. 107–273, div. C, title III, §13210(2)(B), (3)(B), Nov. 2, 2002, 116 Stat. 1909, substituted "Reproduction" for "reproduction" in item 121 and "Limitations on exclusive rights: Secondary transmissions by satellite carriers within local markets" for "Limitations on exclusive rights; secondary transmissions by satellite carriers within local market" in item 122.
 
@@ -83,4 +86,5 @@ Pub. L. 100–568, §4(b)(2), Oct. 31, 1988, 102 Stat. 2857, substituted "Compul
 - [&sect; 00119 - Limitations on exclusive rights Secondary transmissions of distant television programming by satellite](%C2%A7%2000119%20-%20Limitations%20on%20exclusive%20rights%20Secondary%20transmissions%20of%20distant%20television%20programming%20by%20satellite.md)
 - [&sect; 00120 - Scope of exclusive rights in architectural works](%C2%A7%2000120%20-%20Scope%20of%20exclusive%20rights%20in%20architectural%20works.md)
 - [&sect; 00121 - Limitations on exclusive rights Reproduction for blind or other people with disabilities](%C2%A7%2000121%20-%20Limitations%20on%20exclusive%20rights%20Reproduction%20for%20blind%20or%20other%20people%20with%20disabilities.md)
+- [&sect; 00121A - Limitations on exclusive rights reproduction for blind or other people with disabilities in Marrakesh Treaty countries](%C2%A7%2000121A%20-%20Limitations%20on%20exclusive%20rights%20reproduction%20for%20blind%20or%20other%20people%20with%20disabilities%20in%20Marrakesh%20Treaty%20countries.md)
 - [&sect; 00122 - Limitations on exclusive rights Secondary transmissions of local television programming by satellite](%C2%A7%2000122%20-%20Limitations%20on%20exclusive%20rights%20Secondary%20transmissions%20of%20local%20television%20programming%20by%20satellite.md)

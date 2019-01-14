@@ -38,7 +38,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 &emsp;&emsp;(B) Compensation for loss of hearing in both ears, two-hundred weeks.
 
-&emsp;&emsp;(C) An audiogram shall be presumptive evidence of the amount of hearing loss sustained as of the date thereof, only if (i) such audiogram was administered by a licensed or certified audiologist or a physician who is certified in otolaryngology, (ii) such audiogram, with the report thereon, was providedto the employee at the time it was administered, and (iii) no contrary audiogram made at that time is produced.
+&emsp;&emsp;(C) An audiogram shall be presumptive evidence of the amount of hearing loss sustained as of the date thereof, only if (i) such audiogram was administered by a licensed or certified audiologist or a physician who is certified in otolaryngology, (ii) such audiogram, with the report thereon, was provided to the employee at the time it was administered, and (iii) no contrary audiogram made at that time is produced.
 
 &emsp;&emsp;(D) The time for filing a notice of injury, under section 912 of this title, or a claim for compensation, under section 913 of this title, shall not begin to run in connection with any claim for loss of hearing under this section, until the employee has received an audiogram, with the accompanying report thereon, which indicates that the employee has suffered a loss of hearing.
 
@@ -60,7 +60,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 &emsp;(21) Other cases: In all other cases in the class of disability, the compensation shall be 662/3 per centum of the difference between the average weekly wages of the employee and the employee's wage-earning capacity thereafter in the same employment or otherwise, payable during the continuance of partial disability.
 
-&emsp;(22) In any case in which there shall be a loss of, or loss of use of, more than one member or parts of more than one member set forth in paragraphs (1) to (19) of this subsection, not amounting to permanent total disability, the award of compensation shall be for the loss of, or loss of use of, each such member or part thereof, which awards shall run consecutively, except that where the injury affects only two or more digits of the same hand or foot, paragraph (17) of this subsection shall apply.
+&emsp;(22) In any case in which there shall be a loss of, or loss of use of, more than one member orparts of more than one member set forth in paragraphs (1) to (19) of this subsection, not amounting to permanent total disability, the award of compensation shall be for the loss of, or loss of use of, each such member or part thereof, which awards shall run consecutively, except that where the injury affects only two or more digits of the same hand or foot, paragraph (17) of this subsection shall apply.
 
 &emsp;(23) Notwithstanding paragraphs (1) through (22), with respect to a claim for permanent partial disability for which the average weekly wages are determined under section 910(d)(2) of this title, the compensation shall be 662/3 per centum of such average weekly wages multiplied by the percentage of permanent impairment, as determined under the guides referred to in section 902(10) of this title, payable during the continuance of such impairment.
 
@@ -88,7 +88,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 &emsp;(2)(A) After cessation of the payments for the period of weeks provided for herein, the employee or his survivor entitled to benefits shall be paid the remainder of the compensation that would be due out of the special fund established in section 944 of this title, except that the special fund shall not assume responsibility with respect to such benefits (and such payments shall not be subject to cessation) in the case of any employer who fails to comply with section 932(a) of this title.
 
-&emsp;(B) After cessation of payments for the period of weeks provided for in this subsection, the employer or carrier responsible for payment of compensation shall remain a party to the claim, retain access to all records relating to the claim, and in all other respects retain all rights granted under this chapter prior to cessation of such payments.
+&emsp;(B) After cessation of payments for the period of weeks provided for in this subsection,the employer or carrier responsible for payment of compensation shall remain a party to the claim, retain access to all records relating to the claim, and in all other respects retain all rights granted under this chapter prior to cessation of such payments.
 
 &emsp;(3) Any request, filed after September 28, 1984, for apportionment of liability to the special fund established under section 944 of this title for the payment of compensation benefits, and a statement of the grounds therefore, shall be presented to the deputy commissioner prior to the consideration of the claim by the deputy commissioner. Failure to present such request prior to such consideration shall be an absolute defense to the special fund's liability for the payment of any benefits in connection with such claim, unless the employer could not have reasonably anticipated the liability of the special fund prior to the issuance of a compensation order.
 
@@ -128,7 +128,7 @@ Subsec. (c)(21). Pub. L. 98–426, §8(c)(1), substituted "the average weekly wa
 
 Subsec. (c)(23). Pub. L. 98–426, §8(c)(2), added par. (23).
 
-Subsec. (d)(3), (4). Pub. L. 98–426, §8(d), redesignated par. (4) as par. (3). Former par. (3), which provided that if an employee who was receiving compensation for permanent partial disability pursuant to subsection (c)(21) of this section died from causes other than the injury, his survivors would receive death benefits as provided in section 909(b)–(g) of this title, except that the percentage figures therein would be applied to the weekly compensation payable to the employee at the time of his death multiplied by 1.5, rather than to his average weekly wages, was struck out.
+Subsec. (d)(3), (4). Pub. L. 98–426, §8(d), redesignated par. (4) as par. (3). Former par. (3), which provided that if an employee who was receiving compensation for permanent partial disability pursuant to subsection (c)(21) of this section died from causes other than the injury, his survivors would receive death benefits as provided in section 909(b)–(g) of this title, except that the percentage figures therein would be applied to the weekly compensation payable to the employee at the time ofhis death multiplied by 1.5, rather than to his average weekly wages, was struck out.
 
 Subsec. (f)(1). Pub. L. 98–426, §8(e)(1), inserted at end of second and fourth sentences ", except that, in the case of an injury falling within the provisions of subsection (c)(13), the employer shall provide compensation for the lesser of such periods".
 

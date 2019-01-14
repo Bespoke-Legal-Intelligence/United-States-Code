@@ -36,7 +36,7 @@ Any person who shall deliver messages for interstate or foreign transmission to 
 
 (F) Subject to paragraph (5) of this section, if the violator is a manufacturer or service provider subject to the requirements of section 255, 617, or 619 of this title, and is determined by the Commission to have violated any such requirement, the manufacturer or provider shall be liable to the United States for a forfeiture penalty of not more than $100,000 for each violation or each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $1,000,000 for any single act or failure to act.
 
-(3)(A) At the discretion of the Commission, a forfeiture penalty may be determined against aperson under this subsection after notice and an opportunity for a hearing before the Commission or an administrative law judge thereof in accordance with section 554 of title 5. Any person against whom a forfeiture penalty is determined under this paragraph may obtain review thereof pursuant to section 402(a) of this title.
+(3)(A) At the discretion of the Commission, a forfeiture penalty may be determined against a person under this subsection after notice and an opportunity for a hearing before the Commission or an administrative law judge thereof in accordance with section 554 of title 5. Any person against whom a forfeiture penalty is determined under this paragraph may obtain review thereof pursuant to section 402(a) of this title.
 
 (B) If any person fails to pay an assessment of a forfeiture penalty determined under subparagraph (A) of this paragraph, after it has become a final and unappealable order or after the appropriate court has entered final judgment in favor of the Commission, the Commission shall refer the matter to the Attorney General of the United States, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the forfeiture penalty shall not be subject to review.
 
@@ -109,6 +109,14 @@ Subsec. (b)(6)(A). Pub. L. 102–538, §206(1), struck out "so long as such viol
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–234 effective on thirtieth day after Feb. 21, 1978, except that the provisions of subsec. (b) of this section, as in effect on Feb. 21, 1978, shall continue to constitute the applicable law with respect to any act or omission which occurs prior to such thirtieth day, see section 7 of Pub. L. 95–234, set out as a note under section 152 of this title.
+
+#### Disclaimer for Press Releases Regarding Notices of Apparent Liability
+
+Pub. L. 115–141, div. P, title V, §511, Mar. 23, 2018, 132 Stat. 1097, provided that: "The Commission \[Federal Communications Commission\] shall include in any press release regarding the issuance of a notice of apparent liability under section 503(b)(4) of the Communications Act of 1934 (47 U.S.C. 503(b)(4)) a disclaimer informing consumers that—
+
+&emsp;"(1) the issuance of a notice of apparent liability should be treated only as allegations; and
+
+&emsp;"(2) the amount of any forfeiture penalty proposed in a notice of apparent liability represents the maximum penalty that the Commission may impose for the violations alleged in the notice of apparent liability."
 
 <i><sup>1</sup></i><i> So in original. Following provision probably should be set flush with subpar. (C).</i>
 

@@ -92,7 +92,7 @@
 
 &emsp;(i) be signed by a majority of the Committee members involved in the inspection;
 
-&emsp;(ii) include reports of any violation of the standards promulgated, or assurances required, by the Secretary, including any deficient conditions of animal care or treatment, any deviations of research practices from originally approved proposals that adversely affect animal welfare, any notification to the facility regarding such conditions, and any corrections made thereafter;
+&emsp;(ii) include reports of any violation of the standards promulgated, or assurances required, by the Secretary, including any deficient conditions of animal care or treatment, any deviations of research practices fromoriginally approved proposals that adversely affect animal welfare, any notification to the facility regarding such conditions, and any corrections made thereafter;
 
 &emsp;(iii) include any minority views of the Committee; and
 

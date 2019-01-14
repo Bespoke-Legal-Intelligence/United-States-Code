@@ -2,24 +2,25 @@
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
-| <b>\[431.</b> | <b>Repealed.\]</b> |  |
-| [<b>433.</b>](Chapter%20433%20-%20Procurement/README.md) | <b>Procurement</b> | <b>4531</b> |
-| [<b>434.</b>](Chapter%20434%20-%20Armaments%20Industrial%20Base/README.md) | <b>Armaments Industrial Base</b> | <b>4551</b> |
-| [<b>435.</b>](Chapter%20435%20-%20Issue%20of%20Serviceable%20Material%20to%20Armed%20Forces/README.md) | <b>Issue of Serviceable Material to Armed Forces</b> | <b>4561</b> |
-| [<b>437.</b>](Chapter%20437%20-%20Utilities%20and%20Services/README.md) | <b>Utilities and Services</b> | <b>4591</b> |
-| [<b>439.</b>](Chapter%20439%20-%20Sale%20of%20Serviceable%20Material/README.md) | <b>Sale of Serviceable Material</b> | <b>4621</b> |
-| [<b>441.</b>](Chapter%20441%20-%20Issue%20of%20Serviceable%20Material%20Other%20Than%20to%20Armed%20Forces/README.md) | <b>Issue of Serviceable Material Other Than to Armed Forces</b> | <b>4651</b> |
-| [<b>443.</b>](Chapter%20443%20-%20Disposal%20of%20Obsolete%20or%20Surplus%20Material/README.md) | <b>Disposal of Obsolete or Surplus Material</b> | <b>4681</b> |
-| [<b>445.</b>](Chapter%20445%20-%20Disposition%20of%20Effects%20of%20Deceased%20Persons%3B%20Captured%20Flags/README.md) | <b>Disposition of Effects of Deceased Persons; Captured Flags</b> | <b>4712</b> |
-| [<b>446.</b>](Chapter%20446%20-%20Army%20National%20Military%20Cemeteries/README.md) | <b>Army National Military Cemeteries</b> | <b>4721</b> |
-| [<b>447.</b>](Chapter%20447%20-%20Transportation/README.md) | <b>Transportation</b> | <b>4741</b> |
-| [<b>449.</b>](Chapter%20449%20-%20Real%20Property/README.md) | <b>Real Property</b> | <b>4771</b> |
-| [<b>451.</b>](Chapter%20451%20-%20Military%20Claims/README.md) | <b>Military Claims</b> | <b>4801</b> |
-| [<b>453.</b>](Chapter%20453%20-%20Accountability%20and%20Responsibility/README.md) | <b>Accountability and Responsibility</b> | <b>4831</b> |
+| [<b>763.</b>](Chapter%20763%20-%20Procurement/README.md) | <b>Procurement</b> | <b>7532</b> |
+| [<b>764.</b>](Chapter%20764%20-%20Armaments%20Industrial%20Base/README.md) | <b>Armaments Industrial Base</b> | <b>7551</b> |
+| [<b>765.</b>](Chapter%20765%20-%20Issue%20of%20Serviceable%20Material%20to%20Armed%20Forces/README.md) | <b>Issue of Serviceable Material to Armed Forces</b> | <b>7561</b> |
+| [<b>767.</b>](Chapter%20767%20-%20Utilities%20and%20Services/README.md) | <b>Utilities and Services</b> | <b>7591</b> |
+| [<b>769.</b>](Chapter%20769%20-%20Sale%20of%20Serviceable%20Material/README.md) | <b>Sale of Serviceable Material</b> | <b>7621</b> |
+| [<b>771.</b>](Chapter%20771%20-%20Issue%20of%20Serviceable%20Material%20Other%20Than%20to%20Armed%20Forces/README.md) | <b>Issue of Serviceable Material Other Than to Armed Forces</b> | <b>7652</b> |
+| [<b>773.</b>](Chapter%20773%20-%20Disposal%20of%20Obsolete%20or%20Surplus%20Material/README.md) | <b>Disposal of Obsolete or Surplus Material</b> | <b>7682</b> |
+| [<b>775.</b>](Chapter%20775%20-%20Disposition%20of%20Effects%20of%20Deceased%20Persons%3B%20Captured%20Flags/README.md) | <b>Disposition of Effects of Deceased Persons; Captured Flags</b> | <b>7712</b> |
+| [<b>776.</b>](Chapter%20776%20-%20Army%20National%20Military%20Cemeteries/README.md) | <b>Army National Military Cemeteries</b> | <b>7721</b> |
+| [<b>777.</b>](Chapter%20777%20-%20Transportation/README.md) | <b>Transportation</b> | <b>7749</b> |
+| [<b>779.</b>](Chapter%20779%20-%20Real%20Property/README.md) | <b>Real Property</b> | <b>7771</b> |
+| [<b>781.</b>](Chapter%20781%20-%20Military%20Claims/README.md) | <b>Military Claims</b> | <b>7801</b> |
+| [<b>783.</b>](Chapter%20783%20-%20Accountability%20and%20Responsibility/README.md) | <b>Accountability and Responsibility</b> | <b>7831</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 433 to 453 as 763 to 783 and redesignated section numbers 4531 to 4831 as 7532 to 7831. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title V, §591(a)(2), Dec. 31, 2011, 125 Stat. 1441, added item for chapter 446.
 
@@ -34,17 +35,16 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Chapter 431 - Repealed](Chapter%20431%20-%20Repealed/README.md)
-- [Chapter 433 - Procurement](Chapter%20433%20-%20Procurement/README.md)
-- [Chapter 434 - Armaments Industrial Base](Chapter%20434%20-%20Armaments%20Industrial%20Base/README.md)
-- [Chapter 435 - Issue of Serviceable Material to Armed Forces](Chapter%20435%20-%20Issue%20of%20Serviceable%20Material%20to%20Armed%20Forces/README.md)
-- [Chapter 437 - Utilities and Services](Chapter%20437%20-%20Utilities%20and%20Services/README.md)
-- [Chapter 439 - Sale of Serviceable Material](Chapter%20439%20-%20Sale%20of%20Serviceable%20Material/README.md)
-- [Chapter 441 - Issue of Serviceable Material Other Than to Armed Forces](Chapter%20441%20-%20Issue%20of%20Serviceable%20Material%20Other%20Than%20to%20Armed%20Forces/README.md)
-- [Chapter 443 - Disposal of Obsolete or Surplus Material](Chapter%20443%20-%20Disposal%20of%20Obsolete%20or%20Surplus%20Material/README.md)
-- [Chapter 445 - Disposition of Effects of Deceased Persons; Captured Flags](Chapter%20445%20-%20Disposition%20of%20Effects%20of%20Deceased%20Persons%3B%20Captured%20Flags/README.md)
-- [Chapter 446 - Army National Military Cemeteries](Chapter%20446%20-%20Army%20National%20Military%20Cemeteries/README.md)
-- [Chapter 447 - Transportation](Chapter%20447%20-%20Transportation/README.md)
-- [Chapter 449 - Real Property](Chapter%20449%20-%20Real%20Property/README.md)
-- [Chapter 451 - Military Claims](Chapter%20451%20-%20Military%20Claims/README.md)
-- [Chapter 453 - Accountability and Responsibility](Chapter%20453%20-%20Accountability%20and%20Responsibility/README.md)
+- [Chapter 763 - Procurement](Chapter%20763%20-%20Procurement/README.md)
+- [Chapter 764 - Armaments Industrial Base](Chapter%20764%20-%20Armaments%20Industrial%20Base/README.md)
+- [Chapter 765 - Issue of Serviceable Material to Armed Forces](Chapter%20765%20-%20Issue%20of%20Serviceable%20Material%20to%20Armed%20Forces/README.md)
+- [Chapter 767 - Utilities and Services](Chapter%20767%20-%20Utilities%20and%20Services/README.md)
+- [Chapter 769 - Sale of Serviceable Material](Chapter%20769%20-%20Sale%20of%20Serviceable%20Material/README.md)
+- [Chapter 771 - Issue of Serviceable Material Other Than to Armed Forces](Chapter%20771%20-%20Issue%20of%20Serviceable%20Material%20Other%20Than%20to%20Armed%20Forces/README.md)
+- [Chapter 773 - Disposal of Obsolete or Surplus Material](Chapter%20773%20-%20Disposal%20of%20Obsolete%20or%20Surplus%20Material/README.md)
+- [Chapter 775 - Disposition of Effects of Deceased Persons; Captured Flags](Chapter%20775%20-%20Disposition%20of%20Effects%20of%20Deceased%20Persons%3B%20Captured%20Flags/README.md)
+- [Chapter 776 - Army National Military Cemeteries](Chapter%20776%20-%20Army%20National%20Military%20Cemeteries/README.md)
+- [Chapter 777 - Transportation](Chapter%20777%20-%20Transportation/README.md)
+- [Chapter 779 - Real Property](Chapter%20779%20-%20Real%20Property/README.md)
+- [Chapter 781 - Military Claims](Chapter%20781%20-%20Military%20Claims/README.md)
+- [Chapter 783 - Accountability and Responsibility](Chapter%20783%20-%20Accountability%20and%20Responsibility/README.md)

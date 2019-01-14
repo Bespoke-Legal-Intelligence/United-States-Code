@@ -12,7 +12,7 @@ The Commission shall include in the report required by subsection (a)—
 
 &emsp;(2) analysis and recommendations concerning how to address commercial electronic mail that originates in or is transmitted through or to facilities or computers in other nations, including initiatives or policy positions that the Federal Government could pursue through international negotiations, fora, organizations, or institutions; and
 
-&emsp;(3) analysis and recommendations concerning options for protecting consumers, including children, from the receipt and viewing ofcommercial electronic mail that is obscene or pornographic.
+&emsp;(3) analysis and recommendations concerning options for protecting consumers, including children, from the receipt and viewing of commercial electronic mail that is obscene or pornographic.
 
 (Pub. L. 108–187, §10, Dec. 16, 2003, 117 Stat. 2716.)
 

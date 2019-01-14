@@ -52,7 +52,7 @@ In subsection (a)(1), the words "period of availability ends" are substituted fo
 
 In subsection (a)(2), the words "reverts to the Treasury" are substituted for "if the appropriation was derived in whole or in part from the general fund, shall revert to such fund" to eliminate unnecessary words.
 
-In subsection (b), the words "not received before" are substituted for "not received until after" for clarity. The words "unless otherwise authorized by law" are omitted as surplus. The words "Comptroller General" are substituted for "General Accounting Office" for consistency.
+In subsection (b), the words "not received before" are substituted for "not received until after" for clarity.The words "unless otherwise authorized by law" are omitted as surplus. The words "Comptroller General" are substituted for "General Accounting Office" for consistency.
 
 In subsection (c), the text of 31:701(d)(last sentence) is omitted as executed.
 

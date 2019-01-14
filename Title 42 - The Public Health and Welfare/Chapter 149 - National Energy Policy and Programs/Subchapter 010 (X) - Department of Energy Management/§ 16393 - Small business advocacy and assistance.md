@@ -10,7 +10,7 @@ The Secretary shall require the Director of each National Laboratory, and may re
 
 &emsp;(3) make available to small business concerns training, mentoring, and information on how to participate in procurement and collaborative research activities;
 
-&emsp;(4) increase the awareness inside the National Laboratory or single-purpose research facility of the capabilities and opportunities presented by small business concerns; and
+&emsp;(4) increase the awareness inside the National Laboratory or single-purpose researchfacility of the capabilities and opportunities presented by small business concerns; and
 
 &emsp;(5) establish guidelines for the program under subsection (b) and report on the effectiveness of the program to the Director of the National Laboratory or single-purpose research facility.
 

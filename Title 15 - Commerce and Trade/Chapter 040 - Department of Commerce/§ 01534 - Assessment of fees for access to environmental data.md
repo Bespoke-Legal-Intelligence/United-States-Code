@@ -2,11 +2,11 @@
 
 #### (a) Basis of assessment
 
-Except as otherwise provided in this section, the Secretary is authorized to assess fees, based on fair market value, for access to environmental data and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration.
+Except as otherwise provided in this section, the Secretary is authorized to assess fees, basedon fair market value, for access to environmental data and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration.
 
 #### (b) Eligible recipients; waiver of fees in cases of foreign governments and international organizations
 
-(1) The Secretary shall provide data, information, and products described in subsection (a) to Federal, State, and local government agencies,to universities, and to other nonprofit institutions at the cost of reproduction and transmission, if such data, information, and products are to be used for research and not for commercial purposes.
+(1) The Secretary shall provide data, information, and products described in subsection (a) to Federal, State, and local government agencies, to universities, and to other nonprofit institutions at the cost of reproduction and transmission, if such data, information, and products are to be used for research and not for commercial purposes.
 
 (2) The Secretary shall waive the assessment of fees under subsection (a) as necessary to continue to provide data, information, or products to foreign governments and international organizations on a basis of exchanging such data, information, and products or as otherwise provided by international agreement.
 

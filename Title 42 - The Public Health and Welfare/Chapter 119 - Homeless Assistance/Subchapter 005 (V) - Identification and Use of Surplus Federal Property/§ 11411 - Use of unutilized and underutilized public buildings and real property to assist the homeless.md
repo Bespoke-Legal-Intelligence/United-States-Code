@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 #### (b) Availability of property
 
-(1) The Secretary shall promptly notify each Federal agency with respect to any property of that agency that the Secretary has identified under subsection (a). No later than 45 days after receipt of such a notice, the head of the appropriate landholding agency shall transmit to the Secretary the agency's response to property identifications contained in such notification, which shall include—
+(1) The Secretary shall promptly notify each Federal agency with respect to any property of that agency that the Secretary has identifiedunder subsection (a). No later than 45 days after receipt of such a notice, the head of the appropriate landholding agency shall transmit to the Secretary the agency's response to property identifications contained in such notification, which shall include—
 
 &emsp;(A) in the case of unutilized or underutilized property—
 
@@ -74,7 +74,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 #### (d) Holding period
 
-(1) Properties published under subsection (c)(1)(A)(ii) as available for application for use to assist the homeless shall not be available for any other purpose for a period of 30 days beginning on the date of such publication.
+(1) Properties published under subsection (c)(1)(A)(ii) as available for application for useto assist the homeless shall not be available for any other purpose for a period of 30 days beginning on the date of such publication.
 
 (2) If written notice of intent to apply for such a property for use to assist the homeless is received by the Secretary of Health and Human Services within the 30-day period described under paragraph (1), such property may not be made available for any other purpose until the date the Secretary of Health and Human Services or other appropriate landholding agency has completed action on the application submitted under subsection (e) with respect to that written notice of intent.
 
@@ -102,7 +102,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (4) If the Secretary of Health and Human Services approves an initial application, the applicant has 45 days in which to provide a final application that sets forth a reasonable plan to finance the approved program.
 
-(5) No later than 15 days after receipt of the final application, the Secretary of Health and Human Services shall review, make a final determination, and complete all actions on the final application. The Secretary of Health and Human Services shall maintain a public recordof all actions taken in response to an application.
+(5) No later than 15 days after receipt of the final application, the Secretary of Health and Human Services shall review, make a final determination, and complete all actions on the final application. The Secretary of Health and Human Services shall maintain a public record of all actions taken in response to an application.
 
 #### (f) Making property available to representatives of homeless
 
@@ -114,7 +114,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (B) Whenever the Administrator or the Secretary of Health and Human Services makes a determination under subparagraph (A), the Administrator or the Secretary of Health and Human Services shall transmit to the appropriate committees of the Congress an explanatory statement detailing the need satisfied by conveyance of the surplus property and the reasons for determining that such need was so meritorious and compelling as to outweigh the needs of the homeless.
 
-(4) For any property made available by lease to a representative of the homeless before November 29, 1990, the Secretary of Health and Human Services may, upon written request by the representative, convey such property by deed to the representative in accordance with, and subject to the requirements of, section 550 of title 40. The lease term shall not be affected if a deed is not granted.
+(4) For any property made available by lease to a representative of the homeless before November 29, 1990, the Secretary of Health and Human Services may, upon written request by the representative, convey such property by deed to the representative in accordance with,and subject to the requirements of, section 550 of title 40. The lease term shall not be affected if a deed is not granted.
 
 #### (g) Records
 
@@ -215,6 +215,48 @@ Pub. L. 101–645, title IV, §401(b), Nov. 29, 1990, 104 Stat. 4723, provided t
 #### Regulations
 
 Pub. L. 101–645, title IV, §401(d), Nov. 29, 1990, 104 Stat. 4723, provided that: "No later than 90 days after the date of the enactment of this Act \[Nov. 29, 1990\], the Administrator of General Services, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall promulgate regulations implementing this section and the amendment made by this section \[amending this section and enacting provisions set out as notes under this section\]."
+
+#### Exemption of Department of Defense Off-Site Use and Off-Site Removal Only Non-Mobile Properties From Certain Excess Property Disposal Requirements
+
+Pub. L. 115–232, div. B, title XXVIII, §2822, Aug. 13, 2018, 132 Stat. 2268, provided that:
+
+"(a)
+
+In General.—Excess or unutilized or underutilized non-mobile property of the Department of Defense that is situated on non-excess land shall be exempt from the requirements of title V of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411 et seq.) upon a determination by the head of the department, agency, or other element of the Department having jurisdiction of the property that—
+
+&emsp;"(1) the property is not feasible to relocate;
+
+&emsp;"(2) the property is located in an area to which the general public is denied access in the interest of national security; and
+
+&emsp;"(3) the exemption would facilitate the efficient disposal of excess property or result in more efficient real property management.
+
+"(b)
+
+Consultation.—Before making an initial determination under the authority in subsection (a), and periodically thereafter, the head of a department, agency, or other element of the Department shall consult with the Executive Director of the United States Interagency Council on Homelessness on types of non-mobile properties that may be feasible for relocation and suitable to assist the homeless.
+
+"(c)
+
+Reporting Requirement.—
+
+&emsp;"(1)
+
+In general.—If any head of a department, agency, or other element of the Department makes a determination under subsection (a) during a fiscal year, not later than 90 days after the end of that fiscal year, the Secretary of Defense shall submit to the appropriate committees of Congress a report listing all the buildings, facilities, and other properties for which a determination was made under that subsection during that fiscal year.
+
+&emsp;"(2)
+
+Form.—Any report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+&emsp;"(3)
+
+Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Financial Services, and the Committee on Oversight and Government Reform of the House of Representatives.
+
+"(d)
+
+Sunset.—The authority under subsection (a) shall expire on September 30, 2021."
 
 #### Consultation and Report Regarding Use of National Guard Facilities as Overnight Shelters for Homeless Individuals
 

@@ -30,7 +30,7 @@ The Secretary shall establish a Federal task force, including the Transportation
 
 &emsp;The modal plan shall include prioritized goals, actions, objectives, policies, mechanisms, and schedules for, at a minimum—
 
-&emsp;&emsp;(A) improving the security of railroad tunnels, railroad bridges, railroad switching and car storage areas, other railroad infrastructure and facilities, information systems, and other areas identified by the Secretary as posing significant railroad-related risks to public safety and the movement of interstate commerce, taking into account the impact that any proposed security measuremight have on the provision of railroad service or on operations served or otherwise affected by railroad service;
+&emsp;&emsp;(A) improving the security of railroad tunnels, railroad bridges, railroad switching and car storage areas, other railroad infrastructure and facilities, information systems, and other areas identified by the Secretary as posing significant railroad-related risks to public safety and the movement of interstate commerce, taking into account the impact that any proposed security measure might have on the provision of railroad service or on operations served or otherwise affected by railroad service;
 
 &emsp;&emsp;(B) deploying equipment and personnel to detect security threats, including those posed by explosives and hazardous chemical, biological, and radioactive substances, and any appropriate countermeasures;
 
@@ -96,7 +96,7 @@ Consistent with the requirements of section 114(t) <sup>1</sup> of title 49, th
 
 #### (g) Funding
 
-Out of funds appropriated pursuant to section 114(w) of title 49, there shall be made available to the Secretary to carry out this section $5,000,000 for fiscal year 2008.
+Out of funds appropriated pursuant to section 114(w) <sup>1</sup> of title 49, there shall be made available to the Secretary to carry out this section $5,000,000 for fiscal year 2008.
 
 (Pub. L. 110–53, title XV, §1511, Aug. 3, 2007, 121 Stat. 426.)
 
@@ -105,6 +105,8 @@ Out of funds appropriated pursuant to section 114(w) of title 49, there shall be
 Section 114(t) of title 49, referred to in subsecs. (b)(1), (d), and (f), was redesignated section 114(s) of title 49 by Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092.
 
 Executive Order No. 13416, referred to in subsec. (b)(3)(E), is set out as a note under section 1101 of this title.
+
+Section 114(w) of title 49, referred to in subsec. (g), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, §1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

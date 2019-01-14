@@ -6,7 +6,7 @@
 
 &emsp;(2) the date or dates of such liquidation, termination, or acceleration.
 
-(b) If there are not any commercially reasonable determinants of value as of any date referred to in paragraph (1) or (2) of subsection (a), damages shall be measured as of the earliestsubsequent date or dates on which there are commercially reasonable determinants of value.
+(b) If there are not any commercially reasonable determinants of value as of any date referred to in paragraph (1) or (2) of subsection (a), damages shall be measured as of the earliest subsequent date or dates on which there are commercially reasonable determinants of value.
 
 (c) For the purposes of subsection (b), if damages are not measured as of the date or dates of rejection, liquidation, termination, or acceleration, and the forward contract merchant, stockbroker, financial institution, securities clearing agency, repo participant, financial participant, master netting agreement participant, or swap participant or the trustee objects to the timing of the measurement of damages—
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Beginning 3 years after January 8, 2008, a State shall be eligible to receive a waiver of the 10 percent matching requirement for National Criminal History Improvement Grants under the Crime Identification Technology Act of 1988 (42 U.S.C. 14601) <sup>1</sup> if the State provides at least 90 percent of the information described in subsection (c). The length of such a waiver shall not exceed 2 years.
+Beginning 3 years after January 8, 2008, a State shall be eligible to receive a waiver of the 10 percent matching requirement for National Criminal History Improvement Grants under section 40301 of this title if the State is in compliance with an implementation plan established under subsection (b) or provides at least 90 percent of the information described in subsection (c). The length of such a waiver shall not exceed 2 years.
 
 #### (b) State estimates
 
@@ -14,7 +14,7 @@ Beginning 3 years after January 8, 2008, a State shall be eligible to receive a 
 
 #### (B) Failure to provide initial estimate
 
-&emsp;&emsp;A State that fails to provide an estimate described in subparagraph (A) by the date required under such subparagraph shall be ineligible to receive any funds under section 40913 of this title, until such date as it provides such estimate to the Attorney General.
+&emsp;&emsp;A State that fails to provide an estimate described in subparagraph (A) by the date required under such subparagraph shall be ineligible to receive any funds under section 40913 of this title, until such date as it provides such estimate to the Attorney General or has established an implementation plan under section 40917 of this title.
 
 #### (C) Record defined
 
@@ -68,7 +68,7 @@ Beginning 3 years after January 8, 2008, a State shall be eligible to receive a 
 
 #### (2) Application to persons convicted of misdemeanor crimes of domestic violence
 
-&emsp;The State shall make available to the Attorney General, for use by the National Instant Criminal Background Check System, records relevant to a determination of whether a person has been convicted in any court of a misdemeanor crime of domestic violence. With respect to records relating to such crimes, the State shall provide information specifically describing the offense and the specific section or subsection of the offense for which the defendant has been convicted and the relationship of the defendant to the victim in each case.
+&emsp;The State shall make available to the Attorney General, for use by the National Instant Criminal Background Check System, records relevant to a determination of whether a person has been convicted in any court of a misdemeanor crime of domestic violence. With respect to records relating to such crimes, the State shall provide information specifically describing the offense and the specific sectionor subsection of the offense for which the defendant has been convicted and the relationship of the defendant to the victim in each case.
 
 #### (3) Application to persons who have been adjudicated as a mental defective or committed to a mental institution
 
@@ -82,15 +82,15 @@ For any information provided to the Attorney General for use by the National Ins
 
 Not later than January 31 of each year, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report on the progress of States in automating the databases containing the information described in subsection (b) and in making that information electronically available to the Attorney General pursuant to the requirements of subsection (c).
 
-(Pub. L. 110–180, title I, §102, Jan. 8, 2008, 121 Stat. 2564.)
-
-#### References in Text
-
-The Crime Identification Technology Act of 1988, referred to in subsec. (a), probably means the Crime Identification Technology Act of 1998, Pub. L. 105–251, title I, Oct. 9, 1998, 112 Stat. 1871, which was classified as subchapter I (§14601) of chapter 140 of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 40301 of this title.
+(Pub. L. 110–180, title I, §102, Jan. 8, 2008, 121 Stat. 2564; Pub. L. 115–141, div. S, title VI, §603(a), Mar. 23, 2018, 132 Stat. 1135.)
 
 #### Codification
 
 Section was formerly classified in a note under section 922 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–141, §603(a)(1), substituted "section 40301 of this title" for "the Crime Identification Technology Act of 1988 (42 U.S.C. 14601)" and inserted "is in compliance with an implementation plan established under subsection (b) or" before "provides at least 90 percent of the information described in subsection (c)".
+
+Subsec. (b)(1)(B). Pub. L. 115–141, §603(a)(2), inserted "or has established an implementation plan under section 40917 of this title" after "the Attorney General".
 

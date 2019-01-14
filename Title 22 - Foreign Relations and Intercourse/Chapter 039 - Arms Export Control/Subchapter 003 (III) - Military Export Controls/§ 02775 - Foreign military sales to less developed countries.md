@@ -28,5 +28,5 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 
 #### Delegation of Functions
 
-For delegation of functions of the President under subsec. (a) of this section, see section 1(i) of Ex. Ord.No. 13637, Mar. 8, 2013, 78 F.R. 16130, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
+For delegation of functions of the President under subsec. (a) of this section, see section 1(i) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16130, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 

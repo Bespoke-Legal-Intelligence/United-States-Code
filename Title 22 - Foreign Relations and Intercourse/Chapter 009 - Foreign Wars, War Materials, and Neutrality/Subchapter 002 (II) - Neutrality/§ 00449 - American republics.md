@@ -1,6 +1,6 @@
 ### §449. American republics
 
-This subchapter (except section 452 <sup>1</sup> of this title) shall not apply to any American republicengaged in war against a non-American state or states, provided the American republic is not cooperating with a non-American state or states in such war.
+This subchapter (except section 452 <sup>1</sup> of this title) shall not apply to any American republic engaged in war against a non-American state or states, provided the American republic is not cooperating with a non-American state or states in such war.
 
 (Nov. 4, 1939, ch. 2, §9, 54 Stat. 8.)
 

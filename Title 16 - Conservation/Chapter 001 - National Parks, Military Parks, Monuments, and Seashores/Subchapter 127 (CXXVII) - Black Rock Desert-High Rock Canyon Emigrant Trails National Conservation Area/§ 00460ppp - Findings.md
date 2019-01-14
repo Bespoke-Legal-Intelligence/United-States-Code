@@ -14,7 +14,7 @@ The Congress finds the following:
 
 &emsp;(6) The two large wilderness mosaics that frame the conservation area offer exceptional opportunities for solitude and serve to protect the integrity of the viewshed of the historic emigrant trails.
 
-&emsp;(7) Public lands in the conservation area have been used for domestic livestock grazing for over a century, with resultant benefits to community stability and contributions to the local and State economies. It has not been demonstrated that continuation of this use would be incompatible with appropriate protection and sound management of the resource values of these lands; therefore, it is expected that such grazing will continue in accordance with the management plan for the conservation area and other applicable laws and regulations.
+&emsp;(7) Public lands in the conservation area have been used for domestic livestock grazingfor over a century, with resultant benefits to community stability and contributions to the local and State economies. It has not been demonstrated that continuation of this use would be incompatible with appropriate protection and sound management of the resource values of these lands; therefore, it is expected that such grazing will continue in accordance with the management plan for the conservation area and other applicable laws and regulations.
 
 &emsp;(8) The Black Rock Desert playa is a unique natural resource that serves as the primary destination for the majority of visitors to the conservation area, including visitors associated with large-scale permitted events. It is expected that such permitted events will continue to be administered in accordance with the management plan for the conservation area and other applicable laws and regulations.
 

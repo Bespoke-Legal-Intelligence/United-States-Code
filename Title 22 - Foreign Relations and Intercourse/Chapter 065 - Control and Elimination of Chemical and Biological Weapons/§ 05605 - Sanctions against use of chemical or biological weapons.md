@@ -2,7 +2,7 @@
 
 #### (a) Initial sanctions
 
-If, at any time, the President makes a determination pursuant to section 5604(a)(1) of this title with respect to the government of a foreign country, the President shall forthwith impose the following sanctions:
+If, at any time, the President makes a determination pursuant to section 5604(a)(1) of this title with respect to the government of a foreigncountry, the President shall forthwith impose the following sanctions:
 
 #### (1) Foreign assistance
 
@@ -26,7 +26,7 @@ If, at any time, the President makes a determination pursuant to section 5604(a)
 
 #### (5) Exports of national security-sensitive goods and technology
 
-&emsp;The authorities of section 4605 of title 50 shall be used to prohibit the export to that country of any goods or technology on that part of the control list established under section 4604(c)(1) of title 50.
+&emsp;The authorities of section 4605 <sup>1</sup> of title 50 shall be used to prohibit the export to that country of any goods or technology on that part of the control list established under section 4604(c)(1) <sup>1</sup> of title 50.
 
 #### (b) Additional sanctions if certain conditions not met
 
@@ -56,7 +56,7 @@ If, at any time, the President makes a determination pursuant to section 5604(a)
 
 #### (C) Further export restrictions
 
-&emsp;&emsp;The authorities of section 4605 of title 50 shall be used to prohibit exports to that country of all other goods and technology (excluding food and other agricultural commodities and products).
+&emsp;&emsp;The authorities of section 4605 <sup>1</sup> of title 50 shall be used to prohibit exports to that country of all other goods and technology (excluding food and other agricultural commodities and products).
 
 #### (D) Import restrictions
 
@@ -72,9 +72,9 @@ If, at any time, the President makes a determination pursuant to section 5604(a)
 
 &emsp;&emsp;(II) Within 10 days after the date of notification of a government under subclause (I), the Secretary of Transportation shall take all steps necessary to suspend at the earliest possible date the authority of any foreign air carrier owned or controlled, directly or indirectly, by that government to engage in foreign air transportation to or from the United States, notwithstanding any agreement relating to air services.
 
-&emsp;&emsp;(ii)(I) The President may direct the Secretary of State to terminate any air service agreement between the United States and acountry with respect to which the President has made a determination pursuant to section 5604(a)(1) of this title, in accordance with the provisions of that agreement.
+&emsp;&emsp;(ii)(I) The President may direct the Secretary of State to terminate any air service agreement between the United States and a country with respect to which the President has made a determination pursuant to section 5604(a)(1) of this title, in accordance with the provisions of that agreement.
 
-&emsp;&emsp;(II) Upon termination of an agreement under this clause, the Secretary of Transportation shall take such steps as may be necessary to revoke at the earliest possible date the right of any foreign air carrier owned, or controlled, directly or indirectly, by the government of that country to engage in foreign air transportation to or from the United States.
+&emsp;&emsp;(II) Upon termination of an agreement under this clause, the Secretary of Transportation shall take such steps as may be necessary to revoke at the earliest possible datethe right of any foreign air carrier owned, or controlled, directly or indirectly, by the government of that country to engage in foreign air transportation to or from the United States.
 
 &emsp;&emsp;(iii) The Secretary of Transportation may provide for such exceptions from clauses (i) and (ii) as the Secretary considers necessary to provide for emergencies in which the safety of an aircraft or its crew or passengers is threatened.
 
@@ -116,7 +116,7 @@ The President shall remove the sanctions imposed with respect to a country pursu
 
 &emsp;(A) A sanction described in paragraph (4) or (5) of subsection (a) or in any of subparagraphs (A) through (D) of subsection (b)(2) shall not apply to any activity pursuant to any contract or international agreement entered into before the date of the presidential determination under section 5604(a)(1) of this title unless the President determines, on a case-by-case basis, that to apply such sanction to that activity would prevent the performance of a contract or agreement that would have the effect of assisting a country in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals.
 
-&emsp;(B) The same restrictions of subsection (p) of section 4605 of title 50, as that subsection is so redesignated by section 304(b) of this title, which are applicable to exports prohibited under section 4605 of title 50, shall apply to exports prohibited under subsection (a)(5) or (b)(2)(C) of this section. For purposes of this subparagraph, any contract or agreement the performance of which (as determined by thePresident) would have the effect of assisting a foreign government in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals shall be treated as constituting a breach of the peace that poses a serious and direct threat to the strategic interest of the United States, within the meaning of subparagraph (A) of section 4605(p) of title 50.
+&emsp;(B) The same restrictions of subsection (p) of section 4605 <sup>1</sup> of title 50, as that subsection is so redesignated by section 304(b) of this title, which are applicable to exports prohibited under section 4605 <sup>1</sup> of title 50, shall apply to exports prohibited under subsection (a)(5) or (b)(2)(C) of this section. For purposes of this subparagraph, any contract or agreement the performance of which (as determined by the President) would have the effect of assisting a foreign government in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals shall be treated as constituting a breach of the peace that poses a serious and direct threat to the strategic interest of the United States, withinthe meaning of subparagraph (A) of section 4605(p) <sup>1</sup> of title 50.
 
 #### (2) Sanctions applied to existing contracts
 
@@ -130,7 +130,9 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87
 
 The Arms Export Control Act, referred to in subsec. (a)(2)(A), (3), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-Section 304(b) of this title, referred to in subsec. (e)(1)(B), is section 304(b) of Pub. L. 102–182, title III, Dec. 4, 1991, 105 Stat. 1246, which amended section 4605 of Title 50, War and National Defense.
+Sections 4604(c)(1) and 4605 of title 50, referred to in subsecs. (a)(5), (b)(2)(C), and (e)(1)(B), were repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
+
+Section 304(b) of this title, referred to in subsec. (e)(1)(B), is section 304(b) of Pub. L. 102–182, title III, Dec. 4, 1991, 105 Stat. 1246, which amended former section 4605 of Title 50, War and National Defense.
 
 #### Codification
 
@@ -139,4 +141,6 @@ In subsec. (b)(2)(F)(iv), "section 40102(a) of title 49" substituted for "sectio
 #### Delegation of Functions
 
 Functions of President under this section delegated to Secretary of State, with certain exceptions, by section 1(b) of Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

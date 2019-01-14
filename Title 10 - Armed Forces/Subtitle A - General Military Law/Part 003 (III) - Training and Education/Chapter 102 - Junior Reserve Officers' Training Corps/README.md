@@ -6,10 +6,13 @@
 | [2032\.](%C2%A7%2002032%20-%20Responsibility%20of%20the%20Secretaries%20of%20the%20military%20departments%20to%20maximize%20enrollment%20and%20enhance%20efficiency.md) | Responsibility of the Secretaries of the military departments to maximize enrollment and enhance efficiency. |
 | [2033\.](%C2%A7%2002033%20-%20Instructor%20qualifications.md) | Instructor qualifications. |
 | [2034\.](%C2%A7%2002034%20-%20Educational%20institutions%20not%20maintaining%20units%20of%20Junior%20Reserve%20Officers%27%20Training%20Corps%20issuance%20of%20arms%2C%20tentage%2C%20and%20equipment.md) | Educational institutions not maintaining units of Junior Reserve Officers' Training Corps: issuance of arms, tentage, and equipment. |
+| [2035\.](%C2%A7%2002035%20-%20Flexibility%20in%20authorities%20for%20management%20of%20programs%20and%20units.md) | Flexibility in authorities for management of programs and units. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title V, §557(a)(2), Aug. 13, 2018, 132 Stat. 1774, added item 2035.
 
 <b>2013</b>—Pub. L. 112–239, div. A, title V, §552(c)(1), Jan. 2, 2013, 126 Stat. 1741, added item 2034.
 
@@ -32,3 +35,4 @@
 - [&sect; 02032 - Responsibility of the Secretaries of the military departments to maximize enrollment and enhance efficiency](%C2%A7%2002032%20-%20Responsibility%20of%20the%20Secretaries%20of%20the%20military%20departments%20to%20maximize%20enrollment%20and%20enhance%20efficiency.md)
 - [&sect; 02033 - Instructor qualifications](%C2%A7%2002033%20-%20Instructor%20qualifications.md)
 - [&sect; 02034 - Educational institutions not maintaining units of Junior Reserve Officers' Training Corps issuance of arms, tentage, and equipment](%C2%A7%2002034%20-%20Educational%20institutions%20not%20maintaining%20units%20of%20Junior%20Reserve%20Officers%27%20Training%20Corps%20issuance%20of%20arms%2C%20tentage%2C%20and%20equipment.md)
+- [&sect; 02035 - Flexibility in authorities for management of programs and units](%C2%A7%2002035%20-%20Flexibility%20in%20authorities%20for%20management%20of%20programs%20and%20units.md)

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) consistent with the purposes of this Act, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], the Federal Reserve Act \[12 U.S.C. 221 et seq.\], and other Federal law applicable to depository institution subsidiaries of bank holding companies or State member banks, as the case may be; and
 
-&emsp;&emsp;(B) appropriate to prevent an evasion of any provision of law referred to in subparagraph (A) or to avoid any significant risk to the safety and soundness of depository institutions or the Deposit Insurance Fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
+&emsp;&emsp;(B) appropriate to prevent an evasion of any provision of law referred to in subparagraph (A) or to avoid any significant risk to the safety and soundness of depository institutions or the Deposit Insurance Fund orother adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
 
 #### (3) Review
 

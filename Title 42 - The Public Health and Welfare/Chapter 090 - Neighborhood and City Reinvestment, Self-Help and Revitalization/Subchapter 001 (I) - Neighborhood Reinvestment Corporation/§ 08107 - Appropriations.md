@@ -88,7 +88,7 @@ Purpose.—It is the purpose of this section \[amending this section\] to author
 
 &emsp;"(4) to expand the loan purchase capacity of the national neighborhood housing services secondary market, operated by Neighborhood Housing Services of America, for loans made by neighborhood housing services to residents who are unable to meet conventional lending standards, and other loans for community development purposes;
 
-&emsp;"(5) to provide increased capacity development and matching grants to preserve existing privately held unsubsidized rental housing affordable to low- andmoderate-income households and to create flexible strategies effective in the diverse economic and geographic environments of the Nation;
+&emsp;"(5) to provide increased capacity development and matching grants to preserve existing privately held unsubsidized rental housing affordable to low- and moderate-income households and to create flexible strategies effective in the diverse economic and geographic environments of the Nation;
 
 &emsp;"(6) to make grants to provide incentives to extend low-income housing use in connection with properties subject to prepayment pursuant to the Low-Income Housing Preservation and Resident Ownership \[Homeownership\] Act of 1990 \[12 U.S.C. 4101 et seq.\];
 

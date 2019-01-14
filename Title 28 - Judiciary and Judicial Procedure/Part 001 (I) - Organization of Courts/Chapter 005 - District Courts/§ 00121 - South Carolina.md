@@ -52,7 +52,7 @@ South Carolina constitutes one judicial district comprising eleven divisions.
 
 Based on title 28, U.S.C., 1940 ed., §186 (Mar. 3, 1911, ch. 231, §105, 36 Stat. 1123; Feb. 5, 1912, ch. 28, 37 Stat. 60; Mar. 3, 1915, ch. 100, §5, 38 Stat. 961; Sept. 1, 1916, ch. 434, 39 Stat. 721; Mar. 4, 1923, ch. 261, 42 Stat. 1486; Jan. 30, 1925, ch. 118, 43 Stat. 800; June 26, 1926, ch. 696, §§1–3, 44 Stat. 773; June 20, 1936, ch. 637, §§1–3, 49 Stat. 1558, 1559; June 12, 1940, ch. 335, 54 Stat. 344; June 28, 1943, ch. 173, title II, §204, 57 Stat. 244; Dec. 13, 1944, ch. 556, 58 Stat. 801).
 
-The last sentence of section 186 of title 28, U.S.C., 1940 ed., relating to trial of criminal cases in the division in which the offense was committed, was omitted as fully covered by Rules 18–22 of the Federal Rules of Criminal Procedure.
+The last sentence of section 186 of title 28, U.S.C., 1940 ed., relating to trial of criminal cases in the division in which the offense was committed, was omitted as fullycovered by Rules 18–22 of the Federal Rules of Criminal Procedure.
 
 A provision relating to the places of the clerks' offices was omitted as covered by section 751 of this title.
 

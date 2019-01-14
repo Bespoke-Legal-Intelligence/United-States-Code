@@ -56,5 +56,5 @@ In subsection (a)(3), the words "State, territory, or possession of the United S
 
 In subsection (b), the text of 36:537(b) is omitted as obsolete.
 
-In subsection (c), the words "One individual may hold the offices of secretary and treasurer" are substitutedfor "(which latter two offices may be held by one person)" to eliminate unnecessary words. The word "provided" is substituted for "may be prescribed" to eliminate unnecessary words.
+In subsection (c), the words "One individual may hold the offices of secretary and treasurer" are substituted for "(which latter two offices may be held by one person)" to eliminate unnecessary words. The word "provided" is substituted for "may be prescribed" to eliminate unnecessary words.
 

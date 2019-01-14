@@ -46,7 +46,7 @@ Act of April 22, 1908 (45 U.S.C. 51 et seq.) (popularly referred to as the "Fede
 
 The Railroad Unemployment Insurance Act, referred to in subsec. (a)(1), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of this title. For complete classification of this Act to the Code, see section 367 of this title and Tables.
 
-Section 10713 of title 49, referred to in subsec. (a)(2), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Provisions similar to those in section 10713 are contained in section 10709 of Title 49.
+Section 10713 of title 49, referred to in subsec. (a)(2), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I,§102(a), Dec. 29, 1995, 109 Stat. 804. Provisions similar to those in section 10713 are contained in section 10709 of Title 49.
 
 Section 103, referred to in subsec. (a)(6)(A), which related to interest on certain governmental obligations was amended generally by Pub. L. 99–514, title XIII, §1301(a), Oct. 22, 1986, 100 Stat. 2602, and as so amended relates to interest on State and local bonds. Section 103(b)(2), which prior to the general amendment defined industrial development bond, relates to the applicability of the interest exclusion to arbitrage bonds.
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwiseprovided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 
 #### Alaska Railroad
 

@@ -6,7 +6,7 @@ A prior section 6659 was renumbered section 6662 of this title.
 
 Section 6659A, added Pub. L. 99–514, title XI, §1138(a), Oct. 22, 1986, 100 Stat. 2486, related to additions to tax in case of overstatements of pension liabilities.
 
-Section 6660, added Pub. L. 98–369, div. A, title I, §155(c)(2)(A), July 18, 1984, 98 Stat. 694; amended Pub. L.99–514, title XVIII, §§1811(d), 1899A(57), Oct. 22, 1986, 100 Stat. 2833, 2961, related to additions to tax in case of valuation understatements for purposes of estate or gift taxes.
+Section 6660, added Pub. L. 98–369, div. A, title I, §155(c)(2)(A), July 18, 1984, 98 Stat. 694; amended Pub. L. 99–514, title XVIII, §§1811(d), 1899A(57), Oct. 22, 1986, 100 Stat. 2833, 2961, related to additions to tax in case of valuation understatements for purposes of estate or gift taxes.
 
 A prior section 6660 was renumbered section 6662 of this title.
 

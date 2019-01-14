@@ -314,7 +314,7 @@ The purposes of the Center shall be to—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may vacate and remand to the Board for reconsideration any decision made pursuant to subsection (e)(3)(H) if the Secretary determines that there has been a violation of this paragraph or any conflict of interest provision of the bylaws of the Board with respect to the decision.
+&emsp;&emsp;&emsp;The Secretary may vacate and remand to the Board for reconsideration any decision made pursuant to subsection (e)(3)(H)if the Secretary determines that there has been a violation of this paragraph or any conflict of interest provision of the bylaws of the Board with respect to the decision.
 
 #### (ii) Reasons
 
@@ -416,7 +416,7 @@ To carry out this section, the Board may consult with—
 
 #### References in Text
 
-This Act, referred to in subsec. (i)(2)(C), probably means the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, which is classified principally to chapter 50 (§1921 et seq.) of this title and of which this section was formerly a part prior to renumbering by Pub. L. 113–79. For classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+This Act, referred to in subsec. (i)(2)(C), probably means the Consolidated Farm and Rural DevelopmentAct, title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, which is classified principally to chapter 50 (§1921 et seq.) of this title and of which this section was formerly a part prior to renumbering by Pub. L. 113–79. For classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Codification
 

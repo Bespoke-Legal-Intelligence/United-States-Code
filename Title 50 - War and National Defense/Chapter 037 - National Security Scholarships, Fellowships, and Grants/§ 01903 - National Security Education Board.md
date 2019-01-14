@@ -44,7 +44,7 @@ The Board shall perform the following functions:
 
 &emsp;&emsp;(A) which countries are not emphasized in other United States study abroad programs, such as countries in which few United States students are studying and countries which are of importance to the national security interests of the United States, and are, therefore, critical countries for the purposes of section 1902(a)(1)(A) of this title;
 
-&emsp;&emsp;(B) which areas within the disciplines described in section 1902(a)(1)(B) of this title relating to the national security interests of the United States are areas of study in which United States students are deficient in learning and are, therefore, critical areas within those disciplines for the purposes of that section;
+&emsp;&emsp;(B) which areas within the disciplines described in section 1902(a)(1)(B) of this titlerelating to the national security interests of the United States are areas of study in which United States students are deficient in learning and are, therefore, critical areas within those disciplines for the purposes of that section;
 
 &emsp;&emsp;(C) which areas within the disciplines described in section 1902(a)(1)(C) of this title are areas in which United States students, educators, and Government employees are deficient in learning and in which insubstantial numbers of United States institutions of higher education provide training and are, therefore, critical areas within those disciplines for the purposes of that section;
 

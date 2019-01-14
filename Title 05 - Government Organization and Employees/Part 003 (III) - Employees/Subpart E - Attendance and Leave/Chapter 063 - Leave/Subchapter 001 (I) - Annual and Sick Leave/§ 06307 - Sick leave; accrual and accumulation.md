@@ -82,7 +82,7 @@ Pub. L. 103–329, title VI, §629(b)(3), Sept. 30, 1994, 108 Stat. 2423, provid
 
 #### Adoptions During Fiscal Year 1991
 
-Pub. L. 101–509, title V, §536, Nov. 5, 1990, 104 Stat. 1470, for fiscal year 1991, authorized sick leave providedby section 6307 of this title to be approved for purposes related to the adoption of a child.
+Pub. L. 101–509, title V, §536, Nov. 5, 1990, 104 Stat. 1470, for fiscal year 1991, authorized sick leave provided by section 6307 of this title to be approved for purposes related to the adoption of a child.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "(e)(1)".</i>
 

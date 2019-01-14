@@ -74,7 +74,7 @@
 
 #### (1) Civil action
 
-&emsp;Except as provided in subsection (b), in any case in which the attorney general of a State has reason to believe that an interest of one or more of the residents of that State has been or is threatened or adversely affected by any person who violates a provision of this part, the attorney general of the State, as parens patriae, may bring a civil action on behalf ofsuch residents of the State in a district court of the United States of appropriate jurisdiction—
+&emsp;Except as provided in subsection (b), in any case in which the attorney general of a State has reason to believe that an interest of one or more of the residents of that State has been or is threatened or adversely affected by any person who violates a provision of this part, the attorney general of the State, as parens patriae, may bring a civil action on behalf of such residents of the State in a district court of the United States of appropriate jurisdiction—
 
 &emsp;&emsp;(A) to enjoin further such violation by the defendant; or
 

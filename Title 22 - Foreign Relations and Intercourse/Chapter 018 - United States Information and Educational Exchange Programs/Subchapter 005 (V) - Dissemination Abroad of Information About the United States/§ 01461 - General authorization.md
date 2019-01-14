@@ -32,7 +32,7 @@ Nothing in this section may be construed to require the Secretary or the Broadca
 
 #### References in Text
 
-The United States International Broadcasting Act of 1994, referred to in subsec. (b)(1), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to chapter 71 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The United States International Broadcasting Act of 1994, referred to in subsec. (b)(1), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, which is classifiedprincipally to chapter 71 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 The Radio Broadcasting to Cuba Act, referred to in subsec. (b)(1), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, which is classified generally to subchapter V–A (§1465 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
 
@@ -80,7 +80,7 @@ Pub. L. 101–246, title II, §233, Feb. 16, 1990, 104 Stat. 57, provided that: 
 
 #### USIA Posts and Personnel Overseas
 
-Pub. L. 100–204, title II, §204, Dec. 22, 1987, 101 Stat. 1373, prohibited use of appropriated funds to pay expenses associated with closing of United States Information Agency posts abroad or to pay expenses associated with Bureau of Management or with television and film service of Agency if an Agency post abroad was closed after Apr. 1, 1987, and not reopened within 180 days after Dec. 22, 1987, placed limitation on reduction of number of positions filled by American employees of Agency stationed abroad, authorized waiver of bothprohibition and limitation, and permitted Director, in case of a sequestration order, to submit a report to congressional committees proposing a list of Agency posts to be downgraded or closed in order to comply with sequestration order, prior to repeal by Pub. L. 102–138, title II, §206(c), Oct. 28, 1991, 105 Stat. 693. See section 1475g of this title.
+Pub. L. 100–204, title II, §204, Dec. 22, 1987, 101 Stat. 1373, prohibited use of appropriated funds to pay expenses associated with closing of United States Information Agency posts abroad or to pay expenses associated with Bureau of Management or with television and film service of Agency if an Agency post abroad was closed after Apr. 1, 1987, and not reopened within 180 days after Dec. 22, 1987, placed limitation on reduction of number of positions filled by American employees of Agency stationed abroad, authorized waiver of both prohibition and limitation, and permitted Director, in case of a sequestration order, to submit a report to congressional committees proposing a list of Agency posts to be downgraded or closed in order to comply with sequestration order, prior to repeal by Pub. L. 102–138, title II, §206(c), Oct. 28, 1991, 105 Stat. 693. See section 1475g of this title.
 
 #### Redesignation of International Communication Agency as United States Information Agency
 
@@ -160,7 +160,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 2. Director
 
-\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section provided for appointment and responsibilities of Director of the Agency.\]
+\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Sectionprovided for appointment and responsibilities of Director of the Agency.\]
 
 #### Sec. 3. Deputy Director
 
@@ -230,7 +230,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (b) The functions now vested in the United States Advisory Commission on Information and in the United States Advisory Commission on International Educational and Cultural Affairs under sections 601 through 603 and 801(6) of the United States Information and Educational Exchange Act of 1948, as amended (22 U.S.C. 1466–1468, 1471(6)), and under sections 106(b) and 107 of the Mutual Educational and Cultural Exchange Act of 1961, as amended (22 U.S.C. 2456(b), 2457), respectively, are hereby consolidated and vested in the Commission, as follows:
 
-The Commission shall formulate and recommend to the Director, the Secretary of State, and the President policies and programs to carry out the functions vested in the Director or the Agency, and shall appraise the effectiveness of policies and programs of the Agency. The Commission shall submit to the Congress, the President, the Secretary of State and the Director annual reports on programs and activities carried on by the Agency, including appraisals, where feasible, as to the effectiveness of the several programs. The Commission shall also include in such reports such recommendations as shall have been made by the Commission to the Director for effectuating the purposes of the Agency, and the action taken to carry out such recommendations. The Commission may also submit such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs conducted by the Agency. The Commission's reports to the Congress shall include assessments of the degree to which the scholarly integrity and nonpolitical character of the educational and cultural exchange activities vested in the Director have been maintained, and assessments of the attitudes of foreign scholars and governments regarding such activities.
+The Commission shall formulate and recommend to the Director, the Secretary of State, and the President policies and programs to carry out the functions vestedin the Director or the Agency, and shall appraise the effectiveness of policies and programs of the Agency. The Commission shall submit to the Congress, the President, the Secretary of State and the Director annual reports on programs and activities carried on by the Agency, including appraisals, where feasible, as to the effectiveness of the several programs. The Commission shall also include in such reports such recommendations as shall have been made by the Commission to the Director for effectuating the purposes of the Agency, and the action taken to carry out such recommendations. The Commission may also submit such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs conducted by the Agency. The Commission's reports to the Congress shall include assessments of the degree to which the scholarly integrity and nonpolitical character of the educational and cultural exchange activities vested in the Director have been maintained, and assessments of the attitudes of foreign scholars and governments regarding such activities.
 
 (c) The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO. \[As amended Pub. L. 101–246, title II, §204(c), Feb. 16, 1990, 104 Stat. 50; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, §407(c), Nov. 28, 2001, 115 Stat. 790.\]
 
@@ -334,7 +334,7 @@ The White House, October 11, 1977.
 
 #### Ex. Ord. No. 12048. International Communication Agency
 
-Ex. Ord. No. 12048, Mar. 27, 1978, 43 F.R. 13361, as amended by Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 12048, Mar. 27, 1978, 43 F.R. 13361, as amended by Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R.46245; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
 By virtue of the authority vested in me by the Constitution and laws of the United States of America, including Section 11 of Reorganization Plan No. 2 of 1977 (42 FR 62461 (December 13, 1977)) \[set out above\], Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], and Section 301 of Title 3 of the United States Code, and as President of the United States of America, in order to provide for the establishment of the International Communication Agency, it is hereby ordered as follows:
 

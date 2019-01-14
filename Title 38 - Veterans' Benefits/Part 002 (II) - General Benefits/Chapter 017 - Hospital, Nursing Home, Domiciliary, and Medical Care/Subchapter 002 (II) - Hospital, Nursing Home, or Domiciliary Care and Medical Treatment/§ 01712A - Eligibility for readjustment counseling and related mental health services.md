@@ -38,7 +38,7 @@
 
 (2) Upon request of an individual described in paragraph (1)(C), the Secretary shall provide the individual a comprehensive individual assessment as described in paragraph (1)(B) as soon as practicable after receiving the request, but not later than 30 days after receiving the request.
 
-(b)(1) If, on the basis of the assessment furnished under subsection (a) of this section, a licensed or certified mental health care provider employed by the Department (or, in areas where no such licensed or certified mental health care provider is available, a licensed or certified mental health care provider carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such veteran is necessary to facilitate the successful readjustment of the veteran to civilian life, such veteran shall, within the limits of Department facilities, be furnished such services on an outpatientbasis. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to have been furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in section 1784 of this title).
+(b)(1) If, on the basis of the assessment furnished under subsection (a) of this section, a licensed or certified mental health care provider employed by the Department (or, in areas where no such licensed or certified mental health care provider is available, a licensed or certified mental health care provider carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such veteran is necessary to facilitate the successful readjustment of the veteran to civilian life, such veteran shall, within the limits of Department facilities, be furnished such services on an outpatient basis. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to have been furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in section 1784 of this title).
 
 (2) Mental health services furnished under paragraph (1) of this subsection may, if determined to be essential to the effective treatment and readjustment of the veteran, include such consultation, counseling, training, services, and expenses as are described in sections 1782 and 1783 of this title.
 
@@ -68,7 +68,7 @@
 
 &emsp;(1) The term "Vet Center" means a facility which is operated by the Department for the provision of services under this section and which is situated apart from Department general health care facilities.
 
-&emsp;(2) The term "Department general health-care facility" means a health-care facility which is operated by the Department for the furnishing of health-care services under this chapter, not limited to services provided through the program established under this section.
+&emsp;(2) The term "Department general health-care facility" means a health-care facility which is operated by the Department for the furnishing of health-care services under thischapter, not limited to services provided through the program established under this section.
 
 &emsp;(3) The term "family member", with respect to a veteran or member of the Armed Forces, means an individual who—
 
@@ -86,13 +86,25 @@
 
 &emsp;&emsp;(B) lives with the veteran or member but is not a member of the family of the veteran or member.
 
-(Added Pub. L. 96–22, title I, §103(a)(1), June 13, 1979, 93 Stat. 48, §612A; amended Pub. L. 96–128, title V, §501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, §104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, §101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX, §§19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, §204, title VII, §702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, §107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, §1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, §334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, §14(b)(11), June 13, 1991, 105 Stat. 283; renumbered §1712A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(5), title III, §331, Oct. 9, 1996, 110 Stat. 3180, 3197; Pub. L. 106–117, title II, §205(a), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 107–135, title II, §208(e)(3)(A), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 110–181, div. A, title XVII, §1708(b), Jan. 28, 2008, 122 Stat. 494; Pub. L. 110–387, title IX, §901(a)(1), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–163, title IV, §402, May 5, 2010, 124 Stat. 1156; Pub. L. 112–239, div. A, title VII, §727, Jan. 2, 2013, 126 Stat. 1809.)
+(Added Pub. L. 96–22, title I, §103(a)(1), June 13, 1979, 93 Stat. 48, §612A; amended Pub. L. 96–128, title V, §501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, §104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, §101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX, §§19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, §204, title VII, §702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, §107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, §1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, §334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, §14(b)(11), June 13, 1991, 105 Stat. 283; renumbered §1712A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(5), title III, §331, Oct. 9, 1996, 110 Stat. 3180, 3197; Pub. L. 106–117, title II, §205(a), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 107–135, title II, §208(e)(3)(A), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 110–181, div. A, title XVII, §1708(b), Jan. 28, 2008, 122 Stat. 494; Pub. L. 110–387, title IX, §901(a)(1), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–163, title IV, §402, May 5, 2010, 124 Stat. 1156; Pub. L. 112–239, div. A, title VII, §727, Jan. 2, 2013, 126 Stat. 1809; Pub. L. 115–182, title I, §144(a)(1)(B), June 6, 2018, 132 Stat. 1430.)
+
+#### Amendment of Subsection (e)(1)
+
+<i>Pub. L. 115–182, title I, §144(a)(1)(B), (b), June 6, 2018, 132 Stat. 1430, provided that, effective on the date described in section 101(b), set out as an Effective Date of 2018 Amendment note under section 1703 of this title, subsection (e)(1) of this section is amended as follows:</i>
+
+<i>(1) by inserting "or agreements" after "contracts"; and</i>
+
+<i>(2) by striking "(under sections 1703(a)(2) and 1710(a)(1)(B) of this title)".</i>
+
+<i>See 2018 Amendment note below.</i>
 
 #### References in Text
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (a)(1)(C)(iv), is the date of enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(1). Pub. L. 115–182 inserted "or agreements" after "contracts" and struck out "(under sections 1703(a)(2) and 1710(a)(1)(B) of this title)" after "available to the Secretary".
 
 <b>2013</b>—Subsec. (a)(1)(A). Pub. L. 112–239, §727(1)(A)(i), substituted "Upon the request of any individual referred to in subparagraph (C), the Secretary shall furnish counseling, including by furnishing counseling through a Vet Center, to the individual—" for "Upon the request of any veteran referred to in subparagraph (B), the Secretary shall furnish counseling to the veteran to assist the veteran in readjusting to civilian life. Such counseling may include a general mental and psychological assessment of the veteran to ascertain whether such veteran has mental or psychological problems associated with readjustment to civilian life." and added cls. (i) and (ii).
 
@@ -249,6 +261,10 @@ Subsec. (g)(3). Pub. L. 98–160, §101(b)(2), added par. (3).
 Subsec. (g). Pub. L. 97–72, §104(b), added subsec. (g).
 
 <b>1979</b>—Subsec. (d). Pub. L. 96–128 substituted "title)" for "title),".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–182 effective on the date described in section 101(b) of Pub. L. 115–182, see section 144(b) of Pub. L. 115–182, set out as a note under section 1712 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -544,7 +560,7 @@ Elements.—The report required by paragraph (1) shall include the following:
 
 #### Pilot Program on Counseling in Retreat Settings for Women Veterans Newly Separated From Service
 
-Pub. L. 111–163, title II, §203, May 5, 2010, 124 Stat. 1143, as amended by Pub. L. 113–175, title I, §102, Sept. 26, 2014, 128 Stat. 1902; Pub. L. 114–58, title I, §109, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title I, §107, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, §108, Sept. 29, 2017, 131 Stat. 1162, provided that:
+Pub. L. 111–163, title II, §203, May 5, 2010, 124 Stat. 1143, as amended by Pub. L. 113–175, title I, §102, Sept. 26, 2014, 128 Stat. 1902; Pub. L. 114–58, title I, §109, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title I, §107, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, §108, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, §108, Sept. 29, 2018, 132 Stat. 3168, provided that:
 
 "(a)
 
@@ -580,7 +596,7 @@ Locations.—The Secretary shall carry out the pilot program at not fewer than t
 
 "(d)
 
-Termination.—The authority to carry out a pilot program under this section shall terminate on September 30, 2019.
+Termination.—The authority to carry out a pilot program under this section shall terminate on September 30, 2020.
 
 "(e)
 
@@ -588,7 +604,7 @@ Report.—Not later than March 31, 2018, the Secretary shall submit to Congress 
 
 "(f)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Veterans Affairs for each of fiscal years 2010, 2011, 2015, 2016, 2017, 2018, and 2019, $2,000,000 to carry out the pilot program."
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Veterans Affairs for each of fiscal years 2010, 2011, 2015, 2016, 2017, 2018, 2019, and 2020, $2,000,000 to carry out the pilot program."
 
 #### Program on Readjustment and Mental Health Care Services for Veterans Who Served in Operation Enduring Freedom and Operation Iraqi Freedom
 
@@ -746,7 +762,7 @@ Compliance With Department Protocols.—Each community mental health center, fac
 
 "(g)
 
-Provision of Clinical Information.—Each community mental health center, facility of the Indian Health Service, or other entity participating in the pilot program under subsection (b) shall, in a timely fashion, provide the Secretary with such clinical information on each veteran for whom such health center or facility provides mental health services under the pilot program as the Secretary shall require.
+Provision of Clinical Information.—Each community mental health center, facility of the Indian Health Service, or other entity participating in the pilot program under subsection (b) shall, in a timelyfashion, provide the Secretary with such clinical information on each veteran for whom such health center or facility provides mental health services under the pilot program as the Secretary shall require.
 
 "(h)
 
@@ -1178,7 +1194,7 @@ Contract Counseling Services.—(1) Subject to paragraphs (2) and (4), a mental 
 
 &emsp;&emsp;"(ii) the plan is approved in accordance with the provisions of subparagraph (B)(ii).
 
-"(2)(A) A mental health professional referred to in paragraph (1) who assesses the need of any person forservices for the purposes of subsection (c) may not furnish counseling services to that person.
+"(2)(A) A mental health professional referred to in paragraph (1) who assesses the need of any person for services for the purposes of subsection (c) may not furnish counseling services to that person.
 
 "(B) The Secretary may waive the prohibition referred to in subparagraph (A) for locations (as determined by the Secretary) in which the Secretary is unable to obtain the assessment referred to in that subparagraph from a mental health professional other than the mental health professional with whom the Secretary enters into contracts under subsection (d)(1)(C) for the furnishing of counseling services.
 
@@ -1341,4 +1357,36 @@ Pub. L. 98–160, title I, §102, Nov. 21, 1983, 97 Stat. 994, as amended by Pub
 #### Readjustment Counseling and Related Mental Health Services for Veterans of War Declared After June 13, 1979
 
 Pub. L. 96–22, title I, §103(b), June 13, 1979, 93 Stat. 50, as amended by Pub. L. 102–83, §§5(c)(2), 6(d), Aug. 6, 1991, 105 Stat. 406, 407, provided that: "In the event of a declaration of war by the Congress after June 13, 1979, the Secretary of Veterans Affairs, not later than six months after the date of such declaration, shall determine and recommend to the Congress whether eligibility for the readjustment counseling and related mental health services provided for in section 1712A \[formerly 612A\] of title 38, United States Code (as added by subsection (a) of this section) should be extended to the veterans of such war."
+
+#### Ex. Ord. No. 13822. Supporting Our Veterans During Their Transition From Uniformed Service to Civilian Life
+
+Ex. Ord. No. 13822, Jan. 9, 2018, 83 F.R. 1513, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It is the policy of the United States to support the health and well-being of uniformed service members and veterans. After serving our Nation, veterans deserve long, fulfilling civilian lives. Accordingly, our Government must improve mental healthcare and access to suicide prevention resources available to veterans, particularly during the critical 1-year period following the transition from uniformed service to civilian life. Most veterans' experience in uniform increases their resilience and broadens the skills they bring to the civilian workforce. Unfortunately, in some cases within the first year following transition, some veterans can have difficulties reintegrating into civilian life after their military experiences and some tragically take their own lives. Veterans, in their first year of separation from uniformed service, experience suicide rates approximately two times higher than the overall veteran suicide rate. To help prevent thesetragedies, all veterans should have seamless access to high-quality mental healthcare and suicide prevention resources as they transition, with an emphasis on the 1-year period following separation.
+
+Sec. 2. <i>Implementation</i>. (a) In furtherance of the policy described in section 1 of this order, I hereby direct the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Homeland Security to collaborate to address the complex challenges faced by our transitioning uniformed service members and veterans.
+
+(b) Within 60 days of the date of this order, the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Homeland Security shall submit to the President, through the Assistant to the President for Domestic Policy, a Joint Action Plan that describes concrete actions to provide, to the extent consistent with law, seamless access to mental health treatment and suicide prevention resources for transitioning uniformed service members in the year following discharge, separation, or retirement.
+
+(c) Within 180 days of the date of this order, the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Homeland Security shall submit to the President, through the Assistant to the President for Domestic Policy, a status report on the implementation of the Joint Action Plan and how the proposed reforms have been effective in improving mental health treatment for all transitioning uniformed service members and veterans. The report shall include:
+
+(i) preliminary progress of reforms implemented by the Joint Action Plan;
+
+(ii) any additional reforms that could help further address the problems that obstruct veterans' access to resources and continuous mental healthcare treatment, including any suggestions for legislative and regulatory reforms; and
+
+(iii) a timeline describing next steps and the results anticipated from continued and additional reforms.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

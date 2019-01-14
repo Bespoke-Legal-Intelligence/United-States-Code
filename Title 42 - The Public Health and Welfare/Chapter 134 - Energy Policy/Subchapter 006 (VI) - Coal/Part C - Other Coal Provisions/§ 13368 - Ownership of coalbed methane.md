@@ -78,7 +78,7 @@ No entity may drill any well for the production of coalbed methane gas from a co
 
 #### (j) Authorization to stimulate coal seam
 
-(1) No operator of a coalbed methane well may stimulate a coal seam without the written consent of each entity which, at the time that the coalbed methane operator applies for a drilling permit, is operating a coal mine, or has by virtue of his property rights in the coal the ability to operate a coal mine, located within a horizontal or vertical distance from the point of stimulation as established by the Secretary of the Interior pursuant to paragraph (3) of this subsection. In seeking the coal operator's consent, a coalbed methane well operator shall provide the coal operator with necessary information about such stimulation, including relevant information to ensure compliance with coal mine safety laws and rules.
+(1) No operator of a coalbed methane well may stimulate a coal seam without the written consent of each entity which, at the time that the coalbed methane operator applies for a drilling permit, is operating a coal mine, or has by virtue of his property rights in the coal the ability to operate a coal mine, located within a horizontal or vertical distance from the point of stimulation as established by the Secretary ofthe Interior pursuant to paragraph (3) of this subsection. In seeking the coal operator's consent, a coalbed methane well operator shall provide the coal operator with necessary information about such stimulation, including relevant information to ensure compliance with coal mine safety laws and rules.
 
 (2) In the absence of a written consent pursuant to paragraph (1) and at the request of a coalbed methane operator, the Secretary of the Interior shall make a determination regarding stimulation of a coal seam. Such request shall include an affidavit which shall—
 
@@ -96,7 +96,7 @@ No entity may drill any well for the production of coalbed methane gas from a co
 
 (4) The consent required under this subsection shall in no way be deemed to impair, abridge, or affect any contractual rights or objections arising out of a coalbed methane gas contract or coalbed methane gas lease in existence as of October 24, 1992,<sup>1</sup> between the coalbed methane operator and the coal operator, and the existence of such lease or contractual agreement and any extensions or renewals of such lease shall be deemed to fully meet the requirements of this section.
 
-(5) Nothing in this subsection precludes either a coal operator or a coalbed methane operatorfrom seeking in the appropriate State forum compensation for the consequences of a determination by the Secretary of the Interior pursuant to paragraph (2).
+(5) Nothing in this subsection precludes either a coal operator or a coalbed methane operator from seeking in the appropriate State forum compensation for the consequences of a determination by the Secretary of the Interior pursuant to paragraph (2).
 
 #### (k) Notice and objection
 
@@ -118,7 +118,7 @@ No entity may drill any well for the production of coalbed methane gas from a co
 
 &emsp;(B) The proposed activity could instead be moved to a mined-out area, below the coal outcrop or to some other feasible area.
 
-&emsp;(C) The unit operator agrees to a drilling moratorium of not more than two years in order to permit completion of coal mining operations.
+&emsp;(C) The unit operator agrees to a drilling moratorium of not more than two years inorder to permit completion of coal mining operations.
 
 &emsp;(D) The practicality of locating the proposed spacing unit or well on a uniform pattern with other spacing units or wells.
 

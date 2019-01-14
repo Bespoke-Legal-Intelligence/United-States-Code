@@ -42,11 +42,11 @@ Acquisition or rehabilitation of public housing projects under a homeownership p
 
 &emsp;&emsp;(C) any debt obligation can be serviced from project income, including operating assistance; and
 
-&emsp;&emsp;(D) the proceeds of such encumbrance will be used only to meet housing standards inaccordance with subsection (f) or to make such additional capital improvements as the Secretary determines to be consistent with the purposes of this subchapter.
+&emsp;&emsp;(D) the proceeds of such encumbrance will be used only to meet housing standards in accordance with subsection (f) or to make such additional capital improvements as the Secretary determines to be consistent with the purposes of this subchapter.
 
 #### (3) Opportunity to cure
 
-&emsp;Any lender that provides financing in connection with a homeownership program under this subchapter shall give the public housing agency, resident management corporation, individual owner, or other appropriate entity a reasonable opportunity to cure a financial default before foreclosing on the property, or taking other action as a result of the default.
+&emsp;Any lender that provides financing in connection with a homeownership program underthis subchapter shall give the public housing agency, resident management corporation, individual owner, or other appropriate entity a reasonable opportunity to cure a financial default before foreclosing on the property, or taking other action as a result of the default.
 
 #### (f) Housing quality standards
 

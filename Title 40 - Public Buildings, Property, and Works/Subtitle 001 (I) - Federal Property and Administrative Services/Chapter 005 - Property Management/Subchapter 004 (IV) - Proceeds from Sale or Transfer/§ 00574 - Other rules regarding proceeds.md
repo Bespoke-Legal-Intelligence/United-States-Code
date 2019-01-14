@@ -54,7 +54,7 @@ Acceptance of Property Instead of Cash.—An executive agency entitled to receiv
 
 (e)
 
-Management of Credit, Leases, and Permits.—For a disposition of surplus propertyunder this chapter, if credit has been extended, or if the disposition has been by lease or permit, the Administrator of General Services, in a manner and on terms the Administrator determines are in the best interest of the Federal Government—
+Management of Credit, Leases, and Permits.—For a disposition of surplus property under this chapter, if credit has been extended, or if the disposition has been by lease or permit, the Administrator of General Services, in a manner and on terms the Administrator determines are in the best interest of the Federal Government—
 
 &emsp;(1) shall administer and manage the credit, lease, or permit, and any security for the credit, lease, or permit; and
 

@@ -92,7 +92,7 @@ The Social Security Act, referred to in subsec. (a)(3), (7), (8), is act Aug. 14
 
 #### Codification
 
-Section was enacted as part of the Children's Health Insurance Program Reauthorization Act of 2009, andnot as part of the Small Business Act which comprises this chapter.
+Section was enacted as part of the Children's Health Insurance Program Reauthorization Act of 2009, and not as part of the Small Business Act which comprises this chapter.
 
 #### Effective Date
 

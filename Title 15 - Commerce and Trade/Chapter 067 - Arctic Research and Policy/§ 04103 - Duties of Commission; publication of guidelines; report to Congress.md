@@ -10,7 +10,7 @@
 
 &emsp;(4) review Federal research programs in the Arctic and recommend improvements in coordination among programs;
 
-&emsp;(5) recommend methods to improve logistical planning and support for Arctic research as may be appropriate and in accordance with the findings and purposes of this chapter;
+&emsp;(5) recommend methods to improve logistical planning and support for Arctic researchas may be appropriate and in accordance with the findings and purposes of this chapter;
 
 &emsp;(6) recommend methods for improving efficient sharing and dissemination of data and information on the Arctic among interested public and private institutions;
 

@@ -28,7 +28,7 @@
 | [<b>22.</b>](Chapter%20022%20-%20Sea%20Grant%20Colleges%20and%20Marine%20Science%20Development/README.md) | <b>Sea Grant Colleges and Marine Science Development</b> | <b>1101</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Pollution%20Control%20of%20Navigable%20Waters/README.md) | <b>Pollution Control of Navigable Waters \[Omitted or Transferred\]</b> | <b>1151</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Vessel%20Bridge-to-Bridge%20Communication/README.md) | <b>Vessel Bridge-to-Bridge Communication</b> | <b>1201</b> |
-| [<b>25.</b>](Chapter%20025%20-%20Ports%20and%20Waterways%20Safety%20Program/README.md) | <b>Ports and Waterways Safety Program</b> | <b>1221</b> |
+| [<b>25.</b>](Chapter%20025%20-%20Ports%20and%20Waterways%20Safety%20Program/README.md) | <b>Ports and Waterways Safety Program \[Repealed or Transferred\]</b> | <b>1221</b> |
 | [<b>26.</b>](Chapter%20026%20-%20Water%20Pollution%20Prevention%20and%20Control/README.md) | <b>Water Pollution Prevention and Control</b> | <b>1251</b> |
 | [<b>27.</b>](Chapter%20027%20-%20Ocean%20Dumping/README.md) | <b>Ocean Dumping</b> | <b>1401</b> |
 | [<b>28.</b>](Chapter%20028%20-%20Pollution%20Casualties%20on%20the%20High%20Seas%20United%20States%20Intervention/README.md) | <b>Pollution Casualties on the High Seas: United States Intervention</b> | <b>1471</b> |
@@ -58,6 +58,7 @@
 | [<b>51.</b>](Chapter%20051%20-%20Clean%20Hulls/README.md) | <b>Clean Hulls</b> | <b>3801</b> |
 | [<b>52.</b>](Chapter%20052%20-%20Water%20Infrastructure%20Finance%20and%20Innovation/README.md) | <b>Water Infrastructure Finance and Innovation</b> | <b>3901</b> |
 | [<b>53.</b>](Chapter%20053%20-%20Harmful%20Algal%20Bloom%20and%20Hypoxia%20Research%20and%20Control/README.md) | <b>Harmful Algal Bloom and Hypoxia Research and Control</b> | <b>4001</b> |
+| [<b>54.</b>](Chapter%20054%20-%20Commercial%20Engagement%20Through%20Ocean%20Technology/README.md) | <b>Commercial Engagement Through Ocean Technology</b> | <b>4101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -121,3 +122,4 @@
 - [Chapter 051 - Clean Hulls](Chapter%20051%20-%20Clean%20Hulls/README.md)
 - [Chapter 052 - Water Infrastructure Finance and Innovation](Chapter%20052%20-%20Water%20Infrastructure%20Finance%20and%20Innovation/README.md)
 - [Chapter 053 - Harmful Algal Bloom and Hypoxia Research and Control](Chapter%20053%20-%20Harmful%20Algal%20Bloom%20and%20Hypoxia%20Research%20and%20Control/README.md)
+- [Chapter 054 - Commercial Engagement Through Ocean Technology](Chapter%20054%20-%20Commercial%20Engagement%20Through%20Ocean%20Technology/README.md)

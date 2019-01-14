@@ -84,7 +84,7 @@ Pub. L. 110–404, §3(b)(2), Oct. 13, 2008, 122 Stat. 4283, provided that: "The
 
 Pub. L. 100–365, §2(b), July 13, 1988, 102 Stat. 824, provided that: "The amendment made by this section \[amending this section\] shall be effective on January 1, 1989, and shall apply to the appointment of any member on the expiration of a predecessor's term as follows:
 
-&emsp;"(1) The next two members appointed to such Commission after such date shall be appointed pursuantto section 2501(a)(2)(E) and (F) of title 44, United States Code, as amended by this section.
+&emsp;"(1) The next two members appointed to such Commission after such date shall be appointed pursuant to section 2501(a)(2)(E) and (F) of title 44, United States Code, as amended by this section.
 
 &emsp;"(2) Notwithstanding section 2501(b)(1), the first members appointed pursuant to section 2501(a)(2)(B) and (C) after January 1, 1991, shall be appointed for terms of one year."
 

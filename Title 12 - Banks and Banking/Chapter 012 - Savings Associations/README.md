@@ -7,6 +7,7 @@
 | [1462a.](%C2%A7%2001462a%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | [1463\.](%C2%A7%2001463%20-%20Supervision%20of%20savings%20associations.md) | Supervision of savings associations. |
 | [1464\.](%C2%A7%2001464%20-%20Federal%20savings%20associations.md) | Federal savings associations. |
+| [1464a.](%C2%A7%2001464a%20-%20Election%20to%20operate%20as%20a%20covered%20savings%20association.md) | Election to operate as a covered savings association. |
 | [1465\.](%C2%A7%2001465%20-%20State%20law%20preemption%20standards%20for%20Federal%20savings%20associations%20clarified.md) | State law preemption standards for Federal savings associations clarified. |
 | [1466\.](%C2%A7%2001466%20-%20Applicability.md) | Applicability. |
 | [1466a.](%C2%A7%2001466a%20-%20District%20associations.md) | District associations. |
@@ -32,6 +33,7 @@
 - [&sect; 01462a - Administrative provisions](%C2%A7%2001462a%20-%20Administrative%20provisions.md)
 - [&sect; 01463 - Supervision of savings associations](%C2%A7%2001463%20-%20Supervision%20of%20savings%20associations.md)
 - [&sect; 01464 - Federal savings associations](%C2%A7%2001464%20-%20Federal%20savings%20associations.md)
+- [&sect; 01464a - Election to operate as a covered savings association](%C2%A7%2001464a%20-%20Election%20to%20operate%20as%20a%20covered%20savings%20association.md)
 - [&sect; 01465 - State law preemption standards for Federal savings associations clarified](%C2%A7%2001465%20-%20State%20law%20preemption%20standards%20for%20Federal%20savings%20associations%20clarified.md)
 - [&sect; 01466 - Applicability](%C2%A7%2001466%20-%20Applicability.md)
 - [&sect; 01466a - District associations](%C2%A7%2001466a%20-%20District%20associations.md)

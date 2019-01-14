@@ -6,5 +6,5 @@ Effective October 1, 1980, there are authorized to be appropriated such sums as 
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–575 struck out ", but not to exceed $1,000,000 for development, $100,000 for local planning, and $3,500,000 for the acquisition of lands and interests therein" before period at end of first sentence.
+<b>1992</b>—Pub. L. 102–575 struck out ", but not to exceed $1,000,000 for development, $100,000 for local planning,and $3,500,000 for the acquisition of lands and interests therein" before period at end of first sentence.
 

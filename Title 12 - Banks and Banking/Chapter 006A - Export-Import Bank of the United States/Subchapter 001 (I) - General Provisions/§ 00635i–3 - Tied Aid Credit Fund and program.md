@@ -20,7 +20,7 @@ The Congress finds that—
 
 &emsp;&emsp;(iii) only through matching foreign export credit offers can the Bank buttress United States negotiators in their efforts to bring these loopholes within the disciplines of the Arrangement; and
 
-&emsp;&emsp;(iv) in order to bring untied aid within the discipline of the Arrangement, the Bank should consider initiating highly competitive financial support when the Bank learns that foreign untied aid offers will be made; and
+&emsp;&emsp;(iv) in order to bring untied aid within the discipline of the Arrangement, the Bank should consider initiating highly competitive financial support when the Bank learnsthat foreign untied aid offers will be made; and
 
 &emsp;&emsp;(B) second, the Bank should support United States exporters when the exporters face foreign competition that is consistent with the Arrangement and the Subsidies Code of the World Trade Organization, but which places United States exporters at a competitive disadvantage; and
 
@@ -90,7 +90,7 @@ The Congress finds that—
 
 #### (i) Consideration of certain principles and standards
 
-&emsp;&emsp;&emsp;In developing the principles and standards referred to in subparagraph (A), the Secretary and the Bank shall consider administering the Tied Aid Credit Fund in accordance with the following principles and standards:
+&emsp;&emsp;&emsp;In developing the principles and standards referred to in subparagraph (A), theSecretary and the Bank shall consider administering the Tied Aid Credit Fund in accordance with the following principles and standards:
 
 &emsp;&emsp;&emsp;&emsp;(I) The Tied Aid Credit Fund should be used to leverage multilateral negotiations to restrict the scope for aid-financed trade distortions through new multilateral rules, to police existing rules, and to seek compliance by those countries that are not a party to the Arrangement.
 
@@ -112,7 +112,7 @@ The Congress finds that—
 
 &emsp;&emsp;&emsp;&emsp;(I) The Bank shall process an application for tied aid in accordance with the principles and standards developed pursuant to subparagraph (A) and clause (i) of this subparagraph.
 
-&emsp;&emsp;&emsp;&emsp;(II) Twenty days prior to the scheduled meeting of the Board of Directors at which an application will be considered (unless the Bank determines that an earlier discussion is appropriate based on the facts of a particular financing), the Bank shall brief the Secretary on the application and deliver to the Secretarysuch documents, information, or data as may reasonably be necessary to permit the Secretary to review the application to determine if the application complies with the principles and standards developed pursuant to subparagraph (A) and clause (i) of this subparagraph.
+&emsp;&emsp;&emsp;&emsp;(II) Twenty days prior to the scheduled meeting of the Board of Directors at which an application will be considered (unless the Bank determines that an earlier discussion is appropriate based on the facts of a particular financing), the Bank shall brief the Secretary on the application and deliver to the Secretary such documents, information, or data as may reasonably be necessary to permit the Secretary to review the application to determine if the application complies with the principles and standards developed pursuant to subparagraph (A) and clause (i) of this subparagraph.
 
 &emsp;&emsp;&emsp;&emsp;(III) The Secretary may request a single postponement of the consideration by the Board of Directors of the application for up to 14 days to allow the Secretary to submit to the Board of Directors a memorandum objecting to the application.
 
@@ -252,7 +252,7 @@ Subsec. (b)(5)(B)(i)(I). Pub. L. 109–438, §10(b)(2)(A)(i), struck out "and" a
 
 Subsec. (b)(5)(B)(i)(III). Pub. L. 109–438, §10(b)(2)(A)(ii), inserted at end "In cases where information about a specific offer of foreign tied aid (or untied aid used to promote exports as if it were tied aid) is not available in a timely manner, or is unavailable because the foreign export credit agency involved is not subject to the reporting requirements under the Arrangement, then the Bank may decide to use the Tied Aid Credit Fund based on credible evidence of a history of such offers under similar circumstances or other forms of credible evidence."
 
-Subsec. (b)(5)(B)(ii). Pub. L. 109–438, §10(a), amended cl. (ii) heading and text generally. Prior to amendment, text read as follows: "Once the principles, process and standards referred to in subparagraph (A) are followed, the final case-by-case decisions on the use of the Tied Aid Credit Fund shall be made by the Bank: <i>Provided however</i>, That the Bank shall not approve the extension of a proposed tied aid credit if the President of the United States determines, after consulting with thePresident of the Bank and the Secretary of the Treasury, that the extension of the tied aid credit would materially impede achieving the purposes described in subsection (a)(6) of this section."
+Subsec. (b)(5)(B)(ii). Pub. L. 109–438, §10(a), amended cl. (ii) heading and text generally. Prior to amendment, text read as follows: "Once the principles, process and standards referred to in subparagraph (A) are followed, the final case-by-case decisions on the use of the Tied Aid Credit Fund shall be made by the Bank: <i>Provided however</i>, That the Bank shall not approve the extension of a proposed tied aid credit if the President of the United States determines, after consulting with the President of the Bank and the Secretary of the Treasury, that the extension of the tied aid credit would materially impede achieving the purposes described in subsection (a)(6) of this section."
 
 <b>2002</b>—Subsec. (a)(4). Pub. L. 107–189, §10(c)(1), struck out "and" at end.
 
@@ -294,7 +294,7 @@ Subsec. (b)(1)(A). Pub. L. 102–429, §103(c)(1), (3)(B), substituted "predator
 
 Subsec. (b)(1)(B). Pub. L. 102–429, §103(c)(1), (3)(C), in cl. (i) substituted "predatory" for "predacious" and "partially untied aid credits, and impedes negotiations or violates agreements on tied aid to eliminate the use of such credits for commercial purposes; or" for "partially untied aid credits; and", added cl. (ii), and struck out former cl. (ii) which read as follows: "impedes negotiations to eliminate the use of such credits for commercial purposes; or".
 
-Subsec. (b)(2). Pub. L. 102–429, §103(c)(4), (5), struck out "of the Treasury" after "Secretary" in subpar. (A) and substituted "United States exporters and private financial institutions or entities, and in consultation with other Federal agencies" for "private financial institutions or entities" in subpar. (B).
+Subsec. (b)(2). Pub. L. 102–429, §103(c)(4), (5), struck out "of the Treasury" after "Secretary" in subpar. (A)and substituted "United States exporters and private financial institutions or entities, and in consultation with other Federal agencies" for "private financial institutions or entities" in subpar. (B).
 
 Subsec. (b)(4). Pub. L. 102–429, §103(c)(6), inserted at end "The Bank shall also request and take into consideration the views of the private sector on principal sectors and key markets of countries described in paragraph (1)(B)."
 
@@ -332,7 +332,7 @@ Subsec. (b)(1). Pub. L. 101–240, §101(b)(2), inserted introductory provisions
 
 Subsec. (b)(2)(A). Pub. L. 101–240, §101(b)(3), substituted "carry out the purposes described in subsection (a)(5) of this section" for "promote the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes".
 
-Subsec. (c)(2). Pub. L. 101–240, §101(b)(4), substituted "amount equal to the concessionality level" for "cost"and "through fiscal year 1991" for "during fiscal years 1986, 1987, 1988, and 1989".
+Subsec. (c)(2). Pub. L. 101–240, §101(b)(4), substituted "amount equal to the concessionality level" for "cost" and "through fiscal year 1991" for "during fiscal years 1986, 1987, 1988, and 1989".
 
 Subsec. (e)(1). Pub. L. 101–240, §101(b)(7), which directed the insertion of ", and for fiscal years 1990, 1991, and 1992, $200,000,000" after "$300,000,000" was not executed in view of earlier amendment by section 101(b)(5) of Pub. L. 101–240, which inserted ", and for fiscal years 1990 and 1991, $300,000,000" after "$300,000,000", and in view of Senate floor amendment of the bill which added the authorization contained in section 101(b)(5) and was intended to replace the authorization now appearing in section 101(b)(7). See Cong. Rec., Vol. 135, pt. 22, pp. 31199, 31203.
 

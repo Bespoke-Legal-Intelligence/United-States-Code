@@ -31,6 +31,7 @@
 | [2157\.](%C2%A7%2002157%20-%20Release%20of%20trade%20secrets.md) | Release of trade secrets. |
 | [2158\.](%C2%A7%2002158%20-%20Protection%20of%20pets.md) | Protection of pets. |
 | [2159\.](%C2%A7%2002159%20-%20Authority%20to%20apply%20for%20injunctions.md) | Authority to apply for injunctions. |
+| [2160\.](%C2%A7%2002160%20-%20Prohibition%20on%20slaughter%20of%20dogs%20and%20cats%20for%20human%20consumption.md) | Prohibition on slaughter of dogs and cats for human consumption. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -68,3 +69,4 @@
 - [&sect; 02157 - Release of trade secrets](%C2%A7%2002157%20-%20Release%20of%20trade%20secrets.md)
 - [&sect; 02158 - Protection of pets](%C2%A7%2002158%20-%20Protection%20of%20pets.md)
 - [&sect; 02159 - Authority to apply for injunctions](%C2%A7%2002159%20-%20Authority%20to%20apply%20for%20injunctions.md)
+- [&sect; 02160 - Prohibition on slaughter of dogs and cats for human consumption](%C2%A7%2002160%20-%20Prohibition%20on%20slaughter%20of%20dogs%20and%20cats%20for%20human%20consumption.md)

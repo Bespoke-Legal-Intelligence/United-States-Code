@@ -24,7 +24,7 @@ Eligible Projects.—Funds apportioned to a State under section 104(b)(2) for th
 
 &emsp;(2) Operational improvements and capital and operating costs for traffic monitoring, management, and control facilities and programs.
 
-&emsp;(3) Environmental measures eligible under sections 119(g), 328, and 329 and transportationcontrol measures listed in section 108(f)(1)(A) (other than clause (xvi) of that section) of the Clean Air Act (42 U.S.C. 7408(f)(1)(A)).
+&emsp;(3) Environmental measures eligible under sections 119(g), 328, and 329 and transportation control measures listed in section 108(f)(1)(A) (other than clause (xvi) of that section) of the Clean Air Act (42 U.S.C. 7408(f)(1)(A)).
 
 &emsp;(4) Highway and transit safety infrastructure improvements and programs, including railway-highway grade crossings.
 
@@ -186,7 +186,7 @@ STP Set-Aside.—
 
 &emsp;(1)
 
-Reservation of funds.—Of the funds apportioned to a State under section 104(b)(2) for each fiscal year, the Secretary shall reserve an amount such that—
+Reservation of funds.—Of the funds apportioned to a State under section 104(b)(2) foreach fiscal year, the Secretary shall reserve an amount such that—
 
 &emsp;&emsp;(A) the Secretary reserves a total under this subsection of—
 
@@ -290,7 +290,7 @@ Public availability.—The Secretary shall make available to the public, in a us
 
 Treatment of Projects.—Notwithstanding any other provision of law, projects funded under this section (excluding those carried out under subsection (h)(5)) shall be treated as projects on a Federal-aid highway under this chapter.
 
-(Added Pub. L. 102–240, title I, §1007(a)(1), Dec. 18, 1991, 105 Stat. 1927; amended Pub. L. 103–429, §3(4), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §§315, 316, Nov. 28, 1995, 109 Stat. 586, 587; Pub. L. 105–178, title I, §§1108(a)–(e), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 138–140, 193; Pub. L. 109–59, title I, §1113(a)–(b)(2), (c)–(e), title VI, §6006(a)(2), Aug. 10, 2005, 119 Stat. 1171, 1172, 1872; Pub. L. 112–141, div. A, title I, §§1108, 1519(c)(7), formerly §1519(c)(8), July 6, 2012, 126 Stat. 440, 576, renumbered §1519(c)(7), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §§1109(b), 1407(b), 1446(d)(5)(C), Dec. 4, 2015, 129 Stat. 1338, 1410, 1438.)
+(Added Pub. L. 102–240, title I, §1007(a)(1), Dec. 18, 1991, 105 Stat. 1927; amended Pub. L. 103–429, §3(4), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §§315, 316, Nov. 28, 1995, 109 Stat. 586, 587; Pub. L. 105–178, title I, §§1108(a)–(e), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 138–140, 193; Pub. L. 109–59, title I, §1113(a)–(b)(2), (c)–(e), titleVI, §6006(a)(2), Aug. 10, 2005, 119 Stat. 1171, 1172, 1872; Pub. L. 112–141, div. A, title I, §§1108, 1519(c)(7), formerly §1519(c)(8), July 6, 2012, 126 Stat. 440, 576, renumbered §1519(c)(7), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §§1109(b), 1407(b), 1446(d)(5)(C), Dec. 4, 2015, 129 Stat. 1338, 1410, 1438.)
 
 #### References in Text
 
@@ -308,7 +308,7 @@ A prior section 133, Pub. L. 87–866, §5(a), Oct. 23, 1962, 76 Stat. 1146, pro
 
 <b>2015</b>—Pub. L. 114–94, §1109(b)(2), substituted "Surface transportation block grant program" for "Surface transportation program" in section catchline.
 
-Subsecs. (a), (b). Pub. L. 114–94, §1109(b)(1), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) related to establishment of surfacetransportation program and eligible projects, respectively.
+Subsecs. (a), (b). Pub. L. 114–94, §1109(b)(1), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) related to establishment of surface transportation program and eligible projects, respectively.
 
 Subsec. (b)(1)(D). Pub. L. 114–94, §1407(b), inserted ", including the installation of vehicle-to-infrastructure communication equipment" after "capital improvements".
 
@@ -372,7 +372,7 @@ Subsec. (b)(15) to (18). Pub. L. 112–141, §1108(a)(3), redesignated pars. (12
 
 Subsec. (b)(19) to (26). Pub. L. 112–141, §1108(a)(9), added pars. (19) to (26).
 
-Subsec. (c). Pub. L. 112–141, §1108(b), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "Except as provided in subsection (b)(1), surface transportation program projects (other than those described in subsections (b)(3) and (4)) may not be undertaken on roads functionally classified as local or rural minor collectors, unless such roads are on a Federal-aid highway system on January 1, 1991, and except as approved by the Secretary."
+Subsec. (c). Pub. L. 112–141, §1108(b), added subsec. (c) and struck out former subsec. (c). Prior to amendment,text read as follows: "Except as provided in subsection (b)(1), surface transportation program projects (other than those described in subsections (b)(3) and (4)) may not be undertaken on roads functionally classified as local or rural minor collectors, unless such roads are on a Federal-aid highway system on January 1, 1991, and except as approved by the Secretary."
 
 Subsec. (d). Pub. L. 112–141, §1108(c), added subsec. (d) and struck out former subsec. (d) which related to allocations of apportioned funds.
 
@@ -388,7 +388,7 @@ Subsec. (b)(12). Pub. L. 109–59, §1113(a)(2), added par. (12).
 
 Subsec. (b)(14), (15). Pub. L. 109–59, §6006(a)(2), added pars. (14) and (15) and struck out former par. (14) which read as follows: "Environmental restoration and pollution abatement projects (including the retrofit or construction of storm water treatment systems) to address water pollution or environmental degradation caused or contributed to by transportation facilities, which projects shall be carried out when the transportation facilities are undergoing reconstruction, rehabilitation, resurfacing, or restoration; except that the expenditure of funds under this section for any such environmental restoration or pollution abatement project shall not exceed 20 percent of the total cost of the reconstruction, rehabilitation, resurfacing, or restoration project."
 
-Subsec. (d)(1). Pub. L. 109–59, §1113(b)(1), struck out heading and text of par. (1). Text read as follows: "10 percent of the funds apportioned to a State under section 104(b)(3) for the surface transportation program for a fiscal year shall only be available for carrying out sections 130 and 152 of this title. Of the funds set asideunder the preceding sentence, the State shall reserve in such fiscal year an amount of such funds for carrying out each such section which is not less than the amount of funds apportioned to the State in fiscal year 1991 under such section."
+Subsec. (d)(1). Pub. L. 109–59, §1113(b)(1), struck out heading and text of par. (1). Text read as follows: "10 percent of the funds apportioned to a State under section 104(b)(3) for the surface transportation program for a fiscal year shall only be available for carrying out sections 130 and 152 of this title. Of the funds set aside under the preceding sentence, the State shall reserve in such fiscal year an amount of such funds for carrying out each such section which is not less than the amount of funds apportioned to the State in fiscal year 1991 under such section."
 
 Subsec. (d)(2). Pub. L. 109–59, §1113(c), substituted "In a fiscal year, the greater of 10 percent of the funds apportioned to a State under section 104(b)(3) for such fiscal year, or the amount set aside under this paragraph with respect to the State for fiscal year 2005," for "10 percent of the funds apportioned to a State under section 104(b)(3) for a fiscal year".
 
@@ -430,7 +430,7 @@ Subsec. (e)(3)(B)(i). Pub. L. 105–178, §1108(b)(2)(A), struck out before peri
 
 Subsec. (e)(5)(C). Pub. L. 105–178, §1108(b)(2)(B), added subpar. (C).
 
-Subsec. (f). Pub. L. 105–178, §1108(e), as amended by Pub. L. 109–59, §1113(e), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "A State which is required to obligate in an urbanized area with an urbanized area population of over 200,000 under subsection (d) funds apportioned to it under section 104(b)(3) shall allocate during the 6-fiscal year period 1992 through 1997 an amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction for use in such area determined by multiplying—
+Subsec. (f). Pub. L. 105–178, §1108(e), as amended by Pub. L. 109–59, §1113(e), amended heading and text ofsubsec. (f) generally. Prior to amendment, text read as follows: "A State which is required to obligate in an urbanized area with an urbanized area population of over 200,000 under subsection (d) funds apportioned to it under section 104(b)(3) shall allocate during the 6-fiscal year period 1992 through 1997 an amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction for use in such area determined by multiplying—
 
 &emsp;"(1) the aggregate amount of funds which the State is required to obligate in such area under subsection (d) during such period; by
 

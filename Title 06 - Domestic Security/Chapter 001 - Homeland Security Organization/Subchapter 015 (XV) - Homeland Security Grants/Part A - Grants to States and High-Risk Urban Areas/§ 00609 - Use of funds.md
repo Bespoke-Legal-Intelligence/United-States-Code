@@ -8,7 +8,7 @@ The Administrator shall permit the recipient of a grant under section 604 or 605
 
 &emsp;(2) designing, conducting, and evaluating training and exercises, including training and exercises conducted under section 321a of this title and section 748 of this title;
 
-&emsp;(3) protecting a system or asset included on the prioritized critical infrastructure list established under section 124l(a)(2) of this title;
+&emsp;(3) protecting a system or asset included on the prioritized critical infrastructure list established under section 664(a)(2) of this title;
 
 &emsp;(4) purchasing, upgrading, storing, or maintaining equipment, including computer hardware and software;
 
@@ -38,7 +38,7 @@ The Administrator shall permit the recipient of a grant under section 604 or 605
 
 &emsp;Funds provided under section 604 or 605 of this title may not be used—
 
-&emsp;&emsp;(A) to supplant State or local funds, except that nothing in this paragraph shall prohibitthe use of grant funds provided to a State or high-risk urban area for otherwise permissible uses under subsection (a) on the basis that a State or high-risk urban area has previously used State or local funds to support the same or similar uses; or
+&emsp;&emsp;(A) to supplant State or local funds, except that nothing in this paragraph shall prohibit the use of grant funds provided to a State or high-risk urban area for otherwise permissible uses under subsection (a) on the basis that a State or high-risk urban area has previously used State or local funds to support the same or similar uses; or
 
 &emsp;&emsp;(B) for any State or local government cost-sharing contribution.
 
@@ -112,15 +112,17 @@ Upon request by the recipient of a grant under section 604 or 605 of this title,
 
 #### (f) Equipment standards
 
-If an applicant for a grant under section 604 or 605 of this title proposes to upgrade or purchase,with assistance provided under that grant, new equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under section 747 of this title, the applicant shall include in its application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed such standards.
+If an applicant for a grant under section 604 or 605 of this title proposes to upgrade or purchase, with assistance provided under that grant, new equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under section 747 of this title, the applicant shall include in its application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed such standards.
 
-(Pub. L. 107–296, title XX, §2008, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 283; amended Pub. L. 110–412, §2, Oct. 14, 2008, 122 Stat. 4336; Pub. L. 114–113, div. M, title VII, §711, Dec. 18, 2015, 129 Stat. 2934; Pub. L. 114–190, title III, §3603, July 15, 2016, 130 Stat. 665.)
+(Pub. L. 107–296, title XX, §2008, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 283; amended Pub. L. 110–412, §2, Oct. 14, 2008, 122 Stat. 4336; Pub. L. 114–113, div. M, title VII, §711, Dec. 18, 2015, 129 Stat. 2934; Pub. L. 114–190, title III, §3603, July 15, 2016, 130 Stat. 665; Pub. L. 115–278, §2(g)(7)(B), Nov. 16, 2018, 132 Stat. 4180.)
 
 #### References in Text
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (d)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(3). Pub. L. 115–278 substituted "section 664(a)(2) of this title" for "section 124l(a)(2) of this title".
 
 <b>2016</b>—Subsec. (a)(9) to (14). Pub. L. 114–190 added par. (9) and redesignated former pars. (9) to (13) as (10) to (14), respectively.
 

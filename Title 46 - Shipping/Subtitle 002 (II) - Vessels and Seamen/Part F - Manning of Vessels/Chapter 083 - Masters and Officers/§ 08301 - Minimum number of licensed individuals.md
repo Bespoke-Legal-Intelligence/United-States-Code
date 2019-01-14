@@ -54,7 +54,7 @@ Subsection (d) permits the Secretary to suspend any part of this chapter during 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–281 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "An offshore supply vessel on a voyage of less than 600 miles shall have a licensed mate. However, if the vessel is on a voyage of at least 600 miles, the vessel shall have 2 licensed mates. An offshore supply vessel of more than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title may not be operated without a licensed engineer."
+<b>2010</b>—Subsec. (b). Pub. L. 111–281 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "An offshore supply vessel on a voyage of less than 600 miles shall have a licensed mate. However, if the vessel is on a voyage of at least 600 miles, the vessel shall have 2 licensed mates. An offshore supply vessel of more than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measuredunder section 14302 of this title as prescribed by the Secretary under section 14104 of this title may not be operated without a licensed engineer."
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–324, §729(1), inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "1,000 gross tons".
 
@@ -76,7 +76,7 @@ Subsec. (e). Pub. L. 104–324, §1104(d), amended subsec. (e) generally. Prior 
 
 <b>1993</b>—Subsec. (e). Pub. L. 103–206 added subsec. (e).
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–448 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "A vessel of at least 1,000 gross tons and propelled bymachinery shall have 3 licensed mates. However, if the vessel is on a voyage of less than 400 miles from port of departure to port of final destination, it shall have 2 licensed mates."
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–448 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "A vessel of at least 1,000 gross tons and propelled by machinery shall have 3 licensed mates. However, if the vessel is on a voyage of less than 400 miles from port of departure to port of final destination, it shall have 2 licensed mates."
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–640 inserted ", a mobile offshore drilling unit when on location,".
 

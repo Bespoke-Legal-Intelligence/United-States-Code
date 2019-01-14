@@ -22,7 +22,7 @@ There is established in the Treasury of the United States a revolving fund to be
 
 &emsp;(9) The purchase and transportation to the Republic of Panama of passenger motor vehicles, including large, heavy-duty vehicles.
 
-&emsp;(10) Payment to the Panama Canal Authority, not later than the Canal Transfer Date, of such amount as is computed by the Commission to be the future amount of severance pay to be paid by the Panama Canal Authority to employees whose employment with the Authority is terminated, to the extent that such severance pay is attributable to periods of service performed with the Commission before the Canal Transfer Date (and assuming for purposes of such computation that the Panama Canal Authority, in paying severance pay to terminated employees, will provide for crediting of periods of service with the Commission).
+&emsp;(10) Payment to the Panama Canal Authority, not later than the Canal Transfer Date, of such amount as is computed by the Commission to be the future amount of severance pay to be paid by the Panama Canal Authority to employees whose employment with the Authority is terminated, to the extent that such severance pay is attributable to periods of service performed with the Commission beforethe Canal Transfer Date (and assuming for purposes of such computation that the Panama Canal Authority, in paying severance pay to terminated employees, will provide for crediting of periods of service with the Commission).
 
 #### (b) Tolls and other receipts into Panama Canal Revolving Fund; restriction on use of funds
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 100–705 effective Oct. 1, 1988, see section 10 of Pub. L.
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title V, §5429, Dec. 22, 1987, 101 Stat. 1330–275, provided that: "This part and the amendments made by this part \[part 2 (§§5421–5429) of subtitle E of title V of Pub. L. 100–203, enacting section 3714 of this title, amending this section, sections 3683, 3711, 3713, 3751, 3753, 3754, 3792, and 3793 of this title, and section8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3601 of this title\] take effect on January 1, 1988."
+Pub. L. 100–203, title V, §5429, Dec. 22, 1987, 101 Stat. 1330–275, provided that: "This part and the amendments made by this part \[part 2 (§§5421–5429) of subtitle E of title V of Pub. L. 100–203, enacting section 3714 of this title, amending this section, sections 3683, 3711, 3713, 3751, 3753, 3754, 3792, and 3793 of this title, and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3601 of this title\] take effect on January 1, 1988."
 
 #### Effective Date of 1985 Amendment
 

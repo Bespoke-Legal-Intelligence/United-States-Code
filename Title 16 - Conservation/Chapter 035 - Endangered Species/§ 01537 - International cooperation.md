@@ -62,7 +62,7 @@ Pub. L. 101–162, title VI, §609, Nov. 21, 1989, 103 Stat. 1037, provided that
 
 &emsp;"(1) initiate negotiations as soon as possible for the development of bilateral or multilateral agreements with other nations for the protection and conservation of such species of sea turtles;
 
-&emsp;"(2) initiate negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which, as determined bythe Secretary of Commerce, may affect adversely such species of sea turtles, for the purpose of entering into bilateral and multilateral treaties with such countries to protect such species of sea turtles;
+&emsp;"(2) initiate negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which, as determined by the Secretary of Commerce, may affect adversely such species of sea turtles, for the purpose of entering into bilateral and multilateral treaties with such countries to protect such species of sea turtles;
 
 &emsp;"(3) encourage such other agreements to promote the purposes of this section with other nations for the protection of specific ocean and land regions which are of special significance to the health and stability of such species of sea turtles;
 
@@ -104,7 +104,7 @@ Memorandum of the President of the United States, Dec. 19, 1990, 56 F.R. 357, pr
 
 Memorandum for the Secretary of State
 
-By virtue of the authority vested in me by the Constitution and laws of the United States of America, including section 609 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1990 (Public Law 101–162) \[set out above\], and section 301 of title 3 of the United States Code, I hereby delegate to the Secretary of State the functions vested in me by section 609(b) of that Act. The authority delegated by this memorandum may be further redelegated within the Department of State.
+By virtue of the authority vested in me by the Constitution and laws of the United States of America, including section 609 of the Departments of Commerce, Justice, and State, the Judiciary, and Related AgenciesAppropriations Act, 1990 (Public Law 101–162) \[set out above\], and section 301 of title 3 of the United States Code, I hereby delegate to the Secretary of State the functions vested in me by section 609(b) of that Act. The authority delegated by this memorandum may be further redelegated within the Department of State.
 
 The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
 

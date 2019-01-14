@@ -18,7 +18,7 @@ The certification described in subsection (a) shall be signed by a supervisory o
 
 #### (B) Certification
 
-&emsp;&emsp;The requirements of subparagraph (A) shall apply if the head of the government agency described in subsection (a), or a designee, certifies that the absence of a prohibition of disclosure under this subsection may result in—
+&emsp;&emsp;The requirements of subparagraph (A) shall apply if the head of the governmentagency described in subsection (a), or a designee, certifies that the absence of a prohibition of disclosure under this subsection may result in—
 
 &emsp;&emsp;&emsp;(i) a danger to the national security of the United States;
 
@@ -64,7 +64,7 @@ The certification described in subsection (a) shall be signed by a supervisory o
 
 #### (e) Rule of construction
 
-Nothing in section 1681u of this title shall be construed to limit the authority of the Directorof the Federal Bureau of Investigation under this section.
+Nothing in section 1681u of this title shall be construed to limit the authority of the Director of the Federal Bureau of Investigation under this section.
 
 #### (f) Safe harbor
 

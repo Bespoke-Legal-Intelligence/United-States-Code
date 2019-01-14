@@ -20,7 +20,11 @@ Inapplicability to Certain Contracts.—This section does not apply to a contrac
 
 Inapplicability When Government Treated Similarly to Other Purchasers.—An agreement between the contractor in a contract for the acquisition of commercial items and a subcontractor under the contract that restricts sales by the subcontractor directly to persons other than the contractor may not be considered to unreasonably restrict sales by that subcontractor to the Federal Government in violation of the provision included in the contract pursuant to subsection (a) if the agreement does not result in the Federal Government being treated differently with regard to the restriction than any other prospective purchaser of the commercial items from that subcontractor.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3795.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3795; Pub. L. 115–232, div. A, title VIII, §836(b)(19), Aug. 13, 2018, 132 Stat. 1864.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(b)(19), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (d) of this section is amended by striking "commercial items" both places it appears and inserting "commercial products or commercial services". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -53,4 +57,12 @@ June 30, 1949, ch. 288, title III, §303G(c), as added Pub. L. 103–355, title 
 41:253g(d).
 
 June 30, 1949, ch. 288, title III, §303G(d), as added Pub. L. 103–355, title VIII, §8204(a), Oct. 13, 1994, 108 Stat. 3396.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–232 substituted "commercial products or commercial services" for "commercial items" in two places.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 

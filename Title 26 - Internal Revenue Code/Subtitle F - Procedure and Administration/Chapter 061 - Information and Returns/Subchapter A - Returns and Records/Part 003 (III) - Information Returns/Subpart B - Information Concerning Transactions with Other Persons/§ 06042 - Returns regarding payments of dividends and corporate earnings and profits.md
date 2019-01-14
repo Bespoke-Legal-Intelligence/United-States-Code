@@ -14,7 +14,7 @@
 
 #### (2) Returns required by the Secretary
 
-&emsp;Every person who makes payments of dividends aggregating less than $10 to any otherperson during any calendar year shall, when required by the Secretary, make a return setting forth the aggregate amount of such payments, and the name and address of the person to whom paid.
+&emsp;Every person who makes payments of dividends aggregating less than $10 to any other person during any calendar year shall, when required by the Secretary, make a return setting forth the aggregate amount of such payments, and the name and address of the person to whom paid.
 
 #### (b) Dividend defined
 
@@ -44,7 +44,7 @@
 
 #### (c) Statements to be furnished to persons with respect to whom information is required
 
-Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
+Every person required to make a return under subsection (a) shall furnish to each person whosename is required to be set forth in such return a written statement showing—
 
 &emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 

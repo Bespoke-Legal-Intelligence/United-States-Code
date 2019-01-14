@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), any employer who violates any provision of this chapter may be assessed a civil penalty of not more than $10,000.
+&emsp;Subject to paragraph (2), any employer who violates any provision of this chapter may beassessed a civil penalty of not more than $10,000.
 
 #### (2) Determination of amount
 
@@ -40,5 +40,5 @@ The rights and procedures provided by this chapter may not be waived by contract
 
 #### Effective Date
 
-Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not laterthan 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under section 2001 of this title.
+Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under section 2001 of this title.
 

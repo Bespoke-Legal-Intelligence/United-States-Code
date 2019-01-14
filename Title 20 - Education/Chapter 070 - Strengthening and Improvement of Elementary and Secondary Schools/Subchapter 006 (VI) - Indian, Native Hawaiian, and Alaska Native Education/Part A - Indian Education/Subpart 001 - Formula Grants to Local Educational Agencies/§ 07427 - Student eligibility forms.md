@@ -50,7 +50,7 @@ Nothing in this section shall be construed to affect a definition contained in s
 
 #### (A) Review
 
-&emsp;&emsp;For each fiscal year, in order to provide such information as is necessary to carry out the responsibility of the Secretary to provide technical assistance under this subpart, the Secretary shall conduct a monitoring and evaluation review of a sampling of the recipients of grants under this subpart.The sampling conducted under this subparagraph shall take into account the size of and the geographic location of each local educational agency.
+&emsp;&emsp;For each fiscal year, in order to provide such information as is necessary to carry out the responsibility of the Secretary to provide technical assistance under this subpart, the Secretary shall conduct a monitoring and evaluation review of a sampling of the recipients of grants under this subpart. The sampling conducted under this subparagraph shall take into account the size of and the geographic location of each local educational agency.
 
 #### (B) Exception
 
@@ -114,7 +114,7 @@ Pub. L. 114–95, §6002(i)(3), redesignated subsec. (g) as (f). Former subsec. 
 
 Subsec. (f)(3). Pub. L. 114–95, §6001(b)(7)(C), made technical amendment to reference in original act which appears in text as reference to section 7423 of this title.
 
-Subsec. (g). Pub. L. 114–95, §6002(i)(6), which directed substitution of "subsection (f)(1)" for "subsection (g)(1)" in subsec. (g) as redesignated by section 6002(i)(4) of Pub. L. 114–95, was executed by making the substitution in introductory provisions of subsec. (g) as redesignated by section 6002(i)(3) of Pub. L. 114–95, to reflect the probable intent of Congress.
+Subsec. (g). Pub. L. 114–95, §6002(i)(6), which directed substitution of "subsection (f)(1)" for "subsection (g)(1)" in subsec. (g) as redesignated by section6002(i)(4) of Pub. L. 114–95, was executed by making the substitution in introductory provisions of subsec. (g) as redesignated by section 6002(i)(3) of Pub. L. 114–95, to reflect the probable intent of Congress.
 
 Pub. L. 114–95, §6002(i)(3), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 

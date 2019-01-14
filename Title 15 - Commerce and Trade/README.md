@@ -141,6 +141,9 @@
 | [<b>109.</b>](Chapter%20109%20-%20Wall%20Street%20Transparency%20and%20Accountability/README.md) | <b>Wall Street Transparency and Accountability</b> | <b>8301</b> |
 | [<b>110.</b>](Chapter%20110%20-%20Online%20Shopper%20Protection/README.md) | <b>Online Shopper Protection</b> | <b>8401</b> |
 | [<b>111.</b>](Chapter%20111%20-%20Weather%20Research%20and%20Forecasting%20Innovation/README.md) | <b>Weather Research and Forecasting Innovation</b> | <b>8501</b> |
+| [<b>112.</b>](Chapter%20112%20-%20Sports%20Medicine%20Licensure/README.md) | <b>Sports Medicine Licensure</b> | <b>8601</b> |
+| [<b>113.</b>](Chapter%20113%20-%20Concrete%20Masonry%20Products%20Research%2C%20Education%2C%20and%20Promotion/README.md) | <b>Concrete Masonry Products Research, Education, and Promotion</b> | <b>8701</b> |
+| [<b>114.</b>](Chapter%20114%20-%20National%20Quantum%20Initiative/README.md) | <b>National Quantum Initiative</b> | <b>8801</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -287,3 +290,6 @@
 - [Chapter 109 - Wall Street Transparency and Accountability](Chapter%20109%20-%20Wall%20Street%20Transparency%20and%20Accountability/README.md)
 - [Chapter 110 - Online Shopper Protection](Chapter%20110%20-%20Online%20Shopper%20Protection/README.md)
 - [Chapter 111 - Weather Research and Forecasting Innovation](Chapter%20111%20-%20Weather%20Research%20and%20Forecasting%20Innovation/README.md)
+- [Chapter 112 - Sports Medicine Licensure](Chapter%20112%20-%20Sports%20Medicine%20Licensure/README.md)
+- [Chapter 113 - Concrete Masonry Products Research, Education, and Promotion](Chapter%20113%20-%20Concrete%20Masonry%20Products%20Research%2C%20Education%2C%20and%20Promotion/README.md)
+- [Chapter 114 - National Quantum Initiative](Chapter%20114%20-%20National%20Quantum%20Initiative/README.md)

@@ -72,7 +72,7 @@ Notwithstanding any other provision of law, this subsection shall apply to river
 
 &emsp;(2) a minimum level of flood protection is still provided to the community by the disaccredited system; and
 
-&emsp;(3) restoration of the flood protection system is scheduled to occur within a designated time period and in accordance with a progress plan negotiated between the community and the Federal Emergency Management Agency.
+&emsp;(3) restoration of the flood protection system is scheduled to occur within a designated time period and in accordance with a progressplan negotiated between the community and the Federal Emergency Management Agency.
 
 > Communities that the Administrator of the Federal Emergency Management Agency determines to meet the criteria set forth in paragraphs (1) and (2) as of January 1, 1992, shall not be subject to revised Flood Insurance Rate Maps that contravene the intent of this subsection. Such communities shall remain eligible for C zone rates for properties located in zone AR for any policy written prior to promulgation of final regulations for this section. Floodplain management criteria for such communities shall not require the elevation of improvements to existing structures and shall not exceed 3 feet above existing grade for new construction, provided the base flood elevation based on the disaccredited flood control system does not exceed five feet above existing grade, or the remaining new construction in such communities is limited to infill sites, rehabilitation of existing structures, or redevelopment of previously developed areas.
 
@@ -132,7 +132,7 @@ Pub. L. 113–89, §19(a)(1), (2), inserted "or reconstruction" after "construct
 
 Subsec. (f). Pub. L. 113–89, §19(b), amended first sentence generally. Prior to amendment, first sentence read as follows: "Notwithstanding any other provision of law, this subsection shall only apply in a community which has been determined by the Administrator of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so."
 
-Subsec. (g). Pub. L. 113–89, §3(a)(1), redesignated pars. (3) and (4) as (1) and (2), respectively, substituted ", unless the decision of the policy holder to permit a lapse in flood insurance coverage was as a result of the property covered by the policy no longer being required to retain such coverage" for "as a result of the deliberate choice of the holder of such policy" in par. (1) as redesignated, and struck out former pars. (1) and (2), which read as follows:
+Subsec. (g). Pub. L. 113–89, §3(a)(1), redesignated pars. (3) and (4) as (1) and (2), respectively, substituted", unless the decision of the policy holder to permit a lapse in flood insurance coverage was as a result of the property covered by the policy no longer being required to retain such coverage" for "as a result of the deliberate choice of the holder of such policy" in par. (1) as redesignated, and struck out former pars. (1) and (2), which read as follows:
 
 "(1) any property not insured by the flood insurance program as of July 6, 2012;
 
@@ -214,7 +214,7 @@ Assumption of Policies at Existing Premium Rates.—The Administrator shall prov
 
 #### Changes in Rates Resulting From Pub. L. 113–89
 
-Pub. L. 113–89, §31(a), Mar. 21, 2014, 128 Stat. 1035, provided that: "Not later than the date that is 6 months before the date on which any change in risk premium rates for flood insurance coverage under the National Flood Insurance Program \[defined as the program established under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.)\] resulting from this Act \[see Short Title of 2014 Amendment note set out under section 4001 of this title\] or any amendment made by this Act is implemented, the Administrator \[of the Federal Emergency Management Agency\] shall make publicly available the rate tables and underwriting guidelines that provide the basis for the change."
+Pub. L. 113–89, §31(a), Mar. 21, 2014, 128 Stat. 1035, provided that: "Not later than the date that is 6 months before the date on which any change in risk premium rates for flood insurance coverage under the National Flood Insurance Program \[defined as the program established under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.)\] resulting from this Act \[see Short Title of 2014 Amendment note set out under section 4001 of this title\] or any amendment made by this Act is implemented, the Administrator \[of the Federal Emergency Management Agency\] shall make publiclyavailable the rate tables and underwriting guidelines that provide the basis for the change."
 
 #### Eligibility for Flood Insurance for Persons Residing in Communities That Have Made Adequate Progress on the Reconstruction or Improvement of a Flood Protection System
 
@@ -316,13 +316,13 @@ Additional Authority.—
 
 &emsp;"(1)
 
-Additional authority.—Notwithstanding subsection (a), in exceptional and exigent circumstances, the Administrator may, in the Administrator's sole discretion, determine that a person residing in a community, which is a participant in the National Flood Insurance Program, that has begun reconstruction or improvement of a flood protection system that will afford flood protection for a 100-year floodplain (without regard to the level of Federal funding of or participation in the reconstruction or improvement) shall be eligible for flood insurance coverage under the National Flood Insurance Program at a risk premium rate that does not exceed the risk premium rate that would be chargeable if the flood protection system had been completed, provided—
+Additional authority.—Notwithstanding subsection (a), in exceptional and exigent circumstances, the Administrator may, in the Administrator's sole discretion, determine that a person residing in a community, which is a participant in the National Flood Insurance Program, that has begun reconstruction or improvement of a flood protection system that will afford flood protection for a 100-year floodplain (without regard to the level of Federal funding of or participation in the reconstruction or improvement) shall be eligible for flood insurance coverage under the National Flood Insurance Program at a risk premium rate that does not exceed the risk premiumrate that would be chargeable if the flood protection system had been completed, provided—
 
 &emsp;&emsp;"(A) the community makes a written request for the determination setting forth the exceptional and exigent circumstances, including why the community cannot meet the criteria for adequate progress set forth in under \[sic\] subsection (a)(2)(A) and why immediate relief is necessary;
 
 &emsp;&emsp;"(B) the Administrator submits a written report setting forth findings of the exceptional and exigent circumstances on which the Administrator based an affirmative determination to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives not later than 15 days before making the determination; and
 
-&emsp;&emsp;"(C) the eligibility for flood insurance coverage at a risk premium rate determined under this subsection terminates no later than 1 year after thedate on which the Administrator makes the determination.
+&emsp;&emsp;"(C) the eligibility for flood insurance coverage at a risk premium rate determined under this subsection terminates no later than 1 year after the date on which the Administrator makes the determination.
 
 &emsp;"(2)
 

@@ -72,9 +72,11 @@ Report.—A detailed description submitted under clause (i) may be included as p
 
 &emsp;(A) a circumstance, other than those described in subsection (d), exists that constitutes, or is likely to become, a domestic or international energy supply shortage of significant scope or duration;
 
-&emsp;(B) action taken under this subsection would assist directly and significantly in preventing or reducing the adverse impact of such shortage; and
+&emsp;(B) action taken under this subsection would assist directly and significantly in preventing or reducing the adverse impact of such shortage;
 
-&emsp;(C) the Secretary of Defense has found that action taken under this subsection will not impair national security,
+&emsp;(C) the Secretary has found that action taken under this subsection will not impairthe ability of the United States to carry out obligations of the United States under the international energy program; and
+
+&emsp;(D) the Secretary of Defense has found that action taken under this subsection will not impair national security,
 
 > then the Secretary may, subject to the limitations of paragraph (2), draw down and sell petroleum products from the Strategic Petroleum Reserve.
 
@@ -84,9 +86,9 @@ Report.—A detailed description submitted under clause (i) may be included as p
 
 &emsp;(B) for more than 60 days with respect to each such shortage;
 
-&emsp;(C) if there are fewer than 450,000,000 barrels of petroleum product stored in the Reserve; or
+&emsp;(C) if there are fewer than 340,000,000 barrels of petroleum product stored in the Reserve; or
 
-&emsp;(D) below the level of an aggregate of 450,000,000 barrels of petroleum product stored in the Reserve.
+&emsp;(D) below the level of an aggregate of 340,000,000 barrels of petroleum product stored in the Reserve.
 
 (3) During any period in which there is a drawdown and sale of the Reserve in effect under this subsection, the Secretary shall transmit a monthly report to the Congress containing an account of the drawdown and sale of petroleum products under this subsection and an assessment of its effect.
 
@@ -158,7 +160,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 #### (B) Portion of quantity of previous imports
 
-&emsp;&emsp;The Secretary may limit the quantity of a petroleum product that the State of Hawaii may purchase through a binding offer at any offering to 1/12 of the total quantity of imports of the petroleum product brought into the State during the previous year (or other period determined by the Secretary to be representative).
+&emsp;&emsp;The Secretary may limit the quantity of a petroleum product that the State of Hawaii may purchase through a binding offer at any offering to 1/12 of the total quantity of imports of the petroleum product brought into the State during the previous year (or otherperiod determined by the Secretary to be representative).
 
 #### (C) Percentage of offering
 
@@ -208,13 +210,19 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 &emsp;At the request of the Governor of an insular area, the Secretary shall, for a period not to exceed 180 days following a drawdown of the Strategic Petroleum Reserve, assist the insular area or the President of a Freely Associated State in its efforts to maintain adequate supplies of petroleum products from traditional and nontraditional suppliers.
 
-(Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9,1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993; Pub. L. 105–388, §9(a), Nov. 13, 1998, 112 Stat. 3482; Pub. L. 106–469, title I, §103(15), Nov. 9, 2000, 114 Stat. 2031; Pub. L. 114–74, title IV, §401(a), Nov. 2, 2015, 129 Stat. 588; Pub. L. 114–255, div. A, title V, §5010(c), Dec. 13, 2016, 130 Stat. 1198.)
+(Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993; Pub. L. 105–388, §9(a), Nov. 13, 1998, 112 Stat. 3482; Pub. L. 106–469, title I, §103(15), Nov. 9, 2000, 114 Stat. 2031; Pub. L. 114–74, title IV, §401(a), Nov. 2, 2015, 129 Stat. 588; Pub. L. 114–255, div. A, title V, §5010(c), Dec. 13, 2016, 130 Stat. 1198; Pub. L. 115–123, div. C, title II, §30204(c), Feb. 9, 2018, 132 Stat. 127; Pub. L. 115–141, div. O, title V, §501(c), Mar. 23, 2018, 132 Stat. 1080.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (j)(6), (7)(A), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (h)(1)(C), (D). Pub. L. 115–123, §30204(c)(1), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+Subsec. (h)(2)(C), (D). Pub. L. 115–141 substituted "340,000,000" for "350,000,000".
+
+Pub. L. 115–123, §30204(c)(2), substituted "350,000,000" for "450,000,000".
 
 <b>2016</b>—Subsec. (h)(2)(C), (D). Pub. L. 114–255 substituted "450,000,000" for "500,000,000".
 
@@ -302,117 +310,25 @@ Administrative procedure.—Regulations issued to carry out the amendment made b
 
 #### Strategic Petroleum Reserve Drawdown and Sale
 
-Pub. L. 115–97, title II, §20003, Dec. 22, 2017, 131 Stat. 2237, provided that:
+Provisions related to drawdown and sale from the Strategic Petroleum Reserve were contained in the following acts:
 
-"(a)
+Pub. L. 115–270, title III, §3009, Oct. 23, 2018, 132 Stat. 3870.
 
-Drawdown and Sale.—
+Pub. L. 115–244, div. A, title III, Sept. 21, 2018, 132 Stat. 2908.
 
-&emsp;"(1)
+Pub. L. 115–141, div. D, title III, Mar. 23, 2018, 132 Stat. 520.
 
-In general.—Notwithstanding section 161 of the Energy Policy and Conservation Act (42 U.S.C. 6241), except as provided in subsections (b) and (c), the Secretary of Energy shall draw down and sell from the Strategic Petroleum Reserve 7,000,000 barrels of crude oil during the period of fiscal years 2026 through 2027.
+Pub. L. 115–141, div. O, title V, §501(a), (b), Mar. 23, 2018, 132 Stat. 1079, 1080.
 
-&emsp;"(2)
+Pub. L. 115–123, div. C, title II, §30204(a), (b), Feb. 9, 2018, 132 Stat. 126, 127.
 
-Deposit of amounts received from sale.—Amounts received from a sale under paragraph (1) shall be deposited in the general fund of the Treasury during the fiscal year in which the sale occurs.
+Pub. L. 115–97, title II, §20003, Dec. 22, 2017, 131 Stat. 2237.
 
-"(b)
+Pub. L. 115–56, div. D, §158, as added by Pub. L. 115–123, div. B, §20101(2), Feb. 9, 2018, 132 Stat. 120.
 
-Emergency Protection.—The Secretary of Energy shall not draw down and sell crude oil under subsection (a) in a quantity that would limit the authority to sell petroleum products under subsection (h) of section 161 of the Energy Policy and Conservation Act (42 U.S.C. 6241) in the full quantity authorized by that subsection.
+Pub. L. 114–255, div. A, title V, §5010(a), (b), Dec. 13, 2016, 130 Stat. 1197, 1198.
 
-"(c)
+Pub. L. 114–94, div. C, title XXXII, §32204, Dec. 4, 2015, 129 Stat. 1740.
 
-Limitation.—The Secretary of Energy shall not drawdown or conduct sales of crude oil under subsection (a) after the date on which a total of $600,000,000 has been deposited in the general fund of the Treasury from sales authorized under that subsection."
-
-Pub. L. 114–255, div. A, title V, §5010(a), (b), Dec. 13, 2016, 130 Stat. 1197, 1198, provided that:
-
-"(a)
-
-Drawdown and Sale.—
-
-&emsp;"(1)
-
-In general.—Notwithstanding section 161 of the Energy Policy and Conservation Act (42 U.S.C. 6241), except as provided in subsections (b) and (c) \[subsec. (c) amended this section\], the Secretary of Energy shall drawdown and sell from the Strategic Petroleum Reserve—
-
-&emsp;&emsp;"(A) 10,000,000 barrels of crude oil during fiscal year 2017;
-
-&emsp;&emsp;"(B) 9,000,000 barrels of crude oil during fiscal year 2018; and
-
-&emsp;&emsp;"(C) 6,000,000 barrels of crude oil during fiscal year 2019.
-
-&emsp;"(2)
-
-Deposit of amounts received from sale.—Amounts received from a sale under paragraph (1) shall be deposited in the general fund of the Treasury during the fiscal year in which the sale occurs.
-
-"(b)
-
-Emergency Protection.—The Secretary shall not draw down and sell crude oil under this section in quantities that would limit the authority to sell petroleum products under section 161(h) of the Energy Policy and Conservation Act (42 U.S.C. 6241(h)) in the full quantity authorized by that subsection."
-
-Pub. L. 114–94, div. C, title XXXII, §32204, Dec. 4, 2015, 129 Stat. 1740, provided that:
-
-"(a)
-
-Drawdown and Sale.—
-
-&emsp;"(1)
-
-In general.—Notwithstanding section 161 of the Energy Policy and Conservation Act (42 U.S.C. 6241), except as provided in subsections (b) and (c), the Secretary of Energy shall drawdown and sell from the Strategic Petroleum Reserve—
-
-&emsp;&emsp;"(A) the quantity of barrels of crude oil that the Secretary of Energy determines to be appropriate to maximize the financial return to United States taxpayers for each of fiscal years 2016 and 2017;
-
-&emsp;&emsp;"(B) 16,000,000 barrels of crude oil during fiscal year 2023;
-
-&emsp;&emsp;"(C) 25,000,000 barrels of crude oil during fiscal year 2024; and
-
-&emsp;&emsp;"(D) 25,000,000 barrels of crude oil during fiscal year 2025.
-
-&emsp;"(2)
-
-Deposit of amounts received from sale.—Amounts received from a sale under paragraph (1) shall be deposited in the general fund of the Treasury during the fiscal year in which the sale occurs.
-
-"(b)
-
-Emergency Protection.—The Secretary shall not draw down and sell crude oil under this section in quantities that would limit the authority to sell petroleum products under section 161(h) of the Energy Policy and Conservation Act (42 U.S.C. 6241(h)) in the full quantity authorized by that subsection.
-
-"(c)
-
-Increase; Limitation.—
-
-&emsp;"(1)
-
-Increase.—The Secretary of Energy may increase the drawdown and sales under subparagraphs (A) through (I) of subsection (a)(1) as the Secretary of Energy determines to be appropriate to maximize the financial return to United States taxpayers.
-
-&emsp;"(2)
-
-Limitation.—The Secretary of Energy shall not drawdown or conduct sales of crude oil under this section after the date on which a total of $6,200,000,000 has been deposited in the general fund of the Treasury from sales authorized under this section."
-
-Pub. L. 114–74, title IV, §403, Nov. 2, 2015, 129 Stat. 589, provided that:
-
-"(a)
-
-Drawdown and Sale.—Notwithstanding section 161 of the Energy Policy and Conservation Act (42 U.S.C. 6241), except as provided in subsection (b), the Secretary of Energy shall draw down and sell—
-
-&emsp;"(1) 5,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2018;
-
-&emsp;"(2) 5,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2019;
-
-&emsp;"(3) 5,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2020;
-
-&emsp;"(4) 5,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2021;
-
-&emsp;"(5) 8,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2022;
-
-&emsp;"(6) 10,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2023;
-
-&emsp;"(7) 10,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2024; and
-
-&emsp;"(8) 10,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2025.
-
-"(b)
-
-Emergency Protection.—The Secretary shall not draw down and sell crude oil under this section in amounts that would limit the authority to sell petroleum products under section 161(h) of the Energy Policy and Conservation Act (42 U.S.C. 6241(h)) in the full amount authorized by that subsection.
-
-"(c)
-
-Proceeds.—Proceeds from a sale under this section shall be deposited into the general fund of the Treasury during the fiscal year in which the sale occurs."
+Pub. L. 114–74, title IV, §403, Nov. 2, 2015, 129 Stat. 589.
 

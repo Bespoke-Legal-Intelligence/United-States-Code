@@ -46,7 +46,7 @@
 
 |  |  |
 | :--- | ---: |
-| 17551 to 17555. | Transferred or Omitted. |
+| 17551 to 17555. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

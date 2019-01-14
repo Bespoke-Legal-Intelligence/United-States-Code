@@ -24,7 +24,7 @@ To carry out the foregoing purposes and engage in the foregoing activities, the 
 
 &emsp;(4) to sue and be sued, complain and defend, in any State, Federal, or other court;
 
-&emsp;(5) to determine its necessary expenditures and the manner in which the same shall be incurred, allowed, and paid, and appoint, employ, and fix and provide for the compensation of consultants, without regard to any other law, except as provided in section 8107(d) of this title;
+&emsp;(5) to determine its necessary expenditures and the manner in which the same shall be incurred, allowed, and paid, and appoint, employ, and fix and provide for the compensation of consultants, without regard to any otherlaw, except as provided in section 8107(d) of this title;
 
 &emsp;(6) to settle, adjust, and compromise, and with or without compensation or benefit to the corporation to release or waive in whole or in part, in advance or otherwise, any claim, demand, or right of, by, or against the corporation;
 

@@ -2,34 +2,28 @@
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
-| [<b>331.</b>](Chapter%20331%20-%20Strength/README.md) | <b>Strength</b> | <b>3201</b> |
-| [<b>333.</b>](Chapter%20333%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>3251</b> |
-| [<b>335.</b>](Chapter%20335%20-%20Appointments%20in%20the%20Regular%20Army/README.md) | <b>Appointments in the Regular Army</b> | <b>3281</b> |
-| <b>\[337.</b> | <b>Repealed.\]</b> |  |
-| [<b>339.</b>](Chapter%20339%20-%20Temporary%20Appointments/README.md) | <b>Temporary Appointments</b> | <b>3441</b> |
-| [<b>341.</b>](Chapter%20341%20-%20Active%20Duty/README.md) | <b>Active Duty</b> | <b>3491</b> |
-| [<b>343.</b>](Chapter%20343%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md) | <b>Special Appointments, Assignments, Details, and Duties</b> | <b>3531</b> |
-| [<b>345.</b>](Chapter%20345%20-%20Rank%20and%20Command/README.md) | <b>Rank and Command</b> | <b>3571</b> |
-| <b>\[347.</b> | <b>Repealed.\]</b> |  |
-| [<b>349.</b>](Chapter%20349%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties</b> | <b>3631</b> |
-| <b>\[351.</b> | <b>Repealed.\]</b> |  |
-| [<b>353.</b>](Chapter%20353%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>3681</b> |
-| [<b>355.</b>](Chapter%20355%20-%20Hospitalization/README.md) | <b>Hospitalization</b> | <b>3721</b> |
-| [<b>357.</b>](Chapter%20357%20-%20Decorations%20and%20Awards/README.md) | <b>Decorations and Awards</b> | <b>3741</b> |
-| <b>\[359.</b> | <b>Repealed.\]</b> |  |
-| <b>\[360.</b> | <b>Repealed.\]</b> |  |
-| <b>\[361.</b> | <b>Repealed.\]</b> |  |
-| <b>\[363.</b> | <b>Repealed.\]</b> |  |
-| <b>\[365.</b> | <b>Repealed.\]</b> |  |
-| [<b>367.</b>](Chapter%20367%20-%20Retirement%20for%20Length%20of%20Service/README.md) | <b>Retirement for Length of Service</b> | <b>3911</b> |
-| [<b>369.</b>](Chapter%20369%20-%20Retired%20Grade/README.md) | <b>Retired Grade</b> | <b>3961</b> |
-| [<b>371.</b>](Chapter%20371%20-%20Computation%20of%20Retired%20Pay/README.md) | <b>Computation of Retired Pay</b> | <b>3991</b> |
-| [<b>373.</b>](Chapter%20373%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>4021</b> |
-| [<b>375.</b>](Chapter%20375%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md) | <b>Miscellaneous Investigation Requirements and Other Duties</b> | <b>4061</b> |
+| [<b>711.</b>](Chapter%20711%20-%20Strength/README.md) | <b>Strength</b> | <b>7101</b> |
+| [<b>713.</b>](Chapter%20713%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>7131</b> |
+| [<b>715.</b>](Chapter%20715%20-%20Appointments%20in%20the%20Regular%20Army/README.md) | <b>Appointments in the Regular Army</b> | <b>7151</b> |
+| [<b>719.</b>](Chapter%20719%20-%20Temporary%20Appointments/README.md) | <b>Temporary Appointments</b> | <b>7176</b> |
+| [<b>721.</b>](Chapter%20721%20-%20Active%20Duty/README.md) | <b>Active Duty</b> | <b>7191</b> |
+| [<b>723.</b>](Chapter%20723%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md) | <b>Special Appointments, Assignments, Details, and Duties</b> | <b>7213</b> |
+| [<b>725.</b>](Chapter%20725%20-%20Rank%20and%20Command/README.md) | <b>Rank and Command</b> | <b>7222</b> |
+| [<b>729.</b>](Chapter%20729%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties</b> | <b>7239</b> |
+| [<b>733.</b>](Chapter%20733%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>7251</b> |
+| [<b>735.</b>](Chapter%20735%20-%20Hospitalization/README.md) | <b>Hospitalization</b> | <b>7263</b> |
+| [<b>737.</b>](Chapter%20737%20-%20Decorations%20and%20Awards/README.md) | <b>Decorations and Awards</b> | <b>7271</b> |
+| [<b>741.</b>](Chapter%20741%20-%20Retirement%20for%20Length%20of%20Service/README.md) | <b>Retirement for Length of Service</b> | <b>7311</b> |
+| [<b>743.</b>](Chapter%20743%20-%20Retired%20Grade/README.md) | <b>Retired Grade</b> | <b>7341</b> |
+| [<b>745.</b>](Chapter%20745%20-%20Computation%20of%20Retired%20Pay/README.md) | <b>Computation of Retired Pay</b> | <b>7361</b> |
+| [<b>747.</b>](Chapter%20747%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>7371</b> |
+| [<b>749.</b>](Chapter%20749%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md) | <b>Miscellaneous Investigation Requirements and Other Duties</b> | <b>7381</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 331 to 375 as 711 to 749 and redesignated section numbers 3201 to 4061 as 7101 to 7381. Section numbers were conformed to the first section appearing in each chapterafter renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
 <b>2003</b>—Pub. L. 108–136, div. A, title V, §576(a)(2), Nov. 24, 2003, 117 Stat. 1487, added item for chapter 375.
 
@@ -50,27 +44,19 @@ Pub. L. 90–235, §8(5), Jan. 2, 1968, 81 Stat. 764, struck out item for chapte
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Chapter 331 - Strength](Chapter%20331%20-%20Strength/README.md)
-- [Chapter 333 - Enlistments](Chapter%20333%20-%20Enlistments/README.md)
-- [Chapter 335 - Appointments in the Regular Army](Chapter%20335%20-%20Appointments%20in%20the%20Regular%20Army/README.md)
-- [Chapter 337 - Repealed](Chapter%20337%20-%20Repealed/README.md)
-- [Chapter 339 - Temporary Appointments](Chapter%20339%20-%20Temporary%20Appointments/README.md)
-- [Chapter 341 - Active Duty](Chapter%20341%20-%20Active%20Duty/README.md)
-- [Chapter 343 - Special Appointments, Assignments, Details, and Duties](Chapter%20343%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md)
-- [Chapter 345 - Rank and Command](Chapter%20345%20-%20Rank%20and%20Command/README.md)
-- [Chapter 347 - Repealed](Chapter%20347%20-%20Repealed/README.md)
-- [Chapter 349 - Miscellaneous Prohibitions and Penalties](Chapter%20349%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md)
-- [Chapter 351 - Repealed](Chapter%20351%20-%20Repealed/README.md)
-- [Chapter 353 - Miscellaneous Rights and Benefits](Chapter%20353%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md)
-- [Chapter 355 - Hospitalization](Chapter%20355%20-%20Hospitalization/README.md)
-- [Chapter 357 - Decorations and Awards](Chapter%20357%20-%20Decorations%20and%20Awards/README.md)
-- [Chapter 359 - Repealed](Chapter%20359%20-%20Repealed/README.md)
-- [Chapter 360 - Repealed](Chapter%20360%20-%20Repealed/README.md)
-- [Chapter 361 - Repealed](Chapter%20361%20-%20Repealed/README.md)
-- [Chapter 363 - Repealed](Chapter%20363%20-%20Repealed/README.md)
-- [Chapter 365 - Repealed](Chapter%20365%20-%20Repealed/README.md)
-- [Chapter 367 - Retirement for Length of Service](Chapter%20367%20-%20Retirement%20for%20Length%20of%20Service/README.md)
-- [Chapter 369 - Retired Grade](Chapter%20369%20-%20Retired%20Grade/README.md)
-- [Chapter 371 - Computation of Retired Pay](Chapter%20371%20-%20Computation%20of%20Retired%20Pay/README.md)
-- [Chapter 373 - Civilian Employees](Chapter%20373%20-%20Civilian%20Employees/README.md)
-- [Chapter 375 - Miscellaneous Investigation Requirements and Other Duties](Chapter%20375%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md)
+- [Chapter 711 - Strength](Chapter%20711%20-%20Strength/README.md)
+- [Chapter 713 - Enlistments](Chapter%20713%20-%20Enlistments/README.md)
+- [Chapter 715 - Appointments in the Regular Army](Chapter%20715%20-%20Appointments%20in%20the%20Regular%20Army/README.md)
+- [Chapter 719 - Temporary Appointments](Chapter%20719%20-%20Temporary%20Appointments/README.md)
+- [Chapter 721 - Active Duty](Chapter%20721%20-%20Active%20Duty/README.md)
+- [Chapter 723 - Special Appointments, Assignments, Details, and Duties](Chapter%20723%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md)
+- [Chapter 725 - Rank and Command](Chapter%20725%20-%20Rank%20and%20Command/README.md)
+- [Chapter 729 - Miscellaneous Prohibitions and Penalties](Chapter%20729%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md)
+- [Chapter 733 - Miscellaneous Rights and Benefits](Chapter%20733%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md)
+- [Chapter 735 - Hospitalization](Chapter%20735%20-%20Hospitalization/README.md)
+- [Chapter 737 - Decorations and Awards](Chapter%20737%20-%20Decorations%20and%20Awards/README.md)
+- [Chapter 741 - Retirement for Length of Service](Chapter%20741%20-%20Retirement%20for%20Length%20of%20Service/README.md)
+- [Chapter 743 - Retired Grade](Chapter%20743%20-%20Retired%20Grade/README.md)
+- [Chapter 745 - Computation of Retired Pay](Chapter%20745%20-%20Computation%20of%20Retired%20Pay/README.md)
+- [Chapter 747 - Civilian Employees](Chapter%20747%20-%20Civilian%20Employees/README.md)
+- [Chapter 749 - Miscellaneous Investigation Requirements and Other Duties](Chapter%20749%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md)

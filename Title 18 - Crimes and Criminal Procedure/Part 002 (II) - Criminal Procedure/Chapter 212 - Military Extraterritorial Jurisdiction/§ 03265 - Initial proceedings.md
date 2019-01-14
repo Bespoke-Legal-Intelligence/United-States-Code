@@ -8,7 +8,7 @@
 
 (2) In conducting the initial appearance, the Federal magistrate judge shall also determine whether there is probable cause to believe that an offense under section 3261(a) was committed and that the person committed it.
 
-(3) If the Federal magistrate judge determines that probable cause exists that the person committed an offense under section 3261(a), and if nomotion is made seeking the person's detention before trial, the Federal magistrate judge shall also determine at the initial appearance the conditions of the person's release before trial under chapter 207 of this title.
+(3) If the Federal magistrate judge determines that probable cause exists that the person committed an offense under section 3261(a), and if no motion is made seeking the person's detention before trial, the Federal magistrate judge shall also determine at the initial appearance the conditions of the person's release before trial under chapter 207 of this title.
 
 (b) In the case of any person described in subsection (a), any detention hearing of that person under section 3142(f)—
 

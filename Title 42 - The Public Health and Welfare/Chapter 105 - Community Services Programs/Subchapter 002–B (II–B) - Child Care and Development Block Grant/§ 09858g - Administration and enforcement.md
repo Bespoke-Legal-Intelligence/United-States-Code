@@ -52,7 +52,7 @@ The Secretary shall—
 
 #### (1) In general
 
-&emsp;The Secretary may waive for a period of not more than three years any provision under this subchapter or sanctions imposed upon a State in accordance with subsection (b)(2) upon the State's request for such a waiver if the Secretary finds that—
+&emsp;The Secretary may waive for a period of not more than three years any provision underthis subchapter or sanctions imposed upon a State in accordance with subsection (b)(2) upon the State's request for such a waiver if the Secretary finds that—
 
 &emsp;&emsp;(A) the request describes one or more conflicting or duplicative requirements preventing the effective delivery of child care services to justify a waiver, extraordinary circumstances, such as natural disaster or financial crisis, or an extended period of time for a State legislature to enact legislation to implement the provisions of this subchapter;
 
@@ -110,7 +110,7 @@ Subsec. (c). Pub. L. 113–186, §8(b), added subsec. (c).
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–193, §609(1), struck out ", and shall have the power to terminate payments to the State in accordance with paragraph (2)" before period at end.
 
-Subsec. (b)(2)(A). Pub. L. 104–193, §609(2), in closing provisions, substituted before period at end "finding and shall require that the State reimburse the Secretary for any funds that were improperly expended for purposes prohibited or not authorized by this subchapter, that the Secretary deduct from the administrative portion of the State allotment for the following fiscal year an amount that is less than or equal to any improperly expended funds, or a combination of such options" for "finding and that no further payments may be made to such State under this subchapter (or, in the case of noncompliance in the operation of a program or activity, that no further payments to the State will be made with respect to such program or activity) until the Secretary is satisfied that there is no longer any such failure to comply or that the noncompliance will be promptly corrected".
+Subsec. (b)(2)(A). Pub. L. 104–193, §609(2), in closing provisions, substituted before period at end "finding and shall require that the State reimburse the Secretary for any funds that were improperly expended for purposes prohibited or not authorized by this subchapter, that the Secretary deduct from the administrative portion of the State allotment for the following fiscal year an amount that is less than or equal to any improperly expended funds, or a combination of such options" for "finding and that no further payments may be made to such State under this subchapter (or,in the case of noncompliance in the operation of a program or activity, that no further payments to the State will be made with respect to such program or activity) until the Secretary is satisfied that there is no longer any such failure to comply or that the noncompliance will be promptly corrected".
 
 <b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 

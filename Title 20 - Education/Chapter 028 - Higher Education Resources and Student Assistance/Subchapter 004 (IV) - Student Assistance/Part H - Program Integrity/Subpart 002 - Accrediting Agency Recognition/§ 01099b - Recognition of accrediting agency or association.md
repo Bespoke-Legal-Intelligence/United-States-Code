@@ -130,7 +130,7 @@ No accrediting agency or association may be recognized by the Secretary as a rel
 
 &emsp;&emsp;(A) the award of accreditation or reaccreditation of an institution;
 
-&emsp;&emsp;(B) final denial, withdrawal, suspension, or termination of accreditation of an institution, and any findings made in connectionwith the action taken, together with the official comments of the affected institution; and
+&emsp;&emsp;(B) final denial, withdrawal, suspension, or termination of accreditation of an institution, and any findings made in connection with the action taken, together with the official comments of the affected institution; and
 
 &emsp;&emsp;(C) any other adverse action taken with respect to an institution or placement on probation of an institution;
 
@@ -312,7 +312,7 @@ Subsec. (l). Pub. L. 105–244, §492(d)(5), substituted "recognition" for "appr
 
 Subsec. (n)(1). Pub. L. 105–244, §492(d)(6)(A), substituted "criteria" for "standards" in introductory provisions.
 
-Subsec. (n)(3). Pub. L. 105–244, §492(d)(6)(A), (B), substituted "criteria" for "standards" in two places, "recognition process" for "approval process", and "recognition or denial of recognition" for "approval or disapproval", and inserted at end "When the Secretary decides to recognize an accrediting agency or association, the Secretary shall determine the agency or association's scope of recognition. If the agency or associationreviews institutions offering distance education courses or programs and the Secretary determines that the agency or association meets the requirements of this section, then the agency shall be recognized and the scope of recognition shall include accreditation of institutions offering distance education courses or programs."
+Subsec. (n)(3). Pub. L. 105–244, §492(d)(6)(A), (B), substituted "criteria" for "standards" in two places, "recognition process" for "approval process", and "recognition or denial of recognition" for "approval or disapproval", and inserted at end "When the Secretary decides to recognize an accrediting agency or association, the Secretary shall determine the agency or association's scope of recognition. If the agency or association reviews institutions offering distance education courses or programs and the Secretary determines that the agency or association meets the requirements of this section, then the agency shall be recognized and the scope of recognition shall include accreditation of institutions offering distance education courses or programs."
 
 Subsec. (n)(4). Pub. L. 105–244, §492(d)(6)(C), added par. (4) and struck out former par. (4) which read as follows: "The Secretary shall maintain sufficient documentation to support the conclusions reached in the approval process, and, upon disapproval of any accreditation agency or association, shall make publicly available the reason for such disapproval, including reference to the specific standards under this section which have not been fulfilled."
 

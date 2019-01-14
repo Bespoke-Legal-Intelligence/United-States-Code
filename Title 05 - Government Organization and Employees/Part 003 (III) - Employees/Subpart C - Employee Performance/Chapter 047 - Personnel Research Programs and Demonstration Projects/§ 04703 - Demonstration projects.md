@@ -80,7 +80,9 @@
 
 &emsp;(B) terminate before the end of the 5-year period beginning on the date on which the project takes effect, except that the project may continue beyond the date to the extent necessary to validate the results of the project.
 
-(2) Not more than 10 active demonstration projects may be in effect at any time.
+(2)(A) Except as provided in subparagraph (B), not more than 10 active demonstration projects may be in effect at any time.
+
+(B) Any demonstration project authorized under this section that is active for a period greater than 10 years shall not count for purposes of applying the limitation in subparagraph (A).
 
 (e) Subject to the terms of any written agreement or contract between the Office and an agency, a demonstration project involving the agency may be terminated by the Office, or the agency, if either determines that the project creates a substantial hardship on, or is not in the best interests of, the public, the Federal Government, employees, or eligibles.
 
@@ -96,7 +98,21 @@
 
 (i) Upon request of the Director of the Office of Personnel Management, agencies shall cooperate with and assist the Office, to the extent practicable, in any evaluation undertaken under subsection (h) of this section and provide the Office with requested information and reports relating to the conducting of demonstration projects in their respective agencies.
 
-(Added Pub. L. 95–454, title VI, §601(a), Oct. 13, 1978, 92 Stat. 1186.)
+(j) Each agency at which a demonstration project authorized by this section is ongoing shall submit an annual report to the Office of Personnel Management, the Office and <sup>1</sup> Management and Budget, the Committee on Homeland Security and Governmental Affairs of the United States Senate, and the Committee on Oversight and Government Reform of the United States House of Representatives that includes—
+
+&emsp;(1) the aggregate performance appraisal ratings and compensation costs for employees under a demonstration project;
+
+&emsp;(2) an assessment of the results of the demonstration project, including its impact on mission goals, employee recruitment, retention, and satisfaction, and which may include the results of the survey authorized under section 1128 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 5 U.S.C. 7101 note), commonly referred to as the Federal Employee Viewpoint Survey, and performance management for employees; and
+
+&emsp;(3) a comparison of the items listed in (1) and (2) with employees not covered by the demonstration project.
+
+(Added Pub. L. 95–454, title VI, §601(a), Oct. 13, 1978, 92 Stat. 1186; amended Pub. L. 115–232, div. A, title XI, §1106, Aug. 13, 2018, 132 Stat. 2001.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (d)(2). Pub. L. 115–232, §1106(1), added par. (2) and struck out former par. (2) which read as follows: "Not more than 10 active demonstration projects may be in effect at any time."
+
+Subsec. (j). Pub. L. 115–232, §1106(2), added subsec. (j).
 
 #### Effective Date
 
@@ -105,4 +121,6 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 #### Authority of Export-Import Bank To Conduct Demonstration Program
 
 Pub. L. 104–97, §2, Jan. 11, 1996, 109 Stat. 984, provided that: "Notwithstanding section 4701(a)(1)(A) of title 5, United States Code, the Export-Import Bank of the United States may conduct a demonstration project in accordance with section 4703 of such title."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

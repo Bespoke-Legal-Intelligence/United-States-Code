@@ -6,7 +6,7 @@ In the establishment of State, county, and farm acreage allotments for wheat und
 
 #### References in Text
 
-Section 307 of this Act (the Food and Agriculture Act of 1962) and section 124 of the Agricultural Act of 1961, referred to in text, are set out as notes under section 1334 of this title.
+Section 307 of this Act (the Food and Agriculture Act of 1962) and section 124 of the Agricultural Act of 1961,referred to in text, are set out as notes under section 1334 of this title.
 
 #### Codification
 

@@ -2,34 +2,29 @@
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
-| [<b>831.</b>](Chapter%20831%20-%20Strength/README.md) | <b>Strength</b> | <b>8201</b> |
-| [<b>833.</b>](Chapter%20833%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>8251</b> |
-| [<b>835.</b>](Chapter%20835%20-%20Appointments%20in%20the%20Regular%20Air%20Force/README.md) | <b>Appointments in the Regular Air Force</b> | <b>8281</b> |
-| <b>\[837.</b> | <b>Repealed.\]</b> |  |
-| [<b>839.</b>](Chapter%20839%20-%20Temporary%20Appointments/README.md) | <b>Temporary Appointments</b> | <b>8441</b> |
-| [<b>841.</b>](Chapter%20841%20-%20Active%20Duty/README.md) | <b>Active Duty</b> | <b>8491</b> |
-| [<b>843.</b>](Chapter%20843%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md) | <b>Special Appointments, Assignments, Details, and Duties</b> | <b>8531</b> |
-| [<b>845.</b>](Chapter%20845%20-%20Rank%20and%20Command/README.md) | <b>Rank and Command</b> | <b>8571</b> |
-| <b>\[847.</b> | <b>Repealed.\]</b> |  |
-| [<b>849.</b>](Chapter%20849%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties</b> | <b>8631</b> |
-| <b>\[851.</b> | <b>Repealed.\]</b> |  |
-| [<b>853.</b>](Chapter%20853%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>8681</b> |
-| [<b>855.</b>](Chapter%20855%20-%20Hospitalization/README.md) | <b>Hospitalization</b> | <b>8721</b> |
-| [<b>857.</b>](Chapter%20857%20-%20Decorations%20and%20Awards/README.md) | <b>Decorations and Awards</b> | <b>8741</b> |
-| <b>\[859.</b> | <b>Repealed.\]</b> |  |
-| <b>\[860.</b> | <b>Repealed.\]</b> |  |
-| [<b>861.</b>](Chapter%20861%20-%20Separation%20for%20Various%20Reasons/README.md) | <b>Separation for Various Reasons</b> | <b>8811</b> |
-| <b>\[863.</b> | <b>Repealed.\]</b> |  |
-| <b>\[865.</b> | <b>Repealed.\]</b> |  |
-| [<b>867.</b>](Chapter%20867%20-%20Retirement%20for%20Length%20of%20Service/README.md) | <b>Retirement for Length of Service</b> | <b>8911</b> |
-| [<b>869.</b>](Chapter%20869%20-%20Retired%20Grade/README.md) | <b>Retired Grade</b> | <b>8961</b> |
-| [<b>871.</b>](Chapter%20871%20-%20Computation%20of%20Retired%20Pay/README.md) | <b>Computation of Retired Pay</b> | <b>8991</b> |
-| [<b>873.</b>](Chapter%20873%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>9021</b> |
-| [<b>875.</b>](Chapter%20875%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md) | <b>Miscellaneous Investigation Requirements and Other Duties</b> | <b>9061</b> |
+| [<b>911.</b>](Chapter%20911%20-%20Strength/README.md) | <b>Strength</b> | <b>9110</b> |
+| [<b>913.</b>](Chapter%20913%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>9131</b> |
+| [<b>915.</b>](Chapter%20915%20-%20Appointments%20in%20the%20Regular%20Air%20Force/README.md) | <b>Appointments in the Regular Air Force</b> | <b>9151</b> |
+| [<b>919.</b>](Chapter%20919%20-%20Temporary%20Appointments/README.md) | <b>Temporary Appointments</b> | <b>9176</b> |
+| [<b>921.</b>](Chapter%20921%20-%20Active%20Duty/README.md) | <b>Active Duty</b> | <b>9191</b> |
+| [<b>923.</b>](Chapter%20923%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md) | <b>Special Appointments, Assignments, Details, and Duties</b> | <b>9217</b> |
+| [<b>925.</b>](Chapter%20925%20-%20Rank%20and%20Command/README.md) | <b>Rank and Command</b> | <b>9222</b> |
+| [<b>929.</b>](Chapter%20929%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties</b> | <b>9239</b> |
+| [<b>933.</b>](Chapter%20933%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>9251</b> |
+| [<b>935.</b>](Chapter%20935%20-%20Hospitalization/README.md) | <b>Hospitalization</b> | <b>9263</b> |
+| [<b>937.</b>](Chapter%20937%20-%20Decorations%20and%20Awards/README.md) | <b>Decorations and Awards</b> | <b>9271</b> |
+| [<b>939.</b>](Chapter%20939%20-%20Separation%20for%20Various%20Reasons/README.md) | <b>Separation for Various Reasons</b> | <b>9307</b> |
+| [<b>941.</b>](Chapter%20941%20-%20Retirement%20for%20Length%20of%20Service/README.md) | <b>Retirement for Length of Service</b> | <b>9311</b> |
+| [<b>943.</b>](Chapter%20943%20-%20Retired%20Grade/README.md) | <b>Retired Grade</b> | <b>9341</b> |
+| [<b>945.</b>](Chapter%20945%20-%20Computation%20of%20Retired%20Pay/README.md) | <b>Computation of Retired Pay</b> | <b>9361</b> |
+| [<b>947.</b>](Chapter%20947%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>9371</b> |
+| [<b>949.</b>](Chapter%20949%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md) | <b>Miscellaneous Investigation Requirements and Other Duties</b> | <b>9381</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 831 to 875 as 911 to 949 and redesignated section numbers 8201 to 9061 as 9110 to 9381. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
 <b>2003</b>—Pub. L. 108–136, div. A, title V, §576(c)(2), Nov. 24, 2003, 117 Stat. 1488, added item for chapter 875.
 
@@ -50,27 +45,20 @@ Pub. L. 90–235, §8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for chapte
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Chapter 831 - Strength](Chapter%20831%20-%20Strength/README.md)
-- [Chapter 833 - Enlistments](Chapter%20833%20-%20Enlistments/README.md)
-- [Chapter 835 - Appointments in the Regular Air Force](Chapter%20835%20-%20Appointments%20in%20the%20Regular%20Air%20Force/README.md)
-- [Chapter 837 - Repealed](Chapter%20837%20-%20Repealed/README.md)
-- [Chapter 839 - Temporary Appointments](Chapter%20839%20-%20Temporary%20Appointments/README.md)
-- [Chapter 841 - Active Duty](Chapter%20841%20-%20Active%20Duty/README.md)
-- [Chapter 843 - Special Appointments, Assignments, Details, and Duties](Chapter%20843%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md)
-- [Chapter 845 - Rank and Command](Chapter%20845%20-%20Rank%20and%20Command/README.md)
-- [Chapter 847 - Repealed](Chapter%20847%20-%20Repealed/README.md)
-- [Chapter 849 - Miscellaneous Prohibitions and Penalties](Chapter%20849%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md)
-- [Chapter 851 - Repealed](Chapter%20851%20-%20Repealed/README.md)
-- [Chapter 853 - Miscellaneous Rights and Benefits](Chapter%20853%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md)
-- [Chapter 855 - Hospitalization](Chapter%20855%20-%20Hospitalization/README.md)
-- [Chapter 857 - Decorations and Awards](Chapter%20857%20-%20Decorations%20and%20Awards/README.md)
-- [Chapter 859 - Repealed](Chapter%20859%20-%20Repealed/README.md)
-- [Chapter 860 - Repealed](Chapter%20860%20-%20Repealed/README.md)
-- [Chapter 861 - Separation for Various Reasons](Chapter%20861%20-%20Separation%20for%20Various%20Reasons/README.md)
-- [Chapter 863 - Repealed](Chapter%20863%20-%20Repealed/README.md)
-- [Chapter 865 - Repealed](Chapter%20865%20-%20Repealed/README.md)
-- [Chapter 867 - Retirement for Length of Service](Chapter%20867%20-%20Retirement%20for%20Length%20of%20Service/README.md)
-- [Chapter 869 - Retired Grade](Chapter%20869%20-%20Retired%20Grade/README.md)
-- [Chapter 871 - Computation of Retired Pay](Chapter%20871%20-%20Computation%20of%20Retired%20Pay/README.md)
-- [Chapter 873 - Civilian Employees](Chapter%20873%20-%20Civilian%20Employees/README.md)
-- [Chapter 875 - Miscellaneous Investigation Requirements and Other Duties](Chapter%20875%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md)
+- [Chapter 911 - Strength](Chapter%20911%20-%20Strength/README.md)
+- [Chapter 913 - Enlistments](Chapter%20913%20-%20Enlistments/README.md)
+- [Chapter 915 - Appointments in the Regular Air Force](Chapter%20915%20-%20Appointments%20in%20the%20Regular%20Air%20Force/README.md)
+- [Chapter 919 - Temporary Appointments](Chapter%20919%20-%20Temporary%20Appointments/README.md)
+- [Chapter 921 - Active Duty](Chapter%20921%20-%20Active%20Duty/README.md)
+- [Chapter 923 - Special Appointments, Assignments, Details, and Duties](Chapter%20923%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md)
+- [Chapter 925 - Rank and Command](Chapter%20925%20-%20Rank%20and%20Command/README.md)
+- [Chapter 929 - Miscellaneous Prohibitions and Penalties](Chapter%20929%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md)
+- [Chapter 933 - Miscellaneous Rights and Benefits](Chapter%20933%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md)
+- [Chapter 935 - Hospitalization](Chapter%20935%20-%20Hospitalization/README.md)
+- [Chapter 937 - Decorations and Awards](Chapter%20937%20-%20Decorations%20and%20Awards/README.md)
+- [Chapter 939 - Separation for Various Reasons](Chapter%20939%20-%20Separation%20for%20Various%20Reasons/README.md)
+- [Chapter 941 - Retirement for Length of Service](Chapter%20941%20-%20Retirement%20for%20Length%20of%20Service/README.md)
+- [Chapter 943 - Retired Grade](Chapter%20943%20-%20Retired%20Grade/README.md)
+- [Chapter 945 - Computation of Retired Pay](Chapter%20945%20-%20Computation%20of%20Retired%20Pay/README.md)
+- [Chapter 947 - Civilian Employees](Chapter%20947%20-%20Civilian%20Employees/README.md)
+- [Chapter 949 - Miscellaneous Investigation Requirements and Other Duties](Chapter%20949%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md)

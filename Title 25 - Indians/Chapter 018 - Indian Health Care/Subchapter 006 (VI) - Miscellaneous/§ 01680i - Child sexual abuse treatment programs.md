@@ -8,7 +8,7 @@ The Secretary and the Secretary of the Interior shall, for each fiscal year thro
 
 Beginning October 1, 1995, the Secretary and the Secretary of the Interior may establish, in any service area, demonstration programs involving treatment for child sexual abuse, except that the Secretaries may not establish a greater number of such programs in one service area than in any other service area until there is an equal number of such programs established with respect to all service areas from which the Secretary receives qualified applications during the application period (as determined by the Secretary).
 
-(Pub. L. 94–437, title VIII, §819, formerly title VII, §719, as added Pub. L. 100–713, title VII, §715, Nov. 23, 1988, 102 Stat. 4836; renumbered title VIII, §819, and amended Pub. L. 102–573, title VII, §701(a), (b), title VIII, §806, Oct. 29, 1992, 106 Stat. 4572, 4586.)
+(Pub. L. 94–437, title VIII, §819, formerly title VII, §719, as added Pub. L. 100–713, title VII, §715, Nov. 23, 1988, 102 Stat. 4836; renumbered titleVIII, §819, and amended Pub. L. 102–573, title VII, §701(a), (b), title VIII, §806, Oct. 29, 1992, 106 Stat. 4572, 4586.)
 
 #### Amendments
 

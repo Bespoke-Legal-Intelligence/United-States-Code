@@ -8,7 +8,7 @@ For purposes of this subchapter:
 
 #### (2) Country
 
-&emsp;The term "country" means any foreign country or territory, including any overseasdependent territory or possession of a foreign country, or the Trust Territory of the Pacific Islands. In the case of an association of countries which is a free trade area or customs union, or which is contributing to comprehensive regional economic integration among its members through appropriate means, including, but not limited to, the reduction of duties, the President may by Executive order or Presidential proclamation provide that all members of such association other than members which are barred from designation under section 2462(b) of this title shall be treated as one country for purposes of this subchapter.
+&emsp;The term "country" means any foreign country or territory, including any overseas dependent territory or possession of a foreign country, or the Trust Territory of the Pacific Islands. In the case of an association of countries which is a free trade area or customs union, or which is contributing to comprehensive regional economic integration among its members through appropriate means, including, but not limited to, the reduction of duties, the President may by Executive order or Presidential proclamation provide that all members of such association other than members which are barred from designation under section 2462(b) of this title shall be treated as one country for purposes of this subchapter.
 
 #### (3) Entered
 

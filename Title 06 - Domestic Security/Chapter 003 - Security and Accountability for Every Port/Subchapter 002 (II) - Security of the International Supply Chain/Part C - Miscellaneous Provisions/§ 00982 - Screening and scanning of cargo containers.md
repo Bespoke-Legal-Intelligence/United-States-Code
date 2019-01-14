@@ -90,5 +90,63 @@ The Homeland Security Act of 2002, referred to in subsec. (b)(8)(B), is Pub. L. 
 
 <b>2007</b>—Subsec. (b). Pub. L. 110–53 reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text related to full deployment of an integrated scanning system after the Secretary had determined that such system had met section 981(c) requirements, had a sufficiently low false alarm rate, was capable of being deployed overseas, was capable of integrating with existing systems, would not significantly impact trade flow, and had provided for automated notification of high-risk cargo.
 
+#### Cargo Container Scanning Technology Review
+
+Pub. L. 115–254, div. K, title I, §1979, Oct. 5, 2018, 132 Stat. 3618, provided that:
+
+"(a)
+
+Designations.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], and not less frequently than once every 5 years thereafter until the date of full-scale implementation of 100 percent screening of cargo containers and 100 percent scanning of high-risk containers required under section 232 of the SAFE Port Act (6 U.S.C. 982), the Secretary \[of Homeland Security\] shall solicit proposals for scanning technologies, consistent with the standards under subsection (b)(8) of that section, to improve scanning of cargo at domestic ports.
+
+&emsp;"(2)
+
+Evaluation.—In soliciting proposals under paragraph (1), the Secretary shall establish measures to assess the performance of the proposed scanning technologies, including—
+
+&emsp;&emsp;"(A) the rate of false positives;
+
+&emsp;&emsp;"(B) the delays in processing times; and
+
+&emsp;&emsp;"(C) the impact on the supply chain.
+
+"(b)
+
+Pilot Program.—
+
+&emsp;"(1)
+
+Establishment.—The Secretary may establish a pilot program to determine the efficacy of a scanning technology referred to in subsection (a).
+
+&emsp;"(2)
+
+Application process.—In carrying out the pilot program under this subsection, the Secretary shall—
+
+&emsp;&emsp;"(A) solicit applications from domestic ports;
+
+&emsp;&emsp;"(B) select up to 4 domestic ports to participate in the pilot program; and
+
+&emsp;&emsp;"(C) select ports with unique features and differing levels of trade volume.
+
+&emsp;"(3)
+
+Report.—Not later than 1 year after initiating a pilot program under paragraph (1), the Secretary shall submit to the appropriate committees of Congress \[Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] a report on the pilot program, including—
+
+&emsp;&emsp;"(A) an evaluation of the scanning technologies proposed to improve security at domestic ports and to meet the full-scale implementation requirement;
+
+&emsp;&emsp;"(B) the costs to implement a pilot program;
+
+&emsp;&emsp;"(C) the benefits of the proposed scanning technologies;
+
+&emsp;&emsp;"(D) the impact of the pilot program on the supply chain; and
+
+&emsp;&emsp;"(E) recommendations for implementation of advanced cargo scanning technologies at domestic ports.
+
+&emsp;"(4)
+
+Sharing pilot program testing results.—The results of the pilot testing of advanced cargo scanning technologies shall be shared, as appropriate, with government agencies and private stakeholders whose responsibilities encompass the secure transport of cargo."
+
 <i><sup>1</sup></i><i> So in original. Probably should be "paragraph (2)(B)".</i>
 

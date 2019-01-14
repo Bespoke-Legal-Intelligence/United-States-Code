@@ -2,7 +2,7 @@
 
 (a)
 
-Members Involuntarily Separated From Active Duty.—The Secretary of Defense shall prescribe regulations to allow a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 2007, and ending on December 31, 2018, to continue to use commissary and exchange stores during the two-year period beginning on the date of the involuntary separation of the member in the same manner as a member on active duty. The Secretary concerned shall implement this provision for Coast Guard members involuntarily separated during the same period.
+Members Involuntarily Separated From Active Duty.—The Secretary of Defense shallprescribe regulations to allow a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 2007, and ending on December 31, 2018, to continue to use commissary and exchange stores during the two-year period beginning on the date of the involuntary separation of the member in the same manner as a member on active duty. The Secretary concerned shall implement this provision for Coast Guard members involuntarily separated during the same period.
 
 (b)
 

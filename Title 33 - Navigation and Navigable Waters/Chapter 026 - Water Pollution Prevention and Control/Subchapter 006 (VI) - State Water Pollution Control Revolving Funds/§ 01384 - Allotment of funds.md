@@ -2,7 +2,7 @@
 
 #### (a) Formula
 
-Sums authorized to be appropriated to carry out this section for each of fiscal years 1989 and 1990 shall be allotted by the Administrator in accordance with section 1285(c) of this title.
+Sums authorized to be appropriated to carry out this section for each of fiscal years 1989 and1990 shall be allotted by the Administrator in accordance with section 1285(c) of this title.
 
 #### (b) Reservation of funds for planning
 

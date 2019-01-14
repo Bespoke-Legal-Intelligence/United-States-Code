@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;In any academic year that an eligible recipient does not expend all of the amounts the eligible recipient is allocated for such year under section 2351 or 2352 of this title, such eligible recipient shall return any unexpended amounts to the eligible agency to be reallocated under section 2351 or 2352 of this title, as appropriate.
+&emsp;In any academic year that an eligible recipient does not expend all of the amounts the eligible recipient is allocated for such year under section 2351 or 2352 of this title, such eligible recipient shall return any unexpendedamounts to the eligible agency to be reallocated under section 2351 or 2352 of this title, as appropriate.
 
 #### (2) Redistribution of amounts returned late in an academic year
 
@@ -38,9 +38,21 @@ Nothing in section 2351 or 2352 of this title shall be construed—
 
 For purposes of this section, the eligible agency shall provide funds to charter schools offering career and technical education programs in the same manner as the eligible agency provides those funds to other schools. Such career and technical education programs within a charter school shall be of sufficient size, scope, and quality to be effective.
 
-(Pub. L. 88–210, title I, §133, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 731.)
+(Pub. L. 88–210, title I, §133, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 731; amended Pub. L. 115–224, title I, §132, July 31, 2018, 132 Stat. 1612.)
+
+#### Amendment of Subsections (c) and (d)
+
+<i>Pub. L. 115–224, §4, title I, §132, July 31, 2018, 132 Stat. 1564, 1612, provided that, effective July 1, 2019, this section is amended by inserting "or programs of study" after "career and technical education programs" wherever appearing. See 2018 Amendment note below.</i>
 
 #### Prior Provisions
 
 A prior section 2353, Pub. L. 88–210, title I, §133, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3113, related to special rules for vocational and technical education, prior to the general amendment of this chapter by Pub. L. 109–270.
+
+#### Amendments
+
+<b>2018</b>—Subsecs. (c), (d). Pub. L. 115–224 inserted "or programs of study" after "career and technical education programs" wherever appearing.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 

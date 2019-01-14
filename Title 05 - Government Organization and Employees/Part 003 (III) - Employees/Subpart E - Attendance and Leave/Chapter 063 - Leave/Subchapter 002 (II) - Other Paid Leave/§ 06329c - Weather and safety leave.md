@@ -30,11 +30,11 @@ Leave for Weather and Safety Issues.—An agency may approve the provision of le
 
 (c)
 
-Records.—An agency shall record leave provided under this section separately from leave authorized under any other provision of law.
+Records.—An agency shall record leave provided under this section separately fromleave authorized under any other provision of law.
 
 (d)
 
-Regulations.—Not later than 270 days after the date of enactment of this section, theDirector of the Office of Personnel Management shall prescribe regulations to carry out this section, including—
+Regulations.—Not later than 270 days after the date of enactment of this section, the Director of the Office of Personnel Management shall prescribe regulations to carry out this section, including—
 
 &emsp;(1) guidance to agencies regarding the appropriate purposes for providing leave under this section; and
 

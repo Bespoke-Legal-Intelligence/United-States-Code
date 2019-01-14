@@ -22,5 +22,5 @@ Subsec. (a). Pub. L. 103–199, §301(2)(B)–(E), substituted "agreements with 
 
 #### Definitions
 
-In subsec. (a), independent states of the former Soviet Union and independent states have the meanings givenin section 5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
+In subsec. (a), independent states of the former Soviet Union and independent states have the meanings given in section 5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
 

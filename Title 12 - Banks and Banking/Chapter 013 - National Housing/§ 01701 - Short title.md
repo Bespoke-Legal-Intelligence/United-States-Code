@@ -6,7 +6,7 @@ This chapter may be cited as the "National Housing Act."
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning act June 27, 1934, ch. 847, 48 Stat.1246, as amended, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
 #### Short Title of 2013 Amendment
 
@@ -70,7 +70,7 @@ Pub. L. 106–74, title V, §501(a), Oct. 20, 1999, 113 Stat. 1100, provided tha
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–65, title V, §510, Oct. 27, 1997, 111 Stat. 1385, provided that: "This title \[enacting section 1437z–1of Title 42, The Public Health and Welfare, amending sections 1708, 1715z–1, 1715z–4a, 1715z–19, 1735f–14, 1735f–15, 1735f–19, and 4565 of this title, section 1516 of Title 18, Crimes and Criminal Procedure, section 6103 of Title 26, Internal Revenue Code, and sections 503, 1437f, and 1437z of Title 42, enacting provisions set out as notes under sections 1735f–14 and 1735f–15 of this title and sections 503, 1437f, and 1437z–1 of Title 42, and amending provisions set out as notes under section 1437f of Title 42\] may be cited as the 'Multifamily Assisted Housing Reform and Affordability Act of 1997'."
+Pub. L. 105–65, title V, §510, Oct. 27, 1997, 111 Stat. 1385, provided that: "This title \[enacting section 1437z–1 of Title 42, The Public Health and Welfare, amending sections 1708, 1715z–1, 1715z–4a, 1715z–19, 1735f–14, 1735f–15, 1735f–19, and 4565 of this title, section 1516 of Title 18, Crimes and Criminal Procedure, section 6103 of Title 26, Internal Revenue Code, and sections 503, 1437f, and 1437z of Title 42, enacting provisions set out as notes under sections 1735f–14 and 1735f–15 of this title and sections 503, 1437f, and 1437z–1 of Title 42, and amending provisions set out as notes under section 1437f of Title 42\] may be cited as the 'Multifamily Assisted Housing Reform and Affordability Act of 1997'."
 
 #### Short Title of 1996 Amendment
 
@@ -78,7 +78,7 @@ Pub. L. 104–120, §1, Mar. 28, 1996, 110 Stat. 834, provided that: "This Act \
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–233, §1(a), Apr. 11, 1994, 108 Stat. 342, provided that: "This Act \[enacting sections 1735f–19 and 1735f–20 of this title and sections 1437x, 3547, 5321, and 12840 of Title 42, The Public Health and Welfare, amending sections 1701z–11, 1713, 1715e, 1715k, 1715y, 1715z–1a, 1715z–3, and 1735c of this title and sections 1437a, 1437d, 1437f, 1437g, 1437l, 3535, 4852, 5301, 5304, 5305, 5308, 5318, 12704, 12744, 12745, 12750, 12833, 12838, and 12893 of Title 42, enacting provisions set out as notes under sections 1701z–11, 1715n, and 1715z–1a of this title and sections 5301 and 5318 of Title 42, amending provisions set out as notes under sections 1707 and 1715z–1a of this title and section 3545 of Title 42, and repealing provisions set out as a note under section 1701z–11 of this title\] may be cited as the 'Multifamily Housing Property Disposition Reform Act of 1994'."
+Pub. L. 103–233, §1(a), Apr. 11, 1994, 108 Stat. 342, provided that: "This Act \[enacting sections 1735f–19 and 1735f–20 of this title and sections 1437x, 3547, 5321, and12840 of Title 42, The Public Health and Welfare, amending sections 1701z–11, 1713, 1715e, 1715k, 1715y, 1715z–1a, 1715z–3, and 1735c of this title and sections 1437a, 1437d, 1437f, 1437g, 1437l, 3535, 4852, 5301, 5304, 5305, 5308, 5318, 12704, 12744, 12745, 12750, 12833, 12838, and 12893 of Title 42, enacting provisions set out as notes under sections 1701z–11, 1715n, and 1715z–1a of this title and sections 5301 and 5318 of Title 42, amending provisions set out as notes under sections 1707 and 1715z–1a of this title and section 3545 of Title 42, and repealing provisions set out as a note under section 1701z–11 of this title\] may be cited as the 'Multifamily Housing Property Disposition Reform Act of 1994'."
 
 #### Short Title of 1992 Amendment
 
@@ -108,7 +108,7 @@ Pub. L. 95–24, §1, Apr. 30, 1977, 91 Stat. 55, provided: "That this Act \[ame
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–375, §1, Aug. 3, 1976, 90 Stat. 1067, provided that: "This Act \[enacting section 1701z–7 of this title,amending sections 1464, 1701j–2, 1701q, 1701z–1 to 1701z–3, 1706e, 1713, 1715e, 1715k, 1715l, 1715v, 1715y, 1715z, 1715z–1, 1715z–6, 1715z–9, 1715z–10, 1723, 1723a, 1723e, 1735b, 1735c, 2708, 2709, and 2710 of this title, section 5315 of Title 5, Government Organization and Employees, section 461 of former Title 40, Public Buildings, Property, and Works, sections 1437a, 1437c, 1437f, 1437g, 1452b, 1480, 1490, 1490a, 3535, 4056, 4106, 4127, 4521, 5303, 5305, 5307, and 5316 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 1437c and 1723e of this title, section 461 of former Title 40, and section 1382 of Title 42, and amending provisions set out as notes under sections 1715e and 1723e of this title\] may be cited as the 'Housing Authorization Act of 1976'."
+Pub. L. 94–375, §1, Aug. 3, 1976, 90 Stat. 1067, provided that: "This Act \[enacting section 1701z–7 of this title, amending sections 1464, 1701j–2, 1701q, 1701z–1 to 1701z–3, 1706e, 1713, 1715e, 1715k, 1715l, 1715v, 1715y, 1715z, 1715z–1, 1715z–6, 1715z–9, 1715z–10, 1723, 1723a, 1723e, 1735b, 1735c, 2708, 2709, and 2710 of this title, section 5315 of Title 5, Government Organization and Employees, section 461 of former Title 40, Public Buildings, Property, and Works, sections 1437a, 1437c, 1437f, 1437g, 1452b, 1480, 1490, 1490a, 3535, 4056, 4106, 4127, 4521, 5303, 5305, 5307, and 5316 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 1437c and 1723e of this title, section 461 of former Title 40, and section 1382 of Title 42, and amending provisions set out as notes under sections 1715e and 1723e of this title\] may be cited as the 'Housing Authorization Act of 1976'."
 
 #### Short Title of 1975 Amendment
 
@@ -116,7 +116,7 @@ Pub. L. 94–13, prec. §1, Apr. 8, 1975, 89 Stat. 68, provided: "That this Act 
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–449, §1, Oct. 18, 1974, 88 Stat. 1364, provided that: "This Act \[enacting section 1723e of this title, amending sections 347b, 1430, 1464, 1703, and 1709 of this title, enacting provisions set out as notes under section 1723e of this title, and amending provisions set out as a note under section 1904 of this title\] may be cited as the 'Emergency Home Purchase Assistance Act of 1974'."
+Pub. L. 93–449, §1, Oct. 18, 1974, 88 Stat. 1364, provided that: "This Act \[enacting section 1723e of this title,amending sections 347b, 1430, 1464, 1703, and 1709 of this title, enacting provisions set out as notes under section 1723e of this title, and amending provisions set out as a note under section 1904 of this title\] may be cited as the 'Emergency Home Purchase Assistance Act of 1974'."
 
 #### Short Title of 1970 Amendments
 
@@ -142,7 +142,7 @@ Pub. L. 89–429, §1, May 24, 1966, 80 Stat. 164, provided: "That this act \[en
 
 #### Short Title of 1965 Amendment
 
-Pub. L. 89–117, §1, Aug. 10, 1965, 79 Stat. 451, provided: "That this Act \[enacting sections 1701s and 1735c to 1735h, and subchapter IX–A of chapter 13 of this title, subchapter IV–A of chapter 14B of Title 15, Commerce and Trade, and sections 1421b, 1466 to 1468, 1500c–1, 1500c–2, 1500c–3, and 1487 to 1490, and chapters 36 and 37 of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 1701d–3, 1701q, and 1749 of this title, section 462 of former Title 40, Public Buildings, Property, and Works, and sections 1451, 1453, 1455, 1460, 1465, 1466, and 3074 of Title 42, amending sections 371, 1464, 1701q, 1701o, 1701h, 1702, 1703, 1706c, 1709, 1710, 1713, 1715, 1715c, 1715e, 1715h, 1715k, 1715l, 1715m, 1715n, 1715t, 1715v, 1715w, 1715x, 1715y, 1717, 1718, 1720, 1721, 1727, 1739, 1743, 1744, 1747f, 1747g, 1748b, 1748h, 1748h–1, 1748h–2, 1749, 1749c, 1750, 1750c, and 1750g of this title, sections 633 and 671 of Title 15, sections 802 and 803 of Title 20, Education, sections 1804 \[now 3704\] and 1816 \[now 3732\] of Title 38, Veterans' Benefits, sections 461 and 462 of former Title 40, sections 1402, 1410, 1412, 1415, 1421a, 1422, 1451, 1452, 1452b, 1453, 1455, 1456, 1460, 1463, 1465, 1471, 1472, 1476, 1481, 1482, 1483, 1485, 1492, 1500, 1500a, 1500b, 1500c, 1500d, and 1500e of Title 42, and sections 1605 and 1608 of Title 49, Transportation, and repealing sections 1715j, 1737, 1740, 1747i, 1748a, 1748c, 1750a and 1750d of this title\] may be cited as the 'Housing and Urban Development Act of 1965'."
+Pub. L. 89–117, §1, Aug. 10, 1965, 79 Stat. 451, provided: "That this Act \[enacting sections 1701s and 1735c to 1735h, and subchapter IX–A of chapter 13 of this title, subchapter IV–A of chapter 14B of Title 15, Commerce and Trade, and sections 1421b, 1466 to 1468, 1500c–1, 1500c–2, 1500c–3, and 1487 to 1490, and chapters 36 and 37 of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 1701d–3, 1701q, and 1749 of this title, section 462 of former Title 40, Public Buildings, Property, and Works, and sections 1451, 1453, 1455, 1460, 1465, 1466, and 3074 of Title 42, amending sections 371, 1464, 1701q, 1701o, 1701h, 1702, 1703, 1706c, 1709, 1710, 1713, 1715, 1715c, 1715e, 1715h, 1715k, 1715l, 1715m, 1715n, 1715t, 1715v, 1715w, 1715x, 1715y, 1717, 1718, 1720, 1721, 1727, 1739, 1743, 1744, 1747f, 1747g, 1748b, 1748h, 1748h–1, 1748h–2, 1749, 1749c, 1750, 1750c, and 1750g of this title, sections 633 and 671 of Title 15, sections 802 and 803 of Title 20, Education, sections 1804 \[now 3704\] and 1816 \[now 3732\] of Title 38, Veterans' Benefits, sections 461 and 462 of former Title 40, sections 1402, 1410, 1412, 1415, 1421a, 1422, 1451, 1452, 1452b, 1453, 1455, 1456, 1460, 1463, 1465, 1471, 1472, 1476, 1481, 1482, 1483, 1485, 1492, 1500, 1500a, 1500b, 1500c, 1500d, and 1500e of Title 42, and sections 1605 and 1608 of Title 49, Transportation, and repealing sections 1715j, 1737, 1740, 1747i, 1748a, 1748c, 1750aand 1750d of this title\] may be cited as the 'Housing and Urban Development Act of 1965'."
 
 #### Short Title of 1964 Amendment
 
@@ -182,7 +182,7 @@ Act June 30, 1953, ch. 170, §1, 67 Stat. 121, provided: "This Act \[enacting se
 
 #### Short Title of 1952 Amendment
 
-Act July 14, 1952, ch. 723, §1, 66 Stat. 601, provided that: "This Act \[enacting sections 1701m, 1706d, and 1715i of this title and amending sections 1422, 1423, 1464, 1466, 1701g–2, 1707, 1713, 1715d, 1715h, 1716, 1717, 1726, 1736, 1745, 1747l, 1748, and 1750b of this title; sections 1481 to 1483, 1589a, 1592a, 1592l, and 1593 of Title 42, The Public Health and Welfare; and sections 484 and 484d of Title 48, Territories and Insular Possessions\] may be cited as the 'Housing Act of 1952'."
+Act July 14, 1952, ch. 723, §1, 66 Stat. 601, provided that: "This Act \[enacting sections 1701m, 1706d, and 1715i of this title and amending sections 1422, 1423, 1464,1466, 1701g–2, 1707, 1713, 1715d, 1715h, 1716, 1717, 1726, 1736, 1745, 1747l, 1748, and 1750b of this title; sections 1481 to 1483, 1589a, 1592a, 1592l, and 1593 of Title 42, The Public Health and Welfare; and sections 484 and 484d of Title 48, Territories and Insular Possessions\] may be cited as the 'Housing Act of 1952'."
 
 #### Short Title of 1950 Amendment
 

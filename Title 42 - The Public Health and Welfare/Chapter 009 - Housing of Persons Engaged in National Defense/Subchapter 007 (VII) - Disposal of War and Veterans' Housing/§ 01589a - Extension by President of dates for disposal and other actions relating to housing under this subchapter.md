@@ -40,7 +40,7 @@ This order supersedes Executive Order 10284, dated September 1, 1951.
 
 Ex. Ord. No. 10385, Aug. 16, 1952, 17 F.R. 7525, provided:
 
-The time stipulated in section 313 of the said act approved October 14, 1940, as amended \[section 1553 of this title\], within which, subject to the qualifications stated in the said section 313 \[section 1553 of this title\], housing of a temporary character under the jurisdiction of the Housing and Home Finance Administrator and constructed under certain laws must be removed is hereby extended from December 31, 1952, to July 1, 1954.
+The time stipulated in section 313 of the said act approved October 14, 1940, as amended \[section 1553 of thistitle\], within which, subject to the qualifications stated in the said section 313 \[section 1553 of this title\], housing of a temporary character under the jurisdiction of the Housing and Home Finance Administrator and constructed under certain laws must be removed is hereby extended from December 31, 1952, to July 1, 1954.
 
 #### Ex. Ord. No. 10395. Extension of Time
 

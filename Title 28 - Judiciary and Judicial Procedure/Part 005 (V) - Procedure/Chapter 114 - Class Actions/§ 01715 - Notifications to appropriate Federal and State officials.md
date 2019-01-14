@@ -20,7 +20,7 @@ Appropriate state official.—In this section, the term "appropriate State offic
 
 In General.—Not later than 10 days after a proposed settlement of a class action is filed in court, each defendant that is participating in the proposed settlement shall serve upon the appropriate State official of each State in which a class member resides and the appropriate Federal official, a notice of the proposed settlement consisting of—
 
-&emsp;(1) a copy of the complaint and any materials filed with the complaint and any amended complaints (except such materials shall notbe required to be served if such materials are made electronically available through the Internet and such service includes notice of how to electronically access such material);
+&emsp;(1) a copy of the complaint and any materials filed with the complaint and any amended complaints (except such materials shall not be required to be served if such materials are made electronically available through the Internet and such service includes notice of how to electronically access such material);
 
 &emsp;(2) notice of any scheduled judicial hearing in the class action;
 
@@ -66,7 +66,7 @@ Noncompliance if Notice Not Provided.—
 
 &emsp;(1)
 
-In general.—A class member may refuse to comply with and may choose not to be bound by a settlement agreement or consent decree in a class action if the class member demonstrates that the notice required under subsection (b) has not been provided.
+In general.—A class member may refuse to comply with and may choose not to bebound by a settlement agreement or consent decree in a class action if the class member demonstrates that the notice required under subsection (b) has not been provided.
 
 &emsp;(2)
 

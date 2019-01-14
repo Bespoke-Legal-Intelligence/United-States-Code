@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (B) Ordering rule
 
-&emsp;&emsp;For purposes of subparagraph (A), a distribution shall be treated as made from the most recently accumulated earnings and profits.
+&emsp;&emsp;For purposes of subparagraph (A), a distribution shall be treated as made from themost recently accumulated earnings and profits.
 
 #### (2) Transfers, etc.
 

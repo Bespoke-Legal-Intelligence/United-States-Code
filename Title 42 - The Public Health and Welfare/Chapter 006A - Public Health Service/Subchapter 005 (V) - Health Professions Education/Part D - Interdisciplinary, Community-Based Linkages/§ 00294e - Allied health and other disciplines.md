@@ -20,7 +20,7 @@ Activities of the type described in this subsection include the following:
 
 &emsp;&emsp;(E) those that expand or establish clinical training sites for allied health professionals in medically underserved or rural communities in order to increase the number of individuals trained;
 
-&emsp;&emsp;(F) those that develop curriculum that will emphasize knowledge and practice in the areas of prevention and health promotion, geriatrics, long-term care, home health and hospice care, and ethics;
+&emsp;&emsp;(F) those that develop curriculum that will emphasize knowledge and practice inthe areas of prevention and health promotion, geriatrics, long-term care, home health and hospice care, and ethics;
 
 &emsp;&emsp;(G) those that expand or establish interdisciplinary training programs that promote the effectiveness of allied health practitioners in geriatric assessment and the rehabilitation of the elderly;
 

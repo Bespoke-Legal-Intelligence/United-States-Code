@@ -12,7 +12,7 @@ National Executive Committee.—(1) The national executive committee is the gove
 
 (c)
 
-Officers.—(1) The officers of the corporation are a president, a president elect, 3 vice presidents, 3 junior vice presidents, a minimumof 3 national executive committee members, an executive director, a national treasurer, a judge advocate, and other officers specified in the constitution of the corporation.
+Officers.—(1) The officers of the corporation are a president, a president elect, 3 vice presidents, 3 junior vice presidents, a minimum of 3 national executive committee members, an executive director, a national treasurer, a judge advocate, and other officers specified in the constitution of the corporation.
 
 (2) The national officers of the corporation shall be elected and take office at the annual national convention, except for the executive director, the national treasurer, the judge advocate, and any other national officers specified in the constitution of the corporation, who shall be appointed by the national executive committee.
 
@@ -92,7 +92,7 @@ In subsection (d)(2), the words "If the president is absent or the office of pre
 
 <b>2009</b>—Subsec. (b)(2). Pub. L. 111–113, §2(a), inserted "the president elect," after "the president," and "a minimum of" before "3 national executive committee members," and substituted "except the president elect and the executive director," for "except the executive director,".
 
-Subsec. (c)(1). Pub. L. 111–113, §2(b)(1), inserted "a president elect," after "a president," and "a minimum of" before "3 national executive committee members,", struck out "a surgeon, a chaplain, a historian, a public relations officer," after "a judge advocate,", and substituted "specified in the constitution of the corporation" for "as decided at the national convention".
+Subsec. (c)(1). Pub. L. 111–113, §2(b)(1), inserted "a president elect," after "a president," and "a minimum of" before "3 national executive committee members,",struck out "a surgeon, a chaplain, a historian, a public relations officer," after "a judge advocate,", and substituted "specified in the constitution of the corporation" for "as decided at the national convention".
 
 Subsec. (c)(2). Pub. L. 111–113, §2(b)(2), inserted "and take office" after "be elected" and substituted "the judge advocate, and any other national officers specified in the constitution of the corporation," for "and the national public relations officer,".
 

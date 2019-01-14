@@ -48,7 +48,7 @@ There is an Office of Inspector General within the Library of Congress which is 
 
 #### (2) Employees
 
-&emsp;The Inspector General, in carrying out the provisions of this section, is authorized to select, appoint, and employ such officers and employees (including consultants) as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General subject to the provisions of law governing selections, appointments, and employment in the Library of Congress.
+&emsp;The Inspector General, in carrying out the provisions of this section, is authorized to select, appoint, and employ such officers andemployees (including consultants) as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General subject to the provisions of law governing selections, appointments, and employment in the Library of Congress.
 
 #### (e) Transfers
 

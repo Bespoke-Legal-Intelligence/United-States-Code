@@ -196,7 +196,7 @@ Pub. L. 108–458, title VII, §7308, Dec. 17, 2004, 118 Stat. 3849, provided th
 
 #### Transfer of Functions
 
-For transfer of the SAFECOM Program, excluding elements related to research, development, testing, and evaluation and standards, to the Director for Emergency Communications, see section 571(d)(1) of this title.
+For transfer of the SAFECOM Program, excluding elements related to research, development, testing, and evaluation and standards, to the Assistant Director for Emergency Communications, see section 571(d)(1) of this title.
 
 #### Department of Homeland Security Interoperable Communications
 
@@ -298,7 +298,7 @@ Pub. L. 110–53, title XXII, §2203, Aug. 3, 2007, 121 Stat. 541, provided that
 
 "(a)
 
-In General.—Not later than 90 days after the date of enactment of this Act \[Aug. 3, 2007\], the Federal Communications Commission, in consultation with the Department of Homeland Security's Office of Emergency Communications, the Office of Management of \[sic\] Budget, and the Department of State shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce on—
+In General.—Not later than 90 days after the date of enactment of this Act \[Aug. 3, 2007\], the Federal Communications Commission, in consultation with the Department of Homeland Security's Office of Emergency Communications \[now Emergency Communications Division\], the Office of Management of \[sic\] Budget, and the Department of State shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce on—
 
 &emsp;"(1) the status of the mechanism established by the President under section 7303(c) of the Intelligence Reform and Terrorism Prevention Act of 2004 (6 U.S.C. 194(c)) for coordinating cross border interoperability issues between—
 
@@ -346,7 +346,7 @@ Pub. L. 110–53, title XXII, §2205, Aug. 3, 2007, 121 Stat. 543, provided that
 
 #### Regional Model Strategic Plan Pilot Projects
 
-Pub. L. 108–458, title VII, §7304, Dec. 17, 2004, 118 Stat. 3847, directed the Secretary of Homeland Security, notlater than 90 days after Dec. 17, 2004, to establish not fewer than 2 pilot projects in high threat urban areas or regions likely to implement a national model strategic plan in order to develop a regional strategic plan to foster interagency communication and coordinate the gathering of all Federal, State, and local first responders in that area, consistent with the national strategic plan developed by the Department of Homeland Security, and to submit to Congress an interim report regarding the progress of the interagency communications pilot projects 6 months after Dec. 17, 2004, and a final report 18 months after Dec. 17, 2004.
+Pub. L. 108–458, title VII, §7304, Dec. 17, 2004, 118 Stat. 3847, directed the Secretary of Homeland Security, not later than 90 days after Dec. 17, 2004, to establish not fewer than 2 pilot projects in high threat urban areas or regions likely to implement a national model strategic plan in order to develop a regional strategic plan to foster interagency communication and coordinate the gathering of all Federal, State, and local first responders in that area, consistent with the national strategic plan developed by the Department of Homeland Security, and to submit to Congress an interim report regarding the progress of the interagency communications pilot projects 6 months after Dec. 17, 2004, and a final report 18 months after Dec. 17, 2004.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

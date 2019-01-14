@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) monitoring plans filed under chapters 12 and 13 of title 11 and filing with the court, in connection with hearings under sections 1224, 1229, 1324, and 1329 of such title, comments with respect to such plans;
 
-&emsp;&emsp;(D) taking such action as the United States trustee deems to be appropriate to ensure that all reports, schedules, and fees required to be filed under title 11 and this title by the debtor are properly and timely filed;
+&emsp;&emsp;(D) taking such action as the United States trustee deems to be appropriate toensure that all reports, schedules, and fees required to be filed under title 11 and this title by the debtor are properly and timely filed;
 
 &emsp;&emsp;(E) monitoring creditors' committees appointed under title 11;
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(C) review and monitor diligently the debtor's activities, to determine as promptly as possible whether the debtor will be unable to confirm a plan; and
 
-&emsp;(8) in any case in which the United States trustee finds material grounds for any relief under section 1112 of title 11, apply promptlyafter making that finding to the court for relief.
+&emsp;(8) in any case in which the United States trustee finds material grounds for any relief under section 1112 of title 11, apply promptly after making that finding to the court for relief.
 
 (b) If the number of cases under chapter 12 or 13 of title 11 commenced in a particular region so warrants, the United States trustee for such region may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustees to serve in cases under such chapter. The United States trustee for such region shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.
 
@@ -140,7 +140,7 @@ Subsec. (e)(3), (4). Pub. L. 109–8, §1231(b), added pars. (3) and (4).
 
 Subsec. (f). Pub. L. 109–8, §603(b)(2), added subsec. (f).
 
-<b>1994</b>—Subsec. (a)(3). Pub. L. 103–394 inserted "12," after "11," in introductory provisions and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "monitoring applications for compensation and reimbursement filed under section 330 of title 11 and, whenever the United States trustee deems it to be appropriate, filing with the court comments with respect to any of such applications;".
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–394 inserted "12," after "11," in introductory provisions and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "monitoring applications for compensation and reimbursement filed under section 330 of title 11 and, whenever the United States trustee deemsit to be appropriate, filing with the court comments with respect to any of such applications;".
 
 <b>1990</b>—Subsec. (e)(1)(A). Pub. L. 101–509 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "a maximum annual compensation for such individual, not to exceed the annual rate of basic pay in effect for step 1 of grade GS–16 of the General Schedule prescribed under section 5332 of title 5; and".
 
@@ -212,5 +212,5 @@ Procedures.—Those procedures required by paragraph (1) shall—
 
 #### Application to All Standing Trustees
 
-Pub. L. 101–509, title V, §529 \[title I, §110(b)\], Nov. 5, 1990, 104 Stat. 1427, 1452, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any trustee to whom the provisions of section 302(d)(3) of the Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986 (Public Law 99–54 \[Pub. L. 99–554\]; 100 Stat. 3121) \[set out in an Effective Date of 1986 Amendment note under section 581 of this title\] apply."
+Pub. L. 101–509, title V, §529 \[title I, §110(b)\], Nov. 5, 1990, 104 Stat. 1427, 1452, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any trustee to whom the provisions of section 302(d)(3) of the Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of1986 (Public Law 99–54 \[Pub. L. 99–554\]; 100 Stat. 3121) \[set out in an Effective Date of 1986 Amendment note under section 581 of this title\] apply."
 

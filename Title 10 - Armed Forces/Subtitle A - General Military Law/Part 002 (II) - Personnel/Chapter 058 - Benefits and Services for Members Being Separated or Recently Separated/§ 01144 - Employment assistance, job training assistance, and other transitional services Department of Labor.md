@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) The Secretary of Labor, in conjunction with the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Such services shall be provided to a member within the time periods provided under paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section.
+In General.—(1) The Secretary of Labor, in conjunction with the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Subject to subsection (f)(2), such services shall be provided to a member within the time periods provided under paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section.
 
 (2) The Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs shall cooperate with the Secretary of Labor in establishing and maintaining the program under this section.
 
@@ -26,13 +26,11 @@ Elements of Program.—In establishing and carrying out a program under this sec
 
 &emsp;(7) Work with military and veterans' service organizations and other appropriate organizations in promoting and publicizing job fairs for such members.
 
-&emsp;(8) Provide information regarding the public and community service jobs program carried out under section 1143a of this title.
+&emsp;(8) Provide information about disability-related employment and education protections.
 
-&emsp;(9) Provide information about disability-related employment and education protections.
+&emsp;(9) Provide information regarding the required deduction, pursuant to subsection (h) of section 1175a of this title, from disability compensation paid by the Secretary of Veterans Affairs of amounts equal to any voluntary separation pay received by the member under such section.
 
-&emsp;(10) Provide information regarding the required deduction, pursuant to subsection (h) of section 1175a of this title, from disability compensation paid by the Secretary of Veterans Affairs of amounts equal to any voluntary separation pay received by the member under such section.
-
-&emsp;(11) Acting through the Secretary of the department in which the Coast Guard is operating, provide information on career and employment opportunities available to members with transportation security cards issued under section 70105 of title 46.
+&emsp;(10) Acting through the Secretary of the department in which the Coast Guard is operating, provide information on career and employment opportunities available to members with transportation security cards issued under section 70105 of title 46.
 
 (c)
 
@@ -70,23 +68,41 @@ Use of Personnel and Organizations.—In carrying out the program established un
 
 (e)
 
-Participation in Apprenticeship Programs.—As part of the program carried out under this section, the Secretary of Defense and the Secretary of Homeland Security may permit a member of the armed forces eligible for assistance under the program to participate in an apprenticeship program registered under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act"; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.), or a pre-apprenticeship program that provides credit toward a program registered under such Act, that provides members of the armed forces with the education, training, and services necessary to transition to meaningful employment that leads to economic self-sufficiency.
+Participation in Apprenticeship Programs.—As part of the program carried out under this section, the Secretary of Defense and the Secretary of Homeland Security may permit a member of the armed forces eligible for assistance under the program to participate in an apprenticeship program registered under the Actof August 16, 1937 (commonly known as the "National Apprenticeship Act"; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.), or a pre-apprenticeship program that provides credit toward a program registered under such Act, that provides members of the armed forces with the education, training, and services necessary to transition to meaningful employment that leads to economic self-sufficiency.
 
 (f)
 
-Additional Training Opportunities.—(1) As part of the program carried out under this section, the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating, when the Coast Guard is not operating within the Department of the Navy, shall permit a member of the armed forces eligible for assistance under the program to elect to receive additional training in any of the following subjects:
+Program Contents.—(1) The program carried out under this section shall consist of instruction as follows:
 
-&emsp;(A) Preparation for higher education or training.
+&emsp;(A) One day of preseparation training specific to the armed force concerned, as determined by the Secretary concerned.
 
-&emsp;(B) Preparation for career or technical training.
+&emsp;(B) One day of instruction regarding—
 
-&emsp;(C) Preparation for entrepreneurship.
+&emsp;&emsp;(i) benefits under laws administered by the Secretary of Veterans Affairs; and
 
-&emsp;(D) Other training options determined by the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating, when the Coast Guard is not operating within the Department of the Navy.
+&emsp;&emsp;(ii) other subjects determined by the Secretary concerned.
 
-(2) The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating, when the Coast Guard is not operating within the Department of the Navy, shall ensure that a member of the armed forces who elects to receive additional training in subjects available under paragraph (1) is able to receive the training.
+&emsp;(C) One day of instruction regarding preparation for employment.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718; Pub. L. 113–66, div. A, title V, §521(a), Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–92, div. A, title V, §553, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §§563, 564(a), Dec. 23, 2016, 130 Stat. 2138.)
+&emsp;(D) Two days of instruction regarding a topic selected by the member from the following subjects:
+
+&emsp;&emsp;(i) Preparation for employment.
+
+&emsp;&emsp;(ii) Preparation for education.
+
+&emsp;&emsp;(iii) Preparation for vocational training.
+
+&emsp;&emsp;(iv) Preparation for entrepreneurship.
+
+&emsp;&emsp;(v) Other options determined by the Secretary concerned.
+
+(2) The Secretary concerned may permit a member to attend training and instruction under the program established under this section—
+
+&emsp;(A) before the time periods established under section 1142(a)(3) of this title;
+
+&emsp;(B) in addition to such training and instruction required during such time periods.
+
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718; Pub. L. 113–66, div. A, title V, §521(a), Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–92, div. A, title V, §553, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §§563, 564(a), Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–232, div. A, title V, §§552(b)(1), 553(b)(1), Aug. 13, 2018, 132 Stat. 1770, 1772.)
 
 #### References in Text
 
@@ -95,6 +111,12 @@ Section 408 of Public Law 101–237, referred to in subsec. (b)(2), is set out a
 The National Apprenticeship Act, referred to in subsec. (e), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–232, §552(b)(1)(A), substituted "Subject to subsection (f)(2), such services" for "Such services".
+
+Subsec. (b)(8) to (11). Pub. L. 115–232, §553(b)(1), redesignated pars. (9) to (11) as (8) to (10), respectively, and struck out former par. (8) which read as follows: "Provide information regarding the public and community service jobs program carried out under section 1143a of this title."
+
+Subsec. (f). Pub. L. 115–232, §552(b)(1)(B), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to additional training opportunities.
 
 <b>2016</b>—Subsec. (b)(10). Pub. L. 114–328, §563, added par. (10).
 
@@ -154,6 +176,10 @@ Amendment by section 221(a) of Pub. L. 112–56 effective on the date that is 1 
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
+#### Deadline for Transition Assistance Program
+
+Pub. L. 115–232, div. A, title V, §552(b)(2), Aug. 13, 2018, 132 Stat. 1771, provided that: "The Transition Assistance Program shall comply with the requirements of section 1144(f) of title 10, United States Code, as amended by paragraph (1), not later than 1 year after the date of the enactment of this Act \[Aug. 13, 2018\]."
+
 #### Deadline for Implementation
 
 Pub. L. 114–328, div. A, title V, §564(b), Dec. 23, 2016, 130 Stat. 2138, provided that: "The program carried out under section 1144 of title 10, United States Code, shall satisfy the requirements of subsection (b)(11) of such section (as added by subsection (a) of this section) by not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\]."
@@ -192,7 +218,7 @@ Elements.—The additional information required by paragraph (1) shall include t
 
 &emsp;"(3)
 
-Consultation.—In carrying out this subsection, the Secretary of Defense shall consult with the Secretary of Veterans Affairs, the Secretary ofEducation, and the Director of the Consumer Financial Protection Bureau.
+Consultation.—In carrying out this subsection, the Secretary of Defense shall consult with the Secretary of Veterans Affairs, the Secretary of Education, and the Director of the Consumer Financial Protection Bureau.
 
 "(b)
 
@@ -352,7 +378,7 @@ Publication.—The secretaries described in subsection (a)(1) shall ensure that 
 
 "(c)
 
-Individualized Assessment of Civilian Positions Available Through Military Experiences.—The Secretary of Defense shall ensure that each member of the Armed Forces who is participating in the Transition Assistance Program (TAP) of the Department of Defense receives, as part of such member's participation in that program, an individualized assessment of the various positions of civilian employment in the private sector for which such member may be qualified as a result of the skills developed by such member through various military occupational specialties (MOS), successful completion of resident training courses, attaining various military ranks or rates, or other military experiences. The assessment shall be performed using the results of the study conducted under subsection (a) and such other information as the Secretary of Defense, in consultation with the Secretary of Veterans Affairs and the Secretary of Labor, considers appropriate for that purpose.
+Individualized Assessment of Civilian Positions Available Through Military Experiences.—The Secretary of Defense shall ensure that each member of the Armed Forces who is participating in the Transition Assistance Program (TAP) of the Department of Defense receives, as part of such member's participation in that program, an individualized assessment of the various positions of civilian employment in the private sector for which such member may be qualified as a result of the skills developed by such member through various military occupational specialties\(MOS), successful completion of resident training courses, attaining various military ranks or rates, or other military experiences. The assessment shall be performed using the results of the study conducted under subsection (a) and such other information as the Secretary of Defense, in consultation with the Secretary of Veterans Affairs and the Secretary of Labor, considers appropriate for that purpose.
 
 "(d)
 

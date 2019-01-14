@@ -22,7 +22,7 @@ The Commission shall, to the maximum extent practicable, utilize the resources a
 
 #### (e) Copies of accident or investigation reports to other agencies; conditions
 
-Notwithstanding section 2055(a)(3) of this title, the Commission may provide to another Federal agency or a State or local agency or authority engaged in activities relating to health, safety, or consumer protection, copies of any accident or investigation report made under this chapter by any officer, employee, or agent of the Commission only if (1) information which under section 2055(a)(2) of this title is to be considered confidential is not included in any copy of such report which is provided under this subsection; and (2) each Federal agency and State and local agency and authority which is to receive underthis subsection a copy of such report provides assurances satisfactory to the Commission that the identity of any injured person and any person who treated an injured person will not, without the consent of the person identified, be included in—
+Notwithstanding section 2055(a)(3) of this title, the Commission may provide to another Federal agency or a State or local agency or authority engaged in activities relating to health, safety, or consumer protection, copies of any accident or investigation report made under this chapter by any officer, employee, or agent of the Commission only if (1) information which under section 2055(a)(2) of this title is to be considered confidential is not included in any copy of such report which is provided under this subsection; and (2) each Federal agency and State and local agency and authority which is to receive under this subsection a copy of such report provides assurances satisfactory to the Commission that the identity of any injured person and any person who treated an injured person will not, without the consent of the person identified, be included in—
 
 &emsp;(A) any copy of any such report, or
 
@@ -46,7 +46,7 @@ Notwithstanding section 2055(a)(3) of this title, the Commission may provide to 
 
 &emsp;&emsp;&emsp;(iii) with respect to a foreign law enforcement agency, with the approval of the Attorney General, other foreign criminal laws, if such foreign criminal laws are offenses defined in or covered by a criminal mutual legal assistance treaty in force between the government of the United States and the foreign law enforcement agency's government; and
 
-&emsp;&emsp;(C) in the case of a foreign government agency, such agency is not from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) of title 50.
+&emsp;&emsp;(C) in the case of a foreign government agency, such agency is not from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) <sup>1</sup> of title 50, has repeatedly provided support for acts of international terrorism, unless anduntil such determination is rescinded pursuant to section 4605(j)(4) <sup>1</sup> of title 50.
 
 #### (2) Abrogation of agreements
 
@@ -80,6 +80,10 @@ Whenever the Commission is notified of any voluntary corrective action taken by 
 
 (Pub. L. 92–573, §29, Oct. 27, 1972, 86 Stat. 1230; Pub. L. 94–284, §15, May 11, 1976, 90 Stat. 510; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 110–314, title II, §§207, 235(c)(7), Aug. 14, 2008, 122 Stat. 3044, 3075.)
 
+#### References in Text
+
+Section 4605(j) of title 50, referred to in subsec. (f)(1)(C), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of title 50, see section 4813(c) of title 50, as enacted by Pub. L. 115–232.
+
 #### Amendments
 
 <b>2008</b>—Subsec. (e). Pub. L. 110–314, §235(c)(7), substituted "Notwithstanding section 2055(a)(3) of this title, the Commission" for "The Commission" in introductory provisions.
@@ -93,4 +97,6 @@ Subsecs. (f), (g). Pub. L. 110–314, §207, added subsecs. (f) and (g).
 #### Effective Date
 
 Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

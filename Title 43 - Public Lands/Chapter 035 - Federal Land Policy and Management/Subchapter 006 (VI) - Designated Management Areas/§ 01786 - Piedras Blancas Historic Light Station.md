@@ -34,7 +34,7 @@ Congress finds as follows:
 
 &emsp;(5) The Light Station is historically associated with the nearby world-famous Hearst Castle (Hearst San Simeon State Historical Monument), now administered by the State of California.
 
-&emsp;(6) The Light Station represents a model partnership where future management can be successfully accomplished among the Federal Government, the State of California, San Luis Obispo County, local communities, and private groups.
+&emsp;(6) The Light Station represents a model partnership where future management can be successfully accomplished among the Federal Government, the State of California, San LuisObispo County, local communities, and private groups.
 
 &emsp;(7) Piedras Blancas Historic Light Station Outstanding Natural Area would make a significant addition to the National Landscape Conservation System administered by the Department of the Interior's Bureau of Land Management.
 
@@ -76,7 +76,7 @@ Congress finds as follows:
 
 #### (3) Management plan
 
-&emsp;Not later than 3 years after of <sup>2</sup> May 8, 2008, the Secretary shall complete a comprehensive management plan consistent with the requirements of section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) to provide long-term management guidance for the public lands within the Outstanding Natural Area and fulfill the purposes for which it is established, as set forth in subsection (c)(1). The management plan shall be developed in consultation with appropriate Federal, State, and local government agencies,with full public participation, and the contents shall include—
+&emsp;Not later than 3 years after of <sup>2</sup> May 8, 2008, the Secretary shall complete a comprehensive management plan consistent with the requirements of section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) to provide long-term management guidance for the public lands within the Outstanding Natural Area and fulfill the purposes for which it is established, as set forth in subsection (c)(1). The management plan shall be developed in consultation with appropriate Federal, State, and local government agencies, with full public participation, and the contents shall include—
 
 &emsp;&emsp;(A) provisions designed to ensure the protection of the resources and values described in subsection (c)(1);
 

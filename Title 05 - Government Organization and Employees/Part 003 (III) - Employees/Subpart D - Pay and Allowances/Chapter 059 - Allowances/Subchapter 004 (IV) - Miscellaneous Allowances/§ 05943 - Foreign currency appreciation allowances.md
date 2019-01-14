@@ -2,7 +2,7 @@
 
 (a) The President, under such regulations as he may prescribe, may meet losses sustained by employees and members of the uniformed services while serving in a foreign country due to the appreciation of foreign currency in its relation to the American dollar. Allowances and expenditures under this section are not subject to income taxes.
 
-(b) Annual appropriations are authorized to carry out subsection (a) of this section and to cover any deficiency in the accounts of the Secretary of the Treasury, including interest, arising out of the arrangement approved by the President on July 27, 1933, for the conversioninto foreign currency of checks and drafts of employees and members of the uniformed services for pay and expenses.
+(b) Annual appropriations are authorized to carry out subsection (a) of this section and to cover any deficiency in the accounts of the Secretary of the Treasury, including interest, arising out of the arrangement approved by the President on July 27, 1933, for the conversion into foreign currency of checks and drafts of employees and members of the uniformed services for pay and expenses.
 
 (c) Payment under subsection (a) of this section may not be made to an employee or member of a uniformed service for a period during which his check or draft was converted into foreign currency under the arrangement referred to by subsection (b) of this section.
 
@@ -50,5 +50,5 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Delegation of Functions
 
-Authority of President under subsec. (a) of this section to make recommendations concerning meeting of losses sustained by employees and members of uniformed services while serving in a foreign country due to appreciation of foreign currency in its relation to American dollar and under subsec. (d) of this section to report annually to Congress on expenditures made under subsec. (d) of this section, delegated to Secretary of the Treasury, see section 2 of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+Authority of President under subsec. (a) of this section to make recommendations concerning meeting of losses sustained by employees and members of uniformed services while serving in a foreign country due to appreciation of foreign currency in its relation toAmerican dollar and under subsec. (d) of this section to report annually to Congress on expenditures made under subsec. (d) of this section, delegated to Secretary of the Treasury, see section 2 of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 

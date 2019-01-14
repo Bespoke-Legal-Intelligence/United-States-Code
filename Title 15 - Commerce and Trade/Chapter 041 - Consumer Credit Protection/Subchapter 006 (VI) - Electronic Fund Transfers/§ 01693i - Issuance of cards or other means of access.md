@@ -14,7 +14,7 @@ Notwithstanding the provisions of subsection (a), a person may distribute to a c
 
 &emsp;(1) such card, code, or other means of access is not validated;
 
-&emsp;(2) such distribution is accompanied by a complete disclosure, in accordance with section 1693c of this title, of the consumer's rights and liabilities which will apply if such card, code, or other means of access is validated;
+&emsp;(2) such distribution is accompanied by a complete disclosure, in accordance with section 1693c of this title, of the consumer'srights and liabilities which will apply if such card, code, or other means of access is validated;
 
 &emsp;(3) such distribution is accompanied by a clear explanation, in accordance with regulations of the Bureau, that such card, code, or other means of access is not validated and how the consumer may dispose of such code, card, or other means of access if validation is not desired; and
 

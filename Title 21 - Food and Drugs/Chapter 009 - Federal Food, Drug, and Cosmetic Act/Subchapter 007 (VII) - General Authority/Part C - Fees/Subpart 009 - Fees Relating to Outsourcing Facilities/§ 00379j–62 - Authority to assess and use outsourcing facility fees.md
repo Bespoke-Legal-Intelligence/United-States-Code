@@ -46,7 +46,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;(ii) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years, multiplied by the proportion of personnel compensation and benefits costs to total costs of an average full-time equivalent position of the Food and Drug Administration for the first 3 years of the preceding 4 fiscal years; plus
 
-&emsp;&emsp;&emsp;(iii) the average annual percent change that occurred in the Consumer Price Index for urban consumers (U.S. City Average; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by the proportion of all costs other than personnel compensation and benefits costs to total costs of an average full-timeequivalent position of the Food and Drug Administration for the first 3 years of the preceding 4 fiscal years.
+&emsp;&emsp;&emsp;(iii) the average annual percent change that occurred in the Consumer Price Index for urban consumers (U.S. City Average; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by the proportion of all costs other than personnel compensation and benefits costs to total costs of an average full-time equivalent position of the Food and Drug Administration for the first 3 years of the preceding 4 fiscal years.
 
 #### (B) Compounded basis
 
@@ -116,7 +116,7 @@ Fees authorized under this section shall be collected and available for obligati
 
 #### (h) Annual report to Congress
 
-Not later than 120 calendar days after each fiscal year in which fees are assessed and collected under this section, the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to include a description of feesassessed and collected for such year, a summary description of entities paying the fees, a description of the hiring and placement of new staff, a description of the use of fee resources to support inspecting outsourcing facilities, and the number of inspections and reinspections of such facilities performed each year.
+Not later than 120 calendar days after each fiscal year in which fees are assessed and collected under this section, the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to include a description of fees assessed and collected for such year, a summary description of entities paying the fees, a description of the hiring and placement of new staff, a description of the use of fee resources to support inspecting outsourcing facilities, and the number of inspections and reinspections of such facilities performed each year.
 
 #### (i) Authorization of appropriations
 

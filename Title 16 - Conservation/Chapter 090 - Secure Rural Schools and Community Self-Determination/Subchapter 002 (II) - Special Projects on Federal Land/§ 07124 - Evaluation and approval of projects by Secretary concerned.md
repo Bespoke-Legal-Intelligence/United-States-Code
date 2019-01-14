@@ -84,50 +84,6 @@ Once the Secretary concerned accepts a project for review under section 7123 of 
 
 &emsp;&emsp;&emsp;(iv) the commitment of the contractor to hiring highly qualified workers and local residents.
 
-#### (3) Merchantable timber contracting pilot program
-
-#### (A) Establishment
-
-&emsp;&emsp;The Secretary concerned shall establish a pilot program to implement a certain percentage of approved projects involving the sale of merchantable timber using separate contracts for—
-
-&emsp;&emsp;&emsp;(i) the harvesting or collection of merchantable timber; and
-
-&emsp;&emsp;&emsp;(ii) the sale of the timber.
-
-#### (B) Annual percentages
-
-&emsp;&emsp;Under the pilot program, the Secretary concerned shall ensure that, on a nationwide basis, not less than the following percentage of all approved projects involving the sale of merchantable timber are implemented using separate contracts:
-
-&emsp;&emsp;&emsp;(i) For fiscal year 2008, 35 percent.
-
-&emsp;&emsp;&emsp;(ii) For fiscal year 2009, 45 percent.
-
-&emsp;&emsp;&emsp;(iii) For fiscal year 2010 and fiscal years thereafter, 50 percent.
-
-#### (C) Inclusion in pilot program
-
-&emsp;&emsp;The decision whether to use separate contracts to implement a project involving the sale of merchantable timber shall be made by the Secretary concerned after the approval of the project under this subchapter.
-
-#### (D) Assistance
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;The Secretary concerned may use funds from any appropriated account available to the Secretary for the Federal land to assist in the administration of projects conducted under the pilot program.
-
-#### (ii) Maximum amount of assistance
-
-&emsp;&emsp;&emsp;The total amount obligated under this subparagraph may not exceed $1,000,000 for any fiscal year during which the pilot program is in effect.
-
-#### (E) Review and report
-
-#### (i) Initial report
-
-&emsp;&emsp;&emsp;Not later than September 30, 2010, the Comptroller General shall submit to the Committees on Agriculture, Nutrition, and Forestry and Energy and Natural Resources of the Senate and the Committees on Agriculture and Natural Resources of the House of Representatives a report assessing the pilot program.
-
-#### (ii) Annual report
-
-&emsp;&emsp;&emsp;The Secretary concerned shall submit to the Committees on Agriculture, Nutrition, and Forestry and Energy and Natural Resources of the Senate and the Committees on Agriculture and Natural Resources of the House of Representatives an annual report describing the results of the pilot program.
-
 #### (f) Requirements for project funds
 
 The Secretary shall ensure that at least 50 percent of all project funds be used for projects that are primarily dedicated—
@@ -136,13 +92,15 @@ The Secretary shall ensure that at least 50 percent of all project funds be used
 
 &emsp;(2) to restoration of streams and watersheds.
 
-(Pub. L. 106–393, title II, §204, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3902; amended Pub. L. 112–141, div. F, title I, §100101(a)(6), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, §10(a)(2)(B), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, §524(c)(2), Apr. 16, 2015, 129 Stat. 180.)
+(Pub. L. 106–393, title II, §204, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3902; amended Pub. L. 112–141, div. F, title I, §100101(a)(6), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, §10(a)(2)(B), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, §524(c)(2), Apr. 16, 2015, 129 Stat. 180; Pub. L. 115–141, div. O, title IV, §401(b)(1), Mar. 23, 2018, 132 Stat. 1079.)
 
 #### Prior Provisions
 
 A prior section 204 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(3). Pub. L. 115–141 struck out par. (3) which established a pilot program to implement projects involving the sale of merchantable timber.
 
 <b>2015</b>—Subsec. (e)(3)(B)(iii). Pub. L. 114–10 substituted "fiscal year 2010 and fiscal years thereafter" for "each of fiscal years 2010 through 2013".
 

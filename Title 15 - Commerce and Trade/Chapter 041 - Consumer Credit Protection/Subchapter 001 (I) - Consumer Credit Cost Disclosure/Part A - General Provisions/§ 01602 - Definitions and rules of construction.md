@@ -80,7 +80,7 @@ In general.—The term "high-cost mortgage", and a mortgage referred to in this 
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a transaction for less than $20,000, the lesser of 8 percent of the total transaction amount or $1,000 (or such other dollar amount as the Board shall prescribe by regulation); or
 
-&emsp;&emsp;&emsp;(iii) the credit transaction documents permit the creditor to charge or collectprepayment fees or penalties more than 36 months after the transaction closing or such fees or penalties exceed, in the aggregate, more than 2 percent of the amount prepaid.
+&emsp;&emsp;&emsp;(iii) the credit transaction documents permit the creditor to charge or collect prepayment fees or penalties more than 36 months after the transaction closing or such fees or penalties exceed, in the aggregate, more than 2 percent of the amount prepaid.
 
 &emsp;&emsp;(B)
 
@@ -146,7 +146,7 @@ Calculation of points and fees for open-end consumer credit plans.—In the case
 
 (6) This subsection shall not be construed to limit the rate of interest or the finance charge that a person may charge a consumer for any extension of credit.
 
-(cc) <sup>1</sup> The term "reverse mortgage transaction" means a nonrecourse transaction in which a mortgage, deed of trust, or equivalent consensual security interest is created against the consumer's principal dwelling—
+(cc) The term "reverse mortgage transaction" means a nonrecourse transaction in which a mortgage, deed of trust, or equivalent consensual security interest is created against the consumer's principal dwelling—
 
 &emsp;(1) securing one or more advances; and
 
@@ -158,7 +158,7 @@ Calculation of points and fees for open-end consumer credit plans.—In the case
 
 &emsp;&emsp;(C) the death of the consumer.
 
-(cc) <sup>1</sup>
+(dd)
 
 Definitions Relating to Mortgage Origination and Residential Mortgage Loans.—
 
@@ -180,7 +180,21 @@ Mortgage originator.—The term "mortgage originator"—
 
 &emsp;&emsp;(B) includes any person who represents to the public, through advertising or other means of communicating or providing information (including the use of business cards, stationery, brochures, signs, rate lists, or other promotional items), that such person can or will provide any of the services or perform any of the activities described in subparagraph (A);
 
-&emsp;&emsp;(C) does not include any person who is (i) not otherwise described in subparagraph (A) or (B) and who performs purely administrative or clerical tasks on behalf of a person who is described in any such subparagraph, or (ii) an employee of a retailer of manufactured homes who is not described in clause (i) or (iii) of subparagraph (A) and who does not advise a consumer on loan terms (including rates, fees, and other costs);
+&emsp;&emsp;(C) does not include any person who is—
+
+&emsp;&emsp;&emsp;(i) not otherwise described in subparagraph (A) or (B) and who performs purely administrative or clerical tasks on behalf of a person who is described in any such subparagraph; or
+
+&emsp;&emsp;&emsp;(ii) a retailer of manufactured or modular homes or an employee of the retailer if the retailer or employee, as applicable—
+
+&emsp;&emsp;&emsp;&emsp;(I) does not receive compensation or gain for engaging in activities described in subparagraph (A) that is in excess of any compensation or gain received in a comparable cash transaction;
+
+&emsp;&emsp;&emsp;&emsp;(II) discloses to the consumer—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) in writing any corporate affiliation with any creditor; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if the retailer has a corporate affiliation with any creditor, at least 1 unaffiliated creditor; and
+
+&emsp;&emsp;&emsp;&emsp;(III) does not directly negotiate with the consumer or lender on loan terms (including rates, fees, and other costs).
 
 &emsp;&emsp;(D) does not include a person or entity that only performs real estate brokerage activities and is licensed or registered in accordance with applicable State law, unless such person or entity is compensated by a lender, a mortgage broker, or other mortgage originator or by any agent of such lender, mortgage broker, or other mortgage originator;
 
@@ -220,7 +234,7 @@ Secretary.—The term "Secretary", when used in connection with any transaction 
 
 Servicer.—The term "servicer" has the same meaning as in section 2605(i)(2) of title 12.
 
-(dd)
+(ee)
 
 Bona Fide Discount Points and Prepayment Penalties.—For the purposes of determining the amount of points and fees for purposes of subsection (aa), either the amounts described in paragraph (1) or (2) of the following paragraphs, but not both, shall be excluded:
 
@@ -240,19 +254,25 @@ Bona Fide Discount Points and Prepayment Penalties.—For the purposes of determ
 
 &emsp;(4) Paragraphs (1) and (2) shall not apply to discount points used to purchase an interest rate reduction unless the amount of the interest rate reduction purchased is reasonably consistent with established industry norms and practices for secondary mortgage market transactions.
 
-(Pub. L. 90–321, title I, §103, May 29, 1968, 82 Stat. 147; Pub. L. 91–508, title V, §501, Oct. 26, 1970, 84 Stat. 1126; Pub. L. 93–495, title III, §303, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94–222, §3(a), Feb. 27, 1976, 90 Stat. 197; Pub. L. 96–221, title VI, §§602, 603(a), (b), 604, 612(a)(2), (b), Mar. 31, 1980, 94 Stat. 168, 169, 175, 176; Pub. L. 97–25, title I, §102, July 27, 1981, 95 Stat. 144; Pub. L. 97–320, title VII, §702(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 103–325, title I, §§152(a)–(c), 154(a), Sept. 23, 1994, 108 Stat. 2190, 2191, 2196; Pub. L. 110–315, title X, §1011(b), Aug. 14, 2008, 122 Stat. 3481; Pub. L. 111–24, title I, §108, May 22, 2009, 123 Stat. 1743; Pub. L. 111–203, title X, §1100A(1), (2), title XIV, §§1401, 1431, July 21, 2010, 124 Stat. 2107, 2137, 2157.)
+(Pub. L. 90–321, title I, §103, May 29, 1968, 82 Stat. 147; Pub. L. 91–508, title V, §501, Oct. 26, 1970, 84 Stat. 1126; Pub. L. 93–495, title III, §303, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94–222, §3(a), Feb. 27, 1976, 90 Stat. 197; Pub. L. 96–221, title VI, §§602, 603(a), (b), 604, 612(a)(2), (b), Mar. 31, 1980, 94 Stat. 168, 169, 175, 176; Pub. L. 97–25, title I, §102, July 27, 1981, 95 Stat. 144; Pub. L. 97–320, title VII, §702(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 103–325, title I, §§152(a)–(c), 154(a), Sept. 23, 1994, 108 Stat. 2190, 2191, 2196; Pub. L. 110–315, title X, §1011(b), Aug. 14, 2008, 122 Stat. 3481; Pub. L. 111–24, title I, §108, May 22, 2009, 123 Stat. 1743; Pub. L. 111–203, title X, §1100A(1), (2), title XIV, §§1401, 1431, July 21, 2010, 124 Stat. 2107, 2137, 2157; Pub. L. 115–174, title I, §107, May 24, 2018, 132 Stat. 1304.)
 
 #### References in Text
 
 The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (bb)(2)(A)(i), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. Section 155 of the Act is set out below. For classification of subtitle B of title I of the Act, known as the "Home Ownership and Equity Protection Act of 1994", see Short Title of 1994 Amendment note set out under section 1601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
 
-The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (cc)(3), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 12 and Tables.
+The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (dd)(3), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 12 and Tables.
 
-The National Housing Act, referred to in subsec. (dd)(1)(B), (2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. Title I of the Act is classified generally to subchapter II (§1702 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (ee)(1)(B), (2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title I of the Act is classified generally to subchapter II (§1702 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1100A(2), which directed substitution of "Bureau" for "Board" wherever appearing, was executed by making the substitution wherever appearing in subsecs. (g), (z), and (bb)(2)(A), (C), (4)(D), but not in subsec. (c), to reflect the probable intent of Congress.
+<b>2018</b>—Subsecs. (cc), (dd). Pub. L. 115–174, §107(1), redesignated subsec. (cc), relating to definitions relating to mortgage origination and residential mortgage loans, as (dd). Former subsec. (dd) redesignated (ee).
+
+Subsec. (dd)(2)(C). Pub. L. 115–174, §107(2), added subpar. (C) and struck out former subpar. (C) which read as follows: "does not include any person who is (i) not otherwise described in subparagraph (A) or (B) and who performs purely administrative or clerical tasks on behalf of a person who is described in any such subparagraph, or (ii) an employee of a retailer of manufactured homes who is not described in clause (i) or (iii) of subparagraph (A) and who does not advise a consumer on loan terms (including rates, fees, and other costs);".
+
+Subsec. (ee). Pub. L. 115–174, §107(1), redesignated subsec. (dd) as (ee).
+
+<b>2010</b>—Pub. L. 111–203, §1100A(2), which directed substitution of "Bureau" for "Board" wherever appearing,was executed by making the substitution wherever appearing in subsecs. (g), (z), and (bb)(2)(A), (C), (4)(D), but not in subsec. (c), to reflect the probable intent of Congress.
 
 Subsecs. (b) to (z). Pub. L. 111–203, §1100(A)(1), added subsec. (b) and redesignated former subsecs. (b) to (z) as (c) to (aa), respectively.
 
@@ -276,7 +296,7 @@ Subsec. (bb)(2)(B). Pub. L. 111–203, §1431(b), which directed amendment of su
 
 Subsec. (bb)(4)(B). Pub. L. 111–203, §1431(c)(1)(A), which directed amendment of subsec. (aa)(4) by adding subpar. (B) and struck out former subpar. (B), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above. Text of former subpar. (B) read as follows: "all compensation paid to mortgage brokers;".
 
-Subsec. (bb)(4)(D) to (G). Pub. L. 111–203, §1431(c)(1)(B), (C), which directed amendment of subsec.\(aa)(4) by adding subpars. (D) to (F) and redesignating former subpar. (D) as (G), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above.
+Subsec. (bb)(4)(D) to (G). Pub. L. 111–203, §1431(c)(1)(B), (C), which directed amendment of subsec. (aa)(4) by adding subpars. (D) to (F) and redesignating former subpar. (D) as (G), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above.
 
 Subsec. (bb)(5), (6). Pub. L. 111–203, §1431(c)(2), which directed amendment of subsec. (aa) by adding par. (5) and redesignating former par. (5) as (6), was executed by making the amendment to subsec. (bb) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above.
 
@@ -326,7 +346,7 @@ Subsecs. (x), (y). Pub. L. 96–221, §603(b), redesignated former subsecs. (s) 
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 1100A(1), (2) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by section 1100A(1), (2) of Pub. L. 111–203 effective on the designated transfer date, see section1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 Amendment by sections 1401 and 1431 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 
@@ -346,7 +366,7 @@ Section 102(b) of Pub. L. 97–25 provided that the amendment made by that secti
 
 Pub. L. 96–221, title VI, §625, Mar. 31, 1980, 94 Stat. 185, as amended by Pub. L. 97–25, title III, §301, July 27, 1981, 95 Stat. 145; Pub. L. 97–110, title III, §301, Dec. 26, 1981, 95 Stat. 1515, provided that:
 
-"(a) Except as provided in section 608(b) \[set out as an Effective Date of 1980 Amendment note under section 1607 of this title\], the amendments made by this title \[enacting section 1646 of this title, amending sections 57a, 1602 to 1606, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of this title, repealing sections 1614, 1636, and 1639 of this title, and enacting provisions set out as a note under section 1601 of this title\] shall take effectupon the expiration of two years and six months after the date of enactment of this title \[Mar. 31, 1980\].
+"(a) Except as provided in section 608(b) \[set out as an Effective Date of 1980 Amendment note under section 1607 of this title\], the amendments made by this title \[enacting section 1646 of this title, amending sections 57a, 1602 to 1606, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of this title, repealing sections 1614, 1636, and 1639 of this title, and enacting provisions set out as a note under section 1601 of this title\] shall take effect upon the expiration of two years and six months after the date of enactment of this title \[Mar. 31, 1980\].
 
 "(b) All regulations, forms, and clauses required to be prescribed under the amendments made by this title shall be promulgated at least one year prior to such effective date.
 
@@ -365,6 +385,4 @@ Pub. L. 103–325, title I, §155, Sept. 23, 1994, 108 Stat. 2197, provided that
 #### Applicability of 1994 Amendments and Regulations to Subsection (aa) Mortgages
 
 Pub. L. 103–325, title I, §156, Sept. 23, 1994, 108 Stat. 2197, provided that: "This subtitle \[subtitle B (§§151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title\], and the amendments made by this subtitle, shall apply to every mortgage referred to in section 103(aa) of the Truth in Lending Act \[now 15 U.S.C. 1602(bb)\] (as added by section 152(a) of this Act) consummated on or after the date on which regulations issued under section 155 \[set out above\] become effective."
-
-<i><sup>1</sup></i><i> So in original. Two subsecs. (cc) have been enacted.</i>
 

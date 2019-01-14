@@ -24,7 +24,7 @@ As used in this subchapter and in subchapter II:
 
 &emsp;&emsp;(A) has among its purposes the provision of decent housing that is affordable to low-income and moderate-income persons;
 
-&emsp;&emsp;(B) maintains, through significant representation on the organization's governingboard and otherwise, accountability to low-income community residents and, to the extent practicable, low-income beneficiaries with regard to decisions on the design, siting, development, and management of affordable housing;
+&emsp;&emsp;(B) maintains, through significant representation on the organization's governing board and otherwise, accountability to low-income community residents and, to the extent practicable, low-income beneficiaries with regard to decisions on the design, siting, development, and management of affordable housing;
 
 &emsp;&emsp;(C) has a demonstrated capacity for carrying out activities assisted under this Act; and
 
@@ -36,7 +36,7 @@ As used in this subchapter and in subchapter II:
 
 &emsp;(8) The term "housing" includes manufactured housing and manufactured housing lots and elder cottage housing opportunity units that are small, free-standing, barrier-free, energy-efficient, removable, and designed to be installed adjacent to existing 1- to 4-family dwellings.
 
-&emsp;(9) The term "very low-income families" means low-income families whose incomes do not exceed 50 percent of the median family income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 50 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes.
+&emsp;(9) The term "very low-income families" means low-income families whose incomes do not exceed 50 percent of the median family income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 50 percent of the median for the area on the basisof the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes.
 
 &emsp;(10) The term "low-income families" means families whose incomes do not exceed 80 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes.
 
@@ -100,7 +100,7 @@ This Act, referred to in pars. (1), (2), (6), (16), and (21), is Pub. L. 101–6
 
 #### Amendments
 
-<b>1994</b>—Par. (2). Pub. L. 103–233 struck out "and" after "Columbia," and inserted before period at end ", or any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive officer to act on behalf of the State with regard to the provisions of this Act".
+<b>1994</b>—Par. (2). Pub. L. 103–233 struck out "and" after "Columbia," and inserted before period at end ", orany agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive officer to act on behalf of the State with regard to the provisions of this Act".
 
 <b>1992</b>—Par. (1). Pub. L. 102–550, §211(a)(1), amended this section to read as if amendment made by Pub. L. 102–230, §2(1), had not been enacted. See 1991 Amendment note below.
 

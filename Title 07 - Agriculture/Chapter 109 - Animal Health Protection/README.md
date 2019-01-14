@@ -10,7 +10,7 @@
 | [8306\.](%C2%A7%2008306%20-%20Seizure%2C%20quarantine%2C%20and%20disposal.md) | Seizure, quarantine, and disposal. |
 | [8307\.](%C2%A7%2008307%20-%20Inspections%2C%20seizures%2C%20and%20warrants.md) | Inspections, seizures, and warrants. |
 | [8308\.](%C2%A7%2008308%20-%20Detection%2C%20control%2C%20and%20eradication%20of%20diseases%20and%20pests.md) | Detection, control, and eradication of diseases and pests. |
-| [8308a.](%C2%A7%2008308a%20-%20National%20animal%20health%20laboratory%20network.md) | National animal health laboratory network. |
+| [8308a.](%C2%A7%2008308a%20-%20Animal%20disease%20prevention%20and%20management.md) | Animal disease prevention and management. |
 | [8309\.](%C2%A7%2008309%20-%20Veterinary%20accreditation%20program.md) | Veterinary accreditation program. |
 | [8310\.](%C2%A7%2008310%20-%20Cooperation.md) | Cooperation. |
 | [8311\.](%C2%A7%2008311%20-%20Reimbursable%20agreements.md) | Reimbursable agreements. |
@@ -41,7 +41,7 @@
 - [&sect; 08306 - Seizure, quarantine, and disposal](%C2%A7%2008306%20-%20Seizure%2C%20quarantine%2C%20and%20disposal.md)
 - [&sect; 08307 - Inspections, seizures, and warrants](%C2%A7%2008307%20-%20Inspections%2C%20seizures%2C%20and%20warrants.md)
 - [&sect; 08308 - Detection, control, and eradication of diseases and pests](%C2%A7%2008308%20-%20Detection%2C%20control%2C%20and%20eradication%20of%20diseases%20and%20pests.md)
-- [&sect; 08308a - National animal health laboratory network](%C2%A7%2008308a%20-%20National%20animal%20health%20laboratory%20network.md)
+- [&sect; 08308a - Animal disease prevention and management](%C2%A7%2008308a%20-%20Animal%20disease%20prevention%20and%20management.md)
 - [&sect; 08309 - Veterinary accreditation program](%C2%A7%2008309%20-%20Veterinary%20accreditation%20program.md)
 - [&sect; 08310 - Cooperation](%C2%A7%2008310%20-%20Cooperation.md)
 - [&sect; 08311 - Reimbursable agreements](%C2%A7%2008311%20-%20Reimbursable%20agreements.md)

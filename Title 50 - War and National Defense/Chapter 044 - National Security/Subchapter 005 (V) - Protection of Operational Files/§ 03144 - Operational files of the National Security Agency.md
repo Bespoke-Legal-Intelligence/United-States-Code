@@ -16,7 +16,7 @@ The Director of the National Security Agency, in coordination with the Director 
 
 #### (c) Search and review for information
 
-Notwithstanding subsection (a), exempted operational files shall continue to be subject tosearch and review for information concerning any of the following:
+Notwithstanding subsection (a), exempted operational files shall continue to be subject to search and review for information concerning any of the following:
 
 &emsp;(1) United States citizens or aliens lawfully admitted for permanent residence who have requested information on themselves pursuant to the provisions of section 552 or 552a of title 5.
 

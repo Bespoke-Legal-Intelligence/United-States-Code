@@ -68,7 +68,7 @@ As used in this section, the term "Consumer Price Index" means the Consumer Pric
 
 #### (g) State and other tax allowance
 
-For each award year after award year 1993–1994, the Secretary shall publish in the Federal Register a revised table of State and other tax allowances for the purpose of sections 1087oo(c)(2), 1087oo(g)(3), 1087pp(b)(2), and 1087qq(b)(2) of this title. The Secretary shall develop such revised table after review of the Department of the Treasury's Statistics of Income file and determination of the percentage of income that each State's taxes represent.
+For each award year after award year 1993–1994, the Secretary shall publish in the Federal Register a revised table of State and other tax allowances for the purpose of sections 1087oo(c)(2), 1087oo(g)(3), 1087pp(b)(2), and1087qq(b)(2) of this title. The Secretary shall develop such revised table after review of the Department of the Treasury's Statistics of Income file and determination of the percentage of income that each State's taxes represent.
 
 #### (h) Employment expense allowance
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 105–244 effective Oct. 7, 1998, see section 480A of Pub. 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) ofPub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

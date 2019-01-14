@@ -6,7 +6,7 @@
 
 (2) Except as otherwise provided by this chapter, nothing in this chapter shall in any way alter the responsibilities and authorities of a State or the United States within the territorial seas of the United States.
 
-(3) The Secretary of State shall notify the government of each foreign state having vessels registered under its authority or flying its flag which may call at or otherwise utilize a deepwater port but which do not currently have an agreement in effect as provided in subsection (c)(2)(A)(i) of this section that the United States intends to exercise jurisdiction over vessels calling at or otherwise utilizing a deepwater port and the persons on board such vessels. The Secretary of State shall notify the government of each such state that, absent its objection, its vessels will be subject to the jurisdiction of the United States whenever they—
+(3) The Secretary of State shall notify the government of each foreign state having vessels registered under its authority or flying its flag which may call at or otherwise utilize a deepwater port but which do not currently have anagreement in effect as provided in subsection (c)(2)(A)(i) of this section that the United States intends to exercise jurisdiction over vessels calling at or otherwise utilizing a deepwater port and the persons on board such vessels. The Secretary of State shall notify the government of each such state that, absent its objection, its vessels will be subject to the jurisdiction of the United States whenever they—
 
 &emsp;(A) are calling at or otherwise utilizing a deepwater port; and
 
@@ -58,7 +58,7 @@ Section 19(f) of Pub. L. 93–627 amended section 1333(a)(2) of Title 43, Public
 
 Subsec. (c)(1). Pub. L. 98–419, §5(b), added par. (1). Former cl. (1) redesignated cl. (A)(i) of par. (2).
 
-Subsec. (c)(2). Pub. L. 98–419, §5(b), redesignated existing provisions of subsec. (c) as par. (2)(A)(i) and (B) thereof, substituted reference to provisions of par. (1) for former reference to provisions of this chapter in par. (2)(A)(i) as so redesignated, and added par. (2)(A)(ii).
+Subsec. (c)(2). Pub. L. 98–419, §5(b), redesignated existing provisions of subsec. (c) as par. (2)(A)(i) and (B) thereof, substituted reference to provisions of par. (1)for former reference to provisions of this chapter in par. (2)(A)(i) as so redesignated, and added par. (2)(A)(ii).
 
 Subsec. (c)(3). Pub. L. 98–419, §5(b), added par. (3).
 

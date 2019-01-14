@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;During the 2008 through 2018 fiscal years, the Secretary shall carry out a farmable wetland program in each State under which the Secretary shall enroll eligible acreage described in subsection (b).
+&emsp;During the 2008 through 2023 fiscal years, the Secretary shall carry out a farmable wetland program in each State under which the Secretary shall enroll eligible acreage described in subsection (b).
 
 #### (2) Participation among States
 
@@ -34,13 +34,13 @@
 
 &emsp;&emsp;(A) with respect to land described in subparagraph (A), (B), or (C) of paragraph (1)—
 
-&emsp;&emsp;&emsp;(i) is contiguous to such land <sup>1</sup>
+&emsp;&emsp;&emsp;(i) is contiguous to such land;
 
 &emsp;&emsp;&emsp;(ii) is used to protect such land; and
 
 &emsp;&emsp;&emsp;(iii) is of such width as the Secretary determines is necessary to protect such land, taking into consideration and accommodating the farming practices (including the straightening of boundaries to accommodate machinery) used with respect to the cropland that surrounds such land; and
 
-&emsp;&emsp;(B) with respect to land described in subparagraph (D) of paragraph (1), enhances a wildlife benefit to the extent practicable in terms of upland to wetland ratios, as determined by the Secretary.
+&emsp;&emsp;(B) with respect to land described in subparagraph (D) of paragraph (1), enhances awildlife benefit to the extent practicable in terms of upland to wetland ratios, as determined by the Secretary.
 
 #### (c) Program limitations
 
@@ -86,7 +86,7 @@
 
 #### (2) Buffer acreage
 
-&emsp;The maximum size of any buffer acreage described in subsection (b)(2) that an owner oroperator may enroll in the conservation reserve under this section shall be determined by the Secretary in consultation with the State Technical Committee.
+&emsp;The maximum size of any buffer acreage described in subsection (b)(2) that an owner or operator may enroll in the conservation reserve under this section shall be determined by the Secretary in consultation with the State Technical Committee.
 
 #### (3) Tracts
 
@@ -116,13 +116,13 @@ During the term of a contract entered into under the program established under t
 
 #### (2) Contract offers and payments
 
-&emsp;The Secretary shall use the method of determination described in section 3834(d)(2)(A)(ii) of this title to determine the acceptability of contract offers and the amount of rental payments under this section.
+&emsp;The Secretary shall use the method of determination described in section 3834(d) of this title to determine the acceptability of contract offers and the amount of rental payments under this section.
 
 #### (3) Incentives
 
 &emsp;The amounts payable to owners and operators in the form of rental payments under contracts entered into under this section shall reflect incentives that are provided to owners and operators to enroll filterstrips in the conservation reserve under section 3834 of this title.
 
-(Pub. L. 99–198, title XII, §1231B, as added Pub. L. 110–234, title II, §2106(a)(1), May 22, 2008, 122 Stat. 1029, and Pub. L. 110–246, §4(a), title II, §2106(a)(1), June 18, 2008, 122 Stat. 1664, 1757; amended Pub. L. 113–79, title II, §2002, Feb. 7, 2014, 128 Stat. 714.)
+(Pub. L. 99–198, title XII, §1231B, as added Pub. L. 110–234, title II, §2106(a)(1), May 22, 2008, 122 Stat. 1029, and Pub. L. 110–246, §4(a), title II, §2106(a)(1), June 18, 2008, 122 Stat. 1664, 1757; amended Pub. L. 113–79, title II, §2002, Feb. 7, 2014, 128 Stat. 714; Pub. L. 115–334, title II, §§2203, 2821(c), Dec. 20, 2018, 132 Stat. 4538, 4603.)
 
 #### Codification
 
@@ -133,6 +133,12 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Provisions similar to those comprising this section were contained in section 3831(h) of this title prior to repeal by Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–334, §2203(1), substituted "2023" for "2018".
+
+Subsec. (b)(2)(A)(i). Pub. L. 115–334, §2821(c), inserted semicolon at end.
+
+Subsec. (f)(2). Pub. L. 115–334, §2203(2), substituted "3834(d)" for "3834(d)(2)(A)(ii)".
 
 <b>2014</b>—Pub. L. 113–79, §2002(d)(1), substituted "Farmable wetland program" for "Pilot program for enrollment of wetland and buffer acreage in conservation reserve" in section catchline.
 
@@ -147,6 +153,4 @@ Subsec. (f)(2). Pub. L. 113–79, §2002(d)(2), substituted "section 3834(d)(2)(
 #### Effective Date
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

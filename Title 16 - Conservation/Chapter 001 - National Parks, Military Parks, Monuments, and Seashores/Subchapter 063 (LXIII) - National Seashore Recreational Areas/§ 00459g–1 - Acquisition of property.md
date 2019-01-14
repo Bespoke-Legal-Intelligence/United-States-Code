@@ -18,7 +18,7 @@ A right of use and occupancy reserved in lands that are donated or otherwise acq
 
 #### (e) Administrative site; landing dock and related approach or access facilities
 
-The Secretary of the Interior is authorized to purchase with donated or appropriated funds, or acquire by exchange, not to exceed one hundred acres of lands or interests in lands at or near Beaufort, North Carolina, as an administrative site, and for a landing dock and related facilities that may be used to provide a suitable approach or access to the seashore.
+The Secretary of the Interior is authorized to purchase with donated or appropriated funds, or acquire by exchange, not to exceed one hundred acres of lands or interests in lands at or nearBeaufort, North Carolina, as an administrative site, and for a landing dock and related facilities that may be used to provide a suitable approach or access to the seashore.
 
 (Pub. L. 89–366, §2, Mar. 10, 1966, 80 Stat. 34; Pub. L. 93–477, title IV, §406(2), Oct. 26, 1974, 88 Stat. 1448.)
 

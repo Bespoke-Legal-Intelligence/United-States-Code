@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Within 1 year after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary, in consultation with the Director of the Federal Bureau of Investigation and the Maritime Administration, shall develop training standards and curricula to allow for the certification of passenger vessel security personnel, crewmembers, and law enforcement officials on the appropriate methods for prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment. The Administrator of the Maritime Administration may certify organizations in the United States andabroad that offer the curriculum for training and certification under subsection (c).
+In General.—The Secretary, in consultation with the Director of the Federal Bureau of Investigation and the Maritime Administration, shall maintain training standards and curricula to allow for the certification of passenger vessel security personnel, crewmembers, and law enforcement officials on the appropriate methods for prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment. The Administrator of the Maritime Administration may certify organizations in the United States and abroad that offer the curriculum for training and certification under subsection (c).
 
 (b)
 
@@ -16,27 +16,35 @@ Minimum Standards.—The standards established by the Secretary under subsection
 
 (c)
 
-Certification Requirement.—Beginning 2 years after the standards are established under subsection (b), no vessel to which this section applies may enter a United States port on a voyage (or voyage segment) on which a United States citizen is a passenger unless there is at least 1 crewmember onboard who is certified as having successfully completed training in the prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment on passenger vessels under subsection (a).
+Certification Requirement.—No vessel to which this section applies may enter a United States port on a voyage (or voyage segment) on which a United States citizen is a passenger unless there is at least 1 crewmember onboard who is certified as having successfully completed training in the prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment on passenger vessels under subsection (a).
 
 (d)
 
-Interim Training Requirement.—No vessel to which this section applies may enter a United States port on a voyage (or voyage segment) on which a United States citizen is a passenger unless there is at least 1 crewmember onboard who has been properly trained in the prevention detection, evidence preservation and the reporting requirements of criminal activities in the international maritime environment. The owner of a such a vessel shall maintain certification or other documentation, as prescribed by the Secretary, verifying the training of such individual and provide such documentation upon request for inspection in connection with enforcement of the provisions of this section. This subsection shall take effect 1 year after the date of enactment of the Cruise Vessel Safety and Security Act of 2010 and shall remain in effect until superseded by the requirements of subsection (c).
+Civil Penalty.—Any person that violates this section or a regulation under this section shall be liable for a civil penalty of not more than $50,000.
 
 (e)
 
-Civil Penalty.—Any person that violates this section or a regulation under this section shall be liable for a civil penalty of not more than $50,000.
-
-(f)
-
 Denial of Entry.—The Secretary may deny entry into the United States to a vessel to which this section applies if the owner of the vessel—
 
-&emsp;(1) commits an act or omission for which a penalty may be imposed under subsection (e); or
+&emsp;(1) commits an act or omission for which a penalty may be imposed under subsection (d); or
 
-&emsp;(2) fails to pay a penalty imposed on the owner under subsection (e).
+&emsp;(2) fails to pay a penalty imposed on the owner under subsection (d).
 
-(Added Pub. L. 111–207, §3(a), July 27, 2010, 124 Stat. 2250.)
+(Added Pub. L. 111–207, §3(a), July 27, 2010, 124 Stat. 2250; amended Pub. L. 115–232, div. C, title XXXV, §3543(b), Aug. 13, 2018, 132 Stat. 2324.)
 
-#### References in Text
+#### Amendments
 
-The date of enactment of the Cruise Vessel Security and Safety Act of 2010, referred to in subsecs. (a) and (d), is the date of enactment of Pub. L. 111–207, which was approved July 27, 2010.
+<b>2018</b>—Subsec. (a). Pub. L. 115–232, §3543(b)(1), substituted "The Secretary" for "Within 1 year after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary" and "maintain" for "develop".
+
+Subsec. (c). Pub. L. 115–232, §3543(b)(2), substituted "No" for "Beginning 2 years after the standards are established under subsection (b), no".
+
+Subsec. (d). Pub. L. 115–232, §3543(b)(3), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to interim training requirement.
+
+Subsec. (e). Pub. L. 115–232, §3543(b)(3), (4), redesignated subsec. (f) as (e) and substituted "subsection (d)" for "subsection (e)" in pars. (1) and (2). Former subsec. (e) redesignated (d).
+
+Subsec. (f). Pub. L. 115–232, §3543(b)(3), redesignated subsec. (f) as (e).
+
+#### Definitions
+
+For definition of "owner" as used in this section, see section 3507(l) of this title.
 

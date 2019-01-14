@@ -64,7 +64,7 @@ Director's Annual Report.—As part of the annual report of the Director under s
 
 (h)
 
-Operational Test and Evaluation Defined.—In this section, the term "operational test and evaluation" has the meaning given that term in section 139(a)(2)(A) of this title. For purposes of subsection (a), that term does not include an operational assessment based exclusively on—
+Operational Test and Evaluation Defined.—In this section, the term "operationaltest and evaluation" has the meaning given that term in section 139(a)(2)(A) of this title. For purposes of subsection (a), that term does not include an operational assessment based exclusively on—
 
 &emsp;(1) computer modeling;
 
@@ -72,7 +72,7 @@ Operational Test and Evaluation Defined.—In this section, the term "operationa
 
 &emsp;(3) an analysis of system requirements, engineering proposals, design specifications, or any other information contained in program documents.
 
-(Added Pub. L. 101–189, div. A, title VIII, §802(a)(1), Nov. 29, 1989, 103 Stat. 1484; amended Pub. L. 102–484, div. A, title VIII, §819, Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, §1070(a)(11), (f), Oct. 5, 1994, 108 Stat. 2856, 2859; Pub. L. 104–106, div. A, title XV, §1502(a)(19), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title X, §1062(a)(9), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, §1043(b)(14), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 109–364, div. A, title II, §231(a), Oct. 17, 2006, 120 Stat. 2131; Pub. L. 111–383, div. A, title VIII, §814(d), Jan. 7, 2011, 124 Stat. 4267; Pub. L. 115–91,div. A, title XVI, §1677(a), Dec. 12, 2017, 131 Stat. 1774.)
+(Added Pub. L. 101–189, div. A, title VIII, §802(a)(1), Nov. 29, 1989, 103 Stat. 1484; amended Pub. L. 102–484, div. A, title VIII, §819, Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, §1070(a)(11), (f), Oct. 5, 1994, 108 Stat. 2856, 2859; Pub. L. 104–106, div. A, title XV, §1502(a)(19), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title X, §1062(a)(9), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, §1043(b)(14), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 109–364, div. A, title II, §231(a), Oct. 17, 2006, 120 Stat. 2131; Pub. L. 111–383, div. A, title VIII, §814(d), Jan. 7, 2011, 124 Stat. 4267; Pub. L. 115–91, div. A, title XVI, §1677(a), Dec. 12, 2017, 131 Stat. 1774.)
 
 #### Prior Provisions
 
@@ -164,7 +164,7 @@ Data requirements.—
 
 &emsp;&emsp;"(A)
 
-Electronic database.—Data on estimated and actual developmental, live fire, and operational testing costs shall be maintained in an electronic database maintained by the Director for Cost Assessment and Program Evaluation or another appropriate official of the Department of Defense, andshall be made available for analysis by testing, acquisition, and other appropriate officials of the Department of Defense, as determined by the Director of Operational Test and Evaluation, the senior official of the Department of Defense with responsibility for developmental testing, or the Director of the Test Resource Management Center.
+Electronic database.—Data on estimated and actual developmental, live fire, and operational testing costs shall be maintained in an electronic database maintained by the Director for Cost Assessment and Program Evaluation or another appropriate official of the Department of Defense, and shall be made available for analysis by testing, acquisition, and other appropriate officials of the Department of Defense, as determined by the Director of Operational Test and Evaluation, the senior official of the Department of Defense with responsibility for developmental testing, or the Director of the Test Resource Management Center.
 
 &emsp;&emsp;"(B)
 
@@ -178,43 +178,5 @@ Major Defense Acquisition Program Defined.—In this section, the term 'major de
 
 #### Assessment of Risk in Concurrent Development of Major Defense Acquisition Systems
 
-Pub. L. 101–189, div. A, title VIII, §801, Nov. 29, 1989, 103 Stat. 1483, provided that:
-
-"(a)
-
-Establishment of Policy.—The Secretary of Defense shall establish guidelines for—
-
-&emsp;"(1) determining the degree of concurrency that is appropriate for the development of major defense acquisition systems; and
-
-&emsp;"(2) assessing the degree of risk associated with various degrees of concurrency.
-
-"(b)
-
-Report on Guidelines.—The Secretary shall submit to Congress a report that describes the guidelines established under subsection (a) and the method used for assessing risk associated with concurrency.
-
-"(c)
-
-Report on Concurrency in Major Acquisition Programs.—(1) The Secretary shall also submit to Congress a report outlining the risk associated with concurrency for each major defense acquisition program that is in either full-scale development or low-rate initial production as of January 1, 1990.
-
-"(2) The report shall include consideration of the following matters with respect to each such program:
-
-&emsp;"(A) The degree of confidence in the enemy threat assessment for establishing the system's requirements.
-
-&emsp;"(B) The type of contract involved.
-
-&emsp;"(C) The degree of stability in program funding.
-
-&emsp;"(D) The level of maturity of technology involved in the system.
-
-&emsp;"(E) The availability of adequate test assets, including facilities and ranges.
-
-&emsp;"(F) The plans for transition from development to production.
-
-"(d)
-
-Submission of Reports.—The reports under subsections (b) and (c) shall be submitted to Congress not later than March 1, 1990.
-
-"(e)
-
-Definition.—For purposes of this section, the term 'concurrency' means the degree of overlap between the development and production processes of an acquisition program."
+Pub. L. 101–189, div. A, title VIII, §801, Nov. 29, 1989, 103 Stat. 1483, which related to the assessment of risk in concurrent development of major defense acquisition systems and establishment of guidelines, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(33), Aug. 13, 2018, 132 Stat. 1849.
 

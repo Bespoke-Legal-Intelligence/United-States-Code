@@ -6,7 +6,7 @@ Definition.—In this section, "person" includes a governmental authority, polit
 
 (b)
 
-Prohibitions.—A person may not be excluded from participating in, denied a benefit of, or discriminated against under, a project, program, or activity receiving financial assistance under this chapter because of race, color, religion, national origin, sex, disability, or age.
+Prohibitions.—A person may not be excluded from participating in, denied a benefit of,or discriminated against under, a project, program, or activity receiving financial assistance under this chapter because of race, color, religion, national origin, sex, disability, or age.
 
 (c)
 

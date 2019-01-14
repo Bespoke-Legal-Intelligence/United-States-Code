@@ -8,6 +8,7 @@
 | [3504\.](%C2%A7%2003504%20-%20Leases%2C%20business%20agreements%2C%20and%20rights-of-way%20involving%20energy%20development%20or%20transmission.md) | Leases, business agreements, and rights-of-way involving energy development or transmission. |
 | [3505\.](%C2%A7%2003505%20-%20Federal%20power%20marketing%20administrations.md) | Federal power marketing administrations. |
 | [3506\.](%C2%A7%2003506%20-%20Wind%20and%20hydropower%20feasibility%20study.md) | Wind and hydropower feasibility study. |
+| [3507\.](%C2%A7%2003507%20-%20Appraisals.md) | Appraisals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,3 +27,4 @@ Title XXVI of the Energy Policy Act of 1992, comprising this chapter, was origin
 - [&sect; 03504 - Leases, business agreements, and rights-of-way involving energy development or transmission](%C2%A7%2003504%20-%20Leases%2C%20business%20agreements%2C%20and%20rights-of-way%20involving%20energy%20development%20or%20transmission.md)
 - [&sect; 03505 - Federal power marketing administrations](%C2%A7%2003505%20-%20Federal%20power%20marketing%20administrations.md)
 - [&sect; 03506 - Wind and hydropower feasibility study](%C2%A7%2003506%20-%20Wind%20and%20hydropower%20feasibility%20study.md)
+- [&sect; 03507 - Appraisals](%C2%A7%2003507%20-%20Appraisals.md)

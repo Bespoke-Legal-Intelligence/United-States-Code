@@ -22,7 +22,7 @@ It is the policy of Congress that—
 
 #### (c) Appointment and compensation of Director, Deputy Director, and other necessary personnel; minimum grade for Senior Specialists; placement in grades GS–16, 17, and 18 of Specialists and Senior Specialists; appointment without regard to civil service laws and political affiliation and on basis of fitness to perform duties
 
-(1) After consultation with the Joint Committee on the Library, the Librarian of Congress shall appoint the Director of the Congressional Research Service. The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level III of the Executive Schedule under section 5314 of title 5.
+(1) After consultation with the Joint Committee on the Library, the Librarian of Congressshall appoint the Director of the Congressional Research Service. The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level III of the Executive Schedule under section 5314 of title 5.
 
 (2) The Librarian of Congress, upon the recommendation of the Director, shall appoint a Deputy Director of the Congressional Research Service and all other necessary personnel thereof. The basic pay of the Deputy Director shall be fixed in accordance with chapter 51 (relating to classification) and subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, but without regard to section 5108(a) of such title. The basic pay of all other necessary personnel of the Congressional Research Service shall be fixed in accordance with chapter 51 (relating to classification) and subchapter III (relating to General Schedule pay rates) of chapter 53 of title 5, except that—
 
@@ -56,9 +56,11 @@ It shall be the duty of the Congressional Research Service, without partisan bia
 
 &emsp;(6) to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives;
 
-&emsp;(7) upon request made by any committee or Member of the Congress, to prepare and transmit to such committee or Member a concise memorandum with respect to one or more legislative measures upon which hearings by any committee of the Congress have been announced, which memorandum shall contain a statement of the purpose and effect of each such measure, a description of other relevant measures of similar purpose or effect previously introduced in the Congress, and a recitation of all action taken theretofore by or within the Congress with respect to each such other measure; and
+&emsp;(7) upon request made by any committee or Member of the Congress, to prepare and transmit to such committee or Member a concise memorandum with respect to one or more legislative measures upon which hearings by any committee of the Congress have been announced, which memorandum shall contain a statement of the purpose and effect of each such measure, a description of other relevant measures of similar purpose or effect previously introduced in the Congress, and a recitation of all action taken theretofore by or within the Congress with respect to each such other measure;
 
-&emsp;(8) to develop and maintain an information and research capability, to include Senior Specialists, Specialists, other employees, and consultants, as necessary, to perform the functions provided for in this subsection.
+&emsp;(8) to develop and maintain an information and research capability, to include Senior Specialists, Specialists, other employees, and consultants, as necessary, to perform the functions provided for in this subsection; and
+
+&emsp;(9) to comply with the requirements of, and provide information and technological assistance consistent with, section 124 <sup>1</sup> of the Legislative Branch Appropriations Act, 2018.
 
 #### (e) Specialists and Senior Specialists; appointment; fields of appointment
 
@@ -144,15 +146,23 @@ The Director of the Congressional Research Service will submit to the Librarian 
 
 #### (i) Special report to Joint Committee on the Library
 
-The Director of the Congressional Research Service shall prepare and file with the Joint Committee on the Library at the beginning of each regular session of Congress a separate and special report covering, in summary and in detail, all phases of activity of the Congressional Research Service for the immediately preceding fiscal year.
+The Director of the Congressional Research Service shall prepare and file with the Joint Committee on the Library at the beginning of each regular session of Congress a separate and special report covering, in summary and in detail, all phases of activity of the CongressionalResearch Service for the immediately preceding fiscal year, and shall include in the report a description of the efforts made by the Director to make additional Congressional Research Service products that are not confidential products or services available to the Librarian of Congress for publication on the website established and maintained under section 124 <sup>1</sup> of the Legislative Branch Appropriations Act, 2018.
 
 #### (j) Authorization of appropriations
 
 There are hereby authorized to be appropriated to the Congressional Research Service each fiscal year such sums as may be necessary to carry on the work of the Service.
 
-(Aug. 2, 1946, ch. 753, title II, §203, 60 Stat. 836; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 91–510, title III, §321(a), Oct. 26, 1970, 84 Stat. 1181; Pub. L. 99–190, §133, Dec. 19, 1985, 99 Stat. 1322; Pub. L. 106–57, title II, §209(b), Sept. 29, 1999, 113 Stat. 424.)
+(Aug. 2, 1946, ch. 753, title II, §203, 60 Stat. 836; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 91–510, title III, §321(a), Oct. 26, 1970, 84 Stat. 1181; Pub. L. 99–190, §133, Dec. 19, 1985, 99 Stat. 1322; Pub. L. 106–57, title II, §209(b), Sept. 29, 1999, 113 Stat. 424; Pub. L. 115–141, div. I, title I, §154(b)(7), (d), Mar. 23, 2018, 132 Stat. 789, 790.)
+
+#### References in Text
+
+Section 124 of the Legislative Branch Appropriations Act, 2018, referred to in subsecs. (d)(9) and (i), probably should be section 154 of the Legislative Branch Appropriations Act, 2018, Pub. L. 115–141, div. I, title I, Mar. 23, 2018, 132 Stat. 787. Section 154 of Pub. L. 115–141 enacted section 166a of this title, related to equal access to Congressional Research Service Reports, and amended this section. Div. I of Pub. L. 115–141 does not contain a section 124.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(9). Pub. L. 115–141, §154(d), added par. (9).
+
+Subsec. (i). Pub. L. 115–141, §154(b)(7), substituted ", and shall include in the report a description of the efforts made by the Director to make additional Congressional Research Service products that are not confidential products or services available to the Librarian of Congress for publication on the website established and maintained under section 124 of the Legislative Branch Appropriations Act, 2018." for period at end.
 
 <b>1999</b>—Subsec. (c)(1). Pub. L. 106–57 substituted second sentence for former second sentence which read as follows: "The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level V of the Executive Schedule contained in section 5316 of title 5."
 
@@ -173,6 +183,10 @@ Subsecs. (f) to (i). Pub. L. 91–510 added subsecs. (f) to (i).
 Subsec. (j). Pub. L. 91–510 incorporated in provisions added as subsec. (j) appropriations authorization of section 203(c) of Act Aug. 2, 1946, which had also provided $550,000, $650,000, and $750,000, for fiscal years ending June 30, 1947, 1948, and 1949, respectively.
 
 <b>1949</b>—Subsec. (b)(1). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–141 effective 90 days after the date on which the Librarian of Congress submits the certification described in section 166a(f)(2)(B) of this title, with delay permitted for technical difficulties, see section 166a(f) of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -225,4 +239,6 @@ Pub. L. 99–500, §101(j) \[H.R. 5203, title I\], Oct. 18, 1986, 100 Stat. 1783
 Pub. L. 99–151, title I, Nov. 13, 1985, 99 Stat. 802.
 
 Pub. L. 98–367, title I, July 17, 1984, 98 Stat. 484.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

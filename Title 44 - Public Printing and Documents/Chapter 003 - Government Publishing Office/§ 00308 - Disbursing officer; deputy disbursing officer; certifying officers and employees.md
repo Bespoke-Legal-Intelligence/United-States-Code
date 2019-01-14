@@ -10,7 +10,7 @@
 
 (2) The liability of such certifying officers or employees shall be enforced in the same manner and to the same extent as provided by law with respect to the enforcement of the liability of disbursing and other accountable officers. Such certifying officers and employees shall have the right to apply for and obtain a decision by the Comptroller General on any question of law involved in a payment on any vouchers presented to them for certification.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1240; Pub. L. 92–310, title II, §210(b), June 6, 1972, 86 Stat.204; Pub. L. 93–459, §1(a), Oct. 20, 1974, 88 Stat. 1384; Pub. L. 95–473, §2(a)(5), Oct. 17, 1978, 92 Stat. 1466; Pub. L. 97–258, §3(m)(1), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 113–235, div. H, title I, §1301(b), (c)(1), (i)(4), Dec. 16, 2014, 128 Stat. 2537, 2538.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1240; Pub. L. 92–310, title II, §210(b), June 6, 1972, 86 Stat. 204; Pub. L. 93–459, §1(a), Oct. 20, 1974, 88 Stat. 1384; Pub. L. 95–473, §2(a)(5), Oct. 17, 1978, 92 Stat. 1466; Pub. L. 97–258, §3(m)(1), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 113–235, div. H, title I, §1301(b), (c)(1), (i)(4), Dec. 16, 2014, 128 Stat. 2537, 2538.)
 
 #### Historical and Revision Notes
 

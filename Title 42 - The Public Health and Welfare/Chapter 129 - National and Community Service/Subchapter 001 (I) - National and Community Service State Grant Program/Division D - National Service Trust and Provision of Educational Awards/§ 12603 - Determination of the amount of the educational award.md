@@ -14,7 +14,7 @@ If an individual serving in an approved national service position is released in
 
 #### (d) Amount for summer of service
 
-An individual described in section 12602(a) of this title who successfully completes a required summer of service term shall receive a summer of service educational award having a value, for each of not more than 2 of such terms of service, equal to $500 (or, at the discretion of the Chief Executive Officer, equal to $750 in the case of a participant who is economically disadvantaged).
+An individual described in section 12602(a) of this title who successfully completes a required summer of service term shall receive a summerof service educational award having a value, for each of not more than 2 of such terms of service, equal to $500 (or, at the discretion of the Chief Executive Officer, equal to $750 in the case of a participant who is economically disadvantaged).
 
 #### (e) Amount for silver scholars
 
@@ -43,4 +43,8 @@ A prior section 147 of Pub. L. 101–610 was classified to section 12577 of this
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
 

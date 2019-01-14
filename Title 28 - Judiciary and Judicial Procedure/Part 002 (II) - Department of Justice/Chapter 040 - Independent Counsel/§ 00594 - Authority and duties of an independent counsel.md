@@ -2,7 +2,7 @@
 
 (a)
 
-Authorities.—Notwithstanding any other provision of law, an independent counsel appointed under this chapter shall have, with respect to all matters in such independent counsel's prosecutorial jurisdiction established underthis chapter, full power and independent authority to exercise all investigative and prosecutorial functions and powers of the Department of Justice, the Attorney General, and any other officer or employee of the Department of Justice, except that the Attorney General shall exercise direction or control as to those matters that specifically require the Attorney General's personal action under section 2516 of title 18. Such investigative and prosecutorial functions and powers shall include—
+Authorities.—Notwithstanding any other provision of law, an independent counsel appointed under this chapter shall have, with respect to all matters in such independent counsel's prosecutorial jurisdiction established under this chapter, full power and independent authority to exercise all investigative and prosecutorial functions and powers of the Department of Justice, the Attorney General, and any other officer or employee of the Department of Justice, except that the Attorney General shall exercise direction or control as to those matters that specifically require the Attorney General's personal action under section 2516 of title 18. Such investigative and prosecutorial functions and powers shall include—
 
 &emsp;(1) conducting proceedings before grand juries and other investigations;
 
@@ -66,7 +66,7 @@ Assistance of Department of Justice.—
 
 &emsp;(1)
 
-In carrying out functions.—An independent counsel may request assistance from the Department of Justice in carrying out the functions of the independent counsel, and the Department of Justice shall provide that assistance, which may include access to any records, files, or other materials relevant to matters within such independent counsel's prosecutorial jurisdiction, and the use of the resources and personnel necessary to performsuch independent counsel's duties. At the request of an independent counsel, prosecutors, administrative personnel, and other employees of the Department of Justice may be detailed to the staff of the independent counsel.
+In carrying out functions.—An independent counsel may request assistance from the Department of Justice in carrying out the functions of the independent counsel, and the Department of Justice shall provide that assistance, which may include access to any records, files, or other materials relevant to matters within such independent counsel's prosecutorial jurisdiction, and the use of the resources and personnel necessary to perform such independent counsel's duties. At the request of an independent counsel, prosecutors, administrative personnel, and other employees of the Department of Justice may be detailed to the staff of the independent counsel.
 
 &emsp;(2)
 
@@ -100,7 +100,7 @@ Reports by Independent Counsel.—
 
 Required reports.—An independent counsel shall—
 
-&emsp;&emsp;(A) file with the division of the court, with respect to the 6-month period beginning on the date of his or her appointment, and with respect to each 6-month period thereafter until the office of that independent counsel terminates, a report which identifies and explains major expenses, and summarizes all other expenses, incurred by that office during the 6-month period with respect to which the report is filed, and estimates future expenses of that office; and
+&emsp;&emsp;(A) file with the division of the court, with respect to the 6-month period beginning onthe date of his or her appointment, and with respect to each 6-month period thereafter until the office of that independent counsel terminates, a report which identifies and explains major expenses, and summarizes all other expenses, incurred by that office during the 6-month period with respect to which the report is filed, and estimates future expenses of that office; and
 
 &emsp;&emsp;(B) before the termination of the independent counsel's office under section 596(b), file a final report with the division of the court, setting forth fully and completely a description of the work of the independent counsel, including the disposition of all cases brought.
 
@@ -210,7 +210,7 @@ In general.—An independent counsel shall—
 
 &emsp;&emsp;(B)
 
-Liability for invalid certification.—An employee making a certification undersubparagraph (A)(iii) shall be liable for an invalid certification to the same extent as a certifying official certifying a voucher is liable under section 3528 of title 31.
+Liability for invalid certification.—An employee making a certification under subparagraph (A)(iii) shall be liable for an invalid certification to the same extent as a certifying official certifying a voucher is liable under section 3528 of title 31.
 
 &emsp;&emsp;(C)
 
@@ -284,5 +284,5 @@ Amendment by Pub. L. 103–270 applicable with respect to independent counsels a
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independentcounsels appointed on and after Dec. 15, 1987, but with the following provisions applicable to previously initiated proceedings pending on Dec. 15, 1987: subsec. (d)(2) (relating to reports by Attorney General on expenditures by independent counsel, except that the first such report shall be made only with respect to expenditures on or after Dec. 15, 1987), subsec. (h)(1)(A) except that the 6-month periods described in subsec. (h)(1)(A) of this section shall be calculated from Dec. 15, 1987, subsec. (i), subsec. (k) of this section, and 90 days after Dec. 15, 1987, subsec. (j), see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
+Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independent counsels appointed on and after Dec. 15, 1987, but with the following provisions applicable to previously initiated proceedings pending on Dec. 15, 1987: subsec. (d)(2) (relating to reports by Attorney General on expenditures by independent counsel, except that the first such report shall be made only with respect to expenditures on or after Dec. 15, 1987), subsec. (h)(1)(A) except that the 6-month periods described in subsec. (h)(1)(A) of this section shall be calculated from Dec. 15, 1987, subsec. (i), subsec. (k) of this section, and 90 days after Dec. 15, 1987, subsec. (j), see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
 

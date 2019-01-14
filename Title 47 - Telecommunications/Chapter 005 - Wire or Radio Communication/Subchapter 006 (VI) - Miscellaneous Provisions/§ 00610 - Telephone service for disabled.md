@@ -54,7 +54,7 @@ The Commission shall establish such requirements for the labeling of packaging m
 
 #### (e) Costs and benefits; encouragement of use of currently available technology
 
-In any rulemaking to implement the provisions of this section, the Commission shall specifically consider the costs and benefits to all telephone users, including persons with and without hearing loss. The Commission shall ensure that regulations adopted to implement this section encourage the use of currently available technology and do not discourage or impair the development of improved technology. In implementing the provisions of subsection (b)(1)(C),the Commission shall use appropriate timetables or benchmarks to the extent necessary (1) due to technical feasibility, or (2) to ensure the marketability or availability of new technologies to users.
+In any rulemaking to implement the provisions of this section, the Commission shall specifically consider the costs and benefits to all telephone users, including persons with and without hearing loss. The Commission shall ensure that regulations adopted to implement this section encourage the use of currently available technology and do not discourage or impair the development of improved technology. In implementing the provisions of subsection (b)(1)(C), the Commission shall use appropriate timetables or benchmarks to the extent necessary (1) due to technical feasibility, or (2) to ensure the marketability or availability of new technologies to users.
 
 #### (f) Periodic review of regulations; retrofitting
 
@@ -82,7 +82,7 @@ The Twenty-First Century Communications and Video Accessibility Act of 2010, ref
 
 &emsp;"(A) all essential telephones, and
 
-&emsp;"(B) all telephones manufactured in the United States (other than for export) more than one year after August 16, 1988, or imported for use in the United States more than one year after August 16, 1988,
+&emsp;"(B) all telephones manufactured in the United States (other than for export) more than one year after August 16, 1988, or imported for use in theUnited States more than one year after August 16, 1988,
 
 > provide internal means for effective use with hearing aids that are designed to be compatible with telephones which meet established technical standards for hearing aid compatibility."
 

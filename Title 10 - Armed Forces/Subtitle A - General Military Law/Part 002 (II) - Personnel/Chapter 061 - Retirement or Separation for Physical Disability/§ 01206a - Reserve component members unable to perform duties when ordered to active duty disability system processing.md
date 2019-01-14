@@ -16,7 +16,7 @@ Applicable Reasons for Release.—Subsection (a) applies in the case of a member
 
 (c)
 
-Savings Provision for Medical Care Provided While on Active Duty.—Notwithstandingsubsection (a), any benefit under chapter 55 of this title received by a member described in subsection (a) or a dependent of such member before or during the period of active duty shall not be subject to recoupment or otherwise affected.
+Savings Provision for Medical Care Provided While on Active Duty.—Notwithstanding subsection (a), any benefit under chapter 55 of this title received by a member described in subsection (a) or a dependent of such member before or during the period of active duty shall not be subject to recoupment or otherwise affected.
 
 (Added Pub. L. 108–375, div. A, title V, §521(a), Oct. 28, 2004, 118 Stat. 1887.)
 

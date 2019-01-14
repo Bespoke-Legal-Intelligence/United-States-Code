@@ -192,7 +192,7 @@ Subsec. (a)(2)(E). Pub. L. 102–375, §904(a)(11)(A)(ii)(III), substituted "gre
 
 Pub. L. 102–375, §305(a)(2)(C), struck out "and" at end.
 
-Subsec. (a)(2)(F). Pub. L. 102–375, §305(a)(2)(D), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "assure the use of outreach efforts that will identify individuals eligible for assistance under this chapter, with special emphasis on older individuals with the greatest economic or social needs\(with particular attention to low-income minority individuals) and inform such individuals of the availability of such assistance."
+Subsec. (a)(2)(F). Pub. L. 102–375, §305(a)(2)(D), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "assure the use of outreach efforts that will identify individuals eligible for assistance under this chapter, with special emphasis on older individuals with the greatest economic or social needs (with particular attention to low-income minority individuals) and inform such individuals of the availability of such assistance."
 
 Subsec. (a)(2)(G). Pub. L. 102–375, §305(a)(2)(E), added subpar. (G).
 

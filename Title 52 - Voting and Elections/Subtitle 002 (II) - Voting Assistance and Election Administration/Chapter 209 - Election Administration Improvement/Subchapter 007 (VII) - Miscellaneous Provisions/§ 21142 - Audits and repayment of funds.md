@@ -16,7 +16,7 @@ Each recipient of a grant or other payment made under this chapter shall keep su
 
 #### (3) Special rule for payments by General Services Administration
 
-&emsp;With respect to any grant or payment made under this chapter by the Administrator ofGeneral Services, the Election Assistance Commission shall be deemed to be the office making the grant or payment for purposes of this section.
+&emsp;With respect to any grant or payment made under this chapter by the Administrator of General Services, the Election Assistance Commission shall be deemed to be the office making the grant or payment for purposes of this section.
 
 #### (4) Special rule
 

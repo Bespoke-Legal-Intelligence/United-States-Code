@@ -252,7 +252,7 @@ Not later than one year after December 17, 2004, the President shall, with the a
 
 &emsp;&emsp;(H) the measures taken by the Federal government to ensure the accuracy of information in the ISE, in particular the accuracy of information about individuals;
 
-&emsp;&emsp;(I) an assessment of the privacy and civil liberties protections of the ISE, includingactions taken in the preceding year to implement or enforce privacy and civil liberties protections; and
+&emsp;&emsp;(I) an assessment of the privacy and civil liberties protections of the ISE, including actions taken in the preceding year to implement or enforce privacy and civil liberties protections; and
 
 &emsp;&emsp;(J) an assessment of the security protections used in the ISE.
 
@@ -316,7 +316,7 @@ There is authorized to be appropriated to carry out this section $30,000,000 for
 
 Executive Order 13356, referred to in subsec. (a)(2), which was formerly set out as a note below, was revoked by Ex. Ord. No. 13388, set out as a note below, which established an Information Sharing Council consistent with subsec. (g) of this section.
 
-This title, referred to in subsec. (e)(10)(A), is title I of Pub. L. 108–458, Dec. 17, 2004, 118 Stat. 3643, known asthe National Security Intelligence Reform Act of 2004. For complete classification of title I to the Code, see Tables.
+This title, referred to in subsec. (e)(10)(A), is title I of Pub. L. 108–458, Dec. 17, 2004, 118 Stat. 3643, known as the National Security Intelligence Reform Act of 2004. For complete classification of title I to the Code, see Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (g)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -388,7 +388,7 @@ Ex. Ord. No. 13388, Oct. 25, 2005, 70 F.R. 62023, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458) \[6 U.S.C. 485\], and in order to further strengthen the effective conduct of United States counterterrorism activities and protect the territory, people, and interests of the United States of America, including against terrorist attacks, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. To the maximum extent consistent with applicable law, agencies shall, in the design and use of information systems and in the dissemination of information among agencies:
+Section 1. <i>Policy</i>. To the maximum extent consistent with applicable law, agencies shall, in the design anduse of information systems and in the dissemination of information among agencies:
 
 (a) give the highest priority to (i) the detection, prevention, disruption, preemption, and mitigation of the effects of terrorist activities against the territory, people, and interests of the United States of America; (ii) the interchange of terrorism information among agencies; (iii) the interchange of terrorism information between agencies and appropriate authorities of State, local, and tribal governments, and between agencies and appropriate private sector entities; and (iv) the protection of the ability of agencies to acquire additional such information; and
 
@@ -442,7 +442,7 @@ Memorandum of President of the United States, Nov. 14, 2006, 71 F.R. 67029, prov
 
 Memorandum for the Director of National Intelligence
 
-By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, the reporting function of the President under section 1016(e) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, 118 Stat. 3638) is hereby assigned to the Director of National Intelligence (Director).
+By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, the reportingfunction of the President under section 1016(e) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, 118 Stat. 3638) is hereby assigned to the Director of National Intelligence (Director).
 
 The Director shall perform such function in a manner consistent with the President's constitutional authority to withhold information the disclosure of which could impair foreign relations, national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties.
 

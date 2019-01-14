@@ -8,7 +8,7 @@ This subchapter shall not affect the right of a servicemember to take action dur
 
 #### (1) In general
 
-&emsp;A servicemember during a period of military service may make any affidavit or submit any proof required by law, practice, or regulation of the Department of the Interior in connection with the entry, perfection, defense, or further assertion of rights initiated or acquiredbefore entering military service before an officer authorized to provide notary services under section 1044a of title 10 or any superior commissioned officer.
+&emsp;A servicemember during a period of military service may make any affidavit or submit any proof required by law, practice, or regulation of the Department of the Interior in connection with the entry, perfection, defense, or further assertion of rights initiated or acquired before entering military service before an officer authorized to provide notary services under section 1044a of title 10 or any superior commissioned officer.
 
 #### (2) Legal status of affidavits
 
@@ -23,4 +23,8 @@ Section was formerly classified to section 566 of the former Appendix to this ti
 #### Prior Provisions
 
 A prior section 506 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1188; Pub. L. 102–12, §9(21), Mar. 18, 1991, 105 Stat. 41, related to mineral permits and leases and the suspension of operations and term of permits and leases, prior to the general amendment of this Act by Pub. L. 108–189. See section 3995 of this title.
+
+#### Effective Date
+
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under section 3901 of this title.
 

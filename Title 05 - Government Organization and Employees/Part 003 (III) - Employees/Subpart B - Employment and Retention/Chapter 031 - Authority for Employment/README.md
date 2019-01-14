@@ -22,6 +22,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| [3115\.](Subchapter%20001%20%28I%29%20-%20Employment%20Authorities/%C2%A7%2003115%20-%20Expedited%20hiring%20authority%20for%20college%20graduates%3B%20competitive%20service.md) | Expedited hiring authority for college graduates; competitive service <sup>2</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [3116\.](Subchapter%20001%20%28I%29%20-%20Employment%20Authorities/%C2%A7%2003116%20-%20Expedited%20hiring%20authority%20for%20post-secondary%20students%3B%20competitive%20service.md) | Expedited hiring authority for post-secondary students; competitive service <sup>2</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER II—THE SENIOR EXECUTIVE SERVICE
 
 |  |  |
@@ -63,6 +75,8 @@
 
 #### Amendments
 
+<b>2018</b>—Pub. L. 115–232, div. A, title XI, §1108(b), Aug. 13, 2018, 132 Stat. 2009, added items 3115 and 3116.
+
 <b>2017</b>—Pub. L. 115–1, §2(b), Jan. 20, 2017, 131 Stat. 5, added subchapter V heading and items 3171 and 3172.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title XI, §1109(b), Dec. 31, 2011, 125 Stat. 1615, added item 3111a.
@@ -88,6 +102,8 @@ Pub. L. 95–251, §2(c)(2), Mar. 27, 1978, 92 Stat. 184, substituted "administr
 <b>1967</b>—Pub. L. 90–206, title II, §221(b), Dec. 16, 1967, 81 Stat. 640, added item 3110.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---

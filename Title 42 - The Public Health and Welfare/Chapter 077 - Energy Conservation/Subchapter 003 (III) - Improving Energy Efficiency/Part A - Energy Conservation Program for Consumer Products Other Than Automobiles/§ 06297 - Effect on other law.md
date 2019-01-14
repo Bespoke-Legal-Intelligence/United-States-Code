@@ -56,7 +56,7 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 &emsp;(5) is a regulation concerning the water use of lavatory or kitchen faucets adopted by the State of Rhode Island prior to October 24, 1992;
 
-&emsp;(6) is a regulation (or portion thereof) concerning the water efficiency or water use of gravity tank-type low consumption water closets for installation in public places, exceptthat such a regulation shall be effective only until January 1, 1997; or
+&emsp;(6) is a regulation (or portion thereof) concerning the water efficiency or water use of gravity tank-type low consumption water closets for installation in public places, except that such a regulation shall be effective only until January 1, 1997; or
 
 &emsp;(7)(A) is a regulation concerning standards for commercial prerinse spray valves adopted by the California Energy Commission before January 1, 2005; or
 

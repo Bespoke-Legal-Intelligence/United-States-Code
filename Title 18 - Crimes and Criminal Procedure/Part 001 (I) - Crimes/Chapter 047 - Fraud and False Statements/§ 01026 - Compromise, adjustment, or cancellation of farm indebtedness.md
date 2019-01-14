@@ -1,6 +1,6 @@
 ### §1026. Compromise, adjustment, or cancellation of farm indebtedness
 
-Whoever knowingly makes any false statement for the purpose of influencing in any way the action of the Secretary of Agriculture, or of any person acting under his authority, in connection with any compromise, adjustment, or cancellation of any farm indebtedness as provided by sections 1150, 1150a, and 1150b of Title 12, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever knowingly makes any false statement for the purpose of influencing in any waythe action of the Secretary of Agriculture, or of any person acting under his authority, in connection with any compromise, adjustment, or cancellation of any farm indebtedness as provided by sections 1150, 1150a, and 1150b of Title 12, shall be fined under this title or imprisoned not more than one year, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 755; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 

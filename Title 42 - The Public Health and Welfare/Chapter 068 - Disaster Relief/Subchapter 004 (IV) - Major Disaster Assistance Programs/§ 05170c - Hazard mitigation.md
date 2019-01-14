@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost-effective and which substantially reduce the risk of future damage, hardship, loss, or suffering in any area affected by a major disaster. Such measures shall be identified following the evaluation of natural hazards under section 5165 of this title and shall be subject to approval by the President. Subject to section 5165 of this title, the total of contributions under this section for a major disaster shall not exceed 15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000 of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster.
+The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost effective and which substantially reduce the risk of, or increase resilience to, future damage, hardship, loss, or suffering in any area affected by a major disaster, or any area affected by a fire for which assistance was provided under section 5187 of this title. Such measures shall be identified following the evaluation of natural hazards under section 5165 of this title and shall be subject to approval by the President. Subject to section 5165 of this title, the total of contributions under this section for a major disaster or event under section 5187 of this title shall not exceed 15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000 of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster or event under section 5187 of this title.
 
 #### (b) Property acquisition and relocation assistance
 
@@ -18,7 +18,7 @@ The President may contribute up to 75 percent of the cost of hazard mitigation m
 
 &emsp;&emsp;(B) on or after December 3, 1993, the applicant for the assistance enters into an agreement with the Administrator that provides assurances that—
 
-&emsp;&emsp;&emsp;(i) any property acquired, accepted, or from which a structure will be removed pursuant to the project will be dedicated and maintained in perpetuity for a use that is compatible with open space, recreational, or wetlands management practices;
+&emsp;&emsp;&emsp;(i) any property acquired, accepted, or from which a structure will be removed pursuant to the project will be dedicated and maintained in perpetuity for a usethat is compatible with open space, recreational, or wetlands management practices;
 
 &emsp;&emsp;&emsp;(ii) no new structure will be erected on property acquired, accepted or from which a structure was removed under the acquisition or relocation program other than—
 
@@ -72,7 +72,7 @@ The President may contribute up to 75 percent of the cost of hazard mitigation m
 
 &emsp;For the purpose of providing assistance under this section, the President shall ensure that—
 
-&emsp;&emsp;(A) adequate resources are devoted to ensure that applicable environmental reviews under the National Environmental PolicyAct of 1969 \[42 U.S.C. 4321 et seq.\] and historic preservation reviews under the National Historic Preservation Act <sup>1</sup> are completed on an expeditious basis; and
+&emsp;&emsp;(A) adequate resources are devoted to ensure that applicable environmental reviews under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and historic preservation reviews under the National Historic Preservation Act <sup>1</sup> are completed on an expeditious basis; and
 
 &emsp;&emsp;(B) the shortest existing applicable process under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and the National Historic Preservation Act <sup>1</sup> is utilized.
 
@@ -84,7 +84,49 @@ The President may contribute up to 75 percent of the cost of hazard mitigation m
 
 The President may provide not more than 25 percent of the amount of the estimated cost of hazard mitigation measures to a State grantee eligible for a grant under this section before eligible costs are incurred.
 
-(Pub. L. 93–288, title IV, §404, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4698; amended Pub. L. 103–181, §§2(a), 3, Dec. 3, 1993, 107 Stat. 2054; Pub. L. 106–390, title I, §104(c)(1), title II, §204, Oct. 30, 2000, 114 Stat. 1559, 1561; Pub. L. 108–7, div. K, title IV, §417, Feb. 20, 2003, 117 Stat. 525; Pub. L. 109–295, title VI, §684, Oct. 4, 2006, 120 Stat. 1447; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864; Pub. L. 113–2, div. B, §1104(a), (b), Jan. 29, 2013, 127 Stat. 43.)
+#### (f) Use of assistance
+
+Recipients of hazard mitigation assistance provided under this section and section 5133 of this title may use the assistance to conduct activities to help reduce the risk of future damage, hardship, loss, or suffering in any area affected by a wildfire or windstorm, such as—
+
+&emsp;(1) reseeding ground cover with quick-growing or native species;
+
+&emsp;(2) mulching with straw or chipped wood;
+
+&emsp;(3) constructing straw, rock, or log dams in small tributaries to prevent flooding;
+
+&emsp;(4) placing logs and other erosion barriers to catch sediment on hill slopes;
+
+&emsp;(5) installing debris traps to modify road and trail drainage mechanisms;
+
+&emsp;(6) modifying or removing culverts to allow drainage to flow freely;
+
+&emsp;(7) adding drainage dips and constructing emergency spillways to keep roads and bridges from washing out during floods;
+
+&emsp;(8) planting grass to prevent the spread of noxious weeds;
+
+&emsp;(9) installing warning signs;
+
+&emsp;(10) establishing defensible space measures;
+
+&emsp;(11) reducing hazardous fuels;
+
+&emsp;(12) mitigating windstorm damage, including replacing or installing electrical transmission or distribution utility pole structures with poles that are resilient to extreme wind and combined ice and wind loadings for the basic wind speeds and ice conditions associated with the relevant location;
+
+&emsp;(13) removing standing burned trees; and
+
+&emsp;(14) replacing water systems that have been burned and have caused contamination.
+
+#### (g) Use of assistance for earthquake hazards
+
+Recipients of hazard mitigation assistance provided under this section and section 5133 of this title may use the assistance to conduct activities to help reduce the risk of future damage, hardship, loss, or suffering in any area affected by earthquake hazards, including—
+
+&emsp;(1) improvements to regional seismic networks in support of building a capability for earthquake early warning;
+
+&emsp;(2) improvements to geodetic networks in support of building a capability for earthquake early warning; and
+
+&emsp;(3) improvements to seismometers, Global Positioning System receivers, and associated infrastructure in support of building a capability for earthquake early warning.
+
+(Pub. L. 93–288, title IV, §404, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4698; amended Pub. L. 103–181, §§2(a), 3, Dec. 3, 1993, 107 Stat. 2054; Pub. L. 106–390, title I, §104(c)(1), title II, §204, Oct. 30, 2000, 114 Stat. 1559, 1561; Pub. L. 108–7, div. K, title IV, §417, Feb. 20, 2003, 117 Stat. 525; Pub. L. 109–295, title VI, §684, Oct. 4, 2006, 120 Stat. 1447; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864; Pub. L. 113–2, div. B, §1104(a), (b), Jan. 29, 2013, 127 Stat. 43; Pub. L. 115–254, div. D, §§1204(b)(1), 1205, 1233, 1235(a), Oct. 5, 2018, 132 Stat. 3439, 3460, 3463.)
 
 #### References in Text
 
@@ -99,6 +141,14 @@ The National Historic Preservation Act, referred to in subsec. (d)(1), is Pub. L
 A prior section 404 of Pub. L. 93–288 was classified to section 5174 of this title prior to repeal by Pub. L. 100–707.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–254, §1204(b)(1), inserted ", or any area affected by a fire for which assistance was provided under section 5187 of this title" after "affected by a major disaster" in first sentence as inserted by section 1235(a) of Pub. L. 115–254, and inserted "or event under section 5187 of this title" after "major disaster" in two places in third sentence.
+
+Pub. L. 115–254, §1235(a), substituted "The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost effective and which substantially reduce the risk of, or increase resilience to, future damage, hardship, loss, or suffering in any area affected by a major disaster." for "The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost-effective and which substantially reduce the risk of future damage, hardship, loss, or suffering in any area affected by a major disaster."
+
+Subsec. (f). Pub. L. 115–254, §1205, added subsec. (f).
+
+Subsec. (g). Pub. L. 115–254, §1233, added subsec. (g).
 
 <b>2013</b>—Subsec. (c)(2). Pub. L. 113–2, §1104(b), inserted "Until such time as the Administrator promulgates regulations to implement this paragraph, the Administrator may waive notice and comment rulemaking, if the Administrator determines doing so is necessary to expeditiously implement this section, and may carry out this section as a pilot program." after "applications submitted under paragraph (1)." in introductory provisions.
 
@@ -115,6 +165,10 @@ Subsecs. (d), (e). Pub. L. 113–2, §1104(a), added subsecs. (d) and (e).
 Subsec. (c). Pub. L. 106–390, §204, added subsec. (c).
 
 <b>1993</b>—Pub. L. 103–181 designated existing provisions as subsec. (a), inserted heading, substituted "75 percent" for "50 percent" in first sentence, substituted "15 percent of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster" for "10 percent of the estimated aggregate amounts of grants to be made under section 5172 of this title with respect to such major disaster" in last sentence, and added subsec. (b).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under section 5121 of this title.
 
 #### Effective Date of 2013 Amendment
 
@@ -133,6 +187,86 @@ Pub. L. 103–181, §2(b), Dec. 3, 1993, 107 Stat. 2054, provided that: "The ame
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Funding of a Federally Authorized Water Resources Development Project
+
+Pub. L. 115–254, div. D, §1210(b), Oct. 5, 2018, 132 Stat. 3444, provided that:
+
+"(1)
+
+Eligible activities.—Notwithstanding section 312 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5155) and its implementing regulations, assistance provided pursuant to section 404 of such Act \[42 U.S.C. 5170c\] may be used to fund activities authorized for construction within the scope of a federally authorized water resources development project of the Army Corps of Engineers if such activities are also eligible activities under such section.
+
+"(2)
+
+Federal funding.—All Federal funding provided under section 404 pursuant to this section shall be applied toward the Federal share of such project.
+
+"(3)
+
+Non-federal match.—All non-Federal matching funds required under section 404 pursuant to this section shall be applied toward the non-Federal share of such project.
+
+"(4)
+
+Total federal share.—Funding provided under section 404 pursuant to this section may not exceed the total Federal share for such project.
+
+"(5)
+
+No effect.—Nothing in this section shall—
+
+&emsp;"(A) affect the cost-share requirement of a hazard mitigation measure under section 404;
+
+&emsp;"(B) affect the eligibility criteria for a hazard mitigation measure under section 404;
+
+&emsp;"(C) affect the cost share requirements of a federally authorized water resources development project; and
+
+&emsp;"(D) affect the responsibilities of a non-Federal interest with respect to the project, including those related to the provision of lands, easements, rights-of-way, dredge material disposal areas, and necessary relocations.
+
+"(6)
+
+Limitation.—If a federally authorized water resources development project of the Army Corps of Engineers is constructed with funding provided under section 404 pursuant to this subsection, no further Federal funding shall be provided for construction of such project."
+
+#### Guidance on Hazard Mitigation Assistance
+
+Pub. L. 115–254, div. D, §1231, Oct. 5, 2018, 132 Stat. 3459, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Emergency Management Agency\] shall issue guidance regarding the acquisition of property for open space as a mitigation measure under section 404 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170c) that includes—
+
+&emsp;"(1) a process by which the State hazard mitigation officer appointed for such an acquisition shall, not later than 60 days after the applicant for assistance enters into an agreement with the Administrator regarding the acquisition, provide written notification to each affected unit of local government for such acquisition that includes—
+
+&emsp;&emsp;"(A) the location of the acquisition;
+
+&emsp;&emsp;"(B) the State-local assistance agreement for the hazard mitigation grant program;
+
+&emsp;&emsp;"(C) a description of the acquisition; and
+
+&emsp;&emsp;"(D) a copy of the deed restriction; and
+
+&emsp;"(2) recommendations for entering into and implementing a memorandum of understanding between units of local government and covered entities that includes provisions to allow an affected unit of local government notified under paragraph (1) to—
+
+&emsp;&emsp;"(A) use and maintain the open space created by such a project, consistent with section 404 \[42 U.S.C. 5170c\] (including related regulations, standards, and guidance) and consistent with all adjoining property, subject to the notification of the adjoining property, so long as the cost of the maintenance is borne by the local government; and
+
+&emsp;&emsp;"(B) maintain the open space pursuant to standards exceeding any local government standards defined in the agreement with the Administrator described under paragraph (1).
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Affected unit of local government.—The term 'affected unit of local government' means any entity covered by the definition of local government in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122), that has jurisdiction over the property subject to the acquisition described in subsection (a).
+
+&emsp;"(2)
+
+Covered entity.—The term 'covered entity' means—
+
+&emsp;&emsp;"(A) the grantee or subgrantee receiving assistance for an open space project described in subsection (a);
+
+&emsp;&emsp;"(B) the State in which such project is located; and
+
+&emsp;&emsp;"(C) the applicable Regional Administrator of the Agency."
+
+\[For definition of "State" as used in section 1231 of Pub. L. 115–254, set out above, see section 1203 of Pub. L. 115–254, set out as a Definitions note under section 5122 of this title.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

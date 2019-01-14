@@ -24,7 +24,7 @@ The Under Secretary for Management shall serve as the Chief Management Officer a
 
 &emsp;&emsp;(A) the development of centralized data sources and connectivity of information systems to the greatest extent practicable to enhance program visibility, transparency, and operational effectiveness and coordination;
 
-&emsp;&emsp;(B) the development of standardized and automated management information tomanage and oversee programs and make informed decisions to improve the efficiency of the Department;
+&emsp;&emsp;(B) the development of standardized and automated management information to manage and oversee programs and make informed decisions to improve the efficiency of the Department;
 
 &emsp;&emsp;(C) the development of effective program management and regular oversight mechanisms, including clear roles and processes for program governance, sharing of best practices, and access to timely, reliable, and evaluated data on all acquisitions and investments; and
 
@@ -122,7 +122,7 @@ Not later than five days after the date on which the Chief Procurement Officer o
 
 #### (D) Review
 
-&emsp;&emsp;The Under Secretary for Management shall review and make a determination on the results of each component's vehicle allocation tool and fleet management plan under this paragraph to ensure each such component's vehicle fleets are the optimal fleet size and that components are in compliance with applicable Federal law, Federal regulations, executive branch guidance, and Department policy (including associated guidance) pursuant to paragraph (2) relating to fleet management and use of vehicles from home to work. The Under Secretary shall use such tools and plans when reviewing annual component requests for vehicle fleet funding in accordance with paragraph (6).
+&emsp;&emsp;The Under Secretary for Management shall review and make a determination on the results of each component's vehicle allocation tool and fleet management plan under this paragraph to ensure each such component's vehicle fleets are the optimalfleet size and that components are in compliance with applicable Federal law, Federal regulations, executive branch guidance, and Department policy (including associated guidance) pursuant to paragraph (2) relating to fleet management and use of vehicles from home to work. The Under Secretary shall use such tools and plans when reviewing annual component requests for vehicle fleet funding in accordance with paragraph (6).
 
 #### (5) Guidance to develop fleet management plans
 

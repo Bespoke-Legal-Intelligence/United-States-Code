@@ -64,6 +64,7 @@
 | [<b>55.</b>](Chapter%20055%20-%20Defense%20Production/README.md) | <b>Defense Production</b> | <b>4501</b> |
 | [<b>56.</b>](Chapter%20056%20-%20Export%20Administration/README.md) | <b>Export Administration</b> | <b>4601</b> |
 | [<b>57.</b>](Chapter%20057%20-%20Claims%20under%20the%20Clarification%20Act/README.md) | <b>Claims Under the Clarification Act</b> | <b>4701</b> |
+| [<b>58.</b>](Chapter%20058%20-%20Export%20Control%20Reform/README.md) | <b>Export Control Reform</b> | <b>4801</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -4929,3 +4930,4 @@ Pub. L. 85–7, §§1–6, Mar. 9, 1957, 71 Stat. 5, set out as chapter 24A (§1
 - [Chapter 055 - Defense Production](Chapter%20055%20-%20Defense%20Production/README.md)
 - [Chapter 056 - Export Administration](Chapter%20056%20-%20Export%20Administration/README.md)
 - [Chapter 057 - Claims under the Clarification Act](Chapter%20057%20-%20Claims%20under%20the%20Clarification%20Act/README.md)
+- [Chapter 058 - Export Control Reform](Chapter%20058%20-%20Export%20Control%20Reform/README.md)

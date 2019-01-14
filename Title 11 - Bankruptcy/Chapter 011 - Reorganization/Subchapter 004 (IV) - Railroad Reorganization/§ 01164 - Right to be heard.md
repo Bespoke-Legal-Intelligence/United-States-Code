@@ -10,7 +10,7 @@ The Board, the Department of Transportation, and any State or local commission h
 
 Section 1164 of the Senate amendment is deleted as a matter to be left to the Rules of Bankruptcy Procedure. It is anticipated that the rules will require a petition in a railroad reorganization to be filed with the Interstate Commerce Commission and the Secretary of Transportation in a case concerning an interstate railroad.
 
-Section 1164 of the House amendment is derived from section 1163 of the House bill. The section makes clearthat the Interstate Commerce Commission, the Department of Transportation, and any State or local commission having regulatory jurisdiction over the debtor may raise and appear and be heard on any issue in a case under subchapter IV of chapter 11, but may not appeal from any judgment, order, or decree in the case. As under section 1109 of title 11, such intervening parties are not parties in interest.
+Section 1164 of the House amendment is derived from section 1163 of the House bill. The section makes clear that the Interstate Commerce Commission, the Department of Transportation, and any State or local commission having regulatory jurisdiction over the debtor may raise and appear and be heard on any issue in a case under subchapter IV of chapter 11, but may not appeal from any judgment, order, or decree in the case. As under section 1109 of title 11, such intervening parties are not parties in interest.
 
 #### house report no. 95–595
 

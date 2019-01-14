@@ -138,7 +138,7 @@ In this subpart:
 
 #### (4) Confidentiality
 
-&emsp;Any information submitted to a public housing agency or owner or manager under this subsection, including the fact that an individual is a victim of domestic violence, dating violence, sexual assault, or stalking shall be maintained in confidence by the public housing agency or owner or manager and may not be entered into any shared database or disclosed to any other entity or individual, except to the extent that the disclosure is—
+&emsp;Any information submitted to a public housing agency or owner or manager under thissubsection, including the fact that an individual is a victim of domestic violence, dating violence, sexual assault, or stalking shall be maintained in confidence by the public housing agency or owner or manager and may not be entered into any shared database or disclosed to any other entity or individual, except to the extent that the disclosure is—
 
 &emsp;&emsp;(A) requested or consented to by the individual in writing;
 
@@ -170,7 +170,7 @@ In this subpart:
 
 #### (2) Provision
 
-&emsp;Each public housing agency or owner or manager of housing assisted under a covered housing program shall provide the notice developed under paragraph (1), together with the form described in subsection (c)(3)(A), to anapplicant for or tenants of housing assisted under a covered housing program—
+&emsp;Each public housing agency or owner or manager of housing assisted under a covered housing program shall provide the notice developed under paragraph (1), together with the form described in subsection (c)(3)(A), to an applicant for or tenants of housing assisted under a covered housing program—
 
 &emsp;&emsp;(A) at the time the applicant is denied residency in a dwelling unit assisted under the covered housing program;
 
@@ -206,7 +206,7 @@ The appropriate agency with respect to each covered housing program shall implem
 
 #### References in Text
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(3)(C), (E), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Subtitle A of title II of the Act is classified generally to part A (§12741 et seq.) of subchapter II of chapter 130 of Title 42, The Public Health and Welfare. Subtitle D of title VIII of the Act, known as the AIDS Housing Opportunity Act, is classified generally to chapter 131 (§12901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(3)(C), (E), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Subtitle A of title II of the Act is classified generally to part A (§12741 et seq.) of subchapter II of chapter 130 of Title 42, ThePublic Health and Welfare. Subtitle D of title VIII of the Act, known as the AIDS Housing Opportunity Act, is classified generally to chapter 131 (§12901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(3)(D), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle A of title IV of the Act is classified generally to part A (§11360 et seq.) of subchapter IV of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 

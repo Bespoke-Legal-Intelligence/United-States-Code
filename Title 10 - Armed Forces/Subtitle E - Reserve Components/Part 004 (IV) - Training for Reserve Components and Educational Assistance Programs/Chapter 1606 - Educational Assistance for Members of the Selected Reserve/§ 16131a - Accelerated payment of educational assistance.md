@@ -6,7 +6,7 @@
 
 &emsp;(1) enrolled in an approved program of education not exceeding two years in duration and not leading to an associate, bachelors, masters, or other degree, subject to subsection (g); and
 
-&emsp;(2) charged tuition and fees for the program of education that, when divided by the number of months (and fractions thereof) in the enrollment period, exceeds the amount equal to 200 percent of the monthly rate of educational assistance allowance otherwise payable with respect to the person under section 16131 of this title.
+&emsp;(2) charged tuition and fees for the program of education that, when divided by the numberof months (and fractions thereof) in the enrollment period, exceeds the amount equal to 200 percent of the monthly rate of educational assistance allowance otherwise payable with respect to the person under section 16131 of this title.
 
 (c)(1) The amount of the accelerated payment of educational assistance payable with respect to an eligible person making an election under subsection (a) for a program of education shall be the lesser of—
 

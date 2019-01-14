@@ -1,12 +1,16 @@
 ### §2464. Use of capabilities of national security laboratories by entities outside the Administration
 
-The Secretary of Energy, in consultation with the Administrator, shall establish appropriate procedures to provide for the use, in a manner consistent with the national security mission ofthe Administration under section 2401(b) of this title, of the capabilities of the national security laboratories by elements of the Department of Energy not within the Administration, other Federal agencies, and other appropriate entities, including the use of those capabilities to support efforts to defend against weapons of mass destruction.
+The Secretary of Energy, in consultation with the Administrator, shall establish appropriate procedures to provide for the use, in a manner consistent with the national security mission of the Administration under section 2401(b) of this title, of the capabilities of the national security laboratories by elements of the Department of Energy not within the Administration, other Federal agencies, and other appropriate entities, including the use of those capabilities to support efforts to defend against weapons of mass destruction.
 
 (Pub. L. 106–65, div. C, title XXXII, §3264, Oct. 5, 1999, 113 Stat. 967; Pub. L. 113–66, div. C, title XXXI, §3145(h), Dec. 26, 2013, 127 Stat. 1072.)
 
 #### Amendments
 
 <b>2013</b>—Pub. L. 113–66 inserted "of Energy" after "Secretary".
+
+#### Effective Date
+
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under section 2401 of this title.
 
 #### Establishment of Microlab Pilot Program
 

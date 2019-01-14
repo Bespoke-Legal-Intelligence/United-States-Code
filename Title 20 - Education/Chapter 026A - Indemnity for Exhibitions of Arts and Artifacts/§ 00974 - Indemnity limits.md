@@ -10,7 +10,7 @@ The aggregate of loss or damage covered by indemnity agreements made under this 
 
 #### (c) Limit for single exhibition
 
-No indemnity agreement for a single exhibition shall cover loss or damage in excess of$1,800,000,000 for international exhibitions, or $1,000,000,000 for domestic exhibitions.
+No indemnity agreement for a single exhibition shall cover loss or damage in excess of $1,800,000,000 for international exhibitions, or $1,000,000,000 for domestic exhibitions.
 
 #### (d) Deductible limit
 
@@ -26,7 +26,7 @@ If the estimated value of the items covered by an indemnity agreement for a sing
 
 &emsp;(5) not less than $200,000,000 but less than $300,000,000, then coverage under the <sup>2</sup> chapter shall extend only to loss or damage in excess of the first $200,000, of loss or damage to items covered;
 
-&emsp;(6) not less than $300,000,000 but less than $400,000,000, then coverage under this chapter shall extend only to loss or damage in excess of the first $300,000 of loss or damage to items covered;
+&emsp;(6) not less than $300,000,000 but less than $400,000,000, then coverage under this chaptershall extend only to loss or damage in excess of the first $300,000 of loss or damage to items covered;
 
 &emsp;(7) not less than $400,000,000 but less than $500,000,000, then coverage under this chapter shall extend only to loss or damage in excess of the first $400,000 of loss or damage to items covered; or
 

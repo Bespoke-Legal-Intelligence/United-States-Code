@@ -14,7 +14,7 @@ The Secretary, in cooperation with the Freedom Prize Foundation, shall support a
 
 #### (d) Relationship to other authority
 
-The program under subsection (a) may be carried out in conjunction with or in addition to the exercise of any other authority of the Secretary to acquire, support, or stimulate research, development, demonstration, or commercial application projects.
+The program under subsection (a) may be carried out in conjunction with or in addition tothe exercise of any other authority of the Secretary to acquire, support, or stimulate research, development, demonstration, or commercial application projects.
 
 #### (e) Authorization of appropriations
 

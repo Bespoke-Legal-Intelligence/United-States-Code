@@ -14,11 +14,13 @@
 | [9010\.](%C2%A7%2009010%20-%20Participation%20by%20Commission%20in%20judicial%20proceedings.md) | Participation by Commission in judicial proceedings. |
 | [9011\.](%C2%A7%2009011%20-%20Judicial%20review.md) | Judicial review. |
 | [9012\.](%C2%A7%2009012%20-%20Criminal%20penalties.md) | Criminal penalties. |
-| [9013\.](%C2%A7%2009013%20-%20Effective%20date%20of%20chapter.md) | Effective date of chapter. |
+| \[9013. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(d)(8), Mar. 23, 2018, 132 Stat. 1212, struck out item 9013 "Effective date of chapter".
 
 <b>1974</b>—Pub. L. 93–443, title IV, §406(c), Oct. 15, 1974, 88 Stat. 1296, substituted "Payments for presidential nominating conventions" for "Information on proposed expenses" in item 9008.
 
@@ -39,4 +41,4 @@
 - [&sect; 09010 - Participation by Commission in judicial proceedings](%C2%A7%2009010%20-%20Participation%20by%20Commission%20in%20judicial%20proceedings.md)
 - [&sect; 09011 - Judicial review](%C2%A7%2009011%20-%20Judicial%20review.md)
 - [&sect; 09012 - Criminal penalties](%C2%A7%2009012%20-%20Criminal%20penalties.md)
-- [&sect; 09013 - Effective date of chapter](%C2%A7%2009013%20-%20Effective%20date%20of%20chapter.md)
+- [&sect; 09013 - Repealed. Pub. L. 115&#8211;141, div. U, title IV, &sect;401(d)(8), Mar. 23, 2018, 132 Stat. 1212](%C2%A7%2009013%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93141%2C%20div.%20U%2C%20title%20IV%2C%20%C2%A7401%28d%29%288%29%2C%20Mar.%2023%2C%202018%2C%20132%20Stat.%201212.md)

@@ -80,15 +80,19 @@ Subsec. (a)(2), (3). Pub. L. 111–13, §1305(1)(B), added pars. (2) and (3) and
 
 &emsp;"(A) 85 percent of the total cost to establish or operate the State Commission for the first year for which the State Commission receives assistance under this subsection; and
 
-&emsp;"(B) such smaller percentage of such cost as the Corporation may establish for the second, third, and fourth years of such assistance in order to ensure that the Federal share does not exceed 50 percent of such costs for the fifth year, and any subsequent year, for which the State Commission receives assistance under this subsection."
+&emsp;"(B) such smaller percentage of such cost as the Corporation may establish for the second, third, and fourth years of such assistance in order to ensurethat the Federal share does not exceed 50 percent of such costs for the fifth year, and any subsequent year, for which the State Commission receives assistance under this subsection."
 
 Subsec. (b). Pub. L. 111–13, §1305(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The Corporation may undertake activities, including activities carried out through part A of title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), to involve in disaster relief efforts youth corps programs described in section 12572(a)(2) of this title and other programs that receive assistance under the national service laws."
 
 Subsec. (c)(1). Pub. L. 111–13, §1305(3)(A), substituted "to programs supported under the national service laws" for "to national service programs that receive assistance under section 12571 of this title".
 
-Subsec. (c)(3). Pub. L. 111–13, §1305(3)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "A challenge grant under this subsection may provide not more than $1 of assistance under this subsection for each $1 in cash raised by the national service program from private sources in excessof amounts required to be provided by the program to satisfy matching funds requirements under section 12571(e) of this title. The Corporation shall establish a ceiling on the amount of assistance that may be provided to a national service program under this subsection."
+Subsec. (c)(3). Pub. L. 111–13, §1305(3)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "A challenge grant under this subsection may provide not more than $1 of assistance under this subsection for each $1 in cash raised by the national service program from private sources in excess of amounts required to be provided by the program to satisfy matching funds requirements under section 12571(e) of this title. The Corporation shall establish a ceiling on the amount of assistance that may be provided to a national service program under this subsection."
 
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
 

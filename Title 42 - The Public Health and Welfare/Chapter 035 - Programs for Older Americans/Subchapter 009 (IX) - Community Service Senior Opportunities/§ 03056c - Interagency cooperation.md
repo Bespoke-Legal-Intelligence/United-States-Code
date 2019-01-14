@@ -28,7 +28,7 @@ The Carl D. Perkins Career and Technical Education Act of 2006, referred to in s
 
 #### Prior Provisions
 
-A prior section 3056c, Pub. L. 89–73, title V, §505, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2276; amended Pub. L. 109–270, §2(k)(3), Aug. 12,2006, 120 Stat. 749, related to interagency cooperation, prior to the general amendment of this subchapter by Pub. L. 109–365.
+A prior section 3056c, Pub. L. 89–73, title V, §505, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2276; amended Pub. L. 109–270, §2(k)(3), Aug. 12, 2006, 120 Stat. 749, related to interagency cooperation, prior to the general amendment of this subchapter by Pub. L. 109–365.
 
 Another prior section 3056c, Pub. L. 89–73, title V, §505, formerly title IX, §905, as added Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 723; renumbered title V, §505, and amended Pub. L. 95–478, title I, §105(a), (d), Oct. 18, 1978, 92 Stat. 1547, 1548; Pub. L. 97–115, §12(b)(2), Dec. 29, 1981, 95 Stat. 1606; Pub. L. 102–375, title V, §503, Sept. 30, 1992, 106 Stat. 1267; Pub. L. 103–171, §3(a)(8), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 105–332, §3(i)(2), Oct. 31, 1998, 112 Stat. 3126, related to interagency cooperation, prior to the general amendment of this subchapter by Pub. L. 106–501.
 

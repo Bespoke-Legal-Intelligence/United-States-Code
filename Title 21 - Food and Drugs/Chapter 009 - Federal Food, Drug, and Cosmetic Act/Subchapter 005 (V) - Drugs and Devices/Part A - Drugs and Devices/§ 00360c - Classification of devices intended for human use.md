@@ -54,7 +54,7 @@ Class III, Premarket Approval.—A device which because—
 
 > then, for purposes of this section and sections 360d and 360e of this title, the Secretary may authorize the effectiveness of the device to be determined on the basis of such evidence.
 
-(C) In making a determination of a reasonable assurance of the effectiveness of a device for which an application under section 360e of this title has been submitted, the Secretary shall consider whether the extent of data that otherwise would be required for approval of the application with respect to effectiveness can be reduced through reliance on postmarket controls.
+(C) In making a determination of a reasonable assurance of the effectiveness of a device forwhich an application under section 360e of this title has been submitted, the Secretary shall consider whether the extent of data that otherwise would be required for approval of the application with respect to effectiveness can be reduced through reliance on postmarket controls.
 
 (D)(i) The Secretary, upon the written request of any person intending to submit an application under section 360e of this title, shall meet with such person to determine the type of valid scientific evidence (within the meaning of subparagraphs (A) and (B)) that will be necessary to demonstrate for purposes of approval of an application the effectiveness of a device for the conditions of use proposed by such person. The written request shall include a detailed description of the device, a detailed description of the proposed conditions of use of the device, a proposed plan for determining whether there is a reasonable assurance of effectiveness, and, if available, information regarding the expected performance from the device. Within 30 days after such meeting, the Secretary shall specify in writing the type of valid scientific evidence that will provide a reasonable assurance that a device is effective under the conditions of use proposed by such person.
 
@@ -194,7 +194,7 @@ Class III, Premarket Approval.—A device which because—
 
 (2)(A)(i) Any person who submits a report under section 360(k) of this title for a type of device that has not been previously classified under this chapter, and that is classified into class III under paragraph (1), may request, after receiving written notice of such a classification, the Secretary to classify the device.
 
-(ii) In lieu of submitting a report under section 360(k) of this title and submitting a request for classification under clause (i) for a device, if a person determines there is no legally marketed device upon which to base a determination of substantial equivalence (as defined in subsection (i)), a person may submit a request under this clause for the Secretary to classify the device.
+(ii) In lieu of submitting a report under section 360(k) of this title and submitting a requestfor classification under clause (i) for a device, if a person determines there is no legally marketed device upon which to base a determination of substantial equivalence (as defined in subsection (i)), a person may submit a request under this clause for the Secretary to classify the device.
 
 (iii) Upon receipt of a request under clause (i) or (ii), the Secretary shall classify the device subject to the request under the criteria set forth in subparagraphs (A) through (C) of subsection (a)(1) within 120 days.
 
@@ -232,7 +232,7 @@ Class III, Premarket Approval.—A device which because—
 
 (6)(A) Subject to the succeeding subparagraphs of this paragraph, the Secretary shall, by written order, classify an accessory under this section based on the risks of the accessory when used as intended and the level of regulatory controls necessary to provide a reasonable assurance of safety and effectiveness of the accessory, notwithstanding the classification of any other device with which such accessory is intended to be used.
 
-(B) The classification of any accessory distinct from another device by regulation or written order issued prior to December 13, 2016, shall continue to apply unless and until the accessoryis reclassified by the Secretary, notwithstanding the classification of any other device with which such accessory is intended to be used. Nothing in this paragraph shall preclude the Secretary's authority to initiate the classification of an accessory through regulation or written order, as appropriate.
+(B) The classification of any accessory distinct from another device by regulation or written order issued prior to December 13, 2016, shall continue to apply unless and until the accessory is reclassified by the Secretary, notwithstanding the classification of any other device with which such accessory is intended to be used. Nothing in this paragraph shall preclude the Secretary's authority to initiate the classification of an accessory through regulation or written order, as appropriate.
 
 (C)(i) In the case of a device intended to be used with an accessory, where the accessory has been included in an application for premarket approval of such device under section 360e of this title or a report under section 360(k) of this title for clearance of such device and the Secretary has not classified such accessory distinctly from another device in accordance with subparagraph (A), the person filing the application or report (as applicable) at the time such application or report is filed—
 
@@ -252,7 +252,7 @@ Class III, Premarket Approval.—A device which because—
 
 &emsp;(ii) A manufacturer or importer of an accessory that has been granted such marketing authorization may submit to the Secretary a written request for the appropriate classification of the accessory based on the risks and appropriate level of regulatory controls as described in subparagraph (A), and shall, if the request is requesting classification of the accessory in class II, include in the submission an initial draft proposal for special controls, if special controls would be required pursuant to subsection (a)(1)(B). Such request shall include such information as may be necessary for the Secretary to evaluate, based on the least burdensome approach, the appropriate class for the accessory under subsection (a). The Secretary shall provide an opportunity for a manufacturer or importer to meet with appropriate personnel of the Food and Drug Administration to discuss the appropriate classification of such accessory prior to submitting a written request under this clause for classification of the accessory.
 
-&emsp;(iii) The Secretary shall respond to a request made under clause (ii) not later than 85 calendar days after receiving such request by issuing a written order classifying the accessory or denying the request. If the Secretary does not agree with the recommendation for classification submitted by the manufacturer or importer, the response shall include a detailed description and justification for such determination. Within 30 calendar days after granting such a request, the Secretary shall publish a notice in the Federal Register announcing such response.
+&emsp;(iii) The Secretary shall respond to a request made under clause (ii) not later than 85 calendar days after receiving such request by issuing a written order classifying the accessoryor denying the request. If the Secretary does not agree with the recommendation for classification submitted by the manufacturer or importer, the response shall include a detailed description and justification for such determination. Within 30 calendar days after granting such a request, the Secretary shall publish a notice in the Federal Register announcing such response.
 
 (E) Nothing in this paragraph may be construed as precluding a manufacturer of an accessory of a new type from using the classification process described in subsection (f)(2) to obtain classification of such accessory in accordance with the criteria and requirements set forth in that subsection.
 
@@ -272,7 +272,7 @@ For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 
 
 #### (i) Substantial equivalence
 
-(1)(A) For purposes of determinations of substantial equivalence under subsection (f) andsection 360j(l) of this title, the term "substantially equivalent" or "substantial equivalence" means, with respect to a device being compared to a predicate device, that the device has the same intended use as the predicate device and that the Secretary by order has found that the device—
+(1)(A) For purposes of determinations of substantial equivalence under subsection (f) and section 360j(l) of this title, the term "substantially equivalent" or "substantial equivalence" means, with respect to a device being compared to a predicate device, that the device has the same intended use as the predicate device and that the Secretary by order has found that the device—
 
 &emsp;(i) has the same technological characteristics as the predicate device, or
 
@@ -366,7 +366,7 @@ Subsec. (j). Pub. L. 114–255, §3058(a), added subsec. (j).
 
 <b>2012</b>—Subsec. (a)(3)(D)(iii) to (v). Pub. L. 112–144, §602(a), added cls. (iii) and (iv) and redesignated former cl. (iii) as (v).
 
-Subsec. (e)(1). Pub. L. 112–144, §608(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Based on new information respecting a device, the Secretary may, upon his own initiative or upon petition of an interested person, by regulation (A) change such device's classification, and (B) revoke, because of the change in classification, any regulation or requirement in effect under section 360d or 360e of this title with respect to such device. In the promulgation of such a regulation respecting a device's classification, the Secretary may secure from the panel to which the device was last referred pursuant to subsection (c) of this section a recommendation respecting the proposed change in the device's classification and shall publish in the Federal Register any recommendation submitted to the Secretary by the panel respecting such change. A regulation under this subsection changing the classification of a device from class III to class II may provide that such classification shall not take effect until the effective date of a performance standard established under section 360d of this title for such device."
+Subsec. (e)(1). Pub. L. 112–144, §608(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Based on new information respecting a device, the Secretary may, upon his own initiative or upon petition of an interested person, by regulation (A) change such device's classification, and (B) revoke, because of the change in classification, any regulation or requirement in effect under section 360d or 360e of this title with respect to such device. In the promulgation of such a regulation respecting a device's classification,the Secretary may secure from the panel to which the device was last referred pursuant to subsection (c) of this section a recommendation respecting the proposed change in the device's classification and shall publish in the Federal Register any recommendation submitted to the Secretary by the panel respecting such change. A regulation under this subsection changing the classification of a device from class III to class II may provide that such classification shall not take effect until the effective date of a performance standard established under section 360d of this title for such device."
 
 Subsec. (e)(2). Pub. L. 112–144, §608(a)(2)(A), substituted "an order issued" for "regulation promulgated" in introductory provisions.
 
@@ -450,7 +450,7 @@ In general.—The amendments made by this subsection \[amending this section and
 
 "(B)
 
-Applicability of other provisions.—In the case of a device reclassified under section 513(e) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360c(e)\] by regulation prior to the date of enactment of this Act \[July 9, 2012\], section 517(a)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360g(a)(1)) shall apply to such regulation promulgated under section 513(e) of such Act with respect to such device in the same manner such section 517(a)(1) applies to an administrative order issued with respect to a device reclassified after the date of enactment of this Act."
+Applicability of other provisions.—In the case of a device reclassified under section 513(e) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360c(e)\] by regulation prior to the date of enactment of this Act \[July 9, 2012\], section 517(a)(1) of the Federal Food,Drug, and Cosmetic Act (21 U.S.C. 360g(a)(1)) shall apply to such regulation promulgated under section 513(e) of such Act with respect to such device in the same manner such section 517(a)(1) applies to an administrative order issued with respect to a device reclassified after the date of enactment of this Act."
 
 #### Daily Wear Soft or Daily Wear Nonhydrophilic Plastic Contact Lenses
 
@@ -466,7 +466,7 @@ Pub. L. 101–629, §4(b)(3), Nov. 28, 1990, 104 Stat. 4517, provided that:
 
 "(D) Notwithstanding section 520(l)(5) of such Act, if the Secretary of Health and Human Services has not made the finding and published the finding required by subparagraph (A) within 36 months of the date of the enactment of this subparagraph \[Nov. 28, 1990\], the Secretary shall issue an order placing the lens in class II.
 
-"(E) Any person adversely affected by a final regulation under this paragraph revising the classification ofa lens may challenge the revision of the classification of such lens only by filing a petition under section 513(e) for a classification change."
+"(E) Any person adversely affected by a final regulation under this paragraph revising the classification of a lens may challenge the revision of the classification of such lens only by filing a petition under section 513(e) for a classification change."
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

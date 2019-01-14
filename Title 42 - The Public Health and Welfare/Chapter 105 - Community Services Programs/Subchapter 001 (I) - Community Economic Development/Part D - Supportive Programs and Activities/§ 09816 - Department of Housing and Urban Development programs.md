@@ -20,7 +20,7 @@ Pub. L. 103–120, §4, Oct. 27, 1993, 107 Stat. 1148, as amended by Pub. L. 105
 
 "(a)
 
-In General.—The Secretary is authorized to provide assistance through the National Community Development Initiative, Local Initiatives Support Corporation, The Enterprise Foundation, Habitat for Humanity, and Youthbuild USA to develop the capacity and ability of community development corporationsand community housing development organizations to undertake community development and affordable housing projects and programs.
+In General.—The Secretary is authorized to provide assistance through the National Community Development Initiative, Local Initiatives Support Corporation, The Enterprise Foundation, Habitat for Humanity, and Youthbuild USA to develop the capacity and ability of community development corporations and community housing development organizations to undertake community development and affordable housing projects and programs.
 
 "(b)
 

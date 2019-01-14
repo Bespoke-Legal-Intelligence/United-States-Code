@@ -34,7 +34,7 @@ In General.—The Director of Cost Assessment and Program Evaluation shall ensur
 
 (b)
 
-Independent Cost Estimate Required Before Approval.—(1) A milestone decision authority may not approve entering a milestone phase of a major defense acquisition program or major subprogram unless an independent cost estimate has been conducted or approved by the Director of Cost Assessment and Program Evaluation and considered by the milestone decision authority that—
+Independent Cost Estimate Required Before Approval.—(1) A milestone decision authority may not approve entering a milestone phase of a major defense acquisition program or major subprogram unless an independent cost estimate has been conducted or approved by theDirector of Cost Assessment and Program Evaluation and considered by the milestone decision authority that—
 
 &emsp;(A) for the technology maturation and risk reduction phase, includes the identification and sensitivity analysis of key cost drivers that may affect life-cycle costs of the program or subprogram; and
 
@@ -114,7 +114,7 @@ Guidelines and Collection of Cost Data.—(1) The Director of Cost Assessment an
 
 Staff.—The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this section.
 
-(Added Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; amended Pub. L. 111–383, div. A, title VIII, §811, Jan. 7, 2011, 124 Stat. 4263; Pub. L. 112–81, div. A, title VIII, §833, Dec. 31, 2011, 125 Stat. 1506; Pub. L. 113–66, div. A, title VIII, §812(c), Dec. 26, 2013, 127 Stat. 808; Pub. L. 114–92, div. A, title VIII, §824(b), title X, §1077(a), Nov. 25, 2015, 129 Stat. 907, 998; Pub. L. 114–328, div. A, title VIII, §§842(a), (b), 846(3), Dec. 23, 2016, 130 Stat. 2288, 2289, 2292; Pub. L. 115–91, div.A, title X, §1081(a)(31), Dec. 12, 2017, 131 Stat. 1596.)
+(Added Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; amended Pub. L. 111–383, div. A, title VIII, §811, Jan. 7, 2011, 124 Stat. 4263; Pub. L. 112–81, div. A, title VIII, §833, Dec. 31, 2011, 125 Stat. 1506; Pub. L. 113–66, div. A, title VIII, §812(c), Dec. 26, 2013, 127 Stat. 808; Pub. L. 114–92, div. A, title VIII, §824(b), title X, §1077(a), Nov. 25, 2015, 129 Stat. 907, 998; Pub. L. 114–328, div. A, title VIII, §§842(a), (b), 846(3), Dec. 23, 2016, 130 Stat. 2288, 2289, 2292; Pub. L. 115–91, div. A, title X, §1081(a)(31), Dec. 12, 2017, 131 Stat. 1596.)
 
 #### Amendments
 

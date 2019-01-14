@@ -8,7 +8,7 @@ The Secretary may include individuals not employed by the Department of the Army
 
 #### (1) In general
 
-&emsp;An individual not employed by the Department of the Army attending a training class or course described in subsection (a) shall pay the full cost of the training provided to the individual.
+&emsp;An individual not employed by the Department of the Army attending a training classor course described in subsection (a) shall pay the full cost of the training provided to the individual.
 
 #### (2) Payments
 

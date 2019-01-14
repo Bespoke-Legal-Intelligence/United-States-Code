@@ -14,7 +14,7 @@ The purposes of this section are—
 
 #### (1) In general
 
-&emsp;Not later than 6 months after March 23, 2010, each State shall, as a condition of receiving payments from an allotment for the State under section 702 of this title for fiscal year 2011, conduct a statewide needs assessment (which shall be separate from the statewide needs assessment required under section 705(a) of this title) that identifies—
+&emsp;Each State shall, as a condition of receiving payments from an allotment for the State under section 702 of this title, conduct a statewide needs assessment (which may be separate from but in coordination with the statewide needs assessment required under section 705(a) of this title and which shall be reviewed and updated by the State not later than October 1, 2020) that identifies—
 
 &emsp;&emsp;(A) communities with concentrations of—
 
@@ -66,11 +66,15 @@ The purposes of this section are—
 
 &emsp;An eligible entity that receives a grant under paragraph (1) may use a portion of the funds made available to the entity during the first 6 months of the period for which the grant is made for planning or implementation activities to assist with the establishment of early childhood home visitation programs that satisfy the requirements of subsection (d).
 
-#### (3) Grant duration
+#### (3) Authority to use grant for a pay for outcomes initiative
+
+&emsp;An eligible entity to which a grant is made under paragraph (1) may use up to 25 percent of the grant for outcomes or success payments related to a pay for outcomes initiative that will not result in a reduction of funding for services delivered by the entity under a childhood home visitation program under this section while the eligible entity develops or operates such an initiative.
+
+#### (4) Grant duration
 
 &emsp;The Secretary shall determine the period of years for which a grant is made to an eligible entity under paragraph (1).
 
-#### (4) Technical assistance
+#### (5) Technical assistance
 
 &emsp;The Secretary shall provide an eligible entity that receives a grant under paragraph (1) with technical assistance in administering programs or activities conducted in whole or in part with grant funds.
 
@@ -82,7 +86,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (A) In general
 
-&emsp;&emsp;The eligible entity establishes, subject to the approval of the Secretary, quantifiable, measurable 3- and 5-year benchmarks for demonstrating that the program results in improvements for the eligible families participating in the program in each of the following areas:
+&emsp;&emsp;The eligible entity establishes, subject to the approval of the Secretary, quantifiable, measurable 3- and 5-year benchmarks for demonstrating that the program results in improvements for the eligible families participating in the program in the following areas:
 
 &emsp;&emsp;&emsp;(i) Improved maternal and newborn health.
 
@@ -118,11 +122,29 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (iv) No improvement or failure to submit report
 
-&emsp;&emsp;&emsp;If the Secretary determines after a period of time specified by the Secretary that an eligible entity implementing an improvement plan under clause (ii) has failed to demonstrate any improvement in the areas specified in subparagraph (A), or if the Secretary determines that an eligible entity has failed to submit the report required under clause (i), the Secretary shall terminate the entity's grant and may include any unexpended grant funds in grants made to nonprofit organizations under subsection (h)(2)(B).
+&emsp;&emsp;&emsp;If the Secretary determines after a period of time specified by the Secretarythat an eligible entity implementing an improvement plan under clause (ii) has failed to demonstrate any improvement in the areas specified in subparagraph (A), or if the Secretary determines that an eligible entity has failed to submit the report required under clause (i), the Secretary shall terminate the entity's grant and may include any unexpended grant funds in grants made to nonprofit organizations under subsection (h)(2)(B).
 
 #### (C) Final report
 
 &emsp;&emsp;Not later than December 31, 2015, the eligible entity shall submit a report to the Secretary demonstrating improvements (if any) in each of the areas specified in subparagraph (A).
+
+#### (D) Demonstration of improvements in subsequent years
+
+#### (i) Continued measurement of improvement in applicable benchmark areas
+
+&emsp;&emsp;&emsp;The eligible entity, after demonstrating improvements for eligible families as specified in subparagraphs (A) and (B), shall continue to track and report, not later than 30 days after the end of fiscal year 2020 and every 3 years thereafter, information demonstrating that the program results in improvements for the eligible families participating in the program in at least 4 of the areas specified in subparagraph (A) that the service delivery model or models selected by the entity are intended to improve.
+
+#### (ii) Corrective action plan
+
+&emsp;&emsp;&emsp;If the eligible entity fails to demonstrate improvement in at least 4 of the areas specified in subparagraph (A), as compared to eligible families who do not receive services under an early childhood home visitation program, the entity shall develop and implement a plan to improve outcomes in each of the areas specified in subparagraph (A) that the service delivery model or models selected by the entity are intended to improve, subject to approval by the Secretary. The plan shall include provisions for the Secretary to monitor implementation of the plan and conduct continued oversight of the program, including through submission by the entity of regular reports to the Secretary.
+
+#### (iii) Technical assistance
+
+&emsp;&emsp;&emsp;The Secretary shall provide an eligible entity required to develop and implement an improvement plan under clause (ii) with technical assistance to develop and implement the plan. The Secretary may provide the technical assistance directly or through grants, contracts, or cooperative agreements.
+
+#### (iv) No improvement or failure to submit report
+
+&emsp;&emsp;&emsp;If the Secretary determines after a period of time specified by the Secretary that an eligible entity implementing an improvement plan under clause (ii) has failed to demonstrate any improvement in at least 4 of the areas specified in subparagraph (A), or if the Secretary determines that an eligible entity has failed to submit the report required by clause (i), the Secretary shall terminate the grant made to the entity under this section and may include any unexpended grant funds in grants made to nonprofit organizations under subsection (h)(2)(B).
 
 #### (2) Improvements in outcomes for individual families
 
@@ -192,7 +214,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 &emsp;The eligible entity gives priority to providing services under the program to the following:
 
-&emsp;&emsp;(A) Eligible families who reside in communities in need of such services, as identified in the statewide needs assessment required under subsection (b)(1)(A).
+&emsp;&emsp;(A) Eligible families who reside in communities in need of such services, as identified in the statewide needs assessment required under subsection (b)(1)(A), taking into account the staffing, community resource, and other requirements to operate at least one approved model of home visiting and demonstrate improvements for eligible families.
 
 &emsp;&emsp;(B) Low-income eligible families.
 
@@ -222,7 +244,7 @@ An eligible entity desiring a grant under this section shall submit an applicati
 
 &emsp;(4) A statement identifying how the selection of the populations to be served and the service delivery model or models that the entity will use under the program for such populations is consistent with the results of the statewide needs assessment conducted under subsection (b).
 
-&emsp;(5) The quantifiable, measurable benchmarks established by the State to demonstrate that the program contributes to improvements in the areas specified in subsection (d)(1)(A).
+&emsp;(5) The quantifiable, measurable benchmarks established by the State to demonstrate that the program contributes to improvements in the areas specified in subsection (d)(1)(A) that the service delivery model or models selected by the entity are intended to improve.
 
 &emsp;(6) An assurance that the entity will obtain and submit documentation or other appropriate evidence from the organization or entity that developed the service delivery model or models used under the program to verify that the program is implemented and services are delivered according to the model specifications.
 
@@ -322,7 +344,7 @@ Funds provided to an eligible entity receiving a grant under this section shall 
 
 &emsp;Not later than December 31, 2015, the Secretary shall submit a report to Congress regarding the programs conducted with grants under this section. The report required under this paragraph shall include—
 
-&emsp;&emsp;(A) information regarding the extent to which eligible entities receiving grants under this section demonstrated improvements in each of the areas specified in subsection (d)(1)(A);
+&emsp;&emsp;(A) information regarding the extent to which eligible entities receiving grants under this section demonstrated improvements in the areas specified in subsection (d)(1)(A);
 
 &emsp;&emsp;(B) information regarding any technical assistance provided under subsection (d)(1)(B)(iii)(I), including the type of any such assistance provided; and
 
@@ -372,7 +394,7 @@ Funds provided to an eligible entity receiving a grant under this section shall 
 
 &emsp;&emsp;(G) for fiscal year 2016, $400,000,000; and
 
-&emsp;&emsp;(H) for fiscal year 2017, $400,000,000.
+&emsp;&emsp;(H) for each of fiscal years 2017 through 2022, $400,000,000.
 
 #### (2) Reservations
 
@@ -384,7 +406,17 @@ Funds provided to an eligible entity receiving a grant under this section shall 
 
 #### (3) Availability
 
-&emsp;Funds made available to an eligible entity under this section for a fiscal year (or portion of a fiscal year) shall remain available for expenditure by the eligible entity through the end of the second succeeding fiscal year after award. Any funds that are not expended by the eligible entity during the period in which the funds are available under the preceding sentence may be used for grants to nonprofit organizations under subsection (h)(2)(B).
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), funds made available to an eligible entity under this section for a fiscal year (or portion of a fiscal year) shall remain available for expenditure by the eligible entity through the end of the second succeeding fiscal year after award. Any funds that are not expended by the eligible entity during the period in which the funds are available under the preceding sentence may be used for grants to nonprofit organizations under subsection (h)(2)(B).
+
+#### (B) Funds for pay for outcomes initiatives
+
+&emsp;&emsp;Funds made available to an eligible entity under this section for a fiscal year (or portion of a fiscal year) for a pay for outcomes initiative shall remain available for expenditure by the eligible entity for not more than 10 years after the funds are so made available.
+
+#### (4) Allocation of funds
+
+&emsp;To the extent that the grant amount awarded under this section to an eligible entity is determined on the basis of relative population or poverty considerations, the Secretary shall make the determination using the most accurate Federal data available for the eligible entity.
 
 #### (k) Definitions
 
@@ -412,7 +444,73 @@ In this section:
 
 &emsp;The terms "Indian Tribe" and "Tribal Organization", and "Urban Indian Organization" have the meanings given such terms in section 1603 of title 25.
 
-(Aug. 14, 1935, ch. 531, title V, §511, as added Pub. L. 111–148, title II, §2951, Mar. 23, 2010, 124 Stat. 334; amended Pub. L. 113–93, title II, §209, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §218, Apr. 16, 2015, 129 Stat. 153.)
+#### (4) Pay for outcomes initiative
+
+&emsp;The term "pay for outcomes initiative" means a performance-based grant, contract, cooperative agreement, or other agreement awarded by a public entity in which a commitment is made to pay for improved outcomes achieved as a result of the intervention that result in social benefit and direct cost savings or cost avoidance to the public sector. Such an initiative shall include—
+
+&emsp;&emsp;(A) a feasibility study that describes how the proposed intervention is based on evidence of effectiveness;
+
+&emsp;&emsp;(B) a rigorous, third-party evaluation that uses experimental or quasi-experimental design or other research methodologies that allow for the strongest possible causal inferences to determine whether the initiative has met its proposed outcomes as a result of the intervention;
+
+&emsp;&emsp;(C) an annual, publicly available report on the progress of the initiative; and
+
+&emsp;&emsp;(D) a requirement that payments are made to the recipient of a grant, contract, or cooperative agreement only when agreed upon outcomes are achieved, except that this requirement shall not apply with respect to payments to a third party conducting the evaluation described in subparagraph (B).
+
+(Aug. 14, 1935, ch. 531, title V, §511, as added Pub. L. 111–148, title II, §2951, Mar. 23, 2010, 124 Stat. 334; amended Pub. L. 113–93, title II, §209, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §218, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title VI, §§50601–50606(a), 50607, Feb. 9, 2018, 132 Stat. 228–231.)
+
+#### Amendment of Subsection (h)
+
+<i>Pub. L. 115–123, div. E, title VI, §50606, Feb. 9, 2018, 132 Stat. 230, provided that, effective on the date that is 2 years after Feb. 9, 2018, subsection (h) of this section is amended by adding at the end the following:</i>
+
+#### <i>(5) Data exchange standards for improved interoperability</i>
+
+#### <i>(A) Designation and use of data exchange standards</i>
+
+#### <i>(i) Designation</i>
+
+&emsp;&emsp;&emsp;<i>The head of the department or agency responsible for administering a program funded under this section shall, in consultation with an interagency work group established by the Office of Management and Budget and considering State government perspectives, designate data exchange standards for necessary categories of information that a State agency operating the program is required to electronically exchange with another State agency under applicable Federal law.</i>
+
+#### <i>(ii) Data exchange standards must be nonproprietary and interoperable</i>
+
+&emsp;&emsp;&emsp;<i>The data exchange standards designated under clause (i) shall, to the extent practicable, be nonproprietary and interoperable.</i>
+
+#### <i>(iii) Other requirements</i>
+
+&emsp;&emsp;&emsp;<i>In designating data exchange standards under this paragraph, the Secretary shall, to the extent practicable, incorporate—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) interoperable standards developed and maintained by an international voluntary consensus standards body, as defined by the Office of Management and Budget;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance.</i>
+
+#### <i>(B) Data exchange standards for Federal reporting</i>
+
+#### <i>(i) Designation</i>
+
+&emsp;&emsp;&emsp;<i>The head of the department or agency responsible for administering a program referred to in this section shall, in consultation with an interagency work group established by the Office of Management and Budget, and considering State government perspectives, designate data exchange standards to govern Federal reporting and exchange requirements under applicable Federal law.</i>
+
+#### <i>(ii) Requirements</i>
+
+&emsp;&emsp;&emsp;<i>The data exchange reporting standards required by clause (i) shall, to the extent practicable—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) incorporate a widely accepted, nonproprietary, searchable, computer-readable format;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) be consistent with and implement applicable accounting principles;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) be implemented in a manner that is cost-effective and improves program efficiency and effectiveness; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IV) be capable of being continually upgraded as necessary.</i>
+
+#### <i>(iii) Incorporation of nonproprietary standards</i>
+
+&emsp;&emsp;&emsp;<i>In designating data exchange standards under this paragraph, the Secretary shall, to the extent practicable, incorporate existing nonproprietary standards, such as the eXtensible Mark up Language.</i>
+
+#### <i>(iv) Rule of construction</i>
+
+&emsp;&emsp;&emsp;<i>Nothing in this paragraph shall be construed to require a change to existing data exchange standards for Federal reporting about a program referred to in this section, if the head of the department or agency responsible for administering the program finds the standards to be effective and efficient.</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 #### References in Text
 
@@ -428,11 +526,39 @@ Provisions similar to those comprising former section 711 were contained in sect
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–123, §50603, in introductory provisions, substituted "Each State shall, as a condition of receiving payments from an allotment for the State under section 702 of this title, conduct a statewide needs assessment (which may be separate from but in coordination with the statewide needs assessment required under section 705(a) of this title and which shall be reviewed and updated by the State not later than October 1, 2020)" for "Not later than 6 months after March 23, 2010, each State shall, as a condition of receiving payments from an allotment for the State under section 702 of this title for fiscal year 2011, conduct a statewide needs assessment (which shall be separate from the statewide needs assessment required under section 705(a) of this title)".
+
+Subsec. (c)(3) to (5). Pub. L. 115–123, §50605(a), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
+Subsec. (d)(1)(A). Pub. L. 115–123, §50602(a), struck out "each of" before "the following areas" in introductory provisions.
+
+Subsec. (d)(1)(D). Pub. L. 115–123, §50602(b), added subpar. (D).
+
+Subsec. (d)(4)(A). Pub. L. 115–123, §50604, inserted ", taking into account the staffing, community resource, and other requirements to operate at least one approved model of home visiting and demonstrate improvements for eligible families" before period at end.
+
+Subsec. (e)(5). Pub. L. 115–123, §50602(c), inserted "that the service delivery model or models selected by the entity are intended to improve" before period at end.
+
+Subsec. (h)(4)(A). Pub. L. 115–123, §50602(a), struck out "each of" before "the areas".
+
+Subsec. (h)(5). Pub. L. 115–123, §50606(a), added par. (5).
+
+Subsec. (j)(1)(H). Pub. L. 115–123, §50601, substituted "each of fiscal years 2017 through 2022" for "fiscal year 2017".
+
+Subsec. (j)(3). Pub. L. 115–123, §50605(c), designated existing provisions as subpar. (A) and inserted heading, substituted "Except as provided in subparagraph (B), funds" for "Funds", and added subpar. (B).
+
+Subsec. (j)(4). Pub. L. 115–123, §50607, added par. (4).
+
+Subsec. (k)(4). Pub. L. 115–123, §50605(b), added par. (4).
+
 <b>2015</b>—Subsec. (j)(1)(F) to (H). Pub. L. 114–10 substituted "for fiscal year 2015, $400,000,000;" for "for the period beginning on October 1, 2014, and ending on March 31, 2015, an amount equal to the amount provided in subparagraph (E)." in subpar. (F) and added subpars. (G) and (H).
 
 <b>2014</b>—Subsec. (j)(1)(F). Pub. L. 113–93, §209(1), added subpar. (F).
 
 Subsec. (j)(2), (3). Pub. L. 113–93, §209(2), inserted "(or portion of a fiscal year)" after "for a fiscal year".
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–123, div. E, title VI, §50606(b), Feb. 9, 2018, 132 Stat. 231, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is 2 years after the date of enactment of this Act \[Feb. 9, 2018\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

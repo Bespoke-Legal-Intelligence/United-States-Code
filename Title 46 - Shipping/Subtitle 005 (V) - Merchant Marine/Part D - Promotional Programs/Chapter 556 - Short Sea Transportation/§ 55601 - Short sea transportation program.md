@@ -46,7 +46,7 @@ Multistate, State and Regional Transportation Planning.—The Secretary, in cons
 
 &emsp;(2) encourage State departments of transportation to develop strategies, where appropriate, to incorporate short sea transportation, ferries, and other marine transportation solutions for regional and interstate transport of freight and passengers in their transportation planning; and
 
-&emsp;(3) encourage groups of States and multi-State transportation entities to determine how short sea transportation can address congestion, bottlenecks, and other interstate transportation challenges.
+&emsp;(3) encourage groups of States and multi-State transportation entities to determinehow short sea transportation can address congestion, bottlenecks, and other interstate transportation challenges.
 
 (g)
 

@@ -62,7 +62,7 @@ Any amount paid to an eligible system for a fiscal year under this section that 
 
 #### (f) Report to Secretary
 
-An entity that receives a grant under this section shall annually prepare and submit to the Secretary a report that contains such information as the Secretary may require, including documentation of the progress of the entity in—
+An entity that receives a grant under this section shall annually prepare and submit to theSecretary a report that contains such information as the Secretary may require, including documentation of the progress of the entity in—
 
 &emsp;(1) conducting consumer-responsive activities, including activities that will lead to increased access, for individuals with disabilities, to funding for assistive technology devices and assistive technology services;
 

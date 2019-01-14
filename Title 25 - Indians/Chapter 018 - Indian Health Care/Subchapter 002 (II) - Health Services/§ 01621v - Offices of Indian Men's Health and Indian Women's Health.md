@@ -36,5 +36,5 @@ Amendment by Pub. L. 111–148 is based on section 136 of title I of S. 1790, On
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148 substituted "Offices of Indian Men's Health and Indian Women's Health" for "Office of Indian Women's Health Care" in section catchline,added subsec. (a), designated existing provisions as subsec. (b), inserted subsec. (b) heading, substituted "The Secretary, acting through the Service, shall establish an office, to be known as the 'Office of Indian Women's Health', to" for "There is established within the Service an Office of Indian Women's Health Care to oversee efforts of the Service to", and inserted "(including urban Indian women)" before "of all ages".
+<b>2010</b>—Pub. L. 111–148 substituted "Offices of Indian Men's Health and Indian Women's Health" for "Office of Indian Women's Health Care" in section catchline, added subsec. (a), designated existing provisions as subsec. (b), inserted subsec. (b) heading, substituted "The Secretary, acting through the Service, shall establish an office, to be known as the 'Office of Indian Women's Health', to" for "There is established within the Service an Office of Indian Women's Health Care to oversee efforts of the Service to", and inserted "(including urban Indian women)" before "of all ages".
 

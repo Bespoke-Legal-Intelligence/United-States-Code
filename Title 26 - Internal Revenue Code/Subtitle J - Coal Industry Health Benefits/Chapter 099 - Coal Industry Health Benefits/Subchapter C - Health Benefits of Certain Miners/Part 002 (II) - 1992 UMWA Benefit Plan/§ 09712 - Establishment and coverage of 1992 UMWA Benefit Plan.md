@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;As soon as practicable after the enactment date, the settlors shall create a separate private plan which shall be known as the United Mine Workers of America 1992 Benefit Plan. For purposes of this title, the 1992 UMWA Benefit Plan shall be treated as an organization exempt from taxation under section 501(a). The settlors shall be responsible for designing the structure, administration and terms of the 1992 UMWA Benefit Plan, and for appointment and removal of the members of the board of trustees. The board of trustees shall initiallyconsist of five members and shall thereafter be the number set by the settlors.
+&emsp;As soon as practicable after the enactment date, the settlors shall create a separate private plan which shall be known as the United Mine Workers of America 1992 Benefit Plan. For purposes of this title, the 1992 UMWA Benefit Plan shall be treated as an organization exempt from taxation under section 501(a). The settlors shall be responsible for designing the structure, administration and terms of the 1992 UMWA Benefit Plan, and for appointment and removal of the members of the board of trustees. The board of trustees shall initially consist of five members and shall thereafter be the number set by the settlors.
 
 #### (2) Treatment of plan
 
@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The plan described in section 402(h)(2)(C) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(h)(2)(C)) shall include any amount transferred to the plan under subsections (h) and (i) of <sup>1</sup> the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232).
+&emsp;&emsp;The plan described in section 402(h)(2)(C) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(h)(2)(C)) shall include any amount transferred to the plan under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232).
 
 #### (B) Use of funds
 
@@ -60,7 +60,7 @@
 
 #### (2) Managed care
 
-&emsp;The 1992 UMWA Benefit Plan shall develop managed care and cost containment rules which shall be applicable to the payment of benefits under this subsection. Application of such rules shall not cause the plan to be treated as failing to meet the requirements of this subsection. Such rules shall preserve freedom of choice while reinforcing managed care network use by allowing a point of service decision as to whether a network medical provider will be used. Major elements of such rules may include, but are not limited to, elements described in paragraph (3).
+&emsp;The 1992 UMWA Benefit Plan shall develop managed care and cost containment rules which shall be applicable to the payment of benefits under this subsection. Application of such rules shall not cause the plan to be treated as failing to meet the requirements of thissubsection. Such rules shall preserve freedom of choice while reinforcing managed care network use by allowing a point of service decision as to whether a network medical provider will be used. Major elements of such rules may include, but are not limited to, elements described in paragraph (3).
 
 #### (3) Major elements of rules
 
@@ -130,13 +130,15 @@
 
 &emsp;For purposes of this section, the term "1988 last signatory operator" means a last signatory operator which is a 1988 agreement operator.
 
-(Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3053; amended Pub. L. 109–432, div. C, title II, §§211(c), 212(b)(1)–(2)(B), Dec. 20, 2006, 120 Stat. 3023, 3025, 3026.)
+(Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3053; amended Pub. L. 109–432, div. C, title II, §§211(c), 212(b)(1)–(2)(B), Dec. 20, 2006, 120 Stat. 3023, 3025, 3026; Pub. L. 115–141, div. U, title IV, §401(a)(348), Mar. 23, 2018, 132 Stat. 1201.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (c)(3)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(4)(A). Pub. L. 115–141 inserted "section 402 of" after "subsections (h) and (i) of".
 
 <b>2006</b>—Subsec. (a)(3), (4). Pub. L. 109–432, §212(b)(1), added pars. (3) and (4).
 
@@ -146,11 +148,9 @@ Subsec. (d)(2)(B). Pub. L. 109–432, §212(b)(2)(B)(i), substituted "backstop" 
 
 Subsec. (d)(3). Pub. L. 109–432, §212(b)(2)(B)(ii), substituted "paragraph (1)(A)" for "paragraph (1)(B)".
 
-Subsec. (d)(4). Pub. L. 109–432, §211(c), inserted at end "The provisions of section 9711(c)(2) shall apply to any last signatory operator described in such section (without regard to whether security is provided under such section, a payment is made under section 9704(j), orboth) and if security meeting the requirements of section 9711(c)(3) is provided, the common parent described in section 9711(c)(2)(B) shall be exclusively responsible for any liability for premiums under this section which, but for this sentence, would be required to be paid by the last signatory operator or any related person."
+Subsec. (d)(4). Pub. L. 109–432, §211(c), inserted at end "The provisions of section 9711(c)(2) shall apply to any last signatory operator described in such section (without regard to whether security is provided under such section, a payment is made under section 9704(j), or both) and if security meeting the requirements of section 9711(c)(3) is provided, the common parent described in section 9711(c)(2)(B) shall be exclusively responsible for any liability for premiums under this section which, but for this sentence, would be required to be paid by the last signatory operator or any related person."
 
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–432, div. C, title II, §212(b)(2)(C), Dec. 20, 2006, 120 Stat. 3026, provided that: "The amendments made by this paragraph \[amending this section\] shall apply to fiscal years beginning on or after October 1, 2010."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "section 402 of".</i>
 

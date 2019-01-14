@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (3) Counternarcotics efforts
 
-&emsp;(A) To assist in the eradication of poppy cultivation, the disruption of heroin production, and the reduction of the overall supply and demand for illicit narcotics in Afghanistan and the region, with particular emphasis on assistance to—
+&emsp;(A) To assist in the eradication of poppy cultivation, the disruption of heroin production,and the reduction of the overall supply and demand for illicit narcotics in Afghanistan and the region, with particular emphasis on assistance to—
 
 &emsp;&emsp;(i) eradicate opium poppy, promote alternatives to poppy cultivation, including the introduction of high value crops that are suitable for export and the provision of appropriate technical assistance and credit mechanisms for farmers, purchase nonopium products from farmers in opium-growing areas, quick-impact public works programs to divert labor from narcotics production, develop projects directed specifically at narcotics production, processing, or trafficking areas to provide incentives to cooperation in narcotics suppression activities, and related programs;
 
@@ -50,7 +50,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (4) Reestablishment of food security, rehabilitation of the agriculture sector, improvement in health conditions, and the reconstruction of basic infrastructure
 
-&emsp;To assist in expanding access to markets in Afghanistan, to increase the availability offood in markets in Afghanistan, to rehabilitate the agriculture sector in Afghanistan by creating jobs for former combatants, returning refugees, and internally displaced persons, to improve health conditions, and assist in the rebuilding of basic infrastructure in Afghanistan, including assistance such as—
+&emsp;To assist in expanding access to markets in Afghanistan, to increase the availability of food in markets in Afghanistan, to rehabilitate the agriculture sector in Afghanistan by creating jobs for former combatants, returning refugees, and internally displaced persons, to improve health conditions, and assist in the rebuilding of basic infrastructure in Afghanistan, including assistance such as—
 
 &emsp;&emsp;(A) rehabilitation of the agricultural infrastructure, including irrigation systems and rural roads;
 
@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(vii) support for international organizations that provide civil advisers to the Government of Afghanistan; and
 
-&emsp;&emsp;&emsp;(viii) support for Afghan and international efforts to investigate humanrights atrocities committed in Afghanistan by the Taliban regime, opponents of such regime, and terrorist groups operating in Afghanistan, including the collection of forensic evidence relating to such atrocities.
+&emsp;&emsp;&emsp;(viii) support for Afghan and international efforts to investigate human rights atrocities committed in Afghanistan by the Taliban regime, opponents of such regime, and terrorist groups operating in Afghanistan, including the collection of forensic evidence relating to such atrocities.
 
 #### (C) Civil society and democracy
 
@@ -156,7 +156,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 #### (A) Assistance objectives
 
-&emsp;&emsp;To assist women and girls in Afghanistan in the areas of political and human rights, health care, education, training, security, and shelter, with particular emphasis on assistance—
+&emsp;&emsp;To assist women and girls in Afghanistan in the areas of political and human rights,health care, education, training, security, and shelter, with particular emphasis on assistance—
 
 &emsp;&emsp;&emsp;(i) to support construction of, provide equipment and medical supplies to, and otherwise facilitate the establishment and rehabilitation of, health care facilities in order to improve the health care of women, children, and infants;
 
@@ -324,7 +324,7 @@ Types of programs and activities.—Such programs and activities may include—
 
 &emsp;&emsp;"(I) efforts to recruit women into the Afghan National Security Forces, including the special operations forces;
 
-&emsp;&emsp;"(II) programs and activities of the Afghan Ministry of Defense Directorate of Human Rights and Gender Integration and the Afghan Ministry of Interior Office of Human Rights, Gender and Child Rights;
+&emsp;&emsp;"(II) programs and activities of the Afghan Ministry of Defense Directorate of Human Rights andGender Integration and the Afghan Ministry of Interior Office of Human Rights, Gender and Child Rights;
 
 &emsp;&emsp;"(III) development and dissemination of gender and human rights educational and training materials and programs within the Afghan Ministry of Defense and the Afghan Ministry of Interior;
 
@@ -342,7 +342,7 @@ Pub. L. 114–92, div. A, title XV, §1531(c)(2), Nov. 25, 2015, 129 Stat. 1089.
 
 #### Authority To Establish a Program To Develop and Carry Out Infrastructure Projects in Afghanistan
 
-Pub. L. 111–383, div. A, title XII, §1217, Jan. 7, 2011, 124 Stat. 4393, as amended by Pub. L. 112–81, div. A, title XII, §1217, Dec. 31, 2011, 125 Stat. 1632; Pub. L. 112–239, div. A, title XII, §1219, Jan. 2, 2013, 126 Stat. 1991; Pub. L. 113–66, div. A, title XII, §1215(a), Dec. 26, 2013, 127 Stat. 907, provided that:
+Pub. L. 111–383, div. A, title XII, §1217, Jan. 7, 2011, 124 Stat. 4393, as amended by Pub. L. 112–81, div. A, title XII, §1217, Dec. 31, 2011, 125 Stat. 1632; Pub. L. 112–239, div. A, title XII, §1219, Jan. 2, 2013, 126 Stat. 1991; Pub. L. 113–66, div. A, title XII, §1215(a), Dec. 26, 2013, 127 Stat. 907; Pub. L. 115–232, div. A, title VIII, §813(e), Aug. 13, 2018, 132 Stat. 1851, provided that:
 
 "(a)
 
@@ -442,21 +442,7 @@ In general.—Any unexpended funds transferred to the Secretary of State for the
 
 Availability.—Any funds returned to the Secretary of Defense under this subsection shall be available for use under this section and shall be treated in the same manner as funds not transferred to the Secretary of State.
 
-"(i)
-
-Reports.—
-
-&emsp;"(1)
-
-Report required.—Not later than 30 days after the end of each fiscal year in which funds are obligated, expended, or transferred under the program authorized under subsection (a), the Secretary of Defense, in coordination with the Secretary of State, shall submit to the appropriate congressional committees a report regarding implementation of the program during such fiscal year.
-
-&emsp;"(2)
-
-Matters to be included.—The report required under paragraph (1) shall include the following:
-
-&emsp;&emsp;"(A) The allocation and use of funds under the program during the fiscal year.
-
-&emsp;&emsp;"(B) A description of each project for which funds were expended or transferred during the fiscal year.
+"\[(i) Repealed. Pub. L. 115–232, div. A, title VIII, §813(e), Aug. 13, 2018, 132 Stat. 1851.\]
 
 "(j)
 
@@ -467,8 +453,6 @@ Definition.—In this section, the term 'appropriate congressional committees' m
 &emsp;"(2) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate."
 
 \[Pub. L. 113–66, div. A, title XII, §1215(b), Dec. 26, 2013, 127 Stat. 908, provided that: "The amendments made by this section \[amending section 1217 of Pub. L. 111–383, set out above\] shall take effect on October 1, 2013."\]
-
-\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1217(i) of Pub. L. 111–383, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces.\]
 
 #### Performance Monitoring System for United States-Led Provincial Reconstruction Teams in Afghanistan
 
@@ -550,7 +534,7 @@ In General.—Subject to subsection (b), the President is authorized, on such te
 
 Implementation.—(1) In providing assistance under subsection (a), the President shall ensure that such assistance is provided in a manner that protects and promotes the human rights of all people in Afghanistan, utilizing indigenous institutions and nongovernmental organizations, especially women's organizations, to the extent possible.
 
-"(2) Beginning 6 months after the date of enactment of this Act \[Dec. 12, 2001\], and at least annually for the 2 years thereafter, the Secretary of State shall submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives describing the activities carried out under this Act and otherwise describing the condition and status of women and children in Afghanistan and the persons in refugee camps while United States aid is given to displaced Afghans.
+"(2) Beginning 6 months after the date of enactment of this Act \[Dec. 12, 2001\], and at least annually for the2 years thereafter, the Secretary of State shall submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives describing the activities carried out under this Act and otherwise describing the condition and status of women and children in Afghanistan and the persons in refugee camps while United States aid is given to displaced Afghans.
 
 "(c)
 

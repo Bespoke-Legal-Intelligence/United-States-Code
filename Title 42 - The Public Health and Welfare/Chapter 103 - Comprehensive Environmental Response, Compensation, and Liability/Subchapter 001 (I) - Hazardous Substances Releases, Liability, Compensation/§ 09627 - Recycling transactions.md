@@ -24,7 +24,7 @@ Transactions involving scrap paper, scrap plastic, scrap glass, scrap textiles, 
 
 &emsp;(3) A substantial portion of the recyclable material was made available for use as feedstock for the manufacture of a new saleable product.
 
-&emsp;(4) The recyclable material could have been a replacement or substitute for a virgin raw material, or the product to be made from the recyclable material could have been a replacement or substitute for a product made, in whole or in part, from a virgin raw material.
+&emsp;(4) The recyclable material could have been a replacement or substitute for a virgin rawmaterial, or the product to be made from the recyclable material could have been a replacement or substitute for a product made, in whole or in part, from a virgin raw material.
 
 &emsp;(5) For transactions occurring 90 days or more after November 29, 1999, the person exercised reasonable care to determine that the facility where the recyclable material was handled, processed, reclaimed, or otherwise managed by another person (hereinafter in this section referred to as a "consuming facility") was in compliance with substantive (not procedural or administrative) provisions of any Federal, State, or local environmental law or regulation, or compliance order or decree issued pursuant thereto, applicable to the handling, processing, reclamation, storage, or other management activities associated with recyclable material.
 
@@ -48,7 +48,7 @@ Transactions involving scrap paper, scrap plastic, scrap glass, scrap textiles, 
 
 (2) For purposes of paragraph (1)(C), melting of scrap metal does not include the thermal separation of 2 or more materials due to differences in their melting points (referred to as "sweating").
 
-(3) For purposes of this subsection, the term "scrap metal" means bits and pieces of metal parts (e.g., bars, turnings, rods, sheets, wire) or metal pieces that may be combined together with bolts or soldering (e.g., radiators, scrap automobiles, railroad box cars), which whenworn or superfluous can be recycled, except for scrap metals that the Administrator excludes from this definition by regulation.
+(3) For purposes of this subsection, the term "scrap metal" means bits and pieces of metal parts (e.g., bars, turnings, rods, sheets, wire) or metal pieces that may be combined together with bolts or soldering (e.g., radiators, scrap automobiles, railroad box cars), which when worn or superfluous can be recycled, except for scrap metals that the Administrator excludes from this definition by regulation.
 
 #### (e) Transactions involving batteries
 
@@ -72,7 +72,7 @@ Transactions involving spent lead-acid batteries, spent nickel-cadmium batteries
 
 &emsp;&emsp;(ii) that the recyclable material would be burned as fuel, or for energy recovery or incineration; or
 
-&emsp;&emsp;(iii) for transactions occurring before 90 days after November 29, 1999, that the consuming facility was not in compliance with a substantive (not procedural or administrative) provision of any Federal, State, or local environmental law or regulation, or compliance order or decree issued pursuant thereto, applicable to the handling, processing, reclamation, or other management activities associated with the recyclable material;
+&emsp;&emsp;(iii) for transactions occurring before 90 days after November 29, 1999, that the consuming facility was not in compliance with a substantive (not procedural or administrative) provision of any Federal, State, or local environmental law or regulation, or compliance order or decree issued pursuantthereto, applicable to the handling, processing, reclamation, or other management activities associated with the recyclable material;
 
 &emsp;(B) the person had reason to believe that hazardous substances had been added to the recyclable material for purposes other than processing for recycling; or
 

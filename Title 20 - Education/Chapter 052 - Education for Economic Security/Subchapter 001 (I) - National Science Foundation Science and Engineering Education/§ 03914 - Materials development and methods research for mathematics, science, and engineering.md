@@ -24,7 +24,7 @@ Studies conducted under subsection (a)(3) may include—
 
 #### (c) Matching grant requirements
 
-Funds awarded for such competitive grants shall be expended through a system requiringmatching of the grant. The minimum amount required as a match shall be equal to a percentage of the grant that is determined by the Foundation. Funds made available for matching purposes may include in-kind services or other resources.
+Funds awarded for such competitive grants shall be expended through a system requiring matching of the grant. The minimum amount required as a match shall be equal to a percentage of the grant that is determined by the Foundation. Funds made available for matching purposes may include in-kind services or other resources.
 
 #### (d) Materials or methods research application requirements
 

@@ -18,7 +18,7 @@ Small business concern owned and controlled by women.—The term "small business
 
 (b)
 
-Reporting.—Each Federal agency shall report to the Office of Federal Procurement Policy the number of qualified HUBZone small businessconcerns, the number of small businesses owned and controlled by women, and the number of small business concerns owned and controlled by socially and economically disadvantaged individuals, by gender, that are first time recipients of contracts from the agency. The Office shall take appropriate action to ascertain, for each fiscal year, the number of those small businesses that have newly entered the Federal market.
+Reporting.—Each Federal agency shall report to the Office of Federal Procurement Policy the number of qualified HUBZone small business concerns, the number of small businesses owned and controlled by women, and the number of small business concerns owned and controlled by socially and economically disadvantaged individuals, by gender, that are first time recipients of contracts from the agency. The Office shall take appropriate action to ascertain, for each fiscal year, the number of those small businesses that have newly entered the Federal market.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3719; Pub. L. 115–91, div. A, title XVII, §1701(a)(4)(F)(ii), Dec. 12, 2017, 131 Stat. 1796.)
 
@@ -58,5 +58,5 @@ Section 204 of the Women's Business Ownership Act of 1988, referred to in subsec
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 2323 of Title 10, Armed Forces.
+Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 657a of Title 15, Commerce and Trade.
 

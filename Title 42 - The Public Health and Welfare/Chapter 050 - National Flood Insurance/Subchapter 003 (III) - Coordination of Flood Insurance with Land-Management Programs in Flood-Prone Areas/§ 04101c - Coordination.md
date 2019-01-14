@@ -26,7 +26,7 @@ In carrying out sections 4101a and 4101b of this title, the Administrator shall�
 
 &emsp;(4) integrate with, leverage, and coordinate, to the maximum extent practicable, the current geospatial activities of other Federal agencies and units of State and local government; and
 
-&emsp;(5) develop a funding strategy to leverage and coordinate budgets and expenditures, and to maintain or establish joint funding and other agreement mechanisms with other Federal agencies and units of State and local government to share in the collection and utilization of geospatial data among all governmental users.
+&emsp;(5) develop a funding strategy to leverage and coordinate budgets and expenditures, and to maintain or establish joint funding andother agreement mechanisms with other Federal agencies and units of State and local government to share in the collection and utilization of geospatial data among all governmental users.
 
 (Pub. L. 112–141, div. F, title II, §100220, July 6, 2012, 126 Stat. 932.)
 

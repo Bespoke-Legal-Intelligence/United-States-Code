@@ -6,7 +6,7 @@ Not later than one year after January 14, 1986, and each five years thereafter, 
 
 #### (b) Contents
 
-The reports required in subsection (a) of this section shall set forth clearly defined policiesregarding United States, and United States associated, noncontiguous Pacific areas, including—
+The reports required in subsection (a) of this section shall set forth clearly defined policies regarding United States, and United States associated, noncontiguous Pacific areas, including—
 
 &emsp;(1) the role of and impacts on the noncontiguous Pacific areas in the formulation and conduct of foreign policy;
 

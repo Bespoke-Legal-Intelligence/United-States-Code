@@ -24,7 +24,7 @@ A prior section 12614, Pub. L. 101–610, title I, §163, Nov. 16, 1990, 104 Sta
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1504(1), substituted "National Civilian Community Corps Program" for"Civilian Community Corps Demonstration Program" and "on National Civilian Community Corps" for "on Civilian Community Corps".
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1504(1), substituted "National Civilian Community Corps Program" for "Civilian Community Corps Demonstration Program" and "on National Civilian Community Corps" for "on Civilian Community Corps".
 
 Subsec. (b). Pub. L. 111–13, §1504(2), substituted "shall be from economically and ethnically diverse backgrounds, including youth who are in foster care." for "shall be economically disadvantaged youths."
 

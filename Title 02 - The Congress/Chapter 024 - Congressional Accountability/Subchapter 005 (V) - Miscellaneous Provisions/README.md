@@ -12,4 +12,6 @@
 - [&sect; 01435 - Savings provisions](%C2%A7%2001435%20-%20Savings%20provisions.md)
 - [&sect; 01436 - Repealed. Pub. L. 106&#8211;57, title III, &sect;313, Sept. 29, 1999, 113 Stat. 428](%C2%A7%2001436%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9357%2C%20title%20III%2C%20%C2%A7313%2C%20Sept.%2029%2C%201999%2C%20113%20Stat.%20428.md)
 - [&sect; 01437 - Sense of Senate regarding adoption of simplified and streamlined acquisition procedures for Senate acquisitions](%C2%A7%2001437%20-%20Sense%20of%20Senate%20regarding%20adoption%20of%20simplified%20and%20streamlined%20acquisition%20procedures%20for%20Senate%20acquisitions.md)
+- [&sect; 01437a - Training and education programs of employing offices](%C2%A7%2001437a%20-%20Training%20and%20education%20programs%20of%20employing%20offices.md)
+- [&sect; 01437b - Support for out-of-area covered employees](%C2%A7%2001437b%20-%20Support%20for%20out-of-area%20covered%20employees.md)
 - [&sect; 01438 - Severability](%C2%A7%2001438%20-%20Severability.md)

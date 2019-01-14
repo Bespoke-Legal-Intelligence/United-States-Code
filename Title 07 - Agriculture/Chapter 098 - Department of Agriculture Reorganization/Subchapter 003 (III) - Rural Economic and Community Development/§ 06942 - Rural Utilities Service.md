@@ -10,7 +10,9 @@ The Secretary shall establish and maintain within the Department the Rural Utili
 
 &emsp;The Rural Utilities Service shall be headed by an Administrator who shall be appointed by the President.
 
-#### (2) Omitted
+#### (2) Compensation
+
+&emsp;The Administrator of the Rural Utilities Service shall receive basic pay at a rate not to exceed the maximum amount of compensation payable to a member of the Senior Executive Service under subsection (b) of section 5382 of title 5.
 
 #### (c) Functions
 
@@ -28,7 +30,7 @@ The Secretary shall carry out through the Rural Utilities Service the following 
 
 &emsp;&emsp;(B) section 2324 of the Food, Agriculture, Conservation, and Trade Act of 1990 <sup>1</sup> (7 U.S.C. 1926 note).
 
-(Pub. L. 103–354, title II, §232, Oct. 13, 1994, 108 Stat. 3219; Pub. L. 104–127, title VII, §747(b)(2), Apr. 4, 1996, 110 Stat. 1128; Pub. L. 112–166, §2(a)(2), Aug. 10, 2012, 126 Stat. 1283.)
+(Pub. L. 103–354, title II, §232, Oct. 13, 1994, 108 Stat. 3219; Pub. L. 104–127, title VII, §747(b)(2), Apr. 4, 1996, 110 Stat. 1128; Pub. L. 112–166, §2(a)(2), Aug. 10, 2012, 126 Stat. 1283; Pub. L. 115–334, title XII, §12408(a)(1), Dec. 20, 2018, 132 Stat. 4976.)
 
 #### References in Text
 
@@ -42,9 +44,11 @@ Section 2324 of the Food, Agriculture, Conservation, and Trade Act of 1990, refe
 
 #### Codification
 
-Section is comprised of section 232 of Pub. L. 103–354. Subsec. (b)(2), formerly (b)(3), of section 232 of Pub. L. 103–354 amended section 5315 of Title 5, Government Organization and Employees.
+Section is comprised of section 232 of Pub. L. 103–354. Prior to amendment of this section by Pub. L. 115–334, subsec. (b)(2), formerly (b)(3), of section 232 of Pub. L. 103–354 amended section 5315 of Title 5, Government Organization and Employees. See 2018 Amendment note below.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–334 amended subsec. (b) generally. Prior to amendment, par. (2) amended section 5315 of Title 5, Government Organization and Employees, and text of par. (1) read as follows: "The Rural Utilities Service shall be headed by an Administrator who shall be appointed by the President."
 
 <b>2012</b>—Subsec. (b)(1). Pub. L. 112–166, §2(a)(2)(A), struck out ", by and with the advice and consent of the Senate" before period at end.
 
@@ -58,7 +62,7 @@ Subsec. (b)(2). Pub. L. 112–166, §2(a)(2)(B), (C), which directed that subsec
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made onand after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -54,37 +54,33 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 &emsp;If the Secretary submits to Congress (or a committee of Congress) a report that is required by law and that relates to payment policies under this subchapter, the Secretary shall transmit a copy of the report to the Commission. The Commission shall review the report and, not later than 6 months after the date of submittal of the Secretary's report to Congress, shall submit to the appropriate committees of Congress written comments on such report. Such comments may include such recommendations as the Commission deems appropriate.
 
-#### (4) Review and comment on the Independent Payment Advisory Board or Secretarial proposal
-
-&emsp;If the Independent Payment Advisory Board (as established under subsection (a) of section 1395kkk of this title) or the Secretary submits a proposal to the Commission under such section in a year, the Commission shall review the proposal and, not later than March 1 of that year, submit to the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate written comments on such proposal. Such comments may include such recommendations as the Commission deems appropriate.
-
-#### (5) Agenda and additional reviews
+#### (4) Agenda and additional reviews
 
 &emsp;The Commission shall consult periodically with the chairmen and ranking minority members of the appropriate committees of Congress regarding the Commission's agenda and progress towards achieving the agenda. The Commission may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter as may be requested by such chairmen and members and as the Commission deems appropriate.
 
-#### (6) Availability of reports
+#### (5) Availability of reports
 
 &emsp;The Commission shall transmit to the Secretary a copy of each report submitted under this subsection and shall make such reports available to the public.
 
-#### (7) Appropriate committees of Congress
+#### (6) Appropriate committees of Congress
 
 &emsp;For purposes of this section, the term "appropriate committees of Congress" means the Committees on Ways and Means and Commerce of the House of Representatives and the Committee on Finance of the Senate.
 
-#### (8) Voting and reporting requirements
+#### (7) Voting and reporting requirements
 
 &emsp;With respect to each recommendation contained in a report submitted under paragraph (1), each member of the Commission shall vote on the recommendation, and the Commission shall include, by member, the results of that vote in the report containing the recommendation.
 
-#### (9) <sup>2</sup> Examination of budget consequences
+#### (8) Examination of budget consequences
 
 &emsp;Before making any recommendations, the Commission shall examine the budget consequences of such recommendations, directly or through consultation with appropriate expert entities.
 
-#### (9) <sup>2</sup> Review and annual report on Medicaid and commercial trends
+#### (9) Review and annual report on Medicaid and commercial trends
 
 &emsp;The Commission shall review and report on aggregate trends in spending, utilization, and financial performance under the Medicaid program under subchapter XIX and the private market for health care services with respect to providers for which, on an aggregate national basis, a significant portion of revenue or services is associated with the Medicaid program. Where appropriate, the Commission shall conduct such review in consultation with the Medicaid and CHIP Payment and Access Commission established under section 1396 of this title (in this section referred to as "MACPAC").
 
 #### (10) Coordinate and consult with the Federal Coordinated Health Care Office
 
-&emsp;The Commission shall coordinate and consult with the Federal Coordinated Health Care Office established under section 2081 <sup>3</sup> of the Patient Protection and Affordable Care Act before making any recommendations regarding dual eligible individuals.
+&emsp;The Commission shall coordinate and consult with the Federal Coordinated Health Care Office established under section 2081 <sup>2</sup> of the Patient Protection and Affordable Care Act before making any recommendations regarding dual eligible individuals.
 
 #### (11) Interaction of Medicaid and Medicare
 
@@ -130,7 +126,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (5) Chairman; Vice Chairman
 
-&emsp;The Comptroller General shall designate a member of the Commission, at the time of appointment of the member as Chairman and amember as Vice Chairman for that term of appointment, except that in the case of vacancy of the Chairmanship or Vice Chairmanship, the Comptroller General may designate another member for the remainder of that member's term.
+&emsp;The Comptroller General shall designate a member of the Commission, at the time of appointment of the member as Chairman and a member as Vice Chairman for that term of appointment, except that in the case of vacancy of the Chairmanship or Vice Chairmanship, the Comptroller General may designate another member for the remainder of that member's term.
 
 #### (6) Meetings
 
@@ -140,7 +136,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 Subject to such review as the Comptroller General deems necessary to assure the efficient administration of the Commission, the Commission may—
 
-&emsp;(1) employ and fix the compensation of an Executive Director (subject to the approval of the Comptroller General) and such other personnel as may be necessary to carry out its duties (without regard to the provisions of title 5 governing appointments in the competitive service);
+&emsp;(1) employ and fix the compensation of an Executive Director (subject to the approval ofthe Comptroller General) and such other personnel as may be necessary to carry out its duties (without regard to the provisions of title 5 governing appointments in the competitive service);
 
 &emsp;(2) seek such assistance and support as may be required in the performance of its duties from appropriate Federal departments and agencies;
 
@@ -186,7 +182,7 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 &emsp;There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. Sixty percent of such appropriation shall be payable from the Federal Hospital Insurance Trust Fund, and 40 percent of such appropriation shall be payable from the Federal Supplementary Medical Insurance Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(2)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–347; Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551; Pub. L. 108–173, title VII, §735(a)–(c)(1), (e)(1), Dec. 8, 2003, 117 Stat. 2353, 2354; Pub. L. 110–173, title III, §301, Dec. 29, 2007, 121 Stat. 2514; Pub. L. 111–148, title II, §2801(b), title III, §3403(c), title X, §10320(b), Mar. 23, 2010, 124 Stat. 332, 507, 952.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(2)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–347; Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551; Pub. L. 108–173, title VII, §735(a)–(c)(1), (e)(1), Dec. 8, 2003, 117 Stat. 2353, 2354; Pub. L. 110–173, title III, §301, Dec. 29, 2007, 121 Stat. 2514; Pub. L. 111–148, title II, §2801(b), title III, §3403(c), Mar. 23, 2010, 124 Stat. 332, 507; Pub. L. 115–123, div. E, title XI, §52001(b)(3), Feb. 9, 2018, 132 Stat. 298.)
 
 #### References in Text
 
@@ -199,6 +195,8 @@ The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(D), is Pub. 
 In subsec. (d)(3), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(4) to (9). Pub. L. 115–123 struck out par. (4), redesignated former pars. (5) to (8) as (4) to (7), respectively, and redesignated former par. (9) relating to examination of budget consequences as par. (8). Prior to amendment, par. (4) related to review and comment on proposals submitted to the Commission.
 
 <b>2010</b>—Subsec. (b)(1)(C). Pub. L. 111–148, §2801(b)(1), substituted "March 15" for "March 1 of each year (beginning with 1998)".
 
@@ -235,8 +233,6 @@ Subsec. (b)(7). Pub. L. 106–554, §1(a)(6) \[title V, §544(b)\], added par. (
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
-
-"Independent Payment Advisory Board" substituted for "Independent Medicare Advisory Board" in subsec. (b)(4) on authority of section 10320(b) of Pub. L. 111–148, set out as a note under section 1395kkk of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -352,7 +348,5 @@ Pub. L. 105–33, title IV, §4804(c), Aug. 5, 1997, 111 Stat. 552, provided tha
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Two pars. (9) have been enacted.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

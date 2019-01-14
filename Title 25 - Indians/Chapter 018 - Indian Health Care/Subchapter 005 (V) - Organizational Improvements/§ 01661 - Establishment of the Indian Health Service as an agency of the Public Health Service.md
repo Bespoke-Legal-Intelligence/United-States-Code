@@ -50,7 +50,7 @@ The Director shall—
 
 &emsp;(5) directly advise the Secretary concerning the development of all policy- and budget-related matters affecting Indian health;
 
-&emsp;(6) collaborate with the Assistant Secretary for Health concerning appropriate matters ofIndian health that affect the agencies of the Public Health Service;
+&emsp;(6) collaborate with the Assistant Secretary for Health concerning appropriate matters of Indian health that affect the agencies of the Public Health Service;
 
 &emsp;(7) advise each Assistant Secretary of the Department concerning matters of Indian health with respect to which that Assistant Secretary has authority and responsibility;
 
@@ -90,7 +90,7 @@ The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq
 
 #### Codification
 
-Amendment by Pub. L. 111–148 is based on section 171 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+Amendment by Pub. L. 111–148 is based on section 171 of title I of S. 1790, One Hundred Eleventh Congress, asreported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 "On and after November 23, 1988,", referred to in subsec. (a)(1), was in the original "hereafter" and was translated as meaning the date of enactment of Pub. L. 100–713 which added this section rather than the date of enactment of Pub. L. 111–148, which amended this section generally, to reflect the probable intent of Congress.
 

@@ -30,7 +30,7 @@ Training.—
 
 &emsp;&emsp;&emsp;(iii) may accept a program, conducted by a public entity (including a Federal agency) or private entity, through which such training is delivered the curriculum for which is developed pursuant to subparagraph (A).
 
-&emsp;(2) Any Federal agency that provides such training, and any public or private entity that receives moneys, pursuant to section 70107(b)(8) of this title, to provide such training, shall provide such training—
+&emsp;(2) Any Federal agency that provides such training, and any public or private entity thatreceives moneys, pursuant to section 70107(b)(8) of this title, to provide such training, shall provide such training—
 
 &emsp;&emsp;(A) to law enforcement personnel who enforce or assist in the enforcement of a security zone; and
 

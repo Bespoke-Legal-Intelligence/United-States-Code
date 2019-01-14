@@ -18,7 +18,7 @@ In the case of any successful action under subsection (a), (b), or (c), the cost
 
 #### (e) Good faith compliance with rule, regulation, or interpretation of Bureau or interpretation or approval by an official or employee of Bureau of Consumer Financial Protection duly authorized by Bureau
 
-No provision of this subchapter imposing liability shall apply to any act done or omitted in good faith in conformity with any official rule, regulation, or interpretation thereof by the Bureau or in conformity with any interpretation orapproval by an official or employee of the Bureau of Consumer Financial Protection duly authorized by the Bureau to issue such interpretations or approvals under such procedures as the Bureau may prescribe therefor, notwithstanding that after such act or omission has occurred, such rule, regulation, interpretation, or approval is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
+No provision of this subchapter imposing liability shall apply to any act done or omitted in good faith in conformity with any official rule, regulation, or interpretation thereof by the Bureau or in conformity with any interpretation or approval by an official or employee of the Bureau of Consumer Financial Protection duly authorized by the Bureau to issue such interpretations or approvals under such procedures as the Bureau may prescribe therefor, notwithstanding that after such act or omission has occurred, such rule, regulation, interpretation, or approval is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
 #### (f) Jurisdiction of courts; time for maintenance of action; exceptions
 
@@ -40,7 +40,7 @@ When a matter is referred to the Attorney General pursuant to subsection (g), or
 
 #### (i) Recovery under both subchapter and fair housing enforcement provisions prohibited for violation based on same transaction
 
-No person aggrieved by a violation of this subchapter and by a violation of section 3605 of title 42 shall recover under this subchapter and section 3612 <sup>1</sup> of title 42, if such violation is based on the same transaction.
+No person aggrieved by a violation of this subchapter and by a violation of section 3605 of title42 shall recover under this subchapter and section 3612 <sup>1</sup> of title 42, if such violation is based on the same transaction.
 
 #### (j) Discovery of creditor's granting standards
 

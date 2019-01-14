@@ -8,7 +8,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (1) Account required
 
-&emsp;Each multiemployer plan to which this part applies shall establish and maintain a funding standard account. Such account shall be credited and charged solely as provided in this section.
+&emsp;Each multiemployer plan to which this part applies shall establish and maintain a fundingstandard account. Such account shall be credited and charged solely as provided in this section.
 
 #### (2) Charges to account
 
@@ -56,7 +56,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (5) Combining and offsetting amounts to be amortized
 
-&emsp;Under regulations prescribed by the Secretary of the Treasury, amounts required to beamortized under paragraph (2) or paragraph (3), as the case may be—
+&emsp;Under regulations prescribed by the Secretary of the Treasury, amounts required to be amortized under paragraph (2) or paragraph (3), as the case may be—
 
 &emsp;&emsp;(A) may be combined into one amount under such paragraph to be amortized over a period determined on the basis of the remaining amortization period for all items entering into such combined amount, and
 
@@ -72,7 +72,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (A) Withdrawal liability
 
-&emsp;&emsp;Any amount received by a multiemployer plan in payment of all or part of an employer's withdrawal liability under part 1 of subtitle E of subchapter III shall be considered an amount contributed by the employer to or under the plan. The Secretary of the Treasury may prescribe by regulation additional charges and credits to a multiemployer plan's funding standard account to the extent necessary to prevent withdrawal liability payments from being unduly reflected as advance funding for plan liabilities.
+&emsp;&emsp;Any amount received by a multiemployer plan in payment of all or part of an employer's withdrawal liability under part 1 of subtitle E of subchapter III shall be considered an amount contributed by the employer to or under the plan. The Secretary of theTreasury may prescribe by regulation additional charges and credits to a multiemployer plan's funding standard account to the extent necessary to prevent withdrawal liability payments from being unduly reflected as advance funding for plan liabilities.
 
 #### (B) Adjustments when a multiemployer plan leaves reorganization
 
@@ -216,7 +216,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;(A) a change in benefits under the Social Security Act \[42 U.S.C. 301 et seq.\] or in other retirement benefits created under Federal or State law, or
 
-&emsp;&emsp;(B) a change in the definition of the term "wages" under section 3121 of title 26, or a change in the amount of such wages taken into account under regulations prescribed for purposes of section 401(a)(5) of title 26,
+&emsp;&emsp;(B) a change in the definition of the term "wages" under section 3121 of title 26, or a change in the amount of such wages takeninto account under regulations prescribed for purposes of section 401(a)(5) of title 26,
 
 > &emsp;results in an increase or decrease in accrued liability under a plan, such increase or decrease shall be treated as an experience loss or gain.
 
@@ -362,7 +362,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (8) Time when certain contributions deemed made
 
-&emsp;For purposes of this section, any contributions for a plan year made by an employerafter the last day of such plan year, but not later than two and one-half months after such day, shall be deemed to have been made on such last day. For purposes of this subparagraph, such two and one-half month period may be extended for not more than six months under regulations prescribed by the Secretary of the Treasury.
+&emsp;For purposes of this section, any contributions for a plan year made by an employer after the last day of such plan year, but not later than two and one-half months after such day, shall be deemed to have been made on such last day. For purposes of this subparagraph, such two and one-half month period may be extended for not more than six months under regulations prescribed by the Secretary of the Treasury.
 
 #### (d) Extension of amortization periods for multiemployer plans
 

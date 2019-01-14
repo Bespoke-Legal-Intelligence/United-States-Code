@@ -8,7 +8,7 @@ In General.—The Secretary shall establish a grant program for the allocation o
 
 Eligible Costs.—The following costs of funding the correction of Coast Guard identified vulnerabilities in port security and ensuring compliance with Area Maritime Transportation Security Plans and facility security plans are eligible to be funded:
 
-&emsp;(1) Salary, benefits, overtime compensation, retirement contributions, and other costs ofadditional Coast Guard mandated security personnel.
+&emsp;(1) Salary, benefits, overtime compensation, retirement contributions, and other costs of additional Coast Guard mandated security personnel.
 
 &emsp;(2) The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5196(j)(8)), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
 
@@ -184,7 +184,7 @@ In general.—The Secretary shall conduct investigations, fund pilot programs, a
 
 &emsp;&emsp;(D) improved tags and seals designed for use on shipping containers to track the transportation of the merchandise in such containers, including sensors that are able to track a container throughout its entire supply chain, detect hazardous and radioactive materials within that container, and transmit that information to the appropriate law enforcement authorities;
 
-&emsp;&emsp;(E) tools, including the use of satellite tracking systems, to increase the awareness of maritime areas and to identify potentialtransportation security incidents that could have an impact on facilities, vessels, and infrastructure on or adjacent to navigable waterways, including underwater access;
+&emsp;&emsp;(E) tools, including the use of satellite tracking systems, to increase the awareness of maritime areas and to identify potential transportation security incidents that could have an impact on facilities, vessels, and infrastructure on or adjacent to navigable waterways, including underwater access;
 
 &emsp;&emsp;(F) tools to mitigate the consequences of a transportation security incident on, adjacent to, or under navigable waters of the United States, including sensor equipment, and other tools to help coordinate effective response to a transportation security incident;
 
@@ -200,7 +200,7 @@ Implementation of technology.—
 
 &emsp;&emsp;(A)
 
-In general.—In conjunction with ongoing efforts to improve security at United States ports, the Secretary may conduct pilot projects at United States ports to test the effectiveness and applicability of new port security projects, including—
+In general.—In conjunction with ongoing efforts to improve security at UnitedStates ports, the Secretary may conduct pilot projects at United States ports to test the effectiveness and applicability of new port security projects, including—
 
 &emsp;&emsp;&emsp;(i) testing of new detection and screening technologies;
 
@@ -284,7 +284,7 @@ Subsec. (c)(2)(C). Pub. L. 111–281, §828(b)(3), added subpar. (C).
 
 Subsec. (l). Pub. L. 111–281, §828(b)(4), substituted "2013" for "2011".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–347, §112(a), (e), substituted "for the allocation of funds based on risk" for "for making a fair and equitable allocation of funds" and "national economic, energy, and strategic defense concerns based upon the most current risk assessments available" for "national economic and strategic defense concerns".
+<b>2006</b>—Subsec. (a). Pub. L. 109–347, §112(a), (e), substituted "for the allocation of funds based on risk" for"for making a fair and equitable allocation of funds" and "national economic, energy, and strategic defense concerns based upon the most current risk assessments available" for "national economic and strategic defense concerns".
 
 Subsec. (b)(2). Pub. L. 109–347, §112(b)(1), inserted at end "Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121(j)(8)), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—" and subpars. (A) and (B).
 

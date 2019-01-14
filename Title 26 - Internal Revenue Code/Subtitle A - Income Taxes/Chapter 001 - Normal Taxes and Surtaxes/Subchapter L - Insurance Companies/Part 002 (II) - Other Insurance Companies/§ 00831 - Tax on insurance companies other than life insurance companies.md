@@ -32,15 +32,29 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 &emsp;&emsp;&emsp;&emsp;(I) no more than 20 percent of the net written premiums (or, if greater, direct written premiums) of such company for the taxable year is attributable to any one policyholder, or
 
-&emsp;&emsp;&emsp;&emsp;(II) such insurance company does not meet the requirement of subclause (I) and no person who holds (directly or indirectly) an interest in such insurance company is a specified holder who holds (directly or indirectly) aggregate interests in such insurance company which constitute a percentage of the entire interests in such insurance company which is more than a de minimis percentage higher than the percentage of interests in the specified assets with respect to such insurance company held (directly or indirectly) by such specified holder.
+&emsp;&emsp;&emsp;&emsp;(II) such insurance company does not meet the requirement of subclause (I) and no person who holds (directly or indirectly) an interest in such insurance company is a specified holder who holds (directly or indirectly) aggregate interests in such insurance company which constitute a percentage of the entire interests in such insurance company which is more than a de minimis percentage higher than the percentage of interests in the relevant specified assets with respect to such insurance company held (directly or indirectly) by such specified holder.
 
-#### (ii) Definitions
+#### (ii) Aggregation of certain spousal interests
 
-&emsp;&emsp;&emsp;For purposes of clause (i)(II)—
+&emsp;&emsp;&emsp;For purposes of clause (i)(II), any interest in the insurance company referred to in such clause which is held (directly or indirectly) by an individual who is a spouse of the specified holder, and who is a citizen of the United States, shall be treated as held by the specified holder.
 
-#### (I) Specified holder
+#### (iii) Specified holder
 
-&emsp;&emsp;&emsp;&emsp;The term "specified holder" means, with respect to any insurance company, any individual who holds (directly or indirectly) an interest in such insurance company and who is a spouse or lineal descendant (including by adoption) of an individual who holds an interest (directly or indirectly) in the specified assets with respect to such insurance company.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "specified holder" means, with respect to any insurance company, any individual who holds (directly or indirectly) an interest in such insurance company and who—
+
+&emsp;&emsp;&emsp;&emsp;(I) is a lineal descendent (including by adoption) of an individual who holds an interest (directly or indirectly) in the specified assets with respect to such insurance company or of such individual's spouse,
+
+&emsp;&emsp;&emsp;&emsp;(II) is a spouse of any lineal descendent described in subclause (I), or
+
+&emsp;&emsp;&emsp;&emsp;(III) is not a citizen of the United States and is a spouse of an individual who holds an interest (directly or indirectly) in the specified assets with respect to such insurance company.
+
+#### (iv) Definitions
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph—
+
+#### (I) Relevant specified assets
+
+&emsp;&emsp;&emsp;&emsp;The term "relevant specified assets" means, with respect to any specified holder with respect to any insurance company, the aggregate amount of the specified assets, with respect to such insurance company, any interest in which is held (directly or indirectly) by any spouse or specified relation of such specified holder. Such term shall not include any specified asset solely by reason of an interest in such asset which was acquired by such spouse or specified relation by bequest, devise, or inheritance from a decedent during the taxable year of the insurance company or the preceding taxable year. For purposes of this subclause, the term "specified relation" means any individual with respect to whom the specified holder bears a relationship described in subclause (I) or (II) of clause (iii).
 
 #### (II) Specified assets
 
@@ -60,7 +74,7 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 &emsp;&emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;&emsp;(I) in determining whether any company is described in clause (i) of subparagraph (A), such company shall be treated as receiving during the taxable year amounts described in such clause (i) which are received during such year by all other companies which are members of the same controlled group as the insurance company for which the determination is being made, and
+&emsp;&emsp;&emsp;&emsp;(I) in determining whether any company is described in clause (i) of subparagraph (A), such company shall be treatedas receiving during the taxable year amounts described in such clause (i) which are received during such year by all other companies which are members of the same controlled group as the insurance company for which the determination is being made, and
 
 &emsp;&emsp;&emsp;&emsp;(II) in determining the attribution of premiums to any policyholder under subparagraph (B)(i), all policyholders which are related (within the meaning of section 267(b) or 707(b)) or are members of the same controlled group shall be treated as one policyholder.
 
@@ -72,7 +86,11 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 &emsp;&emsp;&emsp;&emsp;(II) subsections (a)(4) and (b)(2)(D) of section 1563 shall not apply.
 
-#### (D) Inflation adjustment
+#### (D) Look-through of reinsurance and fronting arrangements
+
+&emsp;&emsp;In the case of reinsurance or any fronting, intermediary, or similar arrangement, the term "policyholder" means each policyholder of the underlying direct written insurance with respect to such reinsurance or arrangement.
+
+#### (E) Inflation adjustment
 
 &emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2015, the dollar amount set forth in subparagraph (A)(i) shall be increased by an amount equal to—
 
@@ -92,7 +110,7 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 #### (c) Insurance company defined
 
-For purposes of this section, the term "insurance company" has the meaning given to such term by section 816(a)).<sup>1</sup>
+For purposes of this section, the term "insurance company" has the meaning given to such term by section 816(a).
 
 #### (d) Reporting
 
@@ -104,13 +122,25 @@ Every insurance company for which an election is in effect under subsection (b) 
 
 &emsp;&emsp;<b>(2) For exemption from tax for certain insurance companies other than life, see section 501(c)(15).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 264; Pub. L. 87–834, §8(e)(1), (f), (g)(4)(B), Oct. 16, 1962, 76 Stat. 997–999; Pub. L. 89–809, title I, §104(i)(6), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834; Pub. L. 99–514, title X, §1024(a)(4), Oct. 22, 1986, 100 Stat. 2405; Pub. L. 100–647, title I, §1010(f)(1), (9), Nov. 10, 1988, 102 Stat. 3454, 3455; Pub. L. 108–218, title II, §206(c), (d), Apr. 10, 2004, 118 Stat. 611; Pub. L. 114–113, div. Q, title III, §333(a), (b), Dec. 18, 2015, 129 Stat. 3106, 3108; Pub. L. 115–97, title I, §§11002(d)(1)(AA), 13001(b)(2)(H), 13511(b)(2)(B), Dec. 22, 2017, 131 Stat. 2060, 2096, 2142.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 264; Pub. L. 87–834, §8(e)(1), (f), (g)(4)(B), Oct. 16, 1962, 76 Stat. 997–999; Pub. L. 89–809, title I, §104(i)(6), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834; Pub. L. 99–514, title X, §1024(a)(4), Oct. 22, 1986, 100 Stat. 2405; Pub. L. 100–647, title I, §1010(f)(1), (9), Nov. 10, 1988, 102 Stat. 3454, 3455; Pub. L. 108–218, title II, §206(c), (d), Apr. 10, 2004, 118 Stat. 611; Pub. L. 114–113, div. Q, title III, §333(a), (b), Dec. 18, 2015, 129 Stat. 3106, 3108; Pub. L. 115–97, title I, §§11002(d)(1)(AA), 13001(b)(2)(H), 13511(b)(2)(B), Dec. 22, 2017, 131 Stat. 2060, 2096, 2142; Pub. L. 115–141, div. U, title I, §101(r), title IV, §401(a)(142), Mar. 23, 2018, 132 Stat. 1168, 1191.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2)(B)(i)(II). Pub. L. 115–141, §101(r)(1), substituted "relevant specified assets" for "specified assets".
+
+Subsec. (b)(2)(B)(ii), (iii). Pub. L. 115–141, §101(r)(2), added cls. (ii) and (iii). Former cl. (ii) redesignated (iv).
+
+Subsec. (b)(2)(B)(iv). Pub. L. 115–141, §101(r)(2), (3)(A), redesignated cl. (ii) as (iv) and substituted "this subparagraph" for "clause (i)(II)" in introductory provisions.
+
+Subsec. (b)(2)(B)(iv)(I). Pub. L. 115–141, §101(r)(3)(B), amended subcl. (I) generally. Prior to amendment, text read as follows: "The term 'specified holder' means, with respect to any insurance company, any individual who holds (directly or indirectly) an interest in such insurance company and who is a spouse or lineal descendant (including by adoption) of an individual who holds an interest (directly or indirectly) in the specified assets with respect to such insurance company."
+
+Subsec. (b)(2)(D), (E). Pub. L. 115–141, §101(r)(4), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (c). Pub. L. 115–141, §401(a)(142), substituted "section 816(a)." for "section 816(a))."
 
 <b>2017</b>—Subsec. (b)(2)(D)(ii). Pub. L. 115–97, §11002(d)(1)(AA), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
@@ -152,6 +182,10 @@ Subsec. (a). Pub. L. 87–834, §8(e)(1), included flood insurance companies, an
 
 Subsecs. (c), (d). Pub. L. 87–834, §8(f), added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### Effective Date of 2018 Amendment
+
+Amendment by section 101(r) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 11002(d)(1)(AA) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
@@ -174,7 +208,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title X, §1024(e), Oct. 22, 1986, 100 Stat. 2409, provided that: "The amendments made by thissection \[amending this section and sections 501, 832, 834, 835, 841, 842, 844, 891, 1201, 1504, and 1563 of this title, redesignating former sections 822 and 826 of this title as sections 834 and 835 of this title, respectively, and repealing sections 821, 823, 824, and 825 of this title\] (and the provisions of subsection (d) \[set out below\]) shall apply to taxable years beginning after December 31, 1986."
+Pub. L. 99–514, title X, §1024(e), Oct. 22, 1986, 100 Stat. 2409, provided that: "The amendments made by this section \[amending this section and sections 501, 832, 834, 835, 841, 842, 844, 891, 1201, 1504, and 1563 of this title, redesignating former sections 822 and 826 of this title as sections 834 and 835 of this title, respectively, and repealing sections 821, 823, 824, and 825 of this title\] (and the provisions of subsection (d) \[set out below\]) shall apply to taxable years beginning after December 31, 1986."
 
 #### Effective Date of 1976 Amendment
 
@@ -194,7 +228,7 @@ Pub. L. 99–514, title X, §1024(d), Oct. 22, 1986, 100 Stat. 2408, as amended 
 
 "(1)
 
-Treatment of amounts in protection against loss account.—In the case of any insurance company which had a protection against loss account for its last taxable year beginning before January 1, 1987, there shall be included in the gross income of such company for any taxable year beginning after December 31, 1986, the amount which would have been included in gross income for such taxable year under section 824 of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]). For purposes of the preceding sentence, no addition to such account shall be made for any taxable year beginning after December 31, 1986. In the case of a company taxable under section 831(b) of the Internal Revenue Code of 1986 (as amended by subsection (a)), any amount included in gross income under this paragraph shall be treated as gross investment income.
+Treatment of amounts in protection against loss account.—In the case of any insurance company which had a protection against loss account for its last taxable year beginning before January 1, 1987, there shall be included in the gross income of such company for any taxable year beginning after December 31, 1986, the amount which would have been included in gross income for such taxable year under section 824 of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]). For purposes of the preceding sentence, no addition to such account shall be made for any taxable year beginning after December 31, 1986. In the caseof a company taxable under section 831(b) of the Internal Revenue Code of 1986 (as amended by subsection (a)), any amount included in gross income under this paragraph shall be treated as gross investment income.
 
 "(2)
 
@@ -205,6 +239,4 @@ Transitional rule for unused loss carryover under section 825.—Any unused loss
 &emsp;"(B) could have been carried under such section to a taxable year beginning after December 31, 1986, but for the repeal made by subsection (a)(1) \[repealing sections 821 and 823 to 825 of this title\],
 
 > shall be included in the net operating loss deduction under section 832(c)(10) of such Code without regard to the limitations of \[former\] section 844(b) of such Code."
-
-<i><sup>1</sup></i><i> So in original. Second closing parenthesis probably should not appear.</i>
 

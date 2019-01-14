@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) the prospective earning power of the loan applicant and the character and value of the security pledged provide a reasonable assurance of repayment of the loan to be guaranteed;
 
-&emsp;&emsp;(E) the loan to be guaranteed bears interest at a rate determined by the Secretary of the Treasury to be reasonable, taking into account the then-current average yield on outstanding obligations of the United States with remaining periods of maturity comparable to the maturity of the loan;
+&emsp;&emsp;(E) the loan to be guaranteed bears interest at a rate determined by the Secretary ofthe Treasury to be reasonable, taking into account the then-current average yield on outstanding obligations of the United States with remaining periods of maturity comparable to the maturity of the loan;
 
 &emsp;&emsp;(F) the loan agreement for the loan to be guaranteed provides that no provision of the loan agreement may be amended or waived without the consent of the fiscal agent of the United States for the guarantee; and
 
@@ -123,4 +123,20 @@ A prior section 301 of act Sept. 8, 1950, ch. 932, title III, 64 Stat. 800; June
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, eff. June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
 
 For delegation of authority of President under subsec. (a)(2) of this section, see section 305(a) of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16654, set out as a note under section 4553 of this title.
+
+#### Limitation on Cancellation of Designation of Secretary of the Air Force as Department of Defense Executive Agent
+
+Pub. L. 115–232, div. A, title XVII, §1792, Aug. 13, 2018, 132 Stat. 2238, provided that:
+
+"(a)
+
+Limitation on Cancellation of Designation.—The Secretary of Defense may not implement the decision, issued on July 1, 2017, to cancel the designation, under Department of Defense Directive 4400.01E, entitled 'Defense Production Act Programs' and dated October 12, 2001, of the Secretary of the Air Force as the Department of Defense Executive Agent for the program carried out under title III of the Defense Production Act of 1950 (50 U.S.C. 4531 et seq.) until the date specified in subsection (c).
+
+"(b)
+
+Designation.—The Secretary of the Air Force shall continue to serve as the sole and exclusive Department of Defense Executive Agent for the program described in subsection (a) until the date specified in subsection (c).
+
+"(c)
+
+Date Specified.—The date specified in this subsection is the date of the enactment of a joint resolution or an Act approving the implementation of the decision described in subsection (a)."
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—(1) The National Transportation Safety Board, and when authorized by it, a member of the Board, an administrative law judge employed by or assigned to the Board, or an officer or employee designated by the Chairman of the Board, may conduct hearings to carry out this chapter, administer oaths, and require, by subpena or otherwise, necessary witnesses and evidence.
+General Authority.—(1) The National Transportation Safety Board, and when authorized by it, a member of the Board, an administrative law judge employed by or assigned to the Board, or an officer or employee designated by the Chairman of the Board, may conduct hearings to carry out this chapter, administer oaths, and require, by subpoena or otherwise, necessary witnesses and evidence.
 
 (2) A witness or evidence in a hearing under paragraph (1) of this subsection may be summoned or required to be produced from any place in the United States to the designated place of the hearing. A witness summoned under this subsection is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
 
@@ -28,15 +28,17 @@ Additional Powers.—(1) The Board may—
 
 &emsp;(G) accept gifts of money and other property;
 
-&emsp;(H) make contracts with nonprofit entities to carry out studies related to duties and powers of the Board; and
+&emsp;(H) make contracts with nonprofit entities to carry out studies related to duties and powers of the Board;
 
-&emsp;(I) negotiate and enter into agreements with individuals and private entities and departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries for the provision of facilities, accident-related and technical services or training in accident investigation theory and techniques, and require that such entities provide appropriate consideration for the reasonable costs of any facilities, goods, services, or training provided by the Board.
+&emsp;(I) negotiate and enter into agreements with individuals and private entities and departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries for the provision of facilities, accident-related and technical services or training in accident investigation theory and techniques, and require that such entities provide appropriate consideration for the reasonable costs of any facilities, goods, services, or training provided by the Board; and
+
+&emsp;(J) notwithstanding section 1343 of title 31, acquire 1 or more small unmanned aircraft (as defined in section 44801) for use in investigations under this chapter.
 
 (2) The Board shall deposit in the Treasury amounts received under paragraph (1)(I) of this subsection to be credited as offsetting collections to the appropriation of the Board. The Board shall maintain an annual record of collections received under paragraph (1)(I) of this subsection.
 
 (c)
 
-Submission of Certain Copies to Congress.—When the Board submits to the President or the Director of the Office of Management and Budget a budget estimate, budget request, supplemental budget estimate, other budget information, a legislative recommendation, prepared testimony for congressional hearings, or comments on legislation, the Board must submit a copy to Congress at the same time. An officer, department, agency, or instrumentality of the Government may not requirethe Board to submit the estimate, request, information, recommendation, testimony, or comments to another officer, department, agency, or instrumentality of the Government for approval, comment, or review before being submitted to Congress. The Board shall develop and approve a process for the Board's review and comment or approval of documents submitted to the President, Director of the Office of Management and Budget, or Congress under this subsection.
+Submission of Certain Copies to Congress.—When the Board submits to the President or the Director of the Office of Management and Budget a budget estimate, budget request, supplemental budget estimate, other budget information, a legislative recommendation, prepared testimony for congressional hearings, or comments on legislation, the Board must submit a copy to Congress at the same time. An officer, department, agency, or instrumentality of the Government may not require the Board to submit the estimate, request, information, recommendation, testimony, or comments to another officer, department, agency, or instrumentality of the Government for approval, comment, or review before being submitted to Congress. The Board shall develop and approve a process for the Board's review and comment or approval of documents submitted to the President, Director of the Office of Management and Budget, or Congress under this subsection.
 
 (d)
 
@@ -74,11 +76,7 @@ Basic pay defined.—In this subsection, the term "basic pay" includes any appli
 
 Annual report.—Not later than January 31, 2002, and annually thereafter, the Board shall transmit to the Senate Committee on Commerce, Science, and Transportation and the House Transportation and Infrastructure Committee a report identifying the total amount of overtime payments made under this subsection in the preceding fiscal year, and the number of employees whose overtime pay under this subsection was limited in that fiscal year as a result of the 15 percent limit established by paragraph (2).
 
-(h)
-
-Investigative Officers.—The Board shall maintain at least 1 full-time employee in each State located more than 1,000 miles from the nearest Board regional office to provide initial investigative response to accidents the Board is empowered to investigate under this chapter that occur in that State.
-
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 747; Pub. L. 106–424, §§3(a), (b)(1), 4, Nov. 1, 2000, 114 Stat. 1883, 1884; Pub. L. 109–443, §9(e)–(g), Dec. 21, 2006, 120 Stat. 3301; Pub. L. 111–350, §5(o)(2), Jan. 4, 2011, 124 Stat. 3853.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 747; Pub. L. 106–424, §§3(a), (b)(1), 4, Nov. 1, 2000, 114 Stat. 1883, 1884; Pub. L. 109–443, §9(e)–(g), Dec. 21, 2006, 120 Stat. 3301; Pub. L. 111–350, §5(o)(2), Jan. 4, 2011, 124 Stat. 3853; Pub. L. 115–254, div. C, §1112(c)–(e), Oct. 5, 2018, 132 Stat. 3437, 3438.)
 
 Historical and Revision Notes
 
@@ -160,7 +158,7 @@ In subsection (a)(1), the words "sit and act at such times and places" are omitt
 
 In subsection (a)(2), the words "the witness would have been" are added for clarity and consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(4), the words "If a person disobeys" are substituted for "In case of contumacy or refusal to obey" for consistency in the revised title and with other titles of the Code. The words "of the Board" are substituted for "of the Board, or of any duly designatedemployee thereof" to eliminate unnecessary words. The words "the Board may bring a civil action in a district court of the United States" are substituted for "such district court shall, upon the request of the Board, have jurisdiction" for consistency in the revised title and because of 28:1331. The word "forthwith" is omitted as surplus. The words "An action under this paragraph may be brought in the judicial district" are added for clarity.
+In subsection (a)(4), the words "If a person disobeys" are substituted for "In case of contumacy or refusal to obey" for consistency in the revised title and with other titles of the Code. The words "of the Board" are substituted for "of the Board, or of any duly designated employee thereof" to eliminate unnecessary words. The words "the Board may bring a civil action in a district court of the United States" are substituted for "such district court shall, upon the request of the Board, have jurisdiction" for consistency in the revised title and because of 28:1331. The word "forthwith" is omitted as surplus. The words "An action under this paragraph may be brought in the judicial district" are added for clarity.
 
 In subsection (b)(1)(A), the text of 49 App.:1441(b) (words before semicolon) is omitted as superseded by 49 App.:1903(b)(6)(C).
 
@@ -191,6 +189,12 @@ In subsection (f), the words "prescribe regulations to carry out this chapter" a
 GS–10 of the General Schedule, referred to in subsec. (g)(1), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1112(e), substituted "subpoena" for "subpena".
+
+Subsec. (b)(1)(J). Pub. L. 115–254, §1112(c), added subpar. (J).
+
+Subsec. (h). Pub. L. 115–254, §1112(d), struck out subsec. (h). Text read as follows: "The Board shall maintain at least 1 full-time employee in each State located more than 1,000 miles from the nearest Board regional office to provide initial investigative response to accidents the Board is empowered to investigate under this chapter that occur in that State."
 
 <b>2011</b>—Subsec. (b)(1)(B). Pub. L. 111–350 substituted "section 6101(b) to (d) of title 41" for "section 3709 of the Revised Statutes (41 U.S.C. 5)".
 

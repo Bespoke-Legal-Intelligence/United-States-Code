@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(1) the Antarctic continent with its associated and dependent ecosystems is a distinctive environment providing a habitat for many unique species and offering a natural laboratory from which to monitor critical aspects of stratospheric ozone depletion and global climate change;
 
-&emsp;(2) Antarctica is protected by a series of international agreements, including the Antarctic Treaty and associated recommendations, the Convention on the Conservation of Antarctic Seals, and the Convention on the Conservation of Antarctic Marine Living Resources, which are intended to conserve the renewable natural resources of Antarctica and to recognize the importance of Antarctica for the conduct of scientific research;
+&emsp;(2) Antarctica is protected by a series of international agreements, including the Antarctic Treaty and associated recommendations, the Convention on the Conservation of Antarctic Seals, and the Convention on theConservation of Antarctic Marine Living Resources, which are intended to conserve the renewable natural resources of Antarctica and to recognize the importance of Antarctica for the conduct of scientific research;
 
 &emsp;(3) recurring and recent developments in Antarctica, including increased siting of scientific stations, poor waste disposal practices, oil spills, increased tourism, and the over-exploitation of marine living resources, have raised serious questions about the adequacy and implementation of existing agreements and domestic law to protect the Antarctic environment and its living marine resources;
 

@@ -14,7 +14,7 @@ In general.—If the Judicial Conference concurs in the determination of the jud
 
 &emsp;(2)
 
-In case of felony conviction.—If a judge has been convicted of a felony under State or Federal law and has exhausted all means of obtaining direct review of the conviction, or the time for seeking further direct review of the conviction has passed and no such review has been sought, the Judicial Conference may, by majority vote and without referral or certification under section 354(b), transmit to the House of Representatives a determination that consideration of impeachment may be warranted, together with appropriate court records, for whatever action the House of Representatives considers to be necessary.
+In case of felony conviction.—If a judge has been convicted of a felony under State or Federal law and has exhausted all means of obtaining direct review of the conviction, orthe time for seeking further direct review of the conviction has passed and no such review has been sought, the Judicial Conference may, by majority vote and without referral or certification under section 354(b), transmit to the House of Representatives a determination that consideration of impeachment may be warranted, together with appropriate court records, for whatever action the House of Representatives considers to be necessary.
 
 (Added Pub. L. 107–273, div. C, title I, §11042(a), Nov. 2, 2002, 116 Stat. 1852.)
 

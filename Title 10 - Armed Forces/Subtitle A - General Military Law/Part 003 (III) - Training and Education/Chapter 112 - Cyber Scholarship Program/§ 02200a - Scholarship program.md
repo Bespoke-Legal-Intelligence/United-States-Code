@@ -38,7 +38,7 @@ Amount of Assistance.—The amount of the financial assistance provided for a pe
 
 (d)
 
-Use of Assistance for Support of Internships.—The financial assistance for a person under this section may also be provided to support internship activities of the person at the Department of Defense in periods betweenthe academic years leading to the degree for which assistance is provided the person under this section.
+Use of Assistance for Support of Internships.—The financial assistance for a person under this section may also be provided to support internship activities of the person at the Department of Defense in periods between the academic years leading to the degree for which assistance is provided the person under this section.
 
 (e)
 
@@ -88,7 +88,7 @@ Subsec. (g). Pub. L. 111–84, §1103(a), added subsec. (g).
 
 "(3) The Secretary of Defense may waive, in whole or in part, a refund required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States."
 
-Subsecs. (f), (g). Pub. L. 109–163, §687(c)(8)(B), (C), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: "A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (e)."
+Subsecs. (f), (g). Pub. L. 109–163, §687(c)(8)(B), (C), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: "A discharge in bankruptcy under title 11 that is entered lessthan five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (e)."
 
 #### Savings Provision
 

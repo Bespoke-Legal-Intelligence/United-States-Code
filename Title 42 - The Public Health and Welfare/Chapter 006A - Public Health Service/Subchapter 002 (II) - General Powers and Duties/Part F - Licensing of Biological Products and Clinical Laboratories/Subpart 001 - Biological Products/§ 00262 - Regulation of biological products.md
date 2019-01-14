@@ -254,7 +254,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (i) Guidance
 
-&emsp;&emsp;&emsp;The Secretary may indicate in a guidance document that the science and experience, as of the date of such guidance,with respect to a product or product class (not including any recombinant protein) does not allow approval of an application for a license as provided under this subsection for such product or product class.
+&emsp;&emsp;&emsp;The Secretary may indicate in a guidance document that the science and experience, as of the date of such guidance, with respect to a product or product class (not including any recombinant protein) does not allow approval of an application for a license as provided under this subsection for such product or product class.
 
 #### (ii) Modification or reversal
 
@@ -408,7 +408,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (i) Notification to Secretary
 
-&emsp;&emsp;&emsp;Not later than 30 days after a complaint is served to a subsection (k) applicant in an action for patent infringement described under this paragraph, the subsection (k) applicant shall provide the Secretary with notice and a copy of such complaint.
+&emsp;&emsp;&emsp;Not later than 30 days after a complaint is served to a subsection (k) applicant inan action for patent infringement described under this paragraph, the subsection (k) applicant shall provide the Secretary with notice and a copy of such complaint.
 
 #### (ii) Publication by Secretary
 
@@ -468,7 +468,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (2) Market exclusivity for new biological products
 
-&emsp;If, prior to approval of an application that is submitted under subsection (a), the Secretary determines that information relating to the use of a new biological product in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing such studies), the applicant agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with section 505A(d)(4) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(4)\]—
+&emsp;If, prior to approval of an application that is submitted under subsection (a), the Secretary determines that information relating to the use of a new biological product in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing suchstudies), the applicant agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with section 505A(d)(4) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(4)\]—
 
 &emsp;&emsp;(A) the periods for such biological product referred to in subsection (k)(7) are deemed to be 4 years and 6 months rather than 4 years and 12 years and 6 months rather than 12 years; and
 
@@ -490,7 +490,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (1) In general
 
-&emsp;In the case of an application under subsection (a) with respect to a biological product for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], approval of such application shall not take effect until the interim final rule controlling the biologicalproduct is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
+&emsp;In the case of an application under subsection (a) with respect to a biological product for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], approval of such application shall not take effect until the interim final rule controlling the biological product is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
 
 #### (2) Date of approval
 
@@ -642,7 +642,7 @@ In general.—On the date that is 2 years after first receiving a user fee appli
 
 &emsp;"(ii)
 
-Alteration of user fee.—If the audit performed under clause (i) indicates that the ratios compared under subclause (II) of such clause differ by more than 5 percent, then the Secretary shall alterthe user fee applicable to applications submitted under such section 351(k) \[42 U.S.C. 262(k)\] to more appropriately account for the costs of reviewing such applications.
+Alteration of user fee.—If the audit performed under clause (i) indicates that the ratios compared under subclause (II) of such clause differ by more than 5 percent, then the Secretary shall alter the user fee applicable to applications submitted under such section 351(k) \[42 U.S.C. 262(k)\] to more appropriately account for the costs of reviewing such applications.
 
 &emsp;"(iii)
 

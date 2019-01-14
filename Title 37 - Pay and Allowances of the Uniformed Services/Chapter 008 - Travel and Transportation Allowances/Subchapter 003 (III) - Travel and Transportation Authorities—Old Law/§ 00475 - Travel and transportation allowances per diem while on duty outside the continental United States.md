@@ -14,7 +14,7 @@ Treatment of Housing Cost and Allowance.—Housing cost and allowance may be dis
 
 (d)
 
-Unusual or Extraordinary Expenses.—(1) The Secretary concerned may reimburse a member of the uniformed services on duty as described in subsection (a) or (e) for an unusual orextraordinary expense incurred by the member incident to such duty that—
+Unusual or Extraordinary Expenses.—(1) The Secretary concerned may reimburse a member of the uniformed services on duty as described in subsection (a) or (e) for an unusual or extraordinary expense incurred by the member incident to such duty that—
 
 &emsp;(A) is directly related to the conditions or location of the duty or the location of the member's dependents;
 
@@ -48,7 +48,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §303(b), 63 Stat. 814.
 
-The words "Secretaries concerned" are substituted for the words "Secretaries of the uniformed services" to conform to other subsections of the source statute. The words "outside the United States, or in Hawaii or Alaska" are substituted for the words "outside the continental United States or in Alaska" to conform to the definition of United States in section 101(1) of this revised title and to retain the coverage of the source statute.
+The words "Secretaries concerned" are substituted for the words "Secretaries of the uniformed services" to conform to other subsections of the source statute.The words "outside the United States, or in Hawaii or Alaska" are substituted for the words "outside the continental United States or in Alaska" to conform to the definition of United States in section 101(1) of this revised title and to retain the coverage of the source statute.
 
 #### Amendments
 

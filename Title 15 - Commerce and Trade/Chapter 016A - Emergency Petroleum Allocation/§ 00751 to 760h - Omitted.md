@@ -22,7 +22,7 @@ Section 758, Pub. L. 93–159, §9, as added Pub. L. 94–163, title IV, §401(a
 
 Section 759, Pub. L. 93–159, §10, as added Pub. L. 94–163, title IV, §402(c), Dec. 22, 1975, 89 Stat. 947, limited pricing authority of President.
 
-Section 760, Pub. L. 93–159, §11, as added Pub. L. 94–163, title IV, §454, Dec. 22, 1975, 89 Stat. 950, related to reevaluation and promulgation of amendments to regulations and report to Congress.
+Section 760, Pub. L. 93–159, §11, as added Pub. L. 94–163, title IV, §454, Dec. 22, 1975, 89 Stat. 950, relatedto reevaluation and promulgation of amendments to regulations and report to Congress.
 
 Section 760a, Pub. L. 93–159, §12, as added Pub. L. 94–163, title IV, §455, Dec. 22, 1975, 89 Stat. 950, related to conversion mechanism to standby authorities.
 

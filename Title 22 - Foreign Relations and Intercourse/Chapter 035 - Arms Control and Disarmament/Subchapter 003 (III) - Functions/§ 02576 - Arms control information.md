@@ -18,7 +18,7 @@ In order to assist the Secretary of State in the performance of his duties with 
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277, §1223(10), substituted "Secretary of State" for "Director" wherever appearingand, in concluding provisions, struck out ", in accordance with the procedures established pursuant to section 2575 of this title," after "detailed information".
+<b>1998</b>—Pub. L. 105–277, §1223(10), substituted "Secretary of State" for "Director" wherever appearing and, in concluding provisions, struck out ", in accordance with the procedures established pursuant to section 2575 of this title," after "detailed information".
 
 <b>1994</b>—Pub. L. 103–236, §719(e), substituted "information" for "impact information and analysis" in section catchline, redesignated subsec. (a) as entire section, and inserted ", nonproliferation," after "arms control" in introductory provisions and par. (3).
 

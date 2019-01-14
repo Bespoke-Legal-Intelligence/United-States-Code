@@ -30,3 +30,7 @@ Subsec. (a). Pub. L. 109–364, §3117(b)(1)(B), added subsec. (a) and struck ou
 
 Subsecs. (b), (c). Pub. L. 109–364, §3117(b)(1)(C), (D), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to the Chief of Defense Nuclear Counterintelligence.
 
+#### Effective Date
+
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under section 2401 of this title.
+

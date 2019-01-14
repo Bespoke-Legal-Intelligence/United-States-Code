@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A United States person who directly or indirectly transfers property to a foreign trust (other than a trust described in section 6048(a)(3)(B)(ii)) shall be treated as the owner for his taxable year of the portion of such trust attributable to such property if for such year there is a United States beneficiary of any portion of such trust.
+&emsp;A United States person who directly or indirectly transfers property to a foreign trust\(other than a trust described in section 6048(a)(3)(B)(ii)) shall be treated as the owner for his taxable year of the portion of such trust attributable to such property if for such year there is a United States beneficiary of any portion of such trust.
 
 #### (2) Exceptions
 
@@ -90,7 +90,7 @@ If—
 
 #### (2) Attribution of ownership
 
-&emsp;For purposes of paragraph (1), an amount shall be treated as paid or accumulated to or for the benefit of a United States person if such amount is paid to or accumulated for a foreign corporation, foreign partnership, or foreign trust or estate, and—
+&emsp;For purposes of paragraph (1), an amount shall be treated as paid or accumulated to orfor the benefit of a United States person if such amount is paid to or accumulated for a foreign corporation, foreign partnership, or foreign trust or estate, and—
 
 &emsp;&emsp;(A) in the case of a foreign corporation, such corporation is a controlled foreign corporation (as defined in section 957(a)),
 
@@ -146,7 +146,7 @@ Subsecs. (d), (e). Pub. L. 111–147, §532(a), added subsec. (d) and redesignat
 
 <b>1997</b>—Subsec. (a)(3)(C)(ii), (iii). Pub. L. 105–34 inserted ", owner," after "grantor".
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–188, §1903(b), which directed that subsec. (a) of this section be amended by substituting "section 6048(a)(3)(B)(ii)" for "section404(a)(4) or 404A", was executed to par. (1) by making the substitution for "section 404(a)(4) Or section 404A" to reflect the probable intent of Congress. See 1998 Amendment note above.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–188, §1903(b), which directed that subsec. (a) of this section be amended by substituting "section 6048(a)(3)(B)(ii)" for "section 404(a)(4) or 404A", was executed to par. (1) by making the substitution for "section 404(a)(4) Or section 404A" to reflect the probable intent of Congress. See 1998 Amendment note above.
 
 Subsec. (a)(2)(B). Pub. L. 104–188, §1903(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "
 

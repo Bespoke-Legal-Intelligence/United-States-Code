@@ -24,7 +24,7 @@ The priority uses of inventory property under this section shall not have a high
 
 #### (2) Rental to eligible families
 
-&emsp;A public agency or nonprofit organization may rent housing leased to it under paragraph (1) to a family for up to 10 years and may, during that period, assist the tenant in obtaining a loan and credit assistance under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\] to purchase the housing from the Secretary.
+&emsp;A public agency or nonprofit organization may rent housing leased to it under paragraph\(1) to a family for up to 10 years and may, during that period, assist the tenant in obtaining a loan and credit assistance under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\] to purchase the housing from the Secretary.
 
 #### (d) Lease procedures
 
@@ -80,7 +80,7 @@ A public agency or nonprofit organization may lease or purchase property under t
 
 #### (2) Waiver
 
-&emsp;The Secretary may grant a waiver to a public agency or nonprofit organization that isunable to meet the requirement of paragraph (1), if the agency or organization agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
+&emsp;The Secretary may grant a waiver to a public agency or nonprofit organization that is unable to meet the requirement of paragraph (1), if the agency or organization agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
 
 #### (h) Budget compliance
 

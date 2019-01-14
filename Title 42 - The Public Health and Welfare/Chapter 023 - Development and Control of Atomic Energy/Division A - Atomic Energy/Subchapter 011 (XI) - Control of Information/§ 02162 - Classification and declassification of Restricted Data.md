@@ -84,7 +84,7 @@ Ex. Ord. No. 10899, Dec. 9, 1960, 25 F.R. 12729, set out above, when referring t
 
 Ex. Ord. No. 11057, eff. Oct. 18, 1962, 27 F.R. 10289, provided:
 
-By virtue of the authority vested in me by the Atomic Energy Act of 1954, as amended (hereinafter referredto as the Act; 42 U.S.C. 2011 et seq.), and as President of the United States, it is ordered as follows:
+By virtue of the authority vested in me by the Atomic Energy Act of 1954, as amended (hereinafter referred to as the Act; 42 U.S.C. 2011 et seq.), and as President of the United States, it is ordered as follows:
 
 The Department of State is hereby authorized to communicate, in accordance with the terms and conditions of any agreement for cooperation arranged pursuant to subsection 144b of the act (42 U.S.C. 2164(b)), such restricted data and data removed from the restricted data category under subsection 142d of the act (42 U.S.C. 2162(d)) as is determined
 

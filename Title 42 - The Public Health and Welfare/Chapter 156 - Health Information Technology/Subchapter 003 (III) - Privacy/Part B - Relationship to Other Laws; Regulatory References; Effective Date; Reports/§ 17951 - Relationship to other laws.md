@@ -20,5 +20,5 @@ This subchapter, referred to in text, was in the original "this subtitle", meani
 
 The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b), is Pub. L. 104–191,Aug. 21, 1996, 110 Stat. 1936. Section 262(a) of the Act enacted sections 1320d to 1320d–8 of this title. Section 264 of the Act is set out as a note under section 1320d–2 of this title. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
+The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. Section 262(a) of the Act enacted sections 1320d to 1320d–8 of this title. Section 264 of the Act is set out as a note under section 1320d–2 of this title. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
 

@@ -8,7 +8,7 @@ As used in this chapter:
 
 (c) The term "potatoes" means all varieties of Irish potatoes grown by producers in the 50 States of the United States, and grown in foreign countries and imported into the United States.
 
-(d) The term "handler" means any person (except a common or contract carrier of potatoes owned by another person) who handles potatoesin a manner specified in a plan issued pursuant to this chapter or in the rules and regulations issued thereunder.
+(d) The term "handler" means any person (except a common or contract carrier of potatoes owned by another person) who handles potatoes in a manner specified in a plan issued pursuant to this chapter or in the rules and regulations issued thereunder.
 
 (e) The term "producer" means any person engaged in the growing of five or more acres of potatoes.
 

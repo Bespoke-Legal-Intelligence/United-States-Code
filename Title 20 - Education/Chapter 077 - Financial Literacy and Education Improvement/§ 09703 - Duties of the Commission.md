@@ -30,6 +30,36 @@
 
 &emsp;&emsp;(J) improve financial literacy and education through all other related skills, including personal finance and related economic education, with the primary goal of programs not simply to improve knowledge, but rather to improve consumers' financial choices and outcomes.
 
+#### (3) Best practices for teaching financial literacy
+
+#### (A) In general
+
+&emsp;&emsp;After soliciting public comments and consulting with and receiving input from relevant parties, including a diverse set of institutions of higher education and other parties, the Commission shall, by not later than 1 year after May 24, 2018, establish best practices for institutions of higher education regarding methods to—
+
+&emsp;&emsp;&emsp;(i) teach financial literacy skills; and
+
+&emsp;&emsp;&emsp;(ii) provide useful and necessary information to assist students at institutions of higher education when making financial decisions related to student borrowing.
+
+#### (B) Best practices
+
+&emsp;&emsp;The best practices described in subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;(i) Methods to ensure that each student has a clear sense of the student's total borrowing obligations, including monthly payments, and repayment options.
+
+&emsp;&emsp;&emsp;(ii) The most effective ways to engage students in financial literacy education, including frequency and timing of communication with students.
+
+&emsp;&emsp;&emsp;(iii) Information on how to target different student populations, including part-time students, first-time students, and other nontraditional students.
+
+&emsp;&emsp;&emsp;(iv) Ways to clearly communicate the importance of graduating on a student's ability to repay student loans.
+
+#### (C) Maintenance of best practices
+
+&emsp;&emsp;The Commission shall maintain and periodically update the best practices information required under this paragraph and make the best practices available to the public.
+
+#### (D) Rule of construction
+
+&emsp;&emsp;Nothing in this paragraph shall be construed to require an institution of higher education to adopt the best practices required under this paragraph.
+
 #### (b) Website
 
 #### (1) In general
@@ -52,7 +82,7 @@
 
 #### (c) Toll-free hotline
 
-The Commission shall establish a toll-free telephone number that shall be made availableto members of the public seeking information about issues pertaining to financial literacy and education.
+The Commission shall establish a toll-free telephone number that shall be made available to members of the public seeking information about issues pertaining to financial literacy and education.
 
 #### (d) Development and dissemination of materials
 
@@ -94,7 +124,7 @@ The Commission shall take such steps as are necessary to coordinate and promote 
 
 #### (3) National strategy review
 
-&emsp;The Commission shall, not less than annually, review the national strategy developed under this subsection and make such changes and recommendations as it deems necessary.
+&emsp;The Commission shall, not less than annually, review the national strategy developedunder this subsection and make such changes and recommendations as it deems necessary.
 
 #### (g) Consultation
 
@@ -142,7 +172,11 @@ The Commission shall actively consult with a variety of representatives from pri
 
 The Commission shall annually provide testimony by the Chairperson to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
 
-(Pub. L. 108–159, title V, §514, Dec. 4, 2003, 117 Stat. 2004.)
+(Pub. L. 108–159, title V, §514, Dec. 4, 2003, 117 Stat. 2004; Pub. L. 115–174, title VI, §603, May 24, 2018, 132 Stat. 1367.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(3). Pub. L. 115–174 added par. (3).
 
 #### Effective Date
 

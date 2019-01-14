@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(C) such offer or sale is of securities that do not exceed—
 
-&emsp;&emsp;&emsp;(i) during the two-year period immediately following the date of the filing ofthe petition, four percent of the securities of such class outstanding on such date; and
+&emsp;&emsp;&emsp;(i) during the two-year period immediately following the date of the filing of the petition, four percent of the securities of such class outstanding on such date; and
 
 &emsp;&emsp;&emsp;(ii) during any 180-day period following such two-year period, one percent of the securities outstanding at the beginning of such 180-day period; or
 

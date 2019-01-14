@@ -30,9 +30,9 @@ In this part—
 
 &emsp;&emsp;&emsp;(i) Amtrak; or
 
-&emsp;&emsp;&emsp;(ii) another rail carrier that receives funds under chapter 244.
+&emsp;&emsp;&emsp;(ii) another rail carrier that receives funds under chapter 229.
 
-&emsp;(8) "Northeast Corridor" means Connecticut, Delaware, the District of Columbia, Maryland,Massachusetts, New Jersey, New York, Pennsylvania, and Rhode Island.
+&emsp;(8) "Northeast Corridor" means Connecticut, Delaware, the District of Columbia, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, and Rhode Island.
 
 &emsp;(9) "rail carrier" means a person, including a unit of State or local government, providing rail transportation for compensation.
 
@@ -48,7 +48,7 @@ In this part—
 
 &emsp;(13) "State-supported route" means a route described in subparagraph (B) or (D) of paragraph (7), or in section 24702, that is operated by Amtrak, excluding those trains operated by Amtrak on the routes described in paragraph (7)(A).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 900; Pub. L. 105–134, title IV, §407, Dec. 2, 1997, 111 Stat. 2586; Pub. L. 110–432, div. B, title II, §201(a), Oct. 16, 2008, 122 Stat. 4909; Pub. L. 114–94, div. A, title XI, §11006(a), Dec. 4, 2015, 129 Stat. 1624.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 900; Pub. L. 105–134, title IV, §407, Dec. 2, 1997, 111 Stat. 2586; Pub. L. 110–432, div. B, title II, §201(a), Oct. 16, 2008, 122 Stat. 4909; Pub. L. 114–94, div. A, title XI, §11006(a), Dec. 4, 2015, 129 Stat. 1624; Pub. L. 115–420, §7(b)(3)(A)(i)(I), Jan. 3, 2019, 132 Stat. 5446.)
 
 Historical and Revision Notes
 
@@ -154,11 +154,13 @@ The date of enactment of the Passenger Rail Investment and Improvement Act of 20
 
 #### Amendments
 
+<b>2019</b>—Par. (7)(D)(ii). Pub. L. 115–420 substituted "chapter 229" for "chapter 244".
+
 <b>2015</b>—Pars. (5) to (13). Pub. L. 114–94 added pars. (5), (6), (12), and (13) and redesignated former pars. (5) to (9) as (7) to (11), respectively.
 
 <b>2008</b>—Pars. (2) to (5). Pub. L. 110–432 added par. (5), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: " 'basic system' means the system of intercity rail passenger transportation designated by the Secretary of Transportation under section 4 of the Amtrak Improvement Act of 1978 and approved by Congress, and transportation required to be provided under section 24705(a) of this title and section 4(g) of the Act, including changes in the system or transportation that Amtrak makes using the route and service criteria."
 
-<b>1997</b>—Pars. (2) to (6). Pub. L. 105–134, §407(1), (2), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows: " 'avoidable loss' means the avoidable costs of providing rail passenger transportation, less revenue attributable to the transportation, as determined by the Interstate Commerce Commission under section 553 of title 5."
+<b>1997</b>—Pars. (2) to (6). Pub. L. 105–134, §407(1), (2), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows:" 'avoidable loss' means the avoidable costs of providing rail passenger transportation, less revenue attributable to the transportation, as determined by the Interstate Commerce Commission under section 553 of title 5."
 
 Par. (7). Pub. L. 105–134, §407(2), (3), redesignated par. (8) as (7) and inserted ", including a unit of State or local government," after "means a person". Former par. (7) redesignated (6).
 

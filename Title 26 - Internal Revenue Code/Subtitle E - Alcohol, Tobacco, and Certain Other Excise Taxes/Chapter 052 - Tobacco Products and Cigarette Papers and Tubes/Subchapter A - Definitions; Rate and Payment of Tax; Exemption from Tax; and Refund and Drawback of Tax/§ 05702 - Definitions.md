@@ -38,7 +38,7 @@ When used in this chapter—
 
 #### (g) Manufacturer of cigarette papers and tubes
 
-"Manufacturer of cigarette papers and tubes" means any person who manufactures cigarettepaper, or makes up cigarette paper into tubes, except for his own personal use or consumption.
+"Manufacturer of cigarette papers and tubes" means any person who manufactures cigarette paper, or makes up cigarette paper into tubes, except for his own personal use or consumption.
 
 #### (h) Export warehouse
 
@@ -118,7 +118,7 @@ Subsec. (o). Pub. L. 111–3, §702(d)(1), inserted "or cigars, or for use as wr
 
 Subsec. (p). Pub. L. 111–3, §702(a)(4), added subsec. (p).
 
-<b>2000</b>—Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (g) as (f) and struck out former subsec. (f), which defined "cigarette papers".
+<b>2000</b>—Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (g) as (f) and struckout former subsec. (f), which defined "cigarette papers".
 
 Subsec. (g). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 

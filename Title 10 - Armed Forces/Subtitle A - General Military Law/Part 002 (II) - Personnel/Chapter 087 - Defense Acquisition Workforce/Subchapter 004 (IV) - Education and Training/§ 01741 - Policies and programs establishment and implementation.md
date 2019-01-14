@@ -10,7 +10,7 @@ Funding Levels.—The Under Secretary of Defense for Acquisition, Technology, an
 
 (c)
 
-Programs.—The Secretary of each military department, acting through the service acquisition executive for that department, shallestablish and implement the education and training programs authorized by this subchapter. In carrying out such requirement, the Secretary concerned shall ensure that such programs are established and implemented throughout the military department concerned and, to the maximum extent practicable, uniformly with the programs of the other military departments.
+Programs.—The Secretary of each military department, acting through the service acquisition executive for that department, shall establish and implement the education and training programs authorized by this subchapter. In carrying out such requirement, the Secretary concerned shall ensure that such programs are established and implemented throughout the military department concerned and, to the maximum extent practicable, uniformly with the programs of the other military departments.
 
 (Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1651; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225.)
 

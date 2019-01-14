@@ -56,7 +56,7 @@
 
 #### (1) In general
 
-&emsp;To ensure timely and meaningful consultation, a local educational agency shall consultwith appropriate private school officials during the design and development of such agency's programs under this part. Such agency and private school officials shall both have the goal of reaching agreement on how to provide equitable and effective programs for eligible private school children, the results of which agreement shall be transmitted to the ombudsman designated under subsection (a)(3)(B). Such process shall include consultation on issues such as—
+&emsp;To ensure timely and meaningful consultation, a local educational agency shall consult with appropriate private school officials during the design and development of such agency's programs under this part. Such agency and private school officials shall both have the goal of reaching agreement on how to provide equitable and effective programs for eligible private school children, the results of which agreement shall be transmitted to the ombudsman designated under subsection (a)(3)(B). Such process shall include consultation on issues such as—
 
 &emsp;&emsp;(A) how the children's needs will be identified;
 
@@ -184,7 +184,7 @@ Another prior section 1117 of Pub. L. 89–10 was classified to section 6318 of 
 
 Subsec. (a)(3). Pub. L. 114–95, §1011(1)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "Educational services and other benefits for such private school children shall be equitable in comparison to services and other benefits for public school children participating under this part, and shall be provided in a timely manner."
 
-Subsec. (a)(4). Pub. L. 114–95, §1011(1)(C), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "Expenditures for educational services and other benefits to eligible private school children shall be equal to the proportion of funds allocated to participating school attendance areas based on the number of children from low-income families whoattend private schools, which the local educational agency may determine each year or every 2 years."
+Subsec. (a)(4). Pub. L. 114–95, §1011(1)(C), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "Expenditures for educational services and other benefits to eligible private school children shall be equal to the proportion of funds allocated to participating school attendance areas based on the number of children from low-income families who attend private schools, which the local educational agency may determine each year or every 2 years."
 
 Subsec. (a)(5). Pub. L. 114–95, §1011(1)(D), inserted ", or, in a case described in subsection (b)(6)(C), the State educational agency involved," after "local educational agency".
 
@@ -196,7 +196,7 @@ Subsec. (b)(1)(I) to (L). Pub. L. 114–95, §1011(2)(A)(iii)–(v), added subpa
 
 Subsec. (b)(2) to (4). Pub. L. 114–95, §1011(2)(B), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 
-Subsec. (b)(5). Pub. L. 114–95, §1011(2)(B), (D), redesignated par. (4) as (5), inserted "meaningful" before "consultation" in first sentence, inserted second sentence, and substituted "such consultation has, or attempts at such consultation have, taken place" for "such consultation has taken place" in last sentence. Former par. (5) redesignated (6).
+Subsec. (b)(5). Pub. L. 114–95, §1011(2)(B), (D), redesignated par. (4) as (5), inserted "meaningful" before "consultation" in first sentence, inserted second sentence,and substituted "such consultation has, or attempts at such consultation have, taken place" for "such consultation has taken place" in last sentence. Former par. (5) redesignated (6).
 
 Subsec. (b)(6). Pub. L. 114–95, §1011(2)(B), redesignated par. (5) as (6).
 

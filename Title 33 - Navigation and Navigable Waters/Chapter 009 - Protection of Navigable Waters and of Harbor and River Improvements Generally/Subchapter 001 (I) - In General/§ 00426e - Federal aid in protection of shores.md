@@ -38,7 +38,7 @@ Shores other than public will be eligible for Federal assistance if there is ben
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall recommend to Congress the authorization or reauthorization of shore protection projects based on the studies conducted under subparagraph (A).
+&emsp;&emsp;&emsp;The Secretary shall recommend to Congress the authorization or reauthorizationof shore protection projects based on the studies conducted under subparagraph (A).
 
 #### (ii) Considerations
 
@@ -120,7 +120,7 @@ Review.—The Secretary shall review the implementation of the Corps of Engineer
 
 "(b)
 
-Report.—As expeditiously as practicable, but not later than 1 year after the date of enactment ofthis Act \[Aug. 17, 1999\], the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the results of the review under subsection (a)."
+Report.—As expeditiously as practicable, but not later than 1 year after the date of enactment of this Act \[Aug. 17, 1999\], the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the results of the review under subsection (a)."
 
 #### Report on Shores of the United States
 

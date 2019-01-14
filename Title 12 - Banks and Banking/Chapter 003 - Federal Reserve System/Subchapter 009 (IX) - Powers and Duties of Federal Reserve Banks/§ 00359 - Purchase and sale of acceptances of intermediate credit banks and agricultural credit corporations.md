@@ -6,7 +6,7 @@ Every Federal reserve bank shall have power to purchase and sell in the open mar
 
 #### Codification
 
-Section is comprised of subsec. (f) of section 14 of act Dec. 23, 1913, as added Mar. 4, 1923. For classification tothis title of remainder of section 14, see Codification note under section 353 of this title.
+Section is comprised of subsec. (f) of section 14 of act Dec. 23, 1913, as added Mar. 4, 1923. For classification to this title of remainder of section 14, see Codification note under section 353 of this title.
 
 #### Change of Name
 

@@ -14,7 +14,7 @@ The provision of credit assistance under the TIFIA program with respect to a pro
 
 <b>2015</b>—Pub. L. 114–94 substituted "the TIFIA program" for "this chapter" in introductory provisions.
 
-<b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section read as follows: "The provision of financial assistance under this chapter with respect to a project shall not—
+<b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section read as follows: "The provisionof financial assistance under this chapter with respect to a project shall not—
 
 &emsp;"(1) relieve any recipient of the assistance of any obligation to obtain any required State or local permit or approval with respect to the project;
 

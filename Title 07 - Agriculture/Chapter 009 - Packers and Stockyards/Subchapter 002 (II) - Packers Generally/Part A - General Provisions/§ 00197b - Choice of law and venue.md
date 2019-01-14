@@ -6,7 +6,7 @@ The forum for resolving any dispute among the parties to a poultry growing arran
 
 #### (b) Choice of law
 
-A poultry growing arrangement or swine production or marketing contract may specify which State's law is to apply to issues governed by State law in any dispute arising out of the arrangement or contract, except to the extentthat doing so is prohibited by the law of the State in which the principal part of the performance takes place under the arrangement or contract.
+A poultry growing arrangement or swine production or marketing contract may specify which State's law is to apply to issues governed by State law in any dispute arising out of the arrangement or contract, except to the extent that doing so is prohibited by the law of the State in which the principal part of the performance takes place under the arrangement or contract.
 
 (Aug. 15, 1921, ch. 64, title II, §209, as added Pub. L. 110–234, title XI, §11005, May 22, 2008, 122 Stat. 1357, and Pub. L. 110–246, §4(a), title XI, §11005, June 18, 2008, 122 Stat. 1664, 2119.)
 

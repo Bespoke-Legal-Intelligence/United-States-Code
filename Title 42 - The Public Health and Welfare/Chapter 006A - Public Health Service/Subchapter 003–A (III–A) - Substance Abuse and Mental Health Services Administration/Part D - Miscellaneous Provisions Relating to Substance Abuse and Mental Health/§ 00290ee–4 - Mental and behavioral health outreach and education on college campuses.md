@@ -6,7 +6,7 @@ It is the purpose of this section to increase access to, and reduce the stigma a
 
 #### (b) National public education campaign
 
-The Secretary, acting through the Assistant Secretary and in collaboration with the Directorof the Centers for Disease Control and Prevention, shall convene an interagency, public-private sector working group to plan, establish, and begin coordinating and evaluating a targeted public education campaign that is designed to focus on mental and behavioral health on the campuses of institutions of higher education. Such campaign shall be designed to—
+The Secretary, acting through the Assistant Secretary and in collaboration with the Director of the Centers for Disease Control and Prevention, shall convene an interagency, public-private sector working group to plan, establish, and begin coordinating and evaluating a targeted public education campaign that is designed to focus on mental and behavioral health on the campuses of institutions of higher education. Such campaign shall be designed to—
 
 &emsp;(1) improve the general understanding of mental health and mental disorders;
 

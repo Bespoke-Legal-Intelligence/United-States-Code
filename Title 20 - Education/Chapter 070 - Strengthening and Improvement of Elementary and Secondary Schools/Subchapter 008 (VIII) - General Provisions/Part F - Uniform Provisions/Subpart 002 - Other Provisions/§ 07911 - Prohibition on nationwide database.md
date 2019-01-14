@@ -2,7 +2,7 @@
 
 Nothing in this chapter (other than section 6398(b) of this title) shall be construed to authorize the development of a nationwide database of personally identifiable information on individuals involved in studies or other collections of data under this chapter.
 
-(Pub. L. 89–10, title VIII, §8531, formerly title IX, §9531, as added Pub. L. 107–110, title IX, §901,Jan. 8, 2002, 115 Stat. 1984; renumbered title VIII, §8531, Pub. L. 114–95, title VIII, §8001(a)(6), Dec. 10, 2015, 129 Stat. 2088, 2089.)
+(Pub. L. 89–10, title VIII, §8531, formerly title IX, §9531, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1984; renumbered title VIII, §8531, Pub. L. 114–95, title VIII, §8001(a)(6), Dec. 10, 2015, 129 Stat. 2088, 2089.)
 
 #### Prior Provisions
 

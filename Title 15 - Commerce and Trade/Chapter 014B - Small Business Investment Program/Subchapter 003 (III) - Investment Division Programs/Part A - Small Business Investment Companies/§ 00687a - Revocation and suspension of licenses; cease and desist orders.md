@@ -10,13 +10,13 @@ A license may be revoked or suspended by the Administration—
 
 &emsp;(3) for willful or repeated violation of, or willful or repeated failure to observe, any provision of this chapter;
 
-&emsp;(4) for willful or repeated violation of, or willful or repeated failure to observe, any ruleor regulation of the Administration authorized by this chapter; or
+&emsp;(4) for willful or repeated violation of, or willful or repeated failure to observe, any rule or regulation of the Administration authorized by this chapter; or
 
 &emsp;(5) for violation of, or failure to observe, any cease and desist order issued by the Administration under this section.
 
 #### (b) Grounds for cease and desist order
 
-Where a licensee or any other person has not complied with any provision of this chapter, or of any regulation issued pursuant thereto by the Administration, or is engaging or is about to engage in any acts or practices which constitute or will constitute a violation of such chapter or regulation, the Administration may order such licensee or other person to cease and desist from such action or failure to act. The Administration may further order such licensee or other person to take such action or to refrain from such action as the Administration deems necessary to insure compliance with this chapter and the regulations. The Administration may also suspend the license of a licensee, against whom an order has been issued, until such licensee complies with such order.
+Where a licensee or any other person has not complied with any provision of this chapter, orof any regulation issued pursuant thereto by the Administration, or is engaging or is about to engage in any acts or practices which constitute or will constitute a violation of such chapter or regulation, the Administration may order such licensee or other person to cease and desist from such action or failure to act. The Administration may further order such licensee or other person to take such action or to refrain from such action as the Administration deems necessary to insure compliance with this chapter and the regulations. The Administration may also suspend the license of a licensee, against whom an order has been issued, until such licensee complies with such order.
 
 #### (c) Order to show cause; contents; hearing; issuance and service
 
@@ -34,7 +34,7 @@ An order issued by the Administration under this section shall be final and conc
 
 If any licensee or other person against which or against whom an order is issued under this section fails to obey the order, the Administration may apply to the United States court of appeals, within the circuit where the licensee has its principal place of business, for the enforcement of the order, and shall file a transcript of the record upon which the order complained of was entered. Upon the filing of the application the court shall cause notice thereof to be served on the licensee or other person. The evidence to be considered, the procedure to be followed, and the jurisdiction of the court shall be the same as is provided in subsection (e) for applications to set aside or modify orders.
 
-(Pub. L. 85–699, title III, §309, as added Pub. L. 87–341, §9, Oct. 3, 1961, 75 Stat. 753; amended Pub.L. 89–779, §4, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 98–620, title IV, §402(15)(A), (B), Nov. 8, 1984, 98 Stat. 3358.)
+(Pub. L. 85–699, title III, §309, as added Pub. L. 87–341, §9, Oct. 3, 1961, 75 Stat. 753; amended Pub. L. 89–779, §4, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 98–620, title IV, §402(15)(A), (B), Nov. 8, 1984, 98 Stat. 3358.)
 
 #### References in Text
 

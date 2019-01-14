@@ -4,13 +4,13 @@
 
 Authority to Establish Program.—(1) The Secretary of Defense may establish a program (in this section referred to as the "travel program") to provide transportation on Department of Defense aircraft on a space-available basis to the categories of individuals eligible under subsection (c).
 
-(2) If the Secretary makes a determination to establish the travel program, the Secretary shall prescribe regulations for the operation ofthe travel program not later than one year after the date on which the determination was made. The regulations shall take effect on that date or such earlier date as the Secretary shall specify in the regulations.
+(2) If the Secretary makes a determination to establish the travel program, the Secretary shall prescribe regulations for the operation of the travel program not later than one year after the date on which the determination was made. The regulations shall take effect on that date or such earlier date as the Secretary shall specify in the regulations.
 
 (3) Not later than 30 days after making the determination to establish the travel program, the Secretary shall submit to the congressional defense committees an initial implementation report describing—
 
 &emsp;(A) the basis for the determination;
 
-&emsp;(B) any additional categories of individuals to be eligible for the travel program under subsection (c)(5);
+&emsp;(B) any additional categories of individuals to be eligible for the travel program under subsection (c)(5); <sup>1</sup>
 
 &emsp;(C) how the Secretary will ensure that the travel program is established and operated in compliance with the conditions specified in subsection (b); and
 
@@ -32,9 +32,11 @@ Eligible Individuals.—Subject to subsection (d), the Secretary of Defense shal
 
 &emsp;(3) Retired members of a regular or reserve component of the armed forces, including retired members of reserve components who, but for being under the eligibility age applicable under section 12731 of this title, would be eligible for retired pay under chapter 1223 of this title.
 
-&emsp;(4) Such categories of dependents of individuals described in paragraphs (1) through (3) as the Secretary shall specify in the regulations under subsection (a), under such conditions and circumstances as the Secretary shall specify in such regulations.
+&emsp;(4) Subject to subsection (f), veterans with a permanent service-connected disability rated as total.
 
-&emsp;(5) Such other categories of individuals as the Secretary, in the discretion of the Secretary, considers appropriate.
+&emsp;(5) Such categories of dependents of individuals described in paragraphs (1) through (3) as the Secretary shall specify in the regulations under subsection (a), under such conditions and circumstances as the Secretary shall specify in such regulations.
+
+&emsp;(6) Such other categories of individuals as the Secretary, in the discretion of the Secretary, considers appropriate.
 
 (d)
 
@@ -70,11 +72,27 @@ Special Priority for Retired Members Residing in Commonwealths and Possessions o
 
 (f)
 
+Veterans With Service-connected Disabilities Rated as Total.—(1) Travel may not be provided under this section to a veteran eligible for travel pursuant to subsection (c)(4) in priority over any member eligible for travel under subsection (c)(1) or any dependent of such a member eligible for travel under this section.
+
+(2) The authority in subsection (c)(4) may not be construed as affecting or in any way imposing on the Department of Defense, any armed force, or any commercial company with which they contract an obligation or expectation that they will retrofit or alter, in any way, military aircraft or commercial aircraft, or related equipment or facilities, used or leased by the Department or such armed force to accommodate passengers provided travel under such authority on account of disability.
+
+(3) The authority in subsection (c)(4) may not be construed as preempting the authority of a flight commander to determine who boards the aircraft and any other matters in connection with safe operation of the aircraft.
+
+(g)
+
 Construction.—The authority to provide transportation under the travel program is in addition to any other authority under law to provide transportation on Department of Defense aircraft on a space-available basis.
 
-(Added Pub. L. 110–181, div. A, title III, §374(a), Jan. 28, 2008, 122 Stat. 82; amended Pub. L. 112–239, div. A, title VI, §622(a), Jan. 2, 2013, 126 Stat. 1779.)
+(Added Pub. L. 110–181, div. A, title III, §374(a), Jan. 28, 2008, 122 Stat. 82; amended Pub. L. 112–239, div. A, title VI, §622(a), Jan. 2, 2013, 126 Stat. 1779; Pub. L. 115–232, div. A, title VI, §624, Aug. 13, 2018, 132 Stat. 1801.)
+
+#### References in Text
+
+Subsection (c)(5), referred to in subsec. (a)(3)(B), was redesignated subsec. (c)(6) of this section by Pub. L. 115–232, div. A, title VI, §624(a), Aug. 13, 2018, 132 Stat. 1801.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(4) to (6). Pub. L. 115–232, §624(a), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
+Subsecs. (f), (g). Pub. L. 115–232, §624(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 <b>2013</b>—Pub. L. 112–239 amended section generally. Prior to amendment, section related to increased priority for space-available transportation on Department of Defense aircraft for certain members and former members of the uniformed services.
 
@@ -147,4 +165,6 @@ Additional Responsibilities.—In addition to carrying out subsections (a) throu
 "(e)
 
 Disability Rated as Total Defined.—In this section, the term 'disability rated as total' has the meaning given the term in section 1414(e)(3) of title 10, United States Code."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

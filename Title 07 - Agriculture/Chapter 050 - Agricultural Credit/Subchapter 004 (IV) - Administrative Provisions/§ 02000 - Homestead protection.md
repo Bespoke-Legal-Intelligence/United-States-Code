@@ -28,7 +28,7 @@ As used in this section:
 
 &emsp;(C) the borrower-owner of a loan made or insured by the Secretary or the Administrator files a petition in bankruptcy that results in the conveyance of the homestead property to the Secretary or the Administrator, or agrees to voluntarily liquidate or convey such property in whole or in part.
 
-(2) The value of the homestead property shall be determined insofar as possible by an independent appraisal made within six months from the date of the borrower-owner's application to retain possession and occupancy of the homestead property.
+(2) The value of the homestead property shall be determined insofar as possible by an independent appraisal made within six months fromthe date of the borrower-owner's application to retain possession and occupancy of the homestead property.
 
 (3) The period of occupancy of homestead property under this subsection may not exceed five years, but in no case shall the Secretary or the Administrator grant a period of occupancy less than three years, subject to compliance with the requirements of subsection (c).
 
@@ -88,7 +88,7 @@ In the event of any conflict between this section and any provision of the law o
 
 The Small Business Act, referred to in subsecs. (a)(3) and (b)(1)(B), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
-For definition of "this chapter", referred to in subsecs. (b)(1)(A) and (c)(6), see note set out under section 1921 of this title.
+This chapter, referred to in subsecs. (b)(1)(A) and (c)(6), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 Section 1983b of this title, referred to in subsec. (c)(3), was repealed by Pub. L. 103–354, title II, §281(c), Oct. 13, 1994, 108 Stat. 3233.
 
@@ -128,7 +128,7 @@ Subsecs. (f), (g). Pub. L. 100–233, §614(4), added subsecs. (f) and (g).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -10,7 +10,7 @@ Each annuity payable from the fund shall be adjusted as follows:
 
 #### (b) Eligibility
 
-Eligibility for an annuity increase under this section shall be governed by the commencing date of each annuity payable from the fund as of the effective date of an increase, except as follows:
+Eligibility for an annuity increase under this section shall be governed by the commencingdate of each annuity payable from the fund as of the effective date of an increase, except as follows:
 
 &emsp;(1) The first cost-of-living increase (if any) made under subsection (a) to an annuity which is payable from the fund to a participant who retires, to the surviving spouse, former spouse, or previous spouse of a participant who dies in service, or to the surviving spouse, former spouse, previous spouse, or insurable interest designee of a deceased annuitant whose annuity has not been increased under this subsection or subsection (a), shall be equal to the product (adjusted to the nearest 1/10 of one percent) of—
 
@@ -69,6 +69,10 @@ A prior section 291 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1054;
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
+
+#### Effective Date
+
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.
 
 #### Delay in Cost-of-Living Adjustments During Fiscal Years 1994, 1995, and 1996
 

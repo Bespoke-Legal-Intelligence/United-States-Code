@@ -6,49 +6,51 @@ The Administrator shall continue the Management Conference of the Long Island So
 
 #### (b) Administration and staffing of Office
 
-The Office shall be headed by a Director, who shall be detailed by the Administrator, following consultation with the Administrators of EPA regions I and II, from among the employees of the Agency who are in civil service. The Administrator shall delegate to the Director such authority and detail such additional staff as may be necessary to carry out the duties of the Director under this section.
+The Office shall be headed by a Director, who shall be detailed by the Administrator, following consultation with the Administrators ofEPA regions I and II, from among the employees of the Agency who are in civil service. The Administrator shall delegate to the Director such authority and detail such additional staff as may be necessary to carry out the duties of the Director under this section.
 
 #### (c) Duties of Office
 
-The Office shall assist the Management Conference of the Long Island Sound Study in carrying out its goals. Specifically, the Office shall—
+The Office shall assist the conference study in carrying out its goals. Specifically, the Office shall—
 
 &emsp;(1) assist and support the implementation of the Comprehensive Conservation and Management Plan for Long Island Sound developed pursuant to section 1330 of this title, including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan;
 
 &emsp;(2) conduct or commission studies deemed necessary for strengthened implementation of the Comprehensive Conservation and Management Plan including, but not limited to—
 
-&emsp;&emsp;(A) population growth and the adequacy of wastewater treatment facilities,
+&emsp;&emsp;(A) population growth and the adequacy of wastewater treatment facilities;
 
-&emsp;&emsp;(B) the use of biological methods for nutrient removal in sewage treatment plants,
+&emsp;&emsp;(B) the use of biological methods for nutrient removal in sewage treatment plants;
 
-&emsp;&emsp;(C) contaminated sediments, and dredging activities,
+&emsp;&emsp;(C) contaminated sediments, and dredging activities;
 
-&emsp;&emsp;(D) nonpoint source pollution abatement and land use activities in the Long Island Sound watershed,
+&emsp;&emsp;(D) nonpoint source pollution abatement and land use activities in the Long Island Sound watershed;
 
-&emsp;&emsp;(E) wetland protection and restoration,
+&emsp;&emsp;(E) wetland protection and restoration;
 
-&emsp;&emsp;(F) atmospheric deposition of acidic and other pollutants into Long Island Sound,
+&emsp;&emsp;(F) atmospheric deposition of acidic and other pollutants into Long Island Sound;
 
-&emsp;&emsp;(G) water quality requirements to sustain fish, shellfish, and wildlife populations, and the use of indicator species to assess environmental quality,
+&emsp;&emsp;(G) water quality requirements to sustain fish, shellfish, and wildlife populations, and the use of indicator species to assess environmental quality;
 
-&emsp;&emsp;(H) State water quality programs, for their adequacy pursuant to implementation of the Comprehensive Conservation and Management Plan, and
+&emsp;&emsp;(H) State water quality programs, for their adequacy pursuant to implementation of the Comprehensive Conservation and Management Plan;
 
-&emsp;&emsp;(I) options for long-term financing of wastewater treatment projects and water pollution control programs.
+&emsp;&emsp;(I) options for long-term financing of wastewater treatment projects and water pollution control programs;
+
+&emsp;&emsp;(J) environmental vulnerabilities of the Long Island Sound watershed, including—
+
+&emsp;&emsp;&emsp;(i) the identification and assessment of such vulnerabilities in the watershed;
+
+&emsp;&emsp;&emsp;(ii) the development and implementation of adaptation strategies to reduce such vulnerabilities; and
+
+&emsp;&emsp;&emsp;(iii) the identification and assessment of the effects of sea level rise on water quality, habitat, and infrastructure; and <sup>1</sup>
 
 &emsp;(3) coordinate the grant, research and planning programs authorized under this section;
 
-&emsp;(4) coordinate activities and implementation responsibilities with other Federal agencies which have jurisdiction over Long Island Sound and with national and regional marine monitoring and research programs established pursuant to the Marine Protection, Research, and Sanctuaries Act \[16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\];
+&emsp;(4) develop and implement strategies to increase public education and awareness with respect to the ecological health and water quality conditions of Long Island Sound;
 
-&emsp;(5) provide administrative and technical support to the conference;
+&emsp;(5) provide administrative and technical support to the conference study;
 
-&emsp;(6) collect and make available to the public publications, and other forms of information the conference determines to be appropriate, relating to the environmental quality of Long Island Sound;
+&emsp;(6) collect and make available to the public (including on a publicly accessible website) publications, and other forms of information the conference study determines to be appropriate, relating to the environmental quality of Long Island Sound;
 
-&emsp;(7) not more than two years after the date of the issuance of the final Comprehensive Conservation and Management Plan for Long Island Sound under section 1330 of this title, and biennially thereafter, issue a report to the Congress which—
-
-&emsp;&emsp;(A) summarizes the progress made by the States in implementing the Comprehensive Conservation and Management Plan;
-
-&emsp;&emsp;(B) summarizes any modifications to the Comprehensive Conservation and Management Plan in the twelve-month period immediately preceding such report; and
-
-&emsp;&emsp;(C) incorporates specific recommendations concerning the implementation of the Comprehensive Conservation and Management Plan; and
+&emsp;(7) monitor the progress made toward meeting the identified goals, actions, and schedules of the Comprehensive Conservation and Management Plan, including through the implementation and support of a monitoring system for the ecological health and water quality conditions of Long Island Sound; and
 
 &emsp;(8) convene conferences and meetings for legislators from State governments and political subdivisions thereof for the purpose of making recommendations for coordinating legislative efforts to facilitate the environmental restoration of Long Island Sound and the implementation of the Comprehensive Conservation and Management Plan.
 
@@ -58,7 +60,7 @@ The Office shall assist the Management Conference of the Long Island Sound Study
 
 (2) State, interstate, and regional water pollution control agencies, and other public or nonprofit private agencies, institutions, and organizations held to be eligible for grants pursuant to this subsection.
 
-(3) Citizen involvement and citizen education grants under this subsection shall not exceed 95 per centum of the costs of such work. All other grants under this subsection shall not exceed 50 per centum of the research, studies, or work. All grants shall be made on the condition that the non-Federal share of such costs are provided from non-Federal sources.
+(3) Citizen involvement and citizen education grants under this subsection shall not exceed 95 per centum of the costs of such work. All other grants under this subsection shall not exceed 60 percent of the research, studies, or work. All grants shall be made on the condition that the non-Federal share of such costs are provided from non-Federal sources.
 
 #### (e) Assistance to distressed communities
 
@@ -70,19 +72,77 @@ The Office shall assist the Management Conference of the Long Island Sound Study
 
 &emsp;In making assistance available under this section for the upgrading of wastewater treatment facilities, the Administrator may give priority to a distressed community.
 
-#### (f) Authorizations
+#### (f) Report
 
-(1) There is authorized to be appropriated to the Administrator for the implementation of this section, other than subsection (d), such sums as may be necessary for each of the fiscal years 2001 through 2010.
+#### (1) In general
 
-(2) There is authorized to be appropriated to the Administrator for the implementation of subsection (d) not to exceed $40,000,000 for each of fiscal years 2001 through 2010.
+&emsp;Not later than 2 years after the date of enactment of this Act, and biennially thereafter, the Director of the Office, in consultation with the Governor of each Long Island Sound State, shall submit to Congress a report that—
 
-(June 30, 1948, ch. 758, title I, §119, as added Pub. L. 101–596, title II, §202, Nov. 16, 1990, 104 Stat. 3004; amended Pub. L. 104–303, title V, §583, Oct. 12, 1996, 110 Stat. 3791; Pub. L. 106–457, title IV, §§402—404, Nov. 7, 2000, 114 Stat. 1973; Pub. L. 109–137, §1, Dec. 22, 2005, 119 Stat. 2646.)
+&emsp;&emsp;(A) summarizes and assesses the progress made by the Office and the Long Island Sound States in implementing the Long Island Sound Comprehensive Conservation and Management Plan, including an assessment of the progress made toward meeting the performance goals and milestones contained in the Plan;
+
+&emsp;&emsp;(B) assesses the key ecological attributes that reflect the health of the ecosystem of the Long Island Sound watershed;
+
+&emsp;&emsp;(C) describes any substantive modifications to the Long Island Sound Comprehensive Conservation and Management Plan made during the 2-year period preceding the date of submission of the report;
+
+&emsp;&emsp;(D) provides specific recommendations to improve progress in restoring and protecting the Long Island Sound watershed, including, as appropriate, proposed modifications to the Long Island Sound Comprehensive Conservation and Management Plan;
+
+&emsp;&emsp;(E) identifies priority actions for implementation of the Long Island Sound Comprehensive Conservation and Management Plan for the 2-year period following the date of submission of the report; and
+
+&emsp;&emsp;(F) describes the means by which Federal funding and actions will be coordinated with the actions of the Long Island Sound States and other entities.
+
+#### (2) Public availability
+
+&emsp;The Administrator shall make the report described in paragraph (1) available to the public, including on a publicly accessible website.
+
+#### (g) Federal entities
+
+#### (1) Coordination
+
+&emsp;The Administrator shall coordinate the actions of all Federal departments and agencies that affect water quality in the Long Island Sound watershed in order to improve the water quality and living resources of the watershed.
+
+#### (2) Methods
+
+&emsp;In carrying out this section, the Administrator, acting through the Director of the Office, may—
+
+&emsp;&emsp;(A) enter into interagency agreements; and
+
+&emsp;&emsp;(B) make intergovernmental personnel appointments.
+
+#### (4) Consistency with comprehensive conservation and management plan
+
+&emsp;To the maximum extent practicable, the head of each Federal department or agency that owns or occupies real property, or carries out activities, within the Long Island Sound watershed shall ensure that the property and all activities carried out by the department or agency are consistent with the Long Island Sound Comprehensive Conservation and Management Plan (including any related subsequent agreements and plans).
+
+#### (h) Authorization of appropriations
+
+There is authorized to be appropriated to the Administrator to carry out this section $40,000,000 for each of fiscal years 2019 through 2023.
+
+(June 30, 1948, ch. 758, title I, §119, as added Pub. L. 101–596, title II, §202, Nov. 16, 1990, 104 Stat. 3004; amended Pub. L. 104–303, title V, §583, Oct. 12, 1996, 110 Stat. 3791; Pub. L. 106–457, title IV, §§402—404, Nov. 7, 2000, 114 Stat. 1973; Pub. L. 109–137, §1, Dec. 22, 2005, 119 Stat. 2646; Pub. L. 115–270, title IV, §4104(a), (c)(1), Oct. 23, 2018, 132 Stat. 3873, 3875.)
 
 #### References in Text
 
-The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (c)(4), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which is classified generally to chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
+The date of enactment of this Act, referred to in subsec. (f)(1), probably means the date of enactment of Pub. L. 115–270, which was approved Oct. 23, 2018.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–270, §4104(a)(1)(A), substituted "conference study" for "Management Conference of the Long Island Sound Study" in introductory provisions.
+
+Subsec. (c)(2). Pub. L. 115–270, §4104(a)(1)(B), substituted semicolons for commas at end of subpars. (A) to (G) and added subpar. (J).
+
+Subsec. (c)(4). Pub. L. 115–270, §4104(a)(1)(C), added par. (4) and struck out former par. (4) which read as follows: "coordinate activities and implementation responsibilities with other Federal agencies which have jurisdiction over Long Island Sound and with national and regional marine monitoring and research programs established pursuant to the Marine Protection, Research, and Sanctuaries Act;".
+
+Subsec. (c)(5). Pub. L. 115–270, §4104(a)(1)(D), inserted "study" after "conference".
+
+Subsec. (c)(6). Pub. L. 115–270, §4104(a)(1)(E), inserted "(including on a publicly accessible website)" after "the public" and "study" after "conference".
+
+Subsec. (c)(7). Pub. L. 115–270, §4104(a)(1)(F), added par. (7) and struck out former par. (7) which related to a report to Congress on the Comprehensive Conservation and Management Plan.
+
+Subsec. (d)(3). Pub. L. 115–270, §4104(a)(2), substituted "60 percent" for "50 per centum".
+
+Subsecs. (f), (g). Pub. L. 115–270, §4104(a)(4), added subsecs. (f) and (g). Former subsec. (f) redesignated (h).
+
+Subsec. (h). Pub. L. 115–270, §4104(c)(1), amended subsec. (h) generally. Prior to amendment text related to authorizations.
+
+Pub. L. 115–270, §4104(a)(3), redesignated subsec. (f) as (h).
 
 <b>2005</b>—Subsec. (f). Pub. L. 109–137 substituted "2010" for "2005" in pars. (1) and (2).
 
@@ -96,7 +156,7 @@ Subsec. (f). Pub. L. 106–457, §§403(1), 404, redesignated subsec. (e) as (f)
 
 #### Long Island Sound Stewardship
 
-Pub. L. 109–359, Oct. 16, 2006, 120 Stat. 2049, provided that:
+Pub. L. 109–359, Oct. 16, 2006, 120 Stat. 2049, as amended by Pub. L. 115–270, title IV, §4104(b), (c)(2), Oct. 23, 2018, 132 Stat. 3875, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -354,7 +414,7 @@ Membership.—
 
 &emsp;"(1)
 
-In general.—The Administrator may appoint the members of the Advisory Committee in accordance with this subsection and the guidance in section 320(c) of the Federal Water Pollution Control Act (33U.S.C. 1330(c)), except that the Governor of each State may appoint 2 members of the Advisory Committee.
+In general.—The Administrator may appoint the members of the Advisory Committee in accordance with this subsection and the guidance in section 320(c) of the Federal Water Pollution Control Act (33 U.S.C. 1330(c)), except that the Governor of each State may appoint 2 members of the Advisory Committee.
 
 &emsp;"(2)
 
@@ -476,7 +536,7 @@ Adaptive management.—The adaptive management framework required by this subsec
 
 "(g)
 
-Termination of Advisory Committee.—The Advisory Committee shall terminate on December 31, 2011.
+Termination of Advisory Committee.—The Advisory Committee shall terminate on December 31, 2021.
 
 #### "SEC. 9. REPORTS.
 
@@ -578,7 +638,7 @@ Regulatory authority.—The establishment of the Region and the boundaries of th
 
 "(a)
 
-In General.—There is authorized to be appropriated to the Administrator $25,000,000 for each of fiscal years 2007 through 2011 to carry out this Act, including for—
+In General.—There is authorized to be appropriated to the Administrator $25,000,000 for each of fiscal years 2019 through 2023 to carry out this Act, including for—
 
 &emsp;"(1) acquisition of land and interests in land;
 
@@ -599,4 +659,6 @@ Authorization of Gifts, Devises, and Bequests for System.—In furtherance of th
 "(d)
 
 Limitation on Administrative Costs.—Of the amount available each fiscal year to carry out this Act, not more than 8 percent may be used for administrative costs."
+
+<i><sup>1</sup></i><i> So in original.</i>
 

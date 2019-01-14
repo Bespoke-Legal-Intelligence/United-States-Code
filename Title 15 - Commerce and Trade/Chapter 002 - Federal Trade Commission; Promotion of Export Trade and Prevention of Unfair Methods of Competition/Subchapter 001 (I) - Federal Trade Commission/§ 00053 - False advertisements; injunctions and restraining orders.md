@@ -24,7 +24,7 @@ Whenever the Commission has reason to believe—
 
 Any process of the Commission under this section may be served by any person duly authorized by the Commission—
 
-&emsp;(1) by delivering a copy of such process to the person to be served, to a member of the partnership to be served, or to the president, secretary, or other executive officer or a director of the corporation to be served;
+&emsp;(1) by delivering a copy of such process to the person to be served, to a member of thepartnership to be served, or to the president, secretary, or other executive officer or a director of the corporation to be served;
 
 &emsp;(2) by leaving a copy of such process at the residence or the principal office or place of business of such person, partnership, or corporation; or
 

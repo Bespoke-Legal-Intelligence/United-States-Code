@@ -22,5 +22,5 @@ Section effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in this section relating to the requirement that the Archivist submit a report to Congress in January of each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money andFinance, and the last item on page 179 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in this section relating to the requirement that the Archivist submit a report to Congress in January of each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the last item on page 179 of House Document No. 103–7.
 

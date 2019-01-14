@@ -5,8 +5,7 @@
 | [211\.](%C2%A7%2000211%20-%20Allowance%20of%20deductions.md) | Allowance of deductions. |
 | [212\.](%C2%A7%2000212%20-%20Expenses%20for%20production%20of%20income.md) | Expenses for production of income. |
 | [213\.](%C2%A7%2000213%20-%20Medical%2C%20dental%2C%20etc.%2C%20expenses.md) | Medical, dental, etc., expenses. |
-| \[214. | Repealed.\] |
-| [215\.](%C2%A7%2000215%20-%20Alimony%2C%20etc.%2C%20payments.md) | Alimony, etc., payments. |
+| \[214, 215. | Repealed.\] |
 | [216\.](%C2%A7%2000216%20-%20Deduction%20of%20taxes%2C%20interest%2C%20and%20business%20depreciation%20by%20cooperative%20housing%20corporation%20tenant-stockholder.md) | Deduction of taxes, interest, and business depreciation by cooperative housing corporation tenant-stockholder. |
 | [217\.](%C2%A7%2000217%20-%20Moving%20expenses.md) | Moving expenses. |
 | \[218. | Repealed.\] |
@@ -18,10 +17,6 @@
 | [224\.](%C2%A7%2000224%20-%20Cross%20reference.md) | Cross reference. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 115–97, title I, §11051(a), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, provided that, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, this analysis is amended as probable intent by striking item 215. See 2017 Amendment note below.</i>
 
 #### Amendments
 
@@ -68,7 +63,7 @@ Pub. L. 94–455, title XV, §1501(c), Oct. 4, 1976, 90 Stat. 1737, added item 2
 - [&sect; 00212 - Expenses for production of income](%C2%A7%2000212%20-%20Expenses%20for%20production%20of%20income.md)
 - [&sect; 00213 - Medical, dental, etc., expenses](%C2%A7%2000213%20-%20Medical%2C%20dental%2C%20etc.%2C%20expenses.md)
 - [&sect; 00214 - Repealed. Pub. L. 94&#8211;455, title V, &sect;504(b)(1), Oct. 4, 1976, 90 Stat. 1565](%C2%A7%2000214%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20V%2C%20%C2%A7504%28b%29%281%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201565.md)
-- [&sect; 00215 - Alimony, etc., payments](%C2%A7%2000215%20-%20Alimony%2C%20etc.%2C%20payments.md)
+- [&sect; 00215 - Repealed. Pub. L. 115&#8211;97, title I, &sect;11051(a), Dec. 22, 2017, 131 Stat. 2089](%C2%A7%2000215%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9397%2C%20title%20I%2C%20%C2%A711051%28a%29%2C%20Dec.%2022%2C%202017%2C%20131%20Stat.%202089.md)
 - [&sect; 00216 - Deduction of taxes, interest, and business depreciation by cooperative housing corporation tenant-stockholder](%C2%A7%2000216%20-%20Deduction%20of%20taxes%2C%20interest%2C%20and%20business%20depreciation%20by%20cooperative%20housing%20corporation%20tenant-stockholder.md)
 - [&sect; 00217 - Moving expenses](%C2%A7%2000217%20-%20Moving%20expenses.md)
 - [&sect; 00218 - Repealed. Pub. L. 95&#8211;600, title I, &sect;113(a)(1), Nov. 6, 1978, 92 Stat. 2778](%C2%A7%2000218%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93600%2C%20title%20I%2C%20%C2%A7113%28a%29%281%29%2C%20Nov.%206%2C%201978%2C%2092%20Stat.%202778.md)

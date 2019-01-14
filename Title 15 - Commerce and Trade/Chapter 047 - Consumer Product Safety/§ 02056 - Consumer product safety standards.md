@@ -2,7 +2,7 @@
 
 #### (a) Types of requirements
 
-The Commission may promulgate consumer product safety standards in accordance with the provisions of section 2058 of this title. A consumer product safety standard shall consist of one or more of any of the following types of requirements:
+The Commission may promulgate consumer product safety standards in accordance with theprovisions of section 2058 of this title. A consumer product safety standard shall consist of one or more of any of the following types of requirements:
 
 &emsp;(1) Requirements expressed in terms of performance requirements.
 
@@ -60,7 +60,7 @@ Subsec. (d)(4). Pub. L. 95–631, §4(a)(3), added par. (4).
 
 Subsec. (e). Pub. L. 95–631, §(4)(b), amended provisions generally, and among other changes, substituted references to subsec. (b)(1)(D)(ii)(I) of this section for prior references to subsec. (b) of this section, and struck out par. (3) defining the development period, now covered in subsec. (b)(1)(E) of this section.
 
-Subsec. (f). Pub. L. 95–631, §4(c), amended provisions generally, and among other changes, reduced the period within which to publish a proposed consumer product safety standard to forty-five days from 150 days and required the publication in the Federal Register of the reasons for not publishing the proposed standard, including a statement indicative of the taking of other approaches such as a voluntary consumer safety standard adopted by persons to be subject to the proposed standard.
+Subsec. (f). Pub. L. 95–631, §4(c), amended provisions generally, and among other changes, reduced the period within which to publish a proposed consumer product safety standard to forty-five days from 150 days and required the publication in the Federal Register of thereasons for not publishing the proposed standard, including a statement indicative of the taking of other approaches such as a voluntary consumer safety standard adopted by persons to be subject to the proposed standard.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–284, §6, designated existing provision as par. (1), redesignated as subpars. (A) and (B) existing pars. (1) and (2), and added par. (2).
 

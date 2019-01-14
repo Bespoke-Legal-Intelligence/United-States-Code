@@ -30,13 +30,31 @@ In this subchapter and subchapter II:
 
 #### (6) Covered commodity
 
-&emsp;The term "covered commodity" means wheat, oats, and barley (including wheat, oats, and barley used for haying and grazing), corn, grain sorghum, long grain rice, medium grain rice, pulse crops, soybeans, other oilseeds, and peanuts.
+#### (A) In general
+
+&emsp;&emsp;The term "covered commodity" means wheat, oats, and barley (including wheat, oats, and barley used for haying and grazing), corn, grain sorghum, long grain rice, medium grain rice, pulse crops, soybeans, other oilseeds, and peanuts.
+
+#### (B) Inclusion
+
+&emsp;&emsp;Effective beginning with the 2018 crop year, the term "covered commodity" includes seed cotton.
 
 #### (7) Effective price
 
 &emsp;The term "effective price", with respect to a covered commodity for a crop year, means the price calculated by the Secretary under section 9016(b) of this title to determine whether price loss coverage payments are required to be provided for that crop year.
 
-#### (8) Extra long staple cotton
+#### (8) Effective reference price
+
+&emsp;The term "effective reference price", with respect to a covered commodity for a crop year, means the lesser of the following:
+
+&emsp;&emsp;(A) An amount equal to 115 percent of the reference price for such covered commodity.
+
+&emsp;&emsp;(B) An amount equal to the greater of—
+
+&emsp;&emsp;&emsp;(i) the reference price for such covered commodity; or
+
+&emsp;&emsp;&emsp;(ii) 85 percent of the average of the marketing year average price of the covered commodity for the most recent 5 crop years, excluding each of the crop years with the highest and lowest marketing year average price.
+
+#### (9) Extra long staple cotton
 
 &emsp;The term "extra long staple cotton" means cotton that—
 
@@ -44,27 +62,27 @@ In this subchapter and subchapter II:
 
 &emsp;&emsp;(B) is ginned on a roller-type gin or, if authorized by the Secretary, ginned on another type gin for experimental purposes.
 
-#### (9) Generic base acres
+#### (10) Generic base acres
 
 &emsp;The term "generic base acres" means the number of base acres for cotton in effect under section 8702 of this title, as adjusted pursuant to section 8711 of this title, as in effect on September 30, 2013, subject to any adjustment or reduction under section 9012 of this title.
 
-#### (10) Individual coverage
+#### (11) Individual coverage
 
 &emsp;The term "individual coverage" means agriculture risk coverage selected under section 9015(b)(2) of this title to be obtained at the farm level.
 
-#### (11) Medium grain rice
+#### (12) Medium grain rice
 
 &emsp;The term "medium grain rice" includes short grain rice and temperate japonica rice.
 
-#### (12) Other oilseed
+#### (13) Other oilseed
 
 &emsp;The term "other oilseed" means a crop of sunflower seed, rapeseed, canola, safflower, flaxseed, mustard seed, crambe, sesame seed, or any oilseed designated by the Secretary.
 
-#### (13) Payment acres
+#### (14) Payment acres
 
-&emsp;The term "payment acres", with respect to the provision of price loss coverage payments and agriculture risk coverage payments, means the number of acres determined for a farm under section 9014 of this title.
+&emsp;The term "payment acres", with respect to the provision of price loss coverage paymentsand agriculture risk coverage payments, means the number of acres determined for a farm under section 9014 of this title.
 
-#### (14) Payment yield
+#### (15) Payment yield
 
 &emsp;The term "payment yield", for a farm for a covered commodity—
 
@@ -72,11 +90,11 @@ In this subchapter and subchapter II:
 
 &emsp;&emsp;(B) means the yield established under section 9013 of this title.
 
-#### (15) Price loss coverage
+#### (16) Price loss coverage
 
 &emsp;The term "price loss coverage" means coverage provided under section 9016 of this title.
 
-#### (16) Producer
+#### (17) Producer
 
 #### (A) In general
 
@@ -90,11 +108,11 @@ In this subchapter and subchapter II:
 
 &emsp;&emsp;&emsp;(ii) ensure that program requirements do not adversely affect the ability of the grower to receive a payment under this chapter.
 
-#### (17) Pulse crop
+#### (18) Pulse crop
 
 &emsp;The term "pulse crop" means dry peas, lentils, small chickpeas, and large chickpeas.
 
-#### (18) Reference price
+#### (19) Reference price
 
 &emsp;The term "reference price", with respect to a covered commodity for a crop year, means the following:
 
@@ -126,11 +144,17 @@ In this subchapter and subchapter II:
 
 &emsp;&emsp;(N) For large chickpeas, $21.54 per hundredweight.
 
-#### (19) Secretary
+&emsp;&emsp;(O) For seed cotton, $0.367 per pound.
+
+#### (20) Secretary
 
 &emsp;The term "Secretary" means the Secretary of Agriculture.
 
-#### (20) State
+#### (21) Seed cotton
+
+&emsp;The term "seed cotton" means unginned upland cotton that includes both lint and seed.
+
+#### (22) State
 
 &emsp;The term "State" means—
 
@@ -142,7 +166,7 @@ In this subchapter and subchapter II:
 
 &emsp;&emsp;(D) any other territory or possession of the United States.
 
-#### (21) Temperate japonica rice
+#### (23) Temperate japonica rice
 
 &emsp;The term "temperate japonica rice" means rice that is grown in high altitudes or temperate regions of high latitudes with cooler climate conditions, in the Western United States, as determined by the Secretary, for the purpose of—
 
@@ -152,25 +176,49 @@ In this subchapter and subchapter II:
 
 &emsp;&emsp;(C) the determination of the actual crop revenue and agriculture risk coverage guarantee pursuant to section 9017 of this title.
 
-#### (22) Transitional yield
+#### (24) Transitional yield
 
 &emsp;The term "transitional yield" has the meaning given the term in section 1502(b) of this title.
 
-#### (23) United States
+#### (25) United States
 
 &emsp;The term "United States", when used in a geographical sense, means all of the States.
 
-#### (24) United States Premium Factor
+#### (26) United States Premium Factor
 
 &emsp;The term "United States Premium Factor" means the percentage by which the difference in the United States loan schedule premiums for Strict Middling (SM) 11/8-inch upland cotton and for Middling (M) 13/32-inch upland cotton exceeds the difference in the applicable premiums for comparable international qualities.
 
-(Pub. L. 113–79, title I, §1111, Feb. 7, 2014, 128 Stat. 659.)
+(Pub. L. 113–79, title I, §1111, Feb. 7, 2014, 128 Stat. 659; Pub. L. 115–123, div. F, §60101(a)(1)–(3), Feb. 9, 2018, 132 Stat. 308; Pub. L. 115–334, title I, §1101, Dec. 20, 2018, 132 Stat. 4500.)
 
 #### References in Text
 
 This subchapter, referred to in text, was in the original "this subtitle", meaning subtitle A (§§1101–1109) of title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 658, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
-This chapter, referred to in par. (16)(B)(ii), was in the original "this title", meaning title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 658, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in par. (17)(B)(ii), was in the original "this title", meaning title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 658, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+
+#### Amendments
+
+<b>2018</b>—Par. (6). Pub. L. 115–123, §60101(a)(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Pars. (8) to (18). Pub. L. 115–334, §1101, added par. (8) and redesignated former pars. (8) to (17) as (9) to (18), respectively. Former par. (18) redesignated (19).
+
+Par. (18)(O). Pub. L. 115–123, §60101(a)(2), added subpar. (O).
+
+Par. (19). Pub. L. 115–334, §1101(1), redesignated par. (18) as (19). Former par. (19) redesignated (20).
+
+Pars. (20) to (25). Pub. L. 115–334, §1101(1), redesignated pars. (19) to (24) as (20) to (25), respectively. Former par. (25) redesignated (26).
+
+Pub. L. 115–123, §60101(a)(3), added par. (20) and redesignated former pars. (20) to (24) as (21) to (25), respectively.
+
+Par. (26). Pub. L. 115–334, §1101(1), redesignated par. (25) as (26).
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–123, div. F, §60101(a)(13), Feb. 9, 2018, 132 Stat. 311, provided that: "Except as provided in paragraph (10) \[amending section 1508b of this title\], the amendments made by this subsection \[amending this section and sections 1508b, 9013 to 9016, and 9032 of this title\] shall apply beginning with the 2018 crop year."
+
+#### Administration
+
+Pub. L. 115–123, div. F, §60101(a)(12), Feb. 9, 2018, 132 Stat. 311, provided that: "The Secretary of Agriculture shall carry out the amendments made by this subsection \[amending this section and sections 1508b, 9013 to 9016, and 9032 of this title\] in accordance with section 1601 of the Agricultural Act of 2014 (7 U.S.C. 9091)."
 
 #### Popcorn Acreage
 

@@ -100,7 +100,7 @@ For purposes of this chapter—
 
 #### (4) Network plan
 
-&emsp;The term "network plan" means health insurance coverage of a health insurance issuerunder which the financing and delivery of medical care are provided, in whole or in part, through a defined set of providers under contract with the issuer.
+&emsp;The term "network plan" means health insurance coverage of a health insurance issuer under which the financing and delivery of medical care are provided, in whole or in part, through a defined set of providers under contract with the issuer.
 
 #### (5) Placed for adoption defined
 

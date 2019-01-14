@@ -17,14 +17,16 @@
 | [1627\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001627%20-%20Appointment%20of%20personnel%3B%20compensation%3B%20employment%20of%20specialists.md) | Appointment of personnel; compensation; employment of specialists. |
 | [1627a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001627a%20-%20Sheep%20production%20and%20marketing%20grant%20program.md) | Sheep production and marketing grant program. |
 | [1627b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001627b%20-%20National%20Sheep%20Industry%20Improvement%20Center.md) | National Sheep Industry Improvement Center. |
+| [1627c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001627c%20-%20Local%20agriculture%20market%20program.md) | Local agriculture market program. |
 | [1628\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001628%20-%20Repealed.%20Pub.%20L.%2093%E2%80%9386%2C%20%C2%A72%2C%20Aug.%2010%2C%201973%2C%2087%20Stat.%20246.md) | Repealed. |
 | [1629\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001629%20-%20Establishment%20of%20committees%20to%20assist%20in%20research%20and%20service%20programs.md) | Establishment of committees to assist in research and service programs. |
 | [1630\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001630%20-%20Omitted.md) | Omitted. |
 | [1631\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001631%20-%20Protection%20for%20purchasers%20of%20farm%20products.md) | Protection for purchasers of farm products. |
 | [1632\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VII%2C%20%C2%A77303%2C%20May%2013%2C%202002%2C%20116%20Stat.%20455.md) | Repealed. |
-| [1632a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632a%20-%20Value-added%20agricultural%20product%20market%20development%20grants.md) | Value-added agricultural product market development grants. |
+| [1632a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632a%20-%20Agricultural%20marketing%20resource%20center%20pilot%20project.md) | Agricultural marketing resource center pilot project. |
 | [1632b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632b%20-%20Agriculture%20Innovation%20Center%20Demonstration%20Program.md) | Agriculture Innovation Center Demonstration Program. |
 | [1632c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632c%20-%20Acer%20access%20and%20development%20program.md) | Acer access and development program. |
+| [1632d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632d%20-%20Dairy%20business%20innovation%20initiatives.md) | Dairy business innovation initiatives. |
 | [1633\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001633%20-%20Cooperation%20with%20State%20agencies%20in%20administration%20and%20enforcement%20of%20laws%20relating%20to%20marketing%20of%20agricultural%20products%20and%20control%20or%E2%80%A6.md) | Cooperation with State agencies in administration and enforcement of laws relating to marketing of agricultural products and control or eradication of plant and animal diseases and pests; coordination of administration of Federal and State laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -126,6 +128,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VII—HEMP PRODUCTION
+
+|  |  |
+| :--- | ---: |
+| 1639<i>o.</i> | Definitions. |
+| [1639p.](Subchapter%20007%20%28VII%29%20-%20Hemp%20Production/%C2%A7%2001639p%20-%20State%20and%20tribal%20plans.md) | State and tribal plans. |
+| [1639q.](Subchapter%20007%20%28VII%29%20-%20Hemp%20Production/%C2%A7%2001639q%20-%20Department%20of%20Agriculture.md) | Department of Agriculture. |
+| [1639r.](Subchapter%20007%20%28VII%29%20-%20Hemp%20Production/%C2%A7%2001639r%20-%20Regulations%20and%20guidelines%3B%20effect%20on%20other%20law.md) | Regulations and guidelines; effect on other law. |
+| [1639s.](Subchapter%20007%20%28VII%29%20-%20Hemp%20Production/%C2%A7%2001639s%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -137,3 +151,4 @@
 - [Subchapter 004 (IV) - Country of Origin Labeling](Subchapter%20004%20%28IV%29%20-%20Country%20of%20Origin%20Labeling/README.md)
 - [Subchapter 005 (V) - National Bioengineered Food Disclosure Standard](Subchapter%20005%20%28V%29%20-%20National%20Bioengineered%20Food%20Disclosure%20Standard/README.md)
 - [Subchapter 006 (VI) - Labeling of Certain Food](Subchapter%20006%20%28VI%29%20-%20Labeling%20of%20Certain%20Food/README.md)
+- [Subchapter 007 (VII) - Hemp Production](Subchapter%20007%20%28VII%29%20-%20Hemp%20Production/README.md)

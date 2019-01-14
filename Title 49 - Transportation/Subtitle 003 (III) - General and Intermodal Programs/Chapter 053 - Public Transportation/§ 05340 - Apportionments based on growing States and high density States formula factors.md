@@ -30,7 +30,7 @@ Remaining amounts.—Amounts remaining for each State after apportionment under 
 
 &emsp;(3)
 
-Apportionments among urbanized areas in each state.—The Secretary shall apportionamounts made available to urbanized areas in each State under paragraph (2)(A) so that each urbanized area receives an amount equal to the amount apportioned under paragraph (2)(A) multiplied by a ratio equal to the population of each urbanized area divided by the sum of populations of all urbanized areas in the State. Amounts apportioned to each urbanized area shall be added to amounts apportioned to that urbanized area under section 5336, and made available for grants under section 5307.
+Apportionments among urbanized areas in each state.—The Secretary shall apportion amounts made available to urbanized areas in each State under paragraph (2)(A) so that each urbanized area receives an amount equal to the amount apportioned under paragraph (2)(A) multiplied by a ratio equal to the population of each urbanized area divided by the sum of populations of all urbanized areas in the State. Amounts apportioned to each urbanized area shall be added to amounts apportioned to that urbanized area under section 5336, and made available for grants under section 5307.
 
 (d)
 

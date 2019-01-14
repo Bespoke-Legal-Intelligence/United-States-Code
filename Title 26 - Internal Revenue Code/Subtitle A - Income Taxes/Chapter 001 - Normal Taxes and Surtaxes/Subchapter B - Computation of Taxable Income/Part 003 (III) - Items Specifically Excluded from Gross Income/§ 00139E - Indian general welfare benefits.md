@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (1) Indian tribal government
 
-&emsp;For purposes of this section, the term "Indian tribal government" includes any agencies or instrumentalities of an Indian tribal government and any Alaska Native regional or village corporation, as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601,<sup>1</sup> et seq.).
+&emsp;For purposes of this section, the term "Indian tribal government" includes any agencies or instrumentalities of an Indian tribal government and any Alaska Native regional or village corporation, as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
 
 #### (2) Dependent
 
@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (3) Lavish or extravagant
 
-&emsp;The Secretary shall, in consultation with the Tribal Advisory Committee (as established under section 3(a) of the Tribal General Welfare Exclusion Act of 2013),<sup>2</sup> establish guidelines for what constitutes lavish or extravagant benefits with respect to Indian tribal government programs.
+&emsp;The Secretary shall, in consultation with the Tribal Advisory Committee (as established under section 3(a) of the Tribal General Welfare Exclusion Act of 2014), establish guidelines for what constitutes lavish or extravagant benefits with respect to Indian tribal government programs.
 
 #### (4) Establishment of tribal government program
 
@@ -44,13 +44,19 @@ For purposes of this section—
 
 &emsp;Any items of cultural significance, reimbursement of costs, or cash honorarium for participation in cultural or ceremonial activities for the transmission of tribal culture shall not be treated as compensation for services.
 
-(Added Pub. L. 113–168, §2(a), Sept. 26, 2014, 128 Stat. 1883.)
+(Added Pub. L. 113–168, §2(a), Sept. 26, 2014, 128 Stat. 1883; amended Pub. L. 115–141, div. U, title IV, §401(a)(42), (43), Mar. 23, 2018, 132 Stat. 1186.)
 
 #### References in Text
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (c)(1), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-Section 3(a) of the Tribal General Welfare Exclusion Act of 2013, referred to in subsec. (c)(3), probably should be a reference to section 3(a) of the Tribal General Welfare Exclusion Act of 2014, Pub. L. 113–168, §3(a), Sept. 26, 2014, 128 Stat. 1884, which is set out as a note under this section. There is no Tribal General Welfare Exclusion Act of 2013.
+Section 3(a) of the Tribal General Welfare Exclusion Act of 2014, referred to in subsec. (c)(3), is section 3(a) of Pub. L. 113–168, which is set out as a note under this section.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–141, §401(a)(42), substituted "(43 U.S.C. 1601 et seq.)" for "(43 U.S.C. 1601, et seq.)".
+
+Subsec. (c)(3). Pub. L. 115–141, §401(a)(43), substituted "Act of 2014" for "Act of 2013".
 
 #### Effective Date
 
@@ -70,11 +76,11 @@ Pub. L. 113–168, §2(c), Sept. 26, 2014, 128 Stat. 1884, provided that: "Ambig
 
 #### Tribal Advisory Committee
 
-Pub. L. 113–168, §3, Sept. 26, 2014, 128 Stat. 1884, provided that:
+Pub. L. 113–168, §3, Sept. 26, 2014, 128 Stat. 1884, as amended by Pub. L. 115–141, div. U, title IV, §401(a)(44), Mar. 23, 2018, 132 Stat. 1186, provided that:
 
 "(a)
 
-Establishment.—The Secretary of the Treasury shall establish a Tribal Advisory Committee (hereinafter in this subsection \[probably should be "section"\] referred to as the 'Committee').
+Establishment.—The Secretary of the Treasury shall establish a Tribal Advisory Committee (hereinafter in this section referred to as the 'Committee').
 
 "(b)
 
@@ -120,7 +126,7 @@ Initial staggering.—The first appointments made by the Secretary under paragra
 
 #### Other Relief for Indian Tribes
 
-Pub. L. 113–168, §4, Sept. 26, 2014, 128 Stat. 1885, provided that:
+Pub. L. 113–168, §4, Sept. 26, 2014, 128 Stat. 1885, as amended by Pub. L. 115–141, div. U, title IV, §401(a)(45), Mar. 23, 2018, 132 Stat. 1186, provided that:
 
 "(a)
 
@@ -132,7 +138,7 @@ Waiver of Penalties and Interest.—The Secretary of the Treasury may waive any 
 
 "(c)
 
-Definitions.—For purposes of this subsection \[probably should be "section"\]—
+Definitions.—For purposes of this section—
 
 &emsp;"(1)
 
@@ -141,8 +147,4 @@ Indian tribal government.—The term 'Indian tribal government' shall have the m
 &emsp;"(2)
 
 Indian tribe.—The term 'Indian tribe' shall have the meaning given such term by section 45A(c)(6) of such Code."
-
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

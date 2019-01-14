@@ -28,9 +28,9 @@ To issue to eligible investors guaranties of loans and other investments made by
 
 To make loans in United States dollars repayable in dollars or loans in foreign currencies (including, without regard to section 1306 of title 31, such foreign currencies which the Secretary of the Treasury may determine to be excess to the normal requirements of the United States and the Director of the Office of Management and Budget may allocate) to firms privately owned or of mixed private and public ownership upon such terms and conditions as the Corporation may determine. Loans may be made under this subsection only for projects that are sponsored by or significantly involve United States small business or cooperatives.
 
-The Corporation may designate up to 25 percent of any loan under this subsection for use in the development or adaptation in the United States of new technologies or new products orservices that are to be used in the project for which the loan is made and are likely to contribute to the economic or social development of less developed countries.
+The Corporation may designate up to 25 percent of any loan under this subsection for use in the development or adaptation in the United States of new technologies or new products or services that are to be used in the project for which the loan is made and are likely to contribute to the economic or social development of less developed countries.
 
-No loan may be made under this subsection to finance any operation for the extraction of oil or gas. The aggregate amount of loans under this subsection to finance operations for the mining or other extraction of any deposit of ore or other nonfuel minerals may not in any fiscal year exceed $4,000,000.
+No loan may be made under this subsection to finance any operation for the extraction of oil orgas. The aggregate amount of loans under this subsection to finance operations for the mining or other extraction of any deposit of ore or other nonfuel minerals may not in any fiscal year exceed $4,000,000.
 
 #### (d) Investment encouragement
 
@@ -99,6 +99,10 @@ To issue to—
 > denominated in currencies other than United States dollars, of loans and other investments made to projects sponsored by or significantly involving eligible investors, assuring against loss due to such risks and upon such terms and conditions as the Corporation may determine, for projects that the Corporation determines to have significant developmental effects or as the Corporation determines to be necessary or appropriate to carry out the purposes of this subpart.
 
 (Pub. L. 87–195, pt. I, §234, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 811; amended 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–390, §2(2), Aug. 27, 1974, 88 Stat. 764; Pub. L. 95–268, §3, Apr. 24, 1978, 92 Stat. 214; Pub. L. 97–65, §4, Oct. 16, 1981, 95 Stat. 1022; Pub. L. 99–204, §§6(a), 7, 8, Dec. 23, 1985, 99 Stat. 1671, 1672; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–218, §8(c), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 102–549, title I, §103, Oct. 28, 1992, 106 Stat. 3651; Pub. L. 106–31, title VI, §6001, May 21, 1999, 113 Stat. 112; Pub. L. 108–158, §§4(a), 5(a), Dec. 3, 2003, 117 Stat. 1950.)
+
+#### Repeal of Section
+
+<i>Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in section 9681 of this title, this section is repealed.</i>
 
 #### References in Text
 
@@ -178,6 +182,10 @@ Subsec. (a)(4) to (7). Pub. L. 93–390, §2(2)(C), added pars. (4) to (7).
 
 Subsec. (f). Pub. L. 93–390, §2(2)(D), added subsec. (f).
 
+#### Effective Date of Repeal
+
+Repeal effective at the end of the transition period, as defined in section 9681 of this title, see section 9684 of this title.
+
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–31, title VI, §6001, May 21, 1999, 113 Stat. 112, provided that the amendment made by section 6001 is effective Oct. 1, 1999.
@@ -188,9 +196,11 @@ Functions vested by law (including reorganization plan) in Bureau of the Budget 
 
 #### Extension of OPIC Authority
 
-Pub. L. 115–31, div. J, title VII, §7061(b), May 5, 2017, 131 Stat. 702, provided that: "Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2195(a)(2)\], the authority of subsections (a) through (c) of section 234 of such Act \[22 U.S.C. 2194(a)–(c)\] shall remain in effect until September 30, 2017."
+Pub. L. 115–141, div. K, title VII, §7061(b), Mar. 23, 2018, 132 Stat. 949, provided that: "Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2195(a)(2)\], the authority of subsections (a) through (c) of section 234 of such Act \[22 U.S.C. 2194(a)–(c)\] shall remain in effect until September 30, 2018."
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 115–31, div. J, title VII, §7061(b), May 5, 2017, 131 Stat. 702.
 
 Pub. L. 114–113, div. K, title VII, §7061(b), Dec. 18, 2015, 129 Stat. 2810.
 

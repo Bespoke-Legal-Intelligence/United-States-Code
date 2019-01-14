@@ -18,7 +18,7 @@ For purposes of this subchapter—
 
 #### Codification
 
-Par. (6) of this section, which defined the term "Director" as meaning the Director of the National Science Foundation, was omitted because of the transfer of functions from the National Science Foundation to the Secretary of Energy and the substitution of"Secretary of Energy" for "Director" wherever appearing in this subchapter. See Transfer of Functions note set out below.
+Par. (6) of this section, which defined the term "Director" as meaning the Director of the National Science Foundation, was omitted because of the transfer of functions from the National Science Foundation to the Secretary of Energy and the substitution of "Secretary of Energy" for "Director" wherever appearing in this subchapter. See Transfer of Functions note set out below.
 
 #### Amendments
 
@@ -26,5 +26,5 @@ Par. (6) of this section, which defined the term "Director" as meaning the Direc
 
 #### Transfer of Functions
 
-"Secretary of Energy" substituted for "Director of the National Science Foundation" in pars. (1) and (2) pursuant to sections 104(f) and 301(h) of Pub. L. 93–438, which are classified to sections 5814(f) and 5871(h) of this title and which transferred functions of National Science Foundation relating to or utilized in connection with solar heating and cooling development to Administrator of Energy Research and Development Administration, and pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+"Secretary of Energy" substituted for "Director of the National Science Foundation" in pars. (1) and (2) pursuant to sections 104(f) and 301(h) of Pub. L. 93–438, which are classified to sections 5814(f) and 5871(h) of this title and which transferred functions of National Science Foundation relating to or utilized in connection with solar heating and cooling development to Administrator of Energy Research and Development Administration, and pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminatedEnergy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 

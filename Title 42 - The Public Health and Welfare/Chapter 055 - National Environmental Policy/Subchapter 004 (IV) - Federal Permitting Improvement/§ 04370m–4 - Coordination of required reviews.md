@@ -28,7 +28,7 @@ To integrate environmental reviews and authorizations, each agency shall, to the
 
 #### (C) Supplementation of State documents
 
-&emsp;&emsp;If the lead agency adopts or incorporates analysis and documentation described in subparagraph (A), the lead agency shall prepare and publish a supplemental document if the lead agency determines that during the period after preparation of the analysis and documentation and before the adoption or incorporation—
+&emsp;&emsp;If the lead agency adopts or incorporates analysis and documentation described insubparagraph (A), the lead agency shall prepare and publish a supplemental document if the lead agency determines that during the period after preparation of the analysis and documentation and before the adoption or incorporation—
 
 &emsp;&emsp;&emsp;(i) a significant change has been made to the covered project that is relevant for purposes of environmental review of the project; or
 
@@ -72,7 +72,7 @@ To integrate environmental reviews and authorizations, each agency shall, to the
 
 #### (A) In general
 
-&emsp;&emsp;The lead agency shall determine, in collaboration with each cooperating agency atappropriate times during the environmental review, the methodologies to be used and the level of detail required in the analysis of each alternative for a covered project.
+&emsp;&emsp;The lead agency shall determine, in collaboration with each cooperating agency at appropriate times during the environmental review, the methodologies to be used and the level of detail required in the analysis of each alternative for a covered project.
 
 #### (B) Environmental review
 
@@ -108,7 +108,7 @@ To integrate environmental reviews and authorizations, each agency shall, to the
 
 #### (1) Cooperation
 
-&emsp;The lead agency and each cooperating and participating agency shall work cooperatively in accordance with this section to identify and resolve issues that could delay completion of an environmental review or an authorization required for the project under applicable law or result in the denial of any approval under applicable law.
+&emsp;The lead agency and each cooperating and participating agency shall work cooperatively in accordance with this section to identify and resolve issues that could delay completion of an environmental review or an authorization required for the project under applicable lawor result in the denial of any approval under applicable law.
 
 #### (2) Lead agency responsibilities
 

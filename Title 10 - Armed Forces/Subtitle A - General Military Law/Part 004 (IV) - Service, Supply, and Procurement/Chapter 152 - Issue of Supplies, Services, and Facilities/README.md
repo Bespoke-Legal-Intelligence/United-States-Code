@@ -21,6 +21,7 @@
 | [2566\.](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md) | Space and services: provision to military welfare societies. |
 | [2567\.](%C2%A7%2002567%20-%20Space%20and%20services%20provision%20to%20WIC%20offices.md) | Space and services: provision to WIC offices. |
 | [2568\.](%C2%A7%2002568%20-%20Retention%20of%20combat%20uniforms%20by%20members%20deployed%20in%20support%20of%20contingency%20operations.md) | Retention of combat uniforms by members deployed in support of contingency operations. |
+| [2568a.](%C2%A7%2002568a%20-%20Damaged%20personal%20protective%20equipment%20award%20to%20members%20separating%20from%20the%20Armed%20Forces%20and%20veterans.md) | Damaged personal protective equipment: award to members separating from the armed forces and veterans.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -29,6 +30,8 @@
 Chapter was comprised of subchapter I, former section 2540, and subchapter II, sections 2541 to 2553, prior to amendment by Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512, which struck out headings for subchapters I and II.
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title VI, §623(b), Aug. 13, 2018, 132 Stat. 1801, added item 2568a.
 
 <b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(a)(42), Dec. 12, 2017, 131 Stat. 1596, inserted period at end of item 2567.
 
@@ -58,7 +61,7 @@ Pub. L. 104–201, div. A, title III, §366(b), Sept. 23, 1996, 110 Stat. 2496, 
 
 Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512, struck out subchapter analysis consisting of items for subchapters I "Issue to the Armed Forces" and II "Issue of Serviceable Material Other Than to the Armed Forces" and struck out headings for subchapters I "ISSUE TO THE ARMED FORCES" and II "ISSUE OF SERVICEABLE MATERIAL OTHER THAN TO THE ARMED FORCES".
 
-<b>1994</b>—Pub. L. 103–337, div. A, title III, §339(a)(2), title XVI, §1671(b)(14), Oct. 5, 1994, 108 Stat. 2720, 3014, struck out item 2540 "Reserve components: supplies, services, and facilities" and added item 2553.
+<b>1994</b>—Pub. L. 103–337, div. A, title III, §339(a)(2), title XVI, §1671(b)(14), Oct. 5, 1994, 108 Stat. 2720, 3014, struckout item 2540 "Reserve components: supplies, services, and facilities" and added item 2553.
 
 <b>1992</b>—Pub. L. 102–484, div. A, title III, §304(c)(2), div. D, title XLIII, §4304(b), Oct. 23, 1992, 106 Stat. 2362, 2700, added items 2551 and 2552.
 
@@ -77,6 +80,8 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 <b>1972</b>—Pub. L. 92–249, Mar. 10, 1972, 86 Stat. 62, added item 2544.
 
 <b>1958</b>—Pub. L. 85–861, §1(48)(B), Sept. 2, 1958, 72 Stat. 1459, added item 2543.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -102,3 +107,4 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 - [&sect; 02566 - Space and services provision to military welfare societies](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md)
 - [&sect; 02567 - Space and services provision to WIC offices](%C2%A7%2002567%20-%20Space%20and%20services%20provision%20to%20WIC%20offices.md)
 - [&sect; 02568 - Retention of combat uniforms by members deployed in support of contingency operations](%C2%A7%2002568%20-%20Retention%20of%20combat%20uniforms%20by%20members%20deployed%20in%20support%20of%20contingency%20operations.md)
+- [&sect; 02568a - Damaged personal protective equipment award to members separating from the Armed Forces and veterans](%C2%A7%2002568a%20-%20Damaged%20personal%20protective%20equipment%20award%20to%20members%20separating%20from%20the%20Armed%20Forces%20and%20veterans.md)

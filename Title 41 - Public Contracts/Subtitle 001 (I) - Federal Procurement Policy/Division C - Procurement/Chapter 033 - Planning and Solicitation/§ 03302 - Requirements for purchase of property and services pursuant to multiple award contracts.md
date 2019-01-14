@@ -68,7 +68,7 @@ Limitation on exception.—A purchase may not be made pursuant to a notice that 
 
 &emsp;&emsp;&emsp;(i) offers were received from at least 3 qualified contractors; or
 
-&emsp;&emsp;&emsp;(ii) a contracting officer of the executive agency determines in writing that no additional qualified contractors were able tobe identified despite reasonable efforts to do so.
+&emsp;&emsp;&emsp;(ii) a contracting officer of the executive agency determines in writing that no additional qualified contractors were able to be identified despite reasonable efforts to do so.
 
 (d)
 
@@ -119,4 +119,36 @@ In subsection (c)(2)(A), the words "except as provided in paragraph (3)" are omi
 In subsection (c)(3)(A), "subsection (a)(3)(A)" is substituted for "subsection (d)(2)(A)" for consistency in the revised title and to correct an error in the law.
 
 In subsection (d)(1), the words "Not later than one year after the date of the enactment of this Act" are omitted because of section 6(f) of the bill. The words "shall require" are substituted for "shall be amended to require" to reflect the permanence of the provision.
+
+#### Individual Acquisition for Commercial Leasing Services
+
+Pub. L. 115–232, div. A, title VIII, §877, Aug. 13, 2018, 132 Stat. 1907, provided that:
+
+"(a)
+
+In General.—For the purpose of section 863 of Public Law 110–417 \[41 U.S.C. 3302\], an individual acquisition for commercial leasing services shall not be construed as a purchase of property or services if such individual acquisition is made on a no cost basis and pursuant to a multiple award contract awarded in accordance with requirements for full and open competition.
+
+"(b)
+
+Audit.—The Comptroller General of the United States shall—
+
+&emsp;"(1) conduct biennial audits of the General Services Administration National Broker Contract to determine—
+
+&emsp;&emsp;"(A) whether brokers selected under the program provide lower lease rental rates than rates negotiated by General Services Administration staff; and
+
+&emsp;&emsp;"(B) the impact of the program on the length of time of lease procurements;
+
+&emsp;"(2) conduct a review of whether the application of section 863 of Public Law 110–417 \[41 U.S.C. 3302\] to acquisitions for commercial leasing services resulted in rental cost savings for the Government during the years in which such section was applicable prior to the date of enactment of this section \[Aug. 13, 2018\]; and
+
+&emsp;"(3) not later than September 30, 2019, and September 30, 2021, submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that—
+
+&emsp;&emsp;"(A) summarizes the results of the audit and review required by paragraphs (1) and (2);
+
+&emsp;&emsp;"(B) includes an assessment of whether the National Broker Contract provides greater efficiencies and savings than the use of General Services Administration staff; and
+
+&emsp;&emsp;"(C) includes recommendations for improving General Services Administration lease procurements.
+
+"(c)
+
+Termination.—This section shall terminate on December 31, 2022."
 

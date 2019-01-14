@@ -6,7 +6,7 @@ The Secretary concerned shall specify the boundaries of each right-of-way as pre
 
 #### (b) Terms and conditions of right-of-way or permit
 
-Each right-of-way or permit granted, issued, or renewed pursuant to this section shall be limited to a reasonable term in light of all circumstances concerning the project. In determining the duration of a right-of-way the Secretary concerned shall, among other things, take into consideration the cost of the facility, its useful life, and any public purpose it serves. The right-of-way shall specify whether it is or is not renewable and the terms and conditions applicable to the renewal.
+Each right-of-way or permit granted, issued, or renewed pursuant to this section shall be limited to a reasonable term in light of all circumstances concerning the project. In determining the duration of a right-of-way the Secretary concerned shall, among other things, take into consideration the cost of the facility, its usefullife, and any public purpose it serves. The right-of-way shall specify whether it is or is not renewable and the terms and conditions applicable to the renewal.
 
 #### (c) Applicability of regulations or stipulations
 
@@ -18,7 +18,7 @@ The Secretary concerned prior to granting or issuing a right-of-way pursuant to 
 
 #### (e) Regulatory requirements for terms and conditions; revision and applicability of regulations
 
-The Secretary concerned shall issue regulations with respect to the terms and conditionsthat will be included in rights-of-way pursuant to section 1765 of this title. Such regulations shall be regularly revised as needed. Such regulations shall be applicable to every right-of-way granted or issued pursuant to this subchapter and to any subsequent renewal thereof, and may be applicable to rights-of-way not granted or issued, but renewed pursuant to this subchapter.
+The Secretary concerned shall issue regulations with respect to the terms and conditions that will be included in rights-of-way pursuant to section 1765 of this title. Such regulations shall be regularly revised as needed. Such regulations shall be applicable to every right-of-way granted or issued pursuant to this subchapter and to any subsequent renewal thereof, and may be applicable to rights-of-way not granted or issued, but renewed pursuant to this subchapter.
 
 #### (f) Removal or use of mineral and vegetative materials
 
@@ -50,7 +50,7 @@ The Rural Electrification Act of 1936, referred to in subsec. (g), is act May 20
 
 #### Amendments
 
-<b>1996</b>—Subsec. (g). Pub. L. 104–333 substituted "eligible for financing pursuant to the Rural Electrification Actof 1936, as amended, determined without regard to any application requirement under that Act," for "financed pursuant to the Rural Electrification Act of 1936, as amended,".
+<b>1996</b>—Subsec. (g). Pub. L. 104–333 substituted "eligible for financing pursuant to the Rural Electrification Act of 1936, as amended, determined without regard to any application requirement under that Act," for "financed pursuant to the Rural Electrification Act of 1936, as amended,".
 
 <b>1986</b>—Subsec. (f). Pub. L. 99–545, §2(1), inserted before the period at end "or for emergency repair work necessary for those rights-of-way authorized under section 1761(c) of this title".
 

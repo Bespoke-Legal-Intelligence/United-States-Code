@@ -24,7 +24,7 @@ The Department of Health, Education, and Welfare shall make every reasonable eff
 
 #### (c) Services performed in the employ of United States
 
-Each individual who is an employee of Freedmen's Hospital on September 21, 1961 and who transfers to Howard University shall, so long as he is continuously in the employ of Howard University, be regarded as continuing in the employ of the United States for the purposes of subchapter III of chapter 83 of title 5, chapter 87 of title 5. For purposes of section 3121(b) of title 26 and section 410 of title 42, service performed by such individual during the period of his employment at Howard University shall be regarded as though performed in the employ of the United States.
+Each individual who is an employee of Freedmen's Hospital on September 21, 1961 and whotransfers to Howard University shall, so long as he is continuously in the employ of Howard University, be regarded as continuing in the employ of the United States for the purposes of subchapter III of chapter 83 of title 5, chapter 87 of title 5. For purposes of section 3121(b) of title 26 and section 410 of title 42, service performed by such individual during the period of his employment at Howard University shall be regarded as though performed in the employ of the United States.
 
 (Pub. L. 87–262, §2, Sept. 21, 1961, 75 Stat. 542; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
@@ -32,7 +32,7 @@ Each individual who is an employee of Freedmen's Hospital on September 21, 1961 
 
 In subsec. (a)(2)(B), "civil service retirement and disability fund referred to in section 8348 of title 5" substituted for "civil service retirement and disability fund required by the Act of May 22, 1920" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. Previously, act May 22, 1920, ch. 195, 41 Stat. 614, was superseded by act May 29, 1930, known as the Civil Service Retirement Act of 1930, which was generally amended by act July 31, 1956, ch. 804, §401, 70 Stat. 743.
 
-In subsecs. (a)(2)(B) and (c), "subchapter III of chapter 83 of title 5" substituted for "the Civil Service Retirement Act" on authority of Pub. L. 89–554, §7(b),Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
+In subsecs. (a)(2)(B) and (c), "subchapter III of chapter 83 of title 5" substituted for "the Civil Service Retirement Act" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
 In subsec. (a)(2)(B), "fund referred to in section 8714 of title 5" substituted for "the fund created by section 5(c) of the Federal Employees' Group Life Insurance Act of 1954" and, in subsecs. (a)(2)(B) and (c), "chapter 87 of title 5" substituted for "the Federal Employees' Group Life Insurance Act of 1954", on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 

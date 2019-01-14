@@ -8,7 +8,7 @@ The establishment of master plans for fire prevention and control are the respon
 
 #### (1) In general
 
-&emsp;The Administrator shall provide technical assistance and training to State and local fire service officials to establish nationwide and State mutual aid systems for dealing with national emergencies that—
+&emsp;The Administrator shall provide technical assistance and training to State and local fire service officials to establish nationwide andState mutual aid systems for dealing with national emergencies that—
 
 &emsp;&emsp;(A) include threat assessment and equipment deployment strategies;
 

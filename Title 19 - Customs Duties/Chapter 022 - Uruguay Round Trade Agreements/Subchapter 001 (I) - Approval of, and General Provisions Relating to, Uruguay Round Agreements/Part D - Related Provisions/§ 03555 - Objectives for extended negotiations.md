@@ -26,7 +26,7 @@ The principal negotiating objective of the United States in the extended negotia
 
 &emsp;&emsp;(D) to maintain the scope and coverage on indirect support as specified in the US–EC bilateral agreement on large civil aircraft, and
 
-&emsp;&emsp;(E) to obtain increased transparency with respect to foreign subsidy programs in the civil aircraft sector, both through greater government disclosure with respect to the use of taxpayer moneys and higher financial disclosure standards for companies receiving government supports (including disclosure comparable to that required under United States securities laws).
+&emsp;&emsp;(E) to obtain increased transparency with respect to foreign subsidy programs in the civil aircraft sector, both through greatergovernment disclosure with respect to the use of taxpayer moneys and higher financial disclosure standards for companies receiving government supports (including disclosure comparable to that required under United States securities laws).
 
 #### (2) Definitions
 
@@ -50,5 +50,5 @@ The principal negotiating objective of the United States in the extended negotia
 
 #### Effective Date
 
-Section effective on date on which WTO Agreement enters into force with respect to United States \[Jan. 1, 1995\], see section 138(b) of Pub. L. 103–465, set out as a note under section 3551 of this title.
+Section effective on date on which WTO Agreement enters into force with respect to United States (Jan. 1, 1995), see section 138(b) of Pub. L. 103–465, set out as a note under section 3551 of this title.
 

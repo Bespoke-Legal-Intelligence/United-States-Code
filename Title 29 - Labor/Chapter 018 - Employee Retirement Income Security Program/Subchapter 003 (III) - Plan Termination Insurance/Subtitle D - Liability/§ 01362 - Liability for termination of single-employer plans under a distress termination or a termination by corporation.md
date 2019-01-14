@@ -132,7 +132,7 @@ A person described in subsection (a) shall be subject to liability under this su
 
 #### (A) In general
 
-&emsp;&emsp;An employer may elect to satisfy the employer's liability with respect to a plan by reason of paragraph (1) by making additional contributions to the plan in the amount determined under subparagraph (B) for each plan year in the 7-plan-year period beginning with the plan year in which the cessation occurred. Any such additional contribution for a plan year shall be in addition to any minimum required contribution under section 1083 of this title for such plan year and shall be paid not later than the earlier of—
+&emsp;&emsp;An employer may elect to satisfy the employer's liability with respect to a plan byreason of paragraph (1) by making additional contributions to the plan in the amount determined under subparagraph (B) for each plan year in the 7-plan-year period beginning with the plan year in which the cessation occurred. Any such additional contribution for a plan year shall be in addition to any minimum required contribution under section 1083 of this title for such plan year and shall be paid not later than the earlier of—
 
 &emsp;&emsp;&emsp;(i) the due date for the minimum required contribution for such year under section 1083(j) of this title; or
 
@@ -186,7 +186,7 @@ A person described in subsection (a) shall be subject to liability under this su
 
 #### (i) Notice
 
-&emsp;&emsp;&emsp;An employer making the election under this paragraph shall provide notice to theCorporation, in accordance with rules prescribed by the Corporation, of—
+&emsp;&emsp;&emsp;An employer making the election under this paragraph shall provide notice to the Corporation, in accordance with rules prescribed by the Corporation, of—
 
 &emsp;&emsp;&emsp;&emsp;(I) such election, not later than 30 days after the earlier of the date the employer notifies the Corporation of the substantial cessation of operations or the date the Corporation determines a substantial cessation of operations has occurred;
 
@@ -248,7 +248,7 @@ A person described in subsection (a) shall be subject to liability under this su
 
 <b>2006</b>—Subsec. (c)(1) to (3). Pub. L. 109–280 added pars. (1) and (2) and struck out former pars. (1) to (3) which read as follows:
 
-"(1) the outstanding balance of the accumulated funding deficiencies (within the meaning of section 1082(a)(2) of this title and section 412(a) of title 26) of the plan (if any) (which, for purposes of this subparagraph, shall include the amount of any increase in such accumulated funding deficiencies of the plan which would result if all pending applications for waivers of the minimum funding standard under section 1083 of this title or section 412(d) of title 26 and for extensionsof the amortization period under section 1084 of this title or section 412(e) of title 26 with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year),
+"(1) the outstanding balance of the accumulated funding deficiencies (within the meaning of section 1082(a)(2) of this title and section 412(a) of title 26) of the plan (if any) (which, for purposes of this subparagraph, shall include the amount of any increase in such accumulated funding deficiencies of the plan which would result if all pending applications for waivers of the minimum funding standard under section 1083 of this title or section 412(d) of title 26 and for extensions of the amortization period under section 1084 of this title or section 412(e) of title 26 with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year),
 
 "(2) the outstanding balance of the amount of waived funding deficiencies of the plan waived before such date under section 1083 of this title or section 412(d) of title 26 (if any), and
 
@@ -330,7 +330,7 @@ Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 1342 of thistitle after that date, see section 9312(d)(1) of Pub. L. 100–203, as amended, set out as a note under section 1301 of this title.
+Amendment by Pub. L. 100–203 applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 1342 of this title after that date, see section 9312(d)(1) of Pub. L. 100–203, as amended, set out as a note under section 1301 of this title.
 
 #### Effective Date of 1986 Amendment
 

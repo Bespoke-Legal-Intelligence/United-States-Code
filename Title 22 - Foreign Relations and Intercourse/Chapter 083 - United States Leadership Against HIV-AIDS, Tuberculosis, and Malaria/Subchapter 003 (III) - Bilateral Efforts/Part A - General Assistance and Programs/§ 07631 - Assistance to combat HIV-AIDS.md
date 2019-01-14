@@ -88,7 +88,7 @@ No funds made available to carry out this chapter, or any amendment made by this
 
 The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-This chapter, referred to in subsecs. (d) to (f), was in the original "this Act", meaning Pub. L. 108–25, May 27,2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
+This chapter, referred to in subsecs. (d) to (f), was in the original "this Act", meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
 The Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008, referred to in subsec. (d), is Pub. L. 110–293, July 30, 2008, 122 Stat. 2918. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 7601 of this title and Tables.
 
@@ -114,5 +114,5 @@ Subsec. (c). Pub. L. 110–293, §301(g), amended subsec. (c) generally. Prior t
 
 Subsec. (d). Pub. L. 110–293, §301(h), amended subsec. (d) generally. Prior to amendment, text read as follows: "An organization that is otherwise eligible to receive assistance under section 104A of the Foreign Assistance Act of 1961 (as added by subsection (a)) or under any other provision of this chapter (or any amendment made by this chapter) to prevent, treat, or monitor HIV/AIDS shall not be required, as a condition of receiving the assistance, to endorse or utilize a multisectoral approach to combatting HIV/AIDS, or to endorse, utilize, or participate in a prevention method or treatment program to which the organization has a religious or moral objection."
 
-<b>2004</b>—Subsec. (f). Pub. L. 108–199, §595(3), inserted ", except that this subsection shall not apply to the Global Fund to Fight AIDS, Tuberculosis and Malaria, the World Health Organization, the International AIDS Vaccine Initiative or to any United Nations agency" after "trafficking".
+<b>2004</b>—Subsec. (f). Pub. L. 108–199, §595(3), inserted ", except that this subsection shall not apply to theGlobal Fund to Fight AIDS, Tuberculosis and Malaria, the World Health Organization, the International AIDS Vaccine Initiative or to any United Nations agency" after "trafficking".
 

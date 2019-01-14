@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any sanction or other measure required under subchapter I, II, or III (or any amendment made by such subchapters) may be suspended for up to 1 year upon certification by the President to the appropriate congressional committees that the Government of North Korea has made progress toward—
+Any sanction or other measure required under subchapter I, II, or III (or any amendment madeby such subchapters) may be suspended for up to 1 year upon certification by the President to the appropriate congressional committees that the Government of North Korea has made progress toward—
 
 &emsp;(1) verifiably ceasing its counterfeiting of United States currency, including the surrender or destruction of specialized materials and equipment used or particularly suitable for counterfeiting;
 

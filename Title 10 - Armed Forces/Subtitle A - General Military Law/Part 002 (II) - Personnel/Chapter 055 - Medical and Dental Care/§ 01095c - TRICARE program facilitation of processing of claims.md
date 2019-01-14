@@ -50,7 +50,7 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–314 added subsec. (d).
 
-<b>2001</b>—Subsec. (b)(1). Pub. L. 107–107, §708(b)(1), substituted "Except as provided in paragraph (3), the Secretary" for "The Secretary" and struck out "contract. In such case the contractor may begin to provide managed care support pursuant to the contract as soon as practicable after the award of the" before "contract, but in no case".
+<b>2001</b>—Subsec. (b)(1). Pub. L. 107–107, §708(b)(1), substituted "Except as provided in paragraph (3), the Secretary" for "The Secretary" and struck out "contract.In such case the contractor may begin to provide managed care support pursuant to the contract as soon as practicable after the award of the" before "contract, but in no case".
 
 Subsec. (b)(3). Pub. L. 107–107, §708(b)(2), added par. (3).
 

@@ -4,7 +4,7 @@ Congress hereby consents to the Northeast Interstate Dairy Compact entered into 
 
 #### (1) Finding of compelling public interest
 
-&emsp;Based upon a finding by the Secretary of a compelling public interest in the Compact region, the Secretary may grant the States that have ratified the Northeast Interstate Dairy Compact, as of April 4, 1996, the authority toimplement the Northeast Interstate Dairy Compact.
+&emsp;Based upon a finding by the Secretary of a compelling public interest in the Compact region, the Secretary may grant the States that have ratified the Northeast Interstate Dairy Compact, as of April 4, 1996, the authority to implement the Northeast Interstate Dairy Compact.
 
 #### (2) Limitation on manufacturing price
 

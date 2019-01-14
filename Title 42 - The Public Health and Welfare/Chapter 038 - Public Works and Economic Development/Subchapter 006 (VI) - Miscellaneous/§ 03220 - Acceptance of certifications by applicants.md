@@ -1,6 +1,6 @@
 ### §3220. Acceptance of certifications by applicants
 
-Under terms and conditions determined by the Secretary, the Secretary may accept the certifications of an applicant for assistance under this chapter that the applicant meets the requirements of this chapter.
+Under terms and conditions determined by the Secretary, the Secretary may accept the certifications of an applicant for assistance under thischapter that the applicant meets the requirements of this chapter.
 
 (Pub. L. 89–136, title VI, §610, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3616.)
 

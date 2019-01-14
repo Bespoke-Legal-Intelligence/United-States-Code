@@ -54,7 +54,7 @@ Protective purposes.—Any purpose directly related to protection against toxic 
 
 &emsp;&emsp;(C)
 
-Unrelated military purposes.—Any military purpose of the United States that is not connected with the use of a chemical weapon or that is not dependent on the use of the toxic or poisonous properties of the chemical weapon to cause death or other harm.
+Unrelated military purposes.—Any military purpose of the United States that is not connected with the use of a chemical weapon or that is not dependent on the useof the toxic or poisonous properties of the chemical weapon to cause death or other harm.
 
 &emsp;&emsp;(D)
 
@@ -74,7 +74,7 @@ List of toxic chemicals.—Toxic chemicals which have been identified for the ap
 
 &emsp;(9)
 
-United states.—The term "United States" means the several States of the United States, the District of Columbia, andthe commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
+United states.—The term "United States" means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
 
 &emsp;&emsp;(A) any of the places within the provisions of paragraph (41) <sup>1</sup> of section 40102 of title 49, United States Code;
 

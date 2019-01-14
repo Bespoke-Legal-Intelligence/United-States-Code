@@ -14,6 +14,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### NASA Internship and Fellowship Opportunities
+
+Pub. L. 115–303, §3, Dec. 11, 2018, 132 Stat. 4399, provided that: "Not later than October 1, 2018, the Administrator of the National Aeronautics and Space Administration (in this section referred to as 'NASA') shall institute a process to encourage the recruitment of qualified candidates who are women or individuals who are underrepresented in the fields of science, technology, engineering, and mathematics (STEM) and computer science for internships and fellowships at NASA with relevance to the aerospace sector and related fields."
+
 #### Education and Outreach
 
 Pub. L. 115–10, title VIII, §824, Mar. 21, 2017, 131 Stat. 64, provided that:
@@ -110,7 +114,7 @@ Educational Program Goals.—NASA shall develop and maintain educational program
 
 &emsp;&emsp;"(C) promote the adoption and implementation of high-quality education practices that build toward college and career-readiness; and
 
-&emsp;"(5) to create and support opportunities for enhanced and ongoing professional development forteachers using best practices that improve the STEM content and knowledge of the teachers, including through programs linking STEM teachers with STEM educators at the higher education level."
+&emsp;"(5) to create and support opportunities for enhanced and ongoing professional development for teachers using best practices that improve the STEM content and knowledge of the teachers, including through programs linking STEM teachers with STEM educators at the higher education level."
 
 \[For definition of "STEM" as used in section 202 of Pub. L. 111–358, set out above, see section 2 of Pub. L. 111–358, set out as a note under section 6621 of Title 42, The Public Health and Welfare.\]
 

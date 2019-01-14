@@ -2,7 +2,7 @@
 
 (a)(1) Subject to paragraph (2) of this subsection, the duty to bargain in good faith shall, to the extent not inconsistent with any Federal law or any Government-wide rule or regulation, extend to matters which are the subject of any rule or regulation only if the rule or regulation is not a Government-wide rule or regulation.
 
-(2) The duty to bargain in good faith shall, to the extent not inconsistent with Federal law orany Government-wide rule or regulation, extend to matters which are the subject of any agency rule or regulation referred to in paragraph (3) of this subsection only if the Authority has determined under subsection (b) of this section that no compelling need (as determined under regulations prescribed by the Authority) exists for the rule or regulation.
+(2) The duty to bargain in good faith shall, to the extent not inconsistent with Federal law or any Government-wide rule or regulation, extend to matters which are the subject of any agency rule or regulation referred to in paragraph (3) of this subsection only if the Authority has determined under subsection (b) of this section that no compelling need (as determined under regulations prescribed by the Authority) exists for the rule or regulation.
 
 (3) Paragraph (2) of the subsection applies to any rule or regulation issued by any agency or issued by any primary national subdivision of such agency, unless an exclusive representative represents an appropriate unit including not less than a majority of the employees in the issuing agency or primary national subdivision, as the case may be, to whom the rule or regulation is applicable.
 
@@ -64,5 +64,5 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 #### Partial Suspension of Federal Service Labor-Management Relations
 
-Subsec. (b) of this section suspended with regard to any regulation governing the implementation by the United States Forces, and subsec. (c) of this section suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces, of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(b), (c) of Ex. Ord.No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under section 7103 of this title.
+Subsec. (b) of this section suspended with regard to any regulation governing the implementation by the United States Forces, and subsec. (c) of this section suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces, of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(b), (c) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under section 7103 of this title.
 

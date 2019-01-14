@@ -50,7 +50,7 @@ As used in this part, unless otherwise specified, the term—
 
 > &emsp;but does not include service in the National Guard except when ordered to active duty in the service of the United States;
 
-&emsp;(10) "pro rata share", in the case of any former spouse of any participant or former participant, means a percentage which isequal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II) of that participant is of (B) the total number of years of such creditable service (creditable under part I or II);
+&emsp;(10) "pro rata share", in the case of any former spouse of any participant or former participant, means a percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II) of that participant is of (B) the total number of years of such creditable service (creditable under part I or II);
 
 &emsp;(11) "spousal agreement" means any written agreement between—
 

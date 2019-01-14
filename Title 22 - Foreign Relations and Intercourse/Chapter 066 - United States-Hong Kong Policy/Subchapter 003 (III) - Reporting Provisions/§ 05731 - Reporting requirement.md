@@ -1,8 +1,10 @@
 ### §5731. Reporting requirement
 
-Not later than March 31, 1993, March 31, 1995, March 31, 1996, March 31, 1997, March 31, 1998, March 31, 1999, March 31, 2000, March 31, 2001, March 31, 2002, March 31, 2003, March 31, 2004, March 31, 2005, and March 31, 2006 the Secretary of State shall transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report on conditions in Hong Kong of interest to the United States. This report shall cover (in the case of the initial report) the period since October 5, 1992, or (in the case of subsequent reports) the period since the most recent report pursuant to this section and shall describe—
+#### (a) In general
 
-&emsp;(1) significant developments in United States relations with Hong Kong, including a description of agreements that have enteredinto force between the United States and Hong Kong;
+Not later than March 31, 2019, and annually thereafter through 2024, the Secretary of State shall submit to the appropriate congressional committees a report on conditions in Hong Kong of interest to the United States. This report shall cover (in the case of the initial report) the period since October 5, 1992, or (in the case of subsequent reports) the period since the most recent report pursuant to this section and shall describe—
+
+&emsp;(1) significant developments in United States relations with Hong Kong, including a description of agreements that have entered into force between the United States and Hong Kong;
 
 &emsp;(2) other matters, including developments related to the change in the exercise of sovereignty over Hong Kong, affecting United States interests in Hong Kong or United States relations with Hong Kong;
 
@@ -18,9 +20,23 @@ Not later than March 31, 1993, March 31, 1995, March 31, 1996, March 31, 1997, M
 
 &emsp;(8) the nature and extent of Hong Kong's participation in multilateral forums.
 
-(Pub. L. 102–383, title III, §301, Oct. 5, 1992, 106 Stat. 1453; Pub. L. 104–107, title V, §576(a), Feb. 12, 1996, 110 Stat. 750; Pub. L. 107–115, title V, §586(a), Jan. 10, 2002, 115 Stat. 2173.)
+#### (b) Form
+
+The report required by subsection (a) shall be submitted in unclassified form and shall be published on a publicly available website of the Department of State.
+
+#### (c) Appropriate congressional committees
+
+In this section, the term "appropriate congressional committees" means—
+
+&emsp;(1) the Committee on Foreign Relations and the Committee on Armed Services of the Senate; and
+
+&emsp;(2) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives.
+
+(Pub. L. 102–383, title III, §301, Oct. 5, 1992, 106 Stat. 1453; Pub. L. 104–107, title V, §576(a), Feb. 12, 1996, 110 Stat. 750; Pub. L. 107–115, title V, §586(a), Jan. 10, 2002, 115 Stat. 2173; Pub. L. 115–232, div. A, title XII, §1256, Aug. 13, 2018, 132 Stat. 2056.)
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232 designated existing provisions as subsec. (a), inserted heading, in introductory provisions substituted "Not later than March 31, 2019, and annually thereafter through 2024," for "Not later than March 31, 1993, March 31, 1995, March 31, 1996, March 31, 1997, March 31, 1998, March 31, 1999, March 31, 2000, March 31, 2001, March 31, 2002, March 31, 2003, March 31, 2004, March 31, 2005, and March 31, 2006" and "submit to the appropriate congressional committees" for "transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate", and added subsecs. (b) and (c).
 
 <b>2002</b>—Pub. L. 107–115 substituted "March 31, 2000, March 31, 2001, March 31, 2002, March 31, 2003, March 31, 2004, March 31, 2005, and March 31, 2006" for "and March 31, 2000," in introductory provisions.
 

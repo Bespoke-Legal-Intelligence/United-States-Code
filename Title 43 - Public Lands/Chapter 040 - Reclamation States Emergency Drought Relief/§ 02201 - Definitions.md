@@ -12,7 +12,7 @@ As used in this chapter:
 
 #### References in Text
 
-Act of June 17, 1902, referred to in par. (2), is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as theReclamation Act, which is classified generally to chapter 12 (§371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+Act of June 17, 1902, referred to in par. (2), is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 The Small Reclamation Projects Act of 1956, referred to in par. (3), is act Aug. 6, 1956, ch. 972, 70 Stat. 1044, as amended, which is classified generally to subchapter IV (§422a et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 422k of this title and Tables.
 
@@ -32,7 +32,7 @@ Section 1. <i>Purpose</i>. Our Nation must sustain and expand efforts to reduce 
 
 Among other actions, this memorandum institutionalizes the National Drought Resilience Partnership (NDRP), which builds upon the National Integrated Drought Information System, an interagency program led by the Department of Commerce. The NDRP was outlined in the President's Climate Action Plan to better coordinate Federal support for drought-related efforts, help communities reduce the impact of current drought events, and prepare for future droughts. In sustaining this focused collaboration, the NDRP will provide the Federal Government with a lasting platform that enables locally and regionally driven priorities and needs to guide coordinated Federal activities.
 
-Sec. 2. <i>Policy</i>. It is the policy of the Federal Government to coordinate and use applicable Federal investments, assets, and expertise to promote drought resilience and complement drought preparedness, planning, and implementation efforts of State, regional, tribal, and local institutions. In addition, where appropriate, the Federal Government shall seek partnerships with such institutions and the private sector in order to increase and diversify our Nation's water resources through the development and deployment of new technologies and improved access to alternative water supplies. Agencies shall also work with State, regional, tribal, and local institutions to support their efforts to maintain and enhance the long-term health and resilience of working lands and ecosystems. In carrying out this memorandum, executive departments and agencies (agencies) shall continue to recognize the primacy of States, regions, tribes, and local water users in building their resilience to drought.
+Sec. 2. <i>Policy</i>. It is the policy of the Federal Government to coordinate and use applicable Federal investments, assets, and expertise to promote drought resilience and complement drought preparedness, planning, and implementation efforts of State, regional, tribal, and local institutions. In addition, where appropriate, the Federal Government shall seek partnerships withsuch institutions and the private sector in order to increase and diversify our Nation's water resources through the development and deployment of new technologies and improved access to alternative water supplies. Agencies shall also work with State, regional, tribal, and local institutions to support their efforts to maintain and enhance the long-term health and resilience of working lands and ecosystems. In carrying out this memorandum, executive departments and agencies (agencies) shall continue to recognize the primacy of States, regions, tribes, and local water users in building their resilience to drought.
 
 Sec. 3. <i>Drought Resilience Goals</i>. (a) The heads of agencies shall, to the extent permitted by law and to the maximum extent possible, carry out the policy described in section 2 of this memorandum by implementing policies and taking actions to achieve the following drought resilience goals:
 
@@ -78,7 +78,7 @@ Sec. 4. <i>Drought Resilience Actions</i>. In furtherance of the policies and go
 
 &emsp;(A) support information gathering and analysis to assess the risk of drought to critical infrastructure; and
 
-&emsp;(B) use the assessment described in section 4(c)(ii) of this memorandum to inform agencies and to bettercommunicate accurate, science-based information about drought, and the risks of drought to communities, critical infrastructure owners and operators, and other drought resilience stakeholders.
+&emsp;(B) use the assessment described in section 4(c)(ii) of this memorandum to inform agencies and to better communicate accurate, science-based information about drought, and the risks of drought to communities, critical infrastructure owners and operators, and other drought resilience stakeholders.
 
 (ii) The Secretaries of Commerce and Homeland Security shall coordinate the implementation of the activities described in section 4(c)(i) of this memorandum and jointly publish an assessment describing the risk that drought poses to U.S. critical infrastructure.
 
@@ -164,7 +164,7 @@ Sec. 6. <i>Regional Coordination and Implementation</i>.
 
 (a) <i>Regional Capabilities</i>. The heads of agencies participating in the NDRP shall establish, and utilize through their regional and field offices, cross-agency methods to coordinate Federal assistance provided to States, regions, tribes, and localities facing drought challenges. These capabilities shall be integrated with existing regional planning and coordination initiatives, including with appropriate resiliency efforts conducted by State, regional, tribal, and local drought stakeholders.
 
-(b) <i>Regional Engagement Coordination</i>. In regions where complementary drought resilience activities are implemented by multiple Federal agencies, those agencies shall coordinate regional outreach strategies. Further, these agencies shall collectively coordinate regional outreach and engagement efforts with the goalof reducing duplication of effort for State, regional, tribal, and local stakeholders.
+(b) <i>Regional Engagement Coordination</i>. In regions where complementary drought resilience activities are implemented by multiple Federal agencies, those agencies shall coordinate regional outreach strategies. Further, these agencies shall collectively coordinate regional outreach and engagement efforts with the goal of reducing duplication of effort for State, regional, tribal, and local stakeholders.
 
 Sec. 7. <i>Definitions</i>. (a) "Agencies" means any authority of the United States that is an "agency" under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies.
 

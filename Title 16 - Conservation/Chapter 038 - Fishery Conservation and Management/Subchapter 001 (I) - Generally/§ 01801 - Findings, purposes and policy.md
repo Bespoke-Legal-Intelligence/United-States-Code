@@ -10,7 +10,7 @@ The Congress finds and declares the following:
 
 &emsp;(3) Commercial and recreational fishing constitutes a major source of employment and contributes significantly to the economy of the Nation. Many coastal areas are dependent upon fishing and related activities, and their economies have been badly damaged by the overfishing of fishery resources at an ever-increasing rate over the past decade. The activities of massive foreign fishing fleets in waters adjacent to such coastal areas have contributed to such damage, interfered with domestic fishing efforts, and caused destruction of the fishing gear of United States fishermen.
 
-&emsp;(4) International fishery agreements have not been effective in preventing or terminating the overfishing of these valuable fishery resources. There is danger that irreversible effects from overfishing will take place before an effective international agreement on fishery management jurisdiction can be negotiated, signed, ratified, and implemented.
+&emsp;(4) International fishery agreements have not been effective in preventing or terminating the overfishing of these valuable fisheryresources. There is danger that irreversible effects from overfishing will take place before an effective international agreement on fishery management jurisdiction can be negotiated, signed, ratified, and implemented.
 
 &emsp;(5) Fishery resources are finite but renewable. If placed under sound management before overfishing has caused irreversible effects, the fisheries can be conserved and maintained so as to provide optimum yields on a continuing basis.
 
@@ -27,6 +27,8 @@ The Congress finds and declares the following:
 &emsp;(11) A number of the Fishery Management Councils have demonstrated significant progress in integrating ecosystem considerations in fisheries management using the existing authorities provided under this chapter.
 
 &emsp;(12) International cooperation is necessary to address illegal, unreported, and unregulated fishing and other fishing practices which may harm the sustainability of living marine resources and disadvantage the United States fishing industry.
+
+&emsp;(13) While both provide significant cultural and economic benefits to the Nation, recreational fishing and commercial fishing are different activities. Therefore, science-based conservation and management approaches should be adapted to the characteristics of each sector.
 
 #### (b) Purposes
 
@@ -64,7 +66,7 @@ It is further declared to be the policy of the Congress in this chapter—
 
 &emsp;(7) to ensure that the fishery resources adjacent to a Pacific Insular Area, including resident or migratory stocks within the exclusive economic zone adjacent to such areas, be explored, developed, conserved, and managed for the benefit of the people of such area and of the United States.
 
-(Pub. L. 94–265, §2, Apr. 13, 1976, 90 Stat. 331; Pub. L. 95–354, §2, Aug. 28, 1978, 92 Stat. 519; Pub. L. 96–561, title II, §233, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 99–659, title I, §101(c)(1), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §101, Nov. 28, 1990, 104 Stat. 4437; Pub. L. 102–251, title III, §301(a), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, §101, Oct. 11, 1996, 110 Stat. 3560; Pub. L. 109–479, §3(a), title IV, §402, Jan. 12, 2007, 120 Stat. 3577, 3626.)
+(Pub. L. 94–265, §2, Apr. 13, 1976, 90 Stat. 331; Pub. L. 95–354, §2, Aug. 28, 1978, 92 Stat. 519; Pub. L. 96–561, title II, §233, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 99–659, title I, §101(c)(1), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §101, Nov. 28, 1990, 104 Stat. 4437; Pub. L. 102–251, title III, §301(a), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, §101, Oct. 11, 1996, 110 Stat. 3560; Pub. L. 109–479, §3(a), title IV, §402, Jan. 12, 2007, 120 Stat. 3577, 3626; Pub. L. 115–405, §2, Dec. 31, 2018, 132 Stat. 5355.)
 
 #### Amendment of Subsection (b)(1)
 
@@ -77,6 +79,8 @@ This chapter, referred to in subsecs. (a)(11), (b), and (c), was in the original
 Presidential Proclamation 5030, referred to in subsec. (b)(1), is set out under section 1453 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(13). Pub. L. 115–405 added par. (13).
 
 <b>2007</b>—Subsec. (a)(11). Pub. L. 109–479, §3(a), added par. (11).
 
@@ -124,7 +128,7 @@ Subsec. (b)(6). Pub. L. 95–354, §2(b), inserted requirement for development b
 
 #### References to Magnuson-Stevens Fishery Conservation and Management Act Considered To Include Section 401(a) of Pub. L. 108–219
 
-References to the Magnuson-Stevens Fishery Conservation and Management Act or any provision of that Act considered to be references to that Act as it would be in effect if section 401(a) of Pub. L. 108–219 were a provision of that Act, see section 401(c)(1) of Pub. L. 108–219, set out in an Implementation of Pacific Albacore Tuna Treaty note under section 1821 of this title.
+References to the Magnuson-Stevens Fishery Conservation and Management Act or any provision of that Act considered to be references to that Act as it would be in effect if section 401(a) of Pub. L. 108–219 were aprovision of that Act, see section 401(c)(1) of Pub. L. 108–219, set out in an Implementation of Pacific Albacore Tuna Treaty note under section 1821 of this title.
 
 #### References to Magnuson Fishery Conservation and Management Act Redesignated as References to Magnuson-Stevens Fishery Conservation and Management Act
 
@@ -137,6 +141,10 @@ Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided tha
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
+
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–405, §1(a), Dec. 31, 2018, 132 Stat. 5355, provided that: "This Act \[amending this section and sections 1852, 1881, and 1881c of this title, and enacting provisions set out as notes under this section and sections 1852 and 1881 of this title\] may be cited as the 'Modernizing Recreational Fisheries Management Act of 2018'."
 
 #### Short Title of 2015 Amendment
 
@@ -156,7 +164,7 @@ Pub. L. 109–479, §1(a), Jan. 12, 2007, 120 Stat. 3575, provided that: "This A
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–297, §1(a), Oct. 11, 1996, 110 Stat. 3559, provided that: "This Act \[enacting sections 1803, 1861a, 1881 to 1881d, 1883, 5107a, and 5107b of this title and sections 1279f and 1279g of Title 46, Appendix, Shipping, amending this section, sections 757d, 1362, 1802, 1812, 1821 to 1824, 1826, 1851 to 1858, 1860, 1861, 1862, 1863, 1882, 1883, 4107, 5102, 5103, and 5108 of this title, section 713c–3 ofTitle 15, Commerce and Trade, and section 1274 of Title 46, Appendix, enacting provisions set out as notes under sections 1802, 1853 to 1856, 1861a, and 1881c of this title and section 1245 of Title 46, Appendix, amending provisions set out as a note under section 971c of this title, and repealing provisions set out as a note under section 1851 of this title\] may be cited as the 'Sustainable Fisheries Act'."
+Pub. L. 104–297, §1(a), Oct. 11, 1996, 110 Stat. 3559, provided that: "This Act \[enacting sections 1803, 1861a, 1881 to 1881d, 1883, 5107a, and 5107b of this title and sections 1279f and 1279g of Title 46, Appendix, Shipping, amending this section, sections 757d, 1362, 1802, 1812, 1821 to 1824, 1826, 1851 to 1858, 1860, 1861, 1862, 1863, 1882, 1883, 4107, 5102, 5103, and 5108 of this title, section 713c–3 of Title 15, Commerce and Trade, and section 1274 of Title 46, Appendix, enacting provisions set out as notes under sections 1802, 1853 to 1856, 1861a, and 1881c of this title and section 1245 of Title 46, Appendix, amending provisions set out as a note under section 971c of this title, and repealing provisions set out as a note under section 1851 of this title\] may be cited as the 'Sustainable Fisheries Act'."
 
 #### Short Title of 1995 Amendment
 
@@ -176,7 +184,7 @@ Pub. L. 100–220, §1, Dec. 29, 1987, 101 Stat. 1458, provided that: "This Act 
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–561, title II, §201, Dec. 22, 1980, 94 Stat. 3287, provided that: "This title \[enacting section 1511b of Title 15, Commerce and Trade, amending sections 917, 1801, 1821, 1824, 1852, and 1855 of this title, section 713c–3 of Title 15, sections 1972 and 1980 of Title 22, Foreign Relations and Intercourse, section 1321 of Title 33, Navigation and Navigable Waters, section 1843 of Title 43, Public Lands, and sections 1271, 1273, 1274, and 1275 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section, sections 742c, 1821, and 1824 of this title, and section 1980 of Title 22\] may be cited as the 'American Fisheries Promotion Act'."
+Pub. L. 96–561, title II, §201, Dec. 22, 1980, 94 Stat. 3287, provided that: "This title \[enacting section 1511b of Title 15, Commerce and Trade, amending sections 917, 1801, 1821, 1824, 1852, and 1855 of this title, section 713c–3of Title 15, sections 1972 and 1980 of Title 22, Foreign Relations and Intercourse, section 1321 of Title 33, Navigation and Navigable Waters, section 1843 of Title 43, Public Lands, and sections 1271, 1273, 1274, and 1275 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section, sections 742c, 1821, and 1824 of this title, and section 1980 of Title 22\] may be cited as the 'American Fisheries Promotion Act'."
 
 #### Short Title of 1977 Amendment
 
@@ -189,6 +197,44 @@ Pub. L. 94–265, §1, Apr. 13, 1976, 90 Stat. 331, as amended by Pub. L. 96–5
 \[Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(a)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by section 101(a) \[§211(a)\] to section 1 of Pub. L. 94–265, set out above, is effective 15 days after Oct. 11, 1996.\]
 
 \[Pub. L. 96–561, title II, §238(a), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by section 238(a) to section 1 of Pub. L. 94–265, set out above, is effective 15 days after Dec. 22, 1980.\]
+
+#### Construction
+
+Pub. L. 115–405, §301, Dec. 31, 2018, 132 Stat. 5360, provided that: "Nothing in this Act \[see Short Title of 2018 Amendment note above\] shall be construed as modifying the requirements of sections \[sic\] 301(a), 302(h)(6), 303(a)(15), or 304(e) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851(a), 1852(h)(6), 1853(a)(15), and 1854(e)), or the equal application of such requirements and other standards and requirements under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) to commercial, charter, and recreational fisheries, including each component of mixed-use fisheries."
+
+\[For definition of "mixed-use fishery" as used in section 301 of Pub. L. 115–405, set out above, see section 3 of Pub. L. 115–405, set out below\].
+
+#### Definitions
+
+Pub. L. 115–405, §3, Dec. 31, 2018, 132 Stat. 5355, provided that:
+
+"In this Act \[see Short Title of 2018 Amendment note above\]:
+
+&emsp;"(1)
+
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Natural Resources of the House of Representatives.
+
+&emsp;"(2)
+
+Council.—The term 'Council' means any Regional Fishery Management Council established under section 302 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852).
+
+&emsp;"(3)
+
+Limited access privilege program.—The term 'limited access privilege program' means a program that meets the requirements of section 303A of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1853a).
+
+&emsp;"(4)
+
+Mixed-use fishery.—The term 'mixed-use fishery' means a Federal fishery in which 2 or more of the following occur:
+
+&emsp;&emsp;"(A) Recreational fishing.
+
+&emsp;&emsp;"(B) Charter fishing.
+
+&emsp;&emsp;"(C) Commercial fishing."
 
 #### Ex. Ord. No. 12962. Recreational Fisheries
 

@@ -94,7 +94,7 @@
 
 (B) Not earlier than 6 months after the date of enactment of this section, and not later than 12 months after such date, the Secretary of the Treasury shall submit the recommendations under subparagraph (A) to the Postal Regulatory Commission.
 
-(2)(A) Upon receiving the recommendations of the Secretary of the Treasury under paragraph (1), the Commission shall give interested parties, including the Postal Service, users of the mails, and an officer of the Commission whoshall be required to represent the interests of the general public, an opportunity to present their views on those recommendations through submission of written data, views, or arguments with or without opportunity for oral presentation, or in such other manner as the Commission considers appropriate.
+(2)(A) Upon receiving the recommendations of the Secretary of the Treasury under paragraph (1), the Commission shall give interested parties, including the Postal Service, users of the mails, and an officer of the Commission who shall be required to represent the interests of the general public, an opportunity to present their views on those recommendations through submission of written data, views, or arguments with or without opportunity for oral presentation, or in such other manner as the Commission considers appropriate.
 
 (B)(i) After due consideration of the views and other information received under subparagraph (A), the Commission shall by rule—
 

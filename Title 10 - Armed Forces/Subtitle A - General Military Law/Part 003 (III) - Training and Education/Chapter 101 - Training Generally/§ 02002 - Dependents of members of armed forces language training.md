@@ -30,7 +30,7 @@
 
 <b>1970</b>—Pub. L. 91–278, §2(1), substituted "armed forces" for "Army, Navy, Air Force, or Marine Corps" in section catchline.
 
-Subsec. (a). Pub. L. 91–278, §2(2)(A), authorized Secretary of Transportation to prescribe regulations forCoast Guard when not operating as a service in the Navy.
+Subsec. (a). Pub. L. 91–278, §2(2)(A), authorized Secretary of Transportation to prescribe regulations for Coast Guard when not operating as a service in the Navy.
 
 Subsec. (a)(3). Pub. L. 91–278, §2(2)(B), substituted "armed forces" for "Army, Navy, Air Force, or Marine Corps".
 

@@ -12,7 +12,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 &emsp;(B) such other resources as such entity determines, pursuant to contracts under this chapter, will be used to serve its firm load in the region.
 
-> In determining the resources which are used to serve a firm load, for purposes of subparagraphs (A) and (B), any resources used to serve a firm load under such subparagraphs shall be treated as continuing to be so used, unless such use is discontinued with the consent of the Administrator, or unless such use is discontinued because of obsolescence, retirement, loss of resource, or loss of contract rights.
+> In determining the resources which are used to serve a firm load, for purposes of subparagraphs (A) and (B), any resources used to serve a firm load under such subparagraphs shall be treatedas continuing to be so used, unless such use is discontinued with the consent of the Administrator, or unless such use is discontinued because of obsolescence, retirement, loss of resource, or loss of contract rights.
 
 (2) Contracts with investor-owned utilities shall provide that the Administrator may reduce his obligations under such contracts in accordance with section 5(a) of the Bonneville Project Act of 1937 \[16 U.S.C. 832d(a)\].
 
@@ -58,7 +58,7 @@ No resale.—A public body or cooperative to which a joint operating entity sell
 
 (4) An electric utility may terminate, upon reasonable terms and conditions agreed to by the Administrator and such utility prior to such termination, its purchase and sale under this subsection if the supplemental rate charge provided for in section 839e(b)(3) of this title is applied and the cost of electric power sold to such utility under this subsection exceeds, after application of such rate charge, the average system cost of power sold by such utility to the Administrator under this subsection.
 
-(5) Subject to the provisions of sections 839b and 839d of this title, in lieu of purchasing any amount of electric power offered by a utility under paragraph (1) of this subsection, the Administrator may acquire an equivalent amount of electric power from other sources to replace power sold to such utility as part of an exchange sale if the cost of such acquisition is less than the cost of purchasing the electric power offered by such utility.
+(5) Subject to the provisions of sections 839b and 839d of this title, in lieu of purchasing any amount of electric power offered by a utility under paragraph (1) of this subsection, the Administrator may acquire an equivalent amount of electric power from other sources to replace power sold to such utility as part of an exchange sale if the cost of such acquisition is less thanthe cost of purchasing the electric power offered by such utility.
 
 (6) Exchange sales to a utility pursuant to this subsection shall not be restricted below the amounts of electric power acquired by the Administrator from, or on behalf of, such utility pursuant to this subsection.
 

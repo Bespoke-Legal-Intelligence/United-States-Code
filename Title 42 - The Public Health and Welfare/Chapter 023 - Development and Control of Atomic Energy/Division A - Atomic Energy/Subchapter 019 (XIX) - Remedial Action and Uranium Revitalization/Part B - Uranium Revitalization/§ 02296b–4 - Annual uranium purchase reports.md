@@ -4,7 +4,7 @@
 
 By January 1 of each year, the owner or operator of any civilian nuclear power reactor shall report to the Secretary, acting through the Administrator of the Energy Information Administration, for activities of the previous fiscal year—
 
-&emsp;(1) the country of origin and the seller of any uranium or enriched uranium purchased orimported into the United States either directly or indirectly by such owner or operator; and
+&emsp;(1) the country of origin and the seller of any uranium or enriched uranium purchased or imported into the United States either directly or indirectly by such owner or operator; and
 
 &emsp;(2) the country of origin and the seller of any enrichment services purchased by such owner or operator.
 

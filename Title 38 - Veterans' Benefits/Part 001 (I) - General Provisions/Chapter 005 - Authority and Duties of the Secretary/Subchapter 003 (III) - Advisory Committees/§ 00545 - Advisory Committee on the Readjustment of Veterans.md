@@ -20,7 +20,7 @@
 
 &emsp;(ii) provide information relating to the nature and character of psychological problems arising from service in the Armed Forces;
 
-&emsp;(iii) provide an on-going assessment of the effectiveness of the policies, organizationalstructures, and services of the Department in assisting veterans in readjusting to civilian life; and
+&emsp;(iii) provide an on-going assessment of the effectiveness of the policies, organizational structures, and services of the Department in assisting veterans in readjusting to civilian life; and
 
 &emsp;(iv) provide on-going advice on the most appropriate means of responding to the readjustment needs of veterans in the future.
 
@@ -132,7 +132,7 @@ Authority of Individuals To Act for Commission.—Any member or agent of the Com
 
 In General.—The Commission shall—
 
-&emsp;"(1) review the adequacy and effectiveness of veterans transition assistance and benefits programs in providing assistance to members of the Armed Forces in making the transition and adjustment to civilian life;
+&emsp;"(1) review the adequacy and effectiveness of veterans transition assistance and benefits programs inproviding assistance to members of the Armed Forces in making the transition and adjustment to civilian life;
 
 &emsp;"(2) review the allocation under law of responsibility for the administration of veterans transition assistance and benefits programs among the various departments and agencies of the Government and determine the feasibility and desirability of consolidating such administration;
 
@@ -236,11 +236,11 @@ Miscellaneous Administrative Support.—The Secretary of Defense, the Secretary 
 
 "(a)
 
-Compensation of Members.—Each member of the Commission may be compensated at a rate equal tothe daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which such member is engaged in performing the duties of the Commission.
+Compensation of Members.—Each member of the Commission may be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which such member is engaged in performing the duties of the Commission.
 
 "(b)
 
-Travel and Travel Expenses.—(1) Members and personnel of the Commission may travel on military aircraft, military vehicles, or other military conveyances when travel is necessary in the performance of a duty of the Commission except when the cost of commercial transportation is less expensive.
+Travel and Travel Expenses.—(1) Members and personnel of the Commission may travel on military aircraft, military vehicles, or other military conveyances when travel is necessary in the performance of aduty of the Commission except when the cost of commercial transportation is less expensive.
 
 "(2) The members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 

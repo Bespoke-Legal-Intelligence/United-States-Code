@@ -18,7 +18,7 @@ The following shall be nationals and citizens of the United States at birth:
 
 &emsp;(h) a person born before noon (Eastern Standard Time) May 24, 1934, outside the limits and jurisdiction of the United States of an alien father and a mother who is a citizen of the United States who, prior to the birth of such person, had resided in the United States.
 
-(June 27, 1952, ch. 477, title III, ch. 1, §301, 66 Stat. 235; Pub. L. 89–770, Nov. 6, 1966, 80 Stat. 1322; Pub. L. 92–584, §§1, 3, Oct. 27, 1972, 86 Stat. 1289; Pub. L. 95–432, §§1, 3, Oct. 10, 1978, 92 Stat. 1046; Pub. L. 99–653, §12, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 103–416, title I, §101(a), Oct. 25, 1994, 108 Stat. 4306.)
+(June 27, 1952, ch. 477, title III, ch. 1, §301, 66 Stat. 235; Pub. L. 89–770, Nov. 6, 1966, 80 Stat. 1322; Pub. L. 92–584, §§1, 3, Oct. 27, 1972, 86 Stat. 1289; Pub. L. 95–432, §§1, 3, Oct. 10, 1978, 92 Stat.1046; Pub. L. 99–653, §12, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 103–416, title I, §101(a), Oct. 25, 1994, 108 Stat. 4306.)
 
 #### Amendments
 

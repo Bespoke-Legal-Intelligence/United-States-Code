@@ -16,7 +16,7 @@
 
 (1) In any case in which—
 
-&emsp;(A) a vessel for which a permit has been issued under this section has been used in the commission of an act prohibited under section 1417 of this title;
+&emsp;(A) a vessel for which a permit has been issued under this section has been used in thecommission of an act prohibited under section 1417 of this title;
 
 &emsp;(B) the owner or operator of any such vessel or any other person who has applied for or been issued a permit under this section has acted in violation of section 1417 of this title; or
 

@@ -40,7 +40,7 @@ As used in this section:
 
 #### (1) In general
 
-&emsp;Each person granted a customs broker's license under subsection (b) shall be issued, inaccordance with such regulations as the Secretary shall prescribe, either or both of the following:
+&emsp;Each person granted a customs broker's license under subsection (b) shall be issued, in accordance with such regulations as the Secretary shall prescribe, either or both of the following:
 
 &emsp;&emsp;(A) A national permit for the conduct of such customs business as the Secretary prescribes by regulation.
 
@@ -94,7 +94,7 @@ As used in this section:
 
 #### (A) Monetary penalty
 
-&emsp;&emsp;Unless action has been taken under subparagraph (B), the appropriate customs officer shall serve notice in writing upon any customs broker to show cause why the broker should not be subject to a monetary penalty not to exceed $30,000 in total for a violation or violations of this section. The notice shall advise the customs broker of the allegations or complaints against him and shall explain that the broker has a right to respond to the allegations or complaints in writing within 30 days of the date of the notice. Before imposing a monetary penalty, the customs officer shall consider the allegations or complaints and any timely response made by the customs broker and issue a written decision. A customs broker against whom a monetary penalty has been issued under this section shall have a reasonable opportunity under section 1618 of this title to make representations seeking remission or mitigation of the monetary penalty. Following the conclusion of any proceeding under section 1618 of this title, the appropriate customs officer shall provide to the customs broker a written statement whichsets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
+&emsp;&emsp;Unless action has been taken under subparagraph (B), the appropriate customs officer shall serve notice in writing upon any customs broker to show cause why the broker should not be subject to a monetary penalty not to exceed $30,000 in total for a violation or violations of this section. The notice shall advise the customs broker of the allegations or complaints against him and shall explain that the broker has a right to respond to the allegations or complaints in writing within 30 days of the date of the notice. Before imposing a monetary penalty, the customs officer shall consider the allegations or complaints and any timely response made by the customs broker and issue a written decision. A customs broker against whom a monetary penalty has been issued under this section shall have a reasonable opportunity under section 1618 of this titleto make representations seeking remission or mitigation of the monetary penalty. Following the conclusion of any proceeding under section 1618 of this title, the appropriate customs officer shall provide to the customs broker a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
 
 #### (B) Revocation or suspension
 
@@ -132,7 +132,7 @@ As used in this section:
 
 #### (6) Failure to appeal
 
-&emsp;If an appeal is not filed within the time limits specified in this section, the decision by the Secretary shall be final and conclusive. Inthe case of a monetary penalty imposed under subsection (d)(2)(B) of this section, if the amount is not tendered within 60 days after the decision becomes final, the license shall automatically be suspended until payment is made to U.S. Customs and Border Protection.
+&emsp;If an appeal is not filed within the time limits specified in this section, the decision by the Secretary shall be final and conclusive. In the case of a monetary penalty imposed under subsection (d)(2)(B) of this section, if the amount is not tendered within 60 days after the decision becomes final, the license shall automatically be suspended until payment is made to U.S. Customs and Border Protection.
 
 #### (f) Regulations by the Secretary
 
@@ -198,7 +198,7 @@ The Secretary may prescribe reasonable fees and charges to defray the costs of U
 
 &emsp;&emsp;&emsp;(ii) a partnership, corporation, or other commercial entity that is not organized under the laws of a jurisdiction within the customs territory of the United States (as such term is defined in General Note 2 of the Harmonized Tariff Schedule of the United States) or in the Virgin Islands of the United States.
 
-(June 17, 1930, ch. 497, title IV, §641, 46 Stat. 759; Aug. 26, 1935, ch. 689, §§3–5, 49 Stat. 864, 865; Pub.L. 85–791, §8, Aug. 28, 1958, 72 Stat. 945; Pub. L. 91–271, title III, §301(jj), June 2, 1970, 84 Stat. 291; Pub. L. 95–410, title I, §113, Oct. 3, 1978, 92 Stat. 898; Pub. L. 96–417, title VI, §611, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 98–573, title II, §212(a), Oct. 30, 1984, 98 Stat. 2978; Pub. L. 99–514, title XVIII, §1888(8), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title VI, §648, Dec. 8, 1993, 107 Stat. 2207; Pub. L. 104–295, §21(e)(11), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 105–258, title III, §302(b), Oct. 14, 1998, 112 Stat. 1916; Pub. L. 114–125, title I, §116(a), title IX, §903, Feb. 24, 2016, 130 Stat. 144, 223.)
+(June 17, 1930, ch. 497, title IV, §641, 46 Stat. 759; Aug. 26, 1935, ch. 689, §§3–5, 49 Stat. 864, 865; Pub. L. 85–791, §8, Aug. 28, 1958, 72 Stat. 945; Pub. L. 91–271, title III, §301(jj), June 2, 1970, 84 Stat. 291; Pub. L. 95–410, title I, §113, Oct. 3, 1978, 92 Stat. 898; Pub. L. 96–417, title VI, §611, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 98–573, title II, §212(a), Oct. 30, 1984, 98 Stat. 2978; Pub. L. 99–514, title XVIII, §1888(8), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title VI, §648, Dec. 8, 1993, 107 Stat. 2207; Pub. L. 104–295, §21(e)(11), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 105–258, title III, §302(b), Oct. 14, 1998, 112 Stat. 1916; Pub. L. 114–125, title I, §116(a), title IX, §903, Feb. 24, 2016, 130 Stat. 144, 223.)
 
 #### References in Text
 

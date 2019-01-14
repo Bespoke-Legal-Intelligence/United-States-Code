@@ -159,7 +159,7 @@ For purposes of this section—
 
 #### (C) Safe harbor for absence of preventive care deductible
 
-&emsp;&emsp;A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for preventive care (within the meaning of section 1871 of the Social Security Act, except as otherwise provided by the Secretary).
+&emsp;&emsp;A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for preventive care (within the meaning of section 1861 of the Social Security Act, except as otherwise provided by the Secretary).
 
 #### (D) Special rules for network plans
 
@@ -229,7 +229,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "qualified medical expenses" means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d) <sup>1</sup> for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+&emsp;&emsp;The term "qualified medical expenses" means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
 
 #### (B) Health insurance may not be purchased from account
 
@@ -329,11 +329,11 @@ For purposes of this section—
 
 #### (6) Coordination with medical expense deduction
 
-&emsp;For purposes of determining the amount of the deduction under section 213, any paymentor distribution out of a health savings account for qualified medical expenses shall not be treated as an expense paid for medical care.
+&emsp;For purposes of determining the amount of the deduction under section 213, any payment or distribution out of a health savings account for qualified medical expenses shall not be treated as an expense paid for medical care.
 
-#### (7) <sup>2</sup> Transfer of account incident to divorce
+#### (7) Transfer of account incident to divorce
 
-&emsp;The transfer of an individual's interest in a health savings account to an individual's spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as a health savings account with respect to which such spouse is the account beneficiary.
+&emsp;The transfer of an individual's interest in a health savings account to an individual's spouse or former spouse under a divorce or separation instrument described in clause (i) of section 121(d)(3)(C) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as a health savings account with respect to which such spouse is the account beneficiary.
 
 #### (8) Treatment after death of account beneficiary
 
@@ -375,7 +375,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of each dollar amount in subsection (c)(2)(A), "calendar year 2003".
 
-> &emsp;In the case of adjustments made for any taxable year beginning after 2007, section 1(f)(4) shall be applied for purposes of this paragraph by substituting "March 31" for "August 31", and the Secretary shall publish the adjusted amounts under subsections (b)(2) and (c)(2)(A) for taxable years beginning in any calendar year no later than June 1 of the preceding calendar year.
+> &emsp;In the case of adjustments made for any taxable year beginning after 2007, section 1(f)(4)shall be applied for purposes of this paragraph by substituting "March 31" for "August 31", and the Secretary shall publish the adjusted amounts under subsections (b)(2) and (c)(2)(A) for taxable years beginning in any calendar year no later than June 1 of the preceding calendar year.
 
 #### (2) Rounding
 
@@ -391,17 +391,7 @@ The Secretary may require—
 
 > The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 
-(Added Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469; amended Pub. L. 109–135, title IV, §404(c), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 109–432, div. A, title III, §§302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, 120 Stat. 2949, 2950, 2953; Pub. L. 111–148, title IX, §§9003(a), 9004(a), Mar. 23, 2010, 124 Stat. 854; Pub. L. 114–41, title IV, §4007(b)(1), July 31, 2015, 129 Stat. 466; Pub. L. 115–97, title I, §§11002(d)(1)(V), 11051(b)(3)(E), Dec. 22, 2017, 131 Stat. 2060, 2090.)
-
-#### Amendment of Subsection (f)(7)
-
-<i>Pub. L. 115–97, title I, §11051(b)(3)(E), (c), Dec. 22, 2017, 131 Stat. 2090, amended subsection (f)(7) of this section, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amend</i><i>ment made by section 11051 of Pub. L. 115–97 applies to such modification. After amendment, subsection (f)(7) reads as follows:</i>
-
-#### <i>(7) Transfer of account incident to divorce</i>
-
-&emsp;<i>The transfer of an individual's interest in a health savings account to an individual's spouse or former spouse under a divorce or separation instrument described in clause (i) of section 121(d)(3)(C) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as a health savings account with respect to which such spouse is the account beneficiary.</i>
-
-<i>See 2017 Amendment note below.</i>
+(Added Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469; amended Pub. L. 109–135, title IV, §404(c), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 109–432, div. A, title III, §§302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, 120 Stat. 2949, 2950, 2953; Pub. L. 111–148, title IX, §§9003(a), 9004(a), Mar. 23, 2010, 124 Stat. 854; Pub. L. 114–41, title IV, §4007(b)(1), July 31, 2015, 129 Stat. 466; Pub. L. 115–97, title I, §§11002(d)(1)(V), 11051(b)(3)(E), Dec. 22, 2017, 131 Stat. 2060, 2090; Pub. L. 115–141, div. U, title IV, §401(a)(57), (58), Mar. 23, 2018, 132 Stat. 1186, 1187.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -409,13 +399,17 @@ The Secretary may require—
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(7), (c)(2)(C), (d)(2)(C)(iv), (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 1811, 1871, and 1882 of the Act are classified to sections 1395c, 1395hh, and 1395ss, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(7), (c)(2)(C), (d)(2)(C)(iv), (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 1811, 1861, and 1882 of the Act are classified to sections 1395c, 1395x, and 1395ss, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
 A prior section 223 was renumbered section 224 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(2)(C). Pub. L. 115–141, §401(a)(57), substituted "section 1861" for "section 1871".
+
+Subsec. (d)(2)(A). Pub. L. 115–141, §401(a)(58), substituted "section 213(d))" for "section 213(d)".
 
 <b>2017</b>—Subsec. (f)(7). Pub. L. 115–97, §11051(b)(3)(E), substituted "clause (i) of section 121(d)(3)(C)" for "subparagraph (A) of section 71(b)(2)".
 
@@ -489,6 +483,8 @@ Section applicable to taxable years beginning after Dec. 31, 2003, see section 1
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+<b>2019</b>—Revenue Procedure 2018–30.
+
 <b>2018</b>—Revenue Procedure 2017–37.
 
 <b>2017</b>—Revenue Procedure 2016–28.
@@ -510,8 +506,4 @@ Provisions relating to inflation adjustment of items in this section for certain
 <b>2009</b>—Revenue Procedure 2008–29.
 
 <b>2008</b>—Revenue Procedure 2007–36.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
-
-<i><sup>2</sup></i><i> See Amendment of Subsection (f)(7) note below.</i>
 

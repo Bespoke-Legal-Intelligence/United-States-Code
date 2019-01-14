@@ -12,7 +12,7 @@ A prior section 1095, Pub. L. 89–329, title IV, §488, as added Pub. L. 96–3
 
 <b>2008</b>—Pub. L. 110–315 struck out "and" after semicolon in par. (1), substituted "section 1070b–3 or 1087bb of this title (or both); and" for "section 1070b–3 of this title." in par. (2), and added par. (3).
 
-<b>1992</b>—Pub. L. 102–325 inserted first two sentences and struck out former first sentence which read as follows: "Up to 10 percent of the allotment of an eligible institution for a fiscal year under section 1070b–3 or 1087–52 of this title, may be transferred to, and used for the purposes of, the institution's allotment under the other section within the discretion of such institution in order to offer an arrangement of types of aid, including institutional and State aid, which best fits the needs of each individual student."
+<b>1992</b>—Pub. L. 102–325 inserted first two sentences and struck out former first sentence which read as follows: "Up to 10 percent of the allotment of an eligible institution for a fiscal year under section 1070b–3 or 1087–52 of this title, may be transferred to, and used for the purposes of, the institution's allotment under the other section within the discretion of such institution in order to offer an arrangement of types of aid, includinginstitutional and State aid, which best fits the needs of each individual student."
 
 <b>1987</b>—Pub. L. 100–50 substituted "or 1087–52" for "or 1087–56".
 

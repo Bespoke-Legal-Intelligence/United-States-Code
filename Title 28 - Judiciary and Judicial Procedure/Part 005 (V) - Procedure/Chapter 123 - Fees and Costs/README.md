@@ -46,7 +46,7 @@ Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §§805(b), 809(b)\], Apr
 
 <b>1986</b>—Pub. L. 99–500, §101(b) \[title IV, §407(d)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(d)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64, added item 1931.
 
-<b>1984</b>—Pub. L. 98–353, title I, §111(c), July 10, 1984, 98 Stat. 343, substituted "fees" for "courts" in item 1930. Notwithstanding directory language that the amendment be made to the table of sections for chapter 125 ofthis title, the amendment was executed to the table of sections for chapter 123 of this title to reflect the probable intent of Congress.
+<b>1984</b>—Pub. L. 98–353, title I, §111(c), July 10, 1984, 98 Stat. 343, substituted "fees" for "courts" in item 1930. Notwithstanding directory language that the amendment be made to the table of sections for chapter 125 of this title, the amendment was executed to the table of sections for chapter 123 of this title to reflect the probable intent of Congress.
 
 <b>1982</b>—Pub. L. 97–164, title I, §139(p)(2), Apr. 2, 1982, 96 Stat. 44, substituted "Claims Court" for "Court of Customs and Patent Appeals" in item 1926.
 

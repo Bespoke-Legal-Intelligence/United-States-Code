@@ -162,13 +162,25 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) which is operated by an organization described in section 501(c)(3) and exempt from tax under section 501(a), or by a State, a possession of the United States, any political subdivision of any of the foregoing, the United States, or the District of Columbia.
 
-#### (5) <sup>1</sup> Special rules for support
+#### (5) Special rules for support
 
-&emsp;For purposes of this subsection—
+#### (A) In general
 
-&emsp;&emsp;(A) payments to a spouse which are includible in the gross income of such spouse under section 71 or 682 shall not be treated as a payment by the payor spouse for the support of any dependent, and
+&emsp;&emsp;For purposes of this subsection—
 
-&emsp;&emsp;(B) in the case of the remarriage of a parent, support of a child received from the parent's spouse shall be treated as received from the parent.
+&emsp;&emsp;&emsp;(i) payments to a spouse of alimony or separate maintenance payments shall not be treated as a payment by the payor spouse for the support of any dependent, and
+
+&emsp;&emsp;&emsp;(ii) in the case of the remarriage of a parent, support of a child received from the parent's spouse shall be treated as received from the parent.
+
+#### (B) Alimony or separate maintenance payment
+
+&emsp;&emsp;For purposes of subparagraph (A), the term "alimony or separate maintenance payment" means any payment in cash if—
+
+&emsp;&emsp;&emsp;(i) such payment is received by (or on behalf of) a spouse under a divorce or separation instrument (as defined in section 121(d)(3)(C)),
+
+&emsp;&emsp;&emsp;(ii) in the case of an individual legally separated from the individual's spouse under a decree of divorce or of separate maintenance, the payee spouse and the payor spouse are not members of the same household at the time such payment is made, and
+
+&emsp;&emsp;&emsp;(iii) there is no liability to make any such payment for any period after the death of the payee spouse and there is no liability to make any payment (in cash or property) as a substitute for such payments after the death of the payee spouse.
 
 #### (e) Special rule for divorced parents, etc.
 
@@ -320,7 +332,7 @@ For purposes of this section—
 
 #### (D) Termination of treatment
 
-&emsp;&emsp;Subparagraphs (A) and (C) shall cease to apply as of the first taxable year of the taxpayer beginning after the calendar year in which there is a determination that thechild is dead (or, if earlier, in which the child would have attained age 18).
+&emsp;&emsp;Subparagraphs (A) and (C) shall cease to apply as of the first taxable year of the taxpayer beginning after the calendar year in which there is a determination that the child is dead (or, if earlier, in which the child would have attained age 18).
 
 #### (7) Cross references
 
@@ -328,31 +340,9 @@ For purposes of this section—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 43; Aug. 9, 1955, ch. 693, §2, 69 Stat. 626; Pub. L. 85–866, title I, §4(a)–(c), Sept. 2, 1958, 72 Stat. 1607; Pub. L. 86–376, §1(a), Sept. 23, 1959, 73 Stat. 699; Pub. L. 90–78, §1, Aug. 31, 1967, 81 Stat. 191; Pub. L. 91–172, title IX, §912(a), Dec. 30, 1969, 83 Stat. 722; Pub. L. 92–580, §1(a), Oct. 27, 1972, 86 Stat. 1276; Pub. L. 94–455, title XIX, §§1901(a)(24), (b)(7)(B), (8)(A), 1906(b)(13)(A), title XXI, §2139(a), Oct. 4, 1976, 90 Stat. 1767, 1794, 1834, 1932; Pub. L. 98–369, div. A, title IV, §§423(a), 482(b)(2), July 18, 1984, 98 Stat. 799, 848; Pub. L. 99–514, title I, §104(b)(1)(B), (3), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2105, 2658; Pub. L. 108–311, title II, §201, Oct. 4, 2004, 118 Stat. 1169; Pub. L. 109–135, title IV, §404(a), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 110–351, title V, §501(a), (b), (c)(2), Oct. 7, 2008, 122 Stat. 3979, 3980; Pub. L. 115–97, title I, §11051(b)(3)(B), Dec. 22, 2017, 131 Stat. 2089.)
 
-#### Amendment of Subsection (d)(5)
+#### Inflation Adjusted Items for Certain Years
 
-<i>Pub. L. 115–97, title I, §11051(b)(3)(B), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, generally amended subsection (d)(5) of this section, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification. After amendment, subsection (d)(5) reads as follows:</i>
-
-#### <i>(5) Special rules for support</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>For purposes of this subsection—</i>
-
-&emsp;&emsp;&emsp;<i>(i) payments to a spouse of alimony or separate maintenance payments shall not be treated as a payment by the payor spouse for the support of any dependent, and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) in the case of the remarriage of a parent, support of a child received from the parent's spouse shall be treated as received from the parent.</i>
-
-#### <i>(B) Alimony or separate maintenance payment</i>
-
-&emsp;&emsp;<i>For purposes of subparagraph (A), the term "alimony or separate maintenance payment" means any payment in cash if—</i>
-
-&emsp;&emsp;&emsp;<i>(i) such payment is received by (or on behalf of) a spouse under a divorce or separation instrument (as defined in section 121(d)(3)(C)),</i>
-
-&emsp;&emsp;&emsp;<i>(ii) in the case of an individual legally separated from the individual's spouse under a decree of divorce or of separate maintenance, the payee spouse and the payor spouse are not members of the same household at the time such payment is made, and</i>
-
-&emsp;&emsp;&emsp;<i>(iii) there is no liability to make any such payment for any period after the death of the payee spouse and there is no liability to make any payment (in cash or property) as a substitute for such payments after the death of the payee spouse.</i>
-
-<i>See 2017 Amendment note below.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
 
@@ -382,7 +372,7 @@ Subsec. (d)(2). Pub. L. 99–514, §104(b)(3), substituted "section 151(c)(4)" f
 
 Subsec. (e)(1)(A). Pub. L. 99–514, §104(b)(1)(B), substituted "section 151(c)(3)" for "section 151(e)(3)".
 
-<b>1984</b>—Subsec. (e). Pub. L. 98–369, §423(a), amended subsec. (e) generally, and in substantially revising support test provisions, enacted par. (1) custodial parent exemption, former par. (1) declaring the general rule that where a child received over one-half of his calendar year support from parents who were divorced or legally separated under a decree of divorce or separate maintenance, or were separated under a written separation agreement and the child was in the custody of one or both parents for more than one-half of the calendar year, the child would be treated as receiving over half of his support from the parent having custody for a greater portion of the calendar year unless treated under special rule provision as having received over half of his support from the parent not having custody; enacted par. (2) release of custodial parent exemption for the year, former par. (2) declaring the special rule that parent without custody would be deemed as furnishing over half of the support where the decree of divorce or separate maintenance, or written agreement, covering the taxable year, provided that parent without custody should be entitled to the section 151 deduction for the child and such parent provided at least $600 calendar year support, or alternatively, such parentwithout custody provided $1,200 or more calendar year support and the parent with custody did not establish more support of the child than the parent without custody; redesignated as par. (3) former par. (4) provision respecting exception for multiple-support agreement, deleting former par. (3) respecting requirement of an itemized statement of expenditures to resolve more support claims; added par. (4) respecting exception for certain pre-1985 instruments; added par. (5) enunciating special rule for support received from new spouse of parent, deleting former par. (5) regulations prescription provision; and added par. (6) cross reference provision.
+<b>1984</b>—Subsec. (e). Pub. L. 98–369, §423(a), amended subsec. (e) generally, and in substantially revising support test provisions, enacted par. (1) custodial parent exemption, former par. (1) declaring the general rule that where a child received over one-half of his calendar year support from parents who were divorced or legally separated under a decree of divorce or separate maintenance, or were separated under a written separation agreement and the child was in the custody of one or both parents for more than one-half of the calendar year, the child would be treated as receiving over half of his support from the parent having custody for a greater portion of the calendar year unless treated under special rule provision as having received over half of his support from the parent not having custody; enacted par. (2) release of custodial parent exemption for the year, former par. (2) declaring the special rule that parent without custody would be deemed as furnishing over half of the support where the decree of divorce or separate maintenance, or written agreement, covering the taxable year, provided that parent without custody should be entitled to the section 151 deduction for the child and such parent provided at least $600 calendar year support, or alternatively, such parent without custody provided $1,200 or more calendar year support and the parent with custody did not establish more support of the child than the parent without custody; redesignated as par. (3) former par. (4) provision respecting exception for multiple-support agreement, deleting former par. (3) respecting requirement of an itemized statement of expenditures to resolve more support claims; added par. (4) respecting exception for certain pre-1985 instruments; added par. (5) enunciating special rule for support received from new spouse of parent, deleting former par. (5) regulations prescription provision; and added par. (6) cross reference provision.
 
 Subsec. (e)(6). Pub. L. 98–369, §482(b)(2), substituted "section 213(d)(5)" for "section 213(d)(4)".
 
@@ -428,7 +418,7 @@ Amendment by Pub. L. 110–351 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provisions of the Working Families Tax Relief Act of 2004, Pub. L. 108–311, to which such amendment relates, see section 404(d) of Pub. L. 109–135, set out as a note under section 21 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Working Families Tax ReliefAct of 2004, Pub. L. 108–311, to which such amendment relates, see section 404(d) of Pub. L. 109–135, set out as a note under section 21 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -470,13 +460,11 @@ Pub. L. 86–376, §1(b), Sept. 23, 1959, 73 Stat. 699, provided that: "The amen
 
 #### Effective Date of 1958 Amendment
 
-Amendment by section 4(a), (c) of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953,and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
+Amendment by section 4(a), (c) of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
 Pub. L. 85–866, §4(d), Sept. 2, 1958, 72 Stat. 1607, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957."
 
 #### Effective Date of 1955 Amendment
 
 Act Aug. 9, 1955, ch. 693, §3(b), 69 Stat. 626, provided that: "The amendment made by section 2 of this Act \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954."
-
-<i><sup>1</sup></i><i> See Amendment of Subsection (d)(5) note below.</i>
 

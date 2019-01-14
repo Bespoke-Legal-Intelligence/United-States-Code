@@ -122,7 +122,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Baccalaureate Degree Required for Appointment or Promotion of Reserve Component Officers to Grades Above First Lieutenant or Lieutenant (Junior Grade)
 
-Pub. L. 102–190, div. A, title V, §523, Dec. 5, 1991, 105 Stat. 1363, provided that after Sept. 30, 1995, no person could be appointed to a grade above grade of first lieutenant in Army Reserve, Air Force Reserve, or Marine Corps Reserve or to a grade above grade of lieutenant (junior grade) in Naval Reserve, or be federally recognized in a grade above grade of first lieutenant as a member of Army National Guard or Air NationalGuard, unless that person had been awarded a baccalaureate degree by an accredited educational institution, prior to repeal by Pub. L. 103–35, title II, §203(a), May 31, 1993, 107 Stat. 102. See section 12205 of this title.
+Pub. L. 102–190, div. A, title V, §523, Dec. 5, 1991, 105 Stat. 1363, provided that after Sept. 30, 1995, no person could be appointed to a grade above grade of first lieutenant in Army Reserve, Air Force Reserve, or Marine Corps Reserve or to a grade above grade of lieutenant (junior grade) in Naval Reserve, or be federally recognized in a grade above grade of first lieutenant as a member of Army National Guard or Air National Guard, unless that person had been awarded a baccalaureate degree by an accredited educational institution, prior to repeal by Pub. L. 103–35, title II, §203(a), May 31, 1993, 107 Stat. 102. See section 12205 of this title.
 
 #### Priority in Making Original Appointments in Guard and Reserve Components for ROTC Scholarship Program Graduates
 

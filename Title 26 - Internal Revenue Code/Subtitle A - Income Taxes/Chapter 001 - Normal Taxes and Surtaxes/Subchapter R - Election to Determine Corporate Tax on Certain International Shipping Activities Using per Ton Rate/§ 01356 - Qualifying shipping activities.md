@@ -20,7 +20,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term "qualifying secondary activities" means secondary activities but only to the extent that, without regard to this subchapter, the gross income derived by such corporation from such activities does not exceed 20 percent of the gross income derived by the corporation from its core qualifying activities.
+&emsp;The term "qualifying secondary activities" means secondary activities but only to the extent that, without regard to this subchapter,the gross income derived by such corporation from such activities does not exceed 20 percent of the gross income derived by the corporation from its core qualifying activities.
 
 #### (2) Secondary activities
 

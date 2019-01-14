@@ -48,7 +48,7 @@ A person that violates, attempts to violate, conspires to violate, or causes a v
 
 &emsp;&emsp;(C) owns or controls or is owned or controlled by a person referred to in subparagraph (A);
 
-&emsp;&emsp;(D) forms an entity with the purpose of evading sanctions that could be imposed as a result of a relationship described in subparagraph (C);
+&emsp;&emsp;(D) forms an entity with the purpose of evading sanctions that could be imposed as aresult of a relationship described in subparagraph (C);
 
 &emsp;&emsp;(E) is acting for or on behalf of a person referred to in subparagraph (A), (B), (C), or (D); or
 
@@ -104,7 +104,7 @@ Section 1. (a) I hereby delegate to the Secretary of State the functions and aut
 
 &emsp;(ii) section 107(b)(1) \[22 U.S.C. 9406(b)(1)\].
 
-(d) I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State, thefunctions and authorities vested in the President by the following provisions of the Act:
+(d) I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State, the functions and authorities vested in the President by the following provisions of the Act:
 
 &emsp;(i) section 104(b), with respect to a determination under the standards set forth under section 104(b)(2) through (b)(6);
 

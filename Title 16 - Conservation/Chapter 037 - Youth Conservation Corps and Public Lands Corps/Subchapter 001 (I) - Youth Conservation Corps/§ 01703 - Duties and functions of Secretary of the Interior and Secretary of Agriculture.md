@@ -24,7 +24,7 @@ Existing but unoccupied Federal facilities and surplus or unused equipment (or b
 
 #### (c) Contracts for the operation of projects
 
-The Secretary of the Interior and the Secretary of Agriculture may contract with any public agency or organization or any private nonprofit agency or organization which has been in existence for at least five years for the operation of any Youth Conservation Corps project.
+The Secretary of the Interior and the Secretary of Agriculture may contract with any public agency or organization or any privatenonprofit agency or organization which has been in existence for at least five years for the operation of any Youth Conservation Corps project.
 
 (Pub. L. 91–378, title I, §103, formerly §3, Aug. 13, 1970, 84 Stat. 795; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1319; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1067; renumbered title I, §103, and amended Pub. L. 103–82, title I, §105(1)–(3), Sept. 21, 1993, 107 Stat. 848.)
 
@@ -34,7 +34,7 @@ The Secretary of the Interior and the Secretary of Agriculture may contract with
 
 <b>1974</b>—Pub. L. 93–408 reenacted existing provisions with minor changes.
 
-<b>1972</b>—Pub. L. 92–597 substantially reenacted existing provisions and inserted provisions requiring the Secretary of the Interior and the Secretary of Agriculture to determine and select appropriate work and education programs and projects for participation by members of the Corps and to provide that permanent or semipermanent facilities used as Corps camps be made available to local schools, school districts, and such other institutions for use as environmental education camps during periods of nonuse by the Corps program, that the costs of operation, maintenance, and staffingof Corps camp facilities during periods of use by non-Corps programs and liabilities arising from such use shall be the responsibility of the organization using the facility and, struck out provisions requiring preparation and submission to the President of a report not later than Aug. 13, 1971, for transmittal to the Congress for review and appropriate action, and that the provisions of Title II of the Revenue and Expenditure Control Act of 1968 shall not apply to appointments made to the Corps, to temporary supervisory personnel, or to temporary program support staff.
+<b>1972</b>—Pub. L. 92–597 substantially reenacted existing provisions and inserted provisions requiring the Secretary of the Interior and the Secretary of Agriculture to determine and select appropriate work and education programs and projects for participation by members of the Corps and to provide that permanent or semipermanent facilities used as Corps camps be made available to local schools, school districts, and such other institutions for use as environmental education camps during periods of nonuse by the Corps program, that the costs of operation, maintenance, and staffing of Corps camp facilities during periods of use by non-Corps programs and liabilities arising from such use shall be the responsibility of the organization using the facility and, struck out provisions requiring preparation and submission to the President of a report not later than Aug. 13, 1971, for transmittal to the Congress for review and appropriate action, and that the provisions of Title II of the Revenue and Expenditure Control Act of 1968 shall not apply to appointments made to the Corps, to temporary supervisory personnel, or to temporary program support staff.
 
 #### Effective Date of 1993 Amendment
 

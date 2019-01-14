@@ -22,7 +22,7 @@ Pub. L. 102–477, §1, Oct. 23, 1992, 106 Stat. 2302, as amended by Pub. L. 115
 
 #### Effect of Pub. L. 115–93
 
-Pub. L. 115–93, §17, Dec. 18, 2017, 131 Stat. 2037, provided that: "Nothing in this Act \[see Short Title of 2017 Amendment note above\] or any amendment made by this Act—
+Pub. L. 115–93, §17, Dec. 18, 2017, 131 Stat. 2037, provided that: "Nothing in this Act \[see Short Title of 2017Amendment note above\] or any amendment made by this Act—
 
 &emsp;"(1) affects any plan approved under the Indian Employment, Training and Related Services Act of 1992 (25 U.S.C. 3401 et seq.) (as so redesignated) before the date of enactment of this Act \[Dec. 18, 2017\];
 

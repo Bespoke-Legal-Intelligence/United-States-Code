@@ -108,7 +108,7 @@ Subsec. (a)(3). Pub. L. 100–418, which directed substitution of "general note 
 
 Subsec. (c). Pub. L. 99–570, §3056(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
-"(1) In an emergency circumstance, equipment operated by or with the assistance of personnel assignedunder subsection (a) may be used outside the land area of the United States (or any territory or possession of the United States) as a base of operations by Federal law enforcement officials to facilitate the enforcement of a law listed in subsection (a) and to transport such law enforcement officials in connection with such operations, if—
+"(1) In an emergency circumstance, equipment operated by or with the assistance of personnel assigned under subsection (a) may be used outside the land area of the United States (or any territory or possession of the United States) as a base of operations by Federal law enforcement officials to facilitate the enforcement of a law listed in subsection (a) and to transport such law enforcement officials in connection with such operations, if—
 
 &emsp;"(A) equipment operated by or with the assistance of personnel assigned under subsection (a) is not used to interdict or to interrupt the passage of vessels or aircraft; and
 
@@ -182,9 +182,13 @@ Relationship to Other Law.—A provision of law may not be construed as modifyin
 
 &emsp;"(2) specifically states that such provision of law modifies or supersedes the provisions of subsection (b) or (c), as the case may be."
 
-Pub. L. 115–31, div. C, title VIII, §8047(a), May 5, 2017, 131 Stat. 258, provided that: "None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
+Pub. L. 115–245, div. A, title VIII, §8045(a), Sept. 28, 2018, 132 Stat. 3012, provided that: "None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–141, div. C, title VIII, §8045(a), Mar. 23, 2018, 132 Stat. 475.
+
+Pub. L. 115–31, div. C, title VIII, §8047(a), May 5, 2017, 131 Stat. 258.
 
 Pub. L. 114–113, div. C, title VIII, §8046(a), Dec. 18, 2015, 129 Stat. 2362.
 
@@ -232,7 +236,7 @@ Pub. L. 103–335, title VIII, §8154(a), Sept. 30, 1994, 108 Stat. 2658.
 
 #### Additional Support for Counter-Drug Activities and Activities To Counter Transnational Organized Crime
 
-Pub. L. 101–510, div. A, title X, §1004, Nov. 5, 1990, 104 Stat. 1629, as amended by Pub. L. 102–190, div. A, title X, §1088(a), Dec. 5, 1991, 105 Stat. 1484; Pub. L. 102–484, div. A, title X, §1041(a)–(d)(1), Oct. 23, 1992, 106 Stat. 2491; Pub. L. 103–160, div. A, title XI, §1121(a), (b), Nov. 30, 1993, 107 Stat. 1753; Pub. L. 103–337, div. A, title X,§1011(a), Oct. 5, 1994, 108 Stat. 2836; Pub. L. 105–261, div. A, title X, §1021, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 107–107, div. A, title X, §1021, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 109–364, div. A, title X, §1021, Oct. 17, 2006, 120 Stat. 2382; Pub. L. 111–383, div. A, title X, §1015(a), Jan. 7, 2011, 124 Stat. 4347; Pub. L. 112–81, div. A, title X, §1005, Dec. 31, 2011, 125 Stat. 1556; Pub. L. 113–291, div. A, title X, §1012, Dec. 19, 2014, 128 Stat. 3483, which authorized the Secretary of Defense, during fiscal years 2012 through 2017, to provide support for the counter-drug activities or activities to counter transnational organized crime of any other department or agency of the Federal Government or of any State, local, tribal, or foreign law enforcement agency, was repealed by Pub. L. 114–328, div. A, title X, §1011(b), Dec. 23, 2016, 130 Stat. 2385. See section 284 of this title.
+Pub. L. 101–510, div. A, title X, §1004, Nov. 5, 1990, 104 Stat. 1629, as amended by Pub. L. 102–190, div. A, title X, §1088(a), Dec. 5, 1991, 105 Stat. 1484; Pub. L. 102–484, div. A, title X, §1041(a)–(d)(1), Oct. 23, 1992, 106 Stat. 2491; Pub. L. 103–160, div. A, title XI, §1121(a), (b), Nov. 30, 1993, 107 Stat. 1753; Pub. L. 103–337, div. A, title X, §1011(a), Oct. 5, 1994, 108 Stat. 2836; Pub. L. 105–261, div. A, title X, §1021, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 107–107, div. A, title X, §1021, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 109–364, div. A, title X, §1021, Oct. 17, 2006, 120 Stat. 2382; Pub. L. 111–383, div. A, title X, §1015(a), Jan. 7, 2011, 124 Stat. 4347; Pub. L. 112–81, div. A, title X, §1005, Dec. 31, 2011, 125 Stat. 1556; Pub. L. 113–291, div. A, title X, §1012, Dec. 19, 2014, 128 Stat. 3483, which authorized the Secretary of Defense, during fiscal years 2012 through 2017, to provide support for the counter-drug activities or activities to counter transnational organized crime of any other department or agency of the Federal Government or of any State, local, tribal, or foreign law enforcement agency, was repealed by Pub. L. 114–328, div. A, title X, §1011(b), Dec. 23, 2016, 130 Stat. 2385. See section 284 of this title.
 
 #### Communications Network
 

@@ -12,5 +12,5 @@ For the purpose of this subchapter, a regional infrastructure development agency
 
 #### Codification
 
-Section was enacted as part of the Fixing America's Surface Transportation Act, also known as the FASTAct, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+Section was enacted as part of the Fixing America's Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 

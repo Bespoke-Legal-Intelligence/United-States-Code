@@ -40,7 +40,7 @@ Upon receipt of the plan from an eligible entity, the Secretary shall consult wi
 
 #### (f) Plan approval
 
-Within 90 days after the receipt of an entity's plan by the Secretary, the Secretary shall inform the entity, in writing, of the Secretary's approval or disapproval of the plan. If the plan is disapproved, the entity shall be informed, in writing, of the reasons for the disapproval and shall be given an opportunity to amend the plan or to petition the Secretary to reconsider such disapproval.
+Within 90 days after the receipt of an entity's plan by the Secretary, the Secretary shall inform the entity, in writing, of the Secretary's approval or disapproval of the plan. If the plan is disapproved, the entity shall be informed, in writing, of the reasons for the disapproval andshall be given an opportunity to amend the plan or to petition the Secretary to reconsider such disapproval.
 
 #### (g) Responsibilities of Department of Education
 
@@ -114,7 +114,7 @@ For the purposes of this section, the term "Secretary" means—
 
 #### References in Text
 
-The Education Amendments of 1978, referred to in subsecs. (g)(1) and (p)(1), is Pub. L. 95–561, Nov. 1, 1978,92 Stat. 2143, as amended. Title XI of the Act is classified principally to chapter 22 (§2001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of this title and Tables.
+The Education Amendments of 1978, referred to in subsecs. (g)(1) and (p)(1), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Act is classified principally to chapter 22 (§2001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 

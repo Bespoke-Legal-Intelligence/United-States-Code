@@ -4,7 +4,7 @@
 
 No gain or loss shall be recognized on the exchange of—
 
-&emsp;(1) a contract of life insurance for another contract of life insurance or for an endowmentor annuity contract or for a qualified long-term care insurance contract; or <sup>1</sup>
+&emsp;(1) a contract of life insurance for another contract of life insurance or for an endowment or annuity contract or for a qualified long-term care insurance contract;
 
 &emsp;(2) a contract of endowment insurance (A) for another contract of endowment insurance which provides for regular payments beginning at a date not later than the date payments would have begun under the contract exchanged, or (B) for an annuity contract, or (C) for a qualified long-term care insurance contract;
 
@@ -38,13 +38,15 @@ To the extent provided in regulations, subsection (a) shall not apply to any exc
 
 &emsp;&emsp;<b>(2) For rules relating to the basis of property acquired in an exchange described in subsection (a), see subsection (d) of section 1031.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 309; Pub. L. 98–369, div. A, title II, §§211(b)(15), 224(a), July 18, 1984, 98 Stat. 756, 776; Pub. L. 99–514, title XVIII, §1828, Oct. 22, 1986, 100 Stat. 2851; Pub. L. 105–34, title XI, §1131(b)(1), Aug. 5, 1997, 111 Stat. 979; Pub. L. 109–280, title VIII, §844(b), Aug. 17, 2006, 120 Stat. 1010.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 309; Pub. L. 98–369, div. A, title II, §§211(b)(15), 224(a), July 18, 1984, 98 Stat. 756, 776; Pub. L. 99–514, title XVIII, §1828, Oct. 22, 1986, 100 Stat. 2851; Pub. L. 105–34, title XI, §1131(b)(1), Aug. 5, 1997, 111 Stat. 979; Pub. L. 109–280, title VIII, §844(b), Aug. 17, 2006, 120 Stat. 1010; Pub. L. 115–141, div. U, title IV, §401(a)(168), Mar. 23, 2018, 132 Stat. 1192.)
 
 #### Codification
 
 Another section 1131(b) of Pub. L. 105–34 enacted section 684 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–141 struck out "or" after semicolon at end.
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, §844(b)(3)(A), which directed amendment by inserting "or for a qualified long-term care insurance contract" before semicolon "at the end", was executed by making the insertion before "; or" to reflect the probable intent of Congress.
 
@@ -72,7 +74,7 @@ Amendment by Pub. L. 109–280 applicable to contracts issued after Dec. 31, 199
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions ofthe Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -82,7 +84,5 @@ Pub. L. 98–369, div. A, title II, §224(b), July 18, 1984, 98 Stat. 776, provi
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-<i><sup>1</sup></i><i> So in original. The word "or" probably should not appear.</i>
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

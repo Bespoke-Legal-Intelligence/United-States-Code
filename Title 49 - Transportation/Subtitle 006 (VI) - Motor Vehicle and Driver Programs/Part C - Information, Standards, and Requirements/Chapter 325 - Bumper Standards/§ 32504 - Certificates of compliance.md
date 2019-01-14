@@ -1,6 +1,6 @@
 ### §32504. Certificates of compliance
 
-Under regulations prescribed by the Secretary of Transportation, a manufacturer or distributor of a passenger motor vehicle or passenger motor vehicle equipment subject to a standard prescribed under section 32502 of this title shall give the distributor or dealer at the time of delivery a certificate that the vehicle or equipment complies with the standard.
+Under regulations prescribed by the Secretary of Transportation, a manufacturer or distributorof a passenger motor vehicle or passenger motor vehicle equipment subject to a standard prescribed under section 32502 of this title shall give the distributor or dealer at the time of delivery a certificate that the vehicle or equipment complies with the standard.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1044.)
 

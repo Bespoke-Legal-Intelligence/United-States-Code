@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-An individual convicted (under Federal or State law) of any offense which is classified as a felony by the law of the jurisdiction involved and which has as an element the possession, use,or distribution of a controlled substance (as defined in section 802(6) of this title) shall not be eligible for—
+An individual convicted (under Federal or State law) of any offense which is classified as a felony by the law of the jurisdiction involved and which has as an element the possession, use, or distribution of a controlled substance (as defined in section 802(6) of this title) shall not be eligible for—
 
 &emsp;(1) assistance under any State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], or
 
@@ -44,7 +44,7 @@ For purposes of this section, the term "State" has the meaning given it—
 
 &emsp;(1) in section 419(5) of the Social Security Act \[42 U.S.C. 619(5)\], when referring to assistance provided under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], and
 
-&emsp;(2) in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012), when referring to the supplemental nutrition assistance program (as defined in that section) or any State program carried out under that Act \[7 U.S.C. 2011 et seq.\].
+&emsp;(2) in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012), when referring to thesupplemental nutrition assistance program (as defined in that section) or any State program carried out under that Act \[7 U.S.C. 2011 et seq.\].
 
 #### (f) Rule of interpretation
 

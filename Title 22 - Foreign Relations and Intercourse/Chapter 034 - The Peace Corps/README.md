@@ -8,6 +8,7 @@
 | [2502\.](%C2%A7%2002502%20-%20Presidential%20authorization%3B%20appropriations%20and%20financial%20readjustments.md) | Presidential authorization; appropriations and financial readjustments. |
 | [2503\.](%C2%A7%2002503%20-%20Director%20and%20Deputy%20Director%3B%20delegation%20of%20functions.md) | Director and Deputy Director; delegation of functions. |
 | [2504\.](%C2%A7%2002504%20-%20Peace%20Corps%20volunteers.md) | Peace Corps volunteers. |
+| [2504a.](%C2%A7%2002504a%20-%20Health%20care%20for%20volunteers%20at%20Peace%20Corps%20posts.md) | Health care for volunteers at Peace Corps posts. |
 | [2505\.](%C2%A7%2002505%20-%20Peace%20Corps%20volunteer%20leaders%3B%20number%3B%20applicability%20of%20chapter%3B%20benefits.md) | Peace Corps volunteer leaders; number; applicability of chapter; benefits. |
 | [2506\.](%C2%A7%2002506%20-%20Peace%20Corps%20employees.md) | Peace Corps employees. |
 | [2507\.](%C2%A7%2002507%20-%20Training%20program.md) | Training program. |
@@ -52,6 +53,7 @@
 - [&sect; 02502 - Presidential authorization; appropriations and financial readjustments](%C2%A7%2002502%20-%20Presidential%20authorization%3B%20appropriations%20and%20financial%20readjustments.md)
 - [&sect; 02503 - Director and Deputy Director; delegation of functions](%C2%A7%2002503%20-%20Director%20and%20Deputy%20Director%3B%20delegation%20of%20functions.md)
 - [&sect; 02504 - Peace Corps volunteers](%C2%A7%2002504%20-%20Peace%20Corps%20volunteers.md)
+- [&sect; 02504a - Health care for volunteers at Peace Corps posts](%C2%A7%2002504a%20-%20Health%20care%20for%20volunteers%20at%20Peace%20Corps%20posts.md)
 - [&sect; 02505 - Peace Corps volunteer leaders; number; applicability of chapter; benefits](%C2%A7%2002505%20-%20Peace%20Corps%20volunteer%20leaders%3B%20number%3B%20applicability%20of%20chapter%3B%20benefits.md)
 - [&sect; 02506 - Peace Corps employees](%C2%A7%2002506%20-%20Peace%20Corps%20employees.md)
 - [&sect; 02507 - Training program](%C2%A7%2002507%20-%20Training%20program.md)

@@ -86,7 +86,7 @@ In this section:
 
 #### (C) Distribution
 
-&emsp;&emsp;In awarding grants under this section, the Secretary shall, to the extent possible and consistent with the competitive process under which such grants are awarded, ensure maximum and equitable distribution among all eligible institutions.
+&emsp;&emsp;In awarding grants under this section, the Secretary shall, to the extent possible andconsistent with the competitive process under which such grants are awarded, ensure maximum and equitable distribution among all eligible institutions.
 
 #### (D) Minimum grant amount
 

@@ -42,7 +42,7 @@ In subsection (c), the words "This section does not" are substituted for the wor
 
 #### References in Text
 
-The Military Selective Service Act, referred to in subsec. (a), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§3801et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of Title 50 and Tables.
+The Military Selective Service Act, referred to in subsec. (a), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of Title 50 and Tables.
 
 #### Amendments
 

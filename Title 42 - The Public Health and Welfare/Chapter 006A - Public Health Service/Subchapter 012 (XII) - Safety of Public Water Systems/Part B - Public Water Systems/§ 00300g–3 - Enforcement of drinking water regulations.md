@@ -140,7 +140,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than January 1, 1998, and annually thereafter, each State that has primary enforcement responsibility under section 300g–2 of this title shall prepare, make readily available to the public, and submit to the Administrator an annual report on violations of national primary drinking water regulations by public water systems in the State, including violationswith respect to (I) maximum contaminant levels, (II) treatment requirements, (III) variances and exemptions, and (IV) monitoring requirements determined to be significant by the Administrator after consultation with the States.
+&emsp;&emsp;&emsp;Not later than January 1, 1998, and annually thereafter, each State that has primary enforcement responsibility under section 300g–2 of this title shall prepare, make readily available to the public, and submit to the Administrator an annual report on violations of national primary drinking water regulations by public water systems in the State, including violations with respect to (I) maximum contaminant levels, (II) treatment requirements, (III) variances and exemptions, and (IV) monitoring requirements determined to be significant by the Administrator after consultation with the States.
 
 #### (ii) Distribution
 
@@ -152,9 +152,9 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (4) Consumer confidence reports by community water systems
 
-#### (A) Annual reports to consumers
+#### (A) Reports to consumers
 
-&emsp;&emsp;The Administrator, in consultation with public water systems, environmental groups, public interest groups, risk communication experts, and the States, and other interested parties, shall issue regulations within 24 months after August 6, 1996, to require each community water system to mail to each customer of the system at least once annually a report on the level of contaminants in the drinking water purveyed by that system (referred to in this paragraph as a "consumer confidence report"). Such regulations shall provide a brief and plainly worded definition of the terms "maximum contaminant level goal", "maximum contaminant level", "variances", and "exemptions" and brief statements in plain language regarding the health concerns that resulted in regulation of each regulated contaminant. The regulations shall also include a brief and plainly worded explanation regarding contaminants that may reasonably be expected to be present in drinking water, including bottled water. The regulations shall also provide for an Environmental Protection Agency toll-free hotline that consumers can call for more information and explanation.
+&emsp;&emsp;The Administrator, in consultation with public water systems, environmental groups, public interest groups, risk communication experts, and the States, and other interested parties, shall issue regulations within 24 months after August 6, 1996, to require each community water system to mail, or provide by electronic means, to each customer of the system at least once annually a report on the level of contaminants in the drinking water purveyed by that system (referred to in this paragraph as a "consumer confidence report"). Such regulations shall provide a brief and plainly worded definition of the terms "maximum contaminant level goal", "maximum contaminant level", "variances", and "exemptions" and brief statements in plain language regarding the health concerns that resulted in regulation of each regulated contaminant. The regulations shall also include a brief and plainly worded explanation regarding contaminants that may reasonably be expected to be present in drinking water, including bottled water. The regulations shall also provide for an Environmental Protection Agency toll-free hotline that consumers can call for more information and explanation.
 
 #### (B) Contents of report
 
@@ -176,11 +176,17 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;&emsp;&emsp;(V) for any contaminant for which there has been a violation of the maximum contaminant level during the year concerned, a brief statement in plain language regarding the health concerns that resulted in regulation of the contaminant, as provided by the Administrator in regulations under subparagraph (A).
 
-&emsp;&emsp;&emsp;(iv) Information on compliance with national primary drinking water regulations, as required by the Administrator, and notice if the system is operating under a variance or exemption and the basis on which the variance or exemption was granted.
+&emsp;&emsp;&emsp;(iv) Information on compliance with national primary drinking water regulations, as required by the Administrator, including corrosion control efforts, and notice if the system is operating under a variance or exemption and the basis on which the variance or exemption was granted.
 
 &emsp;&emsp;&emsp;(v) Information on the levels of unregulated contaminants for which monitoring is required under section 300j–4(a)(2) of this title (including levels of cryptosporidium and radon where States determine they may be found).
 
 &emsp;&emsp;&emsp;(vi) A statement that the presence of contaminants in drinking water does not necessarily indicate that the drinking water poses a health risk and that more information about contaminants and potential health effects can be obtained by calling the Environmental Protection Agency hotline.
+
+&emsp;&emsp;&emsp;(vii) Identification of, if any—
+
+&emsp;&emsp;&emsp;&emsp;(I) exceedances described in paragraph (1)(D) for which corrective action has been required by the Administrator or the State (in the case of a State exercising primary enforcement responsibility for public water systems) during the monitoring period covered by the consumer confidence report; and
+
+&emsp;&emsp;&emsp;&emsp;(II) violations that occurred during the monitoring period covered by the consumer confidence report.
 
 > &emsp;&emsp;A public water system may include such additional information as it deems appropriate for public education. The Administrator may, for not more than 3 regulated contaminants other than those referred to in clause (iii)(V), require a consumer confidence report under this paragraph to include the brief statement in plain language regarding the health concerns that resulted in regulation of the contaminant or contaminants concerned, as provided by the Administrator in regulations under subparagraph (A).
 
@@ -188,7 +194,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;The Governor of a State may determine not to apply the mailing requirement of subparagraph (A) to a community water system serving fewer than 10,000 persons. Any such system shall—
 
-&emsp;&emsp;&emsp;(i) inform, in the newspaper notice required by clause (iii) or by other means,its customers that the system will not be mailing the report as required by subparagraph (A);
+&emsp;&emsp;&emsp;(i) inform, in the newspaper notice required by clause (iii) or by other means, its customers that the system will not be mailing the report as required by subparagraph (A);
 
 &emsp;&emsp;&emsp;(ii) make the consumer confidence report available upon request to the public; and
 
@@ -205,6 +211,24 @@ The Administrator may bring a civil action in the appropriate United States dist
 #### (E) Alternative form and content
 
 &emsp;&emsp;A State exercising primary enforcement responsibility may establish, by rule, after notice and public comment, alternative requirements with respect to the form and content of consumer confidence reports under this paragraph.
+
+#### (F) Revisions
+
+#### (i) Understandability and frequency
+
+&emsp;&emsp;&emsp;Not later than 24 months after October 23, 2018, the Administrator, in consultation with the parties identified in subparagraph (A), shall issue revisions to the regulations issued under subparagraph (A)—
+
+&emsp;&emsp;&emsp;&emsp;(I) to increase—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the readability, clarity, and understandability of the information presented in consumer confidence reports; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the accuracy of information presented, and risk communication, in consumer confidence reports; and
+
+&emsp;&emsp;&emsp;&emsp;(II) with respect to community water systems that serve 10,000 or more persons, to require each such community water system to provide, by mail, electronic means, or other methods described in clause (ii), a consumer confidence report to each customer of the system at least biannually.
+
+#### (ii) Electronic delivery
+
+&emsp;&emsp;&emsp;Any revision of regulations pursuant to clause (i) shall allow delivery of consumer confidence reports by methods consistent with methods described in the memorandum "Safe Drinking Water Act–Consumer Confidence Report Rule Delivery Options" issued by the Environmental Protection Agency on January 3, 2013.
 
 #### (5) Exceedance of lead level at households
 
@@ -244,7 +268,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;&emsp;The Administrator shall, as soon as practicable, disseminate to affected households the information described in subparagraph (C) if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the owner or operator of the public water system does not disseminate the information to the affected householdswithin the time period determined by the Administrator, as required by clause (ii); and
+&emsp;&emsp;&emsp;&emsp;(I) the owner or operator of the public water system does not disseminate the information to the affected households within the time period determined by the Administrator, as required by clause (ii); and
 
 &emsp;&emsp;&emsp;&emsp;(II)(aa) the Administrator and the applicable Governor do not agree on a plan described in clause (iii)(I) during the consultation period under that clause; or
 
@@ -304,19 +328,79 @@ If the Administrator makes a finding of noncompliance (described in subparagraph
 
 &emsp;&emsp;(A) the physical consolidation of the system with 1 or more other systems;
 
-&emsp;&emsp;(B) the consolidation of significant management and administrative functions of the system with 1 or more other systems; or
+&emsp;&emsp;(B) the consolidation of significant management and administrative functions of the system with 1 or more other systems;
 
-&emsp;&emsp;(C) the transfer of ownership of the system that may reasonably be expected to improve drinking water quality.
+&emsp;&emsp;(C) the transfer of ownership of the system that may reasonably be expected to improve drinking water quality; or
+
+&emsp;&emsp;(D) entering into a contractual agreement for significant management or administrative functions of the system to correct violations identified in the plan.
 
 #### (2) Consequences of approval
 
 &emsp;If the State or the Administrator approves a plan pursuant to paragraph (1), no enforcement action shall be taken pursuant to this part with respect to a specific violation identified in the approved plan prior to the date that is the earlier of the date on which consolidation is completed according to the plan or the date that is 2 years after the plan is approved.
 
+#### (3) Authority for mandatory assessment
+
+#### (A) Authority
+
+&emsp;&emsp;A State with primary enforcement responsibility or the Administrator (if the State does not have primary enforcement responsibility) may require the owner or operator of a public water system to assess options for consolidation, or transfer of ownership of the system, as described in paragraph (1), or other actions expected to achieve compliance with national primary drinking water regulations described in clause (i)(I), if—
+
+&emsp;&emsp;&emsp;(i) the public water system—
+
+&emsp;&emsp;&emsp;&emsp;(I) has repeatedly violated one or more national primary drinking water regulations and such repeated violations are likely to adversely affect human health; and
+
+&emsp;&emsp;&emsp;&emsp;(II)(aa) is unable or unwilling to take feasible and affordable actions, as determined by the State with primary enforcement responsibility or the Administrator (if the State does not have primary enforcement responsibility), that will result in the public water system complying with the national primary drinking water regulations described in subclause (I), including accessing technical assistance and financial assistance through the State loan fund pursuant to section 300j–12 of this title; or
+
+&emsp;&emsp;&emsp;&emsp;(bb) has already undertaken actions described in item (aa) without achieving compliance;
+
+&emsp;&emsp;&emsp;(ii) such consolidation, transfer, or other action is feasible; and
+
+&emsp;&emsp;&emsp;(iii) such consolidation, transfer, or other action could result in greater compliance with national primary drinking water regulations.
+
+#### (B) Tailoring of assessments
+
+&emsp;&emsp;Requirements for any assessment to be conducted pursuant to subparagraph (A) shall be tailored with respect to the size, type, and characteristics, of the public water system to be assessed.
+
+#### (C) Approved entities
+
+&emsp;&emsp;An assessment conducted pursuant to subparagraph (A) may be conducted by an entity approved by the State requiring such assessment (or the Administrator, if the State does not have primary enforcement responsibility), which may include such State (or the Administrator, as applicable), the public water system, or a third party.
+
+#### (D) Burden of assessments
+
+&emsp;&emsp;It is the sense of Congress that any assessment required pursuant to subparagraph (A) should not be overly burdensome on the public water system that is assessed.
+
+#### (4) Financial assistance
+
+&emsp;Notwithstanding section 300j–12(a)(3) of this title, a public water system undertaking consolidation or transfer of ownership or other actions pursuant to an assessment completed under paragraph (3) may receive a loan described in section 300j–12(a)(2)(A) of this title to carry out such consolidation, transfer, or other action.
+
+#### (5) Protection of nonresponsible system
+
+#### (A) Identification of liabilities
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;An owner or operator of a public water system that submits a plan pursuant to paragraph (1) based on an assessment conducted with respect to such public water system under paragraph (3) shall identify as part of such plan—
+
+&emsp;&emsp;&emsp;&emsp;(I) any potential and existing liability for penalties and damages arising from each specific violation identified in the plan of which the owner or operator is aware; and
+
+&emsp;&emsp;&emsp;&emsp;(II) any funds or other assets that are available to satisfy such liability, as of the date of submission of such plan, to the public water system that committed such violation.
+
+#### (ii) Inclusion
+
+&emsp;&emsp;&emsp;In carrying out clause (i), the owner or operator shall take reasonable steps to ensure that all potential and existing liabilities for penalties and damages arising from each specific violation identified in the plan are identified.
+
+#### (B) Reservation of funds
+
+&emsp;&emsp;A public water system that, consistent with the findings of an assessment conducted pursuant to paragraph (3), has completed the actions under a plan submitted and approved pursuant to this subsection shall not be liable under this subchapter for a violation of this subchapter identified in the plan, except to the extent to which funds or other assets are identified pursuant to subparagraph (A)(i)(II) as available to satisfy such liability.
+
+#### (6) Regulations
+
+&emsp;Not later than 2 years after October 23, 2018, the Administrator shall promulgate regulations to implement paragraphs (3), (4), and (5).
+
 #### (i) "Applicable requirement" defined
 
 In this section, the term "applicable requirement" means—
 
-&emsp;(1) a requirement of section 300g–1, 300g–3, 300g–4, 300g–5, 300g–6 <sup>1</sup> 300i–2, 300j, or 300j–4 of this title;
+&emsp;(1) a requirement of section 300g–1, 300g–3, 300g–4, 300g–5, 300g–6, 300i–2, 300j, or 300j–4 of this title;
 
 &emsp;(2) a regulation promulgated pursuant to a section referred to in paragraph (1);
 
@@ -324,9 +408,57 @@ In this section, the term "applicable requirement" means—
 
 &emsp;(4) a requirement of, or permit issued under, an applicable State program for which the Administrator has made a determination that the requirements of section 300g–2 of this title have been satisfied, or an applicable State program approved pursuant to this part.
 
-(July 1, 1944, ch. 373, title XIV, §1414, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1666; amended Pub. L. 95–190, §12(b), Nov. 16, 1977, 91 Stat. 1398; Pub. L. 99–339, title I, §§102, 103, June 19, 1986, 100 Stat. 647, 648; Pub. L. 104–182, title I, §§113(a), 114(a), Aug. 6, 1996, 110 Stat. 1634, 1636; Pub. L. 107–188, title IV, §403(1), June 12, 2002, 116 Stat. 687; Pub. L. 114–322, title II, §2106(a), Dec. 16, 2016, 130 Stat. 1722.)
+#### (j) Improved accuracy and availability of compliance monitoring data
+
+#### (1) Strategic plan
+
+&emsp;Not later than 1 year after October 23, 2018, the Administrator, in coordination with States (including States without primary enforcement responsibility under section 300g–2 of this title), public water systems, and other interested stakeholders, shall develop and provide to Congress a strategic plan for improving the accuracy and availability of monitoring data collected to demonstrate compliance with national primary drinking water regulations and submitted—
+
+&emsp;&emsp;(A) by public water systems to States; or
+
+&emsp;&emsp;(B) by States to the Administrator.
+
+#### (2) Evaluation
+
+&emsp;In developing the strategic plan under paragraph (1), the Administrator shall evaluate any challenges faced—
+
+&emsp;&emsp;(A) in ensuring the accuracy and integrity of submitted data described in paragraph (1);
+
+&emsp;&emsp;(B) by States and public water systems in implementing an electronic system for submitting such data, including the technical and economic feasibility of implementing such a system; and
+
+&emsp;&emsp;(C) by users of such electronic systems in being able to access such data.
+
+#### (3) Findings and recommendations
+
+&emsp;The Administrator shall include in the strategic plan provided to Congress under paragraph (1)—
+
+&emsp;&emsp;(A) a summary of the findings of the evaluation under paragraph (2); and
+
+&emsp;&emsp;(B) recommendations on practicable, cost-effective methods and means that can be employed to improve the accuracy and availability of submitted data described in paragraph (1).
+
+#### (4) Consultation
+
+&emsp;In developing the strategic plan under paragraph (1), the Administrator may, as appropriate, consult with States or other Federal agencies that have experience using practicable methods and means to improve the accuracy and availability of submitted data described in such paragraph.
+
+(July 1, 1944, ch. 373, title XIV, §1414, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1666; amended Pub. L. 95–190, §12(b), Nov. 16, 1977, 91 Stat. 1398; Pub. L. 99–339, title I, §§102, 103, June 19, 1986, 100 Stat. 647, 648; Pub. L. 104–182, title I, §§113(a), 114(a), Aug. 6, 1996, 110 Stat. 1634, 1636; Pub. L. 107–188, title IV, §403(1), June 12, 2002, 116 Stat. 687; Pub. L. 114–322, title II, §2106(a), Dec. 16, 2016, 130 Stat. 1722; Pub. L. 115–270, title II, §§2008–2010(a), 2011, Oct. 23, 2018, 132 Stat. 3846, 3847, 3849.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(4)(A). Pub. L. 115–270, §2008(1), (2), substituted "Reports" for "Annual reports" in heading and inserted ", or provide by electronic means," after "to mail" in text.
+
+Subsec. (c)(4)(B)(iv). Pub. L. 115–270, §2008(3)(A), substituted "the Administrator, including corrosion control efforts, and" for "the Administrator, and".
+
+Subsec. (c)(4)(B)(vii). Pub. L. 115–270, §2008(3)(B), which directed amendment of subpar. (B) by adding cl. (vii) at the end, was executed by adding cl. (vii) after cl. (vi) and before concluding provisions, to reflect the probable intent of Congress.
+
+Subsec. (c)(4)(F). Pub. L. 115–270, §2008(4), added subpar. (F).
+
+Subsec. (h)(1)(D). Pub. L. 115–270, §2009(a), added subpar. (D).
+
+Subsec. (h)(3) to (6). Pub. L. 115–270, §2010(a), added pars. (3) to (6).
+
+Subsec. (i)(1). Pub. L. 115–270, §2009(b), inserted a comma after "300g–6".
+
+Subsec. (j). Pub. L. 115–270, §2011, added subsec. (j).
 
 <b>2016</b>—Subsec. (c). Pub. L. 114–322, §2106(a)(1), substituted "Notice to States, the Administrator, and" for "Notice to" in heading.
 
@@ -405,6 +537,4 @@ Subsec. (c). Pub. L. 99–339, §103, substituted provisions relating to amendme
 Subsec. (g). Pub. L. 99–339, §102(d), added subsec. (g).
 
 <b>1977</b>—Subsec. (c). Pub. L. 95–190 inserted provisions relating to frequency of required notice, and notice respecting contaminant levels, and substituted "issued under this subsection" for "thereunder".
-
-<i><sup>1</sup></i><i> So in original. There probably should be a comma.</i>
 

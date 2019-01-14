@@ -118,7 +118,7 @@ Lands to be conveyed to kna.—The rights provided or lands to be conveyed by th
 
 &emsp;&emsp;&emsp;"(iv) The nonexclusive right to excavate within the subsurface estate as reasonably necessary for structures, utilities, transportation systems, and other development of the surface estate on the SW¼, section 21, T. 6 N., R. 9 W., Seward Meridian, Alaska, where the entire subsurface of the land is owned by the United States and which public lands shall continue to be withdrawn from mining following their removal from the Refuge boundary under paragraph (3)(A)(ii). The United States shall retain the ownership of all other sand and gravel located within the subsurface of this parcel.
 
-&emsp;&emsp;&emsp;"(v) The surface estate of approximately 280 acres known as the Beaver Creek Selected Tract.This tract shall be conveyed to KNA in exchange for lands conveyed to the United States as described in paragraph (2)(A)(ii).
+&emsp;&emsp;&emsp;"(v) The surface estate of approximately 280 acres known as the Beaver Creek Selected Tract. This tract shall be conveyed to KNA in exchange for lands conveyed to the United States as described in paragraph (2)(A)(ii).
 
 &emsp;&emsp;"(C)
 
@@ -196,7 +196,7 @@ Access.—The Secretary shall allow the following:
 
 &emsp;&emsp;"(A) Private access for any purpose, including economic development, to lands within the boundaries of the Special Management Area which are owned by third parties or are held in trust by the Secretary for third parties pursuant to the Alaska Native Allotment Act (25 U.S.C. 336). Such rights may be subject to restrictions issued by the BLM to protect subsistence uses of the Special Management Area.
 
-&emsp;&emsp;"(B) Existing public access across the Special Management Area. Section 1110(a) of ANILCA \[16 U.S.C. 3170(a)\] shall apply to the Special Management Area.
+&emsp;&emsp;"(B) Existing public access across the Special Management Area. Section 1110(a) of ANILCA \[16U.S.C. 3170(a)\] shall apply to the Special Management Area.
 
 &emsp;"(4)
 

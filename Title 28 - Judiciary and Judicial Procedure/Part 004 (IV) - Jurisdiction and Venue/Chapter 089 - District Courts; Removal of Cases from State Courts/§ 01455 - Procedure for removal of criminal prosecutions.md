@@ -14,7 +14,7 @@ Requirements.—(1) A notice of removal of a criminal prosecution shall be filed
 
 (4) The United States district court in which such notice is filed shall examine the notice promptly. If it clearly appears on the face of the notice and any exhibits annexed thereto that removal should not be permitted, the court shall make an order for summary remand.
 
-(5) If the United States district court does not order the summary remand of such prosecution, it shall order an evidentiary hearing to be held promptly and, after such hearing, shall make such disposition of the prosecution as justice shall require. If the United States district court determines that removal shall be permitted, it shall so notify the State court in which prosecution is pending, which shall proceed no further.
+(5) If the United States district court does not order the summary remand of such prosecution, it shall order an evidentiary hearing to be held promptly and, after such hearing, shall make such disposition of the prosecution as justice shall require. If the United States district courtdetermines that removal shall be permitted, it shall so notify the State court in which prosecution is pending, which shall proceed no further.
 
 (c)
 

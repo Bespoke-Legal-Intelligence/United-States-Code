@@ -64,7 +64,7 @@ In this section:
 
 #### (B) Federal funds
 
-&emsp;&emsp;After the qualified entity has deposited the non-Federal matching funds described in subparagraph (A) in the reserve fund, the Secretary shall provide the total amount of the grant awarded under this section to the demonstration program for deposit in the reserve fund.
+&emsp;&emsp;After the qualified entity has deposited the non-Federal matching funds described insubparagraph (A) in the reserve fund, the Secretary shall provide the total amount of the grant awarded under this section to the demonstration program for deposit in the reserve fund.
 
 #### (C) Use of funds
 
@@ -94,7 +94,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;A qualified entity receiving a grant under this section shall establish and administerindividual development accounts for eligible participants.
+&emsp;&emsp;A qualified entity receiving a grant under this section shall establish and administer individual development accounts for eligible participants.
 
 #### (B) Contract requirements
 
@@ -184,7 +184,7 @@ In this section:
 
 #### (5) Term of authority
 
-&emsp;If the Secretary approves an application to carry out a demonstration program, the Secretary shall authorize the applicant to carry out the project for a period of 5 years, plus anadditional 2 years to make eligible expenditures in accordance with subsection (b)(5)(B).
+&emsp;If the Secretary approves an application to carry out a demonstration program, the Secretary shall authorize the applicant to carry out the project for a period of 5 years, plus an additional 2 years to make eligible expenditures in accordance with subsection (b)(5)(B).
 
 #### (d) Grant authority
 
@@ -248,9 +248,9 @@ In carrying out this section, the Secretary may promulgate regulations to ensure
 
 #### (h) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2018.
+There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2023.
 
-(Pub. L. 87–128, title III, §333B, as added Pub. L. 110–234, title V, §5301, May 22, 2008, 122 Stat. 1147, and Pub. L. 110–246, §4(a), title V, §5301, June 18, 2008, 122 Stat. 1664, 1908; Pub. L. 113–79, title V, §5301, Feb. 7, 2014, 128 Stat. 839.)
+(Pub. L. 87–128, title III, §333B, as added Pub. L. 110–234, title V, §5301, May 22, 2008, 122 Stat. 1147, and Pub. L. 110–246, §4(a), title V, §5301, June 18, 2008, 122 Stat. 1664, 1908; amended Pub. L. 113–79, title V, §5301, Feb. 7, 2014, 128 Stat. 839; Pub. L. 115–334, title V, §5301, Dec. 20, 2018, 132 Stat. 4671.)
 
 #### References in Text
 
@@ -265,6 +265,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 1983b, Pub. L. 87–128, title III, §333B, as added Pub. L. 99–198, title XIII, §1313(a), Dec. 23, 1985, 99 Stat. 1525; amended Pub. L. 100–233, title VI, §608, Jan. 6, 1988, 101 Stat. 1667; Pub. L. 101–624, title XVIII, §1812, Nov. 28, 1990, 104 Stat. 3821, related to appeals from adverse decisions under the Consolidated Farm and Rural Development Act, prior to repeal by Pub. L. 103–354, title II, §281(c), Oct. 13, 1994, 108 Stat. 3233. See section 6991 et seq. of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (h). Pub. L. 115–334 substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (h). Pub. L. 113–79 substituted "2018" for "2012".
 

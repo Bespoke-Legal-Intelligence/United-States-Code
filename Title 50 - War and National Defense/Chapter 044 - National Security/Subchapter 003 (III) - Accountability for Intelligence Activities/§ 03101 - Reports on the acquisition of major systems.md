@@ -6,7 +6,7 @@ In this section:
 
 &emsp;(1) The term "cost estimate"—
 
-&emsp;&emsp;(A) means an assessment and quantification of all costs and risks associated with the acquisition of a major system basedupon reasonably available information at the time the Director establishes the 2010 adjusted total acquisition cost for such system pursuant to subsection (h) or restructures such system pursuant to section 3102(c) of this title; and
+&emsp;&emsp;(A) means an assessment and quantification of all costs and risks associated with the acquisition of a major system based upon reasonably available information at the time the Director establishes the 2010 adjusted total acquisition cost for such system pursuant to subsection (h) or restructures such system pursuant to section 3102(c) of this title; and
 
 &emsp;&emsp;(B) does not mean an "independent cost estimate".
 

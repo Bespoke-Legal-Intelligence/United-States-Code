@@ -1,6 +1,6 @@
 ### §2830. Occupancy of substandard family housing units
 
-(a)(1) A member of the uniformed services with dependents may, without loss of the member's basic allowance for housing under section 403 of title 37, occupy a substandard family housing unit under the jurisdiction of the Secretary concerned.
+(a)(1) A member of the uniformed services with dependents may, without loss of the member'sbasic allowance for housing under section 403 of title 37, occupy a substandard family housing unit under the jurisdiction of the Secretary concerned.
 
 (2) Occupancy of a family housing unit under paragraph (1) shall be subject to a charge against the member's basic allowance for housing in the amount of the fair rental value of the housing unit. However, such a charge may not be made in an amount in excess of 75 percent of the amount of such allowance.
 

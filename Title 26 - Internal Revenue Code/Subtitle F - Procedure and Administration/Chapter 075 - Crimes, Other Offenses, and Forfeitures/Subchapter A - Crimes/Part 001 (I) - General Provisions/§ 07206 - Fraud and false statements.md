@@ -16,7 +16,7 @@ Any person who—
 
 #### (4) Removal or concealment with intent to defraud
 
-&emsp;Removes, deposits, or conceals, or is concerned in removing, depositing, or concealing, any goods or commodities for or in respect whereof any tax is or shall be imposed, or any property upon which levy is authorized by section 6331, with intent to evade or defeat the assessment or collection of any tax imposed by this title; or
+&emsp;Removes, deposits, or conceals, or is concerned in removing, depositing, or concealing, any goods or commodities for or in respectwhereof any tax is or shall be imposed, or any property upon which levy is authorized by section 6331, with intent to evade or defeat the assessment or collection of any tax imposed by this title; or
 
 #### (5) Compromises and closing agreements
 

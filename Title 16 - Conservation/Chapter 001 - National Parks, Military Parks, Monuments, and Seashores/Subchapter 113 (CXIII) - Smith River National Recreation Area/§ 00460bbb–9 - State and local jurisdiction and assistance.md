@@ -6,7 +6,7 @@ Nothing in this subchapter shall diminish, enlarge, or modify any right of the S
 
 #### (b) Cooperative agreements
 
-The Secretary is authorized and encouraged to enter into cooperative agreements with the State of California or its political subdivisions for—
+The Secretary is authorized and encouraged to enter into cooperative agreements with theState of California or its political subdivisions for—
 
 &emsp;(1) the rendering on a reimbursable basis, of rescue, firefighting, and law enforcement services and cooperative assistance by nearby law enforcement and fire prevention agencies; and
 

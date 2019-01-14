@@ -22,7 +22,7 @@ Vocational rehabilitation services provided under this subchapter are any servic
 
 &emsp;&emsp;(C) prosthetic and orthotic devices;
 
-&emsp;&emsp;(D) eyeglasses and visual services as prescribed by qualified personnel who meetState licensure laws and who are selected by the individual;
+&emsp;&emsp;(D) eyeglasses and visual services as prescribed by qualified personnel who meet State licensure laws and who are selected by the individual;
 
 &emsp;&emsp;(E) special services (including transplantation and dialysis), artificial kidneys, and supplies necessary for the treatment of individuals with end-stage renal disease; and
 
@@ -98,7 +98,7 @@ Vocational rehabilitation services provided for the benefit of groups of individ
 
 The Social Security Act, referred to in subsec. (b)(7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Assistive Technology Act of 1998, referred to in subsec. (b)(8), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Assistive Technology Act of 1998, referred to in subsec. (b)(8), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§3001 et seq.) of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 #### Prior Provisions
 

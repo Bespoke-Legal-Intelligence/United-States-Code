@@ -120,7 +120,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 #### (iv) Construction
 
-&emsp;&emsp;&emsp;The Secretary shall not require an individual or entity that provides child care services for which assistance is provided in accordance with this subchapter to acquirea credential to provide such services. Nothing in this section shall be construed to prohibit a State from requiring a credential.
+&emsp;&emsp;&emsp;The Secretary shall not require an individual or entity that provides child care services for which assistance is provided in accordance with this subchapter to acquire a credential to provide such services. Nothing in this section shall be construed to prohibit a State from requiring a credential.
 
 #### (H) Child-to-provider ratio standards
 
@@ -188,7 +188,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 &emsp;&emsp;&emsp;&emsp;(III) require the ratio of licensing inspectors to such child care providers and facilities in the State to be maintained at a level sufficient to enable the State to conduct inspections of such child care providers and facilities on a timely basis in accordance with Federal, State, and local law; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) require licensing inspectors (or qualified inspectors designated by the lead agency) of child care providers and facilities to perform an annual inspection of each license-exempt provider in the State receiving funds under this subchapter (unless the provider is an eligible child care provider as described in section 9858n(6)(B) of this title) for compliance with health, safety, and fire standards, at a time to be determined by the State.
+&emsp;&emsp;&emsp;&emsp;(IV) require licensing inspectors (or qualified inspectors designated by thelead agency) of child care providers and facilities to perform an annual inspection of each license-exempt provider in the State receiving funds under this subchapter (unless the provider is an eligible child care provider as described in section 9858n(6)(B) of this title) for compliance with health, safety, and fire standards, at a time to be determined by the State.
 
 #### (ii) Construction
 
@@ -242,7 +242,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 #### (ii) Optional use of combined funds
 
-&emsp;&emsp;&emsp;If the State elects to combine funding for the services supported to carry out this subchapter with funding for any program described in clause (i), the plan shall describe how the State will combine the multiple sets of funding and use the combined funding.
+&emsp;&emsp;&emsp;If the State elects to combine funding for the services supported to carry out this subchapter with funding for any programdescribed in clause (i), the plan shall describe how the State will combine the multiple sets of funding and use the combined funding.
 
 #### (iii) Rule of construction
 
@@ -356,7 +356,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Not later than September 30 of the first full fiscal year after November 19, 2014, and September 30 of each fiscal year thereafter, the Secretary (actingthrough the Assistant Secretary for Children and Families of the Department of Health and Human Services) shall prepare a report that contains a determination about whether each State uses amounts provided to such State for the fiscal year involved under this subchapter in accordance with the priority for services described in clause (i).
+&emsp;&emsp;&emsp;&emsp;Not later than September 30 of the first full fiscal year after November 19, 2014, and September 30 of each fiscal year thereafter, the Secretary (acting through the Assistant Secretary for Children and Families of the Department of Health and Human Services) shall prepare a report that contains a determination about whether each State uses amounts provided to such State for the fiscal year involved under this subchapter in accordance with the priority for services described in clause (i).
 
 #### (II) Penalty for noncompliance
 
@@ -400,7 +400,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 #### (D) Assistance for certain families
 
-&emsp;&emsp;A State shall ensure that a substantial portion of the amounts available (after the State has complied with the requirement of section 418(b)(2) of the Social Security Act \[42 U.S.C. 618(b)(2)\] with respect to each ofthe fiscal years 2015 through 2020 <sup>8</sup> to the State to carry out activities under this subchapter in each fiscal year is used to provide assistance to low-income working families including or in addition to families with children described in clause (i), (ii), (iii), or (iv) of paragraph (2)(M).
+&emsp;&emsp;A State shall ensure that a substantial portion of the amounts available (after the State has complied with the requirement of section 418(b)(2) of the Social Security Act \[42 U.S.C. 618(b)(2)\] with respect to each of the fiscal years 2015 through 2020 <sup>8</sup> to the State to carry out activities under this subchapter in each fiscal year is used to provide assistance to low-income working families including or in addition to families with children described in clause (i), (ii), (iii), or (iv) of paragraph (2)(M).
 
 #### (E) Direct services
 
@@ -408,7 +408,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 &emsp;&emsp;&emsp;(i) reserve the minimum amount required to be reserved under section 9858e of this title, and the funds for costs described in subparagraph (C); and
 
-&emsp;&emsp;&emsp;(ii) from the remainder, use not less than 70 percent to fund direct services (provided by the State) in accordance with paragraph (2)(A).
+&emsp;&emsp;&emsp;(ii) from the remainder, use not less than 70 percent to fund direct services (providedby the State) in accordance with paragraph (2)(A).
 
 #### (4) Payment rates
 
@@ -460,13 +460,13 @@ The State plan contained in the application under subsection (a) shall be design
 
 The Secretary shall approve an application that satisfies the requirements of this section.
 
-(Pub. L. 97–35, title VI, §658E, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–237; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §605, Aug. 22, 1996, 110 Stat. 2281; Pub. L. 105–33,title V, §5602(1), Aug. 5, 1997, 111 Stat. 645; Pub. L. 113–186, §5(a), (b), Nov. 19, 2014, 128 Stat. 1972; Pub. L. 114–95, title IX, §9215(p)(1), Dec. 10, 2015, 129 Stat. 2170.)
+(Pub. L. 97–35, title VI, §658E, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–237; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §605, Aug. 22, 1996, 110 Stat. 2281; Pub. L. 105–33, title V, §5602(1), Aug. 5, 1997, 111 Stat. 645; Pub. L. 113–186, §5(a), (b), Nov. 19, 2014, 128 Stat. 1972; Pub. L. 114–95, title IX, §9215(p)(1), Dec. 10, 2015, 129 Stat. 2170.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (c)(2)(E)(i)(IV), (ii)(I), (N)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Head Start Act, referred to in subsec. (c)(2)(E)(i)(IV), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+The Head Start Act, referred to in subsec. (c)(2)(E)(i)(IV), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see ShortTitle note set out under section 9801 of this title and Tables.
 
 The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (c)(2)(E)(i)(IV), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, which is classified principally to subchapter II (§8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of this title and Tables.
 

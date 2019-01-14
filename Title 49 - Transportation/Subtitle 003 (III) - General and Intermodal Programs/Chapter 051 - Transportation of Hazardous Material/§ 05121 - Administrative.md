@@ -62,7 +62,7 @@ Emergency Orders.—
 
 &emsp;(1)
 
-In general.—If, upon inspection, investigation, testing, or research, the Secretary determines that a violation of a provision of this chapter, or a regulation prescribed under this chapter, or an unsafe condition or practice, constitutes or is causing an imminent hazard, the Secretary may issue or impose emergency restrictions, prohibitions, recalls, or out-of-service orders, without notice or an opportunity for a hearing, but only to the extent necessary to abate the imminent hazard.
+In general.—If, upon inspection, investigation, testing, or research, the Secretary determines that a violation of a provision of this chapter, or a regulation prescribed underthis chapter, or an unsafe condition or practice, constitutes or is causing an imminent hazard, the Secretary may issue or impose emergency restrictions, prohibitions, recalls, or out-of-service orders, without notice or an opportunity for a hearing, but only to the extent necessary to abate the imminent hazard.
 
 &emsp;(2)
 
@@ -258,7 +258,7 @@ Subsec. (e). Pub. L. 103–311, §108, substituted "Report" for "Annual Report" 
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

@@ -50,11 +50,11 @@ Not to exceed $2,500,000 of the funds available for assistance under this chapte
 
 #### (e) Training costs
 
-Funds available under this chapter may be used to pay costs of training United States citizen personnel employed or assigned pursuant to section 2385(d)(2) <sup>3</sup> of this title (through interchange or otherwise) at any State or local unit of government, public or private nonprofit institution, trade, labor, agricultural, or scientific association or organization, or commercial firm; and the provisions of sections 1881 to 1888 <sup>3</sup> of title 7 may be used to carry out the foregoing authority notwithstanding that interchange of personnel may not be involved or that the training may not take place at the institutions specified in sections 1881 to 1888 <sup>3</sup> of title 7. Such training shall not be considered employment or holding of office under section 5533 of title 5, and any payments or contributions in connection therewith may, as deemed appropriate by the head of the agency of the United States Government authorizing such training, be made by private or public sources and be accepted by any trainee, or may be accepted by and credited to the current applicable appropriation of such agency: <i>Provided, however</i>, That any such payments to any employee in the nature of compensation shall be in lieu, or in reduction, of compensation received from the United States Government.
+Funds available under this chapter may be used to pay costs of training United States citizen personnel employed or assigned pursuant to section 2385(d)(2) <sup>1</sup> of this title (through interchange or otherwise) at any State or local unit of government, public or private nonprofit institution, trade, labor, agricultural, or scientific association or organization, or commercial firm; and the provisions of sections 1881 to 1888 <sup>1</sup> of title 7 may be used to carry out the foregoing authority notwithstanding that interchange of personnel may not be involved or that the training may not take place at the institutions specified in sections 1881 to 1888 <sup>1</sup> of title 7. Such training shall not be considered employment or holding of office under section 5533 of title 5, and any payments or contributions in connection therewith may, as deemed appropriate by the head of the agency of the United States Government authorizing such training, be made by private or public sources and be accepted by any trainee, or may be accepted by and credited to the current applicable appropriation of such agency: <i>Provided, however</i>, That any such payments to any employee in the nature of compensation shall be in lieu, or in reduction, of compensation received from the United States Government.
 
 #### (f) Assistance in carrying out functions under certain laws
 
-Funds made available under part I of subchapter I of this chapter may be used for expenses (other than those provided for under section 2397(a) of this title) to assist in carrying out functions under part I of subchapter I of this chapter, under the Food for Peace Act, asamended \[7 U.S.C. 1691 et seq.\], and under the Latin American Development Act, as amended, performed by the agency primarily responsible for administering subchapter I of this chapter or by the Corporation established under subpart IV of part II of subchapter I of this chapter with respect to loan activities which it carries out under the provisions of the Food for Peace Act, as amended.
+Funds made available under part I of subchapter I of this chapter may be used for expenses (other than those provided for under section 2397(a) of this title) to assist in carrying out functions under part I of subchapter I of this chapter, under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\], and under the Latin American Development Act, as amended, performed by the agency primarily responsible for administering subchapter I of this chapter or by the Corporation established under subpart IV of part II of subchapter I of this chapter with respect to loan activities which it carries out under the provisions of the Food for Peace Act, as amended.
 
 #### (g) Administrative, extraordinary, and operating expenses; reimbursement of military officers; training of foreign military personnel
 
@@ -72,7 +72,7 @@ In carrying out programs under this chapter, the President shall take all approp
 
 #### (i) Financing motor vehicle transactions; waiver of domestic manufacturing restriction
 
-Notwithstanding section 2399a <sup>4</sup> of this title or any other provision of this chapter, none of the funds made available to carry out this chapter shall be used to finance the purchase, sale, long-term lease, exchange, or guaranty of a sale of motor vehicles unless such motor vehicles are manufactured in the United States: <i>Provided</i>, That where special circumstances exist the President is authorized to waive the provisions of this section in order to carry out the purposes of this chapter.
+Notwithstanding section 2399a <sup>1</sup> of this title or any other provision of this chapter, none of the funds made available to carry out this chapter shall be used to finance the purchase, sale, long-term lease, exchange, or guaranty of a sale of motor vehicles unless such motor vehicles are manufactured in the United States: <i>Provided</i>, That where special circumstances exist the President is authorized to waive the provisions of this section in order to carry out the purposes of this chapter.
 
 (Pub. L. 87–195, pt. III, §636, Sept. 4, 1961, 75 Stat. 457; Pub. L. 88–205, pt. III, §302(f), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(h), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(j)–(o), Nov. 14, 1967, 81 Stat. 461, 462; Pub. L. 90–554, pt. III, §302(d), Oct. 8, 1968, 82 Stat. 965; Pub. L. 91–175, pt. III, §306, Dec. 30, 1969, 83 Stat. 821; Pub. L. 94–329, title I, §106(b)(5), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §102(g)(2)(H)–(J), title V, §505, Oct. 6, 1978, 92 Stat. 943, 960; Pub. L. 99–83, title XII, §1211(b)(1), Aug. 8, 1985, 99 Stat. 279; Pub. L. 99–234, title I, §107(b), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 99–550, §2(b), Oct. 27, 1986, 100 Stat. 3070; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214; Pub. L. 107–372, title II, §271(7), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
@@ -98,7 +98,7 @@ Section 2399a of this title, referred to in subsec. (i), was repealed by Pub. L.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set outas a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### References to Part I Deemed To Include Section 2293
 
@@ -182,13 +182,9 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The semicolon probably should be a period.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
 

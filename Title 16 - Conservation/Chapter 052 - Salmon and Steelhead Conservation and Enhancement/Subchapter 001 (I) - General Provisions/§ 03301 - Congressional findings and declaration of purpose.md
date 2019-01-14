@@ -4,7 +4,7 @@
 
 &emsp;(1) The stocks of salmon and steelhead which originate in the rivers of the conservation areas constitute valuable and renewable natural resources. Many groups of commercial, recreational, and treaty fishermen have historically depended upon these stocks of fish for their livelihoods and avocations. These fishery resources contribute to the food supply and economic health of the Pacific Northwest and the Nation as a whole, provide valuable recreational experiences for thousands of citizens from various parts of the United States and represent a central element of the cultures and economies of Indian tribes and the citizens of the Pacific Northwest.
 
-&emsp;(2) Over a period of several decades, competing uses of salmon and steelhead habitat and historical problems relating to conservationmeasures, the regulation of harvest and enhancement have depressed several of these stocks of salmon and steelhead.
+&emsp;(2) Over a period of several decades, competing uses of salmon and steelhead habitat and historical problems relating to conservation measures, the regulation of harvest and enhancement have depressed several of these stocks of salmon and steelhead.
 
 &emsp;(3) Improved management and enhancement planning and coordination among salmon and steelhead managers will help prevent a further decline of salmon and steelhead stocks and will assist in increasing the supply of these stocks.
 
@@ -62,7 +62,7 @@ Accelerated activities.—Accelerated research and development activities referr
 
 &emsp;"(3)
 
-Additional activities.—Additional research and development activities referred to in paragraph (1) may include research and development related to—
+Additional activities.—Additional research and development activities referred to in paragraph\(1) may include research and development related to—
 
 &emsp;&emsp;"(A) studies of juvenile salmon survival in spawning and rearing areas;
 
@@ -104,7 +104,7 @@ Management of Predation on Columbia/Snake River System Native Fishes.—
 
 &emsp;"(1)
 
-Nesting avian predators.—In conjunction with the Secretary of Commerce and the Secretary of the Interior, and consistent with a management plan to be developed by the United States Fish and Wildlife Service, the Secretary shall carry out methods to reduce nesting populations of avian predators ondredge spoil islands in the Columbia River under the jurisdiction of the Secretary.
+Nesting avian predators.—In conjunction with the Secretary of Commerce and the Secretary of the Interior, and consistent with a management plan to be developed by the United States Fish and Wildlife Service, the Secretary shall carry out methods to reduce nesting populations of avian predators on dredge spoil islands in the Columbia River under the jurisdiction of the Secretary.
 
 &emsp;"(2)
 

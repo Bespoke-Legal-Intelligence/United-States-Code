@@ -84,7 +84,7 @@ The National Health Security Strategy shall include provisions in furtherance of
 
 &emsp;&emsp;(B) promoting familiarity with local medical and public health systems.
 
-(July 1, 1944, ch. 373, title XXVIII, §2802, as added Pub. L. 109–417, title I, §103, Dec. 19, 2006, 120 Stat. 2835; amended Pub. L. 113–5, title I, §101(a), Mar. 13, 2013, 127 Stat. 162.)
+(July 1, 1944, ch. 373, title XXVIII, §2802, as added Pub. L. 109–417, title I, §103, Dec. 19, 2006,120 Stat. 2835; amended Pub. L. 113–5, title I, §101(a), Mar. 13, 2013, 127 Stat. 162.)
 
 #### References in Text
 
@@ -128,7 +128,7 @@ This policy would seek to: (1) mitigate illness and prevent death; (2) sustain c
 
 Sec. 2. <i>United States Postal Service Delivery of Medical Countermeasures</i>. (a) The U.S. Postal Service has the capacity for rapid residential delivery of medical countermeasures for self administration across all communities in the United States. The Federal Government shall pursue a national U.S. Postal Service medical countermeasures dispensing model to respond to a large-scale biological attack.
 
-(b) The Secretaries of Health and Human Services and Homeland Security, in coordination with the U.S.Postal Service, within 180 days of the date of this order, shall establish a national U.S. Postal Service medical countermeasures dispensing model for U.S. cities to respond to a large-scale biological attack, with anthrax as the primary threat consideration.
+(b) The Secretaries of Health and Human Services and Homeland Security, in coordination with the U.S. Postal Service, within 180 days of the date of this order, shall establish a national U.S. Postal Service medical countermeasures dispensing model for U.S. cities to respond to a large-scale biological attack, with anthrax as the primary threat consideration.
 
 (c) In support of the national U.S. Postal Service model, the Secretaries of Homeland Security, Health and Human Services, and Defense, and the Attorney General, in coordination with the U.S. Postal Service, and in consultation with State and local public health, emergency management, and law enforcement officials, within 180 days of the date of this order, shall develop an accompanying plan for supplementing local law enforcement personnel, as necessary and appropriate, with local Federal law enforcement, as well as other appropriate personnel, to escort U.S. Postal workers delivering medical countermeasures.
 

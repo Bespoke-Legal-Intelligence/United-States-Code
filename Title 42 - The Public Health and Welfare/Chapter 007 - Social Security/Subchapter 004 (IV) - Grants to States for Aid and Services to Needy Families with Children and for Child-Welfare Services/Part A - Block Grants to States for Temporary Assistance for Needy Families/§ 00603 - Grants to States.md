@@ -84,7 +84,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Of the amounts made available under subparagraph (D) for a fiscal year, the Secretary may not award more than $75,000,000 on a competitive basis to States, territories, Indian tribes and tribal organizations, and public and nonprofit community entities, including religious organizations, for activities promoting responsible fatherhood.
+&emsp;&emsp;&emsp;Of the amounts made available under subparagraph (D) for a fiscal year, the Secretary may not award more than $75,000,000 on a competitive basis to States, territories, Indian tribes and tribal organizations, and public and nonprofit community entities, including religious organizations,for activities promoting responsible fatherhood.
 
 #### (ii) Activities promoting responsible fatherhood
 
@@ -234,7 +234,7 @@
 
 &emsp;&emsp;&emsp;(ii) prescribe a performance threshold in such a manner so as to ensure that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the average annual total amount of grants to be made under this paragraphfor each bonus year equals $200,000,000; and
+&emsp;&emsp;&emsp;&emsp;(I) the average annual total amount of grants to be made under this paragraph for each bonus year equals $200,000,000; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the total amount of grants to be made under this paragraph for all bonus years equals $1,000,000,000.
 
@@ -282,7 +282,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) if the Governor of the State desires to have an agency other than a private industry council administer the funds provided under this subparagraph for the benefit of 1 or more service delivery areas in the State, contains an application to the Secretary of Labor for a waiver of clause (vii)(I) with respect to the area or areas in order to permit an alternate agency designated by the Governor to so administer the funds; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ff) describes how the State will ensure that a private industry council to which information is disclosed pursuant to section 603(a)(5)(K) <sup>3</sup> or 654A(f)(5) of this title has procedures for safeguarding the information and for ensuring that the information is used solely for the purpose described in that section.
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) describes how the State will ensure that a private industry council to which information is disclosed pursuant to section 603(a)(5)(K) <sup>3</sup> or 654A(f)(5) of this title has procedures for safeguarding the information and for ensuring that the information is usedsolely for the purpose described in that section.
 
 &emsp;&emsp;&emsp;&emsp;(II) The State has provided to the Secretary of Labor an estimate of the amount that the State intends to expend during the period permitted under subparagraph (C)(vii) of this paragraph for the expenditure of funds under the grant (excluding expenditures described in section 609(a)(7)(B)(iv) of this title (other than subclause (III) thereof)) pursuant to this paragraph.
 
@@ -356,7 +356,7 @@
 
 #### (I) Private industry councils
 
-&emsp;&emsp;&emsp;&emsp;The private industry council for a service delivery area in a State shall have sole authority, in coordination with thechief elected official (as defined in section 3 of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3102\]) of the area, to expend the amounts distributed under clause (vi)(II)(aa) for the benefit of the service delivery area, in accordance with the assurances described in clause (ii)(I)(dd) provided by the Governor of the State.
+&emsp;&emsp;&emsp;&emsp;The private industry council for a service delivery area in a State shall have sole authority, in coordination with the chief elected official (as defined in section 3 of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3102\]) of the area, to expend the amounts distributed under clause (vi)(II)(aa) for the benefit of the service delivery area, in accordance with the assurances described in clause (ii)(I)(dd) provided by the Governor of the State.
 
 #### (II) Enforcement of coordination of expenditures with other expenditures under this part
 
@@ -474,7 +474,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) The minor child is eligible for, or is receiving, assistance under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\], benefits under the supplemental security income program under subchapter XVI of this chapter, medical assistance under subchapter XIX of this chapter, or child health assistance under subchapter XXI of this chapter.
 
-&emsp;&emsp;&emsp;&emsp;(III) In the case of a noncustodial parent who becomes enrolled in the project on or after November 29, 1999, the noncustodial parent is in compliance with the terms of an oral or written personal responsibility contract entered into among the noncustodial parent, the entity, and (unless the entity demonstrates to the Secretary that the entity is notcapable of coordinating with such agency) the agency responsible for administering the State plan under part D, which was developed taking into account the employment and child support status of the noncustodial parent, which was entered into not later than 30 (or, at the option of the entity, not later than 90) days after the noncustodial parent was enrolled in the project, and which, at a minimum, includes the following:
+&emsp;&emsp;&emsp;&emsp;(III) In the case of a noncustodial parent who becomes enrolled in the project on or after November 29, 1999, the noncustodial parent is in compliance with the terms of an oral or written personal responsibility contract entered into among the noncustodial parent, the entity, and (unless the entity demonstrates to the Secretary that the entity is not capable of coordinating with such agency) the agency responsible for administering the State plan under part D, which was developed taking into account the employment and child support status of the noncustodial parent, which was entered into not later than 30 (or, at the option of the entity, not later than 90) days after the noncustodial parent was enrolled in the project, and which, at a minimum, includes the following:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) A commitment by the noncustodial parent to cooperate, at the earliest opportunity, in the establishment of the paternity of the minor child, through voluntary acknowledgement or other procedures, and in the establishment of a child support order.
 
@@ -594,7 +594,7 @@
 
 #### (ii) Availability
 
-&emsp;&emsp;&emsp;The amounts made available pursuant to clause (i) shall remain available for suchperiod as is necessary to make the grants provided for in this paragraph.
+&emsp;&emsp;&emsp;The amounts made available pursuant to clause (i) shall remain available for such period as is necessary to make the grants provided for in this paragraph.
 
 #### (I) Worker protections
 
@@ -668,7 +668,7 @@
 
 #### (J) Information disclosure
 
-&emsp;&emsp;If a State to which a grant is made under this section establishes safeguards against the use or disclosure of information about applicants or recipients of assistance under the State program funded under this part, the safeguards shall not prevent the Stateagency administering the program from furnishing to a private industry council the names, addresses, telephone numbers, and identifying case number information in the State program funded under this part, of noncustodial parents residing in the service delivery area of the private industry council, for the purpose of identifying and contacting noncustodial parents regarding participation in the program under this paragraph.
+&emsp;&emsp;If a State to which a grant is made under this section establishes safeguards against the use or disclosure of information about applicants or recipients of assistance under the State program funded under this part, the safeguards shall not prevent the State agency administering the program from furnishing to a private industry council the names, addresses, telephone numbers, and identifying case number information in the State program funded under this part, of noncustodial parents residing in the service delivery area of the private industry council, for the purpose of identifying and contacting noncustodial parents regarding participation in the program under this paragraph.
 
 #### (b) Contingency Fund
 
@@ -724,7 +724,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (3), if the Secretary makes a payment to a State under this subsection in a fiscal year, then the State shall remit to the Secretary, within 1 year after the end of the first subsequent period of 3 consecutive months for which the State is not a needy State, an amount equal to the amount (if any) by which—
+&emsp;&emsp;Notwithstanding paragraph (3), if the Secretary makes a payment to a State underthis subsection in a fiscal year, then the State shall remit to the Secretary, within 1 year after the end of the first subsequent period of 3 consecutive months for which the State is not a needy State, an amount equal to the amount (if any) by which—
 
 &emsp;&emsp;&emsp;(i) the total amount paid to the State under paragraph (3) of this subsection in the fiscal year; exceeds
 
@@ -802,7 +802,7 @@
 
 &emsp;The Secretary shall annually report to the Congress on the status of the Fund.
 
-(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71; Pub. L. 107–147, title VI, §§616, 617, Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–40, §3(a), (c)–(e), June 30, 2003, 117 Stat. 836, 837; Pub. L. 108–89, title I, §101(b)(1), (2), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–210, §2(b), Mar. 31, 2004, 118 Stat. 564; Pub. L. 108–262, §2(b), June 30, 2004, 118 Stat. 696; Pub. L. 108–308, §2(b)(1), (2), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–4, §2(b), Mar. 25, 2005, 119 Stat. 17; Pub. L. 109–19, §2(b), July 1, 2005, 119 Stat. 344; Pub. L. 109–68, §2(b)(2)(A), (B), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–161, §2(b), Dec. 30, 2005, 119 Stat. 2958; Pub. L. 109–171, title VII, §§7101(b)(1), (2), 7103(a), Feb. 8, 2006, 120 Stat. 135, 138; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–275, title III, §301(b), July 15, 2008, 122 Stat. 2594; Pub. L. 111–5, div. B, title II, §§2101(a), 2102(b), Feb. 17, 2009, 123 Stat. 446, 449; Pub. L. 111–242, §131(b)(1), (2), Sept. 30, 2010, 124 Stat. 2612; Pub. L. 111–291, title VIII, §811(b)–(d), Dec. 8, 2010, 124 Stat. 3159; Pub. L. 112–96, title IV, §4002(a), (b), Feb. 22, 2012, 126 Stat. 194, 195; Pub. L. 112–275, §9(a), Jan. 14, 2013, 126 Stat. 2465; Pub. L. 113–128, title V, §512(dd)(1), July 22, 2014, 128 Stat. 1717; Pub. L. 115–31, div. M, title I, §102(a)(1), (2), (b), (c)(2), May 5, 2017, 131 Stat. 800, 803.)
+(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71; Pub. L. 107–147, title VI, §§616, 617, Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–40, §3(a), (c)–(e), June 30, 2003, 117 Stat. 836, 837; Pub. L. 108–89, title I, §101(b)(1), (2), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–210, §2(b), Mar. 31, 2004, 118 Stat. 564; Pub. L. 108–262, §2(b), June 30, 2004, 118 Stat. 696; Pub. L. 108–308, §2(b)(1), (2), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–4, §2(b), Mar. 25, 2005, 119 Stat. 17; Pub. L. 109–19, §2(b), July 1, 2005, 119 Stat. 344; Pub. L. 109–68, §2(b)(2)(A), (B), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–161, §2(b), Dec. 30, 2005, 119 Stat. 2958; Pub. L. 109–171, title VII, §§7101(b)(1), (2), 7103(a), Feb. 8, 2006, 120 Stat. 135, 138; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat.1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–275, title III, §301(b), July 15, 2008, 122 Stat. 2594; Pub. L. 111–5, div. B, title II, §§2101(a), 2102(b), Feb. 17, 2009, 123 Stat. 446, 449; Pub. L. 111–242, §131(b)(1), (2), Sept. 30, 2010, 124 Stat. 2612; Pub. L. 111–291, title VIII, §811(b)–(d), Dec. 8, 2010, 124 Stat. 3159; Pub. L. 112–96, title IV, §4002(a), (b), Feb. 22, 2012, 126 Stat. 194, 195; Pub. L. 112–275, §9(a), Jan. 14, 2013, 126 Stat. 2465; Pub. L. 113–128, title V, §512(dd)(1), July 22, 2014, 128 Stat. 1717; Pub. L. 115–31, div. M, title I, §102(a)(1), (2), (b), (c)(2), May 5, 2017, 131 Stat. 800, 803.)
 
 #### References in Text
 
@@ -912,7 +912,7 @@ Subsec. (b)(3)(C)(ii). Pub. L. 108–308, §2(b)(2), substituted "2005" for "200
 
 <b>2003</b>—Subsec. (a)(1)(A). Pub. L. 108–40, §3(a)(1), substituted "2002, and 2003" for "and 2002".
 
-Subsec. (a)(1)(B) to (E). Pub. L. 108–40, §3(a)(2), added subpars. (B) and (C) and struck out former subpars. (B) to (E) which related to, in subpar. (B), definition of "State family assistance grant", in subpar. (C), definition of "total amount required to be paid to the State under former section 603 of this title", in subpar. (D), information to be used in determining amounts of grants for fiscal years 1992 to 1995, and, in subpar. (E), appropriations for fiscal years 1996 to 2002.
+Subsec. (a)(1)(B) to (E). Pub. L. 108–40, §3(a)(2), added subpars. (B) and (C) and struck out former subpars. (B) to (E) which related to, in subpar. (B), definition of "State family assistance grant", in subpar. (C), definition of "total amount required to be paid to the State under former section 603 of this title", in subpar. (D), information to be used in determining amounts ofgrants for fiscal years 1992 to 1995, and, in subpar. (E), appropriations for fiscal years 1996 to 2002.
 
 Subsec. (a)(2)(C)(ii). Pub. L. 108–40, §3(c)(1), substituted "2002, and 2003" for "and 2002".
 
@@ -1112,7 +1112,7 @@ Amendment by section 4002(b)(1)(A), (B), (2)(V) of Pub. L. 110–246 effective O
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–171, title VII, §7701, Feb. 8, 2006, 120 Stat. 155, provided that: "Except as otherwise provided in this title \[amending this section and sections 607, 608, 609, 611, 618, 622, 629f, 629h, 652, 653, 654, 655, 657, 664, 666, 671 to 673, 674, 1383, and 1383b of this title and section 6402 of Title 26, Internal Revenue Code, repealing section 1675c of Title 19, Customs Duties, enacting provisions set out as notes under sections 607, 608, 652, 654, 655, 657, 664, 666, and 1383 of this title and section 1675c of Title 19, and amending provisions set out as a note under section 1169 of Title 29, Labor\], this title and the amendments made by this title shall take effect as if enacted on October 1, 2005."
+Pub. L. 109–171, title VII, §7701, Feb. 8, 2006, 120 Stat. 155, provided that: "Except as otherwise provided inthis title \[amending this section and sections 607, 608, 609, 611, 618, 622, 629f, 629h, 652, 653, 654, 655, 657, 664, 666, 671 to 673, 674, 1383, and 1383b of this title and section 6402 of Title 26, Internal Revenue Code, repealing section 1675c of Title 19, Customs Duties, enacting provisions set out as notes under sections 607, 608, 652, 654, 655, 657, 664, 666, and 1383 of this title and section 1675c of Title 19, and amending provisions set out as a note under section 1169 of Title 29, Labor\], this title and the amendments made by this title shall take effect as if enacted on October 1, 2005."
 
 #### Effective Date of 2003 Amendment
 

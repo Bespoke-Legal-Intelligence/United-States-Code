@@ -8,7 +8,7 @@
 
 #### (2) Preference for competition
 
-&emsp;If the Commission finds that a cable system is subject to effective competition, the rates for the provision of cable service by such system shall not be subject to regulation by the Commission or by a State or franchising authority under this section. If the Commission finds that a cable system is not subject to effective competition—
+&emsp;If the Commission finds that a cable system is subject to effective competition, the ratesfor the provision of cable service by such system shall not be subject to regulation by the Commission or by a State or franchising authority under this section. If the Commission finds that a cable system is not subject to effective competition—
 
 &emsp;&emsp;(A) the rates for the provision of basic cable service shall be subject to regulation by a franchising authority, or by the Commission if the Commission exercises jurisdiction pursuant to paragraph (6), in accordance with the regulations prescribed by the Commission under subsection (b); and
 
@@ -28,7 +28,7 @@
 
 &emsp;A certification filed by a franchising authority under paragraph (3) shall be effective 30 days after the date on which it is filed unless the Commission finds, after notice to the authority and a reasonable opportunity for the authority to comment, that—
 
-&emsp;&emsp;(A) the franchising authority has adopted or is administering regulations with respect to the rates subject to regulation under thissection that are not consistent with the regulations prescribed by the Commission under subsection (b);
+&emsp;&emsp;(A) the franchising authority has adopted or is administering regulations with respect to the rates subject to regulation under this section that are not consistent with the regulations prescribed by the Commission under subsection (b);
 
 &emsp;&emsp;(B) the franchising authority does not have the legal authority to adopt, or the personnel to administer, such regulations; or
 
@@ -152,7 +152,7 @@
 
 &emsp;Within 180 days after October 5, 1992, the Commission shall, by regulation, establish the following:
 
-&emsp;&emsp;(A) criteria prescribed in accordance with paragraph (2) for identifying, in individualcases, rates for cable programming services that are unreasonable;
+&emsp;&emsp;(A) criteria prescribed in accordance with paragraph (2) for identifying, in individual cases, rates for cable programming services that are unreasonable;
 
 &emsp;&emsp;(B) fair and expeditious procedures for the receipt, consideration, and resolution of complaints from any franchising authority (in accordance with paragraph (3)) alleging that a rate for cable programming services charged by a cable operator violates the criteria prescribed under subparagraph (A), which procedures shall include the minimum showing that shall be required for a complaint to obtain Commission consideration and resolution of whether the rate in question is unreasonable; and
 
@@ -184,7 +184,7 @@
 
 #### (d) Uniform rate structure required
 
-A cable operator shall have a rate structure, for the provision of cable service, that is uniform throughout the geographic area in which cable service is provided over its cable system. This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may not charge predatory prices to a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory.
+A cable operator shall have a rate structure, for the provision of cable service, that is uniform throughout the geographic area in which cable service is provided over its cable system. This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may notcharge predatory prices to a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory.
 
 #### (e) Discrimination; services for the hearing impaired
 
@@ -218,9 +218,9 @@ During the term of an agreement made before July 1, 1990, by a franchising autho
 
 #### (1) In general
 
-&emsp;The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment of cable systems that the Commission has found are subject to effective competition under subsection (a)(2) compared with cable systems that the Commission has found are not subject to such effective competition.
+&emsp;The Commission shall publish with its report under section 163 of this title statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment of cable systems that the Commission has found are subject to effective competition under subsection (a)(2) compared with cable systems that the Commission has found are not subject to such effective competition.
 
-#### (2) Inclusion in annual report
+#### (2) Inclusion in report
 
 #### (A) In general
 
@@ -284,9 +284,13 @@ Notwithstanding any other provision of this section or of section 532 of this ti
 
 &emsp;In this subsection, the term "small cable operator" has the meaning given the term in subsection (m)(2).
 
-(June 19, 1934, ch. 652, title VI, §623, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2788; amended Pub. L. 102–385, §3(a), Oct. 5, 1992, 106 Stat. 1464; Pub. L. 104–104, title III, §301(b), (c), (j), (k)(1), Feb. 8, 1996, 110 Stat. 114, 116, 118; Pub. L. 113–200, title I, §§110, 111, Dec. 4, 2014, 128 Stat. 2065, 2066.)
+(June 19, 1934, ch. 652, title VI, §623, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2788; amended Pub. L. 102–385, §3(a), Oct. 5, 1992, 106 Stat. 1464; Pub. L. 104–104, title III, §301(b), (c), (j), (k)(1), Feb. 8, 1996, 110 Stat. 114, 116, 118; Pub. L. 113–200, title I, §§110, 111, Dec. 4, 2014, 128 Stat. 2065, 2066; Pub. L. 115–141, div. P, title IV, §402(e), Mar. 23, 2018, 132 Stat. 1089.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (k)(1). Pub. L. 115–141, §402(e)(1), substituted "publish with its report under section 163 of this title" for "annually publish".
+
+Subsec. (k)(2). Pub. L. 115–141, §402(e)(2), struck out "annual" before "report" in heading.
 
 <b>2014</b>—Subsec. (k). Pub. L. 113–200, §110, amended subsec. (k) generally. Prior to amendment, text read as follows: "The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment, of—
 

@@ -12,7 +12,7 @@ Based on 44 U.S. Code, 1964 ed., §397(b) (June 30, 1949, ch. 288, title V, §50
 
 #### References in Text
 
-Section 3 of the National Archives Act, approved June 19, 1934, referred to in subsec. (a), was classified to section 300c of former Title 44, Public Printing and Documents, and was repealed by act June 30, 1949, ch. 288, title VI, §602(a)(32), renumbered and added Sept. 5, 1950, ch. 849, §7(d), 64 Stat. 590.
+Section 3 of the National Archives Act, approved June 19, 1934, referred to in subsec. (a), was classified tosection 300c of former Title 44, Public Printing and Documents, and was repealed by act June 30, 1949, ch. 288, title VI, §602(a)(32), renumbered and added Sept. 5, 1950, ch. 849, §7(d), 64 Stat. 590.
 
 #### Prior Provisions
 

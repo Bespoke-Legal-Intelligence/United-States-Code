@@ -8,7 +8,7 @@ To be eligible to receive payments under section 9037, a candidate shall, in wri
 
 &emsp;(2) agree to keep and furnish to the Commission any records, books, and other information it may request, and
 
-&emsp;(3) agree to an audit and examination by the Commission under section 9038 and to pay any amounts required to be paid under such section.
+&emsp;(3) agree to an audit and examination by the Commission under section 9038 and to pay anyamounts required to be paid under such section.
 
 #### (b) Expense limitation; declaration of intent; minimum contributions
 

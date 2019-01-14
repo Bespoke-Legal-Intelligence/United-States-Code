@@ -18,7 +18,7 @@ Notice of Availability of Allowance.—To the maximum extent practicable, in adv
 
 &emsp;(2) The ability of members who elected not to be insured under Servicemembers' Group Life Insurance, or elected less than the maximum coverage amount available for such insurance, to obtain insurance, or to obtain additional coverage, as the case may be, under the authority provided in section 1967(c) of title 38.
 
-(Added Pub. L. 109–163, div. A, title VI, §613(a), Jan. 6, 2006, 119 Stat. 3291; amended Pub. L. 109–364, div. A, title VI, §606(a)–(c), Oct. 17, 2006, 120 Stat. 2246; Pub. L. 110–181, div. A, title X, §1063(c)(5), Jan. 28, 2008, 122 Stat. 322; Pub. L.114–328, div. A, title VI, §644(a)–(b)(2), Dec. 23, 2016, 130 Stat. 2166, 2167.)
+(Added Pub. L. 109–163, div. A, title VI, §613(a), Jan. 6, 2006, 119 Stat. 3291; amended Pub. L. 109–364, div. A, title VI, §606(a)–(c), Oct. 17, 2006, 120 Stat. 2246; Pub. L. 110–181, div. A, title X, §1063(c)(5), Jan. 28, 2008, 122 Stat. 322; Pub. L. 114–328, div. A, title VI, §644(a)–(b)(2), Dec. 23, 2016, 130 Stat. 2166, 2167.)
 
 #### Amendments
 
@@ -42,7 +42,7 @@ Subsecs. (b), (c). Pub. L. 109–364, §606(b)(2), (3), redesignated subsec. (c)
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–328, div. A, title VI, §644(c), Dec. 23, 2016, 130 Stat. 2167, provided that: "The amendments made by this section \[amending this section\] shall apply to service by members of the Armed Forces in a designated duty assignment (as defined in subsection (a)(2) of section 437 of title 37, United States Code) for any month beginning on or after the date of the enactment of this Act \[Dec. 23, 2016\]."
+Pub. L. 114–328, div. A, title VI, §644(c), Dec. 23, 2016, 130 Stat. 2167, provided that: "The amendments madeby this section \[amending this section\] shall apply to service by members of the Armed Forces in a designated duty assignment (as defined in subsection (a)(2) of section 437 of title 37, United States Code) for any month beginning on or after the date of the enactment of this Act \[Dec. 23, 2016\]."
 
 #### Effective Date of 2008 Amendment
 

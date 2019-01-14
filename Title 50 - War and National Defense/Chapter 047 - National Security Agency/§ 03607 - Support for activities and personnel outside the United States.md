@@ -6,7 +6,7 @@ Notwithstanding section 322 of the Act of June 30, 1932, section 5536 of title 5
 
 #### (b) Allowances and benefits, housing, and retirement accrual
 
-The Director of the National Security Agency, on behalf of the Secretary of Defense, may provide to certain civilian and military personnel of the Department of Defense who are assigned to special cryptologic activities outside the United States and who are designated by theSecretary of Defense for the purposes of this subsection—
+The Director of the National Security Agency, on behalf of the Secretary of Defense, may provide to certain civilian and military personnel of the Department of Defense who are assigned to special cryptologic activities outside the United States and who are designated by the Secretary of Defense for the purposes of this subsection—
 
 &emsp;(1) allowances and benefits—
 
@@ -44,7 +44,7 @@ Section was formerly classified in a note under section 402 of this title prior 
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b)(3). Pub. L. 102–496 substituted "the Central Intelligence Agency Retirement Act" for "the Central Intelligence Agency Retirement Act of 1964 for Certain Employees".
+<b>1992</b>—Subsec. (b)(3). Pub. L. 102–496 substituted "the Central Intelligence Agency Retirement Act" for "theCentral Intelligence Agency Retirement Act of 1964 for Certain Employees".
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–193 substituted a semicolon for "(including special retirement accrual in the same manner provided in section 303 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (50 U.S.C. 403 note)); and" at end of subpar. (B) of par. (1) and added par. (3).
 

@@ -12,7 +12,7 @@
 
 #### (b) Covered hardware project defined
 
-In this section, the term "covered hardware project" means a project carried out under the defense nuclear nonproliferation research and development program that—
+In this section, the term "covered hardware project" means a project carried out under thedefense nuclear nonproliferation research and development program that—
 
 &emsp;(1) is focused on the production and deployment of hardware, including with respect to the development and deployment of satellites or satellite payloads; and
 

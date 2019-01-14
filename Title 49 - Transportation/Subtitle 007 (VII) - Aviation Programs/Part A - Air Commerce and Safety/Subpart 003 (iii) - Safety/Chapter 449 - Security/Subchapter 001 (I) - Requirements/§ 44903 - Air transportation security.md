@@ -2,17 +2,25 @@
 
 (a)
 
-Definition.—In this section, "law enforcement personnel" means individuals—
+Definitions.—In this section:
 
-&emsp;(1) authorized to carry and use firearms;
+&emsp;(1)
 
-&emsp;(2) vested with the degree of the police power of arrest the Under Secretary of Transportation for Security considers necessary to carry out this section; and
+Administrator.—The term "Administrator" means the Administrator of the Transportation Security Administration.
 
-&emsp;(3) identifiable by appropriate indicia of authority.
+&emsp;(2)
+
+Law enforcement personnel.—The term "law enforcement personnel" means individuals—
+
+&emsp;&emsp;(A) authorized to carry and use firearms;
+
+&emsp;&emsp;(B) vested with the degree of the police power of arrest the Administrator considers necessary to carry out this section; and
+
+&emsp;&emsp;(C) identifiable by appropriate indicia of authority.
 
 (b)
 
-Protection Against Violence and Piracy.—The Under Secretary shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribing a regulation under this subsection, the Under Secretary shall—
+Protection Against Violence and Piracy.—The Administrator shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribing a regulation under this subsection, the Administrator shall—
 
 &emsp;(1) consult with the Secretary of Transportation, the Attorney General, the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities;
 
@@ -32,15 +40,15 @@ Protection Against Violence and Piracy.—The Under Secretary shall prescribe re
 
 (c)
 
-Security Programs.—(1) The Under Secretary shall prescribe regulations under subsection (b) of this section that require each operator of an airport regularly serving an air carrier holding a certificate issued by the Secretary of Transportation to establish an air transportation security program that provides a law enforcement presence and capability at each of those airports that is adequate to ensure the safety of passengers. The regulations shall authorize the operator to use the services of qualified State, local, and private law enforcement personnel. When the Under Secretary decides, after being notified by an operator in the form the Under Secretary prescribes, that not enough qualified State, local, and private law enforcement personnel are available to carry out subsection (b), the Under Secretary may authorize the operator to use, on a reimbursable basis, personnel employed by the Under Secretary, or by another department, agency, or instrumentality of the Government with the consent of the head of the department, agency, or instrumentality, to supplement State, local, and private law enforcement personnel. When deciding whether additional personnel are needed, the Under Secretary shall consider the number of passengers boarded at the airport, the extent of anticipated risk of criminal violence or aircraft piracy at the airport or to the air carrier aircraft operations at the airport, and the availability of qualified State or local law enforcement personnel at the airport.
+Security Programs.—(1) The Administrator shall prescribe regulations under subsection (b) of this section that require each operator of an airport regularly serving an air carrier holding a certificate issued by the Secretary of Transportation to establish an air transportation security program that provides a law enforcement presence and capability at each of those airports that is adequate to ensure the safety of passengers. The regulations shall authorize the operator to use the services of qualified State, local, and private law enforcement personnel. When the Administrator decides, after being notified by an operator in the form the Administrator prescribes, that not enough qualified State, local, and private law enforcement personnel are available to carry out subsection (b), the Administrator may authorize the operator to use, on a reimbursable basis, personnel employed by the Administrator, or by another department, agency, or instrumentality of the Government with the consent of the head of the department, agency, or instrumentality, to supplement State, local, and private law enforcement personnel. When deciding whether additional personnel are needed, the Administrator shall consider the number of passengers boarded at the airport, the extent of anticipated risk of criminal violence or aircraft piracy at the airport or to the air carrier aircraft operations at the airport, and the availability of qualified State or local law enforcement personnel at the airport.
 
-(2)(A) The Under Secretary may approve a security program of an airport operator, or an amendment in an existing program, that incorporates a security program of an airport tenant (except an air carrier separately complying with part 108 or 129 of title 14, Code of Federal Regulations) having access to a secured area of the airport, if the program or amendment incorporates—
+(2)(A) The Administrator may approve a security program of an airport operator, or an amendment in an existing program, that incorporates a security program of an airport tenant\(except an air carrier separately complying with part 108 or 129 of title 14, Code of Federal Regulations) having access to a secured area of the airport, if the program or amendment incorporates—
 
-&emsp;(i) the measures the tenant will use, within the tenant's leased areas or areas designated for the tenant's exclusive use under an agreement with the airport operator, to carry out the security requirements imposed by the Under Secretary on the airport operator under the access control system requirements of section 107.14 of title 14, Code of Federal Regulations, or under other requirements of part 107 of title 14; and
+&emsp;(i) the measures the tenant will use, within the tenant's leased areas or areas designated for the tenant's exclusive use under an agreement with the airport operator, to carry out the security requirements imposed by the Administrator on the airport operator under the access control system requirements of section 107.14 of title 14, Code of Federal Regulations, or under other requirements of part 107 of title 14; and
 
 &emsp;(ii) the methods the airport operator will use to monitor and audit the tenant's compliance with the security requirements and provides that the tenant will be required to pay monetary penalties to the airport operator if the tenant fails to carry out a security requirement under a contractual provision or requirement imposed by the airport operator.
 
-(B) If the Under Secretary approves a program or amendment described in subparagraph (A) of this paragraph, the airport operator may not be found to be in violation of a requirement of this subsection or subsection (b) of this section when the airport operator demonstrates that the tenant or an employee, permittee, or invitee of the tenant is responsible for the violation and that the airport operator has complied with all measures in its security program for securing compliance with its security program by the tenant.
+(B) If the Administrator approves a program or amendment described in subparagraph (A) of this paragraph, the airport operator may not be found to be in violation of a requirement of this subsection or subsection (b) of this section when the airport operator demonstrates that the tenant or an employee, permittee, or invitee of the tenant is responsible for the violation and that the airport operator has complied with all measures in its security program for securing compliance with its security program by the tenant.
 
 (C)
 
@@ -48,23 +56,23 @@ Maximum use of chemical and biological weapon detection equipment.—The Secreta
 
 (3)
 
-Pilot programs.—The Administrator <sup>1</sup> shall establish pilot programs in no fewer than 20 airports to test and evaluate new and emerging technology for providing access control and other security protections for closed or secure areas of the airports. Such technology may include biometric or other technology that ensures only authorized access to secure areas.
+Pilot programs.—The Administrator shall establish pilot programs in no fewer than 20 airports to test and evaluate new and emerging technology for providing access control and other security protections for closed or secure areas of the airports. Such technology may include biometric or other technology that ensures only authorized access to secure areas.
 
 (d)
 
-Authorizing Individuals To Carry Firearms and Make Arrests.—With the approval of the Attorney General and the Secretary of State, the Secretary of Transportation may authorize an individual who carries out air transportation security duties—
+Authorizing Individuals To Carry Firearms and Make Arrests.—With the approval of the Attorney General and the Secretary of State, the Administrator may authorize an individual who carries out air transportation security duties—
 
 &emsp;(1) to carry firearms; and
 
-&emsp;(2) to make arrests without warrant for an offense against the United States committed in the presence of the individual or for a felony under the laws of the United States, if the individual reasonably believes the individualto be arrested has committed or is committing a felony.
+&emsp;(2) to make arrests without warrant for an offense against the United States committed in the presence of the individual or for a felony under the laws of the United States, if the individual reasonably believes the individual to be arrested has committed or is committing a felony.
 
 (e)
 
-Exclusive Responsibility Over Passenger Safety.—The Under Secretary has the exclusive responsibility to direct law enforcement activity related to the safety of passengers on an aircraft involved in an offense under section 46502 of this title from the moment all external doors of the aircraft are closed following boarding until those doors are opened to allow passengers to leave the aircraft. When requested by the Under Secretary, other departments, agencies, and instrumentalities of the Government shall provide assistance necessary to carry out this subsection.
+Exclusive Responsibility Over Passenger Safety.—The Administrator has the exclusive responsibility to direct law enforcement activity related to the safety of passengers on an aircraft involved in an offense under section 46502 of this title from the moment all external doors of the aircraft are closed following boarding until those doors are opened to allow passengers to leave the aircraft. When requested by the Administrator, other departments, agencies, and instrumentalities of the Government shall provide assistance necessary to carry out this subsection.
 
 (f)
 
-Government and Industry Consortia.—The Under Secretary may establish at airports such consortia of government and aviation industry representatives as the Under Secretary may designate to provide advice on matters related to aviation security and safety. Such consortia shall not be considered Federal advisory committees for purposes of the Federal Advisory Committee Act (5 U.S.C. App.).
+Government and Industry Consortia.—The Administrator may establish at airports such consortia of government and aviation industry representatives as the Administrator may designate to provide advice on matters related to aviation security and safety. Such consortia shall not be considered Federal advisory committees for purposes of the Federal Advisory Committee Act (5 U.S.C. App.).
 
 (g)
 
@@ -76,27 +84,27 @@ Enforcement.—
 
 &emsp;&emsp;(A)
 
-Under Secretary to publish sanctions.—The Under Secretary shall publish in the Federal Register a list of sanctions for use as guidelines in the discipline of employees for infractions of airport access control requirements. The guidelines shall incorporate a progressive disciplinary approach that relates proposed sanctions to the severity or recurring nature of the infraction and shall include measures such as remedial training, suspension from security-related duties, suspension from all duties without pay, and termination of employment.
+Administrator to publish sanctions.—The Administrator shall publish in the Federal Register a list of sanctions for use as guidelines in the discipline of employees for infractions of airport access control requirements. The guidelines shall incorporate a progressive disciplinary approach that relates proposed sanctions to the severity or recurring nature of the infraction and shall include measures such as remedial training, suspension from security-related duties, suspension from all duties without pay, and termination of employment.
 
 &emsp;&emsp;(B)
 
-Use of sanctions.—Each airport operator, air carrier, and security screening company shall include the list of sanctions published by the Under Secretary in its security program. The security program shall include a process for taking prompt disciplinary action against an employee who commits an infraction of airport access control requirements.
+Use of sanctions.—Each airport operator, air carrier, and security screening company shall include the list of sanctions published by the Administrator in its security program. The security program shall include a process for taking prompt disciplinary action against an employee who commits an infraction of airport access control requirements.
 
 &emsp;(2)
 
-Improvements.—The Under Secretary shall—
+Improvements.—The Administrator shall—
 
 &emsp;&emsp;(A) work with airport operators and air carriers to implement and strengthen existing controls to eliminate airport access control weaknesses;
 
 &emsp;&emsp;(B) require airport operators and air carriers to develop and implement comprehensive and recurring training programs that teach employees their roles in airport security, the importance of their participation, how their performance will be evaluated, and what action will be taken if they fail to perform;
 
-&emsp;&emsp;(C) require airport operators and air carriers to develop and implement programs that foster and reward compliance with airport access control requirements and discourage and penalize noncompliance in accordance with guidelines issued by the Under Secretary to measure employee compliance;
+&emsp;&emsp;(C) require airport operators and air carriers to develop and implement programs that foster and reward compliance with airport access control requirements and discourage and penalize noncompliance in accordance with guidelines issued by the Administrator to measure employee compliance;
 
 &emsp;&emsp;(D) on an ongoing basis, assess and test for compliance with access control requirements, report annually findings of the assessments, and assess the effectiveness of penalties in ensuring compliance with security procedures and take any other appropriate enforcement actions when noncompliance is found;
 
-&emsp;&emsp;(E) improve and better administer the Under Secretary's security database to ensure its efficiency, reliability, and usefulness for identification of systemic problems and allocation of resources;
+&emsp;&emsp;(E) improve and better administer the Administrator's security database to ensure itsefficiency, reliability, and usefulness for identification of systemic problems and allocation of resources;
 
-&emsp;&emsp;(F) improve the execution of the Under Secretary's quality control program; and
+&emsp;&emsp;(F) improve the execution of the Administrator's quality control program; and
 
 &emsp;&emsp;(G) work with airport operators to strengthen access control points in secured areas (including air traffic control operations areas, maintenance areas, crew lounges, baggage handling areas, concessions, and catering delivery areas) to ensure the security of passengers and aircraft and consider the deployment of biometric or similar technologies that identify individuals based on unique personal characteristics.
 
@@ -106,27 +114,27 @@ Improved Airport Perimeter Access Security.—
 
 &emsp;(1)
 
-In general.—The Under Secretary, in consultation with the airport operator and law enforcement authorities, may order the deployment of such personnel at any secure area of the airport as necessary to counter the risk of criminal violence, the risk of aircraft piracy at the airport, the risk to air carrier aircraft operations at the airport, or to meet national security concerns.
+In general.—The Administrator, in consultation with the airport operator and law enforcement authorities, may order the deployment of such personnel at any secure area of the airport as necessary to counter the risk of criminal violence, the risk of aircraft piracy at the airport, the risk to air carrier aircraft operations at the airport, or to meet national security concerns.
 
 &emsp;(2)
 
-Security of aircraft and ground access to secure areas.—In determining where to deploy such personnel, the Under Secretary shall consider the physical security needs of air traffic control facilities, parked aircraft, aircraft servicing equipment, aircraft supplies (including fuel), automobile parking facilities within airport perimeters or adjacent to secured facilities, and access and transition areas at airports served by other means of ground or water transportation.
+Security of aircraft and ground access to secure areas.—In determining where to deploy such personnel, the Administrator shall consider the physical security needs of air traffic control facilities, parked aircraft, aircraft servicing equipment, aircraft supplies (including fuel), automobile parking facilities within airport perimeters or adjacent to secured facilities, and access and transition areas at airports served by other means of ground or water transportation.
 
 &emsp;(3)
 
-Deployment of federal law enforcement personnel.—The Secretary may enter into a memorandum of understanding or other agreement with the Attorney General or the head of any other appropriate Federal law enforcement agency to deploy Federal law enforcement personnel at an airport in order to meet aviation safety and security concerns.
+Deployment of federal law enforcement personnel.—The Secretary of Homeland Security may enter into a memorandum of understanding or other agreement with the Attorney General or the head of any other appropriate Federal law enforcement agency to deploy Federal law enforcement personnel at an airport in order to meet aviation safety and security concerns.
 
 &emsp;(4)
 
-Airport perimeter screening.—The Under Secretary—
+Airport perimeter screening.—The Administrator—
 
-&emsp;&emsp;(A) shall require, as soon as practicable after the date of enactment of this subsection, screening or inspection of all individuals, goods, property, vehicles, and other equipment before entry into a secured area of an airport in the United States described in section 44903(c);
+&emsp;&emsp;(A) shall require screening or inspection of all individuals, goods, property, vehicles, and other equipment before entry into a secured area of an airport in the United States described in section 44903(c);
 
 &emsp;&emsp;(B) shall prescribe specific requirements for such screening and inspection that will assure at least the same level of protection as will result from screening of passengers and their baggage;
 
 &emsp;&emsp;(C) shall establish procedures to ensure the safety and integrity of—
 
-&emsp;&emsp;&emsp;(i) all persons providing services with respect to aircraft providing passenger air transportation or intrastate air transportation and facilities of such persons at an airport in the United States described in section 44903(c);
+&emsp;&emsp;&emsp;(i) all persons providing services with respect to aircraft providing passenger air transportation or intrastate air transportation and facilities of such persons at an airport in the United States described in subsection (c);
 
 &emsp;&emsp;&emsp;(ii) all supplies, including catering and passenger amenities, placed aboard such aircraft, including the sealing of supplies to ensure easy visual detection of tampering; and
 
@@ -134,11 +142,11 @@ Airport perimeter screening.—The Under Secretary—
 
 &emsp;&emsp;(D) shall require vendors having direct access to the airfield and aircraft to develop security programs; and
 
-&emsp;&emsp;(E) shall issue, not later than March 31, 2005, guidance for the use of biometric or other technology that positively verifies the identity of each employee and law enforcement officer who enters a secure area of an airport.
+&emsp;&emsp;(E) shall issue guidance for the use of biometric or other technology that positively verifies the identity of each employee and law enforcement officer who enters a secure area of an airport.
 
 &emsp;(5)
 
-Use of biometric technology in airport access control systems.—In issuing guidance under paragraph (4)(E), the Assistant Secretary of Homeland Security (Transportation Security Administration) in consultation with representatives of the aviation industry, the biometric identifier industry, and the National Institute of Standards and Technology, shall establish, at a minimum—
+Use of biometric technology in airport access control systems.—In issuing guidance under paragraph (4)(E), the Administrator in consultation with representatives of the aviation industry, the biometric identifier industry, and the National Institute of Standards and Technology, shall establish, at a minimum—
 
 &emsp;&emsp;(A) comprehensive technical and operational system requirements and performance standards for the use of biometric identifier technology in airport access control systems (including airport perimeter access control systems) to ensure that the biometric identifier systems are effective, reliable, and secure;
 
@@ -158,9 +166,9 @@ Use of biometric technology for armed law enforcement travel.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 18 months after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the Secretary of Homeland Security, in consultation with the Attorney General, shall—
+In general.—The Secretary of Homeland Security, in consultation with the Attorney General, shall—
 
-&emsp;&emsp;&emsp;(i) implement this section <sup>2</sup> by publication in the Federal Register; and
+&emsp;&emsp;&emsp;(i) implement this paragraph by publication in the Federal Register; and
 
 &emsp;&emsp;&emsp;(ii) establish a national registered armed law enforcement program, that shall be federally managed, for law enforcement officers needing to be armed when traveling by commercial aircraft.
 
@@ -180,7 +188,7 @@ Program requirements.—The program shall—
 
 &emsp;&emsp;(C)
 
-Procedures.—In establishing the program, the Secretary shall develop procedures—
+Procedures.—In establishing the program, the Secretary of Homeland Security shall develop procedures—
 
 &emsp;&emsp;&emsp;(i) to ensure that a law enforcement officer of a Federal, State, local, tribal, or territorial government flying armed has a specific reason for flying armed and the reason is within the scope of the duties of such officer;
 
@@ -206,7 +214,7 @@ Biometric identifier information.—The term "biometric identifier information" 
 
 &emsp;&emsp;(B)
 
-Biometric identifier.—The term "biometric identifier" means a technology thatenables the automated identification, or verification of the identity, of an individual based on biometric information.
+Biometric identifier.—The term "biometric identifier" means a technology that enables the automated identification, or verification of the identity, of an individual based on biometric information.
 
 &emsp;&emsp;(C)
 
@@ -230,11 +238,11 @@ Authority to Arm Flight Deck Crew With Less-Than-Lethal Weapons.—
 
 &emsp;(1)
 
-In general.—If the Under Secretary, after receiving the recommendations of the National Institute of Justice, determines, with the approval of the Attorney General and the Secretary of State, that it is appropriate and necessary and would effectively serve the public interest in avoiding air piracy, the Under Secretary may authorize members of the flight deck crew on any aircraft providing air transportation or intrastate air transportation to carry a less-than-lethal weapon while the aircraft is engaged in providing such transportation.
+In general.—If the Administrator, after receiving the recommendations of the National Institute of Justice, determines, with the approval of the Attorney General and the Secretary of State, that it is appropriate and necessary and would effectively serve the public interest in avoiding air piracy, the Administrator may authorize members of the flight deck crew on any aircraft providing air transportation or intrastate air transportation to carry a less-than-lethal weapon while the aircraft is engaged in providing such transportation.
 
 &emsp;(2)
 
-Usage.—If the Under Secretary grants authority under paragraph (1) for flight deck crew members to carry a less-than-lethal weapon while engaged in providing air transportation or intrastate air transportation, the Under Secretary shall—
+Usage.—If the Administrator grants authority under paragraph (1) for flight deck crew members to carry a less-than-lethal weapon while engaged in providing air transportation or intrastate air transportation, the Administrator shall—
 
 &emsp;&emsp;(A) prescribe rules requiring that any such crew member be trained in the proper use of the weapon; and
 
@@ -242,7 +250,7 @@ Usage.—If the Under Secretary grants authority under paragraph (1) for flight 
 
 &emsp;(3)
 
-Request of air carriers to use less-than-lethal weapons.—If, after the date of enactment of this paragraph, the Under Secretary receives a request from an air carrier for authorization to allow pilots of the air carrier to carry less-than-lethal weapons, the Under Secretary shall respond to that request within 90 days.
+Request of air carriers to use less-than-lethal weapons.—If the Administrator receives a request from an air carrier for authorization to allow pilots of the air carrier to carry less-than-lethal weapons, the Administrator shall respond to that request within 90 days.
 
 (j)
 
@@ -250,35 +258,23 @@ Short-Term Assessment and Deployment of Emerging Security Technologies and Proce
 
 &emsp;(1)
 
-In general.—The Under Secretary of Transportation for Security shall recommend to airport operators, within 6 months after the date of enactment of the Aviation and Transportation Security Act, commercially available measures or procedures to prevent access to secure airport areas by unauthorized persons. As part of the 6-month assessment, the Under Secretary for Transportation Security shall—
-
-&emsp;&emsp;(A) review the effectiveness of biometrics systems currently in use at several United States airports, including San Francisco International;
-
-&emsp;&emsp;(B) review the effectiveness of increased surveillance at access points;
-
-&emsp;&emsp;(C) review the effectiveness of card- or keypad-based access systems;
-
-&emsp;&emsp;(D) review the effectiveness of airport emergency exit systems and determine whether those that lead to secure areas of the airport should be monitored or how breaches can be swiftly responded to; and
-
-&emsp;&emsp;(E) specifically target the elimination of the "piggy-backing" phenomenon, where another person follows an authorized person through the access point.
-
-> &emsp;The 6-month assessment shall include a 12-month deployment strategy for currently available technology at all category X airports, as defined in the Federal Aviation Administration approved air carrier security programs required under part 108 of title 14, Code of Federal Regulations. Not later than 18 months after the date of enactment of this Act, the Secretary of Transportation shall conduct a review of reductions in unauthorized access at these airports.
+In general.—The Administrator shall periodically recommend to airport operators commercially available measures or procedures to prevent access to secure airport areas by unauthorized persons.
 
 &emsp;(2)
 
-Computer-assisted passenger prescreening system.—
+Secure flight program.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary of Transportation shall ensure that the Computer-Assisted Passenger Prescreening System, or any successor system—
+In general.—The Administrator shall ensure that the Secure Flight program, or any successor program—
 
 &emsp;&emsp;&emsp;(i) is used to evaluate all passengers before they board an aircraft; and
 
-&emsp;&emsp;&emsp;(ii) includes procedures to ensure that individuals selected by the system and their carry-on and checked baggage are adequately screened.
+&emsp;&emsp;&emsp;(ii) includes procedures to ensure that individuals selected by the program and their carry-on and checked baggage are adequately screened.
 
 &emsp;&emsp;(B)
 
-Modifications.—The Secretary of Transportation may modify any requirement under the Computer-Assisted Passenger Prescreening System for flights that originate and terminate within the same State, if the Secretary determines that—
+Modifications.—The Administrator may modify any requirement under the Secure Flight program for flights that originate and terminate within the same State, if the Administrator determines that—
 
 &emsp;&emsp;&emsp;(i) the State has extraordinary air transportation needs or concerns due to its isolation and dependence on air transportation; and
 
@@ -290,15 +286,15 @@ Advanced airline passenger prescreening.—
 
 &emsp;&emsp;&emsp;(i)
 
-Commencement of testing.—Not later than January 1, 2005, the Assistant Secretary of Homeland Security (Transportation Security Administration), or the designee of the Assistant Secretary, shall commence testing of an advanced passenger prescreening system that will allow the Department of Homeland Security to assume the performance of comparing passenger information, as defined by the Assistant Secretary, to the automatic selectee and no fly lists, utilizing all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government.
+Commencement of testing.—The Administrator shall commence testing of an advanced passenger prescreening system that will allow the Department of Homeland Security to assume the performance of comparing passenger information, as defined by the Administrator, to the automatic selectee and no fly lists, utilizing all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government.
 
 &emsp;&emsp;&emsp;(ii)
 
-Assumption of function.—Not later than 180 days after completion of testing under clause (i), the Assistant Secretary, or the designee of the Assistant Secretary, shall begin to assume the performance of the passenger prescreening function of comparing passenger information to the automatic selectee and no fly lists and utilize all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government in performing that function.
+Assumption of function.—The Administrator, or the designee of the Administrator, shall begin to assume the performance of the passenger prescreening function of comparing passenger information to the automatic selectee and no fly lists and utilize all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government in performing that function.
 
 &emsp;&emsp;&emsp;(iii)
 
-Requirements.—In assuming performance of the function under clause (ii), the Assistant Secretary shall—
+Requirements.—In assuming performance of the function under clause (ii), the Administrator shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) establish a procedure to enable airline passengers, who are delayed or prohibited from boarding a flight because the advanced passenger prescreening system determined that they might pose a security threat, to appeal such determination and correct information contained in the system;
 
@@ -316,19 +312,19 @@ Requirements.—In assuming performance of the function under clause (ii), the A
 
 &emsp;&emsp;&emsp;(iv)
 
-Passenger information.—Not later than 180 days after the completion of the testing of the advanced passenger prescreening system, the Assistant Secretary, by order or interim final rule—
+Passenger information.—After the completion of the testing of the advanced passenger prescreening system, the Administrator, by order or interim final rule—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall require air carriers to supply to the Assistant Secretary the passenger information needed to begin implementing the advanced passenger prescreening system; and
+&emsp;&emsp;&emsp;&emsp;(I) shall require air carriers to supply to the Administrator the passenger information needed to begin implementing the advanced passenger prescreening system; and
 
 &emsp;&emsp;&emsp;&emsp;(II) shall require entities that provide systems and services to air carriers in the operation of air carrier reservations systems to provide to air carriers passenger information in possession of such entities, but only to the extent necessary to comply with subclause (I).
 
 &emsp;&emsp;&emsp;(v)
 
-Inclusion of detainees on no fly list.—The Assistant Secretary, in coordination with the Terrorist Screening Center, shall include on the No Fly List any individual who was a detainee held at the Naval Station, Guantanamo Bay, Cuba, unless the President certifies in writing to Congress that the detainee poses no threat to the United States, its citizens, or its allies. For purposes of this clause, the term "detainee" means an individual in the custody or under the physical control of the United States as a result of armed conflict.
+Inclusion of detainees on no fly list.—The Administrator, in coordination with the Terrorist Screening Center, shall include on the No Fly List any individual who was a detainee held at the Naval Station, Guantanamo Bay, Cuba, unless the President certifies in writing to Congress that the detainee poses no threat to the United States, its citizens, or its allies. For purposes of this clause, the term "detainee" means an individual in the custody or under the physical control of the United States as a result of armed conflict.
 
 &emsp;&emsp;(D)
 
-Screening of employees against watchlist.—The Assistant Secretary of Homeland Security (Transportation Security Administration), in coordination with the Secretary of Transportation and the Administrator of the Federal Aviation Administration, shall ensure that individuals are screened against all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government before—
+Screening of employees against watchlist.—The Administrator, in coordination with the Secretary of Transportation and the Administrator of the Federal Aviation Administration, shall ensure that individuals are screened against all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government before—
 
 &emsp;&emsp;&emsp;(i) being certificated by the Federal Aviation Administration;
 
@@ -342,7 +338,7 @@ Aircraft charter customer and lessee prescreening.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Not later than 90 days after the date on which the Assistant Secretary assumes the performance of the advanced passenger prescreening function under subparagraph (C)(ii), the Assistant Secretary shall establish a process by which operators of aircraft to be used in charter air transportation with a maximum takeoff weight greater than 12,500 pounds and lessors of aircraft with a maximum takeoff weight greater than 12,500 pounds may—
+In general.—The Administrator Administrator <sup>1</sup> shall establish a process by which operators of aircraft to be used in charter air transportation with a maximum takeoff weight greater than 12,500 pounds and lessors of aircraft with a maximum takeoff weight greater than 12,500 pounds may—
 
 &emsp;&emsp;&emsp;&emsp;(I) request the Department of Homeland Security to use the advanced passenger prescreening system to compare information about any individual seeking to charter an aircraft with a maximum takeoff weight greater than 12,500 pounds, any passenger proposed to be transported aboard such aircraft, and any individual seeking to lease an aircraft with a maximum takeoff weight greater than 12,500 pounds to the automatic selectee and no fly lists, utilizing all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government; and
 
@@ -366,11 +362,11 @@ Appeal procedures.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The Assistant Secretary shall establish a timely and fair process for individuals identified as a threat under one or more of subparagraphs (C), (D), and (E) to appeal to the Transportation Security Administration the determination and correct any erroneous information.
+In general.—The Administrator shall establish a timely and fair process for individuals identified as a threat under one or more of subparagraphs (C), (D), and (E) to appeal to the Transportation Security Administration the determination and correct any erroneous information.
 
 &emsp;&emsp;&emsp;(ii)
 
-Records.—The process shall include the establishment of a method by which the Assistant Secretary will be able to maintain a record of air passengers and other individuals who have been misidentified and have corrected erroneous information. To prevent repeated delays of misidentified passengers and other individuals, the Transportation Security Administration record shall contain information determined by the Assistant Secretary to authenticate the identity of such a passenger or individual.
+Records.—The process shall include the establishment of a method by which the Administrator will be able to maintain a record of air passengers and other individuals who have been misidentified and have corrected erroneous information. To prevent repeated delays of misidentified passengers and other individuals, the Transportation Security Administration record shall contain information determined by the Administrator to authenticate the identity of such a passenger or individual.
 
 &emsp;&emsp;(H)
 
@@ -386,7 +382,7 @@ Air Charter Program.—
 
 &emsp;(1)
 
-In general.—The Under Secretary for Border and Transportation Security of the Department of Homeland Security shall implement an aviation security program for charter air carriers (as defined in section 40102(a)) with a maximum certificated takeoff weight of more than 12,500 pounds.
+In general.—The Administrator shall implement an aviation security program for charter air carriers (as defined in section 40102(a)) with a maximum certificated takeoff weight of more than 12,500 pounds.
 
 &emsp;(2)
 
@@ -410,11 +406,11 @@ Security Screening for Members of the Armed Forces.—
 
 &emsp;(1)
 
-In general.—The Assistant Secretary of Homeland Security (Transportation Security Administration), in consultation with the Department of Defense, shall develop and implement a plan to provide expedited security screening services for a member of the armed forces, and, to the extent possible, any accompanying family member, if the member of the armed forces, while in uniform, presents documentation indicating official orders for air transportation departing from a primary airport (as defined in section 47102).
+In general.—The Administrator, in consultation with the Department of Defense, shall develop and implement a plan to provide expedited security screening services for a member of the armed forces, and, to the extent possible, any accompanying family member, if the member of the armed forces, while in uniform, presents documentation indicating official orders for air transportation departing from a primary airport (as defined in section 47102).
 
 &emsp;(2)
 
-Protocols.—In developing the plan, the Assistant Secretary shall consider—
+Protocols.—In developing the plan, the Administrator shall consider—
 
 &emsp;&emsp;(A) leveraging existing security screening models used to reduce passenger wait times;
 
@@ -424,11 +420,11 @@ Protocols.—In developing the plan, the Assistant Secretary shall consider—
 
 &emsp;(3)
 
-Rule of construction.—Nothing in this subsection shall affect the authority of the Assistant Secretary to require additional screening of a member of the armed forces if intelligence or law enforcement information indicates that additional screening is necessary.
+Rule of construction.—Nothing in this subsection shall affect the authority of the Administrator to require additional screening of a member of the armed forces if intelligence or law enforcement information indicates that additional screening is necessary.
 
 &emsp;(4)
 
-Report to congress.—The Assistant Secretary shall submit to the appropriate committees of Congress a report on the implementation of the plan.
+Report to congress.—The Administrator shall submit to the appropriate committees of Congress a report on the implementation of the plan.
 
 (n)
 
@@ -442,7 +438,7 @@ In general.—The Secretary of Homeland Security shall ensure that the Transport
 
 Sterile area defined.—In this section, the term "sterile area" has the meaning given that term in section 1540.5 of title 49, Code of Federal Regulations (or any corresponding similar regulation or ruling).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521; Pub. L. 107–71, title I,§§101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, 115 Stat. 603, 608–610, 629, 632, 636, 644; Pub. L. 107–296, title XIV, §§1405, 1406, Nov. 25, 2002, 116 Stat. 2307; Pub. L. 108–176, title VI, §606(a), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 108–458, title IV, §§4011(a), 4012(a)(1), Dec. 17, 2004, 118 Stat. 3712, 3714; Pub. L. 110–53, title XVI, §1615(a), Aug. 3, 2007, 121 Stat. 486; Pub. L. 111–83, title V, §553, Oct. 28, 2009, 123 Stat. 2179; Pub. L. 112–86, §2(a), Jan. 3, 2012, 125 Stat. 1874; Pub. L. 113–67, div. A, title VI, §603, Dec. 26, 2013, 127 Stat. 1188.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521; Pub. L. 107–71, title I, §§101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, 115 Stat. 603, 608–610, 629, 632, 636, 644; Pub. L. 107–296, title XIV, §§1405, 1406, Nov. 25, 2002, 116 Stat. 2307; Pub. L. 108–176, title VI, §606(a), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 108–458, title IV, §§4011(a), 4012(a)(1), Dec. 17, 2004, 118 Stat. 3712, 3714; Pub. L. 110–53, title XVI, §1615(a), Aug. 3, 2007, 121 Stat. 486; Pub. L. 111–83, title V, §553, Oct. 28, 2009, 123 Stat. 2179; Pub. L. 112–86, §2(a), Jan. 3, 2012, 125 Stat. 1874; Pub. L. 113–67, div. A, title VI, §603, Dec. 26, 2013, 127 Stat. 1188; Pub. L. 115–254, div. K, title I, §1991(d)(3), Oct. 5, 2018, 132 Stat. 3630.)
 
 Historical and Revision Notes
 
@@ -500,19 +496,63 @@ In subsection (e), the words "Notwithstanding any other provisions of law", "the
 
 The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The date of enactment of this subsection, referred to in subsec. (h)(4)(A), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
-
-The date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (h)(6)(A), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
-
-The date of enactment of this paragraph, referred to in subsec. (i)(3), is the date of enactment of Pub. L. 107–296, which was approved Nov. 25, 2002.
-
-The date of enactment of the Aviation and Transportation Security Act, referred to in subsec. (j)(1), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
-
-The date of enactment of this Act, referred to in subsec. (j)(1), probably means the date of enactment of Pub. L. 107–71, which enacted subsec. (j), originally (i), of this section and which was approved Nov. 19, 2001.
-
 Section 607 of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (j)(2)(F), is section 607 of Pub. L. 108–176, which is set out as a note below.
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–254, §1991(d)(3)(I), substituted "Administrator" for "Under Secretary" wherever appearing.
+
+Subsec. (a). Pub. L. 115–254, §1991(d)(3)(A), substituted "Definitions" for "Definition" in heading and "In this section:" for "In this section, 'law enforcement personnel' means individuals—" in introductory provisions, added par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C) of par. (2), inserted before subpar. (A) "(2)
+
+Law enforcement personnel.—The term 'law enforcement personnel' means individuals—", and in subpar. (B) substituted "Administrator" for "Under Secretary of Transportation for Security".
+
+Subsec. (d). Pub. L. 115–254, §1991(d)(3)(B), substituted "Administrator" for "Secretary of Transportation" in introductory provisions.
+
+Subsec. (g)(2)(E), (F). Pub. L. 115–254, §1991(d)(3)(C), substituted "Administrator's" for "Under Secretary's".
+
+Subsec. (h)(3). Pub. L. 115–254, §1991(d)(3)(D)(i), substituted "Secretary of Homeland Security" for "Secretary".
+
+Subsec. (h)(4)(A). Pub. L. 115–254, §1991(d)(3)(D)(ii)(I), struck out ", as soon as practicable after the date of enactment of this subsection," after "shall require".
+
+Subsec. (h)(4)(C)(i). Pub. L. 115–254, §1991(d)(3)(D)(ii)(II), substituted "subsection (c)" for "section 44903(c)".
+
+Subsec. (h)(4)(E). Pub. L. 115–254, §1991(d)(3)(D)(ii)(III), struck out ", not later than March 31, 2005," after "shall issue".
+
+Subsec. (h)(5). Pub. L. 115–254, §1991(d)(3)(D)(iii), substituted "Administrator" for "Assistant Secretary of Homeland Security (Transportation Security Administration)" in introductory provisions.
+
+Subsec. (h)(6)(A). Pub. L. 115–254, §1991(d)(3)(D)(iv)(I), substituted "The" for "Not later than 18 months after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the" in introductory provisions.
+
+Subsec. (h)(6)(A)(i). Pub. L. 115–254, §1991(d)(3)(D)(iv)(II), substituted "paragraph" for "section".
+
+Subsec. (h)(6)(C). Pub. L. 115–254, §1991(d)(3)(D)(v), substituted "Secretary of Homeland Security" for "Secretary" in introductory provisions.
+
+Subsec. (i)(3). Pub. L. 115–254, §1991(d)(3)(E), struck out ", after the date of enactment of this paragraph," after "If".
+
+Subsec. (j)(1). Pub. L. 115–254, §1991(d)(3)(F)(i), amended par. (1) generally. Prior to amendment, par. (1) required the Under Secretary of Transportation for Security to recommend to airport operators, within 6 months after Nov. 19, 2001, commercially available measures or procedures to prevent access to secure airport areas by unauthorized persons.
+
+Subsec. (j)(2). Pub. L. 115–254, §1991(d)(3)(F)(ii)(VII), substituted "Administrator" for "Assistant Secretary" wherever appearing.
+
+Pub. L. 115–254, §1991(d)(3)(F)(ii)(I), substituted "Secure flight program" for "Computer-assisted passenger prescreening system" in heading.
+
+Subsec. (j)(2)(A). Pub. L. 115–254, §1991(d)(3)(F)(ii)(II), substituted "Administrator" for "Secretary of Transportation", "Secure Flight program" for "Computer-Assisted Passenger Prescreening System", and, in two places, "program" for "system".
+
+Subsec. (j)(2)(B). Pub. L. 115–254, §1991(d)(3)(F)(ii)(III), in introductory provisions, substituted "Administrator" for "Secretary of Transportation", "Secure Flight program" for "Computer-Assisted Passenger Prescreening System", and "Administrator" for "Secretary".
+
+Subsec. (j)(2)(C)(i). Pub. L. 115–254, §1991(d)(3)(F)(ii)(IV)(aa), substituted "The Administrator" for "Not later than January 1, 2005, the Assistant Secretary of Homeland Security (Transportation Security Administration), or the designee of the Assistant Secretary,".
+
+Subsec. (j)(2)(C)(ii). Pub. L. 115–254, §1991(d)(3)(F)(ii)(IV)(bb), substituted "The" for "Not later than 180 days after completion of testing under clause (i), the".
+
+Subsec. (j)(2)(C)(iv). Pub. L. 115–254, §1991(d)(3)(F)(ii)(IV)(cc), substituted "After" for "Not later than 180 days after" in introductory provisions.
+
+Subsec. (j)(2)(D). Pub. L. 115–254, §1991(d)(3)(F)(ii)(V), substituted "Administrator" for "Assistant Secretary of Homeland Security (Transportation Security Administration)" in introductory provisions.
+
+Subsec. (j)(2)(E)(i). Pub. L. 115–254, §1991(d)(3)(F)(ii)(VI), substituted "The Administrator" for "Not later than 90 days after the date on which the Assistant Secretary assumes the performance of the advanced passenger prescreening function under subparagraph (C)(ii), the" in introductory provisions.
+
+Subsec. (l)(1). Pub. L. 115–254, §1991(d)(3)(G), substituted "Administrator" for "Under Secretary for Border and Transportation Security of the Department of Homeland Security".
+
+Subsec. (m). Pub. L. 115–254, §1991(d)(3)(H)(ii), substituted "Administrator" for "Assistant Secretary" wherever appearing.
+
+Subsec. (m)(1). Pub. L. 115–254, §1991(d)(3)(H)(i), substituted "Administrator" for "Assistant Secretary of Homeland Security (Transportation Security Administration)".
 
 <b>2013</b>—Subsec. (n). Pub. L. 113–67 added subsec. (n).
 
@@ -604,11 +644,613 @@ Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see sectio
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
-#### Transfer of Functions
+#### Secondary Cockpit Barriers
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+Pub. L. 115–254, div. B, title III, §336, Oct. 5, 2018, 132 Stat. 3281, provided that:
+
+"(a)
+
+Short Title.—This section may be cited as the 'Saracini Aviation Safety Act of 2018'.
+
+"(b)
+
+Requirement.—Not later than 1 year after the date of the enactment of this Act \[Oct. 5, 2018\], the Administrator of the Federal Aviation Administration shall issue an order requiring installation of a secondary cockpit barrier on each new aircraft that is manufactured for delivery to a passenger air carrier in the United States operating under the provisions of part 121 of title 14, Code of Federal Regulations."
+
+#### Sexual Misconduct Onboard Aircraft
+
+Pub. L. 115–254, div. B, title III, §§339A, 339B, Oct. 5, 2018, 132 Stat. 3282, 3283, provided that:
+
+#### "SEC. 339A. NATIONAL IN-FLIGHT SEXUAL MISCONDUCT TASK FORCE.
+
+"(a)
+
+Establishment of Task Force.—The Secretary of Transportation shall establish a task force, to be known as the 'National In-Flight Sexual Misconduct Task Force' (referred to in this section as 'Task Force') to—
+
+&emsp;"(1) review current practices, protocols and requirements of air carriers in responding to allegations of sexual misconduct by passengers onboard aircraft, including training, reporting and data collection; and
+
+&emsp;"(2) provide recommendations on training, reporting and data collection regarding allegations of sexual misconduct occurring on passenger airline flights that are informed by the review of information described in paragraph (1) and subsection (c)(5) on passengers who have experienced sexual misconduct onboard aircraft.
+
+"(b)
+
+Membership.—The Task Force shall be composed of, at a minimum, representatives from—
+
+&emsp;"(1) \[the\] Department of Transportation;
+
+&emsp;"(2) \[the\] Department of Justice, including the Federal Bureau of Investigation, Office of Victims for Crimes \[sic\], and the Office on Violence Against Women;
+
+&emsp;"(3) National organizations that specialize in providing services to sexual assault victims;
+
+&emsp;"(4) labor organizations that represent flight attendants;
+
+&emsp;"(5) labor organizations that represent pilots;
+
+&emsp;"(6) airports;
+
+&emsp;"(7) air carriers;
+
+&emsp;"(8) State and local law enforcement agencies; and
+
+&emsp;"(9) such other Federal agencies and stakeholder organizations as the Secretary of Transportation considers appropriate.
+
+"(c)
+
+Purpose of Task Force.—The purpose of the Task Force shall be to—
+
+&emsp;"(1) issue recommendations for addressing allegations of sexual misconduct by passengers onboard aircraft, including airline employee and contractor training;
+
+&emsp;"(2) issue recommendations on effective ways for passengers involved in incidents of alleged sexual misconduct to report such allegation of sexual misconduct;
+
+&emsp;"(3) issue recommendations on how to most effectively provide data on instances of alleged sexual misconduct onboard aircraft and to whom the data collected should be reported in a manner that protects the privacy and confidentiality of individuals involved in incidents of alleged sexual misconduct and precludes the release of data that publically identifies an individual air carrier to enable better understanding of the frequency and severity of such misconduct;
+
+&emsp;"(4) issue recommendations for flight attendants, pilots, and other appropriate airline personnel on law enforcement notification in incidents of alleged sexual misconduct;
+
+&emsp;"(5) review and utilize first-hand accounts from passengers who have experienced sexual misconduct onboard aircraft; and
+
+&emsp;"(6) other matters deemed necessary by the Task Force.
+
+"(d)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], the Task Force shall submit a report with its recommendations and findings developed pursuant to subsection (c) to the Secretary of Transportation.
+
+"(e)
+
+Plan.—Not later than 180 days after receiving the report required under subsection (d)\[,\] the Secretary of Transportation, in coordination with relevant federal agencies, shall submit to \[the\] appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a plan to address the recommendations in the report required under subsection (d). The Secretary of Transportation shall make changes to guidance, policies and regulations, as necessary, within 1 year of submitting the plan required in this subsection.
+
+"(f)
+
+Regulations.—Not later than 1 year after submitting the plan required in this subsection \[probably means "subsection (e)"\], the Secretary of Transportation may issue regulations as deemed necessary to require each air carrier and other covered entity to develop a policy concerning sexual misconduct in accordance with the recommendations and findings of the Task Force under subsection (c).
+
+"(g)
+
+Sunset.—The Task Force established pursuant to subsection (a) shall terminate upon the submission of the report pursuant to subsection (d).
+
+#### "SEC. 339B. REPORTING PROCESS FOR SEXUAL MISCONDUCT ONBOARD AIRCRAFT.
+
+"(a)
+
+In General.—Not later than two years after the date of the enactment of this Act \[Oct. 5, 2018\], the Attorney General, in coordination with relevant Federal agencies, shall establish a streamlined process, based on the plan required under section 339A(e) of this Act, for individuals involved in incidents of alleged sexual misconduct onboard aircraft to report such allegations of sexual misconduct to law enforcement in a manner that protects the privacy and confidentiality of individuals involved in such allegations.
+
+"(b)
+
+Availability of Reporting Process.—The process for reporting established under subsection (a) shall be made available to the public on the primary Internet websites of—
+
+&emsp;"(1) the Office for Victims of Crime and the Office on Violence Against Women of the Department of Justice;
+
+&emsp;"(2) the Federal Bureau of Investigation; and
+
+&emsp;"(3) the Department of Transportation."
+
+#### Employee Assault Prevention and Response Plans
+
+Pub. L. 115–254, div. B, title V, §551, Oct. 5, 2018, 132 Stat. 3378, provided that:
+
+"(a)
+
+In General.—Not later than 90 days after the date of enactment of this Act \[Oct. 5, 2018\], each air carrier operating under part 121 of title 14, Code of Federal Regulations (in this section referred to as a 'part 121 air carrier'), shall submit to the Administrator \[of the Federal Aviation Administration\] for review and acceptance an Employee Assault Prevention and Response Plan related to the customer service agents of the air carrier and that is developed in consultation with the labor union representing such agents.
+
+"(b)
+
+Contents of Plan.—An Employee Assault Prevention and Response Plan submitted under subsection (a) shall include the following:
+
+&emsp;"(1) Reporting protocols for air carrier customer service agents who have been the victim of a verbal or physical assault.
+
+&emsp;"(2) Protocols for the immediate notification of law enforcement after an incident of verbal or physical assault committed against an air carrier customer service agent.
+
+&emsp;"(3) Protocols for informing Federal law enforcement with respect to violations of section 46503 of title 49, United States Code.
+
+&emsp;"(4) Protocols for ensuring that a passenger involved in a violent incident with a customer service agent of an air carrier is not allowed to move through airport security or board an aircraft until appropriate law enforcement has had an opportunity to assess the incident and take appropriate action.
+
+&emsp;"(5) Protocols for air carriers to inform passengers of Federal laws protecting Federal, airport, and air carrier employees who have security duties within an airport.
+
+"(c)
+
+Employee Training.—A part 121 air carrier shall conduct initial and recurrent training for all employees, including management, of the air carrier with respect to the plan required under subsection (a), which shall include training on de-escalating hostile situations, written protocols on dealing with hostile situations, and the reporting of relevant incidents.
+
+"(d)
+
+Study.—Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall—
+
+&emsp;"(1) complete a study of crimes of violence (as defined in section 16 of title 18, United States Code) committed against airline customer service representatives while they are performing their duties and on airport property; and
+
+&emsp;"(2) submit the findings of the study, including any recommendations, to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\].
+
+"(e)
+
+Gap Analysis.—The study required under subsection (d) shall include a gap analysis to determine if State and local laws and resources are adequate to deter or otherwise address the crimes of violence described in subsection (a) and recommendations on how to address any identified gaps."
+
+#### Transportation Security Laboratory
+
+Pub. L. 115–254, div. K, title I, §1915, Oct. 5, 2018, 132 Stat. 3555, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], the Secretary \[of Homeland Security\], in consultation with the Administrator \[of the Transporation Security Administration\] and the Undersecretary for Science and Technology—
+
+&emsp;"(1) shall conduct a review to determine whether the TSA \[Transportation Security Administration\] is the most appropriate component within the Department \[of Homeland Security\] to administer the Transportation Security Laboratory; and
+
+&emsp;"(2) may direct the TSA to administer the Transportation Security Laboratory if the review under paragraph (1) identifies the TSA as the most appropriate component.
+
+"(b)
+
+Periodic Reviews.—The Secretary shall periodically review the screening technology test and evaluation process conducted at the Transportation Security Laboratory to improve the coordination, collaboration, and communication between the Transportation Security Laboratory and the TSA to identify factors contributing to acquisition inefficiencies, develop strategies to reduce acquisition inefficiencies, facilitate more expeditious initiation and completion of testing, and identify how laboratory practices can better support acquisition decisions.
+
+"(c)
+
+Reports.—The Secretary shall report the findings of each review under this section to the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\]."
+
+#### Pilot Program for Automated Exit Lane Technology
+
+Pub. L. 115–254, div. K, title I, §1920, Oct. 5, 2018, 132 Stat. 3560, provided that:
+
+"(a)
+
+In General.—Not later than 90 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\] shall establish a pilot program to implement and evaluate the use of automated exit lane technology at small hub airports and nonhub airports (as those terms are defined in section 40102 of title 49, United States Code).
+
+"(b)
+
+Partnership.—The Administrator shall carry out the pilot program in partnership with the applicable airport directors.
+
+"(c)
+
+Cost Share.—The Federal share of the cost of the pilot program under this section shall not exceed 85 percent of the total cost of the program.
+
+"(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out the pilot program under this section $15,000,000 for each of fiscal years 2019 through 2021.
+
+"(e)
+
+GAO Report.—Not later than 2 years after the date the pilot program is implemented, the Comptroller General of the United States shall submit to the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] a report on the pilot program, including—
+
+&emsp;"(1) the extent of airport participation in the pilot program and how the program was implemented;
+
+&emsp;"(2) the results of the pilot program and any reported benefits, including the impact on security and any cost-related efficiencies realized by TSA \[Transportation Security Administration\] or at the participating airports; and
+
+&emsp;"(3) the feasibility of expanding the pilot program to additional airports, including to medium and large hub airports."
+
+#### Securing Airport Worker Access Points
+
+Pub. L. 115–254, div. K, title I, §1934, Oct. 5, 2018, 132 Stat. 3572, provided that:
+
+"(a)
+
+Cooperative Efforts to Enhance Airport Security Awareness.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator shall consult with air carriers, foreign air carriers, airport operators, and labor unions representing credentialed employees to enhance security awareness of credentialed airport populations regarding insiderthreats to aviation security and best practices related to airport access controls.
+
+"(b)
+
+Credentialing Standards.—Not later than 180 days after the date of enactment of this Act, the Administrator, in consultation with air carriers, foreign air carriers, airport operators, and labor unions representing credentialed employees, shall assess credentialing standards, policies, and practices, including implementation of relevant credentialing updates required under the FAA Extension, Safety, and Security Act of 2016 (Public Law 114–190; 130 Stat. 615) \[see Tables for classification\], to ensure that insider threats to aviation security are adequately addressed.
+
+"(c)
+
+SIDA Applications.—
+
+&emsp;"(1)
+
+Social security numbers required.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 60 days after the date of enactment of this Act, the Administrator shall revise the application submitted by an individual applying for a credential granting access to the Secure Identification Area of an airport to require the social security number of such individual in order to strengthen security vetting effectiveness.
+
+&emsp;&emsp;"(B)
+
+Failure to provide number.—An applicant who does not provide such applicant's social security number may be denied such a credential.
+
+&emsp;"(2)
+
+Screening notice.—The Administrator shall issue requirements for an airport operator to include in each application for access to a Security Identification Display Area notification to the applicant that an employee holding a credential granting access to a Security Identification Display Area may be screened at any time while gaining access to, working in, or leaving a Security Identification Display Area.
+
+"(d)
+
+Secured and Sterile Areas of Airports.—The Administrator shall consult with airport operators and airline operators to identify advanced technologies, including biometric identification technologies, that could be used for securing employee access to the secured areas and sterile areas of airports.
+
+"(e)
+
+Rap Back Vetting .—Not later than 180 days after the date of enactment of this Act, the Administrator shall identify and submit to the appropriate committees of Congress the number of credentialed aviation worker populations at airports that are continuously vetted through the Federal Bureau of Investigation's Rap Back Service, consistent with section 3405(b)(2) of the FAA Extension, Safety, and Security Act of 2016 (49 U.S.C. 44901 note).
+
+"(f)
+
+Insider Threat Education and Mitigation.—Not later than 180 days after the date of enactment of this Act, the Administrator shall identify means of enhancing the TSA's ability to leverage the resources of the Department and the intelligence community (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)) to educate Administration personnel on insider threats to aviation security and how the TSA can better mitigate such insider threats.
+
+"(g)
+
+Employee Inspections.—Consistent with the FAA Extension, Safety, and Security Act of 2016 (Public Law 114–190; 130 Stat. 615), the Administrator shall ensure that TSA-led, random employee physical inspection efforts of aviation workers are targeted, strategic, and focused on providing the greatest level of security effectiveness.
+
+"(h)
+
+Covert Testing.—
+
+&emsp;"(1)
+
+In general.—Consistent with the FAA Extension, Safety, and Security Act of 2016 (Public Law 114–190; 130 Stat. 615), the Administrator shall continue to conduct covert testing of TSA-led employee inspection operations at airports and measure existing levels of security effectiveness.
+
+&emsp;"(2)
+
+Requirements.—The Administrator shall provide—
+
+&emsp;&emsp;"(A) the results of such testing to—
+
+&emsp;&emsp;&emsp;"(i) the airport operator for the airport that is the subject of any such testing; and
+
+&emsp;&emsp;&emsp;"(ii) as appropriate, to air carriers and foreign air carriers that operate at the airport that is the subject of such testing; and
+
+&emsp;&emsp;"(B) recommendations and technical assistance for air carriers, foreign air carriers, and airport operators to conduct their own employee inspections, as needed.
+
+&emsp;"(3)
+
+Annual reporting.—The Administrator shall for each of fiscal years 2019 through 2021, submit to the appropriate committees of Congress a report on the frequency, methodology, strategy, and effectiveness of employee inspection operations at airports.
+
+"(i)
+
+Centralized Database.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator, in consultation with ASAC, shall—
+
+&emsp;&emsp;"(A) subject to paragraph (2), establish a national, centralized database of the names of each individual who—
+
+&emsp;&emsp;&emsp;"(i) has had an airport-issued badge revoked for failure to comply with aviation security requirements; or
+
+&emsp;&emsp;&emsp;"(ii) has had an aircraft operator-issued badge revoked for failure to comply with aviation security requirements;
+
+&emsp;&emsp;"(B) determine the appropriate reporting mechanisms for air carriers, foreign air carriers, and airport operators—
+
+&emsp;&emsp;&emsp;"(i) to submit to the Administration data regarding an individual described in subparagraph (A); and
+
+&emsp;&emsp;&emsp;"(ii) to access the database; and
+
+&emsp;&emsp;"(C) establish a process to allow an individual whose name is mistakenly entered into the database to correct the record and have the individual's name expunged from the database.
+
+&emsp;"(2)
+
+Limitation.—The database shall not include the name of any individual whose badge has been revoked as a result of a termination or cessation of employment unrelated to—
+
+&emsp;&emsp;"(A) a violation of a security requirement; or
+
+&emsp;&emsp;"(B) a determination that the individual poses a threat to aviation security."
+
+\[For definitions of terms used in section 1934 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I of Div. K of Pub. L. 115–254 note under section 101 of this title.\]
+
+#### Law Enforcement Officer Reimbursement Program
+
+Pub. L. 115–254, div. K, title I, §1935, Oct. 5, 2018, 132 Stat. 3574, provided that:
+
+"(a)
+
+In General.—In accordance with section 44903(c)(1) of title 49, United States Code, the Administrator \[of the Transportation Security Administration\] shall increase the number of awards, and the total funding amount of each award, under the Law Enforcement Officer Reimbursement Program—
+
+&emsp;"(1) to increase the presence of law enforcement officers in the public areas of airports, including baggage claim, ticket counters, and nearby roads;
+
+&emsp;"(2) to increase the presence of law enforcement officers at screening checkpoints;
+
+&emsp;"(3) to reduce the response times of law enforcement officers during security incidents; and
+
+&emsp;"(4) to provide visible deterrents to potential terrorists.
+
+"(b)
+
+Cooperation by Administrator.—In carrying out subsection (a), the Administrator shall use the authority provided to the Administrator under section 114(m) of title 49, United States Code, that is the same authority as is provided to the Administrator of the Federal Aviation Administration under section 106(m) of that title.
+
+"(c)
+
+Administrative Burdens.—The Administrator shall review the regulations and compliance policies related to the Law Enforcement Officer Reimbursement Program and, if necessary, revise such regulations and policies to reduce any administrative burdens on applicants or recipients of such awards.
+
+"(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out section 44901(h) of title 49, United States Code, $55,000,000 for each of fiscal years 2019 through 2021."
+
+#### Airport Perimeter and Access Control Security
+
+Pub. L. 115–254, div. K, title I, §1936, Oct. 5, 2018, 132 Stat. 3575, provided that:
+
+"(a)
+
+Risk Assessments of Airport Security.—
+
+&emsp;"(1)
+
+In general.—The Administrator \[of the Transportation Security Administration\] shall—
+
+&emsp;&emsp;"(A) not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], update the Transportation Sector Security Risk Assessment (referred to in this section as the 'TSSRA'); and
+
+&emsp;&emsp;"(B) not later than 90 days after the date the TSSRA is updated under subparagraph (A)—
+
+&emsp;&emsp;&emsp;"(i) update with the most currently available intelligence information the Comprehensive Risk Assessment of Perimeter and Access Control Security (referred to in this section as the 'Risk Assessment of Airport Security');
+
+&emsp;&emsp;&emsp;"(ii) establish a regular schedule for periodic updates to the Risk Assessment of Airport Security; and
+
+&emsp;&emsp;&emsp;"(iii) conduct a system-wide assessment of airport access control points and airport perimeter security.
+
+&emsp;"(2)
+
+Contents.—The security risk assessments required under paragraph (1)(B) shall—
+
+&emsp;&emsp;"(A) include updates reflected in the TSSRA and Joint Vulnerability Assessment findings;
+
+&emsp;&emsp;"(B) reflect changes to the risk environment relating to airport access control points and airport perimeters;
+
+&emsp;&emsp;"(C) use security event data for specific analysis of system-wide trends related to airport access control points and airport perimeter security to better inform risk management decisions; and
+
+&emsp;&emsp;"(D) consider the unique geography of and current best practices used by airports to mitigate potential vulnerabilities.
+
+&emsp;"(3)
+
+Report.—The Administrator shall report the results of the TSSRA and Risk Assessment of Airport Security under paragraph (1) to—
+
+&emsp;&emsp;"(A) the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\];
+
+&emsp;&emsp;"(B) relevant Federal departments and agencies; and
+
+&emsp;&emsp;"(C) airport operators.
+
+"(b)
+
+Airport Security Strategy Development.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of enactment of this Act, the Administrator shall update the 2012 National Strategy for Airport Perimeter and Access Control Security (referred to in this section as the 'National Strategy').
+
+&emsp;"(2)
+
+Contents.—The update to the National Strategy shall include—
+
+&emsp;&emsp;"(A) information from the Risk Assessment of Airport Security; and
+
+&emsp;&emsp;"(B) information on—
+
+&emsp;&emsp;&emsp;"(i) airport security-related activities;
+
+&emsp;&emsp;&emsp;"(ii) the status of TSA \[Transportation Security Administration\] efforts to address the objectives of the National Strategy;
+
+&emsp;&emsp;&emsp;"(iii) finalized outcome-based performance measures and performance levels for—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) each activity described in clause (i); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) each objective described in clause (ii); and
+
+&emsp;&emsp;&emsp;"(iv) input from airport operators.
+
+&emsp;"(3)
+
+Updates.—Not later than 90 days after the date the update to the National Strategy is complete, the Administrator shall establish a regular schedule for determining if and when additional updates to the strategy under paragraph (1) are necessary."
+
+#### Traveler Redress Improvement
+
+Pub. L. 115–254, div. K, title I, §1949, Oct. 5, 2018, 132 Stat. 3588, provided that:
+
+"(a)
+
+Redress Process.—
+
+&emsp;"(1)
+
+In general.—Not later than 30 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\], using existing resources, systems, and processes, shall ensure the availability of the Department of Homeland Security Traveler Redress Inquiry Program (referred to in this section as 'DHS TRIP') redress process to adjudicate an inquiry for an individual who—
+
+&emsp;&emsp;"(A) is a citizen of the United States or alien lawfully admitted for permanent residence;
+
+&emsp;&emsp;"(B) has filed the inquiry with DHS TRIP after receiving enhanced screening at an airport passenger security checkpoint more than 3 times in any 60-day period; and
+
+&emsp;&emsp;"(C) believes the individual has been wrongly identified as being a threat to aviation security.
+
+&emsp;"(2)
+
+Briefing.—Not later than 180 days after the date of enactment of this Act, the Administrator shall brief the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] on the implementation of the redress process required under paragraph (1).
+
+"(b)
+
+Privacy Impact Review and Update.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act, the Administrator shall review and update the Privacy Impact Assessment for the Secure Flight programs to ensure the assessment accurately reflects the operation of such programs.
+
+&emsp;"(2)
+
+Public dissemination; form.—The Administrator shall—
+
+&emsp;&emsp;"(A) publish the Secure Flight Privacy Impact Assessment review and update required under paragraph (1) on a publicly-accessible internet webpage of the TSA \[Transportation Security Administration\]; and
+
+&emsp;&emsp;"(B) submit the Secure Flight Privacy Impact Assessment review and update to the appropriate committees of Congress.
+
+"(c)
+
+Rule Review and Notification Process.—
+
+&emsp;"(1)
+
+Rule review.—Not later than 60 days after the date of enactment of this Act, and every 120 days thereafter, the Assistant Administrator of the Office of Intelligence and Analysis of the TSA, in coordination with the entities specified in paragraph (3), shall identify and review the screening rules established by the Office of Intelligence and Analysis of \[the\] TSA.
+
+&emsp;"(2)
+
+Notification process.—Not later than 2 days after the date that any change to a rule identified under paragraph (1) is made, the Assistant Administrator of the Office of Intelligence and Analysis of the TSA shall notify the entities specified in paragraph (3) of the change.
+
+&emsp;"(3)
+
+Entities specified.—The entities specified in this paragraph are as follows:
+
+&emsp;&emsp;"(A) The Office of Civil Rights and Liberties, Ombudsman, and Traveler Engagement of the TSA.
+
+&emsp;&emsp;"(B) The Office of Civil Rights and Liberties of the Department \[of Homeland Security\].
+
+&emsp;&emsp;"(C) The Office of Chief Counsel of the TSA.
+
+&emsp;&emsp;"(D) The Office of General Counsel of the Department.
+
+&emsp;&emsp;"(E) The Privacy Office of the Administration.
+
+&emsp;&emsp;"(F) The Privacy Office of the Department.
+
+&emsp;&emsp;"(G) The Federal Air Marshal Service.
+
+&emsp;&emsp;"(H) The Traveler Redress Inquiry Program of the Department.
+
+"(d)
+
+Federal Air Marshal Service Coordination.—
+
+&emsp;"(1)
+
+In general.—The Administrator shall ensure that the rules identified in subsection (c) are taken into account for Federal Air Marshal mission scheduling.
+
+&emsp;"(2)
+
+Report.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator shall submit to the appropriate committees of Congress a report on whether, and if so how, the rulesidentified in subsection (c) are incorporated in the risk analysis conducted during the Federal Air Marshal mission scheduling process.
+
+"(e)
+
+GAO Report.—Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall—
+
+&emsp;"(1) study the rules identified under subsection (c)(1), including—
+
+&emsp;&emsp;"(A) whether the rules are effective in mitigating potential threats to aviation security; and
+
+&emsp;&emsp;"(B) whether, and if so how, the TSA coordinates with the Department regarding any proposed change to a rule; and
+
+&emsp;"(2) submit to the appropriate committees of Congress a report on the findings under paragraph (1), including any recommendations."
+
+#### General Aviation Airports
+
+Pub. L. 115–254, div. K, title I, §1952, Oct. 5, 2018, 132 Stat. 3592, provided that:
+
+"(a)
+
+Short Title.—This section may be cited as the 'Securing General Aviation and Charter Air Carrier Service Act'.
+
+"(b)
+
+Advanced Passenger Prescreening System.—Not later than 120 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator shall submit to the appropriate committees of Congress a report on the status of the deployment of the advanced passenger prescreening system, and access thereto for certain aircraft charter operators, as required by section 44903(j)(2)(E) of title 49, United States Code, including—
+
+&emsp;"(1) the reasons for the delay in deploying the system; and
+
+&emsp;"(2) a detailed schedule of actions necessary for the deployment of the system.
+
+"(c)
+
+Screening Services Other Than in Primary Passenger Terminals.—
+
+&emsp;"(1)
+
+In general.—Subject to the provisions of this subsection, the Administrator may provide screening services to a charter air carrier in an area other than the primary passenger terminal of an applicable airport.
+
+&emsp;"(2)
+
+Requests.—A request for screening services under paragraph (1) shall be made at such time, in such form, and in such manner as the Administrator may require, except that the request shall be made to the Federal Security Director for the applicable airport at which the screening services are requested.
+
+&emsp;"(3)
+
+Availability.—A Federal Security Director may provide requested screening services under this section if the Federal Security Director determines such screening services are available.
+
+&emsp;"(4)
+
+Agreements.—
+
+&emsp;&emsp;"(A)
+
+Limitation.—No screening services may be provided under this section unless a charter air carrier agrees in writing to compensate the TSA for all reasonable costs, including overtime, of providing the screening services.
+
+&emsp;&emsp;"(B)
+
+Payments.—Notwithstanding section 3302 of title 31, United States Code, payment received under subparagraph (A) shall be credited to the account that was used to cover the cost of providing the screening services. Amounts so credited shall be merged with amounts in that account, and shall be available for the same purposes, and subject to the same conditions and limitations, as other amounts in that account.
+
+&emsp;"(5)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;"(A)
+
+Applicable airport.—The term 'applicable airport' means an airport that—
+
+&emsp;&emsp;&emsp;"(i) is not a commercial service airport; and
+
+&emsp;&emsp;&emsp;"(ii) is receiving screening services for scheduled passenger aircraft.
+
+&emsp;&emsp;"(B)
+
+Charter air carrier.—The term 'charter air carrier' has the meaning given the term in section 40102 of title 49, United States Code.
+
+&emsp;&emsp;"(C)
+
+Screening services.—The term 'screening services' means the screening of passengers and property similar to the screening of passengers and property described in section 44901 of title 49, United States Code.
+
+"(d)
+
+Report.—Not later than 120 days after the date of enactment of this Act, the Administrator, in consultation with the ASAC, shall, consistent with the requirements of paragraphs (6) and (7) of section 44946(b) of title 49, United States Code, submit to the appropriate Committees of Congress an implementation plan, including an implementation schedule, for any of the following recommendations that were adopted by the ASAC and with which the Administrator has concurred before the date of the enactment of this Act:
+
+&emsp;"(1) The recommendation regarding general aviation access to Ronald Reagan Washington National Airport, as adopted on February 17, 2015.
+
+&emsp;"(2) The recommendation regarding the vetting of persons seeking flight training in the United States, as adopted on July 28, 2016.
+
+&emsp;"(3) Any other such recommendations relevant to the security of general aviation adopted before the date of the enactment of this Act.
+
+"(e)
+
+Designated Staffing.—The Administrator may designate 1 or more full-time employees of the TSA to liaise with, and respond to issues raised by, general aviation stakeholders.
+
+"(f)
+
+Security Enhancements.—Not later than 1 year after the date of enactment of this Act, the Administrator, in consultation with the ASAC, shall submit to the appropriate committees of Congress a report on the feasibility of requiring a security threat assessment before an individual could obtain training from a private flight school to operate an aircraft having a maximum certificated takeoff weight of more than 12,500 pounds."
+
+\[For definitions of terms used in section 1952 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I of Div. K of Pub. L. 115–254 note under section 101 of this title.\]
+
+#### Flight Deck Safety and Security
+
+Pub. L. 115–254, div. K, title I, §1961, Oct. 5, 2018, 132 Stat. 3600, provided that:
+
+"(a)
+
+Threat Assessment.—Not later than 90 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\], in consultation with the Administrator of the Federal Aviation Administration, shall complete a detailed threat assessment to identify any safety or security risks associated with unauthorized access to the flight decks on commercial aircraft and any appropriate measures that should be taken based on the risks.
+
+"(b)
+
+RTCA Report.—The Administrator, in coordination with the Administrator of the Federal Aviation Administration, shall disseminate RTCA Document (DO–329) Aircraft Secondary Barriers and Alternative Flight Deck Security Procedure to aviation stakeholders, including air carriers and flight crew, to convey effective methods and best practices to protect the flight deck."
 
 #### Aviation Cybersecurity
+
+Pub. L. 115–254, div. B, title V, §509, Oct. 5, 2018, 132 Stat. 3355, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall initiate a review of the comprehensive and strategic framework of principles and policies (referred to in this section as the 'framework') developed pursuant to section 2111 of the FAA Extension, Safety, and Security Act of 2016 \[Pub. L. 114–190\] (49 U.S.C. 44903 note) \[set out below\].
+
+"(b)
+
+Contents.—In undertaking the review under subsection (a), the Administrator shall—
+
+&emsp;"(1) assess the degree to which the framework identifies and addresses known cybersecurity risks associated with the aviation system;
+
+&emsp;"(2) review existing short- and long-term objectives for addressing cybersecurity risks to the national airspace system; and
+
+&emsp;"(3) assess the \[Federal Aviation\] Administration's level of engagement and coordination with aviation stakeholders and other appropriate agencies, organizations, or groups with which the Administration consults to carry out the framework.
+
+"(c)
+
+Updates.—Upon completion of the review under subsection (a), the Administrator shall modify the framework, as appropriate, to address any deficiencies identified by the review.
+
+"(d)
+
+Report to Congress.—Not later than 180 days after initiating the review required by subsection (a), the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on the results of the review, including a description of any modifications made to the framework."
 
 Pub. L. 114–190, title II, §2111, July 15, 2016, 130 Stat. 625, provided that:
 
@@ -912,7 +1554,7 @@ Pub. L. 110–53, title XVI, §1614, Aug. 3, 2007, 121 Stat. 486, provided that:
 
 "(a)
 
-Report.—Not later than 180 days after the date of enactment of this Act \[Aug. 3, 2007\], the Administrator of the Transportation Security Administration, after consultation with airline, airport, and flight crew representatives, shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of the Administration's efforts to institute a sterile area access system or method that will enhance security by properly identifying authorized airline flight deck and cabin crew members at screening checkpoints and granting them expedited access through screening checkpoints. The Administrator shall include in the report recommendations on the feasibility of implementing the system for the domestic aviation industry beginning 1 year after the date on which the report is submitted.
+Report.—Not later than 180 days after the date of enactment of this Act \[Aug. 3, 2007\], the Administrator of the Transportation Security Administration, after consultation with airline, airport, and flight crewrepresentatives, shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of the Administration's efforts to institute a sterile area access system or method that will enhance security by properly identifying authorized airline flight deck and cabin crew members at screening checkpoints and granting them expedited access through screening checkpoints. The Administrator shall include in the report recommendations on the feasibility of implementing the system for the domestic aviation industry beginning 1 year after the date on which the report is submitted.
 
 "(b)
 
@@ -994,7 +1636,7 @@ Pub. L. 107–71, title I, §106(b), Nov. 19, 2001, 115 Stat. 609, provided that
 
 "(1)
 
-Technical support and financial assistance.—The Under Secretary of Transportation for Security shall develop a plan to—
+Technical support and financial assistance.—The Under Secretary of Transportation for Security\[now Administrator of the Transportation Security Administration\] shall develop a plan to—
 
 &emsp;"(A) provide technical support to airports, each of which had less than 1 percent of the total annual enplanements in the United States for the most recent calendar year for which data is available, to enhance security operations; and
 
@@ -1022,7 +1664,7 @@ Countermand period.—The time period within which the Secretary may notify an a
 
 #### Airport Security Awareness Programs
 
-Pub. L. 107–71, title I, §106(e), Nov. 19, 2001, 115 Stat. 610, provided that: "The Under Secretary of Transportation for Security shall require scheduled passenger air carriers, and airports in the United States described in section 44903(c) \[of title 49\] to develop security awareness programs for airport employees, ground crews, gate, ticket, and curbside agents of the air carriers, and other individuals employed at such airports."
+Pub. L. 107–71, title I, §106(e), Nov. 19, 2001, 115 Stat. 610, provided that: "The Under Secretary of Transportation for Security \[now Administrator of the Transportation Security Administration\] shall require scheduled passenger air carriers, and airports in the United States described in section 44903(c) \[of title 49\] to develop security awareness programs for airport employees, ground crews, gate, ticket, and curbside agents of the air carriers, and other individuals employed at such airports."
 
 #### Airline Computer Reservation Systems
 
@@ -1174,7 +1816,5 @@ Pub. L. 104–264, title III, §309, Oct. 9, 1996, 110 Stat. 3253, provided that
 
 For definitions of terms used in sections 104, 106(b), (e), 117, 121, 128, and 132(a) of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "Under Secretary".</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "paragraph".</i>
+<i><sup>1</sup></i><i> So in original.</i>
 

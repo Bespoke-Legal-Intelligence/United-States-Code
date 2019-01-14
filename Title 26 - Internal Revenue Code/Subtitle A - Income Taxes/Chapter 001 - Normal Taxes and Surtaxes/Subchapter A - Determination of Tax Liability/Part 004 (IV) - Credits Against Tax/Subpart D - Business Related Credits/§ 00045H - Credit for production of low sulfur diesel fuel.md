@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (d) Special rule for determination of refinery runs
 
-For purposes <sup>1</sup> this section and section 179B(b), in the calculation of average daily domestic refinery run or retained production, only refineries which on April 1, 2003, were refineries of the refiner or a related person (within the meaning of section 613A(d)(3)), shall be taken into account.
+For purposes of this section and section 179B(b), in the calculation of average daily domestic refinery run or retained production, only refineries which on April 1, 2003, were refineries of the refiner or a related person (within the meaning of section 613A(d)(3)), shall be taken into account.
 
 #### (e) Certification
 
@@ -108,9 +108,11 @@ For purposes <sup>1</sup> this section and section 179B(b), in the calculation 
 
 No credit shall be determined under subsection (a) for the taxable year if the taxpayer elects not to have subsection (a) apply to such taxable year.
 
-(Added Pub. L. 108–357, title III, §339(a), Oct. 22, 2004, 118 Stat. 1481; amended Pub. L. 110–172, §7(a)(1)(A), (2)(A), (3)(A), (B), Dec. 29, 2007, 121 Stat. 2481, 2482.)
+(Added Pub. L. 108–357, title III, §339(a), Oct. 22, 2004, 118 Stat. 1481; amended Pub. L. 110–172, §7(a)(1)(A), (2)(A), (3)(A), (B), Dec. 29, 2007, 121 Stat. 2481, 2482; Pub. L. 115–141, div. U, title IV, §401(a)(19), Mar. 23, 2018, 132 Stat. 1185.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–141 substituted "purposes of this" for "purposes this".
 
 <b>2007</b>—Subsec. (b)(1)(A). Pub. L. 110–172, §7(a)(3)(A), substituted "qualified costs" for "qualified capital costs".
 
@@ -135,6 +137,4 @@ Amendment by Pub. L. 110–172 effective as if included in the provision of the 
 #### Effective Date
 
 Section applicable to expenses paid or incurred after Dec. 31, 2002, in taxable years ending after such date, see section 339(f) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under section 38 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "of".</i>
 

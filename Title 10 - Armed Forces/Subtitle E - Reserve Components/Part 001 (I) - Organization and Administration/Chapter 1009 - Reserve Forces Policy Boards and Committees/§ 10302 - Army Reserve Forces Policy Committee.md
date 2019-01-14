@@ -6,11 +6,11 @@
 
 &emsp;(1) five members of the Regular Army on duty with the Army General Staff;
 
-&emsp;(2) five members of the Army National Guard of the United States not on active duty; and
+&emsp;(2) five members of the Army National Guard of the United States; and
 
-&emsp;(3) five members of the Army Reserve not on active duty.
+&emsp;(3) five members of the Army Reserve.
 
-(c) The members of the Committee shall select the Chairman from among the members on the Committee not on active duty.
+(c) The members of the Committee shall select the Chairman from among the members of the reserve components on the Committee.
 
 (d) A majority of the members of the Committee shall act whenever matter affecting both the Army National Guard of the United States and Army Reserve are being considered. However, when any matter solely affecting one of the reserve components of the Army is being considered, it shall be acted upon only by the Subcommittee on Army National Guard Policy or the Subcommittee on Army Reserve Policy, as appropriate.
 
@@ -22,7 +22,7 @@
 
 (h) There shall be not less than 10 officers of the Army National Guard of the United States and the Army Reserve on duty with the Army Staff, one-half of whom shall be from each of those components. These officers shall be considered as additional members of the Army Staff while on that duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 161, §3033; Pub. L. 85–861, §33(a)(17), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 90–168, §2(18), Dec. 1, 1967, 81 Stat. 524; renumbered §3021 and amended Pub. L. 99–433, title V, §501(a)(8), Oct. 1, 1986, 100 Stat. 1039; renumbered §10302, Pub. L. 103–337, div. A, title XVI, §1661(b)(2)(A), Oct. 5, 1994, 108 Stat. 2981.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 161, §3033; Pub. L. 85–861, §33(a)(17), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 90–168, §2(18), Dec. 1, 1967, 81 Stat. 524; renumbered §3021 and amended Pub. L. 99–433, title V, §501(a)(8), Oct. 1, 1986, 100 Stat. 1039; renumbered §10302, Pub. L. 103–337, div. A, title XVI, §1661(b)(2)(A), Oct. 5, 1994, 108 Stat. 2981; Pub. L. 115–232, div. A, title V, §516, Aug. 13, 2018, 132 Stat. 1753.)
 
 Historical and Revision Notes<br>1956
 
@@ -84,6 +84,10 @@ The change is necessary to make subsection (d) coextensive with subsection (c), 
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b)(2), (3). Pub. L. 115–232, §516(1), struck out "not on active duty" after "United States" in par. (2) and after "Army Reserve" in par. (3).
+
+Subsec. (c). Pub. L. 115–232, §516(2), inserted "of the reserve components" after "among the members" and struck out "not on active duty" before period at end.
+
 <b>1994</b>—Pub. L. 103–337 renumbered section 3021 of this title as this section.
 
 <b>1986</b>—Pub. L. 99–433, §501(a)(8)(C), renumbered section 3033 of this title as this section, and substituted "Army Reserve Forces Policy Committee" for "Reserve components of Army; policies and regulations for government of" in section catchline.
@@ -92,7 +96,7 @@ Subsec. (a). Pub. L. 99–433, §501(a)(8)(A), substituted "Office" for "office"
 
 Subsec. (h). Pub. L. 99–433, §501(a)(8)(B), struck out "General" before "Staff" in two places.
 
-<b>1967</b>—Pub. L. 90–168 amended section generally, and restated with certain changes the existing authority relating to the Army Reserve Forces Policy Committee within the Office of the Secretary of the Army, reduced the membership of the Committee from 21 to 15, reduced the grade requirements so as to permit inclusion of colonels, and provided that the Committee review and comment upon all major policies affecting Army Reserve matters and that the Committee comments accompany any final submission to the Chief of Staff and Assistant Secretary responsible for Reserve Affairs.
+<b>1967</b>—Pub. L. 90–168 amended section generally, and restated with certain changes the existing authorityrelating to the Army Reserve Forces Policy Committee within the Office of the Secretary of the Army, reduced the membership of the Committee from 21 to 15, reduced the grade requirements so as to permit inclusion of colonels, and provided that the Committee review and comment upon all major policies affecting Army Reserve matters and that the Committee comments accompany any final submission to the Chief of Staff and Assistant Secretary responsible for Reserve Affairs.
 
 <b>1958</b>—Subsec. (d). Pub. L. 85–861 substituted "affecting the organization, distribution, training, appointment, assignment, promotion, or discharge of members of the Army Reserve and those of either" for "affecting the Army Reserve and either".
 

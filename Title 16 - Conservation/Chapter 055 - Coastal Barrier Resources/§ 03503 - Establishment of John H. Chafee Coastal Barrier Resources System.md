@@ -2,17 +2,33 @@
 
 #### (a) Establishment
 
-There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled "Coastal Barrier Resources System", dated October 24, 1990, as those maps may be modified, revised, or corrected under—
+There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled "Coastal Barrier Resources System", dated October 24, 1990, as those maps may be replaced, modified, revised, or corrected under—
 
 &emsp;(1) subsection (f)(3);
 
 &emsp;(2) section 4 of the Coastal Barrier Improvement Act of 1990 (16 U.S.C. 3503 note; Public Law 101–591); or
 
-&emsp;(3) any other provision of law enacted on or after November 16, 1990, that specifically authorizes the modification, revision, or correction.
+&emsp;(3) any other provision of law enacted on or after November 16, 1990, that specifically replaces such a map or authorizes the modification, revision, or correction.
 
 #### (b) System maps
 
-The Secretary shall keep the maps referred to in subsection (a) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service, and in such other offices of that service as the Director considers appropriate.
+#### (1) In general
+
+&emsp;The Secretary shall keep the maps referred to in subsection (a) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service, and in such other offices of that service as the Director considers appropriate.
+
+#### (2) Digital maps
+
+#### (A) Availability
+
+&emsp;&emsp;The Secretary shall make available to the public on the Internet web site of the United States Fish and Wildlife Service digital versions of the maps included in the set of maps referred to in subsection (a).
+
+#### (B) Effect
+
+&emsp;&emsp;Any determination as to whether a location is inside or outside the System shall be made without regard to the digital maps available under this paragraph, except that this subparagraph does not apply with respect to any printed version of such a digital map if the printed version is included in the maps referred to in subsection (a).
+
+#### (C) Report
+
+&emsp;&emsp;No later than 180 days after December 21, 2018, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report regarding the progress and challenges in the transition from paper to digital maps and a timetable for completion of the digitization of all maps related to the System.
 
 #### (c) Boundary review and modification
 
@@ -86,7 +102,7 @@ The Secretary shall—
 
 &emsp;Nothing in this subsection supersedes the official maps referred to in subsection (a).
 
-(Pub. L. 97–348, §4, Oct. 18, 1982, 96 Stat. 1654; Pub. L. 97–396, §8, Dec. 31, 1982, 96 Stat. 2007; Pub. L. 100–707, title II, §204(b), Nov. 23, 1988, 102 Stat. 4713; Pub. L. 101–591, §3, Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(3), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, §§2–3(b)(1), (c), (d), Nov. 13, 2000, 114 Stat. 2394, 2395.)
+(Pub. L. 97–348, §4, Oct. 18, 1982, 96 Stat. 1654; Pub. L. 97–396, §8, Dec. 31, 1982, 96 Stat. 2007; Pub. L. 100–707, title II, §204(b), Nov. 23, 1988, 102 Stat. 4713; Pub. L. 101–591, §3, Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(3), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, §§2–3(b)(1), (c), (d), Nov. 13, 2000, 114 Stat. 2394, 2395; Pub. L. 115–358, §§2(d), 3, Dec. 21, 2018, 132 Stat. 5080.)
 
 #### Codification
 
@@ -96,7 +112,13 @@ In subsec. (e)(1), "chapters 1 to 11 of title 40 and division C (except sections
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–514, §3(d), substituted "which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled 'Coastal Barrier Resources System', dated October 24, 1990, as those maps may be modified, revised, or corrected under—" and pars. (1) to (3) for "which shall consist of those undeveloped coastal barriers and otherareas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled 'Coastal Barrier Resources System', dated October 24, 1990, as such maps may be revised by the Secretary under section 4 of the Coastal Barrier Improvement Act of 1990."
+<b>2018</b>—Subsec. (a). Pub. L. 115–358, §2(d)(1), inserted "replaced," after "may be" in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 115–358, §2(d)(2), inserted "replaces such a map or" after "that specifically".
+
+Subsec. (b). Pub. L. 115–358, §3, designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+<b>2000</b>—Subsec. (a). Pub. L. 106–514, §3(d), substituted "which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled 'Coastal Barrier Resources System', dated October 24, 1990, as those maps may be modified, revised, or corrected under—" and pars. (1) to (3) for "which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled 'Coastal Barrier Resources System', dated October 24, 1990, as such maps may be revised by the Secretary under section 4 of the Coastal Barrier Improvement Act of 1990."
 
 Subsec. (d). Pub. L. 106–514, §3(a), added subsec. (d).
 
@@ -124,7 +146,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Coastal Barrier Resources Reauthorization
 
-Pub. L. 109–226, May 25, 2006, 120 Stat. 381, provided that:
+Pub. L. 109–226, May 25, 2006, 120 Stat. 381, as amended by Pub. L. 115–358, §4, Dec. 21, 2018, 132 Stat. 5081, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -150,41 +172,7 @@ Secretary.—The term 'Secretary' means the Secretary of the Interior.
 
 System unit.—The term 'System unit' has the meaning given the term in section 3 of the Coastal Barrier Resources Act (16 U.S.C. 3502).
 
-#### "SEC. 3. DIGITAL MAPPING PILOT PROJECT FINALIZATION.
-
-"(a)
-
-In General.—Not later than 2 years after the date of enactment of this Act \[May 25, 2006\], the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a report regarding the digital maps of the System units and otherwise protected areas created under the pilot project.
-
-"(b)
-
-Consultation.—The Secretary shall prepare the report required under subsection (a)—
-
-&emsp;"(1) in consultation with the Governors of the States in which any System units and otherwise protected areas are located; and
-
-&emsp;"(2) after—
-
-&emsp;&emsp;"(A) providing an opportunity for the submission of public comments; and
-
-&emsp;&emsp;"(B) considering any public comments submitted under subparagraph (A).
-
-"(c)
-
-Contents.—The report required under subsection (a) shall contain—
-
-&emsp;"(1) the final recommended digital maps created under the pilot project;
-
-&emsp;"(2) recommendations for the adoption of the digital maps by Congress;
-
-&emsp;"(3) a summary of the comments received from the Governors of the States, other government officials, and the public regarding the digital maps;
-
-&emsp;"(4) a summary and update of the protocols and findings of the report required under section 6(d) of the Coastal Barrier Resources Reauthorization Act of 2000 (16 U.S.C. 3503 note; Public Law 106–514); and
-
-&emsp;"(5) an analysis of any benefits that the public would receive by using digital mapping technology for all System units and otherwise protected areas.
-
-"(d)
-
-Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $500,000 for each of fiscal years 2006 through 2007.
+#### "\[SEC. 3. Repealed. Pub. L. 115–358, §4, Dec. 21, 2018, 132 Stat. 5081.\]
 
 #### "SEC. 4. DIGITAL MAPPING PROJECT FOR THE REMAINING JOHN H. CHAFEE COASTAL BARRIER RESOURCES SYSTEM UNITS AND OTHERWISE PROTECTED AREAS.
 
@@ -370,6 +358,8 @@ References.—Any reference in a law, map, regulation, document, paper, or other
 
 The following acts directed the Secretary of the Interior to make technical revisions and corrections to maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
 
+Pub. L. 115–358, §2(a)–(c), Dec. 21, 2018, 132 Stat. 5078–5080.
+
 Pub. L. 114–314, §1, Dec. 16, 2016, 130 Stat. 1535.
 
 Pub. L. 114–128, §1, Feb. 29, 2016, 130 Stat. 287.
@@ -434,7 +424,7 @@ Technical Revision of Maps and Provision to State and Local Government.—Not la
 
 "(b)
 
-Recommendations of State and Local Governments for Boundary Modifications.—(1) Not later than 1 year after the date of the enactment of this Act \[Nov. 16, 1990\]—
+Recommendations of State and Local Governments for Boundary Modifications.—(1) Not laterthan 1 year after the date of the enactment of this Act \[Nov. 16, 1990\]—
 
 &emsp;"(A) a local government in which is located a unit of the System and which is in a State which has a coastal zone management program approved pursuant to section 306 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1455); and
 

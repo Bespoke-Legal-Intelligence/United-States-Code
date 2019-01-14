@@ -20,7 +20,7 @@ This section may be cited as the "Danny Keysar Child Product Safety Notification
 
 #### (2) Timetable for rulemaking
 
-&emsp;Not later than 1 year after August 14, 2008, the Commission shall commence the rulemaking required under paragraph (1) and shallpromulgate standards for no fewer than 2 categories of durable infant or toddler products every 6 months thereafter, beginning with the product categories that the Commission determines to be of highest priority, until the Commission has promulgated standards for all such product categories. Thereafter, the Commission shall periodically review and revise the standards set forth under this subsection to ensure that such standards provide the highest level of safety for such products that is feasible.
+&emsp;Not later than 1 year after August 14, 2008, the Commission shall commence the rulemaking required under paragraph (1) and shall promulgate standards for no fewer than 2 categories of durable infant or toddler products every 6 months thereafter, beginning with the product categories that the Commission determines to be of highest priority, until the Commission has promulgated standards for all such product categories. Thereafter, the Commission shall periodically review and revise the standards set forth under this subsection to ensure that such standards provide the highest level of safety for such products that is feasible.
 
 #### (3) Judicial review
 

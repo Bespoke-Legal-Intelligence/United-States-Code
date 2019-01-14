@@ -12,7 +12,7 @@ In the case of an individual who does not elect to itemize his deductions for th
 
 &emsp;(2) the deduction for personal exemptions provided in section 151, and
 
-&emsp;(3) the deduction provided in section 199A.
+&emsp;(3) any deduction provided in section 199A.
 
 #### (c) Standard deduction
 
@@ -46,7 +46,7 @@ For purposes of this subtitle—
 
 #### (4) Adjustments for inflation
 
-&emsp;In the case of any taxable year beginning in a calendar year after 1988, each dollar amount contained in paragraph (2)(B), (2)(C), or (5) or subsection (f) shall be increased by an amount equal to—
+&emsp;In the case of any taxable year beginning in a calendar year after 1988, each dollar amountcontained in paragraph (2)(B), (2)(C), or (5) or subsection (f) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
@@ -114,7 +114,7 @@ For purposes of this subtitle, the term "itemized deductions" means the deductio
 
 &emsp;(2) the deduction for personal exemptions provided by section 151, and
 
-&emsp;(3) the deduction provided in section 199A.
+&emsp;(3) any deduction provided in section 199A.
 
 #### (e) Election to itemize
 
@@ -144,7 +144,7 @@ For purposes of this subtitle, the term "itemized deductions" means the deductio
 
 &emsp;&emsp;(A) for himself if he has attained age 65 before the close of his taxable year, and
 
-&emsp;&emsp;(B) for the spouse of the taxpayer if the spouse has attained age 65 before the close of the taxable year and an additional exemption is allowable to the taxpayer for such spouse under section 151(b).
+&emsp;&emsp;(B) for the spouse of the taxpayer if the spouse has attained age 65 before the close ofthe taxable year and an additional exemption is allowable to the taxpayer for such spouse under section 151(b).
 
 #### (2) Additional amount for blind
 
@@ -168,13 +168,15 @@ For purposes of this subtitle, the term "itemized deductions" means the deductio
 
 For purposes of this section, marital status shall be determined under section 7703.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754; Pub. L. 108–311, title I, §101(b), Oct. 4, 2004, 118 Stat. 1167; Pub. L. 110–289, div. C, title I, §3012(a), (b), July 30, 2008, 122 Stat. 2891, 2892; Pub. L. 110–343, div. C, title II, §204(a), title VII, §706(b)(1), (2), Oct. 3, 2008, 122 Stat. 3865, 3922; Pub. L. 111–5, div. B, title I, §1008(c), Feb. 17, 2009, 123 Stat. 318; Pub. L. 113–295, div. A, title II, §221(a)(13), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 115–97, title I, §§11002(d)(1)(K), 11011(b)(2), (3), 11021(a), Dec. 22, 2017, 131 Stat. 2060, 2070, 2072.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754; Pub. L. 108–311, title I, §101(b), Oct. 4, 2004, 118 Stat. 1167; Pub. L. 110–289, div. C, title I, §3012(a), (b), July 30, 2008, 122 Stat. 2891, 2892; Pub. L. 110–343, div. C, title II, §204(a), title VII, §706(b)(1), (2), Oct. 3, 2008, 122 Stat. 3865, 3922; Pub. L. 111–5, div. B, title I, §1008(c), Feb. 17, 2009, 123 Stat. 318; Pub. L. 113–295, div. A, title II, §221(a)(13), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 115–97, title I, §§11002(d)(1)(K), 11011(b)(2), (3), 11021(a), Dec. 22, 2017, 131 Stat. 2060, 2070, 2072; Pub. L. 115–141, div. T, §101(a)(2)(A), Mar. 23, 2018, 132 Stat. 1155.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+<b>2018</b>—Subsecs. (b)(3), (d)(3). Pub. L. 115–141 substituted "any deduction" for "the deduction".
 
 <b>2017</b>—Subsec. (b)(3). Pub. L. 115–97, §11011(b)(2), added par. (3).
 
@@ -334,7 +336,7 @@ Subsec. (i). Pub. L. 99–514, §102(a), in amending section generally, struck o
 
 <b>1981</b>—Subsec. (b)(1)(C). Pub. L. 97–34, §121(b)(1), added subpar. (C).
 
-Subsec. (d). Pub. L. 97–34, §104(b), substituted a blanket reference to individuals to whom subsection (a), (b), (c), or (d) of section 1 applies and the maximum amount of taxable income on which no tax is imposed by the applicable subsection of section 1 for provisions specifically referring to amounts of $3,400 in the case of (A) a joint return under section 6013, or (B) a surviving spouse (as defined in section 2(a)), $2,300 in the case of an individual who is not married and who is not a surviving spouse (as so defined), and $1,700 in the case of a married individual filing a separate return.
+Subsec. (d). Pub. L. 97–34, §104(b), substituted a blanket reference to individuals to whom subsection (a), (b), (c), or (d) of section 1 applies and the maximum amount of taxable income on which no tax is imposed by the applicable subsection of section 1 for provisionsspecifically referring to amounts of $3,400 in the case of (A) a joint return under section 6013, or (B) a surviving spouse (as defined in section 2(a)), $2,300 in the case of an individual who is not married and who is not a surviving spouse (as so defined), and $1,700 in the case of a married individual filing a separate return.
 
 Subsec. (e)(2). Pub. L. 97–34, §111(b)(4), substituted "section 911(d)(2)" for "section 911(b)" in provisions following subpar. (B).
 
@@ -345,6 +347,10 @@ Subsec. (i). Pub. L. 97–34, §121(b)(2), added subsec. (i).
 <b>1978</b>—Pub. L. 95–600 substituted "$3,400" for "$3,200" in par. (1), "$2,300" for "$2,200" in par. (2), and "$1,700" for "$1,600" in par. (3).
 
 <b>1977</b>—Pub. L. 95–30 completely revised definition of taxable income from one using the concept of a standard deduction and consisting of subsecs. (a) and (b) entitled, respectively, "General rule" and "Individuals electing standard deduction" to definition using the concepts of zero bracket amounts and excess itemized deductions and consisting of subsecs. (a) to (h) entitled, respectively, "Corporations", "Individuals", "Excess itemized deductions", "Zero bracket amount", "Unused zero bracket amount", "Itemized deductions", "Election to itemize", and "Marital status".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–141 effective as if included in section 11011 of Pub. L. 115–97, see section 101(d) of Pub. L. 115–141, set out as a note under section 62 of this title.
 
 #### Effective Date of 2017 Amendment
 
@@ -414,7 +420,7 @@ Amendment by section 1272(d)(6) of Pub. L. 99–514 applicable to taxable years 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 104(b) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1984, see section 104(e) of Pub. L. 97–34, set out as a note under section 1 of this title.
+Amendment by section 104(b) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1984, seesection 104(e) of Pub. L. 97–34, set out as a note under section 1 of this title.
 
 Amendment by section 111(b)(4) of Pub. L. 97–34 applicable with respect to taxable years beginning after Dec. 31, 1981, see section 115 of Pub. L. 97–34, set out as a note under section 911 of this title.
 

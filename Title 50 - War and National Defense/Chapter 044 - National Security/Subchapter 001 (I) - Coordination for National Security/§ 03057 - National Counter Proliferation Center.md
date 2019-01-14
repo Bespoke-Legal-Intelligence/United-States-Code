@@ -44,7 +44,7 @@ It is the sense of Congress that a central feature of counter proliferation acti
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(1), was in the original "this Act", meaning act July 26, 1947, ch. 343, 61 Stat. 495, known as the National Security Act of 1947, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsec. (d)(1), was in the original "this Act", meaning act July 26, 1947, ch. 343,61 Stat. 495, known as the National Security Act of 1947, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
 The Executive Order in February 2004 establishing the President's Commission on Weapons of Mass Destruction, referred to in subsec. (d)(1), is Ex. Ord. No. 13328, Feb. 6, 2004, 69 F.R. 6901, which was revoked by Ex. Ord. No. 13385, §3(a), Sept. 29, 2005, 70 F.R. 57990, and was formerly set out as a note under section 2301 of this title.
 
@@ -58,7 +58,7 @@ Section was formerly classified to section 404o–1 of this title prior to edito
 
 #### Effective Date
 
-For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President ofthe United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
+For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 

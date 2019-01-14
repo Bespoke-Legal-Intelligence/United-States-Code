@@ -13,6 +13,7 @@
 | [14507\.](Subchapter%20001%20%28I%29%20-%20Programs/%C2%A7%2014507%20-%20Supplements%20to%20federal%20grant%20programs.md) | Supplements to federal grant programs. |
 | [14508\.](Subchapter%20001%20%28I%29%20-%20Programs/%C2%A7%2014508%20-%20Economic%20and%20energy%20development%20initiative.md) | Economic and energy development initiative. |
 | [14509\.](Subchapter%20001%20%28I%29%20-%20Programs/%C2%A7%2014509%20-%20High-speed%20broadband%20deployment%20initiative.md) | High-speed broadband deployment initiative. |
+| [14510\.](Subchapter%20001%20%28I%29%20-%20Programs/%C2%A7%2014510%20-%20Drug%20abuse%20mitigation%20initiative.md) | Drug abuse mitigation initiative. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -30,6 +31,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–271, title VIII, §8062(b), Oct. 24, 2018, 132 Stat. 4095, added item 14510.
 
 <b>2015</b>—Pub. L. 114–94, div. A, title I, §1436(a)(2), Dec. 4, 2015, 129 Stat. 1431, added item 14509.
 

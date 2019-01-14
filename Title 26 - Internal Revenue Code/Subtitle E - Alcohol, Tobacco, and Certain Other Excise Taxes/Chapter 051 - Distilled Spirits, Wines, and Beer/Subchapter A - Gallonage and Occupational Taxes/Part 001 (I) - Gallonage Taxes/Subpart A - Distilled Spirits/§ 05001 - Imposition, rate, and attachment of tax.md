@@ -4,7 +4,7 @@
 
 #### (1) General
 
-&emsp;There is hereby imposed on all distilled spirits produced in or imported into the UnitedStates a tax at the rate of $13.50 on each proof gallon and a proportionate tax at the like rate on all fractional parts of a proof gallon.
+&emsp;There is hereby imposed on all distilled spirits produced in or imported into the United States a tax at the rate of $13.50 on each proof gallon and a proportionate tax at the like rate on all fractional parts of a proof gallon.
 
 #### (2) Products containing distilled spirits
 
@@ -70,7 +70,7 @@ The tax shall attach to distilled spirits as soon as this substance is in existe
 
 #### (D) Single taxpayer
 
-&emsp;&emsp;Pursuant to rules issued by the Secretary, two or more entities (whether or not undercommon control) that produce distilled spirits marketed under a similar brand, license, franchise, or other arrangement shall be treated as a single taxpayer for purposes of the application of this subsection.
+&emsp;&emsp;Pursuant to rules issued by the Secretary, two or more entities (whether or not under common control) that produce distilled spirits marketed under a similar brand, license, franchise, or other arrangement shall be treated as a single taxpayer for purposes of the application of this subsection.
 
 #### (3) Reduced tax rate for foreign manufacturers and importers
 
@@ -376,7 +376,7 @@ Exception for certain small wholesale or retail dealers.—No tax shall be impos
 
 &emsp;"(A) the aggregate liquid volume of distilled spirits held by such dealer on such date does not exceed 500 wine gallons, and
 
-&emsp;"(B) such dealer submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this paragraph.
+&emsp;"(B) such dealer submits to the Secretary (at the time and in the manner required by the Secretary)such information as the Secretary shall require for purposes of this paragraph.
 
 "(3)
 

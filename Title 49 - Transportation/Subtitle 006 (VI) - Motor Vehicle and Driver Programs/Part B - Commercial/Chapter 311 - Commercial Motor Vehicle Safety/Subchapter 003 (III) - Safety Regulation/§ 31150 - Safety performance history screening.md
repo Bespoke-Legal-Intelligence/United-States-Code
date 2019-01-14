@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation shall provide persons conducting preemployment screening services for the motorcarrier industry electronic access to the following reports contained in the Motor Carrier Management Information System:
+In General.—The Secretary of Transportation shall provide persons conducting preemployment screening services for the motor carrier industry electronic access to the following reports contained in the Motor Carrier Management Information System:
 
 &emsp;(1) Commercial motor vehicle accident reports.
 

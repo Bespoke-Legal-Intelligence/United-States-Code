@@ -24,7 +24,7 @@ In this section:
 
 &emsp;The term "individual" includes—
 
-&emsp;&emsp;(A) a worker or volunteer who responds to a disaster, either natural or manmade, involving any mode of transportation in theUnited States or disrupting the transportation system of the United States, including—
+&emsp;&emsp;(A) a worker or volunteer who responds to a disaster, either natural or manmade, involving any mode of transportation in the United States or disrupting the transportation system of the United States, including—
 
 &emsp;&emsp;&emsp;(i) a police officer;
 
@@ -60,7 +60,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;If the President, acting through the Secretary of Health and Human Services, determines that 1 or more substances of concern are being, or have been, released in an area declared to be a disaster area and disrupts the transportation system of the United States, the President, acting through the Secretary of Health and Human Services, may carry out a program for the coordination, protection, assessment, monitoring, and study of the health and safety of individuals with high exposure levels to ensure that—
+&emsp;If the President, acting through the Secretary of Health and Human Services, determines that 1 or more substances of concern are being, or have been, released in an area declared to be a disaster area and disrupts thetransportation system of the United States, the President, acting through the Secretary of Health and Human Services, may carry out a program for the coordination, protection, assessment, monitoring, and study of the health and safety of individuals with high exposure levels to ensure that—
 
 &emsp;&emsp;(A) the individuals are adequately informed about and protected against potential health impacts of any substance of concern in a timely manner;
 

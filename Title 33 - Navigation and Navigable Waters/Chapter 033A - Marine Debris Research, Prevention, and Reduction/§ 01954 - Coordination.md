@@ -14,9 +14,13 @@ The Committee shall include a senior official from—
 
 &emsp;(3) the United States Coast Guard;
 
-&emsp;(4) the United States Navy; and
+&emsp;(4) the United States Navy;
 
-&emsp;(5) such other Federal agencies that have an interest in ocean issues or water pollution prevention and control as the Secretary of Commerce determines appropriate.
+&emsp;(5) the Department of State;
+
+&emsp;(6) the Department of the Interior; and
+
+&emsp;(7) such other Federal agencies that have an interest in ocean issues or water pollution prevention and control as the Secretary of Commerce determines appropriate.
 
 #### (c) Meetings
 
@@ -24,7 +28,7 @@ The Committee shall meet at least twice a year to provide a public, interagency 
 
 #### (d) Monitoring
 
-The Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, in cooperation with the Administrator of the Environmental Protection Agency, shall utilize the marine debris data derived under title V of the Marine Protection, Research, and Sanctuaries Act of 1972 (33 U.S.C. 2801 et seq.) to assist—
+The Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, in cooperation with the Administrator of the Environmental Protection Agency, shall utilize the marine debris data derived under title V of the MarineProtection, Research, and Sanctuaries Act of 1972 (33 U.S.C. 2801 et seq.) to assist—
 
 &emsp;(1) the Committee in ensuring coordination of research, monitoring, education and regulatory actions; and
 
@@ -44,7 +48,7 @@ Biennially, the Committee, through the Chairperson, shall submit to the Committe
 
 &emsp;(5) estimated Federal and non-Federal funding provided for marine debris and recommendations for priority funding needs.
 
-(Pub. L. 109–449, §5, formerly Pub. L. 100–220, title II, §2203, Dec. 29, 1987, 101 Stat. 1466; Pub. L. 104–324, title VIII, §802(b), Oct. 19, 1996, 110 Stat. 3944; Pub. L. 109–449, §5(a), Dec. 22, 2006, 120 Stat. 3337; renumbered Pub. L. 109–449, §5, and amended Pub. L. 112–213, title VI, §606(a)(1), (2), (b), Dec. 20, 2012, 126 Stat. 1578.)
+(Pub. L. 109–449, §5, formerly Pub. L. 100–220, title II, §2203, Dec. 29, 1987, 101 Stat. 1466; Pub. L. 104–324, title VIII, §802(b), Oct. 19, 1996, 110 Stat. 3944; Pub. L. 109–449, §5(a), Dec. 22, 2006, 120 Stat. 3337; renumbered Pub. L. 109–449, §5, and amended Pub. L. 112–213, title VI, §606(a)(1), (2), (b), Dec. 20, 2012, 126 Stat. 1578; Pub. L. 115–265, title I, §104, Oct. 11, 2018, 132 Stat. 3744.)
 
 #### References in Text
 
@@ -66,7 +70,9 @@ A prior section 5 of Pub. L. 109–449, Dec. 22, 2006, 120 Stat. 3337, which rel
 
 #### Amendments
 
-<b>2012</b>—Subsec. (d)(2). Pub. L. 112–213, §606(a)(2), substituted "the Marine Plastic Pollution Research and Control Act of 1987" for "this Act" and inserted "of theMarine Plastic Pollution Research and Control Act of 1987" after "section 2201".
+<b>2018</b>—Subsec. (b)(5) to (7). Pub. L. 115–265 added pars. (5) and (6) and redesignated former par. (5) as (7).
+
+<b>2012</b>—Subsec. (d)(2). Pub. L. 112–213, §606(a)(2), substituted "the Marine Plastic Pollution Research and Control Act of 1987" for "this Act" and inserted "of the Marine Plastic Pollution Research and Control Act of 1987" after "section 2201".
 
 Subsec. (e). Pub. L. 112–213, §606(b)(2), in heading, substituted "Biennial progress reports" for "Annual progress reports" and in text, substituted "Biennially" for "Not later than 3 years after December 22, 2006, and biennially thereafter" and "Chairperson" for "chairperson", inserted "Natural" before "Resources", and struck out "Interagency" before "Committee, through" and before "Committee and", redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, and realigned margins.
 

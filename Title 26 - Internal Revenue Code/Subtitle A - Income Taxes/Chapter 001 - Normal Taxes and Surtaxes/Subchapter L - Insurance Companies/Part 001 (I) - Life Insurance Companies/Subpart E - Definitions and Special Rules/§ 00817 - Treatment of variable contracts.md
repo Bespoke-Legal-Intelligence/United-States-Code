@@ -86,7 +86,7 @@ For purposes of this part, the term "annuity contract" includes a contract which
 
 #### (2) Safe harbor for diversification
 
-&emsp;A segregated asset account shall be treated as meeting the requirements of paragraph (1)for any quarter of a taxable year if as of the close of such quarter—
+&emsp;A segregated asset account shall be treated as meeting the requirements of paragraph (1) for any quarter of a taxable year if as of the close of such quarter—
 
 &emsp;&emsp;(A) it meets the requirements of section 851(b)(3), and
 
@@ -140,7 +140,7 @@ Subsec. (d)(3)(C). Pub. L. 104–188, §1611(a)(2), added subpar. (C).
 
 Subsec. (h)(1). Pub. L. 99–514, §1821(m)(2), struck out last sentence which read as follows: "For purposes of this paragraph and paragraph (2), beneficial interests in a regulated investment company or in a trust shall not be treated as 1 investment if all of the beneficial interests in such company or trust are held by 1 or more segregated asset accounts of 1 or more insurance companies."
 
-Subsec. (h)(3) to (5). Pub. L. 99–514, §1821(m)(1), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: "In the case of a segregated asset account with respect to variable life insurance contracts, paragraph (1) shall not apply in the case of securities issued by the United States Treasury which are owned by a regulated investment company or by a trust all the beneficial interests in which are held by 1 or more segregated asset accounts of the company issuing the contract."
+Subsec. (h)(3) to (5). Pub. L. 99–514, §1821(m)(1), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: "In the case of a segregated asset account with respect to variable life insurance contracts, paragraph (1) shall not apply in the case of securities issued by the United States Treasury which are owned by a regulated investment company or by a trust all the beneficial interestsin which are held by 1 or more segregated asset accounts of the company issuing the contract."
 
 #### Effective Date of 2004 Amendment
 

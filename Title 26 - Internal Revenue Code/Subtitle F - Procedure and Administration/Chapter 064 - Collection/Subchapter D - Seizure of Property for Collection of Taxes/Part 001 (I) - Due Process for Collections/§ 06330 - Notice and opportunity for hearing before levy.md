@@ -98,7 +98,7 @@ In the case of any hearing conducted under this section—
 
 &emsp;&emsp;(C) a final determination has been made with respect to such issue in a proceeding brought under subchapter C of chapter 63.
 
-> &emsp;This paragraph shall not apply to any issue with respect to which subsection (d)(2)(B) applies.
+> &emsp;This paragraph shall not apply to any issue with respect to which subsection (d)(3)(B) applies.
 
 #### (d) Proceeding after hearing
 
@@ -108,7 +108,7 @@ In the case of any hearing conducted under this section—
 
 #### (2) Suspension of running of period for filing petition in title 11 cases
 
-&emsp;In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1) with respect to a determination under this section, the running of the period prescribed by such subsection for filing such a petition with respect to such determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 30 days thereafter, and <sup>1</sup>
+&emsp;In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1) with respect to a determination under this section, the running of the period prescribed by such subsection for filing such a petition with respect to such determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 30 days thereafter.
 
 #### (3) Jurisdiction retained at IRS Office of Appeals
 
@@ -122,7 +122,7 @@ In the case of any hearing conducted under this section—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), if a hearing is requested under subsection (a)(3)(B), the levy actions which are the subject of the requested hearing and the running of any period of limitations under section 6502 (relating to collection after assessment), section 6531 (relating to criminal prosecutions), or section 6532 (relating to other suits) shall be suspended for the period during which such hearing, and appeals therein, are pending. In no event shall any such period expire before the 90th day after the day on which there is a final determination in such hearing. Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under this paragraph is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates.
+&emsp;Except as provided in paragraph (2), if a hearing is requested under subsection (a)(3)(B), the levy actions which are the subject of the requested hearing and the running of any period of limitations under section 6502 (relating to collection after assessment), section 6531\(relating to criminal prosecutions), or section 6532 (relating to other suits) shall be suspended for the period during which such hearing, and appeals therein, are pending. In no event shall any such period expire before the 90th day after the day on which there is a final determination in such hearing. Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under this paragraph is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates.
 
 #### (2) Levy upon appeal
 
@@ -158,9 +158,13 @@ For purposes of subsection (f)—
 
 &emsp;A Federal contractor levy is any levy if the person whose property is subject to the levy (or any predecessor thereof) is a Federal contractor.
 
-(Added Pub. L. 105–206, title III, §3401(b), July 22, 1998, 112 Stat. 747; amended Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642, 2763A–643; Pub. L. 109–280, title VIII, §855(a), Aug. 17, 2006, 120 Stat. 1019; Pub. L. 109–432, div. A, title IV, §407(b), Dec. 20, 2006, 120 Stat. 2961; Pub. L. 110–28, title VIII, §8243(a), (b), May 25, 2007, 121 Stat. 200; Pub. L. 111–240, title II, §2104(a)–(c), Sept. 27, 2010, 124 Stat. 2565; Pub. L. 114–74, title XI, §1101(d), Nov. 2, 2015, 129 Stat. 637; Pub. L. 114–113, div. Q, title IV, §424(b)(1), Dec. 18, 2015, 129 Stat. 3124.)
+(Added Pub. L. 105–206, title III, §3401(b), July 22, 1998, 112 Stat. 747; amended Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642, 2763A–643; Pub. L. 109–280, title VIII, §855(a), Aug. 17, 2006, 120 Stat. 1019; Pub. L. 109–432, div. A, title IV, §407(b), Dec. 20, 2006, 120 Stat. 2961; Pub. L. 110–28, title VIII, §8243(a), (b), May 25, 2007, 121 Stat. 200; Pub. L. 111–240, title II, §2104(a)–(c), Sept. 27, 2010, 124 Stat. 2565; Pub. L. 114–74, title XI, §1101(d), Nov. 2, 2015, 129 Stat. 637; Pub. L. 114–113, div. Q, title IV, §424(b)(1), Dec. 18, 2015, 129 Stat. 3124; Pub. L. 115–141, div. U, title IV, §401(a)(281), (282), Mar. 23, 2018, 132 Stat. 1197.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(4). Pub. L. 115–141, §401(a)(281), substituted "subsection (d)(3)(B)" for "subsection (d)(2)(B)" in concluding provisions.
+
+Subsec. (d)(2). Pub. L. 115–141, §401(a)(282), substituted "thereafter." for "thereafter, and".
 
 <b>2015</b>—Subsec. (c)(4)(C). Pub. L. 114–74 added subpar. (C).
 
@@ -194,7 +198,7 @@ Subsec. (g). Pub. L. 109–432, §407(b)(1), added subsec. (g).
 
 <b>2000</b>—Subsec. (d)(1)(A). Pub. L. 106–554, §1(a)(7) \[title III, §313(d)\], substituted "with respect to" for "to hear".
 
-Subsec. (e)(1). Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A)\], inserted at end "Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under this paragraph is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates."
+Subsec. (e)(1). Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A)\], inserted at end "Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under thisparagraph is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates."
 
 #### Effective Date of 2015 Amendment
 
@@ -223,6 +227,4 @@ Amendment by section 1(a)(7) \[title III, §313(b)(2)(A)\] of Pub. L. 106–554 
 #### Effective Date
 
 Section applicable to collection actions initiated after the date which is 180 days after July 22, 1998, see section 3401(d) of Pub. L. 105–206, set out as a note under section 6320 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

@@ -24,7 +24,7 @@ With respect to interests of Native Corporations under the Alaska Native Claims 
 
 #### References in Text
 
-The Administrative Procedure Act, referred to in subsec. (a), is act June 11, 1946, ch. 324, 60 Stat. 237, as amended, which was classified to sections 1001 to 1011 of former title 5 and which was repealed and reenacted as subchapter II (§551 et seq.) of chapter 5, and chapter 7 (§701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
+The Administrative Procedure Act, referred to in subsec. (a), is act June 11, 1946, ch. 324, 60 Stat. 237, as amended, which was classified to sections 1001 to 1011 of former title 5 and which was repealed and reenacted as subchapter II (§551 et seq.) of chapter 5, and chapter 7\(§701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 The Government in the Sunshine Act, referred to in subsec. (a), is Pub. L. 94–409, Sept. 13, 1976, 90 Stat. 1241, which enacted section 552b of Title 5, Government Organization and Employees, amended sections 551, 552, 556, and 557 of Title 5, section 10 of Pub. L. 92–463, set out in the Appendix to Title 5, and section 410 of Title 39, Postal Service, and enacted provisions set out as notes under section 552b of Title 5. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 552b of Title 5 and Tables.
 
@@ -36,7 +36,7 @@ Act of October 3, 1944, popularly referred to as the "Surplus Property Act of 19
 
 Act of March 12, 1914, referred to in subsec. (b), is act Mar. 12, 1914, ch. 37, 38 Stat. 305, as amended, popularly known as the Alaska Railroad Act, which enacted section 353a of Title 16, Conservation, and sections 975 to 975g of Title 43, Public Lands, and which was repealed by section 615(a)(1) of Pub. L. 97–468 effective on the date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\], pursuant to section 1203 of this title.
 
-The Alaska Statehood Act, referred to in subsec. (b), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended,which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in subsec. (b), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsecs. (b) and (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

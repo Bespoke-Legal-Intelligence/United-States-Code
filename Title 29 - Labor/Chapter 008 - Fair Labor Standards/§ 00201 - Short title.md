@@ -44,7 +44,7 @@ Pub. L. 93–259, §1(a), Apr. 8, 1974, 88 Stat. 55, provided that: "This Act \[
 
 #### Short Title of 1966 Amendment
 
-Pub. L. 89–601, §1, Sept. 23, 1966, 80 Stat. 830, provided: "That this Act \[amending sections 203, 206, 207, 213, 214, 216, 218, and 255 of this title, and enacting provisions set out as notes under sections 207 and 214 of this title, section 1082 of former Title 5, Executive Departments and Government Officers and Employees, and section 2000e–14 of Title 42, The Public Health and Welfare\] may be cited as the 'Fair Labor Standards Amendments of 1966'."
+Pub. L. 89–601, §1, Sept. 23, 1966, 80 Stat. 830, provided: "That this Act \[amending sections 203, 206, 207, 213, 214, 216, 218, and 255 of this title, and enacting provisions set out as notes under sections 207 and 214 of this title, section 1082 of former Title 5, Executive Departments and Government Officers and Employees, and section2000e–14 of Title 42, The Public Health and Welfare\] may be cited as the 'Fair Labor Standards Amendments of 1966'."
 
 #### Short Title of 1963 Amendment
 

@@ -40,7 +40,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(e)(12), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this analysis is amended by amending item for chapter 140 to read "Procurement of Commercial Products and Commercial Services" and by substituting "2377" for "2375". See 2018 Amendment note below.</i>
+
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §836(e)(12), Aug. 13, 2018, 132 Stat. 1870, substituted "Procurement of Commercial Products and Commercial Services" for "Procurement of Commercial Items" and "2377" for "2375" in item for chapter 140.
 
 <b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, amended directory language of Pub. L. 114–328, §805(a)(2). See 2016 Amendment note below.
 
@@ -80,7 +86,7 @@ Pub. L. 104–106, div. A, title X, §1061(b)(2), Feb. 10, 1996, 110 Stat. 442, 
 
 Pub. L. 100–370, §§1(e)(2), 2(a)(2), 3(a)(2), July 19, 1988, 102 Stat. 845, 854, 855, added items for chapters 134, 146, and 148.
 
-<b>1987</b>—Pub. L. 100–26, §7(c)(1), Apr. 21, 1987, 101 Stat. 280, substituted "Acquisition and Cross-Servicing Agreements with NATO Allies and Other Countries" for "North Atlantic Treaty Organization Acquisition and Cross-Servicing Agreements" in item for chapter 138, substituted "Major Defense Acquisition Programs" for "Oversight of Cost Growth in Major Programs" and "2430" for "2431" in item for chapter 144, and substituted "2721" for "2701" in item for chapter 161.
+<b>1987</b>—Pub. L. 100–26, §7(c)(1), Apr. 21, 1987, 101 Stat. 280, substituted "Acquisition and Cross-ServicingAgreements with NATO Allies and Other Countries" for "North Atlantic Treaty Organization Acquisition and Cross-Servicing Agreements" in item for chapter 138, substituted "Major Defense Acquisition Programs" for "Oversight of Cost Growth in Major Programs" and "2430" for "2431" in item for chapter 144, and substituted "2721" for "2701" in item for chapter 161.
 
 <b>1986</b>—Pub. L. 99–661, div. A, title XIII, §1343(a)(22), Nov. 14, 1986, 100 Stat. 3994, substituted "2341" for "2321" in item for chapter 138.
 

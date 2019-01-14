@@ -18,9 +18,9 @@ Conditions for the Use of Qualified Auditors to Perform Incurred Cost Audits.—
 
 &emsp;(E) limit multiyear auditing to ensure that multiyear auditing is conducted only—
 
-&emsp;&emsp;(A) <sup>1</sup> to address outstanding incurred cost audits for which a qualified incurred cost submission was submitted to the Defense Contract Audit Agency more than 12 months before the date of the enactment of this section; or
+&emsp;&emsp;(i) to address outstanding incurred cost audits for which a qualified incurred cost submission was submitted to the Defense Contract Audit Agency more than 12 months before the date of the enactment of this section; or
 
-&emsp;&emsp;(B) <sup>1</sup> when the contractor being audited submits a written request, including a justification for the use of multiyear auditing, to the Under Secretary of Defense (Comptroller).
+&emsp;&emsp;(ii) when the contractor being audited submits a written request, including a justification for the use of multiyear auditing, to the Under Secretary of Defense (Comptroller).
 
 (2) The Secretary of Defense shall consult with Federal agencies that have awarded contracts or task orders to qualified private auditors to ensure that the Department of Defense is using, as appropriate, best practices relating to contracting with qualified private auditors.
 
@@ -42,7 +42,7 @@ Conditions for the Use of Qualified Auditors to Perform Incurred Cost Audits.—
 
 Procedures for the Use of Qualified Private Auditors.—(1) Not later than October 1, 2018, the Secretary of Defense shall submit to the congressional defense committees a plan to implement the requirements of subsection (b). Such plan shall include, at a minimum—
 
-&emsp;(A) a description of the incurred cost audits that the Secretary determines are appropriateto be conducted by qualified private auditors, including the approximate number and dollar value of such incurred cost audits;
+&emsp;(A) a description of the incurred cost audits that the Secretary determines are appropriate to be conducted by qualified private auditors, including the approximate number and dollar value of such incurred cost audits;
 
 &emsp;(B) an estimate of the number and dollar value of incurred cost audits to be conducted by qualified private auditors for each of the fiscal years 2019 through 2025 necessary to meet the requirements of subsection (b); and
 
@@ -58,9 +58,9 @@ Procedures for the Use of Qualified Private Auditors.—(1) Not later than Octob
 
 (d)
 
-Qualified Private Auditor Requirements.—(1) A qualified private auditor awarded a contract or issued an <sup>2</sup> task order under subsection (c)(2) shall conduct an incurred cost audit in accordance with the generally accepted government auditing standards.
+Qualified Private Auditor Requirements.—(1) A qualified private auditor awarded a contract or issued an <sup>1</sup> task order under subsection (c)(2) shall conduct an incurred cost audit in accordance with the generally accepted government auditing standards.
 
-(2) A qualified private auditor awarded a contract or issued an <sup>2</sup> task order under subsection (c)(2) shall develop and maintain complete and accurate working papers on each incurred cost audit. All working papers and reports on the incurred cost audit prepared by such qualified private auditor shall be the property of the Department of Defense, except that the qualified private auditor may retain a complete copy of all working papers to support such reports made pursuant to this section.
+(2) A qualified private auditor awarded a contract or issued an <sup>1</sup> task order under subsection (c)(2) shall develop and maintain complete and accurate working papers on each incurred cost audit. All working papers and reports on the incurred cost audit prepared by such qualified private auditor shall be the property of the Department of Defense, except that the qualified private auditor may retain a complete copy of all working papers to support such reports made pursuant to this section.
 
 (3) A breach of contract by a qualified private auditor with respect to use of proprietary or nonpublic data may subject the qualified private auditor to—
 
@@ -126,15 +126,17 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) that has received a passing peer review rating, as defined by generally accepted government auditing standards.
 
-(Added Pub. L. 115–91, div. A, title VIII, §803(a), Dec. 12, 2017, 131 Stat. 1451.)
+(Added Pub. L. 115–91, div. A, title VIII, §803(a), Dec. 12, 2017, 131 Stat. 1451; amended Pub. L. 115–232, div. A, title X, §1081(a)(19), Aug. 13, 2018, 132 Stat. 1984.)
 
 #### References in Text
 
-The date of the enactment of this section, referred to in subsecs. (b)(1)(E)(A) and (g)(3), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
+The date of the enactment of this section, referred to in subsecs. (b)(1)(E)(i) and (g)(3), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
 
 Section 809 of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (f)(2), is section 809 of Pub. L. 114–92, div. A, title VIII, Nov. 25, 2015, 129 Stat. 889, which relates to the establishment of an advisory panel on streamlining acquisition regulations and is not classified to the Code.
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### Amendments
 
-<i><sup>2</sup></i><i> So in original. Probably should be "a".</i>
+<b>2018</b>—Subsec. (b)(1)(E). Pub. L. 115–232 redesignated cls. (A) and (B) as (i) and (ii), respectively.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "a".</i>
 

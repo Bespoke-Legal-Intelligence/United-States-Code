@@ -44,7 +44,7 @@ Pub. L. 109–326, §2, Oct. 11, 2006, 120 Stat. 1761, provided that: "Congress 
 
 &emsp;"(4) additional actions and better coordination are needed to protect and effectively manage the fish and wildlife resources, and the habitats upon which the resources depend, in the Great Lakes Basin;
 
-&emsp;"(5) as of the date of enactment of this Act \[Oct. 11, 2006\], actions are not funded that are considered essential to meet the goals and objectives in managing the fish and wildlife resources, and the habitats upon which the resources depend, in the Great Lakes Basin; and
+&emsp;"(5) as of the date of enactment of this Act \[Oct. 11, 2006\], actions are not funded that are considered essential to meet the goals and objectives in managingthe fish and wildlife resources, and the habitats upon which the resources depend, in the Great Lakes Basin; and
 
 &emsp;"(6) the Great Lakes Fish and Wildlife Restoration Act \[of 1990\] (16 U.S.C. 941 et seq.) allows Federal agencies, States, and tribes to work in an effective partnership by providing the funding for restoration work."
 

@@ -2,7 +2,7 @@
 
 #### (a) Original appointments to Regular and Reserve Corps; limitation on appointment and call to active duty
 
-(1) Except as provided in subsections (b) and (e) of this section, original appointments to the Regular Corps may be made only in the warrant officer (W–1), chief warrant officer (W–2), chief warrant officer (W–3), chief warrant officer (W–4), junior assistant, assistant, and senior assistant grades and original appointments to a grade above junior assistant shall be made only after passage of an examination, given in accordance with regulations of the President, in one or more of the several branches of medicine, dentistry, hygiene, sanitary engineering, pharmacy, psychology, nursing, or related scientific specialties in the field of public health.
+(1) Except as provided in subsections (b) and (e) of this section, original appointments to theRegular Corps may be made only in the warrant officer (W–1), chief warrant officer (W–2), chief warrant officer (W–3), chief warrant officer (W–4), junior assistant, assistant, and senior assistant grades and original appointments to a grade above junior assistant shall be made only after passage of an examination, given in accordance with regulations of the President, in one or more of the several branches of medicine, dentistry, hygiene, sanitary engineering, pharmacy, psychology, nursing, or related scientific specialties in the field of public health.
 
 (2) Original appointments to the Reserve Corps may be made to any grade up to and including the director grade but only after passage of an examination given in accordance with regulations of the President. Reserve commissions shall be for an indefinite period and may be terminated at any time, as the President may direct.
 

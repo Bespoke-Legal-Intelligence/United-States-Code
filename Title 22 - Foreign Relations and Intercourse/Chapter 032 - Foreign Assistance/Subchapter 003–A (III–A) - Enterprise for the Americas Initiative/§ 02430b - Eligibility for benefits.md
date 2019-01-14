@@ -18,7 +18,7 @@ To be eligible for benefits from the Facility under this subchapter, a country m
 
 &emsp;&emsp;(B) as appropriate, structural or sectoral adjustment loans from the International Bank for Reconstruction and Development or the International Development Association, unless the President determines (after consultation with the Enterprise for the Americas Board) that the resulting adjustment requirements could reasonably be expected to have significant adverse social or environmental effects;
 
-&emsp;(6) has put in place major investment reforms in conjunction with an Inter-American Development Bank loan or otherwise is implementing, or is making significant progress toward, an open investment regime; and
+&emsp;(6) has put in place major investment reforms in conjunction with an Inter-AmericanDevelopment Bank loan or otherwise is implementing, or is making significant progress toward, an open investment regime; and
 
 &emsp;(7) if appropriate, has agreed with its commercial bank lenders on a satisfactory financing program, including, as appropriate, debt or debt service reduction.
 

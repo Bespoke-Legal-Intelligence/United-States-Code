@@ -76,7 +76,7 @@ Subject to subsections (c) and (d), payment under this part may be made for inpa
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to adjustment under paragraph (3)(B), the "trigger level" for a year is theunadjusted trigger level described in clause (ii).
+&emsp;&emsp;&emsp;Subject to adjustment under paragraph (3)(B), the "trigger level" for a year is the unadjusted trigger level described in clause (ii).
 
 #### (ii) Unadjusted trigger level
 

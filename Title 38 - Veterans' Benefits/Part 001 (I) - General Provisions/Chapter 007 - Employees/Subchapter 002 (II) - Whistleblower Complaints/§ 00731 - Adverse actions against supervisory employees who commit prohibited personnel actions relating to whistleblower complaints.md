@@ -38,7 +38,7 @@ Prohibited Personnel Action Described.—A prohibited personnel action described
 
 &emsp;(2) Preventing or restricting an employee from making an action described in any of subparagraphs (A) through (E) of paragraph (1).
 
-&emsp;(3) Conducting a negative peer review or opening a retaliatory investigation because ofan activity of an employee that is protected by section 2302 of title 5.
+&emsp;(3) Conducting a negative peer review or opening a retaliatory investigation because of an activity of an employee that is protected by section 2302 of title 5.
 
 &emsp;(4) Requesting a contractor to carry out an action that is prohibited by section 4705(b) or section 4712(a)(1) of title 41, as the case may be.
 

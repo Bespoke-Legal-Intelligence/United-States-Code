@@ -22,7 +22,7 @@
 
 (e) The reversal or modification on appeal of an authorization under this section to obtain credit or incur debt, or of a grant under this section of a priority or a lien, does not affect the validity of any debt so incurred, or any priority or lien so granted, to an entity that extended such credit in good faith, whether or not such entity knew of the pendency of the appeal, unless such authorization and the incurring of such debt, or the granting of such priority or lien, were stayed pending appeal.
 
-(f) Except with respect to an entity that is an underwriter as defined in section 1145(b) of this title, section 5 of the Securities Act of 1933, the Trust Indenture Act of 1939, and any State or local law requiring registration for offer or sale of a security or registration or licensing of an issuer of, underwriter of, or broker or dealer in, a security does not apply to the offer or sale under this section of a security that is not an equity security.
+(f) Except with respect to an entity that is an underwriter as defined in section 1145(b) of this title, section 5 of the Securities Act of 1933, the Trust Indenture Act of 1939, and any State or local law requiring registration for offer or sale of a security or registration or licensing of anissuer of, underwriter of, or broker or dealer in, a security does not apply to the offer or sale under this section of a security that is not an equity security.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2574; Pub. L. 99–554, title II, §257(l), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title V, §501(d)(9), Oct. 22, 1994, 108 Stat. 4144.)
 

@@ -6,7 +6,13 @@ The Secretary of the Army, acting through the Chief of Engineers, is authorized 
 
 #### (b) Review
 
-Notwithstanding subsection (a), the Secretary shall, at the request of the non-Federal interest, carry out a study to determine the feasibility of extending the period of nourishment described in subsection (a) for a period not to exceed 15 additional years beyond the maximum period described in subsection (a).
+#### (1) In general
+
+&emsp;Notwithstanding subsection (a), the Secretary shall, at the request of the non-Federal interest, carry out a study to determine the feasibility of extending the period of nourishment described in subsection (a) for a period not to exceed 15 additional years beyond the maximum period described in subsection (a).
+
+#### (2) Timing
+
+&emsp;The 15 additional years provided under paragraph (1) shall begin on the date of initiation of construction of congressionally authorized nourishment.
 
 #### (c) Plan for reducing risk to people and property
 
@@ -22,21 +28,25 @@ Notwithstanding subsection (a), the Secretary shall, at the request of the non-F
 
 Upon completion of the review described in subsection (b), the Secretary shall—
 
-&emsp;(1) submit to the Committee on Environment and Public Works of the Senate and theCommittee on Transportation and Infrastructure of the House of Representatives any recommendations of the Secretary related to the review; and
+&emsp;(1) submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives any recommendations of the Secretary related to the review; and
 
 &emsp;(2) include in the subsequent annual report to Congress required under section 2282d of title 33, any recommendations that require specific congressional authorization.
 
 #### (e) Special rule
 
-Notwithstanding any other provision of this section, for any existing authorized water resources development project for which the maximum period for nourishment described in subsection (a) will expire within the 5 year-period beginning on June 10, 2014, that project shall remain eligible for nourishment for an additional 6 years after the expiration of such period.
+Notwithstanding any other provision of this section, for any existing authorized water resources development project for which the maximum period for nourishment described in subsection (a) will expire within the 10-year period beginning on June 10, 2014, that project shall remain eligible for nourishment for an additional 6 years after the expiration of such period.
 
-(Pub. L. 94–587, §156, Oct. 22, 1976, 90 Stat. 2933; Pub. L. 99–662, title IX, §934, Nov. 17, 1986, 100 Stat. 4197; Pub. L. 113–121, title I, §1037(a), June 10, 2014, 128 Stat. 1235; Pub. L. 114–322, title I, §1122(j), Dec. 16, 2016, 130 Stat. 1647.)
+(Pub. L. 94–587, §156, Oct. 22, 1976, 90 Stat. 2933; Pub. L. 99–662, title IX, §934, Nov. 17, 1986, 100 Stat. 4197; Pub. L. 113–121, title I, §1037(a), June 10, 2014, 128 Stat. 1235; Pub. L. 114–322, title I, §1122(j), Dec. 16, 2016, 130 Stat. 1647; Pub. L. 115–270, title I, §1158, Oct. 23, 2018, 132 Stat. 3794.)
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1976, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–270, §1158(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (e). Pub. L. 115–270, §1158(2), substituted "10-year period" for "5 year-period".
 
 <b>2016</b>—Subsec. (e). Pub. L. 114–322 substituted "6 years" for "3 years".
 

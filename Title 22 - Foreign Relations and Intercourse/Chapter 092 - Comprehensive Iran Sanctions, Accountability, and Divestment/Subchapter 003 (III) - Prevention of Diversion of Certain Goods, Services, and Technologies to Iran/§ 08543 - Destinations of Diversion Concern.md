@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The President shall designate a country as a Destination of Diversion Concern if the President determines that the government of thecountry allows substantial diversion of goods, services, or technologies described in section 8542(b) of this title through the country to Iranian end-users or Iranian intermediaries.
+&emsp;The President shall designate a country as a Destination of Diversion Concern if the President determines that the government of the country allows substantial diversion of goods, services, or technologies described in section 8542(b) of this title through the country to Iranian end-users or Iranian intermediaries.
 
 #### (2) Determination of substantial
 

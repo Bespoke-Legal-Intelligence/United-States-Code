@@ -60,13 +60,13 @@
 
 (2) For purposes of paragraph (1), the term "proceeds" is defined as follows:
 
-&emsp;(A) In cases involving illegal goods, illegal services, unlawful activities, and telemarketing and health care fraud schemes, theterm "proceeds" means property of any kind obtained directly or indirectly, as the result of the commission of the offense giving rise to forfeiture, and any property traceable thereto, and is not limited to the net gain or profit realized from the offense.
+&emsp;(A) In cases involving illegal goods, illegal services, unlawful activities, and telemarketing and health care fraud schemes, the term "proceeds" means property of any kind obtained directly or indirectly, as the result of the commission of the offense giving rise to forfeiture, and any property traceable thereto, and is not limited to the net gain or profit realized from the offense.
 
 &emsp;(B) In cases involving lawful goods or lawful services that are sold or provided in an illegal manner, the term "proceeds" means the amount of money acquired through the illegal transactions resulting in the forfeiture, less the direct costs incurred in providing the goods or services. The claimant shall have the burden of proof with respect to the issue of direct costs. The direct costs shall not include any part of the overhead expenses of the entity providing the goods or services, or any part of the income taxes paid by the entity.
 
 &emsp;(C) In cases involving fraud in the process of obtaining a loan or extension of credit, the court shall allow the claimant a deduction from the forfeiture to the extent that the loan was repaid, or the debt was satisfied, without any financial loss to the victim.
 
-(b)(1) Except as provided in section 985, any property subject to forfeiture to the United States under subsection (a) may be seized by the Attorney General and, in the case of property involved in a violation investigated by the Secretary of the Treasury or the United States Postal Service, the property may also be seized by the Secretary of the Treasury or the Postal Service, respectively.
+(b)(1) Except as provided in section 985, any property subject to forfeiture to the UnitedStates under subsection (a) may be seized by the Attorney General and, in the case of property involved in a violation investigated by the Secretary of the Treasury or the United States Postal Service, the property may also be seized by the Secretary of the Treasury or the Postal Service, respectively.
 
 (2) Seizures pursuant to this section shall be made pursuant to a warrant obtained in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure, except that a seizure may be made without a warrant if—
 
@@ -96,7 +96,7 @@
 
 (d) For purposes of this section, the provisions of the customs laws relating to the seizure, summary and judicial forfeiture, condemnation of property for violation of the customs laws, the disposition of such property or the proceeds from the sale of such property under this section, the remission or mitigation of such forfeitures, and the compromise of claims (19 U.S.C. 1602 et seq.), insofar as they are applicable and not inconsistent with the provisions of this section, shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under this section, except that such duties as are imposed upon the customs officer or any other person with respect to the seizure and forfeiture of property under the customs laws shall be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or other persons as may be authorized or designated for that purpose by the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be. The Attorney General shall have sole responsibility for disposing of petitions for remission or mitigation with respect to property involved in a judicial forfeiture proceeding.
 
-(e) Notwithstanding any other provision of the law, except section 3 of the Anti Drug Abuse Act of 1986, the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, is authorized to retain property forfeited pursuant to this section, or to transfersuch property on such terms and conditions as he may determine—
+(e) Notwithstanding any other provision of the law, except section 3 of the Anti Drug Abuse Act of 1986, the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, is authorized to retain property forfeited pursuant to this section, or to transfer such property on such terms and conditions as he may determine—
 
 &emsp;(1) to any other Federal agency;
 
@@ -142,7 +142,7 @@
 
 (h) In addition to the venue provided for in section 1395 of title 28 or any other provision of law, in the case of property of a defendant charged with a violation that is the basis for forfeiture of the property under this section, a proceeding for forfeiture under this section may be brought in the judicial district in which the defendant owning such property is found or in the judicial district in which the criminal prosecution is brought.
 
-(i)(1) Whenever property is civilly or criminally forfeited under this chapter, the Attorney General or the Secretary of the Treasury, as the case may be, may transfer the forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure or forfeiture of the property, if such a transfer—
+(i)(1) Whenever property is civilly or criminally forfeited under this chapter, the Attorney General or the Secretary of the Treasury, as thecase may be, may transfer the forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure or forfeiture of the property, if such a transfer—
 
 &emsp;(A) has been agreed to by the Secretary of State;
 
@@ -180,7 +180,7 @@ In general.—For the purpose of a forfeiture under this section or under the Co
 
 &emsp;&emsp;(B)
 
-Authority to suspend.—The Attorney General, in consultation with the Secretary of the Treasury, may suspend or terminate a forfeiture under this section if the Attorney General determines that a conflict of law exists between the laws of the jurisdiction in which the foreign financial institution (as defined in section 984(c)(2)(A) of this title) is located and the laws of the United States with respect to liabilities arising from the restraint, seizure, or arrest of such funds,and that such suspension or termination would be in the interest of justice and would not harm the national interests of the United States.
+Authority to suspend.—The Attorney General, in consultation with the Secretary of the Treasury, may suspend or terminate a forfeiture under this section if the Attorney General determines that a conflict of law exists between the laws of the jurisdiction in which the foreign financial institution (as defined in section 984(c)(2)(A) of this title) is located and the laws of the United States with respect to liabilities arising from the restraint, seizure, or arrest of such funds, and that such suspension or termination would be in the interest of justice and would not harm the national interests of the United States.
 
 &emsp;(2)
 
@@ -244,7 +244,7 @@ Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (i)
 
 <b>2012</b>—Subsec. (a)(1)(C). Pub. L. 112–186 inserted "670," after "657,".
 
-<b>2010</b>—Subsec. (a)(1)(D). Pub. L. 111–203, in concluding provisions, struck out "Resolution Trust Corporation,"after "acquired or held by the" and "or the Office of Thrift Supervision" after "Office of the Comptroller of the Currency".
+<b>2010</b>—Subsec. (a)(1)(D). Pub. L. 111–203, in concluding provisions, struck out "Resolution Trust Corporation," after "acquired or held by the" and "or the Office of Thrift Supervision" after "Office of the Comptroller of the Currency".
 
 <b>2006</b>—Subsec. (a)(1)(B)(i). Pub. L. 109–177, §111, inserted "trafficking in nuclear, chemical, biological, or radiological weapons technology or material, or" after "involves".
 
@@ -324,7 +324,7 @@ Subsec. (e)(6). Pub. L. 101–647, §2508, added par. (6).
 
 Subsec. (e)(7). Pub. L. 101–647, §2525(a)(2), as amended by Pub. L. 103–322, §330011(s)(2), added par. (7).
 
-Subsec. (i). Pub. L. 101–647, §103(1), struck out introductory provisions which read as follows: "In the case of property subject to forfeiture under subsection (a)(1)(B), the following additional provisions shall, to the extent provided by treaty, apply:".
+Subsec. (i). Pub. L. 101–647, §103(1), struck out introductory provisions which read as follows: "In the case of property subject to forfeiture under subsection\(a)(1)(B), the following additional provisions shall, to the extent provided by treaty, apply:".
 
 Subsec. (i)(1). Pub. L. 101–647, §103(3), substituted first sentence for "Notwithstanding any other provision of law, except section 3 of the Anti Drug Abuse Act of 1986, whenever property is civilly or criminally forfeited under the Controlled Substances Act, the Attorney General may, with the concurrence of the Secretary of State, equitably transfer any conveyance, currency, and any other type of personal property which the Attorney General may designate by regulation for equitable transfer, or any amounts realized by the United States from the sale of any real or personal property forfeited under the Controlled Substances Act to an appropriate foreign country to reflect generally the contribution of any such foreign country participating directly or indirectly in any acts which led to the seizure or forfeiture of such property. Such property when forfeited pursuant to subsection (a)(1)(B) of this section may also be transferred to a foreign country pursuant to a treaty providing for the transfer of forfeited property to such foreign country."
 
@@ -380,7 +380,7 @@ Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146,
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–185, §1(a), Apr. 25, 2000, 114 Stat. 202, provided that: "This Act \[enacting sections 983 and 985 of this title and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 982 to 984, 986, 2232, 2254, and 3322 of this title, section 1324 of Title 8, Aliens and Nationality, section 1621 of Title 19, Customs Duties, section 881 of Title 21, Food and Drugs, sections 524, 2461, 2465, and 2680 of Title 28, and section 2996f of Title 42, The Public Health and Welfare, repealing section 888 of Title 21, and enacting provisions set out as notes under section 1324 of Title 8, section 2466 of Title 28, and section 3724 of Title 31, Money and Finance\] may be cited as the 'Civil Asset Forfeiture Reform Act of 2000'."
+Pub. L. 106–185, §1(a), Apr. 25, 2000, 114 Stat. 202, provided that: "This Act \[enacting sections 983 and 985 of this title and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 982 to 984, 986, 2232, 2254, and 3322 of this title, section 1324 of Title 8, Aliens and Nationality, section 1621 of Title 19, Customs Duties, section 881 of Title 21, Food and Drugs, sections 524, 2461, 2465, and 2680 of Title 28, and section 2996f of Title 42, The Public Health andWelfare, repealing section 888 of Title 21, and enacting provisions set out as notes under section 1324 of Title 8, section 2466 of Title 28, and section 3724 of Title 31, Money and Finance\] may be cited as the 'Civil Asset Forfeiture Reform Act of 2000'."
 
 #### Short Title of 1988 Amendment
 

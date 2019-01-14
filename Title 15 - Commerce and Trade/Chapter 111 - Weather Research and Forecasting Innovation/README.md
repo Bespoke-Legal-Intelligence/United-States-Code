@@ -17,7 +17,7 @@
 | [8515\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Weather%20Research%20and%20Forecasting%20Improvement/%C2%A7%2008515%20-%20Weather%20research%20and%20development%20planning.md) | Weather research and development planning. |
 | [8516\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Weather%20Research%20and%20Forecasting%20Improvement/%C2%A7%2008516%20-%20Observing%20system%20planning.md) | Observing system planning. |
 | [8517\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Weather%20Research%20and%20Forecasting%20Improvement/%C2%A7%2008517%20-%20Observing%20System%20Simulation%20Experiments.md) | Observing System Simulation Experiments. |
-| [8518\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Weather%20Research%20and%20Forecasting%20Improvement/%C2%A7%2008518%20-%20Annual%20report%20on%20computing%20resources%20prioritization.md) | Annual report on computing resources prioritization. |
+| [8518\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Weather%20Research%20and%20Forecasting%20Improvement/%C2%A7%2008518%20-%20Computing%20resource%20efficiency%20improvement%20and%20annual%20report.md) | Computing resource efficiency improvement and annual report. |
 | [8519\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Weather%20Research%20and%20Forecasting%20Improvement/%C2%A7%2008519%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [8520\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Weather%20Research%20and%20Forecasting%20Improvement/%C2%A7%2008520%20-%20United%20States%20Weather%20Research%20Program.md) | United States Weather Research Program. |
 | [8521\.](Subchapter%20001%20%28I%29%20-%20United%20States%20Weather%20Research%20and%20Forecasting%20Improvement/%C2%A7%2008521%20-%20Weather%20and%20climate%20information%20in%20agriculture.md) | Weather and climate information in agriculture. |
@@ -47,6 +47,7 @@
 | [8547\.](Subchapter%20003%20%28III%29%20-%20Federal%20Weather%20Coordination/%C2%A7%2008547%20-%20Report%20on%20contract%20positions%20at%20National%20Weather%20Service.md) | Report on contract positions at National Weather Service. |
 | [8548\.](Subchapter%20003%20%28III%29%20-%20Federal%20Weather%20Coordination/%C2%A7%2008548%20-%20Weather%20enterprise%20outreach.md) | Weather enterprise outreach. |
 | [8549\.](Subchapter%20003%20%28III%29%20-%20Federal%20Weather%20Coordination/%C2%A7%2008549%20-%20Hurricane%20hunter%20aircraft.md) | Hurricane hunter aircraft. |
+| [8550\.](Subchapter%20003%20%28III%29%20-%20Federal%20Weather%20Coordination/%C2%A7%2008550%20-%20Improvements%20to%20Cooperative%20Observer%20Program%20of%20National%20Weather%20Service.md) | Improvements to Cooperative Observer Program of National Weather Service. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

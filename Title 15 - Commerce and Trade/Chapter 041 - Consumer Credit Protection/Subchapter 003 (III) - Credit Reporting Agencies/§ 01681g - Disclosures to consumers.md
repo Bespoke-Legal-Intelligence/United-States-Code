@@ -80,7 +80,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 &emsp;&emsp;(A) the summary of rights prepared by the Bureau under paragraph (1);
 
-&emsp;&emsp;(B) in the case of a consumer reporting agency described in section 1681a(p) of this title, a toll-free telephone number established by the agency, at which personnel areaccessible to consumers during normal business hours;
+&emsp;&emsp;(B) in the case of a consumer reporting agency described in section 1681a(p) of this title, a toll-free telephone number established by the agency, at which personnel are accessible to consumers during normal business hours;
 
 &emsp;&emsp;(C) a list of all Federal agencies responsible for enforcing any provision of this subchapter, and the address and any appropriate phone number of each such agency, in a form that will assist the consumer in selecting the appropriate agency;
 
@@ -194,7 +194,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (11) Definition of victim
 
-&emsp;For purposes of this subsection, the term "victim" means a consumer whose means of identification or financial information has been used or transferred (or has been alleged to have been used or transferred) without the authority of that consumer, with the intent to commit, or to aid or abet, an identity theft or a similar crime.
+&emsp;For purposes of this subsection, the term "victim" means a consumer whose means of identification or financial information hasbeen used or transferred (or has been alleged to have been used or transferred) without the authority of that consumer, with the intent to commit, or to aid or abet, an identity theft or a similar crime.
 
 #### (12) Effective date
 
@@ -238,7 +238,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (B) Key factors
 
-&emsp;&emsp;The term "key factors" means all relevant elements or reasons adversely affecting the credit score for the particular individual,listed in the order of their importance based on their effect on the credit score.
+&emsp;&emsp;The term "key factors" means all relevant elements or reasons adversely affecting the credit score for the particular individual, listed in the order of their importance based on their effect on the credit score.
 
 #### (3) Timeframe and manner of disclosure
 
@@ -280,7 +280,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (9) Use of enquiries as a key factor
 
-&emsp;If a key factor that adversely affects the credit score of a consumer consists of the number of enquiries made with respect to a consumer report, that factor shall be included in the disclosure pursuant to paragraph (1)(C) without regard to the numerical limitation in such paragraph.
+&emsp;If a key factor that adversely affects the credit score of a consumer consists of the number of enquiries made with respect to a consumer report, that factor shall be includedin the disclosure pursuant to paragraph (1)(C) without regard to the numerical limitation in such paragraph.
 
 #### (g) Disclosure of credit scores by certain mortgage lenders
 
@@ -354,7 +354,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (ii) Limit on liability
 
-&emsp;&emsp;&emsp;No person has liability under this subsection for the content of that information or for the omission of any information within the report provided by the consumer reporting agency.
+&emsp;&emsp;&emsp;No person has liability under this subsection for the content of that informationor for the omission of any information within the report provided by the consumer reporting agency.
 
 #### (G) Person defined as excluding enterprise
 
@@ -452,7 +452,7 @@ Pub. L. 104–208, div. A, title II, §2408(e)(2), (3), Sept. 30, 1996, 110 Stat
 
 "(2)
 
-Simplified disclosure.—Not later than 90 days after the date of enactment of this Act \[Sept. 30, 1996\], each consumer reporting agency shall develop a form on which such consumer reporting agency shall make the disclosures required under section 609(a) of the Fair Credit Reporting Act \[15 U.S.C. 1681g(a)\], for the purpose of maximizing the comprehensibility and standardization of such disclosures.
+Simplified disclosure.—Not later than 90 days after the date of enactment of this Act \[Sept. 30, 1996\], each consumer reporting agency shall develop a formon which such consumer reporting agency shall make the disclosures required under section 609(a) of the Fair Credit Reporting Act \[15 U.S.C. 1681g(a)\], for the purpose of maximizing the comprehensibility and standardization of such disclosures.
 
 "(3)
 

@@ -22,7 +22,7 @@ It shall not be in order in the Senate or the House of Representatives to consid
 
 &emsp;&emsp;&emsp;&emsp;(bb) legislative recommendations for either implementing a less costly mandate or making such mandate ineffective for the fiscal year;
 
-&emsp;&emsp;&emsp;(II) provides for expedited procedures for the consideration of the statement or legislative recommendations referred to insubclause (I) by Congress no later than 30 days after the statement or recommendations are submitted to Congress; and
+&emsp;&emsp;&emsp;(II) provides for expedited procedures for the consideration of the statement or legislative recommendations referred to in subclause (I) by Congress no later than 30 days after the statement or recommendations are submitted to Congress; and
 
 &emsp;&emsp;&emsp;(III) provides that such mandate shall—
 

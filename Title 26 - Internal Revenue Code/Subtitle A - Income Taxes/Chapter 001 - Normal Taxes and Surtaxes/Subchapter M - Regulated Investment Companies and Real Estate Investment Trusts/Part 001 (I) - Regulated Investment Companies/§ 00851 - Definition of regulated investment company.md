@@ -336,7 +336,7 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 "(2)
 
-Treatment of certain existing series funds.—In the case of a regulated investment company which has more than one fund on the date of the enactmentof this act, and has before such date been treated for Federal income tax purposes as a single corporation—
+Treatment of certain existing series funds.—In the case of a regulated investment company which has more than one fund on the date of the enactment of this act, and has before such date been treated for Federal income tax purposes as a single corporation—
 
 &emsp;"(A) the amendment made by subsection (a), and the resulting treatment of each fund as a separate corporation, shall not give rise to the realization or recognition of income or loss by such regulated investment company, its funds, or its shareholders, and
 
@@ -360,7 +360,7 @@ Amendment by section 1901(a)(109) of Pub. L. 94–455 effective for taxable year
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations beginning after Dec. 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as an Effective Date note under section 954 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations beginning after Dec. 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12,set out as an Effective Date note under section 954 of this title.
 
 #### Effective Date of 1969 Amendment
 

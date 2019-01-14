@@ -32,7 +32,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(ii) such corporation ceases to be a member of such group,
 
-> &emsp;&emsp;with respect to periods after such cessation, such corporation (and any successor of such corporation) may not be included in any consolidated return filed by the affiliated group (or by another affiliated group withthe same common parent or a successor of such common parent) before the 61st month beginning after its first taxable year in which it ceased to be a member of such affiliated group.
+> &emsp;&emsp;with respect to periods after such cessation, such corporation (and any successor of such corporation) may not be included in any consolidated return filed by the affiliated group (or by another affiliated group with the same common parent or a successor of such common parent) before the 61st month beginning after its first taxable year in which it ceased to be a member of such affiliated group.
 
 #### (B) Secretary may waive application of subparagraph (A)
 
@@ -76,15 +76,11 @@ As used in this chapter, the term "includible corporation" means any corporation
 
 &emsp;(3) Foreign corporations.
 
-&emsp;(4) Corporations with respect to which an election under section 936 (relating to possession tax credit) is in effect for the taxable year.
+&emsp;(4) Regulated investment companies and real estate investment trusts subject to tax under subchapter M of chapter 1.
 
-&emsp;\[(5) Repealed. Pub. L. 94–455, title X, §1053(d)(2), Oct. 4, 1976, 90 Stat. 1649.\]
+&emsp;(5) A DISC (as defined in section 992(a)(1)).
 
-&emsp;(6) Regulated investment companies and real estate investment trusts subject to tax under subchapter M of chapter 1.
-
-&emsp;(7) A DISC (as defined in section 992(a)(1)).
-
-&emsp;(8) An S corporation.
+&emsp;(6) An S corporation.
 
 #### (c) Includible insurance companies
 
@@ -120,13 +116,15 @@ In determining the consolidated taxable income of an affiliated group for any ta
 
 &emsp;(2) any amount treated as received under section 805(b)(3) of such Act.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 369; Mar. 13, 1956, ch. 83, §5(8), 70 Stat. 49; Pub. L. 85–866, title I, §64(d)(3), Sept. 2, 1958, 72 Stat. 1657; Pub. L. 86–69, §3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 86–376, §2(c), Sept. 23, 1959, 73 Stat. 699; Pub. L. 86–779, §10(j), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 89–389, §4(b)(3), Apr. 14, 1966, 80 Stat. 116; Pub. L. 91–172, title I, §121(a)(4), Dec. 30, 1969, 83 Stat. 537; Pub. L. 92–178, title V, §502(e), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title VIII, §803(b)(3), title X, §§1051(g), 1053(d)(2), title XV, §1507(a), Oct. 4, 1976, 90 Stat. 1584, 1646, 1649, 1739; Pub. L. 95–600, title I, §141(f)(4), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VIII), (iv)(II), Apr. 1, 1980, 94 Stat. 199, 200; Pub. L. 98–369, div. A, title I, §60(a), title II, §211(b)(20), July 18, 1984, 98 Stat. 577, 756; Pub. L. 99–514, title X, §1024(c)(15), (16), title XVIII, §§1804(e)(1), (10), 1899A(35), Oct. 22, 1986, 100 Stat. 2408, 2800, 2804, 2960; Pub. L. 100–647, title I, §1018(d)(10), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 101–508, title XI, §11814(b), Nov. 5, 1990, 104 Stat. 1388–557; Pub. L. 104–188, title I, §§1308(d)(2), 1702(h)(6), Aug. 20, 1996, 110 Stat. 1783, 1874; Pub. L. 113–295, div. A, title II, §221(a)(93), Dec. 19, 2014, 128 Stat. 4050.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 369; Mar. 13, 1956, ch. 83, §5(8), 70 Stat. 49; Pub. L. 85–866, title I, §64(d)(3), Sept. 2, 1958, 72 Stat. 1657; Pub. L. 86–69, §3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 86–376, §2(c), Sept. 23, 1959, 73 Stat. 699; Pub. L. 86–779, §10(j), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 89–389, §4(b)(3), Apr. 14, 1966, 80 Stat. 116; Pub. L. 91–172, title I, §121(a)(4), Dec. 30, 1969, 83 Stat. 537; Pub. L. 92–178, title V, §502(e), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title VIII, §803(b)(3), title X, §§1051(g), 1053(d)(2), title XV, §1507(a), Oct. 4, 1976, 90 Stat. 1584, 1646, 1649, 1739; Pub. L. 95–600, title I, §141(f)(4), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VIII), (iv)(II), Apr. 1, 1980, 94 Stat. 199, 200; Pub. L. 98–369, div. A, title I, §60(a), title II, §211(b)(20), July 18, 1984, 98 Stat. 577, 756; Pub. L. 99–514, title X, §1024(c)(15), (16), title XVIII, §§1804(e)(1), (10), 1899A(35), Oct. 22, 1986, 100 Stat. 2408, 2800, 2804, 2960; Pub. L. 100–647, title I, §1018(d)(10), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 101–508, title XI, §11814(b), Nov. 5, 1990, 104 Stat. 1388–557; Pub. L. 104–188, title I, §§1308(d)(2), 1702(h)(6), Aug. 20, 1996, 110 Stat. 1783, 1874; Pub. L. 113–295, div. A, title II, §221(a)(93), Dec. 19, 2014, 128 Stat. 4050; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xvii)(I), Mar. 23, 2018, 132 Stat. 1208.)
 
 #### References in Text
 
 Section 805(b)(2)(A) and (3) of the Tax Reform Act of 1984, referred to in subsec. (f)(1), (2), is section 805(b)(2)(A) and (3) of Pub. L. 98–369, which is set out as a note under section 991 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(4) to (8). Pub. L. 115–141 redesignated pars. (6) to (8) as (4) to (6), respectively, and struck out former par. (4) which read as follows: "Corporations with respect to which an election under section 936 (relating to possession tax credit) is in effect for the taxable year."
 
 <b>2014</b>—Subsec. (a)(3)(A). Pub. L. 113–295 struck out "for a taxable year which includes any period after December 31, 1984" after "affiliated group" in cl. (i) and struck out "in a taxable year beginning after December 31, 1984" after "such group" in cl. (ii).
 
@@ -216,7 +214,7 @@ In general.—Except as otherwise provided in this subsection, the amendment mad
 
 "(2)
 
-Special rule for corporations affiliated on june 22, 1984.—In the case of a corporation which on June 22, 1984, is a member of an affiliated group which files a consolidated return for such corporation's taxable year which includes June 22, 1984, for purposes of determining whether such corporation continues to be a member of such group for taxable years beginning before January 1, 1988, the amendment made by subsection (a) \[amending this section\] shall not apply. The preceding sentence shall cease to apply as of the first day after June 22, 1984, on which such corporation does not qualify as a member of such group under section 1504(a) of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[July 18, 1984\]).
+Special rule for corporations affiliated on june 22, 1984.—In the case of a corporation which on June 22, 1984, is a member of an affiliated group which files a consolidated return for such corporation's taxable year which includes June 22, 1984, for purposes of determining whether such corporation continues to be a member of such group for taxable years beginning before January 1, 1988, the amendment made by subsection (a) \[amending this section\] shall not apply. The preceding sentence shall cease to apply as of the firstday after June 22, 1984, on which such corporation does not qualify as a member of such group under section 1504(a) of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[July 18, 1984\]).
 
 "(3)
 
@@ -268,7 +266,7 @@ Treatment of certain corporations affiliated on June 22, 1984.—In the case of 
 
 "(7)
 
-Election to have amendments apply for years beginning after 1983.—If the common parent of any group makes an election under this paragraph, notwithstanding any other provision of this subsection,the amendments made by subsection (a) \[amending this section\] shall apply to such group for taxable years beginning after December 31, 1983. Any such election, once made, shall be irrevocable.
+Election to have amendments apply for years beginning after 1983.—If the common parent of any group makes an election under this paragraph, notwithstanding any other provision of this subsection, the amendments made by subsection (a) \[amending this section\] shall apply to such group for taxable years beginning after December 31, 1983. Any such election, once made, shall be irrevocable.
 
 "(8)
 
@@ -343,6 +341,8 @@ Amendment by Pub. L. 85–866 applicable only with respect to taxable years begi
 Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section 6 of act Mar. 13, 1956, set out as a note set out under section 316 of this title.
 
 #### Savings Provision
+
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

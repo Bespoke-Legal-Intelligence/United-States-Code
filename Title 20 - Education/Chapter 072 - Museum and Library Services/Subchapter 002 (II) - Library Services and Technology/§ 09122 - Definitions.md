@@ -10,15 +10,17 @@ As used in this subchapter:
 
 &emsp;&emsp;(B) a public elementary school or secondary school library;
 
-&emsp;&emsp;(C) an academic library;
+&emsp;&emsp;(C) a tribal library;
 
-&emsp;&emsp;(D) a research library, which for the purposes of this subchapter means a library that—
+&emsp;&emsp;(D) an academic library;
+
+&emsp;&emsp;(E) a research library, which for the purposes of this subchapter means a library that—
 
 &emsp;&emsp;&emsp;(i) makes publicly available library services and materials suitable for scholarly research and not otherwise available to the public; and
 
 &emsp;&emsp;&emsp;(ii) is not an integral part of an institution of higher education; and
 
-&emsp;&emsp;(E) a private library or other special library, but only if the State in which such private or special library is located determines that the library should be considered a library for purposes of this subchapter.
+&emsp;&emsp;(F) a private library or other special library, but only if the State in which such private or special library is located determines that the library should be considered a library for purposes of this subchapter.
 
 #### (2) Library consortium
 
@@ -34,11 +36,13 @@ As used in this subchapter:
 
 #### (5) State plan
 
-&emsp;The term "State plan" means the document which gives assurances that the officially designated State library administrative agency has the fiscal and legal authority and capability to administer all aspects of this subchapter, provides assurances for establishing the State's policies, priorities, criteria, and procedures necessary to the implementation of all programs under this subchapter, submits copies for approval as required by regulations promulgated by the Director, identifies a State's library needs, and sets forth the activities to be taken toward meeting the identified needs supported with the assistance of Federal funds made available under this subchapter.
+&emsp;The term "State plan" means the document which gives assurances that the officially designated State library administrative agency has the fiscal and legal authority and capability to administer all aspects of this subchapter, provides assurances for establishing the State's policies, priorities, criteria, and procedures necessary to the implementation of all programs under this subchapter, submitscopies for approval as required by regulations promulgated by the Director, identifies a State's library needs, and sets forth the activities to be taken toward meeting the identified needs supported with the assistance of Federal funds made available under this subchapter.
 
-(Pub. L. 94–462, title II, §213, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–296; amended Pub. L. 105–128, §3, Dec. 1, 1997, 111 Stat. 2548; Pub. L. 108–81, title II, §202, Sept. 25, 2003, 117 Stat. 997.)
+(Pub. L. 94–462, title II, §213, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–296; amended Pub. L. 105–128, §3, Dec. 1, 1997, 111 Stat. 2548; Pub. L. 108–81, title II, §202, Sept. 25, 2003, 117 Stat. 997; Pub. L. 115–410, §8, Dec. 31, 2018, 132 Stat. 5416.)
 
 #### Amendments
+
+<b>2018</b>—Par. (1)(C) to (F). Pub. L. 115–410 added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
 
 <b>2003</b>—Pars. (1) to (6). Pub. L. 108–81 redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out heading and text of former par. (1). Text read as follows: "The term 'Indian tribe' means any tribe, band, nation, or other organized group or community, including any Alaska native village, regional corporation, or village corporation, as defined in or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), which is recognized by the Secretary of the Interior as eligible for the special programs and services provided by the United States to Indians because of their status as Indians."
 

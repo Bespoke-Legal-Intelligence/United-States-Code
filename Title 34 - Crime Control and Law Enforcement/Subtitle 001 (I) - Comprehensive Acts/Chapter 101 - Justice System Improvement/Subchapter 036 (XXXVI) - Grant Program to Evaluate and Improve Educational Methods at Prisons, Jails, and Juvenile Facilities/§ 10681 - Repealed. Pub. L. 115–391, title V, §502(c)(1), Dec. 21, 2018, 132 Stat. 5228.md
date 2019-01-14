@@ -1,0 +1,8 @@
+### §10681. Repealed. Pub. L. 115–391, title V, §502(c)(1), Dec. 21, 2018, 132 Stat. 5228
+
+Section, Pub. L. 90–351, title I, §3001, as added Pub. L. 110–199, title I, §114(2), Apr. 9, 2008, 122 Stat. 677, related to grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities. See section 10741 of this title.
+
+Section was formerly classified to section 3797dd of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+Another section 3001 of Pub. L. 90–351 is classified to section 10671 of this title.
+

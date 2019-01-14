@@ -16,6 +16,7 @@
 | [7410\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007410%20-%20Additional%20pay%20authorities.md) | Additional pay authorities. |
 | [7411\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007411%20-%20Full-time%20board-certified%20physicians%20and%20dentists%20reimbursement%20of%20continuing%20professional%20education%20expenses.md) | Full-time board-certified physicians and dentists: reimbursement of continuing professional education expenses. |
 | [7412\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007412%20-%20Annual%20determination%20of%20staffing%20shortages%3B%20recruitment%20and%20appointment%20for%20needed%20occupations.md) | Annual determination of staffing shortages; recruitment and appointment for needed occupations. |
+| [7413\.](Subchapter%20001%20%28I%29%20-%20Appointments/%C2%A7%2007413%20-%20Treatment%20of%20podiatrists%3B%20clinical%20oversight%20standards.md) | Treatment of podiatrists; clinical oversight standards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -82,6 +83,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–182, title V, §502(a)(2), June 6, 2018, 132 Stat. 1475, which directed amendment of the table of sections for chapter 74 by adding item 7413 after item 7412, without specifying the Code title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
 <b>2014</b>—Pub. L. 113–146, §301(a)(2), Aug. 7, 2014, 128 Stat. 1784, added item 7412.
 

@@ -4,7 +4,7 @@
 
 (1) The Secretary shall, during September of 1983 and of each year thereafter, determine the monthly actuarial rate for enrollees age 65 and over which shall be applicable for the succeeding calendar year. Subject to paragraphs (5) and (6), such actuarial rate shall be the amount the Secretary estimates to be necessary so that the aggregate amount for such calendar year with respect to those enrollees age 65 and older will equal one-half of the total of the benefits and administrative costs which he estimates will be payable from the Federal Supplementary Medical Insurance Trust Fund for services performed and related administrative costs incurred in such calendar year with respect to such enrollees. In calculating the monthly actuarial rate, the Secretary shall include an appropriate amount for a contingency margin. In applying this paragraph there shall not be taken into account additional payments under section 1395w–4(o) of this title and section 1395w–23(l)(3) of this title and the Government contribution under section 1395w(a)(3) of this title.
 
-(2) The monthly premium of each individual enrolled under this part for each month after December 1983 shall be the amount determinedunder paragraph (3), adjusted as required in accordance with subsections (b), (c), (f), and (i), and to reflect any credit provided under section 1395w–24(b)(1)(C)(ii)(III) of this title.
+(2) The monthly premium of each individual enrolled under this part for each month after December 1983 shall be the amount determined under paragraph (3), adjusted as required in accordance with subsections (b), (c), (f), and (i), and to reflect any credit provided under section 1395w–24(b)(1)(C)(ii)(III) of this title.
 
 (3) The Secretary, during September of each year, shall determine and promulgate a monthly premium rate for the succeeding calendar year that (except as provided in subsection (g)) is equal to 50 percent of the monthly actuarial rate for enrollees age 65 and over, determined according to paragraph (1), for that succeeding calendar year. Whenever the Secretary promulgates the dollar amount which shall be applicable as the monthly premium rate for any period, he shall, at the time such promulgation is announced, issue a public statement setting forth the actuarial assumptions and bases employed by him in arriving at the amount of an adequate actuarial rate for enrollees age 65 and older as provided in paragraph (1).
 
@@ -30,7 +30,7 @@
 
 #### (b) Increase in monthly premium
 
-In the case of an individual whose coverage period began pursuant to an enrollment after his initial enrollment period (determined pursuant to subsection (c) or (d) of section 1395p of this title) and not pursuant to a special enrollment period under subsection (i)(4) or (l) of section 1395p of this title, the monthly premium determined under subsection (a) (without regard to any adjustment under subsection (i)) shall be increased by 10 percent of the monthly premium so determined for each full 12 months (in the same continuous period of eligibility) in which he could have been but was not enrolled. For purposes of the preceding sentence, there shall be taken into account (1) the months which elapsed between the close of his initial enrollment period and the close of the enrollment period in which he enrolled, plus (in the case of an individual who reenrolls) (2) the months which elapsed between the date of termination of a previous coverage period and the close of the enrollment period in which he reenrolled, but there shall not be taken into account months for which the individual can demonstrate that the individual was enrolled in a group health plan described in section 1395y(b)(1)(A)(v) of this title by reason of the individual's (or the individual's spouse's) current employment status or months during which the individual has not attained the age of 65 and for which the individual can demonstrate that the individual was enrolled in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iii) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual) or months for which the individual can demonstrate that the individual was an individual described in section 1395p(k)(3) of this title. Any increase in an individual's monthly premium under the first sentence of this subsection with respect to a particular continuous period of eligibility shall not be applicable with respect to any other continuous period of eligibility which such individual may have. No increase in the premium shall be effected for a month in the case of an individual who enrolls under this part during 2001, 2002, 2003, or 2004 and who demonstrates to the Secretary before December 31, 2004, that the individual is a covered beneficiary (as defined in section 1072(5) of title 10). The Secretary of Health and Human Services shall consult with the Secretary of Defense in identifying individuals described in the previous sentence.
+In the case of an individual whose coverage period began pursuant to an enrollment after his initial enrollment period (determined pursuant to subsection (c) or (d) of section 1395p of this title) and not pursuant to a special enrollment period under subsection (i)(4) or (l) of section 1395p of this title, the monthly premium determined under subsection (a) (without regard to any adjustment under subsection (i)) shall be increased by 10 percent of the monthly premium so determined for each full 12 months (in the same continuous period of eligibility) in which he could have been but was not enrolled. For purposes of the preceding sentence, there shall be taken into account (1) the months which elapsed between the close of his initial enrollment period and the close of the enrollment period in which he enrolled, plus (in the case of an individual who reenrolls) (2) the months which elapsed between the date of termination of a previous coverage period and the close of the enrollment period in which he reenrolled, but there shall not be taken into account months for which the individual can demonstrate that the individual was enrolled in a group health plandescribed in section 1395y(b)(1)(A)(v) of this title by reason of the individual's (or the individual's spouse's) current employment status or months during which the individual has not attained the age of 65 and for which the individual can demonstrate that the individual was enrolled in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iii) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual) or months for which the individual can demonstrate that the individual was an individual described in section 1395p(k)(3) of this title. Any increase in an individual's monthly premium under the first sentence of this subsection with respect to a particular continuous period of eligibility shall not be applicable with respect to any other continuous period of eligibility which such individual may have. No increase in the premium shall be effected for a month in the case of an individual who enrolls under this part during 2001, 2002, 2003, or 2004 and who demonstrates to the Secretary before December 31, 2004, that the individual is a covered beneficiary (as defined in section 1072(5) of title 10). The Secretary of Health and Human Services shall consult with the Secretary of Defense in identifying individuals described in the previous sentence.
 
 #### (c) Premiums rounded to nearest multiple of ten cents
 
@@ -68,7 +68,7 @@ In estimating the benefits and administrative costs which will be payable from t
 
 #### (1) In general
 
-&emsp;Certain individuals who are residing in a CCA area under section 1395w–29 <sup>1</sup> of this title who are not enrolled in an MA plan under part C may be subject to a premium adjustment under subsection (f) of such section for months in which the CCA program under such section is in effect in such area.
+&emsp;Certain individuals who are residing in a CCA area under section 1395w–29 <sup>1</sup> of this titlewho are not enrolled in an MA plan under part C may be subject to a premium adjustment under subsection (f) of such section for months in which the CCA program under such section is in effect in such area.
 
 #### (2) No effect on late enrollment penalty or income-related adjustment in subsidies
 
@@ -135,7 +135,7 @@ In estimating the benefits and administrative costs which will be payable from t
 | More than $150,000 but not more than $200,000 | 65 percent&nbsp;&nbsp; |
 | More than $200,000 | 80 percent. |
 
-&emsp;&emsp;&emsp;&emsp;(II) Subject to paragraph (5), for years beginning with 2018:
+&emsp;&emsp;&emsp;&emsp;(II) Subject to paragraph (5), for 2018:
 
 &nbsp;
 
@@ -146,15 +146,27 @@ In estimating the benefits and administrative costs which will be payable from t
 | More than $133,500 but not more than $160,000 | 65 percent&nbsp;&nbsp; |
 | More than $160,000 | 80 percent. |
 
+&emsp;&emsp;&emsp;&emsp;(III) Subject to paragraph (5), for years beginning with 2019:
+
+&nbsp;
+
+| <b>  If the modified adjusted gross   income is:</b> | <b>The applicable percentage is:</b> |
+| :--- | ---: |
+| More than $85,000 but not more than $107,000 | 35 percent&nbsp;&nbsp; |
+| More than $107,000 but not more than $133,500 | 50 percent&nbsp;&nbsp; |
+| More than $133,500 but not more than $160,000 | 65 percent&nbsp;&nbsp; |
+| More than $160,000 but less than $500,000 | 80 percent&nbsp;&nbsp; |
+| At least $500,000 | 85 percent. |
+
 #### (ii) Joint returns
 
-&emsp;&emsp;&emsp;In the case of a joint return, clause (i) shall be applied by substituting dollar amounts which are twice the dollar amounts otherwise applicable under clause (i) for the calendar year.
+&emsp;&emsp;&emsp;In the case of a joint return, clause (i) shall be applied by substituting dollar amounts which are twice the dollar amounts otherwise applicable under clause (i) for the calendar year except, with respect to the dollar amounts applied in the last row of the table under subclause (III) of such clause (and the second dollar amount specified in the second to last row of such table), clause (i) shall be applied by substituting dollar amounts which are 150 percent of such dollar amounts for the calendar year.
 
 #### (iii) Married individuals filing separate returns
 
 &emsp;&emsp;&emsp;In the case of an individual who—
 
-&emsp;&emsp;&emsp;&emsp;(I) is married as of the close of the taxable year (within the meaning of section 7703 of the Internal Revenue Code of 1986) but does not file a joint return for such year, and
+&emsp;&emsp;&emsp;&emsp;(I) is married as of the close of the taxable year (within the meaning of section7703 of the Internal Revenue Code of 1986) but does not file a joint return for such year, and
 
 &emsp;&emsp;&emsp;&emsp;(II) does not live apart from such individual's spouse at all times during the taxable year,
 
@@ -212,7 +224,7 @@ In estimating the benefits and administrative costs which will be payable from t
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any calendar year beginning after 2007 (other than 2018 and 2019), each dollar amount in paragraph (2) or (3) shall be increased by an amount equal to—
+&emsp;&emsp;Subject to subparagraph (C), in the case of any calendar year beginning after 2007 (other than 2018 and 2019), each dollar amount in paragraph (2) or (3) shall be increased by an amount equal to—
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
@@ -220,7 +232,21 @@ In estimating the benefits and administrative costs which will be payable from t
 
 #### (B) Rounding
 
-&emsp;&emsp;If any dollar amount after being increased under subparagraph (A) is not a multiple of $1,000, such dollar amount shall be rounded to the nearest multiple of $1,000.
+&emsp;&emsp;If any dollar amount after being increased under subparagraph (A) or (C) is not a multiple of $1,000, such dollar amount shall be rounded to the nearest multiple of $1,000.
+
+#### (C) Treatment of adjustments for certain higher income individuals
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subparagraph (A) shall not apply with respect to each dollar amount in paragraph (3) of $500,000.
+
+#### (ii) Adjustment beginning 2028
+
+&emsp;&emsp;&emsp;In the case of any calendar year beginning after 2027, each dollar amount in paragraph (3) of $500,000 shall be increased by an amount equal to—
+
+&emsp;&emsp;&emsp;&emsp;(I) such dollar amount, multiplied by
+
+&emsp;&emsp;&emsp;&emsp;(II) the percentage (if any) by which the average of the Consumer Price Index for all urban consumers (United States city average) for the 12-month period ending with August of the preceding calendar year exceeds such average for the 12-month period ending with August 2026.
 
 #### (6) Temporary adjustment to income thresholds
 
@@ -234,7 +260,7 @@ In estimating the benefits and administrative costs which will be payable from t
 
 &emsp;For purposes of this subsection, the term "joint return" has the meaning given to such term by section 7701(a)(38) of the Internal Revenue Code of 1986.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1839, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(d), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(4), (5), 203 (a)–(d), Oct. 30, 1972, 86 Stat. 1373, 1376, 1377; Pub. L. 94–182, title I, §104(a), Dec. 31, 1975, 89 Stat. 1052; Pub. L. 95–216, title II, §205(e), Dec. 20, 1977, 91 Stat. 1529; Pub. L. 96–499, title IX, §945(c)(2), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(4), Aug. 13, 1981, 95 Stat. 802; Pub. L. 97–248, title I, §124(a), (b), Sept. 3, 1982, 96 Stat. 364; Pub. L. 97–448, title III, §309(b)(8), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §606(a)(1)–(3)(C), Apr. 20, 1983, 97 Stat. 169, 170; Pub. L. 98–369, div. B, title III, §§2302(a), (b), 2338(a), July 18, 1984, 98 Stat. 1063, 1091; Pub. L. 98–617, §3(b)(4), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–272, title IX, §§9219(a)(1), 9313, Apr. 7, 1986, 100 Stat. 182, 194; Pub. L. 99–509, title IX, §§9001(c), 9319(c)(4), Oct. 21, 1986, 100 Stat.1970, 2012; Pub. L. 100–203, title IV, §4080, Dec. 22, 1987, 101 Stat. 1330–126; Pub. L. 100–360, title II, §211(a)–(c)(1), July 1, 1988, 102 Stat. 733, 738; Pub. L. 100–485, title VI, §608(d)(9), Oct. 13, 1988, 102 Stat. 2415; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6202(b)(4)(C), (c)(2), 6301, Dec. 19, 1989, 103 Stat. 2233, 2234, 2258; Pub. L. 101–508, title IV, §4301, Nov. 5, 1990, 104 Stat. 1388–125; Pub. L. 103–66, title XIII, §13571, Aug. 10, 1993, 107 Stat. 609; Pub. L. 103–432, title I, §§144, 151(c)(3), Oct. 31, 1994, 108 Stat. 4427, 4435; Pub. L. 105–33, title IV, §§4571(a), (b)(1), 4581(a), 4582, 4631(a)(2), Aug. 5, 1997, 111 Stat. 464, 465, 486; Pub. L. 105–277, div. J, title V, §5101(e), Oct. 21, 1998, 112 Stat. 2681–915; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(B)(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557; Pub. L. 108–173, title I, §105(a), title II, §§222(l)(2)(A), 241(b)(2)(A), title VI, §625(a)(1), title VII, §736(b)(7), title VIII, §811(a), (b)(1), Dec. 8, 2003, 117 Stat. 2166, 2206, 2220, 2317, 2356, 2364, 2367; Pub. L. 109–171, title V, §§5111, 5115(a)(1), Feb. 8, 2006, 120 Stat. 43, 45; Pub. L. 111–5, div. B, title IV, §4103(a)(1), Feb. 17, 2009, 123 Stat. 487; Pub. L. 111–148, title III, §§3110(b), 3402, Mar. 23, 2010, 124 Stat. 420, 488; Pub. L. 114–10, title IV, §402, Apr. 16, 2015, 129 Stat. 160; Pub. L. 114–74, title VI, §601(a), (c), Nov. 2, 2015, 129 Stat. 594, 595.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1839, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(d), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(4), (5), 203 (a)–(d), Oct. 30, 1972, 86 Stat. 1373, 1376, 1377; Pub. L. 94–182, title I, §104(a), Dec. 31, 1975, 89 Stat. 1052; Pub. L. 95–216, title II, §205(e), Dec. 20, 1977, 91 Stat. 1529; Pub. L. 96–499, title IX, §945(c)(2), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(4), Aug. 13, 1981, 95 Stat. 802; Pub. L. 97–248, title I, §124(a), (b), Sept. 3, 1982, 96 Stat. 364; Pub. L. 97–448, title III, §309(b)(8), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §606(a)(1)–(3)(C), Apr. 20, 1983, 97 Stat. 169, 170; Pub. L. 98–369, div. B, title III, §§2302(a), (b), 2338(a), July 18, 1984, 98 Stat. 1063, 1091; Pub. L. 98–617, §3(b)(4), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–272, title IX, §§9219(a)(1), 9313, Apr. 7, 1986, 100 Stat. 182, 194; Pub. L. 99–509, title IX, §§9001(c), 9319(c)(4), Oct. 21, 1986, 100 Stat. 1970, 2012; Pub. L. 100–203, title IV, §4080, Dec. 22, 1987, 101 Stat. 1330–126; Pub. L. 100–360, title II, §211(a)–(c)(1), July 1, 1988, 102 Stat. 733, 738; Pub. L. 100–485, title VI, §608(d)(9), Oct. 13, 1988, 102 Stat. 2415; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6202(b)(4)(C), (c)(2), 6301, Dec. 19, 1989, 103 Stat. 2233, 2234, 2258; Pub. L. 101–508, title IV, §4301, Nov. 5, 1990, 104 Stat. 1388–125; Pub. L. 103–66, title XIII, §13571, Aug. 10, 1993, 107 Stat. 609; Pub. L. 103–432, title I, §§144, 151(c)(3), Oct. 31, 1994, 108 Stat. 4427, 4435; Pub. L. 105–33, title IV, §§4571(a), (b)(1), 4581(a), 4582, 4631(a)(2), Aug. 5, 1997, 111 Stat. 464, 465, 486; Pub. L. 105–277, div. J, title V, §5101(e), Oct. 21, 1998, 112 Stat. 2681–915; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(B)(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557; Pub. L. 108–173, title I, §105(a), title II, §§222(l)(2)(A), 241(b)(2)(A), title VI, §625(a)(1), title VII, §736(b)(7), title VIII, §811(a), (b)(1), Dec. 8, 2003, 117 Stat. 2166, 2206, 2220, 2317, 2356, 2364, 2367; Pub. L. 109–171, title V, §§5111, 5115(a)(1), Feb. 8, 2006, 120 Stat. 43, 45; Pub. L. 111–5, div. B, title IV, §4103(a)(1), Feb. 17, 2009, 123 Stat. 487; Pub. L. 111–148, title III, §§3110(b), 3402, Mar. 23, 2010, 124 Stat. 420, 488; Pub. L. 114–10, title IV, §402, Apr. 16, 2015, 129 Stat. 160; Pub. L. 114–74, title VI, §601(a), (c), Nov. 2, 2015, 129 Stat. 594, 595; Pub. L. 115–123, div. E, title XII, §53114, Feb. 9, 2018, 132 Stat. 305.)
 
 #### References in Text
 
@@ -245,6 +271,18 @@ Section 1395w–29 of this title, referred to in subsec. (h), was repealed by Pu
 The Internal Revenue Code of 1986, referred to in subsec. (i)(3)(C)(iii)(I), (4)(A), (7), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (i)(3)(C)(i)(II). Pub. L. 115–123, §53114(a)(1), struck out "years beginning with" after "Subject to paragraph (5), for".
+
+Subsec. (i)(3)(C)(i)(III). Pub. L. 115–123, §53114(a)(2), added subcl. (III).
+
+Subsec. (i)(3)(C)(ii). Pub. L. 115–123, §53114(b), inserted before period at end "except, with respect to the dollar amounts applied in the last row of the table under subclause (III) of such clause (and the second dollar amount specified in the second to last row of such table), clause (i) shall be applied by substituting dollar amounts which are 150 percent of such dollar amounts for the calendar year".
+
+Subsec. (i)(5)(A). Pub. L. 115–123, §53114(c)(1), substituted "Subject to subparagraph (C), in the case" for "In the case" in introductory provisions.
+
+Subsec. (i)(5)(B). Pub. L. 115–123, §53114(c)(2), substituted "subparagraph (A) or (C)" for "subparagraph (A)".
+
+Subsec. (i)(5)(C). Pub. L. 115–123, §53114(c)(3), added subpar. (C).
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–74, §601(a)(1), substituted "Subject to paragraphs (5) and (6), such actuarial" for "Such actuarial" in second sentence.
 
@@ -466,7 +504,7 @@ Subsec. (b)(2). Pub. L. 92–603, §203(b), substituted "ending on or before Dec
 
 Subsec. (c). Pub. L. 92–603, §203(c), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 92–603, §§201(c)(4), 203(c), (d)(1), redesignated former subsec. (c) as (d), inserted referenceto subsec. (c) after reference to subsec. (b), inserted "(in the same continuous period of eligibility)" after "for each full 12 months", and inserted provisions relating to any increase in an individual's monthly premium under the first sentence of this subsection. Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 92–603, §§201(c)(4), 203(c), (d)(1), redesignated former subsec. (c) as (d), inserted reference to subsec. (c) after reference to subsec. (b), inserted "(in the same continuous period of eligibility)" after "for each full 12 months", and inserted provisions relating to any increase in an individual's monthly premium under the first sentence of this subsection. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 92–603, §203(c), redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
@@ -488,7 +526,7 @@ Pub. L. 108–173, title VI, §625(a)(2), Dec. 8, 2003, 117 Stat. 2318, provided
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(6) \[title VI, §606(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, provided that: "The amendments made by subsection (a) \[amending this section and sections 1395s, 1395w, 1395w–21, 1395w–23, and 1395w–24 of this title\] shall apply to years beginning with 2003."
+Pub. L. 106–554, §1(a)(6) \[title VI, §606(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, provided that: "Theamendments made by subsection (a) \[amending this section and sections 1395s, 1395w, 1395w–21, 1395w–23, and 1395w–24 of this title\] shall apply to years beginning with 2003."
 
 #### Effective Date of 1997 Amendment
 
@@ -564,7 +602,7 @@ Pub. L. 114–74, title VI, §601(e), Nov. 2, 2015, 129 Stat. 596, provided that
 
 #### Conditional Application to 2017 if No Social Security COLA for 2017
 
-Pub. L. 114–74, title VI, §601(d), Nov. 2, 2015, 129 Stat. 596, provided that: "If there is no increase in the monthly insurance benefits payable under title II \[probably means title II of act Aug. 14, 1935, ch. 531, which is classified to 42 U.S.C. 401 et seq.\] with respect to December 2016 pursuant to section 215(i) \[probably means section 215(i) of act Aug. 14, 1935, ch. 531, which is classified to 42 U.S.C. 415(i)\], then the amendments made by this section \[amending this section and secton 1395w of this section\] shall be applied as if—
+Pub. L. 114–74, title VI, §601(d), Nov. 2, 2015, 129 Stat. 596, provided that: "If there is no increase in themonthly insurance benefits payable under title II \[probably means title II of act Aug. 14, 1935, ch. 531, which is classified to 42 U.S.C. 401 et seq.\] with respect to December 2016 pursuant to section 215(i) \[probably means section 215(i) of act Aug. 14, 1935, ch. 531, which is classified to 42 U.S.C. 415(i)\], then the amendments made by this section \[amending this section and secton 1395w of this section\] shall be applied as if—
 
 &emsp;"(1) the reference to '2016' in paragraph (5)(A) of section 1839(a) of the Social Security Act (42 U.S.C. 1395r(a)), as added by subsection (a)(2), was a reference to '2016 and 2017';
 

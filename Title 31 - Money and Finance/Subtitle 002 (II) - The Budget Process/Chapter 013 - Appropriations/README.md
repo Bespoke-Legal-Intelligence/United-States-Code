@@ -46,10 +46,13 @@
 | [1352\.](Subchapter%20003%20%28III%29%20-%20Limitations%2C%20Exceptions%2C%20and%20Penalties/%C2%A7%2001352%20-%20Limitation%20on%20use%20of%20appropriated%20funds%20to%20influence%20certain%20Federal%20contracting%20and%20financial%20transactions.md) | Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions. |
 | [1353\.](Subchapter%20003%20%28III%29%20-%20Limitations%2C%20Exceptions%2C%20and%20Penalties/%C2%A7%2001353%20-%20Acceptance%20of%20travel%20and%20related%20expenses%20from%20non-Federal%20sources.md) | Acceptance of travel and related expenses from non-Federal sources. |
 | [1354\.](Subchapter%20003%20%28III%29%20-%20Limitations%2C%20Exceptions%2C%20and%20Penalties/%C2%A7%2001354%20-%20Limitation%20on%20use%20of%20appropriated%20funds%20for%20contracts%20with%20entities%20not%20meeting%20veterans%27%20employment%20reporting%20requirements.md) | Limitation on use of appropriated funds for contracts with entities not meeting veterans' employment reporting requirements. |
+| [1355\.](Subchapter%20003%20%28III%29%20-%20Limitations%2C%20Exceptions%2C%20and%20Penalties/%C2%A7%2001355%20-%20Prohibition%20on%20use%20of%20funds%20for%20portraits.md) | Prohibition on use of funds for portraits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–158, §2(b), Mar. 27, 2018, 132 Stat. 1242, added item 1355. Item was added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language amending the analysis for subchapter III of this chapter.
 
 <b>1998</b>—Pub. L. 105–339, §7(b)(2), Oct. 31, 1998, 112 Stat. 3189, added item 1354.
 

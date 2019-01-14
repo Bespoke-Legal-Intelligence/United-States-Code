@@ -72,7 +72,7 @@ For the purposes of this subchapter:
 
 #### (16) Risk assessment
 
-&emsp;The term "risk assessment" means an on-site investigation to determine and report theexistence, nature, severity and location of lead-based paint hazards in residential dwellings, including—
+&emsp;The term "risk assessment" means an on-site investigation to determine and report the existence, nature, severity and location of lead-based paint hazards in residential dwellings, including—
 
 &emsp;&emsp;(A) information gathering regarding the age and history of the housing and occupancy by children under age 6;
 
@@ -92,7 +92,7 @@ For the purposes of this subchapter:
 
 #### Amendments
 
-<b>2017</b>—Par. (17). Pub. L. 115–31, §237(c)(1), which directed insertion of "or any 0-bedroom dwelling" after "disabilities,", was executed by making the insertion after "disabilities" the first place appearing to reflect the probable intent of Congress.
+<b>2017</b>—Par. (17). Pub. L. 115–31, §237(c)(1), which directed insertion of "or any 0-bedroom dwelling" after"disabilities,", was executed by making the insertion after "disabilities" the first place appearing to reflect the probable intent of Congress.
 
 Pub. L. 115–31, §237(c)(2), which directed substitution of "housing)" for "housing for the elderly or persons with disabilities) or any 0 bedroom dwelling", was executed by making the substitution for "housing for the elderly or persons with disabilities) or any 0-bedroom dwelling" to reflect the probable intent of Congress.
 

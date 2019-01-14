@@ -62,7 +62,7 @@ Each application under this section—
 
 &emsp;&emsp;(i) authorize the production on a daily basis of call detail records for a period not to exceed 180 days;
 
-&emsp;&emsp;(ii) provide that an order for such production may be extended upon application under subsection (b) and the judicial finding under paragraph (1) of this subsection;
+&emsp;&emsp;(ii) provide that an order for such production may be extended upon applicationunder subsection (b) and the judicial finding under paragraph (1) of this subsection;
 
 &emsp;&emsp;(iii) provide that the Government may require the prompt production of a first set of call detail records using the specific selection term that satisfies the standard required under subsection (b)(2)(C)(ii);
 
@@ -79,6 +79,8 @@ Each application under this section—
 &emsp;&emsp;&emsp;(II) destroy all call detail records produced under the order as prescribed by such procedures.
 
 (3) No order issued under this subsection may authorize the collection of tangible things without the use of a specific selection term that meets the requirements of subsection (b)(2).
+
+(4) A denial of the application made under this subsection may be reviewed as provided in section 1803 of this title.
 
 #### (d) Nondisclosure
 
@@ -104,7 +106,7 @@ Each application under this section—
 
 &emsp;(B) otherwise provides technical assistance to the Government under this section or to implement the amendments made to this section by the USA FREEDOM Act of 2015.
 
-(2) A production or provision of information, facilities, or technical assistance described inparagraph (1) shall not be deemed to constitute a waiver of any privilege in any other proceeding or context.
+(2) A production or provision of information, facilities, or technical assistance described in paragraph (1) shall not be deemed to constitute a waiver of any privilege in any other proceeding or context.
 
 #### (f) Judicial review of FISA orders
 
@@ -120,7 +122,7 @@ Each application under this section—
 
 (iii) The assigned judge shall promptly provide a written statement for the record of the reasons for any determination under this subsection. Upon the request of the Government, any order setting aside a nondisclosure order shall be stayed pending review pursuant to paragraph (3).
 
-(B) A judge considering a petition to modify or set aside a production order may grant such petition only if the judge finds that such order does not meet the requirements of this section or is otherwise unlawful. If the judge does not modify or set aside the production order, the judge shall immediately affirm such order, and order the recipient to comply therewith.
+(B) A judge considering a petition to modify or set aside a production order may grant such petition only if the judge finds that such order does not meet the requirements of this section or is otherwise unlawful. If the judge does notmodify or set aside the production order, the judge shall immediately affirm such order, and order the recipient to comply therewith.
 
 (C)(i) A judge considering a petition to modify or set aside a nondisclosure order may grant such petition only if the judge finds that there is no reason to believe that disclosure may endanger the national security of the United States, interfere with a criminal, counterterrorism, or counterintelligence investigation, interfere with diplomatic relations, or endanger the life or physical safety of any person.
 
@@ -152,7 +154,7 @@ Each application under this section—
 
 #### (3) Rule of construction
 
-&emsp;Nothing in this subsection shall limit the authority of the court established under section 1803(a) of this title to impose additional, particularized minimization procedures with regard to the production, retention, or dissemination of nonpublicly available information concerning unconsenting United Statespersons, including additional, particularized procedures related to the destruction of information within a reasonable time period.
+&emsp;Nothing in this subsection shall limit the authority of the court established under section 1803(a) of this title to impose additional, particularized minimization procedures with regard to the production, retention, or dissemination of nonpublicly available information concerning unconsenting United States persons, including additional, particularized procedures related to the destruction of information within a reasonable time period.
 
 #### (h) Use of information
 
@@ -240,9 +242,9 @@ In this section:
 
 #### (B) Call detail record applications
 
-&emsp;&emsp;For purposes of an application submitted under subsection (b)(2)(C), the term "specific selection term" means a term that specifically identifies an individual, account, or personal device.
+&emsp;&emsp;For purposes of an application submitted under subsection (b)(2)(C), the term "specificselection term" means a term that specifically identifies an individual, account, or personal device.
 
-(Pub. L. 95–511, title V, §501, as added Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 287; amended Pub. L. 107–108, title III, §314(a)(6), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 109–177, title I, §§102(b)(1), 106(a)–(e), (f)(2), (g), Mar. 9, 2006, 120 Stat. 195–198; Pub. L. 109–178, §§3, 4(a), Mar. 9, 2006, 120 Stat. 278, 280; Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, §2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(a), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title I, §§101–107, title VII, §705(a), (c), June 2, 2015, 129 Stat. 269–273, 300.)
+(Pub. L. 95–511, title V, §501, as added Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 287; amended Pub. L. 107–108, title III, §314(a)(6), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 109–177, title I, §§102(b)(1), 106(a)–(e), (f)(2), (g), Mar. 9, 2006, 120 Stat. 195–198; Pub. L. 109–178, §§3, 4(a), Mar. 9, 2006, 120 Stat. 278, 280; Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, §2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(a), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title I, §§101–107, title VII, §705(a), (c), June 2, 2015, 129 Stat. 269–273, 300; Pub. L. 115–118, title II, §205(b)(6), Jan. 19, 2018, 132 Stat. 22.)
 
 #### Amendment of Section
 
@@ -281,6 +283,8 @@ Pursuant to Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 112–14, this
 A prior section 1861, Pub. L. 95–511, title V, §501, as added Pub. L. 105–272, title VI, §602, Oct. 20, 1998, 112 Stat. 2410, defined terms used in this subchapter, prior to repeal by Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 287. See Amendment of Section note above.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(4). Pub. L. 115–118 added par. (4).
 
 <b>2015</b>—Pub. L. 114–23, §705(a), (c), amended directory language of Pub. L. 109–177, §102(b)(1). See Codification note above and 2006 Amendment note below.
 
@@ -366,7 +370,7 @@ Subsecs. (g), (h). Pub. L. 109–177, §106(g), added subsecs. (g) and (h).
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–23, title I, §109(a), June 2, 2015, 129 Stat. 276, provided that: "The amendments made by sections101 through 103 \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[June 2, 2015\]."
+Pub. L. 114–23, title I, §109(a), June 2, 2015, 129 Stat. 276, provided that: "The amendments made by sections 101 through 103 \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[June 2, 2015\]."
 
 #### Effective Date of 2006 Amendment
 

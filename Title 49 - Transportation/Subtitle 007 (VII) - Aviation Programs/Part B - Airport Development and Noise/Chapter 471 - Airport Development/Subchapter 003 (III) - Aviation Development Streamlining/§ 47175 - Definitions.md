@@ -40,11 +40,25 @@ Federal agency.—The term "Federal agency" means a department or agency of the 
 
 Joint use airport.—The term "joint use airport" means an airport owned by the Department of Defense, at which both military and civilian aircraft make shared use of the airfield.
 
-(Added Pub. L. 108–176, title III, §304(a), Dec. 12, 2003, 117 Stat. 2538; amended Pub. L. 112–95, title I, §152(g), Feb. 14, 2012, 126 Stat. 34.)
+&emsp;(8)
+
+General aviation airport construction or improvement project.—The term "general aviation airport construction or improvement project" means—
+
+&emsp;&emsp;(A) a project for the construction or extension of a runway, including any land acquisition, helipad, taxiway, safety area, apron, or navigational aids associated with the runway or runway extension, at a general aviation airport, a reliever airport, or a commercial service airport that is not a primary airport (as such terms are defined in section 47102); and
+
+&emsp;&emsp;(B) any other airport development project that the Secretary designates as facilitating aviation capacity building projects at a general aviation airport.
+
+(Added Pub. L. 108–176, title III, §304(a), Dec. 12, 2003, 117 Stat. 2538; amended Pub. L. 112–95, title I, §152(g), Feb. 14, 2012, 126 Stat. 34; Pub. L. 115–254, div. B, title I, §191(b), Oct. 5, 2018, 132 Stat. 3239.)
 
 #### Amendments
+
+<b>2018</b>—Par. (8). Pub. L. 115–254 added par. (8).
 
 <b>2012</b>—Par. (2). Pub. L. 112–95, §152(g)(1), substituted "2004 or any successor report" for "2001".
 
 Par. (7). Pub. L. 112–95, §152(g)(2), added par. (7).
+
+#### Effective Date
+
+Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out an Effective Date of 2003 Amendment note under section 106 of this title.
 

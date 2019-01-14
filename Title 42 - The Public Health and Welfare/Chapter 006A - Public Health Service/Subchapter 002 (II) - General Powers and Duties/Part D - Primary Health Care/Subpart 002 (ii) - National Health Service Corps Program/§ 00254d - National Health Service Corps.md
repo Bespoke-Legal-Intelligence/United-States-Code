@@ -38,11 +38,11 @@
 
 (2) The Secretary may also reimburse the applicant for the actual and reasonable expenses incurred for the travel of 1 family member to accompany the applicant to such site. The Secretary may establish a maximum total amount that may be paid to an individual as reimbursement for such expenses.
 
-(3) In the case of an individual who has entered into a contract for obligated service under the Scholarship Program or under the Loan Repayment Program, the Secretary may reimburse such individual for all or part of the actual and reasonable expenses incurred in transporting the individual, the individual's family, and the family's possessions to the site of the individual's assignment under section 254f of this title. The Secretary may establish a maximum total amount that may be paid to an individual as reimbursement for such expenses.
+(3) In the case of an individual who has entered into a contract for obligated service under the Scholarship Program or under the Loan Repayment Program, the Secretary may reimburse such individual for all or part of the actual and reasonable expenses incurred in transporting theindividual, the individual's family, and the family's possessions to the site of the individual's assignment under section 254f of this title. The Secretary may establish a maximum total amount that may be paid to an individual as reimbursement for such expenses.
 
 #### (d) Monthly pay adjustments of members directly engaged in delivery of health services in health professional shortage area; "monthly pay" defined; monthly pay adjustment of member with service obligation incurred under Scholarship Program or Loan Repayment Program; personnel system applicable
 
-(1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthlypay of each member of the Corps (other than a member described in subsection (a)(1)(C)) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
+(1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthly pay of each member of the Corps (other than a member described in subsection (a)(1)(C)) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
 
 &emsp;(A) During the first 36 months in which such a member is so engaged in the delivery of health services, his monthly pay may be increased by an amount which when added to the member's monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of the profession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
 
@@ -148,7 +148,7 @@ Subsec. (j)(5), (6). Pub. L. 111–148, §10501(n)(2), added pars. (5) and (6).
 
 <b>2002</b>—Subsec. (a)(3)(E). Pub. L. 107–251, §301(a)(1), added subpar. (E).
 
-Subsec. (b)(1). Pub. L. 107–251, §301(a)(2)(A), substituted "health professions, including schools at whichgraduate programs of behavioral and mental health are offered," for "health professions".
+Subsec. (b)(1). Pub. L. 107–251, §301(a)(2)(A), substituted "health professions, including schools at which graduate programs of behavioral and mental health are offered," for "health professions".
 
 Subsec. (b)(2). Pub. L. 107–251, §301(a)(2)(B), inserted "behavioral and mental health professionals," after "dentists,".
 
@@ -214,7 +214,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Special Report on Present and Future Direction of National Health Service Corps; Submission to Congress Not Later Than February 1, 1979
 
-Pub. L. 95–626, title I, §116(c), Nov. 10, 1978, 92 Stat. 3569, directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit to Congress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and rural health needs, the types of health professions needed to meet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
+Pub. L. 95–626, title I, §116(c), Nov. 10, 1978, 92 Stat. 3569, directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit to Congress a report on the direction of the NationalHealth Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and rural health needs, the types of health professions needed to meet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
 
 #### Effective Date; Other Provisions: Health Manpower Shortage Area; Approval of Applications for Assignment of Corps Personnel; Assignment Period, Commencement; Credit for Months of Prior Health Care and Services for Additional Pay Benefit; National Advisory Council on the National Health Service Corps, Continuation of Council and Appointment of Members
 

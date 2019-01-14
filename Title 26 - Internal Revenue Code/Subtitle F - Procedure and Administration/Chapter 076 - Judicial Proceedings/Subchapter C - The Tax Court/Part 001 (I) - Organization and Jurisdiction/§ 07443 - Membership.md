@@ -44,7 +44,7 @@ Subsec. (d). Pub. L. 96–417 substituted "Court of International Trade" for "Cu
 
 Subsec. (c). Pub. L. 91–172, §953, substituted provisions fixing salary of Tax Court judges at the same rate and same installments as District Court judges, for provisions that each judge of the Tax Court receive a salary of $30,000 per annum, to be paid in monthly installments.
 
-Subsec. (e). Pub. L. 91–172, §952(b), substituted provisions that a term in office of any Tax Court judge would expire 15 years after he takes office, for provisions that a term in office of any Tax Court judge would expire 12 years after the expiration of the term for which his predecessor was appointed, and any judge appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed would be appointed only for the unexpired term of his predecessor.
+Subsec. (e). Pub. L. 91–172, §952(b), substituted provisions that a term in office of any Tax Court judgewould expire 15 years after he takes office, for provisions that a term in office of any Tax Court judge would expire 12 years after the expiration of the term for which his predecessor was appointed, and any judge appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed would be appointed only for the unexpired term of his predecessor.
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–426 increased salary of judges from $22,500 to $30,000.
 
@@ -72,7 +72,7 @@ Amendment by section 953 of Pub. L. 91–172 to take effect on Dec. 30, 1969, se
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964,except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426, title V, Aug. 14, 1964, 78 Stat. 435.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426, title V, Aug. 14, 1964, 78 Stat. 435.
 
 #### Effective Date of 1955 Amendment
 

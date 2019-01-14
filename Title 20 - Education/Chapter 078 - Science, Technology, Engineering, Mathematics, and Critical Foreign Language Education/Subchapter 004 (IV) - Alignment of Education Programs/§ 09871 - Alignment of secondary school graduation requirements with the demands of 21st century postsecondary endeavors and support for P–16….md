@@ -102,7 +102,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 &emsp;&emsp;&emsp;&emsp;(II) transcend any single system of education's ability to address; and
 
-&emsp;&emsp;&emsp;(iv) implementing activities designed to ensure the enrollment of all elementaryschool and secondary school students in rigorous coursework, which may include—
+&emsp;&emsp;&emsp;(iv) implementing activities designed to ensure the enrollment of all elementary school and secondary school students in rigorous coursework, which may include—
 
 &emsp;&emsp;&emsp;&emsp;(I) specifying the courses and performance levels necessary for acceptance into institutions of higher education; and
 
@@ -162,7 +162,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 &emsp;&emsp;&emsp;&emsp;(VI) maintain adequate security measures to ensure the confidentiality and integrity of the statewide P–16 education data system, such as protecting a student record from identification by a unique identifier;
 
-&emsp;&emsp;&emsp;&emsp;(VII) where rights are provided to parents under this clause, provide thoserights to the student instead of the parent if the student has reached the age of 18 or is enrolled in a postsecondary educational institution; and
+&emsp;&emsp;&emsp;&emsp;(VII) where rights are provided to parents under this clause, provide those rights to the student instead of the parent if the student has reached the age of 18 or is enrolled in a postsecondary educational institution; and
 
 &emsp;&emsp;&emsp;&emsp;(VIII) ensure adequate enforcement of the requirements of this clause.
 

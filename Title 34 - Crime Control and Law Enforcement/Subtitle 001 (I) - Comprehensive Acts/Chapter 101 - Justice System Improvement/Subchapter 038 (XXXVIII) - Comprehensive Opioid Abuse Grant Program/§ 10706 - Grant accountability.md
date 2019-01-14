@@ -76,7 +76,7 @@ All grants awarded by the Attorney General under this subchapter shall be subjec
 
 &emsp;&emsp;(A) indicating whether—
 
-&emsp;&emsp;&emsp;(i) all audits issued by the Inspector General of the Department of Justice underparagraph (1) have been completed and reviewed by the appropriate Assistant Attorney General or Director;
+&emsp;&emsp;&emsp;(i) all audits issued by the Inspector General of the Department of Justice under paragraph (1) have been completed and reviewed by the appropriate Assistant Attorney General or Director;
 
 &emsp;&emsp;&emsp;(ii) all mandatory exclusions required under paragraph (1)(C) have been issued; and
 

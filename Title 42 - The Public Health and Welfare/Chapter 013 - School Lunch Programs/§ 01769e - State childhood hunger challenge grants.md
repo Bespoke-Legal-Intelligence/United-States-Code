@@ -56,7 +56,7 @@ State demonstration projects carried out under this section may include projects
 
 &emsp;Any project funded under this section shall provide for—
 
-&emsp;&emsp;(A) a baseline assessment, and subsequent annual assessments, of the prevalence andseverity of very low food security among children in the State, based on a methodology prescribed by the Secretary;
+&emsp;&emsp;(A) a baseline assessment, and subsequent annual assessments, of the prevalence and severity of very low food security among children in the State, based on a methodology prescribed by the Secretary;
 
 &emsp;&emsp;(B) a collaborative planning process including key stakeholders in the State that results in a comprehensive agenda to eliminate childhood hunger that is—
 
@@ -172,5 +172,5 @@ A prior section 1769e, act June 4, 1946, ch. 281, §24, as added Nov. 10, 1989, 
 
 #### Effective Date
 
-Section effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as an Effective Date of 2010 Amendment note under section 1751 of this title.
+Section effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, setout as an Effective Date of 2010 Amendment note under section 1751 of this title.
 

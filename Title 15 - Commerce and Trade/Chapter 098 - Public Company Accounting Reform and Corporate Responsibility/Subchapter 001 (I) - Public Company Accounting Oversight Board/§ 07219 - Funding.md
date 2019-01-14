@@ -30,7 +30,7 @@ The Board and the standard setting body referred to in subsection (a) shall each
 
 #### (3) Brokers and dealers
 
-&emsp;The Board shall begin the allocation, assessment, and collection of fees under paragraph (2) with respect to brokers and dealers withthe payment of support fees to fund the first full fiscal year beginning after July 21, 2010.
+&emsp;The Board shall begin the allocation, assessment, and collection of fees under paragraph (2) with respect to brokers and dealers with the payment of support fees to fund the first full fiscal year beginning after July 21, 2010.
 
 #### (e) Annual accounting support fee for standard setting body
 

@@ -12,7 +12,7 @@ No Federal funds may be used to sponsor or fund in whole or in part a meeting, c
 
 #### (2) Delegation of authority
 
-&emsp;The head of an agency of the Federal Government may delegate the authority providedunder paragraph (1) to waive the prohibition described in subsection (a) and to determine whether such a waiver is necessary in the public interest to an officer or employee of the agency if such officer or employee is given such authority with respect to all meetings, conventions, conferences, and training seminars sponsored or funded by the agency.
+&emsp;The head of an agency of the Federal Government may delegate the authority provided under paragraph (1) to waive the prohibition described in subsection (a) and to determine whether such a waiver is necessary in the public interest to an officer or employee of the agency if such officer or employee is given such authority with respect to all meetings, conventions, conferences, and training seminars sponsored or funded by the agency.
 
 #### (c) Notice requirements
 
@@ -30,7 +30,7 @@ No Federal funds may be used to sponsor or fund in whole or in part a meeting, c
 
 #### (d) Effective date
 
-The provisions of this section shall take effect on the first day of the first fiscal year that begins after the expiration of the 425-day period that begins on the date of the publication in the Federal Register of the master list referred to in section 2224(b) of this title.
+The provisions of this section shall take effect on the first day of the first fiscal year that begins after the expiration of the 425-day periodthat begins on the date of the publication in the Federal Register of the master list referred to in section 2224(b) of this title.
 
 (Pub. L. 101–391, §6, Sept. 25, 1990, 104 Stat. 751.)
 

@@ -30,7 +30,7 @@
 
 &emsp;(3) provide scientific, technical, and financial assistance to State educational agencies and local educational agencies to enable them to conduct an asbestos detection program to identify asbestos hazards in schools;
 
-&emsp;(4) provide loans to local educational agencies for the mitigation of asbestos hazardswhich constitute an imminent hazard to the health and safety of school children and employees; and
+&emsp;(4) provide loans to local educational agencies for the mitigation of asbestos hazards which constitute an imminent hazard to the health and safety of school children and employees; and
 
 &emsp;(5) assure that no employee of any local educational agency suffers any disciplinary action as a result of calling attention to potential asbestos hazards which may exist in schools.
 

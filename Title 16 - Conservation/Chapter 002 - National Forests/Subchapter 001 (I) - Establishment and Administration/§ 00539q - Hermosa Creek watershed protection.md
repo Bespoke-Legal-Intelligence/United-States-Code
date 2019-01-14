@@ -104,7 +104,7 @@ In this section:
 
 #### (B) Exception
 
-&emsp;&emsp;The withdrawal under subparagraph (A) shall not apply to the areas identified as parcels A and B on the map entitled "Proposed Hermosa Creek Special ManagementArea and Proposed Hermosa Creek Wilderness Area" and dated November 12, 2014.
+&emsp;&emsp;The withdrawal under subparagraph (A) shall not apply to the areas identified as parcels A and B on the map entitled "Proposed Hermosa Creek Special Management Area and Proposed Hermosa Creek Wilderness Area" and dated November 12, 2014.
 
 #### (6) Winter skiing and related winter activities
 
@@ -192,7 +192,7 @@ In this section:
 
 &emsp;Notwithstanding paragraph (1), the Secretary of the Interior may convey any portion of the land described in paragraph (2) that is administered by the Bureau of Land Management to the City, the County, or the State—
 
-&emsp;&emsp;(A) pursuant to the Act of June 14, 1926 (commonly known as the "Recreation and Public Purposes Act") (43 U.S.C. 869 et seq.); or
+&emsp;&emsp;(A) pursuant to the Act of June 14, 1926 (commonly known as the "Recreation andPublic Purposes Act") (43 U.S.C. 869 et seq.); or
 
 &emsp;&emsp;(B) by exchange in accordance with applicable laws (including regulations).
 
@@ -290,7 +290,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;As soon as practicable after December 19, 2014, the Secretary or the Secretary of the Interior, as appropriate, shall prepare maps and legal descriptions of—
+&emsp;&emsp;As soon as practicable after December 19, 2014, the Secretary or the Secretary of theInterior, as appropriate, shall prepare maps and legal descriptions of—
 
 &emsp;&emsp;&emsp;(i) the Special Management Area;
 
@@ -306,7 +306,7 @@ In this section:
 
 #### (B) Force of law
 
-&emsp;&emsp;The maps and legal descriptions prepared under subparagraph (A) shall have the sameforce and effect as if included in this section, except that the Secretary concerned may correct any clerical or typographical errors in the maps and legal descriptions.
+&emsp;&emsp;The maps and legal descriptions prepared under subparagraph (A) shall have the same force and effect as if included in this section, except that the Secretary concerned may correct any clerical or typographical errors in the maps and legal descriptions.
 
 #### (C) Public availability
 

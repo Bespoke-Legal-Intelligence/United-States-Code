@@ -2,7 +2,7 @@
 
 In this subchapter:
 
-&emsp;(1) The term "aggravating" means, with respect to a health condition, a health condition that existed on September 11, 2001, and that, as a result of exposure to airborne toxins, any other hazard, or any other adverse condition resulting from the September 11, 2001, terrorist attacks, requires medical treatment that is (or will be) in addition to, more frequent than, or of longer duration than the medical treatment that would have been required for such condition in the absence of such exposure.
+&emsp;(1) The term "aggravating" means, with respect to a health condition, a health condition that existed on September 11, 2001, and that,as a result of exposure to airborne toxins, any other hazard, or any other adverse condition resulting from the September 11, 2001, terrorist attacks, requires medical treatment that is (or will be) in addition to, more frequent than, or of longer duration than the medical treatment that would have been required for such condition in the absence of such exposure.
 
 &emsp;(2) The term "certified-eligible WTC survivor" has the meaning given such term in section 300mm–31(a)(2) of this title.
 

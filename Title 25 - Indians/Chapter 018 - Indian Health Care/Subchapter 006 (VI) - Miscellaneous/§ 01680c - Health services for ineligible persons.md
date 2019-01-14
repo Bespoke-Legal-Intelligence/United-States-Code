@@ -20,7 +20,7 @@ Any spouse of an eligible Indian who is not an Indian, or who is of Indian desce
 
 #### (1) In general
 
-&emsp;The Secretary is authorized to provide health services under this subsection through health facilities operated directly by the Service to individuals who reside within the Service unit and who are not otherwise eligible for such health services if—
+&emsp;The Secretary is authorized to provide health services under this subsection throughhealth facilities operated directly by the Service to individuals who reside within the Service unit and who are not otherwise eligible for such health services if—
 
 &emsp;&emsp;(A) the Indian tribes served by such Service unit requests such provision of health services to such individuals, and
 
@@ -38,7 +38,7 @@ Any spouse of an eligible Indian who is not an Indian, or who is of Indian desce
 
 #### (B) Indigent people
 
-&emsp;&emsp;Health services may be provided by the Secretary through the Service under thissubsection to an indigent individual who would not be otherwise eligible for such health services but for the provisions of paragraph (1) only if an agreement has been entered into with a State or local government under which the State or local government agrees to reimburse the Service for the expenses incurred by the Service in providing such health services to such indigent individual.
+&emsp;&emsp;Health services may be provided by the Secretary through the Service under this subsection to an indigent individual who would not be otherwise eligible for such health services but for the provisions of paragraph (1) only if an agreement has been entered into with a State or local government under which the State or local government agrees to reimburse the Service for the expenses incurred by the Service in providing such health services to such indigent individual.
 
 #### (4) Revocation of consent for services
 

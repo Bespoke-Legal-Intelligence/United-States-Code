@@ -2,7 +2,7 @@
 
 #### (a) Deposit of proceeds
 
-Notwithstanding any other law (except a law that specifically provides for a proportion of theproceeds to be distributed to any trust funds of any States), the gross proceeds of the sale or exchange of public land under this chapter <sup>1</sup> shall be deposited in a separate account in the Treasury of the United States to be known as the "Federal Land Disposal Account".
+Notwithstanding any other law (except a law that specifically provides for a proportion of the proceeds to be distributed to any trust funds of any States), the gross proceeds of the sale or exchange of public land under this chapter <sup>1</sup> shall be deposited in a separate account in the Treasury of the United States to be known as the "Federal Land Disposal Account".
 
 #### (b) Availability
 
@@ -16,25 +16,29 @@ Amounts in the Federal Land Disposal Account shall be available to the Secretary
 
 #### (2) Fund allocation
 
-#### (A) Purchase of land
+&emsp;(A)
 
-&emsp;&emsp;Except as authorized under subparagraph (C), funds shall be used to purchase lands or interests therein that are otherwise authorized by law to be acquired, and that are—
+Purchase of land.—Except as authorized under subparagraph (C), funds shall be used to purchase lands or interests therein that are otherwise authorized by law to be acquired, and that are—
 
-&emsp;&emsp;&emsp;(i) inholdings; and
+&emsp;&emsp;(i) inholdings;
 
-&emsp;&emsp;&emsp;(ii) adjacent to federally designated areas and contain exceptional resources.
+&emsp;&emsp;(ii) adjacent to federally designated areas and contain exceptional resources; or
 
-#### (B) Inholdings
+&emsp;&emsp;(iii) adjacent to inaccessible lands open to public hunting, fishing, recreational shooting, or other recreational purposes.
 
-&emsp;&emsp;Not less than 80 percent of the funds allocated for the purchase of land within each State shall be used to acquire inholdings identified under section 2303 of this title.
+&emsp;(B)
 
-#### (C) Administrative and other expenses
+Inholdings.—Not less than 80 percent of the funds allocated for the purchase of land within each State shall be used to acquire inholdings identified under section 2303 of this title.
 
-&emsp;&emsp;An amount not to exceed 20 percent of the funds deposited in the Federal Land Disposal Account may be used by the Secretary for administrative and other expenses necessary to carry out the land disposal program under section 2304 <sup>1</sup> of this title.
+&emsp;(C)
 
-#### (D) Same State purchases
+Administrative and other expenses.—An amount not to exceed 20 percent of the funds deposited in the Federal Land Disposal Account may be used by the Secretary for administrative and other expenses necessary to carry out the land disposal program under section 2304 of this title.
 
-&emsp;&emsp;Of the amounts not used under subparagraph (C), not less than 80 percent shall be expended within the State in which the funds were generated. Any remaining funds may be expended in any other State.
+&emsp;(D)
+
+Same state purchases.—Of the amounts not used under subparagraph (C), not less than 80 percent shall be expended within the State in which the funds were generated. Any remaining funds may be expended in any other State.
+
+&emsp;(E) Any funds made available under subparagraph (D) that are not obligated or expended by the end of the fourth full fiscal year after the date of the sale or exchange of land that generated the funds may be expended in any State.
 
 #### (3) Priority
 
@@ -42,9 +46,11 @@ Amounts in the Federal Land Disposal Account shall be available to the Secretary
 
 &emsp;&emsp;(A) the date the inholding was established (as provided in section 2303(c) of this title);
 
-&emsp;&emsp;(B) the extent to which acquisition of the land or interest therein will facilitate management efficiency; and
+&emsp;&emsp;(B) the extent to which the acquisition of the land or interest therein will increase the public availability of resources for, and facilitate public access to, hunting, fishing, and other recreational activities;
 
-&emsp;&emsp;(C) such other criteria as the Secretary and the Secretary of Agriculture deem appropriate.
+&emsp;&emsp;(C) the extent to which acquisition of the land or interest therein will facilitate management efficiency; and
+
+&emsp;&emsp;(D) such other criteria as the Secretary and the Secretary of Agriculture deem appropriate.
 
 #### (4) Basis of sale
 
@@ -60,7 +66,7 @@ Amounts in the Federal Land Disposal Account shall be available to the Secretary
 
 #### (d) Contaminated sites and sites difficult and uneconomic to manage
 
-Funds in the Federal Land Disposal Account shall not be used to purchase land or an interest in land that, as determined by the Secretary or the Secretary of Agriculture—
+Funds in the Federal Land Disposal Account shall not be used to purchase land or an interestin land that, as determined by the Secretary or the Secretary of Agriculture—
 
 &emsp;(1) contains a hazardous substance or is otherwise contaminated; or
 
@@ -70,23 +76,29 @@ Funds in the Federal Land Disposal Account shall not be used to purchase land or
 
 Funds made available under this section shall be supplemental to any funds appropriated under chapter 2003 of title 54.
 
-#### (f) Termination
-
-On termination of activities under section 2304 <sup>1</sup> of this title—
-
-&emsp;(1) the Federal Land Disposal Account shall be terminated; and
-
-&emsp;(2) any remaining balance in the account shall become available for appropriation under section 200303 of title 54.
-
-(Pub. L. 106–248, title II, §206, July 25, 2000, 114 Stat. 616; Pub. L. 113–287, §5(l)(9), Dec. 19, 2014, 128 Stat. 3271.)
+(Pub. L. 106–248, title II, §206, July 25, 2000, 114 Stat. 616; Pub. L. 113–287, §5(l)(9), Dec. 19, 2014, 128 Stat. 3271; Pub. L. 115–141, div. O, title III, §302(5)–(7), Mar. 23, 2018, 132 Stat. 1075, 1076.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act" and was translated as reading "this title", meaning title II of Pub. L. 106–248, which enacted this chapter, to reflect the probable intent of Congress.
 
-Section 2304 of this title, referred to in subsecs. (c)(2)(C) and (f), related to disposal of public land and was omitted from the Code because authority under such section terminated 11 years after July 25, 2000.
-
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(2)(A)(i). Pub. L. 115–141, §302(5)(A), substituted "inholdings;" for "inholdings; and".
+
+Subsec. (c)(2)(A)(ii). Pub. L. 115–141, §302(5)(B), substituted "exceptional resources; or" for "exceptional resources."
+
+Subsec. (c)(2)(A)(iii). Pub. L. 115–141, §302(5)(C), added cl. (iii).
+
+Subsec. (c)(2)(E). Pub. L. 115–141, §302(5)(D), added subpar. (E).
+
+Subsec. (c)(3)(B) to (D). Pub. L. 115–141, §302(6), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+
+Subsec. (f). Pub. L. 115–141, §302(7), struck out subsec. (f). Text read as follows: "On termination of activities under section 2304 of this title—
+
+&emsp;"(1) the Federal Land Disposal Account shall be terminated; and
+
+&emsp;"(2) any remaining balance in the account shall become available for appropriation under section 200303 of title 54."
 
 <b>2014</b>—Subsec. (e). Pub. L. 113–287, §5(l)(9)(A), substituted "chapter 2003 of title 54" for "the Land and Water Conservation Fund Act (16 U.S.C. 460l–4 et seq.)".
 

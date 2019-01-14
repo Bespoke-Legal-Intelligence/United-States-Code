@@ -10,7 +10,7 @@
 
 &emsp;(B) the annuity of a Foreign Service criminal investigator/inspector of such office, who was appointed to a law enforcement position as defined in section 8401(17) of that title on or after January 1, 1984, and who would have been eligible to retire pursuant to section 8412(d) of that title, after attaining 50 years of age and completing 20 years of service as such a law enforcement officer, had the employee remained in the civil service, shall be computed in the same manner as that of a law enforcement officer pursuant to section 8415(e) of that title.
 
-(3) The annuity of a Foreign Service investigator/inspector of the Office of the Inspector General, Agency for International Development, appointed to a law enforcement position prior to January 1, 1984, who exercised election rights under section 4071i of this title, shall be computed as follows: for the period prior to election the annuity shall be computed in accordance with section 8339(d) of title 5; for the period following election the annuity shall be computed in accordance with section 8415(e) of that title.
+(3) The annuity of a Foreign Service investigator/inspector of the Office of the Inspector General, Agency for International Development, appointed to a law enforcement position prior to January 1, 1984, who exercised election rights under section 4071i of this title, shall be computed as follows: for the period prior to electionthe annuity shall be computed in accordance with section 8339(d) of title 5; for the period following election the annuity shall be computed in accordance with section 8415(e) of that title.
 
 (4) All service in a law enforcement position, as defined in section 8331(20) or 8401(17) of that title, as applicable, in any agency or combination of agencies shall be included in the computation of time for purposes of this paragraph.
 
@@ -24,7 +24,7 @@
 
 (B) A special agent described in this subparagraph is any such agent or former agent who—
 
-&emsp;(i)(I) retires voluntarily or involuntarily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title, under conditions authorizing animmediate annuity, other than for cause on charges of misconduct or delinquency, or retires for disability under section 4048 of this title; and
+&emsp;(i)(I) retires voluntarily or involuntarily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title, under conditions authorizing an immediate annuity, other than for cause on charges of misconduct or delinquency, or retires for disability under section 4048 of this title; and
 
 &emsp;(II) at the time of retirement—
 
@@ -56,13 +56,13 @@
 
 (D) The Secretary of State may prescribe regulations under which a participant or former participant may make an election under subparagraph (B) or (C) without the participant's spouse or former spouse if the participant establishes to the satisfaction of the Secretary of State that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the spouse or former spouse.
 
-(2) The annuity of a participant or former participant providing a survivor benefit under this section (or section 4054(b) of this title), excluding any portion of the annuity not designated or committed as a base for any survivor annuity, shall be reduced by 2½ percent of the first $3,600 plus 10 percent of any amount over $3,600. The reduction under this paragraph shall be calculated before any reduction under section 4054(a)(5) of this title.
+(2) The annuity of a participant or former participant providing a survivor benefit under thissection (or section 4054(b) of this title), excluding any portion of the annuity not designated or committed as a base for any survivor annuity, shall be reduced by 2½ percent of the first $3,600 plus 10 percent of any amount over $3,600. The reduction under this paragraph shall be calculated before any reduction under section 4054(a)(5) of this title.
 
 (3)(A) If a former participant entitled to receive a reduced annuity under this subsection dies and is survived by a spouse, a survivor annuity shall be paid to the surviving spouse equal to 55 percent of the full amount of the participant's annuity computed under subsection (a), or 55 percent of any lesser amount elected as the base for the survivor benefit under paragraph (1)(B).
 
 (B) Notwithstanding subparagraph (A), the amount of the annuity calculated under subparagraph (A) for a surviving spouse in any case in which there is also a surviving former spouse of the participant who qualifies for an annuity under section 4054(b) of this title may not exceed 55 percent of the portion (if any) of the base for survivor benefits which remains available under section 4054(b)(4)(B) of this title.
 
-(C) An annuity payable from the Fund under this part to a surviving spouse under this paragraph shall commence on the day after the participant dies and shall terminate on the last day of the month before the surviving spouse's death or remarriage before attaining age 60. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same ratecommencing on the date such remarriage is terminated if any lump sum paid upon termination of the annuity is returned to the Fund.
+(C) An annuity payable from the Fund under this part to a surviving spouse under this paragraph shall commence on the day after the participant dies and shall terminate on the last day of the month before the surviving spouse's death or remarriage before attaining age 60. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same rate commencing on the date such remarriage is terminated if any lump sum paid upon termination of the annuity is returned to the Fund.
 
 #### (c) Surviving children
 
@@ -102,7 +102,7 @@ A participant or former participant who was unmarried at retirement and who late
 
 #### (h) Election of benefits
 
-A surviving spouse or surviving former spouse of any participant or former participant shall not become entitled to a survivor annuity or to the restoration of a survivor annuity payable from the Fund under this part unless the survivor elects to receive it instead of any other survivor annuity to which he or she may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than that participant.
+A surviving spouse or surviving former spouse of any participant or former participant shall not become entitled to a survivor annuity or to the restoration of a survivor annuity payablefrom the Fund under this part unless the survivor elects to receive it instead of any other survivor annuity to which he or she may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than that participant.
 
 #### (i) Reversion to retired status
 
@@ -158,7 +158,7 @@ The retirement, disability, or survivor annuity payable to any person based on t
 
 &emsp;(i) the additional cost to the System which is associated with providing a survivor annuity under subsection (b) of this section and results from such election taking into account (I) the difference (for the period between the date on which the annuity of the former participant commences and the date of the election) between the amount paid to such former participant under this part and the amount which would have been paid if such election had been made at the time the participant or former participant applied for the annuity, and (II) the costs associated with providing the later election; and
 
-&emsp;(ii) interest on the additional cost determined under clause (i)(I) of this subparagraph computed using the interest rate specified or determined under section 4045(d)(3) of this title for the calendar year in which the amount to be deposited is determined.
+&emsp;(ii) interest on the additional cost determined under clause (i)(I) of this subparagraphcomputed using the interest rate specified or determined under section 4045(d)(3) of this title for the calendar year in which the amount to be deposited is determined.
 
 (3) An election by a participant under this subsection voids prospectively any election previously made in the case of such participant under subsection (b).
 
@@ -236,7 +236,7 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 
 #### Effective Date of 1986 Amendments
 
-Pub. L. 99–556, title IV, §408, Oct. 27, 1986, 100 Stat. 3139, provided that: "This title and the amendments made by this title \[enacting section 4069 of this title and amending this section and sections 4064, 4071c, 4071d, and 4071j of this title\] shall take effect on January 1, 1987. The amendment made by section 403 \[amending section 4064 of this title\] shall apply to any individual in a reemployed status on or after January 1, 1987."
+Pub. L. 99–556, title IV, §408, Oct. 27, 1986, 100 Stat. 3139, provided that: "This title and the amendments made by this title \[enacting section 4069 of this title and amending this section and sections 4064, 4071c,4071d, and 4071j of this title\] shall take effect on January 1, 1987. The amendment made by section 403 \[amending section 4064 of this title\] shall apply to any individual in a reemployed status on or after January 1, 1987."
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
 
@@ -256,7 +256,7 @@ Month Period to Elect Survivor Annuity.—(1) Notwithstanding section 702 of thi
 
 &emsp;"(i) the period referred to in subparagraph (A) or (B) of such paragraph (as the case may be) shall be considered to begin on the date on which such amendment first becomes effective; and
 
-&emsp;"(ii) the amount referred to in paragraph (2) of such section 806(n) shall be computed without regard tothe provisions of subparagraph (B)(ii) of such paragraph (relating to interest).
+&emsp;"(ii) the amount referred to in paragraph (2) of such section 806(n) shall be computed without regard to the provisions of subparagraph (B)(ii) of such paragraph (relating to interest).
 
 "(3) For purposes of this subsection, the term 'participant' has the meaning given that term in section 803 of the Foreign Service Act of 1980 (22 U.S.C. 4043)."
 

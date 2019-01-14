@@ -1,6 +1,6 @@
 ### §2201. Establishment of Department
 
-There shall be at the seat of government a Department of Agriculture, the general design and duties of which shall be to acquire and to diffuse among the people of the United States useful information on subjects connected with agriculture, rural development, aquaculture, and human nutrition, in the most general and comprehensive sense of those terms, and to procure, propagate, and distribute among the people new and valuable seeds and plants.
+There shall be at the seat of government a Department of Agriculture, the general design and duties of which shall be to acquire and to diffuse among the people of the United States useful information on subjects connected with agriculture, rural development, aquaculture, andhuman nutrition, in the most general and comprehensive sense of those terms, and to procure, propagate, and distribute among the people new and valuable seeds and plants.
 
 (R.S. §520; Pub. L. 92–419, title VI, §603(a), Aug. 30, 1972, 86 Stat. 675; Pub. L. 95–113, title XV, §1502(a), Sept. 29, 1977, 91 Stat. 1021.)
 

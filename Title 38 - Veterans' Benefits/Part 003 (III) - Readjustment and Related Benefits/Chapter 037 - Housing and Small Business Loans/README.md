@@ -13,6 +13,7 @@
 | [3707\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2003707%20-%20Adjustable%20rate%20mortgages.md) | Adjustable rate mortgages. |
 | [3707A.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2003707A%20-%20Hybrid%20adjustable%20rate%20mortgages.md) | Hybrid adjustable rate mortgages. |
 | [3708\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2003708%20-%20Authority%20to%20buy%20down%20interest%20rates%20pilot%20program.md) | Authority to buy down interest rates: pilot program. |
+| [3709\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2003709%20-%20Refinancing%20of%20housing%20loans.md) | Refinancing of housing loans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -90,6 +91,8 @@
 
 #### Amendments
 
+<b>2018</b>—Pub. L. 115–174, title III, §309(a)(4), May 24, 2018, 132 Stat. 1350, added item 3709.
+
 <b>2006</b>—Pub. L. 109–233, title I, §§103(f)(4), 104(c), June 15, 2006, 120 Stat. 401, 402, substituted "DIRECT HOUSING LOANS FOR NATIVE AMERICAN VETERANS" for "NATIVE AMERICAN VETERAN HOUSING LOAN PILOT PROGRAM" in item for subchapter V, "Direct housing loans to Native American veterans; program authority" for "Pilot program" in item 3761, "Direct housing loans to Native American veterans; program administration" for "Direct housing loans to Native American veterans" in item 3762, and "Qualified non-Native American veterans" for "Definitions" in item 3764 and added item 3765.
 
 <b>2002</b>—Pub. L. 107–330, title III, §303(b), Dec. 6, 2002, 116 Stat. 2826, added item 3707A.
@@ -122,7 +125,7 @@ Pub. L. 102–54, §9(b), June 13, 1991, 105 Stat. 273, added item 1835.
 
 Pub. L. 97–253, title IV, §406(a)(2), Sept. 8, 1982, 96 Stat. 805, added item 1829.
 
-<b>1981</b>—Pub. L. 97–72, title III, §302(b)(1), (3), Nov. 3, 1981, 95 Stat. 1059, substituted "HOUSING AND SMALLBUSINESS LOANS" for "HOME, CONDOMINIUM, AND MOBILE HOME LOANS" in chapter heading and, in analysis of subchapters and sections, added item for subchapter IV and for sections 1841 to 1851.
+<b>1981</b>—Pub. L. 97–72, title III, §302(b)(1), (3), Nov. 3, 1981, 95 Stat. 1059, substituted "HOUSING AND SMALL BUSINESS LOANS" for "HOME, CONDOMINIUM, AND MOBILE HOME LOANS" in chapter heading and, in analysis of subchapters and sections, added item for subchapter IV and for sections 1841 to 1851.
 
 <b>1979</b>—Pub. L. 96–128, title IV, §401(b), Nov. 28, 1979, 93 Stat. 987, added item 1828.
 

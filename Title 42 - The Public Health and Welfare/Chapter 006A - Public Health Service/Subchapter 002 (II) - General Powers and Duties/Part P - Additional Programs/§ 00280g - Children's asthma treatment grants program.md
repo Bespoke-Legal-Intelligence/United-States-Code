@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) Projects to provide comprehensive asthma services to children in accordance with the guidelines of the National Asthma Education and Prevention Program (through the National Heart, Lung and Blood Institute), including access to care and treatment for asthma in a community-based setting.
 
-&emsp;&emsp;(B) Projects to fully equip mobile health care clinics that provide preventive asthmacare including diagnosis, physical examinations, pharmacological therapy, skin testing, peak flow meter testing, and other asthma-related health care services.
+&emsp;&emsp;(B) Projects to fully equip mobile health care clinics that provide preventive asthma care including diagnosis, physical examinations, pharmacological therapy, skin testing, peak flow meter testing, and other asthma-related health care services.
 
 &emsp;&emsp;(C) Projects to conduct validated asthma management education programs for patients with asthma and their families, including patient education regarding asthma management, family education on asthma management, and the distribution of materials, including displays and videos, to reinforce concepts presented by medical teams.
 
@@ -82,7 +82,7 @@ An eligible entity that receives a grant under this section shall submit to the 
 
 #### (A) In general
 
-&emsp;&emsp;The State must require that each public elementary school and secondary school in that State will grant to any student in the school an authorization for the self-administration of medication to treat that student's asthma or anaphylaxis, if—
+&emsp;&emsp;The State must require that each public elementary school and secondary school inthat State will grant to any student in the school an authorization for the self-administration of medication to treat that student's asthma or anaphylaxis, if—
 
 &emsp;&emsp;&emsp;(i) a health care practitioner prescribed the medication for use by the student during school hours and instructed the student in the correct and responsible use of the medication;
 
@@ -154,7 +154,7 @@ An eligible entity that receives a grant under this section shall submit to the 
 
 &emsp;&emsp;&emsp;(ii) who has received training in the administration of epinephrine; and
 
-&emsp;&emsp;&emsp;(iii) whose training in the administration of epinephrine meets appropriate medical standards and has been documented by appropriate administrative staff of the school.
+&emsp;&emsp;&emsp;(iii) whose training in the administration of epinephrine meets appropriatemedical standards and has been documented by appropriate administrative staff of the school.
 
 #### (e) Authorization of appropriations
 

@@ -62,7 +62,7 @@ The National Technical Information Service shall—
 
 &emsp;(E) utilize (with the consent of the agency involved) the expertise and services of the National Science Foundation, the Department of Commerce, the National Aeronautics and Space Administration, and other Federal agencies, as necessary;
 
-&emsp;(F) with the consent of any Federal laboratory, facilitate the use by such laboratory of appropriate technology transfer mechanisms such as personnel exchanges and computer-based systems;
+&emsp;(F) with the consent of any Federal laboratory, facilitate the use by such laboratory of appropriate technology transfer mechanismssuch as personnel exchanges and computer-based systems;
 
 &emsp;(G) with the consent of any Federal laboratory, assist such laboratory to establish programs using technical volunteers to provide technical assistance to communities related to such laboratory;
 
@@ -108,7 +108,7 @@ The National Technical Information Service shall—
 
 &emsp;&emsp;&emsp;(ii) the number of patents received;
 
-&emsp;&emsp;&emsp;(iii) the number of fully-executed licenses which received royalty income in the preceding fiscal year, categorized by whether they are exclusive, partially-exclusive, or non-exclusive, and the time elapsed from the date on which the license was requested by the licensee in writing to the date the license was executed;
+&emsp;&emsp;&emsp;(iii) the number of fully-executed licenses which received royalty income in the preceding fiscal year, categorized bywhether they are exclusive, partially-exclusive, or non-exclusive, and the time elapsed from the date on which the license was requested by the licensee in writing to the date the license was executed;
 
 &emsp;&emsp;&emsp;(iv) the total earned royalty income including such statistical information as the total earned royalty income, of the top 1 percent, 5 percent, and 20 percent of the licenses, the range of royalty income, and the median, except where disclosure of such information would reveal the amount of royalty income associated with an individual license or licensee;
 
@@ -182,7 +182,7 @@ The Director of a laboratory, or the head of any Federal agency or department, m
 
 #### References in Text
 
-The Government Performance and Results Act of 1993, referred to in subsec. (h), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
+The Government Performance and Results Act of 1993, referred to in subsec. (h), is Pub. L. 103–62, Aug. 3,1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
 #### Amendments
 
@@ -248,7 +248,7 @@ Pub. L. 100–418, §5163(c)(1), added subsec. (h).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–502, §4(a), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (b). Pub. L. 99–502, §4(b)(1), substituted "200 or more full-time equivalent scientific, engineering, and related technical positions shall provide one or more full-time equivalent positions" for "a total annual budget exceeding $20,000,000 shall provide at least one professional individual full-time", inserted "Furthermore, individuals filling positions in an Office of Research and Technology Applications shall be included in the overall laboratory/agency management development program so as to ensure that highly competent technical managers are full participants in the technology transfer process.", substituted "requirement set forth in clause (2) of the preceding sentence" for "requirements set forth in (1) and/or (2) of this subsection", and substituted "such requirement" for "either requirement (1) or (2)".
+Subsec. (b). Pub. L. 99–502, §4(b)(1), substituted "200 or more full-time equivalent scientific, engineering,and related technical positions shall provide one or more full-time equivalent positions" for "a total annual budget exceeding $20,000,000 shall provide at least one professional individual full-time", inserted "Furthermore, individuals filling positions in an Office of Research and Technology Applications shall be included in the overall laboratory/agency management development program so as to ensure that highly competent technical managers are full participants in the technology transfer process.", substituted "requirement set forth in clause (2) of the preceding sentence" for "requirements set forth in (1) and/or (2) of this subsection", and substituted "such requirement" for "either requirement (1) or (2)".
 
 Subsec. (c)(1). Pub. L. 99–502, §4(b)(2)(A), added par. (1) and struck out former par. (1) which read as follows: "to prepare an application assessment of each research and development project in which that laboratory is engaged which has potential for successful application in State or local government or in private industry;".
 
@@ -306,7 +306,7 @@ Section 1. <i>Transfer of Federally Funded Technology.</i>
 
 (7) cooperate, under policy guidance provided by the Office of Federal Procurement Policy, with the heads of other affected departments and agencies in the development of a uniform policy permitting Federal contractors to retain rights to software, engineering drawings, and other technical data generated by Federal grants and contracts, in exchange for royalty-free use by or on behalf of the government.
 
-Sec. 2. <i>Establishment of the Technology Share Program</i>. The Secretaries of Agriculture, Commerce, Energy, and Health and Human Services and the Administrator of the National Aeronautics and Space Administration shall select one or more of their Federal laboratories to participate in the Technology Share Program. Consistent with its mission and policies and within its overall funding allocation in any year, each Federal laboratory so selected shall:
+Sec. 2. <i>Establishment of the Technology Share Program</i>. The Secretaries of Agriculture, Commerce, Energy, andHealth and Human Services and the Administrator of the National Aeronautics and Space Administration shall select one or more of their Federal laboratories to participate in the Technology Share Program. Consistent with its mission and policies and within its overall funding allocation in any year, each Federal laboratory so selected shall:
 
 (a) Identify areas of research and technology of potential importance to long-term national economic competitiveness and in which the laboratory possesses special competence and/or unique facilities;
 

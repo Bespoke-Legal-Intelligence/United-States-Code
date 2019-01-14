@@ -20,7 +20,7 @@ Civil rights.—The remedy for a violation of subsection (a)(1) shall be—
 
 &emsp;&emsp;(A) such damages as would be appropriate if awarded under section 706(g) of the Civil Rights Act of 1964; and
 
-&emsp;&emsp;(B) such compensatory damages as would be appropriate if awarded under section 1977 of the Revised Statutes, or as would be appropriate if awarded under sections1977A(a)(1), 1977A(b)(2), and, irrespective of the size of the employing office, 1977A(b)(3)(D) of the Revised Statutes.
+&emsp;&emsp;(B) such compensatory damages as would be appropriate if awarded under section 1977 of the Revised Statutes, or as would be appropriate if awarded under sections 1977A(a)(1), 1977A(b)(2), and, irrespective of the size of the employing office, 1977A(b)(3)(D) of the Revised Statutes.
 
 &emsp;(2)
 

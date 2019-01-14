@@ -32,7 +32,7 @@ Subsecs. (c), (d). Pub. L. 110–313, §1(b)(2), added subsecs. (c) and (d).
 
 "The Trademark Trial and Appeal Board shall include the Commissioner, the Deputy Commissioner, the Assistant Commissioners, and members appointed by the Commissioner. Employees of the Patent and Trademark Office and other persons, all of whom shall be competent in trademark law, shall be eligible for appointment as members. Each case shall be heard by at least three members of the Board, the members hearing such case to be designated by the Commissioner."
 
-<b>1980</b>—Pub. L. 96–455 inserted provisions requiring that the Trademark Trial and Appeal Board include the Deputy Commissioner and members appointed by the Commissioner and provisions that employees of the Patent and Trademark Office and other persons, all of whom shall be competent in trademark law, shall be eligible for appointment as members; and struck out provision that the Board include Patent and Trademark Office employees, designated by the Commissioner and whose qualifications have been approved by the Civil Service Commission as being adequate for appointment to the position of examiner in charge of interferences.
+<b>1980</b>—Pub. L. 96–455 inserted provisions requiring that the Trademark Trial and Appeal Board include the Deputy Commissioner and members appointed by theCommissioner and provisions that employees of the Patent and Trademark Office and other persons, all of whom shall be competent in trademark law, shall be eligible for appointment as members; and struck out provision that the Board include Patent and Trademark Office employees, designated by the Commissioner and whose qualifications have been approved by the Civil Service Commission as being adequate for appointment to the position of examiner in charge of interferences.
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
@@ -60,7 +60,7 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certainexceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Reorganization Plan No. 5 of 1950
 

@@ -18,7 +18,7 @@ United States development cooperation policy should emphasize five principal goa
 
 &emsp;(5) the promotion of good governance through combating corruption and improving transparency and accountability.
 
-The Congress declares that pursuit of these goals requires that development concerns befully reflected in United States foreign policy and that United States development resources be effectively and efficiently utilized.
+The Congress declares that pursuit of these goals requires that development concerns be fully reflected in United States foreign policy and that United States development resources be effectively and efficiently utilized.
 
 #### (b) Coordination of development-related activities
 
@@ -28,7 +28,7 @@ Under the policy guidance of the Secretary of State, the agency primarily respon
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set outas a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 
@@ -73,6 +73,20 @@ Pub. L. 96–53, title V, §512, Aug. 14, 1979, 93 Stat. 380, provided that:
 #### Effective Date of 1978 Amendment
 
 Pub. L. 95–424, title VI, §605, Oct. 6, 1978, 92 Stat. 961, provided that: "The amendments made by this Act \[see Short Title of 1978 Amendment note below\] shall take effect on October 1, 1978."
+
+#### Short Title of 2019 Amendment
+
+Pub. L. 115–442, §1, Jan. 14, 2019, 132 Stat. 5590, provided that: "This Act \[enacting section 2151c–1 of this title and provisions set out as notes under sections 2151c and 2151c–1 of this title\] may be cited as the 'Protecting Girls' Access to Education in Vulnerable Settings Act'."
+
+Pub. L. 115–440, §1(a), Jan. 14, 2019, 132 Stat. 5580, provided that: "This Act \[amending sections 2431 to 2431h and 2431k of this title, enacting provisions set out as notes under this section and section 2431b of this title, and amending provisions set out as a note under this section\] may be cited as the 'Tropical Forest Conservation Reauthorization Act of 2018'."
+
+Pub. L. 115–428, §1, Jan. 9, 2019, 132 Stat. 5509, provided that: "This Act \[enacting section 2151–2 of this title, amending sections 2211 to 2214a of this title, and enacting provisions set out as a note under section 2151–2 of this title\] may be cited as the 'Women's Entrepreneurship and Economic Empowerment Act of 2018'."
+
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–231, §1, Aug. 8, 2018, 132 Stat. 1632, provided that: "This Act \[amending provisions set out as a note under this section\] may be cited as the 'Zimbabwe Democracy and Economic Recovery Amendment Act of 2018'."
+
+Pub. L. 115–141, div. S, title X, §1001, Mar. 23, 2018, 132 Stat. 1143, provided that: "This title \[enacting section 2378c–1 of this title and enacting provisions set out as notes under section 2378c–1 of this title\] may be cited as the 'Taylor Force Act'."
 
 #### Short Title of 2017 Amendment
 
@@ -314,7 +328,7 @@ Pub. L. 87–195, §1, as added by Pub. L. 87–329, title I, §111, Sept. 30, 1
 
 Pub. L. 87–195, pt. I, §101, Sept. 4, 1961, 75 Stat. 424, which provided that this subchapter should be cited as the "Act for International Development of 1961" was repealed by Pub. L. 88–205, pt. I, §101(b), Dec. 16, 1963, 77 Stat. 379.
 
-Pub. L. 87–195, pt. V, §801, as added by Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 885, provided that: "This part \[part V (§§801–813) of Pub. L. 87–195, enacting subchapter IV of this chapter\] may be cited as the 'Tropical Forest Conservation Act of 1998'."
+Pub. L. 87–195, pt. V, §801, as added by Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 885, as amended by Pub. L. 115–440, §2(a), Jan. 14, 2019, 132 Stat. 5580, provided that: "This part \[part V (§§801–813) of Pub. L. 87–195, enacting subchapter IV of this chapter\] may be cited as the 'Tropical Forest and Coral Reef Conservation Act of 1998'."
 
 #### Repeals
 
@@ -345,6 +359,10 @@ Pub. L. 87–195, pt. III, §642, Sept. 4, 1961, 75 Stat. 460, as amended by Pub
 #### United States Agency for International Development Deemed Agency Primarily Responsible for Administering This Subchapter
 
 Any reference in this chapter to the agency primarily responsible for administering this subchapter, or to the Administrator of such agency, deemed reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate, see section 1–200(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
+#### References to Tropical Forest Conservation Act of 1998
+
+Pub. L. 115–440, §2(b), Jan. 14, 2019, 132 Stat. 5580, provided that: "Any reference in any other provision of law, regulation, document, paper, or other record of the United States to the 'Tropical Forest Conservation Act of 1998' shall be deemed to be a reference to the 'Tropical Forest and Coral Reef Conservation Act of 1998'."
 
 #### United States–Caribbean Strategic Engagement
 
@@ -424,7 +442,7 @@ Security assistance.—The term 'security assistance' has the meaning given such
 
 #### Support to Certain Governments for Border Security Operations
 
-Pub. L. 114–92, div. A, title XII, §1226, Nov. 25, 2015, 129 Stat. 1056, as amended by Pub. L. 114–328, div. A, title XII, §1294, Dec. 23, 2016, 130 Stat. 2561; Pub. L. 115–91, div. A, title XII, §1279F, Dec. 12, 2017, 131 Stat. 1704, provided that:
+Pub. L. 114–92, div. A, title XII, §1226, Nov. 25, 2015, 129 Stat. 1056, as amended by Pub. L. 114–328, div. A, title XII, §1294, Dec. 23, 2016, 130 Stat. 2561; Pub. L. 115–91, div. A, title XII, §1279F, Dec. 12, 2017, 131 Stat. 1704; Pub. L. 115–232, div. A, title XII, §1213, Aug. 13, 2018, 132 Stat. 2025, provided that:
 
 "(a)
 
@@ -432,11 +450,19 @@ Authority to Provide Support.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense, with the concurrence of the Secretary of State, is authorized to provide support on a reimbursement basis to the Government of Egypt, the Government of Jordan, the Government of Lebanon, and the Government of Tunisia for purposes of supporting and enhancing efforts as follows:
+In general.—The Secretary of Defense, with the concurrence of the Secretary of State, is authorized to provide support on a reimbursement basis as follows:
 
-&emsp;&emsp;"(A) Efforts of the armed forces of Jordan and the armed forces of Lebanon to increase security and sustain increased security along the border of Jordan and the border of Lebanon with Syria and Iraq, as applicable.
+&emsp;&emsp;"(A) To the Government of Jordan for purposes of supporting and enhancing efforts of the armed forces of Jordan to increase security and sustain increased security along the border of Jordan with Syria and Iraq.
 
-&emsp;&emsp;"(B) Efforts of the armed forces of Egypt and the armed forces of Tunisia to increase security and sustain increased security along the border of Egypt and the border of Tunisia with Libya, as applicable.
+&emsp;&emsp;"(B) To the Government of Lebanon for purposes of supporting and enhancing efforts of the armed forces of Lebanon to increase security and sustain increased security along the border of Lebanon with Syria.
+
+&emsp;&emsp;"(C) To the Government of Egypt for purposes of supporting and enhancing efforts of the armed forces of Egypt to increase security and sustain increased security along the border of Egypt with Libya.
+
+&emsp;&emsp;"(D) To the Government of Tunisia for purposes of supporting and enhancing efforts of the armed forces of Tunisia to increase security and sustain increased security along the border of Tunisia with Libya.
+
+&emsp;&emsp;"(E) To the Government of Oman for purposes of supporting and enhancing efforts of the armed forces of Oman to increase security and sustain increased security along the border of Oman with Yemen.
+
+&emsp;&emsp;"(F) To the Government of Pakistan for purposes of supporting and enhancing efforts of the armed forces of Pakistan to increase security and sustain increased security along the border of Pakistan with Afghanistan.
 
 &emsp;"(2)
 
@@ -474,19 +500,61 @@ Determination required.—The Secretary of Defense may not provide support to a 
 
 "(d)
 
-Notice Before Exercise.—Not later than 15 days before providing support under the authority of subsection (a), the Secretary of Defense shall submit to the specified congressional committees a report setting forth a full description of the support to be provided, including the amount of support to be provided, and the timeline for the provision of such support.
+Notice and Certification Before Exercise.—Not later than 15 days before providing support under the authority of subsection (a) to a country that has not previously received such support, the Secretary of Defense, in consultation with the Secretary of State, shall submit to the specified congressional committees a report that—
+
+&emsp;"(1) sets forth a full description of the support to be provided, including—
+
+&emsp;&emsp;"(A) the purpose of such support;
+
+&emsp;&emsp;"(B) the amount of support to be provided; and
+
+&emsp;&emsp;"(C) the anticipated duration of the provision of such support; and
+
+&emsp;"(2) includes a certification that—
+
+&emsp;&emsp;"(A) the recipient country has taken demonstrable steps to increase security along the border specified for such country in subsection (a); and
+
+&emsp;&emsp;"(B) the provision of such support is in the interest of United States national security.
 
 "(e)
 
-Specified Congressional Committees.—In the section, the term 'specified congressional committees' means—
+Limitation on Reimbursement of Pakistan Pending Certification.—No amount of reimbursement support under subsection (a)(1)(F) is authorized to be disbursed to the Government of Pakistan unless the Secretary of Defense certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that the following conditions are met:
 
-&emsp;"(1) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+&emsp;"(1) The military and security operations of Pakistan pertaining to border security and ancillary activities for which reimbursement is sought have been coordinated with United States military representatives in advance of the execution of such operations and activities.
 
-&emsp;"(2) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+&emsp;"(2) The goals and desired outcomes of each such operation or activity have been established and agreed upon in advance by the United States and Pakistan.
+
+&emsp;"(3) A process exists to verify the achievement of the goals and desired outcomes established in accordance with paragraph (2).
+
+&emsp;"(4) The Government of Pakistan is making an effort to actively coordinate with the Government of Afghanistan on issues relating to border security on the Afghanistan-Pakistan border.
 
 "(f)
 
-Expiration of Authority.—No support may be provided under the authority of subsection (a) after December 31, 2019."
+Quarterly Reports.—Not later than 30 days after the end of each fiscal quarter, the Secretary of Defense shall submit to the specified congressional committees a report on reimbursements pursuant to subsection (a) during the preceding fiscal quarter that includes—
+
+&emsp;"(1) an identification of each country reimbursed;
+
+&emsp;"(2) the date of each reimbursement;
+
+&emsp;"(3) a description of any partner nation border security efforts for which reimbursement was provided;
+
+&emsp;"(4) an assessment of the value of partner nation border security efforts for which reimbursement was provided;
+
+&emsp;"(5) the total amounts of reimbursement provided to each partner nation in the preceding four fiscal quarters; and
+
+&emsp;"(6) such other matters as the Secretary considers appropriate.
+
+"(g)
+
+Specified Congressional Committees.—In the section, the term 'specified congressional committees' means—
+
+&emsp;"(1) the congressional defense committees; and
+
+&emsp;"(2) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+"(h)
+
+Expiration of Authority.—No support may be provided under the authority of subsection (a) after December 31, 2021."
 
 #### Girls Count
 
@@ -506,7 +574,7 @@ Pub. L. 114–24, June 12, 2015, 129 Stat. 314, provided that:
 
 &emsp;"(3) Even though most countries do have birth registration laws, four out of ten babies born in 2012 were not registered worldwide. Moreover, an estimated 36 percent of children under the age of five worldwide (about 230,000,000 children) do not possess a birth certificate.
 
-&emsp;"(4) A nationally recognized proof of birth system is important to determining a child's citizenship, nationality, place of birth, parentage, and age. Withoutsuch a system, a passport, driver's license, or other identification card is difficult to obtain. The lack of such documentation can prevent girls and women from officially participating in and benefitting from the formal economic, legal, and political sectors in their countries.
+&emsp;"(4) A nationally recognized proof of birth system is important to determining a child's citizenship, nationality, place of birth, parentage, and age. Without such a system, a passport, driver's license, or other identification card is difficult to obtain. The lack of such documentation can prevent girls and women from officially participating in and benefitting from the formal economic, legal, and political sectors in their countries.
 
 &emsp;"(5) The lack of birth registration among girls worldwide is particularly concerning as it can exacerbate the disproportionate vulnerability of women to trafficking, child marriage, and lack of access to health and education services.
 
@@ -542,7 +610,7 @@ Authorization.—The Secretary and the Administrator are authorized to prioritiz
 
 "(b)
 
-Coordination With Multilateral Organizations.—The Secretary and the Administrator are authorized to coordinate with the World Bank, relevant United Nations agencies and programs, and other relevant organizations to encourage and work with countries to enact, implement, and enforce laws that specifically collect data on girls and establish registration programs to ensure girls are appropriately counted and have the opportunity to be active participants in the social, legal, and political sectors of society in their countries.
+Coordination With Multilateral Organizations.—The Secretary and the Administrator are authorized to coordinate with the World Bank, relevantUnited Nations agencies and programs, and other relevant organizations to encourage and work with countries to enact, implement, and enforce laws that specifically collect data on girls and establish registration programs to ensure girls are appropriately counted and have the opportunity to be active participants in the social, legal, and political sectors of society in their countries.
 
 "(c)
 
@@ -822,7 +890,7 @@ Briefings.—The Secretary of State, at the request of the Committee on Foreign 
 
 #### United States Security and Assistance Strategies in Africa
 
-Pub. L. 113–66, div. A, title XII, §1206, Dec. 26, 2013, 127 Stat. 899, required (1) the Secretary of Defense, in coordination with the Secretary of State, to develop a strategic framework for United States counterterrorism assistance and cooperation in the Sahel and Maghreb regions of Africa, and submit a report to Congress not later than 180 days after Dec. 26, 2013; (2) the President to submit a strategy to support consolidation of security and governance gains in Somalia to Congress not later than 180 days after Dec. 26, 2013; (3) the Director of National Intelligence to submit a classified intelligence assessment of al-Shabaab to Congress not later than 90 days after Dec. 26, 2013; and (4) the President to designate a Government official for Africa export policy not later than 60 days after Dec. 26, 2013, and for the following three years, designate an existing senior United States Government official with existing interagency authority for export policy for Africa to coordinate among various United States Government agencies existing export strategies with the goal of significantly increasing United States exports to Africa in real dollar value.
+Pub. L. 113–66, div. A, title XII, §1206, Dec. 26, 2013, 127 Stat. 899, required (1) the Secretary of Defense, in coordination with the Secretary of State, to develop a strategic framework for United States counterterrorism assistance and cooperation in the Sahel and Maghreb regions of Africa, and submit a report to Congress not later than 180 days after Dec. 26, 2013; (2) the President to submit a strategy to support consolidation of security and governance gains in Somalia to Congress not later than 180 days after Dec. 26, 2013; (3) the Director of National Intelligence to submit a classifiedintelligence assessment of al-Shabaab to Congress not later than 90 days after Dec. 26, 2013; and (4) the President to designate a Government official for Africa export policy not later than 60 days after Dec. 26, 2013, and for the following three years, designate an existing senior United States Government official with existing interagency authority for export policy for Africa to coordinate among various United States Government agencies existing export strategies with the goal of significantly increasing United States exports to Africa in real dollar value.
 
 #### Assistance to the Government of Jordan for Border Security Operations
 
@@ -1020,7 +1088,7 @@ Expiration.—The authority under this section may not be exercised after Septem
 
 #### Lord's Resistance Army Disarmament and Northern Uganda Recovery
 
-Pub. L. 112–81, div. A, title XII, §1206, Dec. 31, 2011, 125 Stat. 1624, which related to logistic support, supplies, and services for foreign forces in operations against the Lord's Resistance Army, was repealed by Pub. L. 113–66, div. A, title XII, §1208(g), Dec. 26, 2013, 127 Stat. 904.
+Pub. L. 112–81, div. A, title XII, §1206, Dec. 31, 2011, 125 Stat. 1624, which related to logistic support, supplies, and services for foreign forces in operations against theLord's Resistance Army, was repealed by Pub. L. 113–66, div. A, title XII, §1208(g), Dec. 26, 2013, 127 Stat. 904.
 
 Pub. L. 111–172, May 24, 2010, 124 Stat. 1209, provided that:
 
@@ -1130,7 +1198,7 @@ Termination of Assistance.—It is the sense of Congress that the Secretary of S
 
 "(a)
 
-Sense of Congress.—It is the sense of Congress that, despite reconstruction and development efforts, acontinued failure to take meaningful steps toward national reconciliation and accountability risks perpetuating longstanding political grievances and fueling new conflicts.
+Sense of Congress.—It is the sense of Congress that, despite reconstruction and development efforts, a continued failure to take meaningful steps toward national reconciliation and accountability risks perpetuating longstanding political grievances and fueling new conflicts.
 
 "(b)
 
@@ -1182,7 +1250,7 @@ Form.—The report under this section shall be submitted in unclassified form, b
 
 &emsp;"(1)
 
-Appropriate committees of congress.—The term 'appropriate committees of Congress' means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives.
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means theCommittee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives.
 
 &emsp;"(2)
 
@@ -1404,7 +1472,7 @@ Pub. L. 109–456, Dec. 22, 2006, 120 Stat. 3384, provided that:
 
 "It is the policy of the United States—
 
-&emsp;"(1) to help promote, reinvigorate, and support the political process in the Democratic Republic of the Congo in order to press all parties in the Transitional National Government and the succeeding government to implement fully and to institutionalize mechanisms, including national and international election observers, fair and transparent voter registration procedures, and a significant civic awareness and public education campaign created for the July 30, 2006, elections and future elections in the Democratic Republic of the Congo, to ensure that elections are carried out in a fair and democratic manner;
+&emsp;"(1) to help promote, reinvigorate, and support the political process in the Democratic Republic of theCongo in order to press all parties in the Transitional National Government and the succeeding government to implement fully and to institutionalize mechanisms, including national and international election observers, fair and transparent voter registration procedures, and a significant civic awareness and public education campaign created for the July 30, 2006, elections and future elections in the Democratic Republic of the Congo, to ensure that elections are carried out in a fair and democratic manner;
 
 &emsp;"(2) to urge the Government of the Democratic Republic of the Congo to recognize and act upon its responsibilities to immediately bring discipline to its security forces, hold those individuals responsible for atrocities and other human rights violations, particularly the rape of women and girls as an act of war, accountable and bring such individuals to justice;
 
@@ -1434,7 +1502,7 @@ Pub. L. 109–456, Dec. 22, 2006, 120 Stat. 3384, provided that:
 
 &emsp;"(10) to help rebuild and enhance infrastructure, communications, and other mechanisms that will increase the ability of the central government to manage internal affairs, encourage economic development, and facilitate relief efforts of humanitarian organizations;
 
-&emsp;"(11) to help halt the high prevalence of sexual abuse and violence perpetrated against women andchildren in the Democratic Republic of the Congo and mitigate the detrimental effects from acts of this type of violence by undertaking a number of health, education, and psycho-social support programs;
+&emsp;"(11) to help halt the high prevalence of sexual abuse and violence perpetrated against women and children in the Democratic Republic of the Congo and mitigate the detrimental effects from acts of this type of violence by undertaking a number of health, education, and psycho-social support programs;
 
 &emsp;"(12) to work aggressively on a bilateral basis to urge governments of countries contributing troops to the United Nations Peacekeeping Mission in the Democratic Republic of the Congo (MONUC) to enact and enforce laws on trafficking in persons and sexual abuse that meet international standards, promote codes of conduct for troops serving as part of United Nations peacekeeping missions, and immediately investigate and punish citizens who are responsible for abuses in the Democratic Republic of the Congo;
 
@@ -1474,7 +1542,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 &emsp;"(1) the Government of the Democratic Republic of the Congo must be committed to achieving the policy objectives described in section 102 if the efforts of the United States and other members of the international community are to be effective in bringing relief, security, and democracy to the country;
 
-&emsp;"(2) the Government of the Democratic Republic of the Congo should immediately exercise control over and discipline its armed forces, stop the mass rapes at the hands of its armed forces, and hold those responsible for these acts accountable before an appropriate tribunal;
+&emsp;"(2) the Government of the Democratic Republic of the Congo should immediately exercise control overand discipline its armed forces, stop the mass rapes at the hands of its armed forces, and hold those responsible for these acts accountable before an appropriate tribunal;
 
 &emsp;"(3) the Government of the Democratic Republic of the Congo, in collaboration with international aid agencies, should establish expert teams to assess the needs of the victims of rape and provide health, counseling, and social support services that such victims need; and
 
@@ -1518,7 +1586,7 @@ Contents.—The report required under subsection (a) shall include—
 
 "The United States should use its voice and vote in the United Nations Security Council—
 
-&emsp;"(1) to address exploitation at the United Nations Peacekeeping Mission in the Democratic Republic ofthe Congo (MONUC) by continuing to urge, when credible allegations exist, appropriate investigation of alleged perpetrators and, as necessary, prosecution of United Nations personnel responsible for sexual abuses in the Democratic Republic of the Congo;
+&emsp;"(1) to address exploitation at the United Nations Peacekeeping Mission in the Democratic Republic of the Congo (MONUC) by continuing to urge, when credible allegations exist, appropriate investigation of alleged perpetrators and, as necessary, prosecution of United Nations personnel responsible for sexual abuses in the Democratic Republic of the Congo;
 
 &emsp;"(2) to conclude at the earliest possible date a Memorandum of Understanding relating to binding codes of conduct and programs for the prevention of sexual abuse and trafficking in persons to be undertaken by the United Nations for all countries that contribute troops to MONUC, to include the assumption of personal liability for the provision of victims assistance and child support, as appropriate, by those who violate the codes of conduct;
 
@@ -1614,7 +1682,7 @@ Funding.—The President may provide assistance under this section using—
 
 "(d)
 
-Notification.—Not later than 15 days before each obligation of assistance under this section, and in accordance with the procedures under section 634A of the Foreign Assistance Act of 1961 (22 U.S.C. 2394–l), the President shall notify the Committee on International Relations \[now Committee on Foreign Affairs\] and theCommittee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+Notification.—Not later than 15 days before each obligation of assistance under this section, and in accordance with the procedures under section 634A of the Foreign Assistance Act of 1961 (22 U.S.C. 2394–l), the President shall notify the Committee on International Relations \[now Committee on Foreign Affairs\] and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
 "(e)
 
@@ -1652,7 +1720,7 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;"(2) United Nations Security Council Resolution 1373 (September 28, 2001) mandates that all states 'refrain from providing any form of support, active or passive, to entities or persons involved in terrorist acts', take 'the necessary steps to prevent the commission of terrorist acts', and 'deny safe haven to those who finance, plan, support, or commit terrorist acts'.
 
-&emsp;"(3) The Government of Syria is currently prohibited by United States law from receiving United States assistance because it has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State for purposes of section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) \[now 50 U.S.C. 4605(j)(1)\] and other relevant provisions of law.
+&emsp;"(3) The Government of Syria is currently prohibited by United States law from receiving United States assistance because it has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State for purposes of \[former\] section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) \[former 50 U.S.C. 4605(j)(1)\] and other relevant provisions of law.
 
 &emsp;"(4) Although the Department of State lists Syria as a state sponsor of terrorism and reports that Syria provides 'safe haven and support to several terrorist groups', fewer United States sanctions apply with respect to Syria than with respect to any other country that is listed as a state sponsor of terrorism.
 
@@ -1662,7 +1730,7 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;"(7) Approximately 20,000 Syrian troops and security personnel occupy much of the sovereign territory of Lebanon exerting undue influence upon its government and undermining its political independence.
 
-&emsp;"(8) Since 1990 the Senate and House of Representatives have passed seven bills and resolutions which call for the withdrawal of Syrian armed forces from Lebanon.
+&emsp;"(8) Since 1990 the Senate and House of Representatives have passed seven bills and resolutions whichcall for the withdrawal of Syrian armed forces from Lebanon.
 
 &emsp;"(9) On March 3, 2003, Secretary of State Colin Powell declared that it is the objective of the United States to 'let Lebanon be ruled by the Lebanese people without the presence of \[the Syrian\] occupation army'.
 
@@ -1688,7 +1756,7 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;"(20) According to the Central Intelligence Agency's 'Unclassified Report to Congress on the Acquisition of Technology Relating to Weapons of Mass Destruction and Advanced Conventional Munitions', released January 7, 2003: '\[Syria\] already holds a stockpile of the nerve agent sarin but apparently is trying to develop more toxic and persistent nerve agents. Syria remains dependent on foreign sources for key elements of its \[chemical weapons\] program, including precursor chemicals and key production equipment. It is highly probable that Syria also is developing an offensive \[biological weapons\] capability.'.
 
-&emsp;"(21) On May 6, 2002, the Under Secretary of State for Arms Control and International Security, JohnBolton, stated: 'The United States also knows that Syria has long had a chemical warfare program. It has a stockpile of the nerve agent sarin and is engaged in research and development of the more toxic and persistent nerve agent VX. Syria, which has signed but not ratified the \[Biological Weapons Convention\], is pursuing the development of biological weapons and is able to produce at least small amounts of biological warfare agents.'.
+&emsp;"(21) On May 6, 2002, the Under Secretary of State for Arms Control and International Security, John Bolton, stated: 'The United States also knows that Syria has long had a chemical warfare program. It has a stockpile of the nerve agent sarin and is engaged in research and development of the more toxic and persistent nerve agent VX. Syria, which has signed but not ratified the \[Biological Weapons Convention\], is pursuing the development of biological weapons and is able to produce at least small amounts of biological warfare agents.'.
 
 &emsp;"(22) According to the Central Intelligence Agency's 'Unclassified Report to Congress on the Acquisition of Technology Relating to Weapons of Mass Destruction and Advanced Conventional Munitions', released January 7, 2003: 'Russia and Syria have approved a draft cooperative program on cooperation on civil nuclear power. In principal, broader access to Russian expertise provides opportunities for Syria to expand its indigenous capabilities, should it decide to pursue nuclear weapons.'.
 
@@ -1712,7 +1780,7 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;"(32) On April 13, 2003, Secretary of Defense Donald Rumsfeld charged that 'busloads' of Syrian fighters entered Iraq with 'hundreds of thousands of dollars' and leaflets offering rewards for dead American soldiers.
 
-&emsp;"(33) On September 16, 2003, the Under Secretary of State for Arms Control and International Security, John Bolton, appeared before the Subcommittee on the Middle East and Central Asia of the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives, and underscored Syria's 'hostile actions' toward coalition forces during Operation Iraqi Freedom. Under Secretary Bolton added that: 'Syria allowed military equipment to flow into Iraq on the eve of and during the war. Syria permitted volunteers to pass into Iraq to attack and kill our service members during the war, and is still doing so \* \* \* \[Syria's\] behavior during Operation Iraqi Freedom underscores the importance of taking seriously reports and information on Syria's WMD capabilities.'.
+&emsp;"(33) On September 16, 2003, the Under Secretary of State for Arms Control and International Security, John Bolton, appeared before the Subcommittee onthe Middle East and Central Asia of the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives, and underscored Syria's 'hostile actions' toward coalition forces during Operation Iraqi Freedom. Under Secretary Bolton added that: 'Syria allowed military equipment to flow into Iraq on the eve of and during the war. Syria permitted volunteers to pass into Iraq to attack and kill our service members during the war, and is still doing so \* \* \* \[Syria's\] behavior during Operation Iraqi Freedom underscores the importance of taking seriously reports and information on Syria's WMD capabilities.'.
 
 &emsp;"(34) During his appearance before the Committee on International Relations of the House of Representatives on September 25, 2003, Ambassador L. Paul Bremer, III, Administrator of the Coalition Provisional Authority in Iraq, stated that out of the 278 third-country nationals who were captured by coalition forces in Iraq, the 'single largest group are Syrians'.
 
@@ -1740,7 +1808,7 @@ Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
 
 &emsp;"(7) the United States should continue to provide humanitarian and educational assistance to the people of Lebanon only through appropriate private, nongovernmental organizations and appropriate international organizations, until such time as the Government of Lebanon asserts sovereignty and control over all of its territory and borders and achieves full political independence, as called for in United Nations Security Council Resolution 520; and
 
-&emsp;"(8) as a violator of several key United Nations Security Council resolutions and as a nation that pursues policies which undermine international peaceand security, Syria should not have been permitted to join the United Nations Security Council or serve as the Security Council's President, and should be removed from the Security Council.
+&emsp;"(8) as a violator of several key United Nations Security Council resolutions and as a nation that pursues policies which undermine international peace and security, Syria should not have been permitted to join the United Nations Security Council or serve as the Security Council's President, and should be removed from the Security Council.
 
 #### "SEC. 4. STATEMENT OF POLICY.
 
@@ -1782,7 +1850,7 @@ Penalties.—Until the President makes the determination that Syria meets all th
 
 &emsp;&emsp;"(D) Prohibit aircraft of any air carrier owned or controlled by Syria to take off from, land in, or overfly the United States.
 
-&emsp;&emsp;"(E) Reduce United States diplomatic contacts with Syria (other than those contacts required to protect United States interests or carry out the purposes of this Act).
+&emsp;&emsp;"(E) Reduce United States diplomatic contacts with Syria (other than those contacts required toprotect United States interests or carry out the purposes of this Act).
 
 &emsp;&emsp;"(F) Block transactions in any property in which the Government of Syria has any interest, by any person, or with respect to any property, subject to the jurisdiction of the United States.
 
@@ -1902,7 +1970,7 @@ Pub. L. 107–115, title V, §587, Jan. 10, 2002, 115 Stat. 2173.
 
 #### Assistance for Zimbabwe
 
-Pub. L. 107–99, Dec. 21, 2001, 115 Stat. 962, provided that:
+Pub. L. 107–99, Dec. 21, 2001, 115 Stat. 962, as amended by Pub. L. 115–231, §§2–4, 6–8, Aug. 8, 2018, 132 Stat. 1632, 1634, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -1910,7 +1978,7 @@ Pub. L. 107–99, Dec. 21, 2001, 115 Stat. 962, provided that:
 
 #### "SEC. 2. STATEMENT OF POLICY.
 
-"It is the policy of the United States to support the people of Zimbabwe in their struggle to effect peaceful, democratic change, achieve broad-based and equitable economic growth, and restore the rule of law.
+"It is the policy of the United States to support the people of Zimbabwe in their struggle to effect peaceful, democratic change, achieve broad-based and equitable economic growth, restore the rule of law, reconstruct and rebuild Zimbabwe, and come to terms with the past through a process of genuine reconciliation that acknowledges past human rights abuses and orders inquiries into disappearances, including the disappearance of human rights activists, such as Patrick Nabanyama, Itai Dzamara, and Paul Chizuze.
 
 #### "SEC. 3. DEFINITIONS.
 
@@ -1930,7 +1998,7 @@ Multilateral development banks.—The term 'multilateral development banks' mean
 
 Findings.—Congress makes the following findings:
 
-&emsp;"(1) Through economic mismanagement, undemocratic practices, and the costly deployment of troops to the Democratic Republic of the Congo, the Government of Zimbabwe has rendered itself ineligible to participate in International Bank for Reconstruction and Development and International Monetary Fund programs, which would otherwise be providing substantial resources to assist in the recovery and modernization of Zimbabwe's economy. The people of Zimbabwe have thus been denied the economic and democratic benefits envisioned by the donors to such programs, including the United States.
+&emsp;"(1) Through economic mismanagement, undemocratic practices, and the private appropriation of public assets, the Government of Zimbabwe has rendered itself ineligible to participate in International Bank for Reconstruction and Development and International Monetary Fund programs, which would otherwise be providing substantial resources to assist in the recovery and modernization of Zimbabwe's economy. The people of Zimbabwe have thus been denied the economic and democratic benefits envisioned by the donors to such programs, including the United States.
 
 &emsp;"(2) In September 1999 the IMF suspended its support under a 'Stand By Arrangement', approved the previous month, for economic adjustment and reform in Zimbabwe.
 
@@ -1939,6 +2007,8 @@ Findings.—Congress makes the following findings:
 &emsp;"(4) In May 2000, the IDA suspended all other new lending to the Government of Zimbabwe.
 
 &emsp;"(5) In September 2000, the IDA suspended disbursement of funds for ongoing projects under previously-approved loans, credits, and guarantees to the Government of Zimbabwe.
+
+&emsp;"(6) In October 2016, the Government of Zimbabwe cleared a small hurdle in its longstanding public sector arrears with the IMF.
 
 "(b)
 
@@ -1952,9 +2022,9 @@ Bilateral debt relief.—Upon receipt by the appropriate congressional committee
 
 Multilateral debt relief and other financial assistance.—It is the sense of Congress that, upon receipt by the appropriate congressional committees of a certification described in subsection (d), the Secretary of the Treasury should—
 
-&emsp;&emsp;"(A) direct the United States executive director of each multilateral development bank to propose that the bank should undertake a review of the feasibility of restructuring, rescheduling, or eliminating the sovereign debt of Zimbabwe held by that bank; and
+&emsp;&emsp;"(A) direct the United States executive director of each multilateral development bank to support efforts to reevaluate plans to restructure, rebuild,reschedule, or eliminate Zimbabwe's sovereign debt held by that bank and provide an analysis based on reasonable financial options to achieve those goals; and
 
-&emsp;&emsp;"(B) direct the United States executive director of each international financial institution to which the United States is a member to propose to undertake financial and technical support for Zimbabwe, especially support that is intended to promote Zimbabwe's economic recovery and development, the stabilization of the Zimbabwean dollar, and the viability of Zimbabwe's democratic institutions.
+&emsp;&emsp;"(B) direct the United States executive director of each international financial institution to which the United States is a member to propose to undertake financial and technical support for Zimbabwe, especially support that is intended to promote Zimbabwe's economic recovery and development, the stabilization of the Zimbabwean currency, and the viability of Zimbabwe's democratic institutions.
 
 "(c)
 
@@ -1986,13 +2056,9 @@ Pre-election conditions.—In the event the certification is made before the pre
 
 &emsp;"(3)
 
-Commitment to equitable, legal, and transparent land reform.—The Government of Zimbabwe has demonstrated a commitment to an equitable, legal, and transparent land reform program consistent with agreements reached at the International Donors' Conference on Land Reform and Resettlement in Zimbabwe held in Harare, Zimbabwe, in September 1998.
+Commitment to equitable, legal, and transparent land reform.—The Government of Zimbabwe has demonstrated a commitment to an equitable, legal, and transparent land reform program.
 
 &emsp;"(4)
-
-Fulfillment of agreement ending war in democratic republic of congo.—The Government of Zimbabwe is making a good faith effort to fulfill the terms of the Lusaka, Zambia, agreement on ending the war in the Democratic Republic of Congo.
-
-&emsp;"(5)
 
 Military and national police subordinate to civilian government.—The Zimbabwean Armed Forces, the National Police of Zimbabwe, and other state security forces are responsible to and serve the elected civilian government.
 
@@ -2008,9 +2074,11 @@ In General.—The President is authorized to provide assistance under part I \[2
 
 &emsp;"(1) support an independent and free press and electronic media in Zimbabwe;
 
-&emsp;"(2) support equitable, legal, and transparent mechanisms of land reform in Zimbabwe, including the payment of costs related to the acquisition of land and the resettlement of individuals, consistent with the International Donors' Conference on Land Reform and Resettlement in Zimbabwe held in Harare,Zimbabwe, in September 1998, or any subsequent agreement relating thereto; and
+&emsp;"(2) support equitable, legal, and transparent mechanisms of land reform in Zimbabwe;
 
-&emsp;"(3) provide for democracy and governance programs in Zimbabwe.
+&emsp;"(3) provide for democracy and governance programs in Zimbabwe; and
+
+&emsp;"(4) identify and recover stolen public assets.
 
 "(b)
 
@@ -2026,7 +2094,7 @@ Supersedes Other Laws.—The authority in this section supersedes any other prov
 
 #### "SEC. 6. SENSE OF CONGRESS ON THE ACTIONS TO BE TAKEN AGAINST INDIVIDUALS RESPONSIBLE FOR VIOLENCE AND THE BREAKDOWN OF THE RULE OF LAW IN ZIMBABWE.
 
-"It is the sense of Congress that the President should begin immediate consultation with the governments of European Union member states, Canada, and other appropriate foreign countries on ways in which to—
+"It is the sense of Congress that the President should begin immediate consultation with the governments of European Union member states, Canada, Australia, the United Kingdom, the African Union, the Southern African Development Community, and other appropriate foreign countries on ways in which to—
 
 &emsp;"(1) identify and share information regarding individuals responsible for the deliberate breakdown of the rule of law, politically motivated violence, and intimidation in Zimbabwe;
 
@@ -2037,6 +2105,8 @@ Supersedes Other Laws.—The authority in this section supersedes any other prov
 &emsp;"(4) provide for the eventual removal or amendment of those sanctions."
 
 Provisions similar to those contained in section 4(c) of Pub. L. 107–99, set out above, were contained in the following appropriation acts:
+
+Pub. L. 115–141, div. K, title VII, §7042(j)(1), Mar. 23, 2018, 132 Stat. 915.
 
 Pub. L. 115–31, div. J, title VII, §7042(k)(1), May 5, 2017, 131 Stat. 671.
 
@@ -2150,7 +2220,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;"(11) African institutions are playing an active role in conflict resolution and mediation utilizing the experience of elder statesmen. Groups such as the All African Council of Churches have assisted in defusing conflicts. The Economic Community of West African States (ECOWAS) has sought to address the conflict in Liberia by deploying an African peacekeeping force. The Southern African states have been working to prevent a crisis in Lesotho. The Intergovernmental Authority on Desertification and Drought (IGADD) has been engaged in attempting to resolve the conflict in Sudan.
 
-&emsp;"(12) The Organization of African Unity, under the leadership of Secretary General Salim Salim, has established a conflict resolution mechanism and has been active in mediation and conflict resolution in several African countries.
+&emsp;"(12) The Organization of African Unity, under the leadership of Secretary General Salim Salim, has established a conflict resolution mechanism and hasbeen active in mediation and conflict resolution in several African countries.
 
 "(b)
 
@@ -2330,7 +2400,7 @@ Suspensions.—
 
 &emsp;"(1)
 
-Overseas private investment corporation.—The Overseas Private Investment Corporation shall continue to suspend the issuance of any new insurance, reinsurance, guarantees, financing, or other financial support with respect to the People's Republic of China, unless the President makes a report under subsection (b)(1) or (2) of this section.
+Overseas private investment corporation.—The Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\] shall continue to suspend the issuance of any new insurance, reinsurance, guarantees, financing, or other financial support with respect to the People's Republic of China, unless the President makes a report under subsection (b)(1) or (2) of this section.
 
 &emsp;"(2)
 
@@ -2344,11 +2414,11 @@ Munitions export licenses.—(A) The issuance of licenses under section 38 of th
 
 &emsp;"(4)
 
-Crime control and detection instruments and equipment.—The issuance of any license under section 6(k) of the Export Administration Act of 1979 \[50 U.S.C. 4605(k)\] for the export to the People's Republic of China of any crime control or detection instruments or equipment shall be suspended, unless the President makes a report under subsection (b)(1) or (2) of this section.
+Crime control and detection instruments and equipment.—The issuance of any license under \[former\] section 6(k) of the Export Administration Act of 1979 \[former 50 U.S.C. 4605(k)\] for the export to the People's Republic of China of any crime control or detection instruments or equipment shall be suspended, unless the President makes a report under subsection (b)(1) or (2) of this section.
 
 &emsp;"(5)
 
-Export of satellites for launch by the people's republic of china.—Exports of any satellite of United States origin that is intended for launch from a launch vehicle owned by the People's Republic of China shall remain suspended, unless the President makes a report under subsection (b)(1) or (2) of this section.
+Export of satellites for launch by the people's republic of china.—Exports of any satellite of United States origin that is intended for launch from a launch vehicle owned by the People's Republic ofChina shall remain suspended, unless the President makes a report under subsection (b)(1) or (2) of this section.
 
 &emsp;"(6)
 
@@ -2376,7 +2446,7 @@ Nuclear cooperation with the people's republic of china.—(A) Any—
 
 &emsp;"(7)
 
-Liberalization of export controls.—(A) The President shall negotiate with the governments participating in the group known as the Coordinating Committee (COCOM) to suspend, on a multilateral basis, any liberalization by the Coordinating Committee of controls on exports of goods and technology to the People's Republic of China under section 5 of the Export Administration Act of 1979 \[50 U.S.C. 4604\], including—
+Liberalization of export controls.—(A) The President shall negotiate with the governments participating in the group known as the Coordinating Committee (COCOM) to suspend, on a multilateral basis, any liberalization by the Coordinating Committee of controls on exports of goods and technology to the People's Republic of China under \[former\] section 5 of the Export Administration Act of 1979 \[former 50 U.S.C. 4604\], including—
 
 &emsp;&emsp;"(i) the implementation of bulk licenses for exports to the People's Republic of China; and
 
@@ -2440,7 +2510,7 @@ United States Policy.—The United States in 1975 declared in a memorandum of ag
 
 "(b)
 
-Reaffirmation and Codification of Policy.—The United States hereby reaffirms that policy. In accordance with that policy, no officer or employee of the United States Government and no agent or other individual acting on behalf of the United States Government shall negotiate with the Palestine Liberation Organization or any representatives thereof (except in emergency or humanitarian situations) unless and until the Palestine Liberation Organization recognizes Israel's right to exist, accepts United Nations Security Council Resolutions 242 and 338, and renounces the use of terrorism, except that no funds authorized to be appropriated by this or any other Act may be obligated or made available for the conduct of the current dialogue on the Middle East peace process with any representative of the Palestine Liberation Organization if the President knows and advises the Congress that that representative directly participated in the planning or execution of a particular terrorist activity which resulted in the death or kidnapping of a United States citizen."
+Reaffirmation and Codification of Policy.—The United States hereby reaffirms that policy. In accordance with that policy, no officer or employee of the United States Government and no agent or other individual acting on behalf of the United States Government shall negotiate with the Palestine Liberation Organization or any representatives thereof (except inemergency or humanitarian situations) unless and until the Palestine Liberation Organization recognizes Israel's right to exist, accepts United Nations Security Council Resolutions 242 and 338, and renounces the use of terrorism, except that no funds authorized to be appropriated by this or any other Act may be obligated or made available for the conduct of the current dialogue on the Middle East peace process with any representative of the Palestine Liberation Organization if the President knows and advises the Congress that that representative directly participated in the planning or execution of a particular terrorist activity which resulted in the death or kidnapping of a United States citizen."
 
 #### Obligation or Expenditure of Funds for Planning, etc., Mining of the Ports or Territorial Waters of Nicaragua
 
@@ -2616,11 +2686,11 @@ Sec. 3. <i>Membership</i>. The membership of the Council shall be as follows:
 
 (a) The Council shall be composed of the officials described in paragraph (b) of this section and not more than 12 individuals from outside the Federal Government appointed by the President. Appointed members of the Council may serve as representatives of a variety of sectors, including, among others, institutions of higher education, non-profit and philanthropic organizations, civil society, and private industry.
 
-(b) The Secretary of State, the Secretary of the Treasury, the Secretary of Defense, the USAID Administrator, the Chief Executive Officer of the Millennium Challenge Corporation, the United States Trade Representative, and the Chief Executive Officer of the Overseas Private Investment Corporation shall serve as non-voting members of the Council and may designate, to perform the Council functions of the member, a senior-level official who is part of the member's department, agency, or office, and who is a full-time officer or employee of the Federal Government.
+(b) The Secretary of State, the Secretary of the Treasury, the Secretary of Defense, the USAID Administrator, the Chief Executive Officer of the Millennium Challenge Corporation, the United States Trade Representative, and the Chief Executive Officer of the Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\] shall serve as non-voting members of the Council and may designate, to perform the Council functions of the member, a senior-level official who is part of the member's department, agency, or office, and who is a full-time officer or employee of the Federal Government.
 
 (c) The President shall designate a member of the Council to serve as Chair and another member to serve as Vice Chair. The Chair shall convene and preside at meetings of the Council, determine meeting agendas, and direct its work. The Vice Chair shall perform the duties of the Chair in the absence of the Chair and shall perform such other functions as the Chair may assign.
 
-(d) The term of office of members appointed by the President from outside the Federal Government shall be 2 years, and such members shall be eligible for reappointment and may continue to serve after the expiration of their terms until the President appoints asuccessor. A member appointed to fill a vacancy shall serve only for the unexpired term of such vacancy.
+(d) The term of office of members appointed by the President from outside the Federal Government shall be 2 years, and such members shall be eligible for reappointment and may continue to serve after the expiration of their terms until the President appoints a successor. A member appointed to fill a vacancy shall serve only for the unexpired term of such vacancy.
 
 Sec. 4. <i>Mission and Functions</i>. The Council shall advise and support the President, through the National Security Staff and the National Economic Council staff, in furtherance of the policy set forth in section 1 of this order. The Council shall meet regularly and shall:
 
@@ -2690,7 +2760,7 @@ Section 1. <i>Policy</i>. (a) Recognizing that gender-based violence undermines 
 
 (d) The executive branch multi-year strategy for preventing and responding to gender-based violence is set forth in the United States Strategy to Prevent and Respond to Gender-based Violence Globally (Strategy). The Strategy both responds to and expands upon the request in section 7061 of House conference report 112–331 accompanying the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2012 (Division I of Public Law 112–74), for the executive branch to develop a multi-year strategy to prevent and respond to violence against women and girls in countries where it is common.
 
-Sec. 2. <i>Creating an Interagency Working Group</i>. There is established an Interagency Working Group (WorkingGroup) to address gender-based violence, which shall coordinate implementation of the Strategy by the executive departments and agencies that are members of the Working Group (member agencies) in accordance with the priorities set forth in section 3 of this order.
+Sec. 2. <i>Creating an Interagency Working Group</i>. There is established an Interagency Working Group (Working Group) to address gender-based violence, which shall coordinate implementation of the Strategy by the executive departments and agencies that are members of the Working Group (member agencies) in accordance with the priorities set forth in section 3 of this order.
 
 (a) The Working Group shall be co-chaired by the Secretary of State and the Administrator of the United States Agency for International Development (Co-Chairs). In addition to the Co-Chairs, the Working Group shall consist of representatives from:
 
@@ -2742,7 +2812,7 @@ Sec. 3. <i>Strategy to Prevent and Respond to Gender-based Violence Globally</i>
 
 &emsp;(ii) Member agencies shall deepen engagement and coordination with other governments; international organizations, including multilateral and bilateral actors; the private sector; and civil society organizations, such as representatives of indigenous and marginalized groups, foundations, community-based, faith-based, and regional organizations (including those that serve survivors), labor unions, universities, and research organizations. The Working Group shall consider a range of mechanisms by which these stakeholders may provide input to the U.S. Government on its role in preventing and responding to gender-based violence globally.
 
-(b) <i>Enhancing Integration of Gender-based Violence Prevention and Response Efforts into Existing U.S. Government Work</i>. Member agencies shall more comprehensively integrate gender-based violence prevention and response programming into their foreign policy and foreign assistance efforts. This integration shall also build on current efforts that address gender-based violence, such as the U.S. National Action Plan on Women, Peace, and Security; the Global Health Initiative; the President's Emergency Plan for AIDS Relief; the U.S. Government's work to counter trafficking in persons; and the U.S. Government's humanitarian response efforts. The Working Group shall coordinate these different efforts as they relate to gender-based violence to leverage the most effective programs and to avoid duplication.
+(b) <i>Enhancing Integration of Gender-based Violence Prevention and Response Efforts into Existing U.S. Govern</i><i>ment Work</i>. Member agencies shall more comprehensively integrate gender-based violence prevention and response programming into their foreign policy and foreign assistance efforts. This integration shall also build on current efforts that address gender-based violence, such as the U.S. National Action Plan on Women, Peace, and Security; the Global Health Initiative; the President's Emergency Plan for AIDS Relief; the U.S. Government's work to counter trafficking in persons; and the U.S. Government's humanitarian response efforts. The Working Group shall coordinate these different efforts as they relate to gender-based violence to leverage the most effective programs and to avoid duplication.
 
 (c) <i>Improving Collection, Analysis, and Use of Data and Research to Enhance Gender-based Violence Prevention and Response Efforts</i>. Member agencies shall work to promote ethical and safe research, data collection, and evidence-based analyses relating to different forms of gender-based violence and prevention and response efforts at the country and local level. This work will include the development of a research agenda that assesses agencies' research and data collection capabilities, needs, and gaps; builds upon existing data and research; and is coordinated with the work of other organizations that are prioritizing global gender-based violence research. Member agencies shall prioritize the monitoring and evaluation of gender-based violence prevention and response interventions to determine their effectiveness. Member agencies shall systematically identify and share best practices, lessons learned, and research within and across agencies. Member agencies, as appropriate, shall seek to develop public-private partnerships to support U.S. Government research initiatives and strategic planning efforts.
 
@@ -2812,7 +2882,7 @@ Sec. 2. <i>Incorporating Climate Resilience into International Development</i>. 
 
 Sec. 3. <i>Enhancing Data, Tools, and Information for Climate-Resilient International Development</i>. Agencies with direct international development programs and investments and those that participate in multilateral entities shall work together with science and security agencies and entities, through the Working Group on Climate-Resilient International Development established in section 4 of this order, to identify and develop, as appropriate, data, decision-support tools, and information to allow the screening for and incorporation of considerations of climate-change risks and vulnerabilities, as appropriate, in strategies, plans, programs, projects, investments, and related funding decisions, including the planning for and management of overseas facilities. In addition, such agencies shall coordinate efforts, including those undertaken pursuant to Executive Order 13653, to deliver information on climate-change impacts and make data, tools, and information available to decisionmakers in other countries, so as to build their capacity as information providers and users. United States participants in relevant multilateral entities shall share this information with the respective multilateral entity, as appropriate.
 
-Sec. 4. <i>Working Group on Climate-Resilient International Development</i>. (a) <i>Establishment</i>. There is established a Working Group on Climate-Resilient International Development (Working Group) of the Council on Climate Preparedness and Resilience (Council) established by Executive Order 13653. The Secretary of the Treasury and the Administrator of the United States Agency for International Development, or their designees, shall co-chair the Working Group. Agencies with direct international development programs and investments, agencies that participate in multilateral entities, and science and security agencies and entities shall designate a representative from their respective agencies or entities to participate in the Working Group. Representatives from other agencies or entitiesmay participate in the Working Group as determined by the Co-Chairs.
+Sec. 4. <i>Working Group on Climate-Resilient International Development</i>. (a) <i>Establishment</i>. There is established a Working Group on Climate-Resilient International Development (Working Group) of the Council on Climate Preparedness and Resilience (Council) established by Executive Order 13653. The Secretary of the Treasury and the Administrator of the United States Agency for International Development, or their designees, shall co-chair the Working Group. Agencies with direct international development programs and investments, agencies that participate in multilateral entities, and science and security agencies and entities shall designate a representative from their respective agencies or entities to participate in the Working Group. Representatives from other agencies or entities may participate in the Working Group as determined by the Co-Chairs.
 
 (b) <i>Mission and Function</i>.
 
@@ -2862,7 +2932,7 @@ Sec. 7. <i>Definitions</i>. As used in this order:
 
 (d) "Resilience" has the meaning provided in section 8(c) of Executive Order 13653: the ability to anticipate, prepare for, and adapt to changing conditions and withstand, respond to, and recover rapidly from disruptions;
 
-(e) "Agencies with direct international development programs and investments" means the Department of State, Department of Agriculture, Department of the Interior, United States Agency for International Development, Millennium Challenge Corporation, Overseas Private Investment Corporation, United States Trade and Development Agency, and other relevant agencies and entities, as determined by the Working Group Co-Chairs;
+(e) "Agencies with direct international development programs and investments" means the Department of State, Department of Agriculture, Department of the Interior, United States Agency for International Development, Millennium Challenge Corporation, Overseas Private Investment Corporation \[now United States International Development Finance Corporation\], United States Trade and Development Agency, and other relevant agencies and entities, as determined by the Working Group Co-Chairs;
 
 (f) "Science and security agencies and entities" means the Department of the Interior, Department of Energy, Office of Science and Technology Policy, National Oceanic and Atmospheric Administration, National Aeronautics and Space Administration, United States Global Change Research Program, Office of the Director of National Intelligence, and other relevant agencies and entities, as determined by the Working Group Co-Chairs; and
 

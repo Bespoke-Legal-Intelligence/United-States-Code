@@ -10,7 +10,7 @@ Pub. L. 90–226, title X, Dec. 27, 1967, 81 Stat. 742, provided for creation an
 
 #### Cross References
 
-Council of the District of Columbia, functions respecting, see section 2 of Pub. L. 94–386, Aug. 14, 1976,90 Stat. 1170, set out as a note under section 285b of Title 2, The Congress.
+Council of the District of Columbia, functions respecting, see section 2 of Pub. L. 94–386, Aug. 14, 1976, 90 Stat. 1170, set out as a note under section 285b of Title 2, The Congress.
 
 Office of the Law Revision Counsel, functions respecting, see section 285b of Title 2.
 

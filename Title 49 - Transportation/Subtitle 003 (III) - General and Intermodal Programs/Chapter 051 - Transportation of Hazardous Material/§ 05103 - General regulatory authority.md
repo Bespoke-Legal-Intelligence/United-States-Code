@@ -6,7 +6,7 @@ Designating Material as Hazardous.—The Secretary shall designate material (inc
 
 (b)
 
-Regulations for Safe Transportation.—(1) The Secretary shall prescribe regulations forthe safe transportation, including security, of hazardous material in intrastate, interstate, and foreign commerce. The regulations—
+Regulations for Safe Transportation.—(1) The Secretary shall prescribe regulations for the safe transportation, including security, of hazardous material in intrastate, interstate, and foreign commerce. The regulations—
 
 &emsp;(A) apply to a person who—
 
@@ -52,7 +52,7 @@ Statement of reasons.—The Secretary shall include in any order issued under th
 
 (d)
 
-Consultation.—When prescribing a security regulation or issuing a security order that affects the safety of the transportation of hazardous material, the Secretary of Homeland Security shall consult with the Secretary of Transportation.
+Consultation.—When prescribing a security regulation or issuing a security order thataffects the safety of the transportation of hazardous material, the Secretary of Homeland Security shall consult with the Secretary of Transportation.
 
 (e)
 
@@ -154,7 +154,7 @@ Evaluation.—The evaluation required under subsection (a) shall—
 
 &emsp;"(1) identify what standards and protocols are used to approve such persons, assess the adequacy of such standards and protocols to ensure that persons seeking approval are qualified and capable of performing classifications, and make recommendations to address any deficiencies identified;
 
-&emsp;"(2) assess the adequacy of the Secretary's oversight of persons approved to perform the classifications, including the qualification of individuals engaged in the oversight of approved persons, and make recommendations to enhance oversight sufficiently to ensure that classifications are issued as required;
+&emsp;"(2) assess the adequacy of the Secretary's oversight of persons approved to perform the classifications, including the qualification of individuals engaged in the oversight of approved persons, and makerecommendations to enhance oversight sufficiently to ensure that classifications are issued as required;
 
 &emsp;"(3) identify what standards and protocols exist to rescind, suspend, or deny approval of persons who perform such classifications, assess the adequacy of such standards and protocols, and make recommendations to enhance such standards and protocols if necessary; and
 

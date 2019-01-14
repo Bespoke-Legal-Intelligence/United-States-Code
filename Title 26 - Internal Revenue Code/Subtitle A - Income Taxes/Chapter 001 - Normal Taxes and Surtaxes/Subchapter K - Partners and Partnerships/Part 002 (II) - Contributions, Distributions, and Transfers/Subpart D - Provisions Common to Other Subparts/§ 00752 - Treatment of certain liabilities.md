@@ -10,7 +10,7 @@ Any decrease in a partner's share of the liabilities of a partnership, or any de
 
 #### (c) Liability to which property is subject
 
-For purposes of this section, a liability to which property is subject shall, to the extent ofthe fair market value of such property, be considered as a liability of the owner of the property.
+For purposes of this section, a liability to which property is subject shall, to the extent of the fair market value of such property, be considered as a liability of the owner of the property.
 
 #### (d) Sale or exchange of an interest
 

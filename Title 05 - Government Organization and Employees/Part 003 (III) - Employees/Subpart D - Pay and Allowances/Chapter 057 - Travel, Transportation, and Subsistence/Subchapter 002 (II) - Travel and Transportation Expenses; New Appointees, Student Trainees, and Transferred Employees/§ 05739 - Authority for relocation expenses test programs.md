@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 111–112, §1(a)(3), added subsec. (c) and struck out form
 
 Subsec. (d). Pub. L. 111–112, §1(a)(4), substituted "12" for "10".
 
-Subsec. (e). Pub. L. 111–112, §1(a)(5), added subsec. (e) and struck out former subsec. (e) which read as follows: "The authority to conduct test programs under thissection shall expire 11 years after the date of the enactment of the Travel and Transportation Reform Act of 1998."
+Subsec. (e). Pub. L. 111–112, §1(a)(5), added subsec. (e) and struck out former subsec. (e) which read as follows: "The authority to conduct test programs under this section shall expire 11 years after the date of the enactment of the Travel and Transportation Reform Act of 1998."
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–325, §1(a)(1), struck out "for a period not to exceed 24 months" after "disbursing official".
 

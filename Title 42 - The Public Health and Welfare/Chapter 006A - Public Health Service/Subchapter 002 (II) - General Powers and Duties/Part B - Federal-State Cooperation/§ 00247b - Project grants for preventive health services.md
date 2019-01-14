@@ -12,7 +12,7 @@ No grant may be made under section (a) <sup>1</sup> unless an application there
 
 &emsp;(2) with respect to each such program (A) the amount of Federal, State, and other funds obligated by the applicant in its latest annual accounting period for the provision of such program, (B) a description of the services provided by the applicant in such program in such period, (C) the amount of Federal funds needed by the applicant to continue providing such services in such program, and (D) if the applicant proposes changes in the provision of the services in such program, the priorities of such proposed changes, reasons for such changes, and the amount of Federal funds needed by the applicant to make such changes;
 
-&emsp;(3) assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) <sup>1</sup> of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 <sup>1</sup> of this title;
+&emsp;(3) assurances satisfactory to the Secretary that the program which will be provided withfunds under a grant under subsection (a) will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) <sup>1</sup> of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 <sup>1</sup> of this title;
 
 &emsp;(4) assurances satisfactory to the Secretary that the applicant will provide for such fiscal control and fund accounting procedures as the Secretary by regulation prescribes to assure the proper disbursement of and accounting for funds received under grants under subsection (a);
 
@@ -64,7 +64,7 @@ The Secretary, at the request of a recipient of a grant under subsection (a), ma
 
 #### (h) Reports
 
-The Secretary shall include, as part of the report required by section 300u–4 of this title, a report on the extent of the problems presented by the diseases and conditions referred to in subsection (j); on the amount of funds obligated under grants under subsection (a) in the preceding fiscal year for each of the programs listed in subsection (j); and on the effectiveness of the activities assisted under grants under subsection (a) in controlling such diseases and conditions.
+The Secretary shall include, as part of the report required by section 300u–4 of this title, a report on the extent of the problems presented bythe diseases and conditions referred to in subsection (j); on the amount of funds obligated under grants under subsection (a) in the preceding fiscal year for each of the programs listed in subsection (j); and on the effectiveness of the activities assisted under grants under subsection (a) in controlling such diseases and conditions.
 
 #### (i) Technical assistance
 
@@ -160,7 +160,7 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 &emsp;There is authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2010 through 2014.
 
-(July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32,§6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13, 1998, 112 Stat. 3586; Pub. L. 106–310, div. A, title XVII, §1711, Oct. 17, 2000, 114 Stat. 1152; Pub. L. 111–148, title IV, §4204(a)–(c), Mar. 23, 2010, 124 Stat. 571, 572.)
+(July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32, §6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13, 1998, 112 Stat. 3586; Pub. L. 106–310, div. A, title XVII, §1711, Oct. 17, 2000, 114 Stat. 1152; Pub. L. 111–148, title IV, §4204(a)–(c), Mar. 23, 2010, 124 Stat. 571, 572.)
 
 #### References in Text
 
@@ -232,7 +232,7 @@ Subsec. (j). Pub. L. 97–35, §928(b), as amended by Pub. L. 99–117, substitu
 
 <b>1979</b>—Subsec. (j)(4), (5). Pub. L. 96–32 added par. (4), redesignated former par. (4) as (5) and, in par. (5) as so redesignated, substituted "paragraph (1), (2), (3), or (4)" for "paragraph (1), (2), or (3)".
 
-<b>1978</b>—Pub. L. 95–626, §202, amended section generally, substituting provisions relating to project grants forpreventive health services for provisions relating to grants for disease control programs.
+<b>1978</b>—Pub. L. 95–626, §202, amended section generally, substituting provisions relating to project grants for preventive health services for provisions relating to grants for disease control programs.
 
 Subsec. (g)(2). Pub. L. 95–626, §204(b)(2), struck out "Except as provided in section 247c of this title," before "No funds appropriated under any provision of this chapter".
 
@@ -292,7 +292,7 @@ Subsec. (c). Pub. L. 89–109, §2(d)(1), (e), inserted "on the basis of estimat
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–626, title II, §202, Nov. 10, 1978, 92 Stat. 3574, as amended by Pub. L. 96–32, §6(g), July 10, 1979, 93 Stat.83, provided that the amendment made by that section is effective Oct. 1, 1978.
+Pub. L. 95–626, title II, §202, Nov. 10, 1978, 92 Stat. 3574, as amended by Pub. L. 96–32, §6(g), July 10, 1979, 93 Stat. 83, provided that the amendment made by that section is effective Oct. 1, 1978.
 
 #### Effective Date of 1976 Amendment
 

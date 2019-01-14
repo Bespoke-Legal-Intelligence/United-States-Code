@@ -8,7 +8,7 @@ The Chairman shall report annually to the Speaker of the House of Representative
 
 Each annual report required by subsection (a) shall contain—
 
-&emsp;(1) such data and explanations concerning the effectiveness, operations, and policies ofthe international financial institutions, such recommendations concerning the international financial institutions, and such other data and material as the Chairman may deem appropriate;
+&emsp;(1) such data and explanations concerning the effectiveness, operations, and policies of the international financial institutions, such recommendations concerning the international financial institutions, and such other data and material as the Chairman may deem appropriate;
 
 &emsp;(2) the reports on each specific issue and topic which is required by any other provision of law to be included in the report of the National Advisory Council on International Monetary and Financial Policies required by section 286b(b)(5) of this title, as in effect immediately before December 19, 1989;
 
@@ -166,7 +166,7 @@ Period of Appointment; Vacancies.—Members shall be appointed for the life of t
 
 "(e)
 
-Duties of the Commission.—The Commission shall advise and report to the Congress on the futurerole and responsibilities of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]), the World Trade Organization, and the Bank for International Settlements. In carrying out such duties, the Commission shall meet with and advise the Secretary of the Treasury or the Deputy Secretary of the Treasury, and shall examine—
+Duties of the Commission.—The Commission shall advise and report to the Congress on the future role and responsibilities of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]), the World Trade Organization, and the Bank for International Settlements. In carrying out such duties, the Commission shall meet with and advise the Secretary of the Treasury or the Deputy Secretary of the Treasury, and shall examine—
 
 &emsp;"(1) the effect of globalization, increased trade, capital flows, and other relevant factors on such institutions;
 
@@ -216,7 +216,7 @@ Reports by the Executive Branch.—
 
 &emsp;"(1) Within three months after receiving the report of the Commission under subsection (g), the President of the United States through the Secretary of the Treasury shall report to the appropriate committees on the desirability and feasibility of implementing the recommendations contained in the report.
 
-&emsp;"(2) Annually, for three years after the termination of the Commission, the President of the United States through the Secretary of the Treasury shall submit to the appropriate committees a report on the steps taken, if any, through relevant international institutions and international fora to implement such recommendations as are deemed feasible and desirable under paragraph (1)."
+&emsp;"(2) Annually, for three years after the termination of the Commission, the President of the United States through the Secretary of the Treasury shall submit to the appropriate committees a report on the steps taken, if any, through relevant international institutions and international fora to implementsuch recommendations as are deemed feasible and desirable under paragraph (1)."
 
 #### Progress Reports to Congress on United States Initiatives To Update Architecture of International Monetary System
 

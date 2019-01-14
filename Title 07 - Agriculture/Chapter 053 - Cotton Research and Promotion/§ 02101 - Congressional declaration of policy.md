@@ -2,7 +2,7 @@
 
 Cotton is the basic natural fiber of the Nation. It is produced by many individual cottongrowers throughout the various cotton-producing States of the Nation and also outside the United States. Cotton moves in the channels of interstate and foreign commerce and such cotton which does not move in such channels directly burdens or affects interstate commerce in cotton and cotton products. The efficient production of cotton and the maintenance and expansion of existing markets and the development of new or improved markets and uses is vital to the welfare of cottongrowers and those concerned with marketing, using, and processing cotton as well as the general economy of the Nation. The great inroads on the market and uses for cotton which have been made by manmade fibers have been largely the result of extensive research and promotion which have not been effectively matched by cotton research and promotion. The production and marketing of cotton by numerous individual farmers have prevented the development and carrying out of adequate and coordinated programs of research and promotion necessary to the maintenance and improvement of the competitive position of, and markets for, cotton. Without an effective and coordinated method for assuring cooperative and collective action in providing for, and financing such programs, individual cotton farmers are unable adequately to provide or obtain the research and promotion necessary to maintain and improve markets for cotton.
 
-It has long been found to be in the public interest to have, or endeavor to have, a reasonable balance between the supply of and demand for cotton grown in this country. To serve this public interest the Congress has provided for thecomprehensive exercise of regulatory authority in regulating the handling of such cotton supplemented by price-support programs with the objective of adjusting supply to demand in the interest of benefiting producers and all others concerned with the production and handling of cotton as well as the general economy of the country. In order for the objective of such programs to be effectuated to the fullest degree, it is necessary that the existing regulation of marketing be supplemented by providing as part of the overall governmental program for effectuating this objective, means of increasing the demand for cotton with the view of eventually reducing or eliminating the need for limiting marketings and supporting the price of cotton.
+It has long been found to be in the public interest to have, or endeavor to have, a reasonable balance between the supply of and demand for cotton grown in this country. To serve this public interest the Congress has provided for the comprehensive exercise of regulatory authority in regulating the handling of such cotton supplemented by price-support programs with the objective of adjusting supply to demand in the interest of benefiting producers and all others concerned with the production and handling of cotton as well as the general economy of the country. In order for the objective of such programs to be effectuated to the fullest degree, it is necessary that the existing regulation of marketing be supplemented by providing as part of the overall governmental program for effectuating this objective, means of increasing the demand for cotton with the view of eventually reducing or eliminating the need for limiting marketings and supporting the price of cotton.
 
 It is therefore declared to be the policy of the Congress and the purpose of this chapter that it is essential in the public interest through the exercise of the powers provided herein, to authorize and enable the establishment of an orderly procedure for the development, financing through adequate assessments on all cotton marketed in the United States and on imports of cotton, and carrying out an effective and continuous coordinated program of research and promotion designed to strengthen cotton's competitive position and to maintain and expand domestic and foreign markets and uses for United States cotton.
 
@@ -26,7 +26,7 @@ Pub. L. 89–502, §1, July 13, 1966, 80 Stat. 279, provided: "That this Act \[e
 
 #### Pima Agriculture Cotton Trust Fund
 
-Pub. L. 113–79, title XII, §12314, Feb. 7, 2014, 128 Stat. 993, provided that:
+Pub. L. 113–79, title XII, §12314, Feb. 7, 2014, 128 Stat. 993, as amended by Pub. L. 115–334, title XII, §12602, Dec. 20, 2018, 132 Stat. 5004, provided that:
 
 "(a)
 
@@ -34,31 +34,45 @@ Establishment of Trust Fund.—There is established in the Treasury of the Unite
 
 "(b)
 
-Distribution of Funds.—From amounts in the Trust Fund, the Secretary \[of Agriculture\] shall make payments annually beginning in calendar year 2014 for calendar years 2014 through 2018 as follows:
+Distribution of Funds.—From amounts in the Trust Fund, the Secretary \[of Agriculture\] shall make payments annually beginning in calendar year 2014 for calendar years 2014 through 2023 as follows:
 
 &emsp;"(1) Twenty-five percent of the amounts in the Trust Fund shall be paid to one or more nationally recognized associations established for the promotion of pima cotton for use in textile and apparel goods.
 
-&emsp;"(2) Twenty-five percent of the amounts in the Trust Fund shall be paid to yarn spinners of pima cotton that produce ring spun cotton yarns in the United States, to be allocated to each spinner in an amount that bears the same ratio as—
+&emsp;"(2)(A) Except as provided in subparagraph (B), twenty-five percent of the amounts in the Trust Fund shall be paid to yarn spinners of pima cotton that produce ring spun cotton yarns in the United States, to be allocated to each spinner in an amount that bears the same ratio as—
 
-&emsp;&emsp;"(A) the spinner's production of ring spun cotton yarns, measuring less than 83.33 decitex (exceeding 120 metric number) from pima cotton in single and plied form during calendar year 2013 (as evidenced by an affidavit provided by the spinner that meets the requirements of subsection (c)), bears to—
+&emsp;&emsp;"(i) the spinner's production of ring spun cotton yarns, measuring less than 83.33 decitex (exceeding 120 metric number) from pima cotton in single and plied form during the prior calendar year (as evidenced by an affidavit provided by the spinner that meets the requirements of subsection (c)), bears to—
 
-&emsp;&emsp;"(B) the production of the yarns described in subparagraph (A) during calendar year 2013 for all spinners who qualify under this paragraph.
+&emsp;&emsp;"(ii) the production of the yarns described in clause (i) during the prior calendar year for all spinners who qualify under this paragraph.
 
-&emsp;"(3) Fifty percent of the amounts in the Trust Fund shall be paid to manufacturers who cut and sew cotton shirts in the United States who certify that they used imported cotton fabric during calendar year 2013, to be allocated to each such manufacturer in an amount that bears the same ratio as—
+&emsp;"(B)(i) A yarn spinner shall not receive an amount under subparagraph (A) that exceeds the cost of pima cotton that—
 
-&emsp;&emsp;"(A) the dollar value (excluding duty, shipping, and related costs) of imported woven cotton shirting fabric of 80s or higher count and 2-ply in warp purchased by the manufacturer during calendar year 2013 (as evidenced by an affidavit provided by the manufacturer that meets the requirements of subsection (d)) used in the manufacturing of men's and boys' cotton shirts, bears to—
+&emsp;&emsp;"(I) was purchased during the prior calendar year; and
 
-&emsp;&emsp;"(B) the dollar value (excluding duty, shipping, and related costs) of the fabric described in subparagraph (A) purchased during calendar year 2013 by all manufacturers who qualify under this paragraph.
+&emsp;&emsp;"(II) was used in spinning any cotton yarns.
+
+&emsp;"(ii) The Secretary shall reallocate any amounts reduced by reason of the limitation under clause (i) to spinners using the ratio described in subparagraph (A), disregarding production of any spinner subject to that limitation.
+
+&emsp;"(3) Fifty percent of the amounts in the Trust Fund shall be paid to manufacturers who cut and sew cotton shirts in the United States who certify that they used imported cotton fabric during the prior calendar year, to be allocated to each such manufacturer in an amount that bears the same ratio as—
+
+&emsp;&emsp;"(A) the dollar value (excluding duty, shipping, and related costs) of imported woven cotton shirting fabric of 80s or higher count and 2-ply in warp purchased by the manufacturer during the prior calendar year (as evidenced by an affidavit provided by the manufacturer that meets the requirements of subsection (d)) used in the manufacturing of men's and boys' cotton shirts, bears to—
+
+&emsp;&emsp;"(B) the dollar value (excluding duty, shipping, and related costs) of the fabric described in subparagraph (A) purchased during the prior calendar year by all manufacturers who qualify under this paragraph.
 
 "(c)
 
-Affidavit of Yarn Spinners.—The affidavit required by subsection (b)(2)(A) is a notarized affidavit provided annually by an officer of a producer of ring spun yarns that affirms—
+Affidavit of Yarn Spinners.—The affidavit required by subsection (b)(2)(A)(i) is a notarized affidavit provided annually by an officer of a producer of ring spun yarns that affirms—
 
-&emsp;"(1) that the producer used pima cotton during the year in which the affidavit is filed and during calendar year 2013 to produce ring spun cotton yarns in the United States, measuring less than 83.33 decitex (exceeding 120 metric number), in single and plied form;
+&emsp;"(1) that the producer used pima cotton during the year in which the affidavit is filed and during the prior calendar year to produce ring spun cotton yarns in the United States, measuring less than 83.33 decitex (exceeding 120 metric number), in single and plied form;
 
-&emsp;"(2) the quantity, measured in pounds, of ring spun cotton yarns, measuring less than 83.33 decitex (exceeding 120 metric number), in single and plied form during calendar year 2013; and
+&emsp;"(2) the quantity, measured in pounds, of ring spun cotton yarns, measuring less than 83.33 decitex (exceeding 120 metric number), in single and plied form during the prior calendar year;
 
-&emsp;"(3) that the producer maintains supporting documentation showing the quantity of such yarns produced, and evidencing the yarns as ring spun cotton yarns, measuring less than 83.33 decitex (exceeding 120 metric number), in single and plied form during calendar year 2013.
+&emsp;"(3) that the producer maintains supporting documentation showing the quantity of such yarns produced, and evidencing the yarns as ring spun cotton yarns, measuring less than 83.33 decitex (exceeding 120 metric number), in single and plied form during the prior calendar year; and
+
+&emsp;"(4) the dollar amount of pima cotton purchased during the prior calendar year—
+
+&emsp;&emsp;"(A) that was used in spinning any cotton yarns; and
+
+&emsp;&emsp;"(B) for which the producer maintains supporting documentation.
 
 "(d)
 
@@ -68,9 +82,9 @@ Affidavit of Shirting Manufacturers.—
 
 In general.—The affidavit required by subsection (b)(3)(A) is a notarized affidavit provided annually by an officer of a manufacturer of men's and boys' shirts that affirms—
 
-&emsp;&emsp;"(A) that the manufacturer used imported cotton fabric during the year in which the affidavit is filed and during calendar year 2013, to cut and sew men's and boys' woven cotton shirts in the United States;
+&emsp;&emsp;"(A) that the manufacturer used imported cotton fabric during the year in which the affidavit is filedand during the prior calendar year, to cut and sew men's and boys' woven cotton shirts in the United States;
 
-&emsp;&emsp;"(B) the dollar value of imported woven cotton shirting fabric of 80s or higher count and 2-ply in warp purchased by the manufacturer during calendar year 2013;
+&emsp;&emsp;"(B) the dollar value of imported woven cotton shirting fabric of 80s or higher count and 2-ply in warp purchased by the manufacturer during the prior calendar year;
 
 &emsp;&emsp;"(C) that the manufacturer maintains invoices along with other supporting documentation (such as price lists and other technical descriptions of the fabric qualities) showing the dollar value of such fabric purchased, the date of purchase, and evidencing the fabric as woven cotton fabric of 80s or higher count and 2-ply in warp; and
 
@@ -82,23 +96,11 @@ Date of purchase.—For purposes of the affidavit under paragraph (1), the date 
 
 "(e)
 
-Filing Deadline for Affidavits.—Any person required to provide an affidavit under this section shall file the affidavit with the Secretary \[of Agriculture\] or as directed by the Secretary—
-
-&emsp;"(1) in the case of an affidavit required for calendar year 2014, not later than 60 days after the date of the enactment of this Act \[Feb. 7, 2014\]; and
-
-&emsp;"(2) in the case of an affidavit required for any of calendar years 2015 through 2018, not later than March 15 of that calendar year.
+Filing Deadline for Affidavits.—Any person required to provide an affidavit under this section shall file the affidavit with the Secretary \[of Agriculture\] or as directed by the Secretary not later than March 15 of the applicable calendar year.
 
 "(f)
 
-Timing of Distributions.—The Secretary shall make a payment under paragraph (2) or (3) of subsection (b)—
-
-&emsp;"(1) for calendar year 2014—
-
-&emsp;&emsp;"(A) not later than the date that is 30 days after the filing of the affidavit required with respect to that payment; or
-
-&emsp;&emsp;"(B) if the Secretary is unable to make the payment by the date described in subparagraph (A), as soon as practicable thereafter; and
-
-&emsp;"(2) for calendar years 2015 through 2018, not later than the date that is 30 days after the filing of the affidavit required with respect to that payment.
+Timing of Distributions.—The Secretary shall make a payment under paragraph (2) or (3) of subsection (b) not later than the date that is 30 days after the filing of the affidavit required with respect to that payment.
 
 "(g)
 
@@ -106,7 +108,7 @@ Memorandum of Understanding.—The Secretary \[of Agriculture\] and the Commissi
 
 "(h)
 
-Funding.—Of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Trust Fund $16,000,000 for each of calendar years 2014 through 2018, to remain available until expended."
+Funding.—Of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Trust Fund $16,000,000 for each of calendar years 2014 through 2023, to remain available until expended."
 
 #### Reports on Implementation and Enforcement of Cotton Research and Promotion Program
 

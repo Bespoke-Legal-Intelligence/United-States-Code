@@ -4,7 +4,7 @@
 
 #### (1) Eligibility requirements
 
-&emsp;The Secretary may make and insure loans under this subchapter to farmers and ranchers in the United States, and to farm cooperatives and private domestic corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities as the Secretary considers appropriate, that are controlled by farmers and ranchers and engaged primarily and directly in farming orranching in the United States, subject to the conditions specified in this section. To be eligible for such loans, applicants who are individuals, or, in the case of cooperatives, corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities, individuals holding a majority interest in such entity, must (A) be citizens of the United States, (B) for direct loans only, have either training or farming experience that the Secretary determines is sufficient to assure reasonable prospects of success in the proposed farming operations, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences, (C) be or will become operators of not larger than family farms (or in the case of cooperatives, corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities in which a majority interest is held by individuals who are related by blood or marriage, as defined by the Secretary, such individuals must be or will become either owners or operators of not larger than a family farm and at least one such individual must be or will become an operator of not larger than a family farm or, in the case of holders of the entire interest who are related by blood or marriage and all of whom are or will become farm operators, the ownership interest of each such holder separately constitutes not larger than a family farm, even if their interests collectively constitute larger than a family farm, as defined by the Secretary), and (D) be unable to obtain sufficient credit elsewhere to finance their actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time. In addition to the foregoing requirements of this subsection, in the case of corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities, the family farm requirement of subparagraph (C) of the preceding sentence shall apply as well to the farm or farms in which the entity has an operator interest and the requirement of subparagraph (D) of the preceding sentence shall apply as well to the entity in the case of cooperatives, corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities.
+&emsp;The Secretary may make and insure loans under this subchapter to farmers and ranchers in the United States, and to farm cooperatives and private domestic corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities as the Secretary considers appropriate, that are controlled by farmers and ranchers and engaged primarily and directly in farming or ranching in the United States, subject to the conditions specified in this section. To be eligible for such loans, applicants who are individuals, or, in the case of cooperatives, corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities, individuals holding a majority interest in such entity, must (A) be citizens of the United States, (B) for direct loans only, have either training or farming experience that the Secretary determines is sufficient to assure reasonable prospects of success in the proposed farming operations, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences, (C) be or will become operators of not larger than family farms (or in the case of cooperatives, corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities in which a majority interest is held by individuals who are related by blood or marriage, as defined by the Secretary, such individuals must be or will become either owners or operators of not larger than a family farm and at least one such individual must be or will become an operator of not larger than a family farm or, in the case of holders of the entire interest who are related by blood or marriage and all of whom are or will become farm operators, the ownership interest of each such holder separately constitutes not larger than a family farm, even if their interests collectively constitute larger than a family farm, as defined by the Secretary), and (D) be unable to obtain sufficient credit elsewhere to finance their actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time. In addition to the foregoing requirements of this subsection, in the case of corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities, the family farm requirement of subparagraph (C) of the preceding sentence shall apply as well to the farm or farms in which the entity has an operator interest and the requirement of subparagraph (D) of the preceding sentence shall apply as well to the entity in the case of cooperatives, corporations, partnerships, joint operations, trusts, limited liability companies, and such other legal entities.
 
 #### (2) Special rule
 
@@ -60,11 +60,11 @@ Education loans.—Notwithstanding any other provision of law, if a borrower bec
 
 &emsp;&emsp;(A) a loan made to a youth under subsection (b); or
 
-&emsp;&emsp;(B) a microloan made to a beginning farmer or rancher or a veteran farmer or rancher (as defined in section 2279(e) of this title).
+&emsp;&emsp;(B) a microloan made to a beginning farmer or rancher or a veteran farmer or rancher (as defined in section 2279(e) <sup>1</sup> of this title).
 
 #### (3) Transition rule
 
-&emsp;If, as of April 4, 1996, a farmer or rancher has received a direct operating loan under thissubchapter during each of 4 or more previous years, the borrower shall be eligible to receive a direct operating loan under this subchapter during 3 additional years after April 4, 1996.
+&emsp;If, as of April 4, 1996, a farmer or rancher has received a direct operating loan under this subchapter during each of 4 or more previous years, the borrower shall be eligible to receive a direct operating loan under this subchapter during 3 additional years after April 4, 1996.
 
 #### (4) Waivers
 
@@ -132,7 +132,9 @@ Education loans.—Notwithstanding any other provision of law, if a borrower bec
 
 #### References in Text
 
-For definition of "this chapter", referred to in subsec. (b)(4), see note set out under section 1921 of this title.
+This chapter, referred to in subsec. (b)(4), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
+
+Section 2279(e) of this title, referred to in subsec. (c)(2)(B), was redesignated section 2279(a) of this title by section 12301(b)(3) of Pub. L. 115–334.
 
 #### Codification
 
@@ -148,7 +150,7 @@ Subsec. (b)(1). Pub. L. 113–79, §5102, struck out "who are rural residents" a
 
 Subsec. (b)(5). Pub. L. 113–79, §5103, added par. (5).
 
-Subsec. (c)(2). Pub. L. 113–79, §5106(b)(1), added par. (2) and struck out former par. (2). Prior to amendment,text read as follows: "In this subsection, the term 'direct operating loan' shall not include a loan made to a youth under subsection (b) of this section."
+Subsec. (c)(2). Pub. L. 113–79, §5106(b)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "In this subsection, the term 'direct operating loan' shall not include a loan made to a youth under subsection (b) of this section."
 
 Subsec. (c)(5). Pub. L. 113–79, §5104, added par. (5).
 
@@ -234,7 +236,7 @@ Reamortization.—Each fiscal year 1990 guaranteed loan for 1988 or 1989 natural
 
 &emsp;"(3)
 
-Eligibility.—Notwithstanding any other provision of law, any person eligible to receive payments under subtitle A of title I \[7 U.S.C. 1421 note\] shall be deemed eligible to have guaranteed, in accordancewith this subsection, loans made to such person by a commercial or cooperative lender to refinance installment payments that are or become due and payable during 1989 or 1990, as described in paragraph (1), except that, to be deemed eligible to have such loan guaranteed, the person must otherwise—
+Eligibility.—Notwithstanding any other provision of law, any person eligible to receive payments under subtitle A of title I \[7 U.S.C. 1421 note\] shall be deemed eligible to have guaranteed, in accordance with this subsection, loans made to such person by a commercial or cooperative lender to refinance installment payments that are or become due and payable during 1989 or 1990, as described in paragraph (1), except that, to be deemed eligible to have such loan guaranteed, the person must otherwise—
 
 &emsp;&emsp;"(A) be current in the person's obligation to the commercial or cooperative lender that agrees to accept the guarantee in consideration of allowing the person to make the 1989 or 1990 payment or installment over a period of time not to exceed 6 years from the original due date of such payment or installment; and
 
@@ -247,4 +249,6 @@ Use of Agricultural Credit Insurance Fund.—For purposes of providing guarantee
 Similar provisions were contained in the following prior act:
 
 Pub. L. 100–387, title III, §312, Aug. 11, 1988, 102 Stat. 948.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

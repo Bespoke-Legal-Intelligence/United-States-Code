@@ -8,7 +8,7 @@ As used in this subchapter:
 
 &emsp;(3) The term "raptor" or "raptors" means individuals or populations of eagles, falcons, owls, hawks, and other birds of prey.
 
-&emsp;(4) The term "raptor habitat" includes the habitat of the raptor prey base as well as thenesting and hunting habitat of raptors within the conservation area.
+&emsp;(4) The term "raptor habitat" includes the habitat of the raptor prey base as well as the nesting and hunting habitat of raptors within the conservation area.
 
 &emsp;(5) The term "Memorandum of Understanding" means the Memorandum of Understanding \#ID–237, dated May 1985, between the State of Idaho Military Division and the Bureau of Land Management.
 

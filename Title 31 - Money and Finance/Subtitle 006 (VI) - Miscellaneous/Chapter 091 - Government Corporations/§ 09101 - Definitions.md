@@ -20,13 +20,11 @@ In this chapter—
 
 &emsp;&emsp;(G) the Regional Banks for Cooperatives.
 
-&emsp;&emsp;(H) the Rural Telephone Bank when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a)).
+&emsp;&emsp;(H) the Financing Corporation.
 
-&emsp;&emsp;(I) the Financing Corporation.
+&emsp;&emsp;(I) the Resolution Trust Corporation.
 
-&emsp;&emsp;(J) the Resolution Trust Corporation.
-
-&emsp;&emsp;(K) the Resolution Funding Corporation.
+&emsp;&emsp;(J) the Resolution Funding Corporation.
 
 &emsp;(3) "wholly owned Government corporation" means—
 
@@ -50,23 +48,23 @@ In this chapter—
 
 &emsp;&emsp;(J) the Pension Benefit Guaranty Corporation.
 
-&emsp;&emsp;(K) the Rural Telephone Bank until the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a)).
+&emsp;&emsp;(K) the Saint Lawrence Seaway Development Corporation.
 
-&emsp;&emsp;(L) the Saint Lawrence Seaway Development Corporation.
+&emsp;&emsp;(L) the Secretary of Housing and Urban Development when carrying out duties and powers related to the Federal Housing Administration Fund.
 
-&emsp;&emsp;(M) the Secretary of Housing and Urban Development when carrying out duties and powers related to the Federal Housing Administration Fund.
+&emsp;&emsp;(M) the Tennessee Valley Authority.
 
-&emsp;&emsp;(N) the Tennessee Valley Authority.
+&emsp;&emsp;(N) the Panama Canal Commission.
 
-&emsp;&emsp;\[(O) Repealed. Pub. L. 104–134, title III, §3117(a), Apr. 26, 1996, 110 Stat. 1321–350.\]
+&emsp;&emsp;(O) the Millennium Challenge Corporation.
 
-&emsp;&emsp;(P) the Panama Canal Commission.
+&emsp;&emsp;(P) the International Clean Energy Foundation.
 
-&emsp;&emsp;(Q) the Millennium Challenge Corporation.
+(Pub. L. 97–258, §§1, 2(l)(1), Sept. 13, 1982, 96 Stat. 1041, 1062; Pub. L. 97–452, §1(26), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 100–86, title III, §303, Aug. 10, 1987, 101 Stat. 597; Pub. L. 101–73, title III, §307(e), title V, §§501(d), 511(b)(1), Aug. 9, 1989,103 Stat. 353, 394, 406; Pub. L. 102–486, title IX, §902(b), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–82, title II, §202(e)(1), Sept. 21, 1993, 107 Stat. 888; Pub. L. 103–272, §4(f)(1)(Z), July 5, 1994, 108 Stat. 1363; Pub. L. 103–325, title I, §104(e), Sept. 23, 1994, 108 Stat. 2168; Pub. L. 104–106, div. C, title XXXV, §3530, Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–127, title VII, §722(b), Apr. 4, 1996, 110 Stat. 1115; Pub. L. 104–134, title III, §3117(a), Apr. 26, 1996, 110 Stat. 1321–350; Pub. L. 104–287, §4(2), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–134, title IV, §415(d)(2), Dec. 2, 1997, 111 Stat. 2590; Pub. L. 107–171, title VI, §6201(d)(6), May 13, 2002, 116 Stat. 419; Pub. L. 108–199, div. D, title VI, §614(e)(2), Jan. 23, 2004, 118 Stat. 223; Pub. L. 110–140, title IX, §925(c)(2), Dec. 19, 2007, 121 Stat. 1737; Pub. L. 115–254, div. F, title VI, §1470(u), Oct. 5, 2018, 132 Stat. 3519; Pub. L. 115–334, title VI, §6602(b)(19), Dec. 20, 2018, 132 Stat. 4777.)
 
-&emsp;&emsp;(R) the International Clean Energy Foundation.
+#### Amendment of Paragraph (3)(H)
 
-(Pub. L. 97–258, §§1, 2(l)(1), Sept. 13, 1982, 96 Stat. 1041, 1062; Pub. L. 97–452, §1(26), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 100–86, title III, §303, Aug. 10, 1987, 101 Stat. 597; Pub. L. 101–73, title III, §307(e), title V, §§501(d), 511(b)(1), Aug. 9, 1989, 103 Stat. 353, 394, 406; Pub. L. 102–486, title IX, §902(b), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–82, title II, §202(e)(1), Sept. 21, 1993, 107 Stat. 888; Pub. L. 103–272, §4(f)(1)(Z), July 5, 1994, 108 Stat. 1363; Pub. L. 103–325, title I, §104(e), Sept. 23, 1994, 108 Stat. 2168; Pub. L. 104–106, div. C, title XXXV, §3530, Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–127, title VII, §722(b), Apr. 4, 1996, 110 Stat. 1115; Pub. L. 104–134, title III, §3117(a), Apr. 26, 1996, 110 Stat. 1321–350; Pub. L. 104–287, §4(2), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–134, title IV, §415(d)(2), Dec. 2, 1997, 111 Stat. 2590; Pub. L. 107–171, title VI, §6201(d)(6), May 13, 2002, 116 Stat. 419; Pub. L. 108–199, div. D, title VI, §614(e)(2), Jan. 23, 2004, 118 Stat. 223; Pub. L. 110–140, title IX, §925(c)(2), Dec. 19, 2007, 121 Stat. 1737.)
+<i>Pub. L. 115–254, div. F, title VI, §1470(u), (w), Oct. 5, 2018, 132 Stat. 3519, provided that, effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, paragraph (3)(H) of this section is amended by striking "Overseas Private Investment Corporation" and inserting "United States International Development Finance Corporation". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes<br>1982
 
@@ -110,6 +108,16 @@ This amends 31:9101(2) because the National Consumer Cooperative Bank is no long
 
 #### Amendments
 
+<b>2018</b>—Par. (2)(H) to (K). Pub. L. 115–334, §6602(b)(19)(A), redesignated subpars. (I) to (K) as (H) to (J), respectively, and struck out former subpar. (H) which read as follows: "the Rural Telephone Bank when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a))."
+
+Par. (3)(H). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation".
+
+Par. (3)(K) to (R). Pub. L. 115–334, §6602(b)(19)(B), redesignated subpars. (L) to (N) and (P) to (R) as (K) to (P), respectively, and struck out former pars. (K) and (O) which read as follows:
+
+"(K) the Rural Telephone Bank until the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a)).
+
+"(O) the Uranium Enrichment Corporation."
+
 <b>2007</b>—Par. (3)(R). Pub. L. 110–140 added subpar. (R).
 
 <b>2004</b>—Par. (3)(Q). Pub. L. 108–199 added subpar. (Q).
@@ -124,7 +132,7 @@ Par. (3)(B). Pub. L. 104–287, §4(2)(C), substituted a period for the semicolo
 
 Par. (3)(N). Pub. L. 104–127, §722(b)(1), and Pub. L. 104–287, §4(2)(D), amended par. (3) identically, redesignating subpar. (N), relating to Uranium Enrichment Corporation, as (O).
 
-Par. (3)(O). Pub. L. 104–134, which directed the amendment of par. (3) of this section by striking out subpar.\(N) as added by section 902(b) of Pub. L. 102–486, was executed by striking out subpar. (O), to reflect the probable intent of Congress, because of the redesignation of that subpar. (N) as (O) by section 722(b)(1) of Pub. L. 104–127 and section 4(2)(D) of Pub. L. 104–287. Subpar. (O) read as follows: "the Uranium Enrichment Corporation."
+Par. (3)(O). Pub. L. 104–134, which directed the amendment of par. (3) of this section by striking out subpar. (N) as added by section 902(b) of Pub. L. 102–486, could not be executed because of the intervening identical amendments of par. (3) by section 722(b)(1) of Pub. L. 104–127 and section 4(2)(D) of Pub. L. 104–287 redesignating that subpar. (N) as (O).
 
 Pub. L. 104–127, §722(b)(1), and Pub. L. 104–287, §4(2)(D), amended par. (3) identically, redesignating subpar. (N), relating to Uranium Enrichment Corporation, as (O).
 
@@ -152,6 +160,10 @@ Par. (3)(E). Pub. L. 101–73, §307(e), struck out subpar. (E) relating to Fede
 
 <b>1982</b>—Par. (2)(K). Pub. L. 97–258, §2(l)(1), struck out subpar. (K) relating to National Consumer Cooperative Bank.
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
@@ -178,7 +190,7 @@ This chapter is popularly known as the Government Corporation Control Act. The G
 
 #### Dissolution of Pennsylvania Avenue Development Corporation
 
-Pennsylvania Avenue Development Corporation dissolved on or before Apr. 1, 1996, and assets, obligations, indebtedness, and unobligated and unexpended balances of Corporation transferred, see Pub. L. 92–578, §3, Oct. 27, 1972, 86 Stat. 1267, as amended, which was classified to section 872 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
+Pennsylvania Avenue Development Corporation dissolved on or before Apr. 1, 1996, and assets, obligations,indebtedness, and unobligated and unexpended balances of Corporation transferred, see Pub. L. 92–578, §3, Oct. 27, 1972, 86 Stat. 1267, as amended, which was classified to section 872 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 #### Abolition of United States Railway Association and Transfer of Functions
 

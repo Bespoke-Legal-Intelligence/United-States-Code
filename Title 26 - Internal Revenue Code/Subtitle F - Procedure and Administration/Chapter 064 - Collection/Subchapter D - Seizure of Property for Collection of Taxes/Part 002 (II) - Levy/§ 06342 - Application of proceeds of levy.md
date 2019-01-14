@@ -2,7 +2,7 @@
 
 #### (a) Collection of liability
 
-Any money realized by proceedings under this subchapter (whether by seizure, by surrender under section 6332 (except pursuant to subsection (c)(2) <sup>1</sup> thereof), or by sale of seized property) or by sale of property redeemed by the United States (if the interest of the United States in such property was a lien arising under the provisions of this title) shall be applied as follows:
+Any money realized by proceedings under this subchapter (whether by seizure, by surrender under section 6332 (except pursuant to subsection (d)(2) thereof), or by sale of seized property) or by sale of property redeemed by the United States (if the interest of the United States in such property was a lien arising under the provisions of this title) shall be applied as follows:
 
 #### (1) Expense of levy and sale
 
@@ -20,13 +20,11 @@ Any money realized by proceedings under this subchapter (whether by seizure, by 
 
 Any surplus proceeds remaining after the application of subsection (a) shall, upon application and satisfactory proof in support thereof, be credited or refunded by the Secretary to the person or persons legally entitled thereto.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 789; Pub. L. 89–719, title I, §104(h), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
-
-#### References in Text
-
-Section 6332(c), referred to in subsec. (a), was redesignated section 6332(d) by Pub. L. 100–647, title VI, §6236(e)(1), Nov. 10, 1988, 102 Stat. 3739.
+(Aug. 16, 1954, ch. 736, 68A Stat. 789; Pub. L. 89–719, title I, §104(h), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 115–141, div. U, title IV, §401(a)(284), Mar. 23, 2018, 132 Stat. 1198.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–141 substituted "subsection (d)(2)" for "subsection (c)(2)" in introductory provisions.
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
@@ -35,6 +33,4 @@ Section 6332(c), referred to in subsec. (a), was redesignated section 6332(d) by
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@
 
 #### (2) Use of automated equipment
 
-&emsp;In establishing model forms under this subsection, the Bureau shall consider the use bylessors of data processing or similar automated equipment.
+&emsp;In establishing model forms under this subsection, the Bureau shall consider the use by lessors of data processing or similar automated equipment.
 
 #### (3) Use optional
 

@@ -28,7 +28,7 @@ For purposes of this part, if stock is received by an individual in a distributi
 
 #### (2) Joint tenancy
 
-&emsp;The acquisition of a share of stock in the name of the employee and another jointly with the right of survivorship or a subsequent transfer of a share of stock into such joint ownership shall not be deemed a disposition, but a termination of such joint tenancy (except to the extent such employee acquires ownership of such stock) shall be treated as a disposition by him occurring at the time such joint tenancy is terminated.
+&emsp;The acquisition of a share of stock in the name of the employee and another jointly with the right of survivorship or a subsequent transfer of a share of stock into such joint ownership shall not be deemed a disposition,but a termination of such joint tenancy (except to the extent such employee acquires ownership of such stock) shall be treated as a disposition by him occurring at the time such joint tenancy is terminated.
 
 #### (3) Special rule where incentive stock is acquired through use of other statutory option stock
 
@@ -72,7 +72,7 @@ For purposes of this part, the term "subsidiary corporation" means any corporati
 
 #### (g) Special rule for applying subsections (e) and (f)
 
-In applying subsections (e) and (f) for purposes of section <sup>1</sup> 422(a)(2) and 423(a)(2), there shall be substituted for the term "employer corporation" wherever it appears in subsections (e) and (f) the term "grantor corporation" or the term "corporation issuing or assuming a stock option in a transaction to which section 424(a) applies", as the case may be.
+In applying subsections (e) and (f) for purposes of sections 422(a)(2) and 423(a)(2), there shall be substituted for the term "employer corporation" wherever it appears in subsections (e) and (f) the term "grantor corporation" or the term "corporation issuing or assuming a stock option in a transaction to which section 424(a) applies", as the case may be.
 
 #### (h) Modification, extension, or renewal of option
 
@@ -108,7 +108,7 @@ For purposes of this part, if the grant of an option is subject to approval by s
 
 &emsp;&emsp;<b>For provisions requiring the reporting of certain acts with respect to a qualified stock option, an incentive stock option, options granted under employer stock purchase plans, or a restricted stock option, see section 6039.</b>
 
-(Added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 71, §425; amended Pub. L. 97–34, title II, §251(b)(2)–(4), Aug. 13, 1981, 95 Stat. 259; Pub. L. 97–448, title I, §102(j)(5), (6), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(b), July 18, 1984, 98 Stat. 898; Pub. L. 100–647, title I, §1018(l)(1), (2), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 101–239, title VII, §7811(m)(6), Dec. 19, 1989, 103 Stat. 2412; renumbered §424 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (F), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525; Pub. L. 104–188, title I, §1702(h)(13), Aug. 20, 1996, 110 Stat. 1874.)
+(Added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 71, §425; amended Pub. L. 97–34,title II, §251(b)(2)–(4), Aug. 13, 1981, 95 Stat. 259; Pub. L. 97–448, title I, §102(j)(5), (6), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(b), July 18, 1984, 98 Stat. 898; Pub. L. 100–647, title I, §1018(l)(1), (2), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 101–239, title VII, §7811(m)(6), Dec. 19, 1989, 103 Stat. 2412; renumbered §424 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (F), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525; Pub. L. 104–188, title I, §1702(h)(13), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 115–141, div. U, title IV, §401(a)(98), Mar. 23, 2018, 132 Stat. 1188.)
 
 #### Prior Provisions
 
@@ -116,7 +116,9 @@ A prior section 424, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c)(3)(B). Pub. L. 104–188 substituted "an incentive stock option or an option granted under anemployee stock purchase plan" for "a qualified stock option, an incentive stock option, an option granted under an employee stock purchase plan, or a restricted stock option".
+<b>2018</b>—Subsec. (g). Pub. L. 115–141 substituted "sections 422(a)(2)" for "section 422(a)(2)".
+
+<b>1996</b>—Subsec. (c)(3)(B). Pub. L. 104–188 substituted "an incentive stock option or an option granted under an employee stock purchase plan" for "a qualified stock option, an incentive stock option, an option granted under an employee stock purchase plan, or a restricted stock option".
 
 <b>1990</b>—Pub. L. 101–508, §11801(c)(9)(A)(i), renumbered section 425 of this title as this section.
 
@@ -186,7 +188,5 @@ Section applicable to taxable years ending after Dec. 31, 1963, except in cases 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into accountprior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

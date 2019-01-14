@@ -12,7 +12,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(B) opening domestic markets to fair and open internal competition among domestic enterprises by eliminating inappropriate favoritism for small or large businesses, eliminating elite monopolies, creating and effectively implementing anti-trust and anti-monopoly laws to protect free competition, and establishing fair and accessible legal procedures for dispute settlement among domestic enterprises;
 
-&emsp;&emsp;(C) privatizing industry in a fair and equitable manner that provides economic opportunities to a broad spectrum of the population, eliminating government and elitemonopolies, closing loss-making enterprises, and reducing government control over the factors of production;
+&emsp;&emsp;(C) privatizing industry in a fair and equitable manner that provides economic opportunities to a broad spectrum of the population, eliminating government and elite monopolies, closing loss-making enterprises, and reducing government control over the factors of production;
 
 &emsp;&emsp;(D) economic deregulation by eliminating inefficient and overly burdensome regulations and strengthening the legal framework supporting private contract and intellectual property rights;
 
@@ -38,7 +38,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(F) consideration of establishing ad hoc or formal linkages between the provision of official financing to countries experiencing a financial crisis and the willingness of market participants to meaningfully participate in any stabilization effort led by the International Monetary Fund;
 
-&emsp;&emsp;(G) using the International Monetary Fund to facilitate discussions between debtors and private creditors to help ensure that financial difficulties are resolved without inappropriate resort to public resources; and
+&emsp;&emsp;(G) using the International Monetary Fund to facilitate discussions between debtors andprivate creditors to help ensure that financial difficulties are resolved without inappropriate resort to public resources; and
 
 &emsp;&emsp;(H) the International Monetary Fund accompanying the provision of funding to countries experiencing a financial crisis resulting from imprudent borrowing with efforts to achieve a significant contribution by the private creditors, investors, and banks which had extended such credits.
 
@@ -54,7 +54,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(B) measures designed to facilitate labor market flexibility are consistent with such core worker rights; and
 
-&emsp;&emsp;(C) the staff of the International Monetary Fund surveys the labor market policies andpractices of recipient countries and recommends policy initiatives that will help to ensure the maintenance or improvement of core labor standards.
+&emsp;&emsp;(C) the staff of the International Monetary Fund surveys the labor market policies and practices of recipient countries and recommends policy initiatives that will help to ensure the maintenance or improvement of core labor standards.
 
 &emsp;(10) Vigorously promote International Monetary Fund programs and assistance that are structured to the maximum extent feasible to discourage practices which may promote ethnic or social strife in a recipient country.
 
@@ -82,7 +82,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 To the extent that it would assist in achieving the goals described in subsection (a), the Secretary of the Treasury shall pursue the goals in coordination with the Secretary of State, the Secretary of Labor, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for International Development, and the United States Trade Representative.
 
-(Pub. L. 95–118, title XV, §1503, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §610(a)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224; amended Pub. L. 108–458, title VII, §7703(a), Dec. 17, 2004, 118 Stat. 3860.)
+(Pub. L. 95–118, title XV, §1503, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §610(a)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224; amended Pub. L.108–458, title VII, §7703(a), Dec. 17, 2004, 118 Stat. 3860.)
 
 #### Amendments
 

@@ -20,7 +20,7 @@
 
 #### (i) For those receiving distant signals
 
-&emsp;&emsp;&emsp;In the case of a subscriber of a satellite carrier who is eligible to receive the signalof a network station solely by reason of section 119(e) of title 17 (in this subparagraph referred to as a "distant signal"), and who, as of October 1, 2009, is receiving the distant signal of that network station, the following shall apply:
+&emsp;&emsp;&emsp;In the case of a subscriber of a satellite carrier who is eligible to receive the signal of a network station solely by reason of section 119(e) of title 17 (in this subparagraph referred to as a "distant signal"), and who, as of October 1, 2009, is receiving the distant signal of that network station, the following shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(I) In a case in which the satellite carrier makes available to the subscriber the signal of a local network station affiliated with the same television network pursuant to section 338 of this title, the carrier may only provide the secondary transmissions of the distant signal of a station affiliated with the same network to that subscriber—
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) only until such time as the subscriber elects to receive such local signal.
 
-&emsp;&emsp;&emsp;&emsp;(II) Notwithstanding subclause (I), the carrier may not retransmit the distant signal to any subscriber who is eligible to receive the signal of a network station solely by reason of section 119(e) of title 17, unless such carrier, within 60 days after December 8, 2004, submits to that television network the list and statement required by subparagraph (F)(i).
+&emsp;&emsp;&emsp;&emsp;(II) Notwithstanding subclause (I), the carrier may not retransmit the distant signal to any subscriber who is eligible to receive the signal of a network station solely by reason of section 119(e) oftitle 17, unless such carrier, within 60 days after December 8, 2004, submits to that television network the list and statement required by subparagraph (F)(i).
 
 #### (ii) For those not receiving distant signals
 
@@ -64,7 +64,7 @@
 
 #### (i) Eligibility and signal testing
 
-&emsp;&emsp;&emsp;A subscriber of a satellite carrier shall be eligible to receive a distant signal of a network station affiliated with the same network under this section if, with respectto a local network station, such subscriber—
+&emsp;&emsp;&emsp;A subscriber of a satellite carrier shall be eligible to receive a distant signal of a network station affiliated with the same network under this section if, with respect to a local network station, such subscriber—
 
 &emsp;&emsp;&emsp;&emsp;(I) is a subscriber whose household is not predicted by the model specified in subsection (c)(3) to receive the signal intensity required under section 73.622(e)(1) or, in the case of a low-power station or translator station transmitting an analog signal, section 73.683(a) of title 47, Code of Federal Regulations, or a successor regulation;
 
@@ -74,7 +74,7 @@
 
 #### (ii) Pre-enactment distant signal subscribers
 
-&emsp;&emsp;&emsp;Any eligible subscriber under this subparagraph who is a lawful subscriber to such a distant signal as of the date of enactment of the Satellite Television Extension and Localism Act of 2010 may continue to receive such distant signal.
+&emsp;&emsp;&emsp;Any eligible subscriber under this subparagraph who is a lawful subscriber tosuch a distant signal as of the date of enactment of the Satellite Television Extension and Localism Act of 2010 may continue to receive such distant signal.
 
 #### (iii) Time-shifting prohibited
 
@@ -142,35 +142,7 @@
 
 #### (c) Eligibility for retransmission
 
-#### (1) Study of digital strength testing procedures
-
-#### (A) Study required
-
-&emsp;&emsp;Not later than 1 year after December 8, 2004, the Federal Communications Commission shall complete an inquiry regarding whether, for purposes of identifying if a household is unserved by an adequate digital signal under section 119(d)(10) of title 17, the digital signal strength standard in section 73.622(e)(1) of title 47, Code of Federal Regulations, or the testing procedures in section 73.686(d) of title 47, Code of Federal Regulations, such statutes or regulations should be revised to take into account the types of antennas that are available to consumers.
-
-#### (B) Study considerations
-
-&emsp;&emsp;In conducting the study under this paragraph, the Commission shall consider whether—
-
-&emsp;&emsp;&emsp;(i) to account for the fact that an antenna can be mounted on a roof or placed in a home and can be fixed or capable of rotating;
-
-&emsp;&emsp;&emsp;(ii) section 73.686(d) of title 47, Code of Federal Regulations, should be amended to create different procedures for determining if the requisite digital signal strength is present than for determining if the requisite analog signal strength is present;
-
-&emsp;&emsp;&emsp;(iii) a standard should be used other than the presence of a signal of a certain strength to ensure that a household can receive a high-quality picture using antennas of reasonable cost and ease of installation;
-
-&emsp;&emsp;&emsp;(iv) to develop a predictive methodology for determining whether a household is unserved by an adequate digital signal under section 119(d)(10) of title 17;
-
-&emsp;&emsp;&emsp;(v) there is a wide variation in the ability of reasonably priced consumer digital television sets to receive over-the-air signals, such that at a given signal strength some may be able to display high-quality pictures while others cannot, whether such variation is related to the price of the television set, and whether such variation should be factored into setting a standard for determining whether a household is unserved by an adequate digital signal; and
-
-&emsp;&emsp;&emsp;(vi) to account for factors such as building loss, external interference sources, or undesired signals from both digital television and analog television stations using either the same or adjacent channels in nearby markets, foliage, and man-made clutter.
-
-#### (C) Report
-
-&emsp;&emsp;Not later than 1 year after December 8, 2004, the Federal Communications Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
-
-&emsp;&emsp;&emsp;(i) the results of the study under this paragraph; and
-
-&emsp;&emsp;&emsp;(ii) recommendations, if any, as to what changes should be made to Federal statutes or regulations.
+#### (1) Repealed. Pub. L. 115–141, div. P, title IV, §402(i)(7), Mar. 23, 2018, 132 Stat. 1090
 
 #### (2) Waivers
 
@@ -180,7 +152,7 @@
 
 #### (A) Predictive model
 
-&emsp;&emsp;Within 270 days after the date of the enactment of the Satellite Television Extension and Localism Act of 2010, the Commission shall develop and prescribe by rule a point-to-point predictive model for reliably and presumptively determining the ability of individual locations, through the use of an antenna, to receive signals in accordance with the signal intensity standard in section73.622(e)(1) of title 47, Code of Federal Regulations, or a successor regulation, including to account for the continuing operation of translator stations and low power television stations. In prescribing such model, the Commission shall rely on the Individual Location Longley-Rice model set forth by the Commission in CS Docket No. 98–201, as previously revised with respect to analog signals, and as recommended by the Commission with respect to digital signals in its Report to Congress in ET Docket No. 05–182, FCC 05–199 (released December 9, 2005). The Commission shall establish procedures for the continued refinement in the application of the model by the use of additional data as it becomes available.
+&emsp;&emsp;Within 270 days after the date of the enactment of the Satellite Television Extension and Localism Act of 2010, the Commission shall develop and prescribe by rule a point-to-point predictive model for reliably and presumptively determining the ability of individual locations, through the use of an antenna, to receive signals in accordance with the signal intensity standard in section 73.622(e)(1) of title 47, Code of Federal Regulations, or a successor regulation, including to account for the continuing operation of translator stations and low power television stations. In prescribing such model, the Commission shall rely on the Individual Location Longley-Rice model set forth by the Commission in CS Docket No. 98–201, as previously revised with respect to analog signals, and as recommended by the Commission with respect to digital signals in its Report to Congress in ET Docket No. 05–182, FCC 05–199 (released December 9, 2005). The Commission shall establish procedures for the continued refinement in the application of the model by the use of additional data as it becomes available.
 
 #### (B) On-location testing
 
@@ -242,7 +214,7 @@ For the purposes of this section:
 
 &emsp;The term "television network" means a television network in the United States which offers an interconnected program service on a regular basis for 15 or more hours per week to at least 25 affiliated broadcast stations in 10 or more States.
 
-(June 19, 1934, ch. 652, title III, §339, as added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1008(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–534; amended Pub. L. 106–553, §1(a)(2) \[title X, §1008\], Dec. 21, 2000, 114 Stat. 2762, 2762A–140; Pub. L. 108–447, div. J, title IX \[title II, §§204, 209\], Dec. 8, 2004, 118 Stat. 3416, 3429; Pub. L. 111–175, title II, §204(b), May 27, 2010, 124 Stat. 1246.)
+(June 19, 1934, ch. 652, title III, §339, as added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1008(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–534; amended Pub. L. 106–553, §1(a)(2) \[title X, §1001, formerly §1008\], Dec. 21, 2000, 114 Stat. 2762, 2762A–140, renumbered §1001, Pub. L. 115–334, title VI, §6603(3), Dec. 20, 2018, 132 Stat. 4777; Pub. L. 108–447, div. J, title IX \[title II, §§204, 209\], Dec. 8, 2004, 118 Stat. 3416, 3429; Pub. L. 111–175, title II, §204(b), May 27, 2010, 124 Stat. 1246; Pub. L. 115–141, div. P, title IV, §402(i)(7), Mar. 23, 2018, 132 Stat. 1090.)
 
 #### References in Text
 
@@ -251,6 +223,8 @@ The date of enactment of the Satellite Television Extension and Localism Act of 
 Section 119(a)(12) of title 17, referred to in subsec. (a)(2)(G), was redesignated as section 119(a)(11) of title 17 by Pub. L. 111–175, title I, §102(h)(1)(B), May 27, 2010, 124 Stat. 1224.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–141 struck out par. (1) which related to study of digital strength testing procedures.
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–175, §204(b)(1)(A), which directed amendment of subpar. (B) by striking out " 'Such two network stations' and all that follows through 'more than two network stations.' ", was executed by striking out concluding provisions which read "Such two network stations may be comprised of both the analog signal and digital signal of not more than two network stations.", to reflect the probable intent of Congress.
 
@@ -292,7 +266,7 @@ Subsec. (a)(2)(D)(xi). Pub. L. 111–175, §204(b)(1)(B)(v)(II), struck out cl. 
 
 Subsec. (a)(2)(E). Pub. L. 111–175, §204(b)(1)(B)(vi), substituted "distant signal" for "distant analog signal or distant digital signal (within the meaning of subparagraph (A), (B), or (D))".
 
-Subsec. (c)(3). Pub. L. 111–175, §204(b)(2)(A), amended par. (3) generally. Prior to amendment, text read as follows: "Within 180 days after November 29, 1999, the Commission shall take all actions necessary, including any reconsideration, to develop and prescribe by rule a point-to-point predictive model for reliably and presumptively determining the ability of individual locations to receive signals in accordance with the signal intensity standard in effect under section 119(d)(10)(A) of title 17. In prescribing such model, the Commission shall rely on the Individual Location Longley-Rice model set forth by the Federal Communications Commission in Docket No. 98–201 and ensure that such model takes into account terrain, building structures, and other land cover variations. The Commission shallestablish procedures for the continued refinement in the application of the model by the use of additional data as it becomes available."
+Subsec. (c)(3). Pub. L. 111–175, §204(b)(2)(A), amended par. (3) generally. Prior to amendment, text read as follows: "Within 180 days after November 29, 1999, the Commission shall take all actions necessary, including any reconsideration, to develop and prescribe by rule a point-to-point predictive model for reliably and presumptively determining the ability of individual locations to receive signals in accordance with the signal intensity standard in effect under section 119(d)(10)(A) of title 17. In prescribing such model, the Commission shall rely on the Individual Location Longley-Rice model set forth by the Federal Communications Commission in Docket No. 98–201 and ensure that such model takes into account terrain, building structures, and other land cover variations. The Commission shall establish procedures for the continued refinement in the application of the model by the use of additional data as it becomes available."
 
 Subsec. (c)(4)(A). Pub. L. 111–175, §204(b)(2)(B), amended subpar. (A) generally. Prior to amendment, text read as follows: "If a subscriber's request for a waiver under paragraph (2) is rejected and the subscriber submits to the subscriber's satellite carrier a request for a test verifying the subscriber's inability to receive a signal that meets the signal intensity standard in effect under section 119(d)(10)(A) of title 17, the satellite carrier and the network station or stations asserting that the retransmission is prohibited with respect to that subscriber shall select a qualified and independent person to conduct a test in accordance with section 73.686(d) of its regulations (47 CFR 73.686(d)), or any successor regulation. Such test shall be conducted within 30 days after the date the subscriber submits a request for the test. If the written findings and conclusions of a test conducted in accordance with such section (or any successor regulation) demonstrate that the subscriber does not receive a signal that meets or exceeds the signal intensity standard in effect under section 119(d)(10)(A) of title 17, the subscriber shall not be denied the retransmission of a signal of a network station under section 119 of title 17."
 

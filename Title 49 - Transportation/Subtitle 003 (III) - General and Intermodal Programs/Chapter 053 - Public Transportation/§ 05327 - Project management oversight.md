@@ -122,7 +122,7 @@ This amends 49:5327(c) to correct an erroneous cross-reference.
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–94, §3012(1), which directed substitution of section "5338(f)" for "section 5338(i)", was executed by substituting "section 5338(f)" for "section 5338(i)", to reflect the probable intent of Congress.
 
-Subsec. (d)(1). Pub. L. 114–94, §3012(2)(A)(i), which directed substitution of section 5338(f) for "section5338(i)" without placing quotation marks around the language to be substituted, was executed by substituting "section 5338(f)" for "section 5338(i)", to reflect the probable intent of Congress.
+Subsec. (d)(1). Pub. L. 114–94, §3012(2)(A)(i), which directed substitution of section 5338(f) for "section 5338(i)" without placing quotation marks around the language to be substituted, was executed by substituting "section 5338(f)" for "section 5338(i)", to reflect the probable intent of Congress.
 
 Subsec. (d)(2), (3). Pub. L. 114–94, §3012(2)(A)(ii), (B), added pars. (2) and (3) and struck out former par. (2), which read as follows: "a requirement that oversight begin during the project development phase of a project, unless the Secretary finds it more appropriate to begin the oversight during another phase of the project, to maximize the transportation benefits and cost savings associated with project management oversight."
 
@@ -140,7 +140,7 @@ Subsec. (d)(2). Pub. L. 112–141, §20020(5)(B), substituted "project developme
 
 Subsec. (e). Pub. L. 112–141, §20020(4), redesignated subsec. (e) as (d).
 
-Subsec. (f). Pub. L. 112–141, §20020(2), struck out subsec. (f). Text read as follows: "A recipient of financial assistance for a project under this chapter with an estimated total cost of $1,000,000,000 or more shall submit to the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project."
+Subsec. (f). Pub. L. 112–141, §20020(2), struck out subsec. (f). Text read as follows: "A recipient of financial assistance for a project under this chapter with an estimated total cost of $1,000,000,000 or more shall submitto the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project."
 
 <b>2005</b>—Subsec. (a)(13). Pub. L. 109–59, §3026(a), added par. (13).
 

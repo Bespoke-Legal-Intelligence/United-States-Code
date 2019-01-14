@@ -18,9 +18,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the pathogenicity of the agent or the toxicity of the toxin and the methods by which the agent or toxin is transferred to animals or plants;
 
-&emsp;&emsp;&emsp;&emsp;(III) the availability and effectiveness of pharmacotherapies and prophylaxis to treat and prevent any illness caused by the agent or toxin; and
+&emsp;&emsp;&emsp;&emsp;(III) the availability and effectiveness of pharmacotherapies and prophylaxis to treat and prevent any illness caused by the agent or toxin;
 
-&emsp;&emsp;&emsp;&emsp;(IV) any other criteria that the Secretary considers appropriate to protect animal or plant health, or animal or plant products; and
+&emsp;&emsp;&emsp;&emsp;(IV)(aa) whether such inclusion would have a substantial negative impact on the research and development of solutions for the animal or plant disease caused by the agent or toxin; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) whether the negative impact described in item (aa) would substantially outweigh the risk posed by the agent or toxin to animal or plant health if it is not included on the list; and
+
+&emsp;&emsp;&emsp;&emsp;(V) any other criteria that the Secretary considers appropriate to protect animal or plant health, or animal or plant products; and
 
 &emsp;&emsp;&emsp;(ii) consult with appropriate Federal departments and agencies and with scientific experts representing appropriate professional groups.
 
@@ -56,7 +60,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (2) Identification; database
 
-&emsp;Regulations under subsections (b) and (c) shall require that registration include (if available to the person registering) information regarding the characterization of listed agents and toxins to facilitate their identification, including their source. The Secretary shall maintain a national database that includes the names and locations of registered persons, the listed agents and toxins such persons are possessing, using, or transferring, and information regarding the characterization of such agents and toxins.
+&emsp;Regulations under subsections (b) and (c) shall require that registration include (if available to the person registering) information regarding the characterization of listedagents and toxins to facilitate their identification, including their source. The Secretary shall maintain a national database that includes the names and locations of registered persons, the listed agents and toxins such persons are possessing, using, or transferring, and information regarding the characterization of such agents and toxins.
 
 #### (e) Safeguard and security requirements for registered persons
 
@@ -70,7 +74,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 &emsp;&emsp;(A) provide access to listed agents and toxins to only those individuals whom the registered person involved determines have a legitimate need to handle or use such agents and toxins;
 
-&emsp;&emsp;(B) submit the names and other identifying information for such individuals to theSecretary and the Attorney General, promptly after first determining that the individuals need access under subparagraph (A), and periodically thereafter while the individuals have such access, not less frequently than once every five years; and
+&emsp;&emsp;(B) submit the names and other identifying information for such individuals to the Secretary and the Attorney General, promptly after first determining that the individuals need access under subparagraph (A), and periodically thereafter while the individuals have such access, not less frequently than once every five years; and
 
 &emsp;&emsp;(C)(i) in the case of listed agents and toxins that are not overlap agents and toxins (as defined in subsection (g)(1)(A)(ii)), limit or deny access to such agents and toxins by individuals whom the Attorney General has identified as within any category under paragraph (3)(B), if limiting or denying such access by the individuals involved is determined appropriate by the Secretary, in consultation with the Attorney General; and
 
@@ -206,7 +210,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Regulations under subsections (b) and (c) shall exempt products that are, bear, orcontain overlap agents or toxins and are cleared, approved, licensed, or registered under any of the Acts specified in clause (ii), unless the Secretary by order determines that applying additional regulation under subsection (b) or (c) to a specific product is necessary to protect animal or plant health, or animal or plant products.
+&emsp;&emsp;&emsp;Regulations under subsections (b) and (c) shall exempt products that are, bear, or contain overlap agents or toxins and are cleared, approved, licensed, or registered under any of the Acts specified in clause (ii), unless the Secretary by order determines that applying additional regulation under subsection (b) or (c) to a specific product is necessary to protect animal or plant health, or animal or plant products.
 
 #### (ii) Relevant laws
 
@@ -310,7 +314,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (j) Notification in event of release
 
-Regulations under subsections (b) and (c) shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to animal or plant health, or animal or plant products, the Secretary shall take appropriate action to notify relevant Federal, State, and local authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin, the Secretary shall promptly notify the Secretary of Health and Human Services upon notification by the registered person.
+Regulations under subsections (b) and (c) shall require the prompt notification of the Secretaryby a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to animal or plant health, or animal or plant products, the Secretary shall take appropriate action to notify relevant Federal, State, and local authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin, the Secretary shall promptly notify the Secretary of Health and Human Services upon notification by the registered person.
 
 #### (k) Reports
 
@@ -338,7 +342,7 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2007, in addition to other funds that may be available.
 
-(Pub. L. 107–188, title II, §212, June 12, 2002, 116 Stat. 647; Pub. L. 107–296, title XVII, §1709(b), Nov. 25, 2002, 116 Stat. 2319.)
+(Pub. L. 107–188, title II, §212, June 12, 2002, 116 Stat. 647; Pub. L. 107–296, title XVII, §1709(b), Nov. 25, 2002, 116 Stat. 2319; Pub. L. 115–334, title XII, §12204, Dec. 20, 2018, 132 Stat. 4949.)
 
 #### References in Text
 
@@ -353,6 +357,8 @@ The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. 
 The Plant Protection Act, referred to in subsec. (i)(2), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, as amended, which is classified principally to chapter 104 (§7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(B)(i)(IV), (V). Pub. L. 115–334 added subcl. (IV) and redesignated former subcl. (IV) as (V).
 
 <b>2002</b>—Subsec. (e)(1). Pub. L. 107–296 substituted "collaboration with the Secretary of Homeland Security and" for "consultation with".
 
@@ -386,7 +392,7 @@ Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penal
 
 "(d)
 
-Transitional Provision Regarding Current Research and Education.—The interim final rule under subsection (c) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 212(a)(1) \[7 U.S.C. 8401(a)(1)\] and that were underway as of the effective date of such rule."
+Transitional Provision Regarding Current Research and Education.—The interim final ruleunder subsection (c) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 212(a)(1) \[7 U.S.C. 8401(a)(1)\] and that were underway as of the effective date of such rule."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

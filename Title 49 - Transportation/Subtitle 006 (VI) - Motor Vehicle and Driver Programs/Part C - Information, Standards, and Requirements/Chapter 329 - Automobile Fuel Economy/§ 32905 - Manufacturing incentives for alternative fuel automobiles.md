@@ -38,7 +38,7 @@ In general.—At the request of the manufacturer, the Administrator may measure 
 
 &emsp;&emsp;(A) the percentage utilization of the model on gasoline or diesel fuel, as determined by a formula based on the model's alternative fuel range, divided by the fuel economy measured under section 32904(c); and
 
-&emsp;&emsp;(B) the percentage utilization of the model on electricity, as determined by a formula based on the model's alternative fuel range,divided by the fuel economy measured under section 32904(a)(2).
+&emsp;&emsp;(B) the percentage utilization of the model on electricity, as determined by a formula based on the model's alternative fuel range, divided by the fuel economy measured under section 32904(a)(2).
 
 &emsp;(2)
 
@@ -50,7 +50,7 @@ Fuel Economy Calculations.—The Administrator shall calculate the manufacturer'
 
 (g)
 
-Fuel Economy Incentive Requirements.—In order for any model of dual fueled automobile to be eligible to receive the fuel economy incentives included in section 32906(a) and (b), a label shall be attached to the fuel compartment of each dual fueled automobile of that model, notifying that the vehicle can be operated on an alternative fuel and on gasoline or diesel, with the form of alternative fuel stated on the notice. This requirement applies to dual fueled automobiles manufactured on or after September 1, 2006.
+Fuel Economy Incentive Requirements.—In order for any model of dual fueled automobile to be eligible to receive the fuel economy incentives included in section 32906(a) and (b), a label shall be attached to the fuel compartment of each dual fueled automobile of that model, notifying that the vehicle can be operated on an alternative fuel and on gasoline or diesel, with the form of alternative fuel stated on the notice.This requirement applies to dual fueled automobiles manufactured on or after September 1, 2006.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1065; Pub. L. 104–287, §5(63), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 109–58, title VII, §§759, 772(a), Aug. 8, 2005, 119 Stat. 833, 834; Pub. L. 110–140, title I, §109(b), (c), Dec. 19, 2007, 121 Stat. 1506; Pub. L. 113–291, div. A, title III, §318(c), Dec. 19, 2014, 128 Stat. 3341.)
 

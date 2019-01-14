@@ -32,7 +32,7 @@ Section 280b–5, act July 1, 1944, ch. 373, title III, §394, formerly §395, a
 
 Section 280b–6, act July 1, 1944, ch. 373, title III, §396, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1063, was redesignated as subsecs. (b) and (c) of section 280b–5 of this title by Pub. L. 91–212, §10(c)(2), Mar. 13, 1970, 84 Stat. 66.
 
-Section 280b–7, act July 1, 1944, ch. 373, title III, §395, formerly §397, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1063; renumbered §396 and amended Mar. 13, 1970, Pub. L. 91–212, §§2(e), 6(a)(1), (2), 10(c)(3), (d)(2)(A),84 Stat. 63, 64, 67; June 18, 1973, Pub. L. 93–45, title I, §107(d), 87 Stat. 92; renumbered §395 and amended July 23, 1974, Pub. L. 93–353, title II, §§203(c), 204, 88 Stat. 372, 373, related to grants for establishing, expanding, and improving basic medical library or related resources.
+Section 280b–7, act July 1, 1944, ch. 373, title III, §395, formerly §397, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1063; renumbered §396 and amended Mar. 13, 1970, Pub. L. 91–212, §§2(e), 6(a)(1), (2), 10(c)(3), (d)(2)(A), 84 Stat. 63, 64, 67; June 18, 1973, Pub. L. 93–45, title I, §107(d), 87 Stat. 92; renumbered §395 and amended July 23, 1974, Pub. L. 93–353, title II, §§203(c), 204, 88 Stat. 372, 373, related to grants for establishing, expanding, and improving basic medical library or related resources.
 
 Section 280b–8, act July 1, 1944, ch. 373, title III, §396, formerly §398, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1065; renumbered §397 and amended Mar. 13, 1970, Pub. L. 91–212, §§2(f), 7, 10(c)(3), (d)(2)(A), 84 Stat. 63, 65, 67; June 18, 1973, Pub. L. 93–45, title I, §107(e), 87 Stat. 92; renumbered §396 and amended July 23, 1974, Pub. L. 93–353, title II, §§202(e), (f), 203(d), 204, 88 Stat. 372, 373, related to grants for establishment of regional medical libraries.
 
@@ -42,7 +42,7 @@ Section 280b–10, act July 1, 1944, ch. 373, title III, §398, formerly §399a,
 
 Section 280b–11, act July 1, 1944, ch. 373, title III, §399, formerly §399b, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1066; renumbered §399a and amended Mar. 13, 1970, Pub. L. 91–212, §10(c)(3), (d)(2)(A), 84 Stat. 67; renumbered §399, July 23, 1974, Pub. L. 93–353, title II, §204, 88 Stat. 373; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, related to the maintenance of records by recipients of grants and audits thereof by the Secretary of Health and Human Services and the Comptroller General of the United States.
 
-A prior section 280b–12, act July 1, 1944, ch. 373, title III, §399b, as added Mar. 13, 1970, Pub. L. 91–212, §9, 84 Stat. 65, related to transfer of funds, prior to repeal by Pub. L. 93–353, title II, §204, July 23, 1974, 88 Stat. 373, applicable with respect to fiscal years beginning after June 30, 1974.
+A prior section 280b–12, act July 1, 1944, ch. 373, title III, §399b, as added Mar. 13, 1970, Pub. L. 91–212, §9, 84 Stat. 65, related to transfer of funds, prior to repeal by Pub. L. 93–353, title II, §204, July 23, 1974, 88 Stat. 373,applicable with respect to fiscal years beginning after June 30, 1974.
 
 #### Amendments
 

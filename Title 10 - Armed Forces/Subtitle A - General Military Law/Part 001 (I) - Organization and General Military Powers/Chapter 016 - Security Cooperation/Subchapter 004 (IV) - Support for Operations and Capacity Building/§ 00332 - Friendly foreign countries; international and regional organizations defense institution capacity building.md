@@ -14,7 +14,7 @@ Training of Personnel of Foreign Ministries With Security Missions.—
 
 &emsp;(1)
 
-In general.—The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to assign civilian employees of the Department of Defense and members of the armed forces as advisors or trainers to provide training and associated training support services to personnel of foreign ministries of defense (or ministries with security force oversight) or regional organizations with security missions—
+In general.—The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to provide advisors or trainers to provide training and associated training support services to personnel of foreign ministries of defense (or ministries with security force oversight) or regional organizations with security missions—
 
 &emsp;&emsp;(A) for the purpose of—
 
@@ -34,7 +34,7 @@ Notice to congress.—Each fiscal year quarter, the Secretary of Defense shall s
 
 &emsp;&emsp;(A) A list of activities under the program.
 
-&emsp;&emsp;(B) A list of any organization described in paragraph (1) to which the Secretary assigned advisors or trainers under the program, including the number of such advisors or trainers so assigned, the duration of each assignment, a brief description of the activities of each assigned advisor or trainer, and a statement of the cost of each assignment.
+&emsp;&emsp;(B) A list of any organization described in paragraph (1) to which the Secretary provided advisors or trainers under the program, including the number of such advisors or trainers so provided, the duration of each provision of such an advisor or trainer, a brief description of the activities of each advisor or trainer so provided, and a statement of the cost of each provision of such an advisor or trainer.
 
 &emsp;&emsp;(C) A comprehensive justification of any activities conducted pursuant to paragraph (1)(B).
 
@@ -50,7 +50,7 @@ Congressional Notice.—Not later than 15 days before assigning a civilian emplo
 
 &emsp;(4) Any other information relating to the assignment that the Secretary of Defense considers appropriate.
 
-(Added and amended Pub. L. 114–328, div. A, title XII, §1241(c)(1), (2), Dec. 23, 2016, 130 Stat. 2500; Pub. L. 115–91, div. A, title XII, §1204(a), Dec. 12, 2017, 131 Stat. 1642.)
+(Added and amended Pub. L. 114–328, div. A, title XII, §1241(c)(1), (2), Dec. 23, 2016, 130 Stat. 2500; Pub. L. 115–91, div. A, title XII, §1204(a), Dec. 12, 2017, 131 Stat. 1642; Pub. L. 115–232, div. A, title XII, §1202, Aug. 13, 2018, 132 Stat. 2016.)
 
 #### Codification
 
@@ -61,6 +61,12 @@ Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a)
 A prior section 332 was renumbered section 252 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–232, §1202(1), substituted "provide advisors or trainers" for "assign civilian employees of the Department of Defense and members of the armed forces as advisors or trainers".
+
+Subsec. (b)(2)(B). Pub. L. 115–232, §1202(2)(C), which directed substitution of "each provision of such an advisor or trainer" for "each assignment", was executed by making the substitution in both places it appeared, to reflect the probable intent of Congress.
+
+Pub. L. 115–232, §1202(2)(A), (B), substituted "Secretary provided" for "Secretary assigned", "number of such advisors or trainers so provided" for "number of such advisors or trainers so assigned", and "each advisor or trainer so provided" for "each assigned advisor or trainer".
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–91, §1204(a)(1), inserted "and members of the armed forces" after "civilian employees of the Department of Defense" in introductory provisions.
 

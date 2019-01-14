@@ -10,5 +10,5 @@
 
 #### References in Text
 
-The Cable Communications Policy Act of 1984, referred to in subsec. (c), is Pub. L. 98–549, Oct. 30, 1984,98 Stat. 2779, which is classified principally to subchapter V–A (§521 et seq.) of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 609 of Title 47 and Tables.
+The Cable Communications Policy Act of 1984, referred to in subsec. (c), is Pub. L. 98–549, Oct. 30, 1984, 98 Stat. 2779, which is classified principally to subchapter V–A (§521 et seq.) of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 609 of Title 47 and Tables.
 

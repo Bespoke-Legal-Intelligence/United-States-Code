@@ -2,7 +2,7 @@
 
 (a)
 
-Decisions Made Before October 1, 1988.—For each eligible place for which a decision was made before October 1, 1988, under section 419 of the Federal Aviation Act of 1958, establishingthe level of essential air transportation, the level of basic essential air service for that place shall be the level established by the Secretary of Transportation for that place by not later than December 29, 1988.
+Decisions Made Before October 1, 1988.—For each eligible place for which a decision was made before October 1, 1988, under section 419 of the Federal Aviation Act of 1958, establishing the level of essential air transportation, the level of basic essential air service for that place shall be the level established by the Secretary of Transportation for that place by not later than December 29, 1988.
 
 (b)
 
@@ -42,7 +42,7 @@ Notice to Communities Prior to Termination of Eligibility.—
 
 &emsp;(1)
 
-In general.—The Secretary shall notify each community receiving basic essential air service for which compensation is being paid under this subchapter on or before the 45th day before issuing any final decision to end the payment of such compensation due to a determination by the Secretary that providing such service requires a rate of subsidy per passenger in excess of the subsidy cap.
+In general.—The Secretary shall notify each community receiving basic essential airservice for which compensation is being paid under this subchapter on or before the 45th day before issuing any final decision to end the payment of such compensation due to a determination by the Secretary that providing such service requires a rate of subsidy per passenger in excess of the subsidy cap.
 
 &emsp;(2)
 
@@ -148,7 +148,11 @@ Subsecs. (g), (h). Pub. L. 112–95, §425, added subsecs. (g) and (h).
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Seasonal Service
+
+Pub. L. 115–254, div. B, title IV, §451(b), Oct. 5, 2018, 132 Stat. 3347, provided that: "The Secretary of Transportation may consider the flexibility of current operational dates and airport accessibility to meet local community needs when issuing requests for proposal of essential air service at seasonal airports."
 
 #### Effect on Certain Orders
 

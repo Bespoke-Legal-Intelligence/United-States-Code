@@ -30,7 +30,7 @@ The Congress finds that—
 
 &emsp;(9) unless alternate sources of supply can be found, the unavailability of raw materials and component parts for medical devices will lead to unavailability of lifesaving and life-enhancing medical devices;
 
-&emsp;(10) because other suppliers of the raw materials and component parts in foreign nations are refusing to sell raw materials or component parts for use in manufacturing certain medical devices in the United States, the prospects for development of new sources of supply for the full range of threatened raw materialsand component parts for medical devices are remote;
+&emsp;(10) because other suppliers of the raw materials and component parts in foreign nations are refusing to sell raw materials or component parts for use in manufacturing certain medical devices in the United States, the prospects for development of new sources of supply for the full range of threatened raw materials and component parts for medical devices are remote;
 
 &emsp;(11) it is unlikely that the small market for such raw materials and component parts in the United States could support the large investment needed to develop new suppliers of such raw materials and component parts;
 
@@ -42,7 +42,7 @@ The Congress finds that—
 
 &emsp;&emsp;(B) to warn consumers concerning the safety and effectiveness of a medical device;
 
-&emsp;(14) because medical devices and the raw materials and component parts used in their manufacture move in interstate commerce, a shortage of such raw materials and component parts affects interstate commerce;
+&emsp;(14) because medical devices and the raw materials and component parts used in theirmanufacture move in interstate commerce, a shortage of such raw materials and component parts affects interstate commerce;
 
 &emsp;(15) in order to safeguard the availability of a wide variety of lifesaving and life-enhancing medical devices, immediate action is needed—
 

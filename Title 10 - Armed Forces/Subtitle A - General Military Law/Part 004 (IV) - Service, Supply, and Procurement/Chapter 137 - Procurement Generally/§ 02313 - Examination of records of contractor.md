@@ -172,7 +172,7 @@ Review required.—The Secretary of Defense shall review the oversight and audit
 
 &emsp;"(2)
 
-Recommendations.—The Secretary shall ensure streamlined oversight reviews and avoidance of duplicative audits and make recommendations in thereport required under paragraph (3) for any necessary changes in law.
+Recommendations.—The Secretary shall ensure streamlined oversight reviews and avoidance of duplicative audits and make recommendations in the report required under paragraph (3) for any necessary changes in law.
 
 &emsp;"(3)
 
@@ -260,7 +260,7 @@ Flowdown.—A clause described in paragraph (2) shall also be required in any su
 
 "(b)
 
-Reports.—Not later than March 1 of each of 2013, 2014, and 2015, the Secretary shall submit to the congressional defense committees \[Committees on ArmedServices and Appropriations of the Senate and the House of Representatives\] a report on the use of the authority provided by this section in the preceding calendar year. Each report shall identify, for the calendar year covered by such report, each instance in which the Department of Defense exercised the authority provided under this section to examine records, explain the basis for the action taken, and summarize the results of any examination of records so undertaken,\[.\] Any report under this subsection may be submitted in classified form.
+Reports.—Not later than March 1 of each of 2013, 2014, and 2015, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of the authority provided by this section in the preceding calendar year. Each report shall identify, for the calendar year covered by such report, each instance in which the Department of Defense exercised the authority provided under this section to examine records, explain the basis for the action taken, and summarize the results of any examination of records so undertaken,\[.\] Any report under this subsection may be submitted in classified form.
 
 "(c)
 

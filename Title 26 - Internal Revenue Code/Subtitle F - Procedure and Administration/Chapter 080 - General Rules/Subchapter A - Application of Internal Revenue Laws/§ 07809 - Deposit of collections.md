@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as provided in subsections (b) and (c) and in sections 6306, 7651, 7652, 7654, and 7810, thegross amount of all taxes and revenues received under the provisions of this title, and collections of whatever nature received or collected by authority of any internal revenue law, shall be paid daily into the Treasury of the United States under instructions of the Secretary as internal revenue collections, by the officer or employee receiving or collecting the same, without any abatement or deduction on account of salary, compensation, fees, costs, charges, expenses, or claims of any description. A certificate of such payment, stating the name of the depositor and the specific account on which the deposit was made, signed by the Treasurer of the United States, designated depositary, or proper officer of a deposit bank, shall be transmitted to the Secretary.
+Except as provided in subsections (b) and (c) and in sections 6306, 7651, 7652, 7654, and 7810, the gross amount of all taxes and revenues received under the provisions of this title, and collections of whatever nature received or collected by authority of any internal revenue law, shall be paid daily into the Treasury of the UnitedStates under instructions of the Secretary as internal revenue collections, by the officer or employee receiving or collecting the same, without any abatement or deduction on account of salary, compensation, fees, costs, charges, expenses, or claims of any description. A certificate of such payment, stating the name of the depositor and the specific account on which the deposit was made, signed by the Treasurer of the United States, designated depositary, or proper officer of a deposit bank, shall be transmitted to the Secretary.
 
 #### (b) Deposit funds
 
@@ -30,7 +30,7 @@ In accordance with instructions of the Secretary, there shall be deposited with 
 
 Moneys received in payment for—
 
-&emsp;(1) Work <sup>1</sup> or services performed pursuant to section 6103(p) (relating to furnishing of copies of returns or of return information), and section 6108(b) (relating to special statistical studies and compilations);
+&emsp;(1) work or services performed pursuant to section 6103(p) (relating to furnishing of copies of returns or of return information), and section 6108(b) (relating to special statistical studies and compilations);
 
 &emsp;(2) work or services performed (including materials supplied) pursuant to section 7516 (relating to the supplying of training and training aids on request);
 
@@ -50,9 +50,11 @@ Moneys received in payment for—
 
 &emsp;If any amounts remain in such account after payment of any qualified costs incurred under section 7624, such amounts shall be withdrawn from such account and deposited in the Treasury of the United States as internal revenue collections.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 918; Pub. L. 87–870, §3(b), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 89–719, title I, §112(b), Nov. 2, 1966, 80 Stat. 1146; Pub. L. 94–455, title XII, §1202(h)(5), title XIX, §§1906(a)(59), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1688, 1833, 1834; Pub. L. 94–528, §2(d), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 100–690, title VII, §7602(b), Nov. 18, 1988, 102 Stat. 4507; Pub. L. 108–357, title VIII, §881(a)(2)(A), Oct. 22, 2004, 118 Stat. 1626.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 918; Pub. L. 87–870, §3(b), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 89–719, title I, §112(b), Nov. 2, 1966, 80 Stat. 1146; Pub. L. 94–455, title XII, §1202(h)(5), title XIX, §§1906(a)(59), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1688, 1833, 1834; Pub. L. 94–528, §2(d), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 100–690, title VII, §7602(b), Nov. 18, 1988, 102 Stat. 4507; Pub. L. 108–357, title VIII, §881(a)(2)(A), Oct. 22, 2004, 118 Stat. 1626; Pub. L. 115–141, div. U, title IV, §401(a)(334), Mar. 23, 2018, 132 Stat. 1200.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–141 substituted "work" for "Work".
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–357 inserted "6306," before "7651".
 
@@ -74,11 +76,11 @@ Subsec. (c). Pub. L. 87–870, §3(b)(2), added subsec. (c).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 applicable to information first provided more than 90 days after Nov. 18, 1988,see section 7602(e) of Pub. L. 100–690, set out as a note under section 6103 of this title.
+Amendment by Pub. L. 100–690 applicable to information first provided more than 90 days after Nov. 18, 1988, see section 7602(e) of Pub. L. 100–690, set out as a note under section 6103 of this title.
 
 #### Effective Date of 1976 Amendments
 
-Pub. L. 94–528, §2(e), Oct. 17, 1976, 90 Stat. 2484, provided that: "The amendments made by this section \[amending this section and provisions set out as notes under sections 6334, 6851, and 7609 of this title\] shall take effect on the date of the enactment of the Tax Reform Act of 1976 \[Oct. 4, 1976\]."
+Pub. L. 94–528, §2(e), Oct. 17, 1976, 90 Stat. 2484, provided that: "The amendments made by this section\[amending this section and provisions set out as notes under sections 6334, 6851, and 7609 of this title\] shall take effect on the date of the enactment of the Tax Reform Act of 1976 \[Oct. 4, 1976\]."
 
 Amendment by section 1202(h)(5) of Pub. L. 94–455 effective Jan. 1, 1977, see section 1202(i) of Pub. L. 94–455, set out as a note under section 6103 of this title.
 
@@ -89,6 +91,4 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 #### Authorization of Appropriations
 
 Pub. L. 100–690, title VII, §7602(f), Nov. 18, 1988, 102 Stat. 4508, provided that: "There is authorized to be appropriated from the account referred to in section 7809(d) of the Internal Revenue Code of 1986 such sums as may be necessary to make the payments authorized by section 7624 of such Code."
-
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

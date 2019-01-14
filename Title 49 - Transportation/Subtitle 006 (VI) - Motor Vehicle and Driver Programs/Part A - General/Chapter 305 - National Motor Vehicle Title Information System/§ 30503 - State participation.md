@@ -2,7 +2,7 @@
 
 (a)
 
-State Information.—Each State shall make titling information maintained by that State available for use in operating the National Motor Vehicle Title Information System established or designated under section 30502 of this title.
+State Information.—Each State shall make titling information maintained by that State available for use in operating the NationalMotor Vehicle Title Information System established or designated under section 30502 of this title.
 
 (b)
 
@@ -84,7 +84,7 @@ Subsec. (c)(2). Pub. L. 104–152, §6(a), amended par. (2) generally. Prior to 
 
 &emsp;"(A) the grant to a State is not more than the lesser of—
 
-&emsp;&emsp;"(i) 25 percent of the cost of making titling information maintained by that State available to theoperator as determined by the Secretary under paragraph (1)(B) of this subsection; or
+&emsp;&emsp;"(i) 25 percent of the cost of making titling information maintained by that State available to the operator as determined by the Secretary under paragraph (1)(B) of this subsection; or
 
 &emsp;&emsp;"(ii) $300,000; and
 

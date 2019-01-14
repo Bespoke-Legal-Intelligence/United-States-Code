@@ -28,9 +28,21 @@ In this section:
 
 &emsp;The term "eligible technology" means, as determined by the Secretary—
 
-&emsp;&emsp;(A) a technology that is being adopted in a viable commercial-scale operation of a biorefinery that produces an advanced biofuel; and
+&emsp;&emsp;(A) a technology that is being adopted in a viable commercial-scale operation of a biorefinery that produces any 1 or more, or a combination, of—
 
-&emsp;&emsp;(B) a technology not described in subparagraph (A) that has been demonstrated to have technical and economic potential for commercial application in a biorefinery that produces an advanced biofuel.
+&emsp;&emsp;&emsp;(i) an advanced biofuel;
+
+&emsp;&emsp;&emsp;(ii) a renewable chemical; or
+
+&emsp;&emsp;&emsp;(iii) a biobased product; and
+
+&emsp;&emsp;(B) a technology not described in subparagraph (A) that has been demonstrated to have technical and economic potential for commercial application in a biorefinery that produces any 1 or more, or a combination, of—
+
+&emsp;&emsp;&emsp;(i) an advanced biofuel;
+
+&emsp;&emsp;&emsp;(ii) a renewable chemical; or
+
+&emsp;&emsp;&emsp;(iii) a biobased product.
 
 #### (c) Assistance
 
@@ -108,7 +120,7 @@ In carrying out this section, the Secretary shall consult with the Secretary of 
 
 #### (1) In general
 
-&emsp;As a condition of receiving a grant or loan guarantee under this section, an eligible entity shall ensure that all laborers and mechanics employed by contractors or subcontractors in the performance of construction work financed, in whole or in part, with the grant or loan guarantee, as the case may be, shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141 through 3144, 3146, and 3147 of title 40.
+&emsp;As a condition of receiving a grant or loan guarantee under this section, an eligible entity shall ensure that all laborers and mechanics employed by contractors or subcontractorsin the performance of construction work financed, in whole or in part, with the grant or loan guarantee, as the case may be, shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141 through 3144, 3146, and 3147 of title 40.
 
 #### (2) Authority and functions
 
@@ -122,9 +134,13 @@ In carrying out this section, the Secretary shall consult with the Secretary of 
 
 &emsp;&emsp;Subject to subparagraph (B), of the funds of the Commodity Credit Corporation, the Secretary shall use for the cost of loan guarantees under this section, to remain available until expended—
 
-&emsp;&emsp;&emsp;(i) $100,000,000 for fiscal year 2014; and
+&emsp;&emsp;&emsp;(i) $100,000,000 for fiscal year 2014;
 
-&emsp;&emsp;&emsp;(ii) $50,000,000 for each of fiscal years 2015 and 2016.
+&emsp;&emsp;&emsp;(ii) $50,000,000 for each of fiscal years 2015 and 2016;
+
+&emsp;&emsp;&emsp;(iii) $50,000,000 for fiscal year 2019; and
+
+&emsp;&emsp;&emsp;(iv) $25,000,000 for fiscal year 2020.
 
 #### (B) Biobased product manufacturing
 
@@ -132,9 +148,9 @@ In carrying out this section, the Secretary shall consult with the Secretary of 
 
 #### (2) Discretionary funding
 
-&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2018.
+&emsp;In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 107–171, title IX, §9003, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1310, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2072; amended Pub. L. 112–240, title VII, §701(f)(2), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9003, Feb. 7, 2014, 128 Stat. 928.)
+(Pub. L. 107–171, title IX, §9003, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1310, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2072; amended Pub. L. 112–240, title VII, §701(f)(2), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9003, Feb. 7, 2014, 128 Stat. 928; Pub. L. 115–334, title IX, §9003, Dec. 20, 2018, 132 Stat. 4884.)
 
 #### References in Text
 
@@ -149,6 +165,14 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8103, Pub. L. 107–171, title IX, §9003, May 13, 2002, 116 Stat. 478, related to biorefinery development grants, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(3)(A). Pub. L. 115–334, §9003(1)(A), substituted "produces any 1 or more, or a combination, of—" and cls. (i) to (iii) for "produces an advanced biofuel; and".
+
+Subsec. (b)(3)(B). Pub. L. 115–334, §9003(1)(B), substituted "produces any 1 or more, or a combination, of—" and cls. (i) to (iii) for "produces an advanced biofuel."
+
+Subsec. (g)(1)(A)(iii), (iv). Pub. L. 115–334, §9003(2)(A), added cls. (iii) and (iv).
+
+Subsec. (g)(2). Pub. L. 115–334, §9003(2)(B), substituted "2023" for "2018".
 
 <b>2014</b>—Pub. L. 113–79, §9003(a)(1), inserted ", renewable chemical, and biobased product manufacturing" after "Biorefinery" in section catchline.
 

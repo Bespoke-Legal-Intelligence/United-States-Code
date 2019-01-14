@@ -66,7 +66,7 @@ A political subdivision shall not participate in more than one partnership descr
 
 #### (1) Local response capabilities
 
-&emsp;An eligible entity shall, to the extent practicable, ensure that activities carried outunder an award under subsection (a) are coordinated with activities of relevant local Metropolitan Medical Response Systems, local Medical Reserve Corps, the local Cities Readiness Initiative, and local emergency plans.
+&emsp;An eligible entity shall, to the extent practicable, ensure that activities carried out under an award under subsection (a) are coordinated with activities of relevant local Metropolitan Medical Response Systems, local Medical Reserve Corps, the local Cities Readiness Initiative, and local emergency plans.
 
 #### (2) National collaboration
 
@@ -130,7 +130,7 @@ A political subdivision shall not participate in more than one partnership descr
 
 Subsec. (b)(1)(A)(ii). Pub. L. 113–5, §203(c)(2), substituted "centers, community health centers, primary" for "centers, primary".
 
-Subsec. (c). Pub. L. 113–5, §203(c)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "An award under subsection (a) shall be expended for activities to achieve the preparedness goals described under paragraphs (1), (3), (4), (5), and (6) of section 300hh–1(b) of this title."
+Subsec. (c). Pub. L. 113–5, §203(c)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "An award under subsection (a)shall be expended for activities to achieve the preparedness goals described under paragraphs (1), (3), (4), (5), and (6) of section 300hh–1(b) of this title."
 
 Subsec. (g). Pub. L. 113–5, §203(c)(4), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "An eligible entity shall, to the extent practicable, ensure that activities carried out under an award under subsection (a) are coordinated with activities of relevant local Metropolitan Medical Response Systems, local Medical Reserve Corps, the Cities Readiness Initiative, and local emergency plans."
 

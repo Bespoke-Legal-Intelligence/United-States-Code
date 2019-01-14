@@ -124,7 +124,7 @@
 
 #### (d) Statement of administrative action
 
-The statement of administrative action approved by the Congress under section 3511(a) of this title shall be regarded as an authoritative expression by the United States concerning the interpretation and application of the UruguayRound Agreements and this Act in any judicial proceeding in which a question arises concerning such interpretation or application.
+The statement of administrative action approved by the Congress under section 3511(a) of this title shall be regarded as an authoritative expression by the United States concerning the interpretation and application of the Uruguay Round Agreements and this Act in any judicial proceeding in which a question arises concerning such interpretation or application.
 
 (Pub. L. 103–465, title I, §102, Dec. 8, 1994, 108 Stat. 4815.)
 

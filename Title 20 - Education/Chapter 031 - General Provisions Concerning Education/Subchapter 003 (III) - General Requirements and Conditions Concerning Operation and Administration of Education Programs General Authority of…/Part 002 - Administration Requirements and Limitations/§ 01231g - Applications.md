@@ -14,7 +14,7 @@ The Secretary shall, insofar as is practicable, develop and require the use ofâ€
 
 &emsp;(1) a common application for grants to local educational agencies in applicable programs administered by State educational agencies in which the funds are distributed to such local agencies pursuant to some objective formula, and such application shall be used as the single application for as many of these programs as is practicable;
 
-&emsp;(2) a common application for grants to local educational agencies in applicable programs administered by State educational agencies inwhich the funds are distributed to such local agencies on a competitive or discretionary basis, and such application shall be used as the single application for as many of such programs as is practicable; and
+&emsp;(2) a common application for grants to local educational agencies in applicable programs administered by State educational agencies in which the funds are distributed to such local agencies on a competitive or discretionary basis, and such application shall be used as the single application for as many of such programs as is practicable; and
 
 &emsp;(3) a common application for grants to local educational agencies in applicable programs which are directly administered by the Secretary, and such application shall be used as the single application for as many of these programs as is practicable.
 

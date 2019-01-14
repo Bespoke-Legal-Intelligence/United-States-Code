@@ -6,7 +6,7 @@
 
 &emsp;(2) periods of leave with pay during these hours if the periods of leave with pay during a pay period total less than 8 hours.
 
-> Except as otherwise provided by subsection (c) of this section, an employee is entitled to pay for nightwork at his rate of basic pay plus premium pay amounting to 10 percent of that basic rate. This subsection and subsection (b) of this section do not modify section 5141 of title 31, or other statute authorizing additional pay for nightwork.
+> Except as otherwise provided by subsection (c) of this section, an employee is entitled to pay for nightwork at his rate of basic pay plus premium pay amounting to 10 percent of that basic rate. This subsection and subsection (b) of this section do not modify section 5141 of title 31, orother statute authorizing additional pay for nightwork.
 
 (b) The head of an agency may designate a time after 6:00 p.m. and a time before 6:00 a.m. as the beginning and end, respectively, of nightwork for the purpose of subsection (a) of this section, at a post outside the United States where the customary hours of business extend into the hours of nightwork provided by subsection (a) of this section.
 
@@ -150,5 +150,5 @@ Amendment by Pub. L. 90–556 effective on first day of first pay period beginni
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–206 effective at beginning of first pay period which begins on or after Dec. 16, 1967, see section 220(a)(3) of Pub. L. 90–206, set out as a note under section 603 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 90–206 effective at beginning of first pay period which begins on or after Dec. 16, 1967,see section 220(a)(3) of Pub. L. 90–206, set out as a note under section 603 of Title 28, Judiciary and Judicial Procedure.
 

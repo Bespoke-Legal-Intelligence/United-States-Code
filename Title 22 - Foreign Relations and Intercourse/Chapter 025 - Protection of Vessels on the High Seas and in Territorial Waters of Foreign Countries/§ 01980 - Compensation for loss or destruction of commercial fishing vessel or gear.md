@@ -94,7 +94,7 @@ In addition to any fee imposed under section 204(b)(10) of the Magnuson-Stevens 
 
 Any person who willfully makes any false or misleading statement or representation for the purpose of obtaining compensation under this section is guilty of a criminal offense and, upon conviction thereof, shall be punished by a fine of not more than $25,000, or by imprisonment for not more than one year, or both.
 
-(Aug. 27, 1954, ch. 1018, §10, as added Pub. L. 95–194, §2, Nov. 18, 1977, 91 Stat. 1413; amended Pub. L. 95–376, §3(a), Sept. 18, 1978, 92 Stat. 715; Pub. L. 96–289, §4(b), June 28, 1980, 94 Stat. 606; Pub. L. 96–561, title II, §§238(b), 241, Dec. 22, 1980, 94 Stat. 3300, 3301; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Aug. 27, 1954, ch. 1018, §10, as added Pub. L. 95–194, §2, Nov. 18, 1977, 91 Stat. 1413; amended Pub. L. 95–376, §3(a), Sept. 18, 1978, 92 Stat. 715; Pub. L. 96–289, §4(b), June 28, 1980, 94 Stat. 606; Pub. L. 96–561, title II, §§238(b), 241, Dec. 22, 1980,94 Stat. 3300, 3301; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
@@ -146,7 +146,7 @@ Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided tha
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–376, §3(b), Sept. 18, 1978, 92 Stat. 718, provided that: "The amendment made by subsection (a)\[amending this section\] shall take effect January 1, 1979."
+Pub. L. 95–376, §3(b), Sept. 18, 1978, 92 Stat. 718, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect January 1, 1979."
 
 #### Savings Provision
 

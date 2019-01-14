@@ -2,7 +2,19 @@
 
 (a)
 
-Reinspection and Reexamination.—The Administrator of the Federal Aviation Administration may reinspect at any time a civil aircraft, aircraft engine, propeller, appliance, design organization, production certificate holder, air navigation facility, or air agency, or reexamine an airman holding a certificate issued under section 44703 of this title.
+Reinspection and Reexamination.—
+
+&emsp;(1)
+
+In general.—The Administrator of the Federal Aviation Administration may reinspect at any time a civil aircraft, aircraft engine, propeller, appliance, design organization, production certificate holder, air navigation facility, or air agency, or reexamine an airman holding a certificate issued under section 44703 of this title.
+
+&emsp;(2)
+
+Notification of reexamination of airman.—Before taking any action to reexamine an airman under paragraph (1) the Administrator shall provide to the airman—
+
+&emsp;&emsp;(A) a reasonable basis, described in detail, for requesting the reexamination; and
+
+&emsp;&emsp;(B) any information gathered by the Federal Aviation Administration, that the Administrator determines is appropriate to provide, such as the scope and nature of the requested reexamination, that formed the basis for that justification.
 
 (b)
 
@@ -46,7 +58,7 @@ In general.—When a person files an appeal with the Board under subsection (d),
 
 &emsp;(2)
 
-Exception.—Notwithstanding paragraph (1), the order of the Administrator is effective immediately if the Administrator advises the Board that an emergency exists and safety in air commerce or air transportation requires the order to be effective immediately.
+Exception.—Notwithstanding paragraph (1), the order of the Administrator is effective immediately if the Administrator advises the Board that an emergency exists and safety inair commerce or air transportation requires the order to be effective immediately.
 
 &emsp;(3)
 
@@ -60,7 +72,7 @@ Final disposition.—The Board shall make a final disposition of an appeal under
 
 Judicial Review.—A person substantially affected by an order of the Board under this section, or the Administrator when the Administrator decides that an order of the Board under this section will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1190; Pub. L. 106–181, title VII, §716, Apr. 5, 2000, 114 Stat. 162; Pub. L. 108–176, title II, §227(c), Dec. 12, 2003, 117 Stat. 2532; Pub. L. 112–153, §2(c)(2), Aug. 3, 2012, 126 Stat. 1161.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1190; Pub. L. 106–181, title VII, §716, Apr. 5, 2000, 114 Stat. 162; Pub. L. 108–176, title II, §227(c), Dec. 12, 2003, 117 Stat. 2532; Pub. L. 112–153, §2(c)(2), Aug. 3, 2012, 126 Stat. 1161; Pub. L. 115–254, div. B, title III, §393(a), Oct. 5, 2018, 132 Stat. 3325.)
 
 Historical and Revision Notes
 
@@ -171,6 +183,8 @@ In subsection (d)(3), the word "Administrator" is substituted for "Federal Aviat
 In subsection (e), before clause (1), the words "the effectiveness of" are omitted as surplus.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–254 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 <b>2012</b>—Subsec. (d)(3). Pub. L. 112–153 struck out "but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law" after "Administrator".
 

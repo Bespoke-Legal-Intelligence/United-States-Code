@@ -78,7 +78,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 &emsp;&emsp;&emsp;(ii) to not be delivering a high-quality and comprehensive Head Start program shall be subject to an open competition as described in subsection (d); and
 
-&emsp;&emsp;&emsp;(iii) in the case of an Indian Head Start agency, to not be delivering a high-qualityand comprehensive Head Start program shall (notwithstanding clause (ii)) be subject to the requirements of subparagraph (B).
+&emsp;&emsp;&emsp;(iii) in the case of an Indian Head Start agency, to not be delivering a high-quality and comprehensive Head Start program shall (notwithstanding clause (ii)) be subject to the requirements of subparagraph (B).
 
 #### (B) Tribal government consultation and reevaluation
 
@@ -142,7 +142,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 &emsp;&emsp;(F) the plan of such applicant to meet standards described in section 9836a(a)(1) of this title, with particular attention to the standards described in subparagraphs (A) and (B) of such section;
 
-&emsp;&emsp;(G) the proposed budget of the applicant and plan of such applicant to maintain strong fiscal controls and cost-effective fiscal management;
+&emsp;&emsp;(G) the proposed budget of the applicant and plan of such applicant to maintainstrong fiscal controls and cost-effective fiscal management;
 
 &emsp;&emsp;(H) the plan of such applicant to coordinate and collaborate with other public or private entities providing early childhood education and development programs and services for young children in the community involved, including—
 
@@ -210,7 +210,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 &emsp;&emsp;(M) the plan of such applicant who chooses to assist younger siblings of children who will participate in the Head Start program to obtain health services from other sources;
 
-&emsp;&emsp;(N) the plan of such applicant to meet the needs of children with disabilities, including procedures to identify such children, procedures for referral of such children for evaluation to State or local agencies providingservices under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.), and plans for collaboration with those State or local agencies;
+&emsp;&emsp;(N) the plan of such applicant to meet the needs of children with disabilities, including procedures to identify such children, procedures for referral of such children for evaluation to State or local agencies providing services under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.), and plans for collaboration with those State or local agencies;
 
 &emsp;&emsp;(O) the plan of such applicant to meet the needs of homeless children, including transportation needs, and the needs of children in foster care; and
 
@@ -332,7 +332,7 @@ Subsec. (d)(7). Pub. L. 103–252, §107(c)(4), substituted "non-English languag
 
 Subsec. (d)(8), (9). Pub. L. 103–252, §107(c)(5), (6), redesignated par. (9) as (8) and struck out former par. (8) which read as follows: "the plan of such applicant to provide (directly or through referral to educational services available in the community) parents of children who will participate in the proposed Head Start program with child development and literacy skills training in order to aid their children to attain their full potential; and".
 
-Subsecs. (f), (g). Pub. L. 103–252, §107(d), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "The provisions of subsections (c), (d), and (e) of this section shall be applied by the Secretary in the distribution of any additional appropriations made available under this subchapter during any fiscalyear as well as to initial designations of Head Start agencies."
+Subsecs. (f), (g). Pub. L. 103–252, §107(d), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "The provisions of subsections (c), (d), and (e) of this section shall be applied by the Secretary in the distribution of any additional appropriations made available under this subchapter during any fiscal year as well as to initial designations of Head Start agencies."
 
 <b>1992</b>—Subsec. (c)(1). Pub. L. 102–401, §2(e)(1), inserted at end "Notwithstanding any other provision of this paragraph, the Secretary shall not give such priority to any agency with respect to which financial assistance has been terminated, or an application for refunding has been denied, under this subchapter by the Secretary after affording such agency reasonable notice and opportunity for a full and fair hearing in accordance with section 9841(a)(3) of this title."
 

@@ -80,13 +80,13 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;&emsp;(D) any aircraft, railroad rolling stock, vessel, motor vehicle, or container used in the transportation of persons or property in foreign commerce and used predominantly outside the United States;
 
-&emsp;&emsp;(E) an amount of assets of an insurance company equivalent to the unearned premiums or reserves ordinary and necessary for the proper conduct of its insurance business attributable to contracts which are not contracts described in section 953(a)(1); <sup>1</sup>
+&emsp;&emsp;(E) an amount of assets of an insurance company equivalent to the unearned premiums or reserves ordinary and necessary for the proper conduct of its insurance business attributable to contracts which are contracts described in section 953(e)(2);
 
 &emsp;&emsp;(F) the stock or obligations of a domestic corporation which is neither a United States shareholder (as defined in section 951(b)) of the controlled foreign corporation, nor a domestic corporation, 25 percent or more of the total combined voting power of which, immediately after the acquisition of any stock in such domestic corporation by the controlled foreign corporation, is owned, or is considered as being owned, by such United States shareholders in the aggregate;
 
 &emsp;&emsp;(G) any movable property (other than a vessel or aircraft) which is used for the purpose of exploring for, developing, removing, or transporting resources from ocean waters or under such waters when used on the Continental Shelf of the United States;
 
-&emsp;&emsp;(H) an amount of assets of the controlled foreign corporation equal to the earnings and profits accumulated after December 31,1962, and excluded from subpart F income under section 952(b);
+&emsp;&emsp;(H) an amount of assets of the controlled foreign corporation equal to the earnings and profits accumulated after December 31, 1962, and excluded from subpart F income under section 952(b);
 
 &emsp;&emsp;(I) deposits of cash or securities made or received on commercial terms in the ordinary course of a United States or foreign person's business as a dealer in securities or in commodities, but only to the extent such deposits are made or received as collateral or margin for (i) a securities loan, notional principal contract, options contract, forward contract, or futures contract, or (ii) any other financial transaction in which the Secretary determines that it is customary to post collateral or margin;
 
@@ -130,15 +130,15 @@ For purposes of subsection (a), a controlled foreign corporation shall, under re
 
 #### (e) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations to prevent the avoidance of the provisons <sup>2</sup> of this section through reorganizations or otherwise.
+The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations to prevent the avoidance of the provisions of this section through reorganizations or otherwise.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1015; amended Pub. L. 94–455, title X, §1021(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1618, 1834; Pub. L. 98–369, div. A, title I, §123(b), title VIII, §801(d)(8), July 18, 1984, 98 Stat. 646, 996; Pub. L. 99–514, title XVIII, §1810(c)(1), Oct. 22, 1986, 100 Stat. 2824; Pub. L. 103–66, title XIII, §13232(a), (b), Aug. 10, 1993, 107 Stat. 501; Pub. L. 104–188, title I, §1501(b)(2), (3), Aug. 20, 1996, 110 Stat. 1825; Pub. L. 105–34, title XI, §1173(a), title XVI, §1601(e), Aug. 5, 1997, 111 Stat. 988, 1090; Pub. L. 108–357, title IV, §407(a), (b), title VIII, §837(a), Oct. 22, 2004, 118 Stat. 1498, 1499, 1596; Pub. L. 110–172, §11(g)(15)(A), Dec. 29, 2007, 121 Stat. 2490.)
-
-#### References in Text
-
-Section 953(a)(1), referred to in subsec. (c)(2)(E), was subsequently amended, and section 953(a)(1) no longer describes contracts. However, contracts are described elsewhere in that section.
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1015; amended Pub. L. 94–455, title X, §1021(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1618, 1834; Pub. L. 98–369, div. A, title I, §123(b), title VIII, §801(d)(8), July 18, 1984, 98 Stat. 646, 996; Pub. L. 99–514, title XVIII, §1810(c)(1), Oct. 22, 1986, 100 Stat. 2824; Pub. L. 103–66, title XIII, §13232(a), (b), Aug. 10, 1993, 107 Stat. 501; Pub. L. 104–188, title I, §1501(b)(2), (3), Aug. 20, 1996, 110 Stat. 1825; Pub. L. 105–34, title XI, §1173(a), title XVI, §1601(e), Aug. 5, 1997, 111 Stat. 988, 1090; Pub. L. 108–357, title IV, §407(a), (b), title VIII, §837(a), Oct. 22, 2004, 118 Stat. 1498, 1499, 1596; Pub. L. 110–172, §11(g)(15)(A), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 115–141, div. U, title IV, §401(a)(162), (163), Mar. 23, 2018, 132 Stat. 1192.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(2)(E). Pub. L. 115–141, §401(a)(162), substituted "which are contracts described in section 953(e)(2)" for "which are not contracts described in section 953(a)(1)".
+
+Subsec. (e). Pub. L. 115–141, §401(a)(163), substituted "provisions" for "provisons".
 
 <b>2007</b>—Subsec. (c)(2). Pub. L. 110–172, §11(g)(15)(A)(ii), substituted "subparagraphs (I), (J), and (K)" for "subparagraphs (J), (K), and (L)" in concluding provisions.
 
@@ -211,8 +211,4 @@ Pub. L. 94–455, title X, §1021(c), Oct. 4, 1976, 90 Stat. 1619, as amended by
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "provisions".</i>
 

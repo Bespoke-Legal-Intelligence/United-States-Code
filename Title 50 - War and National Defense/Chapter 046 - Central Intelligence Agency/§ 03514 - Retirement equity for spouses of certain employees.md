@@ -2,7 +2,7 @@
 
 #### (a) Manner and extent of applicability
 
-The provisions of sections 2002, 2031(b)(1)–(3), 2031(f), 2031(g), 2031(h)(2), 2031(i), 2031(l), 2032, 2033, 2034, 2035, 2052(b), 2071(b), 2071(d), and 2094(b) of this title establishing certain requirements, limitations, rights, entitlements, and benefits relating to retirement annuities, survivor benefits, and lump-sum payments for a spouse or former spouse of an Agency employee who is a participant in the Central Intelligence Agency Retirement and Disability System shall apply in the same manner and to the same extent in the case of an Agency employee who is a participant in the Civil Service Retirement and Disability System.
+The provisions of sections 2002, 2031(b)(1)–(3), 2031(f), 2031(g), 2031(h)(2), 2031(i), 2031(l), 2032, 2033, 2034, 2035, 2052(b), 2071(b), 2071(d), and 2094(b) of this title establishing certain requirements, limitations, rights, entitlements, and benefits relating to retirement annuities, survivor benefits, and lump-sum payments for a spouse or former spouse of an Agency employee who is a participant in the Central Intelligence Agency Retirement and Disability System shall apply inthe same manner and to the same extent in the case of an Agency employee who is a participant in the Civil Service Retirement and Disability System.
 
 #### (b) Regulations
 
@@ -30,7 +30,7 @@ Pub. L. 100–178, §401(b), inserted "225," after "223, 224,".
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment;Transition Provisions note under section 3001 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 
 #### Effective Date of 1992 Amendment
 

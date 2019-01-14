@@ -96,7 +96,7 @@ Information shall be entered into the data base maintained by the State Director
 
 #### (1) Transmission of wage withholding notices to employers
 
-&emsp;Within 2 business days after the date information regarding a newly hired employee is entered into the State Directory of New Hires, the State agency enforcing the employee's child support obligation shall transmit a notice to the employer of the employee directing the employer to withhold from the income of the employee an amount equal to the monthly (or other periodic) child support obligation (including any past due support obligation) of the employee, unless the employee's income is not subject to withholding pursuant to section 666(b)(3) of this title.
+&emsp;Within 2 business days after the date information regarding a newly hired employee isentered into the State Directory of New Hires, the State agency enforcing the employee's child support obligation shall transmit a notice to the employer of the employee directing the employer to withhold from the income of the employee an amount equal to the monthly (or other periodic) child support obligation (including any past due support obligation) of the employee, unless the employee's income is not subject to withholding pursuant to section 666(b)(3) of this title.
 
 #### (2) Transmissions to the National Directory of New Hires
 
@@ -166,7 +166,7 @@ In general.—Subject to paragraph (2), the amendments made by this section \[am
 
 "(2)
 
-Compliance transition period.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds)is required in order for a State plan under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\] to meet the additional requirements imposed by the amendment made by subsection (a), the plan shall not be regarded as failing to meet such requirements before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of such amendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
+Compliance transition period.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\] to meet the additional requirements imposed by the amendment made by subsection (a), the plan shall not be regarded as failing to meet such requirements before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of such amendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
 
 #### Effective Date of 1997 Amendment
 

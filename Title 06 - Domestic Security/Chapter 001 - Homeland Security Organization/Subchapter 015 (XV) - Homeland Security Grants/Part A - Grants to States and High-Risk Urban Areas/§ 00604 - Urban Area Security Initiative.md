@@ -118,7 +118,7 @@ There is established an Urban Area Security Initiative to provide grants to assi
 
 #### (B) Funds retained
 
-&emsp;&emsp;A State shall provide each relevant high-risk urban area with an accounting of the items, services, or activities on which any funds retained by the State under subparagraph (A) were expended.
+&emsp;&emsp;A State shall provide each relevant high-risk urban area with an accounting of theitems, services, or activities on which any funds retained by the State under subparagraph (A) were expended.
 
 #### (3) Interstate urban areas
 

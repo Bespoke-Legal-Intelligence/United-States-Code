@@ -41,6 +41,7 @@
 |  |  |
 | :--- | ---: |
 | [20341\.](Subchapter%20004%20%28IV%29%20-%20Reporting%20Requirements/%C2%A7%2020341%20-%20Child%20abuse%20reporting.md) | Child abuse reporting. |
+| [20342\.](Subchapter%20004%20%28IV%29%20-%20Reporting%20Requirements/%C2%A7%2020342%20-%20Federal%20immunity.md) | Federal immunity. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -50,7 +50,7 @@ A prior section 2991b, Pub. L. 88–452, title VIII, §803, as added Pub. L. 89�
 
 Pub. L. 102–375, §822(21), substituted "Alaska Native villages" for "Alaskan Native villages".
 
-Pub. L. 102–375, §822(1)(A), (B)(i), substituted "Commissioner" for "Secretary" wherever appearing and substituted "Indian and Alaska Native organizations" for "Indian organizations".
+Pub. L. 102–375, §822(1)(A), (B)(i), substituted "Commissioner" for "Secretary" wherever appearing andsubstituted "Indian and Alaska Native organizations" for "Indian organizations".
 
 Pub. L. 102–375, §822(1)(B)(ii), which directed the substitution of "area that is not an Indian reservation or Alaska Native village" for "nonreservation area", could not be executed because the words "nonreservation area" did not appear.
 

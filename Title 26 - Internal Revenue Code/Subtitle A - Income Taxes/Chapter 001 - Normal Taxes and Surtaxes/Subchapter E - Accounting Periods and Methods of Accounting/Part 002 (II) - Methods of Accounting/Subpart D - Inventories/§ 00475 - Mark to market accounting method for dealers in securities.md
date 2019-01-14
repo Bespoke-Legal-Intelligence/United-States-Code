@@ -188,7 +188,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) any gain or loss shall be taken into account for such taxable year.
 
-> &emsp;&emsp;Proper adjustment shall be made in the amount of any gain or loss subsequently realized for gain or loss taken into account under the preceding sentence. The Secretarymay provide by regulations for the application of this subparagraph at times other than the times provided in this subparagraph.
+> &emsp;&emsp;Proper adjustment shall be made in the amount of any gain or loss subsequently realized for gain or loss taken into account under the preceding sentence. The Secretary may provide by regulations for the application of this subparagraph at times other than the times provided in this subparagraph.
 
 #### (B) Exception
 
@@ -314,7 +314,7 @@ In general.—The amendments made by subsection (b) \[amending this section\] sh
 
 year spread of adjustments.—In the case of a taxpayer who elects under subsection (e) or (f) of section 475 of the Internal Revenue Code of 1986 (as added by this section) to change its method of accounting for the taxable year which includes the date of the enactment of this Act—
 
-&emsp;&emsp;"(i) any identification required under such subsection with respect to securities and commodities held on the date of the enactment of this Act shall be treated as timely made if made on or before the 30th day after such date of enactment, and
+&emsp;&emsp;"(i) any identification required under such subsection with respect to securities and commoditiesheld on the date of the enactment of this Act shall be treated as timely made if made on or before the 30th day after such date of enactment, and
 
 &emsp;&emsp;"(ii) the net amount of the adjustments required to be taken into account by the taxpayer under section 481 of such Code shall be taken into account ratably over the 4-taxable year period beginning with such first taxable year."
 

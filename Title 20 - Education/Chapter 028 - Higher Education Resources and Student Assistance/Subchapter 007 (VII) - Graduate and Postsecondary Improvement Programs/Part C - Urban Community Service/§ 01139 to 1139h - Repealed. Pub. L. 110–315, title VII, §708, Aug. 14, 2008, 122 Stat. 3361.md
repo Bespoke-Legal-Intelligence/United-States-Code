@@ -6,7 +6,7 @@ A prior section 1139, Pub. L. 89–329, title XI, §1151, as added Pub. L. 102�
 
 Another prior section 1139, Pub. L. 89–329, title XI, §1131, as added Pub. L. 99–498, title XI, §1101, Oct. 17, 1986, 100 Stat. 1572, stated purpose of providing assistance to establish Robert F. Wagner, Sr., Institute of Urban Public Policy, prior to the general amendment of subchapter XI of this chapter by Pub. L. 102–325.
 
-Section 1139a, Pub. L. 89–329, title VII, §752, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1798, related to the purpose of this part and program authorization.
+Section 1139a, Pub. L. 89–329, title VII, §752, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat.1798, related to the purpose of this part and program authorization.
 
 A prior section 1139a, Pub. L. 89–329, title XI, §1132, as added Pub. L. 99–498, title XI, §1101, Oct. 17, 1986, 100 Stat. 1572, related to application for and use of funds, prior to the general amendment of subchapter XI of this chapter by Pub. L. 102–325.
 

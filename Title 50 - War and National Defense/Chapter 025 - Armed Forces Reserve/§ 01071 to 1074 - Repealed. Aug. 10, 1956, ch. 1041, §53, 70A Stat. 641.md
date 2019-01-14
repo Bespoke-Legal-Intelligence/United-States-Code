@@ -2,7 +2,7 @@
 
 Section 1071, act July 9, 1952, ch. 608, pt. V, §501, 66 Stat. 500, prescribed composition of Naval Militia. See section 7851 of Title 10, Armed Forces.
 
-Section 1072, act July 9, 1952, ch. 608, pt. V, §502, 66 Stat. 500, provided for appointment and enlistment ofmilitia members in Naval Reserve or Marine Corps Reserve. See section 7852 of Title 10.
+Section 1072, act July 9, 1952, ch. 608, pt. V, §502, 66 Stat. 500, provided for appointment and enlistment of militia members in Naval Reserve or Marine Corps Reserve. See section 7852 of Title 10.
 
 Section 1073, act July 9, 1952, ch. 608, pt. V, §503, 66 Stat. 500, provided for release from militia duty upon order to active duty in service of United States. See section 7853 of Title 10.
 

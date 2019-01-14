@@ -24,7 +24,7 @@ As used in this chapter:
 
 &emsp;(vi) any food, food additive, drug, cosmetic, or device (as such terms are defined in section 201 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321\]) when manufactured, processed, or distributed in commerce for use as a food, food additive, drug, cosmetic, or device.
 
-> The term "food" as used in clause (vi) of this subparagraph includes poultry and poultry products (as defined in sections 4(e) and 4(f) of the Poultry Products Inspection Act \[21 U.S.C. 453(e)and (f)\]), meat and meat food products (as defined in section 1(j) of the Federal Meat Inspection Act \[21 U.S.C. 601(j)\]), and eggs and egg products (as defined in section 4 of the Egg Products Inspection Act \[21 U.S.C. 1033\]).
+> The term "food" as used in clause (vi) of this subparagraph includes poultry and poultry products (as defined in sections 4(e) and 4(f) of the Poultry Products Inspection Act \[21 U.S.C. 453(e) and (f)\]), meat and meat food products (as defined in section 1(j) of the Federal Meat Inspection Act \[21 U.S.C. 601(j)\]), and eggs and egg products (as defined in section 4 of the Egg Products Inspection Act \[21 U.S.C. 1033\]).
 
 (3) The term "commerce" means trade, traffic, transportation, or other commerce (A) between a place in a State and any place outside of such State, or (B) which affects trade, traffic, transportation, or commerce described in clause (A).
 
@@ -82,7 +82,7 @@ As used in this chapter:
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (2)(B)(ii), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-The Atomic Energy Act of 1954, referred to in par. (2)(B)(iv), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, and amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, seeShort Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in par. (2)(B)(iv), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, and amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in par. (9), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 

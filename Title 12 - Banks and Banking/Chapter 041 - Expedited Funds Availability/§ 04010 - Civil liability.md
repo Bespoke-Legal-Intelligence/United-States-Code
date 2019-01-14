@@ -34,7 +34,7 @@ In determining the amount of any award in any class action, the court shall cons
 
 #### (1) General rule
 
-&emsp;A depository institution may not be held liable in any action brought under this section for a violation of this chapter if the depository institution demonstrates by a preponderance of the evidence that the violation was not intentional and resulted from a bona fide error, notwithstanding the maintenance of procedures reasonably adapted to avoid any such error.
+&emsp;A depository institution may not be held liable in any action brought under this section for a violation of this chapter if the depository institution demonstrates by a preponderance of the evidence that the violation was not intentional and resulted from a bona fide error,notwithstanding the maintenance of procedures reasonably adapted to avoid any such error.
 
 #### (2) Examples
 
@@ -42,7 +42,7 @@ In determining the amount of any award in any class action, the court shall cons
 
 #### (d) Jurisdiction
 
-Any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, withinone year after the date of the occurrence of the violation involved.
+Any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year after the date of the occurrence of the violation involved.
 
 #### (e) Reliance on Board rulings
 

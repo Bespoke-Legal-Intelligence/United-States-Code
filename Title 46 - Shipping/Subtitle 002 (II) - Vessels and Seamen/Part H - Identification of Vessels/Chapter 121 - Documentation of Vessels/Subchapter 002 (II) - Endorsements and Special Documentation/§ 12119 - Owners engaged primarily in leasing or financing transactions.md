@@ -18,7 +18,7 @@ Cargo.—The term "cargo" does not include cargo to which title is held for non-
 
 &emsp;(3)
 
-Oil.—The term "oil" has the meaning given that term in section 2101(20) of this title.
+Oil.—The term "oil" has the meaning given that term in section 2101(26) of this title.
 
 &emsp;(4)
 
@@ -116,7 +116,7 @@ Continuation of Endorsement After Termination of Charter.—When a charter requi
 
 Deemed Owned by Citizens.—A vessel satisfying the requirements of this section is deemed to be owned only by citizens of the United States under sections 12103 and 50501 of this title.
 
-(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1501.)
+(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1501; Pub. L. 115–232, div. C, title XXXV, §3541(b)(15), Aug. 13, 2018, 132 Stat. 2324.)
 
 Historical and Revision Notes
 
@@ -162,13 +162,17 @@ Subsection (e) is substituted for "(3) Upon termination by a demise charterer re
 
 A prior section 12119, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 589; Pub. L. 100–710, title I, §104(a)(4), Nov. 23, 1988, 102 Stat. 4750, originally derived from sections 65s and 881 of former Title 46, Shipping, related to list of documented vessels, prior to the general amendment of this chapter by Pub. L. 109–304. See section 12138 of this title.
 
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(3). Pub. L. 115–232 substituted "section 2101(26)" for "section 2101(20)".
+
 #### Application to Certain Certificates
 
 Pub. L. 108–293, title VI, §608(c), Aug. 9, 2004, 118 Stat. 1057, provided that:
 
 "(1)
 
-In general.—The amendments made by this section \[amending provisions from which this section was derived\], and any regulations published after February 4, 2004, with respect to coastwise endorsements, shall not apply to a certificate of documentation, or renewal thereof, endorsed with a coastwise endorsement for a vessel under section 12106(e) \[now section 12119(b), (d)–(f)\] of title 46, United States Code, or a replacement vessel of a similar size and function, that was issued prior to the date of enactment of this Act \[Aug. 9, 2004\] as long as the vessel is owned by the person named therein, or by a subsidiary or affiliate of that person, and the controlling interest in such owner has not been transferred to a person that was not an affiliate of such owner as of the date of enactment of this Act. Notwithstanding the preceding sentence, however, the amendments made by this section shall apply, beginning 3 years after the date of enactment of this Act, with respect to offshore supply vessels (as defined in section 2101(19) of title 46, United States Code, as that section was in effect on the date of enactment of this Act) with a certificate of documentation endorsed with a coastwise endorsement as of the date of enactment of this Act, and the Secretary of the Department in which the Coast Guard is operating shall revoke any such certificate if the vessel does not by then meet the requirements of section 12106(e) of title 46, United States Code, as amended by this section.
+In general.—The amendments made by this section \[amending provisions from which this section was derived\], and any regulations published after February 4, 2004, with respect to coastwise endorsements, shall not apply to a certificate of documentation, or renewal thereof, endorsed with a coastwise endorsement for a vessel under section 12106(e) \[now section 12119(b), (d)–(f)\] of title 46, United States Code, or a replacement vessel of a similar size and function, that was issued prior to the date of enactment of this Act \[Aug. 9, 2004\] as long as the vessel is owned by the person named therein, or by a subsidiary or affiliate of that person, and the controlling interest in such owner has not been transferred to a person that was not an affiliate of such owner as of the date of enactment of this Act. Notwithstanding the preceding sentence, however, the amendments made by this section shall apply, beginning 3 years after the date of enactment of this Act, with respect to offshore supply vessels (as defined in section 2101(19) \[now 2101(25)\] of title 46, United States Code, as that section was in effect on the date of enactment of this Act) with a certificate of documentation endorsed with a coastwise endorsement as of the date of enactment of this Act, and the Secretary of the Department in which the Coast Guard is operating shall revoke any such certificate if the vessel does not by then meet the requirements of section 12106(e) of title 46, United States Code, as amended by this section.
 
 "(2)
 

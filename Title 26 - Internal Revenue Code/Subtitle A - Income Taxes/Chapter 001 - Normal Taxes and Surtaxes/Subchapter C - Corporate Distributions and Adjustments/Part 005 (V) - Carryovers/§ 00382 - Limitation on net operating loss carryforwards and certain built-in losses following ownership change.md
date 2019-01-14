@@ -308,7 +308,7 @@ For purposes of this section—
 
 #### (C) Adjustments
 
-&emsp;&emsp;The amount of the net unrealized built-in gain or loss shall be properly adjusted foramounts which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period.
+&emsp;&emsp;The amount of the net unrealized built-in gain or loss shall be properly adjusted for amounts which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period.
 
 #### (7) Recognition period, etc.
 
@@ -414,7 +414,7 @@ For purposes of this section—
 
 #### (B) Certain contributions treated as part of plan
 
-&emsp;&emsp;For purposes of subparagraph (A), any capital contribution made during the 2-year period ending on the change date shall, except as provided in regulations, be treated as part of a plan described in subparagraph (A).
+&emsp;&emsp;For purposes of subparagraph (A), any capital contribution made during the 2-year period ending on the change date shall, exceptas provided in regulations, be treated as part of a plan described in subparagraph (A).
 
 #### (2) Ordering rules for application of section
 
@@ -478,7 +478,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) stock is received by any person in satisfaction of a right to receive a pecuniary bequest, or
 
-&emsp;&emsp;&emsp;(iii) <sup>1</sup> stock is acquired by a person pursuant to any divorce or separation instrument (within the meaning of section 71(b)(2)),
+&emsp;&emsp;&emsp;(iii) stock is acquired by a person pursuant to any divorce or separation instrument (within the meaning of section 121(d)(3)(C)),
 
 > &emsp;&emsp;such person shall be treated as owning such stock during the period such stock was owned by the person from whom it was acquired.
 
@@ -506,7 +506,7 @@ For purposes of this section—
 
 #### (ii) Exception for certain investment entities
 
-&emsp;&emsp;&emsp;A regulated investment company to which part I of subchapter M applies, a real estate investment trust to which part II of subchapter M applies, or a REMIC to which part IV of subchapter M applies, shall not be treated as a new loss corporation having substantial nonbusiness assets.
+&emsp;&emsp;&emsp;A regulated investment company to which part I of subchapter M applies, areal estate investment trust to which part II of subchapter M applies, or a REMIC to which part IV of subchapter M applies, shall not be treated as a new loss corporation having substantial nonbusiness assets.
 
 #### (C) Nonbusiness assets
 
@@ -582,7 +582,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section and section 383, including (but not limited to) regulations—
 
-&emsp;(1) providing for the application of this section and section 383 where an ownership change with respect to the old loss corporation is followed by an ownership change with respect to the new loss corporation, and
+&emsp;(1) providing for the application of this section and section 383 where an ownershipchange with respect to the old loss corporation is followed by an ownership change with respect to the new loss corporation, and
 
 &emsp;(2) providing for the application of this section and section 383 in the case of a short taxable year,
 
@@ -628,17 +628,9 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, §4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, §806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, §242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, §62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, §621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, §10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, §1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66, title XIII, §13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, §1621(b)(3), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(2), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 111–5, div. B, title I, §1262(a), Feb. 17, 2009, 123 Stat. 343; Pub. L. 113–295, div. A, title II, §221(a)(30)(D), Dec. 19, 2014, 128 Stat. 4042; Pub. L. 115–97, title I, §§11051(b)(3)(F), 13301(b)(2), (3), Dec. 22, 2017, 131 Stat. 2090, 2121.)
 
-#### Amendment of Subsection (l)(3)(B)(iii)
-
-<i>Pub. L. 115–97, title I, §11051(b)(3)(F), (c), Dec. 22, 2017, 131 Stat. 2090, amended subsection (l)(3)(B)(iii) of this section, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification. After amendment, subsection (l)(3)(B)(iii) reads as follows:</i>
-
-&emsp;&emsp;&emsp;<i>(iii) stock is acquired by a person pursuant to any divorce or separation instrument (within the meaning of section 121(d)(3)(C)),</i>
-
-<i>See 2017 Amendment note below.</i>
-
 #### References in Text
 
-The Emergency Economic Stabilization Act of 2008, referred to in subsec. (n)(1)(A), is div. A of Pub. L.110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (n)(1)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
 #### Amendments
 
@@ -664,7 +656,7 @@ In general.—In any case to which subparagraph (A) applies, 50 percent of the a
 
 "(ii)
 
-Clarification with subparagraph (b).—In applying clause (i), there shall not be taken into account any indebtedness for interest described in subparagraph (B)."
+Clarification with subparagraph (b).—In applying clause (i), there shall not be taken into accountany indebtedness for interest described in subparagraph (B)."
 
 <b>1989</b>—Subsec. (h)(3)(B)(i). Pub. L. 101–239, §7205(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "If the amount of the net unrealized built-in gain or net unrealized built-in loss (determined without regard to this subparagraph) of any old loss corporation is not greater than 25 percent of the amount determined for purposes of subparagraph (A)(i)(I), the net unrealized built-in gain or net unrealized built-in loss shall be zero."
 
@@ -816,7 +808,7 @@ Pub. L. 101–73, title XIV, §1401(c)(2), Aug. 9, 1989, 103 Stat. 550, provided
 
 Pub. L. 100–647, title I, §1006(d)(1)(D), Nov. 10, 1988, 102 Stat. 3395, provided that: "The amendments made by this paragraph \[amending this section\] shall apply with respect to ownership changes after June 10, 1987."
 
-Pub. L. 100–647, title I, §1006(d)(17)(B), Nov. 10, 1988, 102 Stat. 3398, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to any ownership change after June 10, 1987. For purposes of the preceding sentence, any equity structure shift pursuant to a plan of reorganization adopted on or before June 10, 1987, shall be treated as occurring when such plan was adopted."
+Pub. L. 100–647, title I, §1006(d)(17)(B), Nov. 10, 1988, 102 Stat. 3398, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to any ownership change after June 10, 1987. For purposes of the preceding sentence, any equity structure shiftpursuant to a plan of reorganization adopted on or before June 10, 1987, shall be treated as occurring when such plan was adopted."
 
 Pub. L. 100–647, title I, §1006(d)(28)(B), Nov. 10, 1988, 102 Stat. 3400, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply in the case of ownership changes on or after June 21, 1988."
 
@@ -902,7 +894,7 @@ Election to have amendments apply.—
 
 Application of old rules to certain debt.—In the case of debt of a corporation incorporated in Colorado on November 8, 1924, and reincorporated in Delaware in 1987, with headquarters in Denver, Colorado—
 
-&emsp;&emsp;"(i) the amendments made by subsections (a), (b), and (c) shall not apply to any debt restructuring ofsuch debt which was approved by the debtor's Board of Directors and the lenders in 1986, and
+&emsp;&emsp;"(i) the amendments made by subsections (a), (b), and (c) shall not apply to any debt restructuring of such debt which was approved by the debtor's Board of Directors and the lenders in 1986, and
 
 &emsp;&emsp;"(ii) the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976 shall not apply to such debt restructuring, except that the amendment treated as part of such subsections under section 59(b) of the Tax Reform Act of 1984 (relating to qualified workouts) shall apply to such debt restructuring.
 
@@ -922,7 +914,7 @@ Testing period.—For purposes of determining whether there is an ownership chan
 
 Special transition rules.—The amendments made by subsections (a), (b), and (c) shall not apply to any—
 
-&emsp;"(A) stock-for-debt exchanges and stock sales made pursuant to a plan of reorganization with respect to a petition for reorganization filed by a corporation under chapter 11 of title 11, United States Code, on August 26, 1982, and which filed with a United States district court a first amended and related plan of reorganization before March 1, 1986, or
+&emsp;"(A) stock-for-debt exchanges and stock sales made pursuant to a plan of reorganization with respect to a petition for reorganization filed by a corporation under chapter 11 of title 11, United States Code, on August 26, 1982, and which filed with a United Statesdistrict court a first amended and related plan of reorganization before March 1, 1986, or
 
 &emsp;"(B) ownership change of a Delaware corporation incorporated in August 1983, which may result from the exercise of put or call option under an agreement entered into on September 14, 1983, but only with respect to taxable years beginning after 1991 regardless of when such ownership change takes place.
 
@@ -968,7 +960,7 @@ Pub. L. 98–369, div. A, title I, §62(b)(2), July 18, 1984, 98 Stat. 583, prov
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to any transfer made on or after Jan. 1, 1981, see section 246(a) ofPub. L. 97–34, set out as a note under section 368 of this title.
+Amendment by Pub. L. 97–34 applicable to any transfer made on or after Jan. 1, 1981, see section 246(a) of Pub. L. 97–34, set out as a note under section 368 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -982,7 +974,7 @@ Pub. L. 94–455, title VIII, §806(g)(2), (3), Oct. 4, 1976, 90 Stat. 1605, 160
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes of sections 302 and 304 of this title, such amendment shall not apply to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before Aug. 31, 1964, see section 4(c) of Pub. L. 88–554, set out as a note under section 318 of this title.
+Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes of sections 302 and 304 of thistitle, such amendment shall not apply to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before Aug. 31, 1964, see section 4(c) of Pub. L. 88–554, set out as a note under section 318 of this title.
 
 #### Delay in Effective Date of 1976 Amendment
 
@@ -1029,6 +1021,4 @@ Binding contracts.—Notwithstanding paragraph (1), Internal Revenue Service Not
 #### Report on Depreciation and Built-In Deductions; Report on Bankruptcy Workouts
 
 Pub. L. 99–514, title VI, §621(d), Oct. 22, 1986, 100 Stat. 2266, directed Secretary of the Treasury or his delegate to, not later than Jan. 1, 1989, conduct a study and report to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate with respect to treatment of depreciation, amortization, depletion, and other built-in deductions for purposes of sections 382 and 383 of this title, and, not later than Jan. 1, 1988, conduct a study and report to committees referred to above with respect to treatment of informal bankruptcy workouts for purposes of sections 108 and 382 of this title, prior to repeal by Pub. L. 101–508, title XI, §11832(3), Nov. 5, 1990, 104 Stat. 1388–559.
-
-<i><sup>1</sup></i><i> See Amendment of Subsection (l)(3)(B)(iii) note below.</i>
 

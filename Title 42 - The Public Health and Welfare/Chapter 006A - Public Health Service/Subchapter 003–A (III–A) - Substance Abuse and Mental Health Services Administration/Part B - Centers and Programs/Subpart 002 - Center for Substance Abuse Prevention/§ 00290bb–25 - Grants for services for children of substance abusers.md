@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) to identify such children and such families through youth service agencies, family social services, child care providers, Head Start, schools and after-school programs, early childhood development programs, community-based family resource and support centers, the criminal justice system, health, substance abuse and mental health providers through screenings conducted during regular childhood examinations and other examinations, self and family member referrals, substance abuse treatment services, and other providers of services to children and families; and
 
-&emsp;&emsp;(D) to provide education and training to health, substance abuse and mental healthprofessionals, and other providers of services to children and families through youth service agencies, family social services, child care, Head Start, schools and after-school programs, early childhood development programs, community-based family resource and support centers, the criminal justice system, and other providers of services to children and families.
+&emsp;&emsp;(D) to provide education and training to health, substance abuse and mental health professionals, and other providers of services to children and families through youth service agencies, family social services, child care, Head Start, schools and after-school programs, early childhood development programs, community-based family resource and support centers, the criminal justice system, and other providers of services to children and families.
 
 #### (2) Administrative consultations
 
@@ -134,7 +134,7 @@ The Secretary shall distribute the grants through the following types of entitie
 
 #### (f) Federal share
 
-The Federal share of a program carried out under subsection (a) shall be 90 percent. The Secretary shall accept the value of in-kind contributions, including facilities and personnel, made by the grant recipient as a part or all of the non-Federal share of grants.
+The Federal share of a program carried out under subsection (a) shall be 90 percent. TheSecretary shall accept the value of in-kind contributions, including facilities and personnel, made by the grant recipient as a part or all of the non-Federal share of grants.
 
 #### (g) Restrictions on use of grant
 
@@ -156,7 +156,7 @@ The Secretary may make a grant under subsection (a) only if the applicant involv
 
 &emsp;(1) a description of the population that is to receive services under this section and a description of such services that are to be provided and measurable goals and objectives;
 
-&emsp;(2) a description of the mechanism that will be used to involve the local public agencies responsible for health, including maternal and child health <sup>2</sup> mental health, child welfare,education, juvenile justice, developmental disabilities, and substance abuse in planning and providing services under this section, as well as evidence that the proposal has been coordinated with the State agencies responsible for administering those programs, the State agency responsible for administering alcohol and drug programs, the State lead agency, and the State Interagency Coordinating Council under part H <sup>3</sup> of the Individuals with Disabilities Education Act; and; <sup>4</sup>
+&emsp;(2) a description of the mechanism that will be used to involve the local public agencies responsible for health, including maternal and child health <sup>2</sup> mental health, child welfare, education, juvenile justice, developmental disabilities, and substance abuse in planning and providing services under this section, as well as evidence that the proposal has been coordinated with the State agencies responsible for administering those programs, the State agency responsible for administering alcohol and drug programs, the State lead agency, and the State Interagency Coordinating Council under part H <sup>3</sup> of the Individuals with Disabilities Education Act; and; <sup>4</sup>
 
 &emsp;(3) such other information as the Secretary determines to be appropriate.
 
@@ -210,7 +210,7 @@ The Secretary shall periodically conduct evaluations to determine the effectiven
 
 #### (l) Report to Congress
 
-Not later than 2 years after the date on which amounts are first appropriated under subjection <sup>5</sup> (o), the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
+Not later than 2 years after the date on which amounts are first appropriated under subjection <sup>5</sup> (o), the Secretary shall prepare and submitto the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
 
 &emsp;(1) information concerning the number and type of programs receiving grants;
 
@@ -274,7 +274,7 @@ Section was formerly classified to section 280d of this title.
 
 Subsec. (a)(2). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator" in two places.
 
-<b>2004</b>—Subsecs. (b)(8), (f). Pub. L. 108–446, §305(i)(1), (3), which directed amendment of subsecs. (b)(8) and (f) of section 399A of the Public Health Service Act by substituting "part C" for "part H", was executed to subsec. (b)(8) of this section, which is section 519 of the Public Health Service Act, to reflect the probable intent of Congress and the renumbering of this section and repeal of former subsec. (f). See 2000 Amendments notes below.
+<b>2004</b>—Subsecs. (b)(8), (f). Pub. L. 108–446, §305(i)(1), (3), which directed amendment of subsecs. (b)(8) and (f) ofsection 399A of the Public Health Service Act by substituting "part C" for "part H", was executed to subsec. (b)(8) of this section, which is section 519 of the Public Health Service Act, to reflect the probable intent of Congress and the renumbering of this section and repeal of former subsec. (f). See 2000 Amendments notes below.
 
 <b>2000</b>—Pub. L. 106–310, §3106(a)–(m), which directed numerous amendments to section 399D of the Public Health Service Act and the subsequent renumbering of that section as section 519 of title V of the Act, was executed by amending this section and renumbering this section as section 519 of title V, to reflect the probable intent of Congress, notwithstanding the intervening renumbering of this section as section 399A of the Act by section 502(1) of Pub. L. 106–310. See source credit above and notes below.
 

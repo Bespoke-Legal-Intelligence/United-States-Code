@@ -20,7 +20,7 @@ The Secretary may conduct investigations and inspections regarding a vessel's co
 
 #### (2) Enforcement
 
-&emsp;In the case of refusal to obey a subpoena issued to any person under this subsection, the Secretary may request the Attorney Generalto invoke the aid of the appropriate district court of the United States to compel compliance.
+&emsp;In the case of refusal to obey a subpoena issued to any person under this subsection, the Secretary may request the Attorney General to invoke the aid of the appropriate district court of the United States to compel compliance.
 
 #### (c) Further action
 

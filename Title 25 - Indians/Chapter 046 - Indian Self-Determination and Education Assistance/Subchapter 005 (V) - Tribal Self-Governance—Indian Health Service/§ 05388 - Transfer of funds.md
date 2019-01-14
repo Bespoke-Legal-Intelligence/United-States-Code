@@ -48,7 +48,7 @@ The Secretary shall provide funds under a funding agreement under this subchapte
 
 #### (e) Other resources
 
-In the event an Indian tribe elects to carry out a compact or funding agreement with the use of Federal personnel, Federal supplies (including supplies available from Federal warehouse facilities), Federal supply sources (including lodging, airline transportation, and other means of transportation including the use of interagency motor pool vehicles) or other Federal resources (including supplies, services, and resources available to the Secretary under any procurement contracts in which the Department is eligible to participate), the Secretary shall acquireand transfer such personnel, supplies, or resources to the Indian tribe.
+In the event an Indian tribe elects to carry out a compact or funding agreement with the use of Federal personnel, Federal supplies (including supplies available from Federal warehouse facilities), Federal supply sources (including lodging, airline transportation, and other means of transportation including the use of interagency motor pool vehicles) or other Federal resources (including supplies, services, and resources available to the Secretary under any procurement contracts in which the Department is eligible to participate), the Secretary shall acquire and transfer such personnel, supplies, or resources to the Indian tribe.
 
 #### (f) Reimbursement to Indian Health Service
 
@@ -64,7 +64,7 @@ An Indian tribe is entitled to retain interest earned on any funds paid under a 
 
 #### (i) Carryover of funds
 
-All funds paid to an Indian tribe in accordance with a compact or funding agreement shall remain available until expended. In the event that an Indian tribe elects to carry over funding from 1 year to the next, such carryover shall not diminish the amount of funds the Indian tribe is authorized to receive under its funding agreement in that or any subsequent fiscal year.
+All funds paid to an Indian tribe in accordance with a compact or funding agreement shall remain available until expended. In the event that an Indian tribe elects to carry over funding from1 year to the next, such carryover shall not diminish the amount of funds the Indian tribe is authorized to receive under its funding agreement in that or any subsequent fiscal year.
 
 #### (j) Program income
 

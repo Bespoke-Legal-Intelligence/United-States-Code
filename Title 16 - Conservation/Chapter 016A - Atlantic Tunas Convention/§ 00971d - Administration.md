@@ -6,7 +6,7 @@ The Secretary is authorized and directed to administer and enforce all of the pr
 
 #### (b) Primary enforcement responsibility
 
-Enforcement activities at sea under the provisions of this chapter for fishing vessels subjectto the jurisdiction of the United States shall be primarily the responsibility of the Secretary of the department in which the Coast Guard is operating, in cooperation with the Secretary and the United States Customs Service. The Secretary after consultation with the Secretary of the department in which the Coast Guard is operating, shall adopt such regulations as may be necessary to provide for procedures and methods of enforcement pursuant to article IX of the Convention.
+Enforcement activities at sea under the provisions of this chapter for fishing vessels subject to the jurisdiction of the United States shall be primarily the responsibility of the Secretary of the department in which the Coast Guard is operating, in cooperation with the Secretary and the United States Customs Service. The Secretary after consultation with the Secretary of the department in which the Coast Guard is operating, shall adopt such regulations as may be necessary to provide for procedures and methods of enforcement pursuant to article IX of the Convention.
 
 #### (c) Regulations and other measures to carry out Commission recommendations
 
@@ -80,7 +80,7 @@ Consultation.—Not later than 30 days after a Nation is notified under paragrap
 
 #### (d) Recommended Commission actions regarding large-scale driftnet fishing and conservation of Atlantic swordfish
 
-(1) It is the sense of the Congress that the Secretary, in consultation with the Secretary of State, should seek support for a recommendation by the Commission to ban large-scale driftnet fishing (as that term is defined in section 3(16) <sup>1</sup> of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1802(16)\]) in the Convention area.
+(1) It is the sense of the Congress that the Secretary, in consultation with the Secretary ofState, should seek support for a recommendation by the Commission to ban large-scale driftnet fishing (as that term is defined in section 3(16) <sup>1</sup> of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1802(16)\]) in the Convention area.
 
 (2) The Secretary, in consultation with the Secretary of State, shall request the Commission to adopt recommendations necessary for the conservation and management of Atlantic swordfish. In making the request, the Secretary shall seek the establishment of an international minimum harvest size and a reduction in harvest levels to the extent necessary to conserve the stock. Until the Commission adopts all the conservation and management measures requested by the Secretary, the Secretary, within 3 months after each annual meeting of the Commission, shall notify Congress as to the nature and results of his request. These notifications shall identify those nations not acting to conserve and manage Atlantic swordfish, and recommend measures which could be taken to achieve effective international conservation and management of the stock.
 

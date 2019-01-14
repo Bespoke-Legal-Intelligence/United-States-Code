@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(E) encompasses the full range of services that are available for migratory children from appropriate local, State, and Federal educational programs;
 
-&emsp;&emsp;(F) is the product of joint planning among such local, State, and Federal programs, including programs under part A, early childhood programs, and language instructioneducational programs under part A of subchapter III; and
+&emsp;&emsp;(F) is the product of joint planning among such local, State, and Federal programs, including programs under part A, early childhood programs, and language instruction educational programs under part A of subchapter III; and
 
 &emsp;&emsp;(G) provides for the integration of services available under this part with services provided by such other programs.
 

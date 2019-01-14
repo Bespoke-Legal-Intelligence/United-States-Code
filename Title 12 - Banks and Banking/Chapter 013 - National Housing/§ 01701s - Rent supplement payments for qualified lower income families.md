@@ -16,7 +16,7 @@ As used in this section, the term—
 
 &emsp;(2) "income" means income from all sources of each member of the household, as determined in accordance with criteria prescribed by the Secretary. In determining amounts to be excluded from income, the Secretary may, in the Secretary's discretion, take into account the number of minor children in the household and such other factors as the Secretary may determine are appropriate.
 
-> The terms "qualified tenant" and "tenant" include a member of a cooperative who satisfies the foregoing requirements and who, upon resale of his membership to the cooperative, will not be reimbursed for any equity increment accumulated through payments under this section. With respect to members of a cooperative, the terms "rental" and "rental charges" mean the chargesunder the occupancy agreements between such members and the cooperative.
+> The terms "qualified tenant" and "tenant" include a member of a cooperative who satisfies the foregoing requirements and who, upon resale of his membership to the cooperative, will not be reimbursed for any equity increment accumulated through payments under this section. With respect to members of a cooperative, the terms "rental" and "rental charges" mean the charges under the occupancy agreements between such members and the cooperative.
 
 #### (d) Annual payment amount
 
@@ -52,7 +52,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 &emsp;(B) a private nonprofit corporation or other private nonprofit legal entity which is a mortgagor under a mortgage insured under section 231(c)(3) of the National Housing Act \[12 U.S.C. 1715v(c)(3)\] and which, after August 10, 1965, has obtained final endorsement of such mortgage for mortgage insurance and has been approved for receiving the benefits of this section;
 
-&emsp;(C) a private nonprofit corporation, a public body or agency, or a cooperative housing corporation, which is a borrower under section 1701q of this title and has been approved for receiving the benefits of this section: <i>Provided</i>, That, with respect to properties financed with loans under such section made on or beforeAugust 10, 1965, payments shall not be made with respect to more than 20 per centum of the dwelling units in any property so financed; and
+&emsp;(C) a private nonprofit corporation, a public body or agency, or a cooperative housing corporation, which is a borrower under section 1701q of this title and has been approved for receiving the benefits of this section: <i>Provided</i>, That, with respect to properties financed with loans under such section made on or before August 10, 1965, payments shall not be made with respect to more than 20 per centum of the dwelling units in any property so financed; and
 
 &emsp;(D) a private nonprofit corporation or other private nonprofit legal entity, a limited dividend corporation or other limited dividend legal entity, or a cooperative housing corporation, which is assisted under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\] and which has been approved for receiving the benefits of this section: <i>Provided</i>, That payments shall not be made with respect to more than 20 per centum of the dwelling units in any property so financed, except that the foregoing limitation may be increased to 40 per centum of the dwelling units in any such property if the Secretary determines that such increase is necessary and desirable in order to provide additional housing for individuals and families meeting the requirements of subsection (c).
 

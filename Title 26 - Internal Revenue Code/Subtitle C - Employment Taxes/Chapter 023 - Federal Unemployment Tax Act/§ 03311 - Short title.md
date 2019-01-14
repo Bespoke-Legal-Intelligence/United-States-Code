@@ -2,7 +2,7 @@
 
 This chapter may be cited as the "Federal Unemployment Tax Act."
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 454, §3308; renumbered §3309, Pub. L. 86–778, title V,§531(d)(1), Sept. 13, 1960, 74 Stat. 983; renumbered §3311, Pub. L. 91–373, title I, §104(b)(1), Aug. 10, 1970, 84 Stat. 697.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 454, §3308; renumbered §3309, Pub. L. 86–778, title V, §531(d)(1), Sept. 13, 1960, 74 Stat. 983; renumbered §3311, Pub. L. 91–373, title I, §104(b)(1), Aug. 10, 1970, 84 Stat. 697.)
 
 #### Short Title of 1976 Amendment
 

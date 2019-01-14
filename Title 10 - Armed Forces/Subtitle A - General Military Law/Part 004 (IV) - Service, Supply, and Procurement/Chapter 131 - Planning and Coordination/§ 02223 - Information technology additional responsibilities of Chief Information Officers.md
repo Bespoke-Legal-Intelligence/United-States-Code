@@ -216,7 +216,7 @@ Plan elements.—The plan under paragraph (1) shall include the following:
 
 &emsp;&emsp;"(A) An identification and explanation of the software licenses determined by the Chief Information Officer under paragraph (2) to be selected software licenses for purposes of this section, and a summary outline of the software licenses determined not to be selected software licenses for such purposes.
 
-&emsp;&emsp;"(B) Means to assess the needs of the Department and the components of the Department for selected software licenses during the two fiscal years following the date of the issuance of the plan.
+&emsp;&emsp;"(B) Means to assess the needs of the Department and the components of the Department for selectedsoftware licenses during the two fiscal years following the date of the issuance of the plan.
 
 &emsp;&emsp;"(C) Means by which the Department can achieve the greatest possible economies of scale and cost savings in the procurement, use, and optimization of selected software licenses.
 

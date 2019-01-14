@@ -34,7 +34,7 @@
 
 #### (5) Technical assistance to facilitate participation in SHOP Exchanges
 
-&emsp;The Secretary shall provide technical assistance to States to facilitate the participation of qualified small businesses in such States in SHOP Exchanges.
+&emsp;The Secretary shall provide technical assistance to States to facilitate the participationof qualified small businesses in such States in SHOP Exchanges.
 
 #### (b) American Health Benefit Exchanges
 
@@ -84,11 +84,11 @@
 
 #### (3) Rating system
 
-&emsp;The Secretary shall develop a rating system that would rate qualified health plans offered through an Exchange in each benefits level on the basis of the relative quality and price. TheExchange shall include the quality rating in the information provided to individuals and employers through the Internet portal established under paragraph (4).
+&emsp;The Secretary shall develop a rating system that would rate qualified health plans offered through an Exchange in each benefits level on the basis of the relative quality and price. The Exchange shall include the quality rating in the information provided to individuals and employers through the Internet portal established under paragraph (4).
 
 #### (4) Enrollee satisfaction system
 
-&emsp;The Secretary shall develop an enrollee satisfaction survey system that would evaluate the level of enrollee satisfaction with qualified health plans offered through an Exchange, for each such qualified health plan that had more than 500 enrollees in the previous year. The Exchange shall include enrollee satisfaction information in the information provided to individuals and employers through the Internet portal established under paragraph (5) in a manner that allows individuals to easily compare enrollee satisfaction levels between comparable plans.
+&emsp;The Secretary shall develop an enrollee satisfaction survey system that would evaluate the level of enrollee satisfaction with qualified health plans offered through an Exchange, for each such qualified health plan that had more than 500 enrollees in the previous year. The Exchange shall include enrollee satisfaction information in the information provided to individuals and employers through the Internetportal established under paragraph (5) in a manner that allows individuals to easily compare enrollee satisfaction levels between comparable plans.
 
 #### (5) Internet portals
 
@@ -238,11 +238,11 @@
 
 &emsp;&emsp;&emsp;(ii) through the imposition of premium price controls; or
 
-&emsp;&emsp;&emsp;(iii) on the basis that the plan provides treatments necessary to prevent patients'deaths in circumstances the Exchange determines are inappropriate or too costly.
+&emsp;&emsp;&emsp;(iii) on the basis that the plan provides treatments necessary to prevent patients' deaths in circumstances the Exchange determines are inappropriate or too costly.
 
 #### (2) Premium considerations
 
-&emsp;The Exchange shall require health plans seeking certification as qualified health plans to submit a justification for any premium increase prior to implementation of the increase. Such plans shall prominently post such information on their websites. The Exchange shall take this information, and the information and the recommendations provided to the Exchange by the State under section 2794(b)(1) <sup>1</sup> of the Public Health Service Act \[42 U.S.C. 300gg–94(b)(1)\] (relating to patterns or practices of excessive or unjustified premium increases), into consideration when determining whether to make such health plan available through the Exchange. The Exchange shall take into account any excess of premium growth outside the Exchange as compared to the rate of such growth inside the Exchange, including information reported by the States.
+&emsp;The Exchange shall require health plans seeking certification as qualified health plans to submit a justification for any premium increase prior to implementation of the increase. Such plans shall prominently post such information on their websites. The Exchange shall take this information, and the information and the recommendations provided to the Exchange by the State under section 2794(b)(1) <sup>1</sup> of the Public Health Service Act \[42U.S.C. 300gg–94(b)(1)\] (relating to patterns or practices of excessive or unjustified premium increases), into consideration when determining whether to make such health plan available through the Exchange. The Exchange shall take into account any excess of premium growth outside the Exchange as compared to the rate of such growth inside the Exchange, including information reported by the States.
 
 #### (3) Transparency in coverage
 
@@ -324,7 +324,7 @@
 
 &emsp;A strategy described in this paragraph is a payment structure that provides increased reimbursement or other incentives for—
 
-&emsp;&emsp;(A) improving health outcomes through the implementation of activities that shallinclude quality reporting, effective case management, care coordination, chronic disease management, medication and care compliance initiatives, including through the use of the medical home model, for treatment or services under the plan or coverage;
+&emsp;&emsp;(A) improving health outcomes through the implementation of activities that shall include quality reporting, effective case management, care coordination, chronic disease management, medication and care compliance initiatives, including through the use of the medical home model, for treatment or services under the plan or coverage;
 
 &emsp;&emsp;(B) the implementation of activities to prevent hospital readmissions through a comprehensive program for hospital discharge that includes patient-centered education and counseling, comprehensive discharge planning, and post discharge reinforcement by an appropriate health care professional;
 
@@ -404,7 +404,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish standards for navigators under this subsection, includingprovisions to ensure that any private or public entity that is selected as a navigator is qualified, and licensed if appropriate, to engage in the navigator activities described in this subsection and to avoid conflicts of interest. Under such standards, a navigator shall not—
+&emsp;&emsp;The Secretary shall establish standards for navigators under this subsection, including provisions to ensure that any private or public entity that is selected as a navigator is qualified, and licensed if appropriate, to engage in the navigator activities described in this subsection and to avoid conflicts of interest. Under such standards, a navigator shall not—
 
 &emsp;&emsp;&emsp;(i) be a health insurance issuer; or
 

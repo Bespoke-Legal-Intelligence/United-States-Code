@@ -60,7 +60,7 @@ For purposes of subsection (a), the election administration issues described in 
 
 &emsp;(C) Whether or not there is a need for more consistency among State recount and contest procedures used with respect to elections for Federal office.
 
-&emsp;(14) The technical feasibility of providing voting materials in eight or more languagesfor voters who speak those languages and who have limited English proficiency.
+&emsp;(14) The technical feasibility of providing voting materials in eight or more languages for voters who speak those languages and who have limited English proficiency.
 
 &emsp;(15) Matters particularly relevant to voting and administering elections in rural and urban areas.
 

@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 &emsp;(2) the term "Attorney General" means the Attorney General of the United States;
 
-&emsp;(3) the term "imminent hazard to the health and safety" means, for purposes of section 3605 of this title, that an asbestos material is, according to standards established by the Secretary, friable or easily damaged, or withineasy reach of students or otherwise susceptible to damage (including damage from water or air circulation) which could result in the dispersal of asbestos fibers into the school environment;
+&emsp;(3) the term "imminent hazard to the health and safety" means, for purposes of section 3605 of this title, that an asbestos material is, according to standards established by the Secretary, friable or easily damaged, or within easy reach of students or otherwise susceptible to damage (including damage from water or air circulation) which could result in the dispersal of asbestos fibers into the school environment;
 
 &emsp;(4) the term "local educational agency" means—
 

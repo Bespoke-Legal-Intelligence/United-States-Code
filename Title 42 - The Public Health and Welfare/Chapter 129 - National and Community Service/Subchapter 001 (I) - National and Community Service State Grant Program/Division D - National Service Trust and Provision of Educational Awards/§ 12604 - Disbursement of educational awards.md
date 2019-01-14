@@ -18,7 +18,7 @@ Amounts in the Trust shall be available—
 
 #### (1) Application by eligible individuals
 
-&emsp;An eligible individual under section 12602 of this title who desires to apply the nationalservice educational award of the individual, an eligible individual under section 12602(a) of this title who served in a summer of service program and desires to apply that individual's summer of service educational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual's silver scholar educational award, to the repayment of qualified student loans shall submit, in a manner prescribed by the Corporation, an application to the Corporation that—
+&emsp;An eligible individual under section 12602 of this title who desires to apply the national service educational award of the individual, an eligible individual under section 12602(a) of this title who served in a summer of service program and desires to apply that individual's summer of service educational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual's silver scholar educational award, to the repayment of qualified student loans shall submit, in a manner prescribed by the Corporation, an application to the Corporation that—
 
 &emsp;&emsp;(A) identifies, or permits the Corporation to identify readily, the holder or holders of such loans;
 
@@ -82,7 +82,7 @@ Amounts in the Trust shall be available—
 
 &emsp;&emsp;(A) identifies each eligible individual filing an application under paragraph (1) for a disbursement of the individual's national service educational award, summer of service educational award, or silver scholar educational award, as applicable, under this subsection;
 
-&emsp;&emsp;(B) specifies the amounts for which such eligible individuals are, consistent withparagraph (6), qualified for disbursement under this subsection;
+&emsp;&emsp;(B) specifies the amounts for which such eligible individuals are, consistent with paragraph (6), qualified for disbursement under this subsection;
 
 &emsp;&emsp;(C) certifies that—
 
@@ -247,6 +247,10 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
+
+#### Effective Date
+
+Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

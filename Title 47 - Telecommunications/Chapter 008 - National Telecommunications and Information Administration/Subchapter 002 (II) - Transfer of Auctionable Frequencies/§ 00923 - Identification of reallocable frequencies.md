@@ -136,7 +136,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (A) Required reallocation
 
-&emsp;&emsp;The Secretary shall, as part of the report required by subsection (d)(1), specifically identify and recommend for immediate reallocation bands of frequencies that in the aggregate span not less than 50 megahertz,that meet the criteria described in subsection (a), and that can be made available for reallocation immediately upon issuance of the report required by subsection (d)(1). Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that in the aggregate span not less than 25 megahertz.
+&emsp;&emsp;The Secretary shall, as part of the report required by subsection (d)(1), specifically identify and recommend for immediate reallocation bands of frequencies that in the aggregate span not less than 50 megahertz, that meet the criteria described in subsection (a), and that can be made available for reallocation immediately upon issuance of the report required by subsection (d)(1). Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that in the aggregate span not less than 25 megahertz.
 
 #### (B) Permitted reallocation
 
@@ -152,7 +152,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 &emsp;&emsp;(C) consider the need to coordinate frequency use with other nations; and
 
-&emsp;&emsp;(D) take into account the relationship between the costs to the Federal Government of changing to different frequencies and the benefits that may be obtained from commercial and other non-Federal uses of the reassigned frequencies.
+&emsp;&emsp;(D) take into account the relationship between the costs to the Federal Government of changing to different frequencies and thebenefits that may be obtained from commercial and other non-Federal uses of the reassigned frequencies.
 
 #### (f) Additional reallocation report
 
@@ -194,7 +194,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 &emsp;&emsp;&emsp;&emsp;(I) to accommodate non-Federal use of shared frequencies; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of eligible frequencies reallocated for exclusive non-Federal useand assigned through a system of competitive bidding under section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)) but with respect to which a Federal entity retains primary allocation or protected status for a period of time after the completion of the competitive bidding process, to accommodate shared Federal and non-Federal use of such frequencies for such period; and
+&emsp;&emsp;&emsp;&emsp;(II) in the case of eligible frequencies reallocated for exclusive non-Federal use and assigned through a system of competitive bidding under section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)) but with respect to which a Federal entity retains primary allocation or protected status for a period of time after the completion of the competitive bidding process, to accommodate shared Federal and non-Federal use of such frequencies for such period; and
 
 &emsp;&emsp;&emsp;(v) the costs associated with the accelerated replacement of systems and equipment if the acceleration is necessary to ensure the timely relocation of systems to a new frequency assignment or the timely accommodation of sharing of Federal frequencies.
 
@@ -202,7 +202,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 &emsp;&emsp;For purposes of subparagraph (A), comparable capability of systems—
 
-&emsp;&emsp;&emsp;(i) may be achieved by relocating a Federal Government station to a new frequency assignment, by relocating a Federal Government station to a different geographic location, by modifying Federal Government equipment to mitigate interference or use less spectrum, in terms of bandwidth, geography, or time, and thereby permitting spectrum sharing (including sharing among relocated Federal entities and incumbents to make spectrum available for non-Federal use) or relocation, or by utilizing an alternative technology; and
+&emsp;&emsp;&emsp;(i) may be achieved by relocating a Federal Government station to a new frequency assignment, by relocating a Federal Government station to a different geographic location, by modifying Federal Government equipment to mitigate interference or use less spectrum, in terms of bandwidth, geography, or time, and thereby permitting spectrum sharing (including sharing among relocated Federal entitiesand incumbents to make spectrum available for non-Federal use) or relocation, or by utilizing an alternative technology; and
 
 &emsp;&emsp;&emsp;(ii) includes the acquisition of state-of-the-art replacement systems intended to meet comparable operational scope, which may include incidental increases in functionality.
 
@@ -238,7 +238,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 &emsp;&emsp;(C) The frequency bands used by such facilities or systems, described by geographic location.
 
-&emsp;&emsp;(D) The steps to be taken by the Federal entity to relocate its spectrum use from such frequencies or to share such frequencies, including timelines for specific geographic locations in sufficient detail to indicate when use of such frequencies at suchlocations will be discontinued by the Federal entity or shared between the Federal entity and non-Federal users.
+&emsp;&emsp;(D) The steps to be taken by the Federal entity to relocate its spectrum use from such frequencies or to share such frequencies, including timelines for specific geographic locations in sufficient detail to indicate when use of such frequencies at such locations will be discontinued by the Federal entity or shared between the Federal entity and non-Federal users.
 
 &emsp;&emsp;(E) The specific interactions between the eligible Federal entity and the NTIA needed to implement the transition plan.
 
@@ -412,7 +412,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (1) In general
 
-&emsp;In evaluating a band of frequencies for possible reallocation for exclusive non-Federal use or shared use, the NTIA shall give priority to options involving reallocation of the band for exclusive non-Federal use and shall chooseoptions involving shared use only when it determines, in consultation with the Director of the Office of Management and Budget, that relocation of a Federal entity from the band is not feasible because of technical or cost constraints.
+&emsp;In evaluating a band of frequencies for possible reallocation for exclusive non-Federal use or shared use, the NTIA shall give priority to options involving reallocation of the band for exclusive non-Federal use and shall choose options involving shared use only when it determines, in consultation with the Director of the Office of Management and Budget, that relocation of a Federal entity from the band is not feasible because of technical or cost constraints.
 
 #### (2) Notification of Congress when sharing chosen
 

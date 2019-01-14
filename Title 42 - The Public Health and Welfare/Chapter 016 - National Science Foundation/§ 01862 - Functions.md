@@ -54,7 +54,7 @@ In carrying out subsection (a)(4), the Foundation is authorized to foster and su
 
 <b>1992</b>—Subsec. (g). Pub. L. 102–476 and Pub. L. 102–588 amended section identically, adding subsec. (g).
 
-<b>1986</b>—Subsec. (a)(6). Pub. L. 99–383 amended par. (6) generally. Prior to amendment, par. (6) read as follows: "to maintain a current register of scientific and engineering personnel, and in other ways to provide a central clearinghouse for the collection, interpretation, and analysis of data on the availability of, and the current and projected need for, scientific and engineering resources in the United States, and to provide a source of information for policy formulation by other agencies of the Federal Government; and".
+<b>1986</b>—Subsec. (a)(6). Pub. L. 99–383 amended par. (6) generally. Prior to amendment, par. (6) read as follows: "to maintain a current register of scientific and engineering personnel, and in other ways to provide a central clearinghouse for the collection, interpretation,and analysis of data on the availability of, and the current and projected need for, scientific and engineering resources in the United States, and to provide a source of information for policy formulation by other agencies of the Federal Government; and".
 
 <b>1985</b>—Subsec. (a)(1). Pub. L. 99–159, §110(a)(1), struck out "engineering," after "biological," and inserted provisions relating to research fundamental to the engineering process, engineering programs, and engineering activities.
 
@@ -148,7 +148,7 @@ Issues to be examined.—In conducting the review, the Director shall examine, a
 
 &emsp;&emsp;"(B) Efforts by the Foundation to track its progress in addressing the issues and recommendations under subparagraph (A).
 
-&emsp;&emsp;"(C) Efforts by the Foundation to address other opportunities and challenges, including efforts on scientific research, coordination with other Federal agencies and international partners, logistics and transportation, health and safety of participants, oversight and financial management of awardeesand contractors, and resources and policy challenges.
+&emsp;&emsp;"(C) Efforts by the Foundation to address other opportunities and challenges, including efforts on scientific research, coordination with other Federal agencies and international partners, logistics and transportation, health and safety of participants, oversight and financial management of awardees and contractors, and resources and policy challenges.
 
 "(b)
 
@@ -226,7 +226,7 @@ Pub. L. 94–471, §5, Oct. 11, 1976, 90 Stat. 2054, provided that:
 
 "(c) No contract, grant or other arrangement shall be made under this Section without the prior approval of the National Science Board.
 
-"(d) To assist the Congress in evaluating activities initiated pursuant to this Section, the Director of the National Science Foundation, in consultation with areview panel having a balanced representation from the scientific and nonscientific community and the public and private sectors, is directed to prepare a comprehensive analysis and assessment of such activities to be submitted to the House Committee on Science and Technology \[now Committee on Science, Space, and Technology\] and the Senate Committee on Labor and Public Welfare \[now Committee on Health, Education, Labor, and Pensions\], not later than October 31, 1977. An interim report is required no later than March 1, 1977."
+"(d) To assist the Congress in evaluating activities initiated pursuant to this Section, the Director of the National Science Foundation, in consultation with a review panel having a balanced representation from the scientific and nonscientific community and the public and private sectors, is directed to prepare a comprehensive analysis and assessment of such activities to be submitted to the House Committee on Science and Technology \[now Committee on Science, Space, and Technology\] and the Senate Committee on Labor and Public Welfare \[now Committee on Health, Education, Labor, and Pensions\], not later than October 31, 1977. An interim report is required no later than March 1, 1977."
 
 #### Development of Program Plan for Continuing Education in Science and Engineering
 

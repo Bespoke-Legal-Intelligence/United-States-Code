@@ -1,12 +1,12 @@
 ### §8110. Operation of medical facilities
 
-(a)(1) The Secretary shall establish the total number of hospital beds and nursing home beds in medical facilities over which the Secretary has direct jurisdiction for the care and treatment of eligible veterans. The Secretary shall establish the total number of such beds so as to maintain a contingency capacity to assist the Department of Defense in time of war or national emergency to care for the casualties of such war or national emergency. Of the number of beds authorized pursuant to the preceding sentence, the Secretary shall maintain the availability of such additional beds and facilities in addition to the operating bed level as the Secretary considers necessary for such contingency purposes. The President shall include inthe Budget transmitted to the Congress for each fiscal year pursuant to section 1105 of title 31, an amount for medical care and amounts for construction sufficient to maintain the availability of the contingency capacity referred to in the second sentence of this paragraph. The Secretary shall staff and maintain, in such a manner as to ensure the immediate acceptance and timely and complete care of patients, and in a manner consistent with the policies of the Secretary on overtime, sufficient beds and other treatment capacities to accommodate, and provide such care to, eligible veterans applying for admission and found to be in need of hospital care or medical services.
+(a)(1) The Secretary shall establish the total number of hospital beds and nursing home beds in medical facilities over which the Secretary has direct jurisdiction for the care and treatment of eligible veterans. The Secretary shall establish the total number of such beds so as to maintain a contingency capacity to assist the Department of Defense in time of war or national emergency to care for the casualties of such war or national emergency. Of the number of beds authorized pursuant to the preceding sentence, the Secretary shall maintain the availability of such additional beds and facilities in addition to the operating bed level as the Secretary considers necessary for such contingency purposes. The President shall include in the Budget transmitted to the Congress for each fiscal year pursuant to section 1105 of title 31, an amount for medical care and amounts for construction sufficient to maintain the availability of the contingency capacity referred to in the second sentence of this paragraph. The Secretary shall staff and maintain, in such a manner as to ensure the immediate acceptance and timely and complete care of patients, and in a manner consistent with the policies of the Secretary on overtime, sufficient beds and other treatment capacities to accommodate, and provide such care to, eligible veterans applying for admission and found to be in need of hospital care or medical services.
 
 (2) The Secretary shall maintain the bed and treatment capacities of all Department medical facilities, including the staffing required to maintain such capacities, so as to ensure the accessibility and availability of such beds and treatment capacities to eligible veterans in all States, to minimize delays in admissions and in the provision of hospital, nursing home, and domiciliary care, and of medical services furnished pursuant to section 1710(a) of this title, and to ensure that eligible veterans are provided such care and services in an appropriate manner.
 
 (3)(A) The Under Secretary for Health shall at the end of each fiscal year (i) analyze agencywide admission policies and the records of those eligible veterans who apply for hospital care, medical services, and nursing home care, but are rejected or not immediately admitted or provided such care or services, and (ii) review and make recommendations regarding the adequacy of staff levels for compliance with the policy established under subparagraph (C), the adequacy of the established operating bed levels, the geographic distribution of operating beds, the demographic characteristics of the veteran population and the associated need for medical care and nursing home facilities and services in each State, and the proportion of the total number of operating beds that are hospital beds and that are nursing home beds.
 
-(B) After considering the analyses and recommendations of the Under Secretary for Health pursuant to subparagraph (A) of this paragraph for any fiscal year, the Secretary shall report to the committees, on or before December 1 after the close of such fiscal year, on the results of the analysis of the Under Secretary for Health and on the numbers of operating beds and level of treatment capacities required to enable the Department to carry out the primary function of the Veterans Health Administration. The Secretary shall include in each such report recommendations for (i) the numbers of operating beds and the level of treatment capacities required for the health care of veterans and the maintenance of the contingency capacity referred to in paragraph (1) of this subsection, and (ii) the appropriate staffing and funds therefor.
+(B) After considering the analyses and recommendations of the Under Secretary for Health pursuant to subparagraph (A) of this paragraph for any fiscal year, the Secretary shall report to the committees, on or before December 1 afterthe close of such fiscal year, on the results of the analysis of the Under Secretary for Health and on the numbers of operating beds and level of treatment capacities required to enable the Department to carry out the primary function of the Veterans Health Administration. The Secretary shall include in each such report recommendations for (i) the numbers of operating beds and the level of treatment capacities required for the health care of veterans and the maintenance of the contingency capacity referred to in paragraph (1) of this subsection, and (ii) the appropriate staffing and funds therefor.
 
 (C) The Secretary shall, in consultation with the Under Secretary for Health, establish a nationwide policy on the staffing of Department medical facilities in order to ensure that such facilities have adequate staff for the provision to veterans of appropriate, high-quality care and services. The policy shall take into account the staffing levels and mixture of staff skills required for the range of care and services provided veterans in Department facilities.
 
@@ -24,21 +24,15 @@
 
 (b) When the Secretary determines, in accordance with regulations which the Secretary shall prescribe, that a Department facility serves a substantial number of veterans with limited English-speaking ability, the Secretary shall establish and implement procedures, upon the recommendation of the Under Secretary for Health, to ensure the identification of sufficient numbers of individuals on such facility's staff who are fluent in both the language most appropriate to such veterans and in English and whose responsibilities shall include providing guidance to such veterans and to appropriate Department staff members with respect to cultural sensitivities and bridging linguistic and cultural differences.
 
-(c) The Secretary shall include in the materials submitted to Congress each year in support of the budget of the Department for the next fiscal year a report on activities and proposals involving contracting for performance by contractor personnel of work previously performed by Department employees. The report shall—
+(c) The Secretary may not in any fiscal year close more than 50 percent of the beds within a bed section (of 20 or more beds) of a Department medical center unless the Secretary first submits to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report providing a justification for the closure. No action to carry out such closure may be taken after the submission of such report until the end of the 21-day period beginning on the date of the submission of the report.
 
-&emsp;(1) identify those specific activities that are currently performed at a Department facility by more than 10 Department employees which the Secretary proposes to study for possible contracting involving conversion from performance by Department employees to performance by employees of a contractor; and
-
-&emsp;(2) identify those specific activities that have been contracted for performance by contractor employees during the prior fiscal year (shown by location, subject, scope of contracts, and savings) and shall describe the effect of such contracts on the quality of delivery of health services during such year.
-
-(d) The Secretary may not in any fiscal year close more than 50 percent of the beds within a bed section (of 20 or more beds) of a Department medical center unless the Secretary first submits to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report providing a justification for the closure. No action to carry out such closure may be taken after the submission of such report until the end of the 21-day period beginning on the date of the submission of the report.
-
-(e) The Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives, not later than January 20 of each year, a report documenting by network for the preceding fiscal year the following:
+(d) The Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives, not later than January 20 of each year, a report documenting by network for the preceding fiscal year the following:
 
 &emsp;(1) The number of medical service and surgical service beds, respectively, that were closed during that fiscal year and, for each such closure, a description of the changes in delivery of services that allowed such closure to occur.
 
 &emsp;(2) The number of nursing home beds that were the subject of a mission change during that fiscal year and the nature of each such mission change.
 
-(f) For purposes of this section:
+(e) For purposes of this section:
 
 &emsp;(1) The term "closure", with respect to beds in a medical center, means ceasing to provide staffing for, and to operate, those beds. Such term includes converting the provision of such bed care from care in a Department facility to care under contract arrangements.
 
@@ -52,13 +46,19 @@
 
 &emsp;&emsp;(C) A description of the anticipated effects of the closure on veterans and on their access to care.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 59, §5010; amended Pub. L. 96–151, title III, §301(a), Dec. 20, 1979, 93 Stat. 1095; Pub. L. 97–66, title VI, §601(b), Oct. 17, 1981, 95 Stat. 1033; Pub. L. 97–72, title I, §108, Nov. 3, 1981, 95 Stat. 1053; Pub. L. 97–306, title IV, §409(b), Oct. 14, 1982, 96 Stat. 1446; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; Pub. L. 98–160, title VII, §702(19), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–528, title I, §102, Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–576, title VII, §702(15), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 100–322, title II, §222(a), title IV, §401(a), May 20, 1988, 102 Stat. 531, 543; renumbered §8110 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XI, §1103, title XII, §1201(b)(1), (d)(17), (g)(7), Nov. 2, 1994, 108 Stat. 4681, 4682, 4684, 4687; Pub. L. 104–66, title I, §1141(c), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title I, §101(e)(4), title III, §305, Oct. 9, 1996, 110 Stat. 3181, 3194; Pub. L. 106–117, title III, §301, Nov. 30, 1999, 113 Stat. 1571; Pub. L. 107–135, title I, §124, Jan. 23, 2002, 115 Stat. 2452; Pub. L. 107–314, div. A, title VII, §726(a), Dec. 2, 2002, 116 Stat. 2599.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 59, §5010; amended Pub. L. 96–151, title III, §301(a), Dec. 20, 1979, 93 Stat. 1095; Pub. L. 97–66, title VI, §601(b), Oct. 17, 1981, 95 Stat. 1033; Pub. L. 97–72, title I, §108, Nov. 3, 1981, 95 Stat. 1053; Pub. L. 97–306, title IV, §409(b), Oct. 14, 1982, 96 Stat. 1446; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; Pub. L. 98–160, title VII, §702(19), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–528, title I, §102, Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–576, title VII, §702(15), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 100–322, title II, §222(a), title IV, §401(a), May 20, 1988, 102 Stat. 531, 543; renumbered §8110 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XI, §1103, title XII, §1201(b)(1), (d)(17), (g)(7), Nov. 2, 1994, 108 Stat. 4681, 4682, 4684, 4687; Pub. L. 104–66, title I, §1141(c), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title I, §101(e)(4), title III, §305, Oct. 9, 1996, 110 Stat. 3181, 3194; Pub. L. 106–117, title III, §301, Nov. 30, 1999, 113 Stat. 1571; Pub. L. 107–135, title I, §124, Jan. 23, 2002, 115 Stat. 2452; Pub. L. 107–314, div. A, title VII, §726(a), Dec. 2, 2002, 116 Stat. 2599; Pub. L. 115–251, title II, §207, Sept. 29, 2018, 132 Stat. 3173.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former section 5001(a)(2), (3), (h) of this title prior to the general revision of this subchapter by Pub. L. 96–22.
 
 #### Amendments
+
+<b>2018</b>—Subsecs. (c) to (f). Pub. L. 115–251 redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c) which read as follows: "The Secretary shall include in the materials submitted to Congress each year in support of the budget of the Department for the next fiscal year a report on activities and proposals involving contracting for performance by contractor personnel of work previously performed by Department employees. The report shall—
+
+&emsp;"(1) identify those specific activities that are currently performed at a Department facility by more than 10 Department employees which the Secretary proposes to study for possible contracting involving conversion from performance by Department employees to performance by employees of a contractor; and
+
+&emsp;"(2) identify those specific activities that have been contracted for performance by contractor employees during the prior fiscal year (shown by location, subject, scope of contracts, and savings) and shall describe the effect of such contracts on the quality of delivery of health services during such year."
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–314 struck out "at not more than 125,000 and not less than 100,000" before period at end of first sentence, "shall operate and maintain a total of not less than 90,000 hospital beds and nursing home beds and" before "shall maintain the availability" in third sentence, and "to enable the Department to operate and maintain a total of not less than 90,000 hospital and nursing home beds in accordance with this paragraph and" after "construction sufficient" in fourth sentence.
 
@@ -162,6 +162,102 @@ Pub. L. 96–151, title III, §301(b), Dec. 20, 1979, 93 Stat. 1096, provided th
 
 Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
 
+#### Health Care in Underserved Areas
+
+Pub. L. 115–182, title IV, §§401, 402, June 6, 2018, 132 Stat. 1470, 1471, as amended by Pub. L. 115–251, title II, §211(b)(8), Sept. 29, 2018, 132 Stat. 3177, provided that:
+
+#### "SEC. 401. DEVELOPMENT OF CRITERIA FOR DESIGNATION OF CERTAIN MEDICAL FACILITIES OF THE DEPARTMENT OF VETERANS AFFAIRS AS UNDERSERVED FACILITIES AND PLAN TO ADDRESS PROBLEM OF UNDERSERVED FACILITIES.
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[June 6, 2018\], the Secretary of Veterans Affairs shall develop criteria to designate medical centers, ambulatory care facilities, and community based outpatient clinics of the Department of Veterans Affairs as underserved facilities.
+
+"(b)
+
+Consideration.—Criteria developed under subsection (a) shall include consideration of the following with respect to a facility:
+
+&emsp;"(1) The ratio of veterans to health care providers of the Department of Veterans Affairs for a standardized geographic area surrounding the facility, including a separate ratio for general practitioners and specialists.
+
+&emsp;"(2) The range of clinical specialties covered by such providers in such area.
+
+&emsp;"(3) Whether the local community is medically underserved.
+
+&emsp;"(4) The type, number, and age of open consults.
+
+&emsp;"(5) Whether the facility is meeting the wait-time goals of the Department or the applicable access standards developed under section 1703B of title 38, United States Code.
+
+&emsp;"(6) Such other criteria as the Secretary considers important in determining which facilities are not adequately serving area veterans.
+
+"(c)
+
+Analysis of Facilities.—Not less frequently than annually, directors of Veterans Integrated Service Networks of the Department shall perform an analysis to determine which facilities within that Veterans Integrated Service Network qualify as underserved facilities pursuant to criteria developed under subsection (a).
+
+"(d)
+
+Annual Plan To Address Underserved Facilities.—
+
+&emsp;"(1)
+
+Plan required.—Not later than 1 year after the date of the enactment of this Act \[June 6, 2018\] and not less frequently than once each year, the Secretary shall submit to Congress a plan to address the problem of underserved facilities of the Department, as designated pursuant to criteria developed under subsection (a).
+
+&emsp;"(2)
+
+Contents.—Each plan submitted under paragraph (1) shall address the following:
+
+&emsp;&emsp;"(A) Increasing personnel or temporary personnel assistance, including mobile deployment teams furnished under section 402 of this Act.
+
+&emsp;&emsp;"(B) Providing special hiring incentives, including under the Education Debt Reduction Program under subchapter VII of chapter 76 of title 38, United States Code, and recruitment, relocation, and retention incentives.
+
+&emsp;&emsp;"(C) Using direct hiring authority.
+
+&emsp;&emsp;"(D) Improving training opportunities for staff.
+
+&emsp;&emsp;"(E) Such other actions as the Secretary considers appropriate.
+
+#### "SEC. 402. PILOT PROGRAM TO FURNISH MOBILE DEPLOYMENT TEAMS TO UNDERSERVED FACILITIES.
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall carry out a pilot program to furnish mobile deployment teams of medical personnel to underserved facilities.
+
+"(b)
+
+Elements.—In furnishing mobile deployment teams under subsection (a), the Secretary shall consider the following elements:
+
+&emsp;"(1) The medical positions of greatest need at underserved facilities.
+
+&emsp;"(2) The size and composition of teams to be deployed.
+
+&emsp;"(3) Such other elements as the Secretary considers necessary for effective oversight of the program established under subsection (a).
+
+"(c)
+
+Use of Annual Analysis.—The Secretary shall use the results of the annual analysis conducted under section 401(c) of this Act to form mobile deployment teams under subsection (a) that are composed of the most needed medical personnel for underserved facilities.
+
+"(d)
+
+Reporting.—
+
+&emsp;"(1)
+
+Progress report.—Not later than 1 year after the date of the enactment of this Act \[June 6, 2018\], the Secretary shall submit a report to Congress on the implementation of the pilot program under this section.
+
+&emsp;"(2)
+
+Final report.—Not later than the termination of the pilot program under this section, the Secretary shall submit a final report to Congress that contains the recommendations of the Secretary regarding the feasibility and advisability of—
+
+&emsp;&emsp;"(A) extending or expanding the pilot program; and
+
+&emsp;&emsp;"(B) making the pilot program (or any aspect thereof) permanent.
+
+"(e)
+
+Duration.—The pilot program under this section shall terminate 3 years after the date of the enactment of this Act \[June 6, 2018\].
+
+"(f)
+
+Underserved Facility Defined.—In this section, the term 'underserved facility' means a medical center, ambulatory care facility, or community based outpatient clinic of the Department of Veterans Affairs designated by the Secretary of Veterans Affairs as underserved pursuant to criteria developed under section 401 of this Act."
+
 #### Inventory of Medical Waste Management Activities at Department of Veterans Affairs Health Care Facilities
 
 Pub. L. 108–422, title VI, §602, Nov. 30, 2004, 118 Stat. 2397, provided that:
@@ -172,7 +268,7 @@ Inventory.—The Secretary of Veterans Affairs shall establish and maintain a na
 
 &emsp;"(1) A statement of the current national policy of the Department on managing and disposing of medical waste, including regulated medical waste in all its forms.
 
-&emsp;"(2) A description of the program of each geographic service area of the Department to manage and dispose of medical waste, including general medical waste and regulated medical waste, with a description of the primary methods used in those programs and the associated costs of those programs, with cost information shown separately for in-house costs (including full-time equivalent employees) and contract costs.
+&emsp;"(2) A description of the program of each geographic service area of the Department to manage and dispose of medical waste, including general medical waste and regulated medical waste, with a description of the primary methods used in those programs and the associated costs of those programs, with cost information shown separately for in-housecosts (including full-time equivalent employees) and contract costs.
 
 "(b)
 

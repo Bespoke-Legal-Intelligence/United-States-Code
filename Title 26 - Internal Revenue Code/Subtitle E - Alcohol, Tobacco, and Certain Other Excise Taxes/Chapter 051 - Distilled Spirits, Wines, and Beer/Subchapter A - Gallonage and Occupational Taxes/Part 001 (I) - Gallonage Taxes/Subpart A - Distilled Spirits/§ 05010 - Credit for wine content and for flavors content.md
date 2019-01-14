@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) alcohol derived from flavors distilled at a distilled spirits plant, and
 
-&emsp;&emsp;&emsp;(iii) in the case of any distilled spirits product, alcohol derived from flavors to the extent such alcohol exceeds (on a proofgallon basis) 2½ percent of the finished product.
+&emsp;&emsp;&emsp;(iii) in the case of any distilled spirits product, alcohol derived from flavors to the extent such alcohol exceeds (on a proof gallon basis) 2½ percent of the finished product.
 
 (Added Pub. L. 96–598, §6(a), Dec. 24, 1980, 94 Stat. 3488; amended Pub. L. 98–369, div. A, title I, §27(a)(2), July 18, 1984, 98 Stat. 507; Pub. L. 100–647, title V, §5063(a), Nov. 10, 1988, 102 Stat. 3681; Pub. L. 101–508, title XI, §11201(a)(2), Nov. 5, 1990, 104 Stat. 1388–415; Pub. L. 109–59, title XI, §11125(b)(14), Aug. 10, 2005, 119 Stat. 1956.)
 

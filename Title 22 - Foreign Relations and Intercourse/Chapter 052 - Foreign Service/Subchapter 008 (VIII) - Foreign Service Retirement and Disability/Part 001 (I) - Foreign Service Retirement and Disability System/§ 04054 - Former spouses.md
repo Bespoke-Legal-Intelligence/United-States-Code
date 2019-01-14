@@ -20,7 +20,7 @@
 
 (4) No spousal agreement or court order under section 4060(b)(1) of this title involving any participant may provide for an annuity or any combination of annuities under this subsection which exceeds the annuity of the participant, nor may any such court order relating to an annuity under this subsection be given effect if it is issued more than 24 months after the date the divorce or annulment involved becomes final.
 
-(5)(A) The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spousebased upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) or section 4046(b)(3) of this title.
+(5)(A) The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) or section 4046(b)(3) of this title.
 
 (B) If any annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 3948 of this title, or reinstated or reappointed in the Service in the case of a recovered disability annuitant or if any annuitant is reemployed as provided for under section 4064 of this title, the salary of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Fund.
 
@@ -130,7 +130,7 @@ Exceptions.—
 
 &emsp;"(1) The amendments made by section 202 \[enacting section 4069–1 of this title\] shall apply to any individual who, on or after the date of enactment of this title \[Jan. 8, 1988\], is married to a participant or former participant.
 
-&emsp;"(2) The amendment made by section 217(a) \[amending this section\] shall not apply with respect to the former spouse of a participant or former participant who is subject to subchapter I of chapter 8 of the Foreign Service Act of 1980 \[this part\] if, on the date of enactment of this title \[Jan. 8, 1988\], that former spouse—
+&emsp;"(2) The amendment made by section 217(a) \[amending this section\] shall not apply with respect to theformer spouse of a participant or former participant who is subject to subchapter I of chapter 8 of the Foreign Service Act of 1980 \[this part\] if, on the date of enactment of this title \[Jan. 8, 1988\], that former spouse—
 
 &emsp;&emsp;"(A) was the spouse of that participant or former participant; or
 

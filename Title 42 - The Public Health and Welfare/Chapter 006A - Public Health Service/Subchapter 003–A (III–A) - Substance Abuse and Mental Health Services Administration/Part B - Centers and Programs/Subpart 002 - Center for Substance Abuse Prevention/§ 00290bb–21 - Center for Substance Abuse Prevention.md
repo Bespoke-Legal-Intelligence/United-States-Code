@@ -8,7 +8,7 @@ There is established in the Administration a Center for Substance Abuse Preventi
 
 The Director of the Prevention Center shall—
 
-&emsp;(1) sponsor regional workshops on the prevention of drug and alcohol abuse through the reduction of risk and the promotion of resiliency;
+&emsp;(1) sponsor regional workshops on the prevention of drug and alcohol abuse through thereduction of risk and the promotion of resiliency;
 
 &emsp;(2) coordinate the findings of research sponsored by agencies of the Service on the prevention of drug and alcohol abuse;
 
@@ -32,9 +32,11 @@ The Director of the Prevention Center shall—
 
 &emsp;(12) develop and support innovative demonstration programs designed to identify and deter the improper use or abuse of anabolic steroids by students, especially students in secondary schools;
 
-&emsp;(13) ensure the consistent documentation of the application of criteria when awarding grants and the ongoing oversight of grantees after such grants are awarded; and
+&emsp;(13) ensure the consistent documentation of the application of criteria when awarding grants and the ongoing oversight of grantees after such grants are awarded;
 
-&emsp;(14) assist and support States in preventing illicit drug use, including emerging illicit drug use issues.
+&emsp;(14) assist and support States in preventing illicit drug use, including emerging illicit drug use issues; and
+
+&emsp;(15) in consultation with relevant stakeholders and in collaboration with the Director of the Centers for Disease Control and Prevention, develop educational materials for clinicians to use with pregnant women for shared decision making regarding pain management and the prevention of substance use disorders during pregnancy.
 
 #### (c) Grants, contracts and cooperative agreements
 
@@ -44,7 +46,7 @@ The Director may make grants and enter into contracts and cooperative agreements
 
 The Director of the Prevention Center shall establish a national data base providing information on programs for the prevention of substance abuse. The data base shall contain information appropriate for use by public entities and information appropriate for use by nonprofit private entities.
 
-(July 1, 1944, ch. 373, title V, §515, formerly §508, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27, 1986, 100 Stat. 3207–111; amended Pub. L. 100–690, title II, §2051(a)–(c), Nov. 18, 1988, 102 Stat. 4206; Pub. L. 101–93, §3(a), Aug. 16, 1989, 103 Stat. 609; Pub. L. 101–647, title XIX, §1906, Nov. 29, 1990, 104 Stat. 4854; renumbered §515 and amended Pub. L. 102–321, title I, §113(b)–(e), July 10, 1992, 106 Stat. 345; Pub. L. 102–531, title III, §312(d)(10), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 106–310, div. B, title XXXI, §3112(b), Oct. 17, 2000, 114 Stat. 1188; Pub. L. 114–255, div. B, title VI, §6007(b), Dec. 13, 2016, 130 Stat. 1212.)
+(July 1, 1944, ch. 373, title V, §515, formerly §508, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27, 1986, 100 Stat. 3207–111; amended Pub. L. 100–690, title II, §2051(a)–(c), Nov. 18, 1988, 102 Stat. 4206; Pub. L. 101–93, §3(a), Aug. 16, 1989, 103 Stat. 609; Pub. L. 101–647, title XIX, §1906, Nov. 29, 1990, 104 Stat. 4854; renumbered §515 and amended Pub. L. 102–321, title I, §113(b)–(e), July 10, 1992, 106 Stat. 345; Pub. L. 102–531, title III, §312(d)(10), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 106–310, div. B, title XXXI, §3112(b), Oct. 17, 2000, 114 Stat. 1188; Pub. L. 114–255, div. B, title VI, §6007(b), Dec. 13, 2016, 130 Stat. 1212; Pub. L. 115–271, title VII, §7063(a), Oct. 24, 2018, 132 Stat. 4020.)
 
 #### References in Text
 
@@ -62,6 +64,8 @@ Another prior section 515 of act July 1, 1944, which was classified to section 2
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b)(15). Pub. L. 115–271 added par. (15).
+
 <b>2016</b>—Pub. L. 114–255, §6007(b)(1), substituted "Center" for "Office" in section catchline.
 
 Subsec. (a). Pub. L. 114–255, §6007(b)(2), substituted "a Center" for "an Office" and "The Prevention Center" for "The Office".
@@ -70,7 +74,7 @@ Subsec. (b)(1). Pub. L. 114–255, §6007(b)(3)(A), inserted "through the reduct
 
 Subsec. (b)(3). Pub. L. 114–255, §6007(b)(3)(C), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (b)(4). Pub. L. 114–255, §6007(b)(3)(B), (D), redesignated par. (3) as (4) and substituted "educational information on the effects of drugs abused by individuals, including drugs that are emerging as abused drugs" for "literature on the adverse effects of cocaine free base (known as 'crack')". Former par. (4) redesignated (5).
+Subsec. (b)(4). Pub. L. 114–255, §6007(b)(3)(B), (D), redesignated par. (3) as (4) and substituted "educational information on the effects of drugs abused by individuals, including drugs that are emerging as abused drugs" for "literature on the adverse effects of cocainefree base (known as 'crack')". Former par. (4) redesignated (5).
 
 Subsec. (b)(5). Pub. L. 114–255, §6007(b)(3)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 

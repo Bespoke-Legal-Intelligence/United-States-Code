@@ -22,11 +22,11 @@
 
 #### (b) United States shareholder defined
 
-For purposes of this title, the term "United States shareholder" means, with respect to any foreign corporation, a United States person (as defined in section 957(c)) who owns (within the meaning of section 958(a)), or is considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such foreign corporation, or 10 percent or more of the total value of shares of all classes of stock of such foreign corporation.
+For purposes of this title, the term "United States shareholder" means, with respect to any foreign corporation, a United States person (as defined in section 957(c)) who owns (within the meaning of section 958(a)), or is considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the totalcombined voting power of all classes of stock entitled to vote of such foreign corporation, or 10 percent or more of the total value of shares of all classes of stock of such foreign corporation.
 
 #### (c) Coordination with passive foreign investment company provisions
 
-If, but for this subsection, an amount would be included in the gross income of a United States shareholder for any taxable year both under subsection (a)(1)(A)(i) and under section 1293 (relating to current taxation of income from certain passive foreign investment companies), suchamount shall be included in the gross income of such shareholder only under subsection (a)(1)(A).
+If, but for this subsection, an amount would be included in the gross income of a United States shareholder for any taxable year both under subsection (a)(1)(A)(i) and under section 1293 (relating to current taxation of income from certain passive foreign investment companies), such amount shall be included in the gross income of such shareholder only under subsection (a)(1)(A).
 
 (Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1006; amended Pub. L. 94–12, title VI, §602(a)(3)(B), (c)(3), (4), (d)(2), Mar. 29, 1975, 89 Stat. 58, 62; Pub. L. 94–455, title XIX, §1901(a)(119), Oct. 4, 1976, 90 Stat. 1784; Pub. L. 98–369, div. A, title I, §132(c)(1), title VIII, §801(d)(4), July 18, 1984, 98 Stat. 666, 996; Pub. L. 99–514, title XII, §1235(c), title XVIII, §1876(c)(2), Oct. 22, 1986, 100 Stat. 2574, 2898; Pub. L. 100–647, title I, §1012(i)(15), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 103–66, title XIII, §§13231(a), 13232(c), Aug. 10, 1993, 107 Stat. 495, 502; Pub. L. 104–188, title I, §1501(a)(1), Aug. 20, 1996, 110 Stat. 1825; Pub. L. 105–34, title XI, §1112(a)(1), Aug. 5, 1997, 111 Stat. 969; Pub. L. 108–357, title IV, §413(c)(16), Oct. 22, 2004, 118 Stat. 1508; Pub. L. 110–172, §11(g)(13), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 115–97, title I, §§14101(e)(1), 14212(b)(1)(A), (2), 14214(a), 14215(a), Dec. 22, 2017, 131 Stat. 2192, 2217, 2218.)
 
@@ -96,7 +96,7 @@ Subsec. (a)(3). Pub. L. 94–12, §602(c)(4), (d)(2)(B), substituted "paragraph 
 
 #### Effective Date of 2017 Amendment
 
-Amendment by section 14101(e)(1) of Pub. L. 115–97 applicable to distributions made after Dec. 31, 2017, seesection 14101(f) of Pub. L. 115–97, set out as an Effective Date note under section 245A of this title.
+Amendment by section 14101(e)(1) of Pub. L. 115–97 applicable to distributions made after Dec. 31, 2017, see section 14101(f) of Pub. L. 115–97, set out as an Effective Date note under section 245A of this title.
 
 Amendment by section 14212(b)(1)(A), (2) of Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14212(c) of Pub. L. 115–97, set out as a note under section 851 of this title.
 

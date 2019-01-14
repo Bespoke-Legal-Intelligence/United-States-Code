@@ -28,7 +28,7 @@ Subsec. (a)(2). Pub. L. 104–4, §104(1)(A), (C), redesignated par. (3) as (2) 
 
 Subsec. (a)(3). Pub. L. 104–4, §104(1)(C), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-Pub. L. 104–4, §104(1)(B), which directed the substitution of "paragraph (1)" for "paragraphs (1) and (2)",was executed by making the substitution for "paragraph (1) and (2)" to reflect the probable intent of Congress.
+Pub. L. 104–4, §104(1)(B), which directed the substitution of "paragraph (1)" for "paragraphs (1) and (2)", was executed by making the substitution for "paragraph (1) and (2)" to reflect the probable intent of Congress.
 
 Subsec. (a)(4). Pub. L. 104–4, §104(1)(C), redesignated par. (4) as (3).
 

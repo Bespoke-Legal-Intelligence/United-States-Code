@@ -28,7 +28,7 @@ For purposes of this section, the term "NATO ally" means a member country of the
 
 #### Amendments
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–164 struck out "or major non-NATO" after "NATO" and "or a foreign countryother than a member nation of NATO designated as a major non-NATO ally under section 2350a(i)(3) of title 10" after "(other than the United States)".
+<b>1996</b>—Subsec. (d). Pub. L. 104–164 struck out "or major non-NATO" after "NATO" and "or a foreign country other than a member nation of NATO designated as a major non-NATO ally under section 2350a(i)(3) of title 10" after "(other than the United States)".
 
 <b>1991</b>—Subsec. (d). Pub. L. 102–25 substituted "section 2350a(i)(3) of title 10" for "section 2767a of this title".
 

@@ -32,7 +32,7 @@ Requirements.—An amateur sports organization or person may be granted a sancti
 
 &emsp;(4) The requirements referred to in paragraphs (2) and (3) of this subsection are that—
 
-&emsp;&emsp;(A) appropriate measures have been taken to protect the amateur status of athleteswho will take part in the competition and to protect their eligibility to compete in amateur athletic competition;
+&emsp;&emsp;(A) appropriate measures have been taken to protect the amateur status of athletes who will take part in the competition and to protect their eligibility to compete in amateur athletic competition;
 
 &emsp;&emsp;(B) appropriate provision has been made for validation of any records established during the competition;
 
@@ -40,11 +40,13 @@ Requirements.—An amateur sports organization or person may be granted a sancti
 
 &emsp;&emsp;(D) the competition will be conducted by qualified officials;
 
-&emsp;&emsp;(E) proper medical supervision will be provided for athletes who will participate in the competition; and
+&emsp;&emsp;(E) proper medical supervision will be provided for athletes who will participate in the competition;
 
-&emsp;&emsp;(F) proper safety precautions have been taken to protect the personal welfare of the athletes and spectators at the competition.
+&emsp;&emsp;(F) proper safety precautions have been taken to protect the personal welfare of the athletes and spectators at the competition; and
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1474.)
+&emsp;&emsp;(G) the amateur sports organization or person requesting sanction from a national governing body will implement and abide by the policies and procedures to prevent the abuse, including emotional, physical, and child abuse, of amateur athletes participating in amateur athletic activities applicable to such national governing body.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1474; Pub. L. 115–126, title II, §203, Feb. 14, 2018, 132 Stat. 323.)
 
 Historical and Revision Notes
 
@@ -119,4 +121,8 @@ Sept. 21, 1950, ch. 975, title II, §202(a)(4), (b), as added Nov. 8, 1978, Pub.
 In subsection (a), the words "and determine whether to grant such sanction, in accordance with the provisions of subsection (b) of this section" and "As a result of its review under subsection (a)(4) of this section" are omitted as unnecessary. Clause (2)(B) is added because of the reorganization of the section.
 
 In subsection (b), the language before paragraph (1) is substituted for 36:392(b)(1) (words before subclause (A)) and (2) (words before subclause (A)) because of the reorganization of the section. Paragraph (1) is substituted for 36:392(b)(1)(A) and (2)(A), and paragraph (4) is substituted for 36:392(b)(1)(B)(i)–(vi) and (2)(B)(i)–(vi), to avoid repeating identical language.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(4)(G). Pub. L. 115–126 added subpar. (G).
 

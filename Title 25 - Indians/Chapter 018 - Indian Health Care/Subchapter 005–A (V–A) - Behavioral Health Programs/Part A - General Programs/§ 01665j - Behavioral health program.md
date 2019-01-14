@@ -22,7 +22,7 @@ The Secretary may award a grant for a project under subsection (a) to an Indian 
 
 #### (c) Equitable treatment
 
-For purposes of this subsection,<sup>1</sup> the Secretary shall, in evaluating project applications or proposals, use the same criteria that the Secretary uses in evaluating any other application or proposal for such funding.
+For purposes of this subsection,<sup>1</sup> the Secretary shall, in evaluating project applications or proposals, use the same criteria that the Secretaryuses in evaluating any other application or proposal for such funding.
 
 (Pub. L. 94–437, title VII, §711, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 

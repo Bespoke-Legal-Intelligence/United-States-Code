@@ -12,11 +12,11 @@ Air Carriers and Foreign Air Carriers Not Engaged Directly in Operating Aircraft
 
 (b)
 
-Safety Regulation.—The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out sections 40103(b)(1) and (2), 40119, 44901, 44903, 44906, and 44935–44937 of this title when the Administrator decides the exemption is in the public interest.
+Safety Regulation.—The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out sections <sup>1</sup> 40103(b)(1) and (2) of this title when the Administrator decides the exemption is in the public interest.
 
 (c)
 
-Other Economic Regulation.—Except as provided in this section, the Secretary may exempt to the extent the Secretary considers necessary a person or class of persons from a provision of chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, and sections 44909 and 46301(b) of this title, or a regulation or term prescribed under any of those provisions, when the Secretary decides that the exemption is consistent with the public interest.
+Other Economic Regulation.—Except as provided in this section, the Secretary may exempt to the extent the Secretary considers necessary a person or class of persons from a provision of chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, and sections 44909(a), 44909(b), and 46301(b) of this title, or a regulation or term prescribed under any of those provisions, when the Secretary decides that the exemption is consistent with the public interest.
 
 (d)
 
@@ -68,15 +68,29 @@ Emergency Air Transportation by Foreign Air Carriers.—(1) To the extent that t
 
 &emsp;(B) monitor continuously the passenger load factor of air carriers in the market that hold certificates under section 41102 of this title; and
 
-&emsp;(C) review the exemption at least every 30 days to ensure that the unusual circumstances that established the need for the exemption still exist.
+&emsp;(C) review the exemption at least every 30 days (or, in the case of an exemption that is necessary to provide and sustain air transportation in American Samoa between the islands of Tutuila and Manu'a, at least every 180 days) to ensure that the unusual circumstances that established the need for the exemption still exist.
 
-(3) The Secretary may renew an exemption (including renewals) under this subsection for not more than 30 days. An exemption may continue for not more than 5 days after the unusual circumstances that established the need for the exemption cease.
+(3)
+
+Renewal of exemptions.—
+
+&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), the Secretary may renew an exemption (including renewals) under this subsection for not more than 30 days.
+
+&emsp;(B)
+
+Exception.—The Secretary may renew an exemption (including renewals) under this subsection that is necessary to provide and sustain air transportation in American Samoa between the islands of Tutuila and Manu'a for not more than 180 days.
+
+(4)
+
+Continuation of exemptions.—An exemption granted by the Secretary under this subsection may continue for not more than 5 days after the unusual circumstances that established the need for the exemption cease.
 
 (h)
 
 Notice and Opportunity for Hearing.—The Secretary may act under subsections (d) and (f)(3)(B) of this section only after giving the air carrier notice and an opportunity for a hearing.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1104; Pub. L. 104–287, §5(65), Oct. 11, 1996, 110 Stat. 3395.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1104; Pub. L. 104–287, §5(65), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 115–254, div. B, title IV, §402, div. K, title I, §1991(c)(1), Oct. 5, 2018, 132 Stat. 3328, 3627.)
 
 Historical and Revision Notes
 
@@ -192,13 +206,13 @@ In subsection (f)(2), the words "by regulation" are omitted as surplus. The word
 
 In subsection (f)(3), the words "the State of" are omitted as surplus.
 
-In subsection (f)(3)(A), the words "under this subsection" are substituted for "from section 1371 of this title or any other requirement of this chapter", the words "2 places" are substituted for "points both of which are", and the word "between" is substituted for "one of which is in . . . and the other in", to eliminate unnecessary words.
+In subsection (f)(3)(A), the words "under this subsection" are substituted for "from section 1371 of this title or any other requirement of this chapter", the words "2 places" are substituted for "points both ofwhich are", and the word "between" is substituted for "one of which is in . . . and the other in", to eliminate unnecessary words.
 
 In subsection (f)(3)(B), the word "only" is added for clarity. The words "promulgated by the Board", "by such air carrier to points within such State", and "but not limited to" are omitted as surplus. The word "Alaska" is substituted for "such State" for clarity. The cross-reference is to section 41732(b)(1)(B) to correct an error in the source provisions. The cross-reference in 49 App.:1386(b)(6) to 49 App.:1389(c)(2) should have been to 49 App.:1389(f)(2). This error was not corrected when 49 App.:1389 was restated by section 202(b) of the Airport and Airway Safety and Capacity Expansion Act of 1987 (Public Law 100–223, 101 Stat. 1508). The comparable provision is 49 App.:1389(k)(1)(A)(ii), restated as section 41732(b)(1)(B).
 
 In subsection (g), the word "exemption" is substituted for "authorization" and "authority" for clarity and consistency.
 
-In subsection (g)(1), before clause (A), the words "required", "a period", and "to the extent necessary" areomitted as surplus. The word "mail" is omitted as being included in "cargo". In clause (B), before subclause (i), the words "for example" are omitted as surplus.
+In subsection (g)(1), before clause (A), the words "required", "a period", and "to the extent necessary" are omitted as surplus. The word "mail" is omitted as being included in "cargo". In clause (B), before subclause (i), the words "for example" are omitted as surplus.
 
 In subsection (g)(3), the words "a period" are omitted as surplus.
 
@@ -209,6 +223,14 @@ In subsection (h), the words "The Secretary may act under subsections (d) and (f
 This amends 49:40109(c) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1105), to include in the cross-reference sections enacted after the cutoff date for the codification of title 49 as enacted by section 1 of the Act (Public Law 103–272, 108 Stat. 745), and to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–254, §1991(c)(1)(A), struck out ", 40119, 44901, 44903, 44906, and 44935–44937" before "of this title".
+
+Subsec. (c). Pub. L. 115–254, §1991(c)(1)(B), substituted "sections 44909(a), 44909(b), and" for "sections 44909 and".
+
+Subsec. (g)(2)(C). Pub. L. 115–254, §402(1), added subpar. (C) and struck out former subpar. (C) which read as follows: "review the exemption at least every 30 days to ensure that the unusual circumstances that established the need for the exemption still exist."
+
+Subsec. (g)(3), (4). Pub. L. 115–254, §402(2), added pars. (3) and (4) and struck out former par. (3) which read as follows: "The Secretary may renew an exemption (including renewals) under this subsection for not more than 30 days. An exemption may continue for not more than 5 days after the unusual circumstances that established the need for the exemption cease."
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–287, §5(65)(B), substituted "sections 44909 and 46301(b)" for "section 46301(b)".
 
@@ -233,4 +255,6 @@ Requirements.—The Administrator may grant an exemption under paragraph (1) onl
 &emsp;"(A) the Administrator finds that granting the exemption is necessary to prevent an undue economic burden on the unit of government; and
 
 &emsp;"(B) the Administrator certifies that the aviation safety program of the unit of government is effective and appropriate to ensure safe operations of the type of aircraft operated by the unit of government."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

@@ -16,7 +16,7 @@ No addition to the tax shall be made under section 6651, 6654, or 6655 for failu
 
 #### (b) Exception for collected taxes
 
-Subsection (a) shall not apply to any liability for an addition to the tax which arises from the failure to pay or deposit a tax withheld or collected from others and required to be paid to the United States.
+Subsection (a) shall not apply to any liability for an addition to the tax which arises from thefailure to pay or deposit a tax withheld or collected from others and required to be paid to the United States.
 
 (Added Pub. L. 96–589, §6(e)(1), Dec. 24, 1980, 94 Stat. 3408.)
 

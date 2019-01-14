@@ -18,5 +18,5 @@ In this chapter:
 
 #### Prior Provisions
 
-A prior section 7304, Pub. L. 106–567, title III, §324, Dec. 27, 2000, 114 Stat. 2846, which related to general provisions, was repealed by Pub. L. 111–259, title V, §501(a)(1), Oct. 7, 2010, 124 Stat. 2735.
+A prior section 7304, Pub. L. 106–567, title III, §324, Dec. 27, 2000, 114 Stat. 2846, which related to generalprovisions, was repealed by Pub. L. 111–259, title V, §501(a)(1), Oct. 7, 2010, 124 Stat. 2735.
 

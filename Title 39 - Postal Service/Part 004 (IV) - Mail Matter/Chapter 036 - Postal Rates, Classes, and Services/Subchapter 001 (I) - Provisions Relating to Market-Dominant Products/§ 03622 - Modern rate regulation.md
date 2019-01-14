@@ -40,7 +40,7 @@ Factors.—In establishing or revising such system, the Postal Regulatory Commis
 
 &emsp;(5) the degree of preparation of mail for delivery into the postal system performed by the mailer and its effect upon reducing costs to the Postal Service;
 
-&emsp;(6) simplicity of structure for the entire schedule and simple, identifiable relationshipsbetween the rates or fees charged the various classes of mail for postal services;
+&emsp;(6) simplicity of structure for the entire schedule and simple, identifiable relationships between the rates or fees charged the various classes of mail for postal services;
 
 &emsp;(7) the importance of pricing flexibility to encourage increased mail volume and operational efficiency;
 
@@ -174,7 +174,7 @@ Limitation.—Nothing in this subsection shall require that a work share discoun
 
 &emsp;(4)
 
-Report.—Whenever the Postal Service establishes a workshare discount rate, the Postal Service shall, at the time it publishes the workshare discount rate, submit to the Postal Regulatory Commission a detailed report that—
+Report.—Whenever the Postal Service establishes a workshare discount rate, thePostal Service shall, at the time it publishes the workshare discount rate, submit to the Postal Regulatory Commission a detailed report that—
 
 &emsp;&emsp;(A) explains the Postal Service's reasons for establishing the rate;
 

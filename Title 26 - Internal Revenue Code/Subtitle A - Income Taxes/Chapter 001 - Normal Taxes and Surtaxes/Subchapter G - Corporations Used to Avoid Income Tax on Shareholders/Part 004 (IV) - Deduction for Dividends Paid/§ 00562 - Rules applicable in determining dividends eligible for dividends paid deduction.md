@@ -36,7 +36,7 @@ In the case where a corporation which is a member of an affiliated group of corp
 
 &emsp;In the case of a real estate investment trust, in determining the amount of dividends under section 316 for purposes of computing the dividends paid deduction—
 
-&emsp;&emsp;(A) the earnings and profits of such trust for any taxable year (but not its accumulated earnings) shall be increased by the amount of gain (if any) on the sale or exchange of real property which is taken into account in determining the taxable income of such trust for such taxable year (and not otherwise taken into account in determining such earnings and profits), and
+&emsp;&emsp;(A) the earnings and profits of such trust for any taxable year (but not its accumulated earnings) shall be increased by the amount of gain (if any) on the sale or exchange of real property which is taken into account in determining the taxable income of such trust for such taxable year (and nototherwise taken into account in determining such earnings and profits), and
 
 &emsp;&emsp;(B) section 857(d)(1) shall be applied without regard to subparagraph (B) thereof.
 

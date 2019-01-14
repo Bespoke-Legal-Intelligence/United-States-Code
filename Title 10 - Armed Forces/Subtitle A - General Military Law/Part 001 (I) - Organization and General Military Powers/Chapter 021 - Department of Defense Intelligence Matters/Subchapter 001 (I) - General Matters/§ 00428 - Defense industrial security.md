@@ -34,13 +34,39 @@ Executive Order 12829, referred to in subsec. (b), is set out as a note under se
 
 <b>2009</b>—Pub. L. 111–84 renumbered section 438 of this title as this section.
 
+#### Pilot Program for Department of Defense Controlled Unclassified Information in the Hands of Industry
+
+Pub. L. 115–232, div. A, title X, §1048, Aug. 13, 2018, 132 Stat. 1961, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense—
+
+&emsp;"(1) shall establish and implement a pilot program for oversight of designated Department of Defense controlled unclassified information in the hands of defense contractors with foreign ownership, control, or influence concerns; and
+
+&emsp;"(2) may designate an entity within the Department to be responsible for the pilot program under paragraph (1).
+
+"(b)
+
+Program Requirements.—The pilot program under subsection (a) shall have the following elements:
+
+&emsp;"(1) The use of a capability to rapidly identify companies subject to foreign ownership, control, or influence that are processing designated controlled unclassified information, including unclassified controlled technical information.
+
+&emsp;"(2) The use, in consultation with the Chief of Information Officer of the Department, of a capability or means for assessing industry compliance with Department cybersecurity standards.
+
+&emsp;"(3) A means of demonstrating whether and under what conditions the risk to national security posed by access to Department controlled unclassified information, including unclassified controlled technical information, by a company under foreign ownership, control, or influence company can be mitigated and how such mitigation could be enforced.
+
+"(c)
+
+Briefing Required.—By not later than 30 days after the completion of the pilot program under this section, but in no case later than December 1, 2019, the Secretary shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the results of the pilot program and any decisions about whether to implement the pilot program on a Department-wide basis."
+
 #### Requirement for Entities With Facility Clearances That Are Not Under Foreign Ownership Control or Influence Mitigation
 
 Pub. L. 111–383, div. A, title VIII, §845, Jan. 7, 2011, 124 Stat. 4285, provided that:
 
 "(a)
 
-Requirement.—The Secretary of Defense shall develop a plan to ensure that covered entities employand maintain policies and procedures that meet requirements under the national industrial security program. In developing the plan, the Secretary shall consider whether or not covered entities, or any category of covered entities, should be required to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures.
+Requirement.—The Secretary of Defense shall develop a plan to ensure that covered entities employ and maintain policies and procedures that meet requirements under the national industrial security program. In developing the plan, the Secretary shall consider whether or not covered entities, or any category of covered entities, should be required to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures.
 
 "(b)
 

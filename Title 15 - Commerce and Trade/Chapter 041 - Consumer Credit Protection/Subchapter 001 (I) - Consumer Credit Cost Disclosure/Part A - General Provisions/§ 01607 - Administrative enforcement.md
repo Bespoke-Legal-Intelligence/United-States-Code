@@ -42,7 +42,7 @@ The authority of the Bureau to issue regulations under this subchapter does not 
 
 (2) Each agency shall require such an adjustment when it determines that such disclosure error resulted from (A) a clear and consistent pattern or practice of violations, (B) gross negligence, or (C) a willful violation which was intended to mislead the person to whom the credit was extended. Notwithstanding the preceding sentence, except where such disclosure error resulted from a willful violation which was intended to mislead the person to whom credit was extended, an agency need not require such an adjustment if it determines that such disclosure error—
 
-&emsp;(A) resulted from an error involving the disclosure of a fee or charge that would otherwisebe excludable in computing the finance charge, including but not limited to violations involving the disclosures described in sections 1605(b), (c) and (d) of this title, in which event the agency may require such remedial action as it determines to be equitable, except that for transactions consummated after two years after March 31, 1980, such an adjustment shall be ordered for violations of section 1605(b) of this title;
+&emsp;(A) resulted from an error involving the disclosure of a fee or charge that would otherwise be excludable in computing the finance charge, including but not limited to violations involving the disclosures described in sections 1605(b), (c) and (d) of this title, in which event the agency may require such remedial action as it determines to be equitable, except that for transactions consummated after two years after March 31, 1980, such an adjustment shall be ordered for violations of section 1605(b) of this title;
 
 &emsp;(B) involved a disclosed amount which was 10 per centum or less of the amount that should have been disclosed and (i) in cases where the error involved a disclosed finance charge, the annual percentage rate was disclosed correctly, and (ii) in cases where the error involved a disclosed annual percentage rate, the finance charge was disclosed correctly; in which event the agency may require such adjustment as it determines to be equitable;
 
@@ -122,7 +122,7 @@ Subsec. (d). Pub. L. 111–203, §1100A(2), substituted "Bureau" for "Board".
 
 &emsp;"(ii) require";
 
-> directed the substitution of "reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a)), the agency determines that a partial adjustment or making partial payments over an extended period is necessary to avoid causing the creditor to become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act;
+> directed the substitution of "reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a)), the agency determines that a partial adjustment or making partial payments over an extended period is necessary to avoid causing the creditorto become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act;
 
 &emsp;"(B) the";
 
@@ -154,7 +154,7 @@ Pub. L. 96–221, §608(c), struck out in pars. (1)(A)(i) and (7) ", except in 
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 1100A(2), (8) of Pub. L. 111–203 effective on the designated transfer date, see section1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by section 1100A(2), (8) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 Amendment by section 1414(b) of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 

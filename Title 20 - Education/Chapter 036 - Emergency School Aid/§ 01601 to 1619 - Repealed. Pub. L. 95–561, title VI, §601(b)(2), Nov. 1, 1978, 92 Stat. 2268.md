@@ -12,7 +12,7 @@ Section 1605, Pub. L. 92–318, title VII, §706, June 23, 1972, 86 Stat. 356; P
 
 Section 1606, Pub. L. 92–318, title VII, §707, June 23, 1972, 86 Stat. 359; Pub. L. 94–482, title III, §321(c)(2), Oct. 12, 1976, 90 Stat. 2217, related to authorized activities with respect to financial assistance.
 
-Section 1607, Pub. L. 92–318, title VII, §708, June 23, 1972, 86 Stat. 360; Pub. L. 93–380, title VI, §§644, 645, Aug.21, 1974, 88 Stat. 588; Pub. L. 94–482, title V, §501(a)(12), Oct. 12, 1976, 90 Stat. 2235, related to special programs and projects with respect to financial assistance.
+Section 1607, Pub. L. 92–318, title VII, §708, June 23, 1972, 86 Stat. 360; Pub. L. 93–380, title VI, §§644, 645, Aug. 21, 1974, 88 Stat. 588; Pub. L. 94–482, title V, §501(a)(12), Oct. 12, 1976, 90 Stat. 2235, related to special programs and projects with respect to financial assistance.
 
 Section 1608, Pub. L. 92–318, title VII, §709, June 23, 1972, 86 Stat. 361; Pub. L. 93–380, title II, §222, title VI, §642(b), Aug. 21, 1974, 88 Stat. 519, 587; Pub. L. 94–482, title V, §501(i), Oct. 12, 1976, 90 Stat. 2237, related to availability of sums for metropolitan area projects.
 
@@ -36,7 +36,7 @@ Section 1617, Pub. L. 92–318, title VII, §718, June 23, 1972, 86 Stat. 369, r
 
 Section 1618, Pub. L. 92–318, title VII, §719, June 23, 1972, 86 Stat. 369, related to effect of this chapter on method of student assignment.
 
-Section 1619, Pub. L. 92–318, title VII, §720, June 23, 1972, 86 Stat. 369; Pub. L. 93–380, title VI, §643(d), Aug. 21, 1974, 88 Stat. 587; Pub. L. 94–482, title III, §321(c)(3), Oct. 12, 1976, 90 Stat. 2217, defined terms used in this chapter.
+Section 1619, Pub. L. 92–318, title VII, §720, June 23, 1972, 86 Stat. 369; Pub. L. 93–380, title VI, §643(d), Aug.21, 1974, 88 Stat. 587; Pub. L. 94–482, title III, §321(c)(3), Oct. 12, 1976, 90 Stat. 2217, defined terms used in this chapter.
 
 #### Effective Date of Repeal
 

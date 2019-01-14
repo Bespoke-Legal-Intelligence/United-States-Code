@@ -44,7 +44,7 @@ The Social Security Act, referred to in subsec. (a)(5)(B), is act Aug. 14, 1935,
 
 Subsec. (a)(4). Pub. L. 115–48, §301(a)(3), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 115–48, §301(a)(4), designated existing provisions as subpar. (A), substituted "for fiscal year 2018 shall be $21,000,000 and for fiscal year 2019 and thereafter shall be $23,000,000" for "for any fiscal year shall be $19,000,000", and added subpar. (B).
+Subsec. (a)(5). Pub. L. 115–48, §301(a)(4), designated existing provisions as subpar. (A), substituted "for fiscalyear 2018 shall be $21,000,000 and for fiscal year 2019 and thereafter shall be $23,000,000" for "for any fiscal year shall be $19,000,000", and added subpar. (B).
 
 Pub. L. 115–48, §301(a)(2), redesignated par. (4) as (5).
 
@@ -84,7 +84,7 @@ Subsec. (a)(2)(C). Pub. L. 101–237, §414(2), inserted before period at end "a
 
 Subsec. (c). Pub. L. 101–237, §423(b)(1)(A), substituted "Secretary" for "Administrator" wherever appearing.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–323, §13(b)(5), in subpar. (A) substituted "chapters 30 through 35 of this titleand chapters 106 and 107 of title 10" for "chapters 34 and 35 of this title", in subpar. (B) substituted "such chapters" for "chapters 34 and 35 of this title", and in provisions following subpar. (B) substituted "provisions of such chapters" for "provisions of chapters 34 and 35 of this title" and "requirements of such chapters" for "requirements of chapter 32, 34, 35, or 36 of this title".
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–323, §13(b)(5), in subpar. (A) substituted "chapters 30 through 35 of this title and chapters 106 and 107 of title 10" for "chapters 34 and 35 of this title", in subpar. (B) substituted "such chapters" for "chapters 34 and 35 of this title", and in provisions following subpar. (B) substituted "provisions of such chapters" for "provisions of chapters 34 and 35 of this title" and "requirements of such chapters" for "requirements of chapter 32, 34, 35, or 36 of this title".
 
 Pub. L. 100–323, §13(a)(1)(A), (B), substituted "(1) Subject to paragraphs (2) through (4) of this subsection, the Administrator is" for "The Administrator is", and redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 

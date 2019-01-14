@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;The issuer of a plan to which subparagraph (A) applies shall deposit—
 
-&emsp;&emsp;&emsp;&emsp;(I) all payments described in subparagraph (B)(i)(I) into a separate accountthat consists solely of such payments and that is used exclusively to pay for services other than services described in paragraph (1)(B)(i); and
+&emsp;&emsp;&emsp;&emsp;(I) all payments described in subparagraph (B)(i)(I) into a separate account that consists solely of such payments and that is used exclusively to pay for services other than services described in paragraph (1)(B)(i); and
 
 &emsp;&emsp;&emsp;&emsp;(II) all payments described in subparagraph (B)(i)(II) into a separate account that consists solely of such payments and that is used exclusively to pay for services described in paragraph (1)(B)(i).
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;In making such estimate, the issuer—
 
-&emsp;&emsp;&emsp;&emsp;(I) may take into account the impact on overall costs of the inclusion of such coverage, but may not take into account any cost reduction estimated to result from such services, including prenatal care, delivery, or postnatal care;
+&emsp;&emsp;&emsp;&emsp;(I) may take into account the impact on overall costs of the inclusion of suchcoverage, but may not take into account any cost reduction estimated to result from such services, including prenatal care, delivery, or postnatal care;
 
 &emsp;&emsp;&emsp;&emsp;(II) shall estimate such costs as if such coverage were included for the entire population covered; and
 

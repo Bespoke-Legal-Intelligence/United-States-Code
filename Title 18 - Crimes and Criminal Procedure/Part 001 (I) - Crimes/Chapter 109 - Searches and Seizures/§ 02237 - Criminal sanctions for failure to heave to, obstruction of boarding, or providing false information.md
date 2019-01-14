@@ -62,7 +62,7 @@ Section 274 of the Immigration and Nationality Act, referred to in subsec. (b)(4
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–281, §917(a), amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: "Any person who intentionally violates this section shall be fined under this title or imprisoned for not more than 5 years, or both."
+<b>2010</b>—Subsec. (b). Pub. L. 111–281, §917(a), amended subsec. (b) generally. Prior to amendment subsec. (b)read as follows: "Any person who intentionally violates this section shall be fined under this title or imprisoned for not more than 5 years, or both."
 
 Subsec. (e)(3). Pub. L. 111–281, §917(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the term 'vessel subject to the jurisdiction of the United States' has the meaning given the term in section 2 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903); and".
 

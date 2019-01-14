@@ -22,7 +22,7 @@ In order to increase the opportunities and motivation for family planning and to
 
 (C) Appropriations pursuant to subparagraph (B) may be referred to as the "Child Survival Fund".
 
-(3) The Congress recognizes that the promotion of primary health care is a major objective of the foreign assistance program. The Congress further recognizes that simple, relatively low cost means already exist to reduce incidence of communicable diseases among children, mothers, and infants. The promotion of vaccines for immunization, and salts for oral rehydration, therefore, is an essential feature of the health assistance program. To this end, the Congress expects the agency primarily responsible for administering subchapter I of this chapter to set as a goal the protection of not less than 80 percent of all children, in those countries in which such agency has established development programs, from immunizable diseases by January 1, 1991. Of the aggregate amounts made available for fiscal year 1987 to carry out paragraph (2) of this subsection (relating to theChild Survival Fund) and to carry out subsection (c) (relating to development assistance for health), $50,000,000 shall be used to carry out this paragraph.
+(3) The Congress recognizes that the promotion of primary health care is a major objective of the foreign assistance program. The Congress further recognizes that simple, relatively low cost means already exist to reduce incidence of communicable diseases among children, mothers, and infants. The promotion of vaccines for immunization, and salts for oral rehydration, therefore, is an essential feature of the health assistance program. To this end, the Congress expects the agency primarily responsible for administering subchapter I of this chapter to set as a goal the protection of not less than 80 percent of all children, in those countries in which such agency has established development programs, from immunizable diseases by January 1, 1991. Of the aggregate amounts made available for fiscal year 1987 to carry out paragraph (2) of this subsection (relating to the Child Survival Fund) and to carry out subsection (c) (relating to development assistance for health), $50,000,000 shall be used to carry out this paragraph.
 
 (4)
 
@@ -72,7 +72,7 @@ Relationship to other laws.—Assistance made available under this subsection an
 
 The Consolidated Appropriations Resolution, 2003, referred to in subsec. (c)(4), is Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 11. Provisions under the heading "Child Survival and Health Programs Fund" in Pub. L. 108–7 appear at 117 Stat. 161 and are not classified to the Code.
 
-This chapter, referred to in subsec. (e)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4,1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (e)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 98–473 is based on section 303 of H.R. 5119, Ninety-eight
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c)(4) to (7). Pub. L. 108–25 added par. (4) and struck out former pars. (4) to (7), which related to coordination between governments and organizations to prevent vertical transmission of HIV, prioritization of HIV/AIDS in foreign assistance program efforts, appropriation of funds for fiscal years 2001 and 2002, and coordination in developing a comprehensive tuberculosis program.
+<b>2003</b>—Subsec. (c)(4) to (7). Pub. L. 108–25 added par. (4) and struck out former pars. (4) to (7), which related tocoordination between governments and organizations to prevent vertical transmission of HIV, prioritization of HIV/AIDS in foreign assistance program efforts, appropriation of funds for fiscal years 2001 and 2002, and coordination in developing a comprehensive tuberculosis program.
 
 <b>2000</b>—Subsec. (c)(4) to (7). Pub. L. 106–264 added pars. (4) to (7).
 

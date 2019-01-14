@@ -84,13 +84,13 @@ An individual or entity shall not be deemed ineligible under subsection (g) beca
 
 #### (B) Liability
 
-&emsp;&emsp;Registered participants shall be required to agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in thecase of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in a prize competition, whether the injury, death, damage, or loss arises through negligence or otherwise.
+&emsp;&emsp;Registered participants shall be required to agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in a prize competition, whether the injury, death, damage, or loss arises through negligence or otherwise.
 
 #### (2) Insurance
 
 &emsp;Participants shall be required to obtain liability insurance or demonstrate financial responsibility, in amounts determined by the head of an agency, for claims by—
 
-&emsp;&emsp;(A) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a prize competition, with the Federal Government named as an additional insured under the registered participant's insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to prize competition activities; and
+&emsp;&emsp;(A) a third party for death, bodily injury, or property damage, or loss resulting froman activity carried out in connection with participation in a prize competition, with the Federal Government named as an additional insured under the registered participant's insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to prize competition activities; and
 
 &emsp;&emsp;(B) the Federal Government for damage or loss to Government property resulting from such an activity.
 
@@ -162,7 +162,7 @@ The head of an agency may enter into a grant, contract, cooperative agreement, o
 
 #### (B) Increase in amount
 
-&emsp;&emsp;The head of an agency may increase the amount of a cash prize purse or non-cashprize award after an initial announcement is made under subsection (f) only if—
+&emsp;&emsp;The head of an agency may increase the amount of a cash prize purse or non-cash prize award after an initial announcement is made under subsection (f) only if—
 
 &emsp;&emsp;&emsp;(i) notice of the increase is provided in the same manner as the initial notice of the prize competition; and
 
@@ -172,7 +172,7 @@ The head of an agency may enter into a grant, contract, cooperative agreement, o
 
 #### (A) Notice to Congress
 
-&emsp;&emsp;No prize competition under this section may offer a cash prize purse or a non-cash prize award in an amount greater than $50,000,000 unless 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+&emsp;&emsp;No prize competition under this section may offer a cash prize purse or a non-cashprize award in an amount greater than $50,000,000 unless 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
 #### (B) Approval of head of agency
 

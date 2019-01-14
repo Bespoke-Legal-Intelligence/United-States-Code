@@ -6,7 +6,7 @@ In this chapter, the term "State" includes the District of Columbia, the Commonw
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 107–252, Oct. 29, 2002, 116Stat. 1666, known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

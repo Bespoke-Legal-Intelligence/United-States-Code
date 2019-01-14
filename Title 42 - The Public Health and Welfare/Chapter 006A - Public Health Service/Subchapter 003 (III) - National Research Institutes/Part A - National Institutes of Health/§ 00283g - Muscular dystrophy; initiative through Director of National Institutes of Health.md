@@ -44,7 +44,7 @@ The Director of NIH shall provide for a program under subsection (a)(1) under wh
 
 #### (1) In general
 
-&emsp;The Secretary shall establish the Muscular Dystrophy Coordinating Committee (referredto in this section as the "Coordinating Committee") to coordinate activities across the National Institutes and with other Federal health programs and activities relating to the various forms of muscular dystrophy.
+&emsp;The Secretary shall establish the Muscular Dystrophy Coordinating Committee (referred to in this section as the "Coordinating Committee") to coordinate activities across the National Institutes and with other Federal health programs and activities relating to the various forms of muscular dystrophy.
 
 #### (2) Composition
 
@@ -52,7 +52,7 @@ The Director of NIH shall provide for a program under subsection (a)(1) under wh
 
 &emsp;&emsp;(A) 2/3 of such members shall represent governmental agencies, including the directors or their designees of each of the national research institutes involved in research with respect to muscular dystrophy and representatives of all other Federal departments and agencies whose programs involve health functions or responsibilities relevant to such diseases, including the Centers for Disease Control and Prevention, the Health Resources and Services Administration, the Food and Drug Administration, and the Administration for Community Living and representatives of other governmental agencies that serve children and adults with muscular dystrophy, including the Department of Education and the Social Security Administration; and
 
-&emsp;&emsp;(B) 1/3 of such members shall be public members, including a broad cross section of persons affected with muscular dystrophies including parents or legal guardians, affected individuals, researchers, and clinicians.
+&emsp;&emsp;(B) 1/3 of such members shall be public members, including a broad cross section of persons affected with muscular dystrophiesincluding parents or legal guardians, affected individuals, researchers, and clinicians.
 
 > &emsp;Members appointed under subparagraph (B) shall serve for a term of 3 years, and may serve for an unlimited number of terms if reappointed.
 
@@ -108,7 +108,7 @@ The Secretary shall, under subsection (a)(1), provide for a means through which 
 
 The Coordinating Committee may evaluate the potential need to enhance the clinical research infrastructure required to test emerging therapies for the various forms of muscular dystrophy by prioritizing the achievement of the goals related to this topic in the plan under subsection (e)(1).
 
-(July 1, 1944, ch. 373, title IV, §404E, as added Pub. L. 107–84, §3, Dec. 18, 2001, 115 Stat. 824;amended Pub. L. 109–482, title I, §§103(b)(4), 104(b)(1)(A), Jan. 15, 2007, 120 Stat. 3687, 3692; Pub. L. 110–154, §1(b)(3), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 110–361, §2, Oct. 8, 2008, 122 Stat. 4010; Pub. L. 113–166, §2, Sept. 26, 2014, 128 Stat. 1879.)
+(July 1, 1944, ch. 373, title IV, §404E, as added Pub. L. 107–84, §3, Dec. 18, 2001, 115 Stat. 824; amended Pub. L. 109–482, title I, §§103(b)(4), 104(b)(1)(A), Jan. 15, 2007, 120 Stat. 3687, 3692; Pub. L. 110–154, §1(b)(3), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 110–361, §2, Oct. 8, 2008, 122 Stat. 4010; Pub. L. 113–166, §2, Sept. 26, 2014, 128 Stat. 1879.)
 
 #### References in Text
 

@@ -46,7 +46,7 @@ R.S. §297.
 
 In clause (1), the words "may . . . prescribe regulations to carry out the duties and powers of the Comptroller General" are substituted for "shall make such rules and regulations as may be necessary for carrying on the work of the General Accounting Office" in 31:52(d) for consistency.
 
-In clause (2), the word "delegate" is substituted for "direct" in 31:52–1, and the words "officers and employees" are substituted for "personnel", and 31:52(c) isomitted, for consistency in the revised title and with other titles of the United States Code.
+In clause (2), the word "delegate" is substituted for "direct" in 31:52–1, and the words "officers and employees" are substituted for "personnel", and 31:52(c) is omitted, for consistency in the revised title and with other titles of the United States Code.
 
 In clause (3), the words "rules and" in 31:52(d) are omitted as surplus. The words "representatives of persons" are substituted for "attorneys" for clarity and consistency in the revised title.
 

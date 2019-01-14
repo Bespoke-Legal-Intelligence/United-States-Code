@@ -50,7 +50,7 @@
 
 #### (F) Eligible lender limitation
 
-&emsp;&emsp;A loan shall not be sold to an eligible lender under subparagraph (A)(i) if such lenderhas been found by the guaranty agency or the Secretary to have substantially failed to exercise the due diligence required of lenders under this part.
+&emsp;&emsp;A loan shall not be sold to an eligible lender under subparagraph (A)(i) if such lender has been found by the guaranty agency or the Secretary to have substantially failed to exercise the due diligence required of lenders under this part.
 
 #### (G) Default due to error
 

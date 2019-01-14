@@ -12,7 +12,7 @@ The Secretary of Agriculture shall carry out a comprehensive program to inventor
 
 In carrying out the program, the Secretary shall address issues including—
 
-&emsp;(1) early detection, identification, and assessment of environmental threats (includinginsect, disease, invasive species, fire, and weather-related risks and other episodic events);
+&emsp;(1) early detection, identification, and assessment of environmental threats (including insect, disease, invasive species, fire, and weather-related risks and other episodic events);
 
 &emsp;(2) loss or degradation of forests;
 

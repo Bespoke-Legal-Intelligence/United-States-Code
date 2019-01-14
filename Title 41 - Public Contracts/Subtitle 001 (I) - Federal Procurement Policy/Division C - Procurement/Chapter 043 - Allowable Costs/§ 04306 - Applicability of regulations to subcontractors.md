@@ -1,6 +1,6 @@
 ### §4306. Applicability of regulations to subcontractors
 
-The regulations referred to in sections 4304 and 4305(a) and (b) of this title shall require prime contractors of a covered contract, to the maximum extent practicable, to apply the provisions of those regulations to all subcontractors of the covered contract.
+The regulations referred to in sections 4304 and 4305(a) and (b) of this title shall requireprime contractors of a covered contract, to the maximum extent practicable, to apply the provisions of those regulations to all subcontractors of the covered contract.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3788.)
 

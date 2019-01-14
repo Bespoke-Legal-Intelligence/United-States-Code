@@ -10,7 +10,7 @@
 | [7706\.](%C2%A7%2007706%20-%20Eligible%20countries.md) | Eligible countries. |
 | [7707\.](%C2%A7%2007707%20-%20Congressional%20and%20public%20notification%20of%20candidate%20countries%2C%20eligibility%20criteria%2C%20and%20eligible%20countries.md) | Congressional and public notification of candidate countries, eligibility criteria, and eligible countries. |
 | [7708\.](%C2%A7%2007708%20-%20Millennium%20Challenge%20Compact.md) | Millennium Challenge Compact. |
-| [7709\.](%C2%A7%2007709%20-%20Congressional%20and%20public%20notification%20of%20Compact.md) | Congressional and public notification of Compact. |
+| [7709\.](%C2%A7%2007709%20-%20Congressional%20and%20public%20notification.md) | Congressional and public notification. |
 | [7710\.](%C2%A7%2007710%20-%20Suspension%20and%20termination%20of%20assistance.md) | Suspension and termination of assistance. |
 | [7711\.](%C2%A7%2007711%20-%20Disclosure.md) | Disclosure. |
 | [7712\.](%C2%A7%2007712%20-%20Annual%20report.md) | Annual report. |
@@ -36,7 +36,7 @@
 - [&sect; 07706 - Eligible countries](%C2%A7%2007706%20-%20Eligible%20countries.md)
 - [&sect; 07707 - Congressional and public notification of candidate countries, eligibility criteria, and eligible countries](%C2%A7%2007707%20-%20Congressional%20and%20public%20notification%20of%20candidate%20countries%2C%20eligibility%20criteria%2C%20and%20eligible%20countries.md)
 - [&sect; 07708 - Millennium Challenge Compact](%C2%A7%2007708%20-%20Millennium%20Challenge%20Compact.md)
-- [&sect; 07709 - Congressional and public notification of Compact](%C2%A7%2007709%20-%20Congressional%20and%20public%20notification%20of%20Compact.md)
+- [&sect; 07709 - Congressional and public notification](%C2%A7%2007709%20-%20Congressional%20and%20public%20notification.md)
 - [&sect; 07710 - Suspension and termination of assistance](%C2%A7%2007710%20-%20Suspension%20and%20termination%20of%20assistance.md)
 - [&sect; 07711 - Disclosure](%C2%A7%2007711%20-%20Disclosure.md)
 - [&sect; 07712 - Annual report](%C2%A7%2007712%20-%20Annual%20report.md)

@@ -13,3 +13,4 @@
 - [&sect; 08156 - Coordination with health services development activities carried out under the National Health Planning and Resources Development Act of&#8230;](%C2%A7%2008156%20-%20Coordination%20with%20health%20services%20development%20activities%20carried%20out%20under%20the%20National%20Health%20Planning%20and%20Resources%20Development%20Act%20of%E2%80%A6.md)
 - [&sect; 08157 - Joint title to medical equipment](%C2%A7%2008157%20-%20Joint%20title%20to%20medical%20equipment.md)
 - [&sect; 08158 - Deposit in escrow](%C2%A7%2008158%20-%20Deposit%20in%20escrow.md)
+- [&sect; 08159 - Authority to pay for services authorized but not subject to an agreement](%C2%A7%2008159%20-%20Authority%20to%20pay%20for%20services%20authorized%20but%20not%20subject%20to%20an%20agreement.md)

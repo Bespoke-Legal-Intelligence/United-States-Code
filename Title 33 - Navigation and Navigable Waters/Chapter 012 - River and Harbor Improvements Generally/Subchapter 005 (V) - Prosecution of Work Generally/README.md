@@ -18,3 +18,4 @@
 - [&sect; 00631 - Transfer of property between projects](%C2%A7%2000631%20-%20Transfer%20of%20property%20between%20projects.md)
 - [&sect; 00632 - Omitted](%C2%A7%2000632%20-%20Omitted.md)
 - [&sect; 00633 - Protection, alteration, reconstruction, relocation, or replacement of structures and facilities; contract standards; reasonable costs](%C2%A7%2000633%20-%20Protection%2C%20alteration%2C%20reconstruction%2C%20relocation%2C%20or%20replacement%20of%20structures%20and%20facilities%3B%20contract%20standards%3B%20reasonable%20costs.md)
+- [&sect; 00634 - Assistance relating to water supply](%C2%A7%2000634%20-%20Assistance%20relating%20to%20water%20supply.md)

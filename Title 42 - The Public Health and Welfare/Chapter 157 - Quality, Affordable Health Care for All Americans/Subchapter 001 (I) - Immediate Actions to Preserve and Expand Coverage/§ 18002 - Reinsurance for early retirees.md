@@ -60,11 +60,11 @@
 
 #### (B) Basis for claims
 
-&emsp;&emsp;Claims submitted under subparagraph (A) shall be based on the actual amount expended by the participating employment-based plan involved within the plan year for the health benefits provided to an early retiree or the spouse, surviving spouse, or dependent of such retiree. In determining the amount of a claim for purposes of this subsection, the participating employment-basedplan shall take into account any negotiated price concessions (such as discounts, direct or indirect subsidies, rebates, and direct or indirect remunerations) obtained by such plan with respect to such health benefit. For purposes of determining the amount of any such claim, the costs paid by the early retiree or the retiree's spouse, surviving spouse, or dependent in the form of deductibles, co-payments, or co-insurance shall be included in the amounts paid by the participating employment-based plan.
+&emsp;&emsp;Claims submitted under subparagraph (A) shall be based on the actual amount expended by the participating employment-based plan involved within the plan year for the health benefits provided to an early retiree or the spouse, surviving spouse, or dependent of such retiree. In determining the amount of a claim for purposes of this subsection, the participating employment-based plan shall take into account any negotiated price concessions (such as discounts, direct or indirect subsidies, rebates, and direct or indirect remunerations) obtained by such plan with respect to such health benefit. For purposes of determining the amount of any such claim, the costs paid by the early retiree or the retiree's spouse, surviving spouse, or dependent in the form of deductibles, co-payments, or co-insurance shall be included in the amounts paid by the participating employment-based plan.
 
 #### (2) Program payments
 
-&emsp;If the Secretary determines that a participating employment-based plan has submitted a valid claim under paragraph (1), the Secretary shall reimburse such plan for 80 percent of that portion of the costs attributable to such claim that exceed $15,000, subject to the limits contained in paragraph (3).
+&emsp;If the Secretary determines that a participating employment-based plan has submitteda valid claim under paragraph (1), the Secretary shall reimburse such plan for 80 percent of that portion of the costs attributable to such claim that exceed $15,000, subject to the limits contained in paragraph (3).
 
 #### (3) Limit
 

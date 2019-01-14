@@ -4,7 +4,7 @@ In carrying out the provisions of this subchapter, the Secretary shall have the 
 
 #### (a) Service and supply contracts
 
-&emsp;make contracts for services and supplies without regard to the provisions of section 6101 of title 41, when the aggregate amount involved is less than $300;
+&emsp;make contracts for services and supplies without regard to the provisions of section6101 of title 41, when the aggregate amount involved is less than $300;
 
 #### (b) Subordination, subrogation, and other agreements
 
@@ -42,7 +42,7 @@ In carrying out the provisions of this subchapter, the Secretary shall have the 
 
 #### (g) Rules and regulations for written notice of denial or reduction of assistance
 
-&emsp;issue rules and regulations which assure that applicants denied assistance under this subchapter or persons or organizations whose assistance under this subchapter is being substantially reduced or terminated are given written notice of the reasons for denial, reduction or termination and are provided at least an opportunity to appeal an adverse decision and to present additional information relevant to that decision to a person, other than the person making the original determination, who has authority to reverse the decision, except that rules issued under this subsectionmay not exclude from their coverage decisions made by the Secretary that are not based on objective standards contained in published regulations;
+&emsp;issue rules and regulations which assure that applicants denied assistance under this subchapter or persons or organizations whose assistance under this subchapter is being substantially reduced or terminated are given written notice of the reasons for denial, reduction or termination and are provided at leastan opportunity to appeal an adverse decision and to present additional information relevant to that decision to a person, other than the person making the original determination, who has authority to reverse the decision, except that rules issued under this subsection may not exclude from their coverage decisions made by the Secretary that are not based on objective standards contained in published regulations;
 
 #### (h) Assistance in connection with transfers and assumptions of property for nonrural areas
 

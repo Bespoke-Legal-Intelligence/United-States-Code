@@ -30,11 +30,65 @@ Subsec. (a). Pub. L. 114–328, §933(a)(1), substituted "Office of Military Fam
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, in first sentence, substituted "in the Office" for "in the Director" and struck out "hereinafter" before "in this section", and in second sentence, substituted "Office" for "office" in two places.
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "the Director" for "the Office" before "of the Secretary" and "The office shall be headed by the Director of Family Policy, who shall serve within the office of the Under Secretary of Defense for Personnel and Readiness." for "The Office shall be under the Assistant Secretary of Defense for Force Management and Personnel."
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "the Director" for "the Office" before "of the Secretary" and"The office shall be headed by the Director of Family Policy, who shall serve within the office of the Under Secretary of Defense for Personnel and Readiness." for "The Office shall be under the Assistant Secretary of Defense for Force Management and Personnel."
 
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
+
+#### Expansion of Period of Availability of Military OneSource Program for Retired and Discharged Members of the Armed Forces and Their Immediate Families
+
+Pub. L. 115–232, div. A, title V, §558, Aug. 13, 2018, 132 Stat. 1775, provided that:
+
+"(a)
+
+In General.—Under regulations prescribed by the Secretary of Defense, the period of eligibility for the Military OneSource program of the Department of Defense of an eligible individual retired, discharged, or otherwise released from the Armed Forces, and for the eligible immediate family members of such an individual, shall be the one-year period beginning on the date of the retirement, discharge, or release, as applicable, of such individual.
+
+"(b)
+
+Information to Families.—The Secretary shall, in such manner as the Secretary considers appropriate, inform military families and families of veterans of the Armed Forces of the wide range of benefits available through the Military OneSource program."
+
+#### Policy on Response to Juvenile-on-Juvenile Problematic Sexual Behavior Committed on Military Installations
+
+Pub. L. 115–232, div. A, title X, §1089, Aug. 13, 2018, 132 Stat. 1996, provided that:
+
+"(a)
+
+Policy Required.—The Secretary of Defense shall establish a policy, applicable across the military installations of the Department of Defense (including installations outside the United States), on the response of the Department to allegations of juvenile-on-juvenile problematic sexual behavior on military installations. The policy shall be designed to ensure a consistent, standardized response to such allegations across the Department.
+
+"(b)
+
+Elements.—The policy required by this section shall provide for the following:
+
+&emsp;"(1) Any report or other allegation of juvenile-on-juvenile problematic sexual behavior on a military installation that is received by the installation commander, a law enforcement organization, a Family Advocacy Program, a child development center, a military treatment facility, or a Department school operating on the installation or otherwise under Department administration for the installation shall be reviewed by the Family Advocacy Program of the installation.
+
+&emsp;"(2) Personnel of Family Advocacy Programs conducting reviews shall have appropriate training and experience in working with juveniles.
+
+&emsp;"(3) Family Advocacy Programs conducting reviews shall conduct a multi-faceted, multi-disciplinary review and recommend treatment, counseling, or other appropriate interventions for complainants and respondents.
+
+&emsp;"(4) Each review shall be conducted—
+
+&emsp;&emsp;"(A) with full involvement of appropriate authorities and entities, including parents or legal guardians of the juveniles involved (if practicable); and
+
+&emsp;&emsp;"(B) to the extent practicable, in a manner that protects the sensitive nature of the incident concerned, using language appropriate to the treatment of juveniles in written policies and communication with families.
+
+&emsp;"(5) The requirement for investigation of a report or other allegation shall not be deemed to terminate or alter any otherwise applicable requirement to report or forward the report or allegation to appropriate Federal, State, or local authorities as possible criminal activity.
+
+&emsp;"(6) There shall be established and maintained a centralized database of information on each incident of problematic sexual behavior that is reviewed by a Family Advocacy Program under the policy established under this section, with—
+
+&emsp;&emsp;"(A) the information in such database kept strictly confidential; and
+
+&emsp;&emsp;"(B) because the information involves alleged conduct by juveniles, additional special precautions taken to ensure the information is available only to persons who require access to the information.
+
+&emsp;"(7) There shall be entered into the database, for each substantiated or unsubstantiated incident of problematic sexual behavior, appropriate information on the incident, including—
+
+&emsp;&emsp;"(A) a description of the allegation;
+
+&emsp;&emsp;"(B) whether or not the review is completed;
+
+&emsp;&emsp;"(C) whether or not the incident was subject to an investigation by a law enforcement organization or entity, and the status and results of such investigation; and
+
+&emsp;&emsp;"(D) whether or not action was taken in response to the incident, and the nature of the action, if any, so taken."
 
 #### Provision of Information on Naturalization Through Military Service
 
@@ -196,7 +250,7 @@ Report.—
 
 &emsp;"(1)
 
-Report required.—Not later than 270 days after the date on which funds are first obligated for the program, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program.
+Report required.—Not later than 270 days after the date on which funds are first obligated forthe program, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program.
 
 &emsp;"(2)
 
@@ -284,7 +338,7 @@ Sec. 2. <i>Mission and Functions of the Working Group</i>. (a) The Working Group
 
 (iv) other efforts that further support service members, veterans, and their families.
 
-(b) Within 30 days of the date of this memorandum, the Working Group shall develop an initial 3-year strategic action plan that details broad approaches to be taken to enhance access to services and benefits. This initial plan shall be supplemented by a more detailed plan, to be published within 120 days of the date of this memorandum that discusses the steps to be taken in greater detail. The Working Group shall also report periodically on its accomplishments and ongoing initiatives.
+(b) Within 30 days of the date of this memorandum, the Working Group shall develop an initial 3-year strategic action plan that details broad approaches to be taken to enhance access to services and benefits. This initial plan shall be supplemented by a more detailed plan, to be published within 120 days of the date of thismemorandum that discusses the steps to be taken in greater detail. The Working Group shall also report periodically on its accomplishments and ongoing initiatives.
 
 Sec. 3. <i>Outreach</i>. Consistent with the objectives of this memorandum and applicable law, the Working Group shall seek the views of representatives of private and nonprofit organizations; veterans and military service organizations; State, tribal, and local government agencies; elected officials; and other interested persons to inform the Working Group's plans.
 

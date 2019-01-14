@@ -10,7 +10,11 @@ In this subtitle, the term "nondevelopmental item" means—
 
 &emsp;(4) an item of supply currently being produced that does not meet the requirements of paragraph (1), (2), or (3) solely because the item is not yet in use.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3680.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3680; Pub. L. 115–232, div. A, title VIII, §836(a)(2)(C), Aug. 13, 2018, 132 Stat. 1860.)
+
+#### Amendment of Paragraph (1)
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(a)(2)(C), (h), Aug. 13, 2018, 132 Stat. 1860, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (1) of this section is amended by striking "commercial item" and inserting "commercial product". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -35,4 +39,12 @@ June 30, 1949, ch. 288, title III, §314A ("nondevelopmental item"), as added Pu
 41:403(13).
 
 Pub. L. 93–400, §4(13), as added Pub. L. 103–355, title VIII, §8001(a), Oct. 13, 1994, 108 Stat. 3385.
+
+#### Amendments
+
+<b>2018</b>—Par. (1). Pub. L. 115–232 substituted "commercial product" for "commercial item".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 

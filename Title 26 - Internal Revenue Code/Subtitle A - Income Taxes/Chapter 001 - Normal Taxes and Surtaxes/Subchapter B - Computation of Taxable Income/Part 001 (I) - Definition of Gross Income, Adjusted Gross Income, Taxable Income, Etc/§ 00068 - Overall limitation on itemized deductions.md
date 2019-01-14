@@ -26,7 +26,7 @@ In the case of an individual whose adjusted gross income exceeds the applicable 
 
 #### (2) Inflation adjustment
 
-&emsp;In the case of any taxable year beginning in calendar years after 2013, each of the dollar amounts under subparagraphs (A), (B), and (C) of paragraph (1) shall be shall be <sup>1</sup> increased by an amount equal to—
+&emsp;In the case of any taxable year beginning in calendar years after 2013, each of the dollar amounts under subparagraphs (A), (B), and (C) of paragraph (1) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
@@ -56,13 +56,15 @@ This section shall not apply to any estate or trust.
 
 This section shall not apply to any taxable year beginning after December 31, 2017, and before January 1, 2026.
 
-(Added Pub. L. 101–508, title XI, §11103(a), Nov. 5, 1990, 104 Stat. 1388–406; amended Pub. L. 103–66, title XIII, §§13201(b)(3)(E), 13204, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 105–277, div. J, title IV, §4004(b)(2), Oct. 21, 1998, 112 Stat. 2681–911; Pub. L. 107–16, title I, §103(a), June 7, 2001, 115 Stat. 44; Pub. L. 112–240, title I, §101(b)(2)(A), Jan. 2, 2013, 126 Stat. 2316; Pub. L. 115–97, title I, §§11002(d)(2), 11046(a), Dec. 22, 2017, 131 Stat. 2061, 2088.)
+(Added Pub. L. 101–508, title XI, §11103(a), Nov. 5, 1990, 104 Stat. 1388–406; amended Pub. L. 103–66, title XIII, §§13201(b)(3)(E), 13204, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 105–277, div. J, title IV, §4004(b)(2), Oct. 21, 1998, 112 Stat. 2681–911; Pub. L. 107–16, title I, §103(a), June 7, 2001, 115 Stat. 44; Pub. L. 112–240, title I, §101(b)(2)(A), Jan. 2, 2013, 126 Stat. 2316; Pub. L. 115–97, title I, §§11002(d)(2), 11046(a), Dec. 22, 2017, 131 Stat. 2061, 2088; Pub. L. 115–141, div. U, title IV, §401(a)(33), Mar. 23, 2018, 132 Stat. 1186.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2). Pub. L. 115–141 substituted "shall be" for "shall be shall be" in introductory provisions.
 
 <b>2017</b>—Subsec. (b)(2)(B). Pub. L. 115–97, §11002(d)(2), substituted "1(f)(3)(A)(ii)" for "1(f)(3)(B)" and "2016" for "1992".
 
@@ -117,6 +119,4 @@ Amendment by section 13201(b)(3)(E) of Pub. L. 103–66 applicable to taxable ye
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1990, see section 11103(e) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note under section 1 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

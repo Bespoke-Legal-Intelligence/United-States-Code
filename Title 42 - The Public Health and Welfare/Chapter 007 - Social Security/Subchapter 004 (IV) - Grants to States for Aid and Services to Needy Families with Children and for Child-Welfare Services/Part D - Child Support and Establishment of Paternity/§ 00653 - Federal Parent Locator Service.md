@@ -26,7 +26,7 @@
 
 #### (b) Disclosure of information to authorized persons
 
-(1) Upon request, filed in accordance with subsection (d), of any authorized person, as defined in subsection (c) for the information described in subsection (a)(2), or of any authorized person, as defined in section 663(d)(2) of this title for the information described in section 663(c) of this title, the Secretary shall, notwithstanding any other provision of law, provide through the Federal Parent Locator Service such information to such person, if such information—
+(1) Upon request, filed in accordance with subsection (d), of any authorized person, as defined in subsection (c) for the information described in subsection (a)(2), or of any authorized person, as defined in section 663(d)(2) of this title for the information described in section 663(c) of thistitle, the Secretary shall, notwithstanding any other provision of law, provide through the Federal Parent Locator Service such information to such person, if such information—
 
 &emsp;(A) is contained in any files or records maintained by the Secretary or by the Department of Health and Human Services; or
 
@@ -120,7 +120,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (4) List of multistate employers
 
-&emsp;The Secretary shall maintain within the National Directory of New Hires a list of multistate employers that report information regarding newly hired employees pursuant to section 653a(b)(1)(B) of this title, and the State which each such employer has designated to receive such information.
+&emsp;The Secretary shall maintain within the National Directory of New Hires a list of multistate employers that report information regarding newly hired employees pursuant tosection 653a(b)(1)(B) of this title, and the State which each such employer has designated to receive such information.
 
 #### (j) Information comparisons and other disclosures
 
@@ -266,7 +266,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (ii) Disclosures permitted
 
-&emsp;&emsp;&emsp;Subject to clause (iii), the Secretary of Housing and Urban Development may disclose information resulting from a data match pursuant to this paragraph only to a public housing agency, the Inspector General of the Department of Housing and Urban Development, and the Attorney General in connection with the administration of a program described in subparagraph (A). Information obtained by theSecretary of Housing and Urban Development pursuant to this paragraph shall not be made available under section 552 of title 5.
+&emsp;&emsp;&emsp;Subject to clause (iii), the Secretary of Housing and Urban Development may disclose information resulting from a data match pursuant to this paragraph only to a public housing agency, the Inspector General of the Department of Housing and Urban Development, and the Attorney General in connection with the administration of a program described in subparagraph (A). Information obtained by the Secretary of Housing and Urban Development pursuant to this paragraph shall not be made available under section 552 of title 5.
 
 #### (iii) Conditions on disclosure
 
@@ -336,7 +336,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (A) Furnishing of information by the Secretary of the Treasury
 
-&emsp;&emsp;The Secretary of the Treasury shall furnish to the Secretary, on such periodic basisas determined by the Secretary of the Treasury in consultation with the Secretary, information in the custody of the Secretary of the Treasury for comparison with information in the National Directory of New Hires, in order to obtain information in such Directory with respect to persons—
+&emsp;&emsp;The Secretary of the Treasury shall furnish to the Secretary, on such periodic basis as determined by the Secretary of the Treasury in consultation with the Secretary, information in the custody of the Secretary of the Treasury for comparison with information in the National Directory of New Hires, in order to obtain information in such Directory with respect to persons—
 
 &emsp;&emsp;&emsp;(i) who owe delinquent nontax debt to the United States; and
 
@@ -402,7 +402,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (A) In general
 
-&emsp;&emsp;If, for purposes of administering a supplemental nutrition assistance program under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\], a State agency responsible for the administration of the program transmitsto the Secretary the names and social security account numbers of individuals, the Secretary shall disclose to the State agency information on the individuals and their employers maintained in the National Directory of New Hires, subject to this paragraph.
+&emsp;&emsp;If, for purposes of administering a supplemental nutrition assistance program under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\], a State agency responsible for the administration of the program transmits to the Secretary the names and social security account numbers of individuals, the Secretary shall disclose to the State agency information on the individuals and their employers maintained in the National Directory of New Hires, subject to this paragraph.
 
 #### (B) Condition on disclosure by the Secretary
 
@@ -486,7 +486,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (1) For SSA verification
 
-&emsp;The Secretary shall reimburse the Commissioner of Social Security, at a rate negotiated between the Secretary and the Commissioner, for the costs incurred by the Commissioner in performing the verification services described in subsection (j).
+&emsp;The Secretary shall reimburse the Commissioner of Social Security, at a rate negotiatedbetween the Secretary and the Commissioner, for the costs incurred by the Commissioner in performing the verification services described in subsection (j).
 
 #### (2) For information from State directories of new hires
 
@@ -526,7 +526,7 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 As used in this part, the term "support order" means a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or of the parent with whom the child is living, which provides for monetary support, health care, arrearages, or reimbursement, and which may include related costs and fees, interest and penalties, income withholding, attorneys' fees, and other relief.
 
-(Aug. 14, 1935, ch. 531, title IV, §453, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2353; amended Pub. L. 97–35, title XXIII, §2332(c), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2663(c)(13), (j)(2)(B)(ix), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§17, 19(a), Aug. 16, 1984, 98 Stat. 1321, 1322; Pub. L. 100–485, title I, §124(a), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 104–193, title I, §108(c)(10), title III, §§316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, 110 Stat. 2166, 2214–2216, 2237, 2250, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, 111 Stat. 627, 629–631, 636, 637; Pub. L. 105–34, title X, §1090(a)(2), Aug. 5, 1997, 111 Stat. 961; Pub. L. 105–89, title I, §105, Nov. 19,1997, 111 Stat. 2120; Pub. L. 105–200, title IV, §§402(a), (b), 410(d), July 16, 1998, 112 Stat. 668, 669, 673; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304, 1501A–306; Pub. L. 108–199, div. G, title II, §217(a), Jan. 23, 2004, 118 Stat. 394; Pub. L. 108–295, §3, Aug. 9, 2004, 118 Stat. 1091; Pub. L. 108–447, div. H, title VI, §643, Dec. 8, 2004, 118 Stat. 3283; Pub. L. 109–171, title VII, §§7305, 7306(b), Feb. 8, 2006, 120 Stat. 145, 146; Pub. L. 109–250, §2, July 27, 2006, 120 Stat. 652; Pub. L. 110–157, title III, §301(a), Dec. 26, 2007, 121 Stat. 1833; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–351, title I, §105, Oct. 7, 2008, 122 Stat. 3957; Pub. L. 112–37, §17(b), Oct. 5, 2011, 125 Stat. 398; Pub. L. 113–37, §3(a), Sept. 30, 2013, 127 Stat. 525; Pub. L. 113–79, title IV, §4030(p), Feb. 7, 2014, 128 Stat. 815; Pub. L. 113–183, title III, §§301(a)(2), (b), 302(a), (c), Sept. 29, 2014, 128 Stat. 1943, 1945, 1946.)
+(Aug. 14, 1935, ch. 531, title IV, §453, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2353; amended Pub. L. 97–35, title XXIII, §2332(c), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2663(c)(13), (j)(2)(B)(ix), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§17, 19(a), Aug. 16, 1984, 98 Stat. 1321, 1322; Pub. L. 100–485, title I, §124(a), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 104–193, title I, §108(c)(10), title III, §§316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, 110 Stat. 2166, 2214–2216, 2237, 2250, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, 111 Stat. 627, 629–631, 636, 637; Pub. L. 105–34, title X, §1090(a)(2), Aug. 5, 1997, 111 Stat. 961; Pub. L. 105–89, title I, §105, Nov. 19, 1997, 111 Stat. 2120; Pub. L. 105–200, title IV, §§402(a), (b), 410(d), July 16, 1998, 112 Stat. 668, 669, 673; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304, 1501A–306; Pub. L. 108–199, div. G, title II, §217(a), Jan. 23, 2004, 118 Stat. 394; Pub. L. 108–295, §3, Aug. 9, 2004, 118 Stat. 1091; Pub. L. 108–447, div. H, title VI, §643, Dec. 8, 2004, 118 Stat. 3283; Pub. L. 109–171, title VII, §§7305, 7306(b), Feb. 8, 2006, 120 Stat. 145, 146; Pub. L. 109–250, §2, July 27, 2006, 120 Stat. 652; Pub. L.110–157, title III, §301(a), Dec. 26, 2007, 121 Stat. 1833; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–351, title I, §105, Oct. 7, 2008, 122 Stat. 3957; Pub. L. 112–37, §17(b), Oct. 5, 2011, 125 Stat. 398; Pub. L. 113–37, §3(a), Sept. 30, 2013, 127 Stat. 525; Pub. L. 113–79, title IV, §4030(p), Feb. 7, 2014, 128 Stat. 815; Pub. L. 113–183, title III, §§301(a)(2), (b), 302(a), (c), Sept. 29, 2014, 128 Stat. 1943, 1945, 1946.)
 
 #### References in Text
 
@@ -698,7 +698,7 @@ Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(c)\], Nov. 29, 1999, 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–200, title IV, §402(e), July 16, 1998, 112 Stat. 669, provided that: "The amendments made bythis section \[amending this section\] shall take effect on October 1, 2000."
+Pub. L. 105–200, title IV, §402(e), July 16, 1998, 112 Stat. 669, provided that: "The amendments made by this section \[amending this section\] shall take effect on October 1, 2000."
 
 #### Effective Date of 1997 Amendment
 

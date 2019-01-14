@@ -30,7 +30,21 @@ Special Rules for Commercial Items.—The Federal Acquisition Regulation shall p
 
 &emsp;(3) shall include in the contract file a written description of the procedures used in awarding the contract and the number of offers received.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3719.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3719; Pub. L. 115–232, div. A, title VIII, §836(b)(4), Aug. 13, 2018, 132 Stat. 1861.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(b)(4), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)(2), by striking "commercial items" and inserting "commercial products or commercial services"; and</i>
+
+<i>(2) in subsection (e)—</i>
+
+<i>(A) by striking "Commercial Items" in the heading and inserting "Commercial Products and Commercial Services"; and</i>
+
+<i>(B) by striking "commercial items" and inserting "commercial products or commercial services".</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -52,9 +66,19 @@ Section 31(e) of the Office of Federal Procurement Policy Act (41 U.S.C. 427(e))
 
 In subsection (e)(2), the reference to section 253 of this title is limited to section 3303(e) of the revised title for clarity.
 
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(2). Pub. L. 115–232, §836(b)(4)(A), substituted "commercial products or commercial services" for "commercial items".
+
+Subsec. (e). Pub. L. 115–232, §836(b)(4)(B), substituted "Commercial Products and Commercial Services" for "Commercial Items" in heading and, in introductory provisions, substituted "commercial products or commercial services" for "commercial items".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+
 #### Procurement Through Commercial E-Commerce Portals
 
-Pub. L. 115–91, div. A, title VIII, §846, Dec. 12, 2017, 131 Stat. 1483, provided that:
+Pub. L. 115–91, div. A, title VIII, §846, Dec. 12, 2017, 131 Stat. 1483, as amended by Pub. L. 115–232, div. A, title VIII, §838(a), Aug. 13, 2018, 132 Stat. 1875, provided that:
 
 "(a)
 
@@ -124,19 +148,25 @@ Relationship to Other Provisions of Law.—
 
 &emsp;"(4) Nothing in this section shall be construed as limiting the applicability of section 1341 of title 31, United States Code (popularly referred to as the Anti-Deficiency Act).
 
+&emsp;"(5) A procurement of a product made through a commercial e-commerce portal under the program established pursuant to subsection (a) is deemed to satisfy requirements for full and open competition pursuant to section 2304 of title 10, United States Code, and section 3301 of title 41, United States Code, if—
+
+&emsp;&emsp;"(A) there are offers from two or more suppliers of such a product or similar product with substantially the same physical, functional, or performance characteristics on the online marketplace; and
+
+&emsp;&emsp;"(B) the Administrator establishes procedures to implement subparagraph (A) and notifies Congress at least 30 days before implementing such procedures.
+
 "(g)
 
-Use of Commercial Practices and Standard Terms and Conditions.—A procurement of a product through a commercial e-commerce portal used under the program established pursuant to subsection (a) shall be made, to the maximum extent practicable, under the standard terms and conditions of the portal relating to purchasing on the portal.
+Use of Commercial Practices and Standard Terms and Conditions.—A procurement of a productthrough a commercial e-commerce portal used under the program established pursuant to subsection (a) shall be made, to the maximum extent practicable, under the standard terms and conditions of the portal relating to purchasing on the portal.
 
 "(h)
 
 Disclosure, Protection, and Use of Information.—In any contract awarded to a commercial e-commerce portal provider pursuant to subsection (a), the Administrator shall require that the provider—
 
-&emsp;"(1) agree not to sell or otherwise make available to any third party any information pertaining to aproduct ordered by the Federal Government through the commercial e-commerce portal in a manner that identifies the Federal Government, or any of its departments or agencies, as the purchaser, except if the information is needed to process or deliver an order or the Administrator provides written consent;
+&emsp;"(1) agree not to sell or otherwise make available to any third party any information pertaining to a product ordered by the Federal Government through the commercial e-commerce portal in a manner that identifies the Federal Government, or any of its departments or agencies, as the purchaser, except if the information is needed to process or deliver an order or the Administrator provides written consent;
 
 &emsp;"(2) agree to take the necessary precautions to safeguard any information pertaining to the Federal Government, especially precautions necessary to protect against national security or cybersecurity threats; and
 
-&emsp;"(3) agree not to use, for pricing, marketing, competitive, or other purposes, any information related to a product from a third-party supplier featured on the commercial e-commerce portal or the transaction of such a product, except as necessary to comply with the requirements of the program established pursuant to subsection (a).
+&emsp;"(3) agree not to use, for pricing, marketing, competitive, or other purposes, any information, including any Government-owned data, such as purchasing trends or spending habits, related to a product from a third-party supplier featured on the commercial e-commerce portal or the transaction of such product, except as necessary to comply with the requirements of the program established in subsection (a).
 
 "(i)
 

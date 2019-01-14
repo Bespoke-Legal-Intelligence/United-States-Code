@@ -2,7 +2,7 @@
 
 #### (a) Earliest practicable date for issuance or grant of authorizations
 
-To the extent that the taking of any action which is necessary or related to the construction and initial operation of the approved transportation system requires a certificate, right-of-way, permit, lease, or other authorization to be issued or granted by a Federal officer or agency, such Federal officer or agency shall—
+To the extent that the taking of any action which is necessary or related to the construction and initial operation of the approved transportation system requires a certificate, right-of-way, permit, lease, or other authorization to beissued or granted by a Federal officer or agency, such Federal officer or agency shall—
 
 &emsp;(1) to the fullest extent permitted by the provisions of law administered by such officer or agency, but
 

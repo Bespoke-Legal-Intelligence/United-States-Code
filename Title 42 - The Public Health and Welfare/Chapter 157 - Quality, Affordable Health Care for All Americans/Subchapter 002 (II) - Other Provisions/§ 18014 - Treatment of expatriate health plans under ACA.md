@@ -54,7 +54,7 @@ In this section:
 
 &emsp;&emsp;(B) Substantially all of the benefits provided under the plan or coverage are not excepted benefits described in section 9832(c) of title 26.
 
-&emsp;&emsp;(C) The plan or coverage provides coverage for inpatient hospital services, outpatientfacility services, physician services, and emergency services (comparable to such emergency services coverage described in and offered under section 8903(1) of title 5 for plan year 2009)—
+&emsp;&emsp;(C) The plan or coverage provides coverage for inpatient hospital services, outpatient facility services, physician services, and emergency services (comparable to such emergency services coverage described in and offered under section 8903(1) of title 5 for plan year 2009)—
 
 &emsp;&emsp;&emsp;(i) in the case of individuals described in paragraph (3)(A), both in the United States and in the country or countries from which the individual was transferred or assigned (accounting for flexibility needed with existing coverage), and such other country or countries as the Secretary of Health and Human Services, in consultation with the Secretary of the Treasury and the Secretary of Labor, may designate (after taking into account the barriers and prohibitions to providing health care services in the countries as designated);
 

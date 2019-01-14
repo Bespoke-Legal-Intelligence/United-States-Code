@@ -38,7 +38,7 @@ Definitions.—For purposes of this section—
 
 #### No Relevance as to Compensation Claims
 
-Pub. L. 111–178, §2(b), June 9, 2010, 124 Stat. 1263, provided that: "No determination made under section 5724d of title 5, United States Code, shall be deemed relevant to or be considered in connection with any claim for compensation under chapter 81 of that title or under any other law under which compensation may be provided on account of death or personal injury, nor shall any determination made with respect to any suchclaim be deemed relevant to or be considered in connection with any request for payment of expenses under such section 5724d."
+Pub. L. 111–178, §2(b), June 9, 2010, 124 Stat. 1263, provided that: "No determination made under section 5724d of title 5, United States Code, shall be deemed relevant to or be considered in connection with any claim for compensation under chapter 81 of that title or under any other law under which compensation may be provided on account of death or personal injury, nor shall any determination made with respect to any such claim be deemed relevant to or be considered in connection with any request for payment of expenses under such section 5724d."
 
 #### Delegation Under Section 2(a) of the Special Agent Samuel Hicks Families of Fallen Heroes Act
 

@@ -12,7 +12,7 @@
 
 #### (b) Exemption from tax imposed in the United States
 
-Articles, goods, wares, or merchandise going into Puerto Rico, the Virgin Islands, Guam, andAmerican Samoa from the United States shall be exempted from the payment of any tax imposed by the internal revenue laws of the United States.
+Articles, goods, wares, or merchandise going into Puerto Rico, the Virgin Islands, Guam, and American Samoa from the United States shall be exempted from the payment of any tax imposed by the internal revenue laws of the United States.
 
 #### (c) Drawback of tax paid in the United States
 

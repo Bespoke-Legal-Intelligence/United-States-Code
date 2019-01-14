@@ -20,7 +20,7 @@ It is unlawful—
 
 &emsp;&emsp;(H) to interfere with, delay, or prevent, by any means, the apprehension or arrest of another person, knowing that such other person has committed any act prohibited by this section;
 
-&emsp;&emsp;(I) to knowingly and willfully submit to a Council, the Secretary, or the Governor of a State false information (including, but not limited to, false information regarding thecapacity and extent to which a United States fish processor, on an annual basis, will process a portion of the optimum yield of a fishery that will be harvested by fishing vessels of the United States) regarding any matter that the Council, Secretary, or Governor is considering in the course of carrying out this chapter;
+&emsp;&emsp;(I) to knowingly and willfully submit to a Council, the Secretary, or the Governor of a State false information (including, but not limited to, false information regarding the capacity and extent to which a United States fish processor, on an annual basis, will process a portion of the optimum yield of a fishery that will be harvested by fishing vessels of the United States) regarding any matter that the Council, Secretary, or Governor is considering in the course of carrying out this chapter;
 
 &emsp;&emsp;(J) to ship, transport, offer for sale, sell, or purchase, in interstate or foreign commerce, any whole live lobster of the species Homarus americanus, that—
 
@@ -48,7 +48,7 @@ It is unlawful—
 
 &emsp;&emsp;(ii) to have custody, control, or possession of any such fin aboard a fishing vessel unless it is naturally attached to the corresponding carcass;
 
-&emsp;&emsp;(iii) to transfer any such fin from one vessel to another vessel at sea, or to receive any such fin in such transfer, without the fin naturally attached to the corresponding carcass; or
+&emsp;&emsp;(iii) to transfer any such fin from one vessel to another vessel at sea, or to receive anysuch fin in such transfer, without the fin naturally attached to the corresponding carcass; or
 
 &emsp;&emsp;(iv) to land any such fin that is not naturally attached to the corresponding carcass, or to land any shark carcass without such fins naturally attached;
 
@@ -72,7 +72,7 @@ It is unlawful—
 
 &emsp;&emsp;(C) except as permitted under section 1856(c) of this title, in fish processing (as defined in paragraph (4)(A) of such section) within the internal waters of a State (as defined in paragraph (4)(B) of such section);
 
-&emsp;(3) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to transfer at sea directly or indirectly, or attempt to so transfer at sea, anyUnited States harvested fish to any foreign fishing vessel, while such foreign vessel is within the exclusive economic zone or within the boundaries of any State except to the extent that the foreign fishing vessel has been permitted under section 1824(d) of this title or section 1856(c) of this title to receive such fish;
+&emsp;(3) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to transfer at sea directly or indirectly, or attempt to so transfer at sea, any United States harvested fish to any foreign fishing vessel, while such foreign vessel is within the exclusive economic zone or within the boundaries of any State except to the extent that the foreign fishing vessel has been permitted under section 1824(d) of this title or section 1856(c) of this title to receive such fish;
 
 &emsp;(4) for any fishing vessel other than a vessel of the United States to operate, and for the owner or operator of a fishing vessel other than a vessel of the United States to operate such vessel, in the exclusive economic zone or within the boundaries of any State, if—
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 97–191 effective June 1, 1982, see section 3 of Pub. L. 9
 
 #### Effective Date
 
-Pub. L. 94–265, title III, §312, Apr. 13, 1976, 90 Stat. 359, provided that this section and sections 1858 to 1861 of this title were to take effect Mar. 1, 1977, prior to the general amendment of section 312 by Pub. L. 104–297, title I, §116(a), Oct. 11, 1996, 110 Stat. 3600. See section 1861a of this title.
+Pub. L. 94–265, title III, §312, Apr. 13, 1976, 90 Stat. 359, provided that this section and sections 1858 to 1861 ofthis title were to take effect Mar. 1, 1977, prior to the general amendment of section 312 by Pub. L. 104–297, title I, §116(a), Oct. 11, 1996, 110 Stat. 3600. See section 1861a of this title.
 
 #### Savings Clause
 
@@ -197,6 +197,10 @@ Commercial fishing.—The term 'commercial fishing' has the meaning given that t
 &emsp;"(B)
 
 State.—The term 'State' has the meaning given that term in section 803 of Public Law 103–206 (16 U.S.C. 5102)."
+
+#### Construction
+
+Nothing in section 103 of Pub. L. 111–348 (amending this section and enacting provisions set out as a note above) to be construed as affecting, altering, or diminishing the authority of the Secretary of Commerce to establish such conservation and management measures as the Secretary considers necessary and appropriate under sections 1852(a)(3) and 1854(g) of this title, see section 104 of Pub. L. 111–348, set out as a note under section 1826i of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

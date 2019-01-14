@@ -4,7 +4,7 @@ The head of each agency of the United States Government shall submit to the Arch
 
 &emsp;(1) lists of any records in the custody of the agency that have been photographed, microphotographed, or digitized under the regulations and that, as a consequence, do not appear to have sufficient value to warrant their further preservation by the Government;
 
-&emsp;(2) lists of other records in the custody of the agency not needed by it in the transactionof its current business and that do not appear to have sufficient administrative, legal, research, or other value to warrant their further preservation by the Government; and
+&emsp;(2) lists of other records in the custody of the agency not needed by it in the transaction of its current business and that do not appear to have sufficient administrative, legal, research, or other value to warrant their further preservation by the Government; and
 
 &emsp;(3) schedules proposing the disposal after the lapse of specified periods of time of records of a specified form or character that either have accumulated in the custody of the agency or may accumulate after the submission of the schedules and apparently will not after the lapse of the period specified have sufficient administrative, legal, research, or other value to warrant their further preservation by the Government.
 

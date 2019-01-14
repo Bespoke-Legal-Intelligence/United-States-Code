@@ -2,7 +2,7 @@
 
 (a)
 
-Judicial Review.—An action of the Secretary of Transportation in carrying out a duty or power transferred under the Department of Transportation Act (Public Law 89–670, 80 Stat. 931), or an action of the Administrator of the Federal Railroad Administration, the Federal Motor Carrier Safety Administration, or the Federal Aviation Administration in carrying out a duty or power specifically assigned to the Administrator by that Act, may be reviewed judicially to the same extent and in the same way as if the action had been an action by the department, agency, or instrumentality of the United States Government carrying out the duty or power immediately before the transfer or assignment.
+Judicial Review.—An action of the Secretary of Transportation in carrying out a duty or power transferred under the Department of Transportation Act (Public Law 89–670, 80 Stat. 931), or an action of the Administrator of the Federal Railroad Administration, the Federal Motor Carrier Safety Administration, or the Federal Aviation Administration in carryingout a duty or power specifically assigned to the Administrator by that Act, may be reviewed judicially to the same extent and in the same way as if the action had been an action by the department, agency, or instrumentality of the United States Government carrying out the duty or power immediately before the transfer or assignment.
 
 (b)
 
@@ -36,7 +36,7 @@ In subsection (a), the word "orders" is omitted as being included in "action".
 
 #### References in Text
 
-The Department of Transportation Act, referred to in subsecs. (a) and (b), is Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, as amended, which was classified principallyto sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, and Pub. L. 103–272, July 5, 1994, 108 Stat. 745. The Act was also repealed by Pub. L. 104–287, §7(5), Oct. 11, 1996, 110 Stat. 3400. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
+The Department of Transportation Act, referred to in subsecs. (a) and (b), is Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, as amended, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, and Pub. L. 103–272, July 5, 1994, 108 Stat. 745. The Act was also repealed by Pub. L. 104–287, §7(5), Oct. 11, 1996, 110 Stat. 3400. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
 
 #### Amendments
 

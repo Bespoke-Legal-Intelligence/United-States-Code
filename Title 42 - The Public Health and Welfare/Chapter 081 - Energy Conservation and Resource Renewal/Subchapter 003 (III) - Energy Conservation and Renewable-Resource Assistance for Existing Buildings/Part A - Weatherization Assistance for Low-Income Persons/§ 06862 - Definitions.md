@@ -64,7 +64,7 @@ Section 102(7) of the Developmental Disabilities Services and Facilities Constru
 
 Section 2809(a)(12) of this title, referred to in par. (7), which was redesignated as section 2809(a)(5) by Pub. L. 95–568, §5(a)(2)(E), Nov. 2, 1978, 92 Stat. 2426, was subsequently repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519.
 
-The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§601 et seq.) and XVI (§1381 et seq.) ofchapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§601 et seq.) and XVI (§1381 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Low-Income Home Energy Assistance Act of 1981, referred to in par. (7), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of this title and Tables.
 

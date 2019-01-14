@@ -22,7 +22,7 @@ In this section, the following definitions apply:
 
 (1) Any guidance, recommendations, suggested action items, or any other widely disseminated voluntary action items issued by the Secretary to a railroad carrier or a contractor or subcontractor of a railroad carrier relating to performing a security background check of a covered individual shall contain recommendations on the appropriate scope and application of such a security background check, including the time period covered, the types of disqualifying offenses, and a redress process for adversely impacted covered individuals consistent with subsections (c) and (d) of this section.
 
-(2) Within 60 days after August 3, 2007, any guidance, recommendations, suggested action items, or any other widely disseminated voluntary action item issued by the Secretary prior to August 3, 2007, to a railroad carrier or a contractor or subcontractor of a railroad carrier relating to performing a security backgroundcheck of a covered individual shall be updated in compliance with paragraph (1).
+(2) Within 60 days after August 3, 2007, any guidance, recommendations, suggested action items, or any other widely disseminated voluntary action item issued by the Secretary prior to August 3, 2007, to a railroad carrier or a contractor or subcontractor of a railroad carrier relating to performing a security background check of a covered individual shall be updated in compliance with paragraph (1).
 
 (3) If a railroad carrier or a contractor or subcontractor of a railroad carrier performs a security background check on a covered individual to fulfill guidance issued by the Secretary under paragraph (1) or (2), the Secretary shall not consider such guidance fulfilled unless an adequate redress process as described in subsection (d) is provided to covered individuals.
 
@@ -42,7 +42,7 @@ If the Secretary issues a rule, regulation, or directive requiring a railroad ca
 
 &emsp;(1) provide an adequate redress process for a covered individual subjected to an adverse employment decision, including removal or suspension of the employee, due to such rule, regulation, or directive that is consistent with the appeals and waiver process established for applicants for commercial motor vehicle hazardous materials endorsements and transportation employees at ports, as required by section 70105(c) of title 46; and
 
-&emsp;(2) have the authority to order an appropriate remedy, including reinstatement of the covered individual, should the Secretary determine that a railroad carrier or contractor or subcontractor of a railroad carrier wrongfully made an adverse employment decision regarding a covered individual pursuant to such rule, regulation, or directive.
+&emsp;(2) have the authority to order an appropriate remedy, including reinstatement of the covered individual, should the Secretary determine that a railroad carrier or contractoror subcontractor of a railroad carrier wrongfully made an adverse employment decision regarding a covered individual pursuant to such rule, regulation, or directive.
 
 #### (e) False statements
 

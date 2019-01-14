@@ -4,7 +4,7 @@
 
 (1) Whenever the Commissioner of Social Security finds that more or less than the correct amount of payment has been made to any person under this subchapter, proper adjustment or recovery shall be made, under regulations prescribed by the Commissioner of Social Security, as follows:
 
-&emsp;(A) With respect to payment to a person of more than the correct amount, the Commissioner of Social Security shall decrease any payment under this subchapter to which such overpaid person is entitled, or shall require such overpaid person or his estate to refundthe amount in excess of the correct amount, or shall decrease any payment under this subchapter payable to his estate or to any other person on the basis of the wages and self-employment income which were the basis of the payments to such overpaid person, or shall obtain recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury as permitted under section 3720A of title 31, or shall apply any combination of the foregoing. A payment made under this subchapter on the basis of an erroneous report of death by the Department of Defense of an individual in the line of duty while he is a member of the uniformed services (as defined in section 410(m) of this title) on active duty (as defined in section 410(l) of this title) shall not be considered an incorrect payment for any month prior to the month such Department notifies the Commissioner of Social Security that such individual is alive.
+&emsp;(A) With respect to payment to a person of more than the correct amount, the Commissioner of Social Security shall decrease any payment under this subchapter to which such overpaid person is entitled, or shall require such overpaid person or his estate to refund the amount in excess of the correct amount, or shall decrease any payment under this subchapter payable to his estate or to any other person on the basis of the wages and self-employment income which were the basis of the payments to such overpaid person, or shall obtain recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury as permitted under section 3720A of title 31, or shall apply any combination of the foregoing. A payment made under this subchapter on the basis of an erroneous report of death by the Department of Defense of an individual in the line of duty while he is a member of the uniformed services (as defined in section 410(m) of this title) on active duty (as defined in section 410(l) of this title) shall not be considered an incorrect payment for any month prior to the month such Department notifies the Commissioner of Social Security that such individual is alive.
 
 &emsp;(B)(i) Subject to clause (ii), with respect to payment to a person of less than the correct amount, the Commissioner of Social Security shall make payment of the balance of the amount due such underpaid person, or, if such person dies before payments are completed or before negotiating one or more checks representing correct payments, disposition of the amount due shall be made in accordance with subsection (d).
 
@@ -27,6 +27,10 @@
 &emsp;(C) such other person was entitled to a monthly benefit on the basis of the same wages and self-employment income as the deceased individual for the month preceding the month in which the deceased individual died,
 
 > the amount of such payment in excess of the correct amount shall be treated as a payment of more than the correct amount to such other person. If any payment of more than the correct amount is made to a representative payee on behalf of an individual after the individual's death, the representative payee shall be liable for the repayment of the overpayment, and the Commissioner of Social Security shall establish an overpayment control record under the social security account number of the representative payee.
+
+(3)(A) When any payment of more than the correct amount is made on behalf of an individual who is a represented minor beneficiary for a month in which such individual is in foster care under the responsibility of a State and the State is the representative payee of such individual, the State shall be liable for the repayment of the overpayment, and there shall be no adjustment of payments to, or recovery by the United States from, such individual.
+
+(B) For purposes of this paragraph, the term "represented minor beneficiary" has the meaning given such term in subsection (j)(11)(B)(iii).<sup>1</sup>
 
 #### (b) Access to financial information for old-age, survivors, and disability insurance waivers
 
@@ -62,7 +66,7 @@ If an individual dies before any payment due him under this subchapter is comple
 
 &emsp;(1) to the person, if any, who is determined by the Commissioner of Social Security to be the surviving spouse of the deceased individual and who either (i) was living in the same household with the deceased at the time of his death or (ii) was, for the month in which the deceased individual died, entitled to a monthly benefit on the basis of the same wages and self-employment income as was the deceased individual;
 
-&emsp;(2) if there is no person who meets the requirements of paragraph (1), or if the person who meets such requirements dies before the payment due him under this subchapter is completed, to the child or children, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
+&emsp;(2) if there is no person who meets the requirements of paragraph (1), or if the person who meets such requirements dies before thepayment due him under this subchapter is completed, to the child or children, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
 
 &emsp;(3) if there is no person who meets the requirements of paragraph (1) or (2), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the parent or parents, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such parent, in equal parts to each such parent);
 
@@ -94,13 +98,17 @@ For payments which are adjusted by reason of payment of benefits under the suppl
 
 For provisions relating to the cross-program recovery of overpayments made under programs administered by the Commissioner of Social Security, see section 1320b–17 of this title.
 
-(Aug. 14, 1935, ch. 531, title II, §204, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1368; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(a), 68 Stat. 1085; Pub. L. 89–97, title III, §329, July 30, 1965, 79 Stat. 401; Pub. L. 90–248, title I, §§152, 153(a), 154(a), Jan. 2, 1968, 81 Stat. 860, 861; Pub. L. 96–265, title V, §501(b), June 9, 1980, 94 Stat. 470; Pub. L. 99–272, title XII, §12113(a), Apr. 7,1986, 100 Stat. 288; Pub. L. 101–239, title X, §10305(b), Dec. 19, 1989, 103 Stat. 2483; Pub. L. 101–508, title V, §5129(a), Nov. 5, 1990, 104 Stat. 1388–287; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–387, §5(a), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(z)(2)(A), Apr. 26, 1996, 110 Stat. 1321–379; Pub. L. 104–316, title I, §115(g)(2)(E), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–306, §8(b)(1), Oct. 28, 1998, 112 Stat. 2929; Pub. L. 106–169, title II, §§201(a), 203(c), Dec. 14, 1999, 113 Stat. 1831, 1832; Pub. L. 108–203, title II, §210(b)(1), Mar. 2, 2004, 118 Stat. 517; Pub. L. 111–115, §2(a), Dec. 15, 2009, 123 Stat. 3029; Pub. L. 114–74, title VIII, §834(a), Nov. 2, 2015, 129 Stat. 614.)
+(Aug. 14, 1935, ch. 531, title II, §204, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1368; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(a), 68 Stat. 1085; Pub. L. 89–97, title III, §329, July 30, 1965, 79 Stat. 401; Pub. L. 90–248, title I, §§152, 153(a), 154(a), Jan. 2, 1968, 81 Stat. 860, 861; Pub. L. 96–265, title V, §501(b), June 9, 1980, 94 Stat. 470; Pub. L. 99–272, title XII, §12113(a), Apr. 7, 1986, 100 Stat. 288; Pub. L. 101–239, title X, §10305(b), Dec. 19, 1989, 103 Stat. 2483; Pub. L. 101–508, title V, §5129(a), Nov. 5, 1990, 104 Stat. 1388–287; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–387, §5(a), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(z)(2)(A), Apr. 26, 1996, 110 Stat. 1321–379; Pub. L. 104–316, title I, §115(g)(2)(E), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–306, §8(b)(1), Oct. 28, 1998, 112 Stat. 2929; Pub. L. 106–169, title II, §§201(a), 203(c), Dec. 14, 1999, 113 Stat. 1831, 1832; Pub. L. 108–203, title II, §210(b)(1), Mar. 2, 2004, 118 Stat. 517; Pub. L. 111–115, §2(a), Dec. 15, 2009, 123 Stat. 3029; Pub. L. 114–74, title VIII, §834(a), Nov. 2, 2015, 129 Stat. 614; Pub. L. 115–165, title I, §104(a), Apr. 13, 2018, 132 Stat. 1263.)
 
 #### References in Text
+
+Subsection (j)(11)(B)(iii), referred to in subsec. (a)(3)(B), probably means subsection (j)(11)(B)(iii) of section 205 of the Social Security Act, which is classified to section 405(j)(11)(B)(iii) of this title.
 
 The Right to Financial Privacy Act, referred to in subsec. (b)(3)(C)(i), probably means the Right to Financial Privacy Act of 1978, title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(3). Pub. L. 115–165 added par. (3).
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–74 amended subsec. (b) generally. Prior to amendment, text read as follows: "In any case in which more than the correct amount of payment has been made, there shall be no adjustment of payments to, or recovery by the United States from, any person who is without fault if such adjustment or recovery would defeat the purpose of this subchapter or would be against equity and good conscience. In making for purposes of this subsection any determination of whether any individual is without fault, the Commissioner of Social Security shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language)."
 
@@ -148,13 +156,17 @@ Subsec. (d). Pub. L. 90–248, §154(a), struck out, in text preceding par. (1),
 
 <b>1939</b>—Act Aug. 10, 1939, omitted former provisions relating to payments to aged individuals not qualified for benefits and substituted the present section relating to overpayments and underpayments.
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–165, title I, §104(c), Apr. 13, 2018, 132 Stat. 1264, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to overpayment determinations made on or after the date of the enactment of this Act \[Apr. 13, 2018\] and to any other overpaid amounts that have not been recovered as of such date."
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–74, title VIII, §834(c), Nov. 2, 2015, 129 Stat. 615, provided that: "The amendments made by this section \[amending this section and section 1383 of this title\] shall apply with respect to determinations made on or after the date that is 3 months after the date of the enactment of this section \[Nov. 2, 2015\]."
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–115, §2(c), Dec. 15, 2009, 123 Stat. 3030, provided that: "The amendments made by this section\[amending this section and section 1383 of this title\] shall be effective for payments that would otherwise be made on or after the date of the enactment of this Act \[Dec. 15, 2009\]."
+Pub. L. 111–115, §2(c), Dec. 15, 2009, 123 Stat. 3030, provided that: "The amendments made by this section \[amending this section and section 1383 of this title\] shall be effective for payments that would otherwise be made on or after the date of the enactment of this Act \[Dec. 15, 2009\]."
 
 #### Effective Date of 2004 Amendment
 
@@ -168,7 +180,7 @@ Amendment by section 203(c) of Pub. L. 106–169 applicable to debt outstanding 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–306, §8(c), Oct. 28, 1998, 112 Stat. 2930, provided that: "The amendments made by this section \[enacting section 1320b–17 of this title and amending this section and section 1383 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\] and shall apply to amounts incorrectly paid which remain outstanding on or after such date."
+Pub. L. 105–306, §8(c), Oct. 28, 1998, 112 Stat. 2930, provided that: "The amendments made by this section \[enacting section 1320b–17 of this title and amending this section and section 1383 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\]and shall apply to amounts incorrectly paid which remain outstanding on or after such date."
 
 #### Effective Date of 1994 Amendments
 
@@ -207,6 +219,8 @@ Pub. L. 114–74, title VIII, §845(c), Nov. 2, 2015, 129 Stat. 619, provided th
 &emsp;"(1) the number and total value of overpayments recovered or scheduled to be recovered by the Social Security Administration during the previous fiscal year of benefits under title II and title XVI \[probably means title II and title XVI of act Aug. 14, 1935, ch. 531, which are classified to 42 U.S.C. 401 et seq. and 42 U.S.C. 1381 et seq.\], respectively, including the terms and conditions of repayment of such overpayments; and
 
 &emsp;"(2) the number and total value of overpayments waived by the Social Security Administration during the previous fiscal year of benefits under title II and title XVI, respectively."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>1</sup></i><i> So in original. Probably should be "delinquent".</i>
 

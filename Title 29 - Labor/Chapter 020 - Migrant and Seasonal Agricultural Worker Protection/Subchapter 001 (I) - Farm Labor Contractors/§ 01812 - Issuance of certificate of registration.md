@@ -10,7 +10,7 @@ The Secretary, after appropriate investigation and approval, shall issue a certi
 
 &emsp;(4) a set of fingerprints of the applicant; and
 
-&emsp;(5) a declaration, subscribed and sworn to by the applicant, consenting to the designation by a court of the Secretary as an agent available to accept service of summons in any action against the applicant, if the applicant hasleft the jurisdiction in which the action is commenced or otherwise has become unavailable to accept service.
+&emsp;(5) a declaration, subscribed and sworn to by the applicant, consenting to the designation by a court of the Secretary as an agent available to accept service of summons in any action against the applicant, if the applicant has left the jurisdiction in which the action is commenced or otherwise has become unavailable to accept service.
 
 (Pub. L. 97–470, title I, §102, Jan. 14, 1983, 96 Stat. 2587.)
 

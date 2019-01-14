@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The manufacturer or distributor of one or more investigational drugs for the diagnosis, monitoring, or treatment of one or more serious diseases or conditions shall make available the policy of the manufacturer or distributor onevaluating and responding to requests submitted under section 360bbb(b) of this title for provision of such a drug.
+The manufacturer or distributor of one or more investigational drugs for the diagnosis, monitoring, or treatment of one or more serious diseases or conditions shall make available the policy of the manufacturer or distributor on evaluating and responding to requests submitted under section 360bbb(b) of this title for provision of such a drug.
 
 #### (b) Public availability of expanded access policy
 

@@ -20,7 +20,7 @@ Support.—(1) To support a funeral honors detail under this section, the Secret
 
 &emsp;(A) For a person who participates in a funeral honors detail (other than a person who is a member of the armed forces not in a retired status or an employee of the United States), either travel and transportation allowances as specified in regulations prescribed under section 464 of title 37 or the daily stipend prescribed under paragraph (2).
 
-&emsp;(B) For members of a veterans organization or other organization referred to in subsection (b)(2) and for members of the armed forces in a retired status, materiel, equipment, and training.
+&emsp;(B) For members of a veterans organization or other organization referred to in subsection\(b)(2) and for members of the armed forces in a retired status, materiel, equipment, and training.
 
 &emsp;(C) For members of a veterans organization or other organization referred to in subsection (b)(2), articles of clothing that, as determined by the Secretary concerned, are appropriate as a civilian uniform for persons participating in a funeral honors detail.
 

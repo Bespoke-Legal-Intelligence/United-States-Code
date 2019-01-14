@@ -1,6 +1,6 @@
 ### §638. Continental shelf areas
 
-For purposes of applying the provisions of this chapter (including sections 861(a)(3) and 862(a)(3) in the case of the performance of personal services) with respect to mines, oil and gas wells, and other natural deposits—
+For purposes of applying the provisions of this chapter (including sections 861(a)(3) and 862(a)(3)in the case of the performance of personal services) with respect to mines, oil and gas wells, and other natural deposits—
 
 &emsp;(1) the term "United States" when used in a geographical sense includes the seabed and subsoil of those submarine areas which are adjacent to the territorial waters of the United States and over which the United States has exclusive rights, in accordance with international law, with respect to the exploration and exploitation of natural resources; and
 

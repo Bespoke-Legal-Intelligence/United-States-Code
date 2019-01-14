@@ -4,7 +4,7 @@
 
 The President shall, acting through the Secretary of Defense, establish and update as appropriate, and submit to Congress, options to accelerate the expansion of the capacity of Afghan National Security Forces with the goal of—
 
-&emsp;(1) enabling the Government of the Islamic Republic of Afghanistan, consistent with the Framework for Inteqal, to assume lead responsibility for security in all areas of Afghanistan, to maintain security in those areas, and to sustain the Afghan National Security Forces;
+&emsp;(1) enabling the Government of the Islamic Republic of Afghanistan, consistent with theFramework for Inteqal, to assume lead responsibility for security in all areas of Afghanistan, to maintain security in those areas, and to sustain the Afghan National Security Forces;
 
 &emsp;(2) achieving United States national security objectives to disrupt, dismantle, and defeat al-Qaeda and its extremist allies in Afghanistan, and preventing the establishment of safe havens for those entities; and
 

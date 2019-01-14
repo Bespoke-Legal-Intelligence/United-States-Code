@@ -14,7 +14,7 @@ Junk Yard and Salvage Yard Operators.—(1) Beginning at a time established by t
 
 (2) Paragraph (1) of this subsection does not apply to an individual or entity—
 
-&emsp;(A) required by State law to report the acquisition of junk automobiles or salvage automobiles to State or local authorities if those authorities make that information available to the operator; or
+&emsp;(A) required by State law to report the acquisition of junk automobiles or salvage automobiles to State or local authorities if thoseauthorities make that information available to the operator; or
 
 &emsp;(B) issued a verification under section 33110 of this title stating that the automobile or parts from the automobile are not reported as stolen.
 
@@ -80,5 +80,5 @@ Subsecs. (b), (c). Pub. L. 104–152, §3(a), substituted "Attorney General" for
 
 Pub. L. 105–102, §3(b), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(b) is effective July 2, 1996.
 
-Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendmentrelates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
+Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendment relates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
 

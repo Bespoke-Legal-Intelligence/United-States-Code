@@ -38,7 +38,7 @@
 
 &emsp;(B) an identification of existing programs or technologies that are similar to the technology, or that have a mission similar to the mission, of the program that is the subject of the notice.
 
-(3) In this subsection, the term "new special access program" means a special access program that has not previously been covered in a notice and justification under this subsection.
+(3) In this subsection, the term "new special access program" means a special access programthat has not previously been covered in a notice and justification under this subsection.
 
 #### (c) Reports on changes in classification of special access programs
 
@@ -75,4 +75,8 @@ Provisions similar to those in this section were contained in section 2122a of T
 #### Amendments
 
 <b>2014</b>—Subsec. (a)(2)(B)(iv). Pub. L. 113–291 substituted "program for—" for "program for" before subcl. (I) designation, "year;" for "year," at end of subcl. (I), and "; and" for ", and" at end of subcl. (II) and realigned margins of subcls. (I) to (III).
+
+#### Effective Date
+
+Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under section 2401 of this title.
 

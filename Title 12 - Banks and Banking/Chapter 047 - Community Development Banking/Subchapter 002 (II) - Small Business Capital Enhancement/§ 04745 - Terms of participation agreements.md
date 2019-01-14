@@ -56,7 +56,7 @@ Interest or income earned on the funds credited to a reserve fund shall be deeme
 
 #### (g) Coverage amount
 
-In filing a loan for enrollment under the Program, the participating financial institutionmay specify an amount to be covered under the Program that is less than the full amount of the loan.
+In filing a loan for enrollment under the Program, the participating financial institution may specify an amount to be covered under the Program that is less than the full amount of the loan.
 
 #### (h) Premium charges
 
@@ -116,7 +116,7 @@ A claim filed by a participating financial institution may include the amount of
 
 &emsp;&emsp;(A) is not an early loan, such payment shall be deemed fully to satisfy the claim, and the participating financial institution shall have no other or further right to receive any amount from the reserve fund with respect to such claim; or
 
-&emsp;&emsp;(B) is an early loan, such payment shall not be deemed fully to satisfy the claim of the participating financial institution, and at such time as the remaining balance of the claim does not exceed 75 percent of the balance in the reserve fund, the participating State shall, upon the request of the participating financial institution, pay any remaining amount of the claim.
+&emsp;&emsp;(B) is an early loan, such payment shall not be deemed fully to satisfy the claim of the participating financial institution, and at such time as the remaining balance of the claim does not exceed 75 percent of the balance in the reserve fund, the participatingState shall, upon the request of the participating financial institution, pay any remaining amount of the claim.
 
 #### (n) Denial of claims
 
@@ -184,11 +184,11 @@ The participation agreement may provide that, if, for any consecutive period of 
 
 #### (2) Payment of post-withdrawal claims
 
-&emsp;After any withdrawal of assets from the reserve fund pursuant to paragraph (1)(B), any future claims filed by the participating financial institution on loans remaining in its capital access program portfolio shall only be paid from funds remaining in the reserve fund to the extent that, in the aggregate, such claims exceed the sum of the amount of such withdrawn assets, and interest on that amount, imputed at the same rate as income would have accrued had the amount not been withdrawn.
+&emsp;After any withdrawal of assets from the reserve fund pursuant to paragraph (1)(B), any future claims filed by the participating financial institution on loans remaining in its capital access program portfolio shall only be paid from funds remaining in the reserve fund to the extent that, in the aggregate, such claims exceed the sum of the amount of such withdrawn assets, and interest on thatamount, imputed at the same rate as income would have accrued had the amount not been withdrawn.
 
 #### (3) Conditions for terminating special authority
 
-&emsp;If the Fund determines that the inclusion in a participation agreement of the provisions authorized by this subsection is resulting in the enrollment of loans under the Program that are likely to have been made without assistance provided under this subchapter, the Fund may notify the participating State that henceforth, the Fund will only make reimbursements to the State under section 4747 ofthis title with respect to a loan if the participation agreement between the participating State and each participating financial institution has been amended to conform with this section, without exercise of the special authority granted by this subsection.
+&emsp;If the Fund determines that the inclusion in a participation agreement of the provisions authorized by this subsection is resulting in the enrollment of loans under the Program that are likely to have been made without assistance provided under this subchapter, the Fund may notify the participating State that henceforth, the Fund will only make reimbursements to the State under section 4747 of this title with respect to a loan if the participation agreement between the participating State and each participating financial institution has been amended to conform with this section, without exercise of the special authority granted by this subsection.
 
 (Pub. L. 103–325, title II, §255, Sept. 23, 1994, 108 Stat. 2207.)
 

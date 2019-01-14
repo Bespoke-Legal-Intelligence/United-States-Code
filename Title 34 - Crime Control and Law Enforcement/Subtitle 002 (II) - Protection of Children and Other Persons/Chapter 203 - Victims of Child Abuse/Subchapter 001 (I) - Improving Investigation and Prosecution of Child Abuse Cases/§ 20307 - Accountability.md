@@ -1,5 +1,7 @@
 ### §20307. Accountability
 
+#### (a) In general
+
 All grants awarded by the Administrator under this subchapter shall be subject to the following accountability provisions:
 
 #### (1) Audit requirement
@@ -18,7 +20,7 @@ All grants awarded by the Administrator under this subchapter shall be subject t
 
 #### (D) Priority
 
-&emsp;&emsp;In awarding grants under this subchapter, the Administrator shall give priority to eligible entities that did not have an unresolved audit finding during the 3 fiscal yearsprior to submitting an application for a grant under this subchapter.
+&emsp;&emsp;In awarding grants under this subchapter, the Administrator shall give priority to eligible entities that did not have an unresolved audit finding during the 3 fiscal years prior to submitting an application for a grant under this subchapter.
 
 #### (E) Reimbursement
 
@@ -56,7 +58,21 @@ All grants awarded by the Administrator under this subchapter shall be subject t
 
 &emsp;&emsp;The Deputy Attorney General shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on all approved conference expenditures referenced in this paragraph.
 
-(Pub. L. 101–647, title II, §214C, as added Pub. L. 113–163, §2(b), Aug. 8, 2014, 128 Stat. 1864.)
+#### (b) Reporting
+
+Not later than March 1 of each year, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that—
+
+&emsp;(1) summarizes the efforts of the Administrator to monitor and evaluate the regional children's advocacy program activities under section 20303(d) of this title;
+
+&emsp;(2) describes—
+
+&emsp;&emsp;(A) the method by which amounts are allocated to grantees and subgrantees under this subchapter, including to local children's advocacy centers, State chapters, and regional children's advocacy program centers; and
+
+&emsp;&emsp;(B) steps the Attorney General has taken to minimize duplication and overlap in the awarding of amounts under this subchapter; and
+
+&emsp;(3) analyzes the extent to which both rural and urban populations are served under the regional children's advocacy program.
+
+(Pub. L. 101–647, title II, §214C, as added Pub. L. 113–163, §2(b), Aug. 8, 2014, 128 Stat. 1864; amended Pub. L. 115–424, §2(g), Jan. 7, 2019, 132 Stat. 5469.)
 
 #### References in Text
 
@@ -65,4 +81,8 @@ This Act, referred to in par. (3)(A), probably means the Victims of Child Abuse 
 #### Codification
 
 Section was formerly classified to section 13005 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+
+<b>2019</b>—Pub. L. 115–424 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

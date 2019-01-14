@@ -10,7 +10,7 @@
 
 &emsp;(4) in which rights in property in the United States acquired by succession or gift or rights in immovable property situated in the United States are in issue;
 
-&emsp;(5) not otherwise encompassed in paragraph (2) above, in which money damages are sought against a foreign state for personal injury or death, or damage to or loss of property, occurring in the United States and caused by the tortious act or omission of that foreign state or of any official or employee of that foreign state while acting within the scope of his office or employment; except this paragraph shall not apply to—
+&emsp;(5) not otherwise encompassed in paragraph (2) above, in which money damages are sought against a foreign state for personal injury or death, or damage to or loss of property, occurring in the United States and caused by the tortious act or omission of that foreign state or of any official or employee of that foreignstate while acting within the scope of his office or employment; except this paragraph shall not apply to—
 
 &emsp;&emsp;(A) any claim based upon the exercise or performance or the failure to exercise or perform a discretionary function regardless of whether the discretion be abused, or
 
@@ -24,7 +24,7 @@
 
 &emsp;(2) notice to the foreign state of the commencement of suit as provided in section 1608 of this title is initiated within ten days either of the delivery of notice as provided in paragraph (1) of this subsection or, in the case of a party who was unaware that the vessel or cargo of a foreign state was involved, of the date such party determined the existence of the foreign state's interest.
 
-(c) Whenever notice is delivered under subsection (b)(1), the suit to enforce a maritime lien shall thereafter proceed and shall be heard and determined according to the principles of law and rules of practice of suits in rem whenever it appears that, had the vessel been privatelyowned and possessed, a suit in rem might have been maintained. A decree against the foreign state may include costs of the suit and, if the decree is for a money judgment, interest as ordered by the court, except that the court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose. Such value shall be determined as of the time notice is served under subsection (b)(1). Decrees shall be subject to appeal and revision as provided in other cases of admiralty and maritime jurisdiction. Nothing shall preclude the plaintiff in any proper case from seeking relief in personam in the same action brought to enforce a maritime lien as provided in this section.
+(c) Whenever notice is delivered under subsection (b)(1), the suit to enforce a maritime lien shall thereafter proceed and shall be heard and determined according to the principles of law and rules of practice of suits in rem whenever it appears that, had the vessel been privately owned and possessed, a suit in rem might have been maintained. A decree against the foreign state may include costs of the suit and, if the decree is for a money judgment, interest as ordered by the court, except that the court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose. Such value shall be determined as of the time notice is served under subsection (b)(1). Decrees shall be subject to appeal and revision as provided in other cases of admiralty and maritime jurisdiction. Nothing shall preclude the plaintiff in any proper case from seeking relief in personam in the same action brought to enforce a maritime lien as provided in this section.
 
 (d) A foreign state shall not be immune from the jurisdiction of the courts of the United States in any action brought to foreclose a preferred mortgage, as defined in section 31301 of title 46. Such action shall be brought, heard, and determined in accordance with the provisions of chapter 313 of title 46 and in accordance with the principles of law and rules of practice of suits in rem, whenever it appears that had the vessel been privately owned and possessed a suit in rem might have been maintained.
 
@@ -48,7 +48,7 @@ Sunset.—(A) Subject to subparagraph (B), no stay shall be granted or continued
 
 &emsp;&emsp;(i) create a serious threat of death or serious bodily injury to any person;
 
-&emsp;&emsp;(ii) adversely affect the ability of the United States to work in cooperation with foreign and international law enforcement agencies in investigating violations of United States law; or
+&emsp;&emsp;(ii) adversely affect the ability of the United States to work in cooperation with foreign and international law enforcementagencies in investigating violations of United States law; or
 
 &emsp;&emsp;(iii) obstruct the criminal case related to the incident that gave rise to the cause of action or undermine the potential for a conviction in such case.
 
@@ -98,7 +98,7 @@ Nazi-era claims.—Paragraph (1) shall not apply in any case asserting jurisdict
 
 &emsp;&emsp;(B)
 
-Other culturally significant works.—In addition to cases exempted undersubparagraph (A), paragraph (1) shall not apply in any case asserting jurisdiction under subsection (a)(3) in which rights in property taken in violation of international law are in issue within the meaning of that subsection and—
+Other culturally significant works.—In addition to cases exempted under subparagraph (A), paragraph (1) shall not apply in any case asserting jurisdiction under subsection (a)(3) in which rights in property taken in violation of international law are in issue within the meaning of that subsection and—
 
 &emsp;&emsp;&emsp;(i) the property at issue is the work described in paragraph (1);
 
@@ -174,7 +174,7 @@ Subsecs. (c), (d). Pub. L. 100–702, §1(3), added subsecs. (c) and (d).
 
 Pub. L. 114–319, §2(b), Dec. 16, 2016, 130 Stat. 1619, provided that: "The amendment made by this section \[amending this section\] shall apply to any civil action commenced on or after the date of the enactment of this Act \[Dec. 16, 2016\]."
 
-Amendment by Pub. L. 114–222 applicable to any civil action pending on, or commenced on or after, Sept. 28, 2016, and arising out of an injury to a person, property, or business on or after Sept. 11, 2001, see section 7 ofPub. L. 114–222, set out as a note under section 2333 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 114–222 applicable to any civil action pending on, or commenced on or after, Sept. 28, 2016, and arising out of an injury to a person, property, or business on or after Sept. 11, 2001, see section 7 of Pub. L. 114–222, set out as a note under section 2333 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 2008 Amendment
 
@@ -204,7 +204,7 @@ Pub. L. 114–319, §3, Dec. 16, 2016, 130 Stat. 1620, provided that: "The Secre
 
 Pub. L. 104–208, div. A, title I, §101(c) \[title V, §589\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–172, provided that:
 
-"(a) an \[sic\] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated \[sic\] under section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. 4605(j)\] while acting within the scope of his or her office, employment, or agency shall be liable to a United States national or the national's legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under \[former\] section 1605(a)(7) of title 28, United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in \[former\] section 1605(a)(7).
+"(a) an \[sic\] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated \[sic\] under \[former\] section 6(j) of the Export Administration Act of 1979 \[former 50 U.S.C. 4605(j)\] while acting within the scope of his or her office, employment, or agency shall be liable to a United States national or the national's legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under \[former\] section 1605(a)(7) of title 28, United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in \[former\] section 1605(a)(7).
 
 "(b) Provisions related to statute of limitations and limitations on discovery that would apply to an action brought under 28 U.S.C. 1605(f) and (g) shall also apply to actions brought under this section. No action shall be maintained under this action \[sic\] if an official, employee, or agent of the United States, while acting within the scope of his or her office, employment, or agency would not be liable for such acts if carried out within the United States."
 

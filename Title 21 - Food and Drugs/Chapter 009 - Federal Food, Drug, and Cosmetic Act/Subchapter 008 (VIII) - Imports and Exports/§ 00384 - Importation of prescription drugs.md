@@ -30,7 +30,7 @@ In this section:
 
 #### (4) Qualifying laboratory
 
-&emsp;The term "qualifying laboratory" means a laboratory in the United States that has beenapproved by the Secretary for the purposes of this section.
+&emsp;The term "qualifying laboratory" means a laboratory in the United States that has been approved by the Secretary for the purposes of this section.
 
 #### (5) Wholesaler
 
@@ -88,7 +88,7 @@ The regulations under subsection (b) shall—
 
 &emsp;&emsp;&emsp;(I) Documentation demonstrating that the prescription drug was received by the recipient from the manufacturer and subsequently shipped by the first foreign recipient to the importer.
 
-&emsp;&emsp;&emsp;(II) Documentation of the quantity of each lot of the prescription drug received by the first foreign recipient demonstrating that the quantity being imported into the United States is not more than the quantity that was received by the first foreign recipient.
+&emsp;&emsp;&emsp;(II) Documentation of the quantity of each lot of the prescription drug received by the first foreign recipient demonstrating that the quantity being imported into the United States is not more than thequantity that was received by the first foreign recipient.
 
 &emsp;&emsp;&emsp;(III)(aa) In the case of an initial imported shipment, documentation demonstrating that each batch of the prescription drug in the shipment was statistically sampled and tested for authenticity and degradation.
 

@@ -6,7 +6,7 @@ The head of each Federal agency shall establish and maintain an active, continui
 
 &emsp;(2) procedures for identifying records of general interest or use to the public that are appropriate for public disclosure, and for posting such records in a publicly accessible electronic format;
 
-&emsp;(3) cooperation with the Archivist in applying standards, procedures, and techniques designed to improve the management of records, promote the maintenance and security of records deemed appropriate for preservation,and facilitate the segregation and disposal of records of temporary value; and
+&emsp;(3) cooperation with the Archivist in applying standards, procedures, and techniques designed to improve the management of records, promote the maintenance and security of records deemed appropriate for preservation, and facilitate the segregation and disposal of records of temporary value; and
 
 &emsp;(4) compliance with sections 2101–2117, 2501–2507, 2901–2909, and 3101–3107, of this title and the regulations issued under them.
 

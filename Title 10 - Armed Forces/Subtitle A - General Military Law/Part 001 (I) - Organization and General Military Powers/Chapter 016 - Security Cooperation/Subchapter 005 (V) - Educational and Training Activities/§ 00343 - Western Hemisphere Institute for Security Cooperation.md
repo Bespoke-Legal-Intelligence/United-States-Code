@@ -44,7 +44,7 @@ Board of Visitors.—(1) There shall be a Board of Visitors for the Institute. T
 
 &emsp;(A) The chairman and ranking minority member of the Committee on Armed Services of the Senate, or a designee of either of them.
 
-&emsp;(B) The chairman and ranking minority member of the Committee on Armed Servicesof the House of Representatives, or a designee of either of them.
+&emsp;(B) The chairman and ranking minority member of the Committee on Armed Services of the House of Representatives, or a designee of either of them.
 
 &emsp;(C) Six persons designated by the Secretary of Defense including, to the extent practicable, persons from academia and the religious and human rights communities.
 

@@ -16,7 +16,7 @@
 
 #### Codification
 
-Section was formerly classified to section 3763 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
+Section was formerly classified to section 3763 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Prior Provisions
 

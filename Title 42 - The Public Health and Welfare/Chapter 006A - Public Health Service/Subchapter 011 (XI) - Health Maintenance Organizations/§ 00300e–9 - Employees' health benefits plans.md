@@ -6,7 +6,7 @@ In accordance with regulations which the Secretary shall prescribe—
 
 &emsp;(1) each employer—
 
-&emsp;&emsp;(A) which is required during any calendar quarter to pay its employees the minimum wage prescribed by section 206 of title 29 (or would be required to pay its employees such wage but for section 213(a) of title 29), and
+&emsp;&emsp;(A) which is required during any calendar quarter to pay its employees the minimumwage prescribed by section 206 of title 29 (or would be required to pay its employees such wage but for section 213(a) of title 29), and
 
 &emsp;&emsp;(B) which during such calendar quarter employed an average number of employees of not less than 25, and
 
@@ -36,7 +36,7 @@ For purposes of this section, the term "qualified health maintenance organizatio
 
 #### (e) "Employer" defined
 
-For purposes of this section, the term "employer" does not include (1) the Government of the United States, the government of the District of Columbia or any territory or possession of the United States, a State or any political subdivision thereof, or any agency or instrumentality (including the United States Postal Service and Postal Regulatory Commission) of any of the foregoing, except that such term includes nonappropriated fund instrumentalities of the Government of the United States; or (2) a church, convention or association of churches, or any organization operated, supervised or controlled by a church, convention or association of churches which organization (A) is an organization described in section 501(c)(3) of title 26, and (B) does not discriminate (i) in the employment, compensation, promotion, or termination of employment of any personnel, or (ii) in the extension of staff or other privileges to any physician or other health personnel, because such persons seek to obtain or obtained health care, or participate in providing health care, through a health maintenance organization.
+For purposes of this section, the term "employer" does not include (1) the Government of the United States, the government of the District of Columbia or any territory or possession of the United States, a State or any political subdivision thereof, or any agency or instrumentality (including the United States Postal Service and Postal Regulatory Commission) of any of the foregoing, except that such term includes nonappropriated fund instrumentalities of the Government of the United States; or (2) a church, convention or association of churches, or any organization operated, supervised or controlled by a church, convention or association of churches which organization (A) is an organization described in section 501(c)(3) of title 26, and (B) does not discriminate (i) in the employment, compensation, promotion, or termination of employment of any personnel, or (ii) in the extension of staff or other privileges to any physician or other health personnel, because such personsseek to obtain or obtained health care, or participate in providing health care, through a health maintenance organization.
 
 #### (f) Termination of payment for failure to comply
 
@@ -102,5 +102,5 @@ Amendment by section 110(a)(1), (2) of Pub. L. 94–460 applicable with respect 
 
 #### Collective Bargaining Agreements in Effect on October 24, 1988, Unaffected
 
-Pub. L. 100–517, §7(a)(3), Oct. 24, 1988, 102 Stat. 2580, provided that: "Nothing in section 1310 of the PublicHealth Service Act (42 U.S.C. 300e–9), as amended by this Act, shall be construed to supersede any provision of a collective bargaining agreement in effect on the date of enactment of this Act \[Oct. 24, 1988\]."
+Pub. L. 100–517, §7(a)(3), Oct. 24, 1988, 102 Stat. 2580, provided that: "Nothing in section 1310 of the Public Health Service Act (42 U.S.C. 300e–9), as amended by this Act, shall be construed to supersede any provision of a collective bargaining agreement in effect on the date of enactment of this Act \[Oct. 24, 1988\]."
 

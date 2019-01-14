@@ -6,7 +6,7 @@ The Secretary of the Interior, or such officer as he may designate, is authorize
 
 #### References in Text
 
-Title 32 of the Revised Statutes, referred to in text, was in the original "this Title", meaning title 32 of theRevised Statutes, consisting of R.S. §§2207 to 2490. For complete classification of R.S. §§2207 to 2490 to the Code, see Tables.
+Title 32 of the Revised Statutes, referred to in text, was in the original "this Title", meaning title 32 of the Revised Statutes, consisting of R.S. §§2207 to 2490. For complete classification of R.S. §§2207 to 2490 to the Code, see Tables.
 
 #### Codification
 

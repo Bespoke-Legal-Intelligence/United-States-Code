@@ -20,7 +20,7 @@ Within six months after October 31, 1994, the Secretary shall send to the Commis
 
 &emsp;(3) Any other Federal land, or interest therein, within the State of California, which is or becomes surplus to the needs of the Federal Government. The Secretary may exclude, in the Secretary's discretion, lands located within, or contiguous to, the exterior boundaries of lands held in trust for a federally recognized Indian tribe located in the State of California.
 
-&emsp;(4) The Secretary shall maintain such list and shall annually transmit such list to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives until all of the State School lands identified in paragraph (1) have been acquired.
+&emsp;(4) The Secretary shall maintain such list and shall annually transmit such list to theCommittee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives until all of the State School lands identified in paragraph (1) have been acquired.
 
 #### (c) Disposal of surplus Federal property
 

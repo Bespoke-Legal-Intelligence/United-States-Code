@@ -60,9 +60,9 @@
 
 (c) On application by the owner and after a survey under section 5105 of this title, the Secretary may assign load lines for a vessel excluded from the application of this chapter under subsection (b) of this section. A vessel assigned load lines under this subsection is subject to this chapter until the surrender of its load line certificate and the removal of its load line marks.
 
-(d) This chapter does not affect an international agreement to which the Government is a party that is not in conflict with the International Convention on Load Lines currently in force for the United States.
+(d) This chapter does not affect an international agreement to which the Government isa party that is not in conflict with the International Convention on Load Lines currently in force for the United States.
 
-(Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1914; Pub. L. 101–595, title VI, §602(d), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 104–324, title VII, §719, Oct. 19, 1996, 110 Stat. 3938; Pub. L. 107–295,title IV, §436(a), Nov. 25, 2002, 116 Stat. 2129; Pub. L. 111–281, title VI, §604(d)(1), Oct. 15, 2010, 124 Stat. 2965; Pub. L. 112–213, title III, §305(d)(1), Dec. 20, 2012, 126 Stat. 1565; Pub. L. 114–120, title VI, §612, Feb. 8, 2016, 130 Stat. 85.)
+(Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1914; Pub. L. 101–595, title VI, §602(d), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 104–324, title VII, §719, Oct. 19, 1996, 110 Stat. 3938; Pub. L. 107–295, title IV, §436(a), Nov. 25, 2002, 116 Stat. 2129; Pub. L. 111–281, title VI, §604(d)(1), Oct. 15, 2010, 124 Stat. 2965; Pub. L. 112–213, title III, §305(d)(1), Dec. 20, 2012, 126 Stat. 1565; Pub. L. 114–120, title VI, §612, Feb. 8, 2016, 130 Stat. 85.)
 
 #### Historical and Revision Notes
 
@@ -140,7 +140,7 @@ Subsec. (b)(10). Pub. L. 104–324, §719(3), inserted "as measured under sectio
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–595 effective Nov. 16, 1990, with provision that before Jan. 1, 2003, a fish tender vessel is exempt from this chapter when engaged in Aleutian trade if the vessel either operated in that trade before Sept. 8, 1990, or was purchased before that date to be used in such trade and entered into service in that trade before June 1, 1992, did not undergo a major conversion, and did not have a load line assignedat any time before Nov. 16, 1990, see section 602(f) of Pub. L. 101–595, set out as a note under section 4502 of this title.
+Amendment by Pub. L. 101–595 effective Nov. 16, 1990, with provision that before Jan. 1, 2003, a fish tendervessel is exempt from this chapter when engaged in Aleutian trade if the vessel either operated in that trade before Sept. 8, 1990, or was purchased before that date to be used in such trade and entered into service in that trade before June 1, 1992, did not undergo a major conversion, and did not have a load line assigned at any time before Nov. 16, 1990, see section 602(f) of Pub. L. 101–595, set out as a note under section 4502 of this title.
 
 #### Fish Tender Vessels in Aleutian Trade
 

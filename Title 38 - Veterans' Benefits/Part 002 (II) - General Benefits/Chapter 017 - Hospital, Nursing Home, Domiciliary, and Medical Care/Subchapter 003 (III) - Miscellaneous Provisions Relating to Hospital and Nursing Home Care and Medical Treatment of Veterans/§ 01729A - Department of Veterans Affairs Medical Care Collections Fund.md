@@ -36,7 +36,7 @@
 
 (e) Amounts recovered or collected under the provisions of law referred to in subsection (b) shall be treated for the purposes of sections 251 and 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901, 902) as offsets to discretionary appropriations (rather than as offsets to direct spending) to the extent that such amounts are made available for expenditure in appropriations Acts for the purposes specified in subsection (c).
 
-(Added Pub. L. 105–33, title VIII, §8023(a)(1), Aug. 5, 1997, 111 Stat. 665; amended Pub. L. 106–117, title I, §111(b)(1), title II, §203, Nov. 30, 1999, 113 Stat. 1556, 1561; Pub. L. 107–135, title II,§208(e)(5), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 108–7, div. K, title I, §113(b), Feb. 20, 2003, 117 Stat. 482; Pub. L. 108–183, title VII, §708(a)(2), Dec. 16, 2003, 117 Stat. 2673.)
+(Added Pub. L. 105–33, title VIII, §8023(a)(1), Aug. 5, 1997, 111 Stat. 665; amended Pub. L. 106–117, title I, §111(b)(1), title II, §203, Nov. 30, 1999, 113 Stat. 1556, 1561; Pub. L. 107–135, title II, §208(e)(5), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 108–7, div. K, title I, §113(b), Feb. 20, 2003, 117 Stat. 482; Pub. L. 108–183, title VII, §708(a)(2), Dec. 16, 2003, 117 Stat. 2673.)
 
 #### References in Text
 

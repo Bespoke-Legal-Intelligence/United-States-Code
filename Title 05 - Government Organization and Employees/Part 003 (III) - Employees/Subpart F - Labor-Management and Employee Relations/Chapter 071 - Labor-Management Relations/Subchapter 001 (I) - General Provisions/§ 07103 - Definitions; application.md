@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(ii) any claimed violation, misinterpretation, or misapplication of any law, rule, or regulation affecting conditions of employment;
 
-&emsp;(10) "supervisor" means an individual employed by an agency having authority in the interest of the agency to hire, direct, assign,promote, reward, transfer, furlough, layoff, recall, suspend, discipline, or remove employees, to adjust their grievances, or to effectively recommend such action, if the exercise of the authority is not merely routine or clerical in nature but requires the consistent exercise of independent judgment, except that, with respect to any unit which includes firefighters or nurses, the term "supervisor" includes only those individuals who devote a preponderance of their employment time to exercising such authority;
+&emsp;(10) "supervisor" means an individual employed by an agency having authority in the interest of the agency to hire, direct, assign, promote, reward, transfer, furlough, layoff, recall, suspend, discipline, or remove employees, to adjust their grievances, or to effectively recommend such action, if the exercise of the authority is not merely routine or clerical in nature but requires the consistent exercise of independent judgment, except that, with respect to any unit which includes firefighters or nurses, the term "supervisor" includes only those individuals who devote a preponderance of their employment time to exercising such authority;
 
 &emsp;(11) "management official" means an individual employed by an agency in a position the duties and responsibilities of which require or authorize the individual to formulate, determine, or influence the policies of the agency;
 
@@ -176,7 +176,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Ex. Ord. No. 12171. Exclusions From Coverage of Program
 
-Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, §3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§2–6, Nov. 26, 2008, 73 F.R. 73991, 73992; Ex. Ord. No. 13741, §3, Sept. 29, 2016, 81 F.R. 68291; Ex. Ord. No. 13760, §2, Jan. 12, 2017, 82 F.R. 5325, provided:
+Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, §3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§2–6, Nov. 26, 2008, 73 F.R. 73991, 73992; Ex. Ord. No. 13741, §3, Sept. 29, 2016, 81 F.R. 68291; Ex. Ord. No. 13760, §2, Jan. 12, 2017, 82 F.R. 5325, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
@@ -388,7 +388,7 @@ b. The Office of Special Operations, the Threat Analysis Group, the Enforcement 
 
 (d) United States European Command (USEUCOM).
 
-(e) United States Pacific Command (USPACOM).
+(e) United States Pacific Command (USPACOM) \[now United States Indo-Pacific Command\].
 
 (f) United States Southern Command (USSOUTHCOM).
 
@@ -474,7 +474,7 @@ b. The Office of Special Operations, the Threat Analysis Group, the Enforcement 
 
 (e) Office of Intelligence and Analysis.
 
-(f) Domestic Nuclear Detection Office.
+(f) Domestic Nuclear Detection Office \[now Countering Weapons of Mass Destruction Office\].
 
 (g) The following offices and subdivisions within the United States Coast Guard:
 
@@ -604,7 +604,7 @@ By virtue of the authority vested in me as President by the Constitution and law
 
 Section 1. <i>Determinations</i>. The agencies or subdivisions thereof set forth in Section 3 of this Order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of Title 5 of the United States Code cannot be applied to these agencies or subdivisions in a manner consistent with national security requirements and considerations. These agencies or subdivisions thereof are hereby excluded from coverage under Chapter 71 of Title 5 of the United States Code.
 
-Sec. 2. <i>Relationship to Executive Order No. 12559</i>. The determinations set forth in Section 1 of this Order are the same determinations that I made at the time of and as a predicate to my issuance on May 20, 1986, of Executive Order No. 12559 \[amending Ex. Ord. No. 12171, set out as a note above\], which was issued for the same purpose as this Order. On July 10, 1987, Executive Order No. 12559 was held by a United States District Court to be incomplete as a matter of form, and therefore invalid, because it did not expressly set forth these determinations. <i>AFGE v. Reagan</i>, Civil No. 86–1587 (D.D.C.). These determinations were not expressly set forth in the text of Executive Order No. 12559 because all that Order did was amend Executive Order No. 12171 \[set out as a note above\] by adding the agencies or subdivisions referred to in Section 1 of this Order to the list in Executive Order No. 12171 of entities excluded from coverage of the Federal Labor-Management Relations Program, and these determinations were already expressly set forth in the text of Executive Order No. 12171, which remains in effect (as amended). This Order is not intended to reflect any belief that the form of Executive Order No. 12559 was invalid, but is intended solely to accomplish the purpose of that Order.
+Sec. 2. <i>Relationship to Executive Order No. 12559</i>. The determinations set forth in Section 1 of this Order are the same determinations that I made at the time of and as a predicate to my issuance on May 20, 1986, of Executive Order No. 12559 \[amending Ex. Ord. No. 12171, set out as a note above\], which was issued for the same purpose as this Order. On July 10, 1987, Executive Order No. 12559 was held by a United States District Court to be incomplete as a matter of form, and therefore invalid, because it did not expressly set forth these determinations. <i>AFGE v. Reagan</i>, Civil No. 86–1587 (D.D.C.). These determinations were not expressly set forth in the text of Executive Order No. 12559 because all that Order did was amend Executive Order No. 12171 \[set out as a note above\] by adding the agencies or subdivisions referred to in Section 1 of this Order to the list in Executive Order No. 12171 of entities excluded from coverage of the Federal Labor-Management Relations Program,and these determinations were already expressly set forth in the text of Executive Order No. 12171, which remains in effect (as amended). This Order is not intended to reflect any belief that the form of Executive Order No. 12559 was invalid, but is intended solely to accomplish the purpose of that Order.
 
 Sec. 3. <i>Amendment of Executive Order No. 12171</i>. Executive Order No. 12171 is amended by deleting Section 1–209 and inserting in its place:
 
@@ -642,7 +642,7 @@ Ex. Ord. No. 13760, Jan. 12, 2017, 82 F.R. 5325, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 7103(b)(1) of title 5, United States Code, and in order to reflect the effects of the reorganization and restructuring of the Department of Defense on its agencies and subdivisions exempted from coverage under the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
-Section 1. <i>Determinations</i>. The agencies and subdivisions of the Department of Defense set forth in section2 of this order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is further determined that chapter 71 of title 5, United States Code, cannot be applied to these subdivisions in a manner consistent with national security requirements and considerations.
+Section 1. <i>Determinations</i>. The agencies and subdivisions of the Department of Defense set forth in section 2 of this order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is further determined that chapter 71 of title 5, United States Code, cannot be applied to these subdivisions in a manner consistent with national security requirements and considerations.
 
 Sec. 2. <i>Department of Defense</i>. Executive Order 12171 of November 19, 1979, as amended, is further amended by:
 
@@ -800,7 +800,7 @@ Sec. 2. <i>Department of Defense</i>. Executive Order 12171 of November 19, 1979
 
 \["\](d) United States European Command (USEUCOM).
 
-\["\](e) United States Pacific Command (USPACOM).
+\["\](e) United States Pacific Command (USPACOM) \[now United States Indo-Pacific Command\].
 
 \["\](f) United States Southern Command (USSOUTHCOM).
 

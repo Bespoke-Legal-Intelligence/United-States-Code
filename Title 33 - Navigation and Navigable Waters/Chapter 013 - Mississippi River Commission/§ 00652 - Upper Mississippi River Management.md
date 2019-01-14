@@ -10,7 +10,7 @@
 
 For purposes of this section—
 
-&emsp;(1) the terms "Upper Mississippi River system" and "system" mean those river reaches having commercial navigation channels on theMississippi River main stem north of Cairo, Illinois; the Minnesota River, Minnesota; Black River, Wisconsin; Saint Croix River, Minnesota and Wisconsin; Illinois River and Waterway, Illinois; and Kaskaskia River, Illinois;
+&emsp;(1) the terms "Upper Mississippi River system" and "system" mean those river reaches having commercial navigation channels on the Mississippi River main stem north of Cairo, Illinois; the Minnesota River, Minnesota; Black River, Wisconsin; Saint Croix River, Minnesota and Wisconsin; Illinois River and Waterway, Illinois; and Kaskaskia River, Illinois;
 
 &emsp;(2) the term "Master Plan" means the comprehensive master plan for the management of the Upper Mississippi River system, dated January 1, 1982, prepared by the Upper Mississippi River Basin Commission and submitted to Congress pursuant to Public Law 95–502;
 
@@ -90,7 +90,7 @@ Transfer of amounts.—For fiscal year 1999 and each fiscal year thereafter, the
 
 #### (g) Increases in lock capacity
 
-The Secretary shall, in his budget request, identify those measures developed by the Secretary, in consultation with the Secretary of Transportation and any agency established under subsection (d)(1) of this section, to be undertaken to increase the capacity of specific locks throughout the system by employing nonstructural measures and making minor structural improvements.
+The Secretary shall, in his budget request, identify those measures developed by the Secretary, in consultation with the Secretary of Transportation and any agency establishedunder subsection (d)(1) of this section, to be undertaken to increase the capacity of specific locks throughout the system by employing nonstructural measures and making minor structural improvements.
 
 #### (h) Monitoring of traffic movements
 

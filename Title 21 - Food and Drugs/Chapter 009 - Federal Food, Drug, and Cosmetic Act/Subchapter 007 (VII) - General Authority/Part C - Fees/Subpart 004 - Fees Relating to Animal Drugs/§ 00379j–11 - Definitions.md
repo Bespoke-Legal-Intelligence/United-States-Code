@@ -2,7 +2,13 @@
 
 For purposes of this subpart:
 
-&emsp;(1) The term "animal drug application" means an application for approval of any new animal drug submitted under section 360b(b)(1) of this title. Such term does not include either a new animal drug application submitted under section 360b(b)(2) of this title or a supplemental animal drug application.
+&emsp;(1)(A) The term "animal drug application" means—
+
+&emsp;&emsp;(i) an application for approval of any new animal drug submitted under section 360b(b)(1) of this title; or
+
+&emsp;&emsp;(ii) an application for conditional approval of a new animal drug submitted under section 360ccc of this title.
+
+&emsp;(B) Such term does not include either a new animal drug application submitted under section 360b(b)(2) of this title or a supplemental animal drug application.
 
 &emsp;(2) The term "supplemental animal drug application" means—
 
@@ -16,7 +22,7 @@ For purposes of this subpart:
 
 &emsp;(5) The term "investigational animal drug submission" means—
 
-&emsp;&emsp;(A) the filing of a claim for an investigational exemption under section 360b(j) of this title for a new animal drug intended to be the subject of an animal drug application or a supplemental animal drug application; or
+&emsp;&emsp;(A) the filing of a claim for an investigational exemption under section 360b(j) ofthis title for a new animal drug intended to be the subject of an animal drug application or a supplemental animal drug application; or
 
 &emsp;&emsp;(B) the submission of information for the purpose of enabling the Secretary to evaluate the safety or effectiveness of an animal drug application or supplemental animal drug application in the event of their filing.
 
@@ -42,6 +48,8 @@ For purposes of this subpart:
 
 &emsp;&emsp;(H) Review of advertising and labeling prior to approval of an animal drug application or supplemental animal drug application, but not after such application has been approved.
 
+&emsp;&emsp;(I) The activities necessary for implementation of the United States and European Union Good Manufacturing Practice Mutual Inspection Agreement with respect to animal drug products subject to review, including implementation activities prior to and following product approval.
+
 &emsp;(9) The term "costs of resources allocated for the process for the review of animal drug applications" means the expenses in connection with the process for the review of animal drug applications for—
 
 &emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees consulted with respect to the review of specific animal drug applications, supplemental animal drug applications, or investigational animal drug submissions, and costs related to such officers, employees, committees, and contractors, including costs for travel, education, and recruitment and other personnel activities;
@@ -58,15 +66,19 @@ For purposes of this subpart:
 
 &emsp;(12) The term "affiliate" refers to the definition set forth in section 379g(11) of this title.
 
-(June 25, 1938, ch. 675, §739, as added Pub. L. 108–130, §3, Nov. 18, 2003, 117 Stat. 1361; amended Pub. L. 110–85, title I, §109, Sept. 27, 2007, 121 Stat. 842; Pub. L. 110–316, title I, §102, Aug. 14, 2008, 122 Stat. 3510; Pub. L. 113–14, title I, §102, June 13, 2013, 127 Stat. 452.)
+(June 25, 1938, ch. 675, §739, as added Pub. L. 108–130, §3, Nov. 18, 2003, 117 Stat. 1361; amended Pub. L. 110–85, title I, §109, Sept. 27, 2007, 121 Stat. 842; Pub. L. 110–316, title I, §102, Aug. 14, 2008, 122 Stat. 3510; Pub. L. 113–14, title I, §102, June 13, 2013, 127 Stat. 452; Pub. L. 115–234, title I, §102, Aug. 14, 2018, 132 Stat. 2428.)
 
 #### Amendments
+
+<b>2018</b>—Par. (1). Pub. L. 115–234, §102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'animal drug application' means an application for approval of any new animal drug submitted under section 360b(b)(1) of this title. Such term does not include either a new animal drug application submitted under section 360b(b)(2) of this title or a supplemental animal drug application."
+
+Par. (8)(I). Pub. L. 115–234, §102(2), added subpar. (I).
 
 <b>2013</b>—Pub. L. 113–14 amended section generally. Prior to amendment, section consisted of pars. (1) to (12) defining similar terms for this subpart.
 
 <b>2008</b>—Par. (6). Pub. L. 110–316, §102(1), substituted "that has not been withdrawn by the applicant and for which approval has not been withdrawn by the Secretary" for ", except for an approved application for which all subject products have been removed from listing under section 360 of this title".
 
-Par. (8)(H). Pub. L. 110–316, §102(2), substituted "but not after such application has been approved" for "but not such activities after an animal drug has been approved".
+Par. (8)(H). Pub. L. 110–316, §102(2), substituted "but not after such application has been approved" for "butnot such activities after an animal drug has been approved".
 
 Par. (10). Pub. L. 110–316, §102(3), substituted "month being October 2002" for "year being 2003".
 
@@ -76,9 +88,13 @@ Pars. (11), (12). Pub. L. 110–316, §102(4), (5), added par. (11) and redesign
 
 Par. (11). Pub. L. 110–85, §109(b), substituted "379g(11)" for "379g(9)".
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–234, title I, §106, Aug. 14, 2018, 132 Stat. 2432, provided that: "The amendments made by this title \[see section 101(a) of Pub. L. 115–234, set out as a Short Title of 2018 Amendment note under section 301 of this title\] shall take effect on October 1, 2018, or the date of the enactment of this Act \[Aug. 14, 2018\], whichever is later, except that fees under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–11 et seq.\], as amended by this title, shall be assessed for animal drug applications and supplemental animal drug applications received on or after October 1, 2018, regardless of the date of the enactment of this Act."
+
 #### Effective Date of 2013 Amendment
 
-Pub. L. 113–14, title I, §106, June 13, 2013, 127 Stat. 464, provided that: "The amendments made by this title \[amending this section and sections 379j–12 and 379j–13 of this title and repealing provisions set out as notes under this section\] shall take effect on October 1, 2013, or the date of enactment of this Act \[June 13, 2013\], whichever is later, except that fees under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–11 et seq.\], as amended bythis title, shall be assessed for all animal drug applications and supplemental animal drug applications received on or after October 1, 2013, regardless of the date of the enactment of this Act."
+Pub. L. 113–14, title I, §106, June 13, 2013, 127 Stat. 464, provided that: "The amendments made by this title \[amending this section and sections 379j–12 and 379j–13 of this title and repealing provisions set out as notes under this section\] shall take effect on October 1, 2013, or the date of enactment of this Act \[June 13, 2013\], whichever is later, except that fees under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–11 et seq.\], as amended by this title, shall be assessed for all animal drug applications and supplemental animal drug applications received on or after October 1, 2013, regardless of the date of the enactment of this Act."
 
 #### Effective and Termination Dates of 2008 Amendment
 
@@ -92,11 +108,11 @@ Amendment by Pub. L. 110–85 effective Oct. 1, 2007, see section 107 of Pub. L.
 
 #### Termination Date
 
-Pub. L. 108–130, §5, Nov. 18, 2003, 117 Stat. 1371, which provided that the amendments made by section 3 of Pub. L. 108–130 (enacting this subpart) would not be in effect after Oct. 1, 2008, and that section 4 of Pub. L. 108–130 (enacting provisions set out as a note below) would not be in effect after 120 days after Oct. 1, 2008, was repealed by Pub. L. 113–14, title I, §107(d), June 13, 2013, 127 Stat. 464.
-
-\[Pub. L. 113–14, title I, §107(d), June 13, 2013, 127 Stat. 464, provided that the repeal of section 5 of Pub. L. 108–130, formerly set out above, is effective Nov. 18, 2003.\]
+Pub. L. 108–130, §5, Nov. 18, 2003, 117 Stat. 1371, which provided that the amendments made by section 3 of Pub. L. 108–130 (enacting this subpart) would not be in effect after Oct. 1, 2008, and that section 4 of Pub. L. 108–130 (enacting provisions set out as a note below) would not be in effect after 120 days after Oct. 1, 2008, was repealed by Pub. L. 113–14, title I, §107(d), June 13, 2013, 127 Stat. 464, effective Nov. 18, 2003.
 
 #### Savings Provisions
+
+Pub. L. 115–234, title I, §105, Aug. 14, 2018, 132 Stat. 2431, provided that: "Notwithstanding the amendments made by this title \[see section 101(a) of Pub. L. 115–234, set out as a Short Title of 2018 Amendment note under section 301 of this title\], part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–11 et seq.), as in effect on the day before the date of enactment of this title \[Aug. 14, 2018\], shall continue to be in effect with respect to animal drug applications and supplemental animal drug applications (as defined in such part as of such day) that on or after October 1, 2013, but before October 1, 2018, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2019."
 
 Pub. L. 113–14, title I, §105, June 13, 2013, 127 Stat. 463, provided that: "Notwithstanding the amendments made by this title \[amending this section and sections 379j–12 and 379j–13 of this title and repealing provisions set out as notes under this section\], part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–11 et seq.), as in effect on the day before the date of the enactment of this title \[June 13, 2013\], shall continue to be in effect with respect to animal drug applications and supplemental animal drug applications (as defined in such part as of such day) that on or after October 1, 2008, but before October 1, 2013, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2014."
 
@@ -104,7 +120,9 @@ Pub. L. 110–316, title I, §106, Aug. 14, 2008, 122 Stat. 3514, provided that:
 
 #### Findings
 
-Pub. L. 113–14, title I, §101(b), June 13, 2013, 127 Stat. 451, provided that: "Congress finds that the fees authorized by the amendments made in this title \[amending this section and sections 379j–12 and 379j–13 of this title and repealing provisions set out as notes under this section\] will be dedicated toward expediting the animal drug development process and the review of new and supplemental animal drug applications and investigational animal drug submissions as set forth in the goals identified, for purposes of part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–11 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
+Pub. L. 115–234, title I, §101(b), Aug. 14, 2018, 132 Stat. 2428, provided that: "Congress finds that the fees authorized by the amendments made in this title \[see section 101(a) of Pub. L. 115–234, set out as a Short Title of 2018 Amendment note under section 301 of this title\] will be dedicated toward expediting the animal drug development process and the review of new and supplemental animal drug applications and investigational animal drug submissions as set forth in the goals identified for purposes of part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–11 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
+
+Pub. L. 113–14, title I, §101(b), June 13, 2013, 127 Stat. 451, provided that: "Congress finds that the fees authorized by the amendments made in this title \[amending this section and sections 379j–12 and 379j–13 of this title and repealing provisions set out as notes under this section\] will be dedicated toward expediting the animal drug development process and the review of new and supplemental animal drug applications and investigational animal drug submissions as set forth in the goals identified, for purposes of part 4 of subchapter C ofchapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–11 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
 
 Pub. L. 110–316, title I, §101(b), Aug. 14, 2008, 122 Stat. 3509, provided that: "Congress finds that the fees authorized by the amendments made in this title \[enacting section 379j–13 of this title and amending this section and sections 360b and 379j–12 of this title\] will be dedicated toward expediting the animal drug development process and the review of new and supplemental animal drug applications and investigational animal drug submissions as set forth in the goals identified, for purposes of part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–11 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
 
@@ -126,7 +144,7 @@ Public Accountability.—
 
 &emsp;"(1)
 
-Consultation.—In developing recommendations to Congress for the goals and plans for meeting the goals for the process for the review of animal drug applications for the fiscal years after fiscal year 2008, and for the reauthorization of sections 739 and 740 of the Federal Food, Drug, and Cosmetic Act (as added by section 3) \[21 U.S.C. 379j–11, 379j–12\], the Secretary of Health and Human Services (referred to inthis section as the 'Secretary') shall consult with the Committee on Energy and Commerce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, appropriate scientific and academic experts, veterinary professionals, representatives of consumer advocacy groups, and the regulated industry.
+Consultation.—In developing recommendations to Congress for the goals and plans for meeting the goals for the process for the review of animal drug applications for the fiscal years after fiscal year 2008, and for the reauthorization of sections 739 and 740 of the Federal Food, Drug, and Cosmetic Act (as added by section 3) \[21 U.S.C. 379j–11, 379j–12\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall consult with the Committee on Energy and Commerce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, appropriate scientific and academic experts, veterinary professionals, representatives of consumer advocacy groups, and the regulated industry.
 
 &emsp;"(2)
 

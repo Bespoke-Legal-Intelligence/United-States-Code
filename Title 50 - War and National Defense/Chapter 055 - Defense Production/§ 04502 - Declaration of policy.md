@@ -48,7 +48,7 @@ Congress finds that—
 
 It is the policy of the United States that—
 
-&emsp;(1) to ensure the adequacy of productive capacity and supply, Federal departments and agencies that are responsible for national defense acquisition should continuously assess the capability of the domestic industrial base to satisfy production requirements under both peacetime and emergency conditions, specifically evaluating the availability of adequate production sources, including subcontractors and suppliers, materials, skilled labor, and professional and technical personnel;
+&emsp;(1) to ensure the adequacy of productive capacity and supply, Federal departments and agencies that are responsible for national defense acquisition should continuously assess the capability of the domestic industrial baseto satisfy production requirements under both peacetime and emergency conditions, specifically evaluating the availability of adequate production sources, including subcontractors and suppliers, materials, skilled labor, and professional and technical personnel;
 
 &emsp;(2) every effort should be made to foster cooperation between the defense and commercial sectors for research and development and for acquisition of materials, components, and equipment;
 
@@ -76,7 +76,7 @@ Section was formerly classified to section 2062 of the former Appendix to this t
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–67 amended section generally, substituting provisions relating to findings and statement of policy with respect to the domestic industrial basefor former findings and statement of policy concerning development of national security industrial and technology base.
+<b>2009</b>—Pub. L. 111–67 amended section generally, substituting provisions relating to findings and statement of policy with respect to the domestic industrial base for former findings and statement of policy concerning development of national security industrial and technology base.
 
 <b>1992</b>—Pub. L. 102–558 amended section generally, substituting provisions relating to findings and statement of policy, for provisions stating that mobilization effort continued to require diversion of materials and facilities from civilian to military use, and to require development of preparedness programs and expansion of productive capacity and supply, in order to reduce time required for full mobilization in case of attack on the United States or to respond to actions occurring outside the United States resulting in termination or reduction of availability of strategic materials, including energy, and provisions stating policy of Congress was to encourage geographical dispersal of industrial facilities, and requiring executive branch departments and agencies to apply principle of geographical dispersal in construction of such facilities.
 
@@ -108,7 +108,7 @@ Act Aug. 7, 1953, ch. 339, 67 Stat. 417, provided: "That this Act may be cited a
 
 "
 
-Sec. 2. It is recognized that the continued dependence on overseas sources of supply for strategic or critical minerals and metals during periods of threatening world conflict or of political instability within those nations controlling the sources of supply of such materials gravely endangers the present and future economy and security of the United States. It is therefore declared to be the policy of the Congress that each department and agency of the Federal Government charged with responsibilities concerning the discovery, development, production, and acquisition of strategic or critical minerals and metals shall undertake to decrease further and to eliminate where possible the dependency of the United States on overseas sources of supply of each such material.
+Sec. 2. It is recognized that the continued dependence on overseas sources of supply for strategic or critical minerals and metals during periods of threatening world conflict or of political instability within those nations controlling the sources of supply of such materials gravely endangers the present and future economyand security of the United States. It is therefore declared to be the policy of the Congress that each department and agency of the Federal Government charged with responsibilities concerning the discovery, development, production, and acquisition of strategic or critical minerals and metals shall undertake to decrease further and to eliminate where possible the dependency of the United States on overseas sources of supply of each such material.
 
 "
 

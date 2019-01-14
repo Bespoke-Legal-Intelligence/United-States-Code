@@ -23,3 +23,4 @@
 - [&sect; 01375a - Report on coastal recreation waters](%C2%A7%2001375a%20-%20Report%20on%20coastal%20recreation%20waters.md)
 - [&sect; 01376 - Authorization of appropriations](%C2%A7%2001376%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 01377 - Indian tribes](%C2%A7%2001377%20-%20Indian%20tribes.md)
+- [&sect; 01377a - Green infrastructure promotion](%C2%A7%2001377a%20-%20Green%20infrastructure%20promotion.md)

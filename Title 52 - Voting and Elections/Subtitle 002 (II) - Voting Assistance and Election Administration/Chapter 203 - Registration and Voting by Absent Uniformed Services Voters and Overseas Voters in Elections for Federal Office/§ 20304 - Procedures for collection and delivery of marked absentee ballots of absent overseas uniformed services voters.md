@@ -52,5 +52,5 @@ Section was formerly classified to section 1973ff–2a of Title 42, The Public H
 
 #### Effective Date
 
-Section applicable with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office, see section 580(f) of Pub. L. 111–84, set out as an Effective Date of 2009 Amendment note under section 20301 of this title.
+Section applicable with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office, see section 580(f) of Pub. L. 111–84, set out as anEffective Date of 2009 Amendment note under section 20301 of this title.
 

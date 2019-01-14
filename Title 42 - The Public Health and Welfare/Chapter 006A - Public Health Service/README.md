@@ -133,6 +133,7 @@
 | 242q–5. | Authorization of appropriations. |
 | [242r.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242r%20-%20Improvement%20and%20publication%20of%20data%20on%20food-related%20allergic%20responses.md) | Improvement and publication of data on food-related allergic responses. |
 | [242s.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242s%20-%20Centers%20for%20Disease%20Control%20and%20Prevention%20Office%20of%20Women%27s%20Health.md) | Centers for Disease Control and Prevention Office of Women's Health. |
+| [242t.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242t%20-%20CDC%20surveillance%20and%20data%20collection%20for%20child%2C%20youth%2C%20and%20adult%20trauma.md) | CDC surveillance and data collection for child, youth, and adult trauma. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -172,7 +173,7 @@
 | 247b–13a. | Screening and treatment for maternal depression. |
 | 247b–14. | Oral health promotion and disease prevention. |
 | 247b–14a. | Identification of interventions that reduce the burden and transmission of oral, dental, and craniofacial diseases in high risk populations; development of approaches for pediatric oral and craniofacial assessment. |
-| 247b–15. | Surveillance and education regarding hepatitis C virus. |
+| 247b–15. | Surveillance and education regarding infections associated with illicit drug use and other risk factors. |
 | 247b–16. | Grants for lead poisoning related activities. |
 | 247b–17. | Human papillomavirus (Johanna's Law). |
 | 247b–18. | Surveillance and research regarding muscular dystrophy. |
@@ -189,6 +190,7 @@
 | 247d–3a. | Improving State and local public health security. |
 | 247d–3b. | Partnerships for State and regional hospital preparedness to improve surge capacity. |
 | 247d–4. | Revitalizing the Centers for Disease Control and Prevention. |
+| 247d–4a. | Infectious Diseases Rapid Response Reserve Fund. |
 | 247d–5. | Combating antimicrobial resistance. |
 | 247d–5a. | Repealed. |
 | 247d–6. | Public health countermeasures to a bioterrorist attack. |
@@ -206,6 +208,7 @@
 | 247d–7f. | National Biodefense Science Board and working groups. |
 | 247d–8. | Coordinated program to improve pediatric oral health. |
 | 247d–9. | Dental education for parents of newborns. |
+| 247d–10. | Pilot program for public health laboratories to detect fentanyl and other synthetic opioids. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -294,10 +297,11 @@
 | [254p.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254p%20-%20Special%20loans%20for%20former%20Corps%20members%20to%20enter%20private%20practice.md) | Special loans for former Corps members to enter private practice. |
 | [254q.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254q%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | 254q–1. | Grants to States for loan repayment programs. |
-| [254r.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254r%20-%20Grants%20to%20States%20for%20operation%20of%20offices%20of%20rural%20health.md) | Grants to States for operation of offices of rural health. |
+| [254r.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254r%20-%20Grants%20to%20State%20Offices%20of%20Rural%20Health.md) | Grants to State Offices of Rural Health. |
 | [254s.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254s%20-%20Native%20Hawaiian%20Health%20Scholarships.md) | Native Hawaiian Health Scholarships. |
 | [254t.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254t%20-%20Demonstration%20project.md) | Demonstration project. |
 | [254u.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254u%20-%20Public%20health%20departments.md) | Public health departments. |
+| [254v.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254v%20-%20Clarification%20regarding%20service%20in%20schools%20and%20other%20community-based%20settings.md) | Clarification regarding service in schools and other community-based settings. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -481,12 +485,13 @@
 |  |  |
 | :--- | ---: |
 | [280b.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20J%20-%20Prevention%20and%20Control%20of%20Injuries/%C2%A7%2000280b%20-%20Research.md) | Research. |
-| 280b–1. | Prevention and control activities. |
+| 280b–0. | Prevention and control activities. |
+| 280b–1. | Preventing overdoses of controlled substances. |
 | 280b–1a. | Interpersonal violence within families and among acquaintances. |
 | 280b–1b. | Use of allotments for rape prevention education. |
 | 280b–1c. | Prevention of traumatic brain injury. |
 | 280b–1d. | National program for traumatic brain injury surveillance and registries. |
-| 280b–1e. | Study on traumatic brain injury. |
+| 280b–1e. | Repealed. |
 | 280b–1f. | Prevention of falls among older adults. |
 | 280b–2. | General provisions. |
 | 280b–3. | Authorization of appropriations. |
@@ -494,24 +499,24 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part K—Health Care Services in the Home
+#### Part K—Health Care Services in the Home and Public Health Programs for Dementia
 
 #### subpart i—grants for demonstration projects
 
 |  |  |
 | :--- | ---: |
-| [280c.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20K%20-%20Health%20Care%20Services%20in%20the%20Home/Subpart%20001%20%28i%29%20-%20Grants%20for%20Demonstration%20Projects/%C2%A7%2000280c%20-%20Establishment%20of%20program.md) | Establishment of program. |
+| [280c.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20K%20-%20Health%20Care%20Services%20in%20the%20Home%20and%20Public%20Health%20Programs%20for%20Dementia/Subpart%20001%20%28i%29%20-%20Grants%20for%20Demonstration%20Projects/%C2%A7%2000280c%20-%20Establishment%20of%20program.md) | Establishment of program. |
 | 280c–1. | Limitation on duration of grant and requirement of matching funds. |
 | 280c–2. | General provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart ii—grants for demonstration projects with respect to alzheimer's disease
+#### subpart ii—programs with respect to alzheimer's disease and related dementias
 
 |  |  |
 | :--- | ---: |
-| 280c–3. | Establishment of program. |
-| 280c–4. | Requirement of matching funds. |
+| 280c–3. | Cooperative agreements to States and public health departments for Alzheimer's disease and related dementias. |
+| 280c–4. | Promotion of public health knowledge and awareness of Alzheimer's disease and related dementias. |
 | 280c–5. | General provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -543,6 +548,7 @@
 | 280e–3. | Study in certain States to determine factors contributing to elevated breast cancer mortality rates. |
 | 280e–3a. | National childhood cancer registry. |
 | 280e–4. | Authorization of appropriations. |
+| 280e–5. | Voluntary registry for firefighter cancer incidence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -569,7 +575,7 @@
 | [280g.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20P%20-%20Additional%20Programs/%C2%A7%2000280g%20-%20Children%27s%20asthma%20treatment%20grants%20program.md) | Children's asthma treatment grants program. |
 | 280g–1. | Early detection, diagnosis, and treatment regarding deaf and hard-of-hearing newborns, infants, and young children. |
 | 280g–2. | Childhood malignancies. |
-| 280g–3. | Controlled substance monitoring program. |
+| 280g–3. | Prescription drug monitoring program. |
 | 280g–4. | Grants to strengthen the healthcare system's response to domestic violence, dating violence, sexual assault, and stalking. |
 | 280g–5. | Public and health care provider education and support services. |
 | 280g–6. | Chronic kidney disease initiatives. |
@@ -580,7 +586,7 @@
 | 280g–10. | Community Preventive Services Task Force. |
 | 280g–11. | Grants to promote positive health behaviors and outcomes. |
 | 280g–12. | Primary Care Extension Program. |
-| 280g–13. | National Congenital Heart Disease Surveillance System. |
+| 280g–13. | National congenital heart disease research, surveillance, and awareness. |
 | 280g–14. | National diabetes prevention program. |
 | 280g–15. | State demonstration programs to evaluate alternatives to current medical tort litigation. |
 | 280g–16. | Food Safety Integrated Centers of Excellence. |
@@ -599,6 +605,8 @@
 | 280h–4. | Grants for the establishment of school-based health centers. |
 | 280h–5. | School-based health centers. |
 | 280h–6. | Infant and early childhood mental health promotion, intervention, and treatment. |
+| 280h–7. | Grants to improve trauma support services and mental health care for children and youth in educational settings. |
+| 280h–8. | Recognizing early childhood trauma related to substance abuse. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -739,7 +747,9 @@
 | 285a–8. | Repealed. |
 | 285a–9. | Grants for education, prevention, and early detection of radiogenic cancers and diseases. |
 | 285a–10. | Research, information, and education with respect to blood cancer. |
-| 285a–11. | Pediatric cancer research and awareness. |
+| 285a–11. | Pediatric cancer research, awareness, and survivorship. |
+| 285a–11a. | Cancer survivorship programs. |
+| 285a–11b. | Best practices for long-term follow-up services for pediatric cancer survivors. |
 | 285a–12. | Interagency Breast Cancer and Environmental Research Coordinating Committee. |
 | 285a–13. | Scientific framework for recalcitrant cancers. |
 
@@ -1178,9 +1188,11 @@
 | 290bb–2a. | Medical treatment of narcotics addiction; report to Congress. |
 | 290bb–3 to 290bb–5. Repealed. |  |
 | 290bb–6. | Action by Center for Substance Abuse Treatment and States concerning military facilities. |
-| 290bb–7. | Substance use disorder treatment and early intervention services for children and adolescents. |
+| 290bb–7. | Substance use disorder treatment and early intervention services for children, adolescents, and young adults. |
+| 290bb–7a. | Youth prevention and recovery. |
 | 290bb–8, 290bb–9. Repealed. |  |
 | 290bb–10. | Evidence-based prescription opioid and heroin treatment and interventions demonstration. |
+| 290bb–11. | Building capacity for family-focused residential treatment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1259,11 +1271,19 @@
 | 290dd–2. | Confidentiality of records. |
 | 290dd–2a. | Promoting access to information on evidence-based programs and practices. |
 | 290dd–3. | Grants for reducing overdose deaths. |
+| 290dd–4. | Program to support coordination and continuation of care for drug overdose patients. |
 | [290ee.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration/Part%20D%20-%20Miscellaneous%20Provisions%20Relating%20to%20Substance%20Abuse%20and%20Mental%20Health/%C2%A7%2000290ee%20-%20Opioid%20overdose%20reversal%20medication%20access%20and%20education%20grant%20programs.md) | Opioid overdose reversal medication access and education grant programs. |
 | 290ee–1. | First responder training. |
 | 290ee–2. | Building communities of recovery. |
+| 290ee–2a. | Peer support technical assistance center. |
 | 290ee–3. | State demonstration grants for comprehensive opioid abuse response. |
 | 290ee–4. | Mental and behavioral health outreach and education on college campuses. |
+| 290ee–5. | National recovery housing best practices. |
+| 290ee–6. | Regional Centers of Excellence in Substance Use Disorder Education. |
+| 290ee–7. | Comprehensive opioid recovery centers. |
+| 290ee–8. | Career Act. |
+| 290ee–9. | Services for families and patients in crisis. |
+| 290ee–10. | Sobriety treatment and recovery teams. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1536,21 +1556,29 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part F—General Provisions
+#### Part F—Substance Use Disorder Treatment Workforce
 
 |  |  |
 | :--- | ---: |
-| [295j.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20General%20Provisions/%C2%A7%2000295j%20-%20Preferences%20and%20required%20information%20in%20certain%20programs.md) | Preferences and required information in certain programs. |
-| [295k.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20General%20Provisions/%C2%A7%2000295k%20-%20Health%20professions%20data.md) | Health professions data. |
+| [295h.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20Substance%20Use%20Disorder%20Treatment%20Workforce/%C2%A7%2000295h%20-%20Loan%20repayment%20program%20for%20substance%20use%20disorder%20treatment%20workforce.md) | Loan repayment program for substance use disorder treatment workforce. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part G—General Provisions
+
+|  |  |
+| :--- | ---: |
+| [295j.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20G%20-%20General%20Provisions/%C2%A7%2000295j%20-%20Preferences%20and%20required%20information%20in%20certain%20programs.md) | Preferences and required information in certain programs. |
+| [295k.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20G%20-%20General%20Provisions/%C2%A7%2000295k%20-%20Health%20professions%20data.md) | Health professions data. |
 | 295<i>l.</i> | Repealed. |
-| [295m.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20General%20Provisions/%C2%A7%2000295m%20-%20Prohibition%20against%20discrimination%20on%20basis%20of%20sex.md) | Prohibition against discrimination on basis of sex. |
-| [295n.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20General%20Provisions/%C2%A7%2000295n%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93392%2C%20title%20I%2C%20%C2%A7101%28b%29%281%29%2C%20Nov.%2013%2C%201998%2C%20112%20Stat.%203537.md) | Repealed. |
+| [295m.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20G%20-%20General%20Provisions/%C2%A7%2000295m%20-%20Prohibition%20against%20discrimination%20on%20basis%20of%20sex.md) | Prohibition against discrimination on basis of sex. |
+| [295n.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20G%20-%20General%20Provisions/%C2%A7%2000295n%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93392%2C%20title%20I%2C%20%C2%A7101%28b%29%281%29%2C%20Nov.%2013%2C%201998%2C%20112%20Stat.%203537.md) | Repealed. |
 | 295n–1. | Application. |
 | 295n–2. | Use of funds. |
-| [295o.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20General%20Provisions/%C2%A7%2000295o%20-%20Matching%20requirement.md) | Matching requirement. |
+| [295o.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20G%20-%20General%20Provisions/%C2%A7%2000295o%20-%20Matching%20requirement.md) | Matching requirement. |
 | 295o–1. | Generally applicable provisions. |
 | 295o–2. | Technical assistance. |
-| [295p.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20F%20-%20General%20Provisions/%C2%A7%2000295p%20-%20Definitions.md) | Definitions. |
+| [295p.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20G%20-%20General%20Provisions/%C2%A7%2000295p%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1777,7 +1805,7 @@
 | 300b–2. | Voluntary participation by individuals. |
 | 300b–3. | Application; special consideration to prior sickle cell anemia grant recipients. |
 | 300b–4. | Public Health Service facilities. |
-| 300b–5. | Repealed. |
+| 300b–5. | Sickle cell disease and other heritable blood disorders research, surveillance, prevention, and treatment. |
 | 300b–6. | Applied technology. |
 | 300b–7. | Tourette Syndrome. |
 | 300b–8. | Improved newborn and child screening for heritable disorders. |
@@ -1876,6 +1904,7 @@
 | 300d–51. | Residency training programs in emergency medicine. |
 | 300d–52. | State grants for projects regarding traumatic brain injury. |
 | 300d–53. | State grants for protection and advocacy services. |
+| 300d–54. | Stop, Observe, Ask, and Respond to Health and Wellness Training Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1982,7 +2011,7 @@
 | :--- | ---: |
 | [300i.](Subchapter%20012%20%28XII%29%20-%20Safety%20of%20Public%20Water%20Systems/Part%20D%20-%20Emergency%20Powers/%C2%A7%2000300i%20-%20Emergency%20powers.md) | Emergency powers. |
 | 300i–1. | Tampering with public water systems. |
-| 300i–2. | Terrorist and other intentional acts. |
+| 300i–2. | Community water system risk and resilience. |
 | 300i–3. | Contaminant prevention, detection and response. |
 | 300i–4. | Supply disruption prevention, detection and response. |
 
@@ -1994,6 +2023,7 @@
 | :--- | ---: |
 | [300j.](Subchapter%20012%20%28XII%29%20-%20Safety%20of%20Public%20Water%20Systems/Part%20E%20-%20General%20Provisions/%C2%A7%2000300j%20-%20Assurances%20of%20availability%20of%20adequate%20supplies%20of%20chemicals%20necessary%20for%20treatment%20of%20water.md) | Assurances of availability of adequate supplies of chemicals necessary for treatment of water. |
 | 300j–1. | Research, technical assistance, information, training of personnel. |
+| 300j–1a. | Innovative water technology grant program. |
 | 300j–2. | Grants for State programs. |
 | 300j–3. | Special project grants and guaranteed loans. |
 | 300j–3a. | Grants to public sector agencies. |
@@ -2018,6 +2048,9 @@
 | 300j–19. | Algal toxin risk assessment and management. |
 | 300j–19a. | Assistance for small and disadvantaged communities. |
 | 300j–19b. | Reducing lead in drinking water. |
+| 300j–19c. | Study on intractable water systems. |
+| 300j–19d. | Review of technologies. |
+| 300j–19e. | Water infrastructure and workforce investment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2029,7 +2062,7 @@
 | 300j–22. | Recall of drinking water coolers with lead-lined tanks. |
 | 300j–23. | Drinking water coolers containing lead. |
 | 300j–24. | Lead contamination in school drinking water. |
-| 300j–25. | Repealed. |
+| 300j–25. | Drinking water fountain replacement for schools. |
 | 300j–26. | Certification of testing laboratories. |
 | 300j–27. | Registry for lead exposure and Advisory Committee. |
 
@@ -2134,6 +2167,7 @@
 | 300u–13. | Community transformation grants. |
 | 300u–14. | Healthy aging, living well; evaluation of community-based prevention and wellness programs for Medicare beneficiaries. |
 | 300u–15. | Research on optimizing the delivery of public health services. |
+| 300u–16. | Establishment of substance use disorder information dashboard. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2723,6 +2757,7 @@
 | 300gg–18. | Bringing down the cost of health care coverage. |
 | 300gg–19. | Appeals process. |
 | 300gg–19a. | Patient protections. |
+| 300gg–19b. | Information on prescription drugs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -118,7 +118,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the protection and conservation of the resource values of the Outstanding Natural Area; and
 
-&emsp;&emsp;&emsp;(ii) the restoration of native plant communities and estuaries in the Outstanding Natural Area, with an emphasis on the conservation and enhancement of healthy, functioning ecological systems in perpetuity;
+&emsp;&emsp;&emsp;(ii) the restoration of native plant communities and estuaries in the OutstandingNatural Area, with an emphasis on the conservation and enhancement of healthy, functioning ecological systems in perpetuity;
 
 &emsp;&emsp;(B) objectives and provisions to maintain or recreate historic structures;
 
@@ -166,7 +166,7 @@ In this section:
 
 #### (4) Research activities
 
-&emsp;To continue successful research partnerships, pursue future research partnerships, and assist in the development and implementationof the management plan, the Secretary may, in accordance with section 307(a) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1737(a)), authorize the conduct of appropriate research activities in the Outstanding Natural Area for the purposes described in subsection (b)(2).
+&emsp;To continue successful research partnerships, pursue future research partnerships, and assist in the development and implementation of the management plan, the Secretary may, in accordance with section 307(a) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1737(a)), authorize the conduct of appropriate research activities in the Outstanding Natural Area for the purposes described in subsection (b)(2).
 
 #### (5) Acquisition of land
 

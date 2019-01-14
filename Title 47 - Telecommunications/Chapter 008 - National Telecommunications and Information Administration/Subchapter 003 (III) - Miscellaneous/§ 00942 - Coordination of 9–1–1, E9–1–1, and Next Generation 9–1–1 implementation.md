@@ -144,7 +144,7 @@ In this section, the following definitions shall apply:
 
 #### (4) Emergency call
 
-&emsp;The term "emergency call" refers to any real-time communication with a public safetyanswering point or other emergency management or response agency, including—
+&emsp;The term "emergency call" refers to any real-time communication with a public safety answering point or other emergency management or response agency, including—
 
 &emsp;&emsp;(A) through voice, text, or video and related data; and
 

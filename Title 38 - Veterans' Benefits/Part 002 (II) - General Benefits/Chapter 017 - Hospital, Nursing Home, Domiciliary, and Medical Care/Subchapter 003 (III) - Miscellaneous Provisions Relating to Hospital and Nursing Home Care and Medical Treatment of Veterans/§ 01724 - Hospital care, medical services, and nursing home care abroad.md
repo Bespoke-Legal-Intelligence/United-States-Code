@@ -52,7 +52,7 @@ Subsec. (d). Pub. L. 93–82, §108(a), added subsec. (d).
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–624 substituted "outside any State" for "outside the continental limits of the United States, or a Territory, Commonwealth, or possession of the United States".
 
-<b>1959</b>—Subsec. (b). Pub. L. 86–152 extended authority to provide hospital and medical care for veterans who areUnited States citizens temporarily residing abroad to include those with peacetime service-incurred disabilities.
+<b>1959</b>—Subsec. (b). Pub. L. 86–152 extended authority to provide hospital and medical care for veterans who are United States citizens temporarily residing abroad to include those with peacetime service-incurred disabilities.
 
 #### Effective Date of 1976 Amendment
 

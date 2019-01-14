@@ -10,7 +10,7 @@
 
 #### (B) Determination by Secretary
 
-&emsp;&emsp;With respect to small businesses and very small businesses (as such terms are defined in the regulation promulgated under subparagraph (A)) that produce and harvest those types of fruits and vegetables that are raw agricultural commodities that the Secretary has determined are low risk and do not present a risk of serious adverse health consequences or death, the Secretary may determine not to include production and harvesting of such fruits and vegetables in such rulemaking, or may modify the applicable requirements of regulations promulgated pursuant to this section.
+&emsp;&emsp;With respect to small businesses and very small businesses (as such terms are defined in the regulation promulgated under subparagraph (A)) that produce and harvestthose types of fruits and vegetables that are raw agricultural commodities that the Secretary has determined are low risk and do not present a risk of serious adverse health consequences or death, the Secretary may determine not to include production and harvesting of such fruits and vegetables in such rulemaking, or may modify the applicable requirements of regulations promulgated pursuant to this section.
 
 #### (2) Public input
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(B) provide sufficient flexibility to be practicable for all sizes and types of businesses, including small businesses such as a small food processing facility co-located on a farm;
 
-&emsp;&emsp;(C) comply with chapter 35 of title 44 (commonly known as the "Paperwork Reduction Act"), with special attention to minimizing the burden (as defined in section 3502(2) of such title) on the business, and collection of information (as defined in section 3502(3) of such title), associated with such regulations;
+&emsp;&emsp;(C) comply with chapter 35 of title 44 (commonly known as the "Paperwork Reduction Act"), with special attention to minimizing the burden (as defined in section 3502(2) ofsuch title) on the business, and collection of information (as defined in section 3502(3) of such title), associated with such regulations;
 
 &emsp;&emsp;(D) acknowledge differences in risk and minimize, as appropriate, the number of separate standards that apply to separate foods; and
 
@@ -92,7 +92,7 @@
 
 #### (D) Modification or revocation of a variance
 
-&emsp;&emsp;The Secretary, after notice and an opportunity for a hearing, may modify or revokea variance if the Secretary determines that such variance is not reasonably likely to ensure that the food is not adulterated under section 342 of this title and is not reasonably likely to provide the same level of public health protection as the requirements of the regulations adopted under subsection (b).
+&emsp;&emsp;The Secretary, after notice and an opportunity for a hearing, may modify or revoke a variance if the Secretary determines that such variance is not reasonably likely to ensure that the food is not adulterated under section 342 of this title and is not reasonably likely to provide the same level of public health protection as the requirements of the regulations adopted under subsection (b).
 
 #### (d) Enforcement
 
@@ -212,7 +212,7 @@ Pub. L. 113–79, title XII, §12311(a), Feb. 7, 2014, 128 Stat. 992, provided t
 
 #### Small Entity Compliance Policy Guide
 
-Pub. L. 111–353, title I, §105(b), Jan. 4, 2011, 124 Stat. 3904, provided that: "Not later than 180 days after the issuance of regulations under section 419 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350h\] (as added by subsection (a)), the Secretary of Health and Human Services shall issue a small entity compliance policy guide setting forth in plain language the requirements of such section 419 and to assist small entities in complying with standards for safe production and harvesting and other activities required under such section."
+Pub. L. 111–353, title I, §105(b), Jan. 4, 2011, 124 Stat. 3904, provided that: "Not later than 180 days after theissuance of regulations under section 419 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350h\] (as added by subsection (a)), the Secretary of Health and Human Services shall issue a small entity compliance policy guide setting forth in plain language the requirements of such section 419 and to assist small entities in complying with standards for safe production and harvesting and other activities required under such section."
 
 #### No Effect on HACCP Authorities
 

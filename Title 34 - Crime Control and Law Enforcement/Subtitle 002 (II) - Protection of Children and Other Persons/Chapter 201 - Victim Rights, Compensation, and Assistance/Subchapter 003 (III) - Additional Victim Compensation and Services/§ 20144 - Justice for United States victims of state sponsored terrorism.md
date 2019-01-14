@@ -34,7 +34,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 60 days after the date of the initial appointment of the Special Master, the Special Master shall publish in the Federal Register and on a website maintained by the Department of Justice a notice specifying the procedures necessary for United States persons to apply and establish eligibility for payment, including procedures by which eligible United States persons may apply by and through their attorney. Such notice is not subject to the requirements of section 553 of title 5.
+&emsp;&emsp;Not later than 60 days after the date of the initial appointment of the Special Master,the Special Master shall publish in the Federal Register and on a website maintained by the Department of Justice a notice specifying the procedures necessary for United States persons to apply and establish eligibility for payment, including procedures by which eligible United States persons may apply by and through their attorney. Such notice is not subject to the requirements of section 553 of title 5.
 
 #### (B) Information regarding other sources of compensation
 
@@ -164,7 +164,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (i) Criminal funds and property
 
-&emsp;&emsp;&emsp;All funds, and the net proceeds from the sale of property, forfeited or paid to the United States after December 18, 2015, as a criminal penalty or fine arising from a violation of any license, order, regulation, or prohibition issued under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.),<sup>1</sup> or any related criminal conspiracy, scheme, or other Federal offense arising from the actions of, or doing business with or acting on behalf of, a state sponsor of terrorism.
+&emsp;&emsp;&emsp;All funds, and the net proceeds from the sale of property, forfeited or paid to the United States after December 18, 2015, as a criminal penalty or fine arising from a violation of any license, order, regulation, or prohibition issued under the International Emergency Economic Powers Act (50U.S.C. 1701 et seq.) or the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.),<sup>1</sup> or any related criminal conspiracy, scheme, or other Federal offense arising from the actions of, or doing business with or acting on behalf of, a state sponsor of terrorism.
 
 #### (ii) Civil funds and property
 
@@ -176,7 +176,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), if the United States receives a final judgment forfeiting the properties and related assets identified in the proceedings captioned as In Re 650 Fifth Avenue \&Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), the net proceeds (not including the litigation expenses and sales costs incurred by the United States) resulting from the sale of such properties and related assets by the United States shall be deposited into the Fund.
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), if the United States receives a final judgment forfeiting the properties and related assets identified in the proceedings captioned as In Re 650 Fifth Avenue \& Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), the net proceeds (not including the litigation expenses and sales costs incurred by the United States) resulting from the sale of such properties and related assets by the United States shall be deposited into the Fund.
 
 #### (II) Limitation
 
@@ -204,7 +204,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (II) Exception
 
-&emsp;&emsp;&emsp;&emsp;(aa) In the event that an adverse final judgment is entered in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y), prior to a final judgment being entered in the proceedings captioned In Re 650 Fifth Avenue \& Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), the Special Master shall release a portion of an eligible claimant's conditional payment to such eligible claimant if the Special Master anticipates that such claimant will receive less than the amount of the conditional payment from any proceeds from a final judgment that is entered in favor of the plaintiffs in In Re 650 Fifth Avenue \& Related Properties. Such portion shall not exceed the difference between the amount of the conditional payment and the amount the Special Master anticipates such claimant will receive from the proceeds of In Re 650 Fifth Avenue \& Related Properties.
+&emsp;&emsp;&emsp;&emsp;(aa) In the event that an adverse final judgment is entered in the proceedingscaptioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y), prior to a final judgment being entered in the proceedings captioned In Re 650 Fifth Avenue \& Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), the Special Master shall release a portion of an eligible claimant's conditional payment to such eligible claimant if the Special Master anticipates that such claimant will receive less than the amount of the conditional payment from any proceeds from a final judgment that is entered in favor of the plaintiffs in In Re 650 Fifth Avenue \& Related Properties. Such portion shall not exceed the difference between the amount of the conditional payment and the amount the Special Master anticipates such claimant will receive from the proceeds of In Re 650 Fifth Avenue \& Related Properties.
 
 &emsp;&emsp;&emsp;&emsp;(bb) In the event that a final judgment is entered in favor of the plaintiffs in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y) and funds are distributed, the payments allocated to claimants who applied for a conditional payment under this subparagraph shall be considered void, and any funds previously allocated to such conditional payments shall be made available and distributed to all other eligible claimants pursuant to subsection (d).
 
@@ -316,7 +316,7 @@ In this section the following definitions apply:
 
 #### (7) State sponsor of terrorism
 
-&emsp;The term "state sponsor of terrorism" means a country the government of which the Secretary of State has determined, for purposes of section 4605(j) of title 50, section 2371 of title 22, section 2780 of title 22, or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
+&emsp;The term "state sponsor of terrorism" means a country the government of which the Secretary of State has determined, for purposes of section 4605(j) <sup>1</sup> of title 50, section 2371 of title 22, section 2780 of title 22, or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
 
 #### (8) United States person
 
@@ -339,6 +339,8 @@ The International Emergency Economic Powers Act, referred to in subsec. (e)(2)(A
 The Trading with the Enemy Act, referred to in subsec. (e)(2)(A), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified generally to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The September 11th Victim Compensation Fund, referred to in subsec. (j)(6), probably means the September 11th Victim Compensation Fund of 2001, title IV of Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 237, which is set out in a note under section 40101 of Title 49, Transportation.
+
+Section 4605(j) of title 50, referred to in subsec. (j)(7), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former section 4605(j) of title 50 can be found in section 4813(c) of title 50, as enacted by Pub. L. 115–232.
 
 #### Codification
 

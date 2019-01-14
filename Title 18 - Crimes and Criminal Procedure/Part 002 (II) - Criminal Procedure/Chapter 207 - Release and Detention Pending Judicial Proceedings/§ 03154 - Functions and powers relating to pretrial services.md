@@ -2,7 +2,7 @@
 
 Pretrial services functions shall include the following:
 
-&emsp;(1) Collect, verify, and report to the judicial officer, prior to the pretrial release hearing,information pertaining to the pretrial release of each individual charged with an offense, including information relating to any danger that the release of such person may pose to any other person or the community, and, where appropriate, include a recommendation as to whether such individual should be released or detained and, if release is recommended, recommend appropriate conditions of release; except that a district court may direct that information not be collected, verified, or reported under this paragraph on individuals charged with Class A misdemeanors as defined in section 3559(a)(6) of this title.
+&emsp;(1) Collect, verify, and report to the judicial officer, prior to the pretrial release hearing, information pertaining to the pretrial release of each individual charged with an offense, including information relating to any danger that the release of such person may pose to any other person or the community, and, where appropriate, include a recommendation as to whether such individual should be released or detained and, if release is recommended, recommend appropriate conditions of release; except that a district court may direct that information not be collected, verified, or reported under this paragraph on individuals charged with Class A misdemeanors as defined in section 3559(a)(6) of this title.
 
 &emsp;(2) Review and modify the reports and recommendations specified in paragraph (1) of this section for persons seeking release pursuant to section 3145 of this chapter.
 
@@ -10,7 +10,7 @@ Pretrial services functions shall include the following:
 
 &emsp;(4) Operate or contract for the operation of appropriate facilities for the custody or care of persons released under this chapter including residential halfway houses, addict and alcoholic treatment centers, and counseling services, and contract with any appropriate public or private agency or person, or expend funds, to monitor and provide treatment as well as nontreatment services to any such persons released in the community, including equipment and emergency housing, corrective and preventative guidance and training, and other services reasonably deemed necessary to protect the public and ensure that such persons appear in court as required.
 
-&emsp;(5) Inform the court and the United States attorney of all apparent violations of pretrial release conditions, arrests of persons released to the custody of providers of pretrial services or under the supervision of providers of pretrial services, and any danger that any such person may come to pose to any other person or the community, and recommend appropriate modifications of release conditions.
+&emsp;(5) Inform the court and the United States attorney of all apparent violations of pretrial release conditions, arrests of persons released to the custody of providers of pretrial services or under the supervision of providers of pretrial services, and any danger that any such person may come to pose to any other personor the community, and recommend appropriate modifications of release conditions.
 
 &emsp;(6) Serve as coordinator for other local agencies which serve or are eligible to serve as custodians under this chapter and advise the court as to the eligibility, availability, and capacity of such agencies.
 
@@ -24,7 +24,7 @@ Pretrial services functions shall include the following:
 
 &emsp;(11) Make contracts, to such extent and in such amounts as are provided in appropriation Acts, for the carrying out of any pretrial services functions.
 
-&emsp;(12)(A) As directed by the court and to the degree required by the regimen of care or treatment ordered by the court as a condition of release, keep informed as to the conduct and provide supervision of a person conditionally released under the provisions of section 4243 or 4246 of this title, and report such person's conduct and condition to the court ordering release and the Attorney General or his designee.
+&emsp;(12)(A) As directed by the court and to the degree required by the regimen of care or treatment ordered by the court as a condition of release, keep informed as to the conduct and provide supervision of a person conditionally released under the provisions of section 4243, 4246, or 4248 of this title, and report such person's conduct and condition to the court ordering release and the Attorney General or his designee.
 
 &emsp;(B) Any violation of the conditions of release shall immediately be reported to the court and the Attorney General or his designee.
 
@@ -34,9 +34,11 @@ Pretrial services functions shall include the following:
 
 &emsp;(15) Perform such other functions as specified under this chapter.
 
-(Added Pub. L. 93–619, title II, §201, Jan. 3, 1975, 88 Stat. 2087; amended Pub. L. 97–267, §4, Sept. 27, 1982, 96 Stat. 1137; Pub. L. 98–473, title II, §203(b), Oct. 12, 1984, 98 Stat. 1984; Pub. L. 101–647, title XXXV, §3576, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 102–572, title VII, §701(b), title X, §1002, Oct. 29, 1992, 106 Stat. 4515, 4521; Pub. L. 104–317, title I, §101(b), Oct. 19, 1996, 110 Stat. 3848; Pub. L. 110–406, §15(a), Oct. 13, 2008, 122 Stat. 4294; Pub. L. 111–174, §5, May 27, 2010, 124 Stat. 1216.)
+(Added Pub. L. 93–619, title II, §201, Jan. 3, 1975, 88 Stat. 2087; amended Pub. L. 97–267, §4, Sept. 27, 1982, 96 Stat. 1137; Pub. L. 98–473, title II, §203(b), Oct. 12, 1984, 98 Stat. 1984; Pub. L. 101–647, title XXXV, §3576, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 102–572, title VII, §701(b), title X, §1002, Oct. 29, 1992, 106 Stat. 4515, 4521; Pub. L. 104–317, title I, §101(b), Oct. 19, 1996, 110 Stat. 3848; Pub. L. 110–406, §15(a), Oct. 13, 2008, 122 Stat. 4294; Pub. L. 111–174, §5, May 27, 2010, 124 Stat. 1216; Pub. L. 115–391, title VI, §609(b), Dec. 21, 2018, 132 Stat. 5245.)
 
 #### Amendments
+
+<b>2018</b>—Par. (12)(A). Pub. L. 115–391 substituted ", 4246, or 4248" for "or 4246".
 
 <b>2010</b>—Pars. (14), (15). Pub. L. 111–174 added par. (14) and redesignated former par. (14) as (15).
 

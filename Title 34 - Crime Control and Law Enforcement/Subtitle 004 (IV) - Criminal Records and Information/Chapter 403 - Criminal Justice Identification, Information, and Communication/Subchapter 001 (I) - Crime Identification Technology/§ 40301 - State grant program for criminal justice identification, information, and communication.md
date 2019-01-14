@@ -14,11 +14,13 @@ Subject to the availability of amounts provided in advance in appropriations Act
 
 &emsp;&emsp;(B) firearms eligibility determinations;
 
-&emsp;&emsp;(C) identification of sexual offenders;
+&emsp;&emsp;(C) identification of all individuals who have been convicted of a crime punishable by imprisonment for a term exceeding 1 year <sup>1</sup>
 
-&emsp;&emsp;(D) identification of domestic violence offenders; and
+&emsp;&emsp;(D) identification of sexual offenders;
 
-&emsp;&emsp;(E) background checks for other authorized purposes unrelated to criminal justice; and
+&emsp;&emsp;(E) identification of domestic violence offenders; and
+
+&emsp;&emsp;(F) background checks for other authorized purposes unrelated to criminal justice; and
 
 &emsp;(4) capture information for statistical and research purposes to improve the administration of criminal justice.
 
@@ -36,11 +38,11 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;(5) systems to facilitate full participation in any compact relating to the Interstate Identification Index of the National Crime Information Center;
 
-&emsp;(6) systems to facilitate full participation in the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note) <sup>1</sup> for firearms eligibility determinations;
+&emsp;(6) systems to facilitate full participation in the national instant criminal background check system established under section 40901(b) of this title for firearms eligibility determinations, including through increased efforts to pre-validate the contents of felony conviction records and domestic violence records to expedite eligibility determinations, and measures and resources necessary to establish and achieve compliance with an implementation plan under section 40917 of this title;
 
 &emsp;(7) integrated criminal justice information systems to manage and communicate criminal justice information among law enforcement agencies, courts, prosecutors, and corrections agencies;
 
-&emsp;(8) noncriminal history record information systems relevant to firearms eligibility determinations for availability and accessibility to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note); <sup>1</sup>
+&emsp;(8) noncriminal history record information systems relevant to firearms eligibility determinations for availability and accessibility to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note); <sup>2</sup>
 
 &emsp;(9) court-based criminal justice information systems that promote—
 
@@ -50,7 +52,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;(10) ballistics identification and information programs that are compatible and integrated with the National Integrated Ballistics Network (NIBN);
 
-&emsp;(11) the capabilities of forensic science programs and medical examiner programs related to the administration of criminal justice, including programs leading to accreditation or certification of individuals or departments, agencies, or laboratories, and programs relating to the identification and analysis of deoxyribonucleic acid;
+&emsp;(11) the capabilities of forensic science programs and medical examiner programs related to the administration of criminal justice, including programs leading to accreditation or certification of individuals or departments,agencies, or laboratories, and programs relating to the identification and analysis of deoxyribonucleic acid;
 
 &emsp;(12) sexual offender identification and registration systems;
 
@@ -70,7 +72,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 #### (1) In general
 
-&emsp;To be eligible to receive a grant under this section, a State shall provide assurances to the Attorney General that the State has the capability to contribute pertinent information to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note).<sup>1</sup>
+&emsp;To be eligible to receive a grant under this section, a State shall provide assurances to the Attorney General that the State has the capability to contribute pertinent information to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note).<sup>2</sup>
 
 #### (2) Information sharing
 
@@ -92,13 +94,13 @@ Grants under this section may be used for programs to establish, develop, update
 
 #### (d) Matching funds
 
-The Federal share of a grant received under this subchapter may not exceed 90 percent of the costs of a program or proposal funded under this subchapter unless the Attorney General waives, wholly or in part, the requirements of this subsection.
+The Federal share of a grant received under this subchapter may not exceed 90 percent of the costs of a program or proposal funded under this subchapter unless the State has achieved compliance with an implementation plan under section 40917 of this title or the Attorney General waives, wholly or in part, the requirements of this subsection.
 
 #### (e) Authorization of appropriations
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated to carry out this section $250,000,000 for each of fiscal years 2002 through 2007.
+&emsp;There is authorized to be appropriated to carry out this section $250,000,000 for each of fiscal years 2018 through 2022.
 
 #### (2) Limitations
 
@@ -114,11 +116,11 @@ The Federal share of a grant received under this subchapter may not exceed 90 pe
 
 Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
 
-(Pub. L. 105–251, title I, §102, Oct. 9, 1998, 112 Stat. 1871; Pub. L. 106–177, title I, §102, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–561, §2(c)(4), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title X, §1015, Oct. 26, 2001, 115 Stat. 400; Pub. L. 109–162, title XI, §1111(c)(1), Jan. 5, 2006, 119 Stat. 3101.)
+(Pub. L. 105–251, title I, §102, Oct. 9, 1998, 112 Stat. 1871; Pub. L. 106–177, title I, §102, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–561, §2(c)(4), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title X, §1015, Oct. 26, 2001, 115 Stat. 400; Pub. L. 109–162, title XI, §1111(c)(1), Jan. 5, 2006, 119 Stat. 3101; Pub. L. 115–141, div. S, title VI, §604(a), Mar. 23, 2018, 132 Stat. 1136.)
 
 #### References in Text
 
-Section 103(b) of the Brady Handgun Violence Prevention Act, referred to in subsecs. (b)(6), (8) and (c)(1), is section 103(b) of Pub. L. 103–159, which was set out as a note under section 922 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification as section 40901(b) of this title.
+Section 103(b) of the Brady Handgun Violence Prevention Act, referred to in subsecs. (b)(8) and (c)(1), is section 103(b) of Pub. L. 103–159, which was set out as a note under section 922 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification as section 40901(b) of this title.
 
 The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(2)(G), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part Q of title I of the Act is classified generally to subchapter XVI (§10381 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
@@ -127,6 +129,14 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 Section was formerly classified to section 14601 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(3)(C) to (F). Pub. L. 115–141, §604(a)(1), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
+
+Subsec. (b)(6). Pub. L. 115–141, §604(a)(2), substituted "section 40901(b) of this title" for "section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note)" and inserted before semicolon at end ", including through increased efforts to pre-validate the contents of felony conviction records and domestic violence records to expedite eligibility determinations, and measures and resources necessary to establish and achieve compliance with an implementation plan under section 40917 of this title".
+
+Subsec. (d). Pub. L. 115–141, §604(a)(3), inserted "the State has achieved compliance with an implementation plan under section 40917 of this title or" after "unless".
+
+Subsec. (e)(1). Pub. L. 115–141, §604(a)(4), substituted "2018 through 2022" for "2002 through 2007".
 
 <b>2006</b>—Subsec. (c)(2)(G). Pub. L. 109–162 substituted "such as the Edward Byrne Justice Assistance Grant Program and the M.O.R.E. program" for "such as the Local Law Enforcement Block Grant program (described under the heading 'Violent Crime Reduction Programs, State and Local Law Enforcement Assistance' of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119)) and the M.O.R.E. program".
 
@@ -142,5 +152,7 @@ Subsec. (e)(2)(B) to (D). Pub. L. 106–561 inserted "and" after semicolon in su
 
 Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 10151 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

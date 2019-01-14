@@ -2,7 +2,7 @@
 
 #### (a) Removal and other remedial action by President; applicability of national contingency plan; response by potentially responsible parties; public health threats; limitations on response; exception
 
-(1) Whenever (A) any hazardous substance is released or there is a substantial threat of such a release into the environment, or (B) there is a release or substantial threat of release into the environment of any pollutant or contaminant which may present an imminent and substantial danger to the public health or welfare, the President is authorized to act, consistent with the national contingency plan, to remove or arrange for the removal of, and provide for remedial action relating to such hazardous substance, pollutant, or contaminant at any time (including its removal from any contaminated natural resource), or take any other response measure consistent with the national contingency plan which the President deems necessary to protect the public health or welfare or the environment. When the President determines that such action will be done properly and promptly by the owner or operator of the facility or vessel or by any other responsible party, the President may allow such person to carry out the action, conduct the remedial investigation, or conduct the feasibility study in accordance with section 9622 of this title. No remedial investigation or feasibility study (RI/FS) shall be authorized except on a determination by the President that the party is qualified to conduct the RI/FS and only if the President contracts with or arranges for a qualified person to assist the President in overseeing and reviewing the conduct of such RI/FS and if the responsible party agrees to reimburse the Fund for any cost incurred by the President under, or in connection with, the oversight contract or arrangement. In no event shall a potentially responsible party be subject to a lesser standard of liability, receive preferential treatment, or in any other way, whether direct or indirect, benefit from any such arrangements as a response action contractor, or as a person hired or retained by such a response action contractor, with respect to the release or facility in question. The President shall give primary attention to those releases which the President deems may present a public health threat.
+(1) Whenever (A) any hazardous substance is released or there is a substantial threat of such a release into the environment, or (B) there is arelease or substantial threat of release into the environment of any pollutant or contaminant which may present an imminent and substantial danger to the public health or welfare, the President is authorized to act, consistent with the national contingency plan, to remove or arrange for the removal of, and provide for remedial action relating to such hazardous substance, pollutant, or contaminant at any time (including its removal from any contaminated natural resource), or take any other response measure consistent with the national contingency plan which the President deems necessary to protect the public health or welfare or the environment. When the President determines that such action will be done properly and promptly by the owner or operator of the facility or vessel or by any other responsible party, the President may allow such person to carry out the action, conduct the remedial investigation, or conduct the feasibility study in accordance with section 9622 of this title. No remedial investigation or feasibility study (RI/FS) shall be authorized except on a determination by the President that the party is qualified to conduct the RI/FS and only if the President contracts with or arranges for a qualified person to assist the President in overseeing and reviewing the conduct of such RI/FS and if the responsible party agrees to reimburse the Fund for any cost incurred by the President under, or in connection with, the oversight contract or arrangement. In no event shall a potentially responsible party be subject to a lesser standard of liability, receive preferential treatment, or in any other way, whether direct or indirect, benefit from any such arrangements as a response action contractor, or as a person hired or retained by such a response action contractor, with respect to the release or facility in question. The President shall give primary attention to those releases which the President deems may present a public health threat.
 
 (2)
 
@@ -14,7 +14,7 @@ Limitations on Response.—The President shall not provide for a removal or reme
 
 &emsp;(A) of a naturally occurring substance in its unaltered form, or altered solely through naturally occurring processes or phenomena, from a location where it is naturally found;
 
-&emsp;(B) from products which are part of the structure of, and result in exposure within,residential buildings or business or community structures; or
+&emsp;(B) from products which are part of the structure of, and result in exposure within, residential buildings or business or community structures; or
 
 &emsp;(C) into public or private drinking water supplies due to deterioration of the system through ordinary use.
 
@@ -34,7 +34,7 @@ Exception to Limitations.—Notwithstanding paragraph (3) of this subsection, to
 
 #### (c) Criteria for continuance of obligations from Fund over specified amount for response actions; consultation by President with affected States; contracts or cooperative agreements by States with President prior to remedial actions; cost-sharing agreements; selection by President of remedial actions; State credits: granting of credit, expenses before listing or agreement, response actions between 1978 and 1980, State expenses after December 11, 1980, in excess of 10 percent of costs, item-by-item approval, use of credits; operation and maintenance; limitation on source of funds for O\&M; recontracting; siting
 
-(1) Unless (A) the President finds that (i) continued response actions are immediately required to prevent, limit, or mitigate an emergency, (ii) there is an immediate risk to public health or welfare or the environment, and (iii) such assistance will not otherwise be provided on a timely basis, or (B) the President has determined the appropriate remedial actions pursuant to paragraph (2) of this subsection and the State or States in which the source of the release is located have complied with the requirements of paragraph (3) of this subsection, or (C) continued response action is otherwise appropriate and consistent with the remedial action to be taken <sup>1</sup> obligations from the Fund, other than those authorized by subsection (b) of this section, shall not continue after $2,000,000 has been obligated for response actions or 12 months has elapsed from the date of initial response to a release or threatened release of hazardous substances.
+(1) Unless (A) the President finds that (i) continued response actions are immediately required to prevent, limit, or mitigate an emergency, (ii) there is an immediate risk to public health or welfare or the environment, and (iii) such assistance will not otherwise be provided on a timely basis, or (B) the President has determined the appropriate remedial actions pursuant to paragraph (2) of this subsection and the State or States in which the source of the release is located have complied with the requirements of paragraph (3) of this subsection, or (C) continued response action is otherwise appropriate and consistent with the remedial actionto be taken <sup>1</sup> obligations from the Fund, other than those authorized by subsection (b) of this section, shall not continue after $2,000,000 has been obligated for response actions or 12 months has elapsed from the date of initial response to a release or threatened release of hazardous substances.
 
 (2) The President shall consult with the affected State or States before determining any appropriate remedial action to be taken pursuant to the authority granted under subsection (a) of this section.
 
@@ -42,7 +42,7 @@ Exception to Limitations.—Notwithstanding paragraph (3) of this subsection, to
 
 (4)
 
-Selection of Remedial Action.—The President shall select remedial actions to carryout this section in accordance with section 9621 of this title (relating to cleanup standards).
+Selection of Remedial Action.—The President shall select remedial actions to carry out this section in accordance with section 9621 of this title (relating to cleanup standards).
 
 (5)
 
@@ -78,7 +78,7 @@ Use of credits.—Credits granted under this paragraph for funds expended with r
 
 (6)
 
-Operation and Maintenance.—For the purposes of paragraph (3) of this subsection, in the case of ground or surface water contamination, completed remedial action includes the completion of treatment or other measures, whether taken onsite or offsite, necessary to restore ground and surface water quality to a level that assures protection of human health and the environment. With respect to such measures, the operation of such measures for a period of up to 10 years after the construction or installation and commencement of operation shall be considered remedial action. Activities required to maintain the effectiveness of such measures following such period or the completion of remedial action, whichever is earlier, shall be considered operation or maintenance.
+Operation and Maintenance.—For the purposes of paragraph (3) of this subsection, in the case of ground or surface water contamination, completed remedial action includes the completion of treatment or other measures, whether taken onsite or offsite, necessary to restore ground and surface water quality to a level that assures protection of human health and the environment. With respect to such measures, the operation of such measures for a period of up to10 years after the construction or installation and commencement of operation shall be considered remedial action. Activities required to maintain the effectiveness of such measures following such period or the completion of remedial action, whichever is earlier, shall be considered operation or maintenance.
 
 (7)
 
@@ -158,7 +158,7 @@ Reimbursements.—Any State which expended funds during the period beginning Sep
 
 #### (A) Authority
 
-&emsp;&emsp;Any officer, employee or representative described in paragraph (1) is authorized toinspect and obtain samples from any vessel, facility, establishment, or other place or property referred to in paragraph (3) or from any location of any suspected hazardous substance or pollutant or contaminant. Any such officer, employee, or representative is authorized to inspect and obtain samples of any containers or labeling for suspected hazardous substances or pollutants or contaminants. Each such inspection shall be completed with reasonable promptness.
+&emsp;&emsp;Any officer, employee or representative described in paragraph (1) is authorized to inspect and obtain samples from any vessel, facility, establishment, or other place or property referred to in paragraph (3) or from any location of any suspected hazardous substance or pollutant or contaminant. Any such officer, employee, or representative is authorized to inspect and obtain samples of any containers or labeling for suspected hazardous substances or pollutants or contaminants. Each such inspection shall be completed with reasonable promptness.
 
 #### (B) Samples
 
@@ -228,13 +228,13 @@ In awarding contracts to any person engaged in response actions, the President o
 
 #### (g) Rates for wages and labor standards applicable to covered work
 
-(1) All laborers and mechanics employed by contractors or subcontractors in the performance of construction, repair, or alteration work funded in whole or in part under this section shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The President shall not approve any such funding without first obtaining adequate assurance that required labor standards will be maintained upon the construction work.
+(1) All laborers and mechanics employed by contractors or subcontractors in the performance of construction, repair, or alteration work funded in whole or in part under this section or section 9628(a)(1)(B)(ii)(III) of this title shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The President shall not approve any such funding without first obtaining adequate assurance that required labor standards will be maintained upon the construction work.
 
 (2) The Secretary of Labor shall have, with respect to the labor standards specified in paragraph (1), the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267) and section 3145 of title 40.
 
 #### (h) Emergency procurement powers; exercise by President
 
-Notwithstanding any other provision of law, subject to the provisions of section 9611 of this title, the President may authorize the use of such emergency procurement powers as he deems necessary to effect the purpose of this chapter. Upon determination that such procedures are necessary, the President shall promulgate regulations prescribing the circumstances under which such authority shall be used and the procedures governing the use of such authority.
+Notwithstanding any other provision of law, subject to the provisions of section 9611 of thistitle, the President may authorize the use of such emergency procurement powers as he deems necessary to effect the purpose of this chapter. Upon determination that such procedures are necessary, the President shall promulgate regulations prescribing the circumstances under which such authority shall be used and the procedures governing the use of such authority.
 
 #### (i) Agency for Toxic Substances and Disease Registry; establishment, functions, etc.
 
@@ -250,7 +250,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;(E) either independently or as part of other health status survey, conduct periodic survey and screening programs to determine relationships between exposure to toxic substances and illness. In cases of public health emergencies, exposed persons shall be eligible for admission to hospitals and other facilities and services operated or provided by the Public Health Service.
 
-(2)(A) Within 6 months after October 17, 1986, the Administrator of the Agency for Toxic Substances and Disease Registry (ATSDR) and the Administrator of the Environmental Protection Agency ("EPA") shall prepare a list, in order of priority, of at least 100 hazardous substanceswhich are most commonly found at facilities on the National Priorities List and which, in their sole discretion, they determine are posing the most significant potential threat to human health due to their known or suspected toxicity to humans and the potential for human exposure to such substances at facilities on the National Priorities List or at facilities to which a response to a release or a threatened release under this section is under consideration.
+(2)(A) Within 6 months after October 17, 1986, the Administrator of the Agency for Toxic Substances and Disease Registry (ATSDR) and the Administrator of the Environmental Protection Agency ("EPA") shall prepare a list, in order of priority, of at least 100 hazardous substances which are most commonly found at facilities on the National Priorities List and which, in their sole discretion, they determine are posing the most significant potential threat to human health due to their known or suspected toxicity to humans and the potential for human exposure to such substances at facilities on the National Priorities List or at facilities to which a response to a release or a threatened release under this section is under consideration.
 
 (B) Within 24 months after October 17, 1986, the Administrator of ATSDR and the Administrator of EPA shall revise the list prepared under subparagraph (A). Such revision shall include, in order of priority, the addition of 100 or more such hazardous substances. In each of the 3 consecutive 12-month periods that follow, the Administrator of ATSDR and the Administrator of EPA shall revise, in the same manner as provided in the 2 preceding sentences, such list to include not fewer than 25 additional hazardous substances per revision. The Administrator of ATSDR and the Administrator of EPA shall not less often than once every year thereafter revise such list to include additional hazardous substances in accordance with the criteria in subparagraph (A).
 
@@ -262,7 +262,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;(C) Where appropriate, an identification of toxicological testing needed to identify the types or levels of exposure that may present significant risk of adverse health effects in humans.
 
-> Any toxicological profile or revision thereof shall reflect the Administrator of ATSDR's assessment of all relevant toxicological testing which has been peer reviewed. The profiles required to be prepared under this paragraph for those hazardous substances listed under subparagraph (A) of paragraph (2) shall be completed, at a rate of no fewer than 25 per year, within 4 years after October 17, 1986. A profile required on a substance listed pursuant to subparagraph (B) of paragraph (2) shall be completed within 3 years after addition to the list. The profiles prepared under this paragraph shall be of those substances highest on the list of priorities under paragraph (2) for which profiles have not previously been prepared. Profiles required under this paragraph shall be revised and republished as necessary, but no less often than once every 3 years. Such profiles shall be provided to the States and made available to other interested parties.
+> Any toxicological profile or revision thereof shall reflect the Administrator of ATSDR's assessment of all relevant toxicological testing which has been peer reviewed. The profiles required to be prepared under this paragraph for those hazardous substances listed under subparagraph (A) of paragraph (2) shall be completed, at a rate of no fewer than 25 per year, within 4 years after October 17, 1986. A profile required on a substance listed pursuant to subparagraph (B) of paragraph (2) shall be completed within 3 years after addition to the list. The profiles prepared under this paragraph shall be of those substances highest on the list of priorities under paragraph (2) for which profiles have not previously been prepared. Profiles required under this paragraph shall be revised and republished as necessary, but no less often thanonce every 3 years. Such profiles shall be provided to the States and made available to other interested parties.
 
 (4) The Administrator of the ATSDR shall provide consultations upon request on health issues relating to exposure to hazardous or toxic substances, on the basis of available information, to the Administrator of EPA, State officials, and local officials. Such consultations to individuals may be provided by States under cooperative agreements established under this chapter.
 
@@ -292,7 +292,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 (B) The Administrator of ATSDR may perform health assessments for releases or facilities where individual persons or licensed physicians provide information that individuals have been exposed to a hazardous substance, for which the probable source of such exposure is a release. In addition to other methods (formal or informal) of providing such information, such individual persons or licensed physicians may submit a petition to the Administrator of ATSDR providing such information and requesting a health assessment. If such a petition is submitted and the Administrator of ATSDR does not initiate a health assessment, the Administrator of ATSDR shall provide a written explanation of why a health assessment is not appropriate.
 
-(C) In determining the priority in which to conduct health assessments under this subsection, the Administrator of ATSDR, in consultation with the Administrator of EPA, shall give priority to those facilities at which there is documented evidence of the release of hazardous substances, at which the potential risk to human health appears highest, and for which in the judgment of the Administrator of ATSDR existing health assessment data are inadequate to assess the potential risk to human health as provided in subparagraph (F). In determining the priorities for conducting health assessments under this subsection, the Administrator of ATSDR shall consider the National Priorities List schedules and the needs of the Environmental Protection Agency and other Federal agencies pursuant to schedules for remedial investigation and feasibility studies.
+(C) In determining the priority in which to conduct health assessments under this subsection, the Administrator of ATSDR, in consultation with the Administrator of EPA, shall give priority to those facilities at which there is documented evidence of the release of hazardous substances, at which the potential risk to human health appears highest, and for which in the judgment of the Administrator of ATSDR existing health assessment data are inadequate to assess the potential risk to human health as provided in subparagraph (F). In determining the priorities for conducting health assessments under this subsection, the Administrator ofATSDR shall consider the National Priorities List schedules and the needs of the Environmental Protection Agency and other Federal agencies pursuant to schedules for remedial investigation and feasibility studies.
 
 (D) Where a health assessment is done at a site on the National Priorities List, the Administrator of ATSDR shall complete such assessment promptly and, to the maximum extent practicable, before the completion of the remedial investigation and feasibility study at the facility concerned.
 
@@ -338,7 +338,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 (12) In any case which is the subject of a petition, a health assessment or study, or a research program under this subsection, nothing in this subsection shall be construed to delay or otherwise affect or impair the authority of the President, the Administrator of ATSDR, or the Administrator of EPA to exercise any authority vested in the President, the Administrator of ATSDR or the Administrator of EPA under any other provision of law (including, but not limited to, the imminent hazard authority of section 7003 of the Solid Waste Disposal Act \[42 U.S.C. 6973\]) or the response and abatement authorities of this chapter.
 
-(13) All studies and results of research conducted under this subsection (other than health assessments) shall be reported or adopted onlyafter appropriate peer review. Such peer review shall be completed, to the maximum extent practicable, within a period of 60 days. In the case of research conducted under the National Toxicology Program, such peer review may be conducted by the Board of Scientific Counselors. In the case of other research, such peer review shall be conducted by panels consisting of no less than three nor more than seven members, who shall be disinterested scientific experts selected for such purpose by the Administrator of ATSDR or the Administrator of EPA, as appropriate, on the basis of their reputation for scientific objectivity and the lack of institutional ties with any person involved in the conduct of the study or research under review. Support services for such panels shall be provided by the Agency for Toxic Substances and Disease Registry, or by the Environmental Protection Agency, as appropriate.
+(13) All studies and results of research conducted under this subsection (other than health assessments) shall be reported or adopted only after appropriate peer review. Such peer review shall be completed, to the maximum extent practicable, within a period of 60 days. In the case of research conducted under the National Toxicology Program, such peer review may be conducted by the Board of Scientific Counselors. In the case of other research, such peer review shall be conducted by panels consisting of no less than three nor more than seven members, who shall be disinterested scientific experts selected for such purpose by the Administrator of ATSDR or the Administrator of EPA, as appropriate, on the basis of their reputation for scientific objectivity and the lack of institutional ties with any person involved in the conduct of the study or research under review. Support services for such panels shall be provided by the Agency for Toxic Substances and Disease Registry, or by the Environmental Protection Agency, as appropriate.
 
 (14) In the implementation of this subsection and other health-related authorities of this chapter, the Administrator of ATSDR shall assemble, develop as necessary, and distribute to the States, and upon request to medical colleges, physicians, and other health professionals, appropriate educational materials (including short courses) on the medical surveillance, screening, and methods of diagnosis and treatment of injury or disease related to exposure to hazardous substances (giving priority to those listed in paragraph (2)), through such means as the Administrator of ATSDR deems appropriate.
 
@@ -382,9 +382,17 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;&emsp;(F) a State;
 
-&emsp;&emsp;(G) an Indian Tribe other than in Alaska; or
+&emsp;&emsp;(G) an Indian Tribe other than in Alaska;
 
-&emsp;&emsp;(H) an Alaska Native Regional Corporation and an Alaska Native Village Corporation as those terms are defined in the Alaska Native Claims Settlement Act (43 U.S.C. 1601 and following) and the Metlakatla Indian community.
+&emsp;&emsp;(H) an Alaska Native Regional Corporation and an Alaska Native Village Corporation as those terms are defined in the Alaska Native Claims Settlement Act (43 U.S.C. 1601 and following) and the Metlakatla Indian community;
+
+&emsp;&emsp;(I) an organization described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of that title;
+
+&emsp;&emsp;(J) a limited liability corporation in which all managing members are organizations described in subparagraph (I) or limited liability corporations whose sole members are organizations described in subparagraph (I);
+
+&emsp;&emsp;(K) a limited partnership in which all general partners are organizations described in subparagraph (I) or limited liability corporations whose sole members are organizations described in subparagraph (I); or
+
+&emsp;&emsp;(L) a qualified community development entity (as defined in section 45D(c)(1) of title 26).
 
 #### (2) Brownfield site characterization and assessment grant program
 
@@ -400,21 +408,25 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On approval of an application made by an eligible entity, the Administrator maymake a grant to the eligible entity to be used for programs to inventory, characterize, assess, and conduct planning related to one or more brownfield sites.
+&emsp;&emsp;&emsp;On approval of an application made by an eligible entity, the Administrator may make a grant to the eligible entity to be used for programs to inventory, characterize, assess, and conduct planning related to one or more brownfield sites.
 
 #### (ii) Site characterization and assessment
 
 &emsp;&emsp;&emsp;A site characterization and assessment carried out with the use of a grant under clause (i) shall be performed in accordance with section 9601(35)(B) of this title.
 
+#### (C) Exemption for certain publicly owned brownfield sites
+
+&emsp;&emsp;Notwithstanding paragraph (5)(B)(iii), an eligible entity described in any of subparagraphs (A) through (H) of paragraph (1) may receive a grant under this paragraph for property acquired by that eligible entity prior to January 11, 2002, even if the eligible entity does not qualify as a bona fide prospective purchaser, so long as the eligible entity has not caused or contributed to a release or threatened release of a hazardous substance at the property.
+
 #### (3) Grants and loans for brownfield remediation
 
 #### (A) Grants provided by the President
 
-&emsp;&emsp;Subject to paragraphs (4) and (5), the President shall establish a program to provide grants to—
+&emsp;&emsp;Subject to paragraphs (5) and (6), the President shall establish a program to provide grants to—
 
 &emsp;&emsp;&emsp;(i) eligible entities, to be used for capitalization of revolving loan funds; and
 
-&emsp;&emsp;&emsp;(ii) eligible entities or nonprofit organizations, where warranted, as determined by the President based on considerations under subparagraph (C), to be used directly for remediation of one or more brownfield sites owned by the entity or organization that receives the grant and in amounts not to exceed $200,000 for each site to be remediated.
+&emsp;&emsp;&emsp;(ii) eligible entities or nonprofit organizations, where warranted, as determined by the President based on considerations under subparagraph (C), to be used directly for remediation of one or more brownfield sites owned by the entity or organization that receives the grant and in amounts not to exceed $500,000 for each site to be remediated, which limit may be waived by the Administrator, but not to exceed a total of $650,000 for each site, based on the anticipated level of contamination, size, or ownership status of the site.
 
 #### (B) Loans and grants provided by eligible entities
 
@@ -442,7 +454,45 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;&emsp;Revolving loan funds that have been established before January 11, 2002, may be used in accordance with this paragraph.
 
-#### (4) General provisions
+#### (E) Exemption for certain publicly owned brownfield sites
+
+&emsp;&emsp;Notwithstanding paragraph (5)(B)(iii), an eligible entity described in any of subparagraphs (A) through (H) of paragraph (1) may receive a grant or loan under this paragraph for property acquired by that eligible entity prior to January 11, 2002, even if the eligible entity does not qualify as a bona fide prospective purchaser, so long as the eligible entity has not caused or contributed to a release or threatened release of a hazardous substance at the property.
+
+#### (4) Multipurpose brownfields grants
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (D) and paragraphs (5) and (6), the Administrator shall establish a program to provide multipurpose grants to an eligible entity based on the criteria under subparagraph (C) and the considerations under paragraph (3)(C), to carry out inventory, characterization, assessment, planning, or remediation activities at 1 or more brownfield sites in an area proposed by the eligible entity.
+
+#### (B) Grant amounts
+
+#### (i) Individual grant amounts
+
+&emsp;&emsp;&emsp;Each grant awarded under this paragraph shall not exceed $1,000,000.
+
+#### (ii) Cumulative grant amounts
+
+&emsp;&emsp;&emsp;The total amount of grants awarded for each fiscal year under this paragraph may not exceed 15 percent of the funds made available for the fiscal year to carry out this subsection.
+
+#### (C) Criteria
+
+&emsp;&emsp;In awarding a grant under this paragraph, the Administrator shall consider the extent to which the eligible entity is able—
+
+&emsp;&emsp;&emsp;(i) to provide an overall plan for revitalization of the 1 or more brownfield sites in the proposed area in which the multipurpose grant will be used;
+
+&emsp;&emsp;&emsp;(ii) to demonstrate a capacity to conduct the range of eligible activities that will be funded by the multipurpose grant; and
+
+&emsp;&emsp;&emsp;(iii) to demonstrate that a multipurpose grant will meet the needs of the 1 or more brownfield sites in the proposed area.
+
+#### (D) Condition
+
+&emsp;&emsp;As a condition of receiving a grant under this paragraph, each eligible entity shall expend the full amount of the grant by not later than the date that is 5 years after the date on which the grant is awarded to the eligible entity, unless the Administrator provides an extension.
+
+#### (E) Ownership
+
+&emsp;&emsp;An eligible entity that receives a grant under this paragraph may not expend any of the grant funds for the remediation of a brownfield site unless the eligible entity owns the brownfield site.
+
+#### (5) General provisions
 
 #### (A) Maximum grant amount
 
@@ -470,33 +520,15 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 #### (B) Prohibition
 
-#### (i) In general
+&emsp;&emsp;No part of a grant or loan under this subsection may be used for the payment of—
 
-&emsp;&emsp;&emsp;No part of a grant or loan under this subsection may be used for the payment of—
+&emsp;&emsp;&emsp;(i) a penalty or fine;
 
-&emsp;&emsp;&emsp;&emsp;(I) a penalty or fine;
+&emsp;&emsp;&emsp;(ii) a Federal cost-share requirement;
 
-&emsp;&emsp;&emsp;&emsp;(II) a Federal cost-share requirement;
+&emsp;&emsp;&emsp;(iii) a response cost at a brownfield site for which the recipient of the grant or loan is potentially liable under section 9607 of this title; or
 
-&emsp;&emsp;&emsp;&emsp;(III) an administrative cost;
-
-&emsp;&emsp;&emsp;&emsp;(IV) a response cost at a brownfield site for which the recipient of the grant or loan is potentially liable under section 9607 of this title; or
-
-&emsp;&emsp;&emsp;&emsp;(V) a cost of compliance with any Federal law (including a Federal law specified in section 9601(39)(B) of this title), excluding the cost of compliance with laws applicable to the cleanup.
-
-#### (ii) Exclusions
-
-&emsp;&emsp;&emsp;For the purposes of clause (i)(III), the term "administrative cost" does not include the cost of—
-
-&emsp;&emsp;&emsp;&emsp;(I) investigation and identification of the extent of contamination;
-
-&emsp;&emsp;&emsp;&emsp;(II) design and performance of a response action; or
-
-&emsp;&emsp;&emsp;&emsp;(III) monitoring of a natural resource.
-
-#### (iii) Exception
-
-&emsp;&emsp;&emsp;Notwithstanding clause (i)(IV), the Administrator may use up to 25 percent of the funds made available to carry out this subsection to make a grant or loan under this subsection to eligible entities that satisfy all of the elements set forth in section 9601(40) of this title to qualify as a bona fide prospective purchaser, except that the date of acquisition of the property was on or before January 11, 2002.
+&emsp;&emsp;&emsp;(iv) a cost of compliance with any Federal law (including a Federal law specified in section 9601(39)(B) of this title), excluding the cost of compliance with laws applicable to the cleanup.
 
 #### (C) Assistance for development of local government site remediation programs
 
@@ -508,9 +540,25 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 #### (D) Insurance
 
-&emsp;&emsp;A recipient of a grant or loan awarded under paragraph (2) or (3) that performs a characterization, assessment, or remediation of a brownfield site may use a portion of the grant or loan to purchase insurance for the characterization, assessment, or remediation of that site.
+&emsp;&emsp;A recipient of a grant or loan awarded under paragraph (2), (3), or (4) that performs a characterization, assessment, or remediation of a brownfield site may use a portion of the grant or loan to purchase insurance for the characterization, assessment, or remediation of that site.
 
-#### (5) Grant applications
+#### (E) Administrative costs
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;An eligible entity may use up to 5 percent of the amounts made available under a grant or loan under this subsection for administrative costs.
+
+#### (ii) Restriction
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "administrative costs" does not include—
+
+&emsp;&emsp;&emsp;&emsp;(I) investigation and identification of the extent of contamination of a brownfield site;
+
+&emsp;&emsp;&emsp;&emsp;(II) design and performance of a response action; or
+
+&emsp;&emsp;&emsp;&emsp;(III) monitoring of a natural resource.
+
+#### (6) Grant applications
 
 #### (A) Submission
 
@@ -564,7 +612,19 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;&emsp;&emsp;(x) The extent to which a grant would address or facilitate the identification and reduction of threats to the health or welfare of children, pregnant women, minority or low-income communities, or other sensitive populations.
 
-#### (6) Implementation of brownfields programs
+&emsp;&emsp;&emsp;(xi) The extent to which a grant would address a site adjacent to a body of water or a federally designated flood plain.
+
+&emsp;&emsp;&emsp;(xii) The extent to which a grant would facilitate—
+
+&emsp;&emsp;&emsp;&emsp;(I) the location at a brownfield site of a facility that generates renewable electricity from wind, solar, or geothermal energy; or
+
+&emsp;&emsp;&emsp;&emsp;(II) any energy efficiency improvement project at a brownfield site, including a project for a combined heat and power system or a district energy system.
+
+#### (D) Report on ranking criteria
+
+&emsp;&emsp;Not later than September 30, 2022, the Administrator shall submit to Congress a report regarding the Administrator's use of the ranking criteria described in subparagraph (C) in awarding grants under this subsection.
+
+#### (7) Implementation of brownfields programs
 
 #### (A) Establishment of program
 
@@ -574,7 +634,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;&emsp;The total Federal funds to be expended by the Administrator under this paragraph shall not exceed 15 percent of the total amount appropriated to carry out this subsection in any fiscal year.
 
-#### (7) Audits
+#### (8) Audits
 
 #### (A) In general
 
@@ -596,13 +656,13 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 #### (D) Report to Congress
 
-&emsp;&emsp;Not later than 3 years after January 11, 2002, the Inspector General of the Environmental Protection Agency shall submit to Congress a report that provides a description of the management of the program (including a description of the allocation of funds under this subsection).
+&emsp;&emsp;Not later than September 30, 2022, the Inspector General of the Environmental Protection Agency shall submit to Congress a report that provides a description of the management of the program (including a description of the allocation of funds under this subsection).
 
-#### (8) Leveraging
+#### (9) Leveraging
 
-&emsp;An eligible entity that receives a grant under this subsection may use the grant funds for a portion of a project at a brownfield site for which funding is received from other sources if the grant funds are used only for the purposes described in paragraph (2) or (3).
+&emsp;An eligible entity that receives a grant under this subsection may use the grant funds for a portion of a project at a brownfield site for which funding is received from other sources if the grant funds are used only for the purposes described in paragraph (2), (3), or (4).
 
-#### (9) Agreements
+#### (10) Agreements
 
 &emsp;Each grant or loan made under this subsection shall—
 
@@ -616,17 +676,17 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;&emsp;&emsp;&emsp;(II) ensure that the cleanup protects human health and the environment;
 
-&emsp;&emsp;&emsp;(ii) requires that the recipient use the grant or loan exclusively for purposes specified in paragraph (2) or (3), as applicable;
+&emsp;&emsp;&emsp;(ii) requires that the recipient use the grant or loan exclusively for purposes specified in paragraph (2), (3), or (4), as applicable;
 
 &emsp;&emsp;&emsp;(iii) in the case of an application by an eligible entity under paragraph (3)(A), requires the eligible entity to pay a matching share (which may be in the form of a contribution of labor, material, or services) of at least 20 percent, from non-Federal sources of funding, unless the Administrator determines that the matching share would place an undue hardship on the eligible entity; and
 
 &emsp;&emsp;&emsp;(iv) contains such other terms and conditions as the Administrator determines to be necessary to carry out this subsection.
 
-#### (10) Facility other than brownfield site
+#### (11) Facility other than brownfield site
 
 &emsp;The fact that a facility may not be a brownfield site within the meaning of section 9601(39)(A) of this title has no effect on the eligibility of the facility for assistance under any other provision of Federal law.
 
-#### (11) Effect on Federal laws
+#### (12) Effect on Federal laws
 
 &emsp;Nothing in this subsection affects any liability or response authority under any Federal law, including—
 
@@ -640,43 +700,77 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;&emsp;(E) the Safe Drinking Water Act (42 U.S.C. 300f et seq.).
 
-#### (12) Funding
+#### (13) Authorization of appropriations
 
-#### (A) Authorization of appropriations
+&emsp;There is authorized to be appropriated to carry out this subsection $200,000,000 for each of fiscal years 2019 through 2023.
 
-&emsp;&emsp;There is authorized to be appropriated to carry out this subsection $200,000,000 for each of fiscal years 2002 through 2006.
-
-#### (B) Use of certain funds
-
-&emsp;&emsp;Of the amount made available under subparagraph (A), $50,000,000, or, if the amount made available is less than $200,000,000, 25 percent of the amount made available, shall be used for site characterization, assessment, and remediation of facilities described in section 9601(39)(D)(ii)(II) of this title.
-
-(Pub. L. 96–510, title I, §104, Dec. 11, 1980, 94 Stat. 2774; Pub. L. 99–499, title I, §§104, 110, title II, §207(b), Oct. 17, 1986, 100 Stat. 1617, 1636, 1705; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–531, title III, §312(h), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 107–118, title II, §211(b), Jan. 11, 2002, 115 Stat. 2362; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–59, title I, §1956, Aug. 10, 2005, 119 Stat. 1515.)
+(Pub. L. 96–510, title I, §104, Dec. 11, 1980, 94 Stat. 2774; Pub. L. 99–499, title I, §§104, 110, title II, §207(b), Oct. 17, 1986, 100 Stat. 1617, 1636, 1705; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–531, title III, §312(h), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 107–118, title II, §211(b), Jan. 11, 2002, 115 Stat. 2362; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–59, title I, §1956, Aug. 10, 2005, 119 Stat. 1515; Pub. L. 115–141, div. N, §§6–13, 14(b), Mar. 23, 2018, 132 Stat. 1054–1058.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
-The Solid Waste Disposal Act, referred to in subsecs. (c)(3), (9)(D), (i)(10)(E), and (k)(11)(B), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. Subtitle C of the Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsecs. (c)(3), (9)(D), (i)(10)(E), and (k)(12)(B), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. Subtitle C of the Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 Title III of the Amendments and Reauthorization Act of 1986, referred to in subsec. (e)(7)(E)(i), probably means title III of the Superfund Amendments and Reauthorization Act of 1986, Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, known as the Emergency Planning and Community Right-To-Know Act of 1986, which is classified generally to chapter 116 (§11001 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under section 11001 of this title and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (g)(2), is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Toxic Substances Control Act, referred to in subsecs. (i)(5)(C), (D) and (k)(11)(D), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
+The Toxic Substances Control Act, referred to in subsecs. (i)(5)(C), (D) and (k)(12)(D), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (i)(5)(C), (D), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (k)(1)(H), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (k)(11)(C), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (k)(12)(C), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (k)(11)(E), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Safe Drinking Water Act, referred to in subsec. (k)(12)(E), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Codification
 
 In subsec. (g)(1), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Davis-Bacon Act" and, in subsec. (g)(2), "section 3145 of title 40" substituted for "section 276c of title 40 of the United States Code", on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (g)(1). Pub. L. 115–141, §14(b), inserted "or section 9628(a)(1)(B)(ii)(III) of this title" after "under this section".
+
+Subsec. (k). Pub. L. 115–141, §9(4), substituted "paragraph (2), (3), or (4)" for "paragraph (2) or (3)" wherever appearing.
+
+Subsec. (k)(1)(I) to (L). Pub. L. 115–141, §6, added subpars. (I) to (L).
+
+Subsec. (k)(2)(C). Pub. L. 115–141, §7(1), added subpar. (C).
+
+Subsec. (k)(3)(A). Pub. L. 115–141, §9(2), substituted "Subject to paragraphs (5) and (6)" for "Subject to paragraphs (4) and (5)" in introductory provisions.
+
+Subsec. (k)(3)(A)(ii). Pub. L. 115–141, §8, substituted "$500,000 for each site to be remediated, which limit may be waived by the Administrator, but not to exceed a total of $650,000 for each site, based on the anticipated level of contamination, size, or ownership status of the site" for "$200,000 for each site to be remediated".
+
+Subsec. (k)(3)(E). Pub. L. 115–141, §7(2), added subpar. (E).
+
+Subsec. (k)(4). Pub. L. 115–141, §9(3), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (k)(5). Pub. L. 115–141, §9(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (k)(5)(B). Pub. L. 115–141, §10(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to prohibited uses of grants or loans under subsec. (k).
+
+Subsec. (k)(5)(E). Pub. L. 115–141, §10(2), added subpar. (E).
+
+Subsec. (k)(6). Pub. L. 115–141, §9(1), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Subsec. (k)(6)(C)(xi), (xii). Pub. L. 115–141, §11(a), added cls. (xi) and (xii).
+
+Subsec. (k)(6)(D). Pub. L. 115–141, §11(b), added subpar. (D).
+
+Subsec. (k)(7). Pub. L. 115–141, §9(1), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+
+Subsec. (k)(8). Pub. L. 115–141, §9(1), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+
+Subsec. (k)(8)(D). Pub. L. 115–141, §12, substituted "September 30, 2022" for "3 years after January 11, 2002".
+
+Subsec. (k)(9) to (12). Pub. L. 115–141, §9(1), redesignated pars. (8) to (11) as (9) to (12), respectively. Former par. (12) redesignated (13).
+
+Subsec. (k)(13). Pub. L. 115–141, §13, amended par. (13) generally. Prior to amendment, par. (13) authorized appropriations for fiscal years 2002 through 2006 and specified conditions on use of certain funds.
+
+Pub. L. 115–141, §9(1), redesignated par. (12) as (13).
 
 <b>2005</b>—Subsec. (k)(4)(B)(iii). Pub. L. 109–59 added cl. (iii).
 
@@ -700,7 +794,7 @@ Subsec. (c)(1)(C). Pub. L. 99–499, §104(e)(2), added cl. (C).
 
 Subsec. (c)(3). Pub. L. 99–499, §§104(f), 207(b), substituted text of cl. (C)(ii) and sentence providing that "facility" does not include navigable waters or beds underlying those waters for "(ii) at least 50 per centum or such greater amount as the President may determine appropriate, taking into account the degree of responsibility of the State or political subdivision, of any sums expended in response to a release at a facility that was owned at the time of any disposal of hazardous substances therein by the State or a political subdivision thereof. The President shall grant the State a credit against the share of the costs for which it is responsible under this paragraph for any documented direct out-of-pocket non-Federal funds expended or obligated by the State or a political subdivision thereof after January 1, 1978, and before December 11, 1980, for cost-eligible response actions and claims for damages compensable under section 9611 of this title relating to the specific release in question: <i>Provided, however</i>, That in no event shall the amount of the credit granted exceed the total response costs relating to the release." and inserted provisions relating to remedial action to be taken on land or water held by an Indian tribe, held by the United States in trust for Indians, held by a member of an Indian Tribe (if such land or water is subject to a trust restriction on alienation), or otherwise within the borders of an Indian reservation.
 
-Subsec. (c)(4). Pub. L. 99–499, §104(g), amended par. (4) generally. Prior to amendment, par. (4) read as follows:"The President shall select appropriate remedial actions determined to be necessary to carry out this section which are to the extent practicable in accordance with the national contingency plan and which provide for that cost-effective response which provides a balance between the need for protection of public health and welfare and the environment at the facility under consideration, and the availability of amounts from the Fund established under subchapter II of this chapter to respond to other sites which present or may present a threat to public health or welfare or the environment, taking into consideration the need for immediate action."
+Subsec. (c)(4). Pub. L. 99–499, §104(g), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The President shall select appropriate remedial actions determined to be necessary to carry out this section which are to the extent practicable in accordance with the national contingency plan and which provide for that cost-effective response which provides a balance between the need for protection of public health and welfare and the environment at the facility under consideration, and the availability of amounts from the Fund established under subchapter II of this chapter to respond to other sites which present or may present a threat to public health or welfare or the environment, taking into consideration the need for immediate action."
 
 Subsec. (c)(5). Pub. L. 99–499, §104(h), added par. (5).
 

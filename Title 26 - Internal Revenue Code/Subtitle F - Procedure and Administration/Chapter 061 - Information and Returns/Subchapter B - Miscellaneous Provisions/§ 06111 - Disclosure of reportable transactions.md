@@ -24,7 +24,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) who provides any material aid, assistance, or advice with respect to organizing, managing, promoting, selling, implementing, insuring, or carrying out any reportable transaction, and
 
-&emsp;&emsp;&emsp;(ii) who directly or indirectly derives gross income in excess of the threshold amount (or such other amount as may beprescribed by the Secretary) for such aid, assistance, or advice.
+&emsp;&emsp;&emsp;(ii) who directly or indirectly derives gross income in excess of the threshold amount (or such other amount as may be prescribed by the Secretary) for such aid, assistance, or advice.
 
 #### (B) Threshold amount
 

@@ -154,7 +154,7 @@ Veterans Submitting Claims Before Date of Enactment.—If in the case of a veter
 
 "(d)
 
-Consolidation of Existing Information.—(1) For the purpose of establishing and maintaining theRegistry, the Secretary of Veterans Affairs shall compile and consolidate—
+Consolidation of Existing Information.—(1) For the purpose of establishing and maintaining the Registry, the Secretary of Veterans Affairs shall compile and consolidate—
 
 &emsp;"(A) relevant information maintained by the Veterans Benefits Administration and the Veterans Health Administration of the Department of Veterans Affairs;
 
@@ -222,7 +222,7 @@ Sec. 2. The Congress makes the following findings:
 
 "
 
-Sec. 3. The purpose of this Act is to ensure that Veterans' Administration \[now Department of Veterans Affairs\] disability compensation is provided to veterans who were exposed to ionizing radiation in connection with atmospheric nuclear tests or in connection with the American occupation of Hiroshima or Nagasaki, Japan, for all disabilities arising after that service that are connected, based on sound scientific and medical evidence, to such service (and that Veterans' Administration dependency and indemnity compensation is provided to survivors of those veterans for all deaths resulting from such disabilities)."
+Sec. 3. The purpose of this Act is to ensure that Veterans' Administration \[now Department of Veterans Affairs\] disability compensation is provided to veterans who were exposed to ionizing radiation in connection with atmospheric nuclear tests or in connection with the American occupation of Hiroshima or Nagasaki, Japan, for all disabilities arising after that service that are connected, based on sound scientific and medicalevidence, to such service (and that Veterans' Administration dependency and indemnity compensation is provided to survivors of those veterans for all deaths resulting from such disabilities)."
 
 \[Amendment by Pub. L. 102–4 to sections 2 and 3 of Pub. L. 98–542, set out above, effective at the end of the six-month period beginning on Feb. 6, 1991, except as otherwise provided, see section 10(e) of Pub. L. 102–4, set out below under sections 5 to 7 of Pub. L. 98–542.\]
 
@@ -260,7 +260,7 @@ Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veteran
 
 &emsp;"(B) a requirement that a claimant filing a claim based upon a veteran's exposure to ionizing radiation from the detonation of a nuclear device may not be required to produce evidence substantiating the veteran's exposure during active military, naval, or air service if the information in the veteran's service records and other records of the Department of Defense is not inconsistent with the claim that the veteran was present where and when the claimed exposure occurred.
 
-"(c)(1) The Administrator of Veterans' Affairs \[now Secretary of Veterans Affairs\] shall develop the regulations required by this section (and any amendment to those regulations) through a public review and comment process in accordance with the provisions of section 553 of title 5, United States Code. That process may include consideration by the Administrator of the recommendations of the Veterans' Advisory Committee on Environmental Hazards and the Scientific Council thereof (established under section 6) with respect to the proposed regulations, and that process shall include consideration by the Administrator of the recommendations of the Committee and the Council with respect to the final regulations and proposed and final amendments to such regulations. The period for publicreview and comment shall be completed not later than ninety days after the proposed regulations or proposed amendments are published in the Federal Register.
+"(c)(1) The Administrator of Veterans' Affairs \[now Secretary of Veterans Affairs\] shall develop the regulations required by this section (and any amendment to those regulations) through a public review and comment process in accordance with the provisions of section 553 of title 5, United States Code. That process may include consideration by the Administrator of the recommendations of the Veterans' Advisory Committee on Environmental Hazards and the Scientific Council thereof (established under section 6) with respect to the proposed regulations, and that process shall include consideration by the Administrator of the recommendations of the Committee and the Council with respect to the final regulations and proposed and final amendments to such regulations. The period for public review and comment shall be completed not later than ninety days after the proposed regulations or proposed amendments are published in the Federal Register.
 
 "(2)(A) Not later than one hundred and eighty days after the date of the enactment of this Act \[Oct. 24, 1984\], the Administrator \[now Secretary\] shall develop and publish in the Federal Register a proposed version of the regulations required to be prescribed by this section.
 
@@ -322,9 +322,9 @@ Sec. 7. (a) In connection with the duties of the Director of the Defense Nuclear
 
 \[Pub. L. 102–4, §10(e), Feb. 6, 1991, 105 Stat. 20, as amended by Pub. L. 102–86, title V, §503(b)(2), Aug. 14, 1991, 105 Stat. 425, provided that:
 
-\["(1) Except as provided in paragraph (2), the amendments made by this section \[amending sections 2 and 3of Pub. L. 98–542, set out above, and sections 5 and 6 of Pub. L. 98–542, set out above\] shall take effect at the end of the two-month period beginning on the date of the enactment of the Veterans' Benefits Programs Improvement Act of 1991 \[Aug. 14, 1991\].
+\["(1) Except as provided in paragraph (2), the amendments made by this section \[amending sections 2 and 3 of Pub. L. 98–542, set out above, and sections 5 and 6 of Pub. L. 98–542, set out above\] shall take effect at the end of the two-month period beginning on the date of the enactment of the Veterans' Benefits Programs Improvement Act of 1991 \[Aug. 14, 1991\].
 
-\["(2)(A) If the Secretary of Veterans Affairs determines before the end of such period that the Environmental Hazards Advisory Committee established under section 6 of Public Law 98–542 (38 U.S.C. 354 note) \[set out above\] has completed its responsibilities under that section and the directives of the Secretary pursuant to the Nehmer case court order, the amendments made by this section shall take effect as of the date of such determination.
+\["(2)(A) If the Secretary of Veterans Affairs determines before the end of such period that the Environmental Hazards Advisory Committee established under section 6 of Public Law 98–542 (38 U.S.C. 354 note) \[set out above\] has completed its responsibilities under thatsection and the directives of the Secretary pursuant to the Nehmer case court order, the amendments made by this section shall take effect as of the date of such determination.
 
 \["(B) For purposes of this paragraph, the term 'Nehmer case court order' means the court order dated May 2, 1989, in the case of Nehmer v. Department of Veterans Affairs, in the United States district court for the northern district of California (civil action docket number C–86–6160 TEH).
 

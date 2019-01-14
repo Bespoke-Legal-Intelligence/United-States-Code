@@ -108,7 +108,7 @@ Nonapplicability.—This section does not apply to—
 
 (3) Assistance under this section may include—
 
-&emsp;(A) use of personnel of the Department of Defense to arrest persons and conduct searches and seizures with respect to violations of this section; and
+&emsp;(A) use of personnel of the Department of Defense to arrest persons and conduct searchesand seizures with respect to violations of this section; and
 
 &emsp;(B) such other activity as is incidental to the enforcement of this section, or to the protection of persons or property from conduct that violates this section.
 

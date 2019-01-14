@@ -82,7 +82,7 @@ July 30, 1947, ch. 394, 61 Stat. 675; Aug. 8, 1949, ch. 403, §5, 63 Stat. 576.
 
 In subsection (a), the words "within his establishment", "of time", and the opening clauses of 5:626s–1, 10:1269a, and 34:553b, are omitted as surplusage. The words "not available from another local source" are substituted for the words "not otherwise available from local private or public sources".
 
-In subsection (b), the words "of sales under subsection (a)" are substituted for the words "received for any such utilities and related services sold pursuant tothe authority of said sections". The words "or appropriations" are omitted as surplusage.
+In subsection (b), the words "of sales under subsection (a)" are substituted for the words "received for any such utilities and related services sold pursuant to the authority of said sections". The words "or appropriations" are omitted as surplusage.
 
 #### Prior Provisions
 

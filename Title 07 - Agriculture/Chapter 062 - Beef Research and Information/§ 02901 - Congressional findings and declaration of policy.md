@@ -32,7 +32,7 @@ Pub. L. 94–294, §21, May 28, 1976, 90 Stat. 538, provided that: "This Act \[e
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–198, title XVI, §1601(a), Dec. 23, 1985, 99 Stat. 1597, provided that: "This section \[amending this section and sections 2902 to 2911 of this title, omitting sections 2912 to 2918 of this title and provisions set outas a note under this section, and enacting provisions set out as a note under this section\] may be cited as the 'Beef Promotion and Research Act of 1985'."
+Pub. L. 99–198, title XVI, §1601(a), Dec. 23, 1985, 99 Stat. 1597, provided that: "This section \[amending this section and sections 2902 to 2911 of this title, omitting sections 2912 to 2918 of this title and provisions set out as a note under this section, and enacting provisions set out as a note under this section\] may be cited as the 'Beef Promotion and Research Act of 1985'."
 
 #### Short Title
 

@@ -1,0 +1,34 @@
+### §1104. Recognition of Coast Guard personnel for excellence in acquisition
+
+(a)
+
+In General.—The Commandant shall maintain a program to recognize excellent performance by individuals and teams comprised of officers, members, and employees of the Coast Guard that contributed to the long-term success of a Coast Guard acquisition project or program.
+
+(b)
+
+Elements.—The program shall include—
+
+&emsp;(1) specific award categories, criteria, and eligibility and manners of recognition;
+
+&emsp;(2) procedures for the nomination by personnel of the Coast Guard of individuals and teams comprised of officers, members, and employees of the Coast Guard for recognition under the program; and
+
+&emsp;(3) procedures for the evaluation of nominations for recognition under the program by one or more panels of individuals from the Government, academia, and the private sector who have such expertise and are appointed in such manner as the Commandant shall establish for the purposes of this program.
+
+(c)
+
+Award of Cash Bonuses.—As part of the program required by subsection (a), the Commandant, subject to the availability of appropriations, may award to any civilian employee recognized pursuant to the program a cash bonus to the extent that the performance of such individual so recognized warrants the award of such bonus.
+
+(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2934, §563; amended Pub. L. 111–330, §1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 114–328, div. A, title VIII, §899(b)(1)(C), Dec. 23, 2016, 130 Stat. 2333; renumbered §1104, Pub. L. 115–282, title I, §108(b), Dec. 4, 2018, 132 Stat. 4208.)
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–282 renumbered section 563 of this title as this section.
+
+<b>2016</b>—Subsec. (a). Pub. L. 114–328 substituted "The Commandant shall maintain" for "Not later than 180 days after the date of enactment of the Coast Guard Authorization Act of 2010, the Commandant shall commence implementation of".
+
+<b>2010</b>—Pub. L. 111–330 amended Pub. L. 111–281, §402(a), which enacted this section.
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–330, §1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(4) is effective with the enactment of Pub. L. 111–281.
+

@@ -2,7 +2,7 @@
 
 #### (a) Analyst protections
 
-The Commission, or upon the authorization and direction of the Commission, a registered securities association or national securities exchange, shall have adopted, not later than 1 year after July 30, 2002, rules reasonably designed to address conflicts of interest that can arise when securities analysts recommend equity securities in research reports and public appearances, in order to improve the objectivity of research and provide investors with more useful and reliable information, including rules designed—
+The Commission, or upon the authorization and direction of the Commission, a registered securities association or national securities exchange, shall have adopted, not later than 1 year after July 30, 2002, rules reasonably designed to address conflicts of interest that can arise when securities analysts recommend equity securitiesin research reports and public appearances, in order to improve the objectivity of research and provide investors with more useful and reliable information, including rules designed—
 
 &emsp;(1) to foster greater public confidence in securities research, and to protect the objectivity and independence of securities analysts, by—
 
@@ -46,7 +46,7 @@ In this section—
 
 &emsp;(1) the term "securities analyst" means any associated person of a registered broker or dealer that is principally responsible for, and any associated person who reports directly or indirectly to a securities analyst in connection with, the preparation of the substance of a research report, whether or not any such person has the job title of "securities analyst"; and
 
-&emsp;(2) the term "research report" means a written or electronic communication that includes an analysis of equity securities of individual companies or industries, and that provides information reasonably sufficient upon which to base an investment decision.
+&emsp;(2) the term "research report" means a written or electronic communication that includesan analysis of equity securities of individual companies or industries, and that provides information reasonably sufficient upon which to base an investment decision.
 
 (June 6, 1934, ch. 404, title I, §15D, as added Pub. L. 107–204, title V, §501(a), July 30, 2002, 116 Stat. 791; amended Pub. L. 112–106, title I, §105(b), Apr. 5, 2012, 126 Stat. 311.)
 
@@ -64,5 +64,5 @@ Pub. L. 112–106, title I, §105(d), Apr. 5, 2012, 126 Stat. 311, provided that
 
 #### Commission Authority
 
-Pub. L. 107–204, title V, §501(c), July 30, 2002, 116 Stat. 793, provided that: "The Commission may promulgateand amend its regulations, or direct a registered securities association or national securities exchange to promulgate and amend its rules, to carry out section 15D of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–6\], as added by this section, as is necessary for the protection of investors and in the public interest."
+Pub. L. 107–204, title V, §501(c), July 30, 2002, 116 Stat. 793, provided that: "The Commission may promulgate and amend its regulations, or direct a registered securities association or national securities exchange to promulgate and amend its rules, to carry out section 15D of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–6\], as added by this section, as is necessary for the protection of investors and in the public interest."
 

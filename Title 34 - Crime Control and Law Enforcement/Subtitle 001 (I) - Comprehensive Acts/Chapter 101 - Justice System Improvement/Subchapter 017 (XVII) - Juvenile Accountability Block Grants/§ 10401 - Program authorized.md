@@ -6,7 +6,7 @@ The Attorney General is authorized to provide grants to States, for use by State
 
 #### (b) Authorized activities
 
-Amounts paid to a State or a unit of local government under this subchapter shall be used bythe State or unit of local government for the purpose of strengthening the juvenile justice system, which includes—
+Amounts paid to a State or a unit of local government under this subchapter shall be used by the State or unit of local government for the purpose of strengthening the juvenile justice system, which includes—
 
 &emsp;(1) developing, implementing, and administering graduated sanctions for juvenile offenders;
 

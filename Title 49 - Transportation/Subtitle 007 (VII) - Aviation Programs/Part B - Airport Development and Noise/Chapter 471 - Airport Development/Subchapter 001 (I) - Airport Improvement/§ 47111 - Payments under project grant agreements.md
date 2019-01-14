@@ -70,7 +70,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §519(b) (related to payment); ad
 
 In subsection (a), the words "the terms of" are omitted as surplus. The words "totaling" and "total" are substituted for "in an aggregate amount" and "aggregate" for consistency in the revised title. The words "from time to time" are omitted as surplus. The words "before the project is completed" are substituted for "in advance of accomplishment of the airport project to which the payments relate" for consistency in this chapter and to eliminate unnecessary words.
 
-In subsection (b), the words "at any time" are omitted as surplus. The words "project for which an advance payment was made has not been completed within a reasonable time" are substituted for "any airport development to which the advance payments relate has not been accomplished within a reasonable time or the project is not completed" for clarity, for consistency in this chapter, and to eliminate unnecessary words.
+In subsection (b), the words "at any time" are omitted as surplus. The words "project for which an advance payment was made has not been completed within a reasonable time" are substituted for "any airport development to which the advance payments relate hasnot been accomplished within a reasonable time or the project is not completed" for clarity, for consistency in this chapter, and to eliminate unnecessary words.
 
 In subsection (d)(1) and (2), the word "sponsor" is substituted for "recipient" and "grant recipient" for clarity.
 

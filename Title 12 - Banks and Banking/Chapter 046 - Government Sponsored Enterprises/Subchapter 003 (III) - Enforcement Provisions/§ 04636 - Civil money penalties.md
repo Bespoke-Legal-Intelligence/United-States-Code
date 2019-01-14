@@ -74,7 +74,7 @@ The Director may impose a civil money penalty in accordance with this section on
 
 #### (2) Factors in determining amount of penalty
 
-&emsp;In determining the amount of a penalty under this section, the Director shall give consideration to such factors as the gravity of the violation, any history of prior violations, the effect of the penalty on the safety and soundness of the regulated entity, any injury to the public, any benefits received, and deterrence of future violations, and any other factors the Director may determine by regulation to be appropriate.
+&emsp;In determining the amount of a penalty under this section, the Director shall give consideration to such factors as the gravity of the violation, any history of prior violations, the effect of the penalty on the safety and soundness of the regulated entity, any injury to the public, any benefits received, and deterrence of future violations, and any other factors theDirector may determine by regulation to be appropriate.
 
 #### (3) Review of imposition of penalty
 

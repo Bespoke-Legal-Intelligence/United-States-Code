@@ -8,7 +8,7 @@
 
 #### (2) Use of or exposure to food of concern
 
-&emsp;If the Secretary believes that there is a reasonable probability that the use of or exposure to an article of food, and any other article of food that the Secretary reasonably believes is likely to be affected in a similar manner, will cause serious adverse health consequences or death to humans or animals, each person (excluding farms and restaurants) who manufactures, processes, packs, distributes, receives, holds, or imports such article shall, at the request of an officer or employee duly designated by the Secretary, permit such officer or employee, upon presentation of appropriate credentials and a written notice to such person, at reasonable times and within reasonable limits and in a reasonable manner, to have access to and copy all records relating to such article and to any other article of food that the Secretary reasonably believes is likely to be affected in a similar manner, that are needed to assist the Secretary in determining whether there is a reasonable probability that the use of or exposure to the food will cause serious adverse health consequences or death to humans or animals.
+&emsp;If the Secretary believes that there is a reasonable probability that the use of or exposure to an article of food, and any other article of food that the Secretary reasonably believes is likely to be affected in a similar manner, will cause serious adverse health consequences or death to humans or animals, each person (excluding farms and restaurants) who manufactures, processes, packs, distributes, receives, holds, or imports such article shall, at the request of an officer or employee duly designated by the Secretary, permit such officer or employee, upon presentation of appropriate credentials and a written notice to such person, at reasonable times and within reasonable limits and in a reasonable manner, to have access to and copy all records relating to such article and to any other article of food that the Secretary reasonably believes is likely to be affected in a similar manner, that are needed to assist the Secretary in determiningwhether there is a reasonable probability that the use of or exposure to the food will cause serious adverse health consequences or death to humans or animals.
 
 #### (3) Application
 
@@ -32,7 +32,7 @@ This section shall not be construed—
 
 &emsp;(3) to have any legal effect on section 552 of title 5 or section 1905 of title 18; or
 
-&emsp;(4) to extend to recipes for food, financial data, pricing data, personnel data, researchdata, or sales data (other than shipment data regarding sales).
+&emsp;(4) to extend to recipes for food, financial data, pricing data, personnel data, research data, or sales data (other than shipment data regarding sales).
 
 (June 25, 1938, ch. 675, §414, as added Pub. L. 107–188, title III, §306(a), June 12, 2002, 116 Stat. 669; amended Pub. L. 111–353, title I, §101(a), Jan. 4, 2011, 124 Stat. 3886.)
 

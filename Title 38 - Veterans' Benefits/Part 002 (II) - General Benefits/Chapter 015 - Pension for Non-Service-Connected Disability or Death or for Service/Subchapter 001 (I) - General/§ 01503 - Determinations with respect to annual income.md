@@ -84,7 +84,7 @@ Subsec. (a)(10)(A). Pub. L. 102–54, §14(b)(5)(B), substituted "Internal Reven
 
 <b>1982</b>—Subsec. (a)(10)(A). Pub. L. 97–295 inserted "(26 U.S.C. 6012(a))" after "Code of 1954".
 
-<b>1978</b>—Subsec. (a)(1). Pub. L. 95–588, §102(a)(1), (2), redesignated par. (2) as (1) and struck out former par. (1)which related to payments of six-months death gratuity.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–588, §102(a)(1), (2), redesignated par. (2) as (1) and struck out former par. (1) which related to payments of six-months death gratuity.
 
 Subsec. (a)(2). Pub. L. 95–588, §102(a)(3), redesignated par. (3) as (2) and, as so redesignated, struck out ", and chapters 11 and 13 (except section 412(a)) of this title" after "chapter". Former par. (2) redesignated (1).
 

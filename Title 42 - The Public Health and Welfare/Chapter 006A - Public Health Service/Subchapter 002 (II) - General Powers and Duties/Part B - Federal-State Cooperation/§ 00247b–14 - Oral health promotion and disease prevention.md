@@ -82,7 +82,7 @@
 
 &emsp;&emsp;(B) be a public elementary or secondary school—
 
-&emsp;&emsp;&emsp;(i) that is located in an urban area in which and <sup>1</sup> more than 50 percent of the student population is participating in Federal or State free or reduced meal programs; or
+&emsp;&emsp;&emsp;(i) that is located in an urban area in which and <sup>1</sup> more than 50 percent of thestudent population is participating in Federal or State free or reduced meal programs; or
 
 &emsp;&emsp;&emsp;(ii) that is located in a rural area and, with respect to the school district in which the school is located, the district involved has a median income that is at or below 235 percent of the poverty line, as defined in section 9902(2) of this title.
 
@@ -90,7 +90,7 @@
 
 #### (1) Cooperative agreements
 
-&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall enter into cooperative agreements with State, territorial, and Indian tribes or tribal organizations (as those terms are defined in section 1603 of title 25) to establish oral health leadership and program guidance,oral health data collection and interpretation,<sup>2</sup> (including determinants of poor oral health among vulnerable populations), a multi-dimensional delivery system for oral health, and to implement science-based programs (including dental sealants and community water fluoridation) to improve oral health.
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall enter into cooperative agreements with State, territorial, and Indian tribes or tribal organizations (as those terms are defined in section 1603 of title 25) to establish oral health leadership and program guidance, oral health data collection and interpretation,<sup>2</sup> (including determinants of poor oral health among vulnerable populations), a multi-dimensional delivery system for oral health, and to implement science-based programs (including dental sealants and community water fluoridation) to improve oral health.
 
 #### (2) Authorization of appropriations
 

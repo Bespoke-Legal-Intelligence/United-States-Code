@@ -30,7 +30,7 @@ Not later than 1 year after July 29, 2010, the Secretary of the Interior, the At
 
 #### (b) Character of activities
 
-To the extent that there are new activities undertaken pursuant to this chapter, those activities shall supplement, not supplant, activities, programs, and local actions that are ongoing on October 27, 1986. Such activities shall be undertaken in the manner least disruptive totribal control, in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> and local control, in accordance with section 2010 <sup>1</sup> of this title.
+To the extent that there are new activities undertaken pursuant to this chapter, those activities shall supplement, not supplant, activities, programs, and local actions that are ongoing on October 27, 1986. Such activities shall be undertaken in the manner least disruptive to tribal control, in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> and local control, in accordance with section 2010 <sup>1</sup> of this title.
 
 #### (c) Consultation
 

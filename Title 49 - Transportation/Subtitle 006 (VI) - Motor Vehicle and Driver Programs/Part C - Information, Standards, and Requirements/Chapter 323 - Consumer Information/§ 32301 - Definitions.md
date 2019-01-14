@@ -4,7 +4,7 @@ In this chapter—
 
 &emsp;(1) "crash avoidance" means preventing or mitigating a crash;
 
-&emsp;(2) "crashworthiness" means the protection a passenger motor vehicle gives its passengersagainst personal injury or death from a motor vehicle accident; and
+&emsp;(2) "crashworthiness" means the protection a passenger motor vehicle gives its passengers against personal injury or death from a motor vehicle accident; and
 
 &emsp;(3) "damage susceptibility" means the susceptibility of a passenger motor vehicle to damage in a motor vehicle accident.
 

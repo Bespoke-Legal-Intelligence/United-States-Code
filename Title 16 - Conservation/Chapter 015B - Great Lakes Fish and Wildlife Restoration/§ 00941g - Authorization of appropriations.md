@@ -10,7 +10,7 @@ There are authorized to be appropriated to the Director for each of fiscal years
 
 &emsp;&emsp;(B) the lesser of 5 percent or $300,000 shall be allocated to the United States Fish and Wildlife Service to cover costs incurred in administering the proposals by any entity; and
 
-&emsp;(2) $2,000,000, which shall be allocated for the activities of the Upper Great Lakes Fish andWildlife Conservation Offices and the Lower Great Lakes Fish and Wildlife Conservation Office under section 941e of this title.
+&emsp;(2) $2,000,000, which shall be allocated for the activities of the Upper Great Lakes Fish and Wildlife Conservation Offices and the Lower Great Lakes Fish and Wildlife Conservation Office under section 941e of this title.
 
 #### (b) Prohibition on use of funds for Federal acquisition of interests in land
 

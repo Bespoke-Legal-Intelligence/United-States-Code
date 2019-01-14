@@ -62,7 +62,7 @@ No license, permit, lease, right-of-way, authorization, or other approval requir
 
 #### (g) Study of in-State needs
 
-The holder of the certificate of public convenience and necessity issued, modified, or amended by the Commission for an Alaska natural gas transportation project shall demonstrate that the holder has conducted a study of Alaska in-State needs, including tie-in points along the Alaska natural gas transportation project for in-State access.
+The holder of the certificate of public convenience and necessity issued, modified, or amended by the Commission for an Alaska natural gas transportation project shall demonstrate thatthe holder has conducted a study of Alaska in-State needs, including tie-in points along the Alaska natural gas transportation project for in-State access.
 
 #### (h) Alaska royalty gas
 

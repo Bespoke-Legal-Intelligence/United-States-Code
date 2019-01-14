@@ -2,7 +2,7 @@
 
 As used in this subchapter, the term "improved property" means a detached, one-family dwelling which meets each of the following criteria:
 
-&emsp;(1) The construction of the dwelling began before the date (shown in the table contained in this section) corresponding to the appropriate map.
+&emsp;(1) The construction of the dwelling began before the date (shown in the table containedin this section) corresponding to the appropriate map.
 
 &emsp;(2) The property is located within the boundaries delineated on the map described in such table which corresponds to such date.
 

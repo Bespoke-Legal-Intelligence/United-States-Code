@@ -1,6 +1,6 @@
 ### §548. Salaries
 
-Subject to sections 5315 through 5317 of title 5, the Attorney General shall fix the annual salaries of United States attorneys, assistant United States attorneys, and attorneys appointed under section 543 of this title at rates of compensation not in excess of the rate of basic compensation provided for Executive Level IV of the Executive Schedule set forth in section 5315 of title 5, United States Code.
+Subject to sections 5315 through 5317 of title 5, the Attorney General shall fix the annual salaries of United States attorneys, assistant United States attorneys, and attorneys appointed under section 543 of this title at rates of compensation not in excess of the rate of basic compensation provided for Executive Level IV of the ExecutiveSchedule set forth in section 5315 of title 5, United States Code.
 
 (Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 98–473, title II, §1701(a) Oct. 12, 1984, 98 Stat. 2184.)
 
@@ -48,7 +48,7 @@ A prior section 548, act June 25, 1948, ch. 646, 62 Stat. 912, related to admini
 
 #### Salary Increases
 
-<b>1969</b>—Increase in the rates of pay of United States Attorneys and Assistant United States Attorneys whoseannual salaries are fixed pursuant to this section, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, by amounts equal, as nearly as may be practicable, to the increases provided pursuant to section 2 of Pub. L. 91–231, which raised corresponding rates by 6 percent, see Pub. L. 91–231, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees.
+<b>1969</b>—Increase in the rates of pay of United States Attorneys and Assistant United States Attorneys whose annual salaries are fixed pursuant to this section, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, by amounts equal, as nearly as may be practicable, to the increases provided pursuant to section 2 of Pub. L. 91–231, which raised corresponding rates by 6 percent, see Pub. L. 91–231, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
 <b>1967</b>—Pub. L. 90–206, title II, §211(a), Dec. 16, 1967, 81 Stat. 633, provided that: "The rates of basic pay of United States attorneys and assistant United States attorneys whose annual salaries are fixed pursuant to section 548 of title 28, United States Code shall be increased, effective on the effective date of section 202 of this title \[see Effective Date of 1967 Amendment note set out under section 5332 of Title 5\] by amounts equal, as nearly as may be practicable, to the increases provided by section 202(a) of this title \[see section 5332(a) of Title 5\] for corresponding rates of basic pay."
 
@@ -72,5 +72,5 @@ Act Mar. 2, 1955, ch. 9, §2(b), 69 Stat. 10, provided that: "The salaries of Un
 
 #### Salary Limitations
 
-Acts Aug. 5, 1953, ch. 328, title II, §202, 67 Stat. 375; July 2, 1954, ch. 456, title II, §202, 68 Stat. 421, which prescribed salary limitations, were repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 657.
+Acts Aug. 5, 1953, ch. 328, title II, §202, 67 Stat. 375; July 2, 1954, ch. 456, title II, §202, 68 Stat. 421, whichprescribed salary limitations, were repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 657.
 

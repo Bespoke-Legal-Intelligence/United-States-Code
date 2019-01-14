@@ -22,6 +22,10 @@ For the purposes of this subchapter, the term "qualified opportunity zone" means
 
 &emsp;A chief executive officer of a State may request that the Secretary extend either the determination or consideration period, or both (determined without regard to this subparagraph),<sup>1</sup> for an additional 30 days.
 
+#### (3) Special rule for Puerto Rico
+
+&emsp;Each population census tract in Puerto Rico that is a low-income community shall be deemed to be certified and designated as a qualified opportunity zone, effective on the date of the enactment of Public Law 115–97.
+
 #### (c) Other definitions
 
 For purposes of this subsection—
@@ -48,11 +52,11 @@ For purposes of this subsection—
 
 #### (1) In general
 
-&emsp;Except as provided by paragraph (2), the number of population census tracts in a State that may be designated as qualified opportunity zones under this section may not exceed 25 percent of the number of low-income communities in the State.
+&emsp;Except as provided by paragraph (2) and subsection (b)(3), the number of population census tracts in a State that may be designated as qualified opportunity zones under this section may not exceed 25 percent of the number of low-income communities in the State.
 
 #### (2) Exception
 
-&emsp;If the number of low-income communities in a State is less than 100, then a total of 25 ofsuch tracts may be designated as qualified opportunity zones.
+&emsp;If the number of low-income communities in a State is less than 100, then a total of 25 of such tracts may be designated as qualified opportunity zones.
 
 #### (e) Designation of tracts contiguous with low-income communities
 
@@ -72,11 +76,19 @@ For purposes of this subsection—
 
 A designation as a qualified opportunity zone shall remain in effect for the period beginning on the date of the designation and ending at the close of the 10th calendar year beginning on or after such date of designation.
 
-(Added Pub. L. 115–97, title I, §13823(a), Dec. 22, 2017, 131 Stat. 2183.)
+(Added Pub. L. 115–97, title I, §13823(a), Dec. 22, 2017, 131 Stat. 2183; amended Pub. L. 115–123, div. D, title II, §41115, Feb. 9, 2018, 132 Stat. 161.)
 
 #### References in Text
 
-The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (c)(2)(B), probably means the date of enactment of title I of Pub. L. 115–97, which was approved Dec. 22, 2017. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97.
+The date of the enactment of Public Law 115–97, referred to in subsec. (b)(3), is Dec. 22, 2017.
+
+The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (c)(2)(B), probably means the date of enactment of title I of Pub. L. 115–97, which was approved Dec. 22, 2017. Prior versions of the bill thatwas enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(3). Pub. L. 115–123, §41115(a), added par. (3).
+
+Subsec. (d)(1). Pub. L. 115–123, §41115(b), inserted "and subsection (b)(3)" after "paragraph (2)".
 
 #### Effective Date
 

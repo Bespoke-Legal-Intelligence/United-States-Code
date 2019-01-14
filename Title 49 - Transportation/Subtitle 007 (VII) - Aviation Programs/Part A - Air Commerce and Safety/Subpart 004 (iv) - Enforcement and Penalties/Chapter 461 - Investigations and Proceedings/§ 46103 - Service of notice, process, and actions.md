@@ -2,11 +2,11 @@
 
 (a)
 
-Designating Agents.—(1) Each air carrier and foreign air carrier shall designate an agent on whom service of notice and process in a proceeding before, and an action of, the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may be made.
+Designating Agents.—(1) Each air carrier and foreign air carrier shall designate an agent on whom service of notice and process in a proceeding before, and an action of, the Secretary of Transportation (or the Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration) may be made.
 
 (2) The designation—
 
-&emsp;(A) shall be in writing and filed with the Secretary, Under Secretary, or Administrator; and
+&emsp;(A) shall be in writing and filed with the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration; and
 
 &emsp;(B) may be changed in the same way as originally made.
 
@@ -24,9 +24,9 @@ Service.—(1) Service may be made—
 
 (c)
 
-Serving Agents.—Service on an agent designated under this section shall be made at the office or usual place of residence of the agent. If an air carrier or foreign air carrier does not have a designated agent, service may be made by posting the notice, process, or action in the office of the Secretary, Under Secretary, or Administrator.
+Serving Agents.—Service on an agent designated under this section shall be made at the office or usual place of residence of the agent. If an air carrier or foreign air carrier does not have a designated agent, service may be made by posting the notice, process, or action in the office of the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1227; Pub. L. 107–71, title I, §140(b)(1), (2), Nov. 19, 2001, 115 Stat. 641.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1227; Pub. L. 107–71, title I, §140(b)(1), (2), Nov. 19, 2001, 115 Stat. 641; Pub. L. 115–254, div. K, title I, §1991(f)(1)–(4), Oct. 5, 2018, 132 Stat. 3642.)
 
 Historical and Revision Notes
 
@@ -88,13 +88,17 @@ In subsection (c), the words "with like effect as if made personally upon such c
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1991(f)(3), substituted "by the Administrator of the Federal Aviation Administration)" for "by the Administrator)".
+
+Pub. L. 115–254, §1991(f)(1), substituted "Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration" for "Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary".
+
+Subsec. (a)(2)(A). Pub. L. 115–254, §1991(f)(2), (4), substituted "Administrator of the Transportation Security Administration," for "Under Secretary," and "or Administrator of the Federal Aviation Administration" for "or Administrator".
+
+Subsec. (c). Pub. L. 115–254, §1991(f)(2), (4), substituted "Administrator of the Transportation Security Administration," for "Under Secretary," and "or Administrator of the Federal Aviation Administration" for "or Administrator".
+
 <b>2001</b>—Subsec. (a)(1). Pub. L. 107–71, §140(b)(1), inserted "the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or" after "(or".
 
 Subsec. (a)(2)(A). Pub. L. 107–71, §140(b)(2), substituted ", Under Secretary, or Administrator" for "or Administrator".
 
 Subsec. (c). Pub. L. 107–71, §140(b)(2), substituted ", Under Secretary, or Administrator" for "or Administrator".
-
-#### Transfer of Functions
-
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

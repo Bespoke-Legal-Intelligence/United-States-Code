@@ -8,7 +8,7 @@ The Commission shall prescribe, within one year after February 8, 1996, regulati
 
 The regulations prescribed by the Commission pursuant to this section shall—
 
-&emsp;(1) not require a local exchange carrier to which this section applies to take any action that is economically unreasonable or that is contrary to the public interest;
+&emsp;(1) not require a local exchange carrier to which this section applies to take any actionthat is economically unreasonable or that is contrary to the public interest;
 
 &emsp;(2) permit, but shall not require, the joint ownership or operation of public switched network infrastructure and services by or among such local exchange carrier and a qualifying carrier;
 

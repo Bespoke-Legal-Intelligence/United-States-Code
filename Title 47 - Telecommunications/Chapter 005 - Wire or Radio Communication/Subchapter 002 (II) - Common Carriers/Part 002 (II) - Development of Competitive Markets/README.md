@@ -16,3 +16,4 @@ Part II—Development of Competitive Markets
 - [&sect; 00259 - Infrastructure sharing](%C2%A7%2000259%20-%20Infrastructure%20sharing.md)
 - [&sect; 00260 - Provision of telemessaging service](%C2%A7%2000260%20-%20Provision%20of%20telemessaging%20service.md)
 - [&sect; 00261 - Effect on other requirements](%C2%A7%2000261%20-%20Effect%20on%20other%20requirements.md)
+- [&sect; 00262 - Ensuring the integrity of voice communications](%C2%A7%2000262%20-%20Ensuring%20the%20integrity%20of%20voice%20communications.md)

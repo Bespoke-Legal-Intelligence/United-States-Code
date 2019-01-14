@@ -48,7 +48,7 @@ Commodity only schools shall be eligible to receive donated commodities equal in
 
 (1) As used in this subsection, the term "eligible school district" has the same meaning given such term in section 1581(a) of the Food Security Act of 1985.
 
-(2) In accordance with the terms and conditions of section 1581 of such Act, the Secretary shall permit an eligible school district to continue to receive assistance in the form of cash or commodity letters of credit assistance, in lieu of commodities, to carry out the school lunch program operated in the district.
+(2) In accordance with the terms and conditions of section 1581 of such Act, the Secretaryshall permit an eligible school district to continue to receive assistance in the form of cash or commodity letters of credit assistance, in lieu of commodities, to carry out the school lunch program operated in the district.
 
 #### (h) Notice of irradiated food products
 
@@ -102,7 +102,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d). Pub. L. 111–296 struck out concluding provisions which read as follows: "Within eighteenmonths after November 10, 1977, the Secretary shall report to Congress on the impact of procedures established under this subsection, including the nutritional, economic, and administrative benefits of such procedures. In purchasing commodities for programs carried out under this chapter and the Child Nutrition Act of 1966, the Secretary shall establish procedures to ensure that contracts for the purchase of such commodities shall not be entered into unless the previous history and current patterns of the contracting party with respect to compliance with applicable meat inspection laws and with other appropriate standards relating to the wholesomeness of food for human consumption are taken into account."
+<b>2010</b>—Subsec. (d). Pub. L. 111–296 struck out concluding provisions which read as follows: "Within eighteen months after November 10, 1977, the Secretary shall report to Congress on the impact of procedures established under this subsection, including the nutritional, economic, and administrative benefits of such procedures. In purchasing commodities for programs carried out under this chapter and the Child Nutrition Act of 1966, the Secretary shall establish procedures to ensure that contracts for the purchase of such commodities shall not be entered into unless the previous history and current patterns of the contracting party with respect to compliance with applicable meat inspection laws and with other appropriate standards relating to the wholesomeness of food for human consumption are taken into account."
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–265, §117, struck out ", during the period beginning July 1, 1974, and ending June 30, 2004," before "shall—" in introductory provisions.
 

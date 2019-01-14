@@ -6,7 +6,7 @@ Except as otherwise provided in this section, in the case of a taxpayer who is a
 
 #### (b) Exception for interest, taxes, casualty losses, etc.
 
-Subsection (a) shall not apply to any deduction allowable to the taxpayer without regard toits connection with his trade or business (or with his income-producing activity).
+Subsection (a) shall not apply to any deduction allowable to the taxpayer without regard to its connection with his trade or business (or with his income-producing activity).
 
 #### (c) Exceptions for certain business or rental use; limitation on deductions for such use
 
@@ -228,7 +228,7 @@ Subsec. (f)(4). Pub. L. 97–119, §113(b)(1), added par. (4).
 
 <b>1978</b>—Subsec. (d)(3). Pub. L. 95–600 added par. (3).
 
-<b>1977</b>—Subsec. (c)(4), (5). Pub. L. 95–30 added par. (4), redesignated former par. (4) as (5) and substituted"paragraph (1), (2), or (4)" for "paragraph (1) or (2)" in introductory provisions.
+<b>1977</b>—Subsec. (c)(4), (5). Pub. L. 95–30 added par. (4), redesignated former par. (4) as (5) and substituted "paragraph (1), (2), or (4)" for "paragraph (1) or (2)" in introductory provisions.
 
 #### Effective Date of 1997 Amendment
 
@@ -256,7 +256,7 @@ Amendment by Pub. L. 97–216 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–119, title I, §113(e), Dec. 29, 1981, 95 Stat. 1642, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975, except that in the case of taxable years beginning after December 31, 1975, and before January 1, 1980, the amendment made by this section shall apply only to taxable years for which, on the date of the enactment of this Act \[Dec. 29, 1981\], the making of a refund, or the assessment of a deficiency, was not barred by law or any rule of law."
+Pub. L. 97–119, title I, §113(e), Dec. 29, 1981, 95 Stat. 1642, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1975, except that inthe case of taxable years beginning after December 31, 1975, and before January 1, 1980, the amendment made by this section shall apply only to taxable years for which, on the date of the enactment of this Act \[Dec. 29, 1981\], the making of a refund, or the assessment of a deficiency, was not barred by law or any rule of law."
 
 #### Effective Date of 1978 Amendment
 

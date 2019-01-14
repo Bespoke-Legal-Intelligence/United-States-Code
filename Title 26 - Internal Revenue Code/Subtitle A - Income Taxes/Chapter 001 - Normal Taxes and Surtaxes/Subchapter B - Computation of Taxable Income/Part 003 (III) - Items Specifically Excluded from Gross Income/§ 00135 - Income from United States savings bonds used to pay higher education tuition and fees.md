@@ -38,7 +38,7 @@ In the case of an individual who pays qualified higher education expenses during
 
 #### (C) Rounding
 
-&emsp;&emsp;If any amount as adjusted under subparagraph (B) is not a multiple of $50, suchamount shall be rounded to the nearest multiple of $50 (or if such amount is a multiple of $25, such amount shall be rounded to the next highest multiple of $50).
+&emsp;&emsp;If any amount as adjusted under subparagraph (B) is not a multiple of $50, such amount shall be rounded to the nearest multiple of $50 (or if such amount is a multiple of $25, such amount shall be rounded to the next highest multiple of $50).
 
 #### (c) Definitions
 
@@ -184,7 +184,7 @@ Subsec. (b)(2)(C). Pub. L. 101–508, §11702(h)(2), struck out "(A) or" after "
 
 Amendment by section 11002(d)(1)(M) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
-Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
+Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -230,7 +230,7 @@ Amendment by section 11702(h) of Pub. L. 101–508 effective as if included in t
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, seesection 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date
 

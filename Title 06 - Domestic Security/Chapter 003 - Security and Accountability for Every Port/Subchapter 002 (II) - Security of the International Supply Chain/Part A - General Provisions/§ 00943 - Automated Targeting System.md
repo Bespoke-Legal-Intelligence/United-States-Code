@@ -30,7 +30,7 @@ The Secretary, acting through the Commissioner, shall—
 
 #### (d) Regulations
 
-The Secretary shall promulgate regulations to carry out this section. In promulgating such regulations, the Secretary shall adhere to the parameters applicable to the development of regulations under section 343(a) of the Trade Act of 2002 (19 U.S.C. 2071 note), including provisions relating to consultation, technology, analysis, use of information, confidentiality, and timing requirements.
+The Secretary shall promulgate regulations to carry out this section. In promulgating such regulations, the Secretary shall adhere to the parameters applicable to the development of regulations under section 343(a) of the Trade Act of 2002 (19 U.S.C. 2071 note),<sup>1</sup> including provisions relating to consultation, technology, analysis, use of information, confidentiality, and timing requirements.
 
 #### (e) System improvements
 
@@ -64,5 +64,7 @@ There are authorized to be appropriated to the United States Customs and Border 
 
 #### References in Text
 
-Section 343(a) of the Trade Act of 2002, referred to in subsec. (d), is section 343(a) of title III of div. A of Pub. L. 107–210, which is set out as a note under section 2071 of Title 19, Customs Duties.
+Section 343(a) of the Trade Act of 2002, referred to in subsec. (d), is section 343(a) of Pub. L. 107–210, which was set out as a note under section 2071 of Title 19, Customs Duties, prior to editorial transfer to section 1415(a) of Title 19.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

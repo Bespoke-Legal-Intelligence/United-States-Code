@@ -26,7 +26,7 @@ Each Advisory Board shall be composed of eighteen appointed members and nonvotin
 
 #### (c) Compensation
 
-Members of an Advisory Board who are officers or employees of the Federal Government shall serve as members of the Advisory Board without compensation in addition to that received in their regular public employment.Other members of the Board shall receive compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule for each day (including traveltime) they are engaged in the performance of their duties as members of the Board.
+Members of an Advisory Board who are officers or employees of the Federal Government shall serve as members of the Advisory Board without compensation in addition to that received in their regular public employment. Other members of the Board shall receive compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule for each day (including traveltime) they are engaged in the performance of their duties as members of the Board.
 
 #### (d) Term of office; vacancy
 
@@ -38,7 +38,7 @@ The members of each Advisory Board shall select a chairman from among the appoin
 
 #### (f) Executive director; professional and clerical staff; administrative support services and facilities
 
-The Secretary shall, after consultation with and consideration of the recommendations of an Advisory Board, provide the Advisory Board with an executive director and one other professional staff member. In addition, the Secretary shall, after consultation with and consideration of the recommendations of the Advisory Board, provide the Advisory Board with such additional professional staff members, such clerical staff members, such services of consultants, such information, and (through contracts or other arrangements) such administrative support services and facilities, as the Secretary determines are necessary for the Advisory Board to carry out its functions.
+The Secretary shall, after consultation with and consideration of the recommendations of an Advisory Board, provide the Advisory Boardwith an executive director and one other professional staff member. In addition, the Secretary shall, after consultation with and consideration of the recommendations of the Advisory Board, provide the Advisory Board with such additional professional staff members, such clerical staff members, such services of consultants, such information, and (through contracts or other arrangements) such administrative support services and facilities, as the Secretary determines are necessary for the Advisory Board to carry out its functions.
 
 #### (g) Meetings
 

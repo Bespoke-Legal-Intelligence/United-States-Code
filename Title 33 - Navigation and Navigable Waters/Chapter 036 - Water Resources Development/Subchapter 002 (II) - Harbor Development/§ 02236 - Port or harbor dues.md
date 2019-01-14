@@ -20,7 +20,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 #### (3) General limitations
 
-&emsp;(A) Port or harbor dues may not be levied under this section in conjunction with a deepening feature of a navigation improvement project on any vessel if that vessel, based on its design draft, could have utilized the projectat mean low water before construction. In the case of project features which solely—
+&emsp;(A) Port or harbor dues may not be levied under this section in conjunction with a deepening feature of a navigation improvement project on any vessel if that vessel, based on its design draft, could have utilized the project at mean low water before construction. In the case of project features which solely—
 
 &emsp;&emsp;(i) widen channels or harbors,
 
@@ -100,7 +100,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 #### (A) Upon arrival of vessel
 
-&emsp;&emsp;Upon the arrival of a vessel in a harbor in which the vessel may be subject to the levy of port or harbor dues under this section, the master of that vessel shall, within forty-eight hours after arrival and before any cargo is unloaded from that vessel, deliver to the appropriate authorized representative appointed under subsection (a)(6)(C) of this section a tonnage certificate for the vessel and a manifest of the cargo aboard that vessel or, if the vessel is in ballast, a declaration to that effect.
+&emsp;&emsp;Upon the arrival of a vessel in a harbor in which the vessel may be subject to the levy of port or harbor dues under this section, the master of that vessel shall, within forty-eight hours after arrival and before anycargo is unloaded from that vessel, deliver to the appropriate authorized representative appointed under subsection (a)(6)(C) of this section a tonnage certificate for the vessel and a manifest of the cargo aboard that vessel or, if the vessel is in ballast, a declaration to that effect.
 
 #### (B) Before departure of vessel
 

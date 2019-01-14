@@ -64,9 +64,9 @@ In general.—In prescribing the evaluation factors to be included in each solic
 
 &emsp;&emsp;(A) establish clearly the relative importance assigned to the evaluation factors and subfactors, including the quality of the product or services to be provided (including technical capability, management capability, prior experience, and past performance of the offeror);
 
-&emsp;&emsp;(B) include cost or price to the Federal Government as an evaluation factor that must be considered in the evaluation of proposals; and
+&emsp;&emsp;(B) except as provided in paragraph (3), include cost or price to the Federal Government as an evaluation factor that must be considered in the evaluation of proposals; and
 
-&emsp;&emsp;(C) disclose to offerors whether all evaluation factors other than cost or price, when combined, are—
+&emsp;&emsp;(C) except as provided in paragraph (3), disclose to offerors whether all evaluation factors other than cost or price, when combined, are—
 
 &emsp;&emsp;&emsp;(i) significantly more important than cost or price;
 
@@ -76,7 +76,27 @@ In general.—In prescribing the evaluation factors to be included in each solic
 
 &emsp;(2)
 
-Restriction on implementing regulations.—Regulations implementing paragraph (1)(C) may not define the terms "significantlymore important" and "significantly less important" as specific numeric weights that would be applied uniformly to all solicitations or a class of solicitations.
+Restriction on implementing regulations.—Regulations implementing paragraph (1)(C) may not define the terms "significantly more important" and "significantly less important" as specific numeric weights that would be applied uniformly to all solicitations or a class of solicitations.
+
+&emsp;(3)
+
+Exceptions for certain indefinite delivery, indefinite quantity multiple-award contracts and certain federal supply schedule contracts for services acquired on an hourly rate.—If an executive agency issues a solicitation for one or more contracts for services to be acquired on an hourly rate basis under the authority of sections 4103 and 4106 of this title or section 152(3) of this title and section 501(b) of title 40 and the executive agency intends to make a contract award to each qualifying offeror and the contract or contracts will feature individually competed task or delivery orders based on hourly rates—
+
+&emsp;&emsp;(A) the contracting officer need not consider price as an evaluation factor for contract award; and
+
+&emsp;&emsp;(B) if, pursuant to subparagraph (A), price is not considered as an evaluation factor for contract award, cost or price to the Federal Government shall be considered in conjunction with the issuance pursuant to sections 4106(c) and 152(3) of this title of any task or delivery order under any contract resulting from the solicitation.
+
+&emsp;(4)
+
+Definition.—In paragraph (3), the term "qualifying offeror" means an offeror that—
+
+&emsp;&emsp;(A) is determined to be a responsible source;
+
+&emsp;&emsp;(B) submits a proposal that conforms to the requirements of the solicitation;
+
+&emsp;&emsp;(C) meets all technical requirements; and
+
+&emsp;&emsp;(D) is otherwise eligible for award.
 
 (d)
 
@@ -110,7 +130,11 @@ Scope of allowance.—The Federal Acquisition Regulation at a minimum shall prov
 
 &emsp;&emsp;(B) reduce the scoring of an offer on the basis of the inclusion in the offer of a plan of the offeror to allow the offeror's employees to telecommute, unless the contracting officer concerned first determines that the requirements of the agency, including security requirements, would be adversely impacted if telecommuting is allowed and documents in writing the basis for the determination.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3752.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3752; Pub. L. 115–232, div. A, title VIII, §§836(b)(9), 876, Aug. 13, 2018, 132 Stat. 1861, 1907.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(b)(9), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking "commercial items" and inserting "commercial products or commercial services". See 2018 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -135,4 +159,16 @@ June 30, 1949, ch. 288, title III, §303A, as added Pub. L. 98–369, title VII,
 Pub. L. 108–136, title XIV, §1428, Nov. 24, 2003, 117 Stat. 1670.
 
 In subsection (f)(2), the words "Not later than 180 days after the date of the enactment of this Act, the Federal Acquisition Regulatory Council shall amend" are omitted as obsolete.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–232, §836(b)(9), substituted "commercial products or commercial services" for "commercial items" in introductory provisions.
+
+Subsec. (c)(1)(B), (C). Pub. L. 115–232, §876(1), inserted "except as provided in paragraph (3)," after subpar. designation.
+
+Subsec. (c)(3), (4). Pub. L. 115–232, §876(2), added pars. (3) and (4).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by section 836(b)(9) of Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 

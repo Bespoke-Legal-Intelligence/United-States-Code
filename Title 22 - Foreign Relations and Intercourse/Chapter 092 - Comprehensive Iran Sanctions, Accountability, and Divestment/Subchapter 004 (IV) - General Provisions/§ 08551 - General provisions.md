@@ -6,7 +6,7 @@ The provisions of this Act (other than sections 105 and 305 \[22 U.S.C. 8514, 85
 
 &emsp;(1) the Government of Iran has ceased providing support for acts of international terrorism and no longer satisfies the requirements for designation as a state sponsor of terrorism (as defined in section 301 \[22 U.S.C. 8541\]) under—
 
-&emsp;&emsp;(A) section 4605(j)(1)(A) of title 50 (or any successor thereto);
+&emsp;&emsp;(A) section 4605(j)(1)(A) <sup>1</sup> of title 50 (or any successor thereto);
 
 &emsp;&emsp;(B) section 2780(d) of this title; or
 
@@ -28,7 +28,7 @@ The provisions of this Act (other than sections 105 and 305 \[22 U.S.C. 8514, 85
 
 #### (B) Special rule for report on waiving imposition of licensing requirement under section 303(c)
 
-&emsp;&emsp;In any case in which the President waives, pursuant to paragraph (1), the imposition of the licensing requirement under section 303(c) \[22 U.S.C. 8543(c)\] with respect to acountry designated as a Destination of Diversion Concern under section 303(a) \[22 U.S.C. 8543(a)\], the President shall include in the report required by subparagraph (A) of this paragraph an assessment of whether the government of the country is taking the steps described in subparagraph (A) of section 303(d)(1) \[22 U.S.C. 8543(d)(1)(A)\].
+&emsp;&emsp;In any case in which the President waives, pursuant to paragraph (1), the imposition of the licensing requirement under section 303(c) \[22 U.S.C. 8543(c)\] with respect to a country designated as a Destination of Diversion Concern under section 303(a) \[22 U.S.C. 8543(a)\], the President shall include in the report required by subparagraph (A) of this paragraph an assessment of whether the government of the country is taking the steps described in subparagraph (A) of section 303(d)(1) \[22 U.S.C. 8543(d)(1)(A)\].
 
 #### (c) Authorizations of appropriations
 
@@ -45,6 +45,8 @@ The provisions of this Act (other than sections 105 and 305 \[22 U.S.C. 8514, 85
 #### References in Text
 
 This Act, referred to in subsecs. (a) and (c)(1), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, known as the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, which enacted this chapter, amended sections 287c, 2778, and 2780 of this title, section 80a–13 of Title 15, Commerce and Trade, section 310 of Title 31, Money and Finance, and section 4315 of Title 50, War and National Defense, enacted provisions set out as notes under section 80a–13 of Title 15 and section 1701 of Title 50, and amended provisions set out as notes under section 1701 of Title 50. Title I of the Act enacted subchapter I of this chapter, amended sections 287c, 2778, and 2780 of this title, section 310 of Title 31, and section 4315 of Title 50, enacted provisions set out as a note under section 1701 of Title 50, and amended provisions set out as a note under section 1701 of Title 50. Title III of the Act enacted subchapter III of this chapter. Section 102 of the Act enacted and amended provisions set out as notes under section 1701 of Title 50. Section 107 of the Act amended sections 287c, 2778, and 2780 of this title and section 4315 of Title 50. Section 109 of the Act enacted section 8517 of this title and amended section 310 of Title 31. Section 205 of the Act amended section 80a–13 of Title 15, enacted provisions set out as a note under section 80a–13 of Title 15, and amended provisions set out as a note under section 1701 of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
+
+Section 4605(j)(1)(A) of title 50, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisionssimilar to those in former section 4605(j)(1)(A) of title 50 can be found in section 4813(c)(1)(A)(i) of title 50, as enacted by Pub. L. 115–232.
 
 #### Amendments
 
@@ -63,4 +65,6 @@ Other delegations of functions vested in the President by this section were cont
 Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under section 8801 of this title.
 
 Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under section 8501 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

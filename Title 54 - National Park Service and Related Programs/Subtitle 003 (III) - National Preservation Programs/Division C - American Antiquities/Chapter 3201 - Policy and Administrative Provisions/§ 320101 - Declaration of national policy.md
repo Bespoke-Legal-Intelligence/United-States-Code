@@ -110,13 +110,13 @@ Hubbell Trading Post National Historic Site, Arizona.—Pub. L. 89–148, Aug. 2
 
 James A. Garfield National Historic Site, Ohio.—Pub. L. 96–607, title XII, Dec. 28, 1980, 94 Stat. 3545.
 
-Jefferson National Expansion Memorial, National Historical Site, Missouri.—Designated Dec. 21, 1935.
+Jefferson National Expansion Memorial, National Historical Site, Missouri \[redesignated Gateway Arch National Park by Pub. L. 115–128, §2, Feb. 22, 2018, 132 Stat. 328 (16 U.S.C. 450jj–10)\].—Designated Dec. 21, 1935.
 
 Jimmy Carter National Historic Site, Georgia.—Pub. L. 100–206, Dec. 23, 1987, 101 Stat. 1434; Pub. L. 105–106, §1, Nov. 20, 1997, 111 Stat. 2247.
 
 John Fitzgerald Kennedy National Historic Site, Massachusetts.—Pub. L. 90–20, May 26, 1967, 81 Stat. 29.
 
-John Muir National Historic Site, California.—Pub. L. 88–547, Aug. 31, 1964, 78 Stat. 753; Pub. L. 100–563, §5, Oct. 31, 1988, 102 Stat. 2829; Pub. L. 108–385, Oct. 30, 2004, 118 Stat. 2227.
+John Muir National Historic Site, California.—Pub. L. 88–547, Aug. 31, 1964, 78 Stat. 753; Pub. L. 100–563, §5, Oct. 31, 1988, 102 Stat. 2829; Pub. L. 108–385, Oct. 30, 2004, 118 Stat. 2227; Pub. L. 115–191, June 22, 2018, 132 Stat. 1501.
 
 Kate Mullany National Historic Site, New York.–Pub. L. 108–438, Dec. 3, 2004, 118 Stat. 2625.
 
@@ -234,7 +234,7 @@ Ohio \& Erie Canal National Heritage Corridor, Ohio (see Ohio \& Erie National H
 
 Quinebaug and Shetucket Rivers Valley National Heritage Corridor (see The Last Green Valley National Heritage Corridor, Connecticut and Massachusetts).
 
-South Carolina National Heritage Corridor, South Carolina.—Pub. L. 104–333, div. II, title VI, Nov. 12, 1996, 110 Stat. 4260; Pub. L. 110–229, title IV, §§461, 473, May 8, 2008, 122 Stat. 824, 826; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 114–113, div. G, title I, §116(b)(2), Dec. 18, 2015, 129 Stat. 2551.
+South Carolina National Heritage Corridor, South Carolina.—Pub. L. 104–333, div. II, title VI, Nov. 12, 1996, 110 Stat. 4260; Pub. L. 110–229, title IV, §§461, 473, May 8, 2008, 122 Stat. 824, 826; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 114–113, div. G, title I, §116(b)(2), Dec. 18, 2015, 129 Stat. 2551; Pub. L. 115–141, div. G, title I, §117(a), Mar. 23, 2018, 132 Stat. 661.
 
 The Last Green Valley National Heritage Corridor \[formerly Quinebaug and Shetucket Rivers Valley National Heritage Corridor\], Connecticut and Massachusetts.—Pub. L. 103–449, title I, Nov. 2, 1994, 108 Stat. 4752; Pub. L. 106–149, Dec. 9, 1999, 113 Stat. 1726; Pub. L. 111–11, title VIII, §8201, Mar. 30, 2009, 123 Stat. 1291; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(H), (2), (c)(1), Dec. 19, 2014, 128 Stat. 3802, 3804.
 
@@ -248,13 +248,13 @@ Arabia Mountain National Heritage Area, Georgia.—Pub. L. 109–338, title II, 
 
 Atchafalaya National Heritage Area, Louisiana.—Pub. L. 109–338, title II, §§211–221, Oct. 12, 2006, 120 Stat. 1791–1795.
 
-Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, title III, Nov. 12, 1996, 110 Stat. 4249; Pub. L. 106–176, title II, §203, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 114–113, div. G, title I, §116(b)(2), Dec. 18, 2015, 129 Stat. 2551.
+Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, title III, Nov. 12, 1996, 110 Stat. 4249; Pub. L. 106–176, title II, §203, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 114–113, div. G, title I, §116(b)(2), Dec. 18, 2015, 129 Stat. 2551; Pub. L. 115–141, div. G, title I, §117(a), Mar. 23, 2018, 132 Stat. 661.
 
 Automobile National Heritage Area (see MotorCities National Heritage Area, Michigan).
 
 Baltimore National Heritage Area, Maryland.—Pub. L. 111–11, title VIII, §8005, Mar. 30, 2009, 123 Stat. 1247; Pub. L. 114–289, title VI, §601(b), Dec. 16, 2016, 130 Stat. 1490.
 
-Blue Ridge National Heritage Area, North Carolina.—Pub. L. 108–108, title I, §140, Nov. 10, 2003, 117 Stat. 1274; Pub. L. 115–31, div. G, title I, §115(a), May 5, 2017, 131 Stat. 461.
+Blue Ridge National Heritage Area, North Carolina.—Pub. L. 108–108, title I, §140, Nov. 10, 2003, 117 Stat. 1274; Pub. L. 115–31, div. G, title I, §115(a), May 5, 2017, 131 Stat. 461; Pub. L. 115–141, div. G, title I, §117(b), Mar. 23, 2018, 132 Stat. 661.
 
 Cache La Poudre River National Heritage Area, Colorado.—Pub. L. 111–11, title VIII, §8002, Mar. 30, 2009, 123 Stat. 1229.
 
@@ -308,7 +308,7 @@ South Park National Heritage Area, Colorado.—Pub. L. 111–11, title VIII, §8
 
 Steel Industry American Heritage Area (see Rivers of Steel National Heritage Area, Pennsylvania).
 
-Tennessee Civil War Heritage Area, Tennessee.—Pub. L. 104–333, div. II, title II, Nov. 12, 1996, 110 Stat. 4245; Pub. L. 106–176, title II, §202, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 114–113, div. G, title I, §116(b)(2), Dec. 18, 2015, 129 Stat. 2551.
+Tennessee Civil War Heritage Area, Tennessee.—Pub. L. 104–333, div. II, title II, Nov. 12, 1996, 110 Stat. 4245; Pub. L. 106–176, title II, §202, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 114–113, div. G, title I, §116(b)(2), Dec. 18, 2015, 129 Stat. 2551; Pub. L. 115–141, div. G, title I, §117(a), Mar. 23, 2018, 132 Stat. 661.
 
 Upper Housatonic Valley National Heritage Area, Connecticut and Massachusetts.—Pub. L. 109–338, title II, §§271–280B, Oct. 12, 2006, 120 Stat. 1813–1819.
 
@@ -335,6 +335,60 @@ National Heritage Routes
 &nbsp;
 
 Great Basin National Heritage Route, Nevada and Utah.—Pub. L. 109–338, title II, §§291–291L, Oct. 12, 2006, 120 Stat. 1824–1831.
+
+#### Kennedy–King National Commemorative Site
+
+Pub. L. 115–163, Apr. 4, 2018, 132 Stat. 1251, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Kennedy–King National Commemorative Site Act'.
+
+#### "SEC. 2. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Secretary.—The term 'Secretary' means the Secretary of the Interior.
+
+&emsp;"(2)
+
+Site.—The term 'Site' means the Kennedy–King National Commemorative Site as designated by section 3(a).
+
+&emsp;"(3)
+
+State.—The term 'State' means the State of Indiana.
+
+#### "SEC. 3. NATIONAL COMMEMORATIVE SITE.
+
+"(a)
+
+Designation.—The Landmark for Peace Memorial in Martin Luther King, Jr. Park in Indianapolis, in the State, is hereby designated as the Kennedy–King National Commemorative Site.
+
+"(b)
+
+African American Civil Rights Network.—The Site shall be part of the African American Civil Rights Network established under Public Law 115–104 \[see Short Title of 2018 Amendment note set out under section 100101 of this title\].
+
+"(c)
+
+Administration.—
+
+&emsp;"(1)
+
+Cooperative agreements.—The Secretary may enter into cooperative agreements with appropriate public or private entities for interpretative and educational purposes related to the Site.
+
+&emsp;"(2)
+
+Effect of designation.—The Site shall not be a unit of the National Park System.
+
+&emsp;"(3)
+
+Limitations.—Nothing in this Act—
+
+&emsp;&emsp;"(A) authorizes the Secretary to interfere with the rights of any person with respect to private property or any local zoning ordinance or land use plan of the State or any political subdivision thereof; or
+
+&emsp;&emsp;"(B) authorizes the Secretary to acquire land or interests in land through condemnation or otherwise."
 
 #### Conditional Extension of Authorities
 
@@ -364,7 +418,7 @@ Evaluation.—An evaluation conducted under subparagraph (A)(i) shall—
 
 "(C)
 
-Report.—Based on the evaluation conducted under subparagraph (A)(i), the Secretary shall submit to the Committee on Energy and Natural Resources ofthe Senate and the Committee on Natural Resources of the House of Representatives a report that includes recommendations for the future role of the National Park Service with respect to the national heritage area."
+Report.—Based on the evaluation conducted under subparagraph (A)(i), the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that includes recommendations for the future role of the National Park Service with respect to the national heritage area."
 
 #### Crossroads of the West Historic District
 
@@ -376,7 +430,7 @@ Pub. L. 106–45, Aug. 10, 1999, 113 Stat. 224, as amended by Pub. L. 111–11, 
 
 #### Chesapeake Bay Initiative
 
-Pub. L. 105–312, title V, Oct. 30, 1998, 112 Stat. 2961, as amended by Pub. L. 107–308, §9, Dec. 2, 2002, 116 Stat. 2448; Pub. L. 111–212, title III, §3005, July 29, 2010, 124 Stat. 2339; Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 991; Pub. L. 113–76, div. G, title IV, §428, Jan. 17, 2014, 128 Stat. 345; Pub. L. 114–113, div. G, title IV, §422, Dec. 18, 2015, 129 Stat. 2579, known as the Chesapeake Bay Initiative Act of 1998, authorized Secretary of the Interior, in cooperation with Administrator of the Environmental Protection Agency, to create a Chesapeake Bay Gateways and Watertrails Network and to provide assistance to State and local governments in establishing this network, and authorized appropriations for these purposes.
+Pub. L. 105–312, title V, Oct. 30, 1998, 112 Stat. 2961, as amended by Pub. L. 107–308, §9, Dec. 2, 2002, 116 Stat. 2448; Pub. L. 111–212, title III, §3005, July 29, 2010, 124 Stat. 2339; Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 991; Pub. L. 113–76, div. G, title IV, §428, Jan. 17, 2014, 128 Stat. 345; Pub. L. 114–113, div. G, title IV, §422, Dec. 18, 2015, 129 Stat. 2579; Pub. L. 115–141, div. G, title IV, §420, Mar. 23, 2018, 132 Stat. 691, known as the Chesapeake Bay Initiative Act of 1998, authorized Secretary of the Interior, in cooperation with Administrator of the Environmental Protection Agency, to create a Chesapeake Bay Gateways and Watertrails Network and to provide assistance to State and local governments in establishing this network, and authorized appropriations for these purposes.
 
 #### Charleston, Arkansas, National Commemorative Site
 
@@ -398,7 +452,7 @@ Pub. L. 105–277, div. A, §101(e) \[title I, §128\], Oct. 21, 1998, 112 Stat.
 
 #### Vancouver National Historic Reserve
 
-Pub. L. 104–333, div. I, title V, §502, Nov. 12, 1996, 110 Stat. 4154, as amended by Pub. L. 106–176, title I, §107, Mar. 10, 2000, 114 Stat. 26; Pub. L. 107–342, §1, Dec. 17, 2002, 116 Stat. 2891, established Vancouver National Historic Reserve, Washington, directed that Reserve be administered through general management plan submitted by National Park Service to Secretary of the Interior within 3 years after Nov. 12, 1996, developed by partnership of interests including National Park Service, Historic Preservation Office of State of Washington, Department of the Army, and City of Vancouver, Washington, and to include specific findings of Vancouver Historic Reserve Report and to meet with approval of Secretary of the Interior and Secretary of the Army, directed that plan not be deemed new unit of National Park System and not limit authority of Federal Aviation Administration, and authorized appropriations.
+Pub. L. 104–333, div. I, title V, §502, Nov. 12, 1996, 110 Stat. 4154, as amended by Pub. L. 106–176, title I, §107, Mar. 10, 2000, 114 Stat. 26; Pub. L. 107–342, §1, Dec. 17,2002, 116 Stat. 2891, established Vancouver National Historic Reserve, Washington, directed that Reserve be administered through general management plan submitted by National Park Service to Secretary of the Interior within 3 years after Nov. 12, 1996, developed by partnership of interests including National Park Service, Historic Preservation Office of State of Washington, Department of the Army, and City of Vancouver, Washington, and to include specific findings of Vancouver Historic Reserve Report and to meet with approval of Secretary of the Interior and Secretary of the Army, directed that plan not be deemed new unit of National Park System and not limit authority of Federal Aviation Administration, and authorized appropriations.
 
 #### Great Falls Historic District, New Jersey
 
@@ -468,7 +522,7 @@ Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. 
 
 "Lands and interests therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administered by the Secretary subject to the provisions of the Act of August 25, 1916 (39 Stat. 535) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], as amended and supplemented, and in a manner consistent with the purpose of this section.
 
-"(e) \[Management inconsistencies; notification; modifications; withdrawal; management by Secretary\] If, after the transfer of management and administration of any lands pursuant to subsection (c) of this section, the Secretary determines that the reserve is not being managed in a manner consistent with the purposes of this section, he shall so notify the appropriate officers of the State or local unit of government towhich such transfer was made and provide for a ninety-day period in which the transferee may make such modifications in applicable laws, ordinances, rules, and procedures as will be consistent with such purposes. If, upon the expiration of such ninety-day period, the Secretary determines that such modifications have not been made or are inadequate, he shall withdraw the management and administration from the transferee and he shall manage such lands in accordance with the provisions of this section.
+"(e) \[Management inconsistencies; notification; modifications; withdrawal; management by Secretary\] If, after the transfer of management and administration of any lands pursuant to subsection (c) of this section, the Secretary determines that the reserve is not being managed in a manner consistent with the purposes of this section, he shall so notify the appropriate officers of the State or local unit of government to which such transfer was made and provide for a ninety-day period in which the transferee may make such modifications in applicable laws, ordinances, rules, and procedures as will be consistent with such purposes. If, upon the expiration of such ninety-day period, the Secretary determines that such modifications have not been made or are inadequate, he shall withdraw the management and administration from the transferee and he shall manage such lands in accordance with the provisions of this section.
 
 "(f) \[Authorization of appropriations\] There is hereby authorized to be appropriated not to exceed $5,000,000 to carry out the provisions of this section."
 
@@ -500,7 +554,7 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 
 That portion of the outer Continental Shelf situated seaward of a line three geographic miles from Key Largo, Monroe County, Florida, lying and being within the following described area:
 
-Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°17′36″ N., Longitude 80°10′00″ W.), 200 yards southeast of Flashing White Light—Whistle Buoy "2"; thence northwesterly approximately 7,000 yards through Whistle Buoy "2" to Can Buoy "21" (approximate Latitude 25°20′06″ N., Longitude 80°12′36″ W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy "25"; thence southwesterly approximately 5,500 yards to Can Buoy "27"; thence southwesterly approximately 5,000 yards to Flashing Green Light "31BH" in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon "33" in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing White Light "35" on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon "37" (approximate Latitude 25°02′25″ N., Longitude 80°25′36″ W.), southeast of Rodriguez Key; thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light "2" at Molasses Reef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°00′18″ N., Longitude 80°22′30″ W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
+Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°17′36″ N., Longitude 80°10′00″ W.), 200 yards southeast of Flashing White Light—Whistle Buoy "2"; thence northwesterly approximately 7,000 yards through Whistle Buoy "2" to Can Buoy "21" (approximate Latitude 25°20′06″ N., Longitude 80°12′36″ W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy "25"; thence southwesterly approximately 5,500 yards to Can Buoy "27"; thence southwesterly approximately 5,000 yards to Flashing Green Light "31BH" in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon "33" in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing White Light "35" on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon "37" (approximate Latitude 25°02′25″ N., Longitude 80°25′36″ W.), southeast of Rodriguez Key;thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light "2" at Molasses Reef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°00′18″ N., Longitude 80°22′30″ W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
 
 I call upon all persons to join in the effort to protect and preserve this natural wonder for the benefit of future generations.
 

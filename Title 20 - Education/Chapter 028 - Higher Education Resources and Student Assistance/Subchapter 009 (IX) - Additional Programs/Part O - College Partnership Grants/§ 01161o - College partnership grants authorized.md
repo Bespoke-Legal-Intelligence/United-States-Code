@@ -28,7 +28,7 @@ The Secretary shall give priority to eligible partnerships that—
 
 Grants awarded under this part shall be used for—
 
-&emsp;(1) the development of policies and programs to expand opportunities for students to earn bachelor's degrees, by facilitating the transfer of academic credits between institutions andexpanding articulation and guaranteed transfer agreements between institutions of higher education, including through common course numbering and general education core curriculum;
+&emsp;(1) the development of policies and programs to expand opportunities for students to earn bachelor's degrees, by facilitating the transfer of academic credits between institutions and expanding articulation and guaranteed transfer agreements between institutions of higher education, including through common course numbering and general education core curriculum;
 
 &emsp;(2) academic program enhancements; and
 

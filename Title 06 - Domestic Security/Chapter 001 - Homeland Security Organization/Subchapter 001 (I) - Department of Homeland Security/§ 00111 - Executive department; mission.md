@@ -114,7 +114,7 @@ Sec. 27. \[Amended Ex. Ord. No. 12835, set out as a note under section 1023 of T
 
 Sec. 28. \[Amended Ex. Ord. No. 12830, set out as a note preceding section 1121 of Title 10, Armed Forces.\]
 
-Sec. 29. \[Amended Ex. Ord. No. 12824, set out as a note under section 492 of Title 14, Coast Guard.\]
+Sec. 29. \[Amended Ex. Ord. No. 12824, set out as a note under section 2736 of Title 14, Coast Guard.\]
 
 Sec. 30. \[Amended Ex. Ord. No. 12807, set out as a note under section 1182 of Title 8, Aliens and Nationality.\]
 
@@ -142,7 +142,7 @@ Sec. 41. \[Amended Ex. Ord. No. 12657, set out as a note under section 5195 of T
 
 Sec. 42. \[(a) to (i) amended Ex. Ord. No. 12656, set out as a note under section 5195 of Title 42, The Public Health and Welfare.\]
 
-Without prejudice to subsections (a) through (i) of this section, all responsibilities assigned to specific Federal officials pursuant to Executive Order 12656 that are substantially the same as any responsibility assigned to, or function transferred to, the Secretary of Homeland Security pursuant to the Homeland Security Act of 2002 (regardless of whether such responsibility or function is expressly required to be carried out through another official of the Department of Homeland Security or not pursuant to such Act), or intended or required to be carried out by an agency or an agency component transferred to the Department of Homeland Security pursuant to such Act, are hereby reassigned to the Secretary of Homeland Security.
+Without prejudice to subsections (a) through (i) of this section, all responsibilities assigned to specific Federal officials pursuant to Executive Order 12656 that are substantially the same as any responsibility assigned to, or function transferred to, the Secretary of Homeland Security pursuant to the Homeland Security Act of 2002 (regardless of whether such responsibility or function is expressly required to be carried out through another official of the Department of Homeland Security or not pursuant to such Act), or intended or required to be carried out by an agency or an agency component transferred to the Department of HomelandSecurity pursuant to such Act, are hereby reassigned to the Secretary of Homeland Security.
 
 Sec. 43. \[Amended Ex. Ord. No. 12580, set out as a note under section 9615 of Title 42, The Public Health and Welfare.\]
 
@@ -166,7 +166,7 @@ Sec. 52. \[Amended Ex. Ord. No. 12148, set out as a note under section 5195 of T
 
 Sec. 53. \[Amended Ex. Ord. No. 12146, set out as a note under section 509 of Title 28, Judiciary and Judicial Procedures.\]
 
-Sec. 54. \[Amended Ex. Ord. No. 12002, set out as a note under section 4603 of Title 50, War and National Defense.\]
+Sec. 54. \[Amended Ex. Ord. No. 12002, set out as a note under former section 4603 of Title 50, War and National Defense.\]
 
 Sec. 55. \[Amended Ex. Ord. No. 11965, set out as a note preceding section 1121 of Title 10, Armed Forces.\]
 
@@ -176,7 +176,7 @@ Sec. 57. \[Amended Ex. Ord. No. 11858, set out as a note under section 4565 of T
 
 Sec. 58. \[Amended Ex. Ord. No. 11800, formerly set out as a note under section 301a of Title 37, Pay and Allowances of the Uniformed Services.\]
 
-Sec. 59. \[Amended Ex. Ord. No. 11645, set out as a note under section 475 of Title 14, Coast Guard.\]
+Sec. 59. \[Amended Ex. Ord. No. 11645, set out as a note under section 2943 of Title 14, Coast Guard.\]
 
 Sec. 60. \[Amended Ex. Ord. No. 11623, set out as a note under section 3809 of Title 50, War and National Defense.\]
 
@@ -198,7 +198,7 @@ Sec. 68. \[Amended Ex. Ord. No. 11139.\]
 
 Sec. 69. \[Amended Ex. Ord. No. 11079, set out as a note under section 2603 of Title 10, Armed Forces.\]
 
-Sec. 70. \[Amended Ex. Ord. No. 11046, set out as a note under section 3746 of Title 10, Armed Forces.\]
+Sec. 70. \[Amended Ex. Ord. No. 11046, set out as a note under section 7276 of Title 10, Armed Forces.\]
 
 Sec. 71. \[Amended Ex. Ord. No. 11016, set out as a note under section 1129 of Title 10, Armed Forces.\]
 
@@ -230,7 +230,7 @@ Sec. 84. \[Amended Ex. Ord. No. 4601.\]
 
 Sec. 85. <i>Designation as a Defense Agency of the United States.</i>
 
-I hereby designate the Department of Homeland Security as a defense agency of the United States for thepurposes of chapter 17 of title 35 of the United States Code.
+I hereby designate the Department of Homeland Security as a defense agency of the United States for the purposes of chapter 17 of title 35 of the United States Code.
 
 Sec. 86. <i>Exception from the Provisions of the Government Employees Training Act.</i>
 

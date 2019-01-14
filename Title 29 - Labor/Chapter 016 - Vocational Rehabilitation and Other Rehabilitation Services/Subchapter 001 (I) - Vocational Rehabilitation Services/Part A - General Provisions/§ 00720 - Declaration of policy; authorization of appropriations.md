@@ -66,7 +66,7 @@
 
 #### (1) In general
 
-&emsp;For the purpose of making grants to States under part B to assist States in meeting the costs of vocational rehabilitation services provided in accordance with State plans under section 721 of this title, there are authorized to be appropriated $3,302,053,000 for each of the fiscal years 2015 through 2020, except that the amount to be appropriated for a fiscal year shall not be less than the amount of the appropriation under this paragraph for the immediately preceding fiscal year, increased by the percentage change in the Consumer Price Index determined under subsection (c) for the immediately preceding fiscal year.
+&emsp;For the purpose of making grants to States under part B to assist States in meeting the costs of vocational rehabilitation services provided in accordance with State plans under section 721 of this title, there are authorized to be appropriated $3,302,053,000 for each of the fiscal years 2015 through 2020, except that the amount to be appropriated for a fiscal year shall not be less than the amount of the appropriation under this paragraph for the immediately preceding fiscal year, increased by the percentage change in the Consumer PriceIndex determined under subsection (c) for the immediately preceding fiscal year.
 
 #### (2) Reference
 
@@ -118,7 +118,7 @@
 
 #### (B) Acts or determinations of Commissioner
 
-&emsp;&emsp;In any case where the Commissioner is required under an applicable statute to carry out certain acts or make certain determinations which are necessary for the continuation of the program authorized by this subchapter, if such acts or determinations are required during the terminal year of such program, such acts and determinations shall be required during any fiscal year in whichthe extension described in that part of paragraph (1) that follows clause (ii) of paragraph (1)(A) is in effect.
+&emsp;&emsp;In any case where the Commissioner is required under an applicable statute to carry out certain acts or make certain determinations which are necessary for the continuation of the program authorized by this subchapter, if such acts or determinations are required during the terminal year of such program, such acts and determinations shall be required during any fiscal year in which the extension described in that part of paragraph (1) that follows clause (ii) of paragraph (1)(A) is in effect.
 
 (Pub. L. 93–112, title I, §100, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1116; amended Pub. L. 113–128, title IV, §411, July 22, 2014, 128 Stat. 1640.)
 

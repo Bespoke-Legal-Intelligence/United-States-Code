@@ -10,7 +10,7 @@
 
 &emsp;(A)(i) no State for fiscal year 1985 shall receive less than the amount of funds the State received in fiscal year 1984; and
 
-&emsp;(ii) no State for fiscal year 1986 and thereafter shall receive less than the amount of funds the State would have received in fiscalyear 1984 if the appropriations for this subchapter for fiscal year 1984 had been $1,975,000,000, and
+&emsp;(ii) no State for fiscal year 1986 and thereafter shall receive less than the amount of funds the State would have received in fiscal year 1984 if the appropriations for this subchapter for fiscal year 1984 had been $1,975,000,000, and
 
 &emsp;(B) any State whose allotment percentage out of funds available to States from a total appropriation of $2,250,000,000 would be less than 1 percent, shall not, in any year when total appropriations equal or exceed $2,250,000,000, have its allotment percentage reduced from the percentage it would receive from a total appropriation of $2,140,000,000.
 
@@ -42,7 +42,7 @@ Of the funds available to each State under subsection (a), a reasonable amount b
 
 &emsp;&emsp;&emsp;(ii) to travel to the sites at which such applications are accepted by such entity.
 
-> The preceding sentence shall not apply to a program in a geographical area affected by a natural disaster in the United States designated by the Secretary, or by a major disaster or emergency designated by the President under the Disaster Relief Act of 1974 <sup>1</sup> \[42 U.S.C. 5121 et seq.\], for so long as such designation remains in effect, if the Secretary determines that such disaster or such emergency makes compliance with such sentence impracticable.
+> The preceding sentence shall not apply to a program in a geographical area affected by a natural disaster in the United States designated by the Secretary, or by a major disaster or emergency designated by the President under the Disaster Relief Act of 1974 <sup>1</sup> \[42 U.S.C. 5121 et seq.\], for so long as such designation remains ineffect, if the Secretary determines that such disaster or such emergency makes compliance with such sentence impracticable.
 
 #### (d) Allotments to Indian tribes
 
@@ -92,7 +92,7 @@ Subsec. (f). Pub. L. 105–285, §305(3), struck out subsec. (f) relating to opt
 
 Subsec. (g). Pub. L. 105–285, §305(5), redesignated subsec. (g) as (e).
 
-Pub. L. 105–285, §§304(b), 305(4), substituted "subsections (a) through (d)" for "subsections (a) through (f)" and "In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary may find to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection." for "In determining to which State or States additional funds may be allotted, the Secretary shall take into account the extent to which a State was affected by the emergency or disaster, the availability to an affected State of other resources under this or any other program, and such other factors as the Secretary determines relevant. The Secretary shall notify Congress of the allotment pursuant to this subsection prior to releasing the allotted funds."
+Pub. L. 105–285, §§304(b), 305(4), substituted "subsections (a) through (d)" for "subsections (a) through (f)" and "In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary mayfind to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection." for "In determining to which State or States additional funds may be allotted, the Secretary shall take into account the extent to which a State was affected by the emergency or disaster, the availability to an affected State of other resources under this or any other program, and such other factors as the Secretary determines relevant. The Secretary shall notify Congress of the allotment pursuant to this subsection prior to releasing the allotted funds."
 
 <b>1994</b>—Subsec. (b)(1). Pub. L. 103–252, §311(c)(3), inserted "of the United States" after "Virgin Islands".
 
@@ -108,7 +108,7 @@ Subsec. (c). Pub. L. 99–425, §502(a), substituted "the capacity" for "and the
 
 Subsec. (d)(2). Pub. L. 99–425, §503, substituted "and residing within the State on the reservation of the tribes or on trust lands adjacent to such reservation" for "in such State with respect to which a determination under this subsection is made", inserted ", or such greater amount as the Indian tribe and the State may agree upon", and inserted "In cases where a tribe has no reservation, the Secretary, in consultation with the tribe and the State, shall define the number of Indian households for the determination under this paragraph."
 
-<b>1984</b>—Subsec. (a)(2). Pub. L. 98–558, §604(a), amended par. (2) generally, substituting provisions relating toState allotment computation for former provisions which also related to computation of State allotment formulas and adding subpars. (A) and (B).
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–558, §604(a), amended par. (2) generally, substituting provisions relating to State allotment computation for former provisions which also related to computation of State allotment formulas and adding subpars. (A) and (B).
 
 Subsec. (a)(4). Pub. L. 98–558, §604(b), added par. (4).
 

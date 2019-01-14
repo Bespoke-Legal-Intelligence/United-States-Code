@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary is authorized to make planning grants to applicants for the purpose of developing homeownership programs under this subchapter. The amount of a planning grant under this section may not exceed $200,000, except that the Secretary may for good cause approve a grant in a higher amount.
+The Secretary is authorized to make planning grants to applicants for the purpose of developing homeownership programs under this subchapter. The amount of a planning grant under this section may not exceed $200,000, except thatthe Secretary may for good cause approve a grant in a higher amount.
 
 #### (b) Eligible activities
 

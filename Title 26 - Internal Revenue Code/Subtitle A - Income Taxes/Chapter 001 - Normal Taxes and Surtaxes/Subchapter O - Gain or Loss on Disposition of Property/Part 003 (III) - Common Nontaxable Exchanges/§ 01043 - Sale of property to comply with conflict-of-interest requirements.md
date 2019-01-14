@@ -50,7 +50,7 @@ For purposes of this section—
 
 If gain from the sale of any property is not recognized by reason of subsection (a), such gain shall be applied to reduce (in the order acquired) the basis for determining gain or loss of any permitted property which is purchased by the taxpayer during the 60-day period described in subsection (a).
 
-(Added Pub. L. 101–194, title V, §502(a), Nov. 30, 1989, 103 Stat. 1754; amended Pub. L. 101–280, §6(a)(1), May 4, 1990, 104 Stat. 160; Pub. L. 101–508, title XI, §11703(a)(1), Nov. 5, 1990, 104 Stat. 1388–516; Pub. L. 109–432, div. A, title IV, §418(a), (b), Dec. 20, 2006, 120 Stat. 2966.)
+(Added Pub. L. 101–194, title V, §502(a), Nov. 30, 1989, 103 Stat. 1754; amended Pub. L. 101–280,§6(a)(1), May 4, 1990, 104 Stat. 160; Pub. L. 101–508, title XI, §11703(a)(1), Nov. 5, 1990, 104 Stat. 1388–516; Pub. L. 109–432, div. A, title IV, §418(a), (b), Dec. 20, 2006, 120 Stat. 2966.)
 
 #### Amendments
 

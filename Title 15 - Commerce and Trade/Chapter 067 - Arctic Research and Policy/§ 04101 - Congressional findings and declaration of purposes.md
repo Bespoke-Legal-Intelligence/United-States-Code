@@ -22,11 +22,11 @@
 
 &emsp;(10) most Arctic-rim countries possess Arctic technologies far more advanced than those currently available in the United States;
 
-&emsp;(11) Federal Arctic research is fragmented and uncoordinated at the present time, leading to the neglect of certain areas of researchand to unnecessary duplication of effort in other areas of research;
+&emsp;(11) Federal Arctic research is fragmented and uncoordinated at the present time, leading to the neglect of certain areas of research and to unnecessary duplication of effort in other areas of research;
 
 &emsp;(12) improved logistical coordination and support for Arctic research and better dissemination of research data and information is necessary to increase the efficiency and utility of national Arctic research efforts;
 
-&emsp;(13) a comprehensive national policy and program plan to organize and fund currently neglected scientific research with respect to the Arctic is necessary to fulfill national objectives in Arctic research;
+&emsp;(13) a comprehensive national policy and program plan to organize and fund currently neglected scientific research with respect tothe Arctic is necessary to fulfill national objectives in Arctic research;
 
 &emsp;(14) the Federal Government, in cooperation with State and local governments, should focus its efforts on the collection and characterization of basic data related to biological, materials, geophysical, social, and behavioral phenomena in the Arctic;
 

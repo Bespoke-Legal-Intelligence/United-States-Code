@@ -46,7 +46,7 @@ Effective dates for section 1111 of the elementary and secondary education act o
 
 &emsp;&emsp;"(A) section 1111(b)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)), as in effect on the day before the date of enactment of this Act, shall be effective through the close of August 1, 2016;
 
-&emsp;&emsp;"(B) subsections (c) and (d) of section 1111 of the Elementary and Secondary Education Act of 1965\(20 U.S.C. 6311), as amended by this Act, shall take effect beginning with school year 2017–2018; and
+&emsp;&emsp;"(B) subsections (c) and (d) of section 1111 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311), as amended by this Act, shall take effect beginning with school year 2017–2018; and
 
 &emsp;&emsp;"(C) section 1111(b)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)), as amended by this Act, and any other provision of section 1111 of such Act (20 U.S.C. 6311), as amended by this Act, which is not described in subparagraph (B) of this paragraph, shall take effect in a manner consistent with subsection (a).
 
@@ -90,7 +90,7 @@ Competitive Programs.—With respect to programs that are conducted by the Secre
 
 "(d)
 
-Impact Aid.—With respect to title VIII (Impact Aid) \[probably meant title VIII (now VII) of Pub. L. 89–10, 20 U.S.C. 7701 et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002."
+Impact Aid.—With respect to title VIII (Impact Aid) \[probably meant title VIII (now VII) of Pub. L.89–10, 20 U.S.C. 7701 et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002."
 
 #### Short Title of 2017 Amendment
 
@@ -182,7 +182,7 @@ Pub. L. 89–750, §1, Nov. 3, 1966, 80 Stat. 1191, provided: "That this Act \[s
 
 #### Short Title
 
-Section 1 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, as amended by Pub. L. 107–110, §6(1), Jan. 8, 2002, 115 Stat. 1427, provided that: "This Act \[enacting this chapter\] may be cited as the 'Elementary and Secondary Education Act of 1965'."
+Section 1 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, as amended byPub. L. 107–110, §6(1), Jan. 8, 2002, 115 Stat. 1427, provided that: "This Act \[enacting this chapter\] may be cited as the 'Elementary and Secondary Education Act of 1965'."
 
 Pub. L. 89–10, title X, §10971, as added by Pub. L. 106–554, §1(a)(1) \[title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–89, which provided that subpart 2 (§§10971–10978) of part J of title X of Pub. L. 89–10, enacting subpart 2 of part J of former subchapter X of this chapter, could be cited as the "Rural Education Achievement Program", was repealed by Pub. L. 107–110, title X, §1011(5)(A), Jan. 8, 2002, 115 Stat. 1986.
 
@@ -224,7 +224,7 @@ Multi-year awards.—
 
 &emsp;&emsp;"(A)
 
-Programs no longer authorized.—Except as otherwise provided in this Act \[see Tables for classification\] or the amendments made by this Act, the recipient of a multiyear award under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), as in effect on the day before the date of enactment of this Act \[Dec. 10, 2015\], under a program that is not authorized under theElementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), as amended by this Act, and—
+Programs no longer authorized.—Except as otherwise provided in this Act \[see Tables for classification\] or the amendments made by this Act, the recipient of a multiyear award under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), as in effect on the day before the date of enactment of this Act \[Dec. 10, 2015\], under a program that is not authorized under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), as amended by this Act, and—
 
 &emsp;&emsp;&emsp;"(i) that is not substantively similar to a program authorized under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), as amended by this Act, shall continue to receive funds in accordance with the terms of such prior award, except that no additional funds for such program may be awarded after September 30, 2016; and
 
@@ -258,7 +258,7 @@ Pub. L. 107–110, §4, Jan. 8, 2002, 115 Stat. 1426, provided that:
 
 "(a)
 
-Multi-Year Awards.—Except as otherwise provided in this Act \[see Tables for classification\], the recipient of a multi-year award under the Elementary and Secondary Education Act of 1965 \[Pub. L. 89–10, 20 U.S.C. 6301 et seq., prior to general amendment by Pub. L. 107–110\], as that Act was in effect prior to the date of enactment of this Act \[Jan. 8, 2002\], shall continue to receive funds in accordance with the terms of that award, except that no additional funds may be awarded after September 30, 2002.
+Multi-Year Awards.—Except as otherwise provided in this Act \[see Tables for classification\], the recipient of a multi-year award under the Elementary and Secondary Education Act of 1965 \[Pub. L. 89–10, 20U.S.C. 6301 et seq., prior to general amendment by Pub. L. 107–110\], as that Act was in effect prior to the date of enactment of this Act \[Jan. 8, 2002\], shall continue to receive funds in accordance with the terms of that award, except that no additional funds may be awarded after September 30, 2002.
 
 "(b)
 
@@ -286,7 +286,7 @@ Section 1. <i>Policy</i>. Since 1993, this Administration has sought to raise st
 
 Sec. 2. <i>Technical Assistance and Capacity Building</i>. (a) The Secretary of Education ("Secretary") shall work with State and local educational agencies ("LEAs") to develop and implement a comprehensive strategy for providing technical assistance and other assistance to States and LEAs to strengthen their capacity to improve the performance of schools identified as low performing. This comprehensive strategy shall include a number of steps, such as:
 
-&emsp;(1) providing States, school districts, and schools receiving funds from the school improvement fund established by Public Law 106–113, as well as other districts and schools identified for school improvement or corrective action under Title I of the ESEA \[20 U.S.C. 6301 et seq.\], with access to the latest research and information on best practices, including research on instruction and educator professional development, and with the opportunity to learn from exemplary schools and exemplary State and local intervention strategies and from each other, in order toimprove achievement for all students in the low-performing schools;
+&emsp;(1) providing States, school districts, and schools receiving funds from the school improvement fund established by Public Law 106–113, as well as other districts and schools identified for school improvement or corrective action under Title I of the ESEA \[20 U.S.C. 6301 et seq.\], with access to the latest research and information on best practices, including research on instruction and educator professional development, and with the opportunity to learn from exemplary schools and exemplary State and local intervention strategies and from each other, in order to improve achievement for all students in the low-performing schools;
 
 &emsp;(2) determining effective ways of providing low-performing schools with access to resources from other Department of Education programs, such as funds from the Comprehensive School Reform Demonstration Program, the Reading Excellence Act \[Pub. L. 105–277, div. A, §101(f) \[title VIII\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–391, see Tables for classification\], the Eisenhower Professional Development Program, the Class Size Reduction Program, and the 21st Century Community Learning Centers Program, and to make effective use of these funds and Title I funds;
 

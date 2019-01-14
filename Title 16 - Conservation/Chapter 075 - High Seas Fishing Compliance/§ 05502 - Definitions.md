@@ -40,7 +40,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(iii) a citizen or national of the United States; or
 
-&emsp;&emsp;&emsp;(iv) a corporation created under the laws of the United States or any State, the District of Columbia, or any territory, commonwealth, or possession of the United States; unless the vessel has been granted the nationality of a foreign nation in accordance with article 92 of the 1982 UnitedNations Convention on the Law of the Sea and a claim of nationality or registry for the vessel is made by the master or individual in charge at the time of the enforcement action by an officer or employee of the United States authorized to enforce applicable provisions of the United States law; and
+&emsp;&emsp;&emsp;(iv) a corporation created under the laws of the United States or any State, the District of Columbia, or any territory, commonwealth, or possession of the United States; unless the vessel has been granted the nationality of a foreign nation in accordance with article 92 of the 1982 United Nations Convention on the Law of the Sea and a claim of nationality or registry for the vessel is made by the master or individual in charge at the time of the enforcement action by an officer or employee of the United States authorized to enforce applicable provisions of the United States law; and
 
 &emsp;&emsp;(C) a vessel that was once documented under the laws of the United States and, in violation of the laws of the United States, was either sold to a person not a citizen of the United States or placed under foreign registry or a foreign flag, whether or not the vessel has been granted the nationality of a foreign nation.
 

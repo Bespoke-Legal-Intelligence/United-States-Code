@@ -6,7 +6,7 @@ The head of each department and agency of the United States engaged in the detec
 
 #### (b) Identification of victims
 
-At the earliest opportunity after the detection of a crime at which it may be done withoutinterfering with an investigation, a responsible official shall—
+At the earliest opportunity after the detection of a crime at which it may be done without interfering with an investigation, a responsible official shall—
 
 &emsp;(1) identify the victim or victims of a crime;
 
@@ -62,7 +62,7 @@ At the earliest opportunity after the detection of a crime at which it may be do
 
 #### (d) No cause of action or defense
 
-This section does not create a cause of action or defense in favor of any person arising out of the failure of a responsible person to provide information as required by subsection (b) or (c).
+This section does not create a cause of action or defense in favor of any person arising out ofthe failure of a responsible person to provide information as required by subsection (b) or (c).
 
 #### (e) Definitions
 

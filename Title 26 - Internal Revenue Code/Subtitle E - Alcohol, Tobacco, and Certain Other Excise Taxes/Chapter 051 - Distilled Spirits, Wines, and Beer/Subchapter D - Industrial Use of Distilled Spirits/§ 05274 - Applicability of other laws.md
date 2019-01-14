@@ -1,6 +1,6 @@
 ### §5274. Applicability of other laws
 
-The provisions, including penalties, of sections 9, and 10 of the Federal Trade Commission Act\(15 U.S.C., secs. 49, 50), as now or hereafter amended, shall apply to the jurisdiction, powers, and duties of the Secretary under this subtitle, and to any person (whether or not a corporation) subject to the provisions of this subtitle.
+The provisions, including penalties, of sections 9, and 10 of the Federal Trade Commission Act (15 U.S.C., secs. 49, 50), as now or hereafter amended, shall apply to the jurisdiction, powers, and duties of the Secretary under this subtitle, and to any person (whether or not a corporation) subject to the provisions of this subtitle.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1372; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

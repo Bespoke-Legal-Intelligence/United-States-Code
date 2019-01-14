@@ -2,7 +2,7 @@
 
 (a)
 
-Order to Duty.—A member of the Ready Reserve may be ordered to funeral honors duty, with the consent of the member, in preparation for or to perform funeral honors functions at the funeral of a veteran as defined in section 1491 of this title. Performance of funeral honors duty by a Reserve not on active duty shall be treated as inactive-duty training (including with respectto travel to and from such duty) for purposes of any provision of law other than sections 206 and 495 of title 37.
+Order to Duty.—A member of the Ready Reserve may be ordered to funeral honors duty, with the consent of the member, in preparation for or to perform funeral honors functions at the funeral of a veteran as defined in section 1491 of this title. Performance of funeral honors duty by a Reserve not on active duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 495 of title 37.
 
 (b)
 
@@ -50,5 +50,5 @@ Pub. L. 107–107, div. A, title V, §562(c), Dec. 28, 2001, 115 Stat. 1120, pro
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §575(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, provided that: "The amendments made by this section \[amending this section, section 115 of Title 32, National Guard, and section 435 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply with respect to funeral honors duty performed on or after October 1, 2000."
+Pub. L. 106–398, §1 \[\[div. A\], title V, §575(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, provided that: "Theamendments made by this section \[amending this section, section 115 of Title 32, National Guard, and section 435 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply with respect to funeral honors duty performed on or after October 1, 2000."
 

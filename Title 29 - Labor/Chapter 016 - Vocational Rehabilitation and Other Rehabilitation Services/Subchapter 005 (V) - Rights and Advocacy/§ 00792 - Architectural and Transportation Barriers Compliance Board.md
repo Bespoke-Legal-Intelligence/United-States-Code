@@ -100,7 +100,7 @@ The Access Board shall also (1)(A) determine how and to what extent transportati
 
 #### (d) Electronic and information technology accessibility training
 
-Beginning in fiscal year 2000, the Access Board, after consultation with the Secretary, representatives of such public and private entities as the Access Board determines to be appropriate (including the electronic and information technology industry), targeted individuals and entities (as defined in section 3002 of this title), and State information technology officers, shall provide training for Federal and State employees on any obligations related to section 794d of this title.
+Beginning in fiscal year 2000, the Access Board, after consultation with the Secretary,representatives of such public and private entities as the Access Board determines to be appropriate (including the electronic and information technology industry), targeted individuals and entities (as defined in section 3002 of this title), and State information technology officers, shall provide training for Federal and State employees on any obligations related to section 794d of this title.
 
 #### (e) Investigations; hearings; orders; administrative procedure applicable; final orders; judicial review; civil action; intervention
 
@@ -124,7 +124,7 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 #### (g) Technical, administrative, or other assistance; appointment, compensation, and travel expenses of advisory and technical experts and consultants
 
-(1)(A) In carrying out the technical assistance responsibilities of the Access Board under thissection, the Board may enter into an interagency agreement with another Federal department or agency.
+(1)(A) In carrying out the technical assistance responsibilities of the Access Board under this section, the Board may enter into an interagency agreement with another Federal department or agency.
 
 (B) Any funds appropriated to such a department or agency for the purpose of providing technical assistance may be transferred to the Access Board. Any funds appropriated to the Access Board for the purpose of providing such technical assistance may be transferred to such department or agency.
 
@@ -162,7 +162,7 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), (3)(
 
 #### Codification
 
-Subsecs. (h) and (i)(3) of this section, which required the Board to submit an annual report on its activities to Congress and, at the same time the Board transmits the report required under section 4157(b) of Title 42, The Public Health and Welfare, to transmit that reportto the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, items 4 to 6 on page 155 of House Document No. 103–7.
+Subsecs. (h) and (i)(3) of this section, which required the Board to submit an annual report on its activities to Congress and, at the same time the Board transmits the report required under section 4157(b) of Title 42, The Public Health and Welfare, to transmit that report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, items 4 to 6 on page 155 of House Document No. 103–7.
 
 #### Amendments
 
@@ -232,7 +232,7 @@ Subsec. (g). Pub. L. 102–569, §504(f), designated existing provisions as par.
 
 Pub. L. 102–569, §102(p)(30), substituted "individuals with disabilities" for "individuals with handicaps" wherever appearing.
 
-Subsec. (h)(1). Pub. L. 102–569, §504(g)(1)–(3), redesignated par. (2) as (1), struck out at end "The AccessBoard may also make grants to any designated State unit for the purpose of conducting studies to provide the cost assessments required by paragraph (1). Before including in such report the findings of any study conducted for the Access Board under a grant or contract to provide the Access Board with such cost assessments, the Access Board shall take all necessary steps to validate the accuracy of any such findings.", and struck out former par. (1) which read as follows: "Within one year following November 6, 1978, the Access Board shall submit to the President and the Congress a report containing an assessment of the amounts required to be expended by States and by political subdivisions thereof to provide individuals with disabilities with full access to all programs and activities receiving Federal assistance."
+Subsec. (h)(1). Pub. L. 102–569, §504(g)(1)–(3), redesignated par. (2) as (1), struck out at end "The Access Board may also make grants to any designated State unit for the purpose of conducting studies to provide the cost assessments required by paragraph (1). Before including in such report the findings of any study conducted for the Access Board under a grant or contract to provide the Access Board with such cost assessments, the Access Board shall take all necessary steps to validate the accuracy of any such findings.", and struck out former par. (1) which read as follows: "Within one year following November 6, 1978, the Access Board shall submit to the President and the Congress a report containing an assessment of the amounts required to be expended by States and by political subdivisions thereof to provide individuals with disabilities with full access to all programs and activities receiving Federal assistance."
 
 Pub. L. 102–569, §102(p)(30), substituted "individuals with disabilities" for "individuals with handicaps" before "with full access".
 
@@ -294,7 +294,7 @@ Subsec. (h)(3). Pub. L. 96–374, §1321(b), added par. (3).
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–602, §118(a), substituted provision permitting President to appoint eleven members of Board from general public of whom five are to be handicapped, adding head of the Department of Justice as a Board member, authorizing President to appoint the first chairman, and providing for the term of office, reappointment, and compensation of Board members for provision restricting Board membership to head of Department of Health, Education, and Welfare, Department of Transportation, Department of Housing and Urban Development, Department of Labor, Department of the Interior, Department of Defense, General Services Administration, United States Postal Service, and Veterans' Administration, appointing Secretary of Health, Education, and Welfare as chairman, and authorizing appointment of a Consumer Advisory Panel, a majority of members of which were to be handicapped, to provide guidance, advice, and recommendations to Board.
 
-Subsec. (b)(1). Pub. L. 95–602, §118(b)(1), substituted provision requiring Board to insure compliance with standards of Architectural Barriers Act of 1968, including application to United States Postal Service, and to insure all waivers and modifications of standards arebased on findings of fact and are not inconsistent with that Act or this section for provision requiring Board to insure compliance with the standards prescribed by General Services Administration, Department of Defense, and Department of Housing and Urban Development pursuant to Architectural Barriers Act of 1968.
+Subsec. (b)(1). Pub. L. 95–602, §118(b)(1), substituted provision requiring Board to insure compliance with standards of Architectural Barriers Act of 1968, including application to United States Postal Service, and to insure all waivers and modifications of standards are based on findings of fact and are not inconsistent with that Act or this section for provision requiring Board to insure compliance with the standards prescribed by General Services Administration, Department of Defense, and Department of Housing and Urban Development pursuant to Architectural Barriers Act of 1968.
 
 Subsec. (b)(2). Pub. L. 95–602, §118(b)(2), inserted "communication," before "and attitudinal" and "telecommunication devices," before "public buildings".
 
@@ -314,7 +314,7 @@ Subsec. (i). Pub. L. 95–602, §118(e), added subsec. (i).
 
 Pub. L. 94–230, §11(b)(13), authorized appropriation of $1,500,000 for fiscal year ending Sept. 30, 1978.
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–516, §111(n), redesignated cls. (6), (7), and (8), as cls. (7), (8), and (9), added cl. (6), and following designated clauses, inserted provisions that Secretary of Health, Education, and Welfare shall be Chairman of Board, and that Board shall appoint, upon recommendation of Secretary, a Consumer Advisory Panel, a majority of members of which shall be handicapped individuals, to provide guidance, advice, and recommendations to Board in carrying out its functions.
+<b>1974</b>—Subsec. (a). Pub. L. 93–516, §111(n), redesignated cls. (6), (7), and (8), as cls. (7), (8), and (9), added cl. (6), and following designated clauses, inserted provisions that Secretary of Health, Education, and Welfare shall be Chairman of Board, and that Board shall appoint, upon recommendation of Secretary, a Consumer Advisory Panel, a majority of members of which shall be handicapped individuals, to provide guidance, advice,and recommendations to Board in carrying out its functions.
 
 Pub. L. 93–651, §111(n), amended subsec. (a) in exactly the same manner as it was amended by Pub. L. 93–516.
 
@@ -372,7 +372,7 @@ In general.—The working group shall develop, not later than 1 year after the d
 
 &emsp;&emsp;"(B)
 
-Public availability.—The best practices developed under subparagraph (A) may be made publicly available, including through the Internet Web sites of the working group participant organizations, and through other means, in a manner thatprovides access to interested individuals, including individuals with disabilities.
+Public availability.—The best practices developed under subparagraph (A) may be made publicly available, including through the Internet Web sites of the working group participant organizations, and through other means, in a manner that provides access to interested individuals, including individuals with disabilities.
 
 &emsp;&emsp;"(C)
 

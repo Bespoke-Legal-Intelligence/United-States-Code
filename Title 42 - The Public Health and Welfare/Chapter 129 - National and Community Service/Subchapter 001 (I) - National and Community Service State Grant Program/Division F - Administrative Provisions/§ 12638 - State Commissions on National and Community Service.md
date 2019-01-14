@@ -8,7 +8,7 @@
 
 #### (2) Alternative administrative entity
 
-&emsp;The chief executive officer of a State may apply to the Corporation for approval to usean alternative administrative entity to carry out the duties otherwise entrusted to a State Commission under this chapter. The chief executive officer shall ensure that any alternative administrative entity used in lieu of a State Commission provides for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the submission of applications on behalf of the State under section 12582 of this title.
+&emsp;The chief executive officer of a State may apply to the Corporation for approval to use an alternative administrative entity to carry out the duties otherwise entrusted to a State Commission under this chapter. The chief executive officer shall ensure that any alternative administrative entity used in lieu of a State Commission provides for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the submission of applications on behalf of the State under section 12582 of this title.
 
 #### (b) Appointment and size
 
@@ -92,7 +92,7 @@ Except as provided in subsection (c)(3), the members of a State Commission for a
 
 #### (A) General limitation
 
-&emsp;&emsp;Except as provided in subparagraph (B), a voting member of the State Commission (orof an alternative administrative entity) shall not participate in the administration of the grant program (including any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity) described in subsection (e)(9) if—
+&emsp;&emsp;Except as provided in subparagraph (B), a voting member of the State Commission (or of an alternative administrative entity) shall not participate in the administration of the grant program (including any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity) described in subsection (e)(9) if—
 
 &emsp;&emsp;&emsp;(i) a grant application relating to such program is pending before the Commission (or such entity); and
 
@@ -158,7 +158,7 @@ The State Commission or alternative administrative entity for a State shall be r
 
 &emsp;(9) Administration of the grant program in support of national service programs that is conducted by the State using assistance provided to the State under section 12571 of this title, including selection, oversight, and evaluation of grant recipients.
 
-&emsp;(10) Development of projects, training methods, curriculum materials, and other materials and activities related to national serviceprograms that receive assistance directly from the Corporation (to be made available in a case in which such a program requests such a project, method, material, or activity) or from the State using assistance provided under section 12571 of this title, for use by programs that request such projects, methods, materials, and activities.
+&emsp;(10) Development of projects, training methods, curriculum materials, and other materials and activities related to national service programs that receive assistance directly from the Corporation (to be made available in a case in which such a program requests such a project, method, material, or activity) or from the State using assistance provided under section 12571 of this title, for use by programs that request such projects, methods, materials, and activities.
 
 #### (f) Relief from administrative requirements
 
@@ -262,7 +262,7 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 #### (A) In general
 
-&emsp;&emsp;The State Commission or alternative administrative entity for a State shall coordinate functions of the Commission or entity (including recruitment, public awareness, and training activities) with such functions of any division of the Corporation that carries out volunteer service programs in the State.
+&emsp;&emsp;The State Commission or alternative administrative entity for a State shall coordinate functions of the Commission or entity\(including recruitment, public awareness, and training activities) with such functions of any division of the Corporation that carries out volunteer service programs in the State.
 
 #### (B) Agreement
 

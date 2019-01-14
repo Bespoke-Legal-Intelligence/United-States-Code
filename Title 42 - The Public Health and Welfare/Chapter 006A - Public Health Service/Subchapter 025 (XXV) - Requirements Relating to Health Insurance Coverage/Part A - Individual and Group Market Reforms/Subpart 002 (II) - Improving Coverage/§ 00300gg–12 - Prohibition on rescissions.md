@@ -1,6 +1,6 @@
 ### §300gg–12. Prohibition on rescissions
 
-A group health plan and a health insurance issuer offering group or individual health insurance coverage shall not rescind such plan or coverage with respect to an enrollee once the enrollee is covered under such plan or coverage involved, except that this section shall not apply to a covered individual who has performed an act or practice that constitutes fraud or makes an intentional misrepresentation of material fact as prohibited by the terms of the plan or coverage. Such plan or coverage may not be cancelled except with prior notice to the enrollee,and only as permitted under section 300gg–2(b) <sup>1</sup> or 300gg–42(b) of this title.
+A group health plan and a health insurance issuer offering group or individual health insurance coverage shall not rescind such plan or coverage with respect to an enrollee once the enrollee is covered under such plan or coverage involved, except that this section shall not apply to a covered individual who has performed an act or practice that constitutes fraud or makes an intentional misrepresentation of material fact as prohibited by the terms of the plan or coverage. Such plan or coverage may not be cancelled except with prior notice to the enrollee, and only as permitted under section 300gg–2(b) <sup>1</sup> or 300gg–42(b) of this title.
 
 (July 1, 1944, ch. 373, title XXVII, §2712, as added Pub. L. 111–148, title I, §1001(5), Mar. 23, 2010, 124 Stat. 131.)
 

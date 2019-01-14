@@ -2,7 +2,7 @@
 
 #### (a) Required action by President
 
-Subject to subsection (b), for every major drug producing country and every major drug-transitcountry, the President shall, on or after March 1, 1987, and March 1 of each succeeding year, to the extent considered necessary by the President to achieve the purposes of this subchapter—
+Subject to subsection (b), for every major drug producing country and every major drug-transit country, the President shall, on or after March 1, 1987, and March 1 of each succeeding year, to the extent considered necessary by the President to achieve the purposes of this subchapter—
 
 &emsp;(1) deny to any or all of the products of that country tariff treatment under the Generalized System of Preferences, the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\], or any other law providing preferential tariff treatment;
 
@@ -60,7 +60,7 @@ Subject to subsection (b), for every major drug producing country and every majo
 
 (2) In determining whether to make the certification required by paragraph (1) with respect to a country, the President shall consider the following:
 
-&emsp;(A) Have the actions of the government of that country resulted in the maximum reductions in illicit drug production which were determined to be achievable pursuant to section 2291(e)(4) <sup>1</sup> of title 22? In the case of a major drug producing country, the President shallgive foremost consideration, in determining whether to make the certification required by paragraph (1), to whether the government of that country has taken actions which have resulted in such reductions.
+&emsp;(A) Have the actions of the government of that country resulted in the maximum reductions in illicit drug production which were determined to be achievable pursuant to section 2291(e)(4) <sup>1</sup> of title 22? In the case of a major drug producing country, the President shall give foremost consideration, in determining whether to make the certification required by paragraph (1), to whether the government of that country has taken actions which have resulted in such reductions.
 
 &emsp;(B) Has that government taken the legal and law enforcement measures to enforce in its territory, to the maximum extent possible, the elimination of illicit cultivation and the suppression of illicit manufacturing of and trafficking in narcotic and psychotropic drugs and other controlled substances, as evidenced by seizures of such drugs and substances and of illicit laboratories and the arrest and prosecution of violators involved in the traffic in such drugs and substances significantly affecting the United States?
 
@@ -80,7 +80,7 @@ Subject to subsection (b), for every major drug producing country and every majo
 
 &emsp;(G) Has that government investigated aggressively all cases in which any member of an agency of the United States Government engaged in drug enforcement activities since January 1, 1985, has been the victim of acts or threats of violence, inflicted by or with the complicity of any law enforcement or other officer of such country or any political subdivision thereof, and has energetically sought to bring the perpetrators of such offense or offenses to justice?
 
-&emsp;(H) Having been requested to do so by the United States Government, does that government fail to provide reasonable cooperation to lawful activities of United States drug enforcement agents, including the refusal of permission to such agents engaged in interdiction of aerial smuggling into the United States to pursue suspected aerial smugglers a reasonable distance into the airspace of the requested country?
+&emsp;(H) Having been requested to do so by the United States Government, does that government fail to provide reasonable cooperation to lawful activities of United States drug enforcement agents, including the refusal of permission to such agents engaged in interdictionof aerial smuggling into the United States to pursue suspected aerial smugglers a reasonable distance into the airspace of the requested country?
 
 &emsp;(I) Has that government made necessary changes in legal codes in order to enable law enforcement officials to move more effectively against narcotics traffickers, such as new conspiracy laws and new asset seizure laws?
 
@@ -110,7 +110,7 @@ The action taken by the President under paragraph (1), (2), or (3) of subsection
 
 (1)(A) The President is authorized to notify the government of a country against which is imposed the sanction described in subsection (a)(4) of his intention to suspend the authority of foreign air carriers owned or controlled by the government or nationals of that country to engage in foreign air transportation to or from the United States.
 
-(B) Within 10 days after the date of notification of a government under subparagraph (A),the Secretary of Transportation shall take all steps necessary to suspend at the earliest possible date the authority of any foreign air carrier owned or controlled, directly or indirectly, by the government or nationals of that country to engage in foreign air transportation to or from the United States, notwithstanding any agreement relating to air services.
+(B) Within 10 days after the date of notification of a government under subparagraph (A), the Secretary of Transportation shall take all steps necessary to suspend at the earliest possible date the authority of any foreign air carrier owned or controlled, directly or indirectly, by the government or nationals of that country to engage in foreign air transportation to or from the United States, notwithstanding any agreement relating to air services.
 
 (C) The President may also direct the Secretary of Transportation to take such steps as may be necessary to suspend the authority of any air carrier to engage in foreign air transportation between the United States and that country.
 

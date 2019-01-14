@@ -2,7 +2,7 @@
 
 No assistance shall be furnished by the United States Government to a country under sections 2151a through 2151d of this title until the country provides assurances to the President, and the President is satisfied, that such country will provide at least 25 per centum of the costs of the entire program, project, or activity with respect to which such assistance is to be furnished, except that such costs borne by such country may be provided on an "inkind" basis.
 
-(Pub. L. 87–195, pt. I, §110, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 716; amended Pub. L. 94–161, title III, §307, Dec. 20, 1975, 89 Stat. 859; Pub. L. 95–88, title I, §106, Aug. 3, 1977,91 Stat. 535; Pub. L. 95–424, title I, §112(b), Oct. 6, 1978, 92 Stat. 949; Pub. L. 99–83, title XII, §1211(a)(3), Aug. 8, 1985, 99 Stat. 279.)
+(Pub. L. 87–195, pt. I, §110, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 716; amended Pub. L. 94–161, title III, §307, Dec. 20, 1975, 89 Stat. 859; Pub. L. 95–88, title I, §106, Aug. 3, 1977, 91 Stat. 535; Pub. L. 95–424, title I, §112(b), Oct. 6, 1978, 92 Stat. 949; Pub. L. 99–83, title XII, §1211(a)(3), Aug. 8, 1985, 99 Stat. 279.)
 
 #### References to Sections 2151a Through 2151d Deemed To Include Section 2293
 

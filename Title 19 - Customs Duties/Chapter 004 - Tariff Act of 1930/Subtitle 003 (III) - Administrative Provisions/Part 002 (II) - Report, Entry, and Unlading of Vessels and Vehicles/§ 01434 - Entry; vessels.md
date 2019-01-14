@@ -36,7 +36,7 @@ The Secretary may by regulation—
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §434, 42Stat. 951. That section was superseded by section 434 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §434, 42 Stat. 951. That section was superseded by section 434 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Provisions for deposit of the register and other papers previous to entry, and for their return to the master or owner of the vessel on clearance of the vessel, were contained in R.S. §2790, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §434, 42 Stat. 951, and repealed by section 642 of that act.
 

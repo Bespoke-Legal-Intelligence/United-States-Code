@@ -56,7 +56,7 @@ Section 1004(5) of the Resource Conservation and Recovery Act of 1976 (42 U.S.C.
 
 <b>2008</b>—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §902(o). See 2006 Amendment note below.
 
-Subsec. (b)(3). Pub. L. 110–181, §3525(a)(4), incorporated the substance of the amendment by Pub. L. 109–241, §902(o), into this section by substituting "Secretary of Homeland Security" for "Secretary of the department in which the Coast Guard is operating". See2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (b)(3). Pub. L. 110–181, §3525(a)(4), incorporated the substance of the amendment by Pub. L. 109–241, §902(o), into this section by substituting "Secretary of Homeland Security" for "Secretary of the department in which the Coast Guard is operating". See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 <b>2006</b>—Pub. L. 109–241, §902(o), which directed the amendment of section 883 of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for subsec. (b)(3) and Historical and Revision notes above.
 

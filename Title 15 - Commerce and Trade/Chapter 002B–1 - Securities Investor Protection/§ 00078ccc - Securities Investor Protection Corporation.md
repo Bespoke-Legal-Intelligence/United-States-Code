@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(i) persons whose principal business, in the determination of SIPC, taking into account business of affiliated entities, is conducted outside the United States and its territories and possessions;
 
-&emsp;&emsp;&emsp;(ii) persons whose business as a broker or dealer consists exclusively of (I) the distribution of shares of registered open end investment companies or unit investment trusts, (II) the sale of variable annuities, (III) the business of insurance, or (IV) the business of rendering investment advisory services to one or more registered investment companies or insurance company separate accounts; and
+&emsp;&emsp;&emsp;(ii) persons whose business as a broker or dealer consists exclusively of (I) the distribution of shares of registered open endinvestment companies or unit investment trusts, (II) the sale of variable annuities, (III) the business of insurance, or (IV) the business of rendering investment advisory services to one or more registered investment companies or insurance company separate accounts; and
 
 &emsp;&emsp;&emsp;(iii) persons who are registered as a broker or dealer pursuant to section 78o(b)(11)(A) of this title.
 
@@ -84,7 +84,7 @@ In addition to the powers granted to SIPC elsewhere in this chapter, SIPC shall 
 
 &emsp;&emsp;&emsp;(i) three such directors shall be selected from among persons who are associated with, and representative of different aspects of, the securities industry, not all of whom shall be from the same geographical area of the United States, and
 
-&emsp;&emsp;&emsp;(ii) two such directors shall be selected from the general public from among persons who are not associated with a broker or dealer or associated with a member of a national securities exchange, within the meaning of section 78c(a)(18) or section 78c(a)(21), respectively, of this title, or similarly associated with any self-regulatory organization or other securities industry group, and who have not had any such association during the two years preceding appointment.
+&emsp;&emsp;&emsp;(ii) two such directors shall be selected from the general public from among persons who are not associated with a broker or dealer or associated with a member of anational securities exchange, within the meaning of section 78c(a)(18) or section 78c(a)(21), respectively, of this title, or similarly associated with any self-regulatory organization or other securities industry group, and who have not had any such association during the two years preceding appointment.
 
 #### (3) Chairman and Vice Chairman
 

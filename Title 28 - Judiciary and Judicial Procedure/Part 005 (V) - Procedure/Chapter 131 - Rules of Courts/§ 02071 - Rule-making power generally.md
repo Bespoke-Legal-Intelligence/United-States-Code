@@ -32,7 +32,7 @@ Provisions of sections 263 and 296 of title 28, U.S.C., 1940 ed., authorizing th
 
 Provisions of section 1111 of title 26, U.S.C., 1940 ed., making applicable to Tax Court Proceedings "the rules of evidence applicable in the courts of the District of Columbia in the type of proceeding which, prior to Sept. 16, 1938, were within the jurisdiction of the courts of equity of said District," were omitted as unnecessary and inconsistent with other provisions of law relating to the Federal courts. The rules of evidence in Tax Court proceedings are the same as those which apply to civil procedure in other courts. See <i>Dempster Mill. Mfg. Co. v. Burnet</i>, 1931, 46 F.2d 604, 60 App.D.C. 23.
 
-For rule-making power of the Supreme Court in copyright infringement actions, see section 25(e) of title 17, U.S.C., 1940 ed., Copyrights. See, also, section 205(a) of title 11, U.S.C., 1940 ed., Bankruptcy, authorizing the Supreme Court to promulgate rules relating to service of process in railroad reorganization proceedings.
+For rule-making power of the Supreme Court in copyright infringement actions, see section 25(e) of title 17, U.S.C., 1940 ed., Copyrights. See, also, section 205(a) of title 11, U.S.C., 1940 ed., Bankruptcy, authorizing theSupreme Court to promulgate rules relating to service of process in railroad reorganization proceedings.
 
 #### Senate Revision Amendment
 
@@ -74,5 +74,5 @@ Pub. L. 100–702, title IV, §405, Nov. 19, 1988, 102 Stat. 4652, provided that
 
 #### Admiralty Rules
 
-The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however in the Supplemental Rules for Certain Admiralty and Maritime Claims, rules A to F,Federal Rules of Civil Procedure, Appendix to this title. The Supplemental Rules for Certain Admiralty and Maritime Claims were subsequently renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions.
+The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however in the Supplemental Rules for Certain Admiralty and Maritime Claims, rules A to F, Federal Rules of Civil Procedure, Appendix to this title. The Supplemental Rules for Certain Admiralty and Maritime Claims were subsequently renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions.
 

@@ -42,7 +42,7 @@
 
 #### (ii) National human trafficking hotline
 
-&emsp;&emsp;&emsp;Beginning in fiscal year 2017, and in each fiscal year thereafter, the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons.
+&emsp;&emsp;&emsp;Beginning in fiscal year 2017, and in each fiscal year thereafter, the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons. The number of the national human trafficking hotline described in this clause shall be posted in a visible place in all Federal buildings.
 
 #### (C) Definition of victim of a severe form of trafficking in persons
 
@@ -122,13 +122,21 @@
 
 #### (H) Notification of children for interim assistance
 
-&emsp;&emsp;Not later than 24 hours after a Federal, State, or local official discovers that a person who is under 18 years of age may be a victim of a severe form of trafficking in persons, the official shall notify the Secretaryof Health and Human Services to facilitate the provision of interim assistance under subparagraph (G).
+&emsp;&emsp;Not later than 24 hours after a Federal, State, or local official discovers that a person who is under 18 years of age may be a victim of a severe form of trafficking in persons, the official shall notify the Secretary of Health and Human Services to facilitate the provision of interim assistance under subparagraph (G).
 
 #### (2) Grants
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the availability of appropriations, the Attorney General may make grants to States, Indian tribes, units of local government, and nonprofit, nongovernmental victims' service organizations to develop, expand, or strengthen victim service programs for victims of trafficking, including programs that provide housing to victims of trafficking.
+&emsp;&emsp;Subject to the availability of appropriations, the Attorney General may make grants to States, Indian tribes, units of local government, and nonprofit, nongovernmental victims' service organizations to develop, expand, or strengthen victim service programs for victims of human trafficking, including programs that provide trauma-informed care or housing options to such victims who are—
+
+&emsp;&emsp;&emsp;(i)(I) between 12 and 24 years of age; and
+
+&emsp;&emsp;&emsp;(II) homeless, in foster care, or involved in the criminal justice system;
+
+&emsp;&emsp;&emsp;(ii) transitioning out of the foster care system; or
+
+&emsp;&emsp;&emsp;(iii) women or girls in underserved populations.
 
 #### (B) Allocation of grant funds
 
@@ -136,13 +144,29 @@
 
 &emsp;&emsp;&emsp;(i) three percent for research, evaluation, and statistics;
 
-&emsp;&emsp;&emsp;(ii) 5 percent for training and technical assistance, including increasing capacity and expertise on security for and protection of service providers from intimidation or retaliation for their activities.<sup>2</sup>
+&emsp;&emsp;&emsp;(ii) 5 percent for training and technical assistance, including increasing capacity and expertise on security for and protection of service providers from intimidation or retaliation for their activities; and
 
 &emsp;&emsp;&emsp;(iii) one percent for management and administration.
 
 #### (C) Limitation on Federal share
 
 &emsp;&emsp;The Federal share of a grant made under this paragraph may not exceed 75 percent of the total costs of the projects described in the application submitted.
+
+#### (D) Priority
+
+&emsp;&emsp;In selecting recipients of grants under this paragraph that are only available for law enforcement operations or task forces, the Attorney General may give priority to any applicant that files an attestation with the Attorney General stating that—
+
+&emsp;&emsp;&emsp;(i) the grant funds awarded under this paragraph—
+
+&emsp;&emsp;&emsp;&emsp;(I) will be used to assist in the prevention of severe forms of trafficking in persons;
+
+&emsp;&emsp;&emsp;&emsp;(II) will be used to strengthen efforts to investigate and prosecute those who knowingly benefit financially from participation in a venture that has engaged in any act of human trafficking;
+
+&emsp;&emsp;&emsp;&emsp;(III) will be used to take affirmative measures to avoid arresting, charging, or prosecuting victims of human trafficking for any offense that is the direct result of their victimization; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) will not be used to require a victim of human trafficking to collaborate with law enforcement officers as a condition of access to any shelter or restorative services; and
+
+&emsp;&emsp;&emsp;(ii) the applicant will provide dedicated resources for anti-human trafficking law enforcement officers for a period that is longer than the duration of the grant received under this paragraph.
 
 #### (c) Trafficking victim regulations
 
@@ -210,13 +234,15 @@ Not later than 180 days after October 28, 2000, the Attorney General, the Secret
 
 &emsp;&emsp;&emsp;(i) a distance learning course on trafficking-in-persons issues and the Department of State's obligations under this Act, which shall be designed for embassy reporting officers, regional bureaus' trafficking-in-persons coordinators, and their superiors;
 
-&emsp;&emsp;&emsp;(ii) specific trafficking-in-persons briefings for all ambassadors and deputy chiefs of mission before such individuals depart for their posts; and
+&emsp;&emsp;&emsp;(ii) specific trafficking-in-persons briefings for all ambassadors and deputy chiefs of mission before such individuals depart for their posts;
 
 &emsp;&emsp;&emsp;(iii) at least annual reminders to all personnel referred to in clauses (i) and (ii), including appropriate personnel from other Federal departments and agencies, at each diplomatic or consular post of the Department of State located outside the United States of—
 
 &emsp;&emsp;&emsp;&emsp;(I) key problems, threats, methods, and warning signs of trafficking in persons specific to the country or jurisdiction in which each such post is located; and
 
-&emsp;&emsp;&emsp;&emsp;(II) appropriate procedures to report information that any such personnel may acquire about possible cases of trafficking in persons.
+&emsp;&emsp;&emsp;&emsp;(II) appropriate procedures to report information that any such personnel may acquire about possible cases of trafficking in persons; and
+
+&emsp;&emsp;&emsp;(iv) a discussion clarifying that an individual who knowingly solicits or patronizes a commercial sex act from a person who was a minor (consistent with section 1591(c) of title 18) or was subject to force, fraud, or coercion is guilty of an offense under chapter 77 of title 18 and is a party to a human trafficking offense.
 
 #### (d) Construction
 
@@ -230,7 +256,7 @@ Nothing in subsection (c) shall be construed as creating any private cause of ac
 
 &emsp;Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Secretary of Homeland Security from instituting removal proceedings under section 1229a of title 8 against an alien admitted as a nonimmigrant under section 1101(a)(15)(T)(i) of title 8, as added by subsection (e), for conduct committed after the alien's admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien's admission as a nonimmigrant under such section 1101(a)(15)(T)(i) of title 8.
 
-#### (f) <sup>3</sup> Assistance for United States citizens and lawful permanent residents
+#### (f) <sup>2</sup> Assistance for United States citizens and lawful permanent residents
 
 #### (1) In general
 
@@ -256,13 +282,13 @@ Nothing in subsection (c) shall be construed as creating any private cause of ac
 
 &emsp;&emsp;The Federal share of a grant awarded under this paragraph may not exceed 75 percent of the total costs of the projects described in the application submitted by the grantee.
 
-#### (f) <sup>3</sup> Omitted
+#### (f) <sup>2</sup> Omitted
 
 #### (g) Annual reports
 
-On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8, as added by subsection (e), or who were unable to adjust their status under section 1255(l) of title 8, solely on account of the unavailability of visas due to alimitation imposed by section 1184(o)(2) or 1255(l)(4)(A) of title 8.
+On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8, as added by subsection (e), or who were unable to adjust their status under section 1255(l) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(o)(2) or 1255(l)(4)(A) of title 8.
 
-(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, §804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, §102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 110–457, title I, §104, title II, §§205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066; Pub. L. 113–4, title XII, §§1203(b), 1234, Mar. 7, 2013, 127 Stat. 139, 146; Pub. L. 114–22, title I, §102, title II, §§224, 231, title VI, §603, May 29, 2015, 129 Stat. 230, 250, 259; Pub. L. 114–271, §1(a), (b), Dec. 14, 2016, 130 Stat. 1398.)
+(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, §804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, §102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 110–457, title I, §104, title II, §§205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066; Pub. L. 113–4, title XII, §§1203(b), 1234, Mar. 7, 2013, 127 Stat. 139, 146; Pub. L. 114–22, title I, §102, title II, §§224, 231, title VI, §603, May 29, 2015, 129 Stat. 230, 250, 259; Pub. L. 114–271, §1(a), (b), Dec. 14, 2016, 130 Stat. 1398; Pub. L. 115–392, §18(b), Dec. 21, 2018, 132 Stat. 5258; Pub. L. 115–393, title III, §302, title V, §501(c), Dec. 21, 2018, 132 Stat. 5272, 5276; Pub. L. 115–425, title I, §103, Jan. 8, 2019, 132 Stat. 5475.)
 
 #### References in Text
 
@@ -279,6 +305,14 @@ For the amendments made by this section, referred to in subsec. (e)(5), see Codi
 Section is comprised of section 107 of Pub. L. 106–386. Subsec. (e)(1)–(4) of section 107 of Pub. L. 106–386 amended sections 1101, 1182, and 1184 of Title 8, Aliens and Nationality, and second subsec. (f) of section 107 of Pub. L. 106–386 amended section 1255 of Title 8.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(2)(A). Pub. L. 115–425 substituted "programs for victims of human trafficking, including programs that provide trauma-informed care or housing options to such victims who are—" and cls. (i) to (iii) for "programs for victims of trafficking, including programs that provide housing to victims of trafficking."
+
+<b>2018</b>—Subsec. (b)(1)(B)(ii). Pub. L. 115–392 inserted at end "The number of the national human trafficking hotline described in this clause shall be posted in a visible place in all Federal buildings."
+
+Subsec. (b)(2)(D). Pub. L. 115–393, §302, added subpar. (D).
+
+Subsec. (c)(4)(B)(iv). Pub. L. 115–393, §501(c), added cl. (iv).
 
 <b>2016</b>—Subsec. (b)(1)(B). Pub. L. 114–271, §1(b), amended directory language of Pub. L. 114–22, §603. See 2015 Amendment note below.
 
@@ -310,7 +344,7 @@ Subsec. (b)(2)(B)(ii). Pub. L. 110–457, §213(a)(3), amended cl. (ii) generall
 
 Subsec. (c)(3). Pub. L. 110–457, §205(a)(1), amended par. (3) generally. Prior to amendment, text read as follows: "Federal law enforcement officials may permit an alien individual's continued presence in the United States, if after an assessment, it is determined that such individual is a victim of a severe form of trafficking and a potential witness to such trafficking, in order to effectuate prosecution of those responsible, and such officials in investigating and prosecuting traffickers shall protect the safety of trafficking victims, including taking measures to protect trafficked persons and their family members from intimidation, threats of reprisals, and reprisals from traffickers and their associates."
 
-Subsec. (c)(4). Pub. L. 110–457, §212(b), inserted ", the Department of Homeland Security, the Department of Health and Human Services," before "and the Department of Justice" and ", including juvenile victims. The Attorney General and the Secretary of Health and Human Services shall provide training to State and local officials to improve the identification and protection of such victims" before period at end.
+Subsec. (c)(4). Pub. L. 110–457, §212(b), inserted ", the Department of Homeland Security, the Department of Health and Human Services," before "and the Department of Justice" and ", including juvenile victims. TheAttorney General and the Secretary of Health and Human Services shall provide training to State and local officials to improve the identification and protection of such victims" before period at end.
 
 Subsec. (f). Pub. L. 110–457, §213(a)(1), added subsec. (f) relating to assistance for United States citizens and lawful permanent residents.
 
@@ -414,7 +448,5 @@ Report.—Not later than one year after the date on which the first pilot progra
 
 <i><sup>1</sup></i><i> So in original. Probably should be "forms".</i>
 
-<i><sup>2</sup></i><i> So in original. The period probably should be "; and".</i>
-
-<i><sup>3</sup></i><i> So in original. Two subsecs. (f) have been enacted.</i>
+<i><sup>2</sup></i><i> So in original. Two subsecs. (f) have been enacted.</i>
 

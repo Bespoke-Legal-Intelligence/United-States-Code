@@ -1,6 +1,6 @@
 ### §205. Forest development roads and trails
 
-(a) Funds available for forest development roads and trails shall be used by the Secretary of Agriculture to pay for the costs of construction and maintenance thereof, including roads and trails on experimental and other areas under Forest Service administration. In connection therewith, the Secretary of Agriculture may enter into contracts with a State or civil subdivision thereof, and issue such regulations as he deems advisable.
+(a) Funds available for forest development roads and trails shall be used by the Secretaryof Agriculture to pay for the costs of construction and maintenance thereof, including roads and trails on experimental and other areas under Forest Service administration. In connection therewith, the Secretary of Agriculture may enter into contracts with a State or civil subdivision thereof, and issue such regulations as he deems advisable.
 
 (b) Cooperation of States, counties, or other local subdivisions may be accepted but shall not be required by the Secretary of Agriculture.
 

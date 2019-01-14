@@ -2,11 +2,13 @@ Subpart B—Benefit Limitations Under Single-Employer Plans
 
 | Sec. |  |
 | :--- | ---: |
-| [436\.](%C2%A7%2000436%20-%20Funding-based%20limits%20on%20benefits%20and%20benefit%20accruals%20under%20single-employer%20plans.md) | Funding-based limitation on shutdown benefits and other unpredictable contingent event benefits under single-employer plans.<sup>1</sup> |
+| [436\.](%C2%A7%2000436%20-%20Funding-based%20limits%20on%20benefits%20and%20benefit%20accruals%20under%20single-employer%20plans.md) | Funding-based limits on benefits and benefit accruals under single-employer plans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(110), Mar. 23, 2018, 132 Stat. 1189, substituted "Funding-based limits on benefits and benefit accruals under single-employer plans" for "Funding-based limitation on shutdown benefits and other unpredictable contingent event benefits under single-employer plans" in item 436.
 
 
 ---

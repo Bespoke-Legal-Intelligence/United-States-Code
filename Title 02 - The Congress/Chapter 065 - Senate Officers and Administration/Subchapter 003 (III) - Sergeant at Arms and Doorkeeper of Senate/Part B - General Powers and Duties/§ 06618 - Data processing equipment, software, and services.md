@@ -1,6 +1,6 @@
 ### §6618. Data processing equipment, software, and services
 
-Notwithstanding any other provision of law, the Sergeant at Arms, subject to the approval of the Committee on Rules and Administration, is hereafter authorized to enter into multi-year contracts for data processing equipment, software, and services.
+Notwithstanding any other provision of law, the Sergeant at Arms, subject to the approval of the Committee on Rules and Administration, is hereafter authorized to enter into multi-yearcontracts for data processing equipment, software, and services.
 
 (Pub. L. 94–32, title I, June 12, 1975, 89 Stat. 182; Pub. L. 95–26, title I, §103, May 4, 1977, 91 Stat. 82.)
 

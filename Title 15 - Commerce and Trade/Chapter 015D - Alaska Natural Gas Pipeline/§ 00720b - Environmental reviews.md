@@ -12,7 +12,7 @@ The issuance of a certificate of public convenience and necessity authorizing th
 
 &emsp;&emsp;(A) shall be the lead agency for purposes of complying with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
 
-&emsp;&emsp;(B) shall be responsible for preparing the environmental impact statement required by section 102(2)(c) <sup>1</sup> of that Act \[42 U.S.C. 4332(2)(C)\] with respect to an Alaska naturalgas transportation project under section 720a of this title.
+&emsp;&emsp;(B) shall be responsible for preparing the environmental impact statement required by section 102(2)(c) <sup>1</sup> of that Act \[42 U.S.C. 4332(2)(C)\] with respect to an Alaska natural gas transportation project under section 720a of this title.
 
 #### (2) Consolidation of statements
 

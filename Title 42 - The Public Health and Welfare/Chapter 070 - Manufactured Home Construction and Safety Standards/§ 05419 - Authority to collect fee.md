@@ -28,7 +28,7 @@ In using amounts from any fee collected under this section, the Secretary shall 
 
 #### (c) Prohibited use
 
-No amount from any fee collected under this section may be used for any purpose or activitynot specifically authorized by this chapter, unless such activity was already engaged in by the Secretary prior to December 27, 2000.
+No amount from any fee collected under this section may be used for any purpose or activity not specifically authorized by this chapter, unless such activity was already engaged in by the Secretary prior to December 27, 2000.
 
 #### (d) Modification
 

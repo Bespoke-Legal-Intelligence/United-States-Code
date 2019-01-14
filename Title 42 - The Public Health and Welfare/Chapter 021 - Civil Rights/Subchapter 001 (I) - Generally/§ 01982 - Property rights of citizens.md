@@ -12,7 +12,7 @@ Section was formerly classified to section 42 of Title 8, Aliens and Nationality
 
 #### Ex. Ord. No. 11063. Equal Opportunity in Housing
 
-Ex. Ord. No. 11063, Nov. 20, 1962, 27 F.R. 11527, as amended by Ex. Ord. No. 12259, Dec. 31, 1980, 46 F.R. 1253; Ex. Ord. No. 12892, §6–604, Jan. 17, 1994, 59 F.R. 2939, provided:
+Ex. Ord. No. 11063, Nov. 20, 1962, 27 F.R. 11527, as amended by Ex. Ord. No. 12259, Dec. 31, 1980, 46 F.R.1253; Ex. Ord. No. 12892, §6–604, Jan. 17, 1994, 59 F.R. 2939, provided:
 
 WHEREAS the granting of Federal assistance for the provision, rehabilitation, or operation of housing and related facilities from which Americans are excluded because of their race, color, creed, or national origin is unfair, unjust, and inconsistent with the public policy of the United States as manifested in its Constitution and laws; and
 
@@ -66,7 +66,7 @@ It may—
 
 (c) refuse to approve a lending institution or any other lender as a beneficiary under any program administered by it which is affected by this order or revoke such approval if previously given.
 
-Sec. 303. In appropriate cases executive departments and agencies shall refer to the Attorney General violations of any rules, regulations, or procedures issued or adopted pursuant to this order, or violations of any nondiscrimination provisions included in any agreement or contract, for such civil or criminal action as he may deem appropriate. The Attorney General is authorized to furnish legal advice concerning this order to the Committee and to any department or agency requesting such advice.
+Sec. 303. In appropriate cases executive departments and agencies shall refer to the Attorney General violations of any rules, regulations, or procedures issued or adopted pursuant to this order, or violations of anynondiscrimination provisions included in any agreement or contract, for such civil or criminal action as he may deem appropriate. The Attorney General is authorized to furnish legal advice concerning this order to the Committee and to any department or agency requesting such advice.
 
 Sec. 304. Any executive department or agency affected by this order may also invoke the sanctions provided in Section 302 where any person or firm, including a lender, has violated the rules, regulations, or procedures issued or adopted pursuant to this order, or the nondiscrimination provisions included in any agreement or contract, with respect to any program affected by this order administered by any other executive department or agency.
 

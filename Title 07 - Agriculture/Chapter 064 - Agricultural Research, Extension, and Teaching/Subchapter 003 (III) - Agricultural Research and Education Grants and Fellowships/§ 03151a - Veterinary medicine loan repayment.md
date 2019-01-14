@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may enter into agreements of 1 year duration with veterinarians whohave agreements pursuant to paragraph (1) for such veterinarians to provide services to the Federal Government in emergency situations, as determined by the Secretary, under terms and conditions specified in the agreement. Pursuant to an agreement under this paragraph, the Secretary shall pay an amount, in addition to the amount paid pursuant to the agreement in paragraph (1), as determined by the Secretary and specified in the agreement, of the principal and interest of qualifying educational loans of the veterinarians.
+&emsp;&emsp;The Secretary may enter into agreements of 1 year duration with veterinarians who have agreements pursuant to paragraph (1) for such veterinarians to provide services to the Federal Government in emergency situations, as determined by the Secretary, under terms and conditions specified in the agreement. Pursuant to an agreement under this paragraph, the Secretary shall pay an amount, in addition to the amount paid pursuant to the agreement in paragraph (1), as determined by the Secretary and specified in the agreement, of the principal and interest of qualifying educational loans of the veterinarians.
 
 #### (B) Requirements
 

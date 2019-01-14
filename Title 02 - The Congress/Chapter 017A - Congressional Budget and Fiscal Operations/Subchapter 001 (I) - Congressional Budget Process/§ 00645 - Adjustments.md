@@ -36,7 +36,7 @@ Following any adjustment made under subsection (a), the Committees on Appropriat
 
 #### (A) Waiver
 
-&emsp;&emsp;Paragraph (1) may be waived or suspended in the Senate only by an affirmative vote of three-fifths of the Members, duly chosen and sworn.
+&emsp;&emsp;Paragraph (1) may be waived or suspended in the Senate only by an affirmative vote ofthree-fifths of the Members, duly chosen and sworn.
 
 #### (B) Appeals
 
@@ -58,9 +58,61 @@ Following any adjustment made under subsection (a), the Committees on Appropriat
 
 It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause the discretionary spending limits as set forth in section 901 of this title to be exceeded.
 
-(Pub. L. 93–344, title III, §314, as added Pub. L. 105–33, title X, §10114(a), Aug. 5, 1997, 111 Stat. 688; amended Pub. L. 105–89, title II, §201(b)(2), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 112–25, title I, §105(a), Aug. 2, 2011, 125 Stat. 246; Pub. L. 112–78, title V, §511, Dec. 23, 2011, 125 Stat. 1291; Pub. L. 113–67, div. A, title I, §122(10), Dec. 26, 2013, 127 Stat. 1176.)
+#### (g) Adjustment for reemployment services and eligibility assessments
+
+#### (1) In general
+
+#### (A) Adjustments
+
+&emsp;&emsp;If the Committee on Appropriations of either House reports an appropriation measure for any of fiscal years 2022 through 2027 that provides budget authority for grants under section 506 of title 42, or if a conference committee submits a conference report thereon, the chairman of the Committee on the Budget of the House of Representatives or the Senate shall make the adjustments referred to in subparagraph (B) to reflect the additional new budget authority provided for such grants in that measure or conference report and the outlays resulting therefrom, consistent with subparagraph (D).
+
+#### (B) Types of adjustments
+
+&emsp;&emsp;The adjustments referred to in this subparagraph consist of adjustments to—
+
+&emsp;&emsp;&emsp;(i) the discretionary spending limits for that fiscal year as set forth in the most recently adopted concurrent resolution on the budget;
+
+&emsp;&emsp;&emsp;(ii) the allocations to the Committees on Appropriations of the Senate and the House of Representatives for that fiscal year under section 633(a) of this title; and
+
+&emsp;&emsp;&emsp;(iii) the appropriate budget aggregates for that fiscal year in the most recently adopted concurrent resolution on the budget.
+
+#### (C) Enforcement
+
+&emsp;&emsp;The adjusted discretionary spending limits, allocations, and aggregates under this paragraph shall be considered the appropriate limits, allocations, and aggregates for purposes of congressional enforcement of this Act and concurrent budget resolutions under this Act.
+
+#### (D) Limitation
+
+&emsp;&emsp;No adjustment may be made under this subsection in excess of—
+
+&emsp;&emsp;&emsp;(i) for fiscal year 2022, $133,000,000;
+
+&emsp;&emsp;&emsp;(ii) for fiscal year 2023, $258,000,000;
+
+&emsp;&emsp;&emsp;(iii) for fiscal year 2024, $433,000,000;
+
+&emsp;&emsp;&emsp;(iv) for fiscal year 2025, $533,000,000;
+
+&emsp;&emsp;&emsp;(v) for fiscal year 2026, $608,000,000; and
+
+&emsp;&emsp;&emsp;(vi) for fiscal year 2027, $633,000,000.
+
+#### (E) Definition
+
+&emsp;&emsp;As used in this subsection, the term "additional new budget authority" means the amount provided for a fiscal year, in excess of $117,000,000, in an appropriation measure or conference report (as the case may be) and specified to pay for grants to States under section 506 of title 42.
+
+#### (2) Report on 633(b) level
+
+&emsp;Following any adjustment made under paragraph (1), the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations pursuant to section 633(b) of this title to carry out this subsection.
+
+(Pub. L. 93–344, title III, §314, as added Pub. L. 105–33, title X, §10114(a), Aug. 5, 1997, 111 Stat. 688; amended Pub. L. 105–89, title II, §201(b)(2), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 112–25, title I, §105(a), Aug. 2, 2011, 125 Stat. 246; Pub. L. 112–78, title V, §511, Dec. 23, 2011, 125 Stat. 1291; Pub. L. 113–67, div. A, title I, §122(10), Dec. 26, 2013, 127 Stat. 1176; Pub. L. 115–123, div. C, title II, §30206(d), Feb. 9, 2018, 132 Stat. 131.)
+
+#### References in Text
+
+This Act, referred to in subsec. (g)(1)(C), is Pub. L. 115–123, Feb. 9, 2018, 132 Stat. 64, known as the Bipartisan Budget Act of 2018. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 1305 of Title 42, The Public Health and Welfare, and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (g). Pub. L. 115–123 added subsec. (g).
 
 <b>2013</b>—Subsec. (d)(2). Pub. L. 113–67 redesignated subpar. (B) as (A) and substituted "under paragraph (1)" for "under subparagraph (A)", redesignated subpar. (C) as (B) and substituted "under subparagraph (A)" for "under subparagraph (B)", and struck out former subpar. (A) which read as follows: "In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency pursuant to paragraph (1), the chair of the Committee on the Budget shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives."
 

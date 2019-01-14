@@ -8,7 +8,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The President shall carry out an import quota program during the period beginning on May 13, 2002, through July 31, 2008, as provided in this subsection.
+&emsp;&emsp;The President shall carry out an import quota program during the period beginningon May 13, 2002, through July 31, 2008, as provided in this subsection.
 
 #### (B) Program requirements
 

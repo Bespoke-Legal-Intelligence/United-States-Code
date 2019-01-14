@@ -174,7 +174,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 &emsp;&emsp;(B) The total number of undergraduate students who applied to, were admitted by, and enrolled in the institution.
 
-&emsp;&emsp;(C) For institutions that require SAT or ACT scores to be submitted, the reading,writing, mathematics, and combined scores on the SAT or ACT, as applicable, for the middle 50 percent range of the institution's freshman class.
+&emsp;&emsp;(C) For institutions that require SAT or ACT scores to be submitted, the reading, writing, mathematics, and combined scores on the SAT or ACT, as applicable, for the middle 50 percent range of the institution's freshman class.
 
 &emsp;&emsp;(D) The number of first-time, full-time, and part-time students enrolled at the institution, at the undergraduate and (if applicable) graduate levels.
 
@@ -334,7 +334,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (3) Availability and comparison
 
-&emsp;The multi-year tuition calculator described in paragraph (1) shall be available on the College Navigator website and shall allow current and prospective students, families of such students, and consumers to compare information and estimates under this subsection for multiple institutions of higher education.
+&emsp;The multi-year tuition calculator described in paragraph (1) shall be available on the College Navigator website and shall allow current and prospective students, families of such students, and consumers to compare informationand estimates under this subsection for multiple institutions of higher education.
 
 #### (4) Disclaimer
 

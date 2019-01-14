@@ -30,7 +30,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 substituted "Responsibilities of the Office of Personnel Management" for "Ratings for performance" in section catchline and in text substituted provisions relating to the responsibilities of the Office of Personnel Management under this subchapter, for provisions relating to ratings for performance.
+<b>1978</b>—Pub. L. 95–454 substituted "Responsibilities of the Office of Personnel Management" for "Ratings forperformance" in section catchline and in text substituted provisions relating to the responsibilities of the Office of Personnel Management under this subchapter, for provisions relating to ratings for performance.
 
 #### Effective Date of 1978 Amendment
 

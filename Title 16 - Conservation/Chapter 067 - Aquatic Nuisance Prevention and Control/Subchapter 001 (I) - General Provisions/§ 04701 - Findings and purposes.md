@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;&emsp;(C) waters east of the Great Lakes, into the Hudson River and Lake Champlain;
 
-&emsp;(4) the potential economic disruption to communities affected by the zebra mussel dueto its colonization of water pipes, boat hulls and other hard surfaces has been estimated at $5,000,000,000 by the year 2000, and the potential disruption to the diversity and abundance of native fish and other species by the zebra mussel and ruffe, round goby, and other nonindigenous species could be severe;
+&emsp;(4) the potential economic disruption to communities affected by the zebra mussel due to its colonization of water pipes, boat hulls and other hard surfaces has been estimated at $5,000,000,000 by the year 2000, and the potential disruption to the diversity and abundance of native fish and other species by the zebra mussel and ruffe, round goby, and other nonindigenous species could be severe;
 
 &emsp;(5) the zebra mussel was discovered on Lake Champlain during 1993 and the opportunity exists to act quickly to establish zebra mussel controls before Lake Champlain is further infested and management costs escalate;
 
@@ -108,7 +108,7 @@ Multiagency effort to slow the spread of asian carp in the upper mississippi and
 
 &emsp;"(A)
 
-In general.—The Director of the United States Fish and Wildlife Service, in coordination with the Secretary \[of the Army\], the Director of the National Park Service, and the Director of the United States Geological Survey, shall lead a multiagency effort to slow the spread of Asian carp in the Upper Mississippi and Ohio River basins and tributaries by providing technical assistance, coordination, best practices, and support to State and local governments in carrying out activities designed to slow, and eventually eliminate, the threat posed by Asian carp.
+In general.—The Director of the United States Fish and Wildlife Service, in coordinationwith the Secretary \[of the Army\], the Director of the National Park Service, and the Director of the United States Geological Survey, shall lead a multiagency effort to slow the spread of Asian carp in the Upper Mississippi and Ohio River basins and tributaries by providing technical assistance, coordination, best practices, and support to State and local governments in carrying out activities designed to slow, and eventually eliminate, the threat posed by Asian carp.
 
 &emsp;"(B)
 

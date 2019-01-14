@@ -30,7 +30,7 @@ The regulations developed under subsection (a) shall require security training p
 
 &emsp;(6) Psychology, behavior, and methods of terrorists, including observation and analysis.
 
-&emsp;(7) Training related to psychological responses to terrorist incidents, including theability to cope with hijacker behavior and passenger responses.
+&emsp;(7) Training related to psychological responses to terrorist incidents, including the ability to cope with hijacker behavior and passenger responses.
 
 &emsp;(8) Live situational training exercises regarding various threat conditions, including tunnel evacuation procedures.
 

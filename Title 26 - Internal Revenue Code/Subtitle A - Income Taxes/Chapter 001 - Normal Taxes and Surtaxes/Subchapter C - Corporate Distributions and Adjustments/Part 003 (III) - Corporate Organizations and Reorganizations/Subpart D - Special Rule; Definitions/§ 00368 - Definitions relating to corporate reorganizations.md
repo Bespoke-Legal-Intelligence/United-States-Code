@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(i) one corporation acquires substantially all of the properties of another corporation,
 
-&emsp;&emsp;&emsp;(ii) the acquisition would qualify under paragraph (1)(C) but for the fact that theacquiring corporation exchanges money or other property in addition to voting stock, and
+&emsp;&emsp;&emsp;(ii) the acquisition would qualify under paragraph (1)(C) but for the fact that the acquiring corporation exchanges money or other property in addition to voting stock, and
 
 &emsp;&emsp;&emsp;(iii) the acquiring corporation acquires, solely for voting stock described in paragraph (1)(C), property of the other corporation having a fair market value which is at least 80 percent of the fair market value of all of the property of the other corporation,
 
@@ -40,7 +40,7 @@
 
 #### (C) Transfers of assets or stock to subsidiaries in certain paragraph (1)(A), (1)(B), (1)(C), and (1)(G) cases
 
-&emsp;&emsp;A transaction otherwise qualifying under paragraph (1)(A), (1)(B), or (1)(C) shall not be disqualified by reason of the fact that part or all of the assets or stock which were acquired in the transaction are transferred to a corporation controlled by the corporation acquiring such assets or stock. A similar rule shall apply to a transaction otherwise qualifying under paragraph (1)(G) where the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met with respect to the acquisition of the assets.
+&emsp;&emsp;A transaction otherwise qualifying under paragraph (1)(A), (1)(B), or (1)(C) shall not bedisqualified by reason of the fact that part or all of the assets or stock which were acquired in the transaction are transferred to a corporation controlled by the corporation acquiring such assets or stock. A similar rule shall apply to a transaction otherwise qualifying under paragraph (1)(G) where the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met with respect to the acquisition of the assets.
 
 #### (D) Use of stock of controlling corporation in paragraph (1)(A) and (1)(G) cases
 
@@ -70,9 +70,9 @@
 
 &emsp;&emsp;&emsp;(v) This subparagraph shall not apply if the stock of each investment company is owned substantially by the same persons in the same proportions.
 
-&emsp;&emsp;&emsp;(vi) If an investment company which does not meet the requirements of clause\(ii) acquires assets of another corporation, clause (i) shall be applied to such investment company and its shareholders and security holders as though its assets had been acquired by such other corporation. If such investment company acquires stock of another corporation in a reorganization described in section 368(a)(1)(B), clause (i) shall be applied to the shareholders of such investment company as though they had exchanged with such other corporation all of their stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange. For purposes of section 1001, the deemed acquisition or exchange referred to in the two preceding sentences shall be treated as a sale or exchange of property by the corporation and by the shareholders and security holders to which clause (i) is applied.
+&emsp;&emsp;&emsp;(vi) If an investment company which does not meet the requirements of clause (ii) acquires assets of another corporation, clause (i) shall be applied to such investment company and its shareholders and security holders as though its assets had been acquired by such other corporation. If such investment company acquires stock of another corporation in a reorganization described in section 368(a)(1)(B), clause (i) shall be applied to the shareholders of such investment company as though they had exchanged with such other corporation all of their stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange. For purposes of section 1001, the deemed acquisition or exchange referred to in the two preceding sentences shall be treated as a sale or exchange of property by the corporation and by the shareholders and security holders to which clause (i) is applied.
 
-&emsp;&emsp;&emsp;(vii) For purposes of clauses (ii) and (iii), the term "securities" includes obligations of State and local governments, commodity futures contracts, shares of regulated investment companies and real estate investment trusts, and other investments constituting a security within the meaning of the Investment Company Act of 1940 (15 U.S.C. 80a–2(36)).<sup>1</sup>
+&emsp;&emsp;&emsp;(vii) For purposes of clauses (ii) and (iii), the term "securities" includes obligationsof State and local governments, commodity futures contracts, shares of regulated investment companies and real estate investment trusts, and other investments constituting a security within the meaning of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a)(36)).
 
 &emsp;&emsp;&emsp;\[(viii) Repealed. Pub. L. 98–369, div. A, title I, §174(b)(5)(D), July 18, 1984, 98 Stat. 707\]
 
@@ -148,13 +148,15 @@ For purposes of this part, the term "a party to a reorganization" includes—
 
 For purposes of part I (other than section 304), part II, this part, and part V, the term "control" means the ownership of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 120; Pub. L. 88–272, title II, §218(a), (b), Feb. 26, 1964, 78 Stat. 57; Pub. L. 90–621, §1(a), (b), Oct. 22, 1968, 82 Stat. 1310, 1311; Pub. L. 91–693, §1(a), (b), Jan. 12, 1971, 84 Stat. 2077; Pub. L. 94–455, title VIII, §806(f)(1), title XXI, §2131(a), Oct. 4, 1976, 90 Stat. 1605, 1922; Pub. L. 95–600, title VII, §701(j)(1), Nov. 6, 1978, 92 Stat. 2905; Pub. L. 96–589, §4(a)–(d), (h)(3), (4), Dec. 24, 1980, 94 Stat. 3401–3403, 3405; Pub. L. 97–34, title II, §241, Aug. 13, 1981, 95 Stat. 254; Pub. L. 97–248, title II, §225(a), Sept. 3, 1982, 96 Stat. 490; Pub. L. 97–448, title III, §304(b), (c), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §§63(a), 64(a), 174(b)(5)(D), July 18, 1984, 98 Stat. 583, 584, 707; Pub. L. 99–514, title VI, §621(e)(1), title IX, §904(a), title XVIII, §§1804(g)(2), (h), 1879(l)(1), Oct. 22, 1986, 100 Stat. 2266, 2385, 2806, 2909; Pub. L. 100–647, title I, §1018(q)(5), title IV, §4012(b)(1)(A), Nov. 10, 1988, 102 Stat. 3586, 3656; Pub. L. 101–73, title XIV, §1401(a)(1), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 105–34, title X, §1012(c)(2), Aug. 5, 1997, 111 Stat. 917; Pub. L. 105–206, title VI, §6010(c)(3)(B), July 22, 1998, 112 Stat. 813; Pub. L. 105–277, div. J, title IV, §4003(f)(2), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, §3001(a)(3), June 25, 1999, 113 Stat. 182.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 120; Pub. L. 88–272, title II, §218(a), (b), Feb. 26, 1964, 78 Stat. 57; Pub. L. 90–621, §1(a), (b), Oct. 22, 1968, 82 Stat. 1310, 1311; Pub. L. 91–693, §1(a), (b), Jan. 12, 1971, 84 Stat. 2077; Pub. L. 94–455, title VIII, §806(f)(1), title XXI, §2131(a), Oct. 4, 1976, 90 Stat. 1605, 1922; Pub. L. 95–600, title VII, §701(j)(1), Nov. 6, 1978, 92 Stat. 2905; Pub. L. 96–589, §4(a)–(d), (h)(3), (4), Dec. 24, 1980, 94 Stat. 3401–3403, 3405; Pub. L. 97–34, title II, §241, Aug. 13, 1981, 95 Stat. 254; Pub. L. 97–248, title II, §225(a), Sept. 3, 1982, 96 Stat. 490; Pub. L. 97–448, title III, §304(b), (c), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §§63(a), 64(a), 174(b)(5)(D), July 18, 1984, 98 Stat. 583, 584, 707; Pub. L. 99–514, title VI, §621(e)(1), title IX, §904(a), title XVIII, §§1804(g)(2), (h), 1879(l)(1), Oct. 22, 1986, 100 Stat. 2266, 2385, 2806, 2909; Pub. L. 100–647, title I, §1018(q)(5), title IV, §4012(b)(1)(A), Nov. 10, 1988, 102 Stat. 3586, 3656; Pub. L. 101–73, title XIV, §1401(a)(1), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 105–34, title X, §1012(c)(2), Aug. 5, 1997, 111 Stat. 917; Pub. L. 105–206, title VI, §6010(c)(3)(B), July 22, 1998, 112 Stat. 813; Pub. L. 105–277, div. J, title IV, §4003(f)(2), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, §3001(a)(3), June 25, 1999, 113 Stat. 182; Pub. L. 115–141, div. U, title IV, §401(a)(68), Mar. 23, 2018, 132 Stat. 1187.)
 
 #### References in Text
 
-The Investment Company Act of 1940, referred to in subsec. (a)(2)(F)(vii), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(2)(F)(vii), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2)(F)(vii). Pub. L. 115–141 substituted "(15 U.S.C. 80a–2(a)(36))" for "(15 U.S.C. 80a–2(36))".
 
 <b>1999</b>—Subsec. (a)(1)(C). Pub. L. 106–36, §3001(a)(3)(A), struck out ", or the fact that property acquired is subject to a liability," before "shall be disregarded".
 
@@ -190,7 +192,7 @@ Subsec. (a)(3)(D). Pub. L. 99–514, §904(a), (c)(1), as amended by Pub. L. 100
 
 Agency receivership proceedings which involve financial institutions.—For purposes of subparagraphs (A) and (B), in the case of a receivership, foreclosure, or similar proceeding before a Federal or State agency involving a financial institution referred to in section 581 or 591, the agency shall be treated as a court.", was repealed by Pub. L. 101–73, §1401(b)(1), (c)(4), eff. Oct. 22, 1986, and I.R.C. of 1986 applicable as if the amendments made by such section had not been enacted.
 
-Subsec. (c). Pub. L. 99–514, §1804(h)(1), in amending subsec. (c) generally, struck out par. (1) designation and struck out par. (2) defining term "control" as having meaning given to such term by section 304(c) in case of any transaction with respect to which requirements of subpars. (A) and (B) of section 354(b)(1) are met, for purposes of determining whether such transaction is described in subpar. (D) of subsec. (a)(1).
+Subsec. (c). Pub. L. 99–514, §1804(h)(1), in amending subsec. (c) generally, struck out par. (1) designation and struck out par. (2) defining term "control" as having meaning given to such term by section 304(c) in case of any transaction with respect to which requirements of subpars. (A) and (B) of section 354(b)(1) aremet, for purposes of determining whether such transaction is described in subpar. (D) of subsec. (a)(1).
 
 Pub. L. 99–514, §621(e)(1), repealed amendment by Pub. L. 94–455, §806(f)(1). See 1976 Amendment note below.
 
@@ -266,7 +268,7 @@ Pub. L. 100–647, title IV, §4012(b)(1)(C)(i), Nov. 10, 1988, 102 Stat. 3657, 
 
 Repeal of amendment by section 806(f)(1) of Pub. L. 94–455 effective Jan. 1, 1986, with certain exceptions, see section 621(f)(2) of Pub. L. 99–514, set out as a note under section 382 of this title.
 
-Pub. L. 99–514, title IX, §904(c)(1), Oct. 22, 1986, 100 Stat. 2385, as amended by Pub. L. 100–647, title IV, §4012(a)(1), Nov. 10, 1988, 102 Stat. 3656, which provided that the amendments made by subsection (a), amending this section, were to apply to acquisitions after Dec. 31, 1989, in taxable years ending after such date, was repealed by Pub. L. 101–73, title XIV, §1401(b)(1), Aug. 9, 1989, 103 Stat. 549.
+Pub. L. 99–514, title IX, §904(c)(1), Oct. 22, 1986, 100 Stat. 2385, as amended by Pub. L. 100–647, title IV, §4012(a)(1), Nov. 10, 1988, 102 Stat. 3656, which provided that the amendments made by subsection (a), amendingthis section, were to apply to acquisitions after Dec. 31, 1989, in taxable years ending after such date, was repealed by Pub. L. 101–73, title XIV, §1401(b)(1), Aug. 9, 1989, 103 Stat. 549.
 
 Amendment by section 1804(g)(2) of Pub. L. 99–514 applicable to plans of reorganizations adopted after Oct. 22, 1986, see section 1804(g)(4) of Pub. L. 99–514, set out as a note under section 361 of this title.
 
@@ -341,6 +343,4 @@ Pub. L. 88–272, title II, §218(c), Feb. 26, 1964, 78 Stat. 57, provided that:
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-<i><sup>1</sup></i><i> So in original. A reference to 15 U.S.C. 80a–2(a)(36) was probably intended.</i>
 

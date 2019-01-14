@@ -58,7 +58,7 @@ To be eligible to receive assistance under this part, a project shall advance ef
 
 #### (A) Allocation of funds
 
-&emsp;&emsp;The Secretary shall ensure that up to 30 percent of the funds made available under section 15961(a) of this title are used to fund projects other than those described in paragraph (1).
+&emsp;&emsp;The Secretary shall ensure that up to 30 percent of the funds made available undersection 15961(a) of this title are used to fund projects other than those described in paragraph (1).
 
 #### (B) Technical milestones
 
@@ -170,7 +170,7 @@ In carrying out this part, the Secretary shall require cost sharing in accordanc
 
 #### (1) In general
 
-&emsp;In selecting a project for financial assistance under this section, the Secretary shall establish a reasonable period of time during whichthe owner or operator of the project shall complete the construction or demonstration phase of the project, as the Secretary determines to be appropriate.
+&emsp;In selecting a project for financial assistance under this section, the Secretary shall establish a reasonable period of time during which the owner or operator of the project shall complete the construction or demonstration phase of the project, as the Secretary determines to be appropriate.
 
 #### (2) Condition of financial assistance
 

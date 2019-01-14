@@ -1,6 +1,6 @@
 ### §2304. Contracts: competition requirements
 
-(a)(1) Except as provided in subsections (b), (c), and (g) and except in the case of procurement procedures otherwise expressly authorized by statute, the head of an agency in conducting a procurement for property or services—
+(a)(1) Except as provided in subsections (b), (c), and (g) and except in the case of procurement procedures otherwise expressly authorized bystatute, the head of an agency in conducting a procurement for property or services—
 
 &emsp;(A) shall obtain full and open competition through the use of competitive procedures in accordance with the requirements of this chapter and the Federal Acquisition Regulation; and
 
@@ -34,7 +34,7 @@
 
 &emsp;(F) in the case of medical supplies, safety supplies, or emergency supplies, would satisfy a critical need for such supplies.
 
-(2) The head of an agency may provide for the procurement of property or services covered by this section using competitive procedures, but excluding concerns other than small business concerns in furtherance of sections 9 and 15 of the Small Business Act (15 U.S.C. 638, 644) and concerns other than small business concerns, historically Black colleges and universities, and minority institutions in furtherance of section 2323 of this title.
+(2) The head of an agency may provide for the procurement of property or services covered by this section using competitive procedures, but excluding concerns other than small business concerns in furtherance of sections 9 and 15 of the Small Business Act (15 U.S.C. 638, 644).
 
 (3) A contract awarded pursuant to the competitive procedures referred to in paragraphs (1) and (2) shall not be subject to the justification and approval required by subsection (f)(1).
 
@@ -62,13 +62,13 @@
 
 (d)(1) For the purposes of applying subsection (c)(1)—
 
-&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, the property or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a concept—
+&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, theproperty or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a concept—
 
 &emsp;&emsp;(i) that is unique and innovative or, in the case of a service, for which the source demonstrates a unique capability of the source to provide the service; and
 
 &emsp;&emsp;(ii) the substance of which is not otherwise available to the United States, and does not resemble the substance of a pending competitive procurement; and
 
-&emsp;(B) in the case of a follow-on contract for the continued development or production of amajor system or highly specialized equipment, or the continued provision of highly specialized services, such property or services may be deemed to be available only from the original source and may be procured through procedures other than competitive procedures when it is likely that award to a source other than the original source would result in—
+&emsp;(B) in the case of a follow-on contract for the continued development or production of a major system or highly specialized equipment, or the continued provision of highly specialized services, such property or services may be deemed to be available only from the original source and may be procured through procedures other than competitive procedures when it is likely that award to a source other than the original source would result in—
 
 &emsp;&emsp;(i) substantial duplication of cost to the United States which is not expected to be recovered through competition; or
 
@@ -208,7 +208,19 @@
 
 (3) This subsection does not require the public availability of information that is exempt from public disclosure under section 552(b) of title 5.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–800, §8, Aug. 28, 1958, 72 Stat. 967; Pub. L. 85–861, §33(a)(12), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–653, §1(a)–(c), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–268, §5, Mar. 16, 1968, 82 Stat. 50; Pub. L. 90–500, title IV, §405, Sept. 20, 1968, 82 Stat. 851; Pub. L. 93–356, §4, July 25, 1974, 88 Stat. 390; Pub. L. 96–513, title V, §511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §907(a), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–295, §1(24), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–375, title I, §114, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 98–369, div. B, title VII, §§2723(a), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, §504(b)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), title XIII, §1303(a)(13), Nov. 8, 1985, 99 Stat. 703, 739; Pub. L. 99–500, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, 1783–155, and Pub. L. 99–591, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, §§923(a)–(c), 927(a), title XIII, §1343(a)(14), Nov. 14, 1986, 100 Stat. 3932, 3935, 3993, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(d)(3), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§812, 817, 818, 853(d), Nov. 29, 1989, 103 Stat. 1493, 1501, 1502, 1519; Pub. L. 101–510, div. A, title VIII, §806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–25, title VII, §701(d)(2), Apr. 6, 1991, 105 Stat. 114; Pub. L. 102–484, div. A, title VIII, §§801(h)(2), 816, title X, §1052(23), Oct. 23, 1992, 106 Stat. 2445, 2454, 2500; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §§1001–1003, 1004(b), 1005, title IV, §4401(a), title VII, §7203(a)(1), Oct. 13, 1994, 108 Stat. 3249, 3253, 3254, 3347, 3379; Pub. L. 104–106, div. D, title XLI, §§4101(a), 4102(a), title XLII, §4202(a)(1), title XLIII, §4321(b)(4), (5), Feb. 10, 1996, 110 Stat. 642, 643, 652, 672; Pub. L. 104–320, §§7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §§841(b), 850(f)(3)(B), title X, §1073(a)(42), (43), Nov. 18, 1997, 111 Stat. 1843, 1850, 1902; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–217, §3(b)(3), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–375, div. A, title VIII, §815, Oct. 28, 2004, 118 Stat. 2015; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title VIII, §844(b), Jan. 28, 2008, 122 Stat. 239; Pub. L. 110–417, \[div. A\], title VIII, §862(b), Oct. 14, 2008, 122 Stat. 4546; Pub. L. 111–350, §5(b)(12), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 115–91, div. A, title XVII, §1709(b)(2), Dec. 12, 2017, 131 Stat. 1809.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–800, §8, Aug. 28, 1958, 72 Stat. 967; Pub. L. 85–861, §33(a)(12), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–653, §1(a)–(c), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–268, §5, Mar. 16, 1968, 82 Stat. 50; Pub. L. 90–500, title IV, §405, Sept. 20, 1968, 82 Stat. 851; Pub. L. 93–356, §4, July 25, 1974, 88 Stat. 390; Pub. L. 96–513, title V, §511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §907(a), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–295, §1(24), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–375, title I, §114, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 98–369, div. B, title VII, §§2723(a), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, §504(b)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), title XIII, §1303(a)(13), Nov. 8, 1985, 99 Stat. 703, 739; Pub. L. 99–500, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, 1783–155, and Pub. L. 99–591, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, §§923(a)–(c), 927(a), title XIII, §1343(a)(14), Nov. 14, 1986, 100 Stat. 3932, 3935, 3993, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(d)(3), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§812, 817, 818, 853(d), Nov. 29, 1989, 103 Stat. 1493, 1501, 1502, 1519; Pub. L. 101–510, div. A, title VIII, §806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–25, title VII, §701(d)(2), Apr. 6, 1991, 105 Stat. 114; Pub. L. 102–484, div. A, title VIII, §§801(h)(2), 816, title X, §1052(23), Oct. 23, 1992, 106 Stat. 2445, 2454, 2500; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §§1001–1003, 1004(b), 1005, title IV, §4401(a), title VII, §7203(a)(1), Oct. 13, 1994, 108 Stat. 3249, 3253, 3254, 3347, 3379; Pub. L. 104–106, div. D, title XLI, §§4101(a), 4102(a), title XLII, §4202(a)(1), title XLIII, §4321(b)(4), (5), Feb. 10, 1996, 110 Stat. 642, 643, 652, 672; Pub. L. 104–320, §§7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §§841(b), 850(f)(3)(B), title X, §1073(a)(42), (43), Nov. 18, 1997, 111 Stat. 1843, 1850, 1902; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–217, §3(b)(3), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–375, div. A, title VIII, §815, Oct. 28, 2004, 118 Stat. 2015; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title VIII, §844(b), Jan. 28, 2008, 122 Stat. 239; Pub. L. 110–417, \[div. A\], title VIII, §862(b), Oct. 14, 2008, 122 Stat. 4546; Pub. L. 111–350, §5(b)(12), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 115–91, div. A, title XVII, §1709(b)(2), Dec. 12, 2017, 131 Stat. 1809; Pub. L. 115–232, div. A, title VIII, §§812(a)(2)(C)(v), 836(c)(2), Aug. 13, 2018, 132 Stat. 1847, 1864.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(c)(2), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:</i>
+
+<i>(1) in subsections (c)(5) and (f)(2)(B), by striking "brand-name commercial item" and inserting "brand-name commercial product";</i>
+
+<i>(2) in subsection (g)(1)(B), by striking "commercial items" and inserting "commercial products or commercial services"; and</i>
+
+<i>(3) in subsection (i)(3), by striking "commercial items" and inserting "commercial products".</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 Historical and Revision Notes<br>1956
 
@@ -316,6 +328,14 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b)(2). Pub. L. 115–232, §812(a)(2)(C)(v), struck out "and concerns other than small business concerns, historically Black colleges and universities, and minority institutions in furtherance of section 2323 of this title" before period at end.
+
+Subsecs. (c)(5), (f)(2)(B). Pub. L. 115–232, §836(c)(2)(A), substituted "brand-name commercial product" for "brand-name commercial item".
+
+Subsec. (g)(1)(B). Pub. L. 115–232, §836(c)(2)(B), substituted "commercial products or commercial services" for "commercial items".
+
+Subsec. (i)(3). Pub. L. 115–232, §836(c)(2)(C), substituted "commercial products" for "commercial items".
+
 <b>2017</b>—Subsec. (f)(1). Pub. L. 115–91, §1709(b)(2)(A), inserted "and paragraph (6)" after "paragraph (2)" in introductory provisions.
 
 Subsec. (f)(6). Pub. L. 115–91, §1709(b)(2)(B), added par. (6).
@@ -374,7 +394,7 @@ Subsec. (g)(1). Pub. L. 104–106, §4202(a)(1)(A), substituted "shall provide f
 
 Subsec. (g)(4). Pub. L. 104–106, §4202(a)(1)(B), added par. (4).
 
-Subsec. (h)(1). Pub. L. 104–106, §4321(b)(5), added par. (1) and struck out former par. (1) which read as follows: "The Act entitled 'An Act to provide conditions for the purchase of supplies and the making of contracts by the United States, and for other purposes', approved June 30, 1936 (commonly referred to as the 'Walsh-Healey Act') (41 U.S.C. 35–45)."
+Subsec. (h)(1). Pub. L. 104–106, §4321(b)(5), added par. (1) and struck out former par. (1) which read as follows:"The Act entitled 'An Act to provide conditions for the purchase of supplies and the making of contracts by the United States, and for other purposes', approved June 30, 1936 (commonly referred to as the 'Walsh-Healey Act') (41 U.S.C. 35–45)."
 
 Subsecs. (j), (k). Pub. L. 104–106, §4101(a), added subsec. (j) and redesignated former subsec. (j) as (k).
 
@@ -482,7 +502,7 @@ Pub. L. 98–369, §2723(a)(1)(B), redesignated subsec. (f) as (h).
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–295, §1(24)(A), inserted ", and shall be awarded on a competitive bid basis to the lowest responsible bidder," after "formal advertising".
 
-Subsec. (e). Pub. L. 97–375 repealed subsec. (e) which directed that a report be made on May and November19 of each year of purchases and contracts under cls. (11) and (16) of subsec. (a) since the last report, and that the report name each contractor, state the amount of each contract, and describe, with consideration of the national security, the property and services covered by each contract.
+Subsec. (e). Pub. L. 97–375 repealed subsec. (e) which directed that a report be made on May and November 19 of each year of purchases and contracts under cls. (11) and (16) of subsec. (a) since the last report, and that the report name each contractor, state the amount of each contract, and describe, with consideration of the national security, the property and services covered by each contract.
 
 Subsec. (f)(1). Pub. L. 97–295, §1(24)(B), substituted "Healey" for "Healy" after "Walsh–".
 
@@ -507,6 +527,10 @@ Subsec. (g). Pub. L. 87–653, §1(c), added subsec. (g).
 <b>1958</b>—Subsec. (a). Pub. L. 85–861 included Commonwealths in cl. (6).
 
 Pub. L. 85–800 substituted "$2,500" for "$1,000" in cl. (3) and inserted "or nonperishable" in cl. (9).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by section 836(c)(2) of Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
 #### Effective Date of 1997 Amendment
 
@@ -650,7 +674,7 @@ Rule of Construction.—Nothing in this section shall be construed to prevent th
 
 Pub. L. 114–113, div. C, title VIII, §8039, Dec. 18, 2015, 129 Stat. 2359, provided that:
 
-"None of the funds appropriated by this Act \[div. C of Pub. L. 114–113, see Tables for classification\] and hereafter shall be available for a contract for studies, analysis, or consulting services entered into without competition on the basis of an unsolicited proposal unless the head of the activity responsible for the procurement determines—
+"None of the funds appropriated by this Act \[div. C of Pub. L. 114–113, see Tables for classification\] and hereafter shall be available for a contract for studies, analysis, or consulting services entered into withoutcompetition on the basis of an unsolicited proposal unless the head of the activity responsible for the procurement determines—
 
 &emsp;"(1) as a result of thorough technical evaluation, only one source is found fully qualified to perform the proposed work;
 
@@ -706,7 +730,7 @@ Pub. L. 112–239, div. A, title VIII, §802, Jan. 2, 2013, 126 Stat. 1824, prov
 
 #### Requirements for Information Relating to Supply Chain Risk
 
-Pub. L. 111–383, div. A, title VIII, §806, Jan. 7, 2011, 124 Stat. 4260, as amended by Pub. L. 112–239, div. A, title VIII, §806, Jan. 2, 2013, 126 Stat. 1827, provided that:
+Pub. L. 111–383, div. A, title VIII, §806, Jan. 7, 2011, 124 Stat. 4260, as amended by Pub. L. 112–239, div. A, title VIII, §806, Jan. 2, 2013, 126 Stat. 1827; Pub. L. 115–232, div. A, title VIII, §881(b), Aug. 13, 2018, 132 Stat. 1913, provided that:
 
 "(a)
 
@@ -736,7 +760,7 @@ Determination and Notification.—The head of a covered agency may exercise the 
 
 &emsp;&emsp;"(B) the joint recommendation by the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Chief Information Officer of the Department of Defense as specified in paragraph (1);
 
-&emsp;&emsp;"(C) a summary of the risk assessment by the Under Secretary of Defense for Intelligence that serves as the basis for the joint recommendation specified in paragraph (1); and
+&emsp;&emsp;"(C) a summary of the risk assessment by the Under Secretary of Defense for Intelligence thatserves as the basis for the joint recommendation specified in paragraph (1); and
 
 &emsp;&emsp;"(D) a summary of the basis for the determination, including a discussion of less intrusive measures that were considered and why they were not reasonably available to reduce supply chain risk.
 
@@ -822,9 +846,7 @@ Effective Date.—The requirements of this section shall take effect on the date
 
 &emsp;"(2) task and delivery orders that are issued on or after such date pursuant to contracts that are awarded before, on, or after such date.
 
-"(g)
-
-Sunset.—The authority provided in this section shall expire on September 30, 2018.
+"\[(g) Repealed. Pub. L. 115–232, div. A, title VIII, §881(b), Aug. 13, 2018, 132 Stat. 1913.\]
 
 "(h)
 
@@ -920,31 +942,11 @@ Small Arms Defined.—In this section, the term 'small arms'—
 
 #### Implementation of Statutory Requirements Regarding the National Technology and Industrial Base
 
-Pub. L. 110–417, \[div. A\], title VIII, §802, Oct. 14, 2008, 122 Stat. 4518, provided that:
-
-"(a)
-
-Guidance Required.—Not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall issue guidance regarding—
-
-&emsp;"(1) the appropriate application of the authority in sections 2304(b) and 2304(c)(3)(A) of title 10, United States Code, in connection with major defense acquisition programs; and
-
-&emsp;"(2) the appropriate timing and performance of the requirement in section 2440 of title 10, United States Code, to consider the national technology and industrial base in the development and implementation of acquisition plans for each major defense acquisition program.
-
-"(b)
-
-Definitions.—In this section;\[:\]
-
-&emsp;"(1)
-
-Major defense acquisition program.—The term 'major defense acquisition program' has the meaning provided in section 2430 of title 10, United States Code.
-
-&emsp;"(2)
-
-National technology and industrial base.—The term 'national technology and industrial base' has the meaning provided in section 2500(1) of title 10, United States Code."
+Pub. L. 110–417, \[div. A\], title VIII, §802, Oct. 14, 2008, 122 Stat. 4518, which required guidance from the Secretary on certain statutory requirements regarding major defense acquisition programs and the national technology and industrial base, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(11), Aug. 13, 2018, 132 Stat. 1848.
 
 #### Plan for Restricting Government-Unique Contract Clauses on Commercial Contracts
 
-Pub. L. 110–181, div. A, title VIII, §821, Jan. 28, 2008, 122 Stat. 226, as amended by Pub. L. 113–291, div. A, title X, §1071(b)(2)(B), Dec. 19, 2014, 128 Stat. 3506, provided that:
+Pub. L. 110–181, div. A, title VIII, §821, Jan. 28, 2008, 122 Stat. 226, as amended by Pub. L. 113–291, div. A, title X, §1071(b)(2)(B), Dec. 19, 2014, 128 Stat. 3506; Pub. L. 115–232, div. A, title VIII, §836(f)(3), Aug. 13, 2018, 132 Stat. 1871, provided that:
 
 "(a)
 
@@ -961,6 +963,16 @@ Commercial Contract.—In this section:
 &emsp;"(1) The term 'commercial contract' means a contract awarded by the Federal Government for the procurement of a commercial item.
 
 &emsp;"(2) The term 'commercial item' has the meaning provided by section 103 of title 41, United States Code."
+
+<i>\[Pub. L. 115–232, div. A, title VIII, §836(f)(3), (h), Aug. 13, 2018, 132 Stat. 1871, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, section 821(b) of Pub. L. 110–181, set out above, is amended:</i>
+
+&emsp;<i>\[(1) in paragraph (1), by striking "a commercial item" and inserting "a commercial product or a commercial service";</i>
+
+&emsp;<i>\[(2) in paragraph (2), by striking "commercial item" and inserting "commercial product"; and</i>
+
+&emsp;<i>\[(3) by adding at the end the following new paragraph:</i>
+
+&emsp;<i>\["(3) The term 'commercial service' has the meaning provided by section 103a of title 41, United States Code."\]</i>
 
 #### Telephone Services for Military Personnel Serving In Combat Zones
 
@@ -984,7 +996,7 @@ Effective Date.—
 
 &emsp;"(1)
 
-Requirement.—Subsection (a)(1) shall apply to any new contract to provide morale, welfare, and recreation telephone services for military personnel serving in combat zones that is entered into after the date of the enactment of this Act \[Jan. 28, 2008\].
+Requirement.—Subsection (a)(1) shall apply to any new contract to provide morale, welfare, andrecreation telephone services for military personnel serving in combat zones that is entered into after the date of the enactment of this Act \[Jan. 28, 2008\].
 
 &emsp;"(2)
 
@@ -1022,7 +1034,7 @@ Pub. L. 110–417, \[div. A\], title VIII, §804(a)–(c), Oct. 14, 2008, 122 St
 
 "(a)
 
-Inclusion of Additional Non-Defense Agencies in Review.—The covered non-defense agencies specifiedin subsection (c) of this section shall be considered covered non-defense agencies as defined in subsection (i) of section 817 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2326) \[set out below\] for purposes of such section.
+Inclusion of Additional Non-Defense Agencies in Review.—The covered non-defense agencies specified in subsection (c) of this section shall be considered covered non-defense agencies as defined in subsection (i) of section 817 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2326) \[set out below\] for purposes of such section.
 
 "(b)
 
@@ -1084,7 +1096,7 @@ Termination of non-compliance determination.—If the Inspector General of the D
 
 &emsp;"(5)
 
-Resolution of disagreements.—If the Inspector General of the Department of Defense and the Inspector General of a covered non-defense agency are unable to agree on a joint determination under this subsection, a determination by the Inspector General of the Department of Defense under this subsection shall be conclusive for the purposes of this section.
+Resolution of disagreements.—If the Inspector General of the Department of Defense and the Inspector General of a covered non-defense agency are unable to agree on a joint determination under this subsection, a determination by the Inspector Generalof the Department of Defense under this subsection shall be conclusive for the purposes of this section.
 
 "(b)
 
@@ -1192,7 +1204,7 @@ Government-wide acquisition contract.—The term 'government-wide acquisition co
 
 &emsp;"(4)
 
-Simplified acquisition threshold.—The term 'simplified acquisition threshold' has the meaning provided by section 2302(7) of title 10, United States Code.
+Simplified acquisition threshold.—The term 'simplified acquisition threshold' has the meaningprovided by section 2302(7) of title 10, United States Code.
 
 &emsp;"(5)
 
@@ -1234,7 +1246,7 @@ In general.—For each covered non-defense agency, the Inspector General of the 
 
 &emsp;&emsp;&emsp;"(i) such non-defense agency is compliant with defense procurement requirements;
 
-&emsp;&emsp;&emsp;"(ii) such non-defense agency is not compliant with defense procurement requirements, but has a program or initiative to significantly improvecompliance with defense procurement requirements;
+&emsp;&emsp;&emsp;"(ii) such non-defense agency is not compliant with defense procurement requirements, but has a program or initiative to significantly improve compliance with defense procurement requirements;
 
 &emsp;&emsp;&emsp;"(iii) neither of the conclusions stated in clauses (i) and (ii) is correct in the case of such non-defense agency; or
 
@@ -1290,7 +1302,7 @@ Exception.—No limitation applies under subsection (d) with respect to the proc
 
 &emsp;"(2)
 
-Applicability of determination.—A written determination with respect to a covered non-defense agency under paragraph (1) is in effect for the period, not in excess of one year, that the Under Secretary shall specify in the written determination. The Under Secretary may extend from time to time, for up to one year at a time, the period for which the written determination remains in effect.
+Applicability of determination.—A written determination with respect to a covered non-defense agency under paragraph (1) is in effect for the period, not in excess of one year, that the Under Secretaryshall specify in the written determination. The Under Secretary may extend from time to time, for up to one year at a time, the period for which the written determination remains in effect.
 
 "(f)
 
@@ -1336,7 +1348,7 @@ In general.—For each covered non-defense agency, the Inspector General of the 
 
 &emsp;&emsp;"(A) review—
 
-&emsp;&emsp;&emsp;"(i) the procurement policies, procedures, and internal controls of such non-defense agency that are applicable to the procurement of property andservices on behalf of the Department by such non-defense agency; and
+&emsp;&emsp;&emsp;"(i) the procurement policies, procedures, and internal controls of such non-defense agency that are applicable to the procurement of property and services on behalf of the Department by such non-defense agency; and
 
 &emsp;&emsp;&emsp;"(ii) the administration of those policies, procedures, and internal controls; and
 
@@ -1432,73 +1444,7 @@ Definitions.—In this section:
 
 #### Panel on Contracting Integrity
 
-Pub. L. 109–364, div. A, title VIII, §813, Oct. 17, 2006, 120 Stat. 2320, as amended by Pub. L. 111–23, title II, §207(d), May 22, 2009, 123 Stat. 1730, provided that:
-
-"(a)
-
-Establishment.—
-
-&emsp;"(1)
-
-In general.—The Secretary of Defense shall establish a panel to be known as the 'Panel on Contracting Integrity'.
-
-&emsp;"(2)
-
-Composition.—The panel shall be composed of the following:
-
-&emsp;&emsp;"(A) A representative of the Under Secretary of Defense for Acquisition, Technology, and Logistics, who shall be the chairman of the panel.
-
-&emsp;&emsp;"(B) A representative of the service acquisition executive of each military department.
-
-&emsp;&emsp;"(C) A representative of the Inspector General of the Department of Defense.
-
-&emsp;&emsp;"(D) A representative of the Inspector General of each military department.
-
-&emsp;&emsp;"(E) A representative of each Defense Agency involved with contracting, as determined appropriate by the Secretary of Defense.
-
-&emsp;&emsp;"(F) Such other representatives as may be determined appropriate by the Secretary of Defense.
-
-"(b)
-
-Duties.—In addition to other matters assigned to it by the Secretary of Defense, the panel shall—
-
-&emsp;"(1) conduct reviews of progress made by the Department of Defense to eliminate areas of vulnerability of the defense contracting system that allow fraud, waste, and abuse to occur;
-
-&emsp;"(2) review the report by the Comptroller General required by section 841 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3389), relating to areas of vulnerability of Department of Defense contracts to fraud, waste, and abuse; and
-
-&emsp;"(3) recommend changes in law, regulations, and policy that it determines necessary to eliminate such areas of vulnerability.
-
-"(c)
-
-Meetings.—The panel shall meet as determined necessary by the Secretary of Defense but not less often than once every six months.
-
-"(d)
-
-Report.—
-
-&emsp;"(1)
-
-Requirement.—The panel shall prepare and submit to the Secretary of Defense and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an annual report on its activities. The report shall be submitted not later than December 31 of each year and contain a summary of the panel's findings and recommendations for the year covered by the report.
-
-&emsp;"(2)
-
-First report.—The first report under this subsection shall be submitted not later than December 31, 2007, and shall contain an examination of the current structure in the Department of Defense for contracting integrity and recommendations for any changes needed to the system of administrative safeguards and disciplinary actions to ensure accountability at the appropriate level for any violations of appropriate standards of behavior in contracting.
-
-&emsp;"(3)
-
-Interim reports.—The panel may submit such interim reports to the congressional defense committees as the Secretary of Defense considers appropriate.
-
-"(e)
-
-Termination.—
-
-&emsp;"(1)
-
-In general.—Subject to paragraph (2), the panel shall continue to serve until the date that is 18 months after the date on which the Secretary of Defense notifies the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of an intention to terminate the panel based on a determination that the activities of the panel no longer justify its continuation and that concerns about contracting integrity have been mitigated.
-
-&emsp;"(2)
-
-Minimum continuing service.—The panel shall continue to serve at least until December 31, 2011."
+Pub. L. 109–364, div. A, title VIII, §813, Oct. 17, 2006, 120 Stat. 2320, as amended by Pub. L. 111–23, title II, §207(d), May 22, 2009, 123 Stat. 1730, which established the Panel on Contracting Integrity and its composition and duties, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(12), Aug. 13, 2018, 132 Stat. 1848.
 
 #### Employment of State Residents in States Having Unemployment Rate in Excess of National Average
 
@@ -1540,7 +1486,7 @@ Implementation of Demonstration Project.—The Secretary of Defense shall begin 
 
 "(e)
 
-Report on Demonstration Project.—Not later than six months after award of a contract under thedemonstration project, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report setting forth a review of the demonstration project and recommendations on the actions, if any, that can be implemented to ensure compliance by the Department of Defense with Executive Order No. 12989.
+Report on Demonstration Project.—Not later than six months after award of a contract under the demonstration project, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report setting forth a review of the demonstration project and recommendations on the actions, if any, that can be implemented to ensure compliance by the Department of Defense with Executive Order No. 12989.
 
 "(f)
 
@@ -1628,49 +1574,7 @@ Conventional Ammunition Defined.—For purposes of this section, the term 'conve
 
 #### Warranty Claims Recovery Pilot Program
 
-Pub. L. 105–85, div. A, title III, §391, Nov. 18, 1997, 111 Stat. 1716, as amended by Pub. L. 106–65, div. A, title III, §382, Oct. 5, 1999, 113 Stat. 583; Pub. L. 107–107, div. A, title III, §364, Dec. 28, 2001, 115 Stat. 1068; Pub. L. 107–314, div. A, title III, §368, Dec. 2, 2002, 116 Stat. 2524; Pub. L. 108–375, div. A, title III, §343, Oct. 28, 2004, 118 Stat. 1857, provided that:
-
-"(a)
-
-Pilot Program Required.—The Secretary of Defense may carry out a pilot program to use commercial sources of services to improve the collection of Department of Defense claims under aircraft engine warranties.
-
-"(b)
-
-Contracts.—Exercising the authority provided in section 3718 of title 31, United States Code, the Secretary of Defense may enter into contracts under the pilot program to provide for the following services:
-
-&emsp;"(1) Collection services.
-
-&emsp;"(2) Determination of amounts owed the Department of Defense for repair of aircraft engines for conditions covered by warranties.
-
-&emsp;"(3) Identification and location of the sources of information that are relevant to collection of Department of Defense claims under aircraft engine warranties, including electronic data bases and document filing systems maintained by the Department of Defense or by the manufacturers and suppliers of the aircraft engines.
-
-&emsp;"(4) Services to define the elements necessary for an effective training program to enhance and improve the performance of Department of Defense personnel in collecting and organizing documents and other information that are necessary for efficient filing, processing, and collection of Department of Defense claims under aircraft engine warranties.
-
-"(c)
-
-Contractor Fee.—Under the authority provided in section 3718(d) of title 31, United States Code, a contract entered into under the pilot program shall provide for the contractor to be paid, out of the amount recovered by the contractor under the program, such percentages of the amount recovered as the Secretary of Defense determines appropriate.
-
-"(d)
-
-Retention of Recovered Funds.—Subject to any obligation to pay a fee under subsection (c), any amount collected for the Department of Defense under the pilot program for a repair of an aircraft engine for a condition covered by a warranty shall be credited to an appropriation available for repair of aircraft engines for the fiscal year in which collected and shall be available for the same purposes and same period as the appropriation to which credited.
-
-"(e)
-
-Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section.
-
-"(f)
-
-Termination of Authority.—The pilot program shall terminate on September 30, 2006, and contracts entered into under this section shall terminate not later than that date.
-
-"(g)
-
-Reporting Requirement.—Not later than February 1, 2006, the Secretary of Defense shall submit to Congress a report on the pilot program, including—
-
-&emsp;"(1) a description of the extent to which commercial firms have been used to provide the services specified in subsection (b) and the type of services procured;
-
-&emsp;"(2) a description of any problems that have limited the ability of the Secretary to utilize the pilot program to procure such services; and
-
-&emsp;"(3) the recommendation of the Secretary regarding whether the pilot program should be made permanent or extended beyond September 30, 2006."
+Pub. L. 105–85, div. A, title III, §391, Nov. 18, 1997, 111 Stat. 1716, as amended by Pub. L. 106–65, div. A, title III, §382, Oct. 5, 1999, 113 Stat. 583; Pub. L. 107–107, div. A, title III, §364, Dec. 28, 2001, 115 Stat. 1068; Pub. L. 107–314, div. A, title III, §368, Dec. 2, 2002, 116 Stat. 2524; Pub. L. 108–375, div. A, title III, §343, Oct. 28, 2004, 118 Stat. 1857, which authorized the Secretary of Defense to carry out a pilot program to use commercial sources of services to improve the collection of Department of Defense claims under aircraft engine warranties, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(13), Aug. 13, 2018, 132 Stat. 1848.
 
 #### Requirements Relating to Micro-Purchases
 
@@ -1712,7 +1616,7 @@ Definitions.—In this section:
 
 #### Termination of Authority To Issue Solicitations for Purchases of Commercial Items in Excess of Simplified Acquisition Threshold
 
-Pub. L. 104–106, div. D, title XLII, §4202(e), Feb. 10, 1996, 110 Stat. 654, as amended by Pub. L. 106–65, div. A, title VIII, §806(a), Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title VIII, §823, Dec. 28, 2001, 115 Stat. 1183; Pub. L. 107–314, div. A, title VIII, §812(a), Dec. 2, 2002, 116 Stat. 2609; Pub. L. 108–136, div. A, title XIV, §1443(b), Nov. 24, 2003, 117 Stat. 1676; Pub. L. 108–375, div. A, title VIII, §817, Oct. 28, 2004, 118 Stat. 2015; Pub. L.110–181, div. A, title VIII, §822(a), Jan. 28, 2008, 122 Stat. 226; Pub. L. 111–84, div. A, title VIII, §816, Oct. 28, 2009, 123 Stat. 2408; Pub. L. 112–239, div. A, title VIII, §822, Jan. 2, 2013, 126 Stat. 1830; Pub. L. 113–66, div. A, title X, §1091(b)(4), Dec. 26, 2013, 127 Stat. 876, which related to termination of authority to issue solicitations for purchases of commercial items in excess of simplified acquisition threshold, was repealed by Pub. L. 113–291, div. A, title VIII, §815, Dec. 19, 2014, 128 Stat. 3430.
+Pub. L. 104–106, div. D, title XLII, §4202(e), Feb. 10, 1996, 110 Stat. 654, as amended by Pub. L. 106–65, div. A, title VIII, §806(a), Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title VIII, §823, Dec. 28, 2001, 115 Stat. 1183; Pub. L. 107–314, div. A, title VIII, §812(a), Dec. 2, 2002, 116 Stat. 2609; Pub. L. 108–136, div. A, title XIV, §1443(b), Nov. 24, 2003, 117 Stat. 1676; Pub. L. 108–375, div. A, title VIII, §817, Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, §822(a), Jan. 28, 2008, 122 Stat. 226; Pub. L. 111–84, div. A, title VIII, §816, Oct. 28, 2009, 123 Stat. 2408; Pub. L. 112–239, div. A, title VIII, §822, Jan. 2, 2013, 126 Stat. 1830; Pub. L. 113–66, div. A, title X, §1091(b)(4), Dec. 26, 2013, 127 Stat. 876, which related to termination of authority to issue solicitations for purchases of commercial items in excess of simplified acquisition threshold, was repealed by Pub. L. 113–291, div. A, title VIII, §815, Dec. 19, 2014, 128 Stat. 3430.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -1732,7 +1636,7 @@ Pub. L. 100–456, div. A, title VIII, §807, Sept. 29, 1988, 102 Stat. 2011, as
 
 #### Prohibition of Purchase of Angolan Petroleum Products From Companies Producing Oil in Angola
 
-Pub. L. 102–484, div. A, title VIII, §842, Oct. 23, 1992, 106 Stat. 2468, provided that: "The prohibition in section 316 of the National Defense Authorization Act for Fiscal Year 1987 \[Pub. L. 99–661\] (100 Stat. 3855; 10 U.S.C. 2304 note) shall cease to be effective on the date on which the President certifies to Congress that free, fair, and democratic elections have taken place in Angola."
+Pub. L. 102–484, div. A, title VIII, §842, Oct. 23, 1992, 106 Stat. 2468, provided that: "The prohibition in section 316 of the National Defense Authorization Act for Fiscal Year 1987 \[Pub. L. 99–661\] (100 Stat. 3855; 10 U.S.C. 2304 note) shall cease to be effective on the date onwhich the President certifies to Congress that free, fair, and democratic elections have taken place in Angola."
 
 Determination of President of the United States, No. 93–32, July 19, 1993, 58 F.R. 40309, provided:
 
@@ -1768,27 +1672,15 @@ Effective Date.—This section shall take effect six months after the date of th
 
 #### Deadline for Prescribing Regulations
 
-Pub. L. 99–500, §101(c) \[title X, §927(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 100 Stat. 1783–156, Pub. L. 99–591, §101(c) \[title X, §927(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–156, and Pub. L. 99–661, div. A, title IX, formerly title IV, §927(b), Nov. 14, 1986, 100 Stat. 3935, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: "The Secretary of Defense shall prescribe the regulations required by section 2304(i) of such title (as added by subsection (a)) not later than 180 days after the date of the enactment of this Act \[Oct. 18, 1986\]."
+Pub. L. 99–500, §101(c) \[title X, §927(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 100 Stat. 1783–156, Pub. L. 99–591, §101(c) \[title X, §927(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–156, and Pub. L. 99–661, div. A, title IX, formerly title IV, §927(b), Nov. 14, 1986, 100 Stat. 3935, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, which set a deadline for prescribing the regulations required by subsec. (i) of this section, were repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(14), Aug. 13, 2018, 132 Stat. 1848.
 
 #### One-Year Security-Guard Prohibition
 
-Pub. L. 99–661, div. A, title XII, §1222(b), Nov. 14, 1986, 100 Stat. 3976, provided that:
-
-"(1) Except as provided in paragraph (2), funds appropriated to the Department of Defense may not be obligated or expended before October 1, 1987, for the purpose of entering into a contract for the performance of security-guard functions at any military installation or facility.
-
-"(2) The prohibition in paragraph (1) does not apply—
-
-&emsp;"(A) to a contract to be carried out at a location outside the United States (including its commonwealths, territories, and possessions) at which military personnel would have to be used for the performance of the function described in paragraph (1) at the expense of unit readiness;
-
-&emsp;"(B) to a contract to be carried out on a Government-owned but privately operated installation;
-
-&emsp;"(C) to a contract (or the renewal of a contract) for the performance of a function under contract on September 24, 1983; or
-
-&emsp;"(D) to a contract for the performance of security-guard functions if (i) the requirement for the functions arises after the date of the enactment of this Act \[Nov. 14, 1986\], and (ii) the Secretary of Defense determines the functions can be performed by contractor personnel without adversely affecting installation security, safety, or readiness."
+Pub. L. 99–661, div. A, title XII, §1222(b), Nov. 14, 1986, 100 Stat. 3976, which provided that, with exceptions, funds appropriated to the Department of Defense were not to be obligated or expended before Oct. 1, 1987, for the purpose of entering into a contract for the performance of security-guard functions at any military facility, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(15), Aug. 13, 2018, 132 Stat. 1848.
 
 #### Contracting Out Performance of Department of Defense Supply and Service Functions
 
-Pub. L. 99–661, div. A, title XII, §1223, Nov. 14, 1986, 100 Stat. 3977, which required Secretary to contract for Department of Defense supplies and services from privatesector after a cost comparison demonstrates lower cost than Department of Defense can provide, and to ensure that overhead costs considered are realistic and fair, was repealed and restated in former section 2462 of this title by Pub. L. 100–370, §2(a)(1), (c)(3), July 19, 1988, 102 Stat. 853, 854.
+Pub. L. 99–661, div. A, title XII, §1223, Nov. 14, 1986, 100 Stat. 3977, which required Secretary to contract for Department of Defense supplies and services from private sector after a cost comparison demonstrates lower cost than Department of Defense can provide, and to ensure that overhead costs considered are realistic and fair, was repealed and restated in former section 2462 of this title by Pub. L. 100–370, §2(a)(1), (c)(3), July 19, 1988, 102 Stat. 853, 854.
 
 #### Reports on Savings or Costs From Increased Use of Civilian Personnel
 
@@ -1836,7 +1728,7 @@ In general.—Notwithstanding any other provision of law, each contract awarded 
 
 Local resident defined.—As used in this subsection, the term 'local resident' means a resident of a State described in paragraph (1), and any individual who commutes daily to a State described in paragraph (1)."
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 Similar provisions were contained in the following prior authorization act:
 
@@ -1856,7 +1748,7 @@ Pub. L. 99–145, title IX, §932, Nov. 8, 1985, 99 Stat. 699, prohibited certai
 
 #### Reimbursement, Interest Charges, and Penalties for Overpayments Due to Cost and Pricing Data
 
-Pub. L. 99–145, title IX, §934(a), Nov. 8, 1985, 99 Stat. 700, which provided for interest payments and penalties for overpayments due to faulty cost and pricing data, was repealed by Pub. L. 99–500, §101(c) \[title X, §952(b)(2), (d)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §952(b)(2), (d)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(b)(2), (d), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5),Apr. 21, 1987, 101 Stat. 273, effective with respect to contracts or modifications on contracts entered into after the end of the 120-day period beginning on Oct. 18, 1986.
+Pub. L. 99–145, title IX, §934(a), Nov. 8, 1985, 99 Stat. 700, which provided for interest payments and penalties for overpayments due to faulty cost and pricing data, was repealed by Pub. L. 99–500, §101(c) \[title X, §952(b)(2), (d)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §952(b)(2), (d)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(b)(2), (d), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, effective with respect to contracts or modifications on contracts entered into after the end of the 120-day period beginning on Oct. 18, 1986.
 
 #### Personnel for Performance of Services and Activities
 
@@ -1884,7 +1776,7 @@ Pub. L. 97–377, title I, §101(c) \[title VII, §797\], Dec. 21, 1982, 96 Sta
 
 #### Insurance To Protect Government Contractors Against Cost of Correcting Contractor's Own Defects; Reimbursement Prohibited
 
-Pub. L. 97–12, title I, §100, June 5, 1981, 95 Stat. 29, and Pub. L. 97–114, title VII, §770, Dec. 29, 1981, 95 Stat. 1590, which provided that no funds authorized for the Department of Defense in fiscal year 1981 and thereafter would be available to reimburse a contractor for the cost of commercial insurance, except for that normally maintained in the conduct of his business, that would protect against the cost for correction for the contractor's own defects in materials or workmanship such as were not a fortuitous casualty or loss, were repealed and restated in section 2399 of this title by Pub. L. 97–295, §§1(29)(A), 6(b), Oct. 12, 1982, 96 Stat. 1293, 1315.
+Pub. L. 97–12, title I, §100, June 5, 1981, 95 Stat. 29, and Pub. L. 97–114, title VII, §770, Dec. 29, 1981, 95 Stat. 1590, which provided that no funds authorized for the Department of Defense in fiscal year 1981 and thereafter would be available to reimburse a contractor for the cost of commercial insurance, except for that normally maintained in the conduct of his business, that would protect against the cost for correction for the contractor's own defects in materials or workmanship such as were not a fortuitous casualty or loss, were repealedand restated in section 2399 of this title by Pub. L. 97–295, §§1(29)(A), 6(b), Oct. 12, 1982, 96 Stat. 1293, 1315.
 
 #### Restrictions on Conversion of Performance of Commercial and Industrial Type Functions From Department of Defense Personnel to Private Contractors; Annual Report to Congress
 

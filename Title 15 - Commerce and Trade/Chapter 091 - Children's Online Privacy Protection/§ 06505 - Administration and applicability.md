@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as otherwise provided, this chapter shall be enforced by the Commission under theFederal Trade Commission Act (15 U.S.C. 41 et seq.).
+Except as otherwise provided, this chapter shall be enforced by the Commission under the Federal Trade Commission Act (15 U.S.C. 41 et seq.).
 
 #### (b) Provisions
 
@@ -44,7 +44,7 @@ Nothing contained in this chapter shall be construed to limit the authority of t
 
 The Federal Trade Commission Act, referred to in subsecs. (a) and (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-Section 25(a) of the Federal Reserve Act, referred to in subsec. (b)(1)(B), which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12.
+Section 25(a) of the Federal Reserve Act, referred to in subsec. (b)(1)(B), which is classified to subchapter II\(§611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12.
 
 The Federal Credit Union Act, referred to in subsec. (b)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 

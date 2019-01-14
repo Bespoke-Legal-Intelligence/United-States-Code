@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Certification.—Beginning in fiscal year 2013, the President shall annually certify in writing to the congressional defense committees whether plans to modernize or replace strategic delivery systems are fully funded at levels equal to or more than the levels set forth in the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2549), including plans regarding—
+Annual Certification.—The President shall annually certify in writing to the congressional defense committees whether plans to modernize or replace strategic delivery systems are fully funded at levels equal to or more than the levels set forth in the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2549), including plans regarding—
 
 &emsp;(1) a heavy bomber and air-launched cruise missile;
 
@@ -16,7 +16,7 @@ Annual Certification.—Beginning in fiscal year 2013, the President shall annua
 
 (b)
 
-Additional Report Matters Following Certain Certifications.—If in any year before fiscal year 2020 the President certifies undersubsection (a) that plans to modernize or replace strategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 the following:
+Additional Report Matters Following Certain Certifications.—If in any year before fiscal year 2020 the President certifies under subsection (a) that plans to modernize or replace strategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 the following:
 
 &emsp;(1) A determination of whether or not the lack of full funding will result in a loss of military capability when compared with the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010.
 
@@ -58,7 +58,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "strategic delivery system" means a delivery system for nuclear weapons.
 
-(Added Pub. L. 112–239, div. A, title X, §1035(a), Jan. 2, 2013, 126 Stat. 1923; amended Pub. L. 112–240, title VIII, §801(a), Jan. 2, 2013, 126 Stat. 2369.)
+(Added Pub. L. 112–239, div. A, title X, §1035(a), Jan. 2, 2013, 126 Stat. 1923; amended Pub. L. 112–240, title VIII, §801(a), Jan. 2, 2013, 126 Stat. 2369; Pub. L. 115–232, div. A, title X, §1081(a)(6), Aug. 13, 2018, 132 Stat. 1983.)
 
 #### References in Text
 
@@ -67,6 +67,8 @@ Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, ref
 Section 1043 of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsecs. (a)(5) and (b), is section 1043 of title X of div. A of Pub. L. 112–81, Dec. 31, 2011, 125 Stat. 1576, which is not classified to the Code.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–232 substituted "The" for "Beginning in fiscal year 2013, the" in introductory provisions.
 
 <b>2013</b>—Subsec. (c)(3). Pub. L. 112–240 substituted "whether the Russian Federation" for "that the Russian Federation" and inserted "strategic" before "arms control obligations".
 

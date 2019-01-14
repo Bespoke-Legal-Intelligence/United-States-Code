@@ -12,9 +12,9 @@ Upon default or imminent default, as defined by the Secretary <sup>1</sup> of a
 
 #### (2) Payments and exceptions
 
-&emsp;Any payment of a partial claim under the program established in paragraph (1) to amortgagee shall be made in the sole discretion of the Secretary and on terms and conditions acceptable to the Secretary, except that—
+&emsp;Any payment of a partial claim under the program established in paragraph (1) to a mortgagee shall be made in the sole discretion of the Secretary and on terms and conditions acceptable to the Secretary, except that—
 
-&emsp;&emsp;(A) the amount of the payment shall be in an amount determined by the Secretary, not to exceed an amount equivalent to 30 percent of the unpaid principal balance of the mortgage and any costs that are approved by the Secretary;
+&emsp;&emsp;(A) the amount of the payment shall be in an amount determined by the Secretary, notto exceed an amount equivalent to 30 percent of the unpaid principal balance of the mortgage and any costs that are approved by the Secretary;
 
 &emsp;&emsp;(B) the amount of the partial claim payment shall first be applied to any arrearage on the mortgage, and may also be applied to achieve principal reduction;
 
@@ -140,7 +140,7 @@ Subsecs. (c), (d). Pub. L. 96–399 added subsecs. (c) and (d).
 
 <b>1967</b>—Pub. L. 90–19 substituted "Secretary" for "Commissioner" wherever appearing.
 
-<b>1964</b>—Pub. L. 88–560 authorized the Commissioner to acquire the loan and security notwithstanding the fact that he has previously approved a request of the mortgagee for an extension of the time for curing the default and of the time for commencing foreclosure proceedings or for otherwise acquiring title to the mortgaged property or has approved a modification of themortgage for the purpose of changing the amortization provisions by recasting the unpaid balance and substituted provisions for acquisition of the loan and security upon payment of the insurance benefits in an amount equal to the unpaid principal balance of the loan plus any unpaid mortgage interest plus reimbursement for such costs and attorney's fees as the Commissioner finds were properly incurred in connection with the defaulted mortgage and its assignment to the Commissioner for former provision for such acquisition upon issuance to the mortgagee of debentures having a total face value equal to the unpaid principal balance of the loan plus any accrued interest.
+<b>1964</b>—Pub. L. 88–560 authorized the Commissioner to acquire the loan and security notwithstanding the fact that he has previously approved a request of the mortgagee for an extension of the time for curing the default and of the time for commencing foreclosure proceedings or for otherwise acquiring title to the mortgaged property or has approved a modification of the mortgage for the purpose of changing the amortization provisions by recasting the unpaid balance and substituted provisions for acquisition of the loan and security upon payment of the insurance benefits in an amount equal to the unpaid principal balance of the loan plus any unpaid mortgage interest plus reimbursement for such costs and attorney's fees as the Commissioner finds were properly incurred in connection with the defaulted mortgage and its assignment to the Commissioner for former provision for such acquisition upon issuance to the mortgagee of debentures having a total face value equal to the unpaid principal balance of the loan plus any accrued interest.
 
 #### Effective Date of 1996 Amendment
 

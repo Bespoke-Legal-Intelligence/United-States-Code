@@ -28,7 +28,7 @@
 
 &emsp;(3) the spouse, as an eligible person under subparagraph (D) or (E) of section 3501(a)(1) of this title, is divorced, without fault on such person's part, from the person upon whose disability such person's eligibility is based, or
 
-&emsp;(4) the parent or spouse from whom such eligibility is derived based upon subparagraph (E) of section 3501(a)(1) of this title no longermeets a requirement under clause (i), (ii), or (iii) of that subparagraph,
+&emsp;(4) the parent or spouse from whom such eligibility is derived based upon subparagraph (E) of section 3501(a)(1) of this title no longer meets a requirement under clause (i), (ii), or (iii) of that subparagraph,
 
 > then such eligible person (if such person has sufficient remaining entitlement) may, nevertheless, be afforded educational assistance under this chapter until the end of the quarter or semester for which enrolled if the educational institution in which such person is enrolled is operated on a quarter or semester system, or if the educational institution is not so operated until the end of the course, or until 12 weeks have expired, whichever first occurs.
 
@@ -42,7 +42,7 @@
 
 Subsec. (a)(1). Pub. L. 109–461, §301(b)(2)(A), substituted "Each eligible person, whether made eligible by one or more of the provisions of section 3501(a)(1) of this title," for "Each eligible person" and "an aggregate period" for "a period" in first sentence and struck out second sentence, which read as follows: "In no event may the aggregate educational assistance afforded to a spouse made eligible under both sections 3501(a)(1)(D)(i) and 3501(a)(1)(D)(ii) of this title exceed 45 months."
 
-Pub. L. 109–444, §3(b)(2)(A), which substituted "Each eligible person, whether made eligible by one or more of the provisions of section 3501(a)(1) of this title," for "Each eligible person" and "an aggregate period" for "a period" in first sentence and struck out second sentence, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+Pub. L. 109–444, §3(b)(2)(A), which substituted "Each eligible person, whether made eligible by one or moreof the provisions of section 3501(a)(1) of this title," for "Each eligible person" and "an aggregate period" for "a period" in first sentence and struck out second sentence, was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 Pub. L. 109–233 inserted "sections" after "under both".
 

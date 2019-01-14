@@ -66,7 +66,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (iii) Special rule for applicable defined benefit plans
 
-&emsp;&emsp;&emsp;If the defined benefit plan under clause (i) is an applicable defined benefit plan as defined in section 1053(f)(3)(B) of this titlewhich meets the interest credit requirements of section 1054(b)(5)(B)(i) of this title, the plan shall be treated as meeting the requirements of clause (i) with respect to any plan year if each participant receives pay credit for the year which is not less than the percentage of compensation determined in accordance with the following table:
+&emsp;&emsp;&emsp;If the defined benefit plan under clause (i) is an applicable defined benefit plan as defined in section 1053(f)(3)(B) of this title which meets the interest credit requirements of section 1054(b)(5)(B)(i) of this title, the plan shall be treated as meeting the requirements of clause (i) with respect to any plan year if each participant receives pay credit for the year which is not less than the percentage of compensation determined in accordance with the following table:
 
 &nbsp;
 

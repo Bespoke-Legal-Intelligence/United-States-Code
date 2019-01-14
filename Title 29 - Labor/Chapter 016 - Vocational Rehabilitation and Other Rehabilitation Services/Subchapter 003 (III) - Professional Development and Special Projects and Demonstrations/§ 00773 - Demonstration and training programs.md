@@ -204,7 +204,7 @@
 
 #### (5) Consultation
 
-&emsp;Each organization carrying out a program receiving assistance under this subsection shall consult with appropriate agencies that serve or assist individuals with disabilities, and the parents, family members, guardians, advocates, or authorized representatives of the individuals, located in the jurisdiction served by the program.
+&emsp;Each organization carrying out a program receiving assistance under this subsection shall consult with appropriate agencies that serve or assist individuals with disabilities, and the parents, family members, guardians, advocates, or authorized representatives of theindividuals, located in the jurisdiction served by the program.
 
 #### (6) Coordination
 

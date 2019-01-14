@@ -98,7 +98,7 @@ Not later than 4 months after completion of the final report of the Secretary's 
 
 #### (2) Definition
 
-&emsp;For purposes of this subsection, the term "troubled public housing agency" means a public housing agency that, upon the effective date of the Quality Housing and Work Responsibility Act of 1998, is designated under section 6(j)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437d(j)(2)\] as a troubled public housing agency.
+&emsp;For purposes of this subsection, the term "troubled public housing agency" means apublic housing agency that, upon the effective date of the Quality Housing and Work Responsibility Act of 1998, is designated under section 6(j)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437d(j)(2)\] as a troubled public housing agency.
 
 (Pub. L. 101–625, title I, §105, Nov. 28, 1990, 104 Stat. 4088; Pub. L. 102–550, title II, §220, title VI, §681, title X, §1014, title XII, §1206, Oct. 28, 1992, 106 Stat. 3761, 3830, 3908, 3940; Pub. L. 105–276, title V, §§568, 583, Oct. 21, 1998, 112 Stat. 2634, 2644; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 109–162, title VI, §604, Jan. 5, 2006, 119 Stat. 3040.)
 
@@ -144,7 +144,7 @@ Subsec. (g). Pub. L. 105–276, §568, added subsec. (g).
 
 Subsec. (b)(2). Pub. L. 102–550, §220(a), inserted ", including rural homelessness," after "extent of homelessness" and "including tabular representation of such information," after "with homelessness,".
 
-Subsec. (b)(4). Pub. L. 102–550, §1206, inserted before semicolon at end ", except that, if a State requires a unit of general local government to submit a regulatory barrier assessment that is substantially equivalent to the information required under this paragraph, as determined by the Secretary, the unit of general local government may submit its assessment submittedto the State to the Secretary and shall be considered to have complied with this paragraph".
+Subsec. (b)(4). Pub. L. 102–550, §1206, inserted before semicolon at end ", except that, if a State requires a unit of general local government to submit a regulatory barrier assessment that is substantially equivalent to the information required under this paragraph, as determined by the Secretary, the unit of general local government may submit its assessment submitted to the State to the Secretary and shall be considered to have complied with this paragraph".
 
 Subsec. (b)(8). Pub. L. 102–550, §220(c)(2), added par. (8). Former par. (8) redesignated (9).
 

@@ -166,7 +166,7 @@ Pub. L. 114–94, div. A, title VI, §6028, Dec. 4, 2015, 129 Stat. 1587, provid
 
 "(a)
 
-Performance Management Data Support.—The Administrator of the Federal Highway Administrationshall develop, use, and maintain data sets and data analysis tools to assist metropolitan planning organizations, States, and the Federal Highway Administration in carrying out performance management analyses (including the performance management requirements under section 150 of title 23, United States Code).
+Performance Management Data Support.—The Administrator of the Federal Highway Administration shall develop, use, and maintain data sets and data analysis tools to assist metropolitan planning organizations, States, and the Federal Highway Administration in carrying out performance management analyses (including the performance management requirements under section 150 of title 23, United States Code).
 
 "(b)
 

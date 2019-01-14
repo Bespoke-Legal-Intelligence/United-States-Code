@@ -26,7 +26,7 @@
 
 #### Prior Provisions
 
-A prior section 7521, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 95–251, §2(a)(1), Mar. 27, 1978, 92 Stat.183, related to removal of an administrative law judge appointed under section 3105 of this title, prior to repeal by Pub. L. 95–454, §204(a).
+A prior section 7521, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 95–251, §2(a)(1), Mar. 27, 1978, 92 Stat. 183, related to removal of an administrative law judge appointed under section 3105 of this title, prior to repeal by Pub. L. 95–454, §204(a).
 
 #### Amendments
 

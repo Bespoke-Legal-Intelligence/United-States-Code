@@ -1,6 +1,6 @@
 ### §§1594h to 1594i. Repealed. Pub. L. 97–214, §7(3), (5), (9), (17), July 12, 1982, 96 Stat. 173, 174
 
-Section 1594h, Pub. L. 85–241, title I, §103, Aug. 30, 1957, 71 Stat. 534, related to purchase of family housingfor assignment as public quarters, and space and cost limitations.
+Section 1594h, Pub. L. 85–241, title I, §103, Aug. 30, 1957, 71 Stat. 534, related to purchase of family housing for assignment as public quarters, and space and cost limitations.
 
 Section 1594h–1, Pub. L. 87–554, title V, §503, July 27, 1962, 76 Stat. 239, related to improvement of family housing units, public quarters designation, and cost limitations.
 

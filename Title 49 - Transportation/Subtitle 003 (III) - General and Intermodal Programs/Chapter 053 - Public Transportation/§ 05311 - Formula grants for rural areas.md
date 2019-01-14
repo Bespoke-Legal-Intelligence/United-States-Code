@@ -18,7 +18,7 @@ General Authority.—
 
 &emsp;(1)
 
-Grants authorized.—Except as provided by paragraph (2), the Secretary may awardgrants under this section to recipients located in rural areas for—
+Grants authorized.—Except as provided by paragraph (2), the Secretary may award grants under this section to recipients located in rural areas for—
 
 &emsp;&emsp;(A) planning, provided that a grant under this section for planning activities shall be in addition to funding awarded to a State under section 5305 for planning activities that are directed specifically at the needs of rural areas in the State;
 
@@ -146,7 +146,7 @@ Land area.—
 
 &emsp;&emsp;&emsp;&emsp;(I)
 
-In general.—Subject to subclause (II), each State shall receive an amount that is equal to 20 percent of the amount apportioned under clause (i), multiplied by the ratio of the land area in rural areas in that State and divided by the land area in all rural areas in the UnitedStates, as shown by the most recent decennial census of population.
+In general.—Subject to subclause (II), each State shall receive an amount that is equal to 20 percent of the amount apportioned under clause (i), multiplied by the ratio of the land area in rural areas in that State and divided by the land area in all rural areas in the United States, as shown by the most recent decennial census of population.
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
@@ -166,7 +166,7 @@ In general.—16.85 percent of the amount described in subparagraph (A) shall be
 
 &emsp;&emsp;&emsp;(ii)
 
-Land area.—Subject to clause (v), each State shall receive an amount that is equal to 29.68 percent of the amount apportioned under clause (i), multiplied by the ratio of the land area in rural areas in that State and divided by the land area in all rural areas in the United States, as shown by the most recent decennial census of population.
+Land area.—Subject to clause (v), each State shall receive an amount that is equal to 29.68 percent of the amount apportioned under clause (i), multiplied by the ratio of the land area in rural areas in that State and divided by the land area in all rural areas in the United States, as shownby the most recent decennial census of population.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -320,7 +320,7 @@ Allocation between multiple indian tribes.—If more than 1 Indian tribe provide
 
 Non-tribal service providers.—A recipient that is an Indian tribe may use funds apportioned under this subsection to finance public transportation services provided by a non-tribal provider of public transportation that connects residents of tribal lands with surrounding communities, improves access to employment or healthcare, or otherwise addresses the mobility needs of tribal members.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 809; Pub. L. 105–178, title III, §3014(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3013(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1593–1596;Pub. L. 110–244, title II, §201(e), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §434, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2304, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §304, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §134, Sept. 16, 2011, 125 Stat. 351; Pub. L. 112–102, title III, §304, Mar. 30, 2012, 126 Stat. 277; Pub. L. 112–140, title III, §304, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20010, div. G, title III, §113004, July 6, 2012, 126 Stat. 680, 985; Pub. L. 113–159, title I, §1201, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1201, May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1201, July 31, 2015, 129 Stat. 450; Pub. L. 114–73, title I, §1201, Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1201, Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title III, §3007, Dec. 4, 2015, 129 Stat. 1464.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 809; Pub. L. 105–178, title III, §3014(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3013(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1593–1596; Pub. L. 110–244, title II, §201(e), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §434, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2304, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §304, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §134, Sept. 16, 2011, 125 Stat. 351; Pub. L. 112–102, title III, §304, Mar. 30, 2012, 126 Stat. 277; Pub. L. 112–140, title III, §304, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20010, div. G, title III, §113004, July 6, 2012, 126 Stat. 680, 985; Pub. L. 113–159, title I, §1201, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1201, May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1201, July 31, 2015, 129 Stat. 450; Pub. L. 114–73, title I, §1201, Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1201, Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title III, §3007, Dec. 4, 2015, 129 Stat. 1464.)
 
 Historical and Revision Notes
 
@@ -462,7 +462,7 @@ Pub. L. 114–87, §1201(2), substituted "and $4,439,891 for the period beginnin
 
 Pub. L. 114–73, §1201(2), substituted "and $3,483,607 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $1,980,874 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
 
-Pub. L. 114–41, §1201(2), substituted "for each fiscal year ending before October 1, 2015, and $1,980,874 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "for each fiscal year ending before October 1, 2014, and $20,821,918 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+Pub. L. 114–41, §1201(2), substituted "for each fiscal year ending before October 1, 2015, and $1,980,874 for theperiod beginning on October 1, 2015, and ending on October 29, 2015," for "for each fiscal year ending before October 1, 2014, and $20,821,918 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
 
 Pub. L. 114–21, §1201(2), substituted "and $20,821,918 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $16,643,836 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
 
@@ -512,7 +512,7 @@ Subsec. (b). Pub. L. 109–59, §3013(b), reenacted heading without change and a
 
 "(2) The Secretary of Transportation shall carry out a rural transportation assistance program in nonurbanized areas. In carrying out this paragraph, the Secretary may make grants and contracts for transportation research, technical assistance, training, and related support services in nonurbanized areas."
 
-Subsec. (c). Pub. L. 109–59, §3013(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "The Secretary of Transportation shall apportion amounts made available under section 5338(a) of this title so that the chief executive officer of each State receives an amount equal to the total amount apportioned multiplied by a ratio equal to the population of areas other than urbanized areas in a State divided by the population of all areas other than urbanized areas in the United States, as shown by the most recent of the following: the latest Government census, the population estimate the Secretary of Commerce prepares after the 4th year after the date the latest census is published, or the population estimate the Secretary of Commerce prepares after the 8th year after the date the latest census is published. The amount may be obligated by the chief executive officer for 2 years after the fiscal year in which the amount is apportioned. An amount that is not obligated at theend of that period shall be reapportioned among the States for the next fiscal year."
+Subsec. (c). Pub. L. 109–59, §3013(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "The Secretary of Transportation shall apportion amounts made available under section 5338(a) of this title so that the chief executive officer of each State receives an amount equal to the total amount apportioned multiplied by a ratio equal to the population of areas other than urbanized areas in a State divided by the population of all areas other than urbanized areas in the United States, as shown by the most recent of the following: the latest Government census, the population estimate the Secretary of Commerce prepares after the 4th year after the date the latest census is published, or the population estimate the Secretary of Commerce prepares after the 8th year after the date the latest census is published. The amount may be obligated by the chief executive officer for 2 years after the fiscal year in which the amount is apportioned. An amount that is not obligated at the end of that period shall be reapportioned among the States for the next fiscal year."
 
 Subsec. (e). Pub. L. 109–59, §3013(d), inserted ", Planning," after "Administration" in heading and in text struck out "(1)" before "The Secretary", substituted "subrecipient" for "recipient", and struck out par. (2) which read as follows: "Except as provided in this section, a State carrying out a program of operating assistance under this section may not limit the level or extent of use of the Government grant for the payment of operating expenses."
 
@@ -528,7 +528,7 @@ Subsec. (g). Pub. L. 109–59, §3013(f), substituted "Government" for "Governme
 
 "(1) In this subsection, 'amounts of the Government or revenues' do not include amounts received under a service agreement with a State or local social service agency or a private social service organization.
 
-"(2) A grant of the Government for a capital project under this section may not be more than 80 percent of the net cost of the project, as determined by the Secretary of Transportation. A grant to pay a subsidy for operating expenses may not be more than 50 percent of the net cost of the operating expense project. At least 50 percent of the remainder shall be provided in cash from sources other than amounts of the Government or revenues from providing mass transportation. Transit system amounts that make up the remainder shall be from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital."
+"(2) A grant of the Government for a capital project under this section may not be more than 80 percent of the net cost of the project, as determined by the Secretary of Transportation. A grant to pay a subsidy for operating expenses may not be more than 50 percent of the net cost of the operating expense project. At least 50 percent of the remainder shall be provided in cash from sources other than amounts of the Government orrevenues from providing mass transportation. Transit system amounts that make up the remainder shall be from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital."
 
 Subsec. (h). Pub. L. 109–59, §3013(g), redesignated subsec. (i) as (h) and struck out heading and text of former subsec. (h). Text read as follows: "An amount made available under this section may be used for operating assistance."
 

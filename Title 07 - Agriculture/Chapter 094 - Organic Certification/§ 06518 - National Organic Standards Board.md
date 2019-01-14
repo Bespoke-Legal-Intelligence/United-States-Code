@@ -8,11 +8,11 @@ The Secretary shall establish a National Organic Standards Board (in accordance 
 
 The Board shall be composed of 15 members, of which—
 
-&emsp;(1) four shall be individuals who own or operate an organic farming operation;
+&emsp;(1) four shall be individuals who own or operate an organic farming operation, or employees of such individuals;
 
-&emsp;(2) two shall be individuals who own or operate an organic handling operation;
+&emsp;(2) two shall be individuals who own or operate an organic handling operation, or employees of such individuals;
 
-&emsp;(3) one shall be an individual who owns or operates a retail establishment with significant trade in organic products;
+&emsp;(3) one shall be an individual who owns or operates a retail establishment with significant trade in organic products, or an employee of such individual;
 
 &emsp;(4) three shall be individuals with expertise in areas of environmental protection and resource conservation;
 
@@ -36,7 +36,7 @@ The Secretary shall convene a meeting of the Board not later than 60 days after 
 
 #### (f) Compensation and expenses
 
-A member of the Board shall serve without compensation. While away from their homes or regular places of business on the business of the Board, members of the Board may be allowed travel expenses, including per diem in lieu of subsistence, as is authorized under section 5703of title 5 for persons employed intermittently in the Government service.
+A member of the Board shall serve without compensation. While away from their homes or regular places of business on the business of the Board, members of the Board may be allowed travel expenses, including per diem in lieu of subsistence, as is authorized under section 5703 of title 5 for persons employed intermittently in the Government service.
 
 #### (g) Chairperson
 
@@ -48,7 +48,13 @@ A majority of the members of the Board shall constitute a quorum for the purpose
 
 #### (i) Decisive votes
 
-Two-thirds of the votes cast at a meeting of the Board at which a quorum is present shall be decisive of any motion.
+#### (1) In general
+
+&emsp;2/3 of the votes cast at a meeting of the Board at which a quorum is present shall be decisive of any motion.
+
+#### (2) National list
+
+&emsp;Any vote on a motion proposing to amend the national list shall be considered to be a decisive vote that requires 2/3 of the votes cast at a meeting of the Board at which a quorum is present to prevail.
 
 #### (j) Other terms and conditions
 
@@ -116,13 +122,21 @@ The Board shall establish procedures under which persons may petition the Board 
 
 Any confidential business information obtained by the Board in carrying out this section shall not be released to the public.
 
-(Pub. L. 101–624, title XXI, §2119, Nov. 28, 1990, 104 Stat. 3947; Pub. L. 102–237, title X, §1001(7), Dec. 13, 1991, 105 Stat. 1893.)
+(Pub. L. 101–624, title XXI, §2119, Nov. 28, 1990, 104 Stat. 3947; Pub. L. 102–237, title X, §1001(7), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 115–334, title X, §10104(e), (f), Dec. 20, 2018, 132 Stat. 4901.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–334, §10104(e)(1), inserted ", or employees of such individuals" after "operation".
+
+Subsec. (b)(2). Pub. L. 115–334, §10104(e)(2), inserted ", or employees of such individuals" after "operation".
+
+Subsec. (b)(3). Pub. L. 115–334, §10104(e)(3), inserted ", or an employee of such individual" after "products".
+
+Subsec. (i). Pub. L. 115–334, §10104(f), designated existing provisions as par. (1), inserted heading, substituted "2/3" for "Two-thirds", and added par. (2).
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–237 substituted "to assist" for "(to assist".
 

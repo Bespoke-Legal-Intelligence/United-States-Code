@@ -18,7 +18,7 @@
 
 #### (B) Contents
 
-&emsp;&emsp;The plan shall include and identify actions to be taken by the Secretary in achieving the goals and any new authorities whichmay be necessary to accelerate attainment of the goals.
+&emsp;&emsp;The plan shall include and identify actions to be taken by the Secretary in achieving the goals and any new authorities which may be necessary to accelerate attainment of the goals.
 
 #### (C) Completion deadline
 
@@ -94,7 +94,7 @@ For the project conducted under subsection (b), the non-Federal interest shall a
 
 #### (1) In general
 
-&emsp;The Secretary is authorized to establish a program for the training and certification of individuals as wetlands delineators. As part of such program, the Secretary shall carry out demonstration projects in districts of the Corps of Engineers. The program shall include training and certification of delineators and procedures for expediting consideration andacceptance of delineations performed by certified delineators.
+&emsp;The Secretary is authorized to establish a program for the training and certification of individuals as wetlands delineators. As part of such program, the Secretary shall carry out demonstration projects in districts of the Corps of Engineers. The program shall include training and certification of delineators and procedures for expediting consideration and acceptance of delineations performed by certified delineators.
 
 #### (2) Reports
 

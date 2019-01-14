@@ -32,7 +32,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 &emsp;&emsp;&emsp;(i)(I) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a United States citizen (or is the parent of a child of a United States citizen and the child has been battered or subjected to extreme cruelty by such citizen parent);
 
-&emsp;&emsp;&emsp;(II) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a lawful permanent resident (or is the parent of a child of an alien who is or was a lawful permanent resident and the child has been battered or subjected to extreme cruelty by such permanent resident parent); or
+&emsp;&emsp;&emsp;(II) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a lawful permanentresident (or is the parent of a child of an alien who is or was a lawful permanent resident and the child has been battered or subjected to extreme cruelty by such permanent resident parent); or
 
 &emsp;&emsp;&emsp;(III) the alien has been battered or subjected to extreme cruelty by a United States citizen or lawful permanent resident whom the alien intended to marry, but whose marriage is not legitimate because of that United States citizen's or lawful permanent resident's bigamy;
 
@@ -50,7 +50,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 #### (C) Good moral character
 
-&emsp;&emsp;Notwithstanding section 1101(f) of this title, an act or conviction that does not bar the Attorney General from granting relief under this paragraph by reason of subparagraph (A)(iv) shall not bar the Attorney General from finding the alien to be of goodmoral character under subparagraph (A)(iii) or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), if the Attorney General finds that the act or conviction was connected to the alien's having been battered or subjected to extreme cruelty and determines that a waiver is otherwise warranted.
+&emsp;&emsp;Notwithstanding section 1101(f) of this title, an act or conviction that does not bar the Attorney General from granting relief under this paragraph by reason of subparagraph (A)(iv) shall not bar the Attorney General from finding the alien to be of good moral character under subparagraph (A)(iii) or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), if the Attorney General finds that the act or conviction was connected to the alien's having been battered or subjected to extreme cruelty and determines that a waiver is otherwise warranted.
 
 #### (D) Credible evidence considered
 
@@ -148,7 +148,7 @@ The provisions of subsections (a) and (b)(1) shall not apply to any of the follo
 
 #### (2) Treatment of certain breaks in presence
 
-&emsp;An alien shall be considered to have failed to maintain continuous physical presence in the United States under subsections (b)(1) and (b)(2) if the alien has departed from the United States for any period in excess of 90 days or for any periods in the aggregate exceeding 180 days.
+&emsp;An alien shall be considered to have failed to maintain continuous physical presence in theUnited States under subsections (b)(1) and (b)(2) if the alien has departed from the United States for any period in excess of 90 days or for any periods in the aggregate exceeding 180 days.
 
 #### (3) Continuity not required because of honorable service in Armed Forces and presence upon entry into service
 
@@ -176,7 +176,7 @@ The provisions of subsections (a) and (b)(1) shall not apply to any of the follo
 
 &emsp;&emsp;(B) Aliens in deportation proceedings prior to April 1, 1997, who applied for suspension of deportation under section 1254(a)(3) of this title (as in effect before September 30, 1996).
 
-(June 27, 1952, ch. 477, title II, ch. 4, §240A, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–594; amended Pub. L. 105–100, title II, §204(a)–(c), Nov. 19, 1997, 111Stat. 2200, 2201; Pub. L. 106–386, div. B, title V, §§1504(a), (b), 1505(b)(2), 1506(b)(1), Oct. 28, 2000, 114 Stat. 1522, 1524, 1525, 1527; Pub. L. 109–162, title VIII, §§813(c)(1), 822(a), (b), Jan. 5, 2006, 119 Stat. 3058, 3062, 3063; Pub. L. 109–271, §6(e), Aug. 12, 2006, 120 Stat. 763; Pub. L. 110–457, title II, §205(b), Dec. 23, 2008, 122 Stat. 5062.)
+(June 27, 1952, ch. 477, title II, ch. 4, §240A, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–594; amended Pub. L. 105–100, title II, §204(a)–(c), Nov. 19, 1997, 111 Stat. 2200, 2201; Pub. L. 106–386, div. B, title V, §§1504(a), (b), 1505(b)(2), 1506(b)(1), Oct. 28, 2000, 114 Stat. 1522, 1524, 1525, 1527; Pub. L. 109–162, title VIII, §§813(c)(1), 822(a), (b), Jan. 5, 2006, 119 Stat. 3058, 3062, 3063; Pub. L. 109–271, §6(e), Aug. 12, 2006, 120 Stat. 763; Pub. L. 110–457, title II, §205(b), Dec. 23, 2008, 122 Stat. 5062.)
 
 #### References in Text
 
@@ -238,7 +238,7 @@ Pub. L. 106–386, div. B, title V, §1506(b)(2), Oct. 28, 2000, 114 Stat. 1527,
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–100, title II, §204(e), Nov. 19, 1997, 111 Stat. 2201, provided that: "The amendments made by thissection \[amending this section and provisions set out as a note under section 1101 of this title\] shall take effect as if included in the enactment of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208; 110 Stat. 3009–546)."
+Pub. L. 105–100, title II, §204(e), Nov. 19, 1997, 111 Stat. 2201, provided that: "The amendments made by this section \[amending this section and provisions set out as a note under section 1101 of this title\] shall take effect as if included in the enactment of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208; 110 Stat. 3009–546)."
 
 #### Effective Date
 

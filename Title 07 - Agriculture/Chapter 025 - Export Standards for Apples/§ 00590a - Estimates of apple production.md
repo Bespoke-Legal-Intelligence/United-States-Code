@@ -1,6 +1,6 @@
 ### §590a. Estimates of apple production
 
-On and after October 18, 1986, no funds available to the Department of Agriculture shall be available to publish estimates of apple production for other than the commercial crop.
+On and after October 18, 1986, no funds available to the Department of Agriculture shall beavailable to publish estimates of apple production for other than the commercial crop.
 
 (Pub. L. 99–500, §101(a) \[title I\], Oct. 18, 1986, 100 Stat. 1783, 1783–3, and Pub. L. 99–591, §101(a) \[title I\], Oct. 30, 1986, 100 Stat. 3341, 3341–3.)
 

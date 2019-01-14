@@ -28,7 +28,7 @@ Prohibition on Naming Department of Defense Real Property After Member of Congre
 
 &emsp;(A) The term "Member of Congress" includes a Delegate or Resident Commissioner to the Congress.
 
-&emsp;(B) The term "real property" includes structures, buildings, or other infrastructure of a military installation, roadways and defense access roads, and any other area on the grounds of a military installation.
+&emsp;(B) The term "real property" includes structures, buildings, or other infrastructure of amilitary installation, roadways and defense access roads, and any other area on the grounds of a military installation.
 
 (d)
 
@@ -62,6 +62,10 @@ Subsec. (c). Pub. L. 108–375, §2821(a)(1), added subsec. (c).
 
 Pub. L. 112–81, div. B, title XXVIII, §2863(b), Dec. 31, 2011, 125 Stat. 1702, provided that: "The prohibition in subsection (c) of section 2661 of title 10, United States Code, as added by subsection (a), shall apply only with respect to real property of the Department of Defense named after the date of the enactment of this Act \[Dec. 31, 2011\]."
 
+#### Prioritization of Environmental Impacts for Facilities Sustainment, Restoration, and Modernization Demolition
+
+Pub. L. 115–232, div. A, title III, §359, Aug. 13, 2018, 132 Stat. 1733, provided that: "The Secretary of Defense shall establish prioritization metrics for facilities deemed eligible for demolition within the Facilities Sustainment, Restoration, and Modernization (FSRM) process. Those metrics shall include full spectrum readiness and environmental impacts, including the removal of contamination."
+
 #### Increased Percentage of Sustainment Funds Authorized for Realignment to Restoration and Modernization at Each Installation
 
 Pub. L. 115–91, div. A, title III, §322, Dec. 12, 2017, 131 Stat. 1353, provided that:
@@ -80,7 +84,7 @@ Definitions.—The terms 'sustainment', 'restoration', and 'modernization' have 
 
 #### Disclosure of Beneficial Ownership by Foreign Persons of High Security Space Leased by the Department of Defense
 
-Pub. L. 115–91, div. B, title XXVIII, §2876, Dec. 12, 2017, 131 Stat. 1871, provided that:
+Pub. L. 115–91, div. B, title XXVIII, §2876, Dec. 12, 2017, 131 Stat. 1871, as amended by Pub. L. 115–232, div. A, title X, §1081(c)(7), Aug. 13, 2018, 132 Stat. 1985, provided that:
 
 "(a)
 
@@ -118,7 +122,7 @@ Precautions.—If a covered entity discloses a foreign person as a beneficial ow
 
 "(d)
 
-Definitions.—
+Definitions.—In this section:
 
 &emsp;"(1)
 
@@ -126,7 +130,7 @@ Beneficial owner.—
 
 &emsp;&emsp;"(A)
 
-In general.—The term beneficial owner—
+In general.—The term 'beneficial owner'—
 
 &emsp;&emsp;&emsp;"(i) means, with respect to a covered entity, each natural person who, directly or indirectly—
 
@@ -165,6 +169,8 @@ High-security leased space.—The term 'high-security leased space' means a spac
 &emsp;"(5)
 
 United states person.—The term 'United States person' means a natural person who is a citizen of the United States or who owes permanent allegiance to the United States."
+
+\[Pub. L. 115–232, div. A, title X, §1081(c), Aug. 13, 2018, 132 Stat. 1985, provided that the amendment made by section 1081(c)(7) to section 2876 of Pub. L. 115–91, set out above, is effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted.\]
 
 #### Pilot Program to Provide Additional Tools for Efficient Operation of Military Installations
 

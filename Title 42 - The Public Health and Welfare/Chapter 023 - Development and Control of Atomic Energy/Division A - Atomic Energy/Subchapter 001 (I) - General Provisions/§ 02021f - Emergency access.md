@@ -6,7 +6,7 @@ The Nuclear Regulatory Commission may grant emergency access to any regional dis
 
 #### (b) Request for emergency access
 
-Any generator of low-level radioactive waste, or any Governor (or, for any State without a Governor, the chief executive officer of theState) on behalf of any generator or generators located in his or her State, may request that the Nuclear Regulatory Commission grant emergency access to a regional disposal facility or a non-Federal disposal facility within a State that is not a member of a compact for specific low-level radioactive waste. Any such request shall contain any information and certifications the Nuclear Regulatory Commission may require.
+Any generator of low-level radioactive waste, or any Governor (or, for any State without a Governor, the chief executive officer of the State) on behalf of any generator or generators located in his or her State, may request that the Nuclear Regulatory Commission grant emergency access to a regional disposal facility or a non-Federal disposal facility within a State that is not a member of a compact for specific low-level radioactive waste. Any such request shall contain any information and certifications the Nuclear Regulatory Commission may require.
 
 #### (c) Determination of Nuclear Regulatory Commission
 
@@ -28,7 +28,7 @@ Upon determining that emergency access is necessary because of an immediate and 
 
 #### (e) Extension of emergency access
 
-The Nuclear Regulatory Commission may grant one extension of emergency access beyond the period provided in subsection (c), if it determines that emergency access continues to be necessary because of an immediate and serious threat to the public health and safety or the common defense and security that cannot be mitigated by any alternative consistent with the public health and safety, and that the generator of low-level radioactive waste granted emergency access and the State in which such low-level radioactive waste was generated have diligently though unsuccessfully acted during the period of the initial grant to eliminate the need for emergency access. Any extension granted under this subsection shall be for the minimum volume and duration the Nuclear Regulatory Commission finds necessary to eliminate the immediate threat to public health and safety or the common defense and security, and shall not in any event exceed 180 days.
+The Nuclear Regulatory Commission may grant one extension of emergency access beyond the period provided in subsection (c), if it determines that emergency access continues to be necessary because of an immediate and serious threat to the public health and safety or the common defense and security that cannot be mitigated by any alternative consistent with the public health and safety, and that the generator of low-level radioactive waste granted emergency access and the State in which suchlow-level radioactive waste was generated have diligently though unsuccessfully acted during the period of the initial grant to eliminate the need for emergency access. Any extension granted under this subsection shall be for the minimum volume and duration the Nuclear Regulatory Commission finds necessary to eliminate the immediate threat to public health and safety or the common defense and security, and shall not in any event exceed 180 days.
 
 #### (f) Reciprocal access
 
@@ -40,7 +40,7 @@ Any grant of access under this section shall be submitted to the compact commiss
 
 #### (h) Limitations
 
-No State shall be required to provide emergency or reciprocal access to any regional disposal facility within its borders for low-level radioactive waste not meeting criteria established by the license or license agreement of such facility, or in excess of the approved capacity of such facility, or to delay the closing of any such facility pursuant to plans established before receiving a request for emergency or reciprocal access. No State shall, during any 12-month period, be required to provide emergency or reciprocal access to any regional disposal facility within its borders for more than 20 percent of the total volume of low-level radioactivewaste accepted for disposal at such facility during the previous calendar year.
+No State shall be required to provide emergency or reciprocal access to any regional disposal facility within its borders for low-level radioactive waste not meeting criteria established by the license or license agreement of such facility, or in excess of the approved capacity of such facility, or to delay the closing of any such facility pursuant to plans established before receiving a request for emergency or reciprocal access. No State shall, during any 12-month period, be required to provide emergency or reciprocal access to any regional disposal facility within its borders for more than 20 percent of the total volume of low-level radioactive waste accepted for disposal at such facility during the previous calendar year.
 
 #### (i) Volume reduction and surcharges
 

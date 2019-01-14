@@ -2,7 +2,7 @@
 
 #### (a) Research, development, and demonstration
 
-(1) Except as otherwise provided in this Act, research, development, and demonstration activities under this Act may be carried out under the procedures of the Federal Nonnuclear Research and Development Act of 1974 (42 U.S.C. 5901–5920), the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), or any other Act under which the Secretary is authorized to carry out such activities, but only to the extent the Secretary is authorized to carry out such activitiesunder each such Act. An objective of any demonstration program under this Act shall be to determine the technical and commercial feasibility of energy technologies.
+(1) Except as otherwise provided in this Act, research, development, and demonstration activities under this Act may be carried out under the procedures of the Federal Nonnuclear Research and Development Act of 1974 (42 U.S.C. 5901–5920), the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), or any other Act under which the Secretary is authorized to carry out such activities, but only to the extent the Secretary is authorized to carry out such activities under each such Act. An objective of any demonstration program under this Act shall be to determine the technical and commercial feasibility of energy technologies.
 
 (2) Except as otherwise provided in this Act, in carrying out research, development, and demonstration programs and activities under this Act, the Secretary may use, to the extent authorized under applicable provisions of law, contracts, cooperative agreements, cooperative research and development agreements under the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3701 et seq.\], grants, joint ventures, and any other form of agreement available to the Secretary.
 
@@ -20,7 +20,7 @@ Section 12(c)(7) of the Stevenson-Wydler Technology Innovation Act of 1980 \[15 
 
 #### (e) Guidelines and procedures
 
-The Secretary shall provide guidelines and procedures for the transition, where appropriate, of energy technologies from research through development and demonstration under subsection (a) to commercial application under subsection (b). Nothing in this section shall preclude the Secretary from—
+The Secretary shall provide guidelines and procedures for the transition, where appropriate, of energy technologies from research through development and demonstration undersubsection (a) to commercial application under subsection (b). Nothing in this section shall preclude the Secretary from—
 
 &emsp;(1) entering into a contract, cooperative agreement, cooperative research and development agreement under the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3701 et seq.\], grant, joint venture, or any other form of agreement available to the Secretary under this section that relates to research, development, demonstration, and commercial application; or
 

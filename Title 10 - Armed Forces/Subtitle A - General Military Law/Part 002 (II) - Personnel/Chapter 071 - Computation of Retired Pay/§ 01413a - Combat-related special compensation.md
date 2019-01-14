@@ -28,7 +28,7 @@ General rule.—In the case of an eligible combat-related disabled uniformed ser
 
 &emsp;&emsp;(B)
 
-Special rule for retirees with fewer than 20 years of service.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any monthmay not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount equal to the retired pay percentage (determined for the member under section 1409(b) of this title) of the member's years of creditable service multiplied by the member's retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
+Special rule for retirees with fewer than 20 years of service.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount equal to the retired pay percentage (determined for the member under section 1409(b) of this title) of the member's years of creditable service multiplied by the member's retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
 
 (c)
 
@@ -150,7 +150,7 @@ Pub. L. 108–136, div. A, title VI, §642(f), Nov. 24, 2003, 117 Stat. 1517, pr
 
 #### Effective Date
 
-Pub. L. 107–314, div. A, title VI, §636(a)(2), Dec. 2, 2002, 116 Stat. 2576, provided that: "Section 1413a of title 10, United States Code, as added by paragraph (1), shall take effect not later than 180 days after the date of the enactment of this Act \[Dec. 2, 2002\]."
+Pub. L. 107–314, div. A, title VI, §636(a)(2), Dec. 2, 2002, 116 Stat. 2576, provided that: "Section 1413a of title 10,United States Code, as added by paragraph (1), shall take effect not later than 180 days after the date of the enactment of this Act \[Dec. 2, 2002\]."
 
 #### Clarification of Eligibility of Members of the Coast Guard for Combat-Related Special Compensation
 

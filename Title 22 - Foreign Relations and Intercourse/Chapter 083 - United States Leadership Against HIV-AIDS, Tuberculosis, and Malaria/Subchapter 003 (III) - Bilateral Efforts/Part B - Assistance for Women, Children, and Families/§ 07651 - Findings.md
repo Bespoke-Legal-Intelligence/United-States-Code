@@ -2,7 +2,7 @@
 
 Congress makes the following findings:
 
-&emsp;(1) Approximately 2,000 children around the world are infected each day with HIV through mother-to-child transmission. Transmission can occur during pregnancy, labor, and delivery or through breast feeding. Over 90 percentof these cases are in developing nations with little or no access to public health facilities.
+&emsp;(1) Approximately 2,000 children around the world are infected each day with HIV through mother-to-child transmission. Transmission can occur during pregnancy, labor, and delivery or through breast feeding. Over 90 percent of these cases are in developing nations with little or no access to public health facilities.
 
 &emsp;(2) Mother-to-child transmission is largely preventable with the proper application of pharmaceuticals, therapies, and other public health interventions.
 

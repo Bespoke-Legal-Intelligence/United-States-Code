@@ -20,7 +20,7 @@ Contents of Notification.—Notification by a manufacturer required under sectio
 
 (b)
 
-Earliest Remedy Date.—The date specified by a manufacturer in a notification under subsection (a)(5) of this section or section 30121(c)(2) of this title is the earliest date thatparts and facilities reasonably can be expected to be available to remedy the defect or noncompliance. The Secretary may disapprove the date.
+Earliest Remedy Date.—The date specified by a manufacturer in a notification under subsection (a)(5) of this section or section 30121(c)(2) of this title is the earliest date that parts and facilities reasonably can be expected to be available to remedy the defect or noncompliance. The Secretary may disapprove the date.
 
 (c)
 
@@ -82,7 +82,7 @@ Information Regarding Components Involved in Recall.—A manufacturer that is re
 
 &emsp;(3) The part number of the component or components, if any.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 951; Pub. L. 112–141, div. C, title I, §31310, July 6, 2012, 126 Stat. 771; Pub. L. 114–94, div. B, title XXIV, §24116, Dec. 4, 2015, 129 Stat. 1711.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 951; Pub. L. 112–141, div. C, title I, §31310, July 6, 2012,126 Stat. 771; Pub. L. 114–94, div. B, title XXIV, §24116, Dec. 4, 2015, 129 Stat. 1711.)
 
 Historical and Revision Notes
 
@@ -198,7 +198,7 @@ Pub. L. 114–94, div. B, title XXIV, §24104(a), Dec. 4, 2015, 129 Stat. 1703, 
 
 "(1)
 
-In general.—Not later than 270 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall prescribe a final rule revising the regulations under section 577.7 of title 49, Code of Federal Regulations, to include notification by electronic means in addition to notification by first class mail.
+In general.—Not later than 270 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall prescribe a final rule revising the regulations under section 577.7 of title 49, Code of FederalRegulations, to include notification by electronic means in addition to notification by first class mail.
 
 "(2)
 

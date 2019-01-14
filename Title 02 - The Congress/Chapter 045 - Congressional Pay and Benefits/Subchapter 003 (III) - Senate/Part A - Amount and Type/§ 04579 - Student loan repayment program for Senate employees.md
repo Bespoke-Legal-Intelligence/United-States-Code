@@ -4,15 +4,27 @@
 
 In this section:
 
-#### (1) Eligible employee
+#### (1) Departure date
+
+&emsp;The term "departure date" means the earlier of—
+
+&emsp;&emsp;(A) the date on which the term of a departing Senator or Vice President ends; or
+
+&emsp;&emsp;(B) the date on which the departing Senator or Vice President will retire or resign.
+
+#### (2) Departing Senator or Vice President
+
+&emsp;The term "departing Senator or Vice President" means a Senator or Vice President who will not serve in the next term due to retirement, resignation, a decision to not seek reelection, or a failure to secure reelection.
+
+#### (3) Eligible employee
 
 &emsp;The term "eligible employee" means an individual, except as provided under subsection (b)(3)—
 
 &emsp;&emsp;(A) who is an employee of the Senate; and
 
-&emsp;&emsp;(B) whose rate of pay as an employee of the Senate, on the date on which such eligibility is determined, does not exceed the rate of basic pay for an employee for a position at ES–1 of the Senior Executive Schedule as provided for in subchapter VIII of chapter 53 of title 5 (including any locality pay adjustment applicable to the Washington, D.C.-Baltimore Maryland consolidated metropolitan statistical area).
+&emsp;&emsp;(B) whose rate of pay as an employee of the Senate, on the date on which such eligibility is determined, does not exceed the rate of basic pay payable for a position at level IV of the Executive Schedule under section 5315 of title 5.
 
-#### (2) Employee of the Senate
+#### (4) Employee of the Senate
 
 &emsp;The term "employee of the Senate"—
 
@@ -20,7 +32,7 @@ In this section:
 
 &emsp;&emsp;(B) includes any employee of the Office of Congressional Accessibility Services whose pay is disbursed by the Secretary of the Senate.
 
-#### (3) Employing office
+#### (5) Employing office
 
 &emsp;The term "employing office"—
 
@@ -28,11 +40,11 @@ In this section:
 
 &emsp;&emsp;(B) includes the Office of Congressional Accessibility Services with respect to employees of that office whose pay is disbursed by the Secretary of the Senate.
 
-#### (4) Secretary
+#### (6) Secretary
 
 &emsp;The term "Secretary" means the Secretary of the Senate.
 
-#### (5) Student loan
+#### (7) Student loan
 
 &emsp;The term "student loan" means—
 
@@ -50,7 +62,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the employing office shall agree to repay, by direct payments on behalf of the eligible employee, any student loan indebtedness of the eligible employee that is outstanding at the time the eligible employee and the employing office enter into the agreement, subject to this section; and
 
-&emsp;&emsp;&emsp;(ii) the eligible employee shall agree to complete the 1-year required period of employment described in subsection (c)(1) with the employing office in exchange for the student loan payments.
+&emsp;&emsp;&emsp;(ii) the eligible employee shall agree to complete the required period of employment described in subsection (c)(1) with the employing office in exchange for the student loan payments.
 
 #### (B) Contents of service agreements
 
@@ -86,7 +98,17 @@ In this section:
 
 #### (1) Period of employment
 
-&emsp;The term of the required period of employment under a service agreement under this section shall be 1 year. On completion of the required period of employment under such a service agreement, the eligible employee and the employing office may enter into additional service agreements for successive 1-year periods of employment.
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), the term of the required period of employment under a service agreement under this section shall be 1 year. On completion of the required period of employment under such a service agreement, the eligible employee and the employing office may enter into additional service agreements for successive 1-year periods of employment.
+
+#### (B) Departing Senators and Vice Presidents
+
+&emsp;&emsp;After the date that is 1 year before the departure date of a departing Senator or Vice President, the departing Senator or Vice President may enter into a service agreement under this section with an eligible employee of the office of the Senator or Vice President (including an eligible employee who has completed a required period of employment under a previous service agreement) that includes a required period of employment that—
+
+&emsp;&emsp;&emsp;(i) is less than 1 year; and
+
+&emsp;&emsp;&emsp;(ii) shall end on the last day of the last full pay period ending on or before the departure date of the departing Senator or Vice President.
 
 #### (2) Amount of payments
 
@@ -122,13 +144,17 @@ In this section:
 
 &emsp;The duty of an eligible employee to fulfill the required period of employment under the service agreement shall be terminated if—
 
-&emsp;&emsp;(A) funds are not made available to cover the cost of the student loan repayment program carried out under this section; or
+&emsp;&emsp;(A) funds are not made available to cover the cost of the student loan repayment program carried out under this section;
 
-&emsp;&emsp;(B) the employee and the head of the employing office involved mutually agree to terminate the service agreement under subsection (f)(7).
+&emsp;&emsp;(B) the employee and the head of the employing office involved mutually agree to terminate the service agreement;
+
+&emsp;&emsp;(C) the agreement is terminated as provided under subsection (f)(7)(A); or
+
+&emsp;&emsp;(D) the employee separates from service with the office of a departing Senator or Vice President.
 
 #### (3) Another employing office
 
-&emsp;An employing office who hires an eligible employee during a required period of employment under such a service agreement may assume the remaining obligations (as of the date of the hiring) of the employee's prior employing office under the agreement.
+&emsp;An employing office who hires an eligible employee during a required period of employment (including a required period of employment described in subsection (c)(1)(B)) under such a service agreement may assume the remaining obligations (as of the date of the hiring) of the employee's prior employing office under the agreement.
 
 #### (4) Failure of employee to reimburse
 
@@ -168,7 +194,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish and maintain a central account from which student loan payments available under this section shall be paid on behalf of eligible employees.
+&emsp;&emsp;The Secretary shall establish and maintain a central account from which studentloan payments available under this section shall be paid on behalf of eligible employees.
 
 #### (B) Office subaccounts
 
@@ -200,11 +226,33 @@ In this section:
 
 #### (6) No relief from liability
 
-&emsp;An agreement to make student loan payments under this section shall not exempt aneligible employee from the responsibility or liability of the employee with respect to the loan involved and the eligible employee shall continue to be responsible for making student loan payments on the portion of any loan that is not covered under the terms of the service agreement.
+&emsp;An agreement to make student loan payments under this section shall not exempt an eligible employee from the responsibility or liability of the employee with respect to the loan involved and the eligible employee shall continue to be responsible for making student loan payments on the portion of any loan that is not covered under the terms of the service agreement.
 
-#### (7) Reduction in payments
+#### (7) Change in payments
 
-&emsp;Notwithstanding the terms of a service agreement under this section, the head of an employing office may reduce the amount of student loan payments made under the agreement if adequate funds are not available to such office. If the head of the employing office decides to reduce the amount of student loan payments for an eligible employee, the head of the office and the employee may mutually agree to terminate the service agreement.
+#### (A) Reduction
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding the terms of a service agreement under this section, the head of an employing office may reduce the amount of student loan payments made under the agreement if adequate funds are not available to such office.
+
+#### (ii) Notice
+
+&emsp;&emsp;&emsp;If the head of an employing office decides to reduce the amount of student loan payments to an eligible employee under clause (i)—
+
+&emsp;&emsp;&emsp;&emsp;(I) the employing office shall concurrently notify the eligible employee and the Secretary of the Senate of the reduction; and
+
+&emsp;&emsp;&emsp;&emsp;(II) not later than 30 days after the date of the concurrent notice, the eligible employee may terminate the service agreement.
+
+#### (B) Increase
+
+&emsp;&emsp;Notwithstanding the terms of a service agreement under this section, the head of an employing office, with the consent of an eligible employee, may increase the amount of student loan payments made under the agreement with the eligible employee, if—
+
+&emsp;&emsp;&emsp;(i) the office has adequate funds available for the purpose of agreements under this section;
+
+&emsp;&emsp;&emsp;(ii) the amount of the increased payment does not exceed the limitations under this section; and
+
+&emsp;&emsp;&emsp;(iii) the total amount of the loan payments to be made (including such increase) during the remainder of the required period of employment does not exceed the amount of student loan indebtedness of the eligible employee as of the date of the increase.
 
 #### (8) No right to continued employment
 
@@ -262,7 +310,7 @@ In this section:
 
 This section shall apply to fiscal year 2002 and each fiscal year thereafter.
 
-(Pub. L. 107–68, title I, §102, Nov. 12, 2001, 115 Stat. 563; Pub. L. 107–117, div. B, §916, Jan. 10, 2002, 115 Stat. 2324; Pub. L. 112–74, div. G, title I, §1001(a), (b), Dec. 23, 2011, 125 Stat. 1124.)
+(Pub. L. 107–68, title I, §102, Nov. 12, 2001, 115 Stat. 563; Pub. L. 107–117, div. B, §916, Jan. 10, 2002, 115 Stat. 2324; Pub. L. 112–74, div. G, title I, §1001(a), (b), Dec. 23, 2011, 125 Stat. 1124; Pub. L. 115–141, div. I, title I, §103(a), Mar. 23, 2018, 132 Stat. 772.)
 
 #### References in Text
 
@@ -282,6 +330,24 @@ Section is from the Congressional Operations Appropriations Act, 2002, which is 
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a)(1), (2). Pub. L. 115–141, §103(a)(1)(B), added pars. (1) and (2). Former pars. (1) and (2) redesignated (3) and (4), respectively.
+
+Subsec. (a)(3). Pub. L. 115–141, §103(a)(1)(A), redesignated par. (1) as (3). Former par. (3) redesignated (5).
+
+Subsec. (a)(3)(B). Pub. L. 115–141, §103(a)(1)(C), substituted "rate of basic pay payable for a position at level IV of the Executive Schedule under section 5315 of title 5." for "rate of basic pay for an employee for a position at ES–1 of the Senior Executive Schedule as provided for in subchapter VIII of chapter 53 of title 5 (including any locality pay adjustment applicable to the Washington, D.C.-Baltimore Maryland consolidated metropolitan statistical area)."
+
+Subsec. (a)(4) to (7). Pub. L. 115–141, §103(a)(1)(A), redesignated pars. (2) to (5) as (4) to (7), respectively.
+
+Subsec. (b)(1)(A)(ii). Pub. L. 115–141, §103(a)(2), struck out "1-year" before "required period".
+
+Subsec. (c)(1). Pub. L. 115–141, §103(a)(3), designated existing provisions as subpar. (A), inserted heading, substituted "Except as provided in subparagraph (B), the term" for "The term", and added subpar. (B).
+
+Subsec. (d)(2). Pub. L. 115–141, §103(a)(4)(A), struck out "or" at end of subpar. (A), substituted a semicolon for "under subsection (f)(7)." at end of subpar. (B), and added subpars. (C) and (D).
+
+Subsec. (d)(3). Pub. L. 115–141, §103(a)(4)(B), inserted "(including a required period of employment described in subsection (c)(1)(B))" after "required period of employment".
+
+Subsec. (f)(7). Pub. L. 115–141, §103(a)(5), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: "Notwithstanding the terms of a service agreement under this section, the head of an employing office may reduce the amount of student loan payments made under the agreement if adequate funds are not available to such office. If the head of the employing office decides to reduce the amount of student loan payments for an eligible employee, the head of the office and the employee may mutually agree to terminate the service agreement."
+
 <b>2011</b>—Subsec. (a)(1). Pub. L. 112–74, §1001(a)(1), inserted ", except as provided under subsection (b)(3)" after "means an individual" in introductory provisions.
 
 Subsec. (a)(2), (3). Pub. L. 112–74, §1001(a)(2), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
@@ -299,6 +365,14 @@ Subsec. (b)(3). Pub. L. 112–74, §1001(b), added par. (3).
 <b>2002</b>—Subsec. (a). Pub. L. 107–117, §916(1), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out heading and text of former par. (1). Text read as follows: "The term 'Committee' means the Committee on Rules and Administration of the Senate."
 
 Subsec. (g)(1). Pub. L. 107–117, §916(2), substituted "subsection (h)(1)(A)" for "subsection (i)(1)(A)" in subpar. (A) and "subsection (h)(1)(B)" for "subsection (i)(1)(B)" in subpar. (B).
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–141, div. I, title I, §103(b), Mar. 23, 2018, 132 Stat. 774, provided that: "The amendments made by this section \[amending this section\] shall—
+
+&emsp;"(1) take effect on the date of enactment of this Act \[Mar. 23, 2018\]; and
+
+&emsp;"(2) apply to a service agreement under section 102 of the Legislative Branch Appropriations Act, 2002 (2 U.S.C. 4579) that is in effect on the date of enactment of this Act or entered into on or after the date of enactment of this Act."
 
 #### Effective Date of 2011 Amendment
 

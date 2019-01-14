@@ -4,7 +4,7 @@
 
 (b) Subsection (a) does not apply to a tour of active duty if—
 
-&emsp;(1) the officer, during that tour or within a period of two years before entering on that tour, received, under any law, an initial uniform reimbursement or allowance of more than $400; or
+&emsp;(1) the officer, during that tour or within a period of two years before entering on thattour, received, under any law, an initial uniform reimbursement or allowance of more than $400; or
 
 &emsp;(2) the officer enters on that tour within two years after completing a period of active duty of more than 90 days' duration.
 
@@ -40,7 +40,7 @@ In subsection (b), the introductory clause is substituted for the word "further"
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–189 redesignated first sentence of subsec. (b) as (a), substituted "section 415 of this title" for "section 415(a)–(c) of this title and subsection (a) of this section" and "the officer" for "he", and struck out former subsec. (a) which read as follows: "In addition to the initial uniform allowance authorized by section 415(a)–(c) of this title, a reserve officer of an armed force who has not become entitled to a uniform reimbursement or allowance as an officer during the preceding four years, is entitled to not more than $50 as reimbursement for the purchase of required uniforms and equipment, upon completion of each period, after July 9, 1952, of four years of service, as prescribed by section 1332(a)(2) of title 10, in an active status in one or more reserve components, including at least 28 days of active duty. However, periods of active duty of more than 90 days may not be included in computing that four years of service."
 
-Subsec. (b). Pub. L. 101–189 redesignated first sentence of subsec. (b) as (a) and in remaining provisionsof subsec. (b) substituted "Subsection (a) does not apply" for "However, this subsection does not apply".
+Subsec. (b). Pub. L. 101–189 redesignated first sentence of subsec. (b) as (a) and in remaining provisions of subsec. (b) substituted "Subsection (a) does not apply" for "However, this subsection does not apply".
 
 <b>1980</b>—Pub. L. 96–513 substituted "additional allowances" for "additional allowance" in section catchline.
 

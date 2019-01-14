@@ -50,7 +50,7 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 #### Effective Date
 
-Pub. L. 95–424, title I, §112(a)(2), Oct. 6, 1978, 92 Stat. 949, provided that: "The authority granted by section124(c) of the Foreign Assistance Act of 1961 \[subsec. (c) of this section\] shall not become effective until October 1, 1979."
+Pub. L. 95–424, title I, §112(a)(2), Oct. 6, 1978, 92 Stat. 949, provided that: "The authority granted by section 124(c) of the Foreign Assistance Act of 1961 \[subsec. (c) of this section\] shall not become effective until October 1, 1979."
 
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under section 2151 of this title.
 

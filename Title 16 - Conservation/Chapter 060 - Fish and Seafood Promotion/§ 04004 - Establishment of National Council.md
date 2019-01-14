@@ -52,7 +52,7 @@ Members of the National Council shall serve without compensation, but shall be r
 
 #### Amendments
 
-<b>1988</b>—Subsec. (d)(1)(E). Pub. L. 100–350 which directed the substitution of ", at least one of whom is not a resident of the States of the Alaska, Pacific, Southeast, and Northeast regions" for "and who are not residents of the States of the Alaska, Pacific, Southeast, or Northeast regions" was executed by substituting that phrase for "and who are not residents of the states of the Alaska, Pacific, Southeast, or Northeast regions".
+<b>1988</b>—Subsec. (d)(1)(E). Pub. L. 100–350 which directed the substitution of ", at least one of whom is not a resident of the States of the Alaska, Pacific, Southeast, and Northeast regions" for "and who are not residents of the States of the Alaska, Pacific, Southeast, orNortheast regions" was executed by substituting that phrase for "and who are not residents of the states of the Alaska, Pacific, Southeast, or Northeast regions".
 
 #### Continuity of National Council Membership
 

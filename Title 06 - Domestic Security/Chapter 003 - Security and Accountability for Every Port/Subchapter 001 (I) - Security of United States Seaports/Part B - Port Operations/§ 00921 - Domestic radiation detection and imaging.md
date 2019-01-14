@@ -18,7 +18,7 @@ The Secretary shall develop a strategy for the deployment of radiation detection
 
 &emsp;(5) operator training plans;
 
-&emsp;(6) an evaluation of the environmental health and safety impacts of nonintrusive imaging technology and a radiation risk reduction plan, in consultation with the Nuclear Regulatory Commission, the Occupational Safety and Health Administration, and the National Institute for Occupational Safety and Health, that seeks to minimize radiationexposure of workers and the public to levels as low as reasonably achievable;
+&emsp;(6) an evaluation of the environmental health and safety impacts of nonintrusive imaging technology and a radiation risk reduction plan, in consultation with the Nuclear Regulatory Commission, the Occupational Safety and Health Administration, and the National Institute for Occupational Safety and Health, that seeks to minimize radiation exposure of workers and the public to levels as low as reasonably achievable;
 
 &emsp;(7) the policy of the Department for using nonintrusive imaging equipment in tandem with radiation detection equipment; and
 
@@ -28,31 +28,19 @@ The Secretary shall develop a strategy for the deployment of radiation detection
 
 &emsp;&emsp;(B) outlines the risk-based prioritization of ports of entry identified under paragraph (1).
 
-#### (c) Report
+#### (c) Standards
 
-Not later than 90 days after October 13, 2006, the Secretary shall submit the strategy developed under subsection (b) to the appropriate congressional committees.
-
-#### (d) Update
-
-Not later than 180 days after the date of the submission of the report under subsection (c), the Secretary shall provide a more complete evaluation under subsection (b)(6).
-
-#### (e) Other weapons of mass destruction threats
-
-Not later than 180 days after October 13, 2006, the Secretary shall submit to the appropriate congressional committees a report on the feasibility of, and a strategy for, the development of equipment to detect and prevent shielded nuclear and radiological threat material and chemical, biological, and other weapons of mass destruction from entering the United States.
-
-#### (f) Standards
-
-The Secretary, acting through the Director for Domestic Nuclear Detection and in collaboration with the National Institute of Standards and Technology, shall publish technical capability standards and recommended standard operating procedures for the use of nonintrusive imaging and radiation detection equipment in the United States. Such standards and procedures—
+The Secretary, acting through the Director for Domestic Nuclear Detection <sup>1</sup> and in collaboration with the National Institute of Standards and Technology, shall publish technical capability standards and recommended standard operating procedures for the use of nonintrusive imaging and radiation detection equipment in the United States. Such standards and procedures—
 
 &emsp;(1) should take into account relevant standards and procedures utilized by other Federal departments or agencies as well as those developed by international bodies; and
 
 &emsp;(2) shall not be designed so as to endorse specific companies or create sovereignty conflicts with participating countries.
 
-#### (g) Implementation
+#### (d) Implementation
 
 Not later than 3 years after October 13, 2006, the Secretary shall fully implement the strategy developed under subsection (b).
 
-#### (h) Expansion to other United States ports of entry
+#### (e) Expansion to other United States ports of entry
 
 #### (1) In general
 
@@ -60,15 +48,15 @@ Not later than 3 years after October 13, 2006, the Secretary shall fully impleme
 
 &emsp;&emsp;(A) implementation of the program for the examination of containers for radiation at ports of entry described in subsection (a); and
 
-&emsp;&emsp;(B) submission of the strategy developed under subsection (b) (and updating, if any, of that strategy under subsection (c)),
+&emsp;&emsp;(B) submission of the strategy developed under subsection (b),
 
 > &emsp;but not later than December 31, 2008, the Secretary shall expand the strategy developed under subsection (b), in a manner consistent with the requirements of subsection (b), to provide for the deployment of radiation detection capabilities at all other United States ports of entry not covered by the strategy developed under subsection (b).
 
 #### (2) Risk assessment
 
-&emsp;In expanding the strategy under paragraph (1), the Secretary shall identify and assess the risks to those other ports of entry in order to determine what equipment and practices will best mitigate the risks.
+&emsp;In expanding the strategy under paragraph (1), the Secretary shall identify and assess the risks to those other ports of entry in order todetermine what equipment and practices will best mitigate the risks.
 
-#### (i) Intermodal Rail Radiation Detection Test Center
+#### (f) Intermodal Rail Radiation Detection Test Center
 
 #### (1) Establishment
 
@@ -82,5 +70,31 @@ Not later than 3 years after October 13, 2006, the Secretary shall fully impleme
 
 &emsp;The Test Center shall be located within a public port facility at which a majority of the containerized cargo is directly laden from (or unladen to) on-dock, intermodal rail.
 
-(Pub. L. 109–347, title I, §121, Oct. 13, 2006, 120 Stat. 1898.)
+(Pub. L. 109–347, title I, §121, Oct. 13, 2006, 120 Stat. 1898; Pub. L. 115–254, div. J, §1816(b), Oct. 5, 2018, 132 Stat. 3541.)
+
+#### Amendments
+
+<b>2018</b>—Subsecs. (c) to (e). Pub. L. 115–254, §1816(b)(1), (2), redesignated subsecs. (f) to (h) as (c) to (e), respectively, and struck out former subsecs. (c) to (e). Prior to amendment, subsecs. (c) to (e) read as follows:
+
+"(c)
+
+Report.—Not later than 90 days after October 13, 2006, the Secretary shall submit the strategy developed under subsection (b) to the appropriate congressional committees.
+
+"(d)
+
+Update.—Not later than 180 days after the date of the submission of the report under subsection (c), the Secretary shall provide a more complete evaluation under subsection (b)(6).
+
+"(e)
+
+Other weapons of mass destruction threats.—Not later than 180 days after October 13, 2006, the Secretary shall submit to the appropriate congressional committees a report on the feasibility of, and a strategy for, the development of equipment to detect and prevent shielded nuclear and radiological threat material and chemical, biological, and other weapons of mass destruction from entering the United States."
+
+Subsec. (e)(1)(B). Pub. L. 115–254, §1816(b)(3), struck out "(and updating, if any, of that strategy under subsection (c))" after "under subsection (b)".
+
+Subsecs. (f) to (i). Pub. L. 115–254, §1816(b)(2), redesignated subsecs. (f) to (i) as (c) to (f), respectively.
+
+#### Change of Name
+
+Reference to the Director for Domestic Nuclear Detection deemed to be a reference to the Assistant Secretary for the Countering Weapons of Mass Destruction Office, see section 2(b)(1)(B) of Pub. L. 115–387, set out as a note under section 591 of this title.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

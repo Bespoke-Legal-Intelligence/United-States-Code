@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section 31b–7 was editorially reclassified as section 5129 of this title.
+Section 31b–7 was editorially reclassified as former section 5129 of this title.
 

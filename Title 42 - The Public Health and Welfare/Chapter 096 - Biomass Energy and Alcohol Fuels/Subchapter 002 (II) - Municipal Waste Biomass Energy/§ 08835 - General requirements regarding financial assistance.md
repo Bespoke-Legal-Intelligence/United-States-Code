@@ -66,7 +66,7 @@ Financial assistance may not be provided under section 8832, 8833, or 8834 of th
 
 #### (e) Deposit of amounts received
 
-All amounts received by the Secretary of Energy as fees, interest, repayment of principal,and any other moneys received by the Secretary from operations under section 8832, 8833, or 8834 of this title shall be deposited in the general fund of <sup>1</sup> Treasury of the United States as miscellaneous receipts.
+All amounts received by the Secretary of Energy as fees, interest, repayment of principal, and any other moneys received by the Secretary from operations under section 8832, 8833, or 8834 of this title shall be deposited in the general fund of <sup>1</sup> Treasury of the United States as miscellaneous receipts.
 
 #### (f) Contracts and instruments backed by full faith and credit of United States
 

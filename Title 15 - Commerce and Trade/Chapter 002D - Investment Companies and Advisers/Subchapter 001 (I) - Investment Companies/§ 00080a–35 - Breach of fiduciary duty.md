@@ -2,7 +2,7 @@
 
 #### (a) Civil actions by Commission; jurisdiction; allegations; injunctive or other relief
 
-The Commission is authorized to bring an action in the proper district court of the United States, or in the United States court of any territory or other place subject to the jurisdiction of the United States, alleging that a person who is, or at the time of the alleged misconduct was, serving or acting in one or more of the following capacities has engaged within five years of the commencement of the action or is about to engage in any act or practice constituting a breach of fiduciary duty involving personal misconduct in respect of any registered investmentcompany for which such person so serves or acts, or at the time of the alleged misconduct, so served or acted—
+The Commission is authorized to bring an action in the proper district court of the United States, or in the United States court of any territory or other place subject to the jurisdiction of the United States, alleging that a person who is, or at the time of the alleged misconduct was, serving or acting in one or more of the following capacities has engaged within five years of the commencement of the action or is about to engage in any act or practice constituting a breach of fiduciary duty involving personal misconduct in respect of any registered investment company for which such person so serves or acts, or at the time of the alleged misconduct, so served or acted—
 
 &emsp;(1) as officer, director, member of any advisory board, investment adviser, or depositor; or
 

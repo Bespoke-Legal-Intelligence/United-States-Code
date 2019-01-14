@@ -50,5 +50,5 @@ Executive agency.—For purposes of this subsection, the term 'executive agency'
 
 #### Application
 
-Pub. L. 111–347, title III, §301(c), Jan. 2, 2011, 124 Stat. 3666, provided that: "This section \[enacting this sectionand provisions set out as notes under this section\] and the amendments made by this section shall be applied in a manner consistent with United States obligations under international agreements."
+Pub. L. 111–347, title III, §301(c), Jan. 2, 2011, 124 Stat. 3666, provided that: "This section \[enacting this section and provisions set out as notes under this section\] and the amendments made by this section shall be applied in a manner consistent with United States obligations under international agreements."
 

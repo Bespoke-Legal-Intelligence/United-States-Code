@@ -10,5 +10,5 @@ Provisions similar to those in this section were contained in section 853l of th
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Commerce by section 1(f) of Ex. Ord.No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
+Functions of President under this section delegated to Secretary of Commerce by section 1(f) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
 

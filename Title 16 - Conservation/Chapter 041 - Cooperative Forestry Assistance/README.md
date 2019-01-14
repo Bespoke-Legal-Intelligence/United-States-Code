@@ -20,8 +20,8 @@
 | [2107\.](%C2%A7%2002107%20-%20Financial%2C%20technical%2C%20and%20related%20assistance%20to%20States.md) | Financial, technical, and related assistance to States. |
 | [2108\.](%C2%A7%2002108%20-%20Consolidation%20of%20payments.md) | Consolidation of payments. |
 | [2109\.](%C2%A7%2002109%20-%20General%20provisions.md) | General provisions. |
-| [2109a.](%C2%A7%2002109a%20-%20Competitive%20allocation%20of%20funds%20to%20State%20foresters%20or%20equivalent%20State%20officials.md) | Competitive allocation of funds to State foresters or equivalent State officials. |
-| [2109b.](%C2%A7%2002109b%20-%20Competitive%20allocation%20of%20funds%20for%20cooperative%20forest%20innovation%20partnership%20projects.md) | Competitive allocation of funds for cooperative forest innovation partnership projects. |
+| [2109a.](%C2%A7%2002109a%20-%20State%20and%20private%20forest%20landscape-scale%20restoration%20program.md) | State and private forest landscape-scale restoration program. |
+| [2109b.](%C2%A7%2002109b%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20VIII%2C%20%C2%A78102%28b%29%281%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204839.md) | Repealed. |
 | [2110\.](%C2%A7%2002110%20-%20Statement%20of%20limitation.md) | Statement of limitation. |
 | [2111\.](%C2%A7%2002111%20-%20Other%20Federal%20programs.md) | Other Federal programs. |
 | [2112\.](%C2%A7%2002112%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VIII%2C%20%C2%A78003%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20913.md) | Repealed. |
@@ -54,8 +54,8 @@
 - [&sect; 02107 - Financial, technical, and related assistance to States](%C2%A7%2002107%20-%20Financial%2C%20technical%2C%20and%20related%20assistance%20to%20States.md)
 - [&sect; 02108 - Consolidation of payments](%C2%A7%2002108%20-%20Consolidation%20of%20payments.md)
 - [&sect; 02109 - General provisions](%C2%A7%2002109%20-%20General%20provisions.md)
-- [&sect; 02109a - Competitive allocation of funds to State foresters or equivalent State officials](%C2%A7%2002109a%20-%20Competitive%20allocation%20of%20funds%20to%20State%20foresters%20or%20equivalent%20State%20officials.md)
-- [&sect; 02109b - Competitive allocation of funds for cooperative forest innovation partnership projects](%C2%A7%2002109b%20-%20Competitive%20allocation%20of%20funds%20for%20cooperative%20forest%20innovation%20partnership%20projects.md)
+- [&sect; 02109a - State and private forest landscape-scale restoration program](%C2%A7%2002109a%20-%20State%20and%20private%20forest%20landscape-scale%20restoration%20program.md)
+- [&sect; 02109b - Repealed. Pub. L. 115&#8211;334, title VIII, &sect;8102(b)(1), Dec. 20, 2018, 132 Stat. 4839](%C2%A7%2002109b%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20VIII%2C%20%C2%A78102%28b%29%281%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204839.md)
 - [&sect; 02110 - Statement of limitation](%C2%A7%2002110%20-%20Statement%20of%20limitation.md)
 - [&sect; 02111 - Other Federal programs](%C2%A7%2002111%20-%20Other%20Federal%20programs.md)
 - [&sect; 02112 - Repealed. Pub. L. 113&#8211;79, title VIII, &sect;8003, Feb. 7, 2014, 128 Stat. 913](%C2%A7%2002112%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VIII%2C%20%C2%A78003%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20913.md)

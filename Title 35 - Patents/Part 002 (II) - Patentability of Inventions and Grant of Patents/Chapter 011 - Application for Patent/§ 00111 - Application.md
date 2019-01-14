@@ -52,7 +52,7 @@ Filing date.—The filing date of a provisional application shall be the date on
 
 &emsp;(5)
 
-Abandonment.—Notwithstanding the absence of a claim, upon timely request and as prescribed by the Director, a provisional application may be treated as an application filed under subsection (a). Subject to section 119(e)(3), if no such request is made, the provisional application shall be regarded as abandoned 12 months after the filing date of such application and shall not be subject to revival after such 12-month period.
+Abandonment.—Notwithstanding the absence of a claim, upon timely request and asprescribed by the Director, a provisional application may be treated as an application filed under subsection (a). Subject to section 119(e)(3), if no such request is made, the provisional application shall be regarded as abandoned 12 months after the filing date of such application and shall not be subject to revival after such 12-month period.
 
 &emsp;(6)
 
@@ -60,7 +60,7 @@ Other basis for provisional application.—Subject to all the conditions in this
 
 &emsp;(7)
 
-No right of priority or benefit of earliest filing date.—A provisional application shall not be entitled to the right of priority ofany other application under section 119, 365(a), or 386(a) or to the benefit of an earlier filing date in the United States under section 120, 121, 365(c), or 386(c).
+No right of priority or benefit of earliest filing date.—A provisional application shall not be entitled to the right of priority of any other application under section 119, 365(a), or 386(a) or to the benefit of an earlier filing date in the United States under section 120, 121, 365(c), or 386(c).
 
 &emsp;(8)
 
@@ -130,7 +130,7 @@ Subsec. (b)(5). Pub. L. 106–113, §1000(a)(9) \[title IV, §4801(a)\], amended
 
 Subsec. (b)(6). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
-<b>1994</b>—Pub. L. 103–465 amended section generally. Prior to amendment, section read as follows: "Application for patent shall be made, or authorized to be made, by the inventor, except as otherwise provided in this title, in writing to the Commissioner. Such application shall include (1) a specification as prescribed by section 112 of this title; (2) a drawing as prescribed by section 113 of this title; and (3) an oath by the applicant as prescribed by section 115 of this title. The application must be accompanied by the fee required by law. The fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner. Upon failure to submit the fee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable. The filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office."
+<b>1994</b>—Pub. L. 103–465 amended section generally. Prior to amendment, section read as follows: "Application for patent shall be made, or authorized to be made, by the inventor, except as otherwise provided in this title, in writing to the Commissioner. Such application shall include (1) a specification as prescribed by section 112 of this title; (2) a drawing as prescribed by section 113 of this title; and (3) an oath by the applicant as prescribed by section 115 of this title. The application must be accompanied by the fee required by law. Thefee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner. Upon failure to submit the fee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable. The filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office."
 
 <b>1982</b>—Pub. L. 97–247 inserted ", or authorized to be made," after "shall be made", struck out the colon after "shall include", struck out "signed by the applicant and" after "The application", and inserted provisions that the fee and oath may be submitted after the specification and any required drawing are submitted, within such period and under such conditions, including the payment of a surcharge, as may be prescribed by the Commissioner, that upon failure to submit the fee and oath within such prescribed period, the application shall be regarded as abandoned, unless it is shown to the satisfaction of the Commissioner that the delay in submitting the fee and oath was unavoidable, and that the filing date of an application shall be the date on which the specification and any required drawing are received in the Patent and Trademark Office.
 

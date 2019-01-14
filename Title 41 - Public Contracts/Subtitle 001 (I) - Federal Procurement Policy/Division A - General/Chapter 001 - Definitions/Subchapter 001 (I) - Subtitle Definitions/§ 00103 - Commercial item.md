@@ -36,6 +36,42 @@ In this subtitle, the term "commercial item" means—
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3679; Pub. L. 115–91, div. A, title VIII, §847(a), Dec. 12, 2017, 131 Stat. 1487.)
 
+#### Repeal and Reenactment of Section
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(a)(1), (h), Aug. 13, 2018, 132 Stat. 1859, 1874, provided that, effective Jan. 1, 2020, subject to savings provision, this section is repealed and a new section 103 is enacted to read as follows:</i>
+
+#### §103. Commercial product
+
+<i>In this subtitle, the term "commercial product" means any of the following:</i>
+
+&emsp;<i>(1) A product, other than real property, that—</i>
+
+&emsp;&emsp;<i>(A) is of a type customarily used by the general public or by nongovernmental entities for purposes other than governmental purposes; and</i>
+
+&emsp;&emsp;<i>(B) has been sold, leased, or licensed, or offered for sale, lease, or license, to the general public.</i>
+
+&emsp;<i>(2) A product that—</i>
+
+&emsp;&emsp;<i>(A) evolved from a product described in paragraph (1) through advances in technology or performance; and</i>
+
+&emsp;&emsp;<i>(B) is not yet available in the commercial marketplace but will be available in the commercial marketplace in time to satisfy the delivery requirements under a Federal Government solicitation.</i>
+
+&emsp;<i>(3) A product that would satisfy the criteria in paragraph (1) or (2) were it not for—</i>
+
+&emsp;&emsp;<i>(A) modifications of a type customarily available in the commercial marketplace; or</i>
+
+&emsp;&emsp;<i>(B) minor modifications made to meet Federal Government requirements.</i>
+
+&emsp;<i>(4) Any combination of products meeting the requirements of paragraph (1), (2), or (3) that are of a type customarily combined and sold in combination to the general public.</i>
+
+&emsp;<i>(5) A product, or combination of products, referred to in paragraphs (1) through (4), even though the product, or combination of products, is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor.</i>
+
+&emsp;<i>(6) A nondevelopmental item if the procuring agency determines, in accordance with conditions in the Federal Acquisition Regulation, that—</i>
+
+&emsp;&emsp;<i>(A) the product was developed exclusively at private expense; and</i>
+
+&emsp;&emsp;<i>(B) has been sold in substantial quantities, on a competitive basis, to multiple State and local governments or to multiple foreign governments.</i>
+
 Historical and Revision Notes
 
 <i>Revised</i>
@@ -63,6 +99,10 @@ Pub. L. 93–400, §4(12), as added Pub. L. 103–355, title VIII, §8001(a), Oc
 #### Amendments
 
 <b>2017</b>—Par. (8). Pub. L. 115–91 inserted "or to multiple foreign governments" before period at end.
+
+#### Effective Date of Repeal
+
+Section repealed effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
 #### Construction of 2017 Amendment
 

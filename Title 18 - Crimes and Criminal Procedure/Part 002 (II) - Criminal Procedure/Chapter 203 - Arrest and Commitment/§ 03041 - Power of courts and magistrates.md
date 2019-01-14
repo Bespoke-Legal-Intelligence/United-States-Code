@@ -30,5 +30,5 @@ Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effec
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–465 effective ninety days after June 22, 1966, see section 6 of Pub. L. 89–465, set out as an Effective Date note under section 3146 of this title.
+Amendment by Pub. L. 89–465 effective ninety days after June 22, 1966, see section 6 of Pub. L. 89–465, setout as an Effective Date note under section 3146 of this title.
 

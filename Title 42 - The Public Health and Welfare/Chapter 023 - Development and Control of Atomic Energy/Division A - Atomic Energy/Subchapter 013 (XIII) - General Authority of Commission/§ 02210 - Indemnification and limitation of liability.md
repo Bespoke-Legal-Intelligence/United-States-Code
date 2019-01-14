@@ -14,7 +14,7 @@ Each license issued under section 2133 or 2134 of this title and each constructi
 
 &emsp;(ii) for any licensee licensed to operate more than one facility, if the Commission determines that the financial impact of assessing the standard annual deferred premium amount under paragraph (1) would result in undue financial hardship to such licensee or the ratepayers of such licensee.
 
-(B) In the event that the Commission assesses a lesser annual deferred premium amount under subparagraph (A), the Commission shall require payment of the difference between the standard annual deferred premium assessment under paragraph (1) and any such lesser annual deferred premium assessment within a reasonableperiod of time, with interest at a rate determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the date that the standard annual deferred premium assessment under paragraph (1) would become due.
+(B) In the event that the Commission assesses a lesser annual deferred premium amount under subparagraph (A), the Commission shall require payment of the difference between the standard annual deferred premium assessment under paragraph (1) and any such lesser annual deferred premium assessment within a reasonable period of time, with interest at a rate determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the date that the standard annual deferred premium assessment under paragraph (1) would become due.
 
 (3) The Commission shall establish such requirements as are necessary to assure availability of funds to meet any assessment of deferred premiums within a reasonable time when due, and may provide reinsurance or shall otherwise guarantee the payment of such premiums in the event it appears that the amount of such premiums will not be available on a timely basis through the resources of private industry and insurance. Any agreement by the Commission with a licensee or indemnitor to guarantee the payment of deferred premiums may contain such terms as the Commission deems appropriate to carry out the purposes of this section and to assure reimbursement to the Commission for its payments made due to the failure of such licensee or indemnitor to meet any of its obligations arising under or in connection with financial protection required under this subsection including without limitation terms creating liens upon the licensed facility and the revenues derived therefrom or any other property or revenues of such licensee to secure such reimbursement and consent to the automatic revocation of any license.
 
@@ -38,7 +38,7 @@ The Commission shall, with respect to licenses issued between August 30, 1954, a
 
 #### (d) Indemnification of contractors by Department of Energy
 
-(1)(A) In addition to any other authority the Secretary of Energy (in this section referred to as the "Secretary") may have, the Secretary shall, until December 31, 2025, enter into agreements of indemnification under this subsection with any person who may conduct activities under a contract with the Department of Energythat involve the risk of public liability and that are not subject to financial protection requirements under subsection (b) or agreements of indemnification under subsection (c) or (k).
+(1)(A) In addition to any other authority the Secretary of Energy (in this section referred to as the "Secretary") may have, the Secretary shall, until December 31, 2025, enter into agreements of indemnification under this subsection with any person who may conduct activities under a contract with the Department of Energy that involve the risk of public liability and that are not subject to financial protection requirements under subsection (b) or agreements of indemnification under subsection (c) or (k).
 
 (B)(i)(I) Beginning 60 days after August 20, 1988, agreements of indemnification under subparagraph (A) shall be the exclusive means of indemnification for public liability arising from activities described in such subparagraph, including activities conducted under a contract that contains an indemnification clause under Public Law 85–804 \[50 U.S.C. 1431 et seq.\] entered into between August 1, 1987, and August 20, 1988.
 
@@ -76,7 +76,7 @@ The Commission shall, with respect to licenses issued between August 30, 1954, a
 
 &emsp;&emsp;(ii) if the amount of financial protection required of the licensee exceeds $60,000,000, $560,000,000 or the amount of financial protection required of the licensee, whichever amount is more.
 
-(2) In the event of a nuclear incident involving damages in excess of the amount of aggregate public liability under paragraph (1), the Congress will thoroughly review the particular incident in accordance with the procedures set forth in subsection (i) and will in accordance with such procedures, take whatever action is determined to be necessary (including approval of appropriate compensation plans and appropriation of funds) to provide full and prompt compensation to the public for all public liability claims resulting from a disaster of such magnitude.
+(2) In the event of a nuclear incident involving damages in excess of the amount of aggregate public liability under paragraph (1), the Congress will thoroughly review the particular incident in accordance with the procedures set forth in subsection (i) and will in accordance with such procedures, take whatever action is determined to be necessary (including approval of appropriate compensation plans and appropriationof funds) to provide full and prompt compensation to the public for all public liability claims resulting from a disaster of such magnitude.
 
 (3) No provision of paragraph (1) may be construed to preclude the Congress from enacting a revenue measure, applicable to licensees of the Commission required to maintain financial protection pursuant to subsection (b), to fund any action undertaken pursuant to paragraph (2).
 
@@ -112,7 +112,7 @@ The agreement of indemnification may contain such terms as the Commission or the
 
 &emsp;(D) any additional legislative authorities necessary to implement such compensation plan or plans.
 
-(3)(A) Any compensation plan transmitted to the Congress pursuant to paragraph (2) shall bear an identification number and shall be transmitted to both Houses of Congress on the same day and to each House while it is in session.
+(3)(A) Any compensation plan transmitted to the Congress pursuant to paragraph (2) shallbear an identification number and shall be transmitted to both Houses of Congress on the same day and to each House while it is in session.
 
 (B) The provisions of paragraphs (4) through (6) shall apply with respect to consideration in the Senate of any compensation plan transmitted to the Senate pursuant to paragraph (2).
 
@@ -156,11 +156,11 @@ In administering the provisions of this section, the Commission or the Secretary
 
 With respect to any license issued pursuant to section 2073, 2093, 2111, 2134(a), or 2134(c) of this title, for the conduct of educational activities to a person found by the Commission to be a nonprofit educational institution, the Commission shall exempt such licensee from the financial protection requirement of subsection (a). With respect to licenses issued between August 30, 1954, and December 31, 2025, for which the Commission grants such exemption:
 
-&emsp;(1) the Commission shall agree to indemnify and hold harmless the licensee and other persons indemnified, as their interests may appear, from public liability in excess of $250,000 arising from nuclear incidents. The aggregate indemnity for all persons indemnified in connection with each nuclear incident shall not exceed $500,000,000, including such legal costs of the licensee as are approved by the Commission;
+&emsp;(1) the Commission shall agree to indemnify and hold harmless the licensee and other persons indemnified, as their interests may appear, from public liability in excess of $250,000 arising from nuclear incidents. The aggregateindemnity for all persons indemnified in connection with each nuclear incident shall not exceed $500,000,000, including such legal costs of the licensee as are approved by the Commission;
 
 &emsp;(2) such contracts of indemnification shall cover public liability arising out of or in connection with the licensed activity; and shall include damage to property of persons indemnified, except property which is located at the site of and used in connection with the activity where the nuclear incident occurs; and
 
-&emsp;(3) such contracts of indemnification, when entered into with a licensee having immunity from public liability because it is a State agency, shall provide also that the Commission shall make payments under the contract on account of activities of the licensee in the same manner and to the same extent as theCommission would be required to do if the licensee were not such a State agency.
+&emsp;(3) such contracts of indemnification, when entered into with a licensee having immunity from public liability because it is a State agency, shall provide also that the Commission shall make payments under the contract on account of activities of the licensee in the same manner and to the same extent as the Commission would be required to do if the licensee were not such a State agency.
 
 > Any licensee may waive an exemption to which it is entitled under this subsection. With respect to any production or utilization facility for which a construction permit is issued between August 30, 1954, and December 31, 2025, the requirements of this subsection shall apply to any license issued for such facility subsequent to December 31, 2025.
 
@@ -290,7 +290,7 @@ The Commission or the Secretary, as appropriate, is authorized to enter into agr
 
 #### (p) Reports to Congress
 
-The Commission and the Secretary shall submit to the Congress by December 31, 2021, detailed reports concerning the need for continuation or modification of the provisions of this section, taking into account the condition of the nuclear industry, availability of private insurance, and the state of knowledge concerning nuclear safety at that time, among other relevant factors, and shall include recommendations as to the repeal or modification of any of the provisions of this section.
+The Commission and the Secretary shall submit to the Congress by December 31, 2021, detailed reports concerning the need for continuation or modification of the provisions of thissection, taking into account the condition of the nuclear industry, availability of private insurance, and the state of knowledge concerning nuclear safety at that time, among other relevant factors, and shall include recommendations as to the repeal or modification of any of the provisions of this section.
 
 #### (q) Limitation on awarding of precautionary evacuation costs
 
@@ -350,7 +350,7 @@ Subsec. (d)(2). Pub. L. 109–58, §604(a), added par. (2) and struck out former
 
 Subsec. (d)(3). Pub. L. 109–58, §604(b), added par. (3) and struck out former par. (3) which read as follows:
 
-"(3)(A) Notwithstanding paragraph (2), if the maximum amount of financial protection required of licensees under subsection (b) of this section is increased by the Commission, the amount of indemnity, together with any financial protection required of the contractor, shall at all times remain equal to or greater than the maximum amount of financial protection required of licensees under subsection (b) of this section.
+"(3)(A) Notwithstanding paragraph (2), if the maximum amount of financial protection required of licensees under subsection (b) of this section is increased by the Commission, the amount of indemnity, togetherwith any financial protection required of the contractor, shall at all times remain equal to or greater than the maximum amount of financial protection required of licensees under subsection (b) of this section.
 
 "(B) The amount of indemnity provided contractors under this subsection shall not, at any time, be reduced in the event that the maximum amount of financial protection required of licensees is reduced.
 
@@ -500,7 +500,7 @@ Subsec. (p). Pub. L. 94–197, §14, added subsec. (p).
 
 Subsecs. (m) to (o). Pub. L. 89–645, §3, added subsecs. (m) to (o).
 
-<b>1965</b>—Subsec. (c). Pub. L. 89–210, §1, substituted "August 1, 1977" for "August 1, 1967" wherever appearing,and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
+<b>1965</b>—Subsec. (c). Pub. L. 89–210, §1, substituted "August 1, 1977" for "August 1, 1967" wherever appearing, and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
 
 Subsec. (d). Pub. L. 89–210, §2, substituted "August 1, 1977" for "August 1, 1967," and inserted proviso requiring the amount of indemnity to be reduced by the amount that the financial protection required shall exceed $60,000,000.
 
@@ -910,7 +910,7 @@ Payment of Claims.—
 
 &emsp;"(1)
 
-In general.—The Attorney General shall pay, from amounts available in the Fund (or, in the case of a payment under section 5, from the Energy Employees Occupational Illness Compensation Fund, pursuant to section 3630(d) of the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7384u(d)\]), claims filed under this Act which the Attorney General determines meet the requirements of this Act.
+In general.—The Attorney General shall pay, from amounts available in the Fund (or, in the caseof a payment under section 5, from the Energy Employees Occupational Illness Compensation Fund, pursuant to section 3630(d) of the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7384u(d)\]), claims filed under this Act which the Attorney General determines meet the requirements of this Act.
 
 &emsp;"(2)
 
@@ -1138,7 +1138,7 @@ Designation of convener.—Within 30 days of the date of the enactment of this A
 
 &emsp;"(3)
 
-Submission of recommendations of the convener.—The convener shall, not later than 7 months after the date of the enactment of this Act, submit to the Commission recommendations for a proposed rule regarding whether the Commission should enter into indemnity agreements under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) with radiopharmaceutical licensees and, if so, the terms and conditions of such indemnification. If the convenerrecommends that such indemnity be provided for radiopharmaceutical licensees, the proposed rule submitted by the convener shall set forth the procedures for the execution of indemnification agreements with radiopharmaceutical licensees.
+Submission of recommendations of the convener.—The convener shall, not later than 7 months after the date of the enactment of this Act, submit to the Commission recommendations for a proposed rule regarding whether the Commission should enter into indemnity agreements under section 170 of the Atomic Energy Act of 1954 (42 U.S.C. 2210) with radiopharmaceutical licensees and, if so, the terms and conditions of such indemnification. If the convener recommends that such indemnity be provided for radiopharmaceutical licensees, the proposed rule submitted by the convener shall set forth the procedures for the execution of indemnification agreements with radiopharmaceutical licensees.
 
 &emsp;"(4)
 

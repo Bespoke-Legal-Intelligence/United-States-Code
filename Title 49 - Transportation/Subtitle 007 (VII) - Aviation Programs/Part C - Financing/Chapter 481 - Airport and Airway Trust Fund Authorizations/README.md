@@ -13,13 +13,15 @@
 | [48109\.](%C2%A7%2048109%20-%20Submission%20of%20budget%20information%20and%20legislative%20recommendations%20and%20comments.md) | Submission of budget information and legislative recommendations and comments. |
 | [48110\.](%C2%A7%2048110%20-%20Facilities%20for%20advanced%20training%20of%20maintenance%20technicians%20for%20air%20carrier%20aircraft.md) | Facilities for advanced training of maintenance technicians for air carrier aircraft. |
 | [48111\.](%C2%A7%2048111%20-%20Funding%20proposals.md) | Funding proposals. |
-| [48112\.](%C2%A7%2048112%20-%20Adjustment%20to%20AIP%20program%20funding.md) | Adjustment to AIP program funding. |
+| \[48112. | Repealed.\] |
 | [48113\.](%C2%A7%2048113%20-%20Reprogramming%20notification%20requirement.md) | Reprogramming notification requirement. |
 | [48114\.](%C2%A7%2048114%20-%20Funding%20for%20aviation%20programs.md) | Funding for aviation programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–254, div. B, title I, §115, Oct. 5, 2018, 132 Stat. 3201, struck out item 48112 "Adjustment to AIP program funding".
 
 <b>2003</b>—Pub. L. 108–176, title I, §104(b), Dec. 12, 2003, 117 Stat. 2497, added item 48114.
 
@@ -43,6 +45,6 @@
 - [&sect; 48109 - Submission of budget information and legislative recommendations and comments](%C2%A7%2048109%20-%20Submission%20of%20budget%20information%20and%20legislative%20recommendations%20and%20comments.md)
 - [&sect; 48110 - Facilities for advanced training of maintenance technicians for air carrier aircraft](%C2%A7%2048110%20-%20Facilities%20for%20advanced%20training%20of%20maintenance%20technicians%20for%20air%20carrier%20aircraft.md)
 - [&sect; 48111 - Funding proposals](%C2%A7%2048111%20-%20Funding%20proposals.md)
-- [&sect; 48112 - Adjustment to AIP program funding](%C2%A7%2048112%20-%20Adjustment%20to%20AIP%20program%20funding.md)
+- [&sect; 48112 - Repealed. Pub. L. 115&#8211;254, div. B, title I, &sect;115, Oct. 5, 2018, 132 Stat. 3201](%C2%A7%2048112%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93254%2C%20div.%20B%2C%20title%20I%2C%20%C2%A7115%2C%20Oct.%205%2C%202018%2C%20132%20Stat.%203201.md)
 - [&sect; 48113 - Reprogramming notification requirement](%C2%A7%2048113%20-%20Reprogramming%20notification%20requirement.md)
 - [&sect; 48114 - Funding for aviation programs](%C2%A7%2048114%20-%20Funding%20for%20aviation%20programs.md)

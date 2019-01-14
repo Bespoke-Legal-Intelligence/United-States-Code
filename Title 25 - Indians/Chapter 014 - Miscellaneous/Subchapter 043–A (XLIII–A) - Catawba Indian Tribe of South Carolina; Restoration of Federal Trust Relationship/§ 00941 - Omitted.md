@@ -10,5 +10,5 @@ Pub. L. 103–116, §17, Oct. 27, 1993, 107 Stat. 1138, which generally provided
 
 #### Short Title
 
-Pub. L. 103–116, §1, Oct. 27, 1993, 107 Stat. 1118, provided that Pub. L. 103–116, enacting this subchapter andprovisions set out as a note under section 931 of this title and repealing subchapter XLIII (§931 et seq.) of this chapter, could be cited as the "Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993".
+Pub. L. 103–116, §1, Oct. 27, 1993, 107 Stat. 1118, provided that Pub. L. 103–116, enacting this subchapter and provisions set out as a note under section 931 of this title and repealing subchapter XLIII (§931 et seq.) of this chapter, could be cited as the "Catawba Indian Tribe of South Carolina Land Claims Settlement Act of 1993".
 

@@ -2,7 +2,7 @@
 
 #### (a) Restriction on eligibility
 
-Notwithstanding any other provision of law, no institution of higher education shall be eligible to receive funds or any other form of financial assistance under any Federal program, including participation in any federally funded or guaranteed student loan program, unless the institution certifies to the Secretary that the institution has adopted and has implemented a program to prevent the use of illicit drugs and the abuse of alcohol by students and employees that, at a minimum, includes—
+Notwithstanding any other provision of law, no institution of higher education shall be eligible to receive funds or any other form of financial assistance under any Federal program, including participation in any federally funded or guaranteed student loan program, unless the institution certifies to the Secretary that the institution has adopted and has implemented aprogram to prevent the use of illicit drugs and the abuse of alcohol by students and employees that, at a minimum, includes—
 
 &emsp;(1) the annual distribution to each student and employee of—
 

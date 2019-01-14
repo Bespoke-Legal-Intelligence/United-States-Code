@@ -8,7 +8,7 @@
 
 &emsp;(3) by contract from any person or carrier for surface and water transportation under such terms and conditions as it deems appropriate, subject to the provisions of this section.
 
-(b)(1) Contracts for the transportation of mail procured under subsection (a)(3) of this section shall be for periods not in excess of 4 years (or such longer period of time as may be determined by the Postal Service to be advisable or appropriate) and shall be entered into only after advertising a sufficient time previously for proposals. The Postal Service, with the consent of the holder of any such contract, may adjust the compensation allowed under that contract for increased or decreased costs resulting from changed conditions occurring during the term of the contract.
+(b)(1) Contracts for the transportation of mail procured under subsection (a)(3) of this sectionshall be for periods not in excess of 4 years (or such longer period of time as may be determined by the Postal Service to be advisable or appropriate) and shall be entered into only after advertising a sufficient time previously for proposals. The Postal Service, with the consent of the holder of any such contract, may adjust the compensation allowed under that contract for increased or decreased costs resulting from changed conditions occurring during the term of the contract.
 
 (2) A contract under subsection (a)(3) of this section may be renewed at the existing rate by mutual agreement between the contractor or subcontractor and the Postal Service.
 

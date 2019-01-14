@@ -36,7 +36,7 @@ General repealer of provisions inconsistent with Pub. L. 92–392 as not repeali
 
 #### Voluntary Separation Incentives
 
-Pub. L. 105–275, title III, §309, Oct. 21, 1998, 112 Stat. 2454, as amended by Pub. L. 107–68, title II, §210(a), Nov. 12, 2001, 115 Stat. 590; Pub. L. 112–10, div. B, title IX, §1926(a), Apr. 15, 2011, 125 Stat. 172; Pub. L. 113–235, div. H, title I, §1301(b), (d), Dec. 16, 2014, 128 Stat. 2537, provided that:
+Pub. L. 105–275, title III, §309, Oct. 21, 1998, 112 Stat. 2454, as amended by Pub. L. 107–68, title II, §210(a), Nov.12, 2001, 115 Stat. 590; Pub. L. 112–10, div. B, title IX, §1926(a), Apr. 15, 2011, 125 Stat. 172; Pub. L. 113–235, div. H, title I, §1301(b), (d), Dec. 16, 2014, 128 Stat. 2537, provided that:
 
 "(a)
 
@@ -134,7 +134,7 @@ Administrative Provisions.—(1) The Director of the Government Publishing Offic
 
 "(3) Funds to carry out subsection (d) may be expended from any funds made available to the Director of the Government Publishing Office."
 
-\[Pub. L. 112–10, div. B, title IX, §1926(b), Apr. 15, 2011, 125 Stat. 172, provided that: "The amendment made by subsection (a) \[amending section 309 of Pub. L. 105–275, set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 1999 \[Pub. L. 105–275\]."\]
+\[Pub. L. 112–10, div. B, title IX, §1926(b), Apr. 15, 2011, 125 Stat. 172, provided that: "The amendment made by subsection (a) \[amending section 309 of Pub. L. 105–275,set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 1999 \[Pub. L. 105–275\]."\]
 
 \[Pub. L. 107–68, title II, §210(b), Nov. 12, 2001, 115 Stat. 590, provided that: "The amendments made by this section \[amending section 309 of Pub. L. 105–275, set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 1999 \[Pub. L. 105–275\]."\]
 

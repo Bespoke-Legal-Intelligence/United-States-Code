@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) is under the control of a military authority or defense agency.
 
-(c) Notwithstanding the provisions of section 1610 of this chapter, the property of a foreign state shall be immune from attachment and from execution in an action brought under section 302 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 to the extent that the property is a facility or installation used by an accredited diplomatic mission for official purposes.
+(c) Notwithstanding the provisions of section 1610 of this chapter, the property of a foreignstate shall be immune from attachment and from execution in an action brought under section 302 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 to the extent that the property is a facility or installation used by an accredited diplomatic mission for official purposes.
 
 (Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2897; amended Pub. L. 104–114, title III, §302(e), Mar. 12, 1996, 110 Stat. 818.)
 

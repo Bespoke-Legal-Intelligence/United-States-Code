@@ -14,7 +14,7 @@
 
 (4) The rules and regulations enforced by such personnel shall be the rules and regulations prescribed by the Director and shall only be applicable to the areas referred to in subparagraph (A) of paragraph (1).
 
-(5) Agency personnel authorized by the Director under paragraph (1) may transport an individual apprehended under the authority of this section from the premises at which the individual was apprehended, as described in subparagraph (A) or (B) of paragraph (1), for the purpose of transferring such individual to the custody of law enforcement officials. Such transportation may be provided only to make a transfer of custody at a location within 30 miles of the premises described in subparagraphs (A) and (B) of paragraph (1).
+(5) Agency personnel authorized by the Director under paragraph (1) may transport an individual apprehended under the authority of thissection from the premises at which the individual was apprehended, as described in subparagraph (A) or (B) of paragraph (1), for the purpose of transferring such individual to the custody of law enforcement officials. Such transportation may be provided only to make a transfer of custody at a location within 30 miles of the premises described in subparagraphs (A) and (B) of paragraph (1).
 
 #### (b) Penalties
 
@@ -40,7 +40,7 @@ Agency personnel designated by the Director of the National Security Agency unde
 
 (3) In this subsection, the term "crime of violence" has the meaning given that term in section 16 of title 18.
 
-(Pub. L. 86–36, §11, as added Pub. L. 96–450, title IV, §402(a)(1), Oct. 14, 1980, 94 Stat. 1978; amended Pub. L. 107–108, title V, §506, Dec. 28, 2001, 115 Stat. 1406; Pub. L. 107–306, title VIII, §841(f), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title III, §377(c), title V, §501, Dec. 13, 2003, 117 Stat.2630, 2633; Pub. L. 112–87, title IV, §421, Jan. 3, 2012, 125 Stat. 1893.)
+(Pub. L. 86–36, §11, as added Pub. L. 96–450, title IV, §402(a)(1), Oct. 14, 1980, 94 Stat. 1978; amended Pub. L. 107–108, title V, §506, Dec. 28, 2001, 115 Stat. 1406; Pub. L. 107–306, title VIII, §841(f), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title III, §377(c), title V, §501, Dec. 13, 2003, 117 Stat. 2630, 2633; Pub. L. 112–87, title IV, §421, Jan. 3, 2012, 125 Stat. 1893.)
 
 #### Codification
 

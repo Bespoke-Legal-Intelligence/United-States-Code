@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services shall continue activities related to still birth, sudden unexpected infant death, and sudden unexplained death in childhood, including, as appropriate—
+The Secretary of Health and Human Services shall continue activities related to still birth,sudden unexpected infant death, and sudden unexplained death in childhood, including, as appropriate—
 
 &emsp;(1) collecting information, such as socio-demographic, death scene investigation, clinical history, and autopsy information, on stillbirth, sudden unexpected infant death, and sudden unexplained death in childhood through the utilization of existing surveillance systems and collaborating with States to improve the quality, consistency, and collection of such data;
 

@@ -1,6 +1,6 @@
 ### §3706. Encouragement of alternative dispute resolution
 
-The Federal Acquisition Regulation shall include a provision encouraging the use of alternative dispute resolution techniques to provide informal, expeditious, and inexpensive procedures for an offeror to consider using before filing a protest, prior to the award of a contract, of the exclusion of the offeror from the competitive range (or otherwise from further consideration) for that contract.
+The Federal Acquisition Regulation shall include a provision encouraging the use of alternative dispute resolution techniques to provideinformal, expeditious, and inexpensive procedures for an offeror to consider using before filing a protest, prior to the award of a contract, of the exclusion of the offeror from the competitive range (or otherwise from further consideration) for that contract.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3773.)
 

@@ -8,7 +8,7 @@ It is the policy of Congress to continue the agricultural research at State agri
 
 The Hatch Act of 1887, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, which is classified generally to sections 361a to 361i of this title. For complete classification of this act to the Code, see Short Title note set out below, and Tables.
 
-The Adams Act of 1906, referred to in text, is act Mar. 16, 1906, ch. 951, 34 Stat. 63, as amended, which was classified to sections 361, 366, 369, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, §2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
+The Adams Act of 1906, referred to in text, is act Mar. 16, 1906, ch. 951, 34 Stat. 63, as amended, which was classified to sections 361, 366, 369, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch.790, §2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
 
 The Purnell Act of 1925, referred to in text, is act Feb. 24, 1925, ch. 308, 43 Stat. 970, as amended, which was classified to sections 361, 366, 370, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, §2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
 

@@ -12,11 +12,11 @@ Attendance authorized.—
 
 In general.—The Secretary of each military department may permit persons from foreign countries to receive instruction at the Service Academy under the jurisdiction of the Secretary. Such persons shall be in addition to—
 
-&emsp;&emsp;&emsp;(i) in the case of the United States Military Academy, the authorized strength of the Corps of the Cadets of the Academy under section 4342 of this title;
+&emsp;&emsp;&emsp;(i) in the case of the United States Military Academy, the authorized strength of the Corps of the Cadets of the Academy under section 7442 of this title;
 
-&emsp;&emsp;&emsp;(ii) in the case of the United States Naval Academy, the authorized strength of the Brigade of Midshipmen of the Academy under section 6954 of this title; and
+&emsp;&emsp;&emsp;(ii) in the case of the United States Naval Academy, the authorized strength of the Brigade of Midshipmen of the Academy under section 8454 of this title; and
 
-&emsp;&emsp;&emsp;(iii) in the case of the United States Air Force Academy, the authorized strength of the Cadet Wing of the Academy under section 9342 of this title.
+&emsp;&emsp;&emsp;(iii) in the case of the United States Air Force Academy, the authorized strength of the Cadet Wing of the Academy under section 9442 of this title.
 
 &emsp;&emsp;(B)
 
@@ -60,7 +60,7 @@ Waiver authority.—The Secretary of Defense may waive, in whole or in part, the
 
 &emsp;(7)
 
-Applicability of academy regulations, etc..— <sup>1</sup>
+Applicability of academy regulations, etc.—
 
 &emsp;&emsp;(A)
 
@@ -76,7 +76,7 @@ Ineligibility for appointment in the united states armed forces.—A person rece
 
 &emsp;(9)
 
-Inapplicability of requirement for taking oath of admission.—A person receiving instruction under this subsection is not subject to section 4346(d), 6958(d), or 9346(d) of this title, as the case may be.
+Inapplicability of requirement for taking oath of admission.—A person receiving instruction under this subsection is not subject to section 7446(d), 8458(d), or 9446(d) of this title, as the case may be.
 
 (b)
 
@@ -100,11 +100,11 @@ No pay and allowances.—A student from a military academy of a foreign country 
 
 &emsp;&emsp;(B)
 
-Subsistence, transportation, etc..—The Secretary of the military department concerned may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged cadet or midshipman in that foreign country.
+Subsistence, transportation, etc.—The Secretary of the military department concerned may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged cadet or midshipman in that foreign country.
 
 &emsp;&emsp;(C)
 
-Source of funds.—A Service Academy shall bear all costs of the exchange program from funds appropriated for that Academy and from such additional funds as may be available to that Academy from a source, other than appropriated funds, to supportcultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.
+Source of funds.—A Service Academy shall bear all costs of the exchange program from funds appropriated for that Academy and from such additional funds as may be available to that Academy from a source, other than appropriated funds, to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.
 
 &emsp;&emsp;(D)
 
@@ -124,7 +124,7 @@ Foreign and Cultural Exchange Activities.—
 
 &emsp;(1)
 
-Attendance authorized.—The Secretary of a military department may authorize the Service Academy under the jurisdiction of that Secretary to permit students, officers, and other representatives of a foreign country to attend that Academy for periods of not more than four weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross-cultural interactions and understanding, and cultural immersion of cadets or midshipmen, as the case may be.
+Attendance authorized.—The Secretary of a military department may authorize theService Academy under the jurisdiction of that Secretary to permit students, officers, and other representatives of a foreign country to attend that Academy for periods of not more than four weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross-cultural interactions and understanding, and cultural immersion of cadets or midshipmen, as the case may be.
 
 &emsp;(2)
 
@@ -156,7 +156,7 @@ Service Academy Defined.—In this section, the term "Service Academy" means the
 
 &emsp;(3) The United States Air Force Academy.
 
-(Added Pub. L. 114–328, div. A, title XII, §1248(a), Dec. 23, 2016, 130 Stat. 2522; amended Pub. L. 115–91, div. A, title X, §1081(a)(18), Dec. 12, 2017, 131 Stat. 1595.)
+(Added Pub. L. 114–328, div. A, title XII, §1248(a), Dec. 23, 2016, 130 Stat. 2522; amended Pub. L. 115–91, div. A, title X, §1081(a)(18), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, §809(a), title XII, §1204(c)(1)(D), Aug. 13, 2018, 132 Stat. 1840, 2017.)
 
 #### Prior Provisions
 
@@ -164,7 +164,21 @@ Provisions similar to those in this section were contained in sections 4344 to 4
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a)(1)(A)(i). Pub. L. 115–232, §809(a), substituted "section 7442" for "section 4342".
+
+Subsec. (a)(1)(A)(ii). Pub. L. 115–232, §809(a), substituted "section 8454" for "section 6954".
+
+Subsec. (a)(1)(A)(iii). Pub. L. 115–232, §809(a), substituted "section 9442" for "section 9342".
+
+Subsec. (a)(7). Pub. L. 115–232, §1204(c)(1)(D)(i), substituted "etc." for "etc.." in heading.
+
+Subsec. (a)(9). Pub. L. 115–232, §809(a), substituted "section 7446(d), 8458(d), or 9446(d)" for "section 4346(d), 6958(d), or 9346(d)".
+
+Subsec. (b)(3)(B). Pub. L. 115–232, §1204(c)(1)(D)(ii), substituted "etc" for "etc." in heading.
+
 <b>2017</b>—Subsec. (a)(1)(A)(i), (iii). Pub. L. 115–91 inserted "section" after "Academy under".
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### Effective Date of 2018 Amendment
+
+Amendment by section 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

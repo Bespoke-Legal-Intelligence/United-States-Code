@@ -14,9 +14,9 @@ Terms of Operation.—Operation of a vessel under this section shall be on terms
 
 (d)
 
-Rights of Seamen.—A seaman engaged in vessel operations of the Secretary under this section and employed through a general agent in connection with a charter or agreement under this section is entitled to all the rights and remedies provided in sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294).<sup>1</sup>
+Rights of Seamen.—A seaman engaged in vessel operations of the Secretary under this section and employed through a general agent in connection with a charter or agreement under this section is entitled to all the rights and remedies provided in sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 U.S.C. 4701(a), (c), 4703(c), and 4704).
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1670.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1670; Pub. L. 115–232, div. C, title XXXV, §3546(u), Aug. 13, 2018, 132 Stat. 2327.)
 
 Historical and Revision Notes
 
@@ -36,9 +36,7 @@ June 29, 1936, ch. 858, title VII, §715, as added July 11, 1956, ch. 574, 70 St
 
 Subsection (d) is substituted for "Those provisions of law prescribed or incorporated under section 1241a of this Appendix, which relate to vessel operating activities of the Secretary of Transportation and to employment of seamen through general agents, shall be applicable in connection with charters and agreements entered into under this section" for clarity.
 
-#### References in Text
+#### Amendments
 
-Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294), referred to in subsec. (d), are sections 1(a) and (c), 3(c), and 4 of act Mar. 24, 1943, ch. 26, 57 Stat. 45, 47, 49, 51, which were formerly classified to sections 1291(a), (c), 1293(c), and 1294 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as sections 4701(a), (c), 4703(c), and 4704, respectively, of Title 50.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<b>2018</b>—Subsec. (d). Pub. L. 115–232 substituted "(50 U.S.C. 4701(a), (c), 4703(c), and 4704)" for "(50 App. U.S.C. 1291(a), (c), 1293(c), 1294)".
 

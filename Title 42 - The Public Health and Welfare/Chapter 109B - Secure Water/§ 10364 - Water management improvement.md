@@ -82,7 +82,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided under chapter 171 of title 28 (commonly known as the "Federal Tort Claims Act"), the United States shall not be liable for monetary damages of any kind for any injury arising out of an act, omission, or occurrence that arises in relation to any facility created or improved under this section, the title of which is not held by the United States.
+&emsp;&emsp;&emsp;Except as provided under chapter 171 of title 28 (commonly known as the "FederalTort Claims Act"), the United States shall not be liable for monetary damages of any kind for any injury arising out of an act, omission, or occurrence that arises in relation to any facility created or improved under this section, the title of which is not held by the United States.
 
 #### (ii) Tort Claims Act
 
@@ -120,9 +120,9 @@ This section shall not supersede any existing project-specific funding authority
 
 #### (e) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $450,000,000,<sup>1</sup> to remain available until expended.
+There is authorized to be appropriated to carry out this section $480,000,000, to remain available until expended.
 
-(Pub. L. 111–11, title IX, §9504, Mar. 30, 2009, 123 Stat. 1334; Pub. L. 113–235, div. D, title II, §203, Dec. 16, 2014, 128 Stat. 2311; Pub. L. 114–113, div. D, title II, §206, Dec. 18, 2015, 129 Stat. 2407; Pub. L. 114–322, title III, §4009(d), Dec. 16, 2016, 130 Stat. 1870.)
+(Pub. L. 111–11, title IX, §9504, Mar. 30, 2009, 123 Stat. 1334; Pub. L. 113–235, div. D, title II, §203, Dec. 16, 2014, 128 Stat. 2311; Pub. L. 114–113, div. D, title II, §206, Dec. 18, 2015, 129 Stat. 2407; Pub. L. 114–322, title III, §4009(d), Dec. 16, 2016, 130 Stat. 1870; Pub. L. 115–244, div. A, title II, §205(b), Sept. 21, 2018, 132 Stat. 2906.)
 
 #### References in Text
 
@@ -130,7 +130,9 @@ The Endangered Species Act of 1973, referred to in subsec. (a)(1)(F), (G), is Pu
 
 #### Amendments
 
-<b>2016</b>—Subsec. (e). Pub. L. 114–322 substituted "$450,000,000" for "$350,000,000".
+<b>2018</b>—Subsec. (e). Pub. L. 115–244 substituted "$480,000,000" for "$450,000,000".
+
+<b>2016</b>—Subsec. (e). Pub. L. 114–322 substituted "$450,000,000" for "$350,000,000". See Funding note set out below.
 
 <b>2015</b>—Subsec. (e). Pub. L. 114–113 substituted "$350,000,000" for "$300,000,000".
 
@@ -139,6 +141,4 @@ The Endangered Species Act of 1973, referred to in subsec. (a)(1)(F), (G), is Pu
 #### Funding
 
 Pub. L. 114–322, title III, §4009(d), Dec. 16, 2016, 130 Stat. 1870, provided that: "Section 9504 of the Omnibus Public Land Management Act of 2009 (42 U.S.C. 10364) is amended in subsection (e) by striking '$350,000,000' and inserting '$450,000,000' on the condition that of that amount, $50,000,000 of it is used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriation Act, 2015 (43 U.S.C. 620 note; Public Law 113–235)."
-
-<i><sup>1</sup></i><i> See Funding note below.</i>
 

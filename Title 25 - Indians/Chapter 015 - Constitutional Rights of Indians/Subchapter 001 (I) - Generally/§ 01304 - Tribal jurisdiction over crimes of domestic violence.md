@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Domestic violence
 
-&emsp;The term "domestic violence" means violence committed by a current or former spouse or intimate partner of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse or intimate partner, or by a person similarly situated to a spouse of the victim under the domestic- or family- violence laws of an Indian tribe that has jurisdiction over the Indian country where the violence occurs.
+&emsp;The term "domestic violence" means violence committed by a current or former spouse or intimate partner of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse or intimate partner, or by a person similarly situated to a spouse of the victim under the domestic- or family- violence laws of an Indiantribe that has jurisdiction over the Indian country where the violence occurs.
 
 #### (3) Indian country
 

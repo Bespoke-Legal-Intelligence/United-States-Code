@@ -6,7 +6,7 @@ Presidential Declaration.—The President may, in the President's discretion, de
 
 (b)
 
-Reservation of Land.—The President may reserve parcels of land as a part of the national monuments. The limits of the parcels shall be confined to the smallest area compatible with the proper care and management of the objects to be protected.
+Reservation of Land.—The President may reserve parcels of land as a part of the nationalmonuments. The limits of the parcels shall be confined to the smallest area compatible with the proper care and management of the objects to be protected.
 
 (c)
 
@@ -101,6 +101,8 @@ Cabrillo National Monument, California.—Proc. No. 1255, Oct. 14, 1913, 38 Stat
 c19; Proc. No. 4319, Sept. 28, 1974, 88 Stat. 2514.
 
 California Coastal National Monument, California.—Proc. No. 7264, Jan. 11, 2000, 65 F.R. 2821; Proc. No. 9089, Mar. 11, 2014, 79 F.R. 14603; Proc. No. 9563, Jan. 12, 2017, 82 F.R. 6131.
+
+Camp Nelson National Monument, Kentucky.—Proc. No. 9811, Oct. 26, 2018, 83 F.R. 54845.
 
 Canyon De Chelly National Monument, Arizona \[see section 445 of Title 16, Conservation\].—Proc. No. 1945, Apr. 1, 1931, 47 Stat. 2448; Proc. No. 2036, Mar. 3, 1933, 47 Stat. 2562.
 
@@ -410,7 +412,7 @@ White Sands National Monument, New Mexico.—Proc. No. 2025, Jan. 18, 1933, 47 S
 
 c53; Pub. L. 104–201, div. B, title XXVIII, §2854, Sept. 23, 1996, 110 Stat. 2803.
 
-World War II Valor In the Pacific National Monument, Alaska, California, and Hawaii.—Proc. No. 8327, Dec. 5, 2008, 73 F.R. 75293.
+World War II Valor In the Pacific National Monument, Alaska, California, and Hawaii.—Proc. No. 8327, Dec. 5, 2008, 73 F.R. 75293; Pub. L. 115–170, May 7, 2018, 132 Stat. 1286.
 
 Wrangell-St. Elias National Monument, Alaska.—Proc. No. 4625, Dec. 1, 1978, 93 Stat. 1470.
 
@@ -542,6 +544,10 @@ National Law Enforcement Officers Memorial, District of Columbia.—Establishmen
 
 National Medal of Honor Sites.—Pub. L. 106–83, Oct. 28, 1999, 113 Stat. 1293.
 
+National Memorial to Fallen Educators, Kansas.—Pub. L. 115–169, Apr. 30, 2018, 132 Stat. 1285.
+
+National Veterans Memorial and Museum, Ohio.—Pub. L. 115–186, June 21, 2018, 132 Stat. 1487.
+
 Patrick Henry National Memorial, Virginia.—Pub. L. 99–296, May 12, 1986, 100 Stat. 429.
 
 Port Chicago National Memorial, California.—Pub. L. 102–562, title II, Oct. 28, 1992, 106 Stat. 4235; Pub. L. 111–84, div. B, title XXVIII, §2853(a), Oct. 28, 2009, 123 Stat. 2685.
@@ -576,7 +582,11 @@ World War II Memorial, Guam.—Pub. L. 106–398, §1 \[div. B, title XXVIII, §
 
 Wright Brothers National Memorial, North Carolina.—Kill Devil Hill National Monument authorized by act Mar. 2, 1927, ch. 251, 44 Stat. 1264. Redesignated Wright Brothers National Memorial, Dec. 1, 1953.
 
+#### Grants for 9/11 Memorials
+
+Pub. L. 115–413, Jan. 3, 2019, 132 Stat. 5427, provided for competitive grants for operation, security, and maintenance of certain memorials to victims of the terrorist attacks of Sept. 11, 2001, to be used by eligible 501(c)(3) organizations in existence on Jan. 3, 2019, including criteria for awards, requirements for free admission to facilities and allowance of Federal audits of finanacial statements, and reporting requirements.
+
 #### Albert Einstein Memorial
 
-Conveyance of property to National Academy of Sciences for erection and maintenance of a Memorial to Albert Einstein on south side of Square Numbered 88 between 21st Street, 22d Street, and Constitution Avenue, District of Columbia, with reverter of title when no longer used for memorial purposes or public access is restricted, was authorized by Pub. L. 95–625, title VI, §612, Nov. 10, 1978, 92 Stat. 3521, as amended Pub. L. 96–87, title IV, §401(o), Oct. 12, 1979, 93 Stat. 666.
+Pub. L. 95–625, title VI, §612, Nov. 10, 1978, 92 Stat. 3521, as amended by Pub. L. 96–87, title IV, §401(o), Oct. 12, 1979, 93 Stat. 666, authorized conveyance of property to National Academy of Sciences for erection and maintenance of a Memorial to Albert Einstein on south side of Square Numbered 88 between 21st Street, 22d Street, and Constitution Avenue, District of Columbia, with reverter of title when no longer used for memorial purposes or public access is restricted.
 

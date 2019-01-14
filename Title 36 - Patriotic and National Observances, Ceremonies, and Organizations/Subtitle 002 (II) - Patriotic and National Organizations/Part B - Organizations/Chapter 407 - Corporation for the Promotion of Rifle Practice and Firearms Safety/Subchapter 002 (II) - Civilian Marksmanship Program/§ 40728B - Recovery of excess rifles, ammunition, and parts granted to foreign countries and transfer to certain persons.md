@@ -4,7 +4,7 @@
 
 Authority to Recover.—(1) Subject to paragraph (2) and subsection (b), the Secretary of the Army may acquire from any person any rifle, ammunition, repair parts, or other supplies described in section 40731(a) of this title which were—
 
-&emsp;(A) provided to any country on a grant basis under the conditions imposed by section 505 ofthe Foreign Assistance Act of 1961 (22 U.S.C. 2314) that became excess to the needs of such country; and
+&emsp;(A) provided to any country on a grant basis under the conditions imposed by section 505 of the Foreign Assistance Act of 1961 (22 U.S.C. 2314) that became excess to the needs of such country; and
 
 &emsp;(B) lawfully acquired by such person.
 

@@ -22,7 +22,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(8) the value of assistance referred to in section 1382a(b)(14) of this title, paid with respect to the dwelling unit occupied by such individual (or such individual and spouse);
 
-&emsp;(9) for the 9-month period beginning after the month in which received, any amount received by such individual (or such spouse) from a fund established by a State to aid victims of crime, to the extent that such individual (or such spouse) demonstrates that such amount was paid as compensation for expensesincurred or losses suffered as a result of a crime;
+&emsp;(9) for the 9-month period beginning after the month in which received, any amount received by such individual (or such spouse) from a fund established by a State to aid victims of crime, to the extent that such individual (or such spouse) demonstrates that such amount was paid as compensation for expenses incurred or losses suffered as a result of a crime;
 
 &emsp;(10) for the 9-month period beginning after the month in which received, relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions <sup>1</sup> Policies Act of 1970 which is subject to the treatment required by section 216 of such Act \[42 U.S.C. 4636\];
 
@@ -144,7 +144,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 (3) If the Commissioner of Social Security finds that any part of the amount excluded under paragraph (1) was used for purposes other than those for which it was set aside in cases where the inclusion of any portion of the amount would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title, the Commissioner shall reduce any future benefits payable to the eligible individual (or to such individual and his spouse) by an amount equal to such part.
 
-(4) The Commissioner of Social Security may provide by regulations that whenever an amount set aside to meet burial and related expenses is excluded under paragraph (1) in determining the resources of an individual, any interest earned or accrued on such amount (and left to accumulate), and any appreciation in the value of prepaid burial arrangements for which such amount was set aside, shall also be excluded (to such extent and subject to such conditions or limitations as such regulations may prescribe) in determining the resources (and the income) of such individual.
+(4) The Commissioner of Social Security may provide by regulations that whenever an amountset aside to meet burial and related expenses is excluded under paragraph (1) in determining the resources of an individual, any interest earned or accrued on such amount (and left to accumulate), and any appreciation in the value of prepaid burial arrangements for which such amount was set aside, shall also be excluded (to such extent and subject to such conditions or limitations as such regulations may prescribe) in determining the resources (and the income) of such individual.
 
 #### (e) Trusts
 
@@ -184,7 +184,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;&emsp;(ii) any resource otherwise excluded by this section; and
 
-&emsp;&emsp;(iii) any other payment or property to which the individual (or of the individual'sspouse) is entitled but does not receive or have access to because of action by—
+&emsp;&emsp;(iii) any other payment or property to which the individual (or of the individual's spouse) is entitled but does not receive or have access to because of action by—
 
 &emsp;&emsp;&emsp;(I) the individual or spouse;
 
@@ -340,7 +340,7 @@ Amendment by section 11115(b)(2) of Pub. L. 101–508 applicable to determinatio
 
 Amendment by section 8013(b) of Pub. L. 101–239 effective on 1st day of 4th month beginning after Dec. 19, 1989, see section 8013(c) of Pub. L. 101–239, set out as a note under section 1382a of this title.
 
-Pub. L. 101–239, title VIII, §8014(b), Dec. 19, 1989, 103 Stat. 2465, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 5th calendar month beginningafter the date of the enactment of this Act \[Dec. 19, 1989\]."
+Pub. L. 101–239, title VIII, §8014(b), Dec. 19, 1989, 103 Stat. 2465, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 5th calendar month beginning after the date of the enactment of this Act \[Dec. 19, 1989\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -374,7 +374,7 @@ Pub. L. 96–611, §5(c), Dec. 28, 1980, 94 Stat. 3568, provided that: "The amen
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–171, §9(b), Nov. 12, 1977, 91 Stat. 1356, provided that: "The amendment made by this section \[amending this section\] shall be effective July 1, 1976, with respect to catastrophes which occurred on or after June 1, 1976, and before December 31, 1976. With respect to catastrophes which occurred on or after December 1, 1976, the amendment made by this section shall be effective the first day of the calendar quarter following enactment of this Act \[Nov. 12, 1977\]."
+Pub. L. 95–171, §9(b), Nov. 12, 1977, 91 Stat. 1356, provided that: "The amendment made by this section\[amending this section\] shall be effective July 1, 1976, with respect to catastrophes which occurred on or after June 1, 1976, and before December 31, 1976. With respect to catastrophes which occurred on or after December 1, 1976, the amendment made by this section shall be effective the first day of the calendar quarter following enactment of this Act \[Nov. 12, 1977\]."
 
 #### Effective Date
 

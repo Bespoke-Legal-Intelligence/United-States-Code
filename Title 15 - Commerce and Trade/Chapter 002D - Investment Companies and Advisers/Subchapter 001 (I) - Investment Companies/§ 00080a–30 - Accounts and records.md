@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;All records required to be maintained and preserved in accordance with subsection (a) shall be subject at any time and from time totime to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe.
+&emsp;All records required to be maintained and preserved in accordance with subsection (a) shall be subject at any time and from time to time to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe.
 
 #### (2) Availability
 

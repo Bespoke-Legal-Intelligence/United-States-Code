@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-(1) There are hereby authorized to be appropriated for the fiscal year ending June 30, 1957, $5,000,000 and for each fiscal year thereafter such sums as the Congress may determine for (A) making grants to States and public and other organizations and agencies for paying part of the cost of research or demonstration projects such as those relating to the prevention and reduction of dependency, or which will aid in effecting coordination of planning between private and public welfare agencies or which will help improve the administration and effectiveness of programs carried on or assisted under this chapter and programs related thereto, and (B) making contracts or jointly financed cooperative arrangements with States and public and other organizations and agencies for the conduct of research or demonstration projects relating to such matters.
+(1) There are hereby authorized to be appropriated for the fiscal year ending June 30, 1957,$5,000,000 and for each fiscal year thereafter such sums as the Congress may determine for (A) making grants to States and public and other organizations and agencies for paying part of the cost of research or demonstration projects such as those relating to the prevention and reduction of dependency, or which will aid in effecting coordination of planning between private and public welfare agencies or which will help improve the administration and effectiveness of programs carried on or assisted under this chapter and programs related thereto, and (B) making contracts or jointly financed cooperative arrangements with States and public and other organizations and agencies for the conduct of research or demonstration projects relating to such matters.
 
 (2) No contract or jointly financed cooperative arrangement shall be entered into, and no grant shall be made, under paragraph (1), until the Secretary (or the Commissioner, with respect to any jointly financed cooperative agreement or grant concerning subchapters II or XVI) obtains the advice and recommendations of specialists who are competent to evaluate the proposed projects as to soundness of their design, the possibilities of securing productive results, the adequacy of resources to conduct the proposed research or demonstrations, and their relationship to other similar research or demonstrations already completed or in process.
 
-(3) Grants and payments under contracts or cooperative arrangements under paragraph (1) may be made either in advance or by way of reimbursement, as may be determined by the Secretary (or the Commissioner, with respect to any jointly financed cooperative agreement orgrant concerning subchapter II or XVI); and shall be made in such installments and on such conditions as the Secretary (or the Commissioner, as applicable) finds necessary to carry out the purposes of this subsection.
+(3) Grants and payments under contracts or cooperative arrangements under paragraph (1) may be made either in advance or by way of reimbursement, as may be determined by the Secretary (or the Commissioner, with respect to any jointly financed cooperative agreement or grant concerning subchapter II or XVI); and shall be made in such installments and on such conditions as the Secretary (or the Commissioner, as applicable) finds necessary to carry out the purposes of this subsection.
 
 #### (b) Limitations and costs
 
@@ -24,7 +24,7 @@
 
 #### (c) Survey of use of payments
 
-(1) In addition to the amount otherwise appropriated in any other law to carry out subsection (a) for fiscal year 2004, up to $8,500,000 is authorized and appropriated and shall be used by the Commissioner of Social Security under this subsection for purposes of conducting a statistically valid survey to determine how payments made to individuals, organizations, and State or local government agencies that are representative payees for benefits paid under subchapter II or XVI are being managed and used on behalf of the beneficiaries for whom such benefits are paid.
+(1) In addition to the amount otherwise appropriated in any other law to carry out subsection (a) for fiscal year 2004, up to $8,500,000 is authorized and appropriated and shall be used by theCommissioner of Social Security under this subsection for purposes of conducting a statistically valid survey to determine how payments made to individuals, organizations, and State or local government agencies that are representative payees for benefits paid under subchapter II or XVI are being managed and used on behalf of the beneficiaries for whom such benefits are paid.
 
 (2) Not later than 18 months after March 2, 2004, the Commissioner of Social Security shall submit a report on the survey conducted in accordance with paragraph (1) to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
@@ -36,7 +36,7 @@
 
 <b>1999</b>—Subsec. (a)(3). Pub. L. 106–170 substituted "subchapter II or XVI" for "subchapter XVI".
 
-<b>1997</b>—Subsec. (a)(3). Pub. L. 105–33 inserted "(or the Commissioner, with respect to any jointly financed cooperative agreement or grant concerning subchapter XVI)" after "Secretary" the first place appearing and"(or the Commissioner, as applicable)" after "Secretary" the second place appearing.
+<b>1997</b>—Subsec. (a)(3). Pub. L. 105–33 inserted "(or the Commissioner, with respect to any jointly financed cooperative agreement or grant concerning subchapter XVI)" after "Secretary" the first place appearing and "(or the Commissioner, as applicable)" after "Secretary" the second place appearing.
 
 <b>1994</b>—Subsec. (a)(2). Pub. L. 103–296, §108(b)(7)(B), inserted "(or the Commissioner, with respect to any jointly financed cooperative agreement or grant concerning subchapters II or XVI)" after "Secretary".
 
@@ -80,7 +80,7 @@ Pub. L. 101–508, title V, §5120(a)–(e), Nov. 5, 1990, 104 Stat. 1388–280,
 
 #### Final Report Covering All Experiments and Demonstration Projects
 
-Pub. L. 96–265, title V, §505(c), June 9, 1980, 94 Stat. 475, as amended by Pub. L. 99–272, title XII, §12101(c), Apr. 7, 1986, 100 Stat. 283; Pub. L. 101–239, title X, §10103(a)(3), Dec. 19, 1989, 103 Stat. 2472; Pub. L. 101–508, title V, §5120(f), Nov. 5, 1990, 104 Stat. 1388–282; Pub. L. 103–296, title I, §108(m)(3), title III, §315(a)(3), Aug. 15, 1994, 108 Stat. 1489, 1531, which directed Commissioner to submit to Congress final report with respect to all experiments and demonstration projects carried out under section 505 of Pub. L. 96–265, which amended this section and section 401 of this title and enacted provisions formerly set out below (other than demonstration projects conducted under section 5120 of the Omnibus Budget Reconciliation of 1990, Pub. L. 101–508, set out above) no later than Oct. 1, 1996, was repealed by Pub. L. 106–170, title III, §301(b)(1)(A), Dec. 17, 1999, 113 Stat. 1902.
+Pub. L. 96–265, title V, §505(c), June 9, 1980, 94 Stat. 475, as amended by Pub. L. 99–272, title XII, §12101(c), Apr. 7, 1986, 100 Stat. 283; Pub. L. 101–239, title X, §10103(a)(3), Dec. 19, 1989, 103 Stat. 2472; Pub. L. 101–508, title V, §5120(f), Nov. 5, 1990, 104 Stat. 1388–282; Pub. L. 103–296, title I, §108(m)(3), title III, §315(a)(3), Aug. 15, 1994, 108 Stat. 1489, 1531, which directed Commissionerto submit to Congress final report with respect to all experiments and demonstration projects carried out under section 505 of Pub. L. 96–265, which amended this section and section 401 of this title and enacted provisions formerly set out below (other than demonstration projects conducted under section 5120 of the Omnibus Budget Reconciliation of 1990, Pub. L. 101–508, set out above) no later than Oct. 1, 1996, was repealed by Pub. L. 106–170, title III, §301(b)(1)(A), Dec. 17, 1999, 113 Stat. 1902.
 
 #### Authority for Demonstration Projects; Report to Congress
 

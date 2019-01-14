@@ -32,7 +32,7 @@ In this section, the term "facility" means—
 
 &emsp;In this subsection, the term "compliance and ethics program" means, with respect to a facility, a program of the operating organization that—
 
-&emsp;&emsp;(A) has been reasonably designed, implemented, and enforced so that it generally will be effective in preventing and detectingcriminal, civil, and administrative violations under this chapter and in promoting quality of care; and
+&emsp;&emsp;(A) has been reasonably designed, implemented, and enforced so that it generally will be effective in preventing and detecting criminal, civil, and administrative violations under this chapter and in promoting quality of care; and
 
 &emsp;&emsp;(B) includes at least the required components specified in paragraph (4).
 
@@ -122,7 +122,7 @@ Beginning not later than 2 years after March 23, 2010, and after consulting with
 
 &emsp;&emsp;&emsp;(ii) in the case of a facility where the Secretary terminates the facility's participation under this subchapter, not later than the date that the Secretary determines appropriate;
 
-&emsp;&emsp;(B) ensure that the facility does not admit any new residents on or after the date on which such written notification is submitted; and
+&emsp;&emsp;(B) ensure that the facility does not admit any new residents on or after the date onwhich such written notification is submitted; and
 
 &emsp;&emsp;(C) include in the notice a plan for the transfer and adequate relocation of the residents of the facility by a specified date prior to closure that has been approved by the State, including assurances that the residents will be transferred to the most appropriate facility or other setting in terms of quality, services, and location, taking into consideration the needs, choice, and best interests of each resident.
 
@@ -176,7 +176,7 @@ Establishment.—
 
 &emsp;"(1)
 
-In general.—The Secretary \[of Health and Human Services\], in consultation with the InspectorGeneral of the Department of Health and Human Services, shall conduct a demonstration project to develop, test, and implement an independent monitor program to oversee interstate and large intrastate chains of skilled nursing facilities and nursing facilities.
+In general.—The Secretary \[of Health and Human Services\], in consultation with the Inspector General of the Department of Health and Human Services, shall conduct a demonstration project to develop, test, and implement an independent monitor program to oversee interstate and large intrastate chains of skilled nursing facilities and nursing facilities.
 
 &emsp;"(2)
 

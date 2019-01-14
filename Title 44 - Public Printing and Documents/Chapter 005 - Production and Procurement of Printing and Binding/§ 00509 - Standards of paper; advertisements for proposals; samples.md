@@ -22,7 +22,7 @@ Pub. L. 101–423, Oct. 12, 1990, 104 Stat. 912, as amended by Pub. L. 113–235
 
 "Whereas nationwide hundreds of millions of dollars will have to be spent by the Federal, State, and local governments and private institutions to salvage the most essential books and other materials in the libraries and archives of government, academic, and private institutions;
 
-"Whereas paper manufacturers can produce a sufficient supply of acid free permanent papers with a life of several hundred years, at prices competitive with acid papers, if publishers would specify the use of such papers, and some publishers and many university presses are already publishing on acid free permanent papers;
+"Whereas paper manufacturers can produce a sufficient supply of acid free permanent papers with a life ofseveral hundred years, at prices competitive with acid papers, if publishers would specify the use of such papers, and some publishers and many university presses are already publishing on acid free permanent papers;
 
 "Whereas most Government agencies do not require the use of acid free permanent papers for appropriate Federal records and publications;
 
@@ -42,7 +42,7 @@ Section 1. It is the policy of the United States that Federal records, books, an
 
 Sec. 2. The Congress of the United States urgently recommends that—
 
-&emsp;"(1) Federal agencies require the use of acid free permanent papers for publications of enduring value produced by the Government Publishing Office or produced by Federal grant or contract, using thespecifications for such paper established by the Joint Committee on Printing;
+&emsp;"(1) Federal agencies require the use of acid free permanent papers for publications of enduring value produced by the Government Publishing Office or produced by Federal grant or contract, using the specifications for such paper established by the Joint Committee on Printing;
 
 &emsp;"(2) Federal agencies require the use of archival quality acid free papers for permanently valuable Federal records and confer with the National Archives and Records Administration on the requirements for paper quality;
 

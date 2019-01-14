@@ -11,3 +11,4 @@
 - [&sect; 06943 - Rural Housing and Community Development Service](%C2%A7%2006943%20-%20Rural%20Housing%20and%20Community%20Development%20Service.md)
 - [&sect; 06944 - Rural Business and Cooperative Development Service](%C2%A7%2006944%20-%20Rural%20Business%20and%20Cooperative%20Development%20Service.md)
 - [&sect; 06945 - Rural Development Disaster Assistance Fund](%C2%A7%2006945%20-%20Rural%20Development%20Disaster%20Assistance%20Fund.md)
+- [&sect; 06946 - Rural Health Liaison](%C2%A7%2006946%20-%20Rural%20Health%20Liaison.md)

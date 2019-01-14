@@ -56,7 +56,7 @@ The Secretary shall determine the amount of the loan deficiency payment to be ma
 
 #### (1) First-time loan commodities
 
-&emsp;For the 2002 crop of wool, mohair, honey, dry peas, lentils and small chickpeas, in the case of producers of such a crop that would be eligible for a loan deficiency payment under this section except for the fact that the producers lost beneficial interest in the crop prior to the date of publication of the regulations implementing this section, the producers shall be eligible for a loan deficiency payment as of the date producers marketed or otherwise lost beneficial interest in the crop, as determined by the Secretary.
+&emsp;For the 2002 crop of wool, mohair, honey, dry peas, lentils and small chickpeas, in the case of producers of such a crop that would be eligible for a loan deficiency payment under this section except for the fact that the producers lost beneficial interest in the crop prior to the date of publication of the regulations implementing this section, the producers shall be eligible for a loan deficiency payment as of the date producers marketed or otherwise lostbeneficial interest in the crop, as determined by the Secretary.
 
 #### (2) Omitted
 

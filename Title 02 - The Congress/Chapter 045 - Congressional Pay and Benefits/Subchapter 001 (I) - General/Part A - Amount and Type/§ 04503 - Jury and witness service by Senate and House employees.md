@@ -6,7 +6,7 @@ For purposes of this section—
 
 &emsp;(1) "employee" means any individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; and
 
-&emsp;(2) "court of the United States" has the meaning given it by section 451 of title 28 and includes the United States District Court forthe District of the Canal Zone, the District Court of Guam, and the District Court of the Virgin Islands.
+&emsp;(2) "court of the United States" has the meaning given it by section 451 of title 28 and includes the United States District Court for the District of the Canal Zone, the District Court of Guam, and the District Court of the Virgin Islands.
 
 #### (b) Service as juror or witness in connection with a judicial proceeding; prohibition against reduction of pay
 
@@ -66,7 +66,7 @@ Section was formerly classified to section 130b of this title prior to editorial
 
 Subsec. (f). Pub. L. 104–186, §204(75), substituted "House Oversight" for "House Administration".
 
-<b>1976</b>—Subsec. (b)(2). Pub. L. 94–310 substituted "other than as provided in subsection (c) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party" for "as a witness on behalf of a party other than the United States, the District of Columbia, or a private party".
+<b>1976</b>—Subsec. (b)(2). Pub. L. 94–310 substituted "other than as provided in subsection (c) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party" for "as a witness on behalf of a party other thanthe United States, the District of Columbia, or a private party".
 
 #### Change of Name
 

@@ -6,7 +6,7 @@ An annuitant who has retired under this subchapter and who is reemployed in the 
 
 #### (b) Recovery of overpayments
 
-In the event of an overpayment under this section, the amount of the overpayment shall be recovered by withholding the amount involved from the basic pay payable to such reemployed annuitant or from any other moneys, including the annuitant's annuity, payable in accordance with this subchapter.
+In the event of an overpayment under this section, the amount of the overpayment shall be recovered by withholding the amount involved from the basic pay payable to such reemployedannuitant or from any other moneys, including the annuitant's annuity, payable in accordance with this subchapter.
 
 #### (c) Deposit in fund
 
@@ -17,6 +17,10 @@ Sums deducted from the basic pay of a reemployed annuitant under this section sh
 #### Prior Provisions
 
 A prior section 273 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1053; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to reemployment compensation and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Effective Date
+
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.
 
 #### Waiver of Dual Compensation Provisions
 

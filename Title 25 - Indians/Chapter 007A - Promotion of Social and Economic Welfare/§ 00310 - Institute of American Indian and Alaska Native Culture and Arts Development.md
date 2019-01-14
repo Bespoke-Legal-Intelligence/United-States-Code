@@ -4,7 +4,7 @@
 
 &emsp;(A) enter into a thirty-year agreement with the College of Santa Fe, Santa Fe, New Mexico, to provide educational facilities for the use of, and to develop cooperative educational/arts programs to be carried out with the postsecondary fine arts and museum services programs of, the Institute of American Indian and Alaska Native Culture and Arts Development administered by the Bureau of Indian Affairs; and
 
-&emsp;(B) conduct such activities as are necessary to improve the facilities used by the Instituteof American Indian and Alaska Native Culture and Arts Development at the College of Santa Fe.
+&emsp;(B) conduct such activities as are necessary to improve the facilities used by the Institute of American Indian and Alaska Native Culture and Arts Development at the College of Santa Fe.
 
 (2) The provisions of this subsection shall take effect on October 1, 1984.
 

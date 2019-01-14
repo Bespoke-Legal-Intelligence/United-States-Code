@@ -94,7 +94,7 @@ In this subchapter, except as specified otherwise:
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original "this subtitle", meaning subtitle D (§13400 et seq.) of title XIII of div. A of Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 258, which is classified principally to this subchapter. For complete classification of subtitle D to the Code, see Tables.
+This subchapter, referred to in text, was in the original "this subtitle", meaning subtitle D (§13400 et seq.)of title XIII of div. A of Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 258, which is classified principally to this subchapter. For complete classification of subtitle D to the Code, see Tables.
 
 Section 13101, referred to in par. (9), means section 13101 of div. A of Pub. L. 111–5.
 

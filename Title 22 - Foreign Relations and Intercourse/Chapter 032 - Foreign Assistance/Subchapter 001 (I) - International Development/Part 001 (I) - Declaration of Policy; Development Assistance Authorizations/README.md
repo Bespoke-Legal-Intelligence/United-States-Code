@@ -7,6 +7,7 @@ Part I—Declaration of Policy; Development Assistance Authorizations
 
 - [&sect; 02151 - Congressional findings and declaration of policy](%C2%A7%2002151%20-%20Congressional%20findings%20and%20declaration%20of%20policy.md)
 - [&sect; 02151&#8211;1 - Development assistance policy](%C2%A7%2002151%E2%80%931%20-%20Development%20assistance%20policy.md)
+- [&sect; 02151&#8211;2 - Actions to improve the international gender policy of the United States Agency for International Development](%C2%A7%2002151%E2%80%932%20-%20Actions%20to%20improve%20the%20international%20gender%20policy%20of%20the%20United%20States%20Agency%20for%20International%20Development.md)
 - [&sect; 02151a - Agricultural development in rural areas](%C2%A7%2002151a%20-%20Agricultural%20development%20in%20rural%20areas.md)
 - [&sect; 02151a&#8211;1 - Agricultural research](%C2%A7%2002151a%E2%80%931%20-%20Agricultural%20research.md)
 - [&sect; 02151b - Population planning and health programs](%C2%A7%2002151b%20-%20Population%20planning%20and%20health%20programs.md)
@@ -15,6 +16,7 @@ Part I—Declaration of Policy; Development Assistance Authorizations
 - [&sect; 02151b&#8211;3 - Assistance to combat tuberculosis](%C2%A7%2002151b%E2%80%933%20-%20Assistance%20to%20combat%20tuberculosis.md)
 - [&sect; 02151b&#8211;4 - Assistance to combat malaria](%C2%A7%2002151b%E2%80%934%20-%20Assistance%20to%20combat%20malaria.md)
 - [&sect; 02151c - Education and human resources development](%C2%A7%2002151c%20-%20Education%20and%20human%20resources%20development.md)
+- [&sect; 02151c&#8211;1 - United States assistance to support educational services for displaced children](%C2%A7%2002151c%E2%80%931%20-%20United%20States%20assistance%20to%20support%20educational%20services%20for%20displaced%20children.md)
 - [&sect; 02151d - Development of indigenous energy resources](%C2%A7%2002151d%20-%20Development%20of%20indigenous%20energy%20resources.md)
 - [&sect; 02151e - Appropriate technology](%C2%A7%2002151e%20-%20Appropriate%20technology.md)
 - [&sect; 02151f - Transferred](%C2%A7%2002151f%20-%20Transferred.md)

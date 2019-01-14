@@ -30,7 +30,7 @@
 
 #### (3) Opportunity to respond
 
-&emsp;A non-petitioning party to a negotiation under this section may respond to the other party's petition and provide such additional information as it wishes within 25 days after the State commission receives the petition.
+&emsp;A non-petitioning party to a negotiation under this section may respond to the otherparty's petition and provide such additional information as it wishes within 25 days after the State commission receives the petition.
 
 #### (4) Action by State commission
 
@@ -122,7 +122,7 @@ In resolving by arbitration under subsection (b) any open issues and imposing co
 
 #### (6) Review of State commission actions
 
-&emsp;In a case in which a State fails to act as described in paragraph (5), the proceeding by the Commission under such paragraph and any judicial review of the Commission's actions shall be the exclusive remedies for a State commission's failure to act. In any case in which a State commission makes a determination under this section, any party aggrieved bysuch determination may bring an action in an appropriate Federal district court to determine whether the agreement or statement meets the requirements of section 251 of this title and this section.
+&emsp;In a case in which a State fails to act as described in paragraph (5), the proceeding by the Commission under such paragraph and any judicial review of the Commission's actions shall be the exclusive remedies for a State commission's failure to act. In any case in which a State commission makes a determination under this section, any party aggrieved by such determination may bring an action in an appropriate Federal district court to determine whether the agreement or statement meets the requirements of section 251 of this title and this section.
 
 #### (f) Statements of generally available terms
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Center
 
-There shall be in the Institute an agency to be known as the National Center for Medical Rehabilitation Research (hereafter in this section referred to as the "Center"). The Director of the Institute shall appoint a qualified individual to serve as Director of the Center. The Director of the Center shall report directly to the Director of the Institute.
+There shall be in the Institute an agency to be known as the National Center for Medical Rehabilitation Research (hereafter in this section referred to as the "Center"). The Director of theInstitute shall appoint a qualified individual to serve as Director of the Center. The Director of the Center shall report directly to the Director of the Institute.
 
 #### (b) Purpose
 
@@ -126,7 +126,7 @@ Subsec. (b). Pub. L. 114–255, §2040(a)(1), substituted "conduct, support, and
 
 Subsec. (c)(1)(C). Pub. L. 114–255, §2040(a)(2), substituted "within the Center" for "of the Center".
 
-Subsec. (d)(1). Pub. L. 114–255, §2040(a)(3)(A), added par. (1) and struck out former par. (1), which read asfollows: "In consultation with the Director of the Center, the coordinating committee established under subsection (e), and the advisory board established under subsection (f), the Director of the Institute shall develop a comprehensive plan for the conduct and support of medical rehabilitation research (hereafter in this section referred to as the 'Research Plan')."
+Subsec. (d)(1). Pub. L. 114–255, §2040(a)(3)(A), added par. (1) and struck out former par. (1), which read as follows: "In consultation with the Director of the Center, the coordinating committee established under subsection (e), and the advisory board established under subsection (f), the Director of the Institute shall develop a comprehensive plan for the conduct and support of medical rehabilitation research (hereafter in this section referred to as the 'Research Plan')."
 
 Subsec. (d)(2)(C). Pub. L. 114–255, §2040(a)(3)(B), added subpar. (C).
 
@@ -134,7 +134,7 @@ Subsec. (d)(4). Pub. L. 114–255, §2040(a)(3)(C), added par. (4) and struck ou
 
 Subsec. (d)(5). Pub. L. 114–255, §2040(a)(3)(D), added par. (5).
 
-Subsec. (e)(2). Pub. L. 114–255, §2040(a)(4)(A), inserted "periodically host a scientific conference or workshop on medical rehabilitation research and" after "The Coordinating Committee shall".
+Subsec. (e)(2). Pub. L. 114–255, §2040(a)(4)(A), inserted "periodically host a scientific conference or workshopon medical rehabilitation research and" after "The Coordinating Committee shall".
 
 Subsec. (e)(3). Pub. L. 114–255, §2040(a)(4)(B), inserted "the Director of the Division of Program Coordination, Planning, and Strategic Initiatives within the Office of the Director of the National Institutes of Health," after "shall be composed of".
 

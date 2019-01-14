@@ -1,6 +1,6 @@
 ### §4822. Director of Diplomatic Security Service
 
-Any such Diplomatic Security Service should be headed by a Director designated by the Secretary of State. The Director should be a career member of the Senior Foreign Service or the Senior Executive Service and should be qualified for the position by virtue of demonstrated ability in the areas of security, law enforcement, management, and public administration. Experience in management or operations abroad should be considered an affirmative factor in the selection of the Director.
+Any such Diplomatic Security Service should be headed by a Director designated by the Secretary of State. The Director should be a career member of the Senior Foreign Service or the Senior Executive Service and should be qualified for the position by virtue of demonstrated ability in the areas of security, law enforcement,management, and public administration. Experience in management or operations abroad should be considered an affirmative factor in the selection of the Director.
 
 (Pub. L. 99–399, title II, §202, Aug. 27, 1986, 100 Stat. 858; Pub. L. 103–236, title I, §162(g)(8), Apr. 30, 1994, 108 Stat. 407.)
 

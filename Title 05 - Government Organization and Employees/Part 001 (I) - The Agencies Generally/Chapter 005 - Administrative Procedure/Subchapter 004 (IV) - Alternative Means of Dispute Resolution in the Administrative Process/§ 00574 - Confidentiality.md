@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) prevent harm to the public health or safety,
 
-> &emsp;of sufficient magnitude in the particular case to outweigh the integrity of dispute resolutionproceedings in general by reducing the confidence of parties in future cases that their communications will remain confidential.
+> &emsp;of sufficient magnitude in the particular case to outweigh the integrity of dispute resolution proceedings in general by reducing the confidence of parties in future cases that their communications will remain confidential.
 
 (b) A party to a dispute resolution proceeding shall not voluntarily disclose or through discovery or compulsory process be required to disclose any dispute resolution communication, unless—
 

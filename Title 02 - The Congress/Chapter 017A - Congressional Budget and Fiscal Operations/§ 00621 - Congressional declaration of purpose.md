@@ -80,7 +80,7 @@ Confidentiality of Relevant Information.—
 
 &emsp;"(3) Any officer or employee of the Department of the Treasury shall be subject to the penalties set forth in section 1906 of title 18, United States Code, if—
 
-&emsp;&emsp;"(A) by virtue of his or her employment or official position, he or she has possession of or access to any book, record, or information made available under and determined to be confidential under this section; and
+&emsp;&emsp;"(A) by virtue of his or her employment or official position, he or she has possession of or accessto any book, record, or information made available under and determined to be confidential under this section; and
 
 &emsp;&emsp;"(B) he or she discloses the material in any manner other than—
 

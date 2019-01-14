@@ -16,7 +16,7 @@
 
 (c)(1) Under regulations prescribed under section 5738, an agency may pay to or on behalf of an employee who transfers in the interest of the Government—
 
-&emsp;(A) actual subsistence expenses of the employee and the employee's immediate familyfor a period of up to 60 days while the employee or family is occupying temporary quarters when the new official station is located within the United States; or
+&emsp;(A) actual subsistence expenses of the employee and the employee's immediate family for a period of up to 60 days while the employee or family is occupying temporary quarters when the new official station is located within the United States; or
 
 &emsp;(B) an amount for subsistence expenses, that may not exceed a maximum amount determined by the Administrator of General Services, instead of the actual subsistence expenses authorized in subparagraph (A) of this paragraph.
 
@@ -66,7 +66,7 @@
 
 (h) Payments for subsistence expenses, including amounts in lieu of per diem or actual subsistence expenses or a combination thereof, authorized under this section may not exceed the maximum payment allowed under regulations which implement section 5702 of this title.
 
-(Added Pub. L. 90–83, §1(37)(A), Sept. 11, 1967, 81 Stat. 204; amended Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470; Pub. L. 98–151,§118(a)(5), (6), Nov. 14, 1983, 97 Stat. 977, 978; Pub. L. 99–234, title I, §105, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 100–202, §101(m) \[title VI, §628(a)(1)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 101–510, div. A, title XII, §1206(c), Nov. 5, 1990, 104 Stat. 1661; Pub. L. 104–201, div. A, title XVII, §§1711–1713(a), 1714, 1718, Sept. 23, 1996, 110 Stat. 2753–2755, 2757; Pub. L. 105–85, div. C, title XXXV, §3550(c)(2), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–264, §§6(5), 7, Oct. 19, 1998, 112 Stat. 2356, 2357.)
+(Added Pub. L. 90–83, §1(37)(A), Sept. 11, 1967, 81 Stat. 204; amended Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470; Pub. L. 98–151, §118(a)(5), (6), Nov. 14, 1983, 97 Stat. 977, 978; Pub. L. 99–234, title I, §105, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 100–202, §101(m) \[title VI, §628(a)(1)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 101–510, div. A, title XII, §1206(c), Nov. 5, 1990, 104 Stat. 1661; Pub. L. 104–201, div. A, title XVII, §§1711–1713(a), 1714, 1718, Sept. 23, 1996, 110 Stat. 2753–2755, 2757; Pub. L. 105–85, div. C, title XXXV, §3550(c)(2), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–264, §§6(5), 7, Oct. 19, 1998, 112 Stat. 2356, 2357.)
 
 Historical and Revision Notes
 
@@ -98,7 +98,7 @@ In subsection (a), the word "agency" is substituted for "department" to conform 
 
 In subsection (b), the words "this subchapter" and "subsection (a) of this section or section 5724(a) of this title" are substituted for "this Act" and "section 1(a) or section 23 of this Act", respectively, to reflect the codification of the act in 5 U.S.C. The word "officer" is omitted as included in "employee". The words "in the General Schedule of the Classification Act of 1949, as amended" are omitted as unnecessary.
 
-In subsection (c), the word "officer" is omitted as included in "employee". The words "sections 5724, 5725, 5726(b), and 5727 of this title" and "subsections (a) and (b) of this section" are substituted for "section 1 of this Act" and "sections 23 and 24 of this Act", respectively, to reflect the codification of the act in title 5, United States Code.
+In subsection (c), the word "officer" is omitted as included in "employee". The words "sections 5724, 5725,5726(b), and 5727 of this title" and "subsections (a) and (b) of this section" are substituted for "section 1 of this Act" and "sections 23 and 24 of this Act", respectively, to reflect the codification of the act in title 5, United States Code.
 
 #### References in Text
 
@@ -150,7 +150,7 @@ Subsecs. (f) to (j). Pub. L. 104–201, §1718, added subsecs. (f) to (j).
 
 <b>1987</b>—Subsec. (a)(4)(A). Pub. L. 100–202 inserted provisions authorizing reimbursement of expenses of selling residence of employee at official station from which employee was transferred when assigned to duty outside United States, its territories or possessions, Puerto Rico, or parts of Panama, provisions authorizing reimbursement of expenses of purchasing residence at new official station in United States, its territories or possessions, Puerto Rico, or parts of Panama, and provisions disallowing reimbursement of expenses in connection with transfers from a post of duty located outside the United States, its territories or possessions, Puerto Rico, or parts of Panama, for any transaction that occurs prior to official notification that employee's return to the United States would be to official station other than official station from which employee was transferred.
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–234, §105(1), (2), substituted "allowance or" for "allowance instead of" and"maximum payment permitted under regulations which implement section 5702 of this title" for "maximum per diem rates prescribed by or under section 5702 of this title".
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–234, §105(1), (2), substituted "allowance or" for "allowance instead of" and "maximum payment permitted under regulations which implement section 5702 of this title" for "maximum per diem rates prescribed by or under section 5702 of this title".
 
 Subsec. (a)(2). Pub. L. 99–234, §105(1), (2), substituted "allowance or" for "allowance instead of" and "maximum payment permitted under regulations which implement section 5702 of this title" for "maximum per diem rates prescribed by or under section 5702 of this title".
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–202, §101(m) \[title VI, §628(a)(2)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–431, provided that: "The amendments made by paragraph (2) \[probably means par. (1) which amended this section\] shall be applicable with respect to any employee transferred to or from a post of duty on or after 60 days after the date of enactment of this section \[Dec. 22, 1987\]."
+Pub. L. 100–202, §101(m) \[title VI, §628(a)(2)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–431, provided that: "Theamendments made by paragraph (2) \[probably means par. (1) which amended this section\] shall be applicable with respect to any employee transferred to or from a post of duty on or after 60 days after the date of enactment of this section \[Dec. 22, 1987\]."
 
 #### Effective Date of 1986 Amendment
 

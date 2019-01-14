@@ -7,6 +7,7 @@
 | [2533\.](%C2%A7%2002533%20-%20Determinations%20of%20public%20interest%20under%20chapter%2083%20of%20title%2041.md) | Determinations of public interest under chapter 83 of title 41. |
 | [2533a.](%C2%A7%2002533a%20-%20Requirement%20to%20buy%20certain%20articles%20from%20American%20sources%3B%20exceptions.md) | Requirement to buy certain articles from American sources; exceptions. |
 | [2533b.](%C2%A7%2002533b%20-%20Requirement%20to%20buy%20strategic%20materials%20critical%20to%20national%20security%20from%20American%20sources%3B%20exceptions.md) | Requirement to buy strategic materials critical to national security from American sources; exceptions. |
+| [2533c.](%C2%A7%2002533c%20-%20Prohibition%20on%20acquisition%20of%20sensitive%20materials%20from%20non-allied%20foreign%20nations.md) | Prohibition on acquisition of sensitive materials from non-allied foreign nations. |
 | [2534\.](%C2%A7%2002534%20-%20Miscellaneous%20limitations%20on%20the%20procurement%20of%20goods%20other%20than%20United%20States%20goods.md) | Miscellaneous limitations on the procurement of goods other than United States goods. |
 | [2535\.](%C2%A7%2002535%20-%20Defense%20Industrial%20Reserve.md) | Defense Industrial Reserve. |
 | [2536\.](%C2%A7%2002536%20-%20Award%20of%20certain%20contracts%20to%20entities%20controlled%20by%20a%20foreign%20government%20prohibition.md) | Award of certain contracts to entities controlled by a foreign government: prohibition. |
@@ -20,6 +21,8 @@
 
 #### Amendments
 
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §871(b), Aug. 13, 2018, 132 Stat. 1905, added item 2533c.
+
 <b>2011</b>—Pub. L. 111–350, §5(b)(36), Jan. 4, 2011, 124 Stat. 3845, substituted "chapter 83 of title 41" for "the Buy American Act" in item 2533.
 
 <b>2008</b>—Pub. L. 110–181, div. A, title X, §1063(c)(8), Jan. 28, 2008, 122 Stat. 323, amended directory language of Pub. L. 109–364, §842(a)(2). See 2006 Amendment note below.
@@ -30,7 +33,7 @@
 
 <b>1994</b>—Pub. L. 103–337, div. A, title VIII, §812(b)(2), title X, §1070(a)(13)(B), Oct. 5, 1994, 108 Stat. 2816, 2856, substituted "Determinations of public interest under the Buy American Act" for "Limitation on use of funds: procurement of goods which are other than American goods" in item 2533 and renumbered items 2540 and 2541 as 2539a and 2539b, respectively.
 
-<b>1993</b>—Pub. L. 103–160, div. A, title VIII, §§828(c)(5), 842(c)(2), Nov. 30, 1993, 107 Stat. 1714, 1719, substituted "Award of certain contracts to entities controlled by a foreign government: prohibition" for "Prohibition on award of certain Department of Defense and Department of Energy contracts to companies owned by an entity controlled by a foreign government" in item 2536 and added items 2538 to 2541.
+<b>1993</b>—Pub. L. 103–160, div. A, title VIII, §§828(c)(5), 842(c)(2), Nov. 30, 1993, 107 Stat. 1714, 1719, substituted "Award of certain contracts to entities controlled by aforeign government: prohibition" for "Prohibition on award of certain Department of Defense and Department of Energy contracts to companies owned by an entity controlled by a foreign government" in item 2536 and added items 2538 to 2541.
 
 <b>1992</b>—Pub. L. 102–484, div. A, title VIII, §§836(a)(2), 838(b), Oct. 23, 1992, 106 Stat. 2463, 2466, added items 2536 and 2537.
 
@@ -44,6 +47,7 @@
 - [&sect; 02533 - Determinations of public interest under chapter 83 of title 41](%C2%A7%2002533%20-%20Determinations%20of%20public%20interest%20under%20chapter%2083%20of%20title%2041.md)
 - [&sect; 02533a - Requirement to buy certain articles from American sources; exceptions](%C2%A7%2002533a%20-%20Requirement%20to%20buy%20certain%20articles%20from%20American%20sources%3B%20exceptions.md)
 - [&sect; 02533b - Requirement to buy strategic materials critical to national security from American sources; exceptions](%C2%A7%2002533b%20-%20Requirement%20to%20buy%20strategic%20materials%20critical%20to%20national%20security%20from%20American%20sources%3B%20exceptions.md)
+- [&sect; 02533c - Prohibition on acquisition of sensitive materials from non-allied foreign nations](%C2%A7%2002533c%20-%20Prohibition%20on%20acquisition%20of%20sensitive%20materials%20from%20non-allied%20foreign%20nations.md)
 - [&sect; 02534 - Miscellaneous limitations on the procurement of goods other than United States goods](%C2%A7%2002534%20-%20Miscellaneous%20limitations%20on%20the%20procurement%20of%20goods%20other%20than%20United%20States%20goods.md)
 - [&sect; 02535 - Defense Industrial Reserve](%C2%A7%2002535%20-%20Defense%20Industrial%20Reserve.md)
 - [&sect; 02536 - Award of certain contracts to entities controlled by a foreign government prohibition](%C2%A7%2002536%20-%20Award%20of%20certain%20contracts%20to%20entities%20controlled%20by%20a%20foreign%20government%20prohibition.md)

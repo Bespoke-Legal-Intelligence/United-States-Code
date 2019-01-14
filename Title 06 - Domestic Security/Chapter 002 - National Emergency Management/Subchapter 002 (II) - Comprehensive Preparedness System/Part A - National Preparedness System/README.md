@@ -13,6 +13,7 @@ Part A—National Preparedness System
 - [&sect; 00746 - Target capabilities and preparedness priorities](%C2%A7%2000746%20-%20Target%20capabilities%20and%20preparedness%20priorities.md)
 - [&sect; 00747 - Equipment and training standards](%C2%A7%2000747%20-%20Equipment%20and%20training%20standards.md)
 - [&sect; 00748 - Training and exercises](%C2%A7%2000748%20-%20Training%20and%20exercises.md)
+- [&sect; 00748a - Prioritization of facilities](%C2%A7%2000748a%20-%20Prioritization%20of%20facilities.md)
 - [&sect; 00749 - Comprehensive assessment system](%C2%A7%2000749%20-%20Comprehensive%20assessment%20system.md)
 - [&sect; 00750 - Remedial action management program](%C2%A7%2000750%20-%20Remedial%20action%20management%20program.md)
 - [&sect; 00751 - Federal response capability inventory](%C2%A7%2000751%20-%20Federal%20response%20capability%20inventory.md)

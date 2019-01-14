@@ -4,7 +4,7 @@
 
 For the purpose (i) of developing or assisting in the development of any implementation plan under section 7410 or section 7411(d) of this title, any standard of performance under section 7411 of this title, any emission standard under section 7412 of this title,,<sup>1</sup> or any regulation of solid waste combustion under section 7429 of this title, or any regulation under section 7429 of this title (relating to solid waste combustion), (ii) of determining whether any person is in violation of any such standard or any requirement of such a plan, or (iii) carrying out any provision of this chapter (except a provision of subchapter II with respect to a manufacturer of new motor vehicles or new motor vehicle engines)—
 
-&emsp;(1) the Administrator may require any person who owns or operates any emission source, who manufactures emission control equipment or process equipment, who the Administrator believes may have information necessary for the purposes set forth in this subsection, or who is subject to any requirement of this chapter (other than a manufacturer subject to the provisions of section 7525(c) or 7542 of this title with respect to a provision of subchapter II) on a one-time, periodic or continuous basis to—
+&emsp;(1) the Administrator may require any person who owns or operates any emission source, who manufactures emission control equipment or process equipment, who the Administrator believes may have information necessary forthe purposes set forth in this subsection, or who is subject to any requirement of this chapter (other than a manufacturer subject to the provisions of section 7525(c) or 7542 of this title with respect to a provision of subchapter II) on a one-time, periodic or continuous basis to—
 
 &emsp;&emsp;(A) establish and maintain such records;
 
@@ -44,7 +44,7 @@ Any records, reports or information obtained under subsection (a) shall be avail
 
 (2) Nothing in paragraph (1) shall be construed to provide that any failure of the Administrator to comply with the requirements of such paragraph shall be a defense in any enforcement action brought by the Administrator or shall make inadmissible as evidence in any such action any information or material obtained notwithstanding such failure to comply with such requirements.
 
-(July 14, 1955, ch. 360, title I, §114, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1687; amended Pub. L. 93–319, §6(a)(4), June 22, 1974, 88 Stat. 259; Pub. L. 95–95, title I, §§109(d)(3), 113, title III, §305(d), Aug. 7, 1977, 91 Stat. 701, 709,776; Pub. L. 95–190, §14(a)(22), (23), Nov. 16, 1977, 91 Stat. 1400; Pub. L. 101–549, title III, §302(c), title VII, §702(a), (b), Nov. 15, 1990, 104 Stat. 2574, 2680, 2681.)
+(July 14, 1955, ch. 360, title I, §114, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1687; amended Pub. L. 93–319, §6(a)(4), June 22, 1974, 88 Stat. 259; Pub. L. 95–95, title I, §§109(d)(3), 113, title III, §305(d), Aug. 7, 1977, 91 Stat. 701, 709, 776; Pub. L. 95–190, §14(a)(22), (23), Nov. 16, 1977, 91 Stat. 1400; Pub. L. 101–549, title III, §302(c), title VII, §702(a), (b), Nov. 15, 1990, 104 Stat. 2574, 2680, 2681.)
 
 #### References in Text
 

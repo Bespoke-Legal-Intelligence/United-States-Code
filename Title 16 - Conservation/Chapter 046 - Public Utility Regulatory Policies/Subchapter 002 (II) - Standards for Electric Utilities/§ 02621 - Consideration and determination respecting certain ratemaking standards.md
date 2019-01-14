@@ -2,7 +2,7 @@
 
 #### (a) Consideration and determination
 
-Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall consider each standard established by subsection (d) and make a determination concerning whether or not it is appropriate to implement such standard to carry out the purposes of this chapter. For purposes of such consideration and determination in accordance with subsections (b) and (c), and for purposes of any review of such consideration and determination in any court in accordance with section 2633 of this title, the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
+Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall consider each standard established by subsection (d) and make a determination concerning whether or not it is appropriate to implement such standard to carry out the purposes of this chapter. For purposes of such consideration and determination in accordance with subsections (b) and (c), and for purposes of any review of such consideration and determination in any court in accordance with section 2633 of this title, the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatoryauthority or nonregulated electric utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
 
 #### (b) Procedural requirements for consideration and determination
 
@@ -72,7 +72,7 @@ The following Federal standards are hereby established:
 
 #### (8) Investments in conservation and demand management
 
-&emsp;The rates allowed to be charged by a State regulated electric utility shall be such that the utility's investment in and expenditures for energy conservation, energy efficiency resources, and other demand side management measures are at least as profitable, giving appropriate consideration to income lost from reduced sales due to investments in and expenditures for conservation and efficiency, as its investments in and expenditures for the construction of new generation, transmission, and distribution equipment. Such energy conservation, energy efficiency resources and other demand side management measures shall be appropriately monitored and evaluated.
+&emsp;The rates allowed to be charged by a State regulated electric utility shall be such that the utility's investment in and expenditures for energy conservation, energy efficiency resources, and other demand side management measures are at least as profitable, giving appropriate consideration to income lost from reduced sales due to investments in and expenditures for conservation and efficiency, as its investments in and expenditures for theconstruction of new generation, transmission, and distribution equipment. Such energy conservation, energy efficiency resources and other demand side management measures shall be appropriately monitored and evaluated.
 
 #### (9) Energy efficiency investments in power generation and supply
 
@@ -116,7 +116,7 @@ The following Federal standards are hereby established:
 
 &emsp;(B) The types of time-based rate schedules that may be offered under the schedule referred to in subparagraph (A) include, among others—
 
-&emsp;&emsp;(i) time-of-use pricing whereby electricity prices are set for a specific time period on an advance or forward basis, typically not changing more often than twice a year, based on the utility's cost of generating and/or purchasing such electricity at the wholesale level for the benefit of the consumer. Prices paid for energy consumed during these periods shall be pre-established and known to consumers in advance of such consumption, allowing them to vary their demand and usage in response to such prices and manage their energy costs by shifting usage to a lower cost period or reducing their consumption overall;
+&emsp;&emsp;(i) time-of-use pricing whereby electricity prices are set for a specific time period on an advance or forward basis, typically notchanging more often than twice a year, based on the utility's cost of generating and/or purchasing such electricity at the wholesale level for the benefit of the consumer. Prices paid for energy consumed during these periods shall be pre-established and known to consumers in advance of such consumption, allowing them to vary their demand and usage in response to such prices and manage their energy costs by shifting usage to a lower cost period or reducing their consumption overall;
 
 &emsp;&emsp;(ii) critical peak pricing whereby time-of-use prices are in effect except for certain peak days, when prices may reflect the costs of generating and/or purchasing electricity at the wholesale level and when consumers may receive additional discounts for reducing peak period energy consumption;
 
@@ -134,7 +134,7 @@ The following Federal standards are hereby established:
 
 #### (15) Interconnection
 
-&emsp;Each electric utility shall make available, upon request, interconnection service to any electric consumer that the electric utility serves. For purposes of this paragraph, the term "interconnection service" means serviceto an electric consumer under which an on-site generating facility on the consumer's premises shall be connected to the local distribution facilities. Interconnection services shall be offered based upon the standards developed by the Institute of Electrical and Electronics Engineers: IEEE Standard 1547 for Interconnecting Distributed Resources with Electric Power Systems, as they may be amended from time to time. In addition, agreements and procedures shall be established whereby the services are offered shall promote current best practices of interconnection for distributed generation, including but not limited to practices stipulated in model codes adopted by associations of state regulatory agencies. All such agreements and procedures shall be just and reasonable, and not unduly discriminatory or preferential.
+&emsp;Each electric utility shall make available, upon request, interconnection service to any electric consumer that the electric utility serves. For purposes of this paragraph, the term "interconnection service" means service to an electric consumer under which an on-site generating facility on the consumer's premises shall be connected to the local distribution facilities. Interconnection services shall be offered based upon the standards developed by the Institute of Electrical and Electronics Engineers: IEEE Standard 1547 for Interconnecting Distributed Resources with Electric Power Systems, as they may be amended from time to time. In addition, agreements and procedures shall be established whereby the services are offered shall promote current best practices of interconnection for distributed generation, including but not limited to practices stipulated in model codes adopted by associations of state regulatory agencies. All such agreements and procedures shall be just and reasonable, and not unduly discriminatory or preferential.
 
 #### (16) Integrated resource planning
 
@@ -190,7 +190,7 @@ The following Federal standards are hereby established:
 
 #### (B) Rate recovery
 
-&emsp;&emsp;Each State shall consider authorizing each electric utility of the State to recover from ratepayers any capital, operating expenditure, or other costs of the electric utility relating to the deployment of a qualified smart grid system, including a reasonable rate of return on the capital expenditures of the electric utility for the deployment of the qualified smart grid system.
+&emsp;&emsp;Each State shall consider authorizing each electric utility of the State to recover fromratepayers any capital, operating expenditure, or other costs of the electric utility relating to the deployment of a qualified smart grid system, including a reasonable rate of return on the capital expenditures of the electric utility for the deployment of the qualified smart grid system.
 
 #### (C) Obsolete equipment
 
@@ -224,7 +224,7 @@ The following Federal standards are hereby established:
 
 #### (iv) Sources
 
-&emsp;&emsp;&emsp;Purchasers and other interested persons shall be provided annually with written information on the sources of the power provided by the utility, to the extent it can be determined, by type of generation, including greenhouse gas emissions associatedwith each type of generation, for intervals during which such information is available on a cost-effective basis.
+&emsp;&emsp;&emsp;Purchasers and other interested persons shall be provided annually with written information on the sources of the power provided by the utility, to the extent it can be determined, by type of generation, including greenhouse gas emissions associated with each type of generation, for intervals during which such information is available on a cost-effective basis.
 
 #### (C) Access
 

@@ -120,7 +120,7 @@
 
 The Social Security Act, referred to in subsecs. (a)(4)(A), (e)(2), (g)(1), and (h)(2)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42. Section 1927 of the Act is classified to section 1396r–8 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(4)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A\(§201 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(4)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 Enactment of this section, referred to in subsec. (g)(2), means enactment of Pub. L. 102–585, which enacted this section and was approved Nov. 4, 1992.
 
@@ -150,7 +150,7 @@ Pub. L. 104–106, div. A, title VII, §737(b), Feb. 10, 1996, 110 Stat. 383, pr
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–18, §1(b), Apr. 12, 1993, 107 Stat. 54, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 \[Pub. L. 102–585\]."
+Pub. L. 103–18, §1(b), Apr. 12, 1993, 107 Stat. 54, provided that: "The amendments made by subsection (a)\[amending this section\] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 \[Pub. L. 102–585\]."
 
 #### Transfer of Functions
 

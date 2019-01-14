@@ -22,7 +22,7 @@ The Commission shall issue regulations, after providing the public with notice a
 
 The Commission shall—
 
-&emsp;(1) establish monetary penalties for violations of the protective regulations establishedpursuant to subsection (b)(4) of not less than $100,000 per incident nor more than $1,000,000 per incident;
+&emsp;(1) establish monetary penalties for violations of the protective regulations established pursuant to subsection (b)(4) of not less than $100,000 per incident nor more than $1,000,000 per incident;
 
 &emsp;(2) establish monetary penalties for violations of the prohibition on automatically dialing registered numbers established pursuant to subsection (b)(5) of not less than $10,000 per call nor more than $100,000 per call; and
 

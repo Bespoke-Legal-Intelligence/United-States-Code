@@ -141,7 +141,7 @@ Now more than ever, our Nation's economic success rests on our ability to empowe
 
 Men and women both need time to care for their families and should have access to workplace flexibilities that help them succeed at work and at home. Offering family leave and other workplace flexibilities to parents can help achieve the goals of recruiting and retaining talent, lowering costly worker turnover, increasing employee engagement, boosting employee morale, and ensuring a diverse and inclusive workforce. Yet, the United States lags behind almost every other country in ensuring some form of paid parental leave to its Federal workforce; we are the only developed country in the world without it.
 
-My memorandum of June 23, 2014 (Enhancing Workplace Flexibilities and Work-Life Programs), directsthe heads of executive departments and agencies (agencies) to more fully utilize workplace flexibilities and work-life programs to promote recruitment, retention, employee engagement, and workforce productivity. My Administration fully supports efforts to align the Federal Government with the parental leave policies of leading private sector companies and other industrialized countries, and will continue to take administrative steps to modernize leave policies to better support Federal employees.
+My memorandum of June 23, 2014 (Enhancing Workplace Flexibilities and Work-Life Programs), directs the heads of executive departments and agencies (agencies) to more fully utilize workplace flexibilities and work-life programs to promote recruitment, retention, employee engagement, and workforce productivity. My Administration fully supports efforts to align the Federal Government with the parental leave policies of leading private sector companies and other industrialized countries, and will continue to take administrative steps to modernize leave policies to better support Federal employees.
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to further build on these important goals and the work currently underway by the Office of Personnel Management (OPM) and other agencies to review existing personnel policies, I hereby direct as follows:
 
@@ -155,7 +155,7 @@ Sec. 3. <i>Update Leave Policies</i>. (a) In coordination with the agency review
 
 (b) For purposes of the changes required by subsection (a) of this section, agencies shall review policies with respect to the following required benefits:
 
-(i) use of accrued sick leave (including period of incapacitation for birth mother, care of birth mother during period of incapacitation, doctor appointments for birth parents or newborn child, or any periods of time during which adoptive parents are ordered or required by an adoption agency or by a court to take time off from work to care for the adopted child);
+(i) use of accrued sick leave (including period of incapacitation for birth mother, care of birth mother during period of incapacitation, doctor appointments for birth parents or newborn child, or any periods of timeduring which adoptive parents are ordered or required by an adoption agency or by a court to take time off from work to care for the adopted child);
 
 (ii) leave pursuant to the Family and Medical Leave Act (including intermittent leave for childbirth, adoption, or foster care placement in the home; and leave without pay or substitution of appropriate paid leave in accordance with law and regulation);
 

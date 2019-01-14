@@ -38,7 +38,7 @@
 
 #### (3) Discontinuance of MA–PD election during first year of eligibility
 
-&emsp;In applying the second sentence of section 1395w–21(e)(4) of this title in the case of an individual who is electing to discontinue enrollment in an MA–PD plan, the individual shallbe permitted to enroll in a prescription drug plan under part D at the time of the election of coverage under the original medicare fee-for-service program.
+&emsp;In applying the second sentence of section 1395w–21(e)(4) of this title in the case of an individual who is electing to discontinue enrollment in an MA–PD plan, the individual shall be permitted to enroll in a prescription drug plan under part D at the time of the election of coverage under the original medicare fee-for-service program.
 
 #### (4) Rules regarding enrollees in MA plans not providing qualified prescription drug coverage
 
@@ -106,7 +106,7 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3) and rules established by the Secretary, in the case of anorganization that is providing benefits under a reasonable cost reimbursement contract under section 1395mm(h) of this title and that elects to provide qualified prescription drug coverage to a part D eligible individual who is enrolled under such a contract, the provisions of this part (and related provisions of part C) shall apply to the provision of such coverage to such enrollee in the same manner as such provisions apply to the provision of such coverage under an MA–PD local plan described in section 1395–21(a)(2)(A)(i) of this title and coverage under such a contract that so provides qualified prescription drug coverage shall be deemed to be an MA–PD local plan.
+&emsp;Subject to paragraphs (2) and (3) and rules established by the Secretary, in the case of an organization that is providing benefits under a reasonable cost reimbursement contract under section 1395mm(h) of this title and that elects to provide qualified prescription drug coverage to a part D eligible individual who is enrolled under such a contract, the provisions of this part (and related provisions of part C) shall apply to the provision of such coverage to such enrollee in the same manner as such provisions apply to the provision of such coverage under an MA–PD local plan described in section 1395–21(a)(2)(A)(i) of this title and coverage under such a contract that so provides qualified prescription drug coverage shall be deemed to be an MA–PD local plan.
 
 #### (2) Limitation on enrollment
 
@@ -120,7 +120,7 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3) and rules established by the Secretary, in the case of a PACE program under section 1395eee of this title that elects to provide qualified prescription drug coverage to a part D eligible individual who is enrolled under such program, the provisions of this part (and related provisions of part C) shall apply to the provision of such coverage to such enrollee in a manner that is similar to the manner in which such provisions apply to the provision of such coverage under an MA–PD local plan described in section 1395w–21(a)(2)(A)(ii) of this title and a PACE program that so provides such coverage may be deemed to be an MA–PD local plan.
+&emsp;Subject to paragraphs (2) and (3) and rules established by the Secretary, in the case of aPACE program under section 1395eee of this title that elects to provide qualified prescription drug coverage to a part D eligible individual who is enrolled under such program, the provisions of this part (and related provisions of part C) shall apply to the provision of such coverage to such enrollee in a manner that is similar to the manner in which such provisions apply to the provision of such coverage under an MA–PD local plan described in section 1395w–21(a)(2)(A)(ii) of this title and a PACE program that so provides such coverage may be deemed to be an MA–PD local plan.
 
 #### (2) Limitation on enrollment
 

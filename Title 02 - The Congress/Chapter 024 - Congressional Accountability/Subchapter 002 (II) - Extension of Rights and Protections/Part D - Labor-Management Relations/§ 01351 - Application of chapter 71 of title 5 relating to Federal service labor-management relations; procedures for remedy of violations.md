@@ -6,9 +6,13 @@
 
 &emsp;The rights, protections, and responsibilities established under sections 7102, 7106, 7111 through 7117, 7119 through 7122, and 7131 of title 5 shall apply to employing offices and to covered employees and representatives of those employees.
 
-#### (2) "Agency" defined
+#### (2) Application
 
 &emsp;For purposes of the application under this section of the sections referred to in paragraph (1), the term "agency" shall be deemed to include an employing office.
+
+#### (3) Definitions
+
+&emsp;For purposes of this section, the term "covered employee" does not include an employee of the Library of Congress, and the term "employing office" does not include the Library of Congress.
 
 #### (b) Remedy
 
@@ -50,7 +54,7 @@ The remedy for a violation of subsection (a) shall be such remedy, including a r
 
 #### (1) Regulations required
 
-&emsp;The Board shall issue regulations pursuant to section 1384 of this title on the manner and extent to which the requirements and exemptions of chapter 71 of title 5 should apply to covered employees who are employed in the offices listed in paragraph (2). The regulationsshall, to the greatest extent practicable, be consistent with the provisions and purposes of chapter 71 of title 5 and of this chapter, and shall be the same as substantive regulations issued by the Federal Labor Relations Authority under chapter 71 of title 5, except—
+&emsp;The Board shall issue regulations pursuant to section 1384 of this title on the manner and extent to which the requirements and exemptions of chapter 71 of title 5 should apply to covered employees who are employed in the offices listed in paragraph (2). The regulations shall, to the greatest extent practicable, be consistent with the provisions and purposes of chapter 71 of title 5 and of this chapter, and shall be the same as substantive regulations issued by the Federal Labor Relations Authority under chapter 71 of title 5, except—
 
 &emsp;&emsp;(A) to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section; and
 
@@ -76,7 +80,7 @@ The remedy for a violation of subsection (a) shall be such remedy, including a r
 
 &emsp;&emsp;(F) the offices of any caucus or party organization;
 
-&emsp;&emsp;(G) the Congressional Budget Office, the Office of Technology Assessment, and the Office of Compliance; and
+&emsp;&emsp;(G) the Congressional Budget Office, the Office of Technology Assessment, and the Office of Congressional Workplace Rights; and
 
 &emsp;&emsp;(H) such other offices that perform comparable functions which are identified under regulations of the Board.
 
@@ -90,9 +94,21 @@ The remedy for a violation of subsection (a) shall be such remedy, including a r
 
 &emsp;With respect to the offices listed in subsection (e)(2), to the covered employees of such offices, and to representatives of such employees, subsections (a) and (b) shall be effective on the effective date of regulations under subsection (e).
 
-(Pub. L. 104–1, title II, §220, Jan. 23, 1995, 109 Stat. 19.)
+(Pub. L. 104–1, title II, §220, Jan. 23, 1995, 109 Stat. 19; Pub. L. 115–141, div. I, title I, §153(a)(1)(C), Mar. 23, 2018, 132 Stat. 785; Pub. L. 115–397, title III, §308(b)(10), Dec. 21, 2018, 132 Stat. 5326.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (e)(1), was in the original "this Act", meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(2). Pub. L. 115–141, §153(a)(1)(C)(i), substituted "Application" for "Definition" in heading.
+
+Subsec. (a)(3). Pub. L. 115–141, §153(a)(1)(C)(ii), added par. (3).
+
+Subsec. (e)(2)(G). Pub. L. 115–397 substituted "Office of Congressional Workplace Rights" for "Office of Compliance".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date to be considered to refer and apply to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as a note under section 1381 of this title.
 

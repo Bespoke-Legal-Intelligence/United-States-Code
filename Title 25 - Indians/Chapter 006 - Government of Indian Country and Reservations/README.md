@@ -18,9 +18,7 @@
 
 |  |  |
 | :--- | ---: |
-| 241 to 250. Repealed. |  |
-| [251\.](Subchapter%20002%20%28II%29%20-%20Traffic%20in%20Intoxicating%20Liquors/%C2%A7%2000251%20-%20Setting%20up%20distillery.md) | Setting up distillery. |
-| [252\.](Subchapter%20002%20%28II%29%20-%20Traffic%20in%20Intoxicating%20Liquors/%C2%A7%2000252%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20645%2C%20%C2%A721%2C%2062%20Stat.%20862.md) | Repealed. |
+| 241 to 252. Repealed. |  |
 | [253\.](Subchapter%20002%20%28II%29%20-%20Traffic%20in%20Intoxicating%20Liquors/%C2%A7%2000253%20-%20Wines%20for%20sacramental%20purposes.md) | Wines for sacramental purposes. |
 | [254\.](Subchapter%20002%20%28II%29%20-%20Traffic%20in%20Intoxicating%20Liquors/%C2%A7%2000254%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20645%2C%20%C2%A721%2C%2062%20Stat.%20862.md) | Repealed. |
 

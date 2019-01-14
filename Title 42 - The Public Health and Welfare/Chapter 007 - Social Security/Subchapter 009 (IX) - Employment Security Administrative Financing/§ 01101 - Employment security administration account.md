@@ -8,7 +8,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (1) There is hereby appropriated to the Unemployment Trust Fund for credit to the employment security administration account, out of any moneys in the Treasury not otherwise appropriated, for the fiscal year ending June 30, 1961, and for each fiscal year thereafter, an amount equal to 100 per centum of the tax (including interest, penalties, and additions to the tax) received during the fiscal year under the Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\] and covered into the Treasury.
 
-(2) The amount appropriated by paragraph (1) shall be transferred at least monthly from the general fund of the Treasury to the Unemployment Trust Fund and credited to the employment security administration account. Each such transfer shall be based on estimates made by the Secretary of the Treasury of the amounts received in the Treasury. Proper adjustments shall be made in the amounts subsequently transferred, to the extent prior estimates (including estimates for the fiscal year endingJune 30, 1960) were in excess of or were less than the amounts required to be transferred.
+(2) The amount appropriated by paragraph (1) shall be transferred at least monthly from the general fund of the Treasury to the Unemployment Trust Fund and credited to the employment security administration account. Each such transfer shall be based on estimates made by the Secretary of the Treasury of the amounts received in the Treasury. Proper adjustments shall be made in the amounts subsequently transferred, to the extent prior estimates (including estimates for the fiscal year ending June 30, 1960) were in excess of or were less than the amounts required to be transferred.
 
 (3) The Secretary of the Treasury is directed to pay from time to time from the employment security administration account into the Treasury, as repayments to the account for refunding internal revenue collections, amounts equal to all refunds made after June 30, 1960, of amounts received as tax under the Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\] (including interest on such refunds).
 
@@ -70,7 +70,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (B) In any fiscal year in which a State receives funds appropriated pursuant to this paragraph, the State shall expend a proportion of the funds appropriated pursuant to paragraph (1)(A)(i) to carry out program integrity activities that is not less than the proportion of the funds appropriated under such paragraph that was expended by the State to carry out program integrity activities in fiscal year 1997.
 
-(C) For purposes of this paragraph, the term "program integrity activities" means initial claims review activities, eligibility review activities, benefit payments control activities, and employer liability auditing activities.
+(C) For purposes of this paragraph, the term "program integrity activities" means initialclaims review activities, eligibility review activities, benefit payments control activities, and employer liability auditing activities.
 
 #### (d) Additional tax attributable to reduced credits; transfer of funds
 

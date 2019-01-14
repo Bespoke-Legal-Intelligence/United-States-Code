@@ -10,7 +10,7 @@
 
 &emsp;(4) a reconciliation of the summary information on expenditures with proposed appropriations.
 
-&emsp;(5) except as provided in subsection (b) of this section, estimated expenditures and proposed appropriations the President decides are necessary to support the Government in the fiscal year for which the budget is submitted and the 4 fiscal years after that year.
+&emsp;(5) except as provided in subsection (b) of this section, estimated expenditures and proposed appropriations the President decides are necessary to support the Government in thefiscal year for which the budget is submitted and the 4 fiscal years after that year.
 
 &emsp;(6) estimated receipts of the Government in the fiscal year for which the budget is submitted and the 4 fiscal years after that year under—
 
@@ -140,9 +140,9 @@
 
 &emsp;(38) a separate statement for the Crow Settlement Fund established under section 411 of the Crow Tribe Water Rights Settlement Act of 2010, which shall include the estimated amount of deposits into the Fund, obligations, and outlays from the Fund.
 
-&emsp;(39) the list of plans and reports, as provided for under section 1125, that agencies identified for elimination or consolidation because the plans and reports are determined outdated or duplicative of other required plans and reports.
+&emsp;(39) the list of plans and reports, as provided for under section 1125, that agencies identifiedfor elimination or consolidation because the plans and reports are determined outdated or duplicative of other required plans and reports.
 
-(b) Estimated expenditures and proposed appropriations for the legislative branch and thejudicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
+(b) Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 
 (c) The President shall recommend in the budget appropriate action to meet an estimated deficiency when the estimated receipts for the fiscal year for which the budget is submitted (under laws in effect when the budget is submitted) and the estimated amounts in the Treasury at the end of the current fiscal year available for expenditure in the fiscal year for which the budget is submitted, are less than the estimated expenditures for that year. The President shall make recommendations required by the public interest when the estimated receipts and estimated amounts in the Treasury are more than the estimated expenditures.
 
@@ -204,7 +204,7 @@
 
 &emsp;(B) the term "acquisition" includes the addition of land, sites, equipment, structures, facilities, or rolling stock by purchase, lease-purchase, trade, or donation; and
 
-&emsp;(C) the term "rehabilitation" includes the alteration of or correction of deficiencies in an existing structure or facility so as to extendthe useful life or improve the effectiveness of the structure or facility, the modernization or replacement of equipment at an existing structure or facility, and the modernization of, or replacement of parts for, rolling stock.
+&emsp;(C) the term "rehabilitation" includes the alteration of or correction of deficiencies in an existing structure or facility so as to extend the useful life or improve the effectiveness of the structure or facility, the modernization or replacement of equipment at an existing structure or facility, and the modernization of, or replacement of parts for, rolling stock.
 
 (f) The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared in a manner consistent with the requirements of the Balanced Budget and Emergency Deficit Control Act of 1985 that apply to that and subsequent fiscal years.
 
@@ -314,7 +314,7 @@ June 10, 1921, ch. 18, §202, 42 Stat. 21.
 
 In the section, the word "current" is substituted for "in progress", and the word "prior" is substituted for "last completed", for consistency in the revised title.
 
-In subsection (a), before clause (1), the text of 31:19 is omitted as superseded by the broader authority of 31:11(a)(5). The words "for the following fiscal year" are added for clarity. The words "summary and supporting information" are substituted for "summary data and text, and supporting detail" in the introductory matterof 31:11(a) for consistency. The words "in such form and detail as the President may determine" are omitted as unnecessary because of the authority of the President under section 1104(a) of the revised title to prepare the budget. The words "The President shall . . . in each budget the following" are substituted for "The Budget transmitted pursuant to subsection (a) of this section for each fiscal year shall" in 31:11(d)–(f), (h), and (i) because of the restatement. The word "President" is substituted for "Office of Management and Budget" in 31:25 because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. The words "in connection with the budget presentation for fiscal year 1964 and each succeeding year thereafter" are omitted as executed.
+In subsection (a), before clause (1), the text of 31:19 is omitted as superseded by the broader authority of 31:11(a)(5). The words "for the following fiscal year" are added for clarity. The words "summary and supporting information" are substituted for "summary data and text, and supporting detail" in the introductory matter of 31:11(a) for consistency. The words "in such form and detail as the President may determine" are omitted as unnecessary because of the authority of the President under section 1104(a) of the revised title to prepare the budget. The words "The President shall . . . in each budget the following" are substituted for "The Budget transmitted pursuant to subsection (a) of this section for each fiscal year shall" in 31:11(d)–(f), (h), and (i) because of the restatement. The word "President" is substituted for "Office of Management and Budget" in 31:25 because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. The words "in connection with the budget presentation for fiscal year 1964 and each succeeding year thereafter" are omitted as executed.
 
 In subsection (a)(1), the words "information on" are added for clarity.
 
@@ -388,9 +388,9 @@ The Federal Mine Safety and Health Act of 1977, referred to in subsec. (a)(23), 
 
 Section 11(2) of the Inspector General Act of 1978, referred to in subsec. (a)(25), is section 11(2) of Pub. L. 95–452, which was renumbered section 12(2) of the Act by Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305, and is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Section 5 of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(30), is section 5 of Pub. L. 103–226, which is set out as a note under section 3101 of Title 5, Government Organization and Employees.
+Section 5 of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(30), is section 5 of Pub.L. 103–226, which is set out as a note under section 3101 of Title 5, Government Organization and Employees.
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a)(32) and (f), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Section 257(b)(2) of the Act is classified to section 907(b)(2) ofTitle 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a)(32) and (f), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Section 257(b)(2) of the Act is classified to section 907(b)(2) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(36), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. Section 123 of the Act is classified to section 5232 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
@@ -468,7 +468,7 @@ Subsec. (f). Pub. L. 101–508, §13112(c)(2), amended subsec. (f) generally, su
 
 "(2) The deficit set forth in the budget so transmitted for any fiscal year shall not exceed the maximum deficit amount for such fiscal year as determined under paragraph (7) of section 3 of the Congressional Budget and Impoundment Control Act of 1974, with budget outlays and Federal revenues at such levels as the President may consider most desirable and feasible.
 
-"(3) The budget transmitted pursuant to subsection (a) for a fiscal year shall include a budget baseline estimate made in accordance with section 251(a)(6) of the Balanced Budget and Emergency Deficit Control Act of 1985 and using economic and technical assumptions consistent with the current services budget submitted under section 1109 for the fiscal year. If such budget baseline estimate differs from the estimate in the current services budget, the President shall explain the differences. The budget transmitted pursuant to subsection (a) for such fiscal year shall include the information required by section 251(a)(2) of such Act (otherthan account-level detail) assuming that the deficit in such budget baseline were the amount estimated by the Director of the Office of Management and Budget on August 25 of the calendar year in which the fiscal year begins.
+"(3) The budget transmitted pursuant to subsection (a) for a fiscal year shall include a budget baseline estimate made in accordance with section 251(a)(6) of the Balanced Budget and Emergency Deficit Control Act of 1985 and using economic and technical assumptions consistent with the current services budget submitted under section 1109 for the fiscal year. If such budgetbaseline estimate differs from the estimate in the current services budget, the President shall explain the differences. The budget transmitted pursuant to subsection (a) for such fiscal year shall include the information required by section 251(a)(2) of such Act (other than account-level detail) assuming that the deficit in such budget baseline were the amount estimated by the Director of the Office of Management and Budget on August 25 of the calendar year in which the fiscal year begins.
 
 "(4) Paragraphs (1) and (2) shall not apply with respect to fiscal year 1989 if the budget transmitted for such fiscal year provides for deficit reduction from a budget baseline deficit for such fiscal year (as defined by section 251(a)(6) of the Balanced Budget and Emergency Deficit Control Act of 1985 and based on laws in effect on January 1, 1988) equal to or greater than $36,000,000,000.
 
@@ -572,6 +572,58 @@ Pub. L. 111–291, title IV, §415, Dec. 8, 2010, 124 Stat. 3121, provided that:
 
 Amendment made by Pub. L. 103–62 not to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a note under section 1101 of this title.
 
+#### Reports on Outstanding Government Accountability Office and Inspector General Recommendations
+
+Pub. L. 115–414, §2, Jan. 3, 2019, 132 Stat. 5430, provided that:
+
+"(a)
+
+Definition.—In this section, the term 'agency' means—
+
+&emsp;"(1) a designated Federal entity, as defined in section 8G(a)(2) of the Inspector General Act of 1978 (5 U.S.C. App.);
+
+&emsp;"(2) an establishment, as defined in section 12(2) of the Inspector General Act of 1978 (5 U.S.C. App.); and
+
+&emsp;"(3) legislative branch agencies, including the Government Publishing Office, the Library of Congress, the Office of the Architect of the Capitol, and the United States Capitol Police.
+
+"(b)
+
+Required Reports.—In the annual budget justification submitted to Congress, as submitted with the budget of the President under section 1105 of title 31, United States Code, each agency shall include—
+
+&emsp;"(1) a report listing each public recommendation of the Government Accountability Office that is designated by the Government Accountability Office as 'open' or 'closed, unimplemented' for a period of not less than 1 year preceding the date on which the annual budget justification is submitted;
+
+&emsp;"(2) a report listing each public recommendation for corrective action from the Office of Inspector General of the agency that—
+
+&emsp;&emsp;"(A) was published not less than 1 year before the date on which the annual budget justification is submitted; and
+
+&emsp;&emsp;"(B) for which no final action was taken as of the date on which the annual budget justification is submitted; and
+
+&emsp;"(3) a report on the implementation status of each public recommendation described in paragraphs (1) and (2), which shall include—
+
+&emsp;&emsp;"(A) with respect to a public recommendation that is designated by the Government Accountability Office as 'open' or 'closed, unimplemented'—
+
+&emsp;&emsp;&emsp;"(i) that the agency has decided not to implement, a detailed justification for the decision; or
+
+&emsp;&emsp;&emsp;"(ii) that the agency has decided to adopt, a timeline for full implementation, to the extent practicable, if the agency determines that the recommendation has clear budget implications;
+
+&emsp;&emsp;"(B) with respect to a public recommendation for corrective action from the Office of Inspector General of the agency for which no final action or action not recommended has been taken, an explanation of the reasons why no final action or action not recommended was taken with respect to each audit report to which the public recommendation for corrective action pertains;
+
+&emsp;&emsp;"(C) with respect to an outstanding unimplemented public recommendation from the Office of Inspector General of the agency that the agency has decided to adopt, a timeline for implementation;
+
+&emsp;&emsp;"(D) an explanation for any discrepancy between—
+
+&emsp;&emsp;&emsp;"(i) the reports submitted under paragraphs (1) and (2);
+
+&emsp;&emsp;&emsp;"(ii) the semiannual reports submitted by the Office of Inspector General of the agency under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.); and
+
+&emsp;&emsp;&emsp;"(iii) reports submitted by the Government Accountability Office relating to public recommendations that are designated by the Government Accountability Office as 'open' or 'closed, unimplemented'; and
+
+&emsp;&emsp;"(E) for the first 12 months after a public recommendation is made, if the agency is determining whether to implement the public recommendation, a statement describing that the agency is doing so, which shall exempt the agency from the requirements under subparagraphs (B) and (C) with respect to that public recommendation.
+
+"(c)
+
+Copies of Submissions.—Each agency shall provide a copy of the information submitted under subsection (b) to the Government Accountability Office and the Office of Inspector General of the agency."
+
 #### Annual Agency Reports Required
 
 Pub. L. 113–235, div. D, title IV, §404, Dec. 16, 2014, 128 Stat. 2331, provided that: "For this fiscal year, and each fiscal year hereafter, each independent agency receiving funding under this title \[see Tables for classification\] shall submit to the Committees on Appropriations of the House of Representatives and the Senate a Congressional Budget Justification and a detailed annual report."
@@ -664,7 +716,7 @@ Certification.—With respect to any medicare funding legislation or any amendme
 
 Fallback Procedure for Floor Consideration if the House Fails to Vote on Final Passage by July 30.—
 
-&emsp;"(1) After July 30 of any year during which the President is required to submit proposed legislation to Congress under section 1105(h) of title 31, UnitedStates Code, unless the House of Representatives has voted on final passage of any medicare funding legislation for which there is an affirmative certification under subsection (b)(3)(A), then, after the expiration of not less than 30 calendar days (and concurrently 5 legislative days), it is in order to move to discharge any committee to which medicare funding legislation which has such a certification and which has been referred to such committee for 30 calendar days from further consideration of the legislation.
+&emsp;"(1) After July 30 of any year during which the President is required to submit proposed legislation to Congress under section 1105(h) of title 31, United States Code, unless the House of Representatives has voted on final passage of any medicare funding legislation for which there is an affirmative certification under subsection (b)(3)(A), then, after the expiration of not less than 30 calendar days (and concurrently 5 legislative days), it is in order to move to discharge any committee to which medicare funding legislation which has such a certification and which has been referred to such committee for 30 calendar days from further consideration of the legislation.
 
 &emsp;"(2) A motion to discharge may be made only by an individual favoring the legislation, may be made only if supported by one-fifth of the total membership of the House (a quorum being present), and is highly privileged in the House. Debate thereon shall be limited to not more than one hour, the time to be divided in the House equally between those favoring and those opposing the motion. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
@@ -678,7 +730,7 @@ Floor Consideration in the House of Discharged Legislation.—
 
 &emsp;"(1) In the House, not later than 3 legislative days after any committee has been discharged from further consideration of legislation under subsection (c), the Speaker shall resolve the House into the Committee of the Whole for consideration of the legislation.
 
-&emsp;"(2) The first reading of the legislation shall be dispensed with. All points of order against consideration of the legislation are waived. General debate shall be confined to the legislation and shall not exceed five hours, which shall be divided equally between those favoring and those opposing the legislation. After general debate the legislation shall be considered for amendment under the five-minute rule. During consideration of the legislation, no amendments shall be in order in the House or in the Committee of the Whole except those for which there has been an affirmative certification under subsection (b)(3)(B). All points of order against consideration of any such amendment in the Committee of the Whole are waived. The legislation, together with any amendments which shall be in order, shall be considered as read. During the consideration of the bill for amendment, the Chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of Rule XVIII of the Rules of the House of Representatives. Debate on any amendment shall not exceed one hour, which shall be divided equally between those favoring and those opposing the amendment, and no pro forma amendments shall be offered during the debate. The total time for debate on all amendments shall not exceed 10 hours. At the conclusion of consideration of the legislation for amendment, the Committee shall rise and report the legislation to the House with such amendments as may have been adopted. The previous question shall be considered as ordered on the legislation and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions. If the Committee of the Whole rises and reports that it has come to no resolution on the bill, then on the next legislative day the House shall, immediately after the third daily order of business under clause 1 of Rule XIV of the Rules of the House of Representatives, resolve into the Committee of the Whole for further consideration of the bill.
+&emsp;"(2) The first reading of the legislation shall be dispensed with. All points of order against consideration of the legislation are waived. General debate shall be confined to the legislation and shall not exceed five hours, which shall be divided equally between those favoring and those opposing the legislation. After general debate the legislation shall be considered for amendment under the five-minute rule. During consideration of the legislation, no amendments shall be in order in the House or in the Committee of the Whole except those for which there has been an affirmative certification under subsection (b)(3)(B). All points of order against consideration of any such amendment in the Committee of the Whole are waived. The legislation, together with any amendments which shall be in order, shall be considered as read. During the consideration of the bill for amendment, the Chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of Rule XVIII of the Rules of the House of Representatives. Debate on any amendment shall not exceed one hour, which shall be divided equally between those favoring and those opposing the amendment, and no pro forma amendments shall be offered during the debate. The total time for debate on all amendments shall not exceed 10 hours. At the conclusion of consideration of the legislation for amendment, the Committee shall rise and report the legislation to the House with such amendments as may have been adopted. The previous question shall be considered asordered on the legislation and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions. If the Committee of the Whole rises and reports that it has come to no resolution on the bill, then on the next legislative day the House shall, immediately after the third daily order of business under clause 1 of Rule XIV of the Rules of the House of Representatives, resolve into the Committee of the Whole for further consideration of the bill.
 
 &emsp;"(3) All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to any such legislation shall be decided without debate.
 
@@ -746,7 +798,7 @@ Discharge.—
 
 &emsp;"(1)
 
-In general.—If the Committee on Finance has not reported medicare funding legislation described in subsection (c)(1) by June 30 of a year in which the President is required to submit medicare funding legislation to Congress under section 1105(h) of title 31,United States Code, then any Senator may move to discharge the Committee of any single medicare funding legislation measure. Only one such motion shall be in order in any session of Congress.
+In general.—If the Committee on Finance has not reported medicare funding legislation described in subsection (c)(1) by June 30 of a year in which the President is required to submit medicare funding legislation to Congress under section 1105(h) of title 31, United States Code, then any Senator may move to discharge the Committee of any single medicare funding legislation measure. Only one such motion shall be in order in any session of Congress.
 
 &emsp;"(2)
 
@@ -870,7 +922,7 @@ Report.—Not later than October 1, 1988, the Secretary of the department in whi
 
 #### Water and Sewer Services Furnished to Government Facilities in District of Columbia
 
-Pub. L. 100–202, §101(c) \[title I, §136\], Dec. 22, 1987, 101 Stat. 1329–90, 1329–102, provided that: "After the effective date of this Joint Resolution \[Dec. 22, 1987\], the President shall include, without change, in each annual budget submitted to the Congress under section 1105 of title 31, United States Code, the values estimated by the Mayor of the District of Columbia for water and water services and sanitary sewer services furnished to facilities of the United States Government under sections 106 and 212 of the District of Columbia Public Works Act of 1954, as amended (D.C. Code, sections 43–1552, 43–1612)."
+Pub. L. 100–202, §101(c) \[title I, §136\], Dec. 22, 1987, 101 Stat. 1329–90, 1329–102, provided that: "After the effective date of this Joint Resolution \[Dec. 22, 1987\], the President shall include, without change, in each annualbudget submitted to the Congress under section 1105 of title 31, United States Code, the values estimated by the Mayor of the District of Columbia for water and water services and sanitary sewer services furnished to facilities of the United States Government under sections 106 and 212 of the District of Columbia Public Works Act of 1954, as amended (D.C. Code, sections 43–1552, 43–1612)."
 
 #### Two-Year Budget Cycle for Department of Defense
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the waiver is made in accordance with standards which the authorized official shall prescribe; or
 
-&emsp;(3) the Director of the Administrative Office of the United States Courts when the claim is in an amount aggregating not more than $10,000 and involves an officer or employee of the Administrative Office of the United StatesCourts, the Federal Judicial Center, or any of the courts set forth in section 610 of title 28.
+&emsp;(3) the Director of the Administrative Office of the United States Courts when the claim is in an amount aggregating not more than $10,000 and involves an officer or employee of the Administrative Office of the United States Courts, the Federal Judicial Center, or any of the courts set forth in section 610 of title 28.
 
 (b) The authorized official or the head of the agency, as the case may be, may not exercise his authority under this section to waive any claim—
 

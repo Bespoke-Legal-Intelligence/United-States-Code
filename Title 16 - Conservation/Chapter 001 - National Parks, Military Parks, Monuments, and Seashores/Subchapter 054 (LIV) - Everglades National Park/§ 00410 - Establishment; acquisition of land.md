@@ -76,7 +76,7 @@ Park.—The term 'Park' means the Everglades National Park, including any additi
 
 &emsp;"(6)
 
-Permit.—The term 'permit', unless otherwise specified, means any federally issued permit, license, certificate of public convenience and necessity, or other permission of any kind.
+Permit.—The term 'permit', unless otherwise specified, means any federally issued permit, license,certificate of public convenience and necessity, or other permission of any kind.
 
 &emsp;"(7)
 
@@ -84,7 +84,7 @@ Secretary.—The term 'Secretary' means the Secretary of the Interior or the des
 
 &emsp;"(8)
 
-South florida ecosystem.—The term 'South Florida ecosystem' has the meaning given that termin section 528(a)(4) of the Water Resources Development Act of 1996 (Public Law 104–303) \[110 Stat. 3767\].
+South florida ecosystem.—The term 'South Florida ecosystem' has the meaning given that term in section 528(a)(4) of the Water Resources Development Act of 1996 (Public Law 104–303) \[110 Stat. 3767\].
 
 &emsp;"(9)
 
@@ -208,11 +208,11 @@ Water quality standards.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Not later than 12 months after the date of the enactment of this Act \[Oct. 30, 1998\], the Tribe shall adopt and comply with water quality standards within the MRA that are at least as protective as the water quality standards for the area encompassed by Everglades National Park approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.).
+In general.—Not later than 12 months after the date of the enactment of this Act \[Oct.30, 1998\], the Tribe shall adopt and comply with water quality standards within the MRA that are at least as protective as the water quality standards for the area encompassed by Everglades National Park approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.).
 
 &emsp;&emsp;&emsp;"(ii)
 
-Tribal water quality standards.—The Tribe may not adopt water quality standards forthe MRA under clause (i) that are more restrictive than the water quality standards adopted by the Tribe for contiguous reservation lands that are not within the Park.
+Tribal water quality standards.—The Tribe may not adopt water quality standards for the MRA under clause (i) that are more restrictive than the water quality standards adopted by the Tribe for contiguous reservation lands that are not within the Park.
 
 &emsp;&emsp;&emsp;"(iii)
 
@@ -338,7 +338,7 @@ Use of easements.—At the discretion of the Secretary, the Secretary may use th
 
 &emsp;"(4)
 
-Additional requirements.—In addition to providing for the easements specified in paragraph (1), the Tribe shall not impair or impede the continued function of the water control structures designated as 'S–12A' and 'S–12B', located north of the MRA on the Tamiami Trail and any existing water flow ways under the Old Tamiami Trail.
+Additional requirements.—In addition to providing for the easements specified in paragraph (1),the Tribe shall not impair or impede the continued function of the water control structures designated as 'S–12A' and 'S–12B', located north of the MRA on the Tamiami Trail and any existing water flow ways under the Old Tamiami Trail.
 
 &emsp;"(5)
 
@@ -478,7 +478,7 @@ Tribe held harmless.—Notwithstanding any other provision of law, the Tribe and
 
 "(g)
 
-Cooperative Agreements.—Nothing in this Act shall alter the authority of the Secretary and the Tribe to enter into any cooperative agreement, including any agreement concerning law enforcement, emergency response, or resource management.
+Cooperative Agreements.—Nothing in this Act shall alter the authority of the Secretary and the Tribeto enter into any cooperative agreement, including any agreement concerning law enforcement, emergency response, or resource management.
 
 "(h)
 

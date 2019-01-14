@@ -14,5 +14,5 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–315 amended section generally. Prior to amendment, text read as follows: "There shall be in the Department an Office of Postsecondary Education, to be administered by the Assistant Secretary for Postsecondary Education appointed under section 3412(b) of this title. The Assistant Secretary shall administer such functions affecting postsecondary education, both public and private, as the Secretary shall delegate, and shall serve as the principal adviser to the Secretary on matters affecting public and private postsecondary education."
+<b>2008</b>—Pub. L. 110–315 amended section generally. Prior to amendment, text read as follows: "There shall be inthe Department an Office of Postsecondary Education, to be administered by the Assistant Secretary for Postsecondary Education appointed under section 3412(b) of this title. The Assistant Secretary shall administer such functions affecting postsecondary education, both public and private, as the Secretary shall delegate, and shall serve as the principal adviser to the Secretary on matters affecting public and private postsecondary education."
 

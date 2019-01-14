@@ -20,7 +20,7 @@ The district courts of the United States shall have jurisdiction over civil acti
 
 #### (2) Service of process
 
-&emsp;In any such civil action process may be served on a defendant wherever the defendantmay reside or may be found, whether the defendant resides or may be found within the United States or elsewhere.
+&emsp;In any such civil action process may be served on a defendant wherever the defendant may reside or may be found, whether the defendant resides or may be found within the United States or elsewhere.
 
 (Pub. L. 105–277, div. I, title V, §502, Oct. 21, 1998, 112 Stat. 2681–885.)
 

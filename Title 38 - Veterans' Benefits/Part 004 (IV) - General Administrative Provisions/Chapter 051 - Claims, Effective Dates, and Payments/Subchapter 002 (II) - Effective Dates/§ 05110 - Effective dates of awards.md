@@ -4,7 +4,7 @@
 
 (2) For purposes of determining the effective date of an award under this section, the date of application shall be considered the date of the filing of the initial application for a benefit if the claim is continuously pursued by filing any of the following, either alone or in succession:
 
-&emsp;(A) A request for higher-level review under section 5104B of this title on or before the date that is one year after the date on which the agency of original jurisdiction issues a decision.
+&emsp;(A) A request for higher-level review under section 5104B of this title on or before the datethat is one year after the date on which the agency of original jurisdiction issues a decision.
 
 &emsp;(B) A supplemental claim under section 5108 of this title on or before the date that is one year after the date on which the agency of original jurisdiction issues a decision.
 
@@ -18,7 +18,7 @@
 
 (b)(1) The effective date of an award of disability compensation to a veteran shall be the day following the date of the veteran's discharge or release if application therefor is received within one year from such date of discharge or release.
 
-(2)(A) The effective date of an award of disability compensation to a veteran who submits an application therefor that sets forth an original claim that is fully-developed (as determined by the Secretary) as of the date of submittal shallbe fixed in accordance with the facts found, but shall not be earlier than the date that is one year before the date of receipt of the application.
+(2)(A) The effective date of an award of disability compensation to a veteran who submits an application therefor that sets forth an original claim that is fully-developed (as determined by the Secretary) as of the date of submittal shall be fixed in accordance with the facts found, but shall not be earlier than the date that is one year before the date of receipt of the application.
 
 (B) For purposes of this paragraph, an original claim is an initial claim filed by a veteran for disability compensation.
 
@@ -44,13 +44,13 @@
 
 (h) Where an award of pension has been deferred or pension has been awarded at a rate based on anticipated income for a year and the claimant later establishes that income for that year was at a rate warranting entitlement or increased entitlement, the effective date of such entitlement or increase shall be fixed in accordance with the facts found if satisfactory evidence is received before the expiration of the next calendar year.
 
-(i) Whenever any disallowed claim is readjudicated and thereafter allowed on the basis of new and relevant evidence resulting from the correction of the military records of the proper service department under section 1552 of title 10, or the change, correction, or modification of a discharge or dismissal under section 1553 of title 10, or from other corrective action by competent authority, the effective date of commencement of the benefits so awarded shall be the date on which an application was filed for correction of the military record or for the change, modification, or correction of a discharge or dismissal, as the case may be, or the date such disallowed claim was filed, whichever date is the later, but in no event shall such award of benefits be retroactive for more than one year from the date of readjudication of such disallowed claim. This subsection shall not apply to any application or claim for Government life insurance benefits.
+(i) Whenever any disallowed claim is readjudicated and thereafter allowed on the basis of new and relevant evidence resulting from the correction of the military records of the proper service department under section 1552 of title 10, or the change, correction, or modification of a discharge or dismissal under section 1553 of title 10, or from other corrective action by competent authority, the effective date of commencement of the benefits so awarded shall be the date on which an application was filed for correction ofthe military record or for the change, modification, or correction of a discharge or dismissal, as the case may be, or the date such disallowed claim was filed, whichever date is the later, but in no event shall such award of benefits be retroactive for more than one year from the date of readjudication of such disallowed claim. This subsection shall not apply to any application or claim for Government life insurance benefits.
 
 (j) Where a report or a finding of death of any person in the active military, naval, or air service has been made by the Secretary concerned, the effective date of an award of death compensation, dependency and indemnity compensation, or death pension, as applicable, shall be the first day of the month fixed by that Secretary as the month of death in such report or finding, if application therefor is received within one year from the date such report or finding has been made; however, such benefits shall not be payable to any person for any period for which such person has received, or was entitled to receive, an allowance, allotment, or service pay of the deceased.
 
 (k) The effective date of the award of benefits to a surviving spouse or of an award or increase of benefits based on recognition of a child, upon annulment of a marriage shall be the date the judicial decree of annulment becomes final if a claim therefor is filed within one year from the date the judicial decree of annulment becomes final; in all other cases the effective date shall be the date the claim is filed.
 
-(l) The effective date of an award of benefits to a surviving spouse based upon a termination of a remarriage by death or divorce, or of an award or increase of benefits based on recognition of achild upon termination of the child's marriage by death or divorce, shall be the date of death or the date the judicial decree or divorce becomes final, if an application therefor is received within one year from such termination.
+(l) The effective date of an award of benefits to a surviving spouse based upon a termination of a remarriage by death or divorce, or of an award or increase of benefits based on recognition of a child upon termination of the child's marriage by death or divorce, shall be the date of death or the date the judicial decree or divorce becomes final, if an application therefor is received within one year from such termination.
 
 \[(m) Repealed. Pub. L. 103–446, title XII, §1201(i)(8), Nov. 2, 1994, 108 Stat. 4688.\]
 

@@ -18,7 +18,7 @@
 
 &emsp;(2) contracting in accordance with such regulations as the Secretary shall prescribe for such insurance, medical service, or health plans as the Secretary deems appropriate.
 
-> In cases in which Department medical facilities are equipped to provide the care and treatment,the Secretary is also authorized to carry out such purposes through the use of such facilities not being utilized for the care of eligible veterans. A dependent or survivor receiving care under the preceding sentence shall be eligible for the same medical services as a veteran, including services under sections 1782 and 1783 of this title.
+> In cases in which Department medical facilities are equipped to provide the care and treatment, the Secretary is also authorized to carry out such purposes through the use of such facilities not being utilized for the care of eligible veterans. A dependent or survivor receiving care under the preceding sentence shall be eligible for the same medical services as a veteran, including services under sections 1782 and 1783 of this title.
 
 (c) For the purposes of this section, a child between the ages of eighteen and twenty-three (1) who is eligible for benefits under subsection (a) of this section, (2) who is pursuing a full-time course of instruction at an educational institution approved under chapter 36 of this title, and (3) who, while pursuing such course of instruction, incurs a disabling illness or injury (including a disabling illness or injury incurred between terms, semesters, or quarters or during a vacation or holiday period) which is not the result of such child's own willful misconduct and which results in such child's inability to continue or resume such child's chosen program of education at an approved educational institution shall remain eligible for benefits under this section until the end of the six-month period beginning on the date the disability is removed, the end of the two-year period beginning on the date of the onset of the disability, or the twenty-third birthday of the child, whichever occurs first.
 
@@ -30,7 +30,7 @@
 
 &emsp;(ii) is not enrolled in the supplementary medical insurance program under part B of the medicare program as of that date.
 
-(2) Subject to paragraph (3), if an individual described in paragraph (1) receives medical care for which payment may be made under both this section and the medicare program, the amount payable for such medical care under this section shall be the amount by which (A) the costs for such medical care exceed (B) the sum of—
+(2) Subject to paragraph (3), if an individual described in paragraph (1) receives medical care for which payment may be made under both thissection and the medicare program, the amount payable for such medical care under this section shall be the amount by which (A) the costs for such medical care exceed (B) the sum of—
 
 &emsp;(i) the amount payable for such medical care under the medicare program; and
 
@@ -78,7 +78,7 @@ Subsec. (d)(4). Pub. L. 107–330, §308(g)(8)(B), substituted "subsection" for 
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator" in introductory provisions.
 
-Subsec. (b). Pub. L. 102–83, §4(b)(2)(B), substituted "that Secretary" for second and third references to"the Secretary" and "the Secretary of Defense" for last reference to "the Secretary" in par. (1).
+Subsec. (b). Pub. L. 102–83, §4(b)(2)(B), substituted "that Secretary" for second and third references to "the Secretary" and "the Secretary of Defense" for last reference to "the Secretary" in par. (1).
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator" wherever appearing in introductory and concluding provisions and in par. (2).
 

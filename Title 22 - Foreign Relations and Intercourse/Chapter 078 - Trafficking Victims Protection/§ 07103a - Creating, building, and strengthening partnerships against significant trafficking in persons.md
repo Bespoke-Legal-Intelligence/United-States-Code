@@ -30,7 +30,7 @@ The Secretary of State, acting through the Director established pursuant to sect
 
 &emsp;&emsp;(A) prevent and respond to violence, exploitation, and abuse against children; and
 
-&emsp;&emsp;(B) measurably reduce the trafficking of minors by building sustainable and effectivesystems of justice, prevention, and protection.
+&emsp;&emsp;(B) measurably reduce the trafficking of minors by building sustainable and effective systems of justice, prevention, and protection.
 
 #### (2) Elements
 

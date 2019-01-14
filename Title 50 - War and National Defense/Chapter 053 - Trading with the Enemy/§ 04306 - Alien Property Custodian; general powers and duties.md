@@ -78,7 +78,7 @@ WHEREAS the blocking controls not exercised by the Attorney General under Execut
 
 WHEREAS the Office of Alien Property, through which the Attorney General carries out or has carried out the various responsibilities described above, will be abolished on or before June 30, 1966, and the Attorney General thereafter will not be in a position to administer blocking controls under Executive Order No. 8389 efficiently; and
 
-WHEREAS in the interest of efficiency it is desirable to return to the Secretary of the Treasury jurisdiction over the property and interests remaining subject to such blocking controls:
+WHEREAS in the interest of efficiency it is desirable to return to the Secretary of the Treasury jurisdictionover the property and interests remaining subject to such blocking controls:
 
 NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and the laws of the United States, including the Trading with the Enemy Act, as amended \[50 U.S.C. 4301 et seq.\], Title II of the International Claims Settlement Act of 1949 \[22 U.S.C. 1631 et seq.\] and section 301 of Title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 

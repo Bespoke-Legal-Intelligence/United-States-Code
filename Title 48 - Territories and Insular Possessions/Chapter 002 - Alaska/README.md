@@ -342,7 +342,7 @@ Sec. 10. \[National Housing Act; amendment.\] The National Housing Act is amende
 
 "
 
-Sec. 11. \[Coast Guard; amendment.\] Title 14, United States Code, section 634(b), is amended by striking out the words 'and for the territory of' in both places where they appear therein.
+Sec. 11. \[Coast Guard; amendment.\] Title 14, United States Code, \[former\] section 634(b), is amended by striking out the words 'and for the territory of' in both places where they appear therein.
 
 "
 

@@ -40,7 +40,7 @@ For purposes of this subchapter—
 
 &emsp;Notwithstanding the definition of "child" in section 3(1),<sup>1</sup> a State may elect to define that term for purposes of the application of paragraph (1) to section 3(2) <sup>1</sup> and subsection (a)(4) as a person who has not attained the age of 24.
 
-(Pub. L. 93–247, title I, §111, formerly §14, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 116; renumbered title I, §113, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(7), Oct. 25, 1989, 103 Stat. 764, 765; renumbered §111 and amended Pub. L. 104–235, title I, §§110, 113(a)(1)(B), Oct. 3, 1996, 110 Stat. 3078, 3079; Pub. L. 111–320, title I, §§119, 142(b), Dec. 20, 2010, 124 Stat. 3477, 3483; Pub. L. 114–22, title VIII, §802(c)(1), (3), May 29, 2015, 129 Stat. 264; Pub. L. 114–95, title IX, §9215(o), Dec. 10, 2015, 129 Stat. 2170.)
+(Pub. L. 93–247, title I, §111, formerly §14, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988,102 Stat. 116; renumbered title I, §113, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(7), Oct. 25, 1989, 103 Stat. 764, 765; renumbered §111 and amended Pub. L. 104–235, title I, §§110, 113(a)(1)(B), Oct. 3, 1996, 110 Stat. 3078, 3079; Pub. L. 111–320, title I, §§119, 142(b), Dec. 20, 2010, 124 Stat. 3477, 3483; Pub. L. 114–22, title VIII, §802(c)(1), (3), May 29, 2015, 129 Stat. 264; Pub. L. 114–95, title IX, §9215(o), Dec. 10, 2015, 129 Stat. 2170.)
 
 #### References in Text
 

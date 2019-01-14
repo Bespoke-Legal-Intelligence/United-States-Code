@@ -32,7 +32,7 @@ The Secretary of Commerce shall not disclose to any person information contained
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Commerce shall establish under section 9701 of title 31 a program for the charge of fees sufficient to cover (butnot to exceed) all costs associated with evaluating applications for certification and auditing, inspecting, and monitoring certified persons under the program. Any fees so collected shall be deposited and credited as offsetting collections to the accounts from which such costs are paid.
+&emsp;&emsp;The Secretary of Commerce shall establish under section 9701 of title 31 a program for the charge of fees sufficient to cover (but not to exceed) all costs associated with evaluating applications for certification and auditing, inspecting, and monitoring certified persons under the program. Any fees so collected shall be deposited and credited as offsetting collections to the accounts from which such costs are paid.
 
 #### (B) Report
 

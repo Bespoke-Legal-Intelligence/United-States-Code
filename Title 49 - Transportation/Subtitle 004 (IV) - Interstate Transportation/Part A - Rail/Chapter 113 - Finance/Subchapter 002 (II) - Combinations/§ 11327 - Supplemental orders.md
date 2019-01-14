@@ -1,10 +1,14 @@
 ### §11327. Supplemental orders
 
-When cause exists, the Board may make appropriate orders supplemental to an order made in a proceeding under sections 11322 through 11326 of this title.
+When cause exists, the Board may make appropriate orders supplemental to an order madein a proceeding under sections 11322 through 11326 of this title.
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 843.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11351 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

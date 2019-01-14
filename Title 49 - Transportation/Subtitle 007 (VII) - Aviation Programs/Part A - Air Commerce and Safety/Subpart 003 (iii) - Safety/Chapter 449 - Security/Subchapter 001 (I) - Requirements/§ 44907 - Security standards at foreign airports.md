@@ -18,7 +18,7 @@ Assessment.—(1) At intervals the Secretary of Transportation considers necessa
 
 &emsp;(A) in consultation with appropriate aeronautic authorities of the government of a foreign country concerned and each air carrier serving the foreign airport for which the Secretary is conducting the assessment;
 
-&emsp;(B) to establish the extent to which a foreign airport effectively maintains and carries out security measures; and
+&emsp;(B) to establish the extent to which a foreign airport effectively maintains and carries out security measures, including the screening and vetting of airport workers; and
 
 &emsp;(C) by using a standard that will result in an analysis of the security measures at the airport based at least on the standards and appropriate recommended practices contained in Annex 17 to the Convention on International Civil Aviation in effect on the date of the assessment.
 
@@ -50,7 +50,7 @@ Actions When Airports Not Maintaining and Carrying Out Effective Security Measur
 
 &emsp;(B) each air carrier and foreign air carrier providing transportation between the United States and the airport shall provide written notice of the decision, on or with the ticket, to each passenger buying a ticket for transportation between the United States and the airport;
 
-&emsp;(C) notwithstanding section 40105(b) of this title, the Secretary of Transportation, after consulting with the appropriate aeronautic authorities of the foreign country concerned and each air carrier serving the airport and with the approval of the Secretary of State, may withhold, revoke, or prescribe conditions on the operating authority of an air carrier or foreign air carrier that uses that airport to provide foreign air transportation; and
+&emsp;(C) notwithstanding section 40105(b) of this title, the Secretary of Transportation, after consulting with the appropriate aeronautic authorities of the foreign country concerned and each air carrier serving the airport and with the approval of the Secretary of State,may withhold, revoke, or prescribe conditions on the operating authority of an air carrier or foreign air carrier that uses that airport to provide foreign air transportation; and
 
 &emsp;(D) the President may prohibit an air carrier or foreign air carrier from providing transportation between the United States and any other foreign airport that is served by aircraft flying to or from the airport with respect to which a decision is made under this section.
 
@@ -78,7 +78,7 @@ Suspensions.—Notwithstanding sections 40105(b) and 40106(b) of this title, the
 
 Condition of Carrier Authority.—This section is a condition to authority the Secretary of Transportation grants under this part to an air carrier or foreign air carrier.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1209.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1209; Pub. L. 115–254, div. K, title I, §1954, Oct. 5, 2018, 132 Stat. 3595.)
 
 Historical and Revision Notes
 
@@ -157,4 +157,58 @@ In subsection (d)(4), the words "An action required . . . is no longer require
 In subsection (e), before clause (1), the word "provide" is substituted for "engage in" for consistency in the revised title.
 
 In subsection (f), the words "issued under authority vested in" are omitted as surplus.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(2)(B). Pub. L. 115–254 inserted ", including the screening and vetting of airport workers" after "security measures".
+
+#### Last Point of Departure Airports; Security Directives
+
+Pub. L. 115–254, div. K, title I, §1953, Oct. 5, 2018, 132 Stat. 3594, provided that:
+
+"(a)
+
+Notice and Consultation.—
+
+&emsp;"(1)
+
+In general.—The Administrator \[of the Transportation Security Administration\] shall, to the maximum extent practicable, consult and notify the following stakeholders prior to making changes to security standards via security directives and emergency amendments for last points of departure:
+
+&emsp;&emsp;"(A) Trade association representatives, for affected air carriers and airports, who hold the appropriate security clearances.
+
+&emsp;&emsp;"(B) The head of each relevant Federal department or agency, including the Administrator of the Federal Aviation Administration.
+
+&emsp;"(2)
+
+Transmittal to congress.—Not later than 3 days after the date that the Administrator issues a security directive or emergency amendment for a last point of departure, the Administrator shall transmit to the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] a description of the extent to which the Administrator consulted and notified the stakeholders under paragraph (1).
+
+"(b)
+
+GAO Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], the Comptroller General of the United States shall review the effectiveness of the TSA \[Transportation Security Administration\] process to update, consolidate, or revoke security directives, emergency amendments, and other policies related to international aviation security at last point of departure airports and submit to the appropriate committees of Congress and the Administrator a report on the findings and recommendations.
+
+&emsp;"(2)
+
+Contents.—In conducting the review under paragraph (1), the Comptroller General shall—
+
+&emsp;&emsp;"(A) review current security directives, emergency amendments, and any other policies related to international aviation security at last point of departure airports;
+
+&emsp;&emsp;"(B) review the extent of intra-agency and interagency coordination, stakeholder outreach, coordination, and feedback; and
+
+&emsp;&emsp;"(C) review TSA's process and criteria for, and implementation of, updating or revoking the policies described in subparagraph (A).
+
+"(c)
+
+Rescreening.—Subject to section 44901(d)(4)(c) \[sic\] of title 49, United States Code, upon discovery of specific threat intelligence, the Administrator shall immediately direct TSA personnel to rescreen passengers and baggage arriving from an airport outside the United States and identify enhanced measures that should be implemented at that airport.
+
+"(d)
+
+Notification to Congress.—Not later than 1 day after the date that the Administrator determines that a foreign air carrier is in violation of part 1546 of title 49, Code of Federal Regulations, or any other applicable security requirement, the Administrator shall notify the appropriate committees of Congress.
+
+"(e)
+
+Decisions Not Subject to Judicial Review.—Notwithstanding any other provision of law, any decision of the Administrator under subsection (a)(1) relating to consultation or notification shall not be subject to judicial review."
 

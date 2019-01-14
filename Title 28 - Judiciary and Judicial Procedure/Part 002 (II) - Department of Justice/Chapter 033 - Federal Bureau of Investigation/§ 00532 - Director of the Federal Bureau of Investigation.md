@@ -50,7 +50,7 @@ National Intelligence Workforce.—(1) In developing and maintaining a national 
 
 &emsp;"(B) in furtherance of the requirement under subparagraph (A) and to the maximum extent practicable, afford agents, analysts, and related personnel of the Bureau the opportunity to work in the career specialty selected by such agents, analysts, and related personnel over their entire career with the Bureau.
 
-"(5) The Director shall carry out a program to enhance the capacity of the Bureau to recruit and retain individuals with backgrounds in intelligence, international relations, language, technology, and otherskills relevant to the intelligence mission of the Bureau.
+"(5) The Director shall carry out a program to enhance the capacity of the Bureau to recruit and retain individuals with backgrounds in intelligence, international relations, language, technology, and other skills relevant to the intelligence mission of the Bureau.
 
 "(6) The Director shall, to the maximum extent practicable, afford the analysts of the Bureau training and career opportunities commensurate with the training and career opportunities afforded analysts in other elements of the intelligence community.
 
@@ -88,7 +88,7 @@ Budget Matters.—The Director of the Federal Bureau of Investigation shall esta
 
 Reports.—(1) Not later than 180 days after the date of the enactment of this Act \[Dec. 17, 2004\], the Director of the Federal Bureau of Investigation shall submit to Congress a report on the progress made as of the date of such report in carrying out the requirements of this section.
 
-"(2) The Director shall include in each annual program review of the Federal Bureau of Investigation that is submitted to Congress a report on the progress made by each field office of the Bureau during the period covered by such review in addressing Bureau and national program priorities.
+"(2) The Director shall include in each annual program review of the Federal Bureau of Investigationthat is submitted to Congress a report on the progress made by each field office of the Bureau during the period covered by such review in addressing Bureau and national program priorities.
 
 "(3) Not later than 180 days after the date of the enactment of this Act, and every 12 months thereafter, the Director shall submit to Congress a report on the progress of the Bureau in implementing information-sharing principles.
 
@@ -212,7 +212,7 @@ Pub. L. 102–183, title V, §501, Dec. 4, 1991, 105 Stat. 1268, provided that:
 
 "(a)
 
-Study.—The Director of the Federal Bureau of Investigation shall conduct a study relative to the establishment of an undergraduate training program with respect to employees of the Federal Bureau of Investigation that is similar in purpose, conditions, content, and administration to undergraduate training programs administered by the Central Intelligence Agency (under section 8 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j) \[now 50 U.S.C. 3510\]), the National Security Agency (under section 16 of the National Security Agency Act of 1959 (50 U.S.C. 402 (note)) \[now 50 U.S.C. 3614\]\[)\], and the Defense Intelligence Agency (under section 1608 \[now 1623\] of title 10, United States Code).
+Study.—The Director of the Federal Bureau of Investigation shall conduct a study relative to the establishment of an undergraduate training program with respect to employees of the Federal Bureau of Investigation that is similar in purpose, conditions, content, and administration to undergraduate training programs administered by the Central Intelligence Agency (under section 8 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j) \[now 50 U.S.C. 3510\]), the National Security Agency (under section 16 of theNational Security Agency Act of 1959 (50 U.S.C. 402 (note)) \[now 50 U.S.C. 3614\]\[)\], and the Defense Intelligence Agency (under section 1608 \[now 1623\] of title 10, United States Code).
 
 "(b)
 

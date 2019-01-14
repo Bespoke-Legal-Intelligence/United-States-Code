@@ -1,0 +1,42 @@
+### §4816. Compliance assistance
+
+#### (a) System for seeking assistance
+
+The President may authorize the Secretary to establish a system to provide United States persons with assistance in complying with this subchapter, which may include a mechanism for providing information, in classified form as appropriate, who <sup>1</sup> are potential customers, suppliers, or business partners with respect to items controlled under this subchapter, in order to further ensure the prevention of the export, reexport, or in-country transfer of items that may pose a threat to the national security or foreign policy of the United States.
+
+#### (b) Security clearances
+
+In order to carry out subsection (a), the President may issue appropriate security clearances to persons described in that subsection who are responsible for complying with this subchapter.
+
+#### (c) Assistance for certain businesses
+
+#### (1) In general
+
+&emsp;Not later than 120 days after August 13, 2018, the President shall develop and submit to Congress a plan to assist small- and medium-sized United States businesses in export licensing and other processes under this subchapter.
+
+#### (2) Contents
+
+&emsp;The plan shall include, among other things, arrangements for the Department of Commerce to provide counseling to businesses described in paragraph (1) on filing applications and identifying items controlled under this subchapter, as well as proposals for seminars and conferences to educate such businesses on export controls, licensing procedures, and related obligations.
+
+(Pub. L. 115–232, div. A, title XVII, §1757, Aug. 13, 2018, 132 Stat. 2218.)
+
+#### References in Text
+
+This subchapter, referred to in text, was in the original "this part", meaning part I (§§1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under section 4801 of this title and Tables.
+
+#### Delegation of Authorities Under Section 1757 of the National Defense Authorization Act for Fiscal Year 2019
+
+Memorandum of President of the United States, Nov. 26, 2018, 83 F.R. 61503, provided:
+
+Memorandum for the Secretary of Commerce
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of Commerce the functions and authorities vested in the President by section 1757 of the \[John S. McCain\] National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) \[50 U.S.C. 4816\].
+
+The delegation in this memorandum shall apply to any provision of any future public law that is the same or substantially the same as the provision referenced in this memorandum.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original.</i>
+

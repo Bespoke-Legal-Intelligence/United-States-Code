@@ -10,5 +10,5 @@ Section effective 150 days after Aug. 14, 1976, see section 143 of Pub. L. 94–
 
 #### Transfer of Functions
 
-Functions assigned to Director of Office of Energy Information and Analysis under this subchapter vested inAdministrator of Energy Information Administration within Department of Energy by section 7135(c) of Title 42, The Public Health and Welfare.
+Functions assigned to Director of Office of Energy Information and Analysis under this subchapter vested in Administrator of Energy Information Administration within Department of Energy by section 7135(c) of Title 42, The Public Health and Welfare.
 

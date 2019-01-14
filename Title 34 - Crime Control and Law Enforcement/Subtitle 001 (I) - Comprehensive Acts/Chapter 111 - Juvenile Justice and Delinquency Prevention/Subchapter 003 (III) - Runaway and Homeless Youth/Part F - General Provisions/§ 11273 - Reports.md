@@ -56,7 +56,7 @@ A prior section 382 of Pub. L. 93–415 was renumbered section 383 and is classi
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–204, §1003(1), substituted "submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senate" for "report to the Congress".
 
-Subsec. (b). Pub. L. 101–204, §1003(2), substituted "Not later than 180 days after the end of each fiscal year, the Secretary shall submit a report to the Committee onEducation and Labor of the House of Representatives and the Committee on the Judiciary of the Senate" for "The Secretary shall annually report to the Congress".
+Subsec. (b). Pub. L. 101–204, §1003(2), substituted "Not later than 180 days after the end of each fiscal year, the Secretary shall submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senate" for "The Secretary shall annually report to the Congress".
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–690, §§7271(c)(5), 7273(c)(1), (2), 7274, designated existing provisions as subsec. (a), in introductory provisions substituted "Not later than 180 days after the end of each fiscal year, the Secretary shall" for "The Secretary shall annually", "runaway and homeless youth centers" for "runaway centers", and "part A of this subchapter" for "this part", and in par. (1) substituted "runaway and homeless youth" for "runaway youth".
 

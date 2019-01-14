@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than March 1, 2010, the Secretary of Health and Human Services (in this sectionreferred to as the "Secretary") shall establish a Federal Coordinated Health Care Office.
+&emsp;Not later than March 1, 2010, the Secretary of Health and Human Services (in this section referred to as the "Secretary") shall establish a Federal Coordinated Health Care Office.
 
 #### (2) Establishment and reporting to CMS administrator
 
@@ -46,7 +46,7 @@ The goals of the Federal Coordinated Health Care Office are as follows:
 
 The specific responsibilities of the Federal Coordinated Health Care Office are as follows:
 
-&emsp;(1) Providing States, specialized MA plans for special needs individuals (as defined in section 1859(b)(6) of the Social Security Act (42 U.S.C. 1395w–28(b)(6))), physicians and other relevant entities or individuals with the education and tools necessary for developing programs that align benefits under the Medicare and Medicaid programs for dual eligible individuals.
+&emsp;(1) Providing States, specialized MA plans for special needs individuals (as defined in section 1859(b)(6) of the Social Security Act (42 U.S.C. 1395w–28(b)(6))), physicians and otherrelevant entities or individuals with the education and tools necessary for developing programs that align benefits under the Medicare and Medicaid programs for dual eligible individuals.
 
 &emsp;(2) Supporting State efforts to coordinate and align acute care and long-term care services for dual eligible individuals with other items and services furnished under the Medicare program.
 
@@ -56,6 +56,12 @@ The specific responsibilities of the Federal Coordinated Health Care Office are 
 
 &emsp;(5) To study the provision of drug coverage for new full-benefit dual eligible individuals (as defined in section 1935(c)(6) of the Social Security Act (42 U.S.C. 1396u–5(c)(6)),<sup>3</sup> as well as to monitor and report annual total expenditures, health outcomes, and access to benefits for all dual eligible individuals.
 
+&emsp;(6) To act as a designated contact for States under subsection (f)(8)(A) of section 1859 of the Social Security Act (42 U.S.C. 1395w–28) with respect to the integration of specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) of such section.
+
+&emsp;(7) To be responsible, subject to the final approval of the Secretary, for developing regulations and guidance related to the implementation of a unified grievance and appeals process as described in subparagraphs (B) and (C) of section 1859(f)(8) of the Social Security Act (42 U.S.C. 1395w–28(f)(8)).
+
+&emsp;(8) To be responsible, subject to the final approval of the Secretary, for developing regulations and guidance related to the integration or alignment of policy and oversight under the Medicare program under title XVIII of such Act \[42 U.S.C. 1395 et seq.\] and the Medicaid program under title XIX of such Act \[42 U.S.C. 1396 et seq.\] regarding specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) of such section 1859.
+
 #### (e) Report
 
 The Secretary shall, as part of the budget transmitted under section 1105(a) of title 31, submit to Congress an annual report containing recommendations for legislation that would improve care coordination and benefits for dual eligible individuals.
@@ -64,15 +70,19 @@ The Secretary shall, as part of the budget transmitted under section 1105(a) of 
 
 In this section, the term "dual eligible individual" means an individual who is entitled to, or enrolled for, benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\], or enrolled for benefits under part B of title XVIII of such Act \[42 U.S.C. 1395j et seq.\], and is eligible for medical assistance under a State plan under title XIX of such Act or under a waiver of such plan.
 
-(Pub. L. 111–148, title II, §2602, Mar. 23, 2010, 124 Stat. 315.)
+(Pub. L. 111–148, title II, §2602, Mar. 23, 2010, 124 Stat. 315; Pub. L. 115–123, div. E, title III, §50311(b)(2), Feb. 9, 2018, 132 Stat. 196.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b), (d)(4), and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of this chapter. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of this chapter. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (b), (d)(4), (8), and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of this chapter. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of this chapter. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Social Security Act which comprises this chapter.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (d)(6) to (8). Pub. L. 115–123 added pars. (6) to (8).
 
 <i><sup>1</sup></i><i> So in original.</i>
 

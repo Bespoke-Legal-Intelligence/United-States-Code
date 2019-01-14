@@ -12,7 +12,7 @@
 
 #### (3) Crediting certain periods of separation
 
-&emsp;A participant or former participant who returns to Government duty after a period of separation shall have included in the participant or former participant's period of service that part of the period of separation in which the participant or former participant was receiving benefits under chapter 81 of title 5.
+&emsp;A participant or former participant who returns to Government duty after a period ofseparation shall have included in the participant or former participant's period of service that part of the period of separation in which the participant or former participant was receiving benefits under chapter 81 of title 5.
 
 #### (b) Extra credit for periods served at unhealthful posts overseas
 
@@ -33,4 +33,8 @@
 #### Prior Provisions
 
 A prior section 251 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050; Pub. L. 94–522, title II, §210, Oct. 17, 1976, 90 Stat. 2471; Pub. L. 99–169, title VII, §702, Dec. 4, 1985, 99 Stat. 1008; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to computation of length of service and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Effective Date
+
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.
 

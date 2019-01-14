@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (B) S corporations
 
-&emsp;&emsp;In the case of an S corporation, net income shall be the amount (not below zero) determined by taking into account the aggregate amount of the S corporation's items described in section 1366(a) (other than credits and tax-exempt income). If the S corporation was a C corporation for the base year, its taxable income for such year shall be treated as its net income for such year (and such corporation shall be treated as an S corporation for such taxable year for purposes of paragraph (3)).
+&emsp;&emsp;In the case of an S corporation, net income shall be the amount (not below zero) determined by taking into account the aggregate amount of the S corporation's items described in section 1366(a) (other than credits and tax-exempt income). If the S corporation was a C corporation for the base year, its taxable income for such year shall be treated as its net income for such year (andsuch corporation shall be treated as an S corporation for such taxable year for purposes of paragraph (3)).
 
 #### (C) Certain limitations disregarded
 
@@ -115,7 +115,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Any guaranteed payment by a partnership shall not be treated as an applicable payment, and the amount of the net income ofthe partnership shall be determined by not taking such guaranteed payment into account.
+&emsp;&emsp;Any guaranteed payment by a partnership shall not be treated as an applicable payment, and the amount of the net income of the partnership shall be determined by not taking such guaranteed payment into account.
 
 #### (B) Guaranteed payment
 
@@ -205,7 +205,7 @@ Subsec. (f)(4)(B). Pub. L. 101–239, §7721(c)(12), substituted "part II of sub
 
 <b>1988</b>—Subsec. (b)(2). Pub. L. 100–647, §2004(e)(4)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "the amount of the required payment for the preceding applicable election year."
 
-Subsec. (c). Pub. L. 100–647, §2004(e)(5), amended subsec. (c) generally. Prior to amendment, subsec. (c) readas follows: "If the amount determined under subsection (b)(2) exceeds the amount determined under subsection (b)(1), then the entity shall be entitled to a refund of such excess."
+Subsec. (c). Pub. L. 100–647, §2004(e)(5), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "If the amount determined under subsection (b)(2) exceeds the amount determined under subsection (b)(1), then the entity shall be entitled to a refund of such excess."
 
 Subsec. (d)(2)(A). Pub. L. 100–647, §2004(e)(10), substituted "(other than credits and tax-exempt income)" for "(other than credits)".
 

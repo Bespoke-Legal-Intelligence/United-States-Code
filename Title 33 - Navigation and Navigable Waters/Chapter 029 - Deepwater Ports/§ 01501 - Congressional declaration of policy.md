@@ -16,7 +16,7 @@
 
 (b) The Congress declares that nothing in this chapter shall be construed to affect the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.
 
-(Pub. L. 93–627, §2, Jan. 3, 1975, 88 Stat. 2126; Pub. L. 104–324, title V, §502(b), Oct. 19, 1996, 110 Stat. 3925; Pub. L. 107–295, title I, §106(a)(1), Nov. 25, 2002, 116 Stat. 2086.)
+(Pub. L. 93–627, §2, Jan. 3, 1975, 88 Stat. 2126; Pub. L. 104–324, title V, §502(b), Oct. 19, 1996, 110 Stat.3925; Pub. L. 107–295, title I, §106(a)(1), Nov. 25, 2002, 116 Stat. 2086.)
 
 #### Amendments
 
@@ -50,7 +50,7 @@ Pub. L. 104–324, title V, §502(a), Oct. 19, 1996, 110 Stat. 3925, provided th
 
 #### Deposit of Certain Penalties Into Oil Spill Liability Trust Fund
 
-Penalties paid pursuant to this chapter and sections 1319(c) and 1321 of this title to be deposited in the OilSpill Liability Trust Fund created under section 9509 of Title 26, Internal Revenue Code, see section 4304 of Pub. L. 101–380, set out as a note under section 9509 of Title 26.
+Penalties paid pursuant to this chapter and sections 1319(c) and 1321 of this title to be deposited in the Oil Spill Liability Trust Fund created under section 9509 of Title 26, Internal Revenue Code, see section 4304 of Pub. L. 101–380, set out as a note under section 9509 of Title 26.
 
 #### Environmental Effects Abroad of Major Federal Actions
 

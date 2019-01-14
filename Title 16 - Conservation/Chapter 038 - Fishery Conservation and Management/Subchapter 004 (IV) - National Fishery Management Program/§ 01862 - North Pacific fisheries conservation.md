@@ -50,7 +50,7 @@ The North Pacific Council may prepare, in consultation with the Secretary, a fis
 
 (3) Within 45 days of the close of the public comment period, the Secretary, in consultation with the Council, shall analyze the public comment received and publish final regulations for implementing such plan.
 
-(4) If the Secretary remands a plan or plan amendment to the Council for failure to meet the requirements of this section, the Council may resubmit such plan or plan amendment at any time after taking action the Council believes will address the defects identified by the Secretary. Any plan or plan amendment resubmitted to the Secretary will be treated as an original plan submitted to the Secretary under paragraph (1) of this subsection.
+(4) If the Secretary remands a plan or plan amendment to the Council for failure to meet the requirements of this section, the Councilmay resubmit such plan or plan amendment at any time after taking action the Council believes will address the defects identified by the Secretary. Any plan or plan amendment resubmitted to the Secretary will be treated as an original plan submitted to the Secretary under paragraph (1) of this subsection.
 
 #### (d) Fishery Observer Fund
 
@@ -114,7 +114,7 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 (7) An individual processing quota issued under the Program shall be considered a permit for the purposes of sections 1857, 1858, and 1859 of this title, and may be revoked or limited at any time in accordance with this chapter. Issuance of an individual processing quota under the program shall not confer any right of compensation to the holder of such individual processing quota if it is revoked or limited and shall not create, or be construed to create, any right, title, or interest in or to any fish before the fish is purchased from an individual fishing quota holder.
 
-(8) The restriction on the collection of economic data in section 1853 of this title shall not apply with respect to any fish processor who iseligible for, or who has received, individual processing quota under the Program. The restriction on the disclosure of information in section 1881a(b)(1) of this title shall not apply when the information is used to determine eligibility for or compliance with an individual processing quota program.
+(8) The restriction on the collection of economic data in section 1853 of this title shall not apply with respect to any fish processor who is eligible for, or who has received, individual processing quota under the Program. The restriction on the disclosure of information in section 1881a(b)(1) of this title shall not apply when the information is used to determine eligibility for or compliance with an individual processing quota program.
 
 (9) The provisions of sections 1858, 1860, and 1861 of this title shall apply to the processing facilities and fish products of any person holding individual processing quota, and the provisions of subparagraphs (D), (E), and (L) of section 1857(l) <sup>3</sup> of this title shall apply to any facility owned or controlled by a person holding individual processing quota.
 

@@ -30,20 +30,16 @@
 | [130d.](%C2%A7%2000130d%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20confidential%20information%20shared%20with%20State%20and%20local%20personnel.md) | Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel. |
 | [130e.](%C2%A7%2000130e%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20critical%20infrastructure%20security%20information.md) | Treatment under Freedom of Information Act of certain critical infrastructure security information. |
 | [130f.](%C2%A7%2000130f%20-%20Notification%20requirements%20for%20sensitive%20military%20operations.md) | Notification requirements for sensitive military operations. |
-| [130g.](%C2%A7%2000130g%20-%20Authorities%20concerning%20military%20cyber%20operations.md) | Authorities concerning military cyber operations. |
+| \[130g. | Renumbered.\] |
 | [130h.](%C2%A7%2000130h%20-%20Prohibitions%20relating%20to%20missile%20defense%20information%20and%20systems.md) | Prohibitions relating to missile defense information and systems. |
 | [130i.](%C2%A7%2000130i%20-%20Protection%20of%20certain%20facilities%20and%20assets%20from%20unmanned%20aircraft.md) | Protection of certain facilities and assets from unmanned aircraft. |
-| [130j.](%C2%A7%2000130j%20-%20Notification%20requirements%20for%20sensitive%20military%20cyber%20operations.md) | Notification requirements for sensitive military cyber operations <sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| [130k.](%C2%A7%2000130k%20-%20Notification%20requirements%20for%20cyber%20weapons.md) | Notification requirements for cyber weapons <sup>1</sup> |
+| \[130j, 130k. | Renumbered.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(a)(2), title XVI, §1631(c)(1), Aug. 13, 2018, 132 Stat. 1983, 2123, struck out item 130g "Authorities concerning military cyber operations" and made technical correction to and struck out items 130j "Notification requirements for sensitive military cyber operations" and 130k "Notification requirements for cyber weapons".
 
 <b>2017</b>—Pub. L. 115–91, div. A, title XVI, §1631(b), Dec. 12, 2017, 131 Stat. 1738, added items 130j and 130k.
 
@@ -103,8 +99,6 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 "
 
 <b>1958</b>—Pub. L. 85–861, §1(2)(B), Sept. 2, 1958, 72 Stat. 1437, added items 122 and 123.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
-
 
 ---
 
@@ -138,8 +132,7 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 "
 - [&sect; 00130d - Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel](%C2%A7%2000130d%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20confidential%20information%20shared%20with%20State%20and%20local%20personnel.md)
 - [&sect; 00130e - Treatment under Freedom of Information Act of certain critical infrastructure security information](%C2%A7%2000130e%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20critical%20infrastructure%20security%20information.md)
 - [&sect; 00130f - Notification requirements for sensitive military operations](%C2%A7%2000130f%20-%20Notification%20requirements%20for%20sensitive%20military%20operations.md)
-- [&sect; 00130g - Authorities concerning military cyber operations](%C2%A7%2000130g%20-%20Authorities%20concerning%20military%20cyber%20operations.md)
+- [&sect; 00130g - Renumbered &sect;394](%C2%A7%2000130g%20-%20Renumbered%20%C2%A7394.md)
 - [&sect; 00130h - Prohibitions relating to missile defense information and systems](%C2%A7%2000130h%20-%20Prohibitions%20relating%20to%20missile%20defense%20information%20and%20systems.md)
 - [&sect; 00130i - Protection of certain facilities and assets from unmanned aircraft](%C2%A7%2000130i%20-%20Protection%20of%20certain%20facilities%20and%20assets%20from%20unmanned%20aircraft.md)
-- [&sect; 00130j - Notification requirements for sensitive military cyber operations](%C2%A7%2000130j%20-%20Notification%20requirements%20for%20sensitive%20military%20cyber%20operations.md)
-- [&sect; 00130k - Notification requirements for cyber weapons](%C2%A7%2000130k%20-%20Notification%20requirements%20for%20cyber%20weapons.md)
+- [&sect; 00130j, 130k - Renumbered &sect;&sect;395, 396](%C2%A7%2000130j%2C%20130k%20-%20Renumbered%20%C2%A7%C2%A7395%2C%20396.md)

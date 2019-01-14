@@ -32,7 +32,7 @@
 
 (f)(1) Preference eligibles or veterans who have been separated from the armed forces under honorable conditions after 3 years or more of active service may not be denied the opportunity to compete for vacant positions for which the agency making the announcement will accept applications from individuals outside its own workforce under merit promotion procedures.
 
-(2) If selected, a preference eligible or veteran described in paragraph (1) shall receive a careeror career-conditional appointment, as appropriate.
+(2) If selected, a preference eligible or veteran described in paragraph (1) shall receive a career or career-conditional appointment, as appropriate.
 
 (3) This subsection shall not be construed to confer an entitlement to veterans' preference that is not otherwise required by law.
 

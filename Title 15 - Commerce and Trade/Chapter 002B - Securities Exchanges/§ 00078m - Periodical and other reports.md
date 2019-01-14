@@ -40,7 +40,7 @@ Every issuer of a security registered pursuant to section 78l of this title shal
 
 (6) Where an issuer which has a class of securities registered pursuant to section 78l of this title or an issuer which is required to file reports pursuant to section 78o(d) of this title holds 50 per centum or less of the voting power with respect to a domestic or foreign firm, the provisions of paragraph (2) require only that the issuer proceed in good faith to use its influence, to the extent reasonable under the issuer's circumstances, to cause such domestic or foreign firm to devise and maintain a system of internal accounting controls consistent with paragraph (2). Such circumstances include the relative degree of the issuer's ownership of the domestic or foreign firm and the laws and practices governing the business operations of the country in which such firm is located. An issuer which demonstrates good faith efforts to use such influence shall be conclusively presumed to have complied with the requirements of paragraph (2).
 
-(7) For the purpose of paragraph (2) of this subsection, the terms "reasonable assurances" and "reasonable detail" mean such level of detail and degree of assurance as would satisfy prudent officials in the conduct of their own affairs.
+(7) For the purpose of paragraph (2) of this subsection, the terms "reasonable assurances" and"reasonable detail" mean such level of detail and degree of assurance as would satisfy prudent officials in the conduct of their own affairs.
 
 #### (c) Alternative reports
 
@@ -48,7 +48,7 @@ If in the judgment of the Commission any report required under subsection (a) is
 
 #### (d) Reports by persons acquiring more than five per centum of certain classes of securities
 
-(1) Any person who, after acquiring directly or indirectly the beneficial ownership of any equity security of a class which is registered pursuant to section 78l of this title, or any equity security of an insurance company which would have been required to be so registered except for the exemption contained in section 78l(g)(2)(G) of this title, or any equity security issued by a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] or any equity security issued by a Native Corporation pursuant to section 1629c(d)(6) of title 43, or otherwise becomes or is deemed to become a beneficial owner of any of the foregoing upon the purchase or sale of a security-based swap that the Commission may define by rule, and is directly or indirectly the beneficialowner of more than 5 per centum of such class shall, within ten days after such acquisition or within such shorter time as the Commission may establish by rule, file with the Commission, a statement containing such of the following information, and such additional information, as the Commission may by rules and regulations, prescribe as necessary or appropriate in the public interest or for the protection of investors—
+(1) Any person who, after acquiring directly or indirectly the beneficial ownership of any equity security of a class which is registered pursuant to section 78l of this title, or any equity security of an insurance company which would have been required to be so registered except for the exemption contained in section 78l(g)(2)(G) of this title, or any equity security issued by a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] or any equity security issued by a Native Corporation pursuant to section 1629c(d)(6) of title 43, or otherwise becomes or is deemed to become a beneficial owner of any of the foregoing upon the purchase or sale of a security-based swap that the Commission may define by rule, and is directly or indirectly the beneficial owner of more than 5 per centum of such class shall, within ten days after such acquisition or within such shorter time as the Commission may establish by rule, file with the Commission, a statement containing such of the following information, and such additional information, as the Commission may by rules and regulations, prescribe as necessary or appropriate in the public interest or for the protection of investors—
 
 &emsp;(A) the background, and identity, residence, and citizenship of, and the nature of such beneficial ownership by, such person and all other persons by whom or on whose behalf the purchases have been or are to be effected;
 
@@ -76,7 +76,7 @@ If in the judgment of the Commission any report required under subsection (a) is
 
 &emsp;(C) any acquisition of an equity security by the issuer of such security;
 
-&emsp;(D) any acquisition or proposed acquisition of a security which the Commission, by rules or regulations or by order, shall exempt from the provisions of this subsection as not entered into for the purpose of, and not having the effect of, changing or influencing the control of the issuer or otherwise as not comprehended within the purposes of this subsection.
+&emsp;(D) any acquisition or proposed acquisition of a security which the Commission, by rules or regulations or by order, shall exempt from the provisions of this subsection as not entered into for the purpose of, and not havingthe effect of, changing or influencing the control of the issuer or otherwise as not comprehended within the purposes of this subsection.
 
 #### (e) Purchase of securities by issuer
 
@@ -110,7 +110,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 &emsp;(B) the aggregate fair market value or cost or amortized cost of exempted securities (in aggregate or by class) held on the last day of the reporting period by such accounts;
 
-&emsp;(C) the number of shares of each equity security of a class described in subsection (d)(1) held on the last day of the reporting period by such accounts with respect to which the institutional investment manager possesses sole or shared authority to exercise the voting rights evidenced by such securities;
+&emsp;(C) the number of shares of each equity security of a class described in subsection (d)(1)held on the last day of the reporting period by such accounts with respect to which the institutional investment manager possesses sole or shared authority to exercise the voting rights evidenced by such securities;
 
 &emsp;(D) the aggregate purchases and aggregate sales during the reporting period of each security (other than an exempted security) effected by or for such accounts; and
 
@@ -160,7 +160,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 (4) In determining, for purposes of this subsection, any percentage of a class of any security, such class shall be deemed to consist of the amount of the outstanding securities of such class, exclusive of any securities of such class held by or for the account of the issuer or a subsidiary of the issuer.
 
-(5) In exercising its authority under this subsection, the Commission shall take such steps as it deems necessary or appropriate in the publicinterest or for the protection of investors (A) to achieve centralized reporting of information regarding ownership, (B) to avoid unnecessarily duplicative reporting by and minimize the compliance burden on persons required to report, and (C) to tabulate and promptly make available the information contained in any report filed pursuant to this subsection in a manner which will, in the view of the Commission, maximize the usefulness of the information to other Federal and State agencies and the public.
+(5) In exercising its authority under this subsection, the Commission shall take such steps as it deems necessary or appropriate in the public interest or for the protection of investors (A) to achieve centralized reporting of information regarding ownership, (B) to avoid unnecessarily duplicative reporting by and minimize the compliance burden on persons required to report, and (C) to tabulate and promptly make available the information contained in any report filed pursuant to this subsection in a manner which will, in the view of the Commission, maximize the usefulness of the information to other Federal and State agencies and the public.
 
 (6) The Commission may, by rule or order, exempt, in whole or in part, any person or class of persons from any or all of the reporting requirements of this subsection as it deems necessary or appropriate in the public interest or for the protection of investors.
 
@@ -198,7 +198,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 #### (6) Exemptions
 
-&emsp;The Commission, by rule, regulation, or order, consistent with the purposes of this chapter, may exempt any person or class of persons or any transaction or class of transactions, either conditionally or upon specified terms and conditions or for stated periods, from the operation of this subsection, and the rules and regulations thereunder.
+&emsp;The Commission, by rule, regulation, or order, consistent with the purposes of thischapter, may exempt any person or class of persons or any transaction or class of transactions, either conditionally or upon specified terms and conditions or for stated periods, from the operation of this subsection, and the rules and regulations thereunder.
 
 #### (7) Authority of Commission to limit disclosure of information
 
@@ -244,7 +244,7 @@ Not later than 180 days after July 30, 2002, the Commission shall issue final ru
 
 #### (3) Rule of construction for certain loans
 
-&emsp;Paragraph (1) does not apply to any loan made or maintained by an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)), if the loan is subject to the insider lending restrictions of section 375b of title 12.
+&emsp;Paragraph (1) does not apply to any loan made or maintained by an insured depositoryinstitution (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)), if the loan is subject to the insider lending restrictions of section 375b of title 12.
 
 #### (l) Real time issuer disclosures
 
@@ -430,7 +430,7 @@ Confidentiality agreement.—Before the security-based swap data repository may 
 
 &emsp;&emsp;&emsp;(v) ensure compliance with this chapter (including regulations) relating to agreements, contracts, or transactions, including each rule prescribed by the Commission under this section;
 
-&emsp;&emsp;&emsp;(vi) establish procedures for the remediation of noncompliance issues identifiedby the chief compliance officer through any—
+&emsp;&emsp;&emsp;(vi) establish procedures for the remediation of noncompliance issues identified by the chief compliance officer through any—
 
 &emsp;&emsp;&emsp;&emsp;(I) compliance office review;
 
@@ -512,7 +512,7 @@ Confidentiality agreement.—Before the security-based swap data repository may 
 
 #### (o) Beneficial ownership
 
-For purposes of this section and section 78p of this title, a person shall be deemed to acquire beneficial ownership of an equity security based on the purchase or sale of a security-based swap, only to the extent that the Commission, by rule, determines after consultation with the prudential regulators and the Secretary of the Treasury, that the purchase or sale of the security-based swap, or class of security-based swap, provides incidents of ownership comparable to direct ownership of the equity security, and that it is necessary to achieve the purposes of this section that the purchase or sale of the security-based swaps, or class of security-based swap, be deemed the acquisition of beneficial ownership of the equity security.
+For purposes of this section and section 78p of this title, a person shall be deemed to acquire beneficial ownership of an equity security based on the purchase or sale of a security-based swap,only to the extent that the Commission, by rule, determines after consultation with the prudential regulators and the Secretary of the Treasury, that the purchase or sale of the security-based swap, or class of security-based swap, provides incidents of ownership comparable to direct ownership of the equity security, and that it is necessary to achieve the purposes of this section that the purchase or sale of the security-based swaps, or class of security-based swap, be deemed the acquisition of beneficial ownership of the equity security.
 
 #### (p) Disclosures relating to conflict minerals originating in the Democratic Republic of the Congo
 
@@ -520,7 +520,7 @@ For purposes of this section and section 78p of this title, a person shall be de
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 270 days after July 21, 2010, the Commission shall promulgate regulations requiring any person described in paragraph (2) to disclose annually, beginning with the person's first full fiscal year that begins after the date of promulgation of such regulations, whether conflict minerals that are necessary as described in paragraph\(2)(B), in the year for which such reporting is required, did originate in the Democratic Republic of the Congo or an adjoining country and, in cases in which such conflict minerals did originate in any such country, submit to the Commission a report that includes, with respect to the period covered by the report—
+&emsp;&emsp;Not later than 270 days after July 21, 2010, the Commission shall promulgate regulations requiring any person described in paragraph (2) to disclose annually, beginning with the person's first full fiscal year that begins after the date of promulgation of such regulations, whether conflict minerals that are necessary as described in paragraph (2)(B), in the year for which such reporting is required, did originate in the Democratic Republic of the Congo or an adjoining country and, in cases in which such conflict minerals did originate in any such country, submit to the Commission a report that includes, with respect to the period covered by the report—
 
 &emsp;&emsp;&emsp;(i) a description of the measures taken by the person to exercise due diligence on the source and chain of custody of such minerals, which measures shall include an independent private sector audit of such report submitted through the Commission that is conducted in accordance with standards established by the Comptroller General of the United States, in accordance with rules promulgated by the Commission, in consultation with the Secretary of State; and
 
@@ -720,11 +720,7 @@ For purposes of this section and section 78p of this title, a person shall be de
 
 &emsp;The provisions of this subsection shall terminate on the date that is 30 days after the date on which the President makes the certification described in section 8551(a) of title 22.
 
-(June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964; Pub. L. 107–123, §5, Jan. 16, 2002, 115 Stat. 2395; Pub. L. 107–204, title I, §109(i), formerly §109(h), title IV, §§401(a), 402(a), 409, July 30, 2002, 116 Stat. 771, 785, 787, 791, renumbered §109(i), Pub. L. 111–203, title IX, §982(h)(3), July 21, 2010, 124 Stat. 1930; Pub. L. 111–203, title VII, §§763(i), 766(b), (c), (e), title IX, §§929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§1502(b), 1504, July 21, 2010, 124 Stat. 1779, 1799, 1866, 1870, 1933, 1952, 2213, 2220; Pub. L. 112–106, title I, §102(b)(2), Apr. 5, 2012, 126 Stat. 309; Pub. L. 112–158, title II, §219(a), Aug. 10, 2012, 126 Stat. 1235; Pub. L. 114–94, div. G, title LXXXVI, §86001(c), Dec. 4, 2015, 129 Stat. 1798.)
-
-#### Amendment of Section
-
-<i>Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
+(June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964; Pub. L. 107–123, §5, Jan. 16, 2002, 115 Stat. 2395; Pub. L. 107–204, title I, §109(i), formerly §109(h), title IV, §§401(a), 402(a), 409, July 30, 2002, 116 Stat. 771, 785, 787, 791, renumbered §109(i), Pub. L. 111–203, title IX, §982(h)(3), July 21, 2010, 124 Stat. 1930; Pub. L. 111–203, title VII, §§763(i), 766(b), (c), (e), title IX, §§929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§1502(b), 1504, July 21, 2010, 124 Stat. 1779, 1799, 1866, 1870, 1933, 1952, 2213, 2220; Pub. L. 112–106, title I, §102(b)(2), Apr. 5, 2012, 126 Stat. 309; Pub. L.112–158, title II, §219(a), Aug. 10, 2012, 126 Stat. 1235; Pub. L. 114–94, div. G, title LXXXVI, §86001(c), Dec. 4, 2015, 129 Stat. 1798.)
 
 #### References in Text
 
@@ -818,7 +814,7 @@ Subsec. (h). Pub. L. 100–181, §316, struck out subsec. (h) which required Com
 
 <b>1977</b>—Subsec. (b). Pub. L. 95–213, §102, designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (d)(1). Pub. L. 95–213, §202, inserted references to residence and citizenship of persons and to nature ofbeneficial ownership of persons in subpar. (A), and inserted references to background, identity, residence, and citizenship of associates of persons in subpar. (D).
+Subsec. (d)(1). Pub. L. 95–213, §202, inserted references to residence and citizenship of persons and to nature of beneficial ownership of persons in subpar. (A), and inserted references to background, identity, residence, and citizenship of associates of persons in subpar. (D).
 
 Subsecs. (g), (h). Pub. L. 95–213, §203, added subsecs. (g) and (h).
 
@@ -871,6 +867,14 @@ Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L.
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+#### Improving Access to Capital
+
+Pub. L. 115–174, title V, §508, May 24, 2018, 132 Stat. 1364, provided that: "The Securities and Exchange Commission shall amend—
+
+&emsp;"(1) section 230.251 of title 17, Code of Federal Regulations, to remove the requirement that the issuer not be subject to section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) \[15 U.S.C. 78m, 78o(d)\] immediately before the offering; and
+
+&emsp;"(2) section 230.257 of title 17, Code of Federal Regulations, with respect to an offering described in section 230.251(a)(2) of title 17, Code of Federal Regulations, to deem any issuer that is subject to section 13 or 15(d) of the Securities Exchange Act of 1934 as having met the periodic and current reporting requirements of section 230.257 of title 17, Code of Federal Regulations, if such issuer meets the reporting requirements of section 13 of the Securities Exchange Act of 1934."
 
 #### Summary Page for Form 10–K
 
@@ -1008,7 +1012,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;"(3)
 
-Armed group.—The term 'armed group' means an armed group that is identified as perpetrators ofserious human rights abuses in the annual Country Reports on Human Rights Practices under sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d) and 2304(b)) relating to the Democratic Republic of the Congo or an adjoining country.
+Armed group.—The term 'armed group' means an armed group that is identified as perpetrators of serious human rights abuses in the annual Country Reports on Human Rights Practices under sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d) and 2304(b)) relating to the Democratic Republic of the Congo or an adjoining country.
 
 &emsp;"(4)
 

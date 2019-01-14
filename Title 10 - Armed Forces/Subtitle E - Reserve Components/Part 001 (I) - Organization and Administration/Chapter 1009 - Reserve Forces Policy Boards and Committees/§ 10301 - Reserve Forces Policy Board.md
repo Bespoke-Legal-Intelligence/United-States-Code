@@ -6,7 +6,7 @@ In General.—As provided in section 175 of this title, there is in the Office o
 
 (b)
 
-Functions.—The Board shall serve as an independent adviser to the Secretary of Defense to provide advice and recommendations to the Secretary on strategies, policies, and practicesdesigned to improve and enhance the capabilities, efficiency, and effectiveness of the reserve components.
+Functions.—The Board shall serve as an independent adviser to the Secretary of Defense to provide advice and recommendations to the Secretary on strategies, policies, and practices designed to improve and enhance the capabilities, efficiency, and effectiveness of the reserve components.
 
 (c)
 

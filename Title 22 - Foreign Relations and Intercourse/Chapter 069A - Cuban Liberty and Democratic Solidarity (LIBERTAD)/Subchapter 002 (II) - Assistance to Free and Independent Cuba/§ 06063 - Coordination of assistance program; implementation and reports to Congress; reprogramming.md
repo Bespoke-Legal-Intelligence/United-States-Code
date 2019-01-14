@@ -26,7 +26,7 @@ Upon making a determination under subsection (c)(3) that a democratically electe
 
 #### (2) Reports to Congress
 
-&emsp;(A) The President shall transmit to the appropriate congressional committees a report setting forth the strategy for providing assistance described in section 6062(b)(2)(A) and (C) of this title to the transition government in Cuba under the plan of assistance developed under section 6062(b) of this title, the types of such assistance, and the extent to which such assistance has been distributed in accordance with the plan.
+&emsp;(A) The President shall transmit to the appropriate congressional committees a reportsetting forth the strategy for providing assistance described in section 6062(b)(2)(A) and (C) of this title to the transition government in Cuba under the plan of assistance developed under section 6062(b) of this title, the types of such assistance, and the extent to which such assistance has been distributed in accordance with the plan.
 
 &emsp;(B) The President shall transmit the report not later than 90 days after making the determination referred to in paragraph (1), except that the President shall transmit the report in preliminary form not later than 15 days after making that determination.
 

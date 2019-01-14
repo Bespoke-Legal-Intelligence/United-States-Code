@@ -14,19 +14,9 @@
 | \[6680, 6681. Repealed.\] |  |
 | [6682\.](%C2%A7%2006682%20-%20False%20information%20with%20respect%20to%20withholding.md) | False information with respect to withholding. |
 | \[6683. | Repealed.\] |
-| [6684\.](%C2%A7%2006684%20-%20Assessable%20penalties%20with%20respect%20to%20liability%20for%20tax%20under%20chapter%2042.md) | Repeated liability for tax under chapter 42.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [6684\.](%C2%A7%2006684%20-%20Assessable%20penalties%20with%20respect%20to%20liability%20for%20tax%20under%20chapter%2042.md) | Assessable penalties with respect to liability for tax under chapter 42. |
 | [6685\.](%C2%A7%2006685%20-%20Assessable%20penalty%20with%20respect%20to%20public%20inspection%20requirements%20for%20certain%20tax-exempt%20organizations.md) | Assessable penalty with respect to public inspection requirements for certain tax-exempt organizations. |
-| [6686\.](%C2%A7%2006686%20-%20Failure%20to%20file%20returns%20or%20supply%20information%20by%20DISC%20or%20former%20FSC.md) | Failure to file returns or supply information by DISC or FSC.<sup>2</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [6686\.](%C2%A7%2006686%20-%20Failure%20to%20file%20returns%20or%20supply%20information%20by%20DISC%20or%20former%20FSC.md) | Failure to file returns or supply information by DISC or former FSC. |
 | \[6687. | Repealed.\] |
 | [6688\.](%C2%A7%2006688%20-%20Assessable%20penalties%20with%20respect%20to%20information%20required%20to%20be%20furnished%20under%20section%207654.md) | Assessable penalties with respect to information required to be furnished under section 7654. |
 | [6689\.](%C2%A7%2006689%20-%20Failure%20to%20file%20notice%20of%20redetermination%20of%20foreign%20tax.md) | Failure to file notice of redetermination of foreign tax. |
@@ -67,11 +57,13 @@
 | [6720\.](%C2%A7%2006720%20-%20Fraudulent%20acknowledgments%20with%20respect%20to%20donations%20of%20motor%20vehicles%2C%20boats%2C%20and%20airplanes.md) | Fraudulent acknowledgments with respect to donations of motor vehicles, boats, and airplanes. |
 | [6720A.](%C2%A7%2006720A%20-%20Penalty%20with%20respect%20to%20certain%20adulterated%20fuels.md) | Penalty with respect to certain adulterated fuels. |
 | [6720B.](%C2%A7%2006720B%20-%20Fraudulent%20identification%20of%20exempt%20use%20property.md) | Fraudulent identification of exempt use property. |
-| [6720C.](%C2%A7%2006720C%20-%20Penalty%20for%20failure%20to%20notify%20health%20plan%20of%20cessation%20of%20eligibility%20for%20COBRA%20premium%20assistance.md) | Penalty for failure to notify health plan of cessation of eligibility for COBRA premium assistance. |
+| \[6720C. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(306), (307), (d)(7)(B), Mar. 23, 2018, 132 Stat. 1199, 1212, substituted "Assessable penalties with respect to liability for tax under chapter 42" for "Repeated liability for tax under chapter 42" in item 6684 and "Failure to file returns or supply information by DISC or former FSC" for "Failure to file returns or supply information by DISC or FSC" in item 6686 and struck out item 6720C "Penalty for failure to notify health plan of cessation of eligibility for COBRA premium assistance".
 
 <b>2010</b>—Pub. L. 111–325, title V, §501(a), Dec. 22, 2010, 124 Stat. 3554, struck out item 6697 "Assessable penalties with respect to liability for tax of regulated investment companies".
 
@@ -135,7 +127,7 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. 
 
 Pub. L. 96–222, title I, §§101(a)(7)(L)(v)(X), 107(a)(2)(E), Apr. 1, 1980, 94 Stat. 201, 223, redesignated item 6698, relating to failure to file information with respect to carry-over basis property, as 6698A and substituted "tax credit employee stock ownership plan" for "ESOP" in item 6699.
 
-<b>1978</b>—Pub. L. 95–600, title VII, §701(r)(1)(C), Nov. 6, 1978, 92 Stat. 2938, which redesignated item 6694 "Failure to file information with respect to carryover basisproperty" as item 6698, was repealed by Pub. L. 96–223, §401(a). See section 401(b), (e) of Pub. L. 96–223, set out as an Effective Date of 1980 Amendments and Revival of Prior Law note under section 1023 of this title.
+<b>1978</b>—Pub. L. 95–600, title VII, §701(r)(1)(C), Nov. 6, 1978, 92 Stat. 2938, which redesignated item 6694 "Failure to file information with respect to carryover basis property" as item 6698, was repealed by Pub. L. 96–223, §401(a). See section 401(b), (e) of Pub. L. 96–223, set out as an Effective Date of 1980 Amendments and Revival of Prior Law note under section 1023 of this title.
 
 Pub. L. 95–600, title I, §141(c)(2), title II, §211(b), title III, §362(d)(9), Nov. 6, 1978, 92 Stat. 2794, 2818, 2852, substituted "qualified investment entities" for "real estate investment trusts" in item 6697, and added item 6698 "Failure to file partnership return" and item 6699 "Assessable penalties relating to ESOP".
 
@@ -170,10 +162,6 @@ Pub. L. 89–368, title I, §101(e)(4)(B), Mar. 15, 1966, 80 Stat. 62, added ite
 <b>1956</b>—Act June 29, 1956, ch. 462, title II, §208(e)(8), 70 Stat. 397, substituted "Excessive claims with respect to the use of certain gasoline" for "Excessive claims for gasoline used on farms" in item 6675.
 
 Act Apr. 2, 1956, ch. 160, §4(g), 70 Stat. 91, added item 6675.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
-<i><sup>2</sup></i><i> Section catchline amended by Pub. L. 110–172 without corresponding amendment of analysis.</i>
 
 
 ---
@@ -236,4 +224,4 @@ Act Apr. 2, 1956, ch. 160, §4(g), 70 Stat. 91, added item 6675.
 - [&sect; 06720 - Fraudulent acknowledgments with respect to donations of motor vehicles, boats, and airplanes](%C2%A7%2006720%20-%20Fraudulent%20acknowledgments%20with%20respect%20to%20donations%20of%20motor%20vehicles%2C%20boats%2C%20and%20airplanes.md)
 - [&sect; 06720A - Penalty with respect to certain adulterated fuels](%C2%A7%2006720A%20-%20Penalty%20with%20respect%20to%20certain%20adulterated%20fuels.md)
 - [&sect; 06720B - Fraudulent identification of exempt use property](%C2%A7%2006720B%20-%20Fraudulent%20identification%20of%20exempt%20use%20property.md)
-- [&sect; 06720C - Penalty for failure to notify health plan of cessation of eligibility for COBRA premium assistance](%C2%A7%2006720C%20-%20Penalty%20for%20failure%20to%20notify%20health%20plan%20of%20cessation%20of%20eligibility%20for%20COBRA%20premium%20assistance.md)
+- [&sect; 06720C - Repealed. Pub. L. 115&#8211;141, div. U, title IV, &sect;401(d)(7)(B), Mar. 23, 2018, 132 Stat. 1212](%C2%A7%2006720C%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93141%2C%20div.%20U%2C%20title%20IV%2C%20%C2%A7401%28d%29%287%29%28B%29%2C%20Mar.%2023%2C%202018%2C%20132%20Stat.%201212.md)

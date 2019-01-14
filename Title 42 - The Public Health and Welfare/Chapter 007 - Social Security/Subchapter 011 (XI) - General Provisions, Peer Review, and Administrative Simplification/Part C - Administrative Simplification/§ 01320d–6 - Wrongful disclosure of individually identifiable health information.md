@@ -10,7 +10,7 @@ A person who knowingly and in violation of this part—
 
 &emsp;(3) discloses individually identifiable health information to another person,
 
-> shall be punished as provided in subsection (b). For purposes of the previous sentence, a person (including an employee or other individual) shall be considered to have obtained or disclosed individually identifiable health information in violation of this part if the information is maintained by a covered entity (as defined in the HIPAA privacy regulation described in section 1320d–9(b)(3) of this title) and the individual obtained or disclosed such information without authorization.
+> shall be punished as provided in subsection (b). For purposes of the previous sentence, a person (including an employee or other individual) shall be considered to have obtained or disclosedindividually identifiable health information in violation of this part if the information is maintained by a covered entity (as defined in the HIPAA privacy regulation described in section 1320d–9(b)(3) of this title) and the individual obtained or disclosed such information without authorization.
 
 #### (b) Penalties
 

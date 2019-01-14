@@ -12,7 +12,7 @@ Words "and the United States Court for China" were omitted. See reviser's note u
 
 Provisions making this chapter and sections 332 and 333 of this title expressly applicable to the Court of Appeals for the District of Columbia were omitted as covered by "courts of appeals." (See section 41 of this title and reviser's notes under such section and section 44 of this title.)
 
-A definition of "continental United States" as "the States of the Union and the District of Columbia" is omitted as unnecessary. (See reviser's note under section 333 of this title.)
+A definition of "continental United States" as "the States of the Union and the District of Columbia" isomitted as unnecessary. (See reviser's note under section 333 of this title.)
 
 The term "district courts in the United States" in this section includes the District Court for the District of Columbia. (See section 88 of this title.)
 

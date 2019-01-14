@@ -2,7 +2,7 @@
 
 #### (a) "Prisoner of war" defined
 
-As used in subsection (b) of this section, the term "prisoner of war" means any regularly appointed, enrolled, enlisted, or inducted member of the military or naval forces of the United States who was held as a prisoner of war for anyperiod of time subsequent to December 7, 1941, by any government of any nation with which the United States has been at war subsequent to such date.
+As used in subsection (b) of this section, the term "prisoner of war" means any regularly appointed, enrolled, enlisted, or inducted member of the military or naval forces of the United States who was held as a prisoner of war for any period of time subsequent to December 7, 1941, by any government of any nation with which the United States has been at war subsequent to such date.
 
 #### (b) Payment of claims; rate allowed; certification of claims
 
@@ -36,7 +36,7 @@ Claims pursuant to subsection (b) shall be paid to the person entitled thereto, 
 
 &emsp;(B) any inhumane treatment as defined herein.
 
-> Any claim allowed under the provisions of this subsection shall be certified to the Secretary of the Treasury for payment out of the War Claims Fund established by section 4110 of this title. In no event shall the compensation allowed to any prisoner of war under this subsection exceed the sum of $1.50 with respect to any one day.
+> Any claim allowed under the provisions of this subsection shall be certified to the Secretary of the Treasury for payment out of the War ClaimsFund established by section 4110 of this title. In no event shall the compensation allowed to any prisoner of war under this subsection exceed the sum of $1.50 with respect to any one day.
 
 (4) Claims pursuant to subsection (d)(2) shall be paid to the person entitled thereto, or to his legal or natural guardian if he has one, and shall, in case of death of the persons who are entitled be payable only to or for the benefit of the following persons:
 
@@ -98,7 +98,7 @@ Claims pursuant to subsection (b) shall be paid to the person entitled thereto, 
 
 &emsp;(B) for inhumane treatment by the hostile force by which he was held, or its agents. The term "inhumane treatment" as used in this subparagraph shall include, but not be limited to, failure of such hostile force, or its agents, to meet the conditions and requirements of one or more of the provisions of articles 3, 12, 13, 14, 17, 19, 22, 23, 24, 25, 27, 29, 43, 44, 45, 46, 47, 48, 84, 85, 86, 87, 88, 89, 90, 97, or 98 of the Geneva Convention of August 12, 1949.
 
-> Compensation shall be allowed to any prisoner of war under this paragraph at the rate of $3 perday for each day on which he was held as a prisoner of war and with respect to which he alleges and proves in a manner acceptable to the Commission the failure to meet the conditions and requirements described in subparagraph (A) of this paragraph or the inhumane treatment described in subparagraph (B) of this paragraph. In no event shall the compensation allowed to any prisoner of war under this paragraph exceed the sum of $3 with respect to any one day.
+> Compensation shall be allowed to any prisoner of war under this paragraph at the rate of $3 per day for each day on which he was held as a prisoner of war and with respect to which he alleges and proves in a manner acceptable to the Commission the failure to meet the conditions and requirements described in subparagraph (A) of this paragraph or the inhumane treatment described in subparagraph (B) of this paragraph. In no event shall the compensation allowed to any prisoner of war under this paragraph exceed the sum of $3 with respect to any one day.
 
 (4) Any claim allowed by the Commission under this subsection shall be certified to the Secretary of the Treasury for payment out of funds appropriated pursuant to this subsection and shall be paid by the Secretary of the Treasury to the person entitled thereto, and shall, in the case of death or determination of death of the persons who are entitled, be paid only to or for the benefit of the persons specified, and in the order established, by subsection (d)(4) of this section.
 
@@ -178,5 +178,5 @@ Amount of Payment.—The amount of the payment to any person under this section 
 
 "(d)
 
-One-Year Period for Submission of Applications.—A payment may be made by reason of this section only in the case of a person who submits an application to the Secretary concerned for such paymentduring the one-year period beginning on the date of the enactment of this Act \[Sept. 23, 1996\]. Any such application shall be submitted in such form and manner as the Secretary may require."
+One-Year Period for Submission of Applications.—A payment may be made by reason of this section only in the case of a person who submits an application to the Secretary concerned for such payment during the one-year period beginning on the date of the enactment of this Act \[Sept. 23, 1996\]. Any such application shall be submitted in such form and manner as the Secretary may require."
 

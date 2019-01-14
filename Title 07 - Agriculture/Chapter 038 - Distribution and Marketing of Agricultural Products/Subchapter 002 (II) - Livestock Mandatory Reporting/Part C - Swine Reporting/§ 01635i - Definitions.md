@@ -8,7 +8,7 @@ In this part:
 
 &emsp;&emsp;(A) a person that directly or indirectly owns, controls, or holds with power to vote, 5 percent or more of the outstanding voting securities of the packer;
 
-&emsp;&emsp;(B) a person 5 percent or more of whose outstanding voting securities are directly orindirectly owned, controlled, or held with power to vote, by the packer; and
+&emsp;&emsp;(B) a person 5 percent or more of whose outstanding voting securities are directly or indirectly owned, controlled, or held with power to vote, by the packer; and
 
 &emsp;&emsp;(C) a person that directly or indirectly controls, or is controlled by or under common control with, the packer.
 
@@ -56,7 +56,7 @@ In this part:
 
 #### (10) Noncarcass merit premium
 
-&emsp;The term "noncarcass merit premium" means an increase in the base price of the swine offered by an individual packer or packing plant, based on any factor other than the characteristics of the carcass, if the actual amount of the premium is known before the sale and delivery of the swine.
+&emsp;The term "noncarcass merit premium" means an increase in the base price of the swine offered by an individual packer or packing plant, based on any factor other than the characteristics of the carcass, if the actualamount of the premium is known before the sale and delivery of the swine.
 
 #### (11) Other market formula purchase
 

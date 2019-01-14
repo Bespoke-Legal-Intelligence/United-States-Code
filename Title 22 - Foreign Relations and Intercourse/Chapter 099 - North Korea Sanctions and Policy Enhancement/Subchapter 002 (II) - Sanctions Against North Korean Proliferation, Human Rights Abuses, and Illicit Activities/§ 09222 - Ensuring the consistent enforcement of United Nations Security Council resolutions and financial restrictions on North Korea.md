@@ -42,7 +42,7 @@ It is the sense of Congress that the President should intensify diplomatic effor
 
 &emsp;(1) the cessation of any financial services the continuation of which is inconsistent with applicable United Nations Security Council resolutions;
 
-&emsp;(2) the cessation of any financial services to persons, including financial institutions, that present unacceptable risks of facilitating money laundering and illicit activity by the Government of North Korea;
+&emsp;(2) the cessation of any financial services to persons, including financial institutions, thatpresent unacceptable risks of facilitating money laundering and illicit activity by the Government of North Korea;
 
 &emsp;(3) the blocking by all member states, in accordance with the legal process of the state in which the property is held, of any property required to be blocked under applicable United Nations Security Council resolutions;
 

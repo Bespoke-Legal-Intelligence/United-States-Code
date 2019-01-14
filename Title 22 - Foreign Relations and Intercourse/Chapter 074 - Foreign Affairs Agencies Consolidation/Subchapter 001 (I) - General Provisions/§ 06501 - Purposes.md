@@ -22,7 +22,7 @@ The purposes of this chapter are—
 
 &emsp;(5) to ensure that the United States maintains effective representation abroad within budgetary restraints; and
 
-&emsp;(6) to encourage United States foreign affairs agencies to maintain a high percentage of the best qualified, most competent United States citizens serving in the United States Government.
+&emsp;(6) to encourage United States foreign affairs agencies to maintain a high percentageof the best qualified, most competent United States citizens serving in the United States Government.
 
 (Pub. L. 105–277, div. G, subdiv. A, title XI, §1102, Oct. 21, 1998, 112 Stat. 2681–765.)
 

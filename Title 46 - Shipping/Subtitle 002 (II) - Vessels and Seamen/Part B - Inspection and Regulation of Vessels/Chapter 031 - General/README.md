@@ -6,10 +6,13 @@
 | [3102\.](%C2%A7%2003102%20-%20Immersion%20suits.md) | Immersion suits. |
 | [3103\.](%C2%A7%2003103%20-%20Use%20of%20reports%2C%20documents%2C%20and%20records.md) | Use of reports, documents, and records. |
 | [3104\.](%C2%A7%2003104%20-%20Survival%20craft.md) | Survival craft. |
+| [3105\.](%C2%A7%2003105%20-%20Electronic%20charts.md) | Electronic charts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–282, title IV, §402(a)(2), Dec. 4, 2018, 132 Stat. 4264, added item 3105.
 
 <b>2010</b>—Pub. L. 111–281, title VI, §609(b), Oct. 15, 2010, 124 Stat. 2968, added item 3104.
 
@@ -30,3 +33,4 @@
 - [&sect; 03102 - Immersion suits](%C2%A7%2003102%20-%20Immersion%20suits.md)
 - [&sect; 03103 - Use of reports, documents, and records](%C2%A7%2003103%20-%20Use%20of%20reports%2C%20documents%2C%20and%20records.md)
 - [&sect; 03104 - Survival craft](%C2%A7%2003104%20-%20Survival%20craft.md)
+- [&sect; 03105 - Electronic charts](%C2%A7%2003105%20-%20Electronic%20charts.md)

@@ -26,7 +26,7 @@ The President may waive the prohibitions of section 2799aa of this title with re
 
 &emsp;(B) Facilitating military-to-military contact, training (including part V of subchapter II of this chapter) and humanitarian and civic assistance projects.
 
-&emsp;(C) Peacekeeping and other multilateral operations (including part VI of subchapter II of this chapter relating to peacekeeping) or any provision of law available for providing assistance for peacekeeping purposes, except that lethal military equipment provided under this subparagraph shall be provided on a lease or loan basis only and shall be returned upon completion of the operation for which it was provided.
+&emsp;(C) Peacekeeping and other multilateral operations (including part VI of subchapter II of this chapter relating to peacekeeping) or anyprovision of law available for providing assistance for peacekeeping purposes, except that lethal military equipment provided under this subparagraph shall be provided on a lease or loan basis only and shall be returned upon completion of the operation for which it was provided.
 
 &emsp;(D) Antiterrorism assistance (including part VIII of subchapter II of this chapter relating to antiterrorism assistance) or any provision of law available for antiterrorism assistance purposes.
 
@@ -40,7 +40,7 @@ The President may release the Government of Pakistan of its contractual obligati
 
 #### (g) Inapplicability of restrictions to previously owned items
 
-Subsection (e) does not apply to broken, worn or unupgraded items or their equivalent which Pakistan paid for and took possession of prior toOctober 1, 1990 and which the Government of Pakistan sent to the United States for repair or upgrade. Such equipment or its equivalent may be returned to the Government of Pakistan: <i>Provided</i>, That the President determines and so certifies to the appropriate congressional committees that such equipment or equivalent neither constitutes nor has received any significant qualitative upgrade since being transferred to the United States and that its total value does not exceed $25,000,000.
+Subsection (e) does not apply to broken, worn or unupgraded items or their equivalent which Pakistan paid for and took possession of prior to October 1, 1990 and which the Government of Pakistan sent to the United States for repair or upgrade. Such equipment or its equivalent may be returned to the Government of Pakistan: <i>Provided</i>, That the President determines and so certifies to the appropriate congressional committees that such equipment or equivalent neither constitutes nor has received any significant qualitative upgrade since being transferred to the United States and that its total value does not exceed $25,000,000.
 
 #### (h) Ballistic missile sanctions not affected
 
@@ -222,7 +222,7 @@ Declaration of policy.—Congress declares that the amount of funds appropriated
 
 &emsp;&emsp;"(A) preventing al Qaeda and other terrorist organizations from operating in the territory of Pakistan, including eliminating terrorist training camps or facilities, arresting members and leaders of terrorist organizations, and countering recruitment efforts;
 
-&emsp;&emsp;"(B) preventing the Taliban from using the territory of Pakistan as a sanctuary from which tolaunch attacks within Afghanistan, including by arresting Taliban leaders, stopping cross-border incursions, and countering recruitment efforts; and
+&emsp;&emsp;"(B) preventing the Taliban from using the territory of Pakistan as a sanctuary from which to launch attacks within Afghanistan, including by arresting Taliban leaders, stopping cross-border incursions, and countering recruitment efforts; and
 
 &emsp;&emsp;"(C) implementing democratic reforms, including allowing free, fair, and inclusive elections at all levels of government in accordance with internationally-recognized democratic norms, and respecting the independence of the press and judiciary.
 

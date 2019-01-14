@@ -32,7 +32,7 @@ In addition to any authorities vested in them by other provisions of this subcha
 
 #### (c) Advisory panels; membership; procedures
 
-The Chairperson of the National Endowment for the Arts shall utilize advisory panels to review applications, and to make recommendations to the National Council on the Arts in all cases except cases in which the Chairperson exercises authority delegated under section 955(f) of this title. When reviewing applications, such panels shall recommend applications forprojects, productions, and workshops solely on the basis of artistic excellence and artistic merit. The Chairperson shall issue regulations and establish procedures—
+The Chairperson of the National Endowment for the Arts shall utilize advisory panels to review applications, and to make recommendations to the National Council on the Arts in all cases except cases in which the Chairperson exercises authority delegated under section 955(f) of this title. When reviewing applications, such panels shall recommend applications for projects, productions, and workshops solely on the basis of artistic excellence and artistic merit. The Chairperson shall issue regulations and establish procedures—
 
 &emsp;(1) to ensure that all panels are composed, to the extent practicable, of individuals reflecting a wide geographic, ethnic, and minority representation as well as individuals reflecting diverse artistic and cultural points of view;
 

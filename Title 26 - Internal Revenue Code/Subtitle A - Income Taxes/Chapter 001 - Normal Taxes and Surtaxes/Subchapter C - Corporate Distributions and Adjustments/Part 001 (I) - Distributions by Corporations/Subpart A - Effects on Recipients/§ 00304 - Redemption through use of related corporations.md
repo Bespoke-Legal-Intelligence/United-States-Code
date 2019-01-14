@@ -30,7 +30,7 @@
 
 #### (2) Amount constituting dividend
 
-&emsp;In the case of any acquisition of stock to which subsection (a) applies, the determination of the amount which is a dividend (and the source thereof) shall be made as if the property were distributed—
+&emsp;In the case of any acquisition of stock to which subsection (a) applies, the determination of the amount which is a dividend (andthe source thereof) shall be made as if the property were distributed—
 
 &emsp;&emsp;(A) by the acquiring corporation to the extent of its earnings and profits, and
 
@@ -88,7 +88,7 @@
 
 #### (ii) BHC
 
-&emsp;&emsp;&emsp;The term "BHC" means a bank holding company (within the meaning of section2(a) of the Bank Holding Company Act of 1956).
+&emsp;&emsp;&emsp;The term "BHC" means a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956).
 
 #### (4) Treatment of certain intragroup transactions
 
@@ -310,7 +310,7 @@ In general.—For purposes of subparagraph (A), all corporations which were in e
 
 &emsp;&emsp;"(ii)
 
-Limitation to stock held on designated date.—Clause (i) shall not exempt any distribution from the amendments made by this section if such distribution is with respect to stock not held by the distributee (determined without regard to clause (i)) on the designated date directly or indirectly through a corporation which goes out of existence in the transaction.
+Limitation to stock held on designated date.—Clause (i) shall not exempt any distributionfrom the amendments made by this section if such distribution is with respect to stock not held by the distributee (determined without regard to clause (i)) on the designated date directly or indirectly through a corporation which goes out of existence in the transaction.
 
 &emsp;&emsp;"(iii)
 
@@ -374,5 +374,5 @@ Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

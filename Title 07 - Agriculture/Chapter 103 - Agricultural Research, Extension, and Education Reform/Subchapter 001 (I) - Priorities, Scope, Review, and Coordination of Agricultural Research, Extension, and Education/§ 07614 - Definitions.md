@@ -16,7 +16,7 @@ Except as otherwise provided in this section and sections 7614a to 7614c of this
 
 #### (4) Competitive program critical base funding
 
-&emsp;The term "competitive program critical base funding" means the aggregate amount of Federal funds made available for competitive programs for fiscal year 2006, as appropriate.
+&emsp;The term "competitive program critical base funding" means the aggregate amount ofFederal funds made available for competitive programs for fiscal year 2006, as appropriate.
 
 #### (5) Hispanic-serving agricultural colleges and universities
 

@@ -44,7 +44,7 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (F) Coordination of grants and agreements
 
-&emsp;&emsp;Align and coordinate medical and public health grants and cooperative agreements as applicable to preparedness and response activities authorized under this chapter, to the extent possible, including program requirements, timelines, and measurable goals, and in consultation with the Secretary of Homeland Security, to—
+&emsp;&emsp;Align and coordinate medical and public health grants and cooperative agreements asapplicable to preparedness and response activities authorized under this chapter, to the extent possible, including program requirements, timelines, and measurable goals, and in consultation with the Secretary of Homeland Security, to—
 
 &emsp;&emsp;&emsp;(i) optimize and streamline medical and public health preparedness and response capabilities and the ability of local communities to respond to public health emergencies; and
 
@@ -72,7 +72,7 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (7) Countermeasures budget plan
 
-&emsp;Develop, and update not later than March 1 of each year, a coordinated 5-year budget plan based on the medical countermeasure priorities described in subsection (d), including with respect to chemical, biological, radiological, and nuclear agent or agents that may present a threat to the Nation, including such agents that are novel or emerging infectious diseases, and the corresponding efforts to develop qualified countermeasures (as defined in section 247d–6a of this title), security countermeasures (as defined in section 247d–6b of this title), and qualified pandemic or epidemicproducts (as defined in section 247d–6d of this title) for each such threat. Each such plan shall—
+&emsp;Develop, and update not later than March 1 of each year, a coordinated 5-year budget plan based on the medical countermeasure priorities described in subsection (d), including with respect to chemical, biological, radiological, and nuclear agent or agents that may present a threat to the Nation, including such agents that are novel or emerging infectious diseases, and the corresponding efforts to develop qualified countermeasures (as defined in section 247d–6a of this title), security countermeasures (as defined in section 247d–6b of this title), and qualified pandemic or epidemic products (as defined in section 247d–6d of this title) for each such threat. Each such plan shall—
 
 &emsp;&emsp;(A) include consideration of the entire medical countermeasures enterprise, including—
 
@@ -166,7 +166,7 @@ The Assistant Secretary for Preparedness and Response shall—
 
 &emsp;&emsp;&emsp;(ii) the reasons underlying the decision to use such authorities, including, as applicable, the options that were considered and rejected with respect to the use of such authorities;
 
-&emsp;&emsp;&emsp;(iii) the number of, nature of, and other information concerning the persons and entities that received a grant, cooperative agreement, or contract pursuant to the use of such authorities, and the persons and entities that were considered and rejected for such a grant, cooperative agreement, or contract, except that the report need not disclose the identity of any such person or entity;
+&emsp;&emsp;&emsp;(iii) the number of, nature of, and other information concerning the persons and entities that received a grant, cooperative agreement, or contract pursuant to the use of such authorities, and the persons and entities that were considered and rejectedfor such a grant, cooperative agreement, or contract, except that the report need not disclose the identity of any such person or entity;
 
 &emsp;&emsp;&emsp;(iv) whether, with respect to each procurement that is approved by the President under section 247d–6b(c)(6) of this title, a contract was entered into within one year after such approval by the President; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Publication of proposed antitrust mutual assistance agreements
 
-Not less than 45 days before an antitrust mutual assistance agreement is entered into, theAttorney General, with the concurrence of the Commission, shall publish in the Federal Register—
+Not less than 45 days before an antitrust mutual assistance agreement is entered into, the Attorney General, with the concurrence of the Commission, shall publish in the Federal Register—
 
 &emsp;(1) the proposed text of such agreement and any modification to such proposed text, and
 

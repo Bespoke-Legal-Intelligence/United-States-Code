@@ -100,7 +100,7 @@ Transit account.—Subject to subsection (j), the Secretary may permit a State e
 
 &emsp;(3)
 
-Rail account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank,and any other recipient of Federal assistance under subtitle V of title 49, to deposit into the rail account of the bank funds made available to the State or other recipient in each of fiscal years 2016 through 2020 for capital projects under such subtitle.
+Rail account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under subtitle V of title 49, to deposit into the rail account of the bank funds made available to the State or other recipient in each of fiscal years 2016 through 2020 for capital projects under such subtitle.
 
 &emsp;(4)
 
@@ -124,7 +124,7 @@ Rail account.—Federal funds deposited into a rail account of a State infrastru
 
 &emsp;(6)
 
-Special rule for urbanized areas of over 200,000.—Funds in a State infrastructure bank that are attributed to urbanized areas of a State with urbanized populations of over 200,000 under section 133(d)(1)(A)(i) may be used to provide assistance with respect to a project only if the metropolitan planning organization designated for such area concurs, in writing, with the provision of such assistance.
+Special rule for urbanized areas of over 200,000.—Funds in a State infrastructure bank that are attributed to urbanized areas of a State with urbanized populations of over200,000 under section 133(d)(1)(A)(i) may be used to provide assistance with respect to a project only if the metropolitan planning organization designated for such area concurs, in writing, with the provision of such assistance.
 
 &emsp;(7)
 
@@ -180,7 +180,7 @@ Infrastructure Bank Requirements.—In order to establish an infrastructure bank
 
 &emsp;(4) ensure that any loan from the bank will bear interest at or below market interest rates, as determined by the State, to make the project that is the subject of the loan feasible, except that any loan funded from the rural projects fund of the bank shall bear interest at or below the interest rate charged for the TIFIA loan provided to the bank under section 603;
 
-&emsp;(5) ensure that repayment of any loan from the bank will commence not later than 5 years after the project has been completed or, in thecase of a highway project, the facility has opened to traffic, whichever is later;
+&emsp;(5) ensure that repayment of any loan from the bank will commence not later than 5 years after the project has been completed or, in the case of a highway project, the facility has opened to traffic, whichever is later;
 
 &emsp;(6) ensure that the term for repaying any loan will not exceed 30 years after the date of the first payment on the loan; and
 

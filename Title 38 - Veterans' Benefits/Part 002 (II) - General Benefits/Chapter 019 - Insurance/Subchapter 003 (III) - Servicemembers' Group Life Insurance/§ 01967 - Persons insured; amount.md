@@ -20,7 +20,7 @@
 
 (B) A member may elect in writing not to insure the member's spouse under this subchapter.
 
-(3)(A) Subject to subparagraphs (B) and (C), the amount for which a person is insured under this subchapter is as follows:
+(3)(A) Subject to subparagraphs (B), (C), and (D), the amount for which a person is insured under this subchapter is as follows:
 
 &emsp;(i) In the case of a member, $400,000.
 
@@ -31,6 +31,16 @@
 (B) A member may elect in writing to be insured or to insure the member's spouse in an amount less than the amount provided for under subparagraph (A). The member may not elect to insure the member's child in an amount less than $10,000. The amount of insurance so elected shall, in the case of a member, be evenly divisible by $50,000 and, in the case of a member's spouse, be evenly divisible by $10,000.
 
 (C) In no case may the amount of insurance coverage under this subsection of a member's spouse exceed the amount of insurance coverage of the member.
+
+(D) In the case of a member who elects under paragraph (2)(A) not to be insured under this section, or who elects under subparagraph (B) to be insured for an amount less than the maximum amount provided under subparagraph (A), and who is deployed to a combat theater of operations <sup>1</sup> the member—
+
+&emsp;(i) shall be insured under this subchapter for the maximum amount provided under subparagraph (A) for the period of such deployment; and
+
+&emsp;(ii) upon the end of such deployment—
+
+&emsp;&emsp;(I) shall be insured in the amount elected by the member under subparagraph (B); or
+
+&emsp;&emsp;(II) shall not be insured, if so elected under paragraph (2)(A).
 
 (4)(A) An insurable dependent of a member is not insured under this chapter unless the member is insured under this subchapter.
 
@@ -58,7 +68,7 @@
 
 > shall be deemed to have been on active duty, active duty for training, or inactive duty training, as the case may be, and to have been insured under this subchapter at the time such disability was incurred or aggravated, and if death occurs within one hundred and twenty days thereafter as a result of such disability to have been insured at the time of death. In determining whether or not such individual was so authorized or required to perform such duty, and whether or not such member was rendered uninsurable or died within one hundred and twenty days thereafter from a disability so incurred or aggravated, there shall be taken into account the call or order to duty, the orders and authorizations of competent authority, the hour on which the member began to so proceed or to return, the hour on which such member was scheduled to arrive for, or on which such member ceased to perform such duty; the method of travel employed; such member's itinerary; the manner in which the travel was performed; and the immediate cause of disability or death. Whenever any claim is filed alleging that the claimant is entitled to benefits by reason of this subsection, the burden of proof shall be on the claimant.
 
-(c) If a person eligible for insurance under this subchapter is not so insured, or is insured for less than the maximum amount provided for the person under subparagraph (A) of subsection (a)(3), by reason of an election made by a member under subparagraph (B) of that subsection, the person may thereafter be insured under this subchapter in the maximum amount or any lesser amount elected as provided in such subparagraph (B) upon written application by the member, proof of good health of each person (other than a child) to be so insured, and compliance with such other terms and conditions as may be prescribed by the Secretary. Any former member insured under Veterans' Group Life Insurance who again becomes eligible for Servicemembers' Group Life Insurance and declines such coverage solely for the purpose of maintaining such member's Veterans' Group Life Insurance in effect shall upon termination of coverage under Veterans' Group Life Insurance be automatically insured under Servicemembers' Group Life Insurance, if otherwise eligible therefor.
+(c) If a person eligible for insurance under this subchapter is not so insured, or is insured forless than the maximum amount provided for the person under subparagraph (A) of subsection (a)(3), by reason of an election made by a member under subparagraph (B) of that subsection, the person may thereafter be insured under this subchapter in the maximum amount or any lesser amount elected as provided in such subparagraph (B) upon written application by the member, proof of good health of each person (other than a child) to be so insured, and compliance with such other terms and conditions as may be prescribed by the Secretary. Any former member insured under Veterans' Group Life Insurance who again becomes eligible for Servicemembers' Group Life Insurance and declines such coverage solely for the purpose of maintaining such member's Veterans' Group Life Insurance in effect shall upon termination of coverage under Veterans' Group Life Insurance be automatically insured under Servicemembers' Group Life Insurance, if otherwise eligible therefor.
 
 (d) Whenever a member has the opportunity to make an election under subsection (a) not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount in effect under paragraph (3)(A)(i) of that subsection, and at such other times periodically thereafter as the Secretary concerned considers appropriate, the Secretary concerned shall furnish to the member general information concerning life insurance. Such information shall include—
 
@@ -84,9 +94,13 @@
 
 (4) A notification required by this subsection is satisfied by a good faith effort to provide the required information to the spouse at the last address of the spouse in the records of the Secretary concerned. Failure to provide a notification required under this subsection in a timely manner does not affect the validity of any election specified in paragraph (1) or (2) or beneficiary designation specified in paragraph (3).
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §767; amended Pub. L. 91–291, §2, June 25, 1970, 84 Stat. 327; Pub. L. 93–289, §4, May 24, 1974, 88 Stat. 166; Pub. L. 97–66, title IV, §401(a), Oct. 17, 1981, 95 Stat. 1030; Pub. L. 99–166, title IV, §401(a), Dec. 3, 1985, 99 Stat. 956; Pub. L. 99–576, title VII, §701(37), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–25, title III, §336(a), Apr. 6, 1991, 105 Stat. 89; renumbered §1967 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §201, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–160, div. A, title XI, §1175(a), Nov. 30, 1993, 107 Stat. 1768; Pub. L. 103–337, div. A, title VI, §651(b), Oct. 5, 1994, 108 Stat. 2792; Pub. L. 104–106, div. A, title VI, §646, Feb. 10, 1996, 110 Stat. 369; Pub. L. 104–275, title IV, §§402(b), 404, 405(b)(1)(A), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §§312(a), 313(b), Nov. 1, 2000, 114 Stat. 1854, 1855; Pub. L. 107–14, §4(b), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, §1012(a)–(c)(1), (d), (f), May 11, 2005, 119 Stat. 244–246; Pub. L. 109–80, §§2, 3(a), 4, 5(a), Sept. 30, 2005, 119 Stat. 2045, 2046; Pub. L. 110–389, title IV, §403(a)(1), (2)(A), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 111–275, title X, §1001(d)(1), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–239, div. A, title VI, §642, Jan. 2, 2013, 126 Stat. 1783.)
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §767; amended Pub. L. 91–291, §2, June 25, 1970, 84 Stat. 327; Pub. L. 93–289, §4, May 24, 1974, 88 Stat. 166; Pub. L. 97–66, title IV, §401(a), Oct. 17, 1981, 95 Stat. 1030; Pub. L. 99–166, title IV, §401(a), Dec. 3, 1985, 99 Stat. 956; Pub. L. 99–576, title VII, §701(37), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–25, title III, §336(a), Apr. 6, 1991, 105 Stat. 89; renumbered §1967 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §201, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–160, div. A, title XI, §1175(a), Nov. 30, 1993, 107 Stat. 1768; Pub. L. 103–337, div. A, title VI, §651(b), Oct. 5, 1994, 108 Stat. 2792; Pub. L. 104–106, div. A, title VI, §646, Feb. 10, 1996, 110 Stat. 369; Pub. L. 104–275, title IV, §§402(b), 404, 405(b)(1)(A), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §§312(a), 313(b), Nov. 1, 2000, 114 Stat. 1854, 1855; Pub. L. 107–14, §4(b), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, §1012(a)–(c)(1), (d), (f), May 11, 2005, 119 Stat. 244–246; Pub. L. 109–80, §§2, 3(a), 4, 5(a), Sept. 30, 2005, 119 Stat. 2045, 2046; Pub. L. 110–389, title IV, §403(a)(1), (2)(A), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 111–275, title X, §1001(d)(1), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–239, div. A, title VI, §642, Jan. 2, 2013, 126 Stat. 1783; Pub. L. 115–232, div. A, title VI, §625, Aug. 13, 2018, 132 Stat. 1801.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(3)(A). Pub. L. 115–232, §625(1), substituted "subparagraphs (B), (C), and (D)" for "subparagraphs (B) and (C)" in introductory provisions.
+
+Subsec. (a)(3)(D). Pub. L. 115–232, §625(2), added subpar. (D).
 
 <b>2013</b>—Subsec. (a)(1)(A)(ii), (C)(ii). Pub. L. 112–239 inserted "(other than a dependent who is also a member of a uniformed service and, because of such membership, is automatically insured under this paragraph)" after "insurable dependent of the member".
 
@@ -102,7 +116,7 @@ Subsec. (a)(3)(A). Pub. L. 109–13, §1012(f)(2)(A), which directed substitutio
 
 Subsec. (a)(3)(A)(i). Pub. L. 109–80, §3(a)(1), substituted "$400,000" for "$250,000".
 
-Pub. L. 109–13, §1012(a)(1), which directed the addition of cl. (i) and the striking of former cl. (i), was repealed by Pub. L. 109–80, §2. See Effective and Termination Dates of 2005 Amendments note below. The cl. (i) addedby Pub. L. 109–13 read as follows: "In the case of a member—
+Pub. L. 109–13, §1012(a)(1), which directed the addition of cl. (i) and the striking of former cl. (i), was repealed by Pub. L. 109–80, §2. See Effective and Termination Dates of 2005 Amendments note below. The cl. (i) added by Pub. L. 109–13 read as follows: "In the case of a member—
 
 &emsp;"(I) $400,000 or such lesser amount as the member may elect as provided in subparagraph (B);
 
@@ -156,7 +170,7 @@ Pub. L. 109–13, §1012(c)(1)(A), which directed redesignation of subsec. (e) a
 
 Subsec. (c). Pub. L. 107–14, §4(b)(2), inserted first sentence and struck out former first sentence which read as follows: "If any member elects not to be insured under this subchapter or to be insured in any amount less than $250,000, such member may thereafter be insured under this subchapter in the amount of $250,000 or any lesser amount evenly divisible by $10,000 upon written application, proof of good health, and compliance with such other terms and conditions as may be prescribed by the Secretary."
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–419, §313(b), substituted "subparagraph (B) or (C) of section 1965(5) of this title" for "section 1965(5)(B) of this title" in par. (2) and concluding provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–419, §313(b), substituted "subparagraph (B) or (C) of section 1965(5) of this title"for "section 1965(5)(B) of this title" in par. (2) and concluding provisions.
 
 Pub. L. 106–419, §312(a), substituted "$250,000" for "$200,000" in two places in concluding provisions.
 
@@ -244,7 +258,7 @@ Subsec. (d). Pub. L. 97–66, §401(a)(3), added subsec. (d).
 
 Subsec. (b). Pub. L. 93–289, §4(2), substituted "one hundred and twenty days" for "ninety days" in three places.
 
-Subsec. (c). Pub. L. 93–289, §4(3), inserted provisions authorizing members who elected to be insured in amounts of $15,000, $10,000, or $5,000 to increase the amount of insurance to $20,000, and inserted sentence providing for automatic insurance for former members insured under Veterans' Group Life Insurance who decline coverage under Servicemen's Group Life Insurance.
+Subsec. (c). Pub. L. 93–289, §4(3), inserted provisions authorizing members who elected to be insured in amounts of $15,000, $10,000, or $5,000 to increase the amount of insurance to $20,000, and inserted sentence providing for automatic insurance for former membersinsured under Veterans' Group Life Insurance who decline coverage under Servicemen's Group Life Insurance.
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–291 increased from $10,000 to $15,000 maximum amount of insurance authorized for members of uniformed services and inserted references to active duty for training and inactive duty training scheduled in advance by competent authority.
 
@@ -258,7 +272,7 @@ Pub. L. 110–389, title IV, §403(e)(1), Oct. 10, 2008, 122 Stat. 4174, provide
 
 #### Effective and Termination Dates of 2005 Amendments
 
-Pub. L. 109–80, §2, Sept. 30, 2005, 119 Stat. 2045, provided that: "Effective as of August 31, 2005, section 1012of division A of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (Public Law 109–13; 119 Stat. 244) \[amending this section and sections 1969, 1970, and 1977 of this title and enacting provisions set out as a note under this section\], including the amendments made by that section, are repealed, and sections 1967, 1969, 1970, and 1977 of title 38, United States Code, shall be applied as if that section had not been enacted."
+Pub. L. 109–80, §2, Sept. 30, 2005, 119 Stat. 2045, provided that: "Effective as of August 31, 2005, section 1012 of division A of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (Public Law 109–13; 119 Stat. 244) \[amending this section and sections 1969, 1970, and 1977 of this title and enacting provisions set out as a note under this section\], including the amendments made by that section, are repealed, and sections 1967, 1969, 1970, and 1977 of title 38, United States Code, shall be applied as if that section had not been enacted."
 
 Pub. L. 109–80, §3(c), Sept. 30, 2005, 119 Stat. 2046, provided that: "The amendments made by this section \[amending this section and section 1977 of this title\] shall take effect as of September 1, 2005, and shall apply with respect to deaths occurring on or after that date."
 
@@ -335,4 +349,6 @@ Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub.
 #### Payment of Death Gratuity to SGLI Beneficiaries
 
 Pub. L. 103–139, title VIII, §8134, Nov. 11, 1993, 107 Stat. 1471, required Secretary of Defense to pay death gratuity to each beneficiary under Servicemen's Group Life Insurance policy in case of each deceased member of uniformed services who died on or after Oct. 29, 1992, and before Dec. 1, 1992, and whose death was in performance of duty.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

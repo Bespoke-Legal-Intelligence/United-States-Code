@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State, Indian tribal government, or unit of local government, shall not be entitled to funds under this subchapter unless the State, Indiantribal government, or unit of local government—
+A State, Indian tribal government, or unit of local government, shall not be entitled to funds under this subchapter unless the State, Indian tribal government, or unit of local government—
 
 &emsp;(1) certifies that its laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence, dating violence, sexual assault, or stalking offense, or in connection with the filing, issuance, registration, modification, enforcement, dismissal, withdrawal or service of a protection order, or a petition for a protection order, to protect a victim of domestic violence, dating violence, sexual assault, or stalking, that the victim bear the costs associated with the filing of criminal charges against the offender, or the costs associated with the filing, issuance, registration, modification, enforcement, dismissal, withdrawal or service of a warrant, protection order, petition for a protection order, or witness subpoena, whether issued inside or outside the State, tribal, or local jurisdiction; or
 

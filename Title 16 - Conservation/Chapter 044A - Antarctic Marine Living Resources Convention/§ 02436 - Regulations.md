@@ -18,7 +18,7 @@ The Secretary of Commerce, after consultation with the Secretary of State, the S
 
 #### (2) Entering into force
 
-&emsp;Upon publication of such regulation in the Federal Register, such conservation measureshall enter into force with respect to the United States.
+&emsp;Upon publication of such regulation in the Federal Register, such conservation measure shall enter into force with respect to the United States.
 
 (Pub. L. 98–623, title III, §307, Nov. 8, 1984, 98 Stat. 3401; Pub. L. 114–81, title I, §106(2), Nov. 5, 2015, 129 Stat. 658.)
 

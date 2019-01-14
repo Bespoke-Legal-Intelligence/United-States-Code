@@ -60,7 +60,7 @@ Any manifest required by the Customs Service shall be signed, produced, delivere
 
 &emsp;&emsp;&emsp;(ii) additional examination procedures that are not necessary for individually manifested shipments;
 
-&emsp;&emsp;(B) standard letter envelopes and standard document packs shall be segregated from larger document shipments for purposes of customs inspections; and
+&emsp;&emsp;(B) standard letter envelopes and standard document packs shall be segregated fromlarger document shipments for purposes of customs inspections; and
 
 &emsp;&emsp;(C) the term "letters and documents" means—
 

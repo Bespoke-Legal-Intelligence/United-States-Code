@@ -34,7 +34,7 @@ Early housing eligibility.—If a spouse or other dependent of a member whose re
 
 &emsp;(3)
 
-Temporary use of government-owned or government-leased housing intended for members without a spouse or dependent.—Ifa spouse or other dependent of a member relocates at a time different from the member in accordance with a request approved under subsection (a), the member may be assigned to Government-owned or Government-leased housing intended for the permanent housing of members without a spouse or dependent until the member's detachment date or the spouse or other dependent's arrival date, but only if such Government-owned or Government-leased housing is available without displacing a member without a spouse or dependent at such housing.
+Temporary use of government-owned or government-leased housing intended for members without a spouse or dependent.—If a spouse or other dependent of a member relocates at a time different from the member in accordance with a request approved under subsection (a), the member may be assigned to Government-owned or Government-leased housing intended for the permanent housing of members without a spouse or dependent until the member's detachment date or the spouse or other dependent's arrival date, but only if such Government-owned or Government-leased housing is available without displacing a member without a spouse or dependent at such housing.
 
 &emsp;(4)
 

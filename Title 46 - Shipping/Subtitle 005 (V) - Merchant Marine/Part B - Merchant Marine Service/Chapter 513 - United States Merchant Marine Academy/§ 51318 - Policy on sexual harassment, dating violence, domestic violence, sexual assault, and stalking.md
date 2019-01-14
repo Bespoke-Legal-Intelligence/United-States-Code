@@ -12,9 +12,11 @@ In general.—The Secretary of Transportation shall direct the Superintendent of
 
 Matters to be specified in policy.—The policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking prescribed under this subsection shall include—
 
-&emsp;&emsp;(A) a program to promote awareness of the incidence of rape, acquaintance rape, domestic violence, dating violence, stalking, and other sexual offenses of a criminal nature that involve cadets or other Academy personnel;
+&emsp;&emsp;(A) a program to promote awareness and prevention of the incidence of rape, acquaintance rape, domestic violence, dating violence, stalking, and other sexual offenses of a criminal nature that involve cadets or other Academy personnel;
 
-&emsp;&emsp;(B) procedures that a cadet or other Academy personnel should follow in the case of an occurrence of sexual harassment, dating violence, domestic violence, sexual assault, or stalking, including—
+&emsp;&emsp;(B) procedures for documenting, tracking, and maintaining the data required to conduct the annual assessments to determine the effectiveness of the policies, procedures, and training program of the Academy with respect to sexual harassment, dating violence, domestic violence, sexual assault, and stalking involving cadets or other Academy personnel, as required by subsection (c);
+
+&emsp;&emsp;(C) procedures that a cadet or other Academy personnel should follow in the case of an occurrence of sexual harassment, dating violence, domestic violence, sexual assault, or stalking, including—
 
 &emsp;&emsp;&emsp;(i) specifying the person or persons to whom an alleged occurrence of sexual harassment, dating violence, domestic violence, sexual assault, or stalking should be reported by the victim and the options for confidential reporting;
 
@@ -22,11 +24,13 @@ Matters to be specified in policy.—The policy on sexual harassment, dating vio
 
 &emsp;&emsp;&emsp;(iii) procedures on the preservation of evidence potentially necessary for proof of a criminal sexual offense;
 
-&emsp;&emsp;(C) a procedure for disciplinary action in cases of alleged criminal sexual assault involving a cadet or other Academy personnel;
+&emsp;&emsp;(D) procedures for investigating sexual harassment, dating violence, domestic violence, sexual assault, or stalking involving a cadet or other Academy personnel to determine whether disciplinary action is necessary;
 
-&emsp;&emsp;(D) any other sanction authorized to be imposed in a substantiated case of sexual harassment, dating violence, domestic violence, sexual assault, or stalking involving a cadet or other Academy personnel in rape, acquaintance rape, or any other criminal sexual offense, whether forcible or nonforcible;
+&emsp;&emsp;(E) a procedure for disciplinary action in cases of alleged criminal sexual assault involving a cadet or other Academy personnel;
 
-&emsp;&emsp;(E) procedures through which—
+&emsp;&emsp;(F) any other sanction authorized to be imposed in a substantiated case of sexual harassment, dating violence, domestic violence, sexual assault, or stalking involving a cadet or other Academy personnel in rape, acquaintance rape, or any other criminal sexual offense, whether forcible or nonforcible;
+
+&emsp;&emsp;(G) procedures through which—
 
 &emsp;&emsp;&emsp;(i) questions regarding sexual harassment, dating violence, domestic violence, sexual assault, or stalking can be confidentially asked and confidentially answered;
 
@@ -34,7 +38,7 @@ Matters to be specified in policy.—The policy on sexual harassment, dating vio
 
 &emsp;&emsp;&emsp;(iii) the privacy of victims of sexual harassment, dating violence, domestic violence, sexual assault, or stalking will be protected; and
 
-&emsp;&emsp;(F) required training on the policy for all cadets and other Academy personnel, including the specific training required for personnel who process allegations of sexual harassment, dating violence, domestic violence, sexual assault, or stalking involving Academy personnel.
+&emsp;&emsp;(H) required training on the policy for all cadets and other Academy personnel, including the specific training required for personnel who process allegations of sexual harassment, dating violence, domestic violence, sexual assault, or stalking involving Academy personnel.
 
 &emsp;(3)
 
@@ -124,7 +128,7 @@ Minimum requirements to combat retaliation.—
 
 &emsp;&emsp;(A)
 
-Requirement for plan.—Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, the Maritime Administrator shall direct the Superintendent of the United States Merchant Marine Academy to implement and maintain a plan to combat retaliation against cadets at the Academy who report sexual harassment, dating violence, domestic violence, sexual assault, or stalking.
+Requirement for plan.—Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, the Maritime Administrator shall direct the Superintendent of the United States Merchant Marine Academy to implement and maintain a plan to combat retaliation against cadets at the Academy and other Academy personnel who report sexual harassment, dating violence, domestic violence, sexual assault, or stalking.
 
 &emsp;&emsp;(B)
 
@@ -206,7 +210,7 @@ In general.—For each Academy program year, the Superintendent shall submit to 
 
 Contents.—Each report submitted under paragraph (1) shall include, for the Academy program year covered by the report—
 
-&emsp;&emsp;(A) the number of sexual assaults, rapes, and other sexual offenses involving cadets or other Academy personnel that have been reported to Academy officials;
+&emsp;&emsp;(A) the number of sexual assaults, rapes, and other sexual offenses, including sexual harassment, involving cadets or other Academy personnel that have been reported to Academy officials;
 
 &emsp;&emsp;(B) the number of the reported cases described in subparagraph (A) that have been substantiated;
 
@@ -240,7 +244,7 @@ By the superintendent.—For each incident of sexual harassment or sexual assaul
 
 &emsp;&emsp;(B)
 
-By the secretary.—The Secretary shall submit a copy of each report received under subparagraph (A) and the Secretary's comments on the report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+By the secretary.—Not later than January 15 of each year, the Secretary shall submit a copy of each report received under subparagraph (A) and the Secretary's comments on the report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 (e)
 
@@ -266,7 +270,7 @@ Dating violence; domestic violence; stalking.—The terms "dating violence", "do
 
 Sexual assault.—The term "sexual assault" means an offense classified as a forcible or nonforcible sex offense under the uniform crime reporting system of the Federal Bureau of Investigation.
 
-(Added Pub. L. 114–328, div. C, title XXXV, §3510(a), Dec. 23, 2016, 130 Stat. 2782; amended Pub. L. 115–91, div. C, title XXXV, §3514(a)–(d)(1), Dec. 12, 2017, 131 Stat. 1920–1923.)
+(Added Pub. L. 114–328, div. C, title XXXV, §3510(a), Dec. 23, 2016, 130 Stat. 2782; amended Pub. L. 115–91, div. C, title XXXV, §3514(a)–(d)(1), Dec. 12, 2017, 131 Stat. 1920–1923; Pub. L. 115–232, div. C, title XXXV, §3507(a), Aug. 13, 2018, 132 Stat. 2309.)
 
 #### References in Text
 
@@ -275,6 +279,18 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 Section 40002 of the Violence Against Women Act of 1994, referred to in subsec. (f)(1), is section 40002 of title IV of Pub. L. 103–322, which was classified as section 13925 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as section 12291 of Title 34, Crime Control and Law Enforcement.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2)(A). Pub. L. 115–232, §3507(a)(1)(A), inserted "and prevention" after "awareness".
+
+Subsec. (a)(2)(B), (C). Pub. L. 115–232, §3507(a)(1)(B), (C), added subpar. (B) and redesignated former subpar. (B) as (C). Former subpar. (C) redesignated (E).
+
+Subsec. (a)(2)(D) to (H). Pub. L. 115–232, §3507(a)(1)(B), (D), added subpar. (D) and redesignated former subpars. (C) to (F) as (E) to (H), respectively.
+
+Subsec. (b)(2)(A). Pub. L. 115–232, §3507(a)(2), inserted "and other Academy personnel" after "cadets at the Academy".
+
+Subsec. (d)(2)(A). Pub. L. 115–232, §3507(a)(3)(A), inserted ", including sexual harassment," after "sexual assaults, rapes, and other sexual offenses".
+
+Subsec. (d)(4)(B). Pub. L. 115–232, §3507(a)(3)(B), substituted "Not later than January 15 of each year, the Secretary" for "The Secretary".
 
 <b>2017</b>—Pub. L. 115–91, §3514(d)(1), substituted "Policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking" for "Policy on sexual harassment and sexual assault" in section catchline.
 
@@ -308,6 +324,10 @@ Subsec. (b). Pub. L. 115–91, §3514(b), amended subsec. (b) generally. Prior t
 
 Subsecs. (e), (f). Pub. L. 115–91, §3514(c), added subsecs. (e) and (f).
 
+#### Implementation
+
+Pub. L. 115–232, div. C, title XXXV, §3507(b), Aug. 13, 2018, 132 Stat. 2310, provided that: "The Superintendent of the United States Merchant Marine Academy may implement the amendment to subsection (b)(2)(A) of section 51318 of title 46, United States Code, made by subsection (a)(2), by updating an existing plan issued pursuant to the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91)."
+
 #### Access of Academy Cadets to DOD SAFE or Equivalent Helpline
 
 Pub. L. 115–91, div. C, title XXXV, §3515(b), Dec. 12, 2017, 131 Stat. 1926, provided that:
@@ -326,15 +346,31 @@ Definitions.—In this section, the terms 'dating violence', 'domestic violence'
 
 #### Sea Year Compliance
 
-Pub. L. 114–328, div. C, title XXXV, §3514, Dec. 23, 2016, 130 Stat. 2788, as amended by Pub. L. 115–91, div. C, title XXXV, §3513, Dec. 12, 2017, 131 Stat. 1919, provided that:
+Pub. L. 114–328, div. C, title XXXV, §3514, Dec. 23, 2016, 130 Stat. 2788, as amended by Pub. L. 115–91, div. C, title XXXV, §3513, Dec. 12, 2017, 131 Stat. 1919; Pub. L. 115–232, div. C, title XXXV, §3515(a), Aug. 13, 2018, 132 Stat. 2312, provided that:
 
 "(a)
 
-Vessel Operator Requirements.—Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Maritime Administrator, in consultation with operators of commercial vessels of the United States, shall establish—
+Vessel Operator Requirements.—
 
-&emsp;"(1) criteria that vessel operators must meet in order to participate in the Sea Year program of the United States Merchant Marine Academy that addresses sexual harassment, sexual assault, and other inappropriate conduct; and
+&emsp;"(1)
 
-&emsp;"(2) a process for verifying compliance with the criteria.
+In general.—Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Maritime Administrator, in consultation with operators of commercial vessels of the United States, shall establish—
+
+&emsp;&emsp;"(A) criteria that vessel operators must meet in order to participate in the Sea Year program of theUnited States Merchant Marine Academy that addresses sexual harassment, sexual assault, and other inappropriate conduct; and
+
+&emsp;&emsp;"(B) a process for verifying compliance with the criteria.
+
+&emsp;"(2)
+
+Noncommercial vessels.—For the purposes of this section, vessels operated by any of the following entities shall not be considered commercial vessels:
+
+&emsp;&emsp;"(A) Any entity or agency of the United States.
+
+&emsp;&emsp;"(B) The government of a State or territory.
+
+&emsp;&emsp;"(C) Any political subdivision of a State or territory.
+
+&emsp;&emsp;"(D) Any other municipal organization.
 
 "(b)
 

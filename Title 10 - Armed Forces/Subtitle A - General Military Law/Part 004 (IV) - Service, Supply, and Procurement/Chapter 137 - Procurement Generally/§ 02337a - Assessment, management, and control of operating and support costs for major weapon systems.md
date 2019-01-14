@@ -26,7 +26,7 @@ Elements.—The guidance required by subsection (a) shall, at a minimum—
 
 &emsp;(7) require the military departments to ensure that sustainment factors are fully considered at key life-cycle management decision points and that appropriate measures are taken to reduce operating and support costs by influencing system design early in development, developing sound sustainment strategies, and addressing key drivers of costs;
 
-&emsp;(8) require the military departments to conduct an independent logistics assessment ofeach major weapon system prior to key acquisition decision points (including milestone decisions) to identify features that are likely to drive future operating and support costs, changes to system design that could reduce such costs, and effective strategies for managing such costs;
+&emsp;(8) require the military departments to conduct an independent logistics assessment of each major weapon system prior to key acquisition decision points (including milestone decisions) to identify features that are likely to drive future operating and support costs, changes to system design that could reduce such costs, and effective strategies for managing such costs;
 
 &emsp;(9) include—
 
@@ -60,13 +60,17 @@ Support.—The Secretary of Defense shall ensure that the Director, in carrying 
 
 (d)
 
-Major Weapon System Defined.—In this section, the term "major weapon system" has the meaning given that term in section 2379(f) of title 10, United States Code.
+Major Weapon System Defined.—In this section, the term "major weapon system" has the meaning given that term in section 2379(f) of this title.
 
-(Added Pub. L. 115–91, div. A, title VIII, §836(a)(1), Dec. 12, 2017, 131 Stat. 1472.)
+(Added Pub. L. 115–91, div. A, title VIII, §836(a)(1), Dec. 12, 2017, 131 Stat. 1472; amended Pub. L. 115–232, div. A, title X, §1081(a)(20), Aug. 13, 2018, 132 Stat. 1984.)
 
 #### Similar Provisions
 
 Provisions similar to this section were contained in section 832 of Pub. L. 112–81, which was set out as a note under section 2430 of this title, prior to repeal by Pub. L. 115–91, div. A, title VIII, §836(b)(1), Dec. 12, 2017, 131 Stat. 1473.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–232 substituted "this title" for "title 10, United States Code".
 
 #### Should-Cost Management
 

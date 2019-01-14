@@ -110,7 +110,7 @@ Pub. L. 106–53, title IV, §401, Aug. 17, 1999, 113 Stat. 322, provided that:
 
 "(a)
 
-In General.—The Secretary shall undertake a study of non-Federal cost-sharing requirements for the construction and operation and maintenance of deep draft harbor projects to determine whether—
+In General.—The Secretary shall undertake a study of non-Federal cost-sharing requirements for theconstruction and operation and maintenance of deep draft harbor projects to determine whether—
 
 &emsp;"(1) cost sharing adversely affects United States port development or domestic and international trade; and
 

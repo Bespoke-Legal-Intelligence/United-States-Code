@@ -76,7 +76,7 @@ Secretary.—The term 'Secretary' means the Secretary of the Interior.
 
 &emsp;"(4)
 
-Tribally controlled school.—The term 'tribally controlled school' means a school that currently receives a grant under the Tribally Controlled Schools Act of 1988, as amended (25 U.S.C. 2501 et seq.) or is determined by the Secretary to meet the eligibility criteria of section 5205 of the Tribally Controlled Schools Act of 1988, as amended (25 U.S.C. 2504).
+Tribally controlled school.—The term 'tribally controlled school' means a school that currentlyreceives a grant under the Tribally Controlled Schools Act of 1988, as amended (25 U.S.C. 2501 et seq.) or is determined by the Secretary to meet the eligibility criteria of section 5205 of the Tribally Controlled Schools Act of 1988, as amended (25 U.S.C. 2504).
 
 &emsp;"(5)
 

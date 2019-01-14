@@ -4,7 +4,7 @@
 
 (b) On request of a party in interest and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 11 of this title at any time.
 
-(c) The court may not convert a case under this chapter to a case under chapter 12 or 13 of this title unless the debtor requests or consents to such conversion.
+(c) The court may not convert a case under this chapter to a case under chapter 12 or 13 ofthis title unless the debtor requests or consents to such conversion.
 
 (d) Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
 
@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 99–554, §257(q)(2), inserted reference to chapter 12.
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date,except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

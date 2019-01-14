@@ -2,7 +2,7 @@
 
 #### (a) Reports of condition; access to reports
 
-(1) Each insured State nonmember bank and each foreign bank having an insured branch which is not a Federal branch shall make to the Corporation reports of condition which shall be in such form and shall contain such information as the Board of Directors may require. Such reports shall be made to the Corporation on the dates selected as provided in paragraph (3) of this subsection and the deposit liabilities shall be reported therein in accordance with and pursuant to paragraphs (4) and (5) of this subsection. The Board of Directors may call for additional reports of condition on dates to be fixed by it and may call for such other reports as the Board may from time to time require. Any such bank which (A) maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to make or publish any report required under this paragraph, within the period of time specified by the Corporation, or submits or publishes any false or misleading report or information, or (B) inadvertently transmits or publishes any report which is minimally late, shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false or misleading information is not corrected. Such bank shall have the burden of proving that an error was inadvertent and that a report was inadvertently transmitted or published late. Any such bank which fails to make or publish any report required under this paragraph, within the period of time specified by the Corporation, or submits or publishes any false or misleading report or information, in a manner not described in the 2nd preceding sentence shall be subject to a penalty of not more than $20,000 for each day during which such failure continues or such false or misleading information is not corrected. Notwithstanding the preceding sentence, if any such bank knowingly or with reckless disregard for the accuracy of any information or report described in such sentence submits or publishes any false or misleading report or information, the Corporation may assess a penalty of not more than $1,000,000 or 1 percent of total assets of such bank, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected. Any penalty imposed under any of the 4 preceding sentences shall be assessed and collected by the Corporation in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title (for penalties imposed under such section) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such section. Any such bank against which any penalty is assessed under this subsection shall be afforded an agency hearing if such bank submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this paragraph.
+(1) Each insured State nonmember bank and each foreign bank having an insured branch which is not a Federal branch shall make to the Corporation reports of condition which shall be in such form and shall contain such information as the Board of Directors may require. Such reports shall be made to the Corporation on the dates selected as provided in paragraph (3) of this subsection and the deposit liabilities shall be reported therein in accordance with and pursuant to paragraphs (4) and (5) of this subsection. The Board of Directors may call for additional reports of condition on dates to be fixed by it and may call for such other reports as the Board may from time to time require. Any such bank which (A) maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to make or publish any report required under this paragraph, within the period of time specified by the Corporation, or submits or publishes any false or misleading report or information, or (B) inadvertently transmits or publishes any report which is minimally late, shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false or misleading information is not corrected. Such bank shall have the burden of proving that an error was inadvertent and that a report was inadvertently transmitted or published late. Any such bank which fails to make or publish any report required under this paragraph, within the period of time specified by the Corporation, or submits or publishes any false or misleading report or information, in a manner not described in the 2nd preceding sentence shall be subject to a penalty of not more than $20,000 for each day during which such failure continues or such false or misleading information is not corrected. Notwithstanding the preceding sentence, if any such bank knowingly or with reckless disregard for the accuracy of any information or report described in such sentence submits or publishes any false or misleading report or information, the Corporation may assess a penalty of not more than $1,000,000 or 1 percent of total assets of such bank, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected. Any penalty imposed under any of the 4 preceding sentences shall be assessed and collected by the Corporation in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title (for penalties imposed under such section) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such section. Any such bank against which anypenalty is assessed under this subsection shall be afforded an agency hearing if such bank submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this paragraph.
 
 (2)(A) The Corporation and, with respect to any State depository institution, any appropriate State bank supervisor for such institution, shall have access to reports of examination made by, and reports of condition made to, the Comptroller of the Currency, the Federal Housing Finance Agency, any Federal home loan bank, or any Federal Reserve bank and to all revisions of reports of condition made to any of them, and they shall promptly advise the Corporation of any revisions or changes in respect to deposit liabilities made or required to be made in any report of condition. The Corporation may accept any report made by or to any commission, board, or authority having supervision of a depository institution, and may furnish to the Comptroller of the Currency, to the Federal Housing Finance Agency, to any Federal home loan bank, to any Federal Reserve bank, and to any such commission, board, or authority, reports of examinations made on behalf of, and reports of condition made to, the Corporation.
 
@@ -58,6 +58,22 @@ Review of information and schedules.—Before the end of the 1-year period begin
 
 Reduction or elimination of information found to be unnecessary.—After completing the review required by subparagraph (A), a Federal banking agency, in conjunction with the other relevant Federal banking agencies, shall reduce or eliminate any requirement to file information or schedules under paragraph (3) (other than information or schedules that are otherwise required by law) if the agency determines that the continued collection of such information or schedules is no longer necessary or appropriate.
 
+(12)
+
+Short form reporting.—
+
+&emsp;(A)
+
+In general.—The appropriate Federal banking agencies shall issue regulations that allow for a reduced reporting requirement for a covered depository institution when the institution makes the first and third report of condition for a year, as required under paragraph (3).
+
+&emsp;(B)
+
+Definition.—In this paragraph, the term "covered depository institution" means an insured depository institution that—
+
+&emsp;&emsp;(i) has less than $5,000,000,000 in total consolidated assets; and
+
+&emsp;&emsp;(ii) satisfies such other criteria as the appropriate Federal banking agencies determine appropriate.
+
 #### (b) Assessments
 
 #### (1) Risk-based assessment system
@@ -76,7 +92,7 @@ Reduction or elimination of information found to be unnecessary.—After complet
 
 #### (C) "Risk-based assessment system" defined
 
-&emsp;&emsp;For purposes of this paragraph, the term "risk-based assessment system" means a system for calculating a depository institution's assessment based on—
+&emsp;&emsp;For purposes of this paragraph, the term "risk-based assessment system" means asystem for calculating a depository institution's assessment based on—
 
 &emsp;&emsp;&emsp;(i) the probability that the Deposit Insurance Fund will incur a loss with respect to the institution, taking into consideration the risks attributable to—
 
@@ -116,7 +132,7 @@ Reduction or elimination of information found to be unnecessary.—After complet
 
 #### (F) Modifications to the risk-based assessment system allowed only after notice and comment
 
-&emsp;&emsp;In revising or modifying the risk-based assessment system at any time after February8, 2006, the Board of Directors may implement such revisions or modification in final form only after notice and opportunity for comment.
+&emsp;&emsp;In revising or modifying the risk-based assessment system at any time after February 8, 2006, the Board of Directors may implement such revisions or modification in final form only after notice and opportunity for comment.
 
 #### (2) Setting assessments
 
@@ -292,7 +308,7 @@ Reduction or elimination of information found to be unnecessary.—After complet
 
 #### (d) Corporation exempt from apportionment
 
-Notwithstanding any other provision of law, amounts received pursuant to any assessment under this section and any other amounts received by the Corporation shall not be subject to apportionment for the purposes of chapter 15 of title 31 or under any other authority.
+Notwithstanding any other provision of law, amounts received pursuant to any assessment under this section and any other amounts received by the Corporation shall not be subject toapportionment for the purposes of chapter 15 of title 31 or under any other authority.
 
 #### (e) Refunds, dividends, and credits
 
@@ -340,7 +356,7 @@ Notwithstanding any other provision of law, amounts received pursuant to any ass
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the amount of a credit to any eligible insured depositoryinstitution under this paragraph shall be applied by the Corporation, subject to subsection (b)(3)(E), to the assessments imposed on such institution under subsection (b) that become due for assessment periods beginning after the effective date of regulations prescribed under subparagraph (A).
+&emsp;&emsp;&emsp;Subject to clause (ii), the amount of a credit to any eligible insured depository institution under this paragraph shall be applied by the Corporation, subject to subsection (b)(3)(E), to the assessments imposed on such institution under subsection (b) that become due for assessment periods beginning after the effective date of regulations prescribed under subparagraph (A).
 
 #### (ii) Temporary restriction on use of credits
 
@@ -394,7 +410,7 @@ Any insured depository institution which fails to make any report of condition u
 
 #### (h) Forfeiture of rights for failure to comply with law
 
-Should any national member bank or any insured national nonmember bank fail to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by such bank under any provision of this section, or fail to pay any assessment required to be paid by such bank under any provision of this chapter, and should the bank not correct such failure within thirty days after written notice has been given by the Corporation to an officer of the bank, citing this subsection, and stating that the bank has failed to make any report of condition under subsection (a) of this section or to file or pay as required by law, all the rights, privileges, and franchises of the bank granted to it under theNational Bank Act, as amended \[12 U.S.C. 21 et seq.\], the Federal Reserve Act, as amended \[12 U.S.C. 221 et seq.\], or this chapter, shall be thereby forfeited. Whether or not the penalty provided in this subsection has been incurred shall be determined and adjudged in the manner provided in the sixth paragraph of section 2 of the Federal Reserve Act, as amended \[12 U.S.C. 501a\]. The remedies provided in this subsection and in subsections (f) and (g) shall not be construed as limiting any other remedies against any insured depository institution, but shall be in addition thereto.
+Should any national member bank or any insured national nonmember bank fail to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by such bank under any provision of this section, or fail to pay any assessment required to be paid by such bank under any provision of this chapter, and should the bank not correct such failure within thirty days after written notice has been given by the Corporation to an officer of the bank, citing this subsection, and stating that the bank has failed to make any report of condition under subsection (a) of this section or to file or pay as required by law, all the rights, privileges, and franchises of the bank granted to it under the National Bank Act, as amended \[12 U.S.C. 21 et seq.\], the Federal Reserve Act, as amended \[12 U.S.C. 221 et seq.\], or this chapter, shall be thereby forfeited. Whether or not the penalty provided in this subsection has been incurred shall be determined and adjudged in the manner provided in the sixth paragraph of section 2 of the Federal Reserve Act, as amended \[12 U.S.C. 501a\]. The remedies provided in this subsection and in subsections (f) and (g) shall not be construed as limiting any other remedies against any insured depository institution, but shall be in addition thereto.
 
 #### (i) Insurance of trust funds
 
@@ -462,7 +478,7 @@ Public Comment.—Upon receiving notice of a proposed acquisition, the appropria
 
 (4) Within ten days of receipt of such notice of disapproval, the acquiring party may request an agency hearing on the proposed acquisition. In such hearing all issues shall be determined on the record pursuant to section 554 of title 5. The length of the hearing shall be determined by the appropriate Federal banking agency. At the conclusion thereof, the appropriate Federal banking agency shall by order approve or disapprove the proposed acquisition on the basis of the record made at such hearing.
 
-(5) Any person whose proposed acquisition is disapproved after agency hearings under this subsection may obtain review by the United States court of appeals for the circuit in which the home office of the bank <sup>4</sup> to be acquired is located, or the United States Court of Appeals for the District of Columbia Circuit, by filing a notice of appeal in such court within ten days from the date of such order, and simultaneously sending a copy of such notice by registered or certified mail to the appropriate Federal banking agency. The appropriate Federal banking agency shall promptly certify and file in such court the record upon which the disapproval was based. The findings of the appropriate Federal banking agency shall be set aside if found to be arbitrary or capricious or if found to violate procedures established by this subsection.
+(5) Any person whose proposed acquisition is disapproved after agency hearings under this subsection may obtain review by the United States court of appeals for the circuit in which the home office of the bank <sup>4</sup> to be acquired is located, or the United States Court of Appeals for the District of Columbia Circuit, by filing a notice of appeal in such court within ten days from the date of such order, and simultaneously sending a copy of such notice by registered or certified mail to the appropriate Federal banking agency. The appropriate Federal banking agency shall promptly certify and file in such court the record upon which the disapproval was based. The findings of the appropriate Federal banking agency shall be set aside if found to be arbitraryor capricious or if found to violate procedures established by this subsection.
 
 (6) Except as otherwise provided by regulation of the appropriate Federal banking agency, a notice filed pursuant to this subsection shall contain the following information:
 
@@ -596,7 +612,7 @@ Investigations.—The appropriate Federal banking agency may exercise any author
 
 &emsp;(B)
 
-Enforcement.—Whenever it appears to the appropriate Federal banking agency that any person is violating, has violated, or is about to violate any provision of this subsection or any regulation prescribed under this subsection, the agency may, in its discretion, apply to the appropriate district court of the United States or the United States court of any territory for—
+Enforcement.—Whenever it appears to the appropriate Federal banking agency that any person is violating, has violated, or isabout to violate any provision of this subsection or any regulation prescribed under this subsection, the agency may, in its discretion, apply to the appropriate district court of the United States or the United States court of any territory for—
 
 &emsp;&emsp;(i) a temporary or permanent injunction or restraining order enjoining such person from violating this subsection or any regulation prescribed under this subsection; or
 
@@ -756,7 +772,7 @@ For purposes of this section:
 
 #### (1) Offsets in calendar years beginning before 1993
 
-&emsp;Subject to the maximum amount limitation contained in paragraph (2) and notwithstanding any other provision of law, any insured savings association may offset such association's pro rata share of the statutorily prescribed amount against any premium assessedagainst such association under subsection (b) of this section for any calendar year beginning before 1993.
+&emsp;Subject to the maximum amount limitation contained in paragraph (2) and notwithstanding any other provision of law, any insured savings association may offset such association's pro rata share of the statutorily prescribed amount against any premium assessed against such association under subsection (b) of this section for any calendar year beginning before 1993.
 
 #### (2) Annual maximum amount limitation
 
@@ -814,7 +830,7 @@ For purposes of this section:
 
 When requested by the Comptroller of the Currency, the Corporation shall collect on behalf of the Comptroller assessments on Federal savings associations levied by the Comptroller under section 1467 of this title. The Corporation shall be reimbursed for its actual costs for the collection of such assessments. Any such assessments by the Comptroller shall be in addition to any amounts assessed by the Corporation.
 
-(Sept. 21, 1950, ch. 967, §2\[7\], 64 Stat. 876; Pub. L. 86–671, §§2, 3, July 14, 1960, 74 Stat. 547–551; Pub. L. 88–593, Sept. 12, 1964, 78 Stat. 940; Pub. L. 89–695, title II, §201, title III, §301(b), Oct. 16, 1966, 80 Stat. 1046, 1055; Pub. L. 91–151, §7(a)(2),Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(g), (h), Dec. 31, 1970, 84 Stat. 1812; Pub. L. 93–495, title I, §§101(a)(2), 102(a)(2), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(8)–(13), Sept. 17, 1978, 92 Stat. 617, 618; Pub. L. 95–630, title III, §§302, 310, title VI, §602, title IX, §901, Nov. 10, 1978, 92 Stat. 3676, 3678, 3683, 3693; Pub. L. 96–221, title III, §308(a)(1)(B), (d), Mar. 31, 1980, 94 Stat. 147, 148; Pub. L. 97–110, title I, §103(b), Dec. 26, 1981, 95 Stat. 1514; Pub. L. 97–320, title I, §§113(d)–(f), (q), 117, title IV, §429, Oct. 15, 1982, 96 Stat. 1473, 1475, 1479, 1527; Pub. L. 99–570, title I, §1360, Oct. 27, 1986, 100 Stat. 3207–29; Pub. L. 100–86, title V, §505(a), Aug. 10, 1987, 101 Stat. 633; Pub. L. 101–73, title II, §§201, 208, title IX, §§905(c), 907(d), 911(c), 931(a), Aug. 9, 1989, 103 Stat. 187, 206, 460, 468, 479, 493; Pub. L. 101–508, title II, §§2002–2004, Nov. 5, 1990, 104 Stat. 1388–14—1388–16; Pub. L. 102–242, title I, §§103(b), 104, 113(c)(1), 141(c), title II, §§205, 232(b), 233(c), title III, §§302(a), (b), (e)(3), (4), formerly (e)(2), (3), 311(a)(2), (b)(3), 313(a), title IV, §474, Dec. 19, 1991, 105 Stat. 2238, 2247, 2277, 2292, 2310, 2314, 2345, 2348, 2349, 2363, 2365, 2368, 2386; Pub. L. 102–550, title IX, §931(a), (b), title XVI, §§1603(a)(1), (3), 1604(b)(1), (3), 1605(a)(2), (5)(A), (6), (b)(1), (2), 1606(i)(1), Oct. 28, 1992, 106 Stat. 3888, 4078, 4083, 4085–4087, 4089; Pub. L. 102–558, title III, §§303(a), (b)(1), (3), (6)(A), (7), (8), 305, Oct. 28, 1992, 106 Stat. 4224–4226; Pub. L. 103–204, §§8(h), 38(a), Dec. 17, 1993, 107 Stat. 2388, 2416; Pub. L. 103–325, title III, §§305(b), 308(b), 348, title VI, §602(a)(4)–(10), Sept. 23, 1994, 108 Stat. 2217, 2218, 2241, 2288; Pub. L. 104–208, div. A, title II, §§2226, 2703(b), 2704(d)(6)(B), (14)(G), 2706–2708, Sept. 30, 1996, 110 Stat. 3009–417, 3009–485, 3009–488, 3009–491, 3009–496, 3009–497; Pub. L. 106–569, title XII, §1231(a), Dec. 27, 2000, 114 Stat. 3036; Pub. L. 108–386, §8(a)(2), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §§2102(b), 2104(a), (b), (d), 2105(a), 2106, 2107(a), 2108, Feb. 8, 2006, 120 Stat. 9, 12–16, 19; Pub. L. 109–173, §§2(b), 3(a)(1)–(5), 8(a)(8), (9), Feb. 15, 2006, 119 Stat. 3602, 3605, 3611; Pub. L. 109–351, title VI, §604, title VII, §§705, 707(a), Oct. 13, 2006, 120 Stat. 1980, 1987; Pub. L. 111–22, div. A, title II, §204(b), May 20, 2009, 123 Stat. 1649; Pub. L. 111–203, title III, §§331(a), 332–334(a), 363(2), title IX, §939(a)(1), July 21, 2010, 124 Stat. 1538, 1539, 1550, 1885.)
+(Sept. 21, 1950, ch. 967, §2\[7\], 64 Stat. 876; Pub. L. 86–671, §§2, 3, July 14, 1960, 74 Stat. 547–551; Pub. L. 88–593, Sept. 12, 1964, 78 Stat. 940; Pub. L. 89–695, title II, §201, title III, §301(b), Oct. 16, 1966, 80 Stat. 1046, 1055; Pub. L. 91–151, §7(a)(2), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(g), (h), Dec. 31, 1970, 84 Stat. 1812; Pub. L. 93–495, title I, §§101(a)(2), 102(a)(2), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(8)–(13), Sept. 17, 1978, 92 Stat. 617, 618; Pub. L. 95–630, title III, §§302, 310, title VI, §602, title IX, §901, Nov. 10, 1978, 92 Stat. 3676, 3678, 3683, 3693; Pub. L. 96–221, title III, §308(a)(1)(B), (d), Mar. 31, 1980, 94 Stat. 147, 148; Pub. L. 97–110, title I, §103(b), Dec. 26, 1981, 95 Stat. 1514; Pub. L. 97–320, title I, §§113(d)–(f), (q), 117, title IV, §429, Oct. 15, 1982, 96 Stat. 1473, 1475, 1479, 1527; Pub. L. 99–570, title I, §1360, Oct. 27, 1986, 100 Stat. 3207–29; Pub. L. 100–86, title V, §505(a), Aug. 10, 1987, 101 Stat. 633; Pub. L. 101–73, title II, §§201, 208, title IX, §§905(c), 907(d), 911(c), 931(a), Aug. 9, 1989, 103 Stat. 187, 206, 460, 468, 479, 493; Pub. L. 101–508, title II, §§2002–2004, Nov. 5, 1990, 104 Stat. 1388–14—1388–16; Pub. L. 102–242, title I, §§103(b), 104, 113(c)(1), 141(c), title II, §§205, 232(b), 233(c), title III, §§302(a), (b), (e)(3), (4), formerly (e)(2), (3), 311(a)(2), (b)(3), 313(a), title IV, §474, Dec. 19, 1991, 105 Stat. 2238, 2247, 2277, 2292, 2310, 2314, 2345, 2348, 2349, 2363, 2365, 2368, 2386; Pub. L. 102–550, title IX, §931(a), (b), title XVI, §§1603(a)(1), (3), 1604(b)(1), (3), 1605(a)(2), (5)(A), (6), (b)(1), (2), 1606(i)(1), Oct. 28, 1992, 106 Stat. 3888, 4078, 4083, 4085–4087, 4089; Pub. L. 102–558, title III, §§303(a), (b)(1), (3), (6)(A), (7), (8), 305, Oct. 28, 1992, 106 Stat. 4224–4226; Pub. L. 103–204, §§8(h), 38(a), Dec. 17, 1993, 107 Stat. 2388, 2416; Pub. L. 103–325, title III, §§305(b), 308(b), 348, title VI, §602(a)(4)–(10), Sept. 23, 1994, 108 Stat. 2217, 2218, 2241, 2288; Pub. L. 104–208, div. A, title II, §§2226, 2703(b), 2704(d)(6)(B), (14)(G), 2706–2708, Sept. 30, 1996, 110 Stat. 3009–417, 3009–485, 3009–488, 3009–491, 3009–496, 3009–497; Pub. L. 106–569, title XII, §1231(a), Dec. 27, 2000, 114 Stat. 3036; Pub. L. 108–386, §8(a)(2), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §§2102(b), 2104(a), (b), (d), 2105(a), 2106, 2107(a), 2108, Feb. 8, 2006, 120 Stat. 9, 12–16, 19; Pub. L. 109–173, §§2(b), 3(a)(1)–(5), 8(a)(8), (9), Feb. 15, 2006, 119 Stat. 3602, 3605, 3611; Pub. L. 109–351, title VI, §604, title VII, §§705, 707(a), Oct. 13, 2006, 120 Stat. 1980, 1987; Pub. L. 111–22, div. A, title II, §204(b), May 20, 2009, 123 Stat. 1649; Pub. L. 111–203, title III, §§331(a), 332–334(a), 363(2), title IX, §939(a)(1), July 21, 2010, 124 Stat. 1538, 1539, 1550, 1885; Pub. L. 115–174, title II, §205, May 24, 2018, 132 Stat. 1310.)
 
 #### References in Text
 
@@ -839,6 +855,8 @@ The calendar year in which the Financial Institutions Reform, Recovery, and Enfo
 Section is derived from subsec. (h) of former section 264 of this title. See Codification note under section 1811 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(12). Pub. L. 115–174 added par. (12).
 
 <b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–203, §363(2)(A)(i)(I), in the first sentence, struck out "the Director of the Office of Thrift Supervision," before "the Federal" and substituted "Finance Agency" for "Finance Board" and, in the second sentence, substituted "to the Federal Housing" for "the Director of the Office of Thrift Supervision, the Federal Housing", inserted "to" before "any Federal home", and substituted "Finance Agency" for "Finance Board".
 
@@ -878,7 +896,7 @@ Subsec. (n). Pub. L. 111–203, §363(2)(B), in heading, substituted "Comptrolle
 
 <b>2006</b>—Subsec. (a)(2)(C). Pub. L. 109–351, §707(a), added subpar. (C).
 
-Subsec. (a)(3). Pub. L. 109–173, §3(a)(1), substituted "Such reports of condition shall be the basis for the certified statements to be filed pursuant to subsection (c)." for "Two dates shall be selected within the semiannual period of January to June inclusive, and the reports on such dates shall be the basis for the certified statement to be filed in July pursuant to subsection (c) of this section, and two dates shall be selected within the semiannual period of July to December inclusive, and the reports on such dates shall be the basis for the certified statement to be filed in January pursuant to subsection (c) of this section."
+Subsec. (a)(3). Pub. L. 109–173, §3(a)(1), substituted "Such reports of condition shall be the basis for the certified statements to be filed pursuant to subsection (c)." for "Two dates shall be selected within the semiannual period of January to June inclusive, and the reports on such dates shall be the basis for the certifiedstatement to be filed in July pursuant to subsection (c) of this section, and two dates shall be selected within the semiannual period of July to December inclusive, and the reports on such dates shall be the basis for the certified statement to be filed in January pursuant to subsection (c) of this section."
 
 Subsec. (a)(11). Pub. L. 109–351, §604, added par. (11).
 
@@ -994,7 +1012,7 @@ Subsec. (b)(3)(A). Pub. L. 104–208, §2704(d)(14)(G)(vii)(II)–(V), which dir
 
 Subsec. (b)(3)(B). Pub. L. 104–208, §2704(d)(14)(G)(vii)(III), which directed substitution of "the Deposit Insurance Fund" for "that fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (b)(3)(C), (D). Pub. L. 104–208, §2704(d)(14)(G)(vii)(VI), which directed the striking of subpars. (C) and (D) and the addition of a new subpar. (C), was repealed by Pub. L. 109–171. See Effective Dateof 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (b)(3)(C), (D). Pub. L. 104–208, §2704(d)(14)(G)(vii)(VI), which directed the striking of subpars. (C) and (D) and the addition of a new subpar. (C), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (b)(6). Pub. L. 104–208, §2704(d)(14)(G)(viii), which directed the amendment of par. (6) by substituting "any such assessment is necessary" for "any such assessment" in introductory provisions, striking subpar. (A) designation, introductory provisions, and subpar. (B), redesignating cls. (i) to (iii) of subpar. (A) as subpars. (A) to (C), respectively, realigning margins, and substituting period for "; and" at end of subpar. (C), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
@@ -1056,7 +1074,7 @@ Subsec. (b)(2). Pub. L. 102–558, §303(a), struck out comma after "members" in
 
 Subsec. (b)(2)(A)(iii)(I). Pub. L. 102–550, §931(b), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "½ the assessment rate applicable with respect to such deposits pursuant to paragraph (10) during that semiannual assessment period; and".
 
-Subsec. (b)(6). Pub. L. 102–558, §303(b)(7), added par. (6). Pub. L. 102–550, §1603(a)(3), which contained an identical amendment, was repealed, effective Oct. 28, 1992,by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+Subsec. (b)(6). Pub. L. 102–558, §303(b)(7), added par. (6). Pub. L. 102–550, §1603(a)(3), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
 Subsec. (b)(6)(D). Pub. L. 102–550, §1605(b)(1), added subpar. (D) and struck out former subpar. (D) which read as follows: "any liability of the insured depository institution which is not treated as an insured deposit pursuant to section 1821(a)(8) of this title."
 
@@ -1242,7 +1260,7 @@ Subsec. (a)(8). Pub. L. 101–73, §931(a), added par. (8).
 
 Subsec. (b)(1). Pub. L. 101–73, §208(4), added par. (1) and struck out former par. (1) which read as follows: "The annual assessment rate shall be one-twelfth of 1 per centum. Except as provided in subsection (c)(2) of this section, the semiannual assessment due from any insured bank for any semiannual period shall be equal to one-half the annual assessment rate multiplied by such bank's average assessment base for the immediately preceding semiannual period."
 
-Subsec. (b)(2). Pub. L. 101–73, §208(4), added par. (2) and struck out former par. (2) which read as follows: "For the purposes of this section the term 'semiannual period' means a period beginning on January 1 of any calendar year and ending on June 30 of the same year, or a period beginning on July 1 of any calendar year and ending on December 31 of the same year."
+Subsec. (b)(2). Pub. L. 101–73, §208(4), added par. (2) and struck out former par. (2) which read as follows:"For the purposes of this section the term 'semiannual period' means a period beginning on January 1 of any calendar year and ending on June 30 of the same year, or a period beginning on July 1 of any calendar year and ending on December 31 of the same year."
 
 Subsec. (b)(3) to (8). Pub. L. 101–73, §208(6), substituted references to depository institutions for references to banks wherever appearing.
 
@@ -1416,7 +1434,7 @@ Pub. L. 102–242, title III, §302(g), Dec. 19, 1991, 105 Stat. 2349, provided 
 
 &emsp;"(2) January 1, 1994."
 
-Amendment by section 311(a)(2), (b)(3) of Pub. L. 102–242 effective at end of 2-year period beginning Dec. 19, 1991, but not applicable to any time deposit which was made before Dec. 19, 1991, and matures after end of2-year period beginning on Dec. 19, 1991, with rollovers and renewals treated as new deposits, see section 311(c)(1), (2) of Pub. L. 102–242, set out as a note under section 1821 of this title.
+Amendment by section 311(a)(2), (b)(3) of Pub. L. 102–242 effective at end of 2-year period beginning Dec. 19, 1991, but not applicable to any time deposit which was made before Dec. 19, 1991, and matures after end of 2-year period beginning on Dec. 19, 1991, with rollovers and renewals treated as new deposits, see section 311(c)(1), (2) of Pub. L. 102–242, set out as a note under section 1821 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -1522,7 +1540,7 @@ Pub. L. 102–242, title III, §302(f), Dec. 19, 1991, 105 Stat. 2349, provided 
 
 Pub. L. 111–203, title III, §334(c)–(e), July 21, 2010, 124 Stat. 1539, provided that:
 
-"(c) For a period of not less than 5 years after the date of the enactment of this title \[July 21, 2010\], the Federal Deposit Insurance Corporation shall make available to the public the reserve ratio and the designated reserve ratio using both estimated insured deposits and the assessment base under \[former\] section 7(b)(2)(C) of the Federal Deposit Insurance Act \[12 U.S.C. 1817(b)(2) does not contain a subpar. (C)\].
+"(c) For a period of not less than 5 years after the date of the enactment of this title \[July 21, 2010\], theFederal Deposit Insurance Corporation shall make available to the public the reserve ratio and the designated reserve ratio using both estimated insured deposits and the assessment base under \[former\] section 7(b)(2)(C) of the Federal Deposit Insurance Act \[12 U.S.C. 1817(b)(2) does not contain a subpar. (C)\].
 
 "(d)
 

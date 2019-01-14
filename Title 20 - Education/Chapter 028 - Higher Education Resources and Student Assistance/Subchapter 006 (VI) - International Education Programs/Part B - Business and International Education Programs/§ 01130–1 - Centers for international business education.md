@@ -168,7 +168,7 @@ Subsec. (c)(2)(C). Pub. L. 105–244, §602(b)(1)(B), inserted "foreign language
 
 Subsec. (d)(2)(G). Pub. L. 105–244, §602(b)(2), inserted ", such as a representative of a community college in the region served by the center" before the period.
 
-<b>1992</b>—Pub. L. 102–325 amended section generally, substituting present provisions for provisions relating to grants for establishing and operating international business education centers in subsec. (a), costs to be covered by Federal funds in subsec. (b), scope of programs and activities in subsec. (c), center advisory council in subsec. (d), duration of grants and allotment of Federal and non-Federal shares in subsec. (e), and conditions for grants in subsec. (f).
+<b>1992</b>—Pub. L. 102–325 amended section generally, substituting present provisions for provisions relating togrants for establishing and operating international business education centers in subsec. (a), costs to be covered by Federal funds in subsec. (b), scope of programs and activities in subsec. (c), center advisory council in subsec. (d), duration of grants and allotment of Federal and non-Federal shares in subsec. (e), and conditions for grants in subsec. (f).
 
 #### Effective Date of 1998 Amendment
 

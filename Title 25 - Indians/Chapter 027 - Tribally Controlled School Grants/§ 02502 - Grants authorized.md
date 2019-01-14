@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, grants provided under this chaptershall be used to defray, at the discretion of the school board of the tribally controlled school with respect to which the grant is provided, any expenditures for education related activities for which any funds that compose the grant may be used under the laws described in section 2504(a) of this title, including expenditures for—
+&emsp;&emsp;Except as otherwise provided in this paragraph, grants provided under this chapter shall be used to defray, at the discretion of the school board of the tribally controlled school with respect to which the grant is provided, any expenditures for education related activities for which any funds that compose the grant may be used under the laws described in section 2504(a) of this title, including expenditures for—
 
 &emsp;&emsp;&emsp;(i) school operations, academic, educational, residential, guidance and counseling, and administrative purposes; and
 
@@ -38,7 +38,7 @@
 
 #### (2) Nonsectarian use
 
-&emsp;Funds provided under any grant made under this chapter may not be used in connection with religious worship or sectarian instruction.
+&emsp;Funds provided under any grant made under this chapter may not be used in connectionwith religious worship or sectarian instruction.
 
 #### (3) Administrative costs limitation
 

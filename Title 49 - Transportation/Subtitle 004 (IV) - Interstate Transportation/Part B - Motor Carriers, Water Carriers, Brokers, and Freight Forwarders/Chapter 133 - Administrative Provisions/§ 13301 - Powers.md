@@ -14,7 +14,7 @@ Subpoena Power.—
 
 &emsp;(1)
 
-By secretary.—The Secretary may subpoena witnesses and records related to a proceeding under this part from any place in the United States, to the designated place of the proceeding. If a witness disobeys a subpoena, the Secretary, or a party to a proceeding under this part, may petition a court of the United States to enforce that subpoena.
+By secretary.—The Secretary may subpoena witnesses and records related to a proceeding under this part from any place in the United States, to the designated place of the proceeding. If a witness disobeys a subpoena,the Secretary, or a party to a proceeding under this part, may petition a court of the United States to enforce that subpoena.
 
 &emsp;(2)
 
@@ -30,7 +30,7 @@ Procedure for taking testimony.—In a proceeding under this part, the Secretary
 
 &emsp;(2)
 
-Subpoena.—If a witness fails to be deposed or to produce records under paragraph\(1) of this subsection, the Secretary may subpoena the witness to take a deposition, produce the records, or both.
+Subpoena.—If a witness fails to be deposed or to produce records under paragraph (1) of this subsection, the Secretary may subpoena the witness to take a deposition, produce the records, or both.
 
 &emsp;(3)
 
@@ -64,5 +64,5 @@ Provisions similar to those in this section were contained in section 10321 of t
 
 #### Effective Date
 
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

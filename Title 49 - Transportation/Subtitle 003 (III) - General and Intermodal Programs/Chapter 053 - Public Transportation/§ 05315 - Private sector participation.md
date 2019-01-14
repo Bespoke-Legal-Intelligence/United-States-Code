@@ -26,7 +26,7 @@ Actions to Provide Technical Assistance for Alternative Project Delivery Methods
 
 &emsp;(2) develop standard public-private partnership transaction model contracts; and
 
-&emsp;(3) perform financial assessments that include the calculation of public and privatebenefits of a proposed public-private partnership transaction.
+&emsp;(3) perform financial assessments that include the calculation of public and private benefits of a proposed public-private partnership transaction.
 
 (d)
 
@@ -154,7 +154,7 @@ Assessment.—In developing and implementing the guidance under paragraph (2), t
 
 "(4)
 
-Report.—Not later than 4 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L.112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary shall submit to Congress a report on the status of the procedures, approaches, and guidance developed and implemented under paragraphs (1) and (2).
+Report.—Not later than 4 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary shall submit to Congress a report on the status of the procedures, approaches, and guidance developed and implemented under paragraphs (1) and (2).
 
 "(5)
 

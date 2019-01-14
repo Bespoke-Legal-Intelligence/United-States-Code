@@ -2,7 +2,7 @@
 
 (a)
 
-Preliminary Investigation With Respect to Certain Covered Persons.—The Attorney General shall conduct a preliminary investigation in accordance with section 592 whenever the Attorney General receives information sufficient to constitute grounds to investigate whether any person described in subsection (b) may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
+Preliminary Investigation With Respect to Certain Covered Persons.—The Attorney General shall conduct a preliminary investigation in accordance with section 592 whenever theAttorney General receives information sufficient to constitute grounds to investigate whether any person described in subsection (b) may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
 
 (b)
 
@@ -108,7 +108,7 @@ Subsec. (b)(3). Pub. L. 97–409, §3, substituted "who is compensated at or abo
 
 Subsec. (b)(4), (5). Pub. L. 97–409, §3, redesignated as par. (5) "the Director of Central Intelligence" and all that followed through end of par. (4). Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 97–409, §3, redesignated former par. (5) as (6) and substituted "through (5) of this subsection during the period consisting of the incumbency of the President such individual serves plus one year after such incumbency, but in no event longer than two years after the individual leaves office;" for "through (4) of this subsection during the incumbency of the President or during the period the last preceding President held office, if such preceding President was of thesame political party as the incumbent President; and". Former par. (6) redesignated (8).
+Subsec. (b)(6). Pub. L. 97–409, §3, redesignated former par. (5) as (6) and substituted "through (5) of this subsection during the period consisting of the incumbency of the President such individual serves plus one year after such incumbency, but in no event longer than two years after the individual leaves office;" for "through (4) of this subsection during the incumbency of the President or during the period the last preceding President held office, if such preceding President was of the same political party as the incumbent President; and". Former par. (6) redesignated (8).
 
 Subsec. (b)(7). Pub. L. 97–409, §3, added par. (7).
 
@@ -150,7 +150,7 @@ Periodic Reappointment.—The determinations by the division of the court contai
 
 "(g)
 
-Reporting Requirements.—No amendment made by this Act that establishes or modifies a requirement that any person submit a report to any other person with respect to an activity occurring during any time period shall be construed to require that a report submitted prior to the date of enactment of this Act, with respect to that time period be supplemented to include information with respect to such activity.
+Reporting Requirements.—No amendment made by this Act that establishes or modifies a requirementthat any person submit a report to any other person with respect to an activity occurring during any time period shall be construed to require that a report submitted prior to the date of enactment of this Act, with respect to that time period be supplemented to include information with respect to such activity.
 
 "(h)
 

@@ -14,7 +14,7 @@
 
 #### (B) Demonstration projects
 
-&emsp;&emsp;Of the amounts made available for a fiscal year under subparagraph (A), the Secretary shall make available not more than 40 percent of such amounts to carry out section 5105 of this title.
+&emsp;&emsp;Of the amounts made available for a fiscal year under subparagraph (A), the Secretaryshall make available not more than 40 percent of such amounts to carry out section 5105 of this title.
 
 #### (b) Availability of funds without fiscal year limitation
 
@@ -54,7 +54,7 @@ Allocations.—
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–295 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "There are authorized to be appropriated for purposes of carrying out this subchapter $48,000,000 for fiscal year 1988, and such sums as may be necessary for fiscal years 1989, 1990, and 1991. Of the funds appropriated for any fiscal year under this section, except as provided in the succeeding sentence (1)(A) $11,000,000 shall be available for activities under sections 5104, 5105, and 5106 of this title, and (B), $9,000,000 shall be available in each fiscal year for activities under sections 5106a(a) and 5106b of this title, giving special consideration to continued funding of child abuse and neglect programs or projects (previously funded by the Department of Health and Human Services) of national or regional scope and demonstrated effectiveness, (2) $5,000,000 shall be available in each such year for grants and contracts under section 5106(a) of this title, for identification, treatment, and prevention of sexual abuse, and (3) $5,000,000 shall be available in each such year for the purpose of making additional grants to the States to carry out the provisions of section 5106a(f) of this title. With respect to any fiscal year in which the total amount appropriated under this section is less than $30,000,000, no less than $20,000,000 of the funds appropriated in such fiscal year shall be available as provided in clause (1) in the preceding sentence and of the remainder, one-half shall be available as provided for in clause (2) and one-half as provided for in clause (3) in the preceding sentence."
 
-<b>1989</b>—Pub. L. 101–126, §3(b)(8), made technical amendments to references to this subchapter and to sections5104, 5105, 5106, 5106a, and 5106b of this title to reflect the insertion of title designations and renumbering of corresponding sections in original act.
+<b>1989</b>—Pub. L. 101–126, §3(b)(8), made technical amendments to references to this subchapter and to sections 5104, 5105, 5106, 5106a, and 5106b of this title to reflect the insertion of title designations and renumbering of corresponding sections in original act.
 
 #### Effective Date of 1992 Amendment
 

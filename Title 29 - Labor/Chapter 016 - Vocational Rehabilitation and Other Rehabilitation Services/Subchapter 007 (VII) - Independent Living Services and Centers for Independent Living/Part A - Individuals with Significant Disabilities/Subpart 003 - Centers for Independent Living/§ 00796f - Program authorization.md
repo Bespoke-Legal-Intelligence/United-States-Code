@@ -24,7 +24,7 @@ From the funds appropriated for fiscal year 2015 and for each subsequent fiscal 
 
 #### (5) Prohibition on combined funds
 
-&emsp;No funds reserved by the Administrator under this subsection may be combined with funds appropriated under any other Act or part of this chapter if the purpose of combining funds is to make a single discretionary grant or a single discretionary payment, unless such funds appropriated under this partare separately identified in such grant or payment and are used for the purposes of this part.
+&emsp;No funds reserved by the Administrator under this subsection may be combined with funds appropriated under any other Act or part of this chapter if the purpose of combining funds is to make a single discretionary grant or a single discretionary payment, unless such funds appropriated under this part are separately identified in such grant or payment and are used for the purposes of this part.
 
 #### (c) In general
 

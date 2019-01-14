@@ -10,7 +10,7 @@ The Bureau shall make a grant under section 10361(a) of this title to carry out 
 
 #### (b) Approval
 
-Each application submitted under section 10362 of this title shall be considered approved, in whole or in part, by the Bureau not later than 45 days after first received unless the Bureau informs the applicant of specific reasons for disapproval.
+Each application submitted under section 10362 of this title shall be considered approved,in whole or in part, by the Bureau not later than 45 days after first received unless the Bureau informs the applicant of specific reasons for disapproval.
 
 #### (c) Disapproval notice and reconsideration
 

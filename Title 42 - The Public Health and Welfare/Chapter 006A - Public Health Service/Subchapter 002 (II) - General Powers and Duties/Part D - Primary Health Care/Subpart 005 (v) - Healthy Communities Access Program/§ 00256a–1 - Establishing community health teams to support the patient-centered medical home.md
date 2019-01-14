@@ -66,7 +66,7 @@ A health team established pursuant to a grant or contract under subsection (a) s
 
 &emsp;&emsp;(F) provide coordination of the appropriate use of complementary and alternative (CAM) services to those who request such services;
 
-&emsp;&emsp;(G) promote effective strategies for treatment planning, monitoring health outcomes and resource use, sharing information, treatment decision support, and organizing careto avoid duplication of service and other medical management approaches intended to improve quality and value of health care services;
+&emsp;&emsp;(G) promote effective strategies for treatment planning, monitoring health outcomes and resource use, sharing information, treatment decision support, and organizing care to avoid duplication of service and other medical management approaches intended to improve quality and value of health care services;
 
 &emsp;&emsp;(H) provide local access to the continuum of health care services in the most appropriate setting, including access to individuals that implement the care plans of patients and coordinate care, such as integrative health care practitioners;
 
@@ -88,7 +88,7 @@ A health team established pursuant to a grant or contract under subsection (a) s
 
 &emsp;(8) serve as a liaison to community prevention and treatment programs;
 
-&emsp;(9) demonstrate a capacity to implement and maintain health information technology that meets the requirements of certified EHR technology (as defined in section 300jj of this title) to facilitate coordination among members of the applicable care team and affiliated primary care practices; and
+&emsp;(9) demonstrate a capacity to implement and maintain health information technology that meets the requirements of certified EHR technology (as defined in section 300jj of this title) to facilitate coordination among members ofthe applicable care team and affiliated primary care practices; and
 
 &emsp;(10) where applicable, report to the Secretary information on quality measures used under section 280j–2 of this title.
 

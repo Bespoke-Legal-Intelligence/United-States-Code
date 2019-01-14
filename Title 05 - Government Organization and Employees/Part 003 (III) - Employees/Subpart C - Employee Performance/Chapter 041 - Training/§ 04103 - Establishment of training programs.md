@@ -94,7 +94,7 @@ Exception from provisions of subsec. (a)(1) of this section of those elements of
 
 #### Central Intelligence Agency
 
-Exception of Central Intelligence Agency from certain provisions of subsec. (a)(1) of this section, see Ex.Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
+Exception of Central Intelligence Agency from certain provisions of subsec. (a)(1) of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 
 #### Ex. Ord. No. 11348. Further Training of Government Employees
 
@@ -182,7 +182,7 @@ Sec. 401. The following functions vested in the President are hereby delegated t
 
 (b) The authority under section 4111(a) of Title 5, United States Code, to fix by regulation the extent to which the contributions, awards, and payments referred to in that section may be made to and accepted by employees.
 
-Sec. 402. The authority vested in the President by section 4101(6)(B) of Title 5, United States Code, to designate a foreign government or international organization or instrumentality of either as eligible to provide training, is hereby delegated to the head of each agency for his employees except that each such designation shall be made only after the agency head concerned has obtained and given due consideration to the advice ofthe Department of State thereon prior to the first use of such training facility and thereafter periodically but not less often than once every three years.
+Sec. 402. The authority vested in the President by section 4101(6)(B) of Title 5, United States Code, to designate a foreign government or international organization or instrumentality of either as eligible to provide training, is hereby delegated to the head of each agency for his employees except that each such designation shall be made only after the agency head concerned has obtained and given due consideration to the advice of the Department of State thereon prior to the first use of such training facility and thereafter periodically but not less often than once every three years.
 
 #### Part V—Revocation of Prior Order
 
@@ -204,7 +204,7 @@ Ex. Ord. No. 12493, Dec. 5, 1984, 49 F.R. 47819, as amended by Ex. Ord. No. 1251
 
 Ex. Ord. No. 12574, Nov. 20, 1986, 51 F.R. 42199, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including the Executive Exchange Program Voluntary Services Act of 1986 (5 U.S.C. 4103 note, 100 Stat. 964), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States ofAmerica, including the Executive Exchange Program Voluntary Services Act of 1986 (5 U.S.C. 4103 note, 100 Stat. 964), it is hereby ordered as follows:
 
 Section 1. <i>Establishment of the Program</i>. Effective October 1, 1986, there is established, within the Executive Exchange Program of the President's Commission on Executive Exchange, an experimental program under which Executive agencies of the government may accept voluntary services for the United States from private sector participants in the Executive Exchange Program.
 

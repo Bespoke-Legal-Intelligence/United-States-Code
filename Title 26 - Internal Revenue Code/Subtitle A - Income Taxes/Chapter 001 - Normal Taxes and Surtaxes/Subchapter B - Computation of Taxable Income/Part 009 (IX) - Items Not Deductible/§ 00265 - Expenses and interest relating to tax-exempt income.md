@@ -6,7 +6,7 @@ No deduction shall be allowed for—
 
 #### (1) Expenses
 
-&emsp;Any amount otherwise allowable as a deduction which is allocable to one or more classes of income other than interest (whether or not any amount of income of that class or classes is received or accrued) wholly exempt from the taxes imposed by this subtitle, or any amount otherwise allowable under section 212 (relating to expenses for production of income) which is allocable to interest (whether or not any amount of such interest is received or accrued) wholly exempt from the taxes imposed by this subtitle.
+&emsp;Any amount otherwise allowable as a deduction which is allocable to one or more classesof income other than interest (whether or not any amount of income of that class or classes is received or accrued) wholly exempt from the taxes imposed by this subtitle, or any amount otherwise allowable under section 212 (relating to expenses for production of income) which is allocable to interest (whether or not any amount of such interest is received or accrued) wholly exempt from the taxes imposed by this subtitle.
 
 #### (2) Interest
 
@@ -244,7 +244,7 @@ No deduction shall be allowed for—
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (b)(3)(B)(ii)(II), (C)(ii)(II), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
-Sections 1312, 1313, 1316(g), and 1317 of the Tax Reform Act of 1986, referred to in subsec. (b)(3)(C)(ii)(II), are sections 1312, 1313, 1316(g), and 1317 of Pub. L. 99–514, which are set out as a note under section 141 of this title.
+Sections 1312, 1313, 1316(g), and 1317 of the Tax Reform Act of 1986, referred to in subsec. (b)(3)(C)(ii)(II), are sections 1312, 1313, 1316(g), and 1317 of Pub. L. 99–514,which are set out as a note under section 141 of this title.
 
 Section 149(d)(5), referred to in subsec. (b)(3)(C)(ii)(III), was redesignated section 149(d)(2) by Pub. L. 115–97, title I, §13532(b)(1), Dec. 22, 2017, 131 Stat. 2154.
 
@@ -326,7 +326,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 144 of Pub. L. 99–514 applicable to taxable years beginning before, on, or after Dec. 31, 1986, see section 151(e) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 144 of Pub. L. 99–514 applicable to taxable years beginning before, on, or after Dec. 31,1986, see section 151(e) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Pub. L. 99–514, title IX, §902(f), Oct. 22, 1986, 100 Stat. 2382, as amended by Pub. L. 100–647, title I, §1009(b)(1), (2), (7), Nov. 10, 1988, 102 Stat. 3445, 3446, 3449, provided that:
 
@@ -422,7 +422,7 @@ Pub. L. 96–223, title IV, §404(c), Apr. 2, 1980, 94 Stat. 308, as amended by 
 
 Amendment by section 1901(a)(37) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Amendment by section 2137(e) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1975, seesection 2137(e) of Pub. L. 94–455, set out as a note under section 852 of this title.
+Amendment by section 2137(e) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1975, see section 2137(e) of Pub. L. 94–455, set out as a note under section 852 of this title.
 
 #### Effective Date of 1964 Amendment
 

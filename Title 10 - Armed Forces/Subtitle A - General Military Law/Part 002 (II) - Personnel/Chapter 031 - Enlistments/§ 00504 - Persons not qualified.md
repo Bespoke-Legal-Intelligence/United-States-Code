@@ -10,7 +10,7 @@ Citizenship or Residency.—(1) A person may be enlisted in any armed force only
 
 &emsp;(A) A national of the United States, as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
-&emsp;(B) An alien who is lawfully admitted for permanent residence, as defined in section101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20)).
+&emsp;(B) An alien who is lawfully admitted for permanent residence, as defined in section 101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20)).
 
 &emsp;(C) A person described in section 341 of one of the following compacts:
 
@@ -20,11 +20,27 @@ Citizenship or Residency.—(1) A person may be enlisted in any armed force only
 
 &emsp;&emsp;(iii) The Compact of Free Association between Palau and the United States (section 201 of Public Law 99–658 (100 Stat. 3678; 48 U.S.C. 1931 note)).
 
-(2) Notwithstanding paragraph (1), the Secretary concerned may authorize the enlistment of a person not described in paragraph (1) if the Secretary determines that such enlistment is vital to the national interest.
+(2) Notwithstanding paragraph (1), and subject to paragraph (3), the Secretary concerned may authorize the enlistment of a person not described in paragraph (1) if the Secretary determines that such person possesses a critical skill or expertise—
 
-(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 109–163, div. A, title V, §542(a), Jan. 6, 2006, 119 Stat. 3253.)
+&emsp;(A) that is vital to the national interest; and
+
+&emsp;(B) that the person will use in the primary daily duties of that person as a member of the armed forces.
+
+(3)(A) No person who enlists under paragraph (2) may report to initial training until after the Secretary concerned has completed all required background investigations and security and suitability screening as determined by the Secretary of Defense regarding that person.
+
+(B) A Secretary concerned may not authorize more than 1,000 enlistments under paragraph (2) per military department in a calendar year until after—
+
+&emsp;(i) the Secretary of Defense submits to Congress written notice of the intent of that Secretary concerned to authorize more than 1,000 such enlistments in a calendar year; and
+
+&emsp;(ii) a period of 30 days has elapsed after the date on which Congress receives the notice.
+
+(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 109–163, div. A, title V, §542(a), Jan. 6, 2006, 119 Stat. 3253; Pub. L. 115–232, div. A, title V, §521(a), Aug. 13, 2018, 132 Stat. 1755.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2). Pub. L. 115–232, §521(a)(1), inserted "and subject to paragraph (3)," after "Notwithstanding paragraph (1)," substituted "person possesses a critical skill or expertise—" for "enlistment is vital to the national interest.", and added subpars. (A) and (B).
+
+Subsec. (b)(3). Pub. L. 115–232, §521(a)(2), added par. (3).
 
 <b>2006</b>—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

@@ -28,7 +28,7 @@ For purposes of this part, the term "employee stock purchase plan" means a plan 
 
 &emsp;&emsp;(D) highly compensated employees (within the meaning of section 414(q));
 
-&emsp;(5) under the terms of the plan, all employees granted such options shall have the same rights and privileges, except that the amount of stock which may be purchased by any employee under such option may bear a uniform relationship to the total compensation, or the basic or regular rate of compensation, of employees, the plan may provide that no employee may purchase more than a maximum amount of stock fixed under the plan, and the rules of section 83(i) shall apply in determining which employees have a right to make an election under such section;
+&emsp;(5) under the terms of the plan, all employees granted such options shall have the samerights and privileges, except that the amount of stock which may be purchased by any employee under such option may bear a uniform relationship to the total compensation, or the basic or regular rate of compensation, of employees, the plan may provide that no employee may purchase more than a maximum amount of stock fixed under the plan, and the rules of section 83(i) shall apply in determining which employees have a right to make an election under such section;
 
 &emsp;(6) under the terms of the plan, the option price is not less than the lesser of—
 
@@ -38,7 +38,7 @@ For purposes of this part, the term "employee stock purchase plan" means a plan 
 
 &emsp;(7) under the terms of the plan, such option cannot be exercised after the expiration of—
 
-&emsp;&emsp;(A) 5 years from the date such option is granted if, under the terms of such plan, theoption price is to be not less than 85 percent of the fair market value of such stock at the time of the exercise of the option, or
+&emsp;&emsp;(A) 5 years from the date such option is granted if, under the terms of such plan, the option price is to be not less than 85 percent of the fair market value of such stock at the time of the exercise of the option, or
 
 &emsp;&emsp;(B) 27 months from the date such option is granted, if the option price is not determinable in the manner described in subparagraph (A);
 

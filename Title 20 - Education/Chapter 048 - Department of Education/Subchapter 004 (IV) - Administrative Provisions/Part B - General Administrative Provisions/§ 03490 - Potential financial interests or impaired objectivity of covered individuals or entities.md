@@ -32,5 +32,5 @@ For purposes of this section, the term "covered individual or entity" means—
 
 #### Codification
 
-Section was enacted as part of the Department of Education Appropriations Act, 2008, and also as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2008, and the Consolidated Appropriations Act, 2008, and not as part of the Department of Education Organization Act which comprises this chapter.
+Section was enacted as part of the Department of Education Appropriations Act, 2008, and also as part ofthe Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2008, and the Consolidated Appropriations Act, 2008, and not as part of the Department of Education Organization Act which comprises this chapter.
 

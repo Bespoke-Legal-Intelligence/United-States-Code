@@ -2,7 +2,7 @@
 
 #### (a) Applications
 
-(1) In order to receive an allotment under section 9872 of this title, each State shall submit an application to the Secretary. Each such application shall be in such form and submitted by such date as the Secretary shall require.
+(1) In order to receive an allotment under section 9872 of this title, each State shall submit anapplication to the Secretary. Each such application shall be in such form and submitted by such date as the Secretary shall require.
 
 (2) Each application required under paragraph (1) for an allotment under section 9872 of this title shall contain assurances that the State will meet the requirements of subsection (b).
 

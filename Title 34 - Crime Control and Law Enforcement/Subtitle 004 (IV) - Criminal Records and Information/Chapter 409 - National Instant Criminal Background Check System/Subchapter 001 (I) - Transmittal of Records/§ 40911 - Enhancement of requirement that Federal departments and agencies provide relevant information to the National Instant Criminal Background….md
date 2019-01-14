@@ -48,7 +48,7 @@
 
 #### (ii) Process
 
-&emsp;&emsp;&emsp;Each application for relief submitted under the program required by this subparagraph shall be processed not later than 365 days after the receipt of the application. If a Federal department or agency fails to resolve an application for relief within 365 days for any reason, including a lack of appropriated funds, the department or agency shall be deemed for all purposes to have denied such request for relief without cause. Judicial review of any petitions brought under this clause shall be de novo.
+&emsp;&emsp;&emsp;Each application for relief submitted under the program required by this subparagraph shall be processed not later than 365 days after the receipt of the application. If a Federal department or agency fails to resolve an application for relief within 365 days for any reason, including a lack of appropriated funds, the department or agency shall be deemed for all purposesto have denied such request for relief without cause. Judicial review of any petitions brought under this clause shall be de novo.
 
 #### (iii) Judicial review
 
@@ -96,7 +96,7 @@ Section 1. <i>Improving the Availability of Records to the NICS</i>. (a) Within 
 
 (b) Within 60 days of issuance of guidance pursuant to subsection (a) of this section, agencies shall submit a report to DOJ advising whether they possess relevant records, as set forth in the guidance, and setting forth an implementation plan for making information in those records available to the NICS, consistent with applicable law.
 
-(c) In accordance with the authority and responsibility provided to the Attorney General by the Brady Handgun Violence Prevention Act (Public Law 103–159),as amended, the Attorney General, consistent with the process described in section 3 of this memorandum, shall resolve any disputes concerning whether agency records are relevant and should be made available to the NICS.
+(c) In accordance with the authority and responsibility provided to the Attorney General by the Brady Handgun Violence Prevention Act (Public Law 103–159), as amended, the Attorney General, consistent with the process described in section 3 of this memorandum, shall resolve any disputes concerning whether agency records are relevant and should be made available to the NICS.
 
 (d) To the extent they possess relevant records, as set forth in the guidance issued pursuant to subsection (a) of this section, agencies shall prioritize making those records available to the NICS on a regular and ongoing basis.
 

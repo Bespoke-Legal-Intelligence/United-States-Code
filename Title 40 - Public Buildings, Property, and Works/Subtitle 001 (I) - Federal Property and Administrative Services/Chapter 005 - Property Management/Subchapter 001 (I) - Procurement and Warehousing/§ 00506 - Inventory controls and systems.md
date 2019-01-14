@@ -14,7 +14,7 @@ Surveys and reports.—Survey and obtain executive agency reports on Federal Gov
 
 &emsp;&emsp;(B)
 
-Inventory levels.—Cooperate with executive agencies to establish reasonable inventory levels for property stocked by them, and report any excessive inventory levels to Congress and to the Director of the Office of Management and Budget.
+Inventory levels.—Cooperate with executive agencies to establish reasonableinventory levels for property stocked by them, and report any excessive inventory levels to Congress and to the Director of the Office of Management and Budget.
 
 &emsp;&emsp;(C)
 
@@ -23,6 +23,14 @@ Federal supply catalog system.—Establish and maintain a uniform federal supply
 &emsp;&emsp;(D)
 
 Standard purchase specifications and standard forms and procedures.—Prescribe standard purchase specifications and standard forms and procedures (except forms and procedures that the Comptroller General prescribes by law) subject to regulations the Administrator for Federal Procurement Policy prescribes under division B (except sections 1704 and 2303) of subtitle I of title 41.
+
+&emsp;&emsp;(E)
+
+Capitalization thresholds.—Establish thresholds for acquisitions of personal property for which executive agencies shall capitalize the personal property.
+
+&emsp;&emsp;(F)
+
+Accountability thresholds.—Notwithstanding section 121(b), for the management and accountability of personal property, establish thresholds for acquisitions of personal property for which executive agencies shall establish and maintain property records in a centralized system.
 
 &emsp;(2)
 
@@ -34,7 +42,7 @@ In general.—The Administrator of General Services shall carry out activities u
 
 &emsp;&emsp;(B)
 
-Federal supply catalog system.—In establishing and maintaining a uniform federal supply catalog system under paragraph (1)(C), the Administrator of General Servicesand the Secretary shall coordinate to avoid unnecessary duplication.
+Federal supply catalog system.—In establishing and maintaining a uniform federal supply catalog system under paragraph (1)(C), the Administrator of General Services and the Secretary shall coordinate to avoid unnecessary duplication.
 
 (b)
 
@@ -44,7 +52,7 @@ Activities of Federal Agencies.—Each federal agency shall use the uniformed fe
 
 Audit of Property Accounts.—The Comptroller General shall audit all types of property accounts and transactions. Audits shall be conducted at the time and in the manner the Comptroller General decides and as far as practicable at the place where the property or records of the executive agencies are kept. Audits shall include an evaluation of the effectiveness of internal controls and audits, and a general audit of the discharge of accountability for Government-owned or controlled property, based on generally accepted principles of auditing.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1082; Pub. L. 111–350, §5(l)(9), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1082; Pub. L. 111–350, §5(l)(9), Jan. 4, 2011, 124 Stat. 3852; Pub. L. 115–419, §2(b), Jan. 3, 2019, 132 Stat. 5443.)
 
 Historical and Revision Notes
 
@@ -71,6 +79,8 @@ In subsection (a)(2)(A), the words "Department of Defense" are substituted for "
 In subsection (c), the words "Comptroller General" are substituted for "General Accounting Office" because of 31:702 and for consistency in the revised title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a)(1)(E), (F). Pub. L. 115–419 added subpars. (E) and (F).
 
 <b>2011</b>—Subsec. (a)(1)(D). Pub. L. 111–350 substituted "division B (except sections 1704 and 2303) of subtitle I of title 41" for "the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)".
 

@@ -1,6 +1,6 @@
 ### §§2621 to 2624. Repealed. Pub. L. 103–382, title III, §367, Oct. 20, 1994, 108 Stat. 3976
 
-Section 2621, Pub. L. 100–297, title V, §5321, Apr. 28, 1988, 102 Stat. 403; Pub. L. 100–427, §18, Sept. 9, 1988, 102Stat. 1612, related to improvement of educational opportunities for Indian children.
+Section 2621, Pub. L. 100–297, title V, §5321, Apr. 28, 1988, 102 Stat. 403; Pub. L. 100–427, §18, Sept. 9, 1988, 102 Stat. 1612, related to improvement of educational opportunities for Indian children.
 
 Section 2622, Pub. L. 100–297, title V, §5322, Apr. 28, 1988, 102 Stat. 406, related to special educational training programs for teachers of Indian children.
 

@@ -8,7 +8,7 @@ The Secretary, acting through the Under Secretary for Science and Technology and
 
 The research and development program may include projects—
 
-&emsp;(1) to reduce the vulnerability of passenger trains, stations, and equipment to explosives and hazardous chemical, biological, and radioactive substances, including the developmentof technology to screen passengers in large numbers at peak commuting times with minimal interference and disruption;
+&emsp;(1) to reduce the vulnerability of passenger trains, stations, and equipment to explosives and hazardous chemical, biological, and radioactive substances, including the development of technology to screen passengers in large numbers at peak commuting times with minimal interference and disruption;
 
 &emsp;(2) to test new emergency response and recovery techniques and technologies, including those used at international borders;
 
@@ -76,7 +76,7 @@ The Secretary—
 
 #### (1) In general
 
-&emsp;Out of funds appropriated pursuant to section 114(w) of title 49, there shall be made available to the Secretary to carry out this section—
+&emsp;Out of funds appropriated pursuant to section 114(w) <sup>1</sup> of title 49, there shall be made available to the Secretary to carry out this section—
 
 &emsp;&emsp;(A) $33,000,000 for fiscal year 2008;
 
@@ -95,4 +95,8 @@ The Secretary—
 #### References in Text
 
 This Act, referred to in subsec. (c)(1), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266, known as the Implementing Recommendations of the 9/11 Commission Act of 2007, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 101 of this title and Tables.
+
+Section 114(w) of title 49, referred to in subsec. (e)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, §1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

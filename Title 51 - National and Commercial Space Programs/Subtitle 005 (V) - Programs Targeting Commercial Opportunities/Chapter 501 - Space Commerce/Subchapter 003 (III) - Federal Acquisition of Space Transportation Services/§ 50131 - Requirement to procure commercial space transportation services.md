@@ -102,7 +102,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 "(c)
 
-In General.—The Administrator \[of the National Aeronautics and Space Administration\] shall pursue a strategy for acquisition of crewed transportation services and non-crewed launch services that continues toenhance communication, collaboration, and coordination between the Launch Services Program and the Commercial Crew Program."
+In General.—The Administrator \[of the National Aeronautics and Space Administration\] shall pursue a strategy for acquisition of crewed transportation services and non-crewed launch services that continues to enhance communication, collaboration, and coordination between the Launch Services Program and the Commercial Crew Program."
 
 #### Leveraging Commercial Satellite Servicing Capabilities Across Mission Directorates
 

@@ -8,7 +8,7 @@
 
 #### (b) Periodic reports of activities and expenditures
 
-The President shall submit periodic reports to the Congress of activities carried on and expenditures made in furtherance of the purposes ofthis chapter and of the United States Information and Educational Exchange Act of 1948, as amended \[22 U.S.C. 1431 et seq.\].
+The President shall submit periodic reports to the Congress of activities carried on and expenditures made in furtherance of the purposes of this chapter and of the United States Information and Educational Exchange Act of 1948, as amended \[22 U.S.C. 1431 et seq.\].
 
 #### (c) Expenditures in selection, purchase, rental, construction, or other acquisition of exhibits and materials and equipment therefor
 

@@ -164,7 +164,7 @@
 
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (a)(4), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
 
-The Social Security Act, referred to in subsecs. (a)(7)(B) and (b)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to this subchapter and subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.) of this chapter, respectively. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of this subchapter, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (a)(7)(B) and (b)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to this subchapter and subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.) of thischapter, respectively. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of this subchapter, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 

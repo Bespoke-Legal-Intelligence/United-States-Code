@@ -58,7 +58,7 @@ For purposes of this subchapter, the Director shall classify the enterprises acc
 
 &emsp;&emsp;(A) establish the capital classifications specified under paragraph (2) for the Federal Home Loan Banks;
 
-&emsp;&emsp;(B) establish criteria for each such capital classification based on the amount and types of capital held by a bank and the risk-based, minimum, and critical capital levels for the banks and taking due consideration of the capital classifications established under subsection (a) for the enterprises, with such modifications as the Director determines tobe appropriate to reflect the difference in operations between the banks and the enterprises; and
+&emsp;&emsp;(B) establish criteria for each such capital classification based on the amount and types of capital held by a bank and the risk-based, minimum, and critical capital levels for the banks and taking due consideration of the capital classifications established under subsection (a) for the enterprises, with such modifications as the Director determines to be appropriate to reflect the difference in operations between the banks and the enterprises; and
 
 &emsp;&emsp;(C) shall classify the Federal Home Loan Banks according to such capital classifications.
 
@@ -150,7 +150,7 @@ Subsec. (f). Pub. L. 110–289, §1142(a)(3), redesignated subsec. (d) as (f).
 
 #### Regulations
 
-Pub. L. 110–289, div. A, title I, §1142(b), July 30, 2008, 122 Stat. 2732, provided that: "Not later than the expiration of the 180-day period beginning on the date of enactment of this Act \[July 30, 2008\], the Director of theFederal Housing Finance Agency shall issue regulations to carry out section 1364(b) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4614(b)\] (as added by this section), relating to capital classifications for the Federal Home Loan Banks."
+Pub. L. 110–289, div. A, title I, §1142(b), July 30, 2008, 122 Stat. 2732, provided that: "Not later than the expiration of the 180-day period beginning on the date of enactment of this Act \[July 30, 2008\], the Director of the Federal Housing Finance Agency shall issue regulations to carry out section 1364(b) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4614(b)\] (as added by this section), relating to capital classifications for the Federal Home Loan Banks."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

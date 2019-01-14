@@ -82,15 +82,15 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the dollar amount in clause (i)(I) shall be increased by $1,650, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the dollar amount in clause (i)(II) shall be increased by $3,450,<sup>1</sup>
+&emsp;&emsp;&emsp;&emsp;(II) the dollar amount in clause (i)(II) shall be increased by $3,450.
 
 #### (v) Subsequent years
 
-&emsp;&emsp;&emsp;In the case of any calendar year after 2018, each of the dollar amounts under clauses (i) (after the application of clause (ii)) and (iv) shall be increased to the amount equal to such amount as determined for for the calendar year preceding such year, increased by an amount equal to the product of—
+&emsp;&emsp;&emsp;In the case of any calendar year after 2018, each of the dollar amounts under clauses (i) (after the application of clause (ii)) and (iv) shall be increased to the amount equal to such amount as determined for the calendar year preceding such year, increased by an amount equal to the product of—
 
 &emsp;&emsp;&emsp;&emsp;(I) such amount as so determined, multiplied by
 
-&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for suchyear (determined by substituting the calendar year that is 2 years before such year for "2016" in subparagraph (A)(ii) thereof), increased by 1 percentage point in the case of determinations for calendar years beginning before 2020.
+&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for such year (determined by substituting the calendar year that is 2 years before such year for "2016" in subparagraph (A)(ii) thereof), increased by 1 percentage point in the case of determinations for calendar years beginning before 2020.
 
 &emsp;&emsp;&nbsp;If any amount determined under this clause is not a multiple of $50, such amount shall be rounded to the nearest multiple of $50.
 
@@ -178,7 +178,7 @@ For purposes of this section—
 
 #### (B) Health FSAs
 
-&emsp;&emsp;In the case of applicable employer-sponsored coverage consisting of coverage under a flexible spending arrangement (as defined in section 106(c)(2)), the cost of the coverage shall be equal to the sum of—
+&emsp;&emsp;In the case of applicable employer-sponsored coverage consisting of coverage undera flexible spending arrangement (as defined in section 106(c)(2)), the cost of the coverage shall be equal to the sum of—
 
 &emsp;&emsp;&emsp;(i) the amount of employer contributions under any salary reduction election under the arrangement, plus
 
@@ -294,7 +294,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out this section.
 
-(Added and amended Pub. L. 111–148, title IX, §9001(a), title X, §10901(a), (b), Mar. 23, 2010, 124 Stat. 847, 1015, 1016; Pub. L. 111–152, title I, §1401(a), Mar. 30, 2010, 124 Stat. 1059; Pub. L. 114–113, div. P, title I, §§101(b), 102, Dec. 18, 2015, 129 Stat. 3037; Pub. L. 114–255, div. C, title XVIII, §18001(a)(4), Dec. 13, 2016, 130 Stat. 1342; Pub. L. 115–97, title I, §11002(d)(12), Dec. 22, 2017, 131 Stat. 2062.)
+(Added and amended Pub. L. 111–148, title IX, §9001(a), title X, §10901(a), (b), Mar. 23, 2010, 124 Stat. 847, 1015, 1016; Pub. L. 111–152, title I, §1401(a), Mar. 30, 2010, 124 Stat. 1059; Pub. L. 114–113, div. P, title I, §§101(b), 102, Dec. 18, 2015, 129 Stat. 3037; Pub. L. 114–255, div. C, title XVIII, §18001(a)(4), Dec. 13, 2016, 130 Stat. 1342; Pub. L. 115–97, title I, §11002(d)(12), Dec. 22, 2017, 131 Stat. 2062; Pub. L. 115–141, div. U, title IV, §401(a)(237), (238), Mar. 23, 2018, 132 Stat. 1195.)
 
 #### References in Text
 
@@ -307,6 +307,10 @@ Section 3(y) of the Fair Labor Standards Act of 1938, referred to in subsec. (f)
 Section 3(16)(B) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(7), is classified to section 1002(16)(B) of Title 29, Labor.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(3)(C)(iv)(II). Pub. L. 115–141, §401(a)(237), substituted period for comma at end.
+
+Subsec. (b)(3)(C)(v). Pub. L. 115–141, §401(a)(238), substituted "determined for" for "determined for for" in introductory provisions.
 
 <b>2017</b>—Subsec. (b)(3)(C)(v)(II). Pub. L. 115–97 substituted "for '2016' in subparagraph (A)(ii)" for "for '1992' in subparagraph (B)".
 
@@ -368,7 +372,5 @@ Pub. L. 111–148, title X, §10901(c), Mar. 23, 2010, 124 Stat. 1016, as amende
 
 #### Effective Date
 
-Pub. L. 111–148, title IX, §9001(c), Mar. 23, 2010, 124 Stat. 853, as amended by Pub. L. 111–152, title I, §1401(b)(1), Mar. 30, 2010, 124 Stat. 1060; Pub. L. 114–113, div. P, title I, §101(a), Dec. 18, 2015, 129 Stat. 3037, provided that: "The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 2019."
-
-<i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
+Pub. L. 111–148, title IX, §9001(c), Mar. 23, 2010, 124 Stat. 853, as amended by Pub. L. 111–152, title I, §1401(b)(1), Mar. 30, 2010, 124 Stat. 1060; Pub. L. 114–113, div. P, title I, §101(a), Dec. 18, 2015, 129 Stat. 3037; Pub. L. 115–120, div. D, §4002, Jan. 22, 2018, 132 Stat. 38, provided that: "The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 2021."
 

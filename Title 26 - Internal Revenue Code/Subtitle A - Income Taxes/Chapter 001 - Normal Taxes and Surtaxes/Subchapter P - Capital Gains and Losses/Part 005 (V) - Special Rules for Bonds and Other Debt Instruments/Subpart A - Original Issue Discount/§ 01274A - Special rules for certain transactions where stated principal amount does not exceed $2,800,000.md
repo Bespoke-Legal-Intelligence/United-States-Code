@@ -78,7 +78,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### Inflation Adjusted Items for Certain Years
 
-<i>For inflation adjustment of certain items in this section, see Revenue Rulings listed in a table below.</i>
+<i>For inflation adjustment of certain items in this section, see Revenue Rulings listed in a table below and Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### References in Text
 
@@ -125,6 +125,8 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2018</b>—Revenue Ruling 2018–11.
 
 <b>2017</b>—Revenue Ruling 2016–30.
 

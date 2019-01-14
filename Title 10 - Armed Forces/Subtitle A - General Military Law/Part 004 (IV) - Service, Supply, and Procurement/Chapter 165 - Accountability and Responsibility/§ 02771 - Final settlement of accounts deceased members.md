@@ -124,7 +124,7 @@ Subsec. (c). Pub. L. 96–513, §511(97)(B), substituted "Department of Transpor
 
 <b>1960</b>—Subsec. (c). Pub. L. 86–641 substituted provisions requiring payment under clause (6) of subsection (a) to be made upon settlement by the General Accounting Office or as otherwise authorized by the Comptroller General for provisions which permitted payments under clauses (2) to (6) of subsection (a) to be made only after settlement by the General Accounting Office.
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–861 amended subsec. (a) generally to restrict application of section to members of the armed forces who die after Dec. 31, 1955, and to permit payment to the designated beneficiaries, surviving spouse, children and their descendants, and to parents before payment to the legal representative.
+<b>1958</b>—Subsec. (a). Pub. L. 85–861 amended subsec. (a) generally to restrict application of section to membersof the armed forces who die after Dec. 31, 1955, and to permit payment to the designated beneficiaries, surviving spouse, children and their descendants, and to parents before payment to the legal representative.
 
 Subsec. (b). Pub. L. 85–861 substituted provisions relating to designations and changes of designation of beneficiaries for provisions which authorized reimbursement of funeral expenses.
 

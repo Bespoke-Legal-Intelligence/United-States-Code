@@ -22,7 +22,7 @@ The following items shall not be included in gross income of a foreign corporati
 
 #### (5) Special rule for countries which tax on residence basis
 
-&emsp;For purposes of this subsection, there shall not be taken into account any failure of a foreign country to grant an exemption to a corporation organized in the United States if such corporation is subject to tax by such foreign country on a residence basis pursuant to provisions of foreign law which meets such standards (if any) as the Secretary may prescribe.
+&emsp;For purposes of this subsection, there shall not be taken into account any failure of a foreign country to grant an exemption to a corporation organized in the United States if such corporation is subject to tax by such foreigncountry on a residence basis pursuant to provisions of foreign law which meets such standards (if any) as the Secretary may prescribe.
 
 #### (b) Earnings derived from communications satellite system
 
@@ -32,7 +32,7 @@ The earnings derived from the ownership or operation of a communications satelli
 
 #### (1) In general
 
-&emsp;Paragraph (1) or (2) of subsection (a) (as the case may be) shall not apply to any foreigncorporation if 50 percent or more of the value of the stock of such corporation is owned by individuals who are not residents of such foreign country or another foreign country meeting the requirements of such paragraph.
+&emsp;Paragraph (1) or (2) of subsection (a) (as the case may be) shall not apply to any foreign corporation if 50 percent or more of the value of the stock of such corporation is owned by individuals who are not residents of such foreign country or another foreign country meeting the requirements of such paragraph.
 
 #### (2) Treatment of controlled foreign corporations
 
@@ -110,7 +110,7 @@ Pub. L. 94–164, §6(b), Dec. 23, 1975, 89 Stat. 976, provided that: "The amend
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–622, §1(b), Oct. 22, 1968, 82 Stat. 1311, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966."
+Pub. L. 90–622, §1(b), Oct. 22, 1968, 82 Stat. 1311, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966."
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

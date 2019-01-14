@@ -18,6 +18,12 @@ Historical and Revision Notes
 
 no source.
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–390, §1(a), Dec. 21, 2018, 132 Stat. 5173, provided that: "This Act \[enacting subchapter III of chapter 13 of this title and section 4713 of this title, amending sections 3553 and 3554 of Title 44, Public Printing and Documents, and section 3348 of Title 50, War and National Defense, and enacting provisions set out as notes under this section and sections 1321 and 4713 of this title, section 663 of Title 6, Domestic Security, and section 3553 of Title 44\] may be cited as the 'Strengthening and Enhancing Cyber-capabilities by Utilizing Risk Exposure Technology Act' or the 'SECURE Technology Act'."
+
+Pub. L. 115–390, title II, §201, Dec. 21, 2018, 132 Stat. 5178, provided that: "This title \[enacting subchapter III of chapter 13 of this title and section 4713 of this title, amending sections 3553 and 3554 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under sections 1321 and 4713 of this title and section 3553 of Title 44\] may be cited as the 'Federal Acquisition Supply Chain Security Act of 2018'."
+
 #### Short Title of 2016 Amendment
 
 Pub. L. 114–260, §1, Dec. 14, 2016, 130 Stat. 1361, provided that: "This Act \[amending section 4106 of this title\] may be cited as the 'GAO Civilian Task and Delivery Order Protest Authority Act of 2016'."
@@ -38,7 +44,7 @@ Pub. L. 108–136, div. A, title XIV, §1401, Nov. 24, 2003, 117 Stat. 1663, pro
 
 #### Short Title of 1996 Act
 
-Pub. L. 104–106, div. D, §4001, Feb. 10, 1996, 110 Stat. 642, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393, provided that: "This division \[div. D (§§4001–4402) of Pub. L. 104–106, see Tables for classification\] and division E \[§§5001–5703 of Pub. L. 104–106, repealed and reenacted, generally, as subtitle III (§11101 et seq.) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, see Tables for complete classification\] may be cited as the 'Clinger-Cohen Act of 1996'."
+Pub. L. 104–106, div. D, §4001, Feb. 10, 1996, 110 Stat. 642, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393, provided that: "This division \[div. D (§§4001–4402) of Pub. L. 104–106, see Tables for classification\] and division E \[§§5001–5703 of Pub. L. 104–106, repealed and reenacted, generally, as subtitle III (§11101 et seq.) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116Stat. 1062, 1304, see Tables for complete classification\] may be cited as the 'Clinger-Cohen Act of 1996'."
 
 #### Short Title of 1994 Act
 
@@ -62,7 +68,7 @@ Pub. L. 98–369, div. B, title VII, §2701, July 18, 1984, 98 Stat. 1175, provi
 
 #### Short Title of 1983 Act
 
-Pub. L. 98–191, §1, Dec. 1, 1983, 97 Stat. 1325, provided: "That this Act \[see Tables for classification\] may becited as the 'Office of Federal Procurement Policy Act Amendments of 1983'."
+Pub. L. 98–191, §1, Dec. 1, 1983, 97 Stat. 1325, provided: "That this Act \[see Tables for classification\] may be cited as the 'Office of Federal Procurement Policy Act Amendments of 1983'."
 
 #### Short Title of 1979 Act
 

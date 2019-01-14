@@ -16,9 +16,21 @@ Historical and Revision Notes
 
 46:234
 
-Section 3315 requires an individual holding a license issued by the Coast Guard to assist inspection authorities and to make defects and imperfections known to those authorities. Anyone licensed also has a duty to report any marine casualty producing serious injury to the vessel, its equipment, or individuals on board the vessel. These licensed individuals who have this statutorily imposed duty to disclose are also protected by prohibiting any government official from disclosing the identity or source of the information except as authorized by the Secretary.
+Section 3315 requires an individual holding a license issued by the Coast Guard to assist inspection authorities and to make defects and imperfections known to those authorities. Anyone licensed also has a duty to report any marine casualty producing serious injury to the vessel, its equipment, or individuals on board the vessel. These licensed individuals who have this statutorily imposed duty to disclose are also protected byprohibiting any government official from disclosing the identity or source of the information except as authorized by the Secretary.
 
 #### Effective Date
 
 Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under section 3101 of this title.
+
+#### Anonymous Safety Alert System
+
+Pub. L. 115–265, title II, §217, Oct. 11, 2018, 132 Stat. 3752, provided that:
+
+"(a)
+
+Pilot Program.—Not later than 1 year after the date of enactment of this Act \[Oct. 11, 2018\], the Commandant \[of the Coast Guard\] shall establish an anonymous safety alert pilot program.
+
+"(b)
+
+Requirements.—The pilot program established under subsection (a) shall provide an anonymous reporting mechanism to allow crew members to communicate urgent and dire safety concerns directly and in a timely manner with the Coast Guard."
 

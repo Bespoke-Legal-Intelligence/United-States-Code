@@ -52,7 +52,7 @@ The Secretary of Labor and the Secretary of Health and Human Services shall each
 
 #### (g) National Institute for Occupational Safety and Health Ombudsman
 
-In carrying out the duties of the Ombudsman under this section, the Ombudsman shall workwith the individual employed by the National Institute for Occupational Safety and Health to serve as an ombudsman to individuals making claims under part B.
+In carrying out the duties of the Ombudsman under this section, the Ombudsman shall work with the individual employed by the National Institute for Occupational Safety and Health to serve as an ombudsman to individuals making claims under part B.
 
 #### (h) Sunset
 

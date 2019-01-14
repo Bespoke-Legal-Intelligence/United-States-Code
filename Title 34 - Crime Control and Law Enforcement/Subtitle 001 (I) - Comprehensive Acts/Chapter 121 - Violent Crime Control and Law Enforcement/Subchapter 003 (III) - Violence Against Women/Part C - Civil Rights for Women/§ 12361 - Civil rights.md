@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### References in Text
 
-This part, referred to in subsecs. (a) and (e)(3), was in the original "this subtitle", meaning subtitle C of titleIV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1941. For complete classification of subtitle C of title IV of Pub. L. 103–322 to the Code, see Short Title of 1994 Act note set out under section 10101 of this title and Tables.
+This part, referred to in subsecs. (a) and (e)(3), was in the original "this subtitle", meaning subtitle C of title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1941. For complete classification of subtitle C of title IV of Pub. L. 103–322 to the Code, see Short Title of 1994 Act note set out under section 10101 of this title and Tables.
 
 #### Codification
 

@@ -8,7 +8,7 @@ Disbursing Officers.—The Director may designate in writing officers and employ
 
 &emsp;(2) examine payment requests as necessary to ascertain whether they are in proper form, certified, and approved; and
 
-&emsp;(3) be held accountable for their actions as provided by law, except that such a disbursingofficer shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate for which a certifying officer is responsible under subsection (b).
+&emsp;(3) be held accountable for their actions as provided by law, except that such a disbursing officer shall not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate for which a certifying officer is responsible under subsection (b).
 
 (b)
 

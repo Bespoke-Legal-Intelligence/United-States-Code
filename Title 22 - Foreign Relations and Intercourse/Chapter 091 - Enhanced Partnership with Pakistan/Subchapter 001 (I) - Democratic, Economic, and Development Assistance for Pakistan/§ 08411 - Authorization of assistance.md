@@ -74,7 +74,7 @@ Activities that may be supported by assistance under subsection (a) include the 
 
 &emsp;&emsp;(A) encouraging civil society, respected scholars, and other leaders to speak out against militancy and violence; and
 
-&emsp;&emsp;(B) expanded exchange activities under the Fulbright Program, the International Visitor Leadership Program, the Youth Exchange and Study Program, and related programs administered by the Department of State designed to promote mutual understanding and interfaith dialogue and expand sister institution programs between United States and Pakistani schools and universities.
+&emsp;&emsp;(B) expanded exchange activities under the Fulbright Program, the International Visitor Leadership Program, the Youth Exchange and Study Program, and related programs administered by the Department of State designed to promote mutual understanding and interfaith dialogue and expandsister institution programs between United States and Pakistani schools and universities.
 
 #### (c) Additional and related activities
 

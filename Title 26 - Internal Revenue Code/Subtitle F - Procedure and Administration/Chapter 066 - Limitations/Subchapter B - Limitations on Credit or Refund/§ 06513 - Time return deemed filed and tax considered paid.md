@@ -18,7 +18,7 @@ For purposes of section 6511 or 6512—
 
 Notwithstanding subsection (a), for purposes of section 6511 with respect to any tax imposed by chapter 3, 4, 21, or 24—
 
-&emsp;(1) If a return for any period ending with or within a calendar year is filed before April 15of the succeeding calendar year, such return shall be considered filed on April 15 of such succeeding calendar year; and
+&emsp;(1) If a return for any period ending with or within a calendar year is filed before April 15 of the succeeding calendar year, such return shall be considered filed on April 15 of such succeeding calendar year; and
 
 &emsp;(2) If a tax with respect to remuneration or other amount paid during any period ending with or within a calendar year is paid before April 15 of the succeeding calendar year, such tax shall be considered paid on April 15 of such succeeding calendar year.
 

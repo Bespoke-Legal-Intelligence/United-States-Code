@@ -28,7 +28,7 @@ Nothing in this Act, or an amendment made by this Act, shall be construed to—
 
 &emsp;&emsp;(G) the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.); and
 
-&emsp;&emsp;(H) the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with the amendments made by the Agricultural Marketing Agreement Act of 1937; or
+&emsp;&emsp;(H) the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with theamendments made by the Agricultural Marketing Agreement Act of 1937; or
 
 &emsp;(5) alter, impede, or affect the authority of the Secretary of Homeland Security under the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) or any other statute, including any authority related to securing the borders of the United States, managing ports of entry, or agricultural import and entry inspection activities.
 

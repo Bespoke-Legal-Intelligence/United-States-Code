@@ -72,5 +72,5 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 #### Delegation of Authority
 
-Authority of President under subsec. (a) of this section delegated to Secretary of Agriculture by par. (4) ofProc. No. 6763, Dec. 23, 1994, 60 F.R. 1010, set out as a note under section 3511 of this title.
+Authority of President under subsec. (a) of this section delegated to Secretary of Agriculture by par. (4) of Proc. No. 6763, Dec. 23, 1994, 60 F.R. 1010, set out as a note under section 3511 of this title.
 

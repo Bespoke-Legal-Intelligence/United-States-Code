@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section 31b–4 was editorially reclassified as section 5127 of this title.
+Section 31b–4 was editorially reclassified as former section 5127 of this title.
 

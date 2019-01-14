@@ -18,7 +18,7 @@
 
 #### (2) Eligibility
 
-&emsp;The program shall benefit employees who qualify under a classification set up by the employer and found by the Secretary not to be discriminatory in favor of employees who are highly compensated employees (within the meaning of section 414(q)) or their dependents. For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that educational assistance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
+&emsp;The program shall benefit employees who qualify under a classification set up by the employer and found by the Secretary not to be discriminatory in favor of employees who are highly compensated employees (within the meaning of section 414(q)) or their dependents. For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreementwhich the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that educational assistance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
 
 #### (3) Principal shareholders or owners
 
@@ -260,7 +260,7 @@ No penalties or interest on failure to withhold.—No penalty or interest shall 
 
 "(5)
 
-Coordination with section 117(d).—In the case of education described in section 127(c)(8) of the Internal Revenue Code of 1986, as added by this section, section117(d) of such Code shall be treated as in effect on and after January 1, 1984."
+Coordination with section 117(d).—In the case of education described in section 127(c)(8) of the Internal Revenue Code of 1986, as added by this section, section 117(d) of such Code shall be treated as in effect on and after January 1, 1984."
 
 #### Effective Date
 
@@ -278,7 +278,7 @@ Pub. L. 104–188, title I, §1202(c)(3), Aug. 20, 1996, 110 Stat. 1773, provide
 
 Pub. L. 102–227, title I, §103(a)(2), Dec. 11, 1991, 105 Stat. 1687, provided that, in the case of any taxable year beginning in 1992, only amounts paid before July 1, 1992, by employer for educational assistance for employee be taken into account in determining amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 103–66, title XIII, §13101(a)(2), Aug. 10, 1993, 107 Stat. 420.
 
-Pub. L. 101–239, title VII, §7101(a)(2), Dec. 19, 1989, 103 Stat. 2304, provided that, in the case of any taxable year beginning in 1990, only amounts paid before Oct. 1, 1990, by employer for educational assistance for employee be taken into account in determining amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 101–508, title XI, §11403(c), Nov. 5, 1990, 104 Stat. 1388–473.
+Pub. L. 101–239, title VII, §7101(a)(2), Dec. 19, 1989, 103 Stat. 2304, provided that, in the case of any taxableyear beginning in 1990, only amounts paid before Oct. 1, 1990, by employer for educational assistance for employee be taken into account in determining amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 101–508, title XI, §11403(c), Nov. 5, 1990, 104 Stat. 1388–473.
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 

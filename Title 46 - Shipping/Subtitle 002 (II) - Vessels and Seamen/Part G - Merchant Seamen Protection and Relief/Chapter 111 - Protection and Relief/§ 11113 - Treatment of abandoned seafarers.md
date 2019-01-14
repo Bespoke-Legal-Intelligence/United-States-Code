@@ -54,7 +54,7 @@ Limitation.—Amounts may be credited to the Fund under subparagraph (A) only if
 
 Report required.—On the date on which the President submits each budget for a fiscal year pursuant to section 1105 of title 31, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
 
-&emsp;&emsp;(A) the amounts credited to the Fund under paragraph (2) <sup>1</sup> for the preceding fiscal year; and
+&emsp;&emsp;(A) the amounts credited to the Fund under paragraph (3) for the preceding fiscal year; and
 
 &emsp;&emsp;(B) amounts in the Fund that were expended for the preceding fiscal year.
 
@@ -92,7 +92,7 @@ Enforcement.—If a vessel owner or operator fails to reimburse the Fund under p
 
 &emsp;&emsp;(A) proceed in rem against the vessel on which the seafarer served in the Federal district court for the district in which the vessel is found; and
 
-&emsp;&emsp;(B) withhold or revoke the clearance required under section 60105 for the vessel and any other vessel operated by the same operator (as that term is defined in section 2(9)(a) <sup>2</sup> of the Act to Prevent Pollution from Ships (33 U.S.C. 1901(9)(a)) <sup>3</sup> as the vessel on which the seafarer served.
+&emsp;&emsp;(B) withhold or revoke the clearance required under section 60105 for the vessel and any other vessel operated by the same operator (as that term is defined in section 2(a)(9)(A) <sup>1</sup> of the Act to Prevent Pollution from Ships (33 U.S.C. 1901(a)(9)(A)) <sup>2</sup> as the vessel on which the seafarer served.
 
 &emsp;(3)
 
@@ -138,7 +138,7 @@ Vessel subject to the jurisdiction of the united states.—The term "vessel subj
 
 &emsp;&emsp;(B) not engaged in commerce.
 
-(Added Pub. L. 113–281, title III, §320(a), Dec. 18, 2014, 128 Stat. 3051; amended Pub. L. 114–120, title III, §306(a)(7), Feb. 8, 2016, 130 Stat. 54.)
+(Added Pub. L. 113–281, title III, §320(a), Dec. 18, 2014, 128 Stat. 3051; amended Pub. L. 114–120, title III, §306(a)(7), Feb. 8, 2016, 130 Stat. 54; Pub. L. 115–232, div. C, title XXXV, §3546(i), Aug. 13, 2018, 132 Stat. 2326.)
 
 #### References in Text
 
@@ -146,11 +146,13 @@ The Immigration and Nationality Act, referred to in subsec. (a)(2)(A)(ii)(III), 
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a)(4)(A). Pub. L. 115–232, §3546(i)(1), substituted "paragraph (3)" for "paragraph (2)".
+
+Subsec. (c)(2)(B). Pub. L. 115–232, §3546(i)(2), substituted "section 2(a)(9)(A)" for "section 2(9)(a)" and "33 U.S.C. 1901(a)(9)(A)" for "33 U.S.C. 1901(9)(a)".
+
 <b>2016</b>—Subsec. (c)(1)(A)(i). Pub. L. 114–120 struck out "under this Act" after "any matter".
 
-<i><sup>1</sup></i><i> So in original. Probably should be "(3)".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "2(a)(9)(a)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "2(a)(9)(a)".</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be "33 U.S.C. 1901(a)(9)(a)))".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "33 U.S.C. 1901(a)(9)(a)))".</i>
 

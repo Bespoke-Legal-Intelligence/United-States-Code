@@ -28,7 +28,7 @@
 
 #### (2) Use of data
 
-&emsp;Data developed or compiled by any agency while conducting any interagency study orother independent study or analysis shall be made available to the Secretary to facilitate the execution of the Secretary's responsibilities with respect to trade offset and countertrade policy development.
+&emsp;Data developed or compiled by any agency while conducting any interagency study or other independent study or analysis shall be made available to the Secretary to facilitate the execution of the Secretary's responsibilities with respect to trade offset and countertrade policy development.
 
 #### (c) Notice of offset agreements
 
@@ -346,7 +346,7 @@ Pub. L. 102–558, title I, §123, Oct. 28, 1992, 106 Stat. 4206, as amended by 
 
 "(a)
 
-In General.—Recognizing that certain offsets for military exports are economically inefficient and market distorting, and mindful of the need to minimizethe adverse effects of offsets in military exports while ensuring that the ability of United States firms to compete for military export sales is not undermined, it is the policy of the Congress that—
+In General.—Recognizing that certain offsets for military exports are economically inefficient and market distorting, and mindful of the need to minimize the adverse effects of offsets in military exports while ensuring that the ability of United States firms to compete for military export sales is not undermined, it is the policy of the Congress that—
 
 &emsp;"(1) no agency of the United States Government shall encourage, enter directly into, or commit United States firms to any offset arrangement in connection with the sale of defense goods or services to foreign governments;
 
@@ -406,7 +406,7 @@ Sec. 4. <i>Administration, Compensation, and Termination</i>. (a) The Department
 
 (c) Members of the Commission will be allowed travel expenses, including per diem in lieu of subsistence, under subchapter 1 of chapter 57 of title 5, United States Code, while on business in the performance of services for the Commission.
 
-(d) The Commission will terminate 30 days after transmitting the report required in section 1248(b) ofPublic Law 106–113 (113 Stat. 1501A–505) \[set out in a note above\].
+(d) The Commission will terminate 30 days after transmitting the report required in section 1248(b) of Public Law 106–113 (113 Stat. 1501A–505) \[set out in a note above\].
 
 \[
 

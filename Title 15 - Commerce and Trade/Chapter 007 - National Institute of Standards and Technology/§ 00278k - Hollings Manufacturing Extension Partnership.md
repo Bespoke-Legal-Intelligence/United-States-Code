@@ -26,7 +26,7 @@ In this section:
 
 #### (4) Community college
 
-&emsp;The term "community college" means an institution of higher education (as defined under section 1001(a) of title 20) at which the highestdegree that is predominately awarded to students is an associate's degree.
+&emsp;The term "community college" means an institution of higher education (as defined under section 1001(a) of title 20) at which the highest degree that is predominately awarded to students is an associate's degree.
 
 #### (5) Eligible entity
 

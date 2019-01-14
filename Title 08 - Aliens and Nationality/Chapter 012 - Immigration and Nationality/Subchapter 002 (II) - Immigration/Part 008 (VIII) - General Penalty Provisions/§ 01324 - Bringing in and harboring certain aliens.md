@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(A) Records of any judicial or administrative proceeding in which that alien's status was an issue and in which it was determined that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 
-&emsp;&emsp;(B) Official records of the Service or of the Department of State showing that the alienhad not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
+&emsp;&emsp;(B) Official records of the Service or of the Department of State showing that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 
 &emsp;&emsp;(C) Testimony, by an immigration officer having personal knowledge of the facts concerning that alien's status, that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 
@@ -94,7 +94,7 @@ Notwithstanding any provision of the Federal Rules of Evidence, the videotaped (
 
 The Secretary of Homeland Security, in consultation with the Attorney General and the Secretary of State, as appropriate, shall develop and implement an outreach program to educate the public in the United States and abroad about the penalties for bringing in and harboring aliens in violation of this section.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §274, 66 Stat. 228; Pub. L. 95–582, §2, Nov. 2, 1978, 92 Stat. 2479; Pub. L. 97–116, §12, Dec. 29, 1981, 95 Stat. 1617; Pub. L. 99–603, title I, §112, Nov. 6, 1986, 100 Stat. 3381; Pub. L. 100–525, §2(d), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 103–322, title VI, §60024, Sept. 13, 1994, 108 Stat. 1981; Pub. L. 104–208, div. C, title II, §§203(a)–(d), 219, title VI, §671(a)(1), Sept. 30, 1996, 110 Stat. 3009–565, 3009–566, 3009–574, 3009–720; Pub. L. 106–185, §18(a), Apr. 25, 2000, 114 Stat. 222; Pub. L. 108–458, title V, §5401, Dec. 17, 2004, 118 Stat. 3737; Pub. L. 109–97, title VII, §796, Nov. 10, 2005, 119 Stat. 2165.)
+(June 27, 1952, ch. 477, title II, ch. 8, §274, 66 Stat. 228; Pub. L. 95–582, §2, Nov. 2, 1978, 92 Stat. 2479; Pub. L. 97–116, §12, Dec. 29, 1981, 95 Stat. 1617; Pub. L. 99–603, title I, §112, Nov. 6, 1986, 100 Stat. 3381; Pub. L. 100–525, §2(d), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 103–322, title VI, §60024, Sept. 13, 1994, 108 Stat. 1981; Pub. L. 104–208, div. C, titleII, §§203(a)–(d), 219, title VI, §671(a)(1), Sept. 30, 1996, 110 Stat. 3009–565, 3009–566, 3009–574, 3009–720; Pub. L. 106–185, §18(a), Apr. 25, 2000, 114 Stat. 222; Pub. L. 108–458, title V, §5401, Dec. 17, 2004, 118 Stat. 3737; Pub. L. 109–97, title VII, §796, Nov. 10, 2005, 119 Stat. 2165.)
 
 #### References in Text
 
@@ -144,7 +144,7 @@ Subsec. (b)(4)(C), (5). Pub. L. 100–525, §2(d)(2), amended Pub. L. 99–603, 
 
 &emsp;"(1) brings into or lands in the United States, by any means of transportation or otherwise, or attempts, by himself or through another, to bring into or land in the United States, by any means of transportation or otherwise;
 
-&emsp;"(2) knowing that he is in the United States in violation of law, and knowing or having reasonable grounds to believe that his last entry into the United States occurred less than three years prior thereto,transports, or moves, or attempts to transport or move, within the United States by means of transportation or otherwise, in furtherance of such violation of law;
+&emsp;"(2) knowing that he is in the United States in violation of law, and knowing or having reasonable grounds to believe that his last entry into the United States occurred less than three years prior thereto, transports, or moves, or attempts to transport or move, within the United States by means of transportation or otherwise, in furtherance of such violation of law;
 
 &emsp;"(3) willfully or knowingly conceals, harbors, or shields from detection, or attempts to conceal, harbor, or shield from detection, in any place, including any building or any means of transportation; or
 

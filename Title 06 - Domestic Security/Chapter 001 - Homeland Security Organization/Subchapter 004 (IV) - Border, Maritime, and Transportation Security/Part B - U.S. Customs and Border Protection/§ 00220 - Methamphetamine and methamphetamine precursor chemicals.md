@@ -18,7 +18,7 @@ As part of the annual performance plan required in the budget submission of the 
 
 #### (2) Report
 
-&emsp;Not later than September 30, 2007, and each 2-year period thereafter, the Commissioner, in the consultation with the Attorney General, United States Immigration and Customs Enforcement, the United States Drug Enforcement Administration, and the United States Department of State, shall submit a report to the Committee on Finance of the Senate, the Committee on Foreign Relations of the Senate, the Committee on the Judiciary of the Senate, the Committee on Ways and Means of the House of Representatives, the Committee on International Relations of the House of Representatives, and the Committee on the Judiciary of the House of Representatives, that includes—
+&emsp;Not later than September 30, 2007, and each 2-year period thereafter, the Commissioner, in the consultation with the Attorney General, United States Immigration and Customs Enforcement, the United States Drug Enforcement Administration, and the United States Department of State, shall submit a report to the Committee on Finance of the Senate, the Committee on Foreign Relations of the Senate, the Committee on the Judiciary of the Senate, the Committee on Ways and Means ofthe House of Representatives, the Committee on International Relations of the House of Representatives, and the Committee on the Judiciary of the House of Representatives, that includes—
 
 &emsp;&emsp;(A) a comprehensive summary of the analysis described in paragraph (1); and
 

@@ -42,7 +42,7 @@ Compensation of Secretary, see section 5312 of Title 5, Government Organization 
 
 #### Order of Succession
 
-For order of succession during any period when both Secretary and Deputy Secretary of the Interior are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13244, Dec. 18, 2001, 66 F.R. 66267,listed in a table under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of the Interior are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13244, Dec. 18, 2001, 66 F.R. 66267, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
 #### Executive Order No. 9432
 
@@ -72,7 +72,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (a) Except as otherwise provided in subsection (b) of this section, there are hereby transferred to the Secretary of the Interior all functions of all other officers of the Department of the Interior and all functions of all agencies and employees of such Department.
 
-(b) This section shall not apply to the functions vested by the Administrative Procedure Act (60 Stat. 237) \[see 5 U.S.C. 551 et seq. and 701 et seq.\] in hearing examiners employed by the Department of the Interior, nor to the functions of the Virgin Islands Corporation or of its Board of Directors or officers.
+(b) This section shall not apply to the functions vested by the Administrative Procedure Act (60 Stat. 237)\[see 5 U.S.C. 551 et seq. and 701 et seq.\] in hearing examiners employed by the Department of the Interior, nor to the functions of the Virgin Islands Corporation or of its Board of Directors or officers.
 
 #### Sec. 2. Performance of Functions of Secretary
 

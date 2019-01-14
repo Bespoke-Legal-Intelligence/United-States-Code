@@ -22,7 +22,7 @@ Computation and Transfer Requirements.—The Postal Service shall, for each year
 
 (c)
 
-Deadline for Transfers.—Any transfer required to be made under this section for a year shall be due on or before the January 15th next occurring after the close of such year.
+Deadline for Transfers.—Any transfer required to be made under this section for a yearshall be due on or before the January 15th next occurring after the close of such year.
 
 (Added Pub. L. 109–435, title IV, §402, Dec. 20, 2006, 120 Stat. 3226.)
 

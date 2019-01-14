@@ -36,7 +36,7 @@
 
 &emsp;(5) "fund" means the appropriate fund established under section 1305 of this title;
 
-&emsp;(6) "basic benefits" means benefits guaranteed under section 1322 of this title (other than under section 1322(c) <sup>1</sup> of this title), or undersection 1322a of this title (other than under section 1322a(g) of this title);
+&emsp;(6) "basic benefits" means benefits guaranteed under section 1322 of this title (other than under section 1322(c) <sup>1</sup> of this title), or under section 1322a of this title (other than under section 1322a(g) of this title);
 
 &emsp;(7) "non-basic benefits" means benefits guaranteed under section 1322(c) <sup>1</sup> of this title or 1322a(g) of this title;
 
@@ -116,7 +116,7 @@
 
 (2) For purposes of subtitle E—
 
-&emsp;(A) except as otherwise provided in subtitle E, contributions or other payments shall be considered made under a plan for a plan year if they are made within the period prescribed under section 412(c)(10) <sup>3</sup> of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
+&emsp;(A) except as otherwise provided in subtitle E, contributions or other payments shall be considered made under a plan for a plan year if they are made within the period prescribedunder section 412(c)(10) <sup>3</sup> of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
 
 &emsp;(B) the term "Secretary of the Treasury" means the Secretary of the Treasury or such Secretary's delegate.
 
@@ -234,7 +234,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280,set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Coordination of Internal Revenue Code of 1986 With Employee Retirement Income Security Act of 1974
 

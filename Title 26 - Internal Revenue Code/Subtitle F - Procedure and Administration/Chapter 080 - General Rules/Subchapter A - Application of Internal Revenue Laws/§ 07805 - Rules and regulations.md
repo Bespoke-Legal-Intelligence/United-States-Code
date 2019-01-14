@@ -18,7 +18,7 @@ Except where such authority is expressly given by this title to any person other
 
 #### (2) Exception for promptly issued regulations
 
-&emsp;Paragraph (1) shall not apply to regulations filed or issued within 18 months of the date ofthe enactment of the statutory provision to which the regulation relates.
+&emsp;Paragraph (1) shall not apply to regulations filed or issued within 18 months of the date of the enactment of the statutory provision to which the regulation relates.
 
 #### (3) Prevention of abuse
 
@@ -102,7 +102,7 @@ Except to the extent otherwise provided by this title, any election under this t
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–168, title XI, §1101(b), July 30, 1996, 110 Stat. 1469, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to regulations which relate to statutory provisions enacted on or after the date of the enactment of this Act \[July 30, 1996\]."
+Pub. L. 104–168, title XI, §1101(b), July 30, 1996, 110 Stat. 1469, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to regulations which relate to statutory provisions enacted on or after the date of the enactment of this Act \[July 30, 1996\]."
 
 #### Effective Date of 1990 Amendment
 
@@ -115,6 +115,32 @@ Pub. L. 100–647, title VI, §6232(b), Nov. 10, 1988, 102 Stat. 3735, provided 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
+
+#### Form 1040SR for Seniors
+
+Pub. L. 115–123, div. D, title II, §41106, Feb. 9, 2018, 132 Stat. 157, provided that:
+
+"(a)
+
+In General.—The Secretary of the Treasury (or the Secretary's delegate) shall make available a form, to be known as 'Form 1040SR', for use by individuals to file the return of tax imposed by chapter 1 of the Internal Revenue Code of 1986. Such form shall be as similar as practicable to Form 1040EZ, except that—
+
+&emsp;"(1) the form shall be available only to individuals who have attained age 65 as of the close of the taxable year,
+
+&emsp;"(2) the form may be used even if income for the taxable year includes—
+
+&emsp;&emsp;"(A) social security benefits (as defined in section 86(d) of the Internal Revenue Code of 1986),
+
+&emsp;&emsp;"(B) distributions from qualified retirement plans (as defined in section 4974(c) of such Code), annuities or other such deferred payment arrangements,
+
+&emsp;&emsp;"(C) interest and dividends, or
+
+&emsp;&emsp;"(D) capital gains and losses taken into account in determining adjusted net capital gain (as defined in section 1(h)(3) of such Code), and
+
+&emsp;"(3) the form shall be available without regard to the amount of any item of taxable income or the total amount of taxable income for the taxable year.
+
+"(b)
+
+Effective Date.—The form required by subsection (a) shall be made available for taxable years beginning after the date of the enactment of this Act \[Feb. 9, 2018\]."
 
 #### Internet Availability
 

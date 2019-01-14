@@ -66,7 +66,7 @@
 
 &emsp;(13) Menstrual disorders.
 
-(h)(1) If the Secretary determines with respect to a medical research project sponsored by the Department that it is necessary for the conduct of the project that Persian Gulf veterans in receipt of compensation under this section or section 1118 of this title participate in the project without the possibility of loss of service connection under either such section, the Secretary shall provide that service connection granted under either such section for disability of a veteran who participated in the research project may not be terminated. Except as provided in paragraph (2), notwithstanding any other provision of law any grant of service-connection protected under this subsection shall remain service-connected for purposes of all provisions of law under this title.
+(h)(1) If the Secretary determines with respect to a medical research project sponsored by the Department that it is necessary for the conduct of the project that Persian Gulf veterans in receipt of compensation under this section or section 1118 of this title participate in the projectwithout the possibility of loss of service connection under either such section, the Secretary shall provide that service connection granted under either such section for disability of a veteran who participated in the research project may not be terminated. Except as provided in paragraph (2), notwithstanding any other provision of law any grant of service-connection protected under this subsection shall remain service-connected for purposes of all provisions of law under this title.
 
 (2) Paragraph (1) does not apply in a case in which—
 
@@ -128,7 +128,7 @@ Agreement.—(1) The Secretary of Veterans Affairs shall seek to enter into an a
 
 "(c)
 
-Review of Scientific Evidence.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall conduct a comprehensive review and evaluation of the available scientific and medical information regarding the health status of veterans who served in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War or, after September 11, 2001, in another Post-9/11 Global Theater of Operations and the health consequences of exposuresto risk factors during such service. In conducting such review and evaluation, the Academy shall—
+Review of Scientific Evidence.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall conduct a comprehensive review and evaluation of the available scientific and medical information regarding the health status of veterans who served in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War or, after September 11, 2001, in another Post-9/11 Global Theater of Operations and the health consequences of exposures to risk factors during such service. In conducting such review and evaluation, the Academy shall—
 
 &emsp;"(A) identify the biological, chemical, or other toxic agents, environmental or wartime hazards, or preventive medicines or vaccines (including the agents specified in subsection (d)(1)) to which members of the Armed Forces who may have been exposed by reason of service in the Southwest Asia theater of operations during the Persian Gulf War or, after September 11, 2001, in another Post-9/11 Global Theater of Operations;
 
@@ -264,7 +264,7 @@ Subsequent Reviews.—(1) Under the agreement under subsection (b), the National
 
 "(h)
 
-Reports by Academy.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives and the Secretary of Veterans Affairs periodic written reports regarding the Academy's activities under the agreement.
+Reports by Academy.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall submit to the Committees on Veterans' Affairs ofthe Senate and the House of Representatives and the Secretary of Veterans Affairs periodic written reports regarding the Academy's activities under the agreement.
 
 "(2) The first report under paragraph (1) shall be submitted not later than 2 years after entry into the agreement under subsection (b). That report shall include—
 
@@ -348,7 +348,7 @@ Agreement.—The Secretary of Veterans Affairs shall seek to enter into an agree
 
 Identification of Agents and Illnesses.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall—
 
-&emsp;"(A) identify the biological, chemical, or other toxic agents, environmental or wartime hazards, or preventive medicines or vaccines to which members of the Armed Forces who may have been exposed by reason of service in the Southwest Asia theater of operations during the Persian Gulf War or, after September 11, 2001, in another Post-9/11 Global Theater of Operations; and
+&emsp;"(A) identify the biological, chemical, or other toxic agents, environmental or wartime hazards, orpreventive medicines or vaccines to which members of the Armed Forces who may have been exposed by reason of service in the Southwest Asia theater of operations during the Persian Gulf War or, after September 11, 2001, in another Post-9/11 Global Theater of Operations; and
 
 &emsp;"(B) identify the illnesses (including diagnosed illnesses and undiagnosed illnesses) that are manifest in such members.
 
@@ -472,7 +472,7 @@ Subsequent Reviews.—(1) Under the agreement under subsection (b), the National
 
 "(2) As part of each review under this subsection, the Academy shall—
 
-&emsp;"(A) conduct as comprehensive a review as is practicable of the evidence referred to in subsection (c) and the data referred to in subsections (e), (f), and (g)that became available since the last review of such evidence and data under this section; and
+&emsp;"(A) conduct as comprehensive a review as is practicable of the evidence referred to in subsection (c) and the data referred to in subsections (e), (f), and (g) that became available since the last review of such evidence and data under this section; and
 
 &emsp;"(B) make determinations under the subsections referred to in subparagraph (A) on the basis of the results of such review and all other reviews previously conducted for purposes of this section.
 
@@ -542,7 +542,7 @@ Definitions.—In this section:
 
 #### Persian Gulf War Veterans' Benefits
 
-Sections 102 to 105, 107, 109, and 110 of title I of Pub. L. 103–446, as amended by Pub. L. 104–262, title III, §352(a), Oct. 9, 1996, 110 Stat. 3210; Pub. L. 105–368, title I, §107, Nov. 11, 1998, 112 Stat. 3325; Pub. L. 106–117, title II, §205(b), (c), Nov. 30, 1999, 113 Stat. 1563, provided that:
+Pub. L. 103–446, title I, §§102–105, 107, 109, 110, Nov. 2, 1994, 108 Stat. 4647–4650, 4652–4654, as amended by Pub. L. 104–262, title III, §352(a), Oct. 9, 1996, 110 Stat. 3210; Pub. L. 105–368, title I, §107, Nov. 11, 1998, 112 Stat. 3325; Pub. L. 106–117, title II, §205(b), (c), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 115–182, title I, §144(a)(3), June 6, 2018, 132 Stat. 1430, provided that:
 
 #### "SEC. 102. FINDINGS.
 
@@ -602,6 +602,8 @@ Relationship to Other Comprehensive Clinical Evaluation Protocols.—The Secreta
 
 Case Definitions and Diagnoses.—The Secretary shall develop case definitions or diagnoses for illnesses associated with the service described in subsection (a)(1). The Secretary shall develop such definitions or diagnoses at the earliest possible date.
 
+<i>\[Pub. L. 115–182, title I, §144(a)(3), (b), June 6, 2018, 132 Stat. 1430, provided that, effective on the date described in section 101(b), set out as an Effective Date of 2018 Amendment note under section 1703 of this title, section 104(a)(4)(A) of Pub. L. 103–446, set out above, is amended by substituting "in sections 1703A, 8111, and 8153" for "in section 1703".\]</i>
+
 #### "SEC. 105. OUTREACH TO PERSIAN GULF VETERANS.
 
 "(a)
@@ -610,7 +612,7 @@ In General.—The Secretary of Veterans Affairs shall implement a comprehensive 
 
 "(b)
 
-Newsletter.—(1) The outreach program shall include a newsletter which shall be updated and distributed at least semi-annually and shall be distributed tothe veterans listed on the Persian Gulf War Veterans Health Registry. The newsletter shall include summaries of the status and findings of Government sponsored research on illnesses of Persian Gulf War veterans and their families, as well as on benefits available to such individuals through the Department of Veterans Affairs. The newsletter shall be prepared in consultation with veterans service organizations.
+Newsletter.—(1) The outreach program shall include a newsletter which shall be updated and distributed at least semi-annually and shall be distributed to the veterans listed on the Persian Gulf War Veterans Health Registry. The newsletter shall include summaries of the status and findings of Government sponsored research on illnesses of Persian Gulf War veterans and their families, as well as on benefits available to such individuals through the Department of Veterans Affairs. The newsletter shall be prepared in consultation with veterans service organizations.
 
 "(2) The requirement under this subsection for the distribution of the newsletter shall terminate on December 31, 2003.
 

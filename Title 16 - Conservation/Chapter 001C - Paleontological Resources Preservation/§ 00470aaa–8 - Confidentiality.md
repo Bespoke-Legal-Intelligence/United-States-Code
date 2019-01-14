@@ -1,6 +1,6 @@
 ### §470aaa–8. Confidentiality
 
-Information concerning the nature and specific location of a paleontological resource shall be exempt from disclosure under section 552 of title 5 and any other law unless the Secretary determines that disclosure would—
+Information concerning the nature and specific location of a paleontological resource shall be exempt from disclosure under section 552 oftitle 5 and any other law unless the Secretary determines that disclosure would—
 
 &emsp;(1) further the purposes of this chapter;
 

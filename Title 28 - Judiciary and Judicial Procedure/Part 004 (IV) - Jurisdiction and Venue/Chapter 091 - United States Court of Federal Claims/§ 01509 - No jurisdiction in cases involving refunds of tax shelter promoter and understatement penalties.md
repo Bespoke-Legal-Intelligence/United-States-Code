@@ -6,7 +6,7 @@ The United States Court of Federal Claims shall not have jurisdiction to hear an
 
 #### References in Text
 
-Sections 6700 and 6701 of the Internal Revenue Code of 1986, referred to in text, are classified to sections 6700and 6701, respectively, of Title 26, Internal Revenue Code.
+Sections 6700 and 6701 of the Internal Revenue Code of 1986, referred to in text, are classified to sections 6700 and 6701, respectively, of Title 26, Internal Revenue Code.
 
 #### Amendments
 

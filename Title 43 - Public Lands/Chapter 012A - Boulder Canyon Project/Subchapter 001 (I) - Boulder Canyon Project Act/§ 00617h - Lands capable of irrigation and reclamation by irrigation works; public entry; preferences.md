@@ -6,7 +6,7 @@ Lands found to be practicable of irrigation and reclamation by irrigation works 
 
 #### References in Text
 
-Act of March 6, 1946 (43 U.S.C. 617(h)), referred to in text, probably means act Mar. 6, 1946, ch. 58, 60 Stat. 36, which amended this section and which authorized all lands of the United States found by the Secretary ofthe Interior to be practicable of irrigation and reclamation by the irrigation works authorized by the act of Dec. 21, 1928, ch. 42, 45 Stat. 1057, to be withdrawn from public entry.
+Act of March 6, 1946 (43 U.S.C. 617(h)), referred to in text, probably means act Mar. 6, 1946, ch. 58, 60 Stat. 36, which amended this section and which authorized all lands of the United States found by the Secretary of the Interior to be practicable of irrigation and reclamation by the irrigation works authorized by the act of Dec. 21, 1928, ch. 42, 45 Stat. 1057, to be withdrawn from public entry.
 
 The reclamation law, referred to in text, is defined in section 617k of this title.
 

@@ -30,7 +30,7 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 #### (2) Furnishing of statement to employees
 
-&emsp;Each employer described in paragraph (1) shall furnish, in such manner as the Secretary may prescribe by regulations, to each employee of the large food or beverage establishment a written statement for each calendar year showing the following information:
+&emsp;Each employer described in paragraph (1) shall furnish, in such manner as the Secretarymay prescribe by regulations, to each employee of the large food or beverage establishment a written statement for each calendar year showing the following information:
 
 &emsp;&emsp;(A) The name and address of such employer.
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 113–295 applicable with respect to wages for services per
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title X, §1072(c)(2), July 18, 1984, 98 Stat. 1052, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to calendar years beginning after December 31, 1982."
+Pub. L. 98–369, div. A, title X, §1072(c)(2), July 18, 1984, 98 Stat. 1052, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to calendar years beginning after December 31, 1982."
 
 #### Effective Date of 1982 Amendment
 
@@ -130,7 +130,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 "(2)
 
-Special rule for 1983.—For purposes of section 6053(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the case of payroll periods ending beforeApril 1, 1983, an employer must only report with respect to such periods—
+Special rule for 1983.—For purposes of section 6053(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the case of payroll periods ending before April 1, 1983, an employer must only report with respect to such periods—
 
 &emsp;"(A) amounts described in subparagraphs (A), (B), (C), and (D) of section 6053(c)(1) of such Code, and
 

@@ -48,7 +48,7 @@ Except as provided in this section, the Administrator shall not disclose informa
 
 #### (i) Critical use
 
-&emsp;&emsp;&emsp;In the case of a chemical substance or mixture for which a specific condition ofuse is subject to an exemption pursuant to section 2605(g) of this title, if the Administrator establishes a ban or phase-out described in subparagraph (A) with respect to the chemical substance or mixture, the presumption against protection under such subparagraph shall only apply to information that relates solely to any conditions of use of the chemical substance or mixture to which the exemption does not apply.
+&emsp;&emsp;&emsp;In the case of a chemical substance or mixture for which a specific condition of use is subject to an exemption pursuant to section 2605(g) of this title, if the Administrator establishes a ban or phase-out described in subparagraph (A) with respect to the chemical substance or mixture, the presumption against protection under such subparagraph shall only apply to information that relates solely to any conditions of use of the chemical substance or mixture to which the exemption does not apply.
 
 #### (ii) Export
 
@@ -56,7 +56,7 @@ Except as provided in this section, the Administrator shall not disclose informa
 
 #### (iii) Specific conditions of use
 
-&emsp;&emsp;&emsp;In the case of a chemical substance or mixture for which the Administrator establishes a ban or phase-out described in subparagraph (A) with respect to a specific condition of use of the chemical substance or mixture, the presumption against protection under such subparagraph shall only apply to information that relates solely to the condition of use of the chemical substance or mixture for which the ban or phase-out is established.
+&emsp;&emsp;&emsp;In the case of a chemical substance or mixture for which the Administrator establishes a ban or phase-out described in subparagraph (A) with respect to a specific condition of use of the chemical substance or mixture, the presumption against protection under such subparagraph shallonly apply to information that relates solely to the condition of use of the chemical substance or mixture for which the ban or phase-out is established.
 
 #### (C) Request for nondisclosure
 
@@ -136,7 +136,7 @@ Except as provided in this section, the Administrator shall not disclose informa
 
 #### (5) Certification
 
-&emsp;An authorized official of a person described in paragraph (1)(A) shall certify that the statement required to assert a claim submitted pursuant to paragraph (1)(B), and any information required to substantiate a claim submitted pursuant to paragraph (3), are true and correct.
+&emsp;An authorized official of a person described in paragraph (1)(A) shall certify that thestatement required to assert a claim submitted pursuant to paragraph (1)(B), and any information required to substantiate a claim submitted pursuant to paragraph (3), are true and correct.
 
 #### (d) Exceptions to protection from disclosure
 
@@ -264,7 +264,7 @@ Information described in subsection (a)—
 
 #### (2) Review required
 
-&emsp;The Administrator shall review a claim for protection of information from disclosureunder this section and require any person that has claimed protection for that information, whether before, on, or after June 22, 2016, to reassert and substantiate or resubstantiate the claim in accordance with this section—
+&emsp;The Administrator shall review a claim for protection of information from disclosure under this section and require any person that has claimed protection for that information, whether before, on, or after June 22, 2016, to reassert and substantiate or resubstantiate the claim in accordance with this section—
 
 &emsp;&emsp;(A) as necessary to determine whether the information qualifies for an exemption from disclosure in connection with a request for information received by the Administrator under section 552 of title 5;
 
@@ -282,7 +282,7 @@ Information described in subsection (a)—
 
 #### (A) In general
 
-&emsp;&emsp;Except for claims regarding information described in subsection (c)(2), the Administrator shall, subject to subparagraph (C), not later than 90 days after the receipt of a claim under subsection (c), and not later than 30 days after the receipt of a request for extension of a claim under subsection (e) or a request under subsection (b)(4)(C), review and approve, approve in part and deny in part, or deny the claim or request.
+&emsp;&emsp;Except for claims regarding information described in subsection (c)(2), the Administrator shall, subject to subparagraph (C), not later than 90 days after the receipt of a claim under subsection (c), and not laterthan 30 days after the receipt of a request for extension of a claim under subsection (e) or a request under subsection (b)(4)(C), review and approve, approve in part and deny in part, or deny the claim or request.
 
 #### (B) Reasons for denial
 

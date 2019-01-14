@@ -10,7 +10,7 @@ Authority To Enter Into International Exchange Agreements.—(1) The Secretary o
 
 &emsp;(B) military and civilian personnel of the defense or security ministry of that foreign government or international or regional security organization.
 
-(3) An exchange of personnel under an international defense personnel exchange agreement under this section may only be made with the concurrence of the Secretary to State <sup>1</sup> to the extent the exchange is with either of the following:
+(3) An exchange of personnel under an international defense personnel exchange agreement under this section may only be made with the concurrence of the Secretary of State to the extent the exchange is with either of the following:
 
 &emsp;(A) A non-defense security ministry of a foreign government.
 
@@ -26,7 +26,7 @@ Assignment of Personnel.—(1) Pursuant to an international defense personnel ex
 
 (c)
 
-Reciprocity of Personnel Qualifications Required.—In the case of an international defense personnel exchange agreement that provides for reciprocal exchanges, each governmentshall be required to provide personnel with qualifications, training, and skills that are essentially equal to those of the personnel provided by the other government.
+Reciprocity of Personnel Qualifications Required.—In the case of an international defense personnel exchange agreement that provides for reciprocal exchanges, each government shall be required to provide personnel with qualifications, training, and skills that are essentially equal to those of the personnel provided by the other government.
 
 (d)
 
@@ -48,7 +48,7 @@ Prohibited Conditions.—No personnel exchanged pursuant to an agreement under t
 
 Relationship to Other Authority.—The requirements in subsections (c) and (d) shall apply in the exercise of any authority of the Secretaries of the military departments to enter into an agreement with the government of a foreign country to provide for the exchange of members of the armed forces and military personnel of the defense or security ministry of that foreign country. The Secretary of Defense may prescribe regulations for the application of such subsections in the exercise of such authority.
 
-(Added and amended Pub. L. 114–328, div. A, title XII, §1242(a), (b), Dec. 23, 2016, 130 Stat. 2512, 2513.)
+(Added and amended Pub. L. 114–328, div. A, title XII, §1242(a), (b), Dec. 23, 2016, 130 Stat. 2512, 2513; Pub. L. 115–232, div. A, title XII, §1204(c)(1)(A), Aug. 13, 2018, 132 Stat. 2017.)
 
 #### Codification
 
@@ -59,6 +59,8 @@ Text of section, as added by Pub. L. 114–328, is based on text of Pub. L. 104�
 A prior section 311 was renumbered section 246 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(3). Pub. L. 115–232 substituted "Secretary of State" for "Secretary to State" in introductory provisions.
 
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–328, §1242(b)(1)(A), inserted at end "Any exchange of personnel under such an agreement is subject to paragraph (3)."
 
@@ -82,7 +84,7 @@ Pub. L. 106–65, div. A, title XII, §1201, Oct. 5, 1999, 113 Stat. 779, as ame
 
 "(a)
 
-Limitation.—The Secretary of Defense may not authorize any military-to-military exchange or contact described in subsection (b) to be conducted by the armed forces with representatives of the People's Liberation Army of the People's Republic of China if that exchange or contact would create a national security risk due to an inappropriate exposure specified in subsection (b).
+Limitation.—The Secretary of Defense may not authorize any military-to-military exchange or contact described in subsection (b) to be conducted by the armed forces with representatives of the People's Liberation Army of the People's Republic of China if that exchange or contact would create a national securityrisk due to an inappropriate exposure specified in subsection (b).
 
 "(b)
 
@@ -115,6 +117,4 @@ Covered Exchanges and Contacts.—Subsection (a) applies to any military-to-mili
 "(c)
 
 Exceptions.—Subsection (a) does not apply to any search-and-rescue or humanitarian operation or exercise."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "Secretary of State".</i>
 

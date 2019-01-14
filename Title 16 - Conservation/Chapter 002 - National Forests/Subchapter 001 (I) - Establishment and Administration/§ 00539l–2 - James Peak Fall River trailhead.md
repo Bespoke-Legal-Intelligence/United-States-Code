@@ -16,7 +16,7 @@ The Forest Supervisor shall assign Forest Service personnel to provide appropria
 
 #### (c) Consultation
 
-The Forest Supervisor shall consult with the Clear Creek County commissioners and withresidents of Alice Township and St. Mary's Glacier regarding—
+The Forest Supervisor shall consult with the Clear Creek County commissioners and with residents of Alice Township and St. Mary's Glacier regarding—
 
 &emsp;(1) the appropriate location of facilities and services in the area described in subsection (a); and
 

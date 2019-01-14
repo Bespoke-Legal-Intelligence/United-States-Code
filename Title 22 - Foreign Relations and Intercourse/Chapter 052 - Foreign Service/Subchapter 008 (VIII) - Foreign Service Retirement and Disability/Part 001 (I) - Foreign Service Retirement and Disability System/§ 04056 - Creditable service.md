@@ -10,7 +10,7 @@
 
 &emsp;(B) each period of military or naval service performed after December 31, 1956, and before the separation on which the entitlement to annuity under this part is based, only if a deposit (with interest if any is required) is made with respect to that period, as provided in section 4045(e) of this title.
 
-(3) The service of an individual who first became a participant on or after October 17, 1983, with credit under this section for civilian service performed prior to October 1982, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1956, to subsection (j).
+(3) The service of an individual who first became a participant on or after October 17, 1983,with credit under this section for civilian service performed prior to October 1982, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1956, to subsection (j).
 
 (4) The service of an individual who first became a participant before October 17, 1983, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this part is based, subject, in the case of military or naval service performed after December 1976, to subsection (j).
 
@@ -90,7 +90,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 &emsp;"(2) the denominator of which is the total of all wages deemed additional wages described in paragraph (1) of this subsection plus all other wages (within the meaning of section 209 of the Social Security Act \[42 U.S.C. 409\]) and all self-employment income (within the meaning of section 211(b) of such Act \[42 U.S.C. 411(b)\]) of such individual credited for years after 1936 and before the calendar year in which the determination month occurs, up to the contribution and benefit base (or such other amount referred to in such section 215(e)(1) of such Act \[42 U.S.C. 415(e)(1)\]) for each such year.
 
-"(c) Subsection (b) shall not reduce the annuity of any individual below the amount of the annuity which would be payable under chapter 8 of the Act \[this subchapter\] to the individual for the determination month if section 8332(j) of Title 5 of the United States Code applied to the individual for such month.
+"(c) Subsection (b) shall not reduce the annuity of any individual below the amount of the annuitywhich would be payable under chapter 8 of the Act \[this subchapter\] to the individual for the determination month if section 8332(j) of Title 5 of the United States Code applied to the individual for such month.
 
 "(d) For purposes of this section, the term 'determination month' means—
 
@@ -102,7 +102,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 "(f) The Secretary of Health and Human Services shall furnish such information to the Secretary of State as may be necessary to carry out the preceding provisions of this section."
 
-<i>Section 1(b) and (c) of Ex. Ord. No. 12446 provided that subsection (d) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to partici</i><i>pants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
+<i>Section 1(b) and (c) of Ex. Ord. No. 12446 provided that subsection (d) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
 
 <i>(1) the participant makes a contribution for such period as provided in such section 4045(d) of this title; or</i>
 

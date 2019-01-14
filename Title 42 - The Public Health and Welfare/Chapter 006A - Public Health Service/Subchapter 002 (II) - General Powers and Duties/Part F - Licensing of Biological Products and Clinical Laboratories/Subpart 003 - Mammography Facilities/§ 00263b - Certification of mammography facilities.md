@@ -20,7 +20,7 @@ As used in this section:
 
 #### (B) Activities
 
-&emsp;&emsp;For the purposes of this section, the activities of a facility include the operation of equipment to produce the mammogram, the processing of the film, the initial interpretation of the mammogram and the viewingconditions for that interpretation. Where procedures such as the film processing, or the interpretation of the mammogram are performed in a location different from where the mammogram is performed, the facility performing the mammogram shall be responsible for meeting the quality standards described in subsection (f).
+&emsp;&emsp;For the purposes of this section, the activities of a facility include the operation of equipment to produce the mammogram, the processing of the film, the initial interpretation of the mammogram and the viewing conditions for that interpretation. Where procedures such as the film processing, or the interpretation of the mammogram are performed in a location different from where the mammogram is performed, the facility performing the mammogram shall be responsible for meeting the quality standards described in subsection (f).
 
 #### (4) Inspection
 
@@ -96,7 +96,7 @@ As used in this section:
 
 #### (4) Provisional certificate
 
-&emsp;The Secretary may issue a provisional certificate for an entity to enable the entity to qualify as a facility. The applicant for a provisional certificate shall meet the requirements of subsection (d)(1), except providing information required by clauses (iii) and (iv) of subsection (d)(1)(A). A provisional certificate may be in effect no longer than 6 months from the date it is issued, except that it may be extended once for a period of not more than 90days if the owner, lessor, or agent of the facility demonstrates to the Secretary that without such extension access to mammography in the geographic area served by the facility would be significantly reduced and if the owner, lessor, or agent of the facility will describe in a report to the Secretary steps that will be taken to qualify the facility for certification under subsection (b)(1).
+&emsp;The Secretary may issue a provisional certificate for an entity to enable the entity to qualify as a facility. The applicant for a provisional certificate shall meet the requirements of subsection (d)(1), except providing information required by clauses (iii) and (iv) of subsection (d)(1)(A). A provisional certificate may be in effect no longer than 6 months from the date it is issued, except that it may be extended once for a period of not more than 90 days if the owner, lessor, or agent of the facility demonstrates to the Secretary that without such extension access to mammography in the geographic area served by the facility would be significantly reduced and if the owner, lessor, or agent of the facility will describe in a report to the Secretary steps that will be taken to qualify the facility for certification under subsection (b)(1).
 
 #### (d) Application for certificate
 
@@ -308,7 +308,7 @@ As used in this section:
 
 &emsp;&emsp;(A) specify organizations eligible to certify individuals to perform radiological procedures as required by paragraph (1)(C);
 
-&emsp;&emsp;(B) specify boards eligible to certify physicians to interpret radiological procedures, including mammography, as required by paragraph (1)(D);
+&emsp;&emsp;(B) specify boards eligible to certify physicians to interpret radiological procedures,including mammography, as required by paragraph (1)(D);
 
 &emsp;&emsp;(C) establish standards for a program to certify physicians described in paragraph (1)(D); and
 
@@ -344,7 +344,7 @@ As used in this section:
 
 #### (F) Records and annual reports
 
-&emsp;&emsp;The Secretary or a State or local agency acting on behalf of the Secretary which is responsible for inspecting mammography facilities shall maintain records of annual inspections required under this paragraph for a period as prescribed by the Secretary. Sucha State or local agency shall annually prepare and submit to the Secretary a report concerning the inspections carried out under this paragraph. Such reports shall include a description of the facilities inspected and the results of such inspections.
+&emsp;&emsp;The Secretary or a State or local agency acting on behalf of the Secretary which is responsible for inspecting mammography facilities shall maintain records of annual inspections required under this paragraph for a period as prescribed by the Secretary. Such a State or local agency shall annually prepare and submit to the Secretary a report concerning the inspections carried out under this paragraph. Such reports shall include a description of the facilities inspected and the results of such inspections.
 
 #### (2) Inspection of accredited facilities
 
@@ -378,7 +378,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(iii) The number of facilities selected for inclusion in the program shall be sufficient to provide a statistically significant sample, subject to compliance with clause (ii).
 
-&emsp;&emsp;&emsp;(iv) Facilities that are selected for inclusion in the program shall be inspected at such intervals as the Secretary determines will reasonably ensure that the facilities are maintaining compliance with such standards.
+&emsp;&emsp;&emsp;(iv) Facilities that are selected for inclusion in the program shall be inspected atsuch intervals as the Secretary determines will reasonably ensure that the facilities are maintaining compliance with such standards.
 
 #### (h) Sanctions
 
@@ -450,7 +450,7 @@ As used in this section:
 
 If the Secretary determines that—
 
-&emsp;(1) continuation of any activity related to the provision of mammography by a facility would constitute a serious risk to human health, the Secretary may bring suit in the district court of the United States for the district in which the facility is situated to enjoin continuation of the activity; and
+&emsp;(1) continuation of any activity related to the provision of mammography by a facilitywould constitute a serious risk to human health, the Secretary may bring suit in the district court of the United States for the district in which the facility is situated to enjoin continuation of the activity; and
 
 &emsp;(2) a facility is operating without a certificate as required by subsection (b), the Secretary may bring suit in the district court of the United States for the district in which the facility is situated to enjoin the operation of the facility.
 
@@ -514,7 +514,7 @@ Nothing in this section shall be construed to limit the authority of any State t
 
 #### (2) Composition
 
-&emsp;The Advisory Committee shall be composed of not fewer than 13, nor more than 19 individuals, who are not officers or employees of the Federal Government. The Secretary shall make appointments to the Advisory Committee from among—
+&emsp;The Advisory Committee shall be composed of not fewer than 13, nor more than 19 individuals, who are not officers or employees of the Federal Government. The Secretary shallmake appointments to the Advisory Committee from among—
 
 &emsp;&emsp;(A) physicians,
 
@@ -680,7 +680,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### Prior Provisions
 
-A prior section 263b, act July 1, 1944, ch. 373, title III, §354, as added Oct. 18, 1968, Pub. L. 90–602, §2(3), 82 Stat. 1173; amended Nov. 28, 1990, Pub. L. 101–629, §19(a)(1)(B), 104 Stat. 4529; Aug. 13, 1993, Pub. L. 103–80, §4(a)(2), 107 Stat. 779, set forth Congressional declaration of purpose, prior to repeal by Pub. L. 101–629, §19(a)(3), Nov. 28, 1990, 104 Stat. 4530.
+A prior section 263b, act July 1, 1944, ch. 373, title III, §354, as added Oct. 18, 1968, Pub. L. 90–602, §2(3), 82 Stat.1173; amended Nov. 28, 1990, Pub. L. 101–629, §19(a)(1)(B), 104 Stat. 4529; Aug. 13, 1993, Pub. L. 103–80, §4(a)(2), 107 Stat. 779, set forth Congressional declaration of purpose, prior to repeal by Pub. L. 101–629, §19(a)(3), Nov. 28, 1990, 104 Stat. 4530.
 
 Sections 263c to 263n, act July 1, 1944, ch. 373, title III, §§355–360F, as added Oct. 18, 1968, Pub. L. 90–602, §2(3), 82 Stat. 1174, and amended, which related to electronic product radiation control, were renumbered sections 531 to 542, respectively, of the Federal Food, Drug, and Cosmetic Act by Pub. L. 101–629, §19(a)(4), Nov. 28, 1990, 104 Stat. 4530, and are classified to sections 360hh to 360ss, respectively, of Title 21, Food and Drugs.
 
@@ -764,7 +764,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time asmay be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 #### Regulations
 

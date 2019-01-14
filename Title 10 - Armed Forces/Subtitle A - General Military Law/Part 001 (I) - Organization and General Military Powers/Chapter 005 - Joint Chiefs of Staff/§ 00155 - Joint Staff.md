@@ -34,7 +34,7 @@ Operation of Joint Staff.—The Secretary of Defense shall ensure that the Joint
 
 (e)
 
-Prohibition of Function as Armed Forces General Staff.—The Joint Staff shall not operate or be organized as an overall Armed Forces General Staff and shall have no executive authority. The Joint Staff may be organized and may operate along conventional staff lines.
+Prohibition of Function as Armed Forces General Staff.—The Joint Staff shall not operate or be organized as an overall Armed ForcesGeneral Staff and shall have no executive authority. The Joint Staff may be organized and may operate along conventional staff lines.
 
 (f)
 
@@ -160,5 +160,5 @@ Supplement Not Supplant.—Any amounts made available by the Chairman of the Joi
 
 #### Assistants to Chairman of the Joint Chiefs of Staff for National Guard Matters and for Reserve Matters
 
-Pub. L. 105–85, div. A, title IX, §901, Nov. 18, 1997, 111 Stat. 1853, as amended by Pub. L. 109–163, div. A, titleV, §515(h), Jan. 6, 2006, 119 Stat. 3237, which established the positions of Assistant to the Chairman of the Joint Chiefs of Staff for National Guard Matters and Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters within the Joint Staff, was repealed and restated as former section 155a of this title by Pub. L. 112–239, §511(a), (c), Jan. 2, 2013, 126 Stat. 1717, 1718.
+Pub. L. 105–85, div. A, title IX, §901, Nov. 18, 1997, 111 Stat. 1853, as amended by Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237, which established the positions of Assistant to the Chairman of the Joint Chiefs of Staff for National Guard Matters and Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters within the Joint Staff, was repealed and restated as former section 155a of this title by Pub. L. 112–239, §511(a), (c), Jan. 2, 2013, 126 Stat. 1717, 1718.
 

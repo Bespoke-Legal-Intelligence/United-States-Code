@@ -32,5 +32,5 @@ Section 337 of the Tariff Act of 1930, referred to in subsec. (c)(1)(A), is clas
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–553 effective with respect to violations that occur on or after Nov. 15, 1990, see section 3 of Pub. L. 101–553, set out as a note under section 501 of this title.
+Amendment by Pub. L. 101–553 effective with respect to violations that occur on or after Nov. 15, 1990, seesection 3 of Pub. L. 101–553, set out as a note under section 501 of this title.
 

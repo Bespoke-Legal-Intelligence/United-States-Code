@@ -36,7 +36,7 @@ The President shall submit to the Congress with the proposed Plan a report which
 
 &emsp;(4) a summary of research and development efforts funded by the Federal Government to forestall energy shortages, to reduce waste, to foster recycling, to encourage conservation practices, and to otherwise protect environmental quality, including recommendations for developing technologies to accomplish such purposes; and
 
-&emsp;(5) a review and appraisal of the adequacy and appropriateness of technologies, procedures, and practices (including competitive and regulatory practices) employed by Federal, State, and local governments and nongovernmental entities to achieve the purposes of the Plan.
+&emsp;(5) a review and appraisal of the adequacy and appropriateness of technologies, procedures, and practices (including competitive and regulatory practices) employed by Federal, State, and local governments andnongovernmental entities to achieve the purposes of the Plan.
 
 #### (d) Consultation with consumers, small businesses, etc.
 

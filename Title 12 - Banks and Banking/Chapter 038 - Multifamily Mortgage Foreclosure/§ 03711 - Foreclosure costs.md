@@ -10,7 +10,7 @@ The following foreclosure costs shall be paid from the sale proceeds prior to sa
 
 &emsp;(4) necessary out-of-pocket costs incurred by the foreclosure commissioner to record documents; and
 
-&emsp;(5) a commission for the foreclosure commissioner for the conduct of the foreclosure to theextent authorized by regulations issued by the Secretary.
+&emsp;(5) a commission for the foreclosure commissioner for the conduct of the foreclosure to the extent authorized by regulations issued by the Secretary.
 
 (Pub. L. 97–35, title III, §369C, Aug. 13, 1981, 95 Stat. 429.)
 

@@ -4,7 +4,7 @@ All grants awarded by the Department of Justice that are authorized under this s
 
 #### (1) Audit requirement
 
-&emsp;For 2 of the fiscal years in the period of fiscal years 2014 through 2018, the Inspector General of the Department of Justice shall conduct audits of the recipient of grants under this subchapter to prevent waste, fraud, and abuse by the grantee.
+&emsp;For 2 of the fiscal years in the period of fiscal years 2014 through 2023, the Inspector General of the Department of Justice shall conduct audits of the recipient of grants under this subchapter to prevent waste, fraud, and abuse by the grantee.
 
 #### (2) Mandatory exclusion
 
@@ -72,13 +72,23 @@ All grants awarded by the Department of Justice that are authorized under this s
 
 &emsp;&emsp;For purposes of this paragraph, submitting an application for a grant under this subchapter shall not be considered lobbying activity in violation of subparagraph (A).
 
-(Pub. L. 93–415, title IV, §407, as added Pub. L. 113–38, §4, Sept. 30, 2013, 127 Stat. 529.)
+(Pub. L. 93–415, title IV, §408, formerly §407, as added Pub. L. 113–38, §4, Sept. 30, 2013, 127 Stat. 529; renumbered §408, Pub. L. 115–267, §2(e)(1), Oct. 11, 2018, 132 Stat. 3760, and Pub. L. 115–393, title II, §202(e)(1), Dec. 21, 2018, 132 Stat. 5271; amended Pub. L. 115–267, §3(b), Oct. 11, 2018, 132 Stat. 3760.)
 
 #### Codification
+
+Pub. L. 115–267, §2(e)(1), and Pub. L. 115–393, §202(e)(1), identically renumbered section 407 of Pub. L. 93–415 as section 408.
 
 Section was formerly classified to section 5776a of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Prior Provisions
 
-A prior section 407 of title IV of Pub. L. 93–415, as added Pub. L. 103–322, title XVII, §170303(2), Sept. 13, 1994, 108 Stat. 2043, established the Missing and Exploited Children's Task Force, prior to repeal by Pub. L. 110–240, §5(1), June 3, 2008, 122 Stat. 1564.
+A prior section 408 of Pub. L. 93–415 was renumbered section 409 and is classified to section 11297 of this title.
+
+#### Amendments
+
+<b>2018</b>—Par. (1). Pub. L. 115–267, §3(b), substituted "2023" for "2018".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–267 effective Oct. 11, 2018, with amendment by section 2 of Pub. L. 115–267 applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under section 11291 of this title.
 

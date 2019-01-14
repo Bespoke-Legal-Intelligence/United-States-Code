@@ -10,7 +10,7 @@ When Allowed.—The carrying out of the duties and powers of the Administrator o
 
 (b)
 
-No Exemption From Other Provisions of Chapter.—Delegation under subsection (a) does not exempt the person to whom the delegation is made, or the carrying out of the delegated duty or power, from any other provision of this chapter.
+No Exemption From Other Provisions of Chapter.—Delegation under subsection (a) doesnot exempt the person to whom the delegation is made, or the carrying out of the delegated duty or power, from any other provision of this chapter.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1166, §3313; Pub. L. 109–304, §17(g)(3), Oct. 6, 2006, 120 Stat. 1709; renumbered §3314, Pub. L. 110–140, title III, §323(c)(1)(A), Dec. 19, 2007, 121 Stat. 1590; renumbered §3315, Pub. L. 114–235, §2(a)(1), Oct. 7, 2016, 130 Stat. 964.)
 

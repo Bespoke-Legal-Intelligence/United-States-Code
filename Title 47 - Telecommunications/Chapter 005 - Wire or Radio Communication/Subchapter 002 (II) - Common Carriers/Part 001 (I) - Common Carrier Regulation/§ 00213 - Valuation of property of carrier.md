@@ -14,7 +14,7 @@ The Commission may at any time require any such carrier to file with the Commiss
 
 #### (d) Easement, license or franchise
 
-Nothing shall be included in the original cost reported for the property of any carrier under subsection (c) of this section on account of any easement, license, or franchise granted by the United States or by any State or political subdivision thereof, beyond the reasonable necessary expense lawfully incurred in obtaining such easement, license, or franchise from the public authority aforesaid, which expense shall be reported separately from all other costs in such detail as the Commission may require; and nothing shall be included in any valuation of the property of any carrier made by the Commission on account of any such easement, license, or franchise, beyond such reasonable necessary expense lawfully incurred as aforesaid.
+Nothing shall be included in the original cost reported for the property of any carrier under subsection (c) of this section on account of any easement, license, or franchise granted by the United States or by any State or political subdivision thereof, beyond the reasonable necessary expense lawfully incurred in obtainingsuch easement, license, or franchise from the public authority aforesaid, which expense shall be reported separately from all other costs in such detail as the Commission may require; and nothing shall be included in any valuation of the property of any carrier made by the Commission on account of any such easement, license, or franchise, beyond such reasonable necessary expense lawfully incurred as aforesaid.
 
 #### (e) Improvements; changes in condition
 
@@ -32,7 +32,7 @@ Nothing in this section shall impair or diminish the powers of any State commiss
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning act June 19, 1934, ch. 652,48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 

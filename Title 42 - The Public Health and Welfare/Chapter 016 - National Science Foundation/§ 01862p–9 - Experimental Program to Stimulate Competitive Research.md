@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) the EPSCoR structure requires each participating State to develop a science and technology plan suited to State and local research, education, and economic interests and objectives;
 
-&emsp;(6) EPSCoR has been credited with advancing the research competitiveness of participating States, improving awareness of science,promoting policies that link scientific investment and economic growth, and encouraging partnerships between government, industry, and academia;
+&emsp;(6) EPSCoR has been credited with advancing the research competitiveness of participating States, improving awareness of science, promoting policies that link scientific investment and economic growth, and encouraging partnerships between government, industry, and academia;
 
 &emsp;(7) EPSCoR proposals are evaluated through a rigorous and competitive merit-review process to ensure that awarded research and development efforts meet high scientific standards; and
 

@@ -1,6 +1,6 @@
 ### §12731. Age and service requirements
 
-(a) Except as provided in subsection (c), a person is entitled, upon application, to retired paycomputed under section 12739 of this title, if the person—
+(a) Except as provided in subsection (c), a person is entitled, upon application, to retired pay computed under section 12739 of this title, if the person—
 
 &emsp;(1) has attained the eligibility age applicable under subsection (f) to that person;
 
@@ -44,13 +44,13 @@
 
 (iii) If a member described in subparagraph (A) is wounded or otherwise injured or becomes ill while serving on active duty pursuant to a call or order to active duty under a provision of law referred to in the first sentence of clause (i) or in clause (ii), and the member is then ordered to active duty under section 12301(h)(1) of this title to receive medical care for the wound, injury, or illness, each day of active duty under that order for medical care shall be treated as a continuation of the original call or order to active duty for purposes of reducing the eligibility age of the member under this paragraph.
 
-(iv) Service on active duty described in this subparagraph is also service on active duty pursuant to a call or order to active duty authorized by the Secretary of Homeland Security under section 712 of title 14 for purposes of emergency augmentation of the Regular Coast Guard forces.
+(iv) Service on active duty described in this subparagraph is also service on active duty pursuant to a call or order to active duty authorized by the Secretary of Homeland Security under section 712 <sup>1</sup> of title 14 for purposes of emergency augmentation of the Regular Coast Guard forces.
 
 (C) The eligibility age for purposes of subsection (a)(1) may not be reduced below 50 years of age for any person under subparagraph (A).
 
 (3) The Secretary concerned shall periodically notify each member of the Ready Reserve described by paragraph (2) of the current eligibility age for retired pay of such member under this section, including any reduced eligibility age by reason of the operation of that paragraph. Notice shall be provided by such means as the Secretary considers appropriate taking into account the cost of provision of notice and the convenience of members.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1331; Pub. L. 85–704, Aug. 21, 1958, 72 Stat. 702; Pub. L. 85–861, §33(a)(8), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 89–652, §1, Oct. 14, 1966, 80 Stat. 902; Pub. L.90–485, §2, Aug. 13, 1968, 82 Stat. 754; Pub. L. 95–397, title II, §206, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–513, title V, §511(47), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §924(a), Sept. 24, 1983, 97 Stat. 644; Pub. L. 101–189, div. A, title XIV, §1404(b)(1), Nov. 29, 1989, 103 Stat. 1586; renumbered §12731 and amended Pub. L. 103–337, div. A, title VI, §636, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2790, 2999; Pub. L. 104–106, div. A, title XV, §1501(b)(20), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–261, div. A, title V, §561(n)(1), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(n)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §631(a), (b), Dec. 2, 2002, 116 Stat. 2571, 2572; Pub. L. 108–375, div. A, title V, §501(f), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 109–364, div. A, title X, §1071(a)(40), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 110–181, div. A, title VI, §647(a), Jan. 28, 2008, 122 Stat. 160; Pub. L. 111–84, div. A, title X, §1073(a)(35), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title VI, §633, Jan. 7, 2011, 124 Stat. 4240; Pub. L. 112–239, div. A, title VI, §681(b), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 113–66, div. A, title VI, §632, Dec. 26, 2013, 127 Stat. 785; Pub. L. 113–291, div. A, title VI, §625, Dec. 19, 2014, 128 Stat. 3405.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1331; Pub. L. 85–704, Aug. 21, 1958, 72 Stat. 702; Pub. L. 85–861, §33(a)(8), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 89–652, §1, Oct. 14, 1966, 80 Stat. 902; Pub. L. 90–485, §2, Aug. 13, 1968, 82 Stat. 754; Pub. L. 95–397, title II, §206, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–513, title V, §511(47), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §924(a), Sept. 24, 1983, 97 Stat. 644; Pub. L. 101–189, div. A, title XIV, §1404(b)(1), Nov. 29, 1989, 103 Stat. 1586; renumbered §12731 and amended Pub. L. 103–337, div. A, title VI, §636, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2790, 2999; Pub. L. 104–106, div. A, title XV, §1501(b)(20), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–261, div. A, title V, §561(n)(1), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(n)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §631(a), (b), Dec. 2, 2002, 116 Stat.2571, 2572; Pub. L. 108–375, div. A, title V, §501(f), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 109–364, div. A, title X, §1071(a)(40), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 110–181, div. A, title VI, §647(a), Jan. 28, 2008, 122 Stat. 160; Pub. L. 111–84, div. A, title X, §1073(a)(35), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title VI, §633, Jan. 7, 2011, 124 Stat. 4240; Pub. L. 112–239, div. A, title VI, §681(b), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 113–66, div. A, title VI, §632, Dec. 26, 2013, 127 Stat. 785; Pub. L. 113–291, div. A, title VI, §625, Dec. 19, 2014, 128 Stat. 3405.)
 
 Historical and Revision Notes<br>1956
 
@@ -100,6 +100,10 @@ In subsection (c), the words "the Army without component or other category cover
 
 The change makes clear that in the determination of eligibility for retired pay for non–regular service, the service of a Regular serving in a temporary grade (that is, without component) may not be counted. See opinion of the Judge Advocate General of the Army, JAGA 1957/4463, May 13, 1957.
 
+#### References in Text
+
+Section 712 of title 14, referred to in subsec. (f)(2)(B)(iv), was redesignated section 3713 of title 14 by Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233, and references to section 712 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+
 #### Amendments
 
 <b>2014</b>—Subsec. (f)(2)(A). Pub. L. 113–291 inserted ", subject to subparagraph (C)," after "shall be reduced" and substituted "serves on such active duty or performs such active service in any fiscal year after January 28, 2008, or in any two consecutive fiscal years after September 30, 2014" for "so performs in any fiscal year after such date, subject to subparagraph (C)".
@@ -134,7 +138,7 @@ Subsec. (f). Pub. L. 107–314, §631(b), struck out subsec. (f) which read as f
 
 <b>1994</b>—Pub. L. 103–337, §1662(j)(1), renumbered section 1331 of this title as this section and amended text generally, making changes in style and in references to other sections.
 
-Subsec. (f). Pub. L. 103–337, §636, added subsec. (f) which read as follows: "In the case of a person who completes the service requirements of subsection (a)(2) during the period beginning on the date of the enactment of this subsection and ending on September 30, 1999, the provisions of subsection (a)(3) shall be appliedby substituting 'the last six years' for 'the last eight years'."
+Subsec. (f). Pub. L. 103–337, §636, added subsec. (f) which read as follows: "In the case of a person who completes the service requirements of subsection (a)(2) during the period beginning on the date of the enactment of this subsection and ending on September 30, 1999, the provisions of subsection (a)(3) shall be applied by substituting 'the last six years' for 'the last eight years'."
 
 <b>1989</b>—Subsec. (d). Pub. L. 101–189 inserted "and the Supplemental Survivor Benefit Plan established under subchapter III of that chapter," after "this title".
 
@@ -162,7 +166,7 @@ Subsec. (c). Pub. L. 85–704 made persons who performed active duty (other than
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–239 applicable to call or order to active duty authorized under section 712 of Title 14, Coast Guard, after Dec. 31, 2011, and deemed to have been enacted on Dec. 31, 2011, for purposes of applying the amendment to this section, section 701 of this title, and section 5538 of Title 5, Government Organization and Employees, see section 681(d) of Pub. L. 112–239, set out as a note under section 101 of this title.
+Amendment by Pub. L. 112–239 applicable to call or order to active duty authorized under section 3713 of Title 14, Coast Guard, after Dec. 31, 2011, and deemed to have been enacted on Dec. 31, 2011, for purposes of applying the amendment to this section, section 701 of this title, and section 5538 of Title 5, Government Organization and Employees, see section 681(d) of Pub. L. 112–239, set out as a note under section 101 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -225,4 +229,6 @@ Pub. L. 94–448, §2, Oct. 1, 1976, 90 Stat. 1499, provided that: "No benefits 
 #### Entitlement to Retirement Pay After October 14, 1966; Conclusiveness
 
 Notification of completion of requisite years of service as conclusive for entitlement to retirement pay if made after Oct. 14, 1966, see section 3 of Pub. L. 89–652, set out as a note under section 1406 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

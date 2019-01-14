@@ -11,7 +11,7 @@
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–163, div. A, title V, §589(b)(1), Jan. 6, 2006, 119 Stat. 3279, struck out item 18506 "Recruitment and retention: availability of funds for recognition items for Army Reserve personnel".
+<b>2006</b>—Pub. L. 109–163, div. A, title V, §589(b)(1), Jan. 6, 2006, 119 Stat. 3279, struck out item 18506 "Recruitmentand retention: availability of funds for recognition items for Army Reserve personnel".
 
 <b>2004</b>—Pub. L. 108–375, div. A, title V, §520(a)(2), Oct. 28, 2004, 118 Stat. 1886, added item 18506.
 

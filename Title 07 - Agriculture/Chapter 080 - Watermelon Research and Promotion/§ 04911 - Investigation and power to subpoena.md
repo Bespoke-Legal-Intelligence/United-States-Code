@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–189, in first sentence, substituted "a person" for "a handler or any other person", in fourth sentence, inserted "(or an importer who is subject to the plan)" after "a handler", and in last sentence, substituted "the person" for "the handler or other person".
+<b>1993</b>—Subsec. (a). Pub. L. 103–189, in first sentence, substituted "a person" for "a handler or any other person", in fourth sentence, inserted "(or an importer who is subject to the plan)" after "a handler", and in lastsentence, substituted "the person" for "the handler or other person".
 

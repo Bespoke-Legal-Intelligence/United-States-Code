@@ -7,6 +7,7 @@ Part E—General Provisions
 
 - [&sect; 00300j - Assurances of availability of adequate supplies of chemicals necessary for treatment of water](%C2%A7%2000300j%20-%20Assurances%20of%20availability%20of%20adequate%20supplies%20of%20chemicals%20necessary%20for%20treatment%20of%20water.md)
 - [&sect; 00300j&#8211;1 - Research, technical assistance, information, training of personnel](%C2%A7%2000300j%E2%80%931%20-%20Research%2C%20technical%20assistance%2C%20information%2C%20training%20of%20personnel.md)
+- [&sect; 00300j&#8211;1a - Innovative water technology grant program](%C2%A7%2000300j%E2%80%931a%20-%20Innovative%20water%20technology%20grant%20program.md)
 - [&sect; 00300j&#8211;2 - Grants for State programs](%C2%A7%2000300j%E2%80%932%20-%20Grants%20for%20State%20programs.md)
 - [&sect; 00300j&#8211;3 - Special project grants and guaranteed loans](%C2%A7%2000300j%E2%80%933%20-%20Special%20project%20grants%20and%20guaranteed%20loans.md)
 - [&sect; 00300j&#8211;3a - Grants to public sector agencies](%C2%A7%2000300j%E2%80%933a%20-%20Grants%20to%20public%20sector%20agencies.md)
@@ -31,3 +32,6 @@ Part E—General Provisions
 - [&sect; 00300j&#8211;19 - Algal toxin risk assessment and management](%C2%A7%2000300j%E2%80%9319%20-%20Algal%20toxin%20risk%20assessment%20and%20management.md)
 - [&sect; 00300j&#8211;19a - Assistance for small and disadvantaged communities](%C2%A7%2000300j%E2%80%9319a%20-%20Assistance%20for%20small%20and%20disadvantaged%20communities.md)
 - [&sect; 00300j&#8211;19b - Reducing lead in drinking water](%C2%A7%2000300j%E2%80%9319b%20-%20Reducing%20lead%20in%20drinking%20water.md)
+- [&sect; 00300j&#8211;19c - Study on intractable water systems](%C2%A7%2000300j%E2%80%9319c%20-%20Study%20on%20intractable%20water%20systems.md)
+- [&sect; 00300j&#8211;19d - Review of technologies](%C2%A7%2000300j%E2%80%9319d%20-%20Review%20of%20technologies.md)
+- [&sect; 00300j&#8211;19e - Water infrastructure and workforce investment](%C2%A7%2000300j%E2%80%9319e%20-%20Water%20infrastructure%20and%20workforce%20investment.md)

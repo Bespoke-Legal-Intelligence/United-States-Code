@@ -70,7 +70,7 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 
 #### (1) Consultation
 
-&emsp;In carrying out the duties under section 182 of this title, the Secretary, acting through the Under Secretary for Science and Technology, may draw upon the expertise of any laboratory of the Federal Government, whether operated by a contractor or the Government.
+&emsp;In carrying out the duties under section 182 of this title, the Secretary, acting through the Under Secretary for Science and Technology,may draw upon the expertise of any laboratory of the Federal Government, whether operated by a contractor or the Government.
 
 #### (2) Laboratories
 

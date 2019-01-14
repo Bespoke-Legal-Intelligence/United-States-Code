@@ -88,7 +88,7 @@
 
 &emsp;&emsp;&emsp;(iv) explain why the waiver will assist the local educational agency, educational service agency, or school in reaching such goals; and
 
-&emsp;&emsp;&emsp;(v) in the case of an application from a local educational agency or educational service agency, describe how the agency will meet the requirements of paragraph (7).
+&emsp;&emsp;&emsp;(v) in the case of an application from a local educational agency or educationalservice agency, describe how the agency will meet the requirements of paragraph (7).
 
 #### (B) Evaluation of applications
 
@@ -130,7 +130,7 @@
 
 #### (i) Annual reports
 
-&emsp;&emsp;&emsp;The State educational agency shall submit to the Secretary an annual report onthe results of such oversight and the impact of the waivers on school and student performance.
+&emsp;&emsp;&emsp;The State educational agency shall submit to the Secretary an annual report on the results of such oversight and the impact of the waivers on school and student performance.
 
 #### (ii) Performance data
 
@@ -228,7 +228,7 @@
 
 &emsp;&emsp;(A) shall provide the public with adequate and efficient notice of the proposed waiver authority or waiver, consisting of a description of the agency's application for the proposed waiver authority or waiver on each agency's website, including a description of any improved student performance that is expected to result from the waiver authority or waiver;
 
-&emsp;&emsp;(B) shall provide the opportunity for parents, educators, school administrators, and all other interested members of the community to comment regarding the proposed waiver authority or waiver;
+&emsp;&emsp;(B) shall provide the opportunity for parents, educators, school administrators, andall other interested members of the community to comment regarding the proposed waiver authority or waiver;
 
 &emsp;&emsp;(C) shall provide the opportunity described in subparagraph (B) in accordance with any applicable State law specifying how the comments may be received, and how the comments may be reviewed by any member of the public; and
 
@@ -358,5 +358,5 @@ Determination.—The determination referred to in paragraph (1) is a determinati
 
 #### Additional State Educational Agencies Authorized To Waive Federal Requirements
 
-Pub. L. 104–134, title I, §101(d) \[title III\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–229; renumbered title I, Pub. L.104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That notwithstanding section 311(e) of Public Law 103–227 \[20 U.S.C. 5891(e)\], the Secretary is authorized to grant up to six additional State education agencies authority to waive Federal statutory or regulatory requirements for fiscal year 1996 and succeeding fiscal years".
+Pub. L. 104–134, title I, §101(d) \[title III\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–229; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That notwithstanding section 311(e) of Public Law 103–227 \[20 U.S.C. 5891(e)\], the Secretary is authorized to grant up to six additional State education agencies authority to waive Federal statutory or regulatory requirements for fiscal year 1996 and succeeding fiscal years".
 

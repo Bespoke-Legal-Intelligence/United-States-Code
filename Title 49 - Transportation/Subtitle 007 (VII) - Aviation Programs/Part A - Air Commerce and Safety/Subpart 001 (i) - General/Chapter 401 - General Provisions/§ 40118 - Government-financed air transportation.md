@@ -44,7 +44,27 @@ Prohibition of Certification or Contract Clause.—(1) No certification by a con
 
 (2) In paragraph (1), the term "commercial item" has the meaning given such term in section 103 of title 41, except that it shall not include a contract for the transportation by air of passengers.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1116; Pub. L. 103–355, title VIII, §8301(h), Oct. 13, 1994, 108 Stat. 3398; Pub. L. 104–287, §5(68), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 104–316, title I, §127(d), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(h), title XIII, §1335(p), title XIV, §1422(b)(6), Oct. 21, 1998, 112 Stat. 2681–775, 2681–789, 2681–793; Pub. L. 108–176, title VIII, §806, Dec. 12, 2003, 117 Stat. 2588; Pub. L. 111–350, §5(o)(8), Jan. 4, 2011, 124 Stat. 3854.)
+(g)
+
+Training Requirements.—The Administrator of General Services shall ensure that any contract entered into for provision of air transportation with a domestic carrier under this section requires that the contracting air carrier submits to the Administrator of General Services, the Secretary of Transportation, the Administrator of the Transportation Security Administration, the Secretary of Labor and the Commissioner of U.S. Customs and Border Protection an annual report regarding—
+
+&emsp;(1) the number of personnel trained in the detection and reporting of potential human trafficking (as described in paragraphs (9) and (10) of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102)), including the training required under section 44734(a)(4);
+
+&emsp;(2) the number of notifications of potential human trafficking victims received from staff or other passengers; and
+
+&emsp;(3) whether the air carrier notified the National Human Trafficking Hotline or law enforcement at the relevant airport of the potential human trafficking victim for each such notification of potential human trafficking, and if so, when the notification was made.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1116; Pub. L. 103–355, title VIII, §8301(h), Oct. 13, 1994, 108 Stat. 3398; Pub. L. 104–287, §5(68), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 104–316, title I, §127(d), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(h), title XIII, §1335(p), title XIV, §1422(b)(6), Oct. 21, 1998, 112 Stat. 2681–775, 2681–789, 2681–793; Pub. L. 108–176, title VIII, §806, Dec. 12, 2003, 117 Stat. 2588; Pub. L. 111–350, §5(o)(8), Jan. 4, 2011, 124 Stat. 3854; Pub. L. 115–232, div. A, title VIII, §836(g)(9), Aug. 13, 2018, 132 Stat. 1874; Pub. L. 115–425, title I, §111(a), Jan. 8, 2019, 132 Stat. 5475.)
+
+#### Amendment of Subsection (f)
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(g)(9), (h), Aug. 13, 2018, 132 Stat. 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (f) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (1), by striking "commercial items" and inserting "commercial products"; and</i>
+
+<i>(2) in paragraph (2), by striking "commercial item" and inserting "commercial product".</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -110,6 +130,12 @@ This amends 49:40118(f)(1) to make a clarifying amendment.
 
 #### Amendments
 
+<b>2019</b>—Subsec. (g). Pub. L. 115–425 added subsec. (g).
+
+<b>2018</b>—Subsec. (f)(1). Pub. L. 115–232, §836(g)(9)(A), substituted "commercial products" for "commercial items".
+
+Subsec. (f)(2). Pub. L. 115–232, §836(g)(9)(B), substituted "commercial product" for "commercial item".
+
 <b>2011</b>—Subsec. (f)(2). Pub. L. 111–350 substituted "section 103 of title 41" for "section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))".
 
 <b>2003</b>—Subsec. (f)(2). Pub. L. 108–176 inserted ", except that it shall not include a contract for the transportation by air of passengers" before period at end.
@@ -120,7 +146,7 @@ Pub. L. 105–277, §1335(p), struck out ", the Director of the United States I
 
 Pub. L. 105–277, §1225(h), struck out ", or the Director of the Arms Control and Disarmament Agency" before "may be used to pay".
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–316 substituted "Administrator of General Services shall prescribe regulations under which agencies may" for "Comptroller General shall".
+<b>1996</b>—Subsec. (c). Pub. L. 104–316 substituted "Administrator of General Services shall prescribe regulationsunder which agencies may" for "Comptroller General shall".
 
 Subsec. (d). Pub. L. 104–287, §5(68)(A), substituted "
 
@@ -131,6 +157,14 @@ Transportation by Foreign Air Carriers" in heading.
 Subsec. (f). Pub. L. 104–287, §5(68)(B), inserted heading.
 
 <b>1994</b>—Subsec. (f). Pub. L. 103–355 added subsec. (f).
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 115–425, title I, §111(b), Jan. 8, 2019, 132 Stat. 5475, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any contract entered into after the date of enactment of this Act \[Jan. 8, 2019\] except for contracts entered into by the Secretary of Defense."
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
 #### Effective Date of 1994 Amendment
 

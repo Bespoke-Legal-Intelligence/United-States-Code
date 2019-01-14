@@ -26,11 +26,11 @@ Whether divisions should sit simultaneously at the same or different places in t
 
 #### References in Text
 
-Section 6 of Public Law 95–486 (92 Stat. 1633), referred to in subsec. (c), is section 6 of Pub. L. 95–486, Oct. 20, 1978, 92 Stat. 1633, which is set out as an Appeals Court Administrative Units note under section 41 of this title.
+Section 6 of Public Law 95–486 (92 Stat. 1633), referred to in subsec. (c), is section 6 of Pub. L. 95–486, Oct. 20,1978, 92 Stat. 1633, which is set out as an Appeals Court Administrative Units note under section 41 of this title.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–175, in last sentence, inserted "(1)" after "eligible" and ", or (2) to continue to participate in the decision of a case or controversy thatwas heard or reheard by the court in banc at a time when such judge was in regular active service" before period at end.
+<b>1996</b>—Subsec. (c). Pub. L. 104–175, in last sentence, inserted "(1)" after "eligible" and ", or (2) to continue to participate in the decision of a case or controversy that was heard or reheard by the court in banc at a time when such judge was in regular active service" before period at end.
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–164, §103(a), substituted "panels" for "divisions".
 

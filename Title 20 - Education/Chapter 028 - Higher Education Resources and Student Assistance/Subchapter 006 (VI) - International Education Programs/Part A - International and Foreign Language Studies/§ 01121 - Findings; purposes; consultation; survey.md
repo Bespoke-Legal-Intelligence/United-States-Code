@@ -22,7 +22,7 @@ Congress finds as follows:
 
 The purposes of this part are—
 
-&emsp;(1)(A) to support centers, programs, and fellowships in institutions of higher education in the United States for producing increased numbers of trained personnel and research in foreign languages, area studies, and other international studies;
+&emsp;(1)(A) to support centers, programs, and fellowships in institutions of higher education inthe United States for producing increased numbers of trained personnel and research in foreign languages, area studies, and other international studies;
 
 &emsp;(B) to develop a pool of international experts to meet national needs;
 

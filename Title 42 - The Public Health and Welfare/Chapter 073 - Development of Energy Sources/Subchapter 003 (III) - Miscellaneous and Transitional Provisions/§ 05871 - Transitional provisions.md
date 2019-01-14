@@ -8,7 +8,7 @@ Except as otherwise provided in this chapter, whenever all of the functions or p
 
 All orders, determinations, rules, regulations, permits, contracts, certificates, licenses, and privileges—
 
-&emsp;(1) which have been issued, made, granted, or allowed to become effective by the President, any Federal department or agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred under this chapter, and
+&emsp;(1) which have been issued, made, granted, or allowed to become effective by the President,any Federal department or agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred under this chapter, and
 
 &emsp;(2) which are in effect at the time this chapter takes effect,
 
@@ -52,7 +52,7 @@ Any reference in this chapter to any provision of law shall be deemed to include
 
 #### (k) Functions conferred by chapter deemed in addition to and not substitution for functions existing before effective date
 
-Except as may be otherwise expressly provided in this chapter, all functions expressly conferred by this chapter shall be in addition to and not in substitution for functions existing immediately before the effective date of this chapter and transferred by this chapter.
+Except as may be otherwise expressly provided in this chapter, all functions expressly conferredby this chapter shall be in addition to and not in substitution for functions existing immediately before the effective date of this chapter and transferred by this chapter.
 
 (Pub. L. 93–438, title III, §301, Oct. 11, 1974, 88 Stat. 1248.)
 

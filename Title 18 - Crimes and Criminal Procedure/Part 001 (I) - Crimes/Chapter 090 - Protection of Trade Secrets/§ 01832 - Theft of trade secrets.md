@@ -26,5 +26,5 @@
 
 #### Report on Theft of Trade Secrets Occurring Abroad
 
-Pub. L. 114–153, §4, May 11, 2016, 130 Stat. 382, which requires biannual reports on the theft of trade secretsof United States companies occurring outside of the United States, was editorially reclassified as section 41310 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 114–153, §4, May 11, 2016, 130 Stat. 382, which requires biannual reports on the theft of trade secrets of United States companies occurring outside of the United States, was editorially reclassified as section 41310 of Title 34, Crime Control and Law Enforcement.
 

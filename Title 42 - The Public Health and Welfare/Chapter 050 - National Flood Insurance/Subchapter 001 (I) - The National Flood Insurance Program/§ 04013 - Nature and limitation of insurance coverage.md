@@ -40,7 +40,7 @@ In addition to any other terms and conditions under subsection (a), such regulat
 
 &emsp;(2) in the case of any residential building designed for the occupancy of from 1 to 4 families for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in clause (i) of subparagraph (A) of paragraph (1) shall be made available, with respect to any single such building, up to an aggregate liability (including such limits specified in paragraph (1)(A)(i)) of $250,000;
 
-&emsp;(3) in the case of any residential property for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in clause\(ii) of subparagraph (A) of paragraph (1) shall be made available to every insured upon renewal and every applicant for insurance so as to enable any such insured or applicant to receive coverage up to a total amount (including such limits specified in paragraph (1)(A)(ii)) of $100,000;
+&emsp;(3) in the case of any residential property for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in clause (ii) of subparagraph (A) of paragraph (1) shall be made available to every insured upon renewal and every applicant for insurance so as to enable any such insured or applicant to receive coverage up to a total amount (including such limits specified in paragraph (1)(A)(ii)) of $100,000;
 
 &emsp;(4) in the case of any nonresidential building, including a church, for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in subparagraphs (B) and (C) of paragraph (1) shall be made available with respect to any single such building, up to an aggregate liability (including such limits specified in subparagraph (B) or (C) of paragraph (1), as applicable) of $500,000, and coverage shall be made available up to a total of $500,000 aggregate liability for contents owned by the building owner and $500,000 aggregate liability for each unit within the building for contents owned by the tenant; and
 
@@ -86,11 +86,11 @@ In addition to any other terms and conditions under subsection (a), such regulat
 
 &emsp;&emsp;&emsp;(ii) a statement explaining the effect of a loss-deductible and that, in the event of an insured loss, the insured is responsible out-of-pocket for losses to the extent of the deductible selected.
 
-(Pub. L. 90–448, title XIII, §1306, Aug. 1, 1968, 82 Stat. 575; Pub. L. 92–213, §2(c)(2), Dec. 22, 1971, 85 Stat. 775; Pub. L. 93–234, title I, §101, Dec. 31, 1973, 87 Stat. 977; Pub. L. 95–128, title VII, §704(a), Oct. 12, 1977, 91 Stat. 1145; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–242, title V, §544(a), Feb. 5, 1988, 101 Stat. 1940; Pub. L. 100–628, title X, §1086(a), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 100–707, title I, §109(o), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–137, §1(c), Nov. 3, 1989, 103 Stat. 824; Pub. L. 101–508, title II, §2302(d), Nov. 5, 1990, 104 Stat. 1388–23; Pub. L. 103–325, title V, §§552(a), 573, 579(a), Sept. 23, 1994, 108 Stat. 2269, 2278, 2284; Pub. L. 112–141, div. F, title II, §§100228, 100238(b)(1), 100241, July 6, 2012, 126 Stat. 944, 958, 962; Pub. L. 113–89, §12, Mar. 21, 2014, 128 Stat. 1025.)
+(Pub. L. 90–448, title XIII, §1306, Aug. 1, 1968, 82 Stat. 575; Pub. L. 92–213, §2(c)(2), Dec. 22, 1971, 85 Stat. 775; Pub. L. 93–234, title I, §101, Dec. 31, 1973, 87 Stat. 977; Pub. L. 95–128, title VII, §704(a), Oct. 12, 1977, 91 Stat. 1145; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–242, title V, §544(a), Feb. 5, 1988, 101 Stat. 1940; Pub. L. 100–628, title X, §1086(a), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 100–707, title I, §109(o), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–137, §1(c), Nov. 3, 1989, 103 Stat. 824; Pub. L.101–508, title II, §2302(d), Nov. 5, 1990, 104 Stat. 1388–23; Pub. L. 103–325, title V, §§552(a), 573, 579(a), Sept. 23, 1994, 108 Stat. 2269, 2278, 2284; Pub. L. 112–141, div. F, title II, §§100228, 100238(b)(1), 100241, July 6, 2012, 126 Stat. 944, 958, 962; Pub. L. 113–89, §12, Mar. 21, 2014, 128 Stat. 1025.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(6) and (c)(1), (2)(A), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. Forcomplete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsecs. (a)(6) and (c)(1), (2)(A), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
@@ -154,7 +154,7 @@ Pub. L. 100–242, title V, §544(b), Feb. 5, 1988, 101 Stat. 1942, provided tha
 
 #### Effective Date
 
-Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in noevent more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Savings Provision
 
@@ -162,7 +162,7 @@ Pub. L. 103–325, title V, §552(c), Sept. 23, 1994, 108 Stat. 2269, required t
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

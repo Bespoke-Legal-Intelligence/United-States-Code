@@ -20,7 +20,7 @@ Each qualified lender that has a distressed loan outstanding that is subject to 
 
 &emsp;(3) the borrower's right to review under section 2202 of this title.
 
-(Pub. L. 92–181, title IV, §4.13B, formerly §4.13, Dec. 10, 1971, 85 Stat. 613, renumbered §4.13B and amended Pub. L. 99–205, title III, §§301(a), 302, Dec. 23, 1985, 99 Stat. 1707, 1708; Pub. L. 100–233, title I, §105, Jan. 6, 1988, 101 Stat. 1579.)
+(Pub. L. 92–181, title IV, §4.13B, formerly §4.13, Dec. 10, 1971, 85 Stat. 613, renumbered §4.13B andamended Pub. L. 99–205, title III, §§301(a), 302, Dec. 23, 1985, 99 Stat. 1707, 1708; Pub. L. 100–233, title I, §105, Jan. 6, 1988, 101 Stat. 1579.)
 
 #### Amendments
 

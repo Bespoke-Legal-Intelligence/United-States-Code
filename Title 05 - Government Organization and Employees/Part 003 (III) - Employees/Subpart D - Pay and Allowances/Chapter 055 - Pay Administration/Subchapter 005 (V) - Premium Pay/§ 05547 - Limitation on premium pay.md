@@ -14,7 +14,7 @@
 
 &emsp;(B) the rate payable for level V of the Executive Schedule in effect at the end of such calendar year.
 
-(3) Subject to regulations prescribed by the Office of Personnel Management, the head of anagency may determine that subsection (a) shall not apply to an employee who is paid premium pay to perform work that is critical to the mission of the agency. Such employees may be paid premium pay under the provisions of law cited in subsection (a) if, or to the extent that, the aggregate of the basic pay and premium pay under those provisions for such employee would not, in any calendar year, exceed the greater of—
+(3) Subject to regulations prescribed by the Office of Personnel Management, the head of an agency may determine that subsection (a) shall not apply to an employee who is paid premium pay to perform work that is critical to the mission of the agency. Such employees may be paid premium pay under the provisions of law cited in subsection (a) if, or to the extent that, the aggregate of the basic pay and premium pay under those provisions for such employee would not, in any calendar year, exceed the greater of—
 
 &emsp;(A) the maximum rate of basic pay payable for GS–15 in effect at the end of such calendar year (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law); or
 
@@ -140,17 +140,17 @@ Pub. L. 100–523, §1, Oct. 24, 1988, 102 Stat. 2605, provided: "That this Act 
 
 #### Overtime Pay for Protective Services
 
-Pub. L. 114–311, Dec. 16, 2016, 130 Stat. 1531, provided that:
+Pub. L. 114–311, Dec. 16, 2016, 130 Stat. 1531, as amended by Pub. L. 115–160, §2(a)(1), Apr. 3, 2018, 132 Stat. 1246; Pub. L. 115–383, §2(a), Dec. 21, 2018, 132 Stat. 5121, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
 "This Act may be cited as the 'Overtime Pay for Protective Services Act of 2016'.
 
-#### "SEC. 2. PREMIUM PAY EXCEPTION IN 2016 FOR PROTECTIVE SERVICES.
+#### "SEC. 2. PREMIUM PAY EXCEPTION DURING 2016 THROUGH 2020 FOR PROTECTIVE SERVICES.
 
 "(a)
 
-Definition.—In this section, the term 'covered employee' means any officer, employee, or agent employed by the United States Secret Service who performs protective services for an individual or event protected by the United States Secret Service during 2016.
+Definition.—In this section, the term 'covered employee' means any officer, employee, or agent employed by the United States Secret Service who performs protective services for an individual or event protected by the United States Secret Service during 2016, 2017, 2018, 2019, or 2020.
 
 "(b)
 
@@ -158,7 +158,7 @@ Exception to the Limitation on Premium Pay for Protective Services.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding any other provision of law, during 2016, section 5547(a) of title 5, United States Code, shall not apply to any covered employee to the extent that its application would prevent a covered employee from receiving premium pay, as provided under the amendment made by paragraph (2).
+In general.—Notwithstanding any other provision of law, including section 5547(a) of title 5, United States Code, and only to the extent that an appropriation is provided specifically in an appropriations Act for premium pay in excess of the annual equivalent of the limitation on the rate of pay contained in section 5547(a), any covered employee may receive premium pay during 2016, 2017, 2018, 2019, and 2020, to the extent provided under section 118 of the Treasury and General Government Appropriations Act, 2001 (5 U.S.C. 5547 note).
 
 &emsp;"(2)
 
@@ -170,7 +170,7 @@ Treatment of Additional Pay.—If subsection (b) results in the payment of addit
 
 &emsp;"(1) be considered to be basic pay of the covered employee for any purpose; or
 
-&emsp;"(2) be used in computing a lump-sum payment to the covered employee for accumulated and accrued annual leave under section 5551 or section 5552 of title 5, United States Code.
+&emsp;"(2) be used in computing a lump-sum payment to the covered employee for accumulated and accruedannual leave under section 5551 or section 5552 of title 5, United States Code.
 
 "(d)
 
@@ -180,11 +180,15 @@ Aggregate Limit.—With respect to the application of section 5307 of title 5, U
 
 Effective Date.—This section and the amendments made by this section shall take effect as if enacted on December 31, 2015."
 
+\[Pub. L. 115–160, §2(b), Apr. 3, 2018, 132 Stat. 1246, provided that: "The amendments made by subsection (a) \[amending Pub. L. 114–311, set out above, and section 1(a)(3) \[title I, §118\] of Pub. L. 106–554, set out below\] shall take effect as if enacted on December 31, 2016."\]
+
 #### Premium Pay for Protective Services of United States Secret Service
 
-Pub. L. 106–554, §1(a)(3) \[title I, §118\], Dec. 21, 2000, 114 Stat. 2763, 2763A–134, as amended by Pub. L. 107–107, div. A, title XI, §1114(b), Dec. 28, 2001, 115 Stat. 1240; Pub. L. 114–311, §2(b)(2), Dec. 16, 2016, 130 Stat. 1531, provided that: "Hereafter, funds made available by this or any other Act may be used to pay premium pay for protective services authorized by section 3056(a) of title 18, United States Code, without regard to the restrictions contained in section 5547 of title 5, United States Code, except that such premium pay shall not be payable to an employee to the extent that the aggregate of the employee's basic and premium pay for the year would otherwise exceed the annual equivalent of that limitation or, if the employee qualifies for an exception to such limitation under section 2(b)(1) of the Overtime Pay for Protective Services Act of 2016 \[Pub. L. 114–311, set out above\], to the extent that such aggregate amount would exceed the rate of basic pay payable for a position at level II of the Executive Schedule under section 5313 of title 5, United States Code. The termpremium pay refers to the provisions of law cited in the first sentence of section 5547(a) of title 5, United States Code. Payment of additional premium pay payable under this section may be made in a lump sum on the last payday of the calendar year."
+Pub. L. 106–554, §1(a)(3) \[title I, §118\], Dec. 21, 2000, 114 Stat. 2763, 2763A–134, as amended by Pub. L. 107–107, div. A, title XI, §1114(b), Dec. 28, 2001, 115 Stat. 1240; Pub. L. 114–311, §2(b)(2), Dec. 16, 2016, 130 Stat. 1531; Pub. L. 115–160, §2(a)(2), Apr. 3, 2018, 132 Stat. 1246, provided that: "Hereafter, funds made available by this or any other Act may be used to pay premium pay for protective services authorized by section 3056(a) or 3056A of title 18, United States Code, without regard to the restrictions contained in section 5547 of title 5, United States Code, except that such premium pay shall not be payable to an employee to the extent that the aggregate of the employee's basic and premium pay for the year would otherwise exceed the annual equivalent of that limitation or, if the employee qualifies for an exception to such limitation under section 2(b)(1) of the Overtime Pay for Protective Services Act of 2016 \[Pub. L. 114–311, set out above\], to the extent that such aggregate amount would exceed the rate of basic pay payable for a position at level II of the Executive Schedule under section 5313 of title 5, United States Code. The term premium pay refers to the provisions of law cited in the first sentence of section 5547(a) of title 5, United States Code. Payment of additional premium pay payable under this section may be made in a lump sum on the last payday of the calendar year."
 
 Similar provisions were contained in Pub. L. 106–58, title I, §118, Sept. 29, 1999, 113 Stat. 441.
+
+\[Pub. L. 115–160, §2(b), Apr. 3, 2018, 132 Stat. 1246, provided that: "The amendments made by subsection (a) \[amending Pub. L. 114–311 and section 1(a)(3) \[title I, §118\] of Pub. L. 106–554, set out above\] shall take effect as if enacted on December 31, 2016."\]
 
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

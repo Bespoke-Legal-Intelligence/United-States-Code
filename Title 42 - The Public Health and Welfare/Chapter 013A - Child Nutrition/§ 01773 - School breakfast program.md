@@ -8,7 +8,7 @@ There is hereby authorized to be appropriated such sums as are necessary to enab
 
 (1)(A)(i) The Secretary shall make breakfast assistance payments to each State educational agency each fiscal year, at such times as the Secretary may determine, from the sums appropriated for such purpose, in an amount equal to the product obtained by multiplying—
 
-&emsp;(I) the number of breakfasts served during such fiscal year to children in schools in suchStates which participate in the school breakfast program under agreements with such State educational agency; by
+&emsp;(I) the number of breakfasts served during such fiscal year to children in schools in such States which participate in the school breakfast program under agreements with such State educational agency; by
 
 &emsp;(II) the national average breakfast payment for free breakfasts, for reduced price breakfasts, or for breakfasts served to children not eligible for free or reduced price meals, as appropriate, as prescribed in clause (B) of this paragraph.
 
@@ -60,7 +60,7 @@ Funds apportioned and paid to any State for the purpose of this section shall be
 
 #### (e) Nutritional requirements; service free or at reduced price; compliance assistance
 
-(1)(A) Breakfasts served by schools participating in the school breakfast program under this section shall consist of a combination of foods and shall meet the minimum nutritional requirements prescribed by the Secretary on the basis of tested nutritional research, except that the minimum nutritional requirements shall be measured by not less than the weekly average of the nutrient content of school breakfasts. Such breakfasts shall be served free or at a reduced price to children in school under the same terms and conditions as are set forth with respect to the service of lunches free or at a reduced price in section 1758 of this title.
+(1)(A) Breakfasts served by schools participating in the school breakfast program under this section shall consist of a combination of foods and shall meet the minimum nutritional requirements prescribed by the Secretary on the basis of tested nutritional research, except that the minimum nutritional requirements shall be measured by not less than the weekly average of the nutrient content of school breakfasts. Such breakfasts shall be served free or at a reduced price to children in school under the same terms and conditions as are set forth with respect tothe service of lunches free or at a reduced price in section 1758 of this title.
 
 (B) The Secretary shall provide through State educational agencies technical assistance and training, including technical assistance and training in the preparation of foods high in complex carbohydrates and lower-fat versions of foods commonly used in the school breakfast program established under this section, to schools participating in the school breakfast program to assist the schools in complying with the nutritional requirements prescribed by the Secretary pursuant to subparagraph (A) and in providing appropriate meals to children with medically certified special dietary needs.
 
@@ -110,7 +110,7 @@ Subsec. (b)(3) to (5). Pub. L. 101–147, §212(a)(1), (2)(A), amended subsec. (
 
 Subsec. (d)(1)(B). Pub. L. 101–147, §322(1), substituted "reduced price" for "reduced-price".
 
-Subsec. (f). Pub. L. 101–147, §121(2), inserted "Expansion of program" as heading, designated existing provisions as par. (1), struck out at end "Within 4 months after October 7, 1975, the Secretary shall report to the committees of jurisdiction in the Congress his plans and those of the cooperating State agencies to bring about the needed expansion in the school breakfast program.", and added par. (2).
+Subsec. (f). Pub. L. 101–147, §121(2), inserted "Expansion of program" as heading, designated existing provisions as par. (1), struck out at end "Within 4 months after October 7, 1975, the Secretary shall report to thecommittees of jurisdiction in the Congress his plans and those of the cooperating State agencies to bring about the needed expansion in the school breakfast program.", and added par. (2).
 
 Subsec. (g). Pub. L. 101–147, §121(3), added subsec. (g).
 
@@ -164,7 +164,7 @@ Subsec. (e). Pub. L. 92–433, §3(d), substituted provisions that breakfasts be
 
 Subsec. (f). Pub. L. 92–433, §3(e), substituted provisions that for fiscal year ending June 30, 1973, withholding and disbursement to nonprofit private schools will be effected as before and that commencing with the next fiscal year, the Secretary would directly make payments to the nonprofit private schools participating in the breakfast program under agreement with the Secretary for provisions that such withholding and disbursement be effected in accordance with section 1759 of this title with some exceptions.
 
-<b>1971</b>—Subsec. (a). Pub. L. 92–32, §2, authorized appropriations of 25 million dollars for fiscal years 1972, and1973, and struck out provision for appropriation of 6.5, 10, and 25 million dollars for fiscal years, 1969, 1970, and 1971, respectively.
+<b>1971</b>—Subsec. (a). Pub. L. 92–32, §2, authorized appropriations of 25 million dollars for fiscal years 1972, and 1973, and struck out provision for appropriation of 6.5, 10, and 25 million dollars for fiscal years, 1969, 1970, and 1971, respectively.
 
 Subsec. (c). Pub. L. 92–32, §3, substituted "assist such schools in financing the cost" for "reimburse such schools for the cost" and provided for preference of schools for improvement of nutrition and dietary practices of children of working mothers and from low-income families.
 
@@ -236,7 +236,7 @@ Pub. L. 96–499, title II, §210, Dec. 5, 1980, 94 Stat. 2602, provided that: "
 
 #### Alternate Foods
 
-Pub. L. 95–627, §6(d), Nov. 10, 1998, 93 Stat. 3621, provided that: "The Secretary shall not limit or prohibit, during the school year 1978–79, the use of formulated grain-fruit products currently approved for use in the school breakfast program. The Secretary shall consult experts in child nutrition, industry representatives, and school food service personnel and school administrators (including personnel and administrators in school systems using such products) with respect to the continued use of formulated grain-fruit products in the school breakfast program, and shall also take into account the findings and recommendations in the reporton this subject of the General Accounting Office \[now Government Accountability Office\]. The Secretary shall not promulgate a final rule disapproving the use of such products in the school breakfast program beyond the 1978–79 school year until the Secretary has notified the appropriate committees of Congress, and such rule shall not take effect until sixty days after such notification."
+Pub. L. 95–627, §6(d), Nov. 10, 1998, 93 Stat. 3621, provided that: "The Secretary shall not limit or prohibit, during the school year 1978–79, the use of formulated grain-fruit products currently approved for use in the school breakfast program. The Secretary shall consult experts in child nutrition, industry representatives, and school food service personnel and school administrators (including personnel and administrators in school systems using such products) with respect to the continued use of formulated grain-fruit products in the school breakfast program, and shall also take into account the findings and recommendations in the report on this subject of the General Accounting Office \[now Government Accountability Office\]. The Secretary shall not promulgate a final rule disapproving the use of such products in the school breakfast program beyond the 1978–79 school year until the Secretary has notified the appropriate committees of Congress, and such rule shall not take effect until sixty days after such notification."
 
 #### Report to Congress of Needs for Additional Funds for School Breakfast and Nonfood Assistance Programs, Fiscal Year Ending June 30, 1972
 
@@ -244,7 +244,7 @@ Pub. L. 92–153, §3, Nov. 5, 1971, 85 Stat. 420, provided that the Secretary o
 
 #### Transfer of Funds to Schools in Need of Additional Assistance in School Breakfast Program
 
-Pub. L. 92–153, §7, Nov. 5, 1971, 85 Stat. 420, provided that: "In addition to any other authority given to the Secretary he is hereby authorized to transfer funds from section 32 of the Act of August 24, 1935 \[section 612c of Title 7, Agriculture\], for the purpose of assisting schools which demonstrate a need for additional funds in the school breakfast program."
+Pub. L. 92–153, §7, Nov. 5, 1971, 85 Stat. 420, provided that: "In addition to any other authority given to the Secretary he is hereby authorized to transfer fundsfrom section 32 of the Act of August 24, 1935 \[section 612c of Title 7, Agriculture\], for the purpose of assisting schools which demonstrate a need for additional funds in the school breakfast program."
 
 #### Direct Distribution Programs for Diet of Needy Children Suffering From General and Continued Hunger; Additional Funds
 

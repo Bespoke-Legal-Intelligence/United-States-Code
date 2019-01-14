@@ -12,7 +12,7 @@
 
 &emsp;(B) a nonproliferation research laboratory of the United States, in the case of a scientist employed at a nonproliferation research laboratory of the Russian Federation.
 
-(4) The duration of a fellowship under the program may not exceed two years, except that theAdministrator may provide for a longer duration in an individual case to the extent warranted by extraordinary circumstances, as determined by the Administrator.
+(4) The duration of a fellowship under the program may not exceed two years, except that the Administrator may provide for a longer duration in an individual case to the extent warranted by extraordinary circumstances, as determined by the Administrator.
 
 (5) In a calendar year, the Administrator may not award more than—
 

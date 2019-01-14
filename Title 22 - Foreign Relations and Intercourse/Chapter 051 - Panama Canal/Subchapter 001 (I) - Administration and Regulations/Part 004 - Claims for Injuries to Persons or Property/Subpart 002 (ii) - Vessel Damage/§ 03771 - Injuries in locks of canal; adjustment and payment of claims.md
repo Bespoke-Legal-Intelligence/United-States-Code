@@ -26,7 +26,7 @@ Pub. L. 99–209, §7, Dec. 23, 1985, 99 Stat. 1718, provided that:
 
 "(a)
 
-Retroactive Applicability.—The amendments made by subsections (a) and (c) of section 2 \[amending this section and section 3772 of this title\], and the amendments made by sections 4 and 5 of this Act \[amending sections 3775 and 3776 of this title\], shall apply to any claim arising on or after October 1, 1979.
+Retroactive Applicability.—The amendments made by subsections (a) and (c) of section 2 \[amending this section and section 3772 of this title\], and the amendments made by sections 4 and 5 of this Act\[amending sections 3775 and 3776 of this title\], shall apply to any claim arising on or after October 1, 1979.
 
 "(b)
 

@@ -16,11 +16,11 @@ The Secretary may make such investigations as the Secretary determines necessary
 
 #### (2) Administrative hearings
 
-&emsp;For the purpose of an administrative hearing held under section 4609 or 4610 of this title, the presiding officer is authorized to administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any records that are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States.
+&emsp;For the purpose of an administrative hearing held under section 4609 or 4610 of this title,the presiding officer is authorized to administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any records that are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States.
 
 #### (c) Aid of courts
 
-In case of contumacy by, or refusal to obey a subpoena issued to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or wheresuch person resides or carries on business, in order to enforce a subpoena issued by the Secretary under subsection (b). The court may issue an order requiring such person to comply with such a subpoena.
+In case of contumacy by, or refusal to obey a subpoena issued to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in order to enforce a subpoena issued by the Secretary under subsection (b). The court may issue an order requiring such person to comply with such a subpoena.
 
 #### (d) Contempt
 

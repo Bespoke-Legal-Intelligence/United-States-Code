@@ -4,7 +4,7 @@ Section, added Pub. L. 109–58, title XIII, §1303(a), Aug. 8, 2005, 119 Stat. 
 
 #### Effective Date of Repeal
 
-Pub. L. 115–97, title I, §13404(d), Dec. 22, 2017, 131 Stat. 2138, provided that: "The amendments made by thissection \[amending this section and sections 6211 and 6401 of this title and repealing this section and sections 54A to 54F, 54AA, 1397E, and 6431 of this title\] shall apply to bonds issued after December 31, 2017."
+Pub. L. 115–97, title I, §13404(d), Dec. 22, 2017, 131 Stat. 2138, provided that: "The amendments made by this section \[amending this section and sections 6211 and 6401 of this title and repealing this section and sections 54A to 54F, 54AA, 1397E, and 6431 of this title\] shall apply to bonds issued after December 31, 2017."
 
 #### Regulations
 

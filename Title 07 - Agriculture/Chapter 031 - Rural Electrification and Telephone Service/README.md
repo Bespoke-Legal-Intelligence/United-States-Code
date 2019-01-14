@@ -12,7 +12,7 @@
 | [906\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000906%20-%20Funding%20for%20administrative%20expenses.md) | Funding for administrative expenses. |
 | [906a.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000906a%20-%20Use%20of%20funds%20outside%20the%20United%20States%20or%20its%20territories%20prohibited.md) | Use of funds outside the United States or its territories prohibited. |
 | [907\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000907%20-%20Acquisition%20of%20property%20pledged%20for%20loans%3B%20disposition%3B%20sale%20of%20pledged%20property%20by%20borrower.md) | Acquisition of property pledged for loans; disposition; sale of pledged property by borrower. |
-| [908\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000908%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7776%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201150.md) | Repealed. |
+| [908\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000908%20-%20Limitations%20on%20use%20of%20assistance.md) | Limitations on use of assistance. |
 | [909\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000909%20-%20Administration%20on%20nonpolitical%20basis%3B%20dismissal%20of%20officers%20or%20employees%20for%20violating%20provision.md) | Administration on nonpolitical basis; dismissal of officers or employees for violating provision. |
 | [910\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000910%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7777%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201150.md) | Repealed. |
 | [911\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000911%20-%20Acceptance%20of%20services%20of%20Federal%20or%20State%20officers%3B%20application%20of%20civil%20service%20laws%3B%20expenditures%20for%20supplies%20and%20equipment.md) | Acceptance of services of Federal or State officers; application of civil service laws; expenditures for supplies and equipment. |
@@ -36,9 +36,8 @@
 |  |  |
 | :--- | ---: |
 | [921\.](Subchapter%20002%20%28II%29%20-%20Rural%20Telephone%20Service/%C2%A7%2000921%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
-| [921a.](Subchapter%20002%20%28II%29%20-%20Rural%20Telephone%20Service/%C2%A7%2000921a%20-%20Policy%20of%20financing%20of%20rural%20telephone%20program.md) | Policy of financing of rural telephone program. |
-| [921b.](Subchapter%20002%20%28II%29%20-%20Rural%20Telephone%20Service/%C2%A7%2000921b%20-%20Policy%20of%20expansion%20of%20markets%20for%20debentures.md) | Policy of expansion of markets for debentures. |
-| [922\.](Subchapter%20002%20%28II%29%20-%20Rural%20Telephone%20Service/%C2%A7%2000922%20-%20Loans%20for%20rural%20telephone%20service.md) | Loans for rural telephone service. |
+| 921a, 921b. | Repealed. |
+| [922\.](Subchapter%20002%20%28II%29%20-%20Rural%20Telephone%20Service/%C2%A7%2000922%20-%20Loans%20for%20telephone%20service.md) | Loans for telephone service. |
 | [923\.](Subchapter%20002%20%28II%29%20-%20Rural%20Telephone%20Service/%C2%A7%2000923%20-%20State%20regulation%20of%20telephone%20service.md) | State regulation of telephone service. |
 | [924\.](Subchapter%20002%20%28II%29%20-%20Rural%20Telephone%20Service/%C2%A7%2000924%20-%20Definition%20of%20telephone%20service%20and%20rural%20area.md) | Definition of telephone service and rural area. |
 | [925\.](Subchapter%20002%20%28II%29%20-%20Rural%20Telephone%20Service/%C2%A7%2000925%20-%20Loan%20feasibility.md) | Loan feasibility. |
@@ -74,11 +73,13 @@
 | [940b.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940b%20-%20Use%20of%20funds.md) | Use of funds. |
 | [940c.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940c%20-%20Cushion%20of%20credit%20payments%20program.md) | Cushion of credit payments program. |
 | 940c–1. | Guarantees for bonds and notes issued for electrification or telephone purposes. |
-| [940d.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940d%20-%20Limitations%20on%20authorization%20of%20appropriations.md) | Limitations on authorization of appropriations. |
+| 940c–2. | Rural development loans and grants. |
+| [940d.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940d%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20VI%2C%20%C2%A76601%28b%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204776.md) | Repealed. |
 | [940e.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940e%20-%20Expansion%20of%20911%20access.md) | Expansion of 911 access. |
 | [940f.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940f%20-%20Extension%20of%20period%20of%20existing%20guarantee.md) | Extension of period of existing guarantee. |
 | [940g.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940g%20-%20Electric%20loans%20for%20renewable%20energy.md) | Electric loans for renewable energy. |
 | [940h.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940h%20-%20Bonding%20requirements.md) | Bonding requirements. |
+| [940i.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940i%20-%20Cybersecurity%20and%20grid%20security%20improvements.md) | Cybersecurity and grid security improvements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -86,19 +87,7 @@
 
 |  |  |
 | :--- | ---: |
-| [941\.](Subchapter%20004%20%28IV%29%20-%20Rural%20Telephone%20Bank/%C2%A7%2000941%20-%20Telephone%20Bank.md) | Telephone Bank. |
-| [942\.](Subchapter%20004%20%28IV%29%20-%20Rural%20Telephone%20Bank/%C2%A7%2000942%20-%20General%20powers.md) | General powers. |
-| [943\.](Subchapter%20004%20%28IV%29%20-%20Rural%20Telephone%20Bank/%C2%A7%2000943%20-%20Special%20provisions%20governing%20telephone%20bank%20as%20a%20Federal%20agency%20until%20conversion%20of%20ownership%2C%20control%2C%20and%20operation.md) | Special provisions governing telephone bank as a Federal agency until conversion of ownership, control, and operation. |
-| [944\.](Subchapter%20004%20%28IV%29%20-%20Rural%20Telephone%20Bank/%C2%A7%2000944%20-%20Governor%20of%20telephone%20bank%3B%20functions%2C%20powers%2C%20and%20duties.md) | Governor of telephone bank; functions, powers, and duties. |
-| [944a.](Subchapter%20004%20%28IV%29%20-%20Rural%20Telephone%20Bank/%C2%A7%2000944a%20-%20Publication%20of%20rural%20telephone%20bank%20policies%20and%20regulations.md) | Publication of rural telephone bank policies and regulations. |
-| [945\.](Subchapter%20004%20%28IV%29%20-%20Rural%20Telephone%20Bank/%C2%A7%2000945%20-%20Board%20of%20directors.md) | Board of directors. |
-| [946\.](Subchapter%20004%20%28IV%29%20-%20Rural%20Telephone%20Bank/%C2%A7%2000946%20-%20Capitalization.md) | Capitalization. |
-| [947\.](Subchapter%20004%20%28IV%29%20-%20Rural%20Telephone%20Bank/%C2%A7%2000947%20-%20Borrowing%20power%3B%20telephone%20debentures%3B%20issuance%3B%20interest%20rates%3B%20terms%20and%20conditions%3B%20ratio%20to%20paid-in%20capital%20and%20retained%20earnings%E2%80%A6.md) | Borrowing power; telephone debentures; issuance; interest rates; terms and conditions; ratio to paid-in capital and retained earnings; investments in debentures; debentures as security; purchase and sale of debentures by the Secretary of the Treasury; treatment as public debt transactions of the United States; exclusion of transactions from budget totals. |
-| [948\.](Subchapter%20004%20%28IV%29%20-%20Rural%20Telephone%20Bank/%C2%A7%2000948%20-%20Lending%20power.md) | Lending power. |
-| [949\.](Subchapter%20004%20%28IV%29%20-%20Rural%20Telephone%20Bank/%C2%A7%2000949%20-%20Telephone%20bank%20receipts%3B%20availability%20for%20obligations%20and%20expenditures.md) | Telephone bank receipts; availability for obligations and expenditures. |
-| [950\.](Subchapter%20004%20%28IV%29%20-%20Rural%20Telephone%20Bank/%C2%A7%2000950%20-%20Conversion%20of%20ownership%2C%20control%2C%20and%20operation%20of%20telephone%20bank.md) | Conversion of ownership, control, and operation of telephone bank. |
-| [950a.](Subchapter%20004%20%28IV%29%20-%20Rural%20Telephone%20Bank/%C2%A7%2000950a%20-%20Liquidation%20or%20dissolution%20of%20telephone%20bank.md) | Liquidation or dissolution of telephone bank. |
-| [950b.](Subchapter%20004%20%28IV%29%20-%20Rural%20Telephone%20Bank/%C2%A7%2000950b%20-%20Borrower%20net%20worth.md) | Borrower net worth. |
+| 941 to 950b. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -116,8 +105,22 @@
 |  |  |
 | :--- | ---: |
 | [950bb.](Subchapter%20006%20%28VI%29%20-%20Rural%20Broadband%20Access/%C2%A7%2000950bb%20-%20Access%20to%20broadband%20telecommunications%20services%20in%20rural%20areas.md) | Access to broadband telecommunications services in rural areas. |
-| 950bb–1. | National Center for Rural Telecommunications Assessment. |
-| 950bb–2. | Rural Gigabit Network Pilot Program. |
+| 950bb–1. | Expansion of middle mile infrastructure into rural areas. |
+| 950bb–2. | Innovative Broadband Advancement Program. |
+| 950bb–3. | Community Connect Grant Program. |
+| 950bb–4. | Outdated broadband systems. |
+| 950bb–5. | Default and deobligation; deferral. |
+| 950bb–6. | Federal broadband program coordination. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER VII—GENERAL AND ADMINISTRATIVE PROVISIONS
+
+|  |  |
+| :--- | ---: |
+| [950cc.](Subchapter%20007%20%28VII%29%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2000950cc%20-%20Public%20notice%2C%20assessments%2C%20and%20reporting%20requirements.md) | Public notice, assessments, and reporting requirements. |
+| 950cc–1. | Environmental reviews. |
+| 950cc–2. | Use of loan proceeds to refinance loans for deployment of broadband service. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -132,3 +135,4 @@
 - [Subchapter 004 (IV) - Rural Telephone Bank](Subchapter%20004%20%28IV%29%20-%20Rural%20Telephone%20Bank/README.md)
 - [Subchapter 005 (V) - Rural Economic Development](Subchapter%20005%20%28V%29%20-%20Rural%20Economic%20Development/README.md)
 - [Subchapter 006 (VI) - Rural Broadband Access](Subchapter%20006%20%28VI%29%20-%20Rural%20Broadband%20Access/README.md)
+- [Subchapter 007 (VII) - General and Administrative Provisions](Subchapter%20007%20%28VII%29%20-%20General%20and%20Administrative%20Provisions/README.md)

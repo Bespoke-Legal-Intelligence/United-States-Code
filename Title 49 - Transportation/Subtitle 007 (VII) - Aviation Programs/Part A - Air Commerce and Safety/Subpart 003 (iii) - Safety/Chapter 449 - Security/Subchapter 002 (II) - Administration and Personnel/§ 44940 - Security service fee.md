@@ -6,7 +6,7 @@ General Authority.—
 
 &emsp;(1)
 
-Passenger fees.—The Under Secretary of Transportation for Security shall impose a uniform fee, on passengers of air carriers and foreign air carriers in air transportation and intrastate air transportation originating at airports in the United States, to pay for the following costs of providing civil aviation security services:
+Passenger fees.—The Administrator of the Transportation Security Administration shall impose a uniform fee, on passengers of air carriers and foreign air carriers in air transportation and intrastate air transportation originating at airports in the United States, to pay for the following costs of providing civil aviation security services:
 
 &emsp;&emsp;(A) Salary, benefits, overtime, retirement and other costs of screening personnel, their supervisors and managers, and Federal law enforcement personnel deployed at airport security screening locations under section 44901.
 
@@ -26,13 +26,21 @@ Passenger fees.—The Under Secretary of Transportation for Security shall impos
 
 &emsp;&emsp;(I) The costs of training pilots and flight attendants under sections 44918 and 44921.
 
-> &emsp;The amount of such costs shall be determined by the Under Secretary and shall not be subject to judicial review. For purposes of subparagraph (A), the term "Federal law enforcement personnel" includes State and local law enforcement officers who are deputized under section 44922.
+&emsp;(2)
 
-&emsp;\[(2) Repealed. Pub. L. 113–67, div. A, title VI, §601(a)(1), Dec. 26, 2013, 127 Stat. 1187.\]
+Determination of costs.—
+
+&emsp;&emsp;(A)
+
+In general.—The amount of the costs under paragraph (1) shall be determined by the Administrator of the Transportation Security Administration and shall not be subject to judicial review.
+
+&emsp;&emsp;(B)
+
+Definition of federal law enforcement personnel.—For purposes of paragraph (1)(A), the term "Federal law enforcement personnel" includes State and local law enforcement officers who are deputized under section 44922.
 
 (b)
 
-Schedule of Fees.—In imposing fees under subsection (a), the Under Secretary shall ensure that the fees are reasonably related to the Transportation Security Administration's costs of providing services rendered.
+Schedule of Fees.—In imposing fees under subsection (a), the Administrator of the Transportation Security Administration shall ensure that the fees are reasonably related to the Transportation Security Administration's costs of providing services rendered.
 
 (c)
 
@@ -46,21 +54,25 @@ Amount.—Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip i
 
 Definition of round trip.—In this subsection, the term "round trip" means a trip on an air travel itinerary that terminates or has a stopover at the origin point (or co-terminal).
 
+&emsp;(3)
+
+Offsetting collections.—Beginning on October 1, 2027, fees collected under subsection (a)(1) for any fiscal year shall be credited as offsetting collections to appropriations made for aviation security measures carried out by the Transportation Security Administration, to remain available until expended.
+
 (d)
 
 Imposition of Fee.—
 
 &emsp;(1)
 
-In general.—Notwithstanding section 9701 of title 31 and the procedural requirements of section 553 of title 5, the Under Secretary shall impose the fee under subsection (a)(1) through the publication of notice of such fee in the Federal Register and begin collection of the fee within 60 days of the date of enactment of this Act, or as soon as possible thereafter.
+In general.—Notwithstanding section 9701 of title 31 and the procedural requirements of section 553 of title 5, the Administrator of the Transportation Security Administration shall impose the fee under subsection (a)(1) through the publication of notice of such fee in the Federal Register and begin collection of the fee as soon as possible.
 
 &emsp;(2)
 
-Special rules passenger fees.—A fee imposed under subsection (a)(1) through the procedures under subsection (d) <sup>1</sup> shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
+Special rules passenger fees.—A fee imposed under subsection (a)(1) through the procedures under paragraph (1) of this subsection shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under paragraph (1) of this subsection on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
 
 &emsp;(3)
 
-Subsequent modification of fee.—After imposing a fee in accordance with paragraph (1), the Under Secretary may modify, from time to time through publication of notice in the Federal Register, the imposition or collection of such fee, or both.
+Subsequent modification of fee.—After imposing a fee in accordance with paragraph (1), the Administrator of the Transportation Security Administration may modify, from time to time through publication of notice in the Federal Register, the imposition or collection of such fee, or both.
 
 &emsp;(4)
 
@@ -72,7 +84,7 @@ Administration of Fees.—
 
 &emsp;(1)
 
-Fees payable to under secretary.—All fees imposed and amounts collected under this section are payable to the Under Secretary.
+Fees payable to administrator.—All fees imposed and amounts collected under this section are payable to the Administrator of the Transportation Security Administration.
 
 &emsp;(2)
 
@@ -84,7 +96,7 @@ Due date for remittance.—A fee collected under this section shall be remitted 
 
 &emsp;(4)
 
-Information.—The Under Secretary may require the provision of such information as the Under Secretary decides is necessary to verify that fees have been collected and remitted at the proper times and in the proper amounts.
+Information.—The Administrator of the Transportation Security Administration may require the provision of such information as the Administrator of the Transportation Security Administration decides is necessary to verify that fees have been collected and remitted at the proper times and in the proper amounts.
 
 &emsp;(5)
 
@@ -106,11 +118,11 @@ Receipts Credited as Offsetting Collections.—Notwithstanding section 3302 of t
 
 (g)
 
-Refunds.—The Under Secretary may refund any fee paid by mistake or any amount paid in excess of that required.
+Refunds.—The Administrator of the Transportation Security Administration may refund any fee paid by mistake or any amount paid in excess of that required.
 
 (h)
 
-Exemptions.—The Under Secretary may exempt from the passenger fee imposed under subsection (a)(1) any passenger enplaning at an airport in the United States that does not receive screening services under section 44901 for that segment of the trip for which the passenger does not receive screening.
+Exemptions.—The Administrator of the Transportation Security Administration may exempt from the passenger fee imposed under subsection (a)(1) any passenger enplaning at an airport in the United States that does not receive screening services under section 44901 for that segment of the trip for which the passenger does not receive screening.
 
 (i)
 
@@ -132,41 +144,71 @@ Relationship to other provisions.—Subsections (b) and (f) shall not apply to a
 
 Fiscal year amounts.—For purposes of paragraphs (1) and (2), the fiscal year amounts are as follows:
 
-&emsp;&emsp;(A) $390,000,000 for fiscal year 2014.
+&emsp;&emsp;(A) $1,320,000,000 for fiscal year 2018.
 
-&emsp;&emsp;(B) $1,190,000,000 for fiscal year 2015.
+&emsp;&emsp;(B) $1,360,000,000 for fiscal year 2019.
 
-&emsp;&emsp;(C) $1,250,000,000 for fiscal year 2016.
+&emsp;&emsp;(C) $1,400,000,000 for fiscal year 2020.
 
-&emsp;&emsp;(D) $1,280,000,000 for fiscal year 2017.
+&emsp;&emsp;(D) $1,440,000,000 for fiscal year 2021.
 
-&emsp;&emsp;(E) $1,320,000,000 for fiscal year 2018.
+&emsp;&emsp;(E) $1,480,000,000 for fiscal year 2022.
 
-&emsp;&emsp;(F) $1,360,000,000 for fiscal year 2019.
+&emsp;&emsp;(F) $1,520,000,000 for fiscal year 2023.
 
-&emsp;&emsp;(G) $1,400,000,000 for fiscal year 2020.
+&emsp;&emsp;(G) $1,560,000,000 for fiscal year 2024.
 
-&emsp;&emsp;(H) $1,440,000,000 for fiscal year 2021.
+&emsp;&emsp;(H) $1,600,000,000 for fiscal year 2025.
 
-&emsp;&emsp;(I) $1,480,000,000 for fiscal year 2022.
+&emsp;&emsp;(M) <sup>1</sup> $1,640,000,000 for fiscal year 2026.
 
-&emsp;&emsp;(J) $1,520,000,000 for fiscal year 2023.
+&emsp;&emsp;(N) <sup>1</sup> $1,680,000,000 for fiscal year 2027.
 
-&emsp;&emsp;(K) $1,560,000,000 for fiscal year 2024.
-
-&emsp;&emsp;(L) $1,600,000,000 for fiscal year 2025.
-
-(Added Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625; amended Pub. L. 108–7, div. I, title III, §351(b), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–176, title VI, §605(b)(1), (2), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 110–53, title XVI, §1601, Aug. 3, 2007, 121 Stat. 477; Pub. L. 110–161, div. E, title V, §540, Dec. 26, 2007, 121 Stat. 2079; Pub. L. 113–67, div. A, title VI, §601(a)(1), (2), (b), (c), Dec. 26, 2013, 127 Stat. 1187; Pub. L. 113–294, §1(a), Dec. 19, 2014, 128 Stat. 4009; Pub. L. 114–41, title III, §3001, July 31, 2015, 129 Stat. 460.)
-
-#### References in Text
-
-The date of enactment of this Act, referred to in subsec. (d)(1), probably means the date of enactment of Pub. L. 107–71, which enacted this section and which was approved Nov. 19, 2001.
+(Added Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625; amended Pub. L. 108–7, div. I, title III, §351(b), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–176, title VI, §605(b)(1), (2), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 110–53, title XVI, §1601, Aug. 3, 2007, 121 Stat. 477; Pub. L. 110–161, div. E, title V, §540, Dec. 26, 2007, 121 Stat. 2079; Pub. L. 113–67, div. A, title VI, §601(a)(1), (2), (b), (c), Dec. 26, 2013, 127 Stat. 1187; Pub. L. 113–294, §1(a), Dec. 19, 2014, 128 Stat. 4009; Pub. L. 114–41, title III, §3001, July 31, 2015, 129 Stat. 460; Pub. L. 115–123, div. C, title II, §30202, Feb. 9, 2018, 132 Stat. 126; Pub. L. 115–254, div. K, title I, §§1940, 1991(d)(31), Oct. 5, 2018, 132 Stat. 3582, 3639.)
 
 #### Codification
 
-Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625, which directed the addition of section 44940 at end of subchapter II of chapter 449 without specifying theCode title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
+Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625, which directed the addition of section 44940 at end of subchapter II of chapter 449 without specifying the Code title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1991(d)(31)(A)(i)(II), struck out concluding provisions which read as follows: "The amount of such costs shall be determined by the Under Secretary and shall not be subject to judicial review. For purposes of subparagraph (A), the term 'Federal law enforcement personnel' includes State and local law enforcement officers who are deputized under section 44922."
+
+Pub. L. 115–254, §1991(d)(31)(A)(i)(I), substituted "Administrator of the Transportation Security Administration" for "Under Secretary of Transportation for Security" in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 115–254, §1991(d)(31)(A)(ii), added par. (2).
+
+Subsec. (b). Pub. L. 115–254, §1991(d)(31)(B), substituted "Administrator of the Transportation Security Administration" for "Under Secretary".
+
+Subsec. (c)(3). Pub. L. 115–254, §1940, added par. (3).
+
+Subsec. (d)(1). Pub. L. 115–254, §1991(d)(31)(C)(i), struck out "within 60 days of the date of enactment of this Act, or" after "of the fee" and "thereafter" before period at end.
+
+Pub. L. 115–254, §1991(d)(31)(B), substituted "Administrator of the Transportation Security Administration" for "Under Secretary".
+
+Subsec. (d)(2). Pub. L. 115–254, §1991(d)(31)(C)(ii), substituted "paragraph (1) of this subsection" for "subsection (d)" in two places.
+
+Subsec. (d)(3). Pub. L. 115–254, §1991(d)(31)(B), substituted "Administrator of the Transportation Security Administration" for "Under Secretary".
+
+Subsec. (e)(1). Pub. L. 115–254, §1991(d)(31)(D), substituted "Fees payable to Administrator" for "Fees payable to Under Secretary" in heading.
+
+Pub. L. 115–254, §1991(d)(31)(B), substituted "Administrator of the Transportation Security Administration" for "Under Secretary".
+
+Subsec. (e)(4). Pub. L. 115–254, §1991(d)(31)(B), substituted "Administrator of the Transportation Security Administration" for "Under Secretary" in two places.
+
+Subsecs. (g), (h). Pub. L. 115–254, §1991(d)(31)(B), substituted "Administrator of the Transportation Security Administration" for "Under Secretary".
+
+Subsec. (i)(4)(A) to (L). Pub. L. 115–254, §1991(d)(31)(E), redesignated subpars. (E) to (L) as (A) to (H), respectively, and struck out former subpars. (A) to (D) which read as follows:
+
+"(A) $390,000,000 for fiscal year 2014.
+
+"(B) $1,190,000,000 for fiscal year 2015.
+
+"(C) $1,250,000,000 for fiscal year 2016.
+
+"(D) $1,280,000,000 for fiscal year 2017."
+
+Subsec. (i)(4)(M), (N). Pub. L. 115–123 added subpars. (M) and (N).
 
 <b>2015</b>—Subsec. (i)(4)(K), (L). Pub. L. 114–41 added subpars. (K) and (L).
 
@@ -204,10 +246,6 @@ Pub. L. 113–67, div. A, title VI, §601(a)(3), Dec. 26, 2013, 127 Stat. 1187, 
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
-#### Transfer of Functions
-
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
 #### Deemed References to Chapters 509 and 511 of Title 51
 
 General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
@@ -224,5 +262,5 @@ Pub. L. 113–67, div. A, title VI, §601(d), Dec. 26, 2013, 127 Stat. 1188, pro
 
 Pub. L. 113–67, div. A, title VI, §601(e), Dec. 26, 2013, 127 Stat. 1188, provided that: "The amendments made by this section \[amending this section\] shall not affect the availability of funds made available under section 44940(i) of title 49, United States Code, before the date of enactment of this Act \[Dec. 26, 2013\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (1)".</i>
+<i><sup>1</sup></i><i> So in original.</i>
 

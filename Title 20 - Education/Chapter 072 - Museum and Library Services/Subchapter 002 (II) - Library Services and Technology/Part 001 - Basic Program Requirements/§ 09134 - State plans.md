@@ -12,7 +12,7 @@
 
 #### (3) Revisions
 
-&emsp;If a State library administrative agency makes a substantive revision to its State plan, then the State library administrative agency shall submit to the Director an amendment to the State plan containing such revision not later than April 1 of the fiscal year preceding the fiscal year for which the amendment will be effective.
+&emsp;If a State library administrative agency makes a substantive revision to its State plan,then the State library administrative agency shall submit to the Director an amendment to the State plan containing such revision not later than April 1 of the fiscal year preceding the fiscal year for which the amendment will be effective.
 
 #### (b) Contents
 
@@ -30,7 +30,7 @@ The State plan shall—
 
 &emsp;(6) describe how the State library administrative agency will work with other State agencies and offices where appropriate to coordinate resources, programs, and activities and leverage, but not replace, the Federal and State investment in—
 
-&emsp;&emsp;(A) elementary and secondary education, including coordination with the activities within the State that are supported by a grant under section 6646 of this title;
+&emsp;&emsp;(A) programs and activities under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] (including programs and activities under subparts 2 and 3 of part B of title II \[20 U.S.C. 6641 et seq., 6661 et seq.\], and parts A and B of title IV \[20 U.S.C. 7101 et seq., 7171 et seq.\], of such Act);
 
 &emsp;&emsp;(B) early childhood education, including coordination with—
 
@@ -40,11 +40,13 @@ The State plan shall—
 
 &emsp;&emsp;(C) workforce development, including coordination with—
 
-&emsp;&emsp;&emsp;(i) the activities carried out by the State workforce development board under section 3111 of title 29; and
+&emsp;&emsp;&emsp;(i) the activities carried out by the State workforce development board under section 101 of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111\];
 
-&emsp;&emsp;&emsp;(ii) the State's one-stop delivery system established under section 3151(e) of title 29; and
+&emsp;&emsp;&emsp;(ii) the State's one-stop delivery system established under section 121(e) of such Act \[29 U.S.C. 3151(e)\]; and
 
-&emsp;&emsp;(D) other Federal programs and activities that relate to library services, including economic and community development and health information;
+&emsp;&emsp;&emsp;(iii) the activities carried out by the State in support of adult education and literacy under title II of such Act \[29 U.S.C. 3271 et seq.\]; and
+
+&emsp;&emsp;(D) other Federal programs and activities that relate to library services, including economic, business, and community development, health information, critical thinking skills, digital literacy skills, financial literacy and other types of literacy skills;
 
 &emsp;(7) provide assurances that the State will comply with subsection (f); and
 
@@ -88,7 +90,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 &emsp;&emsp;(A) such library—
 
-&emsp;&emsp;&emsp;(i) has in place a policy of Internet safety for minors that includes the operation of a technology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are—
+&emsp;&emsp;&emsp;(i) has in place a policy of Internet safety for minors that includes the operation of a technology protection measure with respect to any of its computers with Internet access that protects against accessthrough such computers to visual depictions that are—
 
 &emsp;&emsp;&emsp;&emsp;(I) obscene;
 
@@ -156,11 +158,11 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (B) Recovery of funds prohibited
 
-&emsp;&emsp;The actions authorized by subparagraph (A) are the exclusive remedies available withrespect to the failure of a library to comply substantially with a provision of this subsection, and the Director shall not seek a recovery of funds from the recipient for such failure.
+&emsp;&emsp;The actions authorized by subparagraph (A) are the exclusive remedies available with respect to the failure of a library to comply substantially with a provision of this subsection, and the Director shall not seek a recovery of funds from the recipient for such failure.
 
 #### (C) Recommencement of payments
 
-&emsp;&emsp;Whenever the Director determines (whether by certification or other appropriate evidence) that a recipient of funds who is subject to the withholding of payments under subparagraph (A)(i) has cured the failure providing the basis for the withholding of payments, the Director shall cease the withholding of payments to the recipient under that subparagraph.
+&emsp;&emsp;Whenever the Director determines (whether by certification or other appropriate evidence) that a recipient of funds who is subject to the withholding of payments under subparagraph (A)(i) has cured the failureproviding the basis for the withholding of payments, the Director shall cease the withholding of payments to the recipient under that subparagraph.
 
 #### (6) Separability
 
@@ -196,15 +198,25 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 &emsp;&emsp;The terms "sexual act" and "sexual contact" have the meanings given such terms in section 2246 of title 18.
 
-(Pub. L. 94–462, title II, §224, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–300; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–340; Pub. L. 108–81, title II, §205, title V, §504(f), Sept. 25, 2003, 117 Stat. 999, 1004; Pub. L. 111–340, title II, §204, Dec. 22, 2010, 124 Stat. 3600; Pub. L. 113–128, title V, §512(t)(2), July 22, 2014, 128 Stat. 1712; Pub. L. 114–95, title IX, §9215(aaa)(2), Dec. 10, 2015, 129 Stat. 2184.)
+(Pub. L. 94–462, title II, §224, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–300; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–340; Pub. L. 108–81, title II, §205, title V, §504(f), Sept. 25, 2003, 117 Stat. 999, 1004; Pub. L. 111–340, title II, §204, Dec. 22, 2010, 124 Stat. 3600; Pub. L. 113–128, title V, §512(t)(2), July 22, 2014, 128 Stat. 1712; Pub. L. 114–95, title IX, §9215(aaa)(2), Dec. 10, 2015, 129 Stat. 2184; Pub. L. 115–410, §11, Dec. 31, 2018, 132 Stat. 5417.)
 
 #### References in Text
+
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(6)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. Subparts 2 and 3 of part B of title II of the Act are classified generally to subparts 2 (§6641 et seq.) and 3 (§6661 et seq.), respectively, of subchapter II of chapter 70 of this title. Parts A and B of title IV of the Act are classified generally to parts A (§7101 et seq.) and B (§7171 et seq.), respectively, of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(6)(C)(iii), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title II of the Act, known as the Adult Education and Family Literacy Act, is classified generally to subchapter II (§3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of these Acts to the Code, see sections 1(a) and 201 of Pub. L. 113–128, set out as Short Title notes under section 3101 of Title 29 and Tables.
 
 For the effective date of this subsection, referred to in subsec. (f)(4), as 120 days after Dec. 21, 2000, see §1(a)(4) \[div. B, title XVII, §1712(b)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 
 The General Education Provisions Act, referred to in subsec. (f)(5)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(6)(A). Pub. L. 115–410, §11(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "elementary and secondary education, including coordination with the activities within the State that are supported by a grant under section 6646 of this title;".
+
+Subsec. (b)(6)(C)(iii). Pub. L. 115–410, §11(2), added cl. (iii).
+
+Subsec. (b)(6)(D). Pub. L. 115–410, §11(3), inserted ", business," after "economic" and substituted ", health information, critical thinking skills, digital literacy skills, financial literacy and other types of literacy skills" for "and health information".
 
 <b>2015</b>—Subsec. (b)(6)(A). Pub. L. 114–95 substituted "including coordination with the activities within the State that are supported by a grant under section 6646 of this title" for "including coordination with the activities within the State that are supported by a grant under section 6383 of this title".
 
@@ -246,7 +258,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(b)\], Dec. 21, 2000, 1
 
 #### Availability of Certain Funds for Acquisition of Technology Protection Measures
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, as amended byPub. L. 114–95, title IX, §9215(q), Dec. 10, 2015, 129 Stat. 2171, provided that:
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, as amended by Pub. L. 114–95, title IX, §9215(q), Dec. 10, 2015, 129 Stat. 2171, provided that:
 
 "(1)
 

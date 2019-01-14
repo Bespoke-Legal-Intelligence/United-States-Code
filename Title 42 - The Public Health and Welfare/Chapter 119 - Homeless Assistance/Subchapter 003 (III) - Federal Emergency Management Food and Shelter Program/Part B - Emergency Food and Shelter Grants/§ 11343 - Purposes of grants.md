@@ -4,7 +4,7 @@
 
 Grants to the National Board may be used—
 
-&emsp;(1) to supplement and expand ongoing efforts to provide shelter, food, and supportive services for homeless individuals with sensitivity to the transition from temporary shelter to permanent homes, and attention to the special needs of homeless individuals with mental andphysical disabilities and illnesses, and to facilitate access for homeless individuals to other sources of services and benefits;
+&emsp;(1) to supplement and expand ongoing efforts to provide shelter, food, and supportive services for homeless individuals with sensitivity to the transition from temporary shelter to permanent homes, and attention to the special needs of homeless individuals with mental and physical disabilities and illnesses, and to facilitate access for homeless individuals to other sources of services and benefits;
 
 &emsp;(2) to strengthen efforts to create more effective and innovative local programs by providing funding for them; and
 

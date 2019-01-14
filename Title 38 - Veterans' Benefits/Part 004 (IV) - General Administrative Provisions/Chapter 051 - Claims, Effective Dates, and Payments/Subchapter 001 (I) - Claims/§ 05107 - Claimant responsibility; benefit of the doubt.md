@@ -56,7 +56,7 @@ Rule for Claims the Denial of Which Became Final After the Court of Appeals for 
 
 &emsp;"(B) was issued by the Secretary of Veterans Affairs or a court because the claim was not well grounded (as that term was used in section 5107(a) of title 38, United States Code, as in effect during that period).
 
-"(3) A claim may not be readjudicated under this subsection unless a request for readjudication is filed by the claimant, or a motion is made by the Secretary, not later than 2 years after the date of the enactment of this Act.
+"(3) A claim may not be readjudicated under this subsection unless a request for readjudication is filed bythe claimant, or a motion is made by the Secretary, not later than 2 years after the date of the enactment of this Act.
 
 "(4) In the absence of a timely request of a claimant under paragraph (3), nothing in this Act \[see Short Title of 2000 Amendments note set out under section 101 of this title\] shall be construed as establishing a duty on the part of the Secretary of Veterans Affairs to locate and readjudicate a claim described in this subsection."
 

@@ -22,7 +22,7 @@ Appeals from the decisions of the Chair relating to the application of the rules
 
 #### (f) Resolution
 
-For the purposes of subsections (a) through (e) of this section, the term "resolution" means a concurrent resolution of the Congress, the matter after the resolving clause of which is as follows: "That the Congress (does or does not) favor the        transmitted to the Congress by the President on    ,        .", the blank spaces therein to be appropriately filled, and the affirmative or negative phrase within the parenthetical to be appropriately selected.
+For the purposes of subsections (a) through (e) of this section, the term "resolution" means aconcurrent resolution of the Congress, the matter after the resolving clause of which is as follows: "That the Congress (does or does not) favor the        transmitted to the Congress by the President on    ,        .", the blank spaces therein to be appropriately filled, and the affirmative or negative phrase within the parenthetical to be appropriately selected.
 
 #### (g) Continuity of Congressional sessions; computation of time
 
@@ -72,7 +72,7 @@ This section is enacted by Congress—
 
 &emsp;(B) the vote on final passage shall be on the joint resolution of the other House.
 
-(Aug. 1, 1946, ch. 724, title I, §130, as added Pub. L. 95–242, title III, §308, Mar. 10, 1978, 92 Stat. 139; amended Pub. L. 99–64, title III, §301(c), July 12,1985, 99 Stat. 160; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–437, §15(f)(5), Nov. 2, 1994, 108 Stat. 4592; Pub. L. 110–369, title II, §205, Oct. 8, 2008, 122 Stat. 4033.)
+(Aug. 1, 1946, ch. 724, title I, §130, as added Pub. L. 95–242, title III, §308, Mar. 10, 1978, 92 Stat. 139; amended Pub. L. 99–64, title III, §301(c), July 12, 1985, 99 Stat. 160; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–437, §15(f)(5), Nov. 2, 1994, 108 Stat. 4592; Pub. L. 110–369, title II, §205, Oct. 8, 2008, 122 Stat. 4033.)
 
 #### References in Text
 

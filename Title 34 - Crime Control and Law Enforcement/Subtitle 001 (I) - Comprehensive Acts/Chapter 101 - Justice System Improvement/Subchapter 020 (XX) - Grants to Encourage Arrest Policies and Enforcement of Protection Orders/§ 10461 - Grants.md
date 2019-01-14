@@ -26,9 +26,9 @@ The Attorney General may make grants to eligible grantees for the following purp
 
 &emsp;(9) To develop State, tribal, territorial, or local policies, procedures, and protocols for preventing dual arrests and prosecutions in cases of domestic violence, dating violence, sexual assault, and stalking, and to develop effective methods for identifying the pattern and history of abuse that indicates which party is the actual perpetrator of abuse.
 
-&emsp;(10) To plan, develop and establish comprehensive victim service and support centers,such as family justice centers, designed to bring together victim advocates from victim service providers, staff from population specific organizations, law enforcement officers, prosecutors, probation officers, governmental victim assistants, forensic medical professionals, civil legal attorneys, chaplains, legal advocates, representatives from community-based organizations and other relevant public or private agencies or organizations into one centralized location, in order to improve safety, access to services, and confidentiality for victims and families. Although funds may be used to support the colocation of project partners under this paragraph, funds may not support construction or major renovation expenses or activities that fall outside of the scope of the other statutory purpose areas.
+&emsp;(10) To plan, develop and establish comprehensive victim service and support centers, such as family justice centers, designed to bring together victim advocates from victim service providers, staff from population specific organizations, law enforcement officers, prosecutors, probation officers, governmental victim assistants, forensic medical professionals, civil legal attorneys, chaplains, legal advocates, representatives from community-based organizations and other relevant public or private agencies or organizations into one centralized location, in order to improve safety, access to services, and confidentiality for victims and families. Although funds may be used to support the colocation of project partners under this paragraph, funds may not support construction or major renovation expenses or activities that fall outside of the scope of the other statutory purpose areas.
 
-&emsp;(11) To develop and implement policies and training for police, prosecutors, probation and parole officers, and the judiciary in recognizing, investigating, and prosecuting instances of sexual assault, with an emphasis on recognizing the threat to the community for repeat crime perpetration by such individuals.
+&emsp;(11) To develop and implement policies and training for police, prosecutors, probation andparole officers, and the judiciary in recognizing, investigating, and prosecuting instances of sexual assault, with an emphasis on recognizing the threat to the community for repeat crime perpetration by such individuals.
 
 &emsp;(12) To develop, enhance, and maintain protection order registries.
 
@@ -78,7 +78,7 @@ Eligible grantees are—
 
 &emsp;&emsp;(E) certify that,<sup>2</sup> their laws, policies, or practices will ensure that—
 
-&emsp;&emsp;&emsp;(i) no law enforcement officer, prosecuting officer or other government official shall ask or require an adult, youth, or child victim of a sex offense as definedunder Federal, tribal, State, territorial, or local law to submit to a polygraph examination or other truth telling device as a condition for proceeding with the investigation of, trial of, or sentencing for such an offense; and
+&emsp;&emsp;&emsp;(i) no law enforcement officer, prosecuting officer or other government official shall ask or require an adult, youth, or child victim of a sex offense as defined under Federal, tribal, State, territorial, or local law to submit to a polygraph examination or other truth telling device as a condition for proceeding with the investigation of, trial of, or sentencing for such an offense; and
 
 &emsp;&emsp;&emsp;(ii) the refusal of a victim to submit to an examination described in clause (i) shall not prevent the investigation of, trial of, or sentencing for the offense; and
 
@@ -86,7 +86,7 @@ Eligible grantees are—
 
 #### (d) Speedy notice to victims
 
-A State or unit of local government shall not be entitled to 5 percent of the funds allocated under this subchapter unless the State or unit of local government—
+A State or unit of local government shall not be entitled to 5 percent of the funds allocatedunder this subchapter unless the State or unit of local government—
 
 &emsp;(1) certifies that it has a law, policy, or regulation that requires—
 

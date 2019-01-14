@@ -2,7 +2,7 @@
 
 #### (a) Bias of surface transportation systems; submission of report
 
-The Secretary of Energy shall conduct a study to determine the existence of any tax, regulatory, traffic, urban design, rural electrical, or other institutional factor which tends or may tend to bias surface transportation systems toward vehicles of particular characteristics. The Secretary of Energy shall submit a report to the Congress on the findings and conclusions of such study, within 1 year after September 17, 1976. The report shall include any legislative or other recommendations of the Secretary of Energy.
+The Secretary of Energy shall conduct a study to determine the existence of any tax, regulatory, traffic, urban design, rural electrical, orother institutional factor which tends or may tend to bias surface transportation systems toward vehicles of particular characteristics. The Secretary of Energy shall submit a report to the Congress on the findings and conclusions of such study, within 1 year after September 17, 1976. The report shall include any legislative or other recommendations of the Secretary of Energy.
 
 #### (b) Material demand and pollution effect; impact statement
 
@@ -48,7 +48,7 @@ Section 512(b)(2) of the Motor Vehicle Information and Cost Savings Act (15 U.S.
 
 #### Codification
 
-In subsec. (c), "section 32904(a)(1) of title 49" substituted for "section 503(a)(1) and (2) of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2003(a)(1) and (2))" and "section 503(a)(1) and (2) of the Motor Vehicle Information and Cost Savings Act", and "part C of subtitle VI of title 49" substituted for "the Motor Vehicle Information and Cost Savings Act \[15 U.S.C. 1901 et seq.\]" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation, and on authority of Pub. L. 103–429, §10(b), Oct. 31, 1994, 108 Stat. 4391, section 6(43)(B) of which enacted section 32918 as part of part C of subtitle VI of Title 49.
+In subsec. (c), "section 32904(a)(1) of title 49" substituted for "section 503(a)(1) and (2) of the Motor Vehicle Information and Cost Savings Act (15 U.S.C.2003(a)(1) and (2))" and "section 503(a)(1) and (2) of the Motor Vehicle Information and Cost Savings Act", and "part C of subtitle VI of title 49" substituted for "the Motor Vehicle Information and Cost Savings Act \[15 U.S.C. 1901 et seq.\]" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation, and on authority of Pub. L. 103–429, §10(b), Oct. 31, 1994, 108 Stat. 4391, section 6(43)(B) of which enacted section 32918 as part of part C of subtitle VI of Title 49.
 
 January 7, 1980, referred to in subsec. (c)(2), was in the original "enactment of the Act" which has been translated as meaning the date of enactment of Pub. L. 96–185 as the probable intent of Congress in view of the fact that section 18 of Pub. L. 96–185 enacted subsec. (c)(1) to (3) of this section.
 

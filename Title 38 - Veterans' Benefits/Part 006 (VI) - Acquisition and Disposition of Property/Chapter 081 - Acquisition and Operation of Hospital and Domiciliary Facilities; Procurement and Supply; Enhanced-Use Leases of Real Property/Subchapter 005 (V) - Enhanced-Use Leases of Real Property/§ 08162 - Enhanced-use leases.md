@@ -1,6 +1,6 @@
 ### §8162. Enhanced-use leases
 
-(a)(1) The Secretary may in accordance with this subchapter enter into leases with respect to real property that is under the jurisdiction or control of the Secretary. Any such lease underthis subchapter may be referred to as an "enhanced-use lease". The Secretary may dispose of any such property that is leased to another party under this subchapter in accordance with section 8164 of this title. The Secretary may exercise the authority provided by this subchapter notwithstanding section 8122 of this title, subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40, or any other provision of law (other than Federal laws relating to environmental and historic preservation) inconsistent with this section. The applicability of this subchapter to section 421(b) of the Veterans' Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553) is covered by subsection (c).
+(a)(1) The Secretary may in accordance with this subchapter enter into leases with respect to real property that is under the jurisdiction or control of the Secretary. Any such lease under this subchapter may be referred to as an "enhanced-use lease". The Secretary may dispose of any such property that is leased to another party under this subchapter in accordance with section 8164 of this title. The Secretary may exercise the authority provided by this subchapter notwithstanding section 8122 of this title, subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40, or any other provision of law (other than Federal laws relating to environmental and historic preservation) inconsistent with this section. The applicability of this subchapter to section 421(b) of the Veterans' Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553) is covered by subsection (c).
 
 (2) The Secretary may enter into an enhanced-use lease only for the provision of supportive housing and if the lease is not inconsistent with and will not adversely affect the mission of the Department.
 
@@ -24,7 +24,7 @@
 
 (5) The terms of an enhanced-use lease may not provide for any acquisition, contract, demonstration, exchange, grant, incentive, procurement, sale, other transaction authority, service agreement, use agreement, lease, or lease-back by the Secretary or Federal Government.
 
-(6) The Secretary may not enter into an enhanced-use lease without certification in advance in writing by the Director of the Office of Management and Budget that such lease complies with the requirements of this subchapter.
+(6) The Office of Management and Budget shall review each enhanced-use lease before the lease goes into effect to determine whether the lease is in compliance with paragraph (5).
 
 (c) The entering into an enhanced-use lease covering any land or improvement described in section 421(b)(2) of the Veterans' Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553) or section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008, other than an enhanced-use lease under the Los Angeles Homeless Veterans Leasing Act of 2016, shall be considered to be prohibited by such sections unless specifically authorized by law.
 
@@ -32,7 +32,7 @@
 
 (2) Nothing in this subchapter shall be construed to abrogate or constitute a waiver of the sovereign immunity of the United States with respect to any loan, financing, or other financial agreement entered into by the lessee and a third party relating to an enhanced-use lease.
 
-(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, §208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–95, §10(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, §3(j)(5), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–178, §4(i)(1), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 110–161, div. I, title II, §224(c), Dec. 26, 2007, 121 Stat. 2272; Pub. L. 112—154, title II, §211(b)(1), (c)(1), (d), Aug. 6, 2012, 126 Stat. 1180, 1181; Pub. L. 114–58, title VI, §601(25), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–226, §§2(m)(2)—3(b), Sept. 29, 2016, 130 Stat. 930.)
+(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, §208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–95, §10(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, §3(j)(5), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–178, §4(i)(1), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 110–161, div. I, title II, §224(c), Dec. 26, 2007, 121 Stat. 2272; Pub. L. 112—154, title II, §211(b)(1), (c)(1), (d), Aug. 6, 2012, 126 Stat. 1180, 1181; Pub. L. 114–58, title VI, §601(25), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–226, §§2(m)(2)—3(b), Sept. 29, 2016, 130 Stat. 930; Pub. L. 115–182, title II, §212, June 6, 2018, 132 Stat. 1461.)
 
 #### References in Text
 
@@ -40,9 +40,11 @@ Section 421(b) of the Veterans' Benefits and Services Act of 1988, referred to i
 
 Section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008, referred to in subsec. (c), is section 224(a) of title II of div. I of Pub. L. 110–161, Dec. 26, 2007, 121 Stat. 2272, which is not classified to the Code.
 
-No act with the title "Los Angeles Homeless Veterans Leasing Act of 2016", referred to in subsec. (c), has been enacted. However, a bill, H.R. 3484, entitled "Los Angeles Homeless Veterans Leasing Act of 2016", was introduced in the House of Representatives on Sept. 10, 2015, during the 114th Congress. That bill contained provisions similar to section 2 of Pub. L. 114–226, Sept. 29, 2016, 130 Stat. 926, known as the "West Los Angeles Leasing Act of 2016". Section 2(m)(2) of Pub. L. 114–226 amended this section; the remainder of section 2 of Pub. L. 114–226 is not classified to the Code.
+No act with the title "Los Angeles Homeless Veterans Leasing Act of 2016", referred to in subsec. (c), has been enacted. However, a bill, H.R. 3484, entitled "Los Angeles Homeless Veterans Leasing Act of 2016", wasintroduced in the House of Representatives on Sept. 10, 2015, during the 114th Congress. That bill contained provisions similar to section 2 of Pub. L. 114–226, Sept. 29, 2016, 130 Stat. 926, known as the "West Los Angeles Leasing Act of 2016". Section 2(m)(2) of Pub. L. 114–226 amended this section; the remainder of section 2 of Pub. L. 114–226 is not classified to the Code.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(6). Pub. L. 115–182, which directed the general amendment of "section 8162(b)(6)" without specifying the Code title to be amended, was executed by generally amending par. (6) of subsec. (b) of this section, to reflect the probable intent of Congress. Prior to amendment, par. (6) read as follows: "The Secretary may not enter into an enhanced-use lease without certification in advance in writing by the Director of the Office of Management and Budget that such lease complies with the requirements of this subchapter."
 
 <b>2016</b>—Subsec. (b)(3)(D). Pub. L. 114–226, §3(a), added subpar. (D).
 
@@ -120,7 +122,7 @@ In general.—Paragraph (2) of section 8162(a) of title 38, United States Code, 
 
 Previous leases.—Any enhanced-use lease that the Secretary has entered into prior to the date described in subparagraph (A) shall be subject to the provisions of subchapter V of chapter 81 of such title, as in effect on the day before the date of the enactment of this Act \[Aug. 6, 2012\]."
 
-Pub. L. 112—154, title II, §211(c)(2), Aug. 6, 2012, 126 Stat. 1181, provided that: "Paragraph (3) of section 8162(b), as amended by paragraph (1)(B) of this subsection, shall take effect on January 1, 2012, and shall apply with respect to enhanced-use leases entered into on or after such date."
+Pub. L. 112—154, title II, §211(c)(2), Aug. 6, 2012, 126 Stat. 1181, provided that: "Paragraph (3) of section8162(b), as amended by paragraph (1)(B) of this subsection, shall take effect on January 1, 2012, and shall apply with respect to enhanced-use leases entered into on or after such date."
 
 #### Effective Date of 2007 Amendment
 

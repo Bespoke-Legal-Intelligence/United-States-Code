@@ -36,7 +36,7 @@ Regulations.—The Secretary of Defense, after consultation with the other admin
 
 #### Amendments
 
-<b>2016</b>—Subsec. (b)(1). Pub. L. 114–328, §701(d)(1), amended par. (1) generally. Prior to amendment, text read as follows: "allow covered beneficiaries to elect a health care plan from eligible health care plans designated by the Secretary of Defense; or".
+<b>2016</b>—Subsec. (b)(1). Pub. L. 114–328, §701(d)(1), amended par. (1) generally. Prior to amendment, text read asfollows: "allow covered beneficiaries to elect a health care plan from eligible health care plans designated by the Secretary of Defense; or".
 
 Subsec. (c)(2). Pub. L. 114–328, §701(j)(1)(E), added par. (2) and struck out former par. (2) which read as follows: "The Civilian Health and Medical Program of the Uniformed Services."
 

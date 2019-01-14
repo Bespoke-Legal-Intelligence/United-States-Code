@@ -8,7 +8,7 @@ From the amounts appropriated under subsection (i), the Secretary is authorized 
 
 #### (1) In general
 
-&emsp;An eligible institution seeking a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretarymay require. An eligible institution may submit an application to receive a grant under subsection (c) or (d) or both.
+&emsp;An eligible institution seeking a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. An eligible institution may submit an application to receive a grant under subsection (c) or (d) or both.
 
 #### (2) Evaluation condition
 
@@ -228,5 +228,5 @@ Subsec. (h). Pub. L. 111–39, §801(5)(C), substituted "used" for "use".
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

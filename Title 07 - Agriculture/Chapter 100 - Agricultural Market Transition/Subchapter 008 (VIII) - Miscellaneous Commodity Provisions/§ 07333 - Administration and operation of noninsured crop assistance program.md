@@ -8,25 +8,39 @@
 
 &emsp;&emsp;In the case of an eligible crop described in paragraph (2), the Secretary of Agriculture shall operate a noninsured crop disaster assistance program to provide coverages based on individual yields (other than for value-loss crops) equivalent to—
 
-&emsp;&emsp;&emsp;(i) catastrophic risk protection available under section 1508(b) of this title; or
+&emsp;&emsp;&emsp;(i) catastrophic risk protection available under section 508(b) of the Federal Crop Insurance Act (7 U.S.C. 1508(b)); or
 
-&emsp;&emsp;&emsp;(ii) except in the case of crops and grasses used for grazing, additional coverage available under subsections (c) and (h) of section 1508 of this title that does not exceed 65 percent, as described in subsection (l).
+&emsp;&emsp;&emsp;(ii) except in the case of crops and grasses used for grazing, additional coverage available under subsections (c) and (h) of section 508 of that Act (7 U.S.C. 1508) that does not exceed 65 percent, as described in subsection (l).
 
 #### (B) Administration
 
 &emsp;&emsp;The Secretary shall carry out this section through the Farm Service Agency (referred to in this section as the "Agency").
 
+#### (C) Data collection and sharing
+
+&emsp;&emsp;The Secretary shall coordinate with the Administrator of the Risk Management Agency on the type and format of data received under the noninsured crop disaster assistance program that—
+
+&emsp;&emsp;&emsp;(i) best facilitates the use of that data in developing policies or plans of insurance offered under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.); and
+
+&emsp;&emsp;&emsp;(ii) ensures the availability of that data on a regular basis.
+
+#### (D) Coordination
+
+&emsp;&emsp;The Secretary shall coordinate between the agencies of the Department that provide programs or services to farmers and ranchers that are potentially eligible for the noninsured crop disaster assistance program under this section—
+
+&emsp;&emsp;&emsp;(i) to make available coverage under—
+
+&emsp;&emsp;&emsp;&emsp;(I) the fee waiver under subsection (k)(2); or
+
+&emsp;&emsp;&emsp;&emsp;(II) the premium discount under subsection (l)(3); and
+
+&emsp;&emsp;&emsp;(ii) to share eligibility information to reduce paperwork and avoid duplication.
+
 #### (2) Eligible crops
 
 #### (A) In general
 
-&emsp;&emsp;In this section, the term "eligible crop" means each commercial crop or other agricultural commodity (except livestock)—
-
-&emsp;&emsp;&emsp;(i) for which catastrophic risk protection under section 1508(b) of this title is not available;
-
-&emsp;&emsp;&emsp;(ii) for which additional coverage under subsections (c) and (h) of section 1508 of this title is not available; and
-
-&emsp;&emsp;&emsp;(iii) that is produced for food or fiber.
+&emsp;&emsp;Subject to subparagraph (B), in this section, the term "eligible crop" means each commercial crop or other agricultural commodity that is produced for food or fiber (except livestock) for which catastrophic risk protection under subsection (b) of section 508 of the Federal Crop Insurance Act (7 U.S.C. 1508) and additional coverage under subsections (c) and (h) of such section are not available or, if such coverage is available, it is only available under a policy that provides coverage for specific intervals based on weather indexes or under a whole farm plan of insurance.
 
 #### (B) Crops specifically included
 
@@ -54,7 +68,17 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;During the first 4 crop years of planting, as determined by the Secretary, native sod acreage that has been tilled for the production of an annual crop after February 7, 2014, shall be subject to a reduction in benefits under this section as described in this subparagraph.
+#### (I) Agricultural Act of 2014
+
+&emsp;&emsp;&emsp;&emsp;During the first 4 crop years of planting, as determined by the Secretary, native sod acreage that has been tilled for the production of an annual crop during the period beginning on February 8, 2014, and ending on December 20, 2018, shall be subject to a reduction in benefits under this section as described in this subparagraph.
+
+#### (II) Subsequent years
+
+&emsp;&emsp;&emsp;&emsp;Native sod acreage that has been tilled for the production of an eligible crop after December 20, 2018, shall be subject to a reduction in benefits under this section as described in this subparagraph for not more than any 4 crop years—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) during the first 10 crop years after the initial tillage; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) during which a crop on that acreage is enrolled under subsection (l)(2) or (k).
 
 #### (ii) De minimis acreage exemption
 
@@ -64,7 +88,7 @@
 
 &emsp;&emsp;&emsp;For purposes of the reduction in benefits for the acreage described in clause (i)—
 
-&emsp;&emsp;&emsp;&emsp;(I) the approved yield shall be determined by using a yield equal to 65 percent of the transitional yield of the producer; and
+&emsp;&emsp;&emsp;&emsp;(I) the approved yield shall be determined by using a yield equal to 65 percent of the county expected yield; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the service fees or premiums for crops planted on native sod shall be equal to 200 percent of the amount determined in subsections <sup>1</sup> (l)(2) or (k), as applicable, but in no case shall exceed the amount determined in subsection (l)(2)(B)(ii).
 
@@ -76,7 +100,7 @@
 
 #### (1) Timely application
 
-&emsp;To be eligible for assistance under this section, a producer shall submit an application for noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted not later than 30 days before the beginning of the coverage period, as determined by the Secretary.
+&emsp;To be eligible for assistance under this section, a producer shall submit an application for noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted by an appropriate deadline before the beginning of the coverage period, as determined by the Secretary.
 
 #### (2) Records
 
@@ -86,11 +110,15 @@
 
 &emsp;A producer shall provide annual reports on acreage planted or prevented from being planted, as required by the Secretary, by the designated acreage reporting date for the crop and location as established by the Secretary.
 
+#### (4) Streamlined submission process
+
+&emsp;The Secretary shall establish a streamlined process for the submission of records and acreage reports under paragraphs (2) and (3) for diverse production systems such as those typical of urban production systems, other small-scale production systems, and direct-to-consumer production systems.
+
 #### (c) Loss requirements
 
 #### (1) Cause
 
-&emsp;To be eligible for assistance under this section, a producer of an eligible crop shall havesuffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3).
+&emsp;To be eligible for assistance under this section, a producer of an eligible crop shall have suffered a loss of a noninsured commodity as the result of a cause described in subsection (a)(3).
 
 #### (2) Assistance
 
@@ -114,13 +142,15 @@
 
 The Secretary shall make available to a producer eligible for noninsured assistance under this section a payment computed by multiplying—
 
-&emsp;(1) the quantity that is less than 50 percent of the established yield for the crop; by
+&emsp;(1) the producer's share of the total acres devoted to the eligible crop; by
 
-&emsp;(2)(A) in the case of each of the 1996 through 1998 crop years, 60 percent of the average market price for the crop (or any comparable coverage determined by the Secretary); or
+&emsp;(2) the quantity that is less than 50 percent of the approved yield for the crop, as determined by the Secretary; by
+
+&emsp;(3)(A) in the case of each of the 1996 through 1998 crop years, 60 percent of the average market price for the crop (or any comparable coverage determined by the Secretary); or
 
 &emsp;(B) in the case of each of the 1999 and subsequent crop years, 55 percent of the average market price for the crop (or any comparable coverage determined by the Secretary); by
 
-&emsp;(3) a payment rate for the type of crop (as determined by the Secretary) that—
+&emsp;(4) a payment rate for the type of crop (as determined by the Secretary) that—
 
 &emsp;&emsp;(A) in the case of a crop that is produced with a significant and variable harvesting expense, reflects the decreasing cost incurred in the production cycle for the crop that is—
 
@@ -136,15 +166,21 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish farm yields for purposes of providing noninsured crop disaster assistance under this section.
+&emsp;The Secretary shall establish approved yields for purposes of providing noninsured crop disaster assistance under this section.
 
 #### (2) Actual production history
 
-&emsp;The Secretary shall determine yield coverage using the actual production history of the producer over a period of not less than the 4 previous consecutive crop years and not more than 10 consecutive crop years. Subject to paragraph (3), the yield for the year in which noninsured crop disaster assistance is sought shall be equal to the average of the actual production history of the producer during the period considered.
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall determine an approved yield using the actual production history of the producer over a period of not less than the 4 previous consecutive crop years and not more than 10 consecutive crop years.
+
+#### (B) Calculation
+
+&emsp;&emsp;Subject to paragraph (3), the approved yield for the year in which noninsured crop disaster assistance is sought shall be equal to the average of the actual production history of the producer during the period considered.
 
 #### (3) Assignment of yield
 
-&emsp;If a producer does not submit adequate documentation of production history to determine a crop yield under paragraph (2), the Secretary shall assign to the producer a yield equal to not less than 65 percent of the transitional yield of the producer (adjusted to reflect actual production reflected in the records acceptable to the Secretary for continuous years), as specified in regulations issued by the Secretary based on production history requirements.
+&emsp;If a producer does not submit adequate documentation of production history to determine a crop yield under paragraph (2), the Secretary shall assign to the producer a yield equal to not less than 65 percent of the county expected yield (adjusted to reflect actual production reflected in the records acceptable to the Secretary for continuous years), as specified in regulations issued by the Secretary based on production history requirements.
 
 #### (4) Prohibition on assigned yields in certain counties
 
@@ -170,7 +206,7 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 #### (5) Limitation on receipt of subsequent assigned yield
 
-&emsp;A producer who receives an assigned yield for the current year of a natural disaster because required production records were notsubmitted to the local office of the Department shall not be eligible for an assigned yield for the year of the next natural disaster unless the required production records of the previous 1 or more years (as applicable) are provided to the local office.
+&emsp;A producer who receives an assigned yield for the current year of a natural disaster because required production records were not submitted to the local office of the Department shall not be eligible for an assigned yield for the year of the next natural disaster unless the required production records of the previous 1 or more years (as applicable) are provided to the local office.
 
 #### (6) Yield variations due to different farming practices
 
@@ -202,7 +238,11 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 #### (2) Payment limitation
 
-&emsp;The total amount of payments received, directly or indirectly, by a person or legal entity (excluding a joint venture or general partnership) for any crop year may not exceed $125,000.
+&emsp;The total amount of payments received, directly or indirectly, by a person or legal entity (excluding a joint venture or general partnership) for any crop year may not exceed—
+
+&emsp;&emsp;(A) in the case of catastrophic coverage under subsection (c), $125,000; and
+
+&emsp;&emsp;(B) in the case of additional coverage under subsection (l), $300,000.
 
 #### (3) Limitation on multiple benefits for same loss
 
@@ -234,13 +274,13 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;To be eligible to receive assistance for an eligible crop for a crop year under this section, a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1)) a service fee for the eligible crop in an amount that is equal to the lesser of—
 
-&emsp;&emsp;(A) $250 per crop per county; or
+&emsp;&emsp;(A) $325 per crop per county; or
 
-&emsp;&emsp;(B) $750 per producer per county, but not to exceed a total of $1,875 per producer.
+&emsp;&emsp;(B) $825 per producer per county, but not to exceed a total of $1,950 per producer.
 
 #### (2) Waiver
 
-&emsp;The Secretary shall waive the service fee required under paragraph (1) in the case of a limited resource, beginning, or socially disadvantaged farmer, as defined by the Secretary.
+&emsp;The Secretary shall waive the service fee required under paragraph (1) in the case of a limited resource, beginning, or socially disadvantaged farmer, as defined by the Secretary, or a veteran farmer or rancher (as defined in section 2279(a) of this title).
 
 #### (3) Use
 
@@ -250,9 +290,11 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 #### (1) In general
 
-&emsp;The Secretary shall make available noninsured assistance under this subsection (other than for crops and grasses used for grazing) at a payment amount that is equivalent to an indemnity for additional coverage under subsections (c) and (h) of section 1508 of this title and equal to the product obtained by multiplying—
+&emsp;The Secretary shall make available noninsured assistance under this subsection (other than for crops and grasses used for grazing) at a payment amount that is equivalent to an indemnity for additional coverage under subsections (c) and (h) of section 508 of the Federal Crop Insurance Act (7 U.S.C. 1508) and equal to the product obtained by multiplying—
 
-&emsp;&emsp;(A) the amount that—
+&emsp;&emsp;(A) the producer's share of the total acres devoted to the crop;
+
+&emsp;&emsp;(B) the amount that—
 
 &emsp;&emsp;&emsp;(i) the additional coverage yield, which shall be equal to the product obtained by multiplying—
 
@@ -262,9 +304,9 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;&emsp;&emsp;(ii) the actual yield;
 
-&emsp;&emsp;(B) 100 percent of the average market price for the crop, as determined by the Secretary; and
+&emsp;&emsp;(C) 100 percent of the average market price, contract price, or other premium price (such as a local, organic, or direct market price, as elected by the producer) for the crop, as determined by the Secretary; and
 
-&emsp;&emsp;(C) a payment rate for the type of crop, as determined by the Secretary, that reflects—
+&emsp;&emsp;(D) a payment rate for the type of crop, as determined by the Secretary, that reflects—
 
 &emsp;&emsp;&emsp;(i) in the case of a crop that is produced with a significant and variable harvesting expense, the decreasing cost incurred in the production cycle for the crop that is, as applicable—
 
@@ -292,9 +334,11 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;&emsp;&emsp;&emsp;(III) the coverage level elected by the producer;
 
-&emsp;&emsp;&emsp;&emsp;(IV) the average market price, as determined by the Secretary; and
+&emsp;&emsp;&emsp;&emsp;(IV) the average market price, as determined by the Secretary;
 
-&emsp;&emsp;&emsp;&emsp;(V) a 5.25-percent premium fee; or
+&emsp;&emsp;&emsp;&emsp;(V) a 5.25-percent premium fee; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) the producer's share of the crop; or
 
 &emsp;&emsp;&emsp;(ii) the product obtained by multiplying—
 
@@ -302,31 +346,15 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;&emsp;&emsp;&emsp;(II) the applicable payment limit.
 
-#### (3) Additional availability
+#### (3) Limited resource, beginning, veteran, and socially disadvantaged farmers
 
-#### (A) In general
+&emsp;The coverage made available under this subsection shall be available to limited resource, beginning, and socially disadvantaged farmers, as determined by the Secretary, and veteran farmers or ranchers (as defined in section 2279(a) of this title) in exchange for a premium that is 50 percent of the premium determined under paragraph (2).
 
-&emsp;&emsp;As soon as practicable after October 1, 2013, the Secretary shall make assistance available to producers of an otherwise eligible crop described in subsection (a)(2) that suffered losses—
-
-&emsp;&emsp;&emsp;(i) to a 2012 annual fruit crop grown on a bush or tree; and
-
-&emsp;&emsp;&emsp;(ii) in a county covered by a declaration by the Secretary of a natural disaster for production losses due to a freeze or frost.
-
-#### (B) Assistance
-
-&emsp;&emsp;The Secretary shall make assistance available under subparagraph (A) in an amount equivalent to assistance available under paragraph (1), less any fees not previously paid under paragraph (2).
-
-#### (4) Limited resource, beginning, and socially disadvantaged farmers
-
-&emsp;The coverage made available under this subsection shall be available to limited resource, beginning, and socially disadvantaged farmers, as determined by the Secretary, in exchange for a premium that is 50 percent of the premium determined under paragraph (2).
-
-#### (5) Effective date
-
-&emsp;Except as provided in paragraph (3)(A), additional coverage under this subsection shall be available for each of the 2015 through 2018 crop years.
-
-(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114 Stat. 371; Pub. L. 107–171, title X, §10101, May 13, 2002, 116 Stat. 488; Pub. L. 110–234, title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, May 22, 2008, 122 Stat. 1010, 1381, 1390; Pub. L. 110–246, §4(a), title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, June 18, 2008, 122 Stat. 1664, 1739, 2143, 2152; Pub. L. 113–79, title XI, §11014(b), title XII, §12305(a), Feb. 7, 2014, 128 Stat. 962, 986.)
+(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114 Stat. 371; Pub. L. 107–171, title X, §10101, May 13, 2002, 116 Stat. 488; Pub. L. 110–234, title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, May 22, 2008, 122 Stat. 1010, 1381, 1390; Pub. L. 110–246, §4(a), title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, June 18, 2008, 122 Stat. 1664, 1739, 2143, 2152; Pub. L. 113–79, title XI, §11014(b), title XII, §12305(a), Feb. 7, 2014, 128 Stat. 962, 986; Pub. L. 115–334, title I, §1601, title XII, §12306(f), Dec. 20, 2018, 132 Stat. 4523, 4970.)
 
 #### References in Text
+
+The Federal Crop Insurance Act, referred to in subsec. (a)(1)(C)(i), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 
 The date of enactment of this paragraph, referred to in subsec. (a)(4)(A)(ii), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -342,6 +370,56 @@ Section is comprised of section 196 of Pub. L. 104–127. Subsec. (j) of section
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a)(1)(C), (D). Pub. L. 115–334, §1601(1)(A), added subpars. (C) and (D).
+
+Subsec. (a)(2)(A). Pub. L. 115–334, §1601(1)(B), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "In this section, the term 'eligible crop' means each commercial crop or other agricultural commodity (except livestock)—
+
+&emsp;"(i) for which catastrophic risk protection under section 508(b) of the Federal Crop Insurance Act (7 U.S.C. 1508(b)) is not available;
+
+&emsp;"(ii) for which additional coverage under subsections (c) and (h) of section 508 of that Act (7 U.S.C. 1508) is not available; and
+
+&emsp;"(iii) that is produced for food or fiber."
+
+Subsec. (a)(4)(B)(i). Pub. L. 115–334, §1601(1)(C)(i), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "During the first 4 crop years of planting, as determined by the Secretary, native sod acreage that has been tilled for the production of an annual crop after February 7, 2014, shall be subject to a reduction in benefits under this section as described in this subparagraph."
+
+Subsec. (a)(4)(B)(iii)(I). Pub. L. 115–334, §1601(1)(C)(ii), substituted "county expected yield" for "transitional yield of the producer".
+
+Subsec. (b)(1). Pub. L. 115–334, §1601(2)(A), substituted "by an appropriate deadline" for "not later than 30 days".
+
+Subsec. (b)(4). Pub. L. 115–334, §1601(2)(B), added par. (4).
+
+Subsec. (d)(1). Pub. L. 115–334, §1601(3)(B), added par. (1). Former par. (1) redesignated (2).
+
+Subsec. (d)(2). Pub. L. 115–334, §1601(3)(A), (C), redesignated par. (1) as (2) and substituted "approved yield for the crop, as determined by the Secretary" for "established yield for the crop". Former par. (2) redesignated (3).
+
+Subsec. (d)(3), (4). Pub. L. 115–334, §1601(3)(A), redesignated pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (e)(1). Pub. L. 115–334, §1601(4)(A), substituted "approved yields" for "farm yields".
+
+Subsec. (e)(2). Pub. L. 115–334, §1601(4)(B), designated first and second sentences as subpars. (A) and (B), respectively, and inserted headings, substituted "an approved yield" for "yield coverage" in subpar. (A), and inserted "approved" before "yield" in subpar. (B).
+
+Subsec. (e)(3). Pub. L. 115–334, §1601(4)(C), substituted "county expected yield" for "transitional yield of the producer".
+
+Subsec. (i)(2). Pub. L. 115–334, §1601(5), substituted "exceed—" and subpars. (A) and (B) for "exceed $125,000".
+
+Subsec. (k)(1)(A). Pub. L. 115–334, §1601(6)(A), substituted "$325" for "$250".
+
+Subsec. (k)(1)(B). Pub. L. 115–334, §1601(6)(B), substituted "$825" for "$750" and "$1,950" for "$1,875".
+
+Subsec. (k)(2). Pub. L. 115–334, §12306(f)(1), inserted ", or a veteran farmer or rancher (as defined in section 2279(a) of this title)" before period at end.
+
+Subsec. (l)(1). Pub. L. 115–334, §1601(7)(A), added subpar. (A), redesignated former subpars. (A) to (C) as (B) to (D), respectively, and, in subpar. (C), inserted ", contract price, or other premium price (such as a local, organic, or direct market price, as elected by the producer)" after "market price".
+
+Subsec. (l)(2)(B)(i)(VI). Pub. L. 115–334, §1601(7)(B), added subcl. (VI).
+
+Subsec. (l)(3). Pub. L. 115–334, §12306(f)(2), inserted "veteran," after "beginning," in heading and "and veteran farmers or ranchers (as defined in section 2279(a) of this title)" after "as determined by the Secretary," in text.
+
+Pub. L. 115–334, §1601(7)(C), (D), redesignated par. (4) as (3) and struck out former par. (3) which related toadditional assistance for certain 2012 annual fruit crop losses.
+
+Subsec. (l)(4). Pub. L. 115–334, §1601(7)(D), redesignated par. (4) as (3).
+
+Subsec. (l)(5). Pub. L. 115–334, §1601(7)(C), struck out par. (5). Text read as follows: "Except as provided in paragraph (3)(A), additional coverage under this subsection shall be available for each of the 2015 through 2018 crop years."
+
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–79, §12305(a)(1)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "In the case of an eligible crop described in paragraph (2), the Secretary of Agriculture shall operate a noninsured crop disaster assistance program to provide coverage equivalent to the catastrophic risk protection otherwise available under section 1508(b) of this title. The Secretary shall carry out this section through the Consolidated Farm Service Agency (in this section referred to as the 'Agency')."
 
 Subsec. (a)(2)(A)(ii), (iii). Pub. L. 113–79, §12305(a)(1)(B)(i), added cl. (ii) and redesignated former cl. (ii) as (iii).
@@ -354,7 +432,7 @@ Subsec. (a)(4)(A)(ii). Pub. L. 113–79, §11014(b)(2), inserted " ,or the prod
 
 Subsec. (a)(4)(B). Pub. L. 113–79, §11014(b)(3)(A), substituted "Reduction in" for "Ineligibility for" in heading.
 
-Subsec. (a)(4)(B)(i). Pub. L. 113–79, §11014(b)(3)(B), added cl. (i) and struck out former cl. (i). Prior toamendment, text read as follows: "Subject to clause (ii) and subparagraph (C), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this paragraph shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
+Subsec. (a)(4)(B)(i). Pub. L. 113–79, §11014(b)(3)(B), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "Subject to clause (ii) and subparagraph (C), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this paragraph shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
 
 &emsp;"(I) this section; and
 

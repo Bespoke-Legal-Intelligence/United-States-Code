@@ -54,19 +54,31 @@ Use of previous fiscal year's apportionment.—Notwithstanding subparagraph (A),
 
 &emsp;&emsp;&emsp;(i) passenger boardings at the airport fell below 10,000 in the calendar year used to calculate the apportionment;
 
-&emsp;&emsp;&emsp;(ii) the airport had at least 10,000 passenger boardings in the calendar year priorto the calendar year used to calculate apportionments to airport sponsors in a fiscal year; and
+&emsp;&emsp;&emsp;(ii) the airport had at least 10,000 passenger boardings in the calendar year prior to the calendar year used to calculate apportionments to airport sponsors in a fiscal year; and
 
 &emsp;&emsp;&emsp;(iii) the cause of the shortfall in passenger boardings was a temporary but significant interruption in service by an air carrier to that airport due to an employment action, natural disaster, or other event unrelated to the demand for air transportation at the affected airport.
 
 &emsp;&emsp;(F)
 
-Special rule.—Notwithstanding subparagraph (A), the Secretary shall apportion to a sponsor of an airport under that subparagraph for each of fiscal years 2017 and 2018 an amount based on the number of passenger boardings at the airport during calendar year 2012 if the airport—
+Special rule for fiscal years 2018 through 2020.—Notwithstanding subparagraph (A) and subject to subparagraph (G), the Secretary shall apportion to a sponsor of an airport under that subparagraph <sup>1</sup> for each of fiscal years 2018 through 2020 an amount based on the number of passenger boardings at the airport during calendar year 2012 if the airport—
 
 &emsp;&emsp;&emsp;(i) had 10,000 or more passenger boardings during calendar year 2012;
 
-&emsp;&emsp;&emsp;(ii) had fewer than 10,000 passenger boardings during the calendar year used to calculate the apportionment for fiscal year 2017 under subparagraph (A); and
+&emsp;&emsp;&emsp;(ii) had fewer than 10,000 passenger boardings during the calendar year used to calculate the apportionment for fiscal year 2018, 2019, or 2020, as applicable, under subparagraph (A); and
 
-&emsp;&emsp;&emsp;(iii) had scheduled air service at any point during the calendar year used to calculate the apportionment for fiscal year 2017 under subparagraph (A).
+&emsp;&emsp;&emsp;(iii) had scheduled air service at any point in the calendar year used to calculate the apportionment.
+
+&emsp;&emsp;(G)
+
+Limitations and waivers.—The authority to make apportionments in the manner prescribed in subparagraph (F) may be utilized no more than 3 years in a row. The Secretary may waive this limitation if the Secretary determines that an airport's enplanements are substantially close to 10,000 enplanements and the airport sponsor or affected communities are taking reasonable steps to restore enplanements above 10,000.
+
+&emsp;&emsp;(H)
+
+Minimum apportionment for commercial service airports with more than 8,000 passenger boardings in a calendar year.—Not less than $600,000 may be apportioned under subparagraph (A) for each fiscal year to each sponsor of a commercial service airport that had fewer than 10,000 passenger boardings, but at least 8,000 passenger boardings, during the prior calendar year.
+
+&emsp;&emsp;(I)
+
+Seasonal airports.—Notwithstanding section 47102, if the Secretary determines that a commercial service airport with at least 8,000 passenger boardings receives scheduled air carrier service for fewer than 6 months in the calendar year used to calculate apportionments to airport sponsors in a fiscal year, then the Secretary shall consider the airport to be a nonhub primary airport for purposes of this chapter.
 
 (2)
 
@@ -136,25 +148,31 @@ Special rule.—In any fiscal year in which the total amount made available unde
 
 &emsp;&emsp;&emsp;(iii) Except as provided in paragraph (4), 49.69 percent of the remaining amount for airports, excluding primary airports but including reliever and nonprimary commercial service airports, in States not named in clause (i) in the proportion that the area of each of those States bears to the total area of all of those States.
 
+&emsp;&emsp;(C) During fiscal years 2019 and 2020—
+
+&emsp;&emsp;&emsp;(i) an airport that accrued apportionment funds under subparagraph (A) in fiscal year 2013 that is listed as having an unclassified status under the most recent national plan of integrated airport systems shall continue to accrue apportionment funds under subparagraph (A) at the same amount the airport accrued apportionment funds in fiscal year 2013, subject to the conditions of this paragraph;
+
+&emsp;&emsp;&emsp;(ii) notwithstanding the period of availability as described in section 47117(b), an amount apportioned to an airport under clause (i) shall be available to the airport only during the fiscal year in which the amount is apportioned; and
+
+&emsp;&emsp;&emsp;(iii) notwithstanding the waiver permitted under section 47117(c)(2), an airport receiving apportionment funds under clause (i) may not waive its claim to any part of the apportioned funds in order to make the funds available for a grant for another public-use airport.
+
+&emsp;&emsp;(D) An airport that re-establishes its classified status shall be eligible to accrue apportionment funds pursuant to subparagraph (A) so long as such airport retains its classified status.
+
 &emsp;(4)
 
 Airports in alaska, puerto rico, and hawaii.—An amount apportioned under paragraph (2) or (3) to Alaska, Puerto Rico, or Hawaii for airports in such State may be made available by the Secretary for any public airport in those respective jurisdictions.
 
 &emsp;(5)
 
-Use of state highway specifications.—
+Use of state highway specifications.—The Secretary shall use the highway specifications of a State for airfield pavement construction and improvement using funds made available under this subsection at nonprimary airports serving aircraft that do not exceed 60,000 pounds gross weight if—
 
-&emsp;&emsp;(A)
+&emsp;&emsp;(A) such State requests the use of such specifications; and
 
-In general.—The Secretary may permit the use of State highway specifications for airfield pavement construction using funds made available under this subsection at nonprimary airports with runways of 5,000 feet or shorter serving aircraft that do not exceed 60,000 pounds gross weight if the Secretary determines that—
+&emsp;&emsp;(B) the Secretary determines that—
 
 &emsp;&emsp;&emsp;(i) safety will not be negatively affected; and
 
-&emsp;&emsp;&emsp;(ii) the life of the pavement will not be shorter than it would be if constructed using Administration standards.
-
-&emsp;&emsp;(B)
-
-Limitation.—An airport may not seek funds under this subchapter for runway rehabilitation or reconstruction of any such airfield pavement constructed using State highway specifications for a period of 10 years after construction is completed unless the Secretary determines that the rehabilitation or reconstruction is required for safety reasons.
+&emsp;&emsp;&emsp;(ii) the life of the pavement, with necessary maintenance and upkeep, will not be shorter than it would be if constructed using Administration standards.
 
 &emsp;(6)
 
@@ -240,7 +258,7 @@ Effective period.—Subparagraph (A) shall be in effect for fiscal year 2004.
 
 Supplemental Apportionment for Puerto Rico and United States Territories.—The Secretary shall apportion amounts for airports in Puerto Rico and all other United States territories in accordance with this section. This subsection does not prohibit the Secretary from making project grants for airports in Puerto Rico or other United States territories from the discretionary fund under section 47115.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(66), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §121, Oct. 9, 1996, 110 Stat. 3217; Pub. L. 106–181, title I, §§104(a)–(d), 105(c), Apr. 5, 2000, 114 Stat. 67–71; Pub. L. 108–176, title I, §§146, 147, Dec. 12, 2003, 117 Stat. 2504; Pub. L. 109–115, div. A, title I, §109, Nov. 30, 2005, 119 Stat. 2402; Pub. L. 112–95, title I, §§111(c)(2)(A)(iii), 141–143, Feb. 14, 2012, 126 Stat. 18, 28, 29; Pub. L. 114–190, title II, §2301, July 15, 2016, 130 Stat. 638; Pub. L. 115–63, title I, §102(b), Sept. 29, 2017, 131 Stat. 1169.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(66), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §121, Oct. 9, 1996, 110 Stat. 3217; Pub. L. 106–181, title I, §§104(a)–(d), 105(c), Apr. 5, 2000, 114 Stat. 67–71; Pub. L. 108–176, title I, §§146, 147, Dec. 12, 2003, 117 Stat. 2504; Pub. L. 109–115, div. A, title I, §109, Nov. 30, 2005, 119 Stat. 2402; Pub. L. 112–95, title I, §§111(c)(2)(A)(iii), 141–143, Feb. 14, 2012, 126 Stat. 18, 28, 29; Pub. L. 114–190, title II, §2301, July 15, 2016, 130 Stat. 638; Pub. L. 115–63, title I, §102(b), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–254, div. B, title I, §§136, 148(b), 151, 164, Oct. 5, 2018, 132 Stat. 3210, 3214, 3215, 3225.)
 
 Historical and Revision Notes
 
@@ -349,6 +367,26 @@ Section 15(a) of the Airport and Airway Development Act of 1970, referred to in 
 
 #### Amendments
 
+<b>2018</b>—Subsec. (c)(1)(F) to (H). Pub. L. 115–254, §151, added subpars. (F) to (H) and struck out former subpar. (F) which related to apportionment of funds for fiscal years 2017 and 2018 to sponsors of primary airports.
+
+Subsec. (c)(1)(I). Pub. L. 115–254, §164, added subpar. (I).
+
+Subsec. (d)(3)(C), (D). Pub. L. 115–254, §148(b), added subpars. (C) and (D).
+
+Subsec. (d)(5). Pub. L. 115–254, §136, amended par. (5) generally. Prior to amendment, text read as follows:
+
+"(A)
+
+In general.—The Secretary may permit the use of State highway specifications for airfield pavement construction using funds made available under this subsection at nonprimary airports with runways of 5,000 feet or shorter serving aircraft that do not exceed 60,000 pounds gross weight if the Secretary determines that—
+
+&emsp;"(i) safety will not be negatively affected; and
+
+&emsp;"(ii) the life of the pavement will not be shorter than it would be if constructed using Administration standards.
+
+"(B)
+
+Limitation.—An airport may not seek funds under this subchapter for runway rehabilitation or reconstruction of any such airfield pavement constructed using State highway specifications for a period of 10 years after construction is completed unless the Secretary determines that the rehabilitation or reconstruction is required for safety reasons."
+
 <b>2017</b>—Subsec. (c)(1)(F). Pub. L. 115–63 struck out "for fiscal year 2017" after "rule" in heading and substituted "for each of fiscal years 2017 and 2018 an amount" for "for fiscal year 2017 an amount" in introductory provisions.
 
 <b>2016</b>—Subsec. (c)(1)(F). Pub. L. 114–190 amended subpar. (F) generally. Prior to amendment, text read as follows: "Notwithstanding subparagraph (A), for an airport that had more than 10,000 passenger boardings and scheduled passenger aircraft service in calendar year 2007, but in either calendar year 2009 or 2010, or in both years, the number of passenger boardings decreased to a level below 10,000 boardings per year at such airport, the Secretary may apportion in each of fiscal years 2012 and 2013 to the sponsor of such airport an amount equal to the amount apportioned to that sponsor in fiscal year 2009."
@@ -405,7 +443,7 @@ Subsec. (e)(1). Pub. L. 106–181, §104(d)(2), (5), inserted heading, realigned
 
 Subsec. (e)(2). Pub. L. 106–181, §104(d)(3), (5), inserted heading and realigned margins.
 
-Subsec. (e)(3), (4). Pub. L. 106–181, §104(d)(4), added pars. (3) and (4) and struck out former par. (3) which read as follows: "Airports referred to in this subsection include those public airports that received scheduled service as of September 3, 1982, but were not apportioned amounts in the fiscal year ending September 30, 1980, under section 15(a) of the Act because the airports were not under the control of a State or local public agency."
+Subsec. (e)(3), (4). Pub. L. 106–181, §104(d)(4), added pars. (3) and (4) and struck out former par. (3) which read as follows: "Airports referred to in this subsectioninclude those public airports that received scheduled service as of September 3, 1982, but were not apportioned amounts in the fiscal year ending September 30, 1980, under section 15(a) of the Act because the airports were not under the control of a State or local public agency."
 
 Subsec. (f). Pub. L. 106–181, §105(c), designated existing provisions as par. (1), inserted heading, realigned margins, substituted "Subject to paragraph (3), an amount" for "An amount" and "an amount equal to—" and subpars. (A) and (B) for "an amount equal to 50 percent of the projected revenues from the fee in the fiscal year but not by more than 50 percent of the amount that otherwise would be apportioned under this section.", and added pars. (2) and (3).
 
@@ -423,7 +461,7 @@ Subsec. (c)(3). Pub. L. 104–264, §121(a)(3), struck out par. (3) which read a
 
 "(3)(A) Except as provided in subparagraph (B) of this paragraph, the total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 49.5 percent of the amount subject to apportionment for a fiscal year. If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection, the Secretary shall reduce proportionately the amount apportioned to each sponsor of an airport under paragraphs (1) and (2) until the 49.5 percent limit is achieved.
 
-"(B) If a law limits the amount subject to apportionment to less than $1,900,000,000 for a fiscal year, thetotal of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 44 percent of the amount subject to apportionment for that fiscal year. If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection, the Secretary shall reduce proportionately the amount apportioned to each sponsor of an airport under paragraphs (1) and (2) until the 44 percent limit is achieved."
+"(B) If a law limits the amount subject to apportionment to less than $1,900,000,000 for a fiscal year, the total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 44 percent of the amount subject to apportionment for that fiscal year. If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection, the Secretary shall reduce proportionately the amount apportioned to each sponsor of an airport under paragraphs (1) and (2) until the 44 percent limit is achieved."
 
 Subsec. (d)(2). Pub. L. 104–264, §121(b)(1), substituted "18.5" for "12" in introductory provisions.
 
@@ -466,4 +504,6 @@ Pub. L. 107–71, title I, §119(b), Nov. 19, 2001, 115 Stat. 629, provided that
 &emsp;"(2) the number of passenger boardings at that airport during 2001."
 
 \[For definition of "airport" used in section 119(b) of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.\]
+
+<i><sup>1</sup></i><i> So in original. Probably means "subparagraph (A)".</i>
 

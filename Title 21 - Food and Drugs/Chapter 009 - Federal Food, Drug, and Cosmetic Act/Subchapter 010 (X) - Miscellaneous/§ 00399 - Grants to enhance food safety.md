@@ -54,7 +54,7 @@ The Secretary is authorized to make grants to eligible entities to—
 
 #### (c) Limitations
 
-The funds provided under subsection (a) shall be available to an eligible entity that receives a grant under this section only to the extent such entity funds the food safety programs of such entity independently of any grant under this section in each year of the grant at a level equal to the level of such funding in the previous year, increased by the Consumer Price Index. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in-kind, fairly evaluated, including plant, equipment, or services.
+The funds provided under subsection (a) shall be available to an eligible entity that receives a grant under this section only to the extent such entity funds the food safety programs of suchentity independently of any grant under this section in each year of the grant at a level equal to the level of such funding in the previous year, increased by the Consumer Price Index. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in-kind, fairly evaluated, including plant, equipment, or services.
 
 #### (d) Additional authority
 
@@ -100,5 +100,5 @@ The FDA Food Safety Modernization Act, referred to in subsec. (f), is Pub. L. 11
 
 #### Construction of 2011 Amendment
 
-Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, toalter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
+Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 

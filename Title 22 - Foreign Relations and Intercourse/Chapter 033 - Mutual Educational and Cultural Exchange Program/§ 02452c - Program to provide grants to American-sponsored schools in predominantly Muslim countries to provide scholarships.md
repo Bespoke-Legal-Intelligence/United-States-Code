@@ -4,7 +4,7 @@
 
 Congress makes the following findings:
 
-&emsp;(1) During the 2003–2004 school year, the Office of Overseas Schools of the Department ofState is financially assisting 189 elementary and secondary schools in foreign countries.
+&emsp;(1) During the 2003–2004 school year, the Office of Overseas Schools of the Department of State is financially assisting 189 elementary and secondary schools in foreign countries.
 
 &emsp;(2) United States-sponsored elementary and secondary schools are located in more than 20 countries with predominantly Muslim populations in the Near East, Africa, South Asia, Central Asia, and East Asia.
 
@@ -30,7 +30,7 @@ For purposes of the program, a United States-sponsored elementary and secondary 
 
 #### (e) Restriction on use of funds
 
-Amounts appropriated to the Secretary of State pursuant to the authorization of appropriations in subsection (h) shall be used for the sole purpose of making grants under this section, and may not be used for the administration of the Office of Overseas Schools of the Department of State or for any other activity of the Office.
+Amounts appropriated to the Secretary of State pursuant to the authorization of appropriations in subsection (h) shall be used for the sole purpose of making grants under this section, and may not be used for the administrationof the Office of Overseas Schools of the Department of State or for any other activity of the Office.
 
 #### (f) Voluntary participation
 

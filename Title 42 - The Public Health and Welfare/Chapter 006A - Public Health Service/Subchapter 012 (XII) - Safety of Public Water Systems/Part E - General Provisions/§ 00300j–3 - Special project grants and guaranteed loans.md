@@ -4,7 +4,7 @@
 
 The Administrator may make grants to any person for the purposes of—
 
-&emsp;(1) assisting in the development and demonstration (including construction) of anyproject which will demonstrate a new or improved method, approach, or technology, for providing a dependably safe supply of drinking water to the public; and
+&emsp;(1) assisting in the development and demonstration (including construction) of any project which will demonstrate a new or improved method, approach, or technology, for providing a dependably safe supply of drinking water to the public; and
 
 &emsp;(2) assisting in the development and demonstration (including construction) of any project which will investigate and demonstrate health implications involved in the reclamation, recycling, and reuse of waste waters for drinking and the processes and methods for the preparation of safe and acceptable drinking water.
 
@@ -22,7 +22,7 @@ Grants made by the Administrator under this section shall be subject to the foll
 
 #### (c) Authorization of appropriations
 
-For the purposes of making grants under subsections (a) and (b) of this section there are authorized to be appropriated $7,500,000 for the fiscal year ending June 30, 1975; and $7,500,000 for the fiscal year ending June 30, 1976; and $10,000,000 for the fiscal year ending June 30, 1977.
+For the purposes of making grants under subsections (a) and (b) of this section there are authorized to be appropriated $7,500,000 for the fiscal year ending June 30, 1975; and $7,500,000 for the fiscal year ending June 30, 1976; and$10,000,000 for the fiscal year ending June 30, 1977.
 
 #### (d) Loan guarantees to public water systems; conditions; indebtedness limitation; regulations
 

@@ -6,7 +6,7 @@
 
 (b)(1) Except as provided in paragraphs (2) and (3) of this subsection and in section 1521(i) of this title, the receipt of pension, compensation, or dependency and indemnity compensation by a surviving spouse, child, or parent on account of the death of any person, or receipt by any person of pension or compensation on account of such person's own service, shall not bar the payment of pension, compensation, or dependency and indemnity compensation on account of the death or disability of any other person.
 
-(2) Benefits other than insurance under laws administered by the Secretary may not be paid or furnished to or on account of any child byreason of the death of more than one parent in the same parental line; however, the child may elect one or more times to receive benefits by reason of the death of any one of such parents.
+(2) Benefits other than insurance under laws administered by the Secretary may not be paid or furnished to or on account of any child by reason of the death of more than one parent in the same parental line; however, the child may elect one or more times to receive benefits by reason of the death of any one of such parents.
 
 (3) Benefits other than insurance under laws administered by the Secretary may not be paid to any person by reason of the death of more than one person to whom such person was married; however, the person may elect one or more times to receive benefits by reason of the death of any one spouse.
 
@@ -16,7 +16,7 @@
 
 (2) The Secretary shall collect any reduction under paragraph (1) from amounts otherwise payable to the person under this title, including pension and compensation payable under this title, before any pension and compensation payments under this title may be paid to the person.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1230, §3104; Pub. L. 86–495, §1, June 8, 1960, 74 Stat. 163; Pub. L. 88–664, §9, Oct. 13, 1964, 78 Stat. 1096; Pub. L. 91–376, §6, Aug. 12, 1970, 84 Stat. 790; Pub. L. 95–588, title III, §304, Nov. 4, 1978, 92 Stat. 2507; Pub. L. 96–385, title V, §503(a), Oct. 7, 1980, 94 Stat. 1534; Pub. L. 99–576, title VII, §701(71), Oct. 28, 1986, 100 Stat. 3297; renumbered §5304 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(1), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 108–454, title III, §308(a), Dec. 10, 2004, 118 Stat. 3614; Pub. L. 114–92, div. A, title VI, §633(b), Nov. 25, 2015, 129 Stat. 850.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1230, §3104; Pub. L. 86–495, §1, June 8, 1960, 74 Stat. 163; Pub. L. 88–664, §9, Oct. 13, 1964, 78 Stat. 1096; Pub. L. 91–376, §6, Aug. 12, 1970, 84 Stat. 790; Pub. L. 95–588, title III, §304, Nov. 4, 1978, 92 Stat. 2507; Pub. L. 96–385, title V, §503(a), Oct. 7, 1980, 94Stat. 1534; Pub. L. 99–576, title VII, §701(71), Oct. 28, 1986, 100 Stat. 3297; renumbered §5304 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(1), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 108–454, title III, §308(a), Dec. 10, 2004, 118 Stat. 3614; Pub. L. 114–92, div. A, title VI, §633(b), Nov. 25, 2015, 129 Stat. 850.)
 
 #### Amendments
 

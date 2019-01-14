@@ -36,7 +36,7 @@ Treatment of Amounts Corresponding to the Value of Property Purchased With Nonap
 
 (d)
 
-OMB Review of Proposed Overseas Basing Settlements.—(1) The Secretary of Defense may not enter into an agreement of settlement with a host country regarding the release to the host country of improvements made by the United States to facilities at an installation located in the host country until 30 days after the date on which the Secretary submits the proposed settlement to the Director of the Office of Management and Budget. The prohibition set forth in the preceding sentence shall apply only to agreements of settlement for improvements having a value in excess of $10,000,000. The Director shall evaluate the overall equity of the proposed settlement. In evaluating the proposed settlement, the Director shall consider such factors as the extent of the United States capital investment in the improvements being releasedto the host country, the depreciation of the improvements, the condition of the improvements, and any applicable requirements for environmental remediation or restoration at the installation.
+OMB Review of Proposed Overseas Basing Settlements.—(1) The Secretary of Defense may not enter into an agreement of settlement with a host country regarding the release to the host country of improvements made by theUnited States to facilities at an installation located in the host country until 30 days after the date on which the Secretary submits the proposed settlement to the Director of the Office of Management and Budget. The prohibition set forth in the preceding sentence shall apply only to agreements of settlement for improvements having a value in excess of $10,000,000. The Director shall evaluate the overall equity of the proposed settlement. In evaluating the proposed settlement, the Director shall consider such factors as the extent of the United States capital investment in the improvements being released to the host country, the depreciation of the improvements, the condition of the improvements, and any applicable requirements for environmental remediation or restoration at the installation.
 
 (2) Each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on each proposed agreement of settlement that was not submitted by the Secretary to the Director of the Office of Management and Budget in the previous year under paragraph (1) because the fair market value of the improvements to be released pursuant to the proposed agreement did not exceed $10,000,000.
 
@@ -96,7 +96,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term "fair market value of the improvements" means the value of improvements determined by the Secretary of Defense on the basis of their highest use.
 
-&emsp;(2) The term "improvements" includes new construction of facilities and all additions, improvements, modifications, or renovations made to existing facilities or to real property, without regard to whether they were carried out with appropriated or nonappropriated funds.
+&emsp;(2) The term "improvements" includes new construction of facilities and all additions, improvements, modifications, or renovationsmade to existing facilities or to real property, without regard to whether they were carried out with appropriated or nonappropriated funds.
 
 &emsp;(3) The term "nonappropriated funds" means funds received from—
 
@@ -104,7 +104,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) a nonappropriated fund instrumentality.
 
-&emsp;(4) The term "nonappropriated fund instrumentality" means an instrumentality of the United States under the jurisdiction of thearmed forces (including the Army and Air Force Exchange Service, the Navy Resale and Services Support Office, and the Marine Corps exchanges) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces.
+&emsp;(4) The term "nonappropriated fund instrumentality" means an instrumentality of the United States under the jurisdiction of the armed forces (including the Army and Air Force Exchange Service, the Navy Resale and Services Support Office, and the Marine Corps exchanges) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces.
 
 (Added Pub. L. 111–84, div. B, title XXVIII, §2822(a)(1), Oct. 28, 2009, 123 Stat. 2665; amended Pub. L. 111–383, div. A, title X, §1075(b)(44), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. A, title X, §1076(f)(34), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 113–66, div. B, title XXVIII, §2807(a), Dec. 26, 2013, 127 Stat. 1008; Pub. L. 113–291, div. B, title XXVIII, §2803(a), Dec. 19, 2014, 128 Stat. 3696; Pub. L. 114–92, div. A, title X, §1081(a)(11), (b)(7), Nov. 25, 2015, 129 Stat. 1001, 1002; Pub. L. 114–328, div. B, title XXVIII, §2811(a), (c), Dec. 23, 2016, 130 Stat. 2715, 2716; Pub. L. 115–91, div. A, title X, §1081(d)(15), Dec. 12, 2017, 131 Stat. 1600.)
 

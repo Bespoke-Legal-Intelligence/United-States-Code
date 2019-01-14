@@ -42,7 +42,7 @@
 
 #### (ii) Timely transmittal
 
-&emsp;&emsp;&emsp;Any plan amendment that eliminates or restricts eligibility or benefits under the plan shall not be effective for longer than a 60-day period unless the amendment has been transmitted to the Secretary before the end of such period.
+&emsp;&emsp;&emsp;Any plan amendment that eliminates or restricts eligibility or benefits under theplan shall not be effective for longer than a 60-day period unless the amendment has been transmitted to the Secretary before the end of such period.
 
 #### (C) Other amendments
 

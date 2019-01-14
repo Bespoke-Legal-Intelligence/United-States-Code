@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(D) No exports may be permitted to the agency of any goods or technologies controlled for national security reasons under the Export Administration Regulations, except that such prohibition shall not apply to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 (\[50 U.S.C. 3091 et seq.\]; relating to congressional oversight of intelligence activities).
 
-&emsp;&emsp;(E) The United States shall oppose any loan or financial or technical assistance to the agency by international financial institutions in accordance with section 262d of this title.
+&emsp;&emsp;(E) The United States shall oppose any loan or financial or technical assistance tothe agency by international financial institutions in accordance with section 262d of this title.
 
 &emsp;&emsp;(F) The United States shall deny to the agency any credit or financial assistance by any department, agency, or instrumentality of the United States Government, except that this paragraph shall not apply—
 
@@ -110,7 +110,7 @@ The National Security Act of 1947, referred to in subsec. (b)(1)(D), (F)(i), is 
 
 Section 1501 of the National Defense Authorization Act for Fiscal Year 1997, referred to in subsec. (b)(2), is section 1501 of Pub. L. 104–201, which was formerly set out as a note under section 2362 of Title 50, War and National Defense, and was repealed by Pub. L. 113–291, div. A, title XIII, §1351(5), Dec. 19, 2014, 128 Stat. 3607.
 
-The Atomic Energy Defense Act, referred to in subsec. (b)(2), is div. D of Pub. L. 107–314, as added Pub. L. 108–136, div. C, title XXXI, §3141(b), Nov. 24, 2003, 117 Stat. 1753, which is classified generally to chapter 42 (§2501 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 50 and Tables.
+The Atomic Energy Defense Act, referred to in subsec. (b)(2), is div. D of Pub. L. 107–314, as added Pub. L.108–136, div. C, title XXXI, §3141(b), Nov. 24, 2003, 117 Stat. 1753, which is classified generally to chapter 42 (§2501 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 50 and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "2362".</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Post-critical decision 2 changes
 
-After the date on which a plant project specifically authorized by law and carried out under Department of Energy Order 413.3B (relating to program management and project management for the acquisition of capital assets), or a successor order, achieves critical decision 2, the Administrator may not change the requirements for such project if such change increases the cost of such project by more than the lesser of $5,000,000 or 15 percent, unless—
+After the date on which a plant project specifically authorized by law and carried out under Department of Energy Order 413.3B (relating toprogram management and project management for the acquisition of capital assets), or a successor order, achieves critical decision 2, the Administrator may not change the requirements for such project if such change increases the cost of such project by more than the lesser of $5,000,000 or 15 percent, unless—
 
 &emsp;(1) the Administrator submits to the congressional defense committees—
 

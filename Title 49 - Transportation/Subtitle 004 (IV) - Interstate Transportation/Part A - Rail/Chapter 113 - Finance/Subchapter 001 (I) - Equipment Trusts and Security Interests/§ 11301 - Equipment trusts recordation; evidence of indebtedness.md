@@ -2,7 +2,7 @@
 
 (a) A mortgage (other than a mortgage under chapter 313 of title 46), lease, equipment trust agreement, conditional sales agreement, or other instrument evidencing the mortgage, lease, conditional sale, or bailment of or security interest in vessels, railroad cars, locomotives, or other rolling stock, or accessories used on such railroad cars, locomotives, or other rolling stock (including superstructures and racks), intended for a use related to interstate commerce shall be filed with the Board in order to perfect the security interest that is the subject of such instrument. An assignment of a right or interest under one of those instruments and an amendment to that instrument or assignment including a release, discharge, or satisfaction of any part of it shall also be filed with the Board. The instrument, assignment, or amendment must be in writing, executed by the parties to it, and acknowledged or verified under Board regulations. When filed under this section, that document is notice to, and enforceable against, all persons. A document filed under this section does not have to be filed, deposited, registered, or recorded under another law of the United States, a State (or its political subdivisions), or territory or possession of the United States, related to filing, deposit, registration, or recordation of those documents. This section does not change chapter 313 of title 46.
 
-(b) The Board shall maintain a system for recording each document filed under subsection (a) of this section and mark each of them with a consecutive number and the date and hour of their recordation. The Board shall maintain and keep open for public inspection an index of documents filed under that subsection. That index shall include the name and address of the principal debtors, trustees, guarantors, and other parties to those documents and may include other facts that will assist in determining the rights of the parties to those transactions.
+(b) The Board shall maintain a system for recording each document filed under subsection (a) of this section and mark each of them with a consecutive number and the date and hour of their recordation. The Board shall maintain and keep open for public inspection an index of documents filed under that subsection. That index shall include the name and address of the principal debtors, trustees, guarantors, and other parties to those documents and may includeother facts that will assist in determining the rights of the parties to those transactions.
 
 (c) The Board may to the greatest extent practicable perform its functions under this section through contracts with private sector entities.
 
@@ -40,7 +40,7 @@ Section 11304, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1431; Pub. L. 96–258,
 
 #### Effective Date
 
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 
 #### Abolition of Interstate Commerce Commission
 

@@ -50,7 +50,7 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 &emsp;(2) prohibiting nongovernmental researchers and policy analysts from accessing personally identifiable information;
 
-&emsp;(3) creating a disclosure form for students and potential students that is distributed when such students complete the common financial reporting form under section 1090 of this title, and as a part of the exit counseling process under section 1092(b) of this title, that—
+&emsp;(3) creating a disclosure form for students and potential students that is distributedwhen such students complete the common financial reporting form under section 1090 of this title, and as a part of the exit counseling process under section 1092(b) of this title, that—
 
 &emsp;&emsp;(A) informs the students that any subchapter IV grant or loan the students receive will be included in the National Student Loan Data System, and instructs the students on how to access that information;
 
@@ -64,7 +64,7 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 &emsp;&emsp;(F) includes other information as determined appropriate by the Secretary;
 
-&emsp;(4) requiring guaranty agencies, eligible lenders, and eligible institutions of highereducation that enter into an agreement with a potential student, student, or parent of such student regarding a loan under part B, D, or E, to inform the student or parent that such loan shall be—
+&emsp;(4) requiring guaranty agencies, eligible lenders, and eligible institutions of higher education that enter into an agreement with a potential student, student, or parent of such student regarding a loan under part B, D, or E, to inform the student or parent that such loan shall be—
 
 &emsp;&emsp;(A) submitted to the data system; and
 
@@ -146,7 +146,7 @@ The Secretary shall integrate the National Student Loan Data System with the Pel
 
 #### References in Text
 
-The Peace Corps Act, referred to in subsec. (a)(5), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 etseq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (a)(5), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 

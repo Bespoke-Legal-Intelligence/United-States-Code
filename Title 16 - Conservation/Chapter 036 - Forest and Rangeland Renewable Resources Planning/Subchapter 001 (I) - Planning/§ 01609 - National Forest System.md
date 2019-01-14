@@ -6,7 +6,7 @@ Congress declares that the National Forest System consists of units of federally
 
 #### (b) Location of Forest Service offices
 
-The on-the-ground field offices, field supervisory offices, and regional offices of the Forest Service shall be so situated as to provide the optimum level of convenient, useful services to the public, giving priority to the maintenance and location of facilities in rural areas and townsnear the national forest and Forest Service program locations in accordance with the standards in section 2204b–1(b) of title 7.
+The on-the-ground field offices, field supervisory offices, and regional offices of the Forest Service shall be so situated as to provide the optimum level of convenient, useful services to the public, giving priority to the maintenance and location of facilities in rural areas and towns near the national forest and Forest Service program locations in accordance with the standards in section 2204b–1(b) of title 7.
 
 (Pub. L. 93–378, §11, formerly §10, Aug. 17, 1974, 88 Stat. 480, renumbered §11 and amended Pub. L. 94–588, §§2, 9, Oct. 22, 1976, 90 Stat. 2949, 2957.)
 
@@ -26,7 +26,7 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 #### Land Conveyances Involving Joliet Army Ammunition Plant, Illinois
 
-Pub. L. 104–106, div. B, title XXIX, Feb. 10, 1996, 110 Stat. 594, as amended by Pub. L. 106–65, div. B, title XXVIII, §2842, Oct. 5, 1999, 113 Stat. 863; Pub. L. 113–291, div. B, title XXVIII, §2838, Dec. 19, 2014, 128 Stat. 3710, provided that title XXIX could be cited as the "Illinois Land Conservation Act of 1995" and provided for conversion of Joliet Army Ammunition Plant to Midewin National Tallgrass Prairie, Illinois, to be managed by the Secretary of Agriculture as part of National Forest System, and for conveyance of certain real property at the Arsenal for a national cemetery, a Will County, Illinois, landfill, and industrial parks to replace all or a part of lost economic activity, with provisions prohibiting construction of title XXIX to restrict or lessen degree of cleanup required to be carried out under environmental laws, and provisions authorizing retention of real property used for environmental cleanup by Secretary of the Army until transfer occurs.
+Pub. L. 104–106, div. B, title XXIX, Feb. 10, 1996, 110 Stat. 594, as amended by Pub. L. 106–65, div. B, title XXVIII, §2842, Oct. 5, 1999, 113 Stat. 863; Pub. L. 113–291, div. B, title XXVIII, §2838, Dec. 19, 2014, 128 Stat. 3710; Pub. L. 115–232, div. B, title XXVIII, §2848, Aug. 13, 2018, 132 Stat. 2279, provided that title XXIX could be citedas the "Illinois Land Conservation Act of 1995" and provided for conversion of Joliet Army Ammunition Plant to Midewin National Tallgrass Prairie, Illinois, to be managed by the Secretary of Agriculture as part of National Forest System, and for conveyance of certain real property at the Arsenal for a national cemetery, a Will County, Illinois, landfill, and industrial parks to replace all or a part of lost economic activity, with provisions prohibiting construction of title XXIX to restrict or lessen degree of cleanup required to be carried out under environmental laws, and provisions authorizing retention of real property used for environmental cleanup by Secretary of the Army until transfer occurs.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

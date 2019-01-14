@@ -164,7 +164,7 @@ Pub. L. 105–33, title IV, §4507(b), Aug. 5, 1997, 111 Stat. 441, provided tha
 
 &emsp;"(1) analyses regarding—
 
-&emsp;&emsp;"(A) the fiscal impact of such contracts on total Federal expenditures under title XVIII of the SocialSecurity Act \[42 U.S.C. 1395 et seq.\] and on out-of-pocket expenditures by medicare beneficiaries for health services under such title; and
+&emsp;&emsp;"(A) the fiscal impact of such contracts on total Federal expenditures under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] and on out-of-pocket expenditures by medicare beneficiaries for health services under such title; and
 
 &emsp;&emsp;"(B) the quality of the health services provided under such contracts; and
 

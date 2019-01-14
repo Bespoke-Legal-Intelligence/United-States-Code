@@ -30,11 +30,11 @@ An entity seeking a grant under this section shall submit an application to the 
 
 #### (d) Use of funds
 
-An entity that receives a grant under this section for a family violence, domestic violence,and dating violence service or community-based program described in subsection (a)—
+An entity that receives a grant under this section for a family violence, domestic violence, and dating violence service or community-based program described in subsection (a)—
 
 &emsp;(1) shall use the funds made available through the grant—
 
-&emsp;&emsp;(A) to provide direct counseling, appropriate services consistent with subsection (c)(2), or advocacy on behalf of victims of family violence, domestic violence, or dating violence and their children, including coordinating services with services provided by the child welfare system;
+&emsp;&emsp;(A) to provide direct counseling, appropriate services consistent with subsection (c)(2), or advocacy on behalf of victims offamily violence, domestic violence, or dating violence and their children, including coordinating services with services provided by the child welfare system;
 
 &emsp;&emsp;(B) to provide services for nonabusing parents to support those parents' roles as caregivers and their roles in responding to the social, emotional, and developmental needs of their children; and
 

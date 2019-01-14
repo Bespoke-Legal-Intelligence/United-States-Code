@@ -34,7 +34,7 @@ Responsibilities of the Federal Departments and Agencies
 
 (a) Each department and agency of the Executive Branch shall take appropriate action to facilitate, preserve and strengthen women's business enterprise and to ensure full participation by women in the free enterprise system.
 
-(b) Each department and agency shall take affirmative action in support of women's business enterprise inappropriate programs and activities including but not limited to:
+(b) Each department and agency shall take affirmative action in support of women's business enterprise in appropriate programs and activities including but not limited to:
 
 (1) management, technical, financial and procurement assistance,
 

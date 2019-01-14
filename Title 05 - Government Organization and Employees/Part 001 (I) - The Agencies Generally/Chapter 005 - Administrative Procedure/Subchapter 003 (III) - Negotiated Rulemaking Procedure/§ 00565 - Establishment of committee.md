@@ -20,7 +20,7 @@ Membership.—The agency shall limit membership on a negotiated rulemaking commi
 
 Administrative Support.—The agency shall provide appropriate administrative support to the negotiated rulemaking committee, including technical assistance.
 
-(Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4972, §585; renumbered §565 and amendedPub. L. 102–354, §3(a)(2), (3), Aug. 26, 1992, 106 Stat. 944.)
+(Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4972, §585; renumbered §565 and amended Pub. L. 102–354, §3(a)(2), (3), Aug. 26, 1992, 106 Stat. 944.)
 
 #### References in Text
 

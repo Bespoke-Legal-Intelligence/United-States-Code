@@ -56,7 +56,7 @@ Covered procurement action.—The term 'covered procurement action' means any of
 
 &emsp;&emsp;"(B) The exclusion of a source that fails to achieve an acceptable rating with regard to an evaluation factor providing for the consideration of supply chain risk in the evaluation of proposals for the award of a contract or the issuance of a task or delivery order.
 
-&emsp;&emsp;"(C) The decision to withhold consent for a contractor to subcontract with a particular source or to direct a contractor for a covered system to exclude a particular source from consideration for a subcontract under the contract.
+&emsp;&emsp;"(C) The decision to withhold consent for a contractor to subcontract with a particular source orto direct a contractor for a covered system to exclude a particular source from consideration for a subcontract under the contract.
 
 &emsp;"(5)
 
@@ -106,7 +106,7 @@ Effective Date.—The requirements of this section shall take effect on the date
 
 "(g)
 
-Sunset.—The authority provided in this section shall expire on the date that section 806 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 2304 note) expires."
+Sunset.—The authority provided in this section shall expire on the date that section 806 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 2304 note) expires." \[Sunset provision in section 806(g) of Pub. L. 111–383 repealed by Pub. L. 115–232, div. A, title VIII, §881(b), Aug. 13, 2018, 132 Stat. 1913.\]
 
 \[For definitions of "intelligence community" and "congressional intelligence committees" as used in section 309 of Pub. L. 112–87, set out above, see section 2 of Pub. L. 112–87, set out as a note under section 3003 of this title.\]
 

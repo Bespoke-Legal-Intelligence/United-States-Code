@@ -18,7 +18,7 @@ The President shall, at the time the budget is submitted under section 1105 of t
 
 &emsp;(4) a separate statement which specifies the amount of funds requested to carry out the provisions of section 1621 of this title;
 
-&emsp;(5) a separate statement of the total amount obligated or expended in the most recentlycompleted fiscal year to achieve each of the objectives described in section 1680d of this title, relating to infant and maternal mortality and fetal alcohol syndrome;
+&emsp;(5) a separate statement of the total amount obligated or expended in the most recently completed fiscal year to achieve each of the objectives described in section 1680d of this title, relating to infant and maternal mortality and fetal alcohol syndrome;
 
 &emsp;(6) the reports required by sections 1602(d),<sup>2</sup> 1616a(n), 1621b(b), 1621h(j), 1631(c), 1632(g), 1634(a)(3), 1643, 1665g(e),<sup>2</sup> and 1680g(a), and 1680l(f) <sup>2</sup> of this title;
 
@@ -52,7 +52,7 @@ Section 1680k of this title, referred to in par. (9), was repealed by Pub. L. 11
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–573, §801, amended section generally. Prior to amendment, section read as follows: "The Secretary shall report annually to the President and the Congress on progress made in effecting the purposes of this chapter. Within three months after the end of fiscal year 1979, the Secretary shall review expenditures and progress made under this chapter and make recommendations to the Congress concerning any additional authorizations for fiscal years 1981 through 1984 for programs authorized under this chapter which he deems appropriate. In the event the Congress enacts legislation authorizing appropriations for programs under this chapter for fiscal years 1981 through 1984, within three months after the end of fiscal year 1983, the Secretary shall review programs established or assisted pursuant to this chapter and shall submit to the Congress his assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Indians, and insure a health status for Indians, which are at a parity with the health services available to, and the health status, of the general population."
+<b>1992</b>—Pub. L. 102–573, §801, amended section generally. Prior to amendment, section read as follows: "The Secretary shall report annually to the President and the Congress on progress made in effecting the purposes of this chapter. Within three months after the end of fiscal year 1979, the Secretary shall review expenditures and progress made under this chapter and make recommendations to the Congress concerning any additionalauthorizations for fiscal years 1981 through 1984 for programs authorized under this chapter which he deems appropriate. In the event the Congress enacts legislation authorizing appropriations for programs under this chapter for fiscal years 1981 through 1984, within three months after the end of fiscal year 1983, the Secretary shall review programs established or assisted pursuant to this chapter and shall submit to the Congress his assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Indians, and insure a health status for Indians, which are at a parity with the health services available to, and the health status, of the general population."
 
 #### Commission on Indian and Native Alaskan Health Care
 

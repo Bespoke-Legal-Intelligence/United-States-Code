@@ -1,6 +1,6 @@
 ### §12645. Commissioned officers: retention until completion of required service
 
-(a) Except as provided in subsection (b), a reserve commissioned officer who has not completed the period of service required of him by section 651 of this title or any other provision of law may not be discharged or transferred from an active status under chapter 573, 1407, 1409, or 1411 of this title or chapter 21 of title 14. Unless, under regulations prescribed by the Secretary concerned, he is promoted to a higher reserve grade, he shall be retained in an active status in his reserve grade for the rest of his period of required service and shall be an additional number to the authorized strength of his grade.
+(a) Except as provided in subsection (b), a reserve commissioned officer who has not completed the period of service required of him by section 651 of this title or any other provision of law may not be discharged or transferred from an active status under chapter 843, 1407, 1409, or 1411 of this title or chapter 21 <sup>1</sup> of title 14. Unless, under regulations prescribed by the Secretary concerned, he is promoted to a higher reserve grade, he shall be retained in an active status in his reserve grade for the rest of his period of required service and shall be an additional number to the authorized strength of his grade.
 
 (b) Subsection (a) does not prevent the discharge or transfer from an active status of—
 
@@ -12,7 +12,7 @@
 
 &emsp;(4) an officer whose discharge or transfer from an active status is required by law.
 
-(Added Pub. L. 85–861, §1(22)(B), Sept. 2, 1958, 72 Stat. 1444, §1005; amended Pub. L. 93–586, §2, Jan. 2, 1975, 88 Stat. 1920; Pub. L. 98–525, title V,§528(a), Oct. 19, 1984, 98 Stat. 2525; renumbered §12645 and amended Pub. L. 103–337, div. A, title XVI, §§1627, 1662(h)(2), 1675(d)(2), Oct. 5, 1994, 108 Stat. 2962, 2996, 3018; Pub. L. 104–106, div. A, title XV, §1501(a)(4), Feb. 10, 1996, 110 Stat. 495; Pub. L. 104–201, div. A, title V, §544(b), Sept. 23, 1996, 110 Stat. 2523.)
+(Added Pub. L. 85–861, §1(22)(B), Sept. 2, 1958, 72 Stat. 1444, §1005; amended Pub. L. 93–586, §2, Jan. 2, 1975, 88 Stat. 1920; Pub. L. 98–525, title V, §528(a), Oct. 19, 1984, 98 Stat. 2525; renumbered §12645 and amended Pub. L. 103–337, div. A, title XVI, §§1627, 1662(h)(2), 1675(d)(2), Oct. 5, 1994, 108 Stat. 2962, 2996, 3018; Pub. L. 104–106, div. A, title XV, §1501(a)(4), Feb. 10, 1996, 110 Stat. 495; Pub. L. 104–201, div. A, title V, §544(b), Sept. 23, 1996, 110 Stat. 2523; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 Historical and Revision Notes
 
@@ -32,7 +32,13 @@ Sept. 3, 1954, ch. 1257, §§102(1) (as applicable to §204), 204, 68 Stat. 1149
 
 The word "subsequently" is omitted as surplusage.
 
+#### References in Text
+
+Chapter 21 of title 14, referred to in text, was comprised of sections 701 to 713 and 720 to 746, prior to the renumbering of such sections as sections 3701 to 3714 and 3731 to 3757, respectively, of title 14 by Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233. After renumbering, such sections now comprise chapter 37 of title 14.
+
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–232 substituted "under chapter 843," for "under chapter 573,".
 
 <b>1996</b>—Subsec. (b)(2). Pub. L. 104–201 inserted "or a reserve active-status list" after "active-duty list".
 
@@ -48,6 +54,10 @@ Subsec. (b)(3), (4). Pub. L. 103–337, §1627, as amended by Pub. L. 104–106,
 
 <b>1975</b>—Pub. L. 93–586 inserted reference to chapter 21 of title 14.
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
@@ -55,4 +65,6 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 #### Effective Date of 1994 Amendment
 
 Amendment by sections 1627 and 1675(d)(2) of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment and function
 
-There is established a Federal Interagency Committee on Education (hereafter referred toin this section as the "Committee"). The Committee shall assist the Secretary in providing a mechanism to assure that the procedures and actions of the Department and other Federal departments and agencies are fully coordinated.
+There is established a Federal Interagency Committee on Education (hereafter referred to in this section as the "Committee"). The Committee shall assist the Secretary in providing a mechanism to assure that the procedures and actions of the Department and other Federal departments and agencies are fully coordinated.
 
 #### (b) Coordination of Federal programs, policies and practices
 
@@ -38,7 +38,7 @@ The Committee shall meet at least twice each year. The Secretary may establish s
 
 The Secretary and the head of each agency represented on the Committee under subsection (c) shall furnish necessary assistance to the Committee.
 
-(Pub. L. 96–88, title II, §217, formerly §214, Oct. 17, 1979, 93 Stat. 676; renumbered §215, Pub. L. 101–392, title VI, §602(a)(2), Sept. 25, 1990, 104 Stat. 840; renumbered §217, Pub. L. 103–382, title III, §372(1), Oct. 20, 1994, 108 Stat. 3977.)
+(Pub. L. 96–88, title II, §217, formerly §214, Oct. 17, 1979, 93 Stat. 676; renumbered §215, Pub. L.101–392, title VI, §602(a)(2), Sept. 25, 1990, 104 Stat. 840; renumbered §217, Pub. L. 103–382, title III, §372(1), Oct. 20, 1994, 108 Stat. 3977.)
 
 #### Termination of Advisory Committees
 

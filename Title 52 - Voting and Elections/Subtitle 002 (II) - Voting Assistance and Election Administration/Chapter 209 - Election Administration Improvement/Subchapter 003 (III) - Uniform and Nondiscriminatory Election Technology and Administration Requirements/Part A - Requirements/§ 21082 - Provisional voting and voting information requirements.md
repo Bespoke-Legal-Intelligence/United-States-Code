@@ -12,7 +12,7 @@ If an individual declares that such individual is a registered voter in the juri
 
 &emsp;&emsp;(B) eligible to vote in that election.
 
-&emsp;(3) An election official at the polling place shall transmit the ballot cast by the individual or the voter information contained in the written affirmation executed by the individual under paragraph (2) to an appropriate State or local election official for prompt verification under paragraph (4).
+&emsp;(3) An election official at the polling place shall transmit the ballot cast by the individual or the voter information contained in the written affirmation executed by the individualunder paragraph (2) to an appropriate State or local election official for prompt verification under paragraph (4).
 
 &emsp;(4) If the appropriate State or local election official to whom the ballot or voter information is transmitted under paragraph (3) determines that the individual is eligible under State law to vote, the individual's provisional ballot shall be counted as a vote in that election in accordance with State law.
 

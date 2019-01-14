@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (ii) Investment asset
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term "investment asset" means any single asset (other than an investment fund or similar entity)—
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "investment asset" means any single asset\(other than an investment fund or similar entity)—
 
 &emsp;&emsp;&emsp;&emsp;(I) acquired directly by an investment fund or similar entity,
 
@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (4) Exception for certain compensation with respect to effectively connected income
 
-&emsp;In the case <sup>1</sup> a foreign corporation with income which is taxable under section 882, this section shall not apply to compensation which, had such compensation had <sup>2</sup> been paid in cash on the date that such compensation ceased to be subject to a substantial risk of forfeiture, would have been deductible by such foreign corporation against such income.
+&emsp;In the case of a foreign corporation with income which is taxable under section 882, this section shall not apply to compensation which, had such compensation been paid in cash on the date that such compensation ceased to be subject to a substantial risk of forfeiture, would have been deductible by such foreign corporation against such income.
 
 #### (5) Application of rules
 
@@ -98,7 +98,11 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations disregarding a substantial risk of forfeiture in cases where necessary to carry out the purposes of this section.
 
-(Added Pub. L. 110–343, div. C, title VIII, §801(a), Oct. 3, 2008, 122 Stat. 3929.)
+(Added Pub. L. 110–343, div. C, title VIII, §801(a), Oct. 3, 2008, 122 Stat. 3929; amended Pub. L. 115–141, div. U, title IV, §401(a)(113), Mar. 23, 2018, 132 Stat. 1189.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (d)(4). Pub. L. 115–141 substituted "case of a foreign" for "case a foreign" and "been paid" for "had been paid".
 
 #### Effective Date
 
@@ -127,8 +131,4 @@ Certain back-to-back arrangements.—If the taxpayer is also a service recipient
 "(5)
 
 Accelerated payment not treated as material modification.—Any amendment to a nonqualified deferred compensation arrangement made pursuant to paragraph (4) or (5) shall not be treated as a material modification of the arrangement for purposes of section 409A of the Internal Revenue Code of 1986."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "of".</i>
-
-<i><sup>2</sup></i><i> So in original. The word "had" probably should not appear.</i>
 

@@ -138,7 +138,7 @@
 
 &emsp;&emsp;(C) assessment tools and strategies that provide relevant information that directly assists persons in determining the educational needs of the child are provided; and
 
-&emsp;&emsp;(D) assessments of children with disabilities who transfer from 1 school district to another school district in the same academic year are coordinated with such children's prior and subsequent schools, as necessary and as expeditiously as possible, to ensure prompt completion of full evaluations.
+&emsp;&emsp;(D) assessments of children with disabilities who transfer from 1 school district to another school district in the same academic year are coordinated with such children's prior and subsequent schools, as necessaryand as expeditiously as possible, to ensure prompt completion of full evaluations.
 
 #### (4) Determination of eligibility and educational need
 
@@ -362,7 +362,7 @@
 
 #### (II) Transfer outside State
 
-&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in another State, the local educational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency conducts an evaluation pursuant to subsection (a)(1), if determined to be necessary by such agency, and develops a new IEP, if appropriate, that is consistent with Federal and State law.
+&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in another State, the local educational agency shall provide such child with a free appropriate public education, including services comparable to thosedescribed in the previously held IEP, in consultation with the parents until such time as the local educational agency conducts an evaluation pursuant to subsection (a)(1), if determined to be necessary by such agency, and develops a new IEP, if appropriate, that is consistent with Federal and State law.
 
 #### (ii) Transmittal of records
 
@@ -484,7 +484,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;Beginning 2 years after December 3, 2004, the Secretary shall submit an annual report to the Committee on Education and the Workforce of the House of Representativesand the Committee on Health, Education, Labor, and Pensions of the Senate regarding the effectiveness of the program under this paragraph and any specific recommendations for broader implementation of such program, including—
+&emsp;&emsp;Beginning 2 years after December 3, 2004, the Secretary shall submit an annual report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate regarding the effectiveness of the program under this paragraph and any specific recommendations for broader implementation of such program, including—
 
 &emsp;&emsp;&emsp;(i) reducing—
 
@@ -514,7 +514,7 @@
 
 &emsp;&emsp;The following requirements shall not apply to children with disabilities who are convicted as adults under State law and incarcerated in adult prisons:
 
-&emsp;&emsp;&emsp;(i) The requirements contained in section 1412(a)(16) of this title and paragraph (1)(A)(i)(VI) (relating to participation of children with disabilities in general assessments).
+&emsp;&emsp;&emsp;(i) The requirements contained in section 1412(a)(16) of this title and paragraph\(1)(A)(i)(VI) (relating to participation of children with disabilities in general assessments).
 
 &emsp;&emsp;&emsp;(ii) The requirements of items (aa) and (bb) of paragraph (1)(A)(i)(VIII) (relating to transition planning and transition services), do not apply with respect to such children whose eligibility under this subchapter will end, because of such children's age, before such children will be released from prison.
 

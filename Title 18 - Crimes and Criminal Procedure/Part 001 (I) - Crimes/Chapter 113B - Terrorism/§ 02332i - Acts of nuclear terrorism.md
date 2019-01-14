@@ -58,7 +58,7 @@ Penalties.—Whoever violates this section shall be fined not more than $2,000,0
 
 Nonapplicability.—This section does not apply to—
 
-&emsp;(1) the activities of armed forces during an armed conflict, as those terms are understood under the law of war, which are governed by that law; or
+&emsp;(1) the activities of armed forces during an armed conflict, as those terms are understoodunder the law of war, which are governed by that law; or
 
 &emsp;(2) activities undertaken by military forces of a state in the exercise of their official duties.
 

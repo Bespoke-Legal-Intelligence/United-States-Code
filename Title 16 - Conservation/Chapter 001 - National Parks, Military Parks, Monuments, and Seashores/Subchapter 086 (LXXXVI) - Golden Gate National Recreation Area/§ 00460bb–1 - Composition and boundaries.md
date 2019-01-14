@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) Lands acquired under the Golden Gate National Recreation Area Addition Act of 1992 (16 U.S.C. 460bb–1 note; Public Law 102–299).
 
-&emsp;&emsp;(D) Lands generally depicted on the map entitled "Additions to Golden Gate NationalRecreation Area", numbered NPS–80–076, and dated July 2000/PWR–PLRPC.
+&emsp;&emsp;(D) Lands generally depicted on the map entitled "Additions to Golden Gate National Recreation Area", numbered NPS–80–076, and dated July 2000/PWR–PLRPC.
 
 &emsp;&emsp;(E) Lands generally depicted on the map entitled "Rancho Corral de Tierra Additions to the Golden Gate National Recreation Area", numbered NPS–80,079E, and dated March 2004.
 

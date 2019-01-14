@@ -72,7 +72,7 @@ In accordance with guidelines established by the Federal Director and the Commer
 
 &emsp;&emsp;&emsp;(vii) the demonstrated capacity of at least 1 university to have been recognized by similar institutions as a national leader in sustainability education and curriculum for students of the university; and
 
-&emsp;&emsp;(B) each university shall be located in a different climatic region of the UnitedStates, each of which regions shall have, as determined by the Office of Commercial High-Performance Green Buildings—
+&emsp;&emsp;(B) each university shall be located in a different climatic region of the United States, each of which regions shall have, as determined by the Office of Commercial High-Performance Green Buildings—
 
 &emsp;&emsp;&emsp;(i) a hot, dry climate;
 

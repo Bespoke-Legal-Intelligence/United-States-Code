@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-This chapter shall take effect on the one hundred and eightieth day beginning after December 31, 1975. Any institution specified in section 2802(2)(A) <sup>1</sup> of this title which has total assets as of its last full fiscal year of $10,000,000 or less is exempt from the provisions of this chapter. The Bureau, in consultation with the Secretary, may exempt institutions described in section 2802(2)(B) <sup>1</sup> of this title that are comparable within their respective industries to institutions that are exempt under the preceding sentence\(as determined without regard to the adjustment made by subsection (b)).
+This chapter shall take effect on the one hundred and eightieth day beginning after December 31, 1975. Any institution specified in section 2802(2)(A) <sup>1</sup> of this title which has total assets as of its last full fiscal year of $10,000,000 or less is exempt from the provisions of this chapter. The Bureau, in consultation with the Secretary, may exempt institutions described in section 2802(2)(B) <sup>1</sup> of this title that are comparable within their respective industries to institutions that are exempt under the preceding sentence (as determined without regard to the adjustment made by subsection (b)).
 
 #### (b) CPI adjustments
 

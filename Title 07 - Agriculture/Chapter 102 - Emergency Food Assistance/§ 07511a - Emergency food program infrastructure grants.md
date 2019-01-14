@@ -42,9 +42,9 @@ An eligible entity shall use a grant received under this section for any fiscal 
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2008 through 2018.
+There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2008 through 2023.
 
-(Pub. L. 98–8, title II, §209, as added Pub. L. 110–234, title IV, §4202, May 22, 2008, 122 Stat. 1121; Pub. L. 110–246, §4(a), title IV, §4202, June 18, 2008, 122 Stat. 1664, 1883; amended Pub. L. 113–79, title IV, §4027(b), Feb. 7, 2014, 128 Stat. 812.)
+(Pub. L. 98–8, title II, §209, as added Pub. L. 110–234, title IV, §4202, May 22, 2008, 122 Stat. 1121; Pub. L. 110–246, §4(a), title IV, §4202, June 18, 2008, 122 Stat. 1664, 1883; amended Pub. L. 113–79, title IV, §4027(b), Feb. 7, 2014, 128 Stat. 812; Pub. L. 115–334, title IV, §4018(d), Dec. 20, 2018, 132 Stat. 4650.)
 
 #### Codification
 
@@ -55,6 +55,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 209 of Pub. L. 98–8, which related to commodity supplemental food program administrative expenses, was set out in a note under section 612c of this title prior to repeal by Pub. L. 99–198, title XV, §1562(e)(1), Dec. 23, 1985, 99 Stat. 1590.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–334 substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (d). Pub. L. 113–79 substituted "2018" for "2012".
 

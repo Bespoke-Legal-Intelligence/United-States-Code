@@ -6,7 +6,7 @@
 
 #### (A) Establishment
 
-&emsp;&emsp;A State may establish a program under which an owner or operator of a community water system in the State, or a municipal or local government or political subdivision of a State, may submit a source water qualityprotection partnership petition to the State requesting that the State assist in the local development of a voluntary, incentive-based partnership, among the owner, operator, or government and other persons likely to be affected by the recommendations of the partnership, to—
+&emsp;&emsp;A State may establish a program under which an owner or operator of a community water system in the State, or a municipal or local government or political subdivision of a State, may submit a source water quality protection partnership petition to the State requesting that the State assist in the local development of a voluntary, incentive-based partnership, among the owner, operator, or government and other persons likely to be affected by the recommendations of the partnership, to—
 
 &emsp;&emsp;&emsp;(i) reduce the presence in drinking water of contaminants that may be addressed by a petition by considering the origins of the contaminants, including to the maximum extent practicable the specific activities that affect the drinking water supply of a community;
 
@@ -70,7 +70,7 @@
 
 #### (1) In general
 
-&emsp;After providing notice and an opportunity for public comment on a petition submitted under subsection (a), the State shall approveor disapprove the petition, in whole or in part, not later than 120 days after the date of submission of the petition.
+&emsp;After providing notice and an opportunity for public comment on a petition submitted under subsection (a), the State shall approve or disapprove the petition, in whole or in part, not later than 120 days after the date of submission of the petition.
 
 #### (2) Approval
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&emsp;(ii) the program established under section 1455b of title 16;
 
-&emsp;&emsp;&emsp;(iii) the agricultural water quality protection program established under chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3838 et seq.);
+&emsp;&emsp;&emsp;(iii) the agricultural water quality protection program established under chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3838 et seq.);<sup>1</sup>
 
 &emsp;&emsp;&emsp;(iv) the sole source aquifer protection program established under section 300h–6 of this title;
 
@@ -148,7 +148,7 @@
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $5,000,000 for each of the fiscal years 1997 through 2003. Each State with a plan for a program approved under subsection (b) shall receive an equitable portion of the funds available for any fiscal year.
+There are authorized to be appropriated to carry out this section $5,000,000 for each of the fiscal years 2020 through 2021. Each State with a plan for a program approved under subsection (b) shall receive an equitable portion of the funds available for any fiscal year.
 
 #### (f) Statutory construction
 
@@ -158,13 +158,19 @@ Nothing in this section—
 
 &emsp;(B) limits any authority of a State, political subdivision, or community water system; or
 
-&emsp;(2) precludes a community water system, municipal or local government, or politicalsubdivision of a government from locally developing and carrying out a voluntary, incentive-based, source water quality protection partnership to address the origins of drinking water contaminants of public health concern.
+&emsp;(2) precludes a community water system, municipal or local government, or political subdivision of a government from locally developing and carrying out a voluntary, incentive-based, source water quality protection partnership to address the origins of drinking water contaminants of public health concern.
 
-(July 1, 1944, ch. 373, title XIV, §1454, as added Pub. L. 104–182, title I, §133(a), Aug. 6, 1996, 110 Stat. 1675.)
+(July 1, 1944, ch. 373, title XIV, §1454, as added Pub. L. 104–182, title I, §133(a), Aug. 6, 1996, 110 Stat. 1675; amended Pub. L. 115–270, title II, §2016, Oct. 23, 2018, 132 Stat. 3856.)
 
 #### References in Text
 
-The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A)(iii), (B)(i), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title VI of the Act is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A)(iii), (B)(i), is act June 30, 1948, ch.758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title VI of the Act is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 2 of subtitle D of title XII of the Act was classified generally to part II (§3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 2 of subtitle D of title XII of the Act means chapter 2 of subtitle D of title XII of Pub. L. 99–198, as added by Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3590, which was classified generally to part II (§3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (e). Pub. L. 115–270 substituted "2020 through 2021" for "1997 through 2003".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

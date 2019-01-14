@@ -128,7 +128,7 @@ Subsec. (f)(3). Pub. L. 113–291, §212(b), substituted "not less frequently th
 
 &emsp;"(B) for each of the five fiscal years covered by the plan, the objectives of, and funding for the program by, each military department and each Defense Agency participating in the program."
 
-Subsec. (e)(2). Pub. L. 107–314, §213(a), substituted "establish" for "include" in introductory provisionsand amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
+Subsec. (e)(2). Pub. L. 107–314, §213(a), substituted "establish" for "include" in introductory provisions and amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
 
 "(A) An assessment of the effectiveness of the program, including a description of all completed projects and status of implementation.
 
@@ -195,6 +195,68 @@ Subsec. (d)(2)(C). Pub. L. 104–106, §276(a)(4)(A), added subpar. (C).
 Subsec. (d)(3), (4). Pub. L. 104–106, §276(a)(4)(B), added pars. (3) and (4).
 
 <b>1994</b>—Pub. L. 103–337 substituted "Manufacturing science and technology program" for "Industrial Preparedness Manufacturing Technology Program" as section catchline and amended text generally. Prior to amendment, text read as follows: "The Secretary of Defense shall establish an Industrial Preparedness Manufacturing Technology program to enhance the capability of industry to meet the manufacturing needs of the Department of Defense."
+
+#### Advanced Manufacturing Activities
+
+Pub. L. 115–232, div. A, title II, §229, Aug. 13, 2018, 132 Stat. 1688, provided that:
+
+"(a)
+
+Designation.—The Under Secretary of Defense for Acquisition and Sustainment and the Under Secretary of Defense for Research and Engineering shall jointly, in coordination with Secretaries of the military departments, establish at least one activity per military service to demonstrate advanced manufacturing techniques and capabilities at depot-level activities or military arsenal facilities of the military departments.
+
+"(b)
+
+Purposes.—The activities established pursuant to subsection (a) shall—
+
+&emsp;"(1) support efforts to implement advanced manufacturing techniques and capabilities;
+
+&emsp;"(2) identify improvements to sustainment methods for component parts and other logistics needs;
+
+&emsp;"(3) identify and implement appropriate information security protections to ensure security of advanced manufacturing;
+
+&emsp;"(4) aid in the procurement of advanced manufacturing equipment and support services;
+
+&emsp;"(5) enhance partnerships between the defense industrial base and Department of Defense laboratories, academic institutions, and industry; and
+
+&emsp;"(6) to the degree practicable, include an educational or training component to build an advanced manufacturing workforce.
+
+"(c)
+
+Cooperative Agreements and Partnerships.—
+
+&emsp;"(1)
+
+In general.—The Under Secretaries may enter into a cooperative agreement and use public-private and public-public partnerships to facilitate development of advanced manufacturing techniques in support of the defense industrial base.
+
+&emsp;"(2)
+
+Requirements.—A cooperative agreement entered into under paragraph (1) and a partnership used under such paragraph shall facilitate—
+
+&emsp;&emsp;"(A) development and implementation of advanced manufacturing techniques and capabilities;
+
+&emsp;&emsp;"(B) appropriate sharing of information in the adaptation of advanced manufacturing, including technical data rights;
+
+&emsp;&emsp;"(C) implementation of appropriate information security protections into advanced manufacturing tools and techniques; and
+
+&emsp;&emsp;"(D) support of necessary workforce development.
+
+"(d)
+
+Authorities.—In carrying out this section, the Under Secretaries may use the following authorities:
+
+&emsp;"(1) Section 2196 of title 10, United States Code, relating to the Manufacturing Engineering Education Program.
+
+&emsp;"(2) Section 2368 of such title, relating to centers for science, technology, and engineering partnership.
+
+&emsp;"(3) Section 2374a of such title, relating to prizes for advanced technology achievements.
+
+&emsp;"(4) Section 2474 of such title, relating to centers of industrial and technical excellence.
+
+&emsp;"(5) Section 2521 of such title, relating to the Manufacturing Technology Program.
+
+&emsp;"(6) Section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a) and section 6305 of title 31, United States Code, relating to cooperative research and development agreements.
+
+&emsp;"(7) Such other authorities as the Under Secretaries considers appropriate."
 
 #### Limitation on Use of Funds for Defense-Wide Manufacturing Science and Technology Program
 
@@ -308,19 +370,7 @@ Small business innovation research program.—The term 'Small Business Innovatio
 
 #### Technical Assistance Relating to Machine Tools
 
-Pub. L. 108–136, div. A, title VIII, §823, Nov. 24, 2003, 117 Stat. 1547, provided that:
-
-"(a)
-
-Technical Assistance.—The Secretary of Defense shall publish in the Federal Register information on Government contracting for purposes of assisting machine tool companies in the United States and entities that use machine tools. The information shall contain, at a minimum, the following:
-
-&emsp;"(1) An identification of resources with respect to Government contracting regulations, including compliance procedures and information on the availability of counseling.
-
-&emsp;"(2) An identification of resources for locating opportunities for contracting with the Department of Defense, including information about defense contracts that are expected to be carried out that may require the use of machine tools.
-
-"(b)
-
-Science and Technology Initiatives.—The Secretary of Defense shall incorporate into the Department of Defense science and technology initiatives on manufacturing technology an objective of developing advanced machine tool capabilities. Such technologies shall be used to improve the technological capabilities of the United States domestic machine tool industrial base in meeting national security objectives."
+Pub. L. 108–136, div. A, title VIII, §823, Nov. 24, 2003, 117 Stat. 1547, which required the Secretary to publish in the Federal Register information on Government contracting for purposes of assisting machine tool companies in the United States and users of machine tools, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(56), Aug. 13, 2018, 132 Stat. 1850.
 
 #### Participation in Manufacturing Extension Program
 

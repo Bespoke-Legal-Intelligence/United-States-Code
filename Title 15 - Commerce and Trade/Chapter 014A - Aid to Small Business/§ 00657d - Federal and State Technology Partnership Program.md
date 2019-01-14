@@ -166,7 +166,7 @@ In carrying out the FAST program under this section, the Administrator shall coo
 
 #### (C) Types of funding
 
-&emsp;&emsp;The non-Federal share of the cost of an activity carried out by a recipient shall becomprised of not less than 50 percent cash and not more than 50 percent of indirect costs and in-kind contributions, except that no such costs or contributions may be derived from funds from any other Federal program.
+&emsp;&emsp;The non-Federal share of the cost of an activity carried out by a recipient shall be comprised of not less than 50 percent cash and not more than 50 percent of indirect costs and in-kind contributions, except that no such costs or contributions may be derived from funds from any other Federal program.
 
 #### (D) Rankings
 
@@ -238,7 +238,7 @@ Subpar. (C) of section 42(d)(5) of title 26, referred to in subsec. (e)(2)(B), w
 
 #### Prior Provisions
 
-A prior section 2\[34\] of Pub. L. 85–536 was renumbered section 2\[47\] and is set out as a note under section 631 of this title.
+A prior section 2\[34\] of Pub. L. 85–536 was renumbered section 2\[49\] and is set out as a note under section 631 of this title.
 
 #### Amendments
 

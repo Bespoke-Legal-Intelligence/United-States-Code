@@ -182,7 +182,79 @@ Inapplicability to Certain Contracts To Purchase Ball Bearings or Roller Bearing
 
 (2) Paragraph (1) does not apply to a purchase if such purchase would result in the total amount of purchases of ball bearings and roller bearings to satisfy requirements under Department of Defense contracts, using the authority provided in such paragraph, to exceed $200,000 during the fiscal year of such purchase.
 
-(Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659; Pub. L. 105–85, div. A, title III, §371(d)(1), title VIII, §811(a), title X, §1073(a)(55), Nov. 18, 1997, 111 Stat. 1706, 1839, 1903; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §805\], Oct. 30, 2000, 114 Stat. 1654, 1654A–207; Pub. L. 107–107, div. A, title VIII, §835(a), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1191, 1225; Pub. L. 108–136, div. A, title VIII, §828, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 111–350, §5(b)(40), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. A, title VIII, §813(a), Dec. 12, 2017, 131 Stat. 1461.)
+(Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659; Pub. L. 105–85, div. A, title III, §371(d)(1), title VIII, §811(a), title X, §1073(a)(55), Nov. 18, 1997, 111 Stat. 1706, 1839, 1903; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §805\], Oct. 30, 2000, 114 Stat. 1654, 1654A–207; Pub. L. 107–107, div. A, title VIII, §835(a), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1191, 1225; Pub. L. 108–136, div. A, title VIII, §828, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 111–350, §5(b)(40), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. A, title VIII, §813(a), Dec. 12, 2017, 131 Stat. 1461; Pub. L. 115–232, div. A, title VIII, §844(a), Aug. 13, 2018, 132 Stat. 1879.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–232, div. A, title VIII, §844, Aug. 13, 2018, 132 Stat. 1879, provided that, effective one year after Aug. 13, 2018, this section is amended by adding at the end the following new subsection:</i>
+
+<i>(k)</i>
+
+<i>Limitation on Certain Procurements Application Process.—</i>
+
+&emsp;<i>(1)</i>
+
+<i>In general.—The Secretary of Defense shall administer a process to analyze and assess potential items for consideration to be required to be procured from a manufacturer that is part of the national technology and industrial base.</i>
+
+&emsp;<i>(2)</i>
+
+<i>Elements.—The application process required under paragraph (1) shall include the following elements:</i>
+
+&emsp;&emsp;<i>(A) The Secretary shall designate an official within the Office of the Secretary of Defense responsible for administration of the limitation on certain procurements application process and associated policy.</i>
+
+&emsp;&emsp;<i>(B) A person or organization that meets the definition of national technology and industrial base under section 2500(1) of this title shall have the opportunity to apply for status as an item required to be procured from a manufacturer that is part of the national technology and industrial base. The application shall include, at a minimum, the following information:</i>
+
+&emsp;&emsp;&emsp;<i>(i) Information demonstrating the applicant meets the criteria of a manufacturer in the national technology and industrial base under section 2500(1) of this title.</i>
+
+&emsp;&emsp;&emsp;<i>(ii) For each item the applicant seeks to be required to be procured from a manufacturer that is part of the national technology and industrial base, the applicant shall include the following information:</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) The extent to which such item has commercial applications.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) The number of such items to be procured by current programs of record.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) The criticality of such item to a military unit's mission accomplishment.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IV) The estimated cost and other considerations of reconstituting the manufacturing capability of such item, if not maintained in the national technology and industrial base.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(V) National security regulations or restrictions imposed on such item that may not be imposed on a non-national technology and industrial base competitor.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(VI) Non-national security-related Federal, State, and local government regulations imposed on such item that may not be imposed on a non-national technology and industrial base competitor.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(VII) The extent to which such item is fielded in current programs of record.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(VIII) The extent to which cost and pricing data for such item has been deemed fair and reasonable.</i>
+
+&emsp;<i>(3)</i>
+
+<i>Consideration of applications.—</i>
+
+&emsp;&emsp;<i>(A)</i>
+
+<i>Responsibility of designated official.—The official designated pursuant to paragraph (2)(A) shall be responsible for providing complete applications submitted pursuant to this subsection to the appropriate component acquisition executive for consideration not later than 15 days after receipt of such application.</i>
+
+&emsp;&emsp;<i>(B)</i>
+
+<i>Review.—Not later than 120 days after receiving a complete application, the component acquisition executive shall review such application, make a determination, and return the application to the official designated pursuant to paragraph (2)(A).</i>
+
+&emsp;&emsp;<i>(C)</i>
+
+<i>Elements of determination.—The determination required under subparagraph (B)</i><i>shall, for each item proposed pursuant to paragraph (2)(B)(ii)—</i>
+
+&emsp;&emsp;&emsp;<i>(i) recommend inclusion under this section;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) recommend inclusion under this section with further modifications; or</i>
+
+&emsp;&emsp;&emsp;<i>(iii) not recommend inclusion under this section.</i>
+
+&emsp;&emsp;<i>(D)</i>
+
+<i>Justification.—The determination required under subparagraph (B) shall also include the rationale and justification for the determination.</i>
+
+&emsp;<i>(4)</i>
+
+<i>Recommendations for legislation.—For applications recommended under subsection (3), the official designated pursuant to paragraph (2)(A) shall be responsible for preparing a legislative proposal for consideration by the Secretary.</i>
+
+<i>See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -201,6 +273,8 @@ Sept. 20, 1968, Pub. L. 90–500, §404, 82 Stat. 851.
 The words "of the United States under the provisions of this Act or the provisions of any other law" are omitted as surplus. The word "acquisition" is substituted for "purchase, lease, rental, or other acquisition" because it is inclusive. The words "this section" are substituted for "this prohibition" because of the restatement.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (k). Pub. L. 115–232 added subsec. (k).
 
 <b>2017</b>—Subsec. (c)(5). Pub. L. 115–91 added par. (5).
 
@@ -292,6 +366,10 @@ Subsec. (d). Pub. L. 100–456, §822, added subsec. (d).
 
 <b>1987</b>—Pub. L. 100–180 substituted "Miscellaneous procurement limitations" for "Limitation on procurement of buses" in section catchline, designated existing provisions as subsec. (a) and added heading, and added subsecs. (b) and (c).
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–232, div. A, title VIII, §844(b), Aug. 13, 2018, 132 Stat. 1881, provided that: "This section \[amending this section\] and the amendments made by this section shall take effect one year after the date of the enactment of this Act \[Aug. 13, 2018\]."
+
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–107, div. A, title VIII, §835(b), Dec. 28, 2001, 115 Stat. 1192, provided that: "Subsection (j) of such section 2534 (as added by subsection (a)) shall apply with respect to a contract or subcontract to purchase ball bearings or roller bearings entered into after the date of the enactment of this Act \[Dec. 28, 2001\]."
@@ -322,29 +400,7 @@ Pub. L. 101–510, div. A, title VIII, §835(b), Nov. 5, 1990, 104 Stat. 1615, p
 
 #### Procurement of Photovoltaic Devices
 
-Pub. L. 113–291, div. A, title VIII, §858, Dec. 19, 2014, 128 Stat. 3460, provided that:
-
-"(a)
-
-Contract Requirement.—The Secretary of Defense shall ensure that each covered contract includes a provision requiring that any photovoltaic device installed under the contract be manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States, unless the head of the department or independent establishment concerned determines, on a case-by-case basis, that the inclusion of such requirement is inconsistent with the public interest or involves unreasonable costs, subject to exceptions provided in the Trade Agreements Act of 1979 (19 U.S.C. 2501 et seq.) or otherwise provided by law.
-
-"(b)
-
-Definitions.—In this section:
-
-&emsp;"(1)
-
-Covered contract.—The term 'covered contract' means a contract awarded by the Department of Defense that provides for a photovoltaic device to be—
-
-&emsp;&emsp;"(A) installed inside the United States on Department of Defense property or in a facility owned by the Department of Defense; or
-
-&emsp;&emsp;"(B) reserved for the exclusive use of the Department of Defense in the United States for the full economic life of the device.
-
-&emsp;"(2)
-
-Photovoltaic device.—The term 'photovoltaic device' means a device that converts light directly into electricity through a solid-state, semiconductor process."
-
-<i>\[Pub. L. 115–91, div. A, title VIII, §813(b), Dec. 12, 2017, 131 Stat. 1461, provided that, effective Oct. 1, 2018, section 858 of Pub. L. 113–291, set out above, is repealed.\]</i>
+Pub. L. 113–291, div. A, title VIII, §858, Dec. 19, 2014, 128 Stat. 3460, which required certain contracts to include a provision relating to the manufacturing of photovoltaic devices in the United States, was repealed by Pub. L. 115–91, div. A, title VIII, §813(b), Dec. 12, 2017, 131 Stat. 1461, effective Oct. 1, 2018.
 
 Pub. L. 111–383, div. A, title VIII, §846, Jan. 7, 2011, 124 Stat. 4285, as amended by Pub. L. 113–291, div. A, title X, §1071(b)(1)(A), Dec. 19, 2014, 128 Stat. 3505, provided that:
 

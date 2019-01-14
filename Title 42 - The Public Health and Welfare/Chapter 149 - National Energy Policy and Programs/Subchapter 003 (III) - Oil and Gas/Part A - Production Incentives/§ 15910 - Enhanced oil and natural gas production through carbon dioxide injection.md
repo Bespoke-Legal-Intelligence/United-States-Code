@@ -154,7 +154,7 @@
 
 #### (C) Selection
 
-&emsp;&emsp;After the date by which applications for grants are required to be submitted under subparagraph (B), the Secretary of Energy, in a timely manner, shall select, after peer review and based on the criteria under paragraph (4), those projects to be awarded a grant under this subsection.
+&emsp;&emsp;After the date by which applications for grants are required to be submitted under subparagraph (B), the Secretary of Energy, in a timely manner, shall select, after peerreview and based on the criteria under paragraph (4), those projects to be awarded a grant under this subsection.
 
 #### (d) Records and inventory
 

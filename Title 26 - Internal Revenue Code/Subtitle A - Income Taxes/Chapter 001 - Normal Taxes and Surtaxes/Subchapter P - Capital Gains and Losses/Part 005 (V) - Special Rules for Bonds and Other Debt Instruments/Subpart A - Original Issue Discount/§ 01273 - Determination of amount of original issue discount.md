@@ -82,7 +82,7 @@ For purposes of subsection (b)—
 
 &emsp;In the case of any debt instrument and an option, security, or other property issued together as an investment unit—
 
-&emsp;&emsp;(A) the issue price for such unit shall be determined in accordance with the rules of this subsection and subsection (b) as if it were a debt instrument,
+&emsp;&emsp;(A) the issue price for such unit shall be determined in accordance with the rules ofthis subsection and subsection (b) as if it were a debt instrument,
 
 &emsp;&emsp;(B) the issue price determined for such unit shall be allocated to each element of such unit on the basis of the relationship of the fair market value of such element to the fair market value of all elements in such unit, and
 

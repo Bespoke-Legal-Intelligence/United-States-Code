@@ -22,5 +22,5 @@ Section effective 30 days after Oct. 12, 1976, except either as specifically oth
 
 #### Transfer of Functions
 
-"Secretary of Education" substituted in text for "Commissioner" pursuant to sections 301(a)(1) and 507of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
+"Secretary of Education" substituted in text for "Commissioner" pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
 

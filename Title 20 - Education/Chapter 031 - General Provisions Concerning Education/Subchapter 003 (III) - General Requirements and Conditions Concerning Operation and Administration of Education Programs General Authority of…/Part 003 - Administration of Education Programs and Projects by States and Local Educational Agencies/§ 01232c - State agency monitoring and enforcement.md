@@ -42,7 +42,7 @@ Subsecs. (b), (c). Pub. L. 103–382, §261(e)(2)(B), (C), redesignated provisio
 
 #### Effective Date
 
-Pub. L. 95–561, title XII, §1261, Nov. 1, 1978, 92 Stat. 2356, provided that: "The amendments made by section 1231 \[enacting this section and sections 1232d, 1232e, and 1232f of this title and amending section 1088f–1 of this title\] shall take effect with respect to appropriations for fiscal year 1980 and subsequent fiscal years. The amendments made by section 1232 \[enacting sections 1234, 1234a, 1234b, 1234c, 1234d, and 1234e of this title\]shall take effect 120 days after the enactment of this Act \[Nov. 1, 1978\]."
+Pub. L. 95–561, title XII, §1261, Nov. 1, 1978, 92 Stat. 2356, provided that: "The amendments made by section 1231 \[enacting this section and sections 1232d, 1232e, and 1232f of this title and amending section 1088f–1 of this title\] shall take effect with respect to appropriations for fiscal year 1980 and subsequent fiscal years. The amendments made by section 1232 \[enacting sections 1234, 1234a, 1234b, 1234c, 1234d, and 1234e of this title\] shall take effect 120 days after the enactment of this Act \[Nov. 1, 1978\]."
 
 #### Applicability of Administrative Procedure to Office of Education or Actions by Commissioner Unaffected by Subsections (b) to (e)
 

@@ -52,7 +52,7 @@ Where the Secretary, after consultation with any local educational agency and wi
 
 #### (A) In general
 
-&emsp;&emsp;In determining the estimated taxable value of such acquired Federal property forfiscal year 2010 and each succeeding fiscal year, the Secretary shall—
+&emsp;&emsp;In determining the estimated taxable value of such acquired Federal property for fiscal year 2010 and each succeeding fiscal year, the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) first determine the total taxable value for the purpose of levying property tax for school purposes for current expenditures of real property located within the boundaries of such local educational agency;
 
@@ -170,7 +170,7 @@ For any fiscal year for which the amount appropriated under section 7714(a) of t
 
 &emsp;&emsp;&emsp;(i) Calculate the local educational agency's maximum payment under subsection (b).
 
-&emsp;&emsp;&emsp;(ii) Calculate the percentage that the amount appropriated under section 7714(a) of this title for the most recent fiscal year for which the Secretary has completed making payments under this section is of the total maximum payments for such fiscal year for all local educational agencies eligible for a payment under subsection (b) and multiply the agency's maximum payment by such percentage.
+&emsp;&emsp;&emsp;(ii) Calculate the percentage that the amount appropriated under section 7714(a) of this title for the most recent fiscal year for which the Secretary has completed making payments under this section is ofthe total maximum payments for such fiscal year for all local educational agencies eligible for a payment under subsection (b) and multiply the agency's maximum payment by such percentage.
 
 &emsp;&emsp;&emsp;(iii) Multiply the amount determined under clause (ii) by 90 percent.
 
@@ -180,7 +180,7 @@ For any fiscal year for which the amount appropriated under section 7714(a) of t
 
 #### (3) Remaining funds
 
-&emsp;From any funds remaining after making payments under paragraphs (1) and (2) for the fiscal year involved, the Secretary shall make a payment to each local educational agency that received a foundation payment underparagraph (1) or (2) or subsection (i)(1), for the fiscal year involved in an amount that bears the same relation to the remainder as a percentage share determined for the local educational agency (by dividing the maximum amount that the agency is eligible to receive under subsection (b) by the total of the maximum amounts for all such agencies) bears to the percentage share determined (in the same manner) for all local educational agencies eligible to receive a payment under this section for the fiscal year involved, except that, for the purpose of calculating a local educational agency's maximum amount under subsection (b), data from the most current fiscal year shall be used.
+&emsp;From any funds remaining after making payments under paragraphs (1) and (2) for the fiscal year involved, the Secretary shall make a payment to each local educational agency that received a foundation payment under paragraph (1) or (2) or subsection (i)(1), for the fiscal year involved in an amount that bears the same relation to the remainder as a percentage share determined for the local educational agency (by dividing the maximum amount that the agency is eligible to receive under subsection (b) by the total of the maximum amounts for all such agencies) bears to the percentage share determined (in the same manner) for all local educational agencies eligible to receive a payment under this section for the fiscal year involved, except that, for the purpose of calculating a local educational agency's maximum amount under subsection (b), data from the most current fiscal year shall be used.
 
 #### (4) Data
 
@@ -226,13 +226,13 @@ Notwithstanding any other provision of this section, in determining the eligibil
 
 &emsp;&emsp;(B) beginning in fiscal year 2003 or a subsequent fiscal year, is no longer eligible for payments under this section as provided for in subsection (a)(1)(C) as a result of the transfer of the Federal property involved to a non-Federal entity.
 
-(Pub. L. 89–10, title VII, §7002, formerly title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382; Pub. L. 105–18, title VI, §§60004, 60006, June 12, 1997, 111 Stat. 214, 215; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 105–277, div. A, §101(f) \[title III\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–365; Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–247; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803\], Oct. 30, 2000, 114 Stat. 1654, 1654A–369; Pub. L. 107–110, title VIII, §801(a)–(e), Jan. 8, 2002, 115 Stat. 1947, 1948; Pub. L. 108–447, div. F, title III, §305, Dec. 8, 2004, 118 Stat. 3151; Pub. L. 112–239, div. A, title V, §563(b)(1), (c)(4), Jan. 2, 2013, 126 Stat. 1744, 1748; renumbered title VII, §7002, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(1), (d)(6), (9), 7003, Dec. 10, 2015, 129 Stat. 2074, 2075.)
+(Pub. L. 89–10, title VII, §7002, formerly title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382; Pub. L. 105–18, title VI, §§60004, 60006, June 12, 1997, 111 Stat. 214, 215; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 105–277, div. A, §101(f) \[title III\], Oct. 21, 1998, 112 Stat.2681–337, 2681–365; Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–247; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803\], Oct. 30, 2000, 114 Stat. 1654, 1654A–369; Pub. L. 107–110, title VIII, §801(a)–(e), Jan. 8, 2002, 115 Stat. 1947, 1948; Pub. L. 108–447, div. F, title III, §305, Dec. 8, 2004, 118 Stat. 3151; Pub. L. 112–239, div. A, title V, §563(b)(1), (c)(4), Jan. 2, 2013, 126 Stat. 1744, 1748; renumbered title VII, §7002, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(1), (d)(6), (9), 7003, Dec. 10, 2015, 129 Stat. 2074, 2075.)
 
 #### References in Text
 
 Section 7702(f) of this title as such section was in effect on the day before December 10, 2015, referred to in subsec. (f), means section 7702(f) of this title prior to amendment by Pub. L. 114–95, title VII, §§7001(c)(1), 7003(4), Dec. 10, 2015, 129 Stat. 2074, 2076. See 2015 Amendment note below.
 
-Section 2(c) of the Act of September 30, 1950 (Public Law 874, 81st Congress), referred to in subsec. (g)(2)(A), means section 2(c) of act Sept. 30, 1950, ch. 1124, whichwas classified to section 237(c) of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
+Section 2(c) of the Act of September 30, 1950 (Public Law 874, 81st Congress), referred to in subsec. (g)(2)(A), means section 2(c) of act Sept. 30, 1950, ch. 1124, which was classified to section 237(c) of this title prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
 
 #### Prior Provisions
 
@@ -292,7 +292,7 @@ Subsec. (h)(2) to (4). Pub. L. 112–239, §563(b)(1)(C)(ii), added pars. (2) to
 
 Subsec. (h)(1)(B). Pub. L. 107–110, §801(a)(2), substituted "(or if the local educational agency did not meet, or has not been determined pursuant to statute to meet, the eligibility requirements of section 2(a)(1)(C) of the Act of September 30, 1950 for fiscal year 1994" for "(or if the local educational agency was not eligible to receive a payment under such section 2 for fiscal year 1994".
 
-Subsec. (h)(2)(A). Pub. L. 107–110, §801(b)(1), inserted before period at end ", or whose application under this section for fiscal year 1995 was determined pursuant to statute to be timely filed for purposes of payments for subsequent fiscal years".
+Subsec. (h)(2)(A). Pub. L. 107–110, §801(b)(1), inserted before period at end ", or whose application under thissection for fiscal year 1995 was determined pursuant to statute to be timely filed for purposes of payments for subsequent fiscal years".
 
 Subsec. (h)(2)(B)(ii). Pub. L. 107–110, §801(b)(2), substituted "for each local educational agency described in subparagraph (A)" for "for each local educational agency that received a payment under this section for fiscal year 1995".
 

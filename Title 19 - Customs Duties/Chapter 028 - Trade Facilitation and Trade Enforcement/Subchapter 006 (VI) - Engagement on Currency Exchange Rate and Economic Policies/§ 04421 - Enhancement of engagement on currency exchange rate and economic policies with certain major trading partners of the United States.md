@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) that country's current account balance as a percentage of its gross domestic product;
 
-&emsp;&emsp;&emsp;&emsp;(III) the change in that country's current account balance as a percentage ofits gross domestic product during the 3-year period preceding the submission of the report;
+&emsp;&emsp;&emsp;&emsp;(III) the change in that country's current account balance as a percentage of its gross domestic product during the 3-year period preceding the submission of the report;
 
 &emsp;&emsp;&emsp;&emsp;(IV) that country's foreign exchange reserves as a percentage of its short-term debt; and
 
@@ -54,7 +54,7 @@
 
 &emsp;The President, through the Secretary, shall commence enhanced bilateral engagement with each country for which an enhanced analysis of macroeconomic and currency exchange rate policies is included in the report submitted under subsection (a), in order to, as appropriate—
 
-&emsp;&emsp;(A) urge implementation of policies to address the causes of the undervaluation of its currency, its significant bilateral trade surplus with the United States, and its material current account surplus, including undervaluation and surpluses relating to exchange rate management;
+&emsp;&emsp;(A) urge implementation of policies to address the causes of the undervaluation of itscurrency, its significant bilateral trade surplus with the United States, and its material current account surplus, including undervaluation and surpluses relating to exchange rate management;
 
 &emsp;&emsp;(B) express the concern of the United States with respect to the adverse trade and economic effects of that undervaluation and those surpluses;
 
@@ -142,7 +142,19 @@ In this section:
 
 &emsp;The term "Secretary" means the Secretary of the Treasury.
 
-(Pub. L. 114–125, title VII, §701, Feb. 24, 2016, 130 Stat. 195.)
+(Pub. L. 114–125, title VII, §701, Feb. 24, 2016, 130 Stat. 195; Pub. L. 115–254, div. F, title VI, §1470(h), Oct. 5, 2018, 132 Stat. 3516.)
+
+#### Amendment of Subsection (c)(1)(A)
+
+<i>Pub. L. 115–254, div. F, title VI, §1470(h), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, subsection (c)(1)(A) of this section is amended by striking "Overseas Private Investment Corporation" and inserting "United States International Development Finance Corporation". See 2018 Amendment note below.</i>
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c)(1)(A). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
 #### Ex. Ord. No. 13733. Delegation of Certain Authorities and Assignment of Certain Functions Under the Trade Facilitation and Trade Enforcement Act of 2015
 

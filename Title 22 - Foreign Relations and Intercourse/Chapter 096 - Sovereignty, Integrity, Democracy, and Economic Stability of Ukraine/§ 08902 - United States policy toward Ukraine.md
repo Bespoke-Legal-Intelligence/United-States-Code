@@ -18,7 +18,7 @@ It is the policy of the United States—
 
 &emsp;(8) to reinforce the efforts of the Government of Ukraine to bring to justice those responsible for the acts of violence against peaceful protestors and other unprovoked acts of violence related to the antigovernment protests in <sup>1</sup> that began on November 21, 2013;
 
-&emsp;(9) to support the efforts of the Government of Ukraine to recover and return to the Ukrainian state funds stolen by former President Yanukovych, his family, and other current and former members of the Ukrainian government and elites;
+&emsp;(9) to support the efforts of the Government of Ukraine to recover and return to theUkrainian state funds stolen by former President Yanukovych, his family, and other current and former members of the Ukrainian government and elites;
 
 &emsp;(10) to support the continued professionalization of the Ukrainian military;
 

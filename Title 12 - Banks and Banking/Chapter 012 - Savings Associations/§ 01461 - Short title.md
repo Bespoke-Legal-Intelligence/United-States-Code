@@ -14,7 +14,7 @@ Section is comprised of the first sentence of section 1 of act June 13, 1933. Th
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–73, title III, §305(c), Aug. 9, 1989, 103 Stat. 352, provided that: "The amendments made by section 301 \[amending this chapter\] relating to civil penalties shall apply with respect to violations committed and activities engaged in after the date of the enactment ofthis Act \[Aug. 9, 1989\], except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such violations or activities committed or engaged in before such date with respect to an institution if such violations or activities—
+Pub. L. 101–73, title III, §305(c), Aug. 9, 1989, 103 Stat. 352, provided that: "The amendments made by section 301 \[amending this chapter\] relating to civil penalties shall apply with respect to violations committed and activities engaged in after the date of the enactment of this Act \[Aug. 9, 1989\], except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such violations or activities committed or engaged in before such date with respect to an institution if such violations or activities—
 
 &emsp;"(1) are not already subject to a notice issued by the appropriate Federal banking agency or the Board (initiating an administrative proceeding); and
 

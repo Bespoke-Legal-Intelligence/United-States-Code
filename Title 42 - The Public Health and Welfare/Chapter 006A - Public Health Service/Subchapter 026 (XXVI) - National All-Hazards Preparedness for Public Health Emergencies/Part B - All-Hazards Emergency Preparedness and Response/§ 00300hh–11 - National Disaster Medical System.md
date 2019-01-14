@@ -46,7 +46,7 @@
 
 #### (1) In general
 
-&emsp;Taking into account the findings from the joint review described under paragraph (2), theSecretary shall modify the policies of the National Disaster Medical System as necessary.
+&emsp;Taking into account the findings from the joint review described under paragraph (2), the Secretary shall modify the policies of the National Disaster Medical System as necessary.
 
 #### (2) Joint review and medical surge capacity strategic plan
 
@@ -68,7 +68,7 @@
 
 #### (2) Liability
 
-&emsp;For purposes of section 233(a) of this title and the remedies described in such section, an individual appointed under paragraph (1) shall, while acting within the scope of such appointment, be considered to be an employee of the Public Health Service performing medical, surgical, dental, or related functions. With respect to the participation of individuals appointed under paragraph (1) in training programs authorized by the Assistant Secretary for Preparedness and Response or a comparable official of any Federal agency specified in subsection (a)(2)(B), acts of individuals so appointed that are within the scope of such participation shall be considered within the scope of the appointment under paragraph (1) (regardless of whether the individuals receive compensation for such participation).
+&emsp;For purposes of section 233(a) of this title and the remedies described in such section, an individual appointed under paragraph (1) shall, while acting within the scope of such appointment, be considered to be an employee of the Public Health Service performing medical, surgical, dental, or related functions. With respect to the participation of individuals appointed under paragraph (1) in training programs authorized by the Assistant Secretary for Preparedness and Response or a comparable official of any Federal agency specified in subsection (a)(2)(B), acts of individualsso appointed that are within the scope of such participation shall be considered within the scope of the appointment under paragraph (1) (regardless of whether the individuals receive compensation for such participation).
 
 #### (d) Certain employment issues regarding intermittent appointments
 
@@ -124,7 +124,7 @@ For purposes of this section, the term "auxiliary services" includes mortuary se
 
 For the purpose of providing for the Assistant Secretary for Preparedness and Response and the operations of the National Disaster Medical System, other than purposes for which amounts in the Public Health Emergency Fund under section 247d of this title are available, there are authorized to be appropriated $52,700,000 for each of fiscal years 2014 through 2018.
 
-(July 1, 1944, ch. 373, title XXVIII, §2812, formerly §2811, as added Pub. L. 107–188, title I, §102(a), June 12, 2002, 116 Stat. 599; renumbered §2812 and amended Pub. L. 109–417, title I, §102(a)(2), (4), title III, §301(a), Dec. 19, 2006, 120 Stat. 2832, 2834, 2853; Pub. L. 113–5, title I, §104, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–113, div. H, title V, §527, Dec. 18, 2015, 129 Stat. 2653.)
+(July 1, 1944, ch. 373, title XXVIII, §2812, formerly §2811, as added Pub. L. 107–188, title I, §102(a), June 12, 2002, 116 Stat. 599; renumbered §2812 and amended Pub. L. 109–417, title I, §102(a)(2), (4), title III, §301(a), Dec. 19, 2006, 120 Stat. 2832, 2834, 2853; Pub. L. 113–5, title I, §104,Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–113, div. H, title V, §527, Dec. 18, 2015, 129 Stat. 2653.)
 
 #### Amendments
 

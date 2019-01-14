@@ -1,6 +1,6 @@
 ### §3105. Appointment of administrative law judges
 
-Each agency shall appoint as many administrative law judges as are necessary for proceedings required to be conducted in accordance with sections 556 and 557 of this title. Administrative law judges shall be assigned to cases in rotation so far as practicable, and may not perform duties inconsistent with their duties and responsibilities as administrative law judges.
+Each agency shall appoint as many administrative law judges as are necessary for proceedings required to be conducted in accordancewith sections 556 and 557 of this title. Administrative law judges shall be assigned to cases in rotation so far as practicable, and may not perform duties inconsistent with their duties and responsibilities as administrative law judges.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 415; Pub. L. 95–251, §2(a)(1), (b)(2), (d)(1), Mar. 27, 1978, 92 Stat. 183, 184.)
 
@@ -40,7 +40,7 @@ Functions vested by section 551 et seq. of this title in hearing examiners emplo
 
 #### Hearing Examiners Employed by Department of the Interior
 
-Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of the Interior not included in functions of officers, agencies,and employees of that Department transferred to Secretary of the Interior by 1950 Reorg. Plan No. 3, §1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, transferred set out in the Appendix to this title.
+Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of the Interior not included in functions of officers, agencies, and employees of that Department transferred to Secretary of the Interior by 1950 Reorg. Plan No. 3, §1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, transferred set out in the Appendix to this title.
 
 #### Hearing Examiners Employed by Department of Justice
 

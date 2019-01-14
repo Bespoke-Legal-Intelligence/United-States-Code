@@ -78,7 +78,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(A) the transaction is—
 
-&emsp;&emsp;&emsp;(i) the provision of the investment advice to the participant or beneficiary of the plan with respect to a security or other property available as an investment under the plan,
+&emsp;&emsp;&emsp;(i) the provision of the investment advice to the participant or beneficiary ofthe plan with respect to a security or other property available as an investment under the plan,
 
 &emsp;&emsp;&emsp;(ii) the acquisition, holding, or sale of a security or other property available as an investment under the plan pursuant to the investment advice, or
 
@@ -118,7 +118,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(E) not less than 30 days prior to the initial transaction described in this paragraph executed through any system or venue described in subparagraph (A), a plan fiduciary is provided written or electronic notice of the execution of such transaction through such system or venue.
 
-&emsp;(17)(A) Transactions described in subparagraphs (A), (B), and (D) of section 1106(a)(1) ofthis title between a plan and a person that is a party in interest other than a fiduciary (or an affiliate) who has or exercises any discretionary authority or control with respect to the investment of the plan assets involved in the transaction or renders investment advice (within the meaning of section 1002(21)(A)(ii) of this title) with respect to those assets, solely by reason of providing services to the plan or solely by reason of a relationship to such a service provider described in subparagraph (F), (G), (H), or (I) of section 1002(14) of this title, or both, but only if in connection with such transaction the plan receives no less, nor pays no more, than adequate consideration.
+&emsp;(17)(A) Transactions described in subparagraphs (A), (B), and (D) of section 1106(a)(1) of this title between a plan and a person that is a party in interest other than a fiduciary (or an affiliate) who has or exercises any discretionary authority or control with respect to the investment of the plan assets involved in the transaction or renders investment advice (within the meaning of section 1002(21)(A)(ii) of this title) with respect to those assets, solely by reason of providing services to the plan or solely by reason of a relationship to such a service provider described in subparagraph (F), (G), (H), or (I) of section 1002(14) of this title, or both, but only if in connection with such transaction the plan receives no less, nor pays no more, than adequate consideration.
 
 &emsp;(B) For purposes of this paragraph, the term "adequate consideration" means—
 
@@ -134,7 +134,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 Foreign exchange transactions.—Any foreign exchange transactions, between a bank or broker-dealer (or any affiliate of either), and a plan (as defined in section 1002(3) of this title) with respect to which such bank or broker-dealer (or affiliate) is a trustee, custodian, fiduciary, or other party in interest, if—
 
-&emsp;&emsp;(A) the transaction is in connection with the purchase, holding, or sale of securities or other investment assets (other than a foreign exchange transaction unrelated to any other investment in securities or other investment assets),
+&emsp;&emsp;(A) the transaction is in connection with the purchase, holding, or sale of securities orother investment assets (other than a foreign exchange transaction unrelated to any other investment in securities or other investment assets),
 
 &emsp;&emsp;(B) at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm's length <sup>1</sup> foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm's-length foreign exchange transactions involving unrelated parties,
 
@@ -170,7 +170,7 @@ Cross trading.—Any transaction described in sections 1106(a)(1)(A) and 1106(b)
 
 &emsp;(B) Subparagraph (A) does not apply to any transaction between a plan and a plan sponsor or its affiliates that involves the acquisition or sale of an employer security (as defined in section 1107(d)(1) of this title) or the acquisition, sale, or lease of employer real property (as defined in section 1107(d)(2) of this title).
 
-&emsp;(C) In the case of any fiduciary or other party in interest (or any other person knowingly participating in such transaction), subparagraph (A) does not apply to any transaction if, at the time the transaction occurs, such fiduciary or party in interest (or other person) knew (or reasonably should have known) that the transaction would (without regard to this paragraph) constitute a violation of section 1106(a) of this title.
+&emsp;(C) In the case of any fiduciary or other party in interest (or any other person knowingly participating in such transaction), subparagraph (A) does not apply to any transaction if, at the time the transaction occurs, such fiduciary or party in interest (or other person) knew (or reasonably should haveknown) that the transaction would (without regard to this paragraph) constitute a violation of section 1106(a) of this title.
 
 &emsp;(D) For purposes of this paragraph, the term "correction period" means, in connection with a fiduciary or party in interest (or other person knowingly participating in the transaction), the 14-day period beginning on the date on which such fiduciary or party in interest (or other person) discovers, or reasonably should have discovered, that the transaction would (without regard to this paragraph) constitute a violation of section 1106(a) of this title.
 
@@ -428,7 +428,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 &emsp;&emsp;The term "registered representative" of another entity means a person described in section 3(a)(18) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(18)) (substituting the entity for the broker or dealer referred to in such section) or a person described in section 202(a)(17) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(17)) (substituting the entity for the investment adviser referred to in such section).
 
-(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(l)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–16, title VI, §612(b), June 7, 2001, 115 Stat. 100; Pub. L. 108–218, title II, §204(b)(3), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(3), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §108(a)(11), formerly §107(a)(11), title VI, §§601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, 120 Stat. 819, 952, 953, 967–969, 971, 972, 975, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §106(a)(1), (b)(1), Dec. 23, 2008, 122 Stat. 5106; Pub. L. 112–141, div. D, title II, §40241(b), July 6, 2012, 126 Stat. 859; Pub. L. 114–41, title II, §2007(b), July 31, 2015, 129 Stat. 459.)
+(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(l)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–16, title VI, §612(b), June 7, 2001, 115 Stat. 100; Pub. L. 108–218, title II, §204(b)(3), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(3), Oct. 22,2004, 118 Stat. 1551; Pub. L. 109–280, title I, §108(a)(11), formerly §107(a)(11), title VI, §§601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, 120 Stat. 819, 952, 953, 967–969, 971, 972, 975, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §106(a)(1), (b)(1), Dec. 23, 2008, 122 Stat. 5106; Pub. L. 112–141, div. D, title II, §40241(b), July 6, 2012, 126 Stat. 859; Pub. L. 114–41, title II, §2007(b), July 31, 2015, 129 Stat. 459.)
 
 #### References in Text
 
@@ -482,7 +482,7 @@ Pub. L. 108–218 substituted "January 1, 2014" for "January 1, 2006" and "April
 
 Subsec. (d). Pub. L. 101–239, §7891(a)(1), in last sentence, substituted "section 401(c)(3) of the Internal Revenue Code of 1986" for "section 401(c)(3) of the Internal Revenue Code of 1954", which for purposes of codification was translated as "section 401(c)(3) of title 26" thus requiring no change in text.
 
-Pub. L. 101–239, §7891(a)(2), in last sentence, substituted "section 408 of the Internal Revenue Code of1986" for "section 408 of the Internal Revenue Code of 1954" and "section 408(c) of the Internal Revenue Code of 1986" for "section 408(c) of such Code" which for purposes of codification were translated as "section 408 of title 26" and "section 408(c) of title 26", respectively, thus requiring no change in text.
+Pub. L. 101–239, §7891(a)(2), in last sentence, substituted "section 408 of the Internal Revenue Code of 1986" for "section 408 of the Internal Revenue Code of 1954" and "section 408(c) of the Internal Revenue Code of 1986" for "section 408(c) of such Code" which for purposes of codification were translated as "section 408 of title 26" and "section 408(c) of title 26", respectively, thus requiring no change in text.
 
 Pub. L. 101–239, §7894(e)(4)(A), in last sentence, substituted "individual retirement account or individual retirement annuity described in section 408 of title 26 or a retirement bond described in section 409 of title 26 (as effective for obligations issued before January 1, 1984)" for "individual retirement account, individual retirement annuity, or an individual retirement bond (as defined in section 408 or 409 of title 26)" and "section 408(c) of such Code" for "section 408(c) of such code", which for purposes of codification was translated as "section 408(c) of title 26" thus requiring no change in text.
 
@@ -506,7 +506,7 @@ Amendment by section 108(a)(11) of Pub. L. 109–280 applicable to plan years be
 
 Pub. L. 109–280, title VI, §601(a)(3), Aug. 17, 2006, 120 Stat. 958, provided that: "The amendments made by this subsection \[amending this section\] shall apply with respect to advice referred to in section 3(21)(A)(ii) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(21)(A)(ii)\] provided after December 31, 2006."
 
-Amendment by section 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1) of Pub. L. 109–280 applicable to transactions occurring after Aug. 17, 2006, see section 611(h)(1) of Pub. L. 109–280, set out as a note under section 4975 of Title 26, Internal Revenue Code.
+Amendment by section 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1) of Pub. L. 109–280 applicable to transactions occurring after Aug. 17, 2006, see section 611(h)(1) of Pub.L. 109–280, set out as a note under section 4975 of Title 26, Internal Revenue Code.
 
 Amendment by section 612(a) of Pub. L. 109–280 applicable to any transaction which the fiduciary or disqualified person discovers, or reasonably should have discovered, after Aug. 17, 2006, constitutes a prohibited transaction, see section 612(c) of Pub. L. 109–280, set out as a note under section 4975 of Title 26, Internal Revenue Code.
 
@@ -562,7 +562,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub.L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Coordination of 2006 Amendment With Existing Exemptions
 

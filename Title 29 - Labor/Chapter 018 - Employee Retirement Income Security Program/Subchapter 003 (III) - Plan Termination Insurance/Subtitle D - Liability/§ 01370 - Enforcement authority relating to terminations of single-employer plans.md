@@ -44,7 +44,7 @@ A copy of the complaint or notice of appeal in any action under this section sha
 
 #### (A) General rule
 
-&emsp;&emsp;Except as provided in subparagraph (B), the applicable date specified in this paragraph is the earliest date on which the plaintiff acquired or should have acquired actualknowledge of the existence of such cause of action.
+&emsp;&emsp;Except as provided in subparagraph (B), the applicable date specified in this paragraph is the earliest date on which the plaintiff acquired or should have acquired actual knowledge of the existence of such cause of action.
 
 #### (B) Special rule for plaintiffs who are fiduciaries
 

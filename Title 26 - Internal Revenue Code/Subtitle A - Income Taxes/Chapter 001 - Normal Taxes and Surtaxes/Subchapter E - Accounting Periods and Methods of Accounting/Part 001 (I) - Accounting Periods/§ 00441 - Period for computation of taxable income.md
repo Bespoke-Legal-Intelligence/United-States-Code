@@ -38,7 +38,7 @@ For purposes of this subtitle, the term "fiscal year" means a period of 12 month
 
 &emsp;&emsp;(B) on whatever date such same day of the week falls which is nearest to the last day of a calendar month,
 
-> &emsp;may (in accordance with the regulations prescribed under paragraph (3)) elect to computehis taxable income for purposes of this subtitle on the basis of such annual period. This paragraph shall apply to taxable years ending after the date of the enactment of this title.
+> &emsp;may (in accordance with the regulations prescribed under paragraph (3)) elect to compute his taxable income for purposes of this subtitle on the basis of such annual period. This paragraph shall apply to taxable years ending after the date of the enactment of this title.
 
 #### (2) Special rules for 52–53-week year
 
@@ -114,7 +114,7 @@ Except as provided in section 443 (relating to returns for periods of less than 
 
 > &emsp;A corporation shall not be treated as a personal service corporation unless more than 10 percent of the stock (by value) in such corporation is held by employee-owners (within the meaning of section 269A(b)(2), as modified by the preceding sentence). If a corporation is a member of an affiliated group filing a consolidated return, all members of such group shall be taken into account in determining whether such corporation is a personal service corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 148; Pub. L. 88–272, title II, §235(c)(3), Feb. 26, 1964, 78 Stat.127; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–30, title I, §102(b)(5), May 23, 1977, 91 Stat. 137; Pub. L. 98–369, div. A, title IV, §474(b)(2), title VIII, §803, July 18, 1984, 98 Stat. 830, 1000; Pub. L. 99–514, title I, §104(b)(6), title VIII, §806(c)(1), (d), Oct. 22, 1986, 100 Stat. 2105, 2364; Pub. L. 100–647, title I, §1008(e)(4), Nov. 10, 1988, 102 Stat. 3440; Pub. L. 110–172, §11(g)(7), Dec. 29, 2007, 121 Stat. 2490.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 148; Pub. L. 88–272, title II, §235(c)(3), Feb. 26, 1964, 78 Stat. 127; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–30, title I, §102(b)(5), May 23, 1977, 91 Stat. 137; Pub. L. 98–369, div. A, title IV, §474(b)(2), title VIII, §803, July 18, 1984, 98 Stat. 830, 1000; Pub. L. 99–514, title I, §104(b)(6), title VIII, §806(c)(1), (d), Oct. 22, 1986, 100 Stat. 2105, 2364; Pub. L. 100–647, title I, §1008(e)(4), Nov. 10, 1988, 102 Stat. 3440; Pub. L. 110–172, §11(g)(7), Dec. 29, 2007, 121 Stat. 2490.)
 
 #### Amendments
 

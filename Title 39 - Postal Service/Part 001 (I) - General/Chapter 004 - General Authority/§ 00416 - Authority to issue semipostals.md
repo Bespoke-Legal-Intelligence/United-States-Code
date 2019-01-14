@@ -188,7 +188,7 @@ In General.—In order to afford the public a direct and tangible way to provide
 
 "(c)
 
-Requirements.—The provisions of section 416(a), (c), (d), and (f) of title 39, United States Code, shall apply as practicable with respect to the semipostal described in subsection (b), subject to the following:
+Requirements.—The provisions of section 416(a), (c), (d), and (f) of title 39, United States Code, shallapply as practicable with respect to the semipostal described in subsection (b), subject to the following:
 
 &emsp;"(1)
 

@@ -32,7 +32,7 @@ To be eligible for assistance under this part, an applicant shall propose to est
 
 &emsp;(14) to provide to the Secretary such other information as the Secretary may reasonably require;
 
-&emsp;(15) to coordinate services with McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act \[42 U.S.C. 11431 et seq.\]; and
+&emsp;(15) to coordinate services with McKinney-Vento school district liaisons, designatedunder section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act \[42 U.S.C. 11431 et seq.\]; and
 
 &emsp;(16) to develop an adequate emergency preparedness and management plan.
 

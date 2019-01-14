@@ -30,7 +30,7 @@
 
 &emsp;For purposes of this subsection, the term "post-1986 undistributed U.S. earnings" means the portion of the post-1986 undistributed earnings which is attributable to—
 
-&emsp;&emsp;(A) income of the qualified 10-percent owned foreign corporation which is effectively connected with the conduct of a tradeor business within the United States and subject to tax under this chapter, or
+&emsp;&emsp;(A) income of the qualified 10-percent owned foreign corporation which is effectively connected with the conduct of a trade or business within the United States and subject to tax under this chapter, or
 
 &emsp;&emsp;(B) any dividend received (directly or through a wholly owned foreign corporation) from a domestic corporation at least 80 percent of the stock of which (by vote and value) is owned (directly or through such wholly owned foreign corporation) by the qualified 10-percent owned foreign corporation.
 
@@ -230,7 +230,7 @@ Pub. L. 98–369, div. A, title VIII, §805(a), July 18, 1984, 98 Stat. 1000, as
 
 "(1)
 
-In general.—Except as provided in this subsection, the amendments made by this title \[enacting sections 921 to 927 of this title, amending this section and sections 246, 274, 275, 441, 901, 904, 906, 934, 936, 951, 956, 992, 993, 995, 996, 999, 1248, 6011, 6072, 6501, 6686, and 7651 of this title, and enacting provisions set out as notes under sections 921 and 991 of this title\] shall apply to transactions after December 31, 1984, in taxable years ending after such date.
+In general.—Except as provided in this subsection, the amendments made by this title \[enacting sections 921 to 927 of this title, amending this sectionand sections 246, 274, 275, 441, 901, 904, 906, 934, 936, 951, 956, 992, 993, 995, 996, 999, 1248, 6011, 6072, 6501, 6686, and 7651 of this title, and enacting provisions set out as notes under sections 921 and 991 of this title\] shall apply to transactions after December 31, 1984, in taxable years ending after such date.
 
 "(2)
 

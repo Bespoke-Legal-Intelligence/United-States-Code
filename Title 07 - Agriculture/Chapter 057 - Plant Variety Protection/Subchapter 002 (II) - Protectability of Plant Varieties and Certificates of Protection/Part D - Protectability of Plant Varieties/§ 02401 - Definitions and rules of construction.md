@@ -4,15 +4,19 @@
 
 As used in this chapter:
 
-#### (1) Basic seed
+#### (1) Asexually reproduced
+
+&emsp;The term "asexually reproduced" means produced by a method of plant propagation using vegetative material (other than seed) from a single parent, including cuttings, grafting, tissue culture, and propagation by root division.
+
+#### (2) Basic seed
 
 &emsp;The term "basic seed" means the seed planted to produce certified or commercial seed.
 
-#### (2) Breeder
+#### (3) Breeder
 
 &emsp;The term "breeder" means the person who directs the final breeding creating a variety or who discovers and develops a variety. If the actions are conducted by an agent on behalf of a principal, the principal, rather than the agent, shall be considered the breeder. The term does not include a person who redevelops or rediscovers a variety the existence of which is publicly known or a matter of common knowledge.
 
-#### (3) Essentially derived variety
+#### (4) Essentially derived variety
 
 #### (A) In general
 
@@ -28,29 +32,29 @@ As used in this chapter:
 
 &emsp;&emsp;An essentially derived variety may be obtained by the selection of a natural or induced mutant or of a somaclonal variant, the selection of a variant individual from plants of the initial variety, backcrossing, transformation by genetic engineering, or other method.
 
-#### (4) Kind
+#### (5) Kind
 
 &emsp;The term "kind" means one or more related species or subspecies singly or collectively known by one common name, such as soybean, flax, or radish.
 
-#### (5) Seed
+#### (6) Seed
 
 &emsp;The term "seed", with respect to a tuber propagated variety, means the tuber or the part of the tuber used for propagation.
 
-#### (6) Sexually reproduced
+#### (7) Sexually reproduced
 
 &emsp;The term "sexually reproduced" includes any production of a variety by seed, but does not include the production of a variety by tuber propagation.
 
-#### (7) Tuber propagated
+#### (8) Tuber propagated
 
 &emsp;The term "tuber propagated" means propagated by a tuber or a part of a tuber.
 
-#### (8) United States
+#### (9) United States
 
 &emsp;The terms "United States" and "this country" mean the United States, the territories and possessions of the United States, and the Commonwealth of Puerto Rico.
 
-#### (9) Variety
+#### (10) Variety
 
-&emsp;The term "variety" means a plant grouping within a single botanical taxon of the lowest known rank, that, without regard to whether the conditions for plant variety protection are fully met, can be defined by the expression of the characteristics resulting from a given genotype or combination of genotypes, distinguished from any other plant grouping by theexpression of at least one characteristic and considered as a unit with regard to the suitability of the plant grouping for being propagated unchanged. A variety may be represented by seed, transplants, plants, tubers, tissue culture plantlets, and other matter.
+&emsp;The term "variety" means a plant grouping within a single botanical taxon of the lowest known rank, that, without regard to whether the conditions for plant variety protection are fully met, can be defined by the expression of the characteristics resulting from a given genotype or combination of genotypes, distinguished from any other plant grouping by the expression of at least one characteristic and considered as a unit with regard to the suitability of the plant grouping for being propagated unchanged. A variety may be represented by seed, transplants, plants, tubers, tissue culture plantlets, and other matter.
 
 #### (b) Rules of construction
 
@@ -70,7 +74,7 @@ For the purposes of this chapter:
 
 #### (4) Application for protection or entering into a register of varieties
 
-&emsp;The filing of an application for the protection or for the entering of a variety in an official register of varieties, in any country, shall be considered to render the variety a matter of common knowledge from the date of the application, if the application leads to the granting of protection or to the entering of the variety in the official register of varieties, as the case may be.
+&emsp;The filing of an application for the protection or for the entering of a variety in an official register of varieties, in any country, shallbe considered to render the variety a matter of common knowledge from the date of the application, if the application leads to the granting of protection or to the entering of the variety in the official register of varieties, as the case may be.
 
 #### (5) Distinctness
 
@@ -90,9 +94,11 @@ For the purposes of this chapter:
 
 &emsp;&emsp;A variety may become publicly known and a matter of common knowledge by other means.
 
-(Pub. L. 91–577, title II, §41, Dec. 24, 1970, 84 Stat. 1546; Pub. L. 103–349, §2, Oct. 6, 1994, 108 Stat. 3136.)
+(Pub. L. 91–577, title II, §41, Dec. 24, 1970, 84 Stat. 1546; Pub. L. 103–349, §2, Oct. 6, 1994, 108 Stat. 3136; Pub. L. 115–334, title X, §10108(a), Dec. 20, 2018, 132 Stat. 4906.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–334 added par. (1) and redesignated former pars. (1) to (9) as (2) to (10), respectively.
 
 <b>1994</b>—Pub. L. 103–349 amended section generally, substituting provisions consisting of subsecs. (a) and (b) for former provisions consisting of subsecs. (a) to (j).
 

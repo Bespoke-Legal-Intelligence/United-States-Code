@@ -230,7 +230,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (J) Termination date
 
-&emsp;&emsp;For purposes of this paragraph, the term "termination date" has the meaning given such term by section 856(c)(8).<sup>1</sup>
+&emsp;&emsp;For purposes of this paragraph, the term "termination date" has the meaning given such term by section 856(c)(10).
 
 #### (7) Income from redetermined rents, redetermined deductions, and excess interest
 
@@ -284,7 +284,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "redetermined TRS service income" means gross income of a taxable REIT subsidiary of a real estate investment trust attributable to services provided to, or on behalf of, such trust (less deductions properly allocable thereto) to the extent the amount of such income (less such deductions) would (but for subparagraph (F)) be increased on distribution, apportionment, or allocation under section 482.
+&emsp;&emsp;&emsp;The term "redetermined TRS service income" means gross income of a taxableREIT subsidiary of a real estate investment trust attributable to services provided to, or on behalf of, such trust (less deductions properly allocable thereto) to the extent the amount of such income (less such deductions) would (but for subparagraph (F)) be increased on distribution, apportionment, or allocation under section 482.
 
 #### (ii) Coordination with redetermined rents
 
@@ -366,7 +366,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (C) Notice to shareholders
 
-&emsp;&emsp;The amount of any distribution by a real estate investment trust which may be takeninto account as qualified dividend income shall not exceed the amount so designated by the trust in a written notice to its shareholders mailed not later than 60 days after the close of its taxable year.
+&emsp;&emsp;The amount of any distribution by a real estate investment trust which may be taken into account as qualified dividend income shall not exceed the amount so designated by the trust in a written notice to its shareholders mailed not later than 60 days after the close of its taxable year.
 
 #### (D) Qualified dividend income
 
@@ -454,7 +454,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (C) Failure to comply after notice
 
-&emsp;&emsp;The Secretary may require a real estate investment trust to take such actions as the Secretary determines appropriate to ascertain actual ownership if the trust fails to meet the requirements of paragraph (1). If the trust fails to take such actions, the trustshall pay (on notice and demand by the Secretary and in the same manner as tax) an additional penalty equal to the penalty determined under subparagraph (A) or (B), whichever is applicable.
+&emsp;&emsp;The Secretary may require a real estate investment trust to take such actions as the Secretary determines appropriate to ascertain actual ownership if the trust fails to meet the requirements of paragraph (1). If the trust fails to take such actions, the trust shall pay (on notice and demand by the Secretary and in the same manner as tax) an additional penalty equal to the penalty determined under subparagraph (A) or (B), whichever is applicable.
 
 #### (D) Reasonable cause
 
@@ -474,19 +474,19 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;<b>For provisions relating to excise tax based on certain real estate investment trust taxable income not distributed during the taxable year, see section 4981.</b>
 
-(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1006; amended Pub. L. 88–272, title II, §201(d)(11), Feb. 26, 1964, 78 Stat. 32; Pub. L. 91–172, title V, §511(c)(3), Dec. 30, 1969, 83 Stat. 637; Pub. L. 93–625, §6(c), (d)(2)–(4), Jan. 3, 1975, 88 Stat. 2113, 2114; Pub. L. 94–455, title XIV, §1402(b)(1)(P), (2), title XVI, §§1601(c), 1602(b), 1603(b), (c)(5), 1604(c)(2), (f)(3)(B), (j), (k)(2)(B), 1605(b)(2), 1606(a), (d), 1607(a), (b)(1)(A), (2), (3), title XIX, §§1901(a)(112), (b)(1)(V), (33)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746–1748, 1750–1757, 1783, 1792, 1801, 1834; Pub. L. 95–600, title III, §§301(b)(12), 362(d)(3), 363(b), title IV, §403(c)(3), Nov. 6, 1978, 92 Stat. 2822, 2851, 2852, 2868; Pub. L. 96–222, title I, §103(a)(1), Apr. 1, 1980, 94 Stat. 208; Pub. L. 96–223, title IV, §404(b)(8), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(5), (d)(1), Aug. 13, 1981, 95 Stat. 273, 274; Pub. L. 98–369, div. A, title I, §§16(a), 55(b), title X, §1001(b)(13), (e), July 18, 1984, 98 Stat. 505, 572, 1011, 1012; Pub. L. 99–514, title VI, §§612(b)(7), 661(b), 664, 665(a), (b)(1), 666, 668(b)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2251, 2300, 2303–2305, 2307, 2308; Pub. L. 100–647, title I, §§1006(r), (s)(2), (4), (5), 1018(u)(28), Nov. 10, 1988, 102 Stat. 3418, 3419, 3591; Pub. L. 101–508, title XI, §11704(a)(37), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 105–34, title XII, §§1251(a), 1254(a), (b)(1), 1255(b)(2), (3), 1256, 1259, 1260, Aug. 5, 1997, 111 Stat. 1030, 1032–1035; Pub. L. 105–206, title VI, §6012(g), July 22, 1998, 112 Stat. 819; Pub. L. 106–170, title V, §§532(c)(2)(L), (M), 545, 556(a), (b), 566(a)(2), (b), Dec. 17, 1999, 113 Stat. 1930, 1944, 1949, 1950; Pub. L. 106–554, §1(a)(7) \[title III, §311(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 107–147, title IV, §§413(a), 417(13), Mar. 9, 2002, 116 Stat. 54, 56; Pub. L. 108–27, title III, §302(d), May 28, 2003, 117 Stat. 763; Pub. L. 108–311, title IV, §402(a)(5)(E), Oct. 4, 2004, 118 Stat. 1185; Pub. L. 108–357, title II, §243(c), (e), (f)(4), title III, §321(a), title IV, §418(b), Oct. 22, 2004, 118 Stat. 1442, 1445, 1473, 1512; Pub. L. 109–135, title IV, §§403(d)(3), 412(ii), Dec. 21, 2005, 119 Stat. 2622, 2639; Pub. L. 110–172, §11(a)(17)(B), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 110–234, title XV, §§15311(c), 15315(a)–(d), May 22, 2008, 122 Stat. 1503–1505; Pub. L. 110–246, §4(a), title XV, §§15311(c), 15315(a)–(d), June 18, 2008, 122 Stat. 1664, 2265–2267; Pub. L. 110–289, div. C, title II, §§3033, 3051, 3052, July 30, 2008, 122 Stat. 2900, 2901; Pub. L. 114–113, div. Q, title III, §§313(a), (b), 316(a), 320(a), 321(a)(1), (2), (b), 322(a)(2)(B), Dec. 18, 2015, 129 Stat. 3091–3093, 3096, 3097, 3101; Pub. L. 115–97, title I, §13001(b)(2)(K), Dec. 22, 2017, 131 Stat. 2096.)
+(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1006; amended Pub. L. 88–272, title II, §201(d)(11), Feb. 26, 1964, 78 Stat. 32; Pub. L. 91–172, title V, §511(c)(3), Dec. 30, 1969, 83 Stat. 637; Pub. L. 93–625, §6(c), (d)(2)–(4), Jan. 3, 1975, 88 Stat. 2113, 2114; Pub. L. 94–455, title XIV, §1402(b)(1)(P), (2), title XVI, §§1601(c), 1602(b), 1603(b), (c)(5), 1604(c)(2), (f)(3)(B), (j), (k)(2)(B), 1605(b)(2), 1606(a), (d), 1607(a), (b)(1)(A), (2), (3), title XIX, §§1901(a)(112), (b)(1)(V), (33)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746–1748, 1750–1757, 1783, 1792, 1801, 1834; Pub. L. 95–600, title III, §§301(b)(12), 362(d)(3), 363(b), title IV, §403(c)(3), Nov. 6, 1978, 92 Stat. 2822, 2851, 2852, 2868; Pub. L. 96–222, title I, §103(a)(1), Apr. 1, 1980, 94 Stat. 208; Pub. L. 96–223, title IV, §404(b)(8), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(5), (d)(1), Aug. 13, 1981, 95 Stat. 273, 274; Pub. L. 98–369, div. A, title I, §§16(a), 55(b), title X, §1001(b)(13), (e), July 18, 1984, 98 Stat. 505, 572, 1011, 1012; Pub. L. 99–514, title VI, §§612(b)(7), 661(b), 664, 665(a), (b)(1), 666, 668(b)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2251, 2300, 2303–2305, 2307, 2308; Pub. L. 100–647, title I, §§1006(r), (s)(2), (4), (5), 1018(u)(28), Nov. 10, 1988, 102 Stat. 3418, 3419, 3591; Pub. L. 101–508, title XI, §11704(a)(37), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 105–34, title XII, §§1251(a), 1254(a), (b)(1), 1255(b)(2), (3), 1256, 1259, 1260, Aug. 5, 1997, 111 Stat. 1030, 1032–1035; Pub. L. 105–206, title VI, §6012(g), July 22, 1998, 112 Stat. 819; Pub. L. 106–170, title V, §§532(c)(2)(L), (M), 545, 556(a), (b), 566(a)(2), (b), Dec. 17, 1999, 113 Stat. 1930, 1944, 1949, 1950; Pub. L. 106–554, §1(a)(7) \[title III, §311(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 107–147, title IV, §§413(a), 417(13), Mar. 9, 2002, 116 Stat. 54, 56; Pub. L. 108–27, title III, §302(d), May 28, 2003, 117 Stat. 763; Pub. L. 108–311, title IV, §402(a)(5)(E), Oct. 4, 2004, 118 Stat. 1185; Pub. L. 108–357, title II, §243(c), (e), (f)(4), title III, §321(a), title IV, §418(b), Oct. 22, 2004, 118 Stat. 1442, 1445, 1473, 1512; Pub. L. 109–135, title IV, §§403(d)(3), 412(ii), Dec. 21, 2005, 119 Stat. 2622, 2639; Pub. L. 110–172, §11(a)(17)(B), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 110–234, title XV, §§15311(c), 15315(a)–(d), May 22, 2008, 122 Stat. 1503–1505; Pub. L. 110–246, §4(a), title XV, §§15311(c), 15315(a)–(d), June 18, 2008, 122 Stat. 1664, 2265–2267; Pub. L. 110–289, div. C, title II, §§3033, 3051, 3052, July 30, 2008, 122 Stat. 2900, 2901; Pub. L. 114–113, div. Q, title III, §§313(a), (b), 316(a), 320(a), 321(a)(1), (2), (b), 322(a)(2)(B), Dec. 18, 2015, 129 Stat. 3091–3093, 3096, 3097, 3101; Pub. L. 115–97, title I, §13001(b)(2)(K), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 115–141, div. U, title IV, §401(a)(148), Mar. 23, 2018, 132 Stat. 1191.)
 
 #### References in Text
 
 The date of enactment of the Housing Assistance Tax Act of 2008, referred to in subsec. (b)(6)(I), is the date of enactment of div. C of Pub. L. 110–289, which was approved July 30, 2008.
-
-Section 856(c)(8), referred to in subsec. (b)(6)(J), was redesignated section 856(c)(10) of this title by Pub. L. 114–113, div. Q, §§311(b), 318(a), Dec. 18, 2015, 129 Stat. 3090, 3095.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(6)(J). Pub. L. 115–141 substituted "section 856(c)(10)" for "section 856(c)(8)".
 
 <b>2017</b>—Subsec. (b)(3)(A), (B). Pub. L. 115–97, §13001(b)(2)(K)(i), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which related to alternative tax in case of capital gains.
 
@@ -514,7 +514,7 @@ Subsec. (b)(6)(D)(iv)(IV), (V). Pub. L. 114–113, §313(a)(3), added subcls. (I
 
 Subsec. (b)(6)(D)(v). Pub. L. 114–113, §321(a)(2), struck out ", in the case of a sale on or before the termination date," before "a taxable REIT subsidiary".
 
-Subsec. (b)(6)(F). Pub. L. 114–113, §313(b)(2), amended subpar. (F) generally. Prior to amendment, text read as follows: "In determining whether or not any sale constitutes a 'prohibited transaction' for purposes of subparagraph (A), the fact that such sale does not meet the requirements of subparagraph (C) or (D) shall not be taken into account; and such determination, in the case of a sale not meeting such requirements, shall be made as if subparagraphs (C), (D), and (E) had not been enacted."
+Subsec. (b)(6)(F). Pub. L. 114–113, §313(b)(2), amended subpar. (F) generally. Prior to amendment, text read asfollows: "In determining whether or not any sale constitutes a 'prohibited transaction' for purposes of subparagraph (A), the fact that such sale does not meet the requirements of subparagraph (C) or (D) shall not be taken into account; and such determination, in the case of a sale not meeting such requirements, shall be made as if subparagraphs (C), (D), and (E) had not been enacted."
 
 Subsec. (b)(6)(G) to (J). Pub. L. 114–113, §313(a)(2), added subpars. (G) and (H) and redesignated former subpars. (G) and (H) as (I) and (J), respectively.
 
@@ -726,7 +726,7 @@ Subsec. (b)(3)(B). Pub. L. 94–455, §1402(b)(2), provided that "9 months" woul
 
 Pub. L. 94–455, §1402(b)(1)(P), provided that "6 months" would be changed to "9 months" for taxable years beginning in 1977.
 
-Subsec. (b)(3)(C). Pub. L. 94–455, §§1601(c), 1607(b)(3), 1901(a)(112), (b)(33)(K), inserted "; except that, if there is an increase in the excess described in subparagraph (A)(ii) of this paragraph for such year which results from a determination (as defined in section 859(c)), such designation may be made with respect to such increase at any time before the expiration of 120 days after the date of such determination" after "30 days after the close of its taxable year", substituted "net capital gain" for "excess of the net long-term capital gain over the net short-term capital loss" in provision covering the portion of distributions which shall be capital gain dividends, inserted provision that the net capital gainbe deemed not to exceed the real estate investment trust taxable income, and struck out provision which specified the source of deductions for dividends paid in the case of taxable years beginning before Jan. 1, 1975.
+Subsec. (b)(3)(C). Pub. L. 94–455, §§1601(c), 1607(b)(3), 1901(a)(112), (b)(33)(K), inserted "; except that, if there is an increase in the excess described in subparagraph (A)(ii) of this paragraph for such year which results from a determination (as defined in section 859(c)), such designation may be made with respect to such increase at any time before the expiration of 120 days after the date of such determination" after "30 days after the close of its taxable year", substituted "net capital gain" for "excess of the net long-term capital gain over the net short-term capital loss" in provision covering the portion of distributions which shall be capital gain dividends, inserted provision that the net capital gain be deemed not to exceed the real estate investment trust taxable income, and struck out provision which specified the source of deductions for dividends paid in the case of taxable years beginning before Jan. 1, 1975.
 
 Subsec. (b)(4)(B)(i). Pub. L. 94–455, §1604(c)(2), inserted reference to subparagraph (G) of section 856(c)(3).
 
@@ -820,9 +820,9 @@ Amendment by section 243(c), (e) of Pub. L. 108–357 applicable to taxable year
 
 Pub. L. 108–357, title III, §321(b), Oct. 22, 2004, 118 Stat. 1474, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
-Pub. L. 108–357, title IV, §418(c), Oct. 22, 2004, 118 Stat. 1513, as amended by Pub. L. 109–135, title IV, §403(p)(2),Dec. 21, 2005, 119 Stat. 2626, provided that: "The amendments made by this section \[amending this section and section 897 of this title\] shall apply to—
+Pub. L. 108–357, title IV, §418(c), Oct. 22, 2004, 118 Stat. 1513, as amended by Pub. L. 109–135, title IV, §403(p)(2), Dec. 21, 2005, 119 Stat. 2626, provided that: "The amendments made by this section \[amending this section and section 897 of this title\] shall apply to—
 
-&emsp;"(1) any distribution by a real estate investment trust which is treated as a deduction for a taxable year of such trust beginning after the date of the enactment of this Act \[Oct. 22, 2004\], and
+&emsp;"(1) any distribution by a real estate investment trust which is treated as a deduction for a taxableyear of such trust beginning after the date of the enactment of this Act \[Oct. 22, 2004\], and
 
 &emsp;"(2) any distribution by a real estate investment trust made after such date which is treated as a deduction under section 860 \[probably means section 860 of the Internal Revenue Code of 1986\] for a taxable year of such trust beginning on or before such date."
 
@@ -838,7 +838,7 @@ Pub. L. 107–147, title IV, §413(b), Mar. 9, 2002, 116 Stat. 54, provided that
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 effective as if included in the provisions of the Ticket to Work and Work Incentives Improvement Act of 1999, Pub. L. 106–170, to which such amendment relates, see section 1(a)(7) \[title III, §311(d)\] of Pub. L. 106–554, set out as a note under section 30A of this title.
+Amendment by Pub. L. 106–554 effective as if included in the provisions of the Ticket to Work and Work Incentives Improvement Act of 1999, Pub. L. 106–170, to which such amendment relates, see section 1(a)(7) \[title III, §311(d)\] of Pub. L. 106–554, set out as a note under section 280C of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -933,6 +933,4 @@ Amendment by Pub. L. 88–272 applicable with respect to dividends received afte
 #### Effective Date
 
 Section applicable with respect to taxable years of real estate investment trusts beginning after Dec. 31, 1960, see section 10(k) of Pub. L. 86–779, set out as a note under section 856 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

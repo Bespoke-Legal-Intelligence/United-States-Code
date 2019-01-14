@@ -30,9 +30,13 @@ A State receiving a grant under subsection (a) may use funds received under the 
 
 &emsp;&emsp;(A) the expansion or establishment of a community-based dental facility, free-standing dental clinic, consolidated health center dental facility, school-linked dental facility, or United States dental school-based facility;
 
-&emsp;&emsp;(B) the establishment of a mobile or portable dental clinic; and
+&emsp;&emsp;(B) the establishment of a mobile or portable dental clinic;
 
 &emsp;&emsp;(C) the establishment or expansion of private dental services to enhance capacity through additional equipment or additional hours of operation;
+
+&emsp;&emsp;(D) the establishment or development of models for the provision of dental services to children and adults, such as dental homes, including for the elderly, blind, individuals with disabilities, and individuals living in long-term care facilities; and
+
+&emsp;&emsp;(E) the establishment of initiatives to reduce the use of emergency departments by individuals who seek dental services more appropriately delivered in a dental primary care setting;
 
 &emsp;(6) placement and support of dental students, dental residents, and advanced dentistry trainees;
 
@@ -44,7 +48,7 @@ A State receiving a grant under subsection (a) may use funds received under the 
 
 &emsp;(10) coordination with local educational agencies within the State to foster programs that promote children going into oral health or science professions;
 
-&emsp;(11) the establishment of faculty recruitment programs at accredited dental training institutions whose mission includes community outreach and service and that have a demonstrated record of serving underserved States;
+&emsp;(11) the establishment of faculty recruitment programs at accredited dental traininginstitutions whose mission includes community outreach and service and that have a demonstrated record of serving underserved States;
 
 &emsp;(12) the development of a State dental officer position or the augmentation of a State dental office to coordinate oral health and access issues in the State; and
 
@@ -70,15 +74,19 @@ Not later than 5 years after October 26, 2002, the Secretary shall prepare and s
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section, $25,000,000 for the 5-fiscal year period beginning with fiscal year 2008.
+There is authorized to be appropriated to carry out this section, $13,903,000 for each of fiscal years 2019 through 2023.
 
-(July 1, 1944, ch. 373, title III, §340G, as added Pub. L. 107–251, title IV, §403, Oct. 26, 2002, 116 Stat. 1661; amended Pub. L. 110–355, §5, Oct. 8, 2008, 122 Stat. 3994.)
+(July 1, 1944, ch. 373, title III, §340G, as added Pub. L. 107–251, title IV, §403, Oct. 26, 2002, 116 Stat. 1661; amended Pub. L. 110–355, §5, Oct. 8, 2008, 122 Stat. 3994; Pub. L. 115–302, §3, Dec. 11, 2018, 132 Stat. 4397.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(5)(D), (E). Pub. L. 115–302, §3(1), added subpars. (D) and (E).
+
+Subsec. (f). Pub. L. 115–302, §3(2), substituted "$13,903,000 for each of fiscal years 2019 through 2023" for "$25,000,000 for the 5-fiscal year period beginning with fiscal year 2008".
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–355 substituted "$25,000,000" for "$50,000,000" and "2008" for "2002".
 

@@ -44,7 +44,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) to deliver instruction to students who are separated from the instructor; and
 
-&emsp;&emsp;&emsp;(ii) to support regular and substantive interaction between the students and theinstructor, synchronously or asynchronously.
+&emsp;&emsp;&emsp;(ii) to support regular and substantive interaction between the students and the instructor, synchronously or asynchronously.
 
 #### (B) Inclusions
 

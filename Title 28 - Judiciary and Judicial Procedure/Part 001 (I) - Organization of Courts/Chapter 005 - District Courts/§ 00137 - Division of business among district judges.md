@@ -1,12 +1,42 @@
 ### §137. Division of business among district judges
 
-The business of a court having more than one judge shall be divided among the judges as provided by the rules and orders of the court.
+(a)
+
+In General.—The business of a court having more than one judge shall be divided among the judges as provided by the rules and orders of the court.
 
 The chief judge of the district court shall be responsible for the observance of such rules and orders, and shall divide the business and assign the cases so far as such rules and orders do not otherwise prescribe.
 
 If the district judges in any district are unable to agree upon the adoption of rules or orders for that purpose the judicial council of the circuit shall make the necessary orders.
 
-(June 25, 1948, ch. 646, 62 Stat. 897.)
+(b)
+
+Random Assignment of Rate Court Proceedings.—
+
+&emsp;(1)
+
+In general.—
+
+&emsp;&emsp;(A)
+
+Definition.—In this paragraph, the term "performing rights society" has the meaning given the term in section 101 of title 17.
+
+&emsp;&emsp;(B)
+
+Determination of license fee.—Except as provided in subparagraph (C), in the case of any performing rights society subject to a consent decree, any application for the determination of a license fee for the public performance of music in accordance with the applicable consent decree shall be made in the district court with jurisdiction over that consent decree and randomly assigned to a judge of that district court according to the rules of that court for the division of business among district judges, provided that any such application shall not be assigned to—
+
+&emsp;&emsp;&emsp;(i) a judge to whom continuing jurisdiction over any performing rights society for any performing rights society consent decree is assigned or has previously been assigned; or
+
+&emsp;&emsp;&emsp;(ii) a judge to whom another proceeding concerning an application for the determination of a reasonable license fee is assigned at the time of the filing of the application.
+
+&emsp;&emsp;(C)
+
+Exception.—Subparagraph (B) does not apply to an application to determine reasonable license fees made by individual proprietors under section 513 of title 17.
+
+&emsp;(2)
+
+Rule of construction.—Nothing in paragraph (1) shall modify the rights of any party to a consent decree or to a proceeding to determine reasonable license fees, to make an application for the construction of any provision of the applicable consent decree. Such application shall be referred to the judge to whom continuing jurisdiction over the applicable consent decree is currently assigned. If any such application is made in connection with a rate proceeding, such rate proceeding shall be stayed until the final determination of the construction application. Disputes in connection with a rate proceeding about whether a licensee is similarly situated to another licensee shall not be subject to referral to the judge with continuing jurisdiction over the applicable consent decree.
+
+(June 25, 1948, ch. 646, 62 Stat. 897; Pub. L. 115–264, title I, §104, Oct. 11, 2018, 132 Stat. 3726.)
 
 #### Historical and Revision Notes
 
@@ -15,6 +45,10 @@ Based on title 28, U.S.C., 1940 ed., §27 (Mar. 3, 1911, ch. 231, §23, 36 Stat.
 Section was rewritten and the practice simplified. It provided for division of business and assignment of cases by agreement of judges and, in case of inability to agree, that the senior circuit judge of the circuit should make necessary orders.
 
 The revised section is consistent with section 332 of this title, that the last paragraph of which requires the judicial council to make all necessary orders for the effective and expeditious administration of the business of the courts within the circuit.
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–264 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Pilot Program in Certain District Courts
 
@@ -92,7 +126,7 @@ In general.—At the times specified in paragraph (2), the Director of the Admin
 
 &emsp;&emsp;"(B) an analysis of the extent to which the program has improved the efficiency of the courts involved by reason of such expertise;
 
-&emsp;&emsp;"(C) with respect to patent cases handled by the judges designated pursuant to subsection (a)(1)(A)and judges not so designated, a comparison between the 2 groups of judges with respect to—
+&emsp;&emsp;"(C) with respect to patent cases handled by the judges designated pursuant to subsection (a)(1)(A) and judges not so designated, a comparison between the 2 groups of judges with respect to—
 
 &emsp;&emsp;&emsp;"(i) the rate of reversal by the Court of Appeals for the Federal Circuit, of such cases on the issues of claim construction and substantive patent law; and
 

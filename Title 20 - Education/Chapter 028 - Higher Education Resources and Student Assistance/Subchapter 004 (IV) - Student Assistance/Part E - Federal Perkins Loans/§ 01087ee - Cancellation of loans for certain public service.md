@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(i) an elementary school or secondary school that is eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311 et seq.\]; or
 
-&emsp;&emsp;(ii) a public library that serves a geographic area that contains one or moreschools eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965; or
+&emsp;&emsp;(ii) a public library that serves a geographic area that contains one or more schools eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965; or
 
 &emsp;(M) as a full-time speech language pathologist, if the pathologist has a masters degree and is working exclusively with schools that are eligible for assistance under title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 
@@ -98,7 +98,7 @@ The Peace Corps Act, referred to in subsec. (a)(2)(E), is Pub. L. 87–293, Sept
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(E), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (a)(6), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (a)(6), is Pub. L. 101–610, Nov. 16,1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 Section 1087aa of this title, referred to in subsec. (b), was amended by Pub. L. 114–105, §2(a)(1)(B), Dec. 18, 2015, 129 Stat. 2219, which struck out subsec. (b) authorizing appropriations and added a new subsec. (b) authorizing institutions of higher education to make loans.
 
@@ -170,7 +170,7 @@ Subsec. (a)(2)(F). Pub. L. 101–647, §2101(a), which directed amendment of sub
 
 Subsec. (a)(3)(A)(i). Pub. L. 101–647, §2101(b), which directed amendment of subsec. (a)(3)(i) by substituting "(A), (C), or (F)" for "(A) or (C)", was executed by making the substitution in subsec. (a)(3)(A)(i) to reflect the probable intent of Congress.
 
-<b>1988</b>—Subsec. (a)(5). Pub. L. 100–369 substituted "Internal Revenue Code of 1986" for "Internal RevenueCode of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+<b>1988</b>—Subsec. (a)(5). Pub. L. 100–369 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 <b>1987</b>—Subsec. (a)(2)(A). Pub. L. 100–50, §13(j)(1), (2), substituted "chapter 1 of the Education Consolidation and Improvement Act of 1981" for "title I of the Elementary and Secondary Education Act of 1965" and "such chapter 1" for "such title I".
 

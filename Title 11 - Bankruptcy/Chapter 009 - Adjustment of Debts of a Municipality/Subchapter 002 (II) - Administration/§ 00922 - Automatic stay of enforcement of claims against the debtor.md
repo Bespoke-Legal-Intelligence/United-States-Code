@@ -10,7 +10,7 @@
 
 (c) If the debtor provides, under section 362, 364, or 922 of this title, adequate protection of the interest of the holder of a claim secured by a lien on property of the debtor and if, notwithstanding such protection such creditor has a claim arising from the stay of action against such property under section 362 or 922 of this title or from the granting of a lien under section 364(d) of this title, then such claim shall be allowable as an administrative expense under section 503(b) of this title.
 
-(d) Notwithstanding section 362 of this title and subsection (a) of this section, a petition filed under this chapter does not operate as a stay of application of pledged special revenues in a manner consistent with section 927 of this title to payment of indebtedness secured by such revenues.
+(d) Notwithstanding section 362 of this title and subsection (a) of this section, a petition filed under this chapter does not operate as astay of application of pledged special revenues in a manner consistent with section 927 of this title to payment of indebtedness secured by such revenues.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2623; Pub. L. 98–353, title III, §495, July 10, 1984, 98 Stat. 384; Pub. L. 100–597, §5, Nov. 3, 1988, 102 Stat. 3029.)
 

@@ -168,7 +168,7 @@ Federal members.—The Task Force shall be composed of each of the following Fed
 
 &emsp;&emsp;&emsp;"(i) The Director of the Centers for Disease Control and Prevention.
 
-&emsp;&emsp;&emsp;"(ii) The Director of the National Institutes of Health, the Director of the Eunice KennedyShriver National Institute of Child Health and Human Development, and the directors of such other appropriate national research institutes.
+&emsp;&emsp;&emsp;"(ii) The Director of the National Institutes of Health, the Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development, and the directors of such other appropriate national research institutes.
 
 &emsp;&emsp;&emsp;"(iii) The Commissioner of Food and Drugs.
 
@@ -208,7 +208,7 @@ In general.—Subject to subparagraph (B), the Task Force shall terminate on the
 
 &emsp;&emsp;"(B)
 
-Extension.—The Secretary may extend the operation of the Task Force for one additional 2-year period following the 2-year period described in subparagraph (A), if the Secretary determines that the extension is appropriate for carrying out the purpose of this section.
+Extension.—The Secretary may extend the operation of the Task Force for one additional 2-year period following the 2-year period described insubparagraph (A), if the Secretary determines that the extension is appropriate for carrying out the purpose of this section.
 
 &emsp;"(5)
 

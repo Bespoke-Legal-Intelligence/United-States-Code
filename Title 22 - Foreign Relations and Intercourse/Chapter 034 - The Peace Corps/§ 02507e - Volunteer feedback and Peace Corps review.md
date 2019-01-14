@@ -6,11 +6,11 @@ Not later than 1 year after November 21, 2011, the President shall establish goa
 
 #### (b) Performance plans and elements
 
-The President shall establish performance plans with performance elements and standards for Peace Corps representatives and shall review the performance of Peace Corps representatives not less than annually to determine whether they have met these performance elements and standards. Nothing in this subsection shall be construed as limiting the discretion of the President to remove a Peace Corps representative.
+The President shall establish performance plans with performance elements and standards for Peace Corps representatives, ensure that each such plan includes a consideration of the results, with respect to each such representative and the country of service of each such representative, of each survey conducted under subsection (c),,<sup>1</sup> and review the performance of Peace Corps representatives not less than annually to determine whether they have met these performance elements and standards. Nothing in this subsection shall be construed as limiting the discretion of the President to remove a Peace Corps representative.
 
 #### (c) Annual volunteer surveys
 
-Annually through September 30, 2018, the President shall conduct a confidential survey of volunteers regarding the effectiveness of Peace Corps programs and staff and the safety of volunteers. The results shall be provided in aggregate form without identifying information to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives. Results from the annual volunteer survey shall be considered in reviewing the performance of Peace Corps representatives under subsection (a).
+Annually through September 30, 2023, the President shall conduct a confidential survey of volunteers regarding the effectiveness of Peace Corps programs and staff and the safety of volunteers. The results shall be provided in aggregate form without identifying information to the Committee on Foreign Relations and the Committee on Appropriations of the Senate andthe Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives. Results from the annual volunteer survey shall be considered in reviewing the performance of Peace Corps representatives under subsection (b). The President shall publish, on a publicly available website of the Peace Corps, a report summarizing the results of each survey related to volunteer satisfaction in each country in which volunteers serve, and the early termination rate of volunteers serving in each such country. The information published shall be posted in an easily accessible place near the description of the appropriate country and shall be written in an easily understood manner.
 
 #### (d) Peace Corps Inspector General
 
@@ -42,13 +42,21 @@ The Inspector General of the Peace Corps shall—
 
 &emsp;&emsp;(E) An evaluation of the effectiveness of management of each post within a country.
 
-&emsp;&emsp;(F) An evaluation of the country's congruence with the Peace Corp's <sup>1</sup> mission and strategic priorities.
+&emsp;&emsp;(F) An evaluation of the country's congruence with the Peace Corp's <sup>2</sup> mission and strategic priorities.
 
 #### (2) Briefing
 
 &emsp;Upon request of the Chairman and Ranking Member of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the President shall brief such committees on each portfolio review required under paragraph (1). If requested, each such briefing shall discuss performance measures and sources of data used (such as project status reports, volunteer surveys, impact studies, reports of Inspector General of the Peace Corps, and any relevant external sources) in making the findings and conclusions in such review.
 
-(Pub. L. 87–293, title I, §8E, as added Pub. L. 112–57, §2, Nov. 21, 2011, 125 Stat. 740.)
+(Pub. L. 87–293, title I, §8E, as added Pub. L. 112–57, §2, Nov. 21, 2011, 125 Stat. 740; amended Pub. L. 115–256, title II, §202, Oct. 9, 2018, 132 Stat. 3654.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be "Corps' ".</i>
+#### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–256, §202(1), inserted ", ensure that each such plan includes a consideration of the results, with respect to each such representative and the country of service of each such representative, of each survey conducted under subsection (c)," after "standards for Peace Corps representatives" and substituted ", and review" for "and shall review".
+
+Subsec. (c). Pub. L. 115–256, §202(2), substituted "2023" for "2018" and "subsection (b)" for "subsection (a)" and inserted at end "The President shall publish, on a publicly available website of the Peace Corps, a report summarizing the results of each survey related to volunteer satisfaction in each country in which volunteers serve, and the early termination rate of volunteers serving in each such country. The information published shall be posted in an easily accessible place near the description of the appropriate country and shall be written in an easily understood manner."
+
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "Corps' ".</i>
 

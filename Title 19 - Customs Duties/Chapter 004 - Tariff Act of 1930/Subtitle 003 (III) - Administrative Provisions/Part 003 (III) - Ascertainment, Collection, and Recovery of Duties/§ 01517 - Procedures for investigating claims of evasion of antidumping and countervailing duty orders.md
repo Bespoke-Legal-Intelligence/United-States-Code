@@ -292,7 +292,7 @@ Not later than 90 calendar days after initiating an investigation under subsecti
 
 &emsp;&emsp;(A) whether the Commissioner fully complied with all procedures under subsections (c) and (f); and
 
-&emsp;&emsp;(B) whether any determination, finding, or conclusion is arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
+&emsp;&emsp;(B) whether any determination, finding, or conclusion is arbitrary, capricious, an abuseof discretion, or otherwise not in accordance with law.
 
 #### (3) Rule of construction
 

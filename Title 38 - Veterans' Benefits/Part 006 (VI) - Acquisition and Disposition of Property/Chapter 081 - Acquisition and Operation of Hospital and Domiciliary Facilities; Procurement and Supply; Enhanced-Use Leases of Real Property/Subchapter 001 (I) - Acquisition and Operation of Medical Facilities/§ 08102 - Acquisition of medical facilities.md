@@ -1,6 +1,6 @@
 ### §8102. Acquisition of medical facilities
 
-(a) The Secretary shall provide medical facilities for veterans entitled to hospital, nursinghome, or domiciliary care or medical services under this title.
+(a) The Secretary shall provide medical facilities for veterans entitled to hospital, nursing home, or domiciliary care or medical services under this title.
 
 (b) No medical facility may be constructed or otherwise acquired or altered except in accordance with the provisions of this subchapter.
 

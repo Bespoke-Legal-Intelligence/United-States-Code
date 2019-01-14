@@ -38,7 +38,7 @@ For purposes of this part, the term "distributable net income" means, with respe
 
 &emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this part, including regulations to prevent avoidance of such purposes.
 
-> If the estate or trust is allowed a deduction under section 642(c), the amount of the modifications specified in paragraphs (5) and (6) shall be reduced to the extent that the amount of income which is paid, permanently set aside, or to be used for the purposes specified in section 642(c) is deemed to consist of items specified in those paragraphs. For this purpose, such amount shall (in the absence of specific provisions in the governing instrument) be deemed to consist of the same proportion of each class of items of income of the estate or trust as the total of each class bears to the total of all classes.
+> If the estate or trust is allowed a deduction under section 642(c), the amount of the modifications specified in paragraphs (5) and (6) shall be reduced to the extent that the amount of income which is paid, permanently set aside, or to be used for the purposes specified in section 642(c) is deemed to consist of items specified in those paragraphs. For this purpose, such amount shall (in the absence of specific provisions in thegoverning instrument) be deemed to consist of the same proportion of each class of items of income of the estate or trust as the total of each class bears to the total of all classes.
 
 #### (b) Income
 
@@ -138,7 +138,7 @@ For purposes of this subchapter, under regulations prescribed by the Secretary, 
 
 #### (h) Distributions by certain foreign trusts through nominees
 
-For purposes of this part, any amount paid to a United States person which is derived directly or indirectly from a foreign trust of which the payor is not the grantor shall be deemed in the year of payment to have been directly paid by the foreign trust to such United States person.
+For purposes of this part, any amount paid to a United States person which is derived directly or indirectly from a foreign trust of which the payor is not the grantor shall be deemed in theyear of payment to have been directly paid by the foreign trust to such United States person.
 
 #### (i) Loans from foreign trusts
 
@@ -192,7 +192,7 @@ For purposes of subparts B, C, and D—
 
 #### Amendments
 
-<b>2010</b>—Subsec. (i)(1). Pub. L. 111–147, §533(a), substituted "(or permits the use of any other trust property) directly or indirectly to or by" for "directly or indirectly to" in introductory provisions and inserted "(or the fair market value of the use of such property)"after "the amount of such loan" in concluding provisions.
+<b>2010</b>—Subsec. (i)(1). Pub. L. 111–147, §533(a), substituted "(or permits the use of any other trust property) directly or indirectly to or by" for "directly or indirectly to" in introductory provisions and inserted "(or the fair market value of the use of such property)" after "the amount of such loan" in concluding provisions.
 
 Subsec. (i)(2)(E). Pub. L. 111–147, §533(b), added subpar. (E).
 

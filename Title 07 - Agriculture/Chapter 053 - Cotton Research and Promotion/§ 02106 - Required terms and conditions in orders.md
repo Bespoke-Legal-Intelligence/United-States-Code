@@ -26,7 +26,7 @@ Orders issued pursuant to this chapter shall contain the following terms and con
 
 &emsp;(C) each importer shall pay to the Cotton Board on imports of cotton,
 
-> an assessment prescribed by the order, on the basis of bales of cotton handled or imported. The assessment shall cover such expenses and expenditures, including provision for a reasonable reserve, as the Secretary finds are reasonable and likely to be incurred by the Cotton Board under the order, during any period specified by the Secretary.
+> an assessment prescribed by the order, on the basis of bales of cotton handled or imported. The assessment shall cover such expenses and expenditures, including provision for a reasonable reserve, as the Secretary finds are reasonableand likely to be incurred by the Cotton Board under the order, during any period specified by the Secretary.
 
 (2) The order shall provide for reimbursing the Secretary—
 
@@ -62,7 +62,7 @@ Orders issued pursuant to this chapter shall contain the following terms and con
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–624, §1992(1), substituted "person" for "handler" and struck out "producer" before "assessment".
 
-Subsec. (b). Pub. L. 101–624, §1992(2), inserted "(1)", and substituted ", and (2) when imports of cotton aresubject to an order, an appropriate number of representatives, as determined by the Secretary, of importers of cotton on which assessments are paid under this chapter. Such importer representatives shall be appointed by the Secretary after consultation with organizations representing importers, as determined by the Secretary. Each cotton-producing State shall be entitled to at least one representative on the Cotton Board." for ": <i>Provided, however</i>, That each cotton-producing State shall be entitled to at least one representative on the Cotton Board."
+Subsec. (b). Pub. L. 101–624, §1992(2), inserted "(1)", and substituted ", and (2) when imports of cotton are subject to an order, an appropriate number of representatives, as determined by the Secretary, of importers of cotton on which assessments are paid under this chapter. Such importer representatives shall be appointed by the Secretary after consultation with organizations representing importers, as determined by the Secretary. Each cotton-producing State shall be entitled to at least one representative on the Cotton Board." for ": <i>Provided, however</i>, That each cotton-producing State shall be entitled to at least one representative on the Cotton Board."
 
 Subsec. (e). Pub. L. 101–624, §1992(3), amended subsec. (e) generally, substituting present provisions for provisions relating to a producer-paid assessment at a rate of $1 per bale, with a possible per-bale supplement not to exceed 1 per centum of the value of the cotton, along with other provisions relating to use of assessment funds, referendums and procedures concerning any supplemental assessments, and judicial action to collect assessments.
 

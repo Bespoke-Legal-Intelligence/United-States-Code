@@ -68,7 +68,7 @@ In general.—Subject to paragraph (2), there are terminated all obligations of 
 
 Application.—Paragraph (1) shall apply on and after the date on which the Secretary of Commerce certifies that—
 
-&emsp;&emsp;"(A) the State of Alaska has provided written confirmation that no further corrective action isrequired at the sites and operable units covered by the Pribilof Islands Environmental Restoration Agreement between the National Oceanic and Atmospheric Administration and the State of Alaska, signed January 26, 1996, with the exception of postremedial measures, such as monitoring and operation and maintenance activities;
+&emsp;&emsp;"(A) the State of Alaska has provided written confirmation that no further corrective action is required at the sites and operable units covered by the Pribilof Islands Environmental Restoration Agreement between the National Oceanic and Atmospheric Administration and the State of Alaska, signed January 26, 1996, with the exception of postremedial measures, such as monitoring and operation and maintenance activities;
 
 &emsp;&emsp;"(B) the cleanup required under section 3(a) of Public Law 104–91 (16 U.S.C. 1165 note) is complete;
 
@@ -114,7 +114,7 @@ Savings.—
 
 &emsp;"(1)
 
-In general.—Nothing in this title shall affect any obligation of the Secretary of Commerce, or of any Federal department or agency, under or with respect to any document described in paragraph (2) or with respect to any lands subject to such a document.
+In general.—Nothing in this title shall affect any obligation of the Secretary of Commerce, or ofany Federal department or agency, under or with respect to any document described in paragraph (2) or with respect to any lands subject to such a document.
 
 &emsp;"(2)
 
@@ -176,7 +176,7 @@ Definitions.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), the definitions set forth in section 101 of the FurSeal Act of 1966 (16 U.S.C. 1151) shall apply to this section.
+In general.—Except as provided in paragraph (2), the definitions set forth in section 101 of the Fur Seal Act of 1966 (16 U.S.C. 1151) shall apply to this section.
 
 &emsp;"(2)
 

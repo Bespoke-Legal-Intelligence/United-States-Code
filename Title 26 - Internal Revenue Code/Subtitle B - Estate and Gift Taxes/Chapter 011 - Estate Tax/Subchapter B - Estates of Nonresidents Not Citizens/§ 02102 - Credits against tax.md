@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 107–16, §532(c)(7)(B), redesignated subsec. (c) as (b).
 
 <b>1997</b>—Subsec. (c)(3)(A). Pub. L. 105–34 substituted "the applicable credit amount in effect under section 2010(c) for the calendar year which includes the date of death" for "$192,800".
 
-<b>1996</b>—Subsec. (c)(3)(A). Pub. L. 104–188 inserted at end "For purposes of the preceding sentence, property shallnot be treated as situated in the United States if such property is exempt from the tax imposed by this subchapter under any treaty obligation of the United States."
+<b>1996</b>—Subsec. (c)(3)(A). Pub. L. 104–188 inserted at end "For purposes of the preceding sentence, property shall not be treated as situated in the United States if such property is exempt from the tax imposed by this subchapter under any treaty obligation of the United States."
 
 <b>1988</b>—Subsec. (c)(1). Pub. L. 100–647, §5032(b)(1)(A), substituted "$13,000" for "$3,600".
 

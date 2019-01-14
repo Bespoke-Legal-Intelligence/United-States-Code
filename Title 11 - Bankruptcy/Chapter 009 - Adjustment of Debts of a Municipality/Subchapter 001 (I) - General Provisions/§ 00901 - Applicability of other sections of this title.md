@@ -12,7 +12,7 @@
 
 #### legislative statements
 
-Chapter 9 of the House amendment represents a compromise between chapter 9 of the House bill and 9 of theSenate amendment. In most respects this chapter follows current law with respect to the adjustment of debts of a municipality. Stylistic changes and minor substantive revisions have been made in order to conform this chapter with other new chapters of the bankruptcy code. There are few major differences between the House bill and the Senate amendment on this issue. Section 901 indicates the applicability of other sections of title 11 in cases under chapter 9. Included are sections providing for creditors' committees under sections 1102 and 1103.
+Chapter 9 of the House amendment represents a compromise between chapter 9 of the House bill and 9 of the Senate amendment. In most respects this chapter follows current law with respect to the adjustment of debts of a municipality. Stylistic changes and minor substantive revisions have been made in order to conform this chapter with other new chapters of the bankruptcy code. There are few major differences between the House bill and the Senate amendment on this issue. Section 901 indicates the applicability of other sections of title 11 in cases under chapter 9. Included are sections providing for creditors' committees under sections 1102 and 1103.
 
 #### house report no. 95–595
 
@@ -78,7 +78,7 @@ Section 901 makes applicable appropriate provisions of other chapters of propose
 
 <i>§1129(a)(2), (3), (8), (b)(1), (2). Confirmation of plan</i>. This section provides the boiler-plate language that the plan be proposed in good faith and that it comply with the provisions of the chapter, and also provides the financial standard for confirmation, which replaces the fair and equitable rule. See §1124, supra.
 
-<i>§1142(b). Execution of plan</i>. Derived from Bankruptcy Act §96(b) \[section 416(b) of former title 11\], this section permits the court to order execution and delivery of instruments in order to execute the plan.
+<i>§1142(b). Execution of plan</i>. Derived from Bankruptcy Act §96(b) \[section 416(b) of former title 11\], this sectionpermits the court to order execution and delivery of instruments in order to execute the plan.
 
 <i>§1143. Distribution</i>. This section is the same in substance as section 96(d) \[section 416(d) of former title 11\], which requires presentment or delivery of securities within five years, and bars creditors that do not act within that time.
 

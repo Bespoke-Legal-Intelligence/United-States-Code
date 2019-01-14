@@ -24,7 +24,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (2) Identifying critical coastal areas
 
-&emsp;The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g).
+&emsp;The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land usesor substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g).
 
 #### (3) Management measures
 
@@ -32,7 +32,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (4) Technical assistance
 
-&emsp;The provision of technical and other assistance to local governments and the public forimplementing the measures referred to in paragraph (3), which may include assistance in developing ordinances and regulations, technical guidance, and modeling to predict and assess the effectiveness of such measures, training, financial incentives, demonstration projects, and other innovations to protect coastal water quality and designated uses.
+&emsp;The provision of technical and other assistance to local governments and the public for implementing the measures referred to in paragraph (3), which may include assistance in developing ordinances and regulations, technical guidance, and modeling to predict and assess the effectiveness of such measures, training, financial incentives, demonstration projects, and other innovations to protect coastal water quality and designated uses.
 
 #### (5) Public participation
 
@@ -108,7 +108,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (1) Review
 
-&emsp;The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall, within 18 months after November 5, 1990, review the inland coastal zone boundary of each coastal State program which has been approved or is proposed for approvalunder section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], and evaluate whether the State's coastal zone boundary extends inland to the extent necessary to control the land and water uses that have a significant impact on coastal waters of the State.
+&emsp;The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall, within 18 months after November 5, 1990, review the inland coastal zone boundary of each coastal State program which has been approved or is proposed for approval under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], and evaluate whether the State's coastal zone boundary extends inland to the extent necessary to control the land and water uses that have a significant impact on coastal waters of the State.
 
 #### (2) Recommendation
 
@@ -178,7 +178,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (2) Secretary
 
-&emsp;(A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) <sup>1</sup> of the Coastal Zone Management Act of 1972, as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f).
+&emsp;(A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) <sup>1</sup> of the Coastal Zone Management Act of 1972,as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f).
 
 &emsp;(B) There is authorized to be appropriated to the Secretary for use for providing in the form of grants under subsection (f) not more than—
 

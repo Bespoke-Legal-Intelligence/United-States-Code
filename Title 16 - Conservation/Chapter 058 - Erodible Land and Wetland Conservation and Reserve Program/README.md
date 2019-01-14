@@ -48,8 +48,9 @@
 |  |  |
 | :--- | ---: |
 | [3831\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003831%20-%20Conservation%20reserve.md) | Conservation reserve. |
-| [3831a.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003831a%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20II%2C%20%C2%A72702%28a%29%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20766.md) | Repealed. |
+| [3831a.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003831a%20-%20Conservation%20reserve%20enhancement%20program.md) | Conservation reserve enhancement program. |
 | [3831b.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003831b%20-%20Farmable%20wetland%20program.md) | Farmable wetland program. |
+| [3831c.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003831c%20-%20Pilot%20programs.md) | Pilot programs. |
 | [3832\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003832%20-%20Duties%20of%20owners%20and%20operators.md) | Duties of owners and operators. |
 | [3833\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003833%20-%20Duties%20of%20the%20Secretary.md) | Duties of the Secretary. |
 | [3834\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003834%20-%20Payments.md) | Payments. |
@@ -70,23 +71,17 @@
 
 #### subpart a—conservation security program
 
-|  |  |
-| :--- | ---: |
-| [3838\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20002%20%28II%29%20-%20Conservation%20Security%20and%20Farmland%20Protection/Subpart%20a%20-%20Conservation%20Security%20Program/%C2%A7%2003838%20-%20Definitions.md) | Definitions. |
-| [3838a.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20002%20%28II%29%20-%20Conservation%20Security%20and%20Farmland%20Protection/Subpart%20a%20-%20Conservation%20Security%20Program/%C2%A7%2003838a%20-%20Conservation%20security%20program.md) | Conservation security program. |
-| [3838b.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20002%20%28II%29%20-%20Conservation%20Security%20and%20Farmland%20Protection/Subpart%20a%20-%20Conservation%20Security%20Program/%C2%A7%2003838b%20-%20Duties%20of%20producers.md) | Duties of producers. |
-| [3838c.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20002%20%28II%29%20-%20Conservation%20Security%20and%20Farmland%20Protection/Subpart%20a%20-%20Conservation%20Security%20Program/%C2%A7%2003838c%20-%20Duties%20of%20the%20Secretary.md) | Duties of the Secretary. |
+|  |
+| :--- |
+| 3838 to 3838c. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### subpart b—conservation stewardship program
 
-|  |  |
-| :--- | ---: |
-| [3838d.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20002%20%28II%29%20-%20Conservation%20Security%20and%20Farmland%20Protection/Subpart%20b%20-%20Conservation%20Stewardship%20Program/%C2%A7%2003838d%20-%20Definitions.md) | Definitions. |
-| [3838e.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20002%20%28II%29%20-%20Conservation%20Security%20and%20Farmland%20Protection/Subpart%20b%20-%20Conservation%20Stewardship%20Program/%C2%A7%2003838e%20-%20Conservation%20stewardship%20program.md) | Conservation stewardship program. |
-| [3838f.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20002%20%28II%29%20-%20Conservation%20Security%20and%20Farmland%20Protection/Subpart%20b%20-%20Conservation%20Stewardship%20Program/%C2%A7%2003838f%20-%20Stewardship%20contracts.md) | Stewardship contracts. |
-| [3838g.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20002%20%28II%29%20-%20Conservation%20Security%20and%20Farmland%20Protection/Subpart%20b%20-%20Conservation%20Stewardship%20Program/%C2%A7%2003838g%20-%20Duties%20of%20the%20Secretary.md) | Duties of the Secretary. |
+|  |
+| :--- |
+| 3838d to 3838g. Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -114,11 +109,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part IV—Environmental Quality Incentives Program
+#### Part IV—Environmental Quality Incentives Program and Conservation Stewardship Program
+
+#### subpart a—environmental quality incentives program
 
 |  |  |
 | :--- | ---: |
-| [3839aa.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20004%20%28IV%29%20-%20Environmental%20Quality%20Incentives%20Program/%C2%A7%2003839aa%20-%20Purposes.md) | Purposes. |
+| [3839aa.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20004%20%28IV%29%20-%20Environmental%20Quality%20Incentives%20Program%20and%20Conservation%20Stewardship%20Program/Subpart%20a%20-%20Environmental%20Quality%20Incentives%20Program/%C2%A7%2003839aa%20-%20Purposes.md) | Purposes. |
 | 3839aa–1. | Definitions. |
 | 3839aa–2. | Establishment and administration. |
 | 3839aa–3. | Evaluation of applications. |
@@ -128,6 +125,18 @@
 | 3839aa–7. | Limitation on payments. |
 | 3839aa–8. | Conservation innovation grants and payments. |
 | 3839aa–9. | Repealed. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart b—conservation stewardship program
+
+|  |  |
+| :--- | ---: |
+| 3839aa–21. | Definitions. |
+| 3839aa–22. | Conservation stewardship program. |
+| 3839aa–23. | Stewardship contracts. |
+| 3839aa–24. | Duties of the Secretary. |
+| 3839aa–25. | Grassland conservation initiative. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -154,6 +163,7 @@
 | [3844\.](Subchapter%20005%20%28V%29%20-%20Funding%20and%20Administration/%C2%A7%2003844%20-%20Administrative%20requirements%20for%20conservation%20programs.md) | Administrative requirements for conservation programs. |
 | [3845\.](Subchapter%20005%20%28V%29%20-%20Funding%20and%20Administration/%C2%A7%2003845%20-%20Environmental%20services%20markets.md) | Environmental services markets. |
 | [3846\.](Subchapter%20005%20%28V%29%20-%20Funding%20and%20Administration/%C2%A7%2003846%20-%20Regulations.md) | Regulations. |
+| [3847\.](Subchapter%20005%20%28V%29%20-%20Funding%20and%20Administration/%C2%A7%2003847%20-%20Data%20on%20conservation%20practices.md) | Data on conservation practices. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -161,7 +171,7 @@
 
 |  |  |
 | :--- | ---: |
-| [3851\.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Other%20Conservation%20Programs/%C2%A7%2003851%20-%20Agriculture%20conservation%20experienced%20services%20program.md) | Agriculture conservation experienced services program. |
+| [3851\.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Other%20Conservation%20Programs/%C2%A7%2003851%20-%20Experienced%20services%20program.md) | Experienced services program. |
 | [3851a.](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Other%20Conservation%20Programs/%C2%A7%2003851a%20-%20Forest%20Service%20participation%20in%20ACES%20Program.md) | Forest Service participation in ACES Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

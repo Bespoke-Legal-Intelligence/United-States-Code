@@ -12,5 +12,5 @@ The Economic Opportunity Act of 1964, referred to in text, is Pub. L. 88–452, 
 
 A prior section 683 of Pub. L. 97–35 was classified to section 9911 of this title, prior to the general amendment of this chapter by Pub. L. 105–285.
 
-Another prior section 683 of Pub. L. 97–35 was renumbered section 684, and was classified to section 9912 of this title, prior to the general amendment of this chapter by Pub. L. 105–285.
+Another prior section 683 of Pub. L. 97–35 was renumbered section 684, and was classified to section 9912 ofthis title, prior to the general amendment of this chapter by Pub. L. 105–285.
 

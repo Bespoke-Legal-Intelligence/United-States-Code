@@ -38,15 +38,19 @@ In this chapter:
 
 &emsp;&emsp;(C) To build relationships that promote specific United States security interests.
 
-&emsp;(8) The term "small-scale construction" means construction at a cost not to exceed $750,000 for any project.
+&emsp;(8) The term "small-scale construction" means construction at a cost not to exceed $1,500,000 for any project.
 
 &emsp;(9) The term "training" has the meaning given the term "military education and training" in section 644 of the Foreign Assistance Act of 1961 (22 U.S.C. 2403).
 
-(Added Pub. L. 114–328, div. A, title XII, §1241(a)(3), Dec. 23, 2016, 130 Stat. 2498.)
+(Added Pub. L. 114–328, div. A, title XII, §1241(a)(3), Dec. 23, 2016, 130 Stat. 2498; amended Pub. L. 115–232, div. A, title XII, §1203(a), Aug. 13, 2018, 132 Stat. 2016.)
 
 #### References in Text
 
 Section 1241(n) of the National Defense Authorization Act for Fiscal Year 2017, referred to in par. (4), is section 1241(n) of Pub. L. 114–328, which is set out as a note below.
+
+#### Amendments
+
+<b>2018</b>—Par. (8). Pub. L. 115–232 substituted "$1,500,000" for "$750,000".
 
 #### Savings Clause
 
@@ -115,4 +119,16 @@ Submittal to congress.—Not later than 60 days after the completion of a review
 &emsp;"(4)
 
 Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' has the meaning given that term in section section \[sic\] 301(1) of title 10, United States Code, as added by section 1241(a)(3) of this Act."
+
+\[Memorandum of President of the United States, Feb. 8, 2018, 83 F.R. 8739, provided:
+
+\[Memorandum for the Secretary of State \[and\] the Secretary of Defense
+
+\[By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of State, in coordination with the Secretary of Defense, the functions and authorities vested in the President by section 1252 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) \[set out above\].
+
+\[The delegation in this memorandum shall apply to any provisions of any future public law that are the same or substantially the same as the provision referenced in this memorandum.
+
+\[The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+\[Donald J. Trump.\]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

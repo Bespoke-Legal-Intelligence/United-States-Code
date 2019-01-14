@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as provided in section 12152 of this title, the Secretary, on receipt of a proper application, shall issue a certificate of documentation or a temporary certificate of documentation for a vessel satisfying the requirements of section 12103 of this title. The certificate shall contain each endorsement under subchapter II of this chapter for which the owner applies and the vessel is eligible.
+In General.—Except as provided in section 12152 of this title, the Secretary, on receipt of aproper application, shall issue a certificate of documentation or a temporary certificate of documentation for a vessel satisfying the requirements of section 12103 of this title. The certificate shall contain each endorsement under subchapter II of this chapter for which the owner applies and the vessel is eligible.
 
 (b)
 
@@ -22,7 +22,63 @@ Information To Be Included in Certificate.—A certificate of documentation shal
 
 Procedures To Ensure Integrity and Accuracy.—The Secretary shall prescribe procedures to ensure the integrity of, and the accuracy of information contained in, certificates of documentation.
 
-(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1493.)
+(e)
+
+Effective Period.—
+
+&emsp;(1)
+
+In general.—Except as provided in paragraphs (2) and (3), a certificate of documentation issued under this part is valid for a 1-year period and may be renewed for additional 1-year periods.
+
+&emsp;(2)
+
+Recreational vessels.—
+
+&emsp;&emsp;(A)
+
+In general.—A certificate of documentation for a recreational vessel and the renewal of such a certificate shall be effective for a 5-year period.
+
+&emsp;&emsp;(B)
+
+Phase-in period.—During the period beginning January 1, 2019, and ending December 31, 2021, the owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years for such a certificate of documentation for such vessel or the renewal thereof.
+
+&emsp;&emsp;(C)
+
+Fees.—
+
+&emsp;&emsp;&emsp;(i)
+
+Requirement.—The Secretary shall assess and collect a fee—
+
+&emsp;&emsp;&emsp;&emsp;(I) for the issuance of a certificate of documentation for a recreational vessel that is equivalent to the fee established for the issuance of a certificate of documentation under section 2110; and
+
+&emsp;&emsp;&emsp;&emsp;(II) for the renewal of a certificate of documentation for a recreational vessel that is equivalent to the number of years of effectiveness of the certificate of documentation multiplied by the fee established for the renewal of a certificate of documentation under section 2110.
+
+&emsp;&emsp;&emsp;(ii)
+
+Treatment.—Fees collected under this subsection—
+
+&emsp;&emsp;&emsp;&emsp;(I) shall be credited to the account from which the costs of such issuance or renewal were paid; and
+
+&emsp;&emsp;&emsp;&emsp;(II) may remain available until expended.
+
+&emsp;(3)
+
+Notice of change in information.—
+
+&emsp;&emsp;(A)
+
+Requirement.—The owner of a vessel shall notify the Coast Guard of each change in the information on which the issuance of the certificate of documentation for the vessel is based that occurs before the expiration of the certificate under this subsection, by not later than 30 days after such change.
+
+&emsp;&emsp;(B)
+
+Termination of certificate.—The certificate of documentation for a vessel shall terminate upon the expiration of such 30-day period if the owner has not notified the Coast Guard of such change before the end of such period.
+
+&emsp;(4)
+
+State and local authority to remove abandoned and derelict vessels.—Nothing in this section shall be construed to limit the authority of a State or local authority from taking action to remove an abandoned or derelict vessel.
+
+(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1493; Pub. L. 115–282, title V, §512, Dec. 4, 2018, 132 Stat. 4275.)
 
 Historical and Revision Notes
 
@@ -55,6 +111,10 @@ In subsection (b), the words "eligible under" are substituted for "if the applic
 #### Prior Provisions
 
 A prior section 12105, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 586; Pub. L. 100–710, title I, §104(a)(4), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(5), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 109–241, title III, §310, July 11, 2006, 120 Stat. 529, originally derived from section 65h of former Title 46, Shipping, related to registry endorsements, prior to the general amendment of this chapter by Pub. L. 109–304. See section 12111 of this title.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (e). Pub. L. 115–282 added subsec. (e).
 
 #### Certificates of Documentation for Recreational Vessels
 

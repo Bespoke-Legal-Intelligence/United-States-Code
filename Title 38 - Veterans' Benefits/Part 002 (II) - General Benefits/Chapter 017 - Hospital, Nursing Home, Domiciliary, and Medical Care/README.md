@@ -7,10 +7,16 @@
 | [1701\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001701%20-%20Definitions.md) | Definitions. |
 | [1702\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001702%20-%20Presumptions%20psychosis%20after%20service%20in%20World%20War%20II%20and%20following%20periods%20of%20war%3B%20mental%20illness%20after%20service%20in%20the%20Persian%20Gulf%20War.md) | Presumptions: psychosis after service in World War II and following periods of war; mental illness following service in the Persian Gulf War. |
 | [1703\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703%20-%20Contracts%20for%20hospital%20care%20and%20medical%20services%20in%20non-Department%20facilities.md) | Contracts for hospital care and medical services in non-Department facilities. |
+| [1703A.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703A%20-%20Agreements%20with%20eligible%20entities%20or%20providers%3B%20certification%20processes.md) | Agreements with eligible entities or providers; certification processes. |
+| [1703B.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703B%20-%20Access%20standards.md) | Access standards. |
+| [1703C.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703C%20-%20Standards%20for%20quality.md) | Standards for quality. |
+| [1703D.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703D%20-%20Prompt%20payment%20standard.md) | Prompt payment standard. |
+| [1703E.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001703E%20-%20Center%20for%20Innovation%20for%20Care%20and%20Payment.md) | Center for Innovation for Care and Payment. |
 | [1704\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001704%20-%20Preventive%20health%20services%20annual%20report.md) | Preventive health services: annual report. |
 | [1705\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001705%20-%20Management%20of%20health%20care%20patient%20enrollment%20system.md) | Management of health care: patient enrollment system. |
 | [1705A.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001705A%20-%20Management%20of%20health%20care%20information%20regarding%20health-plan%20contracts.md) | Management of health care: information regarding health-plan contracts. |
 | [1706\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001706%20-%20Management%20of%20health%20care%20other%20requirements.md) | Management of health care: other requirements. |
+| [1706A.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001706A%20-%20Remediation%20of%20medical%20service%20lines.md) | Remediation of medical service lines. |
 | [1707\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001707%20-%20Limitations.md) | Limitations. |
 | [1708\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001708%20-%20Temporary%20lodging.md) | Temporary lodging. |
 | [1709\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001709%20-%20Comprehensive%20policy%20on%20reporting%20and%20tracking%20sexual%20assault%20incidents%20and%20other%20safety%20incidents.md) | Comprehensive policy on reporting and tracking sexual assault incidents and other safety incidents. |
@@ -50,6 +56,7 @@
 | [1720F.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720F%20-%20Comprehensive%20program%20for%20suicide%20prevention%20among%20veterans.md) | Comprehensive program for suicide prevention among veterans. |
 | [1720G.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720G%20-%20Assistance%20and%20support%20services%20for%20caregivers.md) | Assistance and support services for caregivers. |
 | [1720H.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720H%20-%20Mental%20health%20treatment%20for%20veterans%20who%20served%20in%20classified%20missions.md) | Mental health treatment for veterans who served in classified missions. |
+| [1720I.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720I%20-%20Mental%20and%20behavioral%20health%20care%20for%20certain%20former%20members%20of%20the%20Armed%20Forces.md) | Mental and behavioral health care for certain former members of the Armed Forces. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -64,6 +71,7 @@
 | [1723\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001723%20-%20Furnishing%20of%20clothing.md) | Furnishing of clothing. |
 | [1724\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001724%20-%20Hospital%20care%2C%20medical%20services%2C%20and%20nursing%20home%20care%20abroad.md) | Hospital care, medical services, and nursing home care abroad. |
 | [1725\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001725%20-%20Reimbursement%20for%20emergency%20treatment.md) | Reimbursement for emergency treatment. |
+| [1725A.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001725A%20-%20Access%20to%20walk-in%20care.md) | Access to walk-in care. |
 | [1726\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001726%20-%20Reimbursement%20for%20loss%20of%20personal%20effects%20by%20natural%20disaster.md) | Reimbursement for loss of personal effects by natural disaster. |
 | [1727\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001727%20-%20Persons%20eligible%20under%20prior%20law.md) | Persons eligible under prior law. |
 | [1728\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001728%20-%20Reimbursement%20of%20certain%20medical%20expenses.md) | Reimbursement of certain medical expenses. |
@@ -72,6 +80,8 @@
 | [1729B.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001729B%20-%20Consolidated%20patient%20accounting%20centers.md) | Consolidated patient accounting centers. |
 | [1730\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001730%20-%20Community%20residential%20care.md) | Community residential care. |
 | [1730A.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001730A%20-%20Prohibition%20on%20collection%20of%20copayments%20from%20catastrophically%20disabled%20veterans.md) | Prohibition on collection of copayments from catastrophically disabled veterans. |
+| [1730B.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001730B%20-%20Access%20to%20State%20prescription%20drug%20monitoring%20programs.md) | Access to State prescription drug monitoring programs. |
+| [1730C.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001730C%20-%20Licensure%20of%20health%20care%20professionals%20providing%20treatment%20via%20telemedicine.md) | Licensure of health care professionals providing treatment via telemedicine. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -95,7 +105,7 @@
 | [1742\.](Subchapter%20005%20%28V%29%20-%20Payments%20to%20State%20Homes/%C2%A7%2001742%20-%20Inspections%20of%20such%20homes%3B%20restrictions%20on%20beneficiaries.md) | Inspections of such homes; restrictions on beneficiaries. |
 | [1743\.](Subchapter%20005%20%28V%29%20-%20Payments%20to%20State%20Homes/%C2%A7%2001743%20-%20Applications.md) | Applications. |
 | [1744\.](Subchapter%20005%20%28V%29%20-%20Payments%20to%20State%20Homes/%C2%A7%2001744%20-%20Hiring%20and%20retention%20of%20nurses%20payments%20to%20assist%20States.md) | Hiring and retention of nurses: payments to assist States. |
-| [1745\.](Subchapter%20005%20%28V%29%20-%20Payments%20to%20State%20Homes/%C2%A7%2001745%20-%20Nursing%20home%20care%20and%20medications%20for%20veterans%20with%20service-connected%20disabilities.md) | Nursing home care and medications for veterans with service-connected disabilities. |
+| [1745\.](Subchapter%20005%20%28V%29%20-%20Payments%20to%20State%20Homes/%C2%A7%2001745%20-%20Nursing%20home%20care%2C%20adult%20day%20health%20care%2C%20and%20medications%20for%20veterans%20with%20service-connected%20disabilities.md) | Nursing home care, adult day health care, and medications for veterans with service-connected disabilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -131,10 +141,17 @@
 | [1785\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001785%20-%20Care%20and%20services%20during%20certain%20disasters%20and%20emergencies.md) | Care and services during certain disasters and emergencies. |
 | [1786\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001786%20-%20Care%20for%20newborn%20children%20of%20women%20veterans%20receiving%20maternity%20care.md) | Care for newborn children of women veterans receiving maternity care. |
 | [1787\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001787%20-%20Health%20care%20of%20family%20members%20of%20veterans%20stationed%20at%20Camp%20Lejeune%2C%20North%20Carolina.md) | Health care of family members of veterans stationed at Camp Lejeune, North Carolina. |
+| [1788\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001788%20-%20Transplant%20procedures%20with%20live%20donors%20and%20related%20services.md) | Transplant procedures with live donors and related services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–182, title I, §§101(a)(2), 102(b), 104(b), 105(c), 109(b), 111(b), 134(b), 151(b), 152(b), 153(b), June 6, 2018, 132 Stat. 1403, 1408, 1411, 1413, 1418, 1421, 1429, 1431, 1437, 1438, substituted "Veterans Community Care Program" for "Contracts for hospital care and medical services in non-Department facilities" in item 1703, and added items 1703A to 1703E, 1706A, 1725A, 1730B, 1730C, and 1788.
+
+Pub. L. 115–159, §2(c), Mar. 27, 2018, 132 Stat. 1245, substituted "Nursing home care, adult day health care, and medications for veterans with service-connected disabilities" for "Nursing home care and medications for veterans with service-connected disabilities" in item 1745.
+
+Pub. L. 115–141, div. J, title II, §258(b), Mar. 23, 2018, 132 Stat. 828, added item 1720I.
 
 <b>2016</b>—Pub. L. 114–315, title VI, §§604(b), 605(c), 606(b), title VIII, §802(2), Dec. 16, 2016, 130 Stat. 1571, 1572, 1575, 1591, added items 1705A, 1720H, and 1784A and substituted "Traumatic brain injury: comprehensive program for long-term rehabilitation" for "Traumatic brain injury: comprehensive plan for long-term rehabilitation" in item 1710D and "Traumatic brain injury: use of non-Department facilities for rehabilitation" for "Traumatic brain injury: use of non-Departmental facilities for rehabilitation" in item 1710E.
 

@@ -12,5 +12,5 @@ Not later than 90 days after December 13, 2016, the Attorney General shall promu
 
 #### Codification
 
-Section was formerly classified as a note under section 534 of Title 28, Judiciary and Judicial Procedure,prior to editorial reclassification and renumbering as this section.
+Section was formerly classified as a note under section 534 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
 

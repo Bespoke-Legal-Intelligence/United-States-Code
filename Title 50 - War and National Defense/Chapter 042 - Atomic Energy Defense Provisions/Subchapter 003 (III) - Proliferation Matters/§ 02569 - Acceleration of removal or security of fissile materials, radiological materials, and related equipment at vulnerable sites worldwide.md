@@ -4,7 +4,7 @@
 
 (1) It is the sense of Congress that the security, including the rapid removal or secure storage, of high-risk, proliferation-attractive fissile materials, radiological materials, and related equipment at vulnerable sites worldwide should be a top priority among the activities to achieve the national security of the United States.
 
-(2) It is the sense of Congress that the President may establish in the Department of Energy a task force to be known as the Task Force on Nuclear Materials to carry out the program authorized by subsection (b).
+(2) It is the sense of Congress that the President may establish in the Department of Energy a task force to be known as the Task Force onNuclear Materials to carry out the program authorized by subsection (b).
 
 #### (b) Program authorized
 
@@ -84,11 +84,7 @@ Amounts authorized to be appropriated to the Secretary of Energy for defense nuc
 
 &emsp;If an amount contributed under an agreement under paragraph (1) is not used under this subsection within 5 years after it was contributed, the Secretary of Energy shall return that amount to the person who contributed it.
 
-#### (5) Notice to congressional defense committees
-
-&emsp;Not later than 30 days after the receipt of an amount contributed under paragraph (1), the Secretary of Energy shall submit to the congressional defense committees a notice specifying the purpose and value of the contribution and identifying the person who contributed it. The Secretary may not use the amount until 15 days after the notice is submitted.
-
-#### (6) Annual report
+#### (5) Annual report
 
 &emsp;Not later than October 31 of each year, the Secretary of Energy shall submit to the congressional defense committees a report on the receipt and use of amounts under this subsection during the preceding fiscal year. Each report for a fiscal year shall set forth—
 
@@ -98,9 +94,9 @@ Amounts authorized to be appropriated to the Secretary of Energy for defense nuc
 
 &emsp;&emsp;(C) a statement of the amounts retained but not used under this subsection, including, for each such amount, the purposes (if known) for which the Secretary intends to use the amount.
 
-#### (7) Expiration
+#### (6) Expiration
 
-&emsp;The authority to accept, retain, and use contributions under this subsection expires on December 31, 2018.
+&emsp;The authority to accept, retain, and use contributions under this subsection expires on December 31, 2023.
 
 #### (g) Definitions
 
@@ -118,7 +114,7 @@ In this section:
 
 &emsp;(6) The term "proliferation-attractive", in the case of fissile materials and radiological materials, means quantities and types of such materials that are determined by the Secretary of Energy to present a significant risk to the national security of the United States if diverted to a use relating to proliferation.
 
-(Pub. L. 108–375, div. C, title XXXI, §3132, Oct. 28, 2004, 118 Stat. 2166; Pub. L. 109–364, div. C, title XXXI, §3113, Oct. 17, 2006, 120 Stat. 2504; Pub. L. 112–239, div. C, title XXXI, §3118, Jan. 2, 2013, 126 Stat. 2173.)
+(Pub. L. 108–375, div. C, title XXXI, §3132, Oct. 28, 2004, 118 Stat. 2166; Pub. L. 109–364, div. C, title XXXI, §3113, Oct. 17, 2006, 120 Stat. 2504; Pub. L. 112–239, div. C, title XXXI, §3118, Jan. 2, 2013, 126 Stat. 2173; Pub. L. 115–232, div. C, title XXXI, §3114, Aug. 13, 2018, 132 Stat. 2290.)
 
 #### Codification
 
@@ -126,11 +122,89 @@ Section was enacted as part of the Ronald W. Reagan National Defense Authorizati
 
 #### Amendments
 
+<b>2018</b>—Subsec. (f)(5). Pub. L. 115–232, §3114(1), (2), redesignated par. (6) as (5) and struck out former par. (5). Prior to amendment text of par. (5) read as follows: "Not later than 30 days after the receipt of an amount contributed under paragraph (1), the Secretary of Energy shall submit to the congressional defense committees a notice specifying the purpose and value of the contribution and identifying the person who contributed it. The Secretary may not use the amount until 15 days after the notice is submitted."
+
+Subsec. (f)(6), (7). Pub. L. 115–232, §3114(2), (3), redesignated par. (7) as (6) and substituted "December 31, 2023" for "December 31, 2018". Former par. (6) redesignated (5).
+
 <b>2013</b>—Subsec. (f)(2). Pub. L. 112–239, §3118(a), amended par. (2) generally. Prior to amendment, par. (2) related to programs covered and listed certain international programs within the Global Threat Reduction Initiative.
 
 Subsec. (f)(7). Pub. L. 112–239, §3118(b), substituted "December 31, 2018" for "December 31, 2013".
 
 <b>2006</b>—Subsecs. (f), (g). Pub. L. 109–364 added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### Acceleration of Replacement of Cesium Blood Irradiation Sources
+
+Pub. L. 115–232, div. C, title XXXI, §3141, Aug. 13, 2018, 132 Stat. 2303, provided that:
+
+"(a)
+
+Goal.—The Administrator for Nuclear Security shall ensure that the goal of the covered programs iseliminating the use of blood irradiation devices in the United States that rely on cesium chloride by December 31, 2027.
+
+"(b)
+
+Implementation.—To meet the goal specified by subsection (a), the Administrator shall carry out the covered programs in a manner that—
+
+&emsp;"(1) is voluntary for owners of blood irradiation devices;
+
+&emsp;"(2) allows for the United States, subject to the review of the Administrator, to pay up to 50 percent of the per-device cost of replacing blood irradiation devices covered by the programs;
+
+&emsp;"(3) allows for the United States to pay up to 100 percent of the cost of removing and disposing of cesium sources retired from service by the programs; and
+
+&emsp;"(4) replaces such devices with x-ray irradiation devices or other devices approved by the Food and Drug Administration that provide significant threat reduction as compared to cesium chloride irradiators.
+
+"(c)
+
+Duration.—The Administrator shall carry out the covered programs until December 31, 2027.
+
+"(d)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Administrator shall submit to the appropriate congressional committees a report on the covered programs, including—
+
+&emsp;"(1) identification of each cesium chloride blood irradiation device in the United States, including the number, general location, and user type;
+
+&emsp;"(2) a plan for achieving the goal established by subsection (a);
+
+&emsp;"(3) a methodology for prioritizing replacement of such devices that takes into account irradiator age and prior material security initiatives;
+
+&emsp;"(4) in consultation with the Nuclear Regulatory Commission and the Food and Drug Administration, a strategy identifying any legislative, regulatory, or other measures necessary to constrain the introduction of new cesium chloride blood irradiation devices;
+
+&emsp;"(5) identification of the annual funds required to meet the goal established by subsection (a); and
+
+&emsp;"(6) a description of the disposal path for cesium chloride sources under the covered programs.
+
+"(e)
+
+Assessment.—The Administrator shall submit an assessment to the appropriate congressional committees by September 20, 2023, of the results of the actions on the covered programs under this section, including—
+
+&emsp;"(1) the number of replacement irradiators under the covered programs;
+
+&emsp;"(2) the life-cycle costs of the programs, including personnel training, maintenance, and replacement costs for new irradiation devices;
+
+&emsp;"(3) the cost-effectiveness of the covered programs;
+
+&emsp;"(4) an analysis of the effectiveness of the new irradiation devices' technology; and
+
+&emsp;"(5) a forecast of whether the Administrator will meet the goal established in subsection (a).
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Appropriations, the Committee on Armed Services, and the Committee on Energy and Commerce of the House of Representatives; and
+
+&emsp;&emsp;"(B) the Committee on Appropriations, the Committee on Armed Services, the Committee on Energy and Natural Resources, and the Committee on Health, Education, Labor, and Pensions of the Senate.
+
+&emsp;"(2)
+
+Covered programs.—The term 'covered programs' means the following programs of the Office of Radiological Security of the National Nuclear Security Administration:
+
+&emsp;&emsp;"(A) The Cesium Irradiator Replacement Program.
+
+&emsp;&emsp;"(B) The Off-Site Source Recovery Program."
 
 #### "Congressional Defense Committees" Defined
 

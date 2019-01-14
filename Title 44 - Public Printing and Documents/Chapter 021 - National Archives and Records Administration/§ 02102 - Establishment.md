@@ -64,7 +64,7 @@ Sec. 104. (a) Except as otherwise provided in this Act \[Pub. L. 98–497\], the
 
 #### Annual Capital Needs Assessment for Funding of Repairs and Restoration
 
-Pub. L. 111–8, div. D, title V, Mar. 11, 2009, 123 Stat. 668, provided that: "Hereafter, the National Archives and Records Administration shall include in its annual budget submission a comprehensive capital needs assessment for funding provided under the 'Repairs and Restoration' appropriations account to be updatedyearly: <i>Provided</i>, That funds proposed under the 'Repairs and Restoration' appropriations account for each fiscal year shall be allocated to projects on a priority basis established under a comprehensive capital needs assessment."
+Pub. L. 111–8, div. D, title V, Mar. 11, 2009, 123 Stat. 668, provided that: "Hereafter, the National Archives and Records Administration shall include in its annual budget submission a comprehensive capital needs assessment for funding provided under the 'Repairs and Restoration' appropriations account to be updated yearly: <i>Provided</i>, That funds proposed under the 'Repairs and Restoration' appropriations account for each fiscal year shall be allocated to projects on a priority basis established under a comprehensive capital needs assessment."
 
 #### Establishment of Positions of Director of the Center for Legislative Archives and Specialist in Congressional History
 

@@ -48,7 +48,7 @@ The foregoing provisions of this section shall not apply—
 
 &emsp;(1) to any representation (by display at the point of sale or by other means) of any characteristics of any automotive fuel other than its automotive fuel rating; or
 
-&emsp;(2) to the identification of automotive fuel at the point of sale (or elsewhere) by thetrademark, trade name, or other identifying symbol or mark used in connection with the sale of such fuel.
+&emsp;(2) to the identification of automotive fuel at the point of sale (or elsewhere) by the trademark, trade name, or other identifying symbol or mark used in connection with the sale of such fuel.
 
 #### (h) Display or representation of automotive fuel requirement of motor vehicle not to create express or implied warranty under State or Federal law respecting knocking characteristics of automotive fuel
 

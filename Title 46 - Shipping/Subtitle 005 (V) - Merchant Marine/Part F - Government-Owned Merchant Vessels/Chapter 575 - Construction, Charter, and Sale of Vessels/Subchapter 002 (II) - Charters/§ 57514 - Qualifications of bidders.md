@@ -10,7 +10,7 @@ Considerations.—In deciding whether to award a charter to a bidder, the Secret
 
 (b)
 
-Disqualifications.—The Secretary may not charter a vessel to a person appearing tolack sufficient capital, credit, and experience to operate the vessel successfully over the period covered by the charter.
+Disqualifications.—The Secretary may not charter a vessel to a person appearing to lack sufficient capital, credit, and experience to operate the vessel successfully over the period covered by the charter.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1666.)
 

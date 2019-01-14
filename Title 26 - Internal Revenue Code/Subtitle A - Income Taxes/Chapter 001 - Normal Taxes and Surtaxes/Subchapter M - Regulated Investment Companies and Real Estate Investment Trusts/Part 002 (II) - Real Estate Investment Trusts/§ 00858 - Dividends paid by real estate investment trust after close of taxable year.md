@@ -34,11 +34,11 @@ Subsec. (c). Pub. L. 99–514, §665(b)(2), inserted "(or mailed to its sharehol
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 665(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, and by section 668(b)(1)(B) of Pub. L. 99–514 applicable to calendar years beginning after Dec. 31, 1986, see section 669 of Pub. L. 99–514, set out as a note under section 856 of this title.
+Amendment by section 665(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, and by section 668(b)(1)(B) of Pub. L. 99–514 applicableto calendar years beginning after Dec. 31, 1986, see section 669 of Pub. L. 99–514, set out as a note under section 856 of this title.
 
 #### Effective Date of 1976 Amendment
 

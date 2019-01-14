@@ -11,6 +11,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(b)(18)(B)(ii), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this analysis is amended by striking item 4505 and inserting a new item 4505 "Payments for commercial products and commercial services." See 2018 Amendment note below.</i>
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §836(b)(18)(B)(ii), Aug. 13, 2018, 132 Stat. 1864, substituted "Payments for commercial products and commercial services" for "Payments for commercial items" in item 4505.
+
 
 ---
 

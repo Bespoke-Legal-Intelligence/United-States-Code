@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(i) the Bank's interest in any collateral securing such advance has the same priority and is afforded the same standing and rights that the security interest would have had if the advance had been made to a federally insured credit union; and
 
-&emsp;&emsp;&emsp;(ii) the Bank has the same right to access such collateral that the Bank would have had if the advance had been made to a federally insured credit union.
+&emsp;&emsp;&emsp;(ii) the Bank has the same right to access such collateral that the Bank wouldhave had if the advance had been made to a federally insured credit union.
 
 #### (b) Location requirement
 

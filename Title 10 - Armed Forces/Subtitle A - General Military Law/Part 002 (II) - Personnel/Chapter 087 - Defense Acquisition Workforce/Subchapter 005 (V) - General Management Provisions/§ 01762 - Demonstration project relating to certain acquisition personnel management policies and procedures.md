@@ -34,7 +34,7 @@ Limitation on Number of Participants.—The total number of persons who may part
 
 (d)
 
-Effect of Reorganizations.—The applicability of paragraph (2) of subsection (b) to an organization or team shall not terminate by reason that the organization or team, after having satisfied the conditions in paragraph (3) of such subsection when it began to participate in a demonstration project under this section, ceases to meet one or both of the conditions set forth in subparagraph (A) of such paragraph (3) as a result of a reorganization, restructuring, realignment, consolidation, or other organizational change.
+Effect of Reorganizations.—The applicability of paragraph (2) of subsection (b) to an organization or team shall not terminate by reason that the organization or team, after having satisfied the conditions in paragraph (3) of suchsubsection when it began to participate in a demonstration project under this section, ceases to meet one or both of the conditions set forth in subparagraph (A) of such paragraph (3) as a result of a reorganization, restructuring, realignment, consolidation, or other organizational change.
 
 (e)
 
@@ -90,7 +90,7 @@ Termination of Authority.—The authority to conduct a demonstration project und
 
 Conversion.—Within 6 months after the authority to conduct a demonstration project under this section is terminated as provided in subsection (g), employees in the project shall convert to the civilian personnel system created pursuant to section 9902 of title 5.
 
-(Added Pub. L. 111–383, div. A, title VIII, §872(a)(1), Jan. 7, 2011, 124 Stat. 4300; amendedPub. L. 114–92, div. A, title VIII, §846, Nov. 25, 2015, 129 Stat. 916; Pub. L. 114–328, div. A, title VIII, §867(a), Dec. 23, 2016, 130 Stat. 2306; Pub. L. 115–91, div. A, title VIII, §844(a), (b), Dec. 12, 2017, 131 Stat. 1482.)
+(Added Pub. L. 111–383, div. A, title VIII, §872(a)(1), Jan. 7, 2011, 124 Stat. 4300; amended Pub. L. 114–92, div. A, title VIII, §846, Nov. 25, 2015, 129 Stat. 916; Pub. L. 114–328, div. A, title VIII, §867(a), Dec. 23, 2016, 130 Stat. 2306; Pub. L. 115–91, div. A, title VIII, §844(a), (b), Dec. 12, 2017, 131 Stat. 1482.)
 
 #### Prior Provisions
 

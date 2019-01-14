@@ -12,5 +12,5 @@ Scope of Trial.—No proceeding in which the accused has been found guilty by mi
 
 #### Prior Provisions
 
-A prior section 949h, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2614, related to former jeopardy,prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949h, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2614, related to former jeopardy, prior to the general amendment of this chapter by Pub. L. 111–84.
 

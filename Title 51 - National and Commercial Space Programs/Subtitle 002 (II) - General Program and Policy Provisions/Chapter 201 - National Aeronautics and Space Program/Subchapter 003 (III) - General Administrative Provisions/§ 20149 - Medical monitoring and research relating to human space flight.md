@@ -52,7 +52,7 @@ Regulations.—The Administrator shall promulgate such regulations as are necess
 
 (f)
 
-Definition of United States Government Astronaut.—In this section, the term "United States government astronaut" has the meaning given the term "government astronaut" in section 50902, except it does not include an individual who is an international partner astronaut.
+Definition of United States Government Astronaut.—In this section, the term "UnitedStates government astronaut" has the meaning given the term "government astronaut" in section 50902, except it does not include an individual who is an international partner astronaut.
 
 (g)
 

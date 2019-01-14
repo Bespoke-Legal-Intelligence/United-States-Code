@@ -38,7 +38,7 @@ Contract Authority.—
 
 &emsp;(1)
 
-In general.—Notwithstanding any other provision of law, execution of a term sheet by the Secretary of a Federal credit instrumentthat uses amounts made available under the TIFIA program shall impose on the United States a contractual obligation to fund the Federal credit investment.
+In general.—Notwithstanding any other provision of law, execution of a term sheet by the Secretary of a Federal credit instrument that uses amounts made available under the TIFIA program shall impose on the United States a contractual obligation to fund the Federal credit investment.
 
 &emsp;(2)
 
@@ -118,7 +118,7 @@ Pub. L. 108–280, §4(a)(10)(B), struck out "2003 and $1,666,667 for the period
 
 Pub. L. 108–263, §4(a)(10)(B), substituted "$1,666,667 for the period of October 1, 2003, through July 31, 2004" for "$1,500,000 for the period of October 1, 2003, through June 30, 2004".
 
-Pub. L. 108–224, §4(a)(10)(B), substituted "$1,500,000 for the period of October 1, 2003, through June 30, 2004" for"$1,166,667 for the period of October 1, 2003, through April 30, 2004".
+Pub. L. 108–224, §4(a)(10)(B), substituted "$1,500,000 for the period of October 1, 2003, through June 30, 2004" for "$1,166,667 for the period of October 1, 2003, through April 30, 2004".
 
 Pub. L. 108–202, §5(a)(10)(B), substituted "$1,166,667 for the period of October 1, 2003, through April 30, 2004" for "$833,333 for the period of October 1, 2003, through February 29, 2004".
 
@@ -150,7 +150,7 @@ Subsec. (c). Pub. L. 105–178, §1503(c)(2), as added by Pub. L. 105–206, §9
 | &nbsp;1999 | $1,200,000,000&nbsp; |
 | &nbsp;2000 | $1,800,000,000&nbsp; |
 | &nbsp;2001 | $1,800,000,000&nbsp; |
-| &nbsp;2002 | $2,300,000,000&nbsp; |
+| &nbsp;2002 | $2,300,000,000  |
 | &nbsp;2003 | $2,300,000,000." |
 
 #### Effective Date of 2015 Amendment

@@ -9,4 +9,4 @@ subpart 2—reentry research
 - [&sect; 17552 - Transferred](%C2%A7%2017552%20-%20Transferred.md)
 - [&sect; 17553 - Transferred](%C2%A7%2017553%20-%20Transferred.md)
 - [&sect; 17554 - Transferred](%C2%A7%2017554%20-%20Transferred.md)
-- [&sect; 17555 - Omitted](%C2%A7%2017555%20-%20Omitted.md)
+- [&sect; 17555 - Transferred](%C2%A7%2017555%20-%20Transferred.md)

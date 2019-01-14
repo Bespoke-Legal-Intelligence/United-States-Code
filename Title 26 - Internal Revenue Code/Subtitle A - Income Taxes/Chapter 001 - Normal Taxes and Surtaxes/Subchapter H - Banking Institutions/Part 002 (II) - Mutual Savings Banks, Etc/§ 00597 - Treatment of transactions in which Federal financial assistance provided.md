@@ -26,7 +26,7 @@ The treatment for purposes of this chapter of any transaction in which Federal f
 
 For purposes of this section, the term "Federal financial assistance" means—
 
-&emsp;(1) any money or other property provided with respect to a domestic building and loan association by the Federal Savings and Loan Insurance Corporation or the Resolution Trust Corporation pursuant to section 406(f) of the National Housing Act or section 21A <sup>1</sup> of the Federal Home Loan Bank Act (or under any other similar provision of law), and
+&emsp;(1) any money or other property provided with respect to a domestic building and loan association by the Federal Savings and Loan Insurance Corporation or the Resolution Trust Corporation pursuant to section 406(f) of the National Housing Act (or under any other similar provision of law), and
 
 &emsp;(2) any money or other property provided with respect to a bank or domestic building and loan association by the Federal Deposit Insurance Corporation pursuant to section 11(f) or 13(c) of the Federal Deposit Insurance Act (or under any other similar provision of law),
 
@@ -36,17 +36,17 @@ For purposes of this section, the term "Federal financial assistance" means—
 
 For purposes of this section, the term "domestic building and loan association" has the meaning given such term by section 7701(a)(19) without regard to subparagraph (C) thereof.
 
-(Added Pub. L. 97–34, title II, §244(a), Aug. 13, 1981, 95 Stat. 255; amended Pub. L. 99–514, title IX, §904(b)(1), Oct. 22, 1986, 100 Stat. 2385; Pub. L. 100–647, title IV, §4012(b)(2)(A)–(D)(i), (c)(1), Nov. 10, 1988, 102 Stat. 3657, 3658; Pub. L. 101–73, title XIV, §1401(a)(3)(A), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 101–239, title VII, §7841(e)(1), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11704(a)(7), Nov. 5, 1990, 104 Stat. 1388–518.)
+(Added Pub. L. 97–34, title II, §244(a), Aug. 13, 1981, 95 Stat. 255; amended Pub. L. 99–514, title IX, §904(b)(1), Oct. 22, 1986, 100 Stat. 2385; Pub. L. 100–647, title IV, §4012(b)(2)(A)–(D)(i), (c)(1), Nov. 10, 1988, 102 Stat. 3657, 3658; Pub. L. 101–73, title XIV, §1401(a)(3)(A), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 101–239, title VII, §7841(e)(1), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11704(a)(7), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 115–141, div. U, title IV, §401(b)(25), Mar. 23, 2018, 132 Stat. 1203.)
 
 #### References in Text
 
 Section 406 of the National Housing Act, referred to in subsec. (c)(1), which was classified to section 1729 of Title 12, Banks and Banking, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
-Section 21A of the Federal Home Loan Bank Act, referred to in subsec. (c)(1), was classified to former section 1441a of Title 12, Banks and Banking, prior to repeal by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
-
 Sections 11(f) and 13(c) of the Federal Deposit Insurance Act, referred to in subsec. (c)(2), are classified to sections 1821(f) and 1823(c), respectively, of Title 12.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–141 struck out "or section 21A of the Federal Home Loan Bank Act" after "National Housing Act".
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–508 substituted "For purposes of" for "The purposes of".
 
@@ -108,7 +108,7 @@ Pub. L. 100–647, title IV, §4012(c)(3), Nov. 10, 1988, 102 Stat. 3660, as ame
 
 &emsp;"(B) after December 31, 1989, if such transfer is pursuant to an acquisition occurring after December 31, 1988, and before January 1, 1990.
 
-> In the case of any bank or any institution treated as a domestic building and loan association for purposes of section 597 of the 1986 Code by reason of the amendment made by subsection (b)(2)(B), the amendments made by this subsection shall also apply to any transfer before January 1, 1989, to which the amendments made by subsection (b)(2) \[amending this section\] apply."
+> In the case of any bank or any institution treated as a domestic building and loan association for purposes of section 597 of the 1986 Code by reason of the amendment made by subsection (b)(2)(B), the amendments made bythis subsection shall also apply to any transfer before January 1, 1989, to which the amendments made by subsection (b)(2) \[amending this section\] apply."
 
 #### Effective Date of Repeal
 
@@ -117,6 +117,10 @@ Pub. L. 99–514, title IX, §904(c)(2), Oct. 22, 1986, 100 Stat. 2385, as amend
 #### Effective Date
 
 Pub. L. 97–34, title II, §246(c), Aug. 13, 1981, 95 Stat. 256, provided that: "The amendment made by section 244 \[enacting this section\] shall apply to any payment made on or after January 1, 1981."
+
+#### Savings Provision
+
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Transfer of Functions
 
@@ -133,6 +137,4 @@ Pub. L. 101–73, title XIV, §1401(c)(7), Aug. 9, 1989, 103 Stat. 550, provided
 #### Annual Reports on Transactions in Which Federal Financial Assistance Provided
 
 Pub. L. 101–73, title XIV, §1403, Aug. 9, 1989, 103 Stat. 551, which required the Secretary of the Treasury to submit annual reports to the Senate and to the Committee on Ways and Means of the House of Representatives on transactions with respect to which Federal financial assistance subject to this section was provided, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 142 of House Document No. 103–7.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

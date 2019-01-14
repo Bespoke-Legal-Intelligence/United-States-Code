@@ -6,7 +6,7 @@ The Railroad Retirement Board shall make a return, according to the forms and re
 
 &emsp;(1) the aggregate amount of benefits paid under the Railroad Retirement Act of 1974 (other than tier 1 railroad retirement benefits, as defined in section 86(d)(4)) to any individual during any calendar year,
 
-&emsp;(2) the employee contributions (to the extent not previously taken into account under section 72(d)(1)) <sup>1</sup> which are treated as having been paid for purposes of section 72(r),
+&emsp;(2) the employee contributions which are treated as having been paid for purposes of section 72(r),
 
 &emsp;(3) the name and address of such individual, and
 
@@ -22,15 +22,15 @@ The Railroad Retirement Board shall furnish to each individual whose name is req
 
 > The written statement required under the preceding sentence shall be furnished to the individual on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
 
-(Added Pub. L. 98–76, title II, §224(b)(1), Aug. 12, 1983, 97 Stat. 422; amended Pub. L. 99–514, title XV, §1501(c)(10), Oct. 22, 1986, 100 Stat. 2739.)
+(Added Pub. L. 98–76, title II, §224(b)(1), Aug. 12, 1983, 97 Stat. 422; amended Pub. L. 99–514, title XV, §1501(c)(10), Oct. 22, 1986, 100 Stat. 2739; Pub. L. 115–141, div. U, title IV, §401(b)(45), Mar. 23, 2018, 132 Stat. 1204.)
 
 #### References in Text
 
 The Railroad Retirement Act of 1974, referred to in subsec. (a)(1), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
-Section 72(d), referred to in subsec. (a)(2), was repealed by Pub. L. 99–514, title XI, §1122(c)(1), Oct. 22, 1986, 100 Stat. 2467. A new section 72(d) was added by Pub. L. 100–647, title I, §1011A(b)(2)(A), Nov. 10, 1988, 102 Stat. 3472, and subsequently amended generally by Pub. L. 104–188, title I, §1403(a), Aug. 20, 1996, 110 Stat. 1790.
-
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2). Pub. L. 115–141 struck out "(to the extent not previously taken into account under section 72(d)(1))" after "contributions".
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–514, in amending subsec. (b) generally, substituted "information is required" for "information is furnished" in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
 
@@ -42,5 +42,7 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 
 Enactment of section applicable to benefits received after Dec. 31, 1983, in taxable years ending after such date, except for portions of lump-sum payments received after Dec. 31, 1983, if the generally applicable payment date for such portion was before Jan. 1, 1984, see section 227(b) of Pub. L. 98–76, set out as an Effective Date of 1983 Amendment note under section 72 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Savings Provision
+
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 

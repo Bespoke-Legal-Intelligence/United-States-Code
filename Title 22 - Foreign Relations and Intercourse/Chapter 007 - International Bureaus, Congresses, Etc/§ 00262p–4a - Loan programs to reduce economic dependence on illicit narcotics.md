@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) the illicit narcotics epidemic currently afflicting the United States represents a direct threat to the well-being of every United States citizen;
 
-&emsp;(2) every effective means must be pursued to reduce the foreign production and subsequentimportation into the United States of illicit narcotics;
+&emsp;(2) every effective means must be pursued to reduce the foreign production and subsequent importation into the United States of illicit narcotics;
 
 &emsp;(3) the multilateral development banks can play an integral role in efforts to control the production of illicit narcotics;
 

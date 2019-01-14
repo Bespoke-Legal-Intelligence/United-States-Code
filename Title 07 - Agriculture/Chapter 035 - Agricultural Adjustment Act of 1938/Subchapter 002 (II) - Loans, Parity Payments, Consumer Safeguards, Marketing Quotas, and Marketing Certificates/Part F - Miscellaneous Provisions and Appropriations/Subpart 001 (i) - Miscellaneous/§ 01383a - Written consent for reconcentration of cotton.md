@@ -10,7 +10,7 @@ Section was not enacted as part of the Agricultural Adjustment Act of 1938 which
 
 #### Transfer of Functions
 
-Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
+Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Exceptions From Transfer of Functions
 

@@ -18,7 +18,7 @@ Section 1383(a) of this title, referred to in text, is a reference to section 13
 
 <b>1980</b>—Pub. L. 96–272 struck out "when applied to quarters in the fiscal year ending September 30, 1979" after "means 75 per centum".
 
-<b>1978</b>—Pub. L. 95–600, inserted provision relating to definition of "Federal medical assistance percentage"in the case of Puerto Rico, the Virgin Islands, and Guam.
+<b>1978</b>—Pub. L. 95–600, inserted provision relating to definition of "Federal medical assistance percentage" in the case of Puerto Rico, the Virgin Islands, and Guam.
 
 <b>1976</b>—Pub. L. 94–273 substituted "September" for "June".
 

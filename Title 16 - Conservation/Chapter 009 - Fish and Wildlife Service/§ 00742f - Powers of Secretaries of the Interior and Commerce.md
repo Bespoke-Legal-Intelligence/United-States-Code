@@ -34,7 +34,7 @@ Disbursal.—Any gift, devise, or bequest made for the benefit of a particular n
 
 &emsp;&emsp;(ii)
 
-Matching.—Subject to the availability of appropriations and the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a particular national wildlife refuge or complex of geographically related refuges. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
+Matching.—Subject to the availability of appropriations and the requirements ofthe National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a particular national wildlife refuge or complex of geographically related refuges. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
 
 (3) For the purpose of Federal income, estate, and gift taxes, property, or proceeds therefrom, or interests therein, accepted under this subsection shall be considered as a gift or bequest to the United States.
 
@@ -90,11 +90,11 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (i) Matching
 
-&emsp;&emsp;&emsp;Subject to the availability of appropriations and the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match non-Federal funds donated under a cooperative agreement under this paragraph. With respect to each project or program, the amount of funds provided by the Secretary may not exceed the amount of the non-Federal funds donated through the project or program.
+&emsp;&emsp;&emsp;Subject to the availability of appropriations and the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match non-Federal fundsdonated under a cooperative agreement under this paragraph. With respect to each project or program, the amount of funds provided by the Secretary may not exceed the amount of the non-Federal funds donated through the project or program.
 
 #### (ii) Use of Federal funds
 
-&emsp;&emsp;&emsp;Any Federal funds used to fund a project or program under a cooperative agreement may be used only for expenses directly related to the project or program and maynot be used for operation or administration of any non-Federal entity.
+&emsp;&emsp;&emsp;Any Federal funds used to fund a project or program under a cooperative agreement may be used only for expenses directly related to the project or program and may not be used for operation or administration of any non-Federal entity.
 
 #### (iii) Ownership of facilities
 
@@ -130,9 +130,9 @@ Not later than 1 year after January 4, 2011, and every 5 years thereafter, the S
 
 #### (g) Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), (e), and (f), $2,000,000 for each of fiscal years 2011 through 2014.
+There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), (e), and (f), $2,000,000 for each of fiscal years 2018 through 2022.
 
-(Aug. 8, 1956, ch. 1036, §7, 70 Stat. 1122; Pub. L. 95–616, §4, Nov. 8, 1978, 92 Stat. 3112; Pub. L. 97–347, §2, Oct. 18, 1982, 96 Stat. 1652; Pub. L. 98–44, title I, §103(a)(2), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §430(2), Oct. 19, 1984, 98 Stat. 2310; Pub. L. 105–242, §§3, 4(b), (c), 5–7, Oct. 5, 1998, 112 Stat. 1574–1578; Pub. L. 108–327, §§2, 4, Oct. 16, 2004, 118 Stat. 1271; Pub. L. 111–357, §§2, 4(a), Jan. 4, 2011, 124 Stat. 3979, 3980.)
+(Aug. 8, 1956, ch. 1036, §7, 70 Stat. 1122; Pub. L. 95–616, §4, Nov. 8, 1978, 92 Stat. 3112; Pub. L. 97–347, §2, Oct. 18, 1982, 96 Stat. 1652; Pub. L. 98–44, title I, §103(a)(2), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §430(2), Oct. 19, 1984, 98 Stat. 2310; Pub. L. 105–242, §§3, 4(b), (c), 5–7, Oct. 5, 1998, 112 Stat. 1574–1578; Pub. L. 108–327, §§2, 4, Oct. 16, 2004, 118 Stat. 1271; Pub. L. 111–357, §§2, 4(a), Jan. 4, 2011, 124 Stat. 3979, 3980; Pub. L. 115–168, §2, Apr. 23, 2018, 132 Stat. 1284.)
 
 #### References in Text
 
@@ -141,6 +141,8 @@ This Act, referred to in subsec. (b)(1), is act Aug. 8, 1956, ch. 1036, known as
 The National Wildlife Refuge System Administration Act of 1966, referred to in subsecs. (b)(2)(B)(ii) and (d)(2)(B), (C)(i), consists of sections 4 and 5 of Pub. L. 89–699, Oct. 15, 1966, 80 Stat. 927, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under section 668dd of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (g). Pub. L. 115–168 substituted "2018 through 2022" for "2011 through 2014".
 
 <b>2011</b>—Subsec. (b)(2)(B)(ii). Pub. L. 111–357, §2(b), substituted "National Wildlife Refuge System Administration Act of 1966" for "National Wildlife Refuge Administration Act of 1966".
 
@@ -152,7 +154,7 @@ Pub. L. 111–357, §2(a), amended subsec. (f) generally. Prior to amendment, te
 
 Subsec. (g). Pub. L. 111–357, §4(a)(1), redesignated subsec. (f) as (g).
 
-<b>2004</b>—Subsec. (d)(2)(A). Pub. L. 108–327, §4, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Secretary of the Interior may enter into a cooperative agreement (within the meaning of chapter 63 of title 31) with any partner organization, academic institution, or State or local government agency to carry out 1 or more projects or programs for a refuge or complex of geographically related refuges in accordance with this subsection."
+<b>2004</b>—Subsec. (d)(2)(A). Pub. L. 108–327, §4, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Secretary of the Interior may enter into a cooperativeagreement (within the meaning of chapter 63 of title 31) with any partner organization, academic institution, or State or local government agency to carry out 1 or more projects or programs for a refuge or complex of geographically related refuges in accordance with this subsection."
 
 Subsec. (f). Pub. L. 108–327, §2, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), and (e) of this section $2,000,000 for each of fiscal years 1999 through 2004."
 

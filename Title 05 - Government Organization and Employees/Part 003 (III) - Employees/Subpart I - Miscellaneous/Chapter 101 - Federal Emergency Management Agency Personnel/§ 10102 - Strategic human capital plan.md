@@ -12,7 +12,7 @@ Contents.—The strategic human capital plan shall include—
 
 &emsp;&emsp;(A) the critical skills and competencies that will be needed in the workforce of the Agency to support the mission and responsibilities of, and effectively manage, the Agency during the 10-year period beginning on the date of enactment of this chapter;
 
-&emsp;&emsp;(B) the skills and competencies of the workforce of the Agency on the day before the date of enactment of this chapter and projected trends in that workforce, based onexpected losses due to retirement and other attrition; and
+&emsp;&emsp;(B) the skills and competencies of the workforce of the Agency on the day before the date of enactment of this chapter and projected trends in that workforce, based on expected losses due to retirement and other attrition; and
 
 &emsp;&emsp;(C) the staffing levels of each category of employee, including gaps in the workforce of the Agency on the day before the date of enactment of this chapter and in the projected workforce of the Agency that should be addressed to ensure that the Agency has continued access to the critical skills and competencies described in subparagraph (A);
 

@@ -30,7 +30,7 @@ Persons and bodies covered.—The persons and bodies described in this paragraph
 
 Rules of construction.—For the purposes of paragraph (1)—
 
-&emsp;&emsp;(A) an employee who initiates or provides evidence of contractor, subcontractor, or grantee misconduct in any judicial or administrative proceeding relating to waste, fraud, or abuse on a Federal contract or grant shall be deemed to have made a disclosure covered by such paragraph; and
+&emsp;&emsp;(A) an employee who initiates or provides evidence of contractor, subcontractor, orgrantee misconduct in any judicial or administrative proceeding relating to waste, fraud, or abuse on a Federal contract or grant shall be deemed to have made a disclosure covered by such paragraph; and
 
 &emsp;&emsp;(B) a reprisal described in paragraph (1) is prohibited even if it is undertaken at the request of an executive branch official, unless the request takes the form of a non-discretionary directive and is within the authority of the executive branch official making the request.
 
@@ -128,7 +128,7 @@ Exceptions.—(1) This section shall not apply to any element of the intelligenc
 
 Definitions.—In this section:
 
-&emsp;(1) The term "abuse of authority" means an arbitrary and capricious exercise of authoritythat is inconsistent with the mission of the executive agency concerned or the successful performance of a contract or grant of such agency.
+&emsp;(1) The term "abuse of authority" means an arbitrary and capricious exercise of authority that is inconsistent with the mission of the executive agency concerned or the successful performance of a contract or grant of such agency.
 
 &emsp;(2) The term "Inspector General" means an Inspector General appointed under the Inspector General Act of 1978 and any Inspector General that receives funding from, or has oversight over contracts or grants awarded for or on behalf of, the executive agency concerned.
 

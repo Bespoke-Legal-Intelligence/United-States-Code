@@ -20,7 +20,7 @@ In this section, the following definitions shall apply:
 
 #### (2) Criminal justice agency
 
-&emsp;The term "criminal justice agency" means an agency of the State, territory, Indian tribe,or local government or its contracted agency that is responsible for detection, arrest, enforcement, prosecution, defense, adjudication, incarceration, probation, or parole relating to the violation of the criminal laws of that State, territory, Indian tribe, or local government.
+&emsp;The term "criminal justice agency" means an agency of the State, territory, Indian tribe, or local government or its contracted agency that is responsible for detection, arrest, enforcement, prosecution, defense, adjudication, incarceration, probation, or parole relating to the violation of the criminal laws of that State, territory, Indian tribe, or local government.
 
 #### (C) <sup>2</sup> Indian tribe
 

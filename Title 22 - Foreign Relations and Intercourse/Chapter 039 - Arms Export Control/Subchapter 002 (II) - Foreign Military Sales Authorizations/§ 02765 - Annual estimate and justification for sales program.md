@@ -2,7 +2,7 @@
 
 #### (a) Report to Congress; contents
 
-Except as provided in subsection (d) <sup>1</sup> of this section, no later than February 1 of each year, the President shall transmit to the appropriate congressional committees, as a part of the annual presentation materials for security assistance programs proposed for the next fiscal year, a report which sets forth—
+Except as provided in subsection (d) <sup>1</sup> of this section, no later than February 1 of each year, the President shall transmit to the appropriatecongressional committees, as a part of the annual presentation materials for security assistance programs proposed for the next fiscal year, a report which sets forth—
 
 &emsp;(1) an arms sales proposal covering all sales and licensed commercial exports under this chapter, as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title, of major weapons or weapons-related defense equipment for $7,000,000 or more, or of any other weapons or weapons-related defense equipment for $25,000,000 or more, which are considered eligible for approval during the current calendar year, together with an indication of which sales and licensed commercial exports are deemed most likely actually to result in the issuance of a letter of offer or of an export license during such year;
 
@@ -32,7 +32,7 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 &emsp;(10) the amount and nature of Soviet military assistance to the armed forces of Cuba during the preceding fiscal year and the military capabilities of those armed forces;
 
-&emsp;(11) the status of each loan and each contract of guaranty or insurance theretofore made under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], predecessor Acts, or any Act authorizing international security assistance, with respect to which there remains outstanding any unpaid obligation or potential liability; the status of each extension ofcredit for the procurement of defense articles or defense services, and of each contract of guaranty in connection with any such procurement, theretofore made under this chapter with respect to which there remains outstanding any unpaid obligation or potential liability;
+&emsp;(11) the status of each loan and each contract of guaranty or insurance theretofore made under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], predecessor Acts, or any Act authorizing international security assistance, with respect to which there remains outstanding any unpaid obligation or potential liability; the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guaranty in connection with any such procurement, theretofore made under this chapter with respect to which there remains outstanding any unpaid obligation or potential liability;
 
 &emsp;(12)(A) a detailed accounting of all articles, services, credits, guarantees, or any other form of assistance furnished by the United States to each country and international organization, including payments to the United Nations, during the preceding fiscal year for the detection and clearance of landmines, including activities relating to the furnishing of education, training, and technical assistance for the detection and clearance of landmines; and
 

@@ -4,7 +4,7 @@ Section, act Mar. 1, 1933, ch. 160, §1, 47 Stat. 1418, related to Indian allotm
 
 #### Effective Date of Repeal
 
-Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787, provided that this section is repealed effective on and after Oct. 21, 1976, except such effective date to be on and after the tenth anniversary of the date of approval of this Act, Oct. 21, 1976, insofar as the homestead laws apply to public lands in Alaska.
+Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787, provided that this section is repealed effective onand after Oct. 21, 1976, except such effective date to be on and after the tenth anniversary of the date of approval of this Act, Oct. 21, 1976, insofar as the homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
 

@@ -10,7 +10,7 @@ If the total of the amounts requested for any fiscal year in such applications e
 
 #### (c) Allotment of excess funds
 
-Funds available in any fiscal year for payment to schools under this subpart which are in excess of the amount appropriated pursuant to this section for that year shall be allotted among schools in such manner as the Secretary determines will best carry out the purposes of this subpart.
+Funds available in any fiscal year for payment to schools under this subpart which are in excess of the amount appropriated pursuant to this section for that year shall be allotted amongschools in such manner as the Secretary determines will best carry out the purposes of this subpart.
 
 #### (d) Payment of installments to schools
 

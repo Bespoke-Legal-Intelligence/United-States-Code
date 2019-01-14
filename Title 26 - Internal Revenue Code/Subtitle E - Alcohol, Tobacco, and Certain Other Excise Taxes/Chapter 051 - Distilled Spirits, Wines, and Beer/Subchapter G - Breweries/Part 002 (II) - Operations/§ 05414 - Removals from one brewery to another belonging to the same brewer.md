@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Beer may be removed from one brewery to another brewery belonging to the same brewer, without payment of tax, and may be mingled with beer at the receiving brewery, subject to such conditions, including payment of the tax, and in such containers, as the Secretary by regulations shall prescribe. The removal from one brewery to another brewery belonging to the same brewer shall be deemed to include any removal from a brewery owned by one corporation to a brewery owned by another corporation when (1) one such corporation owns the controlling interest in the other such corporation, or (2)the controlling interest in each such corporation is owned by the same person or persons.
+Beer may be removed from one brewery to another brewery belonging to the same brewer, without payment of tax, and may be mingled with beer at the receiving brewery, subject to such conditions, including payment of the tax, and in such containers, as the Secretary by regulations shall prescribe. The removal from one brewery to another brewery belonging to the same brewer shall be deemed to include any removal from a brewery owned by one corporation to a brewery owned by another corporation when (1) one such corporation owns the controlling interest in the other such corporation, or (2) the controlling interest in each such corporation is owned by the same person or persons.
 
 #### (b) Transfer of beer between bonded facilities
 
@@ -26,7 +26,7 @@ Beer may be removed from one brewery to another brewery belonging to the same br
 
 #### (2) Transfer of liability for tax
 
-&emsp;For purposes of paragraph (1)(C), such relief from liability shall be effective from the time of removal from the transferor's bonded premises, or from the time of divestment of interest, whichever is later.
+&emsp;For purposes of paragraph (1)(C), such relief from liability shall be effective from the timeof removal from the transferor's bonded premises, or from the time of divestment of interest, whichever is later.
 
 #### (3) Termination
 

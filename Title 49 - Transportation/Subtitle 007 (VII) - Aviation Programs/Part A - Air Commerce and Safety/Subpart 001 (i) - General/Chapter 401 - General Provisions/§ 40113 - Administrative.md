@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may take action the Secretary, Under Secretary, or Administrator, as appropriate, considers necessary to carry out this part, including conducting investigations, prescribing regulations, standards, and procedures, and issuing orders.
+General Authority.—The Secretary of Transportation (or the Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by that Administrator or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by that Administrator) may take action the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration, as appropriate, considers necessary to carry out this part, including conducting investigations, prescribing regulations, standards, and procedures, and issuing orders.
 
 (b)
 
@@ -14,7 +14,7 @@ Governmental Assistance.—The Secretary (or the Administrator of the Federal Av
 
 (d)
 
-Indemnification.—The Under Secretary of Transportation for Security or the Administrator of the Federal Aviation Administration may indemnify an officer or employee of the Transportation Security Administration or Federal Aviation Administration, as the case may be, against a claim or judgment arising out of an act that the Under Secretary or Administrator, as the case may be, decides was committed within the scope of the official duties of the officer or employee.
+Indemnification.—The Administrator of the Federal Aviation Administration may indemnify an officer or employee of the Federal Aviation Administration against a claim or judgment arising out of an act that the Administrator decides was committed within the scope of the official duties of the officer or employee.
 
 (e)
 
@@ -46,7 +46,7 @@ Reporting.—Not later than December 31, 1995, and annually thereafter, the Admi
 
 Application of Certain Regulations to Alaska.—In amending title 14, Code of Federal Regulations, in a manner affecting intrastate aviation in Alaska, the Administrator of the Federal Aviation Administration shall consider the extent to which Alaska is not served by transportation modes other than aviation, and shall establish such regulatory distinctions as the Administrator considers appropriate.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1110; Pub. L. 103–305, title II, §202, Aug. 23, 1994, 108 Stat. 1582; Pub. L. 106–181, title I, §156(a), Apr. 5, 2000, 114 Stat. 89; Pub. L. 107–71, title I, §140(c), Nov. 19, 2001, 115 Stat. 641; Pub. L. 112–95, title II, §207, Feb. 14, 2012, 126 Stat. 39.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1110; Pub. L. 103–305, title II, §202, Aug. 23, 1994, 108 Stat. 1582; Pub. L. 106–181, title I, §156(a), Apr. 5, 2000, 114 Stat. 89; Pub. L. 107–71, title I, §140(c), Nov. 19, 2001, 115 Stat. 641; Pub. L. 112–95, title II, §207, Feb. 14, 2012, 126 Stat. 39; Pub. L. 115–254, div. K, title I, §1991(c)(2), Oct. 5, 2018, 132 Stat. 3627.)
 
 Historical and Revision Notes
 
@@ -114,6 +114,10 @@ In subsection (d), the text of 49 App.:1354(e) (last sentence) is omitted becaus
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a). Pub. L. 115–254, §1991(c)(2)(A), substituted "the Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by that Administrator or" for "the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or", "carried out by that Administrator" for "carried out by the Administrator", and ", Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration," for ", Under Secretary, or Administrator,".
+
+Subsec. (d). Pub. L. 115–254, §1991(c)(2)(B), struck out "Under Secretary of Transportation for Security or the" before "Administrator of the Federal Aviation Administration" and substituted "employee of the Federal Aviation Administration" for "employee of the Transportation Security Administration or Federal Aviation Administration, as the case may be," and "that the Administrator" for "that the Under Secretary or Administrator, as the case may be,".
+
 <b>2012</b>—Subsec. (e)(1). Pub. L. 112–95, §207(1), inserted "(whether public or private)" after "authorities" and substituted "safety or efficiency. The Administrator is authorized to participate in, and submit offers in response to, competitions to provide these services, and to contract with foreign aviation authorities to provide these services consistent with section 106(l)(6)." for "safety."
 
 Subsec. (e)(2). Pub. L. 112–95, §207(2), inserted at end "The Administrator is authorized, notwithstanding any other provision of law or policy, to accept payments for services provided under this subsection in arrears."
@@ -135,6 +139,36 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Intra-Agency Coordination
+
+Pub. L. 115–254, div. B, title V, §520, Oct. 5, 2018, 132 Stat. 3362, provided that: "Not later than 120 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall implement a policy that—
+
+&emsp;"(1) designates the Associate Administrator for Commercial Space Transportation as the primary liaison between the commercial space transportation industry and the \[Federal Aviation\] Administration;
+
+&emsp;"(2) recognizes the necessity of, and set \[sic\] forth processes for, launch license and permit holder coordination with the Air Traffic Organization on matters including—
+
+&emsp;&emsp;"(A) the use of air navigation facilities;
+
+&emsp;&emsp;"(B) airspace safety; and
+
+&emsp;&emsp;"(C) planning of commercial space launch and launch support activities;
+
+&emsp;"(3) designates a single point of contact within the Air Traffic Organization who is responsible for—
+
+&emsp;&emsp;"(A) maintaining letters of agreement between a launch license or permit holder and a Federal Aviation Administration facility;
+
+&emsp;&emsp;"(B) making such letters of agreement available to the Associate Administrator for Commercial Space Transportation;
+
+&emsp;&emsp;"(C) ensuring that a facility that has entered into such a letter of agreement is aware of and fulfills its responsibilities under the letter; and
+
+&emsp;&emsp;"(D) liaising between the Air Traffic Organization and the Associate Administrator for Commercial Space Transportation on any matter relating to such a letter of agreement; and
+
+&emsp;"(4) requires the Associate Administrator for Commercial Space Transportation to facilitate, upon the request of a launch license or permit holder—
+
+&emsp;&emsp;"(A) coordination between a launch license and permit holder and the Air Traffic Organization; and
+
+&emsp;&emsp;"(B) the negotiation of letters of agreement between a launch license or permit holder and a Federal Aviation Administration facility or the Air Traffic Organization."
 
 #### Administrative Services Franchise Fund
 

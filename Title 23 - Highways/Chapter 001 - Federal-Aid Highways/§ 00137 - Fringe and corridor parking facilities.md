@@ -14,7 +14,7 @@
 
 (d) Nothing in this section, or in any rule or regulation issued under this section, or in any agreement required by this section, shall prohibit (1) any State, political subdivision, or agency or instrumentality thereof, from contracting with any person to operate any parking facility constructed under this section, or (2) any such person from so operating such facility.
 
-(e) The Secretary shall not approve any project under this section unless he determines that it is based on a continuing comprehensive transportation planning process carried on in accordance with section 134 of this title.
+(e) The Secretary shall not approve any project under this section unless he determines thatit is based on a continuing comprehensive transportation planning process carried on in accordance with section 134 of this title.
 
 (f)(1) The Secretary may approve for Federal financial assistance from funds apportioned under section 104(b)(1), projects for designating existing facilities, or for acquisition of rights of way or construction of new facilities, including the addition of electric vehicle charging stations or natural gas vehicle refueling stations, for use as preferential parking for carpools, provided that such facilities (A) are located outside of a central business district and within an interstate highway corridor, and (B) have as their primary purpose the reduction of vehicular traffic on the interstate highway.
 
@@ -122,7 +122,7 @@ Electric Vehicle and Natural Gas Vehicle Infrastructure.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), a State may establish electric vehicle chargingstations or natural gas vehicle refueling stations for the use of battery-powered or natural gas-fueled trucks or other motor vehicles at any parking facility funded or authorized under this Act \[see Tables for classification\] or title 23, United States Code.
+In general.—Except as provided in paragraph (2), a State may establish electric vehicle charging stations or natural gas vehicle refueling stations for the use of battery-powered or natural gas-fueled trucks or other motor vehicles at any parking facility funded or authorized under this Act \[see Tables for classification\] or title 23, United States Code.
 
 &emsp;"(2)
 

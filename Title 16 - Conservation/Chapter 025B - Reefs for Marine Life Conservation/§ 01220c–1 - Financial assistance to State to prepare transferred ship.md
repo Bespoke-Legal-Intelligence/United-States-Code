@@ -30,7 +30,7 @@ The Secretary—
 
 #### (d) Limitation
 
-The Secretary may not provide assistance under this section to a foreign country to which an obsolete ship is transferred under this chapter.
+The Secretary may not provide assistance under this section to a foreign country to whichan obsolete ship is transferred under this chapter.
 
 (Pub. L. 92–402, §7, as added Pub. L. 107–314, div. C, title XXXV, §3504(a)(1)(B), Dec. 2, 2002, 116 Stat. 2754; amended Pub. L. 111–84, div. C, title XXXV, §3513(b), Oct. 28, 2009, 123 Stat. 2724.)
 

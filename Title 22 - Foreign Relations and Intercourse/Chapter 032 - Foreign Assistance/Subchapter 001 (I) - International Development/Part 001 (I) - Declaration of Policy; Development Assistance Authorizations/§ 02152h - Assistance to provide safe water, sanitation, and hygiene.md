@@ -340,7 +340,7 @@ Pub. L. 109–121, Dec. 1, 2005, 119 Stat. 2533, as amended by Pub. L. 113–289
 
 "Congress makes the following findings:
 
-&emsp;"(1) Water-related diseases are a human tragedy, killing up to five million people annually, preventing millions of people from leading healthy lives, and undermining development efforts.
+&emsp;"(1) Water-related diseases are a human tragedy, killing up to five million people annually, preventingmillions of people from leading healthy lives, and undermining development efforts.
 
 &emsp;"(2) A child dies an average of every 15 seconds because of lack of access to safe water and adequate sanitation.
 
@@ -466,7 +466,7 @@ Sense of Congress.—It is the sense of Congress that United States programs to 
 
 "(b)
 
-Report.—The Secretary of State, in consultation with the Administrator of the United States Agency for International Development, shall submit to theCommittee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on efforts that the United States is making to support and promote programs that develop river basin, aquifer, and other watershed-wide mechanisms for governance and cooperation.
+Report.—The Secretary of State, in consultation with the Administrator of the United States Agency for International Development, shall submit to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on efforts that the United States is making to support and promote programs that develop river basin, aquifer, and other watershed-wide mechanisms for governance and cooperation.
 
 #### "SEC. 11. AUTHORIZATION OF APPROPRIATIONS.
 

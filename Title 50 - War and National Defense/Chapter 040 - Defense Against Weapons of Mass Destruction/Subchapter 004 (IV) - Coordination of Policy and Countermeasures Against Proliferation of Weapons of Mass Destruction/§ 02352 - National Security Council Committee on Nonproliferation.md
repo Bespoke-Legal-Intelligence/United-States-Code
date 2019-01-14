@@ -40,7 +40,7 @@ The Committee has the following responsibilities:
 
 &emsp;&emsp;(B) Options for integrating Federal agency budgets for countering such threats.
 
-&emsp;&emsp;(C) Means to ensure that Federal, State, and local governments have adequate capabilities to manage crises involving nuclear, radiological, biological, or chemical weapons or related materials or technologies, and to manage the consequences of a use of such weapon or related materials or technologies, and that use of those capabilities is coordinated.
+&emsp;&emsp;(C) Means to ensure that Federal, State, and local governments have adequate capabilities to manage crises involving nuclear, radiological, biological, or chemical weapons or related materials or technologies, and tomanage the consequences of a use of such weapon or related materials or technologies, and that use of those capabilities is coordinated.
 
 &emsp;&emsp;(D) Means to ensure appropriate cooperation on, and coordination of, the following:
 

@@ -72,7 +72,7 @@ Ex. Ord. No. 6166, June 10, 1933, provided:
 
 Procurement
 
-The function of determination of policies and methods of procurement, warehousing, and distribution of property, facilities, structures, improvements, machinery, equipment, stores, and supplies exercised by an agency is transferred to a Procurement Division in the Treasury Department, at the head of which shall be a Director of Procurement.
+The function of determination of policies and methods of procurement, warehousing, and distribution ofproperty, facilities, structures, improvements, machinery, equipment, stores, and supplies exercised by an agency is transferred to a Procurement Division in the Treasury Department, at the head of which shall be a Director of Procurement.
 
 The Office of the Supervising Architect of the Treasury Department is transferred to the Procurement Division, except that the buildings of the Treasury Department shall be administered by the Treasury Department and the administration of post-office buildings is transferred to the Post Office Department. The General Supply Committee of the Treasury Department is abolished.
 
@@ -280,7 +280,7 @@ As to any case referred to the Department of Justice for prosecution or defense 
 
 For the exercise of such of his functions as are not transferred to the Department of Justice by the foregoing two paragraphs, the Solicitor of the Treasury is transferred from the Department of Justice to the Treasury Department.
 
-Nothing in this section shall be construed to affect the function of any agency or officer with respect to cases at any stage prior to reference to the Department of Justice for prosecution or defense.
+Nothing in this section shall be construed to affect the function of any agency or officer with respect tocases at any stage prior to reference to the Department of Justice for prosecution or defense.
 
 #### Effective Date
 
@@ -426,7 +426,7 @@ In accordance with law, this order shall become effective 61 days from its date:
 
 \[Postponements of effective date of certain transfers, etc., see notes under the various sections of this Executive Order effecting those transfers, etc.\]
 
-Executive Order No. 7261, promulgated December 31, 1935, provided that "except as hereinafter provided, thetransfers, consolidations, and eliminations contemplated by section 4 of Executive Order No. 6166 of June 10, 1933, as amended, which are not effected prior to December 31, 1935, pursuant to Executive Order No. 6224 of July 27, 1933, Executive Order No. 6540 of December 28, 1933, Executive Order No. 6727 of May 29, 1934, Executive Order No. 6927 of December 21, 1934, and Executive Order No. 7077 of June 15, 1935, together with the operation of all other provisions of Executive Order No. 6166 of June 10, 1933, as amended, in so far as they relate to said section 4, be further delayed until June 30, 1936: Provided, that any transfer, consolidation, or elimination, in whole or in part, under said section 4, including any other provisions of the said order of June 10, 1933, in so far as they relate to section 4 thereof, may be made operative and effective between December 31, 1935, and June 30, 1936, by order of the Secretary of the Treasury, approved by the President."
+Executive Order No. 7261, promulgated December 31, 1935, provided that "except as hereinafter provided, the transfers, consolidations, and eliminations contemplated by section 4 of Executive Order No. 6166 of June 10, 1933, as amended, which are not effected prior to December 31, 1935, pursuant to Executive Order No. 6224 of July 27, 1933, Executive Order No. 6540 of December 28, 1933, Executive Order No. 6727 of May 29, 1934, Executive Order No. 6927 of December 21, 1934, and Executive Order No. 7077 of June 15, 1935, together with the operation of all other provisions of Executive Order No. 6166 of June 10, 1933, as amended, in so far as they relate to said section 4, be further delayed until June 30, 1936: Provided, that any transfer, consolidation, or elimination, in whole or in part, under said section 4, including any other provisions of the said order of June 10, 1933, in so far as they relate to section 4 thereof, may be made operative and effective between December 31, 1935, and June 30, 1936, by order of the Secretary of the Treasury, approved by the President."
 
 Executive Order No. 7980, promulgated September 29, 1938, provided: "That the transfers, consolidations, and eliminations contemplated by section 4 of Executive Order No. 6166 of June 10, 1933, as amended, together with the operation of all other provisions of Executive Order No. 6166 of June 10, 1933, as amended, so far as they relate to the said section 4, be further delayed until December 31, 1938, with respect to the function of disbursement now exercised by United States Marshals under the Department of Justice."
 

@@ -28,7 +28,7 @@ An agreement with a hospital under this section shall, except as otherwise provi
 
 #### (d) Post-hospital extended care services
 
-Any agreement with a hospital under this section shall provide that payment for services will be made only for services for which payment would be made as post-hospital extended care services if those services had been furnished by a skilled nursing facility under an agreement entered into under section 1395cc of this title; and any individual who is furnished services, forwhich payment may be made under an agreement under this section, shall, for purposes of this subchapter (other than this section), be deemed to have received post-hospital extended care services in like manner and to the same extent as if the services furnished to him had been post-hospital extended care services furnished by a skilled nursing facility under an agreement under section 1395cc of this title.
+Any agreement with a hospital under this section shall provide that payment for services will be made only for services for which payment would be made as post-hospital extended care services if those services had been furnished by a skilled nursing facility under an agreement entered into under section 1395cc of this title; and any individual who is furnished services, for which payment may be made under an agreement under this section, shall, for purposes of this subchapter (other than this section), be deemed to have received post-hospital extended care services in like manner and to the same extent as if the services furnished to him had been post-hospital extended care services furnished by a skilled nursing facility under an agreement under section 1395cc of this title.
 
 #### (e) Reimbursement for routine hospital services
 
@@ -132,7 +132,7 @@ Pub. L. 101–508, title IV, §4008(j)(2), Nov. 5, 1990, 104 Stat. 1388–51, pr
 
 #### Swing Beds Certified Prior to May 1, 1987
 
-Pub. L. 101–508, title IV, §4008(j)(3), Nov. 5, 1990, 104 Stat. 1388–52, provided that: "Notwithstanding the requirement of section 1883(b)(1) of the Social Security Act \[42 U.S.C. 1395tt(b)(1)\] that the Secretary may not enter into an agreement under such section with a hospital that is not located in a rural area, any agreement entered into under such section on or before May 1, 1987, between the Secretary of Health and Human Services and a hospital located in an urban area shall remain in effect."
+Pub. L. 101–508, title IV, §4008(j)(3), Nov. 5, 1990, 104 Stat. 1388–52, provided that: "Notwithstanding the requirement of section 1883(b)(1) of the Social Security Act \[42 U.S.C. 1395tt(b)(1)\] that the Secretary may not enter into an agreement under such section with a hospital that is not located in a rural area, any agreemententered into under such section on or before May 1, 1987, between the Secretary of Health and Human Services and a hospital located in an urban area shall remain in effect."
 
 #### Report of Hospital Admissions for Extended Care Services
 

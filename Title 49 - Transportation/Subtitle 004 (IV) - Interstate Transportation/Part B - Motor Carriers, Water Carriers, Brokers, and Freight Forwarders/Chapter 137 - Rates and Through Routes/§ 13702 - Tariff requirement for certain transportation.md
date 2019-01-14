@@ -16,7 +16,7 @@ Tariff Requirements for Noncontiguous Domestic Trade.—
 
 &emsp;(1)
 
-Filing.—A carrier providing transportation or service described in subsection (a)(1) shall publish and file with the Board tariffs containing the rates established for suchtransportation or service. The carriers shall keep such tariffs available for public inspection. The Board shall prescribe the form and manner of publishing, filing, and keeping tariffs available for public inspection under this subsection.
+Filing.—A carrier providing transportation or service described in subsection (a)(1) shall publish and file with the Board tariffs containing the rates established for such transportation or service. The carriers shall keep such tariffs available for public inspection. The Board shall prescribe the form and manner of publishing, filing, and keeping tariffs available for public inspection under this subsection.
 
 &emsp;(2)
 
@@ -62,7 +62,7 @@ In general.—A carrier providing transportation described in subsection (a)(2) 
 
 &emsp;(2)
 
-Notice of availability.—A carrier that maintains a tariff under this subsection may not enforce the provisions of the tariff unless the carrier has given notice that the tariff is available for inspection in its bill of lading or by other actual notice to individuals whose shipments are subject to the tariff.
+Notice of availability.—A carrier that maintains a tariff under this subsection may not enforce the provisions of the tariff unless the carrier has given notice that the tariff is available for inspection in its bill of lading orby other actual notice to individuals whose shipments are subject to the tariff.
 
 &emsp;(3)
 
@@ -85,4 +85,8 @@ Invalidation.—The Board may invalidate a tariff prepared by a carrier or carri
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 10761 and 10762 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

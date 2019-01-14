@@ -108,7 +108,7 @@ In the case of any organization to which this section applies—
 
 &emsp;&emsp;&emsp;(i) substantially all the activities of such organization involve the providing of health insurance,
 
-&emsp;&emsp;&emsp;(ii) at least 10 percent of the health insurance provided by such organization is provided to individuals and small groups\(not taking into account any medicare supplemental coverage),
+&emsp;&emsp;&emsp;(ii) at least 10 percent of the health insurance provided by such organization is provided to individuals and small groups (not taking into account any medicare supplemental coverage),
 
 &emsp;&emsp;&emsp;(iii) such organization provides continuous full-year open enrollment (including conversions) for individuals and small groups,
 
@@ -198,7 +198,7 @@ In general.—The amendments made by this section \[enacting this section and am
 
 "(2)
 
-Study of fraternal beneficiary associations.—The Secretary of the Treasury or his delegateshall conduct a study of organizations described in section 501(c)(8) of the Internal Revenue Code of 1986 and which received gross annual insurance premiums in excess of $25,000,000 for the taxable years of such organizations which ended during 1984. Not later than January 1, 1988, the Secretary of the Treasury shall submit to the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Joint Committee on Taxation the results of such study, together with such recommendations as he determines to be appropriate. The Secretary of the Treasury shall have authority to require the furnishing of such information as may be necessary to carry out the purposes of this paragraph.
+Study of fraternal beneficiary associations.—The Secretary of the Treasury or his delegate shall conduct a study of organizations described in section 501(c)(8) of the Internal Revenue Code of 1986 and which received gross annual insurance premiums in excess of $25,000,000 for the taxable years of such organizations which ended during 1984. Not later than January 1, 1988, the Secretary of the Treasury shall submit to the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Joint Committee on Taxation the results of such study, together with such recommendations as he determines to be appropriate. The Secretary of the Treasury shall have authority to require the furnishing of such information as may be necessary to carry out the purposes of this paragraph.
 
 "(3)
 

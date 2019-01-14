@@ -1,6 +1,6 @@
 ### §4041. Bureau of Prisons; director and employees
 
-The Bureau of Prisons shall be in charge of a director appointed by and serving directly under the Attorney General. The Attorney General may appoint such additional officers and employees as he deems necessary.
+The Bureau of Prisons shall be in charge of a director appointed by and serving directly underthe Attorney General. The Attorney General may appoint such additional officers and employees as he deems necessary.
 
 (June 25, 1948, ch. 645, 62 Stat. 849; Pub. L. 107–273, div. A, title III, §302(1), Nov. 2, 2002, 116 Stat. 1781.)
 

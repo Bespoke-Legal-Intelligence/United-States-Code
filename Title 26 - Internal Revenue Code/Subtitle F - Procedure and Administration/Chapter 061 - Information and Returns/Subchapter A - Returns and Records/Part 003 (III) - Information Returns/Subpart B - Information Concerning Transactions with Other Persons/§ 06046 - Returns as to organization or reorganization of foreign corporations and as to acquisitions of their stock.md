@@ -70,7 +70,7 @@ No information shall be required to be furnished under this section with respect
 
 > In the case of a foreign corporation with respect to which any person is treated as a United States shareholder under section 953(c), paragraph (1) shall be treated as including a reference to each United States person who is an officer or director of such corporation."
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1012(i)(19)(C), inserted sentence at end relating to foreign corporation with respect to which any person is treated as a United States shareholder under section 953(c).
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1012(i)(19)(C), inserted sentence at end relating to foreign corporationwith respect to which any person is treated as a United States shareholder under section 953(c).
 
 Subsec. (a)(3), (4). Pub. L. 100–647, §1012(i)(19)(A), added par. (3) and redesignated former par. (3) as (4).
 
@@ -124,7 +124,7 @@ Pub. L. 97–248, title III, §341(c), Sept. 3, 1982, 96 Stat. 635, provided tha
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–834, §20(e)(2), Oct. 16, 1962, 76 Stat. 1063, provided that: "The amendments made by subsection\(b) \[amending this section\] shall take effect on January 1, 1963."
+Pub. L. 87–834, §20(e)(2), Oct. 16, 1962, 76 Stat. 1063, provided that: "The amendments made by subsection (b) \[amending this section\] shall take effect on January 1, 1963."
 
 #### Effective Date of 1960 Amendment
 

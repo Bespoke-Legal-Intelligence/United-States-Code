@@ -4,11 +4,11 @@
 
 &emsp;(1) Although the juvenile violent crime arrest rate in 1999 was the lowest in the decade, there remains a consensus that the number of crimes and the rate of offending by juveniles nationwide is still too high.
 
-&emsp;(2) According to the Office of Juvenile Justice and Delinquency Prevention, allowing 1 youth to leave school for a life of crime and of drug abuse costs society $1,700,000 to $2,300,000 annually.
+&emsp;(2) According to the Office of Juvenile Justice and Delinquency Prevention, allowing 1youth to leave school for a life of crime and of drug abuse costs society $1,700,000 to $2,300,000 annually.
 
 &emsp;(3) One in every 6 individuals (16.2 percent) arrested for committing violent crime in 1999 was less than 18 years of age. In 1999, juveniles accounted for 9 percent of murder arrests, 17 percent of forcible rape arrests, 25 percent of robbery arrest, 14 percent of aggravated assault arrests, and 24 percent of weapons arrests.
 
-&emsp;(4) More than ½ of juvenile murder victims are killed with firearms. Of the nearly 1,800 murder victims less than 18 years of age, 17percent of the victims less than 13 years of age were murdered with a firearm, and 81 percent of the victims 13 years of age or older were killed with a firearm.
+&emsp;(4) More than ½ of juvenile murder victims are killed with firearms. Of the nearly 1,800 murder victims less than 18 years of age, 17 percent of the victims less than 13 years of age were murdered with a firearm, and 81 percent of the victims 13 years of age or older were killed with a firearm.
 
 &emsp;(5) Juveniles accounted for 13 percent of all drug abuse violation arrests in 1999. Between 1990 and 1999, juvenile arrests for drug abuse violations rose 132 percent.
 

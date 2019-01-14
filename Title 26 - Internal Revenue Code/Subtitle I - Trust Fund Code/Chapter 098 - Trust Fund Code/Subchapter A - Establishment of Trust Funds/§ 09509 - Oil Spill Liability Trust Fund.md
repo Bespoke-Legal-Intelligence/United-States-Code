@@ -22,7 +22,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 &emsp;(7) amounts required to be transferred by the Oil Pollution Act of 1990 from the Trans-Alaska Pipeline Liability Fund established under section 204 of the Trans-Alaska Pipeline Authorization Act, and
 
-&emsp;(8) any penalty paid pursuant to section 311 of the Federal Water Pollution Control Act, section 309(c) of such Act (as a result of violations of such section 311), the Deepwater PortAct of 1974, or section 207 of the Trans-Alaska Pipeline Authorization Act.
+&emsp;(8) any penalty paid pursuant to section 311 of the Federal Water Pollution Control Act, section 309(c) of such Act (as a result of violations of such section 311), the Deepwater Port Act of 1974, or section 207 of the Trans-Alaska Pipeline Authorization Act.
 
 #### (c) Expenditures
 
@@ -92,7 +92,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 #### (2) Coordination with other provisions
 
-&emsp;Nothing in the Oil Pollution Act of 1990 (or in any amendment made by such Act) shall authorize the payment by the United States Government of any amount with respect to any such claim out of any source other than the Oil Spill Liability Trust Fund.
+&emsp;Nothing in the Oil Pollution Act of 1990 (or in any amendment made by such Act) shall authorize the payment by the United StatesGovernment of any amount with respect to any such claim out of any source other than the Oil Spill Liability Trust Fund.
 
 #### (3) Order in which unpaid claims are to be paid
 
@@ -164,7 +164,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7811(m)(3) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7811(m)(3) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -182,7 +182,7 @@ Pub. L. 107–295, title III, §322(a), Nov. 25, 2002, 116 Stat. 2103, provided 
 
 Pub. L. 104–66, title I, §1122(a), Dec. 21, 1995, 109 Stat. 724, provided that: "The quarterly report regarding the Oil Spill Liability Trust Fund required to be submitted to the House and Senate Committees on Appropriations under House Report 101–892, accompanying the appropriations for the Coast Guard in the Department of Transportation and Related Agencies Appropriations Act, 1991 \[Pub. L. 101–516\], shall be submitted not later than 30 days after the end of the fiscal year in which this Act is enacted and annually thereafter."
 
-\[House Report 101–892, 101st Congress, 2d Session, provided that: "The conferees direct the Coast Guard tosubmit quarterly reports to the House and Senate Committee on Appropriations detailing and summarizing all transfers to and expenditures from the oil spill liability trust fund. Each report shall account for each transfer to and expenditure from the fund as authorized by Section 9509 of the Internal Revenue Code of 1986, as amended, and Sections 5003 and 5004 of the Oil Pollution Act of 1990 (Public Law 101–380) \[33 U.S.C. 2733, 2734\]. The report shall also show amounts collectable under Section 9509(b)(2), (3), and (8) of the Internal Revenue Code of 1986. For those authorized expenditures subject to limitations, the report shall so indicate. The Coast Guard shall confer with the House and Senate Committees on Appropriations as to the format for these reports."\]
+\[House Report 101–892, 101st Congress, 2d Session, provided that: "The conferees direct the Coast Guard to submit quarterly reports to the House and Senate Committee on Appropriations detailing and summarizing all transfers to and expenditures from the oil spill liability trust fund. Each report shall account for each transfer to and expenditure from the fund as authorized by Section 9509 of the Internal Revenue Code of 1986, as amended, and Sections 5003 and 5004 of the Oil Pollution Act of 1990 (Public Law 101–380) \[33 U.S.C. 2733, 2734\]. The report shall also show amounts collectable under Section 9509(b)(2), (3), and (8) of the Internal Revenue Code of 1986. For those authorized expenditures subject to limitations, the report shall so indicate. The Coast Guard shall confer with the House and Senate Committees on Appropriations as to the format for these reports."\]
 
 #### Deepwater Port Liability Fund
 

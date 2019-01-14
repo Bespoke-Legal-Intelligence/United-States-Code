@@ -8,7 +8,7 @@
 
 &emsp;(B) written certification that such facilities are secure and that the security measures at such facilities meet the security standards and requirements of the Administration and the Department of Energy.
 
-(2) If the Administrator is unable to make the certification described in paragraph (1)(B) withrespect to a facility, the Administrator shall submit to the Secretary with the matters required by paragraph (1) a corrective action plan for the facility describing—
+(2) If the Administrator is unable to make the certification described in paragraph (1)(B) with respect to a facility, the Administrator shall submit to the Secretary with the matters required by paragraph (1) a corrective action plan for the facility describing—
 
 &emsp;(A) the deficiency that resulted in the Administrator being unable to make the certification;
 

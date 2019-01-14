@@ -10,7 +10,7 @@
 
 &emsp;(2) the penalties, within the limits specified in subsection (c), for violations of such rules.
 
-(c) Whoever violates any rule prescribed by regulation under subsection (b)(1) shall be fined in accordance with title 18 or imprisoned not more than six months, or both. The Secretary may prescribe by regulation a maximum fine less than that which would otherwise apply under the preceding sentence or a maximum term of imprisonment of a shorter period thanthat which would otherwise apply under the preceding sentence, or both. Any such regulation shall apply notwithstanding any provision of title 18 or any other law to the contrary.
+(c) Whoever violates any rule prescribed by regulation under subsection (b)(1) shall be fined in accordance with title 18 or imprisoned not more than six months, or both. The Secretary may prescribe by regulation a maximum fine less than that which would otherwise apply under the preceding sentence or a maximum term of imprisonment of a shorter period than that which would otherwise apply under the preceding sentence, or both. Any such regulation shall apply notwithstanding any provision of title 18 or any other law to the contrary.
 
 (d) The rules prescribed under subsection (a), together with the penalties for violations of such rules, shall be posted conspicuously on property to which they apply.
 

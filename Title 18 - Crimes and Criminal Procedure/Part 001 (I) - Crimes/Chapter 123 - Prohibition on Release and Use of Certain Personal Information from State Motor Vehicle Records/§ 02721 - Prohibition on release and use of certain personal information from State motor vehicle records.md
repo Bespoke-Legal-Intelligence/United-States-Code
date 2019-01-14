@@ -14,7 +14,7 @@ Permissible Uses.—Personal information referred to in subsection (a) shall be 
 
 &emsp;(1) For use by any government agency, including any court or law enforcement agency, in carrying out its functions, or any private person or entity acting on behalf of a Federal, State, or local agency in carrying out its functions.
 
-&emsp;(2) For use in connection with matters of motor vehicle or driver safety and theft;motor vehicle emissions; motor vehicle product alterations, recalls, or advisories; performance monitoring of motor vehicles, motor vehicle parts and dealers; motor vehicle market research activities, including survey research; and removal of non-owner records from the original owner records of motor vehicle manufacturers.
+&emsp;(2) For use in connection with matters of motor vehicle or driver safety and theft; motor vehicle emissions; motor vehicle product alterations, recalls, or advisories; performance monitoring of motor vehicles, motor vehicle parts and dealers; motor vehicle market research activities, including survey research; and removal of non-owner records from the original owner records of motor vehicle manufacturers.
 
 &emsp;(3) For use in the normal course of business by a legitimate business or its agents, employees, or contractors, but only—
 
@@ -50,7 +50,7 @@ Resale or Redisclosure.—An authorized recipient of personal information (excep
 
 (d)
 
-Waiver Procedures.—A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of the exceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statement to the effect that the information will not be released unless the individual waives such individual's right to privacy under this section.
+Waiver Procedures.—A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of the exceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statementto the effect that the information will not be released unless the individual waives such individual's right to privacy under this section.
 
 (e)
 
@@ -68,7 +68,7 @@ The Clean Air Act, referred to in subsec. (b), is act July 14, 1955, ch. 360, 69
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–346, §101(a) \[title III, §309(c)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Except as provided in subsection (b), a State department of motor vehicles, and any officer, employee, or contractor, thereof, shall not knowingly disclose or otherwise make available to any person or entity personal information about any individual obtained by thedepartment in connection with a motor vehicle record."
+<b>2000</b>—Subsec. (a). Pub. L. 106–346, §101(a) \[title III, §309(c)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Except as provided in subsection (b), a State department of motor vehicles, and any officer, employee, or contractor, thereof, shall not knowingly disclose or otherwise make available to any person or entity personal information about any individual obtained by the department in connection with a motor vehicle record."
 
 Subsec. (b). Pub. L. 106–346, §101(a) \[title III, §309(d)\], inserted ", subject to subsection (a)(2)," before "may be disclosed" in introductory provisions.
 

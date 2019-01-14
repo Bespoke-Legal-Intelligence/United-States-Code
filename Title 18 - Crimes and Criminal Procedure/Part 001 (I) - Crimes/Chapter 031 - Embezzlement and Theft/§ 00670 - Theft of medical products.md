@@ -60,7 +60,7 @@ Definitions.—In this section—
 
 &emsp;(2) the term "medical product" means a drug, biological product, device, medical food, or infant formula;
 
-&emsp;(3) the terms "device", "drug", "infant formula", and "labeling" have, respectively, the meanings given those terms in section 201 of the Federal Food, Drug, and Cosmetic Act;
+&emsp;(3) the terms "device", "drug", "infant formula", and "labeling" have, respectively, themeanings given those terms in section 201 of the Federal Food, Drug, and Cosmetic Act;
 
 &emsp;(4) the term "biological product" has the meaning given the term in section 351 of the Public Health Service Act;
 
@@ -80,5 +80,5 @@ Section 5(b) of the Orphan Drug Act, referred to in subsec. (e)(5), is classifie
 
 #### Priority Given to Certain Investigations and Prosecutions
 
-Pub. L. 112–186, §4(e), Oct. 5, 2012, 126 Stat. 1429, provided that: "The Attorney General shall give increasedpriority to efforts to investigate and prosecute offenses under section 670 of title 18, United States Code, that involve pre-retail medical products."
+Pub. L. 112–186, §4(e), Oct. 5, 2012, 126 Stat. 1429, provided that: "The Attorney General shall give increased priority to efforts to investigate and prosecute offenses under section 670 of title 18, United States Code, that involve pre-retail medical products."
 

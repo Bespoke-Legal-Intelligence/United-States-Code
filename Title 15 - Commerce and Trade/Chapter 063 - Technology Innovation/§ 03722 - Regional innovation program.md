@@ -94,7 +94,7 @@ The Secretary shall establish a regional innovation program to encourage and sup
 
 #### (1) In general
 
-&emsp;As part of the program established under subsection (a), the Secretary shall establish a regional innovation research and information program—
+&emsp;As part of the program established under subsection (a), the Secretary shall establish aregional innovation research and information program—
 
 &emsp;&emsp;(A) to gather, analyze, and disseminate information on best practices for regional innovation strategies (including regional innovation clusters), including information relating to how innovation, productivity, and economic development can be maximized through such strategies;
 
@@ -188,7 +188,7 @@ In this section:
 
 #### References in Text
 
-The Revitalize American Manufacturing and Innovation Act of 2014, referred to in subsec. (g)(1), is title VII of div. B. of Pub. L. 113–235, Dec. 16, 2014, 128 Stat. 2220. For complete classification of this Act to the Code, see Short Title note under section 271 of this title and Tables.
+The Revitalize American Manufacturing and Innovation Act of 2014, referred to in subsec. (g)(1), is title VII of div. B. of Pub. L. 113–235, Dec. 16, 2014, 128 Stat. 2220.For complete classification of this Act to the Code, see Short Title note under section 271 of this title and Tables.
 
 #### Amendments
 

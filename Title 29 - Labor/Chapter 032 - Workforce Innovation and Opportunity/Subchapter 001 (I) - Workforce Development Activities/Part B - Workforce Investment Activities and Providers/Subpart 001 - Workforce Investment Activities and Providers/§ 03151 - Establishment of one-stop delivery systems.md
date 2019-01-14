@@ -54,7 +54,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 &emsp;&emsp;&emsp;(xi) programs authorized under State unemployment compensation laws (in accordance with applicable Federal law);
 
-&emsp;&emsp;&emsp;(xii) programs authorized under section 60532 of title 34; and
+&emsp;&emsp;&emsp;(xii) programs authorized under section 60532 <sup>2</sup> of title 34; and
 
 &emsp;&emsp;&emsp;(xiii) programs authorized under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), subject to subparagraph (C).
 
@@ -256,7 +256,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (5) Review and update
 
-&emsp;The criteria and procedures established under this subsection shall be reviewed and updated by the State board or the local board, as the case may be, as part of the biennial process for review and modification of State and local plans described in sections 3112(c)(2) and 3123(a) of this title.
+&emsp;The criteria and procedures established under this subsection shall be reviewed and updated by the State board or the local board, as the case may be, as part of the biennial process for review and modification of Stateand local plans described in sections 3112(c)(2) and 3123(a) of this title.
 
 #### (h) Funding of one-stop infrastructure
 
@@ -302,7 +302,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (ii) Special rule
 
-&emsp;&emsp;&emsp;In a State in which the State constitution or a State statute places policymaking authority that is independent of the authority of the Governor in an entity or official with respect to the funds provided for adult education and literacy activities authorized under subchapter II, postsecondary career and technical education activities authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), or vocational rehabilitation services offered under a provision covered by section 3102(13)(D) of this title, the determination described in clause (i) with respect to the programs authorized under that subchapter, Act, or provision shall be made by the chief officer of the entity, or the official, with such authority in consultation with the Governor.
+&emsp;&emsp;&emsp;In a State in which the State constitution or a State statute places policymaking authority that is independent of the authority of the Governor in an entity or official with respect to the funds provided for adult education and literacy activities authorized under subchapter II, postsecondary career and technical education activities authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), or vocational rehabilitation services offeredunder a provision covered by section 3102(13)(D) of this title, the determination described in clause (i) with respect to the programs authorized under that subchapter, Act, or provision shall be made by the chief officer of the entity, or the official, with such authority in consultation with the Governor.
 
 #### (D) Limitations
 
@@ -314,7 +314,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (II) Exceptions
 
-&emsp;&emsp;&emsp;&emsp;Nothing in this clause shall be construed to apply to the programs carried out under this subchapter, or under titleV of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.).
+&emsp;&emsp;&emsp;&emsp;Nothing in this clause shall be construed to apply to the programs carried out under this subchapter, or under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.).
 
 #### (ii) Cap on required contributions
 
@@ -342,7 +342,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (iii) Federal direct spending programs
 
-&emsp;&emsp;&emsp;For local areas in a State that are not covered by paragraph (1)(A)(i)(I), an entity administering a program funded with direct spending as defined in section 900(c)(8) of title 2, as in effect on February 15, 2014 <sup>2</sup> shall not be required to provide, for purposes of this paragraph, an amount in excess of the amount determined under subparagraph (C)(i) to be equivalent to the cost of the proportionate use of the one-stop centers for the one-stop partner for such program in the State.
+&emsp;&emsp;&emsp;For local areas in a State that are not covered by paragraph (1)(A)(i)(I), an entity administering a program funded with direct spending as defined in section 900(c)(8) of title 2, as in effect on February 15, 2014 <sup>3</sup> shall not be required to provide, for purposes of this paragraph, an amount in excess of the amount determined under subparagraph (C)(i) to be equivalent to the cost of the proportionate use of the one-stop centers for the one-stop partner for such program in the State.
 
 #### (iv) Native American programs
 
@@ -360,7 +360,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (B) Allocation formula
 
-&emsp;&emsp;The State board shall develop a formula to be used by the Governor to allocate the funds provided under paragraph (1) to local areas not funding costs of infrastructure under the option described in paragraph (1)(A)(i)(I). The formula shall be based on factors including the number of one-stop centers in a local area, the population served by such centers, the services provided by such centers, and other factors relating to the performance of such centers that the State board determines are appropriate.
+&emsp;&emsp;The State board shall develop a formula to be used by the Governor to allocate the funds provided under paragraph (1) to localareas not funding costs of infrastructure under the option described in paragraph (1)(A)(i)(I). The formula shall be based on factors including the number of one-stop centers in a local area, the population served by such centers, the services provided by such centers, and other factors relating to the performance of such centers that the State board determines are appropriate.
 
 #### (4) Costs of infrastructure
 
@@ -370,7 +370,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (1) In general
 
-&emsp;Subject to the memorandum of understanding described in subsection (c) for the one-stop delivery system involved, in addition to thefunds provided to carry out subsection (h), a portion of funds made available under Federal law authorizing the programs described in subsection (b) and administered by one-stop partners, or the noncash resources available under such programs, shall be used to pay the additional costs relating to the operation of the one-stop delivery system that are not paid from the funds provided under subsection (h), as determined in accordance with paragraph (3), to the extent not inconsistent with the Federal law involved. Such costs shall include the costs of the provision of career services described in section 3174(c)(2) of this title applicable to each program and may include common costs that are not paid from the funds provided under subsection (h).
+&emsp;Subject to the memorandum of understanding described in subsection (c) for the one-stop delivery system involved, in addition to the funds provided to carry out subsection (h), a portion of funds made available under Federal law authorizing the programs described in subsection (b) and administered by one-stop partners, or the noncash resources available under such programs, shall be used to pay the additional costs relating to the operation of the one-stop delivery system that are not paid from the funds provided under subsection (h), as determined in accordance with paragraph (3), to the extent not inconsistent with the Federal law involved. Such costs shall include the costs of the provision of career services described in section 3174(c)(2) of this title applicable to each program and may include common costs that are not paid from the funds provided under subsection (h).
 
 #### (2) Shared services
 
@@ -396,11 +396,13 @@ The Trade Act of 1974, referred to in subsec. (b)(1)(B)(vii), is Pub. L. 93–61
 
 The Community Services Block Grant Act, referred to in subsec. (b)(1)(B)(ix), is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short title note set out under section 9901 of Title 42 and Tables.
 
+Section 60532 of title 34, referred to in subsec. (b)(1)(B)(xii), was repealed by Pub. L. 115–391, title V, §504(a), Dec. 21, 2018, 132 Stat. 5233.
+
 The Social Security Act, referred to in subsec. (b)(1)(B)(xiii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 This Act, referred to in subsecs. (b)(1)(C)(i) and (f)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (b)(2)(B)(vi), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (b)(2)(B)(vi), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of thisAct to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (g)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
@@ -410,5 +412,7 @@ Section effective on the first day of the first full program year after July 22,
 
 <i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should precede the semicolon.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "2014,".</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "2014,".</i>
 

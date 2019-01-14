@@ -20,7 +20,7 @@ In this section, the term "Administrator" means the Administrator of General Ser
 
 &emsp;&emsp;(C) establish methods to track the success of Federal departments and agencies with respect to that goal; and
 
-&emsp;&emsp;(D) be fully coordinated with and no less stringent nor less energy-conserving or water-conserving than required by other provisions of this Act and other applicable law,including sections 321 through 324, 431 through 438, 461, 511 through 518, and 523 through 525 and amendments made by those sections.
+&emsp;&emsp;(D) be fully coordinated with and no less stringent nor less energy-conserving or water-conserving than required by other provisions of this Act and other applicable law, including sections 321 through 324, 431 through 438, 461, 511 through 518, and 523 through 525 and amendments made by those sections.
 
 #### (c) Accelerated use of technologies
 
@@ -70,7 +70,7 @@ In this section, the term "Administrator" means the Administrator of General Ser
 
 #### (2) Measures
 
-&emsp;The plan shall implement measures required by such other provisions of law in accordance with those provisions, and shall implement the measures required by this section to the maximum extent feasible (including at the maximum rate feasible) using available appropriations and programs implementing sections 431 through 435 and 525 <sup>1</sup> (and amendments made by those sections), by not later than the date that is 5 years after December 19, 2007.
+&emsp;The plan shall implement measures required by such other provisions of law in accordance with those provisions, and shall implement the measures required by this section to the maximum extent feasible (including at themaximum rate feasible) using available appropriations and programs implementing sections 431 through 435 and 525 <sup>1</sup> (and amendments made by those sections), by not later than the date that is 5 years after December 19, 2007.
 
 #### (3) Contents of plan
 

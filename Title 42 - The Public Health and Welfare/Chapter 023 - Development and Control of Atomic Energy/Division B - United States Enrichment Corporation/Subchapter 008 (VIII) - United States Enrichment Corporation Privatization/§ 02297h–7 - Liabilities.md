@@ -10,7 +10,7 @@
 
 (4) Any stated or implied consent for the United States, or any agent or officer of the United States, to be sued by any person for any legal, equitable, or other relief with respect to any claim arising from any action taken by any agent or officer of the United States in connection with the privatization of the Corporation is hereby withdrawn.
 
-(5) To the extent that any claim against the United States under this section is of the type otherwise required by Federal statute or regulation to be presented to a Federal agency or official for adjudication or review, such claim shall be presented to the Department of Energy in accordance with procedures to be established by the Secretary. Nothing in this paragraph shall be construed to impose on the Department of Energy liability to pay any claim presented pursuant to this paragraph.
+(5) To the extent that any claim against the United States under this section is of the type otherwise required by Federal statute or regulation to be presented to a Federal agency or official for adjudication or review, such claim shall be presented to the Department of Energy in accordance with procedures to be established bythe Secretary. Nothing in this paragraph shall be construed to impose on the Department of Energy liability to pay any claim presented pursuant to this paragraph.
 
 (6) The Attorney General shall represent the United States in any action seeking to impose liability under this subsection.
 
@@ -31,6 +31,8 @@ Except as provided in this subchapter, the private corporation shall be liable f
 (Pub. L. 104–134, title III, §3109, Apr. 26, 1996, 110 Stat. 1321–339.)
 
 #### References in Text
+
+This subchapter, referred to in subsecs. (a)(1), (b), and (c), means subchapter A of chapter 1 of title III of Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321–335, known as the USEC Privatization Act, which is classified principally to this subchapter. For complete classification of subchapter A to the Code, see Short Title of 1996 Amendment note set out under section 2011 of this title and Tables.
 
 The Securities Act of 1933, referred to in subsec. (d)(2), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 

@@ -18,7 +18,7 @@
 
 (4)(A) The amount payable for hospice care shall be reduced—
 
-&emsp;(i) in the case of drugs and biologicals provided on an outpatient basis by (or under arrangements made by) the hospice program, by a coinsurance amount equal to an amount (not to exceed $5 per prescription) determined in accordance with a drug copayment schedule (established by the hospice program) which isrelated to, and approximates 5 percent of, the cost of the drug or biological to the program, and
+&emsp;(i) in the case of drugs and biologicals provided on an outpatient basis by (or under arrangements made by) the hospice program, by a coinsurance amount equal to an amount (not to exceed $5 per prescription) determined in accordance with a drug copayment schedule (established by the hospice program) which is related to, and approximates 5 percent of, the cost of the drug or biological to the program, and
 
 &emsp;(ii) in the case of respite care provided by (or under arrangements made by) the hospice program, by a coinsurance amount equal to 5 percent of the amount estimated by the hospice program (in accordance with regulations of the Secretary) to be equal to the amount of payment under section 1395f(i) of this title to that program for respite care;
 
@@ -38,7 +38,7 @@
 
 &emsp;(B) to the coinsurance amounts under subsection (a) for inpatient hospital services, inpatient critical access hospital services and post-hospital extended care services furnished in that year.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1813, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 292; amended Pub. L. 90–248, title I, §§129(c)(3), (4), 135(a), 137(b), Jan. 2, 1968, 81 Stat. 847, 848, 852, 854; Pub. L. 97–35, title XXI, §§2131(a), 2132(a), Aug. 13, 1981, 95 Stat. 797; Pub. L. 97–248, title I, §122(e), Sept. 3, 1982, 96 Stat. 361; Pub. L. 99–272, title IX, §9125(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 99–509, title IX, §9301(a), Oct. 21, 1986, 100 Stat. 1981; Pub. L. 100–203, title IV, §4002(f)(3), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(1)(H)(ii), July 1, 1988, 102 Stat. 769; Pub. L. 100–360, title I, §102, July 1, 1988, 102 Stat. 685; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 103–432, title I, §102(g)(2), (3), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1813, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79Stat. 292; amended Pub. L. 90–248, title I, §§129(c)(3), (4), 135(a), 137(b), Jan. 2, 1968, 81 Stat. 847, 848, 852, 854; Pub. L. 97–35, title XXI, §§2131(a), 2132(a), Aug. 13, 1981, 95 Stat. 797; Pub. L. 97–248, title I, §122(e), Sept. 3, 1982, 96 Stat. 361; Pub. L. 99–272, title IX, §9125(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 99–509, title IX, §9301(a), Oct. 21, 1986, 100 Stat. 1981; Pub. L. 100–203, title IV, §4002(f)(3), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(1)(H)(ii), July 1, 1988, 102 Stat. 769; Pub. L. 100–360, title I, §102, July 1, 1988, 102 Stat. 685; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 103–432, title I, §102(g)(2), (3), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373.)
 
 #### Amendments
 
@@ -64,7 +64,7 @@ Subsec. (b)(3). Pub. L. 100–360, §102(2), struck out par. (3) which related t
 
 "(1) The inpatient hospital deductible which shall be applicable for the purposes of subsection (a) of this section shall be $40 in the case of any spell of illness beginning before 1969.
 
-"(2) The Secretary shall, between July 1 and September 15 of 1968, and of each year thereafter, determine and promulgate the inpatient hospital deductible which shall be applicable for the purposes of subsection (a) of this section in the case of any inpatient hospital services or post-hospital extended care services furnished during the succeeding calendar year. Such inpatient hospital deductible shall be equal to $45 multiplied by the ratio of (A) the current average per diem rate for inpatient hospital services for the calendar year preceding the promulgation, to (B) the current average per diem rate for such services for 1966. Any amount determined under the preceding sentence which is not a multiple of $4 shall be rounded to the nearest multiple of $4 (or, if it is midway between two multiplies of $4, tothe next higher multiple of $4). The current average per diem rate for any year shall be determined by the Secretary on the basis of the best information available to him (at the time the determination is made) as to the amounts paid under this part on account of inpatient hospital services furnished during such year, by hospitals which have agreements in effect under section 1395cc of this title, to individuals who are entitled to hospital insurance benefits under section 426 of this title, plus the amount which would have been so paid but for subsection (a)(1) of this section."
+"(2) The Secretary shall, between July 1 and September 15 of 1968, and of each year thereafter, determine and promulgate the inpatient hospital deductible which shall be applicable for the purposes of subsection (a) of this section in the case of any inpatient hospital services or post-hospital extended care services furnished during the succeeding calendar year. Such inpatient hospital deductible shall be equal to $45 multiplied by the ratio of (A) the current average per diem rate for inpatient hospital services for the calendar year preceding the promulgation, to (B) the current average per diem rate for such services for 1966. Any amount determined under the preceding sentence which is not a multiple of $4 shall be rounded to the nearest multiple of $4 (or, if it is midway between two multiplies of $4, to the next higher multiple of $4). The current average per diem rate for any year shall be determined by the Secretary on the basis of the best information available to him (at the time the determination is made) as to the amounts paid under this part on account of inpatient hospital services furnished during such year, by hospitals which have agreements in effect under section 1395cc of this title, to individuals who are entitled to hospital insurance benefits under section 426 of this title, plus the amount which would have been so paid but for subsection (a)(1) of this section."
 
 Subsec. (b)(2). Pub. L. 99–272 substituted "September 15" for "October 1".
 
@@ -102,7 +102,7 @@ Pub. L. 99–272, title IX, §9125(b), Apr. 7, 1986, 100 Stat. 168, provided tha
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983, see section 122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
+Amendment by Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983, see section122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
 
 #### Effective Date of 1981 Amendment
 

@@ -204,27 +204,11 @@ For purposes of this section—
 
 &emsp;&emsp;The percentages determined under subparagraphs (A) and (B)(ii) shall be rounded to the nearest 1/100th of 1 percent.
 
-#### (4) Election of alternative incremental credit
+#### (4) Election of alternative simplified credit
 
 #### (A) In general
 
-&emsp;&emsp;At the election of the taxpayer, the credit determined under subsection (a)(1) shall be equal to the sum of—
-
-&emsp;&emsp;&emsp;(i) 3 percent of so much of the qualified research expenses for the taxable year as exceeds 1 percent of the average described in subsection (c)(1)(B) but does not exceed 1.5 percent of such average,
-
-&emsp;&emsp;&emsp;(ii) 4 percent of so much of such expenses as exceeds 1.5 percent of such average but does not exceed 2 percent of such average, and
-
-&emsp;&emsp;&emsp;(iii) 5 percent of so much of such expenses as exceeds 2 percent of such average.
-
-#### (B) Election
-
-&emsp;&emsp;An election under this paragraph shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
-
-#### (5) Election of alternative simplified credit
-
-#### (A) In general
-
-&emsp;&emsp;At the election of the taxpayer, the credit determined under subsection (a)(1) shall be equal to 14 percent (12 percent in the case of taxable years ending before January 1, 2009) of so much of the qualified research expenses for the taxable year as exceeds 50 percent of the average qualified research expenses for the 3 taxable years preceding the taxable year for which the credit is being determined.
+&emsp;&emsp;At the election of the taxpayer, the credit determined under subsection (a)(1) shall be equal to 14 percent of so much of the qualified research expenses for the taxable year as exceeds 50 percent of the average qualified research expenses for the 3 taxable years preceding the taxable year for which the credit is being determined.
 
 #### (B) Special rule in case of no qualified research expenses in any of 3 preceding taxable years
 
@@ -238,9 +222,9 @@ For purposes of this section—
 
 #### (C) Election
 
-&emsp;&emsp;An election under this paragraph shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary. An election under this paragraph may not be made for any taxable year to which an election under paragraph (4) applies.
+&emsp;&emsp;An election under this paragraph shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
 
-#### (6) Consistent treatment of expenses required
+#### (5) Consistent treatment of expenses required
 
 #### (A) In general
 
@@ -248,9 +232,9 @@ For purposes of this section—
 
 #### (B) Prevention of distortions
 
-&emsp;&emsp;The Secretary may prescribe regulations to prevent distortions in calculating a taxpayer's qualified research expenses or gross receipts caused by a change in accounting methods used by such taxpayer between the current year and a year taken into account in computing such taxpayer's fixed-base percentage.
+&emsp;&emsp;The Secretary may prescribe regulations to prevent distortions in calculating a taxpayer's qualified research expenses or gross receipts caused by a change in accounting methods used by such taxpayer between the current year and a year taken into accountin computing such taxpayer's fixed-base percentage.
 
-#### (7) Gross receipts
+#### (6) Gross receipts
 
 &emsp;For purposes of this subsection, gross receipts for any taxable year shall be reduced by returns and allowances made during the taxable year. In the case of a foreign corporation, there shall be taken into account only gross receipts which are effectively connected with the conduct of a trade or business within the United States, the Commonwealth of Puerto Rico, or any possession of the United States.
 
@@ -416,7 +400,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) any contract research expenses, or
 
-&emsp;&emsp;&emsp;(ii) the amounts treated as contract research expenses during the base period byreason of this subsection (as in effect during the base period).
+&emsp;&emsp;&emsp;(ii) the amounts treated as contract research expenses during the base period by reason of this subsection (as in effect during the base period).
 
 #### (B) Floor amount
 
@@ -530,7 +514,7 @@ For purposes of this section—
 
 #### (B) Base period
 
-&emsp;&emsp;The term "base period" means the 3-taxable-year period ending with the taxableyear immediately preceding the 1st taxable year of the taxpayer beginning after December 31, 1983.
+&emsp;&emsp;The term "base period" means the 3-taxable-year period ending with the taxable year immediately preceding the 1st taxable year of the taxpayer beginning after December 31, 1983.
 
 #### (C) Exclusion from incremental credit calculation
 
@@ -616,7 +600,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the qualified research expenses paid or incurred by the predecessor with respect to the acquired business during the measurement period, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of days in the period beginning on the date of the acquisitionand ending on the last day of the taxable year in which the acquisition is made,
+&emsp;&emsp;&emsp;&emsp;(II) the number of days in the period beginning on the date of the acquisition and ending on the last day of the taxable year in which the acquisition is made,
 
 &emsp;&emsp;&nbsp;divided by the number of days in the acquiring person's taxable year.
 
@@ -652,7 +636,7 @@ For purposes of this section—
 
 #### (C) Certain reimbursements taken into account in determining fixed-base percentage
 
-&emsp;&emsp;If during any of the 3 taxable years following the taxable year in which a disposition to which subparagraph (B) applies occurs, the disposing taxpayer (or a person with whom the taxpayer is required to aggregate expenditures under paragraph (1)) reimburses the acquiring person (or a person required to so aggregate expenditures with such person) for research on behalf of the taxpayer, then the amount of qualified research expenses of the taxpayer for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of—
+&emsp;&emsp;If during any of the 3 taxable years following the taxable year in which a disposition to which subparagraph (B) applies occurs,the disposing taxpayer (or a person with whom the taxpayer is required to aggregate expenditures under paragraph (1)) reimburses the acquiring person (or a person required to so aggregate expenditures with such person) for research on behalf of the taxpayer, then the amount of qualified research expenses of the taxpayer for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of—
 
 &emsp;&emsp;&emsp;(i) the amount of the decrease under subparagraph (B) which is allocable to taxable years so taken into account, or
 
@@ -814,7 +798,7 @@ In the case of an individual who—
 
 &emsp;&emsp;(C) regulations for recapturing the benefit of credits determined under section 3111(f) in cases where there is a subsequent adjustment to the payroll tax credit portion of the credit determined under subsection (a), including requiring amended income tax returns in the cases where there is such an adjustment.
 
-(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(h)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)\[(c)\], 7814(e)(2)(C), Dec. 19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774; Pub. L. 105–34, title VI, §601(a), (b)(1), Aug. 5, 1997, 111 Stat. 861; Pub. L. 105–277, div. J, title I, §1001(a), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(1), (b)(1), (c)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(1), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–58, title XIII, §1351(a), (b), Aug. 8, 2005, 119 Stat. 1056, 1057; Pub. L. 109–135, title IV, §402(l), Dec. 21, 2005, 119 Stat. 2615; Pub. L. 109–432, div. A, title I, §104(a)(1), (b)(1), (c)(1), Dec. 20, 2006, 120 Stat. 2934, 2935; Pub. L. 110–172, §§6(c), 11(e)(2), Dec. 29, 2007, 121 Stat. 2479, 2489; Pub. L. 110–343, div. C, title III, §301(a)(1), (b)–(d), Oct. 3, 2008, 122 Stat. 3865, 3866; Pub. L. 111–312, title VII, §731(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(1), (b), (c), Jan. 2, 2013, 126 Stat. 2326, 2328; Pub. L. 113–295, div. A, title I, §111(a), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §121(a)(1), (c)(1), Dec. 18, 2015, 129 Stat. 3049; Pub. L. 115–97, title I, §§11002(d)(1)(F), (2), 13206(d)(1), Dec. 22, 2017, 131 Stat. 2060, 2061, 2112.)
+(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(h)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)\[(c)\], 7814(e)(2)(C), Dec. 19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774; Pub. L. 105–34, title VI, §601(a), (b)(1), Aug. 5, 1997, 111 Stat. 861; Pub. L. 105–277, div. J, title I, §1001(a), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(1), (b)(1), (c)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(1), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–58, title XIII, §1351(a), (b), Aug. 8, 2005, 119 Stat. 1056, 1057; Pub. L. 109–135, title IV, §402(l), Dec. 21, 2005, 119 Stat. 2615; Pub. L. 109–432, div. A, title I, §104(a)(1), (b)(1), (c)(1), Dec. 20, 2006, 120 Stat. 2934, 2935; Pub. L. 110–172, §§6(c), 11(e)(2), Dec. 29, 2007, 121 Stat. 2479, 2489; Pub. L. 110–343, div. C,title III, §301(a)(1), (b)–(d), Oct. 3, 2008, 122 Stat. 3865, 3866; Pub. L. 111–312, title VII, §731(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(1), (b), (c), Jan. 2, 2013, 126 Stat. 2326, 2328; Pub. L. 113–295, div. A, title I, §111(a), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §121(a)(1), (c)(1), Dec. 18, 2015, 129 Stat. 3049; Pub. L. 115–97, title I, §§11002(d)(1)(F), (2), 13206(d)(1), Dec. 22, 2017, 131 Stat. 2060, 2061, 2112; Pub. L. 115–141, div. U, title I, §101(c), title IV, §401(b)(6), Mar. 23, 2018, 132 Stat. 1160, 1202.)
 
 #### Amendment of Subsection (d)(1)(A)
 
@@ -836,9 +820,17 @@ Another prior section 41 was renumbered section 24 of this title.
 
 #### Amendments
 
+<b>2018</b>—Subsec. (c)(4). Pub. L. 115–141, §101(c)(1), (2), redesignated par. (5) as (4) and struck out former par. (4) which related to election of alternative incremental credit.
+
+Subsec. (c)(4)(A). Pub. L. 115–141, §401(b)(6), struck out "(12 percent in the case of taxable years ending before January 1, 2009)" after "14 percent".
+
+Subsec. (c)(4)(C). Pub. L. 115–141, §101(c)(3), struck out at end "An election under this paragraph may not be made for any taxable year to which an election under paragraph (4) applies."
+
+Subsec. (c)(5) to (7). Pub. L. 115–141, §101(c)(2), redesignated pars. (5) to (7) as (4) to (6), respectively.
+
 <b>2017</b>—Subsec. (d)(1)(A). Pub. L. 115–97, §13206(d)(1), substituted "specified research or experimental expenditures under section 174" for "expenses under section 174".
 
-Subsec. (e)(5)(C)(i). Pub. L. 115–97, §11002(d)(1)(F), substituted "for 'calendar year 2016' in subparagraph\(A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+Subsec. (e)(5)(C)(i). Pub. L. 115–97, §11002(d)(1)(F), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 Subsec. (e)(5)(C)(ii). Pub. L. 115–97, §11002(d)(2), substituted "1(f)(3)(A)(ii)" for "1(f)(3)(B)" and "2016" for "1992".
 
@@ -920,7 +912,7 @@ Subsec. (c)(4)(A)(iii). Pub. L. 106–170, §502(b)(1)(C), substituted "3.75 per
 
 Subsecs. (c)(6), (d)(4)(F). Pub. L. 106–170, §502(c)(1), inserted ", the Commonwealth of Puerto Rico, or any possession of the United States" before period at end.
 
-Subsec. (h)(1). Pub. L. 106–170, §502(a)(1)(B), struck out concluding provisions which read as follows: "Notwithstanding the preceding sentence, in the case of a taxpayer making an election under subsection (c)(4) for its first taxable year beginning after June 30, 1996, and before July 1, 1997, this section shall apply to amounts paid or incurred during the 36-month period beginning with the first month of such year. The 36 months referred to in the preceding sentence shall be reduced by the number of full months after June 1996 (and beforethe first month of such first taxable year) during which the taxpayer paid or incurred any amount which is taken into account in determining the credit under this section."
+Subsec. (h)(1). Pub. L. 106–170, §502(a)(1)(B), struck out concluding provisions which read as follows: "Notwithstanding the preceding sentence, in the case of a taxpayer making an election under subsection (c)(4) for its first taxable year beginning after June 30, 1996, and before July 1, 1997, this section shall apply to amounts paid or incurred during the 36-month period beginning with the first month of such year. The 36 months referred to in the preceding sentence shall be reduced by the number of full months after June 1996 (and before the first month of such first taxable year) during which the taxpayer paid or incurred any amount which is taken into account in determining the credit under this section."
 
 Subsec. (h)(1)(B). Pub. L. 106–170, §502(a)(1)(A), substituted "June 30, 2004" for "June 30, 1999".
 
@@ -964,7 +956,7 @@ Subsec. (h). Pub. L. 103–66, §13111(a)(1), substituted "June 30, 1995" for "J
 
 Subsec. (e)(5)(C)(ii). Pub. L. 101–508, §11101(d)(1)(C)(ii), (iii), substituted "1989" for "1987" and inserted at end "Such substitution shall be in lieu of the substitution under clause (i)."
 
-Subsec. (h). Pub. L. 101–508, §11402(a), substituted "December 31, 1991" for "December 31, 1990" wherever appearing and "January 1, 1992" for "January 1, 1991" wherever appearing.
+Subsec. (h). Pub. L. 101–508, §11402(a), substituted "December 31, 1991" for "December 31, 1990" whereverappearing and "January 1, 1992" for "January 1, 1991" wherever appearing.
 
 <b>1989</b>—Subsec. (a)(1)(B). Pub. L. 101–239, §7110(b)(2)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the base period research expenses, and".
 
@@ -1040,11 +1032,15 @@ Subsec. (g)(1)(A). Pub. L. 98–369, §612(e)(1), substituted "section 26(b)" fo
 
 Pub. L. 98–369, §474(i)(1)(B), amended subpar. (A) generally, substituting "shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 25(b)), reduced by the sum of the credits allowable under subpart A and sections 27, 28, and 29" for "shall not exceed the amount of the tax imposed by this chapter reduced by the sum of the credits allowable under a section of this part having a lower number or letter designation than this section, other than the credits allowable by sections 31, 39, and 43. For purposes of the preceding sentence, the term 'tax imposed by this chapter' shall not include any tax treated as not imposed by this chapter under the last sentence of section 53(a)".
 
-<b>1983</b>—Subsec. (b)(2)(A). Pub. L. 97–448 inserted provision that cl. (iii) would not apply to any amount to the extent that the taxpayer (or any person with whom the taxpayer must aggregate expenditures under subsection (f)(1)) received or accrued any amount from any other person for the right to use substantially identical personal property.
+<b>1983</b>—Subsec. (b)(2)(A). Pub. L. 97–448 inserted provision that cl. (iii) would not apply to any amount to theextent that the taxpayer (or any person with whom the taxpayer must aggregate expenditures under subsection (f)(1)) received or accrued any amount from any other person for the right to use substantially identical personal property.
 
 <b>1982</b>—Subsec. (f)(2)(A). Pub. L. 97–354, §5(a)(3)(A), substituted "Pass-thru in the case of estates and trusts" for "Pass-through in the case of subchapter S corporations, etc." in subpar. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
 Subsec. (g)(1)(B)(iv). Pub. L. 97–354, §5(a)(3)(B), substituted "an S corporation" for "an electing small business corporation (within the meaning of section 1371(b))".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by section 101(c) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
 
 #### Effective Date of 2017 Amendment
 
@@ -1084,7 +1080,7 @@ Pub. L. 110–343, div. C, title III, §301(e), Oct. 3, 2008, 122 Stat. 3866, pr
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and section 45C of this title\] shall apply to taxable years beginning after December 31, 2007.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 45C of this title\] shall apply to taxable years beginning after December 31, 2007.
 
 "(2)
 
@@ -1196,7 +1192,7 @@ Pub. L. 105–277, div. J, title I, §1001(c), Oct. 21, 1998, 112 Stat. 2681–8
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title VI, §601(c), Aug. 5, 1997, 111 Stat. 862, provided that: "The amendments made by this section \[amending this section and section 45C of thistitle\] shall apply to amounts paid or incurred after May 31, 1997."
+Pub. L. 105–34, title VI, §601(c), Aug. 5, 1997, 111 Stat. 862, provided that: "The amendments made by this section \[amending this section and section 45C of this title\] shall apply to amounts paid or incurred after May 31, 1997."
 
 #### Effective Date of 1996 Amendment
 
@@ -1246,7 +1242,7 @@ Amendment by section 7814(e)(2)(C) of Pub. L. 101–239 effective, except as oth
 
 Amendment by section 1002(h)(1) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title IV, §4008(d), Nov. 10, 1988, 102 Stat. 3653, provided that: "The amendments made by this section \[amending this section and sections 28, 196, 280C, and 6501 of this title\] shall apply to taxable years beginning after December 31, 1988."
+Pub. L. 100–647, title IV, §4008(d), Nov. 10, 1988, 102 Stat. 3653, provided that: "The amendments made bythis section \[amending this section and sections 28, 196, 280C, and 6501 of this title\] shall apply to taxable years beginning after December 31, 1988."
 
 #### Effective Date of 1986 Amendment
 
@@ -1298,7 +1294,11 @@ In general.—If, with respect to the first taxable year to which the amendments
 
 &emsp;"(B)
 
-Definitions.—For purposes of the preceding sentence, the terms 'qualified research expenses' and 'base period' have the meanings given to such termsby section 44F \[now 41\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section)."
+Definitions.—For purposes of the preceding sentence, the terms 'qualified research expenses' and 'base period' have the meanings given to such terms by section 44F \[now 41\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section)."
+
+#### Savings Provision
+
+For provisions that nothing in amendment by section 401(b)(6) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Special Rule for Elections Under Expired Provisions
 

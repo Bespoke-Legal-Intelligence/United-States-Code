@@ -16,7 +16,7 @@ Exception.—
 
 In general.—In the event that a President (hereinafter in this paragraph referred to as the "previous President") is not elected to a successive term in office as a result of the election of a new President—
 
-&emsp;&emsp;&emsp;(i) no notice or waiting period shall be required under paragraph (1) with respect to the separation of any individual described in subparagraph (B), if such separation occurs pursuant to a closure or mass layoff ordered after the term of the new President commences; and
+&emsp;&emsp;&emsp;(i) no notice or waiting period shall be required under paragraph (1) with respect to the separation of any individual described in subparagraph (B), if such separation occurs pursuant to a closure or masslayoff ordered after the term of the new President commences; and
 
 &emsp;&emsp;&emsp;(ii) if any individual is separated from service, or begins a period of leave under the Family and Medical Leave Act of 1993, before such term commences, nothing in this chapter shall require reinstatement or restoration to employment of the individual after such term commences.
 
@@ -58,7 +58,7 @@ Effective Date.—Subsections (a) and (b) shall take effect on the earlier of—
 
 Sections 3 and 5 of the Worker Adjustment and Retraining Notification Act, referred to in subsecs. (a)(1) and (b), are classified to sections 2102 and 2104, respectively, of Title 29, Labor.
 
-The Family and Medical Leave Act of 1993, referred to in subsec. (a)(2)(A)(ii), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, as amended, which enacted sections 60m and60n of Title 2, The Congress, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§2601 et seq.) of Title 29, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993, referred to in subsec. (a)(2)(A)(ii), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, as amended, which enacted sections 60m and 60n of Title 2, The Congress, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§2601 et seq.) of Title 29, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
 #### Effective Date
 

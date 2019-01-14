@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The President is authorized to transfer excess defense articles under this section to countries for which receipt of such articles was justified pursuant to the annual congressional presentation documents for military assistance programs, or for programs under part VIII of subchapter I of this chapter, submitted under section 2394 of this title, or for which receipt of such articles was separately justified to the Congress, for the fiscal year in which the transfer is authorized.
+The President is authorized to transfer excess defense articles under this section to countriesfor which receipt of such articles was justified pursuant to the annual congressional presentation documents for military assistance programs, or for programs under part VIII of subchapter I of this chapter, submitted under section 2394 of this title, or for which receipt of such articles was separately justified to the Congress, for the fiscal year in which the transfer is authorized.
 
 #### (b) Limitations on transfers
 
@@ -68,7 +68,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 &emsp;&emsp;(B) an assessment of the impact of the transfer on the military readiness of the United States;
 
-&emsp;&emsp;(C) an assessment of the impact of the transfer on the national technology and industrial base and, particularly, the impact on opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are to be transferred; and
+&emsp;&emsp;(C) an assessment of the impact of the transfer on the national technology and industrial base and, particularly, the impact on opportunities of entities in the national technology and industrial base to sell new orused equipment to the countries to which such articles are to be transferred; and
 
 &emsp;&emsp;(D) a statement describing the current value of such article and the value of such article at acquisition.
 
@@ -100,7 +100,7 @@ The Arms Export Control Act, referred to in subsec. (f)(1), is Pub. L. 90–629,
 
 #### Prior Provisions
 
-A prior section 2321j, Pub. L. 87–195, pt. II, §516, as added Pub. L. 94–329, title I, §105, June 30, 1976, 90 Stat. 732; amended Pub. L. 95–92, §§5(b), 7(b), Aug. 4, 1977, 91 Stat. 615, 617; Pub. L. 95–384, §7(b), Sept. 26, 1978, 92 Stat. 732; Pub. L. 96–92, §5(c), Oct. 29, 1979, 93 Stat. 703; Pub. L. 96–533, title I, §112(d), Dec. 16, 1980, 94 Stat. 3139, provided for termination of authorities contained inthis part other than the authorities contained in sections 2318, 2321h, and 2321i of this title, prior to repeal by Pub. L. 97–113, title I, §110(d), Dec. 29, 1981, 95 Stat. 1526.
+A prior section 2321j, Pub. L. 87–195, pt. II, §516, as added Pub. L. 94–329, title I, §105, June 30, 1976, 90 Stat. 732; amended Pub. L. 95–92, §§5(b), 7(b), Aug. 4, 1977, 91 Stat. 615, 617; Pub. L. 95–384, §7(b), Sept. 26, 1978, 92 Stat. 732; Pub. L. 96–92, §5(c), Oct. 29, 1979, 93 Stat. 703; Pub. L. 96–533, title I, §112(d), Dec. 16, 1980, 94 Stat. 3139, provided for termination of authorities contained in this part other than the authorities contained in sections 2318, 2321h, and 2321i of this title, prior to repeal by Pub. L. 97–113, title I, §110(d), Dec. 29, 1981, 95 Stat. 1526.
 
 #### Amendments
 

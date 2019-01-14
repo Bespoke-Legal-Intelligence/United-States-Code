@@ -12,7 +12,7 @@ It is the sense of Congress that—
 
 &emsp;(2) crowdsourcing and citizen science projects have a number of additional unique benefits, including accelerating scientific research, increasing cost effectiveness to maximize the return on taxpayer dollars, addressing societal needs, providing hands-on learning in STEM, and connecting members of the public directly to Federal science agency missions and to each other; and
 
-&emsp;(3) granting Federal science agencies the direct, explicit authority to use crowdsourcing and citizen science will encourage its appropriate use to advance Federal science agency missions and stimulate and facilitate broader public participation in the innovation process, yielding numerous benefits to the Federal Government and citizens who participate in such projects.
+&emsp;(3) granting Federal science agencies the direct, explicit authority to use crowdsourcingand citizen science will encourage its appropriate use to advance Federal science agency missions and stimulate and facilitate broader public participation in the innovation process, yielding numerous benefits to the Federal Government and citizens who participate in such projects.
 
 #### (c) Definitions
 
@@ -112,7 +112,7 @@ In this section:
 
 &emsp;&emsp;(A) to assume any and all risks associated with such participation; and
 
-&emsp;&emsp;(B) to waive all claims against the Federal Government and its related entities, except for claims based on willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits (whether direct, indirect, or consequential) arising from participation in the project.
+&emsp;&emsp;(B) to waive all claims against the Federal Government and its related entities, except for claims based on willful misconduct, forany injury, death, damage, or loss of property, revenue, or profits (whether direct, indirect, or consequential) arising from participation in the project.
 
 #### (9) Research misconduct
 

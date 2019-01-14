@@ -42,7 +42,7 @@
 | [1725\.](Subchapter%20003%20%28III%29%20-%20Emergency%20and%20Private%20Assistance%20Programs/%C2%A7%2001725%20-%20Food%20Aid%20Consultative%20Group.md) | Food Aid Consultative Group. |
 | [1726\.](Subchapter%20003%20%28III%29%20-%20Emergency%20and%20Private%20Assistance%20Programs/%C2%A7%2001726%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20III%2C%20%C2%A73006%2C%20May%2013%2C%202002%2C%20116%20Stat.%20282.md) | Repealed. |
 | [1726a.](Subchapter%20003%20%28III%29%20-%20Emergency%20and%20Private%20Assistance%20Programs/%C2%A7%2001726a%20-%20Administration.md) | Administration. |
-| [1726b.](Subchapter%20003%20%28III%29%20-%20Emergency%20and%20Private%20Assistance%20Programs/%C2%A7%2001726b%20-%20Assistance%20for%20stockpiling%20and%20rapid%20transportation%2C%20delivery%2C%20and%20distribution%20of%20shelf-stable%20prepackaged%20foods.md) | Assistance for stockpiling and rapid transportation, delivery, and distribution of shelf-stable prepackaged foods. |
+| [1726b.](Subchapter%20003%20%28III%29%20-%20Emergency%20and%20Private%20Assistance%20Programs/%C2%A7%2001726b%20-%20International%20food%20relief%20partnership.md) | International food relief partnership. |
 | [1726c.](Subchapter%20003%20%28III%29%20-%20Emergency%20and%20Private%20Assistance%20Programs/%C2%A7%2001726c%20-%20Local%20and%20regional%20food%20aid%20procurement%20projects.md) | Local and regional food aid procurement projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -106,6 +106,7 @@
 | 1736v to 1736x. Repealed. |  |
 | [1736y.](Subchapter%20004%20%28IV%29%20-%20General%20Authorities%20and%20Requirements/%C2%A7%2001736y%20-%20Contract%20sanctity%20and%20producer%20embargo%20protection.md) | Contract sanctity and producer embargo protection. |
 | 1736z to 1736cc. Repealed. |  |
+| [1736dd.](Subchapter%20004%20%28IV%29%20-%20General%20Authorities%20and%20Requirements/%C2%A7%2001736dd%20-%20International%20food%20security%20technical%20assistance.md) | International food security technical assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

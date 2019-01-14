@@ -70,7 +70,7 @@
 
 #### (B) Continuing disability reviews and redeterminations
 
-&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
+&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted thatspecifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
 
 &emsp;&emsp;&emsp;(I) for fiscal year 2012, $623,000,000 in additional new budget authority;
 
@@ -128,17 +128,77 @@
 
 #### (D) Disaster funding
 
-&emsp;&emsp;(i) If, for fiscal years 2012 through 2021, appropriations for discretionary accounts areenacted that Congress designates as being for disaster relief in statute, the adjustment for a fiscal year shall be the total of such appropriations for the fiscal year in discretionary accounts designated as being for disaster relief, but not to exceed the total of—
+&emsp;&emsp;(i) If, for fiscal years 2012 through 2021, appropriations for discretionary accounts are enacted that Congress designates as being for disaster relief in statute, the adjustment for a fiscal year shall be the total of such appropriations for the fiscal year in discretionary accounts designated as being for disaster relief, but not to exceed the total of—
 
-&emsp;&emsp;&emsp;(I) the average funding provided for disaster relief over the previous 10 years, excluding the highest and lowest years; and
+&emsp;&emsp;&emsp;(I) the average over the previous 10 years (excluding the highest and lowest years) of the sum of the funding provided for disaster relief (as that term is defined on the date immediately before March 23, 2018);
 
-&emsp;&emsp;&emsp;(II) the amount, for years when the enacted new discretionary budget authority designated as being for disaster relief for the preceding fiscal year was less than the average as calculated in subclause (I) for that fiscal year, that is the difference between the enacted amount and the allowable adjustment as calculated in such subclause for that fiscal year.
+&emsp;&emsp;&emsp;(II) notwithstanding clause (iv), starting in fiscal year 2018, five percent of the total appropriations provided after fiscal year 2011 or in the previous 10 years, whichever is less, net of any rescissions of budget authority enacted in the same period, with respect to amounts provided for major disasters declared pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) and designated by the Congress and the President as an emergency pursuant to subparagraph (A)(i) of this paragraph; and
 
-&emsp;&emsp;(ii) OMB shall report to the Committees on Appropriations and Budget in each House the average calculated pursuant to clause (i)(II), not later than 30 days after August 2, 2011.
+&emsp;&emsp;&emsp;(III) the cumulative net total of the unused carryover for fiscal year 2018 and all subsequent fiscal years, where the unused carryover for each fiscal year is calculated as the sum of the amounts in subclauses (I) and (II) less the enacted appropriations for that fiscal year that have been designated as being for disaster relief.
+
+&emsp;&emsp;(ii) OMB shall report to the Committees on Appropriations and Budget in each House the average calculated pursuant to clause (i)(II), not later than 30 days after March 23, 2018.
 
 &emsp;&emsp;(iii) For the purposes of this subparagraph, the term "disaster relief" means activities carried out pursuant to a determination under section 5122(2) of title 42.
 
 &emsp;&emsp;(iv) Appropriations considered disaster relief under this subparagraph in a fiscal year shall not be eligible for adjustments under subparagraph (A) for the fiscal year.
+
+#### (E) Reemployment services and eligibility assessments
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for grants to States under section 306 of the Social Security Act \[42 U.S.C. 506\], then the adjustment for that fiscal year shall be the additional new budget authority provided in that Act for such grants for that fiscal year, but shall not exceed—
+
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2018, $0;
+
+&emsp;&emsp;&emsp;&emsp;(II) for fiscal year 2019, $33,000,000;
+
+&emsp;&emsp;&emsp;&emsp;(III) for fiscal year 2020, $58,000,000; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) for fiscal year 2021, $83,000,000.
+
+#### (ii) Definition
+
+&emsp;&emsp;&emsp;As used in this subparagraph, the term "additional new budget authority" means the amount provided for a fiscal year, in excess of $117,000,000, in an appropriation Act and specified to pay for grants to States under section 306 of the Social Security Act \[42 U.S.C. 506\].
+
+#### (F) Wildfire suppression
+
+#### (i) Additional new budget authority
+
+&emsp;&emsp;&emsp;If, for fiscal years 2020 through 2027, a bill or joint resolution making appropriations for a fiscal year is enacted that provides an amount for wildfire suppression operations in the Wildland Fire Management accounts at the Department of Agriculture or the Department of the Interior, then the adjustments for that fiscal year shall be the amount of additional new budget authority provided in that Act for wildfire suppression operations for that fiscal year, but shall not exceed—
+
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2020, $2,250,000,000;
+
+&emsp;&emsp;&emsp;&emsp;(II) for fiscal year 2021, $2,350,000,000;
+
+&emsp;&emsp;&emsp;&emsp;(III) for fiscal year 2022, $2,450,000,000;
+
+&emsp;&emsp;&emsp;&emsp;(IV) for fiscal year 2023, $2,550,000,000;
+
+&emsp;&emsp;&emsp;&emsp;(V) for fiscal year 2024, $2,650,000,000;
+
+&emsp;&emsp;&emsp;&emsp;(VI) for fiscal year 2025, $2,750,000,000;
+
+&emsp;&emsp;&emsp;&emsp;(VII) for fiscal year 2026, $2,850,000,000; and
+
+&emsp;&emsp;&emsp;&emsp;(VIII) for fiscal year 2027, $2,950,000,000.
+
+#### (ii) Definitions
+
+&emsp;&emsp;&emsp;In this subparagraph:
+
+#### (I) Additional new budget authority
+
+&emsp;&emsp;&emsp;&emsp;The term "additional new budget authority" means the amount provided for a fiscal year in an appropriation Act that is in excess of the average costs for wildfire suppression operations as reported in the budget of the President submitted under section 1105(a) of title 31 for fiscal year 2015 and are specified to pay for the costs of wildfire suppression operations in an amount not to exceed the amount specified for that fiscal year in clause (i).
+
+#### (II) Wildfire suppression operations
+
+&emsp;&emsp;&emsp;&emsp;The term "wildfire suppression operations" means the emergency and unpredictable aspects of wildland firefighting, including—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) support, response, and emergency stabilization activities;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) other emergency management activities; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the funds necessary to repay any transfers needed for the costs of wildfire suppression operations.
 
 #### (c) Discretionary spending limit
 
@@ -170,15 +230,15 @@ As used in this subchapter, the term "discretionary spending limit" means—
 
 &emsp;(5) for fiscal year 2018—
 
-&emsp;&emsp;(A) for the revised security category, $603,000,000,000 in new budget authority; and
+&emsp;&emsp;(A) for the revised security category, $629,000,000,000 in new budget authority; and
 
-&emsp;&emsp;(B) for the revised nonsecurity category, $553,000,000,000 in new budget authority;
+&emsp;&emsp;(B) for the revised nonsecurity category $579,000,000,000 in new budget authority;
 
 &emsp;(6) for fiscal year 2019—
 
-&emsp;&emsp;(A) for the revised security category, $616,000,000,000 in new budget authority; and
+&emsp;&emsp;(A) for the revised security category, $647,000,000,000 in new budget authority; and
 
-&emsp;&emsp;(B) for the revised nonsecurity category, $566,000,000,000 in new budget authority;
+&emsp;&emsp;(B) for the revised nonsecurity category, $597,000,000,000 in new budget authority;
 
 &emsp;(7) for fiscal year 2020—
 
@@ -194,11 +254,13 @@ As used in this subchapter, the term "discretionary spending limit" means—
 
 > as adjusted in strict conformance with subsection (b).
 
-(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(a), (b), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §§8001(a), 8002, Aug. 10, 2005, 119 Stat. 1915, 1916; Pub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241; Pub. L. 112–240, title IX, §901(d)(1), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(a), Dec. 26, 2013, 127 Stat. 1166; Pub. L. 114–74, title I, §101(a), title VIII, §815, Nov. 2, 2015, 129 Stat. 585, 604; Pub. L. 114–113, div. O, title X, §1003, Dec. 18, 2015, 129 Stat. 3035.)
+(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, titleXIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(a), (b), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §§8001(a), 8002, Aug. 10, 2005, 119 Stat. 1915, 1916; Pub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241; Pub. L. 112–240, title IX, §901(d)(1), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(a), Dec. 26, 2013, 127 Stat. 1166; Pub. L. 114–74, title I, §101(a), title VIII, §815, Nov. 2, 2015, 129 Stat. 585, 604; Pub. L. 114–113, div. O, title X, §1003, Dec. 18, 2015, 129 Stat. 3035; Pub. L. 115–123, div. C, title I, §30101(a), title II, §30206(c), Feb. 9, 2018, 132 Stat. 122, 131; Pub. L. 115–141, div. O, title I, §102(a), Mar. 23, 2018, 132 Stat. 1059; Pub. L. 115–334, title VIII, §8704(a)(1)(A), Dec. 20, 2018, 132 Stat. 4877.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2)(D)(i)(II), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Codification
 
@@ -206,9 +268,23 @@ Pub. L. 101–508, §13101(e)(2), redesignated former subsec. (a)(6)(I) of this 
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b)(2)(D)(i). Pub. L. 115–141, §102(a)(1), added subcls. (I) to (III) and struck out former subcls. (I) and (II) which read as follows:
+
+"(I) the average funding provided for disaster relief over the previous 10 years, excluding the highest and lowest years; and
+
+"(II) the amount, for years when the enacted new discretionary budget authority designated as being for disaster relief for the preceding fiscal year was less than the average as calculated in subclause (I) for that fiscal year, that is the difference between the enacted amount and the allowable adjustment as calculated in such subclause for that fiscal year."
+
+Subsec. (b)(2)(D)(ii). Pub. L. 115–141, §102(a)(2), as amended by Pub. L. 115–334, §8704(a)(1)(A), substituted "not later than 30 days after March 23, 2018" for "not later than 30 days after August 2, 2011".
+
+Subsec. (b)(2)(E). Pub. L. 115–123, §30206(c), added subpar. (E).
+
+Subsec. (b)(2)(F). Pub. L. 115–141, §102(a)(3), added subpar. (F).
+
+Subsec. (c)(5), (6). Pub. L. 115–123, §30101(a), added pars. (5) and (6) and struck out former pars. (5) and (6) which defined discretionary spending limits for fiscal years 2018 and 2019, respectively.
+
 <b>2015</b>—Subsec. (a)(7)(B). Pub. L. 114–113 substituted "both the CBO and OMB estimates of the amount of discretionary new budget authority" for "the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays".
 
-Subsec. (b)(2)(B)(i). Pub. L. 114–74, §815(1)(A), in introductory provisions, substituted ", for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in theprograms and operations of the Social Security Administration by Special Assistant United States Attorneys" for "and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act".
+Subsec. (b)(2)(B)(i). Pub. L. 114–74, §815(1)(A), in introductory provisions, substituted ", for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys" for "and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act".
 
 Subsec. (b)(2)(B)(i)(VI). Pub. L. 114–74, §815(1)(B), substituted "$1,546,000,000" for "$1,309,000,000".
 
@@ -316,7 +392,7 @@ Subsec. (b)(1). Pub. L. 103–66, §14002(c)(1)(B)(i), in introductory provision
 
 Subsec. (b)(1)(B)(iii). Pub. L. 103–66, §14002(c)(1)(B)(ii), added cl. (iii).
 
-Subsec. (b)(2). Pub. L. 103–66, §14002(c)(1)(B)(iii), in introductory provisions, substituted "1995, 1996, 1997, or 1998" for "or 1995" and "year through 1998" for "year through 1995".
+Subsec. (b)(2). Pub. L. 103–66, §14002(c)(1)(B)(iii), in introductory provisions, substituted "1995, 1996, 1997, or1998" for "or 1995" and "year through 1998" for "year through 1995".
 
 Subsec. (b)(2)(D)(i). Pub. L. 103–66, §14002(c)(1)(B)(iv), substituted "for any fiscal year," for "for fiscal year 1991, 1992, 1993, 1994, or 1995,".
 
@@ -333,6 +409,12 @@ Subsec. (a)(6)(I). Pub. L. 101–508, §13101(e)(2), redesignated subsec. (a)(6)
 <b>1987</b>—Pub. L. 100–119 amended section generally, substituting provisions consisting of subsecs. (a) to (e) relating to reports by Director of CBO to Director of OMB and to Congress and by Director of OMB to President and Congress for provisions consisting of subsecs. (a) to (g) relating to joint reports by Directors of CBO and OMB to Comptroller General and report by Comptroller General to President and Congress.
 
 Subsec. (a)(6)(B). Pub. L. 100–203, §8003(f), struck out "and" before "contract authority" and inserted provision whereby the authority to provide insurance through the Federal Housing Administration Fund be continued.
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–334, title VIII, §8704(a)(2), Dec. 20, 2018, 132 Stat. 4877, provided that: "The amendments made by paragraph (1) \[amending this section and section 7102 of Title 16, Conservation\] shall take effect as if enacted as part of the Wildfire Suppression Funding and Forest Management Activities Act (\[div. O of\] Public Law 115–141)."
+
+Pub. L. 115–141, div. O, title I, §102(b), Mar. 23, 2018, 132 Stat. 1060, provided that: "The amendment made by paragraph (1) of subsection (a) \[amending this section\] shall begin to apply in fiscal year 2019."
 
 #### Effective Date of 1997 Amendment
 

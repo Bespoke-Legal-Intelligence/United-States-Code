@@ -78,7 +78,7 @@ Pub. L. 105–34, title XIII, §1310(c), Aug. 5, 1997, 111 Stat. 1044, provided 
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in theprovision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 87–834 applicable to estates of decedents dying after Oct
 
 Pub. L. 96–222, title I, §107(a)(2)(F), Apr. 1, 1980, 94 Stat. 223, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-&emsp;"(i) If the executor elects the benefits of this subparagraph with respect to any estate, section 2035(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to adjustments for gifts made within 3 years of decedent's death) shall be applied with respect to transfers made by the decedent during 1977 as if paragraph (2) of such section 2035(b) read as follows:
+&emsp;"(i) If the executor elects the benefits of this subparagraph with respect to any estate, section 2035(b)of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to adjustments for gifts made within 3 years of decedent's death) shall be applied with respect to transfers made by the decedent during 1977 as if paragraph (2) of such section 2035(b) read as follows:
 
 " '(2) to any gift to a donee made during 1977 to the extent of the amount of such gift which was excludable in computing taxable gifts by reason of section 2503(b) (relating to $3,000 annual exclusion for purposes of the gift tax) determined without regard to section 2513(a).'
 

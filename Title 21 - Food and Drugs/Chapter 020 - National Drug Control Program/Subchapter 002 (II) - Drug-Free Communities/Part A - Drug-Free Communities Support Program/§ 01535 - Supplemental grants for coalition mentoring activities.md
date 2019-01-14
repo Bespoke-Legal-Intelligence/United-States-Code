@@ -2,7 +2,7 @@
 
 #### (a) Authority to make grants
 
-As part of the program established under section 1531 of this title, the Director may award an initial grant under this subsection, and renewal grants under subsection (f), to any coalition awarded a grant under section 1532 of this title that meets the criteria specified in subsection (d) in order to fund coalition mentoring activities by such coalition in support of the program.
+As part of the program established under section 1531 of this title, the Director may award aninitial grant under this subsection, and renewal grants under subsection (f), to any coalition awarded a grant under section 1532 of this title that meets the criteria specified in subsection (d) in order to fund coalition mentoring activities by such coalition in support of the program.
 
 #### (b) Treatment with other grants
 
@@ -24,9 +24,9 @@ A coalition meets the criteria specified in this subsection if the coalition—
 
 &emsp;(1) has been in existence for at least 5 years;
 
-&emsp;(2) has achieved, by or through its own efforts, measurable results in the prevention and treatment of substance abuse among youth;
+&emsp;(2) has achieved, by or through its own efforts, measurable results in the prevention and treatment of substance use and misuse among youth;
 
-&emsp;(3) has staff or members willing to serve as mentors for persons seeking to start or expand the activities of other coalitions in the prevention and treatment of substance abuse;
+&emsp;(3) has staff or members willing to serve as mentors for persons seeking to start or expand the activities of other coalitions in the prevention and treatment of substance use and misuse;
 
 &emsp;(4) has demonstrable support from some members of the community in which the coalition mentoring activities to be supported by the grant under this section are to be carried out; and
 
@@ -34,7 +34,7 @@ A coalition meets the criteria specified in this subsection if the coalition—
 
 #### (e) Use of grant funds
 
-A coalition awarded a grant under this section shall use the grant amount for mentoring activities to support and encourage the development of new, self-supporting community coalitions that are focused on the prevention and treatment of substance abuse in such new coalitions' communities. The mentoring coalition shall encourage such development in accordance with the plan submitted by the mentoring coalition under subsection (d)(5).
+A coalition awarded a grant under this section shall use the grant amount for mentoring activities to support and encourage the development of new, self-supporting community coalitions that are focused on the prevention and treatment of substance use and misuse in such new coalitions' communities. The mentoring coalition shall encourage such development in accordance with the plan submitted by the mentoring coalition under subsection (d)(5).
 
 #### (f) Renewal grants
 
@@ -42,13 +42,13 @@ The Administrator may make a renewal grant to any coalition awarded a grant unde
 
 &emsp;(1) continues to meet the criteria specified in subsection (d); and
 
-&emsp;(2) has made demonstrable progress in the development of one or more new, self-supporting community coalitions that are focused on the prevention and treatment of substance abuse.
+&emsp;(2) has made demonstrable progress in the development of one or more new, self-supporting community coalitions that are focused on the prevention and treatment of substance use and misuse.
 
 #### (g) Grant amounts
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), the total amount of grants awarded to a coalition under this section for a fiscal year may not exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year. Funds appropriated for the substance abuse activities of a coalition that includes a representative of the Bureau of Indian Affairs, the Indian Health Service, or a tribal government agency with expertise in the field of substance abuse may be counted as non-Federal funds raised by the coalition.
+&emsp;Subject to paragraphs (2) and (3), the total amount of grants awarded to a coalition under this section for a fiscal year may not exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year. Funds appropriated for the substance use and misuse activities of a coalition that includes a representative of the Bureau of Indian Affairs, the Indian Health Service, or a tribal government agency with expertise in the field of substance use and misuse may be counted as non-Federal funds raised by the coalition.
 
 #### (2) Initial grants
 
@@ -66,5 +66,9 @@ The total amount available for grants under this section, including renewal gran
 
 In awarding initial grants under this section, priority shall be given to a coalition that expressly proposes to provide mentorship to a coalition or aspiring coalition serving economically disadvantaged areas.
 
-(Pub. L. 100–690, title I, §1035, as added Pub. L. 107–82, §2, Dec. 14, 2001, 115 Stat. 819.)
+(Pub. L. 100–690, title I, §1035, as added Pub. L. 107–82, §2, Dec. 14, 2001, 115 Stat. 819; amended Pub. L. 115–271, title VIII, §8203(b)(4)(A), Oct. 24, 2018, 132 Stat. 4111.)
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–271, which directed substitution of "substance use and misuse" for "substance abuse" wherever appearing in subchapter I of "chapter 2 of subtitle A of title I of the National Narcotics Leadership Act of 1988", was executed throughout part A of this subchapter, which is subchapter I of chapter 2 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. The National Narcotics Leadership Act of 1988 is itself subtitle A of title I of Pub. L. 100–690.
 

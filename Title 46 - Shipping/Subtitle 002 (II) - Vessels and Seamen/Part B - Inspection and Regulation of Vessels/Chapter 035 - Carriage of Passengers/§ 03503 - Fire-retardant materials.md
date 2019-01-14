@@ -1,20 +1,62 @@
 ### §3503. Fire-retardant materials
 
-(a) A passenger vessel of the United States having berth or stateroom accommodations for at least 50 passengers shall be granted a certificate of inspection only if the vessel is constructed of fire-retardant materials. Before November 1, 2008, this section does not apply to any vessel in operation before January 1, 1968, and operating only within the Boundary Line.
+(a)(1) A passenger vessel of the United States having berth or stateroom accommodations for at least 50 passengers shall be granted a certificate of inspection only if—
 
-(b)(1) When a vessel is exempted from the fire-retardant standards of this section—
+&emsp;(A) the vessel is constructed of fire-retardant materials; and
 
-&emsp;(A) the owner or managing operator of the vessel shall notify prospective passengers that the vessel does not comply with applicable fire safety standards due primarily to the wooden construction of passenger berthing areas;
+&emsp;(B) the vessel—
 
-&emsp;(B) the owner or managing operator of the vessel may not disclaim liability to a passenger for death, injury, or any other loss caused by fire due to the negligence of the owner or managing operator;
+&emsp;&emsp;(i) is operating engines, boilers, main electrical distribution panels, fuel tanks, oil tanks, and generators that meet current Coast Guard regulations; and
 
-&emsp;(C) the penalties provided in section 3504(c) of this title apply to a violation of this subsection; and
+&emsp;&emsp;(ii) is operating boilers and main electrical generators that are contained within noncombustible enclosures equipped with fire suppression systems.
 
-&emsp;(D) the owner or managing operator of the vessel shall notify the Coast Guard of structural alterations to the vessel, and with regard to those alterations comply with any noncombustible material requirements that the Coast Guard prescribes for nonpublic spaces. Coast Guard requirements shall be consistent with preservation of the historic integrity of the vessel in areas carrying or accessible to passengers or generally visible to the public.
+(2) Before December 1, 2028, this subsection does not apply to any vessel in operation before January 1, 1968, and operating only within the Boundary Line.
 
-(2) The Secretary shall prescribe regulations under this subsection on the manner in which prospective passengers are to be notified.
+(b)(1) The owner or managing operator of an exempted vessel described in subsection (a)(2) shall—
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 519; Pub. L. 99–307, §1(7)(A), May 19, 1986, 100 Stat. 445; Pub. L. 102–241, §20, Dec. 19, 1991, 105 Stat. 2216; Pub. L. 104–324, title XI, §1133, Oct. 19, 1996, 110 Stat. 3985.)
+&emsp;(A) notify in writing prospective passengers, prior to purchase, and each crew member that the vessel does not comply with applicable fire safety standards due primarily to the wooden construction of passenger berthing areas;
+
+&emsp;(B) display in clearly legible font prominently throughout the vessel, including in each state room the following: "THIS VESSEL FAILS TO COMPLY WITH SAFETY RULES AND REGULATIONS OF THE U.S. COAST GUARD.";
+
+&emsp;(C) acquire prior to the vessel entering service, and maintain, liability insurance in an amount to be prescribed by the Federal Maritime Commission;
+
+&emsp;(D) make annual structural alteration to not less than 10 percent of the areas of the vessel that are not constructed of fire retardant materials;
+
+&emsp;(E) prioritize alterations in galleys, engineering areas of the vessel, including all spaces and compartments containing, or adjacent to spaces and compartments containing, engines, boilers, main electrical distribution panels, fuel tanks, oil tanks, and generators;
+
+&emsp;(F) ensure, to the satisfaction of the Secretary, that the combustible fire-load has been reduced pursuant to subparagraph (D) during each annual inspection for certification;
+
+&emsp;(G) ensure the vessel has multiple forms of egress off the vessel's bow and stern;
+
+&emsp;(H) provide advance notice to the Coast Guard regarding the structural alterations made pursuant to subparagraph (D) and comply with any noncombustible material requirements prescribed by the Coast Guard;
+
+&emsp;(I) annually notify all ports of call and State emergency management offices of jurisdiction that the vessel does not comply with the requirement under subsection (a)(1);
+
+&emsp;(J) provide crewmembers manning such vessel shipboard training that—
+
+&emsp;&emsp;(i) is specialized for exempted vessels;
+
+&emsp;&emsp;(ii) exceeds requirements related to standards for firefighting training under chapter I of title 46, Code of Federal Regulations, as in effect on October 1, 2017; and
+
+&emsp;&emsp;(iii) is approved by the Coast Guard; and
+
+&emsp;(K) to the extent practicable, take all steps to retain previously trained crew knowledgeable of such vessel or to hire crew trained in operations aboard exempted vessels.
+
+(2) The owner or managing operator of an exempted vessel described in subsection (a)(2) may not disclaim liability to a passenger or crew member of such vessel for death, injury, or any other loss caused by fire due to the negligence of the owner or managing operator.
+
+(3) The Secretary shall—
+
+&emsp;(A) conduct an annual audit and inspection of each exempted vessel described in subsection (a)(2);
+
+&emsp;(B) in implementing subparagraph (b)(1)(F), consider, to the extent practicable, the goal of preservation of the historic integrity of such vessel in areas carrying or accessible to passengers or generally visible to the public; and
+
+&emsp;(C) prescribe regulations to carry out this section, including to prescribe the manner in which prospective passengers are to be notified under paragraph (1)(A).
+
+(4) The penalties provided in section 3504(c) of this title shall apply to a violation of this subsection.
+
+(c) In addition to otherwise applicable penalties, the Secretary may immediately withdraw a certificate of inspection for an exempted vessel described in subsection (a)(2) that does not comply with any requirement under subsection (b).
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 519; Pub. L. 99–307, §1(7)(A), May 19, 1986, 100 Stat. 445; Pub. L. 102–241, §20, Dec. 19, 1991, 105 Stat. 2216; Pub. L. 104–324, title XI, §1133, Oct. 19, 1996, 110 Stat. 3985; Pub. L. 115–282, title VIII, §834, Dec. 4, 2018, 132 Stat. 4318.)
 
 Historical and Revision Notes
 
@@ -26,9 +68,25 @@ Historical and Revision Notes
 
 46:369(b)
 
-Section 3503 requires the use of fire retardant materials on a vessel having berthing facilities for at least 50 passengers. This requirement in the case of vessels engaged in foreign trade is consistent with our international treaty obligations, which impose extensiveand additional fire safety standards. A waiver that grandfathers existing inland river passenger vessels is also included.
+Section 3503 requires the use of fire retardant materials on a vessel having berthing facilities for at least 50 passengers. This requirement in the case of vessels engaged in foreign trade is consistent with our international treaty obligations, which impose extensive and additional fire safety standards. A waiver that grandfathers existing inland river passenger vessels is also included.
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–282 amended section generally. Prior to amendment, text read as follows:
+
+"(a) A passenger vessel of the United States having berth or stateroom accommodations for at least 50 passengers shall be granted a certificate of inspection only if the vessel is constructed of fire-retardant materials. Before November 1, 2008, this section does not apply to any vessel in operation before January 1, 1968, and operating only within the Boundary Line.
+
+"(b)(1) When a vessel is exempted from the fire-retardant standards of this section—
+
+&emsp;"(A) the owner or managing operator of the vessel shall notify prospective passengers that the vessel does not comply with applicable fire safety standards due primarily to the wooden construction of passenger berthing areas;
+
+&emsp;"(B) the owner or managing operator of the vessel may not disclaim liability to a passenger for death, injury, or any other loss caused by fire due to the negligence of the owner or managing operator;
+
+&emsp;"(C) the penalties provided in section 3504(c) of this title apply to a violation of this subsection; and
+
+&emsp;"(D) the owner or managing operator of the vessel shall notify the Coast Guard of structural alterations to the vessel, and with regard to those alterations comply with any noncombustible material requirements that the Coast Guard prescribes for nonpublic spaces. Coast Guard requirements shall be consistent with preservation of the historic integrity of the vessel in areas carrying or accessible to passengers or generally visible to the public.
+
+"(2) The Secretary shall prescribe regulations under this subsection on the manner in which prospective passengers are to be notified."
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–324 substituted "Before November 1, 2008, this section does not apply to any vessel in operation before January 1, 1968, and operating only within the Boundary Line." for "Before November 1, 1998, this section does not apply to a vessel in operation before January 1, 1968, and operating only on the inland rivers."
 
@@ -44,5 +102,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Notification to Prospective Passengers of Noncompliance With Fire-Retardant Standards
 
-Pub. L. 99–307, §1(7)(B), May 19, 1986, 100 Stat. 445, provided that: "Until the regulations required by subclause (A) of this clause \[see subsec. (b)(2) of this section\] become effective, the owner or managing operator shall notify prospective passengers in all promotional literature and on each ticket that the vessel does not comply with those standards due primarily to the wooden construction of passenger berthing areas."
+Pub. L. 99–307, §1(7)(B), May 19, 1986, 100 Stat. 445, required notification to prospective passengers of a vessel's noncompliance with certain standards until regulations became effective.
 

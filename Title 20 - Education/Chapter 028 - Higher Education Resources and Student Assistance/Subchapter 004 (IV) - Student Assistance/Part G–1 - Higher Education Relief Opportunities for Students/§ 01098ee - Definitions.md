@@ -28,7 +28,7 @@ In this part:
 
 #### (5) Serving on active duty
 
-&emsp;The term "serving on active duty during a war or other military operation or national emergency" shall include service by an individual who is—
+&emsp;The term "serving on active duty during a war or other military operation or nationalemergency" shall include service by an individual who is—
 
 &emsp;&emsp;(A) a Reserve of an Armed Force ordered to active duty under section 12301(a), 12301(g), 12302, 12304, or 12306 of title 10 or any retired member of an Armed Force ordered to active duty under section 688 of such title, for service in connection with a war or other military operation or national emergency, regardless of the location at which such active duty service is performed; and
 
@@ -44,5 +44,5 @@ In this part:
 
 Section was formerly set out in a note under section 1070 of this title.
 
-Section was enacted as part of the Higher Education Relief Opportunities for Students Act of 2003, and notas part of title IV of the Higher Education Act of 1965 which comprises this subchapter.
+Section was enacted as part of the Higher Education Relief Opportunities for Students Act of 2003, and not as part of title IV of the Higher Education Act of 1965 which comprises this subchapter.
 

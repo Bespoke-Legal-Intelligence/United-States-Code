@@ -16,7 +16,7 @@ The President is authorized to waive the prohibitions and requirements of sectio
 
 &emsp;&emsp;&emsp;(iii) individuals who were covered United States persons or covered allied persons; and
 
-&emsp;&emsp;(B) ensures that no person described in subparagraph (A) will be arrested, detained, prosecuted, or imprisoned by or on behalf of the International Criminal Court.
+&emsp;&emsp;(B) ensures that no person described in subparagraph (A) will be arrested, detained,prosecuted, or imprisoned by or on behalf of the International Criminal Court.
 
 #### (b) Authority to extend waiver of section 7424
 

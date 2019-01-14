@@ -10,7 +10,7 @@
 
 (b) Subsection (a)(3) of this section does not apply if—
 
-&emsp;(1)(A) the debtor's spouse is a debtor in a case under this title, or a bankrupt or a debtor in a case under the Bankruptcy Act, commenced within six years of the date of the filing of the petition in the case concerning the debtor; and
+&emsp;(1)(A) the debtor's spouse is a debtor in a case under this title, or a bankrupt or a debtorin a case under the Bankruptcy Act, commenced within six years of the date of the filing of the petition in the case concerning the debtor; and
 
 &emsp;(B) the court does not grant the debtor's spouse a discharge in such case concerning the debtor's spouse; or
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(ii) any default under such an agreement;
 
-&emsp;(4) the debtor has not rescinded such agreement at any time prior to discharge or withinsixty days after such agreement is filed with the court, whichever occurs later, by giving notice of rescission to the holder of such claim;
+&emsp;(4) the debtor has not rescinded such agreement at any time prior to discharge or within sixty days after such agreement is filed with the court, whichever occurs later, by giving notice of rescission to the holder of such claim;
 
 &emsp;(5) the provisions of subsection (d) of this section have been complied with; and
 
@@ -198,7 +198,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;(3) such act is limited to seeking or obtaining periodic payments associated with a valid security interest in lieu of pursuit of in rem relief to enforce the lien.
 
-(k)(1) The disclosures required under subsection (c)(2) shall consist of the disclosure statement described in paragraph (3), completed as required in that paragraph, together with the agreement specified in subsection (c), statement, declaration, motion and order described, respectively, in paragraphs (4) through (8), and shall be the only disclosures required in connection with entering into such agreement.
+(k)(1) The disclosures required under subsection (c)(2) shall consist of the disclosure statement described in paragraph (3), completed as required in that paragraph, together with the agreement specified in subsection (c), statement, declaration, motion and order described,respectively, in paragraphs (4) through (8), and shall be the only disclosures required in connection with entering into such agreement.
 
 (2) Disclosures made under paragraph (1) shall be made clearly and conspicuously and in writing. The terms "Amount Reaffirmed" and "Annual Percentage Rate" shall be disclosed more conspicuously than other terms, data or information provided in connection with this disclosure, except that the phrases "Before agreeing to reaffirm a debt, review these important disclosures" and "Summary of Reaffirmation Agreement" may be equally conspicuous. Disclosures may be made in a different order and may use terminology different from that set forth in paragraphs (2) through (8), except that the terms "Amount Reaffirmed" and "Annual Percentage Rate" must be used where indicated.
 
@@ -318,7 +318,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 "Part D: Debtor's Statement in Support of Reaffirmation Agreement.
 
-"1. I believe this reaffirmation agreement will not impose an undue hardship on my dependents or me. I can afford to make the payments on the reaffirmed debt because my monthly income (take home pay plus any other income received) is $\_\_\_\_\_\_, and my actual current monthly expenses including monthly payments on post-bankruptcy debt and other reaffirmation agreements total $\_\_\_\_\_\_, leaving $\_\_\_\_\_\_ to make the required payments on this reaffirmed debt. I understand that if my income less my monthly expenses does not leave enough to make the payments, this reaffirmation agreement is presumed to be an undue hardship on me and must be reviewed by the court. However, this presumption may be overcome if I explain to thesatisfaction of the court how I can afford to make the payments here: \_\_\_\_\_\_.
+"1. I believe this reaffirmation agreement will not impose an undue hardship on my dependents or me. I can afford to make the payments on the reaffirmed debt because my monthly income (take home pay plus any other income received) is $\_\_\_\_\_\_, and my actual current monthly expenses including monthly payments on post-bankruptcy debt and other reaffirmation agreements total $\_\_\_\_\_\_, leaving $\_\_\_\_\_\_ to make the required payments on this reaffirmed debt. I understand that if my income less my monthly expenses does not leave enough to make the payments, this reaffirmation agreement is presumed to be an undue hardship on me and must be reviewed by the court. However, this presumption may be overcome if I explain to the satisfaction of the court how I can afford to make the payments here: \_\_\_\_\_\_.
 
 "2. I received a copy of the Reaffirmation Disclosure Statement in Part A and a completed and signed reaffirmation agreement.".
 
@@ -352,7 +352,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 (2) This subsection does not apply to reaffirmation agreements where the creditor is a credit union, as defined in section 19(b)(1)(A)(iv) of the Federal Reserve Act.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2592; Pub. L. 98–353, title III, §§308, 455, July 10, 1984, 98 Stat. 354, 376; Pub. L. 99–554, title II, §§257(o), 282, 283(k), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 103–394, title I, §§103, 111(a), title V, §501(d)(14), Oct. 22, 1994, 108 Stat. 4108, 4113, 4145; Pub. L. 109–8, title II, §§202, 203(a), title XII, §1210, Apr. 20, 2005, 119 Stat. 43, 194; Pub. L. 111–327, §2(a)(19), Dec. 22, 2010, 124 Stat. 3559.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2592; Pub. L. 98–353, title III, §§308, 455, July 10, 1984, 98 Stat. 354, 376; Pub. L. 99–554, title II, §§257(o), 282, 283(k), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L.103–394, title I, §§103, 111(a), title V, §501(d)(14), Oct. 22, 1994, 108 Stat. 4108, 4113, 4145; Pub. L. 109–8, title II, §§202, 203(a), title XII, §1210, Apr. 20, 2005, 119 Stat. 43, 194; Pub. L. 111–327, §2(a)(19), Dec. 22, 2010, 124 Stat. 3559.)
 
 #### Historical and Revision Notes
 
@@ -364,7 +364,7 @@ Sections 524(c) and (d) represent a compromise between the House bill and Senate
 
 #### senate report no. 95–989
 
-Subsection (a) specifies that a discharge in a bankruptcy case voids any judgment to the extent that it is a determination of the personal liability of the debtor with respect to a prepetition debt, and operates as an injunction against the commencement or continuation of an action, the employment of process, or any act, including telephone calls, letters, and personal contacts, to collect, recover, or offset any discharged debt as a personal liability of the debtor, or from property of the debtor, whether or not the debtor has waived discharge of the debt involved. The injunction is to give complete effect to the discharge and to eliminate any doubt concerning the effect of the discharge as a total prohibition on debt collection efforts. This paragraph has been expanded over a comparable provision in Bankruptcy Act §14f \[section 32(f) of former title 11\] to cover any act to collect, such as dunning by telephone or letter, or indirectly through friends, relatives, or employers, harassment, threats of repossession, and the like. The change is consonant with the new policy forbiddingbinding reaffirmation agreements under proposed 11 U.S.C. 524(b), and is intended to insure that once a debt is discharged, the debtor will not be pressured in any way to repay it. In effect, the discharge extinguishes the debt, and creditors may not attempt to avoid that. The language "whether or not discharge of such debt is waived" is intended to prevent waiver of discharge of a particular debt from defeating the purposes of this section. It is directed at waiver of discharge of a particular debt, not waiver of discharge in toto as permitted under section 727(a)(9).
+Subsection (a) specifies that a discharge in a bankruptcy case voids any judgment to the extent that it is a determination of the personal liability of the debtor with respect to a prepetition debt, and operates as an injunction against the commencement or continuation of an action, the employment of process, or any act, including telephone calls, letters, and personal contacts, to collect, recover, or offset any discharged debt as a personal liability of the debtor, or from property of the debtor, whether or not the debtor has waived discharge of the debt involved. The injunction is to give complete effect to the discharge and to eliminate any doubt concerning the effect of the discharge as a total prohibition on debt collection efforts. This paragraph has been expanded over a comparable provision in Bankruptcy Act §14f \[section 32(f) of former title 11\] to cover any act to collect, such as dunning by telephone or letter, or indirectly through friends, relatives, or employers, harassment, threats of repossession, and the like. The change is consonant with the new policy forbidding binding reaffirmation agreements under proposed 11 U.S.C. 524(b), and is intended to insure that once a debt is discharged, the debtor will not be pressured in any way to repay it. In effect, the discharge extinguishes the debt, and creditors may not attempt to avoid that. The language "whether or not discharge of such debt is waived" is intended to prevent waiver of discharge of a particular debt from defeating the purposes of this section. It is directed at waiver of discharge of a particular debt, not waiver of discharge in toto as permitted under section 727(a)(9).
 
 Subsection (a) also codifies the split discharge for debtors in community property states. If community property was in the estate and community claims were discharged, the discharge is effective against community creditors of the nondebtor spouse as well as of the debtor spouse.
 

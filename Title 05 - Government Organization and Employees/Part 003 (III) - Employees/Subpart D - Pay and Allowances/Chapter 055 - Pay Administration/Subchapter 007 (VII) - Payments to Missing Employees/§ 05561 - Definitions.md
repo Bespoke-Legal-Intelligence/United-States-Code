@@ -4,7 +4,7 @@ For the purpose of this subchapter—
 
 &emsp;(1) "agency" means an Executive agency and a military department;
 
-&emsp;(2) "employee" means an employee in or under an agency who is a citizen or national of the United States or an alien admitted to the United States for permanent residence, but does not include a part-time or intermittent employee or native labor casually hired on anhourly or daily basis. However, such an employee who enters a status listed in paragraph (5)(A)–(E) of this section—
+&emsp;(2) "employee" means an employee in or under an agency who is a citizen or national of the United States or an alien admitted to the United States for permanent residence, but does not include a part-time or intermittent employee or native labor casually hired on an hourly or daily basis. However, such an employee who enters a status listed in paragraph (5)(A)–(E) of this section—
 
 &emsp;&emsp;(A) inside the continental United States; or
 
@@ -120,7 +120,7 @@ Apr. 4, 1953, ch. 17, §1(e), 67 Stat. 21.
 
 Only that portion of the source law which is applicable to civilian officers and employees and their dependents is codified in this section.
 
-In paragraph (1), the word "agency" is substituted for "department". The words "including such term when used in the amendment made by section 16" are omitted as surplusage. The words "an Executive agency and a military department" are coextensive with and substituted for "any executive department, independent establishment, or agency (including corporations) in the executive branch of the Federal Government" in view of the definitions in sections 105 and 102, and on authority of 5 U.S.C. 933a which provides that general legislation governing employment, compensation, and the status of employees of the United States applies to employees of the General Accounting Office in the same manner as if they were in the executive branch.
+In paragraph (1), the word "agency" is substituted for "department". The words "including such term when used in the amendment made by section 16" are omitted as surplusage. The words "an Executive agency and a military department" are coextensive with and substituted for "any executive department, independent establishment, or agency (including corporations) in the executive branch of the Federal Government" in view of the definitions in sections 105 and 102, and onauthority of 5 U.S.C. 933a which provides that general legislation governing employment, compensation, and the status of employees of the United States applies to employees of the General Accounting Office in the same manner as if they were in the executive branch.
 
 In paragraph (3)(A), the word "lawful" is omitted as unnecessary in view of the accepted recognition of the fact that the word "wife" means a lawful wife. In paragraph (3)(E), the words "head of the agency concerned or his designee" are substituted for "head of the department concerned, or subordinate designated by him".
 
@@ -138,7 +138,7 @@ Pub. L. 105–85, div. A, title VI, §603(e), Nov. 18, 1997, 111 Stat. 1783, pro
 
 #### Accounting for Civilian Employees and Contractors of United States
 
-Pub. L. 104–106, div. A, title V, §569(e), Feb. 10, 1996, 110 Stat. 352, directed Secretary of State to carry outcomprehensive study of provisions of this subchapter and any other law or regulation establishing procedures for accounting for civilian employees of the United States or contractors of the United States who serve with or accompany the Armed Forces in the field to determine the means, if any, by which those procedures may be improved, and further provided for submission of report to Congress not later than one year after Feb. 10, 1996, on results of study.
+Pub. L. 104–106, div. A, title V, §569(e), Feb. 10, 1996, 110 Stat. 352, directed Secretary of State to carry out comprehensive study of provisions of this subchapter and any other law or regulation establishing procedures for accounting for civilian employees of the United States or contractors of the United States who serve with or accompany the Armed Forces in the field to determine the means, if any, by which those procedures may be improved, and further provided for submission of report to Congress not later than one year after Feb. 10, 1996, on results of study.
 
 #### Benefits for United States Hostages in Iraq and Kuwait and United States Hostages Captured in Lebanon
 

@@ -28,7 +28,7 @@ Oct. 28, 1949, ch. 782, §502(b), 63 Stat. 958.
 
 Oct. 28, 1949, ch. 782, §503, 63 Stat. 958.
 
-In subsection (b), the words "to which this chapter applies" are omitted as unnecessary in view of section 5102. The words "appropriate officials" and "administrative, certifying, payroll, disbursing, and accounting officials" are substituted for "appropriate officers and employees" and "administrative, certifying, payroll, disbursing, and accounting officers", respectively, to preserve the application to members of the uniformed services who are excluded from the definition of "officer" and "employee".
+In subsection (b), the words "to which this chapter applies" are omitted as unnecessary in view of section 5102. The words "appropriate officials" and "administrative, certifying, payroll, disbursing, and accounting officials" are substituted for "appropriate officers and employees" and "administrative, certifying, payroll, disbursing, and accounting officers", respectively, to preserve the application to members of the uniformedservices who are excluded from the definition of "officer" and "employee".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

@@ -14,7 +14,7 @@ Section was formerly classified to section 3764 of Title 42, The Public Health a
 
 #### Prior Provisions
 
-A prior section 518 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat.214; Pub. L. 94–503, title I, §122(b), Oct. 15, 1976, 90 Stat. 2418, prohibited certain constructions of provisions of title I of Pub. L. 90–351, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+A prior section 518 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 214; Pub. L. 94–503, title I, §122(b), Oct. 15, 1976, 90 Stat. 2418, prohibited certain constructions of provisions of title I of Pub. L. 90–351, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 #### Amendments
 

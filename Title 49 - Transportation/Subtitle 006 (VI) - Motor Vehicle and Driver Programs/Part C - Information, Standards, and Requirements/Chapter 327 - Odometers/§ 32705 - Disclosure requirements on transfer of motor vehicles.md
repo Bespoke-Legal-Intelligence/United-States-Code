@@ -230,7 +230,7 @@ Subchapter 1 of chapter 96 of title 15 and section 7002(a) of title 15, referred
 
 Subsec. (b)(3)(A). Pub. L. 104–287, §5(62)(B), substituted "may not be licensed for use in a State unless" for "may be licensed for use in a State only if" in introductory provisions.
 
-<b>1994</b>—Subsec. (c)(2)(A). Pub. L. 103–429 amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: "the mileage disclosure requirements of subsection (a) of this section; and".
+<b>1994</b>—Subsec. (c)(2)(A). Pub. L. 103–429 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the mileage disclosure requirements of subsection (a) of this section; and".
 
 #### Effective Date of 2012 Amendment
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Regulations
 
-Pub. L. 103–272, §4(q), July 5, 1994, 108 Stat. 1371, provided that: "The revision of regulations, referred to in section 32705(b)(2)(A) of title 49, United States Code, as enacted by section 1 of this Act, that is required by section 7 of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) \[former 15 U.S.C. 1988(d)(1)(C), 1988 note\] shall be prescribed not later than May 28, 1991."
+Pub. L. 103–272, §4(q), July 5, 1994, 108 Stat. 1371, provided that: "The revision of regulations, referred to insection 32705(b)(2)(A) of title 49, United States Code, as enacted by section 1 of this Act, that is required by section 7 of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) \[former 15 U.S.C. 1988(d)(1)(C), 1988 note\] shall be prescribed not later than May 28, 1991."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

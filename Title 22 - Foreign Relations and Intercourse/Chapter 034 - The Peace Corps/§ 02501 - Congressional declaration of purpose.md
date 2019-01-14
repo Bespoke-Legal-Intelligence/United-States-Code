@@ -24,9 +24,13 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 Pub. L. 87–293, title I, §28, formerly §27, Sept. 22, 1961, 75 Stat. 625, as renumbered by Pub. L. 99–83, title XI, §1105(a)(1), Aug. 8, 1985, 99 Stat. 276, provided that: "This Act \[see Short Title note below\] shall take effect on the date of its enactment \[Sept. 22, 1961\]."
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–256, §1(a), Oct. 9, 2018, 132 Stat. 3650, provided that: "This Act \[enacting section 2504a of this title, amending sections 2504, 2506 to 2507e, 2509, and 2522 of this title and section 8142 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 2504 of this title\] may be cited as the 'Sam Farr and Nick Castle Peace Corps Reform Act of 2018'."
+
 #### Short Title of 2011 Amendment
 
-Pub. L. 112–57, §1, Nov. 21, 2011, 125 Stat. 736, provided that: "This Act \[enacting sections 2507a to 2507i of thistitle, amending sections 2504, 2506, 2507, and 2509 of this title, and enacting provisions set out as notes under sections 2503 and 2507a of this title\] may be cited as the 'Kate Puzey Peace Corps Volunteer Protection Act of 2011'."
+Pub. L. 112–57, §1, Nov. 21, 2011, 125 Stat. 736, provided that: "This Act \[enacting sections 2507a to 2507i of this title, amending sections 2504, 2506, 2507, and 2509 of this title, and enacting provisions set out as notes under sections 2503 and 2507a of this title\] may be cited as the 'Kate Puzey Peace Corps Volunteer Protection Act of 2011'."
 
 #### Short Title of 1978 Amendment
 
@@ -50,7 +54,7 @@ References.—Any reference before the date of enactment of this Act \[July 26, 
 
 #### Executive Order No. 10924
 
-Ex. Ord. No. 10924, Mar. 1, 1961, 26 F.R. 1789, relating to the establishment and administration of the Peace Corps, was superseded by Ex. Ord. No. 11041, Aug. 6, 1962, 27 F.R. 7859, formerly set out below.
+Ex. Ord. No. 10924, Mar. 1, 1961, 26 F.R. 1789, relating to the establishment and administration of the PeaceCorps, was superseded by Ex. Ord. No. 11041, Aug. 6, 1962, 27 F.R. 7859, formerly set out below.
 
 #### Executive Order No. 11041
 

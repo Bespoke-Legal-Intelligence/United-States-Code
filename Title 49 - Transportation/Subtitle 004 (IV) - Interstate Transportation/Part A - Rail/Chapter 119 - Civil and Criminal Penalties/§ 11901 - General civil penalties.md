@@ -10,7 +10,7 @@
 
 (e)(1) A person required under subchapter III of chapter 111 of this title to make, prepare, preserve, or submit to the Board a record concerning transportation subject to the jurisdiction of the Board under this part that does not make, prepare, preserve, or submit that record as required under that subchapter, is liable to the United States Government for a civil penalty of $500 for each violation.
 
-(2) A rail carrier providing transportation subject to the jurisdiction of the Board under this part, and a lessor, receiver, or trustee of thatrail carrier, violating section 11144(b)(1) of this title, is liable to the United States Government for a civil penalty of $100 for each violation.
+(2) A rail carrier providing transportation subject to the jurisdiction of the Board under this part, and a lessor, receiver, or trustee of that rail carrier, violating section 11144(b)(1) of this title, is liable to the United States Government for a civil penalty of $100 for each violation.
 
 (3) A rail carrier providing transportation subject to the jurisdiction of the Board under this part, a lessor, receiver, or trustee of that rail carrier, a person furnishing cars, and an officer, agent, or employee of one of them, required to make a report to the Board or answer a question that does not make the report or does not specifically, completely, and truthfully answer the question, is liable to the United States Government for a civil penalty of $100 for each violation.
 
@@ -26,5 +26,5 @@ A prior section 11901, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1455; Pub. L. 9
 
 #### Effective Date
 
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

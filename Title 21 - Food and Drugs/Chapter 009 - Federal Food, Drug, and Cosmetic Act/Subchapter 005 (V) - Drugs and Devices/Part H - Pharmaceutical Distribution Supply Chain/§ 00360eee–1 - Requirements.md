@@ -62,7 +62,7 @@
 
 #### (6) Wholesale distributor licenses
 
-&emsp;Notwithstanding section 360eee(9)(A) of this title, until the effective date of the wholesaledistributor licensing regulations under section 360eee–2 of this title, the term "licensed" or "authorized", as it relates to a wholesale distributor with respect to prescription drugs, shall mean a wholesale distributor with a valid license under State law.
+&emsp;Notwithstanding section 360eee(9)(A) of this title, until the effective date of the wholesale distributor licensing regulations under section 360eee–2 of this title, the term "licensed" or "authorized", as it relates to a wholesale distributor with respect to prescription drugs, shall mean a wholesale distributor with a valid license under State law.
 
 #### (7) Third-party logistics provider licenses
 
@@ -132,7 +132,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Upon making a determination that a product in the possession or control of the manufacturer is a suspect product, or upon receiving a request for verification from the Secretary that has made a determination that a product within the possession or control of a manufacturer is a suspect product, a manufacturer shall—
+&emsp;&emsp;&emsp;Upon making a determination that a product in the possession or control of the manufacturer is a suspect product, or uponreceiving a request for verification from the Secretary that has made a determination that a product within the possession or control of a manufacturer is a suspect product, a manufacturer shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) quarantine such product within the possession or control of the manufacturer from product intended for distribution until such product is cleared or dispositioned; and
 
@@ -184,7 +184,7 @@
 
 #### (C) Requests for verification
 
-&emsp;&emsp;Beginning 4 years after November 27, 2013, upon receiving a request for verification from an authorized repackager, wholesale distributor, or dispenser that is in possession or control of a product such person believes to be manufactured by such manufacturer, a manufacturer shall, not later than 24 hours after receiving the request for verification or in other such reasonable time as determined by the Secretary, based on the circumstances of the request, notify the person making the request whether the product identifier, including the standardized numerical identifier, that is the subject of the request corresponds to the product identifier affixed or imprinted by the manufacturer. If a manufacturer responding to a request for verification identifies a product identifier that does not correspond to that affixed or imprinted by the manufacturer, the manufacturer shall treat such product as suspect product and conduct an investigation as described in subparagraph (A). If the manufacturer has reason to believe the product is an illegitimate product, the manufacturer shall advise the person making the request of such belief at the time such manufacturer responds to the request for verification.
+&emsp;&emsp;Beginning 4 years after November 27, 2013, upon receiving a request for verification from an authorized repackager, wholesale distributor, or dispenser that is in possession or control of a product such person believes to be manufactured by such manufacturer, a manufacturer shall, not later than 24 hours after receiving the request for verification or in other such reasonable time as determined by the Secretary, based on the circumstances of the request, notify the person making the request whether the product identifier, including the standardized numerical identifier, that is the subject of the request corresponds to the product identifier affixed or imprinted by the manufacturer. If a manufacturer responding to a request forverification identifies a product identifier that does not correspond to that affixed or imprinted by the manufacturer, the manufacturer shall treat such product as suspect product and conduct an investigation as described in subparagraph (A). If the manufacturer has reason to believe the product is an illegitimate product, the manufacturer shall advise the person making the request of such belief at the time such manufacturer responds to the request for verification.
 
 #### (D) Electronic database
 
@@ -342,7 +342,7 @@
 
 #### (B) Agreements with third parties
 
-&emsp;&emsp;A dispenser may enter into a written agreement with a third party, including an authorized wholesale distributor, under which the third party confidentially maintains the transaction information, transaction history, and transaction statements required to be maintained under this subsection on behalf of the dispenser. If a dispenser enters into such an agreement, the dispenser shall maintain a copy of the written agreement and shall not be relieved of the obligations of the dispenser under this subsection.
+&emsp;&emsp;A dispenser may enter into a written agreement with a third party, including anauthorized wholesale distributor, under which the third party confidentially maintains the transaction information, transaction history, and transaction statements required to be maintained under this subsection on behalf of the dispenser. If a dispenser enters into such an agreement, the dispenser shall maintain a copy of the written agreement and shall not be relieved of the obligations of the dispenser under this subsection.
 
 #### (C) Returns
 

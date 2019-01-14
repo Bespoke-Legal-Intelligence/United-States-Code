@@ -18,7 +18,7 @@ For purposes of this section, the term "activity not engaged in for profit" mean
 
 #### (d) Presumption
 
-If the gross income derived from an activity for 3 or more of the taxable years in the period of 5 consecutive taxable years which ends with the taxable year exceeds the deductions attributable to such activity (determined without regard to whether or not such activity is engaged in for profit), then, unless the Secretary establishes to the contrary, such activity shall be presumed for purposes of this chapter for such taxable year to be an activity engaged in for profit. In the case of an activity which consists in major part of the breeding, training, showing, or racing of horses, the preceding sentence shall be applied by substituting "2" for "3" and "7" for "5".
+If the gross income derived from an activity for 3 or more of the taxable years in the period of 5 consecutive taxable years which ends with the taxable year exceeds the deductions attributable to such activity (determined without regard to whether or not such activity is engaged in for profit), then, unless the Secretary establishes to the contrary, such activity shall be presumed for purposes of this chapter for such taxable year to be an activity engaged in for profit. In the case of an activity which consistsin major part of the breeding, training, showing, or racing of horses, the preceding sentence shall be applied by substituting "2" for "3" and "7" for "5".
 
 #### (e) Special rule
 
@@ -36,7 +36,7 @@ If the gross income derived from an activity for 3 or more of the taxable years 
 
 #### (4) Time for assessing deficiency attributable to activity
 
-&emsp;If a taxpayer makes an election under paragraph (1) with respect to an activity, the statutory period for the assessment of any deficiency attributable to such activity shall not expire before the expiration of 2 years after the date prescribed by law (determined without extensions) for filing the return of taxunder chapter 1 for the last taxable year in the period of 5 taxable years (or 7 taxable years) to which the election relates. Such deficiency may be assessed notwithstanding the provisions of any law or rule of law which would otherwise prevent such an assessment.
+&emsp;If a taxpayer makes an election under paragraph (1) with respect to an activity, the statutory period for the assessment of any deficiency attributable to such activity shall not expire before the expiration of 2 years after the date prescribed by law (determined without extensions) for filing the return of tax under chapter 1 for the last taxable year in the period of 5 taxable years (or 7 taxable years) to which the election relates. Such deficiency may be assessed notwithstanding the provisions of any law or rule of law which would otherwise prevent such an assessment.
 
 (Added Pub. L. 91–172, title II, §213(a), Dec. 30, 1969, 83 Stat. 571; amended Pub. L. 92–178, title III, §311(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 94–455, title II, §214(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1549, 1834; Pub. L. 97–354, §5(a)(23), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 99–514, title I, §143(a), Oct. 22, 1986, 100 Stat. 2120; Pub. L. 100–647, title I, §1001(h)(3), Nov. 10, 1988, 102 Stat. 3352; Pub. L. 113–295, div. A, title II, §221(a)(36), Dec. 19, 2014, 128 Stat. 4042.)
 

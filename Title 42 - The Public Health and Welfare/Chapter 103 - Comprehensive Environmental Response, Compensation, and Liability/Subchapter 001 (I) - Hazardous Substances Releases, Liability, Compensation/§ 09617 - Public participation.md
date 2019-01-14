@@ -2,7 +2,7 @@
 
 #### (a) Proposed plan
 
-Before adoption of any plan for remedial action to be undertaken by the President, by aState, or by any other person, under section 9604, 9606, 9620, or 9622 of this title, the President or State, as appropriate, shall take both of the following actions:
+Before adoption of any plan for remedial action to be undertaken by the President, by a State, or by any other person, under section 9604, 9606, 9620, or 9622 of this title, the President or State, as appropriate, shall take both of the following actions:
 
 &emsp;(1) Publish a notice and brief analysis of the proposed plan and make such plan available to the public.
 

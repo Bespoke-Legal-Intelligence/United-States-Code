@@ -28,7 +28,7 @@ For purposes of this subtitle—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2008, the dollaramount in subparagraph (A) shall be increased by an amount equal to—
+&emsp;&emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2008, the dollar amount in subparagraph (A) shall be increased by an amount equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) such dollar amount, multiplied by
 
@@ -268,7 +268,7 @@ For purposes of this section—
 
 #### (6) Early distribution tax
 
-&emsp;The term "early distribution tax" means any increase in tax imposed under section 72(t), 220(e)(4),<sup>1</sup> 223(f)(4), 409A(a)(1)(B), 529(c)(6), 529A(c)(3), or 530(d)(4).
+&emsp;The term "early distribution tax" means any increase in tax imposed under section 72(t), 220(f)(4), 223(f)(4), 409A(a)(1)(B), 529(c)(6), 529A(c)(3), or 530(d)(4).
 
 #### (h) Other rules
 
@@ -286,23 +286,21 @@ For purposes of this section—
 
 #### (3) Coordination with section 684
 
-&emsp;If the expatriation of any individual would result in the recognition of gain under section684, this section shall be applied after the application of section 684.
+&emsp;If the expatriation of any individual would result in the recognition of gain under section 684, this section shall be applied after the application of section 684.
 
 #### (i) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 110–245, title III, §301(a), June 17, 2008, 122 Stat. 1638; amended Pub. L. 113–295, div. B, title I, §102(e)(2), Dec. 19, 2014, 128 Stat. 4062; Pub. L. 115–97, title I, §11002(d)(1)(BB), Dec. 22, 2017, 131 Stat. 2060.)
+(Added Pub. L. 110–245, title III, §301(a), June 17, 2008, 122 Stat. 1638; amended Pub. L. 113–295, div. B, title I, §102(e)(2), Dec. 19, 2014, 128 Stat. 4062; Pub. L. 115–97, title I, §11002(d)(1)(BB), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(a)(154), Mar. 23, 2018, 132 Stat. 1191.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
-#### References in Text
-
-Section 220(e), referred to in subsec. (g)(6), does not contain a par. (4).
-
 #### Amendments
+
+<b>2018</b>—Subsec. (g)(6). Pub. L. 115–141 substituted "220(f)(4)" for "220(e)(4)".
 
 <b>2017</b>—Subsec. (a)(3)(B)(i)(II). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B) thereof".
 
@@ -321,6 +319,4 @@ Amendment by Pub. L. 113–295 applicable to taxable years beginning after Dec. 
 #### Effective Date
 
 Section applicable to any individual whose expatriation date is on or after June 17, 2008, see section 301(g)(1) of Pub. L. 110–245, set out as a note under section 2801 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

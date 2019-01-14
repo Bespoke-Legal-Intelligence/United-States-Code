@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From the sums appropriated to carry out this subchapter for any fiscal year, the Secretary may reserve not more than 1 percent for payments to Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands in accordance with their respective needs for assistance under this subchapter.
+&emsp;From the sums appropriated to carry out this subchapter for any fiscal year, the Secretary may reserve not more than 1 percentfor payments to Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands in accordance with their respective needs for assistance under this subchapter.
 
 #### (2) Consolidation of funds
 
@@ -70,7 +70,7 @@
 
 #### (d) Reallotment of funds
 
-If a State elects not to receive its allotment under subsection (c), the Secretary shall reallot, among the remaining States, amounts from such State in accordance with such subsection.
+If a State elects not to receive its allotment under subsection (c), the Secretary shall reallot,among the remaining States, amounts from such State in accordance with such subsection.
 
 #### (e) Reservation for State incentive grants
 

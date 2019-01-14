@@ -4,7 +4,7 @@ In this part:
 
 #### (1) Capability
 
-&emsp;The term "capability" means the ability to provide the means to accomplish one or more tasks under specific conditions and to specificperformance standards. A capability may be achieved with any combination of properly planned, organized, equipped, trained, and exercised personnel that achieves the intended outcome.
+&emsp;The term "capability" means the ability to provide the means to accomplish one or more tasks under specific conditions and to specific performance standards. A capability may be achieved with any combination of properly planned, organized, equipped, trained, and exercised personnel that achieves the intended outcome.
 
 #### (2) Credentialed; credentialing
 

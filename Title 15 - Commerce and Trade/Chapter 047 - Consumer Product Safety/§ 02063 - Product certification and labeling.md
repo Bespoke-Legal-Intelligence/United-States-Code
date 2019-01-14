@@ -212,7 +212,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 #### (I) Ordinary book
 
-&emsp;&emsp;&emsp;&emsp;The term "ordinary book" means a book printed on paper or cardboard,printed with inks or toners, and bound and finished using a conventional method, and that is intended to be read or has educational value. Such term does not include books with inherent play value, books designed or intended for a child 3 years of age or younger, and does not include any toy or other article that is not a book that is sold or packaged with an ordinary book.
+&emsp;&emsp;&emsp;&emsp;The term "ordinary book" means a book printed on paper or cardboard, printed with inks or toners, and bound and finished using a conventional method, and that is intended to be read or has educational value. Such term does not include books with inherent play value, books designed or intended for a child 3 years of age or younger, and does not include any toy or other article that is not a book that is sold or packaged with an ordinary book.
 
 #### (II) Ordinary paper-based printed materials
 
@@ -288,7 +288,7 @@ In this section:
 
 #### (C) Testing and certification of art materials and products
 
-&emsp;&emsp;A certifying organization (as defined in appendix A to section 1500.14(b)(8) of title 16,Code of Federal Regulations (or any successor regulation or ruling)) meets the requirements of subparagraph (A) with respect to the certification of art material and art products required under this section or by regulations prescribed under the Federal Hazardous Substances Act (15 U.S.C. 1261 et seq.).
+&emsp;&emsp;A certifying organization (as defined in appendix A to section 1500.14(b)(8) of title 16, Code of Federal Regulations (or any successor regulation or ruling)) meets the requirements of subparagraph (A) with respect to the certification of art material and art products required under this section or by regulations prescribed under the Federal Hazardous Substances Act (15 U.S.C. 1261 et seq.).
 
 #### (D) Firewalled conformity assessment bodies
 
@@ -350,7 +350,7 @@ Subsec. (i). Pub. L. 112–28, §10(a), redesignated subsec. (d), relating to re
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–314, §102(a)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Every manufacturer of a product which is subject to a consumer product safety standard under this chapter and which is distributed in commerce (and the private labeler of such product if it bears a private label) shall issue a certificate which shall certify that such product conforms to all applicable consumer product safety standards, and shall specify any standard which is applicable. Such certificate shall accompany the product or shall otherwise be furnished to any distributor or retailer to whom the product is delivered. Any certificate under this subsection shall be based on a test of each product or upon a reasonable testing program; shall state the name of the manufacturer or private labeler issuing the certificate; and shall include the date and place of manufacture."
 
-Subsec. (a)(2), (3). Pub. L. 110–314, §102(a)(2), which directed amendment of par. (2) of this section by addingpars. (2) and (3), was executed by adding pars. (2) and (3) to subsec. (a) of this section, to reflect the probable intent of Congress. Former par. (2) redesignated (4).
+Subsec. (a)(2), (3). Pub. L. 110–314, §102(a)(2), which directed amendment of par. (2) of this section by adding pars. (2) and (3), was executed by adding pars. (2) and (3) to subsec. (a) of this section, to reflect the probable intent of Congress. Former par. (2) redesignated (4).
 
 Subsec. (a)(4). Pub. L. 110–314, §102(a)(3), substituted "required under paragraph (1), (2), or (3)" for "required by paragraph (1) of this subsection" and "requirement under paragraph (1), (2), or (3)" for "requirement under paragraph (1)".
 

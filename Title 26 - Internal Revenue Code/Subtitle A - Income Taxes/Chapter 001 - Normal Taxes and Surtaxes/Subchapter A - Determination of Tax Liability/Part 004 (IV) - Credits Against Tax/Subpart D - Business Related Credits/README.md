@@ -7,12 +7,6 @@ Subpart D—Business Related Credits
 | [40\.](%C2%A7%2000040%20-%20Alcohol%2C%20etc.%2C%20used%20as%20fuel.md) | Alcohol, etc., used as fuel. |
 | [40A.](%C2%A7%2000040A%20-%20Biodiesel%20and%20renewable%20diesel%20used%20as%20fuel.md) | Biodiesel and renewable diesel used as fuel. |
 | [41\.](%C2%A7%2000041%20-%20Credit%20for%20increasing%20research%20activities.md) | Credit for increasing research activities. |
-| 41\.<sup>1</sup> | Employee stock ownership credit. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
 | [42\.](%C2%A7%2000042%20-%20Low-income%20housing%20credit.md) | Low-income housing credit. |
 | [43\.](%C2%A7%2000043%20-%20Enhanced%20oil%20recovery%20credit.md) | Enhanced oil recovery credit. |
 | [44\.](%C2%A7%2000044%20-%20Expenditures%20to%20provide%20access%20to%20disabled%20individuals.md) | Expenditures to provide access to disabled individuals. |
@@ -27,25 +21,22 @@ Subpart D—Business Related Credits
 | [45G.](%C2%A7%2000045G%20-%20Railroad%20track%20maintenance%20credit.md) | Railroad track maintenance credit. |
 | [45H.](%C2%A7%2000045H%20-%20Credit%20for%20production%20of%20low%20sulfur%20diesel%20fuel.md) | Credit for production of low sulfur diesel fuel. |
 | [45I.](%C2%A7%2000045I%20-%20Credit%20for%20producing%20oil%20and%20gas%20from%20marginal%20wells.md) | Credit for producing oil and gas from marginal wells. |
-| 45K.<sup>2</sup> | Credit for producing fuel from a nonconventional source. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
 | [45J.](%C2%A7%2000045J%20-%20Credit%20for%20production%20from%20advanced%20nuclear%20power%20facilities.md) | Credit for production from advanced nuclear power facilities. |
+| [45K.](%C2%A7%2000045K%20-%20Credit%20for%20producing%20fuel%20from%20a%20nonconventional%20source.md) | Credit for producing fuel from a nonconventional source. |
 | [45L.](%C2%A7%2000045L%20-%20New%20energy%20efficient%20home%20credit.md) | New energy efficient home credit. |
-| [45M.](%C2%A7%2000045M%20-%20Energy%20efficient%20appliance%20credit.md) | Energy efficient appliance credit. |
+| \[45M. | Repealed.\] |
 | [45N.](%C2%A7%2000045N%20-%20Mine%20rescue%20team%20training%20credit.md) | Mine rescue team training credit. |
 | [45O.](%C2%A7%2000045O%20-%20Agricultural%20chemicals%20security%20credit.md) | Agricultural chemicals security credit. |
 | [45P.](%C2%A7%2000045P%20-%20Employer%20wage%20credit%20for%20employees%20who%20are%20active%20duty%20members%20of%20the%20uniformed%20services.md) | Employer wage credit for employees who are active duty members of the uniformed services. |
-| [45Q.](%C2%A7%2000045Q%20-%20Credit%20for%20carbon%20dioxide%20sequestration.md) | Credit for carbon dioxide sequestration. |
+| [45Q.](%C2%A7%2000045Q%20-%20Credit%20for%20carbon%20oxide%20sequestration.md) | Credit for carbon dioxide sequestration. |
 | [45R.](%C2%A7%2000045R%20-%20Employee%20health%20insurance%20expenses%20of%20small%20employers.md) | Employee health insurance expenses of small employers. |
 | [45S.](%C2%A7%2000045S%20-%20Employer%20credit%20for%20paid%20family%20and%20medical%20leave.md) | Employer credit for paid family and medical leave. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(7), (d)(2)(A), Mar. 23, 2018, 132 Stat. 1184, 1208, struck out item 41 "Employee stock ownership credit" and item45M "Energy efficient appliance credit" and transferred item 45K to appear after item 45J.
 
 <b>2017</b>—Pub. L. 115–97, title I, §13403(d)(3), Dec. 22, 2017, 131 Stat. 2138, added item 45S.
 
@@ -83,10 +74,6 @@ Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 
 
 <b>1984</b>—Pub. L. 98–369, div. A, title IV, §471(b), July 18, 1984, 98 Stat. 826, added subpart D heading and analysis of sections for subpart D, consisting of items 38 (new), 39 (new), 40 (formerly 44E), and 41 (formerly 44G). Former subpart D was redesignated F.
 
-<i><sup>1</sup></i><i> Section 41 repealed by Pub. L. 99–514 without corresponding amendment of subpart analysis.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should follow item 45J.</i>
-
 
 ---
 
@@ -121,10 +108,10 @@ Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 
 - [&sect; 00045J - Credit for production from advanced nuclear power facilities](%C2%A7%2000045J%20-%20Credit%20for%20production%20from%20advanced%20nuclear%20power%20facilities.md)
 - [&sect; 00045K - Credit for producing fuel from a nonconventional source](%C2%A7%2000045K%20-%20Credit%20for%20producing%20fuel%20from%20a%20nonconventional%20source.md)
 - [&sect; 00045L - New energy efficient home credit](%C2%A7%2000045L%20-%20New%20energy%20efficient%20home%20credit.md)
-- [&sect; 00045M - Energy efficient appliance credit](%C2%A7%2000045M%20-%20Energy%20efficient%20appliance%20credit.md)
+- [&sect; 00045M - Repealed. Pub. L. 115&#8211;141, div. U, title IV, &sect;401(d)(2)(A), Mar. 23, 2018, 132 Stat. 1208](%C2%A7%2000045M%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93141%2C%20div.%20U%2C%20title%20IV%2C%20%C2%A7401%28d%29%282%29%28A%29%2C%20Mar.%2023%2C%202018%2C%20132%20Stat.%201208.md)
 - [&sect; 00045N - Mine rescue team training credit](%C2%A7%2000045N%20-%20Mine%20rescue%20team%20training%20credit.md)
 - [&sect; 00045O - Agricultural chemicals security credit](%C2%A7%2000045O%20-%20Agricultural%20chemicals%20security%20credit.md)
 - [&sect; 00045P - Employer wage credit for employees who are active duty members of the uniformed services](%C2%A7%2000045P%20-%20Employer%20wage%20credit%20for%20employees%20who%20are%20active%20duty%20members%20of%20the%20uniformed%20services.md)
-- [&sect; 00045Q - Credit for carbon dioxide sequestration](%C2%A7%2000045Q%20-%20Credit%20for%20carbon%20dioxide%20sequestration.md)
+- [&sect; 00045Q - Credit for carbon oxide sequestration](%C2%A7%2000045Q%20-%20Credit%20for%20carbon%20oxide%20sequestration.md)
 - [&sect; 00045R - Employee health insurance expenses of small employers](%C2%A7%2000045R%20-%20Employee%20health%20insurance%20expenses%20of%20small%20employers.md)
 - [&sect; 00045S - Employer credit for paid family and medical leave](%C2%A7%2000045S%20-%20Employer%20credit%20for%20paid%20family%20and%20medical%20leave.md)

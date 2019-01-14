@@ -10,7 +10,7 @@ Part II—Other Programs
 - [Subpart 003 (iii) - Shelter and Other Credit Guaranty Programs](Subpart%20003%20%28iii%29%20-%20Shelter%20and%20Other%20Credit%20Guaranty%20Programs/README.md)
 - [Subpart 004 (iv) - Overseas Private Investment Corporation](Subpart%20004%20%28iv%29%20-%20Overseas%20Private%20Investment%20Corporation/README.md)
 - [Subpart 005 (v) - Disadvantaged Children in Asia](Subpart%20005%20%28v%29%20-%20Disadvantaged%20Children%20in%20Asia/README.md)
-- [Subpart 006 (vi) - Microenterprise Development Assistance](Subpart%20006%20%28vi%29%20-%20Microenterprise%20Development%20Assistance/README.md)
+- [Subpart 006 (vi) - Development Assistance for Micro, Small, and Medium-Sized Enterprises](Subpart%20006%20%28vi%29%20-%20Development%20Assistance%20for%20Micro%2C%20Small%2C%20and%20Medium-Sized%20Enterprises/README.md)
 - [Subpart 007 (vii) - Evaluation of Programs](Subpart%20007%20%28vii%29%20-%20Evaluation%20of%20Programs/README.md)
 - [Subpart 008 (viii) - Southeast Asia Multilateral and Regional Programs](Subpart%20008%20%28viii%29%20-%20Southeast%20Asia%20Multilateral%20and%20Regional%20Programs/README.md)
 - [Subpart 009 (ix) - Utilization of Democratic Institutions in Development](Subpart%20009%20%28ix%29%20-%20Utilization%20of%20Democratic%20Institutions%20in%20Development/README.md)

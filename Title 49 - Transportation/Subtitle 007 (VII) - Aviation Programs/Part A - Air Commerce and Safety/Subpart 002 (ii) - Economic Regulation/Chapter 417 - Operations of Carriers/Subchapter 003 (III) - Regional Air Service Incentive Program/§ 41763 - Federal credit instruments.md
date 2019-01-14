@@ -34,7 +34,7 @@ Subordination.—The secured loan may be subordinate to claims of other holders 
 
 &emsp;&emsp;(E)
 
-Fees.—The Secretary, subject to appropriations, may establish fees at a level sufficient to cover all or a portion of the administrative costs to the United States Government of making a secured loan under this section. The proceeds of such fees shall be deposited in an account to be used by the Secretary for the purpose of administering the program established under this subchapter and shall be available upon deposit until expended.
+Fees.—The Secretary, subject to appropriations, may establish fees at a levelsufficient to cover all or a portion of the administrative costs to the United States Government of making a secured loan under this section. The proceeds of such fees shall be deposited in an account to be used by the Secretary for the purpose of administering the program established under this subchapter and shall be available upon deposit until expended.
 
 &emsp;(2)
 
@@ -150,7 +150,7 @@ Schedule.—The Secretary shall establish a repayment schedule for each direct l
 
 &emsp;&emsp;(B)
 
-Commencement.—Scheduled loan repayments of principal or interest on a direct loan under this subsection shall commence no later than 3 years after the date of the first draw on the line of credit and shall be repaid, with interest, not later than 18 years after the date of the first draw.
+Commencement.—Scheduled loan repayments of principal or interest on a direct loan under this subsection shall commence no later than 3 years after the date of the first draw on the line of credit and shall berepaid, with interest, not later than 18 years after the date of the first draw.
 
 (e)
 
@@ -191,4 +191,8 @@ Requirement.—Subject to subsection (i), no Federal credit instrument may be ma
 Other Limitations.—No Federal credit instrument shall be made by the Secretary under this section for the purchase of a regional jet aircraft unless the commuter air carrier or new entrant air carrier enters into a legally binding agreement that requires the carrier to provide scheduled passenger air transportation to the underserved market for which the aircraft is purchased for a period of not less than 36 consecutive months after the date that aircraft is placed in service.
 
 (Added Pub. L. 106–181, title II, §210(a), Apr. 5, 2000, 114 Stat. 97.)
+
+#### Effective Date
+
+Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of this title.
 

@@ -92,7 +92,7 @@ Nothing in this section shall be construed—
 
 #### (A) Development of indicators and standards
 
-&emsp;&emsp;The Secretary, in consultation with the Native American Employment and Training Council, shall develop a set of performance indicators and standards that is in addition to the primary indicators of performance described in section 3141(b)(2)(A) of this title and that shall be applicable to programs under this section.
+&emsp;&emsp;The Secretary, in consultation with the Native American Employment and Training Council, shall develop a set of performanceindicators and standards that is in addition to the primary indicators of performance described in section 3141(b)(2)(A) of this title and that shall be applicable to programs under this section.
 
 #### (B) Special considerations
 
@@ -112,7 +112,7 @@ Nothing in this section shall be construed—
 
 #### (1) Organizational unit established
 
-&emsp;The Secretary shall designate a single organizational unit within the Department ofLabor that shall have primary responsibility for the administration of the activities authorized under this section.
+&emsp;The Secretary shall designate a single organizational unit within the Department of Labor that shall have primary responsibility for the administration of the activities authorized under this section.
 
 #### (2) Regulations
 
@@ -188,7 +188,7 @@ Grants made and contracts and cooperative agreements entered into under this sec
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, the Secretary is authorized to award grants, on a competitive basis, to entities with demonstrated experience and expertise in developing and implementing programs for the unique populations who reside in Alaska or Hawaii, including public and private nonprofit organizations, tribal organizations, American Indiantribal colleges or universities, institutions of higher education, or consortia of such organizations or institutions, to improve job training and workforce investment activities for such unique populations.
+&emsp;Notwithstanding any other provision of law, the Secretary is authorized to award grants, on a competitive basis, to entities with demonstrated experience and expertise in developing and implementing programs for the unique populations who reside in Alaska or Hawaii, including public and private nonprofit organizations, tribal organizations, American Indian tribal colleges or universities, institutions of higher education, or consortia of such organizations or institutions, to improve job training and workforce investment activities for such unique populations.
 
 #### (2) Authorization of appropriations
 

@@ -20,7 +20,7 @@ The Congress finds the following:
 
 &emsp;(9) The commitments that the People's Republic of China made in its November 15, 1999, agreement with the United States promise to eliminate or greatly reduce the principal barriers to trade with and investment in the People's Republic of China, if those commitments are effectively complied with and enforced.
 
-&emsp;(10) The record of the People's Republic of China in implementing trade-related commitments has been mixed. While the People's Republic of China has generally met the requirements of the 1992 market access memorandum of understanding and the 1992 and 1995 agreements on intellectual property rights protection, other measures remain in place or have been put into place which tend to diminish the benefit to United States businesses, farmers, and workers from the People's Republic of China's implementation of those earlier commitments. Notably, administration of tariff-rate quotas and other trade-related laws remains opaque, new local content requirements have proliferated, restrictions on importation of animal and plant products are not always supported by sound science, and licensing requirements for importation and distribution of goods remain common. Finally, the Government of the People's Republic of China has failed to cooperate with the United States Customs Service in implementing a 1992 memorandum of understanding prohibiting trade in products made by prison labor.
+&emsp;(10) The record of the People's Republic of China in implementing trade-related commitments has been mixed. While the People's Republic of China has generally met the requirements of the 1992 market access memorandum of understanding and the 1992 and 1995 agreements on intellectual property rights protection, other measures remain in place or have been put into place which tend to diminish the benefit to United States businesses, farmers, and workers from the People's Republic of China's implementation of those earlier commitments. Notably, administration of tariff-rate quotas and other trade-related laws remains opaque, new local content requirements have proliferated, restrictions on importation of animal and plant products are not always supported by sound science, and licensing requirements for importation and distribution of goods remain common. Finally, the Government of the People's Republic of China has failed to cooperate with the United States Customs Service in implementing a 1992memorandum of understanding prohibiting trade in products made by prison labor.
 
 &emsp;(11) The human rights record of the People's Republic of China is a matter of very serious concern to the Congress. The Congress notes that the Department of State's 1999 Country Reports on Human Rights Practices for the People's Republic of China finds that "\[t\]he Government's poor human rights record deteriorated markedly throughout the year, as the Government intensified efforts to suppress dissent, particularly organized dissent.".
 
@@ -66,7 +66,7 @@ Agreement Defined.—For purposes of this section, the term 'Agreement' means th
 
 "(d)
 
-Interagency Working Group.—The President shall establish an interagency working group to oversee the implementation of the Agreement by departments and agencies of the United States. The workinggroup shall consist of representatives of such departments, agencies, and offices of the executive branch as the President considers appropriate. The working group shall perform the following functions:
+Interagency Working Group.—The President shall establish an interagency working group to oversee the implementation of the Agreement by departments and agencies of the United States. The working group shall consist of representatives of such departments, agencies, and offices of the executive branch as the President considers appropriate. The working group shall perform the following functions:
 
 &emsp;"(1) Assisting the Secretary of State and other appropriate officials in setting standards under the Agreement for science and technology transfers between the United States and the People's Republic of China.
 
@@ -210,7 +210,7 @@ Duties and Responsibilities.—The Special Coordinator shall—
 
 &emsp;"(2) vigorously promote the policy of seeking to protect the distinct religious, cultural, linguistic, and national identity of Tibet, and pressing for improved respect for human rights;
 
-&emsp;"(3) maintain close contact with religious, cultural, and political leaders of the Tibetan people, including regular travel to Tibetan areas of the People's Republic of China, and to Tibetan refugee settlements in India and Nepal;
+&emsp;"(3) maintain close contact with religious, cultural, and political leaders of the Tibetan people, includingregular travel to Tibetan areas of the People's Republic of China, and to Tibetan refugee settlements in India and Nepal;
 
 &emsp;"(4) consult with Congress on policies relevant to Tibet and the future and welfare of the Tibetan people;
 
@@ -276,7 +276,7 @@ Export Controls.—
 
 &emsp;"(1)
 
-In general.—The export control laws, regulations, and practices of the United States shall applyto Macau in the same manner and to the same extent that such laws, regulations, and practices apply to the People's Republic of China, and in no case shall such laws, regulations, and practices be applied less restrictively to exports to Macau than to exports to the People's Republic of China.
+In general.—The export control laws, regulations, and practices of the United States shall apply to Macau in the same manner and to the same extent that such laws, regulations, and practices apply to the People's Republic of China, and in no case shall such laws, regulations, and practices be applied less restrictively to exports to Macau than to exports to the People's Republic of China.
 
 &emsp;"(2)
 

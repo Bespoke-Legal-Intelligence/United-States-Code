@@ -65,7 +65,7 @@
 | [1298\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001298%20-%20Cost%20effectiveness.md) | Cost effectiveness. |
 | [1299\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001299%20-%20State%20certification%20of%20projects.md) | State certification of projects. |
 | [1300\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001300%20-%20Pilot%20program%20for%20alternative%20water%20source%20projects.md) | Pilot program for alternative water source projects. |
-| [1301\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001301%20-%20Sewer%20overflow%20control%20grants.md) | Sewer overflow control grants. |
+| [1301\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001301%20-%20Sewer%20overflow%20and%20stormwater%20reuse%20municipal%20grants.md) | Sewer overflow and stormwater reuse municipal grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -77,7 +77,8 @@
 | [1312\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001312%20-%20Water%20quality%20related%20effluent%20limitations.md) | Water quality related effluent limitations. |
 | [1313\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001313%20-%20Water%20quality%20standards%20and%20implementation%20plans.md) | Water quality standards and implementation plans. |
 | [1313a.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001313a%20-%20Revised%20water%20quality%20standards.md) | Revised water quality standards. |
-| [1314\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001314%20-%20Information%20and%20guidelines.md) | Information and guidelines |
+| [1314\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001314%20-%20Information%20and%20guidelines.md) | Information and guidelines. |
+| [1314a.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001314a%20-%20Wastewater%20technology%20clearinghouse.md) | Wastewater technology clearinghouse. |
 | [1315\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001315%20-%20State%20reports%20on%20water%20quality.md) | State reports on water quality. |
 | [1316\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001316%20-%20National%20standards%20of%20performance.md) | National standards of performance. |
 | [1317\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001317%20-%20Toxic%20and%20pretreatment%20effluent%20standards.md) | Toxic and pretreatment effluent standards. |
@@ -88,7 +89,7 @@
 | [1321a.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001321a%20-%20Prevention%20of%20small%20oil%20spills.md) | Prevention of small oil spills. |
 | [1321b.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001321b%20-%20Improved%20coordination%20with%20tribal%20governments.md) | Improved coordination with tribal governments. |
 | [1321c.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001321c%20-%20International%20efforts%20on%20enforcement.md) | International efforts on enforcement. |
-| [1322\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001322%20-%20Marine%20sanitation%20devices.md) | Marine sanitation devices. |
+| [1322\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001322%20-%20Marine%20sanitation%20devices%3B%20discharges%20incidental%20to%20the%20normal%20operation%20of%20vessels.md) | Marine sanitation devices; discharges incidental to the normal operation of vessels. |
 | [1323\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001323%20-%20Federal%20facilities%20pollution%20control.md) | Federal facilities pollution control. |
 | [1324\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001324%20-%20Clean%20lakes.md) | Clean lakes. |
 | [1325\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001325%20-%20National%20Study%20Commission.md) | National Study Commission. |
@@ -135,6 +136,7 @@
 | [1375a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001375a%20-%20Report%20on%20coastal%20recreation%20waters.md) | Report on coastal recreation waters. |
 | [1376\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001376%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1377\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001377%20-%20Indian%20tribes.md) | Indian tribes. |
+| [1377a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001377a%20-%20Green%20infrastructure%20promotion.md) | Green infrastructure promotion. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -155,7 +157,7 @@
 
 #### Codification
 
-The Federal Water Pollution Control Act, comprising this chapter, was originally enacted by act June 30, 1948, ch. 758, 62 Stat. 1155, and amended by acts July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, §§1, 2, 70 Stat. 498–507; June 25, 1959, Pub. L. 86–70, 73 Stat. 141; July 12, 1960, Pub. L. 86–624, 74 Stat. 411; July 20, 1961, Pub. L. 87–88, 75 Stat. 204; Oct. 2, 1965, Pub. L. 89–234, 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, 80 Stat. 1246; Apr. 3, 1970, Pub. L. 91–224, 84 Stat. 91; Dec. 31, 1970, Pub. L. 91–611, 84 Stat. 1818; July 9, 1971, Pub. L. 92–50, 85 Stat. 124; Oct. 13, 1971, Pub. L. 92–137, 85 Stat. 379; Mar. 1, 1972, Pub. L. 92–240, 86 Stat. 47, and was formerly classified first to section 466 et seq. of this title and later to section 1151 et seq. of this title. The act is shown herein, however, as having been added by Pub. L. 92–500 without reference to such intervening amendments because of the extensive amendment, reorganization, and expansion of the act's provisions by Pub. L. 92–500.
+The Federal Water Pollution Control Act, comprising this chapter, was originally enacted by act June 30, 1948, ch. 758, 62 Stat. 1155, and amended by acts July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, §§1, 2, 70 Stat. 498–507; June 25, 1959, Pub. L. 86–70, 73 Stat. 141; July 12, 1960, Pub. L. 86–624, 74 Stat. 411; July 20, 1961, Pub. L. 87–88, 75 Stat. 204; Oct. 2, 1965, Pub. L. 89–234, 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, 80 Stat. 1246; Apr. 3, 1970, Pub. L. 91–224, 84 Stat. 91; Dec. 31, 1970, Pub. L. 91–611, 84 Stat. 1818; July 9, 1971, Pub. L. 92–50, 85 Stat. 124; Oct. 13, 1971, Pub. L. 92–137, 85 Stat. 379; Mar. 1,1972, Pub. L. 92–240, 86 Stat. 47, and was formerly classified first to section 466 et seq. of this title and later to section 1151 et seq. of this title. The act is shown herein, however, as having been added by Pub. L. 92–500 without reference to such intervening amendments because of the extensive amendment, reorganization, and expansion of the act's provisions by Pub. L. 92–500.
 
 
 ---

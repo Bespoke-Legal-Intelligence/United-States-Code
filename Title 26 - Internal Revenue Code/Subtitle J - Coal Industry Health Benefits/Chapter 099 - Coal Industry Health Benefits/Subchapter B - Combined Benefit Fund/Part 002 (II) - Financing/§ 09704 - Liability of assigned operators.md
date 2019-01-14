@@ -50,11 +50,11 @@ The death benefit premium for any plan year for any assigned operator shall be e
 
 #### (A) In general
 
-&emsp;&emsp;For plan years beginning on or after October 1, 2006, subject to subparagraph (B), there shall be no unassigned beneficiaries premium, and benefit costs with respect to eligible beneficiaries who are not assigned under section 9706 to any person for any such plan year shall be paid from amounts transferred under section 9705(b).
+&emsp;&emsp;For plan years beginning on or after October 1, 2006, subject to subparagraph (B),there shall be no unassigned beneficiaries premium, and benefit costs with respect to eligible beneficiaries who are not assigned under section 9706 to any person for any such plan year shall be paid from amounts transferred under section 9705(b).
 
 #### (B) Inadequate transfers
 
-&emsp;&emsp;If, for any plan year beginning on or after October 1, 2006, the amounts transferred under section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232)),<sup>1</sup> then the unassigned beneficiaries premium for any assigned operator shall be equal to the operator's applicable percentage of the amount required to be so transferred which was not so transferred.
+&emsp;&emsp;If, for any plan year beginning on or after October 1, 2006, the amounts transferred under section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232), then the unassigned beneficiaries premium for any assigned operator shall be equal to the operator's applicable percentage of the amount required to be so transferred which was not so transferred.
 
 #### (e) Premium accounts; adjustments
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 #### (h) Information
 
-The trustees of the Combined Fund shall, not later than 60 days after the enactment date, furnish to the Commissioner of Social Security information as to the benefits and covered beneficiaries under the fund, and such other information as the Secretary <sup>2</sup> may require to compute any premium under this section.
+The trustees of the Combined Fund shall, not later than 60 days after the enactment date, furnish to the Commissioner of Social Security information as to the benefits and covered beneficiaries under the fund, and such other information as the Secretary <sup>1</sup> may require to compute any premium under this section.
 
 #### (i) Transition rules
 
@@ -136,7 +136,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### (C) Failure
 
-&emsp;&emsp;If any 1988 agreement operator fails to meet any obligation under this paragraph,any contributions of such operator to the Combined Fund or any other plan described in section 404(c) shall not be deductible under this title until such time as the failure is corrected.
+&emsp;&emsp;If any 1988 agreement operator fails to meet any obligation under this paragraph, any contributions of such operator to the Combined Fund or any other plan described in section 404(c) shall not be deductible under this title until such time as the failure is corrected.
 
 #### (D) Premium reductions
 
@@ -220,7 +220,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 &emsp;A payment meets the requirements of this paragraph if—
 
-&emsp;&emsp;(A) the amount of the payment is not less than the present value of the total premium liability under this chapter with respect to the Combined Fund of the assigned operators or related persons described in paragraph (1) or their assignees, as determined by the operator's or related person's enrolled actuary (as defined in section 7701(a)(35))using actuarial methods and assumptions each of which is reasonable and which are reasonable in the aggregate, as determined by such enrolled actuary;
+&emsp;&emsp;(A) the amount of the payment is not less than the present value of the total premium liability under this chapter with respect to the Combined Fund of the assigned operators or related persons described in paragraph (1) or their assignees, as determined by the operator's or related person's enrolled actuary (as defined in section 7701(a)(35)) using actuarial methods and assumptions each of which is reasonable and which are reasonable in the aggregate, as determined by such enrolled actuary;
 
 &emsp;&emsp;(B) such enrolled actuary files with the Secretary of Labor a signed actuarial report containing—
 
@@ -242,13 +242,15 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 > &emsp;Upon termination of the obligations for the premium liability of any assigned operator or related person for which such account is maintained, all funds remaining in such account (and earnings thereon) shall be refunded to such person as may be designated by the common parent described in paragraph (1)(B).
 
-(Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3042; amended Pub. L. 103–296, title I, §108(h)(9)(A), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 109–432, div. C, title II, §§211(a), 212(a)(2), Dec. 20, 2006, 120 Stat. 3020, 3024.)
+(Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3042; amended Pub. L. 103–296, title I, §108(h)(9)(A), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 109–432, div. C, title II, §§211(a), 212(a)(2), Dec. 20, 2006, 120 Stat. 3020, 3024; Pub. L. 115–141, div. U, title IV, §401(a)(344), Mar. 23, 2018, 132 Stat. 1200.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(2)(B). Pub. L. 115–141 substituted "1232)," for "1232)),".
 
 <b>2006</b>—Subsec. (d). Pub. L. 109–432, §212(a)(2)(A), reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: "The unassigned beneficiaries premium for any plan year for any assigned operator shall be equal to the applicable percentage of the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries who are not assigned under section 9706 to any person for such plan year."
 
@@ -270,7 +272,5 @@ Pub. L. 109–432, div. C, title II, §212(a)(4), Dec. 20, 2006, 120 Stat. 3025,
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
-<i><sup>1</sup></i><i> So in original. Second closing parenthesis probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "Commissioner".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Commissioner".</i>
 

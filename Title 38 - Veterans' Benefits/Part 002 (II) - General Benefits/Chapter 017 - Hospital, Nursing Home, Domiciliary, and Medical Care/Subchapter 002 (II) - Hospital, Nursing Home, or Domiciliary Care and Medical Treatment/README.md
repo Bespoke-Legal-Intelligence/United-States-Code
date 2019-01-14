@@ -36,3 +36,4 @@
 - [&sect; 01720F - Comprehensive program for suicide prevention among veterans](%C2%A7%2001720F%20-%20Comprehensive%20program%20for%20suicide%20prevention%20among%20veterans.md)
 - [&sect; 01720G - Assistance and support services for caregivers](%C2%A7%2001720G%20-%20Assistance%20and%20support%20services%20for%20caregivers.md)
 - [&sect; 01720H - Mental health treatment for veterans who served in classified missions](%C2%A7%2001720H%20-%20Mental%20health%20treatment%20for%20veterans%20who%20served%20in%20classified%20missions.md)
+- [&sect; 01720I - Mental and behavioral health care for certain former members of the Armed Forces](%C2%A7%2001720I%20-%20Mental%20and%20behavioral%20health%20care%20for%20certain%20former%20members%20of%20the%20Armed%20Forces.md)

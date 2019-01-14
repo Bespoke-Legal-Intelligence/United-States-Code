@@ -24,7 +24,7 @@
 
 &emsp;(A) the master or individual in charge of the vessel;
 
-&emsp;(B) any person that recorded under section 31343(a) or (d) of this title an unexpired noticeof a claim of an undischarged lien on the vessel; and
+&emsp;(B) any person that recorded under section 31343(a) or (d) of this title an unexpired notice of a claim of an undischarged lien on the vessel; and
 
 &emsp;(C) a mortgagee of a mortgage filed or recorded under section 31321 of this title that is an undischarged mortgage on the vessel.
 
@@ -40,7 +40,7 @@
 
 (f)(1) Before title to the documented vessel or vessel for which an application for documentation is filed under chapter 121 is transferred by an extrajudicial remedy, the person exercising the remedy shall give notice of the proposed transfer to the Secretary, to the mortgagee of any mortgage on the vessel filed in substantial compliance with section 31321 of this title before notice of the proposed transfer is given to the Secretary, and to any person that recorded an unexpired notice of a claim of an undischarged lien on the vessel under section 31343(a) or (d) of this title before notice of the proposed transfer is given to the Secretary.
 
-(2) Failure to give notice as required by this subsection shall not affect the transfer of title to a vessel. However, the rights of any holder of a maritime lien or a preferred mortgage on the vessel shall not be affected by a transfer of title by an extrajudicial remedy exercised under this section, regardless of whether notice is required by this subsection or given.
+(2) Failure to give notice as required by this subsection shall not affect the transfer of titleto a vessel. However, the rights of any holder of a maritime lien or a preferred mortgage on the vessel shall not be affected by a transfer of title by an extrajudicial remedy exercised under this section, regardless of whether notice is required by this subsection or given.
 
 (3) The Secretary shall prescribe regulations establishing the time and manner for providing notice under this subsection.
 
@@ -94,7 +94,7 @@ Subsection (e) provides that, in a civil action <i>in rem</i>, the court may app
 
 #### house floor statement
 
-Subsection (c) of this section clarifies that the district courts have original jurisdiction for a civil actionunder subsection (b) of this section, and exclusive jurisdiction in the case of vessels documented or to be documented under chapter 121 of title 46.
+Subsection (c) of this section clarifies that the district courts have original jurisdiction for a civil action under subsection (b) of this section, and exclusive jurisdiction in the case of vessels documented or to be documented under chapter 121 of title 46.
 
 #### Amendments
 

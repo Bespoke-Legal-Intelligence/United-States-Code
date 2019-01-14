@@ -2,7 +2,7 @@
 
 (a)(1) For the purpose of obtaining adequate numbers of commissioned officers on active duty who are qualified (A) in the various health professions or (B) as a health professional with specific skills to assist in providing mental health care to members of the armed forces, the Secretary of each military department, under regulations prescribed by the Secretary of Defense, may establish and maintain a health professions scholarship and financial assistance program for his department.
 
-(2) Under the program of a military department, the Secretary of that military department shall allocate a portion of the total number of scholarships to members of the program described in paragraph (1)(B) for the purpose of assisting such members to pursue a degree at the masters and doctoral level in any of the following disciplines:
+(2) Under the program of a military department, the Secretary of that military department shall allocate a portion of the total number of scholarships to members of the programdescribed in paragraph (1)(B) for the purpose of assisting such members to pursue a degree at the masters and doctoral level in any of the following disciplines:
 
 &emsp;(A) Social work.
 
@@ -42,7 +42,7 @@
 
 Subsec. (b). Pub. L. 101–189, §725(b)(2), substituted "study and specialized training" for "study".
 
-Subsec. (c). Pub. L. 101–189, §725(b)(3), substituted "pursuing a course of study" for "of the program" andinserted after second sentence "Members pursuing specialized training shall serve on active duty in a pay grade commensurate with their educational level, as determined by appointment under sections 3353, 5600, or 8353 of this title, with full pay and allowances of that grade for a period of 14 days during each year of participation in the program."
+Subsec. (c). Pub. L. 101–189, §725(b)(3), substituted "pursuing a course of study" for "of the program" and inserted after second sentence "Members pursuing specialized training shall serve on active duty in a pay grade commensurate with their educational level, as determined by appointment under sections 3353, 5600, or 8353 of this title, with full pay and allowances of that grade for a period of 14 days during each year of participation in the program."
 
 <b>1983</b>—Subsec. (d). Pub. L. 98–94 amended subsec. (d) generally, substituting "a stipend at the rate of $579 per month" for "a stipend at the rate in effect under paragraph (1)(B) of section 751(g) of the Public Health Service Act (42 U.S.C. 294t(g)) for students in the National Health Service Corps Scholarship program" and inserting provision relating to an annual increase in the rate by the Secretary of Defense effective on July 1 of each year.
 

@@ -8,7 +8,7 @@ In order to mitigate losses and damages resulting from drought conditions, the S
 
 #### (1) Temporary supplies
 
-&emsp;Each temporary contract for the supply of water entered into pursuant to this section shall terminate no later than two years from the date of execution or upon a determinationby the Secretary that water supply conditions no longer warrant that such contracts remain in effect, whichever occurs first. The costs associated with any such contract shall be repaid within the term of the contract.
+&emsp;Each temporary contract for the supply of water entered into pursuant to this section shall terminate no later than two years from the date of execution or upon a determination by the Secretary that water supply conditions no longer warrant that such contracts remain in effect, whichever occurs first. The costs associated with any such contract shall be repaid within the term of the contract.
 
 #### (2) Ownership and acreage limitations
 
@@ -26,7 +26,7 @@ In order to mitigate losses and damages resulting from drought conditions, the S
 
 The price for project water, other than water purchased pursuant to section 2211(c) of this title, delivered under a temporary contract entered into by the Secretary under this section shall be at least sufficient to recover all Federal operation and maintenance costs and administrative costs, and an appropriate share of capital costs, including interest on such capital costs allocated to municipal and industrial water, except that, for project water delivered to nonproject landholdings, the price shall include full cost (as defined in section 202(3) of the Reclamation Reform Act of 1982 (Public Law 97–293; 96 Stat. 1263; 43 U.S.C. 390bb) \[43 U.S.C. 390bb(3)\]). For all contracts entered into by the Secretary under the authority of this subchapter—
 
-&emsp;(1) the interest rate used for computing interest during construction and interest on the unpaid balance of the capital costs expended pursuant to this chapter shall be at a rate to be determined by the Secretary of the Treasury based on average market yields on outstanding marketable obligations of the United States with remaining periods to maturity of one year occurring during the last month of the fiscal year preceding the date of execution of the temporary contract; or
+&emsp;(1) the interest rate used for computing interest during construction and interest on the unpaid balance of the capital costs expendedpursuant to this chapter shall be at a rate to be determined by the Secretary of the Treasury based on average market yields on outstanding marketable obligations of the United States with remaining periods to maturity of one year occurring during the last month of the fiscal year preceding the date of execution of the temporary contract; or
 
 &emsp;(2) in the case of existing facilities the rate as authorized for that Federal Reclamation project; or
 

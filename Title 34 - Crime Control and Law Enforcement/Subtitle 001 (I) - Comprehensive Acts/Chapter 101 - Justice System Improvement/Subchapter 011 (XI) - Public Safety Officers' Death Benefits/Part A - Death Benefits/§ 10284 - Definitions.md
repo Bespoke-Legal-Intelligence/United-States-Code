@@ -6,7 +6,7 @@ As used in this subchapter—
 
 &emsp;(2) "chaplain" includes any individual serving as an officially recognized or designated member of a legally organized volunteer fire department or legally organized police department, or an officially recognized or designated public employee of a legally organized fire or police department who was responding to a fire, rescue, or police emergency;
 
-&emsp;(3) "child" means any natural, illegitimate, adopted, or posthumous child or stepchild of adeceased or permanently and totally disabled public safety officer who, at the time of the public safety officer's fatal or catastrophic injury, is—
+&emsp;(3) "child" means any natural, illegitimate, adopted, or posthumous child or stepchild of a deceased or permanently and totally disabled public safety officer who, at the time of the public safety officer's fatal or catastrophic injury, is—
 
 &emsp;&emsp;(A) 18 years of age or under;
 

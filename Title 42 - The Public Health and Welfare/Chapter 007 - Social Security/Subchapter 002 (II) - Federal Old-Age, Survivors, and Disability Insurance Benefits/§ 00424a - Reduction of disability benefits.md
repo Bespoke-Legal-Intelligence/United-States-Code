@@ -42,7 +42,7 @@ Reduction of benefits under this section shall be made after any reduction under
 
 #### (d) Exception
 
-The reduction of benefits required by this section shall not be made if the law or plan described in subsection (a)(2) under which a periodic benefit is payable provides for the reduction thereof when anyone is entitled to benefits under this subchapter on the basis of the wagesand self-employment income of an individual entitled to benefits under section 423 of this title, and such law or plan so provided on February 18, 1981.
+The reduction of benefits required by this section shall not be made if the law or plan described in subsection (a)(2) under which a periodic benefit is payable provides for the reduction thereof when anyone is entitled to benefits under this subchapter on the basis of the wages and self-employment income of an individual entitled to benefits under section 423 of this title, and such law or plan so provided on February 18, 1981.
 
 #### (e) Conditions for payment
 
@@ -88,7 +88,7 @@ A prior section 224 of act Aug. 14, 1935, was classified to section 424 of this 
 
 Subsec. (f)(2). Pub. L. 103–296, §321(e)(2)(H), inserted "and" at end of subpar. (A), added subpar. (B), and struck out former subpars. (B) and (C) which read as follows:
 
-"(B) the ratio of (i) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the year in which such redetermination is made to (ii)(I) the average of the total wages ((as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a)(1) of this title) reported to the Secretary of the Treasury or his delegate for calendar year 1977 or, if later, the calendar year before the year in whichthe reduction was first computed (but not counting any reduction made in benefits for a previous period of disability), if such calendar year is before 1991, or (II) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the year in which the reduction was first computed (but not counting any reduction made in benefits for a previous period of disability), if such calendar year is after 1990; and
+"(B) the ratio of (i) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the year in which such redetermination is made to (ii)(I) the average of the total wages ((as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a)(1) of this title) reported to the Secretary of the Treasury or his delegate for calendar year 1977 or, if later, the calendar year before the year in which the reduction was first computed (but not counting any reduction made in benefits for a previous period of disability), if such calendar year is before 1991, or (II) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the year in which the reduction was first computed (but not counting any reduction made in benefits for a previous period of disability), if such calendar year is after 1990; and
 
 "(C) in any case in which the reduction was first computed before 1978, the ratio of (i) the average of the taxable wages reported to the Secretary for the first calendar quarter of 1977 to (ii) the average of the taxable wages reported to the Secretary for the first calendar quarter of the calendar year before the year in which the reduction was first computed (but not counting any reduction made in benefits for a previous period of disability)."
 
@@ -136,7 +136,7 @@ Subsec. (f)(2). Pub. L. 95–216, §353(c)(2), divided existing provisions into 
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. B, title II, §201(b), Dec. 19, 2014, 128 Stat. 4064, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply withrespect to any individual who attains 65 years of age on or after the date that is 12 months after the date of the enactment of this Act \[Dec. 19, 2014\]."
+Pub. L. 113–295, div. B, title II, §201(b), Dec. 19, 2014, 128 Stat. 4064, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to any individual who attains 65 years of age on or after the date that is 12 months after the date of the enactment of this Act \[Dec. 19, 2014\]."
 
 #### Effective Date of 1994 Amendment
 

@@ -60,7 +60,7 @@ The determination referred to in subsection (a) is a determination by the Presid
 
 &emsp;&emsp;(F) A description of the steps that India is taking to secure materials and technology applicable for the development, acquisition, or manufacture of weapons of mass destruction and the means to deliver such weapons through the application of comprehensive export control legislation and regulations, and through harmonization with and adherence to MTCR, NSG, Australia Group, and Wassenaar Arrangement guidelines, compliance with United Nations Security Council Resolution 1540, and participation in the Proliferation Security Initiative.
 
-&emsp;&emsp;(G) A description and assessment of the specific measures that India has taken to fully and actively participate in United States and international efforts to dissuade, isolate, and, if necessary, sanction and contain Iran for its efforts to acquire weapons of mass destruction, including a nuclear weapons capability and the capability to enrich uranium or reprocess nuclear fuel and the means to deliver weapons of mass destruction.
+&emsp;&emsp;(G) A description and assessment of the specific measures that India has taken tofully and actively participate in United States and international efforts to dissuade, isolate, and, if necessary, sanction and contain Iran for its efforts to acquire weapons of mass destruction, including a nuclear weapons capability and the capability to enrich uranium or reprocess nuclear fuel and the means to deliver weapons of mass destruction.
 
 &emsp;&emsp;(H) A description of the decision of the NSG relating to nuclear cooperation with India, including whether nuclear cooperation by the United States under an agreement for cooperation arranged pursuant to section 2153 of title 42 is consistent with the decision, practices, and policies of the NSG.
 
@@ -194,7 +194,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 #### (2) Implementation and compliance report
 
-&emsp;Not later than 180 days after the date on which an agreement for cooperation with India arranged pursuant to section 2153 of title 42 enters into force, and annually thereafter, the President shall submit to the appropriate congressional committees a report including—
+&emsp;Not later than 180 days after the date on which an agreement for cooperation withIndia arranged pursuant to section 2153 of title 42 enters into force, and annually thereafter, the President shall submit to the appropriate congressional committees a report including—
 
 &emsp;&emsp;(A) a description of any additional nuclear facilities and nuclear materials that the Government of India has placed or intends to place under IAEA safeguards;
 

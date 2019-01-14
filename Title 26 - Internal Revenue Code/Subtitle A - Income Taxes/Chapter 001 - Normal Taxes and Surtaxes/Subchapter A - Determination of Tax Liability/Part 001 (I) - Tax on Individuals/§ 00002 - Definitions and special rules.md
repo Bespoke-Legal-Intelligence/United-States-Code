@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) if the taxpayer has remarried at any time before the close of the taxable year, or
 
-&emsp;&emsp;(B) unless, for the taxpayer's taxable year during which his spouse died, a joint return could have been made under the provisionsof section 6013 (without regard to subsection (a)(3) thereof).
+&emsp;&emsp;(B) unless, for the taxpayer's taxable year during which his spouse died, a joint return could have been made under the provisions of section 6013 (without regard to subsection (a)(3) thereof).
 
 #### (3) Special rule where deceased spouse was in missing status
 

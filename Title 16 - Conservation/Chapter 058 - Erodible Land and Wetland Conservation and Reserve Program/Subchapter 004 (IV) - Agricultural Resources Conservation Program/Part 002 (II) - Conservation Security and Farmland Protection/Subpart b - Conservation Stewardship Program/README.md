@@ -13,7 +13,4 @@ Pub. L. 113–79, title II, §2101(a), Feb. 7, 2014, 128 Stat. 721, amended subp
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 03838d - Definitions](%C2%A7%2003838d%20-%20Definitions.md)
-- [&sect; 03838e - Conservation stewardship program](%C2%A7%2003838e%20-%20Conservation%20stewardship%20program.md)
-- [&sect; 03838f - Stewardship contracts](%C2%A7%2003838f%20-%20Stewardship%20contracts.md)
-- [&sect; 03838g - Duties of the Secretary](%C2%A7%2003838g%20-%20Duties%20of%20the%20Secretary.md)
+- [&sect; 03838d to 3838g - Transferred](%C2%A7%2003838d%20to%203838g%20-%20Transferred.md)

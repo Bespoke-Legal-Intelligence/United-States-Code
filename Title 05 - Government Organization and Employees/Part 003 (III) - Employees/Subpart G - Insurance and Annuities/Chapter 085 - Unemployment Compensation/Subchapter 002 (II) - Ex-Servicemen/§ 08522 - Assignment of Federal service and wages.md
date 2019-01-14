@@ -30,5 +30,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–566 applicable with respect to benefit years beginning on or after later of Oct. 1,1976, or first day of first week for which compensation becomes payable under an unemployment compensation law of Virgin Islands which is approved by Secretary of Labor under section 3304(a) of Title 26, Internal Revenue Code, see section 116(f)(3) of Pub. L. 94–566, set out as a note under section 3304 of Title 26.
+Amendment by Pub. L. 94–566 applicable with respect to benefit years beginning on or after later of Oct. 1, 1976, or first day of first week for which compensation becomes payable under an unemployment compensation law of Virgin Islands which is approved by Secretary of Labor under section 3304(a) of Title 26, Internal Revenue Code, see section 116(f)(3) of Pub. L. 94–566, set out as a note under section 3304 of Title 26.
 

@@ -2,7 +2,7 @@
 
 #### (a) Personnel
 
-An eligible agency or eligible recipient that uses funds under this chapter for in-service and preservice career and technical education professional development programs for career and technical education teachers, administrators, and other personnel shall, to the extent practicable, upon written request, permit the participation in such programs of career and technical education secondary school teachers, administrators, and other personnel in nonprofit private schools offering career and technical secondary education programs located in the geographical area served by such eligible agency or eligible recipient.
+An eligible agency or eligible recipient that uses funds under this chapter for in-service and preservice career and technical education professional development programs for career and technical education teachers, administrators,and other personnel shall, to the extent practicable, upon written request, permit the participation in such programs of career and technical education secondary school teachers, administrators, and other personnel in nonprofit private schools offering career and technical secondary education programs located in the geographical area served by such eligible agency or eligible recipient.
 
 #### (b) Student participation
 
@@ -15,6 +15,22 @@ An eligible agency or eligible recipient that uses funds under this chapter for 
 &emsp;An eligible recipient shall consult, upon written request, in a timely and meaningful manner with representatives of nonprofit private schools in the geographical area served by the eligible recipient described in paragraph (1) regarding the meaningful participation, in career and technical education programs and activities receiving funding under this chapter, of secondary school students attending nonprofit private schools.
 
 (Pub. L. 88–210, title III, §317, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 744.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–224, §4, title II, §201(a)(4)–(6), July 31, 2018, 132 Stat. 1564, 1621, provided that, effective July 1, 2019, this section is renumbered section 217 of title II of Pub. L. 88–210, and subsection (b) of this section is amended. After July 1, 2019, subsection (b) will read as follows:</i>
+
+#### <i>(b) Student participation</i>
+
+#### <i>(1) Student participation</i>
+
+&emsp;<i>Except as prohibited by State or local law, an eligible recipient may, upon written request, use funds made available under this chapter to provide for the meaningful participation, in career and technical education programs and activities, including programs of study, receiving funding under this chapter, of secondary school students attending nonprofit private schools in areas served by the eligible recipient.</i>
+
+#### <i>(2) Consultation</i>
+
+&emsp;<i>An eligible recipient shall consult, upon written request, in a timely and meaningful manner with representatives of nonprofit private schools in areas served by the eligible recipient described in paragraph (1) regarding the meaningful participation, in career and technical education programs and activities, including programs of study, receiving funding under this chapter, of secondary school students attending nonprofit private schools.</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 #### Prior Provisions
 
@@ -38,7 +54,17 @@ Section 2397f, Pub. L. 88–210, title III, §388, as added Pub. L. 101–392, t
 
 Section 2397g, Pub. L. 88–210, title III, §389, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 803, related to report on facilities and facilities improvement.
 
-Section 2397h, Pub. L. 88–210, title III, §390, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat.803, defined terms for purposes of tribally controlled postsecondary vocational institutions grant program.
+Section 2397h, Pub. L. 88–210, title III, §390, as added Pub. L. 101–392, title III, §311, Sept. 25, 1990, 104 Stat. 803, defined terms for purposes of tribally controlled postsecondary vocational institutions grant program.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–224, §201(a)(4)(A), inserted ", including programs of study," after "activities" and substituted "in areas served by" for "who reside in the geographical area served by".
+
+Subsec. (b)(2). Pub. L. 115–224, §201(a)(4)(B), substituted "areas" for "the geographical area" and inserted ", including programs of study," after "activities".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
 #### Short Title
 

@@ -70,7 +70,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;&emsp;&emsp;(I) is designed to have a seating capacity of more than 9 persons behind the driver's seat,
 
-&emsp;&emsp;&emsp;&emsp;(II) is equipped with a cargo area of at least 6 feet in interior length which is anopen area or is designed for use as an open area but is enclosed by a cap and is not readily accessible directly from the passenger compartment, or
+&emsp;&emsp;&emsp;&emsp;(II) is equipped with a cargo area of at least 6 feet in interior length which is an open area or is designed for use as an open area but is enclosed by a cap and is not readily accessible directly from the passenger compartment, or
 
 &emsp;&emsp;&emsp;&emsp;(III) has an integral enclosure, fully enclosing the driver compartment and load carrying device, does not have seating rearward of the driver's seat, and has no body section protruding more than 30 inches ahead of the leading edge of the windshield.
 
@@ -120,7 +120,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;&emsp;(i) section 1245 property (as defined in section 1245(a)(3)), or
 
-&emsp;&emsp;&emsp;(ii) at the election of the taxpayer, qualified real property (as defined in subsection (f)), and
+&emsp;&emsp;&emsp;(ii) at the election of the taxpayer, qualified real property (as defined in subsection (e)), and
 
 &emsp;&emsp;(C) which is acquired by purchase for use in the active conduct of a trade or business.
 
@@ -180,37 +180,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;The Secretary shall, by regulations, provide for recapturing the benefit under any deduction allowable under subsection (a) with respect to any property which is not used predominantly in a trade or business at any time.
 
-#### (e) Special rules for qualified disaster assistance property
-
-#### (1) In general
-
-&emsp;For purposes of this section—
-
-&emsp;&emsp;(A) the dollar amount in effect under subsection (b)(1) for the taxable year shall be increased by the lesser of—
-
-&emsp;&emsp;&emsp;(i) $100,000, or
-
-&emsp;&emsp;&emsp;(ii) the cost of qualified section 179 disaster assistance property placed in service during the taxable year, and
-
-&emsp;&emsp;(B) the dollar amount in effect under subsection (b)(2) for the taxable year shall be increased by the lesser of—
-
-&emsp;&emsp;&emsp;(i) $600,000, or
-
-&emsp;&emsp;&emsp;(ii) the cost of qualified section 179 disaster assistance property placed in service during the taxable year.
-
-#### (2) Qualified section 179 disaster assistance property
-
-&emsp;For purposes of this subsection, the term "qualified section 179 disaster assistance property" means section 179 property (as defined in subsection (d)) which is qualified disaster assistance property (as defined in section 168(n)(2)).
-
-#### (3) Coordination with empowerment zones and renewal communities
-
-&emsp;For purposes of sections 1397A and 1400J, qualified section 179 disaster assistance property shall not be treated as qualified zone property or qualified renewal property, unless the taxpayer elects not to take such qualified section 179 disaster assistance property into account for purposes of this subsection.
-
-#### (4) Recapture
-
-&emsp;For purposes of this subsection, rules similar to the rules under subsection (d)(10) shall apply with respect to any qualified section 179 disaster assistance property which ceases to be qualified section 179 disaster assistance property.
-
-#### (f) Qualified real property
+#### (e) Qualified real property
 
 For purposes of this section, the term "qualified real property" means—
 
@@ -226,9 +196,13 @@ For purposes of this section, the term "qualified real property" means—
 
 &emsp;&emsp;(D) Security systems.
 
-(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346; Pub. L. 110–28, title VIII, §8212(a)–(c), May 25, 2007, 121 Stat. 192; Pub. L. 110–185, title I, §102(a), Feb. 13, 2008, 122 Stat. 618; Pub. L. 110–343, div. C, title VII, §711(a), Oct. 3, 2008, 122 Stat. 3928; Pub. L. 111–5, div. B, title I, §1202(a), Feb. 17, 2009, 123 Stat. 335; Pub. L. 111–147, title II, §201(a), Mar. 18, 2010, 124 Stat. 77; Pub. L. 111–240, title II, §2021(a)–(d), Sept. 27, 2010, 124 Stat. 2556, 2558; Pub. L. 111–312, title IV, §402(a)–(e), title VII, §737(b)(3), Dec. 17, 2010, 124 Stat. 3306, 3307, 3318; Pub. L. 112–240, title III, §315(a)–(d), Jan. 2, 2013, 126 Stat. 2330, 2331; Pub. L. 113–295, div. A, title I, §127(a)–(d), Dec. 19, 2014, 128 Stat. 4017; Pub. L. 114–113, div. Q, title I, §124(a)–(f), Dec. 18, 2015, 129 Stat. 3053; Pub. L. 115–97, title I, §§11002(d)(1)(R), 13101(a)–(c), Dec. 22, 2017, 131 Stat. 2060, 2101, 2102.)
+(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346; Pub. L. 110–28, title VIII, §8212(a)–(c), May 25, 2007, 121 Stat. 192; Pub. L. 110–185, title I, §102(a), Feb. 13, 2008, 122 Stat. 618; Pub. L. 110–343, div. C, title VII, §711(a), Oct. 3, 2008, 122 Stat. 3928; Pub. L. 111–5, div. B, title I, §1202(a), Feb. 17, 2009, 123 Stat. 335; Pub. L. 111–147, title II, §201(a), Mar. 18, 2010, 124 Stat. 77; Pub. L. 111–240, title II, §2021(a)–(d), Sept. 27, 2010, 124 Stat. 2556, 2558; Pub. L. 111–312, title IV, §402(a)–(e), title VII, §737(b)(3), Dec. 17, 2010, 124 Stat. 3306, 3307, 3318; Pub. L. 112–240, title III, §315(a)–(d), Jan. 2, 2013, 126 Stat. 2330,2331; Pub. L. 113–295, div. A, title I, §127(a)–(d), Dec. 19, 2014, 128 Stat. 4017; Pub. L. 114–113, div. Q, title I, §124(a)–(f), Dec. 18, 2015, 129 Stat. 3053; Pub. L. 115–97, title I, §§11002(d)(1)(R), 13101(a)–(c), Dec. 22, 2017, 131 Stat. 2060, 2101, 2102; Pub. L. 115–141, div. U, title IV, §401(b)(15)(A), (B), Mar. 23, 2018, 132 Stat. 1202.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(1)(B)(ii). Pub. L. 115–141, §401(b)(15)(B), substituted "subsection (e)" for "subsection (f)".
+
+Subsecs. (e), (f). Pub. L. 115–141, §401(b)(15)(A), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to special rules for qualified disaster assistance property.
 
 <b>2017</b>—Subsec. (b)(1). Pub. L. 115–97, §13101(a)(1), substituted "$1,000,000" for "$500,000".
 
@@ -428,7 +402,7 @@ Subsec. (d)(1). Pub. L. 99–514, §202(b), inserted "in the active conduct of".
 
 Subsec. (d)(8). Pub. L. 99–514, §201(d)(3), substituted "Treatment of" for "Dollar limitation in case of" in heading and amended text generally. Prior to amendment, text read as follows: "In the case of a partnership, the dollar limitation contained in subsection (b)(1) shall apply with respect to the partnership and with respect to each partner. A similar rule shall apply in the case of an S corporation and its shareholders."
 
-Subsec. (d)(10). Pub. L. 99–514, §202(c), struck out "before the close of the second taxable year following the taxable year in which it is placed in service by the taxpayer" after "at any time".
+Subsec. (d)(10). Pub. L. 99–514, §202(c), struck out "before the close of the second taxable year following thetaxable year in which it is placed in service by the taxpayer" after "at any time".
 
 <b>1984</b>—Subsec. (b)(1). Pub. L. 98–369 amended table by dropping items setting applicable amounts of $0 for 1981 and $5,000 for 1982, substituting an applicable amount of $5,000 for 1983, 1984, 1985, 1986, and 1987 for former table items which had set applicable amounts of $5,000 for 1983, $7,500 for 1984, $7,500 for 1985, and $10,000 for 1986 or thereafter, and added items setting applicable amounts of $7,500 for 1988 or 1989, and $10,000 for 1990 or thereafter.
 
@@ -449,6 +423,10 @@ Subsec. (e). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 <b>1962</b>—Subsec. (d)(5). Pub. L. 87–834, §13(c)(2)(A), substituted "section 167(h)" for "section 167(g)".
 
 Subsec. (d)(8). Pub. L. 87–834, §13(c)(2)(B), substituted "section 167(g)" for "section 167(f)".
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–141, div. U, title IV, §401(b)(15)(C), Mar. 23, 2018, 132 Stat. 1202, provided that: "The amendments made by this paragraph \[amending this section\] shall not apply to property placed in service before the date of the enactment of this Act \[Mar. 23, 2018\]."
 
 #### Effective Date of 2017 Amendment
 
@@ -538,7 +516,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 201(d)(3) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
-Amendment by section 201(d)(3) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part ofspecified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
+Amendment by section 201(d)(3) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -573,6 +551,8 @@ Amendment by Pub. L. 87–834 applicable to taxable years beginning after Dec. 3
 Pub. L. 85–866, title II, §204(c), Sept. 2, 1958, 72 Stat. 1680, provided that: "The amendments made by this section \[enacting this section\] shall apply with respect to taxable years ending after June 30, 1958."
 
 #### Savings Provision
+
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

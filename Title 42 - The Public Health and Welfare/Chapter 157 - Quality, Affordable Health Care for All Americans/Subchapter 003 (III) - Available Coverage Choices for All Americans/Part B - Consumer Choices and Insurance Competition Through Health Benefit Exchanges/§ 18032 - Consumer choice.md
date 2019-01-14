@@ -18,7 +18,7 @@
 
 #### (b) Payment of premiums by qualified individuals
 
-A qualified individual enrolled in any qualified health plan may pay any applicable premium owed by such individual to the health insurance issuer issuing such qualified health plan.
+A qualified individual enrolled in any qualified health plan may pay any applicable premiumowed by such individual to the health insurance issuer issuing such qualified health plan.
 
 #### (c) Single risk pool
 
@@ -96,7 +96,7 @@ A qualified individual enrolled in any qualified health plan may pay any applica
 
 The Secretary shall establish procedures under which a State may allow agents or brokers—
 
-&emsp;(1) to enroll individuals and employers in any qualified health plans in the individual orsmall group market as soon as the plan is offered through an Exchange in the State; and
+&emsp;(1) to enroll individuals and employers in any qualified health plans in the individual or small group market as soon as the plan is offered through an Exchange in the State; and
 
 &emsp;(2) to assist individuals in applying for premium tax credits and cost-sharing reductions for plans sold through an Exchange.
 

@@ -62,7 +62,7 @@ In carrying out the approved lender program established by exhibit A to subpart 
 
 (2) The Secretary, or a contracting third party, shall annually review under section 2006b of this title the loans of each seasoned loan borrower. If, based on the review, it is determined that a borrower would be able to obtain a loan, guaranteed by the Secretary, from a commercial or cooperative lender at reasonable rates and terms for loans for similar purposes and periods of time, the Secretary shall assist the borrower in applying for the commercial or cooperative loan.
 
-(3) In accordance with section 2006d of this title, the Secretary shall prepare a prospectus on each seasoned direct loan borrower determined eligible to obtain a guaranteed loan. The prospectus shall contain a description of the amounts of loan guarantee and interest assistance that the Secretary will provide to the seasoned direct loan borrower to enable the seasoned direct loan borrower to carry out a financially viable farming plan if a guaranteed loan is made.
+(3) In accordance with section 2006d of this title, the Secretary shall prepare a prospectuson each seasoned direct loan borrower determined eligible to obtain a guaranteed loan. The prospectus shall contain a description of the amounts of loan guarantee and interest assistance that the Secretary will provide to the seasoned direct loan borrower to enable the seasoned direct loan borrower to carry out a financially viable farming plan if a guaranteed loan is made.
 
 (4)
 
@@ -80,7 +80,7 @@ Notification.—The Secretary shall notify each borrower of a loan that a prospe
 
 Credit extended.—If the Secretary receives an offer from an approved lender to extend credit to the seasoned direct loan borrower under terms and conditions contained in the prospectus, the seasoned direct loan borrower shall not be eligible for an insured loan from the Secretary under subchapter I or II, except as otherwise provided in this subsection.
 
-(5) If the Secretary is unable to provide loan guarantees and, if necessary, interest assistance to the seasoned direct loan borrower under this subsection in amounts sufficient to enable the seasoned direct loan borrower to borrow from commercial sources the amount required tocarry out a financially viable farming plan, or if the Secretary does not receive an offer from an approved lender to extend credit to a seasoned direct loan borrower under the terms and conditions contained in the prospectus, the Secretary shall make an insured loan to the seasoned direct loan borrower under subchapter I or II, whichever is applicable.
+(5) If the Secretary is unable to provide loan guarantees and, if necessary, interest assistance to the seasoned direct loan borrower under this subsection in amounts sufficient to enable the seasoned direct loan borrower to borrow from commercial sources the amount required to carry out a financially viable farming plan, or if the Secretary does not receive an offer from an approved lender to extend credit to a seasoned direct loan borrower under the terms and conditions contained in the prospectus, the Secretary shall make an insured loan to the seasoned direct loan borrower under subchapter I or II, whichever is applicable.
 
 (6) To the extent necessary for the borrower to obtain a loan, guaranteed by the Secretary, from a commercial or cooperative lender, the Secretary shall provide interest rate reductions as provided for under section 1999 of this title.
 
@@ -124,21 +124,23 @@ Credit extended.—If the Secretary receives an offer from an approved lender to
 
 #### (h) Simplified application forms
 
-Except as provided in subsection (g)(2), the Secretary shall, to the maximum extent practicable, develop a simplified application process, including a single page application if practicable, for grants and relending authorized under sections 1926, 1926c, 1926d, 1926e, 1932(b), 1932(c), 1932(e), 1932(f), 1936b, 2008p, and 2008s of this title.
+Except as provided in subsection (g)(2), the Secretary shall, to the maximum extent practicable, develop a simplified application process, including a single page application if practicable, for grants and relending authorized under sections 1926, 1926c, 1926d, 1926e, 1932(b), 1932(c), 1932(e), 1936b, 2008p, and 2008s of this title.
 
-(Pub. L. 87–128, title III, §333A, as added Pub. L. 99–198, title XIII, §1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, §1811, title XXIII, §2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, §637, Apr. 4, 1996, 110 Stat. 1093; Pub. L. 107–171, title V, §5307, title VI, §6019, May 13, 2002, 116 Stat. 345, 362; Pub. L. 110–234, title VI, §6012(b)(3), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(3), June 18, 2008, 122 Stat. 1664, 1927; Pub. L. 113–79, title VI, §6020(a), Feb. 7, 2014, 128 Stat. 847.)
+(Pub. L. 87–128, title III, §333A, as added Pub. L. 99–198, title XIII, §1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, §1811, title XXIII, §2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, §637, Apr. 4, 1996, 110 Stat. 1093; Pub. L. 107–171, title V, §5307, title VI, §6019, May 13, 2002, 116 Stat. 345, 362; Pub. L. 110–234, title VI, §6012(b)(3), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(3), June 18, 2008, 122 Stat. 1664, 1927; Pub. L. 113–79, title VI, §6020(a), Feb. 7, 2014, 128 Stat. 847; Pub. L. 115–334, title V, §5401(c)(1), title VI, §6601(a)(2), Dec. 20, 2018, 132 Stat. 4674, 4776.)
 
 #### References in Text
 
-For definition of "this chapter", referred to in subsecs. (a), (b)(1), (c), (f)(1)(B), and (g)(1), see note set out under section 1921 of this title.
-
-Section 1989 of this title, referred to in subsec. (f)(1)(A), was in the original "section 114", and was translated as meaning section 339 of Pub. L. 87–128, which is classified to section 1989 of this title, to reflect the probable intent of Congress, because Pub. L. 87–128 does not contain a section 114 and section 1989 provides for a lender certification program.
+This chapter, referred to in subsecs. (a), (b)(1), (c), (f)(1)(B), and (g)(1), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f)(1)(A). Pub. L. 115–334, §5401(c)(1), made technical amendment to reference in original act which appears in text as reference to section 1989 of this title.
+
+Subsec. (h). Pub. L. 115–334, §6601(a)(2), struck out "1932(f)," after "1932(e),".
 
 <b>2014</b>—Subsec. (h). Pub. L. 113–79 added subsec. (h).
 
@@ -179,6 +181,10 @@ Subsec. (g). Pub. L. 102–554, §15, added subsec. (g).
 <b>1990</b>—Subsec. (a)(4). Pub. L. 101–624, §1811, added par. (4).
 
 Subsec. (c). Pub. L. 101–624, §2388(f), substituted "If" for "In".
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–334, title V, §5401(c)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: "The amendment made by this subsection \[amending this section\] shall take effect as if included in the enactment of section 14 of the Agricultural Credit Improvement Act of 1992 (Public Law 102–554)."
 
 #### Effective Date of 2008 Amendment
 

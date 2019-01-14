@@ -22,7 +22,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 (B) The Secretary may, on such terms and conditions as the Secretary deems appropriate, guarantee the timely payment of the principal and interest on pool certificates issued on behalf of the Secretary by approved market makers for purposes of this subsection. Such guarantee shall be limited to the extent of principal and interest on the guaranteed portions of loans that compose the pool. If a loan in such pool is prepaid, either voluntarily or by reason of default, the guarantee of timely payment of principal and interest on the pool certificates shall be reduced in proportion to the amount of principal and interest such prepaid loan represents in the pool. Interest on prepaid or defaulted loans shall accrue and be guaranteed by the Secretary only through the date of payment on the guarantee. During the term of the pool certificate, the certificate may be called for redemption due to prepayment or default of all loans constituting the pool.
 
-(C) The full faith and credit of the United States is pledged to the payment of all amounts that may be required to be paid under any guarantee of such pool certificates issued by approved market makers under this subsection. The Secretary may expend amounts in the Agricultural Credit Insurance Fund to make payments on such guarantees.
+(C) The full faith and credit of the United States is pledged to the payment of all amountsthat may be required to be paid under any guarantee of such pool certificates issued by approved market makers under this subsection. The Secretary may expend amounts in the Agricultural Credit Insurance Fund to make payments on such guarantees.
 
 (D) The Secretary shall not collect any fee for any guarantee under this subsection. The preceding sentence shall not preclude the Secretary from collecting a fee for the functions described in paragraph (3).
 
@@ -60,7 +60,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 #### References in Text
 
-For definition of "this chapter", referred to in text, see note set out under section 1921 of this title.
+This chapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Amendments
 

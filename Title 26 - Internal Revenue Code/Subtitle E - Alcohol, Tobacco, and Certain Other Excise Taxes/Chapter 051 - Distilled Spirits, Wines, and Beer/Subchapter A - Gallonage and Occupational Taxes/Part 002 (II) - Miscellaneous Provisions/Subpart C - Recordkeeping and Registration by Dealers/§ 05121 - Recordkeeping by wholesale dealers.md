@@ -52,7 +52,7 @@ Another prior section 5121, act Aug. 16, 1954, ch. 736, 68A Stat. 621, related t
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–172, which directed amendment of this title by redesignating section 5432 as section 5121, was executed by making correction to amendment by Pub. L. 109–59, §11125(b)(5)(B)(i). See 2005 Amendment note below.
+<b>2007</b>—Pub. L. 110–172, which directed amendment of this title by redesignating section 5432 as section 5121,was executed by making correction to amendment by Pub. L. 109–59, §11125(b)(5)(B)(i). See 2005 Amendment note below.
 
 <b>2005</b>—Pub. L. 109–59, §11125(b)(5)(B)(i), which directed amendment of section 5114 of this title by substituting "§5432. Recordkeeping by wholesale dealers" for "§5114. Records" in section catchline, was executed by substituting "§5121. Recordkeeping by wholesale dealers" for "§5114. Records", to reflect the probable intent of Congress and the subsequent amendment by Pub. L. 110–172. See 2007 Amendment note above.
 

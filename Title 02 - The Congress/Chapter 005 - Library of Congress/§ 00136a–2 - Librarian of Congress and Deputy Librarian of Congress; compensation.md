@@ -18,7 +18,7 @@ Notwithstanding any other provision of law—
 
 &emsp;"(2) the compensation of the Deputy Librarian of Congress shall be at an annual rate which is equal to the annual rate of basic pay payable for positions at level IV of the Executive Schedule under section 5315 of title 5.
 
-"(b) The limitations contained in section 306 of S. 2939, Ninety-seventh Congress, as made applicable by section 101(e) of Public Law 97–276 (as amended by section 128(a) of Public Law 97–377) shall, after applicationof section 128(b) of Public law 97–377, be applicable to the compensation of the Librarian of Congress and the Deputy Librarian of Congress, as fixed by subsection (a) of this section."
+"(b) The limitations contained in section 306 of S. 2939, Ninety-seventh Congress, as made applicable by section 101(e) of Public Law 97–276 (as amended by section 128(a) of Public Law 97–377) shall, after application of section 128(b) of Public law 97–377, be applicable to the compensation of the Librarian of Congress and the Deputy Librarian of Congress, as fixed by subsection (a) of this section."
 
 #### Effective Date of 1999 Amendment
 

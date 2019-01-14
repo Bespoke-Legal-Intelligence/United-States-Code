@@ -18,7 +18,7 @@
 
 (2)(A) If an agency and an exclusive representative reach an impasse in collective bargaining with respect to an agency determination under subsection (a)(1) not to establish a flexible or compressed schedule, the impasse shall be presented to the Federal Service Impasses Panel (hereinafter in this section referred to as the "Panel").
 
-(B) The Panel shall promptly consider any case presented under subparagraph (A), and shall take final action in favor of the agency'sdetermination if the finding on which it is based is supported by evidence that the schedule is likely to cause an adverse agency impact.
+(B) The Panel shall promptly consider any case presented under subparagraph (A), and shall take final action in favor of the agency's determination if the finding on which it is based is supported by evidence that the schedule is likely to cause an adverse agency impact.
 
 (3)(A) If an agency and an exclusive representative have entered into a collective bargaining agreement providing for use of a flexible or compressed schedule under this subchapter and the head of the agency determines under subsection (a)(2) to terminate a flexible or compressed schedule, the agency may reopen the agreement to seek termination of the schedule involved.
 

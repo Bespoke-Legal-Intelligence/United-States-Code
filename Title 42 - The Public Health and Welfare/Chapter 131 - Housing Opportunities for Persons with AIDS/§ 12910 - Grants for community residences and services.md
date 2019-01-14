@@ -34,7 +34,7 @@ The Secretary of Housing and Urban Development may make grants to States and met
 
 #### (D) Section 1437f assistance
 
-&emsp;&emsp;Assistance made available under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f) may be used in conjunction with a community residence under this subsection for tenant-based assistance.
+&emsp;&emsp;Assistance made available under section 8 of the United States Housing Act of 1937 (42U.S.C. 1437f) may be used in conjunction with a community residence under this subsection for tenant-based assistance.
 
 #### (2) Services
 

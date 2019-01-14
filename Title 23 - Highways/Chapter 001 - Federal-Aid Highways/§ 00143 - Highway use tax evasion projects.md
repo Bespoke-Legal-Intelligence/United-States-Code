@@ -68,7 +68,7 @@ Use of surface transportation block grant program funding.—In addition to fund
 
 &emsp;(9)
 
-Reports.—The Commissioner of the Internal Revenue Service and each State shall submit to the Secretary, the Committee on Transportation and Infrastructure of theHouse of Representatives, and the Committee on Environment and Public Works of the Senate an annual report that describes the projects, examinations, and criminal investigations funded by and carried out under this section. Such report shall specify the estimated annual yield from such projects, examinations, and criminal investigations.
+Reports.—The Commissioner of the Internal Revenue Service and each State shall submit to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Environment and Public Works of the Senate an annual report that describes the projects, examinations, and criminal investigations funded by and carried out under this section. Such report shall specify the estimated annual yield from such projects, examinations, and criminal investigations.
 
 (c)
 
@@ -118,7 +118,7 @@ Section 6103 of the Internal Revenue Code of 1986, referred to in subsec. (c)(2)
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 102–240, title I, §1040, Dec. 18, 1991, 105 Stat. 1992, as amended, which was set out as a note under section 101 of this title, prior to repeal by Pub. L. 105–178, §1114(b)(2).
+Provisions similar to those in this section were contained in Pub. L. 102–240, title I, §1040, Dec. 18, 1991, 105Stat. 1992, as amended, which was set out as a note under section 101 of this title, prior to repeal by Pub. L. 105–178, §1114(b)(2).
 
 #### Amendments
 

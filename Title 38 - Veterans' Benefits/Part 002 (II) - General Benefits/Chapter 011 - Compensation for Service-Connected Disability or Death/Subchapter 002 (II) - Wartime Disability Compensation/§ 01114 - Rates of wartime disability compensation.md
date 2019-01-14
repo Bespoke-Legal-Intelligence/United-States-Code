@@ -28,7 +28,7 @@ For the purposes of section 1110 of this title—
 
 &emsp;(m) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of both hands, or of both legs with factors preventing natural knee action with prostheses in place, or of one arm and one leg with factors preventing natural elbow and knee action with prostheses in place, or has suffered blindness in both eyes having only light perception, or has suffered blindness in both eyes, rendering such veteran so significantly disabled as to be in need of regular aid and attendance, the monthly compensation shall be $3,671;
 
-&emsp;(n) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of both arms with factors preventing natural elbow action with prostheses in place, has suffered the anatomical loss of both legs with factors that prevent the use of prosthetic appliances, or has suffered the anatomical loss of one arm and one leg with factors that prevent the use of prosthetic appliances, or has suffered the anatomical loss of both eyes, or has suffered blindness without light perception in both eyes, the monthly compensation shall be $4,176;
+&emsp;(n) if the veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of both arms with factors preventing natural elbow action with prostheses in place, has suffered the anatomical loss of both legs with factors that preventthe use of prosthetic appliances, or has suffered the anatomical loss of one arm and one leg with factors that prevent the use of prosthetic appliances, or has suffered the anatomical loss of both eyes, or has suffered blindness without light perception in both eyes, the monthly compensation shall be $4,176;
 
 &emsp;(o) if the veteran, as the result of service-connected disability, has suffered disability under conditions which would entitle such veteran to two or more of the rates provided in one or more subsections (l) through (n) of this section, no condition being considered twice in the determination, or if the veteran has suffered bilateral deafness (and the hearing impairment in either one or both ears is service connected) rated at 60 percent or more disabling and the veteran has also suffered service-connected total blindness with 20/200 visual acuity or less, or if the veteran has suffered service-connected total deafness in one ear or bilateral deafness (and the hearing impairment in either one or both ears is service connected) rated at 40 percent or more disabling and the veteran has also suffered service-connected blindness having only light perception or less, or if the veteran has suffered the anatomical loss of both arms with factors that prevent the use of prosthetic appliances, the monthly compensation shall be $4,667;
 
@@ -44,7 +44,7 @@ For the purposes of section 1110 of this title—
 
 > &emsp;For the purposes of clause (2) of this subsection, need for a higher level of care shall be considered to be need for personal health-care services provided on a daily basis in the veteran's home by a person who is licensed to provide such services or who provides such services under the regular supervision of a licensed health-care professional. The existence of the need for such care shall be determined by a physician employed by the Department or, in areas where no such physician is available, by a physician carrying out such function under contract or fee arrangement based on an examination by such physician. For the purposes of section 1134 of this title, such allowance shall be considered as additional compensation payable for disability.
 
-&emsp;(s) If the veteran has a service-connected disability rated as total, and (1) has additional service-connected disability or disabilities independently ratable at 60 percent or more, or, (2) by reason of such veteran's service-connected disability or disabilities, is permanently housebound, then the monthly compensation shall be $2,993. For the purpose ofthis subsection, the requirement of "permanently housebound" will be considered to have been met when the veteran is substantially confined to such veteran's house (ward or clinical areas, if institutionalized) or immediate premises due to a service-connected disability or disabilities which it is reasonably certain will remain throughout such veteran's lifetime.
+&emsp;(s) If the veteran has a service-connected disability rated as total, and (1) has additional service-connected disability or disabilities independently ratable at 60 percent or more, or, (2) by reason of such veteran's service-connected disability or disabilities, is permanently housebound, then the monthly compensation shall be $2,993. For the purpose of this subsection, the requirement of "permanently housebound" will be considered to have been met when the veteran is substantially confined to such veteran's house (ward or clinical areas, if institutionalized) or immediate premises due to a service-connected disability or disabilities which it is reasonably certain will remain throughout such veteran's lifetime.
 
 &emsp;(t) Subject to section 5503(c) of this title, if any veteran, as the result of service-connected disability, is in need of regular aid and attendance for the residuals of traumatic brain injury, is not eligible for compensation under subsection (r)(2), and in the absence of such regular aid and attendance would require hospitalization, nursing home care, or other residential institutional care, the veteran shall be paid, in addition to any other compensation under this section, a monthly aid and attendance allowance equal to the rate described in subsection (r)(2), which for purposes of section 1134 of this title shall be considered as additional compensation payable for disability. An allowance authorized under this subsection shall be paid in lieu of any allowance authorized by subsection (r)(1).
 
@@ -1088,7 +1088,7 @@ Pub. L. 100–687, div. B, title XI, §1106, Nov. 18, 1988, 102 Stat. 4125, prov
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–227, title I, §107, Dec. 31, 1987, 101 Stat. 1555, provided that: "The amendments made by this title \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title and enacting provisions set out as notes under this section and section 101 of this title\] shall take effect as of December 1, 1987."
+Pub. L. 100–227, title I, §107, Dec. 31, 1987, 101 Stat. 1555, provided that: "The amendments made by thistitle \[amending this section and sections 315, 362, 411, 413, and 414 \[now 1115, 1162, 1311, 1313, and 1314\] of this title and enacting provisions set out as notes under this section and section 101 of this title\] shall take effect as of December 1, 1987."
 
 #### Effective Date of 1986 Amendment
 
@@ -1168,7 +1168,7 @@ Pub. L. 95–479, title IV, §401, Oct. 18, 1978, 92 Stat. 1566, provided that:
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–117, title V, §501, Oct. 3, 1977, 91 Stat. 1066, provided that: "Except as otherwise provided in this Act, the amendments made by this Act to title 38, United States Code \[see Tables for classification\], shall become effective on October 1, 1977."
+Pub. L. 95–117, title V, §501, Oct. 3, 1977, 91 Stat. 1066, provided that: "Except as otherwise provided in thisAct, the amendments made by this Act to title 38, United States Code \[see Tables for classification\], shall become effective on October 1, 1977."
 
 #### Effective Date of 1976 Amendment
 
@@ -1228,13 +1228,13 @@ Pub. L. 97–253, title IV, §405, Sept. 8, 1982, 96 Stat. 803, \[amending this 
 
 #### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
 
-Pub. L. 115–75, §§2(a)–(c), 3, Nov. 2, 2017, 131 Stat. 1244, 1245, provided that:
+Pub. L. 115–258, §§2(a)–(c), (3), Oct. 9, 2018, 132 Stat. 3662, 3663, provided that:
 
 #### "SEC. 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.
 
 "(a)
 
-Rate Adjustment.—Effective on December 1, 2017, the Secretary of Veterans Affairs shall increase,in accordance with subsection (c), the dollar amounts in effect on November 30, 2017, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
+Rate Adjustment.—Effective on December 1, 2018, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2018, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
 
 "(b)
 
@@ -1262,13 +1262,15 @@ Dependency and indemnity compensation to children.—Each of the dollar amounts 
 
 "(c)
 
-Determination of Increase.—Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 2017, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
+Determination of Increase.—Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effectiveDecember 1, 2018, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
 
 #### "SEC. 3. PUBLICATION OF ADJUSTED RATES.
 
-"The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2018."
+"The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2019."
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 115–75, §§2(a)–(c), 3, Nov. 2, 2017, 131 Stat. 1244, 1245.
 
 Pub. L. 114–197, §§2(a)–(c), 3, July 22, 2016, 130 Stat. 693, 694.
 
@@ -1310,9 +1312,11 @@ Pub. L. 102–510, §2(a), (c), Oct. 24, 1992, 106 Stat. 3318, 3319.
 
 #### Administrative Adjustment of Disability Rates of Certain Persons Not Covered by This Chapter
 
-Pub. L. 115–75, §2(d), Nov. 2, 2017, 131 Stat. 1244, provided that: "The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) \[set out as a note above\], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) \[set out as a note preceding section 101 of this title\] who have not received compensation under chapter 11 of title 38, United States Code."
+Pub. L. 115–258, §2(d), Oct. 9, 2018, 132 Stat. 3662, provided that: "The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) \[set out as a note above\], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) \[set out as a note preceding section 101 of this title\] who have not received compensation under chapter 11 of title 38, United States Code."
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 115–75, §2(d), Nov. 2, 2017, 131 Stat. 1244.
 
 Pub. L. 114–197, §2(d), July 22, 2016, 130 Stat. 693.
 

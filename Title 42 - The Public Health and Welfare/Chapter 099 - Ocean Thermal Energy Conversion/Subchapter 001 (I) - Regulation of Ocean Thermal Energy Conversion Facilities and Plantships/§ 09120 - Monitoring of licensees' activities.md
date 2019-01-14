@@ -2,7 +2,7 @@
 
 Each license shall require the licensee—
 
-&emsp;(1) to allow the Administrator to place appropriate Federal officers or employees in or aboard the ocean thermal energy conversion facility or plantship to which the license applies, at such times and to such extent as the Administrator deems reasonable and necessary to assess compliance with any condition or regulation applicable to the license, and to report to the Administrator whenever such officers or employees have reason to believe there is a failure to comply;
+&emsp;(1) to allow the Administrator to place appropriate Federal officers or employees in or aboard the ocean thermal energy conversionfacility or plantship to which the license applies, at such times and to such extent as the Administrator deems reasonable and necessary to assess compliance with any condition or regulation applicable to the license, and to report to the Administrator whenever such officers or employees have reason to believe there is a failure to comply;
 
 &emsp;(2) to cooperate with such officers and employees in the performance of monitoring functions; and
 

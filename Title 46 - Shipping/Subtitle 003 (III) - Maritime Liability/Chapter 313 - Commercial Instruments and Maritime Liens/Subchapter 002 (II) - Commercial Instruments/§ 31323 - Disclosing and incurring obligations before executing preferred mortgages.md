@@ -2,7 +2,7 @@
 
 (a) On request of the mortgagee and before executing a preferred mortgage, the mortgagor shall disclose in writing to the mortgagee the existence of any obligation known to the mortgagor on the vessel to be mortgaged.
 
-(b) After executing a preferred mortgage and before the mortgagee has had a reasonable timeto file the mortgage, the mortgagor may not incur, without the consent of the mortgagee, any contractual obligation establishing a lien on the vessel except a lien for—
+(b) After executing a preferred mortgage and before the mortgagee has had a reasonable time to file the mortgage, the mortgagor may not incur, without the consent of the mortgagee, any contractual obligation establishing a lien on the vessel except a lien for—
 
 &emsp;(1) wages of a stevedore when employed directly by a person listed in section 31341 of this title;
 

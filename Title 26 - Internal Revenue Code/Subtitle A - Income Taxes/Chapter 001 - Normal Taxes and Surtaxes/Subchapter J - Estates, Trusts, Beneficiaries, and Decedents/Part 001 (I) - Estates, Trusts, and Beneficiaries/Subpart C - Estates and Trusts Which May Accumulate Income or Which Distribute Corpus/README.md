@@ -2,12 +2,7 @@ Subpart C—Estates and Trusts Which May Accumulate Income or Which Distribute C
 
 | Sec. |  |
 | :--- | ---: |
-| [661\.](%C2%A7%2000661%20-%20Deduction%20for%20estates%20and%20trusts%20accumulating%20income%20or%20distributing%20corpus.md) | Deductions for estates and trusts accumulating income or distributing corpus.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [661\.](%C2%A7%2000661%20-%20Deduction%20for%20estates%20and%20trusts%20accumulating%20income%20or%20distributing%20corpus.md) | Deduction for estates and trusts accumulating income or distributing corpus. |
 | [662\.](%C2%A7%2000662%20-%20Inclusion%20of%20amounts%20in%20gross%20income%20of%20beneficiaries%20of%20estates%20and%20trusts%20accumulating%20income%20or%20distributing%20corpus.md) | Inclusion of amounts in gross income of beneficiaries of estates and trusts accumulating income or distributing corpus. |
 | [663\.](%C2%A7%2000663%20-%20Special%20rules%20applicable%20to%20sections%20661%20and%20662.md) | Special rules applicable to sections 661 and 662. |
 | [664\.](%C2%A7%2000664%20-%20Charitable%20remainder%20trusts.md) | Charitable remainder trusts. |
@@ -16,9 +11,9 @@ Subpart C—Estates and Trusts Which May Accumulate Income or Which Distribute C
 
 #### Amendments
 
-<b>1969</b>—Pub. L. 91–172, title II, §201(e)(2), Dec. 30, 1969, 83 Stat. 564, added item 664.
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(138), Mar. 23, 2018, 132 Stat. 1191, substituted "Deduction for estates and trusts accumulating income or distributing corpus" for "Deductions for estates and trusts accumulating income or distributing corpus" in item 661.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+<b>1969</b>—Pub. L. 91–172, title II, §201(e)(2), Dec. 30, 1969, 83 Stat. 564, added item 664.
 
 
 ---

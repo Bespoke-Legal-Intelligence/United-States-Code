@@ -78,7 +78,7 @@
 
 (d) The Fund may be used to fund the integrated Internet-based system under section 204 of the E-Government Act of 2002.
 
-(e) None of the funds provided from the Fund may be transferred to any agency until 15 days after the Administrator of the General Services Administration has submitted to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Governmental Affairs of the Senate, the Committee on Government Reform of the House of Representatives, and the appropriate authorizing committees of the Senate and the House ofRepresentatives, a notification and description of how the funds are to be allocated and how the expenditure will further the purposes of this chapter.
+(e) None of the funds provided from the Fund may be transferred to any agency until 15 days after the Administrator of the General Services Administration has submitted to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Governmental Affairs of the Senate, the Committee on Government Reform of the House of Representatives, and the appropriate authorizing committees of the Senate and the House of Representatives, a notification and description of how the funds are to be allocated and how the expenditure will further the purposes of this chapter.
 
 (f)(1) The Director shall report annually to Congress on the operation of the Fund, through the report established under section 3606.
 

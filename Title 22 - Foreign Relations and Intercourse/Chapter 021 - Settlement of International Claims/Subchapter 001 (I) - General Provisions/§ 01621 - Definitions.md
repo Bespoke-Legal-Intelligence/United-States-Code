@@ -40,7 +40,7 @@ Act Aug. 9, 1955, ch. 645, §§1, 3, 69 Stat. 562, designated sections 1621 to 1
 
 #### Abolition of International Claims Commission and Transfer of Functions
 
-International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
+International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985,68 Stat. 1279, set out as a note under section 1622 of this title.
 
 #### Appropriations
 
@@ -152,7 +152,7 @@ Definitions.—For purposes of this title:
 
 &emsp;"(1)
 
-Compensable guam decedent.—The term 'compensable Guam decedent' means an individual determined under section 1705 to have been a resident of Guam who died as a result of the attack and occupation of Guam by Imperial Japanese military forces during World War II, or incident to the liberation of Guam by United States military forces, and whose death would have been compensable under the Guam Meritorious Claims Act of 1945 (Public Law 79–224) \[59 Stat. 582\] if a timely claim had been filed under the terms of such Act.
+Compensable guam decedent.—The term 'compensable Guam decedent' means an individual determined under section 1705 to have been a resident of Guam who died as a result of the attack and occupation of Guam by Imperial Japanese military forces during World War II, or incident to the liberation of Guam by United States military forces, and whose death would have been compensable under the Guam Meritorious Claims Act of 1945 (Public Law 79–224) \[59Stat. 582\] if a timely claim had been filed under the terms of such Act.
 
 &emsp;"(2)
 
@@ -272,7 +272,7 @@ Eligibility.—The Secretary of the Interior may not award a grant under subsect
 
 "(a)
 
-Guam World War II Claims Payments and Adjudication.—For the purposes of carrying out sections 1704 and 1705, there is authorized to be appropriated for any fiscal year beginning after the date of enactment of this Act \[Dec. 23, 2016\], an amount equal to the amount deposited into the Claims Fund in a fiscal year under section 1703. Not more than 5 percent of funds make available under this subsection shall be used for administrative costs. Amounts appropriated under this section may remain available until expended.
+Guam World War II Claims Payments and Adjudication.—For the purposes of carrying out sections 1704 and 1705, there is authorized to be appropriated for any fiscal year beginning after the date of enactment ofthis Act \[Dec. 23, 2016\], an amount equal to the amount deposited into the Claims Fund in a fiscal year under section 1703. Not more than 5 percent of funds make available under this subsection shall be used for administrative costs. Amounts appropriated under this section may remain available until expended.
 
 "(b)
 
@@ -302,7 +302,7 @@ Pub. L. 114–308, Dec. 16, 2016, 130 Stat. 1524, provided that:
 
 &emsp;"(6) Victims of Nazi persecution and their heirs have taken legal action in the United States to recover Nazi-confiscated art. These lawsuits face significant procedural obstacles partly due to State statutes of limitations, which typically bar claims within some limited number of years from either the date of the loss or the date that the claim should have been discovered. In some cases, this means that the claims expired before World War II even ended. (See, e.g., Detroit Institute of Arts v. Ullin, No. 06–10333, 2007 WL 1016996 (E.D. Mich. Mar. 31, 2007).) The unique and horrific circumstances of World War II and the Holocaust make statutes of limitations especially burdensome to the victims and their heirs. Those seeking recovery of Nazi-confiscated art must painstakingly piece together their cases from a fragmentary historical record ravaged by persecution, war, and genocide. This costly process often cannot be done within the time constraints imposed by existing law.
 
-&emsp;"(7) Federal legislation is needed because the only court that has considered the question held that the Constitution prohibits States from making exceptions to their statutes of limitations to accommodate claims involving the recovery of Nazi-confiscated art. In Von Saher v. Norton Simon Museum of Art, 592 F.3d 954 (9th Cir. 2009), the United States Court of Appeals for the Ninth Circuit invalidated a California law that extended the State statute of limitations for claims seeking recovery of Holocaust-era artwork. The Court held that the law was an unconstitutional infringement of the Federal Government's exclusive authority over foreign affairs, which includes the resolution of war-related disputes. In light of this precedent, the enactment of a Federal law is necessary to ensure that claims to Nazi-confiscated art are adjudicated in accordance with United States policy asexpressed in the Washington Conference Principles on Nazi-Confiscated Art, the Holocaust Victims Redress Act, and the Terezin Declaration.
+&emsp;"(7) Federal legislation is needed because the only court that has considered the question held that the Constitution prohibits States from making exceptions to their statutes of limitations to accommodate claims involving the recovery of Nazi-confiscated art. In Von Saher v. Norton Simon Museum of Art, 592 F.3d 954 (9th Cir. 2009), the United States Court of Appeals for the Ninth Circuit invalidated a California law that extended the State statute of limitations for claims seeking recovery of Holocaust-era artwork. The Court held that the law was an unconstitutional infringement of the Federal Government's exclusive authority over foreign affairs, which includes the resolution of war-related disputes. In light of this precedent, the enactment of a Federal law is necessary to ensure that claims to Nazi-confiscated art are adjudicated in accordance with United States policy as expressed in the Washington Conference Principles on Nazi-Confiscated Art, the Holocaust Victims Redress Act, and the Terezin Declaration.
 
 &emsp;"(8) While litigation may be used to resolve claims to recover Nazi-confiscated art, it is the sense of Congress that the private resolution of claims by parties involved, on the merits and through the use of alternative dispute resolution such as mediation panels established for this purpose with the aid of experts in provenance research and history, will yield just and fair resolutions in a more efficient and predictable manner.
 
@@ -608,7 +608,7 @@ Compensation.—No member of the Commission who is a private citizen shall be co
 
 "(b)
 
-Travel Expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
+Travel Expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 oftitle 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 
 "(c)
 

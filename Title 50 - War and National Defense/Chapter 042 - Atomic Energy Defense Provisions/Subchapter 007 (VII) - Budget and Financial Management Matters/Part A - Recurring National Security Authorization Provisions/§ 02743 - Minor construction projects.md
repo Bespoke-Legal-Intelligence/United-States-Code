@@ -6,7 +6,7 @@ Using operation and maintenance funds or facilities and infrastructure funds aut
 
 #### (b) Annual report
 
-The Secretary shall submit to the congressional defense committees on an annual basis areport on each exercise of the authority in subsection (a) during the preceding fiscal year. Each report shall provide a brief description of each minor construction project covered by the report.
+The Secretary shall submit to the congressional defense committees on an annual basis a report on each exercise of the authority in subsection (a) during the preceding fiscal year. Each report shall provide a brief description of each minor construction project covered by the report.
 
 #### (c) Cost variation reports to congressional committees
 

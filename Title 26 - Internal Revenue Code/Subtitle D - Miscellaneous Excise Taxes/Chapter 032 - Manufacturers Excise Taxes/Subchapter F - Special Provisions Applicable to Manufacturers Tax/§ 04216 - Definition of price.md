@@ -38,13 +38,13 @@ In determining, for the purposes of this chapter, the price for which an article
 
 &emsp;&emsp;(B) such distributor regularly sells such article to one or more independent retailers, but does not regularly sell to wholesale distributors,
 
-> &emsp;the constructive sale price of such article shall be 90 percent of the lowest price for which such distributor regularly sells such article in arm's-length transactions to such independent retailers. The price determined under this paragraph shall not be adjusted for any exclusion (except for the tax imposed on such article) or readjustments under subsections (a) and (e) and under section 6416(b)(1). If both this paragraph and paragraph (4) apply with respect to an article, the constructive sale price for such article shall bethe lower of the constructive sale price determined under this paragraph or paragraph (4).
+> &emsp;the constructive sale price of such article shall be 90 percent of the lowest price for which such distributor regularly sells such article in arm's-length transactions to such independent retailers. The price determined under this paragraph shall not be adjusted for any exclusion (except for the tax imposed on such article) or readjustments under subsections (a) and (e) and under section 6416(b)(1). If both this paragraph and paragraph (4) apply with respect to an article, the constructive sale price for such article shall be the lower of the constructive sale price determined under this paragraph or paragraph (4).
 
 #### (4) Constructive sale price in case of certain other articles
 
 &emsp;For purposes of paragraph (1), if—
 
-&emsp;&emsp;(A) the manufacturer, producer, or importer of an article regularly sells (except for tax-free sales) only to a distributor which is a member of the same affiliated group of corporations (as defined in section 1504(a)) as the manufacturer, producer, or importer,
+&emsp;&emsp;(A) the manufacturer, producer, or importer of an article regularly sells (except for tax-free sales) only to a distributor which is a member of the same affiliatedgroup of corporations (as defined in section 1504(a)) as the manufacturer, producer, or importer,
 
 &emsp;&emsp;(B) the distributor regularly sells (except for tax-free sales) such article only to retailers, and
 
@@ -104,7 +104,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 &emsp;&emsp;(A) The sum of (i) the aggregate of the charges for local advertising excluded under paragraph (1), plus (ii) the aggregate of the readjustments for local advertising under section 6416(b)(1) (relating to credits or refunds for price readjustments), shall not exceed
 
-&emsp;&emsp;(B) 5 percent of the aggregate of the prices (determined under this section by excluding all charges for local advertising) at whichsuch articles were sold in sales on which tax was imposed by such section of this chapter.
+&emsp;&emsp;(B) 5 percent of the aggregate of the prices (determined under this section by excluding all charges for local advertising) at which such articles were sold in sales on which tax was imposed by such section of this chapter.
 
 > &emsp;The preceding sentence shall be applied to each manufacturer, producer, and importer as of the close of each calendar quarter, taking into account the items specified in subparagraphs (A) and (B) for such calendar quarter and preceding calendar quarters in the same calendar year.
 
@@ -174,7 +174,7 @@ Subsec. (f)(4)(C). Pub. L. 87–770 substituted ", appears in a newspaper or ma
 
 <b>1960</b>—Subsec. (f). Pub. L. 86–781 added subsec. (f).
 
-<b>1958</b>—Subsec. (b). Pub. L. 85–859, §115, inserted provisions in par. (1) requiring, in the case of an article sold at retail, the computation to be on either the price for which the article is sold, or the highest price for which the articles are sold to wholesale distributors, in the ordinary course of trade, by manufacturers or producers thereof, whichever is lower, and added pars. (2) and (3).
+<b>1958</b>—Subsec. (b). Pub. L. 85–859, §115, inserted provisions in par. (1) requiring, in the case of an article sold at retail, the computation to be on either the price for which the article is sold, or the highest price for which the articles are sold to wholesale distributors, in theordinary course of trade, by manufacturers or producers thereof, whichever is lower, and added pars. (2) and (3).
 
 Subsec. (c). Pub. L. 85–859, §117(b), substituted "section 4217(b)" for "subsection (d)".
 

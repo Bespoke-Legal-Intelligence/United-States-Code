@@ -38,7 +38,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (1) In general
 
-&emsp;The Administrator shall, in a manner consistent with the criteria established pursuantto subsection (a), designate sites or time periods for dumping. The Administrator shall designate sites or time periods for dumping that will mitigate adverse impact on the environment to the greatest extent practicable.
+&emsp;The Administrator shall, in a manner consistent with the criteria established pursuant to subsection (a), designate sites or time periods for dumping. The Administrator shall designate sites or time periods for dumping that will mitigate adverse impact on the environment to the greatest extent practicable.
 
 #### (2) Prohibitions regarding site or time period
 
@@ -74,7 +74,7 @@ No permit is required under this subchapter for the transportation for dumping o
 
 #### (e) Foreign State permits; acceptance
 
-In the case of transportation of material, by an agency or instrumentality of the United States or by a vessel or aircraft registered in the United States or flying the United States flag, from a location in a foreign State Party to the Convention, a permit issued pursuant to the authority of that foreign State Party, in accordance with Convention requirements, and which otherwise could have been issued pursuant to subsection (a) of this section, shall be accepted, for the purposes of this subchapter, as if it were issued by the Administrator under the authority of this section: <i>Provided</i>, That in the case of an agency or instrumentality of the United States, no application shall be made for a permit to be issued pursuant to the authority of a foreign State Party to the Convention unless the Administrator concurs in the filing of such application.
+In the case of transportation of material, by an agency or instrumentality of the United States or by a vessel or aircraft registered in the United States or flying the United States flag, from a location in a foreign State Party to the Convention, a permit issued pursuant to the authority of that foreign State Party, in accordance with Convention requirements, and whichotherwise could have been issued pursuant to subsection (a) of this section, shall be accepted, for the purposes of this subchapter, as if it were issued by the Administrator under the authority of this section: <i>Provided</i>, That in the case of an agency or instrumentality of the United States, no application shall be made for a permit to be issued pursuant to the authority of a foreign State Party to the Convention unless the Administrator concurs in the filing of such application.
 
 (Pub. L. 92–532, title I, §102, Oct. 23, 1972, 86 Stat. 1054; Pub. L. 93–254, §1(4), Mar. 22, 1974, 88 Stat. 51; Pub. L. 96–572, §3, Dec. 22, 1980, 94 Stat. 3345; Pub. L. 100–688, title III, §3201(b), Nov. 18, 1988, 102 Stat. 4153; Pub. L. 102–580, title V, §506(a), Oct. 31, 1992, 106 Stat. 4868; Pub. L. 104–303, title V, §582, Oct. 12, 1996, 110 Stat. 3791; Pub. L. 106–53, title V, §562, Aug. 17, 1999, 113 Stat. 355; Pub. L. 110–114, title V, §5046, Nov. 8, 2007, 121 Stat. 1209.)
 

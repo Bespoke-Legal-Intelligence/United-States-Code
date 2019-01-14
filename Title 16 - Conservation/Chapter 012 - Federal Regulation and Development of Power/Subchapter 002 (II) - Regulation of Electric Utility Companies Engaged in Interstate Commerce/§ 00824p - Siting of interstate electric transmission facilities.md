@@ -176,7 +176,7 @@ Nothing in this section precludes any person from constructing or modifying any 
 
 (3) The regional transmission siting agencies shall have the authority to review, certify, and permit siting of transmission facilities, including facilities in national interest electric transmission corridors (other than facilities on property owned by the United States).
 
-(4) The Commission shall have no authority to issue a permit for the construction or modification of an electric transmission facility within a State that is a party to a compact, unless the members of the compact are in disagreementand the Secretary makes, after notice and an opportunity for a hearing, the finding described in subsection (b)(1)(C).
+(4) The Commission shall have no authority to issue a permit for the construction or modification of an electric transmission facility within a State that is a party to a compact, unless the members of the compact are in disagreement and the Secretary makes, after notice and an opportunity for a hearing, the finding described in subsection (b)(1)(C).
 
 #### (j) Relationship to other laws
 

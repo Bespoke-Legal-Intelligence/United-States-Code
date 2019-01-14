@@ -36,13 +36,13 @@ In carrying out this section, the Secretary shall review the current status of S
 
 #### (e) List of classes of core antiretroviral therapeutics
 
-For purposes of subsection (c)(1), the Secretary shall develop and maintain a list of classes of core antiretroviral therapeutics, which list shall be based on the therapeutics included in the guidelines of the Secretary known as the Clinical Practice Guidelines for Use of HIV/AIDS Drugs, relating to drugs needed to manage symptoms associated with HIV. The preceding sentence does not affect the authority of the Secretary to modify such Guidelines.
+For purposes of subsection (c)(1), the Secretary shall develop and maintain a list of classes of core antiretroviral therapeutics, which list shall be based on the therapeutics included in the guidelines of the Secretary known as the Clinical Practice Guidelines for Use of HIV/AIDS Drugs, relating to drugs needed to manage symptoms associated with HIV. The precedingsentence does not affect the authority of the Secretary to modify such Guidelines.
 
 #### (f) Use of health insurance and plans
 
 #### (1) In general
 
-&emsp;In carrying out subsection (a), a State may expend a grant under section 300ff–21 of thistitle to provide the therapeutics described in such subsection by paying on behalf of individuals with HIV/AIDS the costs of purchasing or maintaining health insurance or plans whose coverage includes a full range of such therapeutics and appropriate primary care services.
+&emsp;In carrying out subsection (a), a State may expend a grant under section 300ff–21 of this title to provide the therapeutics described in such subsection by paying on behalf of individuals with HIV/AIDS the costs of purchasing or maintaining health insurance or plans whose coverage includes a full range of such therapeutics and appropriate primary care services.
 
 #### (2) Limitation
 

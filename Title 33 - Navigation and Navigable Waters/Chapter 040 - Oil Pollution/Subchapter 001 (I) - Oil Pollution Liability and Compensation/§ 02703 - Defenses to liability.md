@@ -38,7 +38,7 @@ Subsection (a) does not apply with respect to a responsible party who fails or r
 
 &emsp;&emsp;(A) the real property on which the facility concerned is located was acquired by the responsible party after the placement of the oil on, in, or at the real property on which the facility concerned is located;
 
-&emsp;&emsp;(B) one or more of the circumstances described in subparagraph (A), (B), or (C) ofparagraph (2) is established by the responsible party by a preponderance of the evidence; and
+&emsp;&emsp;(B) one or more of the circumstances described in subparagraph (A), (B), or (C) of paragraph (2) is established by the responsible party by a preponderance of the evidence; and
 
 &emsp;&emsp;(C) the responsible party complies with paragraph (3).
 
@@ -46,7 +46,7 @@ Subsection (a) does not apply with respect to a responsible party who fails or r
 
 &emsp;The circumstances referred to in paragraph (1)(B) are the following:
 
-&emsp;&emsp;(A) At the time the responsible party acquired the real property on which the facility is located the responsible party did not know and had no reason to know that oil that is the subject of the discharge or substantial threat of discharge was located on, in, or at the facility.
+&emsp;&emsp;(A) At the time the responsible party acquired the real property on which the facility is located the responsible party did notknow and had no reason to know that oil that is the subject of the discharge or substantial threat of discharge was located on, in, or at the facility.
 
 &emsp;&emsp;(B) The responsible party is a government entity that acquired the facility—
 
@@ -140,13 +140,13 @@ Subsection (a) does not apply with respect to a responsible party who fails or r
 
 #### (5) Previous owner or operator
 
-&emsp;Nothing in this paragraph or in subsection (a)(3) shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under 2702(a) <sup>1</sup> of this title and no defense under subsection (a) shall be available to such responsible party.
+&emsp;Nothing in this paragraph or in subsection (a)(3) shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under section 2702(a) of this title and no defense under subsection (a) shall be available to such responsible party.
 
 #### (6) Limitation on defense
 
 &emsp;Nothing in this paragraph shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threat of discharge of oil which is the subject of the action relating to the facility.
 
-(Pub. L. 101–380, title I, §1003, Aug. 18, 1990, 104 Stat. 491; Pub. L. 108–293, title VII, §703(c), Aug. 9, 2004, 118 Stat. 1072.)
+(Pub. L. 101–380, title I, §1003, Aug. 18, 1990, 104 Stat. 491; Pub. L. 108–293, title VII, §703(c), Aug. 9, 2004, 118 Stat. 1072; Pub. L. 115–232, div. C, title XXXV, §3547(b), Aug. 13, 2018, 132 Stat. 2328.)
 
 #### References in Text
 
@@ -156,7 +156,7 @@ This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 199
 
 #### Amendments
 
-<b>2004</b>—Subsec. (d). Pub. L. 108–293 added subsec. (d).
+<b>2018</b>—Subsec. (d)(5). Pub. L. 115–232 inserted "section" before "2702(a)".
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
+<b>2004</b>—Subsec. (d). Pub. L. 108–293 added subsec. (d).
 

@@ -58,7 +58,7 @@ Except as provided in subsections (d), (e), and (f), the President shall impose 
 
 &emsp;&emsp;&emsp;(i) the head of that executive agency shall terminate a contract with such person or debar or suspend such person from eligibility for Federal contracts for a period of not less than 2 years;
 
-&emsp;&emsp;&emsp;(ii) any such debarment or suspension shall be subject to the procedures that apply to debarment and suspension under the Federal Acquisition Regulation undersubpart 9.4 of part 9 of title 48, Code of Federal Regulations; and
+&emsp;&emsp;&emsp;(ii) any such debarment or suspension shall be subject to the procedures that apply to debarment and suspension under the Federal Acquisition Regulation under subpart 9.4 of part 9 of title 48, Code of Federal Regulations; and
 
 &emsp;&emsp;&emsp;(iii) the Administrator of General Services shall include on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs maintained by the Administrator under part 9 of the Federal Acquisition Regulation each person that is debarred, suspended, or proposed for debarment or suspension by the head of an executive agency on the basis of a determination of a false certification under subparagraph (B).
 
@@ -74,7 +74,7 @@ Except as provided in subsections (d), (e), and (f), the President shall impose 
 
 &emsp;&emsp;&emsp;(II) in the case of a person described in subsection (a)(1)(B), the person conducted or facilitated a transaction or transactions with, or provided financial services to, a person described in subsection (a)(1)(A) that did not knowingly engage in any activity described in such subsection; and
 
-&emsp;&emsp;&emsp;(III) in the case of a person described in subsection (a)(1)(A) or (a)(1)(B), the person has terminated the activity for which otherwise covered by such subsection or has provided verifiable assurances that the person will terminate such activity; and
+&emsp;&emsp;&emsp;(III) in the case of a person described in subsection (a)(1)(A) or (a)(1)(B), the personhas terminated the activity for which otherwise covered by such subsection or has provided verifiable assurances that the person will terminate such activity; and
 
 &emsp;&emsp;&emsp;(ii) the waiver is in the national security interest of the United States; and
 

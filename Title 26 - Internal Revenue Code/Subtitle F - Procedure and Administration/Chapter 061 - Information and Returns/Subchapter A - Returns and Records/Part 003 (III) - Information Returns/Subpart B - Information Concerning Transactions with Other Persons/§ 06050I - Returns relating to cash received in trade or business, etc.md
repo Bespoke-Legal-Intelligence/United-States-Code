@@ -52,7 +52,7 @@ For purposes of this section, the term "cash" includes—
 
 #### (e) Statements to be furnished to persons with respect to whom information is required
 
-Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
+Every person required to make a return under subsection (a) shall furnish to each person whosename is required to be set forth in such return a written statement showing—
 
 &emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 104–168 applicable to statements required to be furnished
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–322, title II, §20415(d), Sept. 13, 1994, 108 Stat. 1833, provided that: "The amendments made by this section \[amending this section and section 6724 of this title\] shall take effect on the 60th day after the date on which the temporary regulations are prescribed under subsection (c) \[section 20415(c) of Pub. L. 103–322, set out as a Regulations note below\]." \[Temporary regulations under section 20415(c) of Pub. L. 103–322 were filed Dec. 12, 1994, published Dec. 15, 1994, 59 F.R. 64572, and effective Feb. 13, 1995.\]
+Pub. L. 103–322, title II, §20415(d), Sept. 13, 1994, 108 Stat. 1833, provided that: "The amendments made by this section \[amending this section and section 6724 of this title\] shall take effect on the 60th day after thedate on which the temporary regulations are prescribed under subsection (c) \[section 20415(c) of Pub. L. 103–322, set out as a Regulations note below\]." \[Temporary regulations under section 20415(c) of Pub. L. 103–322 were filed Dec. 12, 1994, published Dec. 15, 1994, 59 F.R. 64572, and effective Feb. 13, 1995.\]
 
 #### Effective Date of 1990 Amendment
 

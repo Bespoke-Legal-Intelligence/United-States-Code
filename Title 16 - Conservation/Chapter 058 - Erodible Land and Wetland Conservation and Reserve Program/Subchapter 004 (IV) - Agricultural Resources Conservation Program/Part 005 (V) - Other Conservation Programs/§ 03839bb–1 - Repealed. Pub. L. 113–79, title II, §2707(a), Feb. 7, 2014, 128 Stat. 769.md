@@ -1,6 +1,6 @@
 ### §3839bb–1. Repealed. Pub. L. 113–79, title II, §2707(a), Feb. 7, 2014, 128 Stat. 769
 
-Section, Pub. L. 99–198, title XII, §1240N, as added Pub. L. 107–171, title II, §2502(a), May 13, 2002, 116 Stat. 266; amended Pub. L. 110–234, title II, §2602, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, §4(a), title II, §2602,June 18, 2008, 122 Stat. 1664, 1796, related to wildlife habitat incentive program.
+Section, Pub. L. 99–198, title XII, §1240N, as added Pub. L. 107–171, title II, §2502(a), May 13, 2002, 116 Stat. 266; amended Pub. L. 110–234, title II, §2602, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, §4(a), title II, §2602, June 18, 2008, 122 Stat. 1664, 1796, related to wildlife habitat incentive program.
 
 #### Repeal; Transitional Provisions
 
@@ -28,5 +28,5 @@ Use of prior year funds.—Notwithstanding the repeal of section 1240N of the Fo
 
 &emsp;&emsp;"(B)
 
-Other.—On exhaustion of funds made available under subparagraph (A), the Secretary \[of Agriculture\] may use funds made available to carry out the environmental quality incentives program under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3839aa et seq.) to continue to carry out contracts or agreements referred to in paragraph (1) using the provisions of law and regulation applicable to such contracts or agreements as in existence on the day before the date of enactment of the Agricultural Act of 2014."
+Other.—On exhaustion of funds made available under subparagraph (A), the Secretary \[of Agriculture\] may use funds made available to carry out the environmental quality incentives program under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3839aa et seq.)to continue to carry out contracts or agreements referred to in paragraph (1) using the provisions of law and regulation applicable to such contracts or agreements as in existence on the day before the date of enactment of the Agricultural Act of 2014."
 

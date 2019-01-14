@@ -62,31 +62,31 @@ Upon the transfer of the Coast Guard to the Department, the Commandant shall rep
 
 #### (g) Operation as a service in the Navy
 
-None of the conditions and restrictions in this section shall apply when the Coast Guard operates as a service in the Navy under section 3 of title 14.
+None of the conditions and restrictions in this section shall apply when the Coast Guard operates as a service in the Navy under section 3 <sup>1</sup> of title 14.
 
-#### (h) Report on accelerating the Integrated Deepwater System
-
-Not later than 90 days after November 25, 2002, the Secretary, in consultation with the Commandant of the Coast Guard, shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives that—
-
-&emsp;(1) analyzes the feasibility of accelerating the rate of procurement in the Coast Guard's Integrated Deepwater System from 20 years to 10 years;
-
-&emsp;(2) includes an estimate of additional resources required;
-
-&emsp;(3) describes the resulting increased capabilities;
-
-&emsp;(4) outlines any increases in the Coast Guard's homeland security readiness;
-
-&emsp;(5) describes any increases in operational efficiencies; and
-
-&emsp;(6) provides a revised asset phase-in time line.
-
-(Pub. L. 107–296, title VIII, §888, Nov. 25, 2002, 116 Stat. 2249; Pub. L. 113–284, §2(b), Dec. 18, 2014, 128 Stat. 3089.)
+(Pub. L. 107–296, title VIII, §888, Nov. 25, 2002, 116 Stat. 2249; Pub. L. 113–284, §2(b), Dec. 18, 2014, 128 Stat. 3089; Pub. L. 115–282, title VIII, §801, Dec. 4, 2018, 132 Stat. 4299.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25,2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
+Section 3 of title 14, referred to in subsec. (g), was redesignated section 103 of title 14 by Pub. L. 115–282, title I, §103(b), Dec. 4, 2018, 132 Stat. 4195, and references to section 3 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (h). Pub. L. 115–282 struck out subsec. (h). Text read as follows: "Not later than 90 days after November 25, 2002, the Secretary, in consultation with the Commandant of the Coast Guard, shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives that—
+
+&emsp;"(1) analyzes the feasibility of accelerating the rate of procurement in the Coast Guard's Integrated Deepwater System from 20 years to 10 years;
+
+&emsp;"(2) includes an estimate of additional resources required;
+
+&emsp;"(3) describes the resulting increased capabilities;
+
+&emsp;"(4) outlines any increases in the Coast Guard's homeland security readiness;
+
+&emsp;"(5) describes any increases in operational efficiencies; and
+
+&emsp;"(6) provides a revised asset phase-in time line."
 
 <b>2014</b>—Subsecs. (f) to (i). Pub. L. 113–284 redesignated subsecs. (g) to (i) as (f) to (h), respectively, and struck out former subsec. (f) which related to annual review.
 
@@ -95,4 +95,6 @@ This chapter, referred to in subsec. (c), was in the original "this Act", meanin
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

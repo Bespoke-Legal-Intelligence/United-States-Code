@@ -6,7 +6,7 @@ Subject to section 9409 of this title, grant funds under this chapter shall be u
 
 #### (b) Limited uses
 
-Subject to section 9409 of this title, Lead State Agencies and Local Councils shall ensure that funds made available under this chapter to the agencies and Local Councils are used for three or more of the following activities:
+Subject to section 9409 of this title, Lead State Agencies and Local Councils shall ensure that funds made available under this chapter to theagencies and Local Councils are used for three or more of the following activities:
 
 &emsp;(1) Helping parents, caregivers, child care providers, and educators increase their capacity to facilitate the development of cognitive, language comprehension, expressive language, social-emotional, and motor skills, and promote learning readiness.
 
@@ -28,7 +28,7 @@ Subject to section 9409 of this title, Lead State Agencies and Local Councils sh
 
 Each Lead State Agency designated under section 9409(c) of this title and Local Councils receiving a grant under this chapter shall ensure—
 
-&emsp;(1) that Local Councils described in section 9413 of this title work with local educationalagencies to identify cognitive, social, emotional, and motor developmental abilities which are necessary to support children's readiness for school;
+&emsp;(1) that Local Councils described in section 9413 of this title work with local educational agencies to identify cognitive, social, emotional, and motor developmental abilities which are necessary to support children's readiness for school;
 
 &emsp;(2) that the programs, services, and activities assisted under this chapter will represent developmentally appropriate steps toward the acquisition of those abilities; and
 

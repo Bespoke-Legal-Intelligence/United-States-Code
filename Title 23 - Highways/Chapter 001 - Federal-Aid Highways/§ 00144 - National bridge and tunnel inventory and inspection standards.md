@@ -146,7 +146,7 @@ Eligibility.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to subparagraph (B), reasonable costs associated with actionsto preserve, or reduce the impact of a project under this chapter on, the historic integrity of a historic bridge shall be eligible as reimbursable project costs under section 133 if the load capacity and safety features of the historic bridge are adequate to serve the intended use for the life of the historic bridge.
+In general.—Subject to subparagraph (B), reasonable costs associated with actions to preserve, or reduce the impact of a project under this chapter on, the historic integrity of a historic bridge shall be eligible as reimbursable project costs under section 133 if the load capacity and safety features of the historic bridge are adequate to serve the intended use for the life of the historic bridge.
 
 &emsp;&emsp;(B)
 
@@ -336,7 +336,7 @@ Availability of Funds.—In carrying out this section—
 
 &emsp;(4) a Federal agency may use funds made available to the agency under section 503.
 
-(Added Pub. L. 91–605, title II, §204(a), Dec. 31, 1970, 84 Stat. 1741; amended Pub. L. 93–87, title II, §204, Aug. 13, 1973, 87 Stat. 284; Pub. L. 93–643, §113, Jan. 4, 1975, 88 Stat. 2286; Pub. L. 95–599, title I, §124(a), Nov. 6, 1978, 92 Stat. 2702; Pub. L. 96–106, §§7, 8(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–327, §5(c), Oct. 15, 1982, 96 Stat. 1612; Pub. L. 97–424, title I, §§121(a), 122(a), Jan. 6, 1983, 96 Stat. 2111, 2112; Pub. L. 100–17, title I, §§123(a)–(d)(1), (3), (e), (f)(2), 128, 133(b)(11), Apr. 2, 1987, 101 Stat. 161–163, 167, 172; Pub. L. 102–240, title I, §1028(a)–(f), Dec. 18, 1991, 105 Stat. 1967, 1968; Pub. L. 103–220, §1, Mar. 17, 1994, 108 Stat. 100; Pub. L. 104–59, title III, §§318, 325(b), Nov. 28, 1995, 109 Stat. 588, 592; Pub. L. 105–178, title I, §§1109, 1115(f)(3); June 9, 1998, 112 Stat. 141; Pub. L. 105–206, title IX, §9002(i), July 22, 1998, 112 Stat. 836; Pub. L. 108–88, §2(b)(5), Sept. 30, 2003, 117 Stat. 1111; Pub. L. 108–202, §2(b)(3), Feb. 29, 2004, 118 Stat. 478; Pub. L. 108–224, §2(b)(2), Apr. 30, 2004, 118 Stat. 627; Pub. L. 108–263, §2(b)(2), June 30, 2004, 118 Stat. 698; Pub. L. 108–280, §2(b)(2), July 30, 2004, 118 Stat. 876; Pub. L. 108–310, §2(b)(5), Sept. 30, 2004, 118 Stat. 1145; Pub. L. 109–14, §2(b)(3), May 31, 2005, 119 Stat. 324; Pub. L. 109–20, §2(b)(2), July 1, 2005, 119 Stat. 346; Pub. L. 109–35, §2(b)(2), July 20, 2005, 119 Stat. 379; Pub. L. 109–37, §2(b)(2), July 22, 2005, 119 Stat. 394; Pub. L. 109–40, §2(b)(2), July 28, 2005, 119 Stat. 410; Pub. L. 109–59, title I, §1114, Aug. 10, 2005, 119 Stat. 1172; Pub. L. 110–244, title I, §101(m)(1), June 6, 2008, 122 Stat. 1575; Pub. L. 112–141, div. A, title I, §1111(a), July 6, 2012, 126 Stat. 445; Pub. L. 114–94, div. A, title I, §1111, Dec. 4, 2015, 129 Stat. 1344.)
+(Added Pub. L. 91–605, title II, §204(a), Dec. 31, 1970, 84 Stat. 1741; amended Pub. L. 93–87, title II, §204, Aug. 13, 1973, 87 Stat. 284; Pub. L. 93–643, §113, Jan. 4, 1975, 88 Stat. 2286; Pub. L. 95–599, title I, §124(a), Nov. 6, 1978, 92 Stat. 2702; Pub. L. 96–106, §§7, 8(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–327, §5(c), Oct. 15, 1982, 96 Stat. 1612; Pub. L. 97–424, title I, §§121(a), 122(a), Jan. 6, 1983, 96 Stat. 2111, 2112; Pub. L. 100–17, title I, §§123(a)–(d)(1), (3), (e), (f)(2), 128, 133(b)(11), Apr. 2, 1987, 101 Stat. 161–163, 167, 172; Pub. L. 102–240, title I, §1028(a)–(f), Dec. 18, 1991, 105 Stat. 1967, 1968; Pub. L. 103–220, §1, Mar. 17, 1994, 108 Stat. 100; Pub. L. 104–59, title III, §§318, 325(b), Nov. 28, 1995, 109 Stat. 588, 592; Pub. L. 105–178, title I, §§1109, 1115(f)(3); June 9, 1998, 112 Stat. 141; Pub. L. 105–206, title IX, §9002(i), July 22, 1998, 112 Stat. 836; Pub. L. 108–88, §2(b)(5), Sept. 30, 2003, 117 Stat. 1111; Pub. L. 108–202, §2(b)(3), Feb. 29, 2004, 118 Stat. 478; Pub. L. 108–224, §2(b)(2), Apr. 30, 2004, 118 Stat. 627; Pub. L. 108–263, §2(b)(2), June 30, 2004, 118 Stat. 698; Pub. L. 108–280, §2(b)(2), July 30, 2004, 118 Stat. 876; Pub. L.108–310, §2(b)(5), Sept. 30, 2004, 118 Stat. 1145; Pub. L. 109–14, §2(b)(3), May 31, 2005, 119 Stat. 324; Pub. L. 109–20, §2(b)(2), July 1, 2005, 119 Stat. 346; Pub. L. 109–35, §2(b)(2), July 20, 2005, 119 Stat. 379; Pub. L. 109–37, §2(b)(2), July 22, 2005, 119 Stat. 394; Pub. L. 109–40, §2(b)(2), July 28, 2005, 119 Stat. 410; Pub. L. 109–59, title I, §1114, Aug. 10, 2005, 119 Stat. 1172; Pub. L. 110–244, title I, §101(m)(1), June 6, 2008, 122 Stat. 1575; Pub. L. 112–141, div. A, title I, §1111(a), July 6, 2012, 126 Stat. 445; Pub. L. 114–94, div. A, title I, §1111, Dec. 4, 2015, 129 Stat. 1344.)
 
 #### References in Text
 
@@ -444,7 +444,7 @@ Pub. L. 108–202 substituted "April 30" for "February 29".
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–178, §1109(d)(1), (2), inserted ", sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and de-icing compositions or installing scour countermeasures" after "magnesium acetate" and inserted "or sodium acetate/formate or such anti-icing or de-icing composition or installation of such countermeasures" after "such acetate" in two places.
 
-Subsec. (e). Pub. L. 105–178, §1109(a), inserted ", and, if a State transfers funds apportioned to the State under this section in a fiscal year beginning after September 30, 1997, to any other apportionment of funds to such State under this title, the total cost of deficient bridges in such State and in all States to be determined for the succeeding fiscal year shall be reduced by theamount of such transferred funds" after "destroyed bridges and ferryboat services".
+Subsec. (e). Pub. L. 105–178, §1109(a), inserted ", and, if a State transfers funds apportioned to the State under this section in a fiscal year beginning after September 30, 1997, to any other apportionment of funds to such State under this title, the total cost of deficient bridges in such State and in all States to be determined for the succeeding fiscal year shall be reduced by the amount of such transferred funds" after "destroyed bridges and ferryboat services".
 
 Subsec. (g)(1). Pub. L. 105–178, §1109(b), designated existing provisions as subpar. (A), inserted heading, realigned margins, and added subpars. (B) and (C).
 
@@ -486,7 +486,7 @@ Subsec. (h). Pub. L. 100–17, §123(b), substituted "(1)" for "which are not su
 
 Subsec. (i). Pub. L. 100–17, §128, substituted "307(f)" for "307(e)" in last sentence.
 
-Pub. L. 100–17, §123(c), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: "The Secretary shall report annually on projects approved under this section, shall annually revise and report the current inventories authorized by subsections (b) and (c) of this section, and shall report such recommendations as he may have for improvement of the program authorized by this section."
+Pub. L. 100–17, §123(c), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: "TheSecretary shall report annually on projects approved under this section, shall annually revise and report the current inventories authorized by subsections (b) and (c) of this section, and shall report such recommendations as he may have for improvement of the program authorized by this section."
 
 Subsec. (m). Pub. L. 100–17, §123(d)(1), added subsec. (m). Former subsec. (m) redesignated (p).
 
@@ -502,7 +502,7 @@ Pub. L. 97–327, §5(c)(1), substituted "September 30, 1982, and September 30, 
 
 Subsec. (g). Pub. L. 97–424, §122(a), designated existing provisions as par. (1), struck out provisions added by section 5(c)(2) of Pub. L. 97–327 relating to apportionment of amounts for fiscal year ending Sept. 30, 1983, and added par. (2).
 
-Pub. L. 97–327, §5(c)(2), inserted provision that, of the amount authorized for the fiscal year ending September 30, 1983, by paragraph (1) of section 5(a) of the Federal-Aid Highway Act of 1982, all but $200,000,000 (multiplied by the factor determined under section 4(a) of such Act) be apportioned, and that $200,000,000 (multiplied by such factor) of the amount authorized for such fiscal year be available for obligation on the date ofeach such apportionment in the same manner and to the same extent as the sums apportioned on such date with specific limitations applicable to the obligation of such $200,000,000.
+Pub. L. 97–327, §5(c)(2), inserted provision that, of the amount authorized for the fiscal year ending September 30, 1983, by paragraph (1) of section 5(a) of the Federal-Aid Highway Act of 1982, all but $200,000,000 (multiplied by the factor determined under section 4(a) of such Act) be apportioned, and that $200,000,000 (multiplied by such factor) of the amount authorized for such fiscal year be available for obligation on the date of each such apportionment in the same manner and to the same extent as the sums apportioned on such date with specific limitations applicable to the obligation of such $200,000,000.
 
 <b>1979</b>—Subsec. (d). Pub. L. 96–106, §7(a), substituted "such bridge with a comparable facility or in rehabilitating such bridge" for "or rehabilitating such bridge with a comparable facility".
 
@@ -566,7 +566,7 @@ Pub. L. 97–424, title I, §121(b), Jan. 6, 1983, 96 Stat. 2112, provided that:
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in subsec. (h)(1), (3), and (4) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 135 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in subsec. (h)(1), (3), and (4) of this section,see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 135 of House Document No. 103–7.
 
 #### National Historic Covered Bridge Preservation
 
@@ -634,5 +634,5 @@ Pub. L. 95–599, title I, §124(c), Nov. 6, 1978, 92 Stat. 2705, directed Secre
 
 #### Acceleration of Bridge Projects; Ohio River Bridge Fund Reprogramming; Reports to Congress
 
-Pub. L. 95–599, title I, §147, Nov. 6, 1978, 92 Stat. 2714, as amended by Pub. L. 96–106, §15, Nov. 19, 1979, 93 Stat. 798; Pub. L. 99–272, title IV, §4105, Apr. 7, 1986, 100 Stat. 116, directed Secretary of Transportation to conduct two projects to construct or replace high-traffic-volume bridges on the Federal-aid highway system which span major bodies of water in order to demonstrate the feasibility of reducing the time required to replace unsafe bridges; authorized funds for the projects; directed Secretary to report to Congress within six months after the completion of each project; redirected certain funds in excess of amounts needed to complete the projects for use in further projects for construction of three state-of-the-art Ohio River bridges linking designated cities in Kentucky and Ohio; and directed Secretary to report to Congress within a year after the completion of these bridges.
+Pub. L. 95–599, title I, §147, Nov. 6, 1978, 92 Stat. 2714, as amended by Pub. L. 96–106, §15, Nov. 19, 1979, 93 Stat. 798; Pub. L. 99–272, title IV, §4105, Apr. 7, 1986, 100 Stat. 116, directed Secretary of Transportation to conduct two projects to construct or replace high-traffic-volume bridges on the Federal-aid highway system which span major bodies of water in order to demonstrate the feasibility of reducing the time required to replace unsafe bridges; authorized funds for the projects; directed Secretary to report to Congress within six months after the completion of each project; redirected certain funds in excess of amounts needed to complete the projects for use in further projects for construction of three state-of-the-art Ohio River bridges linking designated cities in Kentucky and Ohio; and directed Secretary toreport to Congress within a year after the completion of these bridges.
 

@@ -30,11 +30,13 @@ Under regulations prescribed by the Secretary—
 
 &emsp;(1) rules similar to the rules applicable under section 1245 shall be applied for purposes of this section, and
 
-&emsp;(2) for purposes of sections 170(e),<sup>1</sup> and 751(c), amounts treated as ordinary income under this section shall be treated in the same manner as amounts treated as ordinary income under section 1245.
+&emsp;(2) for purposes of sections 170(e) and 751(c), amounts treated as ordinary income under this section shall be treated in the same manner as amounts treated as ordinary income under section 1245.
 
-(Added Pub. L. 95–600, title V, §543(c)(1), Nov. 6, 1978, 92 Stat. 2890; amended Pub. L. 96–222, title I, §105(a)(7)(B), (D), Apr. 1, 1980, 94 Stat. 221; Pub. L. 96–471, §2(b)(6), Oct. 19, 1980, 94 Stat. 2254; Pub. L. 99–514, title V, §511(d)(2)(A), title VI, §631(e)(14), Oct. 22, 1986, 100 Stat. 2248, 2275; Pub. L. 100–647, title I, §1005(c)(10), Nov. 10, 1988, 102 Stat. 3392; Pub. L. 108–27, title III, §302(e)(4)(B)(ii), May 28, 2003, 117 Stat. 764.)
+(Added Pub. L. 95–600, title V, §543(c)(1), Nov. 6, 1978, 92 Stat. 2890; amended Pub. L. 96–222, title I, §105(a)(7)(B), (D), Apr. 1, 1980, 94 Stat. 221; Pub. L. 96–471, §2(b)(6), Oct. 19, 1980, 94 Stat. 2254; Pub. L. 99–514, title V, §511(d)(2)(A), title VI, §631(e)(14), Oct. 22, 1986, 100 Stat. 2248, 2275; Pub. L. 100–647, title I, §1005(c)(10), Nov. 10, 1988, 102 Stat. 3392; Pub. L. 108–27, title III, §302(e)(4)(B)(ii), May 28, 2003, 117 Stat. 764; Pub. L. 115–141, div. U, title IV, §401(a)(175), Mar. 23, 2018, 132 Stat. 1192.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2). Pub. L. 115–141 substituted "170(e)" for "170(e),".
 
 <b>2003</b>—Subsec. (b)(2). Pub. L. 108–27 struck out ", 341(e)(12)," after "170(e)".
 
@@ -73,6 +75,4 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 #### Effective Date
 
 Section effective with respect to grants made under the programs after Sept. 30, 1979, see section 543(d) of Pub. L. 95–600, set out as a note under section 126 of this title.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

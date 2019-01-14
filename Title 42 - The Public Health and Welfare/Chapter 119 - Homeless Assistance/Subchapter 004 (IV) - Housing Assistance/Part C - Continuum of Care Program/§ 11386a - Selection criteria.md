@@ -52,7 +52,7 @@ The Secretary shall award funds to recipients through a national competition bet
 
 &emsp;&emsp;&emsp;(v) whether the recipient proposes to exercise authority to use funds under section 11382(j) of this title, and if so, how the recipient will achieve the goals and outcomes identified in subsection (b)(1)(F);
 
-&emsp;&emsp;(C) the methodology of the recipient used to determine the priority for funding local projects under section 11382(c)(1) of this title, including the extent to which the priority-setting process—
+&emsp;&emsp;(C) the methodology of the recipient used to determine the priority for funding localprojects under section 11382(c)(1) of this title, including the extent to which the priority-setting process—
 
 &emsp;&emsp;&emsp;(i) uses periodically collected information and analysis to determine the extent to which each project has resulted in rapid return to permanent housing for those served by the project, taking into account the severity of barriers faced by the people the project serves;
 
@@ -86,7 +86,7 @@ The Secretary shall award funds to recipients through a national competition bet
 
 #### (i) Formula
 
-&emsp;&emsp;&emsp;Such estimated grant amounts shall be determined by a formula, which shall bedeveloped by the Secretary, by regulation, not later than the expiration of the 2-year period beginning upon May 20, 2009, that is based upon factors that are appropriate to allocate funds to meet the goals and objectives of this part.
+&emsp;&emsp;&emsp;Such estimated grant amounts shall be determined by a formula, which shall be developed by the Secretary, by regulation, not later than the expiration of the 2-year period beginning upon May 20, 2009, that is based upon factors that are appropriate to allocate funds to meet the goals and objectives of this part.
 
 #### (ii) Combinations or consortia
 

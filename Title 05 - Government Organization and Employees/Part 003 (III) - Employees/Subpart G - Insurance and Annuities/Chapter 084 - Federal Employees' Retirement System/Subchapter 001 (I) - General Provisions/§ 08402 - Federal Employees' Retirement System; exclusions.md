@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(II) at least 5 years of civilian service creditable under subchapter I of chapter 8 of title I of the Foreign Service Act of 1980; or
 
-&emsp;&emsp;&emsp;(III) at least 5 years of civilian service (other than any service performed in the employ of a Federal Reserve Bank) creditable under the benefit structure for employees of the Board of Governors of theFederal Reserve System appointed before January 1, 1984, that is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act,
+&emsp;&emsp;&emsp;(III) at least 5 years of civilian service (other than any service performed in the employ of a Federal Reserve Bank) creditable under the benefit structure for employees of the Board of Governors of the Federal Reserve System appointed before January 1, 1984, that is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act,
 
 > &emsp;&emsp;determined without regard to any deposit or redeposit requirement under either such subchapter or under such benefit structure, or any requirement that the individual become subject to either such subchapter or to such benefit structure after performing the service involved; or
 
@@ -68,7 +68,7 @@
 
 (g) A judge of the United States Court of Federal Claims who is covered by section 178 of title 28 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge shall be entitled to a lump-sum credit under section 8424 of this title.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 521; amended Pub. L. 99–556, title I, §116, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, §130, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 100–659, §6(c), Nov. 15, 1988, 102 Stat. 3919;Pub. L. 101–94, title I, §102(b), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–474, §5(p), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–650, title III, §§306(e)(3), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–198, §7(d), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–53, title I, §115, Nov. 19, 1995, 109 Stat. 527; Pub. L. 104–186, title II, §215(13), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–274, §6(a), Oct. 20, 1998, 112 Stat. 2424; Pub. L. 106–168, title II, §202(b), Dec. 12, 1999, 113 Stat. 1818; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 521; amended Pub. L. 99–556, title I, §116, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, §130, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 100–659, §6(c), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(b), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–474, §5(p), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–650, title III, §§306(e)(3), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–198, §7(d), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–53, title I, §115, Nov. 19, 1995, 109 Stat. 527; Pub. L. 104–186, title II, §215(13), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–274, §6(a), Oct. 20, 1998, 112 Stat. 2424; Pub. L. 106–168, title II, §202(b), Dec. 12, 1999, 113 Stat. 1818; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241.)
 
 #### References in Text
 
@@ -130,7 +130,7 @@ Pub. L. 106–168, title II, §202(d), Dec. 12, 1999, 113 Stat. 1819, provided t
 
 "(1)
 
-In general.—Subject to succeeding provisions of this subsection, this section \[amending this section and section 8411 of this title and enacting provisions set out as a note under this section\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Dec. 12, 1999\].
+In general.—Subject to succeeding provisions of this subsection, this section \[amending this section andsection 8411 of this title and enacting provisions set out as a note under this section\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Dec. 12, 1999\].
 
 "(2)
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–650 applicable to judges of, and senior judges in active service with, the UnitedStates Court of Federal Claims on or after Dec. 1, 1990, see section 306(f) of Pub. L. 101–650, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 101–650 applicable to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after Dec. 1, 1990, see section 306(f) of Pub. L. 101–650, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1988 Amendment
 

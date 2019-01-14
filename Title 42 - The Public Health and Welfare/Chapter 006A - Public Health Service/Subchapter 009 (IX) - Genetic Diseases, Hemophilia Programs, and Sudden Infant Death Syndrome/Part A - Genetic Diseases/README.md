@@ -16,7 +16,7 @@ Pub. L. 92–414, §4(1), Aug. 29, 1972, 86 Stat. 652, redesignated subchapter I
 - [&sect; 00300b&#8211;2 - Voluntary participation by individuals](%C2%A7%2000300b%E2%80%932%20-%20Voluntary%20participation%20by%20individuals.md)
 - [&sect; 00300b&#8211;3 - Application; special consideration to prior sickle cell anemia grant recipients](%C2%A7%2000300b%E2%80%933%20-%20Application%3B%20special%20consideration%20to%20prior%20sickle%20cell%20anemia%20grant%20recipients.md)
 - [&sect; 00300b&#8211;4 - Public Health Service facilities](%C2%A7%2000300b%E2%80%934%20-%20Public%20Health%20Service%20facilities.md)
-- [&sect; 00300b&#8211;5 - Repealed. Pub. L. 97&#8211;35, title XXI, &sect;2193(b)(4), Aug. 13, 1981, 95 Stat. 827](%C2%A7%2000300b%E2%80%935%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XXI%2C%20%C2%A72193%28b%29%284%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20827.md)
+- [&sect; 00300b&#8211;5 - Sickle cell disease and other heritable blood disorders research, surveillance, prevention, and treatment](%C2%A7%2000300b%E2%80%935%20-%20Sickle%20cell%20disease%20and%20other%20heritable%20blood%20disorders%20research%2C%20surveillance%2C%20prevention%2C%20and%20treatment.md)
 - [&sect; 00300b&#8211;6 - Applied technology](%C2%A7%2000300b%E2%80%936%20-%20Applied%20technology.md)
 - [&sect; 00300b&#8211;7 - Tourette Syndrome](%C2%A7%2000300b%E2%80%937%20-%20Tourette%20Syndrome.md)
 - [&sect; 00300b&#8211;8 - Improved newborn and child screening for heritable disorders](%C2%A7%2000300b%E2%80%938%20-%20Improved%20newborn%20and%20child%20screening%20for%20heritable%20disorders.md)

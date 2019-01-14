@@ -4,7 +4,7 @@
 
 #### (1) Appointments; public participation; compensation
 
-&emsp;(A) The Secretary, in consultation with the Secretary of State, shall appoint a General Advisory Committee which shall consist of not more than 25 individuals who shall be representative of the various groups concerned with the fisheries covered by the Convention, including nongovernmental conservation organizations, providing to the maximum extent practicable an equitable balance among such groups. Members of the General Advisory Committee will be eligible to participate as members of the United States delegation to the Commission and its working groups to the extent the Commission rules and space for delegations allow.
+&emsp;(A) The Secretary, in consultation with the Secretary of State, shall appoint a GeneralAdvisory Committee which shall consist of not more than 25 individuals who shall be representative of the various groups concerned with the fisheries covered by the Convention, including nongovernmental conservation organizations, providing to the maximum extent practicable an equitable balance among such groups. Members of the General Advisory Committee will be eligible to participate as members of the United States delegation to the Commission and its working groups to the extent the Commission rules and space for delegations allow.
 
 &emsp;(B) The chair of the Pacific Fishery Management Council's Advisory Subpanel for Highly Migratory Fisheries and the chair of the Western Pacific Fishery Management Council's Advisory Committee shall be ex-officio members of the General Advisory Committee by virtue of their positions in those Councils.
 

@@ -1,0 +1,32 @@
+### §630. Discharge of commissioned officers with less than six years of active commissioned service or found not qualified for promotion for first lieutenant or lieutenant (junior grade)
+
+The Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense—
+
+&emsp;(1) may discharge any officer on the active-duty list who—
+
+&emsp;&emsp;(A) has less than six years of active commissioned service; or
+
+&emsp;&emsp;(B) is serving in the grade of second lieutenant or ensign and has been found not qualified for promotion to the grade of first lieutenant or lieutenant (junior grade); and
+
+&emsp;(2) shall, unless the officer has been promoted, discharge any officer described in paragraph (1)(B) at the end of the 18-month period beginning on the date on which the officer is first found not qualified for promotion.
+
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2861; amended Pub. L. 98–525, title XIV, §1405(11), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 107–107, div. A, title V, §505(d)(2), (4)(A), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 108–136, div. A, title V, §505(b), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 110–181, div. A, title V, §503(a)(1), (2), Jan. 28, 2008, 122 Stat. 95.)
+
+#### Amendments
+
+<b>2008</b>—Pub. L. 110–181, §503(a)(2), substituted "six years" for "five years" in section catchline.
+
+Par. (1)(A). Pub. L. 110–181, §503(a)(1), substituted "six years" for "five years".
+
+<b>2003</b>—Par. (2). Pub. L. 108–136 substituted "paragraph" for "clause".
+
+<b>2001</b>—Pub. L. 107–107, §505(d)(4)(A), struck out "regular" before "commissioned officers" in section catchline.
+
+Par. (1). Pub. L. 107–107, §505(d)(2), struck out "regular" before "officer" in introductory provisions and before "grade of first lieutenant" in subpar. (B).
+
+<b>1984</b>—Par. (2). Pub. L. 98–525 substituted "18-month" for "eighteen-month".
+
+#### Effective Date
+
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+

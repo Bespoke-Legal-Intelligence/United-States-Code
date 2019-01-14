@@ -6,7 +6,7 @@ On and after August 11, 1978, it shall be the policy of the United States to pro
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–344, §1, Oct. 6, 1994, 108 Stat. 3125, provided that: "This Act \[enacting section 1996a of this title\] may be cited as the 'American Indian Religious Freedom Act Amendments of 1994'."
+Pub. L. 103–344, §1, Oct. 6, 1994, 108 Stat. 3125, provided that: "This Act \[enacting section 1996a of this title\]may be cited as the 'American Indian Religious Freedom Act Amendments of 1994'."
 
 #### Short Title
 

@@ -12,7 +12,7 @@
 
 #### (3) Publication of selection criteria
 
-&emsp;Not less than 30 days before any deadline by which applications or requests for assistance under any program or discretionary fund administered by the Secretary must be submitted, the Secretary shall publish in the Federal Register the criteria by which selection for the assistance will be made. Subject to section 1439 of this title, such criteria shall include any objective measures of housing need, project merit, or efficient use of resourcesthat the Secretary determines are appropriate and consistent with the statute under which the assistance is made available.
+&emsp;Not less than 30 days before any deadline by which applications or requests for assistance under any program or discretionary fund administered by the Secretary must be submitted, the Secretary shall publish in the Federal Register the criteria by which selection for the assistance will be made. Subject to section 1439 of this title, such criteria shall include any objective measures of housing need, project merit, or efficient use of resources that the Secretary determines are appropriate and consistent with the statute under which the assistance is made available.
 
 #### (4) Documentation of decisions
 
@@ -70,7 +70,7 @@ During the period when an application is pending or assistance is being provided
 
 #### (d) Limitation of assistance
 
-The Secretary shall certify that assistance within the jurisdiction of the Department, as such term is defined in subsection (m), except that for purposes of this subsection such termshall not include any mortgage insurance provided pursuant to title II of the National Housing Act (12 U.S.C. 1707 et seq.) <sup>1</sup> to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance described in subsection (b)(1). The Secretary shall adjust the amount of such assistance awarded or allocated to an applicant to compensate in whole or in part, as the Secretary determines to be appropriate, for any changes reported under subsection (c).
+The Secretary shall certify that assistance within the jurisdiction of the Department, as such term is defined in subsection (m), except that for purposes of this subsection such term shall not include any mortgage insurance provided pursuant to title II of the National Housing Act (12 U.S.C. 1707 et seq.) <sup>1</sup> to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance described in subsection (b)(1). The Secretary shall adjust the amount of such assistance awarded or allocated to an applicant to compensate in whole or in part, as the Secretary determines to be appropriate, for any changes reported under subsection (c).
 
 #### (e) Administrative remedies
 
@@ -132,7 +132,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (2) Objections not raised in hearing
 
-&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (g)(1) unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+&emsp;The court shall not consider any objection that was not raised in the hearing conductedpursuant to subsection (g)(1) unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
 #### (3) Scope of review
 

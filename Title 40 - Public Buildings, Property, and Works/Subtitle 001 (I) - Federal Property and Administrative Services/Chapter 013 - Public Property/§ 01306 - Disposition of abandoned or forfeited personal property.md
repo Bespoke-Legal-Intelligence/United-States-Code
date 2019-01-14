@@ -14,7 +14,7 @@ Property.—The term "property" means all personal property, including vessels, 
 
 (b)
 
-Voluntarily Abandoned Property.—Property voluntarily abandoned to any agency in a way that vests title to the property in theGovernment may be retained by the agency and devoted to official use only. If the agency does not desire to retain the property, the head of the agency immediately shall notify the Administrator of General Services to that effect, and the Administrator, within a reasonable time, shall—
+Voluntarily Abandoned Property.—Property voluntarily abandoned to any agency in a way that vests title to the property in the Government may be retained by the agency and devoted to official use only. If the agency does not desire to retain the property, the head of the agency immediately shall notify the Administrator of General Services to that effect, and the Administrator, within a reasonable time, shall—
 
 &emsp;(1) order the agency to deliver the property to another agency that requests the property and that the Administrator believes should be given the property; or
 
@@ -98,7 +98,7 @@ Availability of appropriations.—The appropriation available to an agency for t
 
 &emsp;(2)
 
-Payment and reimbursement of certain costs.—The agency that receives property under this section shall pay the cost of hauling, transporting, towing, and storing the property. If the property is later delivered to another agency for official use under this section, the agency to which the property is delivered shall make reimbursement for all of those costs incurred prior to the date the property is delivered.
+Payment and reimbursement of certain costs.—The agency that receives property under this section shall pay the cost of hauling, transporting, towing, and storing theproperty. If the property is later delivered to another agency for official use under this section, the agency to which the property is delivered shall make reimbursement for all of those costs incurred prior to the date the property is delivered.
 
 (g)
 
@@ -114,7 +114,7 @@ Regulations.—With the approval of the Secretary, the Administrator may prescri
 
 &emsp;(2)
 
-Other laws not repealed.—This section does not repeal any other laws relating to thedisposition of forfeited or abandoned property, except provisions of those laws directly in conflict with this section which were enacted prior to August 27, 1935.
+Other laws not repealed.—This section does not repeal any other laws relating to the disposition of forfeited or abandoned property, except provisions of those laws directly in conflict with this section which were enacted prior to August 27, 1935.
 
 &emsp;(3)
 

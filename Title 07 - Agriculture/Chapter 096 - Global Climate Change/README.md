@@ -9,7 +9,7 @@
 | [6705\.](%C2%A7%2006705%20-%20Line%20item.md) | Line item. |
 | [6706\.](%C2%A7%2006706%20-%20Institutes%20of%20Tropical%20Forestry.md) | Institutes of Tropical Forestry. |
 | [6707\.](%C2%A7%2006707%20-%20Urban%20forestry%20demonstration%20projects.md) | Urban forestry demonstration projects. |
-| [6708\.](%C2%A7%2006708%20-%20Biomass%20energy%20demonstration%20projects.md) | Biomass energy demonstration projects. |
+| [6708\.](%C2%A7%2006708%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20VIII%2C%20%C2%A78301%28a%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204840.md) | Repealed. |
 | [6709\.](%C2%A7%2006709%20-%20Interagency%20cooperation%20to%20maximize%20biomass%20growth.md) | Interagency cooperation to maximize biomass growth. |
 | [6710\.](%C2%A7%2006710%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [6711\.](%C2%A7%2006711%20-%20Carbon%20cycle%20research.md) | Carbon cycle research. |
@@ -28,7 +28,7 @@
 - [&sect; 06705 - Line item](%C2%A7%2006705%20-%20Line%20item.md)
 - [&sect; 06706 - Institutes of Tropical Forestry](%C2%A7%2006706%20-%20Institutes%20of%20Tropical%20Forestry.md)
 - [&sect; 06707 - Urban forestry demonstration projects](%C2%A7%2006707%20-%20Urban%20forestry%20demonstration%20projects.md)
-- [&sect; 06708 - Biomass energy demonstration projects](%C2%A7%2006708%20-%20Biomass%20energy%20demonstration%20projects.md)
+- [&sect; 06708 - Repealed. Pub. L. 115&#8211;334, title VIII, &sect;8301(a), Dec. 20, 2018, 132 Stat. 4840](%C2%A7%2006708%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20VIII%2C%20%C2%A78301%28a%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204840.md)
 - [&sect; 06709 - Interagency cooperation to maximize biomass growth](%C2%A7%2006709%20-%20Interagency%20cooperation%20to%20maximize%20biomass%20growth.md)
 - [&sect; 06710 - Authorization of appropriations](%C2%A7%2006710%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 06711 - Carbon cycle research](%C2%A7%2006711%20-%20Carbon%20cycle%20research.md)

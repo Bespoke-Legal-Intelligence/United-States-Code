@@ -94,7 +94,7 @@ Assistance for Treatment of Torture Victims.—The Secretary of Health and Human
 
 &emsp;"(2) Social and legal services for victims of torture.
 
-&emsp;"(3) Research and training for health care providers outside of treatment centers, or programs for thepurpose of enabling such providers to provide the services described in paragraph (1).
+&emsp;"(3) Research and training for health care providers outside of treatment centers, or programs for the purpose of enabling such providers to provide the services described in paragraph (1).
 
 "(b)
 
@@ -162,5 +162,5 @@ Gender-Related Considerations.—In conducting training under subsection (a)(4) 
 
 \[Pub. L. 108–179, §2(b), Dec. 15, 2003, 117 Stat. 2643, provided that: "The amendment made by subsection (a) \[amending section 5(b)(1) of Pub. L. 105–320, set out above\] shall take effect October 1, 2003."\]
 
-\[Pub. L. 108–179, §3(b), Dec. 15, 2003, 117 Stat. 2643, provided that: "The amendment made by subsection (a) \[amending section 4(b)(1) of Pub. L. 105–320, set out above\] shall take effect October 1, 2003."\]
+\[Pub. L. 108–179, §3(b), Dec. 15, 2003, 117 Stat. 2643, provided that: "The amendment made by subsection (a)\[amending section 4(b)(1) of Pub. L. 105–320, set out above\] shall take effect October 1, 2003."\]
 

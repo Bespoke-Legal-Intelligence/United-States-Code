@@ -44,5 +44,5 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Disaster Plan Improvements
 
-Pub. L. 114–88, div. A, title I, §1105, Nov. 25, 2015, 129 Stat. 688, provided that: "The Administrator of the Small Business Administration shall revise the comprehensive written disaster response plan required in section 40 of the Small Business Act (15 U.S.C. 657l), orany successor thereto, to incorporate the Administration's response to a situation in which an extreme volume of applications are received during the period of time immediately after a disaster, which shall include a plan to ensure that sufficient human and technological resources are made available and a plan to prevent delays in loan processing."
+Pub. L. 114–88, div. A, title I, §1105, Nov. 25, 2015, 129 Stat. 688, provided that: "The Administrator of the Small Business Administration shall revise the comprehensive written disaster response plan required in section 40 of the Small Business Act (15 U.S.C. 657l), or any successor thereto, to incorporate the Administration's response to a situation in which an extreme volume of applications are received during the period of time immediately after a disaster, which shall include a plan to ensure that sufficient human and technological resources are made available and a plan to prevent delays in loan processing."
 

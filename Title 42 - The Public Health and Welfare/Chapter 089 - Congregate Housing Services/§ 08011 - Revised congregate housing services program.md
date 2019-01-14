@@ -56,7 +56,7 @@
 
 &emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture (through Administrator of the Farmers Home Administration) shall enter into contracts with States, Indian tribes, units of general local government and local nonprofit housing sponsors, utilizing any amounts appropriated under subsection (n)—
 
-&emsp;&emsp;(A) to provide congregate services programs for eligible project residents to promote and encourage maximum independencewithin a home environment for such residents capable of self-care with appropriate supportive services; or
+&emsp;&emsp;(A) to provide congregate services programs for eligible project residents to promote and encourage maximum independence within a home environment for such residents capable of self-care with appropriate supportive services; or
 
 &emsp;&emsp;(B) to adapt housing to better accommodate the physical requirements and service needs of eligible residents.
 
@@ -132,7 +132,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 &emsp;&emsp;(B) working with service providers and the professional assessment committee to tailor the provision of services to the needs and characteristics of eligible residents;
 
-&emsp;&emsp;(C) mobilizing public and private resources to ensure that the qualifying supportive services identified pursuant to subsection (d)can be funded over the time period identified under such subsection;
+&emsp;&emsp;(C) mobilizing public and private resources to ensure that the qualifying supportive services identified pursuant to subsection (d) can be funded over the time period identified under such subsection;
 
 &emsp;&emsp;(D) monitoring and evaluating the impact and effectiveness of any supportive service program receiving capital or operating assistance under this section; and
 
@@ -164,7 +164,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (B) Other residents and nonresidents
 
-&emsp;&emsp;Fees shall be established under this paragraph for residents of eligible housing projects (other than eligible project residents) and for nonresidents that receive services from a congregate services program pursuant to subsection (e). Such fees shall be in an amount equal to the cost of providing the services.
+&emsp;&emsp;Fees shall be established under this paragraph for residents of eligible housingprojects (other than eligible project residents) and for nonresidents that receive services from a congregate services program pursuant to subsection (e). Such fees shall be in an amount equal to the cost of providing the services.
 
 #### (8) Direct and indirect provision of services
 
@@ -284,7 +284,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 &emsp;&emsp;(i) For any congregate services program that was receiving assistance under a contract under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] on November 28, 1990,<sup>6</sup> the unit of general local government or nonprofit housing sponsor, in coordination with a local government with respect to such program shall not be subject to the requirement to provide supplemental contributions under subparagraph (A)(i) (for such program) for the 6-year period beginning on the expiration of the contract for such assistance. The Secretary concerned shall require each such program to maintain, for such 6-year period, the same dollar amount of annual contributions in support of the services eligible for assistance under this section as were contributed to such program during the year preceding November 28, 1990.<sup>6</sup>
 
-&emsp;&emsp;(ii) To the extent that the limitations under subsection (d)(7) regarding the percentage of income eligible residents may pay for services will result in collected fees for any congregate services program of less than 10 percent of the cost of providing the program, 50 percent of such remaining costs shall be provided by the recipient of amounts under the contract and 50 percent of such remaining costs shall be provided by the Secretary concerned under such contract.
+&emsp;&emsp;(ii) To the extent that the limitations under subsection (d)(7) regarding the percentage of income eligible residents may pay for services will result in collected fees for any congregate services program of less than 10 percent of the cost of providing the program, 50 percent of such remaining costsshall be provided by the recipient of amounts under the contract and 50 percent of such remaining costs shall be provided by the Secretary concerned under such contract.
 
 #### (C) Eligible supplemental contributions
 
@@ -320,7 +320,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 #### (3) Eligibility and priority for 1978 Act recipients
 
-&emsp;Notwithstanding any other provision of this section, any public housing agency, housing assisted under section 1701q of title 12, or nonprofit corporation that was receiving assistance under a contract under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] on November 5, 1990,<sup>8</sup> shall (subject to approval and allocation of sufficient amounts under the Congregate Housing Services Act of 1978 and appropriations Acts under such Act) receive assistance under the Congregate Housing Services Act of 1978 for the remainder of the term of the contract for assistance for such agency or corporation under such Act, and shall receive priority for assistance under this section after the expiration of such period.
+&emsp;Notwithstanding any other provision of this section, any public housing agency, housing assisted under section 1701q of title 12, or nonprofit corporation that was receiving assistance under a contract under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] on November 5, 1990,<sup>6</sup> shall (subject to approval and allocation of sufficient amounts under the Congregate Housing Services Act of 1978 and appropriations Acts under such Act) receive assistance under the Congregate Housing Services Act of 1978 for the remainder of the term of the contract for assistance for such agency or corporation under such Act, and shall receive priority for assistance under this section after the expiration of such period.
 
 #### (4) Administrative cost limitation
 
@@ -342,9 +342,9 @@ For purposes of this section:
 
 &emsp;(6) The term "eligible housing project" means—
 
-&emsp;&emsp;(A) public housing (as such term is defined in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\]) and lower income housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority under title II <sup>9</sup> of the United States Housing Act of 1937;
+&emsp;&emsp;(A) public housing (as such term is defined in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\]) and lower income housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority under title II <sup>8</sup> of the United States Housing Act of 1937;
 
-&emsp;&emsp;(B) housing assisted under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] with a contract that is attached to the structure under subsection (d)(2) of such section or with a contract entered into in connection with the new construction or moderate rehabilitation of the structure under section 8(b)(2) of the United States Housing Act,<sup>9</sup> as such section existed before October 1, 1983;
+&emsp;&emsp;(B) housing assisted under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] with a contract that is attached to the structure under subsection (d)(2) of such section or with a contract entered into in connection with the new construction or moderate rehabilitation of the structure under section 8(b)(2) of the United States Housing Act,<sup>8</sup> as such section existed before October 1, 1983;
 
 &emsp;&emsp;(C) housing assisted under section 1701q of title 12;
 
@@ -362,7 +362,7 @@ For purposes of this section:
 
 &emsp;(10) The term "instrumental activity of daily living" means a regularly necessary home management activity and includes preparing meals, shopping for personal items, managing money, using the telephone, and performing light or heavy housework.
 
-&emsp;(11) The term "local nonprofit housing sponsor" includes public housing agencies (as such term is defined in section 3(b)(6) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(6)\].<sup>10</sup>
+&emsp;(11) The term "local nonprofit housing sponsor" includes public housing agencies (as such term is defined in section 3(b)(6) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(6)\].<sup>9</sup>
 
 &emsp;(12) The term "nonprofit", as applied to an organization, means no part of the net earnings of the organization inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
@@ -380,7 +380,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) the Secretary of Agriculture, with respect to eligible federally assisted housing administered by the Administrator of the Farmers Home Administration.
 
-&emsp;(18) The term "State" means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+&emsp;(18) The term "State" means the States of the United States, the District of Columbia,the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
 &emsp;(19) The term "temporarily disabled" means having an impairment that—
 
@@ -392,7 +392,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) means any city, town, township, county, parish, village, or other general purpose political subdivision of a State; and
 
-&emsp;&emsp;(B) includes a unit of general government acting as an applicant for assistance under this section in cooperation with a nonprofit housing sponsor and a nonprofit housing sponsor acting as an applicant for assistance under this section in cooperation with a unit of general local government, as provided under subsection (g)(1)(B).<sup>11</sup>
+&emsp;&emsp;(B) includes a unit of general government acting as an applicant for assistance under this section in cooperation with a nonprofit housing sponsor and a nonprofit housing sponsor acting as an applicant for assistance under this section in cooperation with a unit of general local government, as provided under subsection (g)(1)(B).<sup>10</sup>
 
 #### (l) Reports to Congress
 
@@ -408,7 +408,7 @@ For purposes of this section:
 
 #### (2) Submission of data to Secretary concerned
 
-&emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture shall provide, by regulation under subsection (m), for the submission of data by recipients of assistance under this section to be used in the repeat <sup>12</sup> required by paragraph (1).
+&emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture shall provide, by regulation under subsection (m), for the submission of data by recipients of assistance under this section to be used in the repeat <sup>11</sup> required by paragraph (1).
 
 #### (m) Regulations
 
@@ -420,7 +420,7 @@ The Secretary of Housing and Urban Development and the Secretary of Agriculture 
 
 &emsp;There are authorized to be appropriated to carry out this section $21,000,000 for fiscal year 1993, and $21,882,000 for fiscal year 1994, of which not more than—
 
-&emsp;&emsp;(A) the amount of such sums appropriated that, with respect to the total amount appropriated, represents the ratio of the total number of units of eligible federally assisted housing for elderly individuals assisted by programs administered by the Secretary of Housing and Urban Development to the total number of units assisted by programs administered by such Secretary and the Secretary of Agriculture, shall be used for assistance for congregate services programs in eligible federally assisted housing administered by the Secretary of Housing and Urban Development: <sup>13</sup> and
+&emsp;&emsp;(A) the amount of such sums appropriated that, with respect to the total amount appropriated, represents the ratio of the total number of units of eligible federally assisted housing for elderly individuals assisted by programs administered by the Secretary of Housing and Urban Development to the total number of units assisted by programs administered by such Secretary and the Secretary of Agriculture, shall be used for assistance for congregate services programs in eligible federally assisted housing administered by the Secretary of Housing and Urban Development: <sup>12</sup> and
 
 &emsp;&emsp;(B) the amount of such sums appropriated that, with respect to the total amount appropriated, represents the ratio of the total number of units of eligible federally assisted housing for elderly individuals assisted by programs administered by the Secretary of Agriculture to the total number of units assisted by programs administered by such Secretary and the Secretary of Housing and Urban Development, shall be used for assistance for congregate services programs in eligible federally assisted housing administered by the Secretary of Agriculture (through the Administrator of the Farmers Home Administration).
 
@@ -440,7 +440,7 @@ The Older Americans Act of 1965, referred to in subsec. (d)(2)(B)(i), is Pub. L.
 
 The Congregate Housing Services Act of 1978, referred to in subsecs. (d)(2)(B)(ii), (i)(1)(A)(i), (B)(i), and (j)(3), is title IV of Pub. L. 95–557, Oct. 31, 1978, 92 Stat. 2104, as amended, which is classified principally to this chapter (§8001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 8001 of this title and Tables.
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (j)(1)(A), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified principally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (j)(1)(A), is act June 25, 1938, ch. 676, 52 Stat.1060, as amended, which is classified principally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (k)(6)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short title note set out under section 1437 of this title and Tables.
 
@@ -522,15 +522,13 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 <i><sup>7</sup></i><i> So in original. Probably should be "or".</i>
 
-<i><sup>8</sup></i><i> See Codification note below.</i>
+<i><sup>8</sup></i><i> See References in Text note below.</i>
 
-<i><sup>9</sup></i><i> See References in Text note below.</i>
+<i><sup>9</sup></i><i> So in original. Probably should be preceded by a closing parenthesis.</i>
 
-<i><sup>10</sup></i><i> So in original. Probably should be preceded by a closing parenthesis.</i>
+<i><sup>10</sup></i><i> So in original. Probably should be subsection "(h)(1)(B)."</i>
 
-<i><sup>11</sup></i><i> So in original. Probably should be subsection "(h)(1)(B)."</i>
+<i><sup>11</sup></i><i> So in original. Probably should be "report".</i>
 
-<i><sup>12</sup></i><i> So in original. Probably should be "report".</i>
-
-<i><sup>13</sup></i><i> So in original. The colon probably should be a semicolon.</i>
+<i><sup>12</sup></i><i> So in original. The colon probably should be a semicolon.</i>
 

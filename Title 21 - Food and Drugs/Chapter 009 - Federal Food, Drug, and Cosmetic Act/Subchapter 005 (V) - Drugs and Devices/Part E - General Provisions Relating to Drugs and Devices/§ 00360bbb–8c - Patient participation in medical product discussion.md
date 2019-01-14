@@ -12,7 +12,7 @@
 
 #### (2) Protection of proprietary information
 
-&emsp;Nothing in this section shall be construed to alter the protections offered by laws, regulations, or policies governing disclosure of confidential commercial or trade secret information and any other information exempt from disclosure pursuant to section 552(b) of title 5 as such laws, regulations, or policies would apply to consultation with individuals and organizations prior to July 9, 2012.
+&emsp;Nothing in this section shall be construed to alter the protections offered by laws, regulations, or policies governing disclosure of confidential commercial or trade secret information and any other information exempt from disclosure pursuant to section 552(b) of title 5as such laws, regulations, or policies would apply to consultation with individuals and organizations prior to July 9, 2012.
 
 #### (3) Other consultation
 

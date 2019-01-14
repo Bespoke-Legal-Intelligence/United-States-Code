@@ -22,7 +22,7 @@ The Commission is authorized to—
 
 #### (e) Penalties
 
-(1) Any person who knowingly violates a regulation or standard under section 1193 of this title shall be subject to a civil penalty not to exceed$100,000 for each such violation, except that the maximum civil penalty shall not exceed $15,000,000 for any related series of violations.
+(1) Any person who knowingly violates a regulation or standard under section 1193 of this title shall be subject to a civil penalty not to exceed $100,000 for each such violation, except that the maximum civil penalty shall not exceed $15,000,000 for any related series of violations.
 
 (2) In determining the amount of any penalty to be sought upon commencing an action seeking to assess a penalty for a violation of a regulation or standard under section 1193 of this title, the Commission shall consider the nature, circumstances, extent, and gravity of the violations, the severity of the risk of injury, the occurrence or absence of injury, the appropriateness of such penalty in relation to the size of the business of the person charged, and such other factors as appropriate.
 
@@ -64,7 +64,7 @@ The Federal Trade Commission Act, referred to in subsecs. (a), (b), and (c), is 
 
 <b>2008</b>—Subsec. (e)(1). Pub. L. 110–314, §217(a)(3)(A), (B), substituted "$100,000" for "$5,000" and "$15,000,000" for "$1,250,000".
 
-Subsec. (e)(2). Pub. L. 110–314, §217(b)(1)(C)(i), substituted "nature, circumstances, extent, and gravity" for "nature and number" and "absence of injury," for "absence of injury, and" and inserted ", and such other factors as appropriate" before period at end.
+Subsec. (e)(2). Pub. L. 110–314, §217(b)(1)(C)(i), substituted "nature, circumstances, extent, and gravity"for "nature and number" and "absence of injury," for "absence of injury, and" and inserted ", and such other factors as appropriate" before period at end.
 
 Subsec. (e)(3). Pub. L. 110–314, §217(b)(1)(C)(ii)(III), which directed insertion of ", and such other factors as appropriate" before the period, was executed by making the insertion before period at end of second sentence, to reflect the probable intent of Congress.
 
@@ -86,7 +86,7 @@ Subsec. (d)(2). Pub. L. 90–189, §4(b), substituted "or territory or with the 
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–314, title II, §217(a)(4), Aug. 14, 2008, 122 Stat. 3058, provided that: "The amendments made bythis subsection \[amending this section and sections 1264 and 2069 of this title\] shall take effect on the date that is the earlier of the date on which final regulations are issued under subsection (b)(2) \[set out as a note under section 2069 of this title\] or 1 year after the date of enactment of this Act \[Aug. 14, 2008\]."
+Pub. L. 110–314, title II, §217(a)(4), Aug. 14, 2008, 122 Stat. 3058, provided that: "The amendments made by this subsection \[amending this section and sections 1264 and 2069 of this title\] shall take effect on the date that is the earlier of the date on which final regulations are issued under subsection (b)(2) \[set out as a note under section 2069 of this title\] or 1 year after the date of enactment of this Act \[Aug. 14, 2008\]."
 
 #### Transfer of Functions
 

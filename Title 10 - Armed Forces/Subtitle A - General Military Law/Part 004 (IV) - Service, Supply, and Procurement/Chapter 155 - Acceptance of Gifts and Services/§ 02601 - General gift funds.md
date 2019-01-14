@@ -44,7 +44,7 @@ Use of Gifts; Prohibitions.—(1) Except as provided in paragraph (2), property 
 
 (2) Property, money, and services may not be accepted under subsection (a) or (b)—
 
-&emsp;(A) if the use of the property or money or the performance of the services in connectionwith any program, project, or activity would result in the violation of any prohibition or limitation otherwise applicable to such program, project, or activity;
+&emsp;(A) if the use of the property or money or the performance of the services in connection with any program, project, or activity would result in the violation of any prohibition or limitation otherwise applicable to such program, project, or activity;
 
 &emsp;(B) if the conditions attached to the property, money, or services are inconsistent with applicable law or regulations;
 
@@ -138,7 +138,7 @@ Subsec. (b)(1). Pub. L. 112–239, §2852(a)(2)(A), substituted "The" for "Subje
 
 Subsec. (d)(1). Pub. L. 112–239, §2852(a)(2)(B)(i), substituted "such subsections" for "subsection (b)".
 
-Subsec. (d)(2). Pub. L. 112–239, §2852(a)(2)(B)(ii), substituted ", money, and services may not be acceptedunder subsection (a) or" for "and money may not be accepted under subsection (a) and property, money, and services may not be accepted under subsection" in introductory provisions.
+Subsec. (d)(2). Pub. L. 112–239, §2852(a)(2)(B)(ii), substituted ", money, and services may not be accepted under subsection (a) or" for "and money may not be accepted under subsection (a) and property, money, and services may not be accepted under subsection" in introductory provisions.
 
 Subsec. (f). Pub. L. 112–239, §2852(a)(2)(C), substituted ", money, or services accepted under subsection (a) or" for "or money accepted under subsection (a) and any property, money, or services accepted under subsection".
 

@@ -10,7 +10,7 @@ Any person appointed pursuant to this section shall exercise all the duties, sha
 
 #### (c) Compensation of temporary appointee
 
-Any person appointed pursuant to this section shall be paid the compensation which he would receive if he were chosen by the House of Representatives to fill the office involved, unless such person is concurrently serving in any office or position the compensation for which is paid from the funds of the United States, in which case he shall receive no compensation for services rendered pursuant to his appointment under this section, and his compensation for performing the duties of such office other than the oneto which he is appointed pursuant to this section shall be in full discharge for all services he performs for the United States while serving in such dual capacity.
+Any person appointed pursuant to this section shall be paid the compensation which he would receive if he were chosen by the House of Representatives to fill the office involved, unless such person is concurrently serving in any office or position the compensation for which is paid from the funds of the United States, in which case he shall receive no compensation for services rendered pursuant to his appointment under this section, and his compensation for performing the duties of such office other than the one to which he is appointed pursuant to this section shall be in full discharge for all services he performs for the United States while serving in such dual capacity.
 
 (Aug. 2, 1946, ch. 753, §208, as added Aug. 5, 1953, ch. 330, 67 Stat. 387; amended Pub. L. 104–186, title II, §204(20), Aug. 20, 1996, 110 Stat. 1733; Pub. L. 109–289, div. B, title II, §20702(b), as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 38.)
 

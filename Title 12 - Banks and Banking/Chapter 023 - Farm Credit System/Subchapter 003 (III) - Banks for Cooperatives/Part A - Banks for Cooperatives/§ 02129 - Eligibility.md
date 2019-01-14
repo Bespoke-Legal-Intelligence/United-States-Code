@@ -6,7 +6,7 @@
 
 &emsp;(2) does not pay dividends on stock or membership capital in excess of such per centum per annum as may be approved under regulations of the Farm Credit Administration; and in any case
 
-&emsp;(3) does not deal in farm products or aquatic products, or products processed therefrom, farm or aquatic supplies, farm or aquatic business services, or services to eligible cooperatives with or for nonmembers in an amount greater in value than the total amount of such business transacted by it with or for members, excluding from the total of member and nonmember business transactions with the United States or any agency or instrumentalitythereof or services or supplies furnished as a public utility; and
+&emsp;(3) does not deal in farm products or aquatic products, or products processed therefrom, farm or aquatic supplies, farm or aquatic business services, or services to eligible cooperatives with or for nonmembers in an amount greater in value than the total amount of such business transacted by it with or for members, excluding from the total of member and nonmember business transactions with the United States or any agency or instrumentality thereof or services or supplies furnished as a public utility; and
 
 &emsp;(4) a percentage of the voting control of the association not less than 80 per centum (60 per centum (A) in the case of rural electric, telephone, public utility, and service cooperatives; (B) in the case of local farm supply cooperatives that have historically served needs of the community that would not adequately be served by other suppliers and have experienced a reduction in the percentage of farmer membership due to changed circumstances beyond their control such as, but not limited to, urbanization of the community; and (C) in the case of local farm supply cooperatives that provide or will provide needed services to a community and that are or will be in competition with a cooperative specified in paragraph (B)) or, with respect to any type of association or cooperative, such higher percentage as established by the bank board, is held by farmers, producers or harvesters of aquatic products, or eligible cooperative associations as defined herein;
 
@@ -16,7 +16,7 @@
 
 &emsp;(1) The following entities shall also be eligible to borrow from a bank for cooperatives:
 
-&emsp;&emsp;(A) Cooperatives and other entities that have received a loan, loan commitment, or loan guarantee from the Rural Electrification Administration, or a loan or loan commitment from the Rural Telephone Bank, or that are eligible under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.) for a loan, loan commitment, or loan guarantee from the Administration or the Bank (or a successor of the Administration or the Bank), and subsidiaries of such cooperatives or other entities.
+&emsp;&emsp;(A) Cooperatives and other entities that have received a loan, loan commitment, or loan guarantee from the Rural Electrification Administration (or any successor agency), or that are eligible under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.) for a loan, loan commitment, or loan guarantee from the Administration or the Bank (or a successor of the Administration or the Bank), and subsidiaries of such cooperatives or other entities.
 
 &emsp;&emsp;(B) Any legal entity that (i) holds more than 50 percent of the voting control of an association or other entity that is eligible to borrow from a bank for cooperatives under subsection (a) or subparagraph (A) of this paragraph, and (ii) borrows for the purpose of making funds available to that association or entity, and makes funds available to that association or entity under the same terms and conditions that the funds are borrowed from a bank for cooperatives.
 
@@ -30,7 +30,7 @@
 
 &emsp;(4) Nothing in this subsection shall be construed to adversely affect the eligibility, as it existed on January 6, 1988, of cooperatives and other entities for any other credit assistance under Federal law.
 
-(Pub. L. 92–181, title III, §3.8, Dec. 10, 1971, 85 Stat. 605; Pub. L. 94–184, §1(a), Dec. 31, 1975, 89 Stat. 1060; Pub. L. 96–592, title III, §305, Dec. 24, 1980, 94 Stat. 3445; Pub. L. 99–198, title XIII, §1322, Dec. 23, 1985, 99 Stat. 1534; Pub. L. 100–233, title IV, §421, title VIII, §805(m), Jan. 6, 1988, 101 Stat. 1654, 1715; Pub. L. 100–399, title IV, §410, title IX, §901(e), Aug. 17, 1988, 102 Stat. 1003, 1007; Pub. L. 101–624, title XXIII, §2323(b), Nov. 28, 1990, 104 Stat. 4013; Pub. L. 102–237, title V, §502(e)(2), (f), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title V, §506, Oct. 28, 1992, 106 Stat. 4131; Pub. L. 103–376, §4, Oct. 19, 1994, 108 Stat. 3498; Pub. L. 104–105, title II, §§204, 205, Feb. 10, 1996, 110 Stat. 172.)
+(Pub. L. 92–181, title III, §3.8, Dec. 10, 1971, 85 Stat. 605; Pub. L. 94–184, §1(a), Dec. 31, 1975, 89 Stat. 1060; Pub. L. 96–592, title III, §305, Dec. 24, 1980, 94 Stat. 3445; Pub. L. 99–198, title XIII, §1322, Dec. 23, 1985, 99 Stat. 1534; Pub. L. 100–233, title IV, §421, title VIII, §805(m), Jan. 6, 1988, 101 Stat. 1654, 1715; Pub. L. 100–399, title IV, §410, title IX, §901(e), Aug. 17, 1988, 102 Stat. 1003, 1007; Pub. L. 101–624, title XXIII, §2323(b), Nov. 28, 1990, 104 Stat. 4013; Pub. L. 102–237, title V, §502(e)(2), (f), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title V, §506, Oct. 28, 1992, 106 Stat. 4131; Pub. L. 103–376, §4, Oct. 19, 1994, 108 Stat. 3498; Pub. L. 104–105, title II, §§204, 205, Feb. 10, 1996, 110 Stat. 172; Pub. L. 115–334, title V, §5411(8), title VI, §6602(b)(17), Dec. 20, 2018, 132 Stat. 4680, 4777.)
 
 #### References in Text
 
@@ -38,13 +38,17 @@ The Rural Electrification Act of 1936, referred to in subsec. (b)(1)(A), is act 
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b)(1)(A). Pub. L. 115–334, §6602(b)(17), struck out "or a loan or loan commitment from the Rural Telephone Bank," before "or that are eligible".
+
+Pub. L. 115–334, §5411(8), inserted "(or any successor agency)" after "Rural Electrification Administration".
+
 <b>1996</b>—Subsec. (a). Pub. L. 104–105, §204(a), inserted at end "Any such association that has received a loan from a bank for cooperatives shall, without regard to the requirements of paragraphs (1) through (4), continue to be eligible for so long as more than 50 percent (or such higher percentage as is established by the bank board) of the voting control of the association is held by farmers, producers or harvesters of aquatic products, or eligible cooperative associations."
 
 Subsec. (b)(1)(A). Pub. L. 104–105, §205, substituted "are eligible under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.) for" for "have been certified by the Administrator of the Rural Electrification Administration to be eligible for such" and "loan guarantee from the Administration or the Bank (or a successor of the Administration or the Bank), and" for "loan guarantee, and".
 
 Subsec. (b)(1)(D). Pub. L. 104–105, §204(b), substituted "and (4), or under the last sentence, of subsection (a)" for "and (4) of subsection (a)".
 
-<b>1994</b>—Subsec. (b)(1)(B) to (E). Pub. L. 103–376 redesignated subpars. (C) to (E) as (B) to (D), respectively, realigned margin of subpar. (D), and struck out former subpar. (B) which read as follows: "Any legal entity more than 50 percent of the voting control of which is held by one or more associations or other entities that are eligible to borrow from a bank for cooperatives under subsection (a) of this section or subparagraph (A)of this paragraph, except that any such legal entity, when considered together with one or more such associations or other entities that hold such control, meet the requirement of subsection (a)(3) of this section."
+<b>1994</b>—Subsec. (b)(1)(B) to (E). Pub. L. 103–376 redesignated subpars. (C) to (E) as (B) to (D), respectively, realigned margin of subpar. (D), and struck out former subpar. (B) which read as follows: "Any legal entity more than 50 percent of the voting control of which is held by one or more associations or other entities that are eligible to borrow from a bank for cooperatives under subsection (a) of this section or subparagraph (A) of this paragraph, except that any such legal entity, when considered together with one or more such associations or other entities that hold such control, meet the requirement of subsection (a)(3) of this section."
 
 <b>1992</b>—Subsec. (b)(1)(E). Pub. L. 102–552 added subpar. (E).
 

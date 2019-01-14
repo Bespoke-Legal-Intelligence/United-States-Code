@@ -28,7 +28,7 @@ Members.—
 
 &emsp;(1)
 
-Appointment.—The Administrator shall appoint the voting members of the panel. A majority of the voting members shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in one or more of the disciplines and fields related to space. The other voting members shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in, or representative of, education, extension services, State government, industry, economics, planning, or any other activity related to efforts to enhance the understanding, assessment, development, or utilization of space resources. The Administrator shall consider the potential conflict of interest of anyindividual in making appointments to the panel.
+Appointment.—The Administrator shall appoint the voting members of the panel. A majority of the voting members shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in one or more of the disciplines and fields related to space. The other voting members shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in, or representative of, education, extension services, State government, industry, economics, planning, or any other activity related to efforts to enhance the understanding, assessment, development, or utilization of space resources. The Administrator shall consider the potential conflict of interest of any individual in making appointments to the panel.
 
 &emsp;(2)
 

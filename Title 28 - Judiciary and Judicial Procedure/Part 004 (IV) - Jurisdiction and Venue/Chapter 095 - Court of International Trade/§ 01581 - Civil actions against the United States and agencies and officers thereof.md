@@ -12,7 +12,7 @@
 
 &emsp;(2) any final determination of the Secretary of Commerce under section 251 of the Trade Act of 1974 with respect to the eligibility of a firm for adjustment assistance under such Act;
 
-&emsp;(3) any final determination of the Secretary of Commerce under section 273 <sup>1</sup> of the Trade Act of 1974 with respect to the eligibility of acommunity for adjustment assistance under such Act; and
+&emsp;(3) any final determination of the Secretary of Commerce under section 273 <sup>1</sup> of the Trade Act of 1974 with respect to the eligibility of a community for adjustment assistance under such Act; and
 
 &emsp;(4) any final determination of the Secretary of Agriculture under section 293 or 296 of the Trade Act of 1974 (19 U.S.C. 2401b) <sup>1</sup> with respect to the eligibility of a group of agricultural commodity producers for adjustment assistance under such Act.
 
@@ -38,7 +38,7 @@
 
 &emsp;(3) embargoes or other quantitative restrictions on the importation of merchandise for reasons other than the protection of the public health or safety; or
 
-&emsp;(4) administration and enforcement with respect to the matters referred to in paragraphs (1)–(3) of this subsection and subsections (a)–(h) of this section.
+&emsp;(4) administration and enforcement with respect to the matters referred to in paragraphs\(1)–(3) of this subsection and subsections (a)–(h) of this section.
 
 > This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.
 
@@ -112,7 +112,7 @@ Except as otherwise provided and subject to certain applicability provisions, am
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 414(a)(1) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of Title 19, Customs Duties, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of Title 19, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of Title 19.
+Amendment by section 414(a)(1) of Pub. L. 103–182 effective on the date the North American Free TradeAgreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of Title 19, Customs Duties, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of Title 19, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of Title 19.
 
 #### Effective and Termination Dates of 1988 Amendment
 

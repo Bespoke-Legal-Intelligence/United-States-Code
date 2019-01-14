@@ -34,7 +34,7 @@ Minor changes were made in arrangement and phraseology.
 
 #### Change of Name
 
-Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516, provided that: "Reference in any other Federallaw \[meaning any Federal law other than chapters 7, 51, 91, and 165 of this title\] or any document to—
+Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516, provided that: "Reference in any other Federal law \[meaning any Federal law other than chapters 7, 51, 91, and 165 of this title\] or any document to—
 
 &emsp;"(1) the 'United States Claims Court' shall be deemed to refer to the 'United States Court of Federal Claims'; and
 
@@ -58,7 +58,7 @@ Pub. L. 97–164, title I, §169, Apr. 2, 1982, 96 Stat. 51, provided that: "Not
 
 #### Transition Provisions: Transfer of Pending Cases
 
-Pub. L. 97–164, title IV, §403, Apr. 2, 1982, 96 Stat. 57, provided for transfer of cases or matters pending on Oct. 1, 1982, before Court of Claims or United States Court of Customs and Patent Appeals to United States Court of Appeals for the Federal Circuit, directed that petitions for rehearing, reconsideration, or other changes in decisions of Court of Claims or United States Court of Customs and Patent Appeals rendered prior to such date be determined by United States Court of Appeals for the Federal Circuit, directed that matters pending before Commissioners of United States Court of Claims on such date be determined by United States Claims Court \[now United States Court of Federal Claims\], and directed that any case in which notice of appeal had been filed in district court of United States prior to such date would be decided by court of appeals to which the appeal was taken.
+Pub. L. 97–164, title IV, §403, Apr. 2, 1982, 96 Stat. 57, provided for transfer of cases or matters pending on Oct. 1, 1982, before Court of Claims or United States Court of Customs and Patent Appeals to United States Court of Appeals for the Federal Circuit, directed that petitions for rehearing, reconsideration, or other changes in decisions of Court of Claims or United States Court of Customs and Patent Appeals rendered prior to such date be determined by United States Court of Appeals for the Federal Circuit, directed that matters pending before Commissioners of United StatesCourt of Claims on such date be determined by United States Claims Court \[now United States Court of Federal Claims\], and directed that any case in which notice of appeal had been filed in district court of United States prior to such date would be decided by court of appeals to which the appeal was taken.
 
 #### Congressional Statement Regarding Appointment of Judges
 

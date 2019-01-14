@@ -60,7 +60,7 @@
 
 #### (C) Limitation
 
-&emsp;&emsp;If the taking of any action or actions under this section to correct an industrial resource shortfall would cause the aggregate outstanding amount of all such actions for such industrial resource shortfall to exceed $50,000,000, no such action or actions may be taken, unless such action or actions are authorized to exceed such amount by an Act of Congress.
+&emsp;&emsp;If the taking of any action or actions under this section to correct an industrialresource shortfall would cause the aggregate outstanding amount of all such actions for such industrial resource shortfall to exceed $50,000,000, no such action or actions may be taken, unless such action or actions are authorized to exceed such amount by an Act of Congress.
 
 #### (7) Waivers authorized
 
@@ -102,7 +102,7 @@ The procurement power granted to the President by this section shall include the
 
 &emsp;&emsp;(B) to procure and install equipment owned by the Federal Government in plants, factories, and other industrial facilities owned by private persons;
 
-&emsp;&emsp;(C) to provide for the modification or expansion of privately owned facilities, including the modification or improvement of production processes, when taking actionsunder section 4531 of this title, 4532 of this title, or this section; and
+&emsp;&emsp;(C) to provide for the modification or expansion of privately owned facilities, including the modification or improvement of production processes, when taking actions under section 4531 of this title, 4532 of this title, or this section; and
 
 &emsp;&emsp;(D) to sell or otherwise transfer equipment owned by the Federal Government and installed under this subsection to the owners of such plants, factories, or other industrial facilities.
 

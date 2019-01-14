@@ -10,7 +10,7 @@ Section 571 of Pub. L. 87–195 is based on section 201 of title II of H.R. 2992
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–164 substituted "Notwithstanding any other provision of law that restricts assistance to foreign countries (other than sections 2304 and 2371 of this title)" for "Subject to the provisions of this part".
+<b>1996</b>—Pub. L. 104–164 substituted "Notwithstanding any other provision of law that restricts assistance toforeign countries (other than sections 2304 and 2371 of this title)" for "Subject to the provisions of this part".
 
 #### Effective Date
 

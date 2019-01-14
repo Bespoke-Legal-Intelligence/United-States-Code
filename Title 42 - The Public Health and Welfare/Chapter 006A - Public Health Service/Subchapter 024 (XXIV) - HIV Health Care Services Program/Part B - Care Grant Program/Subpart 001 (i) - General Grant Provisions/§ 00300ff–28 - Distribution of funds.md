@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the total number of living cases of HIV/AIDS that are within areas in such State that are eligible areas under subpart I of part A for the fiscal year involved, which individual number for an area is the number that applies under section 300ff–11 of this title for the area for such fiscal year; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the total number of such cases that are within areas in such State that are transitional areas under section 300ff–19 of this title for such fiscal year, which individual number for an area is the number that applies under such section for the fiscal year.
+&emsp;&emsp;&emsp;&emsp;(II) the total number of such cases that are within areas in such State that are transitional areas under section 300ff–19 of this title for such fiscal year, which individual number for an area is thenumber that applies under such section for the fiscal year.
 
 #### (D) Living cases of HIV/AIDS
 
@@ -108,7 +108,7 @@
 
 #### (II) Relevant States
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the States specified in this subclause are the following: Alaska, Alabama, Arkansas, Arizona, Colorado, Florida, Indiana, Iowa, Idaho, Kansas, Louisiana, Michigan, Minnesota, Missouri, Mississippi, North Carolina, North Dakota, Nebraska, New Jersey, New Mexico, NewYork, Nevada, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, Wisconsin, West Virginia, Wyoming, Guam, and the Virgin Islands.
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the States specified in this subclause are the following: Alaska, Alabama, Arkansas, Arizona, Colorado, Florida, Indiana, Iowa, Idaho, Kansas, Louisiana, Michigan, Minnesota, Missouri, Mississippi,North Carolina, North Dakota, Nebraska, New Jersey, New Mexico, New York, Nevada, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, Wisconsin, West Virginia, Wyoming, Guam, and the Virgin Islands.
 
 #### (viii) Rules of construction regarding acceptance of reports
 
@@ -166,7 +166,7 @@
 
 #### (IV) Use and coordination
 
-&emsp;&emsp;&emsp;&emsp;Amounts made available under a grant under this clause shall only be used bythe State to provide HIV/AIDS-related medications. The State shall coordinate the use of such amounts with the amounts otherwise provided under section 300ff–26(a) of this title in order to maximize drug coverage.
+&emsp;&emsp;&emsp;&emsp;Amounts made available under a grant under this clause shall only be used by the State to provide HIV/AIDS-related medications. The State shall coordinate the use of such amounts with the amounts otherwise provided under section 300ff–26(a) of this title in order to maximize drug coverage.
 
 #### (V) Funding
 
@@ -234,7 +234,7 @@
 
 #### (C) Administrative activities
 
-&emsp;&emsp;For the purposes of subparagraph (A), amounts may be used for administrative activities that include routine grant administration and monitoring activities, including a clinical quality management program under subparagraph (E).
+&emsp;&emsp;For the purposes of subparagraph (A), amounts may be used for administrative activities that include routine grant administration and monitoring activities, includinga clinical quality management program under subparagraph (E).
 
 #### (D) Subcontractor administrative costs
 

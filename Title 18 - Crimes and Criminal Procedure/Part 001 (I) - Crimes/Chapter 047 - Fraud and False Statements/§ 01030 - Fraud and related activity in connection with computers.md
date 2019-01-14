@@ -82,7 +82,7 @@
 
 &emsp;(B) except as provided in subparagraphs (E) and (F), a fine under this title, imprisonment for not more than 10 years, or both, in the case of—
 
-&emsp;&emsp;(i) an offense under subsection (a)(5)(A), which does not occur after a conviction for another offense under this section, if the offense caused (or, in the case of an attempted offense, would, if completed, have caused) a harm provided in subclauses (I) through (VI) of subparagraph (A)(i); or
+&emsp;&emsp;(i) an offense under subsection (a)(5)(A), which does not occur after a conviction for another offense under this section, if the offense caused (or, in the case of an attempted offense, would, if completed, have caused) aharm provided in subclauses (I) through (VI) of subparagraph (A)(i); or
 
 &emsp;&emsp;(ii) an attempt to commit an offense punishable under this subparagraph;
 
@@ -156,7 +156,7 @@
 
 &emsp;(9) the term "government entity" includes the Government of the United States, any State or political subdivision of the United States, any foreign country, and any state, province, municipality, or other political subdivision of a foreign country;
 
-&emsp;(10) the term "conviction" shall include a conviction under the law of any State for a crime punishable by imprisonment for more than 1 year, an element of which is unauthorized access, or exceeding authorized access, to a computer;
+&emsp;(10) the term "conviction" shall include a conviction under the law of any State for acrime punishable by imprisonment for more than 1 year, an element of which is unauthorized access, or exceeding authorized access, to a computer;
 
 &emsp;(11) the term "loss" means any reasonable cost to any victim, including the cost of responding to an offense, conducting a damage assessment, and restoring the data, program, system, or information to its condition prior to the offense, and any revenue lost, cost incurred, or other consequential damages incurred because of interruption of service; and
 
@@ -182,7 +182,7 @@
 
 &emsp;(2) Any property, real or personal, which constitutes or is derived from proceeds traceable to any violation of this section, or a conspiracy to violate this section <sup>6</sup>
 
-(Added Pub. L. 98–473, title II, §2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, §2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, §7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, §962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(e), title XXV, §2597(j), title XXXV, §3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, §290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, §201, title VI, §604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508; Pub. L. 107–56, title V, §506(a), title VIII, §814(a)–(e), Oct. 26, 2001, 115 Stat. 366, 382–384; Pub. L. 107–273, div. B, title IV, §§4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, 116 Stat. 1807, 1808, 1812, 1813; Pub. L. 107–296, title II, §225(g), Nov. 25, 2002, 116 Stat. 2158; Pub. L. 110–326, title II, §§203, 204(a), 205–208, Sept. 26, 2008, 122 Stat. 3561, 3563.)
+(Added Pub. L. 98–473, title II, §2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, §2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, §7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, §962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(e), title XXV, §2597(j), title XXXV, §3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, §290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, §201, title VI, §604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508; Pub. L. 107–56, title V, §506(a), title VIII, §814(a)–(e), Oct. 26, 2001, 115 Stat. 366, 382–384; Pub. L. 107–273, div. B, title IV, §§4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, 116 Stat. 1807, 1808, 1812, 1813; Pub. L. 107–296, title XXII, §2207(g), formerly title II, §225(g), Nov. 25, 2002, 116 Stat. 2158, renumbered §2207(g), Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 110–326, title II, §§203, 204(a), 205–208, Sept. 26, 2008, 122 Stat. 3561, 3563.)
 
 #### References in Text
 
@@ -248,9 +248,9 @@ Subsec. (c)(2)(B)(iii). Pub. L. 107–273, §4002(b)(12)(A), inserted "and" at e
 
 Subsec. (c)(3)(B). Pub. L. 107–273, §4005(d)(3), inserted comma after "(a)(4)".
 
-Subsec. (c)(4)(A), (C). Pub. L. 107–296, §225(g)(2), inserted "except as provided in paragraph (5)," before "a fine under this title".
+Subsec. (c)(4)(A), (C). Pub. L. 107–296, §2207(g)(2), formerly §225(g)(2), as renumbered by Pub. L. 115–278, §2(g)(2)(I), inserted "except as provided in paragraph (5)," before "a fine under this title".
 
-Subsec. (c)(5). Pub. L. 107–296, §225(g)(1), (3), (4), added par. (5).
+Subsec. (c)(5). Pub. L. 107–296, §2207(g)(1), (3), (4), formerly §225(g)(1), (3), (4), as renumbered by Pub. L. 115–278, §2(g)(2)(I), added par. (5).
 
 Subsec. (e)(4)(I). Pub. L. 107–273, §4002(b)(12)(B), substituted semicolon for period at end.
 
@@ -274,7 +274,7 @@ Subsec. (c)(4). Pub. L. 107–56, §814(c)(3), added par. (4).
 
 Subsec. (d). Pub. L. 107–56, §506(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The United States Secret Service shall, in addition to any other agency having such authority, have the authority to investigate offenses under subsections (a)(2)(A), (a)(2)(B), (a)(3), (a)(4), (a)(5), and (a)(6) of this section. Such authority of the United States Secret Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General."
 
-Subsec. (e)(2)(B). Pub. L. 107–56, §814(d)(1), inserted ", including a computer located outside the United States that is used in a manner that affects interstateor foreign commerce or communication of the United States" before semicolon.
+Subsec. (e)(2)(B). Pub. L. 107–56, §814(d)(1), inserted ", including a computer located outside the United States that is used in a manner that affects interstate or foreign commerce or communication of the United States" before semicolon.
 
 Subsec. (e)(7). Pub. L. 107–56, §814(d)(2), struck out "and" at end.
 
@@ -292,7 +292,7 @@ Subsec. (e)(10) to (12). Pub. L. 107–56, §814(d)(4), (5), added pars. (10) to
 
 Subsec. (g). Pub. L. 107–56, §814(e), substituted "A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in clause (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B). Damages for a violation involving only conduct described in subsection (a)(5)(B)(i) are limited to economic damages." for "Damages for violations involving damage as defined in subsection (e)(8)(A) are limited to economic damages." and inserted at end "No action may be brought under this subsection for the negligent design or manufacture of computer hardware, computer software, or firmware."
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–294, §201(1)(A), substituted "having knowingly accessed" for "knowingly accesses", "exceeding authorized access" for "exceeds authorized access", "such conduct having obtained information" for "such conduct obtains information", and "could be used to the injury of the United States" for "is to be used to the injury of the United States", struck out "the intent or" before "reason to believe", and inserted before semicolon at end "willfully communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it".
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–294, §201(1)(A), substituted "having knowingly accessed" for "knowingly accesses", "exceeding authorized access" for "exceeds authorized access", "such conduct having obtained information" for "such conduct obtains information", and "could be used to the injury of the United States" for "is to be used to the injury of the United States",struck out "the intent or" before "reason to believe", and inserted before semicolon at end "willfully communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it".
 
 Subsec. (a)(2). Pub. L. 104–294, §201(1)(B), inserted dash after "thereby obtains", redesignated remainder of par. (2) as subpar. (A), and added subpars. (B) and (C).
 

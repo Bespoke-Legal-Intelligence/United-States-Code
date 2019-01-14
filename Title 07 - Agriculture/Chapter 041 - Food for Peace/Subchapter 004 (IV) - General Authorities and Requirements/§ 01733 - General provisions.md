@@ -2,15 +2,15 @@
 
 #### (a) Prohibition
 
-No agricultural commodity shall be made available under this chapter unless it is determined that—
+No agricultural commodity, food procured outside of the United States, food voucher, or cash transfer for food shall be made available under this chapter unless it is determined that—
 
-&emsp;(1) adequate storage facilities will be available in the recipient country at the time of the arrival of the commodity to prevent the spoilage or waste of the commodity; and
+&emsp;(1) in the case of the provision of an agricultural commodity, adequate storage facilities will be available in the recipient country at the time of the arrival of the commodity to prevent the spoilage or waste of the commodity; and
 
-&emsp;(2) the distribution of the commodity in the recipient country will not result in a substantial disincentive to or interference with domestic production or marketing in that country.
+&emsp;(2) the distribution of the agricultural commodity or use of the food procured outside of the United States, food voucher, or cash transfer for food in the recipient country will not result in a substantial disincentive to or interference with domestic production or marketing in that country.
 
 #### (b) Impact on local farmers and economy
 
-The Secretary or the Administrator, as appropriate, shall ensure that the importation of United States agricultural commodities and the use of local currencies for development purposes will not have a disruptive impact on the farmers or the local economy of the recipient country. The Secretary or the Administrator, as appropriate, shall seek information, as part of the regular proposal and submission process, from implementing agencies on the potential costs and benefits to the local economy of sales of agricultural commodities within the recipient country.
+The Secretary or the Administrator, as appropriate, shall ensure that the importation of United States agricultural commodities, the use of food procured outside of the United States, food vouchers, and cash transfers for food, and the use of local currencies for development purposes will not have a disruptive impact on the farmers or the local economy of the recipient country. The Secretary or the Administrator, as appropriate, shall seek information, as part of the regular proposal and submission process, from implementing agencies on the potential costs and benefits to the local economy within the recipient country.
 
 #### (c) Transshipment
 
@@ -60,7 +60,7 @@ In carrying out this chapter, reasonable precautions shall be taken to safeguard
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the Secretary or the Administrator, as appropriate, shall not enter into an agreement under this chapter to provide agricultural commodities if such agreement requires or permits the distribution, handling, or allocation of such commodities by the military forces of any government or insurgent group.
+&emsp;&emsp;Except as provided in subparagraph (B), the Secretary or the Administrator, as appropriate, shall not enter into an agreement under this chapter to provide agricultural commodities if such agreement requires or permits the distribution, handling, or allocation of such commodities by the militaryforces of any government or insurgent group.
 
 #### (B) Exception
 
@@ -114,39 +114,23 @@ Local currencies that are made available for use under this chapter may not be u
 
 &emsp;A sale described in paragraph (1) may be made in United States dollars or other currencies.
 
-#### (m) Report on use of funds
-
-#### (1) Report required
-
-&emsp;Not later than 180 days after February 7, 2014, and annually thereafter, the Administrator shall submit to Congress a report that—
-
-&emsp;&emsp;(A) specifies the amount of funds (including funds for administrative costs, indirect cost recovery, internal transportation, storage, and handling, and associated distribution costs) provided to each eligible organization that received assistance under this chapter in the previous fiscal year;
-
-&emsp;&emsp;(B) describes how those funds were used by the eligible organization;
-
-&emsp;&emsp;(C) describes the actual rate of return for each commodity made available under this chapter, including—
-
-&emsp;&emsp;&emsp;(i) factors that influenced the rate of return; and
-
-&emsp;&emsp;&emsp;(ii) for the commodity, the costs of bagging or further processing, ocean transportation, inland transportation in the recipient country, storage costs, and any other information that the Administrator determines to be necessary; and
-
-&emsp;&emsp;(D) for each instance in which a commodity was made available under this chapter at a rate of return less than 70 percent, describes the reasons for the rate of return realized.
-
-#### (2) Rate of return described
-
-&emsp;For purposes of applying paragraph (1)(C), the rate of return for a commodity shall be equal to the proportion that—
-
-&emsp;&emsp;(A) the proceeds the implementing partners generate through monetization; bears to
-
-&emsp;&emsp;(B) the cost to the Federal Government to procure and ship the commodity to a recipient country for monetization.
-
-(July 10, 1954, ch. 469, title IV, §403, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(3), Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, §1(17), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 95–113, title XII, §1206, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–533, title IV, §407, Dec. 16, 1980, 94 Stat. 3151; Pub. L. 97–98, title XII, §1214, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3646; Pub. L. 102–237, title III, §321, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, §213, Apr. 4, 1996, 110 Stat. 956; Pub. L. 107–171, title III, §3009(a), May 13, 2002, 116 Stat. 283; Pub. L. 113–79, title III, §3008, Feb. 7, 2014, 128 Stat. 775.)
+(July 10, 1954, ch. 469, title IV, §403, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(3), Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, §1(17), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 95–113, title XII, §1206, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–533, title IV, §407, Dec. 16, 1980, 94 Stat. 3151; Pub. L. 97–98, title XII, §1214, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3646; Pub. L. 102–237, title III, §321, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, §213, Apr. 4, 1996, 110 Stat. 956; Pub. L. 107–171, title III, §3009(a), May 13, 2002, 116 Stat. 283; Pub. L. 113–79, title III, §3008, Feb. 7, 2014, 128 Stat. 775; Pub. L. 115–334, title III, §§3109, 3112(b), Dec. 20, 2018, 132 Stat. 4604, 4606.)
 
 #### References in Text
 
 The Food for Progress Act of 1985, referred to in subsec. (l)(1)(C), is Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472, as amended, which is classified to section 1736o of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–334, §3109(a)(1), inserted ", food procured outside of the United States, food voucher, or cash transfer for food" after "agricultural commodity" in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 115–334, §3109(a)(2), inserted "in the case of the provision of an agricultural commodity," before "adequate".
+
+Subsec. (a)(2). Pub. L. 115–334, §3109(a)(3), substituted "agricultural commodity or use of the food procured outside of the United States, food voucher, or cash transfer for food" for "commodity".
+
+Subsec. (b). Pub. L. 115–334, §3109(b), in first sentence, inserted ", the use of food procured outside of the United States, food vouchers, and cash transfers for food," after "agricultural commodities" and, in second sentence, struck out "of sales of agricultural commodities" after "benefits to the local economy".
+
+Subsec. (m). Pub. L. 115–334, §3112(b), struck out subsec. (m) which related to annual report on use of funds.
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–79, §3008(a), inserted at end "The Secretary or the Administrator, as appropriate, shall seek information, as part of the regular proposal and submission process, from implementing agencies on the potential costs and benefits to the local economy of sales of agricultural commodities within the recipient country."
 
@@ -174,7 +158,7 @@ Subsec. (i)(2)(C). Pub. L. 104–127, §213(4), struck out heading and text of s
 
 <b>1977</b>—Pub. L. 95–113 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1966</b>—Pub. L. 89–808 substituted provisions for authorization of appropriations, including reimbursement ofCommodity Credit Corporation, and classification of expenditures, formerly covered in former section 1703(a) of this title, for provision for payment for commodities, now provided for by section 1706(a) of this title.
+<b>1966</b>—Pub. L. 89–808 substituted provisions for authorization of appropriations, including reimbursement of Commodity Credit Corporation, and classification of expenditures, formerly covered in former section 1703(a) of this title, for provision for payment for commodities, now provided for by section 1706(a) of this title.
 
 <b>1964</b>—Pub. L. 88–638 substituted "less than the minimum rate required by section 2161 of Title 22 for loans made under that section" for "more than the cost of the funds to the United States Treasury as determined by the Secretary of the Treasury, taking into consideration the current average market yields on outstanding marketable obligations of the United States having maturity comparable to the maturities of loans made by the President under this section".
 

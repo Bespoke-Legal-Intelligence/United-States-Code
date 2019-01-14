@@ -18,7 +18,7 @@ Any person—
 
 #### (c) Notice to Administrator of EPA of existence of storage, etc., facility by owner or operator; exception; time, manner, and form of notice; penalties for failure to notify; use of notice or information pursuant to notice in criminal case
 
-Within one hundred and eighty days after December 11, 1980, any person who owns or operates or who at the time of disposal owned or operated, or who accepted hazardous substances for transport and selected, a facility at which hazardous substances (as defined in section 9601(14)(C) of this title) are or have been stored, treated, or disposed of shall, unless such facility has a permit issued under, or has been accorded interim status under, subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\], notify the Administrator of the Environmental Protection Agency of the existence of such facility, specifying the amount and type of any hazardous substance to be found there, and any known, suspected, or likely releases of such substances from such facility. The Administrator may prescribe in greater detail the manner and form of the notice and the information included. The Administrator shall notify the affected State agency, or any department designated by the Governor to receive such notice, of the existence of such facility. Any person who knowingly fails to notify the Administrator of the existence of any such facility shall, upon conviction, be fined not more than $10,000, or imprisoned for not more than one year, or both. In addition, any such person who knowingly fails to provide the notice required by this subsection shall not be entitled to any limitation of liability or to any defenses to liability set out in section 9607 of this title: <i>Provided, however</i>, That notification under this subsection is not required for any facility which would be reportable hereunder solely as a result of any stoppage in transit which is temporary, incidental to the transportation movement, or at the ordinary operating convenience of a common or contract carrier, and such stoppage shall be considered as a continuity of movement and not as the storage of a hazardous substance. Notification received pursuant to this subsection or information obtained by the exploitation of such notification shall not be used against any such person in any criminal case, except a prosecution for perjury or for giving a false statement.
+Within one hundred and eighty days after December 11, 1980, any person who owns or operates or who at the time of disposal owned or operated, or who accepted hazardous substances for transport and selected, a facility at which hazardous substances (as defined in section 9601(14)(C) of this title) are or have been stored, treated, or disposed of shall, unless such facility has a permit issued under, or has been accorded interim status under, subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\], notify the Administrator of the Environmental Protection Agency of the existence of such facility, specifying the amount and type of any hazardous substance to be found there, and any known, suspected, or likely releases of such substances from such facility. The Administratormay prescribe in greater detail the manner and form of the notice and the information included. The Administrator shall notify the affected State agency, or any department designated by the Governor to receive such notice, of the existence of such facility. Any person who knowingly fails to notify the Administrator of the existence of any such facility shall, upon conviction, be fined not more than $10,000, or imprisoned for not more than one year, or both. In addition, any such person who knowingly fails to provide the notice required by this subsection shall not be entitled to any limitation of liability or to any defenses to liability set out in section 9607 of this title: <i>Provided, however</i>, That notification under this subsection is not required for any facility which would be reportable hereunder solely as a result of any stoppage in transit which is temporary, incidental to the transportation movement, or at the ordinary operating convenience of a common or contract carrier, and such stoppage shall be considered as a continuity of movement and not as the storage of a hazardous substance. Notification received pursuant to this subsection or information obtained by the exploitation of such notification shall not be used against any such person in any criminal case, except a prosecution for perjury or for giving a false statement.
 
 #### (d) Recordkeeping requirements; promulgation of rules and regulations by Administrator of EPA; penalties for violations; waiver of retention requirements
 
@@ -36,9 +36,41 @@ Within one hundred and eighty days after December 11, 1980, any person who owns 
 
 (4) Notwithstanding the provisions of this subsection, the Administrator of the Environmental Protection Agency may in his discretion require any such person to retain any record identified pursuant to paragraph (1) of this subsection for such a time period in excess of the period specified in paragraph (2) of this subsection as the Administrator determines to be necessary to protect the public health or welfare.
 
-#### (e) Applicability to registered pesticide product
+#### (e) Applicability to registered pesticide products and air emissions from animal waste at farms
 
-This section shall not apply to the application of a pesticide product registered under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\] or to the handling and storage of such a pesticide product by an agricultural producer.
+#### (1) In general
+
+&emsp;This section shall not apply to—
+
+&emsp;&emsp;(A) the application of a pesticide product registered under the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.) or the handling and storage of such a pesticide product by an agricultural producer; or
+
+&emsp;&emsp;(B) air emissions from animal waste (including decomposing animal waste) at a farm.
+
+#### (2) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Animal waste
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term "animal waste" means feces, urine, or other excrement, digestive emission, urea, or similar substances emitted by animals (including any form of livestock, poultry, or fish).
+
+#### (ii) Inclusions
+
+&emsp;&emsp;&emsp;The term "animal waste" includes animal waste that is mixed or commingled with bedding, compost, feed, soil, or any other material typically found with such waste.
+
+#### (B) Farm
+
+&emsp;&emsp;The term "farm" means a site or area (including associated structures) that—
+
+&emsp;&emsp;&emsp;(i) is used for—
+
+&emsp;&emsp;&emsp;&emsp;(I) the production of a crop; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the raising or selling of animals (including any form of livestock, poultry, or fish); and
+
+&emsp;&emsp;&emsp;(ii) under normal conditions, produces during a farm year any agricultural products with a total value equal to not less than $1,000.
 
 #### (f) Exemptions from notice and penalty provisions for substances reported under other Federal law or is in continuous release, etc.
 
@@ -54,7 +86,7 @@ No notification shall be required under subsection (a) or (b) of this section fo
 
 > &emsp;<i>Provided</i>, That notification in accordance with subsections (a) and (b) of this paragraph shall be given for releases subject to this paragraph annually, or at such time as there is any statistically significant increase in the quantity of any hazardous substance or constituent thereof released, above that previously reported or occurring.
 
-(Pub. L. 96–510, title I, §103, Dec. 11, 1980, 94 Stat. 2772; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–499, title I, §§103, 109(a)(1), (2), Oct. 17, 1986, 100 Stat. 1617, 1632, 1633; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 96–510, title I, §103, Dec. 11, 1980, 94 Stat. 2772; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–499, title I, §§103, 109(a)(1), (2), Oct. 17, 1986, 100 Stat. 1617, 1632, 1633; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 115–141, div. S, title XI, §1102, Mar. 23, 2018, 132 Stat. 1147.)
 
 #### References in Text
 
@@ -66,9 +98,11 @@ The Solid Waste Disposal Act, referred to in subsecs. (c) and (f)(1), is title I
 
 This chapter, referred to in subsec. (d)(3), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e)(1)(A), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e). Pub. L. 115–141 added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "This section shall not apply to the application of a pesticide product registered under the Federal Insecticide, Fungicide, and Rodenticide Act or to the handling and storage of such a pesticide product by an agricultural producer."
 
 <b>1996</b>—Subsec. (b)(2). Pub. L. 104–208 substituted "Magnuson-Stevens Fishery" for "Magnuson Fishery".
 
@@ -85,6 +119,10 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1
 #### Effective Date of 1980 Amendment
 
 Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+
+#### Application
+
+Pub. L. 115–141, div. S, title XI, §1103, Mar. 23, 2018, 132 Stat. 1148, provided that: "Nothing in this title \[see Short Title of 2018 Amendment note set out under section 9601 of this title\] or an amendment made by this title affects, or supersedes or modifies the responsibility or authority of any Federal official or employee to comply with or enforce, any requirement under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.), other than the hazardous substance notification requirements under section 103 of that Act (42 U.S.C. 9603) with respect to air emissions from animal waste at farms."
 
 #### Contiguous Zone of United States
 

@@ -10,7 +10,7 @@ Based on title 18, U.S.C., 1940 ed., §318 (Mar. 4, 1909, ch. 321, §195, 35 Sta
 
 The provisions of said section 318 of title 18, U.S.C., 1940 ed., were incorporated in this section and section 1703 of this title.
 
-The fine of "$500" was increased to "$2,000" as more proportionate to the imprisonment provision and to conform with other comparable sections. (See sections 1702 and 1708 of this title.)
+The fine of "$500" was increased to "$2,000" as more proportionate to the imprisonment provision and toconform with other comparable sections. (See sections 1702 and 1708 of this title.)
 
 Changes were made in phraseology.
 

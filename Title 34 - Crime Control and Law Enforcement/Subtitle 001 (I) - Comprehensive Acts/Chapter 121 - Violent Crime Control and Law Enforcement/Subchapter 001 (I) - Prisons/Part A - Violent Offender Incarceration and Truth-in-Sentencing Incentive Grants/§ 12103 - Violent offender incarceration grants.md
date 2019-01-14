@@ -6,7 +6,7 @@ To be eligible to receive a minimum grant under this section, a State shall subm
 
 #### (b) Additional amount for increased percentage of persons sentenced and time served
 
-A State that received a grant under subsection (a) is eligible to receive additional grant amounts if such State demonstrates that the State has, since 1993—
+A State that received a grant under subsection (a) is eligible to receive additional grantamounts if such State demonstrates that the State has, since 1993—
 
 &emsp;(1) increased the percentage of persons arrested for a part 1 violent crime sentenced to prison; or
 

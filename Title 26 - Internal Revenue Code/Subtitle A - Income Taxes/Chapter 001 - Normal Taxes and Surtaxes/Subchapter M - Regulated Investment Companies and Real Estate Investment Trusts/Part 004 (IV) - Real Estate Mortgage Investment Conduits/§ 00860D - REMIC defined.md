@@ -32,7 +32,7 @@ For purposes of this title, the terms "real estate mortgage investment conduit" 
 
 #### (A) In general
 
-&emsp;&emsp;If any entity ceases to be a REMIC at any time during the taxable year, such entityshall not be treated as a REMIC for such taxable year or any succeeding taxable year.
+&emsp;&emsp;If any entity ceases to be a REMIC at any time during the taxable year, such entity shall not be treated as a REMIC for such taxable year or any succeeding taxable year.
 
 #### (B) Inadvertent terminations
 

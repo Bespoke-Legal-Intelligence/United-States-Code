@@ -68,7 +68,7 @@ The Endangered Species Act, referred to in subsecs. (b)(4) and (d)(1)(B), probab
 
 Enactment of the Water Resources Development Act of 2016, referred to in subsec. (b)(4), means the enactment of title I of Pub. L. 114–322, which was approved Dec. 16, 2016.
 
-The Federal Water Pollution Control Act, referred to in subsec. (d)(1)(A), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26\(§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (d)(1)(A), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Oil Pollution Act of 1990, referred to in subsec. (d)(1)(C), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§2701 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 33 and Tables.
 

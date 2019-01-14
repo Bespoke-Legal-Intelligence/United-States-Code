@@ -10,7 +10,7 @@ No person shall be paid compensation as a Lyndon Baines Johnson congressional in
 
 &emsp;(1) if the intern is a student, a certificate that such intern was during the academic year immediately preceding his employment, a bona fide student at a college, university, or similar institution of higher learning; or
 
-&emsp;(2) if the intern is a teacher, a certificate that such intern was, in the year immediately preceding his employment, a bona fide teacher in government or social studies at a secondary school or a postsecondary school.
+&emsp;(2) if the intern is a teacher, a certificate that such intern was, in the year immediately preceding his employment, a bona fide teacherin government or social studies at a secondary school or a postsecondary school.
 
 #### (c) Regulations by Committee on House Oversight
 

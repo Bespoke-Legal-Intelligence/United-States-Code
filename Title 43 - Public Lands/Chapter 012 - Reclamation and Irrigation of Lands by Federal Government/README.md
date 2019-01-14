@@ -95,9 +95,9 @@
 | 390h–19. | Williamson County, Texas, water recycling and reuse project. |
 | 390h–20. | Hawaii reclamation projects. |
 | 390h–21. | Inland Empire regional water recycling project. |
-| 390h–22. | Cucamonga Valley water recycling project. |
+| 390h–22. | Omitted. |
 | 390h–23. | Southern California desert region integrated water and economic sustainability plan. |
-| 390h–24. | Eastern Municipal Water District recycled water system pressurization and expansion project, California. |
+| 390h–24. | Omitted. |
 | 390h–25. | Mountain View, Moffett Area reclaimed water pipeline project. |
 | 390h–26. | Pittsburg recycled water project. |
 | 390h–27. | Antioch recycled water project. |

@@ -82,7 +82,7 @@ In general.—Each member of a reserve component of the Armed Forces participati
 
 "(2)
 
-Behavioral health support programs.—The behavioral health support programs for members of thereserve components described in this paragraph shall include one or any combination of the following:
+Behavioral health support programs.—The behavioral health support programs for members of the reserve components described in this paragraph shall include one or any combination of the following:
 
 &emsp;"(A) Programs providing access to licensed mental health providers in armories, reserve centers, or other places for scheduled unit training assemblies.
 
@@ -306,7 +306,7 @@ Support of Suicide Prevention Efforts.—The Office for Reintegration Programs s
 
 "(j)
 
-State-led Programs of Outreach.—The Office for Reintegration Programs may work with the States, whether acting through or in coordination with their National Guard and Reserve organizations, to assist the States and such organizations in developing andcarrying out programs of outreach for eligible individuals to inform and educate them on the assistance and services available to them under the Yellow Ribbon Reintegration Program, including the assistance and services described in subsection (h).
+State-led Programs of Outreach.—The Office for Reintegration Programs may work with the States, whether acting through or in coordination with their National Guard and Reserve organizations, to assist the States and such organizations in developing and carrying out programs of outreach for eligible individuals to inform and educate them on the assistance and services available to them under the Yellow Ribbon Reintegration Program, including the assistance and services described in subsection (h).
 
 "(k)
 
@@ -364,7 +364,7 @@ Pub. L. 108–375, div. A, title V, §513(h), Oct. 28, 2004, 118 Stat. 1882, as 
 
 #### Pay of Administration, Training, and Supply Maintenance Technicians for Army Reserve Contingent Upon Reserve Status
 
-Pub. L. 104–61, title VIII, §8016, Dec. 1, 1995, 109 Stat. 654, provided that none of the funds appropriated for Department of Defense during and after fiscal year 1996 were to be obligated for pay of any individual who was initially employed after Dec. 1, 1995, as technician in administration and training of Army Reserve and maintenance and repair of supplies issued to Army Reserve unless such individual was also military member of Army Reserve troop program unit that he or she was employed to support, prior to repeal by Pub. L. 105–85, div. A, title V, §522(e), Nov. 18, 1997, 111 Stat. 1735.
+Pub. L. 104–61, title VIII, §8016, Dec. 1, 1995, 109 Stat. 654, provided that none of the funds appropriated forDepartment of Defense during and after fiscal year 1996 were to be obligated for pay of any individual who was initially employed after Dec. 1, 1995, as technician in administration and training of Army Reserve and maintenance and repair of supplies issued to Army Reserve unless such individual was also military member of Army Reserve troop program unit that he or she was employed to support, prior to repeal by Pub. L. 105–85, div. A, title V, §522(e), Nov. 18, 1997, 111 Stat. 1735.
 
 Similar provisions were contained in the following prior appropriation acts:
 

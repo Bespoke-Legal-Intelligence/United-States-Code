@@ -2,7 +2,7 @@
 
 #### (a) Secretary of Commerce
 
-(1) The Secretary of Commerce, in close consultation with other appropriate Federal departments, agencies, and instrumentalities shall, within six months of October 23, 1972, initiate a comprehensive and continuing program of research with respect to the possible long-rangeeffects of pollution, overfishing, and man-induced changes of ocean ecosystems. These responsibilities shall include the scientific assessment of damages to the natural resources from spills of petroleum or petroleum products. In carrying out such research, the Secretary of Commerce shall take into account such factors as existing and proposed international policies affecting oceanic problems, economic considerations involved in both the protection and the use of the oceans, possible alternatives to existing programs, and ways in which the health of the oceans may best be preserved for the benefit of succeeding generations of mankind.
+(1) The Secretary of Commerce, in close consultation with other appropriate Federal departments, agencies, and instrumentalities shall, within six months of October 23, 1972, initiate a comprehensive and continuing program of research with respect to the possible long-range effects of pollution, overfishing, and man-induced changes of ocean ecosystems. These responsibilities shall include the scientific assessment of damages to the natural resources from spills of petroleum or petroleum products. In carrying out such research, the Secretary of Commerce shall take into account such factors as existing and proposed international policies affecting oceanic problems, economic considerations involved in both the protection and the use of the oceans, possible alternatives to existing programs, and ways in which the health of the oceans may best be preserved for the benefit of succeeding generations of mankind.
 
 (2) The Secretary of Commerce shall ensure that the program under this section complements, when appropriate, the activities undertaken by other Federal agencies pursuant to subchapter I and section 1443 of this title. That program shall include but not be limited to—
 
@@ -40,7 +40,7 @@ Section 1703 of this title, referred to in subsec. (a)(3), was repealed by Pub. 
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–272, §6062(1)–(3), designated existing provisions as par. (1), substituted "in close consultation" for "in consultation", and added par. (2).
 
-Subsec. (c). Pub. L. 99–272, §6062(4), redesignated subsec. (d) as (c), and struck out former subsec. (c) which required the Secretary of Commerce to make an annual report to Congress, in March of each year, on the results of activities undertaken by him pursuant to this section during the previous fiscal year, and to include in that report the report to Congress required by section 665 of title 16 on activities of the Department of Commerce under that section.
+Subsec. (c). Pub. L. 99–272, §6062(4), redesignated subsec. (d) as (c), and struck out former subsec. (c) whichrequired the Secretary of Commerce to make an annual report to Congress, in March of each year, on the results of activities undertaken by him pursuant to this section during the previous fiscal year, and to include in that report the report to Congress required by section 665 of title 16 on activities of the Department of Commerce under that section.
 
 Subsecs. (d), (e). Pub. L. 99–272, §6062(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 

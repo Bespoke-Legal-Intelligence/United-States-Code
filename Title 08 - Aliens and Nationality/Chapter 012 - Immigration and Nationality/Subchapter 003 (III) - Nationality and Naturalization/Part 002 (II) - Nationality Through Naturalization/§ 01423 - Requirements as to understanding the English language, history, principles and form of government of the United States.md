@@ -14,13 +14,13 @@
 
 &emsp;(B) is over fifty-five years of age and has been living in the United States for periods totaling at least fifteen years subsequent to a lawful admission for permanent residence.
 
-(3) The Attorney General, pursuant to regulations, shall provide for special consideration, as determined by the Attorney General, concerning the requirement of subsection (a)(2) with respect to any person who, on the date of the filing of the person's application for naturalization as provided in section 1445 of this title, is over sixty-five years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence.
+(3) The Attorney General, pursuant to regulations, shall provide for special consideration, as determined by the Attorney General, concerning the requirement of subsection (a)(2) with respect to any person who, on the date of the filing of the person's application for naturalization asprovided in section 1445 of this title, is over sixty-five years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §312, 66 Stat. 239; Pub. L. 95–579, §3, Nov. 2, 1978, 92 Stat. 2474; Pub. L. 101–649, title IV, §403, Nov. 29, 1990, 104 Stat. 5039; Pub. L. 102–232, title III, §305(m)(2), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 103–416, title I, §108(a), Oct. 25, 1994, 108 Stat. 4309.)
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–416 designated existing provisions as subsec. (a), struck out "this requirement shall not apply to any person physically unable to comply therewith, if otherwise qualified to be naturalized, or to any person who, on the date of the filing of his application for naturalization as provided in section 1445 of this title, either (A) is over 50 years of age and has been living in the United States for periods totaling at least 20 years subsequent to a lawful admission for permanent residence, or (B) is over 55 years of age and has been living in the United States for periods totaling at least15 years subsequent to a lawful admission for permanent residence: <i>Provided further</i>, That", after "<i>Provided</i>, That", substituted "this paragraph" for "this section" after "requirements of", and added subsec. (b).
+<b>1994</b>—Pub. L. 103–416 designated existing provisions as subsec. (a), struck out "this requirement shall not apply to any person physically unable to comply therewith, if otherwise qualified to be naturalized, or to any person who, on the date of the filing of his application for naturalization as provided in section 1445 of this title, either (A) is over 50 years of age and has been living in the United States for periods totaling at least 20 years subsequent to a lawful admission for permanent residence, or (B) is over 55 years of age and has been living in the United States for periods totaling at least 15 years subsequent to a lawful admission for permanent residence: <i>Provided further</i>, That", after "<i>Provided</i>, That", substituted "this paragraph" for "this section" after "requirements of", and added subsec. (b).
 
 <b>1991</b>—Pub. L. 102–232 substituted "application" for "petition" in introductory provisions and par. (1).
 
@@ -106,7 +106,7 @@ Pub. L. 106–207, May 26, 2000, 114 Stat. 316, as amended by Pub. L. 106–415,
 
 #### "SEC. 6. DEADLINE FOR APPLICATION AND PAYMENT OF FEES.
 
-"This Act shall apply to a person only if the person's application for naturalization is filed, as provided in section 334 of the Immigration and Nationality Act (8 U.S.C. 1445), with appropriate fees not later than 36 months after the date of the enactment of this Act \[May 26, 2000\]. In the case of a person described in section 2(3), the application referred to in the precedingsentence, and appropriate fees, shall be filed not later than 36 months after the date of the enactment of this sentence \[Nov. 1, 2000\].
+"This Act shall apply to a person only if the person's application for naturalization is filed, as provided in section 334 of the Immigration and Nationality Act (8 U.S.C. 1445), with appropriate fees not later than 36 months after the date of the enactment of this Act \[May 26, 2000\]. In the case of a person described in section 2(3), the application referred to in the preceding sentence, and appropriate fees, shall be filed not later than 36 months after the date of the enactment of this sentence \[Nov. 1, 2000\].
 
 #### "SEC. 7. LIMITATION ON NUMBER OF BENEFICIARIES.
 

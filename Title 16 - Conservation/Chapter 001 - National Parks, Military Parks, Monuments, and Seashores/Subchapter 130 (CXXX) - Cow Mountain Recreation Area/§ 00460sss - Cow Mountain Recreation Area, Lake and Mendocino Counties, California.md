@@ -22,7 +22,7 @@ In order to enhance the recreational and scenic values of the Cow Mountain area 
 
 #### (1) In general
 
-&emsp;The Secretary of the Interior shall administer the recreation area in accordance with this section and the laws and regulations generally applicable to the public lands, includingthe Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
+&emsp;The Secretary of the Interior shall administer the recreation area in accordance with this section and the laws and regulations generally applicable to the public lands, including the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
 
 #### (2) Existing rights
 

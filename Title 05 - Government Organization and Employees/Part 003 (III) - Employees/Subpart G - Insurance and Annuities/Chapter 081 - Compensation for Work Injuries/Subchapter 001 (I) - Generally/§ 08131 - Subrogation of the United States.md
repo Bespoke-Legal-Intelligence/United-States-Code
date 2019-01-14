@@ -2,7 +2,7 @@
 
 (a) If an injury or death for which compensation is payable under this subchapter is caused under circumstances creating a legal liability on a person other than the United States to pay damages, the Secretary of Labor may require the beneficiary to—
 
-&emsp;(1) assign to the United States any right of action he may have to enforce the liability orany right he may have to share in money or other property received in satisfaction of that liability; or
+&emsp;(1) assign to the United States any right of action he may have to enforce the liability or any right he may have to share in money or other property received in satisfaction of that liability; or
 
 &emsp;(2) prosecute the action in his own name.
 

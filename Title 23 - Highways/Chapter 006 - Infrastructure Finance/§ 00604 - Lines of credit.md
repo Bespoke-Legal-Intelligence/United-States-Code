@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Agreements.—Subject to paragraphs (2) through (4), the Secretary may enter into agreements to make available to 1 or more obligors lines of credit in the form of directloans to be made by the Secretary at future dates on the occurrence of certain events for any project selected under section 602.
+Agreements.—Subject to paragraphs (2) through (4), the Secretary may enter into agreements to make available to 1 or more obligors lines of credit in the form of direct loans to be made by the Secretary at future dates on the occurrence of certain events for any project selected under section 602.
 
 &emsp;(2)
 
@@ -166,7 +166,7 @@ year draws.—The amount drawn in any 1 year shall not exceed 20 percent of the 
 
 Subsec. (b)(3). Pub. L. 109–59, §1601(e)(1)(B), substituted "but not including reasonably required financing reserves" for ", any debt service reserve fund, and any other available reserve".
 
-Subsec. (b)(4). Pub. L. 109–59, §1601(e)(1)(C), struck out "marketable" before "United States Treasury securities" and substituted "date of execution of the line of credit agreement" for "date on which the line of credit is obligated".
+Subsec. (b)(4). Pub. L. 109–59, §1601(e)(1)(C), struck out "marketable" before "United States Treasury securities" and substituted "date of execution of the line ofcredit agreement" for "date on which the line of credit is obligated".
 
 Subsec. (b)(5)(A)(i). Pub. L. 109–59, §1601(e)(1)(D), inserted "that also secure the senior project obligations" after "sources".
 

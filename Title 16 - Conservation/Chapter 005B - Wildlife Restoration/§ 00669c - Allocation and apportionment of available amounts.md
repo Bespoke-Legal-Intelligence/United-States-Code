@@ -38,7 +38,7 @@
 
 #### (b) Apportionment to States
 
-The Secretary of the Interior, after deducting the available amount under subsection (a), the amount apportioned under subsection (c),<sup>1</sup> any amount apportioned under section 669g–1 of this title, and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area of all the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State's fiscal or license year.
+The Secretary of the Interior, after deducting the available amount under subsection (a), the amount apportioned under subsection (c),<sup>1</sup> any amount apportioned under section 669g–1 of thistitle, and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area of all the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State's fiscal or license year.
 
 #### (c) <sup>2</sup> Apportionment of certain taxes
 
@@ -90,7 +90,7 @@ Wildlife conservation strategy.—Within five years of the date of the initial a
 
 &emsp;&emsp;(iv) determines those actions which should be taken to conserve the species identified under paragraph (1) and their habitats and establishes priorities for implementing such conservation actions;
 
-&emsp;&emsp;(v) provides for periodic monitoring of species identified under paragraph (1) and their habitats and the effectiveness of the conservation actions determined under paragraph (4), and for adapting conservation actions as appropriate to respond to new information or changing conditions;
+&emsp;&emsp;(v) provides for periodic monitoring of species identified under paragraph (1) and theirhabitats and the effectiveness of the conservation actions determined under paragraph (4), and for adapting conservation actions as appropriate to respond to new information or changing conditions;
 
 &emsp;&emsp;(vi) provides for the review of the State wildlife conservation strategy and, if appropriate, revision at intervals of not more than ten years;
 
@@ -106,7 +106,7 @@ Wildlife conservation strategy.—Within five years of the date of the initial a
 
 (5) For purposes of this subsection, the term "State" shall include the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Sept. 2, 1937, ch. 899, §4, 50 Stat. 918; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 24, 1946, ch. 605, §1, 60 Stat. 656; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 92–558, title I, §101(b), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 94–273, §4(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 99–396, §8(b), Aug. 27, 1986, 100 Stat. 839; Pub. L. 101–233, §7(a)(2), Dec. 13, 1989, 103 Stat. 1975; Pub. L. 106–408, title I,§111(a), Nov. 1, 2000, 114 Stat. 1763; Pub. L. 106–553, §1(a)(2) \[title IX, §902(e)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–121.)
+(Sept. 2, 1937, ch. 899, §4, 50 Stat. 918; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 24, 1946, ch. 605, §1, 60 Stat. 656; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 92–558, title I, §101(b), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 94–273, §4(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 99–396, §8(b), Aug. 27, 1986, 100 Stat. 839; Pub. L. 101–233, §7(a)(2), Dec. 13, 1989, 103 Stat. 1975; Pub. L. 106–408, title I, §111(a), Nov. 1, 2000, 114 Stat. 1763; Pub. L. 106–553, §1(a)(2) \[title IX, §902(e)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–121.)
 
 #### Amendments
 

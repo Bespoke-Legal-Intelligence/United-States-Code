@@ -44,9 +44,11 @@ The articles of any small business investment company shall specify in general t
 
 &emsp;&emsp;&emsp;(ii) the general business reputation of the owners and management of the applicant; and
 
-&emsp;&emsp;&emsp;(iii) the probability of successful operations of the applicant, including adequate profitability and financial soundness; and
+&emsp;&emsp;&emsp;(iii) the probability of successful operations of the applicant, including adequate profitability and financial soundness;
 
-&emsp;&emsp;(C) shall not take into consideration any projected shortage or unavailability of leverage.
+&emsp;&emsp;(C) shall not take into consideration any projected shortage or unavailability of leverage; and
+
+&emsp;&emsp;(D) shall give first priority to an applicant that is located in an underlicensed State with below median financing, as determined by the Administrator.
 
 #### (4) Exception
 
@@ -64,11 +66,13 @@ The articles of any small business investment company shall specify in general t
 
 &emsp;&emsp;An applicant licensed pursuant to the exception provided in this paragraph shall not be eligible to receive leverage as a licensee until the applicant satisfies the requirements of section 682(a) of this title, unless the applicant—
 
-&emsp;&emsp;&emsp;(i) files an application for a license not later than 180 days after December 2, 1997;
+&emsp;&emsp;&emsp;(i) is located in a State that—
 
-&emsp;&emsp;&emsp;(ii) is located in a State that is not served by a licensee; and
+&emsp;&emsp;&emsp;&emsp;(I) is not served by a licensee; or
 
-&emsp;&emsp;&emsp;(iii) agrees to be limited to 1 tier of leverage available under section 682(b) of this title, until the applicant meets the requirements of section 682(a) of this title.
+&emsp;&emsp;&emsp;&emsp;(II) is an underlicensed State; and
+
+&emsp;&emsp;&emsp;(ii) agrees to be limited to 1 tier of leverage available under section 682(b) of this title, until the applicant meets the requirements of section 682(a) of this title.
 
 #### (d) Repealed. Pub. L. 104–208, div. D, title II, §208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742
 
@@ -86,13 +90,21 @@ The articles of any small business investment company shall specify in general t
 
 &emsp;&emsp;(B) are authorized to be appropriated solely to cover the costs of licensing examinations.
 
-(Pub. L. 85–699, title III, §301, Aug. 21, 1958, 72 Stat. 691; Pub. L. 86–502, §4, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §11(a), (b), Oct. 3, 1961, 75 Stat. 756; Pub. L. 90–104, title II, §202, Oct. 11, 1967, 81 Stat. 269; Pub. L. 92–595, §2(b), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(b)–(d), June 4, 1976, 90 Stat. 666; Pub. L. 95–507, title I, §104, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 100–590, title I, §105, Nov. 3, 1988, 102 Stat. 2993; Pub. L. 104–208, div. D, title II, §208(b)(1)–(3)(A), Sept. 30, 1996, 110 Stat. 3009–741, 3009–742; Pub. L. 105–135, title II, §§212, 214, Dec. 2, 1997, 111 Stat. 2601.)
+(Pub. L. 85–699, title III, §301, Aug. 21, 1958, 72 Stat. 691; Pub. L. 86–502, §4, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §11(a), (b), Oct. 3, 1961, 75 Stat. 756; Pub. L. 90–104, title II, §202, Oct. 11, 1967, 81 Stat. 269; Pub. L. 92–595, §2(b), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(b)–(d), June 4, 1976, 90 Stat. 666; Pub. L. 95–507, title I, §104, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 100–590, title I, §105, Nov. 3, 1988, 102 Stat. 2993; Pub. L. 104–208, div. D, title II, §208(b)(1)–(3)(A), Sept. 30, 1996, 110 Stat. 3009–741, 3009–742; Pub. L. 105–135, title II, §§212, 214, Dec. 2, 1997, 111 Stat. 2601; Pub. L. 115–333, §2(2), Dec. 19, 2018, 132 Stat. 4488.)
 
 #### References in Text
 
 For definition of "this chapter", referred to in subsecs. (b), (c), and (e), see References in Text note set out under section 661 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(3)(D). Pub. L. 115–333, §2(2)(A), added subpar. (D).
+
+Subsec. (c)(4)(B)(i). Pub. L. 115–333, §2(2)(B)(ii), (iii), redesignated cl. (ii) as (i) and amended it generally. Prior to amendment, cl. read as follows: "is located in a State that is not served by a licensee; and".
+
+Pub. L. 115–333, §2(2)(B)(i), struck out cl. (i) which read as follows: "files an application for a license not later than 180 days after December 2, 1997;".
+
+Subsec. (c)(4)(B)(ii), (iii). Pub. L. 115–333, §2(2)(B)(ii), redesignated cls. (ii) and (iii) as (i) and (ii), respectively.
 
 <b>1997</b>—Subsec. (c)(4)(B). Pub. L. 105–135, §212, amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: "An applicant licensed pursuant to the exception provided in this paragraph shall not be eligible to receive leverage as a licensee until the applicant satisfies the requirements of section 682(a) of this title."
 
@@ -116,7 +128,7 @@ Subsec. (c). Pub. L. 94–305, §106(d), struck out "of incorporation" after "ar
 
 <b>1972</b>—Subsec. (d). Pub. L. 92–595 added subsec. (d).
 
-<b>1967</b>—Subsec. (c). Pub. L. 90–104 provided for consideration of availability of financing, the geographic area, the business reputation, ownership factor, and probability of successful operations of company including adequate profitability and financial soundness andeliminated from consideration the number of such companies previously organized in the United States and the volume of their operations.
+<b>1967</b>—Subsec. (c). Pub. L. 90–104 provided for consideration of availability of financing, the geographic area, the business reputation, ownership factor, and probability of successful operations of company including adequate profitability and financial soundness and eliminated from consideration the number of such companies previously organized in the United States and the volume of their operations.
 
 <b>1961</b>—Subsec. (a). Pub. L. 87–341, §11(a), provided that small business investment companies shall be incorporated, organized and chartered under State law, with a minimum succession period of thirty years unless sooner dissolved by its activities and functions, its area of operation shall be subject to the Administration's approval, and deleted provisions setting the minimum number of incorporators at 10, no company shall be chartered by the Administration unless it determined that none could be chartered under the laws of the State and operate in accordance with this chapter, and that no such company shall be chartered by the Administration under this section after June 30, 1961.
 

@@ -1,6 +1,6 @@
 ### §2136. Registration of research facilities, handlers, carriers and unlicensed exhibitors
 
-Every research facility, every intermediate handler, every carrier, and every exhibitor not licensed under section 2133 of this title shall register with the Secretary in accordance with such rules and regulations as he may prescribe.
+Every research facility, every intermediate handler, every carrier, and every exhibitor notlicensed under section 2133 of this title shall register with the Secretary in accordance with such rules and regulations as he may prescribe.
 
 (Pub. L. 89–544, §6, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, §7, Dec. 24, 1970, 84 Stat. 1561; Pub. L. 94–279, §6, Apr. 22, 1976, 90 Stat. 418.)
 

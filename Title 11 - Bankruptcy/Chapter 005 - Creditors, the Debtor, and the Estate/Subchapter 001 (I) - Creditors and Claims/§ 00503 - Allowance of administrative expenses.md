@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(i) wages, salaries, and commissions for services rendered after the commencement of the case; and
 
-&emsp;&emsp;(ii) wages and benefits awarded pursuant to a judicial proceeding or a proceeding of the National Labor Relations Board as back pay attributable to any period of time occurring after commencement of the case under this title, as a result of a violation of Federal or State law by the debtor, without regard to the time of the occurrence of unlawful conduct on which such award is based or to whether any services were rendered, if the court determines that payment of wages and benefits by reason of the operation of this clause will not substantially increase the probability of layoff or termination of current employees, or of nonpayment of domestic support obligations, during the case under this title;
+&emsp;&emsp;(ii) wages and benefits awarded pursuant to a judicial proceeding or a proceeding of the National Labor Relations Board as back pay attributable to any period of time occurring after commencement of the case under this title, as a result of a violation of Federal or State law by the debtor, without regard to the time of the occurrence of unlawful conduct on which such award is based orto whether any services were rendered, if the court determines that payment of wages and benefits by reason of the operation of this clause will not substantially increase the probability of layoff or termination of current employees, or of nonpayment of domestic support obligations, during the case under this title;
 
 &emsp;(B) any tax—
 
@@ -18,7 +18,7 @@
 
 &emsp;(C) any fine, penalty, or reduction in credit relating to a tax of a kind specified in subparagraph (B) of this paragraph; and
 
-&emsp;(D) notwithstanding the requirements of subsection (a), a governmental unit shall notbe required to file a request for the payment of an expense described in subparagraph (B) or (C), as a condition of its being an allowed administrative expense;
+&emsp;(D) notwithstanding the requirements of subsection (a), a governmental unit shall not be required to file a request for the payment of an expense described in subparagraph (B) or (C), as a condition of its being an allowed administrative expense;
 
 &emsp;(2) compensation and reimbursement awarded under section 330(a) of this title;
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(i) the amount of the transfer made to, or obligation incurred for the benefit of, the person is not greater than an amount equal to 10 times the amount of the mean transfer or obligation of a similar kind given to nonmanagement employees for any purpose during the calendar year in which the transfer is made or the obligation is incurred; or
 
-&emsp;&emsp;&emsp;(ii) if no such similar transfers were made to, or obligations were incurred for the benefit of, such nonmanagement employees during such calendar year, the amount of the transfer or obligation is not greater than an amount equal to 25 percent of the amount of any similar transfer or obligation made to or incurred for the benefit of such insider for any purpose during the calendar year before the year in which such transfer is made or obligation is incurred;
+&emsp;&emsp;&emsp;(ii) if no such similar transfers were made to, or obligations were incurred for the benefit of, such nonmanagement employees during such calendar year, theamount of the transfer or obligation is not greater than an amount equal to 25 percent of the amount of any similar transfer or obligation made to or incurred for the benefit of such insider for any purpose during the calendar year before the year in which such transfer is made or obligation is incurred;
 
 &emsp;(2) a severance payment to an insider of the debtor, unless—
 

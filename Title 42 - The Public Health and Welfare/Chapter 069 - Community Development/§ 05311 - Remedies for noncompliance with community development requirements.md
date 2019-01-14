@@ -2,7 +2,7 @@
 
 #### (a) Notice and hearing; termination, reduction, or limitation of payments by Secretary
 
-If the Secretary finds after reasonable notice and opportunity for hearing that a recipient of assistance under this chapter has failed to comply substantially with any provision of this chapter, the Secretary, until he is satisfied that there is no longer any such failure to comply, shall—
+If the Secretary finds after reasonable notice and opportunity for hearing that a recipient ofassistance under this chapter has failed to comply substantially with any provision of this chapter, the Secretary, until he is satisfied that there is no longer any such failure to comply, shall—
 
 &emsp;(1) terminate payments to the recipient under this chapter, or
 

@@ -62,7 +62,7 @@ Pub. L. 106–554, §1(a)(5) \[title III, §304\], Dec. 21, 2000, 114 Stat. 2763
 
 #### Construction of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(5) \[title I, §122\], Dec. 21, 2000, 114 Stat. 2763, 2763A–405, provided that: "Except as expressly provided in this Act \[see Short Title of 2000 Amendment note above\] or an amendment made by this Act, nothing in this Act or an amendment made by thisAct supersedes, affects, or otherwise limits or expands the scope and applicability of laws governing the Securities and Exchange Commission."
+Pub. L. 106–554, §1(a)(5) \[title I, §122\], Dec. 21, 2000, 114 Stat. 2763, 2763A–405, provided that: "Except as expressly provided in this Act \[see Short Title of 2000 Amendment note above\] or an amendment made by this Act, nothing in this Act or an amendment made by this Act supersedes, affects, or otherwise limits or expands the scope and applicability of laws governing the Securities and Exchange Commission."
 
 #### Purposes of 2000 Amendment
 

@@ -50,5 +50,5 @@ Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2499, provided that: "Not
 
 #### Sense of Congress on Implementation of Regulations Regarding Animal Fats and Vegetable Oils
 
-Pub. L. 104–324, title XI, §1130, Oct. 19, 1996, 110 Stat. 3985, as amended by Pub. L. 111–207, §4(a)(1), July 27,2010, 124 Stat. 2251, provided that regulations or guidelines issued pursuant to Pub. L. 104–55 should take into account the differences among classes of fats, oils, and greases described under that law.
+Pub. L. 104–324, title XI, §1130, Oct. 19, 1996, 110 Stat. 3985, as amended by Pub. L. 111–207, §4(a)(1), July 27, 2010, 124 Stat. 2251, provided that regulations or guidelines issued pursuant to Pub. L. 104–55 should take into account the differences among classes of fats, oils, and greases described under that law.
 

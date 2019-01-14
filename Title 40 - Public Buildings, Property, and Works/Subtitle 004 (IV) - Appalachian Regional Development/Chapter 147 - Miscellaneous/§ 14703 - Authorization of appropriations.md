@@ -40,7 +40,7 @@ Availability.—Amounts made available under subsection (a) remain available unt
 
 Allocation of Funds.—Funds approved by the Appalachian Regional Commission for a project in a State in the Appalachian region pursuant to a congressional directive shall be derived from the total amount allocated to the State by the Appalachian Regional Commission from amounts appropriated to carry out this subtitle.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278; Pub. L. 110–371, §5, Oct. 8, 2008, 122 Stat. 4041; Pub. L.114–94, div. A, title I, §1436(b), Dec. 4, 2015, 129 Stat. 1431.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278; Pub. L. 110–371, §5, Oct. 8, 2008, 122 Stat. 4041; Pub. L. 114–94, div. A, title I, §1436(b), Dec. 4, 2015, 129 Stat. 1431.)
 
 Historical and Revision Notes
 
@@ -66,7 +66,7 @@ Subsecs. (c) to (e). Pub. L. 114–94, §1436(b)(2), (3), added subsec. (c) and 
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–371, §5(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations to the Appalachian Regional Commission for fiscal years 2002 to 2006.
 
-Subsec. (b). Pub. L. 110–371, §5(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) authorized appropriations to carry out section 14504 of this title for fiscal years 2002 to 2006.
+Subsec. (b). Pub. L. 110–371, §5(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) authorizedappropriations to carry out section 14504 of this title for fiscal years 2002 to 2006.
 
 Subsec. (d). Pub. L. 110–371, §5(c), added subsec. (d).
 

@@ -48,7 +48,7 @@ For prior year salary increases per the recommendation of the President, see Pri
 
 For miscellaneous provisions dealing with adjustments of pay and limitations on use of funds to pay salaries in prior years, see notes under section 5318 of Title 5, Government Organization and Employees.
 
-Salary of chief judge of District Court for District of Columbia increased from $10,500 to $15,500 a year, and salaries of all other district court judges increased from $10,000 to $15,000 a year by act July 31, 1946, ch. 704, §1, 60 Stat. 716.
+Salary of chief judge of District Court for District of Columbia increased from $10,500 to $15,500 a year, andsalaries of all other district court judges increased from $10,000 to $15,000 a year by act July 31, 1946, ch. 704, §1, 60 Stat. 716.
 
 Salary of chief judge of District Court of District of Columbia increased from $7,500 to $10,500 a year, and salaries of all other district court judges increased from $7,500 to $10,000 a year by act Dec. 13, 1926, ch. 6, §1, 44 Stat. 919.
 

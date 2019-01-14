@@ -12,7 +12,7 @@
 
 #### (2) Contents of rule
 
-&emsp;Except as provided in this subsection, the final rule published under paragraph (1),<sup>2</sup> shall be identical in its provisions to part 897 of the regulations promulgated by the Secretary of Health and Human Services in the August 28, 1996, issue of the Federal Register (61 Fed. Reg. 44615–44618). Such rule shall—
+&emsp;Except as provided in this subsection, the final rule published under paragraph (1),<sup>2</sup> shallbe identical in its provisions to part 897 of the regulations promulgated by the Secretary of Health and Human Services in the August 28, 1996, issue of the Federal Register (61 Fed. Reg. 44615–44618). Such rule shall—
 
 &emsp;&emsp;(A) provide for the designation of jurisdictional authority that is in accordance with this subsection in accordance with this division and the amendments made by this division;
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;"(II) a brand name other than in conjunction with words for an area or enclosure to identify an adult-only facility; or
 
-&emsp;&emsp;"(III) any combination of words that would imply to a reasonable observer that the manufacturer, distributor, or retailer has asponsorship that would violate section 897.34(c).
+&emsp;&emsp;"(III) any combination of words that would imply to a reasonable observer that the manufacturer, distributor, or retailer has a sponsorship that would violate section 897.34(c).
 
 "(D) Distribution of samples of smokeless tobacco under this subparagraph permitted to be taken out of the qualified adult-only facility shall be limited to 1 package per adult consumer containing no more than 0.53 ounces (15 grams) of smokeless tobacco. If such package of smokeless tobacco contains individual portions of smokeless tobacco, the individual portions of smokeless tobacco shall not exceed 8 individual portions and the collective weight of such individual portions shall not exceed 0.53 ounces (15 grams). Any manufacturer, distributor, or retailer who distributes or causes to be distributed free samples also shall take reasonable steps to ensure that the above amounts are limited to one such package per adult consumer per day.
 
@@ -78,7 +78,7 @@
 
 #### (4) Rule of construction
 
-&emsp;Except as provided in paragraph (3), nothing in this section shall be construed to limit the authority of the Secretary to amend, in accordance with chapter 5 of title 5, the regulation promulgated pursuant to this section, including the provisions of such regulation relating to distribution of free samples.
+&emsp;Except as provided in paragraph (3), nothing in this section shall be construed to limit theauthority of the Secretary to amend, in accordance with chapter 5 of title 5, the regulation promulgated pursuant to this section, including the provisions of such regulation relating to distribution of free samples.
 
 #### (5) Enforcement of retail sale provisions
 

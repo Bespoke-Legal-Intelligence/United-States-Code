@@ -28,11 +28,11 @@ In this subchapter:
 
 #### (4) Federal benefit rate under subchapter XVI
 
-&emsp;The term "Federal benefit rate under subchapter XVI" means, with respect to anymonth, the amount of the supplemental security income cash benefit (not including any State supplementary payment which is paid by the Commissioner of Social Security pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66) payable under subchapter XVI for the month to an eligible individual with no income.
+&emsp;The term "Federal benefit rate under subchapter XVI" means, with respect to any month, the amount of the supplemental security income cash benefit (not including any State supplementary payment which is paid by the Commissioner of Social Security pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66) payable under subchapter XVI for the month to an eligible individual with no income.
 
 #### (5) United States
 
-&emsp;The term "United States" means, notwithstanding section 1301(a)(1) of this title, only the 50 States, the District of Columbia, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "United States" means, notwithstanding section 1301(a)(1) of this title, onlythe 50 States, the District of Columbia, and the Commonwealth of the Northern Mariana Islands.
 
 #### (6) Benefit income
 

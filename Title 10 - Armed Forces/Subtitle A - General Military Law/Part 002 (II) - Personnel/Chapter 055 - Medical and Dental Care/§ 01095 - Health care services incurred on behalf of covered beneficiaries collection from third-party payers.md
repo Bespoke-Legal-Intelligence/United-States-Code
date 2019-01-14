@@ -1,6 +1,6 @@
 ### §1095. Health care services incurred on behalf of covered beneficiaries: collection from third-party payers
 
-(a)(1) In the case of a person who is a covered beneficiary, the United States shall have the right to collect from a third-party payer reasonable charges for health care services incurred by the United States on behalf of such person through a facility of the uniformed services to the extent that the person would be eligible to receive reimbursement or indemnification from the third-party payer if the person were to incur such charges on the person's own behalf. If the insurance, medical service, or health plan of that payer includes a requirement for a deductible or copayment by the beneficiary of the plan, then the amount that the United States may collect from the third-party payer is a reasonable charge for the care provided less the appropriate deductible or copayment amount.
+(a)(1) In the case of a person who is a covered beneficiary, the United States shall have theright to collect from a third-party payer reasonable charges for health care services incurred by the United States on behalf of such person through a facility of the uniformed services to the extent that the person would be eligible to receive reimbursement or indemnification from the third-party payer if the person were to incur such charges on the person's own behalf. If the insurance, medical service, or health plan of that payer includes a requirement for a deductible or copayment by the beneficiary of the plan, then the amount that the United States may collect from the third-party payer is a reasonable charge for the care provided less the appropriate deductible or copayment amount.
 
 (2) A covered beneficiary may not be required to pay an additional amount to the United States for health care services by reason of this section.
 
@@ -50,7 +50,7 @@
 
 (k)(1) To improve the administration of this section and sections 1079(j)(1) <sup>1</sup> and 1086(d) of this title, the Secretary of Defense, in consultation with the other administering Secretaries, may prescribe regulations providing for the collection of information regarding insurance, medical service, or health plans of third-party payers held by covered beneficiaries.
 
-(2) The collection of information under regulations prescribed under paragraph (1) shall be conducted in the same manner as is provided in section 1862(b)(5) of the Social Security Act (42 U.S.C. 1395y(b)(5)). The Secretary may provide for obtaining from the Commissioner of Social Security employment information comparable to the information provided to the Administrator of the Centers for Medicare \& Medicaid Services pursuant to such section. Such regulations may require the mandatory disclosure of Social Security account numbers for all covered beneficiaries.
+(2) The collection of information under regulations prescribed under paragraph (1) shall be conducted in the same manner as is provided in section 1862(b)(5) of the Social Security Act (42 U.S.C. 1395y(b)(5)). The Secretary may provide for obtaining from the Commissioner of Social Security employment information comparable to the information provided to the Administrator of the Centers for Medicare \& Medicaid Services pursuant to such section. Such regulations may require the mandatory disclosure ofSocial Security account numbers for all covered beneficiaries.
 
 (3) The Secretary may disclose relevant employment information collected under this subsection to fiscal intermediaries or other designated contractors.
 
@@ -58,7 +58,7 @@
 
 (5) Information obtained under this subsection may not be disclosed for any purpose other than to carry out the purpose of this section and sections 1079(j)(1) <sup>1</sup> and 1086(d) of this title.
 
-(Added Pub. L. 99–272, title II, §2001(a)(1), Apr. 7, 1986, 100 Stat. 100; amended Pub. L. 101–189, div. A, title VII, §727(a), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1480, 1605; Pub. L. 101–510, div. A, title VII, §713(a)–(d)(2), Nov. 5, 1990, 104 Stat. 1583, 1584; Pub. L. 102–25, title VII, §701(j)(8), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–190, div. A, title VII, §714, Dec. 5, 1991, 105 Stat. 1403; Pub. L. 103–160, div. A, title VII, §713, Nov. 30, 1993, 107 Stat. 1689; Pub. L. 103–337, div. A, title VII, §714(b), title X, §1070(b)(6), Oct. 5, 1994, 108 Stat. 2802, 2857; Pub. L. 104–106, div. A, title VII, §734, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A,title VII, §735(a), (b), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–65, div. A, title VII, §716(c)(1), Oct. 5, 1999, 113 Stat. 691; Pub. L. 107–314, div. A, title X, §1041(a)(5), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–173, title IX, §900(e)(4)(B), Dec. 8, 2003, 117 Stat. 2373.)
+(Added Pub. L. 99–272, title II, §2001(a)(1), Apr. 7, 1986, 100 Stat. 100; amended Pub. L. 101–189, div. A, title VII, §727(a), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1480, 1605; Pub. L. 101–510, div. A, title VII, §713(a)–(d)(2), Nov. 5, 1990, 104 Stat. 1583, 1584; Pub. L. 102–25, title VII, §701(j)(8), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–190, div. A, title VII, §714, Dec. 5, 1991, 105 Stat. 1403; Pub. L. 103–160, div. A, title VII, §713, Nov. 30, 1993, 107 Stat. 1689; Pub. L. 103–337, div. A, title VII, §714(b), title X, §1070(b)(6), Oct. 5, 1994, 108 Stat. 2802, 2857; Pub. L. 104–106, div. A, title VII, §734, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §735(a), (b), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–65, div. A, title VII, §716(c)(1), Oct. 5, 1999, 113 Stat. 691; Pub. L. 107–314, div. A, title X, §1041(a)(5), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–173, title IX, §900(e)(4)(B), Dec. 8, 2003, 117 Stat. 2373.)
 
 #### References in Text
 
@@ -158,63 +158,7 @@ Pub. L. 99–272, title II, §2001(b), Apr. 7, 1986, 100 Stat. 101, provided tha
 
 #### Pilot Program on Increased Third-Party Collection Reimbursements in Military Medical Treatment Facilities
 
-Pub. L. 113–66, div. A, title VII, §712, Dec. 26, 2013, 127 Stat. 793, provided that:
-
-"(a)
-
-Pilot Program.—
-
-&emsp;"(1)
-
-In general.—The Secretary of Defense, in coordination with the Secretaries of the military departments, shall carry out a pilot program to demonstrate and assess the feasibility of implementing processes described in paragraph (2) to increase the amounts collected under section 1095 of title 10, United States Code, from a third-party payer for charges for health care services incurred by the United States at a military medical treatment facility.
-
-&emsp;"(2)
-
-Processes described.—The processes described in this paragraph are commercially available enhanced recovery practices for medical payment collection, including revenue-cycle management together with rates and percentages of collection in accordance with industry standards for such practices.
-
-"(b)
-
-Requirements.—In carrying out the pilot program under subsection (a)(1), the Secretary shall—
-
-&emsp;"(1) identify and analyze the best practice option, including commercial best practices, with respect to the processes described in subsection (a)(2) that are used in nonmilitary health care facilities; and
-
-&emsp;"(2) conduct a cost-benefit analysis to assess measurable results of the pilot program, including an analysis of—
-
-&emsp;&emsp;"(A) the different processes used in the pilot program;
-
-&emsp;&emsp;"(B) the amount of third-party collections that resulted from such processes;
-
-&emsp;&emsp;"(C) the cost to implement and sustain such processes; and
-
-&emsp;&emsp;"(D) any other factors the Secretary determines appropriate to assess the pilot program.
-
-"(c)
-
-Locations.—The Secretary shall carry out the pilot program under subsection (a)(1)—
-
-&emsp;"(1) at military installations that have a military medical treatment facility with inpatient and outpatient capabilities; and
-
-&emsp;"(2) at a number of such installations of different military departments that the Secretary determines sufficient to fully assess the results of the pilot program.
-
-"(d)
-
-Duration.—The Secretary shall commence the pilot program under subsection (a)(1) by not later than 270 days after the date of the enactment of this Act \[Dec. 26, 2013\] and shall carry out such program for three years.
-
-"(e)
-
-Report.—Not later than 180 days after completing the pilot program under subsection (a)(1), the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing the results of the program, including—
-
-&emsp;"(1) a comparison of—
-
-&emsp;&emsp;"(A) the processes described in subsection (a)(2) that were used in the military medical treatment facilities participating in the program; and
-
-&emsp;&emsp;"(B) the third-party collection processes used by military medical treatment facilities not included in the program;
-
-&emsp;"(2) a cost analysis of implementing the processes described in subsection (a)(2) for third-party collections at military medical treatment facilities;
-
-&emsp;"(3) an assessment of the program, including any recommendations to improve third-party collections; and
-
-&emsp;"(4) an analysis of the methods employed by the military departments prior to the program with respect to collecting charges from third-party payers incurred at military medical treatment facilities, including specific data with respect to the dollar amount of third-party collections that resulted from each method used throughout the military departments."
+Pub. L. 113–66, div. A, title VII, §712, Dec. 26, 2013, 127 Stat. 793, required the Secretary of Defense, in coordination with the Secretaries of the military departments, to conduct a three-year pilot program to demonstrate and assess the feasibility of implementing commercially available enhanced recovery practices to increase reimbursement from third-party payers in military medical treatment facilities and report the results to Congress not later than 180 days after the program's completion.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

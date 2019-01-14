@@ -1,6 +1,6 @@
 ### §8413. Deferred retirement
 
-(a) An employee or Member who is separated from the service, or transferred to a position inwhich the employee or Member does not continue subject to this chapter, after completing 5 years of service is entitled to an annuity beginning at the age of 62 years.
+(a) An employee or Member who is separated from the service, or transferred to a position in which the employee or Member does not continue subject to this chapter, after completing 5 years of service is entitled to an annuity beginning at the age of 62 years.
 
 (b)(1) An employee or Member who is separated from the service, or transferred to a position in which the employee or Member does not continue subject to this chapter, after completing 10 years of service but before attaining the applicable minimum retirement age under section 8412(h) is entitled to an annuity beginning on the date designated by the employee or Member in a written election under this subsection. The date designated under this subsection may not precede the date on which the employee or Member attains such minimum retirement age and must precede the date on which the employee or Member becomes 62 years of age.
 

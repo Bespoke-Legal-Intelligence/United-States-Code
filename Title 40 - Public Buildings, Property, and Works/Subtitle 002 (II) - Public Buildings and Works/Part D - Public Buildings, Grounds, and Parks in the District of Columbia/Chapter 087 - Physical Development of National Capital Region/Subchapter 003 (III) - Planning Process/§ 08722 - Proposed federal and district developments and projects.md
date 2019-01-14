@@ -42,7 +42,7 @@ Working with state or local authority or agency.—In carrying out its planning 
 
 (d)
 
-Approval of Federal Public Buildings.—The provisions of the Act of June 20, 1938 (ch. 534, 52 Stat. 797) shall not apply to federal public buildings. In order to ensure the orderly development of the National Capital, the location, height, bulk, number of stories, and size of federal public buildings in the District of Columbia and the provision for open space in and around federal public buildings in the District of Columbia are subject to the approval of the Commission.
+Approval of Federal Public Buildings.—The provisions of the Act of June 20, 1938 (ch. 534, 52 Stat. 797) shall not apply to federal publicbuildings. In order to ensure the orderly development of the National Capital, the location, height, bulk, number of stories, and size of federal public buildings in the District of Columbia and the provision for open space in and around federal public buildings in the District of Columbia are subject to the approval of the Commission.
 
 (e)
 

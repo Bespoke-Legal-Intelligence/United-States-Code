@@ -8,7 +8,7 @@
 
 #### (2) Partnership and partner
 
-&emsp;The term "partnership" includes a syndicate, group, pool, joint venture, or other unincorporated organization, through or by means of which any business, financial operation, or venture is carried on, and which is not, within the meaning of this title, a trust or estate or a corporation; and the term "partner" includes a member in such a syndicate, group, pool, joint venture, or organization.
+&emsp;The term "partnership" includes a syndicate, group, pool, joint venture, or other unincorporated organization, through or by means of which any business, financial operation, or venture is carried on, and which isnot, within the meaning of this title, a trust or estate or a corporation; and the term "partner" includes a member in such a syndicate, group, pool, joint venture, or organization.
 
 #### (3) Corporation
 
@@ -82,9 +82,9 @@
 
 &emsp;The term "withholding agent" means any person required to deduct and withhold any tax under the provisions of section 1441, 1442, 1443, or 1461.
 
-#### (17) <sup>1</sup> Husband and wife
+#### (17) Husband and wife
 
-&emsp;As used in sections 682 and 2516, if the husband and wife therein referred to are divorced, wherever appropriate to the meaning of such sections, the term "wife" shall be read "former wife" and the term "husband" shall be read "former husband"; and, if the payments described in such sections are made by or on behalf of the wife or former wife to the husband or former husband instead of vice versa, wherever appropriate to the meaning of such sections, the term "husband" shall be read "wife" and the term "wife" shall be read "husband."
+&emsp;As used in section 2516, if the husband and wife therein referred to are divorced, wherever appropriate to the meaning of such section, the term "wife" shall be read "former wife" and the term "husband" shall be read "former husband"; and, if the payments described in such section are made by or on behalf of the wife or former wife to the husband or former husband instead of vice versa, wherever appropriate to the meaning of such section, the term "husband" shall be read "wife" and the term "wife" shall be read "husband."
 
 #### (18) International organization
 
@@ -94,7 +94,7 @@
 
 &emsp;The term "domestic building and loan association" means a domestic building and loan association, a domestic savings and loan association, and a Federal savings and loan association—
 
-&emsp;&emsp;(A) which either (i) is an insured institution within the meaning of section 401(a) <sup>2</sup> of the National Housing Act (12 U.S.C., sec. 1724(a)), or (ii) is subject by law to supervision and examination by State or Federal authority having supervision over such associations;
+&emsp;&emsp;(A) which is subject by law to supervision and examination by State or Federal authority having supervision over such associations;
 
 &emsp;&emsp;(B) the business of which consists principally of acquiring the savings of the public and investing in loans; and
 
@@ -196,11 +196,7 @@
 
 &emsp;The term "cooperative bank" means an institution without capital stock organized and operated for mutual purposes and without profit, which—
 
-&emsp;&emsp;(A) either—
-
-&emsp;&emsp;&emsp;(i) is an insured institution within the meaning of section 401(a) <sup>2</sup> of the National Housing Act (12 U.S.C., sec. 1724(a)), or
-
-&emsp;&emsp;&emsp;(ii) is subject by law to supervision and examination by State or Federal authority having supervision over such institutions, and
+&emsp;&emsp;(A) is subject by law to supervision and examination by State or Federal authority having supervision over such institutions, and
 
 &emsp;&emsp;(B) meets the requirements of subparagraphs (B) and (C) of paragraph (19) of this subsection (relating to definition of domestic building and loan association).
 
@@ -218,7 +214,7 @@
 
 &emsp;&emsp;&emsp;(iii) transportation (not included in clause (ii)) by motor vehicle—
 
-> &emsp;&emsp;if the rates for such furnishing or sale, as the case may be, have been established or approved by a State or political subdivision thereof, by an agency or instrumentality of the United States, by a public service or public utility commission or other similar body of the District of Columbia or of anyState or political subdivision thereof, or by a foreign country or an agency or instrumentality or political subdivision thereof.
+> &emsp;&emsp;if the rates for such furnishing or sale, as the case may be, have been established or approved by a State or political subdivision thereof, by an agency or instrumentality of the United States, by a public service or public utility commission or other similar body of the District of Columbia or of any State or political subdivision thereof, or by a foreign country or an agency or instrumentality or political subdivision thereof.
 
 &emsp;&emsp;(B) A corporation engaged as a common carrier in the furnishing or sale of transportation of gas by pipe line, if subject to the jurisdiction of the Federal Energy Regulatory Commission.
 
@@ -250,7 +246,7 @@
 
 #### (B) Exceptions
 
-&emsp;&emsp;A person shall not be an <sup>3</sup> "tax return preparer" merely because such person—
+&emsp;&emsp;A person shall not be a "tax return preparer" merely because such person—
 
 &emsp;&emsp;&emsp;(i) furnishes typing, reproducing, or other mechanical assistance,
 
@@ -288,7 +284,7 @@
 
 #### (B) Special rule for Alaska Natives
 
-&emsp;&emsp;No determination under subparagraph (A) with respect to Alaska Natives shall grant or defer any status or powers other than those enumerated in section 7871. Nothing in the Indian Tribal Governmental Tax Status Act of 1982, or in the amendments made thereby, shall validate or invalidate any claim by Alaska Natives of sovereign authority over lands or people.
+&emsp;&emsp;No determination under subparagraph (A) with respect to Alaska Natives shall grantor defer any status or powers other than those enumerated in section 7871. Nothing in the Indian Tribal Governmental Tax Status Act of 1982, or in the amendments made thereby, shall validate or invalidate any claim by Alaska Natives of sovereign authority over lands or people.
 
 #### (41) TIN
 
@@ -514,7 +510,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) which is organized for the primary purpose of benefiting an organization which is described in section 501(c)(3) and exempt from tax under section 501(a),
 
-&emsp;&emsp;&emsp;&emsp;(II) all of the net proceeds of which are contributed to such organization, and,<sup>4</sup>
+&emsp;&emsp;&emsp;&emsp;(II) all of the net proceeds of which are contributed to such organization, and,<sup>1</sup>
 
 &emsp;&emsp;&emsp;&emsp;(III) which utilizes volunteers for substantially all of the work performed in carrying out such event.
 
@@ -522,7 +518,7 @@
 
 &emsp;&emsp;The term "foreign government-related individual" means any individual temporarily present in the United States by reason of—
 
-&emsp;&emsp;&emsp;(i) diplomatic status, or a visa which the Secretary (after consultation with theSecretary of State) determines represents full-time diplomatic or consular status for purposes of this subsection,
+&emsp;&emsp;&emsp;(i) diplomatic status, or a visa which the Secretary (after consultation with the Secretary of State) determines represents full-time diplomatic or consular status for purposes of this subsection,
 
 &emsp;&emsp;&emsp;(ii) being a full-time employee of an international organization, or
 
@@ -552,7 +548,7 @@
 
 #### (i) Limitation on teachers and trainees
 
-&emsp;&emsp;&emsp;An individual shall not be treated as an exempt individual by reason of clause (ii) of subparagraph (A) for the current year if, for any 2 calendar years during the preceding 6 calendar years, such person was an exempt person under clause (ii) or (iii) of subparagraph (A). In the case of an individual all of whose compensation is described in section 872(b)(3), the preceding sentence shall be applied by substituting "4 calendar years" for "2 calendar years".
+&emsp;&emsp;&emsp;An individual shall not be treated as an exempt individual by reason of clause (ii)of subparagraph (A) for the current year if, for any 2 calendar years during the preceding 6 calendar years, such person was an exempt person under clause (ii) or (iii) of subparagraph (A). In the case of an individual all of whose compensation is described in section 872(b)(3), the preceding sentence shall be applied by substituting "4 calendar years" for "2 calendar years".
 
 #### (ii) Limitation on students
 
@@ -728,7 +724,7 @@ For purposes of chapter 1—
 
 &emsp;&emsp;(A) such property is operated by or for an organization described in paragraph (3) or (4) of section 501(c), and
 
-&emsp;&emsp;(B) at least 80 percent of the units in such property are leased to low-income tenants (within the meaning of section 167(k)(3)(B)) (as in effect on the day before the date of the enactment of the Revenue Reconcilation <sup>5</sup> Act of 1990).
+&emsp;&emsp;(B) at least 80 percent of the units in such property are leased to low-income tenants (within the meaning of section 167(k)(3)(B)) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990).
 
 #### (6) Regulations
 
@@ -774,7 +770,7 @@ For purposes of subtitle A, in determining the amount of gain or loss (or deemed
 
 &emsp;&emsp;&emsp;(ii) the net fair market value of the lessor's interest in any property pledged as security for property subject to the agreement,
 
-> &emsp;&emsp;equals or exceeds all amounts borrowed to finance the acquisition of property subject to the agreement. There shall not be taken into account under clause (ii) any propertypledged which is property subject to the agreement or property directly or indirectly financed by indebtedness secured by property subject to the agreement.
+> &emsp;&emsp;equals or exceeds all amounts borrowed to finance the acquisition of property subject to the agreement. There shall not be taken into account under clause (ii) any property pledged which is property subject to the agreement or property directly or indirectly financed by indebtedness secured by property subject to the agreement.
 
 #### (C) Certification by lessee; notice of tax ownership
 
@@ -858,7 +854,7 @@ For purposes of subtitle A, in determining the amount of gain or loss (or deemed
 
 #### (3) Coordination with Social Security Act
 
-&emsp;Paragraph (1) shall not be construed to provide that any amount of the employee's orMember's basic pay which is contributed to the Thrift Savings Fund shall not be included in the term "wages" for the purposes of section 209 of the Social Security Act or section 3121(a) of this title.
+&emsp;Paragraph (1) shall not be construed to provide that any amount of the employee's or Member's basic pay which is contributed to the Thrift Savings Fund shall not be included in the term "wages" for the purposes of section 209 of the Social Security Act or section 3121(a) of this title.
 
 #### (4) Definitions
 
@@ -932,7 +928,7 @@ For purposes of this title, any organization which is otherwise a convention or 
 
 #### (C) Determination of application of doctrine not affected
 
-&emsp;&emsp;The determination of whether the economic substance doctrine is relevant to atransaction shall be made in the same manner as if this subsection had never been enacted.
+&emsp;&emsp;The determination of whether the economic substance doctrine is relevant to a transaction shall be made in the same manner as if this subsection had never been enacted.
 
 #### (D) Transaction
 
@@ -966,21 +962,9 @@ For purposes of this title, any organization which is otherwise a convention or 
 
 &emsp;&emsp;<b>For effect of cross references in this title, see section 7806(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 911; Pub. L. 86–70, §22(g), (h), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(i), (j), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §103(t), Sept. 13, 1960, 74 Stat. 941; Pub. L. 87–834, §§6(c), 7(h), Oct. 16, 1962, 76 Stat. 982, 988; Pub. L. 87–870, §5(a), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), Feb. 26, 1964, 78 Stat. 36, 114; Pub. L. 89–368, title I, §102(b)(5), Mar. 15, 1966, 80 Stat. 64; Pub. L. 89–809, title I, §103(l)(1), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 90–364, title I, §103(e)(6), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), Dec. 30, 1969, 83 Stat. 622, 623, 735; Pub. L. 92–606, §1(f)(4), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 93–406, title III, §3043, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1688, 1832, 1834, 1835; Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), Nov. 6, 1978, 92 Stat. 2809, 2923; Pub. L. 97–34, title VII, §725(c)(4), Aug. 13, 1981, 95 Stat. 346; Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), Sept. 3, 1982, 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), Jan. 12, 1983, 96 Stat. 2400, 2406; Pub. L. 97–449, §5(e), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 97–473, title II, §203, Jan. 14, 1983, 96 Stat. 2611; Pub. L. 98–67, title I, §§102(a), 104(d)(1), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–216, §3(c)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), July 18, 1984, 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Pub. L. 98–443, §9(q), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(l)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22, 1986, 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Pub. L. 100–202, §101(m) \[title VI, §624(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429; Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Pub. L. 101–194, title VI, §602, Nov. 30, 1989, 103 Stat. 1762; Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), Nov. 5, 1990, 104 Stat. 1388–519, 1388–536; Pub. L. 102–90, title III, §314(e), Aug. 14, 1991, 105 Stat. 470; Pub. L. 102–318, title V, §521(b)(43), July 3, 1992, 106 Stat. 313; Pub. L. 103–66, title XIII, §13238, Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(3), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, §304(e), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, 110 Stat. 1790, 1867, 1916; Pub. L. 105–34, title XI, §§1151(a), 1174(b), title XVI, §1601(i)(3)(A), Aug. 5, 1997, 111 Stat. 986, 989, 1093; Pub. L. 106–554, §1(a)(7) \[title IV, §401(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650; Pub. L. 107–16, title V, §542(e)(3), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title II, §207(24), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 108–357, title VIII, §§804(b), 835(b)(10), (11), 852(a), Oct. 22, 2004, 118 Stat. 1570, 1594, 1609; Pub. L. 109–135, title IV, §403(v)(2), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 109–280, title XII, §§1207(f), 1222, Aug. 17, 2006, 120 Stat. 1071, 1089; Pub. L. 110–28, title VIII, §8246(a)(1), May 25, 2007, 121 Stat. 200; Pub. L. 110–245, title III, §301(c)(1), (2)(B), (C), June 17, 2008, 122 Stat. 1646; Pub. L. 111–152, title I, §1409(a), Mar. 30, 2010, 124 Stat. 1067; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 113–295, div. A, title II, §221(a)(119), Dec. 19, 2014, 128 Stat. 4055; Pub. L. 115–97, title I, §§11051(b)(4), 13304(a)(2)(F), Dec. 22, 2017, 131 Stat. 2090, 2125.)
-
-#### Amendment of Subsection (a)(17)
-
-<i>Pub. L. 115–97, title I, §11051(b)(4), (c), Dec. 22, 2017, 131 Stat. 2090, amended subsection (a)(17) of this section, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification. After amendment, subsection (a)(17) reads as follows:</i>
-
-#### <i>(17) Husband and wife</i>
-
-&emsp;<i>As used in section 2516, if the husband and wife therein referred to are divorced, wherever appropriate to the meaning of such section, the term "wife" shall be read "former wife" and the term "husband" shall be read "former husband"; and, if the payments described in such section are made by or on behalf of the wife or former wife to the husband or former husband instead of vice versa, wherever appropriate to the meaning of such section, the term "husband" shall be read "wife" and the term "wife" shall be read "husband."</i>
-
-<i>See 2017 Amendment note below.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 911; Pub. L. 86–70, §22(g), (h), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(i), (j), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §103(t), Sept. 13, 1960, 74 Stat. 941; Pub. L. 87–834, §§6(c), 7(h), Oct. 16, 1962, 76 Stat. 982, 988; Pub. L. 87–870, §5(a), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), Feb. 26, 1964, 78 Stat. 36, 114; Pub. L. 89–368, title I, §102(b)(5), Mar. 15, 1966, 80 Stat. 64; Pub. L. 89–809, title I, §103(l)(1), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 90–364, title I, §103(e)(6), June28, 1968, 82 Stat. 264; Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), Dec. 30, 1969, 83 Stat. 622, 623, 735; Pub. L. 92–606, §1(f)(4), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 93–406, title III, §3043, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1688, 1832, 1834, 1835; Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), Nov. 6, 1978, 92 Stat. 2809, 2923; Pub. L. 97–34, title VII, §725(c)(4), Aug. 13, 1981, 95 Stat. 346; Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), Sept. 3, 1982, 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), Jan. 12, 1983, 96 Stat. 2400, 2406; Pub. L. 97–449, §5(e), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 97–473, title II, §203, Jan. 14, 1983, 96 Stat. 2611; Pub. L. 98–67, title I, §§102(a), 104(d)(1), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–216, §3(c)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), July 18, 1984, 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Pub. L. 98–443, §9(q), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(l)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22, 1986, 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Pub. L. 100–202, §101(m) \[title VI, §624(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429; Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Pub. L. 101–194, title VI, §602, Nov. 30, 1989, 103 Stat. 1762; Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), Nov. 5, 1990, 104 Stat. 1388–519, 1388–536; Pub. L. 102–90, title III, §314(e), Aug. 14, 1991, 105 Stat. 470; Pub. L. 102–318, title V, §521(b)(43), July 3, 1992, 106 Stat. 313; Pub. L. 103–66, title XIII, §13238, Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(3), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, §304(e), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, 110 Stat. 1790, 1867, 1916; Pub. L. 105–34, title XI, §§1151(a), 1174(b), title XVI, §1601(i)(3)(A), Aug. 5, 1997, 111 Stat. 986, 989, 1093; Pub. L. 106–554, §1(a)(7) \[title IV, §401(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650; Pub. L. 107–16, title V, §542(e)(3), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title II, §207(24), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 108–357, title VIII, §§804(b), 835(b)(10), (11), 852(a), Oct. 22, 2004, 118 Stat. 1570, 1594, 1609; Pub. L. 109–135, title IV, §403(v)(2), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 109–280, title XII, §§1207(f), 1222, Aug. 17, 2006, 120 Stat. 1071, 1089; Pub. L. 110–28, title VIII, §8246(a)(1), May 25, 2007, 121 Stat. 200; Pub. L. 110–245, title III, §301(c)(1), (2)(B), (C), June 17, 2008, 122 Stat. 1646; Pub. L. 111–152, title I, §1409(a), Mar. 30, 2010, 124 Stat. 1067; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 113–295, div. A, title II, §221(a)(119), Dec. 19, 2014, 128 Stat. 4055; Pub. L. 115–97, title I, §§11051(b)(4), 13304(a)(2)(F), Dec. 22, 2017, 131 Stat. 2090, 2125; Pub. L. 115–141, div. U, title IV, §401(a)(331), (332), (b)(54), (55), Mar. 23, 2018, 132 Stat. 1200, 1205.)
 
 #### References in Text
-
-Section 401 of the National Housing Act, referred to in subsec. (a)(19)(A), (32)(A)(i), which was classified to section 1724 of Title 12, Banks and Banking, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
 Part A and part B of title I of the Housing Act of 1949, referred to in subsec. (a)(19)(C)(vi), which were classified generally to part A (§1450 et seq.) and part B (§1469 et seq.) of subchapter II of chapter 8A of Title 42, The Public Health and Welfare, were omitted from the Code pursuant to section 5316 of Title 42, which terminated authority to make new loans and grants under title I of that Act after Jan. 1, 1975.
 
@@ -1009,6 +993,18 @@ The date of the enactment of the Commodity Futures Modernization Act of 2000, re
 Sections 1207(f) and 1222 of Pub. L. 109–280, which directed the amendment of section 7701 without specifying the act to be amended, were executed to this section, which is section 7701 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(19)(A). Pub. L. 115–141, §401(b)(54), struck out "either (i) is an insured institution within the meaning of section 401(a) of the National Housing Act (12 U.S.C., sec. 1724(a)), or (ii)" after "which".
+
+Subsec. (a)(32)(A). Pub. L. 115–141, §401(b)(55), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "either—
+
+&emsp;"(i) is an insured institution within the meaning of section 401(a) of the National Housing Act (12 U.S.C., sec. 1724(a)), or
+
+&emsp;"(ii) is subject by law to supervision and examination by State or Federal authority having supervision over such institutions, and".
+
+Subsec. (a)(36)(B). Pub. L. 115–141, §401(a)(331), substituted "shall not be a" for "shall not be an" in introductory provisions.
+
+Subsec. (e)(5)(B). Pub. L. 115–141, §401(a)(332), substituted "Reconciliation" for "Reconcilation".
 
 <b>2017</b>—Subsec. (a)(17). Pub. L. 115–97, §11051(b)(4), substituted "section 2516" for "sections 682 and 2516" and substituted "such section" for "such sections" wherever appearing.
 
@@ -1064,7 +1060,7 @@ Subsec. (b)(7)(A). Pub. L. 105–34, §1174(b)(2), substituted ", (C), or (D)" 
 
 Subsec. (b)(7)(D). Pub. L. 105–34, §1174(b)(1), added subpar. (D).
 
-<b>1996</b>—Subsec. (a)(19)(C)(xi). Pub. L. 104–188, §1621(b)(8), amended cl. (xi) generally. Prior to amendment, cl. (xi) read as follows: "any regular or residual interest in a REMIC, but only in the proportion which the assets of such REMIC consist of property described in any of thepreceding clauses of this subparagraph; except that if 95 percent or more of the assets of such REMIC are assets described in clauses (i) through (x), the entire interest in the REMIC shall qualify."
+<b>1996</b>—Subsec. (a)(19)(C)(xi). Pub. L. 104–188, §1621(b)(8), amended cl. (xi) generally. Prior to amendment, cl. (xi) read as follows: "any regular or residual interest in a REMIC, but only in the proportion which the assets of such REMIC consist of property described in any of the preceding clauses of this subparagraph; except that if 95 percent or more of the assets of such REMIC are assets described in clauses (i) through (x), the entire interest in the REMIC shall qualify."
 
 Subsec. (a)(20). Pub. L. 104–188, §1402(b)(3), struck out ", for the purpose of applying the provisions of section 101(b) with respect to employees' death benefits" after "health plans".
 
@@ -1284,7 +1280,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
 
-Amendment by Pub. L. 111–152 applicable to transactions entered into after Mar. 30, 2010, see section 1409(e)(1) of Pub. L. 111–152, set out as a note under section 6662 of this title.
+Amendment by Pub. L. 111–152 applicable to transactions entered into after Mar. 30, 2010, see section1409(e)(1) of Pub. L. 111–152, set out as a note under section 6662 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -1448,7 +1444,7 @@ Transitional rule for applying lawful residence test.—In the case of any indiv
 
 Amendment by section 412(b)(11) of Pub. L. 98–369 applicable with respect to taxable years beginning after Dec. 31, 1984, see section 414(a)(1) of Pub. L. 98–369, set out as a note under section 6654 of this title.
 
-Amendment by section 422(d)(3) of Pub. L. 98–369 applicable with respect to divorce or separation instruments executed after Dec. 31, 1984, or executed before Jan. 1, 1985, but modified on or after Jan. 1, 1985, with express provision for application of amendment to modification, see section 422(e)(1), (2) of Pub. L. 98–369, set out as a note under section 219 of this title.
+Amendment by section 422(d)(3) of Pub. L. 98–369 applicable with respect to divorce or separation instruments executed after Dec. 31, 1984, or executed before Jan. 1, 1985, but modified on or after Jan. 1, 1985, withexpress provision for application of amendment to modification, see section 422(e)(1), (2) of Pub. L. 98–369, set out as a note under section 219 of this title.
 
 Amendment by section 474(r)(29)(K) of Pub. L. 98–369 not applicable with respect to obligations issued before Jan. 1, 1984, see section 475(b) of Pub. L. 98–369, set out as a note under section 33 of this title.
 
@@ -1530,13 +1526,15 @@ Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 22(i) of Pub. L
 
 #### Savings Provision
 
+For provisions that nothing in amendment by section 401(b)(54), (55) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+
 For provisions that nothing in amendment by section 11812(b)(13) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
+Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
 
 #### Plan Amendments Not Required Until January 1, 1998
 
@@ -1582,13 +1580,5 @@ Corporation.—The term 'corporation' means a corporation which for at least 15 
 
 Effective Date.—The provisions of this section shall apply to taxable years ending after December 31, 1980."
 
-<i><sup>1</sup></i><i> See Amendment of Subsection (a)(17) note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be "a".</i>
-
-<i><sup>4</sup></i><i> So in original. The comma probably should not appear.</i>
-
-<i><sup>5</sup></i><i> So in original. Probably should be "Reconciliation".</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

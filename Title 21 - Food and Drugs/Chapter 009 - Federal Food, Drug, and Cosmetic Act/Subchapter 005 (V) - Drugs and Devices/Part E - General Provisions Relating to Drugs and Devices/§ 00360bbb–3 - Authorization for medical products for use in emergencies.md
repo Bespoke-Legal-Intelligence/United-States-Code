@@ -16,7 +16,7 @@
 
 #### (3) Relation to other uses
 
-&emsp;An emergency use authorized under paragraph (1) for a product is in addition to any other use that is authorized for the product under a section of this chapter or the Public Health Service Act \[42 U.S.C. 201 et seq.\] referred to in paragraph (2)(A).
+&emsp;An emergency use authorized under paragraph (1) for a product is in addition to any other use that is authorized for the product under a section of this chapter or the PublicHealth Service Act \[42 U.S.C. 201 et seq.\] referred to in paragraph (2)(A).
 
 #### (4) Definitions
 
@@ -66,7 +66,7 @@
 
 #### (3) Advance notice of termination
 
-&emsp;The Secretary shall provide advance notice that a declaration under this subsection willbe terminated. The period of advance notice shall be a period reasonably determined to provide—
+&emsp;The Secretary shall provide advance notice that a declaration under this subsection will be terminated. The period of advance notice shall be a period reasonably determined to provide—
 
 &emsp;&emsp;(A) in the case of an unapproved product, a sufficient period for disposition of the product, including the return of such product (except such quantities of product as are necessary to provide for continued use consistent with subsection (f)(2)) to the manufacturer (in the case of a manufacturer that chooses to have such product returned); and
 
@@ -344,7 +344,7 @@ Subsec. (g)(1). Pub. L. 113–5, §302(a)(6)(B), inserted at end "As part of suc
 
 &emsp;"(B) an unapproved use of an approved product for which an authorization was issued under this section."
 
-Subsec. (g)(2). Pub. L. 113–5, §302(a)(6)(C), amended par. (2) generally. Prior to amendment, text read as follows: "The Secretary may revoke an authorization under this section if the criteria under subsection (c) of this section for issuance of such authorization are no longer met or other circumstances make such revocation appropriate to protect the public health or safety."
+Subsec. (g)(2). Pub. L. 113–5, §302(a)(6)(C), amended par. (2) generally. Prior to amendment, text read as follows: "The Secretary may revoke an authorization under this section if the criteria under subsection (c) ofthis section for issuance of such authorization are no longer met or other circumstances make such revocation appropriate to protect the public health or safety."
 
 Subsec. (h)(1). Pub. L. 113–5, §302(a)(7), inserted at end "The Secretary shall make any revisions to an authorization under this section available on the Internet Web site of the Food and Drug Administration."
 

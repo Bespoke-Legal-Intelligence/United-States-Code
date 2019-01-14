@@ -24,7 +24,7 @@ The head of each agency that has recreational travel or tourism functions or com
 
 &emsp;&emsp;(E) to support national tourism goals;
 
-&emsp;&emsp;(F) to identify agency programs that could be used to support tourism capacity building and help sustain tourism infrastructure in Native American communities;
+&emsp;&emsp;(F) to identify agency programs that could be used to support tourism capacity buildingand help sustain tourism infrastructure in Native American communities;
 
 &emsp;&emsp;(G) to develop innovative visitor portals for parks, landmarks, heritage and cultural sites, and assets that showcase and respect the diversity of the indigenous peoples of the United States;
 

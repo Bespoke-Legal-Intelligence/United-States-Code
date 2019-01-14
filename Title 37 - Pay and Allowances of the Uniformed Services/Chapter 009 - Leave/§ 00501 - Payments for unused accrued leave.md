@@ -34,7 +34,7 @@
 
 (c) Unused accrued leave for which payment is made under subsection (b) is not considered as service for any purpose.
 
-(d)(1) Payments for unused accrued leave under subsections (b) and (g), in the case of a member who dies while on active duty or in the case of a member or former member who dies after retirement or discharge and before he receives that payment, shall be made in accordance with section 2771 of title 10. In the case of a member who dies while on active duty, payment for unused accrued leave under subsections\(b) and (g) shall be based upon the unused accrued leave the member carried forward into the leave year during which he died plus the unused leave that accrued to him during that leave year.
+(d)(1) Payments for unused accrued leave under subsections (b) and (g), in the case of a member who dies while on active duty or in the case of a member or former member who dies after retirement or discharge and before he receives that payment, shall be made in accordance with section 2771 of title 10. In the case of a member who dies while on active duty, payment for unused accrued leave under subsections (b) and (g) shall be based upon the unused accrued leave the member carried forward into the leave year during which he died plus the unused leave that accrued to him during that leave year.
 
 (2) The limitations in the second sentence of subsection (b)(3), subsection (f), and the second sentence of subsection (g) shall not apply with respect to a payment made under this subsection.
 

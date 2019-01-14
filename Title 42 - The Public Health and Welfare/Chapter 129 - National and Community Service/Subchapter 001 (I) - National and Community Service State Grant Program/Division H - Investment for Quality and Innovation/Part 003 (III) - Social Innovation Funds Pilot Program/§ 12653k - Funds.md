@@ -234,7 +234,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 &emsp;To be eligible to receive a subgrant from an eligible entity under this section, including receiving a payment for that subgrant each year, a community organization shall submit an application to an eligible entity that serves the specific local geographical area, or geographical areas, that the community organization proposes to serve, at such time, in such manner, and containing such information as the eligible entity may require, including—
 
-&emsp;&emsp;(A) a description of the initiative the community organization carries out and plans toreplicate or expand, or of the new initiative the community organization intends to support, using funds received from the eligible entity, and how the initiative relates to the issue areas in which the eligible entity has committed to work in the eligible entity's application, in accordance with subsection (g)(4)(A);
+&emsp;&emsp;(A) a description of the initiative the community organization carries out and plans to replicate or expand, or of the new initiative the community organization intends to support, using funds received from the eligible entity, and how the initiative relates to the issue areas in which the eligible entity has committed to work in the eligible entity's application, in accordance with subsection (g)(4)(A);
 
 &emsp;&emsp;(B) data on the measurable outcomes the community organization has improved, and information on the measurable outcomes the community organization seeks to improve by replicating or expanding a proven initiative or supporting a new initiative, which shall be among the measurable outcomes that the eligible entity identified in the eligible entity's application, in accordance with subsection (g)(4)(C);
 
@@ -326,7 +326,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### Prior Provisions
 
-A prior section 12653k, Pub. L. 101–610, title I, §195K, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2531, which set out other departments' responsibilities to the Corps, was renumbered section 162 of Pub. L. 101–610 and transferred to section 12622 of this title.
+A prior section 12653k, Pub. L. 101–610, title I, §195K, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct.23, 1992, 106 Stat. 2531, which set out other departments' responsibilities to the Corps, was renumbered section 162 of Pub. L. 101–610 and transferred to section 12622 of this title.
 
 Prior sections 12653l to 12653n were renumbered by section 104(b) of Pub. L. 103–82 and transferred as follows:
 

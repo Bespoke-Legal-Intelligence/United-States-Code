@@ -60,11 +60,11 @@ Pub. L. 105–393, title I, §101, Nov. 13, 1998, 112 Stat. 3597, provided that:
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–487, §101, Oct. 12, 1976, 90 Stat. 2331, provided that: "This Act \[enacting sections 3137, 3144, 3173, and 3246h of this title, amending this section and sections 3131, 3132, 3135, 3141, 3142, 3151a, 3152, 3153, 3161, 3171, 3172, 3188a, 3214, 3241, 3243, 3245, 3246a to 3246c, and 3246e to 3246g of this title, repealing section 3246d of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 3162 of this title\] may be cited as the 'Public Works and Economic Development Act Amendments of 1976'."
+Pub. L. 94–487, §101, Oct. 12, 1976, 90 Stat. 2331, provided that: "This Act \[enacting sections 3137, 3144, 3173, and 3246h of this title, amending this section and sections 3131, 3132, 3135, 3141, 3142, 3151a, 3152, 3153, 3161, 3171, 3172, 3188a, 3214, 3241, 3243, 3245, 3246a to 3246c, and 3246e to 3246g of this title, repealing section 3246d of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 3162 of this title\] may be cited as the'Public Works and Economic Development Act Amendments of 1976'."
 
 #### Short Title of 1975 Amendments
 
-Pub. L. 94–188, §1, Dec. 31, 1975, 89 Stat. 1079, provided: "That this Act \[enacting sections 3194 to 3196 of this title and sections 225 and 303 of the Appendix to former Title 40, Public Buildings, Property, and Works, amending sections 3181, 3182, 3188a and 3192 of this title, and sections 2, 101, 102, 105–107, 201, 202, 205, 207, 211, 214, 223,224, 302, 401 and 405 of the Appendix to former Title 40, repealing section 3134 of this title, and enacting provisions set out as notes under sections 3181 and 3183 of this title and sections 1, 2 and 201 of the Appendix of former Title 40\] may be cited as the 'Regional Development Act of 1975'."
+Pub. L. 94–188, §1, Dec. 31, 1975, 89 Stat. 1079, provided: "That this Act \[enacting sections 3194 to 3196 of this title and sections 225 and 303 of the Appendix to former Title 40, Public Buildings, Property, and Works, amending sections 3181, 3182, 3188a and 3192 of this title, and sections 2, 101, 102, 105–107, 201, 202, 205, 207, 211, 214, 223, 224, 302, 401 and 405 of the Appendix to former Title 40, repealing section 3134 of this title, and enacting provisions set out as notes under sections 3181 and 3183 of this title and sections 1, 2 and 201 of the Appendix of former Title 40\] may be cited as the 'Regional Development Act of 1975'."
 
 Pub. L. 94–188, title II, §201, Dec. 31, 1975, 89 Stat. 1087, provided that: "This title \[enacting sections 3194 to 3196 of this title, amending sections 3181, 3182, 3188a, and 3192 of this title, and enacting provisions set out as note under section 3183 of this title\] may be cited as the 'Regional Action Planning Commission Improvement Act of 1975'."
 
@@ -292,7 +292,7 @@ Review by Federal Cochairperson.—
 
 &emsp;"(1)
 
-In general.—Upon receiving a work plan under this section, the Secretary, acting through the Federal Cochairperson, shall publish the work plan in the Federal Register, with notice and an opportunity for public comment. The period for public review and comment shall be the 30-day period beginning on the date of publication of that notice.
+In general.—Upon receiving a work plan under this section, the Secretary, acting through the Federal Cochairperson, shall publish the work plan in the Federal Register, with notice and an opportunity for public comment. The period for public review andcomment shall be the 30-day period beginning on the date of publication of that notice.
 
 &emsp;"(2)
 
@@ -596,7 +596,7 @@ Pub. L. 101–161, title II, Nov. 21, 1989, 103 Stat. 969, extended date for sub
 
 #### Public Works Improvement
 
-Pub. L. 98–501, title I, Oct. 19, 1984, 98 Stat. 2320, known as the "Public Works Improvement Act of 1984",established the National Council on Public Works Improvement, to prepare and submit to the President and Congress reports in 1986, 1987, and 1988 on the state of the Nation's infrastructure. Pursuant to section 109 of Pub. L. 98–501, the Council ceased to exist on Apr. 15, 1988.
+Pub. L. 98–501, title I, Oct. 19, 1984, 98 Stat. 2320, known as the "Public Works Improvement Act of 1984", established the National Council on Public Works Improvement, to prepare and submit to the President and Congress reports in 1986, 1987, and 1988 on the state of the Nation's infrastructure. Pursuant to section 109 of Pub. L. 98–501, the Council ceased to exist on Apr. 15, 1988.
 
 #### White House Conference on Balanced National Growth and Economic Development
 
@@ -650,5 +650,5 @@ Sec. 4. <i>(a) "Agency" means an executive agency as defined in 5 U.S.C. 105.</i
 
 (b) The "Southwest Border" or "Southwest Border region" is defined as including the areas up to 150 miles north of the United States-Mexican border in the States of Arizona, New Mexico, Texas, and California.
 
-Sec. 5. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+Sec. 5. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceableat law by a party against the United States, its agencies, its officers, or any person.
 

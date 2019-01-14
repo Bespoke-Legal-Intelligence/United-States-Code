@@ -54,6 +54,10 @@ Historical and Revision Notes
 
 Pub. L. 109–155, title I, §101(a), Dec. 30, 2005, 119 Stat. 2897.
 
+#### Funding for Orion, Space Launch System, Exploration Ground Systems, and Mobile Launch Platforms
+
+Pub. L. 115–141, div. B, title III, Mar. 23, 2018, 132 Stat. 430, provided: "That acquisition of Orion crew vehicles, SLS launch vehicles, Exploration Ground Systems, mobile launch platforms, and their associated components may be funded incrementally in fiscal year 2018 and thereafter".
+
 #### Space Launch System, Orion, and Exploration Ground Systems
 
 Pub. L. 115–10, title IV, §421, Mar. 21, 2017, 131 Stat. 35, provided that:
@@ -90,7 +94,7 @@ Sense of Congress on Space Launch System, Orion, and Exploration Ground Systems.
 
 &emsp;"(4) the President's annual budget requests for the Space Launch System and Orion development, test, and operational phases should strive to accurately reflect the resource requirements of each of those phases;
 
-&emsp;"(5) the fully integrated Space Launch System, including an upper stage needed to go beyond low-Earth orbit, will safely enable human space exploration of the Moon, Mars, and beyond; and
+&emsp;"(5) the fully integrated Space Launch System, including an upper stage needed to go beyond low-Earthorbit, will safely enable human space exploration of the Moon, Mars, and beyond; and
 
 &emsp;"(6) the Administrator should budget for and undertake a robust ground test and uncrewed and crewed flight test and demonstration program for the Space Launch System and Orion in order to promote safety and reduce programmatic risk.
 
@@ -114,7 +118,7 @@ Contents.—The report shall detail—
 
 &emsp;&emsp;"(B) the expected date that Orion, integrated with a vehicle other than the Space Launch System, could be available to transport crew and cargo to the ISS;
 
-&emsp;&emsp;"(C) any impacts to the deep space exploration missions under subsection (f) of this section due toenabling Orion to meet the minimum capability requirements described in section 303(b)(3) of that Act (42 U.S.C. 18323(b)(3)) and conducting the mission described in subparagraph (B) of this paragraph; and
+&emsp;&emsp;"(C) any impacts to the deep space exploration missions under subsection (f) of this section due to enabling Orion to meet the minimum capability requirements described in section 303(b)(3) of that Act (42 U.S.C. 18323(b)(3)) and conducting the mission described in subparagraph (B) of this paragraph; and
 
 &emsp;&emsp;"(D) the overall cost and schedule impacts associated with enabling Orion to meet the minimum capability requirements described in section 303(b)(3) of that Act (42 U.S.C. 18323(b)(3)) and conducting the mission described in subparagraph (B) of this paragraph.
 
@@ -334,7 +338,7 @@ In general.—The Administrator shall—
 
 &emsp;&emsp;"(B) ensure that the results \[of\] the projects, programs, and activities under subparagraph (A) are shared and leveraged within the Administration; and
 
-&emsp;&emsp;"(C) ensure that the organizational responsibility for research and development activities in support of human space exploration not initiated as of the date of enactment of this Act \[Mar. 21, 2017\] is established on the basis of a sound rationale.
+&emsp;&emsp;"(C) ensure that the organizational responsibility for research and development activities in support of human space exploration not initiated as of thedate of enactment of this Act \[Mar. 21, 2017\] is established on the basis of a sound rationale.
 
 &emsp;"(2)
 

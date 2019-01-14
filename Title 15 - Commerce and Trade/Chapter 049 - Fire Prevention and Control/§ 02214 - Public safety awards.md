@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 107–12, §8(3), (4), redesignated subsec. (e) as (c) and 
 
 > Former subsec. (c) was struck out.
 
-Pub. L. 107–12, §8(3), struck out heading and text of subsec. (c). Text read as follows: "The Director and the Attorney General shall advise and assist the President in the selection of individuals to whom the President's Award shall be tendered and in the course of performing such duties they shall seek and review nominations for such awards which are submitted to them by Federal, State, county, and local government officials. They shall annually transmit to the President thenames of those individuals determined by them to merit the award, together with the reasons therefor. Recipients of the President's Award shall be selected by the President."
+Pub. L. 107–12, §8(3), struck out heading and text of subsec. (c). Text read as follows: "The Director and the Attorney General shall advise and assist the President in the selection of individuals to whom the President's Award shall be tendered and in the course of performing such duties they shall seek and review nominations for such awards which are submitted to them by Federal, State, county, and local government officials. They shall annually transmit to the President the names of those individuals determined by them to merit the award, together with the reasons therefor. Recipients of the President's Award shall be selected by the President."
 
 Subsec. (d). Pub. L. 107–12, §8(3), redesignated subsec. (f) as (d) and struck out heading and text of former subsec. (d). Text read as follows:
 

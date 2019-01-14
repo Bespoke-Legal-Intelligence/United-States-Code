@@ -4,57 +4,21 @@
 
 There is established in the Executive Office of the President an Office of National Drug Control Policy, which shall—
 
-&emsp;(1) develop national drug control policy;
+&emsp;(1) lead the national drug control effort, including coordinating with the National Drug Control Program Agencies;
 
-&emsp;(2) coordinate and oversee the implementation of the national drug control policy;
+&emsp;(2) coordinate and oversee the implementation of the national drug control policy, including the National Drug Control Strategy;
 
-&emsp;(3) assess and certify the adequacy of National Drug Control Programs and the budget for those programs; and
+&emsp;(3) assess and certify the adequacy of National Drug Control Programs and the budget for those programs;
 
-&emsp;(4) evaluate the effectiveness of the national drug control policy and the National Drug Control Program agencies' programs, by developing and applying specific goals and performance measurements.
+&emsp;(4) evaluate the effectiveness of national drug control policy efforts, including the National Drug Control Program Agencies' program, <sup>1</sup> by developing and applying specific goals and performance measurements and monitoring the agencies' program-level spending;
 
-> When developing the national drug control policy, any policy of the Director relating to syringe exchange programs for intravenous drug users shall be based on the best available medical and scientific evidence regarding their effectiveness in promoting individual health and preventing the spread of infectious disease, and their impact on drug addiction and use. In making any policy relating to syringe exchange programs, the Director shall consult with the National Institutes of Health and the National Academy of Sciences.
+&emsp;(5) identify and respond to emerging drug threats related to illicit drug use;
 
-#### (b) Director of National Drug Control Policy and Deputy Directors
+&emsp;(6) administer the Drug-Free Communities Program, the High-Intensity <sup>2</sup> Drug Trafficking Areas Program, and other grant programs directly authorized to be administered by the Office in furtherance of the National Drug Control Strategy; and
 
-#### (1) Director
+&emsp;(7) facilitate broad-scale information sharing and data standardization among Federal, State, and local entities to support the national drug control efforts.
 
-&emsp;There shall be a Director of National Drug Control Policy who shall head the Office (referred to in this chapter as the "Director") and shall hold the same rank and status as the head of an executive department listed in section 101 of title 5.
-
-#### (2) Deputy Director
-
-&emsp;There shall be a Deputy Director of National Drug Control Policy who shall report directly to the Director (referred to in this chapter as the "Deputy Director").
-
-#### (3) Other Deputy Directors
-
-#### (A) In general
-
-&emsp;&emsp;There shall be a Deputy Director for Demand Reduction, a Deputy Director for Supply Reduction, and a Deputy Director for State, Local, and Tribal Affairs.
-
-#### (B) Reporting
-
-&emsp;&emsp;The Deputy Director for Demand Reduction, the Deputy Director for Supply Reduction, and the Deputy Director for State, Local, and Tribal Affairs shall report directly to the Deputy Director of the Office of National Drug Control Policy.
-
-#### (C) Deputy Director for Demand Reduction
-
-&emsp;&emsp;The Deputy Director for Demand Reduction shall be responsible for the activities in subparagraphs (A) through (H) of section 1701(1) <sup>1</sup> of this title.
-
-#### (D) Deputy Director for Supply Reduction
-
-&emsp;&emsp;The Deputy Director for Supply Reduction shall—
-
-&emsp;&emsp;&emsp;(i) have substantial experience and expertise in drug interdiction and other supply reduction activities; and
-
-&emsp;&emsp;&emsp;(ii) be responsible for the activities in subparagraphs (A) through (C) in section 1701(11) of this title.
-
-#### (E) Deputy Director for State, Local, and Tribal Affairs
-
-&emsp;&emsp;The Deputy Director for State, Local, and Tribal Affairs shall be responsible for the activities—
-
-&emsp;&emsp;&emsp;(i) in subparagraphs (A) through (D) of section 1701(10) of this title;
-
-&emsp;&emsp;&emsp;(ii) in section 1706 of this title, the High Intensity Drug Trafficking Areas Program; and
-
-&emsp;&emsp;&emsp;(iii) in section 1707 of this title, the Counterdrug Technology Assessment Center.
+#### (b) Repealed. Pub. L. 115–271, title VIII, §8222(1), Oct. 24, 2018, 132 Stat. 4142
 
 #### (c) Access by Congress
 
@@ -78,31 +42,67 @@ The location of the Office in the Executive Office of the President shall not be
 
 &emsp;Amounts deposited in the Fund are authorized to be appropriated, to remain available until expended for authorized purposes at the discretion of the Director.
 
-(Pub. L. 105–277, div. C, title VII, §703, Oct. 21, 1998, 112 Stat. 2681–672; Pub. L. 109–469, title I, §102, title XI, §1120, Dec. 29, 2006, 120 Stat. 3505, 3548.)
+#### (4) Ethics guidelines
 
-#### Repeal of Section
+&emsp;The Director shall establish written guidelines setting forth the criteria to be used in determining whether a gift or donation should be declined under this subsection because the acceptance of the gift or donation would—
 
-<i>For repeal of section on Sept. 30, 2010, see section 1712 of this title.</i>
+&emsp;&emsp;(A) reflect unfavorably upon the ability of the Director or the Office, or any employee of the Office, to carry out responsibilities or official duties under this chapter <sup>3</sup> in a fair and objective manner; or
+
+&emsp;&emsp;(B) compromise the integrity or the appearance of integrity of programs or services provided under this chapter <sup>3</sup> or of any official involved in those programs or services.
+
+#### (5) Registry of gifts
+
+&emsp;The Director shall maintain a list of—
+
+&emsp;&emsp;(A) the source and amount of each gift or donation accepted by the Office; and
+
+&emsp;&emsp;(B) the source and amount of each gift or donation accepted by a contractor to be used in its performance of a contract for the Office.
+
+#### (6) Report to Congress
+
+&emsp;The Director shall include in the annual assessment under section 1705(g) of this title a copy of the registry maintained under paragraph (5).
+
+(Pub. L. 105–277, div. C, title VII, §§703, 715, Oct. 21, 1998, 112 Stat. 2681–672, 2681–693; Pub. L. 109–469, title I, §102, title VI, §602, title XI, §1120, Dec. 29, 2006, 120 Stat. 3505, 3533, 3548; Pub. L. 115–271, title VIII, §§8202(a), (b)(2), 8217(a), (b), 8222(1), Oct. 24, 2018, 132 Stat. 4110, 4119, 4142.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1), (2), was in the original "this Act" and was translated as reading "this title", meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
-
-Section 1701(1) of this title, referred to in subsec. (b)(3)(C), was in the original "section 702(l)", and was translated as reading "section 702(1)", meaning section 702(1) of Pub. L. 105–277, to reflect the probable intent of Congress, because section 702 of Pub. L. 105–277 does not contain a subsec. (l).
+This chapter, referred to in subsec. (d)(4), was so in the original, but probably should have been a reference to "this title", meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–469, §1120, inserted concluding provisions.
+<b>2018</b>—Pub. L. 115–271, §8202(b)(2), repealed Pub. L. 105–277, §715. See 1998 Amendment note below.
+
+Pub. L. 115–271, §8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
+
+Subsec. (a). Pub. L. 115–271, §8217(a)(4), struck out concluding provisions which read as follows: "When developing the national drug control policy, any policy of the Director relating to syringe exchange programs for intravenous drug users shall be based on the best available medical and scientific evidence regarding their effectiveness in promoting individual health and preventing the spread of infectious disease, and their impact on drug addiction and use. In making any policy relating to syringe exchange programs, the Director shall consult with the National Institutes of Health and the National Academy of Sciences."
+
+Subsec. (a)(1). Pub. L. 115–271, §8217(a)(1), added par. (1) and struck out former par. (1) which read as follows: "develop national drug control policy;".
+
+Subsec. (a)(2). Pub. L. 115–271, §8217(a)(2), inserted before semicolon at end ", including the National Drug Control Strategy".
+
+Subsec. (a)(4) to (7). Pub. L. 115–271, §8217(a)(3), (4), added pars. (4) to (7) and struck out former par. (4) which read as follows: "evaluate the effectiveness of the national drug control policy and the National Drug Control Program agencies' programs, by developing and applying specific goals and performance measurements."
+
+Subsec. (b). Pub. L. 115–271, §8222(1), struck out subsec. (b) which related to Director of National Drug Control Policy and Deputy Directors.
+
+Subsec. (d)(4) to (6). Pub. L. 115–271, §8217(b), added pars. (4) to (6).
+
+<b>2006</b>—Pub. L. 109–469, §602, amended Pub. L. 105–277, §715, which provided for the repeal of this section. See 1998 Amendment note below.
+
+Subsec. (a). Pub. L. 109–469, §1120, inserted concluding provisions.
 
 Pub. L. 109–469, §102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to establishment of Office of National Drug Control Policy.
 
 Subsec. (b). Pub. L. 109–469, §102(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to Director and Deputy Directors of National Drug Control Policy.
 
+<b>1998</b>—Pub. L. 105–277, §715, as amended by Pub. L. 109–469, §602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, §8202(b)(2). See former section 1712 of this title.
+
 #### Gifts to Office of National Drug Control Policy
 
-Pub. L. 115–31, div. E, title II, May 5, 2017, 131 Stat. 340, provided in part: "That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office."
+Pub. L. 115–141, div. E, title II, Mar. 23, 2018, 132 Stat. 549, provided in part: "That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–31, div. E, title II, May 5, 2017, 131 Stat. 340.
 
 Pub. L. 114–113, div. E, title II, Dec. 18, 2015, 129 Stat. 2436.
 
@@ -170,5 +170,9 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 [Image not captured: t211702.gif]
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "programs,".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "High Intensity".</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

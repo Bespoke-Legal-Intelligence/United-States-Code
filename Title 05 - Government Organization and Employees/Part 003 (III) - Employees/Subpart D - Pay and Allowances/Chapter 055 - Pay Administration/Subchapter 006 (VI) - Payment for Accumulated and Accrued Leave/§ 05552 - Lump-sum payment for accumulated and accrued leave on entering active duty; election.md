@@ -24,7 +24,7 @@ Aug. 1, 1941, ch. 348, 55 Stat. 616.
 
 Apr. 7, 1942, ch. 220, 56 Stat. 200.
 
-The words "An employee as defined by section 2105 of this title" are coextensive with and substituted for "Employees of the United States Government, . . . (including employees of any corporation created under authority of an Act of Congress which is either wholly controlled or wholly owned by the United States Government, or any corporation, all the stock of which is owned or controlled by the United States Government, or any department, agency, or establishment thereof, whether or not the employees thereof are paid from funds appropriated by Congress)".
+The words "An employee as defined by section 2105 of this title" are coextensive with and substituted for"Employees of the United States Government, . . . (including employees of any corporation created under authority of an Act of Congress which is either wholly controlled or wholly owned by the United States Government, or any corporation, all the stock of which is owned or controlled by the United States Government, or any department, agency, or establishment thereof, whether or not the employees thereof are paid from funds appropriated by Congress)".
 
 The words "subsequent to May 1, 1940" are omitted as obsolete. The words "active duty in the armed forces" and "active duty" are substituted for "active military or naval service in the land or naval forces of the United States" and "active military or naval service", respectively, on authority of the National Security Act of 1947, 61 Stat. 495, as amended. The words "by voluntary enlistment or otherwise" are omitted as unnecessary.
 

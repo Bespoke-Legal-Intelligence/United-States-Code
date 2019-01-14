@@ -112,7 +112,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (B) Levels of performance for additional indicators
 
-&emsp;&emsp;Each eligible agency shall identify in the State plan State levels of performance for each of the additional indicators of performance described in paragraph (2)(C). Such levels shall be considered to be the State levels of performance for purposes of this subchapter.
+&emsp;&emsp;Each eligible agency shall identify in the State plan State levels of performance foreach of the additional indicators of performance described in paragraph (2)(C). Such levels shall be considered to be the State levels of performance for purposes of this subchapter.
 
 #### (4) Local levels of performance
 
@@ -170,11 +170,11 @@ The purpose of this section is to establish and support State and local performa
 
 #### (iii) Nonduplication
 
-&emsp;&emsp;&emsp;The eligible agency shall ensure, in a manner that is consistent with the actions of the Secretary under subsection (c)(3), that each eligible recipient does not report duplicative information under this section.
+&emsp;&emsp;&emsp;The eligible agency shall ensure, in a manner that is consistent with the actionsof the Secretary under subsection (c)(3), that each eligible recipient does not report duplicative information under this section.
 
 #### (iv) Rules for reporting of data
 
-&emsp;&emsp;&emsp;The disaggregation of data under clause (ii) shall not be required when the number of students in a category is insufficient to yield statistically reliable information or when the results would reveal personallyidentifiable information about an individual student.
+&emsp;&emsp;&emsp;The disaggregation of data under clause (ii) shall not be required when the number of students in a category is insufficient to yield statistically reliable information or when the results would reveal personally identifiable information about an individual student.
 
 #### (v) Availability
 
@@ -216,7 +216,263 @@ The purpose of this section is to establish and support State and local performa
 
 &emsp;&emsp;(C) shall provide the appropriate committees of Congress with copies of such reports.
 
-(Pub. L. 88–210, title I, §113, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 696; amended Pub. L. 114–95, title IX, §9215(n)(3), Dec. 10, 2015, 129 Stat. 2169.)
+(Pub. L. 88–210, title I, §113, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 696; amended Pub. L. 114–95, title IX, §9215(n)(3), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, §112, July 31, 2018, 132 Stat. 1579.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–224, §4, title I, §112, July 31, 2018, 132 Stat. 1564, 1579, made amendments to this section, effective July 1, 2019. After July 1, 2019, this section will read as follows:</i>
+
+#### <i>§2323. Accountability</i>
+
+#### <i>(a) Purpose</i>
+
+<i>The purpose of this section is to establish and support State and local performance accountability systems, comprised of the activities described in this section, to assess the effectiveness of the State and the eligible recipients of the State in achieving statewide progress in career and technical education, and to optimize the return of investment of Federal funds in career and technical education activities.</i>
+
+#### <i>(b) State determined performance measures</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>Each eligible agency, with input from eligible recipients, shall establish State determined performance measures for a State that consist of—</i>
+
+&emsp;&emsp;<i>(A) the core indicators of performance described in subparagraphs (A) and (B) of paragraph (2); and</i>
+
+&emsp;&emsp;<i>(B) a State determined level of performance described in paragraph (3)(A) for each core indicator of performance.</i>
+
+#### <i>(2) Indicators of performance</i>
+
+#### <i>(A) Core indicators of performance for CTE concentrators at the secondary level</i>
+
+&emsp;&emsp;<i>Each eligible agency shall identify in the State plan core indicators of performance for CTE concentrators at the secondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:</i>
+
+&emsp;&emsp;&emsp;<i>(i) The percentage of CTE concentrators who graduate high school, as measured by—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) the four-year adjusted cohort graduation rate (defined in section 7801 of this title); and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) at the State's discretion, the extended-year adjusted cohort graduation rate defined in such section 7801.</i>
+
+&emsp;&emsp;&emsp;<i>(ii) CTE concentrator proficiency in the challenging State academic standards adopted by the State under section 6311(b)(1) of this title, as measured by the academic assessments described in section 6311(b)(2) of this title.</i>
+
+&emsp;&emsp;&emsp;<i>(iii) The percentage of CTE concentrators who, in the second quarter after exiting from secondary education, are in postsecondary education or advanced training, military service or a service program that receives assistance under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.), are volunteers as described in section 2504(a) of title 22, or are employed.</i>
+
+&emsp;&emsp;&emsp;<i>(iv) Indicators of career and technical education program quality as follows:</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) That shall include at least 1 of the following:</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) The percentage of CTE concentrators graduating from high school having attained a recognized postsecondary credential.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) The percentage of CTE concentrators graduating from high school having attained postsecondary credits in the relevant career and technical education program or program of study earned through a dual or concurrent enrollment program or another credit transfer agreement.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(cc) The percentage of CTE concentrators graduating from high school having participated in work-based learning.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) That may include any other measure of student success in career and technical education that is statewide, valid, and reliable, and comparable across the State.</i>
+
+&emsp;&emsp;&emsp;<i>(v) The percentage of CTE concentrators in career and technical education programs and programs of study that lead to non-traditional fields.</i>
+
+#### <i>(B) Core indicators of performance for CTE concentrators at the postsecondary level</i>
+
+&emsp;&emsp;<i>Each eligible agency shall identify in the State plan core indicators of performance for CTE concentrators at the postsecondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:</i>
+
+&emsp;&emsp;&emsp;<i>(i) The percentage of CTE concentrators who, during the second quarter after program completion, remain enrolled in postsecondary education, are in advanced training, military service, or a service program that receives assistance under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.), are volunteers as described in section 2504(a) of title 22, or are placed or retained in employment.</i>
+
+&emsp;&emsp;&emsp;<i>(ii) The percentage of CTE concentrators who receive a recognized postsecondary credential during participation in or within 1 year of program completion.</i>
+
+&emsp;&emsp;&emsp;<i>(iii) The percentage of CTE concentrators in career and technical education programs and programs of study that lead to non-traditional fields.</i>
+
+#### <i>(C) Alignment of performance indicators</i>
+
+&emsp;&emsp;<i>In developing core indicators of performance under subparagraphs (A) and (B), an eligible agency shall, to the greatest extent possible, align the indicators so that substantially similar information gathered for other State and Federal programs, or for any other purpose, may be used to meet the requirements of this section.</i>
+
+#### <i>(3) State determined levels of performance</i>
+
+#### <i>(A) State determined levels of performance for core indicators of performance</i>
+
+#### <i>(i) In general</i>
+
+#### <i>(I) Levels determined by the eligible agency</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>Each eligible agency, with input from eligible recipients, shall establish in the State plan submitted under section 2342 of this title, for each year covered by the State plan, State determined levels of performance for each of the core indicators described under subparagraphs (A) and (B) of paragraph (2) for career and technical education activities authorized under this subchapter. The level of performance for a core indicator shall be the same for all CTE concentrators in the State.</i>
+
+#### <i>(II) Technical assistance</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>The Secretary may assist an eligible agency in establishing the State determined levels of performance under this subparagraph only at the request of that eligible agency.</i>
+
+#### <i>(III) Requirements</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>Such State determined levels of performance shall, at a minimum—</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) be expressed in a percentage or numerical form, so as to be objective, quantifiable, and measurable;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) require the State to continually make meaningful progress toward improving the performance of all career and technical education students, including the subgroups of students described in section 6311(h)(1)(C)(ii) of this title, and special populations, as described in section 2302(48) of this title; and</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(cc) have been subject to the public comment process described in subparagraph (B), and the eligible agency has provided a written response;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(dd) when being adjusted pursuant to clause (ii), take into account how the levels of performance involved compare with the State levels of performance established for other States, considering factors including the characteristics of actual (as opposed to anticipated) CTE concentrators when the CTE concentrators entered the program, and the services or instruction to be provided;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(ee) when being adjusted pursuant to clause (ii), be higher than the average actual performance of the 2 most recently completed program years, except in the case of unanticipated circumstances that require revisions in accordance with clause (iii); and</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(ff) take into account the extent to which the State determined levels of performance advance the eligible agency's goals, as set forth in the State plan.</i>
+
+#### <i>(ii) Allowable adjustment of State determined levels of performance for subsequent years</i>
+
+&emsp;&emsp;&emsp;<i>Prior to the third program year covered by the State plan, each eligible agency may revise the State determined levels of performance for any of the core indicators of performance for the subsequent program years covered by the State plan, and submit the revised State determined levels of performance to the Secretary. If the eligible agency adjusts any levels of performance, the eligible agency shall adjust those levels in accordance with clause (i), and address written comments of stakeholders as described in subparagraph (B). The Secretary shall approve those revised levels of performance if those levels meet the</i><i>requirements described in subclause (III) of clause (i). The State determined adjusted levels of performance identified under this clause shall be considered to be the State determined levels of performance for the State for such years and shall be incorporated into the State plan.</i>
+
+#### <i>(iii) Unanticipated circumstances</i>
+
+&emsp;&emsp;&emsp;<i>If unanticipated circumstances arise in a State or changes occur related to improvements in data or measurement approaches, the eligible agency, at the end of the program year, may revise the State determined levels of performance required under this subparagraph. After public comment, as described in subparagraph (B), the eligible agency shall submit such revised levels of performance to the Secretary with evidence supporting the revision. The Secretary shall approve any such revision if that revision meets the requirements of clause (ii).</i>
+
+#### <i>(B) Public comment</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>Each eligible agency shall develop the levels of performance under subparagraph (A) in consultation with the stakeholders identified in section 2342(c)(1)(A) of this title.</i>
+
+#### <i>(ii) Written comments</i>
+
+&emsp;&emsp;&emsp;<i>Not less than 60 days prior to submission of the State plan, the eligible agency shall provide such stakeholders with the opportunity to provide written comments to the eligible agency, which shall be included in the State plan, regarding how the levels of performance described under subparagraph (A)—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) meet the requirements of the law;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) support the improvement of performance of all CTE concentrators, including subgroups of students, as described in section 6311(h)(1)(C)(ii) of this title, and special populations, as described in section 2302(48) of this title; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) support the needs of the local education and business community.</i>
+
+#### <i>(iii) Eligible agency response</i>
+
+&emsp;&emsp;&emsp;<i>Each eligible agency shall provide, in the State plan, a written response to the comments provided by stakeholders under clause (ii).</i>
+
+#### <i>(C) State report</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>Each eligible agency that receives an allotment under section 2321 of this title shall annually prepare and submit to the Secretary a report regarding—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) the progress of the State in achieving the State determined levels of performance on the core indicators of performance; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) the actual levels of performance for all CTE concentrators, and for each of the subgroups of students, as described in section 6311(h)(1)(C)(ii) of this title, and special populations, as described in section 2302(48) of this title.</i>
+
+#### <i>(ii) Data</i>
+
+&emsp;&emsp;&emsp;<i>Except as provided in subparagraph (E), each eligible agency that receives an allotment under section 2321 of this title shall—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) disaggregate data for each of the indicators of performance under paragraph (2)—</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) for subgroups of students, as described in section 6311(h)(1)(C)(ii) of this title, and special populations, as described in section 2302(48) of this title, that are served under this chapter; and</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) by the career and technical education programs or programs of study of the CTE concentrators, except that in a case in which reporting by such program or program of study is impractical, the data may be disaggregated by the career clusters of the CTE concentrators, if appropriate;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) identify and quantify any disparities or gaps in performance on the State determined levels of performance under subparagraph (A) between any such subgroup or special population and the performance of all CTE concentrators served by the eligible agency under this chapter, which shall include a quantifiable description of the progress each such subgroup or special population of students served by the eligible agency under this chapter has made in meeting the State determined levels of performance; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) for CTE concentrators described in paragraph (2)(A)(iii) and paragraph (2)(B)(i), disaggregate data, to the extent such data is available, by each of the following:</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) Individuals enrolled in postsecondary education (disaggregated by postsecondary award level, including certificate, associate, or baccalaureate degree).</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) Individuals in advanced training.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(cc) Individuals in military service or a service program that receives assistance under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.) or volunteers as described in section 2504(a) of title 22.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(dd) Individuals in employment (including those individuals who are employed in a high-skill, high-wage, or in-demand sector or occupation).</i>
+
+#### <i>(iii) Nonduplication</i>
+
+&emsp;&emsp;&emsp;<i>The Secretary shall ensure that each eligible agency does not report duplicative information under this section.</i>
+
+#### <i>(iv) Information dissemination</i>
+
+&emsp;&emsp;&emsp;<i>The Secretary shall—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) make the information contained in such reports available to the general public through a variety of formats, including electronically through the Internet;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) disseminate State-by-State comparisons of the information contained in such reports; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) provide the appropriate committees of Congress with copies of such reports.</i>
+
+#### <i>(D) State dissemination of actual levels of performance</i>
+
+&emsp;&emsp;<i>At the end of each program year, the eligible agency shall disseminate the actual levels of performance described in subparagraph (C)(i)(II)—</i>
+
+&emsp;&emsp;&emsp;<i>(i) widely, including to students, parents, and educators;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) through a variety of formats, including electronically through the Internet; and</i>
+
+&emsp;&emsp;&emsp;<i>(iii) in user-friendly formats and languages that are easily accessible, as determined by the eligible agency.</i>
+
+#### <i>(E) Rules for reporting data</i>
+
+&emsp;&emsp;<i>The disaggregation of data under this paragraph shall not be required when the number of students in a category is insufficient to yield statistically reliable information or when the results would reveal personally identifiable information about an individual student.</i>
+
+#### <i>(4) Local levels of performance</i>
+
+#### <i>(A) Local levels of performance for core indicators of performance</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>Each eligible recipient shall agree to accept the State determined levels of performance for each year of the plan established under paragraph (3) as local levels of performances, or negotiate with the State to reach agreement on new local levels of performance, for each of the core indicators of performance described in subparagraphs (A) and (B) of paragraph (2) for career and technical education activities authorized under this subchapter. The levels of performance established under this subparagraph shall, at a minimum—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) be expressed in a percentage or numerical form, consistent with the form expressed in the State determined levels, so as to be objective, quantifiable, and measurable;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) require the eligible recipient to continually make meaningful progress toward improving the performance of all CTE concentrators, including subgroups of students described in section 6311(h)(1)(C)(ii) of this title and special populations, as described in section 2302(48) of this title;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) when being adjusted as described in clause (iii), be higher than the average actual performance levels of the previous 2 program years, except in a case in which unanticipated circumstances arise with respect to the eligible recipient and that eligible recipient meets the requirements for revisions under clause (iv);</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IV) when being adjusted as described in clause (iii), take into account how the local levels of performance compare with the local levels of performance established for other eligible recipients, considering factors including the characteristics of actual (as opposed to anticipated) CTE concentrators at the time those CTE concentrators entered the program, and the services or instruction to be provided; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(V) set the local levels of performance using valid and reliable data that measures—</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) the differences within the State in actual economic conditions (including differences in unemployment rates and job losses or gains in particular industries); and</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) the abilities of the State and the eligible recipient to collect and access valid, reliable, and cost-effective data.</i>
+
+#### <i>(ii) Identification in the local application</i>
+
+&emsp;&emsp;&emsp;<i>Each eligible recipient shall identify, in the local application submitted under section 2354 of this title, levels of performance for each of the core indicators of performance for each of the program years covered by the local application.</i>
+
+#### <i>(iii) Allowable adjustments of local levels of performance for subsequent years</i>
+
+&emsp;&emsp;&emsp;<i>Prior to the third program year covered by the local application, the eligible recipient may, if the eligible recipient reaches an agreement with the eligible agency, adjust the local levels of performance for any of the core indicators of performance for the subsequent program years covered by the local application, in accordance with that agreement and with this subparagraph. The local adjusted levels of performance agreed to under this clause shall be considered to be the local levels of performance for the eligible recipient for such years and shall be incorporated into the local application.</i>
+
+#### <i>(v) \[sic\] Revisions</i>
+
+&emsp;&emsp;&emsp;<i>If unanticipated circumstances arise, or changes occur related to improvements in data or measurement approaches, the eligible recipient may request that the local levels of performance agreed to under clauses (i) and (iii) be revised. The eligible agency shall issue objective criteria and methods for making such revisions.</i>
+
+#### <i>(B) Local report</i>
+
+#### <i>(i) Content of report</i>
+
+&emsp;&emsp;&emsp;<i>Each eligible recipient that receives an allocation described in section 2322 of this title shall annually prepare and submit to the eligible agency a report, which shall include the data on the actual performance levels described in clause (ii), including the progress of such recipient in achieving the local levels of performance on the core indicators of performance.</i>
+
+#### <i>(ii) Data</i>
+
+&emsp;&emsp;&emsp;<i>Except as provided in clauses (iii) and (iv), each eligible recipient that receives an allocation described in section 2322 of this title shall—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) disaggregate data for each of the indicators of performance under paragraph (2) for the subgroups of students described in section 6311(h)(1)(C)(ii) of this title and section 2302(48) of this title that are served under this chapter;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) identify and quantify any disparities or gaps in performance, as described in paragraph 3(C)(ii)(II), between any such category of students as described in subclause (I) (including special populations) and the performance of all CTE concentrators served by the eligible recipient under this chapter.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) disaggregate data by the career and technical education programs or programs of study of the CTE concentrators, except that in a case in which reporting by such program or program of study is impractical, the data may be disaggregated by the career</i><i>clusters of the CTE concentrators, if appropriate; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IV) for CTE concentrators described in paragraph (2)(A)(iii) and paragraph (2)(B)(i), disaggregate data, to the extent such data is available, by each of the following:</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) Individuals enrolled in postsecondary education (disaggregated by postsecondary award level, including certificate, associate, or baccalaureate degree).</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) Individuals in advanced training.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(cc) Individuals in military service or a service program that receives assistance under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.) or volunteers as described in section 2504(a) of title 22.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(dd) Individuals in employment (including those individuals who are employed in a high-skill, high-wage, or in-demand sector or occupation).</i>
+
+#### <i>(iii) Nonduplication</i>
+
+&emsp;&emsp;&emsp;<i>The eligible agency shall ensure, in a manner that is consistent with the actions of the Secretary under paragraph (3)(C)(iii), that each eligible recipient does not report duplicative information under this section.</i>
+
+#### <i>(iv) Rules for reporting of data</i>
+
+&emsp;&emsp;&emsp;<i>The disaggregation of data under this paragraph shall not be required when the number of students in a category is insufficient to yield statistically reliable information or when the results would reveal personally identifiable information about an individual student.</i>
+
+#### <i>(v) Availability</i>
+
+&emsp;&emsp;&emsp;<i>The report described in clause (i) shall be made available by the eligible recipient through a variety of formats, including electronically through the Internet, to students, parents, educators, and the public, and the information contained in such report shall be in a format that is understandable and uniform, and to the extent practicable, provided in a language that students, parents, and educators can understand.</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 #### References in Text
 
@@ -230,11 +486,73 @@ Another prior section 2323, Pub. L. 88–210, title I, §113, as added Pub. L. 9
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b). Pub. L. 115–224, §112(1)(A), inserted "determined" after "State" in heading.
+
+Subsec. (b)(1). Pub. L. 115–224, §112(1)(B)(i), inserted "State determined" before "performance" in introductory provisions.
+
+Subsec. (b)(1)(B), (C). Pub. L. 115–224, §112(1)(B)(ii)–(iv), redesignated subpar. (C) as (B), substituted "a State determined level of performance" for "a State adjusted level of performance" and struck out ", and State levels of performance described in paragraph (3)(B) for each additional indicator of performance" before period at end, and struck out former subpar. (B) which read as follows: "any additional indicators of performance (if any) identified by the eligible agency under paragraph (2)(C); and".
+
+Subsec. (b)(2). Pub. L. 115–224, §112(1)(C), added par. (2) and struck out former par. (2) which described various indicators of performance.
+
+Subsec. (b)(3). Pub. L. 115–224, §112(1)(D)(i), inserted "determined" after "State" in heading.
+
+Subsec. (b)(3)(A). Pub. L. 115–224, §112(1)(D)(ii), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to State adjusted levels of performance for core indicators of performance.
+
+Subsec. (b)(3)(B). Pub. L. 115–224, §112(1)(D)(iii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "Each eligible agency shall identify in the State plan State levels of performance for each of the additional indicators of performance described in paragraph (2)(C). Such levels shall be considered to be the State levels of performance for purposes of this subchapter."
+
+Subsec. (b)(3)(C) to (E). Pub. L. 115–224, §112(1)(D)(iv), added subpars. (C) to (E).
+
+Subsec. (b)(4)(A). Pub. L. 115–224, §112(1)(E)(i)(I), struck out "adjusted" before "levels of performance" in heading.
+
+Subsec. (b)(4)(A)(i). Pub. L. 115–224, §112(1)(E)(i)(III)(aa), in introductory provisions, substituted "State determined levels of performance for each year of the plan" for "State adjusted levels of performance" and substituted "local levels" for "local adjusted levels" in two places.
+
+Subsec. (b)(4)(A)(i)(I). Pub. L. 115–224, §112(1)(E)(i)(III)(bb), substituted "consistent with the form expressed in the State determined levels, so as" for "consistent with the State levels of performance established under paragraph (3), so as" and struck out "and" at end.
+
+Subsec. (b)(4)(A)(i)(II). Pub. L. 115–224, §112(1)(E)(i)(III)(cc), substituted "continually make meaningful progress toward improving the performance of all CTE concentrators, including subgroups of students described in section 6311(h)(1)(C)(ii) of this title and special populations, as described in section 2302(48) of this title;" for "continually make progress toward improving the performance of career and technical education students."
+
+Subsec. (b)(4)(A)(i)(III) to (V). Pub. L. 115–224, §112(1)(E)(i)(III)(dd), added subcls. (III) to (V).
+
+Subsec. (b)(4)(A)(ii). Pub. L. 115–224, §112(1)(E)(i)(IV)(aa), (cc), substituted "application" for "plan" in heading and "each of the" for "the first 2" in text.
+
+Pub. L. 115–224, §112(1)(E)(i)(IV)(bb), which directed substitution of "application" for "plan", was executed by making the substitution both places it appeared to reflect the probable intent of Congress.
+
+Subsec. (b)(4)(A)(iii). Pub. L. 115–224, §112(1)(E)(i)(V), amended cl. (iii) generally. Prior to amendment, text read as follows: "Prior to the third and fifth program years covered by the local plan, the eligible agency and each eligible recipient shall reach agreement on the local adjusted levels of performance for each of the core indicators of performance for the corresponding subsequent program years covered by the local plan, taking into account the factors described in clause (v). The local adjusted levels of performance agreed to under this clause shall be considered to be the local adjusted levels of performance for the eligible recipient for such years and shall be incorporated into the local plan."
+
+Pub. L. 115–224, §112(1)(E)(i)(II), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text of cl. (iii) read as follows: "The eligible agency and each eligible recipient shall reach agreement, as described in clause (i), on the eligible recipient's levels of performance for each of the core indicators of performance for the first 2 program years covered by the local plan, taking into account the levels identified in the local plan under clause (ii) and the factors described in clause (v). The levels of performance agreed to under this clause shall be considered to be the local adjusted levels of performance for the eligible recipient for such years and shall be incorporated into the local plan prior to the approval of such plan."
+
+Subsec. (b)(4)(A)(iv). Pub. L. 115–224, §112(1)(E)(i)(II), redesignated cl. (iv) as (iii).
+
+Subsec. (b)(4)(A)(v), (vi). Pub. L. 115–224, §112(1)(E)(i)(II), (VI), redesignated cl. (vi) as (v), substituted "If unanticipated circumstances arise, or changes occur related to improvements in data or measurement approaches, the eligible recipient may request that the local levels of performance agreed to under clauses (i) and (iii) be revised." for "If unanticipated circumstances arise with respect to an eligible recipient resulting in a significant change in the factors described in clause (v), the eligible recipient may request that the local adjusted levels of performance agreed to under clause (iii) or (iv) be revised.", and struck out former cl. (v) which set out factors the agreements in this subpar. were to take into account.
+
+Subsec. (b)(4)(B). Pub. L. 115–224, §112(1)(E)(ii), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "Each eligible recipient may identify, in the local plan, local levels of performance for any additional indicators of performance described in paragraph (2)(C). Such levels shall be considered to be the local levels of performance for purposes of this subchapter."
+
+Subsec. (b)(4)(B)(i). Pub. L. 115–224, §112(1)(E)(iii)(I), substituted "the data on the actual performance levels described in clause (ii), including the progress of such recipient in achieving the local levels of performance" for "the data described in clause (ii)(I), regarding the progress of such recipient in achieving the local adjusted levels of performance".
+
+Subsec. (b)(4)(B)(ii)(I). Pub. L. 115–224, §112(1)(E)(iii)(II)(aa), substituted "section 6311(h)(1)(C)(ii)" for "section 6311(h)(1)(C)(i)" and "section 2302(48)" for "section 2302(29)" and struck out "and" at end.
+
+Subsec. (b)(4)(B)(ii)(II). Pub. L. 115–224, §112(1)(E)(iii)(II)(bb)(AA)–(CC), inserted ", as described in paragraph 3(C)(ii)(II)," after "gaps in performance" and "as described in subclause (I) (including special populations)" after "category of students" and substituted "all CTE concentrators" for "all students".
+
+Subsec. (b)(4)(B)(ii)(III), (IV). Pub. L. 115–224, §112(1)(E)(iii)(II)(bb)(DD), added subcls. (III) and (IV).
+
+Subsec. (b)(4)(B)(iii). Pub. L. 115–224, §112(1)(E)(iii)(III), substituted "paragraph (3)(C)(iii)" for "subsection (c)(3)".
+
+Subsec. (b)(4)(B)(iv). Pub. L. 115–224, §112(1)(E)(iii)(IV), substituted "this paragraph" for "clause (ii)".
+
+Subsec. (b)(4)(B)(v). Pub. L. 115–224, §112(1)(E)(iii)(V), added cl. (v) and struck out former cl. (v). Prior to amendment, text read as follows: "The report described in clause (i) shall be made available to the public through a variety of formats, including electronically through the Internet."
+
+Subsec. (b)(4)(C). Pub. L. 115–224, §112(1)(E)(ii), redesignated subpar. (C) as (B).
+
+Subsec. (c). Pub. L. 115–224, §112(2), struck out subsec. (c) which related to annual reports from eligible agencies receiving allotments.
+
 <b>2015</b>—Subsec. (b)(2)(A)(i). Pub. L. 114–95, §9215(n)(3)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: "Student attainment of challenging academic content standards and student academic achievement standards, as adopted by a State in accordance with section 6311(b)(1) of this title and measured by the State determined proficient levels on the academic assessments described in section 6311(b)(3) of this title."
 
 Subsec. (b)(2)(A)(iv). Pub. L. 114–95, §9215(n)(3)(A)(ii), substituted "(as described in section 6311(c)(4)(A)(i)(I)(bb) of this title)" for "(as described in section 6311(b)(2)(C)(vi) of this title)".
 
 Subsec. (b)(4)(C)(ii)(I). Pub. L. 114–95, §9215(n)(3)(B), substituted "subgroups" for "categories".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
 #### Effective Date of 2015 Amendment
 

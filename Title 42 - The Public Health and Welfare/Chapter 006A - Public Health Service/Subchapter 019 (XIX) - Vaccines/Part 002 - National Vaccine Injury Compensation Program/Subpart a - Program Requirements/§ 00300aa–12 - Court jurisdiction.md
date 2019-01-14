@@ -24,7 +24,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 (4) The appointment of any individual as a special master shall be for a term of 4 years, subject to termination under paragraphs (2) and (3). Individuals serving as special masters on December 19, 1989, shall serve for 4 years from the date of their original appointment, subject to termination under paragraphs (2) and (3). The chief special master in office on December 19, 1989, shall continue to serve as chief special master for the balance of the master's term, subject to termination under paragraphs (2) and (3).
 
-(5) The compensation of the special masters shall be determined by the judges of the United States Court of Federal Claims, upon advice of the chief special master. The salary of the chief special master shall be the annual rate of basicpay for level IV of the Executive Schedule, as prescribed by section 5315, title 5. The salaries of the other special masters shall not exceed the annual rate of basic pay of level V of the Executive Schedule, as prescribed by section 5316, title 5.
+(5) The compensation of the special masters shall be determined by the judges of the United States Court of Federal Claims, upon advice of the chief special master. The salary of the chief special master shall be the annual rate of basic pay for level IV of the Executive Schedule, as prescribed by section 5315, title 5. The salaries of the other special masters shall not exceed the annual rate of basic pay of level V of the Executive Schedule, as prescribed by section 5316, title 5.
 
 (6) The chief special master shall be responsible for the following:
 
@@ -80,7 +80,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 > There may be no discovery in a proceeding on a petition other than the discovery required by the special master.
 
-(C) In conducting a proceeding on a petition a special master shall suspend the proceedings one time for 30 days on the motion of either party. After a motion for suspension is granted, further motions for suspension by either party may be granted by the special master, if the special master determines the suspension is reasonable and necessary, for an aggregate period not to exceed 150 days.
+(C) In conducting a proceeding on a petition a special master shall suspend the proceedings one time for 30 days on the motion of either party. After a motion for suspension is granted, further motions for suspension by either party may begranted by the special master, if the special master determines the suspension is reasonable and necessary, for an aggregate period not to exceed 150 days.
 
 (D) If, in reviewing proceedings on petitions for vaccine-related injuries or deaths associated with the administration of vaccines before October 1, 1988, the chief special master determines that the number of filings and resultant workload place an undue burden on the parties or the special master involved in such proceedings, the chief special master may, in the interest of justice, suspend proceedings on any petition for up to 30 months (but for not more than 6 months at a time) in addition to the suspension time under subparagraph (C).
 
@@ -220,7 +220,7 @@ Amendment by Pub. L. 101–502 effective Sept. 30, 1990, see section 5(h) of Pub
 
 #### Effective Date of 1989 Amendment
 
-For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, except that such suspension be excluded in determining the 240-day period prescribed in subsec. (d) of this section, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
+For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediatesuspension for 30 days of all pending cases, except that such suspension be excluded in determining the 240-day period prescribed in subsec. (d) of this section, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -228,7 +228,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (c)(6)(E) of this section relating to reporting annually to the Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (c)(6)(E) of this section relating to reporting annually to the Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Review by 3-Judge Panel
 

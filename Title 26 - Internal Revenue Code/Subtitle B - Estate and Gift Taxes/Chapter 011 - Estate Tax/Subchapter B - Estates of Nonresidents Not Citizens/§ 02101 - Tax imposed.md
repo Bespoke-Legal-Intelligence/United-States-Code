@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 100–647, §5032(c), struck out subsec. (d) which provided
 
 <b>1976</b>—Pub. L. 94–455 redesignated existing provisions as (a) to (d), inserted provisions for adjustments for taxable gifts, revised the tax rate schedule, and struck out provisions relating to property held by Alien Property Custodian.
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–809 substituted table to be used in computing the tax imposed on transfer of taxable estate, determined as provided in section 2106,of every decedent nonresident not a citizen of the United States for provisions sending taxpayer to table in section 2001 for computation of tax imposed.
+<b>1966</b>—Subsec. (a). Pub. L. 89–809 substituted table to be used in computing the tax imposed on transfer of taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States for provisions sending taxpayer to table in section 2001 for computation of tax imposed.
 
 #### Effective Date of 2002 Amendment
 

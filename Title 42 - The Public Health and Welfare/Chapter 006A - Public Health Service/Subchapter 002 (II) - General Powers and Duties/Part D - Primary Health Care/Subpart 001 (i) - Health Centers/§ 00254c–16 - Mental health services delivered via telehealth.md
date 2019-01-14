@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible entity
 
-&emsp;The term "eligible entity" means a public or nonprofit private telehealth provider network that offers services that include mental health services provided by qualified mental health providers.
+&emsp;The term "eligible entity" means a public or nonprofit private telehealth provider networkthat offers services that include mental health services provided by qualified mental health providers.
 
 #### (2) Qualified mental health professionals
 

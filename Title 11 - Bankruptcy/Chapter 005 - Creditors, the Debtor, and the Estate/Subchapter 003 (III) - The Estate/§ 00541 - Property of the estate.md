@@ -120,7 +120,7 @@
 
 &emsp;&emsp;&emsp;(ii) are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986); and
 
-&emsp;&emsp;(C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225.
+&emsp;&emsp;(C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225.<sup>2</sup>
 
 > Paragraph (4) shall not be construed to exclude from the estate any consideration the debtor retains, receives, or is entitled to receive for transferring an interest in liquid or gaseous hydrocarbons pursuant to a farmout agreement.
 
@@ -128,7 +128,7 @@
 
 &emsp;(A) that restricts or conditions transfer of such interest by the debtor; or
 
-&emsp;(B) that is conditioned on the insolvency or financial condition of the debtor, on the commencement of a case under this title, or on theappointment of or taking possession by a trustee in a case under this title or a custodian before such commencement, and that effects or gives an option to effect a forfeiture, modification, or termination of the debtor's interest in property.
+&emsp;(B) that is conditioned on the insolvency or financial condition of the debtor, on the commencement of a case under this title, or on the appointment of or taking possession by a trustee in a case under this title or a custodian before such commencement, and that effects or gives an option to effect a forfeiture, modification, or termination of the debtor's interest in property.
 
 (2) A restriction on the transfer of a beneficial interest of the debtor in a trust that is enforceable under applicable nonbankruptcy law is enforceable in a case under this title.
 
@@ -172,7 +172,7 @@ Paragraph (1) has the effect of overruling <i>Lockwood v. Exchange Bank</i>, 190
 
 Paragraph (1) also has the effect of overruling <i>Lines v. Frederick</i>, 400 U.S. 18 (1970).
 
-Situations occasionally arise where property ostensibly belonging to the debtor will actually not be property of the debtor, but will be held in trust for another. For example, if the debtor has incurred medical bills that were covered by insurance, and the insurance company had sent the payment of the bills to the debtor before the debtor had paid the bill for which the payment was reimbursement, the payment would actually be held in a constructive trust for the person to whom the bill was owed. This section and proposed 11 U.S.C. 545 also will not affect various statutory provisions that give a creditor of the debtor a lien that is valid outside as well as inside bankruptcy, or that creates a trust fund for the benefit of a creditor of the debtor. See Packers and Stockyards Act §206, 7 U.S.C. 196.
+Situations occasionally arise where property ostensibly belonging to the debtor will actually not be property of the debtor, but will be held in trust for another.For example, if the debtor has incurred medical bills that were covered by insurance, and the insurance company had sent the payment of the bills to the debtor before the debtor had paid the bill for which the payment was reimbursement, the payment would actually be held in a constructive trust for the person to whom the bill was owed. This section and proposed 11 U.S.C. 545 also will not affect various statutory provisions that give a creditor of the debtor a lien that is valid outside as well as inside bankruptcy, or that creates a trust fund for the benefit of a creditor of the debtor. See Packers and Stockyards Act §206, 7 U.S.C. 196.
 
 Bankruptcy Act §8 \[section 26 of former title 11\] has been deleted as unnecessary. Once the estate is created, no interests in property of the estate remain in the debtor. Consequently, if the debtor dies during the case, only property exempted from property of the estate or acquired by the debtor after the commencement of the case and not included as property of the estate will be available to the representative of the debtor's probate estate. The bankruptcy proceeding will continue in rem with respect to property of the state, and the discharge will apply in personam to relieve the debtor, and thus his probate representative, of liability for dischargeable debts.
 
@@ -182,7 +182,7 @@ Subsection (b) excludes from property of the estate any power, such as a power o
 
 Subsection (c) invalidates restrictions on the transfer of property of the debtor, in order that all of the interests of the debtor in property will become property of the estate. The provisions invalidated are those that restrict or condition transfer of the debtor's interest, and those that are conditioned on the insolvency or financial condition of the debtor, on the commencement of a bankruptcy case, or on the appointment of a custodian of the debtor's property. Paragraph (2) of subsection (c), however, preserves restrictions on a transfer of a spendthrift trust that the restriction is enforceable nonbankruptcy law to the extent of the income reasonably necessary for the support of a debtor and his dependents.
 
-Subsection (d) \[enacted as (e)\], derived from section 70c of the Bankruptcy Act \[section 110(c) of former title11\], gives the estate the benefit of all defenses available to the debtor as against an entity other than the estate, including such defenses as statutes of limitations, statutes of frauds, usury, and other personal defenses, and makes waiver by the debtor after the commencement of the case ineffective to bind the estate.
+Subsection (d) \[enacted as (e)\], derived from section 70c of the Bankruptcy Act \[section 110(c) of former title 11\], gives the estate the benefit of all defenses available to the debtor as against an entity other than the estate, including such defenses as statutes of limitations, statutes of frauds, usury, and other personal defenses, and makes waiver by the debtor after the commencement of the case ineffective to bind the estate.
 
 Section 541(e) \[enacted as (d)\] confirms the current status under the Bankruptcy Act \[former title 11\] of bona fide secondary mortgage market transactions as the purchase and sale of assets. Mortgages or interests in mortgages sold in the secondary market should not be considered as part of the debtor's estate. To permit the efficient servicing of mortgages or interests in mortgages the seller often retains the original mortgage notes and related documents, and the purchaser records under State recording statutes the purchaser's ownership of the mortgages or interests in mortgages purchased. Section 541(e) makes clear that the seller's retention of the mortgage documents and the purchaser's decision not to record do not impair the asset sale character of secondary mortgage market transactions. The committee notes that in secondary mortgage market transactions the parties may characterize their relationship as one of trust, agency, or independent contractor. The characterization adopted by the parties should not affect the statutes in bankruptcy on bona fide secondary mortgage market purchases and sales.
 
@@ -234,7 +234,7 @@ Subsec. (a)(5). Pub. L. 98–353, §456(a)(4), substituted "Any" for "An".
 
 Subsec. (a)(6). Pub. L. 98–353, §456(a)(5), substituted "or profits" for "and profits".
 
-Subsec. (b). Pub. L. 98–353, §363(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Property of the estate does not include any power that the debtor may only exercise solely for the benefit of an entity other than the debtor."
+Subsec. (b). Pub. L. 98–353, §363(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read asfollows: "Property of the estate does not include any power that the debtor may only exercise solely for the benefit of an entity other than the debtor."
 
 Subsec. (c)(1). Pub. L. 98–353, §456(b)(1), inserted "in an agreement, transfer, instrument, or applicable nonbankruptcy law".
 
@@ -268,9 +268,11 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Adjustment of Dollar Amounts
 
-The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of theUnited States pursuant to section 104 of this title as follows:
+The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(5)(C), (6)(C), dollar amount "6,225" was adjusted to "6,425". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b)(5)(C), (6)(C), (10)(C), dollar amount "6,425" was adjusted to "6,825". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(5)(C), (6)(C), dollar amount "6,225" was adjusted to "6,425".
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b)(5)(C), (6)(C), dollar amount "5,850" was adjusted to "6,225".
 

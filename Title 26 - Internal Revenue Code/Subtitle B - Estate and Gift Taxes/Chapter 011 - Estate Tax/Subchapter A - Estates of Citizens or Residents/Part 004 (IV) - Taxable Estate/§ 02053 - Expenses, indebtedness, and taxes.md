@@ -28,7 +28,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 #### (B) Certain taxes
 
-&emsp;&emsp;Any income taxes on income received after the death of the decedent, or property taxesnot accrued before his death, or any estate, succession, legacy, or inheritance taxes, shall not be deductible under this section.
+&emsp;&emsp;Any income taxes on income received after the death of the decedent, or property taxes not accrued before his death, or any estate, succession, legacy, or inheritance taxes, shall not be deductible under this section.
 
 #### (C) Certain claims by remaindermen
 
@@ -82,7 +82,7 @@ Subsec. (c)(1)(D). Pub. L. 105–34, §503(b)(1), added subpar. (D).
 
 <b>1984</b>—Subsec. (c)(1)(C). Pub. L. 98–369, §1027(b), added subpar. (C).
 
-Subsec. (e). Pub. L. 98–369, §425(a)(2), substituted "For provisions treating certain relinquishments of maritalrights as consideration in money or money's worth, see section 2043(b)(2)" for "For provisions that relinquishment of marital rights shall not be deemed a consideration 'in money or money's worth,' see section 2043(b)."
+Subsec. (e). Pub. L. 98–369, §425(a)(2), substituted "For provisions treating certain relinquishments of marital rights as consideration in money or money's worth, see section 2043(b)(2)" for "For provisions that relinquishment of marital rights shall not be deemed a consideration 'in money or money's worth,' see section 2043(b)."
 
 <b>1976</b>—Subsec. (d)(1). Pub. L. 94–455 struck out "or his delegate" after "Secretary" in provisions preceding subpar. (A) and following subpar. (B) and struck out "or Territory" after "a State" in subpar. (A).
 

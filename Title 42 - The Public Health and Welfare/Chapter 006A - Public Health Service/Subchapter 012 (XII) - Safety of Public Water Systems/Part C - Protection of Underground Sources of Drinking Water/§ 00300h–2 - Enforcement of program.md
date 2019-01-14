@@ -44,7 +44,7 @@ Civil actions referred to in paragraphs (1) and (2) of subsection (a) shall be b
 
 (B) In assessing any civil penalty under this subsection, the Administrator shall take into account appropriate factors, including (i) the seriousness of the violation; (ii) the economic benefit (if any) resulting from the violation; (iii) any history of such violations; (iv) any good-faith efforts to comply with the applicable requirements; (v) the economic impact of the penalty on the violator; and (vi) such other matters as justice may require.
 
-(5) Any violation with respect to which the Administrator has commenced and is diligently prosecuting an action, or has issued an order under this subsection assessing a penalty, shall not be subject to an action under subsection (b) of this section or section 300h–3(c) or 300j–8 of this title, except that the foregoing limitation on civil actions under section 300j–8 of this titleshall not apply with respect to any violation for which—
+(5) Any violation with respect to which the Administrator has commenced and is diligently prosecuting an action, or has issued an order under this subsection assessing a penalty, shall not be subject to an action under subsection (b) of this section or section 300h–3(c) or 300j–8 of this title, except that the foregoing limitation on civil actions under section 300j–8 of this title shall not apply with respect to any violation for which—
 
 &emsp;(A) a civil action under section 300j–8(a)(1) of this title has been filed prior to commencement of an action under this subsection, or
 

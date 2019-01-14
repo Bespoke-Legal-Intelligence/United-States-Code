@@ -80,7 +80,7 @@ Inclusions.—The term "alternative fueled vehicle" includes—
 
 &emsp;&emsp;(C) any person engaged in generating, transmitting, importing, or selling at wholesale or retail electricity;
 
-&emsp;(11) the term "light duty motor vehicle" means a light duty truck or light duty vehicle, as such terms are defined under section 7550(7)of this title, of less than or equal to 8,500 pounds gross vehicle weight rating;
+&emsp;(11) the term "light duty motor vehicle" means a light duty truck or light duty vehicle, as such terms are defined under section 7550(7) of this title, of less than or equal to 8,500 pounds gross vehicle weight rating;
 
 &emsp;(12) the term "motor fuel" means any substance suitable as a fuel for a motor vehicle;
 

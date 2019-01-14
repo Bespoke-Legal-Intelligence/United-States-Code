@@ -40,7 +40,7 @@ Provisions similar to those in this section were contained in section 3(c) of Pu
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–446, §1201(c)(2)(A), substituted "an Under Secretary" for "a Under Secretary".
 
-Subsec. (d)(2)(F). Pub. L. 103–446, §1201(c)(2)(B), (e)(2), substituted "Chief Benefits Director of the Veterans' Administration)" for "Under Secretary for Benefits ofthe Department)" and "commission" for "Commission".
+Subsec. (d)(2)(F). Pub. L. 103–446, §1201(c)(2)(B), (e)(2), substituted "Chief Benefits Director of the Veterans' Administration)" for "Under Secretary for Benefits of the Department)" and "commission" for "Commission".
 
 <b>1992</b>—Pub. L. 102–405 substituted "Under Secretary for Benefits" for "Chief Benefits Director" wherever appearing.
 

@@ -22,7 +22,7 @@
 
 #### (3) Exclusion
 
-&emsp;Programs and activities that implement or purchase new prevention technologies or modalities, such as medical male circumcision, public education about risks to acquire HIV infection from blood exposures, promotinguniversal precautions, investigating suspected nosocomial infections, pre-exposure pharmaceutical prophylaxis to prevent transmission of HIV, or microbicides and programs and activities that provide counseling and testing for HIV or prevent mother-to-child prevention of HIV, shall not be included in determining compliance with paragraph (2).
+&emsp;Programs and activities that implement or purchase new prevention technologies or modalities, such as medical male circumcision, public education about risks to acquire HIV infection from blood exposures, promoting universal precautions, investigating suspected nosocomial infections, pre-exposure pharmaceutical prophylaxis to prevent transmission of HIV, or microbicides and programs and activities that provide counseling and testing for HIV or prevent mother-to-child prevention of HIV, shall not be included in determining compliance with paragraph (2).
 
 #### (4) Report
 
@@ -34,11 +34,11 @@
 
 #### (b) Orphans and vulnerable children
 
-For fiscal years 2009 through 2018, not less than 10 percent of the amounts appropriated or otherwise made available to carry out the provisions of section 2151b–2 of this title for HIV/AIDS assistance for each such fiscal year shall be expended for assistance for orphans and other children affected by, or vulnerable to, HIV/AIDS, of which such amount at least 50 percent shall be provided through non-profit, nongovernmental organizations, including faith-based organizations, that implement programs on the community level.
+For fiscal years 2009 through 2023, not less than 10 percent of the amounts appropriated or otherwise made available to carry out the provisions of section 2151b–2 of this title for HIV/AIDS assistance for each such fiscal year shall be expended for assistance for orphans and other children affected by, or vulnerable to, HIV/AIDS, of which such amount at least 50 percent shall be provided through non-profit, nongovernmental organizations, including faith-based organizations, that implement programs on the community level.
 
 #### (c) Funding allocation
 
-For each of the fiscal years 2009 through 2018, more than half of the amounts appropriated or otherwise made available to carry out the provisions of section 2151b–2 of this title shall be expended for—
+For each of the fiscal years 2009 through 2023, more than half of the amounts appropriated or otherwise made available to carry out the provisions of section 2151b–2 of this title shall be expended for—
 
 &emsp;(1) antiretroviral treatment for HIV/AIDS;
 
@@ -56,19 +56,23 @@ For each of the fiscal years 2009 through 2013—
 
 &emsp;(1) the treatment goal under section 7672(a)(3) of this title shall be increased above 2,000,000 by at least the percentage increase in the amount appropriated for bilateral global HIV/AIDS assistance for such fiscal year compared with fiscal year 2008;
 
-&emsp;(2) any increase in the treatment goal under section 7672(a)(3) of this title above the percentage increase in the amount appropriated for bilateral global HIV/AIDS assistance for such fiscal year compared with fiscal year 2008 shall be based on long-term requirements, epidemiological evidence, the share of treatment needs being met by partner governments and other sources of treatment funding, and other appropriate factors;
+&emsp;(2) any increase in the treatment goal under section 7672(a)(3) of this title above the percentage increase in the amount appropriated for bilateral global HIV/AIDS assistance for such fiscal year compared with fiscal year 2008 shall be based on long-term requirements, epidemiological evidence, the share of treatmentneeds being met by partner governments and other sources of treatment funding, and other appropriate factors;
 
 &emsp;(3) the treatment goal under section 7672(a)(3) of this title shall be increased above the number calculated under paragraph (1) by the same percentage that the average United States Government cost per patient of providing treatment in countries receiving bilateral HIV/AIDS assistance has decreased compared with fiscal year 2008; and
 
 &emsp;(4) the prevention and care goals established in clauses (i) and (iv) of section 2151b–2(b)(1)(A) of this title shall be increased consistent with epidemiological evidence and available resources.
 
-(Pub. L. 108–25, title IV, §403, May 27, 2003, 117 Stat. 746; Pub. L. 110–293, title IV, §403, July 30, 2008, 122 Stat. 2966; Pub. L. 113–56, §6, Dec. 2, 2013, 127 Stat. 654.)
+(Pub. L. 108–25, title IV, §403, May 27, 2003, 117 Stat. 746; Pub. L. 110–293, title IV, §403, July 30, 2008, 122 Stat. 2966; Pub. L. 113–56, §6, Dec. 2, 2013, 127 Stat. 654; Pub. L. 115–305, §4, Dec. 11, 2018, 132 Stat. 4403.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a)(2)(A), was in the original "this Act", meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–305, §4(1), substituted "2023" for "2018".
+
+Subsec. (c). Pub. L. 115–305, §4(2), substituted "2023" for "2018" in introductory provisions.
 
 <b>2013</b>—Subsec. (b). Pub. L. 113–56, §6(a), substituted "2018" for "2013" and "amounts appropriated or otherwise made available to carry out the provisions of section 2151b–2 of this title" for "amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title".
 

@@ -1,6 +1,6 @@
 ### §177. American Registry of Pathology
 
-(a)(1) There is authorized to be established a nonprofit corporation to be known as the American Registry of Pathology which shall not for any purpose be an agency or establishment of the United States Government. The American Registry of Pathology shall be subject to theprovisions of this section and, to the extent not inconsistent with this section, to the District of Columbia Nonprofit Corporation Act (D.C. Code, sec. 29–501 et seq.).
+(a)(1) There is authorized to be established a nonprofit corporation to be known as the American Registry of Pathology which shall not for any purpose be an agency or establishment of the United States Government. The American Registry of Pathology shall be subject to the provisions of this section and, to the extent not inconsistent with this section, to the District of Columbia Nonprofit Corporation Act (D.C. Code, sec. 29–501 et seq.).
 
 (2) The American Registry of Pathology shall have a Board of Members (hereinafter in this section referred to as the "Board") consisting of not less than eleven individuals who are representatives of the professional societies and organizations that support the activities of the American Registry of Pathology, of whom one shall be elected annually by the Board to serve as chairman.
 

@@ -4,7 +4,7 @@
 
 (2)(A) A temporary restraining order may be issued under this section without written or oral notice to the adverse party or such party's attorney in a civil action under this section if the court finds, upon written certification of facts by the attorney for the Government, that such notice should not be required and that there is a reasonable probability that the Government will prevail on the merits.
 
-(B) A temporary restraining order issued without notice under this section shall be endorsed with the date and hour of issuance and be filedforthwith in the office of the clerk of the court issuing the order.
+(B) A temporary restraining order issued without notice under this section shall be endorsed with the date and hour of issuance and be filed forthwith in the office of the clerk of the court issuing the order.
 
 (C) A temporary restraining order issued under this section shall expire at such time, not to exceed 14 days from issuance, as the court directs; the court, for good cause shown before expiration of such order, may extend the expiration date of the order for up to 14 days or for such longer period agreed to by the adverse party.
 

@@ -8,7 +8,7 @@
 
 (3) All readers selected by the Secretary shall receive thorough instruction from the Secretary regarding the evaluation process for applications submitted under this subchapter and consistent with the provisions of this subchapter, including—
 
-&emsp;(A) explanations and examples of the types of activities referred to in section 1057(b) of this title that should receive special consideration for grants awarded under part A and of the types of activities referred to in section 1062 of this title that should receive special consideration for grants awarded under part B;
+&emsp;(A) explanations and examples of the types of activities referred to in section 1057(b) ofthis title that should receive special consideration for grants awarded under part A and of the types of activities referred to in section 1062 of this title that should receive special consideration for grants awarded under part B;
 
 &emsp;(B) an enumeration of the factors to be used to determine the quality of applications submitted under this subchapter; and
 

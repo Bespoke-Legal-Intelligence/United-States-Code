@@ -2,7 +2,7 @@
 
 #### (a) Disclosures; time; form; contents
 
-The terms and conditions of electronic fund transfers involving a consumer's account shall be disclosed at the time the consumer contracts for an electronic fund transfer service, in accordance with regulations of the Bureau. Suchdisclosures shall be in readily understandable language and shall include, to the extent applicable—
+The terms and conditions of electronic fund transfers involving a consumer's account shall be disclosed at the time the consumer contracts for an electronic fund transfer service, in accordance with regulations of the Bureau. Such disclosures shall be in readily understandable language and shall include, to the extent applicable—
 
 &emsp;(1) the consumer's liability for unauthorized electronic fund transfers and, at the financial institution's option, notice of the advisability of prompt reporting of any loss, theft, or unauthorized use of a card, code, or other means of access;
 

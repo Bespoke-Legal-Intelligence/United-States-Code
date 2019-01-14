@@ -6,7 +6,7 @@ Availability of Funds From Sale and Scrapping of Obsolete Vessels.—
 
 &emsp;(1)
 
-In general.—Notwithstanding any other provision of law, the amount of funds creditedin a fiscal year to the Vessel Operations Revolving Fund established by section 50301(a) of title 46 that is attributable to the sale of obsolete vessels in the National Defense Reserve Fleet that are scrapped or sold under section 57102, 57103, or 57104 of title 46 shall be available until expended as follows:
+In general.—Notwithstanding any other provision of law, the amount of funds credited in a fiscal year to the Vessel Operations Revolving Fund established by section 50301(a) of title 46 that is attributable to the sale of obsolete vessels in the National Defense Reserve Fleet that are scrapped or sold under section 57102, 57103, or 57104 of title 46 shall be available until expended as follows:
 
 &emsp;&emsp;(A) Fifty percent shall be available to the Administrator of the Maritime Administration for such acquisition, maintenance, repair, reconditioning, or improvement of vessels in the National Defense Reserve Fleet as is authorized under other Federal law.
 
@@ -120,7 +120,7 @@ In subsection (a)(1)(C), before subparagraph (i), the words "whether collected b
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a)(1)(C). Pub. L. 114–328, §3507(a)(1), amended subpar. (C) generally. Prior to amendment,subpar. (C) related to availability of remainder of funds.
+<b>2016</b>—Subsec. (a)(1)(C). Pub. L. 114–328, §3507(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to availability of remainder of funds.
 
 Subsec. (b)(1). Pub. L. 114–328, §3507(a)(2), amended par. (1) generally. Prior to amendment, par. (1) related to use of amounts for certain projects under the National Maritime Heritage Grants Program.
 
@@ -190,7 +190,7 @@ Contents of plan.—The plan shall—
 
 &emsp;&emsp;"(B) identify and describe the funding and other resources necessary to implement the plan, and specific milestones for disposal of vessels under the plan;
 
-&emsp;&emsp;"(C) establish performance measures to track progress toward achieving the goals of the program, including the expeditious disposal of ships commencing upon the date of the enactment of this paragraph;
+&emsp;&emsp;"(C) establish performance measures to track progress toward achieving the goals of the program,including the expeditious disposal of ships commencing upon the date of the enactment of this paragraph;
 
 &emsp;&emsp;"(D) develop a formal decisionmaking framework for the program; and
 

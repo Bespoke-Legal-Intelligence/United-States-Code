@@ -36,7 +36,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(iv) an action for breach of contract or warranty in connection with the purchase of the product;
 
-&emsp;&emsp;&emsp;(v) an action for death, physical injuries or property damage resulting directly from a defect in design or manufacture of the product, when used as intended or in a reasonably foreseeable manner, except that where the discharge of the product was caused by a volitional act that constituted a criminal offense, then such act shall be considered the sole proximate cause of any resulting death, personal injuries or property damage; or
+&emsp;&emsp;&emsp;(v) an action for death, physical injuries or property damage resulting directly from a defect in design or manufacture of the product, when used as intended or in a reasonably foreseeable manner, except that where the discharge of the productwas caused by a volitional act that constituted a criminal offense, then such act shall be considered the sole proximate cause of any resulting death, personal injuries or property damage; or
 
 &emsp;&emsp;&emsp;(vi) an action or proceeding commenced by the Attorney General to enforce the provisions of chapter 44 of title 18 or chapter 53 of title 26.
 
@@ -50,7 +50,7 @@ In this chapter:
 
 #### (D) Minor child exception
 
-&emsp;&emsp;Nothing in this chapter shall be construed to limit the right of a person under 17 yearsof age to recover damages authorized under Federal or State law in a civil action that meets 1 of the requirements under clauses (i) through (v) of subparagraph (A).
+&emsp;&emsp;Nothing in this chapter shall be construed to limit the right of a person under 17 years of age to recover damages authorized under Federal or State law in a civil action that meets 1 of the requirements under clauses (i) through (v) of subparagraph (A).
 
 #### (6) Seller
 

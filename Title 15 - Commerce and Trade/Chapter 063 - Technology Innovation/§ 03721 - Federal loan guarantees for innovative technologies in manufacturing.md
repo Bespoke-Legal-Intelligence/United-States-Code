@@ -6,7 +6,7 @@ The Secretary shall establish a program to provide loan guarantees for obligatio
 
 #### (b) Eligible projects
 
-A loan guarantee may be made under the program only for a project that re-equips, expands, or establishes a manufacturing facility in the United States—
+A loan guarantee may be made under the program only for a project that re-equips, expands,or establishes a manufacturing facility in the United States—
 
 &emsp;(1) to use an innovative technology or an innovative process in manufacturing;
 
@@ -90,7 +90,7 @@ In establishing the terms and conditions of a loan guarantee under this section,
 
 #### (1) In general
 
-&emsp;The Secretary shall charge and collect fees for loan guarantees in amounts the Secretarydetermines are sufficient to cover applicable administrative expenses.
+&emsp;The Secretary shall charge and collect fees for loan guarantees in amounts the Secretary determines are sufficient to cover applicable administrative expenses.
 
 #### (2) Availability
 
@@ -108,7 +108,7 @@ In establishing the terms and conditions of a loan guarantee under this section,
 
 #### (1) In general
 
-&emsp;With respect to a loan guarantee under this section, the borrower, the lender, and any other appropriate party shall keep such records and other pertinent documents as the Secretary shall prescribe by regulation, including such records as the Secretary may require to facilitate an effective audit.
+&emsp;With respect to a loan guarantee under this section, the borrower, the lender, and anyother appropriate party shall keep such records and other pertinent documents as the Secretary shall prescribe by regulation, including such records as the Secretary may require to facilitate an effective audit.
 
 #### (2) Access
 
@@ -186,7 +186,7 @@ In this section:
 
 #### (3) Innovative technology
 
-&emsp;The term "innovative technology" means a technology that is significantly improved as compared to the technology in general use in the commercial marketplace in the UnitedStates at the time the loan guarantee is issued.
+&emsp;The term "innovative technology" means a technology that is significantly improved as compared to the technology in general use in the commercial marketplace in the United States at the time the loan guarantee is issued.
 
 #### (4) Loan guarantee
 
@@ -202,7 +202,7 @@ In this section:
 
 #### (t) Authorization of appropriations
 
-There are authorized to be appropriated $20,000,000 for each of fiscal years 2011 through 2013 to provide the cost of loan guarantees under this section.
+There are authorized to be appropriated $20,000,000 for each of fiscal years 2011 through2013 to provide the cost of loan guarantees under this section.
 
 (Pub. L. 96–480, §26, as added Pub. L. 111–358, title VI, §602, Jan. 4, 2011, 124 Stat. 4026.)
 

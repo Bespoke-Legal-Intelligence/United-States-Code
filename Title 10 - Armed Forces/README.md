@@ -6,14 +6,18 @@
 | Subtitle |  | Sec. |
 | :--- | :---: | ---: |
 | <b>A.</b> | <b>General Military Law</b> | <b>101</b> |
-| <b>B.</b> | <b>Army</b> | <b>3001</b> |
-| <b>C.</b> | <b>Navy and Marine Corps</b> | <b>5001</b> |
-| <b>D.</b> | <b>Air Force</b> | <b>8001</b> |
+| <b>B.</b> | <b>Army</b> | <b>7001</b> |
+| <b>C.</b> | <b>Navy and Marine Corps</b> | <b>8001</b> |
+| <b>D.</b> | <b>Air Force</b> | <b>9011</b> |
 | <b>E.</b> | <b>Reserve Components</b> | <b>10001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840, substituted "7001" for "3001" in item for subtitle B and "8001" for "5001" in item for subtitle C.
+
+Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840, substituted "9011" for "8001" in item for subtitle D to reflect the probable intent of Congress to include the number, as redesignated by section 806(c) of Pub. L. 115–232, of the first section of subtitle D.
 
 <b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1671(a), Oct. 5, 1994, 108 Stat. 3013, added item for subtitle E.
 
@@ -8583,7 +8587,7 @@ Pub. L. 85–861, §34, Sept. 2, 1958, 72 Stat. 1568, provided that:
 
 Pub. L. 85–861, §35, Sept. 2, 1958, 72 Stat. 1568, provided that: "If on the effective date of this Act \[Sept. 2, 1958\] a provision of law that is restated in this Act and repealed by section 36 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status."
 
-Pub. L. 85–861, §36, Sept. 2, 1958, 72 Stat. 1568, repealed certain laws except with respect to rights and dutiesthat matured, penalties that were incurred, and proceedings that were begun, before Sept. 2, 1958.
+Pub. L. 85–861, §36, Sept. 2, 1958, 72 Stat. 1568, repealed certain laws except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before Sept. 2, 1958.
 
 #### Improvement of United States Code by Pub. L. 87–651; Inconsistent Provisions Superseded; Corresponding Provisions
 
@@ -8663,11 +8667,11 @@ References to Transferred or Replaced Provisions.—A reference to a provision o
 
 "(b)
 
-Savings Provision for Regulations.—A regulation, rule, or order in effect under a provision of title 10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall continue in effect under the corresponding provision so enacted until repealed, amended, or superseded.
+Savings Provision for Regulations.—A regulation, rule, or order in effect under a provision of title10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall continue in effect under the corresponding provision so enacted until repealed, amended, or superseded.
 
 "(c)
 
-General Savings Provision.—An action taken, or a right that matured, under a provision of title 10,United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall be treated as having been taken, or having matured, under the corresponding provision so enacted."
+General Savings Provision.—An action taken, or a right that matured, under a provision of title 10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall be treated as having been taken, or having matured, under the corresponding provision so enacted."
 
 
 ---

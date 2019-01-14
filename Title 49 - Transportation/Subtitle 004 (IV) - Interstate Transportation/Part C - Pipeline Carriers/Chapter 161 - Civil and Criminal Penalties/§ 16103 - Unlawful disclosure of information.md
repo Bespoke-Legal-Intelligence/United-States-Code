@@ -2,7 +2,7 @@
 
 (a)
 
-General Prohibition.—A pipeline carrier providing transportation subject to this part, oran officer, agent, or employee of that carrier, or another person authorized to receive information from that carrier, that knowingly discloses to another person, except the shipper or consignee, or a person who solicits or knowingly receives information about the nature, kind, quantity, destination, consignee, or routing of property tendered or delivered to that carrier for transportation provided under this part without the consent of the shipper or consignee, if that information may be used to the detriment of the shipper or consignee or may disclose improperly, to a competitor the business transactions of the shipper or consignee, is liable to the United States for a civil penalty of not more than $1,000.
+General Prohibition.—A pipeline carrier providing transportation subject to this part, or an officer, agent, or employee of that carrier, or another person authorized to receive information from that carrier, that knowingly discloses to another person, except the shipper or consignee, or a person who solicits or knowingly receives information about the nature, kind, quantity, destination, consignee, or routing of property tendered or delivered to that carrier for transportation provided under this part without the consent of the shipper or consignee, if that information may be used to the detriment of the shipper or consignee or may disclose improperly, to a competitor the business transactions of the shipper or consignee, is liable to the United States for a civil penalty of not more than $1,000.
 
 (b)
 
@@ -23,4 +23,8 @@ Board Employee.—An employee of the Board delegated to make an inspection or ex
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11910 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

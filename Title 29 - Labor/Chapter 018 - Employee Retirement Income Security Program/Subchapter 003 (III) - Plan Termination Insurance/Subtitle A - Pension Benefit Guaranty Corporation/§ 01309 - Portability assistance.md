@@ -1,6 +1,6 @@
 ### §1309. Portability assistance
 
-The corporation shall provide advice and assistance to individuals with respect to evaluating the economic desirability of establishing individual retirement accounts or other forms of individual retirement savings for which a deduction is allowable under section 219 of title 26 and with respect to evaluating the desirability, in particular cases, of transferring amounts representing an employee's interest in a qualified plan to such an account upon the employee's separation from service with an employer.
+The corporation shall provide advice and assistance to individuals with respect to evaluating the economic desirability of establishing individual retirement accounts or other forms of individual retirement savings for which a deduction is allowable under section 219 of title 26 and with respect to evaluating the desirability, in particular cases, of transferring amounts representing an employee's interest in a qualifiedplan to such an account upon the employee's separation from service with an employer.
 
 (Pub. L. 93–406, title IV, §4009, Sept. 2, 1974, 88 Stat. 1014; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
 

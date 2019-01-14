@@ -13,6 +13,8 @@
 - [&sect; 05172 - Repair, restoration, and replacement of damaged facilities](%C2%A7%2005172%20-%20Repair%2C%20restoration%2C%20and%20replacement%20of%20damaged%20facilities.md)
 - [&sect; 05173 - Debris removal](%C2%A7%2005173%20-%20Debris%20removal.md)
 - [&sect; 05174 - Federal assistance to individuals and households](%C2%A7%2005174%20-%20Federal%20assistance%20to%20individuals%20and%20households.md)
+- [&sect; 05174a - Flexibility](%C2%A7%2005174a%20-%20Flexibility.md)
+- [&sect; 05174b - Critical document fee waiver](%C2%A7%2005174b%20-%20Critical%20document%20fee%20waiver.md)
 - [&sect; 05175 - Repealed. Pub. L. 100&#8211;707, title I, &sect;105(m)(2), Nov. 23, 1988, 102 Stat. 4696](%C2%A7%2005175%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93707%2C%20title%20I%2C%20%C2%A7105%28m%29%282%29%2C%20Nov.%2023%2C%201988%2C%20102%20Stat.%204696.md)
 - [&sect; 05176 - Repealed. Pub. L. 106&#8211;390, title I, &sect;104(c)(2), Oct. 30, 2000, 114 Stat. 1559](%C2%A7%2005176%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93390%2C%20title%20I%2C%20%C2%A7104%28c%29%282%29%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201559.md)
 - [&sect; 05177 - Unemployment assistance](%C2%A7%2005177%20-%20Unemployment%20assistance.md)
@@ -36,3 +38,4 @@
 - [&sect; 05189e - Essential service providers](%C2%A7%2005189e%20-%20Essential%20service%20providers.md)
 - [&sect; 05189f - Public assistance program alternative procedures](%C2%A7%2005189f%20-%20Public%20assistance%20program%20alternative%20procedures.md)
 - [&sect; 05189g - Unified Federal review](%C2%A7%2005189g%20-%20Unified%20Federal%20review.md)
+- [&sect; 05189h - Agency accountability](%C2%A7%2005189h%20-%20Agency%20accountability.md)

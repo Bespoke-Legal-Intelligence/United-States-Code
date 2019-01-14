@@ -46,7 +46,7 @@
 
 #### (4) Avoidance of conflict of interest
 
-&emsp;A person may not be an agent, broker, consultant, or other representative of the UnitedStates Government, an importer, or an importing country in connection with agricultural commodities provided under this chapter during a fiscal year in which such person provides or acts as an agent, broker, consultant, or other representative of a person engaged in providing ocean transportation or transportation-related services for such commodities. For the purpose of this paragraph, the term "transportation-related services" means lightening, stevedoring, bagging, or inland transportation to the destination point.
+&emsp;A person may not be an agent, broker, consultant, or other representative of the United States Government, an importer, or an importing country in connection with agricultural commodities provided under this chapter during a fiscal year in which such person provides or acts as an agent, broker, consultant, or other representative of a person engaged in providing ocean transportation or transportation-related services for such commodities. For the purpose of this paragraph, the term "transportation-related services" means lightening, stevedoring, bagging, or inland transportation to the destination point.
 
 #### (c) Subchapters III and III–A program
 
@@ -72,7 +72,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Funds made available for fiscal years 2001 through 2018 to carry out subchapters III and III-A may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each of fiscal years 2001 through 2013 not more than $10,000,000 of such funds and for each of fiscal years 2014 through 2018 not more than $15,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
+&emsp;&emsp;Funds made available for fiscal years 2001 through 2023 to carry out subchapters III and III-A may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each of fiscal years 2001 through 2013 not more than $10,000,000 of such funds and for each of fiscal years 2014 through 2023 not more than $15,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
 
 #### (B) Additional prepositioning sites
 
@@ -100,67 +100,75 @@ An agreement under subchapters II and III–A shall, to the extent practicable, 
 
 > whichever is later.
 
-#### (f) Annual reports
+#### (f) Annual report regarding food aid programs and activities
 
-#### (1) Annual report regarding food aid programs and activities
+#### (1) Annual report
 
-#### (A) Annual report
+&emsp;Not later than April 1 of each fiscal year, the Administrator and the Secretary shall jointly, or each separately, prepare and submit to the appropriate committees of Congress a report regarding each program and activity carried out under this chapter by the Administrator, the Secretary, or both, as applicable, during the prior fiscal year.
 
-&emsp;&emsp;Not later than April 1 of each fiscal year, the Administrator and the Secretary shall jointly prepare and submit to the appropriate committees of Congress a report regarding each program and activity carried out under this chapter during the prior fiscal year.
+#### (2) Contents
 
-#### (B) Contents
+&emsp;An annual report described in paragraph (1) shall include, with respect to the prior fiscal year, the following:
 
-&emsp;&emsp;An annual report described in subparagraph (A) shall include, with respect to the prior fiscal year—
+&emsp;&emsp;(A) A list that contains a description of each country and organization that receives food and other assistance under this chapter (including the quantity of food and assistance provided to each country and organization).
 
-&emsp;&emsp;&emsp;(i) a list that contains a description of each country and organization that receives food and other assistance under this chapter (including the quantity of food and assistance provided to each country and organization);
+&emsp;&emsp;(B) A general description of each project and activity implemented under this chapter (including each activity funded through the use of local currencies) and the total number of beneficiaries of the project.
 
-&emsp;&emsp;&emsp;(ii) a general description of each project and activity implemented under this chapter (including each activity funded through the use of local currencies) and the total number of beneficiaries of the project and the activities carried out through such project;
+&emsp;&emsp;(C) A statement describing the quantity of agricultural commodities made available to, and the total number of beneficiaries in, each country pursuant to—
 
-&emsp;&emsp;&emsp;(iii) a statement describing the quantity of agricultural commodities made available to, and the total number of beneficiaries in, each country pursuant to—
+&emsp;&emsp;&emsp;(i) this chapter;
 
-&emsp;&emsp;&emsp;&emsp;(I) section 1431(b) of this title;
+&emsp;&emsp;&emsp;(ii) section 1431(b) of this title;
 
-&emsp;&emsp;&emsp;&emsp;(II) the Food for Progress Act of 1985 (7 U.S.C. 1736o); and
+&emsp;&emsp;&emsp;(iii) the Food for Progress Act of 1985 (7 U.S.C. 1736o); and
 
-&emsp;&emsp;&emsp;&emsp;(III) the McGovern-Dole International Food for Education and Child Nutrition Program established by section 1736o–1 of this title;
+&emsp;&emsp;&emsp;(iv) the McGovern-Dole International Food for Education and Child Nutrition Program established by section 1736o–1 of this title.
 
-&emsp;&emsp;&emsp;(iv) an assessment of the progress made through programs under this chapter towards reducing food insecurity in the populations receiving food assistance from the United States;
+&emsp;&emsp;(D) An assessment of the progress made through programs under this chapter towards reducing food insecurity in the populations receiving food assistance from the United States.
 
-&emsp;&emsp;&emsp;(v) a description of efforts undertaken by the Food Aid Consultative Group under section 1725 of this title to achieve an integrated and effective food assistance program;
+&emsp;&emsp;(E) A description of efforts undertaken by the Food Aid Consultative Group under section 1725 of this title to achieve an integrated and effective food assistance program.
 
-&emsp;&emsp;&emsp;(vi) an assessment of—
+&emsp;&emsp;(F) An assessment of—
 
-&emsp;&emsp;&emsp;&emsp;(I) each program oversight, monitoring, and evaluation system implemented under section 1726a(f) of this title; and
+&emsp;&emsp;&emsp;(i) each program oversight, monitoring, and evaluation system implemented under section 1726a(f) of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the impact of each program oversight, monitoring, and evaluation system on the effectiveness and efficiency of assistance provided under this subchapter; and
+&emsp;&emsp;&emsp;(ii) the impact of each program oversight, monitoring, and evaluation system on the effectiveness and efficiency of assistance provided under this subchapter.
 
-&emsp;&emsp;&emsp;(vii) an assessment of the progress made by the Administrator in addressing issues relating to quality with respect to the provision of food assistance.
+&emsp;&emsp;(G) An assessment of the progress made by the Administrator in addressing issues relating to quality with respect to the provision of food assistance.
 
-#### (2) Annual report regarding the provision of agricultural commodities to foreign countries
+&emsp;&emsp;(H) A statement of the amount of funds (including funds for administrative costs, indirect cost recovery, internal transportation, storage and handling, and associated distribution costs) provided to each eligible organization that received assistance under this chapter, that further describes the following:
 
-#### (A) Annual report
+&emsp;&emsp;&emsp;(i) How such funds were used by the eligible organization.
 
-&emsp;&emsp;Not later than February 1 of each fiscal year, the Administrator shall prepare and submit to the appropriate committees of Congress a report regarding the administration of food assistance programs under subchapter III to benefit foreign countries during the prior fiscal year.
+&emsp;&emsp;&emsp;(ii) The actual rate of return for each commodity made available under this chapter, including factors that influenced the rate of return, and, for the commodity, the costs of bagging or further processing, ocean transportation, inland transportation in the recipient country, storage costs, and any other information that the Administrator and the Secretary determine to be necessary.
 
-#### (B) Contents
+&emsp;&emsp;&emsp;(iii) For each instance in which a commodity was made available under this chapter at a rate of return less than 70 percent, the reasons for the rate of return realized.
 
-&emsp;&emsp;An annual report described in subparagraph (A) shall include, with respect to the prior fiscal year—
+&emsp;&emsp;(I) For funds expended for purposes of section <sup>1</sup> 1722(e), 1736(b)(6), and 1736a(c)(1)(B) of this title, a detailed accounting of the expenditures and purposes of such expenditures with respect to each such section.
 
-&emsp;&emsp;&emsp;(i) a list that contains a description of each program, country, and commodity approved for assistance under section 1726a of this title; and
+#### (3) Rate of return described
 
-&emsp;&emsp;&emsp;(ii) a statement that contains a description of the total amount of funds approved for transportation and administrative costs under section 1726a of this title.
+&emsp;For purposes of applying subparagraph (H) of paragraph (2), the rate of return for a commodity shall be equal to the proportion that—
 
-(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, §310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§3010, 3011, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, §§3017, 3018(a), June 18, 2008, 122 Stat. 1827; Pub. L. 113–79, title III, §§3009, 3010, Feb. 7, 2014, 128 Stat. 776, 777.)
+&emsp;&emsp;(A) the proceeds the implementing partners generate through monetization; bears to
+
+&emsp;&emsp;(B) the cost to the Federal Government to procure and ship the commodity to a recipient country for monetization.
+
+(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, §310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§3010, 3011, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, §§3017, 3018(a), June 18, 2008, 122 Stat. 1827; Pub. L. 113–79, title III, §§3009, 3010, Feb. 7, 2014, 128 Stat. 776, 777; Pub. L. 115–334, title III, §§3111, 3112(a), Dec. 20, 2018, 132 Stat. 4605.)
 
 #### References in Text
 
-The Food for Progress Act of 1985, referred to in subsec. (f)(1)(B)(iii)(II), is Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736o of this title.
+The Food for Progress Act of 1985, referred to in subsec. (f)(2)(C)(iii), is Pub. L. 99–198, title XI, §1110, Dec.23, 1985, 99 Stat. 1472, which is classified to section 1736o of this title.
 
 #### Codification
 
 In subsec. (c)(2), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(4)(A). Pub. L. 115–334, §3111, substituted "2023" for "2018" in two places.
+
+Subsec. (f). Pub. L. 115–334, §3112(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to annual report regarding each program and activity carried out under this chapter and annual report regarding the administration of food assistance programs under subchapter III to benefit foreign countries.
 
 <b>2014</b>—Subsec. (c)(4)(A). Pub. L. 113–79, §3009(1), substituted "2018" for "2012" and "for each of fiscal years 2001 through 2013 not more than $10,000,000 of such funds and for each of fiscal years 2014 through 2018 not more than $15,000,000 of such funds" for "for each such fiscal year not more than $10,000,000 of such funds".
 
@@ -230,7 +238,7 @@ Subsec. (d)(4). Pub. L. 102–237, §332, substituted "the Federal Property and 
 
 Subsec. (c)(4). Pub. L. 101–508 substituted "providing ocean transportation or" for "providing ocean".
 
-<b>1975</b>—Pub. L. 94–161 inserted ", or their designees (who shall be members of such committees or, in the case of members from the executive branch, who shall have been confirmed by the Senate)" in first sentence.
+<b>1975</b>—Pub. L. 94–161 inserted ", or their designees (who shall be members of such committees or, in thecase of members from the executive branch, who shall have been confirmed by the Senate)" in first sentence.
 
 <b>1968</b>—Pub. L. 90–436 struck out provisions that the vice chairman and one ranking minority member of the specified House committees and the next ranking majority member and one ranking minority member of the specified Senate committees be members of the Advisory Committee, and inserted provisions requiring the Advisory Committee to meet not less than four times during each calendar year and setting forth the order of precedence at such meetings.
 
@@ -242,7 +250,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under section 1691 of this title.
 
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under section 940d of this title.
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under section 1994 of this title.
 
 #### Effective Date
 
@@ -251,4 +259,6 @@ Section effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as an
 #### Preparation of Annual Report
 
 For provisions requiring Food Assistance Policy Council to prepare annual report pursuant to subsec. (g)(1) \[now (f)(1)\] of this section, see Ex. Ord. No. 12752, §3(c), Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

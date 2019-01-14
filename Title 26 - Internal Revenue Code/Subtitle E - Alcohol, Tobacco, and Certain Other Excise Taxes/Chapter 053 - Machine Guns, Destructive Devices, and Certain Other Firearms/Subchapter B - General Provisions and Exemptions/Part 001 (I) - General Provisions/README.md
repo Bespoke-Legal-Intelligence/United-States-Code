@@ -8,18 +8,15 @@
 | [5844\.](%C2%A7%2005844%20-%20Importation.md) | Importation. |
 | [5845\.](%C2%A7%2005845%20-%20Definitions.md) | Definitions. |
 | [5846\.](%C2%A7%2005846%20-%20Other%20laws%20applicable.md) | Other laws applicable. |
-| [5847\.](%C2%A7%2005847%20-%20Effect%20on%20other%20laws.md) | Effect on other law.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [5847\.](%C2%A7%2005847%20-%20Effect%20on%20other%20laws.md) | Effect on other laws. |
 | [5848\.](%C2%A7%2005848%20-%20Restrictive%20use%20of%20information.md) | Restrictive use of information. |
 | [5849\.](%C2%A7%2005849%20-%20Citation%20of%20chapter.md) | Citation of chapter. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(251), Mar. 23, 2018, 132 Stat. 1196, substituted "Effect on other laws" for "Effect on other law" in item 5847.
 
 
 ---

@@ -100,7 +100,7 @@
 
 #### (1) In general
 
-&emsp;The term of office of a member of an advisory council appointed under subsection (b) shall be 4 years, except that any member appointed to fill a vacancy for an unexpired term shall serve for the remainder of such term. The Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members not all expirein the same year. A member of an advisory council may serve after the expiration of such member's term until a successor has been appointed and taken office.
+&emsp;The term of office of a member of an advisory council appointed under subsection (b) shall be 4 years, except that any member appointed to fill a vacancy for an unexpired term shall serve for the remainder of such term. The Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members not all expire in the same year. A member of an advisory council may serve after the expiration of such member's term until a successor has been appointed and taken office.
 
 #### (2) Reappointments
 
@@ -116,7 +116,7 @@ The Secretary shall select a member of an advisory council to serve as the chair
 
 #### (e) Meetings
 
-An advisory council shall meet at the call of the chairperson or upon the request of the Assistant Secretary or Director of the Administration or Center for which the advisory council is established, but in no event less than 2 times during each fiscal year. The location of the meetings of each advisory council shall be subject to the approval of the Assistant Secretary or Director of Administration or Center for which the council was established.
+An advisory council shall meet at the call of the chairperson or upon the request of the Assistant Secretary or Director of the Administration or Center for which the advisory council is established, but in no event less than 2 times during each fiscal year. The location of the meetings of each advisory council shall be subject to the approval of the Assistant Secretaryor Director of Administration or Center for which the council was established.
 
 #### (f) Executive Secretary and staff
 
@@ -182,7 +182,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Continuation of Existing Advisory Councils
 
-Pub. L. 99–570, title IV, §4004(b), Oct. 27, 1986, 100 Stat. 3207–111, provided that: "The amendment made by subsection (a) \[enacting this section and renumbering this section and section 290aa–5 of this title\] does not terminate the membership of any advisory council for the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, or the National Institute of Mental Health which was in existence on the date of enactment of this Act \[Oct. 27, 1986\]. After such date—
+Pub. L. 99–570, title IV, §4004(b), Oct. 27, 1986, 100 Stat. 3207–111, provided that: "The amendment made by subsection (a) \[enacting this section and renumbering this section and section 290aa–5 of this title\] does not terminate the membership of any advisory council for the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, or the National Institute of Mental Health which was in existence onthe date of enactment of this Act \[Oct. 27, 1986\]. After such date—
 
 &emsp;"(1) the Secretary of Health and Human Services shall make appointments to each such advisory council in such a manner as to bring about as soon as practicable the composition for such council prescribed by section 505 \[now 502\] of the Public Health Service Act \[42 U.S.C. 290aa–1\];
 

@@ -18,7 +18,17 @@ In this subchapter:
 
 #### (2) Authorized hazardous fuel reduction project
 
-&emsp;The term "authorized hazardous fuel reduction project" means the measures and methods described in the definition of "appropriate tools" contained in the glossary of the Implementation Plan, on Federal land described in section 6512(a) of this title and conducted under sections 6513 and 6514 of this title.
+#### (A) In general
+
+&emsp;&emsp;The term "authorized hazardous fuel reduction project" means the measures and methods described in the definition of "appropriate tools" contained in the glossary of the Implementation Plan, on Federal land described in section 6512(a) of this title and conducted under sections 6513 and 6514 of this title.
+
+#### (B) Inclusion
+
+&emsp;&emsp;The term "authorized hazardous fuel reduction project" includes, using the measures and methods described in subparagraph (A), the installation of—
+
+&emsp;&emsp;&emsp;(i) a natural or manmade change in fuel characteristics that affects fire behavior such that a fire can be more readily controlled (commonly known as a "fuel break"); and
+
+&emsp;&emsp;&emsp;(ii) a natural or constructed barrier used to stop or check a fire or to provide a control line from which to work to stop orcheck a fire (commonly known as a "firebreak").
 
 #### (3) Community wildfire protection plan
 
@@ -116,7 +126,7 @@ In this subchapter:
 
 &emsp;The term "resource management plan" means—
 
-&emsp;&emsp;(A) a land and resource management plan prepared for 1 or more units of land of the National Forest System described in section 6502(1)(A) of this title under section 1604 of this title; or
+&emsp;&emsp;(A) a land and resource management plan prepared for 1 or more units of land of theNational Forest System described in section 6502(1)(A) of this title under section 1604 of this title; or
 
 &emsp;&emsp;(B) a land use plan prepared for 1 or more units of the public land described in section 6502(1)(B) of this title under section 1712 of title 43.
 
@@ -158,11 +168,15 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(iii) an area that is adjacent to an evacuation route for an at-risk community that the Secretary determines, in cooperation with the at-risk community, requires hazardous fuel reduction to provide safer evacuation from the at-risk community.
 
-(Pub. L. 108–148, title I, §101, Dec. 3, 2003, 117 Stat. 1889.)
+(Pub. L. 108–148, title I, §101, Dec. 3, 2003, 117 Stat. 1889; Pub. L. 115–141, div. O, title II, §203, Mar. 23, 2018, 132 Stat. 1064.)
 
 #### References in Text
 
 The Department of the Interior and Related Agencies Appropriations Act, 2001, referred to in pars. (1)(A)(i) and (11), is Pub. L. 106–291, Oct. 11, 2000, 114 Stat. 922. Title IV of the act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 The Endangered Species Act of 1973, referred to in par. (15), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+
+#### Amendments
+
+<b>2018</b>—Par. (2). Pub. L. 115–141 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 

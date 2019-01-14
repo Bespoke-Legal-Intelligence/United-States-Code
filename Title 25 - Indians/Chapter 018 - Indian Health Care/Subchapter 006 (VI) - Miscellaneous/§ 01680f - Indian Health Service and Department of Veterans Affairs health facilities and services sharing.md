@@ -44,7 +44,7 @@ Nothing in this section may be construed as creating any right of a veteran to o
 
 <b>1991</b>—Subsecs. (a), (b)(3), (4), (6). Pub. L. 102–54, §13(j)(2)(A), substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
-Subsec. (c)(1). Pub. L. 102–54, §13(j)(2)(B), substituted "Not later than December 23, 1988, the Director of the Indian Health Service and the Secretary of Veterans Affairs shall" for "Within 30 days after November 23, 1988, the Director of the Indian Health Service and theAdministrator of Veterans' Affairs are authorized and directed to".
+Subsec. (c)(1). Pub. L. 102–54, §13(j)(2)(B), substituted "Not later than December 23, 1988, the Director of the Indian Health Service and the Secretary of Veterans Affairs shall" for "Within 30 days after November 23, 1988, the Director of the Indian Health Service and the Administrator of Veterans' Affairs are authorized and directed to".
 
 Subsec. (c)(1)(A), (B). Pub. L. 102–54, §13(j)(2)(A), substituted "Department of Veterans Affairs" for "Veterans' Administration".
 

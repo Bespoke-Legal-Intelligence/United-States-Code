@@ -54,7 +54,7 @@ Establishment and maintenance of program for administration employees.—The Adm
 
 (e)
 
-Procedures for Testing.—In establishing the programs required under subsection (b), theAdministrator shall develop requirements which shall—
+Procedures for Testing.—In establishing the programs required under subsection (b), the Administrator shall develop requirements which shall—
 
 &emsp;(1) promote, to the maximum extent practicable, individual privacy in the collection of specimen samples;
 
@@ -130,7 +130,7 @@ Pub. L. 102–195, §21(c)–(h), Dec. 9, 1991, 105 Stat. 1616.
 
 In subsection (b)(2), the words "within 18 months after the date of enactment of this Act" are omitted as obsolete.
 
-In paragraphs (1) and (2) of subsection (c), and in subsection (f)(2), the date "December 9, 1991" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1992 (Public Law 102–195, 105 Stat. 1605).
+In paragraphs (1) and (2) of subsection (c), and in subsection (f)(2), the date "December 9, 1991" is substitutedfor "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1992 (Public Law 102–195, 105 Stat. 1605).
 
 #### Findings
 

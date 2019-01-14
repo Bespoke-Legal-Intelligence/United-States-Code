@@ -52,7 +52,7 @@
 
 (g) A Member who is separated from the service after becoming 62 years of age and completing 5 years of civilian service or after becoming 60 years of age and completing 10 years of Member service is entitled to an annuity. A Member who is separated from the service after becoming 55 years of age (but before becoming 60 years of age) and completing 30 years of service is entitled to a reduced annuity. A Member who is separated from the service, except by resignation or expulsion, after completing 25 years of service or after becoming 50 years of age and (1) completing 20 years of service or (2) serving in 9 Congresses is entitled to an annuity.
 
-(h)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for less than fully successful executive performance (as determined under subchapter IIof chapter 43 of this title) after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
+(h)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for less than fully successful executive performance (as determined under subchapter II of chapter 43 of this title) after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
 
 (2) A member of the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
 
@@ -248,7 +248,7 @@ In subsections (a) and (b), the words "is entitled to" are substituted for "shal
 
 #### References in Text
 
-Section 105(e)(2) of the Indian Self-Determination Act (25 U.S.C. 450i(a)(2); 88 Stat. 2209), referred to in subsec. (j)(2)(B), was renumbered section 104(e)(2) of that Act by Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290, without corresponding amendment to this section. Section 104(e)(2) of the Indian Self-Determination Act was formerly classified to section 450i(e)(2) of Title 25, Indians, prior to editorial reclassification as section 5323(e)(2) of Title 25.
+Section 105(e)(2) of the Indian Self-Determination Act (25 U.S.C. 450i(a)(2); 88 Stat. 2209), referred to in subsec. (j)(2)(B), was renumbered section 104(e)(2) of that Act by Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290, without corresponding amendment to this section. Section 104(e)(2) of the Indian Self-Determination Act was formerly classified to section 450i(e)(2) of Title 25,Indians, prior to editorial reclassification as section 5323(e)(2) of Title 25.
 
 The date of the enactment of this paragraph, referred to in subsec. (j)(3)(A)(ii), is Dec. 5, 1979, the date of the enactment of Pub. L. 96–135, which was approved Dec. 5, 1979.
 

@@ -16,7 +16,7 @@ Minimum Safety Standards.—Subject to section 30103(a) of this title, the Secre
 
 (b)
 
-Eliminating and Amending Existing Regulations.—The Secretary may not eliminate or amend an existing motor carrier safety regulation related only to the maintenance, equipment, loading, or operation (including routing) of vehicles carrying material found to be hazardous under section 5103 of this title until an equivalent or more stringent regulation has been prescribed under section 5103.
+Eliminating and Amending Existing Regulations.—The Secretary may not eliminate or amend an existing motor carrier safety regulation related only to the maintenance, equipment, loading, or operation (including routing)of vehicles carrying material found to be hazardous under section 5103 of this title until an equivalent or more stringent regulation has been prescribed under section 5103.
 
 (c)
 
@@ -146,7 +146,7 @@ Subsecs. (g), (h). Pub. L. 114–94, §5202(2), added subsecs. (g) and (h).
 
 <b>2005</b>—Subsec. (a)(3). Pub. L. 109–59 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the physical condition of operators of commercial motor vehicles is adequate to enable them to operate the vehicles safely; and".
 
-<b>1998</b>—Subsec. (e). Pub. L. 105–178 amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) consisted of pars. (1) to (3) relating to waivers.
+<b>1998</b>—Subsec. (e). Pub. L. 105–178 amended heading and text of subsec. (e) generally. Prior to amendment,subsec. (e) consisted of pars. (1) to (3) relating to waivers.
 
 <b>1996</b>—Subsec. (e)(2)(A), (J), (3). Pub. L. 104–287 substituted "November 28, 1995" for "the date of the enactment of this paragraph".
 
@@ -258,7 +258,7 @@ Rulemaking.—The Secretary of Transportation shall amend section 390.23(a)(1)(i
 
 "(d)
 
-Savings Provision.—Nothing in this section may be construed to modify the authority granted to the Federal Motor Carrier Safety Administration's Field Administrator under section 390.23(a) of title 49, Code of Federal Regulations, to offer temporary exemptions from parts 390 through 399 of such title.
+Savings Provision.—Nothing in this section may be construed to modify the authority granted to the Federal Motor Carrier Safety Administration's Field Administrator under section 390.23(a) of title 49, Code ofFederal Regulations, to offer temporary exemptions from parts 390 through 399 of such title.
 
 #### "SEC. 3. ENERGY INFORMATION ADMINISTRATION NOTIFICATION REQUIREMENT.
 
@@ -808,7 +808,7 @@ Propane or pipeline emergency.—A regulation prescribed under section 31136 or 
 
 &emsp;"(2)
 
-Definition.—An emergency condition requiring immediate response is any condition that, if left unattended, is reasonably likely to result in immediate serious bodily harm, death, or substantial damage to property. In the case of propane such conditions shall include (but are not limited to) the detection of gas odor, the activation of carbon monoxide alarms, thedetection of carbon monoxide poisoning, and any real or suspected damage to a propane gas system following a severe storm or flooding. An 'emergency condition requiring an immediate response' does not include requests to re-fill empty gas tanks. In the case of pipelines such conditions include (but are not limited to) indication of an abnormal pressure event, leak, release or rupture."
+Definition.—An emergency condition requiring immediate response is any condition that, if left unattended, is reasonably likely to result in immediate serious bodily harm, death, or substantial damage to property. In the case of propane such conditions shall include (but are not limited to) the detection of gas odor, the activation of carbon monoxide alarms, the detection of carbon monoxide poisoning, and any real or suspected damage to a propane gas system following a severe storm or flooding. An 'emergency condition requiring an immediate response' does not include requests to re-fill empty gas tanks. In the case of pipelines such conditions include (but are not limited to) indication of an abnormal pressure event, leak, release or rupture."
 
 #### Protection of Existing Exemptions
 

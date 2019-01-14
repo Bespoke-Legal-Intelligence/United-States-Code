@@ -74,7 +74,7 @@ The Secretary may undertake a program for the purpose of conducting projects to 
 
 #### (B) Criteria
 
-&emsp;&emsp;The criteria referred to in subparagraph (A)(i) shall include, as a priority, the extent to which the appropriate State government supports the project.
+&emsp;&emsp;The criteria referred to in subparagraph (A)(i) shall include, as a priority, the extentto which the appropriate State government supports the project.
 
 #### (e) Priority areas
 

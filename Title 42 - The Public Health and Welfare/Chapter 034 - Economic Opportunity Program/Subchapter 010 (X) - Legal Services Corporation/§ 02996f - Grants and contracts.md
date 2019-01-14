@@ -74,7 +74,7 @@ No funds made available by the Corporation under this subchapter, either by gran
 
 &emsp;(9) to provide legal assistance with respect to any proceeding or litigation relating to the desegregation of any elementary or secondary school or school system, except that nothing in this paragraph shall prohibit the provision of legal advice to an eligible client with respect to such client's legal rights and responsibilities;
 
-&emsp;(10) to provide legal assistance with respect to any proceeding or litigation arising out of a violation of the Military Selective Service Act \[50 U.S.C. 3801 et seq.\] or of desertion from the Armed Forces of the United States, except that legal assistance may be provided to an eligible client in a civil action in which such client alleges that he was improperly classified prior to July 1, 1973, under the Military Selective Service Act or prior corresponding law; or
+&emsp;(10) to provide legal assistance with respect to any proceeding or litigation arising out of a violation of the Military Selective Service Act \[50 U.S.C. 3801 et seq.\] or of desertion from the Armed Forces of the United States, exceptthat legal assistance may be provided to an eligible client in a civil action in which such client alleges that he was improperly classified prior to July 1, 1973, under the Military Selective Service Act or prior corresponding law; or
 
 &emsp;(11) to provide legal assistance in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 \[42 U.S.C. 14401 et seq.\].
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal
 
 Amendment by sections 7(b), 9(a), (b)(1), (c), 10, 12, and 13 of Pub. L. 95–222 effective Dec. 28, 1977, see section 17(b) of Pub. L. 95–222, set out as a note under section 2996 of this title.
 
-Pub. L. 95–222, §17(a)(1), Dec. 28, 1977, 91 Stat. 1624, provided that: "The amendment made by section 11 of this Act \[amending this section\] shall be effective sixmonths after the first day of the first calendar month following the date of enactment of this Act \[Dec. 28, 1977\]."
+Pub. L. 95–222, §17(a)(1), Dec. 28, 1977, 91 Stat. 1624, provided that: "The amendment made by section 11 of this Act \[amending this section\] shall be effective six months after the first day of the first calendar month following the date of enactment of this Act \[Dec. 28, 1977\]."
 
 #### Implementation of System for Competitive Award of Grants and Contracts
 

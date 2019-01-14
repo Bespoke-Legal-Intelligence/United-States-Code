@@ -14,7 +14,7 @@ A vacancy on the Board shall not impair the right of the remaining members to ex
 
 #### (d) Holding other Government offices or positions; compensation
 
-The members of the Board, other than the Chairperson, may not hold another office or position in the Government except as authorized by law, and shall receive compensation at the daily equivalent of the rate payable for level V of the Executive Schedule under section 5316 of title 5 for each day they are performing their duties (including traveltime).
+The members of the Board, other than the Chairperson, may not hold another office or position in the Government except as authorized by law, and shall receive compensation at thedaily equivalent of the rate payable for level V of the Executive Schedule under section 5316 of title 5 for each day they are performing their duties (including traveltime).
 
 #### (e) Removal of members
 

@@ -10,6 +10,10 @@ R.S. §202 derived from acts July 27, 1789, ch. 4, §1, 1 Stat. 28; Sept. 15, 17
 
 Section was formerly classified to section 156 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
+#### Construction
+
+Pub. L. 115–409, §412, Dec. 31, 2018, 132 Stat. 5411, provided that: "Nothing in this Act \[see Short Title of 2018 Amendment note set out under section 2651 of this title\] may be construed as authorizing the use of military force."
+
 #### Delegation of Functions
 
 Functions of President respecting certain facilities constructed and maintained on United States borders delegated to Secretary of State, see Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, set out as a note under section 301 of Title 3, The President.
@@ -17,6 +21,284 @@ Functions of President respecting certain facilities constructed and maintained 
 #### Presidential Directive
 
 National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, §102, 61 Stat. 497, formerly set out as section 403 of Title 50, War and National Defense. See Prior Provisions note under section 3023 of Title 50.
+
+#### Genocide and Atrocities Prevention
+
+Pub. L. 115–441, §§3, 6, 7, Jan. 14, 2019, 132 Stat. 5586, 5588, 5589, provided that:
+
+#### "SEC. 3. STATEMENT OF POLICY.
+
+"It shall be the policy of the United States to—
+
+&emsp;"(1) regard the prevention of atrocities as in its national interest;
+
+&emsp;"(2) work with partners and allies, including to build their capacity, and enhance the capacity of the United States, to identify, prevent, and respond to the causes of atrocities, including insecurity, mass displacement, violent conflict, and other conditions that may lead to such atrocities; and
+
+&emsp;"(3) pursue a United States Government-wide strategy to identify, prevent, and respond to the risk of atrocities by—
+
+&emsp;&emsp;"(A) strengthening the diplomatic, risk analysis and monitoring, strategic planning, early warning, and response capacities of the Government;
+
+&emsp;&emsp;"(B) improving the use of foreign assistance to respond early, effectively, and urgently in order to address the causes of atrocities;
+
+&emsp;&emsp;"(C) strengthening diplomatic response and the effective use of foreign assistance to support appropriate transitional justice measures, including criminal accountability, for past atrocities;
+
+&emsp;&emsp;"(D) supporting and strengthening local civil society, including human rights defenders and others working to help prevent and respond to atrocities;
+
+&emsp;&emsp;"(E) promoting financial transparency and enhancing anti-corruption initiatives as part of addressing causes of conditions that may lead to atrocities; and
+
+&emsp;&emsp;"(F) employing a variety of unilateral, bilateral, and multilateral means to prevent and respond to atrocities by—
+
+&emsp;&emsp;&emsp;"(i) placing a high priority on timely, preventive diplomatic efforts; and
+
+&emsp;&emsp;&emsp;"(ii) exercising leadership in promoting international efforts to prevent atrocities.
+
+#### "SEC. 6. DEFINITIONS.
+
+"In this Act \[see Short Title of 2019 Amendment note set out under section 2651 of this title\]—
+
+&emsp;"(1) the term 'genocide' means an offense under subsection (a) of section 1091 of title 18, United States Code;
+
+&emsp;"(2) the term 'atrocities' means war crimes, crimes against humanity, and genocide;
+
+&emsp;"(3) the term 'transitional justice' means the range of judicial, nonjudicial, formal, informal, retributive, and restorative measures employed by countries transitioning out of armed conflict or repressive regimes to redress legacies of atrocities and to promote long-term, sustainable peace; and
+
+&emsp;"(4) the term 'war crime' has the meaning given the term in section 2441(c) of title 18, United States Code.
+
+#### "SEC. 7. RULE OF CONSTRUCTION.
+
+"Nothing in this Act shall be construed as authorizing the use of military force."
+
+#### United States Policy and Diplomatic Strategy in the Indo-Pacific Region
+
+Pub. L. 115–409, title I, Dec. 31, 2018, 132 Stat. 5389, provided that:
+
+#### "SEC. 101. POLICY.
+
+"It is the policy of the United States to develop and commit to a long-term strategic vision and a comprehensive, multifaceted, and principled United States policy for the Indo-Pacific region that—
+
+&emsp;"(1) secures the vital national security interests of the United States and our allies and partners;
+
+&emsp;"(2) promotes American prosperity and economic interests by advancing economic growth and development of a rules-based Indo-Pacific economic community;
+
+&emsp;"(3) advances American influence by reflecting the values of the American people and universal human rights;
+
+&emsp;"(4) supports functional problem-solving regional architecture; and
+
+&emsp;"(5) accords with and supports the rule of law and international norms.
+
+#### "SEC. 102. DIPLOMATIC STRATEGY.
+
+"It is the diplomatic strategy of the United States—
+
+&emsp;"(1) to work with United States allies—
+
+&emsp;&emsp;"(A) to confront common challenges;
+
+&emsp;&emsp;"(B) to improve information sharing;
+
+&emsp;&emsp;"(C) to increase defense investment and trade;
+
+&emsp;&emsp;"(D) to ensure interoperability; and
+
+&emsp;&emsp;"(E) to strengthen shared capabilities;
+
+&emsp;"(2) to strengthen relationships with partners who—
+
+&emsp;&emsp;"(A) share mutual respect for the rule of law;
+
+&emsp;&emsp;"(B) agree with fair and reciprocal trade; and
+
+&emsp;&emsp;"(C) understand the importance of civil society, the rule of law, the free and reliable flow of information, and transparent governance;
+
+&emsp;"(3) to support functional problem-solving regional architecture, including through the Association of Southeast Asian Nations, Asia-Pacific Economic Cooperation, and the East Asia Summit;
+
+&emsp;"(4) to emphasize the commitment of the United States—
+
+&emsp;&emsp;"(A) to freedom of navigation under international law;
+
+&emsp;&emsp;"(B) to promote peaceful resolutions of maritime and territorial disputes; and
+
+&emsp;&emsp;"(C) to expand security and defense cooperation with allies and partners, as appropriate;
+
+&emsp;"(5) to pursue diplomatic measures to achieve complete, verifiable, and irreversible denuclearization of North Korea;
+
+&emsp;"(6) to improve civil society, strengthen the rule of law, and advocate for transparent governance;
+
+&emsp;"(7) to develop and grow the economy through private sector partnerships between the United States and Indo-Pacific partners;
+
+&emsp;"(8) to pursue multilateral and bilateral trade agreements in a free, fair, and reciprocal manner and build a network of partners in the Indo-Pacific committed to free markets;
+
+&emsp;"(9) to work with and encourage Indo-Pacific countries—
+
+&emsp;&emsp;"(A) to pursue high-quality and transparent infrastructure projects;
+
+&emsp;&emsp;"(B) to maintain unimpeded commerce, open sea lines or air ways, and communication; and
+
+&emsp;&emsp;"(C) to seek the peaceful resolution of disputes; and
+
+&emsp;"(10) to sustain a strong military presence in the Indo-Pacific region and strengthen security relationships with allies and partners throughout the region."
+
+\[Nothing in title I of Pub. L. 115–409, set out above, to be construed as authorizing the use of military force, see section 412 of Pub. L. 115–409, set out as a note above.\]
+
+#### Iraq and Syria Genocide Relief and Accountability
+
+Pub. L. 115–300, Dec. 11, 2018, 132 Stat. 4390, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Iraq and Syria Genocide Relief and Accountability Act of 2018'.
+
+#### "SEC. 2. FINDINGS.
+
+"Congress finds the following:
+
+&emsp;"(1) The Secretary of State of State \[sic\] declared on March 17, 2016, and on August 15, 2017, that Daesh (also known as the Islamic State of Iraq and Syria or ISIS) is responsible for genocide, crimes against humanity, and other atrocity crimes against religious and ethnic minority groups in Iraq and Syria, including Christians, Yezidis, and Shia, among other religious and ethnic groups.
+
+&emsp;"(2) According to the Department of State's annual reports on international religious freedom—
+
+&emsp;&emsp;"(A) the number of Christians living in Iraq has dropped from an estimated 800,000 to 1,400,000 in 2002 to fewer than 250,000 in 2017; and
+
+&emsp;&emsp;"(B) the number of Yezidis living in Iraq has fluctuated from 500,000 in 2013, to between 350,000 and 400,000 in 2016, and between 600,000 and 750,000 in 2017.
+
+&emsp;"(3) The annual reports on international religious freedom further suggest that—
+
+&emsp;&emsp;"(A) Christian communities living in Syria, which had accounted for between 8 and 10 percent of Syria's total population in 2010, are now 'considerably' smaller as a result of the civil war, and
+
+&emsp;&emsp;"(B) there was a population of approximately 80,000 Yezidis before the commencement of the conflict in Syria.
+
+&emsp;"(4) Local communities and entities have sought to mitigate the impact of violence directed against religious and ethnic minorities in Iraq and Syria, including the Chaldean Catholic Archdiocese of Erbil (Kurdistan Region of Iraq), which has used predominantly private funds to provide assistance to internally displaced Christians, Yezidis, and Muslims throughout the greater Erbil region, while significant needs and diminishing resources have made it increasingly difficult to continue these efforts.
+
+#### "SEC. 3. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Foreign Relations of the Senate;
+
+&emsp;&emsp;"(B) the Committee on the Judiciary of the Senate;
+
+&emsp;&emsp;"(C) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+&emsp;&emsp;"(D) the Committee on Appropriations of the Senate;
+
+&emsp;&emsp;"(E) the Select Committee on Intelligence of the Senate;
+
+&emsp;&emsp;"(F) the Committee on Foreign Affairs of the House of Representatives;
+
+&emsp;&emsp;"(G) the Committee on the Judiciary of the House of Representatives;
+
+&emsp;&emsp;"(H) the Committee on Homeland Security of the House of Representatives;
+
+&emsp;&emsp;"(I) the Committee on Appropriations of the House of Representatives; and
+
+&emsp;&emsp;"(J) the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;"(2)
+
+Foreign terrorist organization.—The term 'foreign terrorist organization' mean an organization designated by the Secretary of State as a foreign terrorist organization pursuant to section 219(a) of the Immigration and Nationality Act (8 U.S.C. 1189(a)).
+
+&emsp;"(3)
+
+Humanitarian, stabilization, and recovery needs.—The term 'humanitarian, stabilization, and recovery needs', with respect to an individual, includes water, sanitation, hygiene, food security and nutrition, shelter and housing, reconstruction, medical, education, psychosocial needs, and other assistance to address basic human needs, including stabilization assistance (as defined by the Stabilization Assistance Review in 'A Framework for Maximizing the Effectiveness of U.S. Government Efforts to Stabilize Conflict-Affected Areas, 2018\['\]).
+
+&emsp;"(4)
+
+Hybrid court.—The term 'hybrid court' means a court with a combination of domestic and international lawyers, judges, and personnel.
+
+&emsp;"(5)
+
+Internationalized domestic court.—The term 'internationalized domestic court' means a domestic court with the support of international advisers.
+
+#### "SEC. 4. STATEMENT OF POLICY.
+
+"It is the policy of the United States to ensure that assistance for humanitarian, stabilization, and recovery needs of individuals who are or were nationals and residents of Iraq or Syria, and of communities in and from those countries, is directed toward those individuals and communities with the greatest need, including those individuals from communities of religious and ethnic minorities, and communities of religious and ethnic minorities, that the Secretary of State declared were targeted for genocide, crimes against humanity, or war crimes, and have been identified as being at risk of persecution, forced migration, genocide, crimes against humanity, or war crimes.
+
+#### "SEC. 5. ACTIONS TO PROMOTE ACCOUNTABILITY IN IRAQ FOR GENOCIDE, CRIMES AGAINST HUMANITY, AND WAR CRIMES.
+
+"(a)
+
+Assistance.—The Secretary of State and the Administrator of the United States Agency for International Development are authorized to provide assistance, including financial and technical assistance, as necessary and appropriate, to support the efforts of entities, including nongovernmental organizations with expertise in international criminal investigations and law, to address genocide, crimes against humanity, or war crimes, and their constituent crimes by ISIS in Iraq by—
+
+&emsp;"(1) conducting criminal investigations;
+
+&emsp;"(2) developing indigenous investigative and judicial skills, including by partnering, directly mentoring, and providing necessary equipment and infrastructure to effectively adjudicating cases consistent with due process and respect for the rule of law; and
+
+&emsp;"(3) collecting and preserving evidence and the chain of evidence, including for use in prosecutions in domestic courts, hybrid courts, and internationalized domestic courts, consistent with the activities described in subsection (b).
+
+"(b)
+
+Actions by Foreign Governments.—The Secretary of State, in consultation with the Attorney General, the Secretary of Homeland Security, the Director of National Intelligence, and the Director of the Federal Bureau of Investigation, shall encourage governments of foreign countries—
+
+&emsp;"(1) to include information in appropriate security databases and security screening procedures of such countries to identify suspected ISIS members for whom credible evidence exists of having committed genocide, crimes against humanity, or war crimes, and their constituent crimes, in Iraq; and
+
+&emsp;"(2) to apprehend and prosecute such ISIS members for genocide, crimes against humanity, or war crimes, as appropriate.
+
+"(c)
+
+Consultation.—In carrying out subsection (a), the Secretary of State shall consult with and consider credible information from entities described in such subsection.
+
+#### "SEC. 6. IDENTIFICATION OF AND ASSISTANCE TO ADDRESS HUMANITARIAN, STABILIZATION, AND RECOVERY NEEDS OF CERTAIN PERSONS IN IRAQ AND SYRIA.
+
+"(a)
+
+Identification.—The Secretary of State, in consultation with the Secretary of Defense, the Administrator of the United States Agency for International Development, and Director of National Intelligence, shall seek to identify—
+
+&emsp;"(1) threats of persecution and other early-warning indicators of genocide, crimes against humanity, and war crimes against individuals who are or were nationals and residents of Iraq or Syria, are members of religious or ethnic minority groups in such countries, and against whom the Secretary of State has determined ISIS has committed genocide, crimes against humanity, or war crimes;
+
+&emsp;"(2) the religious and ethnic minority groups in Iraq or Syria identified pursuant to paragraph (1) that are at risk of forced migration, within or across the borders of Iraq, Syria, or a country of first asylum, and the primary reasons for such risk;
+
+&emsp;"(3)(A) the humanitarian, stabilization, and recovery needs of individuals described in paragraphs (1) and (2), including the assistance provided by the United States and by the United Nations, respectively—
+
+&emsp;&emsp;"(i) to address the humanitarian, stabilization, and recovery needs of such individuals; and
+
+&emsp;&emsp;"(ii) to mitigate the risks of forced migration of such individuals; and
+
+&emsp;"(B) assistance provided through the Funding Facility for Immediate Stabilization and Funding Facility for Expanded Stabilization; and
+
+&emsp;"(4) to the extent practicable and appropriate—
+
+&emsp;&emsp;"(A) the entities, including faith-based entities, that are providing assistance to address the humanitarian, stabilization, and recovery needs of individuals described in paragraphs (1) and (2); and
+
+&emsp;&emsp;"(B) the extent to which the United States is providing assistance to or through the entities referred to in subparagraph (A).
+
+"(b)
+
+Additional Consultation.—In carrying out subsection (a), the Secretary of State shall consult with, and consider credible information from—
+
+&emsp;"(1) individuals described in paragraphs (1) and (2) of such subsection; and
+
+&emsp;"(2) the entities described in paragraph (4)(A) of such subsection.
+
+"(c)
+
+Assistance.—The Secretary of State and the Administrator of the United States Agency for International Development are authorized to provide assistance, including financial and technical assistance as necessary and appropriate, to support the entities described in subsection (a)(4)(A).
+
+#### "SEC. 7. REPORT.
+
+"(a)
+
+Implementation Report.—Not later than 90 days after the date of the enactment of this Act \[Dec. 11, 2018\], the Secretary of State shall submit a report to the appropriate congressional committees that includes—
+
+&emsp;"(1) a detailed description of the efforts taken, and efforts proposed to be taken, to implement the provisions of this Act;
+
+&emsp;"(2) an assessment of—
+
+&emsp;&emsp;"(A) the feasibility and advisability of prosecuting ISIS members for whom credible evidence exists of having committed genocide, crimes against humanity, or war crimes in Iraq, including in domestic courts in Iraq, hybrid courts, and internationalized domestic courts; and
+
+&emsp;&emsp;"(B) the measures needed—
+
+&emsp;&emsp;&emsp;"(i) to ensure effective criminal investigations of such individuals; and
+
+&emsp;&emsp;&emsp;"(ii) to effectively collect and preserve evidence, and preserve the chain of evidence, for prosecution; and
+
+&emsp;"(3) recommendations for legislative remedies and administrative actions to facilitate the implementation of this Act.
+
+"(b)
+
+Form.—The report required under subsection (a) shall be submitted in unclassified form, but may contain a classified annex, if necessary."
 
 #### Human Rights Sanctions
 
@@ -50,7 +332,7 @@ United states person.—The term 'United States person' has the meaning given th
 
 "(a)
 
-In General.—The President may impose the sanctions described in subsection (b) with respect to any foreign person the President determines, based on credible evidence—
+In General.—The President may impose the sanctions described in subsection (b) with respect toany foreign person the President determines, based on credible evidence—
 
 &emsp;"(1) is responsible for extrajudicial killings, torture, or other gross violations of internationally recognized human rights committed against individuals in any foreign country who seek—
 
@@ -60,7 +342,7 @@ In General.—The President may impose the sanctions described in subsection (b)
 
 &emsp;"(2) acted as an agent of or on behalf of a foreign person in a matter relating to an activity described in paragraph (1);
 
-&emsp;"(3) is a government official, or a senior associate of such an official, that is responsible for, or complicit in, ordering, controlling, or otherwise directing, acts of significant corruption, including the expropriation of private or public assets for personalgain, corruption related to government contracts or the extraction of natural resources, bribery, or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; or
+&emsp;"(3) is a government official, or a senior associate of such an official, that is responsible for, or complicit in, ordering, controlling, or otherwise directing, acts of significant corruption, including the expropriation of private or public assets for personal gain, corruption related to government contracts or the extraction of natural resources, bribery, or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; or
 
 &emsp;"(4) has materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, an activity described in paragraph (3).
 
@@ -98,7 +380,7 @@ In general.—The authority to block and prohibit all transactions in all proper
 
 &emsp;&emsp;&emsp;"(ii)
 
-Good.—In this subparagraph, the term 'good' has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. 4618) (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
+Good.—In this subparagraph, the term 'good' has the meaning given that term in \[former\] section 16 of the Export Administration Act of 1979 (\[former\] 50 U.S.C. 4618) (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
 "(c)
 
@@ -274,7 +556,7 @@ Continuation in Effect of Sanctions.—Sanctions imposed under this subtitle on 
 
 #### Global Engagement Center
 
-Pub. L. 114–328, div. A, title XII, §1287, Dec. 23, 2016, 130 Stat. 2546, provided that:
+Pub. L. 114–328, div. A, title XII, §1287, Dec. 23, 2016, 130 Stat. 2546, as amended by Pub. L. 115–232, div. A, title XII, §1284, Aug. 13, 2018, 132 Stat. 2076, provided that:
 
 "(a)
 
@@ -286,31 +568,33 @@ In general.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;"(2)
 
-Purpose.—The purpose of the Center shall be to lead, synchronize, and coordinate efforts of the Federal Government to recognize, understand, expose, and counter foreign state and non-state propaganda and disinformation efforts aimed at undermining United States national security interests.
+Purpose.—The purpose of the Center shall be to direct, lead, synchronize, integrate, and coordinate efforts of the Federal Government to recognize, understand, expose, and counter foreign state and foreign non-state propaganda and disinformation efforts aimed at undermining or influencing the policies, security, or stability of the United States and United States allies and partner nations.
 
 "(b)
 
 Functions.—The Center shall carry out the following functions:
 
-&emsp;"(1) Integrate interagency and international efforts to track and evaluate counterfactual narratives abroad that threaten the national security interests of the United States and United States allies and partner nations.
+&emsp;"(1) Direct, lead, synchronize, integrate, and coordinate interagency and international efforts to track and evaluate counterfactual narratives abroad that threaten the policies, security, or stability of the United States and United States allies and partner nations.
 
 &emsp;"(2) Analyze relevant information, data, analysis, and analytics from United States Government agencies, United States allies and partner nations, think tanks, academic institutions, civil society groups, and other nongovernmental organizations.
 
 &emsp;"(3) As needed, support the development and dissemination of fact-based narratives and analysis to counter propaganda and disinformation directed at the United States and United States allies and partner nations.
 
-&emsp;"(4) Identify current and emerging trends in foreign propaganda and disinformation in order to coordinate and shape the development of tactics, techniques, and procedures to expose and refute foreign misinformation and disinformation and proactively promote fact-based narratives and policies to audiences outside the United States.
+&emsp;"(4) Identify current and emerging trends in foreign propaganda and disinformation in order to coordinate and shape the development of tactics, techniques, and procedures to expose and refute foreign propaganda and disinformation, and pro-actively support the promotion of credible, fact-based narratives and policies to audiences outside the United States.
 
 &emsp;"(5) Facilitate the use of a wide range of technologies and techniques by sharing expertise among Federal departments and agencies, seeking expertise from external sources, and implementing best practices.
 
-&emsp;"(6) Identify gaps in United States capabilities in areas relevant to the purpose of the Center and recommend necessary enhancements or changes.
+&emsp;"(6) Measure and evaluate the activities of the Center, including the outcomes of such activities, and implement mechanisms to ensure that the activities of the Center are updated to reflect the results of such measurement and evaluation.
 
-&emsp;"(7) Identify the countries and populations most susceptible to propaganda and disinformation based on information provided by appropriate interagency entities.
+&emsp;"(7) Identify gaps in United States capabilities in areas relevant to the purpose of the Center and recommend necessary enhancements or changes.
 
-&emsp;"(8) Administer the information access fund established pursuant to subsection (f).
+&emsp;"(8) Use information from appropriate interagency entities to identify the countries, geographic areas, and populations most susceptible to propaganda and disinformation, as well as the countries, geographic areas, and populations in which such propaganda and disinformation is likely to cause the most harm.
 
-&emsp;"(9) Coordinate with United States allies and partner nations in order to amplify the Center's efforts and avoid duplication.
+&emsp;"(9) Administer the information access fund established pursuant to subsection (f).
 
-&emsp;"(10) Maintain, collect, use, and disseminate records (as such term is defined in section 552a(a)(4)of title 5, United States Code) for research and data analysis of foreign state and non-state propaganda and disinformation efforts and communications related to public diplomacy efforts intended for foreign audiences. Such research and data analysis shall be reasonably tailored to meet the purposes of this paragraph and shall be carried out with due regard for privacy and civil liberties guidance and oversight.
+&emsp;"(10) Coordinate with United States allies and partner nations in order to amplify the Center's efforts and avoid duplication.
+
+&emsp;"(11) Maintain, collect, use, and disseminate records (as such term is defined in section 552a(a)(4) of title 5, United States Code) for research and data analysis of foreign state and non-state propaganda and disinformation efforts and communications related to public diplomacy efforts intended for foreign audiences. Such research and data analysis shall be reasonably tailored to meet the purposes of this paragraph and shall be carried out with due regard for privacy and civil liberties guidance and oversight.
 
 "(c)
 
@@ -330,13 +614,13 @@ Employees of the Center.—
 
 &emsp;"(1)
 
-Detailees.—Any Federal Government employee may be detailed to the Center without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege for a period of not more than 3 years.
+Detailees and assignees.—Any Federal Government employee may be detailed or assigned to the Center with or without reimbursement, consistent with applicable laws and regulations regarding such employee, and such detail or assignment shall be without interruption or loss of status or privilege.
 
 &emsp;"(2)
 
-Personal service contractors.—The Secretary of State may hire United States citizens or aliens as personal services contractors for purposes of personnel resources of the Center, if—
+Temporary personnel.—The Secretary of State should, when hiring temporary United States citizen personnel, preference the use of Foreign Service limited appointments both in the United States and abroad in accordance with section 309 of the Foreign Service Act of 1980 (22 U.S.C. 3949). The Secretary may hire United States citizens or aliens, as appropriate, including as personal services contractors, for purposes of personnel resources of the Center, if—
 
-&emsp;&emsp;"(A) the Secretary determines that existing personnel resources are insufficient;
+&emsp;&emsp;"(A) the Secretary determines that existing personnel resources or expertise are insufficient;
 
 &emsp;&emsp;"(B) the period in which services are provided by a personal services contractor, including options, does not exceed 3 years, unless the Secretary determines that exceptional circumstances justify an extension of up to one additional year;
 
@@ -350,15 +634,11 @@ Transfer of Amounts Authorized.—
 
 &emsp;"(1)
 
-In general.—If amounts authorized to be appropriated or otherwise made available to carry out the functions of the Center—
-
-&emsp;&emsp;"(A) for fiscal year 2017 are less than $80,000,000, the Secretary of Defense is authorized to transfer, from amounts authorized to be appropriated by this Act \[see Tables for classification\] for the Department of Defense for fiscal year 2017, to the Secretary of State an amount, not to exceed $60,000,000, to be available to carry out the functions of the Center for fiscal year 2017; and
-
-&emsp;&emsp;"(B) for fiscal year 2018 are less than $80,000,000, the Secretary of Defense is authorized to transfer, from amounts authorized to be appropriated by an Act authorizing funds for the Department of Defense for fiscal year 2018, to the Secretary of State an amount, not to exceed $60,000,000, to be available to carry out the functions of the Center for fiscal year 2018.
+In general.—For each of fiscal years 2019 and 2020, the Secretary of Defense is authorized to transfer, from amounts appropriated to the Secretary pursuant to the authorization under this Act \[see Tables for classification\], to the Secretary of State not more than $60,000,000, to carry out the functions of the Center.
 
 &emsp;"(2)
 
-Notice requirement.—The Secretary of Defense shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of a proposed transfer under paragraph (1) not less than 15 days prior to making such transfer.
+Notice requirement.—The Secretary of Defense shall notify the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate and the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform of the House of Representatives of a proposed transfer under paragraph (1) not less than 15 days prior to making such transfer.
 
 &emsp;"(3)
 
@@ -372,17 +652,17 @@ Information Access Fund.—
 
 Authority for grants.—The Center is authorized to provide grants or contracts of financial support to civil society groups, media content providers, nongovernmental organizations, federally funded research and development centers, private companies, or academic institutions for the following purposes:
 
-&emsp;&emsp;"(A) To support local independent media who are best placed to refute foreign disinformation and manipulation in their own communities.
+&emsp;&emsp;"(A) To support local entities and linkages among such entities, including independent media entities, that are best positioned to refute foreign propaganda and disinformation in affected communities.
 
-&emsp;&emsp;"(B) To collect and store examples in print, online, and social media, disinformation, misinformation, and propaganda directed at the United States and its allies and partners.
+&emsp;&emsp;"(B) To collect and store examples of print, online, and social media disinformation and propaganda directed at the United States or United States allies and partner nations.
 
-&emsp;&emsp;"(C) To analyze and report on tactics, techniques, and procedures of foreign information warfare with respect to disinformation, misinformation, and propaganda.
+&emsp;&emsp;"(C) To analyze and report on tactics, techniques, and procedures of foreign information warfare and other efforts with respect to disinformation and propaganda.
 
-&emsp;&emsp;"(D) To support efforts by the Center to counter efforts by foreign entities to use disinformation, misinformation, and propaganda to influence the policies and social and political stability of the United States and United States allies and partner nations.
+&emsp;&emsp;"(D) To support efforts by the Center to counter efforts by foreign entities to use disinformation and propaganda to undermine or influence the policies, security, and social and political stability of the United States and United States allies and partner nations.
 
 &emsp;"(2)
 
-Funding availability and limitations.—The Secretary of State shall provide that each organization that applies to receive funds under this subsection is selected in accordance with the relevant existing regulations to ensure its bona fides, capability, and experience, and its compatibility with United States interests and objectives.
+Funding availability and limitations.—The Secretary of State shall provide that each entity that receives funds under this subsection is selected in accordance with the relevant existing regulations through a process that ensures such entity has the credibility and capability to carry out effectively and in accordance with United States interests and objectives the purposes specified in paragraph (1) for which such entity received such funding.
 
 "(g)
 
@@ -402,9 +682,13 @@ Definition.—In this subsection, the term 'appropriate congressional committees
 
 "(h)
 
-Limitation.—None of the funds authorized to be appropriated or otherwise made available to carry out this section shall be used for purposes other than countering foreign propaganda and misinformation that threatens United States national security.
+Congressional Briefings.—The Secretary of State, together with the heads of other relevant Federal departments and agencies, shall provide a briefing to the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate and the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform of the House of Representatives not less often than annually regarding the activities of the Global Engagement Center. The briefings required under this subsection shall terminate on the date specified in subsection (j).
 
 "(i)
+
+Limitation.—None of the funds authorized to be appropriated or otherwise made available to carry out this section shall be used for purposes other than countering foreign propaganda and misinformation that threatens United States national security.
+
+"(j)
 
 Termination.—The Center shall terminate on the date that is 8 years after the date of the enactment of this Act \[Dec. 23, 2016\]."
 
@@ -488,7 +772,7 @@ Findings.—Consistent with the report of the National Commission on Terrorist A
 
 &emsp;"(1) Almost every aspect of the counterterrorism strategy of the United States relies on international cooperation.
 
-&emsp;"(2) Since September 11, 2001, the number and scope of United States Government contacts with foreign governments concerning counterterrorism have expanded significantly, but such contacts have often been ad hoc and not integrated as a comprehensive and unified approach to counterterrorism.
+&emsp;"(2) Since September 11, 2001, the number and scope of United States Government contacts with foreigngovernments concerning counterterrorism have expanded significantly, but such contacts have often been ad hoc and not integrated as a comprehensive and unified approach to counterterrorism.
 
 "(b)
 
@@ -512,7 +796,7 @@ Authority.—The President is authorized to establish an international counterte
 
 &emsp;&emsp;"(A) To meet annually, or more frequently as the President determines appropriate, to develop in common with such other governments important policies and a strategy that address the various components of international prosecution of the war on terrorism, including policies and a strategy that address military issues, law enforcement, the collection, analysis, and dissemination of intelligence, issues relating to interdiction of travel by terrorists, counterterrorism-related customs issues, financial issues, and issues relating to terrorist sanctuaries.
 
-&emsp;&emsp;"(B) To address, to the extent (if any) that the President and leaders of other participating governments determine appropriate, long-term issues thatcan contribute to strengthening stability and security in the Middle East."
+&emsp;&emsp;"(B) To address, to the extent (if any) that the President and leaders of other participating governments determine appropriate, long-term issues that can contribute to strengthening stability and security in the Middle East."
 
 #### International Agreements To Track and Curtail Terrorist Travel Through the Use of Fraudulently Obtained Documents
 
@@ -656,7 +940,7 @@ Availability.—Amounts appropriated pursuant to the authorization of appropriat
 
 "(a)
 
-OPIC.—The President should initiate negotiations with the Government of East Timor to enter into a new agreement authorizing the Overseas Private Investment Corporation to carry out programs with respect to East Timor in order to expand United States investment in East Timor, emphasizing partnerships with local East Timorese enterprises.
+OPIC.—The President should initiate negotiations with the Government of East Timor to enter into a new agreement authorizing the Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\] to carry out programs with respect to East Timor in order to expand United States investment in East Timor, emphasizing partnerships with local East Timorese enterprises.
 
 "(b)
 
@@ -718,7 +1002,7 @@ Authorization of Assistance.—
 
 In general.—Beginning on the date on which Congress receives the report transmitted under subsection (a)(2), or the date on which Congress receives the certification transmitted under paragraph (2), whichever occurs later, the President is authorized—
 
-&emsp;&emsp;"(A) to transfer excess defense articles under section 516 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321j) to East Timor in accordance with such section; and
+&emsp;&emsp;"(A) to transfer excess defense articles under section 516 of the Foreign Assistance Act of 1961 (22U.S.C. 2321j) to East Timor in accordance with such section; and
 
 &emsp;&emsp;"(B) to provide military education and training under chapter 5 of part II of such Act (22 U.S.C. 2347 et seq.) for the armed forces of East Timor in accordance with such chapter.
 
@@ -750,7 +1034,7 @@ Information.—The report required by subsection (a) shall include—
 
 &emsp;"(3) a description of the activities undertaken in East Timor by the International Bank for Reconstruction and Development, the Asian Development Bank, and other international financial institutions, and an evaluation of the effectiveness of these activities;
 
-&emsp;"(4) an assessment of the status of United States trade and investment relations with East Timor, including a detailed analysis of any trade and investment-related activity supported by the Overseas Private Investment Corporation, the Export-Import Bank of the United States, or the Trade and Development Agency during the period of time since the previous report;
+&emsp;"(4) an assessment of the status of United States trade and investment relations with East Timor, including a detailed analysis of any trade and investment-related activity supported by the Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\], the Export-Import Bank of the United States, or the Trade and Development Agency during the period of time since the previous report;
 
 &emsp;"(5) a comprehensive study and report on local agriculture in East Timor, emerging opportunities for producing, processing, and exporting indigenous agricultural products, and recommendations for appropriate technical assistance from the United States; and
 
@@ -928,7 +1212,7 @@ Specific Actions Urged.—To that end, the Congress urges the President—
 
 Establishment.—(1) None of the funds authorized to be appropriated by this Act for 'Diplomatic and Consular Programs' shall be available for obligation or expenditure during fiscal years 1994 and 1995 unless, not later than 90 days after the date of enactment of this Act \[Apr. 30, 1994\], the Secretary of State has established within the Department of State under the Assistant Secretary for East Asia and Pacific Affairs (or any successor Assistant Secretary) the Office of Cambodian Genocide Investigation (hereafter in this part referred to as the 'Office').
 
-"(2) The Office may carry out its activities inside or outside of Cambodia, except that not less than 75 percent of the funds made available for the Office and itsactivities shall be used to carry out activities within Cambodia.
+"(2) The Office may carry out its activities inside or outside of Cambodia, except that not less than 75 percent of the funds made available for the Office and its activities shall be used to carry out activities within Cambodia.
 
 "(b)
 
@@ -982,7 +1266,7 @@ Pub. L. 100–204, title I, §109, Dec. 22, 1987, 101 Stat. 1339, provided that:
 
 #### Consular and Diplomatic Posts Abroad
 
-Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary of State, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, prior to repeal by Pub. L. 102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655. See section 2720 of this title.
+Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary of State, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, prior to repeal by Pub. L.102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655. See section 2720 of this title.
 
 #### Closing of Diplomatic and Consular Posts in Antigua and Barbuda
 
@@ -1006,7 +1290,7 @@ Pub. L. 100–204, title VIII, §801, Dec. 22, 1987, 101 Stat. 1397, provided th
 
 #### Waiver of Provisions of Public Law 100–204 During Fiscal Years 1988 and 1989
 
-Pub. L. 100–202, §101(a) \[title III, §305\], Dec. 22, 1987, 101 Stat. 1329, 1329–23, provided that: "The following sections of H.R. 1777 (the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 \[Pub. L. 100–204\])are waived during Fiscal Years 1988 and 1989 in the event that H.R. 1777 is enacted into law: Sec. 122 \[set out above\], Sec. 151, and Sec. 204 \[22 U.S.C. 1461 note\]."
+Pub. L. 100–202, §101(a) \[title III, §305\], Dec. 22, 1987, 101 Stat. 1329, 1329–23, provided that: "The following sections of H.R. 1777 (the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 \[Pub. L. 100–204\]) are waived during Fiscal Years 1988 and 1989 in the event that H.R. 1777 is enacted into law: Sec. 122 \[set out above\], Sec. 151, and Sec. 204 \[22 U.S.C. 1461 note\]."
 
 #### Report to Congress on Soviet Breach of Duties Obligations to United States Diplomats or Missions
 
@@ -1070,7 +1354,7 @@ Pub. L. 98–164, title I, §134, Nov. 22, 1983, 97 Stat. 1029, provided that: "
 
 #### Reopening Certain United States Consulates
 
-Pub. L. 97–241, title I, §103(b), (c), Aug. 24, 1982, 96 Stat. 273, as amended by Pub. L. 98–164, title I, §137,Nov. 22, 1983, 97 Stat. 1030; Pub. L. 103–236, title I, §139(8), Apr. 30, 1994, 108 Stat. 398, provided that:
+Pub. L. 97–241, title I, §103(b), (c), Aug. 24, 1982, 96 Stat. 273, as amended by Pub. L. 98–164, title I, §137, Nov. 22, 1983, 97 Stat. 1030; Pub. L. 103–236, title I, §139(8), Apr. 30, 1994, 108 Stat. 398, provided that:
 
 "(b) None of the funds made available under this \[Pub. L. 97–241\] or any other Act for 'Administration of Foreign Affairs' may be used for the establishment or operation of any United States consulate that did not exist on the date of enactment of this Act \[Aug. 24, 1982\] (other than the consulates specified in subsection (c)) until all the United States consulates specified in subsection (c) have been reopened as required by section 108 of the Department of State Authorization Act, Fiscal Years 1980 and 1981 \[section 108 of Pub. L. 96–60, set out as a note below\], to the extent such reopening is authorized by the foreign government involved.
 
@@ -1078,11 +1362,7 @@ Pub. L. 97–241, title I, §103(b), (c), Aug. 24, 1982, 96 Stat. 273, as amende
 
 #### United States Consulates
 
-Pub. L. 96–60, title I, §108, Aug. 15, 1979, 93 Stat. 397, provided that:
-
-"(a) The following United States consulates shall not be closed or, if closed on the date of enactment of this Act \[Aug. 15, 1979\], shall be reopened as soon as possible after such date: Salzburg, Austria; Bremen, Germany; Nice, France; Turin, Italy; Goteborg, Sweden; Adana, Turkey; Tangier, Morocco; Mandalay, Burma; Brisbane, Australia; and Surabaya, Indonesia.
-
-"(b) Personnel assigned to the consulates described in subsection (a) shall not be counted toward any personnel ceiling for the Department of State established by the Director of the Office of Management and Budget."
+Pub. L. 96–60, title I, §108, Aug. 15, 1979, 93 Stat. 397, provided that U.S. consulates in Salzburg, Austria; Bremen, Germany; Nice, France; Turin, Italy; Goteborg, Sweden; Adana, Turkey; Tangier, Morocco; Mandalay, Burma; Brisbane, Australia; and Surabaya, Indonesia, would not be closed or, if closed as of Aug. 15, 1979, would be reopened as soon as possible after such date.
 
 #### Action With Regard to International Journalistic Freedom
 
@@ -1128,7 +1408,7 @@ Sec. 3. <i>Responsibilities Assigned to the Center</i>. Recognizing the need for
 
 (c) consulting and engaging, in coordination with agencies and the Countering Violent Extremism Task Force, as appropriate, with a range of communications-related actors and entities, within the United States and abroad, including governments, private sector and civil society entities, in order to contribute to U.S. Government efforts to counter the communications-related radicalization to violence and recruitment activities of international terrorist organizations and other violent extremists abroad, while also building the capacity of partners to create resonant positive alternative narratives and to diminish the influence of such international terrorist organizations and other violent extremists abroad;
 
-(d) identifying, engaging, employing, or acquiring the best available talent across the U.S. and from globalprivate sectors, academia, and elsewhere to support the Center's mission;
+(d) identifying, engaging, employing, or acquiring the best available talent across the U.S. and from global private sectors, academia, and elsewhere to support the Center's mission;
 
 (e) identifying shortfalls in any U.S. capabilities in any areas relevant to the Center's mission and implementing or recommending, as appropriate, necessary enhancements or changes; and
 
@@ -1164,7 +1444,7 @@ Sec. 6. <i>Establishment of a Temporary Organization</i>. (a) There is establish
 
 (vi) perform such other functions related to the specific project set forth in subsection (b) of this section as the Secretary may assign.
 
-(d) The GECCO shall be headed by the Coordinator. Its staff may include, as determined by the Coordinator: (1) personnel with relevant expertise detailed on a non-reimbursable basis from other agencies; (2) senior and other technical advisers; (3) executive-level personnel; and (4) such other personnel as the Secretary may request to support the GECCO. To accomplish this mission, the heads of agencies shall, upon request, provide to the GECCO, on a non-reimbursable basis, assistance, services, and other support including but not limited to logistical and administrative support and details of personnel to the extent permitted by law. Non-reimbursable details to the GECCO shall be based on reasonable requests from the Coordinator in light of the need for specific expertise, and after consultation with the relevant agency, to the extent permitted by law.
+(d) The GECCO shall be headed by the Coordinator. Its staff may include, as determined by the Coordinator: (1) personnel with relevant expertise detailed on a non-reimbursable basis from other agencies; (2) senior and other technical advisers; (3) executive-level personnel; and (4) such other personnel as the Secretary may request to support the GECCO. To accomplish this mission, the heads of agencies shall, upon request, provide to the GECCO, on a non-reimbursable basis, assistance, services, and other support including but not limited tologistical and administrative support and details of personnel to the extent permitted by law. Non-reimbursable details to the GECCO shall be based on reasonable requests from the Coordinator in light of the need for specific expertise, and after consultation with the relevant agency, to the extent permitted by law.
 
 (e) The GECCO shall terminate at the end of the maximum period permitted by section 3161(a)(1) of title 5, United States Code, unless sooner terminated by the Secretary consistent with section 3161(a)(2) of such title.
 

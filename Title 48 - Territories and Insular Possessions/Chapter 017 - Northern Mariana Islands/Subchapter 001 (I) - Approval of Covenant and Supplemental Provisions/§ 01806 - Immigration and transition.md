@@ -8,7 +8,7 @@
 
 #### (2) Transition period
 
-&emsp;There shall be a transition period beginning on the transition program effective date and ending on December 31, 2019, during which the Secretary of Homeland Security, in consultation with the Secretary of State, the Attorney General, the Secretary of Labor, and the Secretary of the Interior, shall establish, administer, and enforce a transition program to regulate immigration to the Commonwealth, as provided in this section (hereafter referred to as the "transition program").
+&emsp;There shall be a transition period beginning on the transition program effective date and ending on December 31, 2029, during which the Secretary of Homeland Security, in consultation with the Secretary of State, the Attorney General, the Secretary of Labor, and the Secretary of the Interior, shall establish, administer, and enforce a transition program to regulate immigration to the Commonwealth, as provided in this section (hereafter referred to as the "transition program").
 
 #### (3) Delay of commencement of transition period
 
@@ -32,9 +32,51 @@
 
 &emsp;The Secretary of Homeland Security, the Secretary of State, the Secretary of Labor, and the Secretary of the Interior shall negotiate and implement agreements among their agencies to identify and assign their respective duties so as to ensure timely and proper implementation of the provisions of this section. The agreements should address, at a minimum, procedures to ensure that Commonwealth employers have access to adequate labor, and that tourists, students, retirees, and other visitors have access to the Commonwealth without unnecessary delay or impediment. The agreements may also allocate funding between the respective agencies tasked with various responsibilities under this section.
 
-#### (6) Certain education funding
+#### (6) Fees for training United States workers
 
-&emsp;In addition to fees charged pursuant to section 286(m) of the Immigration and Nationality Act (8 U.S.C. 1356(m)) to recover the full costs of providing adjudication services, the Secretary of Homeland Security shall charge an annual supplemental fee of $200 per nonimmigrant worker to each prospective employer who is issued a permit under subsection (d) of this section during the transition period. Such supplemental fee shall be paid into the Treasury of the Commonwealth government for the purpose of funding ongoing vocational educational curricula and program development by Commonwealth educational entities.
+#### (A) Supplemental fee
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In addition to fees imposed pursuant to section 286(m) of the Immigration and Nationality Act (8 U.S.C. 1356(m)) to recover the full costs of adjudication services, the Secretary shall impose an annual supplemental fee of $200 per nonimmigrant worker on each prospective employer who is issued a permit under subsection (d)(3) during the transition program. A prospective employer that is issued a permit with a validity period of longer than 1 year shall pay the fee for each year of requested validity at the time the permit is requested.
+
+#### (ii) Inflation adjustment
+
+&emsp;&emsp;&emsp;Beginning in fiscal year 2020, the Secretary, through notice in the Federal Register, may annually adjust the supplemental fee imposed under clause (i) by a percentage equal to the annual change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics.
+
+#### (iii) Use of funds
+
+&emsp;&emsp;&emsp;Amounts collected pursuant to clause (i) shall be deposited into the Treasury of the Commonwealth Government for the sole and exclusive purpose of funding vocational education, apprenticeships, or other training programs for United States workers.
+
+#### (iv) Fraud prevention and detection fee
+
+&emsp;&emsp;&emsp;In addition to the fees described in clause (i), the Secretary—
+
+&emsp;&emsp;&emsp;&emsp;(I) shall impose, on each prospective employer filing a petition under this subsection for one or more nonimmigrant workers, a $50 fraud prevention and detection fee; and
+
+&emsp;&emsp;&emsp;&emsp;(II) shall deposit and use the fees collected under subclause (I) for the sole purpose of preventing and detecting immigration benefit fraud in the Northern Mariana Islands, in accordance with section 286(v)(2)(B) of the Immigration and Nationality Act (8 U.S.C. 1356(v)(2)(B)).
+
+#### (B) Plan for the expenditure of funds
+
+&emsp;&emsp;Not later than 120 days before the first day of fiscal year 2020, and annually thereafter, the Governor of the Commonwealth Government shall submit to the Secretary of Labor—
+
+&emsp;&emsp;&emsp;(i) a plan for the expenditures of amounts deposited under subparagraph (A)(iii);
+
+&emsp;&emsp;&emsp;(ii) a projection of the effectiveness of such expenditures in the placement of United States workers into jobs held by non-United States workers; and
+
+&emsp;&emsp;&emsp;(iii) a report on the changes in employment of United States workers attributable to expenditures of such amounts during the previous year.
+
+#### (C) Determination and report
+
+&emsp;&emsp;Not later than 120 days after receiving each expenditure plan under subparagraph (B)(i), the Secretary of Labor shall—
+
+&emsp;&emsp;&emsp;(i) issue a determination on the plan; and
+
+&emsp;&emsp;&emsp;(ii) submit a report to Congress that describes the effectiveness of the Commonwealth Government at meeting the goals set forth in such plan.
+
+#### (D) Payment restriction
+
+&emsp;&emsp;Payments may not be made in a fiscal year from amounts deposited under subparagraph (A)(iii) before the Secretary of Labor has approved the expenditure plan submitted under subparagraph (B)(i) for that fiscal year.
 
 #### (7) Asylum
 
@@ -50,23 +92,29 @@
 
 #### (B) H-2B workers
 
-&emsp;&emsp;In the case of such an alien who seeks admission under section 101(a)(15)(H)(ii)(b) of such Act \[8 U.S.C. 1101(a)(15)(H)(ii)(b)\], such alien, if otherwise qualified, may, before October 1, 2023, be admitted under such section for a period of up to 3 years to perform service or labor on Guam or the Commonwealth pursuant to any agreement entered into by a prime contractor or subcontractor calling for services or labor required for performance of a contact <sup>2</sup> or subcontract for construction, repairs, renovations, or facility services that is directly connected to, or associated with, the military realignment occurring on Guam and the Commonwealth, notwithstanding the requirement of such section that the service or labor be temporary.
+&emsp;&emsp;In the case of an alien described in subparagraph (A) who seeks admission under section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(H)(ii)(b)), the alien, if otherwise qualified, may, before December 31, 2023, be admitted under such section, notwithstanding the requirement of such section that the service or labor be temporary, for a period of up to 3 years—
 
-#### (2) Limitations
+&emsp;&emsp;&emsp;(i) to perform service or labor on Guam or in the Commonwealth pursuant to any agreement entered into by a prime contractor or subcontractor calling for services or labor required for performance of a contact <sup>2</sup> or subcontract for construction, repairs, renovations, or facility services that is directly connected to, or associated with, the military realignment occurring on Guam and in the Commonwealth; or
 
-#### (A) Numerical limitation
+&emsp;&emsp;&emsp;(ii) to perform service or labor as a health care worker (such as a nurse, physician assistant, or allied health professional) at a facility that jointly serves members of the Armed Forces, dependents, and civilians on Guam or in the Commonwealth, subject to the education, training, licensing, and other requirements of section 212(a)(5)(C) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(5)(C)), as applicable, except that this clause shall not be construed to include graduates of medical schools coming to Guam or the Commonwealth to perform service or labor as members of the medical profession.
 
-&emsp;&emsp;For any fiscal year, not more <sup>3</sup> 4,000 aliens may be admitted to Guam and the Commonwealth pursuant to paragraph (1)(B).
+#### (2) Locations
 
-#### (B) Location
+&emsp;Paragraph (1) does not apply with respect to the performance of services of labor at a location other than Guam or the Commonwealth.
 
-&emsp;&emsp;Paragraph (1)(B) does not apply with respect to the performance of services or labor at a location other than Guam or the Commonwealth.
+#### (3) Report
+
+&emsp;Not later than December 1, 2027, the Secretary shall submit a report to the Committee on Energy and Natural Resources of the Senate, the Committee on the Judiciary of the Senate, the Committee on Natural Resources of the House of Representatives, and the Committee on the Judiciary of the House of Representatives that—
+
+&emsp;&emsp;(A) projects the number of asylum claims the Secretary anticipates following the termination of the transition period; and
+
+&emsp;&emsp;(B) describes the efforts of the Secretary to ensure appropriate interdiction efforts, provide for appropriate treatment of asylum seekers, and prepare to accept and adjudicate asylum claims in the Commonwealth.
 
 #### (c) Nonimmigrant investor visas
 
 #### (1) In general
 
-&emsp;Notwithstanding the treaty requirements in section 101(a)(15)(E) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(E)), during the transition period, the Secretary of Homeland Security may, upon the application of an alien, classify an alien as a CNMI-only nonimmigrant under section 101(a)(15)(E)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(E)(ii)) if the alien—
+&emsp;Notwithstanding the treaty requirements in section 101(a)(15)(E) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(E)), during the transition period, the Secretary of Homeland Security may, upon the applicationof an alien, classify an alien as a CNMI-only nonimmigrant under section 101(a)(15)(E)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(E)(ii)) if the alien—
 
 &emsp;&emsp;(A) has been admitted to the Commonwealth in long-term investor status under the immigration laws of the Commonwealth before the transition program effective date;
 
@@ -86,13 +134,185 @@ An alien who is seeking to enter the Commonwealth as a nonimmigrant worker may b
 
 &emsp;(1) Such an alien shall be treated as a nonimmigrant described in section 101(a)(15) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)), including the ability to apply, if otherwise eligible, for a change of nonimmigrant classification under section 248 of such Act (8 U.S.C. 1258) or adjustment of status under this section and section 245 of such Act (8 U.S.C. 1255).
 
-&emsp;(2) The Secretary of Homeland Security shall establish, administer, and enforce a system for allocating and determining the number, terms, and conditions of permits to be issued to prospective employers for each such nonimmigrant worker described in this subsection who would not otherwise be eligible for admission under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), except a permit for construction occupations (as that term is defined by the Department of Labor as Standard Occupational Classification Group 47–0000 or any successor provision) shall only be issued to extend a permit first issued before October 1, 2015. In adopting and enforcing this system, the Secretary shall also consider, in good faith and not later than 30 days after receipt by the Secretary, any comments and advice submitted by the Governor of the Commonwealth. This system shall provide for a reduction in the allocation of permits for such workers on an annual basis to zero, during a period ending on December 31, 2019, except that for fiscal year 2017 an additional 350 permits shall be made available for extension of existing permits, expiring after August 22, 2017, through September 30, 2017, of which no fewer than 60 shall be reserved for healthcare practitioners and technical operations (as that term is defined by the Department of Labor as Standard Occupational Classification Group 29–0000 or any successor provision), and no fewer than 10 shall be reserved for plant and system operators (as that term is defined by the Department of Labor as Standard Occupational Classification Group 51–8000 or any successor provision). In no event shall a permit be valid beyond the expiration of the transition period. This system may be based on any reasonable method and criteria determined by the Secretary of Homeland Security to promote the maximum use of, and to prevent adverse effects on wages and working conditions of, workers authorized to be employed in the United States, including lawfully admissible freely associated state citizen labor. No alien shall be granted nonimmigrant classification or a visa under this subsection unless the permit requirements established under this paragraph have been met.
+&emsp;(2)
 
-&emsp;(3) The Secretary of Homeland Security shall set the conditions for admission of such an alien under the transition program, and the Secretary of State shall authorize the issuance of nonimmigrant visas for such an alien. Such a visa shall not be valid for admission to the United States, as defined in section 101(a)(38) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(38)), except admission to the Commonwealth. An alien admitted to the Commonwealth on the basis of such a visa shall be permitted to engage in employment only as authorized pursuant to the transition program.
+Protection for united states workers.—
 
-&emsp;(4) Such an alien shall be permitted to transfer between employers in the Commonwealth during the period of such alien's authorized stay therein, without permission of the employee's current or prior employer, within the alien's occupational category or another occupational category the Secretary of Homeland Security has found requires alien workers to supplement the resident workforce.
+&emsp;&emsp;(A)
 
-&emsp;(5) The Secretary of Homeland Security may authorize the admission of a spouse or minor child accompanying or following to join a worker admitted pursuant to this subsection.
+Temporary labor certification.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Beginning with petitions filed with employment start dates in fiscal year 2020, a petition to import a nonimmigrant worker under this subsection may not be approved by the Secretary unless the petitioner has applied to the Secretary of Labor for a temporary labor certification confirming that—
+
+&emsp;&emsp;&emsp;&emsp;(I) there are not sufficient United States workers in the Commonwealth who are able, willing, qualified, and available at the time and place needed to perform the services or labor involved in the petition; and
+
+&emsp;&emsp;&emsp;&emsp;(II) employment of the nonimmigrant worker will not adversely affect the wages and working conditions of similarly employed United States workers.
+
+&emsp;&emsp;&emsp;(ii)
+
+Petition.—After receiving a temporary labor certification under clause (i), a prospective employer may submit a petition to the Secretary for a Commonwealth Only Transitional Worker permit on behalf of the nonimmigrant worker.
+
+&emsp;&emsp;(B)
+
+Prevailing wage survey.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—In order to effectuate the requirement for a temporary labor certification under subparagraph (A)(i), the Secretary of Labor shall use, or make available to employers, an occupational wage survey conducted by the Governor that the Secretary of Labor has determined meets the statistical standards for determining prevailing wages in the Commonwealth on an annual basis.
+
+&emsp;&emsp;&emsp;(ii)
+
+Alternative method for determining the prevailing wage.—In the absence of an occupational wage survey approved by the Secretary of Labor under clause (i), the prevailing wage for an occupation in the Commonwealth shall be the arithmetic mean of the wages of workers similarly employed in the territory of Guam according to the wage component of the Occupational Employment Statistics Survey conducted by the Bureau of Labor Statistics.
+
+&emsp;&emsp;(C)
+
+Minimum wage.—An employer shall pay each Commonwealth Only Transitional Worker a wage that is not less than the greater of—
+
+&emsp;&emsp;&emsp;(i) the statutory minimum wage in the Commonwealth;
+
+&emsp;&emsp;&emsp;(ii) the Federal minimum wage; or
+
+&emsp;&emsp;&emsp;(iii) the prevailing wage in the Commonwealth for the occupation in which the worker is employed.
+
+&emsp;(3)
+
+Permits.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall establish, administer, and enforce a system for allocating and determining terms and conditions of permits to be issued to prospective employers for each nonimmigrant worker described in this subsection who would not otherwise be eligible for admission under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
+
+&emsp;&emsp;(B)
+
+Numerical cap.—The number of permits issued under subparagraph (A) may not exceed—
+
+&emsp;&emsp;&emsp;(i) 13,000 for fiscal year 2019;
+
+&emsp;&emsp;&emsp;(ii) 12,500 for fiscal year 2020;
+
+&emsp;&emsp;&emsp;(iii) 12,000 for fiscal year 2021;
+
+&emsp;&emsp;&emsp;(iv) 11,500 for fiscal year 2022;
+
+&emsp;&emsp;&emsp;(v) 11,000 for fiscal year 2023;
+
+&emsp;&emsp;&emsp;(vi) 10,000 for fiscal year 2024;
+
+&emsp;&emsp;&emsp;(vii) 9,000 for fiscal year 2025;
+
+&emsp;&emsp;&emsp;(viii) 8,000 for fiscal year 2026;
+
+&emsp;&emsp;&emsp;(ix) 7,000 for fiscal year 2027;
+
+&emsp;&emsp;&emsp;(x) 6,000 for fiscal year 2028;
+
+&emsp;&emsp;&emsp;(xi) 5,000 for fiscal year 2029; and
+
+&emsp;&emsp;&emsp;(xii) 1,000 for the first quarter of fiscal year 2030.
+
+&emsp;&emsp;(C)
+
+Reports regarding the percentage of united states workers.—
+
+&emsp;&emsp;&emsp;(i)
+
+By governor.—Not later than 60 days before the end of each calendar year, the Governor shall submit a report to the Secretary that identifies the ratio between United States workers and other workers in the Commonwealth's workforce based on income tax filings with the Commonwealth for the tax year.
+
+&emsp;&emsp;&emsp;(ii)
+
+By gao.—Not later than December 31, 2019, and biennially thereafter, the Comptroller General of the United States shall submit a report to the Chair and Ranking Member of the Committee on Energy and Natural Resources of the Senate, the Chair and Ranking Member of the Committee onNatural Resources of the House of Representatives, the Chair and Ranking Member of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chair and Ranking Member of the Committee on Education and the Workforce of the House of Representatives that identifies the ratio between United States workers and other workers in the Commonwealth's workforce during each of the previous 5 calendar years.
+
+&emsp;&emsp;(D)
+
+Petition; issuance of permits.—
+
+&emsp;&emsp;&emsp;(i)
+
+Submission.—A prospective employer may submit a petition for a permit under this paragraph not earlier than—
+
+&emsp;&emsp;&emsp;&emsp;(I) 120 days before the date on which the prospective employer needs the beneficiary's services; or
+
+&emsp;&emsp;&emsp;&emsp;(II) if the petition is for the renewal of an existing permit, not earlier than 180 days before the expiration of such permit.
+
+&emsp;&emsp;&emsp;(ii)
+
+Employment verification.—The Secretary shall establish a system for each employer of a Commonwealth Only Transitional Worker to submit a semiannual report to the Secretary and the Secretary of Labor that provides evidence to verify the continuing employment and payment of such worker under the terms and conditions set forth in the permit petition that the employer filed on behalf of such worker.
+
+&emsp;&emsp;&emsp;(iii)
+
+Revocation.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+In general.—The Secretary, in the Secretary's discretion, may revoke a permit approved under this paragraph for good cause, including if—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the employer fails to maintain the continuous employment of the subject worker, fails to pay the subject worker, fails to timely file a semiannual report required under this paragraph, commits any other violation of the terms and conditions of employment, or otherwise ceases to operate as a legitimate business (as defined in clause (iv)(II));
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the beneficiary of such petition does not apply for admission to the Commonwealth by the date that is 10 days after the period of petition validity begins, if the employer has requested consular processing; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the employer fails to provide a former, current, or prospective Commonwealth Only Transitional Worker, not later than 21 business days after receiving a written request from such worker, with the original (or a certified copy of the original) of all petitions, notices, and other written communication related to the worker (other than sensitive financial or proprietary information of the employer, which may be redacted) that has been exchanged between the employer and the Department of Labor, the Department of Homeland Security, or any other Federal agency or department.
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Reallocation of revoked petition.—Notwithstanding subparagraph (C), for each permit revoked under subclause (I) in a fiscal year, an additional permit shall be made available for use in the subsequent fiscal year.
+
+&emsp;&emsp;&emsp;(iv)
+
+Legitimate business.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+In general.—A permit may not be approved for a prospective employer that is not a legitimate business.
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Defined term.—In this clause, the term "legitimate business" means a real, active, and operating commercial or entrepreneurial undertaking that the Secretary, in the Secretary's sole discretion, determines—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) produces services or goods for profit, or is a governmental, charitable, or other validly recognized nonprofit entity;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) meets applicable legal requirements for doing business in the Commonwealth;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) has substantially complied with wage and hour laws, occupational safety and health requirements, and all other Federal, Commonwealth, and local requirements related to employment during the preceding 5 years;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) does not directly or indirectly engage in, or knowingly benefit from, prostitution, human trafficking, or any other activity that is illegal under Federal, Commonwealth, or local law;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) is a participant in good standing in the E-Verify program;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) does not have, as an owner, investor, manager, operator, or person meaningfully involved with the undertaking, any individual who has been the owner, investor, manager, operator, or otherwise meaningfully involved with an undertaking that does not comply with item (cc) or (dd), or is the agent of such an individual; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(gg) is not a successor in interest to an undertaking that does not comply with item (cc) or (dd).
+
+&emsp;&emsp;&emsp;(v)
+
+Construction occupations.—A permit for Construction and Extraction Occupations (as defined by the Department of Labor as Standard Occupational Classification Group 47–0000) may not be issued for any worker other than a worker described in paragraph (7)(B).
+
+&emsp;(4) The Secretary of Homeland Security shall set the conditions for admission of such an alien under the transition program, and the Secretary of State shall authorize the issuance of nonimmigrant visas for such an alien. Such a visa shall not be valid for admission to the United States, as defined in section 101(a)(38) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(38)), except admission to the Commonwealth or to Guam for the purpose of transit only. An alien admitted to the Commonwealth on the basis of such a visa shall be permitted to engage in employment only as authorized pursuant to the transition program.
+
+&emsp;(5) Such an alien shall be permitted to transfer between employers in the Commonwealth during the period of such alien's authorized stay therein, without permission of the employee's current or prior employer, within the alien's occupational category or another occupational category the Secretary of Homeland Security has found requires alien workers to supplement the resident workforce. Approval of a petition filed by the new employer with a start date within the same fiscal year as the current permit shall not count against the numerical limitation for that period.
+
+&emsp;(6) The Secretary of Homeland Security may authorize the admission of a spouse or minor child accompanying or following to join a worker admitted pursuant to this subsection.
+
+&emsp;(7)
+
+Requirement to remain outside of the united states.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraph (B)—
+
+&emsp;&emsp;&emsp;(i) a permit for a Commonwealth Only Transitional Worker—
+
+&emsp;&emsp;&emsp;&emsp;(I) shall remain valid for a period that may not exceed 1 year; and
+
+&emsp;&emsp;&emsp;&emsp;(II) may be renewed for not more than two consecutive, 1-year periods; and
+
+&emsp;&emsp;&emsp;(ii) at the expiration of the second renewal period, an alien may not again be eligible for such a permit until after the alien has remained outside of the United States for a continuous period of at least 30 days prior to the submission of a renewal petition on their behalf.
+
+&emsp;&emsp;(B)
+
+Long-term workers.—An alien who was admitted to the Commonwealth as a Commonwealth Only Transitional Worker during fiscal year 2015, and during every subsequent fiscal year beginning before July 24, 2018, may receive a permit for a Commonwealth Only Transitional Worker that is valid for a period that may not exceed 3 years and may be renewed for additional 3-year periods during the transition period. A permit issued under this subparagraph shall be counted toward the numerical cap for each fiscal year within the period of petition validity.
 
 #### (e) Persons lawfully admitted under the Commonwealth immigration law
 
@@ -132,7 +352,7 @@ An alien who is seeking to enter the Commonwealth as a nonimmigrant worker may b
 
 #### (f) Effect on other laws
 
-The provisions of this section and of the immigration laws, as defined in section 101(a)(17) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(17)), shall, on the transition program effective date, supersede and replace all laws, provisions, or programs of the Commonwealth relating to the admission of aliens and the removal of aliens from the Commonwealth.
+The provisions of this section and of the immigration laws, as defined in section 101(a)(17) ofthe Immigration and Nationality Act (8 U.S.C. 1101(a)(17)), shall, on the transition program effective date, supersede and replace all laws, provisions, or programs of the Commonwealth relating to the admission of aliens and the removal of aliens from the Commonwealth.
 
 #### (g) Accrual of time for purposes of section 212(a)(9)(B) of the Immigration and Nationality Act
 
@@ -152,15 +372,87 @@ The Secretary of the Interior, in consultation with the Secretary of Homeland Se
 
 &emsp;(5) such recommendations to the Congress, as the Secretary may deem appropriate, related to whether or not the Congress should consider permitting lawfully admitted guest workers lawfully residing in the Commonwealth on May 8, 2008, to apply for long-term status under the immigration and nationality laws of the United States.
 
-(Pub. L. 94–241, §6, as added Pub. L. 110–229, title VII, §702(a), May 8, 2008, 122 Stat. 854; amended Pub. L. 113–235, §10, Dec. 16, 2014, 128 Stat. 2134; Pub. L. 115–53, §2, Aug. 22, 2017, 131 Stat. 1091; Pub. L. 115–91, div. A, title X, §1049(a), Dec. 12, 2017, 131 Stat. 1558.)
+#### (i) Definitions
+
+In this section:
+
+#### (1) Commonwealth
+
+&emsp;The term "Commonwealth" means the Commonwealth of the Northern Mariana Islands.
+
+#### (2) Commonwealth Only Transition Worker
+
+&emsp;The term "Commonwealth Only Transition Worker" means an alien who has been admitted into the Commonwealth under the transition program and is eligible for a permit under subsection (d)(3).
+
+#### (3) Governor
+
+&emsp;The term "Governor" means the Governor of the Commonwealth of the Northern Mariana Islands.
+
+#### (4) Secretary
+
+&emsp;The term "Secretary" means the Secretary of Homeland Security.
+
+#### (5) Tax year
+
+&emsp;The term "tax year" means the fiscal year immediately preceding the current fiscal year.
+
+#### (6) United States worker
+
+&emsp;The term "United States worker" means any worker who is—
+
+&emsp;&emsp;(A) a citizen or national of the United States;
+
+&emsp;&emsp;(B) an alien who has been lawfully admitted for permanent residence; or
+
+&emsp;&emsp;(C) a citizen of the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau (known collectively as the "Freely Associated States") who has been lawfully admitted to the United States pursuant to—
+
+&emsp;&emsp;&emsp;(i) section 141 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia (48 U.S.C. 1921 note); <sup>3</sup> or
+
+&emsp;&emsp;&emsp;(ii) section 141 of the Compact of Free Association between the United States and the Government of Palau (48 U.S.C. 1931 note).
+
+(Pub. L. 94–241, §6, as added Pub. L. 110–229, title VII, §702(a), May 8, 2008, 122 Stat. 854; amended Pub. L. 113–235, §10, Dec. 16, 2014, 128 Stat. 2134; Pub. L. 115–53, §2, Aug. 22, 2017, 131 Stat. 1091; Pub. L. 115–91, div. A, title X, §1049(a), Dec. 12, 2017, 131 Stat. 1558; Pub. L. 115–218, §3(a), July 24, 2018, 132 Stat. 1547; Pub. L. 115–232, div. A, title X, §1045(a), Aug. 13, 2018, 132 Stat. 1959.)
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsecs. (d)(2) and (e)(3), (4), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsecs. (d)(3)(A) and (e)(3), (4), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 The Consolidated Natural Resources Act of 2008, referred to in subsec. (e)(1)(B), (3), is Pub. L. 110–229, May 8, 2008, 122 Stat. 754. Section 702(i) of the Act is set out as a note under this section. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 1 of Title 16, Conservation, and Tables.
 
+Section 141 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, referred to in subsec. (i)(6)(C)(i), is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of Title 48, Territories and Insular Possessions.
+
+Section 141 of the Compact of Free Association between the United States and the Government of Palau, referred to in subsec. (i)(6)(C)(ii), is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
+
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2). Pub. L. 115–218, §3(a)(1)(A), substituted "2029" for "2019".
+
+Subsec. (a)(6). Pub. L. 115–218, §3(a)(1)(B), amended par. (6) generally. Prior to amendment, text read as follows: "In addition to fees charged pursuant to section 286(m) of the Immigration and Nationality Act (8 U.S.C. 1356(m)) to recover the full costs of providing adjudication services, the Secretary of Homeland Security shall charge an annual supplemental fee of $200 per nonimmigrant worker to each prospective employer who is issued a permit under subsection (d) of this section during the transition period. Such supplemental fee shall be paid into the Treasury of the Commonwealth government for the purpose of funding ongoing vocational educational curricula and program development by Commonwealth educational entities."
+
+Subsec. (b)(1)(B). Pub. L. 115–232, §1045(a)(1), amended subpar. (B) generally. Prior to amendment, text read asfollows: "In the case of such an alien who seeks admission under section 101(a)(15)(H)(ii)(b) of such Act, such alien, if otherwise qualified, may, before October 1, 2023, be admitted under such section for a period of up to 3 years to perform service or labor on Guam or the Commonwealth pursuant to any agreement entered into by a prime contractor or subcontractor calling for services or labor required for performance of a contact or subcontract for construction, repairs, renovations, or facility services that is directly connected to, or associated with, the military realignment occurring on Guam and the Commonwealth, notwithstanding the requirement of such section that the service or labor be temporary."
+
+Subsec. (b)(2). Pub. L. 115–232, §1045(a)(2), amended par. (2) generally. Prior to amendment, par. (2) provided numerical limitation on number of aliens that could be admitted for any fiscal year and directed that par. (1)(B) would not apply with respect to performance of services or labor at a location other than Guam or the Commonwealth.
+
+Subsec. (b)(3). Pub. L. 115–218, §3(a)(2), added par. (3).
+
+Subsec. (d)(2). Pub. L. 115–218, §3(a)(3)(B), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (d)(3). Pub. L. 115–218, §3(a)(3)(C), amended par. (3) generally. Prior to amendment, text read as follows: "The Secretary of Homeland Security shall establish, administer, and enforce a system for allocating and determining the number, terms, and conditions of permits to be issued to prospective employers for each such nonimmigrant worker described in this subsection who would not otherwise be eligible for admission under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), except a permit for construction occupations (as that term is defined by the Department of Labor as Standard Occupational Classification Group 47–0000 or any successor provision) shall only be issued to extend a permit first issued before October 1, 2015. In adopting and enforcing this system, the Secretary shall also consider, in good faith and not later than 30 days after receipt by the Secretary, any comments and advice submitted by the Governor of the Commonwealth. This system shall provide for a reduction in the allocation of permits for such workers on an annual basis to zero, during a period ending on December 31, 2019, except that for fiscal year 2017 an additional 350 permits shall be made available for extension of existing permits, expiring after August 22, 2017, through September 30, 2017, of which no fewer than 60 shall be reserved for healthcare practitioners and technical operations (as that term is defined by the Department of Labor as Standard Occupational Classification Group 29–0000 or any successor provision), and no fewer than 10 shall be reserved for plant and system operators (as that term is defined by the Department of Labor as Standard Occupational Classification Group 51–8000 or any successor provision). In no event shall a permit be valid beyond the expiration of the transition period. This system may be based on any reasonable method and criteria determined by the Secretary of Homeland Security to promote the maximum use of, and to prevent adverse effects on wages and working conditions of, workers authorized to be employed in the United States, including lawfully admissible freely associated state citizen labor. No alien shall be granted nonimmigrant classification or a visa under this subsection unless the permit requirements established under this paragraph have been met."
+
+Pub. L. 115–218, §3(a)(3)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (d)(4). Pub. L. 115–218, §3(a)(3)(D), inserted "or to Guam for the purpose of transit only" after "except admission to the Commonwealth".
+
+Pub. L. 115–218, §3(a)(3)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (d)(5). Pub. L. 115–218, §3(a)(3)(E), inserted at end "Approval of a petition filed by the new employer with a start date within the same fiscal year as the current permit shall not count against the numerical limitation for that period."
+
+Pub. L. 115–218, §3(a)(3)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (d)(6). Pub. L. 115–218, §3(a)(3)(A), redesignated par. (5) as (6).
+
+Subsec. (d)(7). Pub. L. 115–218, §3(a)(3)(F), added par. (7).
+
+Subsec. (i). Pub. L. 115–218, §3(a)(4), added subsec. (i).
 
 <b>2017</b>—Subsec. (a)(6). Pub. L. 115–53, §2(1), substituted "$200" for "$150".
 
@@ -173,6 +465,24 @@ Subsec. (d)(2). Pub. L. 115–53, §2(2), inserted ", except a permit for const
 Subsec. (d)(2). Pub. L. 113–235, §10(2)(A), substituted " 'ending on December 31, 2019' " for "not to extend beyond December 31, 2014, unless extended pursuant to paragraph 5 of this subsection".
 
 Subsec. (d)(5), (6). Pub. L. 113–235, §10(2)(B), (C), redesignated par. (6) as (5), and struck out former par. (5), which related to ascertaining current and anticipated labor needs of the Commonwealth, determination whether an extension of up to 5 years of provisions of subsection is necessary, publication of notice of such extension, and factors in determining whether alien workers are necessary to ensure adequate number of workers.
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–232, div. A, title X, §1045(b), Aug. 13, 2018, 132 Stat. 1959, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 13, 2018\]."
+
+Pub. L. 115–218, §3(e), July 24, 2018, 132 Stat. 1554, provided that:
+
+"(1)
+
+In general.—Except as specifically otherwise provided, this Act \[see Short Title of 2018 Amendment note set out under section 1801 of this title\] and the amendments made by this Act—
+
+&emsp;"(A) shall take effect on the date of the enactment of this Act \[July 24, 2018\]; and
+
+&emsp;"(B) shall apply to petitions for Commonwealth Only Transitional Workers filed on or after such date.
+
+"(2)
+
+Authority of secretary of homeland security.—The Secretary of Homeland Security, in the Secretary's discretion, may delay the effective date of any provision of this Act relating to Commonwealth Only Transition Workers until the effective date of the interim final rule described in subsection (b) \[set out as a Rulemaking note below\], except for provisions providing annual numerical caps for such workers."
 
 #### Effective Date of 2017 Amendment
 
@@ -205,6 +515,44 @@ Construction.—Nothing in this subtitle or the amendments made by this subtitle
 &emsp;"(1) for the purpose of determining whether an alien lawfully admitted for permanent residence (as defined in section 101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20))\[)\] has abandoned or lost such status by reason of absence from the United States, such alien's presence in the Commonwealth, before, on or after November 28, 2009, shall be considered to be presence in the United States; and
 
 &emsp;"(2) for the purpose of determining whether an alien whose application for status under subparagraph (T) or (U) of section 101(a)(15) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)) was granted is subsequently eligible for adjustment under subsection (l) or (m) of section 245 of such Act (8 U.S.C. 1255), such alien's physical presence in the Commonwealth before, on, or after November 28, 2009, and subsequent to the grant of the application, shall be considered as equivalent to presence in the United States pursuant to a nonimmigrant admission in such status."
+
+#### Rulemaking
+
+Pub. L. 115–218, §3(b), July 24, 2018, 132 Stat. 1554, provided that:
+
+"(1)
+
+Secretary of homeland security.—Notwithstanding the requirements under section 553(b) of title 5, United States Code, the Secretary of Homeland Security shall publish in the Federal Register, not later than 180 days after the date of the enactment of this Act \[July 24, 2018\], an interim final rule that specifies how the Secretary intends to implement the amendments made by subsection (a) \[amending this section\] that relate to the responsibilities of the Secretary.
+
+"(2)
+
+Secretary of labor.—Notwithstanding the requirements under section 553(b) of title 5, United States Code, the Secretary of Labor shall publish in the Federal Register, not later than 180 days after the date of the enactment of this Act, an interim final rule that specifies how the Secretary intends to implement the amendments made by subsection (a) that relate to the responsibilities of the Secretary.
+
+"(3)
+
+Recommendations of the governor.—In developing the interim final rules under paragraphs (1) and (2), the Secretary of Homeland Security and the Secretary of Labor—
+
+&emsp;"(A) shall each consider, in good faith, any written public recommendations regarding the implementation of this Act \[see Short Title of 2018 Amendment note set out under section 1801 of this title\] that are submitted by the Governor of the Commonwealth not later than 60 days after the date of the enactment of this Act; and
+
+&emsp;"(B) may include provisions in such rule that are responsive to any recommendation of the Governor that is not inconsistent with this Act, including a recommendation to reserve a number of permits each year for occupational categories necessary to maintain public health or safety in the Commonwealth."
+
+#### Purposes of Pub. L. 115–218
+
+Pub. L. 115–218, §2, July 24, 2018, 132 Stat. 1547, provided that: "The purposes of this Act \[see Short Title of 2018 Amendment note set out under section 1801 of this title\] are—
+
+&emsp;"(1) to increase the percentage of United States workers (as defined in section 6(i) of the Joint Resolution entitled 'A Joint Resolution to approve the "Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America", and for other purposes' (48 U.S.C. 1806\[(i)\])) in the total workforce of the Commonwealth of the Northern Mariana Islands, while maintaining the minimum number of workers who are not United States workers to meet the changing demands of the Northern Mariana Islands' economy;
+
+&emsp;"(2) to encourage the hiring of United States workers into such workforce; and
+
+&emsp;"(3) to ensure that no United States worker—
+
+&emsp;&emsp;"(A) is at a competitive disadvantage for employment compared to a worker who is not a United States worker; or
+
+&emsp;&emsp;"(B) is displaced by a worker who is not a United States worker."
+
+#### Outreach and Training
+
+Pub. L. 115–218, §3(d), July 24, 2018, 132 Stat. 1554, provided that: "Not later than 120 days after the date onwhich the Secretary of Labor publishes an interim final rule in the Federal Register in accordance with subsection (b)(2) \[set out as a Rulemaking note above\], the Secretary shall conduct outreach and training in the Commonwealth of the Northern Mariana Islands for employers and workers on the foreign labor certification process set forth in section 6 of the Joint Resolution entitled 'A Joint Resolution to approve the "Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America", and for other purposes' \[48 U.S.C. 1806\], as amended by subsection (b) \[probably should be "(a)"\], including the minimum wage requirement set forth in subsection (d)(2)(C) of such section."
 
 #### Congressional Intent
 
@@ -264,7 +612,7 @@ Pub. L. 110–229, title VII, §702(i), May 8, 2008, 122 Stat. 866, provided tha
 
 &emsp;"(2) administer its nonrefoulement protection program—
 
-&emsp;&emsp;"(A) according to the terms and procedures set forth in the Memorandum of Agreement entered into between the Commonwealth of the Northern Mariana Islands and the United States Department of Interior, Office of Insular Affairs, executed on September 12, 2003 (which terms and procedures, including but not limited to funding by the Secretary of the Interior and performance by the Secretary of Homeland Security of the duties of 'Protection Consultant' to the Commonwealth, shall have effect on and after the date of enactment of this Act \[May 8, 2008\]), as well as CNMI Public Law 13–61 and the Immigration Regulations Establishing a Procedural Mechanism for Persons Requesting Protection from Refoulement; and
+&emsp;&emsp;"(A) according to the terms and procedures set forth in the Memorandum of Agreement entered into between the Commonwealth of the Northern Mariana Islands and the United States Department of Interior, Office of Insular Affairs, executed on September 12, 2003 (which terms and procedures, including but not limited to funding by the Secretary of the Interior and performance by the Secretary of Homeland Security of the duties of 'Protection Consultant' to the Commonwealth, shall have effect on and after the date of enactment of this Act \[May 8, 2008\]), as well as CNMI Public Law 13–61 and theImmigration Regulations Establishing a Procedural Mechanism for Persons Requesting Protection from Refoulement; and
 
 &emsp;&emsp;"(B) so as not to remove or otherwise effect the involuntary return of any alien whom the Protection Consultant has determined to be eligible for protection from persecution or torture."
 
@@ -272,5 +620,5 @@ Pub. L. 110–229, title VII, §702(i), May 8, 2008, 122 Stat. 866, provided tha
 
 <i><sup>2</sup></i><i> So in original. Probably should be "contract".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by "than".</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

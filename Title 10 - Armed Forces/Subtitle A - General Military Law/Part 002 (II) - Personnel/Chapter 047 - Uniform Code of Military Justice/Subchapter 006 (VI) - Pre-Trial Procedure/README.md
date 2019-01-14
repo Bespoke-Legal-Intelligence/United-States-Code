@@ -4,30 +4,13 @@
 
 | Sec. | Art. | &nbsp; |
 | :--- | :---: | ---: |
-| [830\.](%C2%A7%2000830%20-%20Art.%2030.%20Charges%20and%20specifications.md) | 30\. | Charges and specifications. |
+| [830\.](%C2%A7%2000830%20-%20Art%2030.%20Charges%20and%20specifications.md) | 30\. | Charges and specifications. |
 | [830a.](%C2%A7%2000830a%20-%20Art.%2030a.%20Certain%20proceedings%20conducted%20before%20referral.md) | 30a. | Certain proceedings conducted before referral. |
 | [831\.](%C2%A7%2000831%20-%20Art.%2031.%20Compulsory%20self-incrimination%20prohibited.md) | 31\. | Compulsory self-incrimination prohibited. |
-| [832\.](%C2%A7%2000832%20-%20Art.%2032.%20Preliminary%20hearing.md) | 32\. | Preliminary hearing. |
-| [833\.](%C2%A7%2000833%20-%20Art.%2033.%20Forwarding%20of%20charges.md) | 33\. | Forwarding of charges. |
-| [834\.](%C2%A7%2000834%20-%20Art.%2034.%20Advice%20of%20staff%20judge%20advocate%20and%20reference%20for%20trial.md) | 34\. | Advice of staff judge advocate and reference for trial. |
-| [835\.](%C2%A7%2000835%20-%20Art.%2035.%20Service%20of%20charges.md) | 35\. | Service of charges. |
-
-#### Amendment of Analysis
-
-<i>Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1599, 1601, made technical amendment to Pub. L. 114–328, §5541(3), set out in part below, effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted. See 2017 Amendment note below.</i>
-
-<i>Pub. L. 114–328, div. E, title LXIII, §§5541(3)(B), 5542, Dec. 23, 2016, 130 Stat. 2966, 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking items 832 to 835 and inserting the following new items:</i>
-
-&nbsp;
-
-| Sec. | Art. | &nbsp; |
-| :--- | :---: | ---: |
-| [832\.](%C2%A7%2000832%20-%20Art.%2032.%20Preliminary%20hearing.md) | 32\. | Preliminary hearing required before referral to general court-martial. |
-| [833\.](%C2%A7%2000833%20-%20Art.%2033.%20Forwarding%20of%20charges.md) | 33\. | Disposition guidance. |
-| [834\.](%C2%A7%2000834%20-%20Art.%2034.%20Advice%20of%20staff%20judge%20advocate%20and%20reference%20for%20trial.md) | 34\. | Advice to convening authority before referral for trial. |
-| [835\.](%C2%A7%2000835%20-%20Art.%2035.%20Service%20of%20charges.md) | 35\. | Service of charges; commencement of trial. |
-
-<i>See 2016 Amendment note below.</i>
+| [832\.](%C2%A7%2000832%20-%20Art.%2032.%20Preliminary%20hearing%20required%20before%20referral%20to%20general%20court-martial.md) | 32\. | Preliminary hearing required before referral to general court-martial. |
+| [833\.](%C2%A7%2000833%20-%20Art%2033.%20Disposition%20guidance.md) | 33\. | Disposition guidance. |
+| [834\.](%C2%A7%2000834%20-%20Art.%2034.%20Advice%20to%20convening%20authority%20before%20referral%20for%20trial.md) | 34\. | Advice to convening authority before referral for trial. |
+| [835\.](%C2%A7%2000835%20-%20Art.%2035.%20Service%20of%20charges%3B%20commencement%20of%20trial.md) | 35\. | Service of charges; commencement of trial. |
 
 #### Amendments
 
@@ -42,10 +25,10 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00830 - Art. 30. Charges and specifications](%C2%A7%2000830%20-%20Art.%2030.%20Charges%20and%20specifications.md)
+- [&sect; 00830 - Art 30. Charges and specifications](%C2%A7%2000830%20-%20Art%2030.%20Charges%20and%20specifications.md)
 - [&sect; 00830a - Art. 30a. Certain proceedings conducted before referral](%C2%A7%2000830a%20-%20Art.%2030a.%20Certain%20proceedings%20conducted%20before%20referral.md)
 - [&sect; 00831 - Art. 31. Compulsory self-incrimination prohibited](%C2%A7%2000831%20-%20Art.%2031.%20Compulsory%20self-incrimination%20prohibited.md)
-- [&sect; 00832 - Art. 32. Preliminary hearing](%C2%A7%2000832%20-%20Art.%2032.%20Preliminary%20hearing.md)
-- [&sect; 00833 - Art. 33. Forwarding of charges](%C2%A7%2000833%20-%20Art.%2033.%20Forwarding%20of%20charges.md)
-- [&sect; 00834 - Art. 34. Advice of staff judge advocate and reference for trial](%C2%A7%2000834%20-%20Art.%2034.%20Advice%20of%20staff%20judge%20advocate%20and%20reference%20for%20trial.md)
-- [&sect; 00835 - Art. 35. Service of charges](%C2%A7%2000835%20-%20Art.%2035.%20Service%20of%20charges.md)
+- [&sect; 00832 - Art. 32. Preliminary hearing required before referral to general court-martial](%C2%A7%2000832%20-%20Art.%2032.%20Preliminary%20hearing%20required%20before%20referral%20to%20general%20court-martial.md)
+- [&sect; 00833 - Art 33. Disposition guidance](%C2%A7%2000833%20-%20Art%2033.%20Disposition%20guidance.md)
+- [&sect; 00834 - Art. 34. Advice to convening authority before referral for trial](%C2%A7%2000834%20-%20Art.%2034.%20Advice%20to%20convening%20authority%20before%20referral%20for%20trial.md)
+- [&sect; 00835 - Art. 35. Service of charges; commencement of trial](%C2%A7%2000835%20-%20Art.%2035.%20Service%20of%20charges%3B%20commencement%20of%20trial.md)

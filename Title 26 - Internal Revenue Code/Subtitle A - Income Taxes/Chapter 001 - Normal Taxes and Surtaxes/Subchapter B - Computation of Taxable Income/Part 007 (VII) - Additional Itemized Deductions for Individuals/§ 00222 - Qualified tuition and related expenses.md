@@ -52,7 +52,7 @@ In the case of an individual, there shall be allowed as a deduction an amount eq
 
 #### (B) Coordination with exclusions
 
-&emsp;&emsp;The total amount of qualified tuition and related expenses shall be reduced by the amount of such expenses taken into account in determining any amount excluded under section 135, 529(c)(1), or 530(d)(2). For purposes of the preceding sentence, the amount taken into account in determining theamount excluded under section 529(c)(1) shall not include that portion of the distribution which represents a return of any contributions to the plan.
+&emsp;&emsp;The total amount of qualified tuition and related expenses shall be reduced by the amount of such expenses taken into account in determining any amount excluded under section 135, 529(c)(1), or 530(d)(2). For purposes of the preceding sentence, the amount taken into account in determining the amount excluded under section 529(c)(1) shall not include that portion of the distribution which represents a return of any contributions to the plan.
 
 #### (3) Dependents
 
@@ -104,9 +104,9 @@ For purposes of this section—
 
 #### (e) Termination
 
-This section shall not apply to taxable years beginning after December 31, 2016.
+This section shall not apply to taxable years beginning after December 31, 2017.
 
-(Added Pub. L. 107–16, title IV, §431(a), June 7, 2001, 115 Stat. 66; amended Pub. L. 108–357, title I, §102(d)(3), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 109–432, div. A, title I, §101(a), (b), Dec. 20, 2006, 120 Stat. 2933; Pub. L. 110–343, div. C, title II, §202(a), Oct. 3, 2008, 122 Stat. 3864; Pub. L. 111–312, title VII, §724(a), Dec. 17, 2010, 124 Stat. 3316; Pub. L. 112–240, title II, §207(a), Jan. 2, 2013, 126 Stat. 2324; Pub. L. 113–295, div. A, title I, §107(a), Dec. 19, 2014, 128 Stat. 4013; Pub. L. 114–27, title VIII, §804(b), June 29, 2015, 129 Stat. 415; Pub. L. 114–113, div. Q, title I, §153(a), Dec. 18, 2015, 129 Stat. 3066; Pub. L. 115–97, title I, §13305(b)(1), Dec. 22, 2017, 131 Stat. 2126.)
+(Added Pub. L. 107–16, title IV, §431(a), June 7, 2001, 115 Stat. 66; amended Pub. L. 108–357, title I, §102(d)(3), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 109–432, div. A, title I, §101(a), (b), Dec. 20, 2006, 120 Stat. 2933; Pub. L. 110–343, div. C, title II, §202(a), Oct. 3, 2008, 122 Stat. 3864; Pub. L. 111–312, title VII, §724(a), Dec. 17, 2010, 124 Stat.3316; Pub. L. 112–240, title II, §207(a), Jan. 2, 2013, 126 Stat. 2324; Pub. L. 113–295, div. A, title I, §107(a), Dec. 19, 2014, 128 Stat. 4013; Pub. L. 114–27, title VIII, §804(b), June 29, 2015, 129 Stat. 415; Pub. L. 114–113, div. Q, title I, §153(a), Dec. 18, 2015, 129 Stat. 3066; Pub. L. 115–97, title I, §13305(b)(1), Dec. 22, 2017, 131 Stat. 2126; Pub. L. 115–123, div. D, title I, §40203(a), Feb. 9, 2018, 132 Stat. 145.)
 
 #### Prior Provisions
 
@@ -115,6 +115,8 @@ A prior section 222 was renumbered section 224 of this title.
 Another prior section 222, added Pub. L. 97–34, title I, §125(a), Aug. 13, 1981, 95 Stat. 201; amended Pub. L. 97–448, title I, §101(f), Jan. 12, 1983, 96 Stat. 2367, related to deduction of adoption expenses, prior to repeal by Pub. L. 99–514, title I, §§135(a), 151(a), Oct. 22, 1986, 100 Stat. 2116, 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e). Pub. L. 115–123 substituted "December 31, 2017" for "December 31, 2016".
 
 <b>2017</b>—Subsec. (b)(2)(C)(i). Pub. L. 115–97 struck out "199," after "and sections".
 
@@ -136,13 +138,17 @@ Subsec. (e). Pub. L. 109–432, §101(a), substituted "2007" for "2005".
 
 <b>2004</b>—Subsec. (b)(2)(C)(i). Pub. L. 108–357 inserted "199," before "911".
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–123, div. D, title I, §40203(b), Feb. 9, 2018, 132 Stat. 145, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2016."
+
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–113, div. Q, title I, §153(b), Dec. 18, 2015, 129 Stat. 3066, provided that: "The amendment made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2014."
+Pub. L. 114–113, div. Q, title I, §153(b), Dec. 18, 2015, 129 Stat. 3066, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2014."
 
 Amendment by Pub. L. 114–27 applicable to taxable years beginning after June 29, 2015, see section 804(d) of Pub. L. 114–27, set out as a note under section 25A of this title.
 

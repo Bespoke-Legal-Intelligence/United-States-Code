@@ -3,16 +3,12 @@ Subpart F—Miscellaneous
 | Sec. |  |
 | :--- | ---: |
 | [681\.](%C2%A7%2000681%20-%20Limitation%20on%20charitable%20deduction.md) | Limitation on charitable deduction. |
-| [682\.](%C2%A7%2000682%20-%20Income%20of%20an%20estate%20or%20trust%20in%20case%20of%20divorce%2C%20etc.md) | Income of an estate or trust in case of divorce, etc. |
+| \[682. | Repealed.\] |
 | [683\.](%C2%A7%2000683%20-%20Use%20of%20trust%20as%20an%20exchange%20fund.md) | Use of trust as an exchange fund. |
 | [684\.](%C2%A7%2000684%20-%20Recognition%20of%20gain%20on%20certain%20transfers%20to%20certain%20foreign%20trusts%20and%20estates.md) | Recognition of gain on certain transfers to certain foreign trusts and estates. |
 | [685\.](%C2%A7%2000685%20-%20Treatment%20of%20funeral%20trusts.md) | Treatment of funeral trusts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 115–97, title I, §11051(b)(1)(C), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, provided that, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, this analysis is amended by striking item 682. See 2017 Amendment note below.</i>
 
 #### Amendments
 
@@ -32,7 +28,7 @@ Subpart F—Miscellaneous
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00681 - Limitation on charitable deduction](%C2%A7%2000681%20-%20Limitation%20on%20charitable%20deduction.md)
-- [&sect; 00682 - Income of an estate or trust in case of divorce, etc](%C2%A7%2000682%20-%20Income%20of%20an%20estate%20or%20trust%20in%20case%20of%20divorce%2C%20etc.md)
+- [&sect; 00682 - Repealed. Pub. L. 115&#8211;97, title I, &sect;11051(b)(1)(C), Dec. 22, 2017, 131 Stat. 2089](%C2%A7%2000682%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9397%2C%20title%20I%2C%20%C2%A711051%28b%29%281%29%28C%29%2C%20Dec.%2022%2C%202017%2C%20131%20Stat.%202089.md)
 - [&sect; 00683 - Use of trust as an exchange fund](%C2%A7%2000683%20-%20Use%20of%20trust%20as%20an%20exchange%20fund.md)
 - [&sect; 00684 - Recognition of gain on certain transfers to certain foreign trusts and estates](%C2%A7%2000684%20-%20Recognition%20of%20gain%20on%20certain%20transfers%20to%20certain%20foreign%20trusts%20and%20estates.md)
 - [&sect; 00685 - Treatment of funeral trusts](%C2%A7%2000685%20-%20Treatment%20of%20funeral%20trusts.md)

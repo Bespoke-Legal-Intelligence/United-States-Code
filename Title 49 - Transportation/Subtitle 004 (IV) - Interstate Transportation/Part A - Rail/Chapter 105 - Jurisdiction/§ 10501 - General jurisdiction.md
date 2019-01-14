@@ -42,7 +42,7 @@
 
 &emsp;(A) public transportation provided by a local government authority; or
 
-&emsp;(B) a solid waste rail transfer facility as defined in section 10908 of this title, except asprovided under sections 10908 and 10909 of this title.
+&emsp;(B) a solid waste rail transfer facility as defined in section 10908 of this title, except as provided under sections 10908 and 10909 of this title.
 
 (3)(A) Notwithstanding paragraph (2) of this subsection, a local governmental authority, described in paragraph (2), is subject to applicable laws of the United States related to—
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 #### Effective Date
 
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 
 #### Abolition of Interstate Commerce Commission
 

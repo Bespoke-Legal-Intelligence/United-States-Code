@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—If the Federal Government makes an overpayment to a contractor under a contract with an executive agency subject to this chapter and the overpayment was due to the submission by the contractor of defective cost or pricing data, the contractor shall be liable to the Federal Government—
+In General.—If the Federal Government makes an overpayment to a contractor under acontract with an executive agency subject to this chapter and the overpayment was due to the submission by the contractor of defective cost or pricing data, the contractor shall be liable to the Federal Government—
 
 &emsp;(1) for interest on the amount of the overpayment, to be computed—
 

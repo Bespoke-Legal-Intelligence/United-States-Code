@@ -32,7 +32,7 @@
 
 (2) The objective of the program shall be to obtain the maximum sustained reduction in fishing capacity at the least cost and in a minimum period of time. To achieve that objective, the Secretary is authorized to pay—
 
-&emsp;(A) the owner of a fishing vessel, if the permit authorizing the participation of the vessel in the fishery is surrendered for permanent revocation and the vessel owner and permit holder relinquish any claim associated with the vessel or permit that could qualify such owner or holder for any present or future limited access system permit in the fishery for which the program is established or in anyother fishery and such vessel is (i) scrapped, or (ii) through the Secretary of the department in which the Coast Guard is operating, subjected to title restrictions (including loss of the vessel's fisheries endorsement) that permanently prohibit and effectively prevent its use in fishing in federal <sup>1</sup> or state <sup>1</sup> waters, or fishing on the high seas or in the waters of a foreign nation; or
+&emsp;(A) the owner of a fishing vessel, if the permit authorizing the participation of the vessel in the fishery is surrendered for permanent revocation and the vessel owner and permit holder relinquish any claim associated with the vessel or permit that could qualify such owner or holder for any present or future limited access system permit in the fishery for which the program is established or in any other fishery and such vessel is (i) scrapped, or (ii) through the Secretary of the department in which the Coast Guard is operating, subjected to title restrictions (including loss of the vessel's fisheries endorsement) that permanently prohibit and effectively prevent its use in fishing in federal <sup>1</sup> or state <sup>1</sup> waters, or fishing on the high seas or in the waters of a foreign nation; or
 
 &emsp;(B) the holder of a permit authorizing participation in the fishery, if such permit is surrendered for permanent revocation, and such holder relinquishes any claim associated with the permit and vessel used to harvest fishery resources under the permit that could qualify such holder for any present or future limited access system permit in the fishery for which the program was established.
 
@@ -138,7 +138,7 @@ Basis for recommendations.—The Secretary shall base the recommendations made w
 
 #### (5) Reduction auctions
 
-&emsp;Each program not involving fair market assessment shall involve a reduction auction that scores the reduction price of each bid offer by the data relevant to each bidder under an appropriate fisheries productivity factor. If the Secretary accepts bids, the Secretary shall accept responsive bids in the rank order of their bid scores, starting with the bid whose reduction price is the lowest percentage of the productivity factor, and successively accepting each additional responsive bid in rank order until either there are no more responsive bids or acceptance of the next bid would cause the total value of bids accepted to exceed the amount of funds available for the program.
+&emsp;Each program not involving fair market assessment shall involve a reduction auctionthat scores the reduction price of each bid offer by the data relevant to each bidder under an appropriate fisheries productivity factor. If the Secretary accepts bids, the Secretary shall accept responsive bids in the rank order of their bid scores, starting with the bid whose reduction price is the lowest percentage of the productivity factor, and successively accepting each additional responsive bid in rank order until either there are no more responsive bids or acceptance of the next bid would cause the total value of bids accepted to exceed the amount of funds available for the program.
 
 #### (6) Bid invitations
 
@@ -174,7 +174,7 @@ Subsec. (b)(5), (6). Pub. L. 109–479, §112(a)(8), added pars. (5) and (6).
 
 Subsec. (d)(1)(A). Pub. L. 109–479, §112(a)(9), (10), in introductory provisions, substituted "Secretary" for "Secretary, at the request of the appropriate Council," before "may conduct" and "Secretary" for "Secretary, in consultation with the Council," before "shall—".
 
-Subsec. (d)(1)(B). Pub. L. 109–479, §112(a)(11), substituted "at least a majority of the permit holders inthe fishery, or 50 percent of the permitted allocation of the fishery, who participated in the fishery." for "a two-thirds majority of the participants voting."
+Subsec. (d)(1)(B). Pub. L. 109–479, §112(a)(11), substituted "at least a majority of the permit holders in the fishery, or 50 percent of the permitted allocation of the fishery, who participated in the fishery." for "a two-thirds majority of the participants voting."
 
 Subsec. (d)(2)(C). Pub. L. 109–479, §112(a)(12), substituted "establish, unless the Secretary determines that such fees should be collected from the seller;" for "establish;".
 

@@ -50,11 +50,11 @@ This section may be cited as the "Architect of the Capitol Human Resources Act".
 
 &emsp;&emsp;(B) submit the plan to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, the Joint Committee on the Library, and the Committees on Appropriations of the Senate and the House of Representatives not later than 12 months after July 22, 1994; and
 
-&emsp;&emsp;(C) implement the plan not later than 90 days after the plan is submitted to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, the Joint Committee on the Library, and the Committees on Appropriations of the Senate and the House of Representatives, as specified in subparagraph (B).
+&emsp;&emsp;(C) implement the plan not later than 90 days after the plan is submitted to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of theSenate, the Joint Committee on the Library, and the Committees on Appropriations of the Senate and the House of Representatives, as specified in subparagraph (B).
 
 #### (2) Evaluation and reporting
 
-&emsp;The Architect of the Capitol shall develop a system of oversight and evaluation to ensurethat the personnel management system of the Architect of the Capitol achieves the requirements of subsection (c) and complies with all other relevant laws, rules and regulations. The Architect of the Capitol shall report to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, and the Joint Committee on the Library on an annual basis the results of its evaluation under this subsection.
+&emsp;The Architect of the Capitol shall develop a system of oversight and evaluation to ensure that the personnel management system of the Architect of the Capitol achieves the requirements of subsection (c) and complies with all other relevant laws, rules and regulations. The Architect of the Capitol shall report to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, and the Joint Committee on the Library on an annual basis the results of its evaluation under this subsection.
 
 #### (3) Application of laws
 
@@ -114,5 +114,5 @@ Pub. L. 107–68, title I, §133(a), Nov. 12, 2001, 115 Stat. 581, as amended by
 
 #### Treatment of Separated Employees of Architect of Capitol
 
-Pub. L. 105–55, title III, §310, Oct. 7, 1997, 111 Stat. 1199, as amended by Pub. L. 105–275, title III, §308(b)–(d), Oct. 21, 1998, 112 Stat. 2452, 2453; Pub. L. 106–57, title III, §308, Sept. 29, 1999, 113 Stat. 427, provided early retirement benefits, voluntary separation incentive payments, competitive service treatment, and retraining, job placement, and counseling services to certain employees of the Office of the Architect of the Capitol.
+Pub. L. 105–55, title III, §310, Oct. 7, 1997, 111 Stat. 1199, as amended by Pub. L. 105–275, title III, §308(b)–(d), Oct. 21, 1998, 112 Stat. 2452, 2453; Pub. L. 106–57, title III, §308, Sept. 29, 1999, 113 Stat. 427, provided early retirement benefits, voluntary separation incentive payments, competitive service treatment, and retraining,job placement, and counseling services to certain employees of the Office of the Architect of the Capitol.
 

@@ -18,7 +18,7 @@ As used in this subchapter, the term—
 
 &emsp;&emsp;(C) to the extent such matters are specifically provided for by Federal statute; or
 
-&emsp;&emsp;(D) relating to Government-wide or multiagency responsibility of the Secretary affecting the rights, benefits, or obligations of individuals employed in agencies other than those which are authorized to utilize the Foreign Service personnel system;
+&emsp;&emsp;(D) relating to Government-wide or multiagency responsibility of the Secretary affecting the rights, benefits, or obligations of individuals employed in agencies other thanthose which are authorized to utilize the Foreign Service personnel system;
 
 &emsp;(6) "confidential employee" means an employee who acts in a confidential capacity with respect to an individual who formulates or effectuates management policies in the field of labor-management relations;
 

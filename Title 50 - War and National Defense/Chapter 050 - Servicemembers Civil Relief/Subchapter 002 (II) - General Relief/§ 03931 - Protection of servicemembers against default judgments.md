@@ -20,7 +20,7 @@ This section applies to any civil action or proceeding, including any child cust
 
 #### (3) Defendant's military status not ascertained by affidavit
 
-&emsp;If based upon the affidavits filed in such an action, the court is unable to determinewhether the defendant is in military service, the court, before entering judgment, may require the plaintiff to file a bond in an amount approved by the court. If the defendant is later found to be in military service, the bond shall be available to indemnify the defendant against any loss or damage the defendant may suffer by reason of any judgment for the plaintiff against the defendant, should the judgment be set aside in whole or in part. The bond shall remain in effect until expiration of the time for appeal and setting aside of a judgment under applicable Federal or State law or regulation or under any applicable ordinance of a political subdivision of a State. The court may issue such orders or enter such judgments as the court determines necessary to protect the rights of the defendant under this chapter.
+&emsp;If based upon the affidavits filed in such an action, the court is unable to determine whether the defendant is in military service, the court, before entering judgment, may require the plaintiff to file a bond in an amount approved by the court. If the defendant is later found to be in military service, the bond shall be available to indemnify the defendant against any loss or damage the defendant may suffer by reason of any judgment for the plaintiff against the defendant, should the judgment be set aside in whole or in part. The bond shall remain in effect until expiration of the time for appeal and setting aside of a judgment under applicable Federal or State law or regulation or under any applicable ordinance of a political subdivision of a State. The court may issue such orders or enter such judgments as the court determines necessary to protect the rights of the defendant under this chapter.
 
 #### (4) Satisfaction of requirement for affidavit
 
@@ -79,4 +79,8 @@ Provisions similar to this section were contained in section 200 of act Oct. 17,
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181 inserted ", including any child custody proceeding," after "proceeding".
+
+#### Effective Date
+
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under section 3901 of this title.
 

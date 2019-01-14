@@ -6,7 +6,7 @@ An individual who has been awarded compensation under this part, and who has als
 
 #### (b) Waiver
 
-The Secretary may waive the provisions of subsection (a) if the Secretary determines thatthe administrative costs and burdens of implementing subsection (a) with respect to a particular case or class of cases justifies such a waiver.
+The Secretary may waive the provisions of subsection (a) if the Secretary determines that the administrative costs and burdens of implementing subsection (a) with respect to a particular case or class of cases justifies such a waiver.
 
 #### (c) Information
 

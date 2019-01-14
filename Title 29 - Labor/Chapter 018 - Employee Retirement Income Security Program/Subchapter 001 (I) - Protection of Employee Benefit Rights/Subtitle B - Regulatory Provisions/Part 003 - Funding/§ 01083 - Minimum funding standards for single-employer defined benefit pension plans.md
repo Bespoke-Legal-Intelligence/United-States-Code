@@ -60,7 +60,7 @@ For purposes of this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a plan sponsor elects to apply this subparagraph with respect to the shortfallamortization base of a plan for any eligible plan year (in this subparagraph and paragraph (7) referred to as an "election year"), then, notwithstanding subparagraphs (A) and (B)—
+&emsp;&emsp;&emsp;If a plan sponsor elects to apply this subparagraph with respect to the shortfall amortization base of a plan for any eligible plan year (in this subparagraph and paragraph (7) referred to as an "election year"), then, notwithstanding subparagraphs (A) and (B)—
 
 &emsp;&emsp;&emsp;&emsp;(I) the shortfall amortization installments with respect to such base shall be determined under clause (ii) or (iii), whichever is specified in the election, and
 
@@ -76,7 +76,7 @@ For purposes of this section:
 
 #### (iii) 15-year amortization
 
-&emsp;&emsp;&emsp;The shortfall amortization installments determined under this subparagraph are the amounts necessary to amortize the shortfall amortization base of the plan for the election year in level annual installments over the 15-plan-year period beginning with the election year (using the segment rates under subparagraph (C) for the election year).
+&emsp;&emsp;&emsp;The shortfall amortization installments determined under this subparagraph are the amounts necessary to amortize the shortfall amortization base of the plan forthe election year in level annual installments over the 15-plan-year period beginning with the election year (using the segment rates under subparagraph (C) for the election year).
 
 #### (iv) Election
 
@@ -142,7 +142,7 @@ For purposes of this section:
 
 &emsp;&emsp;Subject to rules prescribed by the Secretary of the Treasury, if a shortfall amortization installment with respect to any shortfall amortization base for an election year is required to be increased for any plan year under subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) such increase shall not result in the amount of such installment exceeding the present value of such installment and all succeeding installments with respect to such base (determined without regard to such increase but after application of clause (ii)), and
+&emsp;&emsp;&emsp;(i) such increase shall not result in the amount of such installment exceeding thepresent value of such installment and all succeeding installments with respect to such base (determined without regard to such increase but after application of clause (ii)), and
 
 &emsp;&emsp;&emsp;(ii) subsequent shortfall amortization installments with respect to such base shall, in reverse order of the otherwise required installments, be reduced to the extent necessary to limit the present value of such subsequent shortfall amortization installments (after application of this paragraph) to the present value of the remaining unamortized shortfall amortization base.
 
@@ -202,7 +202,7 @@ For purposes of this section:
 
 #### (iii) Only remuneration for certain post-2009 services counted
 
-&emsp;&emsp;&emsp;Remuneration shall be taken into account under clause (i) only to the extent attributable to services performed by the employee for the plan sponsor after February 28, 2010.
+&emsp;&emsp;&emsp;Remuneration shall be taken into account under clause (i) only to the extentattributable to services performed by the employee for the plan sponsor after February 28, 2010.
 
 #### (iv) Exception for certain equity payments
 
@@ -278,7 +278,7 @@ For purposes of this section:
 
 #### (i) Plan sponsor
 
-&emsp;&emsp;&emsp;The term "plan sponsor" includes any member of the plan sponsor's controlled group (as defined in section 1082(d)(3) of this title).
+&emsp;&emsp;&emsp;The term "plan sponsor" includes any member of the plan sponsor's controlledgroup (as defined in section 1082(d)(3) of this title).
 
 #### (ii) Restriction period
 
@@ -336,7 +336,7 @@ For purposes of this section—
 
 #### (4) Waiver amortization base
 
-&emsp;The waiver amortization base of a plan for a plan year is the amount of the waived fundingdeficiency (if any) for such plan year under section 1082(c) of this title.
+&emsp;The waiver amortization base of a plan for a plan year is the amount of the waived funding deficiency (if any) for such plan year under section 1082(c) of this title.
 
 #### (5) Early deemed amortization upon attainment of funding target
 
@@ -572,7 +572,7 @@ For purposes of this section—
 
 #### (B) Special rule for current year contributions made before valuation date
 
-&emsp;&emsp;If any contributions for any plan year are made to or under the plan during the planyear but before the valuation date for the plan year, the assets of the plan as of the valuation date shall not include—
+&emsp;&emsp;If any contributions for any plan year are made to or under the plan during the plan year but before the valuation date for the plan year, the assets of the plan as of the valuation date shall not include—
 
 &emsp;&emsp;&emsp;(i) such contributions, and
 
@@ -598,7 +598,7 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of determining the funding target and normal cost of a plan for any plan year, the interest rate used in determining the present value of the benefits of the plan shall be—
 
-&emsp;&emsp;&emsp;(i) in the case of benefits reasonably determined to be payable during the 5-year period beginning on the valuation date for the plan year, the first segment rate with respect to the applicable month,
+&emsp;&emsp;&emsp;(i) in the case of benefits reasonably determined to be payable during the 5-yearperiod beginning on the valuation date for the plan year, the first segment rate with respect to the applicable month,
 
 &emsp;&emsp;&emsp;(ii) in the case of benefits reasonably determined to be payable during the 15-year period beginning at the end of the period described in clause (i), the second segment rate with respect to the applicable month, and
 
@@ -644,7 +644,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "corporate bond yield curve" means, with respect to any month, a yieldcurve which is prescribed by the Secretary of the Treasury for such month and which reflects the average, for the 24-month period ending with the month preceding such month, of monthly yields on investment grade corporate bonds with varying maturities and that are in the top 3 quality levels available.
+&emsp;&emsp;&emsp;The term "corporate bond yield curve" means, with respect to any month, a yield curve which is prescribed by the Secretary of the Treasury for such month and which reflects the average, for the 24-month period ending with the month preceding such month, of monthly yields on investment grade corporate bonds with varying maturities and that are in the top 3 quality levels available.
 
 #### (ii) Election to use yield curve
 
@@ -656,7 +656,7 @@ For purposes of this section—
 
 #### (F) Publication requirements
 
-&emsp;&emsp;The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) <sup>2</sup> of this title for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan's projection of future interest rates.
+&emsp;&emsp;The Secretary of the Treasury shall publish for each month the corporate bond yieldcurve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) <sup>2</sup> of this title for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan's projection of future interest rates.
 
 #### (3) Mortality tables
 
@@ -702,7 +702,7 @@ For purposes of this section—
 
 #### (I) Submission
 
-&emsp;&emsp;&emsp;&emsp;The plan sponsor shall submit a mortality table to the Secretary of the Treasury for approval under this subparagraph at least 7 months before the1st day of the period described in clause (i).
+&emsp;&emsp;&emsp;&emsp;The plan sponsor shall submit a mortality table to the Secretary of the Treasury for approval under this subparagraph at least 7 months before the 1st day of the period described in clause (i).
 
 #### (II) Disposition
 
@@ -718,7 +718,7 @@ For purposes of this section—
 
 #### (ii) Special rule for disabilities occurring after 1994
 
-&emsp;&emsp;&emsp;In the case of disabilities occurring in plan years beginning after December 31, 1994, the tables under clause (i) shall apply only with respect to individuals described in such subclause who are disabled within the meaning of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and the regulations thereunder.
+&emsp;&emsp;&emsp;In the case of disabilities occurring in plan years beginning after December 31, 1994, the tables under clause (i) shall apply only with respect to individuals described in such subclause who are disabled withinthe meaning of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and the regulations thereunder.
 
 #### (iii) Periodic revision
 
@@ -885,7 +885,7 @@ For purposes of this section—
 
 #### (2) Interest
 
-&emsp;Any payment required under paragraph (1) for a plan year that is made on a date other than the valuation date for such plan year shall be adjusted for interest accruing for the period between the valuation date and the payment date, at the effective rate of interest for the plan for such plan year.
+&emsp;Any payment required under paragraph (1) for a plan year that is made on a date other than the valuation date for such plan year shall be adjusted for interest accruing for theperiod between the valuation date and the payment date, at the effective rate of interest for the plan for such plan year.
 
 #### (3) Accelerated quarterly contribution schedule for underfunded plans
 
@@ -987,7 +987,7 @@ For purposes of this section—
 
 #### (C) Period of underpayment
 
-&emsp;&emsp;For purposes of paragraph (3)(A), any portion of an installment that is treated as not paid under subparagraph (A) shall continue to be treated as unpaid until the close of the quarter in which the due date for such installment occurs.
+&emsp;&emsp;For purposes of paragraph (3)(A), any portion of an installment that is treated as notpaid under subparagraph (A) shall continue to be treated as unpaid until the close of the quarter in which the due date for such installment occurs.
 
 #### (D) Limitation on increase
 
@@ -1049,7 +1049,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the unpaid balance of such payment (including interest), when added to the aggregate unpaid balance of all preceding such payments for which payment was not made before the due date (including interest), exceeds $1,000,000,
 
-> &emsp;then there shall be a lien in favor of the plan in the amount determined under paragraph (3)upon all property and rights to property, whether real or personal, belonging to such person and any other person who is a member of the same controlled group of which such person is a member.
+> &emsp;then there shall be a lien in favor of the plan in the amount determined under paragraph (3) upon all property and rights to property, whether real or personal, belonging to such person and any other person who is a member of the same controlled group of which such person is a member.
 
 #### (2) Plans to which subsection applies
 
@@ -1067,7 +1067,7 @@ For purposes of this section—
 
 #### (B) Period of lien
 
-&emsp;&emsp;The lien imposed by paragraph (1) shall arise on the due date for the required contribution payment and shall continue until the last day of the first plan year in which the plan ceases to be described in paragraph (1)(B). Such lien shall continue to run without regard to whether such plan continues to be described in paragraph (2) during the period referred to in the preceding sentence.
+&emsp;&emsp;The lien imposed by paragraph (1) shall arise on the due date for the required contribution payment and shall continue until the last day of the first plan year in which the plan ceases to be described in paragraph (1)(B). Such lien shall continue to run without regard to whether such plan continues tobe described in paragraph (2) during the period referred to in the preceding sentence.
 
 #### (C) Certain rules to apply
 
@@ -1141,7 +1141,7 @@ Subsec. (j)(3)(F). Pub. L. 111–192, §201(a)(3)(B), added subpar. (F).
 
 Subsec. (c)(5)(B)(i). Pub. L. 110–458, §202(a)(2), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "Except as provided in clauses (iii) and (iv), in the case of plan years beginning after 2007 and before 2011, only the applicable percentage of the funding target shall be taken into account under paragraph (3)(A) in determining the funding shortfall for the plan year for purposes of subparagraph (A)."
 
-Subsec. (c)(5)(B)(iii). Pub. L. 110–458, §202(a)(1), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: "Clause (i) shall not apply with respect to any plan year beginning after 2008 unless the shortfall amortization base for each of the preceding years beginning after 2007 was zero (determined after application of this subparagraph)."
+Subsec. (c)(5)(B)(iii). Pub. L. 110–458, §202(a)(1), redesignated cl. (iv) as (iii) and struck out former cl. (iii).Prior to amendment, text read as follows: "Clause (i) shall not apply with respect to any plan year beginning after 2008 unless the shortfall amortization base for each of the preceding years beginning after 2007 was zero (determined after application of this subparagraph)."
 
 Pub. L. 110–458, §101(b)(1)(B), inserted "beginning" before "after 2008".
 
@@ -1203,7 +1203,7 @@ Pub. L. 109–280, title I, §102(c), Aug. 17, 2006, 120 Stat. 809, provided tha
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub.L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Modification of Transition Rule to Pension Funding Requirements
 

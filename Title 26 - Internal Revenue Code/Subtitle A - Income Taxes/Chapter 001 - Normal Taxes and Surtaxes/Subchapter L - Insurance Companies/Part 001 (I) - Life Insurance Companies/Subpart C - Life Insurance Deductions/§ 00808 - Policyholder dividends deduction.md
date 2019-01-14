@@ -96,7 +96,7 @@ For purposes of this subchapter—
 
 #### (1) In general
 
-&emsp;The term "prevailing State assumed interest rate" means, with respect to any contract, the highest assumed interest rate permitted to be used in computing life insurance reserves for insurance contracts or annuity contracts (as the case may be) under the insurance laws of at least 26 States. For purposes of the preceding sentence, the effect of nonforfeiture laws of a State on interest rates for reserves shall not be taken into account.
+&emsp;The term "prevailing State assumed interest rate" means, with respect to any contract, the highest assumed interest rate permitted to be used in computing life insurance reserves for insurance contracts or annuity contracts (asthe case may be) under the insurance laws of at least 26 States. For purposes of the preceding sentence, the effect of nonforfeiture laws of a State on interest rates for reserves shall not be taken into account.
 
 #### (2) When rate determined
 
@@ -122,7 +122,7 @@ In general.—Except as limited by paragraph (2), the deduction for policyholder
 
 Reduction in case of mutual companies.—In the case of a mutual life insurance company, the deduction for policyholder dividends for any taxable year shall be reduced by the amount determined under section 809."
 
-<b>1986</b>—Subsec. (d)(1)(B). Pub. L. 99–514, §1821(b), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: "determined at a rate in excess of the prevailing State assumed interest rate for such contract."
+<b>1986</b>—Subsec. (d)(1)(B). Pub. L. 99–514, §1821(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "determined at a rate in excess of the prevailing State assumed interest rate for such contract."
 
 Subsec. (f). Pub. L. 99–514, §1821(c), added subsec. (f).
 

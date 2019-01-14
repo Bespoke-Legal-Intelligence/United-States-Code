@@ -30,7 +30,7 @@ Notification.—A person operating as a flight instructor, pilot school, or avia
 
 (d)
 
-Expedited Processing.—Not later than 60 days after the date of enactment of this section, the Secretary shall establish a process to ensure that the waiting period under subsection (a) shall not exceed 5 days for an alien (as defined in section 101(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3))) who—
+Expedited Processing.—The Secretary of Homeland Security shall establish a process toensure that the waiting period under subsection (a) shall not exceed 5 days for an alien (as defined in section 101(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3))) who—
 
 &emsp;(1) holds an airman's certification of a foreign country that is recognized by an agency of the United States, including a military agency, that permits an individual to operate a multi-engine aircraft that has a certificated takeoff weight of more than 12,500 pounds;
 
@@ -72,13 +72,11 @@ Interagency Cooperation.—The Attorney General, the Director of Central Intelli
 
 Security Awareness Training for Employees.—The Secretary shall require flight schools to conduct a security awareness program for flight school employees to increase their awareness of suspicious circumstances and activities of individuals enrolling in or attending flight school.
 
-(Added Pub. L. 107–71, title I, §113(a), Nov. 19, 2001, 115 Stat. 622; amended Pub. L. 108–176, title VI, §612(a), Dec. 12, 2003, 117 Stat. 2572.)
-
-#### References in Text
-
-The date of enactment of this section, referred to in subsec. (d), probably means the date of enactment of Pub. L. 108–176, which amended this section generally and was approved Dec. 12, 2003.
+(Added Pub. L. 107–71, title I, §113(a), Nov. 19, 2001, 115 Stat. 622; amended Pub. L. 108–176, title VI, §612(a), Dec. 12, 2003, 117 Stat. 2572; Pub. L. 115–254, div. K, title I, §1991(d)(30), Oct. 5, 2018, 132 Stat. 3639.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–254 substituted "The Secretary of Homeland Security" for "Not later than 60 days after the date of enactment of this section, the Secretary" in introductory provisions.
 
 <b>2003</b>—Pub. L. 108–176 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to waiting period for training, interruption of training, covered training, and security awareness training for employees.
 

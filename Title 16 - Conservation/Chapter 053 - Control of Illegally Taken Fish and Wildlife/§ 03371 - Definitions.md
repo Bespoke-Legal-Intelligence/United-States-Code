@@ -68,7 +68,7 @@ Taking.—The term "taking" means the act by which fish, wildlife, or plants are
 
 This chapter, referred to in the provision preceding par. (a), and in par. (h), was in the original "this Act" and "the Act", meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (f)(3)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (f)(3)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 Reorganization Plan No. 4 of 1970 (84 Stat. 2090), referred to in par. (h), is set out in the Appendix to Title 5, Government Organization and Employees.
 

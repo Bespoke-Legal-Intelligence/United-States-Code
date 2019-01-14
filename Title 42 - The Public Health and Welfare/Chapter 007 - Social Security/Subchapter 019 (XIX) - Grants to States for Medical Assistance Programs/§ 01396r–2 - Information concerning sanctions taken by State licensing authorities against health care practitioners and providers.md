@@ -122,7 +122,7 @@ In implementing this section, the Secretary shall provide for the maximum approp
 
 Section 1320c–3(a)(4)(C) of this title, referred to in subsec. (b)(4), was repealed by Pub. L. 112–40, title II, §261(c)(2)(A)(ii), Oct. 21, 2011, 125 Stat. 425.
 
-The Health Care Quality Improvement Act of 1986 and that Act, referred to in subsecs. (b)(6) and (h), are title IV of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3784, which is classified generally to chapter 117 (§11101 et seq.) of this title. Part B of the Act is classified generally to subchapter II (§11131 et seq.) of chapter 117 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 11101 of this title and Tables.
+The Health Care Quality Improvement Act of 1986 and that Act, referred to in subsecs. (b)(6) and (h), are title IV of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3784, which is classified generally to chapter 117 (§11101 et seq.) of this title. Part B of the Act is classified generally to subchapter II (§11131 et seq.) of chapter 117 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11101 of this title and Tables.
 
 #### Prior Provisions
 

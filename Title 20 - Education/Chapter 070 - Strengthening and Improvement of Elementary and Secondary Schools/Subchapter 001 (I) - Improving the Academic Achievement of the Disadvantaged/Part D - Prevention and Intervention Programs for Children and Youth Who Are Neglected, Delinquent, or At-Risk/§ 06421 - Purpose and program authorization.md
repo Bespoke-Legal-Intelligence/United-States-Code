@@ -12,7 +12,7 @@ It is the purpose of this part—
 
 #### (b) Program authorized
 
-In order to carry out the purpose of this part and from amounts appropriated under section 6302(d) of this title, the Secretary shall make grants to State educational agencies to enable such agencies to award subgrants to State agencies and local educational agencies to establish or improve programs of education for neglected, delinquent, or at-risk children and youth.
+In order to carry out the purpose of this part and from amounts appropriated under section 6302(d) of this title, the Secretary shall make grants to State educational agencies to enablesuch agencies to award subgrants to State agencies and local educational agencies to establish or improve programs of education for neglected, delinquent, or at-risk children and youth.
 
 (Pub. L. 89–10, title I, §1401, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1580; amended Pub. L. 114–95, title I, §1401(1), Dec. 10, 2015, 129 Stat. 1900.)
 

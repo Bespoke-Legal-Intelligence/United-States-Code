@@ -10,19 +10,25 @@ Except as to the installation of works of improvement on Federal lands, the Secr
 
 #### (3) Transmission of certain plans to Congress
 
-Whenever the estimated Federal contribution to the construction cost of works of improvement in the plan for any watershed or subwatershed area shall exceed $5,000,000 or the works of improvement include any structure having a total capacity in excess of twenty-five hundred acre-feet, the Secretary shall transmit a copy of the plan and the justification therefor to the Congress through the President.
+Whenever the estimated Federal contribution to the construction cost of works of improvement in the plan for any watershed or subwatershed area shall exceed $25,000,000 or the works of improvement include any structure having a total capacity in excess of twenty-five hundred acre-feet, the Secretary shall transmit a copy of the plan and the justification therefor to the Congress through the President.
 
 #### (4) Transmission of certain plans and recommendations to Congress
 
-Any plans for works of improvement involving an estimated Federal contribution to construction costs in excess of $5,000,000 or including any structure having a total capacity in excess of twenty-five hundred acre-feet (a) which includes works of improvement for reclamation or irrigation, or which affects public or other lands or wildlife under the jurisdiction of the Secretary of the Interior, (b) which includes Federal assistance for goodwater <sup>1</sup> detention structures, (c) which includes features which may affect the public health, or (d) which includes measures for control or abatement of water pollution, shall be submitted to the Secretary of the Interior, the Secretary of the Army, the Secretary of Health and Human Services, or the Administrator of the Environmental Protection Agency, respectively, for his views and recommendations at least thirty days prior to transmission of the plan to the Congress through the President. The views and recommendations of the Secretary of the Interior, the Secretary of the Army, the Secretary of Health and Human Services, and the Administrator of the Environmental Protection Agency, if received by the Secretary prior to the expiration of the above thirty-day period, shall accompany the plan transmitted by the Secretary to the Congress through the President.
+Any plans for works of improvement involving an estimated Federal contribution to construction costs in excess of $25,000,000 or including any structure having a total capacity in excess of twenty-five hundred acre-feet (a) which includes works of improvement for reclamation or irrigation, or which affects public or other lands or wildlife under the jurisdiction of the Secretary of the Interior, (b) which includes Federal assistance for floodwater detention structures, (c) which includes features which may affect the public health, or (d) which includes measures for control or abatement of water pollution, shall be submitted to the Secretary of the Interior, the Secretary of the Army, the Secretary of Health and Human Services, or the Administrator of the Environmental Protection Agency, respectively, for his views and recommendations at least thirty days prior to transmission of the plan to the Congress through the President. The views and recommendations of the Secretary of the Interior, the Secretary of the Army, the Secretary of Health and Human Services, and the Administrator of the Environmental Protection Agency, if received by the Secretary prior to the expiration of the above thirty-day period, shall accompany the plan transmitted by the Secretary to the Congress through the President.
 
 #### (5) Rules and regulations
 
 Prior to any Federal participation in the works of improvement under this chapter, the President shall issue such rules and regulations as he deems necessary or desirable to carry out the purposes of this chapter, and to assure the coordination of the work authorized under this chapter and related work of other agencies, including the Department of the Interior and the Department of the Army.
 
-(Aug. 4, 1954, ch. 656, §5, 68 Stat. 667; July 19, 1956, ch. 639, 70 Stat. 580; Aug. 7, 1956, ch. 1027, §1(f), 70 Stat. 1089; Pub. L. 87–703, title I, §105, Sept. 27, 1962, 76 Stat. 609; Pub. L. 90–361, June 27, 1968, 82 Stat. 250; Pub. L. 92–419, title II, §201(g), Aug. 30, 1972, 86 Stat. 669; Pub. L. 95–113, title XV, §1506(b), (c), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–98, title XV, §1512(e), (f), Dec. 22, 1981, 95 Stat. 1333.)
+(Aug. 4, 1954, ch. 656, §5, 68 Stat. 667; July 19, 1956, ch. 639, 70 Stat. 580; Aug. 7, 1956, ch. 1027, §1(f), 70 Stat. 1089; Pub. L. 87–703, title I, §105, Sept. 27, 1962, 76 Stat. 609; Pub. L. 90–361, June 27, 1968, 82 Stat. 250; Pub. L. 92–419, title II, §201(g), Aug. 30, 1972, 86 Stat. 669; Pub. L. 95–113, title XV, §1506(b), (c), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 97–98, title XV, §1512(e), (f), Dec. 22, 1981, 95 Stat. 1333; Pub. L. 115–141, div. A, title VII, §761(b), Mar. 23, 2018, 132 Stat. 396; Pub. L. 115–334, title II, §2821(a), Dec. 20, 2018, 132 Stat. 4602.)
 
 #### Amendments
+
+<b>2018</b>—Subd. (3). Pub. L. 115–141, §761(b)(1), substituted "$25,000,000" for "$5,000,000".
+
+Subd. (4). Pub. L. 115–334 substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare" in two places and, in item (b), substituted "floodwater" for "goodwater".
+
+Pub. L. 115–141, §761(b)(2), substituted "$25,000,000" for "$5,000,000".
 
 <b>1981</b>—Subd. (3). Pub. L. 97–98, §1512(e), substituted "$5,000,000" for "$1,000,000".
 
@@ -46,10 +52,6 @@ Subds. (3) to (5). Pub. L. 87–703 designated existing provisions as subds. (3)
 
 Act July 19, 1956, substituted "fifteen" for "forty-five".
 
-#### Change of Name
-
-"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in par. (4) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
-
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of Title 7, Agriculture.
@@ -60,7 +62,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of Agricultureunder this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1002 of this title.
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1002 of this title.
 
 #### Extension of Benefits to Projects Authorized Before Aug. 7, 1956
 
@@ -106,7 +108,7 @@ Sec. 4. <i>Coordination</i>. In order to assure the coordination of work authori
 
 (1) When an application applies to a watershed located in one of the seventeen western reclamation States or Hawaii and it appears that a major objective is the agricultural phases of the conservation, development, utilization, and disposal of water for irrigation purposes, request the views of the Secretary of the Interior concerning the feasibility of achieving equivalent irrigation benefits by means of works of improvement constructed pursuant to the Reclamation Act of June 17, 1902 (43 U.S.C. 391), and acts amendatory or supplementary thereto, or by means of assistance furnished pursuant to the Small Reclamation Projects Act of 1956, as amended (43 U.S.C. 422a–422k) \[43 U.S.C. 422a to 422k–1\], and authorize planning assistance under the Act only after carefully considering whether works of improvement under the Act would be a more appropriate method of achieving that objective.
 
-(2) When it appears that a major objective of an application is the reduction of flood damages in urbanareas (as defined in the most recent census), request the views of the Secretary of the Army concerning the feasibility of achieving equivalent urban flood protection benefits by means of works of improvement constructed pursuant to the Flood Control Act of March 1, 1917 (39 Stat. 948), the Flood Control Act of May 15, 1928 (45 Stat. 534), the Flood Control Act of June 22, 1936 (49 Stat. 1570), or acts amendatory or supplementary thereto, and authorize planning assistance under the Act only after carefully considering whether works of improvement under the Act would be a more appropriate method of achieving that objective.
+(2) When it appears that a major objective of an application is the reduction of flood damages in urban areas (as defined in the most recent census), request the views of the Secretary of the Army concerning the feasibility of achieving equivalent urban flood protection benefits by means of works of improvement constructed pursuant to the Flood Control Act of March 1, 1917 (39 Stat. 948), the Flood Control Act of May 15, 1928 (45 Stat. 534), the Flood Control Act of June 22, 1936 (49 Stat. 1570), or acts amendatory or supplementary thereto, and authorize planning assistance under the Act only after carefully considering whether works of improvement under the Act would be a more appropriate method of achieving that objective.
 
 (3) When an application applies to a watershed located in the Tennessee River drainage basin, request the views of the Board of Directors of the Tennessee Valley Authority concerning the feasibility of achieving the objectives of the application by means of works of improvement for flood control or watershed protection constructed under the Tennessee Valley Authority Act of 1933, as amended (16 U.S.C. 831 et seq.), and authorize planning assistance under the Act only after carefully considering whether works of improvement under the Act would be a more appropriate method of achieving such objectives; and when such planning assistance is authorized, consult with the Tennessee Valley Authority throughout all phases of project development concerning the relationship of works of improvement under the Act to the unified development and regulation of the Tennessee River system.
 
@@ -145,6 +147,4 @@ The functions vested in the President by the third proviso of section 5 of the W
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget, referred to in Ex. Ord. No. 10654, transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget and Director of Bureau of the Budget as Director of Office of Management and Budget.\]
-
-<i><sup>1</sup></i><i> So in original. Probably should be "floodwater".</i>
 

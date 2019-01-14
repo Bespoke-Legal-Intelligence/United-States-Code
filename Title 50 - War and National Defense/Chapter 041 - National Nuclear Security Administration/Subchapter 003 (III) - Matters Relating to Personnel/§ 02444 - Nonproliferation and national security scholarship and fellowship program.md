@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Administrator for Nuclear Security shall carry out a program to provide scholarships and fellowships for the purpose of enabling individuals to qualify for employment in the nonproliferation and national security programs of the Department of Energy.
+The Administrator for Nuclear Security shall carry out a program to provide scholarships andfellowships for the purpose of enabling individuals to qualify for employment in the nonproliferation and national security programs of the Department of Energy.
 
 #### (b) Eligible individuals
 
@@ -70,7 +70,7 @@ In evaluating individuals for the award of a scholarship or fellowship under the
 
 #### (f) Coordination of benefits
 
-A scholarship or fellowship awarded under the program established under this section shall be taken into account in determining the eligibility of an individual receiving such scholarship or fellowship for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.).
+A scholarship or fellowship awarded under the program established under this section shall betaken into account in determining the eligibility of an individual receiving such scholarship or fellowship for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.).
 
 #### (g) Report to Congress
 

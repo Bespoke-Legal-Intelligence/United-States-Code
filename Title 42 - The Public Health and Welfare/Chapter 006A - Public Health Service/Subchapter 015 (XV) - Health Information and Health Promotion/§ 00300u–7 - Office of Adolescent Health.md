@@ -42,7 +42,7 @@ In carrying out subsection (b), the Secretary shall develop a national plan for 
 
 #### (f) Adolescent health
 
-For purposes of this section, the term "adolescent health", with respect to adolescents of all ethnic and racial groups, means all diseases, disorders, and conditions (including with respect to mental health)—
+For purposes of this section, the term "adolescent health", with respect to adolescents of allethnic and racial groups, means all diseases, disorders, and conditions (including with respect to mental health)—
 
 &emsp;(1) unique to adolescents, or more serious or more prevalent in adolescents;
 

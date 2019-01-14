@@ -50,7 +50,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) expanding the availability of treatment for prescription drug and opioid addiction, including medication-assisted treatment and behavioral health therapy, as appropriate;
 
-&emsp;&emsp;&emsp;(ii) developing, implementing, or expanding screening for individuals in treatmentfor prescription drug and opioid addiction for hepatitis C and HIV, and treating or referring those individuals if clinically appropriate; or
+&emsp;&emsp;&emsp;(ii) developing, implementing, or expanding screening for individuals in treatment for prescription drug and opioid addiction for hepatitis C and HIV, and treating or referring those individuals if clinically appropriate; or
 
 &emsp;&emsp;&emsp;(iii) developing, implementing, or expanding recovery support services and programs at high schools or institutions of higher education;
 
@@ -114,7 +114,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(5)(A)(i), (ii)(I), is act June 25, 1938, ch.675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(5)(A)(i), (ii)(I), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 Section 701 of the Comprehensive Addiction and Recovery Act of 2016, referred to in subsec. (b)(6), is section 701 of Pub. L. 114–198, which enacted sections 290aa–15 and 290aa–16 of this title, sections 10706 and 10707 of Title 34, Crime Control and Law Enforcement, and provisions set out as a note under section 290aa–15 of this title.
 
@@ -122,89 +122,81 @@ Section 701 of the Comprehensive Addiction and Recovery Act of 2016, referred to
 
 A prior section 290ee–3, act July 1, 1944, ch. 373, title V, §548, formerly Pub. L. 92–255, title IV, §408, Mar. 21, 1972, 86 Stat. 79, as amended Pub. L. 93–282, title III, §303(a), (b), May 14, 1974, 88 Stat. 137, 138; Pub. L. 94–237, §4(c)(5)(A), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–581, title I, §111(c)(3), Oct. 21, 1976, 90 Stat. 2852; Pub. L. 97–35, title IX, §973(d), Aug. 13, 1981, 95 Stat. 598; renumbered §527 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(16)(B), 97 Stat. 182; Aug. 27, 1986, Pub. L. 99–401, title I, §106(b), 100 Stat. 907; renumbered §548, July 22, 1987, Pub. L. 100–77, title VI, §611(2), 101 Stat. 516; June 13, 1991, Pub. L. 102–54, §13(q)(1)(A)(iii), (B)(ii), 105 Stat. 278, which related to confidentiality of patient records for drug abuse programs, was omitted in the general revision of this part by Pub. L. 102–321. See section 290dd–2 of this title.
 
-#### Account for the State Response to the Opioid Abuse Crisis
+#### Grant Program for the State and Tribal Response to the Opioid Abuse Crisis
 
-Pub. L. 114–255, div. A, title I, §1003, Dec. 13, 2016, 130 Stat. 1044, provided that:
+Pub. L. 114–255, div. A, title I, §1003, Dec. 13, 2016, 130 Stat. 1044, as amended by Pub. L. 115–271, title VII, §7181(a), Oct. 24, 2018, 132 Stat. 4068, provided that:
 
 "(a)
 
-In General.—The Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall use any funds appropriated pursuant to the authorization of appropriations under subsection (b) to carry out the grant program described in subsection (c) for purposes of addressing the opioid abuse crisis within the States.
+In General.—The Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall use any funds appropriated pursuant to subsection (h) to carry out the grant program described in subsection (b) for purposes of addressing the opioid abuse crisis within the States and Indian Tribes.
 
 "(b)
-
-Account for the State Response to the Opioid Abuse Crisis.—
-
-&emsp;"(1)
-
-Establishment.—There is established in the Treasury an account, to be known as the 'Account For the State Response to the Opioid Abuse Crisis' (referred to in this subsection as the 'Account'), to carry out the opioid grant program described in subsection (c).
-
-&emsp;"(2)
-
-Transfer of direct spending savings.—
-
-&emsp;&emsp;"(A)
-
-In general.—The following amounts shall be transferred to the Account from the general fund of the Treasury:
-
-&emsp;&emsp;&emsp;"(i) For fiscal year 2017, $500,000,000.
-
-&emsp;&emsp;&emsp;"(ii) For fiscal year 2018, $500,000,000.
-
-&emsp;&emsp;"(B)
-
-Amounts deposited.—Any amounts transferred under subparagraph (A) shall remain unavailable in the Account until such amounts are appropriated pursuant to paragraph (3).
-
-&emsp;"(3)
-
-Appropriations.—
-
-&emsp;&emsp;"(A)
-
-Authorization of appropriations.—In each of the fiscal years 2017 and 2018, there is authorized to be appropriated from the Account to the Secretary, for the grant program described in subsection (c), an amount not to exceed the total amount transferred to the Account under paragraph (2)(A), to remain available until expended.
-
-&emsp;&emsp;"(B)
-
-Offsetting future appropriations.—In each of fiscal years 2017 and 2018, for any discretionary appropriation under the heading 'Account For the State Response to the Opioid Abuse Crisis' for the grant program described in subsection (c), the total amount of such appropriations in the applicable fiscal year (not to exceed the total amount remaining in the Account) shall be subtracted from the estimate of discretionary budget authority and the resulting outlays for any estimate under the Congressional Budget and Impoundment Control Act of 1974 \[Pub. L. 93–344, see Short Title note set out under section 621 of Title 2, The Congress, and Tables\] or the Balanced Budget and Emergency Deficit Control Act of 1985 \[Pub. L. 99–177, title II, see Short Title note set out under section 900 of Title 2, The Congress, and Tables\], and the amount transferred to the Account shall be reduced by the same amount.
-
-"(c)
 
 Opioid Grant Program.—
 
 &emsp;"(1)
 
-State response to the opioid abuse crisis.—Subject to the availability of appropriations, the Secretary shall award grants to States for the purpose of addressing the opioid abuse crisis within such States, in accordance with subparagraph (B). In awarding such grants, the Secretary shall give preference to States with an incidence or prevalence of opioid use disorders that is substantially higher relative to other States.
+State and tribal response to the opioid abuse crisis.—Subject to the availability of appropriations, the Secretary shall award grants to States and Indian Tribes for the purpose of addressing the opioid abuse crisis within such States and Indian Tribes, in accordance with subparagraph (B) \[sic, probably should be "paragraph (2)"\]. In awarding such grants, the Secretary shall give preference to States or Indian Tribes with an incidence or prevalence of opioid use disorders that is substantially higher relative to other States or other Indian Tribes, as applicable.
 
 &emsp;"(2)
 
-Opioid grants.—Grants awarded to a State under this subsection shall be used for carrying out activities that supplement activities pertaining to opioids undertaken by the State agency responsible for administering the substance abuse prevention and treatment block grant under subpart II of part B of title XIX of the Public Health Service Act (42 U.S.C. 300x–21 et seq.), which may include public health-related activities such as the following:
+Opioid grants.—Grants awarded under this subsection shall be used for carrying out activities that supplement activities pertaining to opioids undertaken by the State agency responsible for administering the substance abuse prevention and treatment block grant under subpart II of part B of title XIX of the Public Health Service Act (42 U.S.C. 300x–21 et seq.), which may include public health-related activities such as the following:
 
-&emsp;&emsp;"(A) Improving State prescription drug monitoring programs.
+&emsp;&emsp;"(A) Establishing or improving prescription drug monitoring programs.
 
 &emsp;&emsp;"(B) Implementing prevention activities, and evaluating such activities to identify effective strategies to prevent opioid abuse.
 
-&emsp;&emsp;"(C) Training for health care practitioners, such as best practices for prescribing opioids, pain management, recognizing potential cases of substance abuse, referral of patients to treatment programs, and overdose prevention.
+&emsp;&emsp;"(C) Training for health care practitioners, such as best practices for prescribing opioids, pain management, recognizing potential cases of substance abuse, referral of patients to treatment programs, preventing diversion of controlled substances, and overdose prevention.
 
 &emsp;&emsp;"(D) Supporting access to health care services, including those services provided by Federally certified opioid treatment programs or other appropriate health care providers to treat substance use disorders.
 
-&emsp;&emsp;"(E) Other public health-related activities, as the State determines appropriate, related to addressing the opioid abuse crisis within the State.
+&emsp;&emsp;"(E) Other public health-related activities, as the State or Indian Tribe determines appropriate, related to addressing the opioid abuse crisis within the State or Indian Tribe, including directing resources in accordance with local needs related to substance use disorders.
 
-"(d)
+"(c)
 
-Accountability and Oversight.—A State receiving a grant under subsection (c) shall include in a report related to substance abuse submitted to the Secretary pursuant to section 1942 of the Public Health Service Act (42 U.S.C. 300x–52), a description of—
+Accountability and Oversight.—A State receiving a grant under subsection (b) shall include in a report related to substance abuse submitted to the Secretary pursuant to section 1942 of the Public Health Service Act (42 U.S.C. 300x–52), a description of—
 
 &emsp;"(1) the purposes for which the grant funds received by the State under such subsection for the preceding fiscal year were expended and a description of the activities of the State under the program; and
 
 &emsp;"(2) the ultimate recipients of amounts provided to the State in the grant.
 
-"(e)
+"(d)
 
-Limitations.—Any funds made available pursuant to the authorization of appropriations under subsection (b)—
+Limitations.—Any funds made available pursuant to subsection (h)—
 
-&emsp;"(1) notwithstanding any transfer authority in any appropriations Act, shall not be used for any purpose other than the grant program in subsection (c); and
+&emsp;"(1) notwithstanding any transfer authority in any appropriations Act, shall not be used for any purpose other than the grant program in subsection (b); and
 
 &emsp;"(2) shall be subject to the same requirements as substance abuse prevention and treatment programs under titles V and XIX of the Public Health Service Act (42 U.S.C. 290aa et seq., 300w et seq.).
 
+"(e)
+
+Indian Tribes.—
+
+&emsp;"(1)
+
+Definition.—For purposes of this section, the term 'Indian Tribe' has the meaning given the term 'Indian tribe' in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+
+&emsp;"(2)
+
+Appropriate mechanisms.—The Secretary, in consultation with Indian Tribes, shall identify and establish appropriate mechanisms for Tribes to demonstrate or report the information as required under subsections (b), (c), and (d).
+
 "(f)
+
+Report to Congress.—Not later than 1 year after the date on which amounts are first awarded afterthe date of enactment of this subsection \[Oct. 24, 2018\], pursuant to subsection (b), and annually thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing the information provided to the Secretary in reports made pursuant to subsection (c), including the purposes for which grant funds are awarded under this section and the activities of such grant recipients.
+
+"(g)
+
+Technical Assistance.—The Secretary, including through the Tribal Training and Technical Assistance Center of the Substance Abuse and Mental Health Services Administration, shall provide State agencies and Indian Tribes, as applicable, with technical assistance concerning grant application and submission procedures under this section, award management activities, and enhancing outreach and direct support to rural and underserved communities and providers in addressing the opioid crisis.
+
+"(h)
+
+Authorization of Appropriations.—For purposes of carrying out the grant program under subsection (b), there is authorized to be appropriated $500,000,000 for each of fiscal years 2019 through 2021, to remain available until expended.
+
+"(i)
+
+Set Aside.—Of the amounts made available for each fiscal year to award grants under subsection (b) for a fiscal year, 5 percent of such amount for such fiscal year shall be made available to Indian Tribes, and up to 15 percent of such amount for such fiscal year may be set aside for States with the highest age-adjusted rate of drug overdose death based on the ordinal ranking of States according to the Director of the Centers for Disease Control and Prevention.
+
+"(j)
 
 Sunset.—This section shall expire on September 30, 2026."
 

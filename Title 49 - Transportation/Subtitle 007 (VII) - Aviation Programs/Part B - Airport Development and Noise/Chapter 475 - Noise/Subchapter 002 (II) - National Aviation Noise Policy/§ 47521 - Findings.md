@@ -42,3 +42,45 @@ Nov. 5, 1990, Pub. L. 101–508, §9302, 104 Stat. 1388–378.
 
 Pars. (7), (8). Pub. L. 112–95, §111(c)(2)(A)(vi), substituted "charge" for "fee".
 
+#### Authorization of Certain Flights by Stage 2 Aircraft
+
+Pub. L. 115–254, div. B, title I, §172, Oct. 5, 2018, 132 Stat. 3227, provided that:
+
+"(a)
+
+In General.—Notwithstanding chapter 475 of title 49, United States Code, not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator of the Federal Aviation Administration shall initiate a pilot program to permit an operator of a stage 2 aircraft to operate that aircraft in nonrevenue service into not more than 4 medium hub airports or nonhub airports if—
+
+&emsp;"(1) the airport—
+
+&emsp;&emsp;"(A) is certified under part 139 of title 14, Code of Federal Regulations;
+
+&emsp;&emsp;"(B) has a runway that—
+
+&emsp;&emsp;&emsp;"(i) is longer than 8,000 feet and not less than 200 feet wide; and
+
+&emsp;&emsp;&emsp;"(ii) is load bearing with a pavement classification number of not less than 38; and
+
+&emsp;&emsp;"(C) has a maintenance facility with a maintenance certificate issued under part 145 of such title; and
+
+&emsp;"(2) the operator of the stage 2 aircraft operates not more than 10 flights per month using that aircraft.
+
+"(b)
+
+Termination.—The pilot program shall terminate on the earlier of—
+
+&emsp;"(1) the date that is 10 years after the date of the enactment of this Act \[Oct. 5, 2018\]; or
+
+&emsp;"(2) the date on which the Administrator determines that no stage 2 aircraft remain in service.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Medium hub airport; nonhub airport.—The terms 'medium hub airport' and 'nonhub airport' have the meanings given those terms in section 40102 of title 49, United States Code.
+
+&emsp;"(2)
+
+Stage 2 aircraft.—The term 'stage 2 aircraft' has the meaning given the term 'stage 2 airplane' in section 91.851 of title 14, Code of Federal Regulations (as in effect on the day before the date of the enactment of this Act \[Oct. 5, 2018\])."
+

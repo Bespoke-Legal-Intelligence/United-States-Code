@@ -2,13 +2,13 @@
 
 #### (a) Immigration and refugee information
 
-Not later than 1 year after October 18, 2004, and every 12 months thereafter through 2017, the Secretary of State and the Secretary of Homeland Security shall submit a joint report to the appropriate congressional committees and the Committees on the Judiciary of the House of Representatives and the Senate on the operation of this subchapter during the previous year, which shall include the following:
+Not later than 1 year after October 18, 2004, and every 12 months thereafter through 2022, the Secretary of State and the Secretary of Homeland Security shall submit a joint report to the appropriate congressional committees and the Committees on the Judiciary of the House of Representatives and the Senate on the operation of this subchapter during the previous year, which shall include the following:
 
 &emsp;(1) The number of aliens who are nationals or citizens of North Korea who applied for political asylum and the number who were granted political asylum.
 
 &emsp;(2) The number of aliens who are nationals or citizens of North Korea who applied for refugee status and the number who were granted refugee status.
 
-&emsp;(3) A detailed description of the measures undertaken by the Secretary of State to carry out section 7843 of this title, including country-specific information with respect to United States efforts to secure the cooperation and permission of the governments of countries in East and Southeast Asia to facilitate United States processing of North Koreans seeking protection as refugees. The information required under this paragraph shall be provided in unclassified form, with a classified annex, if necessary.
+&emsp;(3) A detailed description of the measures undertaken by the Secretary of State to carryout section 7843 of this title, including country-specific information with respect to United States efforts to secure the cooperation and permission of the governments of countries in East and Southeast Asia to facilitate United States processing of North Koreans seeking protection as refugees. The information required under this paragraph shall be provided in unclassified form, with a classified annex, if necessary.
 
 #### (b) Countries of particular concern
 
@@ -20,9 +20,11 @@ The President shall include in each annual report on proposed refugee admission 
 
 &emsp;(3) family links to the United States.
 
-(Pub. L. 108–333, title III, §305, Oct. 18, 2004, 118 Stat. 1297; Pub. L. 110–346, §11, Oct. 7, 2008, 122 Stat. 3942; Pub. L. 112–172, §10, Aug. 16, 2012, 126 Stat. 1309.)
+(Pub. L. 108–333, title III, §305, Oct. 18, 2004, 118 Stat. 1297; Pub. L. 110–346, §11, Oct. 7, 2008, 122 Stat. 3942; Pub. L. 112–172, §10, Aug. 16, 2012, 126 Stat. 1309; Pub. L. 115–198, §7(f), July 20, 2018, 132 Stat. 1524.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–198 substituted "2022" for "2017" in introductory provisions.
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–172 substituted "2017" for "2012" in introductory provisions.
 

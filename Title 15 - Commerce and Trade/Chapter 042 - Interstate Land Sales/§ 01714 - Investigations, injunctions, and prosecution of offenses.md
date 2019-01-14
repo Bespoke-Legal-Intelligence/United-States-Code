@@ -34,5 +34,5 @@ For effective date of amendment by Pub. L. 91–452, and for amendment not to af
 
 #### Effective Date
 
-Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 ofPub. L. 90–448, set out as a note under section 1701 of this title.
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 

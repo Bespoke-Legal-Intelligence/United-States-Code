@@ -54,7 +54,7 @@ The Attorney General, Secretary of State, and the Secretary of Homeland Security
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsec. (a)(1), is act June 27, 1952, ch. 477, 66 Stat. 163,which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsec. (a)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Codification
 

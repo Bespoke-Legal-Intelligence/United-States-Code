@@ -12,7 +12,7 @@ The Federal Government and the government of any State or political subdivision 
 
 (1) Upon application of a State or political subdivision of a State, the Commission may, by regulation promulgated in accordance with paragraph (2), exempt from subsection (a), under such conditions as may be prescribed in such regulation, any flammability standard or other regulation of such State or political subdivision applicable to a fabric, related material, or product subject to a standard or other regulation in effect under this chapter, if—
 
-&emsp;(A) compliance with the State or political subdivision requirement would not cause the fabric, related material, or product to be in violation of the standard or other regulation in effect under this chapter, and
+&emsp;(A) compliance with the State or political subdivision requirement would not cause the fabric, related material, or product to be inviolation of the standard or other regulation in effect under this chapter, and
 
 &emsp;(B) the State or political subdivision standard or other regulation (i) provides a significantly higher degree of protection from the risk of occurrence of fire with respect to which the Federal standard or other regulation is in effect, and (ii) does not unduly burden interstate commerce.
 

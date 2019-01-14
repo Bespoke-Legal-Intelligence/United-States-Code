@@ -16,7 +16,7 @@
 
 (2) The Southeastern Power Administration, the Southwestern Power Administration, and the Bonneville Power Administration,<sup>1</sup> shall be preserved as separate and distinct organizational entities within the Department. Each such entity shall be headed by an Administrator appointed by the Secretary. The functions transferred to the Secretary in paragraphs (1)(A), (1)(B), (1)(C), and (1)(D) shall be exercised by the Secretary, acting by and through such Administrators. Each such Administrator shall maintain his principal office at a place located in the region served by his respective Federal power marketing entity.
 
-(3) The functions transferred in paragraphs (1)(E) and (1)(F) <sup>2</sup> of this subsection shall be exercised by the Secretary, acting by and through a separate and distinct Administration within the Department which shall be headed by an Administrator appointed by the Secretary. The Administrator shall establish and shall maintain such regional offices as necessary to facilitate the performance of such functions. Neither thetransfer of functions effected by paragraph (1)(E) of this subsection nor any changes in cost allocation or project evaluation standards shall be deemed to authorize the reallocation of joint costs of multipurpose facilities theretofore allocated unless and to the extent that such change is hereafter approved by Congress.
+(3) The functions transferred in paragraphs (1)(E) and (1)(F) <sup>2</sup> of this subsection shall be exercised by the Secretary, acting by and through a separate and distinct Administration within the Department which shall be headed by an Administrator appointed by the Secretary. The Administrator shall establish and shall maintain such regional offices as necessary to facilitate the performance of such functions. Neither the transfer of functions effected by paragraph (1)(E) of this subsection nor any changes in cost allocation or project evaluation standards shall be deemed to authorize the reallocation of joint costs of multipurpose facilities theretofore allocated unless and to the extent that such change is hereafter approved by Congress.
 
 #### (b), (c) Repealed. Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407
 
@@ -76,7 +76,7 @@ Pub. L. 104–58, title I, Nov. 28, 1995, 109 Stat. 557, provided that:
 
 &emsp;"(2) The term 'Eklutna Purchase Agreement' means the August 2, 1989, Eklutna Purchase Agreement between the Alaska Power Administration of the Department of Energy and the Eklutna Purchasers, together with any amendments thereto adopted before the enactment of this section \[Nov. 28, 1995\].
 
-&emsp;"(3) The term 'Eklutna Purchasers' means the Municipality of Anchorage doing business as Municipal Light and Power, the Chugach Electric Association, Inc. and the Matanuska Electric Association, Inc.
+&emsp;"(3) The term 'Eklutna Purchasers' means the Municipality of Anchorage doing business as MunicipalLight and Power, the Chugach Electric Association, Inc. and the Matanuska Electric Association, Inc.
 
 &emsp;"(4) The term 'Snettisham' means the Snettisham Hydroelectric Project and related assets as described in section 4 and Exhibit A of the Snettisham Purchase Agreement.
 
@@ -104,7 +104,7 @@ Proceeds.—Proceeds from the sales required by this title shall be deposited in
 
 "(e)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to prepare, survey, and acquire Eklutna andSnettisham for sale and conveyance. Such preparations and acquisitions shall provide sufficient title to ensure the beneficial use, enjoyment, and occupancy by the purchasers.
+Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to prepare, survey, and acquire Eklutna and Snettisham for sale and conveyance. Such preparations and acquisitions shall provide sufficient title to ensure the beneficial use, enjoyment, and occupancy by the purchasers.
 
 "(f)
 
@@ -164,7 +164,7 @@ Termination of Alaska Power Administration.—Not later than one year after both
 
 "(g)
 
-Repeals.—(1) The Act of July 31, 1950 (64 Stat. 382) \[enacting sections 312 to 312d of Title 48, Territories and Insular Possessions, and provisions formerly set out as a note under section 312 of Title 48\] is repealed effective on the date that Eklutna is conveyed to the Eklutna Purchasers \[ownership of Eklutna project transferred Oct. 2, 1997\].
+Repeals.—(1) The Act of July 31, 1950 (64 Stat. 382) \[enacting sections 312 to 312d of Title 48, Territories and Insular Possessions, and provisions formerly set out as a note under section 312 of Title 48\] is repealed effective on the date that Eklutna is conveyedto the Eklutna Purchasers \[ownership of Eklutna project transferred Oct. 2, 1997\].
 
 "(2) Section 204 of the Flood Control Act of 1962 (76 Stat. 1193) is repealed effective on the date that Snettisham is conveyed to the Snettisham Purchaser \[purchase of Snettisham project completed Aug. 19, 1998\].
 
@@ -188,7 +188,7 @@ Disposal.—The sales of Eklutna and Snettisham under this title are not conside
 
 #### "SEC. 105. OTHER FEDERAL HYDROELECTRIC PROJECTS.
 
-"The provisions of this title regarding the sale of the Alaska Power Administration's hydroelectric projectsunder section 103 and the exemption of these projects from Part I of the Federal Power Act \[16 U.S.C. 791a et seq.\] under section 104 do not apply to other Federal hydroelectric projects."
+"The provisions of this title regarding the sale of the Alaska Power Administration's hydroelectric projects under section 103 and the exemption of these projects from Part I of the Federal Power Act \[16 U.S.C. 791a et seq.\] under section 104 do not apply to other Federal hydroelectric projects."
 
 #### Use of Funds To Study Noncost-Based Methods of Pricing Hydroelectric Power
 

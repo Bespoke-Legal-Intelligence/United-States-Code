@@ -6,7 +6,7 @@ Any agency or officer of the United States Government carrying out functions und
 
 #### (b) Appointments excepted from civil-service laws; supergrade positions; reinstatement
 
-Of the personnel employed in the United States to carry out subchapter I of this chapter or coordinate subchapter I and subchapter II of this chapter, not to exceed one hundred and ten may be appointed, compensated, or removed without regard to the provisions of any law, of whom not to exceed fifty-one may be compensated at rates higher than those provided for grade 15 of the general schedule established by section 5332 of title 5, but not in excess of the highest rate of grade 18 of such general schedule: <i>Provided</i>, That, under such regulations as the President shall prescribe, officers and employees of the United States Government who are appointed to any of the above positions may be entitled, upon removal from such position, to reinstatement to the position occupied at the time of appointment or to a position of comparable grade and salary. Such positions shall be in addition to those authorized by law to be filled by Presidential appointment, and in addition to the number authorized by section 5108 of title 5.
+Of the personnel employed in the United States to carry out subchapter I of this chapter or coordinate subchapter I and subchapter II of this chapter, not to exceed one hundred and ten may be appointed, compensated, or removed without regard to the provisions of any law, ofwhom not to exceed fifty-one may be compensated at rates higher than those provided for grade 15 of the general schedule established by section 5332 of title 5, but not in excess of the highest rate of grade 18 of such general schedule: <i>Provided</i>, That, under such regulations as the President shall prescribe, officers and employees of the United States Government who are appointed to any of the above positions may be entitled, upon removal from such position, to reinstatement to the position occupied at the time of appointment or to a position of comparable grade and salary. Such positions shall be in addition to those authorized by law to be filled by Presidential appointment, and in addition to the number authorized by section 5108 of title 5.
 
 #### (c) Additional supergrade positions
 
@@ -42,7 +42,7 @@ To the maximum extent practicable officers and employees performing functions un
 
 (3) An employee for whom a waiver under this section is in effect shall not be considered an employee for purposes of subchapter III of chapter 83, or chapter 84 of title 5.
 
-(Pub. L. 87–195, pt. III, §625, Sept. 4, 1961, 75 Stat. 449; Pub. L. 87–565, pt. III, §302(c), Aug. 1, 1962, 76 Stat. 262; Pub. L. 87–793, pt. II, §1001(k), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–663, pt. III, §302(a), Oct. 7, 1964, 78 Stat. 1014; Pub. L. 89–171, pt. III, §302(c), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(b)–(d), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–554, title III, §302(c), Oct. 8, 1968, 82 Stat. 965; Pub. L. 93–189, §16, Dec. 17, 1973, 87 Stat. 722; Pub. L. 95–88, title I, §125, Aug. 3, 1977, 91 Stat. 542; Pub. L. 96–465, title II, §§2203(a), 2205(8), Oct.17, 1980, 94 Stat. 2158, 2160; Pub. L. 97–113, title VII, §703, Dec. 29, 1981, 95 Stat. 1544; Pub. L. 109–234, title I, §1602(b)(2), June 15, 2006, 120 Stat. 442; Pub. L. 111–32, title XI, §1115(c)(3), June 24, 2009, 123 Stat. 1905.)
+(Pub. L. 87–195, pt. III, §625, Sept. 4, 1961, 75 Stat. 449; Pub. L. 87–565, pt. III, §302(c), Aug. 1, 1962, 76 Stat. 262; Pub. L. 87–793, pt. II, §1001(k), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–663, pt. III, §302(a), Oct. 7, 1964, 78 Stat. 1014; Pub. L. 89–171, pt. III, §302(c), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(b)–(d), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–554, title III, §302(c), Oct. 8, 1968, 82 Stat. 965; Pub. L. 93–189, §16, Dec. 17, 1973, 87 Stat. 722; Pub. L. 95–88, title I, §125, Aug. 3, 1977, 91 Stat. 542; Pub. L. 96–465, title II, §§2203(a), 2205(8), Oct. 17, 1980, 94 Stat. 2158, 2160; Pub. L. 97–113, title VII, §703, Dec. 29, 1981, 95 Stat. 1544; Pub. L. 109–234, title I, §1602(b)(2), June 15, 2006, 120 Stat. 442; Pub. L. 111–32, title XI, §1115(c)(3), June 24, 2009, 123 Stat. 1905.)
 
 #### References in Text
 
@@ -116,9 +116,11 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Extension of Authority
 
-Pub. L. 115–31, div. J, title VII, §7034(k)(3), May 5, 2017, 131 Stat. 651, provided that: "Section 625(j)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2385(j)(1)) shall be applied by substituting 'September 30, 2017' for 'October 1, 2010' in subparagraph (B)."
+Pub. L. 115–141, div. K, title VII, §7034(l)(3), Mar. 23, 2018, 132 Stat. 895, provided that: "Section 625(j)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2385(j)(1)) shall be applied by substituting 'September 30, 2018' for 'October 1, 2010' in subparagraph (B)."
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 115–31, div. J, title VII, §7034(k)(3), May 5, 2017, 131 Stat. 651.
 
 Pub. L. 114–113, div. K, title VII, §7034(k)(6), Dec. 18, 2015, 129 Stat. 2765.
 
@@ -130,7 +132,7 @@ Pub. L. 112–74, div. I, title VII, §7034(m)(6), Dec. 23, 2011, 125 Stat. 1216
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Entitlement to Benefits for Services Performed Outside United States; Service Exceeding Thirty Months
 

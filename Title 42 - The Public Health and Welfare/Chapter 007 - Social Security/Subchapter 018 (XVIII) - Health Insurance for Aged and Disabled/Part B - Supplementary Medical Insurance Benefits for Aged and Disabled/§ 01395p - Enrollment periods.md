@@ -40,7 +40,7 @@ All of the provisions of this section shall apply to individuals satisfying subs
 
 &emsp;(B) in the case of an individual who is not entitled to benefits under section 402 of this title on the first day of his initial enrollment period and does not become so entitled during the first 3 months of such period, his enrollment shall be deemed to have occurred in the month in which he files the application establishing his entitlement to hospital insurance benefits provided such filing occurs during the last 4 months of his initial enrollment period; and
 
-&emsp;(3) in the case of an individual who would otherwise satisfy subsection (f) but does not establish his entitlement to hospital insurance benefits until after the last day of his initial enrollment period (as defined in subsection (d) of this section), his enrollment shall be deemed to have occurred on the first day of the earlier of the then current or immediately succeeding general enrollment period (as defined in subsection (e) of this section).
+&emsp;(3) in the case of an individual who would otherwise satisfy subsection (f) but does not establish his entitlement to hospital insurance benefits until after the last day of his initial enrollment period (as defined in subsection (d)of this section), his enrollment shall be deemed to have occurred on the first day of the earlier of the then current or immediately succeeding general enrollment period (as defined in subsection (e) of this section).
 
 #### (h) Waiver of enrollment period requirements where individual's rights were prejudiced by administrative error or inaction
 
@@ -160,7 +160,7 @@ Pub. L. 103–432, §147(f)(1)(A), substituted "including each month during any 
 
 Subsec. (i)(3)(B). Pub. L. 103–432, §151(c)(2)(B), substituted "in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iv) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual)" for "as an active individual in a large group health plan (as such terms are defined in section 1395y(b)(1)(B)(iv) of this title)".
 
-Pub. L. 103–432, §147(f)(1)(A), substituted "including each month during any part of which the individual isenrolled" for "beginning with the first day of the first month in which the individual is no longer enrolled" and "ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled" for "and ending seven months later".
+Pub. L. 103–432, §147(f)(1)(A), substituted "including each month during any part of which the individual is enrolled" for "beginning with the first day of the first month in which the individual is no longer enrolled" and "ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled" for "and ending seven months later".
 
 <b>1989</b>—Subsec. (i)(1). Pub. L. 101–239, §6202(c)(1)(A), redesignated subpars. (B) and (C) as (A) and (B), respectively, struck out former subpar. (A) which read as follows: "has attained the age of 65,", and inserted "not described in the previous sentence" after "In the case of an individual" in second sentence.
 
@@ -208,7 +208,7 @@ Subsec. (g)(3). Pub. L. 96–499, §945(b)(2), substituted "the month in which t
 
 <b>1972</b>—Subsec. (b). Pub. L. 92–603, §260, struck out provisions preventing enrollment under this part more than three years after first opportunity for such enrollment.
 
-Subsec. (c). Pub. L. 92–603, §201(c)(2)(A), (B), substituted "paragraph (1) or (2)" for "paragraphs (1) and (2)", and substituted provisions relating to the treatment of an individual who has attained age 65 and who satisfies paragraph (1) of section 1395o of this title but not paragraph (2) of such section, for provisions relating to the treatment of an individual who satisfies paragraph (2) of section 1395o of this title solely by reason of subparagraph (B) thereof.
+Subsec. (c). Pub. L. 92–603, §201(c)(2)(A), (B), substituted "paragraph (1) or (2)" for "paragraphs (1) and\(2)", and substituted provisions relating to the treatment of an individual who has attained age 65 and who satisfies paragraph (1) of section 1395o of this title but not paragraph (2) of such section, for provisions relating to the treatment of an individual who satisfies paragraph (2) of section 1395o of this title solely by reason of subparagraph (B) thereof.
 
 Subsec. (d). Pub. L. 92–603, §201(c)(2)(C), substituted "paragraph (1) or (2)" for "paragraphs (1) and (2)".
 
@@ -230,7 +230,7 @@ Subsec. (d). Pub. L. 89–384, §3(b), substituted March 1, 1966, for January 1,
 
 Pub. L. 111–148, title III, §3110(a)(2), Mar. 23, 2010, 124 Stat. 420, as amended by Pub. L. 111–309, title II, §201, Dec. 15, 2010, 124 Stat. 3289, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to elections made on and after the date of the enactment of this Act \[Mar. 23, 2010\]."
 
-\[Pub. L. 111–309, title II, §201, Dec. 15, 2010, 124 Stat. 3289, provided that the amendment made by section 201to section 3110(a)(2) of Pub. L. 111–148, set out above, is effective as if included in the enactment of Pub. L. 111–148.\]
+\[Pub. L. 111–309, title II, §201, Dec. 15, 2010, 124 Stat. 3289, provided that the amendment made by section 201 to section 3110(a)(2) of Pub. L. 111–148, set out above, is effective as if included in the enactment of Pub. L. 111–148.\]
 
 #### Effective Date of 2006 Amendment
 

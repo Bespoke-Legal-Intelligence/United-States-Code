@@ -26,7 +26,7 @@ After compliance with the procedural requirements of this section and other appl
 
 #### References in Text
 
-The Alaska Statehood Act, referred to in subsec. (c), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in subsec. (c), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended,which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set our under section 1601 of Title 43 and Tables.
 

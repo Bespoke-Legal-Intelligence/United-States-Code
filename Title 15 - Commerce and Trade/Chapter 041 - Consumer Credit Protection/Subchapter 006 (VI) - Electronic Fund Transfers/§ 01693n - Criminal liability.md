@@ -22,7 +22,7 @@ Whoever—
 
 &emsp;(4) knowingly receives, conceals, uses, or transports money, goods, services, or anything else of value (except tickets for interstate or foreign transportation) which (A) within any one-year period has a value aggregating $1,000 or more, (B) has moved in or is part of, or which constitutes interstate or foreign commerce, and (C) has been obtained with a counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained debit instrument; or
 
-&emsp;(5) knowingly receives, conceals, uses, sells, or transports in interstate or foreign commerce one or more tickets for interstate or foreign transportation, which (A) within any one-year period have a value aggregating $500 or more, and (B) have been purchased or obtained with one or more counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained debit instrument; or
+&emsp;(5) knowingly receives, conceals, uses, sells, or transports in interstate or foreign commerce one or more tickets for interstate or foreign transportation, which (A) within any one-year period have a value aggregating $500or more, and (B) have been purchased or obtained with one or more counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained debit instrument; or
 
 &emsp;(6) in a transaction affecting interstate or foreign commerce, furnishes money, property, services, or anything else of value, which within any one-year period has a value aggregating $1,000 or more, through the use of any counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained debit instrument knowing the same to be counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained—
 

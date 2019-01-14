@@ -62,7 +62,7 @@ Order of Transfers.—
 
 &emsp;"(1)
 
-Rights of refusal.—In implementing the transfers authorized by subsection (a), the Secretaryof Defense shall afford the Secretary of Agriculture the right of first refusal and the Secretary of Homeland Security the second right of refusal in the transfer to each department by the Secretary of Defense of up to seven excess aircraft specified in subsection (b) before the transfer of such excess aircraft is offered to any other department or agency of the Federal Government.
+Rights of refusal.—In implementing the transfers authorized by subsection (a), the Secretary of Defense shall afford the Secretary of Agriculture the right of first refusal and the Secretary of Homeland Security the second right of refusal in the transfer to each department by the Secretary of Defense of up to seven excess aircraft specified in subsection (b) before the transfer of such excess aircraft is offered to any other department or agency of the Federal Government.
 
 &emsp;"(2)
 
@@ -110,7 +110,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Small arms ammunition.—The term 'small arms ammunition' means ammunition or ordnance for firearms up to and including .50 caliber and for shotguns.
+Small arms ammunition.—The term 'small arms ammunition' means ammunition or ordnancefor firearms up to and including .50 caliber and for shotguns.
 
 &emsp;"(2)
 

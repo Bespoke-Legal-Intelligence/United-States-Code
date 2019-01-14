@@ -8,7 +8,7 @@ The Commission may, after giving the patent owner an opportunity for a hearing, 
 
 Whenever any patent has been declared affected with the public interest, pursuant to subsection (a)—
 
-&emsp;(1) the Commission is licensed to use the invention or discovery covered by such patent in performing any of its powers under this chapter; and
+&emsp;(1) the Commission is licensed to use the invention or discovery covered by such patent inperforming any of its powers under this chapter; and
 
 &emsp;(2) any person may apply to the Commission for a nonexclusive patent license to use the invention or discovery covered by such patent, and the Commission shall grant such patent license to the extent that it finds that the use of the invention or discovery is of primary importance to the conduct of an activity by such person authorized under this chapter.
 
@@ -16,7 +16,7 @@ Whenever any patent has been declared affected with the public interest, pursuan
 
 Any person—
 
-&emsp;(1) who has made application to the Commission for a license under sections 2073, 2092,2093, 2111, 2133 or 2134 of this title, or a permit or lease under section 2097 of this title;
+&emsp;(1) who has made application to the Commission for a license under sections 2073, 2092, 2093, 2111, 2133 or 2134 of this title, or a permit or lease under section 2097 of this title;
 
 &emsp;(2) to whom such license, permit, or lease has been issued by the Commission;
 

@@ -98,7 +98,7 @@ For purposes of this section—
 
 #### (5) Responsible administrative authority
 
-&emsp;The term "responsible administrative authority" means the administrative authority which had jurisdiction over the underlying action or proceeding which was resolved by means of the structured settlement.
+&emsp;The term "responsible administrative authority" means the administrative authoritywhich had jurisdiction over the underlying action or proceeding which was resolved by means of the structured settlement.
 
 #### (6) State
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;If the applicable requirements of sections 72, 104(a)(1), 104(a)(2), 130, and 461(h) were satisfied at the time the structured settlement involving structured settlement payment rights was entered into, the subsequent occurrence of astructured settlement factoring transaction shall not affect the application of the provisions of such sections to the parties to the structured settlement (including an assignee under a qualified assignment under section 130) in any taxable year.
+&emsp;If the applicable requirements of sections 72, 104(a)(1), 104(a)(2), 130, and 461(h) were satisfied at the time the structured settlement involving structured settlement payment rights was entered into, the subsequent occurrence of a structured settlement factoring transaction shall not affect the application of the provisions of such sections to the parties to the structured settlement (including an assignee under a qualified assignment under section 130) in any taxable year.
 
 #### (2) No withholding of tax
 

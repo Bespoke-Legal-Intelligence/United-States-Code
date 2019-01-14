@@ -160,7 +160,7 @@ On and after February 8, 1996, each local exchange carrier, to the extent that i
 
 #### (2) Treatment of comparable carriers as incumbents
 
-&emsp;The Commission may, by rule, provide for the treatment of a local exchange carrier (orclass or category thereof) as an incumbent local exchange carrier for purposes of this section if—
+&emsp;The Commission may, by rule, provide for the treatment of a local exchange carrier (or class or category thereof) as an incumbent local exchange carrier for purposes of this section if—
 
 &emsp;&emsp;(A) such carrier occupies a position in the market for telephone exchange service within an area that is comparable to the position occupied by a carrier described in paragraph (1);
 

@@ -40,15 +40,41 @@ All personnel actions affecting covered employees shall be made free from any di
 
 #### (c) Omitted
 
-#### (d) Effective date
+#### (d) Application to unpaid staff
+
+#### (1) In general
+
+&emsp;Subsections (a) and (b) shall apply with respect to—
+
+&emsp;&emsp;(A) any staff member of an employing office who carries out official duties of the employing office but who is not paid by the employing office for carrying out such duties (referred to in this subsection as an "unpaid staff member"), including an intern, an individual detailed to an employing office, and an individual participating in a fellowship program, in the same manner and to the same extent as such subsections apply with respect to a covered employee; and
+
+&emsp;&emsp;(B) a former unpaid staff member, if the act that may be a violation of subsection (a) occurred during the service of the former unpaid staffer for the employing office.
+
+#### (2) Rule of construction
+
+&emsp;Nothing in paragraph (1) may be construed to extend liability for a violation of subsection (a) to an employing office on the basis of an action taken by any person who is not under the supervision or control of the employing office.
+
+#### (3) Intern defined
+
+&emsp;For purposes of this subsection, the term "intern" means an individual who performs service for an employing office which is uncompensated by the United States to earn credit awarded by an educational institution or to learn a trade or occupation, and includes any individual participating in a page program operated by any House of Congress.
+
+#### (e) Effective date
 
 This section shall take effect 1 year after January 23, 1995.
 
-(Pub. L. 104–1, title II, §201, Jan. 23, 1995, 109 Stat. 7.)
+(Pub. L. 104–1, title II, §201, Jan. 23, 1995, 109 Stat. 7; Pub. L. 115–397, title III, §302(a), Dec. 21, 2018, 132 Stat. 5321.)
 
 #### Codification
 
 Section is comprised of section 201 of Pub. L. 104–1. Subsec. (c) of section 201 of Pub. L. 104–1 amended section 633a of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare.
+
+#### Amendments
+
+<b>2018</b>—Subsecs. (d), (e). Pub. L. 115–397 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 
 #### Coverage of House of Representatives and the Agencies of the Legislative Branch
 

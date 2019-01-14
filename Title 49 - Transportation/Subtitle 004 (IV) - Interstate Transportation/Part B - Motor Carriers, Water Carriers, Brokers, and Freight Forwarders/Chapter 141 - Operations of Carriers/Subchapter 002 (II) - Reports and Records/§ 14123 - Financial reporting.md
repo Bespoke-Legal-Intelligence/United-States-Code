@@ -76,3 +76,7 @@ Provisions similar to those in this section were contained in section 11145 of t
 
 <b>1997</b>—Subsec. (c)(2)(B). Pub. L. 105–102 inserted "in" before "no event".
 
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+

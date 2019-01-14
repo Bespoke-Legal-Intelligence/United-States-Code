@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Any requirement authorized by or under section 351, 352, 360, or 360i of this title applicable to a device intended for human use shall apply to such device until the applicability of the requirement to the device has been changed by action taken under section 360c, 360d, or 360e of this title or under subsection (g) of this section, and any requirement established by or under section 351, 352, 360, or 360i of this title which is inconsistent with a requirement imposed on such device under section 360d or 360e of thistitle or under subsection (g) of this section shall not apply to such device.
+Any requirement authorized by or under section 351, 352, 360, or 360i of this title applicable to a device intended for human use shall apply to such device until the applicability of the requirement to the device has been changed by action taken under section 360c, 360d, or 360e of this title or under subsection (g) of this section, and any requirement established by or under section 351, 352, 360, or 360i of this title which is inconsistent with a requirement imposed on such device under section 360d or 360e of this title or under subsection (g) of this section shall not apply to such device.
 
 #### (b) Custom devices
 
@@ -46,7 +46,7 @@ Any information reported to or otherwise obtained by the Secretary or his repres
 
 #### (d) Notices and findings
 
-Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, or 360i of this title, or under this section, any other notice which is published in the Federal Register with respect to any other action taken under any such section and which states the reasons for such action, and each publication of findings required to be made in connection with rulemaking under any such section shall set forth—
+Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, or 360i of this title, or under this section, any other notice which is published in the Federal Register with respect to any other action taken under any such section and which states the reasons forsuch action, and each publication of findings required to be made in connection with rulemaking under any such section shall set forth—
 
 &emsp;(1) the manner in which interested persons may examine data and other information on which the notice or findings is based, and
 
@@ -62,7 +62,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 > if, because of its potentiality for harmful effect or the collateral measures necessary to its use, the Secretary determines that there cannot otherwise be reasonable assurance of its safety and effectiveness. No condition prescribed under subparagraph (B) may restrict the use of a device to persons with specific training or experience in its use or to persons for use in certain facilities unless the Secretary determines that such a restriction is required for the safe and effective use of the device. No such condition may exclude a person from using a device solely because the person does not have the training or experience to make him eligible for certification by a certifying board recognized by the American Board of Medical Specialties or has not been certified by such a Board. A device subject to a regulation under this subsection is a restricted device.
 
-(2) The label of a restricted device shall bear such appropriate statements of the restrictionsrequired by a regulation under paragraph (1) as the Secretary may in such regulation prescribe.
+(2) The label of a restricted device shall bear such appropriate statements of the restrictions required by a regulation under paragraph (1) as the Secretary may in such regulation prescribe.
 
 #### (f) Good manufacturing practice requirements
 
@@ -110,7 +110,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(B) Two of the members shall be appointed from persons who are representative of interests of the device manufacturing industry; two of the members shall be appointed from persons who are representative of the interests of physicians and other health professionals; and two of the members shall be representative of the interests of the general public.
 
-> Members of the advisory committee who are not officers or employees of the United States, while attending conferences or meetings of the committee or otherwise engaged in its business, shall be entitled to receive compensation at rates to be fixed by the Secretary, which rates may not exceed the daily equivalent of the rate in effect for grade GS–18 of the General Schedule, for each day (including traveltime) they are so engaged; and while so serving away from their homes or regular places of business each member may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently. The Secretary shall designate one of the members of the advisory committee to serve as its chairman. The Secretary shall furnish the advisory committee with clerical and other assistance. Section 14 of the Federal Advisory CommitteeAct shall not apply with respect to the duration of the advisory committee established under this paragraph.
+> Members of the advisory committee who are not officers or employees of the United States, while attending conferences or meetings of the committee or otherwise engaged in its business, shall be entitled to receive compensation at rates to be fixed by the Secretary, which rates may not exceed the daily equivalent of the rate in effect for grade GS–18 of the General Schedule, for each day (including traveltime) they are so engaged; and while so serving away from their homes or regular places of business each member may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently. The Secretary shall designate one of the members of the advisory committee to serve as its chairman. The Secretary shall furnish the advisory committee with clerical and other assistance. Section 14 of the Federal Advisory Committee Act shall not apply with respect to the duration of the advisory committee established under this paragraph.
 
 #### (g) Exemption for devices for investigational use
 
@@ -144,7 +144,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(B) promptly notify the Secretary (under such circumstances and in such manner as the Secretary prescribes) of approval by an institutional review committee of any clinical testing plan submitted to it in accordance with subparagraph (A);
 
-&emsp;(C) in the case of a device to be distributed to investigators for testing, obtain signed agreements from each of such investigators that any testing of the device involving human subjects will be under such investigator's supervision and in accordance with subparagraph (D) and submit such agreements to the Secretary; and
+&emsp;(C) in the case of a device to be distributed to investigators for testing, obtain signed agreements from each of such investigatorsthat any testing of the device involving human subjects will be under such investigator's supervision and in accordance with subparagraph (D) and submit such agreements to the Secretary; and
 
 &emsp;(D) assure that informed consent will be obtained from each human subject (or his representative) of proposed clinical testing involving such device, except where, subject to such conditions as the Secretary may prescribe—
 
@@ -200,7 +200,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 (B) For purposes of subparagraph (A), a determination described in this subparagraph with respect to a clinical hold is a determination that—
 
-&emsp;(i) the device involved represents an unreasonable risk to the safety of the persons who are the subjects of the clinical investigation, taking into account the qualifications of the clinical investigators, information about thedevice, the design of the clinical investigation, the condition for which the device is to be investigated, and the health status of the subjects involved; or
+&emsp;(i) the device involved represents an unreasonable risk to the safety of the persons who are the subjects of the clinical investigation, taking into account the qualifications of the clinical investigators, information about the device, the design of the clinical investigation, the condition for which the device is to be investigated, and the health status of the subjects involved; or
 
 &emsp;(ii) the clinical hold should be issued for such other reasons as the Secretary may by regulation establish.
 
@@ -232,7 +232,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(iv) classifying or reclassifying another device under section 360c of this title and subsection (l)(2).
 
-(B) The publicly available detailed summaries of information respecting the safety and effectiveness of devices required by paragraph (1)(A) shall be available for use by the Secretary as the evidentiary basis for the agency actions described in subparagraph (A).
+(B) The publicly available detailed summaries of information respecting the safety and effectiveness of devices required by paragraph (1)(A) shall be available for use by the Secretary as theevidentiary basis for the agency actions described in subparagraph (A).
 
 (C) No information contained in an application for premarket approval filed with the Secretary pursuant to section 360e(c) of this title may be used to approve or clear any application submitted under section 360e or 360(k) of this title or to classify a product under section 360c(f)(2) of this title for a combination product containing as a constituent part an approved drug (as defined in section 353(g)(5)(B) of this title) unless—
 
@@ -252,7 +252,7 @@ Except as provided in section 360i(e) of this title, no regulation under this ch
 
 #### (k) Research and development
 
-The Secretary may enter into contracts for research, testing, and demonstrations respectingdevices and may obtain devices for research, testing, and demonstration purposes without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41.
+The Secretary may enter into contracts for research, testing, and demonstrations respecting devices and may obtain devices for research, testing, and demonstration purposes without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41.
 
 #### (l) Transitional provisions for devices considered as new drugs
 
@@ -368,7 +368,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 &emsp;(IV) Adolescents.
 
-(7) The Secretary shall refer any report of an adverse event regarding a device described in paragraph (6)(A)(i)(I) for which the prohibition under paragraph (3) does not apply pursuant to paragraph (6)(A) that the Secretary receives to the Office of Pediatric Therapeutics, established under section 393a of this title. In considering the report, the Director of the Office of Pediatric Therapeutics, in consultation with experts in the Center for Devices and Radiological Health, shall provide for periodic review of the report by the Pediatric Advisory Committee, including obtaining any recommendations of such committee regarding whether the Secretary should take action under this chapter in response to the report.
+(7) The Secretary shall refer any report of an adverse event regarding a device described in paragraph (6)(A)(i)(I) for which the prohibition under paragraph (3) does not apply pursuant to paragraph (6)(A) that the Secretary receives to the Office of Pediatric Therapeutics, established under section 393a of this title. In considering the report, the Director of the Office of Pediatric Therapeutics, in consultation with expertsin the Center for Devices and Radiological Health, shall provide for periodic review of the report by the Pediatric Advisory Committee, including obtaining any recommendations of such committee regarding whether the Secretary should take action under this chapter in response to the report.
 
 (8) The Secretary, acting through the Office of Pediatric Therapeutics and the Center for Devices and Radiological Health, shall provide for an annual review by the Pediatric Advisory Committee of all devices described in paragraph (6)(A)(i)(I) to ensure that the exemption under paragraph (2) remains appropriate for the pediatric populations for which it is granted.
 
@@ -448,7 +448,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 #### (1) In general
 
-&emsp;The Secretary may, subject to the succeeding provisions of this subsection, approve an application (or a supplement to such an application) submitted under section 360e of this title with respect to an applicable medical imaging device, or, in the case of an applicablemedical imaging device for which a notification is submitted under section 360(k) of this title, may make a substantial equivalence determination with respect to an applicable medical imaging device, or may grant a request submitted under section 360c(f)(2) of this title for an applicable medical imaging device, if such application, notification, or request involves the use of a contrast agent that is not—
+&emsp;The Secretary may, subject to the succeeding provisions of this subsection, approve an application (or a supplement to such an application) submitted under section 360e of this title with respect to an applicable medical imaging device, or, in the case of an applicable medical imaging device for which a notification is submitted under section 360(k) of this title, may make a substantial equivalence determination with respect to an applicable medical imaging device, or may grant a request submitted under section 360c(f)(2) of this title for an applicable medical imaging device, if such application, notification, or request involves the use of a contrast agent that is not—
 
 &emsp;&emsp;(A) in a concentration, rate of administration, or route of administration that is different from those described in the approved labeling of the contrast agent, except that the Secretary may approve such application, make such substantial equivalence determination, or grant such request if the Secretary determines that such differences in concentration, rate of administration, or route of administration exist but do not adversely affect the safety and effectiveness of the contrast agent when used with the device;
 
@@ -478,7 +478,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 &emsp;&emsp;(B) the term "contrast agent" means a drug that is approved under section 355 of this title or licensed under section 262 of title 42, is intended for use in conjunction with an applicable medical imaging device, and—
 
-&emsp;&emsp;&emsp;(i) is a diagnostic radiopharmaceutical, as defined in section <sup>2</sup> 315.2 and 601.31 of title 21, Code of Federal Regulations (or any successor regulations); or
+&emsp;&emsp;&emsp;(i) is a diagnostic radiopharmaceutical, as defined in section <sup>2</sup> 315.2 and 601.31 oftitle 21, Code of Federal Regulations (or any successor regulations); or
 
 &emsp;&emsp;&emsp;(ii) is a diagnostic agent that improves the visualization of structure or function within the body by increasing the relative difference in signal intensity within the target tissue, structure, or fluid.
 
@@ -582,7 +582,7 @@ Subsec. (m)(6)(A)(ii). Pub. L. 112–144, §613(a)(1)(A)(ii), added cl. (ii) and
 
 Subsec. (m)(6)(A)(iv). Pub. L. 112–144, §507(c), substituted "2017" for "2012".
 
-Subsec. (m)(6)(C). Pub. L. 112–144, §613(a)(1)(B), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "A person may petition the Secretary to modify the annual distribution number specified by the Secretary under subparagraph (A)(ii) with respect to a device if additional information on the number of individuals affected by the disease or condition arises, and the Secretary may modify suchnumber but in no case shall the annual distribution number exceed the number identified in paragraph (2)(A)."
+Subsec. (m)(6)(C). Pub. L. 112–144, §613(a)(1)(B), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "A person may petition the Secretary to modify the annual distribution number specified by the Secretary under subparagraph (A)(ii) with respect to a device if additional information on the number of individuals affected by the disease or condition arises, and the Secretary may modify such number but in no case shall the annual distribution number exceed the number identified in paragraph (2)(A)."
 
 Subsec. (m)(7). Pub. L. 112–144, §613(a)(2), substituted "regarding a device described in paragraph (6)(A)(i)(I)" for "regarding a device".
 
@@ -628,7 +628,7 @@ Subsec. (m)(6). Pub. L. 105–115, §203(4), amended par. (6) generally. Prior t
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–629, §11(1), substituted "from class III to class II or class I" for "under section 360c of this title from class III to class II" and inserted "(1) in accordance with subsection (h), and (2)" after "except".
 
-Subsec. (f)(1)(A). Pub. L. 101–629, §18(e), inserted "pre-production design validation (including a process to assess the performance of a device but not including an evaluation of the safety or effectiveness of a device)," after "manufacture,".
+Subsec. (f)(1)(A). Pub. L. 101–629, §18(e), inserted "pre-production design validation (including a process to assess the performance of a device but not including anevaluation of the safety or effectiveness of a device)," after "manufacture,".
 
 Subsec. (h)(3). Pub. L. 101–629, §11(2)(A), substituted "Except as provided in paragraph (4), any" for "Any".
 
@@ -706,7 +706,7 @@ Pub. L. 114–255, div. A, title III, §3060(b), Dec. 13, 2016, 130 Stat. 1132, 
 
 &emsp;"(2) examines information available to the Secretary on any risks and benefits to health associated with software functions described in section 520(o)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j\[(o)(1)\]) (as amended by subsection (a)); and
 
-&emsp;"(3) summarizes findings regarding the impact of such software functions on patient safety, including best practices to promote safety, education, and competency related to such functions."
+&emsp;"(3) summarizes findings regarding the impact of such software functions on patient safety, includingbest practices to promote safety, education, and competency related to such functions."
 
 #### Applicability to Existing Devices
 

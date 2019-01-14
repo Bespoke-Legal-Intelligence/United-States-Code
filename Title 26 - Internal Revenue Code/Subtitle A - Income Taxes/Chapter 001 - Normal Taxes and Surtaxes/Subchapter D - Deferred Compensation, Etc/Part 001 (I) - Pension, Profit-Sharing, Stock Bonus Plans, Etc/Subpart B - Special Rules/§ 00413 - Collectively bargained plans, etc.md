@@ -40,7 +40,7 @@ If this subsection applies to a plan, notwithstanding any other provision of thi
 
 &emsp;&emsp;(B) then on the basis of their respective liabilities for contributions under the plan.
 
-> &emsp;For purposes of this subsection and the last sentence of section 4971(a),<sup>1</sup> an employer's withdrawal liability under part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 shall not be treated as a liability for contributions under the plan.
+> &emsp;For purposes of this subsection and section 4971(e), an employer's withdrawal liability under part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 shall not be treated as a liability for contributions under the plan.
 
 #### (7) Deduction limitations
 
@@ -102,7 +102,7 @@ In the case of a plan maintained by more than one employer—
 
 #### (ii) Special rule
 
-&emsp;&emsp;&emsp;If this subparagraph applies, the amounts contributed to or under the plan by each employer who maintains the plan (for the portion of the taxable year included within a plan year) shall be considered not to exceed any such limitation if the anticipated employer contributions forsuch plan year (determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.
+&emsp;&emsp;&emsp;If this subparagraph applies, the amounts contributed to or under the plan by each employer who maintains the plan (for the portion of the taxable year included within a plan year) shall be considered not to exceed any such limitation if the anticipated employer contributions for such plan year (determined in a reasonablemanner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.
 
 #### (7) Allocations
 
@@ -134,17 +134,17 @@ Notwithstanding any other provision of this section, in the case of a CSEC plan�
 
 &emsp;Allocations of amounts under paragraph (3) and subsection (c)(5) among the employers maintaining the plan shall not be inconsistent with the regulations prescribed for this purpose by the Secretary.
 
-(Added Pub. L. 93–406, title II, §1014, Sept. 2, 1974, 88 Stat. 924; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–364, title II, §208(d), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 100–647, title I, §1011(h)(10), title VI, §6058(a)–(c), Nov. 10, 1988, 102 Stat. 3466, 3698, 3699; Pub. L. 101–508, title XI, §11704(a)(4), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 113–97, title II, §202(b), Apr. 7, 2014, 128 Stat. 1134.)
+(Added Pub. L. 93–406, title II, §1014, Sept. 2, 1974, 88 Stat. 924; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–364, title II, §208(d), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 100–647, title I, §1011(h)(10), title VI, §6058(a)–(c), Nov. 10, 1988, 102 Stat. 3466, 3698, 3699; Pub. L. 101–508, title XI, §11704(a)(4), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 113–97, title II, §202(b), Apr. 7, 2014, 128 Stat. 1134; Pub. L. 115–141, div. U, title IV, §401(a)(86), Mar. 23, 2018, 132 Stat. 1188.)
 
 #### References in Text
-
-The last sentence of section 4971(a), referred to in subsec. (b)(6), was struck out by Pub. L. 100–203, title IX, §9305(a)(2)(A), Dec. 22, 1987, 101 Stat. 1330–351.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(6), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The date of enactment of the Technical and Miscellaneous Revenue Act of 1988, referred to in subsec. (c)(4)(B), is the date of enactment of Pub. L. 100–647, which was approved Nov. 10, 1988.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(6). Pub. L. 115–141, §401(a)(86), substituted "and section 4971(e)" for "and the last sentence of section 4971(a)" in concluding provisions.
 
 <b>2014</b>—Subsec. (d). Pub. L. 113–97 added subsec. (d).
 
@@ -181,6 +181,4 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pu
 #### Effective Date
 
 Section applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and, in the case of plans in existence on Jan. 1, 1974, for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

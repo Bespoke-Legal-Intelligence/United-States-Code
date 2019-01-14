@@ -100,7 +100,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;Any benefit furnished to a designated beneficiary under a qualified tuition program shall be treated as a distribution to the beneficiary for purposes of this paragraph.
 
-#### (v) Coordination with Hope and Lifetime Learning credits
+#### (v) Coordination with American Opportunity and Lifetime Learning credits
 
 &emsp;&emsp;&emsp;The total amount of qualified higher education expenses with respect to an individual for the taxable year shall be reduced—
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the aggregate distributions to which clauses (i) and (ii) and section 530(d)(2)(A) apply, exceed
 
-&emsp;&emsp;&emsp;&emsp;(II) the total amount of qualified higher education expenses otherwise taken into account under clauses (i) and (ii) (after the application of clause (v)) for such year,
+&emsp;&emsp;&emsp;&emsp;(II) the total amount of qualified higher education expenses otherwise takeninto account under clauses (i) and (ii) (after the application of clause (v)) for such year,
 
 &emsp;&emsp;&nbsp;the taxpayer shall allocate such expenses among such distributions for purposes of determining the amount of the exclusion under clauses (i) and (ii) and section 530(d)(2)(A).
 
@@ -176,7 +176,7 @@ For purposes of this section—
 
 #### (6) Additional tax
 
-&emsp;The tax imposed by section 530(d)(4) shall apply to any payment or distribution from a qualified tuition program in the same manner as such tax applies to a payment or distribution from an <sup>1</sup> Coverdell education savings account. This paragraph shall not apply to any payment or distribution in any taxable year beginning before January 1, 2004, which is includible in gross income but used for qualified higher education expenses of the designated beneficiary.
+&emsp;The tax imposed by section 530(d)(4) shall apply to any payment or distribution from a qualified tuition program in the same manner as such tax applies to a payment or distribution from a Coverdell education savings account. This paragraph shall not apply to any payment or distribution in any taxable year beginning before January 1, 2004, which is includible in gross income but used for qualified higher education expenses of the designated beneficiary.
 
 #### (7) Treatment of elementary and secondary tuition
 
@@ -218,9 +218,9 @@ For purposes of this section—
 
 &emsp;&emsp;The term "qualified higher education expenses" means—
 
-&emsp;&emsp;&emsp;(i) tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution;
+&emsp;&emsp;&emsp;(i) tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution,
 
-&emsp;&emsp;&emsp;(ii) expenses for special needs services in the case of a special needs beneficiary which are incurred in connection with such enrollment or attendance <sup>2</sup>
+&emsp;&emsp;&emsp;(ii) expenses for special needs services in the case of a special needs beneficiary which are incurred in connection with such enrollment or attendance, and
 
 &emsp;&emsp;&emsp;(iii) expenses for the purchase of computer or peripheral equipment (as defined in section 168(i)(2)(B)), computer software (as defined in section 197(e)(3)(B)), or Internet access and related services, if such equipment, software, or services are to be used primarily by the beneficiary during any of the years the beneficiary is enrolled at an eligible educational institution.
 
@@ -256,7 +256,7 @@ For purposes of this section—
 
 Notwithstanding any other provision of this section, the Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section and to prevent abuse of such purposes, including regulations under chapters 11, 12, and 13 of this title.
 
-(Added Pub. L. 104–188, title I, §1806(a), Aug. 20, 1996, 110 Stat. 1895; amended Pub. L. 105–34, title II, §211(a), (b), (d), (e)(2)(A), title XVI, §1601(h)(1)(A), (B), Aug. 5, 1997, 111 Stat. 810, 812, 1092; Pub. L. 105–206, title VI, §6004(c)(2), (3), July 22, 1998, 112 Stat. 793; Pub. L. 106–554, §1(a)(7) \[title III, §319(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §402(a)(1)–(3), (4)(A), (C), (D), (b)(1), (c)–(g), June 7, 2001, 115 Stat. 60–63; Pub. L. 107–22, §1(b)(3)(C), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §417(11), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(21), title IV, §406(a), Oct. 4, 2004, 118 Stat. 1178, 1189; Pub. L. 109–135, title IV, §412(ee)(3), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title XIII, §1304(b), Aug. 17, 2006, 120 Stat. 1110; Pub. L. 111–5, div. B, title I, §1005(a), Feb. 17, 2009, 123 Stat. 316; Pub. L. 113–295, div. B, title I, §105(a), Dec. 19, 2014, 128 Stat. 4064; Pub. L. 114–113, div. Q, title III, §302(a)(1), (b)(1), (c)(1), Dec. 18, 2015, 129 Stat. 3086; Pub. L. 115–97, title I, §§11025(a), 11032(a), Dec. 22, 2017, 131 Stat. 2076, 2081.)
+(Added Pub. L. 104–188, title I, §1806(a), Aug. 20, 1996, 110 Stat. 1895; amended Pub. L. 105–34, title II, §211(a), (b), (d), (e)(2)(A), title XVI, §1601(h)(1)(A), (B), Aug. 5, 1997, 111 Stat. 810, 812, 1092; Pub. L. 105–206, title VI, §6004(c)(2), (3), July 22, 1998, 112 Stat. 793; Pub. L. 106–554, §1(a)(7) \[title III, §319(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §402(a)(1)–(3), (4)(A), (C), (D), (b)(1), (c)–(g), June 7, 2001, 115 Stat. 60–63; Pub. L. 107–22, §1(b)(3)(C), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §417(11), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(21), title IV, §406(a), Oct. 4, 2004, 118 Stat. 1178, 1189; Pub. L. 109–135, title IV, §412(ee)(3), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title XIII, §1304(b), Aug. 17, 2006, 120 Stat. 1110; Pub. L. 111–5, div. B, title I, §1005(a), Feb. 17, 2009, 123 Stat. 316; Pub. L. 113–295, div. B, title I, §105(a), Dec. 19, 2014, 128 Stat. 4064; Pub.L. 114–113, div. Q, title III, §302(a)(1), (b)(1), (c)(1), Dec. 18, 2015, 129 Stat. 3086; Pub. L. 115–97, title I, §§11025(a), 11032(a), Dec. 22, 2017, 131 Stat. 2076, 2081; Pub. L. 115–141, div. U, title I, §101(l)(15), title IV, §401(a)(127), (128), Mar. 23, 2018, 132 Stat. 1165, 1190.)
 
 #### References in Text
 
@@ -267,6 +267,12 @@ The date of the enactment of this paragraph, referred to in subsec. (e)(5)(A), p
 The Higher Education Act of 1965, referred to in subsec. (e)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(3)(B)(v). Pub. L. 115–141, §101(l)(15), substituted "American Opportunity" for "Hope" in heading.
+
+Subsec. (c)(6). Pub. L. 115–141, §401(a)(127), substituted "a Coverdell" for "an Coverdell".
+
+Subsec. (e)(3)(A). Pub. L. 115–141, §401(a)(128), substituted comma for semicolon at end of cl. (i) and inserted ", and" at end of cl. (ii).
 
 <b>2017</b>—Subsec. (c)(3)(C)(i). Pub. L. 115–97, §11025(a), added subcl. (III) and inserted concluding provisions.
 
@@ -330,7 +336,7 @@ Subsec. (c)(3)(B)(vi). Pub. L. 107–22 substituted "Coverdell education savings
 
 Subsec. (c)(3)(C). Pub. L. 107–16, §402(c)(3), inserted "or programs" after "beneficiaries" in heading.
 
-Subsec. (c)(3)(C)(i). Pub. L. 107–16, §402(c)(1), substituted "transferred—" for "transferred", added subcl. (I), and designated existing provisions "to the credit" as subcl. (II).
+Subsec. (c)(3)(C)(i). Pub. L. 107–16, §402(c)(1), substituted "transferred—" for "transferred", added subcl.\(I), and designated existing provisions "to the credit" as subcl. (II).
 
 Pub. L. 107–16, §402(a)(4)(A), substituted "qualified tuition" for "qualified State tuition".
 
@@ -354,7 +360,7 @@ Subsec. (e)(3)(A). Pub. L. 107–16, §402(f), reenacted heading without change 
 
 Subsec. (e)(3)(B)(i). Pub. L. 107–16, §402(a)(4)(A), substituted "qualified tuition" for "qualified State tuition".
 
-Subsec. (e)(3)(B)(ii). Pub. L. 107–16, §402(e), reenacted heading without change and amended text of cl. (ii)generally. Prior to amendment, text read as follows: "The amount treated as qualified higher education expenses by reason of the preceding sentence shall not exceed the minimum amount (applicable to the student) included for room and board for such period in the cost of attendance (as defined in section 472 of the Higher Education Act of 1965, 20 U.S.C. 1087ll, as in effect on the date of the enactment of this paragraph) for the eligible educational institution for such period."
+Subsec. (e)(3)(B)(ii). Pub. L. 107–16, §402(e), reenacted heading without change and amended text of cl. (ii) generally. Prior to amendment, text read as follows: "The amount treated as qualified higher education expenses by reason of the preceding sentence shall not exceed the minimum amount (applicable to the student) included for room and board for such period in the cost of attendance (as defined in section 472 of the Higher Education Act of 1965, 20 U.S.C. 1087ll, as in effect on the date of the enactment of this paragraph) for the eligible educational institution for such period."
 
 Subsec. (e)(4). Pub. L. 107–16, §402(a)(4)(A), substituted "qualified tuition" for "qualified State tuition".
 
@@ -404,6 +410,10 @@ Subsec. (e)(3). Pub. L. 105–34, §211(a), amended heading and text of par. (3)
 
 Subsec. (e)(5). Pub. L. 105–34, §211(b)(2), added par. (5).
 
+#### Effective Date of 2018 Amendment
+
+Amendment by section 101(l)(15) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–97, title I, §11025(b), Dec. 22, 2017, 131 Stat. 2076, provided that: "The amendments made by this section \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Dec. 22, 2017\]."
@@ -448,7 +458,7 @@ Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -511,8 +521,4 @@ Transition rule.—If—
 > &emsp;then such program (as in effect on August 20, 1996) shall be treated as a qualified State tuition program with respect to contributions (and earnings allocable thereto) pursuant to contracts entered into under such program before the first date on which such program meets such requirements (determined without regard to this paragraph) and the provisions of such program (as so in effect) shall apply in lieu of section 529(b) of the Internal Revenue Code of 1986 with respect to such contributions and earnings.
 
 > For purposes of subparagraph (B)(ii), if a State has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "a".</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by "; and".</i>
 

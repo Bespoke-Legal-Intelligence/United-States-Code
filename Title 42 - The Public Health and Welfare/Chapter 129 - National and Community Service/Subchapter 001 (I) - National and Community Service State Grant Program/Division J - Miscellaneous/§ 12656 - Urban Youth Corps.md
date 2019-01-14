@@ -92,7 +92,7 @@ For purposes of this section:
 
 #### (5) Consistency
 
-&emsp;Each appropriate service project carried out under this section in any public housing project or public works resource or facility shall be consistent with the provisions of law and policies relating to the management and administration of such projects, facilities, or resources, with all other applicable provisions of law, and with all management, operational, and other plans and documents which govern the administration of such projects, facilities, or resources.
+&emsp;Each appropriate service project carried out under this section in any public housing project or public works resource or facility shall be consistent with the provisions of lawand policies relating to the management and administration of such projects, facilities, or resources, with all other applicable provisions of law, and with all management, operational, and other plans and documents which govern the administration of such projects, facilities, or resources.
 
 #### (e) Living allowances
 

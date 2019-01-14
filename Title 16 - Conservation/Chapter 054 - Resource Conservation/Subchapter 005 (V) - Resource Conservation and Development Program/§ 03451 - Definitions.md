@@ -66,7 +66,7 @@ In this subchapter:
 
 #### (5) Financial assistance
 
-&emsp;The term "financial assistance" means a grant or loan provided by the Secretary (orthe Secretary and other Federal agencies) to, or a cooperative agreement entered into by the Secretary (or the Secretary and other Federal agencies) with, a council, or association of councils, to carry out an area plan in a designated area, including assistance provided for planning, analysis, feasibility studies, training, education, and other activities necessary to carry out the area plan.
+&emsp;The term "financial assistance" means a grant or loan provided by the Secretary (or the Secretary and other Federal agencies) to, or a cooperative agreement entered into by the Secretary (or the Secretary and other Federal agencies) with, a council, or association of councils, to carry out an area plan in a designated area, including assistance provided for planning, analysis, feasibility studies, training, education, and other activities necessary to carry out the area plan.
 
 #### (6) Indian tribe
 

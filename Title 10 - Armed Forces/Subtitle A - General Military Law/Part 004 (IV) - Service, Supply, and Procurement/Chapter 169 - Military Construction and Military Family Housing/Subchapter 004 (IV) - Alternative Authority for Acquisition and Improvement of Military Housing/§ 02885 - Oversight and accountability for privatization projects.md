@@ -4,7 +4,7 @@
 
 Oversight and Accountability Measures.—Each Secretary concerned shall prescribe regulations to effectively oversee and manage military housing privatization projects carried out under this subchapter during the course of the construction or renovation of the housing units. The regulations shall include the following requirements for each privatization project:
 
-&emsp;(1) The installation asset manager shall conduct monthly site visits and provide quarterly reports on the progress of the construction or renovation of the housing units. The reports shall be submitted quarterly to the assistant secretary for installations and environment of the respective military department.
+&emsp;(1) The installation asset manager shall conduct monthly site visits and provide quarterly reports on the progress of the construction or renovation of the housing units. The reportsshall be submitted quarterly to the assistant secretary for installations and environment of the respective military department.
 
 &emsp;(2) The installation asset manager, and, as applicable, the resident construction manager, privatization asset manager, bondholder representative, project owner, developer, general contractor, and construction consultant for the project shall conduct meetings to ensure that the construction or renovation of the units meets performance and schedule requirements and that appropriate operating and ground lease agreements are in place and adhered to.
 
@@ -24,7 +24,7 @@ Bonding Levels.—The Secretary concerned shall ensure that the project owner, d
 
 (d)
 
-Reporting of Efforts To Select Successor in Event of Default.—In the event a military housing privatization initiative project enters into default, the assistant secretary for installations and environment of the respective military department shall submit, in an electronic medium pursuant to section 480 of thistitle, a report to the congressional defense committees every 90 days detailing the status of negotiations to award the project to a new project owner, developer, or general contractor.
+Reporting of Efforts To Select Successor in Event of Default.—In the event a military housing privatization initiative project enters into default, the assistant secretary for installations and environment of the respective military department shall submit, in an electronic medium pursuant to section 480 of this title, a report to the congressional defense committees every 90 days detailing the status of negotiations to award the project to a new project owner, developer, or general contractor.
 
 (e)
 

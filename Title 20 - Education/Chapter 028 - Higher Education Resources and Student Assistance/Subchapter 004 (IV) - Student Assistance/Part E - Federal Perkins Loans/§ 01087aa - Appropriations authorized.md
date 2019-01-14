@@ -18,7 +18,7 @@ The Secretary shall carry out a program assisting in the maintenance of funds at
 
 #### (C) Loans for certain graduate borrowers
 
-&emsp;&emsp;Through September 30, 2016, with respect to an eligible graduate student who has received a loan made under this part prior to October 1, 2015, an institution of higher education that has most recently made such a loan to the student for an academic program at such institution may continue making loans under this part from the student loanfund established under this part by the institution to enable the student to continue or complete such academic program.
+&emsp;&emsp;Through September 30, 2016, with respect to an eligible graduate student who has received a loan made under this part prior to October 1, 2015, an institution of higher education that has most recently made such a loan to the student for an academic program at such institution may continue making loans under this part from the student loan fund established under this part by the institution to enable the student to continue or complete such academic program.
 
 #### (2) No additional loans
 
@@ -28,7 +28,7 @@ The Secretary shall carry out a program assisting in the maintenance of funds at
 
 &emsp;No funds are authorized to be appropriated under this chapter or any other Act to carry out the functions described in paragraph (1) for any fiscal year following fiscal year 2015.
 
-(Pub. L. 89–329, title IV, §461, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §461(a)(2)–(c), July 23, 1992, 106 Stat. 576; Pub. L. 105–244, title IV, §461, Oct. 7, 1998, 112 Stat. 1720; Pub. L. 110–315, title IV, §461, Aug. 14, 2008, 122 Stat. 3265; Pub. L. 114–105, §2(a)(1), Dec. 18, 2015, 129 Stat. 2219.)
+(Pub. L. 89–329, title IV, §461, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat.1439; amended Pub. L. 102–325, title IV, §461(a)(2)–(c), July 23, 1992, 106 Stat. 576; Pub. L. 105–244, title IV, §461, Oct. 7, 1998, 112 Stat. 1720; Pub. L. 110–315, title IV, §461, Aug. 14, 2008, 122 Stat. 3265; Pub. L. 114–105, §2(a)(1), Dec. 18, 2015, 129 Stat. 2219.)
 
 #### Prior Provisions
 

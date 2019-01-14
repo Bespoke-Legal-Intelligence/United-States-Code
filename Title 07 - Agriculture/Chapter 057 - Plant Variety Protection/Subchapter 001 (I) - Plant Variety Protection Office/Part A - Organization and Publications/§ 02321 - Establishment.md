@@ -1,6 +1,6 @@
 ### §2321. Establishment
 
-There is hereby established in the Department of Agriculture an office to be known as thePlant Variety Protection Office, which shall have the functions set forth in this chapter.
+There is hereby established in the Department of Agriculture an office to be known as the Plant Variety Protection Office, which shall have the functions set forth in this chapter.
 
 (Pub. L. 91–577, title I, §1, Dec. 24, 1970, 84 Stat. 1542; Pub. L. 96–574, §1, Dec. 22, 1980, 94 Stat. 3350.)
 

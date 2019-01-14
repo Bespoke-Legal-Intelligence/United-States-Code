@@ -22,7 +22,7 @@ As used in this chapter—
 
 &emsp;(6) "protocol" means the Protocol Relating to Intervention on the High Seas in Cases of Marine Pollution by Substances Other Than Oil, 1973, including annexes thereto; and
 
-&emsp;(7) "United States" means the States, the District of Columbia, the Commonwealth ofPuerto Rico, the Canal Zone, Guam, American Samoa, the United States Virgin Islands, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Marianas, and any other commonwealth, territory, or possession of the United States.
+&emsp;(7) "United States" means the States, the District of Columbia, the Commonwealth of Puerto Rico, the Canal Zone, Guam, American Samoa, the United States Virgin Islands, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Marianas, and any other commonwealth, territory, or possession of the United States.
 
 (Pub. L. 93–248, §2, Feb. 5, 1974, 88 Stat. 8; Pub. L. 95–302, §1(1), June 26, 1978, 92 Stat. 344.)
 

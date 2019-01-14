@@ -36,7 +36,7 @@ Pub. L. 110–181 substituted "paragraphs (1) and (2) of subsection (a)" for "pa
 
 Subsec. (a)(2)(B). Pub. L. 107–314, §1062(a)(4)(B), substituted "after December 27, 2004" for "after the end of the period specified in subparagraph (A)".
 
-<b>2001</b>—Subsec. (a)(2). Pub. L. 107–107 substituted "promoted—" for "promoted at a rate", added subpar. (A), designated "not less than the rate for officers of the same armed force in the same grade and competitive category who are serving on, or have served on, the headquarters staff of their armed force; and" as subpar. (B), and inserted "after the end of the period specified in subparagraph (A), at a rate" after subpar. (B) designation.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–107 substituted "promoted—" for "promoted at a rate", added subpar. (A), designated "not less than the rate for officers of the same armed force in the same grade and competitive category who are serving on, or have served on, the headquarters staff of their armed force; and" as subpar. (B), and inserted "after the end of the period specifiedin subparagraph (A), at a rate" after subpar. (B) designation.
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–201, §510(b), in first sentence, substituted "paragraphs" for "clauses" and, in second sentence, inserted "for any fiscal year" after "such objectives" and substituted "report for that fiscal year" for "periodic report required by this subsection".
 

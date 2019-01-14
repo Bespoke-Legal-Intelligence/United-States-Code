@@ -12,7 +12,7 @@ In General.—The conveyance of a historic light station shall be made subject t
 
 &emsp;(4)(A) the eligible entity to which the historic light station is conveyed shall, at its own cost and expense, use and maintain the historic light station in accordance with this division, the Secretary of the Interior's Standards for the Treatment of Historic Properties contained in part 68 of title 36, Code of Federal Regulations, and other applicable laws; and
 
-&emsp;(B) any proposed changes to the historic light station shall be reviewed and approved by the Secretary in consultation with the State Historic Preservation Officer of the State in which the historic light station is located, for consistency with section 800.5(a)(2)(vii) of title 36, Code of Federal Regulations and the Secretary's Standards for Rehabilitation contained in section 67.7 of title 36, Code of Federal Regulations;
+&emsp;(B) any proposed changes to the historic light station shall be reviewed and approved by the Secretary in consultation with theState Historic Preservation Officer of the State in which the historic light station is located, for consistency with section 800.5(a)(2)(vii) of title 36, Code of Federal Regulations and the Secretary's Standards for Rehabilitation contained in section 67.7 of title 36, Code of Federal Regulations;
 
 &emsp;(5) the eligible entity to which the historic light station is conveyed shall make the historic light station available for education, park, recreation, cultural, or historic preservation purposes for the general public at reasonable times and under reasonable conditions;
 
@@ -24,7 +24,7 @@ In General.—The conveyance of a historic light station shall be made subject t
 
 (b)
 
-Maintenance of Aid to Navigation.—Any eligible entity to which a historic light station is conveyed shall not be required to maintain any Federal aid to navigation associated with a historic light station, except any private aid to navigation permitted to the eligible entity under section 83 of title 14.
+Maintenance of Aid to Navigation.—Any eligible entity to which a historic light station is conveyed shall not be required to maintain any Federal aid to navigation associated with a historic light station, except any private aid to navigation permitted to the eligible entity under section 83 <sup>1</sup> of title 14.
 
 (c)
 
@@ -67,4 +67,10 @@ Pub. L. 89–665, title III, §308(c)(1) through (3), as added Pub. L. 106–355
 16 U.S.C. 470w–7(c)(4).
 
 Pub. L. 89–665, title III, §308(c)(4), as added Pub. L. 108–293, title VI, §627, Aug. 9, 2004, 118 Stat. 1066.
+
+#### References in Text
+
+Section 83 of title 14, referred to in subsec. (b), was redesignated section 542 of title 14 by Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 83 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

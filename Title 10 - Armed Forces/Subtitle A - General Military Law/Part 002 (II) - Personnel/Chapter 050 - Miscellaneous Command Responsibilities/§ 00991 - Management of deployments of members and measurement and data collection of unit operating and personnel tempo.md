@@ -28,7 +28,7 @@ Management Responsibilities.—(1) The deployment (or potential deployment) of a
 
 &emsp;(B) a general or flag officer in that member's chain of command (including an officer in the grade of colonel, or in the case of the Navy, captain, serving in a general or flag officer position who has been selected for promotion to the grade of brigadier general or rear admiral (lower half) in a report of a selection board convened under section 611(a) or 14101(a) of this title that has been approved by the President).
 
-(4) The Secretary of Defense shall prescribe a policy that addresses the amount of dwell timea member of the armed forces or unit remains at the member's or unit's permanent duty station or home port, as the case may be, between deployments.
+(4) The Secretary of Defense shall prescribe a policy that addresses the amount of dwell time a member of the armed forces or unit remains at the member's or unit's permanent duty station or home port, as the case may be, between deployments.
 
 (b)
 
@@ -98,7 +98,7 @@ Other Definitions.—In this section:
 
 &emsp;(3) The term "personnel tempo" means the amount of time members of the armed forces are engaged in their official duties at a location or under circumstances that make it infeasible for a member to spend off-duty time in the housing in which the member resides.
 
-(Added Pub. L. 106–65, div. A, title V, §586(a), Oct. 5, 1999, 113 Stat. 637; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §574(a), (b)\], Oct. 30,2000, 114 Stat. 1654, 1654A–136, 1654A–137; Pub. L. 107–107, div. A, title V, §515(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–136, div. A, title V, §541(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 112–81, div. A, title V, §522(a)–(d)(1), Dec. 31, 2011, 125 Stat. 1399–1401.)
+(Added Pub. L. 106–65, div. A, title V, §586(a), Oct. 5, 1999, 113 Stat. 637; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §574(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, 1654A–137; Pub. L. 107–107, div. A, title V, §515(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–136, div. A, title V, §541(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 112–81, div. A, title V, §522(a)–(d)(1), Dec. 31, 2011, 125 Stat. 1399–1401.)
 
 #### Amendments
 
@@ -124,7 +124,7 @@ Subsec. (f). Pub. L. 112–81, §522(c), added subsec. (f).
 
 <b>2001</b>—Subsec. (b)(2). Pub. L. 107–107 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
-"(2) In the case of a member of a reserve component performing active service, the member shall be considered deployed or in a deployment for the purposes of paragraph (1) on any day on which, pursuant to orders that do not establish a permanent change of station, the member is performing the active service at a location that—
+"(2) In the case of a member of a reserve component performing active service, the member shall be considered deployed or in a deployment for the purposes of paragraph (1) on any day on which, pursuant to ordersthat do not establish a permanent change of station, the member is performing the active service at a location that—
 
 &emsp;"(A) is not the member's permanent training site; and
 

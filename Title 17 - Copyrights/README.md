@@ -18,10 +18,13 @@
 | [<b>11.</b>](Chapter%20011%20-%20Sound%20Recordings%20and%20Music%20Videos/README.md) | <b>Sound Recordings and Music Videos</b> | <b>1101</b> |
 | [<b>12.</b>](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/README.md) | <b>Copyright Protection and Management Systems</b> | <b>1201</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Protection%20of%20Original%20Designs/README.md) | <b>Protection of Original Designs</b> | <b>1301</b> |
+| [<b>14.</b>](Chapter%20014%20-%20Unauthorized%20Use%20of%20Pre-1972%20Sound%20Recordings/README.md) | <b>Unauthorized use of pre-1972 sound recordings </b><b><sup>1</sup></b> | <b>1401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–264, title II, §202(b), Oct. 11, 2018, 132 Stat. 3737, added item relating to chapter 14.
 
 <b>2010</b>—Pub. L. 111–295, §4(b)(1)(B), Dec. 9, 2010, 124 Stat. 3180, substituted "Importation and Exportation" for "Manufacturing Requirements, Importation, and Exportation" in item relating to chapter 6.
 
@@ -593,6 +596,8 @@ Pub. L. 94–553, title I, §114, Oct. 19, 1976, 90 Stat. 2602, provided that: "
 
 Pub. L. 94–553, title I, §103, Oct. 19, 1976, 90 Stat. 2599, provided that: "This Act \[enacting this title\] does not provide copyright protection for any work that goes into the public domain before January 1, 1978. The exclusive rights, as provided by section 106 of title 17 as amended by the first section of this Act, to reproduce a work in phonorecords and to distribute phonorecords of the work, do not extend to any nondramatic musical work copyrighted before July 1, 1909."
 
+<i><sup>1</sup></i><i> So in original. Probably should be "Unauthorized Use of Pre-1972 Sound Recordings".</i>
+
 
 ---
 
@@ -611,3 +616,4 @@ Pub. L. 94–553, title I, §103, Oct. 19, 1976, 90 Stat. 2599, provided that: "
 - [Chapter 011 - Sound Recordings and Music Videos](Chapter%20011%20-%20Sound%20Recordings%20and%20Music%20Videos/README.md)
 - [Chapter 012 - Copyright Protection and Management Systems](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/README.md)
 - [Chapter 013 - Protection of Original Designs](Chapter%20013%20-%20Protection%20of%20Original%20Designs/README.md)
+- [Chapter 014 - Unauthorized Use of Pre-1972 Sound Recordings](Chapter%20014%20-%20Unauthorized%20Use%20of%20Pre-1972%20Sound%20Recordings/README.md)

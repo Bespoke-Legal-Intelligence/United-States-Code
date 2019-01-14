@@ -38,7 +38,7 @@ Pub. L. 91–366, §4, July 31, 1970, 84 Stat. 691, provided that: "This Act \[a
 
 #### Effective Date of 1961 Amendment
 
-Pub. L. 87–354, §2, Oct. 4, 1961, 75 Stat. 776, provided that: "The amendments made by this Act \[amendingthis section\] shall take effect on the first day of the third month beginning after the date of enactment of this Act \[Oct. 4, 1961\]."
+Pub. L. 87–354, §2, Oct. 4, 1961, 75 Stat. 776, provided that: "The amendments made by this Act \[amending this section\] shall take effect on the first day of the third month beginning after the date of enactment of this Act \[Oct. 4, 1961\]."
 
 #### Separability
 

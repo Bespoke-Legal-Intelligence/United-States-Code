@@ -22,7 +22,7 @@
 
 #### (2) Submission
 
-&emsp;The Assistant Secretary shall submit to the Commission and the Committee on Energyand Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
+&emsp;The Assistant Secretary shall submit to the Commission and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
 
 &emsp;&emsp;(A) not later than 8 months after February 22, 2012, a report on the portion of the study required by paragraph (1) with respect to the 5350–5470 MHz band; and
 

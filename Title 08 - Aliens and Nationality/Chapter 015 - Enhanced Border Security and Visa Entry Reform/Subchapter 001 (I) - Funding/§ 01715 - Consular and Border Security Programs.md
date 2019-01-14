@@ -16,11 +16,13 @@ There is established in the Treasury a separate fund to be known as the "Consula
 
 #### (i) Effective date
 
-The amendments made by this section shall take effect no later than October 1, 2018, and shall be implemented in a manner that ensures the fees collected, transferred, and used in fiscal year 2019 can be readily tracked.
+The amendments made by this section shall take effect no later than October 1, 2018, andshall be implemented in a manner that ensures the fees collected, transferred, and used in fiscal year 2019 can be readily tracked.
 
 (Pub. L. 115–31, div. J, title VII, §7081, May 5, 2017, 131 Stat. 716.)
 
 #### Codification
+
+Section appears under the heading "Consular and Border Security Programs" in title VII of div. J of Pub. L. 115–31. It was enacted as part of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017, and also as part of the Consolidated Appropriations Act, 2017, and not as part of the Enhanced Border Security and Visa Entry Reform Act of 2002 which comprises this chapter.
 
 Section is comprised of section 7081 of title VII of div. J of Pub. L. 115–31. Subsecs. (b) and (c) of section 7081 of Pub. L. 115–31 amended sections 1713 and 1714, respectively, of this title. Subsecs. (d) and (e) of section 7081 amended provisions set out as notes under sections 1153 and 1183a, respectively, of this title. Subsec. (f) of section 7081 amended section 214 of Title 22, Foreign Relations and Intercourse, and subsec. (g) of section 7081 amended provisions set out as a note under section 214 of Title 22.
 

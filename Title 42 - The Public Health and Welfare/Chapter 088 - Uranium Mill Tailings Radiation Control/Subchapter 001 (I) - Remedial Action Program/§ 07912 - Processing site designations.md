@@ -74,7 +74,7 @@ The designations made, and priorities established, by the Secretary under this s
 
 &emsp;(B) is determined by the Secretary to be contaminated with residual radioactive materials.
 
-> In making the designation under this paragraph, the Secretary shall consult with the Administrator, the Commission and the State of South Dakota. The provisions of this subchapter shall apply to the site so designated in the same manner and to the same extent as to the sites designated under subsection (a) except that, in applying such provisions to such site, any reference in this subchapter to November 8, 1978, shall be treated as a reference to January 4, 1983, and in determining the State share under section 7917 of this title of the costs of remedial action, there shall be credited to the State, expenditures made by the State prior to January 4, 1983, which the Secretary determines would have been made by the State or the United States in carrying out the requirements of this subchapter.
+> In making the designation under this paragraph, the Secretary shall consult with the Administrator, the Commission and the State of SouthDakota. The provisions of this subchapter shall apply to the site so designated in the same manner and to the same extent as to the sites designated under subsection (a) except that, in applying such provisions to such site, any reference in this subchapter to November 8, 1978, shall be treated as a reference to January 4, 1983, and in determining the State share under section 7917 of this title of the costs of remedial action, there shall be credited to the State, expenditures made by the State prior to January 4, 1983, which the Secretary determines would have been made by the State or the United States in carrying out the requirements of this subchapter.
 
 #### (f) Designation of Moab Site as processing site
 
@@ -92,13 +92,13 @@ The designations made, and priorities established, by the Secretary under this s
 
 #### (3) Remediation
 
-&emsp;Subject to the availability of appropriations for this purpose, the Secretary shall conduct remediation at the Moab site in a safe and environmentally sound manner that takes into consideration the remedial action plan prepared pursuant to section 3405(i) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (10 U.S.C. 7420 note; Public Law 105–261), including—
+&emsp;Subject to the availability of appropriations for this purpose, the Secretary shall conduct remediation at the Moab site in a safe and environmentally sound manner that takes into consideration the remedial action plan prepared pursuant to section 3405(i) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (10 U.S.C. 8720 note; Public Law 105–261), including—
 
 &emsp;&emsp;(A) ground water restoration; and
 
 &emsp;&emsp;(B) the removal, to a site in the State of Utah, for permanent disposition and any necessary stabilization, of residual radioactive material and other contaminated material from the Moab site and the floodplain of the Colorado River.
 
-(Pub. L. 95–604, title I, §102, Nov. 8, 1978, 92 Stat. 3023; Pub. L. 97–415, §21, Jan. 4, 1983, 96 Stat. 2079; Pub. L. 106–398, §1 \[div. C, title XXXIV, §3403(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–489.)
+(Pub. L. 95–604, title I, §102, Nov. 8, 1978, 92 Stat. 3023; Pub. L. 97–415, §21, Jan. 4, 1983, 96 Stat. 2079; Pub. L. 106–398, §1 \[div. C, title XXXIV, §3403(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–489; Pub. L. 115–232, div. A, title VIII, §809(n)(4), Aug. 13, 2018, 132 Stat. 1844.)
 
 #### References in Text
 
@@ -106,7 +106,13 @@ Remedial action authorized under Public Law 92–314, referred to in subsec. (a)
 
 #### Amendments
 
+<b>2018</b>—Subsec. (f)(3). Pub. L. 115–232 substituted "(10 U.S.C. 8720 note; Public Law 105–261)" for "(10 U.S.C. 7420 note; Public Law 105–261)" in introductory provisions.
+
 <b>2000</b>—Subsec. (f). Pub. L. 106–398 added subsec. (f).
 
 <b>1983</b>—Subsec. (e)(3). Pub. L. 97–415 added par. (3).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
 

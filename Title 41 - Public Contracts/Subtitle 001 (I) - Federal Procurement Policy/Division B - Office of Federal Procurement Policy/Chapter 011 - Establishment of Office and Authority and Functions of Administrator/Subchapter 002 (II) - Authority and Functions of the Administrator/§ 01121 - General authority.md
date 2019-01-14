@@ -28,7 +28,7 @@ Procedures to ensure compliance.—The Administrator shall establish procedures 
 
 &emsp;(3)
 
-Application of other laws.—The authority of an executive agency under another law to prescribe policies, regulations, procedures, and forms for procurement is subject to the authority conferred in this section andsections 1122(a) to (c)(1), 1125, 1126, 1130, 1131, and 2305 of this title.
+Application of other laws.—The authority of an executive agency under another law to prescribe policies, regulations, procedures, and forms for procurement is subject to the authority conferred in this section and sections 1122(a) to (c)(1), 1125, 1126, 1130, 1131, and 2305 of this title.
 
 (d)
 
@@ -98,7 +98,7 @@ In subsection (c)(2), the text of 41:405a (1st sentence relating to promulgating
 
 #### Supersedure of Inconsistent Statutory Provisions
 
-Pub. L. 96–83, §11, Oct. 10, 1979, 93 Stat. 652, provided that: "The provisions of the Act \[Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, see this division (except sections 1123, 2303, 2304, and 2313)\] as amended by this Act \[see Short Title of 1979 Act note set out under section 101 of this title\] shall supersede the provisions of section 222 of the Act of October 24, 1978, entitled 'An Act to amend the Small Business Act and the Small Business Investment Act of 1958' (\[former\] 41 U.S.C. 405a) \[now 41 U.S.C. 1121(c)(2), 1123\] to the extent they are inconsistent therewith."
+Pub. L. 96–83, §11, Oct. 10, 1979, 93 Stat. 652, provided that: "The provisions of the Act \[Pub. L. 93–400, Aug.30, 1974, 88 Stat. 796, see this division (except sections 1123, 2303, 2304, and 2313)\] as amended by this Act \[see Short Title of 1979 Act note set out under section 101 of this title\] shall supersede the provisions of section 222 of the Act of October 24, 1978, entitled 'An Act to amend the Small Business Act and the Small Business Investment Act of 1958' (\[former\] 41 U.S.C. 405a) \[now 41 U.S.C. 1121(c)(2), 1123\] to the extent they are inconsistent therewith."
 
 #### Federal Support for Enhancement of State and Local Anti-Terrorism Response Capabilities
 

@@ -46,7 +46,7 @@ For purposes of this section:
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1995, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1995, and not as partof the Foreign Assistance Act of 1961 which comprises this chapter.
 
 #### Amendments
 
@@ -88,7 +88,9 @@ Determination No. 2006–02, Oct. 16, 2005, 70 F.R. 62227.
 
 Determination No. 2005–03, Oct. 16, 2004, 69 F.R. 62797.
 
-Colombia.—Determination No. 2017–10, July 21, 2017, 82 F.R. 40667.
+Colombia.—Determination No. 2018–10, July 20, 2018, 83 F.R. 39579.
+
+Determination No. 2017–10, July 21, 2017, 82 F.R. 40667.
 
 Determination No. 2016–09, Aug. 4, 2016, 81 F.R. 55107.
 

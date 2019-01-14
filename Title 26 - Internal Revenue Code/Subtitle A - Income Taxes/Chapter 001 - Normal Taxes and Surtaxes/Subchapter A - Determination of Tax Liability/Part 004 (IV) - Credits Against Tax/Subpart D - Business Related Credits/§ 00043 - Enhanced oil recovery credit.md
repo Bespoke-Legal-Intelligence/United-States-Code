@@ -16,7 +16,7 @@ For purposes of section 38, the enhanced oil recovery credit for any taxable yea
 
 #### (2) Reference price
 
-&emsp;For purposes of this subsection, the term "reference price" means, with respect to anycalendar year, the reference price determined for such calendar year under section 45K(d)(2)(C).
+&emsp;For purposes of this subsection, the term "reference price" means, with respect to any calendar year, the reference price determined for such calendar year under section 45K(d)(2)(C).
 
 #### (3) Inflation adjustment
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (1) Disallowance of deduction
 
-&emsp;Any deduction allowable under this chapter for any costs taken into account in computingthe amount of the credit determined under subsection (a) shall be reduced by the amount of such credit attributable to such costs.
+&emsp;Any deduction allowable under this chapter for any costs taken into account in computing the amount of the credit determined under subsection (a) shall be reduced by the amount of such credit attributable to such costs.
 
 #### (2) Basis adjustments
 
@@ -166,7 +166,7 @@ Subsec. (c)(5). Pub. L. 108–357, §707(b), added par. (5).
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 for taxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
+Amendment by Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 fortaxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -191,6 +191,8 @@ Special rule for significant expansion of projects.—For purposes of section 43
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2018</b>—Internal Revenue Notice 2018–49.
 
 <b>2017</b>—Internal Revenue Notice 2017–25.
 

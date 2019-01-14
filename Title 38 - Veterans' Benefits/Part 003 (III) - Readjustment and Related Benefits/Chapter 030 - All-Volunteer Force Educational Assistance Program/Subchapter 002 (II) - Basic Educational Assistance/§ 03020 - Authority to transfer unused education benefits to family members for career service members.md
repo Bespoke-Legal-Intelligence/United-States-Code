@@ -66,7 +66,7 @@ Commencement of Use.—A dependent to whom entitlement to basic educational assi
 
 (h)
 
-Additional Administrative Matters.—(1) The use of any entitlement to basic educationalassistance transferred under this section shall be charged against the entitlement of the individual making the transfer at the rate of one month for each month of transferred entitlement that is used.
+Additional Administrative Matters.—(1) The use of any entitlement to basic educational assistance transferred under this section shall be charged against the entitlement of the individual making the transfer at the rate of one month for each month of transferred entitlement that is used.
 
 (2) Except as provided under subsection (e)(2) and subject to paragraphs (5) and (6), a dependent to whom entitlement is transferred under this section is entitled to basic educational assistance under this subchapter in the same manner as the individual from whom the entitlement was transferred.
 

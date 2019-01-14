@@ -447,6 +447,7 @@
 | [284y.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284y%20-%20Multilateral%20debt%20relief.md) | Multilateral debt relief. |
 | [284z.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284z%20-%20Seventeenth%20replenishment.md) | Seventeenth replenishment. |
 | [284aa.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284aa%20-%20Multilateral%20debt%20relief.md) | Multilateral debt relief. |
+| [284bb.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284bb%20-%20Eighteenth%20replenishment.md) | Eighteenth replenishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -487,6 +488,7 @@
 | [285dd.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285dd%20-%20Ninth%20replenishment.md) | Ninth replenishment. |
 | [285ee.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285ee%20-%20Fifth%20capital%20increase.md) | Fifth capital increase. |
 | [285ff.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285ff%20-%20Tenth%20replenishment.md) | Tenth replenishment. |
+| [285gg.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285gg%20-%20Eleventh%20replenishment.md) | Eleventh replenishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -708,6 +710,7 @@
 | 290g–21. | Multilateral debt relief. |
 | 290g–22. | Thirteenth replenishment. |
 | 290g–23. | Multilateral debt relief. |
+| 290g–24. | Fourteenth replenishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

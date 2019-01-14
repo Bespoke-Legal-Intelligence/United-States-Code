@@ -158,7 +158,7 @@ Pub. L. 97–248, title III, §348(b), Sept. 3, 1982, 96 Stat. 638, provided tha
 
 &emsp;"(2) which are satisfied after December 31, 1982, or
 
-&emsp;"(3) with respect to which the taxpayer after December 31, 1982, requests the Secretary of the Treasury or his delegate to issue a certificate of release onthe grounds that the liability was satisfied or legally unenforceable."
+&emsp;"(3) with respect to which the taxpayer after December 31, 1982, requests the Secretary of the Treasury or his delegate to issue a certificate of release on the grounds that the liability was satisfied or legally unenforceable."
 
 #### Effective Date of 1978 Amendment
 

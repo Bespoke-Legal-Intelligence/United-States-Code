@@ -22,7 +22,7 @@ The head of each executive department or agency (hereafter collectively "agency"
 
 &emsp;(4) identifying barriers to implementing this directive and providing recommendations for addressing such barriers to the President's Management Council.
 
-I direct the Director of the Office of Personnel Management ("OPM") and the Administrator of General Services ("GSA") to take all necessary steps to support and encourage the expanded implementation of flexible work arrangements. The OPM and GSA shall work in concert to promptly review and revise regulations that are barriers to such work arrangements and develop legislative proposals, as needed, to achieve the goals of this directive. The OPM and GSA also shall assist agencies, as requested, to implement this directive.
+I direct the Director of the Office of Personnel Management ("OPM") and the Administrator of GeneralServices ("GSA") to take all necessary steps to support and encourage the expanded implementation of flexible work arrangements. The OPM and GSA shall work in concert to promptly review and revise regulations that are barriers to such work arrangements and develop legislative proposals, as needed, to achieve the goals of this directive. The OPM and GSA also shall assist agencies, as requested, to implement this directive.
 
 The President's Management Council, in conjunction with the Office of Management and Budget, shall ensure that any guidance necessary to implement the actions set forth in this directive is provided.
 

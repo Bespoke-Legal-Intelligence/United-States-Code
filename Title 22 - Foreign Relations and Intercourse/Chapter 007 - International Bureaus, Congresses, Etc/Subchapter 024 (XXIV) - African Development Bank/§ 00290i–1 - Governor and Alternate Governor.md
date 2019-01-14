@@ -18,7 +18,7 @@ No person shall be entitled to receive any salary or other compensation from the
 
 #### (d) Voting
 
-The Governor, or in the Governor's absence the Alternate Governor, on the instructions of the President, shall cast the votes of the United States for the Director to represent the United States in the Bank.
+The Governor, or in the Governor's absence the Alternate Governor, on the instructions ofthe President, shall cast the votes of the United States for the Director to represent the United States in the Bank.
 
 (Pub. L. 97–35, title XIII, §1333, Aug. 13, 1981, 95 Stat. 741; Pub. L. 101–513, title V, §562(b)(3), Nov. 5, 1990, 104 Stat. 2034; Pub. L. 112–166, §2(z)(1), Aug. 10, 2012, 126 Stat. 1289.)
 

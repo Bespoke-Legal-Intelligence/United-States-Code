@@ -14,7 +14,7 @@ The President shall impose the sanctions described in subsection (b) with respec
 
 #### (b) Sanctions described
 
-The sanctions described in this subsection are the exercise of all powers granted to the President by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of a person determined by the President to be subject to subsection (a) if such property and interests in property are in the United States, comewithin the United States, or are or come within the possession or control of a United States person.
+The sanctions described in this subsection are the exercise of all powers granted to the President by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of a person determined by the President to be subject to subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
 
 #### (c) Implementation; penalties
 
@@ -24,7 +24,7 @@ The sanctions described in this subsection are the exercise of all powers grante
 
 #### (2) Penalties
 
-&emsp;A person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (b) or any regulation, license, or order issued to carry out subsection (b) shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+&emsp;A person that violates, attempts to violate, conspires to violate, or causes a violation ofsubsection (b) or any regulation, license, or order issued to carry out subsection (b) shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
 
 #### (d) Application of new sanctions
 
@@ -98,7 +98,7 @@ Executive Order No. 13685, referred to in subsec. (f)(1)(D), is Ex. Ord. No. 136
 
 Executive Order No. 13694, referred to in subsec. (f)(1)(E), is Ex. Ord. No. 13694, Apr. 1, 2015, 80 F.R. 18077, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
-Executive Order No. 13757, referred to in subsec. (f)(1)(F), is Ex. Ord. No. 13757, Dec. 28, 2016, 82 F.R. 1, sections 1 to 3 of which amended Ex. Ord. No. 13694, which is listed in a table under section 1701 of Title 50, War and National Defense.
+Executive Order No. 13757, referred to in subsec. (f)(1)(F), is Ex. Ord. No. 13757, Dec. 28, 2016, 82 F.R. 1, sections 1 to 3 of which amended Ex. Ord. No. 13694,which is listed in a table under section 1701 of Title 50, War and National Defense.
 
 #### Prior Provisions
 

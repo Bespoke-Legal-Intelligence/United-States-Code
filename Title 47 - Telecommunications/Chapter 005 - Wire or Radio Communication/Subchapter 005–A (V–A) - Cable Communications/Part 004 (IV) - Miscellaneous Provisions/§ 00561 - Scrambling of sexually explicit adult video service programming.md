@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-In providing sexually explicit adult programming or other programming that is indecent on any channel of its service primarily dedicated tosexually-oriented programming, a multichannel video programming distributor shall fully scramble or otherwise fully block the video and audio portion of such channel so that one not a subscriber to such channel or programming does not receive it.
+In providing sexually explicit adult programming or other programming that is indecent on any channel of its service primarily dedicated to sexually-oriented programming, a multichannel video programming distributor shall fully scramble or otherwise fully block the video and audio portion of such channel so that one not a subscriber to such channel or programming does not receive it.
 
 #### (b) Implementation
 

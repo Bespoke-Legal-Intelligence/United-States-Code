@@ -40,7 +40,7 @@
 
 #### (3) Powers and report
 
-&emsp;Each examiner appointed under paragraph (2) shall make such examination of the affairs of the System institution as the Board may direct, and shall make a full and detailed report of the examination to the Corporation.
+&emsp;Each examiner appointed under paragraph (2) shall make such examination of the affairsof the System institution as the Board may direct, and shall make a full and detailed report of the examination to the Corporation.
 
 #### (4) Appointment of claim agents
 
@@ -58,7 +58,7 @@ The examiners appointed by the Board of Directors shall cooperate to the maximum
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–105 inserted at end "Notwithstanding any other provision of this chapter,on cancellation of the charter of a System institution, the Corporation shall have authority to examine the system institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine."
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–105 inserted at end "Notwithstanding any other provision of this chapter, on cancellation of the charter of a System institution, the Corporation shall have authority to examine the system institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine."
 
 <b>1992</b>—Pub. L. 102–552, §513(a)(1), substituted "System institutions" for "insured System banks" in section catchline.
 

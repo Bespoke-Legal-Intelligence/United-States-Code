@@ -58,7 +58,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 #### (1) In general
 
-&emsp;The prohibitions contained in subsections (a) and (b) shall not apply with respect to theacquisition of unprocessed timber originating from Federal lands within a sourcing area west of the 100th meridian in the contiguous 48 States approved by the Secretary concerned under this subsection by a person who—
+&emsp;The prohibitions contained in subsections (a) and (b) shall not apply with respect to the acquisition of unprocessed timber originating from Federal lands within a sourcing area west of the 100th meridian in the contiguous 48 States approved by the Secretary concerned under this subsection by a person who—
 
 &emsp;&emsp;(A) in the previous 24 months, has not exported unprocessed timber originating from private lands within the sourcing area; and
 
@@ -96,7 +96,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 &emsp;&emsp;&emsp;(i) consider land located in the northwestern private timber open market area; or
 
-&emsp;&emsp;&emsp;(ii) condition approval of the application on the inclusion of any such land in the applicant's sourcing area, such land being includable in the sourcing area only to the extent requested by the applicant.
+&emsp;&emsp;&emsp;(ii) condition approval of the application on the inclusion of any such land in theapplicant's sourcing area, such land being includable in the sourcing area only to the extent requested by the applicant.
 
 #### (4) Denial of application for sourcing areas for processing facilities located outside the northwestern private timber open market area
 

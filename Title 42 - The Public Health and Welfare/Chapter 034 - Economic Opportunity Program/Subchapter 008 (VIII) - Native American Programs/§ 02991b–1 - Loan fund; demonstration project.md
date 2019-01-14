@@ -82,7 +82,7 @@ Not later than 120 days after November 29, 1987, the Commissioner, in consultati
 
 (2) Such report shall include the views and recommendations of the Commissioner with respect to the revolving loan fund established under subsection (a)(1) and with respect to loans made from such fund, and shall—
 
-&emsp;(A) describe the effectiveness of the operation of such fund in improving the economicand social self-sufficiency of Native Hawaiians;
+&emsp;(A) describe the effectiveness of the operation of such fund in improving the economic and social self-sufficiency of Native Hawaiians;
 
 &emsp;(B) specify the number of loans made in such fiscal year;
 

@@ -12,13 +12,13 @@ The Commission, by rule or regulation—
 
 &emsp;&emsp;(D) may be used, resold, or redisseminated by any person who has lawfully obtained such information without restriction and without payment of additional fees or royalties; and
 
-&emsp;(2) shall require that persons, or classes of persons, required to make filings with the Commission submit such filings in a form and manner suitable for entry into the EDGAR system and shall specify the date that such requirement is effective with respect to that person or class; except that the Commission may exempt persons or classes of persons, or filings or classes of filings, from such rules orregulations in order to prevent hardships or to avoid imposing unreasonable burdens or as otherwise may be necessary or appropriate.
+&emsp;(2) shall require that persons, or classes of persons, required to make filings with the Commission submit such filings in a form and manner suitable for entry into the EDGAR system and shall specify the date that such requirement is effective with respect to that person or class; except that the Commission may exempt persons or classes of persons, or filings or classes of filings, from such rules or regulations in order to prevent hardships or to avoid imposing unreasonable burdens or as otherwise may be necessary or appropriate.
 
 (June 6, 1934, ch. 404, title I, §35A, as added Pub. L. 100–181, title I, §102, Dec. 4, 1987, 101 Stat. 1249; amended Pub. L. 105–353, title II, §202, Nov. 3, 1998, 112 Stat. 3234.)
 
 #### Codification
 
-Pub. L. 100–181, which directed amendment of the Securities Exchange Act of 1934 by adding this section after section 35 of the Act, is reflected in the source credit above as adding this section to title I of the Securities Exchange Act of 1934, to reflect the probable intent of Congress. See Codification note set out under section 78kk of this title.
+Pub. L. 100–181, which directed amendment of the Securities Exchange Act of 1934 by adding this section after section 35 of the Act, is reflected in the sourcecredit above as adding this section to title I of the Securities Exchange Act of 1934, to reflect the probable intent of Congress. See Codification note set out under section 78kk of this title.
 
 #### Amendments
 

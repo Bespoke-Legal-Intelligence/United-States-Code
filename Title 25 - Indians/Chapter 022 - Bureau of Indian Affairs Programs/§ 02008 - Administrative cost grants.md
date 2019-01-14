@@ -78,7 +78,7 @@ In this section:
 
 #### (7) Tribal elementary or secondary educational programs
 
-&emsp;The term "tribal elementary or secondary educational programs" means all Bureau elementary and secondary functions, together with any other Bureau programs or portions of programs (excluding funds for social services that are appropriated to agencies other than the Bureau and are funded through the Bureau, funds for major subcontracts, construction, and other major capital expenditures, and unexpended funds carried over from prior years) which share common administrativecost functions, that are operated directly by a tribe or tribal organization under a contract, grant, or agreement with the Bureau.
+&emsp;The term "tribal elementary or secondary educational programs" means all Bureau elementary and secondary functions, together with any other Bureau programs or portions of programs (excluding funds for social services that are appropriated to agencies other than the Bureau and are funded through the Bureau, funds for major subcontracts, construction, and other major capital expenditures, and unexpended funds carried over from prior years) which share common administrative cost functions, that are operated directly by a tribe or tribal organization under a contract, grant, or agreement with the Bureau.
 
 #### (b) Grants; effect upon appropriated amounts
 

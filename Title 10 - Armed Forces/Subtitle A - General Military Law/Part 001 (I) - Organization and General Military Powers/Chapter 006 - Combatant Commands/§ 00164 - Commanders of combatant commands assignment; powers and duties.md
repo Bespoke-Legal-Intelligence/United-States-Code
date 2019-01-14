@@ -30,7 +30,7 @@ Responsibilities of Combatant Commanders.—(1) The commander of a combatant com
 
 (c)
 
-Command Authority of Combatant Commanders.—(1) Unless otherwise directed by thePresident or the Secretary of Defense, the authority, direction, and control of the commander of a combatant command with respect to the commands and forces assigned to that command include the command functions of—
+Command Authority of Combatant Commanders.—(1) Unless otherwise directed by the President or the Secretary of Defense, the authority, direction, and control of the commander of a combatant command with respect to the commands and forces assigned to that command include the command functions of—
 
 &emsp;(A) giving authoritative direction to subordinate commands and forces necessary to carry out missions assigned to the command, including authoritative direction over all aspects of military operations, joint training, and logistics;
 
@@ -102,7 +102,7 @@ Authority to Suspend Subordinates.—In accordance with procedures established b
 
 Support to Chairman of the Joint Chiefs of Staff.—The commander of a combatant command shall provide such information to the Chairman of the Joint Chiefs of Staff as may be necessary for the Chairman to perform the duties of the Chairman under section 153 of this title.
 
-(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1013; amended Pub. L. 100–456, div. A, title V, §519(a)(2), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 110–181, div. A, title XVIII, §1824(b), Jan. 28, 2008, 122 Stat. 501; Pub. L. 114–328, div. A, title V, §516, title IX, §921(e), Dec. 23, 2016, 130 Stat. 2113, 2354; Pub. L. 115–91, div. A, title X, §1081(a)(10), Dec. 12, 2017, 131 Stat. 1594.)
+(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1013; amended Pub. L. 100–456, div.A, title V, §519(a)(2), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 110–181, div. A, title XVIII, §1824(b), Jan. 28, 2008, 122 Stat. 501; Pub. L. 114–328, div. A, title V, §516, title IX, §921(e), Dec. 23, 2016, 130 Stat. 2113, 2354; Pub. L. 115–91, div. A, title X, §1081(a)(10), Dec. 12, 2017, 131 Stat. 1594.)
 
 #### Amendments
 

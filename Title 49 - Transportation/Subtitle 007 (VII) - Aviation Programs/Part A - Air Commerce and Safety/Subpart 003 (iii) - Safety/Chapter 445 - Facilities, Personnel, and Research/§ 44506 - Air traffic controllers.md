@@ -30,7 +30,7 @@ Collegiate Training Initiative.—(1) The Administrator of the Federal Aviation 
 
 (2)(A) The Administrator of the Federal Aviation Administration may appoint an individual who has successfully completed a course of training in a program described in paragraph (1) of this subsection to the position of air traffic controller noncompetitively in the excepted service (as defined in section 2103 of title 5). An individual appointed under this paragraph serves at the pleasure of the Administrator, subject to section 7511 of title 5. However, an appointment under this paragraph may be converted from one in the excepted service to a career conditional or career appointment in the competitive civil service (as defined in section 2102 of title 5) when the individual achieves full performance level air traffic controller status, as decided by the Administrator.
 
-(B) The authority under subparagraph (A) of this paragraph to make appointments in the excepted service expires on October 6, 1997, except that the Administrator of the Federal AviationAdministration may extend the authority for one or more successive one-year periods.
+(B) The authority under subparagraph (A) of this paragraph to make appointments in the excepted service expires on October 6, 1997, except that the Administrator of the Federal Aviation Administration may extend the authority for one or more successive one-year periods.
 
 (d)
 
@@ -130,6 +130,22 @@ Pool 1.—Pool 1 applicants are individuals who—
 
 Pool 2.—Pool 2 applicants are individuals who apply under a vacancy announcement recruiting from all United States citizens.
 
+&emsp;&emsp;(C)
+
+Special rule.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Notwithstanding subparagraph (B), after giving preferential consideration to applicants under subparagraph (A) and if, after consulting with the labor organization recognized as the exclusive representative of air traffic controllers under section 7111 of title 5, the Administrator determines there are unique circumstances affecting a covered facility that warrant a vacancy announcement with a limited area of consideration, the Administrator may consider applicants for the position of air traffic controller who apply under a vacancy announcement recruiting from the local commuting area for that covered facility.
+
+&emsp;&emsp;&emsp;(ii)
+
+Biographical assessments.—The Administrator shall not use any biographical assessment with respect to an applicant under this subparagraph who would otherwise qualify as a Pool 1 applicant under subparagraph (B)(ii).
+
+&emsp;&emsp;&emsp;(iii)
+
+Covered facility defined.—In this subparagraph the term "covered facility" means a radar facility with at least 1,000,000 operations annually that is located in a metropolitan statistical area (as defined by the Office of Management and Budget) with a population estimate by the Bureau of the Census of more than 15,000,000 (as of July 1, 2016).
+
 &emsp;(2)
 
 Use of biographical assessments.—
@@ -148,7 +164,7 @@ In general.—If an individual described in paragraph (1)(A) or paragraph (1)(B)
 
 &emsp;&emsp;&emsp;(ii)
 
-Waiver of age restriction.—The Administrator shall waive any maximum age restriction for the position of air traffic controller with the Administration that would otherwise disqualify an individual from the position if the individual—
+Waiver of age restriction.—The Administrator shall waive any maximum age restriction for the position of air traffic controller with the Administrationthat would otherwise disqualify an individual from the position if the individual—
 
 &emsp;&emsp;&emsp;&emsp;(I) is reapplying for the position pursuant to clause (i) on or before December 31, 2017; and
 
@@ -156,9 +172,17 @@ Waiver of age restriction.—The Administrator shall waive any maximum age restr
 
 &emsp;(3)
 
-Maximum entry age for experienced controllers.—Notwithstanding section 3307 of title 5, the maximum limit of age for an original appointment to a position as an air traffic controller shall be 35 years of age for those maintaining 52 weeks of air traffic control experience involving the full-time active separation of air traffic after receipt of an air traffic certification or air traffic control facility rating in a civilian or military air traffic control facility.
+Maximum entry age for experienced controllers.—Notwithstanding section 3307 of title 5, except for individuals covered by the program described in paragraph (4), the maximum limit of age for an original appointment to a position as an air traffic controller shall be 35 years of age for those maintaining 52 weeks of air traffic control experience involving the full-time active separation of air traffic after receipt of an air traffic certification or air traffic control facility rating in a civilian or military air traffic control facility.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1178; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 112–95, title VI, §607, Feb. 14, 2012, 126 Stat. 114; Pub. L. 114–190, title II, §2106(a), July 15, 2016, 130 Stat. 620.)
+&emsp;(4)
+
+Retired military controllers.—The Administrator may establish a program to provide an original appointment to a position as an air traffic controller for individuals who—
+
+&emsp;&emsp;(A) are on terminal leave pending retirement from active duty military service or have retired from active duty military service within 5 years of applying for the appointment; and
+
+&emsp;&emsp;(B) have held either an air traffic certification or air traffic control facility rating according to Administration standards within 5 years of applying for the appointment.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1178; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 112–95, title VI, §607, Feb. 14, 2012, 126 Stat. 114; Pub. L. 114–190, title II, §2106(a), July 15, 2016, 130 Stat. 620; Pub. L. 115–141, div. M, title I, §108, Mar. 23, 2018, 132 Stat. 1047.)
 
 Historical and Revision Notes
 
@@ -198,6 +222,12 @@ The date of enactment of the FAA Modernization and Reform Act of 2012, referred 
 
 #### Amendments
 
+<b>2018</b>—Subsec. (f)(1)(C). Pub. L. 115–141, §108(1), added subpar. (C).
+
+Subsec. (f)(3). Pub. L. 115–141, §108(2)(A), inserted "except for individuals covered by the program described in paragraph (4)," after "section 3307 of title 5,".
+
+Subsec. (f)(4). Pub. L. 115–141, §108(2)(B), added par. (4).
+
 <b>2016</b>—Subsec. (f). Pub. L. 114–190 added subsec. (f).
 
 <b>2012</b>—Subsecs. (d), (e). Pub. L. 112–95 added subsec. (d) and redesignated former subsec. (d) as (e).
@@ -226,7 +256,7 @@ Pub. L. 112–95, title II, §224, Feb. 14, 2012, 126 Stat. 55, provided that: "
 
 #### Facility Training Program
 
-Pub. L. 112–95, title VI, §609(b), Feb. 14, 2012, 126 Stat. 116, provided that: "Not later than 1 year after the dateof enactment of this Act \[Feb. 14, 2012\], the Administrator \[of the Federal Aviation Administration\] shall conduct a comprehensive review and evaluation of its Academy and facility training efforts. The Administrator shall—
+Pub. L. 112–95, title VI, §609(b), Feb. 14, 2012, 126 Stat. 116, provided that: "Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator \[of the Federal Aviation Administration\] shall conduct a comprehensive review and evaluation of its Academy and facility training efforts. The Administrator shall—
 
 &emsp;"(1) clarify responsibility for oversight and direction of the Academy's facility training program at the national level;
 
@@ -246,9 +276,11 @@ Pub. L. 112–95, title VI, §609(b), Feb. 14, 2012, 126 Stat. 116, provided tha
 
 #### Controller Staffing
 
-Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 730, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 \[set out below\]".
+Pub. L. 115–141, div. L, title I, Mar. 23, 2018, 132 Stat. 977, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 \[set out below\]".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 730.
 
 Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2839.
 

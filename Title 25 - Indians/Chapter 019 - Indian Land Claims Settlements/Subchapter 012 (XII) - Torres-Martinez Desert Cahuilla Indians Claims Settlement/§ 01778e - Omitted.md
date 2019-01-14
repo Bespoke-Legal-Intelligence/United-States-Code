@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 106–568, title VI, §607, Dec. 27, 2000, 114 Stat. 2911, which related to conveyances to certainwater districts of permanent flowage easements as to Indian trust lands and Federal lands, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 106–568, title VI, §607, Dec. 27, 2000, 114 Stat. 2911, which related to conveyances to certain water districts of permanent flowage easements as to Indian trust lands and Federal lands, was omitted from the Code as being of special and not general application.
 

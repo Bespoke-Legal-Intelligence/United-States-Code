@@ -1,0 +1,10 @@
+### §1226. Transferred
+
+#### Codification
+
+Section was comprised of Pub. L. 92–340, §7, as added Pub. L. 99–399, title IX, §906, Aug. 27, 1986, as amended. Subsections (a) and (b) of section 7 of Pub. L. 92–340 were redesignated and transferred to section 70116 of Title 46, Shipping, by Pub. L. 115–282, title IV, §402(b)(1), Dec. 4, 2018, 132 Stat. 4264, and also to section 70102a of Title 46 by Pub. L. 115–282, title IV, §408(a), Dec. 4, 2018, 132 Stat. 4268. Subsection (c) of section 7 of Pub. L. 92–340 was redesignated subsec. (f) and transferred to section 70103 of Title 46 by Pub. L. 115–282, title IV, §§402(c)(1), 408(d)(1), Dec. 4, 2018, 132 Stat. 4264, 4268.
+
+#### Prior Provisions
+
+A prior section 1226, Pub. L. 92–340, §7, formerly title I, §106, July 10, 1972, 86 Stat. 427; renumbered §7 and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1475, related to requirement respecting federally licensed pilots on any foreign or domestic self-propelled vessel engaged in the foreign trade when operating in the navigable waters of the United States in areas, etc., where a pilot is not otherwise required by State law, prior to repeal by Pub. L. 98–557, §29(g), Oct. 30, 1984, 98 Stat. 2875.
+

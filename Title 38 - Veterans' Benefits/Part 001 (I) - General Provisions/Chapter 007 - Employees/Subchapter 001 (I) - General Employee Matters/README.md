@@ -24,3 +24,6 @@
 - [&sect; 00721 - Recoupment of bonuses or awards paid to employees of Department](%C2%A7%2000721%20-%20Recoupment%20of%20bonuses%20or%20awards%20paid%20to%20employees%20of%20Department.md)
 - [&sect; 00723 - Recoupment of relocation expenses paid on behalf of employees of Department](%C2%A7%2000723%20-%20Recoupment%20of%20relocation%20expenses%20paid%20on%20behalf%20of%20employees%20of%20Department.md)
 - [&sect; 00725 - Annual performance plan for political appointees](%C2%A7%2000725%20-%20Annual%20performance%20plan%20for%20political%20appointees.md)
+- [&sect; 00726 - Annual report on performance awards and bonuses awarded to certain high-level employees](%C2%A7%2000726%20-%20Annual%20report%20on%20performance%20awards%20and%20bonuses%20awarded%20to%20certain%20high-level%20employees.md)
+- [&sect; 00727 - Reassignment of senior executives](%C2%A7%2000727%20-%20Reassignment%20of%20senior%20executives.md)
+- [&sect; 00728 - Misuse of Department purchase cards](%C2%A7%2000728%20-%20Misuse%20of%20Department%20purchase%20cards.md)

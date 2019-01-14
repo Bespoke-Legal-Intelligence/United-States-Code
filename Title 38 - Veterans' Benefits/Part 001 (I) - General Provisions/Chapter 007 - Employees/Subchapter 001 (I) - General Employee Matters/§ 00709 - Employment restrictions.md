@@ -1,6 +1,6 @@
 ### §709. Employment restrictions
 
-(a)(1) Notwithstanding section 3134(d) of title 5, the number of Senior Executive Service positions in the Department which are filled by noncareer appointees in any fiscal year may not atany time exceed 5 percent of the average number of senior executives employed in Senior Executive Service positions in the Department during the preceding fiscal year.
+(a)(1) Notwithstanding section 3134(d) of title 5, the number of Senior Executive Service positions in the Department which are filled by noncareer appointees in any fiscal year may not at any time exceed 5 percent of the average number of senior executives employed in Senior Executive Service positions in the Department during the preceding fiscal year.
 
 (2) For purposes of this subsection, the average number of senior executives employed in Senior Executive Service positions in the Department during a fiscal year shall be equal to 25 percent of the sum of the total number of senior executives employed in Senior Executive Service positions in the Department on the last day of each quarter of such fiscal year.
 

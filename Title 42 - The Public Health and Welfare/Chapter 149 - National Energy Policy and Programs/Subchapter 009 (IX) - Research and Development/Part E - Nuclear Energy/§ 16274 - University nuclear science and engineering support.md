@@ -36,7 +36,7 @@ In carrying out the program under this section, the Secretary may support—
 
 &emsp;(3) student training programs, in collaboration with the United States nuclear industry, in relicensing and upgrading reactors, including through the provision of technical assistance; and
 
-&emsp;(4) reactor improvements as part of a taking into consideration effort that emphasizes research, training, and education, including through the Innovations in Nuclear Infrastructure and Education Program or any similar program.
+&emsp;(4) reactor improvements that emphasize research, training, and education, including through the Innovations in Nuclear Infrastructure and Education Program or any similar program.
 
 #### (e) Operations and maintenance
 
@@ -46,5 +46,9 @@ Funding for a project provided under this section may be used for a portion of t
 
 In this section, the term "junior faculty" means a faculty member who was awarded a doctorate less than 10 years before receipt of an award from the grant program described in subsection (b)(2).
 
-(Pub. L. 109–58, title IX, §954, Aug. 8, 2005, 119 Stat. 886.)
+(Pub. L. 109–58, title IX, §954, Aug. 8, 2005, 119 Stat. 886; Pub. L. 115–248, §2(d), Sept. 28, 2018, 132 Stat. 3155.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (d)(4). Pub. L. 115–248 substituted "that emphasize" for "as part of a taking into consideration effort that emphasizes".
 

@@ -20,7 +20,7 @@ Act Mar. 4, 1940, ch. 40, §2, 54 Stat. 43, which is classified to section 80a o
 
 #### Repeals
 
-Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. For definition of "public lands" for purposes of Pub. L. 94–579, see section 1702(e) of this title.
+Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21,1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. For definition of "public lands" for purposes of Pub. L. 94–579, see section 1702(e) of this title.
 
 Section repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272, insofar as applicable to units of the National Park System. See section 100902(a) of Title 54, National Park Service and Related Programs.
 

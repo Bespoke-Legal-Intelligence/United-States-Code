@@ -10,7 +10,7 @@ Nothing in this part shall be construed to require a nonbank financial company s
 
 #### (A) Board authority
 
-&emsp;&emsp;If a nonbank financial company supervised by the Board of Governors conducts activities other than those that are determined tobe financial in nature or incidental thereto under section 1843(k) of this title, the Board of Governors may require such company to establish and conduct all or a portion of such activities that are determined to be financial in nature or incidental thereto in or through an intermediate holding company established pursuant to regulation of the Board of Governors, not later than 90 days (or such longer period as the Board of Governors may deem appropriate) after the date on which the nonbank financial company supervised by the Board of Governors is notified of the determination of the Board of Governors under this section.
+&emsp;&emsp;If a nonbank financial company supervised by the Board of Governors conducts activities other than those that are determined to be financial in nature or incidental thereto under section 1843(k) of this title, the Board of Governors may require such company to establish and conduct all or a portion of such activities that are determined to be financial in nature or incidental thereto in or through an intermediate holding company established pursuant to regulation of the Board of Governors, not later than 90 days (or such longer period as the Board of Governors may deem appropriate) after the date on which the nonbank financial company supervised by the Board of Governors is notified of the determination of the Board of Governors under this section.
 
 #### (B) Necessary actions
 
@@ -52,7 +52,7 @@ The Board of Governors—
 
 &emsp;(1) shall promulgate regulations to establish the criteria for determining whether to require a nonbank financial company supervised by the Board of Governors to establish an intermediate holding company under subsection (b); and
 
-&emsp;(2) may promulgate regulations to establish any restrictions or limitations on transactions between an intermediate holding company or a nonbank financial company supervised by the Board of Governors and its affiliates, as necessary to prevent unsafe and unsound practices in connection with transactions between such company, or any subsidiary thereof, and its parent company or affiliates that are not subsidiaries of such company, except that such regulations shall not restrict or limit any transaction in connection with the bona fide acquisition or lease by an unaffiliated person of assets, goods, or services.
+&emsp;(2) may promulgate regulations to establish any restrictions or limitations on transactions between an intermediate holding company or a nonbank financial company supervised by the Board of Governors and its affiliates, as necessary to prevent unsafe and unsound practices in connection with transactions between such company, or any subsidiary thereof, and its parent company or affiliates that are not subsidiaries of such company, except that such regulations shall not restrict or limit anytransaction in connection with the bona fide acquisition or lease by an unaffiliated person of assets, goods, or services.
 
 (Pub. L. 111–203, title I, §167, July 21, 2010, 124 Stat. 1432.)
 

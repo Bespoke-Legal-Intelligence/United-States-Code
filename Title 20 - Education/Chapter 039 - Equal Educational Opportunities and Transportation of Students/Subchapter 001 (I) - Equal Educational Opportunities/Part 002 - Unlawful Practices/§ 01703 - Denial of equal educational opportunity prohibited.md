@@ -6,7 +6,7 @@ No State shall deny equal educational opportunity to an individual on account of
 
 &emsp;(b) the failure of an educational agency which has formerly practiced such deliberate segregation to take affirmative steps, consistent with part 4 of this subchapter, to remove the vestiges of a dual school system;
 
-&emsp;(c) the assignment by an educational agency of a student to a school, other than the one closest to his or her place of residence within the school district in which he or she resides, if the assignment results in a greater degree of segregation of students on the basis of race, color, sex, or national origin among the schools of such agency than would result ifsuch student were assigned to the school closest to his or her place of residence within the school district of such agency providing the appropriate grade level and type of education for such student;
+&emsp;(c) the assignment by an educational agency of a student to a school, other than the one closest to his or her place of residence within the school district in which he or she resides, if the assignment results in a greater degree of segregation of students on the basis of race, color, sex, or national origin among the schools of such agency than would result if such student were assigned to the school closest to his or her place of residence within the school district of such agency providing the appropriate grade level and type of education for such student;
 
 &emsp;(d) discrimination by an educational agency on the basis of race, color, or national origin in the employment, employment conditions, or assignment to schools of its faculty or staff, except to fulfill the purposes of subsection (f) below;
 

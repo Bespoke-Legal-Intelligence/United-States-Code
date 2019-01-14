@@ -20,7 +20,7 @@ Nothing in subsection (a), or in any other provision of this chapter (or in any 
 
 &emsp;(3) abortion; or
 
-&emsp;(4) the use of an item, good, benefit, or service furnished for the purpose of alleviating pain or discomfort, even if such use may increase the risk of death, so long as such item, good, benefit, or service is not also furnished for the purpose of causing, or the purpose of assisting in causing, death, for any reason.
+&emsp;(4) the use of an item, good, benefit, or service furnished for the purpose of alleviatingpain or discomfort, even if such use may increase the risk of death, so long as such item, good, benefit, or service is not also furnished for the purpose of causing, or the purpose of assisting in causing, death, for any reason.
 
 #### (c) Limitation on Federal facilities and employees
 

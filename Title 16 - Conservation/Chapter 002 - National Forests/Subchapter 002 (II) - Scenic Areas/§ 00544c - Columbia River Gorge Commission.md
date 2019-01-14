@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(i) six members, comprised of one resident from each of the following counties: Hood River, Multnomah, and Wasco Counties, Oregon, and Clark, Klickitat, and Skamania Counties, Washington, to be appointed by the governing body of each of the respective counties: <i>Provided</i>, That in the event the governing body of a county fails to make such appointment, the Governor of the State in which the county is located shall appoint such member;
 
-&emsp;&emsp;(ii) three members who reside in the State of Oregon, at least one of whom shall be aresident of the scenic area, to be appointed by the Governor of Oregon;
+&emsp;&emsp;(ii) three members who reside in the State of Oregon, at least one of whom shall be a resident of the scenic area, to be appointed by the Governor of Oregon;
 
 &emsp;&emsp;(iii) three members who reside in the State of Washington, at least one of whom shall be a resident of the scenic area, to be appointed by the Governor of Washington; and
 

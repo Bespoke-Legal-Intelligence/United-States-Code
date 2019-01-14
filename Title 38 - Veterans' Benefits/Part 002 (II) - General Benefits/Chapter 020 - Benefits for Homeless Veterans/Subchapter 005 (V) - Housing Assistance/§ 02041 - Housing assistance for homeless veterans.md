@@ -1,6 +1,6 @@
 ### §2041. Housing assistance for homeless veterans
 
-(a)(1) To assist homeless veterans and their families in acquiring shelter, the Secretary mayenter into agreements described in paragraph (2) with—
+(a)(1) To assist homeless veterans and their families in acquiring shelter, the Secretary may enter into agreements described in paragraph (2) with—
 
 &emsp;(A) nonprofit organizations, with preference being given to any organization named in, or approved by the Secretary under, section 5902 of this title; or
 
@@ -32,7 +32,7 @@
 
 (5) An approved entity that leases a property from the Secretary under this section shall be responsible for the payment of any taxes, utilities, liability insurance, and other maintenance charges or similar charges that apply to the property.
 
-(6) Any agreement, deed, or other instrument executed by the Secretary under this subsection shall be on such terms and conditions as the Secretary determines to be appropriate and necessary to carry out the purpose of such agreement.
+(6) Any agreement, deed, or other instrument executed by the Secretary under this subsectionshall be on such terms and conditions as the Secretary determines to be appropriate and necessary to carry out the purpose of such agreement.
 
 (b)(1) Subject to paragraphs (2) and (3), the Secretary may make loans to organizations described in paragraph (1)(A) of subsection (a) to finance the purchase of property by such organizations under such subsection.
 

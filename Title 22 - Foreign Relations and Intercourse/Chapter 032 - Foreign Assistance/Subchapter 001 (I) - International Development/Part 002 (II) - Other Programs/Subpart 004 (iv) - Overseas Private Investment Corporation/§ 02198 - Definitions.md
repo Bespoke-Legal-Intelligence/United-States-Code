@@ -6,7 +6,7 @@ As used in this subpart—
 
 &emsp;(b) the term "expropriation" includes, but is not limited to, any abrogation, repudiation, or impairment by a foreign government, a political subdivision of a foreign government, or a corporation owned or controlled by a foreign government, of its own contract with an investor with respect to a project, where such abrogation, repudiation, or impairment is not caused by the investor's own fault or misconduct, and materially adversely affects the continued operation of the project;
 
-&emsp;(c) the term "eligible investor" means: (1) United States citizens; (2) corporations, partnerships, or other associations including nonprofit associations, created under the laws of the United States, any State or territory thereof, or the District of Columbia, and substantially beneficially owned by United States citizens; and (3) foreign corporations, partnerships, of other associations wholly owned by one or more such United States citizens, corporations, partnerships, or other associations: <i>Provided, however</i>, That the eligibility of such foreign corporation shall be determined without regard to any shares, in aggregate less than 5 per centum of the total of issued and subscribed share capital, held by other than the United States owners: <i>Provided further</i>, That in the case of any loan investment a final determination of eligibility may be made at the time the insurance or guaranty is issued; in all other cases, the investor must be eligible at the time a claim arises as well as at the time the insurance or guaranty is issued;
+&emsp;(c) the term "eligible investor" means: (1) United States citizens; (2) corporations, partnerships, or other associations including nonprofit associations, created under the laws ofthe United States, any State or territory thereof, or the District of Columbia, and substantially beneficially owned by United States citizens; and (3) foreign corporations, partnerships, of other associations wholly owned by one or more such United States citizens, corporations, partnerships, or other associations: <i>Provided, however</i>, That the eligibility of such foreign corporation shall be determined without regard to any shares, in aggregate less than 5 per centum of the total of issued and subscribed share capital, held by other than the United States owners: <i>Provided further</i>, That in the case of any loan investment a final determination of eligibility may be made at the time the insurance or guaranty is issued; in all other cases, the investor must be eligible at the time a claim arises as well as at the time the insurance or guaranty is issued;
 
 &emsp;(d) the term "noncredit account revolving fund" means the account in which funds under section 2196 of this title and all funds from noncredit activities are held;
 
@@ -22,9 +22,13 @@ As used in this subpart—
 
 (Pub. L. 87–195, pt. I, §238, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 815; amended Pub. L. 92–226, pt. I, §104(a), Feb. 7, 1972, 86 Stat. 22; Pub. L. 97–65, §7, Oct. 16, 1981, 95 Stat. 1024; Pub. L. 99–204, §17(a), Dec. 23, 1985, 99 Stat. 1676; Pub. L. 102–549, title I, §106, Oct. 28, 1992, 106 Stat. 3653; Pub. L. 108–158, §§4(b), 5(b), Dec. 3, 2003, 117 Stat. 1950.)
 
+#### Repeal of Section
+
+<i>Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513, provided that, effective at the end of the transition period, as defined in section 9681 of this title, this section is repealed.</i>
+
 #### References in Text
 
-The Foreign Assistance Act of 1969, referred to in subsec. (f), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title of 1969 Amendment note set outunder section 2151 of this title and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of subpart III by the 1969 Act.
+The Foreign Assistance Act of 1969, referred to in subsec. (f), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title of 1969 Amendment note set out under section 2151 of this title and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of subpart III by the 1969 Act.
 
 Section 1509(b)(3) of this title, referred to in subsec. (f), was repealed by act Aug. 26, 1954, ch. 937, title V, §542(a)(4), 68 Stat. 861.
 
@@ -45,6 +49,10 @@ Subsec. (g). Pub. L. 108–158, §5(b)(2), (3), added subsec. (g).
 <b>1981</b>—Subsec. (a). Pub. L. 97–65 substituted "contribution or commitment of funds" for "contribution of funds".
 
 <b>1972</b>—Subsec. (c). Pub. L. 92–226 struck out "required by law to be" after "share capital," in first proviso.
+
+#### Effective Date of Repeal
+
+Repeal effective at the end of the transition period, as defined in section 9681 of this title, see section 9684 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

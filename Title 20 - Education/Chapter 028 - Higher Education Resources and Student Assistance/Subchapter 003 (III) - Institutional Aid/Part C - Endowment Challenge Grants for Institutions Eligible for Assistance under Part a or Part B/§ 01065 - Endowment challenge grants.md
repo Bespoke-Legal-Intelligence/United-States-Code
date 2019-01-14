@@ -146,7 +146,7 @@ Subsec. (b)(1). Pub. L. 102–325, §304(b)(2), inserted "endowment" before "cha
 
 Subsec. (b)(2)(B), (C). Pub. L. 102–325, §304(b)(3), amended subpars. (B) and (C) generally. Prior to amendment, subpars. (B) and (C) read as follows:
 
-"(B) In any fiscal year in which the appropriations for this part exceeds $10,000,000, the Secretary may make a grant under this part to an eligible institution of higher education if such institution—
+"(B) In any fiscal year in which the appropriations for this part exceeds $10,000,000, the Secretary maymake a grant under this part to an eligible institution of higher education if such institution—
 
 &emsp;"(i) has deposited in its endowment fund established under this section an amount which is equal to one-half of the amount of such grant; and
 

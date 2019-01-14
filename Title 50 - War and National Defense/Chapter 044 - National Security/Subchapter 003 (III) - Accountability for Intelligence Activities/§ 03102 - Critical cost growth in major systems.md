@@ -32,7 +32,7 @@ If the Director of National Intelligence determines under section 3101(d) of thi
 
 &emsp;(E) the management structure for the major system is adequate to manage and control the total acquisition cost.
 
-(3) A Major System Congressional Report accompanying a written certification under paragraph (2) shall include, in addition to the requirements of section 3101(e) of this title, the root cause analysis and assessment carried out pursuant to subsection (a), the basis for each determination made in accordance with subparagraphs (A) through (E) of paragraph (2), and adescription of all funding changes made as a result of the growth in the cost of the major system, including reductions made in funding for other systems to accommodate such cost growth, together with supporting documentation.
+(3) A Major System Congressional Report accompanying a written certification under paragraph (2) shall include, in addition to the requirements of section 3101(e) of this title, the root cause analysis and assessment carried out pursuant to subsection (a), the basis for each determination made in accordance with subparagraphs (A) through (E) of paragraph (2), and a description of all funding changes made as a result of the growth in the cost of the major system, including reductions made in funding for other systems to accommodate such cost growth, together with supporting documentation.
 
 #### (c) Actions if major system not terminated
 

@@ -1,6 +1,6 @@
 ### §875. Interstate communications
 
-(a) Whoever transmits in interstate or foreign commerce any communication containing any demand or request for a ransom or reward for the release of any kidnapped person, shall be fined under this title or imprisoned not more than twenty years, or both.
+(a) Whoever transmits in interstate or foreign commerce any communication containing anydemand or request for a ransom or reward for the release of any kidnapped person, shall be fined under this title or imprisoned not more than twenty years, or both.
 
 (b) Whoever, with intent to extort from any person, firm, association, or corporation, any money or other thing of value, transmits in interstate or foreign commerce any communication containing any threat to kidnap any person or any threat to injure the person of another, shall be fined under this title or imprisoned not more than twenty years, or both.
 

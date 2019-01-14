@@ -8,7 +8,7 @@
 
 #### (b) Grants to juvenile and family courts
 
-(1) In order to improve the judicial system's handling of child abuse and neglect cases, theAdministrator shall make grants to State courts or judicial administrators for programs that provide or contract for, the implementation of—
+(1) In order to improve the judicial system's handling of child abuse and neglect cases, the Administrator shall make grants to State courts or judicial administrators for programs that provide or contract for, the implementation of—
 
 &emsp;(A) training and technical assistance to judicial personnel and attorneys in juvenile and family courts; and
 
@@ -18,21 +18,27 @@
 
 &emsp;(A) procedures for determining whether child service agencies have made reasonable efforts to prevent placement of children in foster care;
 
-&emsp;(B) procedures for determining whether child service agencies have, after placement of children in foster care, made reasonable efforts to reunite the family; and
+&emsp;(B) procedures for determining whether child service agencies have, after placement of children in foster care, made reasonable efforts to reunite the family;
 
-&emsp;(C) procedures for coordinating information and services among health professionals, social workers, law enforcement professionals, prosecutors, defense attorneys, and juvenile and family court personnel, consistent with subchapter I.
+&emsp;(C) procedures for coordinating information and services among health professionals, social workers, law enforcement professionals, prosecutors, defense attorneys, and juvenile and family court personnel, consistent with subchapter I; and
+
+&emsp;(D) procedures for improving the judicial response to children who are vulnerable to human trafficking, to the extent an appropriate screening tool exists.
 
 #### (c) Grant criteria
 
 The Administrator shall make grants under subsections (a) and (b) consistent with sections 11172, 11183, and 11186 of this title.
 
-(Pub. L. 101–647, title II, §223, Nov. 29, 1990, 104 Stat. 4797; Pub. L. 107–273, div. C, title II, §12221(b)(1)(D), Nov. 2, 2002, 116 Stat. 1894.)
+(Pub. L. 101–647, title II, §223, Nov. 29, 1990, 104 Stat. 4797; Pub. L. 107–273, div. C, title II, §12221(b)(1)(D), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 115–393, title V, §503, Dec. 21, 2018, 132 Stat. 5277; Pub. L. 115–424, §2(h)(5), Jan. 7, 2019, 132 Stat. 5470.)
 
 #### Codification
 
 Section was formerly classified to section 13023 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (c). Pub. L. 115–424 made technical amendment to reference in original act which appears in text as reference to sections 11183 and 11186 of this title.
+
+<b>2018</b>—Subsec. (b)(2)(D). Pub. L. 115–393 added subpar. (D).
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–273 substituted "sections 5666, 5673, and 5676 of this title" for "section 5665a, 5673, and 5676 of this title".
 

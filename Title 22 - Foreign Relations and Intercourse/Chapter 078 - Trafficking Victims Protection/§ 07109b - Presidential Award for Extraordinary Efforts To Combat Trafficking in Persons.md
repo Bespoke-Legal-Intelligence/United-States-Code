@@ -18,7 +18,7 @@ The Secretary of State shall host an annual ceremony for recipients of the award
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated, for each of the fiscal years 2008 through 2011, such sums as may be necessary to carry out this section.
+There are authorized to be appropriated, for each of the fiscal years 2008 through 2011, suchsums as may be necessary to carry out this section.
 
 (Pub. L. 106–386, div. A, §112B, as added Pub. L. 110–457, title I, §109, Dec. 23, 2008, 122 Stat. 5051.)
 

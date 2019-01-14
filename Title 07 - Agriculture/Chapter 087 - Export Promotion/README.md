@@ -12,6 +12,7 @@
 | [5605\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005605%20-%20Independence%20of%20authorities.md) | Independence of authorities. |
 | [5606\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005606%20-%20Implementation%20of%20commitments%20under%20Uruguay%20Round%20Agreements.md) | Implementation of commitments under Uruguay Round Agreements. |
 | [5607\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005607%20-%20Exporter%20assistance%20initiative.md) | Exporter assistance initiative. |
+| [5608\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005608%20-%20Foreign%20trade%20missions.md) | Foreign trade missions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -23,7 +24,7 @@
 | :--- | ---: |
 | [5621\.](Subchapter%20002%20%28II%29%20-%20Agricultural%20Export%20Programs/Part%20A%20-%20Programs/%C2%A7%2005621%20-%20Direct%20credit%20sales%20program.md) | Direct credit sales program. |
 | [5622\.](Subchapter%20002%20%28II%29%20-%20Agricultural%20Export%20Programs/Part%20A%20-%20Programs/%C2%A7%2005622%20-%20Export%20credit%20guarantee%20program.md) | Export credit guarantee program. |
-| [5623\.](Subchapter%20002%20%28II%29%20-%20Agricultural%20Export%20Programs/Part%20A%20-%20Programs/%C2%A7%2005623%20-%20Market%20access%20program.md) | Market access program. |
+| [5623\.](Subchapter%20002%20%28II%29%20-%20Agricultural%20Export%20Programs/Part%20A%20-%20Programs/%C2%A7%2005623%20-%20Agricultural%20trade%20promotion%20and%20facilitation.md) | Agricultural trade promotion and facilitation. |
 | [5624\.](Subchapter%20002%20%28II%29%20-%20Agricultural%20Export%20Programs/Part%20A%20-%20Programs/%C2%A7%2005624%20-%20Barter%20of%20agricultural%20commodities.md) | Barter of agricultural commodities. |
 | [5625\.](Subchapter%20002%20%28II%29%20-%20Agricultural%20Export%20Programs/Part%20A%20-%20Programs/%C2%A7%2005625%20-%20Combination%20of%20programs.md) | Combination of programs. |
 
@@ -73,7 +74,7 @@
 | [5677\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2005677%20-%20Trade%20compensation%20and%20assistance%20programs.md) | Trade compensation and assistance programs. |
 | [5678\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2005678%20-%20Edward%20R.%20Madigan%20United%20States%20Agricultural%20Export%20Excellence%20Award.md) | Edward R. Madigan United States Agricultural Export Excellence Award. |
 | [5679\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2005679%20-%20Biotechnology%20and%20agricultural%20trade%20program.md) | Biotechnology and agricultural trade program. |
-| [5680\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2005680%20-%20Technical%20assistance%20for%20specialty%20crops.md) | Technical assistance for specialty crops. |
+| [5680\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2005680%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20III%2C%20%C2%A73201%28b%29%284%29%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204617.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -103,9 +104,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5721\.](Subchapter%20007%20%28VII%29%20-%20Foreign%20Market%20Development%20Cooperator%20Program/%C2%A7%2005721%20-%20Eligible%20trade%20organization%20defined.md) | "Eligible trade organization" defined. |
-| [5722\.](Subchapter%20007%20%28VII%29%20-%20Foreign%20Market%20Development%20Cooperator%20Program/%C2%A7%2005722%20-%20Foreign%20market%20development%20cooperator%20program.md) | Foreign market development cooperator program. |
-| [5723\.](Subchapter%20007%20%28VII%29%20-%20Foreign%20Market%20Development%20Cooperator%20Program/%C2%A7%2005723%20-%20Funding.md) | Funding. |
+| 5721 to 5723. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

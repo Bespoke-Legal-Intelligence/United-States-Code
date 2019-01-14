@@ -6,7 +6,7 @@ The Commission shall receive and determine, in accordance with the Memorandum of
 
 #### (b) Individuals who fail to file claims
 
-The Commission shall receive and determine, or redetermine, as the case may be, in accordance with applicable substantive law, including international law, the validity and amounts of claims owned by person who were eligible to file claims under the first sentence of subsection (a) of this section on August 9, 1955, but failed to file such claims or, if they filed such claims, failed to file such claims within the limit of time required therefor: <i>Provided</i>, That no awards shall be made to persons who have received compensation in any amount pursuant to the treatyof peace with Italy, subsection (a) of this section, or section 4132 of title 50.
+The Commission shall receive and determine, or redetermine, as the case may be, in accordance with applicable substantive law, including international law, the validity and amounts of claims owned by person who were eligible to file claims under the first sentence of subsection (a) of this section on August 9, 1955, but failed to file such claims or, if they filed such claims, failed to file such claims within the limit of time required therefor: <i>Provided</i>, That no awards shall be made to persons who have received compensation in any amount pursuant to the treaty of peace with Italy, subsection (a) of this section, or section 4132 of title 50.
 
 #### (c) Territory ceded by Italy
 

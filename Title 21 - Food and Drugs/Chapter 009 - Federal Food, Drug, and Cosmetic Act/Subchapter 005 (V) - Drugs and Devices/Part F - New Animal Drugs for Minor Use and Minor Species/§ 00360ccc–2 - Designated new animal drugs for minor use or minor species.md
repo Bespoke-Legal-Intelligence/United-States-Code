@@ -48,7 +48,7 @@
 
 (3) For purposes of determining the 7-year period of exclusivity under paragraph (1) for a drug for which the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], the drug shall not be considered approved or conditionally approved until the date that the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
 
-(June 25, 1938, ch. 675, §573, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat.900; amended Pub. L. 114–89, §2(a)(4), Nov. 25, 2015, 129 Stat. 700.)
+(June 25, 1938, ch. 675, §573, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 900; amended Pub. L. 114–89, §2(a)(4), Nov. 25, 2015, 129 Stat. 700.)
 
 #### References in Text
 

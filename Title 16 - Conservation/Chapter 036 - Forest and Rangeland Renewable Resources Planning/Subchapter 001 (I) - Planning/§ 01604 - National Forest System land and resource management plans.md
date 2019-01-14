@@ -1,8 +1,8 @@
 ### §1604. National Forest System land and resource management plans
 
-#### (a) Development, maintenance, and revision by Secretary of Agriculture as part of program; coordination
+#### (a) Development, maintenance, and revision by Secretary as part of program; coordination
 
-As a part of the Program provided for by section 1602 of this title, the Secretary of Agriculture shall develop, maintain, and, as appropriate, revise land and resource management plans for units of the National Forest System, coordinated with the land and resource management planning processes of State and local governments and other Federal agencies.
+As a part of the Program provided for by section 1602 of this title, the Secretary shall develop, maintain, and, as appropriate, revise land and resource management plans for units of the National Forest System, coordinated with the land and resource management planning processes of State and local governments and other Federal agencies.
 
 #### (b) Criteria
 
@@ -12,9 +12,41 @@ In the development and maintenance of land management plans for use on units of 
 
 The Secretary shall begin to incorporate the standards and guidelines required by this section in plans for units of the National Forest System as soon as practicable after October 22, 1976, and shall attempt to complete such incorporation for all such units by no later than September 30, 1985. The Secretary shall report to the Congress on the progress of such incorporation in the annual report required by section 1606(c) of this title. Until such time as a unit of the National Forest System is managed under plans developed in accordance with this subchapter, the management of such unit may continue under existing land and resource management plans.
 
-#### (d) Public participation in management plans; availability of plans; public meetings
+#### (d) Public participation and consultation
 
-The Secretary shall provide for public participation in the development, review, and revision of land management plans including, but not limited to, making the plans or revisions available to the public at convenient locations in the vicinity of the affected unit for a period of at least three months before final adoption, during which period the Secretary shall publicize and hold public meetings or comparable processes at locations that foster public participation in the review of such plans or revisions.
+#### (1) In general
+
+&emsp;The Secretary shall provide for public participation in the development, review, and revision of land management plans including, but not limited to, making the plans or revisions available to the public at convenient locations in the vicinity of the affected unit for a period of at least three months before final adoption, during which period the Secretary shall publicize and hold public meetings or comparable processes at locations that foster public participation in the review of such plans or revisions.
+
+#### (2) No additional consultation required after approval of land management plans
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), notwithstanding any other provision of law, the Secretary shall not be required to engage in consultation under this section or any other provision of law (including section 7 of Public Law 93–205 (16 U.S.C. 1536) and section 402.16 of title 50, Code of Federal Regulations (or a successor regulation)) with respect to—
+
+&emsp;&emsp;&emsp;(i) the listing of a species as threatened or endangered, or a designation of critical habitat pursuant to Public Law 93–205 (16 U.S.C. 1531 et seq.), if a land management plan has been adopted by the Secretary as of the date of listing or designation; and
+
+&emsp;&emsp;&emsp;(ii) any provision of a land management plan adopted as described in clause (i).
+
+#### (B) Exception
+
+&emsp;&emsp;Subparagraph (A) shall not apply if—
+
+&emsp;&emsp;&emsp;(i) 15 years have passed since the date on which the Secretary adopted the land management plan described in clause (i) of that subparagraph; and
+
+&emsp;&emsp;&emsp;(ii) 5 years have passed since the date of enactment of this section <sup>1</sup> or the date of the listing of a species as threatened or endangered for a species known to occur on the unit or the designation of critical habitat within the unit as described in clause (i) of that subparagraph, whichever is later.
+
+#### (C) Effect of paragraph
+
+&emsp;&emsp;Nothing in this paragraph affects any applicable requirement of the Secretary to consult with the head of any other Federal department or agency—
+
+&emsp;&emsp;&emsp;(i) regarding any project carried out, or proposed to be carried out, to implement a land management plan pursuant to Public Law 93–205 (16 U.S.C. 1531 et seq.), including any requirement to consult regarding the consideration of cumulative impacts of completed, ongoing, and planned projects; or
+
+&emsp;&emsp;&emsp;(ii) with respect to—
+
+&emsp;&emsp;&emsp;&emsp;(I) the development of a modification to a land management plan; or
+
+&emsp;&emsp;&emsp;&emsp;(II) an amendment or revision to a land management plan in accordance with paragraph (4) or (5) of subsection (f).
 
 #### (e) Required assurances
 
@@ -86,7 +118,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 #### (h) Scientific committee to aid in promulgation of regulations; termination; revision committees; clerical and technical assistance; compensation of committee members
 
-(1) In carrying out the purposes of subsection (g) of this section, the Secretary of Agriculture shall appoint a committee of scientists who are not officers or employees of the Forest Service. The committee shall provide scientific and technical advice and counsel on proposed guidelines and procedures to assure that an effective interdisciplinary approach is proposed and adopted. The committee shall terminate upon promulgation of the regulations, but the Secretary may, from time to time, appoint similar committees when considering revisions of the regulations. The views of the committees shall be included in the public information supplied when the regulations are proposed for adoption.
+(1) In carrying out the purposes of subsection (g) of this section, the Secretary shall appoint a committee of scientists who are not officers or employees of the Forest Service. The committee shall provide scientific and technical advice and counsel on proposed guidelines and procedures to assure that an effective interdisciplinary approach is proposed and adopted. The committee shall terminate upon promulgation of the regulations, but the Secretary may, from time to time, appoint similar committees when considering revisions of the regulations. The views of the committees shall be included in the public information supplied when the regulations are proposed for adoption.
 
 (2) Clerical and technical assistance, as may be necessary to discharge the duties of the committee, shall be provided from the personnel of the Department of Agriculture.
 
@@ -108,9 +140,9 @@ In developing land management plans pursuant to this subchapter, the Secretary s
 
 The Secretary shall—
 
-&emsp;(1) formulate and implement, as soon as practicable, a process for estimating long-terms <sup>1</sup> costs and benefits to support the program evaluation requirements of this subchapter. This process shall include requirements to provide information on a representative sample basis of estimated expenditures associated with the reforestation, timber stand improvement, and sale of timber from the National Forest System, and shall provide a comparison of these expenditures to the return to the Government resulting from the sale of timber; and
+&emsp;(1) formulate and implement, as soon as practicable, a process for estimating long-terms <sup>2</sup> costs and benefits to support the program evaluation requirements of this subchapter. This process shall include requirements to provide information on a representative sample basis of estimated expendituresassociated with the reforestation, timber stand improvement, and sale of timber from the National Forest System, and shall provide a comparison of these expenditures to the return to the Government resulting from the sale of timber; and
 
-&emsp;(2) include a summary of data and findings resulting from these estimates as a part of the annual report required pursuant to section 1606(c) of this title, including an identification on a representative sample basis of those advertised timber sales made below the estimated expenditures for such timber as determined by the above cost process; and <sup>2</sup>
+&emsp;(2) include a summary of data and findings resulting from these estimates as a part of the annual report required pursuant to section 1606(c) of this title, including an identification on a representative sample basis of those advertised timber sales made below the estimated expenditures for such timber as determined by the above cost process; and <sup>3</sup>
 
 #### (m) Establishment of standards to ensure culmination of mean annual increment of growth; silvicultural practices; salvage harvesting; exceptions
 
@@ -120,9 +152,13 @@ The Secretary shall establish—
 
 &emsp;(2) exceptions to these standards for the harvest of particular species of trees in management units after consideration has been given to the multiple uses of the forest including, but not limited to, recreation, wildlife habitat, and range and after completion of public participation processes utilizing the procedures of subsection (d) of this section.
 
-(Pub. L. 93–378, §6, formerly, §5, Aug. 17, 1974, 88 Stat. 477, renumbered §6 and amended Pub. L. 94–588, §§2, 6, 12(a), Oct. 22, 1976, 90 Stat. 2949, 2952, 2958.)
+(Pub. L. 93–378, §6, formerly, §5, Aug. 17, 1974, 88 Stat. 477, renumbered §6 and amended Pub. L. 94–588, §§2, 6, 12(a), Oct. 22, 1976, 90 Stat. 2949, 2952, 2958; Pub. L. 115–141, div. O, title II, §208(a), (b)(2), Mar. 23, 2018, 132 Stat. 1065, 1066.)
 
 #### References in Text
+
+Public Law 93–205, referred to subsec. (d)(2)(A)(i), (C)(i), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+
+The date of enactment of this section, referred to in subsec. (d)(2)(B)(ii), probably means the date of enactment of Pub. L. 115–141, which added subsec. (d)(2) and was approved Mar. 23, 2018.
 
 The Multiple-Use Sustained-Yield Act of 1960, referred to in subsecs. (e) and (g), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
 
@@ -130,7 +166,13 @@ The National Environmental Policy Act of 1969, referred to in subsec. (g)(1), is
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–588, §12(a), substituted "section 4" for "section 3" in the original, which, because of the translation as "section 1602 of this title" required no change in text.
+<b>2018</b>—Subsec. (a). Pub. L. 115–141, §208(b)(2), substituted "Secretary" for "Secretary of Agriculture".
+
+Subsec. (d). Pub. L. 115–141, §208(a), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2).
+
+Subsec. (h)(1). Pub. L. 115–141, §208(b)(2), substituted "Secretary shall appoint" for "Secretary of Agriculture shall appoint".
+
+<b>1976</b>—Subsec. (a). Pub. L. 94–588, §12(a), made technical amendment to reference in original Act which appears in text as reference to section 1602 of this title.
 
 Subsecs. (c) to (m). Pub. L. 94–588, §6, added subsecs. (c) to (m).
 
@@ -140,9 +182,11 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 #### Revision of Forest Plans
 
-Pub. L. 115–31, div. G, title IV, §407, May 5, 2017, 131 Stat. 495, provided that: "The Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis."
+Pub. L. 115–141, div. G, title IV, §407, Mar. 23, 2018, 132 Stat. 688, provided that: "The Secretary of Agriculture shall not be considered to be in violation of section 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–31, div. G, title IV, §407, May 5, 2017, 131 Stat. 495.
 
 Pub. L. 114–113, div. G, title IV, §407, Dec. 18, 2015, 129 Stat. 2575.
 
@@ -170,7 +214,7 @@ Pub. L. 107–63, title III, §327, Nov. 5, 2001, 115 Stat. 470.
 
 #### Expeditious Completion of Management Plans of Forest Service and Bureau of Land Management; Continuation of Existing Plans; Judicial Review
 
-Pub. L. 101–121, title III, §312, Oct. 23, 1989, 103 Stat. 743, provided that: "The Forest Service and Bureau of Land Management are to continue to complete as expeditiously as possible development of their respective Forest Land and Resource Management Plans to meet all applicable statutory requirements. Notwithstanding the date in section 6(c) of the NFMA (16 U.S.C. 1600) \[16 U.S.C. 1604(c)\], the Forest Service, and the Bureau of Land Management under separate authority, may continue the management of lands within their jurisdiction under existing land and resource management plans pending the completion of new plans. Nothing shall limit judicial review of particular activities on these lands: <i>Provided, however</i>, That there shall be no challenges to any existing plan on the sole basis that the plan in its entirety is outdated, or in the case of the Bureau of Land Management, solely on the basis that the plan does not incorporate information available subsequent to the completion of the existing plan: <i>Provided further</i>, That any and all particular activities to be carried out under existing plans may nevertheless be challenged."
+Pub. L. 101–121, title III, §312, Oct. 23, 1989, 103 Stat. 743, provided that: "The Forest Service and Bureau ofLand Management are to continue to complete as expeditiously as possible development of their respective Forest Land and Resource Management Plans to meet all applicable statutory requirements. Notwithstanding the date in section 6(c) of the NFMA (16 U.S.C. 1600) \[16 U.S.C. 1604(c)\], the Forest Service, and the Bureau of Land Management under separate authority, may continue the management of lands within their jurisdiction under existing land and resource management plans pending the completion of new plans. Nothing shall limit judicial review of particular activities on these lands: <i>Provided, however</i>, That there shall be no challenges to any existing plan on the sole basis that the plan in its entirety is outdated, or in the case of the Bureau of Land Management, solely on the basis that the plan does not incorporate information available subsequent to the completion of the existing plan: <i>Provided further</i>, That any and all particular activities to be carried out under existing plans may nevertheless be challenged."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -180,7 +224,9 @@ Pub. L. 100–202, §101(g) \[title III, §314\], Dec. 22, 1987, 101 Stat. 1329�
 
 Pub. L. 99–500, §101(h) \[title II\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–268, and Pub. L. 99–591, §101(h) \[title II\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–268.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "long-term".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The "; and" probably should be a period.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "long-term".</i>
+
+<i><sup>3</sup></i><i> So in original. The "; and" probably should be a period.</i>
 

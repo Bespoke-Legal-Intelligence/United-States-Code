@@ -16,7 +16,7 @@
 
 (b) The Congress therefore hereby establishes and reaffirms a national policy and commitment to:
 
-&emsp;(1) inventory and identify current public rangelands conditions and trends as a part of the inventory process required by section 1711(a) of this title;
+&emsp;(1) inventory and identify current public rangelands conditions and trends as a part ofthe inventory process required by section 1711(a) of this title;
 
 &emsp;(2) manage, maintain and improve the condition of the public rangelands so that they become as productive as feasible for all rangeland values in accordance with management objectives and the land use planning process established pursuant to section 1712 of this title;
 

@@ -66,7 +66,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), there are authorized to be appropriated such sums as are necessary to operate the national streamflow information program for the period of fiscal years 2009 through 2023, to remain available until expended.
+&emsp;&emsp;Except as provided in subparagraph (B), there are authorized to be appropriated suchsums as are necessary to operate the national streamflow information program for the period of fiscal years 2009 through 2023, to remain available until expended.
 
 #### (B) Network enhancement funding
 
@@ -144,7 +144,7 @@
 
 &emsp;&emsp;&emsp;(iii) current use of brackish groundwater that is supplied by each brackish aquifer described in clause (i); and
 
-&emsp;&emsp;(B) a summary of the information available as of March 30, 2009, with respect toeach brackish aquifer described in subparagraph (A)(i) (including the known level of total dissolved solids in each brackish aquifer).
+&emsp;&emsp;(B) a summary of the information available as of March 30, 2009, with respect to each brackish aquifer described in subparagraph (A)(i) (including the known level of total dissolved solids in each brackish aquifer).
 
 #### (3) Authorization of appropriations
 
@@ -154,7 +154,7 @@
 
 #### (1) Authority of Secretary
 
-&emsp;The Secretary may provide grants on a nonreimbursable basis to appropriate entities with expertise in water resource data acquisition and reporting, including Federal agencies, the Water Resources Research Institutes and other academic institutions, and private entities, to—
+&emsp;The Secretary may provide grants on a nonreimbursable basis to appropriate entitieswith expertise in water resource data acquisition and reporting, including Federal agencies, the Water Resources Research Institutes and other academic institutions, and private entities, to—
 
 &emsp;&emsp;(A) investigate, develop, and implement new methodologies and technologies to estimate or measure water resources data in a cost-efficient manner; and
 

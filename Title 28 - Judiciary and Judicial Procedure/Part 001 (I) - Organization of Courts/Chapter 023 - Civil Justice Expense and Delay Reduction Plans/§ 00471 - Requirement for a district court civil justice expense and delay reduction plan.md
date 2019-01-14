@@ -38,7 +38,7 @@ Pub. L. 101–650, title I, §103(b), (c), Dec. 1, 1990, 104 Stat. 5096, as amen
 
 "(b)
 
-Implementation.—(1) Except as provided in section 105 of this Act \[set out below\], each United Statesdistrict court shall, within three years after the date of the enactment of this title \[Dec. 1, 1990\], implement a civil justice expense and delay reduction plan under section 471 of title 28, United States Code, as added by subsection (a).
+Implementation.—(1) Except as provided in section 105 of this Act \[set out below\], each United States district court shall, within three years after the date of the enactment of this title \[Dec. 1, 1990\], implement a civil justice expense and delay reduction plan under section 471 of title 28, United States Code, as added by subsection (a).
 
 "(2)(A) The requirements set forth in sections 471, 472, 473, 474, 475, 477, and 478 of title 28, United States Code, as added by subsection (a), shall remain in effect for seven years after the date of the enactment of this title.
 
@@ -112,5 +112,5 @@ Program Study Report.—(1) Not later than June 30, 1997, the Judicial Conferenc
 
 "(B) If the Judicial Conference recommends in its report that some or all district courts be required to include such principles and guidelines in their expense and delay reduction plans, the Judicial Conference shall initiate proceedings for the prescription of rules implementing its recommendation, pursuant to chapter 131 of title 28, United States Code.
 
-"(C) If in its report the Judicial Conference does not recommend an expansion of the pilot program under subparagraph (A), the Judicial Conference shall identify alternative, more effective cost and delay reduction programs that should be implemented in light ofthe findings of the Judicial Conference in its report, and the Judicial Conference may initiate proceedings for the prescription of rules implementing its recommendation, pursuant to chapter 131 of title 28, United States Code."
+"(C) If in its report the Judicial Conference does not recommend an expansion of the pilot program under subparagraph (A), the Judicial Conference shall identify alternative, more effective cost and delay reduction programs that should be implemented in light of the findings of the Judicial Conference in its report, and the Judicial Conference may initiate proceedings for the prescription of rules implementing its recommendation, pursuant to chapter 131 of title 28, United States Code."
 

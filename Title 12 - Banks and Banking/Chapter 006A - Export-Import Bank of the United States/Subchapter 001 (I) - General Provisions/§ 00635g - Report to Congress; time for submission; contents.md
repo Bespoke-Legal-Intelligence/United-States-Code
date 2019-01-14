@@ -6,7 +6,7 @@ The Export-Import Bank of the United States shall transmit to the Congress annua
 
 #### (b) Report on allocation of sums set aside for small business exports
 
-(1) The Bank shall include in its annual report to the Congress a report on the allocation of thesums set aside for small business exports pursuant to section 635(b)(1)(E) of this title.
+(1) The Bank shall include in its annual report to the Congress a report on the allocation of the sums set aside for small business exports pursuant to section 635(b)(1)(E) of this title.
 
 (2) Such report shall specify—
 

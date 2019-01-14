@@ -132,7 +132,7 @@ In this section:
 
 #### (16) Qualifying natural disaster declaration
 
-&emsp;The term "qualifying natural disaster declaration" means a natural disaster declared bythe Secretary for production losses under section 1961(a) of title 7.
+&emsp;The term "qualifying natural disaster declaration" means a natural disaster declared by the Secretary for production losses under section 1961(a) of title 7.
 
 #### (17) Secretary
 
@@ -140,7 +140,7 @@ In this section:
 
 #### (18) Socially disadvantaged farmer or rancher
 
-&emsp;The term "socially disadvantaged farmer or rancher" has the meaning given the term in section 2279(e) of title 7.
+&emsp;The term "socially disadvantaged farmer or rancher" has the meaning given the term in section 2279(e) <sup>3</sup> of title 7.
 
 #### (19) State
 
@@ -190,7 +190,7 @@ In this section:
 
 #### (C) Exclusion of subsequently planted crops
 
-&emsp;&emsp;In calculating the disaster assistance program guarantee under paragraph (3) and the total farm revenue under paragraph (4), the Secretary shall not consider the value of any crop that—
+&emsp;&emsp;In calculating the disaster assistance program guarantee under paragraph (3) and thetotal farm revenue under paragraph (4), the Secretary shall not consider the value of any crop that—
 
 &emsp;&emsp;&emsp;(i) is produced on land that is not eligible for a policy or plan of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or assistance under the noninsured crop assistance program; or
 
@@ -242,7 +242,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the total farm revenue for a farm,<sup>3</sup> shall equal the sum obtained by adding—
+&emsp;&emsp;For purposes of this subsection, the total farm revenue for a farm,<sup>4</sup> shall equal the sum obtained by adding—
 
 &emsp;&emsp;&emsp;(i) the estimated actual value for each crop produced on a farm by using the product obtained by multiplying—
 
@@ -250,11 +250,11 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) subject to subparagraphs (B) and (C), to the extent practicable, the national average market price received for the marketing year, as determined by the Secretary;
 
-&emsp;&emsp;&emsp;(ii) 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 <sup>4</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8713, 8753\] or successor sections;
+&emsp;&emsp;&emsp;(ii) 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 <sup>3</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8713, 8753\] or successor sections;
 
-&emsp;&emsp;&emsp;(iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 <sup>4</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8714, 8754\] or successor sections or of any average crop revenue election payments made to the producer under section 1105 <sup>4</sup> of that Act \[7 U.S.C. 8715\];
+&emsp;&emsp;&emsp;(iii) the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 <sup>3</sup> of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8714, 8754\] or successor sections or of any average crop revenue election payments made to the producer under section 1105 <sup>3</sup> of that Act \[7 U.S.C. 8715\];
 
-&emsp;&emsp;&emsp;(iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C of the Food, Conservation, and Energy Act of 2008 <sup>4</sup> or successor subtitles;
+&emsp;&emsp;&emsp;(iv) the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C of the Food, Conservation, and Energy Act of 2008 <sup>3</sup> or successor subtitles;
 
 &emsp;&emsp;&emsp;(v) the amount of payments for prevented planting on a farm;
 
@@ -364,7 +364,7 @@ In this section:
 
 #### (ii) Exclusion
 
-&emsp;&emsp;&emsp;The term "covered livestock" does not include livestock that were or would have been in a feedlot, on the beginning date of the qualifying drought or fire condition, as a part of the normal business operation of the eligible livestock producer, as determined by the Secretary.
+&emsp;&emsp;&emsp;The term "covered livestock" does not include livestock that were or would havebeen in a feedlot, on the beginning date of the qualifying drought or fire condition, as a part of the normal business operation of the eligible livestock producer, as determined by the Secretary.
 
 #### (B) Drought monitor
 
@@ -408,7 +408,7 @@ In this section:
 
 #### (A) Eligible losses
 
-&emsp;&emsp;An eligible livestock producer may receive assistance under this subsection only forgrazing losses for covered livestock that occur on land that—
+&emsp;&emsp;An eligible livestock producer may receive assistance under this subsection only for grazing losses for covered livestock that occur on land that—
 
 &emsp;&emsp;&emsp;(i) is native or improved pastureland with permanent vegetative cover; or
 
@@ -534,7 +534,7 @@ In this section:
 
 #### (C) Waiver for 2008 calendar year
 
-&emsp;&emsp;In the case of an eligible livestock producer that suffered losses on grazing land during the 2008 calendar year but does not meet the requirements of subparagraph (A), the Secretary shall waive subparagraph (A) if the eligible livestock producer pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under subparagraph (A) to the Secretary not later than 90 days after the date of enactment of this subchapter.<sup>4</sup>
+&emsp;&emsp;In the case of an eligible livestock producer that suffered losses on grazing land during the 2008 calendar year but does not meet the requirements of subparagraph (A), the Secretary shall waive subparagraph (A) if the eligible livestock producer pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under subparagraph (A) to the Secretary not later than 90 days after the date of enactment of this subchapter.<sup>3</sup>
 
 #### (D) Equitable relief
 
@@ -620,7 +620,7 @@ In this section:
 
 #### (A) Definitions of legal entity and person
 
-&emsp;&emsp;In this paragraph, the terms "legal entity" and "person" have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>5</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
+&emsp;&emsp;In this paragraph, the terms "legal entity" and "person" have the meaning given thoseterms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>5</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
 
 #### (B) Amount
 
@@ -656,7 +656,7 @@ In this section:
 
 #### (A) 2008 crop year
 
-&emsp;&emsp;In the case of an eligible producer that suffered losses in an insurable commodity or noninsurable commodity during the 2008 crop year but does not meet the requirements of paragraph (1), the Secretary shallwaive paragraph (1) if the eligible producer pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after the date of enactment of this subchapter.<sup>4</sup>
+&emsp;&emsp;In the case of an eligible producer that suffered losses in an insurable commodity or noninsurable commodity during the 2008 crop year but does not meet the requirements of paragraph (1), the Secretary shall waive paragraph (1) if the eligible producer pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after the date of enactment of this subchapter.<sup>3</sup>
 
 #### (B) 2009 crop year
 
@@ -734,7 +734,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) as determined by the Secretary—
 
-&emsp;&emsp;&emsp;&emsp;(I)(aa) except as provided in item (bb), lack access to a policy or plan of insurance under subtitle A <sup>4</sup>; or
+&emsp;&emsp;&emsp;&emsp;(I)(aa) except as provided in item (bb), lack access to a policy or plan of insurance under subtitle A <sup>3</sup>; or
 
 &emsp;&emsp;&emsp;&emsp;(bb) do not qualify for a written agreement because 1 or more farming practices, which the Secretary has determined are good farming practices, of the eligible producers on the farm differ significantly from the farming practices used by producers of the same crop in other regions of the United States; and
 
@@ -776,13 +776,15 @@ In implementing any other program which makes disaster assistance payments (exce
 
 The Federal Crop Insurance Act, referred to in subsecs. (a)(1), (11), (b)(2)(C)(i), (4)(A)(i)(I), (B)(iii), (d)(5)(A)(i), (D)(ii), (g)(1)(A), (5)(B), (7)(A)(ii)(I), and (j), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
+Section 2279(e) of title 7, referred to in subsec. (a)(18), was redesignated section 2279(a) of title 7 by Pub. L. 115–334, title XII, §12301(b)(3), Dec. 20, 2018, 132 Stat. 4951.
+
 Sections 1103 and 1303 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(ii), were repealed by Pub. L. 113–79, title I, §1101, Feb. 7, 2014, 128 Stat. 658.
 
 Sections 1104 and 1304 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iii), were repealed by Pub. L. 113–79, title I, §1102(a), Feb. 7, 2014, 128 Stat. 658.
 
 Section 1105 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(4)(A)(iii), was repealed by Pub. L. 113–79, title I, §1103(a), Feb. 7, 2014, 128 Stat. 658.
 
-The Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(4)(A)(iv), (f)(4)(A), and (h)(1), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Subtitles Band C of the Act probably mean subtitles B and C of title I of the Act, which are classified generally to subchapters II (§8731 et seq.) and III (§8751 et seq.), respectively, of chapter 113 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of Title 7 and Tables.
+The Food, Conservation, and Energy Act of 2008, referred to in subsecs. (b)(4)(A)(iv), (f)(4)(A), and (h)(1), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Subtitles B and C of the Act probably mean subtitles B and C of title I of the Act, which are classified generally to subchapters II (§8731 et seq.) and III (§8751 et seq.), respectively, of chapter 113 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of Title 7 and Tables.
 
 The date of enactment of this subchapter, referred to in subsecs. (d)(5)(C) and (g)(4)(A), was in the original "the date of enactment of this subtitle", and was translated as meaning the date of enactment of title IX of Pub. L. 93–618, as added by Pub. L. 110–246, which was approved June 18, 2008, to reflect the probable intent of Congress.
 
@@ -890,9 +892,9 @@ Pub. L. 110–234, title XV, §15101(b), May 22, 2008, 122 Stat. 1499, and Pub. 
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 
-<i><sup>4</sup></i><i> See References in Text note below.</i>
+<i><sup>4</sup></i><i> So in original. The comma probably should not appear.</i>
 
 <i><sup>5</sup></i><i> So in original. There probably should be a second closing parenthesis.</i>
 

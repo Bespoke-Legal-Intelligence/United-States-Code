@@ -34,7 +34,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;The United States Trade Representative shall, on the basis of the advice of the Trade Policy Committee and relevant subordinate bodies of the TPC, use or transfer for the use by Federal agencies represented on the TPC amounts in the Trust Fund, only as provided by appropriations Acts, for making expenditures for any of the following:
 
-&emsp;&emsp;(A) To seek to enforce the provisions of and commitments and obligations under the WTO Agreements and free trade agreements to which the United States is a party and resolve any actions by foreign countries thatare inconsistent with those provisions, commitments, and obligations.
+&emsp;&emsp;(A) To seek to enforce the provisions of and commitments and obligations under the WTO Agreements and free trade agreements to which the United States is a party and resolve any actions by foreign countries that are inconsistent with those provisions, commitments, and obligations.
 
 &emsp;&emsp;(B) To monitor and ensure the full implementation by foreign countries of the provisions of and commitments and obligations under free trade agreements to which the United States is a party for purposes of systematically assessing, identifying, investigating, or initiating steps to address inconsistencies with those provisions, commitments, and obligations.
 

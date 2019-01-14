@@ -60,7 +60,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title VII, §712(k)(8)(C), July 18, 1984, 98 Stat. 952, provided that: "The amendmentsmade by this paragraph \[amending this section\] shall apply to liquidations after October 20, 1983, in taxable years ending after such date."
+Pub. L. 98–369, div. A, title VII, §712(k)(8)(C), July 18, 1984, 98 Stat. 952, provided that: "The amendments made by this paragraph \[amending this section\] shall apply to liquidations after October 20, 1983, in taxable years ending after such date."
 
 #### Effective Date of 1964 Amendment
 

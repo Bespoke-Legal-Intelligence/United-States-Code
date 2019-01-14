@@ -12,7 +12,7 @@ The Secretary of Homeland Security shall incorporate into the National Response 
 
 #### References in Text
 
-Section 502(6) of the Homeland Security Act of 2002, referred to in subsec. (b), probably should be a reference to section 504(a)(6) of that Act, which is classified to section 314(a)(6) of Title 6, Domestic Security. Section 502 of the Act was renumbered section 504 and par. (6) of that section was redesignated subsec. (a)(6) by Pub. L. 109–295, title VI, §611(8), (12)(B), Oct. 4, 2006, 120 Stat. 1395, 1398.
+Section 502(6) of the Homeland Security Act of 2002, referred to in subsec. (b), probably should be a reference to section 504(a)(6) of that Act, which is classified to section 314(a)(6) of Title 6, Domestic Security.Section 502 of the Act was renumbered section 504 and par. (6) of that section was redesignated subsec. (a)(6) by Pub. L. 109–295, title VI, §611(8), (12)(B), Oct. 4, 2006, 120 Stat. 1395, 1398.
 
 #### Amendments
 

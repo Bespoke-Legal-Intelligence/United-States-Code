@@ -110,7 +110,7 @@
 
 (h) The trustee may not avoid a transfer if such transfer was made as a part of an alternative repayment schedule between the debtor and any creditor of the debtor created by an approved nonprofit budget and credit counseling agency.
 
-(i) If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for thebenefit of a creditor that is an insider, such transfer shall be considered to be avoided under this section only with respect to the creditor that is an insider.
+(i) If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for the benefit of a creditor that is an insider, such transfer shall be considered to be avoided under this section only with respect to the creditor that is an insider.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 98–353, title III, §§310, 462, July 10, 1984, 98 Stat. 355, 377; Pub. L. 99–554, title II, §283(m), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title II, §203, title III, §304(f), Oct. 22, 1994, 108 Stat. 4121, 4133; Pub. L. 109–8, title II, §§201(b), 217, title IV, §§403, 409, title XII, §§1213(a), 1222, Apr. 20, 2005, 119 Stat. 42, 55, 104, 106, 194, 196.)
 
@@ -138,7 +138,7 @@ This section is a substantial modification of present law. It modernizes the pre
 
 Subsection (a) contains three definitions. Inventory, new value, and receivable are defined in their ordinary senses, but are defined to avoid any confusion or uncertainty surrounding the terms.
 
-Subsection (b) is the operative provision of the section. It authorizes the trustee to avoid a transfer if five conditions are met. These are the five elements of a preference action. First, the transfer must be to or for the benefit of a creditor. Second, the transfer must be for or on account of an antecedent debt owed by the debtor before the transfer was made. Third, the transfer must have been made when the debtor was insolvent. Fourth, the transfer must have been made during the 90 days immediately preceding the commencement of the case. If the transfer was to an insider, the trustee may avoid the transfer if it was made during the period that begins one year before the filing of the petition and ends 90 days before the filing, if the insider to whom the transfer was made had reasonable cause to believe the debtor was insolvent at the time the transfer was made.
+Subsection (b) is the operative provision of the section. It authorizes the trustee to avoid a transfer if five conditions are met. These are the five elements of a preference action. First, the transfer must be to or for the benefit of a creditor. Second, the transfer must be for or on account of an antecedent debt owed by thedebtor before the transfer was made. Third, the transfer must have been made when the debtor was insolvent. Fourth, the transfer must have been made during the 90 days immediately preceding the commencement of the case. If the transfer was to an insider, the trustee may avoid the transfer if it was made during the period that begins one year before the filing of the petition and ends 90 days before the filing, if the insider to whom the transfer was made had reasonable cause to believe the debtor was insolvent at the time the transfer was made.
 
 Finally, the transfer must enable the creditor to whom or for whose benefit it was made to receive a greater percentage of his claim than he would receive under the distributive provisions of the bankruptcy code. Specifically, the creditor must receive more than he would if the case were a liquidation case, if the transfer had not been made, and if the creditor received payment of the debt to the extent provided by the provisions of the code.
 
@@ -260,7 +260,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (c)(9), dollar amount "6,225" was adjusted to "6,425". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (c)(9), dollar amount "6,425" was adjusted to "6,825". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (c)(9), dollar amount "6,225" was adjusted to "6,425".
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (c)(9), dollar amount "5,850" was adjusted to "6,225".
 

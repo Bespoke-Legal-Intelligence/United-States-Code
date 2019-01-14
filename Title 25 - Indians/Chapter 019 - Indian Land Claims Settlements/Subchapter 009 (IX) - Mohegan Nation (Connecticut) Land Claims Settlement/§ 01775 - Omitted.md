@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, Pub. L. 103–377, §2, Oct. 19, 1994, 108 Stat. 3501, which set out congressional findings and purposes,was omitted from the Code as being of special and not general application.
+Section, Pub. L. 103–377, §2, Oct. 19, 1994, 108 Stat. 3501, which set out congressional findings and purposes, was omitted from the Code as being of special and not general application.
 
 #### Short Title
 

@@ -28,7 +28,7 @@ Financial obligation.—The term "financial obligation" means any note, bond, de
 
 &emsp;(7)
 
-Lender.—The term "lender" means any non-Federal qualified institutional buyer (as defined by section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation) known as Rule 144A(a) of the Security and Exchange Commission and issued under the Security Act of 1933 (15 U.S.C. 77a et seq.)), including—
+Lender.—The term "lender" means any non-Federal qualified institutional buyer (asdefined by section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation) known as Rule 144A(a) of the Security and Exchange Commission and issued under the Security Act of 1933 (15 U.S.C. 77a et seq.)), including—
 
 &emsp;&emsp;(A) a qualified retirement plan (as defined in section 4974(c) of the Internal Revenue Code of 1986) that is a qualified institutional buyer; and
 
@@ -89,4 +89,8 @@ Sections 414(d) and 4974(c) of the Internal Revenue Code of 1986, referred to in
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
+
+#### Effective Date
+
+Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of this title.
 

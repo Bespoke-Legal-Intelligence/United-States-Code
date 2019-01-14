@@ -2,7 +2,7 @@
 
 (a) A master failing to maintain an official logbook as required by this part is liable to the United States Government for a civil penalty of $200.
 
-(b) A master failing to make an entry in the vessel's official logbook as required by this partis liable to the Government for a civil penalty of $200.
+(b) A master failing to make an entry in the vessel's official logbook as required by this part is liable to the Government for a civil penalty of $200.
 
 (c) A person is liable to the Government for a civil penalty of $150 when the person makes, procures to be made, or assists in making, an entry in the vessel's official logbook—
 

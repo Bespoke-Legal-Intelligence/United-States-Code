@@ -58,7 +58,7 @@ Policy.—(1) The Office shall develop, and update from time to time, a uniform 
 
 &emsp;(F) Requirements regarding the development and continuous updating of an individualized services plan (medical and educational) for each military family with special needs.
 
-&emsp;(G) Requirements for record keeping, reporting, and continuous monitoring of available resources and family needs under individualized services support plans for military families with special needs, including the establishment and maintenance of a central or various regional databases for such purposes.
+&emsp;(G) Requirements for record keeping, reporting, and continuous monitoring of availableresources and family needs under individualized services support plans for military families with special needs, including the establishment and maintenance of a central or various regional databases for such purposes.
 
 (e)
 

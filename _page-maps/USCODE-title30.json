@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title30",
- "package": "USCODE-2017-title30",
+ "package": "USCODE-2018-title30",
  "pieces": [
   {
    "id": "30_",
@@ -1353,11 +1353,18 @@
   },
   {
    "id": "30_162",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 32]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 008 (VIII) - Building Stone or Saline Land Entries under Placer-Mining Laws/§ 00162 - Entry of saline lands; limitation.md",
    "printed_pages": [
     31,
-    31
+    32
    ]
   },
   {
@@ -1365,27 +1372,16 @@
    "marks": [],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 009 (IX) - Disposal of Alabama Lands as Agricultural Lands/README.md",
    "printed_pages": [
-    31,
-    31
+    32,
+    32
    ]
   },
   {
    "id": "30_171",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       94,
-       "[Page 32]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 009 (IX) - Disposal of Alabama Lands as Agricultural Lands/§ 00171 - Disposal as agricultural lands.md",
    "printed_pages": [
-    31,
+    32,
     32
    ]
   },
@@ -1403,10 +1399,10 @@
    "marks": [
     [
      "I",
-     82,
+     76,
      [
       [
-       120,
+       88,
        "[Page 33]"
       ]
      ]
@@ -1431,14 +1427,10 @@
    "id": "30_181",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       225,
-       "[Page 34]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 34]",
+     true
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00181 - Lands subject to disposition; persons entitled to benefits; reciprocal privileges; helium rights reserved.md",
@@ -1452,7 +1444,7 @@
    "marks": [
     [
      "L",
-     6,
+     4,
      "[Page 35]",
      true
     ]
@@ -1480,7 +1472,7 @@
      20,
      [
       [
-       1676,
+       1579,
        "[Page 36]"
       ]
      ]
@@ -1490,7 +1482,7 @@
      38,
      [
       [
-       335,
+       238,
        "[Page 37]"
       ]
      ]
@@ -1500,26 +1492,26 @@
      60,
      [
       [
-       1046,
+       997,
        "[Page 38]"
       ]
      ]
     ],
     [
-     "L",
-     118,
-     "[Page 39]",
-     true
-    ],
-    [
      "I",
-     186,
+     116,
      [
       [
-       106,
-       "[Page 40]"
+       484,
+       "[Page 39]"
       ]
      ]
+    ],
+    [
+     "L",
+     184,
+     "[Page 40]",
+     true
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00184 - Limitations on leases held, owned or controlled by persons, associations or corporations.md",
@@ -1545,7 +1537,7 @@
      18,
      [
       [
-       417,
+       186,
        "[Page 41]"
       ]
      ]
@@ -1555,7 +1547,7 @@
      56,
      [
       [
-       232,
+       88,
        "[Page 42]"
       ]
      ]
@@ -1565,7 +1557,7 @@
      96,
      [
       [
-       275,
+       140,
        "[Page 43]"
       ]
      ]
@@ -1575,17 +1567,17 @@
      128,
      [
       [
-       521,
+       372,
        "[Page 44]"
       ]
      ]
     ],
     [
      "I",
-     168,
+     166,
      [
       [
-       166,
+       275,
        "[Page 45]"
       ]
      ]
@@ -1595,7 +1587,7 @@
      208,
      [
       [
-       596,
+       267,
        "[Page 46]"
       ]
      ]
@@ -1615,7 +1607,7 @@
      2,
      [
       [
-       1035,
+       792,
        "[Page 47]"
       ]
      ]
@@ -1640,10 +1632,14 @@
    "id": "30_187a",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 48]",
-     true
+     "I",
+     16,
+     [
+      [
+       113,
+       "[Page 48]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00187a - Oil or gas leases; partial assignments.md",
@@ -1669,7 +1665,7 @@
      16,
      [
       [
-       453,
+       275,
        "[Page 49]"
       ]
      ]
@@ -1679,20 +1675,16 @@
      50,
      [
       [
-       413,
+       233,
        "[Page 50]"
       ]
      ]
     ],
     [
-     "I",
-     92,
-     [
-      [
-       92,
-       "[Page 51]"
-      ]
-     ]
+     "L",
+     90,
+     "[Page 51]",
+     true
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00188 - Failure to comply with provisions of lease.md",
@@ -1705,10 +1697,14 @@
    "id": "30_188a",
    "marks": [
     [
-     "L",
-     4,
-     "[Page 52]",
-     true
+     "I",
+     2,
+     [
+      [
+       669,
+       "[Page 52]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00188a - Surrender of leases.md",
@@ -1739,26 +1735,30 @@
    "id": "30_191",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 53]",
-     true
-    ],
-    [
      "I",
-     106,
+     12,
      [
       [
-       113,
-       "[Page 54]"
+       190,
+       "[Page 53]"
       ]
      ]
     ],
     [
      "L",
-     164,
-     "[Page 55]",
+     106,
+     "[Page 54]",
      true
+    ],
+    [
+     "I",
+     162,
+     [
+      [
+       107,
+       "[Page 55]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00191 - Disposition of moneys received.md",
@@ -1790,10 +1790,10 @@
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       91,
+       89,
        "[Page 56]"
       ]
      ]
@@ -1831,7 +1831,7 @@
      2,
      [
       [
-       1209,
+       965,
        "[Page 57]"
       ]
      ]
@@ -1874,10 +1874,14 @@
    "id": "30_195",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 58]",
-     true
+     "I",
+     8,
+     [
+      [
+       94,
+       "[Page 58]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00195 - Enforcement.md",
@@ -1891,10 +1895,10 @@
    "marks": [
     [
      "I",
-     8,
+     6,
      [
       [
-       89,
+       277,
        "[Page 59]"
       ]
      ]
@@ -1923,26 +1927,26 @@
      10,
      [
       [
-       1077,
+       786,
        "[Page 60]"
       ]
      ]
     ],
     [
-     "L",
-     40,
-     "[Page 61]",
-     true
-    ],
-    [
      "I",
-     92,
+     38,
      [
       [
-       110,
-       "[Page 62]"
+       463,
+       "[Page 61]"
       ]
      ]
+    ],
+    [
+     "L",
+     90,
+     "[Page 62]",
+     true
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 002 (II) - Coal/§ 00201 - Leases and exploration.md",
@@ -1991,10 +1995,14 @@
    "id": "30_202a",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 63]",
-     true
+     "I",
+     4,
+     [
+      [
+       693,
+       "[Page 63]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 002 (II) - Coal/§ 00202a - Consolidation of coal leases into logical mining unit.md",
@@ -2007,10 +2015,14 @@
    "id": "30_203",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 64]",
-     true
+     "I",
+     26,
+     [
+      [
+       138,
+       "[Page 64]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 002 (II) - Coal/§ 00203 - Additional lands or deposits.md",
@@ -2051,7 +2063,7 @@
    "marks": [
     [
      "L",
-     20,
+     16,
      "[Page 65]",
      true
     ]
@@ -2079,7 +2091,7 @@
      4,
      [
       [
-       182,
+       87,
        "[Page 66]"
       ]
      ]
@@ -2975,7 +2987,7 @@
    "marks": [
     [
      "L",
-     18,
+     14,
      "[Page 93]",
      true
     ]
@@ -3030,7 +3042,7 @@
      2,
      [
       [
-       669,
+       370,
        "[Page 94]"
       ]
      ]
@@ -3086,7 +3098,7 @@
      12,
      [
       [
-       930,
+       655,
        "[Page 95]"
       ]
      ]
@@ -3138,10 +3150,14 @@
    "id": "30_451_to_460,_471_to_483",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 96]",
-     true
+     "I",
+     18,
+     [
+      [
+       281,
+       "[Page 96]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Coal Mine Safety/§ 00451 to 460, 471 to 483 - Repealed. Pub. L. 91–173, title V, §509, Dec. 30, 1969, 83 Stat. 803.md",
@@ -5880,7 +5896,7 @@
      8,
      [
       [
-       223,
+       90,
        "[Page 205]"
       ]
      ]
@@ -5903,26 +5919,26 @@
   },
   {
    "id": "30_1002a",
-   "marks": [],
-   "path": "Chapter 023 - Geothermal Resources/§ 01002a - Repealed. Pub. L. 97–214, §7(16), July 12, 1982, 96 Stat. 174.md",
-   "printed_pages": [
-    205,
-    205
-   ]
-  },
-  {
-   "id": "30_1003",
    "marks": [
     [
      "L",
-     6,
+     10,
      "[Page 206]",
      true
     ]
    ],
-   "path": "Chapter 023 - Geothermal Resources/§ 01003 - Leasing procedures.md",
+   "path": "Chapter 023 - Geothermal Resources/§ 01002a - Repealed. Pub. L. 97–214, §7(16), July 12, 1982, 96 Stat. 174.md",
    "printed_pages": [
     205,
+    206
+   ]
+  },
+  {
+   "id": "30_1003",
+   "marks": [],
+   "path": "Chapter 023 - Geothermal Resources/§ 01003 - Leasing procedures.md",
+   "printed_pages": [
+    206,
     206
    ]
   },
@@ -5934,7 +5950,7 @@
      12,
      [
       [
-       237,
+       96,
        "[Page 207]"
       ]
      ]
@@ -7295,10 +7311,14 @@
    "id": "30_1258",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 268]",
-     true
+     "I",
+     14,
+     [
+      [
+       407,
+       "[Page 268]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01258 - Reclamation plan requirements.md",
@@ -7311,10 +7331,14 @@
    "id": "30_1259",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 269]",
-     true
+     "I",
+     8,
+     [
+      [
+       601,
+       "[Page 269]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01259 - Performance bonds.md",
@@ -7331,7 +7355,7 @@
      26,
      [
       [
-       606,
+       374,
        "[Page 270]"
       ]
      ]
@@ -7351,7 +7375,7 @@
      6,
      [
       [
-       466,
+       324,
        "[Page 271]"
       ]
      ]
@@ -7380,7 +7404,7 @@
      8,
      [
       [
-       653,
+       564,
        "[Page 272]"
       ]
      ]
@@ -7396,10 +7420,14 @@
    "id": "30_1264",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 273]",
-     true
+     "I",
+     30,
+     [
+      [
+       327,
+       "[Page 273]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01264 - Decisions of regulatory authority and appeals.md",
@@ -7416,7 +7444,7 @@
      26,
      [
       [
-       182,
+       99,
        "[Page 274]"
       ]
      ]
@@ -7921,7 +7949,7 @@
      ]
     ]
    ],
-   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01301 - Environmental practices.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01301 - Experimental practices.md",
    "printed_pages": [
     298,
     299
@@ -9981,6 +10009,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2017-title30 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2018-title30 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 30 - Mineral Lands and Mining"
 }

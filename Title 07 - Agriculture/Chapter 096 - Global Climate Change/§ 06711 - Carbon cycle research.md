@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To the extent funds are made available for this purpose, the Secretary shall provide a grant to the Consortium for Agricultural Soils Mitigation of Greenhouse Gases, acting through Kansas State University, to develop, analyze, andimplement, through the land grant universities described in subsection (b), carbon cycle research at the national, regional, and local levels.
+To the extent funds are made available for this purpose, the Secretary shall provide a grant to the Consortium for Agricultural Soils Mitigation of Greenhouse Gases, acting through Kansas State University, to develop, analyze, and implement, through the land grant universities described in subsection (b), carbon cycle research at the national, regional, and local levels.
 
 #### (b) Land grant universities
 
@@ -125,8 +125,6 @@ There is authorized to be appropriated to carry out this section $15,000,000 for
 (Pub. L. 106–224, title II, §221, June 20, 2000, 114 Stat. 407; Pub. L. 107–171, title VII, §7223, title IX, §9009, May 13, 2002, 116 Stat. 454, 483; Pub. L. 110–234, title VII, §7407, May 22, 2008, 122 Stat. 1252; Pub. L. 110–246, §4(a), title VII, §7407, June 18, 2008, 122 Stat. 1664, 2013.)
 
 #### Codification
-
-Another section 9009 of Pub. L. 107–171 is classified to section 8109 of this title.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 

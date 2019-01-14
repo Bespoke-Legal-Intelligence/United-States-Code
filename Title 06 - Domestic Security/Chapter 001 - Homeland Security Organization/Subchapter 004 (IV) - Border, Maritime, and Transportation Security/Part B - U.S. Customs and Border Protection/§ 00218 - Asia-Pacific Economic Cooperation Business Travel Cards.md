@@ -48,7 +48,7 @@ In carrying out this section, the Commissioner of U.S. Customs and Border Protec
 
 &emsp;Amounts deposited into the Asia Pacific <sup>1</sup> Economic Cooperation Business Travel Card Account established under paragraph (3) shall—
 
-&emsp;&emsp;(A) be credited to the appropriate account of the U.S. Customs and Border Protection for expenses incurred in carrying out this section; and
+&emsp;&emsp;(A) be credited to the appropriate account of the <sup>2</sup> U.S. Customs and Border Protection for expenses incurred in carrying out this section; and
 
 &emsp;&emsp;(B) remain available until expended.
 
@@ -77,4 +77,6 @@ Pub. L. 115–79, §3, Nov. 2, 2017, 131 Stat. 1259, provided that:
 "(c) <i>Termination</i>.—After the completion of the transfer described in subsection (a), the Asia-Pacific Economic Cooperation Business Travel Card Account established pursuant to the Asia-Pacific Economic Cooperation Business Travel Cards Act of 2011 shall be closed."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Asia-Pacific".</i>
+
+<i><sup>2</sup></i><i> So in original. "The" probably should not appear.</i>
 

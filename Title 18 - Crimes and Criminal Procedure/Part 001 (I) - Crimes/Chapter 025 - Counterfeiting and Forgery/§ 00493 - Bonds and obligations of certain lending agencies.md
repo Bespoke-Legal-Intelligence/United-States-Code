@@ -4,7 +4,7 @@ Whoever falsely makes, forges, counterfeits or alters any note, bond, debenture,
 
 Whoever passes, utters, or publishes, or attempts to pass, utter or publish any note, bond, debenture, coupon, obligation, instrument or document knowing the same to have been falsely made, forged, counterfeited or altered, contrary to the provisions of this section, shall be fined under this title or imprisoned not more than 10 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 711; Pub. L. 87–353, §3(p), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–19,§24(a), May 25, 1967, 81 Stat. 27; Pub. L. 91–468, §3, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, §374(i), Oct. 26, 2001, 115 Stat. 341.)
+(June 25, 1948, ch. 645, 62 Stat. 711; Pub. L. 87–353, §3(p), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–19, §24(a), May 25, 1967, 81 Stat. 27; Pub. L. 91–468, §3, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, §374(i), Oct. 26, 2001, 115 Stat. 341.)
 
 #### Historical and Revision Notes
 

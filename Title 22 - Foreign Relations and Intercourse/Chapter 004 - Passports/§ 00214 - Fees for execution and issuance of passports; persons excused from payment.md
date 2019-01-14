@@ -48,9 +48,11 @@ Amendment by Pub. L. 90–428 effective on thirtieth day following July 26, 1968
 
 #### Extension of Authority
 
-Pub. L. 115–31, div. J, title VII, §7034(k)(1), May 5, 2017, 131 Stat. 651, provided that: "Section 1(b)(2) of the Passport Act of June 4, 1920 (22 U.S.C. 214(b)(2)) shall be applied by substituting 'September 30, 2017' for 'September 30, 2010'."
+Pub. L. 115–141, div. K, title VII, §7034(l)(1), Mar. 23, 2018, 132 Stat. 895, provided that: "Section 1(b)(2) of the Passport Act of June 4, 1920 (22 U.S.C. 214(b)(2)) shall be applied by substituting 'September 30, 2018' for 'September 30, 2010'."
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 115–31, div. J, title VII, §7034(k)(1), May 5, 2017, 131 Stat. 651.
 
 Pub. L. 114–113, div. K, title VII, §7034(k)(1), Dec. 18, 2015, 129 Stat. 2764.
 
@@ -66,5 +68,5 @@ Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1760, as amended by Pub. L.
 
 #### Information From United States Passports
 
-Pub. L. 101–604, title II, §203(d), Nov. 16, 1990, 104 Stat. 3083, provided that: "Notwithstanding any other provision of law, to the extent provided in appropriation Acts, for each fiscal year not more than $5,000,000 in passport fees collected by the Department of State may be credited to a Department of State account. Amountscredited to such account shall be available only for the costs associated with the acquisition and production of machine-readable United States passports and visas and compatible reading equipment. Amounts credited to such account are authorized to remain available until expended."
+Pub. L. 101–604, title II, §203(d), Nov. 16, 1990, 104 Stat. 3083, provided that: "Notwithstanding any other provision of law, to the extent provided in appropriation Acts, for each fiscal year not more than $5,000,000 inpassport fees collected by the Department of State may be credited to a Department of State account. Amounts credited to such account shall be available only for the costs associated with the acquisition and production of machine-readable United States passports and visas and compatible reading equipment. Amounts credited to such account are authorized to remain available until expended."
 

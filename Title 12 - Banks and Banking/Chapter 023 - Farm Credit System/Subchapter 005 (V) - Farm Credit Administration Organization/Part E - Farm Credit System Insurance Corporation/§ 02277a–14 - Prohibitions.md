@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;It shall be unlawful for any insured System bank to pay any dividends on bank stock or participation certificates or interest on the capital notes or debentures of such bank (ifsuch interest is required to be paid only out of net profits) or distribute any of the capital assets of such bank while the bank remains in default in the payment of any premium due to the Corporation.
+&emsp;It shall be unlawful for any insured System bank to pay any dividends on bank stock or participation certificates or interest on the capital notes or debentures of such bank (if such interest is required to be paid only out of net profits) or distribute any of the capital assets of such bank while the bank remains in default in the payment of any premium due to the Corporation.
 
 #### (2) Liability of directors
 
@@ -52,11 +52,17 @@
 
 #### (2) Penalty
 
-&emsp;For each willful violation of paragraph (1), the institution involved shall be subject to a penalty of not more than $100 for each day during which the violation continues, which the Corporation may recover for its use.
+&emsp;For each willful violation of paragraph (1), the institution involved shall be subject to a penalty of not more than $100 for each dayduring which the violation continues, which the Corporation may recover for its use.
 
-(Pub. L. 92–181, title V, §5.65, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1619; amended Pub. L. 101–624, title XVIII, §1837, Nov. 28, 1990, 104 Stat. 3834; Pub. L. 102–237, title V, §502(k), Dec. 13, 1991, 105 Stat. 1869.)
+#### (e) Prohibition on uses of funds related to Federal Agricultural Mortgage Corporation
+
+No funds from administrative accounts or from the Farm Credit System Insurance Fund may be used by the Corporation to provide assistance to the Federal Agricultural Mortgage Corporation or to support any activities related to the Federal Agricultural Mortgage Corporation.
+
+(Pub. L. 92–181, title V, §5.65, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1619; amended Pub. L. 101–624, title XVIII, §1837, Nov. 28, 1990, 104 Stat. 3834; Pub. L. 102–237, title V, §502(k), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 115–334, title V, §5409, Dec. 20, 2018, 132 Stat. 4678.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e). Pub. L. 115–334 added subsec. (e).
 
 <b>1991</b>—Subsec. (d)(1). Pub. L. 102–237 struck out "insured" before "System".
 

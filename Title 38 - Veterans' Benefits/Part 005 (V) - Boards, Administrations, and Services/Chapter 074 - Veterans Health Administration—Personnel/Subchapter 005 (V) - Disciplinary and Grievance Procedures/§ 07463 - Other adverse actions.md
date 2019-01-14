@@ -16,7 +16,7 @@
 
 &emsp;(A) written notice stating the specific reason for the proposed action, and
 
-&emsp;(B) time to answer to answer orally and in writing and to furnish affidavits and other documentary evidence in support of the answer.
+&emsp;(B) time to answer orally and in writing and to furnish affidavits and other documentary evidence in support of the answer.
 
 (3)(A) The aggregate period for the resolution of charges against an employee under paragraph (1) or (2) may not exceed 15 business days.
 
@@ -26,7 +26,7 @@
 
 (d) Grievance procedures prescribed under subsection (a) shall include the following:
 
-&emsp;(1) A right to formal review by an impartial examiner within the Department of VeteransAffairs, who, in the case of an adverse action arising from a question of professional conduct or competence, shall be selected from the panel designated under section 7464 of this title.
+&emsp;(1) A right to formal review by an impartial examiner within the Department of Veterans Affairs, who, in the case of an adverse actionarising from a question of professional conduct or competence, shall be selected from the panel designated under section 7464 of this title.
 
 &emsp;(2) A right to a prompt report of the findings and recommendations by the impartial examiner.
 
@@ -34,13 +34,15 @@
 
 (e) In any review of an adverse action under the grievance procedures prescribed under subsection (a), the employee is entitled to be represented by an attorney or other representative of the employee's choice at all stages of the case.
 
-(Added Pub. L. 102–40, title II, §203(a), May 7, 1991, 105 Stat. 205; amended Pub. L. 115–41, title II, §208(c), June 23, 2017, 131 Stat. 878.)
+(Added Pub. L. 102–40, title II, §203(a), May 7, 1991, 105 Stat. 205; amended Pub. L. 115–41, title II, §208(c), June 23, 2017, 131 Stat. 878; Pub. L. 115–407, title VII, §702(a)(2), Dec. 31, 2018, 132 Stat. 5381.)
 
 #### Prior Provisions
 
 Provisions similar to those in this subchapter were contained in section 4110 of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(2)(B). Pub. L. 115–407 substituted "to answer" for "to answer to answer".
 
 <b>2017</b>—Subsec. (c)(1). Pub. L. 115–41, §208(c)(1), substituted "notice and an opportunity to answer with respect to those charges in accordance with subparagraphs (A) and (B) of section 7462(b)(1) of this title, but within the time periods specified in paragraph (3)" for "the same notice and opportunity to answer with respect to those charges as provided in subparagraphs (A) and (B) of section 7462(b)(1) of this title".
 

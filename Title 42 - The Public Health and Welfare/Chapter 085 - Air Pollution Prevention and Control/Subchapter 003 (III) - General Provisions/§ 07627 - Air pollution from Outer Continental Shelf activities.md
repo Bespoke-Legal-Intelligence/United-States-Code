@@ -8,7 +8,7 @@
 
 #### (2) Exemptions
 
-&emsp;The Administrator may exempt an OCS source from a specific requirement in effect under regulations under this subsection if the Administrator finds that compliance with a pollution control technology requirement is technically infeasible or will cause an unreasonable threat to health and safety. The Administrator shall make written findings explaining the basis of any exemption issued pursuant to this subsection and shall impose another requirement equal to or as close in stringency to the original requirement as possible. The Administrator shall ensure that anyincrease in emissions due to the granting of an exemption is offset by reductions in actual emissions, not otherwise required by this chapter, from the same source or other sources in the area or in the corresponding onshore area. The Administrator shall establish procedures to provide for public notice and comment on exemptions proposed pursuant to this subsection.
+&emsp;The Administrator may exempt an OCS source from a specific requirement in effect under regulations under this subsection if the Administrator finds that compliance with a pollution control technology requirement is technically infeasible or will cause an unreasonable threat to health and safety. The Administrator shall make written findings explaining the basis of any exemption issued pursuant to this subsection and shall impose another requirement equal to or as close in stringency to the original requirement as possible. The Administrator shall ensure that any increase in emissions due to the granting of an exemption is offset by reductions in actual emissions, not otherwise required by this chapter, from the same source or other sources in the area or in the corresponding onshore area. The Administrator shall establish procedures to provide for public notice and comment on exemptions proposed pursuant to this subsection.
 
 #### (3) State procedures
 
@@ -56,7 +56,7 @@ For portions of the United States Outer Continental Shelf that are adjacent to t
 
 #### References in Text
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (a)(4)(C)(ii), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (a)(4)(C)(ii), is act Aug. 7, 1953, ch. 345, 67 Stat.462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 #### Amendments
 

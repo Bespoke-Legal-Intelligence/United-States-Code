@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;Subject to paragraph (2), the Secretary may carry out a program of entering into contracts with appropriately qualified health professionals under which such health professionals agree to conduct prevention activities, as employees of the Centers for Disease Control and Prevention and the Agency for Toxic Substances and Disease Registry, in consideration of the Federal Government agreeing to repay, for each year of such service, not more than$35,000 of the principal and interest of the educational loans of such health professionals.
+&emsp;Subject to paragraph (2), the Secretary may carry out a program of entering into contracts with appropriately qualified health professionals under which such health professionals agree to conduct prevention activities, as employees of the Centers for Disease Control and Prevention and the Agency for Toxic Substances and Disease Registry, in consideration of the Federal Government agreeing to repay, for each year of such service, not more than $35,000 of the principal and interest of the educational loans of such health professionals.
 
 #### (2) Limitation
 

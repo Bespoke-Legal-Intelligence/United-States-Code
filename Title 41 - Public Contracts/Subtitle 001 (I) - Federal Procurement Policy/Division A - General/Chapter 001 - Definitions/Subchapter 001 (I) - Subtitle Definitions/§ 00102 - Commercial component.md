@@ -2,7 +2,11 @@
 
 In this subtitle, the term "commercial component" means a component that is a commercial item.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3678.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3678; Pub. L. 115–232, div. A, title VIII, §836(a)(2)(A), Aug. 13, 2018, 132 Stat. 1860.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(a)(2)(A), (h), Aug. 13, 2018, 132 Stat. 1860, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended by striking "commercial item" and inserting "commercial product". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -27,4 +31,12 @@ June 30, 1949, ch. 288, title III, §314A ("commercial component"), as added Pub
 41:403(15).
 
 Pub. L. 93–400, §4(15), as added Pub. L. 103–355, title VIII, §8001(a), Oct. 13, 1994, 108 Stat. 3386.
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–232 substituted "commercial product" for "commercial item".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 

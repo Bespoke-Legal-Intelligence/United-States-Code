@@ -15,7 +15,7 @@
 - [&sect; 01298 - Alaskan surface coal mine study](%C2%A7%2001298%20-%20Alaskan%20surface%20coal%20mine%20study.md)
 - [&sect; 01299 - Study of reclamation standards for surface mining of other minerals](%C2%A7%2001299%20-%20Study%20of%20reclamation%20standards%20for%20surface%20mining%20of%20other%20minerals.md)
 - [&sect; 01300 - Indian lands](%C2%A7%2001300%20-%20Indian%20lands.md)
-- [&sect; 01301 - Environmental practices](%C2%A7%2001301%20-%20Environmental%20practices.md)
+- [&sect; 01301 - Experimental practices](%C2%A7%2001301%20-%20Experimental%20practices.md)
 - [&sect; 01302 - Authorization of appropriations](%C2%A7%2001302%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 01303 - Coordination of regulatory and inspection activities](%C2%A7%2001303%20-%20Coordination%20of%20regulatory%20and%20inspection%20activities.md)
 - [&sect; 01304 - Surface owner protection](%C2%A7%2001304%20-%20Surface%20owner%20protection.md)

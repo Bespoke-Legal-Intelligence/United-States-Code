@@ -46,6 +46,10 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle G, §4731\], Nov. 2
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–273, §1, Oct. 31, 2018, 132 Stat. 4158, provided that: "This Act \[amending provisions set out as a note under section 41 of this title\] may be cited as the 'Study of Underrepresented Classes Chasing Engineering and Science Success Act of 2018' or the 'SUCCESS Act'."
+
 #### Short Title of 2012 Amendment
 
 Pub. L. 112–211, §1, Dec. 18, 2012, 126 Stat. 1527, provided that: "This Act \[enacting part V and sections 27 and 151 of this title, amending sections 41, 100, 102, 111, 115, 119, 120, 122, 133, 154, 171, 173, 261, 361, 364 to 366, and 371 of this title, repealing section 151 of this title, and enacting provisions set out as notes under sections 27 and 100 of this title\] may be cited as the 'Patent Law Treaties Implementation Act of 2012'."
@@ -68,7 +72,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[§1(a)\], Nov. 29, 1999, 113 Stat. 153
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4001\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that: "This title \[see Tables for classification\] may be cited as the 'American Inventors Protection Act of 1999'."
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle A, §4101\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that: "This subtitle \[enacting section 297 of this title and provisions set out as a note under section 297 of this title\] may be cited as the 'Inventors' Rights Act of 1999'."
+Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle A, §4101\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, providedthat: "This subtitle \[enacting section 297 of this title and provisions set out as a note under section 297 of this title\] may be cited as the 'Inventors' Rights Act of 1999'."
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle B, §4201\], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, provided that: "This subtitle \[amending sections 41 and 42 of this title and enacting provisions set out as notes under section 41 of this title and section 1113 of Title 15, Commerce and Trade\] may be cited as the 'Patent and Trademark Fee Fairness Act of 1999'."
 
@@ -138,7 +142,7 @@ Legal Documents.—All orders, determinations, rules, regulations, permits, gran
 
 "(b)
 
-Proceedings.—This subtitle shall not affect any proceedings or any application for any benefits, service, license, permit, certificate, or financial assistance pending on the effective date of this subtitle \[see Effective Date of 1999 Amendment note above\] before an office transferred by this subtitle, but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this subtitle had not been enacted, and orders issued in any such proceeding shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be considered to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subtitle had not been enacted.
+Proceedings.—This subtitle shall not affect any proceedings or any application for any benefits, service, license, permit, certificate, or financial assistance pending on the effective date of this subtitle \[see Effective Date of 1999 Amendment note above\] before an office transferred by this subtitle, but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this subtitle had not been enacted, and orders issued in any such proceeding shall continue in effect until modified, terminated, superseded, or revokedby a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be considered to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subtitle had not been enacted.
 
 "(c)
 

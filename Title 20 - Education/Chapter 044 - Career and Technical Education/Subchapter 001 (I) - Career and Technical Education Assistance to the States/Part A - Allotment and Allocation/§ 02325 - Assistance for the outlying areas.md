@@ -24,7 +24,7 @@ From funds reserved pursuant to section 2321(a)(1)(A) of this title, the Secreta
 
 #### (2) Subsequent years
 
-&emsp;Subject to subsection (a), for the second fiscal year following August 12, 2006, and each subsequent year, the Secretary shall make a grant of the remainder of funds reserved pursuant to section 2321(a)(1)(A) of this title and subject to subsection (a), in equal proportion, to each of Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, to be used to provide direct career and technical educational services as described insubparagraphs (A) through (C) of paragraph (1).
+&emsp;Subject to subsection (a), for the second fiscal year following August 12, 2006, and each subsequent year, the Secretary shall make a grant of the remainder of funds reserved pursuant to section 2321(a)(1)(A) of this title and subject to subsection (a), in equal proportion, to each of Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, to be used to provide direct career and technical educational services as described in subparagraphs (A) through (C) of paragraph (1).
 
 #### (c) Limitation
 
@@ -34,11 +34,43 @@ The Pacific Region Educational Laboratory may use not more than 5 percent of the
 
 The Republic of Palau shall cease to be eligible to receive funding under this section upon entering into an agreement for an extension of United States educational assistance under the Compact of Free Association, unless otherwise provided in such agreement.
 
-(Pub. L. 88–210, title I, §115, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 706.)
+(Pub. L. 88–210, title I, §115, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 706; amended Pub. L. 115–224, title I, §114, July 31, 2018, 132 Stat. 1597.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–224, §4, title I, §114, July 31, 2018, 132 Stat. 1564, 1597, made amendments to this section, effective July 1, 2019. After July 1, 2019, this section will read as follows:</i>
+
+#### <i>§2325. Assistance for the outlying areas</i>
+
+#### <i>(a) Outlying areas</i>
+
+<i>From funds reserved pursuant to section 2321(a)(1)(A) of this title, the Secretary shall—</i>
+
+&emsp;<i>(1) make a grant in the amount of $660,000 to Guam;</i>
+
+&emsp;<i>(2) make a grant in the amount of $350,000 to each of American Samoa and the Commonwealth of the Northern Mariana Islands; and</i>
+
+&emsp;<i>(3) make a grant of $160,000 to the Republic of Palau, subject to subsection (b).</i>
+
+#### <i>(b) Restriction</i>
+
+<i>The Republic of Palau shall cease to be eligible to receive funding under this section upon entering into an agreement for an extension of United States educational assistance under the Compact of Free Association, unless otherwise provided in such agreement.</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 #### Prior Provisions
 
 A prior section 2325, Pub. L. 88–210, title I, §115, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3094, related to assistance for outlying areas, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2325, Pub. L. 88–210, title I, §115, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2449; amended Pub. L. 101–392, title I, §115, Sept. 25, 1990, 104 Stat. 770; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, §391(s)(3), Oct. 20, 1994, 108 Stat. 4024, related to State and local standards and measures, prior to the general amendment of this chapter by Pub. L. 105–332.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(3). Pub. L. 115–224, §114(1), substituted "subject to subsection (b)" for "subject to subsection (d)".
+
+Subsecs. (b) to (d). Pub. L. 115–224, §114(2), (3), redesignated subsec. (d) as (b) and struck out former subsecs. (b) and (c) which provided for grants of the remainder of funds reserved pursuant to section 2321(a)(1)(A) of this title and established a limitation on use.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 

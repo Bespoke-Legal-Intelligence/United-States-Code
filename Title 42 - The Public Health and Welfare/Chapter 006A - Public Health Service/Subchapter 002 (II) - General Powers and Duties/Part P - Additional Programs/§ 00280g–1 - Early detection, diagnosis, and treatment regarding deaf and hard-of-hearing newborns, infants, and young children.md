@@ -12,7 +12,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 &emsp;&emsp;(C) Programs and systems under this paragraph shall offer mechanisms that foster family-to-family and deaf and hard-of-hearing consumer-to-family supports.
 
-&emsp;(2) To continue to provide technical support to States, through one or more technical resource centers, to assist in further developingand enhancing State early hearing detection and intervention programs.
+&emsp;(2) To continue to provide technical support to States, through one or more technical resource centers, to assist in further developing and enhancing State early hearing detection and intervention programs.
 
 &emsp;(3) To identify or develop efficient models (educational and medical) to ensure that children who are identified as deaf or hard-of-hearing through screening receive follow-up by qualified early intervention providers or qualified health care providers (including those at medical homes for children), and referrals, as appropriate, including to early intervention services under part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\]. State agencies shall be encouraged to effectively increase the rate of such follow-up and referral.
 
@@ -136,7 +136,7 @@ For purposes of this section:
 
 #### (2) Technical assistance, data management, and applied research; Centers for Disease Control and Prevention
 
-&emsp;For the purpose of carrying out subsection (b)(1), there are authorized to be appropriated to the Centers for Disease Control and Prevention $10,800,000 for fiscal year 2018, $11,026,800 for fiscal year 2019, $11,302,470 for fiscal year 2020, $11,562,427 for fiscal year 2021, and $11,851,488 for fiscal year 2022.
+&emsp;For the purpose of carrying out subsection (b)(1), there are authorized to be appropriated to the Centers for Disease Control and Prevention $10,800,000 for fiscal year 2018, $11,026,800 for fiscal year 2019, $11,302,470 for fiscal year2020, $11,562,427 for fiscal year 2021, and $11,851,488 for fiscal year 2022.
 
 #### (3) Technical assistance, data management, and applied research; National Institute on Deafness and Other Communication Disorders
 
@@ -148,7 +148,7 @@ For purposes of this section:
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1)(A), (3), (c)(1)(B), and (e)(1)(C)(i), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsec. (c)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. TitlesV, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (c)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 
@@ -184,7 +184,7 @@ Subsec. (c)(3). Pub. L. 115–71, §2(d)(2), substituted "States—" for "States
 
 Subsec. (d). Pub. L. 115–71, §2(e), substituted "that do not" for "which do not" and "parent's" for "parents' " and struck out "newborn infants or young" after "hearing loss of".
 
-Subsec. (e)(1). Pub. L. 115–71, §2(f)(1), made extensive amendments to text and structure of par. (1). Prior to amendments, par. (1) read as follows: "The term 'audiologic evaluation' refers to procedures to assess the status of the auditory system; to establish the site of the auditory disorder; the type and degree of hearing loss, and the potential effects of hearing loss on communication; and to identify appropriate treatment and referral options. Referral options should include linkage to State coordinating agencies under part C of the Individuals with Disabilities Education Act or other appropriate agencies, medical evaluation, hearing aid/sensory aid assessment, audiologic rehabilitation treatment, national and local consumer, self-help, parent, and education organizations, and other family-centered services."
+Subsec. (e)(1). Pub. L. 115–71, §2(f)(1), made extensive amendments to text and structure of par. (1). Prior to amendments, par. (1) read as follows: "The term 'audiologic evaluation' refers to procedures to assess the status of the auditory system; to establish the site of the auditory disorder; the type and degree of hearing loss, and the potential effects of hearing loss on communication; and to identify appropriate treatment and referral options. Referral options should include linkage to State coordinating agencies under part C of the Individuals with Disabilities Education Act or otherappropriate agencies, medical evaluation, hearing aid/sensory aid assessment, audiologic rehabilitation treatment, national and local consumer, self-help, parent, and education organizations, and other family-centered services."
 
 Subsec. (e)(2). Pub. L. 115–71, §2(f)(4), made extensive amendments to text and structure of par. (2). Prior to amendments, par. (2) read as follows: "The term 'early intervention' refers to providing appropriate services for the child with hearing loss, including nonmedical services, and ensuring that families of the child are provided comprehensive, consumer-oriented information about the full range of family support, training, information services, and language and communication options and are given the opportunity to consider and obtain the full range of such appropriate services, educational and program placements, and other options for their child from highly qualified providers."
 

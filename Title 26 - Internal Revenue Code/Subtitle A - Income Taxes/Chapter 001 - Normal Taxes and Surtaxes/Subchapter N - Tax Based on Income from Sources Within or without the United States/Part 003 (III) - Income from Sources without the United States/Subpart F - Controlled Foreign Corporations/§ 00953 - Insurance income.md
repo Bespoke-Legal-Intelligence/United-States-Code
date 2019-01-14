@@ -204,7 +204,7 @@ For purposes of subsection (a)—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Earnings and profits of the foreign corporation accumulated in taxable years beginning before January 1, 1988, shall not be included in the gross income of the persons holding stock in such corporation by reason of subparagraph (A).
+&emsp;&emsp;&emsp;Earnings and profits of the foreign corporation accumulated in taxable years beginning before January 1, 1988, shall not beincluded in the gross income of the persons holding stock in such corporation by reason of subparagraph (A).
 
 #### (ii) Treatment of distributions
 
@@ -292,11 +292,11 @@ For purposes of this section—
 
 #### (ii) Applicable home country risks
 
-&emsp;&emsp;&emsp;The term "applicable home country risks" means risks in connection with property in, liability arising out of activity in, or the lives or health of residents of, the home country of the qualifying insurance company or qualifying insurance company branch, as the case may be, issuing or reinsuring the contract covering the risks.
+&emsp;&emsp;&emsp;The term "applicable home country risks" means risks in connection withproperty in, liability arising out of activity in, or the lives or health of residents of, the home country of the qualifying insurance company or qualifying insurance company branch, as the case may be, issuing or reinsuring the contract covering the risks.
 
 #### (C) Substantial activity requirements for cross border risks
 
-&emsp;&emsp;A contract issued by a qualifying insurance company or qualifying insurance company branch which covers risks other than applicable home country risks (as defined insubparagraph (B)(ii)) shall not be treated as an exempt contract unless such company or branch, as the case may be—
+&emsp;&emsp;A contract issued by a qualifying insurance company or qualifying insurance company branch which covers risks other than applicable home country risks (as defined in subparagraph (B)(ii)) shall not be treated as an exempt contract unless such company or branch, as the case may be—
 
 &emsp;&emsp;&emsp;(i) conducts substantial activity with respect to an insurance business in its home country, and
 
@@ -360,7 +360,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any policyholder, insured, annuitant, or beneficiary is a resident of the United States and such contract was marketed to such resident and was written to cover a risk outside the United States, or
 
-&emsp;&emsp;&emsp;(ii) the contract covers risks located within and without the United States and the qualifying insurance company or qualifying insurance company branch does not maintain such contemporaneous records, and file such reports, with respect to such contract as the Secretary may require,
+&emsp;&emsp;&emsp;(ii) the contract covers risks located within and without the United States and the qualifying insurance company or qualifying insurance company branch does not maintain such contemporaneousrecords, and file such reports, with respect to such contract as the Secretary may require,
 
 &emsp;&emsp;(E) the Secretary may prescribe rules for the allocation of contracts (and income from contracts) among 2 or more qualifying insurance company branches of a qualifying insurance company in order to clearly reflect the income of such branches, and
 
@@ -530,7 +530,7 @@ Pub. L. 113–295, div. A, title I, §134(c), Dec. 19, 2014, 128 Stat. 4019, pro
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–240, title III, §322(c), Jan. 2, 2013, 126 Stat. 2332, provided that: "The amendments made by thissection \[amending this section and section 954 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 2011, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends."
+Pub. L. 112–240, title III, §322(c), Jan. 2, 2013, 126 Stat. 2332, provided that: "The amendments made by this section \[amending this section and section 954 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 2011, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends."
 
 #### Effective Date of 2010 Amendment
 

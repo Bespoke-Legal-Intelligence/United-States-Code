@@ -6,7 +6,7 @@ The Secretary shall give priority in providing lines of credit under this subpar
 
 #### (b) Reservation of funds
 
-Not less than 5 percent of the amounts made available under section 31112(a)(2)(A) <sup>1</sup> may bereserved to carry out the activities described in subsection (a).
+Not less than 5 percent of the amounts made available under section 31112(a)(2)(A) <sup>1</sup> may be reserved to carry out the activities described in subsection (a).
 
 (Pub. L. 103–322, title III, §31116, Sept. 13, 1994, 108 Stat. 1885.)
 

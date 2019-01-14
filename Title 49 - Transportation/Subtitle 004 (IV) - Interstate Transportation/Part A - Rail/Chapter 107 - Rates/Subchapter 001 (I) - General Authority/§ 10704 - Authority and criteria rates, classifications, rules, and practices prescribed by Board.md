@@ -46,3 +46,7 @@ Subsec. (d). Pub. L. 114–110, §11(b), designated existing provisions as par. 
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of the ICC Termination Act of 1995".
 
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+

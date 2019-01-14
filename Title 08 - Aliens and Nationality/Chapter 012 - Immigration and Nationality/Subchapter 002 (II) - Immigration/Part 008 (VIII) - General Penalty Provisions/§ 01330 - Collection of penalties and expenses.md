@@ -54,7 +54,7 @@ Subsec. (b). Pub. L. 104–208, §382(a), amended subsec. (b) generally. Prior t
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(g)(4)(C) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(g)(4)(C) of Pub. L. 104–208 effective, with certain transitional provisions, on thefirst day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Pub. L. 104–208, div. C, title III, §382(c), Sept. 30, 1996, 110 Stat. 3009–651, provided that: "The amendments made by this section \[amending this section and section 1356 of this title\] shall apply to fines and penalties collected on or after the date of the enactment of this Act \[Sept. 30, 1996\]."
 

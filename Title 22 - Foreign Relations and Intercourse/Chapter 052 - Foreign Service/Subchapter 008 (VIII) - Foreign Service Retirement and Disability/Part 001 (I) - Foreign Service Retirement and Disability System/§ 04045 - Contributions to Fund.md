@@ -10,7 +10,7 @@
 
 &emsp;(B) The employing agency shall deduct and withhold from the basic pay of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who is qualified to have his annuity computed pursuant to section 8415(e) of title 5, an amount equal to that to be withheld from a law enforcement officer pursuant to section 8422(a)(2)(B) <sup>1</sup> of title 5, plus an amount equal to .25 percent of basic pay. The amounts so deducted shall be contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the employing agency from the appropriations or fund used for payment of the salary of the participant. The employing agency shall deposit in the Fund the amounts deducted and withheld from basic salary and amounts contributed by the employing agency.
 
-(3) For service as a special agent, paragraph (1) shall be applied by substituting for "7 percent" the percentage that applies to law enforcementofficers under section 8334(a)(1) of title 5, plus .25 percent.
+(3) For service as a special agent, paragraph (1) shall be applied by substituting for "7 percent" the percentage that applies to law enforcement officers under section 8334(a)(1) of title 5, plus .25 percent.
 
 #### (b) Consent to deduction; discharge and acquittance of claims and demands
 
@@ -94,7 +94,7 @@ Effective with respect to pay periods beginning after December 31, 1986, in admi
 
 #### References in Text
 
-Section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001, referred to in subsec. (a)(1), is section 101(a) \[title V, §505(h)\] of Pub. L. 106–346, which is set out as a note below.
+Section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001, referredto in subsec. (a)(1), is section 101(a) \[title V, §505(h)\] of Pub. L. 106–346, which is set out as a note below.
 
 Section 8422(a)(2) of title 5, referred to in subsec. (a)(2)(B), was amended by Pub. L. 105–33, title VII, §7001(b)(1)(A), Aug. 5, 1997, 111 Stat. 657, by striking out par. (2) and adding a new par. (2). As so amended, section 8422(a)(2)(B) of Title 5, Government Organization and Employees, no longer specifies the amount to be withheld from the basic pay of a law enforcement officer. However, provisions relating to the amount to be withheld from the basic pay of a law enforcement officer are contained elsewhere in section 8422.
 
@@ -106,7 +106,7 @@ The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 5
 
 <b>2012</b>—Subsec. (a)(2)(B). Pub. L. 112–96 substituted "section 8415(e)" for "section 8415(d)".
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–228, §322(a)(2)(C), which directed amendment of par. (1) by substituting "employing agency" for "Department" wherever appearing, was executed by making the substitution in two places in the last sentence but not in the second sentence where "Department" appears before "ofTransportation and Related Agencies Appropriations Act, 2001", to reflect the probable intent of Congress.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–228, §322(a)(2)(C), which directed amendment of par. (1) by substituting "employing agency" for "Department" wherever appearing, was executed by making the substitution in two places in the last sentence but not in the second sentence where "Department" appears before "of Transportation and Related Agencies Appropriations Act, 2001", to reflect the probable intent of Congress.
 
 Pub. L. 107–228, §322(a)(2)(A), substituted "7.25 percent" for "7 percent" and "The contribution by the employing agency shall be a percentage of basic salary equal to the percentage in effect under section 7001(d)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 22 U.S.C. 4045 note), and section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001 (as enacted by Public Law 106–346; 114 Stat. 1356A–54), plus .25 percent of basic salary, and shall be made" for "An equal amount shall be contributed by the Department".
 

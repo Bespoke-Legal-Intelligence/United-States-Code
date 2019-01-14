@@ -162,7 +162,7 @@ Pub. L. 85–866, title I, §30(c), Sept. 2, 1958, 72 Stat. 1631, as amended by 
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending thissection\] shall apply with respect to taxable years ending after March 15, 1956. The amendment made by subsection (b) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Sept. 2, 1958\], but only with respect to periods after such date.
+In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after March 15, 1956. The amendment made by subsection (b) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Sept. 2, 1958\], but only with respect to periods after such date.
 
 "(2)
 

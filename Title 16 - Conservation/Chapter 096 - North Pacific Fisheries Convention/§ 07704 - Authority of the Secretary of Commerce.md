@@ -16,7 +16,7 @@ Regulations promulgated under subsection (a) shall be applicable only to a perso
 
 #### (c) Additional authority
 
-The Secretary may conduct, and may request and utilize on a reimbursed or nonreimbursedbasis the assistance, services, personnel, equipment, and facilities of other Federal departments and agencies in—
+The Secretary may conduct, and may request and utilize on a reimbursed or nonreimbursed basis the assistance, services, personnel, equipment, and facilities of other Federal departments and agencies in—
 
 &emsp;(1) scientific, research, and other programs under this chapter;
 
@@ -36,7 +36,7 @@ The Secretary shall ensure the consistency, to the extent practicable, of fisher
 
 #### (1) In general
 
-&emsp;Regulations promulgated by the Secretary under this chapter shall be subject to judicial review to the extent authorized by, and in accordance with, chapter 7 of title 5 if a petition for such review is filed not later than 30 days after the date on which the regulations are promulgated.
+&emsp;Regulations promulgated by the Secretary under this chapter shall be subject to judicial review to the extent authorized by, and in accordance with, chapter 7 of title 5 if a petitionfor such review is filed not later than 30 days after the date on which the regulations are promulgated.
 
 #### (2) Responses
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Effectiveness, Generally.—The Secretary may enter into an operating agreement under this chapter for fiscal year 2006. Except asprovided in subsection (b), the agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each subsequent fiscal year through the end of fiscal year 2025.
+Effectiveness, Generally.—The Secretary may enter into an operating agreement under this chapter for fiscal year 2006. Except as provided in subsection (b), the agreement shall be effective only for 1 fiscal year, but shall be renewable, subject to the availability of appropriations, for each subsequent fiscal year through the end of fiscal year 2025.
 
 (b)
 

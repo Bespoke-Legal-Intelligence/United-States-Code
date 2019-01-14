@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) to assess the environmental effects of ballast water exchange on the diversity and abundance of native species in receiving estuarine, marine, and fresh waters of the United States; and
 
-&emsp;&emsp;(B) to identify areas within the waters of the United States and the exclusive economic zone, if any, where the exchange of ballast water does not pose a threat of infestation or spread of aquatic nuisance species in the Great Lakes and other waters of the United States.
+&emsp;&emsp;(B) to identify areas within the waters of the United States and the exclusive economic zone, if any, where the exchange of ballast water does not pose a threat of infestation or spread of aquatic nuisance speciesin the Great Lakes and other waters of the United States.
 
 #### (2) Biological study
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;The Task Force, in cooperation with the Secretary, shall conduct ecological surveys of the Chesapeake Bay, San Francisco Bay, and Honolulu Harbor and, as necessary, of other estuaries of national significance and other waters that the Task Force determines—
 
-&emsp;&emsp;&emsp;(i) to be highly susceptible to invasion by aquatic nuisance species resulting fromballast water operations and other operations of vessels; and
+&emsp;&emsp;&emsp;(i) to be highly susceptible to invasion by aquatic nuisance species resulting from ballast water operations and other operations of vessels; and
 
 &emsp;&emsp;&emsp;(ii) to require further study.
 
@@ -66,7 +66,7 @@
 
 #### (1) Ballast exchange
 
-&emsp;Not later than 18 months after November 29, 1990, and prior to the effective date of the regulations issued under section 4711(b) of this title, the Task Force shall submit a report to the Congress that presents the results of the study required under subsection (a)(1) and makes recommendations with respect to such regulations.
+&emsp;Not later than 18 months after November 29, 1990, and prior to the effective date of the regulations issued under section 4711(b) of this title (as in effect on the day before December 4, 2018), the Task Force shall submit a report to the Congress that presents the results of the study required under subsection (a)(1) and makes recommendations with respect to such regulations.
 
 #### (2) Biological and shipping studies
 
@@ -86,7 +86,7 @@ Out of amounts appropriated to carry out this subsection for a fiscal year, the 
 
 &emsp;(3) make available not to exceed $500,000 to fund research on aquatic nuisance species prevention and control for the Pacific Coast through grants, to be competitively awarded and subject to peer review, to universities and research institutions;
 
-&emsp;(4) make available not to exceed $500,000 to fund research on aquatic nuisance species prevention and control for the Atlantic Coast through grants, to be competitively awarded and subject to peer review, to universities and research institutions; and
+&emsp;(4) make available not to exceed $500,000 to fund research on aquatic nuisance species prevention and control for the Atlantic Coastthrough grants, to be competitively awarded and subject to peer review, to universities and research institutions; and
 
 &emsp;(5) make available not to exceed $750,000 to fund research on aquatic nuisance species prevention and control in the San Francisco Bay-Delta Estuary through grants, to be competitively awarded and subject to peer review, to universities and research institutions.
 
@@ -98,21 +98,103 @@ Out of amounts appropriated to carry out this subsection for a fiscal year, the 
 
 &emsp;&emsp;(A) ballasting practices;
 
-&emsp;&emsp;(B) compliance with the guidelines issued pursuant to section 4711(c) of this title; and
+&emsp;&emsp;(B) compliance with the guidelines issued pursuant to section 4711(c) of this title (as in effect on the day before December 4, 2018); and
 
 &emsp;&emsp;(C) any other information obtained by the Task Force under subsection (b).
 
-#### (2) Report
+#### (2) Ballast water reporting requirements
 
-&emsp;In consultation and cooperation with the Task Force and the Smithsonian Institution (acting through the Smithsonian Environmental Research Center), the Secretary shall prepare and submit to the Task Force and the Congress, on a biennial basis, a report that synthesizes and analyzes the data referred to in paragraph (1) relating to—
+#### (A) In general
 
-&emsp;&emsp;(A) ballast water delivery and management; and
+&emsp;&emsp;The owner or operator of a vessel subject to this chapter shall submit to the National Ballast Information Clearinghouse, by not later than 6 hours after the arrival of the vessel at a United States port or place of destination, the ballast water management report form approved by the Office of Management and Budget numbered OMB 1625–0069 (or a successor form), unless the vessel is operating exclusively on a voyage between ports or places within contiguous portions of a single Captain of the Port Zone.
 
-&emsp;&emsp;(B) invasions of aquatic nuisance species resulting from ballast water.
+#### (B) Multiple discharges
 
-(Pub. L. 101–646, title I, §1102, Nov. 29, 1990, 104 Stat. 4764; Pub. L. 104–332, §2(c), (g), (h)(1), Oct. 26, 1996, 110 Stat. 4081, 4091; Pub. L. 105–362, title XV, §1502(d), Nov. 10, 1998, 112 Stat. 3295.)
+&emsp;&emsp;The owner or operator of a vessel subject to this chapter may submit a single report under subparagraph (A) for multiple ballast water discharges within a single port or place of destination during the same voyage.
+
+#### (C) Advance report to States
+
+&emsp;&emsp;A State may require the owner or operator of a vessel subject to this chapter to submit directly to the State, or to an appropriate regional forum, a ballast water management report form—
+
+&emsp;&emsp;&emsp;(i) not later than 24 hours prior to arrival at a United States port or place of destination in the State, if the voyage of the vessel is anticipated to exceed 24 hours; or
+
+&emsp;&emsp;&emsp;(ii) before departing the port or place of departure, if the voyage of the vessel to the United States port or place of destination is not anticipated to exceed 24 hours.
+
+#### (3) Vessel reporting data
+
+#### (A) Dissemination to States
+
+&emsp;&emsp;On receipt of a ballast water management report under paragraph (2), the National Ballast Information Clearinghouse shall—
+
+&emsp;&emsp;&emsp;(i) in the case of a form submitted electronically, immediately disseminate the report to interested States; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a form submitted by means other than electronically, disseminate the report to interested States as soon as practicable.
+
+#### (B) Availability to public
+
+&emsp;&emsp;Not later than 30 days after the date of receipt of a ballast water management report under paragraph (2), the National Ballast Information Clearinghouse shall make the data in the report fully and readily available to the public in a searchable and fully retrievable electronic format.
+
+#### (4) Report
+
+#### (A) In general
+
+&emsp;&emsp;Not later than July 1, 2019, and annually thereafter, the Secretary shall prepare and submit a report in accordance with this paragraph.
+
+#### (B) Contents
+
+&emsp;&emsp;Each report under this paragraph shall synthesize and analyze the data described in paragraph (1) for the preceding 2-year period to evaluate nationwide status and trends relating to—
+
+&emsp;&emsp;&emsp;(i) ballast water delivery and management; and
+
+&emsp;&emsp;&emsp;(ii) invasions of aquatic nuisance species resulting from ballast water.
+
+#### (C) Development
+
+&emsp;&emsp;The Secretary shall prepare each report under this paragraph in consultation and cooperation with—
+
+&emsp;&emsp;&emsp;(i) the Task Force; and
+
+&emsp;&emsp;&emsp;(ii) the Smithsonian Institution (acting through the Smithsonian Environmental Research Center).
+
+#### (D) Submission
+
+&emsp;&emsp;The Secretary shall—
+
+&emsp;&emsp;&emsp;(i) submit each report under this paragraph to—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Task Force;
+
+&emsp;&emsp;&emsp;&emsp;(II) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+&emsp;&emsp;&emsp;(ii) make each report available to the public.
+
+#### (5) Working group
+
+&emsp;Not later than 1 year after December 4, 2018, the Secretary shall establish a working group, including members from the National Ballast Information Clearinghouse and States with ballast water management programs, to establish a process for compiling and readily sharing Federal and State commercial vessel reporting and enforcement data regarding compliance with this chapter.
+
+(Pub. L. 101–646, title I, §1102, Nov. 29, 1990, 104 Stat. 4764; Pub. L. 104–332, §2(c), (g), (h)(1), Oct. 26, 1996, 110 Stat. 4081, 4091; Pub. L. 105–362, title XV, §1502(d), Nov. 10, 1998, 112 Stat. 3295; Pub. L. 115–282, title IX, §903(a)(2)(B), (h)(1), Dec. 4, 2018, 132 Stat. 4354, 4362.)
+
+#### References in Text
+
+Section 4711 of this title (as in effect on the day before December 4, 2018), referred to in subsecs. (c)(1) and\(f)(1)(B), means section 4711 of this title as in effect prior to repeal by Pub. L. 115–282, title IX, §903(a)(2)(A)(i), Dec. 4, 2018, 132 Stat. 4354.
+
+This chapter, referred to in subsec. (f)(2), was in the original "this title", meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4701 of this title and Tables.
+
+This chapter, referred to in subsec. (f)(5), was in the original "this Act", which, to reflect the probable intent of Congress, was translated as reading "this title" meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–282, §903(a)(2)(B)(i), inserted "(as in effect on the day before December 4, 2018)" after "section 4711(b) of this title".
+
+Subsec. (f)(1)(B). Pub. L. 115–282, §903(a)(2)(B)(ii), inserted "(as in effect on the day before December 4, 2018)" after "section 4711(c) of this title".
+
+Subsec. (f)(2) to (5). Pub. L. 115–282, §903(h)(1), added pars. (2) to (5) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "In consultation and cooperation with the Task Force and the Smithsonian Institution (acting through the Smithsonian Environmental Research Center), the Secretary shall prepare and submit to the Task Force and the Congress, on a biennial basis, a report that synthesizes and analyzes the data referred to in paragraph (1) relating to—
+
+&emsp;"(A) ballast water delivery and management; and
+
+&emsp;"(B) invasions of aquatic nuisance species resulting from ballast water."
 
 <b>1998</b>—Subsec. (f)(2). Pub. L. 105–362 substituted "biennial basis" for "biannual basis" in introductory provisions.
 

@@ -18,7 +18,15 @@ Benefits and Assistance for Individuals Residing Outside the United States.—(1
 
 (c)
 
+Limitation.—Notwithstanding subsections (a) and (b), this section shall not apply to the provision of assistance under section 2102B of this title.
+
+(d)
+
 Regulations.—Benefits and assistance under this chapter by reason of this section shall be provided in accordance with such regulations as the Secretary may prescribe.
 
-(Added Pub. L. 110–289, div. B, title VI, §2602(a), July 30, 2008, 122 Stat. 2858.)
+(Added Pub. L. 110–289, div. B, title VI, §2602(a), July 30, 2008, 122 Stat. 2858; amended Pub. L. 115–177, §1(c)(2), June 1, 2018, 132 Stat. 1377.)
+
+#### Amendments
+
+<b>2018</b>—Subsecs. (c), (d). Pub. L. 115–177 added subsec. (c) and redesignated former subsec. (c) as (d).
 

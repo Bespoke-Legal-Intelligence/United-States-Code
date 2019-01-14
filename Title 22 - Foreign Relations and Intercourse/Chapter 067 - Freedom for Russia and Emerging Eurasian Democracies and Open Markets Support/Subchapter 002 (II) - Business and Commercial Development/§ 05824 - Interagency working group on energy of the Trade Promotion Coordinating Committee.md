@@ -1,6 +1,6 @@
 ### §5824. Interagency working group on energy of the Trade Promotion Coordinating Committee
 
-The Trade Promotion Coordinating Committee should utilize its interagency working groupon energy to assist United States energy sector companies to develop a long-term strategy for penetrating the energy market in the independent states of the former Soviet Union. The working group should—
+The Trade Promotion Coordinating Committee should utilize its interagency working group on energy to assist United States energy sector companies to develop a long-term strategy for penetrating the energy market in the independent states of the former Soviet Union. The working group should—
 
 &emsp;(1) work with officials from the independent states in creating an environment conducive to United States energy investment;
 

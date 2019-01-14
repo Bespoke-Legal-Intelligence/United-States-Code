@@ -10,7 +10,7 @@
 
 &emsp;(3) 25 percent of the charges for inpatient care, except that in no case may the charges for inpatient care for a patient exceed $535 per day during the period beginning on April 1, 2006, and ending on September 30, 2011. The Secretary of Defense may exempt a patient from paying such charges if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
 
-&emsp;(4) A member or former member of a uniformed service covered by this section by reason of section 1074(b) of this title, or an individual or family group of two or more persons covered by this section, may not be required to pay a total of more than $3,000 for health care received during any calendar year under a plan contracted for under section 1079(a) of this title.
+&emsp;(4) A member or former member of a uniformed service covered by this section by reason of section 1074(b) of this title, or an individual or family group of two or more persons covered by this section, may not be requiredto pay a total of more than $3,000 for health care received during any calendar year under a plan contracted for under section 1079(a) of this title.
 
 (c) Except as provided in subsection (d), the following persons are eligible for health benefits under this section:
 
@@ -128,7 +128,7 @@ Subsec. (d)(4). Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(1)(B)\]
 
 Subsec. (e). Pub. L. 104–201 substituted "inpatient medical care" for "benefits" in first sentence and "subsections (b) and (c) of section 1080" for "section 1080(b)" in last sentence.
 
-<b>1994</b>—Subsec. (d)(3). Pub. L. 103–337 added par. (3) and struck out former par. (3) which read as follows: "If a person described in paragraph (2) receives medical or dental care for which payment may be made under both title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) and a plan contracted for under subsection (a), the amount payable for that care under the plan may not exceed the difference between—
+<b>1994</b>—Subsec. (d)(3). Pub. L. 103–337 added par. (3) and struck out former par. (3) which read as follows: "If a person described in paragraph (2) receives medical or dental care for which payment may be made under bothtitle XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) and a plan contracted for under subsection (a), the amount payable for that care under the plan may not exceed the difference between—
 
 &emsp;"(A) the sum of any deductibles, coinsurance, and balance billing charges that would be imposed on the person if payment for that care were made solely under that title; and
 
@@ -136,7 +136,7 @@ Subsec. (e). Pub. L. 104–201 substituted "inpatient medical care" for "benefit
 
 <b>1993</b>—Subsec. (d). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–190, §704(a). See 1991 Amendment note below.
 
-Subsec. (e). Pub. L. 103–160 inserted at end "In addition, section 1080(b) of this title shall apply in making the determination whether to issue a nonavailability ofhealth care statement for a person covered by this section."
+Subsec. (e). Pub. L. 103–160 inserted at end "In addition, section 1080(b) of this title shall apply in making the determination whether to issue a nonavailability of health care statement for a person covered by this section."
 
 <b>1992</b>—Subsec. (b)(4). Pub. L. 102–484, §703(a), substituted "$7,500" for "$10,000".
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 100–456 applicable with respect to medical care received 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–180 applicable with respect to fiscal years beginning after September 30, 1987, see section 721(c) of Pub. L. 100–180, set out as a note under section 1079 of this title.
+Amendment by Pub. L. 100–180 applicable with respect to fiscal years beginning after September 30, 1987,see section 721(c) of Pub. L. 100–180, set out as a note under section 1079 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 99–145 applicable only with respect to dependents of memb
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–525 applicable only to health care furnished after Sept. 30, 1984, see section632(a)(3) of Pub. L. 98–525, set out as a note under section 1079 of this title.
+Amendment by Pub. L. 98–525 applicable only to health care furnished after Sept. 30, 1984, see section 632(a)(3) of Pub. L. 98–525, set out as a note under section 1079 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -276,5 +276,5 @@ Pub. L. 103–160, div. A, title VII, §704, Nov. 30, 1993, 107 Stat. 1687, prov
 
 #### Coverage of Care Provided Since September 30, 1991
 
-Pub. L. 102–484, div. A, title VII, §705(b), Oct. 23, 1992, 106 Stat. 2433, provided that: "Subsection (d) of section 1086 of title 10, United States Code, as added by section 704(a) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 105 Stat. 1401) and amended by subsection (a) of this section, shall apply with respect to health care benefits or services received after September 30, 1991, by a person described in subsection (d)(2) of such section 1086 if such benefits or services would have been covered under a plan contracted for under such section 1086."
+Pub. L. 102–484, div. A, title VII, §705(b), Oct. 23, 1992, 106 Stat. 2433, provided that: "Subsection (d) of section 1086 of title 10, United States Code, as added by section 704(a) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 105 Stat.1401) and amended by subsection (a) of this section, shall apply with respect to health care benefits or services received after September 30, 1991, by a person described in subsection (d)(2) of such section 1086 if such benefits or services would have been covered under a plan contracted for under such section 1086."
 

@@ -18,7 +18,7 @@ Designation.—(1) The Secretary of Defense, in coordination with the Secretarie
 
 Public-private Partnerships.—(1) To achieve one or more objectives set forth in paragraph (2), the Secretary may authorize and establish incentives for the Director of a Center to enter into public-private cooperative arrangements (in this section referred to as a "public-private partnership") to provide for any of the following:
 
-&emsp;(A) For employees of the Center, academia, private industry, State and local governments, or other entities outside the Department of Defense to perform (under contract, subcontract, or otherwise) work related to the capabilities of the Center, including any work that—
+&emsp;(A) For employees of the Center, academia, private industry, State and local governments,or other entities outside the Department of Defense to perform (under contract, subcontract, or otherwise) work related to the capabilities of the Center, including any work that—
 
 &emsp;&emsp;(i) involves one or more capabilities of the Center; and
 
@@ -88,9 +88,15 @@ Availability of Excess Capacities to Private-sector Partners.—Capacities of a 
 
 (f)
 
-Construction of Provision.—Nothing in this section may be construed to authorize a change, otherwise prohibited by law, from the performance of work at a Center by personnel of the Department of Defense to performance by a contractor.
+Use of Partnership Intermediaries to Promote Defense Research and Education.—(1) Subject to the approval of the Secretary or the head of the another department or agency of the Federal Government concerned, the Director of a Center may enter into a contract, memorandum of understanding or other transition with a partnership intermediary that provides for the partnership intermediary to perform services for the Department of Defense that increase the likelihood of success in the conduct of cooperative or joint activities of the Center with industry or academic institutions.
+
+(2) In this subsection, the term "partnership intermediary" means an agency of a State or local government, or a nonprofit entity owned in whole or in part by, chartered by, funded in whole or in part by, or operated in whole or in part by or on behalf of a State or local government, that assists, counsels, advises, evaluates, or otherwise cooperates with industry or academic institutions that need or can make demonstrably productive use of technology-related assistance from a Center.
 
 (g)
+
+Construction of Provision.—Nothing in this section may be construed to authorize a change, otherwise prohibited by law, from the performance of work at a Center by personnel of the Department of Defense to performance by a contractor.
+
+(h)
 
 Definitions.—In this section:
 
@@ -100,9 +106,13 @@ Definitions.—In this section:
 
 &emsp;(3) The term "science and technology reinvention laboratory" means a science and technology reinvention laboratory designated under section 1105 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 10 U.S.C. 2358 note).
 
-(Added Pub. L. 114–92, div. A, title II, §211(a), Nov. 25, 2015, 129 Stat. 764.)
+(Added Pub. L. 114–92, div. A, title II, §211(a), Nov. 25, 2015, 129 Stat. 764; amended Pub. L. 115–232, div. A, title II, §231, Aug. 13, 2018, 132 Stat. 1690.)
 
 #### Prior Provisions
 
 A prior section 2368, added Pub. L. 100–456, div. A, title VIII, §823(a)(1), Sept. 29, 1988, 102 Stat. 2018; amended Pub. L. 101–189, div. A, title VIII, §841(c)(1), Nov. 29, 1989, 103 Stat. 1514; Pub. L. 102–25, title VII, §701(g)(1), Apr. 6, 1991, 105 Stat. 115, which authorized studies in fields of research and development essential to development of critical technologies, was repealed by Pub. L. 102–190, div. A, title VIII, §821(c)(1), Dec. 5, 1991, 105 Stat. 1431.
+
+#### Amendments
+
+<b>2018</b>—Subsecs. (f) to (h). Pub. L. 115–232 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 

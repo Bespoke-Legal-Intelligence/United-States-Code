@@ -8,7 +8,7 @@
 
 > because of military or other reasons which create imminent danger to life or property, or adverse living conditions which seriously affect the health, safety, or accommodations of the immediate family, Government funds may be used to transport his immediate family and household goods, personal effects, and family household pets, under regulations prescribed by the head of the agency, to a location designated by the employee. When circumstances prevent the employee from designating a location, or it is administratively impracticable to determine his intent, the immediate family may designate the location. When the designated location is inside a zone to which movement of families is prohibited under this subsection, the employee or his immediate family may designate an alternate location.
 
-(b) When the employee is assigned to a duty station from which his immediate family is not excluded by the restrictions in subsection (a) of this section, Government funds may be used to transport his immediate family and household goods and personal effects from the designated or alternate location to the duty station.
+(b) When the employee is assigned to a duty station from which his immediate family is not excluded by the restrictions in subsection (a) of this section, Government funds may be used totransport his immediate family and household goods and personal effects from the designated or alternate location to the duty station.
 
 (c)(1) The expenses authorized under subsection (a) shall, with respect to the transport of family household pets, include the expenses for the shipment of and the payment of any quarantine costs for such pets.
 

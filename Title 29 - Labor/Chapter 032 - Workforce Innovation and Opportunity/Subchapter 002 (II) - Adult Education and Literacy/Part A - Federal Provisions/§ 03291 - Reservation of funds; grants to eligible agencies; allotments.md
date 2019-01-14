@@ -74,7 +74,7 @@ For the purpose of subsection (c)(2), the term "qualifying adult" means an adult
 
 #### (g) Reallotment
 
-The portion of any eligible agency's allotment under this subchapter for a fiscal year that the Secretary determines will not be required for the period such allotment is available for carrying out activities under this subchapter, shall be available for reallotment from time to time, on such dates during such period as the Secretary shall fix, to other eligible agencies in proportion to the original allotments to such agencies under this subchapter for such year.
+The portion of any eligible agency's allotment under this subchapter for a fiscal year that theSecretary determines will not be required for the period such allotment is available for carrying out activities under this subchapter, shall be available for reallotment from time to time, on such dates during such period as the Secretary shall fix, to other eligible agencies in proportion to the original allotments to such agencies under this subchapter for such year.
 
 (Pub. L. 113–128, title II, §211, July 22, 2014, 128 Stat. 1612.)
 

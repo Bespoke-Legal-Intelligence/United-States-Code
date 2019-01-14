@@ -56,7 +56,7 @@ A former spouse is not entitled to an annuity under this section if—
 
 #### (B) Retroactive benefits
 
-&emsp;&emsp;Upon approval of an application under subparagraph (A), the appropriate annuity shall be payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to an annuity under this section, but in no event shall an annuity be payable under this section with respect to any period before December 2, 1987.
+&emsp;&emsp;Upon approval of an application under subparagraph (A), the appropriate annuity shallbe payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to an annuity under this section, but in no event shall an annuity be payable under this section with respect to any period before December 2, 1987.
 
 #### (d) Restoration of annuities
 
@@ -81,4 +81,8 @@ Subsec. (c)(4)(A). Pub. L. 103–178, §202(a)(7)(B), substituted "June 2, 1990"
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
+
+#### Effective Date
+
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.
 

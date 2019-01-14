@@ -24,7 +24,7 @@ A court ruling denying a motion or application under this section shall not be d
 
 #### (e) Sole judicial remedy available to customer
 
-The challenge procedures of this chapter constitute the sole judicial remedy available to a customer to oppose disclosure of financial records pursuant to this chapter.
+The challenge procedures of this chapter constitute the sole judicial remedy available to acustomer to oppose disclosure of financial records pursuant to this chapter.
 
 #### (f) Affect on challenges by financial institutions
 

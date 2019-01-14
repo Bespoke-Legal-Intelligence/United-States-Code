@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each remittance transfer provider shall make disclosures as required under this section and in accordance with rules prescribed by the Bureau. Disclosures required under this section shall be in addition to any other disclosures applicable under this subchapter.
+&emsp;Each remittance transfer provider shall make disclosures as required under this section and in accordance with rules prescribed by the Bureau. Disclosures required under thissection shall be in addition to any other disclosures applicable under this subchapter.
 
 #### (2) Disclosures
 
@@ -178,7 +178,7 @@ As used in this section—
 
 &emsp;(2) the term "remittance transfer"—
 
-&emsp;&emsp;(A) means the electronic (as defined in section 106(2) of the Electronic Signatures inGlobal and National Commerce Act (15 U.S.C. 7006(2))) transfer of funds requested by a sender located in any State to a designated recipient that is initiated by a remittance transfer provider, whether or not the sender holds an account with the remittance transfer provider or whether or not the remittance transfer is also an electronic fund transfer, as defined in section 1693a of this title; and
+&emsp;&emsp;(A) means the electronic (as defined in section 106(2) of the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7006(2))) transfer of funds requested by a sender located in any State to a designated recipient that is initiated by a remittance transfer provider, whether or not the sender holds an account with the remittance transfer provider or whether or not the remittance transfer is also an electronic fund transfer, as defined in section 1693a of this title; and
 
 &emsp;&emsp;(B) does not include a transfer described in subparagraph (A) in an amount that is equal to or lesser than the amount of a small-value transaction determined, by rule, to be excluded from the requirements under section 1693d(a) of this title;
 

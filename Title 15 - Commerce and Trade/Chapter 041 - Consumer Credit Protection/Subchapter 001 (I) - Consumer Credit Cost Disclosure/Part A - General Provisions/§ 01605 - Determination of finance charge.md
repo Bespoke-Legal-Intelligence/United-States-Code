@@ -56,7 +56,7 @@ The following items, when charged in connection with any extension of credit sec
 
 #### (f) Tolerances for accuracy
 
-In connection with credit transactions not under an open end credit plan that are securedby real property or a dwelling, the disclosure of the finance charge and other disclosures affected by any finance charge—
+In connection with credit transactions not under an open end credit plan that are secured by real property or a dwelling, the disclosure of the finance charge and other disclosures affected by any finance charge—
 
 &emsp;(1) shall be treated as being accurate for purposes of this subchapter if the amount disclosed as the finance charge—
 
@@ -116,7 +116,7 @@ Pub. L. 104–29, §2(b)(2), Sept. 30, 1995, 109 Stat. 271, provided that: "The 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with allregulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Regulations
 

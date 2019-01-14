@@ -74,7 +74,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A person that has discontinued participation in the biosimilar biological product development program for a product under subparagraph (C) shall, if the person seeks to resume participation in such program, pay a fee (referred to in this section as "reactivation fee") by the earlier of the following:
+&emsp;&emsp;&emsp;A person that has discontinued participation in the biosimilar biological product development program for a product undersubparagraph (C) shall, if the person seeks to resume participation in such program, pay a fee (referred to in this section as "reactivation fee") by the earlier of the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) Not later than 5 days after the Secretary grants a request by such person for a biosimilar biological product development meeting for the product (after the date on which such participation was discontinued).
 
@@ -124,7 +124,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (A) In general
 
-&emsp;&emsp;Each person that submits, on or after October 1, 2017, a biosimilar biological productapplication shall be subject to the following fees:
+&emsp;&emsp;Each person that submits, on or after October 1, 2017, a biosimilar biological product application shall be subject to the following fees:
 
 &emsp;&emsp;&emsp;(i) A fee established under subsection (c)(5) for a biosimilar biological product application for which clinical data (other than comparative bioavailability studies) with respect to safety or effectiveness are required for approval.
 
@@ -210,7 +210,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (2) Subsequent fiscal years
 
-&emsp;For each of the fiscal years 2019 through 2022, fees under subsection (a) shall, except asprovided in subsection (c), be established to generate a total revenue amount equal to the sum of—
+&emsp;For each of the fiscal years 2019 through 2022, fees under subsection (a) shall, except as provided in subsection (c), be established to generate a total revenue amount equal to the sum of—
 
 &emsp;&emsp;(A) the annual base revenue for the fiscal year (as determined under paragraph (4));
 
@@ -238,7 +238,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (C) Biosimilar biological product development fees
 
-&emsp;&emsp;The initial biosimilar biological product development fee under subsection (a)(1)(A) for a fiscal year shall be equal to the annual biosimilar biological product development fee under subsection (a)(1)(B) for that fiscal year.
+&emsp;&emsp;The initial biosimilar biological product development fee under subsection (a)(1)(A)for a fiscal year shall be equal to the annual biosimilar biological product development fee under subsection (a)(1)(B) for that fiscal year.
 
 #### (D) Reactivation fee
 
@@ -374,7 +374,7 @@ A biosimilar biological product application or supplement submitted by a person 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The fees authorized by this section shall be available for a fiscal year beginning after fiscal year 2012 to defray the costs of the process for the review of biosimilar biological product applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the Secretary allocates for such purpose an amount for such fiscal year (excluding amounts from fees collected under this section) no less than $20,000,000, multiplied by the adjustment factor applicable to the fiscal year involved.
+&emsp;&emsp;&emsp;The fees authorized by this section shall be available for a fiscal year beginning after fiscal year 2012 to defray the costs of the process for the review of biosimilar biological product applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the Secretary allocates for such purpose anamount for such fiscal year (excluding amounts from fees collected under this section) no less than $20,000,000, multiplied by the adjustment factor applicable to the fiscal year involved.
 
 #### (ii) Leasing and necessary equipment
 

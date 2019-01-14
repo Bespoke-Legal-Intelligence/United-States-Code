@@ -44,7 +44,7 @@ Responsibilities.—(1) The Council shall be responsible for oversight of the co
 
 (e)
 
-Annual Reports.—During the period preceding January 31, 2021, at the same time each year that the budget of the President is submitted to Congress pursuant to section 1105(a) oftitle 31, and from time to time after such period at the discretion of the Council, the Council shall submit to the congressional defense committees a report on the activities of the Council. Each report shall include the following:
+Annual Reports.—During the period preceding January 31, 2021, at the same time each year that the budget of the President is submitted to Congress pursuant to section 1105(a) of title 31, and from time to time after such period at the discretion of the Council, the Council shall submit to the congressional defense committees a report on the activities of the Council. Each report shall include the following:
 
 &emsp;(1) A description and assessment of the activities of the Council during the previous fiscal year.
 

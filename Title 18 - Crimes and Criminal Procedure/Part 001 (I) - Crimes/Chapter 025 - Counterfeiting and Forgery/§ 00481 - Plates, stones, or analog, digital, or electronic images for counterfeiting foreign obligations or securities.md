@@ -1,6 +1,6 @@
 ### §481. Plates, stones, or analog, digital, or electronic images for counterfeiting foreign obligations or securities
 
-Whoever, within the United States except by lawful authority, controls, holds, or possesses any plate, stone, or other thing, or any part thereof, from which has been printed or may be printed any counterfeit note, bond, obligation, or other security, in whole or in part, of any foreign government, bank, or corporation, or uses such plate, stone, or other thing, or knowingly permits or suffers the same to be used in counterfeiting such foreign obligations, or any part thereof; or
+Whoever, within the United States except by lawful authority, controls, holds, or possesses any plate, stone, or other thing, or any part thereof, from which has been printed or may be printed any counterfeit note, bond, obligation, or other security, in whole or in part, of any foreign government, bank, or corporation, or usessuch plate, stone, or other thing, or knowingly permits or suffers the same to be used in counterfeiting such foreign obligations, or any part thereof; or
 
 Whoever, except by lawful authority, makes or engraves any plate, stone, or other thing in the likeness or similitude of any plate, stone, or other thing designated for the printing of the genuine issues of the obligations of any foreign government, bank, or corporation; or
 
@@ -12,7 +12,7 @@ Whoever brings into the United States any counterfeit plate, stone, or other thi
 
 Shall be fined under this title or imprisoned not more than 25 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994,108 Stat. 2147; Pub. L. 107–56, title III, §375(d)(1)–(3), Oct. 26, 2001, 115 Stat. 341.)
+(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, §375(d)(1)–(3), Oct. 26, 2001, 115 Stat. 341.)
 
 #### Historical and Revision Notes
 

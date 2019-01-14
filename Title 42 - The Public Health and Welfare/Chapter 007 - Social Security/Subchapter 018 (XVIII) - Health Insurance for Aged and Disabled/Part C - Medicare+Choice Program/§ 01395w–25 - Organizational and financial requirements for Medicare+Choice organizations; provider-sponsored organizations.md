@@ -78,7 +78,7 @@
 
 #### (ii) Incorporation into contract
 
-&emsp;&emsp;&emsp;In the case of such a waiver granted to an organization with respect to a State, the Secretary shall incorporate the requirement that the organization (and Medicare+Choice plans it offers) comply with standards under clause (i) as part of the contract between the Secretary and the organization under section 1395w–27 of this title.
+&emsp;&emsp;&emsp;In the case of such a waiver granted to an organization with respect to a State, the Secretary shall incorporate the requirement that the organization (andMedicare+Choice plans it offers) comply with standards under clause (i) as part of the contract between the Secretary and the organization under section 1395w–27 of this title.
 
 #### (iii) Enforcement
 
@@ -164,7 +164,7 @@ The Medicare+Choice organization shall assume full financial risk on a prospecti
 
 &emsp;&emsp;(A) any individual who is engaged in the delivery of health care services in a State and who is required by State law or regulation to be licensed or certified by the State to engage in the delivery of such services in the State, and
 
-&emsp;&emsp;(B) any entity that is engaged in the delivery of health care services in a State andthat, if it is required by State law or regulation to be licensed or certified by the State to engage in the delivery of such services in the State, is so licensed.
+&emsp;&emsp;(B) any entity that is engaged in the delivery of health care services in a State and that, if it is required by State law or regulation to be licensed or certified by the State to engage in the delivery of such services in the State, is so licensed.
 
 #### (6) Regulations
 

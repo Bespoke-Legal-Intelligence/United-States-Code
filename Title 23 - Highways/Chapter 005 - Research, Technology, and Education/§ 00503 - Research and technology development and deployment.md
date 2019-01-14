@@ -380,7 +380,7 @@ Technology and Innovation Deployment Program.—
 
 &emsp;(1)
 
-In general.—The Secretary shall carry out a technology and innovation deploymentprogram relating to all aspects of highway transportation, including planning, financing, operation, structures, materials, pavements, environment, construction, and the duration of time between project planning and project delivery, with the goals of—
+In general.—The Secretary shall carry out a technology and innovation deployment program relating to all aspects of highway transportation, including planning, financing, operation, structures, materials, pavements, environment, construction, and the duration of time between project planning and project delivery, with the goals of—
 
 &emsp;&emsp;(A) significantly accelerating the adoption of innovative technologies by the surface transportation community;
 
@@ -398,7 +398,7 @@ Implementation.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall promote, facilitate, and carry out the program established under paragraph (1) to distribute the products, technologies, tools, methods, or other findings that result from highway research and development activities, including research and development activities carried out under this chapter.
+In general.—The Secretary shall promote, facilitate, and carry out the program established under paragraph (1) to distribute the products, technologies, tools, methods,or other findings that result from highway research and development activities, including research and development activities carried out under this chapter.
 
 &emsp;&emsp;(B)
 
@@ -496,7 +496,7 @@ Criteria.—The Secretary shall develop criteria for selection of an eligible en
 
 &emsp;&emsp;&emsp;(v) collect, disseminate, and use real-time traffic, transit, parking, and other transportation-related information to improve mobility, reduce congestion, and provide for more efficient and accessible transportation;
 
-&emsp;&emsp;&emsp;(vi) monitor transportation assets to improve infrastructure management, reduce maintenance costs, prioritize investment decisions, and ensure a state of good repair;
+&emsp;&emsp;&emsp;(vi) monitor transportation assets to improve infrastructure management, reducemaintenance costs, prioritize investment decisions, and ensure a state of good repair;
 
 &emsp;&emsp;&emsp;(vii) deliver economic benefits by reducing delays, improving system performance, and providing for the efficient and reliable movement of goods and services; or
 
@@ -580,7 +580,7 @@ Use of grant funds.—A grant recipient may use funds awarded under this paragra
 
 &emsp;&emsp;(F)
 
-Report to secretary.—For each eligible entity that receives a grant under this paragraph, not later than 1 year after theentity receives the grant, and each year thereafter, the entity shall submit a report to the Secretary that describes—
+Report to secretary.—For each eligible entity that receives a grant under this paragraph, not later than 1 year after the entity receives the grant, and each year thereafter, the entity shall submit a report to the Secretary that describes—
 
 &emsp;&emsp;&emsp;(i) deployment and operational costs of the project compared to the benefits and savings the project provides; and
 
@@ -682,7 +682,7 @@ Eligible entity.—The term "eligible entity" means a State or local government,
 
 &emsp;&emsp;&emsp;(ii)
 
-Advanced and congestion management transportation technologies.—Theterm "advanced transportation and congestion management technologies" means technologies that improve the efficiency, safety, or state of good repair of surface transportation systems, including intelligent transportation systems.
+Advanced and congestion management transportation technologies.—The term "advanced transportation and congestion management technologies" means technologies that improve the efficiency, safety, or state of good repair of surface transportation systems, including intelligent transportation systems.
 
 &emsp;&emsp;&emsp;(iii)
 

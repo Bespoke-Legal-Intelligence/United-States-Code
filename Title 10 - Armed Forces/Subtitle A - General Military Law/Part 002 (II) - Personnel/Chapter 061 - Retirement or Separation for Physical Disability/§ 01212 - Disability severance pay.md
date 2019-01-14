@@ -22,7 +22,7 @@
 
 (d)(1) The amount of disability severance pay received under this section shall be deducted from any compensation for the same disability to which the former member of the armed forces or his dependents become entitled under any law administered by the Department of Veterans Affairs.
 
-(2) No deduction may be made under paragraph (1) in the case of disability severance pay received by a member for a disability incurred in line of duty in a combat zone or incurred during performance of duty in combat-related operations as designated by the Secretary of Defense.
+(2) No deduction may be made under paragraph (1) in the case of disability severance payreceived by a member for a disability incurred in line of duty in a combat zone or incurred during performance of duty in combat-related operations as designated by the Secretary of Defense.
 
 (3) No deduction may be made under paragraph (1) from any death compensation to which a member's dependents become entitled after the member's death.
 

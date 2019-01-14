@@ -12,7 +12,7 @@ Requirements for Budget Display.—In the defense budget materials for any fisca
 
 (b)
 
-Additional Requirements.—For purposes of subsection (a)(2), the amounts requested for development, prototyping, and experimentation of weapon system components or other technologies shall be—
+Additional Requirements.—For purposes of subsection (a)(2), the amounts requested fordevelopment, prototyping, and experimentation of weapon system components or other technologies shall be—
 
 &emsp;(1) structured into either capability, weapon system component, or technology portfolios that reflect the priority areas for prototype projects; and
 
@@ -22,7 +22,25 @@ Additional Requirements.—For purposes of subsection (a)(2), the amounts reques
 
 Definitions.—In this section, the terms "budget" and "defense budget materials" have the meaning given those terms in section 234 of this title.
 
-(Added Pub. L. 114–328, div. A, title VIII, §806(a)(1), Dec. 23, 2016, 130 Stat. 2256.)
+(Added Pub. L. 114–328, div. A, title VIII, §806(a)(1), Dec. 23, 2016, 130 Stat. 2256; amended Pub. L. 115–232, div. A, title VIII, §836(e)(8), Aug. 13, 2018, 132 Stat. 1870.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(e)(8), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)(2), by striking "commercial items and technologies" and inserting "commercial products and technologies"; and</i>
+
+<i>(2) in subsection (c), by inserting before the period at the end the following: "and the term 'commercial product' has the meaning given that term in section 103 of title 41".</i>
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(2). Pub. L. 115–232, §836(e)(8)(A), substituted "commercial products and technologies" for "commercial items and technologies".
+
+Subsec. (c). Pub. L. 115–232, §836(e)(8)(B), inserted before period at end "and the term 'commercial product' has the meaning given that term in section 103 of title 41".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
 #### Effective Date
 

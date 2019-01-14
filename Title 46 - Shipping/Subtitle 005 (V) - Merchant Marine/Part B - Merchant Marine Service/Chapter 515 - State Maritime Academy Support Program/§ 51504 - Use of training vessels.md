@@ -54,13 +54,33 @@ Maximum amounts.—The amount of the payment to a State maritime academy under p
 
 (g)
 
-Removing Vessels From Service and Vessel Sharing.—The Secretary may not—
+Vessel Sharing.—
 
-&emsp;(1) take a vessel, currently in use as a training vessel under this section, out of service to implement an alternative program (including vessel sharing) unless the vessel is incapable of being maintained in good repair as required by subsection (d); or
+&emsp;(1)
 
-&emsp;(2) implement a program requiring a State maritime academy to share its training vessel with another State maritime academy, except with the express consent of Congress.
+In general.—Not later than 90 days after the date of enactment of the National Defense Authorization Act for Fiscal Year 2019, the Secretary, acting through the Maritime Administrator, shall upon consultation with the maritime academies, and to the extent feasible with the consent of the maritime academies, implement a program of training vessel sharing, requiring maritime academies to share training vessel <sup>1</sup> provided by the Secretary among maritime academies, as necessary to ensure that training needs of each academy are met.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1577; Pub. L. 109–163, div. C, title XXXV, §3502(b), Jan. 6, 2006, 119 Stat. 3548; Pub. L. 110–181, div. C, title XXXV, §3523(a)(2), (b), Jan. 28, 2008, 122 Stat. 599, 600.)
+&emsp;(2)
+
+Program of vessel sharing.—For purposes of this subsection, a program of vessel sharing shall include—
+
+&emsp;&emsp;(A) ways to maximize the available underway training available in the fleet of training vessels;
+
+&emsp;&emsp;(B) coordinating the dates and duration of training cruises with the academic calendars of maritime academies;
+
+&emsp;&emsp;(C) coordinating academic programs designed to be implemented aboard training vessels among maritime academies; and
+
+&emsp;&emsp;(D) identifying ways to minimize costs.
+
+&emsp;(3)
+
+Additional funding.—Subject to the availability of appropriations, the Maritime Administrator may provide additional funding to State maritime academies during periods of limited training vessel capacity, for costs associated with training vessel sharing.
+
+&emsp;(4)
+
+Evaluation.—Not later than 30 days after the beginning of each fiscal year, the Secretary, acting through the Maritime Administrator, shall evaluate the vessel sharing program under this subsection to determine the optimal utilization of State maritime training vessels, and modify the program as necessary to improve utilization.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1577; Pub. L. 109–163, div. C, title XXXV, §3502(b), Jan. 6, 2006, 119 Stat. 3548; Pub. L. 110–181, div. C, title XXXV, §3523(a)(2), (b), Jan. 28, 2008, 122 Stat. 599, 600; Pub. L. 115–232, div. C, title XXXV, §3505, Aug. 13, 2018, 132 Stat. 2308.)
 
 Historical and Revision Notes
 
@@ -122,11 +142,19 @@ In subsection (e), before paragraph (1), the word "agency" is substituted for "d
 
 In subsection (g), the 1st–3d sentences of section 4 of Public Law 101–115 are omitted as obsolete.
 
+#### References in Text
+
+The date of enactment of the National Defense Authorization Act for Fiscal Year 2019, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 115–232, which was approved Aug. 13, 2018.
+
 #### Amendments
+
+<b>2018</b>—Subsec. (g). Pub. L. 115–232 amended subsec. (g) generally. Prior to amendment, subsec. (g) related to removing vessels from service and vessel sharing.
 
 <b>2008</b>—Pub. L. 110–181, §3523(b), repealed Pub. L. 109–163, §3502(b). See 2006 Amendment note below.
 
 Subsec. (f). Pub. L. 110–181, §3523(a)(2), incorporated the substance of the amendment by Pub. L. 109–163, §3502(b), by amending heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "The Secretary may pay to a State maritime academy the costs of fuel used by a vessel provided under this section while used for training." See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 <b>2006</b>—Pub. L. 109–163, §3502(b), which directed the amendment of section 1295c(c)(2) of the former Appendix to this title from which subsec. (f) of this section was derived, was repealed by Pub. L. 110–181, §3523(b). See 2008 Amendment note for subsec. (f) and Historical and Revision notes above.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "vessels".</i>
 

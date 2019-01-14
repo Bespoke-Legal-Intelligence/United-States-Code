@@ -12,7 +12,7 @@
 
 &emsp;(C) related to the maintenance of security systems for the Capitol buildings and grounds.
 
-(3) All annual leave and sick leave standing to the credit of an individual immediately before such individual is transferred under paragraph\(1) shall be credited to such individual, without adjustment, in the new position of the individual.
+(3) All annual leave and sick leave standing to the credit of an individual immediately before such individual is transferred under paragraph (1) shall be credited to such individual, without adjustment, in the new position of the individual.
 
 (Pub. L. 104–197, title III, §308, Sept. 16, 1996, 110 Stat. 2413.)
 

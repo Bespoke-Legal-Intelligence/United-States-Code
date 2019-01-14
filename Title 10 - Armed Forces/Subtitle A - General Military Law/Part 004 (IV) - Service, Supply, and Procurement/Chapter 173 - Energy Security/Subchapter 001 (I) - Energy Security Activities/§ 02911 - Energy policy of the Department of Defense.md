@@ -8,17 +8,23 @@ General Energy Policy.—The Secretary of Defense shall ensure the readiness of 
 
 Authorities.—In order to achieve the policy set forth in subsection (a), the Secretary of Defense may—
 
-&emsp;(1) require the Secretary of a military department to establish and maintain an energy resilience master plan for an installation;
+&emsp;(1) establish metrics and standards for the assessment of energy resilience;
 
-&emsp;(2) authorize the use of energy security and energy resilience, including the benefits of on-site generation resources that reduce or avoid the cost of backup power, as factors in the cost-benefit analysis for procurement of energy; and
+&emsp;(2) require the Secretary of a military department to perform mission assurance and readiness assessments of energy power systems for mission critical assets and supporting infrastructure, applying uniform mission standards established by the Secretary of Defense;
 
-&emsp;(3) in selecting facility energy projects that will use renewable energy sources, pursue energy security and energy resilience by giving favorable consideration to projects that provide power directly to a military facility or into the installation electrical distribution network.
+&emsp;(3) require the Secretary of a military department to establish and maintain an energy resilience master plan for an installation;
+
+&emsp;(4) authorize the use of energy security and energy resilience, including the benefits of on-site generation resources that reduce or avoid the cost of backup power, as factors in the cost-benefit analysis for procurement of energy; and
+
+&emsp;(5) in selecting facility energy projects that will use renewable energy sources, pursue energy security and energy resilience by giving favorable consideration to projects that provide power directly to a military facility or into the installation electrical distribution network.
 
 (c)
 
 Energy Performance Goals.—(1) The Secretary of Defense shall submit to the congressional defense committees the energy performance goals for the Department of Defense regarding transportation systems, support systems, utilities, and infrastructure and facilities.
 
 (2) The energy performance goals shall be submitted annually not later than the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31 and cover that fiscal year as well as the next five, l0, and 20 years. The Secretary shall identify changes to the energy performance goals since the previous submission.
+
+(3) The Secretary of Defense shall include the energy security and resilience goals of the Department of Defense in the installation energy report submitted under section 2925(a) of this title for fiscal year 2018 and every fiscal year thereafter. In the development of energy security and resilience goals, the Department of Defense shall conform with the definitions of energy security and resilience under this title. The report shall include the amount of critical energy load, together with the level of availability and reliability by fiscal year the Department of Defense deems necessary to achieve energy security and resilience.
 
 (d)
 
@@ -30,7 +36,7 @@ Energy Performance Master Plan.—(1) The Secretary of Defense shall develop a c
 
 &emsp;(B) The use of a baseline standard for the measurement of energy consumption by transportation systems, support systems, utilities, and facilities and infrastructure that is consistent for all of the military departments.
 
-&emsp;(C) A method of measurement of reductions or conservation in energy consumption that provides for the taking into account of changes in the current size of fleets, number of facilities, and overall square footage of facility plants.
+&emsp;(C) A method of measurement of reductions or conservation in energy consumption thatprovides for the taking into account of changes in the current size of fleets, number of facilities, and overall square footage of facility plants.
 
 &emsp;(D) Metrics to track annual progress in meeting energy performance goals.
 
@@ -106,17 +112,21 @@ Goal Regarding Use of Renewable Energy To Meet Facility Energy Needs.—(1) It s
 
 (D) Subparagraph (B) does not prohibit the Secretary of a military department from entering into an agreement outside of the centralized purchasing authority if the Secretary will obtain the best value by bundling the renewable energy certificates with the facility energy project through a power purchase agreement or other contractual mechanism at the installation.
 
-(E) Nothing in this paragraph shall be construed to authorize the purchase of renewable energy certificates to meet Federal goals or mandates in the absence of the development of a facility energy project using renewable energy sources.
+(E) Nothing in this paragraph shall be construed to authorize the purchase of renewableenergy certificates to meet Federal goals or mandates in the absence of the development of a facility energy project using renewable energy sources.
 
 (F) This policy does not make the purchase of renewable energy certificates mandatory, but the policy shall apply whenever original renewable energy certificates are proposed to be swapped for replacement renewable energy certificates.
 
-(Added and amended Pub. L. 109–364, div. B, title XXVIII, §§2851(a)(1), 2852, Oct. 17, 2006, 120 Stat. 2489, 2496; Pub. L. 111–84, div. B, title XXVIII, §2842, Oct. 28, 2009, 123 Stat. 2680; Pub. L. 111–383, div. B, title XXVIII, §§2831, 2832(a), Jan. 7, 2011, 124 Stat. 4467, 4468; Pub. L. 112–81, div. B, title XXVIII, §§2821(b)(1), 2822(b), 2823(a), 2824(a), 2825(b), Dec. 31, 2011, 125 Stat. 1691, 1692, 1694; Pub. L. 115–91, div. A, title III, §312, div. B, title XXVIII, §2831(a), Dec. 12, 2017, 131 Stat. 1348, 1857.)
+(Added and amended Pub. L. 109–364, div. B, title XXVIII, §§2851(a)(1), 2852, Oct. 17, 2006, 120 Stat. 2489, 2496; Pub. L. 111–84, div. B, title XXVIII, §2842, Oct. 28, 2009, 123 Stat. 2680; Pub. L. 111–383, div. B, title XXVIII, §§2831, 2832(a), Jan. 7, 2011, 124 Stat. 4467, 4468; Pub. L. 112–81, div. B, title XXVIII, §§2821(b)(1), 2822(b), 2823(a), 2824(a), 2825(b), Dec. 31, 2011, 125 Stat. 1691, 1692, 1694; Pub. L. 115–91, div. A, title III, §312, div. B, title XXVIII, §2831(a), Dec. 12, 2017, 131 Stat. 1348, 1857; Pub. L. 115–232, div. A, title III, §312(a), (b), Aug. 13, 2018, 132 Stat. 1709, 1710.)
 
 #### Codification
 
 Section 312 of Pub. L. 115–91 amended subsec. (c) of this section, and section 2831(a)(2) and (4) of Pub. L. 115–91 respectively redesignated subsec. (c) as (e) and made amendments substantially identical to those made by section 312. Text is based on the amendments made by section 2831(a)(4) of Pub. L. 115–91. See 2017 Amendment notes below.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–232, §312(a), added pars. (1) and (2) and redesignated former pars. (1) to (3) as (3) to (5), respectively.
+
+Subsec. (c)(3). Pub. L. 115–232, §312(b), added par. (3).
 
 <b>2017</b>—Pub. L. 115–91, §2831(a)(1), substituted "policy of" for "performance goals and master plan for" in section catchline.
 

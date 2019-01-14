@@ -58,7 +58,7 @@ In order for a State to qualify for assistance under this section, such State sh
 
 #### (2) Existing task force
 
-&emsp;As determined by the Secretary, a State commission or task force established after January 1, 1983, with substantially comparable membership and functions, may be consideredthe State task force for purposes of this subsection.
+&emsp;As determined by the Secretary, a State commission or task force established after January 1, 1983, with substantially comparable membership and functions, may be considered the State task force for purposes of this subsection.
 
 #### (d) State task force study
 
@@ -122,7 +122,7 @@ Subsec. (e)(1)(A). Pub. L. 111–320, §116(5)(A), substituted "including" for "
 
 Subsec. (e)(1)(B). Pub. L. 111–320, §116(5)(B), inserted a comma after "model" and substituted "improve the prompt and successful resolution of civil and criminal court proceedings or enhance the effectiveness of judicial and administrative action in child abuse and neglect cases, particularly child sexual abuse and exploitation cases, including the enhancement of performance of court-appointed attorneys and guardians ad litem for children" for "improve the rate of successful prosecution or enhance the effectiveness of judicial and administrative action in child abuse cases, particularly child sexual abuse cases".
 
-Subsec. (e)(1)(C). Pub. L. 111–320, §116(5)(C), inserted a comma after "protocols" and ", which may include those children involved in reports of child abuse or neglect with a potential combination of jurisdictions, such as intrastate, interstate, Federal-State, andState-Tribal," after "protection for children" and substituted "from child abuse and neglect" for "from abuse" and "including" for "particularly".
+Subsec. (e)(1)(C). Pub. L. 111–320, §116(5)(C), inserted a comma after "protocols" and ", which may include those children involved in reports of child abuse or neglect with a potential combination of jurisdictions, such as intrastate, interstate, Federal-State, and State-Tribal," after "protection for children" and substituted "from child abuse and neglect" for "from abuse" and "including" for "particularly".
 
 Subsec. (f). Pub. L. 111–320, §116(6), made technical amendment to reference in original act which appears in text as reference to section 20104 of title 34.
 
@@ -152,7 +152,7 @@ Subsec. (b)(5). Pub. L. 102–295, §116(a)(3)(B), (D), added par. (5).
 
 Subsec. (c)(1). Pub. L. 102–295, §116(a)(4), in introductory provisions inserted ", and maintain" after "designate" and substituted "child physical abuse, child neglect, child sexual abuse and exploitation, and child maltreatment related fatalities" for "child abuse", in subpar. (B) substituted "judges and attorneys involved in both civil and criminal court proceedings related to child abuse and neglect" for "judicial and legal officers", in subpar. (C) inserted ", including both attorneys for children and, where such programs are in operation, court appointed special advocates", and in subpar. (F) substituted "disabilities" for "handicaps;".
 
-Subsec. (d). Pub. L. 102–295, §116(a)(5), in introductory provisions substituted "and at three year intervals thereafter, the State task force shall comprehensively" for "the State task force shall", in par. (1) substituted "both civil and criminal judicial handling of cases of child abuse and neglect, particularly child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as interstate, Federal-State, and State-Tribal;" for "judicial handling of cases of child abuse, particularly child sexual abuse; and" and in par. (2) inserted "policy and training" before "recommendations".
+Subsec. (d). Pub. L. 102–295, §116(a)(5), in introductory provisions substituted "and at three year intervalsthereafter, the State task force shall comprehensively" for "the State task force shall", in par. (1) substituted "both civil and criminal judicial handling of cases of child abuse and neglect, particularly child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as interstate, Federal-State, and State-Tribal;" for "judicial handling of cases of child abuse, particularly child sexual abuse; and" and in par. (2) inserted "policy and training" before "recommendations".
 
 Subsec. (e)(1)(A). Pub. L. 102–295, §116(a)(6)(A), substituted "child abuse and neglect, particularly child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as interstate, Federal-State, and State-Tribal, in a manner which reduces the additional trauma to the child victim and the victim's family" for "child abuse, particularly child sexual abuse cases, in a manner which reduces the additional trauma to the child victim".
 

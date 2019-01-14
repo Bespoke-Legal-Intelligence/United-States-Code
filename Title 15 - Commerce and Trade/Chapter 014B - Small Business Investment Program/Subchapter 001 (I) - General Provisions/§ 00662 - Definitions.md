@@ -12,7 +12,7 @@ As used in this chapter—
 
 &emsp;(5) the term "small-business concern" shall have the same meaning as in the Small Business Act \[15 U.S.C. 631 et seq.\], except that, for purposes of this chapter—
 
-&emsp;&emsp;(A) an investment by a venture capital firm, investment company (including a small business investment company) employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation—
+&emsp;&emsp;(A) an investment by a venture capital firm, investment company (including a small business investment company) employee welfare benefit plan or pension plan,or trust, foundation, or endowment that is exempt from Federal income taxation—
 
 &emsp;&emsp;&emsp;(i) shall not cause a business concern to be deemed not independently owned and operated regardless of the allocation of control during the investment period under any investment agreement between the business concern and the entity making the investment;
 
@@ -72,7 +72,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(ii) an average net income for the 2-year period preceding the date on which assistance is provided under this chapter to that business concern, of not more than $2,000,000, after Federal income taxes (excluding any carryover losses) except that, for purposes of this clause, if the business concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the business concern, the net income of the business concern shall be determined by allowing a deduction in an amount equal to the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) if the business concern is not required by law to pay State (and local, if any) income taxes at the enterprise level, the net income (determined without regard to this clause), multiplied by the marginal State income tax rate (or by the combined State and local income tax rates, as applicable) that would have applied if the business concern were a corporation; and
+&emsp;&emsp;&emsp;&emsp;(I) if the business concern is not required by law to pay State (and local, if any) income taxes at the enterprise level, the net income (determined without regard to this clause), multiplied by the marginal State income tax rate (or by the combined State and local income tax rates, as applicable) that would haveapplied if the business concern were a corporation; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the net income (so determined) less any deduction for State (and local) income taxes calculated under subclause (I), multiplied by the marginal Federal income tax rate that would have applied if the business concern were a corporation; or
 
@@ -108,11 +108,13 @@ As used in this chapter—
 
 &emsp;&emsp;(D) is restricted to Energy Saving qualified investments; and
 
-&emsp;&emsp;(E) is issued at no cost (as defined in section 661a <sup>1</sup> of title 2) with respect to purchasing and guaranteeing the debenture; and
+&emsp;&emsp;(E) is issued at no cost (as defined in section 661a <sup>1</sup> of title 2) with respect to purchasing and guaranteeing the debenture;
 
-&emsp;(19) the term "Energy Saving qualified investment" means investment in a small business concern that is primarily engaged in researching, manufacturing, developing, or providing products, goods, or services that reduce the use or consumption of non-renewable energy resources.
+&emsp;(19) the term "Energy Saving qualified investment" means investment in a small business concern that is primarily engaged in researching, manufacturing, developing, or providing products, goods, or services that reduce the use or consumption of non-renewable energy resources; and
 
-(Pub. L. 85–699, title I, §103, Aug. 21, 1958, 72 Stat. 690; Pub. L. 86–502, §3, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §2, Oct. 3, 1961, 75 Stat. 752; Pub. L. 92–595, §2(a), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(a), June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §410, Sept. 4, 1992, 106 Stat. 1017; Pub. L. 104–208, div. D, title II, §208(a), Sept. 30, 1996, 110 Stat. 3009–739; Pub.L. 105–135, title II, §213, Dec. 2, 1997, 111 Stat. 2601; Pub. L. 106–9, §2(c), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–554, §1(a)(9) \[title IV, §402\], Dec. 21, 2000, 114 Stat. 2763, 2763A–690; Pub. L. 110–140, title XII, §1205(b), Dec. 19, 2007, 121 Stat. 1773.)
+&emsp;(20) the term "underlicensed State" means a State in which the number of licensees per capita is less than the median number of licensees per capita for all States, as calculated by the Administrator.
+
+(Pub. L. 85–699, title I, §103, Aug. 21, 1958, 72 Stat. 690; Pub. L. 86–502, §3, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §2, Oct. 3, 1961, 75 Stat. 752; Pub. L. 92–595, §2(a), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(a), June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §410, Sept. 4, 1992, 106 Stat. 1017; Pub. L. 104–208, div. D, title II, §208(a), Sept. 30, 1996, 110 Stat. 3009–739; Pub. L. 105–135, title II, §213, Dec. 2, 1997, 111 Stat. 2601; Pub. L. 106–9, §2(c), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–554, §1(a)(9) \[title IV, §402\], Dec. 21, 2000, 114 Stat. 2763, 2763A–690; Pub. L. 110–140, title XII, §1205(b), Dec. 19, 2007, 121 Stat. 1773; Pub. L. 115–333, §2(1), Dec. 19, 2018, 132 Stat. 4488.)
 
 #### References in Text
 
@@ -125,6 +127,8 @@ The Employee Retirement Income Security Act of 1974, referred to in par. (14), i
 Section 661a of title 2, referred to in par. (18)(E), was in the original "section 502 of the Credit Reform Act of 1990", which was translated as reading "section 502 of the Federal Credit Reform Act of 1990", to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2018</b>—Par. (20). Pub. L. 115–333 added par. (20).
 
 <b>2007</b>—Pars. (18), (19). Pub. L. 110–140 added pars. (18) and (19).
 

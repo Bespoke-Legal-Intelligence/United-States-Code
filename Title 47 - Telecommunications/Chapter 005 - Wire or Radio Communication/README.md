@@ -9,13 +9,16 @@
 | [153\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000153%20-%20Definitions.md) | Definitions. |
 | [154\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000154%20-%20Federal%20Communications%20Commission.md) | Federal Communications Commission. |
 | [155\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000155%20-%20Commission.md) | Commission. |
+| [155a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000155a%20-%20Authority%20of%20Chief%20Information%20Officer.md) | Authority of Chief Information Officer. |
 | [156\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000156%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [157\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000157%20-%20New%20technologies%20and%20services.md) | New technologies and services. |
 | [158\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000158%20-%20Application%20fees.md) | Application fees. |
 | [159\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000159%20-%20Regulatory%20fees.md) | Regulatory fees. |
+| [159a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000159a%20-%20Provisions%20applicable%20to%20application%20and%20regulatory%20fees.md) | Provisions applicable to application and regulatory fees. |
 | [160\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000160%20-%20Competition%20in%20provision%20of%20telecommunications%20service.md) | Competition in provision of telecommunications service. |
 | [161\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000161%20-%20Regulatory%20reform.md) | Regulatory reform. |
 | [162\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000162%20-%20Additional%20research%20authorities%20of%20the%20FCC.md) | Additional research authorities of the FCC. |
+| [163\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000163%20-%20Communications%20marketplace%20report.md) | Communications marketplace report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -52,6 +55,7 @@
 | [225\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000225%20-%20Telecommunications%20services%20for%20hearing-impaired%20and%20speech-impaired%20individuals.md) | Telecommunications services for hearing-impaired and speech-impaired individuals. |
 | [226\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000226%20-%20Telephone%20operator%20services.md) | Telephone operator services. |
 | [227\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000227%20-%20Restrictions%20on%20use%20of%20telephone%20equipment.md) | Restrictions on use of telephone equipment. |
+| [227a.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000227a%20-%20Consumer%20education%20materials%20on%20how%20to%20avoid%20scams%20that%20rely%20upon%20misleading%20or%20inaccurate%20caller%20identification%20information.md) | Consumer education materials on how to avoid scams that rely upon misleading or inaccurate caller identification information. |
 | [228\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000228%20-%20Regulation%20of%20carrier%20offering%20of%20pay-per-call%20services.md) | Regulation of carrier offering of pay-per-call services. |
 | [229\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000229%20-%20Communications%20Assistance%20for%20Law%20Enforcement%20Act%20compliance.md) | Communications Assistance for Law Enforcement Act compliance. |
 | [230\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000230%20-%20Protection%20for%20private%20blocking%20and%20screening%20of%20offensive%20material.md) | Protection for private blocking and screening of offensive material. |
@@ -74,6 +78,7 @@
 | [259\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20002%20%28II%29%20-%20Development%20of%20Competitive%20Markets/%C2%A7%2000259%20-%20Infrastructure%20sharing.md) | Infrastructure sharing. |
 | [260\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20002%20%28II%29%20-%20Development%20of%20Competitive%20Markets/%C2%A7%2000260%20-%20Provision%20of%20telemessaging%20service.md) | Provision of telemessaging service. |
 | [261\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20002%20%28II%29%20-%20Development%20of%20Competitive%20Markets/%C2%A7%2000261%20-%20Effect%20on%20other%20requirements.md) | Effect on other requirements. |
+| [262\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20002%20%28II%29%20-%20Development%20of%20Competitive%20Markets/%C2%A7%2000262%20-%20Ensuring%20the%20integrity%20of%20voice%20communications.md) | Ensuring the integrity of voice communications. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -109,6 +114,7 @@
 | [307\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000307%20-%20Licenses.md) | Licenses. |
 | [308\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000308%20-%20Requirements%20for%20license.md) | Requirements for license. |
 | [309\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000309%20-%20Application%20for%20license.md) | Application for license. |
+| [309a.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000309a%20-%20Reports%20related%20to%20spectrum%20auctions.md) | Reports related to spectrum auctions. |
 | [310\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000310%20-%20License%20ownership%20restrictions.md) | License ownership restrictions. |
 | [311\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000311%20-%20Requirements%20as%20to%20certain%20applications%20in%20broadcasting%20service.md) | Requirements as to certain applications in broadcasting service. |
 | [312\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000312%20-%20Administrative%20sanctions.md) | Administrative sanctions. |
@@ -374,6 +380,8 @@
 | [620\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000620%20-%20Relay%20services%20for%20deaf-blind%20individuals.md) | Relay services for deaf-blind individuals. |
 | [621\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000621%20-%20Rulemaking%20on%20loud%20commercials%20required.md) | Rulemaking on loud commercials required. |
 | [622\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000622%20-%20Optional%20electronic%20labeling%20of%20communications%20equipment.md) | Optional electronic labeling of communications equipment. |
+| [623\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000623%20-%20Configuration%20of%20multi-line%20telephone%20systems%20for%20direct%20dialing%20of%209%E2%80%931%E2%80%931.md) | Configuration of multi-line telephone systems for direct dialing of 9–1–1. |
+| [624\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000624%20-%20Disclosure%20requirements%20for%20United%20States-based%20foreign%20media%20outlets.md) | Disclosure requirements for United States-based foreign media outlets. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

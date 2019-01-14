@@ -12,7 +12,7 @@ In order to develop, operate, or maintain the Strategic Petroleum Reserve, the S
 
 &emsp;(3) construct, purchase, lease, or otherwise acquire storage and related facilities;
 
-&emsp;(4) use, lease, maintain, sell or otherwise dispose of land or interests in land, or of storage and related facilities acquired under this part, under such terms and conditions as the Secretary considers necessary or appropriate;
+&emsp;(4) use, lease, maintain, sell or otherwise dispose of land or interests in land, or of storageand related facilities acquired under this part, under such terms and conditions as the Secretary considers necessary or appropriate;
 
 &emsp;(5) acquire, subject to the provisions of section 6240 of this title, by purchase, exchange, or otherwise, petroleum products for storage in the Strategic Petroleum Reserve;
 
@@ -144,7 +144,7 @@ Authorization of Appropriations.—There are authorized to be appropriated (and 
 
 "(f)
 
-Transmission of Department Budget Requests.—The Secretary of Energy shall prepare andsubmit in the Department's annual budget request to Congress—
+Transmission of Department Budget Requests.—The Secretary of Energy shall prepare and submit in the Department's annual budget request to Congress—
 
 &emsp;"(1) an itemization of the amounts of funds necessary to carry out subsection (d); and
 

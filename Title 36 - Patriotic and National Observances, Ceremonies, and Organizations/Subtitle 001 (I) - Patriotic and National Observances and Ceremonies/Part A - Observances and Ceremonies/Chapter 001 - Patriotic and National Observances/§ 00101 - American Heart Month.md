@@ -28,6 +28,12 @@ Dec. 30, 1963, Pub. L. 88–254, 77 Stat. 843.
 
 In clause (2), the words "chief executive officers" are substituted for "Governors", and the words "territories, and possessions" are substituted for "territories", for clarity and consistency in the revised title and with other titles of the United States Code.
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–141, div. S, title III, §301, Mar. 23, 2018, 132 Stat. 1127, provided that: "This title \[enacting subchapter III (§220531) of this title\] may be cited as the 'Keep Young Athletes Safe Act of 2018'."
+
+Pub. L. 115–126, §1(a), Feb. 14, 2018, 132 Stat. 318, provided that: "This Act \[enacting subchapter III (§220541 et seq.) of chapter 2205 of this title and 220530 of this title and amending sections 220501, 220503, and 220525 ofthis title, sections 2255 and 2258 of Title 18, Crimes and Criminal Procedure, and section 20341 of Title 34, Crime Control and Law Enforcement\] may be cited as the 'Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act of 2017'."
+
 #### Short Title of 2016 Amendment
 
 Pub. L. 114–240, §1, Oct. 7, 2016, 130 Stat. 974, provided that: "This Act \[enacting section 145 of this title\] may be cited as the 'Veterans Day Moment of Silence Act'."
@@ -46,7 +52,7 @@ Pub. L. 110–26, §1, May 11, 2007, 121 Stat. 103, provided that: "This Act \[e
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–9, title III, §311, Apr. 27, 2005, 119 Stat. 226, provided that: "This subtitle \[subtitle B (§§311, 312) oftitle III of Pub. L. 109–9, amending sections 151703, 151705, 151706, and 151711 of this title\] may be cited as the 'National Film Preservation Foundation Reauthorization Act of 2005'."
+Pub. L. 109–9, title III, §311, Apr. 27, 2005, 119 Stat. 226, provided that: "This subtitle \[subtitle B (§§311, 312) of title III of Pub. L. 109–9, amending sections 151703, 151705, 151706, and 151711 of this title\] may be cited as the 'National Film Preservation Foundation Reauthorization Act of 2005'."
 
 #### Short Title of 2002 Amendment
 

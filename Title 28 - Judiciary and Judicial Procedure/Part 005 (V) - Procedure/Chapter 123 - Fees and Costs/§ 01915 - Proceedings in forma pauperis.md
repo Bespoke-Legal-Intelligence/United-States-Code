@@ -110,5 +110,5 @@ Subsec. (e). Act May 24, 1949, §98(b), inserted "or printed record" after "sten
 
 #### Change of Name
 
-"United States magistrate judge" substituted for "United States magistrate" in subsec. (c) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+"United States magistrate judge" substituted for "United States magistrate" in subsec. (c) pursuant tosection 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 

@@ -17,4 +17,4 @@
 - [&sect; 00607a - Appropriations; separate project](%C2%A7%2000607a%20-%20Appropriations%3B%20separate%20project.md)
 - [&sect; 00608 - Construction of fishways](%C2%A7%2000608%20-%20Construction%20of%20fishways.md)
 - [&sect; 00609 - Sluices and other work in dams for development of water power](%C2%A7%2000609%20-%20Sluices%20and%20other%20work%20in%20dams%20for%20development%20of%20water%20power.md)
-- [&sect; 00610 - Control of aquatic plant growths](%C2%A7%2000610%20-%20Control%20of%20aquatic%20plant%20growths.md)
+- [&sect; 00610 - Control of aquatic plant growths and invasive species](%C2%A7%2000610%20-%20Control%20of%20aquatic%20plant%20growths%20and%20invasive%20species.md)

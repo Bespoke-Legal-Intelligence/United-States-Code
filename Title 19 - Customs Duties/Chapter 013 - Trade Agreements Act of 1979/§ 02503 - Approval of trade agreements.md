@@ -78,7 +78,7 @@ The trade agreements to which subsection (a) applies are the following:
 
 Section 2136(c) of this title, referred to in subsec. (b)(2)(B), was repealed, and section 2136(d) of this title, referred to in subsec. (b)(3), which defined the term "major industrial country" was redesignated section 2136(c), by Pub. L. 105–362, title XIV, §1401(b)(1), Nov. 10, 1998, 112 Stat. 3294.
 
-This Act, referred to in subsec. (c), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, known as the Trade Agreements Act of 1979. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of this title and Tables.
+This Act, referred to in subsec. (c), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, known as the Trade Agreements Act of 1979. For complete classification of thisAct to the Code, see References in Text note set out under section 2501 of this title and Tables.
 
 #### Delegation of Functions
 

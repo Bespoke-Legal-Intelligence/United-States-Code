@@ -66,7 +66,7 @@
 
 #### (A) Developers, networks, and exchanges
 
-&emsp;&emsp;Any individual or entity described in subparagraph (A) or (C) of paragraph (1) that the Inspector General, following an investigation conducted under this subsection, determines to have committed information blocking shall be subject to a civil monetary penalty determined by the Secretary for all such violations identified through such investigation, which may not exceed $1,000,000per violation. Such determination shall take into account factors such as the nature and extent of the information blocking and harm resulting from such information blocking, including, where applicable, the number of patients affected, the number of providers affected, and the number of days the information blocking persisted.
+&emsp;&emsp;Any individual or entity described in subparagraph (A) or (C) of paragraph (1) that the Inspector General, following an investigation conducted under this subsection, determines to have committed information blocking shall be subject to a civil monetary penalty determined by the Secretary for all such violations identified through such investigation, which may not exceed $1,000,000 per violation. Such determination shall take into account factors such as the nature and extent of the information blocking and harm resulting from such information blocking, including, where applicable, the number of patients affected, the number of providers affected, and the number of days the information blocking persisted.
 
 #### (B) Providers
 
@@ -96,7 +96,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Office of the Inspector General, if such Office determines that a consultation regarding the health privacy and security rules promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note) will resolve an information blocking claim, may refer such instances of information blocking to the Office for Civil Rights of the Department of Health and Human Services for resolution.
+&emsp;&emsp;The Office of the Inspector General, if such Office determines that a consultation regarding the health privacy and security rules promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note)will resolve an information blocking claim, may refer such instances of information blocking to the Office for Civil Rights of the Department of Health and Human Services for resolution.
 
 #### (B) Limitation on liability
 

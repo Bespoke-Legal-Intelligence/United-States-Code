@@ -10,7 +10,7 @@
 
 &emsp;(C) a method described in subparagraph (A) which provides for automatic adjustments in the amount of the annuity payable so long as the amount of the annuity payable in any one year shall not be less than the amount payable in the previous year;
 
-&emsp;(D) a method described in subparagraph (B) which provides for automatic adjustments in the amount of the annuity payable so long as the amount of the annuity payable in any one year shall not be less than the amount payable in the previous year; and
+&emsp;(D) a method described in subparagraph (B) which provides for automatic adjustments inthe amount of the annuity payable so long as the amount of the annuity payable in any one year shall not be less than the amount payable in the previous year; and
 
 &emsp;(E) a method which provides for the payment of a monthly annuity—
 

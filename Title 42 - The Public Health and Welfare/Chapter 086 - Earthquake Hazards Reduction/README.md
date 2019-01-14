@@ -13,7 +13,7 @@
 | [7705d.](%C2%A7%2007705d%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93503%2C%20title%20II%2C%20%C2%A7203%2C%20Nov.%2013%2C%202000%2C%20114%20Stat.%202305.md) | Repealed. |
 | [7705e.](%C2%A7%2007705e%20-%20Post-earthquake%20investigations%20program.md) | Post-earthquake investigations program. |
 | [7706\.](%C2%A7%2007706%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [7707\.](%C2%A7%2007707%20-%20Advanced%20National%20Seismic%20Research%20and%20Monitoring%20System.md) | Advanced National Seismic Research and Monitoring System. |
+| [7707\.](%C2%A7%2007707%20-%20Advanced%20National%20Seismic%20System.md) | Advanced National Seismic System. |
 | [7708\.](%C2%A7%2007708%20-%20Network%20for%20Earthquake%20Engineering%20Simulation.md) | Network for Earthquake Engineering Simulation. |
 | [7709\.](%C2%A7%2007709%20-%20Scientific%20Earthquake%20Studies%20Advisory%20Committee.md) | Scientific Earthquake Studies Advisory Committee. |
 
@@ -35,6 +35,6 @@
 - [&sect; 07705d - Repealed. Pub. L. 106&#8211;503, title II, &sect;203, Nov. 13, 2000, 114 Stat. 2305](%C2%A7%2007705d%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93503%2C%20title%20II%2C%20%C2%A7203%2C%20Nov.%2013%2C%202000%2C%20114%20Stat.%202305.md)
 - [&sect; 07705e - Post-earthquake investigations program](%C2%A7%2007705e%20-%20Post-earthquake%20investigations%20program.md)
 - [&sect; 07706 - Authorization of appropriations](%C2%A7%2007706%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 07707 - Advanced National Seismic Research and Monitoring System](%C2%A7%2007707%20-%20Advanced%20National%20Seismic%20Research%20and%20Monitoring%20System.md)
+- [&sect; 07707 - Advanced National Seismic System](%C2%A7%2007707%20-%20Advanced%20National%20Seismic%20System.md)
 - [&sect; 07708 - Network for Earthquake Engineering Simulation](%C2%A7%2007708%20-%20Network%20for%20Earthquake%20Engineering%20Simulation.md)
 - [&sect; 07709 - Scientific Earthquake Studies Advisory Committee](%C2%A7%2007709%20-%20Scientific%20Earthquake%20Studies%20Advisory%20Committee.md)

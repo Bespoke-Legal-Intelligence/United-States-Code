@@ -8,7 +8,7 @@ When used in this part unless the context otherwise indicates—
 
 (c) The term "international application" means an application filed under the treaty.
 
-(d) The term "international application originating in the United States" means an international application filed in the Patent andTrademark Office when it is acting as a Receiving Office under the treaty, irrespective of whether or not the United States has been designated in that international application.
+(d) The term "international application originating in the United States" means an international application filed in the Patent and Trademark Office when it is acting as a Receiving Office under the treaty, irrespective of whether or not the United States has been designated in that international application.
 
 (e) The term "international application designating the United States" means an international application specifying the United States as a country in which a patent is sought, regardless where such international application is filed.
 

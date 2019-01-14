@@ -14,7 +14,7 @@
 
 #### (b) DOE report
 
-The Secretary of Energy shall submit to the Committees on Armed Services, Appropriations,and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate each year, at the same time that the President submits the budget to Congress pursuant to section 1105(a) of title 31, a written report concerning the activities of the Department of Energy under this subchapter during the year preceding the year in which the report is submitted.
+The Secretary of Energy shall submit to the Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate each year, at the same time that the President submits the budget to Congress pursuant to section 1105(a) of title 31, a written report concerning the activities of the Department of Energy under this subchapter during the year preceding the year in which the report is submitted.
 
 (Aug. 1, 1946, ch. 724, title I, §316, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2082; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 112–239, div. C, title XXXII, §3202(d), Jan. 2, 2013, 126 Stat. 2220.)
 

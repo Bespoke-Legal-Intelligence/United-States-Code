@@ -8,7 +8,7 @@
 
 &emsp;(3) knowingly possesses with intent to use unlawfully or transfer unlawfully five or more identification documents (other than those issued lawfully for the use of the possessor), authentication features, or false identification documents;
 
-&emsp;(4) knowingly possesses an identification document (other than one issued lawfully for the use of the possessor), authentication feature, or a false identification document, withthe intent such document or feature be used to defraud the United States;
+&emsp;(4) knowingly possesses an identification document (other than one issued lawfully for the use of the possessor), authentication feature, or a false identification document, with the intent such document or feature be used to defraud the United States;
 
 &emsp;(5) knowingly produces, transfers, or possesses a document-making implement or authentication feature with the intent such document-making implement or authentication feature will be used in the production of a false identification document or another document-making implement or authentication feature which will be so used;
 
@@ -22,7 +22,7 @@
 
 (b) The punishment for an offense under subsection (a) of this section is—
 
-&emsp;(1) except as provided in paragraphs (3) and (4), a fine under this title or imprisonment for not more than 15 years, or both, if the offense is—
+&emsp;(1) except as provided in paragraphs (3) and (4), a fine under this title or imprisonment fornot more than 15 years, or both, if the offense is—
 
 &emsp;&emsp;(A) the production or transfer of an identification document, authentication feature, or false identification document that is or appears to be—
 
@@ -84,7 +84,7 @@
 
 &emsp;(5) the term "false authentication feature" means an authentication feature that—
 
-&emsp;&emsp;(A) is genuine in origin, but, without the authorization of the issuing authority, has been tampered with or altered for purposes of deceit;
+&emsp;&emsp;(A) is genuine in origin, but, without the authorization of the issuing authority, hasbeen tampered with or altered for purposes of deceit;
 
 &emsp;&emsp;(B) is genuine, but has been distributed, or is intended for distribution, without the authorization of the issuing authority and not in connection with a lawfully made identification document, document-making implement, or means of identification to which such authentication feature is intended to be affixed or embedded by the respective issuing authority; or
 
@@ -336,7 +336,7 @@ Pub. L. 98–473, title II, §609L, Oct. 12, 1984, 98 Stat. 2103, provided that:
 
 &emsp;"(2) facilitate positive identification of bona fide holders of identification documents.
 
-"(b) The President shall, no later than 3 years after the date of enactment of this Act \[Oct. 12, 1984\], andafter consultation with Federal, State, local, and international issuing authorities, and concerned groups make recommnedations \[recommendations\] to the Congress for the enactment of comprehensive legislation on Federal identification systems. Such legislation shall—
+"(b) The President shall, no later than 3 years after the date of enactment of this Act \[Oct. 12, 1984\], and after consultation with Federal, State, local, and international issuing authorities, and concerned groups make recommnedations \[recommendations\] to the Congress for the enactment of comprehensive legislation on Federal identification systems. Such legislation shall—
 
 &emsp;"(1) give due consideration to protecting the privacy of persons who are the subject of any identification system,
 

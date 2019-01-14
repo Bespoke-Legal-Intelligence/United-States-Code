@@ -28,7 +28,7 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 (6)(A) Notwithstanding any other provision of this section—
 
-&emsp;(i) in the case of an employee welfare benefit plan which is a multiple employer welfare arrangement and is fully insured (or which is a multiple employer welfare arrangement subject to an exemption under subparagraph (B)), any law of any State which regulates insurance may apply to such arrangement to the extent that such law provides—
+&emsp;(i) in the case of an employee welfare benefit plan which is a multiple employer welfare arrangement and is fully insured (or which is amultiple employer welfare arrangement subject to an exemption under subparagraph (B)), any law of any State which regulates insurance may apply to such arrangement to the extent that such law provides—
 
 &emsp;&emsp;(I) standards, requiring the maintenance of specified levels of reserves and specified levels of contributions, which any such plan, or any trust established under such a plan, must meet in order to be considered under such law able to pay benefits in full when due, and
 

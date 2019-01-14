@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(i) by substituting "$10,000,000" for "$1,000,000" in paragraph (1), and
 
-&emsp;&emsp;&emsp;(ii) in determining the aggregate face amount of such issue, by taking into account not only the amount described in paragraph (2), but also the aggregate amount of capital expenditures with respect to facilities described in subparagraph (B) paid or incurred during the 6-year period beginning 3 years before the date of such issue and ending 3 years after such date (and financed otherwise than out of the proceeds of outstanding tax-exempt issues to which paragraph (1) (or the corresponding provision of prior law) applied), as if the aggregate amount of such capital expenditures constituted the face amount of a prior outstanding issue described in paragraph (2).
+&emsp;&emsp;&emsp;(ii) in determining the aggregate face amount of such issue, by taking into account not only the amount described in paragraph (2), but also the aggregate amount of capital expenditures with respect to facilities described in subparagraph (B) paid or incurred during the 6-year period beginning 3 years before the date of such issue and ending 3 years after such date (and financed otherwise than out of the proceeds of outstanding tax-exempt issues to which paragraph (1) (or the corresponding provision of prior law) applied), as if the aggregate amount of such capital expenditures constituted the face amountof a prior outstanding issue described in paragraph (2).
 
 #### (B) Facilities taken into account
 
@@ -342,7 +342,7 @@ For purposes of this part—
 
 #### (B) Blighted area
 
-&emsp;&emsp;The term "blighted area" means any area which the governing body described in subparagraph (A) determines to be a blighted area on the basis of the substantial presence of factors such as excessive vacant land on which structures were previously located, abandoned or vacant buildings, substandardstructures, vacancies, and delinquencies in payment of real property taxes.
+&emsp;&emsp;The term "blighted area" means any area which the governing body described in subparagraph (A) determines to be a blighted area on the basis of the substantial presence of factors such as excessive vacant land on which structures were previously located, abandoned or vacant buildings, substandard structures, vacancies, and delinquencies in payment of real property taxes.
 
 #### (C) Designated areas may not exceed 20 percent of total assessed value of real property in government's jurisdiction
 
@@ -404,7 +404,7 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 
 The date of enactment of this clause, referred to in subsec. (a)(12)(C)(iii), is the date of enactment of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. Section 428B(a) of that Act as enacted in the general amendment of part B of title IV of that Act by Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386, which is classified to section1078–2(a) of Title 20, did not contain a par. (1). Section 438 of that Act is classified to section 1087–1 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. Section 428B(a) of that Act as enacted in the general amendment of part B of title IV of that Act by Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386, which is classified to section 1078–2(a) of Title 20, did not contain a par. (1). Section 438 of that Act is classified to section 1087–1 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Public Health Service Act, referred to in subsec. (b)(1)(B), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart I of part C of title VII of the Act was classified generally to subpart I (§294 et seq.) of part C of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, prior to the general revision of subchapter V of chapter 6A by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See subpart I (§292 et seq.) of part A of revised subchapter V of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -414,7 +414,7 @@ A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, P
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(12)(C). Pub. L. 111–5 substituted dash for comma after "For purposes of this paragraph", designated remainder of first sentence and second sentence of existing provisions as cl. (i) and inserted heading, substituted "The term" for "the term", added cls. (ii) and (iii), and struck out former last sentence which read as follows: "For purposes of the 1st sentence of this subparagraph, the term 'manufacturing facility' includes facilities which are directly related and ancillary to a manufacturing facility (determined without regard to this sentence) if—
+<b>2009</b>—Subsec. (a)(12)(C). Pub. L. 111–5 substituted dash for comma after "For purposes of this paragraph", designated remainder of first sentence and second sentence of existing provisions as cl. (i) and inserted heading, substituted "The term" for "the term", added cls. (ii) and (iii), and struck out former last sentence which read as follows: "For purposes of the 1st sentence ofthis subparagraph, the term 'manufacturing facility' includes facilities which are directly related and ancillary to a manufacturing facility (determined without regard to this sentence) if—
 
 &emsp;"(i) such facilities are located on the same site as the manufacturing facility, and
 
@@ -490,7 +490,7 @@ Refundings.—The amendment made by subsection (a) shall not apply to any bond i
 
 #### Application of Subsection (a)(12)(A)(ii)(I) to Refunding Bonds Issued Before July 1, 1987
 
-Pub. L. 100–647, title I, §1013(a)(4)(B)(iii), Nov. 10, 1988, 102 Stat. 3538, provided that: "A refunding bond issuedbefore July 1, 1987, shall be treated as meeting the requirement of subclause (I) of section 144(a)(12)(A)(ii) of the 1986 Code if such bond met the requirement of such subclause as in effect before the amendments made by this subparagraph \[amending this section\]."
+Pub. L. 100–647, title I, §1013(a)(4)(B)(iii), Nov. 10, 1988, 102 Stat. 3538, provided that: "A refunding bond issued before July 1, 1987, shall be treated as meeting the requirement of subclause (I) of section 144(a)(12)(A)(ii) of the 1986 Code if such bond met the requirement of such subclause as in effect before the amendments made by this subparagraph \[amending this section\]."
 
 #### Termination Date for Exemption for Certain Small Issues Under Section 103(b)(6)
 

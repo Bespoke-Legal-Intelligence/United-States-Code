@@ -80,7 +80,7 @@ Payment Obligations Extinguished.—Provision of consideration by the Authority 
 
 "(b)
 
-Operation and Maintenance Costs.—After completion of the conveyance provided for in section 3, the Authority shall have full responsibility for the cost of operation and maintenance of Sanford Dam, and shallcontinue to have full responsibility for operation and maintenance of the Project pipeline and related facilities.
+Operation and Maintenance Costs.—After completion of the conveyance provided for in section 3, the Authority shall have full responsibility for the cost of operation and maintenance of Sanford Dam, and shall continue to have full responsibility for operation and maintenance of the Project pipeline and related facilities.
 
 "(c)
 

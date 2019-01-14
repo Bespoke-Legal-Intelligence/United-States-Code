@@ -30,7 +30,7 @@ Except as provided in subsection (b), the Secretary of the Interior may use avai
 
 &emsp;&emsp;(B) administer grants under section 669e, 669h–1, or 669h–2 of this title;
 
-&emsp;(10) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approveddirectly by the Assistant Secretary for Fish and Wildlife and Parks;
+&emsp;(10) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
 
 &emsp;(11) relocation expenses for personnel who, after relocation, will administer this chapter on a full-time basis for at least 1 year, as certified by the Director of the United States Fish and Wildlife Service at the time at which the relocation expenses are incurred; and
 
@@ -68,7 +68,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (B) Supervision of auditor
 
-&emsp;&emsp;The auditor selected under subparagraph (A) shall report to, and be supervised by, the Inspector General of the Department of the Interior, except that the auditor shall submit a copy of the biennial audit findings to the Secretary of the Interior at the time at which the findings are submitted to the Inspector General of the Department of the Interior.
+&emsp;&emsp;The auditor selected under subparagraph (A) shall report to, and be supervised by, the Inspector General of the Department of theInterior, except that the auditor shall submit a copy of the biennial audit findings to the Secretary of the Interior at the time at which the findings are submitted to the Inspector General of the Department of the Interior.
 
 #### (3) Report to Congress
 

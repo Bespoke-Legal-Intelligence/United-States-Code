@@ -20,7 +20,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (B) Combined units
 
-&emsp;&emsp;A State in which average annual soybean production is less than 3,000,000 bushels shall be grouped with other States into a combined unit. To the extent practicable, each State with average annual soybean production of less than 3,000,000 bushels shall be grouped with other States with average annual soybean production of less than 3,000,000 bushels into a combined unit, in a manner prescribed in the order, and each combined unit shall consist of geographically contiguous States. To the extent practicable, each combined unit shall have an average annual production of soybeans of at least 3,000,000 bushels.
+&emsp;&emsp;A State in which average annual soybean production is less than 3,000,000 bushels shallbe grouped with other States into a combined unit. To the extent practicable, each State with average annual soybean production of less than 3,000,000 bushels shall be grouped with other States with average annual soybean production of less than 3,000,000 bushels into a combined unit, in a manner prescribed in the order, and each combined unit shall consist of geographically contiguous States. To the extent practicable, each combined unit shall have an average annual production of soybeans of at least 3,000,000 bushels.
 
 #### (C) Number of seats per unit
 
@@ -44,7 +44,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (F) Adjustment of levels of production
 
-&emsp;&emsp;At the end of each 3 year period beginning with the 3 year period starting on the effective date of the order, the Board may recommend to the Secretary, to the extent it determines appropriate, changes in the levels of production used in subparagraphs (A), (B), and (C) to determine per-unit representation on the Board. The Secretary may amend the order to make such changes in levels of production used to determine per-unit representation. Any such amendment to the order shall not be subject to a referendum of producers. A unit may not, as a result of any modification under this subparagraph, lose Board seats to which it is entitled at the time the order is initially issuedunless its average annual production, as determined under subparagraph (D), declines below the levels required for representation, as specified in subparagraphs (A), (B), and (C).
+&emsp;&emsp;At the end of each 3 year period beginning with the 3 year period starting on the effective date of the order, the Board may recommend to the Secretary, to the extent it determines appropriate, changes in the levels of production used in subparagraphs (A), (B), and (C) to determine per-unit representation on the Board. The Secretary may amend the order to make such changes in levels of production used to determine per-unit representation. Any such amendment to the order shall not be subject to a referendum of producers. A unit may not, as a result of any modification under this subparagraph, lose Board seats to which it is entitled at the time the order is initially issued unless its average annual production, as determined under subparagraph (D), declines below the levels required for representation, as specified in subparagraphs (A), (B), and (C).
 
 #### (3) Nominations
 
@@ -154,7 +154,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (I) First fiscal year
 
-&emsp;&emsp;&emsp;&emsp;During the first fiscal year of the Board, each unit shall be allotted one vote for each percent, or portion of a percent, of the total production of soybeans in the United States that was produced in the unit, on the average, during each of the 3 immediately preceding crop years.
+&emsp;&emsp;&emsp;&emsp;During the first fiscal year of the Board, each unit shall be allotted onevote for each percent, or portion of a percent, of the total production of soybeans in the United States that was produced in the unit, on the average, during each of the 3 immediately preceding crop years.
 
 #### (II) Second and third fiscal years
 
@@ -350,7 +350,7 @@ The order shall require the Board to—
 
 #### (B) Direct processing
 
-&emsp;&emsp;The order shall provide that any person processing soybeans of that person's own production and marketing such soybeans or soybean products made from such soybeans shall remit to the Board or the qualifiedState soybean board, in the manner prescribed by the order, an assessment established at a rate equivalent to the rate provided for in subparagraph (A)(ii).
+&emsp;&emsp;The order shall provide that any person processing soybeans of that person's own production and marketing such soybeans or soybean products made from such soybeans shall remit to the Board or the qualified State soybean board, in the manner prescribed by the order, an assessment established at a rate equivalent to the rate provided for in subparagraph (A)(ii).
 
 #### (2) Refunds
 
@@ -410,7 +410,7 @@ The order shall require the Board to—
 
 #### (v) Continued refunds
 
-&emsp;&emsp;&emsp;If the Secretary conducts a referendum under clause (iv), the qualified State soybean board and, where no qualified State soybean board exists, the Board shall continue to make refunds available to producers as provided for in clause (ii) during the period prior to the conduct of the referendum, which shall be payable at the end ofthe period from the escrowed funds, as provided in clause (vii).
+&emsp;&emsp;&emsp;If the Secretary conducts a referendum under clause (iv), the qualified State soybean board and, where no qualified State soybean board exists, the Board shall continue to make refunds available to producers as provided for in clause (ii) during the period prior to the conduct of the referendum, which shall be payable at the end of the period from the escrowed funds, as provided in clause (vii).
 
 #### (vi) Continuation or cessation of refunds
 
@@ -466,7 +466,7 @@ The order shall require the Board to—
 
 #### (m) Credit for certain costs to States
 
-The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half of any fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to anyqualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessments collected and remitted to the Board under subsection (l).
+The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half of any fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessments collected and remitted to the Board under subsection (l).
 
 #### (n) Minimum level of assessments to States
 

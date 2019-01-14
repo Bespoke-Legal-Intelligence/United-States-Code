@@ -1,6 +1,6 @@
 ### §13601. Compliance by owners as condition of Federal assistance
 
-The Secretary of Housing and Urban Development shall require owners of federally assisted housing (as such term is defined in section 13641(2) of this title), as a condition of receivinghousing assistance for such housing, to comply with the procedures and requirements established under this subchapter.
+The Secretary of Housing and Urban Development shall require owners of federally assisted housing (as such term is defined in section 13641(2) of this title), as a condition of receiving housing assistance for such housing, to comply with the procedures and requirements established under this subchapter.
 
 (Pub. L. 102–550, title VI, §641, Oct. 28, 1992, 106 Stat. 3820.)
 

@@ -1,6 +1,6 @@
 ### §5121. Payment of certain accrued benefits upon death of a beneficiary
 
-(a) Except as provided in sections 3329 and 3330 of title 31, periodic monetary benefits (otherthan insurance and servicemen's indemnity) under laws administered by the Secretary to which an individual was entitled at death under existing ratings or decisions or those based on evidence in the file at date of death (hereinafter in this section and section 5122 of this title referred to as "accrued benefits") and due and unpaid, shall, upon the death of such individual be paid as follows:
+(a) Except as provided in sections 3329 and 3330 of title 31, periodic monetary benefits (other than insurance and servicemen's indemnity) under laws administered by the Secretary to which an individual was entitled at death under existing ratings or decisions or those based on evidence in the file at date of death (hereinafter in this section and section 5122 of this title referred to as "accrued benefits") and due and unpaid, shall, upon the death of such individual be paid as follows:
 
 &emsp;(1) Upon the death of a person receiving an apportioned share of benefits payable to a veteran, all or any part of such benefits to the veteran or to any other dependent or dependents of the veteran, as may be determined by the Secretary.
 

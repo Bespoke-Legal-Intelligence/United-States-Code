@@ -12,7 +12,7 @@
 
 &emsp;(2) may, on a reimbursable basis, convert space furnished under clause (1) of this subsection for use as the child-care center and provide other items necessary for the operation of the center, including furniture, office machines and equipment, and telephone service, except that the Secretary may furnish basic telephone service and surplus furniture and equipment without reimbursement;
 
-&emsp;(3) shall provide for the participation (directly or through a parent advisory committee) of parents of children receiving care in the center in the establishment of policies to govern the operation of the center and in theoversight of the implementation of such policies;
+&emsp;(3) shall provide for the participation (directly or through a parent advisory committee) of parents of children receiving care in the center in the establishment of policies to govern the operation of the center and in the oversight of the implementation of such policies;
 
 &emsp;(4) shall require the development and use of a process for determining the fitness and suitability of prospective employees of or volunteers at the center; and
 

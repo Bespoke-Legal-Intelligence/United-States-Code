@@ -16,5 +16,7 @@ Part C—Registration of Manufacturers, Distributors, and Dispensers of Controll
 - [&sect; 00827 - Records and reports of registrants](%C2%A7%2000827%20-%20Records%20and%20reports%20of%20registrants.md)
 - [&sect; 00828 - Order forms](%C2%A7%2000828%20-%20Order%20forms.md)
 - [&sect; 00829 - Prescriptions](%C2%A7%2000829%20-%20Prescriptions.md)
+- [&sect; 00829a - Delivery of a controlled substance by a pharmacy to an administering practitioner](%C2%A7%2000829a%20-%20Delivery%20of%20a%20controlled%20substance%20by%20a%20pharmacy%20to%20an%20administering%20practitioner.md)
 - [&sect; 00830 - Regulation of listed chemicals and certain machines](%C2%A7%2000830%20-%20Regulation%20of%20listed%20chemicals%20and%20certain%20machines.md)
 - [&sect; 00831 - Additional requirements relating to online pharmacies and telemedicine](%C2%A7%2000831%20-%20Additional%20requirements%20relating%20to%20online%20pharmacies%20and%20telemedicine.md)
+- [&sect; 00832 - Suspicious orders](%C2%A7%2000832%20-%20Suspicious%20orders.md)

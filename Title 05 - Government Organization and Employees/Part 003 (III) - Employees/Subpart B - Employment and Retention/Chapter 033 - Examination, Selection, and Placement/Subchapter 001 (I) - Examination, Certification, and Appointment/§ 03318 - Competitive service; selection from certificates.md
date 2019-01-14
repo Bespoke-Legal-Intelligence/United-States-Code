@@ -16,7 +16,7 @@ In general.—During the 240-day period beginning on the date of issuance of a c
 
 &emsp;(2)
 
-Applicability.—An appointing authority requesting a certificate of eligibles may sharethe certificate with another appointing authority only if the announcement of the original position provided notice that the resulting list of eligible candidates may be used by another appointing authority.
+Applicability.—An appointing authority requesting a certificate of eligibles may share the certificate with another appointing authority only if the announcement of the original position provided notice that the resulting list of eligible candidates may be used by another appointing authority.
 
 &emsp;(3)
 
@@ -42,7 +42,7 @@ Collective bargaining obligations.—Nothing in this subsection limits any colle
 
 (c)(1) If an appointing authority proposes to pass over a preference eligible on a certificate in order to select an individual who is not a preference eligible, such authority shall file written reasons with the Office for passing over the preference eligible. The Office shall make the reasons presented by the appointing authority part of the record of the preference eligible and may require the submission of more detailed information from the appointing authority in support of the passing over of the preference eligible. The Office shall determine the sufficiency or insufficiency of the reasons submitted by the appointing authority, taking into account any response received from the preference eligible under paragraph (2) of this subsection. When the Office has completed its review of the proposed passover, it shall send its findings to the appointing authority and to the preference eligible. The appointing authority shall comply with the findings of the Office.
 
-(2) In the case of a preference eligible described in section 2108(3)(C) of this title who has a compensable service-connected disability of 30 percent or more, the appointing authority shall at the same time it notifies the Office under paragraph (1) of this subsection, notify the preference eligible of the proposed passover, of the reasons therefor, and of his right to respond to such reasons to the Office within 15 days of the date of such notification. The Office shall, before completing its review under paragraph (1) of this subsection, require a demonstration by the appointing authority that the passover notification was timely sent to the preference eligible's last known address.
+(2) In the case of a preference eligible described in section 2108(3)(C) of this title who has a compensable service-connected disability of 30 percent or more, the appointing authority shallat the same time it notifies the Office under paragraph (1) of this subsection, notify the preference eligible of the proposed passover, of the reasons therefor, and of his right to respond to such reasons to the Office within 15 days of the date of such notification. The Office shall, before completing its review under paragraph (1) of this subsection, require a demonstration by the appointing authority that the passover notification was timely sent to the preference eligible's last known address.
 
 (3) A preference eligible not described in paragraph (2) of this subsection, or his representative, shall be entitled, on request, to a copy of—
 
@@ -55,6 +55,86 @@ Collective bargaining obligations.—Nothing in this subsection limits any colle
 (d) When three or more names of preference eligibles are on a reemployment list appropriate for the position to be filled, a nominating or appointing authority may appoint from a register of eligibles established after examination only an individual who qualifies as a preference eligible under section 2108(3)(C)–(G) of this title.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 421; Pub. L. 90–83, §1(8), Sept. 11, 1967, 81 Stat. 197; Pub. L. 95–454, title III, §307(d), title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1148, 1224; Pub. L. 114–137, §2(a), Mar. 18, 2016, 130 Stat. 310.)
+
+#### Repeal and Reenactment of Section
+
+<i>Pub. L. 115–232, div. A, title XI, §1107(a), (d), Aug. 13, 2018, 132 Stat. 2003, 2005, provided that, effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, this section is repealed and a new section 3318 is enacted to read as follows:</i>
+
+#### §3318. Competitive service; selections using numerical ratings
+
+(a)
+
+In General.—An appointing authority shall select for appointment from the eligibles certified for appointment on a certificate furnished under section 3317(a), unless objection to one or more of the individuals certified is made to, and sustained by, the Director of the Office of Personnel Management or the head of an agency to which the Director has delegated examining authority under section 1104(a)(2), for proper and adequate reason under regulations prescribed by the Director.
+
+(b)
+
+Other Appointing Authorities.—
+
+&emsp;(1)
+
+In general.—During the 240-day period beginning on the date of issuance of a certificate of eligibles under section 3317(a), an appointing authority other than the appointing authority requesting the certificate (in this subsection referred to as the "other appointing authority") may select an individual from that certificate in accordance with this subsection for an appointment to a position that is—
+
+&emsp;&emsp;(A) in the same occupational series as the position for which the certification of eligibles was issued (in this subsection referred to as the "original position"); and
+
+&emsp;&emsp;(B) at a similar grade level as the original position.
+
+&emsp;(2)
+
+Applicability.—An appointing authority requesting a certificate of eligibles may share the certificate with another appointing authority only if the announcement of the original position provided notice that the resulting list of eligible candidates may be used by another appointing authority.
+
+&emsp;(3)
+
+Requirements.—The selection of an individual under paragraph (1)—
+
+&emsp;&emsp;(A) shall be made in accordance with subsection (a); and
+
+&emsp;&emsp;(B) subject to paragraph (4), may be made without any additional posting under section 3327.
+
+&emsp;(4)
+
+Internal notice.—Before selecting an individual under paragraph (1), the other appointing authority shall—
+
+&emsp;&emsp;(A) provide notice of the available position to employees of the other appointing authority;
+
+&emsp;&emsp;(B) provide up to 10 business days for employees of the other appointing authority to apply for the position; and
+
+&emsp;&emsp;(C) review the qualifications of employees submitting an application.
+
+(c)
+
+Pass Over.—
+
+&emsp;(1)
+
+In general.—Subject to subparagraph (2), if an appointing authority proposes to pass over a preference eligible certified for appointment under subsection (a) and select an individual who is not a preference eligible, the appointing authority shall file written reasons with the Director or the head of the agency for passing over the preference eligible. The Director or the head of the agency shall make the reasons presented by the appointing authority part of the record of the preference eligible and may require the submission of more detailed information from the appointing authority in support of the passing over of the preference eligible. The Director or the head of the agency shall determine the sufficiency or insufficiency of the reasons submitted by the appointing authority, taking into account any response received from the preference eligible under paragraph (2). When the Director or the head of the agency has completed review of the proposed pass-over of the preference eligible, the Director or the head of the agency shall send its findings to the appointing authority and to the preference eligible. The appointing authority shall comply with the findings.
+
+&emsp;(2)
+
+Preference eligible individuals who have a compensable service-connected disability.—In the case of a preference eligible described in section 2108(3)(C) who has a compensable service-connected disability of 30 percent or more, the appointing authority shall notify the Director under paragraph (1) and, at the same time, notify the preference eligible of the proposed pass-over, of the reasons for the proposed pass-over, and of the individual's right to respond to those reasons to the Director within 15 days of the date of the notification. The Director shall, before completing thereview under paragraph (1), require a demonstration by the appointing authority that the notification was timely sent to the preference eligible's last known address.
+
+&emsp;(3)
+
+Further consideration not required.—When a preference eligible, for reasons considered sufficient by the Director, or in the case of a preference eligible described in paragraph (1), by the head of an agency, has been passed over in accordance with this subsection for the same position, the appointing authority is not required to give further consideration to that preference eligible while selecting from the same list for a subsequent appointment to such position.
+
+&emsp;(4)
+
+Delegation prohibition.—In the case of a preference eligible described in paragraph (2), the functions of the Director under this subsection may not be delegated to an individual who is not an officer or employee of the Office of Personnel Management.
+
+(d)
+
+Special Rule Regarding Reemployment Lists.—When the names of preference eligibles are on a reemployment list appropriate for the position to be filled, an appointing authority may appoint from a register of eligibles established after examination only an individual who qualifies as a preference eligible under subparagraph (C), (D), (E), (F), or (G) of section 2108(3).
+
+(e)
+
+Consideration Not Required.—In accordance with regulations prescribed by the Director, an appointing officer is not required to consider an eligible who has been considered by the appointing officer for three separate appointments from the same or different certificates for the same position.
+
+(f)
+
+Regulations.—The Director shall prescribe regulations for the administration of this section.
+
+(d)\[sic\]
+
+Definition.—In this section, the term "Director" means the Director of the Office of Personnel Management.
 
 Historical and Revision Notes
 
@@ -103,6 +183,10 @@ Standard changes are made to conform with the definitions applicable and the sty
 Subsec. (b). Pub. L. 95–454, §307(d), designated existing provisions as par. (1), substituted provisions respecting authority of the Office with respect to the selection procedures applicable, for provisions respecting authority of the Commission with respect to the selection procedures applicable, and added pars. (2) to (4).
 
 <b>1967</b>—Subsec. (c). Pub. L. 90–83 substituted "section 2108(3)(C)–(G)" for "section 2108(3)(B)–(F)." See Historical and Revision Notes under section 3305 of this title.
+
+#### Effective Date of 2018 Amendment
+
+Repeal and reenactment of section effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, see section 1107(d) of Pub. L. 115–232, set out as a note under section 3317 of this title.
 
 #### Effective Date of 1978 Amendment
 

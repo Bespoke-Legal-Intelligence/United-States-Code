@@ -18,7 +18,7 @@ Rule for Ground Combat Personnel Policy.—(1) If the Secretary of Defense propo
 
 &emsp;(B) a detailed analysis of legal implication of the proposed change with respect to the constitutionality of the application of the Military Selective Service Act (50 App. U.S.C. 451 et seq.) <sup>1</sup> to males only.
 
-(4) In this subsection, the term "ground combat exclusion policy" means the military personnel policies of the Department of Defense and the military departments, as in effect on October 1, 1994, by which female members of the armed forces are restricted from assignment to units and positions below brigade level whose primary mission is to engage in direct combat on the ground.
+(4) In this subsection, the term "ground combat exclusion policy" means the military personnel policies of the Department of Defense and the military departments, as in effect on October 1, 1994, by which female members of thearmed forces are restricted from assignment to units and positions below brigade level whose primary mission is to engage in direct combat on the ground.
 
 \[(5) Repealed. Pub. L. 114–92, div. A, title V, §524(a)(2), Nov. 25, 2015, 129 Stat. 813.\]
 
@@ -30,7 +30,7 @@ Rule for Ground Combat Personnel Policy.—(1) If the Secretary of Defense propo
 
 (b)
 
-Other Personnel Policy Changes.—(1) Except in a case covered by section 6035 of this title or by subsection (a), whenever the Secretary of Defense proposes to make a change to military personnel policies described in paragraph (2), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice, in writing, of the proposed change.
+Other Personnel Policy Changes.—(1) Except in a case covered by section 8225 of this title or by subsection (a), whenever the Secretary of Defense proposes to make a change to military personnel policies described in paragraph (2), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice, in writing, of the proposed change.
 
 (2) Paragraph (1) applies to a proposed military personnel policy change, other than a policy change covered by subsection (a), that would make available to female members of the armed forces assignment to any of the following that, as of the date of the proposed change, is closed to such assignment:
 
@@ -40,7 +40,7 @@ Other Personnel Policy Changes.—(1) Except in a case covered by section 6035 o
 
 &emsp;(C) Any type of combat platform.
 
-(Added Pub. L. 109–163, div. A, title V, §541(a)(1), Jan. 6, 2006, 119 Stat. 3251; amended Pub. L. 114–92, div. A, title V, §524, Nov. 25, 2015, 129 Stat. 813.)
+(Added Pub. L. 109–163, div. A, title V, §541(a)(1), Jan. 6, 2006, 119 Stat. 3251; amended Pub. L. 114–92, div. A, title V, §524, Nov. 25, 2015, 129 Stat. 813; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 #### References in Text
 
@@ -54,11 +54,17 @@ Provisions similar to those in this section were contained in Pub. L. 103–160,
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b). Pub. L. 115–232 substituted "section 8225" for "section 6035".
+
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–92, §524(a)(1), substituted "not less than 30 calendar days before such change is implemented" for "before any such change is implemented" and struck out at end "Such a change may then be implemented only after the end of a period of 30 days of continuous session of Congress (excluding any day on which either House of Congress is not in session) following the date on which the report is received."
 
 Subsec. (a)(5). Pub. L. 114–92, §524(a)(2), struck out par. (5) which read as follows: "For purposes of this subsection, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die."
 
 Subsec. (b)(1). Pub. L. 114–92, §524(b), inserted "calendar" before "days".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -32,7 +32,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;(12) supporting the placement of special victim assistants (to be known as "Jessica Gonzales Victim Assistants") in local law enforcement agencies to serve as liaisons between victims of domestic violence, dating violence, sexual assault, and stalking and personnel in local law enforcement agencies in order to improve the enforcement of protection orders. Jessica Gonzales Victim Assistants shall have expertise in domestic violence, dating violence, sexual assault, or stalking and may undertake the following activities—
 
-&emsp;&emsp;(A) developing, in collaboration with prosecutors, courts, and victim service providers, standardized response policies for local law enforcement agencies, including the use of evidence-based indicators to assess the risk of domestic and dating violence homicide and prioritize dangerous or potentially lethal cases;
+&emsp;&emsp;(A) developing, in collaboration with prosecutors, courts, and victim service providers, standardized response policies for local law enforcement agencies, including the useof evidence-based indicators to assess the risk of domestic and dating violence homicide and prioritize dangerous or potentially lethal cases;
 
 &emsp;&emsp;(B) notifying persons seeking enforcement of protection orders as to what responses will be provided by the relevant law enforcement agency;
 

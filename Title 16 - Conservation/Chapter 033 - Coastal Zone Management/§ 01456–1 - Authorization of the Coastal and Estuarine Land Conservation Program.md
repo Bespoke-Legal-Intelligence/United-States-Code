@@ -44,7 +44,7 @@ The Secretary shall allocate funds to coastal states or National Estuarine Resea
 
 &emsp;(9) Eligible coastal states or National Estuarine Research Reserves may allocate grants to local governments or agencies eligible for assistance under section 1455a(e) of this title.
 
-&emsp;(10) The Secretary shall develop performance measures that the Secretary shall use to evaluate and report on the program's effectiveness in accomplishing its purposes, and shall submit such evaluations to Congress triennially.
+&emsp;(10) The Secretary shall develop performance measures that the Secretary shall use to evaluate and report on the program's effectiveness in accomplishing its purposes, andshall submit such evaluations to Congress triennially.
 
 #### (d) Limitations and private property protections
 
@@ -126,7 +126,7 @@ In this section:
 
 #### (1) Conservation easement
 
-&emsp;The term "conservation easement" includes an easement or restriction, recorded deed, or areserve interest deed where the grantee acquires all rights, title, and interest in a property, that do not conflict with the goals of this section except those rights, title, and interests that may run with the land that are expressly reserved by a grantor and are agreed to at the time of purchase.
+&emsp;The term "conservation easement" includes an easement or restriction, recorded deed, or a reserve interest deed where the grantee acquires all rights, title, and interest in a property, that do not conflict with the goals of this section except those rights, title, and interests that may run with the land that are expressly reserved by a grantor and are agreed to at the time of purchase.
 
 #### (2) Interest in property
 

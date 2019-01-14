@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;(i) the cost sharing imposed under subsection (a) with respect to any item or service may not exceed 10 percent of the cost of such item or service; and
 
-&emsp;&emsp;&emsp;(ii) the total aggregate amount of cost sharing imposed under this section (including any cost sharing imposed under subsection (c) or (e)) for all individuals in the family may not exceed 5 percent of the family income of the family involved, as applied on a quarterly or monthly basis (as specified by the State).
+&emsp;&emsp;&emsp;(ii) the total aggregate amount of cost sharing imposed under this section (including any cost sharing imposed under subsection (c) or (e)) for all individuals in the family may not exceed 5 percent of thefamily income of the family involved, as applied on a quarterly or monthly basis (as specified by the State).
 
 #### (2) Individuals with family income above 150 percent of the poverty line
 
@@ -100,7 +100,7 @@
 
 #### (4) Determinations of family income
 
-&emsp;In applying this subsection, family income shall be determined in a manner specified by the State for purposes of this subsection, including the use of such disregards as the State may provide. Family income shall be determined for such period and at such periodicity as the State may provide under this subchapter.
+&emsp;In applying this subsection, family income shall be determined in a manner specified bythe State for purposes of this subsection, including the use of such disregards as the State may provide. Family income shall be determined for such period and at such periodicity as the State may provide under this subchapter.
 
 #### (5) Poverty line defined
 
@@ -156,7 +156,7 @@
 
 #### (1) Premiums
 
-&emsp;Notwithstanding section 1396o(c)(3) of this title and section 1396a(a)(10)(B) of this title, a State may, at its option, condition the provision of medical assistance for an individual upon prepayment of a premium authorized to be imposed under this section, or may terminate eligibility for such medical assistance on the basis of failure to pay such a premium butshall not terminate eligibility of an individual for medical assistance under this subchapter on the basis of failure to pay any such premium until such failure continues for a period of not less than 60 days. A State may apply the previous sentence for some or all groups of beneficiaries as specified by the State and may waive payment of any such premium in any case where the State determines that requiring such payment would create an undue hardship.
+&emsp;Notwithstanding section 1396o(c)(3) of this title and section 1396a(a)(10)(B) of this title, a State may, at its option, condition the provision of medical assistance for an individual upon prepayment of a premium authorized to be imposed under this section, or may terminate eligibility for such medical assistance on the basis of failure to pay such a premium but shall not terminate eligibility of an individual for medical assistance under this subchapter on the basis of failure to pay any such premium until such failure continues for a period of not less than 60 days. A State may apply the previous sentence for some or all groups of beneficiaries as specified by the State and may waive payment of any such premium in any case where the State determines that requiring such payment would create an undue hardship.
 
 #### (2) Cost sharing
 

@@ -106,11 +106,11 @@ The Board shall—
 
 #### (f) Informing the public
 
-The Board shall—
+The Board—
 
-&emsp;(1) make its reports, including its reports to Congress, available to the public to the greatest extent that is consistent with the protection of classified information and applicable law; and
+&emsp;(1) shall make its reports, including its reports to Congress, available to the public to the greatest extent that is consistent with the protection of classified information and applicable law; and
 
-&emsp;(2) hold public hearings and otherwise inform the public of its activities, as appropriate and in a manner consistent with the protection of classified information and applicable law.
+&emsp;(2) shall hold public hearings and otherwise inform the public of its activities, as appropriate and in a manner consistent with the protection of classified information and applicable law, but may, notwithstanding section 552b of title 5, meet or otherwise communicate in any number to confer or deliberate in a manner that is closed to the public.
 
 #### (g) Access to information
 
@@ -204,11 +204,15 @@ The Board shall—
 
 &emsp;The chairman of the Board, in accordance with rules agreed upon by the Board, shall appoint and fix the compensation of a full-time executive director and such other personnel as may be necessary to enable the Board to carry out its functions, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable for a position at level V of the Executive Schedule under section 5316 of title 5.
 
-#### (2) Detailees
+#### (2) Appointment in absence of chairman
+
+&emsp;If the position of chairman of the Board is vacant, during the period of the vacancy, the Board, at the direction of the unanimous vote of the serving members of the Board, may exercise the authority of the chairman under paragraph (1).
+
+#### (3) Detailees
 
 &emsp;Any Federal employee may be detailed to the Board without reimbursement from the Board, and such detailee shall retain the rights, status, and privileges of the detailee's regular employment without interruption.
 
-#### (3) Consultant services
+#### (4) Consultant services
 
 &emsp;The Board may procure the temporary or intermittent services of experts and consultants in accordance with section 3109 of title 5, at rates that do not exceed the daily rate paid a person occupying a position at level IV of the Executive Schedule under section 5315 of such title.
 
@@ -244,7 +248,7 @@ There are authorized to be appropriated to carry out this section amounts as fol
 
 &emsp;(5) For fiscal year 2012 and each subsequent fiscal year, such sums as may be necessary.
 
-(Pub. L. 108–458, title I, §1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, §801(a), Aug. 3, 2007, 121 Stat. 352; Pub. L. 114–113, div. M, title III, §305, Dec. 18, 2015, 129 Stat. 2913.)
+(Pub. L. 108–458, title I, §1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, §801(a), Aug. 3, 2007, 121 Stat. 352; Pub. L. 114–113, div. M, title III, §305, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 115–118, title I, §108, Jan. 19, 2018, 132 Stat. 15.)
 
 #### References in Text
 
@@ -257,6 +261,14 @@ Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (l)(2
 Section was formerly set out as a note under section 601 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f). Pub. L. 115–118, §108(b)(1), substituted "The Board" for "The Board shall" in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 115–118, §108(b)(2), substituted "shall make its" for "make its".
+
+Subsec. (f)(2). Pub. L. 115–118, §108(b)(3), substituted "shall hold public" for "hold public" and inserted before period at end ", but may, notwithstanding section 552b of title 5, meet or otherwise communicate in any number to confer or deliberate in a manner that is closed to the public".
+
+Subsec. (j)(2) to (4). Pub. L. 115–118, §108(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 <b>2015</b>—Subsec. (g)(5). Pub. L. 114–113 added par. (5).
 
@@ -380,7 +392,7 @@ Sec. 4. <i>Membership and Operation</i>. The Board shall consist exclusively of 
 
 (u) such other officers of the United States as the Deputy Attorney General may from time to time designate.
 
-A member of the Board may designate, to perform the Board or Board subgroup functions of the member, any person who is part of such member's department or agency and who is either (i) an officer of the United States appointed by the President, or (ii) a member of the Senior Executive Service or the Senior Intelligence Service. The Chair, after consultation with the Vice Chair, shall convene and preside at meetings of the Board, determine its agenda, direct its work, and, as appropriate to deal with particular subject matters, establish and direct subgroups of the Board that shall consist exclusively of members of the Board. The Chair may invite, in his discretion, officers or employees of other departments or agencies to participate in the work of the Board. The Chair shall convene the first meeting of the Board within 20 days after the date of this order and shall thereafter convene meetings of theBoard at such times as the Chair, after consultation with the Vice Chair, deems appropriate. The Deputy Attorney General shall designate an official of the Department of Justice to serve as the Executive Director of the Board.
+A member of the Board may designate, to perform the Board or Board subgroup functions of the member, any person who is part of such member's department or agency and who is either (i) an officer of the United States appointed by the President, or (ii) a member of the Senior Executive Service or the Senior Intelligence Service. The Chair, after consultation with the Vice Chair, shall convene and preside at meetings of the Board, determine its agenda, direct its work, and, as appropriate to deal with particular subject matters, establish and direct subgroups of the Board that shall consist exclusively of members of the Board. The Chair may invite, in his discretion, officers or employees of other departments or agencies to participate in the work of the Board. The Chair shall convene the first meeting of the Board within 20 days after the date of this order and shall thereafter convene meetings of the Board at such times as the Chair, after consultation with the Vice Chair, deems appropriate. The Deputy Attorney General shall designate an official of the Department of Justice to serve as the Executive Director of the Board.
 
 Sec. 5. <i>Cooperation</i>. To the extent permitted by law, all Federal departments and agencies shall cooperate with the Board and provide the Board with such information, support, and assistance as the Board, through the Chair, may request.
 

@@ -26,11 +26,11 @@ Upon the basis of facts disclosed by the record and reports of the Securities an
 
 &emsp;(4) when the control of investment companies is unduly concentrated through pyramiding or inequitable methods of control, or is inequitably distributed, or when investment companies are managed by irresponsible persons;
 
-&emsp;(5) when investment companies, in keeping their accounts, in maintaining reserves, and incomputing their earnings and the asset value of their outstanding securities, employ unsound or misleading methods, or are not subjected to adequate independent scrutiny;
+&emsp;(5) when investment companies, in keeping their accounts, in maintaining reserves, and in computing their earnings and the asset value of their outstanding securities, employ unsound or misleading methods, or are not subjected to adequate independent scrutiny;
 
 &emsp;(6) when investment companies are reorganized, become inactive, or change the character of their business, or when the control or management thereof is transferred, without the consent of their security holders;
 
-&emsp;(7) when investment companies by excessive borrowing and the issuance of excessive amounts of senior securities increase unduly the speculative character of their junior securities; or
+&emsp;(7) when investment companies by excessive borrowing and the issuance of excessive amounts of senior securities increase undulythe speculative character of their junior securities; or
 
 &emsp;(8) when investment companies operate without adequate assets or reserves.
 

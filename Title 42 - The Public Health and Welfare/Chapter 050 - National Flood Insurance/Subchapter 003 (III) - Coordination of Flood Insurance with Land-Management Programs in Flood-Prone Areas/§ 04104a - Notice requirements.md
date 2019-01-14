@@ -34,7 +34,7 @@
 
 #### (c) Notification of expiration of insurance
 
-The Administrator (or the designee of the Administrator) shall, not less than 45 days before the expiration of any contract for flood insurance under this chapter, issue notice of such expiration by first class mail to the owner of theproperty covered by the contract, the servicer of any loan secured by the property covered by the contract, and (if known to the Administrator) the owner of the loan.
+The Administrator (or the designee of the Administrator) shall, not less than 45 days before the expiration of any contract for flood insurance under this chapter, issue notice of such expiration by first class mail to the owner of the property covered by the contract, the servicer of any loan secured by the property covered by the contract, and (if known to the Administrator) the owner of the loan.
 
 (Pub. L. 90–448, title XIII, §1364, as added Pub. L. 93–383, title VIII, §816(a), Aug. 22, 1974, 88 Stat. 739; amended Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §527, Sept. 23, 1994, 108 Stat. 2263; Pub. L. 112–141, div. F, title II, §§100238(b)(1), 100239(b), July 6, 2012, 126 Stat. 958, 960.)
 

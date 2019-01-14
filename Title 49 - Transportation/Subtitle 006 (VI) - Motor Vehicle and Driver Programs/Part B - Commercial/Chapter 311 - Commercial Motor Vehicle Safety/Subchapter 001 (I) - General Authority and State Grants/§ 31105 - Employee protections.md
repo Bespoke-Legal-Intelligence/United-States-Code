@@ -46,7 +46,7 @@ Filing Complaints and Procedures.—(1) An employee alleging discharge, discipli
 
 (c)
 
-De Novo Review.—With respect to a complaint under paragraph (1),<sup>1</sup> if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the requestof either party to such action, be tried by the court with a jury.
+De Novo Review.—With respect to a complaint under paragraph (1),<sup>1</sup> if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury.
 
 (d)
 
@@ -68,7 +68,7 @@ Rights Retained by Employee.—Nothing in this section shall be deemed to dimini
 
 Disclosure of Identity.—
 
-&emsp;(1) Except as provided in paragraph (2) of this subsection, or with the written consent of the employee, the Secretary of Transportation or the Secretary of Homeland Security may not disclose the name of an employee who has provided information about an alleged violation of this part, or a regulation prescribed or order issued under any of those provisions.
+&emsp;(1) Except as provided in paragraph (2) of this subsection, or with the written consent of the employee, the Secretary of Transportation or the Secretary of Homeland Security maynot disclose the name of an employee who has provided information about an alleged violation of this part, or a regulation prescribed or order issued under any of those provisions.
 
 &emsp;(2) The Secretary of Transportation or the Secretary of Homeland Security shall disclose to the Attorney General the name of an employee described in paragraph (1) of this subsection if the matter is referred to the Attorney General for enforcement. The Secretary making such disclosure shall provide reasonable advance notice to the affected employee if disclosure of that person's identity or identifying information is to occur.
 

@@ -3,12 +3,7 @@ Subpart B—Information Concerning Transactions With Other Persons
 | Sec. |  |
 | :--- | ---: |
 | [6041\.](%C2%A7%2006041%20-%20Information%20at%20source.md) | Information at source. |
-| [6041A.](%C2%A7%2006041A%20-%20Returns%20regarding%20payments%20of%20remuneration%20for%20services%20and%20direct%20sales.md) | Returns regarding payments of remuneration for services and direct sales.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [6041A.](%C2%A7%2006041A%20-%20Returns%20regarding%20payments%20of%20remuneration%20for%20services%20and%20direct%20sales.md) | Returns regarding payments of remuneration for services and direct sales. |
 | [6042\.](%C2%A7%2006042%20-%20Returns%20regarding%20payments%20of%20dividends%20and%20corporate%20earnings%20and%20profits.md) | Returns regarding payments of dividends and corporate earnings and profits. |
 | [6043\.](%C2%A7%2006043%20-%20Liquidating%2C%20etc.%2C%20transactions.md) | Liquidating, etc., transactions. |
 | [6043A.](%C2%A7%2006043A%20-%20Returns%20relating%20to%20taxable%20mergers%20and%20acquisitions.md) | Returns relating to taxable mergers and acquisitions. |
@@ -30,12 +25,7 @@ Subpart B—Information Concerning Transactions With Other Persons
 | [6050F.](%C2%A7%2006050F%20-%20Returns%20relating%20to%20social%20security%20benefits.md) | Returns relating to social security benefits. |
 | [6050G.](%C2%A7%2006050G%20-%20Returns%20relating%20to%20certain%20railroad%20retirement%20benefits.md) | Returns relating to certain railroad retirement benefits. |
 | [6050H.](%C2%A7%2006050H%20-%20Returns%20relating%20to%20mortgage%20interest%20received%20in%20trade%20or%20business%20from%20individuals.md) | Returns relating to mortgage interest received in trade or business from individuals. |
-| [6050I.](%C2%A7%2006050I%20-%20Returns%20relating%20to%20cash%20received%20in%20trade%20or%20business%2C%20etc.md) | Returns relating to cash received in trade or business, etc..<sup>2</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [6050I.](%C2%A7%2006050I%20-%20Returns%20relating%20to%20cash%20received%20in%20trade%20or%20business%2C%20etc.md) | Returns relating to cash received in trade or business, etc. |
 | [6050J.](%C2%A7%2006050J%20-%20Returns%20relating%20to%20foreclosures%20and%20abandonments%20of%20security.md) | Returns relating to foreclosures and abandonments of security. |
 | [6050K.](%C2%A7%2006050K%20-%20Returns%20relating%20to%20exchanges%20of%20certain%20partnership%20interests.md) | Returns relating to exchanges of certain partnership interests. |
 | [6050L.](%C2%A7%2006050L%20-%20Returns%20relating%20to%20certain%20donated%20property.md) | Returns relating to certain donated property. |
@@ -48,18 +38,15 @@ Subpart B—Information Concerning Transactions With Other Persons
 | [6050T.](%C2%A7%2006050T%20-%20Returns%20relating%20to%20credit%20for%20health%20insurance%20costs%20of%20eligible%20individuals.md) | Returns relating to credit for health insurance costs of eligible individuals. |
 | [6050U.](%C2%A7%2006050U%20-%20Charges%20or%20payments%20for%20qualified%20long-term%20care%20insurance%20contracts%20under%20combined%20arrangements.md) | Charges or payments for qualified long-term care insurance contracts under combined arrangements. |
 | [6050V.](%C2%A7%2006050V%20-%20Returns%20relating%20to%20applicable%20insurance%20contracts%20in%20which%20certain%20exempt%20organizations%20hold%20interests.md) | Returns relating to applicable insurance contracts in which certain exempt organizations hold interests. |
-| [6050W.](%C2%A7%2006050W%20-%20Returns%20relating%20to%20payments%20made%20in%20settlement%20of%20payment%20card%20and%20third%20party%20network%20transactions.md) | Returns relating to payments made in settlement of payment card transactions.<sup>3</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [6050W.](%C2%A7%2006050W%20-%20Returns%20relating%20to%20payments%20made%20in%20settlement%20of%20payment%20card%20and%20third%20party%20network%20transactions.md) | Returns relating to payments made in settlement of payment card and third party network transactions. |
 | [6050X.](%C2%A7%2006050X%20-%20Information%20with%20respect%20to%20certain%20fines%2C%20penalties%2C%20and%20other%20amounts.md) | Information with respect to certain fines, penalties, and other amounts. |
 | [6050Y.](%C2%A7%2006050Y%20-%20Returns%20relating%20to%20certain%20life%20insurance%20contract%20transactions.md) | Returns relating to certain life insurance contract transactions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(260)–(262), Mar. 23, 2018, 132 Stat. 1196, added item 6041A and substituted "Returns relating to cash received in trade or business, etc." for "Returns relating to cash received in trade or business, etc.." in item 6050I and "Returns relating to payments made in settlement of payment card and third party network transactions" for "Returns relating to payments made in settlement of payment card transactions" in item 6050W.
 
 <b>2017</b>—Pub. L. 115–97, title I, §§13306(b)(2), 13520(b), Dec. 22, 2017, 131 Stat. 2129, 2150, added items 6050X and 6050Y.
 
@@ -71,7 +58,7 @@ Pub. L. 110–289, div. C, title III, §3091(d), July 30, 2008, 122 Stat. 2911, 
 
 Pub. L. 109–280, title VIII, §844(d)(3), Aug. 17, 2006, 120 Stat. 1013, added item 6050U.
 
-<b>2004</b>—Pub. L. 108–357, title VIII, §882(c)(2), Oct. 22, 2004, 118 Stat. 1630, which directed amendment of theanalysis for subpart A of part II of subchapter A of chapter 61 of this title by substituting "Returns relating to certain donated property" for "Returns relating to certain dispositions of donated property" in item 6050L, was executed by making the substitution in item 6050L in the analysis for this subpart, to reflect the probable intent of Congress.
+<b>2004</b>—Pub. L. 108–357, title VIII, §882(c)(2), Oct. 22, 2004, 118 Stat. 1630, which directed amendment of the analysis for subpart A of part II of subchapter A of chapter 61 of this title by substituting "Returns relating to certain donated property" for "Returns relating to certain dispositions of donated property" in item 6050L, was executed by making the substitution in item 6050L in the analysis for this subpart, to reflect the probable intent of Congress.
 
 Pub. L. 108–357, title VIII, §805(c), Oct. 22, 2004, 118 Stat. 1574, added item 6043A.
 
@@ -124,12 +111,6 @@ Pub. L. 98–21, title I, §121(f)(4), Apr. 20, 1983, 97 Stat. 84, added item 60
 Pub. L. 87–792, §7(m)(2), Oct. 10, 1962, 76 Stat. 831, added item 6047.
 
 <b>1960</b>—Pub. L. 86–780, §7(b), Sept. 14, 1960, 74 Stat. 1016, substituted "Returns as to creation or organization, or reorganization, of foreign corporations" for "Returns as to formation or reorganization of foreign corporations," in item 6046.
-
-<i><sup>1</sup></i><i> Editorially supplied. Section 6041A added by Pub. L. 97–248 without corresponding amendment of subpart analysis.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
-
-<i><sup>3</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

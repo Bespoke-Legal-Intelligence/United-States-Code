@@ -132,7 +132,7 @@ If savings in salaries and expenses result from the consolidation of administrat
 
 #### (4) Report
 
-&emsp;Not later than 30 days after the end of each fiscal year, the Commissioner shall report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives on the resources directed to commercial and trade facilitation functions within the Office of Field Operations for the preceding fiscal year. Such information shall be reported for each category of personnel within the Office of Field Operations.
+&emsp;Not later than 30 days after the end of each fiscal year, the Commissioner shall report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives on the resources directed to commercial and trade facilitation functions within the Office of Field Operations for the preceding fiscal year. Such informationshall be reported for each category of personnel within the Office of Field Operations.
 
 #### (5) Regulations to implement trade agreements
 

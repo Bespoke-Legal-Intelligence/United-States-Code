@@ -14,7 +14,7 @@ Within each regional bureau of the Department, the Secretary shall task an exist
 
 #### (c) Training
 
-The Secretary shall establish curriculum at the George P. Shultz National Foreign AffairsTraining Center to develop the practical foreign economic policy expertise and skill sets of Foreign Service officers, including by making available distance-learning courses in commercial, economic, and business affairs, including in the following:
+The Secretary shall establish curriculum at the George P. Shultz National Foreign Affairs Training Center to develop the practical foreign economic policy expertise and skill sets of Foreign Service officers, including by making available distance-learning courses in commercial, economic, and business affairs, including in the following:
 
 &emsp;(1) The global business environment.
 

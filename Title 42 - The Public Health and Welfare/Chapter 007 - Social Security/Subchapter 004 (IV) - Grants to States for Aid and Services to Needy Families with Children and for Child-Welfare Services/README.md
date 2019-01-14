@@ -15,5 +15,5 @@ Pub. L. 87–543, title I, §104(a)(1), July 25, 1962, 76 Stat. 185, substituted
 - [Part B - Child and Family Services](Part%20B%20-%20Child%20and%20Family%20Services/README.md)
 - [Part C - Work Incentive Program for Recipients of Aid under State Plan Approved under Part A](Part%20C%20-%20Work%20Incentive%20Program%20for%20Recipients%20of%20Aid%20under%20State%20Plan%20Approved%20under%20Part%20A/README.md)
 - [Part D - Child Support and Establishment of Paternity](Part%20D%20-%20Child%20Support%20and%20Establishment%20of%20Paternity/README.md)
-- [Part E - Federal Payments for Foster Care and Adoption Assistance](Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/README.md)
+- [Part E - Federal Payments for Foster Care, Prevention, and Permanency](Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%2C%20Prevention%2C%20and%20Permanency/README.md)
 - [Part F - Job Opportunities and Basic Skills Training Program](Part%20F%20-%20Job%20Opportunities%20and%20Basic%20Skills%20Training%20Program/README.md)

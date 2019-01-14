@@ -152,7 +152,7 @@
 
 &emsp;&emsp;(E) subject to subparagraphs (D) and (L), and except as provided by subparagraph (M), provides that—
 
-&emsp;&emsp;&emsp;(i) not more than 6 months prior to the date on which the borrower's first payment is due, the lender shall offer the borrower of a loan made, insured, or guaranteed under this section or section 1078–8 of this title, the option of repaying the loan in accordance with a standard, graduated, income-sensitive, or extended repayment schedule (as described in paragraph (9)) established by the lender in accordance with regulations of the Secretary; and
+&emsp;&emsp;&emsp;(i) not more than 6 months prior to the date on which the borrower's first payment is due, the lender shall offer the borrower of a loan made, insured, or guaranteed under this section or section 1078–8 of this title, the option of repaying the loanin accordance with a standard, graduated, income-sensitive, or extended repayment schedule (as described in paragraph (9)) established by the lender in accordance with regulations of the Secretary; and
 
 &emsp;&emsp;&emsp;(ii) repayment of loans shall be in installments in accordance with the repayment plan selected under paragraph (9) and commencing at the beginning of the repayment period determined under paragraph (7);
 
@@ -202,9 +202,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) is performing qualifying National Guard duty during a war or other military operation or national emergency,
 
-&emsp;&emsp;&nbsp;and for the 180-day period following the demobilization date for the service described in subclause (I) or (II); or
+&emsp;&emsp;&nbsp;and for the 180-day period following the demobilization date for the service described in subclause (I) or (II);
 
-&emsp;&emsp;&emsp;(iv) not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085(o) of this title, has caused or will cause the borrower to have an economic hardship;
+&emsp;&emsp;&emsp;(iv) not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed bythe Secretary under section 1085(o) of this title, has caused or will cause the borrower to have an economic hardship; or
+
+&emsp;&emsp;&emsp;(v) during which the borrower is receiving treatment for cancer and the 6 months after such period;
 
 &emsp;&emsp;(N) provides that funds borrowed by a student—
 
@@ -216,7 +218,7 @@
 
 &emsp;&emsp;(O) provides that the proceeds of the loans will be disbursed in accordance with the requirements of section 1078–7 of this title;
 
-&emsp;&emsp;(P) requires the borrower to notify the institution concerning any change in local address during enrollment and requires the borrower and the institution at which the borrower is in attendance promptly to notify the holder of the loan, directly or through the guaranty agency, concerning (i) any change of permanent address, (ii) when the student ceases to be enrolled on at least a half-time basis, and (iii) any other change instatus, when such change in status affects the student's eligibility for the loan;
+&emsp;&emsp;(P) requires the borrower to notify the institution concerning any change in local address during enrollment and requires the borrower and the institution at which the borrower is in attendance promptly to notify the holder of the loan, directly or through the guaranty agency, concerning (i) any change of permanent address, (ii) when the student ceases to be enrolled on at least a half-time basis, and (iii) any other change in status, when such change in status affects the student's eligibility for the loan;
 
 &emsp;&emsp;(Q) provides for the guarantee of loans made to students and parents under sections 1078–1 <sup>1</sup> and 1078–2 of this title;
 
@@ -238,7 +240,7 @@
 
 > &emsp;&emsp;except that, if a guaranty agency limits, suspends, or terminates the participation of an eligible institution, the Secretary shall apply that limitation, suspension, or termination to all locations of such institution, unless the Secretary finds, within 30 days of notification of the action by the guaranty agency, that the guaranty agency's action did not comply with the requirements of this section;
 
-&emsp;&emsp;(U) provides (i) for the eligibility of all lenders described in section 1085(d)(1) of this title under reasonable criteria, unless (I) that lender is eliminated as a lender under regulations for the emergency action, limitation, suspension, or termination of a lender under the Federal student loan insurance program or is eliminated as a lender pursuant to criteria issued under the student loan insurance program which are substantially the same as regulations with respect to such eligibility as a lender issued under the Federal student loan insurance program, or (II) there is a State constitutional prohibition affecting the eligibility of a lender, (ii) assurances that the guaranty agency will report to the Secretary concerning changes in such criteria, including any procedures in effect under such program to take emergency action, limit, suspend, or terminate lenders, and (iii) for (I) a compliance audit of each lender that originates or holds more than $5,000,000 in loans made under this subchapter for any lender fiscal year (except that each lender described in section 1085(d)(1)(A)(ii)(III) of this title shall annually submit the results of an audit required by this clause), at least once a year and covering the period since the most recent audit, conducted by a qualified, independent organization or person in accordance with standards established by the Comptroller General for the audit of governmental organizations, programs, and functions, and as prescribed in regulations of the Secretary, the results of which shall be submitted to the Secretary, or (II) with regard to a lender that is audited under chapter 75 of title 31, such audit shall be deemed to satisfy the requirements of subclause (I) for the period covered by such audit, except that the Secretary may waive the requirements of this clause (iii) if the lender submits to the Secretary the results of an audit conducted for other purposes that the Secretary determines provides the same information as the audits required by this clause;
+&emsp;&emsp;(U) provides (i) for the eligibility of all lenders described in section 1085(d)(1) of this title under reasonable criteria, unless (I) that lender is eliminated as a lender under regulations for the emergency action, limitation, suspension, or termination of a lender under the Federal student loan insurance program or is eliminated as a lender pursuant to criteria issued under the student loan insurance program which are substantially the same as regulations with respect to such eligibility as a lender issued under the Federal student loan insurance program, or (II) there is a State constitutional prohibition affecting the eligibility of a lender, (ii) assurances that the guaranty agency will report to the Secretary concerning changes in such criteria, including any procedures in effect under such program to take emergency action, limit, suspend, or terminate lenders,and (iii) for (I) a compliance audit of each lender that originates or holds more than $5,000,000 in loans made under this subchapter for any lender fiscal year (except that each lender described in section 1085(d)(1)(A)(ii)(III) of this title shall annually submit the results of an audit required by this clause), at least once a year and covering the period since the most recent audit, conducted by a qualified, independent organization or person in accordance with standards established by the Comptroller General for the audit of governmental organizations, programs, and functions, and as prescribed in regulations of the Secretary, the results of which shall be submitted to the Secretary, or (II) with regard to a lender that is audited under chapter 75 of title 31, such audit shall be deemed to satisfy the requirements of subclause (I) for the period covered by such audit, except that the Secretary may waive the requirements of this clause (iii) if the lender submits to the Secretary the results of an audit conducted for other purposes that the Secretary determines provides the same information as the audits required by this clause;
 
 &emsp;&emsp;(V) provides authority for the guaranty agency to require a participation agreement between the guaranty agency and each eligible institution within the State in which it is designated, as a condition for guaranteeing loans made on behalf of students attending the institution;
 
@@ -282,7 +284,7 @@
 
 &emsp;&emsp;(ii) provide that the lender (or the holder of the loan) shall, not later than 120 days after the borrower has left the eligible institution, notify the borrower of the date on which the repayment period begins; and
 
-&emsp;&emsp;(F) provide that, if the sale, other transfer, or assignment of a loan made under this part to another holder will result in a change in the identity of the party to whom the borrower must send subsequent payments or direct any communications concerning the loans, then—
+&emsp;&emsp;(F) provide that, if the sale, other transfer, or assignment of a loan made under this part to another holder will result in a change inthe identity of the party to whom the borrower must send subsequent payments or direct any communications concerning the loans, then—
 
 &emsp;&emsp;&emsp;(i) the transferor and the transferee will be required, not later than 45 days from the date the transferee acquires a legally enforceable right to receive payment from the borrower on such loan, either jointly or separately to provide a notice to the borrower of—
 
@@ -346,7 +348,7 @@
 
 #### (6) State guaranty agency information request of State licensing boards
 
-&emsp;Each guaranty agency is authorized to enter into agreements with each appropriate State licensing board under which the State licensing board, upon request, will furnish the guaranty agency with the address of a student borrower in any case in which the location of the student borrower is unknown or unavailable to the guaranty agency.
+&emsp;Each guaranty agency is authorized to enter into agreements with each appropriate Statelicensing board under which the State licensing board, upon request, will furnish the guaranty agency with the address of a student borrower in any case in which the location of the student borrower is unknown or unavailable to the guaranty agency.
 
 #### (7) Repayment period
 
@@ -410,7 +412,7 @@
 
 &emsp;&emsp;(iii) subparagraph (B)(ii) by substituting "100 percent" for "75 percent".
 
-&emsp;(E) Notwithstanding any other provisions of this section, in the case of an outstanding loantransferred to a guaranty agency from another guaranty agency pursuant to a plan approved by the Secretary in response to the insolvency of the latter such guarantee agency, the Secretary shall apply the provision of—
+&emsp;(E) Notwithstanding any other provisions of this section, in the case of an outstanding loan transferred to a guaranty agency from another guaranty agency pursuant to a plan approved by the Secretary in response to the insolvency of the latter such guarantee agency, the Secretary shall apply the provision of—
 
 &emsp;&emsp;(i) the fourth sentence of subparagraph (A) by substituting "100 percent" for "95 percent"; <sup>1</sup>
 
@@ -440,7 +442,7 @@
 
 &emsp;&emsp;(C) shall set forth adequate assurances that, with respect to so much of any loan insured under the loan insurance program as may be guaranteed by the Secretary pursuant to this subsection, the undertaking of the Secretary under the guaranty agreement is acceptable in full satisfaction of State law or regulation requiring the maintenance of a reserve;
 
-&emsp;&emsp;(D) shall provide that if, after the Secretary has made payment under the guaranty agreement pursuant to paragraph (1) of this subsection with respect to any loan, any payments are made in discharge of the obligation incurred by the borrower with respect to such loan (including any payments of interest accruing on such loan after such payment by the Secretary), there shall be paid over to the Secretary (for deposit in the fund established by section 1081 of this title) such proportion of the amounts of such payments as is determined (in accordance with paragraph (6)(A)) to represent his equitable share thereof, but (i) shall provide for subrogation of the United States to the rights of any insurance beneficiary only to the extent required for the purpose of paragraph (8); and (ii) except as the Secretary may otherwise by or pursuant to regulation provide, amounts so paid by a borrower on such a loan shall be first applied in reduction of principal owing on such loan;
+&emsp;&emsp;(D) shall provide that if, after the Secretary has made payment under the guaranty agreement pursuant to paragraph (1) of this subsection with respect to any loan, any payments are made in discharge of the obligation incurred by the borrower with respect to such loan (including any payments of interest accruing on such loan after such payment by the Secretary), there shall be paid over to the Secretary (for deposit in the fund established by section 1081 of this title) suchproportion of the amounts of such payments as is determined (in accordance with paragraph (6)(A)) to represent his equitable share thereof, but (i) shall provide for subrogation of the United States to the rights of any insurance beneficiary only to the extent required for the purpose of paragraph (8); and (ii) except as the Secretary may otherwise by or pursuant to regulation provide, amounts so paid by a borrower on such a loan shall be first applied in reduction of principal owing on such loan;
 
 &emsp;&emsp;(E) shall set forth adequate assurance that an amount equal to each payment made under paragraph (1) will be promptly deposited in or credited to the accounts maintained for the purpose of section 1072(c) of this title;
 
@@ -484,7 +486,7 @@
 
 &emsp;&emsp;&emsp;(iii) no administrative or other fee may be charged in connection with the granting of a forbearance under clause (i), and no adverse information regarding a borrower may be reported to a consumer reporting agency solely because of the granting of such forbearance;
 
-&emsp;&emsp;(B) may, to the extent provided in regulations of the Secretary, contain provisions that permit such forbearance for the benefit of the student borrower as may be agreed upon by the parties to an insured loan and approved by the insurer;
+&emsp;&emsp;(B) may, to the extent provided in regulations of the Secretary, contain provisions that permit such forbearance for the benefit of the student borrower as may be agreedupon by the parties to an insured loan and approved by the insurer;
 
 &emsp;&emsp;(C) shall contain provisions that specify that—
 
@@ -508,7 +510,7 @@
 
 &emsp;&emsp;(D) shall contain provisions that specify that—
 
-&emsp;&emsp;&emsp;(i) forbearance for a period not to exceed 60 days may be granted if the lender reasonably determines that such a suspensionof collection activity is warranted following a borrower's request for deferment, forbearance, a change in repayment plan, or a request to consolidate loans, in order to collect or process appropriate supporting documentation related to the request, and
+&emsp;&emsp;&emsp;(i) forbearance for a period not to exceed 60 days may be granted if the lender reasonably determines that such a suspension of collection activity is warranted following a borrower's request for deferment, forbearance, a change in repayment plan, or a request to consolidate loans, in order to collect or process appropriate supporting documentation related to the request, and
 
 &emsp;&emsp;&emsp;(ii) during such period interest shall accrue but not be capitalized.
 
@@ -654,7 +656,7 @@ No provision of any law of the United States (other than this chapter and sectio
 
 &emsp;&emsp;&emsp;(i) for loans originated during fiscal years beginning on or after October 1, 1998, and before October 1, 2003, and in accordance with the provisions of this paragraph, shall, except as provided in subparagraph (C), pay to each guaranty agency, a loan processing and issuance fee equal to 0.65 percent of the total principal amount of the loans on which insurance was issued under this part during such fiscal year by such agency; and
 
-&emsp;&emsp;&emsp;(ii) for loans originated on or after October 1, 2003, and first disbursed before July 1, 2010, and in accordance with the provisions of this paragraph, shall, except as provided in subparagraph (C), pay to each guaranty agency, a loan processing and issuance fee equal to 0.40 percent of the total principal amount of the loans on which insurance was issued under this part during such fiscal year by such agency.
+&emsp;&emsp;&emsp;(ii) for loans originated on or after October 1, 2003, and first disbursed before July1, 2010, and in accordance with the provisions of this paragraph, shall, except as provided in subparagraph (C), pay to each guaranty agency, a loan processing and issuance fee equal to 0.40 percent of the total principal amount of the loans on which insurance was issued under this part during such fiscal year by such agency.
 
 #### (B) Payment
 
@@ -708,7 +710,7 @@ If a nonprofit private institution or organization—
 
 &emsp;&emsp;(A) the program establishes operating hours and methods of application designed to facilitate application by students and ensure a response within 60 days after the student's original complete application is filed under this subsection;
 
-&emsp;&emsp;(B) consistent with standards established by the Secretary, students applying for loans under this subsection shall not be subject to additional eligibility requirements or requests for additional information beyond what is required under this subchapter in order to receive a loan under this part from an eligible lender, nor, in the case of students and parents applying for loans under this subsection because of an inability to otherwise obtain loans under this part (except for consolidation loans under section 1078–3 of this title), be required to receive more than two rejections from eligible lenders in order to obtain a loan under this subsection;
+&emsp;&emsp;(B) consistent with standards established by the Secretary, students applying for loans under this subsection shall not be subject to additional eligibility requirements orrequests for additional information beyond what is required under this subchapter in order to receive a loan under this part from an eligible lender, nor, in the case of students and parents applying for loans under this subsection because of an inability to otherwise obtain loans under this part (except for consolidation loans under section 1078–3 of this title), be required to receive more than two rejections from eligible lenders in order to obtain a loan under this subsection;
 
 &emsp;&emsp;(C) information about the availability of loans under the program is made available to institutions of higher education in the State; and
 
@@ -748,7 +750,7 @@ If a nonprofit private institution or organization—
 
 &emsp;Each guaranty agency or eligible lender that serves as a lender-of-last-resort under this subsection—
 
-&emsp;&emsp;(A) shall be subject to the prohibitions on inducements contained in subsection (b)(3) and the requirements of section 1085(d)(5) of this title; and
+&emsp;&emsp;(A) shall be subject to the prohibitions on inducements contained in subsection (b)(3)and the requirements of section 1085(d)(5) of this title; and
 
 &emsp;&emsp;(B) shall not advertise, market, or otherwise promote loans under this subsection, except that nothing in this paragraph shall prohibit a guaranty agency from fulfilling its responsibilities under paragraph (2)(C).
 
@@ -880,7 +882,7 @@ If a nonprofit private institution or organization—
 
 &emsp;For the purposes of this subsection, the term "special allowance",<sup>6</sup> means a special allowance that is payable with respect to a loan under section 1087–1 of this title.
 
-(Pub. L. 89–329, title IV, §428, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1367; amended Pub. L. 100–50, §10(a)–(c), (e)–(m), June 3, 1987, 101 Stat. 341–343; Pub. L. 100–203, title III, §§3001(b), 3002(b), 3003, Dec. 22, 1987, 101 Stat. 1330–38, 1330–39; Pub. L. 100–369, §§5(b)(2), 7(c), 11(a), July 18, 1988, 102 Stat. 836–838; Pub. L. 101–239, title II, §§2002(a)(2), (b)(1), 2004(b)(1), (3), 2006(b), Dec. 19, 1989, 103 Stat. 2111, 2116, 2118; Pub. L. 101–508, title III, §§3002, 3004(b), Nov. 5, 1990, 104 Stat. 1388–25, 1388–27; Pub. L. 102–26, §9, Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §§601(b), 602(b), 604, 605(b)(2), Nov. 15, 1991, 105 Stat. 1065, 1066, 1068; Pub. L. 102–325, title IV, §§411(b)(2), 416(a)–(e)(1), (f)–(p)(7), (q)–(t), July 23, 1992, 106 Stat. 510, 516–525, 527–529; Pub. L. 103–66, title IV, §§4041(a)(1), (2)(B), (b), 4043(a), 4044, 4045, 4102(c), 4107(a), (b), 4108(a), (b), 4110(a), 4112(a), 4201(a), Aug. 10, 1993, 107 Stat. 354, 355, 358, 359, 367–370; Pub. L. 103–82, title I, §102(c)(1), Sept. 21, 1993, 107 Stat. 823; Pub. L. 103–208, §2(c)(11)–(28), Dec. 20, 1993, 107 Stat. 2462–2465; Pub. L. 103–382, title III, §355(a), Oct. 20, 1994, 108 Stat. 3967; Pub. L. 105–33, title VI, §§6101(b), 6104(2), Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–244, title IV, §417(a)–(c)(1)(A), (2)–(k), Oct. 7, 1998, 112 Stat. 1682–1690; Pub. L. 107–314, div. A, title VI, §651(b), Dec. 2, 2002, 116 Stat. 2579; Pub. L. 109–171, title VIII, §§8004(b)(2), 8005(b), 8007(a), 8008(a), 8009(b)(1), 8014(a)(1), (b)(1), (c)(1), (d), (e), (j)(1)–(3), Feb. 8, 2006, 120 Stat. 158, 160, 162, 164, 168–171; Pub. L. 110–84, title II, §202(a), title III, §§301, 302(b)(1), 303(a), Sept. 27, 2007, 121 Stat. 791, 796, 797; Pub. L. 110–227, §§3(b), 5(a), May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title I, §103(b)(4), title IV, §§422(a)(1), (b)–(g)(1), (h)–(j), 424(b), 432(b)(2), 438(a)(2), Aug. 14, 2008, 122 Stat. 3088, 3227–3231, 3233, 3246, 3258; Pub. L. 110–350, §2, Oct. 7, 2008, 122 Stat. 3947; Pub. L. 111–39, title IV, §402(a)(1), (b)(1), (f)(1), July 1, 2009, 123 Stat. 1940, 1943; Pub. L. 111–152, title II, §2204, Mar. 30, 2010, 124 Stat. 1075; Pub. L. 112–74, div. F, title III, §309(d)(1), Dec. 23, 2011, 125 Stat. 1101; Pub. L. 114–113, div. H, title III, §311, Dec. 18, 2015, 129 Stat. 2638.)
+(Pub. L. 89–329, title IV, §428, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1367; amended Pub. L. 100–50, §10(a)–(c), (e)–(m), June 3, 1987, 101 Stat. 341–343; Pub. L. 100–203, title III, §§3001(b), 3002(b), 3003, Dec. 22, 1987, 101 Stat. 1330–38, 1330–39; Pub. L. 100–369, §§5(b)(2), 7(c), 11(a), July 18, 1988, 102 Stat. 836–838; Pub. L. 101–239, title II, §§2002(a)(2), (b)(1), 2004(b)(1), (3), 2006(b), Dec. 19, 1989, 103 Stat. 2111, 2116, 2118; Pub. L. 101–508, title III, §§3002, 3004(b), Nov. 5, 1990, 104 Stat. 1388–25, 1388–27; Pub. L. 102–26, §9, Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §§601(b), 602(b), 604, 605(b)(2), Nov. 15, 1991, 105 Stat. 1065, 1066, 1068; Pub. L. 102–325, title IV, §§411(b)(2), 416(a)–(e)(1), (f)–(p)(7), (q)–(t), July 23, 1992, 106 Stat. 510, 516–525, 527–529; Pub. L. 103–66, title IV, §§4041(a)(1), (2)(B), (b), 4043(a), 4044, 4045, 4102(c), 4107(a), (b), 4108(a), (b), 4110(a), 4112(a), 4201(a), Aug. 10, 1993, 107 Stat. 354, 355, 358, 359, 367–370; Pub. L. 103–82, title I, §102(c)(1), Sept. 21, 1993, 107 Stat. 823; Pub. L. 103–208, §2(c)(11)–(28), Dec. 20, 1993, 107 Stat. 2462–2465; Pub. L. 103–382, title III, §355(a), Oct. 20, 1994, 108 Stat. 3967; Pub. L. 105–33, title VI, §§6101(b), 6104(2), Aug. 5, 1997,111 Stat. 652; Pub. L. 105–244, title IV, §417(a)–(c)(1)(A), (2)–(k), Oct. 7, 1998, 112 Stat. 1682–1690; Pub. L. 107–314, div. A, title VI, §651(b), Dec. 2, 2002, 116 Stat. 2579; Pub. L. 109–171, title VIII, §§8004(b)(2), 8005(b), 8007(a), 8008(a), 8009(b)(1), 8014(a)(1), (b)(1), (c)(1), (d), (e), (j)(1)–(3), Feb. 8, 2006, 120 Stat. 158, 160, 162, 164, 168–171; Pub. L. 110–84, title II, §202(a), title III, §§301, 302(b)(1), 303(a), Sept. 27, 2007, 121 Stat. 791, 796, 797; Pub. L. 110–227, §§3(b), 5(a), May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title I, §103(b)(4), title IV, §§422(a)(1), (b)–(g)(1), (h)–(j), 424(b), 432(b)(2), 438(a)(2), Aug. 14, 2008, 122 Stat. 3088, 3227–3231, 3233, 3246, 3258; Pub. L. 110–350, §2, Oct. 7, 2008, 122 Stat. 3947; Pub. L. 111–39, title IV, §402(a)(1), (b)(1), (f)(1), July 1, 2009, 123 Stat. 1940, 1943; Pub. L. 111–152, title II, §2204, Mar. 30, 2010, 124 Stat. 1075; Pub. L. 112–74, div. F, title III, §309(d)(1), Dec. 23, 2011, 125 Stat. 1101; Pub. L. 114–113, div. H, title III, §311, Dec. 18, 2015, 129 Stat. 2638; Pub. L. 115–245, div. B, title III, §309(c), Sept. 28, 2018, 132 Stat. 3106.)
 
 #### References in Text
 
@@ -890,7 +892,7 @@ Section 1078–1 of this title, referred to in subsecs. (a)(2)(E) and (b)(1)(B),
 
 The phrase " '95 percent' ", referred to in subsec. (c)(1)(D)(i), (E)(i), and (F)(i)(I) as appearing in "the fourth sentence of subparagraph (A)", no longer appears in subpar. (A) of subsec. (c)(1) after the amendment by Pub. L. 114–113.
 
-The Higher Education Amendments of 1992, referred to in subsec. (c)(3)(A)(i)(I), is Pub. L. 102–325, July 23,1992, 106 Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
+The Higher Education Amendments of 1992, referred to in subsec. (c)(3)(A)(i)(I), is Pub. L. 102–325, July 23, 1992, 106 Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
 
 The National and Community Service Trust Act of 1993, referred to in subsec. (c)(3)(A)(i)(III), is Pub. L. 103–82, Sept. 21, 1993, 107 Stat. 785. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 12501 of Title 42, The Public Health and Welfare, and Tables.
 
@@ -905,6 +907,8 @@ A prior section 1078, Pub. L. 89–329, title IV, §428, Nov. 8, 1965, 79 Stat. 
 A prior section 1078a, Pub. L. 91–95, §2, Oct. 22, 1969, 83 Stat. 141; Pub. L. 92–318, title I, §134(a), June 23, 1972, 86 Stat. 270; Pub. L. 93–269, §5, Apr. 18, 1974, 88 Stat. 89; Pub. L. 94–328, §2(c), June 30, 1976, 90 Stat. 727; Pub. L. 94–482, title I, §127(c)(1), Oct. 12, 1976, 90 Stat. 2142, related to special allowances for insured student loans, prior to repeal by Pub. L. 94–482, title I, §127(c)(2), Oct. 12, 1976, 90 Stat. 2142.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1)(M)(v). Pub. L. 115–245 added cl. (v).
 
 <b>2015</b>—Subsec. (c)(1)(A). Pub. L. 114–113, which directed substitution of "100 percent" for "95 percent" in subsec. (c)(1), was executed by making the substitution the first time "95 percent" appeared to reflect the probable intent of Congress.
 
@@ -962,7 +966,7 @@ Subsec. (b)(1)(G)(i). Pub. L. 110–315, §438(a)(2)(A), struck out "or section 
 
 Subsec. (b)(1)(L)(i). Pub. L. 110–315, §422(e)(2), substituted "clause (ii), (iii), or (v)" for "clause (ii) or (iii)".
 
-Subsec. (b)(1)(Y)(i). Pub. L. 110–315, §422(c)(1)(A), added cl. (i) and struck out former cl. (i) which read asfollows: "the lender shall determine the eligibility of a borrower for a deferment described in subparagraph (M)(i) based on receipt of—
+Subsec. (b)(1)(Y)(i). Pub. L. 110–315, §422(c)(1)(A), added cl. (i) and struck out former cl. (i) which read as follows: "the lender shall determine the eligibility of a borrower for a deferment described in subparagraph (M)(i) based on receipt of—
 
 &emsp;"(I) a request for deferment from the borrower and documentation of the borrower's eligibility for the deferment;
 
@@ -1018,7 +1022,7 @@ Subsec. (j)(1). Pub. L. 110–227, §5(a)(1), after second sentence, inserted "N
 
 Pub. L. 110–227, §5(a)(1), in first sentence, substituted "eligible students and parents who are otherwise unable to obtain loans under this part (except for consolidation loans under section 1078–3 of this title) or who attend an institution of higher education in the State that is designated under paragraph (4)" for "students eligible to receive interest benefits paid on their behalf under subsection (a) of this section who are otherwise unable to obtain loans under this part".
 
-Subsec. (j)(2)(B). Pub. L. 110–227, §5(a)(2), inserted ", in the case of students and parents applying for loans under this subsection because of an inability to otherwise obtain loans under this part (except for consolidation loans under section 1078–3 of this title)," after "lender, nor".
+Subsec. (j)(2)(B). Pub. L. 110–227, §5(a)(2), inserted ", in the case of students and parents applying forloans under this subsection because of an inability to otherwise obtain loans under this part (except for consolidation loans under section 1078–3 of this title)," after "lender, nor".
 
 Subsec. (j)(2)(C) to (E). Pub. L. 110–315, §438(a)(2)(C), inserted "and" at the end of subpar. (C), substituted period for "; and" at the end of subpar. (D), and struck out subpar. (E) which read as follows: "the guaranty agency notifies the Secretary when the guaranty agency believes or has reason to believe that the Secretary may need to exercise the Secretary's authority under section 1087–2(q) of this title."
 
@@ -1050,7 +1054,7 @@ Subsec. (k)(4). Pub. L. 110–315, §422(i), added par. (4).
 
 Subsec. (m). Pub. L. 110–315, §422(j)(1), inserted "and income-based" after "Income contingent" in heading.
 
-Subsec. (m)(1). Pub. L. 110–315, §422(j)(2), inserted "or income-based repayment plan" before ", the terms and conditions" and "or an income-based repayment planunder section 1098e of this title, as the case may be" before the period at end.
+Subsec. (m)(1). Pub. L. 110–315, §422(j)(2), inserted "or income-based repayment plan" before ", the terms and conditions" and "or an income-based repayment plan under section 1098e of this title, as the case may be" before the period at end.
 
 Subsec. (m)(2). Pub. L. 110–315, §422(j)(3), inserted "or income-based" after "income contingent" in heading.
 
@@ -1206,7 +1210,7 @@ Subsec. (c)(6). Pub. L. 105–244, §417(c)(5), amended heading and text of par.
 
 Subsec. (c)(8). Pub. L. 105–244, §417(c)(6), redesignated subpar. (A) as entire par. and struck out subpar. (B) which read as follows: "An orderly transition from the Federal Family Education Loan Program under this part to the Federal Direct Student Loan Program under part D of this subchapter shall be deemed to be in the Federal fiscal interest, and a guaranty agency shall promptly assign loans to the Secretary under this paragraph upon the Secretary's request."
 
-Subsec. (c)(9)(A). Pub. L. 105–244, §417(c)(7)(A), substituted "maintain in the agency's Federal Student Loan Reserve Fund established under section 1072a ofthis title a current minimum reserve level of at least 0.25 percent" for "maintain a current minimum reserve level of at least .5 percent".
+Subsec. (c)(9)(A). Pub. L. 105–244, §417(c)(7)(A), substituted "maintain in the agency's Federal Student Loan Reserve Fund established under section 1072a of this title a current minimum reserve level of at least 0.25 percent" for "maintain a current minimum reserve level of at least .5 percent".
 
 Subsec. (c)(9)(C). Pub. L. 105–244, §417(c)(7)(B), substituted "85 percent pursuant to paragraph (1)(B)(i)" for "80 percent pursuant to subsection (c)(1)(B)(ii) of this section", struck out ", as appropriate," after "Secretary shall require", and substituted "45 working days" for "30 working days".
 
@@ -1294,7 +1298,7 @@ Subsec. (b)(1)(G). Pub. L. 103–66, §4108(b), substituted "98 percent" for "10
 
 Subsec. (b)(1)(H). Pub. L. 103–66, §4102(c), substituted "1.0 percent" for "3 percent".
 
-Subsec. (b)(1)(N). Pub. L. 103–208, §2(c)(15), amended subpar. (N) generally. Prior to amendment, subpar. (N)read as follows: "provides that funds borrowed by a student are disbursed to the institution by check or other means that is payable to and requires the endorsement or other certification by such student, except nothing in this subchapter shall be interpreted to allow the Secretary to require checks to be made co-payable to the institution and the borrower or to prohibit the disbursement of loan proceeds by means other than by check and except in the case of students who are studying outside the United States in a program of study abroad that is approved for credit by the home institution at which the student is enrolled, the funds shall, at the request of the borrower, be delivered directly to the student and the checks may be endorsed, and fund transfers authorized, pursuant to an authorized power-of-attorney;".
+Subsec. (b)(1)(N). Pub. L. 103–208, §2(c)(15), amended subpar. (N) generally. Prior to amendment, subpar. (N) read as follows: "provides that funds borrowed by a student are disbursed to the institution by check or other means that is payable to and requires the endorsement or other certification by such student, except nothing in this subchapter shall be interpreted to allow the Secretary to require checks to be made co-payable to the institution and the borrower or to prohibit the disbursement of loan proceeds by means other than by check and except in the case of students who are studying outside the United States in a program of study abroad that is approved for credit by the home institution at which the student is enrolled, the funds shall, at the request of the borrower, be delivered directly to the student and the checks may be endorsed, and fund transfers authorized, pursuant to an authorized power-of-attorney;".
 
 Subsec. (b)(1)(U). Pub. L. 103–208, §2(c)(16), inserted a comma after "emergency action" in two places and substituted "this clause" for "this clause;" at end.
 
@@ -1434,7 +1438,7 @@ Subsec. (b)(1)(B). Pub. L. 102–325, §416(b)(2), which directed the amendment 
 
 Subsec. (b)(1)(D), (E). Pub. L. 102–325, §416(c)(1), amended subpars. (D) and (E) generally. Prior to amendment, subpars. (D) and (E) read as follows:
 
-"(D) provides that (i) the student borrower shall be entitled to accelerate without penalty the whole or any part of an insured loan, (ii) except as provided in subparagraph (M) of this paragraph, the repayment period of any insured loan may not exceed 10 years, and (iii) the note or other written evidence of any loan, maycontain such reasonable provisions relating to repayment in the event of default by the borrower as may be authorized by regulations of the Secretary in effect at the time such note or written evidence was executed;
+"(D) provides that (i) the student borrower shall be entitled to accelerate without penalty the whole or any part of an insured loan, (ii) except as provided in subparagraph (M) of this paragraph, the repayment period of any insured loan may not exceed 10 years, and (iii) the note or other written evidence of any loan, may contain such reasonable provisions relating to repayment in the event of default by the borrower as may be authorized by regulations of the Secretary in effect at the time such note or written evidence was executed;
 
 "(E) subject to subparagraphs (D) and (L) of this paragraph and except as provided by subparagraph (M) of this paragraph, provides that repayment of loans shall be in installments over a period of not less than 5 years (unless the student, during the 6 months preceding the start of the repayment period, specifically requests that repayment be made over a shorter period) nor more than 10 years beginning 6 months after the month in which the student ceases to carry at least one-half the normal full-time academic workload as determined by the institution;".
 
@@ -1510,7 +1514,7 @@ Subsec. (m). Pub. L. 102–325, §416(t), added subsec. (m).
 
 <b>1991</b>—Subsec. (a)(2)(A)(iii). Pub. L. 102–164, §602(b)(1), added cl. (iii). Amendment was executed by striking "and" at end of cl. (i)(III) to reflect the probable intent of Congress notwithstanding directory language directing the striking of "and" at end of cl. (i)(I).
 
-Subsec. (a)(2)(F). Pub. L. 102–26 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "Except as provided in subparagraph (D), an eligible institution may not, in carrying out the provisions of subparagraphs (A) and (B) of this paragraph, refuse to provide to any eligible lender which has an agreement under subsection (b) of this section with any guaranty agency, a statement which permits a student to receive any loan under this part, except that, in individual cases where the institution determines that the portion of the student's expenses to be covered by the loan can be met more appropriately, either by the institution or directly by the student, from other sources, the institution may refuse to provide suchstatement or may reduce the determination of need contained in such statement."
+Subsec. (a)(2)(F). Pub. L. 102–26 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "Except as provided in subparagraph (D), an eligible institution may not, in carrying out the provisions of subparagraphs (A) and (B) of this paragraph, refuse to provide to any eligible lender which has an agreement under subsection (b) of this section with any guaranty agency, a statement which permits a student to receive any loan under this part, except that, in individual cases where the institution determines that the portion of the student's expenses to be covered by the loan can be met more appropriately, either by the institution or directly by the student, from other sources, the institution may refuse to provide such statement or may reduce the determination of need contained in such statement."
 
 Subsec. (b)(1)(W). Pub. L. 102–164, §601(b), added subpar. (W).
 
@@ -1600,6 +1604,10 @@ Subsec. (j). Pub. L. 100–50, §10(m), inserted provision at end that the guara
 
 Subsec. (k)(1). Pub. L. 100–203, §3003, substituted "Notwithstanding any other provision of law, in" for "In", "guaranty agency shall" for "guaranty agency may", and "subsection shall include" for "subsection may include".
 
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–245 applicable with respect to loans made on or after Sept. 28, 2018, or in repayment on Sept. 28, 2018, see section 309(f) of Pub. L. 115–245, set out as a note under section 1077 of this title.
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 112–74, div. F, title III, §309(d)(2), Dec. 23, 2011, 125 Stat. 1101, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to new Federal Direct Stafford Loans made on or after July 1, 2012 and before July 1, 2014."
@@ -1636,7 +1644,7 @@ Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provi
 
 Amendment by section 8005(b) of Pub. L. 109–171 effective July 1, 2007, see section 8005(e) of Pub. L. 109–171, set out as a note under section 1075 of this title.
 
-Pub. L. 109–171, title VIII, §8007(f), Feb. 8, 2006, 120 Stat. 161, as amended by Pub. L. 110–84, title II, §202(d), Sept. 27, 2007, 121 Stat. 792, provided that: "The amendments made by this section \[amending this section and sections 1087e, 1087dd, and 1088 of this title\] shall apply with respect to all loans under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.\]."
+Pub. L. 109–171, title VIII, §8007(f), Feb. 8, 2006, 120 Stat. 161, as amended by Pub. L. 110–84, title II, §202(d), Sept. 27, 2007, 121 Stat. 792, provided that: "The amendments made by this section \[amending this section andsections 1087e, 1087dd, and 1088 of this title\] shall apply with respect to all loans under title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.\]."
 
 Pub. L. 109–171, title VIII, §8014(a)(2), Feb. 8, 2006, 120 Stat. 168, provided that: "The amendment made by this subsection \[amending this section\] shall apply with respect to loans for which the first disbursement of principal is made on or after July 1, 2006."
 
@@ -1658,7 +1666,7 @@ Pub. L. 103–382, title III, §355(b), Oct. 20, 1994, 108 Stat. 3967, provided 
 
 #### Effective Date of 1993 Amendments
 
-Amendment by section 2(c)(11), (12), (14)–(17), (22)–(28) of Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, exceptas otherwise provided, amendment by section 2(c)(13)(A) of Pub. L. 103–208 effective on and after July 1, 1994, amendment by section 2(c)(13)(B), (C) and (18) of Pub. L. 103–208 effective on and after Dec. 20, 1993, and amendment by section 2(c)(19)–(21) of Pub. L. 103–208 effective on and after 30 days after Dec. 20, 1993, see section 5(a), (b)(2), (3), (6) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by section 2(c)(11), (12), (14)–(17), (22)–(28) of Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, amendment by section 2(c)(13)(A) of Pub. L. 103–208 effective on and after July 1, 1994, amendment by section 2(c)(13)(B), (C) and (18) of Pub. L. 103–208 effective on and after Dec. 20, 1993, and amendment by section 2(c)(19)–(21) of Pub. L. 103–208 effective on and after 30 days after Dec. 20, 1993, see section 5(a), (b)(2), (3), (6) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 
@@ -1732,7 +1740,7 @@ Amendment by section 2004(b)(1), (3) of Pub. L. 101–239 applicable with respec
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 11(a) of Pub. L. 100–369 applicable with respect to loans made, insured or guaranteedunder this part on, before, or after June 3, 1987, see section 11(b) of Pub. L. 100–369, set out as a note under section 1077 of this title.
+Amendment by section 11(a) of Pub. L. 100–369 applicable with respect to loans made, insured or guaranteed under this part on, before, or after June 3, 1987, see section 11(b) of Pub. L. 100–369, set out as a note under section 1077 of this title.
 
 Amendment by section 5(b)(2) of Pub. L. 100–369 effective with respect to loans made on or after Oct. 1, 1988, and amendment by section 7(c) of Pub. L. 100–369 effective July 18, 1988, see section 13(b) of Pub. L. 100–369, set out as a note under section 1091 of this title.
 

@@ -34,7 +34,7 @@ The Secretary shall—
 
 #### (III) Administrative costs
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may provide not more than 5 percent of the funds made available for grants under subclause (I) to pay the administrative costs of the Pacific Region Educational Laboratory in Honolulu, Hawaii, regarding activities assisted under this clause.
+&emsp;&emsp;&emsp;&emsp;The Secretary may provide not more than 5 percent of the funds made available for grants under subclause (I) to paythe administrative costs of the Pacific Region Educational Laboratory in Honolulu, Hawaii, regarding activities assisted under this clause.
 
 #### (iii) Additional requirement
 
@@ -50,7 +50,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;Subject to clauses (iii) and (iv), of the remainder—
 
-&emsp;&emsp;&emsp;&emsp;(I) 331/3 percent shall be allotted on the basis of the relative number of unemployed individuals in areas of substantial unemployment in each State, comparedto the total number of unemployed individuals in areas of substantial unemployment in all States;
+&emsp;&emsp;&emsp;&emsp;(I) 331/3 percent shall be allotted on the basis of the relative number of unemployed individuals in areas of substantial unemployment in each State, compared to the total number of unemployed individuals in areas of substantial unemployment in all States;
 
 &emsp;&emsp;&emsp;&emsp;(II) 331/3 percent shall be allotted on the basis of the relative excess number of unemployed individuals in each State, compared to the total excess number of unemployed individuals in all States; and
 
@@ -122,7 +122,7 @@ The Secretary shall—
 
 #### (E) Low-income level
 
-&emsp;&emsp;The term "low-income level" means $7,000 with respect to income in 1969, and for anylater year means that amount that bears the same relationship to $7,000 as the Consumer Price Index for that year bears to the Consumer Price Index for 1969, rounded to the nearest $1,000.
+&emsp;&emsp;The term "low-income level" means $7,000 with respect to income in 1969, and for any later year means that amount that bears the same relationship to $7,000 as the Consumer Price Index for that year bears to the Consumer Price Index for 1969, rounded to the nearest $1,000.
 
 #### (3) Special rule
 

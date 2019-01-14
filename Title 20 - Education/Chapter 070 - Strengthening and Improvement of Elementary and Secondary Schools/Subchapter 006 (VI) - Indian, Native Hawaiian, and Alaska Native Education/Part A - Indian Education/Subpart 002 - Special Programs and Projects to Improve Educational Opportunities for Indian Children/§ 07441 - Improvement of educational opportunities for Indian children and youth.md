@@ -90,7 +90,7 @@ The Secretary shall award grants to eligible entities to enable such entities to
 
 #### (B) Contents
 
-&emsp;&emsp;Each application submitted to the Secretary under subparagraph (A), other thanan application for a dissemination grant under paragraph (2), shall contain—
+&emsp;&emsp;Each application submitted to the Secretary under subparagraph (A), other than an application for a dissemination grant under paragraph (2), shall contain—
 
 &emsp;&emsp;&emsp;(i) a description of how parents and family of Indian children and representatives of Indian tribes have been, and will be, involved in developing and implementing the activities for which assistance is sought;
 

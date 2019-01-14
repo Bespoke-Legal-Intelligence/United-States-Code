@@ -10,7 +10,7 @@ Record of Service.—The Secretary, or in the case of personnel of the Army Tran
 
 (b)
 
-Timing of Documentation.—A Secretary receiving an application under subsection (a) shall act on the application not later than 1 year after the date of that receipt.
+Timing of Documentation.—A Secretary receiving an application under subsection (a)shall act on the application not later than 1 year after the date of that receipt.
 
 (c)
 

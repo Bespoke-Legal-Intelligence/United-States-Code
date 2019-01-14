@@ -20,5 +20,5 @@ Amendment by Pub. L. 95–478 effective at the close of Sept. 30, 1978, see sect
 
 #### Short Title
 
-Pub. L. 94–135, title III, §301, Nov. 28, 1975, 89 Stat. 728, provided that: "The provisions of this title \[enactingthis chapter\] may be cited as the 'Age Discrimination Act of 1975'."
+Pub. L. 94–135, title III, §301, Nov. 28, 1975, 89 Stat. 728, provided that: "The provisions of this title \[enacting this chapter\] may be cited as the 'Age Discrimination Act of 1975'."
 

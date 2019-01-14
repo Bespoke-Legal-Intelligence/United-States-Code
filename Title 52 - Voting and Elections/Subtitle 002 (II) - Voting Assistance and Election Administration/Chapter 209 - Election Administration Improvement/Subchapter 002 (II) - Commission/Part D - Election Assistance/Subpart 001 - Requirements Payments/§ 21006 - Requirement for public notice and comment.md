@@ -6,7 +6,7 @@ For purposes of section 21001(a)(1)(C) <sup>1</sup> of this title, a State plan
 
 &emsp;(2) the State publishes notice that the preliminary version of the plan is so available; and
 
-&emsp;(3) the State took the public comments made regarding the preliminary version of theplan into account in preparing the plan which was filed with the Commission.
+&emsp;(3) the State took the public comments made regarding the preliminary version of the plan into account in preparing the plan which was filed with the Commission.
 
 (Pub. L. 107–252, title II, §256, Oct. 29, 2002, 116 Stat. 1697.)
 

@@ -48,7 +48,7 @@ Except as provided in subsection (g), the Secretary of Commerce shall issue orde
 
 &emsp;&emsp;Subject to subparagraph (B), the Secretary of Commerce shall, as soon as possible after July 1, 1993—
 
-&emsp;&emsp;&emsp;(i) determine the species, grades, and geographic origin of unprocessed timber to be prohibited from export in each Statethat is subject to an order issued under subsection (a);
+&emsp;&emsp;&emsp;(i) determine the species, grades, and geographic origin of unprocessed timber to be prohibited from export in each State that is subject to an order issued under subsection (a);
 
 &emsp;&emsp;&emsp;(ii) administer the prohibitions consistent with sections 620 to 620j of this title;
 
@@ -102,11 +102,11 @@ Nothing in this section shall apply to—
 
 #### (f) Western red cedar
 
-Nothing in this section shall be construed to supersede section 4606(i) of title 50.
+Nothing in this section shall be construed to supersede section 4606(i) <sup>1</sup> of title 50.
 
 #### (g) Presidential authority
 
-The President is authorized, after suitable notice and a public comment period of not less than 120 days, to suspend the provisions of this section if a panel of experts has reported to the Dispute Settlement Body of the World Trade Organization (as the term "World Trade Organization" is defined in section 3501(8) of title 19), or a ruling issued under the formal dispute settlement proceeding provided under any other trade agreement finds, that the provisions of this section are in violation of, or inconsistent with, United States obligations under that trade agreement.
+The President is authorized, after suitable notice and a public comment period of not lessthan 120 days, to suspend the provisions of this section if a panel of experts has reported to the Dispute Settlement Body of the World Trade Organization (as the term "World Trade Organization" is defined in section 3501(8) of title 19), or a ruling issued under the formal dispute settlement proceeding provided under any other trade agreement finds, that the provisions of this section are in violation of, or inconsistent with, United States obligations under that trade agreement.
 
 #### (h) Removal or modifications of State restrictions
 
@@ -129,6 +129,10 @@ Notwithstanding any other provision of this section, beginning on January 1, 199
 Nothing in sections 620 to 620j of this title shall be construed to limit the authority of the President or the United States Trade Representative to take action authorized by law to respond appropriately to any measures taken by a foreign government in connection with sections 620 to 620j of this title.
 
 (Pub. L. 101–382, title IV, §491, Aug. 20, 1990, 104 Stat. 719; Pub. L. 103–45, §2, July 1, 1993, 107 Stat. 223; Pub. L. 105–83, title VI, §602(b), Nov. 14, 1997, 111 Stat. 1620; Pub. L. 106–36, title I, §1002(a)(2), June 25, 1999, 113 Stat. 133.)
+
+#### References in Text
+
+Section 4606(i) of title 50, referred to in subsec. (f), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Amendments
 
@@ -154,7 +158,7 @@ Subsecs. (c) to (l). Pub. L. 103–45, §2(3), (4), added subsecs. (c) to (f), s
 
 #### Severability of Provisions
 
-Pub. L. 103–45, §4, July 1, 1993, 107 Stat. 228, provided that: "If any provision of this Act \[amending this section and section 620d of this title and enacting provisions set out as a note under section 620 of this title\], or the amendments made by this Act, or the application thereof to any person or circumstance is held invalid, the remainder of this Act and such amendments and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation."
+Pub. L. 103–45, §4, July 1, 1993, 107 Stat. 228, provided that: "If any provision of this Act \[amending this section and section 620d of this title and enacting provisions set out as a note under section 620 of this title\],or the amendments made by this Act, or the application thereof to any person or circumstance is held invalid, the remainder of this Act and such amendments and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation."
 
 #### Extension and Issuance of Order Under Subsection (b)(2)
 
@@ -163,4 +167,6 @@ Pub. L. 104–208, div. A, title I, §101(d) \[title III\], Sept. 30, 1996, 110 
 Pub. L. 104–134, title I, §101(c) \[title III, §333\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–210; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 104–99, title I, §130, Jan. 26, 1996, 110 Stat. 34.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -98,7 +98,7 @@ The Secretary shall prepare an environmental impact statement under section 102(
 
 > whichever occurs sooner.
 
-(4) Notwithstanding any other provisions of this subsection, as soon as practicable following any determination by the Secretary, with the concurrence of the Commission, that the test and evaluation facility is unsuitable for continued operation, the Secretary shall take such actions as are necessary to remove from such site any radioactive material placed on such site as a result of testing and evaluation activities conducted under this section. Such requirementmay be waived if the Secretary, with the concurrence of the Commission, finds that short-term testing and evaluation activities using radioactive material will not endanger the public health and safety.
+(4) Notwithstanding any other provisions of this subsection, as soon as practicable following any determination by the Secretary, with the concurrence of the Commission, that the test and evaluation facility is unsuitable for continued operation, the Secretary shall take such actions as are necessary to remove from such site any radioactive material placed on such site as a result of testing and evaluation activities conducted under this section. Such requirement may be waived if the Secretary, with the concurrence of the Commission, finds that short-term testing and evaluation activities using radioactive material will not endanger the public health and safety.
 
 (Pub. L. 97–425, title II, §217, Jan. 7, 1983, 96 Stat. 2249.)
 

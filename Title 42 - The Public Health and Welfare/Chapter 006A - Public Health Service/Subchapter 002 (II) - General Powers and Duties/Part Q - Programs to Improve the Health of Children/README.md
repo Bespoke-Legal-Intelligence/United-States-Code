@@ -12,3 +12,5 @@ Part Q—Programs To Improve the Health of Children
 - [&sect; 00280h&#8211;4 - Grants for the establishment of school-based health centers](%C2%A7%2000280h%E2%80%934%20-%20Grants%20for%20the%20establishment%20of%20school-based%20health%20centers.md)
 - [&sect; 00280h&#8211;5 - School-based health centers](%C2%A7%2000280h%E2%80%935%20-%20School-based%20health%20centers.md)
 - [&sect; 00280h&#8211;6 - Infant and early childhood mental health promotion, intervention, and treatment](%C2%A7%2000280h%E2%80%936%20-%20Infant%20and%20early%20childhood%20mental%20health%20promotion%2C%20intervention%2C%20and%20treatment.md)
+- [&sect; 00280h&#8211;7 - Grants to improve trauma support services and mental health care for children and youth in educational settings](%C2%A7%2000280h%E2%80%937%20-%20Grants%20to%20improve%20trauma%20support%20services%20and%20mental%20health%20care%20for%20children%20and%20youth%20in%20educational%20settings.md)
+- [&sect; 00280h&#8211;8 - Recognizing early childhood trauma related to substance abuse](%C2%A7%2000280h%E2%80%938%20-%20Recognizing%20early%20childhood%20trauma%20related%20to%20substance%20abuse.md)

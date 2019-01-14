@@ -108,7 +108,7 @@ The Secretary may make a grant under subsection (a) or (b) only if the applicant
 
 &emsp;&emsp;&emsp;(iv) members from the general public who are knowledgeable with respect to tuberculosis elimination including individuals who have or have had tuberculosis; and
 
-&emsp;&emsp;&emsp;(v) scientists, physicians, laboratorians, and other health professionals who residein a foreign country with a substantial incidence or prevalence of tuberculosis, and who represent the specialties and disciplines relevant to the research under consideration.
+&emsp;&emsp;&emsp;(v) scientists, physicians, laboratorians, and other health professionals who reside in a foreign country with a substantial incidence or prevalence of tuberculosis, and who represent the specialties and disciplines relevant to the research under consideration.
 
 #### (C) Certain components of plan
 
@@ -216,7 +216,7 @@ Section 256a of this title, referred to in subsec. (c), was repealed by Pub. L. 
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–392, §101(1), substituted "National strategy for combating and eliminating tuberculosis" for "Preventive health services regarding tuberculosis" in section catchline.
+<b>2008</b>—Pub. L. 110–392, §101(1), substituted "National strategy for combating and eliminating tuberculosis"for "Preventive health services regarding tuberculosis" in section catchline.
 
 Subsec. (b). Pub. L. 110–392, §101(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to research, demonstration projects, education, and training for the purpose of prevention, control, and elimination of tuberculosis.
 

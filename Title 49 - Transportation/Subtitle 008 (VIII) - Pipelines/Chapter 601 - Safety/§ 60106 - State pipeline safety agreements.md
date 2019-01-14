@@ -84,7 +84,7 @@ Mandatory termination of agreement.—The Secretary shall end an agreement for t
 
 &emsp;(3)
 
-Procedural requirements.—The Secretary shall give notice and an opportunity for a hearing to a State authority before ending an agreement under this section. The Secretary may provide a State an opportunity to correct any deficiencies before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective forat least 15 days after the date of publication unless the Secretary finds that continuation of an agreement poses an imminent hazard.
+Procedural requirements.—The Secretary shall give notice and an opportunity for a hearing to a State authority before ending an agreement under this section. The Secretary may provide a State an opportunity to correct any deficiencies before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication unless the Secretary finds that continuation of an agreement poses an imminent hazard.
 
 (f)
 

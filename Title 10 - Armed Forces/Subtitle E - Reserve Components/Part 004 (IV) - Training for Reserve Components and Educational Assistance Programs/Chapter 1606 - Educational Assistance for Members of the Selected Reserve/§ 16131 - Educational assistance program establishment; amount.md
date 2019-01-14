@@ -30,7 +30,7 @@
 
 (B) The payment of the educational assistance allowance referred to in subparagraph (A) of this paragraph is the payment of such an allowance to the individual for pursuit of a course or courses under this chapter if the Secretary of Veterans Affairs finds that the individual—
 
-&emsp;(i) had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of this title; and
+&emsp;(i) had to discontinue such course pursuit as a result of being ordered to serve on activeduty under section 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of this title; and
 
 &emsp;(ii) failed to receive credit or training time toward completion of the individual's approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i), the individual's course pursuit.
 
@@ -66,7 +66,7 @@
 
 (C) Such allowance shall be paid quarterly on a pro rata basis for the lessons completed by the person and serviced by the institution.
 
-(2) In each case in which the amount of educational assistance is determined under paragraph (1), the period of entitlement of the personconcerned shall be charged with one month for each amount equal to the amount of the monthly rate payable under subsection (b)(1)(A) for the fiscal year concerned which is paid to the individual as an educational assistance allowance.
+(2) In each case in which the amount of educational assistance is determined under paragraph (1), the period of entitlement of the person concerned shall be charged with one month for each amount equal to the amount of the monthly rate payable under subsection (b)(1)(A) for the fiscal year concerned which is paid to the individual as an educational assistance allowance.
 
 (f)(1) Each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 16136(c) of this title shall be paid an educational assistance allowance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
 
@@ -82,7 +82,7 @@
 
 &emsp;(ii) has a deficiency in a subject required as a part of, or which is prerequisite to, or which is indispensable to the satisfactory pursuit of, the program of education.
 
-(B) The Secretary of Veterans Affairs shall not approve individualized tutorial assistance for a person pursuing a program of education under this paragraph unless such assistance is necessary for the person to successfully complete the program of education.
+(B) The Secretary of Veterans Affairs shall not approve individualized tutorial assistance for aperson pursuing a program of education under this paragraph unless such assistance is necessary for the person to successfully complete the program of education.
 
 (2)(A) Subject to subparagraph (B), the Secretary concerned, through the Secretary of Veterans Affairs, shall pay to a person receiving individualized tutorial assistance pursuant to paragraph (1) a tutorial assistance allowance. The amount of the allowance payable under this paragraph may not exceed $100 for any month, nor aggregate more than $1,200. The amount of the allowance paid under this paragraph shall be in addition to the amount of educational assistance allowance payable to a person under this chapter.
 

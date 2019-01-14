@@ -86,7 +86,7 @@ For the purposes of this chapter—
 
 &emsp;(C) which is listed as a threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), or is designated as depleted under this chapter.
 
-(20) The term "potential biological removal level" means the maximum number of animals,not including natural mortalities, that may be removed from a marine mammal stock while allowing that stock to reach or maintain its optimum sustainable population. The potential biological removal level is the product of the following factors:
+(20) The term "potential biological removal level" means the maximum number of animals, not including natural mortalities, that may be removed from a marine mammal stock while allowing that stock to reach or maintain its optimum sustainable population. The potential biological removal level is the product of the following factors:
 
 &emsp;(A) The minimum population estimate of the stock.
 
@@ -104,7 +104,7 @@ For the purposes of this chapter—
 
 &emsp;(C) are likely to identify, evaluate, or resolve conservation problems.
 
-(23) The term "Alaska Native organization" means a group designated by law or formally chartered which represents or consists of Indians, Aleuts, or Eskimos residing in Alaska.
+(23) The term "Alaska Native organization" means a group designated by law or formallychartered which represents or consists of Indians, Aleuts, or Eskimos residing in Alaska.
 
 (24) The term "take reduction plan" means a plan developed under section 1387 of this title.
 
@@ -180,7 +180,7 @@ Par. (8). Pub. L. 97–58, §1(a), (b)(2)(C), (D), redesignated par. (9) as (8) 
 
 Pars. (9) to (12). Pub. L. 97–58, §1(b)(2)(C), redesignated pars. (9) to (13) as (8) to (12), respectively.
 
-Par. (13). Pub. L. 97–58, §1(b)(2)(C), (E), redesignated par. (14) as (13) and substituted "the Virgin Islands of the United States, American Samoa, Guam, and Northern Mariana Islands" for "the Canal Zone, the possessions of the United States, and the Trust Territory of the Pacific Islands". Former par. (13) redesignated (12).
+Par. (13). Pub. L. 97–58, §1(b)(2)(C), (E), redesignated par. (14) as (13) and substituted "the Virgin Islands ofthe United States, American Samoa, Guam, and Northern Mariana Islands" for "the Canal Zone, the possessions of the United States, and the Trust Territory of the Pacific Islands". Former par. (13) redesignated (12).
 
 Pars. (14), (15). Pub. L. 97–58, §1(b)(2)(C), redesignated pars. (14) and (15) as (13) and (14), respectively.
 

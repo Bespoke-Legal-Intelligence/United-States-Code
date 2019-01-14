@@ -14,7 +14,7 @@ Venue in General.—A civil action may be brought in—
 
 &emsp;(1) a judicial district in which any defendant resides, if all defendants are residents of the State in which the district is located;
 
-&emsp;(2) a judicial district in which a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated; or
+&emsp;(2) a judicial district in which a substantial part of the events or omissions giving rise tothe claim occurred, or a substantial part of property that is the subject of the action is situated; or
 
 &emsp;(3) if there is no district in which an action may otherwise be brought as provided in this section, any judicial district in which any defendant is subject to the court's personal jurisdiction with respect to such action.
 
@@ -74,7 +74,7 @@ Provision in section 111 of title 28, U.S.C., 1940 ed., that a district court ma
 
 Word "action" was substituted for "suit" in view of Rule 2 of the Federal Rules of Civil Procedure.
 
-Word "reside" was substituted for "whereof he is an inhabitant" for clarity inasmuch as "inhabitant" and "resident" are synonymous. (See <i>Ex parte Shaw</i>, 1892, 12 S.Ct. 935, 145 U.S. 444, 36 L.Ed. 768; <i>Standard Stoker Co., Inc. v. Lower</i>, D.C., 1931, 46 F.2d 678; <i>Edgewater Realty Co. v. Tennessee Coal, Iron \& Railroad Co</i>., D.C., 1943, 49 F.Supp. 807.)
+Word "reside" was substituted for "whereof he is an inhabitant" for clarity inasmuch as "inhabitant" and "resident" are synonymous. (See <i>Ex parte Shaw</i>, 1892, 12 S.Ct. 935, 145 U.S. 444, 36 L.Ed. 768; <i>Standard Stoker Co., Inc. v. Lower</i>, D.C., 1931, 46 F.2d 678; <i>Edgewater Realty Co.</i><i>v. Tennessee Coal, Iron \& Railroad Co</i>., D.C., 1943, 49 F.Supp. 807.)
 
 Reference to "all plaintiffs" and "all defendants" were substituted for references to "the plaintiff" and "the defendant," in view of many decisions holding that the singular terms were used in a collective sense. (See <i>Smith v. Lyon</i>, 1890, 10 S.Ct. 303, 133 U.S. 315, 33 L.Ed. 635; <i>Hooe v. Jamieson</i>, 1897, 17 S.Ct. 596, 166 U.S. 395, 41 L.Ed. 1049; and <i>Fetzer v. Livermore</i>, D.C., 1926, 15 F.2d 462.)
 

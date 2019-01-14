@@ -22,7 +22,7 @@ Each State shall—
 
 &emsp;&emsp;(C) by which the absent uniformed services voter or overseas voter can designate whether the voter prefers that such voter registration application or absentee ballot application be transmitted by mail or electronically;
 
-&emsp;(7) in addition to any other method of transmitting blank absentee ballots in the State, establish procedures for transmitting by mailand electronically blank absentee ballots to absent uniformed services voters and overseas voters with respect to general, special, primary, and runoff elections for Federal office in accordance with subsection (f);
+&emsp;(7) in addition to any other method of transmitting blank absentee ballots in the State, establish procedures for transmitting by mail and electronically blank absentee ballots to absent uniformed services voters and overseas voters with respect to general, special, primary, and runoff elections for Federal office in accordance with subsection (f);
 
 &emsp;(8) transmit a validly requested absentee ballot to an absent uniformed services voter or overseas voter—
 
@@ -68,7 +68,7 @@ With respect to each absent uniformed services voter and each overseas voter who
 
 &emsp;&emsp;(B) for use by States to send voter registration applications and absentee ballot applications requested under such subsection; and
 
-&emsp;&emsp;(C) for the purpose of providing related voting, balloting, and election information to absent uniformed services voters and overseas voters.
+&emsp;&emsp;(C) for the purpose of providing related voting, balloting, and election informationto absent uniformed services voters and overseas voters.
 
 #### (2) Clarification regarding provision of multiple means of electronic communication
 
@@ -132,7 +132,7 @@ With respect to each absent uniformed services voter and each overseas voter who
 
 &emsp;&emsp;(C) the number of days prior to the election for Federal office that the State requires absentee ballots be transmitted to absent uniformed services voters and overseas voters; and
 
-&emsp;&emsp;(D) a comprehensive plan to ensure that absent uniformed services voters and overseas voters are able to receive absentee ballots which they have requested and submit marked absentee ballots to the appropriate State election official in time to have that ballot counted in the election for Federal office, which includes—
+&emsp;&emsp;(D) a comprehensive plan to ensure that absent uniformed services voters and overseas voters are able to receive absentee ballots which they have requested and submit marked absentee ballots to the appropriate State election official in time to have thatballot counted in the election for Federal office, which includes—
 
 &emsp;&emsp;&emsp;(i) the steps the State will undertake to ensure that absent uniformed services voters and overseas voters have time to receive, mark, and submit their ballots in time to have those ballots counted in the election;
 
@@ -236,7 +236,7 @@ Par. (4). Pub. L. 107–107, §1606(a)(1)(B), (C), added par. (4).
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title V, §577(b), Oct. 28, 2009, 123 Stat. 2320, provided that: "The amendments made bythis section \[amending this section\] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office."
+Pub. L. 111–84, div. A, title V, §577(b), Oct. 28, 2009, 123 Stat. 2320, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office."
 
 Pub. L. 111–84, div. A, title V, §578(b), Oct. 28, 2009, 123 Stat. 2321, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office."
 

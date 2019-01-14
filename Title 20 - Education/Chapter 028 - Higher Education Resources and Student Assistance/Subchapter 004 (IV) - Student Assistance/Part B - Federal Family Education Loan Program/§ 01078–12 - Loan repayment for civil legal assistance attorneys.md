@@ -104,7 +104,7 @@ From amounts appropriated under subsection (i) for a fiscal year, the Secretary 
 
 #### (A) Student loan payment amount
 
-&emsp;&emsp;Student loan repayments made by the Secretary under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed upon by the borrower and the Secretary in an agreement under paragraph (1), except that the amount paid by the Secretary under this section shall not exceed—
+&emsp;&emsp;Student loan repayments made by the Secretary under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed upon by theborrower and the Secretary in an agreement under paragraph (1), except that the amount paid by the Secretary under this section shall not exceed—
 
 &emsp;&emsp;&emsp;(i) $6,000 for any borrower in any calendar year; or
 

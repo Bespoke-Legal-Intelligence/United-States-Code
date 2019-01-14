@@ -4,7 +4,7 @@
 
 &emsp;(1) slaughter any poultry or process any poultry products which are capable of use as human food at any establishment processing any such articles for commerce, except in compliance with the requirements of this chapter;
 
-&emsp;(2) sell, transport, offer for sale or transportation, or receive for transportation, in commerce, (A) any poultry products which are capable of use as human food and are adulterated or misbranded at the time of such sale,transportation, offer for sale or transportation, or receipt for transportation; or (B) any poultry products required to be inspected under this chapter unless they have been so inspected and passed;
+&emsp;(2) sell, transport, offer for sale or transportation, or receive for transportation, in commerce, (A) any poultry products which are capable of use as human food and are adulterated or misbranded at the time of such sale, transportation, offer for sale or transportation, or receipt for transportation; or (B) any poultry products required to be inspected under this chapter unless they have been so inspected and passed;
 
 &emsp;(3) do, with respect to any poultry products which are capable of use as human food, any act while they are being transported in commerce or held for sale after such transportation, which is intended to cause or has the effect of causing such products to be adulterated or misbranded;
 

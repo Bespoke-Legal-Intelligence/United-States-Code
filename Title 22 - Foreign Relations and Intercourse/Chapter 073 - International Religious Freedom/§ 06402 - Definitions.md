@@ -28,7 +28,7 @@ In this chapter:
 
 #### (6) Country Reports on Human Rights Practices
 
-&emsp;The term "Country Reports on Human Rights Practices" means the annual reportsrequired to be submitted by the Department of State to Congress under sections 2151n(d) and 2304(b) of this title.
+&emsp;The term "Country Reports on Human Rights Practices" means the annual reports required to be submitted by the Department of State to Congress under sections 2151n(d) and 2304(b) of this title.
 
 #### (7) Executive Summary
 
@@ -124,7 +124,7 @@ Par. (16)(B). Pub. L. 114–281, §3(5)(B), inserted "conscience, non-theistic v
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce ofHouse of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Presidential".</i>
 

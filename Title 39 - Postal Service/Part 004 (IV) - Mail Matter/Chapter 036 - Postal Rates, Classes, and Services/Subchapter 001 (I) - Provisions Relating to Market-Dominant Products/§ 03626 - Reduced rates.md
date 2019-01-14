@@ -1,6 +1,6 @@
 ### §3626. Reduced rates
 
-(a)(1) Except as otherwise provided in this section, rates of postage for a class of mail or kindof mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in accordance with section 3622.
+(a)(1) Except as otherwise provided in this section, rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title shall be established in accordance with section 3622.
 
 (2) For the purpose of this subsection, the term "regular-rate category" means any class of mail or kind of mailer, other than a class or kind referred to in section 2401(c).
 
@@ -46,7 +46,7 @@
 
 (f) In the administration of this chapter, the rates for mail under former section 4358(g) of this title shall be established without regard to either the provisions of such former section 4358(g) or the provisions of this section.
 
-(g)(1) In the administration of this section, the rates for mail under subsections (a), (b), and (c) of former section 4358 of this title shall not apply to an issue of a publication if the number of copies of such issue distributed within thecounty of publication is less than the number equal to the sum of 50 percent of the total paid circulation of such issue plus one.
+(g)(1) In the administration of this section, the rates for mail under subsections (a), (b), and (c) of former section 4358 of this title shall not apply to an issue of a publication if the number of copies of such issue distributed within the county of publication is less than the number equal to the sum of 50 percent of the total paid circulation of such issue plus one.
 
 (2) Paragraph (1) of this subsection shall not apply to an issue of a publication if the total paid circulation of such issue is less than 10,000 copies.
 
@@ -72,7 +72,7 @@
 
 &emsp;(D) any product or service (other than any to which subparagraph (A), (B), or (C) relates), if—
 
-&emsp;&emsp;(i) the sale of such product or the providing of such service is not substantially related (aside from the need, on the part of the organization promoting such product or service, for income or funds or the use it makes of the profits derived) to the exercise or performance by the organization of one or more of the purposes constituting the basis for the organization's authorization to mail at such rates; or
+&emsp;&emsp;(i) the sale of such product or the providing of such service is not substantially related (aside from the need, on the part of theorganization promoting such product or service, for income or funds or the use it makes of the profits derived) to the exercise or performance by the organization of one or more of the purposes constituting the basis for the organization's authorization to mail at such rates; or
 
 &emsp;&emsp;(ii) the mail matter involved is part of a cooperative mailing (as defined under regulations of the Postal Service) with any person or organization not authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of this title;
 
@@ -90,7 +90,7 @@
 
 &emsp;(B) such matter contains, but is not primarily devoted to, references to and a response card or other instructions for making inquiries concerning services or benefits available as a result of membership in the authorized organization: <i>Provided</i>, That advertising, promotional, or application materials specifically concerning such services or benefits are not included.
 
-(3)(A) Upon request, an organization authorized to mail at the rates for mail under formersection 4452(b) or 4452(c) of this title shall furnish evidence to the Postal Service concerning the eligibility of any of its mail matter or mailings to be sent at those rates.
+(3)(A) Upon request, an organization authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of this title shall furnish evidence to the Postal Service concerning the eligibility of any of its mail matter or mailings to be sent at those rates.
 
 (B) The Postal Service shall establish procedures to carry out this paragraph, including procedures for mailer certification of compliance with the conditions specified in paragraph (1)(D) or subsection (m), as applicable, and verification of such compliance.
 
@@ -112,7 +112,7 @@
 
 (n) In the administration of this section, matter that satisfies the circulation standards for requester publications shall not be excluded from being mailed at the rates for mail under former section 4358 solely because such matter is designed primarily for free circulation or for circulation at nominal rates, or fails to meet the requirements of former section 4354(a)(5).
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 93–328, §1, June 30, 1974, 88 Stat. 287; Pub. L. 94–421, §11, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 95–593, §11(c), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–272, title XV, §§15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, 100 Stat. 330, 331; Pub. L. 99–509, title VI, §6003(a), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §§1(a), 3, Nov. 5, 1990, 104 Stat. 1397, 1399; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842, 843; Pub. L. 103–123, title VII, §§704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, 107 Stat. 1267, 1269, 1271, 1273; Pub. L. 103–329, title VI, §639, Sept. 30, 1994, 108 Stat. 2432; Pub. L. 104–255, §2, Oct. 9, 1996, 110 Stat. 3169; Pub. L. 105–244, title I, §102(a)(12), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 106–384, §§1(b)–(e), 2(b), Oct. 27, 2000, 114 Stat. 1460–1462; Pub. L. 109–435, title X, §1003, Dec. 20, 2006, 120 Stat. 3255.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 93–328, §1, June 30, 1974, 88 Stat. 287; Pub. L. 94–421, §11, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 95–593, §11(c), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–272, title XV, §§15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, 100 Stat. 330, 331; Pub. L. 99–509, title VI, §6003(a), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §§1(a), 3, Nov. 5, 1990, 104 Stat. 1397, 1399; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842, 843; Pub. L. 103–123, title VII,§§704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, 107 Stat. 1267, 1269, 1271, 1273; Pub. L. 103–329, title VI, §639, Sept. 30, 1994, 108 Stat. 2432; Pub. L. 104–255, §2, Oct. 9, 1996, 110 Stat. 3169; Pub. L. 105–244, title I, §102(a)(12), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 106–384, §§1(b)–(e), 2(b), Oct. 27, 2000, 114 Stat. 1460–1462; Pub. L. 109–435, title X, §1003, Dec. 20, 2006, 120 Stat. 3255.)
 
 #### References in Text
 
@@ -140,7 +140,7 @@ Subsec. (a)(3)(A). Pub. L. 106–384, §1(b), amended subpar. (A) generally. Pri
 
 &emsp;"(ii) the product derived by multiplying the estimated costs referred to in clause (i) by the applicable percentage under subparagraph (B)."
 
-Subsec. (a)(4). Pub. L. 106–384, §1(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The rates for the advertising portion of any mail matter under former section 4358(d) or 4358(e) of this titleshall be equal to the rates for the advertising portion of the most closely corresponding regular-rate category of mail, except that if the advertising portion does not exceed 10 percent of the issue of the publication involved, the advertising portion shall be subject to the same rates as apply to the nonadvertising portion."
+Subsec. (a)(4). Pub. L. 106–384, §1(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The rates for the advertising portion of any mail matter under former section 4358(d) or 4358(e) of this title shall be equal to the rates for the advertising portion of the most closely corresponding regular-rate category of mail, except that if the advertising portion does not exceed 10 percent of the issue of the publication involved, the advertising portion shall be subject to the same rates as apply to the nonadvertising portion."
 
 Subsec. (a)(6). Pub. L. 106–384, §1(d), added par. (6).
 
@@ -180,7 +180,7 @@ Pub. L. 101–509, §1(a), added subsec. (k) relating to mailing of matter at in
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–272, §15102(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "If the rates of postage for any class of mail or kind of mailer under former sections 4358, 4359, 4421, 4422, 4452, or 4554 of this title, as such rates existed on the effective date of this subchapter, are, on the effective date of the first rate decision under this subchapter affecting that class or kind, less than the rates established by such decision, a separate rate schedule shall be adopted for that class or kind effective each time rates are established or changed under this subchapter, with annual increases as nearly equal as practicable, so that—
 
-&emsp;"(1) the revenues received from rates for mail under former sections 4358, 4452(b) and (c), 4554(b) and (c) shall not, on and after the first day of the sixteenth year following the effective date of the first rate decision applicable to that class or kind, exceed the direct and indirect postal costs attributable to mail of such class or kind (excluding all other costs of the Postal Service);
+&emsp;"(1) the revenues received from rates for mail under former sections 4358, 4452(b) and (c), 4554(b) and (c)shall not, on and after the first day of the sixteenth year following the effective date of the first rate decision applicable to that class or kind, exceed the direct and indirect postal costs attributable to mail of such class or kind (excluding all other costs of the Postal Service);
 
 &emsp;"(2) the rates for mail under former sections 4359, 4421, 4422, and 4554(a) shall be equal, on and after the first day of the eighth year following the effective date of the first rate decision applicable to that class or kind, to the rates that would have been in effect for such mail if this subparagraph had not been enacted; and
 

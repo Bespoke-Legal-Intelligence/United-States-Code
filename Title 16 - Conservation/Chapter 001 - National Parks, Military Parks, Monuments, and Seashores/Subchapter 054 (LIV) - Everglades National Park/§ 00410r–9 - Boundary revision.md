@@ -132,7 +132,7 @@
 
 #### (E) Technical corrections
 
-&emsp;&emsp;Subject to the agreement of the State, the Secretary may make minor corrections tocorrect technical and clerical errors in the legal descriptions of the Federal and non-Federal land and minor adjustments to the boundaries of the Federal and non-Federal land.
+&emsp;&emsp;Subject to the agreement of the State, the Secretary may make minor corrections to correct technical and clerical errors in the legal descriptions of the Federal and non-Federal land and minor adjustments to the boundaries of the Federal and non-Federal land.
 
 #### (F) Administration of land acquired by Secretary
 

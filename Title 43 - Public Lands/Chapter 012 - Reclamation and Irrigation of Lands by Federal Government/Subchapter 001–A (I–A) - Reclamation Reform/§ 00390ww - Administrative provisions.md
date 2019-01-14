@@ -30,7 +30,7 @@ The provisions of section 390ee(c) of this title are and have been applicable to
 
 #### (i) Collection of underpayment with interest for irrigation water
 
-When the Secretary finds that any individual or legal entity subject to reclamation law, including this subchapter, has not paid the required amount for irrigation water delivered to a landholding pursuant to reclamation law, including this subchapter, he shall collect the amount of any underpayment with interest accruing from the date the required payment was due until paid. The interest rate shall be determined by the Secretary of the Treasury on thebasis of the weighted average yield of all interest bearing marketable issues sold by the Treasury during the period of underpayment.
+When the Secretary finds that any individual or legal entity subject to reclamation law, including this subchapter, has not paid the required amount for irrigation water delivered to a landholding pursuant to reclamation law, including this subchapter, he shall collect the amount of any underpayment with interest accruing from the date the required payment was due until paid. The interest rate shall be determined by the Secretary of the Treasury on the basis of the weighted average yield of all interest bearing marketable issues sold by the Treasury during the period of underpayment.
 
 (Pub. L. 97–293, title II, §224, Oct. 12, 1982, 96 Stat. 1272; Pub. L. 100–203, title V, §5302(a), Dec. 22, 1987, 101 Stat. 1330–268; Pub. L. 103–437, §16(a)(3), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 104–66, title I, §1081(d), Dec. 21, 1995, 109 Stat. 721.)
 

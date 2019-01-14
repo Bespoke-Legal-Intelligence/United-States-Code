@@ -62,6 +62,32 @@ Subsec. (d). Pub. L. 113–66, §1052(b)(2), redesignated subsec. (d) as (c).
 
 Pub. L. 112–239, §1032(b), added subsec. (d).
 
+#### Plan To Train Officers in Nuclear Command, Control, and Communications
+
+Pub. L. 115–232, div. A, title XVI, §1668, Aug. 13, 2018, 132 Stat. 2156, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense, in consultation with the Secretary of the Air Force, the Secretary of the Navy, the Chairman of the Joint Chiefs of Staff, and the Commander of the United States Strategic Command, shall develop a plan to train, educate, manage, and track officers of the Armed Forces in nuclear command, control, and communications.
+
+"(b)
+
+Elements.—The plan required by subsection (a) shall address—
+
+&emsp;"(1) manpower requirements at various grades;
+
+&emsp;"(2) desired career paths and promotion timing; and
+
+&emsp;"(3) any other matters the Secretary of Defense considers relevant to develop a mature cadre of officers with nuclear command, control, and communications expertise.
+
+"(c)
+
+Submission of Plan.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives the plan required by subsection (a).
+
+"(d)
+
+Implementation.—Not later than 18 months after the date of the enactment of this Act, the Secretary of Defense shall implement the plan required by subsection (a)."
+
 #### Establishment of Nuclear Command and Control Intelligence Fusion Center
 
 Pub. L. 115–91, div. A, title XVI, §1655, Dec. 12, 2017, 131 Stat. 1760, provided that:
@@ -156,7 +182,7 @@ Waiver.—The Secretary may waive the prohibition in paragraph (1) on a case-by-
 
 &emsp;&emsp;"(B) certifies to the congressional committees that—
 
-&emsp;&emsp;&emsp;"(i) there are sufficient mitigations in place to guarantee the ability of the Secretary to carryout the missions described in paragraphs (1) and (2) of subsection (a); and
+&emsp;&emsp;&emsp;"(i) there are sufficient mitigations in place to guarantee the ability of the Secretary to carry out the missions described in paragraphs (1) and (2) of subsection (a); and
 
 &emsp;&emsp;&emsp;"(ii) the Secretary is removing the use of covered telecommunications equipment or services in carrying out such missions.
 
@@ -206,7 +232,7 @@ Requirements.—Each security classification guide issued pursuant to subsection
 
 "(c)
 
-Annual Notifications.—On an annual basis during the three-year period beginning on the date of the enactment of this Act \[Dec. 12, 2017\], the Deputy Secretary of Defense, without delegation, shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the status of implementing subsection (a), including a description of any challenges to such implementation.
+Annual Notifications.—On an annual basis during the three-year period beginning on the date of theenactment of this Act \[Dec. 12, 2017\], the Deputy Secretary of Defense, without delegation, shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the status of implementing subsection (a), including a description of any challenges to such implementation.
 
 "(d)
 

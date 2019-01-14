@@ -2,7 +2,7 @@
 
 (a)
 
-Proposed Regulations.—Copies of regulations proposed to be prescribed under section 436 of this title (including any proposed revision to such regulations) shall be submitted to congressional defense committees and the congressional intelligence committees not less than 30 days before they take effect.
+Proposed Regulations.—Copies of regulations proposed to be prescribed under section 436of this title (including any proposed revision to such regulations) shall be submitted to congressional defense committees and the congressional intelligence committees not less than 30 days before they take effect.
 
 (b)
 
@@ -30,7 +30,7 @@ Subsec. (c). Pub. L. 113–66, §921(c)(3), added subsec. (c).
 
 Subsec. (c). Pub. L. 108–136, §1031(a)(7)(B), substituted "report) the following:" for "report)—" in introductory provisions, "A" for "a" in pars. (1) to (3), a period for the semicolon at end of par. (1) and for "; and" at end of par. (2), and added par. (4).
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–306, §811(b)(4)(A)(i), in introductory provisions, substituted "Not later eachyear than the date provided in section 507 of the National Security Act of 1947, the Secretary shall submit to the congressional intelligence committees (as defined in section 3 of that Act (50 U.S.C. 401a))" for "Not later than January 15 of each year, the Secretary shall submit to the appropriate committees of Congress".
+<b>2002</b>—Subsec. (c). Pub. L. 107–306, §811(b)(4)(A)(i), in introductory provisions, substituted "Not later each year than the date provided in section 507 of the National Security Act of 1947, the Secretary shall submit to the congressional intelligence committees (as defined in section 3 of that Act (50 U.S.C. 401a))" for "Not later than January 15 of each year, the Secretary shall submit to the appropriate committees of Congress".
 
 Subsec. (d). Pub. L. 107–306, §811(b)(4)(A)(ii), struck out heading and text of subsec. (d). Text read as follows: "In this section, the term 'intelligence committees' means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives."
 

@@ -18,7 +18,7 @@ Testing Program for Operators of Commercial Motor Vehicles.—(1)(A) In the inte
 
 &emsp;&emsp;(II) in conducting random testing for the use of a controlled substance if the operator was subject to hair testing for preemployment testing.
 
-(C) When the Secretary of Transportation considers it appropriate in the interest of safety, the Secretary may prescribe regulations for conducting periodic recurring testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a Government regulation.
+(C) When the Secretary of Transportation considers it appropriate in the interest of safety,the Secretary may prescribe regulations for conducting periodic recurring testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a Government regulation.
 
 (2) In prescribing regulations under this subsection, the Secretary of Transportation—
 
@@ -54,7 +54,7 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 &emsp;(7) provide for the confidentiality of test results and medical information (except information about alcohol or a controlled substance) of employees, except that this clause does not prevent the use of test results for the orderly imposition of appropriate sanctions under this section; and
 
-&emsp;(8) ensure that employees are selected for tests by nondiscriminatory and impartialmethods, so that no employee is harassed by being treated differently from other employees in similar circumstances.
+&emsp;(8) ensure that employees are selected for tests by nondiscriminatory and impartial methods, so that no employee is harassed by being treated differently from other employees in similar circumstances.
 
 (d)
 
@@ -186,7 +186,23 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
-#### Guidelines
+#### Hair Testing Guidelines
+
+Pub. L. 115–271, title VIII, §8106, Oct. 24, 2018, 132 Stat. 4106, provided that:
+
+"(a)
+
+In General.—Not later than 60 days after the date of enactment of this Act \[Oct. 24, 2018\], and annually thereafter until the date that the Secretary of Health and Human Services publishes in the Federal Register a final notice of scientific and technical guidelines for hair testing in accordance with section 5402(b) of the Fixing America's Surface Transportation Act (Public Law 114–94; 129 Stat. 1312) \[set out below\], the Secretary of Health and Human Services shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on—
+
+&emsp;"(1) the status of the hair testing guidelines;
+
+&emsp;"(2) an explanation for why the hair testing guidelines have not been issued; and
+
+&emsp;"(3) an estimated date of completion of the hair testing guidelines.
+
+"(b)
+
+Requirement.—To the extent practicable and consistent with the objective of the hair testing described in subsection (a) to detect illegal or unauthorized use of substances by the individual being tested, the final notice of scientific and technical guidelines under that subsection, as determined by the Secretary of Health and Human Services, shall eliminate the risk of positive test results, of the individual being tested, caused solely by the drug use of others and not caused by the drug use of the individual being tested."
 
 Pub. L. 114–94, div. A, title V, §5402(b), Dec. 4, 2015, 129 Stat. 1548, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary of Health and Human Services shall issue scientific and technical guidelines for hair testing as a method of detecting the use of a controlled substance for purposes of section 31306 of title 49, United States Code."
 
@@ -198,7 +214,7 @@ Pub. L. 106–159, title II, §226, Dec. 9, 1999, 113 Stat. 1771, provided that:
 
 In General.—The Secretary shall conduct a study of the feasibility and merits of—
 
-&emsp;"(1) requiring medical review officers or employers to report all verified positive controlled substances test results on any driver subject to controlled substances testing under part 382 of title 49, Code of Federal Regulations, including the identity of each person tested and each controlled substance found, to the State that issued the driver's commercial driver's license; and
+&emsp;"(1) requiring medical review officers or employers to report all verified positive controlled substancestest results on any driver subject to controlled substances testing under part 382 of title 49, Code of Federal Regulations, including the identity of each person tested and each controlled substance found, to the State that issued the driver's commercial driver's license; and
 
 &emsp;"(2) requiring all prospective employers, before hiring any driver, to query the State that issued the driver's commercial driver's license on whether the State has on record any verified positive controlled substances test on such driver.
 

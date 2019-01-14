@@ -6,47 +6,53 @@ Short Term Transition.—
 
 &emsp;(1)
 
-In general.—Within 180 days after the date of enactment of the Aviation and Transportation Security Act, the Under Secretary for Transportation Security may, in consultation with Congress—
+In general.—The Administrator of the Transportation Security Administration may, in consultation with other relevant Federal agencies and Congress—
 
-&emsp;&emsp;(A) establish acceptable levels of performance for aviation security, including screening operations and access control, and
+&emsp;&emsp;(A) establish acceptable levels of performance for aviation security, including screening operations and access control; and
 
 &emsp;&emsp;(B) provide Congress with an action plan, containing measurable goals and milestones, that outlines how those levels of performance will be achieved.
 
 &emsp;(2)
 
-Basics of action plan.—The action plan shall clarify the responsibilities of the Transportation Security Administration, the Federal Aviation Administration and any other agency or organization that may have a role in ensuring the safety and security of the civil air transportation system.
+Basics of action plan.—The action plan shall clarify the responsibilities of the Transportation Security Administration, the Federal Aviation Administration, and any other agency or organization that may have a role in ensuring the safety and security of the civil air transportation system.
 
 (b)
 
 Long-Term Results-Based Management.—
 
-&emsp;(1) <sup>1</sup>
-
-Performance plan and report.—
-
-&emsp;&emsp;(A)
+&emsp;(1)
 
 Performance plan.—
 
-&emsp;&emsp;&emsp;(i) Each year, consistent with the requirements of the Government Performance and Results Act of 1993 (GPRA), the Secretary and the Under Secretary for Transportation Security shall agree on a performance plan for the succeeding 5 years that establishes measurable goals and objectives for aviation security. The plan shall identify action steps necessary to achieve such goals.
+&emsp;&emsp;(A) Each year, consistent with the requirements of the Government Performance and Results Act of 1993 (GPRA), the Secretary ofHomeland Security and the Administrator of the Transportation Security Administration shall agree on a performance plan for the succeeding 5 years that establishes measurable goals and objectives for aviation security. The plan shall identify action steps necessary to achieve such goals.
 
-&emsp;&emsp;&emsp;(ii) In addition to meeting the requirements of GPRA, the performance plan should clarify the responsibilities of the Secretary, the Under Secretary for Transportation Security and any other agency or organization that may have a role in ensuring the safety and security of the civil air transportation system.
+&emsp;&emsp;(B) In addition to meeting the requirements of GPRA, the performance plan should clarify the responsibilities of the Secretary of Homeland Security, the Administrator of the Transportation Security Administration, and any other agency or organization that may have a role in ensuring the safety and security of the civil air transportation system.
 
-&emsp;&emsp;(B)
+&emsp;(2)
 
-Performance report.—Each year, consistent with the requirements of GPRA, the Under Secretary for Transportation Security shall prepare and submit to Congress an annual report including an evaluation of the extent goals and objectives were met. The report shall include the results achieved during the year relative to the goals established in the performance plan.
+Performance report.—Each year, consistent with the requirements of GPRA, the Administrator of the Transportation Security Administration shall prepare and submit to Congress an annual report including an evaluation of the extent goals and objectives were met. The report shall include the results achieved during the year relative to the goals established in the performance plan.
 
-(Added Pub. L. 107–71, title I, §130, Nov. 19, 2001, 115 Stat. 633.)
+(Added Pub. L. 107–71, title I, §130, Nov. 19, 2001, 115 Stat. 633; amended Pub. L. 115–254, div. K, title I, §1991(d)(33), Oct. 5, 2018, 132 Stat. 3640.)
 
 #### References in Text
 
-The date of enactment of the Aviation and Transportation Security Act, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+The Government Performance and Results Act of 1993, referred to in subsec. (b), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
-The Government Performance and Results Act of 1993, referred to in subsec. (b)(1), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
+#### Amendments
 
-#### Transfer of Functions
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1991(d)(33)(A)(i)(I), in introductory provisions, substituted "The Administrator of the Transportation Security Administration may, in consultation with other relevant Federal agencies and" for "Within 180 days after the date of enactment of the Aviation and Transportation Security Act, the Under Secretary for Transportation Security may, in consultation with".
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+Subsec. (a)(1)(A). Pub. L. 115–254, §1991(d)(33)(A)(i)(II), substituted "; and" for ", and".
 
-<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
+Subsec. (a)(2). Pub. L. 115–254, §1991(d)(33)(A)(ii), inserted comma after "Federal Aviation Administration".
+
+Subsec. (b). Pub. L. 115–254, §1991(d)(33)(B)(i), (ii), struck out par. (1) designation and heading "Performance plan and report" and redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively.
+
+Subsec. (b)(1). Pub. L. 115–254, §1991(d)(33)(B)(iii)(I), redesignated cls. (i) and (ii) of former par. (1)(A) as subpars. (A) and (B), respectively, of par. (1).
+
+Subsec. (b)(1)(A). Pub. L. 115–254, §1991(d)(33)(B)(iii)(II), substituted "the Secretary of Homeland Security and the Administrator of the Transportation Security Administration shall agree" for "the Secretary and the Under Secretary for Transportation Security shall agree".
+
+Subsec. (b)(1)(B). Pub. L. 115–254, §1991(d)(33)(B)(iii)(III), substituted "the Secretary of Homeland Security, the Administrator of the Transportation Security Administration," for "the Secretary, the Under Secretary for Transportation Security".
+
+Subsec. (b)(2). Pub. L. 115–254, §1991(d)(33)(B)(iv), substituted "Administrator of the Transportation Security Administration" for "Under Secretary for Transportation Security".
 

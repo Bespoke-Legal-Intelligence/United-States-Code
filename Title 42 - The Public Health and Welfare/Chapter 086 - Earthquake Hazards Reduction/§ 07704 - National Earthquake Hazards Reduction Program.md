@@ -12,17 +12,19 @@
 
 &emsp;&emsp;(A) develop effective measures for earthquake hazards reduction;
 
-&emsp;&emsp;(B) promote the adoption of earthquake hazards reduction measures by Federal, State, and local governments, national standards and model code organizations, architects and engineers, building owners, and others with a role in planning and constructing buildings, structures, and lifelines through—
+&emsp;&emsp;(B) promote the adoption of earthquake hazards reduction measures by Federal, State, and local governments, national standards and model code organizations, architects and engineers, building owners, and others with a role in planning and constructing buildings, structures, and lifeline infrastructure through—
 
 &emsp;&emsp;&emsp;(i) grants, contracts, cooperative agreements, and technical assistance;
 
-&emsp;&emsp;&emsp;(ii) development of standards, guidelines, and voluntary consensus codes for earthquake hazards reduction for buildings, structures, and lifelines;
+&emsp;&emsp;&emsp;(ii) development of standards, guidelines, and voluntary consensus codes for earthquake hazards reduction for buildings, structures, and lifeline infrastructure;
 
-&emsp;&emsp;&emsp;(iii) development and maintenance of a repository of information, including technical data, on seismic risk and hazards reduction; and
+&emsp;&emsp;&emsp;(iii) development and maintenance of a repository of information, including technical data, on seismic risk, community resilience, and hazards reduction; and
 
-&emsp;&emsp;(C) improve the understanding of earthquakes and their effects on communities, buildings, structures, and lifelines, through interdisciplinary research that involves engineering, natural sciences, and social, economic, and decisions sciences; and
+&emsp;&emsp;&emsp;(iv) publishing a systematic set of maps of active faults and folds, liquefaction susceptibility, susceptibility for earthquake induced landslides, and other seismically induced hazards; and <sup>1</sup>
 
-&emsp;&emsp;(D) develop, operate, and maintain an Advanced National Seismic Research and Monitoring System established under section 7707 of this title, the George E. Brown, Jr. Network for Earthquake Engineering Simulation established under section 7708 of this title, and the Global Seismographic Network.
+&emsp;&emsp;(C) improve the understanding of earthquakes and their effects on communities, buildings, structures, and lifeline infrastructure, through interdisciplinary research that involves engineering, natural sciences, and social, economic, and decisions sciences; and
+
+&emsp;&emsp;(D) continue the development of the Advanced National Seismic System, including earthquake early warning capabilities and the Global Seismographic Network.
 
 #### (3) Interagency Coordinating Committee on Earthquake Hazards Reduction
 
@@ -32,43 +34,63 @@
 
 #### (B) Membership
 
-&emsp;&emsp;The committee shall be composed of the directors of—
+&emsp;&emsp;In addition to the Director, the committee shall be composed of—
 
-&emsp;&emsp;&emsp;(i) the Federal Emergency Management Agency;
+&emsp;&emsp;&emsp;(i) the Administrator of the Federal Emergency Management Agency;
 
-&emsp;&emsp;&emsp;(ii) the United States Geological Survey;
+&emsp;&emsp;&emsp;(ii) the Director of the United States Geological Survey;
 
-&emsp;&emsp;&emsp;(iii) the National Science Foundation;
+&emsp;&emsp;&emsp;(iii) the Director of the National Science Foundation;
 
-&emsp;&emsp;&emsp;(iv) the Office of Science and Technology Policy; and
+&emsp;&emsp;&emsp;(iv) the Director of the Office of Science and Technology Policy; and
 
-&emsp;&emsp;&emsp;(v) the Office of Management and Budget.
+&emsp;&emsp;&emsp;(v) the Director of the Office of Management and Budget.
 
 #### (C) Meetings
 
-&emsp;&emsp;The Committee shall meet not less than 3 times a year at the call of the Director.
+&emsp;&emsp;The Committee shall meet not less frequently than once each year at the call of the Director.
 
-#### (D) Purpose and duties
+#### (D) Duties
 
-&emsp;&emsp;The Interagency Coordinating Committee shall oversee the planning, management, and coordination of the Program. The Interagency Coordinating Committee shall—
+#### (i) General duty
 
-&emsp;&emsp;&emsp;(i) develop, not later than 6 months after October 25, 2004, and update periodically—
+&emsp;&emsp;&emsp;The Interagency Coordinating Committee shall oversee the planning, management, and coordination of the Program.
 
-&emsp;&emsp;&emsp;&emsp;(I) a strategic plan that establishes goals and priorities for the Program activities described under subsection (a)(2); and
+#### (ii) Specific duties
 
-&emsp;&emsp;&emsp;&emsp;(II) a detailed management plan to implement such strategic plan; and
+&emsp;&emsp;&emsp;The duties of the Interagency Coordinating Committee include the following:
 
-&emsp;&emsp;&emsp;(ii) develop a coordinated interagency budget for the Program that will ensure appropriate balance among the Program activities described under subsection (a)(2), and, in accordance with the plans developed under clause (i), submit such budget to the Director of the Office of Management and Budget at the time designated by that office for agencies to submit annual budgets.
+&emsp;&emsp;&emsp;&emsp;(I) Developing, not later than 6 months after October 25, 2004, and updating periodically—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a strategic plan that establishes goals and priorities for the Program activities described under subsection (a)(2); and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a detailed management plan to implement such strategic plan.
+
+&emsp;&emsp;&emsp;&emsp;(II) Developing a coordinated interagency budget for the Program that will ensure appropriate balance among the Program activities described under subsection (a)(2), and, in accordance with the plans developed under subclause (I), submitting such budget to the Director of the Office of Management and Budget at the time designated by the Director for agencies to submit biennial budgets.
+
+&emsp;&emsp;&emsp;&emsp;(III) Developing interagency memorandums of understanding with any relevant Federal agencies on data sharing and resource commitment in the event of an earthquake disaster.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Coordinating with the Interagency Coordinating Committee on Windstorm Impact Reduction and other natural hazards coordination committees as the Director determines appropriate to share data and best practices.
+
+&emsp;&emsp;&emsp;&emsp;(V) Coordinating with the Administrator of the National Aeronautics and Space Administration and the Administrator of the National Oceanic and Atmospheric Administration on data sharing and resource allocation to ensure judicious use of Government resources and the free-flowing exchange of information related to earthquakes.
+
+&emsp;&emsp;&emsp;&emsp;(VI) Coordinating with the Secretary of Agriculture and the Secretary of the Interior on the use of public lands for earthquake monitoring and research stations, and related data collection.
+
+&emsp;&emsp;&emsp;&emsp;(VII) Coordinating with the Secretary of Transportation and the Secretary of Housing and Urban Development on the effects of earthquakes on transportation and housing stocks.
+
+#### (iii) Assistance from Secretary of Agriculture and Secretary of the Interior
+
+&emsp;&emsp;&emsp;To the extent practicable, the Secretary of Agriculture and the Secretary of the Interior shall expedite any request for a permit to use public land under clause (ii)(VI).
 
 #### (4) Annual report
 
 &emsp;The Interagency Coordinating Committee shall transmit, at the time of the President's budget request to Congress, an annual report to the Committee on Science and the Committee on Resources of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate. Such report shall include—
 
-&emsp;&emsp;(A) the Program budget for the current fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under subparagraph (3)(A);
+&emsp;&emsp;(A) the Program budget for the current fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I); <sup>2</sup>
 
-&emsp;&emsp;(B) the proposed Program budget for the next fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under subparagraph (3)(A);
+&emsp;&emsp;(B) the proposed Program budget for the next fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I); <sup>2</sup>
 
-&emsp;&emsp;(C) a description of the activities and results of the Program during the previous year, including an assessment of the effectiveness of the Program in furthering the goals established in the strategic plan under (3)(A) <sup>1</sup> ;
+&emsp;&emsp;(C) a description of the activities and results of the Program during the previous year, including an assessment of the effectiveness of the Program in furthering the goals established in the strategic plan under paragraph (3)(D)(i)(I); <sup>2</sup>
 
 &emsp;&emsp;(D) a description of the extent to which the Program has incorporated the recommendations of the Advisory Committee;
 
@@ -80,7 +102,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Director shall establish an Advisory Committee on Earthquake Hazards Reduction of at least 11 members, none of whom may be an employee (as defined in subparagraphs (A) through (F) of section 7342(a)(1) of title 5 <sup>2</sup> including representatives of research and academic institutions, industry standards development organizations, State and local government, and financial communities who are qualified to provide advice on earthquake hazards reduction and represent all related scientific, architectural, and engineering disciplines. The recommendations of the Advisory Committee shall be considered by Federal agencies in implementing the Program.
+&emsp;&emsp;The Director shall establish an Advisory Committee on Earthquake Hazards Reduction of at least 11 members, none of whom may be an employee (as defined in subparagraphs (A) through (F) of section 7342(a)(1) of title 5 <sup>3</sup> including representatives of research and academic institutions, industry standards development organizations, State and local government, and financial communities who are qualified to provide advice on earthquake hazards reduction and represent all related scientific, architectural, and engineering disciplines. The recommendations of the Advisory Committee shall be considered by Federal agencies in implementing the Program.
 
 #### (B) Assessment
 
@@ -88,7 +110,7 @@
 
 &emsp;&emsp;&emsp;(i) trends and developments in the science and engineering of earthquake hazards reduction;
 
-&emsp;&emsp;&emsp;(ii) effectiveness of the Program in carrying out the activities under (a)(2) <sup>3</sup>;
+&emsp;&emsp;&emsp;(ii) effectiveness of the Program in carrying out the activities under (a)(2) <sup>4</sup>;
 
 &emsp;&emsp;&emsp;(iii) the need to revise the Program; and
 
@@ -96,7 +118,7 @@
 
 #### (C) Report
 
-&emsp;&emsp;Not later than 1 year after October 25, 2004, and at least once every 2 years thereafter, the Advisory Committee shall report to the Director on its findings of the assessment carried out under subparagraph (B) and its recommendations for ways to improve the Program. In developing recommendations, the Committee shall consider the recommendations of the United States Geological Survey Scientific Earthquake Studies Advisory Committee.
+&emsp;&emsp;Not later than 1 year after October 25, 2004, and at least once every 2 years thereafter, the Advisory Committee shall report to the Director on its findings of the assessment carried out under subparagraph (B) and its recommendations for ways to improve theProgram. In developing recommendations, the Committee shall consider the recommendations of the United States Geological Survey Scientific Earthquake Studies Advisory Committee.
 
 #### (D) Federal Advisory Committee Act application
 
@@ -108,37 +130,29 @@
 
 &emsp;The National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute shall—
 
-&emsp;&emsp;(A) ensure that the Program includes the necessary steps to promote the implementation of earthquake hazard reduction measures by Federal, State, and local governments, national standards and model building code organizations, architects and engineers, and others with a role in planning and constructing buildings and lifelines;
+&emsp;&emsp;(A) ensure that the Program includes the necessary steps to promote the implementation of earthquake hazard reduction measures by Federal, State, and local governments, national standards and model building code organizations, architects and engineers, and others with a role in planning <sup>5</sup> constructing, evaluating, and retrofitting buildings and lifeline infrastructure;
 
 &emsp;&emsp;(B) support the development of performance-based seismic engineering tools, and work with appropriate groups to promote the commercial application of such tools, through earthquake-related building codes, standards, and construction practices;
 
 &emsp;&emsp;(C) request the assistance of Federal agencies other than the Program agencies, as necessary to assist in carrying out this chapter; and
 
-&emsp;&emsp;(D) work with the Federal Emergency Management Agency, the National Science Foundation, and the United States Geological Survey, to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (existing at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.
+&emsp;&emsp;(D) work with the Federal Emergency Management Agency, the National Science Foundation, and the United States Geological Survey, to develop a comprehensive plan for earthquake engineering research to provide new and effectively use existing testing facilities and laboratories (existing at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.
 
 #### (2) Department of Homeland Security; Federal Emergency Management Agency
 
 #### (A) Program responsibilities
 
-&emsp;&emsp;The Under Secretary of Homeland Security for Emergency Preparedness and Response (the Administrator of the Federal Emergency Management Agency)—
+&emsp;&emsp;The Administrator of the Federal Emergency Management Agency—
 
-&emsp;&emsp;&emsp;(i) shall work closely with national standards and model building code organizations, in conjunction with the National Institute of Standards and Technology, to promote the implementation of research results;
+&emsp;&emsp;&emsp;(i) shall operate a program of grants and assistance to enable States to develop mitigation, preparedness, and response plans, purchase necessary instrumentation, prepare inventories and conduct seismic safety inspections of critical structures and lifeline infrastructure, update building, land use planning, and zoning codes and ordinances to enhance seismic safety, increase earthquake awareness and education, and provide assistance to multi-State groups for such purposes;
 
-&emsp;&emsp;&emsp;(ii) shall promote better building practices within the building design and construction industry including architects, engineers, contractors, builders, and inspectors;
+&emsp;&emsp;&emsp;(ii) shall support the implementation of a comprehensive earthquake education, outreach, and public awareness program, including development of materials and their wide dissemination to all appropriate audiences and support public access to locality-specific information that may assist the public in preparing for, mitigating against, responding to and recovering from earthquakes and related disasters;
 
-&emsp;&emsp;&emsp;(iii) shall operate a program of grants and assistance to enable States to develop mitigation, preparedness, and response plans, prepare inventories and conduct seismic safety inspections of critical structures and lifelines, update building and zoning codes and ordinances to enhance seismic safety, increase earthquake awareness and education, and encourage the development of multi-State groups for such purposes;
+&emsp;&emsp;&emsp;(iii) shall, in conjunction with the Director of the National Institute of Standards and Technology, other Federal agencies, and private sector groups, use research results to support the preparation, maintenance, and wide dissemination of seismic resistant design guidance and related information on building codes, standards, and practices for new and existing buildings, structures, and lifeline infrastructure, aid in the development of performance-based design guidelines and methodologies, and support model codes that are cost effective and affordable in order to promote better practices within the design and construction industry and reduce losses from earthquakes;
 
-&emsp;&emsp;&emsp;(iv) shall support the implementation of a comprehensive earthquake education and public awareness program, including development of materials and their wide dissemination to all appropriate audiences and support public access to locality-specific information that may assist the public in preparing for, mitigating against, responding to and recovering from earthquakes and related disasters;
+&emsp;&emsp;&emsp;(iv) shall enter into cooperative agreements or contracts with States and local jurisdictions and other Federal agencies to establish demonstration projects on earthquake hazard mitigation, to link earthquake research and mitigation efforts with emergency management programs, or to prepare educational materials for national distribution; and
 
-&emsp;&emsp;&emsp;(v) shall assist the National Institute of Standards and Technology, other Federal agencies, and private sector groups, in the preparation, maintenance, and wide dissemination of seismic resistant design guidance and related information on building codes, standards, and practices for new and existing buildings, structures, and lifelines, and aid in the development of performance-based design guidelines and methodologies supporting model codes for buildings, structures, and lifelines that are cost effective and affordable;
-
-&emsp;&emsp;&emsp;(vi) shall develop, coordinate, and execute the National Response Plan when required following an earthquake, and support the development of specific State and local plans for each high risk area to ensure the availability of adequate emergency medical resources, search and rescue personnel and equipment, and emergency broadcast capability;
-
-&emsp;&emsp;&emsp;(vii) shall develop approaches to combine measures for earthquake hazards reduction with measures for reduction of other natural and technological hazards including performance-based design approaches;
-
-&emsp;&emsp;&emsp;(viii) shall provide preparedness, response, and mitigation recommendations to communities after an earthquake prediction has been made under paragraph (3)(D); and
-
-&emsp;&emsp;&emsp;(ix) may enter into cooperative agreements or contracts with States and local jurisdictions and other Federal agencies to establish demonstration projects on earthquake hazard mitigation, to link earthquake research and mitigation efforts with emergency management programs, or to prepare educational materials for national distribution.
+&emsp;&emsp;&emsp;(v) shall support the Director of the National Institute of Standards and Technology in the completion of programmatic goals.
 
 #### (B) State assistance program criteria
 
@@ -146,37 +160,23 @@
 
 &emsp;&emsp;&emsp;(i) demonstrate that the assistance will result in enhanced seismic safety in the State;
 
-&emsp;&emsp;&emsp;(ii) provide a share of the costs of the activities for which assistance is being given, in accordance with subparagraph (C); and
+&emsp;&emsp;&emsp;(ii) provide 25 percent of the costs of the activities for which assistance is being given, except that the Administrator may lower or waive the cost-share requirement for these activities for a small impoverished community, as defined in section 5133 of this title; and
 
-&emsp;&emsp;&emsp;(iii) meet such other requirements as the Administrator of the Agency shall prescribe.
-
-#### (C) Non-Federal cost sharing
-
-&emsp;&emsp;(i) In the case of any State which has received, before October 1, 1990, a grant from the Agency for activities under this chapter which included a requirement for cost sharing by matching such grant, any grant obtained from the Agency for activities under subparagraph (A)(i) after such date shall not include a requirement for cost sharing in an amount greater than 50 percent of the cost of the project for which the grant is made.
-
-&emsp;&emsp;(ii) In the case of any State which has not received, before October 1, 1990, a grant from the Agency for activities under this chapter which included a requirement for cost sharing by matching such grant, any grant obtained from the Agency for activities under subparagraph (A)(i) after such date—
-
-&emsp;&emsp;&emsp;(I) shall not include a requirement for cost sharing for the first fiscal year of such a grant;
-
-&emsp;&emsp;&emsp;(II) shall not include a requirement for cost sharing in an amount greater than 25 percent of the cost of the project for which the grant is made for the second fiscal year of such grant, and any cost sharing requirement may be satisfied through in-kind contributions;
-
-&emsp;&emsp;&emsp;(III) shall not include a requirement for cost sharing in an amount greater than 35 percent of the cost of the project for which the grant is made for the third fiscal year of such grant, and any cost sharing requirement may be satisfied through in-kind contributions; and
-
-&emsp;&emsp;&emsp;(IV) shall not include a requirement for cost sharing in an amount greater than 50 percent of the cost of the project for which the grant is made for the fourth and subsequent fiscal years of such grant.
+&emsp;&emsp;&emsp;(iii) meet such other requirements as the Administrator shall prescribe.
 
 #### (3) United States Geological Survey
 
-&emsp;The United States Geological Survey shall conduct research and other activities necessary to characterize and identify earthquake hazards, assess earthquake risks, monitor seismic activity, and improve earthquake predictions. In carrying out this paragraph, the Director of the United States Geological Survey shall—
+&emsp;The United States Geological Survey shall report on significant domestic and international earthquakes and conduct research and other activities necessary to characterize and identify earthquake hazards, assess earthquake risks, monitor seismic activity, and improve earthquake forecasts. In carrying out this paragraph, the Director of the United States Geological Survey shall—
 
-&emsp;&emsp;(A) conduct a systematic assessment of the seismic risks in each region of the Nation prone to earthquakes, including, where appropriate, the establishment and operation of intensive monitoring projects on hazardous faults, seismic microzonation studies in urban and other developed areas where earthquake risk is determined to be significant, and engineering seismology studies;
+&emsp;&emsp;(A) conduct a systematic assessment of the seismic risks in each region of the Nation prone to earthquakes, including, where appropriate, the establishment and operation of intensive monitoring projects on hazardous faults, seismic microzonation studies in urban and other developed areaswhere earthquake risk is determined to be significant, and engineering seismology studies;
 
 &emsp;&emsp;(B) work with officials of State and local governments to ensure that they are knowledgeable about the specific seismic risks in their areas;
 
-&emsp;&emsp;(C) develop standard procedures, in consultation with the Administrator of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology, for issuing earthquake predictions, including aftershock advisories;
+&emsp;&emsp;(C) develop standard procedures, in consultation with the Administrator of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology, for issuing earthquake alerts and early warnings;
 
-&emsp;&emsp;(D) issue when necessary, and notify the Administrator of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology of, an earthquake prediction or other earthquake advisory, which may be evaluated by the National Earthquake Prediction Evaluation Council, which shall be exempt from the requirements of section 10(a)(2) of the Federal Advisory Committee Act when meeting for such purposes;
+&emsp;&emsp;(D) issue when necessary and feasible, and notify the Administrator of the Federal Emergency Management Agency, the Director of the National Institute of Standards and Technology, and State and local officials, an alert and an earthquake warning;
 
-&emsp;&emsp;(E) operate, using the National Earthquake Information Center, a forum for the international exchange of earthquake information which shall—
+&emsp;&emsp;(E) operate, including the National Earthquake Information Center, a forum for the international exchange of earthquake information which shall—
 
 &emsp;&emsp;&emsp;(i) promote the exchange of information on earthquake research and earthquake preparedness between the United States and other nations;
 
@@ -188,43 +188,59 @@
 
 &emsp;&emsp;(F) operate a National Seismic System;
 
-&emsp;&emsp;(G) support regional seismic networks, which shall complement the National Seismic Network; and <sup>4</sup>
+&emsp;&emsp;(G) support regional seismic networks, which shall complement the National Seismic Network; and <sup>1</sup>
 
-&emsp;&emsp;(H) work with the National Science Foundation, the Federal Emergency Management Agency, and the National Institute of Standards and Technology to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.<sup>5</sup>
+&emsp;&emsp;(H) work with the National Science Foundation, the Federal Emergency Management Agency, and the National Institute of Standards and Technology to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.<sup>6</sup>
 
-&emsp;&emsp;(I) work with other Program agencies to coordinate Program activities with similar earthquake hazards reduction efforts in other countries, to ensure that the Program benefits from relevant information and advances in those countries; and
+&emsp;&emsp;(I) work with other Program agencies to coordinate Program activities with similar earthquake hazards reduction efforts in other countries, to ensure that the Program benefits from relevant information and advances in those countries;
 
-&emsp;&emsp;(J) maintain suitable seismic hazard maps in support of building codes for structures and lifelines, including additional maps needed for performance-based design approaches.
+&emsp;&emsp;(J) maintain suitable seismic hazard maps and data in support of building codes for structures and lifeline infrastructure, including additional maps needed for performance-based design approaches; and
+
+&emsp;&emsp;(K) support the Director of the National Institute of Standards and Technology in the completion of programmatic goals.
 
 #### (4) National Science Foundation
 
-&emsp;The National Science Foundation shall be responsible for funding research on earth sciences to improve the understanding of the causes and behavior of earthquakes, on earthquake engineering, and on human response toearthquakes. In carrying out this paragraph, the Director of the National Science Foundation shall—
+#### (A) In general
 
-&emsp;&emsp;(A) encourage prompt dissemination of significant findings, sharing of data, samples, physical collections, and other supporting materials, and development of intellectual property so research results can be used by appropriate organizations to mitigate earthquake damage;
+&emsp;&emsp;The National Science Foundation shall be responsible for funding research on earth sciences to improve the understanding of the causes and behavior of earthquakes, on earthquake engineering, and on human response to earthquakes. In carrying out this paragraph, the Director of the National Science Foundation shall—
 
-&emsp;&emsp;(B) in addition to supporting individual investigators, support university research consortia and centers for research in geosciences and in earthquake engineering;
+&emsp;&emsp;&emsp;(i) encourage prompt dissemination of significant findings, sharing of data, samples, physical collections, and other supporting materials, and development of intellectual property so research results can be used by appropriate organizations to mitigate earthquake damage;
 
-&emsp;&emsp;(C) work closely with the United States Geological Survey to identify geographic regions of national concern that should be the focus of targeted solicitations for earthquake-related research proposals;
+&emsp;&emsp;&emsp;(ii) in addition to supporting individual investigators, support university research consortia, State agencies, State geological surveys, and centers for research in geosciences and in earthquake engineering;
 
-&emsp;&emsp;(D) support research that improves the safety and performance of buildings, structures, and lifeline systems using large-scale experimental and computational facilities of the George E. Brown Jr. Network for Earthquake Engineering Simulation and other institutions engaged in research and the implementation of the National Earthquake Hazards Reduction Program;
+&emsp;&emsp;&emsp;(iii) work closely with the United States Geological Survey to support applied science in the production of a systematic series of earthquake-related geologic hazard maps, and to identify geographic regions of national concern that should be the focus of targeted solicitations for earthquake-related research proposals;
 
-&emsp;&emsp;(E) emphasize, in earthquake engineering research, development of economically feasible methods to retrofit existing buildings and to protect lifelines to mitigate earthquake damage;
+&emsp;&emsp;&emsp;(iv) support research that improves the safety and performance of buildings, structures, and lifeline systems using experimental and computational facilities;
 
-&emsp;&emsp;(F) support research that studies the political, economic, and social factors that influence the implementation of hazard reduction measures;
+&emsp;&emsp;&emsp;(v) emphasize, in earthquake engineering research, development of economically feasible methods to retrofit existing buildings and to protect lifeline infrastructure to mitigate earthquake damage;
 
-&emsp;&emsp;(G) include to the maximum extent practicable diverse institutions, including Historically Black Colleges and Universities and those serving large proportions of Hispanics, Native Americans, Asian-Pacific Americans, and other underrepresented populations; and
+&emsp;&emsp;&emsp;(vi) support research that studies the political, economic, and social factors that influence the implementation of hazard reduction measures;
 
-&emsp;&emsp;(H) develop, in conjunction with the Federal Emergency Management Agency, the National Institute of Standards and Technology, and the United States Geological Survey, a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.
+&emsp;&emsp;&emsp;(vii) include to the maximum extent practicable diverse institutions, including Historically Black Colleges and Universities and those serving large proportions of Hispanics, Native Americans, Asian-Pacific Americans, and other underrepresented populations;
+
+&emsp;&emsp;&emsp;(viii) develop, in conjunction with the Federal Emergency Management Agency, the National Institute of Standards and Technology, and the United States Geological Survey, a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner; and
+
+&emsp;&emsp;&emsp;(ix) support the Director of the National Institute of Standards and Technology in the completion of programmatic goals.
+
+#### (B) Identification of funding
+
+&emsp;&emsp;The National Science Foundation shall—
+
+&emsp;&emsp;&emsp;(i) to the extent practicable, note in any notice of Program funding or other funding possibilities under the Program that the funds are part of the Program;
+
+&emsp;&emsp;&emsp;(ii) to the extent practicable, track the awarding of Federal funds through the Program; and
+
+&emsp;&emsp;&emsp;(iii) not less frequently than once every 2 years, submit to the director of the Program a report specifying the amount of Federal funds awarded to conduct research that enhances the understanding of earthquake science.
 
 #### (5) National Institute of Standards and Technology
 
-&emsp;In addition to the lead agency responsibilities described under paragraph (1), the National Institute of Standards and Technology shall be responsible for carrying out research and development to improve building codes and standards and practices for structures and lifelines. In carrying out this paragraph, the Director of the National Institute of Standards and Technology shall—
+&emsp;In addition to the lead agency responsibilities described under paragraph (1), the National Institute of Standards and Technology shall be responsible for carrying out research and development to improve community resilience through building codes and standards and practices for structures and lifeline infrastructure. In carrying out this paragraph, the Director of the National Institute of Standards and Technology shall—
 
 &emsp;&emsp;(A) work closely with national standards and model building code organizations, in conjunction with the Agency, to promote the implementation of research results;
 
 &emsp;&emsp;(B) promote better building practices among architects and engineers;
 
-&emsp;&emsp;(C) work closely with national standards organizations to develop seismic safety standards and practices for new and existing lifelines;
+&emsp;&emsp;(C) work closely with national standards organizations to develop seismic safety standards and practices for new and existing lifeline infrastructure;
 
 &emsp;&emsp;(D) support the development and commercial application of cost effective and affordable performance-based seismic engineering by providing technical support for seismic engineering practices and related building code, standards, and practices development; and
 
@@ -246,15 +262,115 @@
 
 &emsp;&emsp;(C) states the portion of its request for appropriations allocated to each element of the Program.
 
-(Pub. L. 95–124, §5, Oct. 7, 1977, 91 Stat. 1099; Pub. L. 96–472, title I, §101, Oct. 19, 1980, 94 Stat. 2257; Pub. L. 99–105, §§5, 6, Sept. 30, 1985, 99 Stat. 475; Pub. L. 100–252, §2, Feb. 29, 1988, 102 Stat. 18; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–707, title I, §109(u), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 101–614, §5, Nov. 16, 1990, 104 Stat. 3232; Pub. L. 105–47, §3, Oct. 1, 1997, 111 Stat. 1162; Pub. L. 106–503, title II, §§206, 208, Nov. 13, 2000, 114 Stat. 2307; Pub. L. 108–360, title I, §103, Oct. 25, 2004, 118 Stat. 1669; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+(Pub. L. 95–124, §5, Oct. 7, 1977, 91 Stat. 1099; Pub. L. 96–472, title I, §101, Oct. 19, 1980, 94 Stat. 2257; Pub. L. 99–105, §§5, 6, Sept. 30, 1985, 99 Stat. 475; Pub. L. 100–252, §2, Feb. 29, 1988, 102 Stat. 18; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–707, title I, §109(u), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 101–614, §5, Nov. 16, 1990, 104 Stat. 3232; Pub. L. 105–47, §3, Oct. 1, 1997, 111 Stat. 1162; Pub. L. 106–503, title II, §§206, 208, Nov. 13, 2000, 114 Stat. 2307; Pub. L. 108–360, title I, §103, Oct. 25, 2004, 118 Stat. 1669; Pub. L. 115–307, §§2(c)(1)(B), 3(a)–(b)(4)(A), (c)–(f), 8(a)(1), (c), Dec. 11, 2018, 132 Stat. 4409–4413, 4417.)
+
+#### Amendment of Subsection (a)(4)
+
+<i>Pub. L. 115–307, §3(b)(4), Dec. 11, 2018, 132 Stat. 4411, made amendments to subsection (a)(4) of this section, effective on the first day of the first fiscal year beginning after Dec. 11, 2018. After such effective date, subsection (a)(4) of this section, as amended by section 8(c) of Pub. L. 115–307, will read as follows:</i>
+
+#### <i>(4) Biennial report</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>Not less frequently than once every two years, the Interagency Coordinating Committee shall submit to the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology, the Committee on Energy and Commerce, the Committee on Natural Resources, and the Committee on Homeland Security of the House of Representatives a report on the Program. Such report shall include—</i>
+
+&emsp;&emsp;&emsp;<i>(i) the Program budget for the current fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I);</i>
+
+&emsp;&emsp;&emsp;<i>(ii) the proposed Program budget for the next fiscal year for each agency that participates in the Program, and for each major goal established for the Program activities under paragraph (3)(D)(i)(I);</i>
+
+&emsp;&emsp;&emsp;<i>(iii) a description of the activities and results of the Program during the previous year, including an assessment of the effectiveness of the Program in furthering the goals established in the strategic plan under paragraph (3)(D)(i)(I);</i>
+
+&emsp;&emsp;&emsp;<i>(iv) a description of the extent to which the Program has incorporated the recommendations of the Advisory Committee;</i>
+
+&emsp;&emsp;&emsp;<i>(v) a description of activities, including budgets for the current fiscal year and proposed budgets for the next fiscal year, that are carried out by Program agencies and contribute to the Program, but are not included in the Program;</i>
+
+&emsp;&emsp;&emsp;<i>(vi) a description of the activities, including budgets for the current fiscal year and proposed budgets for the following fiscal year, related to the grant program carried out under subsection (b)(2)(A)(i); and</i>
+
+&emsp;&emsp;&emsp;<i>(vii) a statement regarding whether the Administrator of the Federal Emergency Management Agency has lowered or waived the cost share requirement for assistance provided under subsection (b)(2)(A)(i).</i>
+
+#### <i>(B) Support for preparation of report</i>
+
+&emsp;&emsp;<i>Each head of a Program agency shall submit to the Director of the National Institute of Standards and Technology such information as the Director may request for the preparation of a report under subparagraph (A) not later than 90 days after the date on which the Director requests such information.</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 #### References in Text
 
-Sections 14 and 10(a)(2) of the Federal Advisory Committee Act, referred to in subsecs. (a)(5)(D) and (b)(3)(D), are sections 14 and 10(a)(2) of Pub. L. 92–463, which are set out in the Appendix to Title 5, Government Organization and Employees.
+Paragraph (3)(D), referred to in subsec. (a)(4)(A) to (C), was amended generally by Pub. L. 115–307, §3(b)(3), Dec. 11, 2018, 132 Stat. 4410, and, as so amended, does not contain a cl. (i)(I). For similar provisions after amendment by Pub. L. 115–307, see cl. (ii)(I)(aa) of par. (3)(D).
+
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (a)(5)(D), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+Section 5133 of this title, referred to in subsec. (b)(2)(B)(ii), was in the original "section 203 of the Disaster Relief Act of 1974 (42 U.S.C. 5133(a))", and was translated as if it had been a reference to section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which was formerly known as the Disaster Relief Act of 1974, to reflect the probable intent of Congress. Subsec. (a) of section 5133 of this title defines "small impoverished community".
+
+#### Codification
+
+Section 8(c) of Pub. L. 115–307, which directed the amendment of cls. (i) to (iii) of subsec. (a)(4)(A) of this section, was executed to subpars. (A) to (C) of subsec. (a)(4) to reflect the probable intent of Congress. At the time of the amendments made by section 8(c) of Pub. L. 115–307, there were no cls. (i) to (iii) of subsec. (a)(4)(A) because the redesignations of subpars. (A) to (C) as cls. (i) to (iii) made by section 3(b)(4)(A)(ii) of Pub. L. 115–307 were not yet effective.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–360, §103(1), amended heading and text of subsec. (a) generally. Prior toamendment, text read as follows: "There is established a National Earthquake Hazards Reduction Program."
+<b>2018</b>—Pub. L. 115–307, §2(c)(1)(B), substituted "lifeline infrastructure" for "lifelines" wherever appearing.
+
+Subsec. (a)(2)(B)(iii). Pub. L. 115–307, §3(a)(1)(A), inserted ", community resilience," after "seismic risk".
+
+Subsec. (a)(2)(B)(iv). Pub. L. 115–307, §3(a)(1)(B), added cl. (iv).
+
+Subsec. (a)(2)(D). Pub. L. 115–307, §3(a)(2), substituted "continue the development of the Advanced National Seismic System, including earthquake early warning capabilities" for "develop, operate, and maintain an Advanced National Seismic Research and Monitoring System established under section 7707 of this title, the George E. Brown, Jr. Network for Earthquake Engineering Simulation established under section 7708 of this title,".
+
+Subsec. (a)(3)(B). Pub. L. 115–307, §8(a)(1)(A), struck out "the directors of" after "composed of" in introductory provisions and inserted "the Administrator of" before "the" in cl. (i) and "the Director of" before "the" in cls. (ii) to (v).
+
+Pub. L. 115–307, §3(b)(1), substituted "In addition to the Director, the committee" for "The committee" in introductory provisions.
+
+Subsec. (a)(3)(C). Pub. L. 115–307, §3(b)(2), substituted "not less frequently than once each year" for "not less than 3 times a year".
+
+Subsec. (a)(3)(D). Pub. L. 115–307, §3(b)(3), amended subpar. (D) generally. Prior to amendment, subpar. (D) set out the purpose and duties of the Interagency Coordinating Committee.
+
+Subsec. (a)(4). Pub. L. 115–307, §3(b)(4)(A)(ii), (vi), (vii), designated existing provisions as subpar. (A) and inserted heading, substituted "Not less frequently than once every two years, the Interagency Coordinating Committee shall submit to the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology, the Committee on Energy and Commerce, the Committee on Natural Resources, and the Committee on Homeland Security of the House of Representatives a report on the Program" for "The Interagency Coordinating Committee shall transmit, at the time of the President's budget request to Congress, an annual report to the Committee on Science and the Committee on Resources of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate" in introductory provisions, redesignated former subpars. (A) to (F) as cls. (i) to (vi), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
+
+Pub. L. 115–307, §3(b)(4)(A)(i), substituted "Biennial" for "Annual" in heading.
+
+Subsec. (a)(4)(A). Pub. L. 115–307, §8(c)(1), substituted "paragraph (3)(D)(i)(I)" for "subparagraph (3)(A)". See Codification note above.
+
+Subsec. (a)(4)(A)(vii). Pub. L. 115–307, §3(b)(4)(A)(iii)–(v), added cl. (vii).
+
+Subsec. (a)(4)(B). Pub. L. 115–307, §8(c)(1), substituted "paragraph (3)(D)(i)(I)" for "subparagraph (3)(A)". See Codification note above.
+
+Subsec. (a)(4)(C). Pub. L. 115–307, §8(c)(2), substituted "under paragraph (3)(D)(i)(I)" for "under (3)(A)". See Codification note above.
+
+Subsec. (b)(1)(A). Pub. L. 115–307, §3(c)(1)(A), which directed substitution of "constructing, evaluating, and retrofitting" for "and constructing,", was executed by making the substitution for "and constructing" to reflect the probable intent of Congress.
+
+Subsec. (b)(1)(D). Pub. L. 115–307, §3(c)(1)(B), inserted "provide new and" after "research to".
+
+Subsec. (b)(2). Pub. L. 115–307, §3(d), amended par. (2) generally. Prior to amendment, par. (2) related to program responsibilities of the Department of Homeland Security and Federal Emergency Management Agency, State assistance program criteria, and non-Federal cost sharing.
+
+Subsec. (b)(3). Pub. L. 115–307, §3(e)(1), in introductory provisions, inserted "report on significant domestic and international earthquakes and" before "conduct research" and substituted "forecasts." for "predictions."
+
+Subsec. (b)(3)(C). Pub. L. 115–307, §8(a)(1)(B), substituted "Administrator of the Federal Emergency Management Agency" for "Director of the Federal Emergency Management Agency".
+
+Pub. L. 115–307, §3(e)(2), substituted "alerts and early warnings" for "predictions, including aftershock advisories".
+
+Subsec. (b)(3)(D). Pub. L. 115–307, §3(e)(3), added subpar. (D) and struck out former subpar. (D) which read as follows: "issue when necessary, and notify the Director of the Federal Emergency Management Agency and the Director of the National Institute of Standards and Technology of, an earthquake prediction or other earthquake advisory, which may be evaluated by the National Earthquake Prediction Evaluation Council, which shall be exempt from the requirements of section 10(a)(2) of the Federal Advisory Committee Act when meeting for such purposes;".
+
+Subsec. (b)(3)(E). Pub. L. 115–307, §3(e)(4), substituted "including" for "using" in introductory provisions.
+
+Subsec. (b)(3)(I). Pub. L. 115–307, §3(e)(5), struck out "and" at end.
+
+Subsec. (b)(3)(J). Pub. L. 115–307, §3(e)(6), inserted "and data" after "hazard maps" and substituted "; and" for period at end.
+
+Subsec. (b)(3)(K). Pub. L. 115–307, §3(e)(7), added subpar. (K).
+
+Subsec. (b)(4). Pub. L. 115–307, §3(f)(7)–(9), designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) to (I) as cls. (i) to (ix), respectively, of subpar. (A), and added subpar. (B).
+
+Subsec. (b)(4)(B). Pub. L. 115–307, §3(f)(1), inserted ", State agencies, State geological surveys," after "consortia".
+
+Subsec. (b)(4)(C). Pub. L. 115–307, §3(f)(2), inserted "to support applied science in the production of a systematic series of earthquake-related geologic hazard maps, and" after "Survey".
+
+Subsec. (b)(4)(D). Pub. L. 115–307, §3(f)(3), substituted "experimental and computational facilities" for "large-scale experimental and computational facilities of the George E. Brown Jr. Network for Earthquake Engineering Simulation and other institutions engaged in research and the implementation of the National Earthquake Hazards Reduction Program".
+
+Subsec. (b)(4)(I). Pub. L. 115–307, §3(f)(4)–(6), added subpar. (I).
+
+Subsec. (b)(5). Pub. L. 115–307, §3(c)(2), inserted "community resilience through" after "improve" in introductory provisions.
+
+<b>2004</b>—Subsec. (a). Pub. L. 108–360, §103(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "There is established a National Earthquake Hazards Reduction Program."
 
 Subsec. (b)(1). Pub. L. 108–360, §103(2)(A)(i), (iv), in introductory provisions, substituted "National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute" for "Federal Emergency Management Agency (hereafter in this chapter referred to as the 'Agency') shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Agency" and struck out concluding provisions which read as follows: "The principal official carrying out the responsibilities described in this paragraph shall be at a level no lower than that of Associate Director."
 
@@ -312,7 +428,7 @@ Subsec. (j). Pub. L. 100–252 added subsec. (j).
 
 Subsec. (b)(2)(F), (G). Pub. L. 99–105, §6, added subpar. (F) and redesignated former subpar. (F) as (G).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–472, §101(a), inserted provisions relating to non-Federal participation in par. (2), and substituted provisions respecting the elements described in subsec. (f) of this section, for provisions respecting the implementation plan described in subsec. (f) of this section in par. (3).
+<b>1980</b>—Subsec. (a). Pub. L. 96–472, §101(a), inserted provisions relating to non-Federal participation in par. (2),and substituted provisions respecting the elements described in subsec. (f) of this section, for provisions respecting the implementation plan described in subsec. (f) of this section in par. (3).
 
 Subsec. (b). Pub. L. 96–472, §101(b), substituted provisions setting forth the duties of the President and the Director of the Federal Emergency Management Agency with respect to the Program for provisions setting forth the duties of the President with respect to the program and plan.
 
@@ -330,7 +446,9 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-"Administrator of the Federal Emergency Management Agency" and "Administrator of the Agency" substituted for "Director of the Federal Emergency Management Agency" and "Director of the Agency", respectively, in subsec. (b)(2)(A), (B)(iii), (3)(C), (D) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–307, §3(b)(4)(B), Dec. 11, 2018, 132 Stat. 4411, provided that: "The amendments made by subparagraph (A) \[amending this section\] shall take effect on the first day of the first fiscal year beginning after the date of the enactment of this Act \[Dec. 11, 2018\]."
 
 #### Transfer of Functions
 
@@ -402,7 +520,7 @@ Reports on progress.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 120 days after the date of enactment of this Act \[Oct. 1, 1997\], the Director shall prepare and submit to Congress a report that contains a plan for implementing a real-time seismic hazard warning system.
+In general.—Not later than 120 days after the date of enactment of this Act \[Oct. 1, 1997\], theDirector shall prepare and submit to Congress a report that contains a plan for implementing a real-time seismic hazard warning system.
 
 &emsp;&emsp;"(B)
 
@@ -452,7 +570,7 @@ School.—The term 'school' means a nonprofit institutional day or residential s
 
 &emsp;"(2)
 
-Teaching materials.—In a manner consistent with the requirement under section 5(b)(4) of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704(b)(4)) and subject to a merit based competitive process, the Director of the National Science Foundation may use funds made available to him or her under section 12(c) of such Act (42 U.S.C. 7706(c)) to develop, and make available to schools and local educational agencies for use by schools, at a minimal cost, earth science teaching materials that are designed to meet the needs of elementary and secondary school teachers and students.
+Teaching materials.—In a manner consistent with the requirement under section 5(b)(4) \[now 5(b)(4)(A)\] of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704(b)(4)\[(A)\]) and subject to a merit based competitive process, the Director of the National Science Foundation may use funds made available to him or her under section 12(c) of such Act (42 U.S.C. 7706(c)) to develop, and make available to schools and local educational agencies for use by schools, at a minimal cost, earth science teaching materials that are designed to meet the needs of elementary and secondary school teachers and students.
 
 "(d)
 
@@ -514,7 +632,7 @@ Ex. Ord. No. 13717, Feb. 2, 2016, 81 F.R. 6407, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Earthquake Hazards Reduction Act of 1977, as amended, and section 121(a) of title 40, United States Code, and to improve the Nation's resilience to earthquakes, I hereby direct the following:
 
-Section 1. <i>Policy</i>. It is the policy of the United States to strengthen the security and resilience of the Nation against earthquakes, to promote public safety, economic strength, and national security. To that end, the Federal Government must continue to take proactive steps to enhance the resilience of buildings that are owned, leased, financed, or regulated by the Federal Government. When making investment decisions related to Federal buildings, each executive department and agency (agency) responsible for implementing this order shall seek to enhance resilience by reducing risk to the lives of building occupants and improving continued performance of essential functions following future earthquakes. The Federal Government recognizes that building codes and standards primarily focus onensuring minimum acceptable levels of earthquake safety for preserving the lives of building occupants. To achieve true resilience against earthquakes, however, new and existing buildings may need to exceed those codes and standards to ensure, for example, that the buildings can continue to perform their essential functions following future earthquakes. Agencies are thus encouraged to consider going beyond the codes and standards set out in this order to ensure that buildings are fully earthquake resilient.
+Section 1. <i>Policy</i>. It is the policy of the United States to strengthen the security and resilience of the Nation against earthquakes, to promote public safety, economic strength, and national security. To that end, the Federal Government must continue to take proactive steps to enhance the resilience of buildings that are owned, leased, financed, or regulated by the Federal Government. When making investment decisions related to Federal buildings, each executive department and agency (agency) responsible for implementing this order shall seek to enhance resilience by reducing risk to the lives of building occupants and improving continued performance of essential functions following future earthquakes. The Federal Government recognizes that building codes and standards primarily focus on ensuring minimum acceptable levels of earthquake safety for preserving the lives of building occupants. To achieve true resilience against earthquakes, however, new and existing buildings may need to exceed those codes and standards to ensure, for example, that the buildings can continue to perform their essential functions following future earthquakes. Agencies are thus encouraged to consider going beyond the codes and standards set out in this order to ensure that buildings are fully earthquake resilient.
 
 Sec. 2. <i>Requirements for Earthquake Safety of New Federal Buildings, Improvements to Existing Federal Buildings, and Federally Leased, Financed, or Regulated Buildings</i>.
 
@@ -554,7 +672,7 @@ Sec. 6. <i>Definitions</i>. As used in this order:
 
 (a) "building" means any structure, fully or partially enclosed, used or intended for sheltering persons or property;
 
-(b) "alteration to an existing building" means an action that alters, as defined in 40 U.S.C. 3301(a)(1), a building and that significantly extends the building'suseful life and totals more than the replacement values established in the Standards for the building's assigned Seismic Design Category; and
+(b) "alteration to an existing building" means an action that alters, as defined in 40 U.S.C. 3301(a)(1), a building and that significantly extends the building's useful life and totals more than the replacement values established in the Standards for the building's assigned Seismic Design Category; and
 
 (c) "programming" means developing and validating project assumptions, scope, budgets, and implementation strategy for a building.
 
@@ -584,13 +702,15 @@ Sec. 8. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "subparagraph".</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be preceded by "subsection".</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 
-<i><sup>4</sup></i><i> So in original. The word "and" probably should not appear.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be preceded by "subsection".</i>
 
-<i><sup>5</sup></i><i> So in original. The period probably should be a semicolon.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>6</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

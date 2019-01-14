@@ -22,11 +22,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;An advisory committee that meets the requirements of this section, a resource advisory committee established before September 29, 2012, or an advisory committee determined by the Secretary concerned before September 29, 2012, to meet the requirements of this section may be deemed by the Secretary concerned to be a resource advisory committee for the purposes of this subchapter.
+&emsp;&emsp;An advisory committee that meets the requirements of this section, a resource advisory committee established before September 29, 2018, or an advisory committee determined by the Secretary concerned before September 29, 2018, to meet the requirements of this section may be deemed by the Secretary concerned to be a resource advisory committee for the purposes of this subchapter.
 
 #### (B) Charter
 
-&emsp;&emsp;A charter for a committee described in subparagraph (A) that was filed on or before September 29, 2012, shall be considered to be filed for purposes of this chapter.
+&emsp;&emsp;A charter for a committee described in subparagraph (A) that was filed on or before September 29, 2018, shall be considered to be filed for purposes of this chapter.
 
 #### (C) Bureau of land management advisory committees
 
@@ -82,11 +82,11 @@ A resource advisory committee shall—
 
 #### (1) Number
 
-&emsp;Each resource advisory committee shall be comprised of 15 members.
+&emsp;Except as provided in paragraph (6), each resource advisory committee shall be comprised of 15 members.
 
 #### (2) Community interests represented
 
-&emsp;Committee members shall be representative of the interests of the following 3 categories:
+&emsp;Except as provided in paragraph (6), committee members shall be representative of the interests of the following 3 categories:
 
 &emsp;&emsp;(A) 5 persons that—
 
@@ -140,6 +140,24 @@ A resource advisory committee shall—
 
 &emsp;A majority on each resource advisory committee shall select the chairperson of the committee.
 
+#### (6) Committee composition waiver authority
+
+#### (A) Notice
+
+&emsp;&emsp;On notice from the applicable regional forester that an adequate number of qualified candidates are not interested or available to serve on a resource advisory committee, the Secretary concerned shall publish a notice in the Federal Register seeking candidates for the resource advisory committee.
+
+#### (B) Modification of membership requirements
+
+&emsp;&emsp;If, by the date that is 30 days after the date of publication of notice under subparagraph (A), an inadequate number of qualified candidates have applied to serve on a resource advisory committee, the Secretary concerned may reduce—
+
+&emsp;&emsp;&emsp;(i) the membership requirement under paragraph (1) to not fewer than 9; and
+
+&emsp;&emsp;&emsp;(ii) the membership requirements under subparagraphs (A), (B), and (C) of paragraph (2) to 3 in each category described in that paragraph, except that where a vacancy exists on a resource advisory committee, the Secretary concerned may not reject a qualified applicant from any category.
+
+#### (C) Termination of authority
+
+&emsp;&emsp;The authority provided under this paragraph terminates on October 1, 2023.
+
 #### (e) Approval procedures
 
 #### (1) In general
@@ -168,7 +186,51 @@ A resource advisory committee shall—
 
 &emsp;A resource advisory committee shall maintain records of the meetings of the committee and make the records available for public inspection.
 
-(Pub. L. 106–393, title II, §205, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3905; amended Pub. L. 112–141, div. F, title I, §100101(a)(7), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, §10(a)(2)(C), Oct. 2, 2013, 127 Stat. 545.)
+#### (g) Regional appointment pilot program
+
+#### (1) Definition of applicable designee
+
+&emsp;In this subsection, the term "applicable designee" means the applicable regional forester.
+
+#### (2) Pilot program
+
+&emsp;The Secretary concerned shall carry out a pilot program (referred to in this subsection as the "pilot program") to allow an applicable designee to appoint members of resource advisory committees.
+
+#### (3) Geographic limitation
+
+&emsp;The pilot program shall only apply to resource advisory committees chartered in—
+
+&emsp;&emsp;(A) the State of Montana; and
+
+&emsp;&emsp;(B) the State of Arizona.
+
+#### (4) Responsibilities of applicable designee
+
+#### (A) Review
+
+&emsp;&emsp;Before appointing a member of a resource advisory committee under the pilot program, an applicable designee shall conduct the review and analysis that would otherwise be conducted for an appointment to a resource advisory committee if the pilot program was not in effect, including any review and analysis with respect to civil rights and budgetary requirements.
+
+#### (B) Savings clause
+
+&emsp;&emsp;Nothing in this subsection relieves an applicable designee from any requirement developed by the Secretary concerned for making an appointment to a resource advisory committee that is in effect on December 20, 2018, including any requirement for advertising a vacancy.
+
+#### (5) Termination of effectiveness
+
+&emsp;The authority provided under this subsection terminates on October 1, 2023.
+
+#### (6) Report to Congress
+
+&emsp;Not later than the date that is 180 days after the date described in paragraph (5), the Secretary concerned shall submit to Congress a report that includes—
+
+&emsp;&emsp;(A) with respect to appointments made under the pilot program compared to appointments to resource advisory committees not made under the pilot program, a description of the extent to which—
+
+&emsp;&emsp;&emsp;(i) appointments were faster or slower; and
+
+&emsp;&emsp;&emsp;(ii) the requirements described in paragraph (4) differ; and
+
+&emsp;&emsp;(B) a recommendation with respect to whether Congress should terminate, continue, modify, or expand the pilot program.
+
+(Pub. L. 106–393, title II, §205, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3905; amended Pub. L. 112–141, div. F, title I, §100101(a)(7), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, §10(a)(2)(C), Oct. 2, 2013, 127 Stat. 545; Pub. L. 115–141, div. O, title IV, §401(b)(2), Mar. 23, 2018, 132 Stat. 1079; Pub. L. 115–334, title VIII, §8702, Dec. 20, 2018, 132 Stat. 4875.)
 
 #### References in Text
 
@@ -183,6 +245,16 @@ October 3, 2008, referred to in subsec. (c)(3), was in the original "the date of
 A prior section 205 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(4)(A), (B). Pub. L. 115–141 substituted "2018" for "2012" wherever appearing.
+
+Subsec. (d)(1). Pub. L. 115–334, §8702(1)(A), substituted "Except as provided in paragraph (6), each" for "Each".
+
+Subsec. (d)(2). Pub. L. 115–334, §8702(1)(B), substituted "Except as provided in paragraph (6), committee" for "Committee" in introductory provisions.
+
+Subsec. (d)(6). Pub. L. 115–334, §8702(1)(C), added par. (6).
+
+Subsec. (g). Pub. L. 115–334, §8702(2), added subsec. (g).
 
 <b>2013</b>—Subsec. (a)(4)(A), (B). Pub. L. 113–40 substituted "2012" for "2011" wherever appearing.
 

@@ -26,7 +26,7 @@
 
 #### (E) Periodic review and further reductions
 
-&emsp;&emsp;The Commission shall, based on the best available scientific and technical information, periodically review and revise downward the limit set forth in this subsection,no less frequently than every 5 years after promulgation of the limit under subparagraph (C) or (D) to require the lowest amount of lead that the Commission determines is technologically feasible to achieve. The amount of lead established by the Commission under the preceding sentence shall be substituted for the lead limit in effect immediately before such revision.
+&emsp;&emsp;The Commission shall, based on the best available scientific and technical information, periodically review and revise downward the limit set forth in this subsection, no less frequently than every 5 years after promulgation of the limit under subparagraph (C) or (D) to require the lowest amount of lead that the Commission determines is technologically feasible to achieve. The amount of lead established by the Commission under the preceding sentence shall be substituted for the lead limit in effect immediately before such revision.
 
 #### (3) Application
 
@@ -210,7 +210,7 @@ The pendency of a rulemaking proceeding to consider—
 
 #### (B) Rulemaking
 
-&emsp;&emsp;If the Commission determines, based on the study in subparagraph (A), that x-ray fluorescence technology or other alternative methods for measuring lead in paint are as effective, precise, and reliable as the methodology used by the Commission for compliance determinations prior to August 14, 2008, the Commission may promulgate regulations governing the use of such methods in determining the compliance of products with part 1303 of title 16, Code of Federal Regulations, as modified pursuant to this subsection. Any regulations promulgated by the Commission shall ensure that such alternative methods are no less effective, precise, and reliable than the methodology used by the Commission prior to August 14, 2008.
+&emsp;&emsp;If the Commission determines, based on the study in subparagraph (A), that x-ray fluorescence technology or other alternative methods for measuring lead in paint are as effective, precise, and reliable as the methodology used by the Commission for compliance determinations prior to August 14, 2008, the Commission may promulgate regulations governing the use of such methods in determining the compliance of products with part 1303 of title 16, Code of Federal Regulations, as modified pursuant to this subsection. Any regulations promulgated by the Commission shall ensure that such alternative methods are no less effective, precise,and reliable than the methodology used by the Commission prior to August 14, 2008.
 
 #### (5) Periodic review
 
@@ -218,7 +218,7 @@ The pendency of a rulemaking proceeding to consider—
 
 #### (6) No effect on legal limit
 
-&emsp;Nothing in paragraph (3), nor reliance by the Commission on any alternative method ofmeasurement pursuant to such paragraph, nor any rule prescribed pursuant to paragraph (4), nor any method established pursuant to paragraph (5) shall be construed to alter the limit set forth in section 1303 of title 16, Code of Federal Regulations, as modified pursuant to this subsection, or provide any exemption from such limit.
+&emsp;Nothing in paragraph (3), nor reliance by the Commission on any alternative method of measurement pursuant to such paragraph, nor any rule prescribed pursuant to paragraph (4), nor any method established pursuant to paragraph (5) shall be construed to alter the limit set forth in section 1303 of title 16, Code of Federal Regulations, as modified pursuant to this subsection, or provide any exemption from such limit.
 
 #### (7) Construction
 

@@ -46,7 +46,7 @@ In this title: <sup>1</sup>
 
 #### (B) Exception for self-insured plans and MEWAs
 
-&emsp;&emsp;Except to the extent specifically provided by this title,<sup>1</sup> the term "health plan" shall not include a group health plan or multiple employer welfare arrangement to the extent the plan or arrangement is not subject to State insurance regulation under section 1144 of title 29.
+&emsp;&emsp;Except to the extent specifically provided by this title,<sup>1</sup> the term "health plan" shall not include a group health plan or multipleemployer welfare arrangement to the extent the plan or arrangement is not subject to State insurance regulation under section 1144 of title 29.
 
 #### (2) Health insurance coverage and issuer
 

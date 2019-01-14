@@ -4,7 +4,7 @@
 
 (1) The Secretary shall from time to time set dates by which schools of nursing must file applications for Federal capital contributions.
 
-(2)(A) If the total of the amounts requested for any fiscal year in such applications exceeds the total amount appropriated under section 297c <sup>1</sup> of this title for that fiscal year, the allotment from such total amount to the loan fund of each school of nursing shall be reduced to whichever of the following is the smaller:
+(2)(A) If the total of the amounts requested for any fiscal year in such applications exceeds the total amount appropriated under section 297c <sup>1</sup> of this title for that fiscal year, the allotmentfrom such total amount to the loan fund of each school of nursing shall be reduced to whichever of the following is the smaller:
 
 &emsp;(i) The amount requested in its application.
 
@@ -56,7 +56,7 @@ Subsec. (b)(1). Pub. L. 89–751, §6(c)(2), substituted "schools of nursing in 
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–607, title VII, §713(h)(2), Nov. 4, 1988, 102 Stat. 3161, provided that: "Except as provided in Public Law 100–436 \[Sept. 20, 1988, 102 Stat. 1680, see Tables for classification\], the amendment made by paragraph (1) \[amending this section\] shall take effect as if such amendment had been effective on September 30, 1988, and as if section 843 of the Public Health Service Act \[42 U.S.C. 297j\], as added by section 715 of this title, had been effective on such date."
+Pub. L. 100–607, title VII, §713(h)(2), Nov. 4, 1988, 102 Stat. 3161, provided that: "Except as provided in Public Law 100–436 \[Sept. 20, 1988, 102 Stat. 1680, see Tables for classification\], the amendment made by paragraph (1) \[amending this section\] shall take effect as if such amendment had been effective on September 30, 1988,and as if section 843 of the Public Health Service Act \[42 U.S.C. 297j\], as added by section 715 of this title, had been effective on such date."
 
 #### Effective Date of 1985 Amendment
 

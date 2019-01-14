@@ -179,7 +179,7 @@
 
 |  |
 | :--- |
-| 360aaa to 360aaa–6. Omitted |
+| 360aaa to 360aaa–6. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -189,14 +189,15 @@
 | :--- | ---: |
 | [360bbb.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20E%20-%20General%20Provisions%20Relating%20to%20Drugs%20and%20Devices/%C2%A7%2000360bbb%20-%20Expanded%20access%20to%20unapproved%20therapies%20and%20diagnostics.md) | Expanded access to unapproved therapies and diagnostics. |
 | 360bbb–0. | Expanded access policy required for investigational drugs. |
+| 360bbb–0a. | Investigational drugs for use by eligible patients. |
 | 360bbb–1. | Dispute resolution. |
 | 360bbb–2. | Classification of products. |
 | 360bbb–3. | Authorization for medical products for use in emergencies. |
-| 360bbb–3a. Emergency use of medical products. |  |
-| 360bbb–3b. Products held for emergency use. |  |
-| 360bbb–3c. Expedited development and review of medical products for emergency uses. |  |
+| 360bbb–3a. | Emergency use of medical products. |
+| 360bbb–3b. | Products held for emergency use. |
+| 360bbb–3c. | Expedited development and review of medical products for emergency uses. |
 | 360bbb–4. | Countermeasure development, review, and technical assistance. |
-| 360bbb–4a. Priority review to encourage treatments for agents that present national security threats. |  |
+| 360bbb–4a. | Priority review to encourage treatments for agents that present national security threats. |
 | 360bbb–5. | Critical Path Public-Private Partnerships. |
 | 360bbb–6. | Risk communication. |
 | 360bbb–7. | Notification. |
@@ -204,6 +205,7 @@
 | 360bbb–8a. | Optimizing global clinical trials. |
 | 360bbb–8b. | Use of clinical investigation data from outside the United States. |
 | 360bbb–8c. | Patient participation in medical product discussion. |
+| 360bbb–8d. | Notification, nondistribution, and recall of controlled substances. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -211,7 +213,7 @@
 
 |  |  |
 | :--- | ---: |
-| [360ccc.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20F%20-%20New%20Animal%20Drugs%20for%20Minor%20Use%20and%20Minor%20Species/%C2%A7%2000360ccc%20-%20Conditional%20approval%20of%20new%20animal%20drugs%20for%20minor%20use%20and%20minor%20species.md) | Conditional approval of new animal drugs for minor use and minor species. |
+| [360ccc.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20F%20-%20New%20Animal%20Drugs%20for%20Minor%20Use%20and%20Minor%20Species/%C2%A7%2000360ccc%20-%20Conditional%20approval%20of%20new%20animal%20drugs%20for%20minor%20use%20and%20minor%20species%20and%20certain%20new%20animal%20drugs.md) | Conditional approval of new animal drugs for minor use and minor species and certain new animal drugs. |
 | 360ccc–1. | Index of legally marketed unapproved new animal drugs for minor species. |
 | 360ccc–2. | Designated new animal drugs for minor use or minor species. |
 
@@ -457,6 +459,8 @@
 | [384c.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384c%20-%20Inspection%20of%20foreign%20food%20facilities.md) | Inspection of foreign food facilities. |
 | [384d.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384d%20-%20Accreditation%20of%20third-party%20auditors.md) | Accreditation of third-party auditors. |
 | [384e.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384e%20-%20Recognition%20of%20foreign%20government%20inspections.md) | Recognition of foreign government inspections. |
+| [384f.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384f%20-%20Strengthening%20FDA%20and%20CBP%20coordination%20and%20capacity.md) | Strengthening FDA and CBP coordination and capacity. |
+| [384g.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384g%20-%20Restricting%20entrance%20of%20illicit%20drugs.md) | Restricting entrance of illicit drugs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -513,6 +517,7 @@
 | [399f.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399f%20-%20Ensuring%20adequate%20information%20regarding%20pharmaceuticals%20for%20all%20populations%2C%20particularly%20underrepresented%20subpopulations%2C%20including%E2%80%A6.md) | Ensuring adequate information regarding pharmaceuticals for all populations, particularly underrepresented subpopulations, including racial subgroups. |
 | [399g.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399g%20-%20Food%20and%20Drug%20Administration%20Intercenter%20Institutes.md) | Food and Drug Administration Intercenter Institutes. |
 | [399h.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399h%20-%20Grants%20for%20studying%20continuous%20drug%20manufacturing.md) | Grants for studying continuous drug manufacturing. |
+| [399i.](Subchapter%20010%20%28X%29%20-%20Miscellaneous/%C2%A7%2000399i%20-%20Food%20and%20Drug%20Administration%20Working%20Capital%20Fund.md) | Food and Drug Administration Working Capital Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

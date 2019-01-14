@@ -90,7 +90,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;"(K) assisting with fundraising on behalf of the corporation.
 
-&emsp;"(6)(A) The selection of members of the Board of Governors is a critical component of effective governance for The American National Red Cross, and, as such, it is in the national interest that The AmericanNational Red Cross amend its bylaws to provide a method of selection consistent with that described in the Governance Report.
+&emsp;"(6)(A) The selection of members of the Board of Governors is a critical component of effective governance for The American National Red Cross, and, as such, it is in the national interest that The American National Red Cross amend its bylaws to provide a method of selection consistent with that described in the Governance Report.
 
 &emsp;"(B) The new method of selection should replace the current process by which—
 

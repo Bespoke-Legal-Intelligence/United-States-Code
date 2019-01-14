@@ -20,7 +20,7 @@ The Secretary shall provide reasonable access to private lands within the bounda
 
 #### (2) Retirement of certain permits
 
-&emsp;The Secretary shall permanently retire all grazing permits applicable to certain lands inthe Wilderness Area, as depicted on the map referred to in section 460nnn–11(a) of this title, and livestock shall be excluded from these lands.
+&emsp;The Secretary shall permanently retire all grazing permits applicable to certain lands in the Wilderness Area, as depicted on the map referred to in section 460nnn–11(a) of this title, and livestock shall be excluded from these lands.
 
 (Pub. L. 106–399, title II, §202, Oct. 30, 2000, 114 Stat. 1666.)
 

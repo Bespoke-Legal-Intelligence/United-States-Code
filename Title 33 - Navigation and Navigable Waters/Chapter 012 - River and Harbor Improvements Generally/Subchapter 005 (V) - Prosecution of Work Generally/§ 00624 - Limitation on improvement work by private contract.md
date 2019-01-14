@@ -14,7 +14,7 @@ In estimating the comparable cost of doing the work under subsection (a)(1) by G
 
 #### (c) Considerations involved in determinations of estimation of cost of performance of work by well-equipped contractor
 
-In determining a fair and reasonable estimated cost of doing work by private contract under subsection (a)(2), the Secretary of the Army, acting through the Chief of Engineers, shall, in addition to the cost of labor and materials, take into account proper charges for depreciation of plant, all expenses for supervision, overhead, workmen's compensation, general liability insurance, taxes (State and local), interest on capital invested in plant, and such other expenses and charges the Secretary of the Army, acting through the Chief of Engineers, determines to be appropriate.
+In determining a fair and reasonable estimated cost of doing work by private contractunder subsection (a)(2), the Secretary of the Army, acting through the Chief of Engineers, shall, in addition to the cost of labor and materials, take into account proper charges for depreciation of plant, all expenses for supervision, overhead, workmen's compensation, general liability insurance, taxes (State and local), interest on capital invested in plant, and such other expenses and charges the Secretary of the Army, acting through the Chief of Engineers, determines to be appropriate.
 
 (Mar. 2, 1919, ch. 95, §8, 40 Stat. 1290; Pub. L. 95–269, §2, Apr. 26, 1978, 92 Stat. 219.)
 

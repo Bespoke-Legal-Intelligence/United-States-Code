@@ -146,7 +146,7 @@ Subsec. (c). Pub. L. 108–375, §643(b)(2), added subsec. (c).
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–121 and Pub. L. 108–136 amended subsec. (a) identically, substituting "$12,000" for "$6,000" in introductory provisions.
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–190, in first sentence, substituted "1475 through 1477" for "1475–1477" and"$6,000" for "equal to six months' pay at the rate to which the decedent was entitled on the date of his death, except that the gratuity may not be less than $800 of more than $3,000."
+<b>1991</b>—Subsec. (a). Pub. L. 102–190, in first sentence, substituted "1475 through 1477" for "1475–1477" and "$6,000" for "equal to six months' pay at the rate to which the decedent was entitled on the date of his death, except that the gratuity may not be less than $800 of more than $3,000."
 
 <b>1966</b>—Subsec. (a)(4). Pub. L. 89–718 struck out ", United States Code" after "title 37" in two places.
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 112–81 effective on Dec. 31, 2011, and applicable with re
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–234, title I, §1210, June 15, 2006, 120 Stat. 430, provided that the amendment made by section 1210 is effective as of Jan. 6, 2006, and as if included in the enactment of Pub. L. 109–163.
+Pub. L. 109–234, title I, §1210, June 15, 2006, 120 Stat. 430, provided that the amendment made by section 1210is effective as of Jan. 6, 2006, and as if included in the enactment of Pub. L. 109–163.
 
 Pub. L. 109–163, div. A, title VI, §664(a)(3), Jan. 6, 2006, 119 Stat. 3316, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as of October 7, 2001, and shall apply to deaths occurring on or after the date of the enactment of this Act \[Jan. 6, 2006\] and, subject to subsection (c) \[119 Stat. 3317\], to deaths occurring during the period beginning on October 7, 2001, and ending on the day before the date of the enactment of this Act."
 

@@ -18,7 +18,7 @@
 
 (3) A State may regulate a fishing vessel outside the boundaries of the State in the following circumstances:
 
-&emsp;(A) The fishing vessel is registered under the law of that State, and (i) there is no fishery management plan or other applicable Federal fishing regulations for the fishery in which the vessel is operating; or (ii) the State's laws and regulations are consistent with the fishery management plan and applicable Federal fishing regulations for the fishery in which the vessel is operating.
+&emsp;(A) The fishing vessel is registered under the law of that State, and (i) there is no fisherymanagement plan or other applicable Federal fishing regulations for the fishery in which the vessel is operating; or (ii) the State's laws and regulations are consistent with the fishery management plan and applicable Federal fishing regulations for the fishery in which the vessel is operating.
 
 &emsp;(B) The fishery management plan for the fishery in which the fishing vessel is operating delegates management of the fishery to a State and the State's laws and regulations are consistent with such fishery management plan. If at any time the Secretary determines that a State law or regulation applicable to a fishing vessel under this circumstance is not consistent with the fishery management plan, the Secretary shall promptly notify the State and the appropriate Council of such determination and provide an opportunity for the State to correct any inconsistencies identified in the notification. If, after notice and opportunity for corrective action, the State does not correct the inconsistencies identified by the Secretary, the authority granted to the State under this subparagraph shall not apply until the Secretary and the appropriate Council find that the State has corrected the inconsistencies. For a fishery for which there was a fishery management plan in place on August 1, 1996 that did not delegate management of the fishery to a State as of that date, the authority provided by this subparagraph applies only if the Council approves the delegation of management of the fishery to the State by a three-quarters majority vote of the voting members of the Council.
 
@@ -66,7 +66,7 @@
 
 &emsp;(B) The phrase "internal waters of a State" means all waters within the boundaries of a State except those seaward of the baseline from which the territorial sea is measured.
 
-&emsp;(C) A foreign fishing vessel shall be treated as qualified for purposes of paragraph (1) if the foreign nation under which it is flagged will be a party to (i) a governing international fishery agreement or (ii) a treaty described in section 1821(b) of this title during the time the vessel will engage in the fish processing for which permission is sought under paragraph (1)(B).
+&emsp;(C) A foreign fishing vessel shall be treated as qualified for purposes of paragraph (1) if the foreign nation under which it is flagged will be a party to (i) a governing international fishery agreement or (ii) a treaty described in section1821(b) of this title during the time the vessel will engage in the fish processing for which permission is sought under paragraph (1)(B).
 
 (Pub. L. 94–265, title III, §306, Apr. 13, 1976, 90 Stat. 355; Pub. L. 97–191, §1, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §9, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 98–623, title IV, §404(4), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–659, title I, §101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §112, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 104–297, title I, §112(a)–(c), Oct. 11, 1996, 110 Stat. 3595, 3596.)
 
@@ -106,7 +106,7 @@ Pub. L. 105–384, title II, §203, Nov. 13, 1998, 112 Stat. 3453, as amended by
 
 "(a)
 
-In General.—Subject to the provisions of this section and notwithstanding section 306(a) of the Magnuson-Stevens Fishery Conservation and ManagementAct (16 U.S.C. 1856(a)), each of the States of Washington, Oregon, and California may adopt and enforce State laws and regulations governing fishing and processing in the exclusive economic zone adjacent to that State in any Dungeness crab (Cancer magister) fishery for which there is no fishery management plan in effect under that Act \[16 U.S.C. 1801 et seq.\].
+In General.—Subject to the provisions of this section and notwithstanding section 306(a) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1856(a)), each of the States of Washington, Oregon, and California may adopt and enforce State laws and regulations governing fishing and processing in the exclusive economic zone adjacent to that State in any Dungeness crab (Cancer magister) fishery for which there is no fishery management plan in effect under that Act \[16 U.S.C. 1801 et seq.\].
 
 "(b)
 
@@ -150,7 +150,7 @@ Definitions.—The definitions set forth in section 3 of the Magnuson-Stevens Fi
 
 &emsp;"(3) measures implemented or planned that are designed to prevent or end overfishing in the fishery."
 
-Pub. L. 104–297, title I, §112(d), Oct. 11, 1996, 110 Stat. 3596, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided interim authority to the States of Washington, Oregon, and California to enforce State laws and regulations governing fish harvesting and processing against any vessel operating in the exclusive economic zone off each respective State in a fishery for Dungeness crab (Cancer magister) for which there is no fishery management plan implemented under this chapter, was repealed by Pub. L. 105–384, title II, §203(g), Nov. 13, 1998, 112 Stat. 3454.
+Pub. L. 104–297, title I, §112(d), Oct. 11, 1996, 110 Stat. 3596, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided interim authority to the States of Washington, Oregon, and California to enforce Statelaws and regulations governing fish harvesting and processing against any vessel operating in the exclusive economic zone off each respective State in a fishery for Dungeness crab (Cancer magister) for which there is no fishery management plan implemented under this chapter, was repealed by Pub. L. 105–384, title II, §203(g), Nov. 13, 1998, 112 Stat. 3454.
 
 #### Foreign Fish Processing in Norton Sound
 

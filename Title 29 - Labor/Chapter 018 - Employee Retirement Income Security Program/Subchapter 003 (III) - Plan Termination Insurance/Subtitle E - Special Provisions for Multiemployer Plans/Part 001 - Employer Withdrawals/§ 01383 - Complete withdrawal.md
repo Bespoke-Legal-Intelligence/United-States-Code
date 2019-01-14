@@ -90,7 +90,7 @@ For purposes of this part, the date of a complete withdrawal is the date of the 
 
 #### (f) Special liability withdrawal rules for industries other than construction and entertainment industries; procedures applicable to amend plans
 
-(1) The corporation may prescribe regulations under which plans in industries other than the construction or entertainment industries maybe amended to provide for special withdrawal liability rules similar to the rules described in subsections (b) and (c).
+(1) The corporation may prescribe regulations under which plans in industries other than the construction or entertainment industries may be amended to provide for special withdrawal liability rules similar to the rules described in subsections (b) and (c).
 
 (2) Regulations under paragraph (1) shall permit use of special withdrawal liability rules—
 

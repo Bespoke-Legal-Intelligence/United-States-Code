@@ -6,7 +6,7 @@
 
 (c) The authority of the Secretary under subsection (a) does not apply to the National Nuclear Security Administration. The corresponding authority that applies to the Administration is set forth in section 2402(e) <sup>1</sup> of title 50.
 
-(Pub. L. 95–91, title VI, §643, Aug. 4, 1977, 91 Stat. 599; Pub. L. 106–377, §1(a)(2) \[title III, §314(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–81; Pub. L. 106–398, §1 \[div. C, title XXXI, §3159(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–470; Pub. L. 112–239, div. C, title XXXI, §3132(e), Jan. 2, 2013, 126 Stat. 2187.)
+(Pub. L. 95–91, title VI, §643, Aug. 4, 1977, 91 Stat. 599; Pub. L. 106–377, §1(a)(2) \[title III, §314(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–81; Pub. L.106–398, §1 \[div. C, title XXXI, §3159(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–470; Pub. L. 112–239, div. C, title XXXI, §3132(e), Jan. 2, 2013, 126 Stat. 2187.)
 
 #### References in Text
 

@@ -34,7 +34,7 @@ There shall be in the Department an Assistant to the Secretary, designated by th
 
 &emsp;(iv) coordinating all programs of the Department relating to Indian and Alaska Native housing and community development.
 
-(D) The Secretary shall include in the annual report under section 3536 of this title a description of the extent of the housing needs for Indian families and community development needsof Indian tribes in the United States and the activities of the Department, and extent of such activities, in meeting such needs.
+(D) The Secretary shall include in the annual report under section 3536 of this title a description of the extent of the housing needs for Indian families and community development needs of Indian tribes in the United States and the activities of the Department, and extent of such activities, in meeting such needs.
 
 (2) The Secretary shall, not later than December 1 of each year, submit to Congress an annual report which shall include—
 
@@ -90,7 +90,7 @@ There shall be in the Department a Federal Housing Administration Comptroller, d
 
 &emsp;&emsp;&emsp;(viii) collaborating with community-based organizations with expertise in the field of housing counseling; and
 
-&emsp;&emsp;&emsp;(ix) providing for the building of capacity to provide housing counseling services in areas that lack sufficient services, including underdeveloped areas that lack basic water and sewer systems, electricity services, and safe, sanitary housing.
+&emsp;&emsp;&emsp;(ix) providing for the building of capacity to provide housing counseling services in areas that lack sufficient services, including underdeveloped areas that lackbasic water and sewer systems, electricity services, and safe, sanitary housing.
 
 #### (4) Advisory committee
 
@@ -160,7 +160,7 @@ There shall be in the Department a Federal Housing Administration Comptroller, d
 
 #### References in Text
 
-The Housing and Community Development Act of 1974, referred to in subsec. (e)(1)(C)(ii), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (e)(1)(C)(ii), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 5301 of this title and Tables.
 
 Section 6 of the Expand and Preserve Home Ownership Through Counseling Act, referred to in subsec. (g)(3)(B)(vi), probably means section 1446 of subtitle D of title XIV of Pub. L. 111–203, July 21, 2010, 124 Stat. 2172, which is not classified to the Code.
 
@@ -184,7 +184,7 @@ Section was formerly classified to section 624b of former Title 5, Executive Dep
 
 Subsec. (e). Pub. L. 101–576 struck out subsec. (e), added by section 121 of Pub. L. 101–235, which related to Chief Financial Officer.
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–235, §140(2), designated second sentence of subsec. (a), relating to appointment,function, and duties of Federal Housing Commissioner, as (b).
+<b>1989</b>—Subsec. (a). Pub. L. 101–235, §140(2), designated second sentence of subsec. (a), relating to appointment, function, and duties of Federal Housing Commissioner, as (b).
 
 Subsec. (b). Pub. L. 101–235, §140, designated second sentence of subsec. (a), relating to appointment, function, and duties of Federal Housing Commissioner, as subsec. (b) and sentence at end requiring Secretary to ensure that managers are accountable for certain aspects of the programs. Former subsec. (b) redesignated (c).
 

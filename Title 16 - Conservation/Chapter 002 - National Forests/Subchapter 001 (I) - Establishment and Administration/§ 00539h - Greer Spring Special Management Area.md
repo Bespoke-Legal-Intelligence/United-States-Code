@@ -28,7 +28,7 @@ The Secretary shall construct and maintain only those roads within the special m
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 102–220, Dec. 11, 1991, 105 Stat. 1674, known as the Greer Spring Acquisition and Protection Act of 1991, which enacted this section and provisions set out below. For complete classification of this Act to the Code, see section 1 of Pub. L. 102–220, set out below, and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 102–220, Dec. 11, 1991, 105 Stat. 1674, known as the Greer SpringAcquisition and Protection Act of 1991, which enacted this section and provisions set out below. For complete classification of this Act to the Code, see section 1 of Pub. L. 102–220, set out below, and Tables.
 
 Geothermal leasing laws of the United States, referred to in subsec. (e), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
 
@@ -48,7 +48,7 @@ Pub. L. 102–220, §§1–3, 5, Dec. 11, 1991, 105 Stat. 1674, 1675, as amended
 
 #### "SEC. 3. ELEVEN POINT WILD AND SCENIC RIVER.
 
-"The Secretary shall manage the lands, waters, and interests therein within the area referred to on the mapas 'The Eleven Point Wild and Scenic Corridor' (hereinafter referred to as 'the corridor'), pursuant to the provisions of the Wild and Scenic Rivers Act (16 U.S.C. 1271–1287). Lands acquired pursuant to section 2 of this Act within the corridor shall not be counted against the average one-hundred-acre-per-mile fee limitation of Section 6(a)(1) of the Wild and Scenic Rivers Act \[16 U.S.C. 1277(a)(1)\], nor shall such lands outside the corridor be subject to the provisions of Section 6(a)(2) of the Wild and Scenic Rivers Act.
+"The Secretary shall manage the lands, waters, and interests therein within the area referred to on the map as 'The Eleven Point Wild and Scenic Corridor' (hereinafter referred to as 'the corridor'), pursuant to the provisions of the Wild and Scenic Rivers Act (16 U.S.C. 1271–1287). Lands acquired pursuant to section 2 of this Act within the corridor shall not be counted against the average one-hundred-acre-per-mile fee limitation of Section 6(a)(1) of the Wild and Scenic Rivers Act \[16 U.S.C. 1277(a)(1)\], nor shall such lands outside the corridor be subject to the provisions of Section 6(a)(2) of the Wild and Scenic Rivers Act.
 
 #### "SEC. 5. APPROPRIATIONS.
 

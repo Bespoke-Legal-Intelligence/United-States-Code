@@ -30,7 +30,7 @@ Pub. L. 108–83, title I, §1301(b), Sept. 30, 2003, 117 Stat. 1033, provided t
 
 #### Salary Increases
 
-<b>1987</b>—Salaries of Public Printer and Deputy Public Printer increased respectively to $77,500 and $72,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
+<b>1987</b>—Salaries of Public Printer and Deputy Public Printer increased respectively to $77,500 and $72,500 perannum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
 <b>1977</b>—Salaries of the Public Printer and Deputy Public Printer increased respectively to $50,000 and $47,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
 

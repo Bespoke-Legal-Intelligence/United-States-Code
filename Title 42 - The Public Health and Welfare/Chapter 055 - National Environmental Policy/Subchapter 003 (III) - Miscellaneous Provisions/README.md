@@ -31,3 +31,5 @@
 - [&sect; 04370f - Availability of funds after expiration of period for liquidating obligations](%C2%A7%2004370f%20-%20Availability%20of%20funds%20after%20expiration%20of%20period%20for%20liquidating%20obligations.md)
 - [&sect; 04370g - Availability of funds for uniforms and certain services](%C2%A7%2004370g%20-%20Availability%20of%20funds%20for%20uniforms%20and%20certain%20services.md)
 - [&sect; 04370h - Availability of funds for facilities](%C2%A7%2004370h%20-%20Availability%20of%20funds%20for%20facilities.md)
+- [&sect; 04370i - Regional liaisons for minority, tribal, and low-income communities](%C2%A7%2004370i%20-%20Regional%20liaisons%20for%20minority%2C%20tribal%2C%20and%20low-income%20communities.md)
+- [&sect; 04370j - Municipal Ombudsman](%C2%A7%2004370j%20-%20Municipal%20Ombudsman.md)

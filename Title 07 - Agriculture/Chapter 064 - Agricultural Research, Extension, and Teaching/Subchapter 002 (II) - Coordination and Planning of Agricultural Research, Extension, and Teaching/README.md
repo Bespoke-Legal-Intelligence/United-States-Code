@@ -9,7 +9,7 @@
 - [&sect; 03122 - Repealed. Pub. L. 104&#8211;127, title VIII, &sect;852(a), Apr. 4, 1996, 110 Stat. 1171](%C2%A7%2003122%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7852%28a%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201171.md)
 - [&sect; 03123 - National Agricultural Research, Extension, Education, and Economics Advisory Board](%C2%A7%2003123%20-%20National%20Agricultural%20Research%2C%20Extension%2C%20Education%2C%20and%20Economics%20Advisory%20Board.md)
 - [&sect; 03123a - Specialty crop committee](%C2%A7%2003123a%20-%20Specialty%20crop%20committee.md)
-- [&sect; 03123b - Renewable energy committee](%C2%A7%2003123b%20-%20Renewable%20energy%20committee.md)
+- [&sect; 03123b - Repealed. Pub. L. 115&#8211;334, title VII, &sect;7105, Dec. 20, 2018, 132 Stat. 4783](%C2%A7%2003123b%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20VII%2C%20%C2%A77105%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204783.md)
 - [&sect; 03124 - Existing research programs](%C2%A7%2003124%20-%20Existing%20research%20programs.md)
 - [&sect; 03124a - Federal-State partnership and coordination](%C2%A7%2003124a%20-%20Federal-State%20partnership%20and%20coordination.md)
 - [&sect; 03125 - Annual report of Secretary of Agriculture to President and Congress](%C2%A7%2003125%20-%20Annual%20report%20of%20Secretary%20of%20Agriculture%20to%20President%20and%20Congress.md)

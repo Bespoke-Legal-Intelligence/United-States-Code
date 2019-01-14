@@ -4,7 +4,7 @@
 
 The benefits provided to an individual by the insurance program under this part shall consist of entitlement to have payment made on his behalf or, in the case of payments referred to in section 1395f(d)(2) of this title to him (subject to the provisions of this part) for—
 
-&emsp;(1) inpatient hospital services or inpatient critical access hospital services for up to 150 days during any spell of illness minus 1 day for each day of such services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have payment for such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
+&emsp;(1) inpatient hospital services or inpatient critical access hospital services for up to 150 days during any spell of illness minus 1 day for each day of such services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have paymentfor such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
 
 &emsp;(2)(A) post-hospital extended care services for up to 100 days during any spell of illness, and (B) to the extent provided in subsection (f), extended care services that are not post-hospital extended care services;
 
@@ -32,7 +32,7 @@ Payment under this part for services furnished an individual during a spell of i
 
 &emsp;(3) inpatient psychiatric hospital services furnished to him after such services have been furnished to him for a total of 190 days during his lifetime.
 
-> Payment under this part for post-institutional home health services furnished an individual during a home health spell of illness may not bemade for such services beginning after such services have been furnished for a total of 100 visits during such spell.
+> Payment under this part for post-institutional home health services furnished an individual during a home health spell of illness may not be made for such services beginning after such services have been furnished for a total of 100 visits during such spell.
 
 #### (c) Inpatients of psychiatric hospitals
 
@@ -60,7 +60,7 @@ If an individual is an inpatient of a psychiatric hospital on the first day of t
 
 &emsp;(ii) the individual may at any time after the revocation execute a new election for a subsequent period, if the individual otherwise is entitled to hospice care benefits with respect to such a period.
 
-(C) An individual may, once in each such period, change the hospice program with respect to which the election is made and such change shall not be considered a revocation of an election under subparagraph (B).
+(C) An individual may, once in each such period, change the hospice program with respectto which the election is made and such change shall not be considered a revocation of an election under subparagraph (B).
 
 (D) For purposes of this subchapter, an individual's election with respect to a hospice program shall no longer be considered to be in effect with respect to that hospice program after the date the individual's revocation or change of election with respect to that election takes effect.
 
@@ -84,7 +84,7 @@ For purposes of subsections (b) and (c), inpatient hospital services, inpatient 
 
 For definitions of "spell of illness", and for definitions of other terms used in this part, see section 1395x of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1812, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 291; amended Pub. L. 90–248, title I, §§129(c)(2), 137(a), 138(a), 143(b), 146(a), Jan. 2, 1968, 81 Stat. 847, 853, 854, 857, 859; Pub. L. 96–499, title IX, §§930(b)–(d), 931(a), Dec. 5, 1980, 94 Stat. 2631, 2633; Pub. L. 97–35, title XXI, §2121(a), Aug. 13, 1981, 95 Stat. 796; Pub. L. 97–248, title I, §§122(b), 123, Sept. 3, 1982, 96 Stat. 356, 364; Pub. L. 97–448, title III, §309(b)(5), Jan. 12, 1983, 96Stat. 2409; Pub. L. 100–360, title I, §101, July 1, 1988, 102 Stat. 684; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–239, title VI, §6003(g)(3)(B)(i), Dec. 19, 1989, 103 Stat. 2152; Pub. L. 101–508, title IV, §4006(a), Nov. 5, 1990, 104 Stat. 1388–43; Pub. L. 103–432, title I, §102(g)(1), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §§4201(c)(1), 4443(a), (b)(1), 4611(a), Aug. 5, 1997, 111 Stat. 373, 423, 472; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title V, §512(a), title VII, §736(c)(1), Dec. 8, 2003, 117 Stat. 2299, 2356.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1812, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 291; amended Pub. L. 90–248, title I, §§129(c)(2), 137(a), 138(a), 143(b), 146(a), Jan. 2, 1968, 81 Stat. 847, 853, 854, 857, 859; Pub. L. 96–499, title IX, §§930(b)–(d), 931(a), Dec. 5, 1980, 94 Stat. 2631, 2633; Pub. L. 97–35, title XXI, §2121(a), Aug. 13, 1981, 95 Stat. 796; Pub. L. 97–248, title I, §§122(b), 123, Sept. 3, 1982, 96 Stat. 356, 364; Pub. L. 97–448, title III, §309(b)(5), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 100–360, title I, §101, July 1, 1988, 102 Stat. 684; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–239, title VI, §6003(g)(3)(B)(i), Dec. 19, 1989, 103 Stat. 2152; Pub. L. 101–508, title IV, §4006(a), Nov. 5, 1990, 104 Stat. 1388–43; Pub. L. 103–432, title I, §102(g)(1), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §§4201(c)(1), 4443(a), (b)(1), 4611(a), Aug. 5, 1997, 111 Stat. 373, 423, 472; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title V, §512(a), title VII, §736(c)(1), Dec. 8, 2003, 117 Stat. 2299, 2356.)
 
 #### Amendments
 
@@ -128,7 +128,7 @@ Subsecs. (b) to (d)(1), (2)(B), (e) to (g). Pub. L. 101–234 repealed Pub. L. 1
 
 "(3) home health services; and
 
-"(4) in lieu of certain other benefits, hospice care with respect to the individual during up to two periods of 90 days each, a subsequent period of 30 days, and a subsequent extension period with respect to which the individual makes an election under subsection (d)(1) of this section."
+"(4) in lieu of certain other benefits, hospice care with respect to the individual during up to two periods of 90 days each, a subsequent period of 30 days, and asubsequent extension period with respect to which the individual makes an election under subsection (d)(1) of this section."
 
 Subsec. (b). Pub. L. 100–360, §101(2), amended subsec. (b) generally, striking out par. (1) and renumbering and amending pars. (2) and (3) as (1) and (2), respectively.
 
@@ -198,7 +198,7 @@ Pub. L. 103–432, title I, §102(i), Oct. 31, 1994, 108 Stat. 4404, provided th
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title IV, §4006(c), Nov. 5, 1990, 104 Stat. 1388–43, provided that: "The amendments made by this section \[amending this section and section 1395f of this title\] shall apply with respect to care and services furnished on or after January 1, 1990."
+Pub. L. 101–508, title IV, §4006(c), Nov. 5, 1990, 104 Stat. 1388–43, provided that: "The amendments made bythis section \[amending this section and section 1395f of this title\] shall apply with respect to care and services furnished on or after January 1, 1990."
 
 #### Effective Date of 1989 Amendment
 
@@ -244,7 +244,7 @@ Pub. L. 96–499, title IX, §931(e), Dec. 5, 1980, 94 Stat. 2634, provided that
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–248, title I, §129(d), Jan. 2, 1968, 81 Stat. 849, provided that: "The amendments made by this section\[amending this section and sections 426, 1395e, 1395f, 1395k, 1395l, 1395n, 1395x, and 1395cc of this title and section 228s–2 of Title 45, Railroads\] shall apply with respect to services furnished after March 31, 1968, except that subsection (c)(5) of such section \[amending section 1395f of this title\] shall become effective with respect to services furnished after the date of enactment of this Act \[Jan. 2, 1968\]."
+Pub. L. 90–248, title I, §129(d), Jan. 2, 1968, 81 Stat. 849, provided that: "The amendments made by this section \[amending this section and sections 426, 1395e, 1395f, 1395k, 1395l, 1395n, 1395x, and 1395cc of this title and section 228s–2 of Title 45, Railroads\] shall apply with respect to services furnished after March 31, 1968, except that subsection (c)(5) of such section \[amending section 1395f of this title\] shall become effective with respect to services furnished after the date of enactment of this Act \[Jan. 2, 1968\]."
 
 Pub. L. 90–248, title I, §137(c), Jan. 2, 1968, 81 Stat. 854, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1395e of this title\] shall apply with respect to services furnished after December 31, 1967."
 
@@ -292,7 +292,7 @@ Budget Neutrality.—With respect to the 3-year period of the demonstration prog
 
 #### Protecting Home Health Benefits
 
-Pub. L. 111–148, title III, §3143, Mar. 23, 2010, 124 Stat. 442, provided that: "Nothing in the provisions of, or amendments made by, this Act \[see Short Title note set out under section 18001 of this title\] shall result in the reduction of guaranteed home health benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
+Pub. L. 111–148, title III, §3143, Mar. 23, 2010, 124 Stat. 442, provided that: "Nothing in the provisions of, oramendments made by, this Act \[see Short Title note set out under section 18001 of this title\] shall result in the reduction of guaranteed home health benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
 
 #### Rural Hospice Demonstration Project
 

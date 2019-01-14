@@ -104,7 +104,7 @@
 
 #### (d) Reallocation of excess allocations
 
-(1) If institutions return to the Secretary any portion of the sums allocated to such institutions under this section for any fiscal year, the Secretary shall reallot such excess to eligible institutions which used at least 5 percent of the total amount of funds granted to such institution under this section to compensate students employed in tutoring in reading and family literacy activities in the preceding fiscal year. Such excess funds shall be reallotted to institutions which qualify under this subsection on the same basis as excess eligible amounts are allocated to institutions pursuant to subsection (b) of this section. Funds received by institutions pursuant to this subsection shall be used to compensate students employed in community service.
+(1) If institutions return to the Secretary any portion of the sums allocated to such institutions under this section for any fiscal year, the Secretary shall reallot such excess to eligible institutions which used at least 5 percent of the total amount of funds granted to such institution under this section to compensate students employed in tutoring in reading and family literacy activities in the preceding fiscal year. Such excess funds shall be reallotted to institutions which qualify under this subsection on the same basis as excess eligible amounts are allocated to institutions pursuant to subsection (b)of this section. Funds received by institutions pursuant to this subsection shall be used to compensate students employed in community service.
 
 (2) If, under paragraph (1) of this subsection, an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing this paragraph would be contrary to the interest of the program.
 
@@ -144,7 +144,7 @@ Subsec. (b)(2)(A)(i). Pub. L. 105–244, §442(b)(4), substituted "subsection (c
 
 Subsec. (c). Pub. L. 105–244, §442(b)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (c)(3). Pub. L. 105–244, §442(b)(5), struck out "the Secretary, for academic year 1988–1989 shall usethe procedures employed for academic year 1986–1987, and, for any subsequent academic years," after "professional students," in introductory provisions.
+Subsec. (c)(3). Pub. L. 105–244, §442(b)(5), struck out "the Secretary, for academic year 1988–1989 shall use the procedures employed for academic year 1986–1987, and, for any subsequent academic years," after "professional students," in introductory provisions.
 
 Subsec. (d). Pub. L. 105–244, §442(b)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
@@ -172,7 +172,7 @@ Pub. L. 105–244, title IV, §442(c), Oct. 7, 1998, 112 Stat. 1712, provided th
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

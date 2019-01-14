@@ -6,7 +6,7 @@
 
 &emsp;(2) Benefits under section 2307 of this title, relating to burial benefits for veterans who die as the result of a service-connected disability.
 
-&emsp;(3) Benefits under chapter 39 of this title, relating to automobiles and adaptive equipmentfor certain disabled veterans and members of the Armed Forces.
+&emsp;(3) Benefits under chapter 39 of this title, relating to automobiles and adaptive equipment for certain disabled veterans and members of the Armed Forces.
 
 &emsp;(4) Assistance and services under chapter 31 of this title, relating to training and rehabilitation for certain veterans with service-connected disabilities.
 

@@ -40,7 +40,7 @@ For purposes of this section—
 
 > &emsp;&emsp;incidental to farming operations; or
 
-&emsp;&emsp;(D) by the owner, tenant, or operator of a farm, in connection with the operation, management, conservation, improvement, or maintenance of such farm and its tools and equipment.
+&emsp;&emsp;(D) by the owner, tenant, or operator of a farm, in connection with the operation,management, conservation, improvement, or maintenance of such farm and its tools and equipment.
 
 #### (4) Certain farming use other than by owner, etc.
 
@@ -102,15 +102,17 @@ The Secretary may by regulations prescribe the conditions, not inconsistent with
 
 &emsp;&emsp;<b>(3) For fraud penalties, etc., see chapter 75 (section 7201 and following, relating to crimes, other offenses, and forfeitures).</b>
 
-&emsp;&emsp;<b>(4) For treatment of an Indian tribal government as a State and </b><b><sup>1</sup></b> a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
+&emsp;&emsp;<b>(4) For treatment of an Indian tribal government as a State (and a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.</b>
 
-(Added Apr. 2, 1956, ch. 160, §1, 70 Stat. 87; amended Pub. L. 85–859, title I, §163(d)(2), Sept. 2, 1958, 72 Stat. 1311; Pub. L. 89–44, title VIII, §809(a), June 21, 1965, 79 Stat. 165; Pub. L. 91–258, title II, §§205(c)(7), 207(b), May 21, 1970, 84 Stat. 242, 248; Pub. L. 94–455, title XIX, §§1906(a)(26), (b)(6)(A), (13)(A), Oct. 4, 1976, 90 Stat. 1827, 1833, 1834; Pub. L. 95–458, §3(a), (c), Oct. 14, 1978, 92 Stat. 1257; Pub. L. 97–424, title V, §§511(f), 516(b)(4), Jan. 6, 1983, 96 Stat. 2172, 2183; Pub. L. 97–473, title II, §202(b)(12), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), July 18, 1984, 98 Stat. 846; Pub. L. 99–499, title V, §521(c)(1), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 100–17, title V, §502(b)(6), Apr. 2, 1987, 101 Stat. 257; Pub. L. 101–239, title VII, §7841(d)(20), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11211(d)(5), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(b)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13241(f)(5), 13242(d)(20), Aug. 10, 1993, 107 Stat. 512, 524; Pub. L. 109–59, title XI, §11121(a), (b), Aug. 10, 2005, 119 Stat. 1951.)
+(Added Apr. 2, 1956, ch. 160, §1, 70 Stat. 87; amended Pub. L. 85–859, title I, §163(d)(2), Sept. 2, 1958, 72 Stat. 1311; Pub. L. 89–44, title VIII, §809(a), June 21, 1965, 79 Stat. 165; Pub. L. 91–258, title II, §§205(c)(7), 207(b), May 21, 1970, 84 Stat. 242, 248; Pub. L. 94–455, title XIX, §§1906(a)(26), (b)(6)(A), (13)(A), Oct. 4, 1976, 90 Stat. 1827, 1833, 1834; Pub. L. 95–458, §3(a), (c), Oct. 14, 1978, 92 Stat. 1257; Pub. L. 97–424, title V, §§511(f), 516(b)(4), Jan. 6, 1983, 96 Stat. 2172, 2183; Pub. L. 97–473, title II, §202(b)(12), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), July 18, 1984, 98 Stat. 846; Pub. L. 99–499, title V, §521(c)(1), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 100–17, title V, §502(b)(6), Apr. 2, 1987, 101 Stat. 257; Pub. L. 101–239, title VII, §7841(d)(20), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11211(d)(5), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(b)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13241(f)(5), 13242(d)(20), Aug. 10, 1993, 107 Stat. 512, 524; Pub. L. 109–59, title XI, §11121(a), (b), Aug. 10, 2005, 119 Stat. 1951; Pub. L. 115–141, div. U, title IV, §401(a)(289), Mar. 23, 2018, 132 Stat. 1198.)
 
 #### Prior Provisions
 
 A prior section 6420 was renumbered section 6422 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (i)(4). Pub. L. 115–141 substituted "State (and" for "State and".
 
 <b>2005</b>—Subsec. (c)(4). Pub. L. 109–59, §11121(b), inserted concluding provisions.
 
@@ -138,7 +140,7 @@ Subsec. (h). Pub. L. 103–66, §13241(f)(5), struck out heading and text of sub
 
 <b>1984</b>—Subsec. (g)(2). Pub. L. 98–369 substituted "section 34" for "section 39".
 
-<b>1983</b>—Subsec. (c)(4)(B). Pub. L. 97–424, §511(f), substituted provision that, if the person so using the gasoline is an aerial or other applicator of fertilizers orother substances and is the ultimate purchaser of the gasoline, and the person described in subparagraph (A) waives (at such time and in such form and manner as the Secretary shall prescribe) his right to be treated as the user and ultimate purchaser of the gasoline, then subparagraph (A) of this paragraph shall not apply and the aerial or other applicator shall be treated as having used such gasoline on a farm for farming purposes, for provision that, if the person so using the gasoline were an aerial applicator who was the ultimate purchaser of the gasoline and the person described in subparagraph (A) waived (at such time and in such form and manner as the Secretary was to prescribe) his right to be treated as the user and ultimate purchaser of the gasoline, then subparagraph (A) of this paragraph would not apply and the aerial applicator would be treated as having used such gasoline on a farm for farming purposes.
+<b>1983</b>—Subsec. (c)(4)(B). Pub. L. 97–424, §511(f), substituted provision that, if the person so using the gasoline is an aerial or other applicator of fertilizers or other substances and is the ultimate purchaser of the gasoline, and the person described in subparagraph (A) waives (at such time and in such form and manner as the Secretary shall prescribe) his right to be treated as the user and ultimate purchaser of the gasoline, then subparagraph (A) of this paragraph shall not apply and the aerial or other applicator shall be treated as having used such gasoline on a farm for farming purposes, for provision that, if the person so using the gasoline were an aerial applicator who was the ultimate purchaser of the gasoline and the person described in subparagraph (A) waived (at such time and in such form and manner as the Secretary was to prescribe) his right to be treated as the user and ultimate purchaser of the gasoline, then subparagraph (A) of this paragraph would not apply and the aerial applicator would be treated as having used such gasoline on a farm for farming purposes.
 
 Subsec. (h). Pub. L. 97–424, §516(b)(4), added subsec. (h). Former subsec. (h) redesignated (i).
 
@@ -227,6 +229,4 @@ Pub. L. 89–44, title VIII, §809(f), June 21, 1965, 79 Stat. 168, provided tha
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859, set out as a note under section 6415 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "(and".</i>
 

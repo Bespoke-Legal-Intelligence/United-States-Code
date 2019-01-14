@@ -16,7 +16,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 &emsp;&emsp;(C) by not later than March 15 of each year (beginning with 2010), submit a report to Congress containing the results of such reviews and MACPAC's recommendations concerning such policies; and
 
-&emsp;&emsp;(D) by not later than June 15 of each year (beginning with 2010), submit a report to Congress containing an examination of issues affecting Medicaid and CHIP, including the implications of changes in health care delivery in the United States and in the market for health care services on such programs.
+&emsp;&emsp;(D) by not later than June 15 of each year (beginning with 2010), submit a report toCongress containing an examination of issues affecting Medicaid and CHIP, including the implications of changes in health care delivery in the United States and in the market for health care services on such programs.
 
 #### (2) Specific topics to be reviewed
 
@@ -70,7 +70,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (4) Creation of early-warning system
 
-&emsp;MACPAC shall create an early-warning system to identify provider shortage areas, aswell as other factors that adversely affect, or have the potential to adversely affect, access to care by, or the health care status of, Medicaid and CHIP beneficiaries. MACPAC shall include in the annual report required under paragraph (1)(D) a description of all such areas or problems identified with respect to the period addressed in the report.
+&emsp;MACPAC shall create an early-warning system to identify provider shortage areas, as well as other factors that adversely affect, or have the potential to adversely affect, access to care by, or the health care status of, Medicaid and CHIP beneficiaries. MACPAC shall include in the annual report required under paragraph (1)(D) a description of all such areas or problems identified with respect to the period addressed in the report.
 
 #### (5) Comments on certain secretarial reports and regulations
 
@@ -134,7 +134,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (A) In general
 
-&emsp;&emsp;MACPAC shall consult with the Medicare Payment Advisory Commission (in thisparagraph referred to as "MedPAC") established under section 1395b–6 of this title in carrying out its duties under this section, as appropriate and particularly with respect to the issues specified in paragraph (2) as they relate to those Medicaid beneficiaries who are dually eligible for Medicaid and the Medicare program under subchapter XVIII, adult Medicaid beneficiaries (who are not dually eligible for Medicare), and beneficiaries under Medicare. Responsibility for analysis of and recommendations to change Medicare policy regarding Medicare beneficiaries, including Medicare beneficiaries who are dually eligible for Medicare and Medicaid, shall rest with MedPAC.
+&emsp;&emsp;MACPAC shall consult with the Medicare Payment Advisory Commission (in this paragraph referred to as "MedPAC") established under section 1395b–6 of this title in carrying out its duties under this section, as appropriate and particularly with respect to the issues specified in paragraph (2) as they relate to those Medicaid beneficiaries who are dually eligible for Medicaid and the Medicare program under subchapter XVIII, adult Medicaid beneficiaries (who are not dually eligible for Medicare), and beneficiaries under Medicare. Responsibility for analysis of and recommendations to change Medicare policy regarding Medicare beneficiaries, including Medicare beneficiaries who are dually eligible for Medicare and Medicaid, shall rest with MedPAC.
 
 #### (B) Information sharing
 
@@ -146,7 +146,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (13) Coordinate and consult with the Federal Coordinated Health Care Office
 
-&emsp;MACPAC shall coordinate and consult with the Federal Coordinated Health Care Office established under section 2081 <sup>1</sup> of the Patient Protection and Affordable Care Act before making any recommendations regarding dual eligible individuals.
+&emsp;MACPAC shall coordinate and consult with the Federal Coordinated Health Care Office established under section 2081 <sup>1</sup> of the PatientProtection and Affordable Care Act before making any recommendations regarding dual eligible individuals.
 
 #### (14) Programmatic oversight vested in the Secretary
 
@@ -188,7 +188,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (4) Compensation
 
-&emsp;While serving on the business of MACPAC (including travel time), a member of MACPAC shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of MACPAC. Physicians serving as personnel of MACPAC may be provided a physician comparability allowance by MACPAC in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purposesubsection (i) of such section shall apply to MACPAC in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of MACPAC) and employment benefits, rights, and privileges, all personnel of MACPAC shall be treated as if they were employees of the United States Senate.
+&emsp;While serving on the business of MACPAC (including travel time), a member of MACPAC shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of MACPAC. Physicians serving as personnel of MACPAC may be provided a physician comparability allowance by MACPAC in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to MACPAC in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of MACPAC) and employment benefits, rights, and privileges, all personnel of MACPAC shall be treated as if they were employees of the United States Senate.
 
 #### (5) Chairman; Vice Chairman
 
@@ -266,7 +266,7 @@ Subject to such review as the Comptroller General of the United States deems nec
 
 #### References in Text
 
-Section 2081 of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(13), probably means section 2602 of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 315, which is classified to section 1315b of this title. Section 2602 of Pub. L. 111–148 established the FederalCoordinated Health Care Office, and Pub. L. 111–148 does not contain a section 2081.
+Section 2081 of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(13), probably means section 2602 of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 315, which is classified to section 1315b of this title. Section 2602 of Pub. L. 111–148 established the Federal Coordinated Health Care Office, and Pub. L. 111–148 does not contain a section 2081.
 
 The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(D), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
@@ -292,7 +292,7 @@ Subsec. (b)(1)(C). Pub. L. 111–148, §2801(a)(1)(A)(iv), substituted "March 15
 
 Subsec. (b)(1)(D). Pub. L. 111–148, §2801(a)(1)(A)(v), substituted "June 15" for "June 1".
 
-Subsec. (b)(2)(A)(i). Pub. L. 111–148, §2801(a)(1)(B)(i)(I), inserted "the efficient provision of" after "expenditures for" and substituted "payments to medical, dental, and health professionals, hospitals, residential and long-term care providers, providers of home and community based services, Federally-qualified health centers and rural health clinics, managed care entities, and providers of other covered items and services" for "hospital, skilled nursing facility, physician, Federally-qualified health center, rural health center, and other fees".
+Subsec. (b)(2)(A)(i). Pub. L. 111–148, §2801(a)(1)(B)(i)(I), inserted "the efficient provision of" after "expenditures for" and substituted "payments to medical, dental, and health professionals, hospitals, residential andlong-term care providers, providers of home and community based services, Federally-qualified health centers and rural health clinics, managed care entities, and providers of other covered items and services" for "hospital, skilled nursing facility, physician, Federally-qualified health center, rural health center, and other fees".
 
 Subsec. (b)(2)(A)(iii). Pub. L. 111–148, §2801(a)(1)(B)(i)(II), inserted "(including how such factors and methodologies enable such beneficiaries to obtain the services for which they are eligible, affect provider supply, and affect providers that serve a disproportionate share of low-income and other vulnerable populations)" after "CHIP beneficiaries".
 
@@ -346,7 +346,7 @@ Reliance on Law.—With respect to amendments made by this Act (other than title
 
 #### Purpose
 
-Pub. L. 111–3, §2, Feb. 4, 2009, 123 Stat. 10, provided that: "It is the purpose of this Act \[see Effective Date note above\] to provide dependable and stable funding for children's health insurance under titles XXI and XIX of the Social Security Act \[42 U.S.C. 1397aa et seq., 1396 et seq.\] in order to enroll all six million uninsured children who are eligible, but not enrolled, for coverage today through such titles."
+Pub. L. 111–3, §2, Feb. 4, 2009, 123 Stat. 10, provided that: "It is the purpose of this Act \[see Effective Date note above\] to provide dependable and stable funding for children's health insurance under titles XXI and XIX of the Social Security Act \[42 U.S.C. 1397aa et seq.,1396 et seq.\] in order to enroll all six million uninsured children who are eligible, but not enrolled, for coverage today through such titles."
 
 #### Model of Interstate Coordinated Enrollment and Coverage Process
 

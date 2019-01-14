@@ -18,7 +18,7 @@
 
 The Associate Administrator, working in close cooperation with the Secretary of Commerce, the United States Trade Representative, the Secretary of Agriculture, the Secretary of State, the President of the Export-Import Bank of the United States, the President of the Overseas Private Investment Corporation, Director <sup>1</sup> of the United States Trade and Development Agency, and other relevant Federal agencies, small business development centers engaged in export promotion efforts, Export Assistance Centers, regional and district offices of the Administration, the small business community, and relevant State and local export promotion programs, shall—
 
-&emsp;(1) maintain a distribution network, using regional and district offices of the Administration, the small business development center network, networks of women's business centers, the Service Corps of Retired Executives authorized by section 637(b)(1) of this title, and Export Assistance Centers, for programs relating to—
+&emsp;(1) maintain a distribution network, using regional and district offices of the Administration, the small business development centernetwork, networks of women's business centers, the Service Corps of Retired Executives authorized by section 637(b)(1) of this title, and Export Assistance Centers, for programs relating to—
 
 &emsp;&emsp;(A) trade promotion;
 
@@ -90,7 +90,7 @@ The Associate Administrator shall promote sales opportunities for small business
 
 &emsp;&emsp;(C) maintaining a directory of all Federal, regional, State and private sector programs that provide export information and assistance to small business concerns; and
 
-&emsp;&emsp;(D) preparing and publishing such reports as it determines to be necessary concerning market conditions, sources of financing, export promotion programs, and other information pertaining to the needs of small business exporting firms so as to insure that the maximum information is made available to small business concerns in a readily usable form;
+&emsp;&emsp;(D) preparing and publishing such reports as it determines to be necessary concerning market conditions, sources of financing, export promotion programs, and other information pertaining to the needs of small business exporting firms so as to insure thatthe maximum information is made available to small business concerns in a readily usable form;
 
 &emsp;(8) encourage through cooperation with the Department of Commerce, greater small business participation in trade fairs, shows, missions, and other domestic and overseas export development activities of the Department of Commerce;
 
@@ -104,7 +104,7 @@ The Associate Administrator shall promote sales opportunities for small business
 
 &emsp;&emsp;(D) provide advice to personnel of the Administration involved in making loans, loan guarantees, and extensions and revolving lines of credit, and providing other forms of assistance to small business concerns engaged in exports;
 
-&emsp;&emsp;(E) within one hundred and eighty days of their appointment, participate in training programs designed by the Administrator, in conjunction with the Department of Commerce and other Federal departments andagencies, to study export programs and to examine the needs of small business concerns for export information and assistance;
+&emsp;&emsp;(E) within one hundred and eighty days of their appointment, participate in training programs designed by the Administrator, in conjunction with the Department of Commerce and other Federal departments and agencies, to study export programs and to examine the needs of small business concerns for export information and assistance;
 
 &emsp;&emsp;(F) participate, jointly with employees of the Office, in an annual training program that focuses on current small business needs for exporting; and
 
@@ -166,7 +166,7 @@ The Associate Administrator shall submit an annual report to the Committee on Sm
 
 #### (g) Studies
 
-The Associate Administrator, in cooperation, where appropriate, with the Division of Economic Research of the Office of Advocacy, and with other Federal agencies, shall undertake studies regarding the following issues and shallreport to the Committees on Small Business of the House of Representatives and the Senate, and to other relevant Committees of the House and Senate within 6 months after August 23, 1988, with specific recommendations on—
+The Associate Administrator, in cooperation, where appropriate, with the Division of Economic Research of the Office of Advocacy, and with other Federal agencies, shall undertake studies regarding the following issues and shall report to the Committees on Small Business of the House of Representatives and the Senate, and to other relevant Committees of the House and Senate within 6 months after August 23, 1988, with specific recommendations on—
 
 &emsp;(1) the viability and cost of establishing an annual, competitive small business export incentive program similar to the Small Business Innovation Research program and alternative methods of structuring such a program;
 
@@ -318,7 +318,7 @@ The Administrator shall ensure that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the applicable industry-based small business size standard established under section 632 of this title; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the alternate size standard applicable to the program under section 636(a) of this title and the loan programs under title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.);
+&emsp;&emsp;&emsp;&emsp;(II) the alternate size standard applicable to the program under section 636(a) of this title and the loan programs undertitle V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.);
 
 &emsp;&emsp;&emsp;(iv) has been in business for not less than 1 year, as of the date on which assistance using a grant under this subsection commences; and
 
@@ -494,7 +494,17 @@ In this section—
 
 &emsp;(4) the term "Office" means the Office of International Trade established under subsection (a)(1).
 
-(Pub. L. 85–536, §2\[22\], as added Pub. L. 96–481, title I, §113(a), Oct. 21, 1980, 94 Stat. 2323; amended Pub. L. 100–418, title VIII, §8003, Aug. 23, 1988, 102 Stat. 1554; Pub. L. 111–240, title I, §§1203(a), (c), 1204(a), 1205(a), Sept. 27, 2010, 124 Stat. 2521, 2522, 2527; Pub. L. 114–125, title V, §503, Feb. 24, 2016, 130 Stat. 174.)
+(Pub. L. 85–536, §2\[22\], as added Pub. L. 96–481, title I, §113(a), Oct. 21, 1980, 94 Stat. 2323; amended Pub. L. 100–418, title VIII, §8003, Aug. 23, 1988, 102 Stat. 1554; Pub. L. 111–240, title I, §§1203(a), (c), 1204(a), 1205(a), Sept. 27, 2010, 124 Stat. 2521, 2522, 2527; Pub. L. 114–125, title V, §503, Feb. 24, 2016, 130 Stat. 174; Pub. L. 115–254, div. F, title VI, §1470(c), Oct. 5, 2018, 132 Stat. 3516.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–254, div. F, title VI, §1470(c), (w), Oct. 5, 2018, 132 Stat. 3516, 3519, provided that, effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, this section is amended as follows:</i>
+
+<i>(1) by striking "Overseas Private Investment Corporation" and inserting "United States International Development Finance Corporation" wherever appearing; and</i>
+
+<i>(2) by striking "the President of the Overseas Private Investment Corporation, Director" and</i><i>inserting "the Board of Directors of the United States International Development Finance Corporation, the Director" in introductory provisions of subsection (b).</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 #### References in Text
 
@@ -507,6 +517,10 @@ Section 1207 of the Small Business Jobs Act of 2010, referred to in subsec. (l)(
 A prior section 649, act July 30, 1953, ch. 282, title II, §220, 67 Stat. 240, which required a fair charge for use of Government-owned property, was omitted as superseded by section 643 of this title. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–254, §1470(c)(2), substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation" wherever appearing.
+
+Subsec. (b). Pub. L. 115–254, §1470(c)(1), substituted "the Board of Directors of the United States International Development Finance Corporation, the Director" for "the President of the Overseas Private Investment Corporation, Director" in introductory provisions.
 
 <b>2016</b>—Subsecs. (l), (m). Pub. L. 114–125 added subsec. (l) and redesignated former subsec. (l) as (m).
 
@@ -611,6 +625,10 @@ Subsecs. (k), (l). Pub. L. 111–240, §1205(a), added subsecs. (k) and (l).
 #### Change of Name
 
 Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
 #### Effective Date
 

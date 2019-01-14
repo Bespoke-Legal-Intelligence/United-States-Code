@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) paying such scholarships as the Secretary may determine for such individuals for any period of health professions education at a health professions school;
 
-&emsp;&emsp;(G) paying such stipends as the Secretary may approve for such individuals for any period of education in student-enhancementprograms (other than regular courses), except that such a stipend may not be provided to an individual for more than 12 months, and such a stipend shall be in an amount determined appropriate by the Secretary (notwithstanding any other provision of law regarding the amount of stipends);
+&emsp;&emsp;(G) paying such stipends as the Secretary may approve for such individuals for any period of education in student-enhancement programs (other than regular courses), except that such a stipend may not be provided to an individual for more than 12 months, and such a stipend shall be in an amount determined appropriate by the Secretary (notwithstanding any other provision of law regarding the amount of stipends);
 
 &emsp;&emsp;(H) carrying out programs under which such individuals gain experience regarding a career in a field of primary health care through working at facilities of public or private nonprofit community-based providers of primary health services; and
 

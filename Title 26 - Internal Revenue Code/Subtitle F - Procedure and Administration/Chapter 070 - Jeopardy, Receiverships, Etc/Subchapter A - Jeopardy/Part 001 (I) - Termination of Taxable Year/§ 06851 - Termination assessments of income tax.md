@@ -64,7 +64,7 @@ Subsec. (f). Pub. L. 94–455, §1204(b)(2), added subsec. (f).
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XII, §1204(d), Oct. 4, 1976, 90 Stat. 1699, as amended by Pub. L. 94–528, §2(a), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by thissection \[enacting section 7429 of this title and amending this section and sections 443, 6091, 6211, 6213, 6863, 7103, and 7421 of this title\] apply with respect to action taken under section 6851, 6861, or 6862 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] where the notice and demand takes place after February 28, 1977."
+Pub. L. 94–455, title XII, §1204(d), Oct. 4, 1976, 90 Stat. 1699, as amended by Pub. L. 94–528, §2(a), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[enacting section 7429 of this title and amending this section and sections 443, 6091, 6211, 6213, 6863, 7103, and 7421 of this title\] apply with respect to action taken under section 6851, 6861, or 6862 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] where the notice and demand takes place after February 28, 1977."
 
 #### Effective Date of 1958 Amendment
 

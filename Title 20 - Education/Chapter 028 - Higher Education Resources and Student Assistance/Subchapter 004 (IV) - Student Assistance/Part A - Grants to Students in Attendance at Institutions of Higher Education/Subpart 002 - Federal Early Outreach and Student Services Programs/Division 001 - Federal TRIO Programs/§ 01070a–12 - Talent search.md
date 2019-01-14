@@ -46,7 +46,7 @@ Any project assisted under this section may provide services such as—
 
 &emsp;(3) information and activities designed to acquaint youth with the range of career options available to the youth;
 
-&emsp;(4) exposure to the campuses of institutions of higher education, as well as cultural events,academic programs, and other sites or activities not usually available to disadvantaged youth;
+&emsp;(4) exposure to the campuses of institutions of higher education, as well as cultural events, academic programs, and other sites or activities not usually available to disadvantaged youth;
 
 &emsp;(5) workshops and counseling for families of students served;
 

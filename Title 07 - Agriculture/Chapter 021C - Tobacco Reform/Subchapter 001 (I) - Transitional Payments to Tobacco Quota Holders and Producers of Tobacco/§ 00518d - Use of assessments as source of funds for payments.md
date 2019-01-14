@@ -68,7 +68,7 @@ In this section:
 
 #### (1) Notification of assessments
 
-&emsp;The Secretary shall provide each manufacturer or importer subject to an assessment under subsection (b) with written notice setting forth the amount to be assessed against the manufacturer or importer for each quarterly payment period. The notice for a quarterly period shall be provided not later than 30 days before the date payment is due under paragraph (3).
+&emsp;The Secretary shall provide each manufacturer or importer subject to an assessmentunder subsection (b) with written notice setting forth the amount to be assessed against the manufacturer or importer for each quarterly payment period. The notice for a quarterly period shall be provided not later than 30 days before the date payment is due under paragraph (3).
 
 #### (2) Content
 
@@ -182,7 +182,7 @@ The amount of the assessment for each class of tobacco product specified in subs
 
 #### (1) In general
 
-&emsp;Any manufacturer or importer aggrieved by a determination of the Secretary with respect to the amount of any assessment may seek review of the determination in the United States District Court for the District of Columbia or for the district in which the manufacturer orimporter resides or has its principal place of business at any time following exhaustion of the administrative remedies available under subsection (i).
+&emsp;Any manufacturer or importer aggrieved by a determination of the Secretary with respect to the amount of any assessment may seek review of the determination in the United States District Court for the District of Columbia or for the district in which the manufacturer or importer resides or has its principal place of business at any time following exhaustion of the administrative remedies available under subsection (i).
 
 #### (2) Time limits
 

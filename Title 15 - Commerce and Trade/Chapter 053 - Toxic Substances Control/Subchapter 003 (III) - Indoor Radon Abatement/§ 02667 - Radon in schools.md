@@ -22,7 +22,7 @@
 
 #### (4) Survey
 
-&emsp;In conducting such study the Administrator shall design a survey which when completed allows Congress to characterize the extent of radon contamination in schools in each State. The survey shall include testing from a representative sample of schools in each high-risk area identified in paragraph (1) and shall include additional testing, to the extent resources are available for such testing. The survey also shall include any reliable testing data supplied by States, schools, or other parties.
+&emsp;In conducting such study the Administrator shall design a survey which when completedallows Congress to characterize the extent of radon contamination in schools in each State. The survey shall include testing from a representative sample of schools in each high-risk area identified in paragraph (1) and shall include additional testing, to the extent resources are available for such testing. The survey also shall include any reliable testing data supplied by States, schools, or other parties.
 
 #### (5) Assistance
 

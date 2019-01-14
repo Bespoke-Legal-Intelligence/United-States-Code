@@ -1,34 +1,32 @@
 ### §7110. Authorizations of appropriations
 
-#### (a) Authorization of appropriations in support of the Task Force
+#### (a) Authorization of appropriations in support of the task force
 
-To carry out the purposes of sections 7103(e), 7103(f) <sup>1</sup> and 7107 of this title, there are authorized to be appropriated to the Secretary of State $2,000,000 for each of the fiscal years 2014 through 2017. In addition, there are authorized to be appropriated to the Office to Monitor and Combat Trafficking $1,500,000 for additional personnel, including regional trafficking in persons officers, for each of the fiscal years 2008 through 2011 for each of the fiscal years 2008 through 2011.<sup>2</sup>
+There are authorized to be appropriated to the Department of State, for each of the fiscal years 2018 through 2021, $13,822,000 for Diplomatic and Consular Programs of the Office to Monitor and Combat Trafficking in Persons, which shall be used to carry out sections 7103(e), 7103(f),<sup>1</sup> and 7107 of this title, including for additional personnel.
 
 #### (b) Authorization of appropriations to the Secretary of Health and Human Services
 
 #### (1) Eligibility for benefits and assistance
 
-&emsp;To carry out the purposes of section 7105(b) of this title, there are authorized to be appropriated to the Secretary of Health and Human Services $14,500,000 for each of the fiscal years 2014 through 2017 <sup>3</sup>
+&emsp;To carry out the purposes of sections 7104(b) and 7105(b) of this title, there are authorized to be appropriated to the Secretary of Health and Human Services $19,500,000 for each of the fiscal years 2018 through 2021, of which $3,500,000 is authorized to be appropriated for each fiscal year for the National Human Trafficking Hotline.
 
 #### (2) Additional benefits for trafficking victims
 
-&emsp;To carry out the purposes of section 7105(f) <sup>1</sup> of this title, there are authorized to be appropriated $8,000,000 to the Secretary of Health and Human Services for each of the fiscal years 2014 through 2017.
+&emsp;To carry out the purposes of section 7105(f) <sup>1</sup> of this title, there are authorized to be appropriated $8,000,000 to the Secretary of Health and Human Services for each of the fiscal years 2018 through 2021.
 
 #### (c) Authorization of appropriations to the Secretary of State
 
-#### (1) Bilateral assistance to combat trafficking
+#### (1) Assistance to combat trafficking
 
-#### (A) Prevention
+&emsp;There are authorized to be appropriated to the Department of State, for each of the fiscal years 2018 through 2021, $65,000,000, which shall be used—
 
-&emsp;&emsp;To carry out the purposes of section 7104 of this title, there are authorized to be appropriated to the Secretary of State $10,000,000 for each of the fiscal years 2014 through 2017.
+&emsp;&emsp;(A) to carry out sections 7104 and 7105(a) of this title;
 
-#### (B) Protection
+&emsp;&emsp;(B) to carry out section 2152d of this title;
 
-&emsp;&emsp;To carry out the purposes of section 7105(a) of this title, there are authorized to be appropriated to the Secretary of State $10,000,000 for each of the fiscal years 2014 through 2017. To carry out the purposes of section 7105(a)(1)(F) of this title, there are authorized to be appropriated to the Secretary of State $1,000,000 for each of the fiscal years 2014 through 2017.
+&emsp;&emsp;(C) to assist countries in meeting the minimum standards described in section 7106 of this title; and
 
-#### (C) Prosecution and meeting minimum standards
-
-&emsp;&emsp;To carry out the purposes of section 2152d of this title, there are authorized to be appropriated $10,000,000 for each of the fiscal years 2014 through 2017 to assist in promoting prosecution of traffickers and otherwise to assist countries in meeting the minimum standards described in section 7106 of this title, including $250,000 for each such fiscal year to carry out training activities for law enforcement officers, prosecutors, and members of the judiciary with respect to trafficking in persons at the International Law Enforcement Academies.
+&emsp;&emsp;(D) for programs and activities on prevention, protection, and prosecution to combat all forms of trafficking in persons internationally, including training activities for law enforcement officers, prosecutors, and members of the judiciary with respect to trafficking in persons at the International Law Enforcement Academies.
 
 #### (2) Preparation of annual country reports on human rights
 
@@ -38,7 +36,7 @@ To carry out the purposes of sections 7103(e), 7103(f) <sup>1</sup> and 7107 of
 
 #### (1) Eligibility for benefits and assistance
 
-&emsp;To carry out the purposes of section 7105(b) of this title, there are authorized to be appropriated to the Attorney General $11,000,000 for each of the fiscal years 2014 through 2017.
+&emsp;To carry out the purposes of section 7105(b) of this title, there are authorized to be appropriated to the Attorney General $77,000,000 for each of fiscal years 2018 through 2021.
 
 #### (2) Assistance to foreign countries
 
@@ -46,7 +44,7 @@ To carry out the purposes of sections 7103(e), 7103(f) <sup>1</sup> and 7107 of
 
 #### (3) Additional benefits for trafficking victims
 
-&emsp;To carry out the purposes of section 7105(f) <sup>1</sup> of this title, there are authorized to be appropriated $11,000,000 to the Attorney General for each of the fiscal years 2014 through 2017.
+&emsp;To carry out the purposes of section 7105(f) <sup>1</sup> of this title, there are authorized to be appropriated $11,000,000 to the Attorney General for each of the fiscal years 2018 through 2021.
 
 #### (e) Authorization of appropriations to President
 
@@ -64,7 +62,7 @@ To carry out the purposes of sections 7103(e), 7103(f) <sup>1</sup> and 7107 of
 
 #### (f) Authorization of appropriations to the Secretary of Labor
 
-To carry out the purposes of section 7105(b) of this title, there are authorized to be appropriated to the Secretary of Labor $5,000,000 for each of the fiscal years 2014 through 2017.
+To carry out the purposes of section 7105(b) of this title, there are authorized to be appropriated to the Secretary of Labor $5,000,000 for each of the fiscal years 2018 through 2021..<sup>2</sup>
 
 #### (g) Limitation on use of funds
 
@@ -74,7 +72,7 @@ To carry out the purposes of section 7105(b) of this title, there are authorized
 
 #### (2) Restriction on organizations
 
-&emsp;No funds made available to carry out this chapter, or any amendment made by this chapter, may be used to implement any program that targets victims of severe forms of trafficking in persons described in section 7102(9)(A) of this title through any organization that has not stated in either a grant application, a grant agreement, or both, that it does not promote, support, or advocate the legalization or practice of prostitution. The preceding sentence shall not apply to organizations that provide services to individuals solely after they are no longer engaged in activities that resulted from such victims being trafficked.
+&emsp;No funds made available to carry out this chapter, or any amendment made by thischapter, may be used to implement any program that targets victims of severe forms of trafficking in persons described in section 7102(9)(A) of this title through any organization that has not stated in either a grant application, a grant agreement, or both, that it does not promote, support, or advocate the legalization or practice of prostitution. The preceding sentence shall not apply to organizations that provide services to individuals solely after they are no longer engaged in activities that resulted from such victims being trafficked.
 
 #### (h) Authorization of appropriations to Director of the FBI
 
@@ -82,9 +80,9 @@ There are authorized to be appropriated to the Director of the Federal Bureau of
 
 #### (i) Authorization of appropriations to the Secretary of Homeland Security
 
-There are authorized to be appropriated to the Secretary of Homeland Security,<sup>4</sup> $10,000,000 for each of the fiscal years 2014 through 2017, to remain available until expended, for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.
+There are authorized to be appropriated to the Secretary of Homeland Security,<sup>3</sup> $10,000,000 for each of the fiscal years 2018 through 2021, to remain available until expended, for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.
 
-(Pub. L. 106–386, div. A, §113, Oct. 28, 2000, 114 Stat. 1490; Pub. L. 107–228, div. A, title VI, §682(b), Sept. 30, 2002, 116 Stat. 1410; Pub. L. 108–193, §7, Dec. 19, 2003, 117 Stat. 2884; Pub. L. 109–164, title III, §301, Jan. 10, 2006, 119 Stat. 3572; Pub. L. 110–457, title II, §213(a)(2), title III, §301, Dec. 23, 2008, 122 Stat. 5065, 5085; Pub. L. 113–4, title XII, §§1212(b)(2)(A)(ii), 1251(2), Mar. 7, 2013, 127 Stat. 143, 155.)
+(Pub. L. 106–386, div. A, §113, Oct. 28, 2000, 114 Stat. 1490; Pub. L. 107–228, div. A, title VI, §682(b), Sept. 30, 2002, 116 Stat. 1410; Pub. L. 108–193, §7, Dec. 19, 2003, 117 Stat. 2884; Pub. L. 109–164, title III, §301, Jan. 10, 2006, 119 Stat. 3572; Pub. L. 110–457, title II, §213(a)(2), title III, §301, Dec. 23, 2008, 122 Stat. 5065, 5085; Pub. L. 113–4, title XII, §§1212(b)(2)(A)(ii), 1251(2), Mar. 7, 2013, 127 Stat. 143, 155; Pub. L. 115–392, §21, Dec. 21, 2018, 132 Stat. 5259; Pub. L. 115–393, title III, §301(a)(2), Dec. 21, 2018, 132 Stat. 5271; Pub. L. 115–425, title I, §101(b), title III, §301, Jan. 8, 2019, 132 Stat. 5474, 5487.)
 
 #### References in Text
 
@@ -97,6 +95,24 @@ This chapter, referred to in subsec. (g), was in the original "this division", m
 This Act, referred to in subsec. (g)(1), is the Victims of Trafficking and Violence Protection Act of 2000, Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1464, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (a). Pub. L. 115–425, §301(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "To carry out the purposes of sections 7103(e), 7103(f) and 7107 of this title, there are authorized to be appropriated to the Secretary of State $2,000,000 for each of the fiscal years 2014 through 2017. In addition, there are authorized to be appropriated to the Office to Monitor and Combat Trafficking $1,500,000 for additional personnel, including regional trafficking in persons officers, for each of the fiscal years 2008 through 2011 for each of the fiscal years 2008 through 2011."
+
+Subsec. (b)(1). Pub. L. 115–425, §301(2), substituted "$19,500,000 for each of the fiscal years 2018 through 2021, of which $3,500,000 is authorized to be appropriated for each fiscal year for the National Human Trafficking Hotline." for "$14,500,000 for each of the fiscal years 2014 through 2017".
+
+Pub. L. 115–425, §101(b), substituted "sections 7104(b) and 7105(b) of this title" for "section 7105(b) of this title".
+
+Subsec. (c)(1). Pub. L. 115–425, §301(3), amended par. (1) generally. Prior to amendment, par. (1) related to bilateral assistance to combat trafficking.
+
+Subsec. (f). Pub. L. 115–425, §301(4), substituted "2018 through 2021." for "2014 through 2017".
+
+<b>2018</b>—Subsec. (b)(2). Pub. L. 115–392, §21(1), substituted "2018 through 2021" for "2014 through 2017".
+
+Subsec. (d)(1). Pub. L. 115–393, §301(a)(2)(A), which directed substitution of "$77,000,000 for each of fiscal years 2018 through 2021" for "$11,000,000 for each of fiscal years 2014 through 2017", was executed by making the substitution for "$11,000,000 for each of the fiscal years 2014 through 2017" to reflect the probable intent of Congress.
+
+Subsec. (d)(3). Pub. L. 115–393, §301(a)(2)(B), substituted "2018 through 2021" for "2014 through 2017".
+
+Subsec. (i). Pub. L. 115–392, §21(2), substituted "2018 through 2021" for "2014 through 2017".
 
 <b>2013</b>—Subsec. (a). Pub. L. 113–4, §1251(2)(A)(ii), which directed the insertion of ", including regional trafficking in persons officers," after "for additional personnel," was executed by making the insertion after "for additional personnel", to reflect the probable intent of Congress.
 
@@ -222,7 +238,5 @@ Pub. L. 110–457, title III, §303, Dec. 23, 2008, 122 Stat. 5087, provided tha
 
 <i><sup>2</sup></i><i> So in original.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
-
-<i><sup>4</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

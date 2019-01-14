@@ -68,7 +68,7 @@ Report with certification.—A Secretary submitting such a certification shall i
 
 &emsp;&emsp;"(A) the methodology used by the Secretary in making the determinations necessary for the certification, including the extent to which the Secretary took into consideration the findings of the Comptroller General in the report under subsection (b)(3);
 
-&emsp;&emsp;"(B) the results of a market survey in each affected area of the availability of civilian medical and dental care providers in such area in order to determine whether the civilian medical and dental care providers available in such area are adequate to fill the civilian positions created by the conversion of military medical and dental positions to civilian positions in such area; and
+&emsp;&emsp;"(B) the results of a market survey in each affected area of the availability of civilian medical and dental care providers in such area in order todetermine whether the civilian medical and dental care providers available in such area are adequate to fill the civilian positions created by the conversion of military medical and dental positions to civilian positions in such area; and
 
 &emsp;&emsp;"(C) any action taken by the Secretary in response to recommendations in the Comptroller General report under subsection (b)(3).
 

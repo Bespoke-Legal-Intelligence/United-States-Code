@@ -4,12 +4,7 @@
 | :--- | ---: |
 | [5601\.](%C2%A7%2005601%20-%20Criminal%20penalties.md) | Criminal penalties. |
 | [5602\.](%C2%A7%2005602%20-%20Penalty%20for%20tax%20fraud%20by%20distiller.md) | Penalty for tax fraud by distiller. |
-| [5603\.](%C2%A7%2005603%20-%20Penalty%20relating%20to%20records%2C%20returns%20and%20reports.md) | Penalty relating to records, returns, and reports.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [5603\.](%C2%A7%2005603%20-%20Penalty%20relating%20to%20records%2C%20returns%2C%20and%20reports.md) | Penalty relating to records, returns, and reports. |
 | [5604\.](%C2%A7%2005604%20-%20Penalties%20relating%20to%20marks%2C%20brands%2C%20and%20containers.md) | Penalties relating to marks, brands, and containers. |
 | [5605\.](%C2%A7%2005605%20-%20Penalty%20relating%20to%20return%20of%20materials%20used%20in%20the%20manufacture%20of%20distilled%20spirits%2C%20or%20from%20which%20distilled%20spirits%20may%20be%20recovered.md) | Penalty relating to return of materials used in the manufacture of distilled spirits, or from which distilled spirits may be recovered. |
 | [5606\.](%C2%A7%2005606%20-%20Penalty%20relating%20to%20containers%20of%20distilled%20spirits.md) | Penalty relating to containers of distilled spirits. |
@@ -33,8 +28,6 @@ A prior part I consisted of sections 5601 to 5650, prior to the general revision
 
 <b>1984</b>—Pub. L. 98–369, div. A, title IV, §454(c)(11)(B), (12)(C), July 18, 1984, 98 Stat. 822, struck out "stamps," in item 5604, and substituted "closed" for "stamped" in item 5613.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
@@ -42,7 +35,7 @@ A prior part I consisted of sections 5601 to 5650, prior to the general revision
 
 - [&sect; 05601 - Criminal penalties](%C2%A7%2005601%20-%20Criminal%20penalties.md)
 - [&sect; 05602 - Penalty for tax fraud by distiller](%C2%A7%2005602%20-%20Penalty%20for%20tax%20fraud%20by%20distiller.md)
-- [&sect; 05603 - Penalty relating to records, returns and reports](%C2%A7%2005603%20-%20Penalty%20relating%20to%20records%2C%20returns%20and%20reports.md)
+- [&sect; 05603 - Penalty relating to records, returns, and reports](%C2%A7%2005603%20-%20Penalty%20relating%20to%20records%2C%20returns%2C%20and%20reports.md)
 - [&sect; 05604 - Penalties relating to marks, brands, and containers](%C2%A7%2005604%20-%20Penalties%20relating%20to%20marks%2C%20brands%2C%20and%20containers.md)
 - [&sect; 05605 - Penalty relating to return of materials used in the manufacture of distilled spirits, or from which distilled spirits may be recovered](%C2%A7%2005605%20-%20Penalty%20relating%20to%20return%20of%20materials%20used%20in%20the%20manufacture%20of%20distilled%20spirits%2C%20or%20from%20which%20distilled%20spirits%20may%20be%20recovered.md)
 - [&sect; 05606 - Penalty relating to containers of distilled spirits](%C2%A7%2005606%20-%20Penalty%20relating%20to%20containers%20of%20distilled%20spirits.md)

@@ -32,7 +32,7 @@ The district court in which a case under this subchapter is pending shall have p
 
 #### (e) Appeal
 
-(1) An appeal shall be taken in the same manner as appeals in civil proceedings generally are taken to the courts of appeals from the district court.
+(1) An appeal shall be taken in the same manner as appeals in civil proceedings generally aretaken to the courts of appeals from the district court.
 
 (2) The court of appeals for the circuit in which a case under this subchapter has venue pursuant to section 2167 of this title shall have jurisdiction of appeals from all final decisions, judgments, orders and decrees entered under this subchapter by the district court.
 
@@ -58,7 +58,7 @@ The district court in which a case under this subchapter is pending shall have p
 
 #### (f) Reallocation of court staff
 
-Notwithstanding any law to the contrary, the clerk of the court in which a case is pendingshall reallocate as many staff and assistants as the clerk deems necessary to ensure that the court has adequate resources to provide for proper case management.
+Notwithstanding any law to the contrary, the clerk of the court in which a case is pending shall reallocate as many staff and assistants as the clerk deems necessary to ensure that the court has adequate resources to provide for proper case management.
 
 (Pub. L. 114–187, title III, §306, June 30, 2016, 130 Stat. 580.)
 

@@ -32,15 +32,17 @@ A fellowship provided under this section shall—
 
 &emsp;&emsp;(C) extending that knowledge to users and intermediaries in the marketplace; and
 
-&emsp;(2) shall <sup>1</sup> support—
+&emsp;(2) support—
 
 &emsp;&emsp;(A) training and collaborative research opportunities through exchanges for entry level international agricultural research scientists, faculty, and policymakers from eligible countries;
 
 &emsp;&emsp;(B) collaborative research to improve agricultural productivity;
 
-&emsp;&emsp;(C) the transfer of new science and agricultural technologies to strengthen agricultural practice; and
+&emsp;&emsp;(C) the transfer of new science and agricultural technologies to strengthen agricultural practice;
 
-&emsp;&emsp;(D) the reduction of barriers to technology adoption.
+&emsp;&emsp;(D) the reduction of barriers to technology adoption; and
+
+&emsp;&emsp;(E) the development of agricultural extension services in eligible countries.
 
 #### (d) Fellowship recipients
 
@@ -66,21 +68,33 @@ A fellowship provided under this section shall be used—
 
 #### (f) Program implementation
 
-The Secretary shall provide for the management, coordination, evaluation, and monitoringof the Borlaug International Agricultural Science and Technology Fellowship Program and for the individual programs described in subsection (a)(2), except that the Secretary may contract out to 1 or more collaborating universities the management of 1 or more of the fellowship programs.
+#### (1) In general
+
+&emsp;The Secretary shall provide for the management, coordination, evaluation, and monitoring of the Borlaug International Agricultural Science and Technology Fellowship Program and for the individual programs described in subsection (a)(2), except that the Secretary may contract out to 1 or more collaborating universities the management of 1 or more of the fellowship programs.
+
+#### (2) Leveraging alumni engagement
+
+&emsp;In carrying out the purposes and programs under this section, the Secretary shall encourage ongoing engagement with fellowship recipients who have completed training under the program to provide advice regarding, and participate in, new or ongoing agricultural development projects, with a priority for capacity-building projects.
 
 #### (g) Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this section, to remain available until expended.
 
-(Pub. L. 95–113, title XIV, §1473G, as added Pub. L. 110–234, title VII, §7139, May 22, 2008, 122 Stat. 1231, and Pub. L. 110–246, §4(a), title VII, §7139, June 18, 2008, 122 Stat. 1664, 1992.)
+(Pub. L. 95–113, title XIV, §1473G, as added Pub. L. 110–234, title VII, §7139, May 22, 2008, 122 Stat. 1231, and Pub. L. 110–246, §4(a), title VII, §7139, June 18, 2008, 122 Stat. 1664, 1992; amended Pub. L. 115–334, title III, §3306, Dec. 20, 2018, 132 Stat. 4620.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Amendments
+
+<b>2018</b>—Subsec. (c)(2). Pub. L. 115–334, §3306(1)(A), struck out "shall" before "support—" in introductory provisions.
+
+Subsec. (c)(2)(E). Pub. L. 115–334, §3306(1)(B)–(D), added subpar. (E).
+
+Subsec. (f). Pub. L. 115–334, §3306(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
 #### Effective Date
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
-
-<i><sup>1</sup></i><i> So in original. The word "shall" probably should not appear.</i>
 

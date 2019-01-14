@@ -188,7 +188,7 @@ With respect to activities for which a grant under this section is authorized, t
 
 #### (h) Technical assistance
 
-The Secretary may, either directly or by grant or contract, provide any entity that receives a grant under this section with technical and other nonfinancial assistance necessary to meet the requirements of this section.
+The Secretary may, either directly or by grant or contract, provide any entity that receives a grant under this section with technical andother nonfinancial assistance necessary to meet the requirements of this section.
 
 #### (i) Evaluation of program
 
@@ -228,7 +228,7 @@ Pub. L. 111–148, title X, §10504, Mar. 23, 2010, 124 Stat. 1004, provided tha
 
 "(a)
 
-In General.—Not later than 6 months after the date of enactment of this Act \[Mar. 23, 2010\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary'), acting through the Health Resources and Services Administration, shall establish a 3 year demonstration project in up to 10States to provide access to comprehensive health care services to the uninsured at reduced fees. The Secretary shall evaluate the feasibility of expanding the project to additional States.
+In General.—Not later than 6 months after the date of enactment of this Act \[Mar. 23, 2010\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary'), acting through the Health Resources and Services Administration, shall establish a 3 year demonstration project in up to 10 States to provide access to comprehensive health care services to the uninsured at reduced fees. The Secretary shall evaluate the feasibility of expanding the project to additional States.
 
 "(b)
 

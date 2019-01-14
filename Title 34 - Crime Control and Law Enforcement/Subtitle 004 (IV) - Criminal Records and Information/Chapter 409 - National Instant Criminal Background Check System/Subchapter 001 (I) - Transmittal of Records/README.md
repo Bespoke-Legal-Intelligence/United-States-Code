@@ -11,3 +11,4 @@
 - [&sect; 40914 - Penalties for noncompliance](%C2%A7%2040914%20-%20Penalties%20for%20noncompliance.md)
 - [&sect; 40915 - Relief from disabilities program required as condition for participation in grant programs](%C2%A7%2040915%20-%20Relief%20from%20disabilities%20program%20required%20as%20condition%20for%20participation%20in%20grant%20programs.md)
 - [&sect; 40916 - Illegal immigrant gun purchase notification](%C2%A7%2040916%20-%20Illegal%20immigrant%20gun%20purchase%20notification.md)
+- [&sect; 40917 - Implementation plan](%C2%A7%2040917%20-%20Implementation%20plan.md)

@@ -1,6 +1,6 @@
 ### §§1001 to 1010. Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641
 
-Section 1001, act July 9, 1952, ch. 608, pt. II, §250, 66 Stat. 495, prohibited discrimination between Regulars and reserve components. See section 10209 of Title 10, Armed Forces.
+Section 1001, act July 9, 1952, ch. 608, pt. II, §250, 66 Stat. 495, prohibited discrimination between Regularsand reserve components. See section 10209 of Title 10, Armed Forces.
 
 Section 1002, act July 9, 1952, ch. 608, pt. II, §251, 66 Stat. 495, authorized Secretaries of the Army, Navy, Air Force, and the Treasury, to make and publish regulations. See section 10202 of Title 10 and section 417(a) of Title 37, Pay and Allowances of the Uniformed Services.
 

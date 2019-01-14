@@ -58,7 +58,7 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (ii) Submission of accounting
 
-&emsp;&emsp;&emsp;At the end of the period designated for the work covered by the funds received, the grant recipient shall submit to the Secretary a separate accounting of the work done and the funds expended.
+&emsp;&emsp;&emsp;At the end of the period designated for the work covered by the funds received,the grant recipient shall submit to the Secretary a separate accounting of the work done and the funds expended.
 
 #### (iii) Use of funds
 
@@ -122,7 +122,7 @@ Section 1124 of the Education Amendments of 1978 (25 U.S.C. 2005(a)), referred t
 
 #### Prior Provisions
 
-A prior section 2503, Pub. L. 100–297, title V, §5204, Apr. 28, 1988, 102 Stat. 386; Pub. L. 100–427, §10(a), (b), Sept. 9, 1988, 102 Stat. 1607; Pub. L. 102–119, §26(f), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, §394(m)(1), Oct. 20, 1994, 108 Stat. 4029, authorized grants, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2502 of this title.
+A prior section 2503, Pub. L. 100–297, title V, §5204, Apr. 28, 1988, 102 Stat. 386; Pub. L. 100–427, §10(a), (b),Sept. 9, 1988, 102 Stat. 1607; Pub. L. 102–119, §26(f), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, §394(m)(1), Oct. 20, 1994, 108 Stat. 4029, authorized grants, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2502 of this title.
 
 #### Effective Date
 

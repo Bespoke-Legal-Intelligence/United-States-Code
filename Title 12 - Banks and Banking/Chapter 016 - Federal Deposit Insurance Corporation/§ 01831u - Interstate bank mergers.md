@@ -54,7 +54,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The responsible agency may not approve an application pursuant to paragraph (1) that would have the effect of permitting an out-of-State bank or out-of-State bank holding company to acquire a bank in a host State that has not been in existence for the minimum period of time, if any, specified in the statutory law of the host State.
+&emsp;&emsp;The responsible agency may not approve an application pursuant to paragraph (1) that would have the effect of permitting anout-of-State bank or out-of-State bank holding company to acquire a bank in a host State that has not been in existence for the minimum period of time, if any, specified in the statutory law of the host State.
 
 #### (B) Special rule for State age laws specifying a period of more than 5 years
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;(A) comply with the responsibilities of the agency regarding such application under section 2903 of this title;
 
-&emsp;&emsp;(B) take into account the most recent written evaluation under section 2903 of thistitle of any bank which would be an affiliate of the resulting bank; and
+&emsp;&emsp;(B) take into account the most recent written evaluation under section 2903 of this title of any bank which would be an affiliate of the resulting bank; and
 
 &emsp;&emsp;(C) take into account the record of compliance of any applicant bank with applicable State community reinvestment laws.
 

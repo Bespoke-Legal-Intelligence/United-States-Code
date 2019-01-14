@@ -160,7 +160,7 @@ Elements.—The strategy required under subsection (a) shall include the followi
 
 &emsp;&emsp;"(B) make such DNA samples available to investigators from the troop- or police-contributing country (except that such should not be made available to the United Nations) if allegations of sexual exploitation or abuse arise.
 
-&emsp;"(7) The adoption of a United Nations policy that bars troop- or police-contributing countries that failto fulfill their obligation to ensure good order and discipline among their troops from providing any further troops for peace operations or restricts peacekeeper reimbursements to such countries until appropriate training, institutional reform, and oversight mechanisms to prevent such problems from recurring have been put in place.
+&emsp;"(7) The adoption of a United Nations policy that bars troop- or police-contributing countries that fail to fulfill their obligation to ensure good order and discipline among their troops from providing any further troops for peace operations or restricts peacekeeper reimbursements to such countries until appropriate training, institutional reform, and oversight mechanisms to prevent such problems from recurring have been put in place.
 
 &emsp;"(8) The implementation of appropriate risk reduction policies, including refusal by the United Nations to deploy uniformed personnel from any troop- or police-contributing country that does not adequately—
 
@@ -324,7 +324,7 @@ Pub. L. 98–164, title I, §115, Nov. 22, 1983, 97 Stat. 1021, as amended by Pu
 
 &emsp;"(2) the United Nations Charter stipulates that members may be suspended by the General Assembly only 'upon the recommendation of the Security Council'; and
 
-&emsp;"(3) any move by the General Assembly that would illegally deny Israel its credentials in the Assembly would be a direct violation of these provisions of the Charter.
+&emsp;"(3) any move by the General Assembly that would illegally deny Israel its credentials in the Assemblywould be a direct violation of these provisions of the Charter.
 
 "(b) If Israel is illegally expelled, suspended, denied its credentials, or in any other manner denied its right to participate in any principal or subsidiary organ or in any specialized, technical, or other agency of the United Nations, the United States shall suspend its participation in any such organ or agency until the illegal action is reversed. The United States shall reduce its annual assessed contribution to the United Nations or such specialized agency by 8.34 percent for each month in which United States participation is suspended pursuant to this section. Nothing in this section may be construed to diminish or to affect United States participation in the United Nations Security Council or the Safeguards Program of the International Atomic Energy Agency."
 
@@ -366,7 +366,7 @@ Joint Res. Aug. 4, 1947, ch. 482, 61 Stat. 756, provided that:
 
 "Whereas the said Charter of the United Nations came into force with respect to the United States on October 24, 1945; and
 
-"Whereas article 104 of the Charter provides that 'The Organization shall enjoy in the territory of each of its Members such legal capacity as may be necessaryfor the exercise of its functions and the fulfillment of its purposes'; and
+"Whereas article 104 of the Charter provides that 'The Organization shall enjoy in the territory of each of its Members such legal capacity as may be necessary for the exercise of its functions and the fulfillment of its purposes'; and
 
 "Whereas article 105 of the Charter provides that:
 
@@ -384,7 +384,7 @@ Joint Res. Aug. 4, 1947, ch. 482, 61 Stat. 756, provided that:
 
 "Whereas the General Assembly on December 14, 1946, resolved 'that the permanent headquarters of the United Nations shall be established in New York City in the area bounded by First Avenue, East Forty-eighth Street, the East River, and East Forty-second Street'; and
 
-"Whereas the General Assembly resolved on December 14, 1946, 'That the Secretary-General be authorized to negotiate and conclude with the appropriate authorities of the United States of America an agreement concerning the arrangements required as a result of the establishment of the permanent headquarters of the United Nations in the city of New York' and to be guided in these negotiations by the provisions of a preliminary draft agreement which had been negotiated by the Secretary-General and the Secretary of State of the United States; and
+"Whereas the General Assembly resolved on December 14, 1946, 'That the Secretary-General be authorized to negotiate and conclude with the appropriate authorities of the United States of America an agreement concerning the arrangements required as a result of the establishment of the permanent headquarters of the United Nations in the city of New York' and to be guided in these negotiations by the provisions of a preliminary draft agreement which had been negotiated by theSecretary-General and the Secretary of State of the United States; and
 
 "Whereas the General Assembly resolved on December 14, 1946, that pending the coming into force of the agreement referred to above 'the Secretary-General be authorized to negotiate and conclude arrangements with the appropriate authorities of the United States of America to determine on a provisional basis the privileges, immunities, and facilities needed in connection with the temporary headquarters of the United Nations.'; and
 
@@ -462,7 +462,7 @@ The appropriate American authorities shall take whatever action may be necessary
 
 #### section 5
 
-In the event that the United Nations should find it necessary and desirable to establish and operate an aerodrome, the conditions for the location, use and operation of such an aerodrome and the conditions under which there shall be entry into and exit therefrom shall be the subject of a supplemental agreement.
+In the event that the United Nations should find it necessary and desirable to establish and operate anaerodrome, the conditions for the location, use and operation of such an aerodrome and the conditions under which there shall be entry into and exit therefrom shall be the subject of a supplemental agreement.
 
 #### section 6
 
@@ -498,7 +498,7 @@ The United Nations may expel or exclude persons from the headquarters district f
 
 #### section 11
 
-The federal, state or local authorities of the United States shall not impose any impediments to transit to or from the headquarters district of (1) representatives of Members or officials of the United Nations, or of specialized agencies as defined in Article 57, paragraph 2, of the Charter, or the families of such representatives or officials, (2) experts performing missions for the United Nations or for such specialized agencies, (3) representatives of the press, or of radio, film or other information agencies, who have been accredited by the United Nations (or by such a specialized agency) in its discretion after consultation with the United States, (4) representatives of nongovernmental organizations recognized by the United Nations for the purpose of consultation under Article 71 of the Charter, or (5) other persons invited to the headquarters district by the United Nations or by such specialized agency on official business. The appropriate American authorities shall afford any necessary protection to such persons while in transit to or from the headquarters district.This section does not apply to general interruptions of transportation which are to be dealt with as provided in Section 17, and does not impair the effectiveness of generally applicable laws and regulations as to the operation of means of transportation.
+The federal, state or local authorities of the United States shall not impose any impediments to transit to or from the headquarters district of (1) representatives of Members or officials of the United Nations, or of specialized agencies as defined in Article 57, paragraph 2, of the Charter, or the families of such representatives or officials, (2) experts performing missions for the United Nations or for such specialized agencies, (3) representatives of the press, or of radio, film or other information agencies, who have been accredited by the United Nations (or by such a specialized agency) in its discretion after consultation with the United States, (4) representatives of nongovernmental organizations recognized by the United Nations for the purpose of consultation under Article 71 of the Charter, or (5) other persons invited to the headquarters district by the United Nations or by such specialized agency on official business. The appropriate American authorities shall afford any necessary protection to such persons while in transit to or from the headquarters district. This section does not apply to general interruptions of transportation which are to be dealt with as provided in Section 17, and does not impair the effectiveness of generally applicable laws and regulations as to the operation of means of transportation.
 
 #### section 12
 
@@ -512,7 +512,7 @@ The provisions of Section 11 shall be applicable irrespective of the relations e
 
 (1) No proceedings shall be instituted under such laws or regulations to require any such person to leave the United States except with the prior approval of the Secretary of State of the United States. Such approval shall be given only after consultation with the appropriate Member in the case of a representative of a Member (or a member of his family) or with the Secretary-General or the principal executive officer of the appropriate specialized agency in the case of any other person referred to in Section 11;
 
-(2) A representative of the Member concerned, the Secretary-General, or the principal executive officer of the appropriate specialized agency, as the case may be, shall have the right to appear in any such proceedings on behalf of the person against whom they are instituted;
+(2) A representative of the Member concerned, the Secretary-General, or the principal executive officer of the appropriate specialized agency, as the case may be,shall have the right to appear in any such proceedings on behalf of the person against whom they are instituted;
 
 (3) Persons who are entitled to diplomatic privileges and immunities under Section 15 or under the General Convention shall not be required to leave the United States otherwise than in accordance with the customary procedure applicable to diplomatic envoys accredited to the United States.
 
@@ -552,7 +552,7 @@ The Secretary-General and the appropriate American authorities shall, at the req
 
 #### section 17
 
-(a) The appropriate American authorities will exercise to the extent requested by the Secretary-General the powers which they possess with respect to the supplying of public services to ensure that the headquarters district shall be supplied on equitable termswith the necessary public services, including electricity, water, gas, post, telephone, telegraph, transportation, drainage, collection of refuse, fire protection, snow removal, et cetera. In case of any interruption or threatened interruption of any such services, the appropriate American authorities will consider the needs of the United Nations as being of equal importance with the similar needs of essential agencies of the Government of the United States, and will take steps accordingly, to ensure that the work of the United Nations is not prejudiced.
+(a) The appropriate American authorities will exercise to the extent requested by the Secretary-General the powers which they possess with respect to the supplying of public services to ensure that the headquarters district shall be supplied on equitable terms with the necessary public services, including electricity, water, gas, post, telephone, telegraph, transportation, drainage, collection of refuse, fire protection, snow removal, et cetera. In case of any interruption or threatened interruption of any such services, the appropriate American authorities will consider the needs of the United Nations as being of equal importance with the similar needs of essential agencies of the Government of the United States, and will take steps accordingly, to ensure that the work of the United Nations is not prejudiced.
 
 (b) Special provisions with reference to maintenance of utilities and underground construction are contained in Annex 2.
 
@@ -738,7 +738,7 @@ Ex. Ord. No. 10422, Jan. 9, 1953, 18 F.R. 239, as amended by Ex. Ord. No. 10459,
 
 4\. Whenever information disclosed with respect to any person being investigated is derogatory, within the standard set forth in Part II of this order, the Office of Personnel Management shall forward such information to the Federal Bureau of Investigation, and the Bureau shall conduct a full field investigation of such persons.
 
-5\. Reports of full field investigations shall be forwarded through the Office of Personnel Management to the International Organizations Employees LoyaltyBoard, established by Part IV of this order and hereinafter referred to as the Board. Whenever such a report contains derogatory information, under the standard set forth in Part II of this order, there shall be made available to the person in question the procedures of the Board provided or authorized by Part IV of this order (including the opportunity of a hearing) for inquiring into the loyalty of the person as a United States citizen in accordance with the standard set forth in Part II of this order. The Board shall transmit its determinations, as advisory opinions, together with the reasons therefor stated in as much detail as the Board determines that security considerations permit, to the Secretary of State for transmission to the Secretary General of the United Nations for his use in exercising his rights and duties with respect to the personnel of the United Nations as set out in the Charter and in regulations and decisions of the competent organs of the United Nations.
+5\. Reports of full field investigations shall be forwarded through the Office of Personnel Management to the International Organizations Employees Loyalty Board, established by Part IV of this order and hereinafter referred to as the Board. Whenever such a report contains derogatory information, under the standard set forth in Part II of this order, there shall be made available to the person in question the procedures of the Board provided or authorized by Part IV of this order (including the opportunity of a hearing) for inquiring into the loyalty of the person as a United States citizen in accordance with the standard set forth in Part II of this order. The Board shall transmit its determinations, as advisory opinions, together with the reasons therefor stated in as much detail as the Board determines that security considerations permit, to the Secretary of State for transmission to the Secretary General of the United Nations for his use in exercising his rights and duties with respect to the personnel of the United Nations as set out in the Charter and in regulations and decisions of the competent organs of the United Nations.
 
 6\. At any stage during the investigation or Board proceeding, the Board may transmit to the Secretary of State, for forwarding to the Secretary General, in as much detail as the Board determines that security considerations permit, the derogatory information disclosed by investigation. This shall be for the purpose of assisting the Secretary General in determining whether or not he should take action with respect to the employee, or the person being considered for employment, prior to the completion of the procedures outlined in this order. The making available of any such information shall be without prejudice to the right of full hearing as provided for herein.
 

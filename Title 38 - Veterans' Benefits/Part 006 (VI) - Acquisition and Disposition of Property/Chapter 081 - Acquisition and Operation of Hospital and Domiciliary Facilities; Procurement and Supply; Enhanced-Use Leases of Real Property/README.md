@@ -70,6 +70,7 @@
 | [8156\.](Subchapter%20004%20%28IV%29%20-%20Sharing%20of%20Medical%20Facilities%2C%20Equipment%2C%20and%20Information/%C2%A7%2008156%20-%20Coordination%20with%20health%20services%20development%20activities%20carried%20out%20under%20the%20National%20Health%20Planning%20and%20Resources%20Development%20Act%20of%E2%80%A6.md) | Coordination with health services development activities carried out under the National Health Planning and Resources Development Act of 1974. |
 | [8157\.](Subchapter%20004%20%28IV%29%20-%20Sharing%20of%20Medical%20Facilities%2C%20Equipment%2C%20and%20Information/%C2%A7%2008157%20-%20Joint%20title%20to%20medical%20equipment.md) | Joint title to medical equipment. |
 | [8158\.](Subchapter%20004%20%28IV%29%20-%20Sharing%20of%20Medical%20Facilities%2C%20Equipment%2C%20and%20Information/%C2%A7%2008158%20-%20Deposit%20in%20escrow.md) | Deposit in escrow. |
+| [8159\.](Subchapter%20004%20%28IV%29%20-%20Sharing%20of%20Medical%20Facilities%2C%20Equipment%2C%20and%20Information/%C2%A7%2008159%20-%20Authority%20to%20pay%20for%20services%20authorized%20but%20not%20subject%20to%20an%20agreement.md) | Authority to pay for services authorized but not subject to an agreement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -94,6 +95,8 @@
 <i>Pub. L. 108–422, title IV, §411(c)(2), (f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that, effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title, this analysis is amended by striking out item 8116.</i>
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–182, title I, §112(b), June 6, 2018, 132 Stat. 1421, added item 8159.
 
 <b>2016</b>—Pub. L. 114–315, title VIII, §801(d)(2), Dec. 16, 2016, 130 Stat. 1591, added item 8120.
 

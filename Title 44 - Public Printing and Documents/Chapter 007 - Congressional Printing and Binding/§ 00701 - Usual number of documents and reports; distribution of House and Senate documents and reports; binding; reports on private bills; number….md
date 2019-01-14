@@ -22,7 +22,7 @@ This section does not prevent the binding of all Senate and House reports in the
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §131 (Jan. 12, 1895, ch. 23, §54, 28 Stat. 608; Mar. 2, 1901, No. 16, §§1, 2, 31 Stat. 1464; Jan. 20, 1905, ch. 50, §1, 33 Stat. 610; Mar. 1, 1907, ch. 2284, §4, 34 Stat. 1014; Jan. 15, 1908, No. 3, §2, 35 Stat. 566; Mar. 4, 1909, ch. 317, 35 Stat. 1067; June 25, 1910, ch. 439, 36 Stat. 868; Mar. 3, 1925, ch. 421, §§6, 7, 43 Stat. 1106; June 20, 1936, ch. 630, title IV, §6, 49 Stat. 1550; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352).
+Based on 44 U.S. Code, 1964 ed., §131 (Jan. 12, 1895, ch. 23, §54, 28 Stat. 608; Mar. 2, 1901, No. 16, §§1, 2, 31 Stat. 1464; Jan. 20, 1905, ch. 50, §1, 33 Stat. 610; Mar. 1, 1907, ch. 2284, §4, 34 Stat. 1014; Jan. 15, 1908, No. 3, §2, 35 Stat.566; Mar. 4, 1909, ch. 317, 35 Stat. 1067; June 25, 1910, ch. 439, 36 Stat. 868; Mar. 3, 1925, ch. 421, §§6, 7, 43 Stat. 1106; June 20, 1936, ch. 630, title IV, §6, 49 Stat. 1550; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352).
 
 #### Amendments
 
@@ -42,7 +42,7 @@ In general.—Notwithstanding any provision of title 44, United States Code, or 
 
 &emsp;"(2)
 
-Preparation of estimates.—Estimated expenditures and proposed appropriations for congressional printing and binding services shall be prepared and submitted by the Clerk of the House of Representatives in accordance with title 31, UnitedStates Code, in the same manner as estimates and requests are prepared for other legislative branch services under such title, except that such requests shall be based upon the results of the study conducted under subsection (b) (with respect to any fiscal year covered by such study).
+Preparation of estimates.—Estimated expenditures and proposed appropriations for congressional printing and binding services shall be prepared and submitted by the Clerk of the House of Representatives in accordance with title 31, United States Code, in the same manner as estimates and requests are prepared for other legislative branch services under such title, except that such requests shall be based upon the results of the study conducted under subsection (b) (with respect to any fiscal year covered by such study).
 
 &emsp;"(3)
 

@@ -24,7 +24,7 @@ The Secretary of the Interior is authorized to acquire by donation, purchase wit
 
 (1) Any individual who owns private property acquired by the Secretary under subsection (c) may, on the date of such acquisition and as a condition of such acquisition, retain for himself and his successors or assigns, a right of use and occupancy of the property for a definite term of not more than 25 years from the date of acquisition by the Secretary or a term ending at the death of the owner or the owner's spouse, whichever is later. The owner shall elect the term to be reserved.
 
-(2) Unless the property is wholly or partially donated, the Secretary shall pay to the owner reserving a right of use and occupancy under this subsection the fair market value of the property on the date of its acquisition, less the fair market value on that date of the right retained by the owner.
+(2) Unless the property is wholly or partially donated, the Secretary shall pay to the ownerreserving a right of use and occupancy under this subsection the fair market value of the property on the date of its acquisition, less the fair market value on that date of the right retained by the owner.
 
 (3) For purposes of applying this subsection, ownership shall be determined as of July 1, 1991.
 
@@ -32,7 +32,7 @@ The Secretary of the Interior is authorized to acquire by donation, purchase wit
 
 #### References in Text
 
-The Minute Man National Historical Park Amendments of 1991, referred to in subsec. (c), is Pub. L.102–488, Oct. 24, 1992, 106 Stat. 3135, which enacted sections 410x–1 and 410x–2 of this title, amended this section and sections 410s and 410x of this title, and enacted provisions set out as a note under section 410s of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 410s of this title and Tables.
+The Minute Man National Historical Park Amendments of 1991, referred to in subsec. (c), is Pub. L. 102–488, Oct. 24, 1992, 106 Stat. 3135, which enacted sections 410x–1 and 410x–2 of this title, amended this section and sections 410s and 410x of this title, and enacted provisions set out as a note under section 410s of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 410s of this title and Tables.
 
 #### Amendments
 

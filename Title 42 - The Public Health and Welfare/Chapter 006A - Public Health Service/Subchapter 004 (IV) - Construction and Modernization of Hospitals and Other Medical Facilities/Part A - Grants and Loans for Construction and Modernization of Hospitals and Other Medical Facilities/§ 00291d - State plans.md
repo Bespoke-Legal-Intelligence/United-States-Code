@@ -50,7 +50,7 @@ The Surgeon General shall approve any State plan and any modification thereof wh
 
 A prior section 291d, act July 1, 1944, ch. 373, title VI, §621, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §2(a), 63 Stat. 898; July 27, 1953, ch. 243, 67 Stat. 196; Aug. 2, 1956, ch. 871, title IV, §401, 70 Stat. 929; Aug. 14, 1958, Pub. L. 85–664, §1(a), 72 Stat. 616, authorized appropriations for construction of hospitals and related facilities, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291a of this title.
 
-Provisions similar to those comprising this section were contained in a prior section 291f(a), (b), act July 1, 1944, ch. 373, title VI, §623, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, prior to the general amendment of this subchapter by Pub. L. 88–443.
+Provisions similar to those comprising this section were contained in a prior section 291f(a), (b), act July1, 1944, ch. 373, title VI, §623, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 #### Amendments
 

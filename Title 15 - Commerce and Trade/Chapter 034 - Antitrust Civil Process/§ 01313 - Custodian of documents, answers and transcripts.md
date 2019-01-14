@@ -22,7 +22,7 @@ Any person, upon whom any demand under section 1312 of this title for the produc
 
 (1) Whenever any attorney of the Department of Justice has been designated to appear before any court, grand jury, or Federal administrative or regulatory agency in any case or proceeding, the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony may deliver to such attorney such material, answers, or transcripts for official use in connection with any such case, grand jury, or proceeding as such attorney determines to be required. Upon the completion of any such case, grand jury, or proceeding, such attorney shall return to the custodian any such material, answers, or transcripts so delivered which have not passed into the control of such court, grand jury, or agency through the introduction thereof into the record of such case or proceeding.
 
-(2) The custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony may deliver to the Federal Trade Commission, in response to a written request, copies of such material, answers, or transcripts for use in connection with an investigation or proceeding under the Commission's jurisdiction. Such material, answers, or transcripts may only be used by the Commission in such manner and subject to such conditions as apply to the Department of Justice under this chapter.
+(2) The custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony may deliver to the Federal Trade Commission, in response to a written request, copies of such material, answers, or transcripts for use in connection with an investigation or proceeding under the Commission's jurisdiction. Such material, answers, or transcripts may only be used by the Commission in such manner andsubject to such conditions as apply to the Department of Justice under this chapter.
 
 #### (e) Return of material to producer
 
@@ -32,7 +32,7 @@ If any documentary material has been produced in the course of any antitrust inv
 
 &emsp;(2) no case or proceeding, in which such material may be used, has been commenced within a reasonable time after completion of the examination and analysis of all documentary material and other information assembled in the course of such investigation,
 
-> the custodian shall, upon written request of the person who produced such material, return to such person any such material (other than copies thereof furnished to the custodian pursuant to subsection (b) of this section or made by theDepartment of Justice pursuant to subsection (c) of this section) which has not passed into the control of any court, grand jury, or agency through the introduction thereof into the record of such case or proceeding.
+> the custodian shall, upon written request of the person who produced such material, return to such person any such material (other than copies thereof furnished to the custodian pursuant to subsection (b) of this section or made by the Department of Justice pursuant to subsection (c) of this section) which has not passed into the control of any court, grand jury, or agency through the introduction thereof into the record of such case or proceeding.
 
 #### (f) Appointment of successor custodians
 

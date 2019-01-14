@@ -108,7 +108,7 @@ Exercise of Authorities.—Except as otherwise provided by law, an officer or em
 
 #### Construction
 
-Pub. L. 114–110, §17, Dec. 18, 2015, 129 Stat. 2238, provided that: "Nothing in this Act \[see Tables for classification\] may be construed to affect any suit commenced by or against the Surface Transportation Board, or any proceeding or challenge pending before the Surface Transportation Board, before the date of the enactment of this Act \[Dec. 18, 2015\]."
+Pub. L. 114–110, §17, Dec. 18, 2015, 129 Stat. 2238, provided that: "Nothing in this Act \[see Tables for classification\] may be construed to affect any suit commenced by or against the Surface TransportationBoard, or any proceeding or challenge pending before the Surface Transportation Board, before the date of the enactment of this Act \[Dec. 18, 2015\]."
 
 #### Abolition of Interstate Commerce Commission
 
@@ -128,7 +128,7 @@ To Board.—Except as otherwise provided in this Act \[see Tables for classifica
 
 "(b)
 
-To Secretary.—Except as otherwise provided in this Act and the amendments made by this Act, thosepersonnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred to the Secretary by this Act shall be transferred to the Secretary for use in connection with the functions transferred.
+To Secretary.—Except as otherwise provided in this Act and the amendments made by this Act, those personnel, property, and records employed, used, held, available, or to be made available in connection with a function transferred to the Secretary by this Act shall be transferred to the Secretary for use in connection with the functions transferred.
 
 "(c)
 
@@ -137,4 +137,50 @@ Separated Employees.—Notwithstanding all other laws and regulations, the Depar
 #### References to Interstate Commerce Commission Deemed To Be References to Surface Transportation Board
 
 Pub. L. 104–88, title II, §205, Dec. 29, 1995, 109 Stat. 943, provided that: "Any reference to the Interstate Commerce Commission in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Interstate Commerce Commission or an officer or employee of the Interstate Commerce Commission, is deemed to refer to the Board \[Surface Transportation Board\], a member or employee of the Board, or the Secretary, as appropriate."
+
+#### Information Security Improvement
+
+Pub. L. 115–269, Oct. 16, 2018, 132 Stat. 3763, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'STB Information Security Improvement Act'.
+
+#### "SEC. 2. REQUIREMENTS.
+
+"(a)
+
+In General.—The Surface Transportation Board (in this section referred to as the 'STB') shall develop a timeline and plan to implement the recommendations of the Inspector General of the Department of Transportation in Report No. FI2018002, including improvements—
+
+&emsp;"(1) to identify controls, including risk management, weakness remediation, and security authorization;
+
+&emsp;"(2) to protect controls, including configuration management, user identity and access management, and security training;
+
+&emsp;"(3) to detect controls, including continuous monitoring;
+
+&emsp;"(4) to respond \[to\] controls, including incident handling and reporting;
+
+&emsp;"(5) to recover controls for contingency planning; and
+
+&emsp;"(6) \[sic\] any additional tools that will improve the implementation of the recommendations.
+
+"(b)
+
+Implementation.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act \[Oct. 16, 2018\], the STB shall submit the plan and timeline developed under subsection (a) to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce of the Senate.
+
+&emsp;"(2)
+
+Report.—The STB shall report annually to such Committees on the progress on implementation of the recommendations until the implementation is complete.
+
+&emsp;"(3)
+
+Plan implementation.—The STB shall designate an individual to implement the plan developed under subsection (a).
+
+#### "SEC. 3. NO ADDITIONAL FUNDS AUTHORIZED.
+
+"No additional funds are authorized to carry out the requirements of this Act. Such requirements shall be carried out using amounts otherwise authorized."
 

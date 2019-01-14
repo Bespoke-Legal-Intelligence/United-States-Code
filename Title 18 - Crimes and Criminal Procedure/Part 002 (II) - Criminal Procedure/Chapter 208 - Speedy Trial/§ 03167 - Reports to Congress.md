@@ -10,7 +10,7 @@
 
 &emsp;(3) The additional judicial resources which would be necessary in order to achieve compliance with the time limits specified in subsections (b) and (c) of section 3161.
 
-&emsp;(4) The nature of the remedial measures which have been employed to improve conditions and practices in those districts with low compliance experience under this chapter or to promote the adoption of practices and procedures which have been successful in thosedistricts with high compliance experience under this chapter.
+&emsp;(4) The nature of the remedial measures which have been employed to improve conditions and practices in those districts with low compliance experience under this chapter or to promote the adoption of practices and procedures which have been successful in those districts with high compliance experience under this chapter.
 
 &emsp;(5) If a district has experienced difficulty in complying with this chapter, but an application for relief under section 3174 has not been made, the reason why such application has not been made.
 

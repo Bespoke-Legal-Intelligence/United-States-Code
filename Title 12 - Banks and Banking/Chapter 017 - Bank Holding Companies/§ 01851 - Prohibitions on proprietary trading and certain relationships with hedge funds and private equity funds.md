@@ -24,11 +24,11 @@
 
 &emsp;&emsp;(B) protect taxpayers and consumers and enhance financial stability by minimizing the risk that insured depository institutions and the affiliates of insured depository institutions will engage in unsafe and unsound activities;
 
-&emsp;&emsp;(C) limit the inappropriate transfer of Federal subsidies from institutions that benefitfrom deposit insurance and liquidity facilities of the Federal Government to unregulated entities;
+&emsp;&emsp;(C) limit the inappropriate transfer of Federal subsidies from institutions that benefit from deposit insurance and liquidity facilities of the Federal Government to unregulated entities;
 
 &emsp;&emsp;(D) reduce conflicts of interest between the self-interest of banking entities and nonbank financial companies supervised by the Board, and the interests of the customers of such entities and companies;
 
-&emsp;&emsp;(E) limit activities that have caused undue risk or loss in banking entities and nonbank financial companies supervised by the Board, or that might reasonably be expected to create undue risk or loss in such banking entities and nonbank financial companies supervised by the Board;
+&emsp;&emsp;(E) limit activities that have caused undue risk or loss in banking entities and nonbank financial companies supervised by the Board, or that might reasonably be expectedto create undue risk or loss in such banking entities and nonbank financial companies supervised by the Board;
 
 &emsp;&emsp;(F) appropriately accommodate the business of insurance within an insurance company, subject to regulation in accordance with the relevant insurance company investment laws, while protecting the safety and soundness of any banking entity with which such insurance company is affiliated and of the United States financial system; and
 
@@ -130,13 +130,19 @@
 
 &emsp;&emsp;&emsp;(ii) the fund is organized and offered only in connection with the provision of bona fide trust, fiduciary, or investment advisory services and only to persons that are customers of such services of the banking entity;
 
-&emsp;&emsp;&emsp;(iii) the banking entity does not acquire or retain an equity interest, partnership interest, or other ownership interest in thefunds except for a de minimis investment subject to and in compliance with paragraph (4);
+&emsp;&emsp;&emsp;(iii) the banking entity does not acquire or retain an equity interest, partnership interest, or other ownership interest in the funds except for a de minimis investment subject to and in compliance with paragraph (4);
 
 &emsp;&emsp;&emsp;(iv) the banking entity complies with the restrictions under paragraphs (1) and (2) of subparagraph (f);
 
 &emsp;&emsp;&emsp;(v) the banking entity does not, directly or indirectly, guarantee, assume, or otherwise insure the obligations or performance of the hedge fund or private equity fund or of any hedge fund or private equity fund in which such hedge fund or private equity fund invests;
 
-&emsp;&emsp;&emsp;(vi) the banking entity does not share with the hedge fund or private equity fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name;
+&emsp;&emsp;&emsp;(vi) the banking entity does not share with the hedge fund or private equity fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name, except that the hedge fund or private equity fund may share the same name or a variation of the same name as a banking entity that is an investment adviser to the hedge fund or private equity fund, if—
+
+&emsp;&emsp;&emsp;&emsp;(I) such investment adviser is not an insured depository institution, a company that controls an insured depository institution, or a company that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978 (12 U.S.C. 3106);
+
+&emsp;&emsp;&emsp;&emsp;(II) such investment adviser does not share the same name or a variation of the same name as an insured depository institution, any company that controls an insured depository institution, or any company that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978 (12 U.S.C. 3106); and
+
+&emsp;&emsp;&emsp;&emsp;(III) such name does not contain the word "bank";
 
 &emsp;&emsp;&emsp;(vii) no director or employee of the banking entity takes or retains an equity interest, partnership interest, or other ownership interest in the hedge fund or private equity fund, except for any director or employee of the banking entity who is directly engaged in providing investment advisory or other services to the hedge fund or private equity fund; and
 
@@ -236,7 +242,7 @@
 
 #### (B) Treatment of prime brokerage transactions
 
-&emsp;&emsp;For purposes of subparagraph (A), a prime brokerage transaction described in subparagraph (A) shall be subject to section 371c–1 ofthis title as if the counterparty were an affiliate of the banking entity.
+&emsp;&emsp;For purposes of subparagraph (A), a prime brokerage transaction described in subparagraph (A) shall be subject to section 371c–1 of this title as if the counterparty were an affiliate of the banking entity.
 
 #### (4) Application to nonbank financial companies supervised by the Board
 
@@ -262,19 +268,27 @@ In this section, the following definitions shall apply:
 
 #### (1) Banking entity
 
-&emsp;The term "banking entity" means any insured depository institution (as defined in section 1813 of this title), any company that controls an insured depository institution, or that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978, and any affiliate or subsidiary of any such entity. For purposes of this paragraph, the term "insured depository institution" does not include an institution that functions solely in a trust or fiduciary capacity, if—
+&emsp;The term "banking entity" means any insured depository institution (as defined in section 1813 of this title), any company that controls an insured depository institution, or that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978, and any affiliate or subsidiary of any such entity. For purposes of this paragraph, the term "insured depository institution" does not include an institution—
 
-&emsp;&emsp;(A) all or substantially all of the deposits of such institution are in trust funds and are received in a bona fide fiduciary capacity;
+&emsp;&emsp;(A) that functions solely in a trust or fiduciary capacity, if—
 
-&emsp;&emsp;(B) no deposits of such institution which are insured by the Federal Deposit Insurance Corporation are offered or marketed by or through an affiliate of such institution;
+&emsp;&emsp;&emsp;(i) all or substantially all of the deposits of such institution are in trust funds and are received in a bona fide fiduciary capacity;
 
-&emsp;&emsp;(C) such institution does not accept demand deposits or deposits that the depositor may withdraw by check or similar means for payment to third parties or others or make commercial loans; and
+&emsp;&emsp;&emsp;(ii) no deposits of such institution which are insured by the Federal Deposit Insurance Corporation are offered or marketed by or through an affiliate of such institution;
 
-&emsp;&emsp;(D) such institution does not—
+&emsp;&emsp;&emsp;(iii) such institution does not accept demand deposits or deposits that the depositor may withdraw by check or similar means for payment to third parties or others or make commercial loans; and
 
-&emsp;&emsp;&emsp;(i) obtain payment or payment related services from any Federal Reserve bank, including any service referred to in section 248a of this title; or
+&emsp;&emsp;&emsp;(iv) such institution does not—
 
-&emsp;&emsp;&emsp;(ii) exercise discount or borrowing privileges pursuant to section 461(b)(7) of this title.
+&emsp;&emsp;&emsp;&emsp;(I) obtain payment or payment related services from any Federal Reserve bank, including any service referred to in section 248a of this title; or
+
+&emsp;&emsp;&emsp;&emsp;(II) exercise discount or borrowing privileges pursuant to section 461(b)(7) of this title; or
+
+&emsp;&emsp;(B) that does not have and is not controlled by a company that has—
+
+&emsp;&emsp;&emsp;(i) more than $10,000,000,000 in total consolidated assets; and
+
+&emsp;&emsp;&emsp;(ii) total trading assets and trading liabilities, as reported on the most recent applicable regulatory filing filed by the institution, that are more than 5 percent of total consolidated assets.
 
 #### (2) Hedge fund; private equity fund
 
@@ -294,9 +308,9 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;(A) to serve as a general partner, managing member, or trustee of a fund;
 
-&emsp;&emsp;(B) in any manner to select or to control (or to have employees, officers, or directors, or agents who constitute) a majority of the directors, trustees, or management of a fund; or
+&emsp;&emsp;(B) in any manner to select or to control (or to have employees, officers, or directors,or agents who constitute) a majority of the directors, trustees, or management of a fund; or
 
-&emsp;&emsp;(C) to share with a fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name.
+&emsp;&emsp;(C) to share with a fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name, except as permitted under subsection (d)(1)(G)(vi).
 
 #### (6) Trading account
 
@@ -316,7 +330,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;For the purposes of this paragraph, the term "hedge fund" means any fund identified under subsection (h)(2), and does not include a private equity fund, as such term is used in section 80b–3(m) of title 15.
 
-(May 9, 1956, ch. 240, §13, as added Pub. L. 111–203, title VI, §619, July 21, 2010, 124 Stat. 1620.)
+(May 9, 1956, ch. 240, §13, as added Pub. L. 111–203, title VI, §619, July 21, 2010, 124 Stat. 1620; amended Pub. L. 115–174, title II, §§203, 204, May 24, 2018, 132 Stat. 1309.)
 
 #### References in Text
 
@@ -326,9 +340,23 @@ The Farm Credit Act of 1971, referred to in subsec. (d)(1)(A), is Pub. L. 92–1
 
 Section 102 of the Small Business Investment Act of 1958, referred to in subsec. (d)(1)(E), probably should be section 103 of the Small Business Investment Act of 1958, which is classified to section 662 of Title 15, Commerce and Trade.
 
-Section 8 of the International Banking Act of 1978, referred to in subsec. (h)(1), is section 8 of Pub. L. 95–369, which enacted section 3106 of this title and amended section 1841 of this title.
+Section 8 of the International Banking Act of 1978, referred to in subsecs. (d)(1)(G)(vi)(I), (II) and (h)(1), is section 8 of Pub. L. 95–369, which enacted section 3106 of this title and amended section 1841 of this title.
 
 The Investment Company Act of 1940, referred to in subsec. (h)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (d)(1)(G)(vi). Pub. L. 115–174, §204(1), inserted before semicolon ", except that the hedge fund or private equity fund may share the same name or a variation of the same name as a banking entity that is an investment adviser to the hedge fund or private equity fund, if—
+
+&emsp;"(I) such investment adviser is not an insured depository institution, a company that controls an insured depository institution, or a company that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978 (12 U.S.C. 3106);
+
+&emsp;"(II) such investment adviser does not share the same name or a variation of the same name as an insured depository institution, any company that controls an insured depository institution, or any company that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978 (12 U.S.C. 3106); and
+
+&emsp;"(III) such name does not contain the word 'bank' ".
+
+Subsec. (h)(1). Pub. L. 115–174, §203, substituted "institution—" for "institution that functions solely in a trust or fiduciary capacity, if—" in introductory provisions, inserted "(A) that functions solely in a trust or fiduciary capacity, if—" after introductory provisions, redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins, redesignated former cls. (i) and (ii) of former subpar. (D) as subcls. (I) and (II), respectively, of cl. (iv) of subpar. (A) and realigned margins, and added subpar. (B).
+
+Subsec. (h)(5)(C). Pub. L. 115–174, §204(2), inserted ", except as permitted under subsection (d)(1)(G)(vi)" before period at end.
 
 #### Effective Date
 

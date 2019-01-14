@@ -26,7 +26,7 @@
 
 (b) The Office of Personnel Management shall schedule full-scale wage surveys every 2 years and shall schedule interim surveys to be conducted between each 2 consecutive full-scale wage surveys. The Office may schedule more frequent surveys when conditions so suggest.
 
-(c) The Office of Personnel Management, by regulation, shall prescribe practices and procedures for conducting wage surveys, analyzingwage survey data, developing and establishing wage schedules and rates, and administering the prevailing rate system. The regulations shall provide—
+(c) The Office of Personnel Management, by regulation, shall prescribe practices and procedures for conducting wage surveys, analyzing wage survey data, developing and establishing wage schedules and rates, and administering the prevailing rate system. The regulations shall provide—
 
 &emsp;(1) that, subject to subsection (d) of this section, wages surveyed be those paid by private employers in the wage area for similar work performed by regular full-time employees, except that, for prevailing rate employees under paragraphs (B) and (C) of section 5342(a)(2) of this title, the wages surveyed shall be those paid by private employers to full-time employees in a representative number of retail, wholesale, service, and recreational establishments similar to those in which such prevailing rate employees are employed;
 
@@ -86,7 +86,7 @@
 
 > A night differential under this subsection is a part of basic pay.
 
-(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 566; amended Pub. L. 95–454, title IX,§906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title III, §3302(e)(10), Sept. 27, 1979, 93 Stat. 499; Pub. L. 99–145, title XII, §1242(a), Nov. 8, 1985, 99 Stat. 735; Pub. L. 104–201, div. C, title XXXV, §3548(a)(3)(B), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 107–107, div. A, title XI, §1113(a), Dec. 28, 2001, 115 Stat. 1239; Pub. L. 108–136, div. A, title XI, §1122(a), Nov. 24, 2003, 117 Stat. 1636.)
+(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 566; amended Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title III, §3302(e)(10), Sept. 27, 1979, 93 Stat. 499; Pub. L. 99–145, title XII, §1242(a), Nov. 8, 1985, 99 Stat. 735; Pub. L. 104–201, div. C, title XXXV, §3548(a)(3)(B), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 107–107, div. A, title XI, §1113(a), Dec. 28, 2001, 115 Stat. 1239; Pub. L. 108–136, div. A, title XI, §1122(a), Nov. 24, 2003, 117 Stat. 1636.)
 
 #### References in Text
 
@@ -150,25 +150,25 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Limitation on Pay Adjustments for Prevailing Rate Employees and Crews of Vessels
 
-Pub. L. 115–31, div. E, title VII, §737, May 5, 2017, 131 Stat. 385, provided that:
+Pub. L. 115–141, div. E, title VII, §737, Mar. 23, 2018, 132 Stat. 595, provided that:
 
-"(a)(1) Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2017, by this or any other Act, may be used to pay any prevailing rate employee described in section 5342(a)(2)(A) of title 5, United States Code—
+"(a)(1) Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2018, by this or any other Act, may be used to pay any prevailing rate employee described in section 5342(a)(2)(A) of title 5, United States Code—
 
-&emsp;"(A) during the period from the date of expiration of the limitation imposed by the comparable section for the previous fiscal years until the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 2017, in an amount that exceeds the rate payable for the applicable gradeand step of the applicable wage schedule in accordance with such section; and
+&emsp;"(A) during the period from the date of expiration of the limitation imposed by the comparable section for the previous fiscal years until the normal effective date of the applicable wage survey adjustmentthat is to take effect in fiscal year 2018, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section; and
 
-&emsp;"(B) during the period consisting of the remainder of fiscal year 2017, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under subparagraph (A) by more than the sum of—
+&emsp;"(B) during the period consisting of the remainder of fiscal year 2018, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under subparagraph (A) by more than the sum of—
 
-&emsp;&emsp;"(i) the percentage adjustment taking effect in fiscal year 2017 under section 5303 of title 5, United States Code, in the rates of pay under the General Schedule; and
+&emsp;&emsp;"(i) the percentage adjustment taking effect in fiscal year 2018 under section 5303 of title 5, United States Code, in the rates of pay under the General Schedule; and
 
-&emsp;&emsp;"(ii) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 2017 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in the previous fiscal year under such section.
+&emsp;&emsp;"(ii) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 2018 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in the previous fiscal year under such section.
 
 "(2) Notwithstanding any other provision of law, no prevailing rate employee described in subparagraph (B) or (C) of section 5342(a)(2) of title 5, United States Code, and no employee covered by section 5348 of such title, may be paid during the periods for which paragraph (1) is in effect at a rate that exceeds the rates that would be payable under paragraph (1) were paragraph (1) applicable to such employee.
 
-"(3) For the purposes of this subsection, the rates payable to an employee who is covered by this subsection and who is paid from a schedule not in existence on September 30, 2016, shall be determined under regulations prescribed by the Office of Personnel Management.
+"(3) For the purposes of this subsection, the rates payable to an employee who is covered by this subsection and who is paid from a schedule not in existence on September 30, 2017, shall be determined under regulations prescribed by the Office of Personnel Management.
 
-"(4) Notwithstanding any other provision of law, rates of premium pay for employees subject to this subsection may not be changed from the rates in effect on September 30, 2016, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this subsection.
+"(4) Notwithstanding any other provision of law, rates of premium pay for employees subject to this subsection may not be changed from the rates in effect on September 30, 2017, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this subsection.
 
-"(5) This subsection shall apply with respect to pay for service performed after September 30, 2016.
+"(5) This subsection shall apply with respect to pay for service performed after September 30, 2017.
 
 "(6) For the purpose of administering any provision of law (including any rule or regulation that provides premium pay, retirement, life insurance, or any other employee benefit) that requires any deduction or contribution, or that imposes any requirement or limitation on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this subsection shall be treated as the rate of salary or basic pay.
 
@@ -176,13 +176,15 @@ Pub. L. 115–31, div. E, title VII, §737, May 5, 2017, 131 Stat. 385, provided
 
 "(8) The Office of Personnel Management may provide for exceptions to the limitations imposed by this subsection if the Office determines that such exceptions are necessary to ensure the recruitment or retention of qualified employees.
 
-"(b) Notwithstanding subsection (a), the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2017 under sections 5344 and 5348 of title 5, United States Code, shall be—
+"(b) Notwithstanding subsection (a), the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2018 under sections 5344 and 5348 of title 5, United States Code, shall be—
 
 &emsp;"(1) not less than the percentage received by employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under sections 5303 and 5304 of title 5, United States Code: <i>Provided</i>, That prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of title 5, United States Code, and prevailing rate employees described in section 5343(a)(5) of title 5, United States Code, shall be considered to be located in the pay locality designated as 'Rest of United States' pursuant to section 5304 of title 5, United States Code, for purposes of this subsection; and
 
-&emsp;"(2) effective as of the first day of the first applicable pay period beginning after September 30, 2016."
+&emsp;"(2) effective as of the first day of the first applicable pay period beginning after September 30, 2017."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 115–31, div. E, title VII, §737, May 5, 2017, 131 Stat. 385.
 
 Pub. L. 114–113, div. E, title VII, §737, Dec. 18, 2015, 129 Stat. 2481.
 
@@ -316,7 +318,7 @@ Pub. L. 92–392, §9(b), Aug. 19, 1972, 86 Stat. 574, provided that: "The amend
 
 &emsp;"(2) nullify, curtail, or otherwise impair in any way the right of any party to such contract to enter into negotiations after the date of enactment of this Act \[Aug. 19, 1972\] for the renewal, extension, modification, or improvement of the provisions of such contract or for the replacement of such contract with a new contract; or
 
-&emsp;"(3) nullify, change, or otherwise affect in any way after such date of enactment \[Aug. 19, 1972\] any agreement, arrangement, or understanding in effect on such date \[Aug. 19, 1972\] with respect to the various items of subject matter of the negotiations on which any such contract in effect on such date \[Aug.19, 1972\] is based or prevent the inclusion of such items of subject matter in connection with the renegotiation of any such contract, or the replacement of such contract with a new contract, after such date \[Aug. 19, 1972\]."
+&emsp;"(3) nullify, change, or otherwise affect in any way after such date of enactment \[Aug. 19, 1972\] anyagreement, arrangement, or understanding in effect on such date \[Aug. 19, 1972\] with respect to the various items of subject matter of the negotiations on which any such contract in effect on such date \[Aug. 19, 1972\] is based or prevent the inclusion of such items of subject matter in connection with the renegotiation of any such contract, or the replacement of such contract with a new contract, after such date \[Aug. 19, 1972\]."
 
 #### Wage Survey
 

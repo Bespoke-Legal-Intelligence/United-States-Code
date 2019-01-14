@@ -92,7 +92,7 @@ Sections 13 and 15(d) of the Securities Exchange Act of 1934, referred to in sub
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–240, title II, §2041(b), Sept. 27, 2010, 124 Stat. 2560, provided that: "The amendment made by this section \[amending this section\] shall apply to penalties assessed after December 31, 2006."
+Pub. L. 111–240, title II, §2041(b), Sept. 27, 2010, 124 Stat. 2560, provided that: "The amendment made bythis section \[amending this section\] shall apply to penalties assessed after December 31, 2006."
 
 #### Effective Date
 

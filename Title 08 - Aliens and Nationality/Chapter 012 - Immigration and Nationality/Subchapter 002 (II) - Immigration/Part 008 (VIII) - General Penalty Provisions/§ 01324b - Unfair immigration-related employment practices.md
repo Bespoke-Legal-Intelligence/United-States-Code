@@ -48,7 +48,7 @@
 
 #### (2) No overlap with EEOC complaints
 
-&emsp;No charge may be filed respecting an unfair immigration-related employment practice described in subsection (a)(1)(A) if a charge with respect to that practice based on the same set of facts has been filed with the Equal Employment Opportunity Commission under title VIIof the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\], unless the charge is dismissed as being outside the scope of such title. No charge respecting an employment practice may be filed with the Equal Employment Opportunity Commission under such title if a charge with respect to such practice based on the same set of facts has been filed under this subsection, unless the charge is dismissed under this section as being outside the scope of this section.
+&emsp;No charge may be filed respecting an unfair immigration-related employment practice described in subsection (a)(1)(A) if a charge with respect to that practice based on the same set of facts has been filed with the Equal Employment Opportunity Commission under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\], unless the charge is dismissed as being outside the scope of such title. No charge respecting an employment practice may be filed with the Equal Employment Opportunity Commission under such title if a charge with respect to such practice based on the same set of facts has been filed under this subsection, unless the charge is dismissed under this section as being outside the scope of this section.
 
 #### (c) Special Counsel
 
@@ -62,7 +62,7 @@
 
 #### (3) Compensation
 
-&emsp;The Special Counsel is entitled to receive compensation at a rate not to exceed the rate now or hereafter provided for grade GS–17 of the General Schedule, under section 5332 of title 5.
+&emsp;The Special Counsel is entitled to receive compensation at a rate not to exceed the ratenow or hereafter provided for grade GS–17 of the General Schedule, under section 5332 of title 5.
 
 #### (4) Regional offices
 
@@ -116,7 +116,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If, upon the preponderance of the evidence, an administrative law judge determines that any person or entity named in the complaint has engaged in or is engaging in any such unfair immigration-related employment practice, then the judge shall state his findings of fact and shall issue and cause to be served on such person or entity an order which requires such person or entity to cease and desist from such unfair immigration-related employment practice.
+&emsp;&emsp;If, upon the preponderance of the evidence, an administrative law judge determines that any person or entity named in the complaint has engaged in or is engaging in any suchunfair immigration-related employment practice, then the judge shall state his findings of fact and shall issue and cause to be served on such person or entity an order which requires such person or entity to cease and desist from such unfair immigration-related employment practice.
 
 #### (B) Contents of order
 
@@ -158,7 +158,7 @@
 
 #### (h) Awarding of attorney's fees
 
-In any complaint respecting an unfair immigration-related employment practice, an administrative law judge, in the judge's discretion, may allow a prevailing party, other than theUnited States, a reasonable attorney's fee, if the losing party's argument is without reasonable foundation in law and fact.
+In any complaint respecting an unfair immigration-related employment practice, an administrative law judge, in the judge's discretion, may allow a prevailing party, other than the United States, a reasonable attorney's fee, if the losing party's argument is without reasonable foundation in law and fact.
 
 #### (i) Review of final orders
 
@@ -220,7 +220,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsecs. (b)(2) and (l)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat.241, as amended. Title VII of the Civil Rights Act of 1964 is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (b)(2) and (l)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VII of the Civil Rights Act of 1964 is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 Subsections (j), (l), (m), and (n) of section 1324a of this title, referred to in subsec. (k), were repealed by Pub. L. 104–208, div. C, title IV, §412(c), Sept. 30, 1996, 110 Stat. 3009–668.
 

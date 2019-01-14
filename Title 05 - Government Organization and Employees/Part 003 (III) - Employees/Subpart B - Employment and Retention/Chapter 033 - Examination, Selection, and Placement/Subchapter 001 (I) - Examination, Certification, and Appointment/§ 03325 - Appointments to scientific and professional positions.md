@@ -26,7 +26,7 @@ Oct. 4, 1961, Pub. L. 87–367, §202 "Sec. 2(a)", 75 Stat. 790.
 
 (b)
 
-5 U.S.C. 1161 (g) (2d sentence).
+5 U.S.C. 1161(g) (2d sentence).
 
 Oct. 11, 1962, Pub. L. 87–793, §1001(a)(2) "(g) (2d sentence)", 76 Stat. 863.
 
@@ -38,7 +38,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–372, §2(c)(3)(A), substituted "on the basis of standards developed by theagency involved in accordance with criteria specified in regulations prescribed by the Director of the Office of Personnel Management" for "or its designee for this purpose".
+<b>2008</b>—Subsec. (a). Pub. L. 110–372, §2(c)(3)(A), substituted "on the basis of standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director of the Office of Personnel Management" for "or its designee for this purpose".
 
 Subsec. (c). Pub. L. 110–372, §2(c)(3)(B), added subsec. (c).
 

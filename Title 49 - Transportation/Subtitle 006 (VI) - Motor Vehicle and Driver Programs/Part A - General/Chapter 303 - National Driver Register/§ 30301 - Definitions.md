@@ -78,7 +78,7 @@ Individuals and information.—The individuals and addresses referred to in para
 
 Verification of Information.—For purposes of section 202(c)(1)(D) of the REAL ID Act of 2005 (49 U.S.C. 30301 note), in the case of an individual described in subparagraph (A) or (B) of subsection (a)(2), a State need only require documentation of the address appearing on the individual's driver's license or other identification card issued by that State to the individual."
 
-Pub. L. 109–13, div. B, title II, May 11, 2005, 119 Stat. 311, provided that:
+Pub. L. 109–13, div. B, title II, May 11, 2005, 119 Stat. 311, as amended by Pub. L. 115–323, §2, Dec. 17, 2018, 132 Stat. 4443, provided that:
 
 #### "SEC. 201. DEFINITIONS.
 
@@ -102,7 +102,7 @@ Secretary.—The term 'Secretary' means the Secretary of Homeland Security.
 
 &emsp;"(5)
 
-State.—The term 'State' means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+State.—The term 'State' means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, and any other territory or possession of the United States.
 
 #### "SEC. 202. MINIMUM DOCUMENT REQUIREMENTS AND ISSUANCE STANDARDS FOR FEDERAL RECOGNITION.
 
@@ -182,9 +182,11 @@ Evidence of lawful status.—A State shall require, before issuing a driver's li
 
 &emsp;&emsp;&emsp;"(vii) has a pending or approved application for temporary protected status in the United States;
 
-&emsp;&emsp;&emsp;"(viii) has approved deferred action status; or
+&emsp;&emsp;&emsp;"(viii) has approved deferred action status;
 
-&emsp;&emsp;&emsp;"(ix) has a pending application for adjustment of status to that of an alien lawfully admitted for permanent residence in the United States or conditional permanent resident status in the United States.
+&emsp;&emsp;&emsp;"(ix) has a pending application for adjustment of status to that of an alien lawfully admitted for permanent residence in the United States or conditional permanent resident status in the United States; or
+
+&emsp;&emsp;&emsp;"(x) is a citizen of the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau who has been admitted to the United States as a nonimmigrant pursuant to a Compact of Free Association between the United States and the Republic or Federated States.
 
 &emsp;&emsp;"(C)
 

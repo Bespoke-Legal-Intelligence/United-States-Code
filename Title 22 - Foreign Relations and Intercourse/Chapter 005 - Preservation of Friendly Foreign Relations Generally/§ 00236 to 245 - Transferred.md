@@ -20,5 +20,5 @@ Section 243, act June 15, 1917, ch. 30, title VI, §6, 40 Stat. 225, which relat
 
 Section 244, act June 15, 1917, ch. 30, title VI, §7, 40 Stat. 225, which related to the President's discretion to release seized property, was transferred to section 407 of this title and was repealed by act Aug, 13, 1953, ch. 434, §2, 67 Stat. 577.
 
-Section 245, act June 15, 1917, ch. 30, title VI, §8, 40 Stat. 225, which related to use of land and naval forcesto prevent exportation, was transferred to section 408 of this title.
+Section 245, act June 15, 1917, ch. 30, title VI, §8, 40 Stat. 225, which related to use of land and naval forces to prevent exportation, was transferred to section 408 of this title.
 

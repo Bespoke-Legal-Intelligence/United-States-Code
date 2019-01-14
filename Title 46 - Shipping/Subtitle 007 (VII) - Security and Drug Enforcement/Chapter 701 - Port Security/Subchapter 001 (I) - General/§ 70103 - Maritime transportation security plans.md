@@ -2,7 +2,7 @@
 
 (a)
 
-National Maritime Transportation Security Plan.—(1) Not later than April 1, 2005, the Secretary shall prepare a National Maritime Transportation Security Plan for deterring and responding to a transportation security incident.
+National Maritime Transportation Security Plan.—(1) The Secretary shall prepare a National Maritime Transportation Security Plan for deterring and responding to a transportation security incident.
 
 (2) The National Maritime Transportation Security Plan shall provide for efficient, coordinated, and effective action to deter and minimize damage from a transportation security incident, and shall include the following:
 
@@ -33,6 +33,8 @@ National Maritime Transportation Security Plan.—(1) Not later than April 1, 20
 &emsp;(I) A recognition of certified systems of intermodal transportation.
 
 &emsp;(J) A plan for ensuring that the flow of cargo through United States ports is reestablished as efficiently and quickly as possible after a transportation security incident.
+
+&emsp;(K) A plan to detect, respond to, and recover from cybersecurity risks that may cause transportation security incidents.
 
 (3) The Secretary shall, as the Secretary considers advisable, revise or otherwise amend the National Maritime Transportation Security Plan.
 
@@ -66,9 +68,11 @@ Area Maritime Transportation Security Plans.—(1) The Federal Maritime Security
 
 &emsp;&emsp;(i) to identify salvage equipment capable of restoring operational trade capacity; and
 
-&emsp;&emsp;(ii) to ensure that the waterways are cleared and the flow of commerce through United States ports is reestablished as efficiently and quickly as possible after a maritime transportation security incident; and
+&emsp;&emsp;(ii) to ensure that the waterways are cleared and the flow of commerce through United States ports is reestablished as efficiently and quickly as possible after a maritime transportation security incident;
 
-&emsp;(H) be updated at least every 5 years by the Federal Maritime Security Coordinator.
+&emsp;(H) include a plan for detecting, responding to, and recovering from cybersecurity risks that may cause transportation security incidents; and
+
+&emsp;(I) be updated at least every 5 years by the Federal Maritime Security Coordinator.
 
 (3) The Secretary shall—
 
@@ -106,9 +110,11 @@ Vessel and Facility Security Plans.—(1) Within 6 months after the prescription
 
 &emsp;&emsp;(iii) procedural security policies;
 
-&emsp;&emsp;(iv) communications systems; and
+&emsp;&emsp;(iv) communications systems;
 
-&emsp;&emsp;(v) other security systems;
+&emsp;&emsp;(v) detecting, responding to, and recovering from cybersecurity risks that may cause transportation security incidents; and
+
+&emsp;&emsp;(vi) other security systems;
 
 &emsp;(D) identify, and ensure by contract or other means approved by the Secretary, the availability of security measures necessary to deter to the maximum extent practicable a transportation security incident or a substantial threat of such a security incident;
 
@@ -130,7 +136,7 @@ Vessel and Facility Security Plans.—(1) Within 6 months after the prescription
 
 &emsp;(C) approve any plan that meets the requirements of this subsection; and
 
-&emsp;(D) subject to the availability of appropriations, verify the effectiveness of each such facility security plan periodically, but not less than 2 times per year, at least 1 of which shall be an inspection of the facility that is conducted without notice to the facility.
+&emsp;(D) subject to the availability of appropriations, periodically, but not less than one timeper year, conduct a risk-based, no notice facility inspection to verify the effectiveness of each such facility security plan.
 
 (5) A vessel or facility for which a plan is required to be submitted under this subsection may not operate after the end of the 12-month period beginning on the date of the prescription of interim final regulations on vessel and facility security plans, unless—
 
@@ -196,9 +202,35 @@ In general.—When the Secretary submits the annual budget request for a fiscal 
 
 Especially hazardous cargo defined.—In this subsection, the term "especially hazardous cargo" means anhydrous ammonia, ammonium nitrate, chlorine, liquefied natural gas, liquiefied petroleum gas, and any other substance, material, or group or class of material, in a particular amount and form that the Secretary determines by regulation poses a significant risk of creating a transportation security incident while being transported in maritime commerce.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2069; amended Pub. L. 108–458, title IV, §4072(a), Dec. 17, 2004, 118 Stat. 3730; Pub. L. 109–347, title I, §§101–103, 113(c), Oct. 13, 2006, 120 Stat. 1887, 1888, 1896; Pub. L. 111–83, title V, §561(b), Oct. 28, 2009, 123 Stat. 2182; Pub. L. 111–281, title VIII, §§812(c), 826, Oct. 15, 2010, 124 Stat. 2997, 3004.)
+(f)
+
+Nondisclosure of Port Security Plans.—Notwithstanding any other provision of law, information related to security plans, procedures, or programs for passenger vessels or passenger terminals authorized under this chapter is not required to be disclosed to the public.
+
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2069; amended Pub. L. 108–458, title IV, §4072(a), Dec. 17, 2004, 118 Stat. 3730; Pub. L. 109–347, title I, §§101–103, 113(c), Oct. 13, 2006, 120 Stat. 1887, 1888, 1896; Pub. L. 111–83, title V, §561(b), Oct. 28, 2009, 123 Stat. 2182; Pub. L. 111–281, title VIII, §§812(c), 826, Oct. 15, 2010, 124 Stat. 2997, 3004; Pub. L. 115–254, div. J,§§1805(d)(2), 1806, Oct. 5, 2018, 132 Stat. 3535, 3536; Pub. L. 115–282, title IV, §§402(c), 408(d), Dec. 4, 2018, 132 Stat. 4264, 4268.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 1805(d) of Pub. L. 115–254 applicable to assessments or security plans, or updates to such assessments or plans, submitted after the date that the cybersecurity risk assessment model is developed under section 1805(a) of Pub. L. 115–254, set out as a note under section 70112 of this title. See 2018 Amendment notes below.</i>
+
+#### Codification
+
+Section 1226(c) of Title 33, Navigation and Navigable Waters, which was transferred and redesignated as subsec. (f) of this section by Pub. L. 115–282, title IV, §§402(c)(1), 408(d)(1), Dec. 4, 2018, 132 Stat. 4264, 4268, was based on section 7(c) of Pub. L. 92–340, as added by Pub. L. 104–324, title III, §302, Oct. 19, 1996, 110 Stat. 3917.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1805(d)(2)(A), substituted "The" for "Not later than April 1, 2005, the".
+
+Subsec. (a)(2)(K). Pub. L. 115–254, §1805(d)(2)(B), added subpar. (K).
+
+Subsec. (b)(2)(H), (I). Pub. L. 115–254, §1805(d)(2)(C), added subpar. (H) and redesignated former subpar. (H) as (I).
+
+Subsec. (c)(3)(v), (vi). Pub. L. 115–254, §1805(d)(2)(D), added cl. (v) and redesignated former cl. (v) as (vi).
+
+Subsec. (c)(4)(D). Pub. L. 115–254, §1806, amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "subject to the availability of appropriations, verify the effectiveness of each such facility security plan periodically, but not less than 2 times per year, at least 1 of which shall be an inspection of the facility that is conducted without notice to the facility."
+
+Subsec. (f). Pub. L. 115–282, §§402(c)(2), 408(d)(2), amended subsec. (f) identically, substituting "this chapter" for "this Act".
+
+Pub. L. 115–282, §§402(c)(1), 408(d)(1), amended section identically, redesignating and transferring subsec. (c) of section 7 of Pub. L. 92–340 as subsec. (f) of this section. See Codification note above.
 
 <b>2010</b>—Subsec. (b)(2)(E) to (H). Pub. L. 111–281, §826, added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
 
@@ -227,6 +259,10 @@ Subsec. (c)(4)(D). Pub. L. 109–347, §103, amended subpar. (D) generally. Prio
 Subsec. (c)(8). Pub. L. 109–347, §102(2), added par. (8).
 
 <b>2004</b>—Subsec. (a)(1). Pub. L. 108–458 substituted "Not later than April 1, 2005, the Secretary" for "The Secretary".
+
+#### Effective Date of 2018 Amendment
+
+Amendment of section by section 1805(d) of Pub. L. 115–254 applicable to assessments or security plans, or updates to such assessments or plans, submitted after the date that the cybersecurity risk assessment model is developed under subsection 1805(a) of Pub. L. 115–254, set out as a note under section 70112 of this title, see section 1805(d)(3) of Pub. L. 115–254, set out as a note under section 70102 of this title.
 
 #### Transfer of Functions
 

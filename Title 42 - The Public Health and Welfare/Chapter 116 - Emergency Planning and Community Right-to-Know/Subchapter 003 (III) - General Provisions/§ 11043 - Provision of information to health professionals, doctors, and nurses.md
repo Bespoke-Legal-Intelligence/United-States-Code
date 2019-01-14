@@ -28,7 +28,7 @@ An owner or operator of a facility which is subject to the requirements of secti
 
 #### (1) Provision of information
 
-&emsp;An owner or operator of a facility subject to the requirements of section 11021, 11022, or 11023 of this title shall provide the specific chemical identity, if known, of a hazardous chemical, an extremely hazardous substance, or a toxic chemical to any health professional (such as a physician, toxicologist, or epidemiologist)—
+&emsp;An owner or operator of a facility subject to the requirements of section 11021, 11022, or11023 of this title shall provide the specific chemical identity, if known, of a hazardous chemical, an extremely hazardous substance, or a toxic chemical to any health professional (such as a physician, toxicologist, or epidemiologist)—
 
 &emsp;&emsp;(A) who is a local government employee or a person under contract with the local government, and
 

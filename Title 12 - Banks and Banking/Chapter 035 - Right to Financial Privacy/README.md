@@ -24,6 +24,7 @@
 | [3420\.](%C2%A7%2003420%20-%20Grand%20jury%20information%3B%20notification%20of%20certain%20persons%20prohibited.md) | Grand jury information; notification of certain persons prohibited. |
 | [3421\.](%C2%A7%2003421%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20III%2C%20%C2%A73001%28d%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20734.md) | Repealed. |
 | [3422\.](%C2%A7%2003422%20-%20Applicability%20to%20Securities%20and%20Exchange%20Commission.md) | Applicability to Securities and Exchange Commission. |
+| [3423\.](%C2%A7%2003423%20-%20Immunity%20from%20suit%20for%20disclosure%20of%20financial%20exploitation%20of%20senior%20citizens.md) | Immunity from suit for disclosure of financial exploitation of senior citizens. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,3 +55,4 @@
 - [&sect; 03420 - Grand jury information; notification of certain persons prohibited](%C2%A7%2003420%20-%20Grand%20jury%20information%3B%20notification%20of%20certain%20persons%20prohibited.md)
 - [&sect; 03421 - Repealed. Pub. L. 104&#8211;66, title III, &sect;3001(d), Dec. 21, 1995, 109 Stat. 734](%C2%A7%2003421%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20III%2C%20%C2%A73001%28d%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20734.md)
 - [&sect; 03422 - Applicability to Securities and Exchange Commission](%C2%A7%2003422%20-%20Applicability%20to%20Securities%20and%20Exchange%20Commission.md)
+- [&sect; 03423 - Immunity from suit for disclosure of financial exploitation of senior citizens](%C2%A7%2003423%20-%20Immunity%20from%20suit%20for%20disclosure%20of%20financial%20exploitation%20of%20senior%20citizens.md)

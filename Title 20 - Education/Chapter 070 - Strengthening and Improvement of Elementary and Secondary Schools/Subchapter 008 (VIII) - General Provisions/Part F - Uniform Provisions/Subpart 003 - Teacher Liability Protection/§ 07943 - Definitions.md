@@ -40,7 +40,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(D) an individual member of a school board (as distinct from the board).
 
-(Pub. L. 89–10, title VIII, §8553, formerly title II, §2363, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1667; renumbered title IX, §9543,renumbered title VIII, §8553, Pub. L. 114–95, title II, §2001(a)(3)(A), (B), (D), title VIII, §8001(a)(7), Dec. 10, 2015, 129 Stat. 1913, 2088, 2089.)
+(Pub. L. 89–10, title VIII, §8553, formerly title II, §2363, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1667; renumbered title IX, §9543, renumbered title VIII, §8553, Pub. L. 114–95, title II, §2001(a)(3)(A), (B), (D), title VIII, §8001(a)(7), Dec. 10, 2015, 129 Stat. 1913, 2088, 2089.)
 
 #### Codification
 

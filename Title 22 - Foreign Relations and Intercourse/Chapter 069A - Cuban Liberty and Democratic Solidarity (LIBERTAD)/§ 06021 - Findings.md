@@ -12,7 +12,7 @@ The Congress makes the following findings:
 
 &emsp;&emsp;(D) the stated policy of the Russian Government and the countries of the former Soviet bloc to conduct economic relations with Cuba on strictly commercial terms.
 
-&emsp;(2) At the same time, the welfare and health of the Cuban people have substantially deteriorated as a result of this economic decline and the refusal of the Castro regime to permit free and fair democratic elections in Cuba.
+&emsp;(2) At the same time, the welfare and health of the Cuban people have substantially deteriorated as a result of this economic declineand the refusal of the Castro regime to permit free and fair democratic elections in Cuba.
 
 &emsp;(3) The Castro regime has made it abundantly clear that it will not engage in any substantive political reforms that would lead to democracy, a market economy, or an economic recovery.
 
@@ -30,7 +30,7 @@ The Congress makes the following findings:
 
 &emsp;(10) The Congress has historically and consistently manifested its solidarity and the solidarity of the American people with the democratic aspirations of the Cuban people.
 
-&emsp;(11) The Cuban Democracy Act of 1992 \[22 U.S.C. 6001 et seq.\] calls upon the President to encourage the governments of countries that conduct trade with Cuba to restrict their tradeand credit relations with Cuba in a manner consistent with the purposes of that Act.
+&emsp;(11) The Cuban Democracy Act of 1992 \[22 U.S.C. 6001 et seq.\] calls upon the President to encourage the governments of countries that conduct trade with Cuba to restrict their trade and credit relations with Cuba in a manner consistent with the purposes of that Act.
 
 &emsp;(12) Amendments to the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] made by the FREEDOM Support Act require that the President, in providing economic assistance to Russia and the emerging Eurasian democracies, take into account the extent to which they are acting to "terminate support for the communist regime in Cuba, including removal of troops, closing military facilities, and ceasing trade subsidies and economic, nuclear, and other assistance".
 
@@ -56,7 +56,7 @@ The Congress makes the following findings:
 
 &emsp;(23) Article 39 of Chapter VII of the United Nations Charter provides that the United Nations Security Council "shall determine the existence of any threat to the peace, breach of the peace, or act of aggression and shall make recommendations, or decide what measures shall be taken . . ., to maintain or restore international peace and security.".
 
-&emsp;(24) The United Nations has determined that massive and systematic violations of human rights may constitute a "threat to peace" under Article 39 and has imposed sanctions due to such violations of human rights in the cases of Rhodesia, South Africa, Iraq, and the former Yugoslavia.
+&emsp;(24) The United Nations has determined that massive and systematic violations of human rights may constitute a "threat to peace" under Article 39 and has imposed sanctionsdue to such violations of human rights in the cases of Rhodesia, South Africa, Iraq, and the former Yugoslavia.
 
 &emsp;(25) In the case of Haiti, a neighbor of Cuba not as close to the United States as Cuba, the United States led an effort to obtain and did obtain a United Nations Security Council embargo and blockade against that country due to the existence of a military dictatorship in power less than 3 years.
 

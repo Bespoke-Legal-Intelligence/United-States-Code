@@ -26,11 +26,9 @@
 
 &emsp;&emsp;&emsp;(iii) the basis of any property which is part of a qualifying advanced coal project under section 48A,
 
-&emsp;&emsp;&emsp;(iv) the basis of any property which is part of a qualifying gasification project under section 48B,
+&emsp;&emsp;&emsp;(iv) the basis of any property which is part of a qualifying gasification project under section 48B, and
 
-&emsp;&emsp;&emsp;(v) the basis of any property which is part of a qualifying advanced energy project under section 48C, and
-
-&emsp;&emsp;&emsp;(vi) the basis of any property to which paragraph (1) of section 48D(e) applies which is part of a qualifying therapeutic discovery project under such section 48D.
+&emsp;&emsp;&emsp;(v) the basis of any property which is part of a qualifying advanced energy project under section 48C.
 
 #### (D) Nonqualified nonrecourse financing
 
@@ -58,7 +56,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) except to the extent provided in regulations, any amount borrowed from a person who has an interest (other than as a creditor) in the activity in which the property is used or from a related person to a person (other than the taxpayer) having such an interest.
 
-&emsp;&emsp;&nbsp;In the case of amounts borrowed by a corporation from a shareholder, subclause (II) shall not apply to an interest as a share-holder.<sup>1</sup>
+&emsp;&emsp;&nbsp;In the case of amounts borrowed by a corporation from a shareholder, subclause (II) shall not apply to an interest as a shareholder.
 
 #### (iv) Qualified person
 
@@ -72,7 +70,7 @@
 
 #### (v) Related person
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "related person" has the meaninggiven such term by section 465(b)(3)(C). Except as otherwise provided in regulations prescribed by the Secretary, the determination of whether a person is a related person shall be made as of the close of the taxable year in which the property is placed in service.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "related person" has the meaning given such term by section 465(b)(3)(C). Except as otherwise provided in regulations prescribed by the Secretary, the determination of whether a person is a related person shall be made as of the close of the taxable year in which the property is placed in service.
 
 #### (E) Application to partnerships and S corporations
 
@@ -136,7 +134,7 @@
 
 #### (2) Transfers of debt more than 1 year after initial borrowing not treated as increasing nonqualified nonrecourse financing
 
-&emsp;For purposes of paragraph (1), the amount of nonqualified nonrecourse financing (within the meaning of subsection (a)(1)(D)) with respect to the taxpayer shall not be treated asincreased by reason of a transfer of (or agreement to transfer) any evidence of any indebtedness if such transfer occurs (or such agreement is entered into) more than 1 year after the date such indebtedness was incurred.
+&emsp;For purposes of paragraph (1), the amount of nonqualified nonrecourse financing (within the meaning of subsection (a)(1)(D)) with respect to the taxpayer shall not be treated as increased by reason of a transfer of (or agreement to transfer) any evidence of any indebtedness if such transfer occurs (or such agreement is entered into) more than 1 year after the date such indebtedness was incurred.
 
 #### (3) Special rules for certain energy property
 
@@ -146,7 +144,7 @@
 
 &emsp;Any increase in tax under paragraph (1) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
 
-(Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, title I, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–543; Pub. L. 105–206, title VI, §6004(g)(6), July 22, 1998, 112 Stat. 796; Pub. L. 109–58, title XIII, §1307(c)(1), Aug. 8, 2005, 119 Stat. 1006; Pub. L. 111–5, div. B, title I, §1302(c)(1), Feb. 17, 2009, 123 Stat. 347; Pub. L. 111–148, title IX, §9023(c)(1), Mar. 23, 2010, 124 Stat. 880.)
+(Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, title I, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–543; Pub. L. 105–206, title VI, §6004(g)(6), July 22, 1998, 112 Stat. 796; Pub. L. 109–58, title XIII, §1307(c)(1), Aug. 8, 2005, 119 Stat. 1006; Pub. L. 111–5, div. B, title I, §1302(c)(1), Feb. 17, 2009, 123 Stat. 347; Pub. L. 111–148, title IX, §9023(c)(1), Mar. 23, 2010, 124 Stat. 880; Pub. L. 115–141, div. U, title IV, §401(a)(24), (d)(3)(B)(i), Mar. 23, 2018, 132 Stat. 1185, 1209.)
 
 #### References in Text
 
@@ -157,6 +155,10 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 A prior section 49, Pub. L. 91–172, title VII, §703(a), Dec. 30, 1969, 83 Stat. 660; Pub. L. 92–178, title I, §101(b)(1)–(4), Dec. 10, 1971, 85 Stat. 498, 499, related to termination of rules for computing credit for investment in certain depreciable property for period beginning Apr. 19, 1969, and ending during 1971, prior to repeal by Pub. L. 95–600, title III, §312(c)(1), Nov. 6, 1978, 92 Stat. 2826, applicable to taxable years ending after Dec. 31, 1978.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(C)(vi). Pub. L. 115–141, §401(d)(3)(B)(i), struck out cl. (vi) which read as follows: "the basis of any property to which paragraph (1) of section 48D(e) applies which is part of a qualifying therapeutic discovery project under such section 48D."
+
+Subsec. (a)(1)(D)(iii). Pub. L. 115–141, §401(a)(24), substituted "shareholder" for "share-holder" in concluding provisions.
 
 <b>2010</b>—Subsec. (a)(1)(C)(vi). Pub. L. 111–148 added cl. (vi).
 
@@ -202,7 +204,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualifiedprogress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -260,6 +262,10 @@ Additional exceptions.—
 
 #### Savings Provision
 
+For provisions that amendment made by section 401(d)(3)(B)(i) of Pub. L. 115–141 not apply to expenditures made in taxable years beginning before Jan. 1, 2011, in the case of the repeal of section 48D(e)(1) of this title, see section 401(d)(3)(C) of Pub. L. 115–141, set out as a note under section 48D of this title.
+
+For provisions that nothing in amendment by section 401(d)(3)(B)(i) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Normalization Rules
@@ -295,6 +301,4 @@ Pub. L. 99–514, title II, §211(d), Oct. 22, 1986, 100 Stat. 2168, provided th
 &emsp;"(C) the limitation of section 168(f)(8)(D)(ii)(III) (as then in effect) shall be read by substituting 'the lessee's original cost basis.', for 'the adjusted basis of the lessee at the time of the lease.'
 
 "(3) The aggregate amount of property to which this paragraph shall apply shall not exceed $60,000,000."
-
-<i><sup>1</sup></i><i> So in original. Probably should not be hyphenated.</i>
 

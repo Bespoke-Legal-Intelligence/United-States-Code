@@ -52,7 +52,7 @@
 
 #### (C) Calculation for negative amortization
 
-&emsp;&emsp;In making any determination under this subsection, a creditor shall also take into consideration any balance increase that may accrue from any negative amortization provision.
+&emsp;&emsp;In making any determination under this subsection, a creditor shall also take intoconsideration any balance increase that may accrue from any negative amortization provision.
 
 #### (D) Calculation process
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;(v) in the case of an adjustable rate loan, for which the underwriting is based on the maximum rate permitted under the loan during the first 5 years, and a payment schedule that fully amortizes the loan over the loan term and takes into account all applicable taxes, insurance, and assessments;
 
-&emsp;&emsp;&emsp;(vi) that complies with any guidelines or regulations established by the Bureau relating to ratios of total monthly debt to monthly income or alternative measures of ability to pay regular expenses after payment of total monthly debt, taking into account the income levels of the borrower and such other factors as the Bureau may determine relevant and consistent with the purposes described in paragraph (3)(B)(i);
+&emsp;&emsp;&emsp;(vi) that complies with any guidelines or regulations established by the Bureau relating to ratios of total monthly debt to monthly income or alternative measures of ability to pay regular expenses afterpayment of total monthly debt, taking into account the income levels of the borrower and such other factors as the Bureau may determine relevant and consistent with the purposes described in paragraph (3)(B)(i);
 
 &emsp;&emsp;&emsp;(vii) for which the total points and fees (as defined in subparagraph (C)) payable in connection with the loan do not exceed 3 percent of the total loan amount;
 
@@ -134,7 +134,7 @@
 
 #### (ii) Computation
 
-&emsp;&emsp;&emsp;For purposes of computing the total points and fees under this subparagraph,the total points and fees shall exclude either of the amounts described in the following subclauses, but not both:
+&emsp;&emsp;&emsp;For purposes of computing the total points and fees under this subparagraph, the total points and fees shall exclude either of the amounts described in the following subclauses, but not both:
 
 &emsp;&emsp;&emsp;&emsp;(I) Up to and including 2 bona fide discount points payable by the consumer in connection with the mortgage, but only if the interest rate from which the mortgage's interest rate will be discounted does not exceed by more than 1 percentage point the average prime offer rate.
 
@@ -172,6 +172,60 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) meets any asset size threshold and any other criteria as the Bureau may establish, consistent with the purposes of this part.
 
+#### (F) Safe harbor
+
+#### (i) Definitions
+
+&emsp;&emsp;&emsp;In this subparagraph—
+
+&emsp;&emsp;&emsp;&emsp;(I) the term "covered institution" means an insured depository institution or an insured credit union that, together with its affiliates, has less than $10,000,000,000 in total consolidated assets;
+
+&emsp;&emsp;&emsp;&emsp;(II) the term "insured credit union" has the meaning given the term in section 1752 of title 12;
+
+&emsp;&emsp;&emsp;&emsp;(III) the term "insured depository institution" has the meaning given the term in section 1813 of title 12;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the term "interest-only" means that, under the terms of the legal obligation, one or more of the periodic payments may be applied solely to accrued interest and not to loan principal; and
+
+&emsp;&emsp;&emsp;&emsp;(V) the term "negative amortization" means payment of periodic payments that will result in an increase in the principal balance under the terms of the legal obligation.
+
+#### (ii) Safe harbor
+
+&emsp;&emsp;&emsp;In this section—
+
+&emsp;&emsp;&emsp;&emsp;(I) the term "qualified mortgage" includes any residential mortgage loan—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) that is originated and retained in portfolio by a covered institution;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that is in compliance with the limitations with respect to prepayment penalties described in subsections (c)(1) and (c)(3);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) that is in compliance with the requirements of clause (vii) of subparagraph (A);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) that does not have negative amortization or interest-only features; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) for which the covered institution considers and documents the debt, income, and financial resources of the consumer in accordance with clause (iv); and
+
+&emsp;&emsp;&emsp;&emsp;(II) a residential mortgage loan described in subclause (I) shall be deemed to meet the requirements of subsection (a).
+
+#### (iii) Exception for certain transfers
+
+&emsp;&emsp;&emsp;A residential mortgage loan described in clause (ii)(I) shall not qualify for the safe harbor under clause (ii) if the legal title to the residential mortgage loan is sold, assigned, or otherwise transferred to another person unless the residential mortgage loan is sold, assigned, or otherwise transferred—
+
+&emsp;&emsp;&emsp;&emsp;(I) to another person by reason of the bankruptcy or failure of a covered institution;
+
+&emsp;&emsp;&emsp;&emsp;(II) to a covered institution so long as the loan is retained in portfolio by the covered institution to which the loan is sold, assigned, or otherwise transferred;
+
+&emsp;&emsp;&emsp;&emsp;(III) pursuant to a merger of a covered institution with another person or the acquisition of a covered institution by another person or of another person by a covered institution, so long as the loan is retained in portfolio by the person to whom the loan is sold, assigned, or otherwise transferred; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) to a wholly owned subsidiary of a covered institution, provided that, after the sale, assignment, or transfer, the residential mortgage loan is considered to be an asset of the covered institution for regulatory accounting purposes.
+
+#### (iv) Consideration and documentation requirements
+
+&emsp;&emsp;&emsp;The consideration and documentation requirements described in clause (ii)(I)(ee) shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) not be construed to require compliance with, or documentation in accordance with, appendix Q to part 1026 of title 12, Code of Federal Regulations, or any successor regulation; and
+
+&emsp;&emsp;&emsp;&emsp;(II) be construed to permit multiple methods of documentation.
+
 #### (3) Regulations
 
 #### (A) In general
@@ -196,13 +250,31 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) The Rural Housing Service, with regard to loans insured by the Rural Housing Service.
 
+#### (C) Consideration of underwriting requirements for Property Assessed Clean Energy financing
+
+#### (i) Definition
+
+&emsp;&emsp;&emsp;In this subparagraph, the term "Property Assessed Clean Energy financing" means financing to cover the costs of home improvements that results in a tax assessment on the real property of the consumer.
+
+#### (ii) Regulations
+
+&emsp;&emsp;&emsp;The Bureau shall prescribe regulations that carry out the purposes of subsection (a) and apply section 1640 of this title with respect to violations under subsection (a) of this section with respect to Property Assessed Clean Energy financing, which shall account for the unique nature of Property Assessed Clean Energy financing.
+
+#### (iii) Collection of information and consultation
+
+&emsp;&emsp;&emsp;In prescribing the regulations under this subparagraph, the Bureau—
+
+&emsp;&emsp;&emsp;&emsp;(I) may collect such information and data that the Bureau determines is necessary; and
+
+&emsp;&emsp;&emsp;&emsp;(II) shall consult with State and local governments and bond-issuing authorities.
+
 #### (c) Prohibition on certain prepayment penalties
 
 #### (1) Prohibited on certain loans
 
 #### (A) In general
 
-&emsp;&emsp;A residential mortgage loan that is not a "qualified mortgage", as defined under subsection (b)(2), may not contain terms underwhich a consumer must pay a prepayment penalty for paying all or part of the principal after the loan is consummated.
+&emsp;&emsp;A residential mortgage loan that is not a "qualified mortgage", as defined under subsection (b)(2), may not contain terms under which a consumer must pay a prepayment penalty for paying all or part of the principal after the loan is consummated.
 
 #### (B) Exclusions
 
@@ -264,7 +336,7 @@ No creditor may finance, directly or indirectly, in connection with any resident
 
 #### (3) No waiver of statutory cause of action
 
-&emsp;No provision of any residential mortgage loan or of any extension of credit under an open end consumer credit plan secured by the principal dwelling of the consumer, and no other agreement between the consumer and the creditor relating to the residential mortgage loan or extension of credit referred to inparagraph (1), shall be applied or interpreted so as to bar a consumer from bringing an action in an appropriate district court of the United States, or any other court of competent jurisdiction, pursuant to section 1640 of this title or any other provision of law, for damages or other relief in connection with any alleged violation of this section, any other provision of this subchapter, or any other Federal law.
+&emsp;No provision of any residential mortgage loan or of any extension of credit under an open end consumer credit plan secured by the principal dwelling of the consumer, and no other agreement between the consumer and the creditor relating to the residential mortgage loan or extension of credit referred to in paragraph (1), shall be applied or interpreted so as to bar a consumer from bringing an action in an appropriate district court of the United States, or any other court of competent jurisdiction, pursuant to section 1640 of this title or any other provision of law, for damages or other relief in connection with any alleged violation of this section, any other provision of this subchapter, or any other Federal law.
 
 #### (f) Mortgages with negative amortization
 
@@ -308,11 +380,11 @@ In the case of any residential mortgage loan, a creditor shall disclose prior to
 
 This section and any regulations promulgated under this section do not apply to an extension of credit relating to a plan described in section 101(53D) of title 11.
 
-(Pub. L. 90–321, title I, §129C, as added and amended Pub. L. 111–203, title X, §1100A(2), title XIV, §§1411(a)(2), 1412, 1414(a), (c), (d), July 21, 2010, 124 Stat. 2107, 2142, 2145, 2149, 2152; Pub. L. 114–94, div. G, title LXXXIX, §89003(1), Dec. 4, 2015, 129 Stat. 1800.)
+(Pub. L. 90–321, title I, §129C, as added and amended Pub. L. 111–203, title X, §1100A(2), title XIV, §§1411(a)(2), 1412, 1414(a), (c), (d), July 21, 2010, 124 Stat. 2107, 2142, 2145, 2149, 2152; Pub. L. 114–94, div. G, title LXXXIX, §89003(1), Dec. 4, 2015, 129 Stat. 1800; Pub. L. 115–174, title I, §101, title III, §307, May 24, 2018, 132 Stat. 1297, 1347.)
 
 #### References in Text
 
-Section 1602(aa)(4) of this title, referred to in subsecs. (a)(5)(C) and (b)(2)(C)(i), was redesignated section 1602(bb)(4) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+Section 1602(aa)(4) of this title, referred to in subsecs. (a)(5)(C) and (b)(2)(C)(i), was redesignated section1602(bb)(4) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
 This part, referred to in subsec. (b)(2)(E)(iv)(IV), was in the original "this subtitle", and was translated as reading "this chapter", meaning chapter 2 of title I of Pub. L. 90–321, to reflect the probable intent of Congress. Title I of Pub. L. 90–321 does not contain subtitles.
 
@@ -321,6 +393,10 @@ The National Housing Act, referred to in subsec. (b)(3)(B)(ii)(I), is act June 2
 The Mortgage Reform and Anti-Predatory Lending Act, referred to in subsec. (c)(2)(C), is title XIV of Pub. L. 111–203, July 21, 2010, 124 Stat. 2136. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1601 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2)(F). Pub. L. 115–174, §101, added subpar. (F).
+
+Subsec. (b)(3)(C). Pub. L. 115–174, §307, added subpar. (C).
 
 <b>2015</b>—Subsec. (b)(2)(E)(iv)(I). Pub. L. 114–94 struck out "predominantly" after "operates".
 
@@ -336,7 +412,7 @@ Subsecs. (h), (i). Pub. L. 111–203, §1414(d), added subsecs. (h) and (i).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 1100A(2) of Pub. L. 111–203 effective on the designated transfer date, see section1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by section 1100A(2) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 Amendment by sections 1412 and 1414(a), (c), (d) of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date, if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 

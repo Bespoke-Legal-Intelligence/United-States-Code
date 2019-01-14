@@ -30,7 +30,7 @@ Pub. L. 98–369, div. A, title IV, §456, July 18, 1984, 98 Stat. 823, as amend
 
 "(a)
 
-In General.—Except as otherwise provided in this section the amendments made by this part \[part II (§§451–456) of subtitle D of title IV of div. A of Pub. L. 98–369, enacting this section and section 5102 of this title, amending sections 5005, 5062, 5066, 5116, 5134, 5179, 5204, 5206, 5207, 5214, 5215, 5235, 5301, 5354, 5555, 5604, 5613, 5615, 5691, 6103, 6801, and 7213 of this title, repealing section 5205 of this title, and omitting sections 5103, 5105, and 5106 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[July 18, 1984\].
+In General.—Except as otherwise provided in this section the amendments made by this part \[part II (§§451–456) of subtitle D of title IV of div. A of Pub. L. 98–369, enacting this section and section 5102 of this title, amending sections 5005, 5062, 5066, 5116, 5134, 5179, 5204, 5206, 5207, 5214, 5215, 5235, 5301, 5354, 5555, 5604, 5613, 5615, 5691, 6103, 6801, and 7213 of this title, repealing section 5205 of this title, and omitting sections 5103, 5105,and 5106 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[July 18, 1984\].
 
 "(b)
 

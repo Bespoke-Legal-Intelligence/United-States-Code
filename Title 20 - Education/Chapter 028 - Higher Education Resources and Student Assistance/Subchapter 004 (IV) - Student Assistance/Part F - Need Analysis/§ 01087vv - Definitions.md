@@ -4,11 +4,11 @@ As used in this part:
 
 #### (a) Total income
 
-(1)(A) Except as provided in subparagraph (B) and paragraph (2), the term "total income" isequal to adjusted gross income plus untaxed income and benefits for the preceding tax year minus excludable income (as defined in subsection (e)).
+(1)(A) Except as provided in subparagraph (B) and paragraph (2), the term "total income" is equal to adjusted gross income plus untaxed income and benefits for the preceding tax year minus excludable income (as defined in subsection (e)).
 
 (B) Notwithstanding section 1087rr(a) of this title, the Secretary may provide for the use of data from the second preceding tax year when and to the extent necessary to carry out the simplification of applications (including simplification for a subset of applications) used for the estimation and determination of financial aid eligibility. Such simplification may include the sharing of data between the Internal Revenue Service and the Department, pursuant to the consent of the taxpayer.
 
-(2) No portion of any student financial assistance received from any program by an individual, no portion of veterans' education benefits received by an individual, no portion of a national service educational award or post-service benefit received by an individual under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.), no portion of any tax credit taken under section 25A of title 26, and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax, shall be included as income or assets in the computation of expected family contribution for any program funded in whole or in part under this chapter.
+(2) No portion of any student financial assistance received from any program by an individual, no portion of veterans' education benefits received by an individual, no portion of a national service educational award or post-servicebenefit received by an individual under title I of the National and Community Service Act of 1990 (42 U.S.C. 12511 et seq.), no portion of any tax credit taken under section 25A of title 26, and no distribution from any qualified education benefit described in subsection (f)(3) that is not subject to Federal income tax, shall be included as income or assets in the computation of expected family contribution for any program funded in whole or in part under this chapter.
 
 #### (b) Untaxed income and benefits
 
@@ -88,7 +88,7 @@ As used in this part:
 
 &emsp;&emsp;(A) is 24 years of age or older by December 31 of the award year;
 
-&emsp;&emsp;(B) is an orphan, in foster care, or a ward of the court, or was an orphan, in fostercare, or a ward of the court at any time when the individual was 13 years of age or older;
+&emsp;&emsp;(B) is an orphan, in foster care, or a ward of the court, or was an orphan, in foster care, or a ward of the court at any time when the individual was 13 years of age or older;
 
 &emsp;&emsp;(C) is, or was immediately prior to attaining the age of majority, an emancipated minor or in legal guardianship as determined by a court of competent jurisdiction in the individual's State of legal residence;
 
@@ -100,7 +100,7 @@ As used in this part:
 
 &emsp;&emsp;(G) has legal dependents other than a spouse;
 
-&emsp;&emsp;(H) has been verified during the school year in which the application is submitted as either an unaccompanied youth who is a homeless child or youth (as such terms are defined in section 725 of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11434a\]), or as unaccompanied, at risk of homelessness, and self-supporting, by—
+&emsp;&emsp;(H) has been verified during the school year in which the application is submittedas either an unaccompanied youth who is a homeless child or youth (as such terms are defined in section 725 of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11434a\]), or as unaccompanied, at risk of homelessness, and self-supporting, by—
 
 &emsp;&emsp;&emsp;(i) a local educational agency homeless liaison, designated pursuant to section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11432(g)(1)(J)(ii)\];
 
@@ -178,7 +178,7 @@ The term "net assets" means the current market value at the time of application 
 
 #### (i) Current balance
 
-The term "current balance of checking and savings accounts" does not include any funds over which an individual is barred from exercising discretion and control because of the actions of any State in declaring a bank emergency due to the insolvency of a private deposit insurance fund.
+The term "current balance of checking and savings accounts" does not include any funds over which an individual is barred from exercising discretion and control because of the actions of any State in declaring a bank emergency dueto the insolvency of a private deposit insurance fund.
 
 #### (j) Other financial assistance
 
@@ -220,7 +220,7 @@ The term "business assets" means property that is used in the operation of a tra
 
 The term "special combat pay" means pay received by a member of the Armed Forces because of exposure to a hazardous situation.
 
-(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 109–171, title VIII, §8019, Feb. 8, 2006, 120 Stat. 176; Pub. L. 110–84, title VI, §604(a), Sept. 27, 2007, 121 Stat. 806; Pub. L. 110–153, §1(a), Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV,§473(a)–(e), Aug. 14, 2008, 122 Stat. 3270, 3271; Pub. L. 111–39, title IV, §406(a)(6)–(8), July 1, 2009, 123 Stat. 1949, 1950; Pub. L. 113–128, title V, §512(n)(4), July 22, 2014, 128 Stat. 1710.)
+(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 109–171, title VIII, §8019, Feb. 8, 2006, 120 Stat. 176; Pub. L. 110–84, title VI, §604(a), Sept. 27, 2007, 121 Stat. 806; Pub. L. 110–153, §1(a), Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV, §473(a)–(e), Aug. 14, 2008, 122 Stat. 3270, 3271; Pub. L. 111–39, title IV, §406(a)(6)–(8), July 1, 2009, 123 Stat. 1949, 1950; Pub. L. 113–128, title V, §512(n)(4), July 22, 2014, 128 Stat. 1710.)
 
 #### References in Text
 
@@ -380,7 +380,7 @@ Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provi
 
 Amendment by Pub. L. 105–244 effective Oct. 7, 1998, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
 
-Amendment by section 101(f) \[title VIII, §405(d)(15)(B)\] of Pub. L. 105–277 effective Oct. 21, 1998,and amendment by section 101(f) \[title VIII, §405(f)(12)(B)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(15)(B)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(12)(B)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1996 Amendment
 

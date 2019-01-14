@@ -6,7 +6,7 @@ If, upon inspection or investigation, the Secretary or his authorized representa
 
 #### (b) Posting
 
-Each citation issued under this section, or a copy or copies thereof, shall be prominentlyposted, as prescribed in regulations issued by the Secretary, at or near each place a violation referred to in the citation occurred.
+Each citation issued under this section, or a copy or copies thereof, shall be prominently posted, as prescribed in regulations issued by the Secretary, at or near each place a violation referred to in the citation occurred.
 
 #### (c) Time for issuance
 

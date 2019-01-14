@@ -42,7 +42,7 @@ For the purpose of this subchapter—
 
 &emsp;(8) "brother" and "sister" mean one who at the time of the death of the employee is under 18 years of age or over that age and incapable of self-support, and include stepbrothers and stepsisters, half brothers and half sisters, and brothers and sisters by adoption, but do not include married brothers or married sisters;
 
-&emsp;(9) "child" means one who at the time of the death of the employee is under 18 years of age or over that age and incapable of self-support, and includes stepchildren, adopted children, and posthumous children, but does not include married children;
+&emsp;(9) "child" means one who at the time of the death of the employee is under 18 years of ageor over that age and incapable of self-support, and includes stepchildren, adopted children, and posthumous children, but does not include married children;
 
 &emsp;(10) "grandchild" means one who at the time of the death of the employee is under 18 years of age or over that age and incapable of self-support;
 
@@ -244,7 +244,7 @@ Par. (1)(F), (G). Pub. L. 114–326, §2(b)(1)(B)–(D), transferred subpar. (F)
 
 <b>1983</b>—Par. (1)(F). Pub. L. 97–463 substituted "grand juror;" for "grand juror and who is otherwise an employee for the purposes of this subchapter as defined by paragraph (A), (B), (C), (D), and (E) of this subsection."
 
-<b>1980</b>—Pars. (19) to (21). Pub. L. 96–499 struck out par. (19) which defined "base month" as the month of July 1966 and each later month which was used as a basis forcalculating an increase under section 8146a of this title, and redesignated pars. (20) and (21) as (19) and (20), respectively.
+<b>1980</b>—Pars. (19) to (21). Pub. L. 96–499 struck out par. (19) which defined "base month" as the month of July 1966 and each later month which was used as a basis for calculating an increase under section 8146a of this title, and redesignated pars. (20) and (21) as (19) and (20), respectively.
 
 <b>1974</b>—Par. (1)(D). Pub. L. 93–416, §1(g), struck out "and" after the semicolon.
 

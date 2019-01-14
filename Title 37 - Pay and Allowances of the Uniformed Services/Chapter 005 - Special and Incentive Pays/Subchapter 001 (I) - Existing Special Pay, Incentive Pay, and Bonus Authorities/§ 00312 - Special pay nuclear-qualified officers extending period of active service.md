@@ -8,7 +8,7 @@ Special Pay Authorized; Eligibility.—Under regulations to be prescribed by the
 
 &emsp;(2) has the current technical qualification for duty in connection with supervision, operation, and maintenance of naval nuclear propulsion plants; and
 
-&emsp;(3) executes a written agreement to remain on active duty in connection with supervision, operation, and maintenance of naval nuclear propulsion plants for a period of not less than three years, so long as the new period of obligated active service does not extend beyond the end of 30 years of commissioned service, in addition to any other period of obligated active service.
+&emsp;(3) executes a written agreement to remain on active duty in connection with supervision, operation, and maintenance of naval nuclear propulsion plants for a period of not less thanthree years, so long as the new period of obligated active service does not extend beyond the end of 30 years of commissioned service, in addition to any other period of obligated active service.
 
 (b)
 
@@ -16,7 +16,7 @@ Payment Amount; Payment Options.—(1) The total amount paid to an officer under
 
 (2) The Secretary shall determine annually the necessity for continuance of the special pay and the rate of special pay per year for such active-service agreements accepted within each 12-month period.
 
-(3) Upon acceptance of an agreement under subsection (a) or (e)(1) by the Secretary, thetotal amount payable shall be paid in a single lump-sum or in annual installments of equal or different amounts over the length of the contract, commencing at the expiration of any existing period of obligated active service.
+(3) Upon acceptance of an agreement under subsection (a) or (e)(1) by the Secretary, the total amount payable shall be paid in a single lump-sum or in annual installments of equal or different amounts over the length of the contract, commencing at the expiration of any existing period of obligated active service.
 
 (4) The Secretary may accept an active service agreement under this section not more than one year in advance of the end of an officer's existing period of obligated active service under such an agreement. In such a case, the amount of the special pay may be paid commencing with the date of acceptance of the agreement, and, if the special pay will be paid in annual installments, the number of installments may not exceed the number of years covered by the agreement plus one.
 

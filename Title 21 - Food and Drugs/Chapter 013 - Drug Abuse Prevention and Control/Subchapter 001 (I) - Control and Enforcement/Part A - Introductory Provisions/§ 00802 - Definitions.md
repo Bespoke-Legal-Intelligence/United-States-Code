@@ -20,7 +20,7 @@ As used in this subchapter:
 
 (6) The term "controlled substance" means a drug or other substance, or immediate precursor, included in schedule I, II, III, IV, or V of part B of this subchapter. The term does not include distilled spirits, wine, malt beverages, or tobacco, as those terms are defined or used in subtitle E of the Internal Revenue Code of 1986.
 
-(7) The term "counterfeit substance" means a controlled substance which, or the container or labeling of which, without authorization, bearsthe trademark, trade name, or other identifying mark, imprint, number, or device, or any likeness thereof, of a manufacturer, distributor, or dispenser other than the person or persons who in fact manufactured, distributed, or dispensed such substance and which thereby falsely purports or is represented to be the product of, or to have been distributed by, such other manufacturer, distributor, or dispenser.
+(7) The term "counterfeit substance" means a controlled substance which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, number, or device, or any likeness thereof, of a manufacturer, distributor, or dispenser other than the person or persons who in fact manufactured, distributed, or dispensed such substance and which thereby falsely purports or is represented to be the product of, or to have been distributed by, such other manufacturer, distributor, or dispenser.
 
 (8) The terms "deliver" or "delivery" mean the actual, constructive, or attempted transfer of a controlled substance or a listed chemical, whether or not there exists an agency relationship.
 
@@ -46,7 +46,13 @@ As used in this subchapter:
 
 (15) The term "manufacture" means the production, preparation, propagation, compounding, or processing of a drug or other substance, either directly or indirectly or by extraction from substances of natural origin, or independently by means of chemical synthesis or by a combination of extraction and chemical synthesis, and includes any packaging or repackaging of such substance or labeling or relabeling of its container; except that such term does not include the preparation, compounding, packaging, or labeling of a drug or other substance in conformity with applicable State or local law by a practitioner as an incident to his administration or dispensing of such drug or substance in the course of his professional practice. The term "manufacturer" means a person who manufactures a drug or other substance.
 
-(16) The term "marihuana" means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin. Such term does not include the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
+(16)(A) Subject to subparagraph (B), the term "marihuana" means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin.
+
+(B) The term "marihuana" does not include—
+
+&emsp;(i) hemp, as defined in section 1639o of title 7; or
+
+&emsp;(ii) the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination.
 
 (17) The term "narcotic drug" means any of the following whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
 
@@ -470,7 +476,7 @@ As used in this subchapter:
 
 (48) The term "at retail", with respect to the sale or purchase of a scheduled listed chemical product, means a sale or purchase for personal use, respectively.
 
-(49)(A) The term "retail distributor" means a grocery store, general merchandise store, drug store, or other entity or person whose activitiesas a distributor relating to ephedrine, pseudoephedrine, or phenylpropanolamine products are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales.
+(49)(A) The term "retail distributor" means a grocery store, general merchandise store, drug store, or other entity or person whose activities as a distributor relating to ephedrine, pseudoephedrine, or phenylpropanolamine products are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales.
 
 (B) For purposes of this paragraph, entities are defined by reference to the Standard Industrial Classification (SIC) code, as follows:
 
@@ -576,7 +582,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(III) during which the primary care practitioner of the patient or a practitioner otherwise practicing telemedicine within the meaning of this paragraph is unable to provide care or consultation; and
 
-&emsp;&emsp;&emsp;(IV) that requires immediate intervention by a health care practitioner using controlled substances to prevent what the practitioner reasonably believes in good faith will be imminent and serious clinical consequences, such as further injury or death; and
+&emsp;&emsp;&emsp;(IV) that requires immediate intervention by a health care practitioner using controlled substances to prevent what thepractitioner reasonably believes in good faith will be imminent and serious clinical consequences, such as further injury or death; and
 
 &emsp;&emsp;(ii) by a practitioner that—
 
@@ -602,13 +608,33 @@ As used in this subchapter:
 
 &emsp;(C) the practitioner, acting in the usual course of professional practice, determines there is a legitimate medical purpose for the issuance of the new prescription.
 
-(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II,§507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821; Pub. L. 113–260, §2(a), Dec. 18, 2014, 128 Stat. 2929; Pub. L. 114–198, title III, §303(a)(2), July 22, 2016, 130 Stat. 722.)
+(57) <sup>1</sup> The term "suspicious order" may include, but is not limited to—
+
+&emsp;(A) an order of a controlled substance of unusual size;
+
+&emsp;(B) an order of a controlled substance deviating substantially from a normal pattern; and
+
+&emsp;(C) orders of controlled substances of unusual frequency.
+
+(57) <sup>1</sup> The term "serious drug felony" means an offense described in section 924(e)(2) of title 18 for which—
+
+&emsp;(A) the offender served a term of imprisonment of more than 12 months; and
+
+&emsp;(B) the offender's release from any term of imprisonment was within 15 years of the commencement of the instant offense.
+
+(58) The term "serious violent felony" means—
+
+&emsp;(A) an offense described in section 3559(c)(2) of title 18 for which the offender served a term of imprisonment of more than 12 months; and
+
+&emsp;(B) any offense that would be a felony violation of section 113 of title 18, if the offense were committed in the special maritime and territorial jurisdiction of the United States, for which the offender served a term of imprisonment of more than 12 months.
+
+(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821; Pub. L. 113–260, §2(a), Dec. 18, 2014, 128 Stat. 2929; Pub. L. 114–198, title III, §303(a)(2), July 22, 2016, 130 Stat. 722; Pub. L. 115–271, title III, §§3202(c), 3292(a), Oct. 24, 2018, 132 Stat. 3945, 3956; Pub. L. 115–334, title XII, §12619(a), Dec. 20, 2018, 132 Stat. 5018; Pub. L. 115–391, title IV, §401(a)(1), Dec. 21, 2018, 132 Stat. 5220.)
 
 #### References in Text
 
 Schedules I, II, III, IV, and V, referred to in pars. (6), (14), (32)(A), (52)(B)(viii), (55), and (56), are set out in section 812(c) of this title.
 
-This subchapter, referred to in introductory provisions and in pars. (34), (35), (39)(A)(iii), (vi), and (54), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in introductory provisions and in pars. (34), (35), (39)(A)(iii), (vi), and (54), was in the original "this title", meaning title II of Pub. L.91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
 Subchapter II, referred to in par. (39)(A)(iii), (vi), was in the original "title III", meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
@@ -619,6 +645,16 @@ This chapter, referred to in par. (41)(C)(i), was in the original "this Act", me
 The Indian Self-Determination and Education Assistance Act, referred to in pars. (52)(B)(iv) and (54)(C)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Par. (16). Pub. L. 115–334 designated first sentence as subpar. (A), substituted "Subject to subparagraph (B), the" for "The", inserted subpar. (B) designation, introductory provisions, and cl. (i), designated second sentence as cl. (ii) of subpar. (B), and substituted "the" for "Such term does not include the" in cl. (ii).
+
+Par. (24). Pub. L. 115–271, §3202(c), substituted "Health and Human Services" for "Health, Education, and Welfare".
+
+Par. (57). Pub. L. 115–391, §401(a)(1), added par. (57) defining the term "serious drug felony".
+
+Pub. L. 115–271, §3292(a), added par. (57) defining the term "suspicious order".
+
+Par. (58). Pub. L. 115–391, §401(a)(1), added par. (58).
 
 <b>2016</b>—Par. (18). Pub. L. 114–198 inserted "or 'opioid' " after "The term 'opiate' ".
 
@@ -666,7 +702,7 @@ Par. (35)(G). Pub. L. 104–237, §209(2), amended subpar. (G) generally, insert
 
 Par. (35)(I), (J). Pub. L. 104–237, §204(a), added subpars. (I) and (J).
 
-Par. (39)(A)(iv)(I)(aa). Pub. L. 104–237, §401(a)(1), (b)(1), substituted ", pseudoephedrine or its salts, optical isomers, or salts of optical isomers, or phenylpropanolamine or its salts, optical isomers, or salts of optical isomers unless otherwise provided by regulation of the Attorney General issued pursuant to section 814(e) of this title, except that any sale of ordinary over-the-counter pseudoephedrine or phenylpropanolamine products by retail distributors shall not be a regulatedtransaction (except as provided in section 401(d) of the Comprehensive Methamphetamine Control Act of 1996);" for "as the only active medicinal ingredient or contains ephedrine or its salts, optical isomers, or salts of optical isomers and therapeutically insignificant quantities of another active medicinal ingredient;".
+Par. (39)(A)(iv)(I)(aa). Pub. L. 104–237, §401(a)(1), (b)(1), substituted ", pseudoephedrine or its salts, optical isomers, or salts of optical isomers, or phenylpropanolamine or its salts, optical isomers, or salts of optical isomers unless otherwise provided by regulation of the Attorney General issued pursuant to section 814(e) of this title, except that any sale of ordinary over-the-counter pseudoephedrine or phenylpropanolamine products by retail distributors shall not be a regulated transaction (except as provided in section 401(d) of the Comprehensive Methamphetamine Control Act of 1996);" for "as the only active medicinal ingredient or contains ephedrine or its salts, optical isomers, or salts of optical isomers and therapeutically insignificant quantities of another active medicinal ingredient;".
 
 Par. (39)(A)(iv)(II). Pub. L. 104–237, §401(a)(2), (b)(2), inserted ", pseudoephedrine, phenylpropanolamine," after "ephedrine" and inserted before semicolon ", except that the threshold for any sale of products containing pseudoephedrine or phenylpropanolamine products by retail distributors or by distributors required to submit reports by section 830(b)(3) of this title shall be 24 grams of pseudoephedrine or 24 grams of phenylpropanolamine in a single transaction".
 
@@ -768,9 +804,9 @@ Par. (30). Pub. L. 98–473, §507(a), redesignated former par. (29) as (30).
 
 <b>1974</b>—Pars. (27), (28). Pub. L. 93–281 added pars. (27) and (28).
 
-#### Change of Name
+#### Effective Date of 2018 Amendment
 
-"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in par. (24) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+Pub. L. 115–391, title IV, §401(c), Dec. 21, 2018, 132 Stat. 5221, provided that: "This section \[amending this section and sections 841 and 960 of this title\], and the amendments made by this section, shall apply to any offense that was committed before the date of enactment of this Act \[Dec. 21, 2018\], if a sentence for the offense has not been imposed as of such date of enactment."
 
 #### Effective Date of 2008 Amendment
 
@@ -844,7 +880,7 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 #### Regulations
 
-Pub. L. 110–425, §3(k)(1), Oct. 15, 2008, 122 Stat. 4833, provided that: "The Attorney General may promulgate and enforce any rules, regulations, and procedures which may be necessary and appropriate for the efficient execution of functions under this Act \[see Short Title of 2008 Amendment note set out under section 801 of this title\] or the amendments made by this Act, and, with the concurrence of the Secretary of Health and Human Services where this Act or the amendments made by this Act so provide, promulgate any interim rules necessary for the implementation of this Act orthe amendments made by this Act, prior to its effective date \[see Effective Date of 2008 Amendment note above\]."
+Pub. L. 110–425, §3(k)(1), Oct. 15, 2008, 122 Stat. 4833, provided that: "The Attorney General may promulgate and enforce any rules, regulations, and procedures which may be necessary and appropriate for the efficient execution of functions under this Act \[see Short Title of 2008 Amendment note set out under section 801 of this title\] or the amendments made by this Act, and, with the concurrence of the Secretary of Health and Human Services where this Act or the amendments made by this Act so provide, promulgate any interim rules necessary for the implementation of this Act or the amendments made by this Act, prior to its effective date \[see Effective Date of 2008 Amendment note above\]."
 
 Pub. L. 98–509, title III, §301(b), Oct. 19, 1984, 98 Stat. 2364, provided that: "The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act \[Oct. 19, 1984\], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act \[21 U.S.C. 802(29)\] as amended by subsection (a) and shall include in the first report submitted under section 505(b) \[503(b)\] of the Public Health Service Act \[former 42 U.S.C. 290aa–2(b)\] after the expiration of such ninety days the findings of the Secretary with respect to the effect of the amendment made by subsection (a)."
 
@@ -923,4 +959,6 @@ Drugs for Treatment of Rare Diseases.—If the Attorney General finds that a dru
 "(b)
 
 Date of Issuance of Regulations.—The Attorney General shall issue regulations implementing this section not later than 45 days after the date of enactment of this Act \[Nov. 29, 1990\], except that the regulations required under section 3(a) \[former 1903(a)\] shall be issued not later than 180 days after the date of enactment of this Act."
+
+<i><sup>1</sup></i><i> So in original. Two pars. (57) have been enacted.</i>
 

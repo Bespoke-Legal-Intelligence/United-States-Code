@@ -8,7 +8,7 @@
 
 #### (2) Content
 
-&emsp;The Secretary shall conduct 1 or more pilot projects under paragraph (1) in coordination with the processed food sector and 1 or more such pilot projects in coordination with processors or distributors of fruits and vegetables that are raw agricultural commodities. The Secretary shall ensure that the pilot projects under paragraph (1) reflect the diversity of the food supply and include at least 3 different types of foods that have been the subject of significant outbreaks during the 5-year period preceding January 4, 2011, and are selected in order to—
+&emsp;The Secretary shall conduct 1 or more pilot projects under paragraph (1) in coordination with the processed food sector and 1 or more such pilot projects in coordination with processors or distributors of fruits and vegetables that are raw agricultural commodities. The Secretary shall ensure that the pilot projectsunder paragraph (1) reflect the diversity of the food supply and include at least 3 different types of foods that have been the subject of significant outbreaks during the 5-year period preceding January 4, 2011, and are selected in order to—
 
 &emsp;&emsp;(A) develop and demonstrate methods for rapid and effective tracking and tracing of foods in a manner that is practicable for facilities of varying sizes, including small businesses;
 
@@ -18,7 +18,7 @@
 
 #### (3) Report
 
-&emsp;Not later than 18 months after January 4, 2011, the Secretary shall report to Congress onthe findings of the pilot projects under this subsection together with recommendations for improving the tracking and tracing of food.
+&emsp;Not later than 18 months after January 4, 2011, the Secretary shall report to Congress on the findings of the pilot projects under this subsection together with recommendations for improving the tracking and tracing of food.
 
 #### (b) Additional data gathering
 
@@ -154,7 +154,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 &emsp;&emsp;&emsp;&emsp;(I) the term "commingled raw agricultural commodity" means any commodity that is combined or mixed after harvesting, but before processing;
 
-&emsp;&emsp;&emsp;&emsp;(II) the term "commingled raw agricultural commodity" shall not includetypes of fruits and vegetables that are raw agricultural commodities for which the Secretary has determined that standards promulgated under section 350h of this title (as added by section 105) <sup>2</sup> would minimize the risk of serious adverse health consequences or death; and
+&emsp;&emsp;&emsp;&emsp;(II) the term "commingled raw agricultural commodity" shall not include types of fruits and vegetables that are raw agricultural commodities for which the Secretary has determined that standards promulgated under section 350h of this title (as added by section 105) <sup>2</sup> would minimize the risk of serious adverse health consequences or death; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the term "processing" means operations that alter the general state of the commodity, such as canning, cooking, freezing, dehydration, milling, grinding, pasteurization, or homogenization.
 
@@ -210,7 +210,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 &emsp;&emsp;(B) presents a threat of serious adverse health consequences or death to humans or animals; and
 
-&emsp;&emsp;(C) was adulterated as described in subparagraph (A) on a particular farm (as defined in section 1.227 of chapter <sup>3</sup> 21, Code ofFederal Regulations (or any successor regulation)).
+&emsp;&emsp;(C) was adulterated as described in subparagraph (A) on a particular farm (as defined in section 1.227 of chapter <sup>3</sup> 21, Code of Federal Regulations (or any successor regulation)).
 
 #### (2) Manner of request
 

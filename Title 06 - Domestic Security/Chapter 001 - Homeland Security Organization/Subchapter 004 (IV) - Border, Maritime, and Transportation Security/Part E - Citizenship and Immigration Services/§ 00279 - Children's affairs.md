@@ -40,7 +40,7 @@ There are transferred to the Director of the Office of Refugee Resettlement of t
 
 &emsp;&emsp;&emsp;(v) the disposition of any actions in which the child is the subject;
 
-&emsp;&emsp;(K) collecting and compiling statistical information from the Department of Justice,the Department of Homeland Security, and the Department of State on each department's actions relating to unaccompanied alien children; and
+&emsp;&emsp;(K) collecting and compiling statistical information from the Department of Justice, the Department of Homeland Security, and the Department of State on each department's actions relating to unaccompanied alien children; and
 
 &emsp;&emsp;(L) conducting investigations and inspections of facilities and other entities in which unaccompanied alien children reside, including regular follow-up visits to such facilities, placements, and other entities, to assess the continued suitability of such placements.
 

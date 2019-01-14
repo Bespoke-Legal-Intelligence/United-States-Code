@@ -62,7 +62,7 @@ This amends 49:22106(b) to clarify the restatement of 49 App.:1654(d)(3) by sect
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–94 substituted "interest thereon" for "interest thereof".
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–432, §701(a)(1), struck out last sentence which read as follows: "The State shall decide on the financial terms of the grant or loan, except that the time for making grant advances shall comply with regulations of the Secretary of the Treasury."
+<b>2008</b>—Subsec. (a). Pub. L. 110–432, §701(a)(1), struck out last sentence which read as follows: "The Stateshall decide on the financial terms of the grant or loan, except that the time for making grant advances shall comply with regulations of the Secretary of the Treasury."
 
 Subsec. (b). Pub. L. 110–432, §701(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The State shall place the United States Government's share of money that is repaid in an interest-bearing account. However, the Secretary of Transportation may allow a borrower to place that money, for the benefit of the State, in a bank designated by the Secretary of the Treasury under section 10 of the Act of June 11, 1942 (12 U.S.C. 265). The State shall use the money and accumulated interest to make other grants and loans under this chapter in the same manner and under the same conditions as if they were originally granted to the State by the Secretary of Transportation."
 

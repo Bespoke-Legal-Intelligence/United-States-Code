@@ -24,7 +24,7 @@ A nonresident alien individual described in subsection (a) shall be taxable for 
 
 &emsp;(1) the gross income shall include only the gross income described in section 872(a) (as modified by subsection (d) of this section), and
 
-&emsp;(2) the deductions shall be allowed if and to the extent that they are connected with the gross income included under this section, except that the capital loss carryover provided by section 1212(b) shall not be allowed; and the proper allocation and apportionment of the deductions for this purpose shall be determined as provided under regulations prescribed by the Secretary.
+&emsp;(2) the deductions shall be allowed if and to the extent that they are connected with the gross income included under this section, except that the capital loss carryover provided by section 1212(b) shall not be allowed; and the proper allocation and apportionment of the deductions for this purpose shall be determinedas provided under regulations prescribed by the Secretary.
 
 > For purposes of paragraph (2), the deductions allowed by section 873(b) shall be allowed; and the deduction (for losses not connected with the trade or business if incurred in transactions entered into for profit) allowed by section 165(c)(2) shall be allowed, but only if the profit, if such transaction had resulted in a profit, would be included in gross income under this section. The tax imposed solely by reason of this section shall be reduced (but not below zero) by the amount of any income, war profits, and excess profits taxes (within the meaning of section 903) paid to any foreign country or possession of the United States on any income of the taxpayer on which tax is imposed solely by reason of this section.
 
@@ -112,11 +112,11 @@ For purposes of subsection (b)—
 
 #### (C) Exception
 
-&emsp;&emsp;Subparagraph (A) shall not apply if the individual enters into an agreement with the Secretary which specifies that any income or gain derived from the property acquired in the exchange (or any other property which has a basis determined in whole or part by reference to such property) during such 10-year period shall be treated as from sources within the United States. If the property transferred in the exchange is disposed of by the person acquiring such property, such agreement shall terminate and any gain which was not recognized by reason of such agreement shall be recognized as of the date of such disposition.
+&emsp;&emsp;Subparagraph (A) shall not apply if the individual enters into an agreement with the Secretary which specifies that any income or gain derived from the property acquired in the exchange (or any other property which has a basis determined in whole or part by reference to such property) duringsuch 10-year period shall be treated as from sources within the United States. If the property transferred in the exchange is disposed of by the person acquiring such property, such agreement shall terminate and any gain which was not recognized by reason of such agreement shall be recognized as of the date of such disposition.
 
 #### (D) Secretary may extend period
 
-&emsp;&emsp;To the extent provided in regulations prescribed by the Secretary, subparagraph (B) shall be applied by substituting the 15-year period beginning 5 years before the loss of United States citizenship for the 10-year period referred to therein. In the case of any exchange occurring during such 5 years, any gain recognized under this subparagraphshall be recognized immediately after such loss of citizenship.
+&emsp;&emsp;To the extent provided in regulations prescribed by the Secretary, subparagraph (B) shall be applied by substituting the 15-year period beginning 5 years before the loss of United States citizenship for the 10-year period referred to therein. In the case of any exchange occurring during such 5 years, any gain recognized under this subparagraph shall be recognized immediately after such loss of citizenship.
 
 #### (E) Secretary may require recognition of gain in certain cases
 
@@ -154,7 +154,7 @@ For purposes of subsection (b)—
 
 &emsp;&emsp;A corporation is described in this subparagraph with respect to an individual if, were such individual a United States citizen—
 
-&emsp;&emsp;&emsp;(i) such corporation would be a controlled foreign corporation (as defined in <sup>1</sup> 957), and
+&emsp;&emsp;&emsp;(i) such corporation would be a controlled foreign corporation (as defined in section 957), and
 
 &emsp;&emsp;&emsp;(ii) such individual would be a United States shareholder (as defined in section 951(b)) with respect to such corporation.
 
@@ -182,7 +182,7 @@ For purposes of subsection (b)—
 
 #### (2) Long-term resident
 
-&emsp;For purposes of this subsection, the term "long-term resident" means any individual (other than a citizen of the United States) who is a lawful permanent resident of the United States in at least 8 taxable years during the period of 15 taxable years ending with the taxable year during which the event described in paragraph (1) occurs. For purposes of the preceding sentence, an individual shall not be treated as a lawful permanent resident for any taxable year if such individual is treated as a resident of a foreign country for the taxable year under the provisions of a tax treaty between the United States and the foreign country and does not waive the benefits of such treaty applicable to residents of the foreign country.
+&emsp;For purposes of this subsection, the term "long-term resident" means any individual (other than a citizen of the United States) who is a lawful permanent resident of the United States in at least 8 taxable years during the period of 15 taxable years ending with the taxable year during which the event described in paragraph (1) occurs. For purposes of the preceding sentence, an individual shall not be treated as a lawful permanent resident for anytaxable year if such individual is treated as a resident of a foreign country for the taxable year under the provisions of a tax treaty between the United States and the foreign country and does not waive the benefits of such treaty applicable to residents of the foreign country.
 
 #### (3) Special rules
 
@@ -246,7 +246,7 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 This section shall not apply to any individual whose expatriation date (as defined in section 877A(g)(3)) is on or after the date of the enactment of this subsection.
 
-(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096; Pub. L. 108–357, title VIII, §804(a)(1), (2), (c), Oct. 22, 2004, 118 Stat. 1569, 1570; Pub. L. 109–135, title IV, §403(v)(1), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 110–245, title III, §301(c)(2)(A), (d), June 17, 2008, 122 Stat. 1646; Pub. L. 113–295, div. A, title II, §213(c)(2), Dec. 19, 2014, 128 Stat. 4034.)
+(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096; Pub. L. 108–357, title VIII, §804(a)(1), (2), (c), Oct. 22, 2004, 118 Stat. 1569, 1570; Pub. L. 109–135, title IV, §403(v)(1), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 110–245, title III, §301(c)(2)(A), (d), June 17, 2008, 122 Stat. 1646; Pub. L. 113–295, div. A, title II, §213(c)(2), Dec. 19, 2014, 128 Stat. 4034; Pub. L. 115–141, div. U, title IV, §401(a)(153), Mar. 23, 2018, 132 Stat. 1191.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -262,9 +262,11 @@ A prior section 877 was renumbered section 878 of this title.
 
 #### Amendments
 
+<b>2018</b>—Subsec. (d)(4)(B)(i). Pub. L. 115–141 substituted "in section 957" for "in 957".
+
 <b>2014</b>—Subsec. (e)(2). Pub. L. 113–295 struck out "subparagraph (A) or (B) of" after "event described in".
 
-<b>2008</b>—Subsec. (e)(1). Pub. L. 110–245, §301(c)(2)(A), amended par. (1) generally. Prior to amendment, textread as follows: "Any long-term resident of the United States who—
+<b>2008</b>—Subsec. (e)(1). Pub. L. 110–245, §301(c)(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: "Any long-term resident of the United States who—
 
 &emsp;"(A) ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)), or
 
@@ -429,6 +431,4 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 #### Plan Amendments Not Required Until January 1, 1994
 
 For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "section".</i>
 

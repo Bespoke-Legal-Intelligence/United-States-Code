@@ -124,7 +124,7 @@ Subsecs. (c), (d). Pub. L. 104–201, §578(f)(1), redesignated subsec. (d) as (
 
 "(c)
 
-Special Rule for Persons Classified as 'KIA/BNR'.—In the case of a person described in subsection (b) who was classified as 'killed in action/body not recovered', the case of that person may be reviewed under this section only if the new information referred to in subsection (a) is compelling."
+Special Rule for Persons Classified as 'KIA/BNR'.—In the case of a person described in subsection (b) who was classified as 'killed in action/body not recovered', the case of that person may be reviewed underthis section only if the new information referred to in subsection (a) is compelling."
 
 #### Implementation
 

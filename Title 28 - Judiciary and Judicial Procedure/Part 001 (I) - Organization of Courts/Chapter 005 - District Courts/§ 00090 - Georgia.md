@@ -86,7 +86,7 @@ Georgia is divided into three judicial districts to be known as the Northern, Mi
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §150 (Mar. 3, 1911, ch. 231, §77, 36 Stat. 1108; May 28, 1926, ch. 414, §§1, 2, 44 Stat. 670; Aug. 22, 1935, ch. 603, §§1–3, 49 Stat. 680, 681; June 20, 1936, ch. 639, 49 Stat. 1561; Aug. 21, 1937, ch. 728,§§1, 2, 50 Stat. 739, 740; Mar. 6, 1942, ch. 153, §§1–3, 56 Stat. 139; Oct. 29, 1945, ch. 435, 59 Stat. 550).
+Based on title 28, U.S.C., 1940 ed., §150 (Mar. 3, 1911, ch. 231, §77, 36 Stat. 1108; May 28, 1926, ch. 414, §§1, 2, 44 Stat. 670; Aug. 22, 1935, ch. 603, §§1–3, 49 Stat. 680, 681; June 20, 1936, ch. 639, 49 Stat. 1561; Aug. 21, 1937, ch. 728, §§1, 2, 50 Stat. 739, 740; Mar. 6, 1942, ch. 153, §§1–3, 56 Stat. 139; Oct. 29, 1945, ch. 435, 59 Stat. 550).
 
 Provisions for furnishing rooms and accommodations at Americus and Dublin were omitted as obsolete upon advice of the Director of the Administrative Office of the United States Courts that Federal accommodations are now available in each of those places.
 

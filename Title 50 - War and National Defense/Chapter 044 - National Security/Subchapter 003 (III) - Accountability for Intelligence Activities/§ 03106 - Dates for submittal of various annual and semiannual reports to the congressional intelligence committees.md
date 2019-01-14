@@ -66,7 +66,7 @@ Section was formerly classified to section 415b of this title prior to editorial
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(5), (6). Pub. L. 114–113, §701(c)(2), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: "The annual report on outside employment of employees of elements of the intelligence community required by section 3024(u)(2) of this title."
+<b>2015</b>—Subsec. (a)(5), (6). Pub. L. 114–113, §701(c)(2), redesignated par. (6) as (5) and struck out former par. (5)which read as follows: "The annual report on outside employment of employees of elements of the intelligence community required by section 3024(u)(2) of this title."
 
 Subsec. (c)(1). Pub. L. 114–113, §701(c)(3), substituted "subsection (a)" for "subsection (a)(1)".
 

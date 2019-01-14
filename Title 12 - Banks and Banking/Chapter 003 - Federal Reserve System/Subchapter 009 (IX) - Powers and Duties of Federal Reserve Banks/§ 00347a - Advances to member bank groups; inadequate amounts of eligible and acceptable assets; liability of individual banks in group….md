@@ -10,7 +10,7 @@ Member banks are authorized to obligate themselves in accordance with the provis
 
 #### References in Text
 
-Section 347b of this title, referred to in first par., was in the original a reference to section 10(b), meaning section 10(b) of the Federal Reserve Act. Section 10(b) of that Act was renumbered section 10B by Pub. L. 102–242, title I, §142(a)(2), Dec. 19, 1991, 105 Stat. 2279, without a corresponding amendment to this section.
+Section 347b of this title, referred to in first par., was in the original a reference to section 10(b), meaningsection 10(b) of the Federal Reserve Act. Section 10(b) of that Act was renumbered section 10B by Pub. L. 102–242, title I, §142(a)(2), Dec. 19, 1991, 105 Stat. 2279, without a corresponding amendment to this section.
 
 #### Change of Name
 

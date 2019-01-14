@@ -28,7 +28,7 @@ For the purpose of carrying out this part—
 
 &emsp;(3) there is authorized to be appropriated the sum of $17,500,000 for making advances pursuant to section 1072 of this title for the reserve funds of State and nonprofit private student loan insurance programs,
 
-&emsp;(4) there are authorized to be appropriated (A) the sum of $12,500,000 for making advances after June 30, 1968, pursuant to sections 1072(a) and (b) of this title, and (B) such sums as may be necessary for making advances pursuant tosection 1072(c) of this title, for the reserve funds of State and nonprofit private student loan insurance programs,
+&emsp;(4) there are authorized to be appropriated (A) the sum of $12,500,000 for making advances after June 30, 1968, pursuant to sections 1072(a) and (b) of this title, and (B) such sums as may be necessary for making advances pursuant to section 1072(c) of this title, for the reserve funds of State and nonprofit private student loan insurance programs,
 
 &emsp;(5) there are authorized to be appropriated such sums as may be necessary for the purpose of paying a loan processing and issuance fee in accordance with section 1078(f) of this title to guaranty agencies, and
 

@@ -52,7 +52,7 @@ Pub. L. 115–36, §6, June 2, 2017, 131 Stat. 852, provided that: "The amendmen
 
 &emsp;"(1) take effect on the date of enactment of this Act \[June 2, 2017\]; and
 
-&emsp;"(2) apply to any benefit claim or application under part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) \[now 34 U.S.C. 10281 et seq.\] that is—
+&emsp;"(2) apply to any benefit claim or application under part L of title I of the Omnibus Crime Control andSafe Streets Act of 1968 (42 U.S.C. 3796 et seq.) \[now 34 U.S.C. 10281 et seq.\] that is—
 
 &emsp;&emsp;"(A) pending before the Bureau of Justice Assistance on the date of enactment; or
 

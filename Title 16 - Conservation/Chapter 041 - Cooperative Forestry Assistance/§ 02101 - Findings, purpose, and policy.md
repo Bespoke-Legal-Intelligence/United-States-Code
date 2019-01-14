@@ -68,7 +68,7 @@ In allocating funds appropriated or otherwise made available under this chapter,
 
 &emsp;(1) Conserving and managing working forest landscapes for multiple values and uses.
 
-&emsp;(2) Protecting forests from threats, including catastrophic wildfires, hurricanes, tornados, windstorms, snow or ice storms, flooding, drought, invasive species, insect or disease outbreak, or development, and restoring appropriate forest types in response to such threats.
+&emsp;(2) Protecting forests from threats, including catastrophic wildfires, hurricanes, tornados, windstorms, snow or ice storms, flooding, drought, invasive species, insect or diseaseoutbreak, or development, and restoring appropriate forest types in response to such threats.
 
 &emsp;(3) Enhancing public benefits from private forests, including air and water quality, soil conservation, biological diversity, carbon storage, forest products, forestry-related jobs, production of renewable energy, wildlife, wildlife corridors and wildlife habitat, and recreation.
 
@@ -78,7 +78,7 @@ Not later than September 30, 2011, the Secretary shall submit to Congress a repo
 
 #### (e) Policy
 
-It is the policy of Congress that it is in the national interest for the Secretary to work through and in cooperation with State foresters,or equivalent State officials, nongovernmental organizations, and the private sector in implementing Federal programs affecting non-Federal forest lands.
+It is the policy of Congress that it is in the national interest for the Secretary to work through and in cooperation with State foresters, or equivalent State officials, nongovernmental organizations, and the private sector in implementing Federal programs affecting non-Federal forest lands.
 
 #### (f) Construction
 

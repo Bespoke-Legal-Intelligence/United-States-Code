@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) "torture" means an act committed by a person acting under the color of law specifically intended to inflict severe physical or mental pain or suffering (other than pain orsuffering incidental to lawful sanctions) upon another person within his custody or physical control;
+&emsp;(1) "torture" means an act committed by a person acting under the color of law specifically intended to inflict severe physical or mental pain or suffering (other than pain or suffering incidental to lawful sanctions) upon another person within his custody or physical control;
 
 &emsp;(2) "severe mental pain or suffering" means the prolonged mental harm caused by or resulting from—
 

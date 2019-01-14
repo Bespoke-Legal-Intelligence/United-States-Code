@@ -20,7 +20,7 @@ A direct or indirect contractual reference to a consensus standard for the purpo
 
 #### (d) Use of accredited laboratories
 
-In the case of fasteners manufactured solely to a consensus standard or standards, end-of-line testing required by the consensus standard orstandards, if any, for the purpose of verifying that a lot of fasteners conforms with the grade identification marking called for in the consensus standard or standards to which the lot of fasteners has been manufactured shall be conducted by an accredited laboratory.
+In the case of fasteners manufactured solely to a consensus standard or standards, end-of-line testing required by the consensus standard or standards, if any, for the purpose of verifying that a lot of fasteners conforms with the grade identification marking called for in the consensus standard or standards to which the lot of fasteners has been manufactured shall be conducted by an accredited laboratory.
 
 (Pub. L. 101–592, §4, as added Pub. L. 106–34, §4(a), June 8, 1999, 113 Stat. 121.)
 

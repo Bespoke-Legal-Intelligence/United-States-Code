@@ -56,7 +56,7 @@ The Secretary may conduct biomedical research, directly or through grants or con
 
 (1)(A) If a person is engaged in biomedical, behavioral, clinical, or other research, in which identifiable, sensitive information is collected (including research on mental health and research on the use and effect of alcohol and other psychoactive drugs), the Secretary, in coordination with other agencies, as applicable—
 
-&emsp;(i) shall issue to such person a certificate of confidentiality to protect the privacy of individuals who are the subjects of such researchif the research is funded wholly or in part by the Federal Government; and
+&emsp;(i) shall issue to such person a certificate of confidentiality to protect the privacy of individuals who are the subjects of such research if the research is funded wholly or in part by the Federal Government; and
 
 &emsp;(ii) may, upon application by a person engaged in research, issue to such person a certificate of confidentiality to protect the privacy of such individuals if the research is not so funded.
 
@@ -116,7 +116,7 @@ Subchapter I of chapter 35 of title 44 shall not apply to the voluntary collecti
 
 (1) The Secretary may make available to individuals and entities, for biomedical and behavioral research, substances and living organisms. Such substances and organisms shall be made available under such terms and conditions (including payment for them) as the Secretary determines appropriate.
 
-(2) Where research substances and living organisms are made available under paragraph (1) through contractors, the Secretary may direct such contractors to collect payments on behalf of the Secretary for the costs incurred to make available such substances and organisms and to forward amounts so collected to the Secretary, in the time and manner specified by the Secretary.
+(2) Where research substances and living organisms are made available under paragraph (1) through contractors, the Secretary may direct such contractors to collect payments on behalfof the Secretary for the costs incurred to make available such substances and organisms and to forward amounts so collected to the Secretary, in the time and manner specified by the Secretary.
 
 (3) Amounts collected under paragraph (2) shall be credited to the appropriations accounts that incurred the costs to make available the research substances and living organisms involved, and shall remain available until expended for carrying out activities under such accounts.
 
@@ -152,7 +152,7 @@ Subsec. (a)(8). Pub. L. 99–158, §3(a)(5)(B), substituted "recommendations of 
 
 <b>1976</b>—Subsecs. (c), (h). Pub. L. 94–278 substituted "heart, blood vessel, lung, and blood diseases and blood resources" for "heart diseases" and "National Heart, Lung and Blood Advisory Council" for "National Heart and Lung Advisory Council".
 
-<b>1974</b>—Subsec. (c). Pub. L. 93–348, §104(a)(1), redesignated subsec. (d) as (c) and substituted "research projects" for "research or research training projects" in two places, "general support of their research" for"general support of their research and research training programs" and "research grants-in-aid" for "research and research training program grants-in-aid". Former subsec. (c), authorizing Surgeon General to establish and maintain research fellowships in the Public Health Service with such stipends and allowances, including traveling and subsistence expenses, as he may deem necessary to procure the assistance of the most brilliant and promising research fellows from the United States and abroad, was struck out.
+<b>1974</b>—Subsec. (c). Pub. L. 93–348, §104(a)(1), redesignated subsec. (d) as (c) and substituted "research projects" for "research or research training projects" in two places, "general support of their research" for "general support of their research and research training programs" and "research grants-in-aid" for "research and research training program grants-in-aid".Former subsec. (c), authorizing Surgeon General to establish and maintain research fellowships in the Public Health Service with such stipends and allowances, including traveling and subsistence expenses, as he may deem necessary to procure the assistance of the most brilliant and promising research fellows from the United States and abroad, was struck out.
 
 Subsec. (d). Pub. L. 93–348, §104(a)(1)(C), redesignated subsec. (e) as (d).
 
@@ -234,7 +234,7 @@ Pub. L. 104–134, title I, §101(d) \[title V, §520\], Apr. 26, 1996, 110 Stat
 
 "(b) The Secretary of Health and Human Services shall do the following:
 
-&emsp;"(1) Compile data on the number of females living in the United States who have been subjected to female genital mutilation (whether in the UnitedStates or in their countries of origin), including a specification of the number of girls under the age of 18 who have been subjected to such mutilation.
+&emsp;"(1) Compile data on the number of females living in the United States who have been subjected to female genital mutilation (whether in the United States or in their countries of origin), including a specification of the number of girls under the age of 18 who have been subjected to such mutilation.
 
 &emsp;"(2) Identify communities in the United States that practice female genital mutilation, and design and carry out outreach activities to educate individuals in the communities on the physical and psychological health effects of such practice. Such outreach activities shall be designed and implemented in collaboration with representatives of the ethnic groups practicing such mutilation and with representatives of organizations with expertise in preventing such practice.
 

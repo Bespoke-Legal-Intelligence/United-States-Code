@@ -52,7 +52,7 @@ Notwithstanding any other provision of law, Alaska Natives shall remain eligible
 
 (4)(A) Congress confirms that Federal procurement programs for tribes and Alaska Native Corporations are enacted pursuant to its authority under Article I, Section 8 of the United States Constitution.
 
-(B) Contracting with an entity defined in subsections <sup>1</sup> (e)(1) or (e)(2) of this section or section1452(c) of title 25 shall be credited towards the satisfaction of a contractor's small or small disadvantaged business subcontracting goals under section 502 of P.L. 100–656, provided that where lower tier subcontractors exist, the entity shall designate the appropriate contractor or contractors to receive such credit.
+(B) Contracting with an entity defined in subsections <sup>1</sup> (e)(1) or (e)(2) of this section or section 1452(c) of title 25 shall be credited towards the satisfaction of a contractor's small or small disadvantaged business subcontracting goals under section 502 of P.L. 100–656, provided that where lower tier subcontractors exist, the entity shall designate the appropriate contractor or contractors to receive such credit.
 
 (C) Any entity that satisfies subsection (e)(1) or (e)(2) of this section that has been certified under section 637 of title 15 is a Disadvantaged Business Enterprise for the purposes of Public Law 105–178.
 

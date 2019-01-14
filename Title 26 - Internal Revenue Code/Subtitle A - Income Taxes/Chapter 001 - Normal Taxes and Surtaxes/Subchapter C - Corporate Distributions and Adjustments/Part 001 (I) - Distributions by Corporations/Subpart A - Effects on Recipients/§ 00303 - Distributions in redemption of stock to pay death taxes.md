@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A distribution of property to a shareholder by a corporation in redemption of part or all of the stock of such corporation which (for Federal estate tax purposes) is included in determining the gross estate of a decedent, to the extent that the amount of such distribution does not exceed the sum of—
+A distribution of property to a shareholder by a corporation in redemption of part or all of thestock of such corporation which (for Federal estate tax purposes) is included in determining the gross estate of a decedent, to the extent that the amount of such distribution does not exceed the sum of—
 
 &emsp;(1) the estate, inheritance, legacy, and succession taxes (including any interest collected as a part of such taxes) imposed because of such decedent's death, and
 
@@ -42,7 +42,7 @@ A distribution of property to a shareholder by a corporation in redemption of pa
 
 #### (4) Additional requirements for distributions made more than 4 years after decedent's death
 
-&emsp;In the case of amounts distributed more than 4 years after the date of the decedent'sdeath, subsection (a) shall apply to a distribution by a corporation only to the extent of the lesser of—
+&emsp;In the case of amounts distributed more than 4 years after the date of the decedent's death, subsection (a) shall apply to a distribution by a corporation only to the extent of the lesser of—
 
 &emsp;&emsp;(A) the aggregate of the amounts referred to in paragraph (1) or (2) of subsection (a) which remained unpaid immediately before the distribution, or
 

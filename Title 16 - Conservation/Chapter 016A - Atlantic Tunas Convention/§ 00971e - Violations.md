@@ -6,7 +6,7 @@ It shall be unlawful—
 
 &emsp;(1) for any person in charge of a fishing vessel or any fishing vessel subject to the jurisdiction of the United States to engage in fishing in violation of any regulation adopted pursuant to section 971d of this title; or
 
-&emsp;(2) for any person subject to the jurisdiction of the United States to ship, transport, purchase, sell, offer for sale, import, export, or have in custody, possession, or control any fish which he knows, or should have known, were taken or retained contrary to the recommendations of the Commission made pursuant to article VIII of the Convention and adopted as regulations pursuant to section 971d of this title, without regard to the citizenship of the person or vessel which took the fish.
+&emsp;(2) for any person subject to the jurisdiction of the United States to ship, transport, purchase, sell, offer for sale, import, export, orhave in custody, possession, or control any fish which he knows, or should have known, were taken or retained contrary to the recommendations of the Commission made pursuant to article VIII of the Convention and adopted as regulations pursuant to section 971d of this title, without regard to the citizenship of the person or vessel which took the fish.
 
 #### (b) Failure to furnish returns, records, or reports
 
@@ -22,7 +22,7 @@ It shall be unlawful for any person to import, in violation of any regulation ad
 
 #### (e) Applicability of other laws
 
-All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of suchforfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
+All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
 
 (Pub. L. 94–70, §7, Aug. 5, 1975, 89 Stat. 390; Pub. L. 104–43, title III, §306, Nov. 3, 1995, 109 Stat. 385; Pub. L. 105–384, title II, §202(b)(1)(F), Nov. 13, 1998, 112 Stat. 3453; Pub. L. 114–81, title I, §107(2), Nov. 5, 2015, 129 Stat. 658.)
 

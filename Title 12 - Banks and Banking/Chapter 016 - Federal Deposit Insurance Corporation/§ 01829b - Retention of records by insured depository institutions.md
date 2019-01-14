@@ -22,7 +22,7 @@
 
 #### (2) Domestic funds transfers
 
-&emsp;Whenever the Secretary and the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the "Board") determine that the maintenance of records, by insured depository institutions, of payment orders which direct transfers of funds over wholesale funds transfer systems has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, the Secretary and the Board shall jointly prescribe regulations to carry out the purposes ofthis section with respect to the maintenance of such records.
+&emsp;Whenever the Secretary and the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the "Board") determine that the maintenance of records, by insured depository institutions, of payment orders which direct transfers of funds over wholesale funds transfer systems has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, the Secretary and the Board shall jointly prescribe regulations to carry out the purposes of this section with respect to the maintenance of such records.
 
 #### (3) International funds transfers
 
@@ -92,7 +92,7 @@ The provisions of this section shall not apply to any foreign bank except with r
 
 #### (3) Assessment
 
-&emsp;Any penalty imposed under paragraph (1) shall be assessed, mitigated, and collected in the manner provided in subsections (b) and (c) of section 5321 of title 31.
+&emsp;Any penalty imposed under paragraph (1) shall be assessed, mitigated, and collected inthe manner provided in subsections (b) and (c) of section 5321 of title 31.
 
 (Sept. 21, 1950, ch. 967, §2\[21\], as added Pub. L. 91–508, title I, §101, Oct. 26, 1970, 84 Stat. 1114; amended Pub. L. 95–369, §6(c)(29), Sept. 17, 1978, 92 Stat. 620; Pub. L. 100–690, title VI, §6185(d)(1), Nov. 18, 1988, 102 Stat. 4356; Pub. L. 101–73, title II, §201(a), Aug. 9, 1989, 103 Stat. 187; Pub. L. 102–550, title XV, §§1515(a), (b), 1535(b), Oct. 28, 1992, 106 Stat. 4058, 4059, 4066; Pub. L. 103–325, title VI, §602(a)(52)–(54), Sept. 23, 1994, 108 Stat. 2290; Pub. L. 107–56, title III, §358(d), Oct. 26, 2001, 115 Stat. 326; Pub. L. 108–458, title VI, §6203(k), Dec. 17, 2004, 118 Stat. 3747.)
 

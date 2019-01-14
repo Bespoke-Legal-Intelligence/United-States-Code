@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) This subchapter may not be construed as having any effect on the authorities of the Secretary under HIPAA privacy and security law.
 
-&emsp;&emsp;(B) The purposes of this subchapter include ensuring that the health informationtechnology standards and implementation specifications adopted under section 300jj–14 of this title take into account the requirements of HIPAA privacy and security law.
+&emsp;&emsp;(B) The purposes of this subchapter include ensuring that the health information technology standards and implementation specifications adopted under section 300jj–14 of this title take into account the requirements of HIPAA privacy and security law.
 
 #### (2) Definition
 
@@ -76,7 +76,7 @@ The National Coordinator and the Office for Civil Rights of the Department of He
 
 &emsp;&emsp;(A) the certification criteria support—
 
-&emsp;&emsp;&emsp;(i) patient access to their electronic health information, including in a singlelongitudinal format that is easy to understand, secure, and may be updated automatically;
+&emsp;&emsp;&emsp;(i) patient access to their electronic health information, including in a single longitudinal format that is easy to understand, secure, and may be updated automatically;
 
 &emsp;&emsp;&emsp;(ii) the patient's ability to electronically communicate patient-reported information (such as family history and medical history); and
 

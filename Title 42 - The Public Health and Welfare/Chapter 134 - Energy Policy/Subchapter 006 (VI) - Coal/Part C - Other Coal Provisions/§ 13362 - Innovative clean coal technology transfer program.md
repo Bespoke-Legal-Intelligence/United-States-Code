@@ -30,7 +30,7 @@ The purposes of the technology transfer program under this section are to—
 
 #### (c) Identification
 
-Pursuant to the agreements required by subsection (a), the Secretary, through the Agency for International Development, and after consultation with the CCT Subgroup, United States firms, and representatives from foreign countries, shall develop mechanisms to identify potential energy projects in host countries, and shall identify a list of such projects within 240 days after October 24, 1992, and periodically thereafter.
+Pursuant to the agreements required by subsection (a), the Secretary, through the Agency for International Development, and after consultation with the CCT Subgroup, United Statesfirms, and representatives from foreign countries, shall develop mechanisms to identify potential energy projects in host countries, and shall identify a list of such projects within 240 days after October 24, 1992, and periodically thereafter.
 
 #### (d) Financial mechanisms
 

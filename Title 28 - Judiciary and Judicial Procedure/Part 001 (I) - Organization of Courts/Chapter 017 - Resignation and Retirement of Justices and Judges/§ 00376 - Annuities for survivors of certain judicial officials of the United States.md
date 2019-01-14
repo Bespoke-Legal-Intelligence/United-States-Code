@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(A) an unmarried child under eighteen years of age, including (i) an adopted child and (ii) a stepchild or recognized natural child who lived with the judicial official in a regular parent-child relationship;
 
-&emsp;&emsp;(B) such unmarried child between eighteen and twenty-two years of age who is a student regularly pursuing a full-time course of study or training in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable educational institution. A child whose twenty-second birthday occursbefore July 1, or after August 31, of a calendar year, and while he or she is regularly pursuing such a course of study or training, is deemed to have become twenty-two years of age on the first day of July immediately following that birthday. A child who is a student is deemed not to have ceased being a student during an interim period between school years, if that interim period lasts no longer than five consecutive months and if that child shows, to the satisfaction of the Director of the Administrative Office of the United States Courts, that he or she has a bona fide intention of continuing to pursue a course of study or training in the same or a different school during the school semester, or other period into which the school year is divided, immediately following that interim period; or
+&emsp;&emsp;(B) such unmarried child between eighteen and twenty-two years of age who is a student regularly pursuing a full-time course of study or training in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable educational institution. A child whose twenty-second birthday occurs before July 1, or after August 31, of a calendar year, and while he or she is regularly pursuing such a course of study or training, is deemed to have become twenty-two years of age on the first day of July immediately following that birthday. A child who is a student is deemed not to have ceased being a student during an interim period between school years, if that interim period lasts no longer than five consecutive months and if that child shows, to the satisfaction of the Director of the Administrative Office of the United States Courts, that he or she has a bona fide intention of continuing to pursue a course of study or training in the same or a different school during the school semester, or other period into which the school year is divided, immediately following that interim period; or
 
 &emsp;&emsp;(C) such unmarried child, regardless of age, who is incapable of self-support because of a mental or physical disability incurred either (i) before age eighteen, or (ii) in the case of a child who is receiving an annuity as a full-time student under paragraph (5)(B) of this subsection, before the termination of that annuity;
 
@@ -86,7 +86,7 @@
 
 (3) There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
 
-(d) Each judicial official shall deposit, with interest at 4 percent per annum to December 31,1947, and at 3 percent per annum thereafter, compounded on December 31 of each year, to the credit of the "Judicial Survivors' Annuities Fund":
+(d) Each judicial official shall deposit, with interest at 4 percent per annum to December 31, 1947, and at 3 percent per annum thereafter, compounded on December 31 of each year, to the credit of the "Judicial Survivors' Annuities Fund":
 
 &emsp;(1) a sum equal to 3.5 percent of that salary, including "retirement salary", which he or she has received for serving in any of the offices designated in paragraph (1) of subsection (a) of this section prior to the date upon which he or she filed notice of an intention to come within the purview of this section with the Director of the Administrative Office of the United States Courts; and
 
@@ -154,7 +154,7 @@ Notwithstanding the failure of any such judicial official to make all such depos
 
 (k) The years of service rendered by a judicial official which may be creditable in calculating the amount of an annuity for such judicial official's widow or widower under subsection (l) of this section shall include—
 
-&emsp;(1) those years during which such judicial official served in any of the offices designated inparagraph (1) of subsection (a) of this section, including in the case of a Justice or judge of the United States those years during which he or she continued to hold office following retirement from regular active service under section 371 or subsection (a) of section 372 of this title;
+&emsp;(1) those years during which such judicial official served in any of the offices designated in paragraph (1) of subsection (a) of this section, including in the case of a Justice or judge of the United States those years during which he or she continued to hold office following retirement from regular active service under section 371 or subsection (a) of section 372 of this title;
 
 &emsp;(2) those years during which such judicial official served as a Senator, Representative, Delegate, or Resident Commissioner in Congress, prior to assuming the responsibilities of any of the offices designated in paragraph (1) of subsection (a) of this section;
 
@@ -164,7 +164,7 @@ Notwithstanding the failure of any such judicial official to make all such depos
 
 &emsp;(5) those years during which such judicial official had deductions withheld from his or her retirement salary in accordance with subsection (b)(1) or (2) of this section.
 
-> For the purposes of this subsection the term "years" shall mean full years and twelfth parts thereof, excluding from the aggregate any fractional part of a month which numbers less than fifteen full days and including, as one full month, any fractional part of a month which numbers fifteen full days or more. Nothing in this subsection shall be interpreted as waiving or canceling that reduction in the annuity of a widow or widower which is required by subsection (d) of this section due to the failure of a judicial official to make those deposits required by subsection (d) of this section.
+> For the purposes of this subsection the term "years" shall mean full years and twelfth parts thereof, excluding from the aggregate any fractional part of a month which numbers less than fifteen full days and including, as one full month, any fractional part of a month which numbers fifteen full days or more. Nothing inthis subsection shall be interpreted as waiving or canceling that reduction in the annuity of a widow or widower which is required by subsection (d) of this section due to the failure of a judicial official to make those deposits required by subsection (d) of this section.
 
 (l) The annuity of a widow or widower of a judicial official shall be an amount equal to the sum of—
 
@@ -212,7 +212,7 @@ Notwithstanding the failure of any such judicial official to make all such depos
 
 &emsp;Sixth, if none of the above, to such other next of kin of such judicial official, as may be determined by the Director of the Administrative Office of the United States Courts to be entitled to such payment, under the laws of the domicile of such judicial official, at the time of his or her death.
 
-> Such payment shall be a bar to recovery by any other person. For the purposes of this subsection only, a determination that an individual is a widow, widower, or child of a judicial official may be made by the Director of the Administrative Office of the United States Courts without regard to the definitions of those terms contained in paragraphs (3), (4), and (5) of subsection (a) of this section.
+> Such payment shall be a bar to recovery by any other person. For the purposes of this subsection only, a determination that an individual is a widow, widower, or child of a judicial official may be made by the Director of the Administrative Office of the United States Courts withoutregard to the definitions of those terms contained in paragraphs (3), (4), and (5) of subsection (a) of this section.
 
 (2) In cases in which a judicial official dies as a result of assassination and leaves a survivor or survivors who are entitled to receive the annuity benefits provided by subsection (h) or (t) of this section, paragraph (1)(A) of this subsection shall not apply.
 
@@ -242,7 +242,7 @@ Notwithstanding the failure of any such judicial official to make all such depos
 
 > The Director of the Administrative Office of the United States Courts shall provide by regulation that paragraph (2) of this subsection may be waived if the judicial official establishes to the satisfaction of the Director that the spouse's whereabouts cannot be determined, or that, due to exceptional circumstances, requiring the judicial official to seek the spouse's consent would otherwise be inappropriate.
 
-(t)(1) Subject to paragraphs (2) through (4) of this subsection, a former spouse of a deceased judicial official is entitled to a survivor annuityunder this section if and to the extent expressly provided for in an election under subsection (s), or in the terms of any decree of divorce or annulment or any court order or court-approved property settlement agreement incident to such decree.
+(t)(1) Subject to paragraphs (2) through (4) of this subsection, a former spouse of a deceased judicial official is entitled to a survivor annuity under this section if and to the extent expressly provided for in an election under subsection (s), or in the terms of any decree of divorce or annulment or any court order or court-approved property settlement agreement incident to such decree.
 
 (2) The annuity payable to a former spouse under this subsection may not exceed the difference between—
 
@@ -466,7 +466,7 @@ Lump-sum payment.—Any amounts becoming payable to the widow or widower under t
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–572, title II, §202, Oct. 29, 1992, 106 Stat. 4511, provided that: "This title \[amending this section and enacting provisions set out below\] and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 29, 1992\]."
+Pub. L. 102–572, title II, §202, Oct. 29, 1992, 106 Stat. 4511, provided that: "This title \[amending this sectionand enacting provisions set out below\] and the amendments made by this title shall take effect on the date of the enactment of this Act \[Oct. 29, 1992\]."
 
 Amendment by section 902(b) of Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
 
@@ -652,7 +652,7 @@ Pub. L. 96–504, §3, Dec. 5, 1980, 94 Stat. 2741, provided that:
 
 "(a) As of the first pay period beginning after the effective date of this Act \[Dec. 5, 1980\], a surviving spouse, other than a surviving spouse who has remarried, of any Justice of the United States (as defined by section 451 of title 28, United States Code), who died before October 19, 1976, shall be paid an annuity in accordance with the provisions of section 376 of title 28, United States Code, at a rate of $20,000 per year as if such Justice had elected to come within the provisions of, and having made the full deposit required by, section 376(d) of title 28, United States Code.
 
-"(b) Notwithstanding the provisions of section 376(h) of title 28, United States Code, such annuity shall bepayable as provided in section 376(m) of title 28, United States Code, until the date of the death of any such spouse."
+"(b) Notwithstanding the provisions of section 376(h) of title 28, United States Code, such annuity shall be payable as provided in section 376(m) of title 28, United States Code, until the date of the death of any such spouse."
 
 #### Judicial Survivors' Annuity Fund; Authorization of Appropriations
 

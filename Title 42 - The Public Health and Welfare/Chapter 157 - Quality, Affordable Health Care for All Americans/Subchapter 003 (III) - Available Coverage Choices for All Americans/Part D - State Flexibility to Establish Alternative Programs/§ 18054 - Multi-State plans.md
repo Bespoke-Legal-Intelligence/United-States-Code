@@ -16,7 +16,7 @@
 
 #### (4) Administration
 
-&emsp;The Director shall implement this subsection in a manner similar to the manner in which the Director implements the contracting provisions with respect to carriers under the Federal employees health benefit program <sup>1</sup> under chapter 89 of title 5, including\(through negotiating with each multi-state <sup>2</sup> plan)—
+&emsp;The Director shall implement this subsection in a manner similar to the manner in which the Director implements the contracting provisions with respect to carriers under the Federal employees health benefit program <sup>1</sup> under chapter 89 of title 5, including (through negotiating with each multi-state <sup>2</sup> plan)—
 
 &emsp;&emsp;(A) a medical loss ratio;
 
@@ -116,7 +116,7 @@ The requirements under chapter 89 of title 5 applicable to health benefits plans
 
 #### (1) Maintenance of effort
 
-&emsp;Nothing in this section shall be construed to permit the Director to allocate fewer financial or personnel resources to the functions of the Office of Personnel Management related to the administration of the Federal Employees Health Benefit Program under chapter 89 of title 5.
+&emsp;Nothing in this section shall be construed to permit the Director to allocate fewer financial or personnel resources to the functions of the Office of Personnel Management related to the administration of the Federal EmployeesHealth Benefit Program under chapter 89 of title 5.
 
 #### (2) Separate risk pool
 

@@ -40,7 +40,7 @@ Use of assistance.—Financial assistance provided under paragraph (1) shall be 
 
 (c)
 
-Solicitation of Applications for Assistance.—Not later than 180 days after the date of enactment of this subsection, the Secretary shall solicit applications from States, or authorities designated by 1 or more States, for financial assistance authorized by subsection (b)for planning, design, and construction of eligible MAGLEV projects.
+Solicitation of Applications for Assistance.—Not later than 180 days after the date of enactment of this subsection, the Secretary shall solicit applications from States, or authorities designated by 1 or more States, for financial assistance authorized by subsection (b) for planning, design, and construction of eligible MAGLEV projects.
 
 (d)
 
@@ -184,7 +184,7 @@ Availability.—Notwithstanding section 118(a), funds made available under subpa
 
 #### References in Text
 
-Section 1036 of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (a)(4), is section 1036 of Pub. L. 102–240, title I, Dec. 18, 1991, 105 Stat. 1978, which enacted section 309 of Title 49, Transportation, amended section 831 of Title 45, Railroads, and section 302 of Title 49, and enacted provisions set out as notes under section 831 of Title 45 and section 309 of Title 49.
+Section 1036 of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (a)(4), is section 1036 of Pub. L. 102–240, title I, Dec. 18,1991, 105 Stat. 1978, which enacted section 309 of Title 49, Transportation, amended section 831 of Title 45, Railroads, and section 302 of Title 49, and enacted provisions set out as notes under section 831 of Title 45 and section 309 of Title 49.
 
 The date of enactment of this subsection, referred to in subsec. (c), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
@@ -238,7 +238,7 @@ Eligible project costs.—The term 'eligible project costs'—
 
 &emsp;"(2)
 
-Full project costs.—The term 'full project costs' means the total capital costs of a MAGLEVproject, including eligible project costs and the costs of stations, vehicles, and equipment.
+Full project costs.—The term 'full project costs' means the total capital costs of a MAGLEV project, including eligible project costs and the costs of stations, vehicles, and equipment.
 
 &emsp;"(3) MAGLEV.—The term 'MAGLEV' means transportation systems employing magnetic levitation that would be capable of safe use by the public at a speed in excess of 240 miles per hour.
 
@@ -288,7 +288,7 @@ Contract Authority.—Funds authorized under section 1101(a)(18) \[119 Stat. 115
 
 #### Advanced Technology Pilot Project
 
-Pub. L. 105–178, title III, §3015(c), June 9, 1998, 112 Stat. 361, as amended by Pub. L. 105–206, title IX, §9009(k)(1), July 22, 1998, 112 Stat. 857; Pub. L. 108–88, §8(q), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(q), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, §7(q), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, §7(q), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(q), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(q), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(p), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §7(p), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §7(p), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(p), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(p), July 28, 2005, 119 Stat. 420, provided that:
+Pub. L. 105–178, title III, §3015(c), June 9, 1998, 112 Stat. 361, as amended by Pub. L. 105–206, title IX,§9009(k)(1), July 22, 1998, 112 Stat. 857; Pub. L. 108–88, §8(q), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(q), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, §7(q), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, §7(q), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(q), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(q), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(p), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §7(p), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §7(p), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(p), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(p), July 28, 2005, 119 Stat. 420, provided that:
 
 "(1)
 

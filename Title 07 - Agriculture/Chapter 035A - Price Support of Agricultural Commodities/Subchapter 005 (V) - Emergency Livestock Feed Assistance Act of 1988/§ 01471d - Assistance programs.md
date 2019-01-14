@@ -54,7 +54,7 @@ A person eligible to receive a payment or benefit under this section with respec
 
 #### (f) Livestock transportation assistance
 
-The Secretary may make available at least $25,000,000 to provide livestock transportation assistance under subsection (a)(6) for livestock emergencies in 1989.
+The Secretary may make available at least $25,000,000 to provide livestock transportationassistance under subsection (a)(6) for livestock emergencies in 1989.
 
 (Oct. 31, 1949, ch. 792, title VI, §606, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 928; amended Pub. L. 101–82, title II, §§201, 202, Aug. 14, 1989, 103 Stat. 581.)
 

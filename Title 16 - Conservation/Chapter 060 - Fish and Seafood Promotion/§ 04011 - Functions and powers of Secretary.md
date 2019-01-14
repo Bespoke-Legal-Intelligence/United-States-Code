@@ -18,7 +18,7 @@ In addition to the duties prescribed under section 4009 of this title, the Secre
 
 #### (b) Assistance
 
-The Secretary may provide, on a reimbursable or other basis, such administrative or technical assistance as a council may request for purposesof the initial organization and subsequent operation of the council.
+The Secretary may provide, on a reimbursable or other basis, such administrative or technical assistance as a council may request for purposes of the initial organization and subsequent operation of the council.
 
 (Pub. L. 99–659, title II, §212, Nov. 14, 1986, 100 Stat. 3726.)
 

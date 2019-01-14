@@ -58,7 +58,7 @@ A prior section 5 of act June 20, 1949, was renumbered section 4 and is classifi
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–259, §802(1), substituted "authorized under section 403–4a of this title." for "authorized under paragraphs (2) and (3) of section403(a) of this title, subsections (c)(7) and (d) of section 403–3 of this title, subsections (a) and (g) of section 403–4 of this title, and section 405 of this title".
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–259, §802(1), substituted "authorized under section 403–4a of this title." for "authorized under paragraphs (2) and (3) of section 403(a) of this title, subsections (c)(7) and (d) of section 403–3 of this title, subsections (a) and (g) of section 403–4 of this title, and section 405 of this title".
 
 Subsec. (a)(4). Pub. L. 111–259, §421, substituted "the protection of current" for "and the protection of current" and inserted ", and the protection of the Director of National Intelligence and such personnel of the Office of the Director of National Intelligence as the Director of National Intelligence may designate" before the semicolon.
 
@@ -102,9 +102,13 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
 
-Pub. L. 115–31, div. C, title VIII, §8047(b), May 5, 2017, 131 Stat. 259, provided that: "None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
+Pub. L. 115–245, div. A, title VIII, §8045(b), Sept. 28, 2018, 132 Stat. 3012, provided that: "None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department oragency of the United States except as specifically provided in an appropriations law."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–141, div. C, title VIII, §8045(b), Mar. 23, 2018, 132 Stat. 475.
+
+Pub. L. 115–31, div. C, title VIII, §8047(b), May 5, 2017, 131 Stat. 259.
 
 Pub. L. 114–113, div. C, title VIII, §8046(b), Dec. 18, 2015, 129 Stat. 2362.
 

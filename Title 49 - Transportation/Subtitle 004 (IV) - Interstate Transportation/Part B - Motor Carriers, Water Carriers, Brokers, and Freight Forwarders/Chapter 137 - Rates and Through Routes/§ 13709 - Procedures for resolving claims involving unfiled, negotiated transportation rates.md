@@ -64,7 +64,7 @@ General rule.—A person must notify the carrier or freight forwarder as to its 
 
 &emsp;(2)
 
-Demands for payment initially made after december 3, 1993.—If the carrier orfreight forwarder or party representing such carrier or freight forwarder initially demands the payment of additional freight charges after December 3, 1993, and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f) at the time of the making of such initial demand, the election must be made not later than the later of—
+Demands for payment initially made after december 3, 1993.—If the carrier or freight forwarder or party representing such carrier or freight forwarder initially demands the payment of additional freight charges after December 3, 1993, and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f) at the time of the making of such initial demand, the election must be made not later than the later of—
 
 &emsp;&emsp;(A) the 60th day following the filing of an answer to a suit for the collection of such additional legally applicable freight rate or charges, or
 
@@ -76,7 +76,7 @@ Pending suits for collection made before december 4, 1993.—If the carrier or f
 
 &emsp;(4)
 
-Demands for payment made before december 4, 1993.—If the carrier or freight forwarder or party representing such carrier or freight forwarder has demanded the payment of additional freight charges, and has not filed a suit for the collection of such additional freight charges, before December 4, 1993, and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f), the election must be made not later than the later of—
+Demands for payment made before december 4, 1993.—If the carrier or freight forwarder or party representing such carrier orfreight forwarder has demanded the payment of additional freight charges, and has not filed a suit for the collection of such additional freight charges, before December 4, 1993, and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f), the election must be made not later than the later of—
 
 &emsp;&emsp;(A) the 60th day following the filing of an answer to a suit for the collection of such additional legally applicable freight rate or charges, or
 
@@ -131,6 +131,10 @@ Provisions similar to those in this section were contained in section 10701 of t
 <b>1996</b>—Subsec. (a)(1), (3). Pub. L. 104–287, §5(29)(A), substituted "December 31, 1995" for "the day before the effective date of this section".
 
 Subsec. (e). Pub. L. 104–287, §5(29)(B), substituted "January 1, 1996" for "the effective date of this section" and "December 31, 1995" for "the day before such effective date".
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 
 #### Abolition of Interstate Commerce Commission
 

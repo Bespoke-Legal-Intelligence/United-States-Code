@@ -90,7 +90,7 @@ Subsec. (b)(3), (4). Pub. L. 109–163, §701(a)(1), added par. (3) and redesign
 
 Subsec. (b)(5). Pub. L. 109–163, §701(b), added par. (5).
 
-Subsec. (c). Pub. L. 109–163, §701(c), inserted at end "If a member of a reserve component dies while in a periodof coverage under this section, the eligibility of the members of the immediate family of such member for TRICARE Standard coverage shall continue for six months beyond the date of death of the member."
+Subsec. (c). Pub. L. 109–163, §701(c), inserted at end "If a member of a reserve component dies while in a period of coverage under this section, the eligibility of the members of the immediate family of such member for TRICARE Standard coverage shall continue for six months beyond the date of death of the member."
 
 Subsec. (d)(3). Pub. L. 109–364, §704(c), inserted at end "During the period beginning on April 1, 2006, and ending on September 30, 2007, the monthly amount of the premium may not be increased above the amount in effect for the month of March 2006."
 

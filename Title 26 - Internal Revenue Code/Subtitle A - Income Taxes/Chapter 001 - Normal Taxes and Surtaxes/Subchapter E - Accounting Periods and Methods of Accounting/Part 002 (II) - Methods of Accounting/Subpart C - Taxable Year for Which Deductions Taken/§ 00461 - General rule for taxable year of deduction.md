@@ -12,7 +12,7 @@ In the case of the death of a taxpayer whose taxable income is computed under an
 
 #### (1) In general
 
-&emsp;If the taxable income is computed under an accrual method of accounting, then, at the election of the taxpayer, any real property tax which is related to a definite period of time shall be accrued ratably over that period.
+&emsp;If the taxable income is computed under an accrual method of accounting, then, at theelection of the taxpayer, any real property tax which is related to a definite period of time shall be accrued ratably over that period.
 
 #### (2) When election may be made
 
@@ -36,7 +36,7 @@ In the case of the death of a taxpayer whose taxable income is computed under an
 
 #### (e) Dividends or interest paid on certain deposits or withdrawable accounts
 
-Except as provided in regulations prescribed by the Secretary, amounts paid to, or credited to the accounts of, depositors or holders of accounts as dividends or interest on their deposits or withdrawable accounts (if such amounts paidor credited are withdrawable on demand subject only to customary notice to withdraw) by a mutual savings bank not having capital stock represented by shares, a domestic building and loan association, or a cooperative bank shall not be allowed as a deduction for the taxable year to the extent such amounts are paid or credited for periods representing more than 12 months. Any such amount not allowed as a deduction as the result of the application of the preceding sentence shall be allowed as a deduction for such other taxable year as the Secretary determines to be consistent with the preceding sentence.
+Except as provided in regulations prescribed by the Secretary, amounts paid to, or credited to the accounts of, depositors or holders of accounts as dividends or interest on their deposits or withdrawable accounts (if such amounts paid or credited are withdrawable on demand subject only to customary notice to withdraw) by a mutual savings bank not having capital stock represented by shares, a domestic building and loan association, or a cooperative bank shall not be allowed as a deduction for the taxable year to the extent such amounts are paid or credited for periods representing more than 12 months. Any such amount not allowed as a deduction as the result of the application of the preceding sentence shall be allowed as a deduction for such other taxable year as the Secretary determines to be consistent with the preceding sentence.
 
 #### (f) Contested liabilities
 
@@ -190,13 +190,13 @@ If—
 
 #### (4) Special rules for farming
 
-&emsp;In the case of the trade or business of farming (as defined in section 464(e)), in determining whether an entity is a tax shelter, the definition of farming syndicate in subsection (j) shall be substituted for subparagraphs (A) and (B) of paragraph (3).
+&emsp;In the case of the trade or business of farming (as defined in section 464(e)), in determining whether an entity is a tax shelter, the definition of farming syndicate in subsection (k) shall be substituted for subparagraphs (A) and (B) of paragraph (3).
 
 #### (5) Economic performance
 
 &emsp;For purposes of this subsection, the term "economic performance" has the meaning given such term by subsection (h).
 
-#### (j) <sup>1</sup> Limitation on excess farm losses of certain taxpayers
+#### (j) Limitation on excess farm losses of certain taxpayers
 
 #### (1) Limitation
 
@@ -272,7 +272,7 @@ If—
 
 &emsp;&emsp;(A) this subsection shall be applied at the partner or shareholder level, and
 
-&emsp;&emsp;(B) each partner's or shareholder's proportionate share of the items of income, gain, or deduction of the partnership or S corporation for any taxable year from farming businesses attributable to the partnership or S corporation, and of any applicable subsidies received by the partnership or S corporation during the taxable year, shall be taken into account by the partner or shareholder in applying this subsection to the taxable year of such partner or shareholder with or within which the taxable year of the partnership or S corporation ends.
+&emsp;&emsp;(B) each partner's or shareholder's proportionate share of the items of income, gain, or deduction of the partnership or S corporation for any taxable year from farming businesses attributable to the partnership or S corporation, and of any applicable subsidies received by the partnership or S corporationduring the taxable year, shall be taken into account by the partner or shareholder in applying this subsection to the taxable year of such partner or shareholder with or within which the taxable year of the partnership or S corporation ends.
 
 > &emsp;The Secretary may provide rules for the application of this paragraph to any other pass-thru entity to the extent necessary to carry out the provisions of this subsection.
 
@@ -284,7 +284,7 @@ If—
 
 &emsp;This subsection shall be applied before the application of section 469.
 
-#### (j) <sup>1</sup> Farming syndicate defined
+#### (k) Farming syndicate defined
 
 #### (1) In general
 
@@ -298,7 +298,7 @@ If—
 
 &emsp;For purposes of paragraph (1)(B), the following shall be treated as an interest which is not held by a limited partner or a limited entrepreneur:
 
-&emsp;&emsp;(A) in the case of any individual who has actively participated (for a period of not lessthan 5 years) in the management of any trade or business of farming, any interest in a partnership or other enterprise which is attributable to such active participation,
+&emsp;&emsp;(A) in the case of any individual who has actively participated (for a period of not less than 5 years) in the management of any trade or business of farming, any interest in a partnership or other enterprise which is attributable to such active participation,
 
 &emsp;&emsp;(B) in the case of any individual whose principal residence is on a farm, any partnership or other enterprise engaged in the trade or business of farming such farm,
 
@@ -322,7 +322,7 @@ If—
 
 &emsp;&emsp;(B) does not actively participate in the management of such enterprise.
 
-#### (l) <sup>2</sup> Limitation on excess business losses of noncorporate taxpayers
+#### (l) Limitation on excess business losses of noncorporate taxpayers
 
 #### (1) Limitation
 
@@ -358,7 +358,7 @@ If—
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "2017" for "2016" in subparagraph (A)(ii) thereof.
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendaryear in which the taxable year begins, determined by substituting "2017" for "2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;&emsp;If any amount as increased under the preceding sentence is not a multiple of $1,000, such amount shall be rounded to the nearest multiple of $1,000.
 
@@ -380,7 +380,11 @@ If—
 
 &emsp;This subsection shall be applied after the application of section 469.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I,§91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 113–295, div. A, title II, §221(a)(58)(B), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–97, title I, §11012(a), Dec. 22, 2017, 131 Stat. 2071.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 113–295, div. A, title II, §221(a)(58)(B), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–97, title I, §11012(a), Dec. 22, 2017, 131 Stat. 2071; Pub. L. 115–141, div. U, title IV, §401(a)(117), Mar. 23, 2018, 132 Stat. 1190.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### References in Text
 
@@ -394,11 +398,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
+<b>2018</b>—Subsec. (i)(4). Pub. L. 115–141, §401(a)(117)(B), substituted "subsection (k)" for "subsection (j)".
+
+Subsecs. (j), (k). Pub. L. 115–141, §401(a)(117)(A), redesignated subsec. (j) relating to farming syndicate defined as (k).
+
 <b>2017</b>—Subsec. (l). Pub. L. 115–97 added subsec. (l).
 
 <b>2014</b>—Subsec. (i)(4). Pub. L. 113–295, §221(a)(58)(B)(iii), substituted "subsection (j)" for "section 464(c)".
 
-Subsec. (j). Pub. L. 113–295, §221(a)(58)(B)(i), transferred subsec. (c) of section 464 of this title, relating to definition of farming syndicate, to the end of this section and redesignated it as subsec. (j).
+Subsec. (j). Pub. L. 113–295, §221(a)(58)(B)(i), transferred subsec. (c) of section 464 of this title, relating to farming syndicate defined, to the end of this section and redesignated it as subsec. (j).
 
 Subsec. (j)(1). Pub. L. 113–295, §221(a)(58)(B)(ii)(I), substituted "For purposes of subsection (i)(4)" for "For purposes of this section" in introductory provisions.
 
@@ -512,7 +520,7 @@ Amendment by section 1807(a)(1), (2) of Pub. L. 99–514 effective, except as ot
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §91(g)–(i), July 18, 1984, 98 Stat. 608, 609, as amended by Pub. L. 99–514, §2, title XVIII, §1807(a)(3)(B), (4)(F), (5), (6), Oct. 22, 1986, 100 Stat. 2095, 2811, 2813, 2814, provided that:
+Pub. L. 98–369, div. A, title I, §91(g)–(i), July 18, 1984, 98 Stat. 608, 609, as amended by Pub. L. 99–514, §2, titleXVIII, §1807(a)(3)(B), (4)(F), (5), (6), Oct. 22, 1986, 100 Stat. 2095, 2811, 2813, 2814, provided that:
 
 "(g)
 
@@ -558,7 +566,7 @@ to apply in certain cases.—Notwithstanding paragraph (1), section 461(h) of th
 
 &emsp;"(4)
 
-Effective date for treatment of mining and solid waste reclamation and closing costs.—Except as otherwise provided in subsection (h), the amendments made by subsection (b) \[enacting section468 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\] with respect to taxable years ending after such date.
+Effective date for treatment of mining and solid waste reclamation and closing costs.—Except as otherwise provided in subsection (h), the amendments made by subsection (b) \[enacting section 468 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\] with respect to taxable years ending after such date.
 
 &emsp;"(5)
 
@@ -640,7 +648,7 @@ Pub. L. 88–272, title II, §223(b), Feb. 26, 1964, 78 Stat. 76, provided that:
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–876, §3(b), Oct. 24, 1962, 76 Stat. 1199, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years ending after December 31, 1962."
+Pub. L. 87–876, §3(b), Oct. 24, 1962, 76 Stat. 1199, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply only with respect to taxable years ending after December 31, 1962."
 
 #### Effective Date of 1960 Amendment
 
@@ -678,7 +686,7 @@ Pub. L. 99–514, title XVIII, §1807(c), Oct. 22, 1986, 100 Stat. 2817, provide
 
 Pub. L. 88–272, title II, §223(c), Feb. 26, 1964, 78 Stat. 76, provided that:
 
-"(1) The amendments made by subsection (a) \[amending this section and section 43 of the Internal RevenueCode of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if the taxpayer elects, in the manner provided by regulations prescribed by the Secretary of the Treasury or his delegate, to have this paragraph apply. Such an election—
+"(1) The amendments made by subsection (a) \[amending this section and section 43 of the Internal Revenue Code of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if the taxpayer elects, in the manner provided by regulations prescribed by the Secretary of the Treasury or his delegate, to have this paragraph apply. Such an election—
 
 &emsp;"(A) must be made within one year after the date of the enactment of this Act \[Feb. 26, 1964\],
 
@@ -701,8 +709,4 @@ Pub. L. 88–272, title II, §223(d), Feb. 26, 1964, 78 Stat. 77, provided that:
 &emsp;"(2) refund or credit of any overpayment which would result from the application of such amendments to such transfer is prevented by the operation of any law or rule of law.
 
 > In the case of any transfer to which this subsection applies, the deduction shall be allowed for the taxable year in which the contest with respect to such transfer is settled."
-
-<i><sup>1</sup></i><i> So in original. Two subsecs. (j) have been enacted.</i>
-
-<i><sup>2</sup></i><i> So in original. No subsec. (k) has been enacted.</i>
 

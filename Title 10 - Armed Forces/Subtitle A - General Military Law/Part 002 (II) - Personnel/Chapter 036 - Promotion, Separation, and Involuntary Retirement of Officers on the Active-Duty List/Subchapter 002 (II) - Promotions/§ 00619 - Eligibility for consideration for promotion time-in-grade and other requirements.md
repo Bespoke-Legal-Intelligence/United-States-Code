@@ -28,7 +28,7 @@ Continued Eligibility for Consideration for Promotion of Officers Who Have Previ
 
 (c)
 
-Officers To Be Considered by Promotion Boards.—(1) Each time a selection board is convened under section 611(a) of this title for consideration of officers in a competitive category for promotion to the next higher grade, each officer in the promotion zone (except as provided under paragraph (2)), and each officer above the promotion zone, for the grade and competitive category under consideration shall be considered for promotion.
+Officers To Be Considered by Promotion Boards.—(1) Each time a selection board is convened under section 611(a) of this title for consideration of officers in a competitive category for promotion to the next higher grade, each officer in the promotion zone (except as provided under paragraph (2)), and each officer above thepromotion zone, for the grade and competitive category under consideration shall be considered for promotion.
 
 (2) The Secretary of the military department concerned—
 
@@ -44,7 +44,7 @@ Officers To Be Considered by Promotion Boards.—(1) Each time a selection board
 
 &emsp;(ii) are determined, in accordance with standards and procedures prescribed pursuant to subparagraph (B), as not being exceptionally well qualified for promotion.
 
-(B) If the Secretary of Defense authorizes the Secretaries of the military departments to havethe authority described in subparagraph (A), the Secretary shall prescribe by regulation the standards and procedures for the exercise of such authority. Those regulations shall apply uniformly among the military departments and shall include the following provisions:
+(B) If the Secretary of Defense authorizes the Secretaries of the military departments to have the authority described in subparagraph (A), the Secretary shall prescribe by regulation the standards and procedures for the exercise of such authority. Those regulations shall apply uniformly among the military departments and shall include the following provisions:
 
 &emsp;(i) A requirement that the Secretary of a military department may exercise such authority in the case of a particular selection board only if the Secretary of Defense approves the exercise of that authority for that board.
 
@@ -70,9 +70,27 @@ Certain Officers Not To Be Considered.—A selection board convened under sectio
 
 &emsp;(5) An officer in the grade of captain or, in the case of the Navy, lieutenant who is not a citizen of the United States.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2854; amended Pub. L. 97–22, §4(c), July 10, 1981, 95 Stat. 126; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §§525(a), (b), 529(a), Oct. 19, 1984, 98 Stat. 2524, 2525, 2526; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §404, Oct. 1, 1986, 100 Stat. 1032; Pub. L. 100–180, div. A, title XIII, §§1305(a), 1314(b)(4), Dec. 4, 1987, 101 Stat. 1173, 1175; Pub. L. 100–456, div. A, title V, §515(a)(1), (b), Sept. 29, 1988, 102 Stat. 1970; Pub. L. 102–190, div. A, title V, §504(d), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 103–160, div. A, title IX, §931(b), (c)(1), Nov. 30, 1993, 107 Stat. 1734; Pub. L. 103–337, div. A, title X, §1070(b)(7), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–85, div. A, title V, §503(a), Nov. 18, 1997, 111 Stat. 1724; Pub. L. 107–107, div. A, title V, §§504, 505(c)(1)(A), Dec. 28, 2001, 115 Stat. 1085, 1087; Pub. L. 108–375, div. A, title V, §501(a)(3)(B), Oct. 28, 2004, 118 Stat. 1873; Pub. L. 109–364, div. A, title V, §506, Oct. 17, 2006, 120 Stat. 2179.)
+&emsp;(6) An officer excluded under subsection (e).
+
+(e)
+
+Authority To Allow Officers To Opt Out of Selection Board Consideration.—(1) The Secretary of a military department may provide that an officer under the jurisdiction of the Secretary may, upon the officer's request and with the approval of the Secretary, be excluded from consideration by a selection board convened under section 611(a) of this title to consider officers for promotion to the next higher grade.
+
+(2) The Secretary concerned may only approve a request under paragraph (1) if—
+
+&emsp;(A) the basis for the request is to allow an officer to complete a broadening assignment, advanced education, another assignment of significant value to the Department, or a career progression requirement delayed by the assignment or education;
+
+&emsp;(B) the Secretary determines the exclusion from consideration is in the best interest of the military department concerned; and
+
+&emsp;(C) the officer has not previously failed of selection for promotion to the grade for which the officer requests the exclusion from consideration.
+
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2854; amended Pub. L. 97–22, §4(c), July 10, 1981, 95 Stat. 126; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L.98–525, title V, §§525(a), (b), 529(a), Oct. 19, 1984, 98 Stat. 2524, 2525, 2526; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §404, Oct. 1, 1986, 100 Stat. 1032; Pub. L. 100–180, div. A, title XIII, §§1305(a), 1314(b)(4), Dec. 4, 1987, 101 Stat. 1173, 1175; Pub. L. 100–456, div. A, title V, §515(a)(1), (b), Sept. 29, 1988, 102 Stat. 1970; Pub. L. 102–190, div. A, title V, §504(d), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 103–160, div. A, title IX, §931(b), (c)(1), Nov. 30, 1993, 107 Stat. 1734; Pub. L. 103–337, div. A, title X, §1070(b)(7), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–85, div. A, title V, §503(a), Nov. 18, 1997, 111 Stat. 1724; Pub. L. 107–107, div. A, title V, §§504, 505(c)(1)(A), Dec. 28, 2001, 115 Stat. 1085, 1087; Pub. L. 108–375, div. A, title V, §501(a)(3)(B), Oct. 28, 2004, 118 Stat. 1873; Pub. L. 109–364, div. A, title V, §506, Oct. 17, 2006, 120 Stat. 2179; Pub. L. 115–232, div. A, title V, §505(a), Aug. 13, 2018, 132 Stat. 1742.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(6). Pub. L. 115–232, §505(a)(1), added par. (6).
+
+Subsec. (e). Pub. L. 115–232, §505(a)(2), added subsec. (e).
 
 <b>2006</b>—Subsec. (a)(1)(B). Pub. L. 109–364 substituted "October 1, 2008" for "October 1, 2005".
 
@@ -116,7 +134,7 @@ Subsec. (e). Pub. L. 103–160, §931(b), struck out subsec. (e) which specified
 
 > to those officers who are determined to be exceptionally well qualified for promotion;
 
-"(B) may, by regulation, prescribe criteria for determining which officers below the promotion zone or inthe grades of colonel and, in the case of officers of the Navy, captain are exceptionally well qualified for promotion for the purposes of clause (A);".
+"(B) may, by regulation, prescribe criteria for determining which officers below the promotion zone or in the grades of colonel and, in the case of officers of the Navy, captain are exceptionally well qualified for promotion for the purposes of clause (A);".
 
 Subsec. (c)(3). Pub. L. 102–190, §504(d)(2), added par. (3).
 
@@ -166,7 +184,7 @@ Pub. L. 103–337, div. A, title X, §1070(b), Oct. 5, 1994, 108 Stat. 2856, pro
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–190 applicable to selection boards convened under section 611(a) of this title after end of 60-day period beginning Dec. 5, 1991, see section 504(e) of Pub. L. 102–190, set out as a note under section 615 of this title.
+Amendment by Pub. L. 102–190 applicable to selection boards convened under section 611(a) of this title afterend of 60-day period beginning Dec. 5, 1991, see section 504(e) of Pub. L. 102–190, set out as a note under section 615 of this title.
 
 #### Effective Date of 1981 Amendment
 

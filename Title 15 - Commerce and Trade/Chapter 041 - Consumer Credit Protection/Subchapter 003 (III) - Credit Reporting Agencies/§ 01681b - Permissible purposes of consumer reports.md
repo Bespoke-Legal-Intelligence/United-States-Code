@@ -34,7 +34,7 @@ Subject to subsection (c), any consumer reporting agency may furnish a consumer 
 
 &emsp;&emsp;(B) the parentage of the consumer for the child to which the obligation relates has been established or acknowledged by the consumer in accordance with State laws under which the obligation arises (if required by those laws); and
 
-&emsp;&emsp;(C) the consumer report will be kept confidential, will be used solely for a purposedescribed in subparagraph (A), and will not be used in connection with any other civil, administrative, or criminal proceeding, or for any other purpose.
+&emsp;&emsp;(C) the consumer report will be kept confidential, will be used solely for a purpose described in subparagraph (A), and will not be used in connection with any other civil, administrative, or criminal proceeding, or for any other purpose.
 
 &emsp;(5) To an agency administering a State plan under section 654 of title 42 for use to set an initial or modified child support award.
 
@@ -74,7 +74,7 @@ Subject to subsection (c), any consumer reporting agency may furnish a consumer 
 
 #### (C) Scope
 
-&emsp;&emsp;Subparagraph (B) shall apply to a person procuring a consumer report on a consumer in connection with the consumer's application for employment only if—
+&emsp;&emsp;Subparagraph (B) shall apply to a person procuring a consumer report on a consumerin connection with the consumer's application for employment only if—
 
 &emsp;&emsp;&emsp;(i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49, or a position subject to safety regulation by a State transportation agency; and
 
@@ -238,7 +238,7 @@ Subject to subsection (c), any consumer reporting agency may furnish a consumer 
 
 &emsp;&emsp;Each consumer reporting agency that, under subsection (c)(1)(B), furnishes a consumer report in connection with a credit or insurance transaction that is not initiated by a consumer, shall—
 
-&emsp;&emsp;&emsp;(i) establish and maintain a notification system, including a toll-free telephone number, which permits any consumer whose consumer report is maintained by the agency to notify the agency, with appropriate identification, of the consumer'selection to have the consumer's name and address excluded from any such list of names and addresses provided by the agency for such a transaction; and
+&emsp;&emsp;&emsp;(i) establish and maintain a notification system, including a toll-free telephone number, which permits any consumer whose consumer report is maintained by the agency to notify the agency, with appropriate identification, of the consumer's election to have the consumer's name and address excluded from any such list of names and addresses provided by the agency for such a transaction; and
 
 &emsp;&emsp;&emsp;(ii) publish by not later than 365 days after September 30, 1996, and not less than annually thereafter, in a publication of general circulation in the area served by the agency—
 
@@ -284,7 +284,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 #### (3) Actions authorized by Federal law, insurance activities and regulatory determinations
 
-&emsp;Section 1681a(d)(3) of this title shall not be construed so as to treat information or any communication of information as a consumer report if the information or communication is disclosed—
+&emsp;Section 1681a(d)(3) of this title shall not be construed so as to treat information or anycommunication of information as a consumer report if the information or communication is disclosed—
 
 &emsp;&emsp;(A) in connection with the business of insurance or annuities, including the activities described in section 18B of the model Privacy of Consumer Financial and Health Information Regulation issued by the National Association of Insurance Commissioners (as in effect on January 1, 2003);
 
@@ -300,7 +300,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 #### (A) <sup>2</sup> Regulations required
 
-&emsp;&emsp;The Bureau may, after notice and opportunity for comment, prescribe regulationsthat permit transactions under paragraph (2) that are determined to be necessary and appropriate to protect legitimate operational, transactional, risk, consumer, and other needs (and which shall include permitting actions necessary for administrative verification purposes), consistent with the intent of paragraph (2) to restrict the use of medical information for inappropriate purposes.
+&emsp;&emsp;The Bureau may, after notice and opportunity for comment, prescribe regulations that permit transactions under paragraph (2) that are determined to be necessary and appropriate to protect legitimate operational, transactional, risk, consumer, and other needs (and which shall include permitting actions necessary for administrative verification purposes), consistent with the intent of paragraph (2) to restrict the use of medical information for inappropriate purposes.
 
 #### (6) Coordination with other laws
 
@@ -360,7 +360,7 @@ Subsec. (e)(3)(A), (4)(B)(i). Pub. L. 108–159, §213(c), substituted "5-year p
 
 Subsec. (g). Pub. L. 108–159, §411(a), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: "A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report."
 
-Subsec. (g)(1). Pub. L. 108–159, §412(f)(1), inserted "(other than medical contact information treated in the manner required under section 1681c(a)(6) of thistitle)" after "a consumer report that contains medical information" in introductory provisions.
+Subsec. (g)(1). Pub. L. 108–159, §412(f)(1), inserted "(other than medical contact information treated in the manner required under section 1681c(a)(6) of this title)" after "a consumer report that contains medical information" in introductory provisions.
 
 Subsec. (g)(2). Pub. L. 108–159, §412(f)(2), inserted "(other than medical information treated in the manner required under section 1681c(a)(6) of this title)" after "a creditor shall not obtain or use medical information".
 
@@ -424,7 +424,7 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1681e of this title\] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208\], as of the date of the enactment of such Act \[Sept. 30, 1996\]."
+Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1681e of this title\] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory PaperworkReduction Act of 1996 \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208\], as of the date of the enactment of such Act \[Sept. 30, 1996\]."
 
 #### Effective Date of 1996 Amendments
 
@@ -448,7 +448,7 @@ Pub. L. 108–159, title IV, §412(d), Dec. 4, 2003, 117 Stat. 2002, provided th
 
 #### FTC Guidelines Regarding Prescreening for Insurance Transactions
 
-Pub. L. 104–208, div. A, title II, §2404(c), Sept. 30, 1996, 110 Stat. 3009–434, provided that: "The Federal TradeCommission may issue such guidelines as it deems necessary with respect to the use of consumer reports in connection with insurance transactions that are not initiated by the consumer pursuant to section 604(c) of the Fair Credit Reporting Act \[15 U.S.C. 1681b(c)\], as added by subsection (a) of this section."
+Pub. L. 104–208, div. A, title II, §2404(c), Sept. 30, 1996, 110 Stat. 3009–434, provided that: "The Federal Trade Commission may issue such guidelines as it deems necessary with respect to the use of consumer reports in connection with insurance transactions that are not initiated by the consumer pursuant to section 604(c) of the Fair Credit Reporting Act \[15 U.S.C. 1681b(c)\], as added by subsection (a) of this section."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

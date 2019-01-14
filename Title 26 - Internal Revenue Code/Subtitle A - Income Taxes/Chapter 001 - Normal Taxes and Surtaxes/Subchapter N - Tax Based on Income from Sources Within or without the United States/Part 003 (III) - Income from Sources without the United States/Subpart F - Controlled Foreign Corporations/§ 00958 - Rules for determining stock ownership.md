@@ -38,7 +38,7 @@ For purposes of sections 951(b), 954(d)(3), 956(c)(2), and 957, section 318(a) (
 
 Subsec. (b). Pub. L. 115–97, §14213(a)(2), substituted "Paragraph (1)" for "Paragraphs (1) and (4)" in concluding provisions.
 
-Subsec. (b)(4). Pub. L. 115–97, §14213(a)(1), struck out par. (4) which read as follows: "Subparagraphs (A), (B), and (C) of section 318(a)(3) shall not be applied so as to consider a United States person as owning stock whichis owned by a person who is not a United States person."
+Subsec. (b)(4). Pub. L. 115–97, §14213(a)(1), struck out par. (4) which read as follows: "Subparagraphs (A), (B),and (C) of section 318(a)(3) shall not be applied so as to consider a United States person as owning stock which is owned by a person who is not a United States person."
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–188, §1704(t)(7), substituted "section 960(a)(1)" for "sections 955(b)(1)(A) and (B), 955(c)(2)(A)(ii), and 960(a)(1)" in introductory provisions.
 

@@ -1,6 +1,6 @@
 # Printed pages - Title 27 - Intoxicating Liquors
 
-GPO's 2017 edition (laws in effect as of 2018-01-12), from its printed page marks. The exact position of
+GPO's 2018 edition (laws in effect as of 2019-01-14), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title27.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 

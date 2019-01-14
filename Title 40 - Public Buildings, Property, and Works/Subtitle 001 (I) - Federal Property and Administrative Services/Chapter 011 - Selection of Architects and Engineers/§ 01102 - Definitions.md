@@ -14,7 +14,7 @@ Architectural and engineering services.—The term "architectural and engineerin
 
 &emsp;&emsp;(B) professional services of an architectural or engineering nature performed by contract that are associated with research, planning, development, design, construction, alteration, or repair of real property; and
 
-&emsp;&emsp;(C) other professional services of an architectural or engineering nature, or incidental services, which members of the architectural and engineering professions (and individuals in their employ) may logically or justifiably perform, including studies, investigations,surveying and mapping, tests, evaluations, consultations, comprehensive planning, program management, conceptual designs, plans and specifications, value engineering, construction phase services, soils engineering, drawing reviews, preparation of operating and maintenance manuals, and other related services.
+&emsp;&emsp;(C) other professional services of an architectural or engineering nature, or incidental services, which members of the architectural and engineering professions (and individuals in their employ) may logically or justifiably perform, including studies, investigations, surveying and mapping, tests, evaluations, consultations, comprehensive planning, program management, conceptual designs, plans and specifications, value engineering, construction phase services, soils engineering, drawing reviews, preparation of operating and maintenance manuals, and other related services.
 
 &emsp;(3)
 

@@ -114,7 +114,7 @@ As a condition of participating in the program, a qualified institution of highe
 
 #### (2) 1 or more years of service
 
-&emsp;If a circumstance described in subparagraph (D) or (E) of subsection (g)(2) occurs after the completion of 1 or more years of a post-award employment obligation under this section, the total amount of scholarship awards received by the individual under this section, reduced by the ratio of the number of years of service completed divided by the number of years of service required, shall—
+&emsp;If a circumstance described in subparagraph (D) or (E) of subsection (g)(2) occurs after thecompletion of 1 or more years of a post-award employment obligation under this section, the total amount of scholarship awards received by the individual under this section, reduced by the ratio of the number of years of service completed divided by the number of years of service required, shall—
 
 &emsp;&emsp;(A) be repaid; or
 
@@ -192,7 +192,7 @@ The Higher Education Act of 1965, referred to in subsec. (j)(1), is Pub. L. 89�
 
 <b>2017</b>—Subsec. (b)(3), (4). Pub. L. 115–91, §1649B(a)(1), added pars. (3) and (4) and struck out former par. (3) which read as follows: "prioritize the employment placement of scholarship recipients in the Federal Government."
 
-Subsec. (d). Pub. L. 115–91, §1649B(a)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: "Each scholarship recipient, as a condition of receiving a scholarship under the program, shall enter into an agreement under which the recipient agrees to work in the cybersecurity mission of a Federal, State, local, or tribal agency for a period equal to the length of the scholarship following receipt of the student's degree."
+Subsec. (d). Pub. L. 115–91, §1649B(a)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: "Each scholarship recipient, as a condition of receiving a scholarship under the program, shall enterinto an agreement under which the recipient agrees to work in the cybersecurity mission of a Federal, State, local, or tribal agency for a period equal to the length of the scholarship following receipt of the student's degree."
 
 Subsec. (f)(3). Pub. L. 115–91, §1649B(a)(3)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "have demonstrated a high level of proficiency in mathematics, engineering, or computer sciences;".
 
@@ -210,7 +210,7 @@ Pub. L. 115–91, div. A, title XVI, §1649A, Dec. 12, 2017, 131 Stat. 1753, pro
 
 "(a)
 
-Pilot Program.—Not later than 1 year after the date of enactment of this subtitle \[Dec. 12, 2017\], as part of the Federal Cyber Scholarship-for-Service program established under section 302 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7442), the Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management,shall develop and implement a pilot program at not more than 10, but at least 5, community colleges to provide scholarships to eligible students who—
+Pilot Program.—Not later than 1 year after the date of enactment of this subtitle \[Dec. 12, 2017\], as part of the Federal Cyber Scholarship-for-Service program established under section 302 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7442), the Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall develop and implement a pilot program at not more than 10, but at least 5, community colleges to provide scholarships to eligible students who—
 
 &emsp;"(1) are pursuing associate degrees or specialized program certifications in the field of cybersecurity; and
 

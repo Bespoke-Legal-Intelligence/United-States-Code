@@ -6,7 +6,7 @@ The Administrator of the Environmental Protection Agency shall assure that progr
 
 #### Codification
 
-Section enacted as part of the Lead Contamination Control Act of 1988, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Lead Contamination Control Act of 1988, and not as part of the Public Health Service Act which comprises this chapter.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section."</i>
 

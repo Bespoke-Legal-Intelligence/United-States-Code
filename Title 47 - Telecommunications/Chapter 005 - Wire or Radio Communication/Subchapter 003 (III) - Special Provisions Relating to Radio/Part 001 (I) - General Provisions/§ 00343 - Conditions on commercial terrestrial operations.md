@@ -8,7 +8,7 @@ The Commission shall not permit commercial terrestrial operations in the 1525–
 
 #### (1) In general
 
-&emsp;At the conclusion of the decision regarding whether to permit such operations in such band, the Commission shall submit to the congressional committees described in paragraph (2) official copies of the documents containing the final decision of the Commission. If the decision is to permit such operations in suchband, such documents shall contain or be accompanied by an explanation of how the concerns described in subsection (a) have been resolved.
+&emsp;At the conclusion of the decision regarding whether to permit such operations in such band, the Commission shall submit to the congressional committees described in paragraph (2) official copies of the documents containing the final decision of the Commission. If the decision is to permit such operations in such band, such documents shall contain or be accompanied by an explanation of how the concerns described in subsection (a) have been resolved.
 
 #### (2) Congressional committees described
 

@@ -38,7 +38,7 @@
 
 &emsp;(B) 120 days after seeking corrective action from the Special Counsel, such employee, former employee, or applicant has not been notified by the Special Counsel that the Special Counsel shall seek corrective action on behalf of such employee, former employee, or applicant.
 
-(4) If an employee, former employee, or applicant seeks a corrective action from the Board under section 1221, pursuant to the provisions of paragraph (3)(B), the Special Counsel may continue to seek corrective action personal to such employee, former employee, or applicant only with the consent of such employee, former employee, or applicant.
+(4) If an employee, former employee, or applicant seeks a corrective action from the Boardunder section 1221, pursuant to the provisions of paragraph (3)(B), the Special Counsel may continue to seek corrective action personal to such employee, former employee, or applicant only with the consent of such employee, former employee, or applicant.
 
 (5) In addition to any authority granted under paragraph (1), the Special Counsel may, in the absence of an allegation, conduct an investigation for the purpose of determining whether there are reasonable grounds to believe that a prohibited personnel practice (or a pattern of prohibited personnel practices) has occurred, exists, or is to be taken.
 
@@ -96,7 +96,7 @@
 
 &emsp;(B) written comments by any individual who alleges to be the subject of the prohibited personnel practice.
 
-(4)(A) The Board shall order such corrective action as the Board considers appropriate, if theBoard determines that the Special Counsel has demonstrated that a prohibited personnel practice, other than one described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), has occurred, exists, or is to be taken.
+(4)(A) The Board shall order such corrective action as the Board considers appropriate, if the Board determines that the Special Counsel has demonstrated that a prohibited personnel practice, other than one described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), has occurred, exists, or is to be taken.
 
 (B)(i) Subject to the provisions of clause (ii), in any case involving an alleged prohibited personnel practice as described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), the Board shall order such corrective action as the Board considers appropriate if the Special Counsel has demonstrated that a disclosure or protected activity described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) was a contributing factor in the personnel action which was taken or is to be taken against the individual.
 

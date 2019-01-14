@@ -38,7 +38,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 &emsp;&emsp;&emsp;(II) acquisition by the resident management corporation of nonpublicly owned, decent, and affordable housing units, which the resident management corporation shall operate as rental housing subject to tenant income and rent limitations comparable to the limitations applicable to public housing; and
 
-&emsp;&emsp;(v) the building or buildings meet the housing quality standards applicable under section 1437d(f) of this title, and the physicalcondition, management, and operation of the building or buildings are sufficient to permit affordable homeownership by the families residing in the project.
+&emsp;&emsp;(v) the building or buildings meet the housing quality standards applicable under section 1437d(f) of this title, and the physical condition, management, and operation of the building or buildings are sufficient to permit affordable homeownership by the families residing in the project.
 
 &emsp;(B) The price of a building purchased under the preceding sentence shall be approved by the Secretary, in consultation with the public housing agency and resident management corporation, taking into account the fair market value of the property, the ability of resident families to afford and maintain the property, and such other factors as the Secretary determines to be consistent with increasing the supply of dwelling units affordable to very low income families.
 

@@ -54,7 +54,7 @@ In General.—The following definitions apply in this title:
 
 &emsp;&emsp;(A) is designated by the Secretary of Defense as an operation in which members of the armed forces are or may become involved in military actions, operations, or hostilities against an enemy of the United States or against an opposing military force; or
 
-&emsp;&emsp;(B) results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of this title, chapter 15 of this title, section 712 of title 14, or any other provision of law during a war or during a national emergency declared by the President or Congress.
+&emsp;&emsp;(B) results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of this title, chapter 13 of this title, section 712 <sup>1</sup> of title 14, or any other provision of law during a war or during a national emergency declared by the President or Congress.
 
 &emsp;(14) The term "supplies" includes material, equipment, and stores of all kinds.
 
@@ -160,7 +160,7 @@ Duty Status.—The following definitions relating to duty status apply in this t
 
 &emsp;(5) The term "full-time National Guard duty" means training or other duty, other than inactive duty, performed by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State or territory, the Commonwealth of Puerto Rico, or the District of Columbia under section 316, 502, 503, 504, or 505 of title 32 for which the member is entitled to pay from the United States or for which the member has waived pay from the United States.
 
-&emsp;(6)(A) The term "active Guard and Reserve duty" means active duty performed by a member of a reserve component of the Army, Navy, Air Force, or Marine Corps, or full-time National Guard duty performed by a member of the National Guard pursuant to an order to full-time National Guard duty, for a period of 180 consecutive days or more for the purpose of organizing, administering, recruiting, instructing, or training the reserve components.
+&emsp;(6)(A) The term "active Guard and Reserve duty" means active duty performed by a member of a reserve component of the Army, Navy, Air Force, or Marine Corps, or full-time National Guard duty performed by a member ofthe National Guard pursuant to an order to full-time National Guard duty, for a period of 180 consecutive days or more for the purpose of organizing, administering, recruiting, instructing, or training the reserve components.
 
 &emsp;(B) Such term does not include the following:
 
@@ -244,11 +244,15 @@ Unexploded ordnance.—The term "unexploded ordnance" means military munitions t
 
 &emsp;(6)
 
-Energy resilience.—The term "energy resilience" means the ability to avoid, prepare for, minimize, adapt to, and recover from anticipated and unanticipated energy disruptions in order to ensure energy availability and reliability sufficient to provide for mission assurance and readiness, including task critical assets and other mission essential operations related to readiness, and to execute or rapidly reestablish mission essential requirements.
+Energy resilience.—The term "energy resilience" means the ability to avoid, prepare for, minimize, adapt to, and recover from anticipated and unanticipated energy disruptions in order to ensure energy availability and reliability sufficient to provide for mission assurance and readiness, including mission essential operations related to readiness, and to execute or rapidly reestablish mission essential requirements.
 
 &emsp;(7)
 
 Energy security.—The term "energy security" means having assured access to reliable supplies of energy and the ability to protect and deliver sufficient energy to meet mission essential requirements.
+
+&emsp;(8)
+
+Military installation resilience.—The term "military installation resilience" means the capability of a military installation to avoid, prepare for, minimize the effect of, adapt to, and recover from extreme weatherevents, or from anticipated or unanticipated changes in environmental conditions, that do, or have the potential to, adversely affect the military installation or essential transportation, logistical, or other necessary resources outside of the military installation that are necessary in order to maintain, improve, or rapidly reestablish installation mission assurance and mission-essential functions.
 
 (f)
 
@@ -270,7 +274,7 @@ Reference to Title 1
 
 Definitions.—For other definitions applicable to this title, see sections 1 through 5 of title 1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, §876, Jan. 7, 2011, 124 Stat. 4305; Pub. L. 112–81, div. A, title V, §515(b), Dec. 31, 2011, 125 Stat. 1395; Pub. L. 112–239, div. A, title VI, §681(a), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(i), Dec. 23, 2016, 130 Stat. 2417; Pub. L. 115–91, div. B, title XXVIII, §2831(d), Dec. 12, 2017, 131 Stat. 1858.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, §876, Jan. 7, 2011, 124 Stat. 4305; Pub. L. 112–81, div. A, title V, §515(b), Dec. 31, 2011, 125 Stat. 1395; Pub. L. 112–239, div. A, title VI, §681(a), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(i), Dec. 23, 2016, 130 Stat. 2417; Pub. L. 115–91, div. B, title XXVIII, §2831(d), Dec. 12, 2017, 131 Stat. 1858; Pub. L. 115–232, div. A, title III, §312(f), title XII, §1204(a)(3), div. B, title XXVIII, §2805(e), Aug. 13, 2018, 132 Stat. 1711, 2017, 2263.)
 
 Historical and Revision Notes<br>1956
 
@@ -482,7 +486,7 @@ In clause (2), the definition of "Territory" in 32:4c is executed throughout thi
 
 In clause (4), the definition of "armed forces" is based on the source statute instead of 50:551(2), which does not include an express reference to the Marine Corps. The words "including all components thereof" are omitted as surplusage.
 
-In clause (5), the term "Department" is defined to give it the broad sense of "Establishment", to conform to the source statute and the usage preferred by the Department of Defense, instead of the more limited sense defined by 5:421g(a) and 423a(a), and 10:1a(d) and 1801(d).
+In clause (5), the term "Department" is defined to give it the broad sense of "Establishment", to conformto the source statute and the usage preferred by the Department of Defense, instead of the more limited sense defined by 5:421g(a) and 423a(a), and 10:1a(d) and 1801(d).
 
 In clause (6), the term "executive part of the department" is created for convenience in referring to what is described in the source statutes for this title as "department" in the limited sense of the executive part at the seat of government. This is required by the adoption of the word "department" in clause (5) to cover the broader concept of "establishment".
 
@@ -532,6 +536,8 @@ The words ", other than a commissioned warrant officer," are inserted to reflec
 
 Section 125(d) of this title, referred to in subsec. (a)(12)(A), was repealed by Pub. L. 99–433, title III, §301(b)(1), Oct. 1, 1986, 100 Stat. 1022.
 
+Section 712 of title 14, referred to in subsec. (a)(13)(B), was redesignated section 3713 of title 14 by Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233, and references to section 712 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+
 The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (a)(17)(B), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which is set out as a note under section 2687 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (a)(17)(C), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623, as amended. Title II of the Act is set out as a note under section 2687 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 2687 of this title and Tables.
@@ -543,6 +549,12 @@ The Atomic Energy Act of 1954, referred to in subsec. (e)(4)(C)(iii), is act Aug
 Pub. L. 107–296, §1704(b)(1), which directed amendment of section 101(9) of this title by substituting of "of Homeland Security" for "of Transportation" wherever appearing, could not be executed because there is no section 101(9).
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(13)(B). Pub. L. 115–232, §1204(a)(3), substituted "chapter 13" for "chapter 15".
+
+Subsec. (e)(6). Pub. L. 115–232, §312(f), struck out "task critical assets and other" before "mission essential operations".
+
+Subsec. (e)(8). Pub. L. 115–232, §2805(e), added par. (8).
 
 <b>2017</b>—Subsec. (e)(6), (7). Pub. L. 115–91 added pars. (6) and (7).
 
@@ -658,7 +670,7 @@ Pub. L. 112–239, div. A, title VI, §681(d), Jan. 2, 2013, 126 Stat. 1795, pro
 
 "(1)
 
-Inclusion of prior orders.—The amendments made by this section \[amending this section, section 12731 of this title, and section 3301 of Title 38, Veterans' Benefits\] shall apply to any call or order to active duty authorized under section 712 of title 14, United States Code, on or after December 31, 2011, by the Secretary of the executive department in which the Coast Guard is operating.
+Inclusion of prior orders.—The amendments made by this section \[amending this section, section 12731 of this title, and section 3301 of Title 38, Veterans' Benefits\] shall apply to any call or order to active duty authorized under section 712 \[now 3713\] of title 14, United States Code, on or after December 31, 2011, by the Secretary of the executive department in which the Coast Guard is operating.
 
 "(2)
 
@@ -676,7 +688,7 @@ Pub. L. 107–296, title XVII, §1704(g), Nov. 25, 2002, 116 Stat. 2316, provide
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made bythat section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1994 Amendment
 
@@ -684,7 +696,7 @@ Amendment by section 1671(c)(1) of Pub. L. 103–337 effective Dec. 1, 1994, exc
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–180, div. A, title XII, §1233(c)\[(1)\], Dec. 4, 1987, 101 Stat. 1161, provided that: "The amendments made by subsection (a) \[amending this section, section 2432 of this title, and section 406b of Title 37, Pay and Allowances of the Uniformed Services\] shall apply as if included in the enactment of the Defense Technical Corrections Act of 1987 (Public Law 100–26)."
+Pub. L. 100–180, div. A, title XII, §1233(c)\[(1)\], Dec. 4, 1987, 101 Stat. 1161, provided that: "The amendmentsmade by subsection (a) \[amending this section, section 2432 of this title, and section 406b of Title 37, Pay and Allowances of the Uniformed Services\] shall apply as if included in the enactment of the Defense Technical Corrections Act of 1987 (Public Law 100–26)."
 
 #### Effective Date of 1981 Amendment
 
@@ -715,6 +727,10 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 #### Effective Date of 1958 Amendment
 
 Pub. L. 85–861, §33(g), Sept. 2, 1958, 72 Stat. 1568, provided that: "This section \[see Tables for classification\] is effective as of August 10, 1956, for all purposes."
+
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–232, div. A, title VI, §621(a), Aug. 13, 2018, 132 Stat. 1798, provided that: "This section \[enacting section 1065 of this title and provisions set out as a note under section 1065 of this title\] may be cited as the 'Purple Heart and Disabled Veterans Equal Access Act of 2018'."
 
 #### Short Title of 2016 Amendment
 
@@ -758,7 +774,7 @@ Pub. L. 96–513, §1(a), Dec. 12, 1980, 94 Stat. 2835, provided that: "This Act
 
 #### Savings Provision
 
-Pub. L. 96–513, title VII, §703, Dec. 12, 1980, 94 Stat. 2956, provided that: "Except as otherwise provided inthis Act, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] do not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act \[see Effective Date of 1980 Amendment note above\]."
+Pub. L. 96–513, title VII, §703, Dec. 12, 1980, 94 Stat. 2956, provided that: "Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] do not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act \[see Effective Date of 1980 Amendment note above\]."
 
 #### Transfer of Functions
 
@@ -778,9 +794,11 @@ Authority vested by this title in "military departments", "the Secretary concern
 
 #### Coordination of Certain Sections of an Act With Other Provisions of That Act
 
-Pub. L. 115–91, div. A, title X, §1081(j), Dec. 12, 2017, 131 Stat. 1601, provided that: "For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act."
+Pub. L. 115–232, div. A, title X, §1081(g), Aug. 13, 2018, 132 Stat. 1987, provided that: "For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 115–91, div. A, title X, §1081(j), Dec. 12, 2017, 131 Stat. 1601.
 
 Pub. L. 114–328, div. A, title X, §1081(d), Dec. 23, 2016, 130 Stat. 2420.
 
@@ -817,6 +835,8 @@ Pub. L. 102–484, div. A, title X, §1055, Oct. 23, 1992, 106 Stat. 2503.
 #### Congressional Defense Committees Defined
 
 The following provisions provided that the term "congressional defense committees" for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+Pub. L. 115–232, §3, Aug. 13, 2018, 132 Stat. 1658.
 
 Pub. L. 115–91, §3, Dec. 12, 2017, 131 Stat. 1305.
 
@@ -870,7 +890,7 @@ Pub. L. 106–259, title VIII, §8034, Aug. 9, 2000, 114 Stat. 682.
 
 Pub. L. 106–79, title VIII, §8036, Oct. 25, 1999, 113 Stat. 1239.
 
-The following provisions defined the term "congressional defense committees" for purposes of the Acts in which they were contained to mean the Committee on Armed Services and the Committee on Appropriationsof the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives:
+The following provisions defined the term "congressional defense committees" for purposes of the Acts in which they were contained to mean the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives:
 
 Pub. L. 108–136, §3, Nov. 24, 2003, 117 Stat. 1406.
 
@@ -935,4 +955,6 @@ Pub. L. 102–25, §3, Apr. 6, 1991, 105 Stat. 77, as amended by Pub. L. 102–1
 &emsp;"(3) The term 'Persian Gulf conflict' means the period beginning on August 2, 1990, and ending thereafter on the date prescribed by Presidential proclamation or by law.
 
 &emsp;"(4) The term 'congressional defense committees' has the meaning given that term in section 3 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1498)."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@ If any employer fails to deduct and withhold any tax under chapter 24 or subchap
 
 #### (2) Employee social security tax
 
-&emsp;Taxes under subchapter A of chapter 21 with respect to such employee shall be determinedas if the taxes imposed under such subchapter were 20 percent of the amount imposed under such subchapter without regard to this subparagraph.
+&emsp;Taxes under subchapter A of chapter 21 with respect to such employee shall be determined as if the taxes imposed under such subchapter were 20 percent of the amount imposed under such subchapter without regard to this subparagraph.
 
 #### (b) Employer's liability increased where employer disregards reporting requirements
 
@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the employer shall not be entitled to recover from the employee any tax so determined, and
 
-&emsp;&emsp;(C) sections <sup>1</sup> 3402(d) and section 6521 shall not apply.
+&emsp;&emsp;(C) section 3402(d) and section 6521 shall not apply.
 
 #### (2) Section not to apply where employer deducts wage but not social security taxes
 
@@ -56,9 +56,11 @@ For purposes of this section—
 
 &emsp;This section shall not apply to any tax under subchapter A of chapter 21 with respect to an individual described in subsection (d)(3) of section 3121 (without regard to whether such individual is described in paragraph (1) or (2) of such subsection).
 
-(Added Pub. L. 97–248, title II, §270(a), Sept. 3, 1982, 96 Stat. 553; amended Pub. L. 100–647, title II, §2003(d), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 101–508, title V, §5130(a)(4), Nov. 5, 1990, 104 Stat. 1388–289.)
+(Added Pub. L. 97–248, title II, §270(a), Sept. 3, 1982, 96 Stat. 553; amended Pub. L. 100–647, title II, §2003(d), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 101–508, title V, §5130(a)(4), Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 115–141, div. U, title IV, §401(a)(218), Mar. 23, 2018, 132 Stat. 1194.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(1)(C). Pub. L. 115–141 substituted "section 3402(d)" for "sections 3402(d)".
 
 <b>1990</b>—Subsec. (d)(3). Pub. L. 101–508 substituted "subsection (d)(3)" for "subsection (d)(4)".
 
@@ -71,6 +73,4 @@ Amendment by Pub. L. 101–508 effective as if included in the enactment of Pub.
 #### Effective Date
 
 Pub. L. 97–248, title II, §270(c), Sept. 3, 1982, 96 Stat. 554, provided that: "The amendment made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[Sept. 3, 1982\], except that such amendments shall not apply to any assessment made before January 1, 1983."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

@@ -12,7 +12,7 @@ Another prior section 785, Pub. L. 93–112, title IV, §405, Sept. 26, 1973, 87
 
 Prior sections 786 and 787 were repealed by Pub. L. 95–602, title I, §117, Nov. 6, 1978, 92 Stat. 2977.
 
-Section 786, Pub. L. 93–112, title IV, §406, Sept. 26, 1973, 87 Stat. 389; S. Res. 4, Feb. 4, 1977, provided that the Secretary conduct a study on the role of sheltered workshops in the rehabilitation and employment of handicapped individuals and report the results of this study to Congress within twenty-four months after Sept. 26, 1973.
+Section 786, Pub. L. 93–112, title IV, §406, Sept. 26, 1973, 87 Stat. 389; S. Res. 4, Feb. 4, 1977, provided that the Secretary conduct a study on the role of shelteredworkshops in the rehabilitation and employment of handicapped individuals and report the results of this study to Congress within twenty-four months after Sept. 26, 1973.
 
 Section 787, Pub. L. 93–112, title IV, §407, Sept. 26, 1973, 87 Stat. 389, provided that the Secretary conduct a study on allotment of funds among the States for grants for basic vocational rehabilitation and report the results of this study to Congress not later than June 30, 1974.
 

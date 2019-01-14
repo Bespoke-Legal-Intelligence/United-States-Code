@@ -36,7 +36,7 @@ Contents.—The Secretary shall approve a State plan if the Secretary determines
 
 &emsp;&emsp;(D) contains satisfactory assurances that the State will devote adequate resources to the administration of the plan and enforcement of the regulations, standards, and orders;
 
-&emsp;&emsp;(E) provides a right of entry (or other method a State may use that the Secretarydetermines is adequate to obtain necessary information) and inspection to carry out the plan;
+&emsp;&emsp;(E) provides a right of entry (or other method a State may use that the Secretary determines is adequate to obtain necessary information) and inspection to carry out the plan;
 
 &emsp;&emsp;(F) provides that all reports required under this section be available to the Secretary on request;
 
@@ -164,7 +164,7 @@ Use of Unified Carrier Registration Fees Agreement.—Amounts generated under se
 
 Use of Grants To Enforce Other Laws.—When approved as part of a State's plan under subsection (c), the State may use motor carrier safety assistance program funds received under this section—
 
-&emsp;(1) if the activities are carried out in conjunction with an appropriate inspection of acommercial motor vehicle to enforce Federal or State commercial motor vehicle safety regulations, for—
+&emsp;(1) if the activities are carried out in conjunction with an appropriate inspection of a commercial motor vehicle to enforce Federal or State commercial motor vehicle safety regulations, for—
 
 &emsp;&emsp;(A) enforcement of commercial motor vehicle size and weight limitations at locations, excluding fixed-weight facilities, such as near steep grades or mountainous terrains, where the weight of a commercial motor vehicle can significantly affect the safe operation of the vehicle, or at ports where intermodal shipping containers enter and leave the United States; and
 
@@ -174,7 +174,7 @@ Use of Grants To Enforce Other Laws.—When approved as part of a State's plan u
 
 &emsp;&emsp;(A) the number of motor carrier safety activities, including roadside safety inspections, conducted in the State is maintained at a level at least equal to the average level of such activities conducted in the State in fiscal years 2004 and 2005; and
 
-&emsp;&emsp;(B) the State does not use more than 10 percent of the basic amount the State receives under a grant awarded under section 31104(a)(1) for enforcement activities relating to noncommercial motor vehicles necessary to promote the safe operation of commercial motor vehicles unless the Secretary determines that a higher percentage will result in significant increases in commercial motor vehicle safety.
+&emsp;&emsp;(B) the State does not use more than 10 percent of the basic amount the State receives under a grant awarded under section 31104(a)(1) for enforcement activities relating to noncommercial motor vehicles necessary to promote the safe operation of commercial motor vehicles unless the Secretarydetermines that a higher percentage will result in significant increases in commercial motor vehicle safety.
 
 (i)
 
@@ -326,7 +326,7 @@ Use of funds.—Grant funds received under this paragraph may be used—
 
 Secretary authorization.—The Secretary is authorized to award a State funding for the operation and maintenance costs associated with innovative technology deployment with funds made available under sections 31104(a)(1) and 31104(a)(2).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 984; Pub. L. 104–88, title I, §104(a), Dec. 29, 1995, 109 Stat. 918; Pub. L. 105–178, title IV, §4003(b), (c), June 9, 1998, 112 Stat. 395, 396; Pub. L. 106–159, title II, §207, Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4106, 4307(b), Aug. 10, 2005, 119Stat. 1717, 1774; Pub. L. 112–141, div. C, title II, §32601(a), July 6, 2012, 126 Stat. 805; Pub. L. 114–94, div. A, title V, §5101(a), Dec. 4, 2015, 129 Stat. 1514.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 984; Pub. L. 104–88, title I, §104(a), Dec. 29, 1995, 109 Stat. 918; Pub. L. 105–178, title IV, §4003(b), (c), June 9, 1998, 112 Stat. 395, 396; Pub. L. 106–159, title II, §207, Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4106, 4307(b), Aug. 10, 2005, 119 Stat. 1717, 1774; Pub. L. 112–141, div. C, title II, §32601(a), July 6, 2012, 126 Stat. 805; Pub. L. 114–94, div. A, title V, §5101(a), Dec. 4, 2015, 129 Stat. 1514.)
 
 Historical and Revision Notes
 
@@ -664,7 +664,7 @@ Deadline.—If a State does not request a waiver or modification under this subs
 
 &emsp;"(4)
 
-Maintenance of effort described.—The maintenance of effort calculated under this section is the amount required under section 31102(f) of title 49, United States Code, as amended by this subtitle.
+Maintenance of effort described.—The maintenance of effort calculated under this section isthe amount required under section 31102(f) of title 49, United States Code, as amended by this subtitle.
 
 "(c)
 

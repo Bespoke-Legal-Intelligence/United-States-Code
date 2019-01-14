@@ -46,9 +46,9 @@ National Aviation Research Plan.—(1) The Administrator of the Federal Aviation
 
 (B) The plan shall—
 
-&emsp;(i) provide estimates by year of the schedule, cost, and work force levels for each active and planned major research and development project under sections 40119, 44504, 44505, 44507, 44509, 44511–44513, and 44912 of this title, including activities carried out under cooperative agreements with other Federal departments and agencies;
+&emsp;(i) provide estimates by year of the schedule, cost, and work force levels for each active and planned major research and development project under sections 40119,<sup>1</sup> 44504, 44505, 44507, 44509, 44511–44513, and 44912 of this title, including activities carried out under cooperative agreements with other Federal departments and agencies;
 
-&emsp;(ii) specify the goals and the priorities for allocation of resources among the major categories of research and development activities, including the rationale for the priorities identified;
+&emsp;(ii) specify the goals and the priorities for allocation of resources among the major categories of research and development activities,including the rationale for the priorities identified;
 
 &emsp;(iii) identify the allocation of resources among long-term research, near-term research, and development activities;
 
@@ -58,7 +58,7 @@ National Aviation Research Plan.—(1) The Administrator of the Federal Aviation
 
 &emsp;(vi) highlight the research and development technology transfer activities that promote technology sharing among government, industry, and academia through the Stevenson-Wydler Technology Innovation Act of 1980.
 
-(3) Subject to section 40119(b) of this title and regulations prescribed under section 40119(b), the Administrator of the Federal Aviation Administration shall submit to the committees named in paragraph (1) of this subsection an annual report on the accomplishments of the research completed during the prior fiscal year, including a description of the dissemination to the private sector of research results and a description of any new technologies developed. The report shall be submitted with the plan required under paragraph (1) and be organized to allow comparison with the plan in effect for the prior fiscal year. The report shall be prepared in accordance with requirements of section 1116 of title 31.
+(3) Subject to section 40119(b) <sup>1</sup> of this title and regulations prescribed under section 40119(b),<sup>1</sup> the Administrator of the Federal Aviation Administration shall submit to the committees named in paragraph (1) of this subsection an annual report on the accomplishments of the research completed during the prior fiscal year, including a description of the dissemination to the private sector of research results and a description of any new technologies developed. The report shall be submitted with the plan required under paragraph (1) and be organized to allow comparison with the plan in effect for the prior fiscal year. The report shall be prepared in accordance with requirements of section 1116 of title 31.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173; Pub. L. 104–264, title XI, §1105, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 104–287, §5(74), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 106–181, title IX, §902(a), Apr. 5, 2000, 114 Stat. 195; Pub. L. 112–95, title I, §105, Feb. 14, 2012, 126 Stat. 17.)
 
@@ -110,6 +110,8 @@ In subsection (d)(3), the words "beginning with the date of transmission of the 
 
 #### References in Text
 
+Section 40119 of this title, referred to in subsec. (c)(2)(B)(i), (3), was repealed by Pub. L. 115–254, div. K, title I, §1991(c)(3), Oct. 5, 2018, 132 Stat. 3627.
+
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(2)(B)(vi), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
@@ -130,7 +132,7 @@ Subsec. (c)(3). Pub. L. 104–264, §1105(3), inserted ", including a descripti
 
 #### Change of Name
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology ofHouse of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2000 Amendment
 
@@ -138,11 +140,11 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construedas affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Consolidation and Realignment of FAA Services and Facilities
 
-Pub. L. 112–95, title VIII, §804, Feb. 14, 2012, 126 Stat. 119, provided that:
+Pub. L. 112–95, title VIII, §804, Feb. 14, 2012, 126 Stat. 119, as amended by Pub. L. 115–254, div. B, title V, §§510, 545(b)(2), Oct. 5, 2018, 132 Stat. 3355, 3376, provided that:
 
 "(a)
 
@@ -154,11 +156,7 @@ In general.—The Administrator of the Federal Aviation Administration shall dev
 
 &emsp;"(2)
 
-Purpose.—The purpose of the report shall be—
-
-&emsp;&emsp;"(A) to support the transition to the Next Generation Air Transportation System; and
-
-&emsp;&emsp;"(B) to reduce capital, operating, maintenance, and administrative costs of the FAA where such cost reductions can be implemented without adversely affecting safety.
+Purpose.—The purpose of the report shall be to reduce capital, operating, maintenance, and administrative costs of the FAA where such cost reductions can be implemented without adversely affecting safety.
 
 &emsp;"(3)
 
@@ -176,15 +174,11 @@ Contents.—The report shall include—
 
 &emsp;"(4)
 
-Input.—The report shall be developed by the Administrator (or the Administrator's designee)—
+Input.—The report shall be prepared by the Administrator (or the Administrator's designee) with the participation of—
 
-&emsp;&emsp;"(A) in coordination with the Chief NextGen Officer and the Chief Operating Officer of the Air Traffic Organization of the FAA; and
+&emsp;&emsp;"(A) representatives of labor organizations representing air traffic control system employees of the FAA; and
 
-&emsp;&emsp;"(B) with the participation of—
-
-&emsp;&emsp;&emsp;"(i) representatives of labor organizations representing operations and maintenance employees of the air traffic control system; and
-
-&emsp;&emsp;&emsp;"(ii) industry stakeholders.
+&emsp;&emsp;"(B) industry stakeholders.
 
 &emsp;"(5)
 
@@ -224,6 +218,18 @@ Computation of 30-day period.—For purposes of paragraph (1)(A), the days on wh
 
 "(e)
 
+Military Operations Exclusion.—
+
+&emsp;"(1)
+
+In general.—The Administrator may not realign or consolidate a combined TRACON and tower with radar facility of the FAA under this section if, in 2015, the total annual military operations at the facility comprised at least 40 percent of the total annual TRACON operations at the facility.
+
+&emsp;"(2)
+
+TRACON defined.—In this subsection, the term 'TRACON' means terminal radar approach control.
+
+"(f)
+
 Definitions.—In this section, the following definitions apply:
 
 &emsp;"(1)
@@ -247,6 +253,8 @@ In general.—The terms 'realignment' and 'consolidation' include any action tha
 &emsp;&emsp;"(B)
 
 Exclusion.—The terms do not include a reduction in personnel resulting from workload adjustments."
+
+\[Section 545(b)(2) of Pub. L. 115–254, which directed amendment of section 804 of Pub. L. 112–95, set out above, by substituting "Chief Technology Officer" for "Chief NextGen Officer" in subsec. (a)(4)(A), could not be executed because the words "Chief NextGen Officer" did not appear after the intervening amendment of subsec. (a)(4) by section 510(a)(2) of Pub. L. 115–254.\]
 
 #### Program Authorizations
 
@@ -291,4 +299,6 @@ Pub. L. 112–95, title IX, §901(c), Feb. 14, 2012, 126 Stat. 137, provided tha
 &emsp;"(19) Airport Cooperative Research—Environment.
 
 &emsp;"(20) Airport Cooperative Research—Safety."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

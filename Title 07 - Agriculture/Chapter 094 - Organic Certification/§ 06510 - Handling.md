@@ -10,7 +10,7 @@ For a handling operation to be certified under this chapter, each person on such
 
 &emsp;(3) add any sulfites, except in the production of wine, nitrates, or nitrites;
 
-&emsp;(4) add any ingredients that are not organically produced in accordance with this chapter and the applicable organic certification program, unless such ingredients are included onthe National List and represent not more than 5 percent of the weight of the total finished product (excluding salt and water);
+&emsp;(4) add any ingredients that are not organically produced in accordance with this chapter and the applicable organic certification program, unless such ingredients are included on the National List and represent not more than 5 percent of the weight of the total finished product (excluding salt and water);
 
 &emsp;(5) use any packaging materials, storage containers or bins that contain synthetic fungicides, preservatives, or fumigants;
 

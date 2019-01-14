@@ -38,5 +38,5 @@ In subsec. (e), "section 5104(c) of title 40" substituted for "section 4 of the 
 
 #### Amendments
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–90 inserted at end "On or before December 31 of each year, the Secretary ofthe Senate shall withdraw from the fund and deposit in the Treasury of the United States as miscellaneous receipts all moneys in excess of $5,000 in the fund at the close of the preceding fiscal year."
+<b>1991</b>—Subsec. (c). Pub. L. 102–90 inserted at end "On or before December 31 of each year, the Secretary of the Senate shall withdraw from the fund and deposit in the Treasury of the United States as miscellaneous receipts all moneys in excess of $5,000 in the fund at the close of the preceding fiscal year."
 

@@ -36,7 +36,7 @@ The Board of Directors shall administer the affairs of the Corporation fairly an
 
 #### (A) In general
 
-&emsp;&emsp;In making any examination under paragraph (2) or (3), any examiner appointed under paragraph (1) shall have power, on behalf of the Corporation, to make such examinations of the affairs of any affiliate of any depository institution as may be necessary to disclose fully—
+&emsp;&emsp;In making any examination under paragraph (2) or (3), any examiner appointedunder paragraph (1) shall have power, on behalf of the Corporation, to make such examinations of the affairs of any affiliate of any depository institution as may be necessary to disclose fully—
 
 &emsp;&emsp;&emsp;(i) the relationship between such depository institution and any such affiliate; and
 
@@ -88,7 +88,7 @@ In connection with examinations of insured depository institutions and any State
 
 &emsp;Paragraphs (1), (2), and (3) shall apply with "18-month" substituted for "12-month" if—
 
-&emsp;&emsp;(A) the insured depository institution has total assets of less than $1,000,000,000;
+&emsp;&emsp;(A) the insured depository institution has total assets of less than $3,000,000,000;
 
 &emsp;&emsp;(B) the institution is well capitalized, as defined in section 1831o of this title;
 
@@ -144,7 +144,7 @@ In connection with examinations of insured depository institutions and any State
 
 #### (10) Agencies authorized to increase maximum asset amount of institutions for certain purposes
 
-&emsp;At any time after the end of the 2-year period beginning on September 23, 1994, the appropriate Federal banking agency, in the agency's discretion, may increase the maximum amount limitation contained in paragraph (4)(C)(ii), by regulation, from $200,000,000 to an amount not to exceed $1,000,000,000 for purposes of such paragraph, if the agency determines that the greater amount would be consistent with the principles of safety and soundness for insured depository institutions.
+&emsp;At any time after the end of the 2-year period beginning on September 23, 1994, the appropriate Federal banking agency, in the agency's discretion, may increase the maximum amount limitation contained in paragraph (4)(C)(ii), by regulation, from $200,000,000 to an amount not to exceed $3,000,000,000 for purposes of such paragraph, if the agency determines that the greater amount would be consistent with the principles of safety and soundness for insured depository institutions.
 
 #### (e) Examination fees
 
@@ -154,7 +154,7 @@ In connection with examinations of insured depository institutions and any State
 
 #### (2) Examination of affiliates
 
-&emsp;The cost of conducting any examination of any affiliate of any insured depository institution under subsection (b)(4) may be assessedby the Corporation against each affiliate which is examined to meet the Corporation's expenses in carrying out such examination.
+&emsp;The cost of conducting any examination of any affiliate of any insured depository institution under subsection (b)(4) may be assessed by the Corporation against each affiliate which is examined to meet the Corporation's expenses in carrying out such examination.
 
 #### (3) Assessment against depository institution in case of affiliate's refusal to pay
 
@@ -300,7 +300,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 &emsp;&emsp;Solely for purposes of paragraph (2)(B), an insured State bank has been determined to be in "troubled condition" if the bank—
 
-&emsp;&emsp;&emsp;(i) has a composite rating, as determined in its most recent report of examination,of 4 or 5 under the Uniform Financial Institutions Ratings System;
+&emsp;&emsp;&emsp;(i) has a composite rating, as determined in its most recent report of examination, of 4 or 5 under the Uniform Financial Institutions Ratings System;
 
 &emsp;&emsp;&emsp;(ii) is subject to a proceeding initiated by the Corporation for termination or suspension of deposit insurance; or
 
@@ -420,17 +420,21 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 &emsp;&emsp;Solely for purposes of this paragraph, the "appropriate Federal banking agency" for a company that is not a depository institution or depository institution holding company shall be the Federal banking agency on whose behalf the person described in paragraph (1) performed the functions described in paragraph (1)(B).
 
-(Sept. 21, 1950, ch. 967, §2\[10\], 64 Stat. 882; Pub. L. 86–671, §4, July 14, 1960, 74 Stat. 551; Pub. L. 89–695, title II, §203, Oct. 16, 1966, 80 Stat. 1053; Pub. L. 91–452, title II, §208, Oct. 15, 1970, 84 Stat. 929; Pub. L. 95–369, §6(c)(16), Sept. 17, 1978, 92 Stat. 619; Pub. L. 95–630, title III, §305, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title I, §113(i), title IV, §410(g), Oct. 15, 1982, 96 Stat. 1474, 1520; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–73, title II, §§201(a), 210, Aug. 9, 1989, 103 Stat. 187, 217; Pub. L. 102–242, title I, §§111(a), 113(a), (b), (c)(2), title II, §203(c), title III, §302(d), Dec. 19, 1991, 105 Stat. 2240, 2246–2248, 2292, 2349; Pub. L. 102–550, title XVI, §§1603(b)(1), (4), 1604(a)(3), 1605(a)(4), Oct. 28, 1992, 106 Stat. 4078, 4079, 4082, 4085; Pub. L. 102–558, title III, §§303(b)(5), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–325, title III, §§305(a), 306, 349(a), title V, §529(a), title VI, §602(a)(19), (20), Sept. 23, 1994, 108 Stat. 2216, 2217, 2242, 2266, 2289; Pub. L. 103–328, title I, §105, Sept. 29, 1994, 108 Stat. 2357; Pub. L. 104–208, div. A, title II, §§2221, 2244, Sept. 30, 1996, 110 Stat. 3009–414, 3009–419; Pub. L. 108–386, §8(a)(3), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 108–458, title VI, §6303(b), Dec. 17, 2004, 118 Stat. 3751; Pub. L. 109–351, title VI, §605, title VII, §§711, 723(a), Oct. 13, 2006, 120 Stat. 1981, 1991, 2000; Pub. L. 109–473, §1, Jan. 11, 2007, 120 Stat. 3561; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(B), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title I, §172(a), title III, §§318(d), 363(4), July 21, 2010, 124 Stat. 1438, 1527, 1552; Pub. L. 114–94, div. G, title LXXXIII, §83001, Dec. 4, 2015, 129 Stat. 1796.)
+(Sept. 21, 1950, ch. 967, §2\[10\], 64 Stat. 882; Pub. L. 86–671, §4, July 14, 1960, 74 Stat. 551; Pub. L. 89–695, title II, §203, Oct. 16, 1966, 80 Stat. 1053; Pub. L. 91–452, title II, §208, Oct. 15, 1970, 84 Stat. 929; Pub. L. 95–369, §6(c)(16), Sept. 17, 1978, 92 Stat. 619; Pub. L. 95–630, title III, §305, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title I, §113(i), title IV, §410(g), Oct. 15, 1982, 96 Stat. 1474, 1520; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–73, title II, §§201(a), 210, Aug. 9, 1989, 103 Stat. 187, 217; Pub. L. 102–242, title I, §§111(a), 113(a), (b), (c)(2), title II, §203(c), title III, §302(d), Dec. 19, 1991, 105 Stat. 2240, 2246–2248, 2292, 2349; Pub. L. 102–550, title XVI, §§1603(b)(1), (4), 1604(a)(3), 1605(a)(4), Oct. 28, 1992, 106 Stat. 4078, 4079, 4082, 4085; Pub. L. 102–558, title III, §§303(b)(5), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–325, title III, §§305(a), 306, 349(a), title V, §529(a), title VI, §602(a)(19), (20), Sept. 23, 1994, 108 Stat. 2216, 2217, 2242, 2266, 2289; Pub. L. 103–328, title I, §105, Sept. 29, 1994, 108 Stat. 2357; Pub. L. 104–208, div. A, title II, §§2221, 2244, Sept. 30, 1996, 110 Stat. 3009–414, 3009–419; Pub. L. 108–386, §8(a)(3), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 108–458, title VI, §6303(b), Dec. 17, 2004, 118 Stat. 3751; Pub. L. 109–351, title VI, §605, title VII, §§711, 723(a), Oct. 13, 2006, 120 Stat. 1981, 1991, 2000; Pub. L. 109–473, §1, Jan. 11, 2007, 120 Stat. 3561; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(B), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title I, §172(a), title III, §§318(d), 363(4), July 21, 2010, 124 Stat. 1438, 1527, 1552; Pub. L. 114–94, div. G, title LXXXIII, §83001, Dec. 4, 2015, 129 Stat. 1796; Pub. L. 115–174, title II, §210, May 24, 2018, 132 Stat. 1316.)
 
 #### References in Text
 
-Title II of that Act, referred to in subsec. (b)(3)(A), probably means title II of Pub. L. 111–203, known as theDodd-Frank Wall Street Reform and Consumer Protection Act, which is classified principally to subchapter II (§5381 et seq.) of chapter 53 of this title. The Financial Stability Act of 2010, which is title I of Pub. L. 111–203, does not contain titles. For complete classification of title II to the Code, see Tables.
+Title II of that Act, referred to in subsec. (b)(3)(A), probably means title II of Pub. L. 111–203, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which is classified principally to subchapter II (§5381 et seq.) of chapter 53 of this title. The Financial Stability Act of 2010, which is title I of Pub. L. 111–203, does not contain titles. For complete classification of title II to the Code, see Tables.
 
 #### Prior Provisions
 
 Subsecs. (a), (b), \[former\] (e), and \[former\] (f) are derived from subsec. (k) of former section 264 of this title. See Codification note set out under section 1811 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(4)(A). Pub. L. 115–174, §210(1), substituted "$3,000,000,000" for "$1,000,000,000".
+
+Subsec. (d)(10). Pub. L. 115–174, §210(2), substituted "$3,000,000,000" for "$1,000,000,000".
 
 <b>2015</b>—Subsec. (d)(4)(A). Pub. L. 114–94, §83001(1)(A), substituted "$1,000,000,000" for "$500,000,000".
 
@@ -512,7 +516,7 @@ Subsec. (d)(5). Pub. L. 102–550, §1603(b)(1)(A), (B), inserted "or the Resolu
 
 Subsec. (d)(6). Pub. L. 102–550, §1603(b)(1)(C), struck out par. (6) which read as follows: "(6)
 
-Consumer compliance examinations excluded.—For purposes of thissubsection, the term 'full-scope, on-site examination' does not include a consumer compliance examination, as defined in section 41(b)."
+Consumer compliance examinations excluded.—For purposes of this subsection, the term 'full-scope, on-site examination' does not include a consumer compliance examination, as defined in section 41(b)."
 
 Subsec. (e). Pub. L. 102–550, §1603(b)(4), amended directory language of Pub. L. 102–242, §113(a)(2). See 1991 Amendment note below.
 
@@ -572,7 +576,7 @@ Amendment by section 172(a) of Pub. L. 111–203 effective 1 day after July 21, 
 
 Amendment by section 318(d) of Pub. L. 111–203 effective on the transfer date, see section 318(e) of Pub. L. 111–203, set out as an Effective Date note under section 16 of this title.
 
-Amendment by section 363(4) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L.111–203, set out as a note under section 906 of Title 2, The Congress.
+Amendment by section 363(4) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 #### Effective Date of 2004 Amendments
 
@@ -594,7 +598,7 @@ Amendment by section 302(d) of Pub. L. 102–242 effective on earlier of 180 day
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–630 effective upon expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
+Amendment by Pub. L. 95–630 effective upon expiration of 120 days after Nov. 10, 1978, see section 2101 ofPub. L. 95–630, set out as an Effective Date note under section 375b of this title.
 
 #### Effective Date of 1970 Amendment
 

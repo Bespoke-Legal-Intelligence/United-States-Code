@@ -74,7 +74,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(14) According to Freedom House's 2011 report entitled 'The Perpetual Battle: Corruption in the Former Soviet Union and the New EU Members', '\[t\]he highly publicized cases of Sergei Magnitsky, a 37-year-old lawyer who died in pretrial detention in November 2009 after exposing a multimillion-dollar fraud against the Russian taxpayer, and Mikhail Khodorkovsky, the jailed business magnate and regime critic who was sentenced at the end of 2010 to remain in prison through 2017, put an international spotlight on the Russian state's contempt for the rule of law \* \* \*. By silencing influential and accomplished figures such as Khodorkovsky and Magnitsky, the Russian authorities have made it abundantly clear that anyone in Russia can be silenced.'.
 
-&emsp;"(15) The tragic and unresolved murders of Nustap Abdurakhmanov, Maksharip Aushev, NatalyaEstemirova, Akhmed Hadjimagomedov, Umar Israilov, Paul Klebnikov, Anna Politkovskaya, Saihadji Saihadjiev, and Magomed Y. Yevloyev, the death in custody of Vera Trifonova, the disappearances of Mokhmadsalakh Masaev and Said-Saleh Ibragimov, the torture of Ali Israilov and Islam Umarpashaev, the near-fatal beatings of Mikhail Beketov, Oleg Kashin, Arkadiy Lander, and Mikhail Vinyukov, and the harsh and ongoing imprisonment of Mikhail Khodorkovsky, Alexei Kozlov, Platon Lebedev, and Fyodor Mikheev further illustrate the grave danger of exposing the wrongdoing of officials of the Government of the Russian Federation, including Chechen leader Ramzan Kadyrov, or of seeking to obtain, exercise, defend, or promote internationally recognized human rights and freedoms.
+&emsp;"(15) The tragic and unresolved murders of Nustap Abdurakhmanov, Maksharip Aushev, Natalya Estemirova, Akhmed Hadjimagomedov, Umar Israilov, Paul Klebnikov, Anna Politkovskaya, Saihadji Saihadjiev, and Magomed Y. Yevloyev, the death in custody of Vera Trifonova, the disappearances of Mokhmadsalakh Masaev and Said-Saleh Ibragimov, the torture of Ali Israilov and Islam Umarpashaev, the near-fatal beatings of Mikhail Beketov, Oleg Kashin, Arkadiy Lander, and Mikhail Vinyukov, and the harsh and ongoing imprisonment of Mikhail Khodorkovsky, Alexei Kozlov, Platon Lebedev, and Fyodor Mikheev further illustrate the grave danger of exposing the wrongdoing of officials of the Government of the Russian Federation, including Chechen leader Ramzan Kadyrov, or of seeking to obtain, exercise, defend, or promote internationally recognized human rights and freedoms.
 
 "(b)
 
@@ -420,7 +420,7 @@ Conditions.—The conditions referred to in subsection (a) are the following:
 
 &emsp;"(4) The cessation of all forms of harassment and repression against the independent media, independent trade unions, nongovernmental organizations, youth groups, religious organizations (including their leadership and members), and the political opposition in Belarus.
 
-&emsp;"(5) The prosecution of senior leadership of the Government of Belarus responsible for the administration of fraudulent elections and violations of human rights, including violations of human rights committed in connection with the presidential election of December 19, 2010.
+&emsp;"(5) The prosecution of senior leadership of the Government of Belarus responsible for the administration of fraudulent elections and violations of human rights, including violations of human rightscommitted in connection with the presidential election of December 19, 2010.
 
 &emsp;"(6) A full accounting of the embezzlement of state assets by senior leadership of the Government of Belarus, their family members, and other associates.
 
@@ -436,7 +436,7 @@ Denial of Entry Into the United States of Senior Leadership of the Government of
 
 &emsp;"(3) through his or her business dealings with senior leadership of the Government of Belarus derives significant financial benefit from policies or actions, including electoral fraud, human rights abuses, or corruption, that undermine or injure democratic institutions or impede the transition to democracy in Belarus;
 
-&emsp;"(4) is a member of any branch of the security or law enforcement services of Belarus and has participated in the violent crackdown on opposition leaders,journalists, and peaceful protestors that occurred in connection with the presidential election of December 19, 2010; or
+&emsp;"(4) is a member of any branch of the security or law enforcement services of Belarus and has participated in the violent crackdown on opposition leaders, journalists, and peaceful protestors that occurred in connection with the presidential election of December 19, 2010; or
 
 &emsp;"(5) is a member of any branch of the security or law enforcement services of Belarus and has participated in the persecution or harassment of religious groups, human rights defenders, democratic opposition groups, or independent media or journalists.
 
@@ -446,7 +446,7 @@ Prohibition on Loans and Investment.—
 
 &emsp;"(1)
 
-United states government financing.—It is the sense of Congress that no loan, credit guarantee, insurance, financing, or other similar financial assistance should be extended by any agency of the Government of the United States (including the Export-Import Bank of the United States and the Overseas Private Investment Corporation) to the Government of Belarus, except with respect to the provision of humanitarian goods and agricultural or medical products.
+United states government financing.—It is the sense of Congress that no loan, credit guarantee, insurance, financing, or other similar financial assistance should be extended by any agency of the Government of the United States (including the Export-Import Bank of the United States and the Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\]) to the Government of Belarus, except with respect to the provision of humanitarian goods and agricultural or medical products.
 
 &emsp;"(2)
 
@@ -528,9 +528,9 @@ United states person.—The term 'United States person' means—
 
 "(a)
 
-Report.—Not later than 90 days after the date of the enactment of the Belarus Democracy and Human Rights Act of 2011 \[Pub. L. 112–82, approved Jan. 3, 2012\], and not later than 1 year thereafter, the President shall transmit to the appropriate congressional committees a report that describes, with respect to the preceding 12-month period, and to the extent practicable the following:
+Report.—Not later than 90 days after the date of the enactment of the Belarus Democracy and HumanRights Act of 2011 \[Pub. L. 112–82, approved Jan. 3, 2012\], and not later than 1 year thereafter, the President shall transmit to the appropriate congressional committees a report that describes, with respect to the preceding 12-month period, and to the extent practicable the following:
 
-&emsp;"(1) The sale or delivery or provision of weapons or weapons-related technologies or weapons-related training from the Republic of Belarus to any country, the government of which the Secretary of State has determined, for purposes of section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) \[now 50 U.S.C. 4605(j)(1)\], has repeatedly provided support for acts of international terrorism.
+&emsp;"(1) The sale or delivery or provision of weapons or weapons-related technologies or weapons-related training from the Republic of Belarus to any country, the government of which the Secretary of State has determined, for purposes of \[former\] section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) \[former 50 U.S.C. 4605(j)(1)\], has repeatedly provided support for acts of international terrorism.
 
 &emsp;"(2) An identification of each country described in paragraph (1) and a detailed description of the weapons or weapons-related technologies or weapons-related training involved in the sale or delivery or provision.
 
@@ -538,7 +538,7 @@ Report.—Not later than 90 days after the date of the enactment of the Belarus 
 
 &emsp;"(4) The personal assets and wealth of Aleksandr Lukashenka and other senior leadership of the Government of Belarus.
 
-&emsp;"(5) The cooperation of the Government of Belarus with any foreign government or organization for purposes related to the censorship or surveillance of the Internet, or the purchase or receipt by the Government of Belarus of any technology or training from any foreign government or organization for purposesrelated to the censorship or surveillance of the Internet.
+&emsp;"(5) The cooperation of the Government of Belarus with any foreign government or organization for purposes related to the censorship or surveillance of the Internet, or the purchase or receipt by the Government of Belarus of any technology or training from any foreign government or organization for purposes related to the censorship or surveillance of the Internet.
 
 "(b)
 

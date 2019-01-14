@@ -16,7 +16,7 @@
 
 &emsp;(2) buy directly and hold an additional $3,000,000,000 of obligations of the Government for each agreed period, unless the Secretary consents to the sale of the obligations before the end of the period.
 
-(c) With the approval of the Secretary, the Board may require Federal reserve banks totake action the Secretary and Board consider necessary to prevent unreasonable credit expansion.
+(c) With the approval of the Secretary, the Board may require Federal reserve banks to take action the Secretary and Board consider necessary to prevent unreasonable credit expansion.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 993.)
 
@@ -38,7 +38,7 @@ May 12, 1933, ch. 25, §43(less (b)(1)(last sentence)), 48 Stat. 51; Jan. 30, 19
 
 31:821(a)(last sentence).
 
-In subsection (a), before clause (1), the text of 31:821(b)(matter before (1)) is omitted as obsolete because clause (1) is omitted as executed, and clause (2) is omitted as expired. The text of 31:821(b)(matter after (2)) is omitted as obsolete because silver is no longer coined. The words "in his discretion" and "several" are omitted as surplus. The words "Board of Governors of the Federal Reserve System" are substituted for "Federal Reserve Board" because of 12:241. The words "upon investigation" are omitted as surplus. In clause (1), the word "foreign" is substituted for "of any other government or governments" to eliminate unnecessary words. The words "coins and" are added for consistency. In clause (2), the words "United States coins and currency" are substituted for "currency issues of the United States" for consistency. In clause (4), the words "so that the United States Government and the governments of other countries can stabilize" are substituted for "to secure by international agreement a stabilization" for clarity. The words "at proper levels" are omitted as surplus.
+In subsection (a), before clause (1), the text of 31:821(b)(matter before (1)) is omitted as obsolete because clause (1) is omitted as executed, and clause (2) is omitted as expired. The text of 31:821(b)(matter after (2)) is omitted as obsolete because silver is no longer coined. The words "in his discretion" and "several" are omitted as surplus. The words "Board of Governors ofthe Federal Reserve System" are substituted for "Federal Reserve Board" because of 12:241. The words "upon investigation" are omitted as surplus. In clause (1), the word "foreign" is substituted for "of any other government or governments" to eliminate unnecessary words. The words "coins and" are added for consistency. In clause (2), the words "United States coins and currency" are substituted for "currency issues of the United States" for consistency. In clause (4), the words "so that the United States Government and the governments of other countries can stabilize" are substituted for "to secure by international agreement a stabilization" for clarity. The words "at proper levels" are omitted as surplus.
 
 In subsection (b), before clause (1), the words "(and the Board is authorized to permit the banks notwithstanding another law)" are substituted for "notwithstanding any provisions of law or rules and regulations to the contrary" for clarity. In clause (1), the words "pursuant to existing law" are omitted as surplus. The words "through each entire" are substituted for "throughout" for clarity. In clause (2), the words "in portfolio", "or periods of time Treasury bills or other" and "in an aggregate sum of" are omitted as surplus.
 

@@ -90,7 +90,7 @@ For purposes of this chapter, the term "modified adjusted gross income" means ad
 
 &emsp;(1) the amount excluded from gross income under section 911(a)(1), over
 
-&emsp;(2) the amount of any deductions (taken into account in computing adjusted gross income) or exclusions disallowed under section 911(d)(6) with respect to the amounts described in paragraph (1).
+&emsp;(2) the amount of any deductions (taken into account in computing adjusted gross income) or exclusions disallowed under section 911(d)(6)with respect to the amounts described in paragraph (1).
 
 #### (e) Nonapplication of section
 

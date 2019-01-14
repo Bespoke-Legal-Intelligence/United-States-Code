@@ -18,7 +18,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(8) "interstate commerce" means trade or commerce among the several States or between any foreign country and any State;
 
-&emsp;(9) "State" includes the several States, the District of Columbia, the Commonwealth ofPuerto Rico, and the territories and possessions of the United States;
+&emsp;(9) "State" includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States;
 
 &emsp;(10) "purchaser" means an actual or prospective purchaser or lessee of any lot in a subdivision;
 
@@ -58,5 +58,5 @@ Pub. L. 90–448, title XIV, §1423, formerly §1422, Aug. 1, 1968, 82 Stat. 599
 
 #### Short Title
 
-Pub. L. 90–448, title XIV, §1401, Aug. 1, 1968, 82 Stat. 590, provided that: "This title \[enacting this chapter\] may be cited as the 'Interstate Land Sales Full Disclosure Act'."
+Pub. L. 90–448, title XIV, §1401, Aug. 1, 1968, 82 Stat. 590, provided that: "This title \[enacting this chapter\]may be cited as the 'Interstate Land Sales Full Disclosure Act'."
 

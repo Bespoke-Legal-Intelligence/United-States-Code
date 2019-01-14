@@ -62,7 +62,7 @@ The provisions of subsection (a) shall be applicable to loss of distilled spirit
 
 &emsp;(5) the customs bonded warehouse in the case of withdrawal under sections 5066 and 5214(a)(9).
 
-> The provisions of subsection (a) shall be applicable to loss of distilled spirits withdrawn frombonded premises without payment of tax under section 5214(a)(10) for certain research, development, or testing, until such distilled spirits are used as provided by law.
+> The provisions of subsection (a) shall be applicable to loss of distilled spirits withdrawn from bonded premises without payment of tax under section 5214(a)(10) for certain research, development, or testing, until such distilled spirits are used as provided by law.
 
 #### (e) Other laws applicable
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 91–659 effective on first day of first calendar month whi
 
 Pub. L. 90–630, §4, Oct. 22, 1968, 82 Stat. 1329, provided that:
 
-"(a) For purposes of subsection (b), the effective date of this Act is the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Oct. 22, 1968\].
+"(a) For purposes of subsection (b), the effective date of this Act is the first day of the first calendar monthwhich begins more than 90 days after the date of the enactment of this Act \[Oct. 22, 1968\].
 
 "(b) The amendments made by the first section of this Act \[amending this section\] shall apply only to losses sustained on or after such effective date. The amendments made by section 2 \[amending section 5062 of this title and section 1313 of Title 19, Customs Duties\] shall apply only to articles exported on or after such effective date. The amendments made by section 3 \[amending section 5232 of this title\] shall apply only to withdrawals from customs custody on or after such effective date."
 

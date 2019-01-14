@@ -42,7 +42,7 @@ The Secretary and the Secretary of the department in which the Coast Guard is op
 
 #### (1) In general
 
-&emsp;Any information submitted to the Secretary in compliance with any requirement under this chapter, and information submitted under any requirement of this chapter that may be necessary to implement the Convention, including information submitted before December 16, 2016, shall be confidential and may not be disclosed, except—
+&emsp;Any information submitted to the Secretary in compliance with any requirement underthis chapter, and information submitted under any requirement of this chapter that may be necessary to implement the Convention, including information submitted before December 16, 2016, shall be confidential and may not be disclosed, except—
 
 &emsp;&emsp;(A) to a Federal employee who is responsible for administering, implementing, or enforcing this chapter;
 

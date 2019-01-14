@@ -1,6 +1,6 @@
 ### §981. Limitation on number of enlisted aides
 
-(a) Subject to subsection (b), the total number of enlisted members that may be assigned or otherwise detailed to duty as enlisted aides on the personal staffs of officers of the Army, Navy, Marine Corps, Air Force, and Coast Guard (when operating as a service of the Navy) during a fiscal year is the number equal to the sum of (1) four times the number of officers serving on active duty at the end of the preceding fiscal year in the grade of general or admiral, and (2) two times the number of officers serving on active duty at the end of the preceding fiscal year in the grade of lieutenant general or vice admiral.
+(a) Subject to subsection (b), the total number of enlisted members that may be assigned or otherwise detailed to duty as enlisted aides on the personal staffs of officers of the Army, Navy, Marine Corps, Air Force, and Coast Guard (when operating as a service of the Navy) during a fiscal year is the number equal to the sum of (1) four times the number of officers serving on active duty at the end of the preceding fiscal year in the grade of general or admiral, and (2) twotimes the number of officers serving on active duty at the end of the preceding fiscal year in the grade of lieutenant general or vice admiral.
 
 (b) Not more than 300 enlisted members may be assigned to duty at any time as enlisted aides for officers of the Army, Navy, Air Force, and Marine Corps.
 
@@ -54,5 +54,5 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this s
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

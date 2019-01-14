@@ -22,7 +22,7 @@ In general.—The term "customer" means—
 
 &emsp;&emsp;&emsp;(i) a reseller of mobile telecommunications service; or
 
-&emsp;&emsp;&emsp;(ii) a serving carrier under an arrangement to serve the customer outside the home service provider's licensed service area.
+&emsp;&emsp;&emsp;(ii) a serving carrier under an arrangement to serve the customer outside thehome service provider's licensed service area.
 
 &emsp;(3)
 

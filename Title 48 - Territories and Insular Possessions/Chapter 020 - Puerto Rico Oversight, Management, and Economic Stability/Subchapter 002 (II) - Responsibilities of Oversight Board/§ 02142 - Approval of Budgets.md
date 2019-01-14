@@ -6,7 +6,7 @@ As soon as practicable after all of the members and the Chair have been appointe
 
 #### (b) Revenue forecast
 
-The Oversight Board shall submit to the Governor and Legislature a forecast of revenues for the period covered by the Budgets by the time specified in the notice delivered under subsection (a), for use by the Governor in developing the Budget under subsection (c).
+The Oversight Board shall submit to the Governor and Legislature a forecast of revenues forthe period covered by the Budgets by the time specified in the notice delivered under subsection (a), for use by the Governor in developing the Budget under subsection (c).
 
 #### (c) Budgets developed by Governor
 

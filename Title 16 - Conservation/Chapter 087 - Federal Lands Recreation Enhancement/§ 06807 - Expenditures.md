@@ -50,5 +50,5 @@ Section 6804 of this title, referred to in subsec. (d), was in the original a re
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(3)(F). Pub. L. 111–11, which directed technical amendment in subsec. (a)(1)(F) to reference in original act which appears in text as reference to section 6805(a) of this title, was executed by making technical amendment in par. (3)(F) to reflect the probable intent of Congress.
+<b>2009</b>—Subsec. (a)(3)(F). Pub. L. 111–11, which directed technical amendment in subsec. (a)(1)(F) to reference inoriginal act which appears in text as reference to section 6805(a) of this title, was executed by making technical amendment in par. (3)(F) to reflect the probable intent of Congress.
 

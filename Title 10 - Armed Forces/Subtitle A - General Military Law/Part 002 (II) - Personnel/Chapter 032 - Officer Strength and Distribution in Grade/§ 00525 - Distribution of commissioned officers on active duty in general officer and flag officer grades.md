@@ -46,13 +46,13 @@
 
 &emsp;(B) may make appointments in the Navy in the grades of vice admiral and admiral in excess of the applicable numbers determined under this section if each such appointment is made in conjunction with an offsetting reduction under paragraph (2).
 
-(2) For each appointment made under the authority of paragraph (1) in the Army, Air Force,or Marine Corps in the grade of lieutenant general or general or in the Navy in the grade of vice admiral or admiral, the number of appointments that may be made in the equivalent grade in one of the other armed forces (other than the Coast Guard) shall be reduced by one. When such an appointment is made, the President shall specify the armed force in which the reduction required by this paragraph is to be made.
+(2) For each appointment made under the authority of paragraph (1) in the Army, Air Force, or Marine Corps in the grade of lieutenant general or general or in the Navy in the grade of vice admiral or admiral, the number of appointments that may be made in the equivalent grade in one of the other armed forces (other than the Coast Guard) shall be reduced by one. When such an appointment is made, the President shall specify the armed force in which the reduction required by this paragraph is to be made.
 
 (3)(A) The number of officers that may be serving on active duty in the grades of lieutenant general and vice admiral by reason of appointments made under the authority of paragraph (1) may not exceed 15.
 
 (B) The number of officers that may be serving on active duty in the grades of general and admiral by reason of appointments made under the authority of paragraph (1) may not exceed 5.
 
-(4) Upon the termination of the appointment of an officer in the grade of lieutenant general or vice admiral or general or admiral that was made in connection with an increase under paragraph (1) in the number of officers that may be serving on active duty in that armed force in that grade, the reduction made under paragraph (2) in the number of appointments permitted in such grade in another armed force by reason of that increase shall no longer be in effect.
+(4) Upon the termination of the appointment of an officer in the grade of lieutenant general or vice admiral or general or admiral that was made in connection with an increase under paragraph (1) in the number of officers that may be serving on active duty in that armed force inthat grade, the reduction made under paragraph (2) in the number of appointments permitted in such grade in another armed force by reason of that increase shall no longer be in effect.
 
 (d) An officer continuing to hold the grade of general or admiral under section 601(b)(5) of this title after relief from the position of Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, or Commandant of the Marine Corps shall not be counted for purposes of this section.
 
@@ -98,7 +98,7 @@ Subsec. (c)(1)(A). Pub. L. 111–84, §502(c)(1)(A), amended subpar. (A) general
 
 Subsec. (c)(1)(B). Pub. L. 111–84, §502(c)(1)(B), substituted "this section" for "subsection (b)(2)".
 
-Subsec. (c)(3)(A). Pub. L. 111–84, §502(c)(2), substituted "15" for "the number equal to 10 percent of the total number of officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps under subsection (b)".
+Subsec. (c)(3)(A). Pub. L. 111–84, §502(c)(2), substituted "15" for "the number equal to 10 percent of the totalnumber of officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps under subsection (b)".
 
 Subsec. (c)(3)(B). Pub. L. 111–84, §502(c)(3), as amended by Pub. L. 111–383, §1075(d)(2), substituted "5" for "the number equal to 15 percent of the total number of general officers and flag officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps".
 
@@ -198,11 +198,11 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §507(i)\], Oct. 30, 2000, 114 Sta
 
 "(2) An officer serving in a reserve component chief position on the date of the enactment of this Act \[Oct. 30, 2000\] may be reappointed to that position under the amendments made by subsection (a) through (e), if eligible and otherwise qualified in accordance with those amendments. If such an officer is so reappointed, the appointment may be made for the remainder of the officer's original term or for a full new term, as specified at the time of the appointment.
 
-"(3) An officer serving on the date of the enactment of this Act \[Oct. 30, 2000\] in a reserve component chief position may continue to serve in that position in accordance with the provisions of law in effect immediately before the amendments made by this section \[amending this section and sections 3038, 5143, 5144, 8038, and 10506 of this title and repealing section 12505 of this title\] until a successor is appointed under paragraph (1) (or that officer is reappointed under paragraph (1)).
+"(3) An officer serving on the date of the enactment of this Act \[Oct. 30, 2000\] in a reserve component chief position may continue to serve in that position in accordance with the provisions of law in effect immediately before the amendments made by this section\[amending this section and sections 3038, 5143, 5144, 8038, and 10506 of this title and repealing section 12505 of this title\] until a successor is appointed under paragraph (1) (or that officer is reappointed under paragraph (1)).
 
 "(4) The amendments made by subsection (g) \[amending this section\] shall be implemented so that each increase authorized by those amendments in the number of officers in the grades of lieutenant general and vice admiral is implemented on a case-by-case basis with an initial appointment made after the date of the enactment of this Act \[Oct. 30, 2000\], as specified in paragraph (1), to a reserve component chief position.
 
-"(5) For purposes of this subsection, the term 'reserve component chief position' means a position specified in section 3038, 5143, 5144, or 8038 of title 10, United States Code, or the position of Director, Army National Guard or Director, Air National Guard under section 10506(a)(1) of such title."
+"(5) For purposes of this subsection, the term 'reserve component chief position' means a position specified in section 3038, 5143, 5144, or 8038 \[now 7038, 8083, 8084, or 9038\] of title 10, United States Code, or the position of Director, Army National Guard or Director, Air National Guard under section 10506(a)(1) of such title."
 
 #### Savings Provision
 
@@ -366,7 +366,7 @@ Implementation.—Not later than 120 days after the date of the submission of th
 
 &emsp;&emsp;"(B) to the extent practicable, the resulting grades for general and flag officer positions are uniformly applied to positions of similar duties and responsibilities across the military departments and the joint pool; and
 
-&emsp;&emsp;"(C) planning achieves a reduction in the headquarters functions and administrative and support activities and staffs of the Department of Defense and the military departments commensurate withthe achievement of the reductions required pursuant to subsection (a)."
+&emsp;&emsp;"(C) planning achieves a reduction in the headquarters functions and administrative and support activities and staffs of the Department of Defense and the military departments commensurate with the achievement of the reductions required pursuant to subsection (a)."
 
 #### Delayed Authority To Alter Distribution Requirements for Commissioned Officers on Active Duty in General Officer and Flag Officer Grades and Limitations on Authorized Strengths of General and Flag Officers on Active Duty
 
@@ -380,7 +380,7 @@ Pub. L. 107–314, div. A, title IV, §404(c), Dec. 2, 2002, 116 Stat. 2525, pro
 
 &emsp;"(A) Revision of the limitations on general and flag officer grade authorizations and distribution in grade prescribed by sections 525, 526, and 12004 of title 10, United States Code.
 
-&emsp;"(B) Statutory designation of the positions and grades of any additional general and flag officers in the commands specified in chapter 1006 of title 10, United States Code, and the reserve component offices specified in sections 3038, 5143, 5144, and 8038 of such title.
+&emsp;"(B) Statutory designation of the positions and grades of any additional general and flag officers in the commands specified in chapter 1006 of title 10,United States Code, and the reserve component offices specified in sections 3038, 5143, 5144, and 8038 \[now 7038, 8083, 8084, and 9038\] of such title.
 
 "(2) The provisions of subsection (b) through (e) of section 1213 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2694) shall apply to the report under paragraph (1) in the same manner as they applied to the report required by subsection (a) of that section."
 

@@ -28,7 +28,7 @@ With respect to compliance with subsection (a) as a condition of receiving payme
 
 &emsp;(1) a State may make the non-Federal contributions required in such subsection in cash or in kind, fairly evaluated, including plant, equipment, or services; and
 
-&emsp;(2) the Secretary may not, in making a determination of the amount of non-Federal contributions, include amounts provided by the Federal Government or services assisted or subsidized to any significant extent by the Federal Government.
+&emsp;(2) the Secretary may not, in making a determination of the amount of non-Federal contributions, include amounts provided by theFederal Government or services assisted or subsidized to any significant extent by the Federal Government.
 
 (July 1, 1944, ch. 373, title XII, §1212, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2919; amended Pub. L. 103–183, title VI, §601(f)(2), Dec. 14, 1993, 107 Stat. 2239; Pub. L. 110–23, §6, May 3, 2007, 121 Stat. 92.)
 

@@ -10,9 +10,13 @@ A conference or group of two or more common carriers may not—
 
 &emsp;(4) negotiate with a non-ocean carrier or group of non-ocean carriers (such as truck, rail, or air operators) on any matter relating to rates or services provided to ocean common carriers within the United States by those non-ocean carriers, unless the negotiations and any resulting agreements are not in violation of the antitrust laws and are consistent with the purposes of this part, except that this paragraph does not prohibit the setting and publishing of a joint through rate by a conference, joint venture, or association of ocean common carriers;
 
-&emsp;(5) deny in the export foreign commerce of the United States compensation to an ocean freight forwarder or limit that compensation to less than a reasonable amount;
+&emsp;(5) negotiate with a tug or towing vessel service provider on any matter relating to rates or services provided within the United States by those tugs or towing vessels;
 
-&emsp;(6) allocate shippers among specific carriers that are parties to the agreement or prohibit a carrier that is a party to the agreement from soliciting cargo from a particular shipper, except as—
+&emsp;(6) with respect to a vessel operated by an ocean common carrier within the United States, negotiate for the purchase of certain covered services, unless the negotiations and any resulting agreements are not in violation of the antitrust laws and are consistent with the purposes of this part, except that this paragraph does not prohibit the setting and publishing of a joint through rate by a conference, joint venture, or association of ocean common carriers;
+
+&emsp;(7) deny in the export foreign commerce of the United States compensation to an ocean freight forwarder or limit that compensation to less than a reasonable amount;
+
+&emsp;(8) allocate shippers among specific carriers that are parties to the agreement or prohibit a carrier that is a party to the agreement from soliciting cargo from a particular shipper, except as—
 
 &emsp;&emsp;(A) authorized by section 40303(d) of this title;
 
@@ -20,11 +24,11 @@ A conference or group of two or more common carriers may not—
 
 &emsp;&emsp;(C) agreed to by a shipper in a service contract;
 
-&emsp;(7) for service pursuant to a service contract, engage in any unjustly discriminatory practice in the matter of rates or charges with respect to any locality, port, or person due to the person's status as a shippers' association or ocean transportation intermediary; or
+&emsp;(9) for service pursuant to a service contract, engage in any unjustly discriminatory practice in the matter of rates or charges with respect to any locality, port, or person due to the person's status as a shippers' association or ocean transportation intermediary; or
 
-&emsp;(8) for service pursuant to a service contract, give any undue or unreasonable preference or advantage or impose any undue or unreasonable prejudice or disadvantage with respect to any locality, port, or person due to the person's status as a shippers' association or ocean transportation intermediary.
+&emsp;(10) for service pursuant to a service contract, give any undue or unreasonable preference or advantage or impose any undue or unreasonable prejudice or disadvantage with respect to any locality, port, or person due to the person's status as a shippers' association or ocean transportation intermediary.
 
-(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1542.)
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1542; Pub. L. 115–282, title VII, §709(a), Dec. 4, 2018, 132 Stat. 4296.)
 
 Historical and Revision Notes
 
@@ -43,4 +47,8 @@ Historical and Revision Notes
 Pub. L. 98–237, §10(c), Mar. 20, 1984, 98 Stat. 77; Pub. L. 105–258, title I, §109(b), Oct. 14, 1998, 112 Stat. 1910; Pub. L. 105–383, title IV, §424(b), Nov. 13, 1998, 112 Stat. 3441.
 
 In paragraph (5), the words "ocean freight forwarder" are substituted for "ocean transportation intermediary, as defined by section 1702(17)(A) of this Appendix" because the definition of "ocean transportation intermediary" in section 1702(17)(A) contains a definition of "ocean freight forwarder" which is restated as a separate definition.
+
+#### Amendments
+
+<b>2018</b>—Pars. (5) to (10). Pub. L. 115–282 added pars. (5) and (6) and redesignated former pars. (5) to (8) as (7) to (10), respectively.
 

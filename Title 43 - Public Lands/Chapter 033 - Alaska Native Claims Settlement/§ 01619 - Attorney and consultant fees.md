@@ -6,7 +6,7 @@ The Secretary of the Treasury shall hold in the Alaska Native Fund, from the app
 
 #### (b) Claims; submission
 
-A claim for attorney and consultant fees and out-of-pocket expenses may be submitted to the Chief Commissioner of the United States Court of Claims for services rendered before December18, 1971, to any Native tribe, band, group, village, or association in connection with:
+A claim for attorney and consultant fees and out-of-pocket expenses may be submitted to the Chief Commissioner of the United States Court of Claims for services rendered before December 18, 1971, to any Native tribe, band, group, village, or association in connection with:
 
 &emsp;(1) the preparation of this chapter and previously proposed Federal legislation to settle Native claims based on aboriginal title, and
 
@@ -28,7 +28,7 @@ The Chief Commissioner or his delegate is authorized to receive, determine, and 
 
 (4) The amounts allowed for services rendered shall not exceed in the aggregate $2,000,000, of which not more than $100,000 shall be available for the payment of consultants' fees. If the approved claims exceed the aggregate amounts allowable, the Chief Commissioner shall authorize payment of the claims on a pro rata basis.
 
-(5) Upon the filing of a claim, the clerk of the Court of Claims shall forward a copy of such claims to the individuals or entities on whose behalf services were rendered or fees and expenses were allegedly incurred, as shown by the pleadings, to the Attorney General of the United States, to the Attorney General of the State of Alaska, to the Secretary of the Interior, and to any other person who appears to have an interest in the claim, and shall give such persons ninety days within which to file an answer contesting the claim.
+(5) Upon the filing of a claim, the clerk of the Court of Claims shall forward a copy of such claims to the individuals or entities on whose behalf services were rendered or fees and expenses were allegedly incurred, as shown by thepleadings, to the Attorney General of the United States, to the Attorney General of the State of Alaska, to the Secretary of the Interior, and to any other person who appears to have an interest in the claim, and shall give such persons ninety days within which to file an answer contesting the claim.
 
 (6) The Chief Commissioner may designate a trial commissioner for any claim made under this section and a panel of three commissioners of the court to serve as a reviewing body. One member of the review panel shall be designated as presiding commissioner of the panel.
 
@@ -48,7 +48,7 @@ The Chief Commissioner shall certify to the Secretary of the Treasury, and repor
 
 (1) No remuneration on account of any services or expenses for which a claim is made or could be made pursuant to this section shall be received by any person for such services and expenses in addition to the amount paid in accordance with this section, and any contract or agreement to the contrary shall be void.
 
-(2) Any person who receives, and any corporation or association official who pays, on account of such services and expenses, any remunerationin addition to the amount allowed in accordance with this section shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $5,000, or imprisoned not more than twelve months, or both.
+(2) Any person who receives, and any corporation or association official who pays, on account of such services and expenses, any remuneration in addition to the amount allowed in accordance with this section shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $5,000, or imprisoned not more than twelve months, or both.
 
 #### (g) Claims for costs in performance of certain services: submission, form, information, reasonableness, pro rata reductions; report to Congress; payment of claims; interest restriction
 

@@ -10,7 +10,7 @@ The Congress finds and declares that—
 
 &emsp;(3) the contribution of these programs to their communities is thereby diminished, resulting in fewer and higher cost programs than would be obtainable if volunteers were participating;
 
-&emsp;(4) because Federal funds are expended on useful and cost-effective social service programs, many of which are national in scope,depend heavily on volunteer participation, and represent some of the most successful public-private partnerships, protection of volunteerism through clarification and limitation of the personal liability risks assumed by the volunteer in connection with such participation is an appropriate subject for Federal legislation;
+&emsp;(4) because Federal funds are expended on useful and cost-effective social service programs, many of which are national in scope, depend heavily on volunteer participation, and represent some of the most successful public-private partnerships, protection of volunteerism through clarification and limitation of the personal liability risks assumed by the volunteer in connection with such participation is an appropriate subject for Federal legislation;
 
 &emsp;(5) services and goods provided by volunteers and nonprofit organizations would often otherwise be provided by private entities that operate in interstate commerce;
 
@@ -24,7 +24,7 @@ The Congress finds and declares that—
 
 &emsp;&emsp;(C) it is in the interest of the Federal Government to encourage the continued operation of volunteer service organizations and contributions of volunteers because the Federal Government lacks the capacity to carry out all of the services provided by such organizations and volunteers; and
 
-&emsp;&emsp;(D)(i) liability reform for volunteers, will promote the free flow of goods and services, lessen burdens on interstate commerce and uphold constitutionally protected due process rights; and
+&emsp;&emsp;(D)(i) liability reform for volunteers, will promote the free flow of goods and services, lessen burdens on interstate commerce anduphold constitutionally protected due process rights; and
 
 &emsp;&emsp;(ii) therefore, liability reform is an appropriate use of the powers contained in article 1, section 8, clause 3 of the United States Constitution, and the fourteenth amendment to the United States Constitution.
 

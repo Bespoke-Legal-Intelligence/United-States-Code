@@ -24,7 +24,7 @@ Schedules I, III, IV, and V, referred to in text, are set out in section 812(c) 
 
 Pub. L. 105–357, §2(b), Nov. 10, 1998, 112 Stat. 3271, provided that: "Section 1006(a)(2) of the Controlled Substances Import and Export Act \[21 U.S.C. 956(a)(2)\], as added by this section, is a minimum Federal requirement and shall not be construed to limit a State from imposing any additional requirement."
 
-Pub. L. 105–277, div. C, title VIII, §872(b), Oct. 21, 1998, 112 Stat. 2681–707, enacted a provision substantially identical to that enacted by Pub. L. 105–357, §2(b), set out above.
+Pub. L. 105–277, div. C, title VIII, §872(b), Oct. 21, 1998, 112 Stat. 2681–707, enacted a provision substantiallyidentical to that enacted by Pub. L. 105–357, §2(b), set out above.
 
 #### Jurisdiction of Secretary of Health and Human Services
 

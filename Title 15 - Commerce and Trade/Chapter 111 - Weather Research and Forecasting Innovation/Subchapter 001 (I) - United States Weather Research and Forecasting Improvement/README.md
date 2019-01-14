@@ -12,7 +12,7 @@
 - [&sect; 08515 - Weather research and development planning](%C2%A7%2008515%20-%20Weather%20research%20and%20development%20planning.md)
 - [&sect; 08516 - Observing system planning](%C2%A7%2008516%20-%20Observing%20system%20planning.md)
 - [&sect; 08517 - Observing System Simulation Experiments](%C2%A7%2008517%20-%20Observing%20System%20Simulation%20Experiments.md)
-- [&sect; 08518 - Annual report on computing resources prioritization](%C2%A7%2008518%20-%20Annual%20report%20on%20computing%20resources%20prioritization.md)
+- [&sect; 08518 - Computing resource efficiency improvement and annual report](%C2%A7%2008518%20-%20Computing%20resource%20efficiency%20improvement%20and%20annual%20report.md)
 - [&sect; 08519 - Authorization of appropriations](%C2%A7%2008519%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 08520 - United States Weather Research Program](%C2%A7%2008520%20-%20United%20States%20Weather%20Research%20Program.md)
 - [&sect; 08521 - Weather and climate information in agriculture](%C2%A7%2008521%20-%20Weather%20and%20climate%20information%20in%20agriculture.md)

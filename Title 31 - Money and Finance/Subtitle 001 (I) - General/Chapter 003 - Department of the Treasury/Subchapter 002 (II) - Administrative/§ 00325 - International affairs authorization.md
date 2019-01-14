@@ -50,7 +50,7 @@ Nov. 8, 1978, Pub. L. 95–612, §5, 92 Stat. 3092; Aug. 8, 1979, Pub. L. 96–4
 
 In the section, the words "international affairs duties and powers" are substituted for "international affairs functions" for consistency in the revised title and with other titles of the United States Code. The words "officers and employees" are substituted for "personnel" and "employees" as being more precise.
 
-In subsection (b), before clause (1), the words "fiscal year ending September 30, 1982" are substituted for "fiscal year 1982" for consistency in the revised title and with other titles of the Code. In clause (2), the word "pay" is substituted for "salaries" for consistency in the revised title and with other titles of the Code. The word "departmental" is substituted for "agency" because of the source provisions restated in section 321 of the revised title. The words "those pay increases" are substituted for "thereto" for clarity.
+In subsection (b), before clause (1), the words "fiscal year ending September 30, 1982" are substituted for "fiscal year 1982" for consistency in the revised title and with other titles of the Code. In clause (2), the word "pay" is substituted for "salaries" for consistency in the revised title and with other titles of the Code. Theword "departmental" is substituted for "agency" because of the source provisions restated in section 321 of the revised title. The words "those pay increases" are substituted for "thereto" for clarity.
 
 Subsection (c) is substituted for the words "and such sums as may be necessary for each fiscal year thereafter" both times they appear.
 

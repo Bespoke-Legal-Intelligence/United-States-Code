@@ -54,7 +54,7 @@ The Trade and Development Agency shall be an agency of the United States under t
 
 #### (d) Annual report
 
-The President shall, not later than December 31 of each year, submit to the Committee onForeign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the activities of the Trade and Development Agency in the preceding fiscal year.
+The President shall, not later than December 31 of each year, submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the activities of the Trade and Development Agency in the preceding fiscal year.
 
 #### (e) Audits
 
@@ -110,7 +110,7 @@ Subsec. (f)(1)(A). Pub. L. 106–158, §5(c)(1), substituted "$48,000,000 for fi
 
 Subsec. (f)(2)(A). Pub. L. 106–158, §5(c)(2), substituted "in carrying out its program, provide, as appropriate, funds" for "in fiscal years 1993 and 1994, substantially increase the amount of funds it provides".
 
-<b>1994</b>—Subsec. (f)(1). Pub. L. 103–392 redesignated existing provisions as subpar. (A), substituted "$77,000,000 for fiscal year 1995 and such sums as are necessary for fiscal year 1996." for "$55,000,000 for fiscal year 1993 and $65,000,000 for fiscal year 1994.", and added subpar. (B).
+<b>1994</b>—Subsec. (f)(1). Pub. L. 103–392 redesignated existing provisions as subpar. (A), substituted "$77,000,000 for fiscal year 1995 and such sums as are necessary forfiscal year 1996." for "$55,000,000 for fiscal year 1993 and $65,000,000 for fiscal year 1994.", and added subpar. (B).
 
 <b>1992</b>—Pub. L. 102–549 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) which authorized a trade and development program to facilitate access to natural resources of interest to the United States and to stimulate reimbursable aid programs, established an agency called the Trade and Development Program to carry out the program, established an advisory board, and authorized appropriations for purposes of section.
 

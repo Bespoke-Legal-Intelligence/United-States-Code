@@ -36,7 +36,7 @@ Administration.—Amounts made available under this paragraph shall be—
 
 &emsp;(2) Of the remainder so appropriated for each fiscal year 20 per centum shall be paid to the several States in equal proportions, 40 per centum shall be paid to the several States in the proportion that the rural population of each bears to the total rural population of the several States as determined by the census, and the balance shall be paid to the several States in the proportion that the farm population of each bears to the total farm population of the several States as determined by the census. Any appropriation made hereunder shall be allotted in the first and succeeding years on the basis of the decennial census current at the time such appropriation is first made, and as to any increase, on the basis of decennial census current at the time such increase is first appropriated.
 
-(d) The Secretary of Agriculture shall receive such additional amounts as Congress shall determine for administration, technical, and other services and for coordinating the extension work of the Department and the several States, Territories, and possessions. A college or university eligible to receive funds under subchapter II of this chapter, including Tuskegee University, may compete for and receive funds directly from the Secretary of Agriculture.
+(d) The Secretary of Agriculture shall receive such additional amounts as Congress shall determine for administration, technical, and other services and for coordinating the extension work of the Department and the several States, Territories, and possessions. A college or university eligible to receive funds under subchapter II of this chapter, including Tuskegee University, may compete for and receive funds directly from the Secretary of Agriculture. A 1994 Institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382)) may compete for and receive funds directly from the Secretary of Agriculture for the Children, Youth, and Families at Risk funding program and the Federally Recognized Tribes Extension Program.
 
 (e)
 
@@ -86,7 +86,7 @@ Institutions and Hispanic-Serving Agricultural Colleges and Universities.—Ther
 
 (g)(1) The Secretary of Agriculture may conduct educational, instructional, demonstration, and publication distribution programs and enter into cooperative agreements with private nonprofit and profit organizations and individuals to share the cost of such programs through contributions from private sources as provided in this subsection.
 
-(2) The Secretary may receive contributions under this subsection from private sources for the purposes described in paragraph (1) and provide matching funds in an amount not greater than 50 percent of such contributions.
+(2) The Secretary may receive contributions under this subsection from private sources forthe purposes described in paragraph (1) and provide matching funds in an amount not greater than 50 percent of such contributions.
 
 (h)
 
@@ -94,7 +94,7 @@ Multistate Cooperative Extension Activities.—
 
 &emsp;(1)
 
-In general.—Not less than the applicable percentage specified under paragraph (2) of theamounts that are paid to a State under subsections (b) and (c) during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as "multistate activities").
+In general.—Not less than the applicable percentage specified under paragraph (2) of the amounts that are paid to a State under subsections (b) and (c) during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as "multistate activities").
 
 &emsp;(2)
 
@@ -115,10 +115,6 @@ Required expenditures on multistate activities.—Of the Federal formula funds t
 &emsp;&emsp;(C)
 
 Reduction by secretary.—The Secretary may reduce the minimum percentage required to be expended for multistate activities under subparagraph (B) by a State in a case of hardship, infeasibility, or other similar circumstance beyond the control of the State, as determined by the Secretary.
-
-&emsp;&emsp;(D)
-
-Plan of work.—The State shall include in the plan of work of the State required under section 344 of this title a description of the manner in which the State will meet the requirements of this paragraph.
 
 &emsp;(3)
 
@@ -146,7 +142,7 @@ Other requirements.—An extension activity for which merit review is conducted 
 
 Integration of Research and Extension.—Section 361c(i) of this title shall apply to amounts made available to carry out this subchapter.
 
-(May 8, 1914, ch. 79, §3, 38 Stat. 373; June 26, 1953, ch. 157, §1, 67 Stat. 84; Pub. L. 87–749, §1(b)–(e), Oct. 5, 1962, 76 Stat. 745; Pub. L. 92–318, title V, §506(g), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1465, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 99–198, title XIV, §1435(b), Dec. 23, 1985, 99 Stat. 1557; Pub. L. 99–396, §9(e), Aug. 27, 1986, 100 Stat. 840; Pub. L. 103–382, title V, §534(b), Oct. 20, 1994, 108 Stat. 4050; Pub. L. 104–127, title VIII, §883(a), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §105, title II, §§201, 203(b), (c)(2), 204(b), June 23, 1998, 112 Stat. 529, 531, 534, 536; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(e)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §§7213(b), 7215, May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, §§7129(b), 7403(a), May 22, 2008, 122 Stat. 1226, 1246; Pub. L. 110–246, §4(a), title VII, §§7129(b), 7403(a), June 18, 2008, 122 Stat. 1664, 1987, 2007.)
+(May 8, 1914, ch. 79, §3, 38 Stat. 373; June 26, 1953, ch. 157, §1, 67 Stat. 84; Pub. L. 87–749, §1(b)–(e), Oct. 5, 1962, 76 Stat. 745; Pub. L. 92–318, title V, §506(g), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1465, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 99–198, title XIV, §1435(b), Dec. 23, 1985, 99 Stat. 1557; Pub. L. 99–396, §9(e), Aug. 27, 1986, 100 Stat. 840; Pub. L. 103–382, title V, §534(b), Oct. 20, 1994, 108 Stat. 4050; Pub. L. 104–127, title VIII, §883(a), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §105, title II, §§201, 203(b), (c)(2), 204(b), June 23, 1998, 112 Stat. 529, 531, 534, 536; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(e)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §§7213(b), 7215, May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, §§7129(b), 7403(a), May 22, 2008, 122 Stat. 1226, 1246; Pub. L. 110–246, §4(a), title VII, §§7129(b), 7403(a), June 18, 2008, 122 Stat. 1664, 1987, 2007; Pub. L. 115–334, title VII, §§7609(a), 7612(a)(1), Dec. 20, 2018, 132 Stat. 4830, 4831.)
 
 #### References in Text
 
@@ -159,6 +155,10 @@ The Act of July 2, 1862, referred to in subsec. (b)(4)(C)(ii), is act July 2, 18
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–334, §7609(a), inserted at end "A 1994 Institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382)) may compete for and receive funds directly from the Secretary of Agriculture for the Children, Youth, and Families at Risk funding program and the Federally Recognized Tribes Extension Program."
+
+Subsec. (h)(2)(D). Pub. L. 115–334, §7612(a)(1), struck out subpar. (D). Prior to amendment, text read as follows: "The State shall include in the plan of work of the State required under section 344 of this title a description of the manner in which the State will meet the requirements of this paragraph."
 
 <b>2008</b>—Subsec. (b)(4). Pub. L. 110–246, §7129(b)(1), added par. (4).
 
@@ -178,7 +178,7 @@ Subsec. (e)(4). Pub. L. 107–171, §7213(b), added par. (4) and struck out head
 
 <b>1998</b>—Subsec. (b)(1). Pub. L. 105–185, §203(c)(2)(A), substituted "Secretary of Agriculture" for "Federal Extension Service".
 
-Subsec. (b)(3). Pub. L. 105–185, §201, substituted "1994 Institutions (in accordance with regulations that theSecretary may promulgate) and may be administered by the 1994 Institutions through cooperative agreements with colleges and universities eligible to receive funds under subchapters I and II of this chapter, including Tuskegee University, located in any State." for "State institutions established in accordance with the provisions of subchapter I of this chapter (other than 1994 Institutions) and administered by such institutions through cooperative agreements with 1994 Institutions in the States of the 1994 Institutions in accordance with regulations that the Secretary shall adopt."
+Subsec. (b)(3). Pub. L. 105–185, §201, substituted "1994 Institutions (in accordance with regulations that the Secretary may promulgate) and may be administered by the 1994 Institutions through cooperative agreements with colleges and universities eligible to receive funds under subchapters I and II of this chapter, including Tuskegee University, located in any State." for "State institutions established in accordance with the provisions of subchapter I of this chapter (other than 1994 Institutions) and administered by such institutions through cooperative agreements with 1994 Institutions in the States of the 1994 Institutions in accordance with regulations that the Secretary shall adopt."
 
 Subsec. (c)(1). Pub. L. 105–185, §203(b)(1)(A), (c)(2)(A), redesignated par. 1 as (1) and substituted "Secretary of Agriculture" for "Federal Extension Service".
 
@@ -243,4 +243,20 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 #### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–318 effective after June 30, 1970, see section 506(n) of Pub. L. 92–318, set out as an Effective Date note under section 326a of this title.
+
+#### Review of Land-Grant Time and Effort Reporting Requirements
+
+Pub. L. 115–334, title VII, §7613, Dec. 20, 2018, 132 Stat. 4832, provided that:
+
+"(a)
+
+In General.—The Secretary \[of Agriculture\], in consultation with the Office of Management and Budget, shall review and revise current reporting requirements related to compensation charges, documentation of personnel expenses, and other requirements that are commonly referred to as time and effort reporting for entities that receive funds under a program referred to in clause (iii), (iv), (vii), (viii), or (xii) of section 251(f)(1)(C) of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6971(f)(1)(C)).
+
+"(b)
+
+Revisions.—The Secretary shall ensure that any revision made pursuant to subsection (a)—
+
+&emsp;"(1) is developed in collaboration with entities described in subsection (a); and
+
+&emsp;"(2) reduces the amount of paperwork and time required by the requirements referred to in such subsection, as such requirements are in effect on the date of the enactment of this Act \[Dec. 20, 2018\]."
 

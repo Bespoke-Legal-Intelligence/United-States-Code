@@ -34,7 +34,7 @@ The Administrator shall establish guidelines for property owners that—
 
 &emsp;(2) inform property owners about how the implementation of mitigation methods described in paragraph (1) may affect risk premium rates for flood insurance coverage under the National Flood Insurance Program.
 
-(Pub. L. 90–448, title XIII, §1361, Aug. 1, 1968, 82 Stat. 587; Pub. L. 91–152, title IV, §410(c), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958; Pub. L. 113–89, §26(a)(1), Mar. 21, 2014, 128 Stat. 1032.)
+(Pub. L. 90–448, title XIII, §1361, Aug. 1, 1968, 82 Stat. 587; Pub. L. 91–152, title IV, §410(c), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L.112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958; Pub. L. 113–89, §26(a)(1), Mar. 21, 2014, 128 Stat. 1032.)
 
 #### Amendments
 

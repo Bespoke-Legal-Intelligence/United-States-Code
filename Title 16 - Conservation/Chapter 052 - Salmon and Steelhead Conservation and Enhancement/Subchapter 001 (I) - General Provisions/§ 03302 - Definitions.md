@@ -44,7 +44,7 @@ As used in this chapter—
 
 &emsp;(16) The term "treaty tribe" means any Indian tribe recognized by the United States Government, with usual and accustomed fishing grounds in the Washington or Columbia River conservation areas, whose fishing right under a treaty has been recognized by a Federal court.
 
-&emsp;(17) The term "Washington conservation area" means all salmon and steelhead habitat within the State of Washington except for the Columbia River drainage basin, and in the fishery conservation zone adjacent to the State of Washington which is subject to the jurisdiction of the United States.
+&emsp;(17) The term "Washington conservation area" means all salmon and steelhead habitat within the State of Washington except for the Columbia River drainage basin, and in the fishery conservation zone adjacent to theState of Washington which is subject to the jurisdiction of the United States.
 
 &emsp;(18) The term "Washington tribal coordinating body" means the organization duly authorized by the treaty tribes of the Washington conservation area to coordinate their activities for them for the purposes of this chapter.
 

@@ -12,7 +12,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The terms "comparative clinical effectiveness research" and "research" mean research evaluating and comparing health outcomes and the clinical effectiveness, risks, and benefits of 2 or more medical treatments, services, and items described in subparagraph (B).
+&emsp;&emsp;The terms "comparative clinical effectiveness research" and "research" mean research evaluating and comparing health outcomes and the clinical effectiveness, risks,and benefits of 2 or more medical treatments, services, and items described in subparagraph (B).
 
 #### (B) Medical treatments, services, and items described
 
@@ -46,7 +46,7 @@ In this section:
 
 #### (c) Purpose
 
-The purpose of the Institute is to assist patients, clinicians, purchasers, and policy-makers in making informed health decisions by advancing the quality and relevance of evidence concerning the manner in which diseases, disorders, and other health conditions can effectively and appropriately be prevented, diagnosed, treated,monitored, and managed through research and evidence synthesis that considers variations in patient subpopulations, and the dissemination of research findings with respect to the relative health outcomes, clinical effectiveness, and appropriateness of the medical treatments, services, and items described in subsection (a)(2)(B).
+The purpose of the Institute is to assist patients, clinicians, purchasers, and policy-makers in making informed health decisions by advancing the quality and relevance of evidence concerning the manner in which diseases, disorders, and other health conditions can effectively and appropriately be prevented, diagnosed, treated, monitored, and managed through research and evidence synthesis that considers variations in patient subpopulations, and the dissemination of research findings with respect to the relative health outcomes, clinical effectiveness, and appropriateness of the medical treatments, services, and items described in subsection (a)(2)(B).
 
 #### (d) Duties
 
@@ -108,7 +108,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (iii) Coverage of copayments or coinsurance
 
-&emsp;&emsp;&emsp;A contract entered into under this subparagraph may allow for the coverage ofcopayments or coinsurance, or allow for other appropriate measures, to the extent that such coverage or other measures are necessary to preserve the validity of a research project, such as in the case where the research project must be blinded.
+&emsp;&emsp;&emsp;A contract entered into under this subparagraph may allow for the coverage of copayments or coinsurance, or allow for other appropriate measures, to the extent that such coverage or other measures are necessary to preserve the validity of a research project, such as in the case where the research project must be blinded.
 
 #### (iv) Subsequent use of the data
 
@@ -168,7 +168,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (B) Appointment and composition
 
-&emsp;&emsp;The methodology committee established under subparagraph (A) shall be composed of not more than 15 members appointed by the Comptroller General of the United States. Members appointed to the methodology committee shall be experts in their scientific field, such as health services research, clinical research, comparative clinical effectiveness research, biostatistics, genomics, and research methodologies. Stakeholders with such expertise may be appointed to the methodology committee. In addition to the members appointed underthe first sentence, the Directors of the National Institutes of Health and the Agency for Healthcare Research and Quality (or their designees) shall each be included as members of the methodology committee.
+&emsp;&emsp;The methodology committee established under subparagraph (A) shall be composed of not more than 15 members appointed by the Comptroller General of the United States. Members appointed to the methodology committee shall be experts in their scientific field, such as health services research, clinical research, comparative clinical effectiveness research, biostatistics, genomics, and research methodologies. Stakeholders with such expertise may be appointed to the methodology committee. In addition to the members appointed under the first sentence, the Directors of the National Institutes of Health and the Agency for Healthcare Research and Quality (or their designees) shall each be included as members of the methodology committee.
 
 #### (C) Functions
 
@@ -296,7 +296,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (5) Compensation
 
-&emsp;Each member of the Board who is not an officer or employee of the Federal Government shall be entitled to compensation (equivalent to the rate provided for level IV of the Executive Schedule under section 5315 of title 5) and expenses incurred while performing the dutiesof the Board. An officer or employee of the Federal government who is a member of the Board shall be exempt from compensation.
+&emsp;Each member of the Board who is not an officer or employee of the Federal Government shall be entitled to compensation (equivalent to the rate provided for level IV of the Executive Schedule under section 5315 of title 5) and expenses incurred while performing the duties of the Board. An officer or employee of the Federal government who is a member of the Board shall be exempt from compensation.
 
 #### (6) Director and staff; experts and consultants
 
@@ -324,7 +324,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 &emsp;&emsp;&emsp;(iii) Not less frequently than every 5 years, the dissemination and training activities and data networks established under section 937 of the Public Health Service Act \[42 U.S.C. 299b–37\], including the methods and products used to disseminate research, the types of training conducted and supported, and the types and functions of the data networks established, in order to determine whether the activities and data are produced in a manner consistent with the requirements under such section.
 
-&emsp;&emsp;&emsp;(iv) Not less frequently than every 5 years, the overall effectiveness of activities conducted under this section and the dissemination, training, and capacity building activities conducted under section 937 of the Public Health Service Act. Such review shall include an analysis of the extent to which research findings are used by health care decision-makers, the effect of the dissemination of such findings on reducing practice variation and disparities in health care, and the effect of the research conducted and disseminated on innovation and the health care economy of the United States.
+&emsp;&emsp;&emsp;(iv) Not less frequently than every 5 years, the overall effectiveness of activities conducted under this section and the dissemination, training, and capacity building activities conducted under section 937 of the Public Health Service Act. Such review shall include an analysis ofthe extent to which research findings are used by health care decision-makers, the effect of the dissemination of such findings on reducing practice variation and disparities in health care, and the effect of the research conducted and disseminated on innovation and the health care economy of the United States.
 
 &emsp;&emsp;&emsp;(v) Not later than 8 years after March 23, 2010, the adequacy and use of the funding for the Institute and the activities conducted under section 937 of the Public Health Service Act, including a determination as to whether, based on the utilization of research findings by public and private payers, funding sources for the Patient-Centered Outcomes Research Trust Fund under section 9511 of the Internal Revenue Code of 1986 are appropriate and whether such sources of funding should be continued or adjusted.
 
@@ -350,7 +350,7 @@ The Institute shall establish procedures to ensure that the following requiremen
 
 &emsp;&emsp;(A) Information contained in research findings as specified in subsection (d)(9).
 
-&emsp;&emsp;(B) The process and methods for the conduct of research, including the identity of the entity and the investigators conducing <sup>6</sup> such research and any conflicts of interests of such parties, any direct or indirect linksthe entity has to industry, and research protocols, including measures taken, methods of research and analysis, research results, and such other information the Institute determines appropriate) <sup>7</sup> concurrent with the release of research findings.
+&emsp;&emsp;(B) The process and methods for the conduct of research, including the identity of the entity and the investigators conducing <sup>6</sup> such research and any conflicts of interests of such parties, any direct or indirect links the entity has to industry, and research protocols, including measures taken, methods of research and analysis, research results, and such other information the Institute determines appropriate) <sup>7</sup> concurrent with the release of research findings.
 
 &emsp;&emsp;(C) Notice of public comment periods under paragraph (1), including deadlines for public comments.
 

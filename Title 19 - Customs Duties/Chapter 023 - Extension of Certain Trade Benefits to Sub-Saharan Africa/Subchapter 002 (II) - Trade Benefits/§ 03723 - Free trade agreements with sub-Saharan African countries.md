@@ -42,7 +42,7 @@ Not later than 12 months after May 18, 2000, the President shall prepare and tra
 
 #### Coordination of Efforts To Develop Free Trade Agreements With Sub-Saharan African Countries
 
-Pub. L. 114–328, div. A, title XII, §1293, Dec. 23, 2016, 130 Stat. 2560, provided that:
+Pub. L. 114–328, div. A, title XII, §1293, Dec. 23, 2016, 130 Stat. 2560, as amended by Pub. L. 115–232, div. A, title XII, §1289, Aug. 13, 2018, 132 Stat. 2081, provided that:
 
 "(a)
 
@@ -74,5 +74,21 @@ Eligible country.—The term 'eligible country' means a sub-Saharan African coun
 
 &emsp;&emsp;"(B)
 
-Sub-saharan african country.—The term 'sub-Saharan African country' has the meaning given that term in section 107 of the African Growth and Opportunity Act (19 U.S.C. 3706)."
+Sub-saharan african country.—The term 'sub-Saharan African country' has the meaning given that term in section 107 of the African Growth and Opportunity Act (19 U.S.C. 3706).
+
+"(c)
+
+Coordination With Millennium Challenge Corporation.—
+
+&emsp;"(1)
+
+In general.—After the date of the enactment of this subsection \[Aug. 13, 2018\], with respect to those countries identified under section 110(b)(1) of the Trade Preferences Extension Act of 2015 (Public Law 114–27; 129 Stat. 370; 19 U.S.C. 3705 note) that also meet the country description in paragraph (2), the United States Trade Representative shall consult and coordinate with the Millennium Challenge Corporation and the United States Agency for International Development for the purpose of developing and carrying out the plan required by section 116(b) of the African Growth and Opportunity Act (19 U.S.C. 3723(b)).
+
+&emsp;"(2)
+
+Country description.—A country is described in this paragraph if the country—
+
+&emsp;&emsp;"(A) has entered into a Millennium Challenge Compact pursuant to section 609 of the Millennium Challenge Act of 2003 (22 U.S.C. 7708); or
+
+&emsp;&emsp;"(B) is selected by the Board of Directors of the Millennium Challenge Corporation under subsection (c) of section 607 of that Act (22 U.S.C. 7706) from among the countries determined to be eligible countries under subsection (a) of that section."
 

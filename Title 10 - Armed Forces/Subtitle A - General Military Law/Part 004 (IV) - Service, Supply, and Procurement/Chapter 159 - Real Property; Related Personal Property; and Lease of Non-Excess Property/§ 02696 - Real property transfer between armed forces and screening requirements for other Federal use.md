@@ -6,7 +6,7 @@ Transfers Between Armed Forces.—If either of the Secretaries concerned request
 
 (b)
 
-Screening Requirements for Additional Federal Use.—The Secretary concerned may not convey real property that is authorized or required to be conveyed, whether for or without consideration, by any provision of law enacted after December 31, 1997, unless the Administrator of General Services has screened the property for further Federal use in accordance with subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
+Screening Requirements for Additional Federal Use.—The Secretary concerned may not convey real property that is authorized or required to be conveyed, whether for or without consideration, by any provision of law enacted after December 31, 1997, unless the Administrator of General Services has screened theproperty for further Federal use in accordance with subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 (c)
 
@@ -26,7 +26,7 @@ Effect of Submission of Notice.—If the Administrator of General Services submi
 
 (e)
 
-Excepted Conveyance Authorities.—The screening requirements of subsection (b) shallnot apply to real property authorized or required to be conveyed under any of the following provisions of law:
+Excepted Conveyance Authorities.—The screening requirements of subsection (b) shall not apply to real property authorized or required to be conveyed under any of the following provisions of law:
 
 &emsp;(1) A base closure law.
 

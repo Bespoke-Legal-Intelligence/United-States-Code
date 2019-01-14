@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) 27 months; or
 
-&emsp;&emsp;&emsp;(ii) pursuant to the request of a grantee, an extended period of participation established by the Secretary for a specificproject area for such grantee, up to a period of not more than 36 months, if the Secretary determines that extenuating circumstances exist relating to the factors identified in section 3056k(a)(2)(E) of this title that justify such an extended period for the program year involved;
+&emsp;&emsp;&emsp;(ii) pursuant to the request of a grantee, an extended period of participation established by the Secretary for a specific project area for such grantee, up to a period of not more than 36 months, if the Secretary determines that extenuating circumstances exist relating to the factors identified in section 3056k(a)(2)(E) of this title that justify such an extended period for the program year involved;
 
 &emsp;&emsp;(D) will employ eligible individuals in service related to publicly owned and operated facilities and projects, or projects sponsored by nonprofit organizations (excluding political parties exempt from taxation under section 501(c)(3) of title 26), but excluding projects involving the construction, operation, or maintenance of any facility used or to be used as a place for sectarian religious instruction or worship;
 
@@ -130,7 +130,7 @@
 
 &emsp;For purposes of this subchapter, administrative costs are the costs, both personnel-related and nonpersonnel-related and both direct and indirect, associated with the following:
 
-&emsp;&emsp;(A) The costs of performing general administrative functions and of providing for the coordination of functions, such as the costs of—
+&emsp;&emsp;(A) The costs of performing general administrative functions and of providing for thecoordination of functions, such as the costs of—
 
 &emsp;&emsp;&emsp;(i) accounting, budgeting, and financial and cash management;
 
@@ -266,7 +266,7 @@ Whenever a grantee conducts a project within a planning and service area in a St
 
 #### References in Text
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(H), (N)(i), (3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. Subtitle B of title I of the Act is classified generally to part B (§3151 et seq.) of subchapter I of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(H), (N)(i), (3), is Pub. L.113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. Subtitle B of title I of the Act is classified generally to part B (§3151 et seq.) of subchapter I of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (b)(1)(J)(i), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
@@ -310,7 +310,7 @@ Subsec. (e)(2)(B)(ii). Pub. L. 113–128, §512(w)(3)(B), substituted "one-stop 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014\(July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date
 

@@ -14,7 +14,7 @@
 
 (c) The verifying officer, before determining that an offender's consent is voluntary and given with full knowledge of the consequences, shall advise the offender of his right to consult with counsel as provided by this chapter. If the offender wishes to consult with counsel before giving his consent, he shall be advised that the proceedings will be continued until he has had an opportunity to consult with counsel.
 
-(d) The verifying officer shall make the necessary inquiries to determine that the offender'sconsent is voluntary and not the result of any promises, threats, or other improper inducements, and that the offender accepts the transfer subject to the conditions set forth in subsection (b). The consent and acceptance shall be on an appropriate form prescribed by the Attorney General.
+(d) The verifying officer shall make the necessary inquiries to determine that the offender's consent is voluntary and not the result of any promises, threats, or other improper inducements, and that the offender accepts the transfer subject to the conditions set forth in subsection (b). The consent and acceptance shall be on an appropriate form prescribed by the Attorney General.
 
 (e) The proceedings shall be taken down by a reporter or recorded by suitable sound recording equipment. The Attorney General shall maintain custody of the records.
 

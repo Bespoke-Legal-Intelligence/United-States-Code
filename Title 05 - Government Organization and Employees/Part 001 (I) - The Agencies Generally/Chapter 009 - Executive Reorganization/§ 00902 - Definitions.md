@@ -42,7 +42,7 @@ June 20, 1949, ch. 226, §8, 63 Stat. 206.
 
 In paragraph (1)(A), the words "an Executive agency or part thereof" are coextensive with and substituted for "any executive department, commission, council, independent establishment, Government corporation, board, bureau, division, service, . . . authority, administration, or other establishment, in the executive branch of the Government" and to conform to the definition in section 105.
 
-In paragraph (1)(B), the words "an office or officer in the civil service or uniformed services in or under an Executive agency" are substituted for "office, officer, . . . in the executive branch of the Government" to conform to the definitions in sections 105, 2101, and 2104.
+In paragraph (1)(B), the words "an office or officer in the civil service or uniformed services in or under an Executive agency" are substituted for "office, officer,. . . in the executive branch of the Government" to conform to the definitions in sections 105, 2101, and 2104.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

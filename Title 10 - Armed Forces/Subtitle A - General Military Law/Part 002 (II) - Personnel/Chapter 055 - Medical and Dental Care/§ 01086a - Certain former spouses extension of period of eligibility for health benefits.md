@@ -6,7 +6,7 @@ Availability of Conversion Health Policies.—The Secretary of Defense shall inf
 
 (b)
 
-Effect of Purchase.—(1) Subject to paragraph (2), if a person who is a dependent for aone-year period under section 1072(2)(H) of this title purchases a conversion health policy within that period (or within a reasonable time after that period as prescribed by the Secretary of Defense), the person shall continue to be eligible for medical and dental care in the manner described in section 1076 of this title and health benefits under section 1086 of this title until the end of the 24-month period beginning on the later of—
+Effect of Purchase.—(1) Subject to paragraph (2), if a person who is a dependent for a one-year period under section 1072(2)(H) of this title purchases a conversion health policy within that period (or within a reasonable time after that period as prescribed by the Secretary of Defense), the person shall continue to be eligible for medical and dental care in the manner described in section 1076 of this title and health benefits under section 1086 of this title until the end of the 24-month period beginning on the later of—
 
 &emsp;(A) the date the person is no longer a dependent under section 1072(2)(H) of this title; and
 

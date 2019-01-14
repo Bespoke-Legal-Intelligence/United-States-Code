@@ -24,6 +24,22 @@ Congress finds the following:
 
 (Pub. L. 100–690, title I, §1021, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 224.)
 
+#### Reauthorization of the Drug-Free Communities Program and Revival of National Narcotics Leadership Act of 1988
+
+Pub. L. 115–271, title VIII, §8203(a)(1), (2), Oct. 24, 2018, 132 Stat. 4110, 4111, provided that:
+
+"(1)
+
+In general.—Chapter 2 of the National Narcotics Leadership Act of 1988 (21 U.S.C. 1521 et seq.), except for subchapter II (21 U.S.C. 1541 et seq.), as in effect on September 29, 1997, and as amended by the laws described in paragraph (2), is revived and restored.
+
+"(2)
+
+Laws described.—The laws described in this paragraph are:
+
+&emsp;"(A) Public Law 107–82 (115 Stat. 814) \[amending sections 1524, 1532, 1533, and 1535 of this title and enacting provisions set out as notes below\].
+
+&emsp;"(B) The Office of National Drug Control Policy Reauthorization Act of 2006 (Public Law 109–469: 120 Stat. 3502) \[amending sections 1524 and 1532 of this title and provisions set out as notes under this section and section 1532 of this title\], as amended by paragraph (4) \[amending sections 1524 and 1532 of this title and provisions set out as a note under section 1532 of this title\]."
+
 #### Five-Year Extension of Drug-Free Communities Support Program
 
 Pub. L. 107–82, §1(a), Dec. 14, 2001, 115 Stat. 814, provided that: "Congress makes the following findings:
@@ -112,15 +128,19 @@ Pub. L. 107–82, §1(a), Dec. 14, 2001, 115 Stat. 814, provided that: "Congress
 
 #### Authorization for National Community Antidrug Coalition Institute
 
-Pub. L. 107–82, §4, Dec. 14, 2001, 115 Stat. 821, as amended by Pub. L. 109–469, title VIII, §805, Dec. 29, 2006, 120 Stat. 3535, provided that:
+Pub. L. 107–82, §4, Dec. 14, 2001, 115 Stat. 821, as amended by Pub. L. 109–469, title VIII, §805, Dec. 29, 2006, 120 Stat. 3535; Pub. L. 115–271, title VIII, §8204, Oct. 24, 2018, 132 Stat. 4112, provided that:
 
 "(a)
 
-In General.—The Director of the Office of National Drug Control Policy shall, using amounts authorized to be appropriated by subsection (d), make a directed grant to Community Anti-Drug Coalitions of America to provide for the continuation of the National Community Anti-drug Coalition Institute.
+In General.—The Director shall, using amounts authorized to be appropriated by subsection (d), make a competitive grant to provide for the continuation of the National Community Anti-drug \[sic\] Coalition Institute.
 
 "(b)
 
-Use of Grant Amount.—The organization receiving the grant under subsection (a) shall establish a National Community Antidrug Coalition Institute to—
+Eligible Organizations.—An organization eligible for the grant under subsection (a) is any national nonprofit organization that represents, provides technical assistance and training to, and has special expertise and broad, national-level experience in community antidrug coalitions under this subchapter \[sic, probably means chapter 2 of the National Narcotics Leadership Act of 1988 (21 U.S.C. 1521 et seq.)\].
+
+"(c)
+
+Use of Grant Amount.—The organization that receives the grant under subsection (a) shall continue a National Community Anti-Drug \[sic\] Coalition Institute to—
 
 &emsp;"(1) provide education, training, and technical assistance for coalition leaders and community teams, with emphasis on the development of coalitions serving economically disadvantaged areas;
 
@@ -128,17 +148,9 @@ Use of Grant Amount.—The organization receiving the grant under subsection (a)
 
 &emsp;"(3) bridge the gap between research and practice by translating knowledge from research into practical information.
 
-"(c)
+"(d)
 
-Authorization of Appropriations.—There is authorized to be appropriated for purposes of activities under this section, including the grant under subsection (a), amounts as follows:
-
-&emsp;"(1) For each of fiscal years 2002 and 2003, $2,000,000.
-
-&emsp;"(2) For each of fiscal years 2004 and 2005, $1,000,000.
-
-&emsp;"(3) For each of fiscal years 2006 and 2007, $750,000.
-
-&emsp;"(4) For each of the fiscal years 2008 through 2012, $2,000,000."
+Authorization of Appropriations.—The Director shall, using amounts authorized to be appropriated by section 1032 of the National Narcotics Leadership Act of 1988 (15 U.S.C. 1532), make a grant of $2 million under subsection (a), for each of the fiscal years 2018 through 2023."
 
 #### Prohibition Against Duplication of Effort
 

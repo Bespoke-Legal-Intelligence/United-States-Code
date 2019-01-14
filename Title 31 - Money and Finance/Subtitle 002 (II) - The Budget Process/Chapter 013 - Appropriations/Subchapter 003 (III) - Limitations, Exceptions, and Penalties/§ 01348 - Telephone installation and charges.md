@@ -52,7 +52,7 @@ In subsection (a)(2), the word "appropriations" is substituted for "Government f
 
 In subsection (b), the words "On and after May 10, 1939" in 31:680a are omitted as executed. The word "agency" is substituted for "executive department, establishment, or agency" for clarity and because of section 101 of the revised title. The words "official business" are substituted for "public business" in 31:679 and "transaction of public business which the interests of the Government require to be so transacted" in 31:680a to eliminate unnecessary words. The words "division, bureau, or office" in 31:679 are omitted as being included in "agency". The words "or such subordinates as he may specially designate" in 31:680a are omitted as surplus.
 
-In subsection (c), the words "On and after September 22, 1922 the provisions of section 679 of this title, or any other law prohibiting the expenditure of public money . . . shall not be construed to apply to or forbid" are omitted as unnecessary because of the restatement.
+In subsection (c), the words "On and after September 22, 1922 the provisions of section 679 of this title, or anyother law prohibiting the expenditure of public money . . . shall not be construed to apply to or forbid" are omitted as unnecessary because of the restatement.
 
 #### Amendments
 

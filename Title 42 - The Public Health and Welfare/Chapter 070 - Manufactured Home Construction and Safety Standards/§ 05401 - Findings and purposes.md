@@ -42,7 +42,7 @@ Pub. L. 106–569, title VI, §612, Dec. 27, 2000, 114 Stat. 3012, provided that
 
 #### Effective Date
 
-Pub. L. 93–383, title VI, §627, formerly §628, Aug. 22, 1974, 88 Stat. 714, renumbered §627, Pub. L. 106–569, titleVI, §611(2), Dec. 27, 2000, 114 Stat. 3012, provided that: "The provisions of this title \[enacting this chapter and provisions set out as a note under this section\] shall take effect upon the expiration of 180 days following the date of enactment of this title \[Aug. 22, 1974\]."
+Pub. L. 93–383, title VI, §627, formerly §628, Aug. 22, 1974, 88 Stat. 714, renumbered §627, Pub. L. 106–569, title VI, §611(2), Dec. 27, 2000, 114 Stat. 3012, provided that: "The provisions of this title \[enacting this chapter and provisions set out as a note under this section\] shall take effect upon the expiration of 180 days following the date of enactment of this title \[Aug. 22, 1974\]."
 
 #### Short Title of 2000 Amendment
 
@@ -50,7 +50,7 @@ Pub. L. 106–569, title VI, §601(a), Dec. 27, 2000, 114 Stat. 2997, provided t
 
 #### Short Title
 
-Pub. L. 93–383, title VI, §601, Aug. 22, 1974, 88 Stat. 700, as amended by Pub. L. 96–399, title III, §308(c)(5), Oct. 8, 1980, 94 Stat. 1641, provided that: "This title \[enacting this chapter and provisions set out as a note under this section\] may be cited as the 'National Manufactured Housing Construction and Safety Standards Act of 1974'."
+Pub. L. 93–383, title VI, §601, Aug. 22, 1974, 88 Stat. 700, as amended by Pub. L. 96–399, title III, §308(c)(5), Oct.8, 1980, 94 Stat. 1641, provided that: "This title \[enacting this chapter and provisions set out as a note under this section\] may be cited as the 'National Manufactured Housing Construction and Safety Standards Act of 1974'."
 
 #### Savings Provisions
 

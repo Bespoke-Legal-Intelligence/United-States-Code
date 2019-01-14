@@ -9,3 +9,5 @@
 - [&sect; 06591a - Designation of treatment areas](%C2%A7%2006591a%20-%20Designation%20of%20treatment%20areas.md)
 - [&sect; 06591b - Administrative review](%C2%A7%2006591b%20-%20Administrative%20review.md)
 - [&sect; 06591c - Stewardship end result contracting projects](%C2%A7%2006591c%20-%20Stewardship%20end%20result%20contracting%20projects.md)
+- [&sect; 06591d - Wildfire resilience projects](%C2%A7%2006591d%20-%20Wildfire%20resilience%20projects.md)
+- [&sect; 06591e - Categorical exclusion for greater sage-grouse and mule deer habitat](%C2%A7%2006591e%20-%20Categorical%20exclusion%20for%20greater%20sage-grouse%20and%20mule%20deer%20habitat.md)

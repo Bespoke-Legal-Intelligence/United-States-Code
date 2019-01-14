@@ -4,7 +4,7 @@
 
 Definition.—
 
-&emsp;(1) Except as provided in sections 2338 and 2339 of title 10 and paragraph (2) of this subsection, for purposes of this section, the micro-purchase threshold is $10,000.
+&emsp;(1) Except as provided in paragraph (2) of this subsection, for purposes of this section, the micro-purchase threshold is $10,000.
 
 &emsp;(2) For purposes of this section, the micro-purchase threshold for procurement activities administered under sections 6303 through 6305 of title 31 by institutions of higher education (as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)), or related or affiliated nonprofit entities, or by nonprofit research organizations or independent research institutes is—
 
@@ -18,7 +18,7 @@ Compliance With Certain Requirements and Nonapplicability of Certain Authority.�
 
 &emsp;(1)
 
-Compliance with certain requirements.—The head of each executive agency shall ensure that procuring activities of that agency, when awarding a contract with a price exceeding the micro-purchase threshold, comply with the requirements of section 8(a) of the Small Business Act (15 U.S.C. 637(a)), section 2323 of title 10, and section 7102 of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355, 15 U.S.C. 644 note).
+Compliance with certain requirements.—The head of each executive agency shall ensure that procuring activities of that agency, when awarding a contract with a price exceeding the micro-purchase threshold, comply with the requirements of section 8(a) of the Small Business Act (15 U.S.C. 637(a)) and section 7102 of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355, 15 U.S.C. 644 note).
 
 &emsp;(2)
 
@@ -40,7 +40,7 @@ Equitable Distribution.—Purchases with a price not greater than the micro-purc
 
 Implementation Through Federal Acquisition Regulation.—This section shall be implemented through the Federal Acquisition Regulation.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3720; Pub. L. 114–328, div. A, title II, §217(b), Dec. 23, 2016, 130 Stat. 2051; Pub. L. 115–91, div. A, title VIII, §806(a), Dec. 12, 2017, 131 Stat. 1456.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3720; Pub. L. 114–328, div. A, title II, §217(b), Dec. 23, 2016, 130 Stat. 2051; Pub. L. 115–91, div. A, title VIII, §806(a), Dec. 12, 2017, 131 Stat. 1456; Pub. L. 115–232, div. A, title VIII, §§812(a)(2)(C)(ix), 821(b), Aug. 13, 2018, 132 Stat. 1847, 1853.)
 
 #### Adjustment of Micro-Purchase Threshold
 
@@ -67,6 +67,10 @@ Pub. L. 93–400, §32, as added Pub. L. 103–355, title IV, §4301(a), Oct. 13
 In subsecs. (a), (d), and (e), "$3,000" substituted for "$2,500" by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–232, §821(b), struck out "sections 2338 and 2339 of title 10 and" after "Except as provided in".
+
+Subsec. (b)(1). Pub. L. 115–232, §812(a)(2)(C)(ix), struck out ", section 2323 of title 10," after "(15 U.S.C. 637(a))".
 
 <b>2017</b>—Subsec. (a)(1). Pub. L. 115–91 substituted "$10,000" for "$3,000".
 

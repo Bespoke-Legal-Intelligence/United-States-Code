@@ -6,7 +6,7 @@ The Director of the National Counterintelligence and Security Center appointed u
 
 #### (b) Duties
 
-The Director of the National Counterintelligence and Security Center shall performthe duties provided in the Counterintelligence Enhancement Act of 2002 and such other duties as may be prescribed by the Director of National Intelligence or specified by law.
+The Director of the National Counterintelligence and Security Center shall perform the duties provided in the Counterintelligence Enhancement Act of 2002 and such other duties as may be prescribed by the Director of National Intelligence or specified by law.
 
 (July 26, 1947, ch. 343, title I, §103F, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3660; amended Pub. L. 115–31, div. N, title IV, §401(e)(1), May 5, 2017, 131 Stat. 819.)
 

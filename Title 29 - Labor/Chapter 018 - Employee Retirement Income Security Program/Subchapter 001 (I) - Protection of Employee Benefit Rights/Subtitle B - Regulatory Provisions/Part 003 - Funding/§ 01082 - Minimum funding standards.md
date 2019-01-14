@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(i) in the case of a single-employer plan (other than a CSEC plan), the minimum required contribution under section 1083 of this title for the plan year shall be reduced by the amount of the waived funding deficiency and such amount shall be amortized as required under section 1083(e) of this title,
 
-&emsp;&emsp;&emsp;(ii) in the case of a multiemployer plan, the funding standard account shall be credited under section 1084(b)(3)(C) of this title with the amount of the waived funding deficiency and such amount shall beamortized as required under section 1084(b)(2)(C) of this title, and
+&emsp;&emsp;&emsp;(ii) in the case of a multiemployer plan, the funding standard account shall be credited under section 1084(b)(3)(C) of this title with the amount of the waived funding deficiency and such amount shall be amortized as required under section 1084(b)(2)(C) of this title, and
 
 &emsp;&emsp;&emsp;(iii) in the case of a CSEC plan, the funding standard account shall be credited under section 1085a(b)(3)(C) of this title with the amount of the waived funding deficiency and such amount shall be amortized as required under section 1085a(b)(2)(C) of this title.
 
@@ -130,7 +130,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term "unpaid minimum required contribution" means, with respect to any plan year, any minimum required contribution under section 1083 of this title for the plan year which is not paidon or before the due date (as determined under section 1083(j)(1) of this title) for the plan year.
+&emsp;&emsp;&emsp;&emsp;The term "unpaid minimum required contribution" means, with respect to any plan year, any minimum required contribution under section 1083 of this title for the plan year which is not paid on or before the due date (as determined under section 1083(j)(1) of this title) for the plan year.
 
 #### (II) Ordering rule
 
@@ -150,7 +150,7 @@
 
 &emsp;&emsp;&emsp;(ii) with respect to the controlled group of which such employer is a member (determined by treating all members of such group as a single employer).
 
-> &emsp;&emsp;The Secretary of the Treasury may provide that an analysis of a trade or business or industry of a member need not be conducted if such Secretary determines such analysis is not necessary because the taking into account of such member would not significantly affect the determination under this paragraph.
+> &emsp;&emsp;The Secretary of the Treasury may provide that an analysis of a trade or business or industry of a member need not be conducted if such Secretary determines such analysis isnot necessary because the taking into account of such member would not significantly affect the determination under this paragraph.
 
 #### (6) Advance notice
 
@@ -198,7 +198,7 @@
 
 &emsp;&emsp;(C) does not reduce the accrued benefit of any participant determined as of the time of adoption except to the extent required by the circumstances,
 
-> &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary of the Treasury notifying him of such amendment and such Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary ofthe Treasury unless such Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan or a CSEC plan, any extension of the amortization period under section 1084(d) of this title or section 1085a(d) of this title) is unavailable or inadequate.
+> &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary of the Treasury notifying him of such amendment and such Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary of the Treasury unless such Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan or a CSEC plan, any extension of the amortization period under section 1084(d) of this title or section 1085a(d) of this title) is unavailable or inadequate.
 
 #### (3) Controlled group
 
@@ -208,7 +208,7 @@
 
 #### Prior Provisions
 
-A prior section 1082, Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 869; Pub. L. 96–364, title III, §304(b), Sept. 26, 1980, 94 Stat. 1293; Pub. L. 100–203, title IX, §§9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, 101 Stat. 1330–332, 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; Pub. L. 100–647, title II, §2005(a)(2)(B), (d)(2), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §§7881(a)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, 103 Stat. 2435–2439, 2445, 2447, 2449, 2450; Pub. L. 101–508, title XII, §12012(c), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–465, title VII, §§761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, 108 Stat. 5024–5031, 5033–5036, 5041; Pub. L. 105–34, title XV, §1521(b), (c)(2), (3)(B), title XVI, §1604(b)(2)(B), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(b), 661(b), June 7, 2001, 115 Stat. 129, 142; Pub. L. 107–147, title IV, §§405(b), 411(v)(2), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(a)(1)–(3), 102(a), 104(a)(1), Apr. 10, 2004, 118 Stat. 596, 597, 599, 604; Pub. L. 109–135, title IV, §412(x)(2), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title III, §301(a)(1), (2), Aug. 17, 2006, 120 Stat. 919, related to minimum funding standards, prior to repeal by Pub. L. 109–280, title I, §101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, applicable to plan years beginning after 2007.
+A prior section 1082, Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 869; Pub. L. 96–364, title III, §304(b), Sept. 26, 1980, 94 Stat. 1293; Pub. L. 100–203, title IX, §§9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, 101 Stat. 1330–332, 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; Pub. L. 100–647, title II, §2005(a)(2)(B), (d)(2), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §§7881(a)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, 103 Stat. 2435–2439, 2445, 2447, 2449, 2450; Pub. L. 101–508, title XII, §12012(c), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–465, title VII, §§761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, 108 Stat. 5024–5031, 5033–5036, 5041; Pub. L. 105–34, title XV, §1521(b), (c)(2), (3)(B), title XVI, §1604(b)(2)(B), Aug. 5,1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(b), 661(b), June 7, 2001, 115 Stat. 129, 142; Pub. L. 107–147, title IV, §§405(b), 411(v)(2), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(a)(1)–(3), 102(a), 104(a)(1), Apr. 10, 2004, 118 Stat. 596, 597, 599, 604; Pub. L. 109–135, title IV, §412(x)(2), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–280, title III, §301(a)(1), (2), Aug. 17, 2006, 120 Stat. 919, related to minimum funding standards, prior to repeal by Pub. L. 109–280, title I, §101(a), (d), Aug. 17, 2006, 120 Stat. 784, 789, applicable to plan years beginning after 2007.
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §4222. Authentication of documents of State of Vatican City by consular officer in Rome
 
-Until the United States shall have consular officer resident in the State of the Vatican City, a copy of any document of record or on file in a public office of said State of the Vatican City, certified by the lawful custodian of such document, may be authenticated, as provided in section 1741 of title 28, by a consular officer of theUnited States resident in the city of Rome, Kingdom of Italy, and such document or record shall, when so certified and authenticated, be admissible in evidence in any court of the United States.
+Until the United States shall have consular officer resident in the State of the Vatican City, a copy of any document of record or on file in a public office of said State of the Vatican City, certified by the lawful custodian of such document, may be authenticated, as provided in section 1741 of title 28, by a consular officer of the United States resident in the city of Rome, Kingdom of Italy, and such document or record shall, when so certified and authenticated, be admissible in evidence in any court of the United States.
 
 (June 20, 1936, ch. 640, §6A, as added June 25, 1938, ch. 682, 52 Stat. 1163.)
 

@@ -22,7 +22,7 @@ The purpose of this section is to provide incentives to encourage and reward eff
 
 #### (d) Option to obtain commodities from Secretary of Agriculture
 
-(1) Each State agency and each title VI \[subchapter X\] grantee shall be entitled to use all or any part of amounts allotted under subsection (b) to obtain, subject to paragraphs (2) and (3), from the Secretary of Agriculture commodities available through any food program of the Department of Agriculture at the rates at which such commodities are valued for purposes of such program.
+(1) Each State agency and each title VI \[subchapter X\] grantee shall be entitled to use all orany part of amounts allotted under subsection (b) to obtain, subject to paragraphs (2) and (3), from the Secretary of Agriculture commodities available through any food program of the Department of Agriculture at the rates at which such commodities are valued for purposes of such program.
 
 (2) The Secretary of Agriculture shall determine and report to the Secretary, by such date as the Secretary may require, the amount (if any) of its allotment under subsection (b) which each State agency and title VI \[subchapter X\] grantee has elected to receive in the form of commodities. Such amount shall include an amount bearing the same ratio to the costs to the Secretary of Agriculture of providing such commodities under this subsection as the value of commodities received by such State agency or title VI \[subchapter X\] grantee under this subsection bears to the total value of commodities so received.
 
@@ -38,7 +38,7 @@ There are authorized to be appropriated to carry out this section (other than su
 
 #### (f) Dissemination of information
 
-In each fiscal year, the Secretary and the Secretary of Agriculture shall jointly disseminate to State agencies, title VI \[subchapter X\] grantees, area agencies on aging, and providers of nutrition services assisted under this subchapter,information concerning the foods available to such State agencies, title VI \[subchapter X\] grantees, area agencies on aging, and providers under subsection (c).
+In each fiscal year, the Secretary and the Secretary of Agriculture shall jointly disseminate to State agencies, title VI \[subchapter X\] grantees, area agencies on aging, and providers of nutrition services assisted under this subchapter, information concerning the foods available to such State agencies, title VI \[subchapter X\] grantees, area agencies on aging, and providers under subsection (c).
 
 (Pub. L. 89–73, title III, §311, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1533; amended Pub. L. 97–115, §9, Dec. 29, 1981, 95 Stat. 1600; Pub. L. 98–459, title III, §310, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 99–269, §§2, 3(b), 4, Apr. 1, 1986, 100 Stat. 78; Pub. L. 100–175, title I, §122(c), Nov. 29, 1987, 101 Stat. 933; Pub. L. 102–375, title I, §102(b)(10)(A), title III, §310, Sept. 30, 1992, 106 Stat. 1202, 1236; Pub. L. 103–171, §3(a)(6), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §309, Nov. 13, 2000, 114 Stat. 2246; Pub. L. 108–7, div. G, title II, §217(a), Feb. 20, 2003, 117 Stat. 325; Pub. L. 109–365, title III, §309, Oct. 17, 2006, 120 Stat. 2545; Pub. L. 110–19, §2, Apr. 23, 2007, 121 Stat. 84; Pub. L. 114–144, §4(f), Apr. 19, 2016, 130 Stat. 339.)
 
@@ -68,7 +68,7 @@ Subsec. (d). Pub. L. 109–365, §309(3), amended subsec. (d) generally, substit
 
 Subsec. (e). Pub. L. 109–365, §309(4), substituted "2007" for "2001".
 
-Subsec. (f). Pub. L. 109–365, §309(5), substituted "the Assistant Secretary and the Secretary of Agriculture" for "the Secretary of Agriculture and the Secretary of Health and Human Services" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+Subsec. (f). Pub. L. 109–365, §309(5), substituted "the Assistant Secretary and the Secretary of Agriculture" for "the Secretary of Agriculture and the Secretary ofHealth and Human Services" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
 
 "(1) the existence of any Federal commodity processing program in which such State agencies, area agencies on aging, and providers may be eligible to participate; and
 
@@ -106,7 +106,7 @@ Subsec. (d)(1). Pub. L. 106–501, §309(5), substituted "In any case in which a
 
 Subsec. (d)(4). Pub. L. 106–501, §309(6), added par. (4).
 
-Subsec. (e). Pub. L. 106–501, §309(7), added subsec. (e) and struck out former subsec. (e) which authorized appropriations for fiscal years 1992 to 1995 to carry out this section, set a deadline for final reimbursementclaims for meals, provided for a reduction of the cents-per-meal level in any fiscal year in which costs exceed amounts authorized, and required adjustment of final reimbursement claims to use the full amount appropriated for a fiscal year.
+Subsec. (e). Pub. L. 106–501, §309(7), added subsec. (e) and struck out former subsec. (e) which authorized appropriations for fiscal years 1992 to 1995 to carry out this section, set a deadline for final reimbursement claims for meals, provided for a reduction of the cents-per-meal level in any fiscal year in which costs exceed amounts authorized, and required adjustment of final reimbursement claims to use the full amount appropriated for a fiscal year.
 
 Pub. L. 106–501, §309(2), redesignated subsec. (c) as (e).
 

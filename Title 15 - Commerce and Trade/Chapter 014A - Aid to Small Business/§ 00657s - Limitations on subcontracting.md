@@ -24,7 +24,7 @@ If awarded a contract under section 637(a), 637(m), 644(a), 657a, or 657f of thi
 
 #### (b) Similarly situated entities
 
-Contract amounts expended by a covered small business concern on a subcontractor thatis a similarly situated entity shall not be considered subcontracted for purposes of determining whether the covered small business concern has violated a requirement established under subsection (a) or (d).
+Contract amounts expended by a covered small business concern on a subcontractor that is a similarly situated entity shall not be considered subcontracted for purposes of determining whether the covered small business concern has violated a requirement established under subsection (a) or (d).
 
 #### (c) Modifications of percentages
 

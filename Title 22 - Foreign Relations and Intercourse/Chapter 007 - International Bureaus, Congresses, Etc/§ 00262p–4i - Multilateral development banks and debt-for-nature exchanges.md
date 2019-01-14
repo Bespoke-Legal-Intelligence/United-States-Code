@@ -48,7 +48,7 @@ The Secretary of the Treasury shall direct the United States Executive Directors
 
 The United States Executive Directors of the multilateral development banks shall seek to negotiate with the other executive directors to provide guidelines for restoration, protection, or sustainable use policies. Pending the outcome of such negotiations, the United States Executive Directors shall consider restoration, protection, or sustainable use policies to be those which—
 
-&emsp;(1) support development that maintains and restores the renewable natural resource base so that present and future needs of debtorcountries' populations can be met, while not impairing critical ecosystems and not exacerbating global environmental problems;
+&emsp;(1) support development that maintains and restores the renewable natural resource base so that present and future needs of debtor countries' populations can be met, while not impairing critical ecosystems and not exacerbating global environmental problems;
 
 &emsp;(2) are environmentally sustainable in that resources are conserved and managed in an effort to remove pressure on the natural resource base and to make judicious use of the land so as to sustain growth and the availability of all natural resources;
 

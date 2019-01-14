@@ -32,7 +32,7 @@ In the case of any experimental, pilot, or demonstration project which, in the j
 
 (2) Notwithstanding section 602(a)(1) of this title, a demonstration project conducted under this subsection may be conducted in one or more political subdivisions of the State.
 
-(3) An agreement under this subsection shall be entered into between the Secretary and the State agency designated under section 602(a)(3) of this title. Such agreement shall provide for the payment of aid under the applicable State plan under part A of subchapter IV as though section 607 of this title had been modified to reflect the definition of unemployment used in the demonstration project but shall also provide that such project shall otherwise be carried out in accordance with all of the requirements and conditions of section 607 of this title (and, except as provided in paragraph (2), any related requirements and conditions under part A of subchapter IV).
+(3) An agreement under this subsection shall be entered into between the Secretary and the State agency designated under section 602(a)(3) of this title. Such agreement shall provide for the payment of aid under the applicable State plan under part A of subchapter IV as though section 607 of this title had been modified to reflect the definition of unemployment used in the demonstration project but shall also provide that such project shall otherwise be carried out in accordance with all of the requirements andconditions of section 607 of this title (and, except as provided in paragraph (2), any related requirements and conditions under part A of subchapter IV).
 
 (4) A demonstration project under this subsection may be commenced any time after September 30, 1990, and shall be conducted for such period of time as the agreement with the Secretary may provide; except that, in no event may a demonstration project under this section be conducted after September 30, 1995.
 
@@ -102,7 +102,7 @@ An application by the chief executive officer of a State for an extension of a w
 
 &emsp;&emsp;(ii) disapprove the application.
 
-&emsp;(B) A failure by the Secretary to approve or disapprove an application submitted underthis subsection in accordance with the requirements of subparagraph (A) shall be deemed to be an approval of the application subject to such modifications in the terms and conditions as have been agreed to (if any) by the Secretary and the State.
+&emsp;(B) A failure by the Secretary to approve or disapprove an application submitted under this subsection in accordance with the requirements of subparagraph (A) shall be deemed to be an approval of the application subject to such modifications in the terms and conditions as have been agreed to (if any) by the Secretary and the State.
 
 &emsp;(6) An approval of an application for an extension of a waiver project under this subsection shall be for a period not to exceed 3 years (5 years, in the case of a waiver described in section 1396n(h)(2) of this title).
 
@@ -232,7 +232,7 @@ Demonstration Projects To Test the Effect of Early Childhood Development Program
 
 "(b)
 
-State Demonstration Projects To Encourage Innovative Education and Training Programs for Children.—In order to encourage States to develop innovative education and training programs for children receiving aid under State plans approved under section 402 of the Social Security Act \[42 U.S.C. 602\], any State may establish and conduct one or more demonstration projects, targeted to such children, designed to test financial incentives and interdisciplinary approaches to reducing school dropouts, encouraging skill development, and avoiding welfare dependence; and the Secretary may make grants to States to assist in financing such projects. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary shall prescribe, and no such project shall be conducted for a period of less than one year or more than 5 years.
+State Demonstration Projects To Encourage Innovative Education and Training Programs forChildren.—In order to encourage States to develop innovative education and training programs for children receiving aid under State plans approved under section 402 of the Social Security Act \[42 U.S.C. 602\], any State may establish and conduct one or more demonstration projects, targeted to such children, designed to test financial incentives and interdisciplinary approaches to reducing school dropouts, encouraging skill development, and avoiding welfare dependence; and the Secretary may make grants to States to assist in financing such projects. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary shall prescribe, and no such project shall be conducted for a period of less than one year or more than 5 years.
 
 "(c)
 
@@ -340,7 +340,7 @@ Evaluation and Report.—(1) Each State conducting a demonstration project under
 
 "(f)
 
-Funding.—(1) Three-fifths of the total amount appropriated pursuant to this section for any fiscalyear for each State conducting a demonstration project shall be expended by such State for the provision of services and facilities within the State's designated project home base, and 5 percent of such three-fifths shall be set aside for the conduct of the State's evaluation as provided for in subsection (e).
+Funding.—(1) Three-fifths of the total amount appropriated pursuant to this section for any fiscal year for each State conducting a demonstration project shall be expended by such State for the provision of services and facilities within the State's designated project home base, and 5 percent of such three-fifths shall be set aside for the conduct of the State's evaluation as provided for in subsection (e).
 
 "(2) Two-fifths of the total amounts appropriated pursuant to this section for any fiscal year for each State conducting a demonstration project shall be expended by such State for the provision of services and facilities within the State's designated peripheral area, and 5 percent of such two-fifths shall be set aside for the conduct of the State's evaluation as provided for in subsection (e).
 

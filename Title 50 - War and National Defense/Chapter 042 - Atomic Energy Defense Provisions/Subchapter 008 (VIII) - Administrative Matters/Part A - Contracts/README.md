@@ -12,3 +12,4 @@ Part A—Contracts
 - [&sect; 02784 - Notice-and-wait requirement applicable to certain third-party financing arrangements](%C2%A7%2002784%20-%20Notice-and-wait%20requirement%20applicable%20to%20certain%20third-party%20financing%20arrangements.md)
 - [&sect; 02785 - Publication of contractor performance evaluations leading to award fees](%C2%A7%2002785%20-%20Publication%20of%20contractor%20performance%20evaluations%20leading%20to%20award%20fees.md)
 - [&sect; 02786 - Enhanced procurement authority to manage supply chain risk](%C2%A7%2002786%20-%20Enhanced%20procurement%20authority%20to%20manage%20supply%20chain%20risk.md)
+- [&sect; 02787 - Cost-benefit analyses for competition of management and operating contracts](%C2%A7%2002787%20-%20Cost-benefit%20analyses%20for%20competition%20of%20management%20and%20operating%20contracts.md)

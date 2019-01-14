@@ -30,7 +30,7 @@ The purposes for which grants made under subsection (a) may be made are—
 
 &emsp;(11) to establish and implement innovative programs to increase and enhance proactive crime control and prevention programs involving law enforcement officers and young persons in the community;
 
-&emsp;(12) to establish school-based partnerships between local law enforcement agencies and local school systems by using school resource officers who operate in and around elementary and secondary schools to combat school-related crime and disorder problems, gangs, and drug activities;
+&emsp;(12) to establish school-based partnerships between local law enforcement agencies and local school systems by using school resource officers who operate in and around elementary and secondary schools to combat school-related crime and disorder problems, gangs, and drug activities, including the training of school resource officers in the prevention of human trafficking offenses;
 
 &emsp;(13) to develop and establish new administrative and managerial systems to facilitate the adoption of community-oriented policing as an organization-wide philosophy;
 
@@ -146,7 +146,15 @@ Except as provided in subsection (j), the authority under subsection (a) of this
 
 &emsp;There is authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2011 through 2015.
 
-#### (k) Report
+#### (k) COPS anti-meth program
+
+The Attorney General shall use amounts otherwise appropriated to carry out this section for a fiscal year (beginning with fiscal year 2019) to make competitive grants, in amounts of not less than $1,000,000 for such fiscal year, to State law enforcement agencies with high seizures of precursor chemicals, finished methamphetamine, laboratories, and laboratory dump seizures for the purpose of locating or investigating illicit activities, such as precursor diversion, laboratories, or methamphetamine traffickers.
+
+#### (l) COPS anti-heroin task force program
+
+The Attorney General shall use amounts otherwise appropriated to carry out this section, or other amounts as appropriated, for a fiscal year (beginning with fiscal year 2019) to make competitive grants to State law enforcement agencies in States with high per capita rates of primary treatment admissions, for the purpose of locating or investigating illicit activities, through Statewide collaboration, relating to the distribution of heroin, fentanyl, or carfentanil or relating to the unlawful distribution of prescription opioids.
+
+#### (m) Report
 
 Not later than 180 days after July 29, 2010, the Attorney General shall submit to Congress a report describing the extent and effectiveness of the Community Oriented Policing (COPS) initiative as applied in Indian country, including particular references to—
 
@@ -156,7 +164,7 @@ Not later than 180 days after July 29, 2010, the Attorney General shall submit t
 
 &emsp;(3) an explanation of how the practice of community policing and the broken windows theory can most effectively be applied in remote tribal locations.
 
-(Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, §1(1), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 108–21, title III, §341, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–162, title XI, §1163(a), Jan. 5, 2006, 119 Stat. 3119; Pub. L. 111–211, title II, §243, July 29, 2010, 124 Stat. 2292; Pub. L. 114–22, title VI, §601(1), title X, §1002, May 29, 2015, 129 Stat. 258, 266; Pub. L. 114–199, §2, July 22, 2016, 130 Stat. 780; Pub. L. 114–255, div. B, title XIV, §14001(b), Dec. 13, 2016, 130 Stat. 1288; Pub. L. 115–37, §2, June 2, 2017, 131 Stat. 854; Pub. L. 115–113, §2(c), Jan. 10, 2018, 131 Stat. 2276.)
+(Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, §1(1), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 108–21, title III, §341, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–162, title XI, §1163(a), Jan. 5, 2006, 119 Stat. 3119; Pub. L. 111–211, title II, §243, July 29, 2010, 124 Stat. 2292; Pub. L. 114–22, title VI, §601(1), title X, §1002, May 29, 2015, 129 Stat. 258, 266; Pub. L. 114–199, §2, July 22, 2016, 130 Stat. 780; Pub. L. 114–255, div. B, title XIV, §14001(b), Dec. 13, 2016, 130 Stat. 1288; Pub. L. 115–37, §2, June 2, 2017, 131 Stat. 854; Pub. L. 115–113, §2(c), Jan. 10, 2018, 131 Stat. 2276; Pub. L. 115–271, title VIII, §§8210, 8211, Oct. 24, 2018, 132 Stat. 4114; Pub. L. 115–393, title I, §101, Dec. 21, 2018, 132 Stat. 5266.)
 
 #### References in Text
 
@@ -172,7 +180,15 @@ A prior section 1701 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b)(23). Pub. L. 115–113 added par. (23).
+<b>2018</b>—Subsec. (b)(12). Pub. L. 115–393 inserted before semicolon at end ", including the training of school resource officers in the prevention of human trafficking offenses".
+
+Subsec. (b)(23). Pub. L. 115–113 added par. (23).
+
+Subsec. (k). Pub. L. 115–271, §8210, added subsec. (k). Former subsec. (k) redesignated (l), then (m).
+
+Subsec. (l). Pub. L. 115–271, §8211, added subsec. (l).
+
+Subsec. (m). Pub. L. 115–271 redesignated subsec. (k) as (l), then (m).
 
 <b>2017</b>—Subsec. (b)(2). Pub. L. 115–37 inserted ", including by prioritizing the hiring and training of veterans (as defined in section 101 of title 38)" after "Nation".
 
@@ -292,7 +308,7 @@ COPS Grants.—The State and any Indian tribe or tribal organization in the Stat
 
 "(c)
 
-Staffing for Adequate Fire and Emergency Response Grants.—The State and any Indian tribe or tribal organization in the State that employs a village public safety officer shall be eligible to apply for a grant under the Staffing for Adequate Fire and Emergency Response program under section 34 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229a) on an equal basis with other eligible applicants for funding under that program.
+Staffing for Adequate Fire and Emergency Response Grants.—The State and any Indian tribe or tribal organization in the State that employs a village public safety officer shall be eligible to apply for a grant under the Staffing for Adequate Fire and Emergency Response program under section 34 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C.2229a) on an equal basis with other eligible applicants for funding under that program.
 
 "(d)
 

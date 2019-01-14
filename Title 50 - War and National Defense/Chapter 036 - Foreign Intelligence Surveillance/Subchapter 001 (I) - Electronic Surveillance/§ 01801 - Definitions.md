@@ -38,7 +38,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(B) pursuant to the direction of an intelligence service or network of a foreign power, knowingly engages in any other clandestine intelligence activities for or on behalf of such foreign power, which activities involve or are about to involve a violation of the criminal statutes of the United States;
 
-&emsp;&emsp;&emsp;(C) knowingly engages in sabotage or international terrorism, or activities thatare in preparation therefor, for or on behalf of a foreign power;
+&emsp;&emsp;&emsp;(C) knowingly engages in sabotage or international terrorism, or activities that are in preparation therefor, for or on behalf of a foreign power;
 
 &emsp;&emsp;&emsp;(D) knowingly enters the United States under a false or fraudulent identity for or on behalf of a foreign power or, while in the United States, knowingly assumes a false or fraudulent identity for or on behalf of a foreign power; or
 
@@ -80,7 +80,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(1) the acquisition by an electronic, mechanical, or other surveillance device of the contents of any wire or radio communication sent by or intended to be received by a particular, known United States person who is in the United States, if the contents are acquired by intentionally targeting that United States person, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes;
 
-&emsp;&emsp;(2) the acquisition by an electronic, mechanical, or other surveillance device of the contents of any wire communication to or from a person in the United States, without the consent of any party thereto, if such acquisition occurs in the United States, but does not include the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18;
+&emsp;&emsp;(2) the acquisition by an electronic, mechanical, or other surveillance device of the contents of any wire communication to orfrom a person in the United States, without the consent of any party thereto, if such acquisition occurs in the United States, but does not include the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18;
 
 &emsp;&emsp;(3) the intentional acquisition by an electronic, mechanical, or other surveillance device of the contents of any radio communication, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes, and if both the sender and all intended recipients are located within the United States; or
 
@@ -122,7 +122,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(4) any weapon that is designed, intended, or has the capability to release radiation or radioactivity causing death, illness, or serious bodily injury to a significant number of persons.
 
-(Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619; Pub. L. 107–56, title X, §1003, Oct. 26, 2001, 115 Stat. 392; Pub. L. 107–108, title III, §314(a)(1), (c)(2), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 108–458, title VI, §6001(a), Dec. 17, 2004, 118 Stat. 3742; Pub. L. 109–177, title V, §506(a)(5), Mar. 9, 2006, 120 Stat. 248; Pub. L. 110–261, title I, §110(a), July 10, 2008, 122 Stat. 2465; Pub. L. 111–259, title VIII, §801(1), Oct. 7, 2010, 124 Stat. 2746; Pub. L. 114–23, title VII, §§702, 703, June 2, 2015, 129 Stat. 300.)
+(Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619; Pub. L. 107–56, title X, §1003, Oct. 26, 2001, 115 Stat. 392; Pub. L. 107–108, title III,§314(a)(1), (c)(2), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 108–458, title VI, §6001(a), Dec. 17, 2004, 118 Stat. 3742; Pub. L. 109–177, title V, §506(a)(5), Mar. 9, 2006, 120 Stat. 248; Pub. L. 110–261, title I, §110(a), July 10, 2008, 122 Stat. 2465; Pub. L. 111–259, title VIII, §801(1), Oct. 7, 2010, 124 Stat. 2746; Pub. L. 114–23, title VII, §§702, 703, June 2, 2015, 129 Stat. 300.)
 
 #### Amendment of Section
 
@@ -162,7 +162,7 @@ Pub. L. 110–261, title IV, §402, July 10, 2008, 122 Stat. 2473, provided that
 
 #### Termination Date of 2004 Amendment
 
-Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, as amended by Pub. L. 109–177, title I, §103,Mar. 9, 2006, 120 Stat. 195; Pub. L. 111–118, div. B, §1004(b), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(b), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, §2(b), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(b), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, §705(b), June 2, 2015, 129 Stat. 300, provided that:
+Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, as amended by Pub. L. 109–177, title I, §103, Mar. 9, 2006, 120 Stat. 195; Pub. L. 111–118, div. B, §1004(b), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(b), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, §2(b), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(b), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, §705(b), June 2, 2015, 129 Stat. 300, provided that:
 
 "(1)
 
@@ -182,13 +182,17 @@ Pub. L. 107–108, title III, §314(c), Dec. 28, 2001, 115 Stat. 1402, provided 
 
 Pub. L. 95–511, title VII, §701, formerly title III, §301, Oct. 25, 1978, 92 Stat. 1798, as renumbered title IV, §401, and amended by Pub. L. 103–359, title VIII, §807(a)(1), (2), Oct. 14, 1994, 108 Stat. 3443; renumbered title VI, §601, and amended Pub. L. 105–272, title VI, §§601(1), 603(a), Oct. 20, 1998, 112 Stat. 2404, 2412; renumbered title VII, §701, Pub. L. 108–458, title VI, §6002(a)(1), Dec. 17, 2004, 118 Stat. 3743, which provided that the provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note below\] (other than titles III, IV, and V \[enacting subchapters II, III, and IV, respectively, of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[section 1803 of this title\], was repealed by Pub. L. 110–261, title I, §101(a)(1), July 10, 2008, 122 Stat. 2437.
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–118, §1(a), Jan. 19, 2018, 132 Stat. 3, provided that: "This Act \[amending sections 1803, 1805, 1807, 1822, 1842, 1843, 1846, 1861, 1873, 1874, 1881 to 1881g, 1885, 1885a, 3234, and 3341 of this title, section 1924 of Title 18, Crimes and Criminal Procedure, and sections 2000ee and 2000ee–1 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 1881 and 1881a of this title and section 2303 of Title 5, Government Organization and Employees, and amending provisions set out as notes under this section and section 1881 of this title and section 2511 of Title 18\] may be cited as the 'FISA Amendments Reauthorization Act of 2017'."
+
 #### Short Title of 2015 Amendment
 
 Pub. L. 114–23, §1(a), June 2, 2015, 129 Stat. 268, provided that: "This Act \[see Tables for classification\] may be cited as the 'Uniting and Strengthening America by Fulfilling Rights and Ensuring Effective Discipline Over Monitoring Act of 2015' or the 'USA FREEDOM Act of 2015'."
 
 #### Short Title of 2012 Amendment
 
-Pub. L. 112–238, §1, Dec. 30, 2012, 126 Stat. 1631, provided that: "This Act \[amending sections 1881 to 1881g of this title and provisions set out as notes under this section, section 1881 of this title, and section 2511 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'FISA Amendments Act Reauthorization Act of 2012'."
+Pub. L. 112–238, §1, Dec. 30, 2012, 126 Stat. 1631, provided that: "This Act \[amending sections 1881 to 1881g of this title and provisions set out as notes under this section, section 1881 of this title, and section 2511 of Title 18, Crimes and Criminal Procedure\] may be citedas the 'FISA Amendments Act Reauthorization Act of 2012'."
 
 #### Short Title of 2011 Amendment
 
@@ -214,13 +218,15 @@ Pub. L. 95–511, §1, Oct. 25, 1978, 92 Stat. 1783, provided in part: "That thi
 
 #### Severability
 
+Pub. L. 115–118, title II, §206, Jan. 19, 2018, 132 Stat. 22, provided that: "If any provision of this Act \[see Short Title of 2018 Amendment note set out above\], any amendment made by this Act, or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act, of any such amendments, and of the application of such provisions to other persons and circumstances shall not be affected thereby."
+
 Pub. L. 110–261, title IV, §401, July 10, 2008, 122 Stat. 2473, provided that: "If any provision of this Act \[see Short Title of 2008 Amendment note above\], any amendment made by this Act, or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act, of any such amendments, and of the application of such provisions to other persons and circumstances shall not be affected thereby."
 
 Pub. L. 106–567, title VI, §608, Dec. 27, 2000, 114 Stat. 2856, provided that: "If any provision of this title \[see Short Title of 2000 Amendment note above\] (including an amendment made by this title), or the application thereof, to any person or circumstance, is held invalid, the remainder of this title (including the amendments made by this title), and the application thereof, to other persons or circumstances shall not be affected thereby."
 
 #### Transition Procedures
 
-Pub. L. 110–261, title IV, §404, July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(b), Dec. 30, 2012, 126 Stat. 1631, provided that:
+Pub. L. 110–261, title IV, §404, July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(b), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title I, §101(b)(3), title II, §201(b), Jan. 19, 2018, 132 Stat. 8, 19, provided that:
 
 "(a)
 
@@ -286,11 +292,11 @@ Replacement of orders, authorizations, and directives.—
 
 &emsp;&emsp;"(A)
 
-In general.—If the Attorney General and the Director of National Intelligence seek to replace an authorization issued pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b\], as added by section 2 of the Protect America Act of 2007 (Public Law 110–55), with an authorization under section 702 of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881a\] (as added by section 101(a) of this Act), the Attorney General and the Director of National Intelligence shall, to the extent practicable, submit to the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of such Act \[50 U.S.C. 1881(b)(2)\] (as so added)) a certification prepared in accordance with subsection (g) of such section 702 and the procedures adopted in accordance with subsections (d) and (e) of such section 702 at least 30 days before the expiration of such authorization.
+In general.—If the Attorney General and the Director of National Intelligence seek to replace an authorization issued pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b\], as added by section 2 of the Protect America Act of 2007 (Public Law 110–55), with an authorization under section 702 of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881a\] (as added by section 101(a) of this Act), the Attorney General and the Director of National Intelligence shall, to the extent practicable, submit to the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of such Act \[50 U.S.C. 1881(b)(2)\] (as so added)) a certification prepared in accordance with subsection (g) \[now subsection (h)\] of such section 702 and the procedures adopted in accordance with subsections (d) and (e) of such section 702 at least 30 days before the expiration of such authorization.
 
 &emsp;&emsp;"(B)
 
-Continuation of existing orders.—If the Attorney General and the Director of National Intelligence seek to replace an authorization made pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978, as added by section 2 of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 522), by filing a certification in accordance with subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a) of such section 105B, until the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of the Foreign Intelligence Surveillance Act of 1978 (as so added)) issues an order with respect to that certification under section 702(i)(3) of such Act (as so added) at which time the provisions of that section and of section 702(i)(4) of such Act (as so added) shall apply.
+Continuation of existing orders.—If the Attorney General and the Director of National Intelligence seek to replace an authorization made pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978, as added by section 2 of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 522), by filing a certification in accordance with subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a) of such section 105B, until the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of the Foreign Intelligence Surveillance Act of 1978 (as so added)) issues an order with respect to that certification under section 702(j)(3) of such Act (as so added) at which time the provisions of that section and of section 702(j)(4) of such Act (as so added) shall apply.
 
 &emsp;"(8)
 
@@ -304,11 +310,11 @@ Provisions.—
 
 &emsp;"(1)
 
-Orders in effect on december 31, 2017.—Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), any order, authorization, or directive issued or made under title VII of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881 et seq.\], as amended by section 101(a), shall continue in effect until the date of the expiration of such order, authorization, or directive.
+Orders in effect on december 31, 2023.—Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), any order, authorization, or directive issued or made under title VII of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881 et seq.\], as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017 \[Pub. L. 115–118, see Short Title of 2018 Amendment note set out above\], shall continue in effect until the date of the expiration of such order, authorization, or directive.
 
 &emsp;"(2)
 
-Applicability of title vii of fisa to continued orders, authorizations, directives.—Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), with respect to any order, authorization, or directive referred to in paragraph (1), title VII of such Act, as amended by section 101(a), shall continue to apply until the later of—
+Applicability of title vii of fisa to continued orders, authorizations, directives.—Notwithstanding any other provision of this Act, any amendment made by this Act, or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), with respect to any order, authorization, or directive referred to in paragraph (1), title VII of such Act, as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017, shall continue to apply until the later of—
 
 &emsp;&emsp;"(A) the expiration of such order, authorization, or directive; or
 
@@ -318,9 +324,9 @@ Applicability of title vii of fisa to continued orders, authorizations, directiv
 
 Challenge of directives; protection from liability; use of information.—Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.)—
 
-&emsp;&emsp;"(A) section 103(e) of such Act \[50 U.S.C. 1803(e)\], as amended by section 403(a)(1)(B)(ii), shall continue to apply with respect to any directive issued pursuant to section 702(h) of such Act \[50 U.S.C. 1881a(h)\], as added by section 101(a);
+&emsp;&emsp;"(A) section 103(e) of such Act \[50 U.S.C. 1803(e)\], as amended by section 403(a)(1)(B)(ii), shall continue to apply with respect to any directive issued pursuant to section 702(i) of such Act \[50 U.S.C. 1881a(i)\], as added by section 101(a);
 
-&emsp;&emsp;"(B) section 702(h)(3) of such Act (as so added) shall continue to apply with respect to any directive issued pursuant to section 702(h) of such Act (as so added);
+&emsp;&emsp;"(B) section 702(i)(3) of such Act (as so added) shall continue to apply with respect to any directive issued pursuant to section 702(i) of such Act (as so added);
 
 &emsp;&emsp;"(C) section 703(e) of such Act \[50 U.S.C. 1881b(e)\] (as so added) shall continue to apply with respect to an order or request for emergency assistance under that section;
 
@@ -334,7 +340,7 @@ Reporting requirements.—
 
 &emsp;&emsp;"(A)
 
-Continued applicability.—Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), section 601(a) of such Act (50 U.S.C. 1871(a)), as amended by section 101(c)(2), and sections 702(l) and 707 of such Act, \[50 U.S.C. 1881a(l), 1881f\] as added by section 101(a), shall continue to apply until the date that the certification described in subparagraph (B) is submitted.
+Continued applicability.—Notwithstanding any other provision of this Act or of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), section 601(a) of such Act (50 U.S.C. 1871(a)), as amended by section 101(c)(2), and sections 702(m) and 707 of such Act, \[50 U.S.C. 1881a(m), 1881f\] as added by section 101(a) and amended by the FISA Amendments Reauthorization Act of 2017, shall continue to apply until the date that the certification described in subparagraph (B) is submitted.
 
 &emsp;&emsp;"(B)
 
@@ -344,9 +350,9 @@ Certification.—The certification described in this subparagraph is a certifica
 
 &emsp;&emsp;&emsp;"(ii) submitted to the Select Committee on Intelligence of the Senate, the Permanent Select Committee on Intelligence of the House of Representatives, and the Committees on the Judiciary of the Senate and the House of Representatives;
 
-&emsp;&emsp;&emsp;"(iii) that states that there will be no further acquisitions carried out under title VII of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881 et seq.\], as amended by section 101(a), after the date of such certification; and
+&emsp;&emsp;&emsp;"(iii) that states that there will be no further acquisitions carried out under title VII of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881 et seq.\], as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017, after the date of such certification; and
 
-&emsp;&emsp;&emsp;"(iv) that states that the information required to be included in a review, assessment, or report under section 601 of such Act \[50 U.S.C. 1871\], as amended by section 101(c), or section 702(l) or 707 of such Act, as added by section 101(a), relating to any acquisition conducted under title VII of such Act, as amended by section 101(a), has been included in a review, assessment, or report under such section 601, 702(l), or 707.
+&emsp;&emsp;&emsp;"(iv) that states that the information required to be included in a review, assessment, or report under section 601 of such Act \[50 U.S.C. 1871\], asamended by section 101(c), or section 702(m) or 707 of such Act, as added by section 101(a) and amended by the FISA Amendments Reauthorization Act of 2017, relating to any acquisition conducted under title VII of such Act, as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017, has been included in a review, assessment, or report under such section 601, 702(l) \[now 702(m)\], or 707.
 
 &emsp;"(5)
 

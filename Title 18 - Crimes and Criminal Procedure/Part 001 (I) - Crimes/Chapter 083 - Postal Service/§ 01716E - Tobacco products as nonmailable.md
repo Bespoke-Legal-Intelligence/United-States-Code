@@ -218,7 +218,7 @@ Sovereign immunity.—Nothing in this subsection shall be deemed to abrogate or 
 
 &emsp;(3)
 
-Attorney general referral.—A State, through its attorney general, or a local government or Indian tribe that levies an excise tax on tobacco products, through its chief law enforcement officer, may provide evidence of a violation of this section for commercial purposes by any person not subject to State, local, or tribal government enforcement actions for violations of this section to the Attorney General of the United States, who shall take appropriate actions to enforce this section.
+Attorney general referral.—A State, through its attorney general, or a local government or Indian tribe that levies an excise tax on tobacco products, through its chief lawenforcement officer, may provide evidence of a violation of this section for commercial purposes by any person not subject to State, local, or tribal government enforcement actions for violations of this section to the Attorney General of the United States, who shall take appropriate actions to enforce this section.
 
 &emsp;(4)
 

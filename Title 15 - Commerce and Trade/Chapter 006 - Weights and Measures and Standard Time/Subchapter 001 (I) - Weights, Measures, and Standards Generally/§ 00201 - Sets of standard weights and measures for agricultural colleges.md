@@ -14,7 +14,7 @@ Act Feb. 14, 1903, transferred National Bureau of Standards from Treasury Depart
 
 #### Appropriation
 
-A sum sufficient to carry out the provisions of this section was appropriated out of any money in theTreasury not otherwise appropriated by act Mar. 3, 1881.
+A sum sufficient to carry out the provisions of this section was appropriated out of any money in the Treasury not otherwise appropriated by act Mar. 3, 1881.
 
 #### Distribution to States
 

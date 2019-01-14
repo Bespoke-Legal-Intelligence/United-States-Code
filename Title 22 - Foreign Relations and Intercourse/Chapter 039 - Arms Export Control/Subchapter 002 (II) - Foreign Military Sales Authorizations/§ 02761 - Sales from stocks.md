@@ -14,7 +14,7 @@
 
 #### (b) Time of payment
 
-Except as provided by subsection (d) of this section, payment shall be made in advance or, if the President determines it to be in the nationalinterest, upon delivery of the defense article or rendering of the defense service.
+Except as provided by subsection (d) of this section, payment shall be made in advance or, if the President determines it to be in the national interest, upon delivery of the defense article or rendering of the defense service.
 
 #### (c) Personnel performing defense services sold as prohibited from performing combat activities
 
@@ -52,17 +52,17 @@ If the President determines it to be in the national interest pursuant to subsec
 
 (C) The President may waive, for particular sales of major defense equipment, any increase in a charge or charges previously considered appropriate under paragraph (1)(B) if the increase results from a correction of an estimate (reasonable when made) of the production quantity base that was used for calculating the charge or charges for purposes of such paragraph.
 
-(3)(A) The President may waive the charges for administrative services that would otherwise be required by paragraph (1)(A) in connection with any sale to the North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies in support of—
+(3)(A) The President may waive the charges for administrative services that would otherwise be required by paragraph (1)(A) in connection with any sale to the North Atlantic Treaty Organization (NATO) Support and Procurement Organization and its executive agencies in support of—
 
-&emsp;(i) a support partnership agreement; or
+&emsp;(i) a support or procurement partnership agreement; or
 
 &emsp;(ii) a NATO/SHAPE project.
 
-(B) The Secretary of Defense may reimburse the fund established to carry out section 2792(b)of this title in the amount of the charges waived under subparagraph (A) of this paragraph. Any such reimbursement may be made from any funds available to the Department of Defense.
+(B) The Secretary of Defense may reimburse the fund established to carry out section 2792(b) of this title in the amount of the charges waived under subparagraph (A) of this paragraph. Any such reimbursement may be made from any funds available to the Department of Defense.
 
 (C) As used in this paragraph—
 
-&emsp;(i) the term "weapon system partnership agreement" means an agreement between two or more member countries of the North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies that—
+&emsp;(i) the term "support or procurement partnership agreement" means an agreement between two or more member countries of the North Atlantic Treaty Organization (NATO) Support and Procurement Organization and its executive agencies that—
 
 &emsp;&emsp;(I) is entered into pursuant to the terms of the charter of that organization; and
 
@@ -76,7 +76,7 @@ Any contracts entered into between the United States and a foreign country under
 
 #### (g) North Atlantic Treaty Organization standardization agreements, similar agreements; reimbursement for costs; transmittal to Congress
 
-The President may enter into North Atlantic Treaty Organization standardization agreements in carrying out section 814 of the Act of October 7, 1975 (Public Law 94–106), and may enter into similar agreements with countries which are major non-NATO allies, for the cooperative furnishing of training on bilateral or multilateral basis, if the financial principles of such agreements are based on reciprocity. Such agreements shall include reimbursement for all direct costs but may exclude reimbursement for indirect costs, administrative surcharges, and costs of billeting of trainees (except to the extent that members of the United States Armed Forces occupying comparable accommodations are charged for such accommodations by the United States). Each such agreement shall be transmitted promptly to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate.
+The President may enter into North Atlantic Treaty Organization standardization agreements in carrying out section 814 of the Act of October 7, 1975 (Public Law 94–106), and may enter into similar agreements with countries which are major non-NATO allies, for the cooperative furnishing of training on bilateral or multilateral basis, if the financial principles of such agreements are based on reciprocity. Such agreements shall include reimbursement for all direct costs but may exclude reimbursement for indirect costs, administrative surcharges, andcosts of billeting of trainees (except to the extent that members of the United States Armed Forces occupying comparable accommodations are charged for such accommodations by the United States). Each such agreement shall be transmitted promptly to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate.
 
 #### (h) Reciprocal quality assurance, inspection, contract administrative services, and contract audit defense services; catalog data and services
 
@@ -178,7 +178,7 @@ Before entering into the sale under this chapter of defense articles that are ex
 
 &emsp;The authority of the President to accept the return of a defense article as provided in paragraph (1) shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
 
-(Pub. L. 90–629, ch. 2, §21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, §16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§103, 104, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 97–392, §3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I, §101(1) \[title III, §301\], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, §101(e) \[title V, §580\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, §1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, §9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L.102–25, title VII, §705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, §114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, §731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, §112, div. D, title XLIII, §4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428, 1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(2), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498; Pub. L. 109–102, title V, §534(l)(1), (2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 110–429, title II, §203(b)(1), (3), (4), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804; Pub. L. 113–66, div. A, title XII, §1250(b), Dec. 26, 2013, 127 Stat. 926; Pub. L. 113–276, title II, §208(a)(1), (2), Dec. 18, 2014, 128 Stat. 2992, 2993.)
+(Pub. L. 90–629, ch. 2, §21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, §16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§103, 104, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 97–392, §3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I, §101(1) \[title III, §301\], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, §101(e) \[title V, §580\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, §1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, §9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, §705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, §114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, §731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, §112, div. D, title XLIII, §4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428, 1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(2), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498; Pub. L. 109–102, title V, §534(l)(1), (2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 110–429, title II, §203(b)(1), (3), (4), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804; Pub. L. 113–66, div. A, title XII, §1250(b), Dec. 26, 2013, 127 Stat. 926; Pub. L. 113–276, title II, §208(a)(1), (2), Dec. 18, 2014, 128 Stat. 2992, 2993; Pub. L. 115–232, div. A, title XII, §1279(b), Aug. 13, 2018, 132 Stat. 2072.)
 
 #### References in Text
 
@@ -193,6 +193,12 @@ Section 814 of the act of October 7, 1975 (Public Law 94–106), referred to in 
 Amendment by Pub. L. 98–473 is based on section 102 of S. 2346, Ninety-eighth Congress, as introduced in the Senate Feb. 27, 1984, which was enacted into permanent law by Pub. L. 98–473.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(3)(A). Pub. L. 115–232, §1279(b)(1)(A), substituted "North Atlantic Treaty Organization (NATO) Support and Procurement Organization" for "North Atlantic Treaty Organization (NATO) Support Organization" in introductory provisions.
+
+Subsec. (e)(3)(A)(i). Pub. L. 115–232, §1279(b)(1)(B), substituted "support or procurement partnership agreement" for "support partnership agreement".
+
+Subsec. (e)(3)(C)(i). Pub. L. 115–232, §1279(b)(2), in introductory provisions, substituted " 'support or procurement partnership agreement' " for " 'weapon system partnership agreement' " and "North Atlantic Treaty Organization (NATO) Support and Procurement Organization" for "North Atlantic Treaty Organization (NATO) Support Organization".
 
 <b>2014</b>—Subsec. (g). Pub. L. 113–276, §208(a)(1), substituted "the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and" for "the Speaker of the House of Representatives and".
 
@@ -348,7 +354,7 @@ Pub. L. 104–164, title I, §152(c), July 21, 1996, 110 Stat. 1439, provided th
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Delegation of Functions
 

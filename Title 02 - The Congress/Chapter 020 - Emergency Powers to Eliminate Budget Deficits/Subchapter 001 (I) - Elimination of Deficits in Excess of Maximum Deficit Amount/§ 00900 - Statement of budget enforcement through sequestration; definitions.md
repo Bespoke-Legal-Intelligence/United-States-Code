@@ -18,7 +18,7 @@ As used in this subchapter:
 
 &emsp;(4)(A) The term "nonsecurity category" means all discretionary appropriations not included in the security category defined in subparagraph (B).
 
-&emsp;(B) The term "security category" includes discretionary appropriations associated with agency budgets for the Department of Defense, the Department of Homeland Security, the Department of Veterans Affairs, the National Nuclear Security Administration, the intelligence community management account (95–0401–0–1–054), and all budget accounts in budget function 150 (international affairs).
+&emsp;(B) The term "security category" includes discretionary appropriations associated with agency budgets for the Department of Defense, the Department of Homeland Security, the Department of Veterans Affairs, the NationalNuclear Security Administration, the intelligence community management account (95–0401–0–1–054), and all budget accounts in budget function 150 (international affairs).
 
 &emsp;(C) The term "discretionary category" includes all discretionary appropriations.
 
@@ -62,7 +62,7 @@ As used in this subchapter:
 
 &emsp;(18) The term "deposit insurance" refers to the expenses of the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.
 
-&emsp;(19) The term "asset sale" means the sale to the public of any asset (except for those assets covered by title V of the Congressional Budget Act of 1974 \[2 U.S.C. 661 et seq.\]), whetherphysical or financial, owned in whole or in part by the United States.
+&emsp;(19) The term "asset sale" means the sale to the public of any asset (except for those assets covered by title V of the Congressional Budget Act of 1974 \[2 U.S.C. 661 et seq.\]), whether physical or financial, owned in whole or in part by the United States.
 
 &emsp;(20) The term "emergency" means a situation that—
 
@@ -190,7 +190,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 Pub. L. 103–66, title XIV, §14002(c)(3)(A), Aug. 10, 1993, 107 Stat. 684, which provided that, notwithstanding section 275(b) of Pub. L. 99–177, formerly set out below, sections 900, 901, 902, and 904 to 908 of this title were to expire on Sept. 30, 1998, was repealed by Pub. L. 105–33, title X, §10212(b), Aug. 5, 1997, 111 Stat. 712.
 
-Pub. L. 99–177, title II, §275, Dec. 12, 1985, 99 Stat. 1100, as amended by Pub. L. 100–119, title I, §106(c), title II, §210(b), Sept. 29, 1987, 101 Stat. 780, 787; Pub. L. 101–508, title XIII, §§13112(b), 13208(b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 105–33, title X, §10212(a), Aug. 5, 1997, 111 Stat. 712, which provided that, except as otherwise provided in section 275, amendments by title II of Pub. L. 99–177 were effective Dec. 12, 1985, and applicable to fiscal years beginning after Sept. 30, 1985; that amendment by section 201(a)(2) of Pub. L. 99–177 (amending section 622(2) of this title), and amendment by section 201(b) of Pub. L. 99–177 (insofar as it relates to section 633(c), (f), and (g) of this title and to section 641(c), (d), and (g) of this title), were effective Apr. 15, 1986; that amendment by section 212 of Pub. L. 99–177 (amending section 652 of this title) was effective Feb. 1, 1986; that sections 251, 253, 258B, and 271(b) of Pub. L. 99–177 (sections 901, 903, and 907c of this title and provisions set out as a note below), and sections 1105(f) and 1106(c) of title 31, United States Code, were to expire Sept. 30, 2002; that the remaining sections of part C oftitle II of Pub. L. 99–177 (enacting this subchapter) were to expire Sept. 30, 2006; and that amendments by part D of title II of Pub. L. 99–177 (amending section 911 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 911 of Title 42) were applicable as provided in that part, was repealed by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
+Pub. L. 99–177, title II, §275, Dec. 12, 1985, 99 Stat. 1100, as amended by Pub. L. 100–119, title I, §106(c), title II, §210(b), Sept. 29, 1987, 101 Stat. 780, 787; Pub. L. 101–508, title XIII, §§13112(b), 13208(b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 105–33, title X, §10212(a), Aug. 5, 1997, 111 Stat. 712, which provided that, except as otherwise provided in section 275, amendments by title II of Pub. L. 99–177 were effective Dec. 12, 1985, and applicable to fiscal years beginning after Sept. 30, 1985; that amendment by section 201(a)(2) of Pub. L. 99–177 (amending section 622(2) of this title), and amendment by section 201(b) of Pub. L. 99–177 (insofar as it relates to section 633(c), (f), and (g) of this title and to section 641(c), (d), and (g) of this title), were effective Apr. 15, 1986; that amendment by section 212 of Pub. L. 99–177 (amending section 652 of this title) was effective Feb. 1, 1986; that sections 251, 253, 258B, and 271(b) of Pub. L. 99–177 (sections 901, 903, and 907c of this title and provisions set out as a note below), and sections 1105(f) and 1106(c) of title 31, United States Code, were to expire Sept. 30, 2002; that the remaining sections of part C of title II of Pub. L. 99–177 (enacting this subchapter) were to expire Sept. 30, 2006; and that amendments by part D of title II of Pub. L. 99–177 (amending section 911 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 911 of Title 42) were applicable as provided in that part, was repealed by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 
 #### Short Title of 2013 Amendment
 
@@ -206,7 +206,7 @@ Pub. L. 105–33, title X, §10001(a), Aug. 5, 1997, 111 Stat. 677, provided tha
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–508, title XIII, §13001(a), Nov. 5, 1990, 104 Stat. 1388–573, provided that: "This title \[enacting this section and sections 643, 661 to 661f, 665 to 665e, and 907a to 907d of this title, amending sections 601, 602, 622, 631 to 637, 639, 641, 642, 644, 651, 652, and 901 to 907 of this title, section 1022 of Title 15, Commerce and Trade, sections 1105, 1341, and 1342 of Title 31, Money and Finance, and section 401 of Title 42, The Public Health and Welfare, transferring section 921 of this title to section 601(g) of this title, repealing section 909 of this title, enacting provisions set out as notes under this section and sections 621, 622, 632, 633, 665, and 902 of this title, and amending provisions set out as notes under this section and sections 621 and 632 of this title\] may be cited as the 'Budget Enforcement Act of 1990'."
+Pub. L. 101–508, title XIII, §13001(a), Nov. 5, 1990, 104 Stat. 1388–573, provided that: "This title \[enacting thissection and sections 643, 661 to 661f, 665 to 665e, and 907a to 907d of this title, amending sections 601, 602, 622, 631 to 637, 639, 641, 642, 644, 651, 652, and 901 to 907 of this title, section 1022 of Title 15, Commerce and Trade, sections 1105, 1341, and 1342 of Title 31, Money and Finance, and section 401 of Title 42, The Public Health and Welfare, transferring section 921 of this title to section 601(g) of this title, repealing section 909 of this title, enacting provisions set out as notes under this section and sections 621, 622, 632, 633, 665, and 902 of this title, and amending provisions set out as notes under this section and sections 621 and 632 of this title\] may be cited as the 'Budget Enforcement Act of 1990'."
 
 #### Short Title of 1987 Amendment
 
@@ -410,7 +410,7 @@ In general.—The Co-Chairs of the joint committee may jointly appoint and fix t
 
 &emsp;"(2)
 
-Ethical standards.—Members on the joint committee who serve in the House of Representativesshall be governed by the ethics rules and requirements of the House. Members of the Senate who serve on the joint committee and staff of the joint committee shall comply with the ethics rules of the Senate.
+Ethical standards.—Members on the joint committee who serve in the House of Representatives shall be governed by the ethics rules and requirements of the House. Members of the Senate who serve on the joint committee and staff of the joint committee shall comply with the ethics rules of the Senate.
 
 "(d)
 
@@ -432,7 +432,7 @@ Referral and reporting.—Any committee of the House of Representatives to which
 
 &emsp;"(2)
 
-Proceeding to consideration.—After the last committee authorized to consider a joint committee bill reports it to the House or has been discharged (other than by motion) from its consideration, it shall be in order to move to proceed to consider the joint committee bill in the House. Such a motion shall not be in order after the House has disposed of a motion to proceed with respect to the joint committee bill. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
+Proceeding to consideration.—After the last committee authorized to consider a joint committee bill reports it to the House or has been discharged (other than by motion) from its consideration, it shall be in order to move to proceed to consider the joint committee bill in the House. Such a motion shall not be in order after the House has disposed ofa motion to proceed with respect to the joint committee bill. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
 
 &emsp;"(3)
 
@@ -496,7 +496,7 @@ Rules to Coordinate Action With Other House.—
 
 &emsp;"(1)
 
-Treatment of joint committee bill of other house.—If the Senate fails to introduce or consider ajoint committee bill under this section, the joint committee bill of the House shall be entitled to expedited floor procedures under this section.
+Treatment of joint committee bill of other house.—If the Senate fails to introduce or consider a joint committee bill under this section, the joint committee bill of the House shall be entitled to expedited floor procedures under this section.
 
 &emsp;"(2)
 
@@ -528,7 +528,7 @@ Loss of Privilege.—The provisions of this section shall cease to apply to the 
 
 &emsp;"(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;"(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House."
+&emsp;"(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the samemanner, and to the same extent as in the case of any other rule of such House."
 
 #### Habitat Conservation Activities Considered Within Coastal Assistance Sub-Category
 
@@ -580,7 +580,7 @@ Pub. L. 100–119, title II, §213, Sept. 29, 1987, 101 Stat. 787, provided that
 
 &emsp;"(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner and to the same extent as in the case of any other rule of such House."
 
-Pub. L. 99–177, title II, §271(d), formerly §271(c), Dec. 12, 1985, 99 Stat. 1094, as redesignated by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: "The provisions of this title \[see Short Title note above\], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by the Congress—
+Pub. L. 99–177, title II, §271(d), formerly §271(c), Dec. 12, 1985, 99 Stat. 1094, as redesignated by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: "The provisions of this title \[see Short Title noteabove\], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by the Congress—
 
 &emsp;"(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 

@@ -12,7 +12,7 @@
 
 #### (b) Requirement of prompt notification
 
-With respect to a determination described in paragraph (1) or (2) of subsection (a), the notification required in each of such paragraphs shall be made as soon as is practicable, but not later than 48 hours after the determination is made.
+With respect to a determination described in paragraph (1) or (2) of subsection (a), the notification required in each of such paragraphs shallbe made as soon as is practicable, but not later than 48 hours after the determination is made.
 
 (July 1, 1944, ch. 373, title XXVI, §2695A, as added Pub. L. 111–87, §13, Oct. 30, 2009, 123 Stat. 2898.)
 

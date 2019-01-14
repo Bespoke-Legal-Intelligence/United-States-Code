@@ -34,7 +34,7 @@
 
 #### (4) Eligibility
 
-&emsp;To be eligible for a fellowship under this subchapter, an elementary or secondary school mathematics or science teacher must demonstrate—
+&emsp;To be eligible for a fellowship under this subchapter, an elementary or secondaryschool mathematics or science teacher must demonstrate—
 
 &emsp;&emsp;(A) that such teacher would bring unique and valuable contributions to the Program;
 

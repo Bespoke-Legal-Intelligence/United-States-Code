@@ -12,7 +12,7 @@
 
 (f)(1) The Secretary, upon determining that an emergency situation exists and that such action is necessary for the effective conduct of the affairs of the Department, may use Government-owned, or leased, vehicles to transport employees to and from their place of employment and the nearest adequate public transportation or, if such public transportation is either unavailable or not feasible to use, to and from their place of employment and their home.
 
-(2) The Secretary shall establish reasonable rates to cover the cost of the service rendered under this subsection, and all proceeds collected therefrom shall be applied to the applicable appropriation.
+(2) The Secretary shall establish reasonable rates to cover the cost of the service renderedunder this subsection, and all proceeds collected therefrom shall be applied to the applicable appropriation.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 394.)
 
@@ -104,15 +104,15 @@ Update.—The Secretary shall regularly update the training materials required u
 
 #### Limitation on Awards and Bonuses Paid to Employees of Department of Veterans Affairs
 
-Pub. L. 113–146, title VII, §705, Aug. 7, 2014, 128 Stat. 1798, as amended by Pub. L. 114–198, title IX, §951, July 22, 2016, 130 Stat. 778, provided that:
+Pub. L. 113–146, title VII, §705, Aug. 7, 2014, 128 Stat. 1798, as amended by Pub. L. 114–198, title IX, §951, July 22, 2016, 130 Stat. 778; Pub. L. 115–182, title III, §305, June 6, 2018, 132 Stat. 1469, provided that:
 
 "(a)
 
 Limitation.—The Secretary of Veterans Affairs shall ensure that the aggregate amount of awards and bonuses paid by the Secretary in a fiscal year under chapter 45 or 53 of title 5, United States Code, or any other awards or bonuses authorized under such title or title 38, United States Code, does not exceed the following amounts:
 
-&emsp;"(1) With respect to each of fiscal years 2017 through 2018, $230,000,000.
+&emsp;"(1) With respect to each of fiscal years 2017 through 2018, $250,000,000, of which not less than $20,000,000 shall be for recruitment, relocation, and retention bonuses.
 
-&emsp;"(2) With respect to each of fiscal years 2019 through 2021, $225,000,000.
+&emsp;"(2) With respect to each of fiscal years 2019 through 2021, $290,000,000, of which not less than $20,000,000 shall be for recruitment, relocation, and retention bonuses.
 
 &emsp;"(3) With respect to each of fiscal years 2022 through 2024, $360,000,000.
 

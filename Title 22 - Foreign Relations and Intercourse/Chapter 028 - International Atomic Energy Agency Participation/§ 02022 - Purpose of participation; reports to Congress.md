@@ -24,7 +24,7 @@ Pub. L. 89–348, §1(20), Nov. 8, 1965, 79 Stat. 1311, repealed the following r
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, ThePublic Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
 
 #### Termination of Authority Under This Section
 

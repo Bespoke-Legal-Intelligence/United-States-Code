@@ -2,7 +2,7 @@
 
 #### Short Title
 
-Certain provisions of this subchapter and subchapter II of chapter 15 of this title were originally enacted as section 3679 of the Revised Statutes, popularly known as the Anti-Deficiency Act. That section was repealed as part of the general revision of this title by Pub. L. 97–258, and its provisions restated in sections 1341, 1342, 1349 to 1351, and 1511 to 1519 of this title.
+Certain provisions of this subchapter and subchapter II of chapter 15 of this title were originally enacted assection 3679 of the Revised Statutes, popularly known as the Anti-Deficiency Act. That section was repealed as part of the general revision of this title by Pub. L. 97–258, and its provisions restated in sections 1341, 1342, 1349 to 1351, and 1511 to 1519 of this title.
 
 
 ---
@@ -23,3 +23,4 @@ Certain provisions of this subchapter and subchapter II of chapter 15 of this ti
 - [&sect; 01352 - Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions](%C2%A7%2001352%20-%20Limitation%20on%20use%20of%20appropriated%20funds%20to%20influence%20certain%20Federal%20contracting%20and%20financial%20transactions.md)
 - [&sect; 01353 - Acceptance of travel and related expenses from non-Federal sources](%C2%A7%2001353%20-%20Acceptance%20of%20travel%20and%20related%20expenses%20from%20non-Federal%20sources.md)
 - [&sect; 01354 - Limitation on use of appropriated funds for contracts with entities not meeting veterans' employment reporting requirements](%C2%A7%2001354%20-%20Limitation%20on%20use%20of%20appropriated%20funds%20for%20contracts%20with%20entities%20not%20meeting%20veterans%27%20employment%20reporting%20requirements.md)
+- [&sect; 01355 - Prohibition on use of funds for portraits](%C2%A7%2001355%20-%20Prohibition%20on%20use%20of%20funds%20for%20portraits.md)

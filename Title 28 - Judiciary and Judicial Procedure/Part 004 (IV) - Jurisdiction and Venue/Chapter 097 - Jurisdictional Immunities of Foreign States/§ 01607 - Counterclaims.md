@@ -16,7 +16,7 @@ In any action brought by a foreign state, or in which a foreign state intervenes
 
 #### Effective Date of 2008 Amendment
 
-For applicability of amendments by Pub. L. 110–181 to pending cases, see section 1083(c) of Pub. L. 110–181, setout as an Effective Date note under section 1605A of this title.
+For applicability of amendments by Pub. L. 110–181 to pending cases, see section 1083(c) of Pub. L. 110–181, set out as an Effective Date note under section 1605A of this title.
 
 #### Effective Date
 

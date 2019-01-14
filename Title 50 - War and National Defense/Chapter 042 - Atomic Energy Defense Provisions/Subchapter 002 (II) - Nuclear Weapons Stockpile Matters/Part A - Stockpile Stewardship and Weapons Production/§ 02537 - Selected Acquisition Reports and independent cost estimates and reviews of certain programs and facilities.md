@@ -44,7 +44,7 @@
 
 Upon the request of the Administrator, the Secretary of Defense, acting through the Director of Cost Assessment and Program Evaluation and in consultation with the Administrator, may conduct an independent cost assessment of any initiative or program of the Administration that is estimated to cost more than $500,000,000.
 
-(Pub. L. 107–314, div. D, title XLII, §4217, as added Pub. L. 112–239, div. C, title XXXI, §3162(a), Jan. 2, 2013, 126 Stat. 2204; amended Pub. L. 113–66, div. C, title XXXI, §§3112(b), 3146(a)(2)(C), Dec. 26, 2013, 127 Stat. 1053, 1072; Pub. L. 113–291, div. C, title XXXI, §3114(a), (b), Dec. 19, 2014, 128 Stat. 3887, 3888; Pub. L. 114–92, div. C, title XXXI, §3113(b)(1), (2)(A), Nov. 25, 2015, 129 Stat. 1192; Pub. L. 115–91, div. C, titleXXXI, §§3113, 3133(d), Dec. 12, 2017, 131 Stat. 1884, 1896.)
+(Pub. L. 107–314, div. D, title XLII, §4217, as added Pub. L. 112–239, div. C, title XXXI, §3162(a), Jan. 2, 2013, 126 Stat. 2204; amended Pub. L. 113–66, div. C, title XXXI, §§3112(b), 3146(a)(2)(C), Dec. 26, 2013, 127 Stat. 1053, 1072; Pub. L. 113–291, div. C, title XXXI, §3114(a), (b), Dec. 19, 2014, 128 Stat. 3887, 3888; Pub. L. 114–92, div. C, title XXXI, §3113(b)(1), (2)(A), Nov. 25, 2015, 129 Stat. 1192; Pub. L. 115–91, div. C, title XXXI, §§3113, 3133(d), Dec. 12, 2017, 131 Stat. 1884, 1896.)
 
 #### Amendments
 

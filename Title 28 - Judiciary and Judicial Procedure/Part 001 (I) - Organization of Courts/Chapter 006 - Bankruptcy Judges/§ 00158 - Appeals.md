@@ -32,7 +32,7 @@
 
 (5) An appeal to be heard under this subsection shall be heard by a panel of 3 members of the bankruptcy appellate panel service, except that a member of such service may not hear an appeal originating in the district for which such member is appointed or designated under section 152 of this title.
 
-(6) Appeals may not be heard under this subsection by a panel of the bankruptcy appellatepanel service unless the district judges for the district in which the appeals occur, by majority vote, have authorized such service to hear and determine appeals originating in such district.
+(6) Appeals may not be heard under this subsection by a panel of the bankruptcy appellate panel service unless the district judges for the district in which the appeals occur, by majority vote, have authorized such service to hear and determine appeals originating in such district.
 
 (c)(1) Subject to subsections (b) and (d)(2), each appeal under subsection (a) shall be heard by a 3-judge panel of the bankruptcy appellate panel service established under subsection (b)(1) unless—
 
@@ -146,7 +146,7 @@ References in rule 5.—For purposes of rule 5 of the Federal Rules of Appellate
 
 "(6)
 
-Application of rules.—The Federal Rules of Appellate Procedure shall apply in the courts of appeals with respect to appeals authorized under section 158(d)(2)(A), to the extent relevant and as if such appeals were taken from final judgments, orders, or decrees of the district courts or bankruptcy appellate panels exercising appellate jurisdiction under subsection (a) or (b) of section 158 of title 28, United States Code."
+Application of rules.—The Federal Rules of Appellate Procedure shall apply in the courts of appealswith respect to appeals authorized under section 158(d)(2)(A), to the extent relevant and as if such appeals were taken from final judgments, orders, or decrees of the district courts or bankruptcy appellate panels exercising appellate jurisdiction under subsection (a) or (b) of section 158 of title 28, United States Code."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
 

@@ -100,7 +100,7 @@ For purposes of this title—
 
 #### (3) Work site coverage requirement
 
-&emsp;The requirements of this paragraph are met with respect to an individual if at least 85 percent of the individuals performing services for the customer at the work site where such individual performs services are subject to 1 or more contracts with the certified professional employer organization which meet the requirements of paragraph (2) (but not taking into account those individuals who are excluded employees within the meaning of section 414(q)(5)).
+&emsp;The requirements of this paragraph are met with respect to an individual if at least 85 percent of the individuals performing services forthe customer at the work site where such individual performs services are subject to 1 or more contracts with the certified professional employer organization which meet the requirements of paragraph (2) (but not taking into account those individuals who are excluded employees within the meaning of section 414(q)(5)).
 
 #### (f) Public disclosure
 

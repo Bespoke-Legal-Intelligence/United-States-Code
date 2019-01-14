@@ -172,7 +172,7 @@ Relief With Respect to Certain Foundation Acts or Failure To Act.—If the Found
 
 &emsp;"(2) refuses, fails, or neglects to discharge its obligations under this Act, or threaten\[s\] to do so;
 
-> the Attorney General of the United States may petition in the United States District Court for the District of Columbia for such equitable relief as may be necessary or appropriate."
+> the Attorney General of the United States may petition in the United States District Court for the Districtof Columbia for such equitable relief as may be necessary or appropriate."
 
 
 ---

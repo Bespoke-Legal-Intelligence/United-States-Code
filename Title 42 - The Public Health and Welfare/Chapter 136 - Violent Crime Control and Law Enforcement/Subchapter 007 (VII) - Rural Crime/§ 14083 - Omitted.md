@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 103–322, title XVIII, §180104, Sept. 13, 1994, 108 Stat. 2046, which authorized appropriations for the hiring of additional Drug Enforcement Administration agents for fiscal years 1996 to 2000, was omitted as obsolete.
+Section, Pub. L. 103–322, title XVIII, §180104, Sept. 13, 1994, 108 Stat. 2046, which authorized appropriations forthe hiring of additional Drug Enforcement Administration agents for fiscal years 1996 to 2000, was omitted as obsolete.
 

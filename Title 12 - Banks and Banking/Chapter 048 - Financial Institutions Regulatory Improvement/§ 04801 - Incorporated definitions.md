@@ -28,7 +28,7 @@ Study Required.—The Board of Governors of the Federal Reserve System and the S
 
 "(b)
 
-Report.—Before the end of the 18-month period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], the Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall submit a report to the Congress containing thefindings and conclusions of the Board and the Secretary in connection with the study required under subsection (a), together with such legislative and administrative proposals as the Board and the Secretary may determine to be appropriate.
+Report.—Before the end of the 18-month period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], the Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall submit a report to the Congress containing the findings and conclusions of the Board and the Secretary in connection with the study required under subsection (a), together with such legislative and administrative proposals as the Board and the Secretary may determine to be appropriate.
 
 "(c)
 

@@ -16,7 +16,7 @@ The goal of the project maintained under subsection (a) shall be to develop and 
 
 #### (c) Project plan
 
-Not later than 1 year after April 18, 2017, the Under Secretary, acting through the Assistant Administrator for Oceanic and Atmospheric Research and in consultation with the Director of the National Weather Service, shall develop a plan for the project maintained under subsection (a) that details the specific research, development, and technology transfer activities, as well as corresponding resources and timelines, necessary to achieve the goal set forth in subsection (b).
+Not later than 1 year after April 18, 2017, the Under Secretary, acting through the Assistant Administrator for Oceanic and Atmospheric Research and in consultation with the Director of the National Weather Service, shall develop a plan for the project maintained under subsection (a) that details the specific research, development, and technology transfer activities,as well as corresponding resources and timelines, necessary to achieve the goal set forth in subsection (b).
 
 (Pub. L. 115–25, title I, §104, Apr. 18, 2017, 131 Stat. 94.)
 

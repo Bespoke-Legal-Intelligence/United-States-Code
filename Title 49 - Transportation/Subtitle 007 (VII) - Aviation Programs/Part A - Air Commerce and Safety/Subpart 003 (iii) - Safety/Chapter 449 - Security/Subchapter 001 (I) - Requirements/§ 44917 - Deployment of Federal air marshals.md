@@ -2,11 +2,11 @@
 
 (a)
 
-In General.—The Under Secretary of Transportation for Security under the authority provided by section 44903(d)—
+In General.—The Administrator of the Transportation Security Administration under the authority provided by section 44903(d)—
 
 &emsp;(1) may provide for deployment of Federal air marshals on every passenger flight of air carriers in air transportation or intrastate air transportation;
 
-&emsp;(2) shall provide for deployment of Federal air marshals on every such flight determined by the Secretary to present high security risks;
+&emsp;(2) shall provide for deployment of Federal air marshals on every such flight determined by the Administrator to present high security risks;
 
 &emsp;(3) shall provide for appropriate training, supervision, and equipment of Federal air marshals;
 
@@ -16,7 +16,7 @@ In General.—The Under Secretary of Transportation for Security under the autho
 
 &emsp;(6) may enter into agreements with Federal, State, and local agencies under which appropriately-trained law enforcement personnel from such agencies, when traveling on a flight of an air carrier, will carry a firearm and be prepared to assist Federal air marshals;
 
-&emsp;(7) shall establish procedures to ensure that Federal air marshals are made aware of any armed or unarmed law enforcement personnel on board an aircraft; and
+&emsp;(7) shall establish procedures to ensure that Federal air marshals are made aware of any armed or unarmed law enforcement personnel on board an aircraft;
 
 &emsp;(8) may appoint—
 
@@ -26,23 +26,27 @@ In General.—The Under Secretary of Transportation for Security under the autho
 
 &emsp;&emsp;(C) an individual who has been furloughed from an air carrier crew position in the 1-year period beginning on September 11, 2001,
 
-> &emsp;as a Federal air marshal, regardless of age, if the individual otherwise meets the background and fitness qualifications required for Federal air marshals.
+> &emsp;as a Federal air marshal, regardless of age, if the individual otherwise meets the background and fitness qualifications required for Federal air marshals;
+
+&emsp;(9) shall require the Federal Air Marshal Service to utilize a risk-based strategy when allocating resources between international and domestic flight coverage, including when initially setting its annual target numbers of average daily international and domestic flights to cover;
+
+&emsp;(10) shall require the Federal Air Marshal Service to utilize a risk-based strategy to support domestic allocation decisions;
+
+&emsp;(11) shall require the Federal Air Marshal Service to utilize a risk-based strategy to support international allocation decisions; and
+
+&emsp;(12) shall ensure that the seating arrangements of Federal air marshals on aircraft are determined in a manner that is risk-based and most capable of responding to current threats to aviation security.
 
 (b)
 
-Long Distance Flights.—In making the determination under subsection (a)(2), nonstop, long distance flights, such as those targeted on September 11, 2001, should be a priority.
+Interim Measures.—Until the Under Secretary <sup>1</sup> completes implementation of subsection (a), the Under Secretary <sup>1</sup> may use, after consultation with and concurrence of the heads of other Federal agencies and departments, personnel from those agencies and departments, on a nonreimbursable basis, to provide air marshal service.
 
 (c)
-
-Interim Measures.—Until the Under Secretary completes implementation of subsection (a), the Under Secretary may use, after consultation with and concurrence of the heads of other Federal agencies and departments, personnel from those agencies and departments, on a nonreimbursable basis, to provide air marshal service.
-
-(d)
 
 Training for Foreign Law Enforcement Personnel.—
 
 &emsp;(1)
 
-In general.—The Assistant Secretary for Immigration and Customs Enforcement of the Department of Homeland Security, after consultation with the Secretary of State, may direct the Federal Air Marshal Service to provide appropriate air marshal training to law enforcement personnel of foreign countries.
+In general.—The Administrator of the Transportation Security Administration, after consultation with the Secretary of State, may direct the Federal Air Marshal Service to provide appropriate air marshal training to law enforcement personnel of foreign countries.
 
 &emsp;(2)
 
@@ -50,21 +54,101 @@ Watchlist screening.—The Federal Air Marshal Service may only provide appropri
 
 &emsp;(3)
 
-Fees.—The Assistant Secretary shall establish reasonable fees and charges to pay expenses incurred in carrying out this subsection. Funds collected under this subsection shall be credited to the account in the Treasury from which the expenses were incurred and shall be available to the Assistant Secretary for purposes for which amounts in such account are available.
+Fees.—The Administrator of the Transportation Security Administration shall establish reasonable fees and charges to pay expenses incurred in carrying out this subsection. Funds collected under this subsection shall be credited to the account in the Treasury from which the expenses were incurred and shall be available to the Administrator of the Transportation Security Administration for purposes for which amounts in such account are available.
 
-(Added Pub. L. 107–71, title I, §105(a), Nov. 19, 2001, 115 Stat. 606; amended Pub. L. 108–458, title IV, §4018, Dec. 17, 2004, 118 Stat. 3721.)
+(Added Pub. L. 107–71, title I, §105(a), Nov. 19, 2001, 115 Stat. 606; amended Pub. L. 108–458, title IV, §4018, Dec. 17, 2004, 118 Stat. 3721; Pub. L. 115–254, div. K, title I, §§1959(c)(5), (d)(1), 1991(d)(15), Oct. 5, 2018, 132 Stat. 3599, 3635.)
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a). Pub. L. 115–254, §1991(d)(15)(A)(i), substituted "Administrator of the Transportation Security Administration" for "Under Secretary of Transportation for Security" in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 115–254, §1991(d)(15)(A)(ii), substituted "by the Administrator" for "by the Secretary".
+
+Subsec. (a)(9) to (12). Pub. L. 115–254, §1959(d)(1), added pars. (9) to (12).
+
+Subsec. (b). Pub. L. 115–254, §1959(c)(5), redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "In making the determination under subsection (a)(2), nonstop, long distance flights, such as those targeted on September 11, 2001, should be a priority."
+
+Subsec. (c). Pub. L. 115–254, §1959(c)(5)(B), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+
+Subsec. (c)(1). Pub. L. 115–254, §1991(d)(15)(B)(i), which directed amendment of subsec. (d)(1) by substituting "Administrator of the Transportation Security Administration" for "Assistant Secretary for Immigration and Customs Enforcement of the Department of Homeland Security", was executed to subsec. (c)(1) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (c) by Pub. L. 115–254, §1959(c)(5)(B). See above.
+
+Subsec. (c)(3). Pub. L. 115–254, §1991(d)(15)(B)(ii), which directed amendment of subsec. (d)(3) by substituting "Administrator of the Transportation Security Administration" for "Assistant Secretary" in two places, was executed to subsec. (c)(3) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (c) by Pub. L. 115–254, §1959(c)(5)(B). See above.
+
+Subsec. (d). Pub. L. 115–254, §1959(c)(5)(B), redesignated subsec. (d) as (c).
+
 <b>2004</b>—Subsec. (d). Pub. L. 108–458 added subsec. (d).
 
-#### Transfer of Functions
+#### Federal Air Marshal Service Updates
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+Pub. L. 115–254, div. K, title I, §1959(a)–(c)(4), Oct. 5, 2018, 132 Stat. 3598, 3599, provided that:
+
+"(a)
+
+Standardization.—
+
+&emsp;"(1)
+
+In general.—Not later than 60 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\] shall develop a standard written agreement that shall be the basis of all negotiations and agreements that begin after the date of enactment of this Act between the United States and foreign governments or partners regarding the presence of Federal air marshals on flights to and from the United States, including deployment, technical assistance, and information sharing.
+
+&emsp;"(2)
+
+Written agreements.—Except as provided in paragraph (3), not later than 180 days after the date of enactment of this Act, all agreements between the United States and foreign governments or partners regarding the presence of Federal air marshals on flights to and from the United States shall be in writing and signed by the Administrator or other authorized United States Government representative.
+
+&emsp;"(3)
+
+Exception.—The Administrator may schedule Federal air marshal service on flights operating to a foreign country with which no written agreement is in effect if the Administrator determines that—
+
+&emsp;&emsp;"(A) such mission is necessary for aviation security; and
+
+&emsp;&emsp;"(B) the requirements of paragraph (4)(B) are met.
+
+&emsp;"(4)
+
+Notification to congress.—
+
+&emsp;&emsp;"(A)
+
+Written agreements.—Not later than 30 days after the date that the Administrator enters into a written agreement under this section, the Administrator shall transmit to the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] a copy of the agreement.
+
+&emsp;&emsp;"(B)
+
+No written agreements.—The Administrator shall submit to the appropriate committees of Congress—
+
+&emsp;&emsp;&emsp;"(i) not later than 30 days after the date of enactment of this Act, a list of each foreign government or partner that does not have a written agreement under this section, including an explanation for why no written agreement exists and a justification for the determination that such a mission is necessary for aviation security; and
+
+&emsp;&emsp;&emsp;"(ii) not later than 30 days after the date that the Administrator makes a determination to schedule Federal air marshal service on flights operating to a foreign country with which no written agreement is in effect under paragraph (3), the name of the applicable foreign government or partner, an explanation for why no written agreement exists, and a justification for the determination that such mission is necessary for aviation security.
+
+"(b)
+
+Mission Scheduling Automation.—The Administrator shall endeavor to acquire automated capabilities or technologies for scheduling Federal air marshal service missions based on current risk modeling.
+
+"(c)
+
+Improving Federal Air Marshal Service Deployments.—
+
+&emsp;"(1)
+
+After-action reports.—The Administrator shall strengthen internal controls to ensure that all after-action reports on Federal air marshal servicespecial mission coverage provided to stakeholders include documentation of supervisory review and approval, and mandatory narratives.
+
+&emsp;"(2)
+
+Study.—The Administrator shall contract with an independent entity to conduct a validation and verification study of the risk analysis and risk-based determinations guiding Federal air marshal service deployment, including the use of risk-based strategies under subsection (d) \[amending this section (see subsec. (a)(9) to (12) of this section) and enacting provisions set out as a note below\].
+
+&emsp;"(3)
+
+Cost-benefit analysis.—The Administrator shall conduct a cost-benefit analysis regarding mitigation of aviation security threats through Federal air marshal service deployment.
+
+&emsp;"(4)
+
+Performance measures.—The Administrator shall improve existing performance measures to better determine the effectiveness of in-flight operations in addressing the highest risks to aviation transportation based on current intelligence."
+
+#### Implementation Deadline
+
+Pub. L. 115–254, div. K, title I, §1959(d)(3), Oct. 5, 2018, 132 Stat. 3600, provided that: "Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\] shall begin implementing the requirements under paragraphs (9) through (12) of section 44917(a), United States Code, as added by this Act."
 
 #### Federal Air Marshals
 
-Pub. L. 108–458, title IV, §4016, Dec. 17, 2004, 118 Stat. 3720, provided that:
+Pub. L. 108–458, title IV, §4016, Dec. 17, 2004, 118 Stat. 3720, as amended by Pub. L. 115–254, div. K, title I, §1993, Oct. 5, 2018, 132 Stat. 3646, provided that:
 
 "(a)
 
@@ -80,9 +164,11 @@ Federal Law Enforcement Counterterrorism Training.—
 
 &emsp;"(1)
 
-Availability of information.—The Assistant Secretary for Immigration and Customs Enforcement and the Director of Federal Air Marshal Service of the Department of Homeland Security, shall make available, as practicable, appropriate information on in-flight counterterrorism and weapons handling procedures and tactics training to Federal law enforcement officers who fly while in possession of a firearm.
+Availability of information.—The Administrator of the Transportation Security Administration and the Director of Federal Air Marshal Service of the Department of Homeland Security, shall make available, as practicable, appropriate information on in-flight counterterrorism and weapons handling procedures and tactics training to Federal law enforcement officers who fly while in possession of a firearm.
 
 &emsp;"(2)
 
-Identification of fraudulent documents.—The Assistant Secretary for Immigration and Customs Enforcement and the Director of Federal Air Marshal Service of the Department of Homeland Security, in coordination with the Assistant Secretary of Homeland Security (Transportation Security Administration), shall ensure that Transportation Security Administration screeners and Federal air marshals receive training in identifying fraudulent identification documents, including fraudulent or expired visas and passports. Such training shall also be made available to other Federal law enforcement agencies and local law enforcement agencies located in a State that borders Canada or Mexico."
+Identification of fraudulent documents.—The Administrator of the Transportation Security Administration and the Director of Federal Air Marshal Service of the Department of Homeland Security shall ensure that Transportation Security Administration screeners and Federal air marshals receive training in identifying fraudulent identification documents, including fraudulent or expired visas and passports. Such training shall also be made available to other Federal law enforcement agencies and local law enforcement agencies located in a State that borders Canada or Mexico."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "Administrator".</i>
 

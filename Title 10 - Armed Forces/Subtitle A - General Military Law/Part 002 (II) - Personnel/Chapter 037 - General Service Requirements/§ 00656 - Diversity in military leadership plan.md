@@ -18,7 +18,7 @@ Definition of Diversity.—In developing and implementing the plan under subsect
 
 (d)
 
-Consultation.—Not less than annually, the Secretary of Defense and the Secretary of Homeland Security shall meet with the Secretaries of the military departments, the Joint Chiefs of Staff, the Commandant of the Coast Guard, and senior enlisted members of thearmed forces to discuss the progress being made toward developing and implementing the plan established under subsection (a).
+Consultation.—Not less than annually, the Secretary of Defense and the Secretary of Homeland Security shall meet with the Secretaries of the military departments, the Joint Chiefs of Staff, the Commandant of the Coast Guard, and senior enlisted members of the armed forces to discuss the progress being made toward developing and implementing the plan established under subsection (a).
 
 (e)
 

@@ -28,7 +28,7 @@ The Corporation may voluntarily liquidate only with the consent of, and in accor
 
 #### (3) No effect on supervisory actions
 
-&emsp;The grounds for appointment of a conservator for the Corporation under this subsection shall be in addition to those in section 2279bb–6 of this title.
+&emsp;The grounds for appointment of a conservator for the Corporation under this subsectionshall be in addition to those in section 2279bb–6 of this title.
 
 #### (c) Appointment of conservator or receiver
 

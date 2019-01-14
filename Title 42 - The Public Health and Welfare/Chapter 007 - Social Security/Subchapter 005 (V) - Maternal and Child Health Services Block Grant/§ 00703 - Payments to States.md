@@ -6,7 +6,7 @@ From the sums appropriated therefor and the allotments available under section 7
 
 #### (b) Unobligated allotments
 
-Any amount payable to a State under this subchapter from allotments for a fiscal year whichremains unobligated at the end of such year shall remain available to such State for obligation during the next fiscal year. No payment may be made to a State under this subchapter from allotments for a fiscal year for expenditures made after the following fiscal year.
+Any amount payable to a State under this subchapter from allotments for a fiscal year which remains unobligated at the end of such year shall remain available to such State for obligation during the next fiscal year. No payment may be made to a State under this subchapter from allotments for a fiscal year for expenditures made after the following fiscal year.
 
 #### (c) Reduction of payments; fair market value of supplies or equipment, value of salaries, travel expenses, etc.
 
@@ -14,7 +14,7 @@ The Secretary, at the request of a State, may reduce the amount of payments unde
 
 &emsp;(1) the fair market value of any supplies or equipment furnished the State, and
 
-&emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the State and the amount of any other costs incurred in connection with the detail of such officer or employee,
+&emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the Stateand the amount of any other costs incurred in connection with the detail of such officer or employee,
 
 > when the furnishing of supplies or equipment or the detail of an officer or employee is for the convenience of and at the request of the State and for the purpose of conducting activities described in section 705(a) of this title on a temporary basis. The amount by which any payment is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment or in detailing the personnel, on which the reduction of the payment is based, and the amount shall be deemed to be part of the payment and shall be deemed to have been paid to the State.
 

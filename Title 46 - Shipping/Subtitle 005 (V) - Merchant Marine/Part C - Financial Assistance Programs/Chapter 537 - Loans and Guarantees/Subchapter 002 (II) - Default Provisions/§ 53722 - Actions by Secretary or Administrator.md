@@ -30,7 +30,7 @@ Payment.—If a demand is made under paragraph (1), the Secretary or Administrat
 
 (c)
 
-Continued Effect of Guarantee.—A guarantee of an obligation remains in effect after anassumption of the obligation by the Secretary or Administrator.
+Continued Effect of Guarantee.—A guarantee of an obligation remains in effect after an assumption of the obligation by the Secretary or Administrator.
 
 (d)
 

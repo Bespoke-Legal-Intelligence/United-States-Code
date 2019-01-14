@@ -10,7 +10,7 @@ The Administrator of the Small Business Administration shall provide the Office 
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out sections 634ato 634g of this title. Any amount appropriated under this subsection shall remain available, without fiscal year limitation, until expended.
+There are authorized to be appropriated such sums as are necessary to carry out sections 634a to 634g of this title. Any amount appropriated under this subsection shall remain available, without fiscal year limitation, until expended.
 
 (Pub. L. 94–305, title II, §207, as added Pub. L. 111–240, title I, §1602(b), Sept. 27, 2010, 124 Stat. 2551.)
 

@@ -156,7 +156,7 @@ Utilizing the risk assessment and National Strategy for Railroad Transportation 
 
 #### (4) Notification
 
-&emsp;If the Secretary determines that particular existing procedures, protocols, or standards ofa railroad carrier under this subsection do not satisfy the requirements of this section, the Secretary shall provide to the railroad carrier a written notification that includes an explanation of the determination.
+&emsp;If the Secretary determines that particular existing procedures, protocols, or standards of a railroad carrier under this subsection do not satisfy the requirements of this section, the Secretary shall provide to the railroad carrier a written notification that includes an explanation of the determination.
 
 #### (5) Review
 
@@ -170,7 +170,7 @@ Utilizing the risk assessment and National Strategy for Railroad Transportation 
 
 #### (1) Submission of evaluation
 
-&emsp;Not later than 3 years after the date on which a vulnerability assessment or security plan required to be submitted to the Secretary under subsection (c) is approved, and at least once every 5 years thereafter (or on such a schedule as the Secretary may establish by regulation), a railroad carrier who submitted a vulnerability assessment and security plan and who is still assigned to the high-risk tier must also submit to the Secretary an evaluation of the adequacy of the vulnerability assessment and security plan that includes a description of any material changes made to the vulnerability assessment or security plan.
+&emsp;Not later than 3 years after the date on which a vulnerability assessment or securityplan required to be submitted to the Secretary under subsection (c) is approved, and at least once every 5 years thereafter (or on such a schedule as the Secretary may establish by regulation), a railroad carrier who submitted a vulnerability assessment and security plan and who is still assigned to the high-risk tier must also submit to the Secretary an evaluation of the adequacy of the vulnerability assessment and security plan that includes a description of any material changes made to the vulnerability assessment or security plan.
 
 #### (2) Review of evaluation
 

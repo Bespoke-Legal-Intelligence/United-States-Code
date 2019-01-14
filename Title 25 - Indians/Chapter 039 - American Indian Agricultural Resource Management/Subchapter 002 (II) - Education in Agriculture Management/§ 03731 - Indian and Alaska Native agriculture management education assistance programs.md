@@ -20,11 +20,11 @@
 
 (4) An agricultural resources intern shall be required to enter into an obligated service agreement with the Secretary to serve as an employee in a professional agriculture or natural resources position with the Department of the Interior or other Federal agency or an Indian tribe for one year for each year of education for which the Secretary pays the intern's educational costs under paragraph (3).
 
-(5) An agricultural resources intern shall be required to report for service with the Bureau ofIndian Affairs or other bureau or agency sponsoring his internship, or to a designated work site, during any break in attendance at school of more than 3 weeks duration. Time spent in such service shall be counted toward satisfaction of the intern's obligated service agreement under paragraph (4).
+(5) An agricultural resources intern shall be required to report for service with the Bureau of Indian Affairs or other bureau or agency sponsoring his internship, or to a designated work site, during any break in attendance at school of more than 3 weeks duration. Time spent in such service shall be counted toward satisfaction of the intern's obligated service agreement under paragraph (4).
 
 #### (b) Cooperative education program
 
-(1) The Secretary shall maintain, through the Bureau, a cooperative education program for the purpose, among other things, of recruiting Indian and Alaska Native students who are enrolled in secondary schools, tribally controlled community colleges, and other postsecondary or graduate schools, for employment in professional agricultural or related positions with the Bureau or other Federal agency providing Indian agricultural or related services.
+(1) The Secretary shall maintain, through the Bureau, a cooperative education program for thepurpose, among other things, of recruiting Indian and Alaska Native students who are enrolled in secondary schools, tribally controlled community colleges, and other postsecondary or graduate schools, for employment in professional agricultural or related positions with the Bureau or other Federal agency providing Indian agricultural or related services.
 
 (2) The cooperative educational program under paragraph (1) shall be modeled after, and shall have essentially the same features as, the program in effect on December 3, 1993, pursuant to chapter 308 of the Federal Personnel Manual of the Office of Personnel Management.
 
@@ -72,7 +72,7 @@ The Secretary shall administer the programs described in this section until a su
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Haskell Indian Nations University and Southwestern Indian Polytechnic Institute Administrative Systems
 

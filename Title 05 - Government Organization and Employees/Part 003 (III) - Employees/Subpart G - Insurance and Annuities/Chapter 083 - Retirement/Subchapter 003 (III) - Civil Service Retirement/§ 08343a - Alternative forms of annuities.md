@@ -32,7 +32,7 @@
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–553 substituted "(a)–(i), (n), (q), (r), and (s)" for "(a)–(i), (n), (q), and (r)".
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–61, which directed the substitution of "(q), and (r) of section 8339" for "and (q) of section 8339 of this title" in section 8334a(c), was executed by making the substitution in subsec. (c) of this section to reflect the probable intent of Congress, because there is no section 8334a in this title.
+<b>1997</b>—Subsec. (c). Pub. L. 105–61, which directed the substitution of "(q), and (r) of section 8339" for "and (q)of section 8339 of this title" in section 8334a(c), was executed by making the substitution in subsec. (c) of this section to reflect the probable intent of Congress, because there is no section 8334a in this title.
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–66, §11002(a)(1), substituted "any employee or Member who has a life-threatening affliction or other critical medical condition" for "an employee or Member".
 
@@ -116,7 +116,7 @@ Continued Applicability.—The preceding provisions of this section (disregardin
 
 &emsp;"(2) section 7001(a)(4) of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101–508, set out as a note above\]."
 
-\[Section 7001(a)(2)(C)(ii) of Pub. L. 101–508 provided that: "The amendments made by clause (i) \[amending section 4005 of Pub. L. 101–239 and section 6001 of Pub. L. 100–203, set out as notes above and below\] shall not apply in any case in which the first half of the lump-sum payment involved was paid before the beginning of the 11-month period which ends on the date of the enactment of this Act \[Nov. 5, 1990\]."\]
+\[Section 7001(a)(2)(C)(ii) of Pub. L. 101–508 provided that: "The amendments made by clause (i) \[amending section 4005 of Pub. L. 101–239 and section 6001 of Pub. L. 100–203, set out as notes above and below\] shall not apply in any case in which the first half of the lump-sum payment involved was paid before the beginning ofthe 11-month period which ends on the date of the enactment of this Act \[Nov. 5, 1990\]."\]
 
 Similar provisions were contained in the following acts:
 

@@ -8,7 +8,7 @@ When so provided by regulations promulgated by the Secretary in connection with 
 
 #### (1) Exchanges involving obligations issued at a discount
 
-&emsp;In any case in which gain has been realized but not recognized because of the provisions of subsection (a) (or so much of section 1031(b) as relates to subsection (a) of this section), to the extent such gain is later recognized by reason of a disposition or redemption of an obligation received in an exchange subject to such provisions, the first sentence of section 1271(c)(2) shall apply to such gain as though the obligation disposed of or redeemed were the obligation surrendered to the Government in the exchange rather than the obligation actually disposed of or redeemed. For purposes of this paragraph and subpart A of part V of subchapter P, if the obligation surrendered in the exchange is a nontransferable obligation described in subsection (a) or (c) of section 454—
+&emsp;In any case in which gain has been realized but not recognized because of the provisions of subsection (a) (or so much of section 1031(b) as relates to subsection (a) of this section), to the extent such gain is later recognized by reason of a disposition or redemption of an obligation received in an exchange subject to such provisions, the first sentence of section 1271(c)(2) <sup>1</sup> shall apply to such gain as though the obligation disposed of or redeemed were the obligation surrendered to the Government in the exchange rather than the obligation actually disposed of or redeemed. For purposes of this paragraph and subpart A of part V of subchapter P, if the obligation surrendered in the exchange is a nontransferable obligation described in subsection (a) or (c) of section 454—
 
 &emsp;&emsp;(A) the aggregate amount considered, with respect to the obligation surrendered, as ordinary income shall not exceed the difference between the issue price and the stated redemption price which applies at the time of the exchange, and
 
@@ -25,6 +25,10 @@ When so provided by regulations promulgated by the Secretary in connection with 
 &emsp;&emsp;<b>(2) For rules relating to the basis of obligations of the United States acquired in an exchange for other obligations described in subsection (a), see subsection (d) of section 1031.</b>
 
 (Added Pub. L. 86–346, title II, §201(a), Sept. 22, 1959, 73 Stat. 622; amended Pub. L. 94–455, title XIX, §1901(a)(130), (b)(3)(I), Oct. 4, 1976, 90 Stat. 1786, 1793; Pub. L. 97–452, §2(c)(3), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–369, div. A, title I, §42(a)(11), July 18, 1984, 98 Stat. 557.)
+
+#### References in Text
+
+Section 1271(c), referred to in subsec. (b)(1), was repealed and section 1271(d) was redesignated section1271(c) by Pub. L. 115–141, div. U, title IV, §401(c)(1)(A)(i), Mar. 23, 2018, 132 Stat. 1205.
 
 #### Amendments
 
@@ -44,9 +48,11 @@ Amendment by Pub. L. 98–369 applicable to taxable years ending after July 18, 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) ofPub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date
 
 Pub. L. 86–346, title II, §203, Sept. 22, 1959, 73 Stat. 624, provided that: "The amendments made by this title \[enacting this section and amending section 1031 of this title and section 742a of former Title 31, Money and Finance\] shall be effective for taxable years ending after the date of enactment of this Act \[Sept. 22, 1959\]."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

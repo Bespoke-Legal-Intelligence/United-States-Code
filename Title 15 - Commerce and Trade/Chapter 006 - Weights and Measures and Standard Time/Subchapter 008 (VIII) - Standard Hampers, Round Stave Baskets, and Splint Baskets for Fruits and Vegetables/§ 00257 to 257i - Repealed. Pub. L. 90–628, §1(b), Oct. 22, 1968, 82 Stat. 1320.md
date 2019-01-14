@@ -8,7 +8,7 @@ Section 257b, act May 21, 1928, ch. 664, §3, 45 Stat. 686, provided for promulg
 
 Section 257c, act May 21, 1928, ch. 664, §4, 45 Stat. 686, required approval by Secretary of Agriculture of manufacturer's dimension specifications for hampers and baskets.
 
-Section 257d, acts May 21, 1928, ch. 664, §5, 45 Stat. 686; Aug. 30, 1964, Pub. L. 88–516, §3, 78 Stat. 697, set out penalties for violations and covered guaranty given by manufacturers and sellers of hampers and baskets as to their correctness.
+Section 257d, acts May 21, 1928, ch. 664, §5, 45 Stat. 686; Aug. 30, 1964, Pub. L. 88–516, §3, 78 Stat. 697, set out penalties for violations and covered guaranty given bymanufacturers and sellers of hampers and baskets as to their correctness.
 
 Section 257e, act May 21, 1928, ch. 664, §6, 45 Stat. 686, provided for seizure of illegal hampers and baskets, and procedure covering their condemnation.
 

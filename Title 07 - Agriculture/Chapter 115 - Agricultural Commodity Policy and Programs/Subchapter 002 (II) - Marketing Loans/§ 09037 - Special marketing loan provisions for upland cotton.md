@@ -14,7 +14,7 @@
 
 #### (B) Program requirements
 
-&emsp;&emsp;Whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered to a definable and significant international market, as determined by the Secretary, exceeds the prevailing world market price, there shall immediately be in effect a special import quota.
+&emsp;&emsp;Whenever the Secretary determines and announces that for any consecutive 4-weekperiod, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered to a definable and significant international market, as determined by the Secretary, exceeds the prevailing world market price, there shall immediately be in effect a special import quota.
 
 #### (3) Quantity
 
@@ -42,7 +42,7 @@
 
 #### (7) Limitation
 
-&emsp;The quantity of cotton entered into the United States during any marketing year under the special import quota established under this subsection may not exceed theequivalent of 10 weeks' consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the 3 months immediately preceding the first special import quota established in any marketing year.
+&emsp;The quantity of cotton entered into the United States during any marketing year under the special import quota established under this subsection may not exceed the equivalent of 10 weeks' consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the 3 months immediately preceding the first special import quota established in any marketing year.
 
 #### (b) Limited global import quota for upland cotton
 
@@ -108,7 +108,7 @@
 
 &emsp;Notwithstanding paragraph (2), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (a).
 
-#### (c) Economic adjustment assistance to users of upland cotton
+#### (c) Economic adjustment assistance for textile mills
 
 #### (1) In general
 
@@ -134,9 +134,13 @@
 
 &emsp;&emsp;(B) ineligible to receive assistance under this subsection for a period of 1 year following the determination of the Secretary.
 
-(Pub. L. 113–79, title I, §1207, Feb. 7, 2014, 128 Stat. 682.)
+(Pub. L. 113–79, title I, §1207, Feb. 7, 2014, 128 Stat. 682; Pub. L. 115–334, title I, §1203(b), Dec. 20, 2018, 132 Stat. 4510.)
 
 #### References in Text
 
 The Harmonized Tariff Schedule, referred to in subsecs. (a)(6)(D) and (b)(2)(C)(iv), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–334 substituted "Economic adjustment assistance for textile mills" for "Economic adjustment assistance to users of upland cotton" in heading.
 

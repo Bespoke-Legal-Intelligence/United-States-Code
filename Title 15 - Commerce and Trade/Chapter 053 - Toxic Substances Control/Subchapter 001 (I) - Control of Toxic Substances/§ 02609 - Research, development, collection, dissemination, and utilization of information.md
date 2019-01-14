@@ -18,7 +18,7 @@ The Administrator shall coordinate, with the Assistant Secretary for Health of t
 
 #### (d) Monitoring
 
-The Administrator shall, in consultation and cooperation with the Secretary of Health andHuman Services, establish and be responsible for research aimed at the development, in cooperation with local, State, and Federal agencies, of monitoring techniques and instruments which may be used in the detection of toxic chemical substances and mixtures and which are reliable, economical, and capable of being implemented under a wide variety of conditions.
+The Administrator shall, in consultation and cooperation with the Secretary of Health and Human Services, establish and be responsible for research aimed at the development, in cooperation with local, State, and Federal agencies, of monitoring techniques and instruments which may be used in the detection of toxic chemical substances and mixtures and which are reliable, economical, and capable of being implemented under a wide variety of conditions.
 
 #### (e) Basic research
 
@@ -32,7 +32,7 @@ The Administrator shall establish and promote programs and workshops to train or
 
 The Administrator shall, in consultation with the Secretary of Health and Human Services and other heads of appropriate departments and agencies, establish and coordinate a system for exchange among Federal, State, and local authorities of research and development results respecting toxic chemical substances and mixtures, including a system to facilitate and promote the development of standard information format and analysis and consistent testing procedures.
 
-(Pub. L. 94–469, title I, §10, Oct. 11, 1976, 90 Stat. 2031; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §19(i), June 22, 2016, 130 Stat. 507.)
+(Pub. L. 94–469, title I, §10, Oct. 11, 1976, 90 Stat. 2031; renumbered title I, Pub. L. 99–519, §3(c)(1),Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §19(i), June 22, 2016, 130 Stat. 507.)
 
 #### Amendments
 

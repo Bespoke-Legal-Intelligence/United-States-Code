@@ -2,9 +2,9 @@
 
 #### (a) Advances for customers' claims
 
-In order to provide for prompt payment and satisfaction of net equity claims of customers ofthe debtor, SIPC shall advance to the trustee such moneys, not to exceed $500,000 for each customer, as may be required to pay or otherwise satisfy claims for the amount by which the net equity of each customer exceeds his ratable share of customer property, except that—
+In order to provide for prompt payment and satisfaction of net equity claims of customers of the debtor, SIPC shall advance to the trustee such moneys, not to exceed $500,000 for each customer, as may be required to pay or otherwise satisfy claims for the amount by which the net equity of each customer exceeds his ratable share of customer property, except that—
 
-&emsp;(1) if all or any portion of the net equity claim of a customer in excess of his ratable share of customer property is a claim for cash, as distinct from a claim for securities or options on commodity futures contracts, the amount advanced to satisfy such claim for cash shall not exceed the standard maximum cash advance amount for each such customer, as determined in accordance with subsection (d);
+&emsp;(1) if all or any portion of the net equity claim of a customer in excess of his ratable share of customer property is a claim for cash, as distinct from a claim for securities or options on commodity futures contracts, the amount advanced to satisfy such claim for cash shall not exceed the standard maximum cash advance amount for each such customer,as determined in accordance with subsection (d);
 
 &emsp;(2) a customer who holds accounts with the debtor in separate capacities shall be deemed to be a different customer in each capacity;
 

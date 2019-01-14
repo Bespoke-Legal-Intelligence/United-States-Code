@@ -28,7 +28,7 @@
 
 Except as otherwise provided in this chapter, a Federal write-in absentee ballot shall be submitted and processed in the manner provided by law for absentee ballots in the State involved. A Federal write-in absentee ballot of an absent uniformed services voter or overseas voter shall not be counted—
 
-&emsp;(1) in the case of a ballot submitted by an overseas voter who is not an absent uniformed services voter, if the ballot is submitted from any location in the United States;
+&emsp;(1) in the case of a ballot submitted by an overseas voter who is not an absent uniformedservices voter, if the ballot is submitted from any location in the United States;
 
 &emsp;(2) if the application of the absent uniformed services voter or overseas voter for a State absentee ballot is received by the appropriate State election official after the later of—
 
@@ -42,7 +42,7 @@ Except as otherwise provided in this chapter, a Federal write-in absentee ballot
 
 The following rules shall apply with respect to Federal write-in absentee ballots:
 
-&emsp;(1) In completing the ballot, the absent uniformed services voter or overseas voter may designate a candidate by writing in the nameof the candidate or by writing in the name of a political party (in which case the ballot shall be counted for the candidate of that political party).
+&emsp;(1) In completing the ballot, the absent uniformed services voter or overseas voter may designate a candidate by writing in the name of the candidate or by writing in the name of a political party (in which case the ballot shall be counted for the candidate of that political party).
 
 &emsp;(2) In the case of the offices of President and Vice President, a vote for a named candidate or a vote by writing in the name of a political party shall be counted as a vote for the electors supporting the candidate involved.
 
@@ -108,7 +108,7 @@ Subsec. (b). Pub. L. 108–375, §566(c)(2), inserted second sentence and struck
 
 &emsp;"(1) if the ballot is submitted from any location in the United States;
 
-&emsp;"(2) if the application of the overseas voter for a State absentee ballot is received by the appropriate State election official less than 30 days before the general election; or
+&emsp;"(2) if the application of the overseas voter for a State absentee ballot is received by the appropriateState election official less than 30 days before the general election; or
 
 &emsp;"(3) if a State absentee ballot of the overseas voter is received by the appropriate State election official not later than the deadline for receipt of the State absentee ballot under State law."
 

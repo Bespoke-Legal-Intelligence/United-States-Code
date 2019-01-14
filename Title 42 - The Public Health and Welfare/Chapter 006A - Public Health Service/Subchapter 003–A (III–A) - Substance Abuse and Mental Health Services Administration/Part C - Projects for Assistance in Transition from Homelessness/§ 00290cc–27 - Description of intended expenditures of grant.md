@@ -40,7 +40,7 @@ A prior section 527 of act July 1, 1944, was renumbered section 548 by section 6
 
 <b>2016</b>—Subsecs. (a)(2), (b). Pub. L. 114–255 substituted "substance use disorder" for "substance abuse".
 
-<b>1990</b>—Pub. L. 101–645 amended section generally, substituting provisions relating to description of intended expenditures of grant for provisions relating to requirement of reports by States.
+<b>1990</b>—Pub. L. 101–645 amended section generally, substituting provisions relating to description of intendedexpenditures of grant for provisions relating to requirement of reports by States.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

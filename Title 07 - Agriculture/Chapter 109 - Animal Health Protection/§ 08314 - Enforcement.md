@@ -38,7 +38,7 @@
 
 #### (ii) Depositions
 
-&emsp;&emsp;&emsp;A witness whose deposition is taken, and the person taking the deposition, shall be entitled to the same fees that are paid for similar services in a court of the United States.
+&emsp;&emsp;&emsp;A witness whose deposition is taken, and the person taking the deposition, shall beentitled to the same fees that are paid for similar services in a court of the United States.
 
 #### (E) Procedures
 

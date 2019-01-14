@@ -40,7 +40,7 @@ As used in and for the purposes of this subchapter—
 
 (j) Repealed. Pub. L. 104–65, §9(1)(A), Dec. 19, 1995, 109 Stat. 699.
 
-(k) The term "registration statement" means the registration statement required to be filed with the Attorney General under section 612(a) of this title, and any supplements thereto required to be filed under section 612(b) of this title, and includes all documents and papers required to be filed therewith or amendatorythereof or supplemental thereto, whether attached thereto or incorporated therein by reference;
+(k) The term "registration statement" means the registration statement required to be filed with the Attorney General under section 612(a) of this title, and any supplements thereto required to be filed under section 612(b) of this title, and includes all documents and papers required to be filed therewith or amendatory thereof or supplemental thereto, whether attached thereto or incorporated therein by reference;
 
 (l) The term "American republic" includes any of the states which were signatory to the Final Act of the Second Meeting of the Ministers of Foreign Affairs of the American Republics at Habana, Cuba, July 30, 1940;
 
@@ -48,7 +48,7 @@ As used in and for the purposes of this subchapter—
 
 (n) The term "prints" means newspapers and periodicals, books, pamphlets, sheet music, visiting cards, address cards, printing proofs, engravings, photographs, pictures, drawings, plans, maps, patterns to be cut out, catalogs, prospectuses, advertisements, and printed, engraved, lithographed, or autographed notices of various kinds, and, in general, all impressions or reproductions obtained on paper or other material assimilable to paper, on parchment or on cardboard, by means of printing, engraving, lithography, autography, or any other easily recognizable mechanical process, with the exception of the copying press, stamps with movable or immovable type, and the typewriter;
 
-(o) The term "political activities" means any activity that the person engaging in believes will, or that the person intends to, in any way influence any agency or official of the Government of the United States or any section of the public within the United States with reference to formulating, adopting, or changing the domestic or foreign policies of the United States or with reference to the political or public interests, policies, or relations of a government of a foreign country or a foreign political party;
+(o) The term "political activities" means any activity that the person engaging in believes will, or that the person intends to, in any way influence any agency or official of the Government of the United States or any section of the public within the United States with reference to formulating, adopting, or changing the domestic or foreign policies of the United Statesor with reference to the political or public interests, policies, or relations of a government of a foreign country or a foreign political party;
 
 (p) The term "political consultant" means any person who engages in informing or advising any other person with reference to the domestic or foreign policies of the United States or the political or public interest, policies, or relations of a foreign country or of a foreign political party.
 

@@ -88,7 +88,7 @@ Subsec. (d)(3). Pub. L. 100–653, §102(b), added par. (3).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Pub. L. 110–234, title VIII, §8204(f), May 22, 2008, 122 Stat. 1294, and Pub. L. 110–246, §4(a), title VIII, §8204(f), June 18, 2008, 122 Stat. 1664, 2056, provided that the amendment made by section 8204(f) is effective Nov. 14, 1988, and as if included in the enactment of section 102(c) of Pub. L. 100–653.
 

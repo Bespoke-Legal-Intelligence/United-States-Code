@@ -10,7 +10,7 @@ Promoting Safety and Efficiency.—To promote safety and efficiency in air navig
 
 &emsp;(1) observe, measure, investigate, and study atmospheric phenomena, and maintain meteorological stations and offices, that are necessary or best suited for finding out in advance information about probable weather conditions;
 
-&emsp;(2) provide reports to the Administrator to persons engaged in civil aeronautics that are designated by the Administrator and to other persons designated by the Secretary in a way and with a frequency that best will result in safety in, and facilitating, air navigation;
+&emsp;(2) provide reports to the Administrator <sup>1</sup> to persons engaged in civil aeronautics that are designated by the Administrator and to other persons designated by the Secretary in a way and with a frequency that best will result in safety in, and facilitating, air navigation;
 
 &emsp;(3) cooperate with persons engaged in air commerce in meteorological services, maintain reciprocal arrangements with those persons in carrying out this clause, and collect and distribute weather reports available from aircraft in flight;
 
@@ -56,6 +56,90 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 In subsection (b), the title "Secretary" \[of Commerce\] is substituted for "Chief of the Weather Bureau" in section 803 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 783) because of sections 1 and 2 of Reorganization Plan No. 2 of 1965 (eff. July 13, 1965, 79 Stat. 1318). Before clause (1), the words "In order" and "in addition to any other functions or duties pertaining to weather information for other purposes" are omitted as surplus. In clause (2), the words "forecasts, warnings, and advices" are omitted as being included in "reports". In clause (3), the words "or employees thereof" and "establish and" are omitted as surplus. The words "with those persons" are added for clarity. In clause (5), the words "departments, agencies, and instrumentalities of the United States Government" are substituted for "governmental agencies of the United States" for consistency in the revised title and with other titles of the United States Code.
 
+#### Improved Safety in Rural Areas
+
+Pub. L. 115–254, div. B, title III, §322, Oct. 5, 2018, 132 Stat. 3270, provided that: "The Administrator \[of the Federal Aviation Administration\] shall permit an air carrier operating pursuant to part 135 of title 14, Code of Federal Regulations, to operate to a destination with a published approach, in a noncontiguous State under instrument flight rules and conduct an instrument approach without a destination Meteorological Aerodrome Report (METAR) if a current Area Forecast, supplemented by noncertified local weather observations (such as weather cameras and human observations) is available, and an alternate airport that has a weather report is specified. The operator shall have approved procedures for departure and en route weather evaluation."
+
+#### Terminal Aerodrome Forecast
+
+Pub. L. 115–254, div. B, title V, §516, Oct. 5, 2018, 132 Stat. 3358, provided that:
+
+"(a)
+
+In General.—The Administrator \[of the Federal Aviation Administration\] shall permit a covered air carrier to operate to or from a location in a noncontiguous State without a Terminal Aerodrome Forecast or Meteorological Aerodrome Report if—
+
+&emsp;"(1) such location is determined to be under visual meteorological conditions;
+
+&emsp;"(2) a current Area Forecast, supplemented by other local weather observations or reports, is available; and
+
+&emsp;"(3) an alternate airport that has an available Terminal Aerodrome Forecast and weather report is specified.
+
+"(b)
+
+Procedures.—A covered air carrier shall—
+
+&emsp;"(1) have approved procedures for dispatch or release and enroute weather evaluation; and
+
+&emsp;"(2) operate under instrument flight rules enroute to the destination.
+
+"(c)
+
+Limitation.—Without a written finding of necessity, based on objective and historical evidence of imminent threat to safety, the Administrator shall not promulgate any operation specification, policy, or guidance document pursuant to this section that is more restrictive than, or requires procedures that are not expressly stated in, the regulations.
+
+"(d)
+
+Covered Air Carrier Defined.—In this section, the term 'covered air carrier' means an air carrier operating in a noncontiguous State under part 121 of title 14, Code of Federal Regulations."
+
+#### Automated Weather Observing Systems Policy
+
+Pub. L. 115–254, div. B, title V, §553, Oct. 5, 2018, 132 Stat. 3379, provided that:
+
+"(a)
+
+In General.—Not later than 18 months after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall—
+
+&emsp;"(1) update automated weather observing systems standards to maximize the use of new technologies that promote the reduction of equipment or maintenance cost for non-Federal automated weather observing systems, including the use of remote monitoring and maintenance, unless demonstrated to be ineffective;
+
+&emsp;"(2) review, and if necessary update, existing policies in accordance with the standards developed under paragraph (1); and
+
+&emsp;"(3) establish a process under which appropriate onsite airport personnel or an aviation official may, with appropriate manufacturer training or alternative training as determined by the Administrator, be permitted to conduct the minimum triannual preventative maintenance checks under the advisory circular for non-Federal automated weather observing systems (AC 150/5220–16E) and any other similar, successor checks.
+
+"(b)
+
+Permission.—Permission to conduct the minimum triannual preventative maintenance checks described under subsection (a)(3) and any similar, successor checks shall not be withheld but for specific cause.
+
+"(c)
+
+Standards.—In updating the standards under subsection (a)(1), the Administrator shall—
+
+&emsp;"(1) ensure the standards are performance-based;
+
+&emsp;"(2) use risk analysis to determine the accuracy of the automated weather observing systems outputs required for pilots to perform safe aircraft operations; and
+
+&emsp;"(3) provide a cost-benefit analysis to determine whether the benefits outweigh the cost for any requirement not directly related to safety.
+
+"(d)
+
+AIP Eligibility of AWOS Equipment.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding any other law, the Administrator is authorized to and shall waive any positive benefit-cost ratio requirement for automated weather-observing system equipment under subchapter I of chapter 471, of title 49, United States Code, if—
+
+&emsp;&emsp;"(A) the airport sponsor or State, as applicable, certifies that a grant for such automated weather observing systems equipment under that chapter will assist an applicable airport to respond to regional emergency needs, including medical, firefighting, and search and rescue needs;
+
+&emsp;&emsp;"(B) the Secretary determines, after consultation with the airport sponsor or State, as applicable, that the placement of automated weather-observing equipment at the airport will not cause unacceptable radio frequency congestion; and
+
+&emsp;&emsp;"(C) the other requirements under that chapter are met.
+
+&emsp;"(2)
+
+Applicability to low population density states.—This subsection is applicable only to airports located in states with a population density, based on the most recent decennial census, of 50 or fewer persons per square mile.
+
+"(e)
+
+Report.—Not later than September 30, 2025, the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on the implementation of the requirements under this section."
+
 #### Automated Surface Observation System Stations
 
 Pub. L. 106–181, title VII, §728, Apr. 5, 2000, 114 Stat. 168, provided that: "The Administrator \[of the Federal Aviation Administration\] shall not terminate human weather observers for Automated Surface Observation System stations until—
@@ -63,4 +147,6 @@ Pub. L. 106–181, title VII, §728, Apr. 5, 2000, 114 Stat. 168, provided that:
 &emsp;"(1) the Administrator determines that the system provides consistent reporting of changing meteorological conditions and notifies Congress in writing of that determination; and
 
 &emsp;"(2) 60 days have passed since the report was transmitted to Congress."
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -14,7 +14,7 @@
 
 (3) Any agency decision under this section on whether a proposed Federal activity, to which paragraph (2)(C) applies, should proceed, and, if so, whether in its original or in a modified form, shall be based on the comprehensive environmental evaluation as well as other considerations which the agency, in the exercise of its discretion, considers relevant.
 
-(4) For the purposes of this section, the term "Federal activity" includes all activities conducted under a Federal agency research program in Antarctica, whether or not conducted by a Federal agency.
+(4) For the purposes of this section, the term "Federal activity" includes all activities conducted under a Federal agency research programin Antarctica, whether or not conducted by a Federal agency.
 
 #### (b) Federal activities carried out jointly with foreign governments
 

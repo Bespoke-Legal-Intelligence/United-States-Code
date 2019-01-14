@@ -14,7 +14,7 @@
 
 #### (B) Certain rules to apply
 
-&emsp;&emsp;Rules similar to the rules of paragraphs (5) and (7) of section 1400B(b) shall apply for purposes of this paragraph.
+&emsp;&emsp;Rules similar to the rules of paragraphs (5) and (7) of section 1400B(b) (as in effect before its repeal) shall apply for purposes of this paragraph.
 
 #### (C) Gain after 2018 not qualified
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (i) Waiver of active business requirement
 
-&emsp;&emsp;&emsp;Notwithstanding any provision of subsection (e), a corporation shall be treatedas meeting the active business requirements of such subsection for any period during which such corporation qualifies as a specialized small business investment company.
+&emsp;&emsp;&emsp;Notwithstanding any provision of subsection (e), a corporation shall be treated as meeting the active business requirements of such subsection for any period during which such corporation qualifies as a specialized small business investment company.
 
 #### (ii) Specialized small business investment company
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (B) Treatment of contributed property
 
-&emsp;&emsp;For purposes of subparagraph (A), the adjusted basis of any property contributed to the corporation (or other property with a basis determined in whole or in part by reference to the adjusted basis of property so contributed) shall be determined as if the basis of the property contributed to the corporation (immediately after such contribution) were equal to its fair market value as of the time of such contribution.
+&emsp;&emsp;For purposes of subparagraph (A), the adjusted basis of any property contributed to the corporation (or other property with a basis determined in whole or in part by reference to the adjusted basis of property so contributed) shall be determined as if thebasis of the property contributed to the corporation (immediately after such contribution) were equal to its fair market value as of the time of such contribution.
 
 #### (3) Aggregation rules
 
@@ -202,11 +202,9 @@ For purposes of this section—
 
 &emsp;&emsp;(A) a DISC or former DISC,
 
-&emsp;&emsp;(B) a corporation with respect to which an election under section 936 is in effect or which has a direct or indirect subsidiary with respect to which such an election is in effect,
+&emsp;&emsp;(B) a regulated investment company, real estate investment trust, or REMIC, and
 
-&emsp;&emsp;(C) a regulated investment company, real estate investment trust, or REMIC, and
-
-&emsp;&emsp;(D) a cooperative.
+&emsp;&emsp;(C) a cooperative.
 
 #### (5) Stock in other corporations
 
@@ -264,7 +262,7 @@ If any stock in a corporation is acquired solely through the conversion of other
 
 &emsp;&emsp;(A) such amount is attributable to gain on the sale or exchange by the pass-thru entity of stock which is qualified small business stock in the hands of such entity (determined by treating such entity as an individual) and which was held by such entity for more than 5 years, and
 
-&emsp;&emsp;(B) such amount is includible in the gross income of the taxpayer by reason of the holding of an interest in such entity whichwas held by the taxpayer on the date on which such pass-thru entity acquired such stock and at all times thereafter before the disposition of such stock by such pass-thru entity.
+&emsp;&emsp;(B) such amount is includible in the gross income of the taxpayer by reason of the holding of an interest in such entity which was held by the taxpayer on the date on which such pass-thru entity acquired such stock and at all times thereafter before the disposition of such stock by such pass-thru entity.
 
 #### (3) Limitation based on interest originally held by taxpayer
 
@@ -320,7 +318,7 @@ For purposes of this section—
 
 #### (C) Successive application
 
-&emsp;&emsp;For purposes of this paragraph, stock treated as qualified small business stock under subparagraph (A) shall be so treated for subsequent transactions or reorganizations, except that the limitation of subparagraph (B) shall be applied as of the time of the first transfer to which such limitation applied (determined after the application of the second sentence of subparagraph (B)).
+&emsp;&emsp;For purposes of this paragraph, stock treated as qualified small business stock under subparagraph (A) shall be so treated for subsequent transactions or reorganizations, except that the limitation of subparagraph (B) shall be applied as of the time ofthe first transfer to which such limitation applied (determined after the application of the second sentence of subparagraph (B)).
 
 #### (D) Control test
 
@@ -354,7 +352,7 @@ For purposes of this section—
 
 #### (2) Offsetting short position
 
-&emsp;For purposes of paragraph (1), the taxpayer shall be treated as having an offsetting shortposition with respect to any qualified small business stock if—
+&emsp;For purposes of paragraph (1), the taxpayer shall be treated as having an offsetting short position with respect to any qualified small business stock if—
 
 &emsp;&emsp;(A) the taxpayer has made a short sale of substantially identical property,
 
@@ -368,11 +366,13 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the avoidance of the purposes of this section through split-ups, shell corporations, partnerships, or otherwise.
 
-(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 106–554, §1(a)(7) \[title I, §117(a), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 108–357, title VIII, §835(b)(9), Oct. 22, 2004, 118 Stat. 1594; Pub. L. 111–5, div. B, title I, §1241(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2011(a), (b), Sept. 27, 2010, 124 Stat. 2554; Pub. L. 111–312, title VII, §§753(b), 760(a), Dec. 17, 2010, 124 Stat. 3321, 3323; Pub. L. 112–240, title III, §§324(a), (b), 327(b), Jan. 2, 2013, 126 Stat. 2333, 2334; Pub. L. 113–295, div. A, title I, §136(a), Dec. 19, 2014, 128 Stat. 4019; Pub. L. 114–113, div. Q, title I, §126(a), Dec. 18, 2015, 129 Stat. 3054.)
+(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 106–554, §1(a)(7) \[title I, §117(a), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 108–357, title VIII, §835(b)(9), Oct. 22, 2004, 118 Stat. 1594; Pub. L. 111–5, div. B, title I, §1241(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2011(a), (b), Sept. 27, 2010, 124 Stat. 2554; Pub. L. 111–312, title VII, §§753(b), 760(a), Dec. 17, 2010, 124 Stat. 3321, 3323; Pub. L. 112–240, title III, §§324(a), (b), 327(b), Jan. 2, 2013, 126 Stat. 2333, 2334; Pub. L. 113–295, div. A, title I, §136(a), Dec. 19, 2014, 128 Stat. 4019; Pub. L. 114–113, div. Q, title I, §126(a), Dec. 18, 2015, 129 Stat. 3054; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xv), (4)(B)(v), Mar. 23, 2018, 132 Stat. 1208, 1209.)
 
 #### References in Text
 
 The date of the enactment of this paragraph, referred to in subsec. (a)(2)(A), is the date of enactment of Pub. L. 106–554, which was approved Dec. 21, 2000.
+
+Section 1400B(b), referred to in subsec. (a)(2)(B), was repealed by Pub. L. 115–141, div. U, title IV, §401(d)(4)(A), Mar. 23, 2018, 132 Stat. 1209.
 
 The date of the enactment of this paragraph, referred to in subsec. (a)(3), is the date of enactment of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
@@ -388,7 +388,11 @@ A prior section 1202, acts Aug. 16, 1954, ch. 736, 68A Stat. 320; Oct. 4, 1976, 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(4). Pub. L. 114–113 substituted "and thereafter" for ", 2011, 2012, 2013, and 2014" in heading and struck out "and before January 1, 2015" after "of the Creating Small Business Jobs Act of 2010" in introductory provisions.
+<b>2018</b>—Subsec. (a)(2)(B). Pub. L. 115–141, §401(d)(4)(B)(v), inserted "(as in effect before its repeal)" after "1400B(b)".
+
+Subsec. (e)(4)(B) to (D). Pub. L. 115–141, §401(d)(1)(D)(xv), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: "a corporation with respect to which an election under section 936 is in effect or which has a direct or indirect subsidiary with respect to which such an election is in effect,".
+
+<b>2015</b>—Subsec. (a)(4). Pub. L. 114–113 substituted "and thereafter" for ", 2011, 2012, 2013, and 2014" in headingand struck out "and before January 1, 2015" after "of the Creating Small Business Jobs Act of 2010" in introductory provisions.
 
 <b>2014</b>—Subsec. (a)(4). Pub. L. 113–295 substituted "2013, and 2014" for "and 2013" in heading and "January 1, 2015" for "January 1, 2014" in introductory provisions.
 
@@ -446,7 +450,7 @@ Pub. L. 112–240, title III, §327(d), Jan. 2, 2013, 126 Stat. 2334, provided t
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–312, title VII, §753(d), Dec. 17, 2010, 124 Stat. 3321, provided that: "The amendments made bythis section \[amending this section and section 1391 of this title\] shall apply to periods after December 31, 2009."
+Pub. L. 111–312, title VII, §753(d), Dec. 17, 2010, 124 Stat. 3321, provided that: "The amendments made by this section \[amending this section and section 1391 of this title\] shall apply to periods after December 31, 2009."
 
 Pub. L. 111–312, title VII, §760(b), Dec. 17, 2010, 124 Stat. 3323, provided that: "The amendments made by this section \[amending this section\] shall apply to stock acquired after December 31, 2010."
 
@@ -471,6 +475,12 @@ Amendment by Pub. L. 104–188 effective Sept. 1, 1997, see section 1621(d) of P
 #### Effective Date
 
 Section applicable to stock issued after Aug. 10, 1993, see section 13113(e) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 53 of this title.
+
+#### Savings Provision
+
+Amendment by section 401(d)(4)(B)(v) of Pub. L. 115–141 not applicable to certain obligations issued, DC Zone assets acquired, or principal residences acquired before Jan. 1, 2012, see section 401(d)(4)(C) of Pub. L. 115–141, set out as a note under former section 1400 of this title.
+
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Special Rule for Pass-Through Entities
 

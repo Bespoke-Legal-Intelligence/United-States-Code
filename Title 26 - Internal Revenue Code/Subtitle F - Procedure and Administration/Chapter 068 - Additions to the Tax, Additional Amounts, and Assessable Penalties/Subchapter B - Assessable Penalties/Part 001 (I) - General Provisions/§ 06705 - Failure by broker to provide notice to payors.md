@@ -12,5 +12,5 @@ Any penalty imposed by this section shall be in addition to any other penalty pr
 
 #### Effective Date
 
-Section effective with respect to payments made after Dec. 31, 1983, see section 110(a) of Pub. L. 98–67, setout as an Effective Date of 1983 Amendment note under section 31 of this title.
+Section effective with respect to payments made after Dec. 31, 1983, see section 110(a) of Pub. L. 98–67, set out as an Effective Date of 1983 Amendment note under section 31 of this title.
 

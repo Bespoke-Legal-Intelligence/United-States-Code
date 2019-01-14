@@ -134,7 +134,7 @@ Duties.—The duties of the committee shall include the following:
 
 &emsp;"(1) To identify and oversee the implementation of best practices of industry in the operations of the facilities and sites of the Administration for the purposes described in subsection (a).
 
-&emsp;"(2) To conduct surveys of the facilities and sites of the Administration in order to assess the adoption, implementation, and use by such facilities and sitesof best practices of industry described in subsection (a).
+&emsp;"(2) To conduct surveys of the facilities and sites of the Administration in order to assess the adoption, implementation, and use by such facilities and sites of best practices of industry described in subsection (a).
 
 &emsp;"(3) To carry out such other activities consistent with the duties of the committee under this subsection as the Administrator may specify for purposes of this section.
 

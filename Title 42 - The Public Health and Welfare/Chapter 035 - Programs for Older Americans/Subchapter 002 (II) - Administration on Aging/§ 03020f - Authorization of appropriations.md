@@ -20,7 +20,7 @@ In General.—For purposes of carrying out this chapter, there are authorized to
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–144, §3(e)(1), substituted "$40,063,000 for each of the fiscal years 2017, 2018, and 2019." for "such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011."
 
-Subsec. (b). Pub. L. 114–144, §3(e)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out section 3012(a)(24) of this title (relating to the National Eldercare Locator Service) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011."
+Subsec. (b). Pub. L. 114–144, §3(e)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry outsection 3012(a)(24) of this title (relating to the National Eldercare Locator Service) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011."
 
 Subsec. (c). Pub. L. 114–144, §3(e)(3), struck out subsec. (c). Text read as follows: "There are authorized to be appropriated to carry out section 3020e–1 of this title, such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011."
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A Tribal Action Plan adopted pursuant to section 2412 of this title may make such provisions as may be necessary and practical for the establishment, funding, licensing, and operation of emergency shelters or half-way houses for Indian youth who are alcohol or substance abusers, including youth who have been arrested for offenses directly or indirectly related to alcohol or substance abuse. Half-way houses may be used as either intake facilities or aftercare facilities for youth admitted, or to be admitted, for long-term treatment of substance abuse. The Indian Health Service, the Bureau of Indian Affairs, and the tribes are authorized to use theirrespective resources to adequately staff and operate any such facility.
+A Tribal Action Plan adopted pursuant to section 2412 of this title may make such provisions as may be necessary and practical for the establishment, funding, licensing, and operation of emergency shelters or half-way houses for Indian youth who are alcohol or substance abusers, including youth who have been arrested for offenses directly or indirectly related to alcohol or substance abuse. Half-way houses may be used as either intake facilities or aftercare facilities for youth admitted, or to be admitted, for long-term treatment of substance abuse. The Indian Health Service, the Bureau of Indian Affairs, and the tribes are authorized to use their respective resources to adequately staff and operate any such facility.
 
 #### (b) Referrals
 
@@ -14,7 +14,7 @@ A Tribal Action Plan adopted pursuant to section 2412 of this title may make suc
 
 In the case of any State that exercises criminal jurisdiction over any part of Indian country under section 1162 of title 18 or section 1321 of this title, such State is urged to require its law enforcement officers to—
 
-&emsp;(1) place any Indian youth arrested for any offense related to alcohol or substance abuse in a temporary emergency shelter described in subsection (d) or a community-based alcohol or substance abuse treatment facility in lieu of incarceration to the extent such facilities are available, and
+&emsp;(1) place any Indian youth arrested for any offense related to alcohol or substance abuse in a temporary emergency shelter described insubsection (d) or a community-based alcohol or substance abuse treatment facility in lieu of incarceration to the extent such facilities are available, and
 
 &emsp;(2) observe the standards promulgated under subsection (d).
 
@@ -56,7 +56,7 @@ This Act, referred to in subsec. (e)(5), is Pub. L. 99–570, Oct. 27, 1986, 100
 
 <b>2010</b>—Subsec. (e)(1). Pub. L. 111–211, §241(c)(1), substituted "each of fiscal years 2011 through 2015." for "fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000."
 
-Subsec. (e)(2). Pub. L. 111–211, §241(c)(2), substituted "each of fiscal years 2011 through 2015." for "each ofthe fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000."
+Subsec. (e)(2). Pub. L. 111–211, §241(c)(2), substituted "each of fiscal years 2011 through 2015." for "each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000."
 
 Subsec. (e)(4), (5). Pub. L. 111–211, §241(c)(3), realigned margins.
 
@@ -74,7 +74,7 @@ Subsec. (e)(4), (5). Pub. L. 101–272, §1(3), added pars. (4) and (5).
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–690, §2207(a), inserted provisions which permitted half-way houses to be used as either intake facilities or aftercare facilities, and authorized Indian Health Service, Bureau of Indian Affairs, and tribes to use resources to staff and operate such facilities.
 
-Subsec. (e). Pub. L. 100–690, §2207(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "For the planning and design, construction, and renovation of emergency shelters or half-way houses to provide emergency care for Indian youth, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1987, 1988, and 1989. For the operation of emergency shelters or half-way houses there is authorized to be appropriated $3,000,000 for each of the fiscal years 1987, 1988, and 1989. The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting pursuant to the Indian Self-Determination Act."
+Subsec. (e). Pub. L. 100–690, §2207(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "For the planning and design, construction, and renovation of emergency shelters or half-way houses to provide emergency care for Indian youth, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1987, 1988, and 1989. For the operation of emergency shelters or half-way houses there is authorized to be appropriated $3,000,000 for each of the fiscal years 1987, 1988, and 1989. The Secretary of theInterior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting pursuant to the Indian Self-Determination Act."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "half-way".</i>
 

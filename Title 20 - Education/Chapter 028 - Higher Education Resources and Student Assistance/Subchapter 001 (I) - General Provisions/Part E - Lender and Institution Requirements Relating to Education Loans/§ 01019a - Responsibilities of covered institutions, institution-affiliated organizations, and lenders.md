@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the maximum amount of Federal grant and loan aid under subchapter IV available to students, in an easy to understand format;
 
-&emsp;&emsp;&emsp;&emsp;(II) the information required to be disclosed pursuant to section1019b(a)(2)(A)(i) of this title, for each type of loan described in section 1019(3)(A) of this title that is offered pursuant to a preferred lender arrangement of the institution or organization to students of the institution or the families of such students; and
+&emsp;&emsp;&emsp;&emsp;(II) the information required to be disclosed pursuant to section 1019b(a)(2)(A)(i) of this title, for each type of loan described in section 1019(3)(A) of this title that is offered pursuant to a preferred lender arrangement of the institution or organization to students of the institution or the families of such students; and
 
 &emsp;&emsp;&emsp;&emsp;(III) a statement that such institution is required to process the documents required to obtain a loan under part B of subchapter IV from any eligible lender the student selects; and
 
@@ -76,9 +76,9 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) is employed in the financial aid office of a covered institution; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) otherwise has responsibilities with respect to education loans or other financial aid of the institution; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) otherwise has responsibilities with respect to education loans orother financial aid of the institution; and
 
-&emsp;&emsp;&emsp;&emsp;(II) any similar expenses paid or provided to any agent of an institution-affiliated organization who is involved inthe practice of recommending, promoting, or endorsing education loans.
+&emsp;&emsp;&emsp;&emsp;(II) any similar expenses paid or provided to any agent of an institution-affiliated organization who is involved in the practice of recommending, promoting, or endorsing education loans.
 
 #### (ii) Contents of reports
 

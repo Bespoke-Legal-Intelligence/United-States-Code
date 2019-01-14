@@ -28,9 +28,169 @@ Program Components.—The program established under subsection (a) shall include
 
 (Added Pub. L. 111–383, div. A, title VIII, §805(a)(1), Jan. 7, 2011, 124 Stat. 4259.)
 
+#### Implementation of Recommendations of the Final Report of the Defense Science Board Task Force on the Design and Acquisition of Software for Defense Systems
+
+Pub. L. 115–232, div. A, title VIII, §868, Aug. 13, 2018, 132 Stat. 1902, provided that:
+
+"(a)
+
+Implementation Required.—Not later than 18 months after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall, except as provided under subsection (b), commence implementation of each recommendation submitted as part of the final report of the Defense Science Board Task Force on the Design and Acquisition of Software for Defense Systems.
+
+"(b)
+
+Exceptions.—
+
+&emsp;"(1)
+
+Delayed implementation.—The Secretary of Defense may commence implementation of a recommendation described under subsection (a) later than the date required under such subsection if the Secretary provides the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] with a specific justification for the delay in implementation of such recommendation.
+
+&emsp;"(2)
+
+Nonimplementation.—The Secretary of Defense may opt not to implement a recommendation described under subsection (a) if the Secretary provides to the congressional defense committees—
+
+&emsp;&emsp;"(A) the reasons for the decision not to implement the recommendation; and
+
+&emsp;&emsp;"(B) a summary of the alternative actions the Secretary plans to take to address the purposes underlying the recommendation.
+
+"(c)
+
+Implementation Plans.—For each recommendation that the Secretary is implementing, or that the Secretary plans to implement, the Secretary shall submit to the congressional defense committees—
+
+&emsp;"(1) a summary of actions that have been taken to implement the recommendation; and
+
+&emsp;"(2) a schedule, with specific milestones, for completing the implementation of the recommendation."
+
+#### Activities and Reporting Relating to Department of Defense's Cloud Initiative
+
+Pub. L. 115–232, div. A, title X, §1064, Aug. 13, 2018, 132 Stat. 1971, provided that:
+
+"(a)
+
+Activities Required.—Commencing not later than 90 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Chief Information Officer of the Department of Defense, acting through the Cloud Executive Steering Group established by the Deputy Secretary of Defense in a directive memorandum dated September 13, 2017, in order to support its Joint Enterprise Defense Infrastructure initiative to procure commercial cloud services, shall conduct certain key enabling activities as follows:
+
+&emsp;"(1) Develop an approach to rapidly acquire advanced commercial network capabilities, including software-defined networking, on-demand bandwidth, and aggregated cloud access gateways, through commercial service providers in order—
+
+&emsp;&emsp;"(A) to support the migration of applications and systems to commercial cloud platforms;
+
+&emsp;&emsp;"(B) to increase visibility of end-to-end performance to enable and enforce service level agreements for cloud services;
+
+&emsp;&emsp;"(C) to ensure efficient and common cloud access;
+
+&emsp;&emsp;"(D) to facilitate shifting data and applications from one cloud platform to another;
+
+&emsp;&emsp;"(E) to improve cybersecurity; and
+
+&emsp;&emsp;"(F) to consolidate networks and achieve efficiencies and improved performance;
+
+&emsp;"(2) Conduct an analysis of existing workloads that would be migrated to the Joint Enterprise Defense Infrastructure, including—
+
+&emsp;&emsp;"(A) identifying all of the cloud initiatives across the Department of Defense, and determining the objectives of such initiatives in connection with the intended scope of the Infrastructure;
+
+&emsp;&emsp;"(B) identifying all the systems and applications that the Department would intend to migrate to the Infrastructure;
+
+&emsp;&emsp;"(C) conducting rationalization of applications to identify applications and systems that may duplicate the processing of workloads in connection with the Infrastructure; and
+
+&emsp;&emsp;"(D) as result of such actions, arriving at dispositions about migration or termination of systems and applications in connection with the Infrastructure.
+
+"(b)
+
+Report Required.—The Chief Information Officer shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the Department of Defense's Cloud Initiative to manage networks, data centers, and clouds at the enterprise level. Such report shall include each of the following:
+
+&emsp;"(1) A description \[of\] the status of completion of the activities required under subsection (a).
+
+&emsp;"(2) Information relating to the current composition of the Cloud Executive Steering Group and the stakeholders relating to the Department of Defense's Cloud Initiative and associated mission, objectives, goals, and strategy.
+
+&emsp;"(3) A description of the characteristics and considerations for accelerating the cloud architecture and services required for a global, resilient, and secure information environment.
+
+&emsp;"(4) Information relating to acquisition strategies and timeline for efforts associated with the Department of Defense's Cloud Initiative, including the Joint Enterprise Defense Infrastructure.
+
+&emsp;"(5) A description of how the acquisition strategies referred to in paragraph (4) provides \[sic\] for a full and open competition, enable the Department of Defense to continuously leverage and acquire new cloud computing capabilities, maintain the ability of the Department to leverage other cloud computing vendor products and services, incorporate elements to maintain security, and provide for the best performance, cost, and schedule to meet the cloud architecture and services requirements of the Department for the duration of such contract.
+
+&emsp;"(6) A detailed description of existing workloads that will be migrated to enterprise-wide cloud infrastructure or platforms as a result of the Department of Defense's Cloud Initiative, including estimated migration costs and timelines, based on the analysis required under subsection (a)(2).
+
+&emsp;"(7) A description of the program management and program office of the Department of Defense's Cloud Initiative, including the number of personnel, overhead costs, and organizational structure.
+
+&emsp;"(8) A description of the effect of the Joint Enterprise Defense Infrastructure on and the relationship of such Infrastructure to existing cloud computing infrastructure, platform, and service contracts across the Department of Defense, specifically the effect and relationship to the private cloud infrastructure of the Department, MilCloud 2.0 run by the Defense Information Systems Agency based on the analysis required under subsection (a)(2).
+
+&emsp;"(9) Information relating to the most recent Department of Defense Cloud Computing Strategy and description of any initiatives to update such Strategy.
+
+&emsp;"(10) Information relating to Department of Defense guidance pertaining to cloud computing capability or platform acquisition and standards, and a description of any initiatives to update such guidance.
+
+&emsp;"(11) Any other matters the Secretary of Defense determines relevant.
+
+"(c)
+
+Limitation on Use of Funds.—Of the amounts authorized to be appropriated or otherwise made available by this Act \[see Tables for classification\] for fiscalyear 2019 for the Department of Defense's Cloud Initiative, not more than 85 percent may be obligated or expended until the Secretary of Defense submits to the congressional defense committees the report required by subsection (b).
+
+"(d)
+
+Limitation on New Systems and Applications.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), the Deputy Secretary shall require that no new system or application will be approved for development or modernization without an assessment that such system or application is already, or can and would be, cloud-hosted.
+
+&emsp;"(2)
+
+Waiver.—The Deputy Secretary may issue a national waiver to the requirement under paragraph (1) if the Deputy Secretary determines, pursuant to the assessment described in such paragraph, that the requirement would adversely affect the national security of the United States. If the Deputy Secretary issues a waiver under this paragraph, the Deputy Secretary shall provide to the congressional defense committees a written notification of such waiver, justification for the waiver, and identification of the system or application to which the waiver applies by not later than 15 days after the date on which the waiver is issued.
+
+"(e)
+
+Transparency and Competition.—The Deputy Secretary shall ensure that the acquisition approach of the Department continues to follow the Federal Acquisition Regulation with respect to competition."
+
 #### Pilot Program To Use Agile or Iterative Development Methods To Tailor Major Software-Intensive Warfighting Systems and Defense Business Systems
 
-Pub. L. 115–91, div. A, title VIII, §873, Dec. 12, 2017, 131 Stat. 1498, provided that:
+Pub. L. 115–232, div. A, title VIII, §869(a)–(d), Aug. 13, 2018, 132 Stat. 1902, 1903, provided that:
+
+"(a)
+
+In General.—Not later than 30 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall include the following systems in the pilot program to use agile or iterative development methods pursuant to section 873 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2223a note):
+
+&emsp;"(1) Defense Retired and Annuitant Pay System 2 (DRAS2), Defense Logistics Agency.
+
+&emsp;"(2) Army Integrated Air and Missile Defense (AIAMD), Army.
+
+&emsp;"(3) Army Contract Writing System (ACWS), Army.
+
+&emsp;"(4) Defense Enterprise Accounting and Management System (DEAMS) Inc2, Air Force.
+
+&emsp;"(5) Item Master, Air Force.
+
+"(b)
+
+Additions to List.—Not later than 30 days after the date of the enactment of this Act, the Secretary of Defense shall identify three additional systems for participation in the pilot program pursuant to section 873 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2223a note) and notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the additions.
+
+"(c)
+
+Community of Practice Advising on Agile or Iterative Development.—The Under Secretary of Defense for Acquisition and Sustainment shall establish a Community of Practice on agile or iterative methods so that programs that have been incorporating agile or iterative methods can share with programs participating in the pilot the lessons learned, best practices, and recommendations for improvements to acquisition and supporting processes. The Service Acquisition Executives of the military departments shall send representation from the following programs, which have reported using agile or iterative methods:
+
+&emsp;"(1) Air and Space Operations Center (AOC).
+
+&emsp;"(2) Command Control Battle Management and Communications (C2BMC).
+
+&emsp;"(3) The family of Distributed Common Ground Systems.
+
+&emsp;"(4) The family of Global Command and Control Systems.
+
+&emsp;"(5) Navy Personnel and Pay (NP2).
+
+&emsp;"(6) Other programs and activities as appropriate.
+
+"(d)
+
+Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall report to the congressional defense committees on the status of the pilot program and each system participating in the pilot. The report shall include the following elements:
+
+&emsp;"(1) A description of how cost and schedule estimates in support of the program are being conducted and using what methods.
+
+&emsp;"(2) The contracting strategy and types of contracts that will be used in executing the program.
+
+&emsp;"(3) A description of how intellectual property ownership issues associated with software applications developed with agile or iterative methods will be addressed to ensure future sustainment, maintenance, and upgrades to software applications after the applications are fielded.
+
+&emsp;"(4) A description of the tools and software applications that are expected to be developed for the program and the costs and cost categories associated with each.
+
+&emsp;"(5) A description of challenges the program has faced in realigning the program to use agile or iterative methods."
+
+Pub. L. 115–91, div. A, title VIII, §873, Dec. 12, 2017, 131 Stat. 1498, as amended by Pub. L. 115–232, div. A, title VIII, §869(e), Aug. 13, 2018, 132 Stat. 1903, provided that:
 
 "(a)
 
@@ -54,13 +214,13 @@ Selection of systems for pilot program.—
 
 &emsp;&emsp;&emsp;"(ii) For defense business systems, not fewer than two systems and not greater than eight systems.
 
-&emsp;&emsp;"(B) In selecting systems for participation, the Secretary shall prioritize systems as follows:
+&emsp;&emsp;"(B) In selecting systems or subsystems for participation, the Secretary shall prioritize systems as follows:
 
 &emsp;&emsp;&emsp;"(i) For major software-intensive warfighting systems, systems that—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) have identified software development as a high risk;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) have experienced cost growth and schedule delay; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) have experienced cost growth and schedule delay; or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) did not deliver any operational capability within the prior calendar year.
 
@@ -68,7 +228,7 @@ Selection of systems for pilot program.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) have experienced cost growth and schedule delay;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) did not deliver any operational capability within the prior calendar year; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) did not deliver any operational capability within the prior calendar year; or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) are underperforming other systems within a defense business system portfolio with similar user requirements.
 
@@ -392,31 +552,7 @@ Rule of Construction.—Nothing in this section shall be construed to alter or a
 
 #### Competition in Connection With Department of Defense Tactical Data Link Systems
 
-Pub. L. 112–239, div. A, title IX, §934, Jan. 2, 2013, 126 Stat. 1885, as amended by Pub. L. 113–66, div. A, title IX, §931, Dec. 26, 2013, 127 Stat. 829, provided that:
-
-"(a)
-
-Competition in Connection With Tactical Data Link Systems.—Not later than December 1, 2013, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall—
-
-&emsp;"(1) develop an inventory of all tactical data link systems in use and in development in the Department of Defense, including interfaces and waveforms and an assessment of vulnerabilities to such systems in anti-access or area-denial environments;
-
-&emsp;"(2) conduct an analysis of each data link system contained in the inventory under paragraph (1) to determine whether—
-
-&emsp;&emsp;"(A) the upgrade, new deployment, or replacement of such system should be open to competition; or
-
-&emsp;&emsp;"(B) the data link should be converted to an open architecture, or a different data link standard should be adopted to enable such competition;
-
-&emsp;"(3) for each data link system for which competition is determined advisable under subparagraph (A) or (B) of paragraph (2), develop a plan to achieve such competition, including a plan to address any policy, legal, programmatic, or technical barriers to such competition; and
-
-&emsp;"(4) for each data link system for which competition is determined not advisable under paragraph (2), prepare an explanation for such determination.
-
-"(b)
-
-Earlier Actions.—If the Under Secretary completes any portion of the plan described in subsection (a)(3) before December 1, 2013, the Secretary may commence action on such portion of the plan upon completion of such portion, including publication of such portion of the plan.
-
-"(c)
-
-Report.—At the same time the budget of the President for fiscal year 2015 is submitted to Congress pursuant to section 1105(a) of title 31, United States Code, the Under Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the plans described in paragraph (3) of subsection (a), including any explanation prepared under paragraph (4) of such subsection."
+Pub. L. 112–239, div. A, title IX, §934, Jan. 2, 2013, 126 Stat. 1885, as amended by Pub. L. 113–66, div. A, title IX, §931, Dec. 26, 2013, 127 Stat. 829, which provided that the upgrade, new deployment, or replacement of defense tactical data link systems should be open to competition, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(1), Aug. 13, 2018, 132 Stat. 1847.
 
 #### Data Servers and Centers
 
@@ -444,7 +580,7 @@ Requirements for approvals.—
 
 &emsp;&emsp;"(A)
 
-Before performance plan.—An approval of the obligation of funds may not be granted under paragraph (1)(A) unless the official granting the approval determines, in writing, that existing resources of the agency, component, or element concerned cannot affordably or practically be used or modified to meet the requirements to be met through the obligation of funds.
+Before performance plan.—An approval of the obligation of funds may not be granted underparagraph (1)(A) unless the official granting the approval determines, in writing, that existing resources of the agency, component, or element concerned cannot affordably or practically be used or modified to meet the requirements to be met through the obligation of funds.
 
 &emsp;&emsp;"(B)
 
@@ -566,7 +702,7 @@ Reports.—
 
 &emsp;"(1)
 
-Reports required.—Not later than 240 days after the date of the enactment of this Act \[Jan. 7, 2011\], and annually thereafter at or about the time of the submittal to Congress of the budget of the President for a fiscal year (as submitted pursuant to section 1105(a) of title 31, United States Code), the Secretary of Defense shall, in coordination with the Secretary of Homeland Security, submit to Congress areport on any demonstration projects carried out under subsection (a), and on the pilot projects carried out under subsection (b), during the preceding year.
+Reports required.—Not later than 240 days after the date of the enactment of this Act \[Jan. 7, 2011\], and annually thereafter at or about the time of the submittal to Congress of the budget of the President for a fiscal year (as submitted pursuant to section 1105(a) of title 31, United States Code), the Secretary of Defense shall, in coordination with the Secretary of Homeland Security, submit to Congress a report on any demonstration projects carried out under subsection (a), and on the pilot projects carried out under subsection (b), during the preceding year.
 
 &emsp;"(2)
 
@@ -606,37 +742,7 @@ Form.—Each report under this subsection shall be submitted in unclassified for
 
 #### Implementation of New Acquisition Process for Information Technology Systems
 
-Pub. L. 111–84, div. A, title VIII, §804, Oct. 28, 2009, 123 Stat. 2402, provided that:
-
-"(a)
-
-New Acquisition Process Required.—The Secretary of Defense shall develop and implement a new acquisition process for information technology systems. The acquisition process developed and implemented pursuant to this subsection shall, to the extent determined appropriate by the Secretary—
-
-&emsp;"(1) be based on the recommendations in chapter 6 of the March 2009 report of the Defense Science Board Task Force on Department of Defense Policies and Procedures for the Acquisition of Information Technology; and
-
-&emsp;"(2) be designed to include—
-
-&emsp;&emsp;"(A) early and continual involvement of the user;
-
-&emsp;&emsp;"(B) multiple, rapidly executed increments or releases of capability;
-
-&emsp;&emsp;"(C) early, successive prototyping to support an evolutionary approach; and
-
-&emsp;&emsp;"(D) a modular, open-systems approach.
-
-"(b)
-
-Report to Congress.—Not later than 270 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the new acquisition process developed pursuant to subsection (a). The report required by this subsection shall, at a minimum—
-
-&emsp;"(1) describe the new acquisition process;
-
-&emsp;"(2) provide an explanation for any decision by the Secretary to deviate from the criteria established for such process in paragraphs (1) and (2) of subsection (a);
-
-&emsp;"(3) provide a schedule for the implementation of the new acquisition process;
-
-&emsp;"(4) identify the categories of information technology acquisitions to which such process will apply; and
-
-&emsp;"(5) include the Secretary's recommendations for any legislation that may be required to implement the new acquisition process."
+Pub. L. 111–84, div. A, title VIII, §804, Oct. 28, 2009, 123 Stat. 2402, which provided for development and implementation of a new acquisition process for information technology systems, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(2), Aug. 13, 2018, 132 Stat. 1848.
 
 #### Clearinghouse for Rapid Identification and Dissemination of Commercial Information Technologies
 

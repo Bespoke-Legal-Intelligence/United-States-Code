@@ -1,6 +1,0 @@
-### §3797e. Omitted
-
-#### Codification
-
-Section, Pub. L. 90–351, title I, §2705, as added Pub. L. 106–386, div. B, title I, §1108(b), Oct. 28, 2000, 114 Stat. 1502; amended Pub. L. 109–162, title XI, §1169(a), Jan. 5, 2006, 119 Stat. 3122, which authorized appropriations for fiscal years 2001 through 2009, was omitted as obsolete.
-

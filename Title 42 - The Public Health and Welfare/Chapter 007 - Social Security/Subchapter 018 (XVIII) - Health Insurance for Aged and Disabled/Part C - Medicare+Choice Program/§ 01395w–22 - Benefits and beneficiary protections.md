@@ -12,11 +12,11 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this part, the term "benefits under the original medicare fee-for-service program option" means those items and services (other than hospice care or coverage for organ acquisitions for kidney transplants, including as covered under section 1395rr(d) of this title) for which benefits are available under parts A and B to individuals entitled to benefits under part A and enrolled under part B, with cost-sharing for those services as required under parts A and B or, subject to clause (iii), an actuarially equivalent level of cost-sharing as determined in this part.
+&emsp;&emsp;&emsp;For purposes of this part, the term "benefits under the original medicare fee-for-service program option" means, subject to subsection (m), those items and services (other than hospice care or coverage for organ acquisitions for kidney transplants, including as covered under section 1395rr(d) of this title) for which benefits are available under parts A and B to individuals entitled to benefits under part A and enrolled under part B, with cost-sharing for those services as required under parts A and B or, subject to clause (iii), an actuarially equivalent level of cost-sharing as determined in this part.
 
 #### (ii) Special rule for regional plans
 
-&emsp;&emsp;&emsp;In the case of an MA regional plan in determining an actuarially equivalent level of cost-sharing with respect to benefits under the original medicare fee-for-service program option, there shall only be taken into account, with respect to the application of section 1395w–27a(b)(2) of this title, such expenses only with respect to subparagraph (A) of such section.
+&emsp;&emsp;&emsp;In the case of an MA regional plan in determining an actuarially equivalent level of cost-sharing with respect to benefits under the original medicare fee-for-service program option, there shall only be takeninto account, with respect to the application of section 1395w–27a(b)(2) of this title, such expenses only with respect to subparagraph (A) of such section.
 
 #### (iii) Limitation on variation of cost sharing for certain benefits
 
@@ -64,7 +64,7 @@
 
 #### (A) Benefits included subject to Secretary's approval
 
-&emsp;&emsp;Each Medicare+Choice organization may provide to individuals enrolled under this part, other than under an MSA plan (without affording those individuals an option to decline the coverage), supplemental health care benefits that the Secretary may approve. The Secretary shall approve any such supplemental benefits unless the Secretary determines that including such supplemental benefits would substantially discourage enrollment by Medicare+Choice eligible individuals with the organization.
+&emsp;&emsp;Subject to subparagraph (D), each Medicare+Choice organization may provide to individuals enrolled under this part, other than under an MSA plan (without affording those individuals an option to decline the coverage), supplemental health care benefits that the Secretary may approve. The Secretary shall approve any such supplemental benefits unless the Secretary determines that including such supplemental benefits would substantially discourage enrollment by Medicare+Choice eligible individuals with the organization.
 
 #### (B) At enrollees' option
 
@@ -79,6 +79,32 @@
 #### (C) Application to Medicare+Choice private fee-for-service plans
 
 &emsp;&emsp;Nothing in this paragraph shall be construed as preventing a Medicare+Choice private fee-for-service plan from offering supplemental benefits that include payment for some or all of the balance billing amounts permitted consistent with subsection (k) and coverage of additional services that the plan finds to be medically necessary. Such benefits may include reductions in cost-sharing below the actuarial value specified in section 1395w–24(e)(4)(B) of this title.
+
+#### (D) Expanding supplemental benefits to meet the needs of chronically ill enrollees
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For plan year 2020 and subsequent plan years, in addition to any supplemental health care benefits otherwise provided under this paragraph, an MA plan, including a specialized MA plan for special needs individuals (as defined in section 1395w–28(b)(6) of this title), may provide supplemental benefits described in clause (ii) to a chronically ill enrollee (as defined in clause (iii)).
+
+#### (ii) Supplemental benefits described
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Supplemental benefits described in this clause are supplemental benefitsthat, with respect to a chronically ill enrollee, have a reasonable expectation of improving or maintaining the health or overall function of the chronically ill enrollee and may not be limited to being primarily health related benefits.
+
+#### (II) Authority to waive uniformity requirements
+
+&emsp;&emsp;&emsp;&emsp;The Secretary may, only with respect to supplemental benefits provided to a chronically ill enrollee under this subparagraph, waive the uniformity requirements under this part, as determined appropriate by the Secretary.
+
+#### (iii) Chronically ill enrollee defined
+
+&emsp;&emsp;&emsp;In this subparagraph, the term "chronically ill enrollee" means an enrollee in an MA plan that the Secretary determines—
+
+&emsp;&emsp;&emsp;&emsp;(I) has one or more comorbid and medically complex chronic conditions that is life threatening or significantly limits the overall health or function of the enrollee;
+
+&emsp;&emsp;&emsp;&emsp;(II) has a high risk of hospitalization or other adverse health outcomes; and
+
+&emsp;&emsp;&emsp;&emsp;(III) requires intensive care coordination.
 
 #### (4) Organization as secondary payer
 
@@ -114,7 +140,7 @@
 
 #### (2) Providers
 
-&emsp;A Medicare+Choice organization shall not discriminate with respect to participation, reimbursement, or indemnification as to any provider who is acting within the scope of the provider's license or certification under applicable State law, solely on the basis of such license or certification. This paragraph shall not be construed to prohibit a plan from including providers only to the extent necessary to meet the needs of the plan's enrollees or from establishing any measure designed to maintain quality and control costs consistent with the responsibilities of the plan.
+&emsp;A Medicare+Choice organization shall not discriminate with respect to participation, reimbursement, or indemnification as to any provider who is acting within the scope of the provider's license or certification under applicable State law, solely on the basis of such license or certification. This paragraph shall not be construed to prohibit a plan from including providers only to the extent necessary to meet the needs of the plan's enrollees or from establishing any measure designed tomaintain quality and control costs consistent with the responsibilities of the plan.
 
 #### (c) Disclosure requirements
 
@@ -206,7 +232,7 @@
 
 #### (2) Guidelines respecting coordination of post-stabilization care
 
-&emsp;A Medicare+Choice plan shall comply with such guidelines as the Secretary may prescribe relating to promoting efficient and timely coordination of appropriate maintenance and post-stabilization care of an enrollee after the enrollee has been determined to be stable under section 1395dd of this title.
+&emsp;A Medicare+Choice plan shall comply with such guidelines as the Secretary may prescribe relating to promoting efficient andtimely coordination of appropriate maintenance and post-stabilization care of an enrollee after the enrollee has been determined to be stable under section 1395dd of this title.
 
 #### (3) "Emergency services" defined
 
@@ -268,7 +294,7 @@
 
 #### (6) Requirement of all employer Medicare Advantage private fee-for-service plans to use contracts with providers
 
-&emsp;For plan year 2011 and subsequent plan years, in the case of a Medicare Advantage private fee-for-service plan that is described in paragraph (1) or (2) of section 1395w–27(i) of this title, the plan shall meet the access standards under paragraph (4) only through entering into written contracts as provided for under subparagraph (B) of such paragraph and not, in whole or in part, through the establishment of payment rates meeting the requirements under subparagraph (A) of such paragraph.
+&emsp;For plan year 2011 and subsequent plan years, in the case of a Medicare Advantage private fee-for-service plan that is described in paragraph (1) or (2) of section 1395w–27(i) of this title, the plan shall meet the access standards under paragraph (4) only throughentering into written contracts as provided for under subparagraph (B) of such paragraph and not, in whole or in part, through the establishment of payment rates meeting the requirements under subparagraph (A) of such paragraph.
 
 #### (e) Quality improvement program
 
@@ -402,7 +428,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (iii) Timely response
 
-&emsp;&emsp;&emsp;In cases described in clauses (i) and (ii), the organization shall notify the enrollee (and the physician involved, as appropriate) of the determination or reconsideration under time limitations established by the Secretary, but not later than 72 hours of the time of receipt of the request for the determination or reconsideration (or receipt of the information necessary to make the determination or reconsideration), or such longer period as the Secretary may permit in specified cases.
+&emsp;&emsp;&emsp;In cases described in clauses (i) and (ii), the organization shall notify the enrollee (and the physician involved, as appropriate) of the determination or reconsideration under time limitations established by the Secretary, but not later than 72 hours of the time of receipt of the requestfor the determination or reconsideration (or receipt of the information necessary to make the determination or reconsideration), or such longer period as the Secretary may permit in specified cases.
 
 #### (4) Independent review of certain coverage denials
 
@@ -528,7 +554,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), a physician or other entity (other than a provider of services) that does not have a contract establishing payment amounts for services furnished to an individual enrolled under this part with a Medicare+Choice organization described in section 1395w–21(a)(2)(A) of this title or with an organization offering an MSA plan shall accept as payment in full for covered services under this subchapter that are furnished to such an individual the amounts that the physician or other entity could collect if the individual were not so enrolled. Any penalty or other provision of law that applies to such a payment with respect to an individual entitled to benefits under this subchapter (but not enrolled with a Medicare+Choice organization under this part) also applies with respect to an individual so enrolled.
+&emsp;Except as provided in paragraph (2), a physician or other entity (other than a provider ofservices) that does not have a contract establishing payment amounts for services furnished to an individual enrolled under this part with a Medicare+Choice organization described in section 1395w–21(a)(2)(A) of this title or with an organization offering an MSA plan shall accept as payment in full for covered services under this subchapter that are furnished to such an individual the amounts that the physician or other entity could collect if the individual were not so enrolled. Any penalty or other provision of law that applies to such a payment with respect to an individual entitled to benefits under this subchapter (but not enrolled with a Medicare+Choice organization under this part) also applies with respect to an individual so enrolled.
 
 #### (2) Application to Medicare+Choice private fee-for-service plans
 
@@ -562,7 +588,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (ii) Advance notice before receipt of inpatient hospital services and certain other services
 
-&emsp;&emsp;&emsp;In addition, such organization shall, in its terms and conditions of payments to hospitals for inpatient hospital servicesand for other services identified by the Secretary for which the amount of the balance billing under subparagraph (A) could be substantial, require the hospital to provide to the enrollee, before furnishing such services and if the hospital imposes balance billing under subparagraph (A)—
+&emsp;&emsp;&emsp;In addition, such organization shall, in its terms and conditions of payments to hospitals for inpatient hospital services and for other services identified by the Secretary for which the amount of the balance billing under subparagraph (A) could be substantial, require the hospital to provide to the enrollee, before furnishing such services and if the hospital imposes balance billing under subparagraph (A)—
 
 &emsp;&emsp;&emsp;&emsp;(I) notice of the fact that balance billing is permitted under such subparagraph for such services, and
 
@@ -590,7 +616,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (2) No less favorable coverage
 
-&emsp;The coverage provided under paragraph (1) (including scope of services, cost-sharing, and other criteria of coverage) shall be no less favorable to the enrollee than the coverage that would be provided to the enrollee with respect to a skilled nursing facility the post-hospital extended care services of which are otherwise covered under the Medicare+Choice plan.
+&emsp;The coverage provided under paragraph (1) (including scope of services, cost-sharing, and other criteria of coverage) shall be no less favorable to the enrollee than the coverage that would be provided to the enrollee with respectto a skilled nursing facility the post-hospital extended care services of which are otherwise covered under the Medicare+Choice plan.
 
 #### (3) Rule of construction
 
@@ -624,7 +650,75 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 &emsp;&emsp;The term "continuing care retirement community" means, with respect to an enrollee in a Medicare+Choice plan, an arrangement under which housing and health-related services are provided (or arranged) through an organization for the enrollee under an agreement that is effective for the life of the enrollee or for a specified period.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 286; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(B), title V, §§518, 520(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title V, §521(b), title VI, §§611(b), 615, 616, 621(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543, 2763A–560, 2763A–561, 2763A–564; Pub. L. 108–173, title I, §102(b), title II, §§211(j), 221(d)(3), 222(a)(2), (3), (h), (l)(1), 233(a)(1), (2), (c), title VII, §722(a), (b), title IX, §§900(e)(1)(F), 940(b)(2)(A), 948(b)(2), Dec. 8, 2003, 117 Stat. 2153, 2180, 2193, 2195, 2196, 2204, 2206, 2209, 2347, 2348, 2371, 2417, 2426; Pub. L. 110–275, title I, §§125(b)(6), 162(a)(1)–(3)(A), 163(a), (b), 164(f)(1), 165(a), July 15, 2008, 122 Stat. 2519, 2569–2571, 2574, 2575; Pub. L. 111–148, title III, §3202(a)(1), Mar. 23, 2010, 124 Stat. 454; Pub. L. 114–255, div. C, title XVII, §17006(a)(2)(A), (c)(1), Dec. 13, 2016, 130 Stat. 1334, 1335.)
+#### (m) Provision of additional telehealth benefits
+
+#### (1) MA plan option
+
+&emsp;For plan year 2020 and subsequent plan years, subject to the requirements of paragraph (3), an MA plan may provide additional telehealth benefits (as defined in paragraph (2)) to individuals enrolled under this part.
+
+#### (2) Additional telehealth benefits defined
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this subsection and section 1395w–24 of this title:
+
+#### (i) Definition
+
+&emsp;&emsp;&emsp;The term "additional telehealth benefits" means services—
+
+&emsp;&emsp;&emsp;&emsp;(I) for which benefits are available under part B, including services for which payment is not made under section 1395m(m) of this title due to the conditions for payment under such section; and
+
+&emsp;&emsp;&emsp;&emsp;(II) that are identified for such year as clinically appropriate to furnish using electronic information and telecommunications technology when a physician (as defined in section 1395x(r) of this title) or practitioner (described in section 1395u(b)(18)(C) of this title) providing the service is not at the same location as the plan enrollee.
+
+#### (ii) Exclusion of capital and infrastructure costs and investments
+
+&emsp;&emsp;&emsp;The term "additional telehealth benefits" does not include capital and infrastructure costs and investments relating to such benefits.
+
+#### (B) Public comment
+
+&emsp;&emsp;Not later than November 30, 2018, the Secretary shall solicit comments on—
+
+&emsp;&emsp;&emsp;(i) what types of items and services (including those provided through supplemental health care benefits, such as remote patient monitoring, secure messaging, store and forward technologies, and other non-face-to-face communication) should be considered to be additional telehealth benefits; and
+
+&emsp;&emsp;&emsp;(ii) the requirements for the provision or furnishing of such benefits (such as training and coordination requirements).
+
+#### (3) Requirements for additional telehealth benefits
+
+&emsp;The Secretary shall specify requirements for the provision or furnishing of additional telehealth benefits, including with respect to the following:
+
+&emsp;&emsp;(A) Physician or practitioner qualifications (other than licensure) and other requirements such as specific training.
+
+&emsp;&emsp;(B) Factors necessary for the coordination of such benefits with other items and services including those furnished in-person.
+
+&emsp;&emsp;(C) Such other areas as determined by the Secretary.
+
+#### (4) Enrollee choice
+
+&emsp;If an MA plan provides a service as an additional telehealth benefit (as defined in paragraph (2))—
+
+&emsp;&emsp;(A) the MA plan shall also provide access to such benefit through an in-person visit (and not only as an additional telehealth benefit); and
+
+&emsp;&emsp;(B) an individual enrollee shall have discretion as to whether to receive such service through the in-person visit or as an additional telehealth benefit.
+
+#### (5) Treatment under MA
+
+&emsp;For purposes of this subsection and section 1395w–24 of this title, if a plan provides additional telehealth benefits, such additional telehealth benefits shall be treated as if they were benefits under the original Medicare fee-for-service program option.
+
+#### (6) Construction
+
+&emsp;Nothing in this subsection shall be construed as affecting the requirement under subsection (a)(1) that MA plans provide enrollees with items and services (other than hospice care) for which benefits are available under parts A and B, including benefits available under section 1395m(m) of this title.
+
+#### (n) Provision of information relating to the safe disposal of certain prescription drugs
+
+#### (1) In general
+
+&emsp;In the case of an individual enrolled under an MA or MA–PD plan who is furnished an in-home health risk assessment on or after January 1, 2021, such plan shall ensure that such assessment includes information on the safe disposal of prescription drugs that are controlled substances that meets the criteria established under paragraph (2). Such information shall include information on drug takeback programs that meet such requirements determined appropriate by the Secretary and information on in-home disposal.
+
+#### (2) Criteria
+
+&emsp;The Secretary shall, through rulemaking, establish criteria the Secretary determines appropriate with respect to information provided to an individual to ensure that such information sufficiently educates such individual on the safe disposal of prescription drugs that are controlled substances.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 286; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(B), title V, §§518, 520(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title V, §521(b), title VI, §§611(b), 615, 616, 621(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543, 2763A–560, 2763A–561, 2763A–564; Pub. L. 108–173, title I, §102(b), title II, §§211(j), 221(d)(3), 222(a)(2), (3), (h), (l)(1), 233(a)(1), (2), (c), title VII, §722(a), (b), title IX, §§900(e)(1)(F), 940(b)(2)(A), 948(b)(2), Dec. 8, 2003, 117 Stat. 2153, 2180, 2193, 2195, 2196, 2204, 2206, 2209, 2347, 2348, 2371, 2417, 2426; Pub. L. 110–275, title I, §§125(b)(6), 162(a)(1)–(3)(A), 163(a), (b), 164(f)(1), 165(a), July 15, 2008, 122 Stat. 2519, 2569–2571, 2574, 2575; Pub. L. 111–148, title III, §3202(a)(1), Mar. 23, 2010, 124 Stat. 454; Pub. L. 114–255, div. C, title XVII, §17006(a)(2)(A), (c)(1), Dec. 13, 2016, 130 Stat. 1334, 1335; Pub. L. 115–123, div. E, title III, §§50322(a), 50323(a), Feb. 9, 2018, 132 Stat. 201, 202; Pub. L. 115–271, title VI, §6103(a), Oct. 24, 2018, 132 Stat. 4005.)
 
 #### Applicability of Amendment
 
@@ -632,13 +726,23 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### References in Text
 
-Section 2702 of the Public Health Service Act, referred to in subsec. (b)(1), is section 2702 of act July 1,1944, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (d) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
+Section 2702 of the Public Health Service Act, referred to in subsec. (b)(1), is section 2702 of act July 1, 1944, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (b) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (j)(3)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 Section 1395w–104(c)(2)(E) of this title, referred to in subsec. (j)(7)(C), was redesignated section 1395w–104(c)(2)(G) of this title by Pub. L. 111–148, title X, §10328(a)(1), Mar. 23, 2010, 124 Stat. 964.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(B)(i). Pub. L. 115–123, §50323(a)(1), inserted ", subject to subsection (m)," after "means".
+
+Subsec. (a)(3)(A). Pub. L. 115–123, §50322(a)(1), substituted "Subject to subparagraph (D), each" for "Each".
+
+Subsec. (a)(3)(D). Pub. L. 115–123, §50322(a)(2), added subpar. (D).
+
+Subsec. (m). Pub. L. 115–123, §50323(a)(2), added subsec. (m).
+
+Subsec. (n). Pub. L. 115–271 added subsec. (n).
 
 <b>2016</b>—Subsec. (a)(1)(B)(i). Pub. L. 114–255, §17006(c)(1), inserted "or coverage for organ acquisitions for kidney transplants, including as covered under section 1395rr(d) of this title" after "hospice care".
 
@@ -662,7 +766,7 @@ Subsec. (e)(1). Pub. L. 110–275, §163(a), struck out "(other than an MA priva
 
 Subsec. (e)(3)(A)(i). Pub. L. 110–275, §163(b)(1), inserted at end "With respect to MA private fee-for-service plans and MSA plans, the requirements under the preceding sentence may not exceed the requirements under this subparagraph with respect to MA local plans that are preferred provider organization plans, except that, for plan year 2010, the limitation under clause (iii) shall not apply and such requirements shall apply only with respect to administrative claims data."
 
-Subsec. (e)(3)(A)(ii). Pub. L. 110–275, §§163(b)(2), 164(f)(1), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: "The Secretary shall establish as appropriate by regulation requirements for the collection, analysis, and reporting of data that permits the measurement of health outcomes and other indices of quality for MA organizations with respect to MA regional plans. Such requirements may not exceed the requirements under this subparagraph with respect to MA local plans that are preferred provider organization plans."
+Subsec. (e)(3)(A)(ii). Pub. L. 110–275, §§163(b)(2), 164(f)(1), added cl. (ii) and struck out former cl. (ii).Prior to amendment, text read as follows: "The Secretary shall establish as appropriate by regulation requirements for the collection, analysis, and reporting of data that permits the measurement of health outcomes and other indices of quality for MA organizations with respect to MA regional plans. Such requirements may not exceed the requirements under this subparagraph with respect to MA local plans that are preferred provider organization plans."
 
 Subsec. (e)(3)(A)(iii). Pub. L. 110–275, §163(b)(3), inserted "local" after "to" and "and MA regional plans" after "organizations" in heading and "and to MA regional plans" after "organization plans" in text.
 
@@ -778,7 +882,7 @@ Pub. L. 111–148, title III, §3202(a)(2), Mar. 23, 2010, 124 Stat. 454, provid
 
 #### Effective Date of 2008 Amendment
 
-Amendment by section 125(b)(6) of Pub. L. 110–275 applicable with respect to accreditations of hospitals granted on or after the date that is 24 months after July 15, 2008, with transition rule, see section 125(d) ofPub. L. 110–275, set out as an Effective Date of 2008 Amendment; Transition Rule note under section 1395bb of this title.
+Amendment by section 125(b)(6) of Pub. L. 110–275 applicable with respect to accreditations of hospitals granted on or after the date that is 24 months after July 15, 2008, with transition rule, see section 125(d) of Pub. L. 110–275, set out as an Effective Date of 2008 Amendment; Transition Rule note under section 1395bb of this title.
 
 Pub. L. 110–275, title I, §162(a)(3)(B), July 15, 2008, 122 Stat. 2571, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to plan year 2010 and subsequent plan years."
 

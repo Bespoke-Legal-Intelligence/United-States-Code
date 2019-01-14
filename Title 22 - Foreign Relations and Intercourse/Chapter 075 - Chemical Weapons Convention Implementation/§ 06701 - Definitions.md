@@ -40,7 +40,7 @@ In this chapter:
 
 #### (B) List of precursors
 
-&emsp;&emsp;Precursors which have been identified for the application of verification measuresunder Article VI of the Convention are listed in schedules contained in the Annex on Chemicals of the Chemical Weapons Convention.
+&emsp;&emsp;Precursors which have been identified for the application of verification measures under Article VI of the Convention are listed in schedules contained in the Annex on Chemicals of the Chemical Weapons Convention.
 
 #### (8) Purposes not prohibited by this chapter
 

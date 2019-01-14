@@ -44,7 +44,7 @@ In addition to the living allowance provided under subsection (a), program agenc
 
 #### (1) In general
 
-&emsp;The program agency may deduct, from amounts provided under subsection (a) to aparticipant, a reasonable portion of the costs of the rates for any room and board that is provided for such participant at a residential facility. Such deducted funds shall be deposited into rollover accounts that shall be used solely to defray the costs of room and board for participants.
+&emsp;The program agency may deduct, from amounts provided under subsection (a) to a participant, a reasonable portion of the costs of the rates for any room and board that is provided for such participant at a residential facility. Such deducted funds shall be deposited into rollover accounts that shall be used solely to defray the costs of room and board for participants.
 
 #### (2) Evaluation
 
@@ -62,7 +62,7 @@ In addition to the living allowance provided under subsection (a), program agenc
 
 #### (B) Secretary of Defense
 
-&emsp;&emsp;Whenever possible, the Corporation shall make arrangements with the Secretary of Defense to have logistical support provided by a military installation near the work site, including the provision of temporary tent centers where needed, and other supplies and equipment.
+&emsp;&emsp;Whenever possible, the Corporation shall make arrangements with the Secretary of Defense to have logistical support provided by a military installation near the worksite, including the provision of temporary tent centers where needed, and other supplies and equipment.
 
 #### (5) Health and safety standards
 

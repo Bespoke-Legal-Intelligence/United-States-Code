@@ -26,6 +26,7 @@
 - [&sect; 05159 - Protection of environment](%C2%A7%2005159%20-%20Protection%20of%20environment.md)
 - [&sect; 05160 - Recovery of assistance](%C2%A7%2005160%20-%20Recovery%20of%20assistance.md)
 - [&sect; 05161 - Audits and investigations](%C2%A7%2005161%20-%20Audits%20and%20investigations.md)
+- [&sect; 05161a - Audit of contracts](%C2%A7%2005161a%20-%20Audit%20of%20contracts.md)
 - [&sect; 05162 - Advance of non-Federal share](%C2%A7%2005162%20-%20Advance%20of%20non-Federal%20share.md)
 - [&sect; 05163 - Limitation on use of sliding scales](%C2%A7%2005163%20-%20Limitation%20on%20use%20of%20sliding%20scales.md)
 - [&sect; 05164 - Rules and regulations](%C2%A7%2005164%20-%20Rules%20and%20regulations.md)
@@ -36,3 +37,4 @@
 - [&sect; 05165d - Designation of Small State and Rural Advocate](%C2%A7%2005165d%20-%20Designation%20of%20Small%20State%20and%20Rural%20Advocate.md)
 - [&sect; 05165e - Integrated plan for administrative cost reduction](%C2%A7%2005165e%20-%20Integrated%20plan%20for%20administrative%20cost%20reduction.md)
 - [&sect; 05165f - National Urban Search and Rescue Response System](%C2%A7%2005165f%20-%20National%20Urban%20Search%20and%20Rescue%20Response%20System.md)
+- [&sect; 05165g - National veterinary emergency teams](%C2%A7%2005165g%20-%20National%20veterinary%20emergency%20teams.md)

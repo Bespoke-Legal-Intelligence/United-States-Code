@@ -56,7 +56,7 @@ Pub. L. 96–465, title II, §2403, Oct. 17, 1980, 94 Stat. 2169, as amended by 
 
 "(d)(1) Section 812 of this Act \[section 4052 of this title\], and the repeal of sections 631 and 632 of the Foreign Service Act of 1946 \[sections 1001 and 1002 of this title\] and section 625(k) of the Foreign Assistance Act of 1961 \[section 2385(k) of this title\], shall be effective as of the date of enactment of this Act \[Oct. 17, 1980\].
 
-"(2) For purposes of implementing section 2101 \[section 4151 of this title\], sections 402(a) and 403 \[sections 3962(a) and 3963 of this title\] shall be effective as of the date of enactment of this Act \[Oct. 17, 1980\].
+"(2) For purposes of implementing section 2101 \[section 4151 of this title\], sections 402(a) and 403 \[sections3962(a) and 3963 of this title\] shall be effective as of the date of enactment of this Act \[Oct. 17, 1980\].
 
 "(e)(1) The provisions of chapter 8 of title I \[subchapter VIII of this chapter\] regarding the rights of former spouses to any annuity under section 814(a) \[section 4054(a) of this title\] shall apply in the case of any individual who after the effective date of this Act becomes a former spouse of an individual who separates from the Service after such date.
 

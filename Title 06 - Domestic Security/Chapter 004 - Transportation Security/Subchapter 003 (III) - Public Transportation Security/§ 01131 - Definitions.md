@@ -30,7 +30,7 @@ For purposes of this subchapter, the following terms apply:
 
 #### Short Title
 
-For short title of this subchapter as the "National Transit Systems Security Act of 2007", see section 1401 of Pub. L. 110–53, set out as a note under section 1101 of this title.
+For short title of this subchapter as the "National Transit Systems Security Act of 2007", see section 1401of Pub. L. 110–53, set out as a note under section 1101 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "part".</i>
 

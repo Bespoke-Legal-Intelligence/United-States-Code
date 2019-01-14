@@ -1,6 +1,6 @@
 ### §2678. Feral horses and burros: removal from military installations
 
-When feral horses or burros are found on an installation under the jurisdiction of the Secretary of a military department, the Secretarymay use helicopters and motorized equipment for their removal.
+When feral horses or burros are found on an installation under the jurisdiction of the Secretary of a military department, the Secretary may use helicopters and motorized equipment for their removal.
 
 (Added Pub. L. 101–510, div. A, title XIV, §1481(h)(1), Nov. 5, 1990, 104 Stat. 1708.)
 

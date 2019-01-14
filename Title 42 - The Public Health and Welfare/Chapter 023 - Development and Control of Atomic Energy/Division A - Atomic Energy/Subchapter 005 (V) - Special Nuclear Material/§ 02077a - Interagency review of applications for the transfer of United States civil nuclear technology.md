@@ -6,7 +6,7 @@ Not less frequently than every 90 days, the Secretary of Energy shall submit to 
 
 &emsp;(1) a description of the authorizations under section 2077(b) of this title to transfer United States civil nuclear technology to a covered foreign country during the preceding 90 days; and
 
-&emsp;(2) a statement of whether any agency required to be consulted under that section or pursuant to regulation objected to or sought conditions on each such transfer.
+&emsp;(2) a statement of whether any agency required to be consulted under that section orpursuant to regulation objected to or sought conditions on each such transfer.
 
 #### (b) Determination of technologies to be protected
 
@@ -84,13 +84,15 @@ Not less frequently than annually, the Secretary of Energy shall submit to the a
 
 &emsp;The report required by paragraph (1) shall include—
 
-&emsp;&emsp;(A) the number of applications for authorization under section 2077(b) of this title to transfer United States civil nuclear technology to a foreign country submitted during the year preceding the submission of the report;
+&emsp;&emsp;(A) the number of applications for authorization under section 2077(b) of this title totransfer United States civil nuclear technology to a foreign country submitted during the year preceding the submission of the report;
 
 &emsp;&emsp;(B) the length of time each such application was under review;
 
-&emsp;&emsp;(C) the number of such applications that were granted; and
+&emsp;&emsp;(C) for each such application, an identification of any officer to which the authorization under such section 2077(b) of this title was delegated pursuant to section 2201(n) of this title;
 
-&emsp;&emsp;(D) a description of efforts to streamline the review of such applications, taking into account the proliferation and diversion potential of end-users in the country to which United States civil nuclear technology would be transferred pursuant to such applications.
+&emsp;&emsp;(D) the number of such applications that were granted; and
+
+&emsp;&emsp;(E) a description of efforts to streamline the review of such applications, taking into account the proliferation and diversion potential of end-users in the country to which United States civil nuclear technology would be transferred pursuant to such applications.
 
 #### (f) Notifications of potential diversions
 
@@ -136,11 +138,15 @@ In this section:
 
 &emsp;The term "covered foreign country" means a foreign country that is a nuclear-weapon state, as defined by Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons, signed at Washington, London, and Moscow July 1, 1968, but does not include the United States, the United Kingdom, or France.
 
-(Pub. L. 114–92, div. C, title XXXI, §3136, Nov. 25, 2015, 129 Stat. 1209.)
+(Pub. L. 114–92, div. C, title XXXI, §3136, Nov. 25, 2015, 129 Stat. 1209; Pub. L. 115–232, div. C, title XXXI, §3116(c), Aug. 13, 2018, 132 Stat. 2291.)
 
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2016, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (e)(2)(C) to (E). Pub. L. 115–232 added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
 #### "Congressional Defense Committees" Defined
 

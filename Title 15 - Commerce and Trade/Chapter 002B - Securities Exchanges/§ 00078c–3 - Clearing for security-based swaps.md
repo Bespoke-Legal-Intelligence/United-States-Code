@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(i) make available to the public any submission received under subparagraphs (A) and (B);
 
-&emsp;&emsp;(ii) review each submission made under subparagraphs (A) and (B), and determine whether the security-based swap, or group, category, type, or class of security-based swaps, described in the submission is required to be cleared; and
+&emsp;&emsp;(ii) review each submission made under subparagraphs (A) and (B), and determine whether the security-based swap, or group, category, type, or class of security-basedswaps, described in the submission is required to be cleared; and
 
 &emsp;&emsp;(iii) provide at least a 30-day public comment period regarding its determination whether the clearing requirement under subsection (a)(1) shall apply to the submission.
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(B) within 30 days issue a public report containing the results of the investigation; and
 
-&emsp;&emsp;(C) take such actions as the Commission determines to be necessary and in the public interest, which may include requiring the retaining of adequate margin or capital by parties to the security-based swap or the group, category, type, or class of security-based swaps.
+&emsp;&emsp;(C) take such actions as the Commission determines to be necessary and in the public interest, which may include requiring the retaining of adequate margin or capital by parties to the security-based swap or thegroup, category, type, or class of security-based swaps.
 
 #### (3) Effect on authority
 
@@ -320,7 +320,7 @@ Exemptions from the requirements of this section to clear a security-based swap 
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with rules prescribed by the Commission, the chief compliance officershall annually prepare and sign a report that contains a description of—
+&emsp;&emsp;In accordance with rules prescribed by the Commission, the chief compliance officer shall annually prepare and sign a report that contains a description of—
 
 &emsp;&emsp;&emsp;(i) the compliance of the registered clearing agency or security-based swap execution facility of the compliance officer with respect to this chapter (including regulations under this chapter); and
 

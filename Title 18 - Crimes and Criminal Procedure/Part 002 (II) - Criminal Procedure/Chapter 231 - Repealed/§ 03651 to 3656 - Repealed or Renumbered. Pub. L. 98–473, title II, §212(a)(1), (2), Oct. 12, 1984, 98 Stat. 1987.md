@@ -8,7 +8,7 @@ Section 3653, acts June 25, 1948, ch. 645, 62 Stat. 842; May 24, 1949, ch. 139, 
 
 Section 3654, acts June 25, 1948, ch. 645, 62 Stat. 843; Aug. 2, 1949, ch. 383, §2, 63 Stat. 491, related to appointment and removal of probation officers.
 
-Section 3655, acts June 25, 1948, ch. 645, 62 Stat. 843; Mar. 15, 1976, Pub. L. 94–233, §14, 90 Stat. 233; Oct. 12, 1984, Pub. L. 98–473, title II, §§235(a)(1), 238(d), (i), 98 Stat. 2031, 2038, 2039; Oct. 30, 1984, Pub. L. 98–596, §§5, 12(a)(4), (9), (b), 98 Stat. 3136, 3139, 3140, related to duties of probation officers.
+Section 3655, acts June 25, 1948, ch. 645, 62 Stat. 843; Mar. 15, 1976, Pub. L. 94–233, §14, 90 Stat. 233; Oct. 12,1984, Pub. L. 98–473, title II, §§235(a)(1), 238(d), (i), 98 Stat. 2031, 2038, 2039; Oct. 30, 1984, Pub. L. 98–596, §§5, 12(a)(4), (9), (b), 98 Stat. 3136, 3139, 3140, related to duties of probation officers.
 
 Section 3656 renumbered section 3672 of this title.
 

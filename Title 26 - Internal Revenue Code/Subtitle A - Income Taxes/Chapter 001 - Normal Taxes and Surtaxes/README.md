@@ -24,24 +24,19 @@
 | <b>O.</b> | <b>Gain or loss on disposition of property</b> | <b>1001</b> |
 | <b>P.</b> | <b>Capital gains and losses</b> | <b>1201</b> |
 | <b>Q.</b> | <b>Readjustment of tax between years and special limitations</b> | <b>1301</b> |
+| <b>R.</b> | <b>Election to determine corporate tax on certain international shipping activities using per ton rate</b> | <b>1352</b> |
 | <b>S.</b> | <b>Tax treatment of S corporations and their shareholders</b> | <b>1361</b> |
-| <b>R.</b><b><sup>2</sup></b> | <b>Election to determine corporate tax on certain international shipping activities using per ton rate</b> | <b>1352</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
 | <b>T.</b> | <b>Cooperatives and their patrons</b> | <b>1381</b> |
 | <b>U.</b> | <b>Designation and treatment of empowerment zones, enterprise communities, and rural development investment areas</b> | <b>1391</b> |
 | <b>V.</b> | <b>Title 11 cases</b> | <b>1398</b> |
-| <b>W.</b> | <b>District of Columbia Enterprise Zone</b> | <b>1400</b> |
-| <b>X.</b> | <b>Renewal Communities</b> | <b>1400E</b> |
-| <b>Y.</b> | <b>Short-Term Regional Benefits</b> | <b>1400L</b> |
+| <b>\[W to Y.</b> | <b>Repealed.\]</b> |  |
 | <b>Z.</b> | <b>Opportunity zones</b> | <b>1400Z–1</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(1), (d)(4)(A), (5)(A), (6)(A), Mar. 23, 2018, 132 Stat. 1184, 1209–1211, transferred subchapter R to follow subchapter Q and struck out subchapter W "District of Columbia Enterprise Zone", subchapter X "Renewal Communities", and subchapter Y "Short-Term Regional Benefits".
 
 <b>2017</b>—Pub. L. 115–97, title I, §13823(c), Dec. 22, 2017, 131 Stat. 2188, added subchapter Z.
 
@@ -75,8 +70,6 @@
 
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should follow item for subchapter Q.</i>
-
 
 ---
 
@@ -104,7 +97,7 @@
 - [Subchapter T - Cooperatives and Their Patrons](Subchapter%20T%20-%20Cooperatives%20and%20Their%20Patrons/README.md)
 - [Subchapter U - Designation and Treatment of Empowerment Zones, Enterprise Communities, and Rural Development Investment Areas](Subchapter%20U%20-%20Designation%20and%20Treatment%20of%20Empowerment%20Zones%2C%20Enterprise%20Communities%2C%20and%20Rural%20Development%20Investment%20Areas/README.md)
 - [Subchapter V - Title 11 Cases](Subchapter%20V%20-%20Title%2011%20Cases/README.md)
-- [Subchapter W - District of Columbia Enterprise Zone](Subchapter%20W%20-%20District%20of%20Columbia%20Enterprise%20Zone/README.md)
-- [Subchapter X - Renewal Communities](Subchapter%20X%20-%20Renewal%20Communities/README.md)
-- [Subchapter Y - Short-Term Regional Benefits](Subchapter%20Y%20-%20Short-Term%20Regional%20Benefits/README.md)
+- [Subchapter W - Repealed](Subchapter%20W%20-%20Repealed/README.md)
+- [Subchapter X - Repealed](Subchapter%20X%20-%20Repealed/README.md)
+- [Subchapter Y - Repealed](Subchapter%20Y%20-%20Repealed/README.md)
 - [Subchapter Z - Opportunity Zones](Subchapter%20Z%20-%20Opportunity%20Zones/README.md)

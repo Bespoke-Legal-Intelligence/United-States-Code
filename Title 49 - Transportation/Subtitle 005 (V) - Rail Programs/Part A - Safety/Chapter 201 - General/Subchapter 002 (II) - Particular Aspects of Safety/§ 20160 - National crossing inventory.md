@@ -44,7 +44,7 @@ State.—The term "State" means a State of the United States, the District of Co
 
 #### References in Text
 
-The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsecs. (a) to (c), is thedate of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
+The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsecs. (a) to (c), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
 #### Amendments
 

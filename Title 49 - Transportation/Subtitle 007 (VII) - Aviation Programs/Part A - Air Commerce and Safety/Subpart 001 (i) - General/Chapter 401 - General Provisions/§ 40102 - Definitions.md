@@ -166,6 +166,8 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(E) An aircraft owned or operated by the armed forces or chartered to provide transportation or other commercial air service to the armed forces under the conditions specified by section 40125(c). In the preceding sentence, the term "other commercial air service" means an aircraft operation that (i) is within the United States territorial airspace; (ii) the Administrator of the Federal Aviation Administration determines is available for compensation or hire to the public, and (iii) must comply with all applicable civil aircraft rules under title 14, Code of Federal Regulations.
 
+&emsp;&emsp;(F) An unmanned aircraft that is owned and operated by, or exclusively leased for at least 90 continuous days by, an Indian Tribal government, as defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122), except as provided in section 40125(b).
+
 &emsp;(42) "small hub airport" means a commercial service airport (as defined in section 47102) that has at least 0.05 percent but less than 0.25 percent of the passenger boardings.
 
 &emsp;(43) "spare part" means an accessory, appurtenance, or part of an aircraft (except an aircraft engine or propeller), aircraft engine (except a propeller), propeller, or appliance, that is to be installed at a later time in an aircraft, aircraft engine, propeller, or appliance.
@@ -194,7 +196,7 @@ General Definitions.—In this part—
 
 Limited Definition.—In subpart II of this part, "control" means control by any means.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1097; Pub. L. 103–305, title VI, §601(b)(2)(B), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–411, §3(a), Oct. 25, 1994, 108 Stat. 4236; Pub. L. 103–429, §6(46), Oct. 31, 1994, 108 Stat. 4384; Pub. L. 105–137, §6, Dec. 2, 1997, 111 Stat. 2641; Pub. L. 106–181, title III, §301, title VII, §702(a), Apr. 5, 2000, 114 Stat. 115, 155; Pub. L. 108–176, title II, §225(a), title VIII, §807, Dec. 12, 2003, 117 Stat. 2528, 2588; Pub. L. 110–181, div. A, title X, §1078(a), Jan. 28, 2008, 122 Stat. 334; Pub. L. 112–95, title II, §205, Feb. 14, 2012, 126 Stat. 39.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1097; Pub. L. 103–305, title VI, §601(b)(2)(B), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–411, §3(a), Oct. 25, 1994, 108 Stat. 4236; Pub. L. 103–429, §6(46), Oct. 31, 1994, 108 Stat. 4384; Pub. L. 105–137, §6, Dec. 2, 1997, 111 Stat. 2641; Pub. L. 106–181, title III, §301, title VII, §702(a), Apr. 5, 2000, 114 Stat. 115, 155; Pub. L. 108–176, title II, §225(a), title VIII, §807, Dec. 12, 2003, 117 Stat. 2528, 2588; Pub. L. 110–181, div. A, title X, §1078(a), Jan. 28, 2008, 122 Stat. 334; Pub. L. 112–95, title II, §205, Feb. 14, 2012, 126 Stat. 39; Pub. L. 115–254, div. B, title III, §355(a), Oct. 5, 2018, 132 Stat. 3305.)
 
 Historical and Revision Notes
 
@@ -392,7 +394,7 @@ Subsection (a)(12) is added for clarity to distinguish between cargo (which incl
 
 In subsection (a)(13), the word "provide" is substituted for "engage in" for consistency in the revised title.
 
-In subsection (a)(14), the words "including inclusive tour charter trips" are omitted as obsolete. The words "authorized under this part" are substituted for "rendered pursuant to authority conferred under this chapter under regulations prescribed by the Board" to eliminate unnecessary words.
+In subsection (a)(14), the words "including inclusive tour charter trips" are omitted as obsolete. The words"authorized under this part" are substituted for "rendered pursuant to authority conferred under this chapter under regulations prescribed by the Board" to eliminate unnecessary words.
 
 In subsection (a)(15)(A), the words "or of one of its possessions" are omitted as being included in the definition of "United States" in this subsection.
 
@@ -459,6 +461,8 @@ Subsection (b) is substituted for 49 App.:1383 to eliminate unnecessary words.
 This makes a conforming amendment for consistency with the style of title 49.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(41)(F). Pub. L. 115–254 added subpar. (F).
 
 <b>2012</b>—Subsec. (a)(4). Pub. L. 112–95 added subpars. (B) to (D), redesignated former subpar. (D) as (E) and substituted "any structure, equipment," for "another structure" and "; and" for period at end, added subpar. (F), and struck out former subpars. (B) and (C) which read as follows:
 

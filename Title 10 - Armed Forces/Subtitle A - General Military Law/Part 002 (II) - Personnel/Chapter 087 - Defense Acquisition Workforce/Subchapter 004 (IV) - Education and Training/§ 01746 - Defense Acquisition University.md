@@ -10,7 +10,7 @@ Defense Acquisition University Structure.—The Secretary of Defense, acting thr
 
 (b)
 
-Civilian Faculty Members.—(1) The Secretary of Defense may employ as many civilians as professors, instructors, and lecturers in the defense acquisition university structure as the Secretary considers necessary.
+Civilian Faculty Members.—(1) The Secretary of Defense may employ as many civiliansas professors, instructors, and lecturers in the defense acquisition university structure as the Secretary considers necessary.
 
 (2) The compensation of persons employed under this subsection shall be as prescribed by the Secretary.
 
@@ -74,7 +74,7 @@ Training.—Not later than one year after the date of the enactment of this Act 
 
 "(b)
 
-Enrollments Goals.—The President of the Defense Acquisition University shall set goals for studentenrollment for the comprehensive training program established under subsection (a).
+Enrollments Goals.—The President of the Defense Acquisition University shall set goals for student enrollment for the comprehensive training program established under subsection (a).
 
 "(c)
 

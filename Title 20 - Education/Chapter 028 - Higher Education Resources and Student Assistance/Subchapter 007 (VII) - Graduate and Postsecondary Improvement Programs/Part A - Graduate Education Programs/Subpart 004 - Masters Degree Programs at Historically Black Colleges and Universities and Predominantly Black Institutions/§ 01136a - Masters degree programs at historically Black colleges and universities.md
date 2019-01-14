@@ -96,7 +96,7 @@ A grant under this section may be used for—
 
 &emsp;(3) purchase of library books, periodicals, technical and other scientific journals, microfilm, microfiche, and other educational materials, including telecommunications program materials;
 
-&emsp;(4) scholarships, fellowships, and other financial assistance for needy graduate studentsto permit the enrollment of the students in, and completion of, a masters degree in mathematics, engineering, the physical or natural sciences, computer science, information technology, nursing, allied health, or other scientific disciplines in which African Americans are underrepresented;
+&emsp;(4) scholarships, fellowships, and other financial assistance for needy graduate students to permit the enrollment of the students in, and completion of, a masters degree in mathematics, engineering, the physical or natural sciences, computer science, information technology, nursing, allied health, or other scientific disciplines in which African Americans are underrepresented;
 
 &emsp;(5) establishing or improving a development office to strengthen and increase contributions from alumni and the private sector;
 
@@ -128,7 +128,7 @@ Subject to subsection (g), of the amount appropriated to carry out this section 
 
 &emsp;(1) the first $9,000,000 (or any lesser amount appropriated) shall be available only for the purposes of making minimum grants under subsection (a)(3) to eligible institutions listed in subparagraphs (A) through (R) of subsection (b)(1), except that if the amount appropriated is not sufficient to pay the minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced;
 
-&emsp;(2) after the application of paragraph (1), an amount shall be available for the purpose of making minimum grants under subsection (a)(3) to eligible institutions listed in subsection (b)(1) that do not receive a grant under paragraph (1), if any, except that if the amount appropriated is not sufficient to pay the minimum grant awards to all such eligible institutions, the amount of the minimum award to each such eligible institution shall be ratably reduced; and
+&emsp;(2) after the application of paragraph (1), an amount shall be available for the purpose of making minimum grants under subsection (a)(3) to eligible institutions listed in subsection (b)(1) that do not receive a grant under paragraph (1), if any, except that if the amount appropriated is not sufficient to pay the minimum grant awards to all such eligibleinstitutions, the amount of the minimum award to each such eligible institution shall be ratably reduced; and
 
 &emsp;(3) any amount in excess of $9,000,000 shall be made available to each of the eligible institutions identified in subparagraphs (A) through (R) of subsection (b)(1), pursuant to a formula developed by the Secretary that uses the following elements:
 
@@ -160,7 +160,7 @@ Another prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L
 
 Another prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 96–374, title XI, §1101, Oct. 3, 1980, 94 Stat. 1491, authorized appropriations for fiscal years 1981 to 1985 for urban grant university program, prior to the general amendment of subchapter XI of this chapter by Pub. L. 99–498.
 
-Another prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 90–575, title II, §281, Oct. 16, 1968, 82 Stat. 1048; amended Pub. L. 92–318, title I, §191(a),June 23, 1972, 86 Stat. 323, related to required applications for participation in law school clinical experiences program, prior to the general amendment of subchapter XI of this chapter by Pub. L. 96–374.
+Another prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 90–575, title II, §281, Oct. 16, 1968, 82 Stat. 1048; amended Pub. L. 92–318, title I, §191(a), June 23, 1972, 86 Stat. 323, related to required applications for participation in law school clinical experiences program, prior to the general amendment of subchapter XI of this chapter by Pub. L. 96–374.
 
 A prior section 723 of Pub. L. 89–329 was renumbered section 343, and is classified to section 1066b of this title.
 

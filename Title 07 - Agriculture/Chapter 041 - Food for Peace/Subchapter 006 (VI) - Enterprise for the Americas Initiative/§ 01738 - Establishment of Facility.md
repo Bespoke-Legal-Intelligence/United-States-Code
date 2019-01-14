@@ -34,7 +34,7 @@ Section 1. <i>Functions to be Performed by the Secretary of the Treasury</i>. (a
 
 (3) consult, as appropriate, with the Secretary of State, the Administrator of USAID, the Council, the Secretary of Agriculture, the Director of the Office of Management and Budget, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, the Director of the Office of National Drug Control Policy, and the Chairman of the Council of Economic Advisers in the performance of all other functions under the provisions listed in section 1(a) of this order.
 
-Sec. 2. <i>Functions to be Performed by the Secretary of State</i>. (a) The Secretary of State is hereby designated to perform the functions of the President under sections 607 and 614 of the ATDA Act (7 U.S.C. 1738f and 1738m) and section 813(a) of the Foreign Assistance Act (22 U.S.C. 2431k).
+Sec. 2. <i>Functions to be Performed by the Secretary of State</i>. (a) The Secretary of State is hereby designated to perform the functions of the President under sections 607 and 614 of the ATDA Act (7 U.S.C. 1738f and 1738m) and section 813(a) \[now 813\] of the Foreign Assistance Act (22 U.S.C. 2431k).
 
 (b) The Secretary of State shall consult, as appropriate, with the Secretary of the Treasury and the Administrator of USAID, in the performance of functions under the provisions listed in subsection 2(a) of this order.
 
@@ -44,7 +44,7 @@ Sec. 2. <i>Functions to be Performed by the Secretary of State</i>. (a) The Secr
 
 (1) section 610(c)(1) of the ATDA Act (7 U.S.C. 1738i(c)(1)); and
 
-(2) section 813(b) of the Foreign Assistance Act (22 U.S.C. 2431k).
+(2) \[former\] section 813(b) of the Foreign Assistance Act (22 U.S.C. 2431k).
 
 Sec. 3. <i>Recommendation by USAID</i>. The Administrator of USAID shall make recommendations with respect to 803(5)(B) of the Foreign Assistance Act (22 U.S.C. 2431a(5)(B)\[)\], in cooperation with the Secretary of Agriculture and the Secretary of State.
 
@@ -70,7 +70,7 @@ Sec. 4. <i>Government Appointees to the Enterprise for the Americas Board</i>. (
 
 (ii) a designee of the head of any executive department or agency, if the meeting will relate to matters relevant to the activities of such executive department or agency.
 
-(c) An officer of the United States listed in subsections 4(a) and 4(b) shall make a designation for purposes of those subsections in writing submitted to the Secretary of State and shall change any such designation in the same manner. The authority to make such a designation may not be delegated.
+(c) An officer of the United States listed in subsections 4(a) and 4(b) shall make a designation for purposes of those subsections in writing submitted to theSecretary of State and shall change any such designation in the same manner. The authority to make such a designation may not be delegated.
 
 (d) The Secretary of State may, after consultation with the officers of the United States listed in subsection 4(b) and the Attorney General, as appropriate, establish such procedures as may be necessary to provide for the governance and administration of the Board.
 

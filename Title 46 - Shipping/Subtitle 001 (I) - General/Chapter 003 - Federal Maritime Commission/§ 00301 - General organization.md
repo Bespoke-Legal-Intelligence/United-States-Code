@@ -14,7 +14,7 @@ Composition.—The Commission is composed of 5 Commissioners, appointed by the P
 
 &emsp;(2)
 
-Terms.—The term of each Commissioner is 5 years. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year. Except as provided in paragraph (3), no individual may serve more than 2 terms.
+Terms.—The term of each Commissioner is 5 years. When the term of a Commissionerends, the Commissioner may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year. Except as provided in paragraph (3), no individual may serve more than 2 terms.
 
 &emsp;(3)
 

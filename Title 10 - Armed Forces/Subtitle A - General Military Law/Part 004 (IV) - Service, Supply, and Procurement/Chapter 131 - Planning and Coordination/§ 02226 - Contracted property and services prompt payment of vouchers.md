@@ -8,11 +8,21 @@ Requirement.—Of the contract vouchers that are received by the Defense Finance
 
 Contract Voucher Defined.—In this section, the term "contract voucher" means a voucher or invoice for the payment to a contractor for services, commercial items (as defined in section 103 of title 41), or other deliverable items provided by the contractor under a contract funded by the Department of Defense.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1006(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–247; amended Pub. L. 111–350, §5(b)(7), Jan. 4, 2011, 124 Stat. 3842.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1006(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–247; amended Pub. L. 111–350, §5(b)(7), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 115–232, div. A, title VIII, §836(e)(1), Aug. 13, 2018, 132 Stat. 1869.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(e)(1), (h), Aug. 13, 2018, 132 Stat. 1869, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended by striking "for services" and all that follows through "deliverable items" and inserting "for services or deliverable items". See 2018 Amendment note below.</i>
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b). Pub. L. 115–232 substituted "for services or deliverable items" for "for services, commercial items (as defined in section 103 of title 41), or other deliverable items".
+
 <b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted "section 103 of title 41" for "section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
 #### Effective Date
 
@@ -20,29 +30,5 @@ Pub. L. 106–398, §1 \[\[div. A\], title X, §1006(b)\], Oct. 30, 2000, 114 St
 
 #### Conditional Requirement for Report
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1006(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–248, provided that:
-
-"(1) If for any month of the noncompliance reporting period the requirement in section 2226 of title 10, United States Code (as added by subsection (a)), is not met, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the magnitude of the unpaid contract vouchers. The report for a month shall be submitted not later than 30 days after the end of that month.
-
-"(2) A report for a month under paragraph (1) shall include information current as of the last day of the month as follows:
-
-&emsp;"(A) The number of the vouchers received by the Defense Finance and Accounting Service by means of the mechanization of contract administration services system during each month.
-
-&emsp;"(B) The number of the vouchers so received, whenever received by the Defense Finance and Accounting Service, that remain unpaid for each of the following periods:
-
-&emsp;&emsp;"(i) Over 30 days and not more than 60 days.
-
-&emsp;&emsp;"(ii) Over 60 days and not more than 90 days.
-
-&emsp;&emsp;"(iii) More than 90 days.
-
-&emsp;"(C) The number of the vouchers so received that remain unpaid for the major categories of procurements, as defined by the Secretary of Defense.
-
-&emsp;"(D) The corrective actions that are necessary, and those that are being taken, to ensure compliance with the requirement in subsection (a).
-
-"(3) For purposes of this subsection:
-
-&emsp;"(A) The term 'noncompliance reporting period' means the period beginning on December 1, 2000, and ending on November 30, 2004.
-
-&emsp;"(B) The term 'contract voucher' has the meaning given that term in section 2226(b) of title 10, United States Code (as added by subsection (a))."
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1006(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–248, required submission of a report for any month between Dec. 1, 2000, and Nov. 30, 2004, in which the requirement in 10 U.S.C. 2226 was not met.
 

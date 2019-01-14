@@ -6,7 +6,7 @@ Part E of title XXVI of the Public Health Service Act, comprising this part, was
 
 #### Prior Provisions
 
-A prior section 300ff–80, act July 1, 1944, ch. 373, title XXVI, §2680, as added Pub. L. 101–381, title IV, §411(a),Aug. 18, 1990, 104 Stat. 622, related to grants for implementation of recommendations in guidelines and model curriculum.
+A prior section 300ff–80, act July 1, 1944, ch. 373, title XXVI, §2680, as added Pub. L. 101–381, title IV, §411(a), Aug. 18, 1990, 104 Stat. 622, related to grants for implementation of recommendations in guidelines and model curriculum.
 
 
 ---

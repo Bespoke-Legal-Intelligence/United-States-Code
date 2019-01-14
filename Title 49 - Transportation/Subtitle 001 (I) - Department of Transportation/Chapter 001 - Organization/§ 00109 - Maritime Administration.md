@@ -46,7 +46,7 @@ Audits.—The financial transactions of the Secretary under paragraph (1) shall 
 
 (i)
 
-Grant Administrative Expenses.—Except as otherwise provided by law, the administrative and related expenses for the administration of any grant programs by the Maritime Administrator may not exceed 3 percent.
+Grant Administrative Expenses.—Except as otherwise provided by law, the administrativeand related expenses for the administration of any grant programs by the Maritime Administrator may not exceed 3 percent.
 
 (j)
 

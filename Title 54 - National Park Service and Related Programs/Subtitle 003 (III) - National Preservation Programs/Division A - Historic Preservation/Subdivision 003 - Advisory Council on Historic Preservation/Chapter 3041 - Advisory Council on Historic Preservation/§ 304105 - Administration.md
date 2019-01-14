@@ -62,7 +62,7 @@ Obtaining additional property, facilities, and services and receiving donations 
 
 (h)
 
-Rights, Benefits, and Privileges of Transferred Employees.—Any employee in the competitive service of the United States transferred to the Council under section 207 of theNational Historic Preservation Act (Public Law 89–665) retains all the rights, benefits, and privileges pertaining to the competitive service held prior to the transfer.
+Rights, Benefits, and Privileges of Transferred Employees.—Any employee in the competitive service of the United States transferred to the Council under section 207 of the National Historic Preservation Act (Public Law 89–665) retains all the rights, benefits, and privileges pertaining to the competitive service held prior to the transfer.
 
 (i)
 

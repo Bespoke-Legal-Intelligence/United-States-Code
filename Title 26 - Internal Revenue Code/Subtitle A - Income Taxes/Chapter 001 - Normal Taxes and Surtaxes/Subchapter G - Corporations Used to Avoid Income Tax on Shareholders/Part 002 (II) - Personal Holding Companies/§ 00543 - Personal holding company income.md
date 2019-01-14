@@ -34,7 +34,7 @@ For purposes of this subtitle, the term "personal holding company income" means 
 
 &emsp;&emsp;&emsp;(i) the dividends paid during the taxable year (determined under section 562),
 
-&emsp;&emsp;&emsp;(ii) the dividends considered as paid on the last day of the taxable year under section 563(d) <sup>1</sup> (as limited by the second sentence of section 563(b)), and
+&emsp;&emsp;&emsp;(ii) the dividends considered as paid on the last day of the taxable year under section 563(c) (as limited by the second sentence of section 563(b)), and
 
 &emsp;&emsp;&emsp;(iii) the consent dividends for the taxable year (determined under section 565),
 
@@ -60,7 +60,7 @@ For purposes of this subtitle, the term "personal holding company income" means 
 
 &emsp;Copyright royalties; except that copyright royalties shall not be included if—
 
-&emsp;&emsp;(A) such royalties (exclusive of royalties received for the use of, or right to use, copyrights or interests in copyrights on works created in whole, or in part, by any shareholder) constitute 50 percent or more of the ordinary gross income,
+&emsp;&emsp;(A) such royalties (exclusive of royalties received for the use of, or right to use, copyrights or interests in copyrights on workscreated in whole, or in part, by any shareholder) constitute 50 percent or more of the ordinary gross income,
 
 &emsp;&emsp;(B) the personal holding company income for the taxable year computed—
 
@@ -82,7 +82,7 @@ For purposes of this subtitle, the term "personal holding company income" means 
 
 > &emsp;&emsp;equals or exceeds 25 percent of the amount by which the ordinary gross income exceeds the sum of the royalties paid or accrued and the amounts allowable as deductions under section 167 (relating to depreciation) with respect to copyright royalties.
 
-> &emsp;For purposes of this subsection, the term "copyright royalties" means compensation, however designated, for the use of, or the right to use, copyrights in works protected by copyright issued under title 17 of the United States Code and to which copyright protection is also extended by the laws of any country other than the United States of America by virtue of any international treaty, convention, or agreement, or interests in any such copyrighted works, and includes payments from any person for performing rights in any such copyrighted work and payments (other than produced film rents as defined in paragraph (5)(B)) received for the use of, or right to use, films. For purposes of this paragraph, the term "shareholder" shall include any person whoowns stock within the meaning of section 544. This paragraph shall not apply to active business computer software royalties.
+> &emsp;For purposes of this subsection, the term "copyright royalties" means compensation, however designated, for the use of, or the right to use, copyrights in works protected by copyright issued under title 17 of the United States Code and to which copyright protection is also extended by the laws of any country other than the United States of America by virtue of any international treaty, convention, or agreement, or interests in any such copyrighted works, and includes payments from any person for performing rights in any such copyrighted work and payments (other than produced film rents as defined in paragraph (5)(B)) received for the use of, or right to use, films. For purposes of this paragraph, the term "shareholder" shall include any person who owns stock within the meaning of section 544. This paragraph shall not apply to active business computer software royalties.
 
 #### (5) Produced film rents
 
@@ -252,7 +252,7 @@ In the case of an insurance company other than a life insurance company, the ter
 
 &emsp;&emsp;&emsp;(i) the dividends paid during the taxable year (determined under section 562),
 
-&emsp;&emsp;&emsp;(ii) the dividends considered as paid on the last day of the taxable year under section 563(d) <sup>1</sup> (as limited by the second sentence of section 563(b)), and
+&emsp;&emsp;&emsp;(ii) the dividends considered as paid on the last day of the taxable year under section 563(c) (as limited by the second sentence of section 563(b)), and
 
 &emsp;&emsp;&emsp;(iii) the consent dividends for the taxable year (determined under section 565),
 
@@ -288,15 +288,17 @@ In the case of an insurance company other than a life insurance company, the ter
 
 &emsp;&emsp;For purposes of this paragraph, the term "affiliated group" has the meaning given such term by section 1504(a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 186; Pub. L. 86–435, §1(a), (b), Apr. 22, 1960, 74 Stat. 77; Pub. L. 87–403, §3(c), Feb. 2, 1962, 76 Stat. 6; Pub. L. 88–272, title II, §225(d), (k)(2), Feb. 26, 1964, 78 Stat. 81, 93; Pub. L. 88–484, §3(a), Aug. 22, 1964, 78 Stat. 598; Pub. L. 89–809, title I, §104(h)(2), title II, §206(a), (b), Nov. 13, 1966, 80 Stat. 1559, 1578, 1579; Pub. L. 94–455, title II, §211(a), title XIX, §§1901(b)(32)(D), 1906(b)(13)(A), title XXI, §2106(a), Oct. 4, 1976, 90 Stat. 1544, 1800, 1834, 1902; Pub. L. 94–553, §105(d), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 97–248, title II, §222(e)(6), Sept. 3, 1982, 96 Stat. 480; Pub. L. 98–369, div. A, title VII, §712(i)(3), July 18, 1984, 98 Stat. 948; Pub. L. 99–514, title VI, §645(a)(1), (2), (4), title XVIII, §1899A(18), Oct. 22, 1986, 100 Stat. 2289, 2291, 2959; Pub. L. 100–647, title I, §1010(f)(5), title VI, §6279(a), Nov. 10, 1988, 102 Stat. 3454, 3754; Pub. L. 104–188, title I, §1704(t)(6), Aug. 20, 1996, 110 Stat. 1887; Pub. L. 105–206, title VI, §6023(9), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(c)(2)(E), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, §413(c)(8), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 109–304, §17(e)(3), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 113–295, div. B, title II, §207(a), Dec. 19, 2014, 128 Stat. 4072.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 186; Pub. L. 86–435, §1(a), (b), Apr. 22, 1960, 74 Stat. 77; Pub. L. 87–403, §3(c), Feb. 2, 1962, 76 Stat. 6; Pub. L.88–272, title II, §225(d), (k)(2), Feb. 26, 1964, 78 Stat. 81, 93; Pub. L. 88–484, §3(a), Aug. 22, 1964, 78 Stat. 598; Pub. L. 89–809, title I, §104(h)(2), title II, §206(a), (b), Nov. 13, 1966, 80 Stat. 1559, 1578, 1579; Pub. L. 94–455, title II, §211(a), title XIX, §§1901(b)(32)(D), 1906(b)(13)(A), title XXI, §2106(a), Oct. 4, 1976, 90 Stat. 1544, 1800, 1834, 1902; Pub. L. 94–553, §105(d), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 97–248, title II, §222(e)(6), Sept. 3, 1982, 96 Stat. 480; Pub. L. 98–369, div. A, title VII, §712(i)(3), July 18, 1984, 98 Stat. 948; Pub. L. 99–514, title VI, §645(a)(1), (2), (4), title XVIII, §1899A(18), Oct. 22, 1986, 100 Stat. 2289, 2291, 2959; Pub. L. 100–647, title I, §1010(f)(5), title VI, §6279(a), Nov. 10, 1988, 102 Stat. 3454, 3754; Pub. L. 104–188, title I, §1704(t)(6), Aug. 20, 1996, 110 Stat. 1887; Pub. L. 105–206, title VI, §6023(9), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(c)(2)(E), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, §413(c)(8), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 109–304, §17(e)(3), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 113–295, div. B, title II, §207(a), Dec. 19, 2014, 128 Stat. 4072; Pub. L. 115–141, div. U, title IV, §401(a)(134), (135), Mar. 23, 2018, 132 Stat. 1190.)
 
 #### References in Text
 
 Section 3(a)(4) and (5) of the Securities and Exchange Act of 1934, referred to in subsec. (a)(1)(E), is classified to section 78c(a)(4) and (5) of Title 15, Commerce and Trade.
 
-Section 563(d), referred to in subsecs. (a)(2)(B)(ii) and (d)(5)(A)(ii), was redesignated section 563(c) by Pub. L. 108–357, title IV, §413(c)(10)(B), Oct. 22, 2004, 118 Stat. 1507.
-
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2)(B)(ii). Pub. L. 115–141, §401(a)(134), substituted "section 563(c)" for "section 563(d)".
+
+Subsec. (d)(5)(A)(ii). Pub. L. 115–141, §401(a)(135), substituted "section 563(c)" for "section 563(d)".
 
 <b>2014</b>—Subsec. (a)(1)(C) to (E). Pub. L. 113–295 added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
@@ -346,7 +348,7 @@ Subsec. (b)(2)(D). Pub. L. 89–809, §206(b)(2), added subpar. (D).
 
 Subsec. (b)(3). Pub. L. 89–809, §206(a), struck out "amounts constituting personal holding company income under subsection (a)(6), nor copyright royalties (as defined in subsection (a)(4)), nor produced film rents (as defined in subsection (a)(5)(B))." after "but does not include", and added subpars. (A) to (D).
 
-<b>1964</b>—Subsec. (a). Pub. L. 88–272, §225(d), amended subsec. (a) generally, and among other changes, substituted "adjusted ordinary gross income" for "gross income", provided, relative to rental income, that in addition to the 50-percent test of par. (2)(A), now applied on the basis of adjusted income from rents and adjusted ordinary gross income, a second test for exclusion shall be whether the sum on the dividends paid during the taxable year, the dividends paid on the last day of the year, and the consent dividends for the taxable year, equals or exceeds the amount by which the personal holding company income for the year exceeds 10 percent of the ordinary gross income, relative to mineral, oil, and gas royalties, that in addition to the 50-percent test of par. (3)(A), now applied on the basis of adjusted ordinary gross income, and the 15-percent test of par. (3)(C), from which test have been excluded deductions "specifically allowable under sections other than section 162" and is also now applied on the basis of adjusted gross income, the royalties shall be excluded if the personal holding company income for the taxable year is not more than 10 percent of the ordinary gross income, relative to copyright royalties, retained the 50-percent test as in par. (4)(A), making it applicable to ordinary gross income, included in the computation of the income for the taxable year the adjusted income from rents and the adjusted income from mineral, oil, and gas royalties, excluded from the sum of deductions allocable to royalties, deductions specifically allowable under sections other than 162, and changed the requirement that deductions constitute 50 percent or more of gross income to provide that they must equal 25 percent of ordinary gross income reduced by royalties paid and by depreciation deductions with respect to copyrights, relative to produced film rents, that they be treated on their own basis and not as rentals, and defined "produced film rents", relative to use of corporation property by shareholders, that personal holding company income includes copyright royalties and the adjusted income from mineral, oil, and gas royalties, eliminated gains from the sale or other disposition of any interest in an estate or trust, from the sale or exchange of stock or securities, and from futures transactions in any commodity, and also definition of "rents". See subsec. (b)(3).
+<b>1964</b>—Subsec. (a). Pub. L. 88–272, §225(d), amended subsec. (a) generally, and among other changes, substituted "adjusted ordinary gross income" for "gross income", provided, relative to rental income, that in addition to the 50-percent test of par. (2)(A), now applied on the basis of adjusted income from rents and adjusted ordinary gross income, a second test for exclusion shall be whether the sum on the dividends paid during the taxable year, the dividends paid on the last day of the year, and the consent dividends for the taxable year, equals or exceeds the amount by which the personal holding company income for the year exceeds 10 percent of the ordinary gross income, relative to mineral, oil, and gas royalties, that in addition to the 50-percent test of par. (3)(A), now applied on the basis of adjusted ordinary gross income, and the 15-percent test of par. (3)(C), from which test have been excluded deductions "specifically allowable under sections other than section 162" and is also now applied on the basis of adjusted gross income, the royalties shall be excluded if the personal holding company income for the taxable year is not more than 10 percent of the ordinary gross income, relative to copyright royalties, retained the 50-percent test as in par. (4)(A), making it applicable to ordinary gross income, included in the computation of the income for the taxable year the adjusted income from rents and the adjusted income from mineral, oil, and gas royalties, excluded from the sum of deductions allocable to royalties, deductions specifically allowable under sections other than 162, and changed the requirement that deductions constitute 50percent or more of gross income to provide that they must equal 25 percent of ordinary gross income reduced by royalties paid and by depreciation deductions with respect to copyrights, relative to produced film rents, that they be treated on their own basis and not as rentals, and defined "produced film rents", relative to use of corporation property by shareholders, that personal holding company income includes copyright royalties and the adjusted income from mineral, oil, and gas royalties, eliminated gains from the sale or other disposition of any interest in an estate or trust, from the sale or exchange of stock or securities, and from futures transactions in any commodity, and also definition of "rents". See subsec. (b)(3).
 
 Subsec. (a)(2). Pub. L. 88–484 inserted sentence requiring royalties received for the use of, or for the privilege of using, a patent, invention, model, or design (whether or not patented), secret formula or process, or any other similar property right to be treated as rent, if such property right is also used by the corporation receiving such royalties in the manufacture or production of tangible personal property held for lease to customers, and if the amount (computed without regard to this sentence) constituting rent from such leases to customers meets the requirements of subparagraph (A).
 
@@ -378,7 +380,7 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1010(f)(5) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1010(f)(5) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title VI, §6279(b), Nov. 10, 1988, 102 Stat. 3754, provided that: "The amendments made by this section \[amending this section\] shall apply to interest received after the date of the enactment of this Act \[Nov. 10, 1988\], in taxable years ending after such date."
 
@@ -476,11 +478,9 @@ Qualified royalty.—For purposes of this subsection, the term 'qualified royalt
 
 "(d)
 
-Special Rule for Treatment of Active Business Computer Royalties for S Corporation Purposes.—In the case of a taxpayer which was incorporated on May 3, 1977, in California and which elected to be taxed as an S corporation for its taxable year ending on December 31, 1985, any active business computerroyalties (within the meaning of section 543(d) of the Internal Revenue Code of 1986 as added by this Act) which are received by the taxpayer in taxable years beginning after December 31, 1984, shall not be treated as passive investment income (within the meaning of section 1362(d)(3)(D) \[now section 1362(d)(3)(C)\]) for purposes of subchapter S of chapter 1 of such Code."
+Special Rule for Treatment of Active Business Computer Royalties for S Corporation Purposes.—In the case of a taxpayer which was incorporated on May 3, 1977, in California and which elected to be taxed as an S corporation for its taxable year ending on December 31, 1985, any active business computer royalties (within the meaning of section 543(d) of the Internal Revenue Code of 1986 as added by this Act) which are received by the taxpayer in taxable years beginning after December 31, 1984, shall not be treated as passive investment income (within the meaning of section 1362(d)(3)(D) \[now section 1362(d)(3)(C)\]) for purposes of subchapter S of chapter 1 of such Code."
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

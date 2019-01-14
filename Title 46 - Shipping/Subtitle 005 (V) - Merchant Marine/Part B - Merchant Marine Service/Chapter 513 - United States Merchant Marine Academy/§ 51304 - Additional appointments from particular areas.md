@@ -22,7 +22,7 @@ Panama.—
 
 &emsp;(1)
 
-Appointment.—The Secretary of Transportation, with the approval of the Secretary of State, may appoint individuals from Panama to receive instruction at the Academy. Individuals appointed under this subsection are in addition to those appointed under any other provision of this chapter.
+Appointment.—The Secretary of Transportation, with the approval of the Secretaryof State, may appoint individuals from Panama to receive instruction at the Academy. Individuals appointed under this subsection are in addition to those appointed under any other provision of this chapter.
 
 &emsp;(2)
 

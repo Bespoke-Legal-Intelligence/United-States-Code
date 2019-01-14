@@ -176,7 +176,7 @@ Additional Optional Life Insurance.—
 
 &emsp;"(1)
 
-In general.—Section 7 \[amending section 8714b of this title and enacting provisions set out as a noteunder section 8714b of this title\] shall take effect on the first day of the first pay period that begins on or after the 180th day following the date of enactment of this Act, or on any earlier date that the Office of Personnel Management may prescribe that is at least 60 days after the date of enactment of this Act.
+In general.—Section 7 \[amending section 8714b of this title and enacting provisions set out as a note under section 8714b of this title\] shall take effect on the first day of the first pay period that begins on or after the 180th day following the date of enactment of this Act, or on any earlier date that the Office of Personnel Management may prescribe that is at least 60 days after the date of enactment of this Act.
 
 &emsp;"(2)
 
@@ -260,7 +260,7 @@ Pub. L. 110–177, title V, §502(b), Jan. 7, 2008, 121 Stat. 2542.
 
 Pub. L. 105–311, §9, Oct. 30, 1998, 112 Stat. 2954, provided that: "Beginning not later than 180 days after the date of enactment of this Act \[Oct. 30, 1998\], the Office of Personnel Management shall conduct an open enrollment opportunity for purposes of chapter 87 of title 5, United States Code, over a period of not less than 8 weeks. During this period, an employee (as defined under section 8701(a) of such title)—
 
-&emsp;"(1) may, if the employee previously declined or voluntarily terminated any coverage under chapter 87of such title, elect to begin, resume, or increase group life insurance (and acquire applicable accidental death and dismemberment insurance) under all sections of such chapter without submitting evidence of insurability; and
+&emsp;"(1) may, if the employee previously declined or voluntarily terminated any coverage under chapter 87 of such title, elect to begin, resume, or increase group life insurance (and acquire applicable accidental death and dismemberment insurance) under all sections of such chapter without submitting evidence of insurability; and
 
 &emsp;"(2) may, if currently insured for optional life insurance on family members, elect an amount above the minimum insurance on a spouse."
 

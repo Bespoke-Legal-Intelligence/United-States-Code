@@ -36,7 +36,7 @@ The Administrator is authorized to make grants to States to develop and carry ou
 
 #### (h) Enforcement by Administrator
 
-If a State does not have a State program authorized under this section and in effect by the date which is 2 years after promulgation of the regulations under section 2682 or 2686 of this title, the Administrator shall, by such date, establish a Federal program for section 2682 or 2686 of this title (as the case may be) for such State and administer and enforce such program in such State.
+If a State does not have a State program authorized under this section and in effect by the date which is 2 years after promulgation of the regulations under section 2682 or 2686 of this title, the Administrator shall, by such date, establish a Federal program for section 2682 or 2686of this title (as the case may be) for such State and administer and enforce such program in such State.
 
 (Pub. L. 94–469, title IV, §404, as added Pub. L. 102–550, title X, §1021(a), Oct. 28, 1992, 106 Stat. 3916.)
 

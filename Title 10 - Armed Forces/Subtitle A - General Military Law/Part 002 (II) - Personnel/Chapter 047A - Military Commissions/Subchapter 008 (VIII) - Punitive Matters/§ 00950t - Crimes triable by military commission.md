@@ -36,7 +36,7 @@ Employing poison or similar weapons.—Any person subject to this chapter who in
 
 &emsp;(9)
 
-Using protected persons as a shield.—Any person subject to this chapter who positions, or otherwise takes advantage of, a protected person with the intent to shield a military objective from attack.<sup>1</sup> or to shield, favor, or impede military operations, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Using protected persons as a shield.—Any person subject to this chapter who positions, or otherwise takes advantage of, a protected person with the intent to shield a military objective from attack, or to shield, favor, or impede military operations, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;(10)
 
@@ -88,7 +88,7 @@ Murder in violation of the law of war.—Any person subject to this chapter who 
 
 &emsp;(16)
 
-Destruction of property in violation of the law of war.—Any person subject to this chapter who intentionally destroys property belonging to another person in violation of the law of war shall <sup>2</sup> punished as a military commission under this chapter may direct.
+Destruction of property in violation of the law of war.—Any person subject to this chapter who intentionally destroys property belonging to another person in violation of the law of war shall be punished as a military commission under this chapter may direct.
 
 &emsp;(17)
 
@@ -112,11 +112,11 @@ Rape.—Any person subject to this chapter who forcibly or with coercion or thre
 
 &emsp;(22)
 
-Sexual assault or abuse.—Any person subject to this chapter who forcibly or with coercion or threat of force engages in sexual contact with one or more persons, or causes one or more persons to engage in sexual contact, shall be punished as a military commission under this chapter may direct <sup>3</sup>
+Sexual assault or abuse.—Any person subject to this chapter who forcibly or with coercion or threat of force engages in sexual contact with one or more persons, or causes one or more persons to engage in sexual contact, shall be punished as a military commission under this chapter may direct.
 
 &emsp;(23)
 
-Hijacking or hazarding a vessel or aircraft.—Any person subject to this chapter who intentionally seizes, exercises unauthorized control over, or endangers the safe navigation of a vessel or aircraft that is not a legitimate military objective shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Hijacking or hazarding a vessel or aircraft.—Any person subject to this chapter who intentionally seizes, exercises unauthorized control over, or endangers the safe navigation of a vessel or aircraft that is not a legitimate military objective shall be punished,if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;(24)
 
@@ -140,7 +140,7 @@ Wrongfully aiding the enemy.—Any person subject to this chapter who, in breach
 
 &emsp;(27)
 
-Spying.—Any person subject to this chapter who, in violation of the law of war and with intent or reason to believe that it is to be used to the injury of the United States or tothe advantage of a foreign power, collects or attempts to collect information by clandestine means or while acting under false pretenses, for the purpose of conveying such information to an enemy of the United States, or one of the co-belligerents of the enemy, shall be punished by death or such other punishment as a military commission under this chapter may direct.
+Spying.—Any person subject to this chapter who, in violation of the law of war and with intent or reason to believe that it is to be used to the injury of the United States or to the advantage of a foreign power, collects or attempts to collect information by clandestine means or while acting under false pretenses, for the purpose of conveying such information to an enemy of the United States, or one of the co-belligerents of the enemy, shall be punished by death or such other punishment as a military commission under this chapter may direct.
 
 &emsp;(28)
 
@@ -174,7 +174,7 @@ Contempt.—A military commission under this chapter may punish for contempt any
 
 Perjury and obstruction of justice.—A military commission under this chapter may try offenses and impose such punishment as the military commission may direct for perjury, false testimony, or obstruction of justice related to the military commission.
 
-(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2607.)
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2607; amended Pub. L. 115–232, div. A, title X, §1081(a)(12), Aug. 13, 2018, 132 Stat. 1983.)
 
 #### Prior Provisions
 
@@ -188,9 +188,11 @@ Section 950v, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2625,
 
 Section 950w, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2630, related to perjury, obstruction of justice, and contempt.
 
-<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
+#### Amendments
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by "be".</i>
+<b>2018</b>—Par. (9). Pub. L. 115–232, §1081(a)(12)(A), substituted "attack, or" for "attack. or".
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
+Par. (16). Pub. L. 115–232, §1081(a)(12)(B), substituted "shall be punished" for "shall punished".
+
+Par. (22). Pub. L. 115–232, §1081(a)(12)(C), inserted period at end.
 

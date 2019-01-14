@@ -68,7 +68,7 @@ Findings.—The Congress finds as follows:
 
 &emsp;"(5) None of these lawsuits contained an allegation of harm to any consumer's identity.
 
-&emsp;"(6) Experts in the field agree that proper truncation of the card number, by itself as required by theamendment made by the Fair and Accurate Credit Transactions Act \[of 2003\], regardless of the inclusion of the expiration date, prevents a potential fraudster from perpetrating identity theft or credit card fraud.
+&emsp;"(6) Experts in the field agree that proper truncation of the card number, by itself as required by the amendment made by the Fair and Accurate Credit Transactions Act \[of 2003\], regardless of the inclusion of the expiration date, prevents a potential fraudster from perpetrating identity theft or credit card fraud.
 
 &emsp;"(7) Despite repeatedly being denied class certification, the continued appealing and filing of these lawsuits represents a significant burden on the hundreds of companies that have been sued and could well raise prices to consumers without corresponding consumer protection benefit.
 

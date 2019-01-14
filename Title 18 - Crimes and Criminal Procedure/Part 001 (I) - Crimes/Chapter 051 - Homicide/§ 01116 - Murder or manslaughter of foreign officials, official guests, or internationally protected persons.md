@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) any other representative, officer, employee, or agent of the United States Government, a foreign government, or international organization who at the time and place concerned is entitled pursuant to international law to special protection against attack upon his person, freedom, or dignity, and any member of his family then forming part of his household.
 
-&emsp;(5) "International organization" means a public international organization designated as such pursuant to section 1 of the International Organizations Immunities Act (22 U.S.C. 288) or a public organization createdpursuant to treaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs.
+&emsp;(5) "International organization" means a public international organization designated as such pursuant to section 1 of the International Organizations Immunities Act (22 U.S.C. 288) or a public organization created pursuant to treaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs.
 
 &emsp;(6) "Official guest" means a citizen or national of a foreign country present in the United States as an official guest of the Government of the United States pursuant to designation as such by the Secretary of State.
 
@@ -30,7 +30,7 @@
 
 (d) In the course of enforcement of this section and any other sections prohibiting a conspiracy or attempt to violate this section, the Attorney General may request assistance from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
 
-(Added Pub. L. 92–539, title I, §101, Oct. 24, 1972, 86 Stat. 1071; amended Pub. L. 94–467, §2, Oct. 8, 1976, 90 Stat. 1997; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 97–351, §3, Oct. 18, 1982, 96 Stat. 1666; Pub. L. 103–272, §5(e)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title VI, §60003(a)(5), title XXXIII, §330006, Sept. 13, 1994, 108 Stat. 1969, 2142; Pub. L. 104–132, title VII, §721(c), Apr. 24, 1996, 110 Stat. 1298; Pub. L. 104–294, title VI, §601(g)(2), Oct. 11, 1996, 110 Stat. 3500.)
+(Added Pub. L. 92–539, title I, §101, Oct. 24, 1972, 86 Stat. 1071; amended Pub. L. 94–467, §2, Oct. 8, 1976, 90 Stat. 1997; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24,1978, 92 Stat. 1705; Pub. L. 97–351, §3, Oct. 18, 1982, 96 Stat. 1666; Pub. L. 103–272, §5(e)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title VI, §60003(a)(5), title XXXIII, §330006, Sept. 13, 1994, 108 Stat. 1969, 2142; Pub. L. 104–132, title VII, §721(c), Apr. 24, 1996, 110 Stat. 1298; Pub. L. 104–294, title VI, §601(g)(2), Oct. 11, 1996, 110 Stat. 3500.)
 
 #### Amendments
 

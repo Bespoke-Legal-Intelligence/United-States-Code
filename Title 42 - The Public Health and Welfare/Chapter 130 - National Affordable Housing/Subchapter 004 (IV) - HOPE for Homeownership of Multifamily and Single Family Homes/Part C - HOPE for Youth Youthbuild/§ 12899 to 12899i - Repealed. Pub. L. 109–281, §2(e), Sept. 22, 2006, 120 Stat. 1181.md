@@ -20,7 +20,7 @@ Section 12899h, Pub. L. 101–625, title IV, §459, as added Pub. L. 102–550, 
 
 Section 12899h–1, Pub. L. 101–625, title IV, §460, as added Pub. L. 104–330, title V, §504(a)(2), Oct. 26, 1996, 110 Stat. 4044; amended Pub. L. 105–276, title V, §595(e)(15), Oct. 21, 1998, 112 Stat. 2659; Pub. L. 109–136, §6, Dec. 22, 2005, 119 Stat. 2644, rendered Indian tribes, Indian housing authorities, and other agencies primarily serving Indians or Indian areas ineligible for amounts made available for assistance under this part for fiscal years 1998 through 2005.
 
-Section 12899i, Pub. L. 101–625, title IV, §461, formerly §460, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3733; renumbered §461, Pub. L. 104–330, title V, §504(a)(1), Oct. 26, 1996, 110 Stat. 4043, authorized the Secretary to issue any regulations necessary to carry out this part.
+Section 12899i, Pub. L. 101–625, title IV, §461, formerly §460, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3733; renumbered §461, Pub. L. 104–330, title V,§504(a)(1), Oct. 26, 1996, 110 Stat. 4043, authorized the Secretary to issue any regulations necessary to carry out this part.
 
 #### Transfer of Functions
 

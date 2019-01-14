@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, Pub. L. 90–507, §1, Sept. 21, 1968, 82 Stat. 860, which related to roll of persons of Indian blood whowere born on or before and were living on Sept. 21, 1968, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 90–507, §1, Sept. 21, 1968, 82 Stat. 860, which related to roll of persons of Indian blood who were born on or before and were living on Sept. 21, 1968, was omitted from the Code as being of special and not general application.
 

@@ -20,7 +20,7 @@ The National Flood Insurance Act of 1968, referred to in par. (2), is title XIII
 
 #### Codification
 
-Section was enacted as part of the Homeowner Flood Insurance Affordability Act of 2014, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
+Section was enacted as part of the Homeowner Flood Insurance Affordability Act of 2014, and not as part ofthe National Flood Insurance Act of 1968 which comprises this chapter.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

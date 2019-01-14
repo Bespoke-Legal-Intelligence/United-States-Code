@@ -154,6 +154,16 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;&emsp;&emsp;(vi) the lease meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
 
+#### (C) Holdover lease arrangements
+
+&emsp;&emsp;In the case of a holdover lease arrangement for the lease of office space or equipment, which immediately follows a lease arrangement described in subparagraph (A) for the use of such office space or subparagraph (B) for the use of such equipment and that expired after a term of at least 1 year, payments made by the lessee to the lessor pursuant to such holdover lease arrangement, if—
+
+&emsp;&emsp;&emsp;(i) the lease arrangement met the conditions of subparagraph (A) for the lease of office space or subparagraph (B) for the use of equipment when the arrangement expired;
+
+&emsp;&emsp;&emsp;(ii) the holdover lease arrangement is on the same terms and conditions as the immediately preceding arrangement; and
+
+&emsp;&emsp;&emsp;(iii) the holdover arrangement continues to satisfy the conditions of subparagraph (A) for the lease of office space or subparagraph (B) for the use of equipment.
+
 #### (2) Bona fide employment relationships
 
 &emsp;Any amount paid by an employer to a physician (or an immediate family member of such physician) who has a bona fide employment relationship with the employer for the provision of services if—
@@ -207,6 +217,16 @@ The following shall not be considered to be a compensation arrangement described
 #### (ii) "Physician incentive plan" defined
 
 &emsp;&emsp;&emsp;For purposes of this subparagraph, the term "physician incentive plan" means any compensation arrangement between an entity and a physician or physician group that may directly or indirectly have the effect of reducing or limiting services provided with respect to individuals enrolled with the entity.
+
+#### (C) Holdover personal service arrangement
+
+&emsp;&emsp;In the case of a holdover personal service arrangement, which immediately follows an arrangement described in subparagraph (A) that expired after a term of at least 1 year, remuneration from an entity pursuant to such holdover personal service arrangement, if—
+
+&emsp;&emsp;&emsp;(i) the personal service arrangement met the conditions of subparagraph (A) when the arrangement expired;
+
+&emsp;&emsp;&emsp;(ii) the holdover personal service arrangement is on the same terms and conditions as the immediately preceding arrangement; and
+
+&emsp;&emsp;&emsp;(iii) the holdover arrangement continues to satisfy the conditions of subparagraph (A).
 
 #### (4) Remuneration unrelated to the provision of designated health services
 
@@ -280,7 +300,7 @@ Each entity providing covered items or services for which payment may be made un
 
 #### (3) Civil money penalty and exclusion for improper claims
 
-&emsp;Any person that presents or causes to be presented a bill or a claim for a service that such person knows or should know is for a service for which payment may not be made underparagraph (1) or for which a refund has not been made under paragraph (2) shall be subject to a civil money penalty of not more than $15,000 for each such service. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;Any person that presents or causes to be presented a bill or a claim for a service that such person knows or should know is for a service for which payment may not be made under paragraph (1) or for which a refund has not been made under paragraph (2) shall be subject to a civil money penalty of not more than $15,000 for each such service. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (4) Civil money penalty and exclusion for circumvention schemes
 
@@ -294,7 +314,7 @@ Each entity providing covered items or services for which payment may be made un
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall issue written advisory opinions concerning whether a referral relating to designated health services (other than clinical laboratory services) is prohibited under this section. Each advisory opinion issued by the Secretary shall be binding as to the Secretary and the party or parties requesting the opinion.
+&emsp;&emsp;The Secretary shall issue written advisory opinions concerning whether a referral relating to designated health services (other than clinical laboratory services) is prohibitedunder this section. Each advisory opinion issued by the Secretary shall be binding as to the Secretary and the party or parties requesting the opinion.
 
 #### (B) Application of certain rules
 
@@ -338,13 +358,25 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(IV) the payment meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
 
+&emsp;(D)
+
+Written requirement clarified.—In the case of any requirement pursuant to this section for a compensation arrangement to be in writing, such requirement shall be satisfied by such means as determined by the Secretary, including by a collection of documents, including contemporaneous documents evidencing the course of conduct between the parties involved.
+
+&emsp;(E)
+
+Special rule for signature requirements.—In the case of any requirement pursuant to this section for a compensation arrangement to be in writing and signed by the parties, such signature requirement shall be met if—
+
+&emsp;&emsp;(i) not later than 90 consecutive calendar days immediately following the date on which the compensation arrangement became noncompliant, the parties obtain the required signatures; and
+
+&emsp;&emsp;(ii) the compensation arrangement otherwise complies with all criteria of the applicable exception.
+
 #### (2) Employee
 
 &emsp;An individual is considered to be "employed by" or an "employee" of an entity if the individual would be considered to be an employee of the entity under the usual common law rules applicable in determining the employer-employee relationship (as applied for purposes of section 3121(d)(2) of the Internal Revenue Code of 1986).
 
 #### (3) Fair market value
 
-&emsp;The term "fair market value" means the value in arms length transactions, consistentwith the general market value, and, with respect to rentals or leases, the value of rental property for general commercial purposes (not taking into account its intended use) and, in the case of a lease of space, not adjusted to reflect the additional value the prospective lessee or lessor would attribute to the proximity or convenience to the lessor where the lessor is a potential source of patient referrals to the lessee.
+&emsp;The term "fair market value" means the value in arms length transactions, consistent with the general market value, and, with respect to rentals or leases, the value of rental property for general commercial purposes (not taking into account its intended use) and, in the case of a lease of space, not adjusted to reflect the additional value the prospective lessee or lessor would attribute to the proximity or convenience to the lessor where the lessor is a potential source of patient referrals to the lessee.
 
 #### (4) Group practice
 
@@ -502,7 +534,7 @@ For purposes of this section:
 
 &emsp;&emsp;(vi) Physician owners and investors do not receive, directly or indirectly, any guaranteed receipt of or right to purchase other business interests related to the hospital, including the purchase or lease of any property under the control of other owners or investors in the hospital or located near the premises of the hospital.
 
-&emsp;&emsp;(vii) The hospital does not offer a physician owner or investor the opportunity to purchase or lease any property under the control of the hospital or any other owner or investor in the hospital on more favorableterms than the terms offered to an individual who is not a physician owner or investor.
+&emsp;&emsp;(vii) The hospital does not offer a physician owner or investor the opportunity to purchase or lease any property under the control of the hospital or any other owner or investor in the hospital on more favorable terms than the terms offered to an individual who is not a physician owner or investor.
 
 #### (E) Patient safety
 
@@ -576,7 +608,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) whose annual percent of total inpatient admissions that represent inpatient admissions under the program under subchapter XIX is equal to or greater than the average percent with respect to such admissions for all hospitals located in the county in which the hospital is located;
 
-&emsp;&emsp;&emsp;(iii) that does not discriminate against beneficiaries of Federal health care programs and does not permit physicianspracticing at the hospital to discriminate against such beneficiaries;
+&emsp;&emsp;&emsp;(iii) that does not discriminate against beneficiaries of Federal health care programs and does not permit physicians practicing at the hospital to discriminate against such beneficiaries;
 
 &emsp;&emsp;&emsp;(iv) that is located in a State in which the average bed capacity in the State is less than the national average bed capacity; and
 
@@ -588,7 +620,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) is not the sole hospital in a county;
 
-&emsp;&emsp;&emsp;(ii) with respect to each of the 3 most recent years for which data are available, has an annual percent of total inpatient admissions that represent inpatient admissions under subchapter XIX that is estimated to be greater than such percent with respect to such admissions for any other hospital located in the county in which the hospital is located; and
+&emsp;&emsp;&emsp;(ii) with respect to each of the 3 most recent years for which data are available, has an annual percent of total inpatient admissions that represent inpatient admissions under subchapter XIX that is estimated to be greater than such percentwith respect to such admissions for any other hospital located in the county in which the hospital is located; and
 
 &emsp;&emsp;&emsp;(iii) meets the conditions described in subparagraph (E)(iii).
 
@@ -616,7 +648,7 @@ For purposes of this section:
 
 &emsp;Nothing in this subsection shall be construed as preventing the Secretary from revoking a hospital's provider agreement if not in compliance with regulations implementing section 1395cc of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title I, §101(e)(8)(B), title V, §507(a), Dec. 8, 2003, 117 Stat. 2152, 2295; Pub. L. 110–275, title I, §143(b)(9), July 15, 2008, 122 Stat. 2543; Pub. L. 111–148, title VI, §§6001(a), 6003(a), title X, §10601(a), Mar. 23, 2010, 124 Stat. 684, 697, 1005; Pub. L. 111–152, title I, §1106, Mar. 30, 2010, 124 Stat. 1049.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title I, §101(e)(8)(B), title V, §507(a), Dec. 8, 2003, 117 Stat. 2152, 2295; Pub. L. 110–275, title I, §143(b)(9), July 15, 2008, 122 Stat. 2543; Pub. L. 111–148, title VI, §§6001(a), 6003(a), title X, §10601(a), Mar. 23, 2010, 124 Stat. 684, 697, 1005; Pub. L. 111–152, title I, §1106, Mar. 30, 2010, 124 Stat. 1049; Pub. L. 115–123, div. E, title IV, §50404, Feb. 9, 2018, 132 Stat. 218.)
 
 #### References in Text
 
@@ -633,6 +665,14 @@ The Internal Revenue Code, referred to in subsecs. (c)(2) and (h)(2), is classif
 A prior section 1395nn, act Aug. 14, 1935, ch. 531, title XVIII, §1877, as added and amended Oct. 30, 1972, Pub. L. 92–603, title II, §§242(b), 278(b)(8), 86 Stat. 1419, 1454; Oct. 25, 1977, Pub. L. 95–142, §4(a), 91 Stat. 1179; Dec. 5, 1980, Pub. L. 96–499, title IX, §917, 94 Stat. 2625; July 18, 1984, Pub. L. 98–369, div. B, title III, §2306(f)(2), 98 Stat. 1073; Oct. 21, 1986, Pub. L. 99–509, title IX, §9321(a)(1), 100 Stat. 2016; Aug. 18, 1987, Pub. L. 100–93, §4(c), 101 Stat. 689, enumerated offenses relating to the Medicare program and penalties for such offenses, prior to repeal by Pub. L. 100–93, §§4(e), 15(a), Aug. 18, 1987, 101 Stat. 689, 698, effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(1)(C). Pub. L. 115–123, §50404(b)(1), added subpar. (C).
+
+Subsec. (e)(3)(C). Pub. L. 115–123, §50404(b)(2), added subpar. (C).
+
+Subsec. (h)(1)(D). Pub. L. 115–123, §50404(a)(1), added subpar. (D).
+
+Subsec. (h)(1)(E). Pub. L. 115–123, §50404(a)(2), added subpar. (E).
 
 <b>2010</b>—Subsec. (b)(2). Pub. L. 111–148, §6003(a), inserted at end of concluding provisions "Such requirements shall, with respect to magnetic resonance imaging, computed tomography, positron emission tomography, and any other designated health services specified under subsection (h)(6)(D) that the Secretary determines appropriate, include a requirement that the referring physician inform the individual in writing at the time of the referral that the individual may obtain the services for which the individual is being referred from a person other than a person described in subparagraph (A)(i) and provide such individual with a written list of suppliers (as defined in section 1395x(d) of this title) who furnish such services in the area in which such individual resides."
 
@@ -652,7 +692,7 @@ Subsec. (i)(3)(A)(iii). Pub. L. 111–148, §10601(a)(2)(A), substituted "Februa
 
 Subsec. (i)(3)(A)(iv). Pub. L. 111–148, §10601(a)(2)(B), substituted "January 1, 2012" for "July 1, 2011".
 
-Subsec. (i)(3)(C)(iii). Pub. L. 111–152, §1106(2)(B), inserted "(or, in the case of a hospital that did not have a provider agreement in effect as of such date but does have such an agreement in effect on December 31, 2010, the effective date of such provider agreement)" after "March 23, 2010".
+Subsec. (i)(3)(C)(iii). Pub. L. 111–152, §1106(2)(B), inserted "(or, in the case of a hospital that did not havea provider agreement in effect as of such date but does have such an agreement in effect on December 31, 2010, the effective date of such provider agreement)" after "March 23, 2010".
 
 Subsec. (i)(3)(F) to (I). Pub. L. 111–152, §1106(2)(C), (D), added subpar. (F) and redesignated former subpars. (F) to (H) as (G) to (I), respectively.
 
@@ -698,7 +738,7 @@ Subsec. (g)(5). Pub. L. 101–508, §4207(k)(2), formerly §4027(k)(2), as renum
 
 Subsec. (h)(6). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (6). Former par. (6) redesignated (7).
 
-Pub. L. 101–508, §4207(e)(1)(A), (B), formerly §4027(e)(1)(A), (B), as renumbered by Pub. L. 103–432, §160(d)(4), substituted "in the case of an item or service for which payment may be made under part B of this subchapter, the request by a physician for the item orservice," for "in the case of a clinical laboratory service which under law is required to be provided by (or under the supervision of) a physician, the request by a physician for the service," in subpar. (A) and struck out "in the case of another clinical laboratory service," after "subparagraph (C)," in subpar. (B).
+Pub. L. 101–508, §4207(e)(1)(A), (B), formerly §4027(e)(1)(A), (B), as renumbered by Pub. L. 103–432, §160(d)(4), substituted "in the case of an item or service for which payment may be made under part B of this subchapter, the request by a physician for the item or service," for "in the case of a clinical laboratory service which under law is required to be provided by (or under the supervision of) a physician, the request by a physician for the service," in subpar. (A) and struck out "in the case of another clinical laboratory service," after "subparagraph (C)," in subpar. (B).
 
 Subsec. (h)(7). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as renumbered by Pub. L. 103–432, §160(d)(4), redesignated par. (6) as (7).
 
@@ -790,7 +830,7 @@ Development of Self-Referral Disclosure Protocol.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Health and Human Services, in cooperation with the Inspector General of the Department of Health and Human Services, shall establish, not later than 6 months after the date of the enactment of this Act \[Mar. 23, 2010\], a protocol to enable health care providers ofservices and suppliers to disclose an actual or potential violation of section 1877 of the Social Security Act (42 U.S.C. 1395nn) pursuant to a self-referral disclosure protocol (in this section referred to as an 'SRDP'). The SRDP shall include direction to health care providers of services and suppliers on—
+In general.—The Secretary of Health and Human Services, in cooperation with the Inspector General of the Department of Health and Human Services, shall establish, not later than 6 months after the date of the enactment of this Act \[Mar. 23, 2010\], a protocol to enable health care providers of services and suppliers to disclose an actual or potential violation of section 1877 of the Social Security Act (42 U.S.C. 1395nn) pursuant to a self-referral disclosure protocol (in this section referred to as an 'SRDP'). The SRDP shall include direction to health care providers of services and suppliers on—
 
 &emsp;&emsp;"(A) a specific person, official, or office to whom such disclosures shall be made; and
 

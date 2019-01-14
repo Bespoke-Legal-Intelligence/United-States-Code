@@ -8,7 +8,7 @@ In this part:
 
 &emsp;&emsp;(A) a local educational agency (as that term is defined in section 7801 of title 20);
 
-&emsp;&emsp;(B) an institution of higher education (as defined in section 1002 of title 20, other thaninstitutions referred to in subsection (a)(1)(C) of such section); or
+&emsp;&emsp;(B) an institution of higher education (as defined in section 1002 of title 20, other than institutions referred to in subsection (a)(1)(C) of such section); or
 
 &emsp;&emsp;(C) any other nonprofit institution that provides instruction of foreign languages in languages that are critical to the capability of the intelligence community to carry out national security activities of the United States.
 

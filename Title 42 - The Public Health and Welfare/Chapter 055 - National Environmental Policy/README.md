@@ -65,6 +65,8 @@
 | [4370f.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004370f%20-%20Availability%20of%20funds%20after%20expiration%20of%20period%20for%20liquidating%20obligations.md) | Availability of funds after expiration of period for liquidating obligations. |
 | [4370g.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004370g%20-%20Availability%20of%20funds%20for%20uniforms%20and%20certain%20services.md) | Availability of funds for uniforms and certain services. |
 | [4370h.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004370h%20-%20Availability%20of%20funds%20for%20facilities.md) | Availability of funds for facilities. |
+| [4370i.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004370i%20-%20Regional%20liaisons%20for%20minority%2C%20tribal%2C%20and%20low-income%20communities.md) | Regional liaisons for minority, tribal, and low-income communities. |
+| [4370j.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2004370j%20-%20Municipal%20Ombudsman.md) | Municipal Ombudsman. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

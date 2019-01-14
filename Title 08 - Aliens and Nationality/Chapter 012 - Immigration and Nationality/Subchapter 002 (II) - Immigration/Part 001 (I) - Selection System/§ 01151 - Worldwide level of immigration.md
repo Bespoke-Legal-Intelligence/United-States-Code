@@ -26,7 +26,7 @@ Aliens described in this subsection, who are not subject to the worldwide levels
 
 &emsp;(2)(A)(i)
 
-Immediate relatives.—For purposes of this subsection, the term "immediate relatives" means the children, spouses, and parents of a citizen of the United States, except that, in the case of parents, such citizens shall be at least 21 years of age. In the case of an alien who was the spouse of a citizen of the United States and was not legally separated from the citizen at the time of the citizen's death, the alien (and each child of the alien) shall be considered, for purposes of this subsection, to remain an immediate relative after the date of the citizen's death but only if the spouse files a petition under section 1154(a)(1)(A)(ii) of this title within 2 years after such date and only until the date the spouse remarries. For purposes of this clause, an alien who has filed a petition under clause (iii) or (iv) of section 1154(a)(1)(A) of this title remains an immediate relative in the event that the United States citizen spouse or parent loses United States citizenship on account of the abuse.
+Immediate relatives.—For purposes of this subsection, the term "immediate relatives" means the children, spouses, and parents of a citizen of the United States, except that, in the case of parents, such citizens shall be at least 21 years of age. In the case ofan alien who was the spouse of a citizen of the United States and was not legally separated from the citizen at the time of the citizen's death, the alien (and each child of the alien) shall be considered, for purposes of this subsection, to remain an immediate relative after the date of the citizen's death but only if the spouse files a petition under section 1154(a)(1)(A)(ii) of this title within 2 years after such date and only until the date the spouse remarries. For purposes of this clause, an alien who has filed a petition under clause (iii) or (iv) of section 1154(a)(1)(A) of this title remains an immediate relative in the event that the United States citizen spouse or parent loses United States citizenship on account of the abuse.
 
 &emsp;(ii) Aliens admitted under section 1181(a) of this title on the basis of a prior issuance of a visa to their accompanying parent who is such an immediate relative.
 
@@ -88,7 +88,7 @@ The worldwide level of diversity immigrants is equal to 55,000 for each fiscal y
 
 #### (2) Age on parent's naturalization date
 
-&emsp;In the case of a petition under section 1154 of this title initially filed for an alien child's classification as a family-sponsored immigrant under section 1153(a)(2)(A) of this title, based on the child's parent being lawfully admitted for permanent residence, if the petition is later converted, due to the naturalization of the parent, to a petition to classify the alien as an immediate relative under subsection (b)(2)(A)(i), the determination described in paragraph (1) shall be made using the age of the alien on the date of the parent's naturalization.
+&emsp;In the case of a petition under section 1154 of this title initially filed for an alien child's classification as a family-sponsored immigrant under section 1153(a)(2)(A) of this title, based on the child's parent being lawfully admitted for permanent residence, if the petition is later converted, due to the naturalization of the parent, to a petition to classify the alien as an immediate relative under subsection (b)(2)(A)(i), the determination described in paragraph (1) shall be made using the age ofthe alien on the date of the parent's naturalization.
 
 #### (3) Age on marriage termination date
 
@@ -98,7 +98,7 @@ The worldwide level of diversity immigrants is equal to 55,000 for each fiscal y
 
 &emsp;Paragraphs (1) through (3) shall apply to self-petitioners and derivatives of self-petitioners.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §201, 66 Stat. 175; Pub. L. 89–236, §1, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §2, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §1, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(a), Mar. 17, 1980, 94 Stat. 106; Pub. L. 97–116, §20\[(a)\], Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title I, §101(a), Nov. 29, 1990, 104 Stat. 4980; Pub. L. 102–232, title III, §302(a)(1), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 103–322, titleIV, §40701(b)(2), Sept. 13, 1994, 108 Stat. 1954; Pub. L. 103–416, title II, §219(b)(1), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(5), (g)(8)(A)(i), title VI, §§603, 671(d)(1)(A), Sept. 30, 1996, 110 Stat. 3009–620, 3009–624, 3009–690, 3009–723; Pub. L. 106–386, div. B, title V, §1507(a)(3), Oct. 28, 2000, 114 Stat. 1530; Pub. L. 107–208, §2, Aug. 6, 2002, 116 Stat. 927; Pub. L. 109–162, title VIII, §805(b)(1), Jan. 5, 2006, 119 Stat. 3056; Pub. L. 111–83, title V, §568(c)(1), Oct. 28, 2009, 123 Stat. 2186.)
+(June 27, 1952, ch. 477, title II, ch. 1, §201, 66 Stat. 175; Pub. L. 89–236, §1, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §2, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §1, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(a), Mar. 17, 1980, 94 Stat. 106; Pub. L. 97–116, §20\[(a)\], Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title I, §101(a), Nov. 29, 1990, 104 Stat. 4980; Pub. L. 102–232, title III, §302(a)(1), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 103–322, title IV, §40701(b)(2), Sept. 13, 1994, 108 Stat. 1954; Pub. L. 103–416, title II, §219(b)(1), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(5), (g)(8)(A)(i), title VI, §§603, 671(d)(1)(A), Sept. 30, 1996, 110 Stat. 3009–620, 3009–624, 3009–690, 3009–723; Pub. L. 106–386, div. B, title V, §1507(a)(3), Oct. 28, 2000, 114 Stat. 1530; Pub. L. 107–208, §2, Aug. 6, 2002, 116 Stat. 927; Pub. L. 109–162, title VIII, §805(b)(1), Jan. 5, 2006, 119 Stat. 3056; Pub. L. 111–83, title V, §568(c)(1), Oct. 28, 2009, 123 Stat. 2186.)
 
 #### Amendments
 
@@ -142,7 +142,7 @@ Subsecs. (c) to (e). Pub. L. 94–571, §2(2), struck out subsec. (c) which prov
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–236 substituted provisions setting up a 170,000 maximum on total annual immigration and 45,000 maximum on total quarterly immigration without regard to national origins, for provisions setting an annual quota for quota areas which allowed admission of one-sixth of one per centum of portion of national population of continental United States in 1920 attributable by national origin of that quota area and setting a minimum quota of 100 for each quota area.
 
-Subsec. (b). Pub. L. 89–236 substituted provisions defining "immediate relatives" for provisions calling for a determination of annual quota for each quota area by Secretaries of State and Commerce and Attorney General, and proclamation of quotas by President.
+Subsec. (b). Pub. L. 89–236 substituted provisions defining "immediate relatives" for provisions calling fora determination of annual quota for each quota area by Secretaries of State and Commerce and Attorney General, and proclamation of quotas by President.
 
 Subsec. (c). Pub. L. 89–236 substituted provisions allowing carryover through June 30, 1968, of quotas for quota areas in effect on June 30, 1965, and redistribution of unused quota numbers, for provisions which limited issuance of immigrant visas.
 
@@ -164,7 +164,7 @@ Transition cases.—
 
 &emsp;"(i)
 
-In general.—Notwithstanding any other provision of law, an alien described in clause (ii) who seeks immediate relative status pursuant to the amendment made by paragraph (1) shall file a petition under section 204(a)(1)(A)(ii) of the Immigration andNationality Act (8 U.S.C. 1154(a)(1)(A)(ii)) not later than the date that is 2 years after the date of the enactment of this Act.
+In general.—Notwithstanding any other provision of law, an alien described in clause (ii) who seeks immediate relative status pursuant to the amendment made by paragraph (1) shall file a petition under section 204(a)(1)(A)(ii) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(A)(ii)) not later than the date that is 2 years after the date of the enactment of this Act.
 
 &emsp;"(ii)
 
@@ -234,7 +234,7 @@ Treatment as Immediate Relatives.—
 
 &emsp;"(1)
 
-Spouses.—Notwithstanding the second sentence of section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)), in the case of an alien who was the spouse of a citizen of the United States at the time of the citizen's death and was not legally separated from the citizen at the time of the citizen's death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died as a result of injury or disease incurred in or aggravated by combat, the alien (and each child of the alien) shall be considered, for purposes of section 201(b) of such Act, to remain an immediate relative after the date of the citizen's death, but only if the alien files a petition under section 204(a)(1)(A)(ii) of such Act \[8 U.S.C. 1154(a)(1)(A)(ii)\] within 2 years after such date and only until the date the alien remarries. For purposes of such section 204(a)(1)(A)(ii), an alien granted relief under the preceding sentence shall be considered an alien spouse described in the second sentence of section 201(b)(2)(A)(i) of such Act.
+Spouses.—Notwithstanding the second sentence of section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)), in the case of an alien who was the spouse of a citizen of the United States at the time of the citizen's death and was not legally separated from the citizen at the time of the citizen's death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died as a result of injury or disease incurred in or aggravated by combat, the alien (and each child of the alien) shall be considered, for purposes of section 201(b) of such Act, to remain an immediate relative after the date of the citizen's death, but only if the alien files a petition under section 204(a)(1)(A)(ii) of such Act \[8 U.S.C. 1154(a)(1)(A)(ii)\] within 2 years after such date and only until the date the alien remarries. For purposes of such section 204(a)(1)(A)(ii), an alien granted reliefunder the preceding sentence shall be considered an alien spouse described in the second sentence of section 201(b)(2)(A)(i) of such Act.
 
 &emsp;"(2)
 
@@ -254,7 +254,7 @@ Parents.—
 
 &emsp;&emsp;"(A)
 
-In general.—In the case of an alien who was the parent of a citizen of the United States at the time of the citizen's death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died as a result of injury or disease incurred in or aggravated by combat, the alien shall be considered, for purposes of section 201(b) of the Immigration and Nationality Act (8 U.S.C. 1151(b)), to remain an immediate relative after the date of the citizen's death (regardless of changes in age or maritalstatus thereafter), but only if the alien files a petition under subparagraph (B) within 2 years after such date.
+In general.—In the case of an alien who was the parent of a citizen of the United States at the time of the citizen's death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died as a result of injury or disease incurred in or aggravated by combat, the alien shall be considered, for purposes of section 201(b) of the Immigration and Nationality Act (8 U.S.C. 1151(b)), to remain an immediate relative after the date of the citizen's death (regardless of changes in age or marital status thereafter), but only if the alien files a petition under subparagraph (B) within 2 years after such date.
 
 &emsp;&emsp;"(B)
 
@@ -354,7 +354,7 @@ Pub. L. 101–649, title I, §101(c), as added by Pub. L. 102–232, title III, 
 
 #### Inapplicability of Numerical Limitations for Certain Aliens Residing in the United States Virgin Islands
 
-The numerical limitations described in subsec. (a) of this section not to apply in the case of certain aliensresiding in the Virgin Islands seeking adjustment of their status to permanent resident alien status, and such adjustment of status not to result in any reduction in the number of aliens who may acquire the status of aliens lawfully admitted to the United States for permanent residence under this chapter, see section 2(c)(1) of Pub. L. 97–271, set out as a note under section 1255 of this title.
+The numerical limitations described in subsec. (a) of this section not to apply in the case of certain aliens residing in the Virgin Islands seeking adjustment of their status to permanent resident alien status, and such adjustment of status not to result in any reduction in the number of aliens who may acquire the status of aliens lawfully admitted to the United States for permanent residence under this chapter, see section 2(c)(1) of Pub. L. 97–271, set out as a note under section 1255 of this title.
 
 #### Exemption From Numerical Limitations for Certain Aliens Who Applied for Adjustment to Status of Permanent Resident Aliens on or Before June 1, 1978
 

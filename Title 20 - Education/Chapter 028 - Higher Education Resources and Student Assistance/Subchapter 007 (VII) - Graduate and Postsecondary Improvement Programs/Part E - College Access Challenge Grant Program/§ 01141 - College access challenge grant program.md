@@ -2,7 +2,7 @@
 
 #### (a) Authorization and appropriation
 
-There are authorized to be appropriated, and there are appropriated, to carry out this section $150,000,000 for each of the fiscal years 2010 through 2014. The authority to award grants under this section shall expire at the end of fiscal year 2014. In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+There are authorized to be appropriated, and there are appropriated, to carry out this section $150,000,000 for each of the fiscal years 2010through 2014. The authority to award grants under this section shall expire at the end of fiscal year 2014. In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
 #### (b) Program authorized
 
@@ -42,7 +42,7 @@ There are authorized to be appropriated, and there are appropriated, to carry ou
 
 #### (1) Amount of allotment
 
-&emsp;Subject to paragraph (2), in making grant payments to grantees under this section, theallotment to each grantee for a fiscal year shall be equal to the sum of—
+&emsp;Subject to paragraph (2), in making grant payments to grantees under this section, the allotment to each grantee for a fiscal year shall be equal to the sum of—
 
 &emsp;&emsp;(A) the amount that bears the same relation to 50 percent of the amount appropriated under subsection (a) for such fiscal year as the number of residents in the State aged 5 through 17 who are living below the poverty line applicable to the resident's family size (as determined under section 9902(2) of title 42) bears to the total number of such residents in all States; and
 
@@ -296,7 +296,7 @@ Another prior section 1145b, Pub. L. 89–329, title XII, §1202, formerly §120
 
 Section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. L. 99–498, title XII, §1205, Oct. 17, 1986, 100 Stat. 1577, related to financial responsibility of foreign students.
 
-Another prior section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. L. 94–482, title I, §183, Oct. 12, 1976, 90 Stat. 2167, related to availability of appropriations, prior to repeal by Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, eff. Oct. 1, 1980.
+Another prior section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. L. 94–482, title I, §183, Oct. 12, 1976,90 Stat. 2167, related to availability of appropriations, prior to repeal by Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, eff. Oct. 1, 1980.
 
 Section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 102–325, title XII, §1204, July 23, 1992, 106 Stat. 794; amended Pub. L. 103–208, §2(j)(54), Dec. 20, 1993, 107 Stat. 2485, related to disclosures of foreign gifts.
 

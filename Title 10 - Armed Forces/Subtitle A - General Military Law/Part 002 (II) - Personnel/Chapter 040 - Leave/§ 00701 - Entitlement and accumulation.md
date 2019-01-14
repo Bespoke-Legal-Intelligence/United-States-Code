@@ -24,7 +24,7 @@
 
 (B) This subsection applies to a member who—
 
-&emsp;(i) serves on active duty for a continuous period of at least 120 days in an area in which the member is entitled to special pay under section 310(a) of title 37;
+&emsp;(i) serves on active duty for a continuous period of at least 120 days in an area in whichthe member is entitled to special pay under section 310(a) of title 37;
 
 &emsp;(ii) is assigned to a deployable ship or mobile unit or to other duty designated for the purpose of this section; or
 
@@ -168,7 +168,7 @@ Subsec. (f)(1)(A). Pub. L. 110–181, §551(b)(1), substituted "at the end of th
 
 Subsec. (f)(1)(C). Pub. L. 110–181, §551(b)(2), substituted "the days of leave authorized to be accumulated under subsection (b) or (d) that are" for "60 days" and inserted "(or fourth fiscal year, if accumulated while subsection (d) is in effect)" after "third fiscal year".
 
-Subsec. (f)(2). Pub. L. 110–181, §551(b)(3), substituted "except for this paragraph, would lose at the end of that fiscal year any accumulated leave in excess of the number of days of leave authorized to be accumulated under subsection (b) or (d), shall be permitted to retain such leave until the end of the second fiscal year after the fiscal year in which such service on active duty is terminated" for "except for this paragraph—
+Subsec. (f)(2). Pub. L. 110–181, §551(b)(3), substituted "except for this paragraph, would lose at the end of that fiscal year any accumulated leave in excess of the number of days of leave authorized to be accumulatedunder subsection (b) or (d), shall be permitted to retain such leave until the end of the second fiscal year after the fiscal year in which such service on active duty is terminated" for "except for this paragraph—
 
 &emsp;"(A) would lose any accumulated leave in excess of 60 days at the end of that fiscal year, shall be permitted to retain such leave (not to exceed 90 days) until the end of the succeeding fiscal year; or
 
@@ -256,7 +256,7 @@ Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretary of Defense" to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
+Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretaryof Defense" to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 
 #### Accumulation of Leave After September 30, 1980, Pursuant to Subsection (f)
 

@@ -12,7 +12,7 @@
 
 #### (3) Application of least burdensome requirements
 
-&emsp;The substantive summary required under this subsection shall include a brief statement regarding how the least burdensome requirements were considered and applied consistent with section 360c(i)(1)(D) of this title, section 360c(a)(3)(D) of this title, and section 360e(c)(5) of this title, as applicable.
+&emsp;The substantive summary required under this subsection shall include a brief statement regarding how the least burdensome requirements were considered and applied consistent with section 360c(i)(1)(D) of this title, section360c(a)(3)(D) of this title, and section 360e(c)(5) of this title, as applicable.
 
 #### (b) Review of significant decisions
 
@@ -38,7 +38,7 @@
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a)(1). Pub. L. 114–255, §3051(b), inserted "a request for designation under section 360e–3 of thistitle," after "application under section 360e of this title,".
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–255, §3051(b), inserted "a request for designation under section 360e–3 of this title," after "application under section 360e of this title,".
 
 Subsec. (a)(3). Pub. L. 114–255, §3058(c), added par. (3).
 

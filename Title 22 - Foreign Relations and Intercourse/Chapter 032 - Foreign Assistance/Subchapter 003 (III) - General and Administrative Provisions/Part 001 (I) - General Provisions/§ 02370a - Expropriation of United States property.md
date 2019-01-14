@@ -94,7 +94,7 @@ The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oc
 
 #### Codification
 
-Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995, and notas part of the Foreign Assistance Act of 1961 which comprises this chapter.
+Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
 #### Amendments
 

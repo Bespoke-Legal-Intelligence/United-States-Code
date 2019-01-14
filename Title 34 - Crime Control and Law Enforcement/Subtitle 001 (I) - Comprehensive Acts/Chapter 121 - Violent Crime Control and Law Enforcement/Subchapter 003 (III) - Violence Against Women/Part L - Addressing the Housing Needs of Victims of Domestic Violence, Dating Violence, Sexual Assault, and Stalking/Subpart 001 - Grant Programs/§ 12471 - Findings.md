@@ -6,7 +6,7 @@ Congress finds that:
 
 &emsp;(2) Ninety-two percent of homeless women have experienced severe physical or sexual abuse at some point in their lives. Of all homeless women and children, 60 percent had been abused by age 12, and 63 percent have been victims of intimate partner violence as adults.
 
-&emsp;(3) Women and families across the country are being discriminated against, denied access to, and even evicted from public and subsidized housing because of their status as victims of domestic violence.
+&emsp;(3) Women and families across the country are being discriminated against, denied accessto, and even evicted from public and subsidized housing because of their status as victims of domestic violence.
 
 &emsp;(4) A recent survey of legal service providers around the country found that these providers have responded to almost 150 documented eviction cases in the last year alone where the tenant was evicted because of the domestic violence crimes committed against her. In addition, nearly 100 clients were denied housing because of their status as victims of domestic violence.
 

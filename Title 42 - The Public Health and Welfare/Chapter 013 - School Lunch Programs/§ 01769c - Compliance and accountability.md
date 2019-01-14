@@ -138,7 +138,7 @@
 
 #### (i) Local educational agencies
 
-&emsp;&emsp;&emsp;In accordance with procedures established by the Secretary, each local educational agency required to review initial eligibility determinations shall submit to the relevant State agency a report describing the results of the reviews, including—
+&emsp;&emsp;&emsp;In accordance with procedures established by the Secretary, each local educational agency required to review initial eligibility determinations shall submit tothe relevant State agency a report describing the results of the reviews, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) the number and percentage of reviewed applications for which the eligibility determination was changed and the type of change made; and
 
@@ -224,7 +224,7 @@ There is authorized to be appropriated for purposes of carrying out the complian
 
 &emsp;Funds to pay a fine imposed under paragraph (1) or (2) shall be derived from non-Federal sources.
 
-(June 4, 1946, ch. 281, §22, as added Pub. L. 101–147, title I, §110(a), Nov. 10, 1989, 103 Stat. 889; amended Pub. L. 103–448, title I, §121, Nov. 2, 1994, 108 Stat. 4727; Pub. L. 105–336, title I, §111, Oct. 31, 1998, 112 Stat. 3157; Pub. L. 108–265, title I, §§126(b)(1), 127, June 30, 2004, 118 Stat. 763, 767; Pub. L. 111–296, title II, §207, title III, §§303, 304, title IV, §408, Dec. 13, 2010, 124 Stat. 3220, 3240, 3242, 3260.)
+(June 4, 1946, ch. 281, §22, as added Pub. L. 101–147, title I, §110(a), Nov. 10, 1989, 103 Stat. 889; amended Pub. L. 103–448, title I, §121, Nov. 2, 1994, 108 Stat. 4727; Pub. L. 105–336, title I, §111, Oct. 31, 1998, 112 Stat. 3157; Pub. L. 108–265, titleI, §§126(b)(1), 127, June 30, 2004, 118 Stat. 763, 767; Pub. L. 111–296, title II, §207, title III, §§303, 304, title IV, §408, Dec. 13, 2010, 124 Stat. 3220, 3240, 3242, 3260.)
 
 #### References in Text
 

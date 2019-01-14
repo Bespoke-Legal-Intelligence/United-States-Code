@@ -10,6 +10,7 @@
 | [6306\.](%C2%A7%2006306%20-%20Penalty.md) | Penalty. |
 | [6307\.](%C2%A7%2006307%20-%20Notifications%20to%20Congress.md) | Notifications to Congress. |
 | [6308\.](%C2%A7%2006308%20-%20Information%20barred%20in%20legal%20proceedings.md) | Information barred in legal proceedings. |
+| [6309\.](%C2%A7%2006309%20-%20Voyage%20data%20recorder%20access.md) | Voyage data recorder access. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -18,6 +19,8 @@
 Chapter 63 sets forth the scope and procedures for the investigation of marine casualties and incidents that are required to be reported by Chapter 61, as well as the rights of parties involved in a casualty.
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–265, title II, §207(b), Oct. 11, 2018, 132 Stat. 3747, added item 6309.
 
 <b>1996</b>—Pub. L. 104–324, title III, §313(b), Oct. 19, 1996, 110 Stat. 3922, added item 6308.
 
@@ -34,3 +37,4 @@ Chapter 63 sets forth the scope and procedures for the investigation of marine c
 - [&sect; 06306 - Penalty](%C2%A7%2006306%20-%20Penalty.md)
 - [&sect; 06307 - Notifications to Congress](%C2%A7%2006307%20-%20Notifications%20to%20Congress.md)
 - [&sect; 06308 - Information barred in legal proceedings](%C2%A7%2006308%20-%20Information%20barred%20in%20legal%20proceedings.md)
+- [&sect; 06309 - Voyage data recorder access](%C2%A7%2006309%20-%20Voyage%20data%20recorder%20access.md)

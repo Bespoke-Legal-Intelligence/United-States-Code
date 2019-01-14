@@ -46,7 +46,7 @@ In any case in which a proposal relates to a Federal project that is not operate
 
 #### (1) Notice
 
-&emsp;On receipt of a proposal submitted under subsection (a), the Secretary shall provide acopy of the proposal to each entity described in paragraph (2) and, if applicable, the Federal agency that operates the project, in the case of a project operated by an agency other than the Department of the Army.
+&emsp;On receipt of a proposal submitted under subsection (a), the Secretary shall provide a copy of the proposal to each entity described in paragraph (2) and, if applicable, the Federal agency that operates the project, in the case of a project operated by an agency other than the Department of the Army.
 
 #### (2) Public participation
 

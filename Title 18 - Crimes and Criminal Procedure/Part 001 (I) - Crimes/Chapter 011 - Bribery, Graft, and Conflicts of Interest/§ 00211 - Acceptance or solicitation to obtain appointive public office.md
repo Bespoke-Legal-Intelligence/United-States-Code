@@ -1,6 +1,6 @@
 ### §211. Acceptance or solicitation to obtain appointive public office
 
-Whoever solicits or receives, either as a political contribution, or for personal emolument, any money or thing of value, in consideration of the promise of support or use of influence in obtaining for any person any appointive office or place under the United States, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever solicits or receives, either as a political contribution, or for personal emolument, any money or thing of value, in consideration of the promise of support or use of influence in obtaining for any person any appointive office or place under the United States, shall be finedunder this title or imprisoned not more than one year, or both.
 
 Whoever solicits or receives any thing of value in consideration of aiding a person to obtain employment under the United States either by referring his name to an executive department or agency of the United States or by requiring the payment of a fee because such person has secured such employment shall be fined under this title, or imprisoned not more than one year, or both. This section shall not apply to such services rendered by an employment agency pursuant to the written request of an executive department or agency of the United States.
 
@@ -14,7 +14,7 @@ Same changes of style and substance were made in this section as in section 214 
 
 #### Prior Provisions
 
-A prior section 211, act June 25, 1948, ch. 645, 62 Stat. 693, related to an offer of a gratuity to a revenue officer, prior to the general amendment of this chapter byPub. L. 87–849 and is substantially covered in revised section 201.
+A prior section 211, act June 25, 1948, ch. 645, 62 Stat. 693, related to an offer of a gratuity to a revenue officer, prior to the general amendment of this chapter by Pub. L. 87–849 and is substantially covered in revised section 201.
 
 #### Amendments
 

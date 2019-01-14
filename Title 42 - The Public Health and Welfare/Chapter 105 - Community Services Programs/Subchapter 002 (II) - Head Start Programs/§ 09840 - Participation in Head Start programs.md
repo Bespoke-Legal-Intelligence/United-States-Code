@@ -50,7 +50,7 @@
 
 &emsp;(D) not less than 50 percent of the families to be served in the community are eligible under the eligibility criteria established by the Secretary under paragraph (1);
 
-> the Head Start program in each such locality shall establish the criteria for eligibility, except that no child residing in such community whose family is eligible under such eligibility criteria shall, by virtue of such project's eligibility criteria, be denied an opportunity to participate in such program. During the period beginning on October 30, 1984, and ending on October 1, 1994,and unless specifically authorized in any statute of the United States enacted after October 30, 1984, the Secretary may not make any change in the method, as in effect on April 25, 1984, of calculating income used to prescribe eligibility for the participation of persons in the Head Start programs assisted under this subchapter if such change would result in any reduction in, or exclusion from, participation of persons in any of such programs.
+> the Head Start program in each such locality shall establish the criteria for eligibility, except that no child residing in such community whose family is eligible under such eligibility criteria shall, by virtue of such project's eligibility criteria, be denied an opportunity to participate in such program. During the period beginning on October 30, 1984, and ending on October 1, 1994, and unless specifically authorized in any statute of the United States enacted after October 30, 1984, the Secretary may not make any change in the method, as in effect on April 25, 1984, of calculating income used to prescribe eligibility for the participation of persons in the Head Start programs assisted under this subchapter if such change would result in any reduction in, or exclusion from, participation of persons in any of such programs.
 
 (3)(A) In this paragraph:
 
@@ -104,7 +104,7 @@ Each Head Start program operated in a community shall be permitted to provide mo
 
 &emsp;(A) operates a Head Start program;
 
-&emsp;(B) enrolls as participants in the program all children in the community served by the tribe (including a community that is an off-reservation area, designated by an appropriate tribalgovernment, in consultation with the Secretary) from families that meet the low-income criteria prescribed under subsection (a)(1)(A); and
+&emsp;(B) enrolls as participants in the program all children in the community served by the tribe (including a community that is an off-reservation area, designated by an appropriate tribal government, in consultation with the Secretary) from families that meet the low-income criteria prescribed under subsection (a)(1)(A); and
 
 &emsp;(C) has the resources to enroll additional children in the community who do not meet the low-income criteria;
 

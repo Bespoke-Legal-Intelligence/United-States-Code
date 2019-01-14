@@ -26,7 +26,7 @@ Any regulation issued under this chapter shall not be subject to sections 551 th
 
 #### (c) Public comment on procurement regulations
 
-Any procurement policy, regulation, procedure, or form (including any amendment or modification of any such policy, regulation, procedure, or form) issued under this chapter shall be subject to section 1707 of title 41.
+Any procurement policy, regulation, procedure, or form (including any amendment ormodification of any such policy, regulation, procedure, or form) issued under this chapter shall be subject to section 1707 of title 41.
 
 (Sept. 8, 1950, ch. 932, title VII, §709, 64 Stat. 819; Pub. L. 102–558, title I, §136(a), Oct. 28, 1992, 106 Stat. 4216.)
 

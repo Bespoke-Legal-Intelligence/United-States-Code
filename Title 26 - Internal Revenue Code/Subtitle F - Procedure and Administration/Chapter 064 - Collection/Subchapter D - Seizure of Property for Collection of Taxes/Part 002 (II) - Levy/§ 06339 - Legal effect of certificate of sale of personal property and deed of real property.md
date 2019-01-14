@@ -34,7 +34,7 @@ In the case of the sale of real property pursuant to section 6335—
 
 #### (2) Deed as conveyance of title
 
-&emsp;If the proceedings of the Secretary as set forth have been substantially in accordancewith the provisions of law, such deed shall be considered and operate as a conveyance of all the right, title, and interest the party delinquent had in and to the real property thus sold at the time the lien of the United States attached thereto.
+&emsp;If the proceedings of the Secretary as set forth have been substantially in accordance with the provisions of law, such deed shall be considered and operate as a conveyance of all the right, title, and interest the party delinquent had in and to the real property thus sold at the time the lien of the United States attached thereto.
 
 #### (c) Effect of junior encumbrances
 
@@ -58,7 +58,7 @@ A certificate of sale of personal property given or a deed to real property exec
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
+Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United Statesarose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
 
 #### Effective Date of 1958 Amendment
 

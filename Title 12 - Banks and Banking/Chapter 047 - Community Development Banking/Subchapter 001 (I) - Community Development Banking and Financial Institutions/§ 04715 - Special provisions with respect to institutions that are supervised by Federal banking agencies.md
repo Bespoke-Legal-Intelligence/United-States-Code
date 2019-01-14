@@ -42,7 +42,7 @@ Neither the Fund nor the appropriate Federal banking agency shall disclose confi
 
 #### (f) Privilege maintained
 
-The Fund, the appropriate Federal banking agency, and any other party providing information under this section shall not be deemed to have waived any privilege applicable to any information or data, or any portion thereof, by providing such information or data to the otherparty or by permitting such data or information, or any copies or portions thereof, to be used by the other party.
+The Fund, the appropriate Federal banking agency, and any other party providing information under this section shall not be deemed to have waived any privilege applicable to any information or data, or any portion thereof, by providing such information or data to the other party or by permitting such data or information, or any copies or portions thereof, to be used by the other party.
 
 #### (g) Exceptions
 

@@ -8,11 +8,19 @@ It is the intention of the Congress that the provisions of this chapter shall be
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 85–699, which enacted this chapter, amended sections 77c, 77ddd, 80a–18, 633 and 636 of this title, and sections 217 \[now 212\], 218 \[now 213\], 221 \[now 216\], 657, 1006 and 1014 of Title 18, Crimes and Criminal Procedure, repealed section 352a of Title 12,Banks and Banking, and enacted notes set out under this section and section 352a of Title 12. Sections 212 and 213 of Title 18, as renumbered by Pub. L. 87–849, were subsequently repealed. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 85–699, which enacted this chapter, amended sections 77c, 77ddd, 80a–18, 633 and 636 of this title, and sections 217 \[now 212\], 218 \[now 213\], 221 \[now 216\], 657, 1006 and 1014 of Title 18, Crimes and Criminal Procedure, repealed section 352a of Title 12, Banks and Banking, and enacted notes set out under this section and section 352a of Title 12. Sections 212 and 213 of Title 18, as renumbered by Pub. L. 87–849, were subsequently repealed. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–366 inserted at end "It is the intention of the Congress that in the award of financial assistance under this chapter, when practicable, priority be accorded to small business concerns which lease or purchase equipment and supplies which are produced in the United States and that small business concerns receiving such assistance be encouraged to continue to lease or purchase such equipment and supplies."
+
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–371, §1, Dec. 21, 2018, 132 Stat. 5106, provided that: This Act \[amending section 696 of this title\] may be cited as the "Small Business Access to Capital and Efficiency Act" or the "Small Business ACE Act".
+
+Pub. L. 115–333, §1, Dec. 19, 2018, 132 Stat. 4488, provided that: "This Act \[amending sections 662, 681, and 687 of this title\] may be cited as the 'Spurring Business in Communities Act of 2017'."
+
+Pub. L. 115–187, §1, June 21, 2018, 132 Stat. 1489, provided that: "This Act \[amending section 683 of this title\] may be cited as the 'Small Business Investment Opportunity Act of 2017'."
 
 #### Short Title of 2004 Amendment
 

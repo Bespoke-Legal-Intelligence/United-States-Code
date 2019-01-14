@@ -54,7 +54,7 @@ Under regulations prescribed by the Secretary—
 
 &emsp;(2) in the case of the sale or exchange of stock in an S corporation, rules similar to the rules of section 751 shall be applied to that portion of the excess of the amount realized over the adjusted basis of the stock which is attributable to expenditures referred to in subsection (a)(1)(A) of this section.
 
-(Added Pub. L. 94–455, title II, §205(a), Oct. 4, 1976, 90 Stat. 1533; amended Pub. L. 95–618, titleIV, §402(c)(1)–(3), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 97–354, §5(a)(37), Oct. 19, 1982, 96 Stat. 1696; Pub. L. 99–514, title IV, §413(a), Oct. 22, 1986, 100 Stat. 2227; Pub. L. 100–647, title I, §1004(c), Nov. 10, 1988, 102 Stat. 3387.)
+(Added Pub. L. 94–455, title II, §205(a), Oct. 4, 1976, 90 Stat. 1533; amended Pub. L. 95–618, title IV, §402(c)(1)–(3), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 97–354, §5(a)(37), Oct. 19, 1982, 96 Stat. 1696; Pub. L. 99–514, title IV, §413(a), Oct. 22, 1986, 100 Stat. 2227; Pub. L. 100–647, title I, §1004(c), Nov. 10, 1988, 102 Stat. 3387.)
 
 #### Amendments
 

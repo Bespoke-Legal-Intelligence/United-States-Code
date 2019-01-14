@@ -26,7 +26,7 @@ Exam Review.—
 
 &emsp;(1)
 
-In general.—Not later than 90 days after the date of the enactment of the Coast Guard Authorization Act of 2016, and once every two years thereafter, the Commandant of the Coast Guard shall commission a working group to review new questions for inclusion in examinations required for merchant mariner credentials, composed of—
+In general.—Not later than 90 days after the date of the enactment of the Coast Guard Authorization Act of 2016, and once every two years thereafter, the Commandant shall commission a working group to review new questions for inclusion in examinations required for merchant mariner credentials, composed of—
 
 &emsp;&emsp;(A) 1 subject matter expert from the Coast Guard;
 
@@ -36,7 +36,7 @@ In general.—Not later than 90 days after the date of the enactment of the Coas
 
 &emsp;&emsp;&emsp;(ii) one-half shall be representatives from the appropriate maritime industry;
 
-&emsp;&emsp;(C) at least 1 representative from the Merchant Marine Personnel Advisory Committee;
+&emsp;&emsp;(C) at least 1 representative from the National Merchant Marine Personnel Advisory Committee;
 
 &emsp;&emsp;(D) at least 2 representatives from the State maritime academies, of whom one shall be a representative from the deck training track and one shall be a representative of the engineer license track;
 
@@ -102,7 +102,7 @@ FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to an
 
 Merchant Mariner Credential Defined.—In this section, the term "merchant mariner credential" means a merchant seaman license, certificate, or document that the Secretary is authorized to issue pursuant to this title.
 
-(Added Pub. L. 114–120, title III, §315(a)(1), Feb. 8, 2016, 130 Stat. 60; amended Pub. L. 114–328, div. C, title XXXV, §3503(a), (b)(1), Dec. 23, 2016, 130 Stat. 2775.)
+(Added Pub. L. 114–120, title III, §315(a)(1), Feb. 8, 2016, 130 Stat. 60; amended Pub. L. 114–328, div. C, title XXXV, §3503(a), (b)(1), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–232, div. C, title XXXV, §3541(b)(12), Aug. 13, 2018, 132 Stat. 2323; Pub. L. 115–282, title VI, §601(c)(3)(B), Dec. 4, 2018, 132 Stat. 4289.)
 
 #### References in Text
 
@@ -111,6 +111,10 @@ The date of the enactment of the Coast Guard Authorization Act of 2016, referred
 The Federal Advisory Committee Act, referred to in subsec. (c)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(1). Pub. L. 115–232 substituted "Commandant" for "Commandant of the Coast Guard" in introductory provisions.
+
+Subsec. (c)(1)(C). Pub. L. 115–282 inserted "National" before "Merchant Marine".
 
 <b>2016</b>—Subsec. (c)(1). Pub. L. 114–328, §3503(a), in introductory provisions, substituted "Coast Guard Authorization Act of 2016" for "Coast Guard Authorization Act of 2015".
 
@@ -122,7 +126,7 @@ Subsec. (c)(9). Pub. L. 114–328, §3503(b)(1)(B), inserted a period after "App
 
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under section 60 of Title 14, Coast Guard.
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under section 315 of Title 14, Coast Guard.
 
 #### Disclosure to Congress
 

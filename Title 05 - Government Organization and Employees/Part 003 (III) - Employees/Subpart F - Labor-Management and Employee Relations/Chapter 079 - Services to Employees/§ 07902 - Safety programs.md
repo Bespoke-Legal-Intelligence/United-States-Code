@@ -68,7 +68,7 @@ Ex. Ord. No. 10990, Feb. 5, 1962, 27 F.R. 1065, which provided for the establish
 
 #### Executive Order No. 11612
 
-Ex. Ord. No. 11612, July 26, 1971, 36 F.R. 13891, which related to occupational safety and health programs for federal employees, was superseded by Ex. Ord. 11807, Sept. 28, 1974, 39 F.R. 35559, formerly set out below.
+Ex. Ord. No. 11612, July 26, 1971, 36 F.R. 13891, which related to occupational safety and health programs forfederal employees, was superseded by Ex. Ord. 11807, Sept. 28, 1974, 39 F.R. 35559, formerly set out below.
 
 #### Executive Order No. 11807
 
@@ -122,7 +122,7 @@ Heads of Agencies
 
 Occupational Safety and Health Committees
 
-1–301. Agency heads may establish occupational safety and health committees. If committees are established, they shall be established at both the nationallevel and, for agencies with field or regional offices, other appropriate levels. The committees shall be composed of representatives of management and an equal number of nonmanagement employees or their representatives. Where there are exclusive bargaining representatives for employees at the national or other level in an agency, such representatives shall select the appropriate nonmanagement members of the committee.
+1–301. Agency heads may establish occupational safety and health committees. If committees are established, they shall be established at both the national level and, for agencies with field or regional offices, other appropriate levels. The committees shall be composed of representatives of management and an equal number of nonmanagement employees or their representatives. Where there are exclusive bargaining representatives for employees at the national or other level in an agency, such representatives shall select the appropriate nonmanagement members of the committee.
 
 1–302. The committees shall, except where prohibited by law,
 
@@ -144,7 +144,7 @@ Department of Labor
 
 (b) Maintain liaison with the Office of Management and Budget in matters relating to this order and coordinate the activities of the Department with those of other agencies that have responsibilities or functions related to Federal employee safety and health, including the Office of Personnel Management, the Department of Health and Human Services, and the General Services Administration.
 
-(c) Issue, subject to the approval of the Director of the Office of Management and Budget, and in consultation with the Federal Advisory Council on Occupational Safety and Health, a set of basic program elements. The program elements shall help agency heads establish occupational safety and health committees and operate effective occupational safety and health programs, and shall provide flexibility to each agency head to implement a program consistent with its mission, size and organization. Upon request of an agency head, and after consultation with the Federal Advisory Council on Occupational Safety and Health, the Secretary may approve alternate program elements.
+(c) Issue, subject to the approval of the Director of the Office of Management and Budget, and in consultation with the Federal Advisory Council on Occupational Safety and Health, a set of basic program elements. The program elements shall help agency heads establish occupational safety and health committees and operate effective occupational safety and health programs, and shall provide flexibility to each agency head to implement a program consistent with its mission, size and organization. Upon request of an agency head, and after consultation with the Federal AdvisoryCouncil on Occupational Safety and Health, the Secretary may approve alternate program elements.
 
 (d) Prescribe recordkeeping and reporting requirements.
 
@@ -184,7 +184,7 @@ General Services Administration
 
 (a) Upon request, require personnel of the General Services Administration to accompany the Secretary or an agency head on any inspection or investigation conducted pursuant to this order of a facility subject to the authority of the General Services Administration.
 
-(b) Assure prompt attention to reports from agencies of unsafe or unhealthy conditions of facilities subject to the authority of the General Services Administration; where abatement cannot be promptly effected, submit to the agency head a timetable for action tocorrect the conditions; and give priority in the allocation of resources available to the Administrator for prompt abatement of the conditions.
+(b) Assure prompt attention to reports from agencies of unsafe or unhealthy conditions of facilities subject to the authority of the General Services Administration; where abatement cannot be promptly effected, submit to the agency head a timetable for action to correct the conditions; and give priority in the allocation of resources available to the Administrator for prompt abatement of the conditions.
 
 (c) Procure and provide safe supplies, devices, and equipment, and establish and maintain a product safety program for those supplies, devices, equipment and services furnished to agencies, including the issuance of Material Safety Data Sheets when hazardous substances are furnished them.
 

@@ -34,7 +34,7 @@ Rapid reporting.—The procedures established pursuant to subsection (a) shall r
 
 &emsp;(3)
 
-Department assistance and access to equipment and information by departmentpersonnel.—The procedures established pursuant to subsection (a) shall—
+Department assistance and access to equipment and information by department personnel.—The procedures established pursuant to subsection (a) shall—
 
 &emsp;&emsp;(A) include mechanisms for Department personnel to, if requested, assist operationally critical contractors in detecting and mitigating penetrations; and
 
@@ -108,7 +108,7 @@ Pub. L. 113–291, div. A, title XVI, §1632(c), Dec. 19, 2014, 128 Stat. 3640, 
 
 In general.—Not later than 90 days after the date of the enactment of the Act \[Dec. 19, 2014\], the Secretary of Defense shall complete an assessment of—
 
-&emsp;"(A) requirements that were in effect on the day before the date of the enactment of this Act for contractors to share information with Department components regarding cyber incidents (as defined in subsection (d) of such section 391 \[10 U.S.C. 391\]) with respect to networks or information systems of contractors; and
+&emsp;"(A) requirements that were in effect on the day before the date of the enactment of this Act for contractors to share information with Department components regarding cyber incidents (as defined in subsection (d) \[now (e)\] of such section 391 \[10 U.S.C. 391(e)\]) with respect to networks or information systems of contractors; and
 
 &emsp;"(B) Department policies and systems for sharing information on cyber incidents with respect to networks or information systems of Department contractors.
 

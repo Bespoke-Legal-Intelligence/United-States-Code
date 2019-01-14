@@ -122,7 +122,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 (3) The Advisory Committee shall meet at least once each quarter.
 
-(4) The Advisory Committee shall advise the Bank on its programs, and shall submit, with the report specified in section 635(b)(1)(A) of this title, its own comments to the Congress on the extent to which the Bank is meeting its mandate to provide competitive financing to expand United States exports, and any suggestions for improvements in this regard.
+(4) The Advisory Committee shall advise the Bank on its programs, and shall submit, withthe report specified in section 635(b)(1)(A) of this title, its own comments to the Congress on the extent to which the Bank is meeting its mandate to provide competitive financing to expand United States exports, and any suggestions for improvements in this regard.
 
 (5) In carrying out paragraph (4), the Advisory Committee shall consider ways to promote the financing of Bank transactions for the textile industry, consistent with the requirement that the Bank obtain a reasonable assurance of repayment, and determine ways to—
 
@@ -152,7 +152,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 #### (2) Management
 
-&emsp;The President of the Bank shall appoint an officer, who shall rank not lower than seniorvice president and whose sole executive function shall be to manage the Division. The officer shall—
+&emsp;The President of the Bank shall appoint an officer, who shall rank not lower than senior vice president and whose sole executive function shall be to manage the Division. The officer shall—
 
 &emsp;&emsp;(A) have substantial recent experience in financing exports by small business concerns; and
 
@@ -222,7 +222,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 #### (A) Chairperson
 
-&emsp;&emsp;The Chairperson of the Small Business Committee shall be the officer appointed tomanage the Small Business Division pursuant to subsection (f)(2). The Chairperson shall have the authority to call meetings of the Small Business Committee, set the agenda for Committee meetings, and request policy recommendations from the Committee's members.
+&emsp;&emsp;The Chairperson of the Small Business Committee shall be the officer appointed to manage the Small Business Division pursuant to subsection (f)(2). The Chairperson shall have the authority to call meetings of the Small Business Committee, set the agenda for Committee meetings, and request policy recommendations from the Committee's members.
 
 #### (B) Other members
 
@@ -398,7 +398,7 @@ The Ethics in Government Act of 1978, referred to in subsec. (k)(2)(C), is Pub. 
 
 #### Codification
 
-Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annual compensation of the President, the First Vice President, and other members ofthe Board of Directors, were omitted to conform to the provisions of the Executive Schedule. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
+Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annual compensation of the President, the First Vice President, and other members of the Board of Directors, were omitted to conform to the provisions of the Executive Schedule. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -492,7 +492,7 @@ Report to the congress.—Within 1 year after the date of the enactment of this 
 
 #### Board of Directors; Exception to Quorum Requirement
 
-Pub. L. 106–46, §1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 106–62, §122, Sept. 30, 1999, 113 Stat.509; Pub. L. 106–85, Oct. 29, 1999, 113 Stat. 1297; Pub. L. 106–88, Nov. 5, 1999, 113 Stat. 1304; Pub. L. 106–94, Nov. 10, 1999, 113 Stat. 1311; Pub. L. 106–105, Nov. 18, 1999, 113 Stat. 1484; Pub. L. 106–106, Nov. 19, 1999, 113 Stat. 1485, provided that: "Notwithstanding section 3(c)(6) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635a(c)(6)\], if, during the period that begins on July 21, 1999, and ends on December 2, 1999, there are fewer than three persons holding office on the Board of Directors of the Export-Import Bank of the United States, the entire membership of such Board of Directors shall constitute a quorum until the end of such period."
+Pub. L. 106–46, §1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 106–62, §122, Sept. 30, 1999, 113 Stat. 509; Pub. L. 106–85, Oct. 29, 1999, 113 Stat. 1297; Pub. L. 106–88, Nov. 5, 1999, 113 Stat. 1304; Pub. L. 106–94, Nov. 10, 1999, 113 Stat. 1311; Pub. L. 106–105, Nov. 18, 1999, 113 Stat. 1484; Pub. L. 106–106, Nov. 19, 1999, 113 Stat. 1485, provided that: "Notwithstanding section 3(c)(6) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635a(c)(6)\], if, during the period that begins on July 21, 1999, and ends on December 2, 1999, there are fewer than three persons holding office on the Board of Directors of the Export-Import Bank of the United States, the entire membership of such Board of Directors shall constitute a quorum until the end of such period."
 
 #### Compensation of Employees
 
@@ -560,7 +560,7 @@ Report.—Not later than 1 year after the date of enactment of this Act, the Exp
 
 #### Report on Regional Offices
 
-Pub. L. 102–429, title I, §118, Oct. 21, 1992, 106 Stat. 2197, directed Export-Import Bank, not later than 1 year after Oct. 21, 1992, to submit a report to Congress on the Bank's plan to establish and operate regional offices.
+Pub. L. 102–429, title I, §118, Oct. 21, 1992, 106 Stat. 2197, directed Export-Import Bank, not later than 1 year after Oct. 21, 1992, to submit a report to Congresson the Bank's plan to establish and operate regional offices.
 
 #### Appointment of Member of Board To Represent Interests of Small Business Community
 
@@ -596,7 +596,7 @@ There is hereby established the office of Deputy Director of the Export-Import B
 
 #### Sec. 3. Assistant Director
 
-There is hereby established the office of Assistant Director of the Export-Import Bank of Washington. The Assistant Director shall be appointed by the Managing Director under the classified civil service, shall receive compensation at the rate now or hereafter fixed by lawfor grade GS–18 of the general schedule established by the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5\], and shall perform such functions as the Managing Director may from time to time prescribe.
+There is hereby established the office of Assistant Director of the Export-Import Bank of Washington. The Assistant Director shall be appointed by the Managing Director under the classified civil service, shall receive compensation at the rate now or hereafter fixed by law for grade GS–18 of the general schedule established by the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5\], and shall perform such functions as the Managing Director may from time to time prescribe.
 
 #### Sec. 4. Functions Transferred to the Managing Director
 

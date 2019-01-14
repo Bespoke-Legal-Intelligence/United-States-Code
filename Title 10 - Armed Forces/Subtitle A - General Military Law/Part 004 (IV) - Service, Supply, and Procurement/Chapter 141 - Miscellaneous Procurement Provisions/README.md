@@ -48,11 +48,13 @@
 | [2410p.](%C2%A7%2002410p%20-%20Contracts%20limitations%20on%20lead%20system%20integrators.md) | Contracts: limitations on lead system integrators. |
 | [2410q.](%C2%A7%2002410q%20-%20Multiyear%20contracts%20purchase%20of%20electricity%20from%20renewable%20energy%20sources.md) | Multiyear contracts: purchase of electricity from renewable energy sources. |
 | [2410r.](%C2%A7%2002410r%20-%20Contract%20working%20dogs%20requirement%20to%20transfer%20animals%20to%20341st%20Training%20Squadron%20after%20service%20life.md) | Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life. |
-| [2410s.](%C2%A7%2002410s%20-%20Security%20clearances%20for%20facilities%20of%20certain%20companies.md) | Security clearances for facilities of certain companies <sup>1</sup> |
+| [2410s.](%C2%A7%2002410s%20-%20Security%20clearances%20for%20facilities%20of%20certain%20companies.md) | Security clearances for facilities of certain companies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(a)(22), Aug. 13, 2018, 132 Stat. 1984, inserted period at end of item 2410s.
 
 <b>2017</b>—Pub. L. 115–91, div. A, title XVI, §1621(b), Dec. 12, 2017, 131 Stat. 1732, added item 2410s.
 
@@ -110,7 +112,7 @@ Pub. L. 100–370, §§1(h)(3), 3(b)(2), July 19, 1988, 102 Stat. 848, 855, in i
 
 <b>1986</b>—Pub. L. 99–661, div. A, title XI, §1103(b)(2)(B), Nov. 14, 1986, 100 Stat. 3963, struck out "North Atlantic Treaty Organization" before "cooperative projects" in item 2407.
 
-Pub. L. 99–500, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–160, 1783–162, 1783–164, and Pub. L. 99–591, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–160, 3341–162, 3341–164; Pub. L. 99–661, div. A, title IX, formerly title IV, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2), Nov. 14, 1986, 100 Stat. 3939, 3941–3943, 3963, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, amended analysis identically, substituting "Availability of cost and pricing records" for "Cost and price management" in item 2406 and adding items 2397b, 2397c, 2408, and 2409.
+Pub. L. 99–500, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–160, 1783–162, 1783–164, and Pub. L. 99–591, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–160, 3341–162, 3341–164; Pub. L. 99–661, div. A, title IX, formerly title IV, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2), Nov. 14, 1986, 100 Stat. 3939, 3941–3943, 3963, renumbered title IX, Pub. L. 100–26,§3(5), Apr. 21, 1987, 101 Stat. 273, amended analysis identically, substituting "Availability of cost and pricing records" for "Cost and price management" in item 2406 and adding items 2397b, 2397c, 2408, and 2409.
 
 <b>1985</b>—Pub. L. 99–145, title IX, §§917(b), 923(a)(2), title XI, §1102(b)(2), Nov. 8, 1985, 99 Stat. 690, 697, 712, added items 2397a, 2406, and 2407.
 
@@ -147,8 +149,6 @@ Prohibition.—The Secretary of Defense shall ensure that the Department of Defe
 "(b)
 
 Certification.—Not later than 90 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a certification that the Secretary is in compliance with the prohibition under subsection (a)."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---

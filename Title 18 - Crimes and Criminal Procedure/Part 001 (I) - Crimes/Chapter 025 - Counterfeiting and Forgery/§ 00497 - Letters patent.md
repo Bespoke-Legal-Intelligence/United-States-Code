@@ -2,7 +2,7 @@
 
 Whoever falsely makes, forges, counterfeits, or alters any letters patent granted or purporting to have been granted by the President of the United States; or
 
-Whoever passes, utters, or publishes, or attempts to pass, utter, or publish as genuine, any such letters patent, knowing the same to be forged, counterfeited or falsely altered—
+Whoever passes, utters, or publishes, or attempts to pass, utter, or publish as genuine, anysuch letters patent, knowing the same to be forged, counterfeited or falsely altered—
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 

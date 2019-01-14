@@ -20,11 +20,13 @@ The Secretary, directly or through grants, shall provide for research into the p
 
 &emsp;&emsp;(C) $150,000,000 for each of fiscal years 2004 through 2017; and
 
-&emsp;&emsp;(D) $37,500,000 for the period of the first and second quarters of fiscal year 2018, to remain available until expended.
+&emsp;&emsp;(D) $150,000,000 for each of fiscal years 2018 and 2019, to remain available until expended.
 
-(July 1, 1944, ch. 373, title III, §330B, as added Pub. L. 105–33, title IV, §4921, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–34, title XVI, §1604(f)(1)(B), (C), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 106–554, §1(a)(6) \[title IX, §931(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(a), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 110–173, title III, §302(a), Dec. 29, 2007, 121 Stat. 2514; Pub. L. 110–275, title III, §303(a), July 15, 2008, 122 Stat. 2594; Pub. L. 111–309, title I, §112(1), Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–240, title VI, §625(a), Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–93, title II, §204(a), Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §213(a), Apr. 16, 2015, 129 Stat. 152; Pub. L. 115–96, div. C, title I, §3102(a), Dec. 22, 2017, 131 Stat. 2049.)
+(July 1, 1944, ch. 373, title III, §330B, as added Pub. L. 105–33, title IV, §4921, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–34, title XVI, §1604(f)(1)(B), (C), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 106–554, §1(a)(6) \[title IX, §931(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(a), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 110–173, title III, §302(a), Dec. 29, 2007, 121 Stat. 2514; Pub. L. 110–275, title III, §303(a), July 15, 2008, 122 Stat. 2594; Pub. L. 111–309, title I, §112(1), Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–240, title VI, §625(a), Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–93, title II, §204(a), Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §213(a), Apr. 16, 2015, 129 Stat. 152; Pub. L. 115–96, div. C, title I, §3102(a), Dec. 22, 2017, 131 Stat. 2049; Pub. L. 115–123, div. E, title IX, §50902(a), Feb. 9, 2018, 132 Stat. 289.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2)(D). Pub. L. 115–123 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "$37,500,000 for the period of the first and second quarters of fiscal year 2018, to remain available until expended."
 
 <b>2017</b>—Subsec. (b)(2)(D). Pub. L. 115–96 added subpar. (D).
 
@@ -52,7 +54,7 @@ Subsec. (a). Pub. L. 105–34, §1604(f)(1)(C)(ii), amended heading and text of 
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XVI, §1604(f)(4), Aug. 5, 1997, 111 Stat. 1099, provided that: "The provisions of, and amendments made by, this subsection \[amending this section and provisions set out as a note under section 5701 of Title 26, Internal Revenue Code\] shall take effect immediately after the sections referred to in this subsection \[sections 4921, 9302, 11104, and 11201 of Pub. L. 105–33\] take effect."
+Pub. L. 105–34, title XVI, §1604(f)(4), Aug. 5, 1997, 111 Stat. 1099, provided that: "The provisions of, andamendments made by, this subsection \[amending this section and provisions set out as a note under section 5701 of Title 26, Internal Revenue Code\] shall take effect immediately after the sections referred to in this subsection \[sections 4921, 9302, 11104, and 11201 of Pub. L. 105–33\] take effect."
 
 #### Report on Diabetes Grant Programs
 

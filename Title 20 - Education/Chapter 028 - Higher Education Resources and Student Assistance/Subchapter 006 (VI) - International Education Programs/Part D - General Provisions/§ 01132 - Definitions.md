@@ -10,7 +10,7 @@ As used in this subchapter—
 
 &emsp;(3) the term "educational programs abroad" means programs of study, internships, or service learning outside the United States which are part of a foreign language or other international curriculum at the undergraduate or graduate education levels;
 
-&emsp;(4) the term "export education" means educating, teaching and training to provide general knowledge and specific skills pertinent tothe selling of goods and services to other countries, including knowledge of market conditions, financial arrangements, laws and procedures;
+&emsp;(4) the term "export education" means educating, teaching and training to provide general knowledge and specific skills pertinent to the selling of goods and services to other countries, including knowledge of market conditions, financial arrangements, laws and procedures;
 
 &emsp;(5) the term "historically Black college and university" has the meaning given the term "part B institution" in section 1061 of this title;
 
@@ -34,7 +34,7 @@ All references to individuals or organizations, unless the context otherwise req
 
 A prior section 1132, Pub. L. 89–329, title VI, §622, as added Pub. L. 96–374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1470; amended Pub. L. 99–498, title VI, §614, Oct. 17, 1986, 100 Stat. 1520, defined terms used in this subchapter, prior to the general revision of this subchapter by Pub. L. 102–325.
 
-Another prior section 1132, Pub. L. 89–329, title VI, §622, Nov. 8, 1965, 79 Stat. 1266, related to stipends for persons attending faculty development program institutes, prior to the general revision of this subchapter by Pub. L. 96–374.
+Another prior section 1132, Pub. L. 89–329, title VI, §622, Nov. 8, 1965, 79 Stat. 1266, related to stipends forpersons attending faculty development program institutes, prior to the general revision of this subchapter by Pub. L. 96–374.
 
 #### Amendments
 

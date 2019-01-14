@@ -20,7 +20,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (4) Future obligation of Fund
 
-&emsp;In the case of a completed remedial action pursuant to an agreement described in paragraph (1), the Fund shall be subject to an obligation for subsequent remedial actions at the same facility but only to the extent that such subsequent actions are necessary by reason of the failure of the original remedial action. Such obligation shall be in a proportion equal to, but not exceeding, the proportion contributed by the Fund for the original remedial action. The Fund's obligation for such future remedial action may be met through Fund expenditures or through payment, following settlement or enforcement action, by parties who were not signatories to the original agreement.
+&emsp;In the case of a completed remedial action pursuant to an agreement described in paragraph (1), the Fund shall be subject to an obligation for subsequent remedial actions at the same facility but only to the extent that suchsubsequent actions are necessary by reason of the failure of the original remedial action. Such obligation shall be in a proportion equal to, but not exceeding, the proportion contributed by the Fund for the original remedial action. The Fund's obligation for such future remedial action may be met through Fund expenditures or through payment, following settlement or enforcement action, by parties who were not signatories to the original agreement.
 
 #### (c) Effect of agreement
 
@@ -42,7 +42,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (A) Consent decree
 
-&emsp;&emsp;Whenever the President enters into an agreement under this section with any potentially responsible party with respect to remedial action under section 9606 of this title, following approval of the agreement by the Attorney General, except as otherwise provided in the case of certain administrative settlements referred to in subsection (g), the agreement shall be entered in the appropriate United States district court as a consent decree. The President need not make any finding regarding an imminentand substantial endangerment to the public health or the environment in connection with any such agreement or consent decree.
+&emsp;&emsp;Whenever the President enters into an agreement under this section with any potentially responsible party with respect to remedial action under section 9606 of this title, following approval of the agreement by the Attorney General, except as otherwise provided in the case of certain administrative settlements referred to in subsection (g), the agreement shall be entered in the appropriate United States district court as a consent decree. The President need not make any finding regarding an imminent and substantial endangerment to the public health or the environment in connection with any such agreement or consent decree.
 
 #### (B) Effect
 
@@ -70,7 +70,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (1) Notice
 
-&emsp;Whenever the President determines that a period of negotiation under this subsection would facilitate an agreement with potentially responsible parties for taking response action (including any action described in section 9604(b) of this title) and would expedite remedial action, the President shall so notify all such parties and shall provide them with information concerning each of the following:
+&emsp;Whenever the President determines that a period of negotiation under this subsection would facilitate an agreement with potentially responsible parties for taking responseaction (including any action described in section 9604(b) of this title) and would expedite remedial action, the President shall so notify all such parties and shall provide them with information concerning each of the following:
 
 &emsp;&emsp;(A) The names and addresses of potentially responsible parties (including owners and operators and other persons referred to in section 9607(a) of this title), to the extent such information is available.
 
@@ -110,7 +110,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (D) Costs
 
-&emsp;&emsp;The costs incurred by the President in producing the nonbinding preliminary allocation of responsibility shall be reimbursed by the potentially responsible parties whose offer is accepted by the President. Where an offer under this section is not accepted, such costs shall be considered costs of response.
+&emsp;&emsp;The costs incurred by the President in producing the nonbinding preliminary allocation of responsibility shall be reimbursed by the potentially responsible parties whose offer is accepted by the President. Where anoffer under this section is not accepted, such costs shall be considered costs of response.
 
 #### (E) Decision to reject offer
 
@@ -144,7 +144,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (2) Special covenants not to sue
 
-&emsp;In the case of any person to whom the President is authorized under paragraph (1) of thissubsection to provide a covenant not to sue, for the portion of remedial action—
+&emsp;In the case of any person to whom the President is authorized under paragraph (1) of this subsection to provide a covenant not to sue, for the portion of remedial action—
 
 &emsp;&emsp;(A) which involves the transport and secure disposition offsite of hazardous substances in a facility meeting the requirements of sections 6924(c), (d), (e), (f), (g), (m), (o), (p), (u), and (v) and 6925(c) of this title, where the President has rejected a proposed remedial action that is consistent with the National Contingency Plan that does not include such offsite disposition and has thereafter required offsite disposition; or
 
@@ -222,7 +222,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (5) Effect of agreement
 
-&emsp;A party who has resolved its liability to the United States under this subsection shall not be liable for claims for contribution regarding matters addressed in the settlement. Such settlement does not discharge any of the other potentially responsible parties unless its terms so provide, but it reduces the potential liability of the others by the amount of the settlement.
+&emsp;A party who has resolved its liability to the United States under this subsection shall not be liable for claims for contribution regarding matters addressed in the settlement. Such settlement does not discharge any of the otherpotentially responsible parties unless its terms so provide, but it reduces the potential liability of the others by the amount of the settlement.
 
 #### (6) Settlements with other potentially responsible parties
 

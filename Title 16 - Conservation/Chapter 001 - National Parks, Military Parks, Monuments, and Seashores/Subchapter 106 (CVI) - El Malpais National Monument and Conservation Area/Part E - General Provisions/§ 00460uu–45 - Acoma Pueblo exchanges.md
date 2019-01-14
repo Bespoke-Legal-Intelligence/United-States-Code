@@ -10,7 +10,7 @@
 
 (2) All lands selected by and transferred to the Pueblo of Acoma at its request pursuant to this section shall thereafter be held in trust by the Secretary for the Pueblo of Acoma in the same manner as the lands for which they were exchanged.
 
-(3) Any lands west of New Mexico Highway 117 which are acquired by the Secretary pursuant to this section shall be incorporated into the monument and managed accordingly, and section 460uu–3 of this title and all other provisions of this subchapter and other law applicable to lands designated by this subchapter as part ofthe monument shall apply to such incorporated lands.
+(3) Any lands west of New Mexico Highway 117 which are acquired by the Secretary pursuant to this section shall be incorporated into the monument and managed accordingly, and section 460uu–3 of this title and all other provisions of this subchapter and other law applicable to lands designated by this subchapter as part of the monument shall apply to such incorporated lands.
 
 #### (b) Public lands available for exchange
 

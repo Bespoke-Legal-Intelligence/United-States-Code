@@ -20,7 +20,7 @@ To be eligible to participate in the scholarship and fellowship program, an indi
 
 #### (c) Agreement
 
-An agreement between the Secretary and a participant in the scholarship and fellowship program established under this section shall be in writing, shall be signed by the participant, and shall include the following provisions:
+An agreement between the Secretary and a participant in the scholarship and fellowshipprogram established under this section shall be in writing, shall be signed by the participant, and shall include the following provisions:
 
 &emsp;(1) The Secretary's agreement to provide the participant with educational assistance for a specified number of school years (not exceeding 5) during which the participant is pursuing a program of education in a qualifying field of study. The assistance may include payment of tuition, fees, books, laboratory expenses, and a stipend.
 

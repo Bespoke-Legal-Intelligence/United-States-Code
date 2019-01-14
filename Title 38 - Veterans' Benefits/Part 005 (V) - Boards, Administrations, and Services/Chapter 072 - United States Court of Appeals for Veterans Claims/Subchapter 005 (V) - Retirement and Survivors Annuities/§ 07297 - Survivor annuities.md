@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(i) 1.5 percent of the judge's average annual pay; and
 
-&emsp;&emsp;(ii) the sum of the judge's years of judicial service, the judge's years of prior allowable service as a Member of Congress, the judge's years of prior allowable service performed as a member of the Armed Forces, and the judge's years, not exceeding 15, of prior allowable service performed as a congressional employee (as defined in section 2107 of title 5).
+&emsp;&emsp;(ii) the sum of the judge's years of judicial service, the judge's years of prior allowable service as a Member of Congress, the judge's years of prior allowable service performed as a member of the Armed Forces, and the judge's years, not exceeding 15, of prior allowable service performed as a congressionalemployee (as defined in section 2107 of title 5).
 
 &emsp;(B) Three-fourths of 1 percent of the judge's average annual pay multiplied by the judge's years of allowable service not counted under subparagraph (A) of this paragraph.
 

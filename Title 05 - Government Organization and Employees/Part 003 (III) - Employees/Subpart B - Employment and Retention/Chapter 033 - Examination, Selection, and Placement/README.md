@@ -39,7 +39,7 @@
 | [3330a.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330a%20-%20Preference%20eligibles%3B%20administrative%20redress.md) | Preference eligibles; administrative redress. |
 | [3330b.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330b%20-%20Preference%20eligibles%3B%20judicial%20redress.md) | Preference eligibles; judicial redress. |
 | [3330c.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330c%20-%20Preference%20eligibles%3B%20remedy.md) | Preference eligibles; remedy. |
-| [3330d.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330d%20-%20Appointment%20of%20certain%20military%20spouses.md) | Appointment of certain military spouses. |
+| [3330d.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330d%20-%20Appointment%20of%20military%20spouses.md) | Appointment of military spouses. |
 | [3330e.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003330e%20-%20Review%20of%20official%20personnel%20file%20of%20former%20Federal%20employees%20before%20rehiring.md) | Review of official personnel file of former Federal employees before rehiring. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -139,7 +139,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 115–232, div. A, title XI, §1107(c), (d), Aug. 13, 2018, 132 Stat. 2005, provided that, effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, this analysis is amended by striking items 3317, 3318, and 3319 and inserting new items 3317 "Competitive service; certification using numerical ratings", 3318 "Competitive service; selection using numerical ratings", and 3319 "Competitive service; selection using category rating". See 2018 Amendment note below.</i>
+
+<i>Pub. L. 115–232, div. A, title V, §573(e), Aug. 13, 2018, 132 Stat. 1779, provided that, effective 5 years after Aug. 13, 2018, the amendment made by section 573(b) of Pub. L. 115–232 would expire. See 2018 Amendment note below.</i>
+
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–232, div. A, title XI, §1107(c), Aug. 13, 2018, 132 Stat. 2005, substituted "certification using numerical ratings" for "certification from registers." in item 3317, "selection using numerical ratings" for "selection from certificates." in item 3318, and "Competitive service; selection using category rating" for "Alternative ranking and selection procedures." in item 3319.
+
+Pub. L. 115–232, div. A, title V, §573(b), (e), Aug. 13, 2018, 132 Stat. 1779, which amended analysis by adding item 3330d "Appointment of military spouses" and striking out former item 3330d, "Appointment of certain military spouses", was treated as temporary to reflect the probable intent of Congress, notwithstanding termination provision in section 573(e) of Pub. L. 115–232, which effectively undid the amendments made to section 3330d of this title but only provided that the amendment made to this analysis would expire. See Termination Date of 2018 Amendment note set out under section 3330d of this title.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title XI, §§1136(c), 1140(c), Dec. 23, 2016, 130 Stat. 2460, 2471, which directed the amendment of the table of sections of subchapter I of chapter 33 by adding item 3330e at end and inserting item 3322 after item 3321, respectively, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 

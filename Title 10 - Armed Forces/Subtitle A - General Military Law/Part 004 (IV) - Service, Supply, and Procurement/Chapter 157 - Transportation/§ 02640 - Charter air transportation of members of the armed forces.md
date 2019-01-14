@@ -6,7 +6,7 @@ Requirements.—(1) The Secretary of Defense may not enter into a contract with 
 
 &emsp;(A) meets, at a minimum, the safety standards established by the Secretary of Transportation under chapter 447 of title 49;
 
-&emsp;(B) has at least 12 months of experience operating services in air transportation that are substantially equivalent to the service sought by the Department of Defense; and
+&emsp;(B) has at least 12 months of experience operating services in air transportation that aresubstantially equivalent to the service sought by the Department of Defense; and
 
 &emsp;(C) undergoes a technical safety evaluation.
 
@@ -58,7 +58,7 @@ Suspension and Reinstatement.—(1) The Secretary shall establish guidelines for
 
 (e)
 
-Authority To Leave Unsafe Aircraft.—A representative of the Military Airlift Command,the Military Traffic Management Command, or such other agency as may be designated by the Secretary of Defense (or if there is no such representative reasonably available, the senior officer on board a chartered aircraft) may order members of the armed forces to leave a chartered aircraft if the representative (or officer) determines that a condition exists on the aircraft which may endanger the safety of the members.
+Authority To Leave Unsafe Aircraft.—A representative of the Military Airlift Command, the Military Traffic Management Command, or such other agency as may be designated by the Secretary of Defense (or if there is no such representative reasonably available, the senior officer on board a chartered aircraft) may order members of the armed forces to leave a chartered aircraft if the representative (or officer) determines that a condition exists on the aircraft which may endanger the safety of the members.
 
 (f)
 

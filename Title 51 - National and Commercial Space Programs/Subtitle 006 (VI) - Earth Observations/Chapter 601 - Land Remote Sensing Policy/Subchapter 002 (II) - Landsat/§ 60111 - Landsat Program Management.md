@@ -42,7 +42,7 @@ Responsibilities.—The Landsat Program Management shall be responsible for—
 
 (d)
 
-Authority To Contract.—The Landsat Program Management may, subject to appropriations and only under the existing contract authority of the United States Government agencies that compose the Landsat Program Management, enter into contracts with the private sector for services such as satellite operations and data preprocessing.
+Authority To Contract.—The Landsat Program Management may, subject to appropriations and only under the existing contractauthority of the United States Government agencies that compose the Landsat Program Management, enter into contracts with the private sector for services such as satellite operations and data preprocessing.
 
 (e)
 
@@ -98,7 +98,7 @@ In subsection (e)(2), in the matter before subparagraph (A), the word "bienniall
 
 #### References in Text
 
-The Global Change Research Act of 1990, referred to in subsec. (c)(4), is Pub. L. 101–606, Nov. 16, 1990, 104Stat. 3096, which is classified generally to chapter 56A (§2921 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2921 of Title 15 and Tables.
+The Global Change Research Act of 1990, referred to in subsec. (c)(4), is Pub. L. 101–606, Nov. 16, 1990, 104 Stat. 3096, which is classified generally to chapter 56A (§2921 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2921 of Title 15 and Tables.
 
 Sections 102 and 103 of the Land Remote Sensing Policy Act of 1992, referred to in subsec. (c)(6), which were classified to sections 5612 and 5613, respectively, of Title 15, Commerce and Trade, were repealed by Pub. L. 111–314, §6, Dec. 18, 2010, 124 Stat. 3444, which Act enacted this title.
 

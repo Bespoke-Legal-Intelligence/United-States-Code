@@ -86,16 +86,6 @@
 
 &emsp;Any producer of a type of livestock covered by a pilot program under this subsection that owns or operates a farm or ranch in a county selected as a location for that pilot program shall be eligible to participate in that pilot program.
 
-#### (10) Limitation on expenditures
-
-&emsp;The Corporation shall conduct all livestock programs under this subchapter so that, to the maximum extent practicable, all costs associated with conducting the livestock programs (other than research and development costs covered by section 1522 of this title) are not expected to exceed the following:
-
-&emsp;&emsp;(A) $10,000,000 for each of fiscal years 2001 and 2002.
-
-&emsp;&emsp;(B) $15,000,000 for fiscal year 2003.
-
-&emsp;&emsp;(C) $20,000,000 for fiscal year 2004 and each subsequent fiscal year.
-
 #### (c) Revenue insurance pilot program
 
 #### (1) In general
@@ -118,7 +108,7 @@
 
 #### (1) Purpose
 
-&emsp;The purpose of the pilot program established under this subsection is to determine whetherapproved insurance providers will compete to market policies or plans of insurance with reduced rates of premium, in a manner that maintains the financial soundness of approved insurance providers and is consistent with the integrity of the Federal crop insurance program.
+&emsp;The purpose of the pilot program established under this subsection is to determine whether approved insurance providers will compete to market policies or plans of insurance with reduced rates of premium, in a manner that maintains the financial soundness of approved insurance providers and is consistent with the integrity of the Federal crop insurance program.
 
 #### (2) Establishment
 
@@ -256,7 +246,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Board shall approve 2 or more proposed policies or plans of insurance from approved insurance providers if the Board determines that the policies or plans provide coverage as specified in paragraph (2), and meet the conditions described in this paragraph <sup>2</sup>
+&emsp;&emsp;The Board shall approve 2 or more proposed policies or plans of insurance from approved insurance providers if the Board determines that the policies or plans provide coverage as specified in paragraph (2), and meet the conditions described in this paragraph.
 
 #### (B) Requirements
 
@@ -284,7 +274,7 @@
 
 #### (B) Amount
 
-&emsp;&emsp;The premium subsidy shall provide a similar dollar amount of premium subsidy per acre that the Corporation pays for comparable policies or plans of insurance reinsured under this subchapter, except that in no case shall the premium subsidy exceed 60 percent of total premium, as determined by the Corporation.
+&emsp;&emsp;The premium subsidy shall provide a similar dollar amount of premium subsidy peracre that the Corporation pays for comparable policies or plans of insurance reinsured under this subchapter, except that in no case shall the premium subsidy exceed 60 percent of total premium, as determined by the Corporation.
 
 #### (C) Calculation
 
@@ -312,7 +302,7 @@
 
 #### (F) Approved insurance providers
 
-&emsp;&emsp;Any policy or plan of insurance approved under this subsection may be sold only bythe approved insurance provider that submits the application and by any additional approved insurance provider that—
+&emsp;&emsp;Any policy or plan of insurance approved under this subsection may be sold only by the approved insurance provider that submits the application and by any additional approved insurance provider that—
 
 &emsp;&emsp;&emsp;(i) agrees to pay maintenance fees or other payments to the approved insurance provider that submitted the application in an amount agreed to by the applicant and the additional approved insurance provider, on the condition that the fees or payments shall be reasonable and appropriate to ensure that the policies or plans of insurance may be made available by additional approved insurance providers; and
 
@@ -360,7 +350,7 @@
 
 &emsp;&emsp;The amount of funds made available under this section shall be in addition to amounts made available under other provisions of this subchapter, including amounts made available under subsection (b).
 
-(Feb. 16, 1938, ch. 30, title V, §523, as added Pub. L. 106–224, title I, §132(a), June 20, 2000, 114 Stat. 383; amended Pub. L. 107–171, title X, §10004, May 13, 2002, 116 Stat. 487; Pub. L. 110–234, title XII, §§12025(a), 12033(c)(2)(B), May 22, 2008, 122 Stat. 1389, 1405; Pub. L. 110–246, §4(a), title XII, §§12025(a), 12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2151, 2167; Pub. L. 113–79, title XI, §§11025, 11026, Feb. 7, 2014, 128 Stat. 974.)
+(Feb. 16, 1938, ch. 30, title V, §523, as added Pub. L. 106–224, title I, §132(a), June 20, 2000, 114 Stat. 383; amended Pub. L. 107–171, title X, §10004, May 13, 2002, 116 Stat. 487; Pub. L. 110–234, title XII, §§12025(a), 12033(c)(2)(B), May 22, 2008, 122 Stat. 1389, 1405; Pub. L. 110–246, §4(a), title XII, §§12025(a), 12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2151, 2167; Pub. L. 113–79, title XI, §§11025, 11026, Feb. 7, 2014, 128 Stat. 974; Pub. L. 115–123, div. F, §60101(c)(1), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title XI, §11124, Dec. 20, 2018, 132 Stat. 4935.)
 
 #### References in Text
 
@@ -373,6 +363,10 @@ The date of enactment of this subsection, referred to in subsecs. (f)(3), (g)(4)
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(10). Pub. L. 115–123 struck out par. (10) which related to limitation on expenditures.
+
+Subsec. (i)(3)(A). Pub. L. 115–334 inserted period at end.
 
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–79, §11025(1), inserted ", at the sole discretion of the Corporation," after "the Corporation may".
 
@@ -399,6 +393,4 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, set out as an Effective Date of 2000 Amendment note under section 1501 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 

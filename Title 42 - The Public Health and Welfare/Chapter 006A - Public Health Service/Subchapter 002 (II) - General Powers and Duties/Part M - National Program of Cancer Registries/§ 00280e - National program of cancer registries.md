@@ -30,7 +30,7 @@
 
 &emsp;&emsp;For purposes of subparagraph (A):
 
-&emsp;&emsp;&emsp;(i) The term "brain-related tumor" means a listed primary tumor (whether malignant or benign) occurring in any of the following sites:
+&emsp;&emsp;&emsp;(i) The term "brain-related tumor" means a listed primary tumor (whethermalignant or benign) occurring in any of the following sites:
 
 &emsp;&emsp;&emsp;&emsp;(I) The brain, meninges, spinal cord, cauda equina, a cranial nerve or nerves, or any other part of the central nervous system.
 
@@ -48,7 +48,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may make a grant under subsection (a) only if the State, or the academic or nonprofit private organization designatedby the State to operate the cancer registry of the State, involved agrees, with respect to the costs of the program, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 25 percent of such costs or $1 for every $3 of Federal funds provided in the grant.
+&emsp;The Secretary may make a grant under subsection (a) only if the State, or the academic or nonprofit private organization designated by the State to operate the cancer registry of the State, involved agrees, with respect to the costs of the program, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 25 percent of such costs or $1 for every $3 of Federal funds provided in the grant.
 
 #### (2) Determination of amount of non-Federal contribution; maintenance of effort
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(ii) a means to assure the complete reporting of cancer cases (as defined in subsection (a)) to the statewide cancer registry by physicians, surgeons, and all other health care practitioners diagnosing or providing treatment for cancer patients, except for cases directly referred to or previously admitted to a hospital or other facility providing screening, diagnostic or therapeutic services to patients in that State and reported by those facilities;
 
-&emsp;&emsp;&emsp;(iii) a means for the statewide cancer registry to access all records of physicians and surgeons, hospitals, outpatient clinics, nursing homes, and all other facilities, individuals, or agencies providing such services to patients which would identify cases of cancer or would establish characteristics of the cancer, treatment of the cancer, or medical status of any identified patient;
+&emsp;&emsp;&emsp;(iii) a means for the statewide cancer registry to access all records of physiciansand surgeons, hospitals, outpatient clinics, nursing homes, and all other facilities, individuals, or agencies providing such services to patients which would identify cases of cancer or would establish characteristics of the cancer, treatment of the cancer, or medical status of any identified patient;
 
 &emsp;&emsp;&emsp;(iv) for the reporting of cancer case data to the statewide cancer registry in such a format, with such data elements, and in accordance with such standards of quality timeliness and completeness, as may be established by the Secretary;
 

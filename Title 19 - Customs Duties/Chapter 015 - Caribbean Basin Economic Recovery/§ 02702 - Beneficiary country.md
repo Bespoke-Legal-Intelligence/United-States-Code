@@ -16,7 +16,7 @@
 
 &emsp;(F) The term "former beneficiary country" means a country that ceases to be designated as a beneficiary country under this chapter because the country has become a party to a free trade agreement with the United States.
 
-(2) If the President has designated any country as a beneficiary country for purposes of thischapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless, at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
+(2) If the President has designated any country as a beneficiary country for purposes of this chapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless, at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
 
 #### (b) Countries eligible for designation as beneficiary countries; conditions
 
@@ -119,7 +119,7 @@ In determining whether to designate any country a beneficiary country under this
 
 > if, after such designation, the President determines that, as a result of changed circumstances, the performance of such country is not satisfactory under the criteria set forth in section 2703(b)(5)(B) of this title.
 
-(2)(A) The President shall publish in the Federal Register notice of the action the President proposes to take under paragraph (1) at least 30 days prior to taking such action.
+(2)(A) The President shall publish in the Federal Register notice of the action the Presidentproposes to take under paragraph (1) at least 30 days prior to taking such action.
 
 (B) The United States Trade Representative shall, within the 30-day period beginning on the date on which the President publishes under subparagraph (A) notice of proposed action—
 
@@ -219,7 +219,7 @@ Amendment by Pub. L. 104–188 applicable to articles entered on or after Oct. 1
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 621(b) of Pub. L. 103–465, set out as a note under section 1677k of this title.
+Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 621(b) of Pub. L. 103–465, set out as a note under section 1677k of this title.
 
 #### Effective Date of 1988 Amendment
 

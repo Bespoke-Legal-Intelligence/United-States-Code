@@ -2,7 +2,7 @@
 
 #### (a) Civil Liberties Protection Officer
 
-(1) Within the Office of the Director of National Intelligence, there is a Civil Liberties Protection Officer who shall be appointed by the Director of National Intelligence.
+(1) Within the Office of the Director of National Intelligence, there is a Civil LibertiesProtection Officer who shall be appointed by the Director of National Intelligence.
 
 (2) The Civil Liberties Protection Officer shall report directly to the Director of National Intelligence.
 
@@ -12,7 +12,7 @@ The Civil Liberties Protection Officer shall—
 
 &emsp;(1) ensure that the protection of civil liberties and privacy is appropriately incorporated in the policies and procedures developed for and implemented by the Office of the Director of National Intelligence and the elements of the intelligence community within the National Intelligence Program;
 
-&emsp;(2) oversee compliance by the Office and the Director of National Intelligence with requirements under the Constitution and all laws,regulations, Executive orders, and implementing guidelines relating to civil liberties and privacy;
+&emsp;(2) oversee compliance by the Office and the Director of National Intelligence with requirements under the Constitution and all laws, regulations, Executive orders, and implementing guidelines relating to civil liberties and privacy;
 
 &emsp;(3) review and assess complaints and other information indicating possible abuses of civil liberties and privacy in the administration of the programs and operations of the Office and the Director of National Intelligence and, as appropriate, investigate any such complaint or information;
 

@@ -48,7 +48,7 @@ No deficiency dividend deduction shall be allowed under subsection (a) unless (u
 
 #### (1) Suspension of running of statute
 
-&emsp;If the corporation files a claim, as provided in subsection (e), the running of the statute of limitations provided in section 6501 on the making of assessments, and the bringing of distraint or a proceeding in court for collection, in respect of the deficiency and all interest, additional amounts, or assessable penalties, shall be suspended for a period of 2 years after the date of the determination.
+&emsp;If the corporation files a claim, as provided in subsection (e), the running of the statute oflimitations provided in section 6501 on the making of assessments, and the bringing of distraint or a proceeding in court for collection, in respect of the deficiency and all interest, additional amounts, or assessable penalties, shall be suspended for a period of 2 years after the date of the determination.
 
 #### (2) Stay of collection
 

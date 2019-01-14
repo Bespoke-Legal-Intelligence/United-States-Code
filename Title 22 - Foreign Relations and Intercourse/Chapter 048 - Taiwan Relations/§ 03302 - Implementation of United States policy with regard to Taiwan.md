@@ -58,7 +58,7 @@ Form.—Each report required under paragraph (1) shall be submitted in unclassif
 
 "(c)
 
-Briefing.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], and every 180 days thereafter, the Secretary of Defense, in coordination with the Secretary of State, shall provide a briefing to the appropriate congressional committees with respect to the security challenges faced by Taiwan and the military cooperation between the UnitedStates and Taiwan, including a description of any requests from Taiwan for the transfer of defense articles or defense services and the status, whether signed or unsigned, of any Letters of Offer and Acceptance with respect to such requests.
+Briefing.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], and every 180 days thereafter, the Secretary of Defense, in coordination with the Secretary of State, shall provide a briefing to the appropriate congressional committees with respect to the security challenges faced by Taiwan and the military cooperation between the United States and Taiwan, including a description of any requests from Taiwan for the transfer of defense articles or defense services and the status, whether signed or unsigned, of any Letters of Offer and Acceptance with respect to such requests.
 
 "(d)
 

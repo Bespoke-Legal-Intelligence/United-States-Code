@@ -12,7 +12,7 @@ Not later than 2 years after October 2, 2013, the Secretary, acting through the 
 
 &emsp;(2) in coordination with appropriate international agencies and the global geology community, complete a global helium gas assessment that identifies and quantifies the quantity of the helium, including the isotope helium-3, in each reservoir;
 
-&emsp;(3) in coordination with the Secretary of Energy, acting through the Administrator of theEnergy Information Administration, complete—
+&emsp;(3) in coordination with the Secretary of Energy, acting through the Administrator of the Energy Information Administration, complete—
 
 &emsp;&emsp;(A) an assessment of trends in global demand for helium, including the isotope helium-3;
 

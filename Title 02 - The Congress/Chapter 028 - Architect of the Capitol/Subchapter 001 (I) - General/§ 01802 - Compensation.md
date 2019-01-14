@@ -6,7 +6,7 @@ The compensation of the Architect of the Capitol shall be at an annual rate whic
 
 #### Codification
 
-Section was classified to section 162a of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 162a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Prior Provisions
 
@@ -22,7 +22,7 @@ Acts Oct. 15, 1949, ch. 695, §5(a), 63 Stat. 880; Aug. 5, 1955, ch. 568, §101,
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–68, title I, §129(e), Nov. 12, 2001, 115 Stat. 580, provided that: "Except as provided in subsections (c)(2) and (d) \[enacting provisions set out as notes under sections 1801 and 1849 of this title\], this section \[amending this section and section 1849 of this title and enacting provisions set out as notes under sections 1801, 1848, and 1849 of this title\] and the amendments made by this section shall apply with respect to pay periods beginning on or after October 1, 2001."
+Pub. L. 107–68, title I, §129(e), Nov. 12, 2001, 115 Stat. 580, provided that: "Except as provided in subsections\(c)(2) and (d) \[enacting provisions set out as notes under sections 1801 and 1849 of this title\], this section \[amending this section and section 1849 of this title and enacting provisions set out as notes under sections 1801, 1848, and 1849 of this title\] and the amendments made by this section shall apply with respect to pay periods beginning on or after October 1, 2001."
 
 #### Effective Date
 

@@ -18,7 +18,7 @@ Proceeds.—The proceeds referred to in paragraph (1) are proceeds under this ch
 
 (b)
 
-Payment of Expenses of Sale Before Deposit.—Subject to regulations under this subtitle, the expenses of the sale of old material, condemned stores, supplies, or other public property may be paid from the proceeds of sale so that only the net proceeds are deposited inthe Treasury. This subsection applies whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law.
+Payment of Expenses of Sale Before Deposit.—Subject to regulations under this subtitle, the expenses of the sale of old material, condemned stores, supplies, or other public property may be paid from the proceeds of sale so that only the net proceeds are deposited in the Treasury. This subsection applies whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1104; Pub. L. 114–287, §20(a), Dec. 16, 2016, 130 Stat. 1477; Pub. L. 114–318, §7(c)(1), Dec. 16, 2016, 130 Stat. 1616.)
 

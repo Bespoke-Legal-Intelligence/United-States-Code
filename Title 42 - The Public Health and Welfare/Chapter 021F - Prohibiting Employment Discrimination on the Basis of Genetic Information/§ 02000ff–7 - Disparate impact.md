@@ -50,7 +50,7 @@ On the date that is 6 years after May 21, 2008, there shall be established a com
 
 #### (4) Hearings
 
-&emsp;The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out the objectives of this section, except that, to the extent possible, the Commission shall use existing data and research.
+&emsp;The Commission may hold such hearings, sit and act at such times and places, take suchtestimony, and receive such evidence as the Commission considers advisable to carry out the objectives of this section, except that, to the extent possible, the Commission shall use existing data and research.
 
 #### (5) Postal services
 

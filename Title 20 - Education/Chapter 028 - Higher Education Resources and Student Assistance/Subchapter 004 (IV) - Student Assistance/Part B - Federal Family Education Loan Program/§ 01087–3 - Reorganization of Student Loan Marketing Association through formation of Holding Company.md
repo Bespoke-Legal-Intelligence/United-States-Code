@@ -44,7 +44,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (4) Dividends
 
-&emsp;The Association may pay dividends in the form of cash or noncash distributions so long as at the time of the declaration of such dividends, after giving effect to the payment of such dividends as of the date of such declaration by the Board of Directors of the Association, the Association's capital would be in compliance with the capital standards and requirements set forth in section 1087–2(r) of this title. If, at any time after the reorganizationeffective date, the Association fails to comply with such capital standards, the Holding Company shall transfer with due diligence to the Association additional capital in such amounts as are necessary to ensure that the Association again complies with the capital standards.
+&emsp;The Association may pay dividends in the form of cash or noncash distributions so long as at the time of the declaration of such dividends, after giving effect to the payment of such dividends as of the date of such declaration by the Board of Directors of the Association, the Association's capital would be in compliance with the capital standards and requirements set forth in section 1087–2(r) of this title. If, at any time after the reorganization effective date, the Association fails to comply with such capital standards, the Holding Company shall transfer with due diligence to the Association additional capital in such amounts as are necessary to ensure that the Association again complies with the capital standards.
 
 #### (5) Certification prior to dividend
 
@@ -66,7 +66,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (B) Agreement
 
-&emsp;&emsp;The Secretary is authorized to enter into an agreement described in clause (iv) of subparagraph (A) with the Association covering such secondary market activities. Any agreement entered into under such clause shall cover a period of 12 months, but may be renewed if the Secretary determines that liquidity remains inadequate. The fee provided under section 1087–2(h)(7) of this title shall not apply to loans acquired under any such agreement with the Secretary.
+&emsp;&emsp;The Secretary is authorized to enter into an agreement described in clause (iv) of subparagraph (A) with the Association covering such secondary market activities. Any agreement entered into under such clause shall cover a period of 12 months, but may be renewed if the Secretary determines that liquidity remains inadequate. The fee provided under section 1087–2(h)(7) of this titleshall not apply to loans acquired under any such agreement with the Secretary.
 
 #### (7) Issuance of debt obligations during the transition period; attributes of debt obligations
 

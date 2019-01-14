@@ -1,10 +1,16 @@
 ### §1864. Import sanctions for export violations
 
-Any person who violates any national security export control imposed under section 4604 of title 50 or any regulation, order, or license issued under that section, may be subject to such controls on the importing of goods or technology into the United States as the President may prescribe.
+Any person who violates any national security export control imposed under section 4604 <sup>1</sup> of title 50 or any regulation, order, or license issued under that section, may be subject to such controls on the importing of goods or technology into the United States as the President may prescribe.
 
 (Pub. L. 87–794, title II, §233, as added Pub. L. 99–64, title I, §121, July 12, 1985, 99 Stat. 155; amended Pub. L. 100–418, title II, §2447(a), Aug. 23, 1988, 102 Stat. 1370.)
+
+#### References in Text
+
+Section 4604 of title 50, referred to in text, was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–418 struck out designation "(a)" and struck out subsec. (b) which related to prerequisites to imposition of sanctions.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

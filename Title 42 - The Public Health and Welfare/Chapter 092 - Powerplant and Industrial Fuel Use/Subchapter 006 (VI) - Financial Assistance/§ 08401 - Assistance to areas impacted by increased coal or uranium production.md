@@ -46,7 +46,7 @@
 
 &emsp;(B) which is for housing or public facilities determined in such plan as necessary due to an increase in employment due to coal or uranium development activities;
 
-&emsp;(C) with respect to which the Secretary of Agriculture has determined that the State and the local governments serving such area do not have the financial resources to acquire or the legal authority to acquire by condemnation; and
+&emsp;(C) with respect to which the Secretary of Agriculture has determined that the State and the local governments serving such area do not have the financial resources to acquire orthe legal authority to acquire by condemnation; and
 
 &emsp;(D) with respect to which there has been an approval in writing by the Governor of such State that the Secretary of Agriculture exercise his authority under this paragraph;
 
@@ -64,7 +64,7 @@
 
 (4)(A) In the case of any real property which meets the requirements of subparagraphs (A), (B), and (C) of paragraph (1), the Secretary of Agriculture may make a grant to the State in which such property is located for the purposes of acquiring such property, and for any site development which is consistent with the plan developed under subsection (b).
 
-(B) In the case of property acquired by the Secretary of Agriculture under paragraph (1)and transferred to the State, the Secretary of Agriculture may make a grant to such unit of government for the purposes of site development which is consistent with such plan.
+(B) In the case of property acquired by the Secretary of Agriculture under paragraph (1) and transferred to the State, the Secretary of Agriculture may make a grant to such unit of government for the purposes of site development which is consistent with such plan.
 
 (C) Grants for real property acquisition or site development or both under this paragraph may not exceed 75 percent of the costs thereof, as determined by the Secretary of Agriculture.
 

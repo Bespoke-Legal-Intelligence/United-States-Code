@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A railroad carrier engaged in interstate or foreign commerce, a contractor or a subcontractor of such a railroad carrier, or an officer or employee of such a railroad carrier, may not discharge, demote, suspend, reprimand, or in any other way discriminate against an employee if such discrimination is due, in whole or in part, to the employee's lawful, good faith act done, or perceived by the employer to have been done or about to be done—
+In General.—A railroad carrier engaged in interstate or foreign commerce, a contractor or a subcontractor of such a railroad carrier, or an officer or employee of such a railroad carrier,may not discharge, demote, suspend, reprimand, or in any other way discriminate against an employee if such discrimination is due, in whole or in part, to the employee's lawful, good faith act done, or perceived by the employer to have been done or about to be done—
 
 &emsp;(1) to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federal law, rule, or regulation relating to railroad safety or security, or gross fraud, waste, or abuse of Federal grants or other public funds intended to be used for railroad safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
 
@@ -66,7 +66,7 @@ Enforcement Action.—
 
 &emsp;(1)
 
-In general.—An employee who alleges discharge, discipline, or other discrimination in violation of subsection (a), (b), or (c) of this section, may seek relief in accordance with the provisions of this section, with any petition or other request for relief under this section to be initiated by filing a complaint with the Secretary of Labor.
+In general.—An employee who alleges discharge, discipline, or other discrimination in violation of subsection (a), (b), or (c) of thissection, may seek relief in accordance with the provisions of this section, with any petition or other request for relief under this section to be initiated by filing a complaint with the Secretary of Labor.
 
 &emsp;(2)
 
@@ -138,7 +138,7 @@ Rights Retained by Employee.—Nothing in this section shall be deemed to dimini
 
 Disclosure of Identity.—
 
-&emsp;(1) Except as provided in paragraph (2) of this subsection, or with the written consent ofthe employee, the Secretary of Transportation or the Secretary of Homeland Security may not disclose the name of an employee of a railroad carrier who has provided information about an alleged violation of this part or, as applicable to railroad safety or security, chapter 51 or 57 of this title, or a regulation prescribed or order issued under any of those provisions.
+&emsp;(1) Except as provided in paragraph (2) of this subsection, or with the written consent of the employee, the Secretary of Transportation or the Secretary of Homeland Security may not disclose the name of an employee of a railroad carrier who has provided information about an alleged violation of this part or, as applicable to railroad safety or security, chapter 51 or 57 of this title, or a regulation prescribed or order issued under any of those provisions.
 
 &emsp;(2) The Secretary of Transportation or the Secretary of Homeland Security shall disclose to the Attorney General the name of an employee described in paragraph (1) if the matter is referred to the Attorney General for enforcement. The Secretary making such disclosures shall provide reasonable advance notice to the affected employee if disclosure of that person's identity or identifying information is to occur.
 
@@ -266,7 +266,7 @@ Plan Requirements.—Each such plan shall include provisions for—
 
 &emsp;"(1) relieving an employee who was involved in a critical incident of his or her duties for the balance of the duty tour, following any actions necessary for the safety of persons and contemporaneous documentation of the incident;
 
-&emsp;"(2) upon the employee's request, relieving an employee who witnessed a critical incident of his or herduties following any actions necessary for the safety of persons and contemporaneous documentation of the incident; and
+&emsp;"(2) upon the employee's request, relieving an employee who witnessed a critical incident of his or her duties following any actions necessary for the safety of persons and contemporaneous documentation of the incident; and
 
 &emsp;"(3) providing such leave from normal duties as may be necessary and reasonable to receive preventive services, treatment, or both, related to the incident.
 

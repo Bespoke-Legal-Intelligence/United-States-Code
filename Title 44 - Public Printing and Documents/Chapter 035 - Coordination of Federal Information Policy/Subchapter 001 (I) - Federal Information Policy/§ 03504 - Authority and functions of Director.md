@@ -140,7 +140,43 @@
 
 &emsp;(5) promote the use of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of Federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–277, div. C, title XVII, §1702, Oct. 21, 1998, 112 Stat. 2681–749; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(a), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(l)(5), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 107–296, title X, §1005(c)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(1), Dec. 17, 2002, 116 Stat. 2960.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–277, div. C, title XVII, §1702, Oct. 21, 1998, 112 Stat. 2681–749; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(a), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(l)(5), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 107–296, title X, §1005(c)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, titleIII, §305(c)(1), Dec. 17, 2002, 116 Stat. 2960; Pub. L. 115–435, title II, §202(b), (d)(2)(B), Jan. 14, 2019, 132 Stat. 5535, 5541.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 115–435, title II, §202(b), (d)(2)(B), title IV, §403, Jan. 14, 2019, 132 Stat. 5535, 5541, 5557, provided that, effective 180 days after Jan. 14, 2019, subsection (b) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (2)(A), by striking "the use of the Government Information Locator Service" and inserting "the use of comprehensive data inventories and the Federal data catalogue under section 3511";</i>
+
+<i>(2) in paragraph (4), by striking "; and" and inserting a semicolon;</i>
+
+<i>(3) in paragraph (5), by striking the period at the end and inserting "; and"; and</i>
+
+<i>(4) by adding at the end the following new paragraph:</i>
+
+&emsp;<i>"(6) issue guidance for agencies to implement section 3506(b)(6) in a manner that takes into account—</i>
+
+&emsp;&emsp;<i>"(A) risks and restrictions related to the disclosure of personally identifiable information, including the risk that an individual data asset in isolation does not pose a privacy or confidentiality risk but when combined with other available information may pose such a risk;</i>
+
+&emsp;&emsp;<i>"(B) security considerations, including the risk that information in an individual data asset in isolation does not pose a security risk but when combined with other available information may pose such a risk;</i>
+
+&emsp;&emsp;<i>"(C) the cost and benefits to the public of converting a data asset into a machine-readable format that is accessible and useful to the public;</i>
+
+&emsp;&emsp;<i>"(D) whether the application of the requirements described in such section to a data asset could result in legal liability;</i>
+
+&emsp;&emsp;<i>"(E) a determination of whether a data asset—</i>
+
+&emsp;&emsp;&emsp;<i>"(i) is subject to intellectual property rights, including rights under titles 17 and 35;</i>
+
+&emsp;&emsp;&emsp;<i>"(ii) contains confidential business information, that could be withheld under section 552(b)(4) of title 5; or</i>
+
+&emsp;&emsp;&emsp;<i>"(iii) is otherwise restricted by contract or other binding, written agreement;</i>
+
+&emsp;&emsp;<i>"(F) the requirement that a data asset be disclosed, if it would otherwise be made available under section 552 of title 5 (commonly known as the 'Freedom of Information Act'); and</i>
+
+&emsp;&emsp;<i>"(G) any other considerations that the Director determines to be relevant."</i>
+
+<i>See 2019 Amendment notes below.</i>
 
 #### References in Text
 
@@ -155,6 +191,10 @@ A prior section 3504, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 28
 Another prior section 3504, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, provided for designation of a central collection agency, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3509 of this title.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(2)(A). Pub. L. 115–435, §202(d)(2)(B), substituted "the use of comprehensive data inventories and the Federal data catalogue under section 3511" for "the use of the Government Information Locator Service".
+
+Subsec. (b)(6). Pub. L. 115–435, §202(b), added par. (6).
 
 <b>2002</b>—Subsec. (c)(6). Pub. L. 107–198 added par. (6).
 
@@ -190,6 +230,10 @@ Subsec. (h)(1)(B). Pub. L. 104–106, §5605(b), substituted "section 5131 of th
 
 Subsec. (h)(2). Pub. L. 104–106, §5605(c), substituted "the Information Technology Management Reform Act of 1996 and directives issued under section 110 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 757)" for "sections 110 and 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 757 and 759)".
 
+#### Effective Date of 2019 Amendment
+
+Amendment by Pub. L. 115–435 effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as a note under section 306 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2002 Amendments
 
 Pub. L. 107–347, title IV, §402(b), Dec. 17, 2002, 116 Stat. 2962, provided that: "Title III \[see Short Title of 2002 Amendments note set out under section 101 of this title\] and this title \[enacting provisions set out as a note under section 3601 of this title\] shall take effect on the date of enactment of this Act \[Dec. 17, 2002\]."
@@ -224,7 +268,7 @@ Pub. L. 105–277, div. C, title XVII, Oct. 21, 1998, 112 Stat. 2681–749, prov
 
 "(a)
 
-In General.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41, Public Contracts\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration andnot later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
+In General.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41, Public Contracts\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
 
 "(b)
 
@@ -258,7 +302,7 @@ Requirements for Procedures.—(1) The procedures developed under subsection (a)
 
 "(a)
 
-Ongoing Study Required.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in cooperation with the National Telecommunications and Information Administration, conduct an ongoing study of the use of electronic signatures under this title on—
+Ongoing Study Required.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions Dand E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in cooperation with the National Telecommunications and Information Administration, conduct an ongoing study of the use of electronic signatures under this title on—
 
 &emsp;"(1) paperwork reduction and electronic commerce;
 

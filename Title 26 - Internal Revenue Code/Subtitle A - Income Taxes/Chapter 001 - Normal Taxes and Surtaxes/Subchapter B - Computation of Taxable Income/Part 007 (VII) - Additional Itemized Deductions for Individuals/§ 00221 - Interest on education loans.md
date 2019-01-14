@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (4) Dependent
 
-&emsp;The term "dependent" has the meaning given such term by section 152 (determinedwithout regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof).
+&emsp;The term "dependent" has the meaning given such term by section 152 (determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof).
 
 #### (e) Special rules
 
@@ -166,7 +166,7 @@ Subsec. (b)(2)(C)(ii). Pub. L. 105–277, §4003(a)(2)(A)(ii), inserted "135, 13
 
 Subsec. (d). Pub. L. 105–206, §6004(b)(2), inserted at end "Such 60 months shall be determined in the manner prescribed by the Secretary in the case of multiple loans which are refinanced by, or serviced as, a single loan and in the case of loans incurred before the date of the enactment of this section."
 
-Subsec. (e)(1). Pub. L. 105–277, §4003(a)(3), inserted before period at end "or to any person by reason of a loanunder any qualified employer plan (as defined in section 72(p)(4)) or under any contract referred to in section 72(p)(5)".
+Subsec. (e)(1). Pub. L. 105–277, §4003(a)(3), inserted before period at end "or to any person by reason of a loan under any qualified employer plan (as defined in section 72(p)(4)) or under any contract referred to in section 72(p)(5)".
 
 Pub. L. 105–206, §6004(b)(1), inserted "by the taxpayer solely" after "incurred" in introductory provisions.
 
@@ -174,7 +174,7 @@ Pub. L. 105–206, §6004(b)(1), inserted "by the taxpayer solely" after "incurr
 
 Amendment by section 11002(d)(1)(U) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
-Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
+Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
 #### Effective Date of 2014 Amendment
 

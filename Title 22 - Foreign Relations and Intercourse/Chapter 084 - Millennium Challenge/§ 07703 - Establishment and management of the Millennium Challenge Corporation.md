@@ -74,7 +74,17 @@ There is established in the executive branch a corporation to be known as the "M
 
 #### (B) Other members
 
-&emsp;&emsp;Each member of the Board described in paragraph (3)(B) shall be appointed for a term of 3 years and may be reappointed for a term of an additional 2 years.
+&emsp;&emsp;Each member of the Board described in paragraph (3)(B)—
+
+&emsp;&emsp;&emsp;(i) shall be appointed for a term of 3 years;
+
+&emsp;&emsp;&emsp;(ii) may be reappointed for a term of an additional 2 years; and
+
+&emsp;&emsp;&emsp;(iii) may continue to serve in each such appointment until the earlier of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the date on which his or her successor is appointed; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the date that is 1 year after the expiration of his or her appointment or reappointment, as the case may be.
 
 #### (C) Vacancies
 
@@ -118,7 +128,7 @@ There is established in the executive branch a corporation to be known as the "M
 
 &emsp;&emsp;&emsp;A member of the Board may not be paid compensation under clause (i)(II) for more than 90 days in any calendar year.
 
-(Pub. L. 108–199, div. D, title VI, §604, Jan. 23, 2004, 118 Stat. 212.)
+(Pub. L. 108–199, div. D, title VI, §604, Jan. 23, 2004, 118 Stat. 212; Pub. L. 115–167, title II, §202, Apr. 23, 2018, 132 Stat. 1279.)
 
 #### References in Text
 
@@ -127,4 +137,8 @@ This chapter, referred to in subsecs. (a) and (c)(2), (8)(B)(i)(I), was in the o
 #### Codification
 
 Section is comprised of section 604 of div. D of Pub. L. 108–199. Subsec. (b)(4)(B) of section 604 of div. D of Pub. L. 108–199 amended section 5313 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c)(4)(B). Pub. L. 115–167 amended subpar. (B) generally. Prior to amendment, text read as follows: "Each member of the Board described in paragraph (3)(B) shall be appointed for a term of 3 years and may be reappointed for a term of an additional 2 years."
 

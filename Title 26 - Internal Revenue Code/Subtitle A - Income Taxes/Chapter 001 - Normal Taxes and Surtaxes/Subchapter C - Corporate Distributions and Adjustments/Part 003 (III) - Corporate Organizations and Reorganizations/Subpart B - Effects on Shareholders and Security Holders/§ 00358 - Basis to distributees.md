@@ -52,7 +52,7 @@ For purposes of this section, a distribution to which section 355 (or so much of
 
 #### (e) Exception
 
-This section shall not apply to property acquired by a corporation by the exchange of itsstock or securities (or the stock or securities of a corporation which is in control of the acquiring corporation) as consideration in whole or in part for the transfer of the property to it.
+This section shall not apply to property acquired by a corporation by the exchange of its stock or securities (or the stock or securities of a corporation which is in control of the acquiring corporation) as consideration in whole or in part for the transfer of the property to it.
 
 #### (f) Definition of nonrecognition property in case of section 361 exchange
 
@@ -130,7 +130,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §309(d)\], Dec. 21, 2000, 114 Stat. 2
 
 "(1)
 
-In general.—The amendments made by this section \[amending this section and section 357 of this title\] shall apply to assumptions of liability after October 18, 1999.
+In general.—The amendments made by this section \[amending this section and section 357 of this title\]shall apply to assumptions of liability after October 18, 1999.
 
 "(2)
 

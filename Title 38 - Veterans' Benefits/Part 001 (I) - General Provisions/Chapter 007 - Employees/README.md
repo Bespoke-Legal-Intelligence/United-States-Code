@@ -19,6 +19,9 @@
 | [721\.](Subchapter%20001%20%28I%29%20-%20General%20Employee%20Matters/%C2%A7%2000721%20-%20Recoupment%20of%20bonuses%20or%20awards%20paid%20to%20employees%20of%20Department.md) | Recoupment of bonuses or awards paid to employees of Department. |
 | [723\.](Subchapter%20001%20%28I%29%20-%20General%20Employee%20Matters/%C2%A7%2000723%20-%20Recoupment%20of%20relocation%20expenses%20paid%20on%20behalf%20of%20employees%20of%20Department.md) | Recoupment of relocation expenses paid on behalf of employees of Department. |
 | [725\.](Subchapter%20001%20%28I%29%20-%20General%20Employee%20Matters/%C2%A7%2000725%20-%20Annual%20performance%20plan%20for%20political%20appointees.md) | Annual performance plan for political appointees. |
+| [726\.](Subchapter%20001%20%28I%29%20-%20General%20Employee%20Matters/%C2%A7%2000726%20-%20Annual%20report%20on%20performance%20awards%20and%20bonuses%20awarded%20to%20certain%20high-level%20employees.md) | Annual report on performance awards and bonuses awarded to certain high-level employees. |
+| [727\.](Subchapter%20001%20%28I%29%20-%20General%20Employee%20Matters/%C2%A7%2000727%20-%20Reassignment%20of%20senior%20executives.md) | Reassignment of senior executives. |
+| [728\.](Subchapter%20001%20%28I%29%20-%20General%20Employee%20Matters/%C2%A7%2000728%20-%20Misuse%20of%20Department%20purchase%20cards.md) | Misuse of Department purchase cards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,6 +45,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–407, title V, §501(b), Dec. 31, 2018, 132 Stat. 5376, which directed adding item 728 after item 728, was executed by adding item 728 after item 727 to reflect the probable intent of Congress.
+
+Pub. L. 115–188, §2(b), June 21, 2018, 132 Stat. 1491, which directed adding item 727 after item 725, was executed by adding item 727 after item 726 to reflect the probable intent of Congress.
+
+Pub. L. 115–182, title V, §501(b), June 6, 2018, 132 Stat. 1475, added item 726.
 
 <b>2017</b>—Pub. L. 115–46, title II, §§202(c), 203(b), Aug. 12, 2017, 131 Stat. 962, added item 725 and added item for subchapter III and item 741.
 

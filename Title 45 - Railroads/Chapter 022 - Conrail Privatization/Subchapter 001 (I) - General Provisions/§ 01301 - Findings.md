@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) the bankruptcy of the Penn Central and other railroads in the Northeast and Midwest resulted in a transportation emergency which required the intervention of the Federal Government;
+&emsp;(1) the bankruptcy of the Penn Central and other railroads in the Northeast and Midwest resulted in a transportation emergency whichrequired the intervention of the Federal Government;
 
 &emsp;(2) the United States Government created the Consolidated Rail Corporation, which provides essential rail service to the Northeast and Midwest;
 
@@ -28,7 +28,7 @@ The Congress finds that—
 
 #### References in Text
 
-The Northeast Rail Service Act of 1981, referred to in pars. (4) and (11), is subtitle E of title XI of Pub. L.97–35, §§1131–1169, Aug. 13, 1981, 95 Stat. 643, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Northeast Rail Service Act of 1981, referred to in pars. (4) and (11), is subtitle E of title XI of Pub. L. 97–35, §§1131–1169, Aug. 13, 1981, 95 Stat. 643, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 Section 761 of this title, referred to in par. (10), was repealed by Pub. L. 99–509, title IV, §4033(a)(1), Oct. 21, 1986, 100 Stat. 1908.
 

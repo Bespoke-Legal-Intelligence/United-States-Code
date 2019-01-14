@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Board
 
-There is established the Public Company Accounting Oversight Board, to oversee the audit of companies that are subject to the securities laws, and related matters, in order to protect the interests of investors and further the public interest in the preparation of informative, accurate, and independent audit reports. The Board shall be a body corporate, operate as a nonprofit corporation, and have succession until dissolved by an Act of Congress.
+There is established the Public Company Accounting Oversight Board, to oversee the auditof companies that are subject to the securities laws, and related matters, in order to protect the interests of investors and further the public interest in the preparation of informative, accurate, and independent audit reports. The Board shall be a body corporate, operate as a nonprofit corporation, and have succession until dissolved by an Act of Congress.
 
 #### (b) Status
 
@@ -10,7 +10,7 @@ The Board shall not be an agency or establishment of the United States Governmen
 
 #### (c) Duties of the Board
 
-The Board shall, subject to action by the Commission under section 7217 of this title, and oncea determination is made by the Commission under subsection (d) of this section—
+The Board shall, subject to action by the Commission under section 7217 of this title, and once a determination is made by the Commission under subsection (d) of this section—
 
 &emsp;(1) register public accounting firms that prepare audit reports for issuers, brokers, and dealers, in accordance with section 7212 of this title;
 
@@ -60,7 +60,7 @@ The members of the Board shall take such action (including hiring of staff, prop
 
 &emsp;&emsp;The term of service of each Board member shall be 5 years, and until a successor is appointed, except that—
 
-&emsp;&emsp;&emsp;(i) the terms of office of the initial Board members (other than the chairperson) shall expire in annual increments, 1 on each of the first 4 anniversaries of the initial date of appointment; and
+&emsp;&emsp;&emsp;(i) the terms of office of the initial Board members (other than the chairperson) shall expire in annual increments, 1 oneach of the first 4 anniversaries of the initial date of appointment; and
 
 &emsp;&emsp;&emsp;(ii) any Board member appointed to fill a vacancy occurring before the expiration of the term for which the predecessor was appointed shall be appointed only for the remainder of that term.
 

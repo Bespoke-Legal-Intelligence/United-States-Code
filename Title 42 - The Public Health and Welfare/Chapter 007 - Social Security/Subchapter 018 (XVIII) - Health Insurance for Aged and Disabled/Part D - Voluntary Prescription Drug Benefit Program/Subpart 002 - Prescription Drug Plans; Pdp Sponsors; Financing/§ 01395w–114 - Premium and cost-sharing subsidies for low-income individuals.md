@@ -22,7 +22,7 @@
 
 #### (i) Institutionalized individuals
 
-&emsp;&emsp;&emsp;In the case of an individual who is a full-benefit dual eligible individual and who is an institutionalized individual or couple (as defined in section 1396a(q)(1)(B) of this title) or, effective on a date specified by the Secretary (but in no case earlier than January 1, 2012), who would be such an institutionalized individual or couple, if the full-benefit dual eligible individual were not receiving services under a home andcommunity-based waiver authorized for a State under section 1315 of this title or subsection (c) or (d) of section 1396n of this title or under a State plan amendment under subsection (i) of such section or services provided through enrollment in a medicaid managed care organization with a contract under section 1396b(m) of this title or under section 1396u–2 of this title, the elimination of any beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title).
+&emsp;&emsp;&emsp;In the case of an individual who is a full-benefit dual eligible individual and who is an institutionalized individual or couple (as defined in section 1396a(q)(1)(B) of this title) or, effective on a date specified by the Secretary (but in no case earlier than January 1, 2012), who would be such an institutionalized individual or couple, if the full-benefit dual eligible individual were not receiving services under a home and community-based waiver authorized for a State under section 1315 of this title or subsection (c) or (d) of section 1396n of this title or under a State plan amendment under subsection (i) of such section or services provided through enrollment in a medicaid managed care organization with a contract under section 1396b(m) of this title or under section 1396u–2 of this title, the elimination of any beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title).
 
 #### (ii) Lowest income dual eligible individuals
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) may provide that part D eligible individuals not described in subclause (I) who are determined for purposes of the State plan under subchapter XIX to be eligible for medical assistance under clause (i), (iii), or (iv) of section 1396a(a)(10)(E) of this title are treated as being determined to be subsidy eligible individuals described in paragraph (1).
 
-&emsp;&emsp;&nbsp;Insofar as the Secretary determines that the eligibility requirements under the State plan for medical assistance referred to in subclause (II) are substantially the same as the requirements for being treated as a subsidy eligible individual described in paragraph (1), the Secretary shall provide for the treatment described in such subclause.
+&emsp;&emsp;&nbsp;Insofar as the Secretary determines that the eligibility requirements under the State plan for medical assistance referred to in subclause (II) are substantially thesame as the requirements for being treated as a subsidy eligible individual described in paragraph (1), the Secretary shall provide for the treatment described in such subclause.
 
 #### (vi) Special rule for widows and widowers
 
@@ -140,7 +140,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) for a subsequent year the dollar amounts specified in this subclause (or subclause (I)) for the previous year increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such previous year.
 
-&emsp;&emsp;&nbsp;Any dollar amount established under subclause (II) that is not a multiple of $10shall be rounded to the nearest multiple of $10.
+&emsp;&emsp;&nbsp;Any dollar amount established under subclause (II) that is not a multiple of $10 shall be rounded to the nearest multiple of $10.
 
 #### (ii) Use of simplified application form and process
 
@@ -212,7 +212,7 @@
 
 &emsp;&emsp;&emsp;(i) all prescription drug plans are offered by the same PDP sponsor, the weighted average of the amounts described in subparagraph (B)(i) for such plans; or
 
-&emsp;&emsp;&emsp;(ii) there are prescription drug plans offered by more than one PDP sponsor, theweighted average of amounts described in subparagraph (B) for prescription drug plans and MA–PD plans described in section 1395w–21(a)(2)(A)(i) of this title offered in such region.
+&emsp;&emsp;&emsp;(ii) there are prescription drug plans offered by more than one PDP sponsor, the weighted average of amounts described in subparagraph (B) for prescription drug plans and MA–PD plans described in section 1395w–21(a)(2)(A)(i) of this title offered in such region.
 
 #### (B) Premium amounts described
 

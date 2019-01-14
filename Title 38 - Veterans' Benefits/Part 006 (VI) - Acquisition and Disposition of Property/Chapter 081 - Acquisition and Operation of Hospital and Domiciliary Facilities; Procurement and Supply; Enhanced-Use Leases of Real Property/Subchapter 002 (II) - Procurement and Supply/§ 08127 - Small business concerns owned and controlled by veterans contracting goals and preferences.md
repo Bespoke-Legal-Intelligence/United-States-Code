@@ -16,11 +16,11 @@ Contracting Goals.—(1) In order to increase contracting opportunities for smal
 
 (b)
 
-Use of Noncompetitive Procedures for Certain Small Contracts.—For purposes of meeting the goals under subsection (a), and in accordance with this section, in entering into a contract with a small business concern owned and controlled by veterans for an amount less than the simplified acquisition threshold (as defined in section 134 of title 41), a contracting officer of the Department may use procedures other than competitive procedures.
+Use of Noncompetitive Procedures for Certain Small Contracts.—For purposes of meeting the goals under subsection (a), and in accordance with this section, in entering into a contract with a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities for an amount less than the simplified acquisition threshold (as defined in section 134 of title 41), a contracting officer of the Department may use procedures other than competitive procedures.
 
 (c)
 
-Sole Source Contracts for Contracts Above Simplified Acquisition Threshold.—For purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department may award a contract to a small business concern owned and controlled by veterans using procedures other than competitive procedures if—
+Sole Source Contracts for Contracts Above Simplified Acquisition Threshold.—For purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department may award a contract to a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities using procedures other than competitive procedures if—
 
 &emsp;(1) such concern is determined to be a responsible source with respect to performance of such contract opportunity;
 
@@ -30,7 +30,7 @@ Sole Source Contracts for Contracts Above Simplified Acquisition Threshold.—Fo
 
 (d)
 
-Use of Restricted Competition.—Except as provided in subsections (b) and (c), for purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department shall award contracts on the basis of competition restricted to small business concerns owned and controlled by veterans if the contracting officer has a reasonable expectation that two or more small business concerns owned and controlled by veterans will submit offers and that the award can be made at a fair and reasonable price that offers best value to the United States.
+Use of Restricted Competition.—Except as provided in subsections (b) and (c), for purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department shall award contracts on the basis of competition restricted to small business concerns owned and controlled by veterans or small business concerns owned and controlled by veterans with service-connected disabilities if the contracting officer has a reasonable expectation that two or more small business concerns owned and controlled by veterans or small business concerns owned and controlled by veterans with service-connected disabilities will submit offers and that the award can be made at a fair and reasonable price that offers best value to the United States.
 
 (e)
 
@@ -38,7 +38,7 @@ Eligibility of Small Business Concerns.—A small business concern may be awarde
 
 (f)
 
-Database of Veteran-Owned Businesses.—(1) Subject to paragraphs (2) through (6), the Secretary shall maintain a database of small business concerns owned and controlled by veterans and the veteran owners of such business concerns.
+Database of Veteran-Owned Businesses.—(1) Subject to paragraphs (2) through (6), the Secretary shall maintain a database of small business concerns owned and controlled by veterans, small business concerns owned and controlled by veterans with service-connected disabilities, and the veteran owners of such business concerns.
 
 (2)(A) To be eligible for inclusion in the database, such a veteran shall submit to the Secretary such information as the Secretary may require with respect to the small business concern or the veteran. Application for inclusion in the database shall constitute permission under section 552a of title 5 (commonly referred to as the Privacy Act) for the Secretary to access such personal information maintained by the Secretary as may be necessary to verify the information contained in the application.
 
@@ -46,7 +46,7 @@ Database of Veteran-Owned Businesses.—(1) Subject to paragraphs (2) through (6
 
 (3) Information maintained in the database shall be submitted on a voluntary basis by such veterans.
 
-(4) No small business concern may be listed in the database until the Secretary has verified that—
+(4) No small business concern may be listed in the database until the Secretary has verified, using regulations issued by the Administrator of the Small Business Administration with respect to the status of the concern as a small business concern and the ownership and control of such concern, that—
 
 &emsp;(A) the small business concern is owned and controlled by veterans; and
 
@@ -56,7 +56,9 @@ Database of Veteran-Owned Businesses.—(1) Subject to paragraphs (2) through (6
 
 (6) If the Secretary determines that the public dissemination of certain types of information maintained in the database is inappropriate, the Secretary shall take such steps as are necessary to maintain such types of information in a secure and confidential manner.
 
-(8)(A) <sup>1</sup> If a small business concern is not included in the database because the Secretary does not verify the status of the concern as a small business concern or the ownership or control of the concern, the concern may appeal the denial of verification to the Office of Hearings and Appeals of the Small Business Administration (as established under section 5(i) of the Small Business Act). The decision of the Office of Hearings and Appeals shall be considered a final agency action.
+(7) The Secretary may not issue regulations related to the status of a concern as a small business concern and the ownership and control of such small business concern.
+
+(8)(A) If a small business concern is not included in the database because the Secretary does not verify the status of the concern as a small business concern or the ownership or control of the concern, the concern may appeal the denial of verification to the Office of Hearings and Appeals of the Small Business Administration (as established under section 5(i) of the Small Business Act). The decision of the Office of Hearings and Appeals shall be considered a final agency action.
 
 (B)(i) If an interested party challenges the inclusion in the database of a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities based on the status of the concern as a small business concern or the ownership or control of the concern, the challenge shall be heard by the Office of Hearings and Appeals of the Small Business Administration as described in subparagraph (A). The decision of the Office of Hearings and Appeals shall be considered final agency action.
 
@@ -78,24 +80,6 @@ Enforcement Penalties for Misrepresentation.—(1) Any business concern that is 
 
 (h)
 
-Treatment of Businesses After Death of Veteran-Owner.—(1) Subject to paragraph (3), if the death of a veteran causes a small businessconcern to be less than 51 percent owned by one or more veterans, the surviving spouse of such veteran who acquires ownership rights in such small business concern shall, for the period described in paragraph (2), be treated as if the surviving spouse were that veteran for the purpose of maintaining the status of the small business concern as a small business concern owned and controlled by veterans.
-
-(2) The period referred to in paragraph (1) is the period beginning on the date on which the veteran dies and ending on the earliest of the following dates:
-
-&emsp;(A) The date on which the surviving spouse remarries.
-
-&emsp;(B) The date on which the surviving spouse relinquishes an ownership interest in the small business concern.
-
-&emsp;(C) The date that—
-
-&emsp;&emsp;(i) in the case of a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability, is 10 years after the date of the veteran's death; or
-
-&emsp;&emsp;(ii) in the case of a surviving spouse of a veteran with a service-connected disability rated as less than 100 percent disabling who does not die as a result of a service-connected disability, is 3 years after the date of the veteran's death.
-
-(3) Paragraph (1) only applies to a surviving spouse of a veteran with a service-connected disability.
-
-(i)
-
 Priority for Contracting Preferences.—Preferences for awarding contracts to small business concerns shall be applied in the following order of priority:
 
 &emsp;(1) Contracts awarded pursuant to subsection (b), (c), or (d) to small business concerns owned and controlled by veterans with service-connected disabilities.
@@ -110,15 +94,15 @@ Priority for Contracting Preferences.—Preferences for awarding contracts to sm
 
 &emsp;(4) Contracts awarded pursuant to any other small business contracting preference.
 
-(j)
+(i)
 
 Applicability of Requirements to Contracts.—(1) If after December 31, 2008, the Secretary enters into a contract, memorandum of understanding, agreement, or other arrangement with any governmental entity to acquire goods or services, the Secretary shall include in such contract, memorandum, agreement, or other arrangement a requirement that the entity will comply, to the maximum extent feasible, with the provisions of this section in acquiring such goods or services.
 
 (2) Nothing in this subsection shall be construed to supersede or otherwise affect the authorities provided under the Small Business Act (15 U.S.C. 631 et seq.).
 
-(k)
+(j)
 
-Annual Reports.—Not later than December 31 each year, the Secretary shall submit to Congress a report on small business contracting during the fiscal year ending in such year. Each report shall include, for the fiscal year covered by such report, the following:
+Annual Reports.—Not later than December 31 each year, the Secretary shall submit to Congress a report on small business contractingduring the fiscal year ending in such year. Each report shall include, for the fiscal year covered by such report, the following:
 
 &emsp;(1) The percentage of the total amount of all contracts awarded by the Department during that fiscal year that were awarded to small business concerns owned and controlled by veterans.
 
@@ -128,55 +112,17 @@ Annual Reports.—Not later than December 31 each year, the Secretary shall subm
 
 &emsp;(4) The percentage of the total amount of all contracts awarded by each such Administration during that fiscal year that were awarded to small business concerns owned and controlled by veterans with service-connected disabilities.
 
-(l)
+(k)
 
 Definitions.—In this section:
 
 &emsp;(1) The term "small business concern" has the meaning given that term under section 3 of the Small Business Act (15 U.S.C. 632).
 
-&emsp;(2) The term "small business concern owned and controlled by veterans" means a small business concern—
+&emsp;(2) The term "small business concern owned and controlled by veterans" has the meaning given that term under section 3(q)(3) of the Small Business Act (15 U.S.C. 632(q)(3)).
 
-&emsp;&emsp;(A)(i) not less than 51 percent of which is owned by one or more veterans or, in the case of a publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
-
-&emsp;&emsp;(ii) the management and daily business operations of which are controlled by one or more veterans; or
-
-&emsp;&emsp;(B) not less than 51 percent of which is owned by one or more veterans with service-connected disabilities that are permanent and total who are unable to manage the daily business operations of such concern or, in the case of a publicly owned business, not less than 51 percent of the stock of which is owned by one or more such veterans.
+&emsp;(3) The term "small business concern owned and controlled by veterans with service-connected disabilities" has the meaning given the term "small business concern owned and controlled by service-disabled veterans" under section 3(q)(2) of the Small Business Act (15 U.S.C. 632(q)(2)).
 
 (Added Pub. L. 109–461, title V, §502(a)(1), Dec. 22, 2006, 120 Stat. 3431; amended Pub. L. 110–389, title VIII, §806, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–275, title I, §104(b)(1), Oct. 13, 2010, 124 Stat. 2867; Pub. L. 111–350, §5(j)(7), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112—154, title VII, §706, Aug. 6, 2012, 126 Stat. 1206; Pub. L. 114–315, title V, §501(a), Dec. 16, 2016, 130 Stat. 1566; Pub. L. 114–328, div. A, title XVIII, §1832(b), (d), (f)(1), Dec. 23, 2016, 130 Stat. 2659, 2660.)
-
-#### Amendment of Section
-
-<i>Pub. L. 114–328, div. A, title XVIII, §1832(b), (d), (e), Dec. 23, 2016, 130 Stat. 2659, 2660, provided that, effective on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue implementing regulations, this section is amended—</i>
-
-<i>(1) in subsection (b), by inserting "or a small business concern owned and controlled by veterans with service-connected disabilities" after "a small business concern owned and controlled by veterans";</i>
-
-<i>(2) in subsection (c), by inserting "or a small business concern owned and controlled by veterans with service-connected disabilities" after "a small business concern owned and controlled by veterans";</i>
-
-<i>(3) in subsection (d), by inserting "or small business concerns owned and controlled by veterans with service-connected disabilities" after "small business concerns owned and controlled by veterans" both places it appears;</i>
-
-<i>(4) in subsection (f):</i>
-
-<i>(A) by inserting ", small business concerns owned and controlled by veterans with service-connected disabilities," after "small business concerns owned and controlled by veterans" in paragraph (1);</i>
-
-<i>(B) by striking "verified" and inserting "verified, using regulations issued by the Administrator of the Small Business Administration with respect to the status of the concern as a small business concern and the ownership and control of such concern," in paragraph (4); and</i>
-
-<i>(C) by adding at the end the following new paragraph:</i>
-
-<i>"(7) The Secretary may not issue regulations related to the status of a concern as a small business concern and the ownership and control of such small business concern.";</i>
-
-<i>(5) by striking subsection (h) and redesignating subsections (i) through (l) as subsections (h) through (k), respectively; and</i>
-
-<i>(6) in subsection (k), as so redesignated:</i>
-
-<i>(A) by amending paragraph (2) to read as follows:</i>
-
-&emsp;<i>"(2) The term 'small business concern owned and controlled by veterans' has the meaning given that term under section 3(q)(3) of the Small Business Act (15 U.S.C. 632(q)(3))."; and</i>
-
-<i>(B) by adding at the end the following new paragraph:</i>
-
-&emsp;<i>"(3) The term 'small business concern owned and controlled by veterans with service-connected disabilities' has the meaning given the term 'small business concern owned and controlled by service-disabled veterans' under section 3(q)(2) of the Small Business Act (15 U.S.C. 632(q)(2))."</i>
-
-<i>See 2016 Amendment notes below.</i>
 
 #### References in Text
 
@@ -236,7 +182,7 @@ Subsec. (f)(4). Pub. L. 111–275, §104(b)(1)(B), added par. (4) and struck out
 
 #### Effective Date of 2016 Amendment
 
-Amendment by section 1832(b), (d) of Pub. L. 114–328 effective on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue implementing regulations, see section 1832(e) of Pub. L. 114–328, set out as a note under section 632 of Title 15, Commerce and Trade.
+Amendment by section 1832(b), (d) of Pub. L. 114–328 effective on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue implementing regulations \[regulations effective Oct. 1, 2018\], see section 1832(e) of Pub. L. 114–328, set out as a note under section 632 of Title 15, Commerce and Trade.
 
 Pub. L. 114–328, div. A, title XVIII, §1832(f)(2), Dec. 23, 2016, 130 Stat. 2661, provided that: "Paragraph (8) of subsection (f) of title 38, United States Code, as added by paragraph (1), shall apply with respect to a verification decision made by the Secretary of Veterans Affairs on or after the date of the enactment of this Act \[Dec. 23, 2016\]."
 
@@ -259,6 +205,4 @@ Pub. L. 111–275, title I, §104(b)(2), Oct. 13, 2010, 124 Stat. 2868, provided
 &emsp;"(D) the person who owns and controls the concern must submit to the Secretary all information required by the Secretary under this paragraph within 90 days of receiving the Secretary's notice of such requirement or the concern shall be removed from the database."
 
 Pub. L. 109–461, title V, §502(b), Dec. 22, 2006, 120 Stat. 3435, provided that: "A small business concern that is listed in any small business database maintained by the Secretary of Veterans Affairs on the date of the enactment of this Act \[Dec. 22, 2006\] shall be presumed to be eligible for inclusion in the database under subsection (f) of section 8127 of title 38, United States Code, as added by subsection (a), during the period beginning on the effective date of that section \[see Effective Date note above\] and ending one year after such effective date. Such a small business concern may be removed from the database during that period if it is found not to be a small business concern owned and controlled by veterans (as defined in subsection (k) of such section)."
-
-<i><sup>1</sup></i><i> See Amendment of Section notes below.</i>
 

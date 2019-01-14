@@ -52,7 +52,7 @@ The Secretary shall issue such regulations or other guidance as may be necessary
 
 &emsp;(7) exceptions from subsection (a) with respect to—
 
-&emsp;&emsp;(A) cases in which the disqualified related party amount is taxed under the laws of a foreign country other than the country ofwhich the related party is a resident for tax purposes, and
+&emsp;&emsp;(A) cases in which the disqualified related party amount is taxed under the laws of a foreign country other than the country of which the related party is a resident for tax purposes, and
 
 &emsp;&emsp;(B) other cases which the Secretary determines do not present a risk of eroding the Federal tax base,<sup>1</sup>
 

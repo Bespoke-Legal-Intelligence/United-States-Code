@@ -54,7 +54,7 @@ Par. (8)(C). Pub. L. 102–378, §2(25)(B), added subpar. (C).
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–411 effective on the first day of the first applicable pay period beginning on or after the 180th day after Oct. 30, 2004, with provisions relating to conversion rules, see section 301(d) of Pub. L. 108–411, set out as a note under section 5363 of this title.
+Amendment by Pub. L. 108–411 effective on the first day of the first applicable pay period beginning on or after the 180th day after Oct. 30, 2004, with provisionsrelating to conversion rules, see section 301(d) of Pub. L. 108–411, set out as a note under section 5363 of this title.
 
 #### Effective Date of 1993 Amendment
 

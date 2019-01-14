@@ -8,7 +8,7 @@ Subject to the following subsections of this section, for the purpose of reducin
 
 &emsp;&emsp;(A) meet the conditions for admission to such programs that dispense methadone as part of comprehensive treatment for such dependence; and
 
-&emsp;&emsp;(B) are seeking admission to such programs that so dispense methadone, but as aresult of the limited capacity of the programs, will not gain such admission until 14 or more days after seeking admission to the programs; and
+&emsp;&emsp;(B) are seeking admission to such programs that so dispense methadone, but as a result of the limited capacity of the programs, will not gain such admission until 14 or more days after seeking admission to the programs; and
 
 &emsp;(2) in dispensing methadone to such individuals, to provide only minimum ancillary services during the period in which the individuals are waiting for admission to programs of comprehensive treatment.
 
@@ -64,7 +64,7 @@ For purposes of this section:
 
 #### Prior Provisions
 
-A prior section 300y–11, act July 1, 1944, ch. 373, title XIX, §1932, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 559; amended Jan. 4, 1983, Pub. L. 97–414, §8(v), 96 Stat. 2063, related to applicability of other provisions and promulgation of regulations, prior to repeal by Pub. L. 99–280, §5, Apr. 24, 1986, 100 Stat. 400.
+A prior section 300y–11, act July 1, 1944, ch. 373, title XIX, §1932, as added Aug. 13, 1981, Pub. L. 97–35, title IX,§901, 95 Stat. 559; amended Jan. 4, 1983, Pub. L. 97–414, §8(v), 96 Stat. 2063, related to applicability of other provisions and promulgation of regulations, prior to repeal by Pub. L. 99–280, §5, Apr. 24, 1986, 100 Stat. 400.
 
 Sections 300y–21 to 300y–27 terminated Jan. 1, 1991, pursuant to section 300y–27 and were omitted from the Code.
 

@@ -12,7 +12,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;The term "preexisting condition exclusion" means, with respect to coverage, alimitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before such date.
+&emsp;&emsp;The term "preexisting condition exclusion" means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before such date.
 
 #### (B) Treatment of genetic information
 
@@ -162,7 +162,7 @@ For purposes of this part—
 
 #### (2) Disclosure of information on previous benefits
 
-&emsp;In the case of an election described in subsection (c)(3)(B) by a group health plan or health insurance issuer, if the plan or issuer enrolls an individual for coverage under the plan and the individual provides a certification of coverage of the individual under paragraph (1)—
+&emsp;In the case of an election described in subsection (c)(3)(B) by a group health plan orhealth insurance issuer, if the plan or issuer enrolls an individual for coverage under the plan and the individual provides a certification of coverage of the individual under paragraph (1)—
 
 &emsp;&emsp;(A) upon request of such plan or issuer, the entity which issued the certification provided by the individual shall promptly disclose to such requesting plan or issuer information on coverage of classes and categories of health benefits available under such entity's plan or coverage, and
 
@@ -230,7 +230,7 @@ For purposes of this part—
 
 #### (i) Termination of Medicaid or CHIP coverage
 
-&emsp;&emsp;&emsp;The employee or dependent is covered under a Medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] or under a State child health plan under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] and coverage of the employee or dependent under such a plan is terminated as a result of loss of eligibility for such coverage and the employee requests coverage under the group health plan (or health insurance coverage) not later than 60 days after the date of termination of such coverage.
+&emsp;&emsp;&emsp;The employee or dependent is covered under a Medicaid plan under title XIX ofthe Social Security Act \[42 U.S.C. 1396 et seq.\] or under a State child health plan under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] and coverage of the employee or dependent under such a plan is terminated as a result of loss of eligibility for such coverage and the employee requests coverage under the group health plan (or health insurance coverage) not later than 60 days after the date of termination of such coverage.
 
 #### (ii) Eligibility for employment assistance under Medicaid or CHIP
 
@@ -280,7 +280,7 @@ For purposes of this part—
 
 &emsp;A health maintenance organization described in paragraph (1) may use alternative methods, from those described in such paragraph, to address adverse selection as approved by the State insurance commissioner or official or officials designated by the State to enforce the requirements of this part for the State involved with respect to such issuer.
 
-(July 1, 1944, ch. 373, title XXVII, §2704, formerly §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955; amended Pub. L. 111–3, title III, §311(b)(2), Feb. 4, 2009, 123 Stat.70; Pub. L. 111–5, div. B, title I, §1899D(c), Feb. 17, 2009, 123 Stat. 426; renumbered §2704 and amended Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911; Pub. L. 111–344, title I, §114(c), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(3), (4), Oct. 21, 2011, 125 Stat. 419.)
+(July 1, 1944, ch. 373, title XXVII, §2704, formerly §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955; amended Pub. L. 111–3, title III, §311(b)(2), Feb. 4, 2009, 123 Stat. 70; Pub. L. 111–5, div. B, title I, §1899D(c), Feb. 17, 2009, 123 Stat. 426; renumbered §2704 and amended Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911; Pub. L. 111–344, title I, §114(c), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(3), (4), Oct. 21, 2011, 125 Stat. 419.)
 
 #### References in Text
 

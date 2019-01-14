@@ -14,7 +14,7 @@ Passenger.—The term "passenger" has the meaning given such term by section 113
 
 (b)
 
-Submission of Plans.—A foreign air carrier providing foreign air transportation under this chapter shall transmit to the Secretary of Transportation and the Chairman of the National Transportation Safety Board a plan for addressing the needs of the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in a major loss of life.
+Submission of Plans.—A foreign air carrier providing foreign air transportation under this chapter shall transmit to the Secretary of Transportation and the Chairman of the National Transportation Safety Board a plan for addressing the needs of the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in any loss of life.
 
 (c)
 
@@ -22,11 +22,11 @@ Contents of Plans.—To the extent permitted by foreign law which was in effect 
 
 &emsp;(1)
 
-Telephone number.—A plan for publicizing a reliable, toll-free telephone number and staff to take calls to such number from families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in a significant loss of life.
+Telephone number.—A plan for publicizing a reliable, toll-free telephone number and staff to take calls to such number from families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in any loss of life.
 
 &emsp;(2)
 
-Notification of families.—A process for notifying, in person to the extent practicable, the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in a significant loss of life before providing any public notice of the names of such passengers. Such notice shall be provided by using the services of—
+Notification of families.—A process for notifying, in person to the extent practicable, the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in any loss of life before providing any public notice of the names of such passengers. Such notice shall be provided by using the services of—
 
 &emsp;&emsp;(A) the organization designated for the accident under section 1136(a)(2); or
 
@@ -46,7 +46,7 @@ List of passengers.—An assurance that the foreign air carrier shall provide, i
 
 &emsp;(5)
 
-Consultation regarding disposition of remains and effects.—An assurance that thefamily of each passenger will be consulted about the disposition of any remains and personal effects of the passenger that are within the control of the foreign air carrier.
+Consultation regarding disposition of remains and effects.—An assurance that the family of each passenger will be consulted about the disposition of any remains and personal effects of the passenger that are within the control of the foreign air carrier.
 
 &emsp;(6)
 
@@ -58,11 +58,11 @@ Unclaimed possessions retained.—An assurance that any unclaimed possession of 
 
 &emsp;(8)
 
-Monuments.—An assurance that the family of each passenger will be consulted about construction by the foreign air carrier of any monument to the passengers built in the United States, including any inscription on the monument.
+Monuments.—An assurance that the family of each passenger will be consulted about construction by the foreign air carrier of anymonument to the passengers built in the United States, including any inscription on the monument.
 
 &emsp;(9)
 
-Equal treatment of passengers.—An assurance that the treatment of the families of nonrevenue passengers will be the same as the treatment of the families of revenue passengers.
+Equal treatment of passengers.—An assurance that the treatment of the families of nonrevenue passengers (and any other victim of the accident, including any victim on the ground) will be the same as the treatment of the families of revenue passengers.
 
 &emsp;(10)
 
@@ -90,7 +90,7 @@ Training of employees and agents.—An assurance that the foreign air carrier wi
 
 &emsp;(16)
 
-Consultation on carrier response not covered by plan.—An assurance that the foreign air carrier, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving major loss of life, the foreign air carrier <sup>1</sup> will consult with the Board and the Department of State on the provision of the assistance.
+Consultation on carrier response not covered by plan.—An assurance that, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving any loss of life, will consult <sup>1</sup> with the Board and the Department of State on the provision of the assistance.
 
 &emsp;(17)
 
@@ -98,7 +98,7 @@ Notice concerning liability for manmade structures.—
 
 &emsp;&emsp;(A)
 
-In general.—An assurance that, in the case of an accident that results in significant damage to a manmade structure or other property on the ground that is not government-owned, the foreign air carrier will promptly provide notice, in writing, to the extent practicable, directly to the owner of the structure or other property about liability for any property damage and means for obtaining compensation.
+In general.—An assurance that, in the case of an accident that results in any damage to a manmade structure or other property on the ground that is not government-owned, the foreign air carrier will promptly provide notice, in writing, to the extent practicable, directly to the owner of the structure or other property about liability for any property damage and means for obtaining compensation.
 
 &emsp;&emsp;(B)
 
@@ -116,13 +116,27 @@ Permit and Exemption Requirement.—The Secretary shall not approve an applicati
 
 Limitation on Liability.—A foreign air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the foreign air carrier in preparing or providing a passenger list pursuant to a plan submitted by the foreign air carrier under subsection (c), unless the liability was caused by conduct of the foreign air carrier which was grossly negligent or which constituted intentional misconduct.
 
-(Added Pub. L. 105–148, §1(a), Dec. 16, 1997, 111 Stat. 2681; amended Pub. L. 106–181, title IV, §403(a)–(c)(1), Apr. 5, 2000, 114 Stat. 130; Pub. L. 108–176, title VIII, §809(b), Dec. 12, 2003, 117 Stat. 2589.)
+(Added Pub. L. 105–148, §1(a), Dec. 16, 1997, 111 Stat. 2681; amended Pub. L. 106–181, title IV, §403(a)–(c)(1), Apr. 5, 2000, 114 Stat. 130; Pub. L. 108–176, title VIII, §809(b), Dec. 12, 2003, 117 Stat. 2589; Pub. L. 115–254, div. B, title V, §539(d), div. C, §1109(b), Oct. 5, 2018, 132 Stat. 3370, 3434.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 105–148, which was approved Dec. 16, 1997.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–254, §1109(b)(1), substituted "any loss of life" for "a major loss of life".
+
+Subsec. (c)(1). Pub. L. 115–254, §1109(b)(2)(A), substituted "any loss of life" for "a significant loss of life".
+
+Subsec. (c)(2). Pub. L. 115–254, §1109(b)(2)(B), substituted "any loss of life" for "a significant loss of life" in introductory provisions.
+
+Subsec. (c)(9). Pub. L. 115–254, §1109(b)(2)(C), amended par. (9) generally. Prior to amendment, text read as follows: "An assurance that the treatment of the families of nonrevenue passengers will be the same as the treatment of the families of revenue passengers."
+
+Subsec. (c)(16). Pub. L. 115–254, §1109(b)(2)(D), substituted "any loss of life" for "major loss of life" and "will consult" for "the foreign air carrier will consult".
+
+Pub. L. 115–254, §539(d), substituted "An assurance that" for "An assurance that the foreign air carrier".
+
+Subsec. (c)(17)(A). Pub. L. 115–254, §1109(b)(2)(E), substituted "any damage" for "significant damage".
 
 <b>2003</b>—Subsec. (c)(17), (18). Pub. L. 108–176 added pars. (17) and (18).
 
@@ -146,5 +160,5 @@ Pub. L. 106–181, title IV, §403(c)(2), Apr. 5, 2000, 114 Stat. 131, provided 
 
 Pub. L. 105–148, §1(c), Dec. 16, 1997, 111 Stat. 2683, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the 180th day following the date of the enactment of this Act \[Dec. 16, 1997\]."
 
-<i><sup>1</sup></i><i> So in original. The words "the foreign air carrier" probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "the foreign air carrier will consult".</i>
 

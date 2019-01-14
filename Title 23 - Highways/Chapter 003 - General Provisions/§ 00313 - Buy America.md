@@ -10,7 +10,7 @@
 
 &emsp;(3) that inclusion of domestic material will increase the cost of the overall project contract by more than 25 percent.
 
-(c) For purposes of this section, in calculating components' costs, labor costs involved in finalassembly shall not be included in the calculation.
+(c) For purposes of this section, in calculating components' costs, labor costs involved in final assembly shall not be included in the calculation.
 
 (d) The Secretary of Transportation shall not impose any limitation or condition on assistance provided under the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title that restricts any State from imposing more stringent requirements than this section on the use of articles, materials, and supplies mined, produced, or manufactured in foreign countries in projects carried out with such assistance or restricts any recipient of such assistance from complying with such State imposed requirements.
 
@@ -74,9 +74,11 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Buy America Waiver Notification and Annual Reports
 
-Pub. L. 115–31, div. K, title I, §123, May 5, 2017, 131 Stat. 741, provided that: "Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: <i>Provided</i>, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements."
+Pub. L. 115–141, div. L, title I, §122, Mar. 23, 2018, 132 Stat. 986, provided that: "Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: <i>Provided</i>, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 115–31, div. K, title I, §123, May 5, 2017, 131 Stat. 741.
 
 Pub. L. 114–113, div. L, title I, §122, Dec. 18, 2015, 129 Stat. 2847.
 

@@ -66,7 +66,7 @@ The Center for Quality Improvement and Patient Safety of the Agency for Healthca
 
 &emsp;&emsp;(D) reduce preventable morbidity, mortality, and associated costs of morbidity and mortality by building capacity for patient safety research;
 
-&emsp;&emsp;(E) support the discovery of processes for the reliable, safe, efficient, and responsive delivery of health care, taking into account discoveries from clinical research and comparative effectiveness research;
+&emsp;&emsp;(E) support the discovery of processes for the reliable, safe, efficient, and responsive delivery of health care, taking into accountdiscoveries from clinical research and comparative effectiveness research;
 
 &emsp;&emsp;(F) allow communication of research findings and translate evidence into practice recommendations that are adaptable to a variety of settings, and which, as soon as practicable after the establishment of the Center, shall include—
 

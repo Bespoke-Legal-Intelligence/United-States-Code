@@ -8,7 +8,7 @@ Notwithstanding any provision of title 18, the Secretary of Energy may take such
 
 (1) The actions described in this paragraph are the following:
 
-&emsp;(A) Detect, identify, monitor, and track the unmanned aircraft system or unmanned aircraft, without prior consent, including bymeans of intercept or other access of a wire, oral, or electronic communication used to control the unmanned aircraft system or unmanned aircraft.
+&emsp;(A) Detect, identify, monitor, and track the unmanned aircraft system or unmanned aircraft, without prior consent, including by means of intercept or other access of a wire, oral, or electronic communication used to control the unmanned aircraft system or unmanned aircraft.
 
 &emsp;(B) Warn the operator of the unmanned aircraft system or unmanned aircraft, including by passive or active, and direct or indirect physical, electronic, radio, and electromagnetic means.
 
@@ -42,7 +42,13 @@ In this section:
 
 &emsp;&emsp;(C) owned by the United States or contracted to the United States, to store or use special nuclear material.
 
-&emsp;(2) The terms "unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 note).
+&emsp;(2) The terms "unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 <sup>1</sup> note).
 
 (Pub. L. 107–314, div. D, title XLV, §4510, as added Pub. L. 114–328, div. C, title XXXI, §3112(a), Dec. 23, 2016, 130 Stat. 2756.)
+
+#### References in Text
+
+Section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95), referred to in subsec. (e)(2), which was formerly set out in a note under section 40101 of Title 49, Transportation, was transferred and is now set out in a note under section 44802 of Title 49.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

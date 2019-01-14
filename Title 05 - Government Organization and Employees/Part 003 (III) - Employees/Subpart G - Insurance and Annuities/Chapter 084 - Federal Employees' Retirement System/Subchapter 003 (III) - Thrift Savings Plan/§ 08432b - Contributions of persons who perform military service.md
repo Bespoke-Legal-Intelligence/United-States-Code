@@ -120,7 +120,7 @@ Effective Date; Applicability.—This section \[enacting this section and amendi
 
 "(f)
 
-Rules for Applying Amendments to Employees Restored or Reemployed Before Effective Date.—In the case of any employee (described in subsection (e)(2)) who is reemployed or restored (in the circumstances described in section 8432b(a) of title 5, United States Code, as amended by this section) before the date of enactment of this Act \[Oct. 13, 1994\], the amendments made by this section \[enacting this section and amending sections 8351, 8432, and 8433 of this title\] shall apply to such employee, in accordance with their terms, subject to the following:
+Rules for Applying Amendments to Employees Restored or Reemployed Before Effective Date.—Inthe case of any employee (described in subsection (e)(2)) who is reemployed or restored (in the circumstances described in section 8432b(a) of title 5, United States Code, as amended by this section) before the date of enactment of this Act \[Oct. 13, 1994\], the amendments made by this section \[enacting this section and amending sections 8351, 8432, and 8433 of this title\] shall apply to such employee, in accordance with their terms, subject to the following:
 
 &emsp;"(1) The employee shall be deemed not to have been reemployed or restored until—
 

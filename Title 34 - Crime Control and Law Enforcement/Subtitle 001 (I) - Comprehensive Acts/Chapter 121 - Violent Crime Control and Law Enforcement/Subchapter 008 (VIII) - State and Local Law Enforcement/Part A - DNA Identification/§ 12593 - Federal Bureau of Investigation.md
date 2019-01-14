@@ -12,7 +12,7 @@
 
 #### (2) Report
 
-&emsp;For 5 years after September 13, 1994, the Director of the Federal Bureau of Investigation shall submit to the Committees on the Judiciary of the House and Senate an annual report on the results of each of the tests described in paragraph (1).
+&emsp;For 5 years after September 13, 1994, the Director of the Federal Bureau of Investigation shall submit to the Committees on the Judiciary of the House and Senate an annual reporton the results of each of the tests described in paragraph (1).
 
 #### (b) Privacy protection standards
 

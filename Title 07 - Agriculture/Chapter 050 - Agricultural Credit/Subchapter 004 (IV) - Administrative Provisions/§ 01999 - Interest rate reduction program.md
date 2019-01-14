@@ -20,7 +20,7 @@ Under such program, the Secretary shall enter into a contract with, and make pay
 
 #### (c) Payments to lenders
 
-In return for a contract entered into by a lender under subsection (b) for the reduction of theinterest rate paid on a loan, the Secretary shall make payments to the lender in an amount equal to not more than 100 percent of the cost of reducing the annual rate of interest payable on such loan, except that such payments may not exceed the cost of reducing such rate by more than 4 percent.
+In return for a contract entered into by a lender under subsection (b) for the reduction of the interest rate paid on a loan, the Secretary shall make payments to the lender in an amount equal to not more than 100 percent of the cost of reducing the annual rate of interest payable on such loan, except that such payments may not exceed the cost of reducing such rate by more than 4 percent.
 
 #### (d) Duration of contracts
 
@@ -40,15 +40,15 @@ In general.—The total amount of funds used by the Secretary to carry out this 
 
 &emsp;(B)
 
-Beginning farmers and ranchers.—
+Beginning and veteran farmers and ranchers.—
 
 &emsp;&emsp;(i)
 
-In general.—The Secretary shall reserve not less than 15 percent of the funds used by the Secretary under subparagraph (A) to make payments for guaranteed loans made to beginning farmers and ranchers.
+In general.—The Secretary shall reserve not less than 15 percent of the funds used by the Secretary under subparagraph (A) to make payments for guaranteed loans made to beginning farmers and ranchers or veteran farmers and ranchers (as defined in section 2279(a) of this title).
 
 &emsp;&emsp;(ii)
 
-Duration of reservation of funds.—Funds reserved for beginning farmers or ranchers under clause (i) for a fiscal year shall be reserved only until March 1 of the fiscal year.
+Duration of reservation of funds.—Funds reserved for farmers or ranchers under clause (i) for a fiscal year shall be reserved only until March 1 of the fiscal year.
 
 #### (f) List of lender participants in guaranteed loan program
 
@@ -56,15 +56,21 @@ The Secretary shall make available to farmers, on request, a list of lenders in 
 
 #### (g) Foreclosure action provision in farm loan guarantees
 
-Notwithstanding any other provision of law, each contract of guarantee on a farm loan entered into under this chapter after January 6, 1988, shall contain a condition that the lender of the guaranteed loan may not initiate foreclosure action on the loan until 60 days after a determination is made with respect to the eligibility of the borrower thereof to participate in the program under this section.
+Notwithstanding any other provision of law, each contract of guarantee on a farm loan entered into under this chapter after January 6, 1988, shall contain a condition that the lender ofthe guaranteed loan may not initiate foreclosure action on the loan until 60 days after a determination is made with respect to the eligibility of the borrower thereof to participate in the program under this section.
 
-(Pub. L. 87–128, title III, §351, as added Pub. L. 99–198, title XIII, §1320, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, §613(b), (c), Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–508, title I, §1202(b)(1), (c), Nov. 5, 1990, 104 Stat. 1388–10, 1388–11; Pub. L. 104–105, title II, §220, Feb. 10, 1996, 110 Stat. 184; Pub. L. 104–127, title VI, §643(a), Apr. 4, 1996, 110 Stat. 1102; Pub. L. 107–171, title V, §5313, May 13, 2002, 116 Stat. 347.)
+(Pub. L. 87–128, title III, §351, as added Pub. L. 99–198, title XIII, §1320, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, §613(b), (c), Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–508, title I, §1202(b)(1), (c), Nov. 5, 1990, 104 Stat. 1388–10, 1388–11; Pub. L. 104–105, title II, §220, Feb. 10, 1996, 110 Stat. 184; Pub. L. 104–127, title VI, §643(a), Apr. 4, 1996, 110 Stat. 1102; Pub. L. 107–171, title V, §5313, May 13, 2002, 116 Stat. 347; Pub. L. 115–334, title XII, §12306(d), Dec. 20, 2018, 132 Stat. 4970.)
 
 #### References in Text
 
-For definition of "this chapter", referred to in subsecs. (a)(1), (e)(1), and (g), see note set out under section 1921 of this title.
+This chapter, referred to in subsecs. (a)(1), (e)(1), and (g), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(2)(B). Pub. L. 115–334, §12306(d)(1), inserted "and veteran" after "Beginning" in heading.
+
+Subsec. (e)(2)(B)(i). Pub. L. 115–334, §12306(d)(2), inserted before period at end "or veteran farmers and ranchers (as defined in section 2279(a) of this title)".
+
+Subsec. (e)(2)(B)(ii). Pub. L. 115–334, §12306(d)(3), struck out "beginning" before "farmers or ranchers".
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–171, §5313(1), struck out par. (1) designation and heading and struck out heading and text of par. (2). Text read as follows: "The authority provided by this subsection shall terminate on September 30, 2002."
 
@@ -90,7 +96,7 @@ Subsec. (h). Pub. L. 100–233, §613(c), added subsec. (h).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under section 940d of this title.
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under section 1994 of this title.
 
 #### Effective and Termination Dates
 

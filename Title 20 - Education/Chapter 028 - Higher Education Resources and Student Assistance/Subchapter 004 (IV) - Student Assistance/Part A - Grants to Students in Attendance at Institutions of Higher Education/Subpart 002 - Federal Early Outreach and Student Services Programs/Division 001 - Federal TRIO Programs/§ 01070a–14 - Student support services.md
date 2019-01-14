@@ -52,7 +52,7 @@ A project assisted under this section may provide services such as—
 
 &emsp;&emsp;(B) students who are in foster care or are aging out of the foster care system; and
 
-&emsp;(6) programs and activities as described in subsection (b) or paragraphs (1) through (4) ofthis subsection that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
+&emsp;(6) programs and activities as described in subsection (b) or paragraphs (1) through (4) of this subsection that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
 
 #### (d) Special rule
 

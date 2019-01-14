@@ -82,7 +82,7 @@ Minimum Standards for Deployment.—(1) The Secretary of Defense shall prescribe
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §712(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The system described in subsection (a) shall include the use of predeployment medical examinations and postdeployment medical examinations (including an assessment of mental health and the drawing of blood samples) to accurately record the medical condition of members before their deployment and any changes in their medical condition during the course of their deployment. The postdeployment examination shall be conducted when the member is redeployed or otherwise leaves an area in which the system is in operation (or as soon as possible thereafter)."
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §712(a), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: "The system described in subsection (a) shall include the use of predeployment medical examinations and postdeployment medical examinations (including an assessment of mental health and the drawing of blood samples) to accurately record the medical condition of members before their deployment and any changes in their medical condition during the course of their deployment. The postdeployment examination shall be conducted when the member is redeployed or otherwise leaves an area in which the system is in operation (or as soon as possible thereafter)."
 
 Subsec. (b)(2). Pub. L. 111–383, §712(b), substituted "medical examination, postdeployment medical examination, and postdeployment health reassessment" for "and postdeployment medical examination" in introductory provisions.
 
@@ -188,7 +188,7 @@ Pub. L. 109–364, div. A, title VII, §738(f), Oct. 17, 2006, 120 Stat. 2304, p
 
 #### Interim Standards for Blood Sampling
 
-Pub. L. 108–375, div. A, title VII, §733(b), Oct. 28, 2004, 118 Stat. 1998, as amended by Pub. L. 109–364, div. A,title X, §1071(g)(9), Oct. 17, 2006, 120 Stat. 2402, provided that:
+Pub. L. 108–375, div. A, title VII, §733(b), Oct. 28, 2004, 118 Stat. 1998, as amended by Pub. L. 109–364, div. A, title X, §1071(g)(9), Oct. 17, 2006, 120 Stat. 2402, provided that:
 
 "(1)
 

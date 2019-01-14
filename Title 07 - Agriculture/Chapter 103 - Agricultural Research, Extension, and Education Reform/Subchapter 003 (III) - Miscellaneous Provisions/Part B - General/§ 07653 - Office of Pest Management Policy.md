@@ -34,13 +34,13 @@ There are authorized to be appropriated to carry out this section—
 
 &emsp;(1) such sums as are necessary for each of fiscal years 1999 through 2013; and
 
-&emsp;(2) $3,000,000 for each of fiscal years 2014 through 2018.
+&emsp;(2) $3,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 105–185, title VI, §614, June 23, 1998, 112 Stat. 605; Pub. L. 107–171, title VII, §7132, May 13, 2002, 116 Stat. 435; Pub. L. 110–234, title VII, §7313, May 22, 2008, 122 Stat. 1245; Pub. L. 110–246, §4(a), title VII, §7313, June 18, 2008, 122 Stat. 1664, 2006; Pub. L. 113–79, title VII, §7309, Feb. 7, 2014, 128 Stat. 891.)
+(Pub. L. 105–185, title VI, §614, June 23, 1998, 112 Stat. 605; Pub. L. 107–171, title VII, §7132, May 13, 2002, 116 Stat. 435; Pub. L. 110–234, title VII, §7313, May 22, 2008, 122 Stat. 1245; Pub. L. 110–246, §4(a), title VII, §7313, June 18, 2008, 122 Stat. 1664, 2006; Pub. L. 113–79, title VII, §7309, Feb. 7, 2014, 128 Stat. 891; Pub. L. 115–334, title VII, §7307, Dec. 20, 2018, 132 Stat. 4816.)
 
 #### References in Text
 
-The Food Quality Protection Act of 1996, referred to in subsec. (b)(3), is Pub. L. 104–170, Aug. 3, 1996, 110 Stat.1489. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 136 of this title and Tables.
+The Food Quality Protection Act of 1996, referred to in subsec. (b)(3), is Pub. L. 104–170, Aug. 3, 1996, 110 Stat. 1489. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 136 of this title and Tables.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b)(3), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
 
@@ -51,6 +51,8 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(3), is act 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f)(2). Pub. L. 115–334 substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (f). Pub. L. 113–79 struck out "such sums as are necessary" after "appropriated", substituted "section—" for "section for each of fiscal years 1999 through 2012.", and added pars. (1) and (2).
 

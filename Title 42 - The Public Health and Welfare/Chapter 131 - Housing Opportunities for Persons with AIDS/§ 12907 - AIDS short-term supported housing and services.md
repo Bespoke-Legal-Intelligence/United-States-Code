@@ -52,7 +52,7 @@ Any amounts received from grants under this section may only be used to carry ou
 
 #### (B) Waiver
 
-&emsp;&emsp;The Secretary may, as the Secretary determines appropriate, waive the limitation under subparagraph (A) for any program or short-term supported housing facility.
+&emsp;&emsp;The Secretary may, as the Secretary determines appropriate, waive the limitationunder subparagraph (A) for any program or short-term supported housing facility.
 
 #### (3) Term of assistance
 

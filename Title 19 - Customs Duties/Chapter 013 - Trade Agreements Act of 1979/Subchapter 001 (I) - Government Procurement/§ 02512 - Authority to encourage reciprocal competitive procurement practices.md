@@ -56,7 +56,7 @@ Notwithstanding subsection (a), but in furtherance of the objective of encouragi
 
 #### (1) Presidential report
 
-&emsp;On or before October 1, 1981, the President shall prepare and transmit to the congressional committees referred to in subsection (c)(1) a report which describes the actions he deems appropriate to establish reciprocitywith major industrialized countries in the area of Government procurement.
+&emsp;On or before October 1, 1981, the President shall prepare and transmit to the congressional committees referred to in subsection (c)(1) a report which describes the actions he deems appropriate to establish reciprocity with major industrialized countries in the area of Government procurement.
 
 #### (2) Procedure
 
@@ -86,7 +86,7 @@ Subsec. (b). Pub. L. 103–465, §343(b)(2), inserted concluding provisions.
 
 Subsec. (b)(1). Pub. L. 103–465, §343(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "delay, for a period not to exceed two years, the prohibition of procurement, required pursuant to subsection (a)(1) of this section, of products of a foreign country or instrumentality which is not designated pursuant to section 2511(b) of this title, except that no such delay shall be granted with respect to the procurement of products of any major industrial country;".
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–182 substituted "are products covered under the Agreement for procurement by the United States" for "would otherwise be eligible products".
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–182 substituted "are products covered under the Agreement for procurementby the United States" for "would otherwise be eligible products".
 
 #### Change of Name
 

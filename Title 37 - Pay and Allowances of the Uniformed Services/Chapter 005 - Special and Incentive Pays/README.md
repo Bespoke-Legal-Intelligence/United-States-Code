@@ -160,7 +160,7 @@ Pub. L. 102–25, title VII, §702(a)(1), Apr. 6, 1991, 105 Stat. 117, substitut
 
 <b>1985</b>—Pub. L. 99–145, title VI, §§639(e), 644(a)(2), Nov. 8, 1985, 99 Stat. 651, 653, substituted "dental officers of the armed forces" for "dentists" in item 302b, added item 308i, and struck out item 311 "Special pay: continuation pay for dentists in the armed forces".
 
-<b>1984</b>—Pub. L. 98–525, title VI, §623(b)(2), title XIV, §1402(b)(2), Oct. 19, 1984, 98 Stat. 2542, 2621, substituted "special duty assignment pay for enlisted members"for "proficiency pay for enlisted members" in item 307, and added item 306a.
+<b>1984</b>—Pub. L. 98–525, title VI, §623(b)(2), title XIV, §1402(b)(2), Oct. 19, 1984, 98 Stat. 2542, 2621, substituted "special duty assignment pay for enlisted members" for "proficiency pay for enlisted members" in item 307, and added item 306a.
 
 <b>1983</b>—Pub. L. 98–94, title IX, §905(b)(2), title X, §1011(b)(2), Sept. 24, 1983, 97 Stat. 664, struck out item 308d "Special pay: bonus for enlistment, reenlistment, or extension of enlistment in elements of the ready Reserve other than the Selected Reserve", added items 308g and 308h, and in item 310 inserted "or imminent danger".
 

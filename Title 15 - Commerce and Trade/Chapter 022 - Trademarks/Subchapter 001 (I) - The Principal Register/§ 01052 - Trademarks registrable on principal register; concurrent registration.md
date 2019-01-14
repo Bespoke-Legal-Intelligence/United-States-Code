@@ -16,11 +16,15 @@ No trademark by which the goods of the applicant may be distinguished from the g
 
 > A mark which would be likely to cause dilution by blurring or dilution by tarnishment under section 1125(c) of this title, may be refused registration only pursuant to a proceeding brought under section 1063 of this title. A registration for a mark which would be likely to cause dilution by blurring or dilution by tarnishment under section 1125(c) of this title, may be canceled pursuant to a proceeding brought under either section 1064 of this title or section 1092 of this title.
 
-(July 5, 1946, ch. 540, title I, §2, 60 Stat. 428; Pub. L. 87–772, §2, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §104, Nov. 16, 1988, 102 Stat. 3937; Pub. L. 103–182, title III, §333(a), Dec. 8, 1993, 107 Stat. 2114; Pub. L. 103–465, title V, §522, Dec. 8, 1994, 108 Stat. 4982; Pub. L. 105–330, title II, §201(a)(2), (12), Oct. 30, 1998, 112 Stat. 3069, 3070; Pub. L. 106–43, §2(a), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV,§4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 109–312, §3(a), Oct. 6, 2006, 120 Stat. 1732.)
+(July 5, 1946, ch. 540, title I, §2, 60 Stat. 428; Pub. L. 87–772, §2, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §104, Nov. 16, 1988, 102 Stat. 3937; Pub. L. 103–182, title III, §333(a), Dec. 8, 1993, 107 Stat. 2114; Pub. L. 103–465, title V, §522, Dec. 8, 1994, 108 Stat. 4982; Pub. L. 105–330, title II, §201(a)(2), (12), Oct. 30, 1998, 112 Stat. 3069, 3070; Pub. L. 106–43, §2(a), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 109–312, §3(a), Oct. 6, 2006, 120 Stat. 1732.)
 
 #### References in Text
 
 Acts March 3, 1881, and February 20, 1905, referred to in subsec. (d), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502, and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+
+#### Constitutionality
+
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Prior Provisions
 
@@ -60,7 +64,7 @@ Subsec. (f). Pub. L. 100–667, §104(3), substituted "used on or in connection 
 
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
-Pub. L. 106–43, §2(e), Aug. 5, 1999, 113 Stat. 218, provided that: "The amendments made by this section\[amending this section and sections 1063, 1064, and 1092 of this title\] shall take effect on the date of enactment of this Act \[Aug. 5, 1999\] and shall apply only to any application for registration filed on or after January 16, 1996."
+Pub. L. 106–43, §2(e), Aug. 5, 1999, 113 Stat. 218, provided that: "The amendments made by this section \[amending this section and sections 1063, 1064, and 1092 of this title\] shall take effect on the date of enactment of this Act \[Aug. 5, 1999\] and shall apply only to any application for registration filed on or after January 16, 1996."
 
 #### Effective Date of 1998 Amendment
 

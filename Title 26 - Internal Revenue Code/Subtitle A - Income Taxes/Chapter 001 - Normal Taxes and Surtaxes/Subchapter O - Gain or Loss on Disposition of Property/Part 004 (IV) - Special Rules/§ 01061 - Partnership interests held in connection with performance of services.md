@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;If a taxpayer transfers any applicable partnership interest, directly or indirectly, to a person related to the taxpayer, the taxpayer shall include in gross income (as short term capital gain) the excess (if any) of—
 
-&emsp;&emsp;(A) so much of the taxpayer's long-term capital gains with respect to such interest for such taxable year attributable to the sale or exchange of any asset held for not more than 3 years as is allocable to such interest, over
+&emsp;&emsp;(A) so much of the taxpayer's long-term capital gains with respect to such interest for such taxable year attributable to the saleor exchange of any asset held for not more than 3 years as is allocable to such interest, over
 
 &emsp;&emsp;(B) any amount treated as short term capital gain under subsection (a) with respect to the transfer of such interest.
 
@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (e) Reporting
 
-The Secretary shall require such reporting (at the time and in the manner prescribed by theSecretary) as is necessary to carry out the purposes of this section.
+The Secretary shall require such reporting (at the time and in the manner prescribed by the Secretary) as is necessary to carry out the purposes of this section.
 
 #### (f) Regulations
 

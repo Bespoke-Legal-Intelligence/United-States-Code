@@ -18,7 +18,7 @@ Awards of performance pay shall take into account the criteria established by th
 
 &emsp;(2) Except as provided in paragraph (3), performance pay for a member of the Senior Foreign Service may not exceed 20 percent of the annual rate of basic salary for that member.
 
-&emsp;(3) Not more than 6 percent of the members of the Senior Foreign Service may receive performance pay in any fiscal year in an amount which exceeds the percentage limitation specified in paragraph (2). Payments under this paragraph to a member of the Senior Foreign Service may not exceed, in any fiscal year, the percentage of basic pay established under section 4507(e)(1) of title 5 for a Meritorious Executive, except that payments of the percentage of the basic pay established under section 4507(e)(2) of such title for Distinguished Executives may be made in any fiscal year to up to 1 percent of the members of the Senior Foreign Service.
+&emsp;(3) Not more than 6 percent of the members of the Senior Foreign Service may receive performance pay in any fiscal year in an amount which exceeds the percentage limitation specified in paragraph (2). Payments under this paragraph to a member of the Senior Foreign Service may not exceed, in any fiscal year, the percentage of basic pay established under section 4507(e)(1) of title 5 for a Meritorious Executive, except that payments of the percentage of the basic pay established under section4507(e)(2) of such title for Distinguished Executives may be made in any fiscal year to up to 1 percent of the members of the Senior Foreign Service.
 
 &emsp;(4) Any award under this section shall be subject to the limitation on certain payments under section 5307 of title 5, or the limitation under section 3962(a)(3) of this title, whichever is higher.
 
@@ -26,7 +26,7 @@ Awards of performance pay shall take into account the criteria established by th
 
 #### (c) Determination of amount by Secretary; distribution on basis of selection board recommendations
 
-The Secretary shall determine the amount of performance pay available under subsection\(b)(2) each year for distribution among the members of the Senior Foreign Service and shall distribute performance pay to particular individuals on the basis of recommendations by selection boards established under section 4002 of this title.
+The Secretary shall determine the amount of performance pay available under subsection (b)(2) each year for distribution among the members of the Senior Foreign Service and shall distribute performance pay to particular individuals on the basis of recommendations by selection boards established under section 4002 of this title.
 
 #### (d) Recommendations for meritorious or distinguished service awards
 
@@ -84,7 +84,7 @@ Pub. L. 100–204, title I, §175(a), Dec. 22, 1987, 101 Stat. 1361, provided th
 
 "(1)
 
-Suspension of awards during review.—During the period beginning on the date of enactment of this Act \[Dec. 22, 1987\], and ending on the date on which the Inspector General of the Department of State reports to the Congress pursuant to paragraph (2), performancepay may not be awarded under section 405 of the Foreign Service Act of 1980 (22 U.S.C. 3965) to any member of the Senior Foreign Service in the Department of State.
+Suspension of awards during review.—During the period beginning on the date of enactment of this Act \[Dec. 22, 1987\], and ending on the date on which the Inspector General of the Department of State reports to the Congress pursuant to paragraph (2), performance pay may not be awarded under section 405 of the Foreign Service Act of 1980 (22 U.S.C. 3965) to any member of the Senior Foreign Service in the Department of State.
 
 "(2)
 

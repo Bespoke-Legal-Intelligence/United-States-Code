@@ -32,6 +32,70 @@ In subsection (a), the words "that of" are substituted for the words "the system
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–456 struck out "the Canal Zone," after "Puerto Rico,".
 
+#### Pilot Program on Regional Cybersecurity Training Center for the Army National Guard
+
+Pub. L. 115–232, div. A, title XVI, §1651, Aug. 13, 2018, 132 Stat. 2139, provided that:
+
+"(a)
+
+Pilot Program.—The Secretary of the Army may carry out a pilot program under which the Secretary establishes a National Guard training center to provide collaborative interagency education and training for members of the Army National Guard.
+
+"(b)
+
+Center.—
+
+&emsp;"(1)
+
+Training and cooperation.—If the Secretary carries out the pilot program under subsection (a), the Secretary should ensure that the training center established under such subsection—
+
+&emsp;&emsp;"(A) educates and trains members of the Army National Guard quickly and efficiently by concurrently training cyber protection teams and cyber network defense teams on a common standard in order to defend—
+
+&emsp;&emsp;&emsp;"(i) the information network of the Department of Defense in a State environment;
+
+&emsp;&emsp;&emsp;"(ii) while acting under title 10, United States Code, the information networks of State governments; and
+
+&emsp;&emsp;&emsp;"(iii) critical infrastructure;
+
+&emsp;&emsp;"(B) fosters interagency cooperation by—
+
+&emsp;&emsp;&emsp;"(i) co-locating members of the Army National Guard with personnel of departments and agencies of the Federal Government and State governments; and
+
+&emsp;&emsp;&emsp;"(ii) providing an environment to develop interagency relationship to coordinate responses and recovery efforts during and following a cyber attack;
+
+&emsp;&emsp;"(C) collaborates with academic institutions to develop and implement curriculum for interagency education and training within the classroom; and
+
+&emsp;&emsp;"(D) coordinates with the Persistent Cyber Training Environment of the Army Cyber Command in devising and implementing interagency education and training using physical and information technology infrastructure.
+
+&emsp;"(2)
+
+Locations.—If the Secretary carries out the pilot program under subsection (a), the Secretary may select one National Guard facility at which to carry out the pilot program. The Secretary may select a facility that is located in an area that meets the following criteria:
+
+&emsp;&emsp;"(A) The location has a need for cyber training, as measured by both the number of members of the Army National Guard that would apply for such training and the number of units of the Army National Guard that verify the unit would apply for such training.
+
+&emsp;&emsp;"(B) The location has high capacity information and telecommunications infrastructure, including high speed fiber optic networks.
+
+&emsp;&emsp;"(C) The location has personnel, technology, laboratories, and facilities to support proposed activities and has the opportunity for ongoing training, education, and research.
+
+"(c)
+
+Activities.—If the Secretary carries out the pilot program under subsection (a), the Secretary should ensure that the pilot program includes the following activities:
+
+&emsp;"(1) Providing joint education and training and accelerating training certifications for working in a cyber range.
+
+&emsp;"(2) Integrating education and training between the National Guard, law enforcement, and emergency medical and fire first responders.
+
+&emsp;"(3) Providing a program to continuously train the cyber network defense teams to not only defend the information network of the Department of Defense, but to also provide education and training on how to use defense capabilities of the team in a State environment.
+
+&emsp;"(4) Developing curriculum and educating the National Guard on the different missions carried out under titles 10 and 32, United States Code, in order to enhance interagency coordination and create a common operating picture.
+
+"(d)
+
+Notification Required.—If the Secretary carries out the pilot program under subsection (a), the Secretary shall provide immediate notification to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that includes information relating to the resources required to carry out such pilot program, identification of units to be trained, the location of such training, and a description of agreements with Federal, State, local, and private sector entities.
+
+"(e)
+
+Sunset.—The authority provided under this section shall expire on the date that is two years after the date of the enactment of this Act \[Aug. 13, 2018\]."
+
 #### Training for National Guard Personnel on Wildfire Response
 
 Pub. L. 115–91, div. A, title III, §351, Dec. 12, 2017, 131 Stat. 1367, provided that: "The Secretary of the Army and the Secretary of the Air Force may, in consultation with the Chief of the National Guard Bureau, provide support for training of appropriate personnel of the National Guard on wildfire response and prevention, with preference given to military installations with the highest wildfire suppression need."
@@ -62,7 +126,7 @@ Pub. L. 102–484, div. A, title III, §376, Oct. 23, 1992, 106 Stat. 2385, as a
 
 "(a)
 
-Pilot Program.—The Chief of the National Guard Bureau shall enter into an agreement, approvedby the Secretary of Defense, with each of the Governors of one or more States to carry out a pilot program during fiscal years 1993, 1994, and 1995 to provide training and professional development opportunities for members of the National Guard through the provision of health care to residents of medically underserved communities in those States with the use of personnel and equipment of the National Guard.
+Pilot Program.—The Chief of the National Guard Bureau shall enter into an agreement, approved by the Secretary of Defense, with each of the Governors of one or more States to carry out a pilot program during fiscal years 1993, 1994, and 1995 to provide training and professional development opportunities for members of the National Guard through the provision of health care to residents of medically underserved communities in those States with the use of personnel and equipment of the National Guard.
 
 "(b)
 
@@ -80,7 +144,7 @@ Maintenance of Effort.—The Chief of the National Guard Bureau shall ensure tha
 
 "(e)
 
-Coordination Among Programs.—In carrying out the pilot program under subsection (a), the Chief of the National Guard Bureau shall consult with the Secretary of Health and Human Services for the purpose of ensuring that the provision of services under the pilot program are not redundant with the services of programs of such Secretary.
+Coordination Among Programs.—In carrying out the pilot program under subsection (a), the Chief of the National Guard Bureau shall consult with the Secretary of Health and Human Services for the purpose ofensuring that the provision of services under the pilot program are not redundant with the services of programs of such Secretary.
 
 "(f)
 

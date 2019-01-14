@@ -324,7 +324,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 &emsp;&emsp;Except as provided by the Secretary, rules similar to the rules of this paragraph shall apply to transactions similar to spin-offs.
 
-#### (G) Special rules for bridge banks <sup>2</sup>
+#### (G) Special rules for bridge depository institutions
 
 &emsp;&emsp;For purposes of this paragraph, in the case of a bridge depository institution established under section 11(i) of the Federal Deposit Insurance Act (12 U.S.C. 1821(i))—
 
@@ -384,7 +384,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 &emsp;&emsp;(B) the organization (and related organizations) for which such functions are so performed by the organization described in subparagraph (A).
 
-> &emsp;For purposes of this paragraph, the term "related organizations" has the same meaning asthe term "related persons" when used in section 144(a)(3).
+> &emsp;For purposes of this paragraph, the term "related organizations" has the same meaning as the term "related persons" when used in section 144(a)(3).
 
 #### (6) Other definitions
 
@@ -744,7 +744,7 @@ For purposes of this subsection and section 401(a)(13)—
 
 &emsp;&emsp;&emsp;(ii) not more than twice,
 
-> &emsp;&emsp;the percentage which highly compensated employees are of all employees of the employer. An employer shall be treated as meeting the requirements of clause (i) if at least 10 percent of all highly compensated employees of the employer perform services solely for such line of business.
+> &emsp;&emsp;the percentage which highly compensated employees are of all employees of the employer. An employer shall be treated as meeting the requirements of clause (i) if at least 10 percent of all highly compensatedemployees of the employer perform services solely for such line of business.
 
 #### (B) Determination may be based on preceding year
 
@@ -820,7 +820,7 @@ For purposes of any applicable provision—
 
 &emsp;&emsp;(C) such plan shall not be treated as failing to meet the requirements of section 401(a)(4), 401(a)(26), 401(k)(3), 401(k)(11), 401(k)(12), 401(m), 403(b)(12), 408(k)(3), 408(k)(6), 408(p), 410(b), or 416 by reason of the making of (or the right to make) such contribution.
 
-> &emsp;For purposes of the preceding sentence, any elective deferral or employee contributionmade under paragraph (2) shall be treated as required by reason of the employee's rights under such chapter 43.
+> &emsp;For purposes of the preceding sentence, any elective deferral or employee contribution made under paragraph (2) shall be treated as required by reason of the employee's rights under such chapter 43.
 
 #### (2) Reemployment rights under USERRA with respect to elective deferrals
 
@@ -866,7 +866,7 @@ For purposes of any applicable provision—
 
 #### (6) Individual account plan
 
-&emsp;For purposes of this subsection, the term "individual account plan" means any defined contribution plan <sup>3</sup> (including any tax-sheltered annuity plan under section 403(b), any simplified employee pension under section 408(k), any qualified salary reduction arrangement under section 408(p), and any eligible deferred compensation plan (as defined in section 457(b)).
+&emsp;For purposes of this subsection, the term "individual account plan" means any defined contribution plan (including any tax-sheltered annuity plan under section 403(b), any simplified employee pension under section 408(k), any qualified salary reduction arrangement under section 408(p), and any eligible deferred compensation plan (as defined in section 457(b))).
 
 #### (7) Compensation
 
@@ -880,7 +880,7 @@ For purposes of any applicable provision—
 
 &emsp;For purposes of this subchapter and section 457, an employer sponsoring a retirement plan shall be treated as meeting the requirements of chapter 43 of title 38, United States Code, only if each of the following requirements is met:
 
-&emsp;&emsp;(A) An individual reemployed under such chapter is treated with respect to such plan as not having incurred a break in servicewith the employer maintaining the plan by reason of such individual's period of qualified military service.
+&emsp;&emsp;(A) An individual reemployed under such chapter is treated with respect to such plan as not having incurred a break in service with the employer maintaining the plan by reason of such individual's period of qualified military service.
 
 &emsp;&emsp;(B) Each period of qualified military service served by an individual is, upon reemployment under such chapter, deemed with respect to such plan to constitute service with the employer maintaining the plan for the purpose of determining the nonforfeitability of the individual's accrued benefits under such plan and for the purpose of determining the accrual of benefits under such plan.
 
@@ -936,7 +936,7 @@ For purposes of any applicable provision—
 
 #### (C) Nondiscrimination requirement
 
-&emsp;&emsp;Subparagraph (A)(iii) shall apply only if all employees of an employer (as determined under subsections (b), (c), (m), and (o)) performing service in the uniformed services described in section 3401(h)(2)(A) are entitled to receive differential wage payments on reasonably equivalent terms and, if eligible to participate in a retirement plan maintained by the employer, to make contributions based on the payments on reasonablyequivalent terms. For purposes of applying this subparagraph, the provisions of paragraphs (3), (4), and (5) of section 410(b) shall apply.
+&emsp;&emsp;Subparagraph (A)(iii) shall apply only if all employees of an employer (as determined under subsections (b), (c), (m), and (o)) performing service in the uniformed services described in section 3401(h)(2)(A) are entitled to receive differential wage payments on reasonably equivalent terms and, if eligible to participate in a retirement plan maintained by the employer, to make contributions based on the payments on reasonably equivalent terms. For purposes of applying this subparagraph, the provisions of paragraphs (3), (4), and (5) of section 410(b) shall apply.
 
 #### (D) Differential wage payment
 
@@ -1112,13 +1112,13 @@ For purposes of any applicable provision—
 
 #### (6) Special rule
 
-&emsp;A withdrawal described in paragraph (1) (subject to the limitation of paragraph (2)(C)) shall not be taken into account for purposes of section 401(k)(3) or for purposes of applying the limitation under section 402(g)(1).
+&emsp;A withdrawal described in paragraph (1) (subject to the limitation of paragraph (2)(C))shall not be taken into account for purposes of section 401(k)(3) or for purposes of applying the limitation under section 402(g)(1).
 
 #### (x) Special rules for eligible combined defined benefit plans and qualified cash or deferred arrangements
 
 #### (1) General rule
 
-&emsp;Except as provided in this subsection, the requirements of this title shall be applied to any defined benefit plan or applicable defined contribution plan which are <sup>4</sup> part of an eligible combined plan in the same manner as if each such plan were not a part of the eligible combined plan. In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.
+&emsp;Except as provided in this subsection, the requirements of this title shall be applied to any defined benefit plan or applicable defined contribution plan which is part of an eligible combined plan in the same manner as if each such plan were not a part of the eligible combined plan. In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator shall terminate each such plan separately.
 
 #### (2) Eligible combined plan
 
@@ -1189,7 +1189,7 @@ For purposes of any applicable provision—
 
 &emsp;&emsp;The vesting requirements of this subparagraph are met if—
 
-&emsp;&emsp;&emsp;(i) in the case of a defined benefit plan forming part of an eligible combined plan an employee who has completed at least 3 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit under the plan derived from employer contributions, and
+&emsp;&emsp;&emsp;(i) in the case of a defined benefit plan forming part of an eligible combined plan an employee who has completed at least 3 years of service has a nonforfeitable rightto 100 percent of the employee's accrued benefit under the plan derived from employer contributions, and
 
 &emsp;&emsp;&emsp;(ii) in the case of an applicable defined contribution plan forming part of eligible combined plan—
 
@@ -1263,7 +1263,7 @@ For purposes of any applicable provision—
 
 #### (iii) Annual notice of rights and obligations
 
-&emsp;&emsp;&emsp;The requirements of this clause are met if each employee eligible to participate inthe arrangement is, within a reasonable period before any year, given notice of the employee's rights and obligations under the arrangement.
+&emsp;&emsp;&emsp;The requirements of this clause are met if each employee eligible to participate in the arrangement is, within a reasonable period before any year, given notice of the employee's rights and obligations under the arrangement.
 
 > &emsp;&emsp;The requirements of clauses (i) and (ii) of section 401(k)(12)(D) shall be met with respect to the notices described in clauses (ii) and (iii) of this subparagraph.
 
@@ -1307,7 +1307,7 @@ For purposes of any applicable provision—
 
 &emsp;&emsp;(C) that, as of June 25, 2010, was maintained by an employer—
 
-&emsp;&emsp;&emsp;(i) described in section 501(c)(3) of such Code,<sup>5</sup>
+&emsp;&emsp;&emsp;(i) described in section 501(c)(3),
 
 &emsp;&emsp;&emsp;(ii) chartered under part B of subtitle II of title 36, United States Code,
 
@@ -1317,7 +1317,7 @@ For purposes of any applicable provision—
 
 #### (2) Aggregation
 
-&emsp;All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph <sup>6</sup> (B) and (C) of paragraph (1).
+&emsp;All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraphs (B) and (C) of paragraph (1).
 
 #### (3) Election
 
@@ -1347,7 +1347,7 @@ For purposes of any applicable provision—
 
 #### (3) Qualification
 
-&emsp;A plan or annuity contract shall not fail to be considered to be described in section 401(a) or 403(b) merely because such plan or annuitycontract engages in a transfer or merger described in this subsection.
+&emsp;A plan or annuity contract shall not fail to be considered to be described in section 401(a) or 403(b) merely because such plan or annuity contract engages in a transfer or merger described in this subsection.
 
 #### (4) Definitions
 
@@ -1369,7 +1369,7 @@ For purposes of any applicable provision—
 
 &emsp;&emsp;&emsp;(ii) in the case of a plan other than a defined benefit plan, the balance of the employee's account under the plan.
 
-(Added Pub. L. 93–406, title II, §1015, Sept. 2, 1974, 88 Stat. 925; amended Pub. L. 94–455, title XIX, §§1901(a)(64), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 95–600, title I, §152(d), Nov. 6, 1978, 92 Stat. 2799; Pub. L. 96–364, title II, §§207, 208(a), title IV, §407(b), Sept. 26, 1980, 94 Stat. 1288, 1289, 1305; Pub. L. 96–605, title II, §201(a), Dec. 28, 1980, 94 Stat. 3526; Pub. L. 96–613, §5(a), Dec. 28, 1980, 94 Stat. 3580; Pub. L. 97–248, title II, §§240(c), 246(a), 248(a), Sept. 3, 1982, 96 Stat. 520, 525, 526; Pub. L. 98–369, div. A, title IV, §491(d)(26), (27), title V, §526(a)(1), (b)(1), (d)(1), (2), title VII, §713(i), July 18, 1984, 98 Stat. 850, 874, 875, 960; Pub. L. 98–397, title II, §204(b), Aug. 23, 1984, 98 Stat. 1445; Pub. L. 99–514, title XI, §§1114(a), (b)(11), 1115(a), 1117(c), 1146(a), (b), 1151(e)(1), (i), title XIII, §1301(j)(4), title XVIII, §§1852(f), 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii), 1899A(12), Oct. 22, 1986, 100 Stat. 2448, 2451, 2452, 2462, 2491, 2506, 2507, 2657, 2868, 2951, 2953, 2954, 2958; Pub. L. 100–203, title IX, §9305(c), Dec. 22, 1987, 101 Stat. 1330–352; Pub. L. 100–647, title I, §§1011(d)(8), (e)(4), (h)(5), (i)(1)–(4)(A), (j)(1), (2), 1011A(b)(3), 1011B(a)(16), (17), (19), (20), 1018(t)(8)(E)–(G), title II, §2005(c)(1), (2), title III, §§3011(b)(4), (5), 3021(b)(1), (2)(A), title VI, §6067(a), Nov. 10, 1988, 102 Stat. 3460, 3461, 3465, 3467, 3468, 3473, 3485, 3589, 3611, 3612, 3625, 3631, 3632, 3703; Pub. L. 101–140, title II, §§203(a)(6), 204(b)(2), Nov. 8, 1989, 103 Stat. 831, 833; Pub. L. 101–239, title VII, §§7811(m)(5), 7813(b), 7841(a)(2), Dec. 19, 1989, 103 Stat. 2412, 2413, 2427; Pub. L. 101–508, title XI, §11703(b)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 102–318, title V, §521(b)(20)–(22), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1421(b)(9)(C), 1431(a), (b)(1), (c)(1)(A), (D), (E), 1434(b), 1454(a), 1461(a), 1462(a), 1704(n)(1), Aug. 20, 1996, 110 Stat. 1798, 1802, 1803, 1807, 1817, 1822, 1824, 1883; Pub. L. 105–34, title XV, §1522(a), title XVI, §1601(d)(6)(A), (7), (h)(2)(D)(i), (ii), Aug. 5, 1997, 111 Stat. 1070, 1089, 1090, 1092; Pub. L. 105–206, title VI, §6018(c), July 22, 1998, 112 Stat. 822; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§631(a), 635(a)–(c), June 7, 2001, 115 Stat. 111, 117; Pub. L. 107–147, title IV, §411(o)(3)–(8), Mar. 9, 2002, 116 Stat. 48, 49; Pub. L. 108–311, title IV, §408(a)(15), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title I, §114(c), title IX, §§902(d)(1), 903(a), 906(a)(1), (b)(1)(C), title XI, §1106(b), Aug. 17, 2006, 120 Stat. 853, 1036, 1040, 1051, 1052, 1062; Pub. L. 110–28, title VI, §6611(a)(2), (b)(2), May 25, 2007, 121 Stat. 180, 181; Pub. L. 110–245, title I, §§104(b), 105(b)(1), June 17, 2008, 122 Stat. 1626, 1628; Pub. L. 110–289, div. A, title VI, §1604(b)(4), July 30, 2008, 122 Stat. 2829; Pub. L. 110–458, title I, §§101(d)(2)(E), 109(b)(4)–(c)(1), Dec. 23, 2008, 122 Stat. 5099, 5111; Pub. L. 113–97, title II, §§201, 203(a), Apr. 7, 2014, 128 Stat. 1121, 1138; Pub. L. 113–235, div. P, §3(b), Dec. 16, 2014, 128 Stat. 2829; Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(i), (ii), (55), Dec. 19, 2014, 128 Stat. 4039, 4045; Pub. L. 114–113, div. Q, title III, §336(a)(1), (d)(1), Dec. 18, 2015, 129 Stat. 3109, 3112.)
+(Added Pub. L. 93–406, title II, §1015, Sept. 2, 1974, 88 Stat. 925; amended Pub. L. 94–455, title XIX, §§1901(a)(64), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 95–600, title I, §152(d), Nov. 6, 1978, 92 Stat. 2799; Pub. L. 96–364, title II, §§207, 208(a), title IV, §407(b), Sept. 26, 1980, 94 Stat. 1288, 1289, 1305; Pub. L. 96–605, title II, §201(a), Dec. 28, 1980, 94 Stat. 3526; Pub. L. 96–613, §5(a), Dec. 28, 1980, 94 Stat. 3580; Pub. L. 97–248, title II, §§240(c), 246(a), 248(a), Sept. 3, 1982, 96 Stat. 520, 525, 526; Pub. L. 98–369, div. A, title IV, §491(d)(26), (27), title V, §526(a)(1), (b)(1), (d)(1), (2), title VII, §713(i), July 18, 1984, 98 Stat. 850, 874, 875, 960; Pub. L. 98–397, title II, §204(b), Aug. 23, 1984, 98 Stat. 1445; Pub. L. 99–514, title XI, §§1114(a), (b)(11), 1115(a), 1117(c), 1146(a), (b), 1151(e)(1), (i), title XIII, §1301(j)(4), title XVIII, §§1852(f), 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii), 1899A(12), Oct. 22, 1986, 100 Stat. 2448, 2451, 2452, 2462, 2491, 2506, 2507, 2657, 2868, 2951, 2953, 2954, 2958; Pub. L. 100–203, title IX, §9305(c), Dec. 22, 1987, 101 Stat. 1330–352; Pub. L. 100–647, title I, §§1011(d)(8), (e)(4), (h)(5), (i)(1)–(4)(A), (j)(1), (2), 1011A(b)(3), 1011B(a)(16), (17), (19), (20), 1018(t)(8)(E)–(G), title II, §2005(c)(1), (2), title III, §§3011(b)(4), (5), 3021(b)(1), (2)(A), title VI, §6067(a), Nov. 10, 1988, 102 Stat. 3460, 3461, 3465, 3467, 3468, 3473, 3485, 3589, 3611, 3612, 3625, 3631, 3632, 3703; Pub. L. 101–140, title II, §§203(a)(6), 204(b)(2), Nov. 8, 1989, 103 Stat. 831, 833; Pub. L. 101–239, title VII, §§7811(m)(5), 7813(b), 7841(a)(2), Dec. 19, 1989, 103 Stat. 2412, 2413, 2427; Pub. L. 101–508, title XI, §11703(b)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 102–318, title V, §521(b)(20)–(22), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1421(b)(9)(C), 1431(a), (b)(1), (c)(1)(A), (D), (E), 1434(b), 1454(a), 1461(a), 1462(a), 1704(n)(1), Aug. 20, 1996, 110 Stat. 1798, 1802, 1803, 1807, 1817, 1822, 1824, 1883; Pub. L. 105–34, title XV, §1522(a), title XVI, §1601(d)(6)(A), (7), (h)(2)(D)(i), (ii), Aug. 5, 1997, 111 Stat. 1070, 1089, 1090, 1092; Pub. L. 105–206, title VI, §6018(c), July 22, 1998, 112 Stat. 822; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§631(a), 635(a)–(c), June 7, 2001, 115 Stat. 111, 117; Pub. L. 107–147, title IV, §411(o)(3)–(8), Mar. 9, 2002, 116 Stat. 48, 49; Pub. L. 108–311, title IV, §408(a)(15), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title I, §114(c), title IX, §§902(d)(1), 903(a), 906(a)(1), (b)(1)(C), title XI, §1106(b), Aug. 17, 2006, 120 Stat. 853, 1036, 1040, 1051, 1052, 1062; Pub. L. 110–28, title VI, §6611(a)(2), (b)(2), May 25, 2007, 121 Stat. 180, 181; Pub. L. 110–245, title I, §§104(b), 105(b)(1), June 17, 2008, 122 Stat. 1626, 1628; Pub. L. 110–289, div. A, title VI, §1604(b)(4), July 30, 2008, 122 Stat. 2829; Pub. L. 110–458, title I, §§101(d)(2)(E), 109(b)(4)–(c)(1), Dec. 23, 2008, 122 Stat. 5099, 5111; Pub. L. 113–97, title II, §§201, 203(a), Apr. 7, 2014, 128 Stat. 1121, 1138; Pub. L. 113–235, div. P, §3(b), Dec. 16, 2014, 128 Stat. 2829; Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(i), (ii), (55), Dec. 19, 2014, 128 Stat. 4039, 4045; Pub. L. 114–113, div. Q, title III, §336(a)(1), (d)(1), Dec. 18, 2015, 129 Stat. 3109, 3112; Pub. L. 115–141, div. U, title IV, §401(a)(87)–(91), Mar. 23, 2018, 132 Stat. 1188.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -1387,11 +1387,21 @@ The date of the enactment of the Multiemployer Pension Plan Amendments Act of 19
 
 Effective date of the Multiemployer Pension Plan Amendments Act of 1980, referred to in subsec. (f)(5), probably means the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980, which was approved Sept. 26, 1980.
 
-The Pension Protection Act of 2006, referred to in subsecs. (f)(6)(A) and (y)(1)(A), (3)(B), is Pub. L. 109–280,Aug. 17, 2006, 120 Stat. 780. Section 104 of the Act is set out as a note under section 401 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under section 1001 of Title 29, Labor, and Tables.
+The Pension Protection Act of 2006, referred to in subsecs. (f)(6)(A) and (y)(1)(A), (3)(B), is Pub. L. 109–280, Aug. 17, 2006, 120 Stat. 780. Section 104 of the Act is set out as a note under section 401 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under section 1001 of Title 29, Labor, and Tables.
 
 The Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, referred to in subsec. (y)(1)(A)(ii), (3)(B), is Pub. L. 111–192, June 25, 2010, 124 Stat. 1280. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1001 of Title 29, Labor, and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (l)(2)(G). Pub. L. 115–141, §401(a)(87), substituted "depository institutions" for "banks" in heading.
+
+Subsec. (u)(6). Pub. L. 115–141, §401(a)(88), substituted "section 457(b)))" for "section 457(b))".
+
+Subsec. (x)(1). Pub. L. 115–141, §401(a)(89), substituted "is" for "are".
+
+Subsec. (y)(1)(C)(i). Pub. L. 115–141, §401(a)(90), struck out "of such Code" after "section 501(c)(3)".
+
+Subsec. (y)(2). Pub. L. 115–141, §401(a)(91), substituted "subparagraphs" for "subparagraph".
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–113, §336(a)(1), designated existing provisions as par. (1), inserted heading, substituted "Except as provided in paragraph (2), for purposes" for "For purposes", and added par. (2).
 
@@ -1469,7 +1479,7 @@ Subsec. (v)(5)(A). Pub. L. 107–147, §411(o)(7)(B), amended subpar. (A) genera
 
 Subsec. (v)(5)(B). Pub. L. 107–147, §411(o)(7)(C), substituted "plan (or other applicable) year" for "plan year".
 
-Subsec. (v)(6)(C). Pub. L. 107–147, §411(o)(8), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: "This subsection shall not apply to an applicable employer plan described in subparagraph (A)(iii) for any year to which section 457(b)(3) applies."
+Subsec. (v)(6)(C). Pub. L. 107–147, §411(o)(8), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "This subsection shall not apply to an applicable employer plan described in subparagraph (A)(iii) for any year to which section 457(b)(3) applies."
 
 <b>2001</b>—Subsec. (p)(10). Pub. L. 107–16, §635(b), substituted "section 409(d), and section 457(d)" for "and section 409(d)".
 
@@ -2180,14 +2190,4 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "title".</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "bridge depository institutions"</i>
-
-<i><sup>3</sup></i><i> So in original. There is no closing parenthesis.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be "is".</i>
-
-<i><sup>5</sup></i><i> So in original. Probably means section 501(c)(3) of this title.</i>
-
-<i><sup>6</sup></i><i> So in original.</i>
 

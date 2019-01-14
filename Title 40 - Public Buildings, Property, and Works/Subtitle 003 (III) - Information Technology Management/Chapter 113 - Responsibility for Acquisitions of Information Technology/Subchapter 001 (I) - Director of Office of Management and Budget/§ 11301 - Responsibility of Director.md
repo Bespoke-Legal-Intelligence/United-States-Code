@@ -92,7 +92,7 @@ Use of funds.—An IT working capital fund established under paragraph (1) may o
 
 &emsp;&emsp;"(C) to assist and support covered agency efforts to provide adequate, risk-based, and cost-effective information technology capabilities that address evolving threats to information security;
 
-&emsp;&emsp;"(D) to reimburse funds transferred to the covered agency from the Fund with the approval of the Chief Information Officer, in consultation with the Chief Financial Officer, of the covered agency; and
+&emsp;&emsp;"(D) to reimburse funds transferred to the covered agency from the Fund with the approval of theChief Information Officer, in consultation with the Chief Financial Officer, of the covered agency; and
 
 &emsp;&emsp;"(E) for a program, project, or activity or to increase funds for any program, project, or activity that has not been denied or restricted by Congress.
 
@@ -122,7 +122,7 @@ Transfer of unobligated amounts.—Any amounts in an IT working capital fund tha
 
 &emsp;"(7)
 
-Agency cio responsibilities.—In evaluating projects to be funded by the IT working capital fund of a covered agency, the Chief Information Officer of the covered agency shall consider, to the extent applicable, guidance issued under section 1094(b)(1)\[probably should be "1078(b)(1)"\] to evaluate applications for funding from the Fund that include factors including a strong business case, technical design, consideration of commercial off-the-shelf products and services, procurement strategy (including adequate use of rapid, iterative software development practices), and program management.
+Agency cio responsibilities.—In evaluating projects to be funded by the IT working capital fund of a covered agency, the Chief Information Officer of the covered agency shall consider, to the extent applicable, guidance issued under section 1094(b)(1) \[probably should be "1078(b)(1)"\] to evaluate applications for funding from the Fund that include factors including a strong business case, technical design, consideration of commercial off-the-shelf products and services, procurement strategy (including adequate use of rapid, iterative software development practices), and program management.
 
 "(c)
 
@@ -220,7 +220,7 @@ In general.—The Administrator, in consultation with the Director, shall establ
 
 &emsp;&emsp;&emsp;"(ii)
 
-Review and approval.—Before making any changes to the established amounts and terms of repayment, the Administrator shall conduct a review and obtain approval from the Director.
+Review and approval.—Before making any changes to the established amounts andterms of repayment, the Administrator shall conduct a review and obtain approval from the Director.
 
 &emsp;&emsp;"(C)
 
@@ -242,7 +242,7 @@ In general.—Before the transfer of funds to an agency under subparagraphs (A) 
 
 &emsp;&emsp;&emsp;"(i) for any funds transferred to an agency under paragraph (3)(A), in the absence of compelling circumstances documented by the Administrator at the time of transfer, that such funds shall be transferred only on an incremental basis, tied to metric-based development milestones achieved by the agency through the use of rapid, iterative, development processes; and
 
-&emsp;&emsp;&emsp;"(ii) that the use of commercial products and services are incorporated to the greatest extentpracticable in activities funded under subparagraphs (A) and (B) of paragraph (3), and that the written agreement required under paragraph (6) documents this preference.
+&emsp;&emsp;&emsp;"(ii) that the use of commercial products and services are incorporated to the greatest extent practicable in activities funded under subparagraphs (A) and (B) of paragraph (3), and that the written agreement required under paragraph (6) documents this preference.
 
 &emsp;"(7)
 
@@ -328,7 +328,7 @@ Additional members of the board.—
 
 Appointment.—The other members of the Board shall be—
 
-&emsp;&emsp;&emsp;"(i) 1 employee of the National Protection and Programs Directorate of the Department of Homeland Security, appointed by the Secretary of Homeland Security; and
+&emsp;&emsp;&emsp;"(i) 1 employee of the National Protection and Programs Directorate \[now Cybersecurity and Infrastructure Security Agency\] of the Department of Homeland Security, appointed by the Secretary of Homeland Security; and
 
 &emsp;&emsp;&emsp;"(ii) 4 employees of the Federal Government primarily having technical expertise in information technology development, financial management, cybersecurity and privacy, and acquisition, appointed by the Director.
 

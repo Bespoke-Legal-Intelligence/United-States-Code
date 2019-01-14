@@ -34,7 +34,7 @@ The Fund shall not be available to pay any claim for removal costs or damages to
 
 #### (c) Obligation of Fund by Federal officials
 
-The President may promulgate regulations designating one or more Federal officials whomay obligate money in accordance with subsection (a).
+The President may promulgate regulations designating one or more Federal officials who may obligate money in accordance with subsection (a).
 
 #### (d) Access to Fund by State officials
 
@@ -70,33 +70,7 @@ The President shall—
 
 Payment of any claim or obligation by the Fund under this Act shall be subject to the United States Government acquiring by subrogation all rights of the claimant or State to recover from the responsible party.
 
-#### (g) Audits
-
-#### (1) In general
-
-&emsp;The Comptroller General of the United States shall conduct an audit, including a detailed accounting of each disbursement from the Fund in excess of $500,000 that is—
-
-&emsp;&emsp;(A) disbursed by the National Pollution Fund Center and not reimbursed by the responsible party; and
-
-&emsp;&emsp;(B) administered and managed by the receiving Federal agencies, including final payments made to agencies and contractors and, to the extent possible, subcontractors.
-
-#### (2) Frequency
-
-&emsp;The audits shall be conducted—
-
-&emsp;&emsp;(A) at least once every 3 years after October 15, 2010, until 2016; and
-
-&emsp;&emsp;(B) at least once every 5 years after the last audit conducted under subparagraph (A).
-
-#### (3) Submission of results
-
-&emsp;The Comptroller shall submit the results of each audit conducted under paragraph (1) to—
-
-&emsp;&emsp;(A) the Senate Committee on Commerce, Science, and Transportation;
-
-&emsp;&emsp;(B) the House of Representatives Committee on Transportation and Infrastructure; and
-
-&emsp;&emsp;(C) the Secretary or Administrator of each agency referred to in paragraph (1)(B).
+#### (g) Repealed. Pub. L. 115–282, title VIII, §816(1), Dec. 4, 2018, 132 Stat. 4305
 
 #### (h) Period of limitations for claims
 
@@ -144,7 +118,7 @@ In any case in which the President has paid an amount from the Fund for any remo
 
 #### (1) In general
 
-&emsp;Within one year after October 15, 2010, and annually thereafter, the President, through the Secretary of the Department in which the Coast Guard is operating, shall—
+&emsp;Each year, on the date on which the President submits to Congress a budget under section 1105 of title 31, the President, through the Secretary of the Department in which the Coast Guard is operating, shall—
 
 &emsp;&emsp;(A) provide a report on disbursements for the preceding fiscal year from the Fund, regardless of whether those disbursements were subject to annual appropriations, to—
 
@@ -158,21 +132,41 @@ In any case in which the President has paid an amount from the Fund for any remo
 
 &emsp;The report shall include—
 
-&emsp;&emsp;(A) a list of each disbursement of $250,000 or more from the Fund during the preceding fiscal year; and
+&emsp;&emsp;(A) a list of each incident that—
 
-&emsp;&emsp;(B) a description of how each such use of the Fund meets the requirements of subsection (a).
+&emsp;&emsp;&emsp;(i) occurred in the preceding fiscal year; and
+
+&emsp;&emsp;&emsp;(ii) resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more;
+
+&emsp;&emsp;(B) a list of each incident that—
+
+&emsp;&emsp;&emsp;(i) occurred in the fiscal year preceding the preceding fiscal year; and
+
+&emsp;&emsp;&emsp;(ii) resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more; and
+
+&emsp;&emsp;(C) an accounting of any amounts reimbursed to the Fund in the preceding fiscal year that were recovered from a responsible party for an incident that resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more.
 
 #### (3) Agency recordkeeping
 
 &emsp;Each Federal agency that receives amounts from the Fund shall maintain records describing the purposes for which such funds were obligated or expended in such detail as the Secretary may require for purposes of the report required under paragraph (1).
 
-(Pub. L. 101–380, title I, §1012, Aug. 18, 1990, 104 Stat. 498; Pub. L. 108–293, title VII, §708(b), Aug. 9, 2004, 118 Stat. 1077; Pub. L. 111–281, title VII, §708, Oct. 15, 2010, 124 Stat. 2984.)
+(Pub. L. 101–380, title I, §1012, Aug. 18, 1990, 104 Stat. 498; Pub. L. 108–293, title VII, §708(b), Aug. 9, 2004, 118 Stat. 1077; Pub. L. 111–281, title VII, §708, Oct. 15, 2010, 124 Stat. 2984; Pub. L. 115–282, title VIII, §816, Dec. 4, 2018, 132 Stat. 4305.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended section 1223 of this title and enacted provisions set out as a note under section 1223 of this title. Sections 4110 and 4111 enacted provisions set out as a note and formerly set out as a note under section 3703 of Title 46, Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of the former Appendix to Title 46. Section 5006 is classified to section 2736 of this title. Section 8103 enacted provisions formerly set out as a note under section 1651 of Title 43, Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended former section 1223 of this title and enacted provisions formerly set out as a note under section 1223 of this title. Sections 4110 and 4111 enacted provisions set out as a note and formerly set out as a note under section 3703 of Title 46, Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of the former Appendix to Title 46. Section 5006 is classified to section 2736 of this title. Section 8103 enacted provisions formerly set out as a note under section 1651 of Title 43, Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (g). Pub. L. 115–282, §816(1), struck out subsec. (g) which related to audits.
+
+Subsec. (l)(1). Pub. L. 115–282, §816(2), substituted "Each year, on the date on which the President submits to Congress a budget under section 1105 of title 31," for "Within one year after October 15, 2010, and annually thereafter," in introductory provisions.
+
+Subsec. (l)(2). Pub. L. 115–282, §816(3), amended par. (2) generally. Prior to amendment, text read as follows: "The report shall include—
+
+&emsp;"(A) a list of each disbursement of $250,000 or more from the Fund during the preceding fiscal year; and
+
+&emsp;"(B) a description of how each such use of the Fund meets the requirements of subsection (a)."
 
 <b>2010</b>—Subsec. (a)(5)(B) to (D). Pub. L. 111–281, §708(a), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
@@ -198,5 +192,5 @@ Memorandum of the President of the United States, Aug. 24, 1990, 55 F.R. 35291, 
 
 #### Use of Fund for Spills of National Significance
 
-Pub. L. 112–74, div. D, title V, §563, Dec. 23, 2011, 125 Stat. 981, provided that: "For fiscal year 2012 and thereafter, notwithstanding section 1012(a)(5) of the Oil Pollution Act of 1990 (33 U.S.C. 2712(a)(5)) and 31 U.S.C. 3302, in the event that a spill of national significance occurs, any payment of amounts from the Oil Spill Liability Trust Fund pursuant to section 1012(a)(1) of the Oil Pollution Act of 1990 (33 U.S.C. 2712(a)(1)) for the removal costs incurred by the Coast Guard for such spill, shall be credited directly to the accounts of the Coast Guard current at the time such removal costs were incurred or when reimbursement is received: <i>Provided</i>,That such amounts shall be merged with and, without further appropriations, made available for the same time period and the same purpose as the appropriation to which it is credited."
+Pub. L. 112–74, div. D, title V, §563, Dec. 23, 2011, 125 Stat. 981, provided that: "For fiscal year 2012 and thereafter, notwithstanding section 1012(a)(5) of the Oil Pollution Act of 1990 (33 U.S.C. 2712(a)(5)) and 31 U.S.C. 3302, in the event that a spill of national significance occurs, any payment of amounts from the Oil Spill Liability Trust Fund pursuant to section 1012(a)(1) of the Oil Pollution Act of 1990 (33 U.S.C. 2712(a)(1)) for the removal costs incurred by the Coast Guard for such spill, shall be credited directly to the accounts of the Coast Guard current at the time such removal costs were incurred or when reimbursement is received: <i>Provided</i>, That such amounts shall be merged with and, without further appropriations, made available for the same time period and the same purpose as the appropriation to which it is credited."
 

@@ -106,7 +106,7 @@ A collaborative applicant shall—
 
 #### (h) Conflict of interest
 
-No board member of a collaborative applicant may participate in decisions of the collaborativeapplicant concerning the award of a grant, or provision of other financial benefits, to such member or the organization that such member represents.
+No board member of a collaborative applicant may participate in decisions of the collaborative applicant concerning the award of a grant, or provision of other financial benefits, to such member or the organization that such member represents.
 
 (Pub. L. 100–77, title IV, §402, as added Pub. L. 111–22, div. B, title I, §1102, May 20, 2009, 123 Stat. 1674.)
 

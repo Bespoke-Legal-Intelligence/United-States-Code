@@ -4,7 +4,7 @@
 
 #### (1) Administration
 
-&emsp;There shall be within the Department of Commerce an administration to be known as the National Telecommunications and Information Administration.
+&emsp;There shall be within the Department of Commerce an administration to be known asthe National Telecommunications and Information Administration.
 
 #### (2) Head of administration
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(B) shall assign to the NTIA the administration of the Public Telecommunications Facilities Program under sections 390 through 393 of this title, and the National Endowment for Children's Educational Television under section 394 of this title; and
 
-&emsp;&emsp;(C) shall assign to the NTIA responsibility for providing for the establishment, andoverseeing operation, of a second-level Internet domain within the United States country code domain in accordance with section 941 of this title.
+&emsp;&emsp;(C) shall assign to the NTIA responsibility for providing for the establishment, and overseeing operation, of a second-level Internet domain within the United States country code domain in accordance with section 941 of this title.
 
 (Pub. L. 102–538, title I, §103, Oct. 27, 1992, 106 Stat. 3534; Pub. L. 107–317, §3, Dec. 4, 2002, 116 Stat. 2767; Pub. L. 112–96, title VI, §6410, Feb. 22, 2012, 126 Stat. 234.)
 
@@ -122,7 +122,7 @@ Executive Order 11556, referred to in subsec. (b)(2)(S), which was formerly set 
 
 #### Pilot Program for Digital and Wireless Networks for Online Educational Programs of Study
 
-Pub. L. 110–161, div. B, title V, §536, Dec. 26, 2007, 121 Stat. 1932, as amended by Pub. L. 110–315, title IX, §941(k)(2)(N), Aug. 14, 2008, 122 Stat. 3468, provided that: "This section may be cited as the 'ED 1.0 Act'.
+Pub. L. 110–161, div. B, title V, §536, Dec. 26, 2007, 121 Stat. 1932, as amended by Pub. L. 110–315, title IX,§941(k)(2)(N), Aug. 14, 2008, 122 Stat. 3468, provided that: "This section may be cited as the 'ED 1.0 Act'.
 
 &emsp;"(a) In this section:
 

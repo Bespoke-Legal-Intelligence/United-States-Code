@@ -84,7 +84,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;&emsp;(II) the protection of officials of the United States against threats to personal safety; and
 
-&emsp;&emsp;&emsp;(ii) are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the Director considering the recommendations of the employing agency;
+&emsp;&emsp;&emsp;(ii) are sufficiently rigorous that employment opportunities should be limitedto young and physically vigorous individuals, as determined by the Director considering the recommendations of the employing agency;
 
 &emsp;&emsp;(B) an employee of the Department of the Interior or the Department of the Treasury (excluding any employee under subparagraph (A)) who occupies a position that, but for the enactment of the Federal Employees' Retirement System Act of 1986, would be subject to the District of Columbia Police and Firefighters' Retirement System, as determined by the Secretary of the Interior or the Secretary of the Treasury, as appropriate;
 
@@ -100,7 +100,7 @@ For the purpose of this chapter—
 
 > &emsp;&emsp;whose duties in connection with individuals in detention suspected or convicted of offenses against the criminal laws of the United States or of the District of Columbia or offenses against the punitive articles of the Uniform Code of Military Justice (chapter 47 of title 10) require frequent direct contact with these individuals in their detention and are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the head of the employing agency;
 
-&emsp;(18) the term "loss", as used with respect to the Thrift Savings Fund, includes the amountof any loss resulting from the investment of sums in such Fund, or from the breach of any responsibility, duty, or obligation under section 8477.<sup>1</sup>
+&emsp;(18) the term "loss", as used with respect to the Thrift Savings Fund, includes the amount of any loss resulting from the investment of sums in such Fund, or from the breach of any responsibility, duty, or obligation under section 8477.<sup>1</sup>
 
 &emsp;(19) the term "lump-sum credit" means the unrefunded amount consisting of—
 
@@ -214,7 +214,7 @@ Chapter 21 of the Internal Revenue Code of 1986, referred to in par. (11), is cl
 
 Section 103(6) of the Foreign Service Act of 1980, referred to in par. (11)(iii), is classified to section 3903(6) of Title 22, Foreign Relations and Intercourse.
 
-The Federal Employees' Retirement System Act of 1986, referred to in par. (17)(B), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of this title and Tables.
+The Federal Employees' Retirement System Act of 1986, referred to in par. (17)(B), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514. For complete classification of thisAct to the Code, see Short Title note set out under section 8401 of this title and Tables.
 
 The Federal Employees' Retirement Contribution Temporary Adjustment Act of 1983, referred to in pars. (19)(A) and (27)(B)(iii)(II), is Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, which is set out as a note under section 8331 of this title.
 
@@ -390,7 +390,7 @@ Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §201\
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–335, §1, July 17, 1990, 104 Stat. 319, provided that: "This Act \[enacting section 8432a of this title, amending this section and sections 3392, 8351, 8433 to 8435, 8438, 8440a, 8440b, and 8477 of this title, renumbering former section 8440a of this title as section 8440b, enacting provisions set out as notes under sections 3392, 8351, 8432a, 8433, 8434, and 8438 of this title, and amending provisions set out as a note under section 8477 of this title\] may be cited as the 'Thrift Savings Plan Technical Amendments Act of 1990'."
+Pub. L. 101–335, §1, July 17, 1990, 104 Stat. 319, provided that: "This Act \[enacting section 8432a of thistitle, amending this section and sections 3392, 8351, 8433 to 8435, 8438, 8440a, 8440b, and 8477 of this title, renumbering former section 8440a of this title as section 8440b, enacting provisions set out as notes under sections 3392, 8351, 8432a, 8433, 8434, and 8438 of this title, and amending provisions set out as a note under section 8477 of this title\] may be cited as the 'Thrift Savings Plan Technical Amendments Act of 1990'."
 
 #### Short Title of 1987 Amendment
 
@@ -402,7 +402,7 @@ Pub. L. 99–556, §1, Oct. 27, 1986, 100 Stat. 3131, provided that: "This Act \
 
 #### Short Title
 
-Pub. L. 99–335, title I, §100(a), June 6, 1986, 100 Stat. 514, provided that: "This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under thissection and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the 'Federal Employees' Retirement System Act of 1986'."
+Pub. L. 99–335, title I, §100(a), June 6, 1986, 100 Stat. 514, provided that: "This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the 'Federal Employees' Retirement System Act of 1986'."
 
 #### Transfer of Functions
 

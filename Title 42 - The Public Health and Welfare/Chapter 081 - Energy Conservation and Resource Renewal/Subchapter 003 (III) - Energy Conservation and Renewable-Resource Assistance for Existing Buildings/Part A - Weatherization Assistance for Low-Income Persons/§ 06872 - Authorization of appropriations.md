@@ -68,7 +68,7 @@ In general.—Except as provided in paragraph (2), the amount of funds used for 
 
 &emsp;"(B)
 
-Exception.—No funds may be used for sustainable energy resources for consumers grants for a fiscal year under this subsection if the amount of funds made available for the fiscal year to carry out theWeatherization Assistance Program for Low-Income Persons established under part A of title IV of the Energy Conservation and Production Act (42 U.S.C. 6861 et seq.) is less than $275,000,000."
+Exception.—No funds may be used for sustainable energy resources for consumers grants for a fiscal year under this subsection if the amount of funds made available for the fiscal year to carry out the Weatherization Assistance Program for Low-Income Persons established under part A of title IV of the Energy Conservation and Production Act (42 U.S.C. 6861 et seq.) is less than $275,000,000."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

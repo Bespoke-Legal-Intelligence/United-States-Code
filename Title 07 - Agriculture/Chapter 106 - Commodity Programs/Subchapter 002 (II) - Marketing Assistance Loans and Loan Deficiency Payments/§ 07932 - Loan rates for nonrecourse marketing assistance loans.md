@@ -130,7 +130,7 @@ The loan rate for dry peas, lentils, and small chickpeas shall be based on—
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(10). Pub. L. 108–7, §763(b)(1), added par. (10) and struck out former par. (10) which read asfollows: "In the case of other oilseeds, $0.0960 per pound."
+<b>2003</b>—Subsec. (a)(10). Pub. L. 108–7, §763(b)(1), added par. (10) and struck out former par. (10) which read as follows: "In the case of other oilseeds, $0.0960 per pound."
 
 Subsec. (b)(10). Pub. L. 108–7, §763(b)(2), added par. (10) and struck out former par. (10) which read as follows: "In the case of other oilseeds, $0.0930 per pound."
 

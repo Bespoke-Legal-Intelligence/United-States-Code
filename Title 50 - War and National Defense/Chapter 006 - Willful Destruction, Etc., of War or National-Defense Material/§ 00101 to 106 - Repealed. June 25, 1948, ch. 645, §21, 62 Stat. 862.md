@@ -14,5 +14,5 @@ Section 106, act Apr. 20, 1918, ch. 59, §6, as added Nov. 30, 1940, ch. 926, 54
 
 #### Effective Date of Repeal
 
-Repeal of sections 101 to 106 effective Sept. 1, 1948, see section 38 of act June 25, 1948, set out as an Effective Date note preceding section 1 of Title 28, Judiciary and Judicial Procedure.
+Repeal of sections 101 to 106 effective Sept. 1, 1948, see section 38 of act June 25, 1948, set out as an EffectiveDate note preceding section 1 of Title 28, Judiciary and Judicial Procedure.
 

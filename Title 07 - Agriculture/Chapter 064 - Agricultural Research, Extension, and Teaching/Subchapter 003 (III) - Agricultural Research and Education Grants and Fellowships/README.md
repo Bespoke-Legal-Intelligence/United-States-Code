@@ -14,3 +14,5 @@
 - [&sect; 03155 - Agricultural and food policy research centers](%C2%A7%2003155%20-%20Agricultural%20and%20food%20policy%20research%20centers.md)
 - [&sect; 03156 - Education grants to Alaska Native serving institutions and Native Hawaiian serving institutions](%C2%A7%2003156%20-%20Education%20grants%20to%20Alaska%20Native%20serving%20institutions%20and%20Native%20Hawaiian%20serving%20institutions.md)
 - [&sect; 03157 - Competitive, special, and facilities research grants](%C2%A7%2003157%20-%20Competitive%2C%20special%2C%20and%20facilities%20research%20grants.md)
+- [&sect; 03158 - Next generation agriculture technology challenge](%C2%A7%2003158%20-%20Next%20generation%20agriculture%20technology%20challenge.md)
+- [&sect; 03159 - Land-grant designation](%C2%A7%2003159%20-%20Land-grant%20designation.md)

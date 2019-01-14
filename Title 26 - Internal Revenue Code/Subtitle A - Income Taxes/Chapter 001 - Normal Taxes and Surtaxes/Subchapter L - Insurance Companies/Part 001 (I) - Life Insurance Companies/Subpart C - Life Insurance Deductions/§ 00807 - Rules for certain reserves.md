@@ -104,7 +104,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;&emsp;&emsp;&emsp;(I) the reserve method prescribed by the National Association of Insurance Commissioners which covers such contract (as of the date the reserve is determined), or
 
-&emsp;&emsp;&emsp;&emsp;(II) if no reserve method has been prescribed by the National Association of Insurance Commissioners which covers such contract, a reserve method which is consistent with the reserve method required under clause (i), (ii), or (iii) or under subclause (I) of this clause as of the date the reserve is determined for such contract (whichever is most appropriate).
+&emsp;&emsp;&emsp;&emsp;(II) if no reserve method has been prescribed by the National Association of Insurance Commissioners which covers such contract, a reserve method which is consistent with the reserve method required under clause (i), (ii), or (iii) or under subclause (I) of this clause as ofthe date the reserve is determined for such contract (whichever is most appropriate).
 
 #### (B) Definition of CRVM and CARVM
 
@@ -124,7 +124,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (4) Statutory reserves
 
-&emsp;The term "statutory reserves" means the aggregate amount set forth in the annualstatement with respect to items described in section 807(c). Such term shall not include any reserve attributable to a deferred and uncollected premium if the establishment of such reserve is not permitted under section 811(c).
+&emsp;The term "statutory reserves" means the aggregate amount set forth in the annual statement with respect to items described in section 807(c). Such term shall not include any reserve attributable to a deferred and uncollected premium if the establishment of such reserve is not permitted under section 811(c).
 
 #### (e) Special rules for computing reserves
 
@@ -212,7 +212,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;&emsp;The amount taken into account for purposes of subsections (a) and (b) as—
 
-&emsp;&emsp;&emsp;(i) the opening balance of the items referred to in subparagraph (C),<sup>1</sup> and
+&emsp;&emsp;&emsp;(i) the opening balance of the items referred to in subparagraph (B), and
 
 &emsp;&emsp;&emsp;(ii) the closing balance of such items,
 
@@ -242,7 +242,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;Except as provided in section 381(c)(22) (relating to carryovers in certain corporate readjustments), if for any taxable year the taxpayer is not a life insurance company, the balance of any adjustments under this subsection shall be taken into account for the preceding taxable year.
 
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 726; amended Pub. L. 99–514, title X, §1023(b), title XVIII, §1821(a), (s), Oct. 22, 1986, 100 Stat. 2399, 2837, 2843; Pub. L. 100–203, title X, §10241(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–419, 1330–420; Pub. L. 101–508, title XI, §11302(a), Nov. 5, 1990, 104 Stat. 1388–449; Pub. L. 104–188, title I, §1704(t)(61), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 104–191, title III, §321(b), Aug. 21, 1996, 110 Stat. 2058; Pub. L. 105–34, title X, §1084(b)(2), Aug. 5, 1997, 111 Stat. 954; Pub. L. 108–218, title II, §205(b)(1), (2), Apr. 10, 2004, 118 Stat. 610; Pub. L. 113–295, div. A, title II, §221(a)(68), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §§13513(a), 13517(a)(1)–(3), Dec. 22, 2017, 131 Stat. 2143–2145.)
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 726; amended Pub. L. 99–514, title X, §1023(b), title XVIII, §1821(a), (s), Oct. 22, 1986, 100 Stat. 2399, 2837, 2843; Pub. L. 100–203, title X, §10241(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–419, 1330–420; Pub. L. 101–508, title XI, §11302(a), Nov. 5, 1990, 104 Stat. 1388–449; Pub. L. 104–188, title I, §1704(t)(61), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 104–191, title III, §321(b), Aug. 21, 1996, 110 Stat. 2058; Pub. L. 105–34, title X, §1084(b)(2), Aug. 5, 1997, 111 Stat. 954; Pub. L. 108–218, title II, §205(b)(1), (2), Apr. 10, 2004, 118 Stat. 610; Pub. L. 113–295, div. A, title II, §221(a)(68), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §§13513(a), 13517(a)(1)–(3), Dec. 22, 2017, 131 Stat. 2143–2145; Pub. L. 115–141, div. U, title IV, §401(a)(141), Mar. 23, 2018, 132 Stat. 1191.)
 
 #### Codification
 
@@ -253,6 +253,8 @@ Another section 1084(b) of Pub. L. 105–34 amended sections 101 and 264 of this
 A prior section 807, act Aug. 16, 1954, ch. 736, 68A Stat. 259, related to adjustment for certain reserves, prior to the general revision of this part by act Mar. 13, 1956, ch. 83, §2, 70 Stat. 36.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(5)(A)(i). Pub. L. 115–141 substituted "subparagraph (B)" for "subparagraph (C)".
 
 <b>2017</b>—Subsec. (c). Pub. L. 115–97, §13517(a)(1), directed the general amendment of the second sentence of subsec. (c), which was executed by substituting "For purposes of paragraph (3), the appropriate rate of interest is the highest rate or rates permitted to be used to discount the obligations by the National Association of Insurance Commissioners as of the date the reserve is determined." for "For purposes of paragraph (3), the appropriate rate of interest for any obligation is whichever of the following rates is the highest as of the time such obligation first did not involve life, accident, or health contingencies: the applicable Federal interest rate under subsection (d)(2)(B)(i), the prevailing State assumed interest rate under subsection (d)(2)(B)(ii), or the rate of interest assumed by the company in determining the guaranteed benefit." in concluding provisions.
 
@@ -282,7 +284,7 @@ Amount of reserve.—The amount of the reserve determined under this paragraph w
 
 &emsp;"(C) the prevailing commissioners' standard tables for mortality and morbidity adjusted as appropriate to reflect the risks (such as substandard risks) incurred under the contract which are not otherwise taken into account."
 
-Subsec. (d)(3)(A)(iii). Pub. L. 115–97, §13517(a)(2)(D), substituted ", the reserve method prescribed by the National Association of Insurance Commissioners which covers such contract as of the date the reserve is determined" for "(other than a qualified long-term care insurance contract, as defined in section 7702B(b)), a 2-year full preliminary term method".
+Subsec. (d)(3)(A)(iii). Pub. L. 115–97, §13517(a)(2)(D), substituted ", the reserve method prescribed by the National Association of Insurance Commissioners which covers such contract as of the date the reserve isdetermined" for "(other than a qualified long-term care insurance contract, as defined in section 7702B(b)), a 2-year full preliminary term method".
 
 Subsec. (d)(3)(A)(iv)(I). Pub. L. 115–97, §13517(a)(2)(E), substituted "(as of the date the reserve is determined)" for "(as of the date of issuance)".
 
@@ -370,7 +372,7 @@ Method.—The method provided in this subparagraph is as follows:
 
 &emsp;&emsp;"(i) If the amount determined under subparagraph (A)(i) exceeds the amount determined under subparagraph (A)(ii), 1/8 of such excess shall be taken into account, for each of the 8 succeeding taxable years, as a deduction under section 805(a)(2) or 832(c)(4) of such Code, as applicable.
 
-&emsp;&emsp;"(ii) If the amount determined under subparagraph (A)(ii) exceeds the amount determined under subparagraph (A)(i), 1/8 of such excess shall be included in gross income, for each of the 8 succeeding taxable years, under section 803(a)(2) or 832(b)(1)(C) of such Code, as applicable."
+&emsp;&emsp;"(ii) If the amount determined under subparagraph (A)(ii) exceeds the amount determined undersubparagraph (A)(i), 1/8 of such excess shall be included in gross income, for each of the 8 succeeding taxable years, under section 803(a)(2) or 832(b)(1)(C) of such Code, as applicable."
 
 #### Effective Date of 2014 Amendment
 
@@ -449,6 +451,4 @@ Pub. L. 98–369, div. A, title II, §217(n), July 18, 1984, 98 Stat. 766, as am
 &emsp;"(2) after December 31, 1983, and through such taxable year, such company has continuously used the net level reserve method for computing at least 99 percent of its tax and statutory reserves on such contracts, and
 
 &emsp;"(3) for any such contract for which the company does not use the net level reserve method, such company uses the same method for computing tax reserves as such company uses for computing its statutory reserves."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "subparagraph (B),". See 2014 Amendment note below.</i>
 

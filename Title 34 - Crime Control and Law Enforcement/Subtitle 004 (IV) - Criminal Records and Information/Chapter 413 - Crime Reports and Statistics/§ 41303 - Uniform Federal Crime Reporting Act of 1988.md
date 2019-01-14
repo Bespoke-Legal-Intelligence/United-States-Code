@@ -20,11 +20,25 @@ For purposes of this section, the term "Uniform Crime Reports" means the reports
 
 #### (3) Distribution of data
 
-&emsp;The Attorney General shall distribute data received pursuant to paragraph (2), in the form of annual Uniform Crime Reports for the United States, to the President, Members of the Congress, State governments, and officials of localities and penal and other institutions participating in the Uniform Crime Reports program.
+&emsp;The Attorney General shall distribute data received pursuant to paragraph (2), not less frequently than annually, to the President, Members of the Congress, State governments, and officials of localities and penal and other institutions participating in the Uniform Crime Reports program.
+
+#### (4) Interagency coordination
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 90 days after December 21, 2018, the Director of the Federal Bureau of Investigation shall coordinate with the head of each department or agency within the Federal Government that is subject to the mandatory reporting requirements under paragraph (2) for the purpose of ensuring successful implementation of paragraph (2).
+
+#### (B) For report
+
+&emsp;&emsp;Not later than 6 months after December 21, 2018, the head of each department or agency within the Federal Government that is subject to the mandatory reporting requirements under paragraph (2) shall provide the Director of the Federal Bureau of Investigation such information as the Director determines is necessary to complete the first report required under paragraph (5).
+
+#### (5) Annual report by Federal Bureau of Investigation
+
+&emsp;Not later than 1 year after December 21, 2018, and annually thereafter, the Director of the Federal Bureau of Investigation shall prepare and submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report detailing the efforts of the departments and agencies within the Federal Government to come into compliance with paragraph (2). The report shall contain a list of all departments and agencies within the Federal Government subject to paragraph (2) and whether each department or agency is in compliance with paragraph (2).
 
 #### (d) Role of Federal Bureau of Investigation
 
-The Attorney General may designate the Federal Bureau of Investigation as the lead agency for purposes of performing the functions authorized by this section and may appoint or establish such advisory and oversight boards as maybe necessary to assist the Bureau in ensuring uniformity, quality, and maximum use of the data collected.
+The Attorney General may designate the Federal Bureau of Investigation as the lead agency for purposes of performing the functions authorized by this section and may appoint or establish such advisory and oversight boards as may be necessary to assist the Bureau in ensuring uniformity, quality, and maximum use of the data collected.
 
 #### (e) Inclusion of offenses involving illegal drugs
 
@@ -38,9 +52,15 @@ There are authorized to be appropriated $350,000 for fiscal year 1989 and such s
 
 The provisions of this section shall be effective on January 1, 1989.
 
-(Pub. L. 100–690, title VII, §7332, Nov. 18, 1988, 102 Stat. 4468.)
+(Pub. L. 100–690, title VII, §7332, Nov. 18, 1988, 102 Stat. 4468; Pub. L. 115–393, title IV, §402, Dec. 21, 2018, 132 Stat. 5274.)
 
 #### Codification
 
 Section was formerly classified as a note under section 534 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (c)(3). Pub. L. 115–393, §402(1), substituted "not less frequently than annually" for "in the form of annual Uniform Crime Reports for the United States".
+
+Subsec. (c)(4), (5). Pub. L. 115–393, §402(2), added pars. (4) and (5).
 

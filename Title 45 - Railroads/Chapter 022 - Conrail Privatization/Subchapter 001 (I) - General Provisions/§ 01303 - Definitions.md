@@ -32,7 +32,7 @@ For the purposes of this chapter—
 
 &emsp;(10) the term "person" means an individual, corporation, partnership, association, trust, or other entity or organization, including a government or political subdivision thereof or a governmental body;
 
-&emsp;(11) the term "preferred stock" means any class or series of preferred stock, and any classor series of common stock having liquidation and dividend rights and preferences superior to the common stock of the Corporation offered for sale under section 1312 of this title;
+&emsp;(11) the term "preferred stock" means any class or series of preferred stock, and any class or series of common stock having liquidation and dividend rights and preferences superior to the common stock of the Corporation offered for sale under section 1312 of this title;
 
 &emsp;(12) the term "public offering" means an underwritten offering to the public of such common stock of the Corporation as the Secretary of Transportation determines to sell under section 1312 of this title;
 

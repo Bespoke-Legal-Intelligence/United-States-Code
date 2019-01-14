@@ -98,5 +98,5 @@ For assignment of functions of President under first sentence of subsec. (a) of 
 
 #### Indefinite Appointments for Certain Reserve Officers
 
-Act Aug. 10, 1956, ch. 1041, §41, 70A Stat. 636, provided that: "Each person who was a reserve officer on July 9, 1952, and who did not hold an appointment for an indefinite term on that date, shall be given an appointment for an indefinite term in place of the appointment he then held, if after written notification by competent authority before July 2, 1953, the officer agrees in writing to have that appointment continued for an indefinite term. In the event such officer does not agree in writing, the term of his current appointment shall not be changed by this section."
+Act Aug. 10, 1956, ch. 1041, §41, 70A Stat. 636, provided that: "Each person who was a reserve officer on July 9,1952, and who did not hold an appointment for an indefinite term on that date, shall be given an appointment for an indefinite term in place of the appointment he then held, if after written notification by competent authority before July 2, 1953, the officer agrees in writing to have that appointment continued for an indefinite term. In the event such officer does not agree in writing, the term of his current appointment shall not be changed by this section."
 

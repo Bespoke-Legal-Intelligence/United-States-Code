@@ -52,7 +52,7 @@ Oct. 12, 1949, ch. 681, §206, 63 Stat. 811; May 20, 1958, Pub. L. 85–422, §1
 
 June 30, 1954, ch. 432, §729, 68 Stat. 355.
 
-In subsection (a), the words "Except as provided by subsection (b) of this section" are inserted for clarity. The words "is also . . . entitled" are substituted for the words "shall, in addition thereto . . . be entitled". The words "any place outside the United States, or in Alaska or Hawaii" are substituted for the words "beyond the continental limits of the United States or in Alaska", since, under the source statute, Hawaii was beyond the continental limits of the United States, and the United States, as defined in section 101(1) of this revised title, would otherwise include Alaska and Hawaii. This interpretation conforms to the opinion of the Comptroller General, B–138956, April 20, 1959 (38 Comp. Gen. 710).
+In subsection (a), the words "Except as provided by subsection (b) of this section" are inserted for clarity. The words "is also . . . entitled" are substituted for thewords "shall, in addition thereto . . . be entitled". The words "any place outside the United States, or in Alaska or Hawaii" are substituted for the words "beyond the continental limits of the United States or in Alaska", since, under the source statute, Hawaii was beyond the continental limits of the United States, and the United States, as defined in section 101(1) of this revised title, would otherwise include Alaska and Hawaii. This interpretation conforms to the opinion of the Comptroller General, B–138956, April 20, 1959 (38 Comp. Gen. 710).
 
 In subsection (b), the words "Appropriation of" are substituted for the words "of the funds appropriated to" The words "may not be paid" are substituted for the words "no part . . . shall be available for the payment" The words "member of a uniformed service" are substituted for the words "person in the military service" to conform to subsection (a). The words "Puerto Rico" are inserted for clarity, since the source statute was applicable to that place. The words "Virgin Islands" are inserted, since that unincorporated territory is not covered by the word "possession". The word "Territory" is omitted as obsolete.
 
@@ -62,7 +62,7 @@ In subsection (b), the words "Appropriation of" are substituted for the words "o
 
 "(a)
 
-Special Pay Authorized.—A member of a uniformed service who is entitled to basic pay may be paidspecial pay under this section at a monthly rate not to exceed $750 while the member is performing duty in the United States or outside the United States that is designated by the Secretary of Defense as hardship duty.
+Special Pay Authorized.—A member of a uniformed service who is entitled to basic pay may be paid special pay under this section at a monthly rate not to exceed $750 while the member is performing duty in the United States or outside the United States that is designated by the Secretary of Defense as hardship duty.
 
 "(b)
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 #### Savings Provision
 
-Pub. L. 88–132, §12(b), Oct. 2, 1963, 77 Stat. 218, provided that: "Notwithstanding subsection (a) \[amending this section\], an enlisted member who, on the day before the effective date of this Act \[Oct. 1, 1963\], was permanently assigned to duty at a place outside the United States or in Alaska or Hawaii, shall, during the remaining period of that assignment, but not after that place is designated for the purpose of section 305(a)(2) of title 37, United States Code, be paid the basic pay to which he was entitled on that date plus special pay under section 305 of title 37, United States Code, whenever qualified thereunder as that section was in effect on the day before the effective date of this Act, if the total of that basic pay and that special pay is more than the basic pay to which he would otherwise be entitled during that period under section 2 of this Act \[amending section 203 of this title\]."
+Pub. L. 88–132, §12(b), Oct. 2, 1963, 77 Stat. 218, provided that: "Notwithstanding subsection (a) \[amendingthis section\], an enlisted member who, on the day before the effective date of this Act \[Oct. 1, 1963\], was permanently assigned to duty at a place outside the United States or in Alaska or Hawaii, shall, during the remaining period of that assignment, but not after that place is designated for the purpose of section 305(a)(2) of title 37, United States Code, be paid the basic pay to which he was entitled on that date plus special pay under section 305 of title 37, United States Code, whenever qualified thereunder as that section was in effect on the day before the effective date of this Act, if the total of that basic pay and that special pay is more than the basic pay to which he would otherwise be entitled during that period under section 2 of this Act \[amending section 203 of this title\]."
 
 #### Transition Provision
 
@@ -148,7 +148,7 @@ Pub. L. 105–85, div. A, title VI, §619(e), Nov. 18, 1997, 111 Stat. 1790, pro
 
 #### Sea Duty Performed Between October 1, 1978, and September 30, 1981
 
-Pub. L. 95–485, title VIII, §804(c), Oct. 20, 1978, 92 Stat. 1621, provided that: "Any individual who on September30, 1978, is an enlisted member of a uniformed service shall be eligible to receive special pay under section 305(a)(1) of title 37, United States Code, as in effect on September 30, 1978, for any period of sea duty performed by such individual during the period beginning on October 1, 1978, and ending on September 30, 1981, for which such individual does not receive special pay under section 305a of such title (as added by subsection (a))."
+Pub. L. 95–485, title VIII, §804(c), Oct. 20, 1978, 92 Stat. 1621, provided that: "Any individual who on September 30, 1978, is an enlisted member of a uniformed service shall be eligible to receive special pay under section 305(a)(1) of title 37, United States Code, as in effect on September 30, 1978, for any period of sea duty performed by such individual during the period beginning on October 1, 1978, and ending on September 30, 1981, for which such individual does not receive special pay under section 305a of such title (as added by subsection (a))."
 
 #### Executive Order No. 10168
 

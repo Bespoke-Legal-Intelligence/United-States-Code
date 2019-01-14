@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services (in this section referred to as the "Secretary"), shall establish a program to identify efficient, effective, and economical procedures for long term care facilities or providers to conduct background checks on prospective direct patient access employees on a nationwide basis (in this subsection, such program shall be referred to as the "nationwide program"). Except for the following modifications, the Secretary shall carry out the nationwide program under similar terms and conditions as the pilot program under section 307 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173; 117 Stat. 2257), including the prohibition on hiring abusive workers and the authorization of the imposition of penalties by a participating State under subsection (b)(3)(A) and (b)(6), respectively, of such section 307:
+The Secretary of Health and Human Services (in this section referred to as the "Secretary"), shall establish a program to identify efficient,effective, and economical procedures for long term care facilities or providers to conduct background checks on prospective direct patient access employees on a nationwide basis (in this subsection, such program shall be referred to as the "nationwide program"). Except for the following modifications, the Secretary shall carry out the nationwide program under similar terms and conditions as the pilot program under section 307 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173; 117 Stat. 2257), including the prohibition on hiring abusive workers and the authorization of the imposition of penalties by a participating State under subsection (b)(3)(A) and (b)(6), respectively, of such section 307:
 
 #### (1) Agreements
 
@@ -54,7 +54,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 &emsp;&emsp;&emsp;(iii) as appropriate, provide for a provisional period of employment by a long-term care facility or provider of a direct patient access employee, not to exceed 60 days, pending completion of the required criminal history background check and, in the case where the employee has appealed the results of such background check, pending completion of the appeals process, during which the employee shall be subject to direct on-site supervision (in accordance with procedures established by the State to ensure that a long-term care facility or provider furnishes such direct on-site supervision);
 
-&emsp;&emsp;&emsp;(iv) provide an independent process by which a provisional employee or an employee may appeal or dispute the accuracy of the information obtained in a background check performed under the nationwide program, including the specification of criteria for appeals for direct patient access employees found to have disqualifying information which shall include consideration of the passage of time, extenuating circumstances, demonstration of rehabilitation, and relevancy of the particular disqualifying information with respect to the current employment of the individual;
+&emsp;&emsp;&emsp;(iv) provide an independent process by which a provisional employee or an employee may appeal or dispute the accuracy of the information obtained in a background check performed under the nationwide program, including the specification of criteria for appeals for direct patient access employees found to have disqualifying information which shall include consideration of the passage of time, extenuatingcircumstances, demonstration of rehabilitation, and relevancy of the particular disqualifying information with respect to the current employment of the individual;
 
 &emsp;&emsp;&emsp;(v) provide for the designation of a single State agency as responsible for—
 
@@ -82,7 +82,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;As part of the application submitted by a State under paragraph (1)(A)(iii), the State shall guarantee, with respect to the costs to be incurred by the State in carrying out the nationwide program, that the State will make available (directly or through donations from public or privateentities) a particular amount of non-Federal contributions, as a condition of receiving the Federal match under clause (ii).
+&emsp;&emsp;&emsp;As part of the application submitted by a State under paragraph (1)(A)(iii), the State shall guarantee, with respect to the costs to be incurred by the State in carrying out the nationwide program, that the State will make available (directly or through donations from public or private entities) a particular amount of non-Federal contributions, as a condition of receiving the Federal match under clause (ii).
 
 #### (ii) Federal match
 
@@ -116,7 +116,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 #### (C) Finding of patient or resident abuse
 
-&emsp;&emsp;The term "finding of patient or resident abuse" means any substantiated finding by a State agency under section 1819(g)(1)(C) or 1919(g)(1)(C) of the Social Security Act (42 U.S.C. 1395i–3(g)(1)(C), 1396r(g)(1)(C)) or a Federal agency that a direct patient access employee has committed—
+&emsp;&emsp;The term "finding of patient or resident abuse" means any substantiated finding by a State agency under section 1819(g)(1)(C) or 1919(g)(1)(C) of the Social Security Act (42 U.S.C. 1395i–3(g)(1)(C), 1396r(g)(1)(C)) or aFederal agency that a direct patient access employee has committed—
 
 &emsp;&emsp;&emsp;(i) an act of patient or resident abuse or neglect or a misappropriation of patient or resident property; or
 
@@ -198,7 +198,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 Section 307 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (a), is section 307 of Pub. L. 108–173, which is set out as a note under this section.
 
-The Social Security Act, referred to in subsec. (a)(6)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (a)(6)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. TitlesXVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 

@@ -24,7 +24,7 @@ For purposes of this section, the term "qualified disaster" means—
 
 &emsp;(1) a disaster which results from a terroristic or military action (as defined in section 692(c)(2)),
 
-&emsp;(2) federally <sup>1</sup> declared disaster (as defined by section 165(h)(3)(C)(i)),<sup>2</sup>
+&emsp;(2) a federally declared disaster (as defined by section 165(i)(5)(A)),
 
 &emsp;(3) a disaster which results from an accident involving a common carrier, or from any other event, which is determined by the Secretary to be of a catastrophic nature, or
 
@@ -60,11 +60,9 @@ Gross income shall not include any amount received as payment under section 406 
 
 Notwithstanding any other provision of this subtitle, no deduction or credit shall be allowed (to the person for whose benefit a qualified disaster relief payment or qualified disaster mitigation payment is made) for, or by reason of, any expenditure to the extent of the amount excluded under this section with respect to such expenditure.
 
-(Added Pub. L. 107–134, title I, §111(a), Jan. 23, 2002, 115 Stat. 2432; amended Pub. L. 109–7, §1(a), Apr. 15, 2005, 119 Stat. 21; Pub. L. 110–343, div. C, title VII, §706(a)(2)(D)(iv), Oct. 3, 2008, 122 Stat. 3922.)
+(Added Pub. L. 107–134, title I, §111(a), Jan. 23, 2002, 115 Stat. 2432; amended Pub. L. 109–7, §1(a), Apr. 15, 2005, 119 Stat. 21; Pub. L. 110–343, div. C, title VII, §706(a)(2)(D)(iv), Oct. 3, 2008, 122 Stat. 3922; Pub. L. 115–141, div. U, title IV, §401(a)(41), (b)(10)(A), Mar. 23, 2018, 132 Stat. 1186, 1202.)
 
 #### References in Text
-
-Par. (3) of section 165(h), referred to in subsec. (c)(2), was repealed by Pub. L. 113–295, div. A, title II, §221(a)(27)(A), Dec. 19, 2014, 128 Stat. 4040. However, the term "federally declared disaster" is defined elsewhere in that section.
 
 Section 406 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (f), is section 406 of Pub. L. 107–42, which is set out as a note under section 40101 of Title 49, Transportation.
 
@@ -79,6 +77,10 @@ The National Flood Insurance Act, referred to in subsec. (g)(2), probably means 
 A prior section 139 was renumbered section 140 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(2). Pub. L. 115–141, §401(b)(10)(A), substituted "section 165(i)(5)(A)" for "section 165(h)(3)(C)(i)".
+
+Pub. L. 115–141, §401(a)(41), substituted "a federally" for "federally".
 
 <b>2008</b>—Subsec. (c)(2). Pub. L. 110–343 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "a Presidentially declared disaster (as defined in section 1033(h)(3)),".
 
@@ -100,7 +102,7 @@ Pub. L. 109–7, §1(c)(1), Apr. 15, 2005, 119 Stat. 22, provided that: "The ame
 
 Pub. L. 107–134, title I, §111(c), Jan. 23, 2002, 115 Stat. 2433, provided that: "The amendments made by this section \[enacting this section and renumbering former section 139 as section 140 of this title\] shall apply to taxable years ending on or after September 11, 2001."
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "a".</i>
+#### Savings Provision
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+For provisions that nothing in amendment by section 401(b)(10)(A) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 

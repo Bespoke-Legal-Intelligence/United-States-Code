@@ -8,7 +8,7 @@
 | [44504\.](%C2%A7%2044504%20-%20Improved%20aircraft%2C%20aircraft%20engines%2C%20propellers%2C%20and%20appliances.md) | Improved aircraft, aircraft engines, propellers, and appliances. |
 | [44505\.](%C2%A7%2044505%20-%20Systems%2C%20procedures%2C%20facilities%2C%20and%20devices.md) | Systems, procedures, facilities, and devices. |
 | [44506\.](%C2%A7%2044506%20-%20Air%20traffic%20controllers.md) | Air traffic controllers. |
-| [44507\.](%C2%A7%2044507%20-%20Civil%20aeromedical%20research.md) | Civil aeromedical research. |
+| [44507\.](%C2%A7%2044507%20-%20Regions%20and%20centers.md) | Regions and centers. |
 | [44508\.](%C2%A7%2044508%20-%20Research%20advisory%20committee.md) | Research advisory committee. |
 | [44509\.](%C2%A7%2044509%20-%20Demonstration%20projects.md) | Demonstration projects. |
 | [44510\.](%C2%A7%2044510%20-%20Airway%20science%20curriculum%20grants.md) | Airway science curriculum grants. |
@@ -19,10 +19,13 @@
 | [44515\.](%C2%A7%2044515%20-%20Advanced%20training%20facilities%20for%20maintenance%20technicians%20for%20air%20carrier%20aircraft.md) | Advanced training facilities for maintenance technicians for air carrier aircraft. |
 | [44516\.](%C2%A7%2044516%20-%20Human%20factors%20program.md) | Human factors program. |
 | [44517\.](%C2%A7%2044517%20-%20Program%20to%20permit%20cost%20sharing%20of%20air%20traffic%20modernization%20projects.md) | Program to permit cost sharing of air traffic modernization projects. |
+| [44518\.](%C2%A7%2044518%20-%20Advanced%20Materials%20Center%20of%20Excellence.md) | Advanced Materials Center of Excellence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–254, div. B, title V, §524(b), title VII, §762(b), Oct. 5, 2018, 132 Stat. 3364, 3428, substituted "Regions and centers" for "Civil aeromedical research" in item 44507 and added item 44518.
 
 <b>2003</b>—Pub. L. 108–176, title I, §183(b), Dec. 12, 2003, 117 Stat. 2517, added item 44517.
 
@@ -39,7 +42,7 @@
 - [&sect; 44504 - Improved aircraft, aircraft engines, propellers, and appliances](%C2%A7%2044504%20-%20Improved%20aircraft%2C%20aircraft%20engines%2C%20propellers%2C%20and%20appliances.md)
 - [&sect; 44505 - Systems, procedures, facilities, and devices](%C2%A7%2044505%20-%20Systems%2C%20procedures%2C%20facilities%2C%20and%20devices.md)
 - [&sect; 44506 - Air traffic controllers](%C2%A7%2044506%20-%20Air%20traffic%20controllers.md)
-- [&sect; 44507 - Civil aeromedical research](%C2%A7%2044507%20-%20Civil%20aeromedical%20research.md)
+- [&sect; 44507 - Regions and centers](%C2%A7%2044507%20-%20Regions%20and%20centers.md)
 - [&sect; 44508 - Research advisory committee](%C2%A7%2044508%20-%20Research%20advisory%20committee.md)
 - [&sect; 44509 - Demonstration projects](%C2%A7%2044509%20-%20Demonstration%20projects.md)
 - [&sect; 44510 - Airway science curriculum grants](%C2%A7%2044510%20-%20Airway%20science%20curriculum%20grants.md)
@@ -50,3 +53,4 @@
 - [&sect; 44515 - Advanced training facilities for maintenance technicians for air carrier aircraft](%C2%A7%2044515%20-%20Advanced%20training%20facilities%20for%20maintenance%20technicians%20for%20air%20carrier%20aircraft.md)
 - [&sect; 44516 - Human factors program](%C2%A7%2044516%20-%20Human%20factors%20program.md)
 - [&sect; 44517 - Program to permit cost sharing of air traffic modernization projects](%C2%A7%2044517%20-%20Program%20to%20permit%20cost%20sharing%20of%20air%20traffic%20modernization%20projects.md)
+- [&sect; 44518 - Advanced Materials Center of Excellence](%C2%A7%2044518%20-%20Advanced%20Materials%20Center%20of%20Excellence.md)

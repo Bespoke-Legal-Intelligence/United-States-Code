@@ -4,7 +4,7 @@
 
 (b) The annual leave, sick leave, and home leave to the credit of a nonappropriated fund employee of the Department of Defense or the Coast Guard described in section 2105(c) who moves without a break in service of more than 3 days to a position in the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter shall be transferred to the employee's credit. The annual leave, sick leave, and home leave to the credit of an employee of the Department of Defense or the Coast Guard who is subject to this subchapter and who moves without a break in service of more than 3 days to a position under a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, respectively, described in section 2105(c), shall be transferred to the employee's credit under the nonappropriated fund instrumentality. The Secretary of Defense or the Secretary of Homeland Security, as appropriate, may provide for a transfer of funds in an amount equal to the value of the transferred annual leave to compensate the gaining entity for the cost of a transfer of annual leave under this subsection.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 521; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–508, title VII, §7202(h), Nov. 5, 1990, 104 Stat. 1388–336; Pub. L. 109–241, title IX, §902(a)(3), July 11, 2006, 120 Stat. 566.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 521; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–508, title VII, §7202(h), Nov. 5,1990, 104 Stat. 1388–336; Pub. L. 109–241, title IX, §902(a)(3), July 11, 2006, 120 Stat. 566.)
 
 Historical and Revision Notes
 

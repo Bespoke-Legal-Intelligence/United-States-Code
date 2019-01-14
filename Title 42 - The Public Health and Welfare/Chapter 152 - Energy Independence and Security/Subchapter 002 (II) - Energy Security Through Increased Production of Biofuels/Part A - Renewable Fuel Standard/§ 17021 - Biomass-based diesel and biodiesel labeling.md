@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each retail diesel fuel pump shall be labeled in a manner that informs consumers of the percentof biomass-based diesel or biodiesel that is contained in the biomass-based diesel blend or biodiesel blend that is offered for sale, as determined by the Federal Trade Commission.
+Each retail diesel fuel pump shall be labeled in a manner that informs consumers of the percent of biomass-based diesel or biodiesel that is contained in the biomass-based diesel blend or biodiesel blend that is offered for sale, as determined by the Federal Trade Commission.
 
 #### (b) Labeling requirements
 

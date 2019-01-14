@@ -26,7 +26,7 @@ Motor carriers.—
 
 &emsp;&emsp;(A)
 
-Shipper waiver.—Subject to the provisions of subparagraph (B), a carrier providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 may, subject to the provisions of this chapter (including with respect to a motor carrier, the requirements of section 13710(a)), establish rates for the transportation of property (other than household goods described in section 13102(10)(A)) under which the liability of the carrier for such property is limited to a value established by written or electronic declaration of the shipper or by written agreement between the carrier and shipper if that value would be reasonable under the circumstances surrounding the transportation.
+Shipper waiver.—Subject to the provisions of subparagraph (B), a carrier providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 may, subject to the provisions of this chapter (including with respect to a motor carrier, the requirements of section 13710(a)), establish rates for the transportation of property (other than household goods described in section 13102(10)(A)) under which the liability of the carrier for such property is limited to a value established by written or electronic declaration of the shipper or by written agreement between the carrier andshipper if that value would be reasonable under the circumstances surrounding the transportation.
 
 &emsp;&emsp;(B)
 
@@ -86,7 +86,7 @@ Limiting Liability of Household Goods Carriers to Declared Value.—
 
 &emsp;(1)
 
-In general.—A carrier or group of carriers subject to jurisdiction under subchapter I or III of chapter 135 may petition the Board to modify, eliminate, or establish rates for the transportation of household goods under whichthe liability of the carrier for that property is limited to a value established by written declaration of the shipper or by a written agreement.
+In general.—A carrier or group of carriers subject to jurisdiction under subchapter I or III of chapter 135 may petition the Board to modify, eliminate, or establish rates for the transportation of household goods under which the liability of the carrier for that property is limited to a value established by written declaration of the shipper or by a written agreement.
 
 &emsp;(2)
 
@@ -131,6 +131,10 @@ Provisions similar to those in this section were contained in sections 10730 and
 <b>2005</b>—Subsec. (f). Pub. L. 109–59 designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 
 <b>1996</b>—Subsec. (g)(3). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of this section".
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 
 #### Review of Liability of Carriers
 

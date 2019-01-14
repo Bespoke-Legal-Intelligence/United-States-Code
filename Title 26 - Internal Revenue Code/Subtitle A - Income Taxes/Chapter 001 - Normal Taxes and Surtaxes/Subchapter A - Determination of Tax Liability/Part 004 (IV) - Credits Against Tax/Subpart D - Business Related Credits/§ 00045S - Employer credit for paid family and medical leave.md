@@ -84,7 +84,7 @@ For purposes of this section, the term "qualifying employee" means any employee 
 
 &emsp;(1) has been employed by the employer for 1 year or more, and
 
-&emsp;(2) for the preceding year, had compensation not in excess of an amount equal to 60 percentof the amount applicable for such year under clause (i) of section 414(q)(1)(B).
+&emsp;(2) for the preceding year, had compensation not in excess of an amount equal to 60 percent of the amount applicable for such year under clause (i) of section 414(q)(1)(B).
 
 #### (e) Family and medical leave
 

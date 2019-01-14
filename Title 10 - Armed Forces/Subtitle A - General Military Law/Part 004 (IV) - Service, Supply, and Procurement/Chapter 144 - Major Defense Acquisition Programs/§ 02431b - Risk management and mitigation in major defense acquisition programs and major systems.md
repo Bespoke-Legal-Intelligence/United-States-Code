@@ -12,7 +12,7 @@ Requirement.—The Secretary of Defense shall ensure that the initial acquisitio
 
 &emsp;&emsp;(C) The period preceding full-rate production.
 
-&emsp;(2) An identification of the major sources of risk in each of the periods listed in paragraph (1) to improve programmatic decisionmaking and appropriately minimize and manage program concurrency.
+&emsp;(2) An identification of the major sources of risk in each of the periods listed in paragraph\(1) to improve programmatic decisionmaking and appropriately minimize and manage program concurrency.
 
 (b)
 

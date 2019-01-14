@@ -34,7 +34,7 @@ For purposes of section 213(a) (relating to medical, dental, etc., expenses) amo
 
 #### (g) Self-employed individual not considered an employee
 
-For purposes of this section, the term "employee" does not include an individual who is anemployee within the meaning of section 401(c)(1) (relating to self-employed individuals).
+For purposes of this section, the term "employee" does not include an individual who is an employee within the meaning of section 401(c)(1) (relating to self-employed individuals).
 
 #### (h) Amount paid to highly compensated individuals under a discriminatory self-insured medical expense reimbursement plan
 
@@ -98,7 +98,7 @@ For purposes of this section, the term "employee" does not include an individual
 
 &emsp;&emsp;(A) in the case of a benefit available to highly compensated individuals but not to all other participants (or which otherwise fails to satisfy the requirements of paragraph (2)(B)), the amount reimbursed under the plan to the employee with respect to such benefit, and
 
-&emsp;&emsp;(B) in the case of benefits (other than benefits described in subparagraph (A) <sup>1</sup> paid to a highly compensated individual by a plan which fails to satisfy the requirements of paragraph (2), the total amount reimbursed to the highly compensated individual for the plan year multiplied by a fraction—
+&emsp;&emsp;(B) in the case of benefits (other than benefits described in subparagraph (A)) paid to a highly compensated individual by a plan which fails to satisfy the requirements of paragraph (2), the total amount reimbursed to the highly compensated individual for the plan year multiplied by a fraction—
 
 &emsp;&emsp;&emsp;(i) the numerator of which is the total amount reimbursed to all participants who are highly compensated individuals under the plan for the plan year, and
 
@@ -144,13 +144,15 @@ Notwithstanding any other provision of law, gross income includes benefits paid 
 
 &emsp;&emsp;(B) the spouse, dependent (as defined for purposes of subsection (b)), or child (as defined for purposes of such subsection) of an employee.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 30; Pub. L. 87–792, §7(e), Oct. 10, 1962, 76 Stat. 829; Pub. L. 88–272, title II, §205(a), Feb. 26, 1964, 78 Stat. 38; Pub. L. 94–455, title V, §505(a), title XIX, §1901(c)(2), Oct. 4, 1976, 90 Stat. 1566, 1803; Pub. L. 95–600, title III, §366(a), title VII, §701(c)(1), Nov. 6, 1978, 92 Stat. 2855, 2899; Pub. L. 96–222, title I, §103(a)(13)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–605, title II, §201(b)(1), Dec. 28, 1980, 94 Stat. 3527; Pub. L. 96–613, §5(b)(1), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 97–34, title I, §§103(c)(2), 111(b)(4), Aug. 13, 1981, 95 Stat. 188, 194; Pub. L. 97–248, title II, §202(b)(3)(C), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–21, title I, §122(b), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–76, title II, §241(a), Aug. 12, 1983, 97 Stat. 430; Pub. L. 98–369, div. A, title IV, §423(b)(2), July 18, 1984, 98 Stat. 800; Pub. L. 99–514, title XI, §1151(c)(2), title XIII, §1301(j)(9), Oct. 22, 1986, 100 Stat. 2503, 2658; Pub. L. 101–140, title II, §203(a)(1), Nov. 8, 1989, 103 Stat. 830; Pub. L. 108–311, title II, §207(9), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–458, title I, §124(a), Dec. 23, 2008, 122 Stat. 5114; Pub. L. 111–152, title I, §1004(d)(1), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 113–295, div. A, title II, §221(a)(16), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–113, div. Q, title III, §305(a)–(c), Dec. 18, 2015, 129 Stat. 3088.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 30; Pub. L. 87–792, §7(e), Oct. 10, 1962, 76 Stat. 829; Pub. L. 88–272, title II, §205(a), Feb. 26, 1964, 78 Stat. 38; Pub. L. 94–455, title V, §505(a), title XIX, §1901(c)(2), Oct. 4, 1976, 90 Stat. 1566, 1803; Pub. L. 95–600, title III, §366(a), title VII, §701(c)(1), Nov. 6, 1978, 92 Stat. 2855, 2899; Pub. L. 96–222, title I, §103(a)(13)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–605, title II, §201(b)(1), Dec. 28, 1980, 94 Stat. 3527; Pub. L. 96–613, §5(b)(1), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 97–34, title I, §§103(c)(2), 111(b)(4), Aug. 13, 1981, 95 Stat. 188, 194; Pub. L. 97–248, title II, §202(b)(3)(C), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–21, title I, §122(b), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–76, title II, §241(a), Aug. 12, 1983, 97 Stat. 430; Pub. L. 98–369, div. A, title IV, §423(b)(2), July 18, 1984, 98 Stat. 800; Pub. L. 99–514, title XI, §1151(c)(2), title XIII, §1301(j)(9), Oct. 22, 1986, 100 Stat. 2503, 2658; Pub. L. 101–140, title II, §203(a)(1), Nov. 8, 1989, 103 Stat. 830; Pub. L. 108–311, title II, §207(9), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–458, title I, §124(a), Dec. 23, 2008, 122 Stat. 5114; Pub. L. 111–152, title I, §1004(d)(1), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 113–295, div. A, title II, §221(a)(16), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–113, div. Q, title III, §305(a)–(c), Dec. 18, 2015, 129 Stat. 3088; Pub. L. 115–141, div. U, title IV, §401(a)(36), Mar. 23, 2018, 132 Stat. 1186.)
 
 #### References in Text
 
 Section 2(a) of the Railroad Unemployment Insurance Act, referred to in subsec. (i), is classified to section 352(a) of Title 45, Railroads.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (h)(7)(B). Pub. L. 115–141 substituted "subparagraph (A))" for "subparagraph (A)" in introductory provisions.
 
 <b>2015</b>—Subsec. (j)(1). Pub. L. 114–113, §305(a), substituted "a qualified taxpayer" for "the taxpayer" and "deceased employee's beneficiary (other than an individual described in paragraph (3)(B))" for "deceased plan participant's beneficiary".
 
@@ -188,7 +190,7 @@ Subsec. (h)(3)(B)(v). Pub. L. 97–34, §111(b)(4), substituted "section 911(d)(
 
 <b>1980</b>—Subsec. (h)(3)(A). Pub. L. 96–222, §103(a)(13)(B), substituted "highly compensated individuals" for "highly compensated participants".
 
-Subsec. (h)(7)(A). Pub. L. 96–222, §103(a)(13)(C), substituted "highly compensated individuals but not to all other participants (or which otherwise fails to satisfythe requirements of paragraph (2)(B))" for "a highly compensated individual but not to a broad cross-section of employees".
+Subsec. (h)(7)(A). Pub. L. 96–222, §103(a)(13)(C), substituted "highly compensated individuals but not to all other participants (or which otherwise fails to satisfy the requirements of paragraph (2)(B))" for "a highly compensated individual but not to a broad cross-section of employees".
 
 Subsec. (h)(8). Pub. L. 96–613 and Pub. L. 96–605 made identical amendments by substituting in heading "controlled groups, etc." for "controlled groups", and by substituting in text "subsection (b), (c), or (m) of section 414" for "subsection (b) or (c) of section 414".
 
@@ -264,7 +266,7 @@ Pub. L. 95–600, title III, §366(b), Nov. 6, 1978, 92 Stat. 2857, as amended b
 
 Pub. L. 95–600, title VII, §701(c)(3), Nov. 6, 1978, 92 Stat. 2900, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(A) The amendments made by paragraphs (1) and (2)(A) \[amending this section and provisions set out as a note under this section\] shall take effect as if included in section 105(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as such section was amended by section 505(a) of the Tax Reform Act of 1976.
+"(A) The amendments made by paragraphs (1) and (2)(A) \[amending this section and provisions set out as a note under this section\] shall take effect as if included in section 105(d) of the Internal Revenue Code of1986 \[formerly I.R.C. 1954\] as such section was amended by section 505(a) of the Tax Reform Act of 1976.
 
 "(B) The amendments made by paragraph (2)(B) \[amending provisions set out as notes under this section\] shall take effect as if included in section 301 of the Tax Reduction and Simplification Act of 1977 \[Pub. L. 95–30, title III, §301, May 23, 1977, 91 Stat. 152\]."
 
@@ -323,6 +325,4 @@ Pub. L. 94–455, title V, §505(d), Oct. 4, 1976, 90 Stat. 1568, as amended by 
 &emsp;"(2) on December 31, 1975, or December 31, 1976, was entitled to exclude any amount with respect to such retirement disability from gross income under section 105(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\],
 
 > for purposes of section 72 the annuity starting date shall not be deemed to occur before the beginning of the taxable year in which the taxpayer attains age 65, or before the beginning of an earlier taxable year for which the taxpayer makes an irrevocable election not to seek the benefits of such section 105(d) for such year and all subsequent years."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

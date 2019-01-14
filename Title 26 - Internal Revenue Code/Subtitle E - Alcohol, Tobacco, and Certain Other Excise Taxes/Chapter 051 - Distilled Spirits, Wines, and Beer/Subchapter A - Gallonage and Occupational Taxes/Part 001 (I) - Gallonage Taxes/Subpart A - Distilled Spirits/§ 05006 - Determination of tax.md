@@ -46,7 +46,7 @@ Distilled spirits smuggled or brought into the United States unlawfully shall, f
 
 #### Prior Provisions
 
-A prior section 5006, acts Aug. 16, 1954, ch. 736, 68A Stat. 599; Sept. 2, 1958, Pub. L. 85–859, title II, §206(a), 72 Stat. 1431, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5006, acts Aug. 16, 1954, ch. 736, 68A Stat. 599; Sept. 2, 1958, Pub. L. 85–859, title II, §206(a),72 Stat. 1431, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 Provisions similar to those comprising subsecs. (a)(2)(A), (3) of this section were contained in prior sections 5007(e)(1) and 5232(a), act Aug. 16, 1954, ch. 736, 68A Stat. 600, 643, prior to the general revision of this chapter by Pub. L. 85–859.
 

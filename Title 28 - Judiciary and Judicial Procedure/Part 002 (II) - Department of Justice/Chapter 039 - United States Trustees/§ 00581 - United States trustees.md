@@ -122,7 +122,7 @@ Amendments Relating to Family Farmers.—(1) The amendments made by subtitle B o
 
 &emsp;"(A)(i) any reference in section 326(b) of title 11 of the United States Code to chapter 13 of title 11 of the United States Code shall be deemed to be a reference to chapter 12 or chapter 13 of title 11 of the United States Code,
 
-&emsp;"(ii) any reference in such section 326(b) to section 1302(d) of title 11 of the United States Code shall be deemed to be a reference to section 1302(d) of title 11 of the United States Code or section 586(b) of title 28 of the United States Code, and
+&emsp;"(ii) any reference in such section 326(b) to section 1302(d) of title 11 of the United States Code shall bedeemed to be a reference to section 1302(d) of title 11 of the United States Code or section 586(b) of title 28 of the United States Code, and
 
 &emsp;"(iii) any reference in such section 326(b) to section 1302(a) of title 11 of the United States Code shall be deemed to be a reference to section 1202(a) or section 1302(a) of title 11 of the United States Code, and
 

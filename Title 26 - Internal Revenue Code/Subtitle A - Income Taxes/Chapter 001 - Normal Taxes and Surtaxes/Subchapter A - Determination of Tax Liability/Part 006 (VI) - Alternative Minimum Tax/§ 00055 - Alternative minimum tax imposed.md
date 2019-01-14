@@ -74,7 +74,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term "regular tax" means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a). Such term shall not include any increase in tax under section 45(e)(11)(C), 49(b) or 50(a) or subsection (j) or (k) of section 42.
+&emsp;For purposes of this section, the term "regular tax" means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a).<sup>1</sup> Such term shall not include any increase in tax under section 45(e)(11)(C), 49(b) or 50(a) or subsection (j) or (k) of section 42.
 
 #### (2) Coordination with income averaging for farmers and fishermen
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) is not a surviving spouse,
 
-&emsp;&emsp;(C) 50 percent of the dollar amount applicable under subparagraph (A) in the case of a married individual who files a separate return, and
+&emsp;&emsp;(C) 50 percent of the dollar amount applicable under subparagraph (A) in the case ofa married individual who files a separate return, and
 
 &emsp;&emsp;(D) $22,500 in the case of an estate or trust.
 
@@ -188,11 +188,15 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;In the case of any taxable year to which subparagraph (A) applies, no adjustment shall be made under paragraph (3) to any of the numbers which are substituted under subparagraph (A) and adjusted under this subparagraph.
 
-(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(l)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758; Pub. L. 108–311, title I, §103(a), title IV, §406(d), Oct. 4, 2004, 118 Stat. 1168, 1189; Pub. L. 108–357, title III, §314(a), Oct. 22, 2004, 118 Stat. 1468; Pub. L. 109–58, title XIII, §§1302(b), 1322(a)(3)(H), 1341(b)(3), 1342(b)(3), Aug. 8, 2005, 119 Stat. 991, 1012, 1049, 1051; Pub. L. 109–135, title IV, §§403(h), 412(p), Dec. 21, 2005, 119 Stat. 2624, 2638; Pub. L. 109–222, title III, §301(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §2(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–234, title XV, §15311(b), May 22, 2008, 122 Stat. 1503; Pub. L. 110–246, §4(a), title XV, §15311(b), June 18, 2008, 122 Stat. 1664, 2265; Pub. L. 110–343, div. C, title I, §102(a), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §§1012(a), 1142(b)(5), 1144(b)(3), Feb. 17, 2009, 123 Stat. 319, 331, 332; Pub. L. 111–240, title II, §2013(b), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 111–312, title II, §201(a), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §§102(b)(2), (c)(2), 104(a), (b), (c)(2)(J), Jan. 2, 2013, 126 Stat. 2319, 2320, 2322; Pub. L. 113–295, div. A, title II, §202(c), Dec. 19, 2014, 128 Stat. 4024; Pub. L. 114–113, div. Q, title III, §334(b), Dec. 18, 2015, 129 Stat. 3108; Pub. L. 115–97, title I, §§11002(d)(1)(I), 12001(a), (b)(3)(A), (B), (4)–(6), 12003(a), Dec. 22, 2017, 131 Stat. 2060, 2092, 2093, 2095.)
+(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(l)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758; Pub. L. 108–311, title I, §103(a), title IV, §406(d), Oct. 4, 2004, 118 Stat. 1168, 1189; Pub. L. 108–357, title III, §314(a), Oct. 22, 2004, 118 Stat. 1468; Pub. L. 109–58, title XIII, §§1302(b), 1322(a)(3)(H), 1341(b)(3), 1342(b)(3), Aug. 8, 2005, 119 Stat. 991, 1012, 1049, 1051; Pub. L.109–135, title IV, §§403(h), 412(p), Dec. 21, 2005, 119 Stat. 2624, 2638; Pub. L. 109–222, title III, §301(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §2(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–234, title XV, §15311(b), May 22, 2008, 122 Stat. 1503; Pub. L. 110–246, §4(a), title XV, §15311(b), June 18, 2008, 122 Stat. 1664, 2265; Pub. L. 110–343, div. C, title I, §102(a), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §§1012(a), 1142(b)(5), 1144(b)(3), Feb. 17, 2009, 123 Stat. 319, 331, 332; Pub. L. 111–240, title II, §2013(b), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 111–312, title II, §201(a), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §§102(b)(2), (c)(2), 104(a), (b), (c)(2)(J), Jan. 2, 2013, 126 Stat. 2319, 2320, 2322; Pub. L. 113–295, div. A, title II, §202(c), Dec. 19, 2014, 128 Stat. 4024; Pub. L. 114–113, div. Q, title III, §334(b), Dec. 18, 2015, 129 Stat. 3108; Pub. L. 115–97, title I, §§11002(d)(1)(I), 12001(a), (b)(3)(A), (B), (4)–(6), 12003(a), Dec. 22, 2017, 131 Stat. 2060, 2092, 2093, 2095.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### References in Text
+
+Section 27, referred to in subsec. (c)(1), was amended generally by Pub. L. 115–141, div. U, title IV, §401(d)(1)(A), Mar. 23, 2018, 132 Stat. 1206, and as so amended, no longer contains a subsec. (a) designation. Text of section 27 as amended by Pub. L. 115–141 is identical to that of former section 27(a).
 
 #### Codification
 
@@ -412,7 +416,7 @@ Pub. L. 115–97, title I, §12003(b), Dec. 22, 2017, 131 Stat. 2096, provided t
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–113, div. Q, title III, §334(c), Dec. 18, 2015, 129 Stat. 3109, provided that: "The amendments madeby this section \[amending this section and section 1201 of this title\] shall apply to taxable years beginning after December 31, 2015."
+Pub. L. 114–113, div. Q, title III, §334(c), Dec. 18, 2015, 129 Stat. 3109, provided that: "The amendments made by this section \[amending this section and section 1201 of this title\] shall apply to taxable years beginning after December 31, 2015."
 
 #### Effective Date of 2014 Amendment
 
@@ -506,7 +510,19 @@ Amendment by section 1205(d)(6) of Pub. L. 104–188 applicable to amounts paid 
 
 Amendment by section 1401(b)(3) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
 
-Amendment by section 1601(b)(2)(A) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, except as otherwise provided, see section 1601(c) of Pub. L. 104–188, set out as an Effective Date note under section 30A of this title.
+Pub. L. 104–188, title I, §1601(c), Aug. 20, 1996, 110 Stat. 1833, provided that:
+
+"(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 30A of this title and amending this section and sections 56, 59, and 936 of this title\] shall apply to taxable years beginning after December 31, 1995.
+
+"(2)
+
+Special rule for qualified possession source investment income.—The amendments made by this section shall not apply to qualified possession source investment income received or accrued before July 1, 1996, without regard to the taxable year in which received or accrued.
+
+"(3)
+
+Special transition rule for payment of estimated tax installment.—In determining the amount of any installment due under section 6655 of the Internal Revenue Code of 1986 after the date of the enactment of this Act \[Aug. 20, 1996\] and before October 1, 1996, only ½ of any increase in tax (for the taxable year for which such installment is made) by reason of the amendments made by subsections (a) and (b) \[enacting section 30A of this title and amending this section and sections 56, 59, and 936 of this title\] shall be taken into account. Any reduction in such installment by reason of the preceding sentence shall be recaptured by increasing the next required installment for such year by the amount of such reduction."
 
 #### Effective Date of 1993 Amendment
 
@@ -522,7 +538,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 Pub. L. 101–508, title XI, §11102(b), Nov. 5, 1990, 104 Stat. 1388–406, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1990."
 
-Amendment by section 11813(b)(5) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by section 11813(b)(5) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effecton Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -627,4 +643,6 @@ For applicability of amendment by section 701(a) of Pub. L. 99–514 \[enacting 
 Pub. L. 94–455, title XXI, §2123, Oct. 4, 1976, 90 Stat. 1915, as amended by Pub. L. 98–369, div. A, title IV, §441(b)(1), July 18, 1984, 98 Stat. 815, provided that: "The Secretary of the Treasury shall publish annually information on the amount of tax paid by individual taxpayers with high total incomes. Total income for this purpose is to be calculated and set forth by adding to adjusted gross income any items of tax preference excluded from, or deducted in arriving at, adjusted gross income, and by subtracting any investment expenses incurred in the production of such income to the extent of the investment income. These data are to include the number of such individuals with total income over $200,000 who owe no Federal income tax (after credits) and the deductions, exclusions, or credits used by them to avoid tax."
 
 \[Pub. L. 98–369, div. A, title IV, §441(b)(2), July 18, 1984, 98 Stat. 815, provided that: "The amendment made by paragraph (1) \[amending section 2123 of Pub. L. 94–455, set out above\] shall apply to information published after the date of the enactment of this Act \[July 18, 1984\]."\]
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

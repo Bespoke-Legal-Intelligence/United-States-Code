@@ -4,7 +4,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 (a) Any agricultural seeds or any mixture of agricultural seeds for seeding purposes, unless each container bears a label giving the following information, in accordance with rules and regulations prescribed under section 1592 of this title.
 
-&emsp;(1) The name of the kind or kind and variety for each agricultural seed component present in excess of 5 per centum of the whole and the percentage by weight of each: <i>Provided</i>, That (A), except with respect to seed mixtures intended for lawn and turf purposes, if any such component is one which the Secretary of Agriculture has determined, in rules and regulations prescribed under section 1592 of this title, is generally labeled as to variety, the label shall bear, in addition to the name of the kind, either the name of such variety or the statement "Variety Not Stated", (B) in the case of any such component which is a hybridseed it shall, in addition to the above requirements, be designated as hybrid on the label, and (C) seed mixtures intended for lawn and turf purposes shall be designated as a mixture on the label and each seed component shall be listed on the label in the order of predominance;
+&emsp;(1) The name of the kind or kind and variety for each agricultural seed component present in excess of 5 per centum of the whole and the percentage by weight of each: <i>Provided</i>, That (A), except with respect to seed mixtures intended for lawn and turf purposes, if any such component is one which the Secretary of Agriculture has determined, in rules and regulations prescribed under section 1592 of this title, is generally labeled as to variety, the label shall bear, in addition to the name of the kind, either the name of such variety or the statement "Variety Not Stated", (B) in the case of any such component which is a hybrid seed it shall, in addition to the above requirements, be designated as hybrid on the label, and (C) seed mixtures intended for lawn and turf purposes shall be designated as a mixture on the label and each seed component shall be listed on the label in the order of predominance;
 
 &emsp;(2) Lot number or other identification;
 
@@ -124,7 +124,7 @@ Subsec. (j). Pub. L. 97–439, §2(c), struck out subsec. (j) which directed tha
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–686, §4, inserted in introductory text, ", except as provided in subsection (j) of this section for seed mixtures intended for lawn and turf purposes,".
 
-Subsec. (a)(1). Pub. L. 89–686, §5, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The name of (A) kind, or (B) kind and variety, or (C) kind and type, for each agricultural seed component present in excess of 5 per centum of the whole and thepercentage by weight of each: <i>Provided</i>, That such components are expressed in accordance with the category designated under (A), (B), or (C);".
+Subsec. (a)(1). Pub. L. 89–686, §5, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The name of (A) kind, or (B) kind and variety, or (C) kind and type, for each agricultural seed component present in excess of 5 per centum of the whole and the percentage by weight of each: <i>Provided</i>, That such components are expressed in accordance with the category designated under (A), (B), or (C);".
 
 Subsec. (a)(10). Pub. L. 89–686, §6, added par. (10).
 
@@ -134,7 +134,7 @@ Subsec. (b). Pub. L. 89–686, §7, substituted provisions respecting labeling r
 
 (B) the person to whom the seed is sold or shipped for resale, together with a code designation approved by the Secretary of Agriculture under rules and regulations prescribed under section 1592 of this title, indicating the person who transports or delivers for transportation said seed in interstate commerce.
 
-Subsec. (c). Pub. L. 89–686, §8, substituted in cl. (b) "a longer period for any kind of agricultural or vegetable seed which is packaged in such container materials and under such other conditions prescribed by the Secretary of Agriculture as he finds will, during such longer period, maintain the viability of said seed under ordinary conditions of handling" for "a longer period not to exceed nine months, exclusive of the calendar month in which the test was completed, for kinds of agricultural or vegetable seed which he finds under ordinary conditions of handling will maintain during such longer period a germination within the established limits of tolerance".
+Subsec. (c). Pub. L. 89–686, §8, substituted in cl. (b) "a longer period for any kind of agricultural or vegetable seed which is packaged in such container materials and under such other conditions prescribed by the Secretary of Agriculture as he finds will, during such longer period, maintain the viability of said seed under ordinary conditions of handling" for "a longer period not to exceed nine months, exclusive of the calendarmonth in which the test was completed, for kinds of agricultural or vegetable seed which he finds under ordinary conditions of handling will maintain during such longer period a germination within the established limits of tolerance".
 
 Subsec. (i)(4). Pub. L. 89–686, §9, transposed "of any process used in such treatment" which followed "description" to end of sentence, inserting a comma preceding such phrase.
 

@@ -20,7 +20,7 @@ The Secretary of the Treasury is authorized to prescribe rules and regulations f
 
 &emsp;(4) Merchandise recovered from a wrecked or stranded vessel;
 
-&emsp;(5) Household effects used abroad and personal effects, not imported in pursuance of a purchase or agreement for purchase and not intended for sale;
+&emsp;(5) Household effects used abroad and personal effects, not imported in pursuance of apurchase or agreement for purchase and not intended for sale;
 
 &emsp;(6) Articles sent by persons in foreign countries as gifts to persons in the United States;
 
@@ -86,7 +86,7 @@ Subsec. (a)(11). Act Aug. 8, 1953, §16(e), substituted "paragraph 1631 of secti
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418,set out as an Effective Date note under section 3001 of this title.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -10,7 +10,7 @@ Section 3041b, Pub. L. 89–73, title V §503, as added Pub. L. 93–29, title V
 
 Section 3041c, Pub. L. 89–73, title V, §504, as added Pub. L. 93–29, title V, §501, May 3, 1973, 87 Stat. 51, provided for recapture of payments. See section 3030b of this title.
 
-Section 3041d, Pub. L. 89–73, title V, §505, as added Pub. L. 93–29, title V, §501, May 3, 1973, 87 Stat. 51; amended Pub. L. 94–135, title I, §112(e), Nov. 28, 1975, 89Stat. 720, provided for authorization of appropriations. See section 3023 of this title.
+Section 3041d, Pub. L. 89–73, title V, §505, as added Pub. L. 93–29, title V, §501, May 3, 1973, 87 Stat. 51; amended Pub. L. 94–135, title I, §112(e), Nov. 28, 1975, 89 Stat. 720, provided for authorization of appropriations. See section 3023 of this title.
 
 Section 3041e, Pub. L. 89–73, title V, §506, as added Pub. L. 93–29, title V, §501, May 3, 1973, 87 Stat. 51, related to mortgage insurance for Multipurpose Senior Centers.
 

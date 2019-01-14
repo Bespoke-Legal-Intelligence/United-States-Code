@@ -42,7 +42,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;&emsp;&emsp;(ii) not more than 10 percent of the students compensated through the institution's grant under this part during the academic year are employed in positions for which the Federal share exceeds 75 percent; and
 
-&emsp;&emsp;(B) the Federal share may exceed 75 percent if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;
+&emsp;&emsp;(B) the Federal share may exceed 75 percent if the Secretary determines, pursuantto regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;
 
 &emsp;(6) include provisions to make employment under such work-study program reasonably available (to the extent of available funds) to all eligible students in the institution in need thereof;
 
@@ -82,7 +82,7 @@ As part of its agreement agreement <sup>2</sup> described in subsection (b) of 
 
 #### (1) Use of funds
 
-&emsp;In any academic year to which subsection (b)(2)(A) applies, an institution shall ensurethat funds granted to such institution under this section are used in accordance with such subsection to compensate (including compensation for time spent in training and travel directly related to tutoring in reading and family literacy activities) students—
+&emsp;In any academic year to which subsection (b)(2)(A) applies, an institution shall ensure that funds granted to such institution under this section are used in accordance with such subsection to compensate (including compensation for time spent in training and travel directly related to tutoring in reading and family literacy activities) students—
 
 &emsp;&emsp;(A) employed as reading tutors for children who are preschool age or are in elementary school; or
 

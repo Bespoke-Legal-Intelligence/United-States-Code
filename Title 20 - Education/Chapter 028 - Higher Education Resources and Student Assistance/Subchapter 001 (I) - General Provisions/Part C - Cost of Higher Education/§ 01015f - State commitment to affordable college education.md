@@ -26,7 +26,7 @@ Notwithstanding any other provision of law, the Secretary shall withhold from an
 
 A prior section 1016, Pub. L. 89–329, title I, §121, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1285, related to adult learning research, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
-Another prior section 1016, Pub. L. 89–329, title I, §116, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1381, provided for Federal discretionary grants, prior to the general amendment of this subchapter by Pub. L. 99–498.
+Another prior section 1016, Pub. L. 89–329, title I, §116, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1381, provided for Federal discretionary grants,prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 A prior section 1016a, Pub. L. 89–329, title I, §122, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1286, limited funds authorized to be appropriated, prior to the general amendment of this subchapter by Pub. L. 102–325.
 

@@ -7,13 +7,15 @@
 | [7323\.](%C2%A7%2007323%20-%20Judicial%20action%20to%20enforce%20forfeiture.md) | Judicial action to enforce forfeiture. |
 | [7324\.](%C2%A7%2007324%20-%20Special%20disposition%20of%20perishable%20goods.md) | Special disposition of perishable goods. |
 | [7325\.](%C2%A7%2007325%20-%20Personal%20property%20valued%20at%20%24100%2C000%20or%20less.md) | Personal property valued at $100,000 or less. |
-| [7326\.](%C2%A7%2007326%20-%20Disposal%20of%20forfeited%20or%20abandoned%20property%20in%20special%20cases.md) | Disposal of forfeited or abandoned property in special cases. |
+| \[7326. | Repealed.\] |
 | [7327\.](%C2%A7%2007327%20-%20Customs%20laws%20applicable.md) | Customs laws applicable. |
 | [7328\.](%C2%A7%2007328%20-%20Cross%20references.md) | Cross references. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(b)(50), Mar. 23, 2018, 132 Stat. 1205, struck out item 7326 "Disposal of forfeited or abandoned property in special cases".
 
 <b>1986</b>—Pub. L. 99–514, title XV, §1566(d), Oct. 22, 1986, 100 Stat. 2763, substituted "$100,000" for "$2,500" in item 7325.
 
@@ -31,6 +33,6 @@
 - [&sect; 07323 - Judicial action to enforce forfeiture](%C2%A7%2007323%20-%20Judicial%20action%20to%20enforce%20forfeiture.md)
 - [&sect; 07324 - Special disposition of perishable goods](%C2%A7%2007324%20-%20Special%20disposition%20of%20perishable%20goods.md)
 - [&sect; 07325 - Personal property valued at $100,000 or less](%C2%A7%2007325%20-%20Personal%20property%20valued%20at%20%24100%2C000%20or%20less.md)
-- [&sect; 07326 - Disposal of forfeited or abandoned property in special cases](%C2%A7%2007326%20-%20Disposal%20of%20forfeited%20or%20abandoned%20property%20in%20special%20cases.md)
+- [&sect; 07326 - Repealed. Pub. L. 115&#8211;141, div. U, title IV, &sect;401(b)(50), Mar. 23, 2018, 132 Stat. 1205](%C2%A7%2007326%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93141%2C%20div.%20U%2C%20title%20IV%2C%20%C2%A7401%28b%29%2850%29%2C%20Mar.%2023%2C%202018%2C%20132%20Stat.%201205.md)
 - [&sect; 07327 - Customs laws applicable](%C2%A7%2007327%20-%20Customs%20laws%20applicable.md)
 - [&sect; 07328 - Cross references](%C2%A7%2007328%20-%20Cross%20references.md)

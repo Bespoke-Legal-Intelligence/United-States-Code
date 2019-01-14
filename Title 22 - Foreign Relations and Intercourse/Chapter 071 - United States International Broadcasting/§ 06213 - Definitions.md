@@ -26,7 +26,7 @@ Section 6206 of this title, referred to in par. (3), which related to the Intern
 
 #### Amendments
 
-<b>2016</b>—Pars. (2) to (4). Pub. L. 114–328 redesignated par. (2) as (3) and par. (3) as (4) defining "salary or other compensation" and added par. (4) defining "Board" and "Chief Executive Officer of the Board" after par. (1).
+<b>2016</b>—Pars. (2) to (4). Pub. L. 114–328 redesignated par. (2) as (3) and par. (3) as (4) defining "salary or othercompensation" and added par. (4) defining "Board" and "Chief Executive Officer of the Board" after par. (1).
 
 <i><sup>1</sup></i><i> So in original. Probably should be designated as par. (2).</i>
 

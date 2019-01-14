@@ -80,7 +80,7 @@ To be eligible to receive a grant under this section, an intermediary nonprofit 
 
 #### (g) Reservation
 
-Of the amount authorized to provide financial assistance under this division, there shall be made available to carry out this section $5,000,000 for each of fiscal years 2010 through 2014.
+Of the amount authorized to provide financial assistance under this division, there shall be made available to carry out this section$5,000,000 for each of fiscal years 2010 through 2014.
 
 (Pub. L. 101–610, title I, §198S, as added Pub. L. 111–13, title I, §1809, Apr. 21, 2009, 123 Stat. 1575.)
 

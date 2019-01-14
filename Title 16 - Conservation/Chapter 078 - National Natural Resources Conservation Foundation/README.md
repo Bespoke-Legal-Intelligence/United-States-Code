@@ -2,15 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [5801\.](%C2%A7%2005801%20-%20Definitions.md) | Definitions. |
-| [5802\.](%C2%A7%2005802%20-%20National%20Natural%20Resources%20Conservation%20Foundation.md) | National Natural Resources Conservation Foundation. |
-| [5803\.](%C2%A7%2005803%20-%20Composition%20and%20operation.md) | Composition and operation. |
-| [5804\.](%C2%A7%2005804%20-%20Officers%20and%20employees.md) | Officers and employees. |
-| [5805\.](%C2%A7%2005805%20-%20Corporate%20powers%20and%20obligations%20of%20Foundation.md) | Corporate powers and obligations of Foundation. |
-| [5806\.](%C2%A7%2005806%20-%20Administrative%20services%20and%20support.md) | Administrative services and support. |
-| [5807\.](%C2%A7%2005807%20-%20Audits%20and%20petition%20of%20Attorney%20General%20for%20equitable%20relief.md) | Audits and petition of Attorney General for equitable relief. |
-| [5808\.](%C2%A7%2005808%20-%20Release%20from%20liability.md) | Release from liability. |
-| [5809\.](%C2%A7%2005809%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| 5801 to 5809. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -19,12 +11,4 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05801 - Definitions](%C2%A7%2005801%20-%20Definitions.md)
-- [&sect; 05802 - National Natural Resources Conservation Foundation](%C2%A7%2005802%20-%20National%20Natural%20Resources%20Conservation%20Foundation.md)
-- [&sect; 05803 - Composition and operation](%C2%A7%2005803%20-%20Composition%20and%20operation.md)
-- [&sect; 05804 - Officers and employees](%C2%A7%2005804%20-%20Officers%20and%20employees.md)
-- [&sect; 05805 - Corporate powers and obligations of Foundation](%C2%A7%2005805%20-%20Corporate%20powers%20and%20obligations%20of%20Foundation.md)
-- [&sect; 05806 - Administrative services and support](%C2%A7%2005806%20-%20Administrative%20services%20and%20support.md)
-- [&sect; 05807 - Audits and petition of Attorney General for equitable relief](%C2%A7%2005807%20-%20Audits%20and%20petition%20of%20Attorney%20General%20for%20equitable%20relief.md)
-- [&sect; 05808 - Release from liability](%C2%A7%2005808%20-%20Release%20from%20liability.md)
-- [&sect; 05809 - Authorization of appropriations](%C2%A7%2005809%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 05801 to 5809 - Repealed. Pub. L. 115&#8211;334, title II, &sect;2813, Dec. 20, 2018, 132 Stat. 4602](%C2%A7%2005801%20to%205809%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93334%2C%20title%20II%2C%20%C2%A72813%2C%20Dec.%2020%2C%202018%2C%20132%20Stat.%204602.md)

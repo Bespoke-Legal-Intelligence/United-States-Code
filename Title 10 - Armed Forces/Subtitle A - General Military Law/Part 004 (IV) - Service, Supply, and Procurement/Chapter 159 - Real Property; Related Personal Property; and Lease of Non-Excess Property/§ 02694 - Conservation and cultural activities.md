@@ -30,7 +30,7 @@ Activities.—(1) A conservation or cultural activity eligible for the program t
 
 &emsp;(F) The implementation of ecosystem-wide land management plans—
 
-&emsp;&emsp;(i) for a single ecosystem that encompasses at least two non-contiguous military installations, if those military installations are not all under the administrative jurisdiction of the same Secretary of a military department; and
+&emsp;&emsp;(i) for a single ecosystem that encompasses at least two non-contiguous militaryinstallations, if those military installations are not all under the administrative jurisdiction of the same Secretary of a military department; and
 
 &emsp;&emsp;(ii) providing synergistic benefits unavailable if the installations acted separately.
 

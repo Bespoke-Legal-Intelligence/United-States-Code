@@ -6,7 +6,7 @@ An insured depository institution that is not well capitalized may not accept fu
 
 #### (b) Renewals and rollovers treated as acceptance of funds
 
-Any renewal of an account in any troubled institution and any rollover of any amount on deposit in any such account shall be treated as an acceptance of funds by such troubled institution for purposes of subsection (a).
+Any renewal of an account in any troubled institution and any rollover of any amount on deposit in any such account shall be treated as anacceptance of funds by such troubled institution for purposes of subsection (a).
 
 #### (c) Waiver authority
 
@@ -26,11 +26,29 @@ In the case of any insured depository institution for which the Corporation has 
 
 #### (e) Restriction on interest rate paid
 
-Any insured depository institution which, under subsection (c) or (d), accepts funds obtained, directly or indirectly, by or through a deposit broker, may not pay a rate of interest on such funds which, at the time that such funds are accepted, significantly exceeds—
+#### (1) Definitions
 
-&emsp;(1) the rate paid on deposits of similar maturity in such institution's normal market area for deposits accepted in the institution's normal market area; or
+&emsp;In this subsection—
 
-&emsp;(2) the national rate paid on deposits of comparable maturity, as established by the Corporation, for deposits accepted outside the institution's normal market area.
+&emsp;&emsp;(A) the terms "agent institution", "reciprocal deposits", and "well capitalized" have the meanings given those terms in subsection (i); and
+
+&emsp;&emsp;(B) the term "covered insured depository institution" means an insured depository institution that—
+
+&emsp;&emsp;&emsp;(i) under subsection (c) or (d), accepts funds obtained, directly or indirectly, by or through a deposit broker; or
+
+&emsp;&emsp;&emsp;(ii) while acting as an agent institution under subsection (i), accepts reciprocal deposits while not well capitalized.
+
+#### (2) Prohibition
+
+&emsp;A covered insured depository institution may not pay a rate of interest on funds or reciprocal deposits described in paragraph (1) that, at the time that the funds or reciprocal deposits are accepted, significantly exceeds the limit set forth in paragraph (3).
+
+#### (3) Limit on interest rates
+
+&emsp;The limit on the rate of interest referred to in paragraph (2) shall be—
+
+&emsp;&emsp;(A) the rate paid on deposits of similar maturity in the normal market area of the covered insured depository institution for deposits accepted in the normal market area of the covered insured depository institution; or
+
+&emsp;&emsp;(B) the national rate paid on deposits of comparable maturity, as established by the Corporation, for deposits accepted outside the normal market area of the covered insured depository institution.
 
 #### (f) Additional restrictions
 
@@ -70,7 +88,7 @@ The Corporation may impose, by regulation or order, such additional restrictions
 
 #### (3) Inclusion of depository institutions engaging in certain activities
 
-&emsp;Notwithstanding paragraph (2), the term "deposit broker" includes any insured depository institution that is not well capitalized (as defined in section 1831o of this title), and any employee of such institution, which engages, directly or indirectly, in the solicitation of deposits by offering rates of interest which are significantly higher than the prevailing rates of interest on deposits offered by other insured depository institutions in such depository institution's normal market area.
+&emsp;Notwithstanding paragraph (2), the term "deposit broker" includes any insured depository institution that is not well capitalized (as defined in section 1831o of this title), and any employee of such institution, which engages, directly or indirectly, in the solicitation of deposits by offering rates of interest which are significantly higher than the prevailing rates of interest on deposits offered by other insureddepository institutions in such depository institution's normal market area.
 
 #### (4) Employee
 
@@ -92,9 +110,69 @@ An insured depository institution that is undercapitalized, as defined in sectio
 
 &emsp;(2) in the market area in which such deposits would otherwise be accepted.
 
-(Sept. 21, 1950, ch. 967, §2\[29\], as added Pub. L. 101–73, title II, §224(a), Aug. 9, 1989, 103 Stat. 273; amended Pub. L. 102–242, title III, §301(a), (c), Dec. 19, 1991, 105 Stat. 2343, 2345; Pub. L. 102–550, title XVI, §1605(a)(1), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 103–325, title III, §337, Sept. 23, 1994, 108 Stat. 2235.)
+#### (i) Limited exception for reciprocal deposits
+
+#### (1) In general
+
+&emsp;Reciprocal deposits of an agent institution shall not be considered to be funds obtained, directly or indirectly, by or through a deposit broker to the extent that the total amount of such reciprocal deposits does not exceed the lesser of—
+
+&emsp;&emsp;(A) $5,000,000,000; or
+
+&emsp;&emsp;(B) an amount equal to 20 percent of the total liabilities of the agent institution.
+
+#### (2) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Agent institution
+
+&emsp;&emsp;The term "agent institution" means an insured depository institution that places a covered deposit through a deposit placement network at other insured depository institutions in amounts that are less than or equal to the standard maximum deposit insurance amount, specifying the interest rate to be paid for such amounts, if the insured depository institution—
+
+&emsp;&emsp;&emsp;(i)(I) when most recently examined under section 1820(d) of this title was found to have a composite condition of outstanding or good; and
+
+&emsp;&emsp;&emsp;(II) is well capitalized;
+
+&emsp;&emsp;&emsp;(ii) has obtained a waiver pursuant to subsection (c); or
+
+&emsp;&emsp;&emsp;(iii) does not receive an amount of reciprocal deposits that causes the total amount of reciprocal deposits held by the agent institution to be greater than the average of the total amount of reciprocal deposits held by the agent institution on the last day of each of the 4 calendar quarters preceding the calendar quarter in which the agent institution was found not to have a composite condition of outstanding or good or was determined to be not well capitalized.
+
+#### (B) Covered deposit
+
+&emsp;&emsp;The term "covered deposit" means a deposit that—
+
+&emsp;&emsp;&emsp;(i) is submitted for placement through a deposit placement network by an agent institution; and
+
+&emsp;&emsp;&emsp;(ii) does not consist of funds that were obtained for the agent institution, directly or indirectly, by or through a deposit broker before submission for placement through a deposit placement network.
+
+#### (C) Deposit placement network
+
+&emsp;&emsp;The term "deposit placement network" means a network in which an insured depository institution participates, together with other insured depository institutions, for the processing and receipt of reciprocal deposits.
+
+#### (D) Network member bank
+
+&emsp;&emsp;The term "network member bank" means an insured depository institution that is a member of a deposit placement network.
+
+#### (E) Reciprocal deposits
+
+&emsp;&emsp;The term "reciprocal deposits" means deposits received by an agent institution through a deposit placement network with the same maturity (if any) and in the same aggregate amount as covered deposits placed by the agent institution in other network member banks.
+
+#### (F) Well capitalized
+
+&emsp;&emsp;The term "well capitalized" has the meaning given the term in section 1831o(b)(1) of this title.
+
+(Sept. 21, 1950, ch. 967, §2\[29\], as added Pub. L. 101–73, title II, §224(a), Aug. 9, 1989, 103 Stat. 273; amended Pub. L. 102–242, title III, §301(a), (c), Dec. 19, 1991, 105 Stat. 2343, 2345; Pub. L. 102–550, title XVI, §1605(a)(1), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 103–325, title III, §337, Sept. 23, 1994, 108 Stat. 2235; Pub. L. 115–174, title II, §202, May 24, 2018, 132 Stat. 1307.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e). Pub. L. 115–174, §202(b), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows:
+
+"Any insured depository institution which, under subsection (c) or (d), accepts funds obtained, directly or indirectly, by or through a deposit broker, may not pay a rate of interest on such funds which, at the time that such funds are accepted, significantly exceeds—
+
+&emsp;"(1) the rate paid on deposits of similar maturity in such institution's normal market area for deposits accepted in the institution's normal market area; or
+
+&emsp;"(2) the national rate paid on deposits of comparable maturity, as established by the Corporation, for deposits accepted outside the institution's normal market area."
+
+Subsec. (i). Pub. L. 115–174, §202(a), added subsec. (i).
 
 <b>1994</b>—Subsec. (g)(3). Pub. L. 103–325 inserted "that is not well capitalized (as defined in section 1831o of this title)" after "includes any insured depository institution", substituted "of such institution" for "of any insured depository institution", and struck out "(with respect to such deposits)" after "offering rates of interest" and "having the same type of charter" after "other insured depository institutions".
 

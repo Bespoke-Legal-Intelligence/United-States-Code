@@ -12,7 +12,7 @@ An agreement entered into with any State pursuant to subsection (a) may be appli
 
 &emsp;(2) individuals receiving money payments under all of the plans of such State approved under subchapters I, X, XIV, and XVI, and part A of subchapter IV.
 
-> Except as provided in subsection (g), there shall be excluded from any coverage group any individual who is entitled to monthly insurance benefits under subchapter II or who is entitled to receive an annuity under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\]. Effective January 1, 1974, and subject to section 1396a(f) of this title, the Secretary shall, at the request ofany State not eligible to participate in the State plan program established under subchapter XVI, continue in effect the agreement entered into under this section with such State subject to such modifications as the Secretary may by regulations provide to take account of the termination of any plans of such State approved under subchapters I, X, XIV, and XVI and the establishment of the supplemental security income program under subchapter XVI.
+> Except as provided in subsection (g), there shall be excluded from any coverage group any individual who is entitled to monthly insurance benefits under subchapter II or who is entitled to receive an annuity under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\]. Effective January 1, 1974, and subject to section 1396a(f) of this title, the Secretary shall, at the request of any State not eligible to participate in the State plan program established under subchapter XVI, continue in effect the agreement entered into under this section with such State subject to such modifications as the Secretary may by regulations provide to take account of the termination of any plans of such State approved under subchapters I, X, XIV, and XVI and the establishment of the supplemental security income program under subchapter XVI.
 
 #### (c) Eligible individuals
 
@@ -60,7 +60,7 @@ With respect to eligible individuals receiving money payments under the plan of 
 
 #### (h) Modifications respecting subsection (b) coverage groups
 
-(1) The Secretary shall, at the request of a State made before January 1, 1970, or during 1981 or after 1988, enter into a modification of an agreement entered into with such State pursuant to subsection (a) under which the coverage group described in subsection (b) and specified in such agreement is broadened to include (A) individuals who are eligible to receive medical assistance under the plan of such State approved under subchapter XIX, or (B) qualified medicarebeneficiaries (as defined in section 1396d(p)(1) of this title).
+(1) The Secretary shall, at the request of a State made before January 1, 1970, or during 1981 or after 1988, enter into a modification of an agreement entered into with such State pursuant to subsection (a) under which the coverage group described in subsection (b) and specified in such agreement is broadened to include (A) individuals who are eligible to receive medical assistance under the plan of such State approved under subchapter XIX, or (B) qualified medicare beneficiaries (as defined in section 1396d(p)(1) of this title).
 
 (2) For purposes of this section, an individual shall be treated as eligible to receive medical assistance under the plan of the State approved under subchapter XIX if, for the month in which the modification is entered into under this subsection or for any month thereafter, he has been determined to be eligible to receive medical assistance under such plan. In the case of any individual who would (but for this subsection) be excluded from the agreement, subsections (c) and (d)(2) shall be applied as if they referred to the modification under this subsection (in lieu of the agreement under subsection (a)), and subsection (d)(2)(C) shall be applied (except in the case of qualified medicare beneficiaries, as defined in section 1396d(p)(1) of this title) by substituting "second month following the first month" for "first month".
 
@@ -136,7 +136,7 @@ Subsec. (g). Pub. L. 89–384, §4(b), added subsec. (g).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to calendar quarters beginning on or after Jan. 1, 1991, without regard to whether or not regulations to implement such amendment are promulgated by such date, see section4501(f) of Pub. L. 101–508, set out as a note under section 1396a of this title.
+Amendment by Pub. L. 101–508 applicable to calendar quarters beginning on or after Jan. 1, 1991, without regard to whether or not regulations to implement such amendment are promulgated by such date, see section 4501(f) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -150,7 +150,7 @@ Pub. L. 100–360, title III, §301(e)(3), July 1, 1988, 102 Stat. 750, provided
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date,see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
 #### Effective Date of 1983 Amendment; Transitional Rule
 

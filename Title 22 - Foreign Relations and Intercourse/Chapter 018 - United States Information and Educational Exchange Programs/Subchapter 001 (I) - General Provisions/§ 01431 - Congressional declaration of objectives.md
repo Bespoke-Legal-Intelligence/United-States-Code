@@ -26,7 +26,7 @@ Pub. L. 93–168, §1, Nov. 29, 1973, 87 Stat. 688, provided: "That this Act \[a
 
 #### Short Title
 
-Act Jan. 27, 1948, ch. 36, title I, §1, 62 Stat. 6, provided that: "This Act \[enacting this chapter\] may be cited as the 'United States Information and Educational Exchange Act of 1948'."
+Act Jan. 27, 1948, ch. 36, title I, §1, 62 Stat. 6, provided that: "This Act \[enacting this chapter\] may be cited asthe 'United States Information and Educational Exchange Act of 1948'."
 
 #### Separability
 
@@ -104,7 +104,7 @@ Grants for establishment of network.—The Secretary of State shall, utilizing a
 
 &emsp;"(2)
 
-Media network.—The media network established using funds under paragraph (1) shall providean effective forum to convene a broad range of individuals, organizations, and governmental participants involved in journalistic activities and the development of free and independent media in order to—
+Media network.—The media network established using funds under paragraph (1) shall provide an effective forum to convene a broad range of individuals, organizations, and governmental participants involved in journalistic activities and the development of free and independent media in order to—
 
 &emsp;&emsp;"(A) fund a clearinghouse to collect and share information concerning international media development and training;
 
@@ -124,7 +124,7 @@ In general.—There are authorized to be appropriated for each of fiscal years 2
 
 &emsp;"(2)
 
-Grants for media network.—In addition to the amounts authorized to be appropriated under paragraph (1), there are authorized to be appropriated for each of fiscal years 2005 and 2006, unless otherwise authorized by Congress, such sums as may be necessary for grants under subsection (c)(1) for the establishment of the media network described in subsection (c)(2)."
+Grants for media network.—In addition to the amounts authorized to be appropriated under paragraph (1), there are authorized to be appropriatedfor each of fiscal years 2005 and 2006, unless otherwise authorized by Congress, such sums as may be necessary for grants under subsection (c)(1) for the establishment of the media network described in subsection (c)(2)."
 
 #### Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions
 

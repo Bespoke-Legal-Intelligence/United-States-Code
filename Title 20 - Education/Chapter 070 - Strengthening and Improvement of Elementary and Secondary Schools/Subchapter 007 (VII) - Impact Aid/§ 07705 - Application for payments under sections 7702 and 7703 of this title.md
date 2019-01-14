@@ -14,7 +14,7 @@ Each such application shall be submitted in such form and manner as the Secretar
 
 &emsp;(1) information to determine the eligibility of the local educational agency for a payment and the amount of such payment; and
 
-&emsp;(2) where applicable, an assurance that such agency is in compliance with section 7704 of this title (relating to children residing on Indian lands).
+&emsp;(2) where applicable, an assurance that such agency is in compliance with section 7704 ofthis title (relating to children residing on Indian lands).
 
 #### (c) Deadline for submission
 
@@ -76,7 +76,7 @@ Subsec. (d)(3)(A). Pub. L. 114–95, §7006(2), made technical amendment to refe
 
 Pub. L. 114–95, §7001(d)(1), made technical amendment to reference in original act which appears in text as reference to section 7702 of this title.
 
-<b>2000</b>—Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(1)\], inserted ", or not more than 60 daysafter the date on which the Secretary sends written notice to the local educational agency pursuant to paragraph (3)(A), as the case may be," after "subsection (c)".
+<b>2000</b>—Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(1)\], inserted ", or not more than 60 days after the date on which the Secretary sends written notice to the local educational agency pursuant to paragraph (3)(A), as the case may be," after "subsection (c)".
 
 Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(2)\], amended heading and text generally. Prior to amendment, text read as follows: "The Secretary shall not accept or approve any application that is filed more than 60 days after a deadline established under subsection (c) of this section."
 

@@ -1,6 +1,6 @@
 ### §6308. Information barred in legal proceedings
 
-(a) Notwithstanding any other provision of law, no part of a report of a marine casualty investigation conducted under section 6301 of this title, including findings of fact, opinions, recommendations, deliberations, or conclusions, shallbe admissible as evidence or subject to discovery in any civil or administrative proceedings, other than an administrative proceeding initiated by the United States.
+(a) Notwithstanding any other provision of law, no part of a report of a marine casualty investigation conducted under section 6301 of this title, including findings of fact, opinions, recommendations, deliberations, or conclusions, shall be admissible as evidence or subject to discovery in any civil or administrative proceedings, other than an administrative proceeding initiated by the United States.
 
 (b) Any member or employee of the Coast Guard investigating a marine casualty pursuant to section 6301 of this title shall not be subject to deposition or other discovery, or otherwise testify in such proceedings relevant to a marine casualty investigation, without the permission of the Secretary. The Secretary shall not withhold permission for such employee or member to testify, either orally or upon written questions, on solely factual matters at a time and place and in a manner acceptable to the Secretary if the information is not available elsewhere or is not obtainable by other means.
 

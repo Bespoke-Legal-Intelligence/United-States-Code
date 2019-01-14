@@ -22,7 +22,7 @@
 
 &emsp;&emsp;Not later than 90 days after the date on which each Annual Report is submitted under section 6412(b) of this title, the President shall—
 
-&emsp;&emsp;&emsp;(i) review the status of religious freedom in each foreign country to determine whether the government of that country has engaged in or tolerated particularly severe violations of religious freedom in each such country during the preceding 12 months or longer;
+&emsp;&emsp;&emsp;(i) review the status of religious freedom in each foreign country to determine whether the government of that country has engaged in or tolerated particularlysevere violations of religious freedom in each such country during the preceding 12 months or longer;
 
 &emsp;&emsp;&emsp;(ii) designate each country the government of which has engaged in or tolerated violations described in clause (i) as a country of particular concern for religious freedom; and
 
@@ -110,7 +110,7 @@
 
 #### (5) Exception for ongoing, multiple, broad-based sanctions in response to human rights violations
 
-&emsp;At the time the President determines a country to be a country of particular concern, if that country is already subject to multiple, broad-based sanctions imposed in significant part in response to human rights abuses, andsuch sanctions are ongoing, the President may determine that one or more of these sanctions also satisfies the requirements of this subsection. In a report to Congress pursuant to section 6444(a)(1), (2), (3), and (4) of this title, and, as applicable, to section 6448 of this title, the President shall designate the specific sanction or sanctions that the President determines satisfy the requirements under this subsection and include a description of the impact of such sanction or sanctions on each country. The sanctions so designated shall remain in effect subject to section 6449 of this title.
+&emsp;At the time the President determines a country to be a country of particular concern, if that country is already subject to multiple, broad-based sanctions imposed in significant part in response to human rights abuses, and such sanctions are ongoing, the President may determine that one or more of these sanctions also satisfies the requirements of this subsection. In a report to Congress pursuant to section 6444(a)(1), (2), (3), and (4) of this title, and, as applicable, to section 6448 of this title, the President shall designate the specific sanction or sanctions that the President determines satisfy the requirements under this subsection and include a description of the impact of such sanction or sanctions on each country. The sanctions so designated shall remain in effect subject to section 6449 of this title.
 
 #### (d) Statutory construction
 

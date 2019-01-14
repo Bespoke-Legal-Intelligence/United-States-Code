@@ -8,7 +8,7 @@ Section 4403, Mar. 8, 1946, ch. 82, §5, 60 Stat. 43; June 28, 1947, ch. 161, §
 
 #### Short Title
 
-Act Mar. 8, 1946, ch. 82, §1, 60 Stat. 41, which provided that act Mar. 8, 1946, could be cited as the "MerchantShip Sales Act of 1946", was repealed by Pub. L. 115–91, div. C, title XXXV, §3502(a)(1), Dec. 12, 2017, 131 Stat. 1910.
+Act Mar. 8, 1946, ch. 82, §1, 60 Stat. 41, which provided that act Mar. 8, 1946, could be cited as the "Merchant Ship Sales Act of 1946", was repealed by Pub. L. 115–91, div. C, title XXXV, §3502(a)(1), Dec. 12, 2017, 131 Stat. 1910.
 
 #### Termination Date
 

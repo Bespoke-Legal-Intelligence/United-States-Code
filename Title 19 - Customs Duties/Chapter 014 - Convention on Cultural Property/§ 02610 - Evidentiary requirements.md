@@ -18,5 +18,5 @@ For the effective date of this chapter, referred to in par. (2)(B), see section 
 
 #### Effective Date
 
-Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under section 2601 of this title.
+Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, seesection 315 of Pub. L. 97–446, set out as a note under section 2601 of this title.
 

@@ -18,7 +18,7 @@ The Secretary shall cause such other inspections to be made of the business prem
 
 #### (e) Refrigeration and labeling requirements
 
-(1) Subject to paragraphs (2), (3), and (4), the Secretary shall make such inspections as the Secretary considers appropriate of a facility ofan egg handler (including a transport vehicle) to determine if shell eggs destined for the ultimate consumer—
+(1) Subject to paragraphs (2), (3), and (4), the Secretary shall make such inspections as the Secretary considers appropriate of a facility of an egg handler (including a transport vehicle) to determine if shell eggs destined for the ultimate consumer—
 
 &emsp;(A) are being held under refrigeration at an ambient temperature of no greater than 45 degrees Fahrenheit after packing; and
 
@@ -30,7 +30,7 @@ The Secretary shall cause such other inspections to be made of the business prem
 
 (4) The Secretary shall not make an inspection as provided in paragraph (1) on any egg handler with a flock of not more than 3,000 layers.
 
-(5) A representative of the Secretary and the Secretary of Health and Human Services shall be afforded access to a place of business referred to in this subsection, including a transport vehicle, for purposes of making an inspection required under this subsection.
+(5) A representative of the Secretary and the Secretary of Health and Human Services shallbe afforded access to a place of business referred to in this subsection, including a transport vehicle, for purposes of making an inspection required under this subsection.
 
 (Pub. L. 91–597, §5, Dec. 29, 1970, 84 Stat. 1624; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, §1012(b), Dec. 13, 1991, 105 Stat. 1899.)
 

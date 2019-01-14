@@ -52,5 +52,5 @@ Amendment by Pub. L. 101–508 applicable in the case of property transferred af
 
 #### Effective Date
 
-Section effective as if included in provisions of Revenue Act of 1987, Pub. L. 100–203, title X, except that if an amount is included in the gross estate of a decedent under section 2036 of this title other than solely by reason of section 2036(c) of this title, section applicable tosuch amount only with respect to property transferred after Nov. 10, 1988, see section 3031(h)(1), (3) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under section 2036 of this title.
+Section effective as if included in provisions of Revenue Act of 1987, Pub. L. 100–203, title X, except that if an amount is included in the gross estate of a decedent under section 2036 of this title other than solely by reason of section 2036(c) of this title, section applicable to such amount only with respect to property transferred after Nov. 10, 1988, see section 3031(h)(1), (3) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under section 2036 of this title.
 

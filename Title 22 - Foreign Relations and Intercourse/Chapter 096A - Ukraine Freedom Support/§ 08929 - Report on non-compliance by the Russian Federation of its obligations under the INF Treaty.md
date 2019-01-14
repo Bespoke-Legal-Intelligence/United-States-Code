@@ -26,7 +26,7 @@ It is the sense of Congress that—
 
 &emsp;&emsp;(B) The President's assessment as to whether it remains in the national security interests of the United States to remain a party to the INF Treaty, and other related treaties and agreements, while the Russian Federation is in violation of its obligations under the INF Treaty.
 
-&emsp;&emsp;(C) Notification of any deployment by the Russian Federation of a ground launched ballistic or cruise missile system with a range of between 500 and 5,500 kilometers.
+&emsp;&emsp;(C) Notification of any deployment by the Russian Federation of a ground launchedballistic or cruise missile system with a range of between 500 and 5,500 kilometers.
 
 &emsp;&emsp;(D) A plan developed by the Secretary of State, in consultation with the Director of National Intelligence and the Defense Threat Reduction Agency (DTRA), to verify that the Russian Federation has fully and completely dismantled any ground launched cruise missiles or ballistic missiles with a range of between 500 and 5,500 kilometers, including details on facilities that inspectors need access to, people inspectors need to talk with, how often inspectors need the accesses for, and how much the verification regime would cost.
 

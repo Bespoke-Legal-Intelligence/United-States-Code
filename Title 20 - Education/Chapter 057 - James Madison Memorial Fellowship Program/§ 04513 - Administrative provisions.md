@@ -14,7 +14,7 @@ The Foundation is authorized—
 
 &emsp;(5) to accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
-&emsp;(6) to enter into contracts, grants, or other arrangements, or modifications thereof, to carry out the provisions of this chapter,<sup>1</sup> and such contracts or modifications thereof may,with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds, and without regard to section 6101 of title 41;
+&emsp;(6) to enter into contracts, grants, or other arrangements, or modifications thereof, to carry out the provisions of this chapter,<sup>1</sup> and such contracts or modifications thereof may, with the concurrence of two-thirds of the members of the Board, be entered into without performance or other bonds, and without regard to section 6101 of title 41;
 
 &emsp;(7) to make advances, progress, and other payments which the Board deems necessary under this chapter without regard to the provisions of section 3324(a) and (b) of title 31;
 

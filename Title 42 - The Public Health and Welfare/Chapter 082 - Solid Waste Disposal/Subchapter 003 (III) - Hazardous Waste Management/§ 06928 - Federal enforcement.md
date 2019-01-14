@@ -74,7 +74,7 @@ For the purposes of subsection (e)—
 
 &emsp;&emsp;(A) an occupation, a business, or a profession; or
 
-&emsp;&emsp;(B) medical treatment or medical or scientific experimentation conducted by professionally approved methods and such otherperson had been made aware of the risks involved prior to giving consent.
+&emsp;&emsp;(B) medical treatment or medical or scientific experimentation conducted by professionally approved methods and such other person had been made aware of the risks involved prior to giving consent.
 
 > &emsp;The defendant may establish an affirmative defense under this subsection by a preponderance of the evidence.
 

@@ -3,12 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [5501\.](%C2%A7%2005501%20-%20Commitment%20actions.md) | Commitment actions. |
-| [5501A.](%C2%A7%2005501A%20-%20Beneficiaries%27%20rights%20in%20mental%20competence%20determinations.md) | Beneficiaries' rights in mental competence determinations <sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [5501A.](%C2%A7%2005501A%20-%20Beneficiaries%27%20rights%20in%20mental%20competence%20determinations.md) | Beneficiaries' rights in mental competence determinations. |
 | [5502\.](%C2%A7%2005502%20-%20Payments%20to%20and%20supervision%20of%20fiduciaries.md) | Payments to and supervision of fiduciaries. |
 | [5503\.](%C2%A7%2005503%20-%20Hospitalized%20veterans%20and%20estates%20of%20incompetent%20institutionalized%20veterans.md) | Hospitalized veterans and estates of incompetent institutionalized veterans. |
 | [5504\.](%C2%A7%2005504%20-%20Administration%20of%20trust%20funds.md) | Administration of trust funds. |
@@ -23,6 +18,8 @@
 
 #### Amendments
 
+Pub. L. 115–407, title VII, §702(a)(1), Dec. 31, 2018, 132 Stat. 5381, inserted period at end of item 5501A.
+
 <b>2016</b>—Pub. L. 114–255, div. B, title XIV, §14017(b), Dec. 13, 2016, 130 Stat. 1307, added item 5501A.
 
 <b>2004</b>—Pub. L. 108–454, title V, §§501(a)(2), 502(b), 504(a)(2), 505(b), Dec. 10, 2004, 118 Stat. 3617, 3619, 3621, 3622, added items 5506 to 5510.
@@ -34,8 +31,6 @@
 <b>1990</b>—Pub. L. 101–508, title VIII, §8001(a)(2), Nov. 5, 1990, 104 Stat. 1388–342, added item 3205.
 
 <b>1984</b>—Pub. L. 98–223, title II, §207(b)(2), Mar. 2, 1984, 98 Stat. 43, substituted "fiduciaries" for "guardians" in item 3202.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---

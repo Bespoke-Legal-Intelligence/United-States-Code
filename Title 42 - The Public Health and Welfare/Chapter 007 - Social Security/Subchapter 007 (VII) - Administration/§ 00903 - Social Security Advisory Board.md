@@ -32,7 +32,7 @@ On and after the date the Commissioner takes office, the Board shall advise the 
 
 &emsp;(A) 3 members shall be appointed by the President, by and with the advice and consent of the Senate. Not more than 2 of such members shall be from the same political party.
 
-&emsp;(B) 2 members (each member from a different political party) shall be appointed bythe President pro tempore of the Senate with the advice of the Chairman and the Ranking Minority Member of the Senate Committee on Finance.
+&emsp;(B) 2 members (each member from a different political party) shall be appointed by the President pro tempore of the Senate with the advice of the Chairman and the Ranking Minority Member of the Senate Committee on Finance.
 
 &emsp;(C) 2 members (each member from a different political party) shall be appointed by the Speaker of the House of Representatives, with the advice of the Chairman and the Ranking Minority Member of the House Committee on Ways and Means.
 
@@ -104,7 +104,7 @@ The provisions of title 5 relating to the competitive service, referred to in su
 
 #### Amendments
 
-<b>2004</b>—Subsec. (f). Pub. L. 108–203 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "Members of the Board shall serve without compensation, except that, while serving on business of the Board away from their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently."
+<b>2004</b>—Subsec. (f). Pub. L. 108–203 amended heading and text of subsec. (f) generally. Prior to amendment, textread as follows: "Members of the Board shall serve without compensation, except that, while serving on business of the Board away from their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently."
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–169 substituted "subchapter II, the program of special benefits for certain World War II veterans under subchapter VIII," for "subchapter II" in introductory provisions.
 

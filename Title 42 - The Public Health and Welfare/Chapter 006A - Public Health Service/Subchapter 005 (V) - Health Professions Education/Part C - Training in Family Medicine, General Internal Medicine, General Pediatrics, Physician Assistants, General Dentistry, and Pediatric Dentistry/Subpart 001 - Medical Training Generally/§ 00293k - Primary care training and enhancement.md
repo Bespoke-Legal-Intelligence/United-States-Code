@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to, or enter into contracts with, an accredited public or nonprofit private hospital, school of medicine or osteopathic medicine, academically affiliated physician assistant training program, or a public or private nonprofit entity which theSecretary has determined is capable of carrying out such grant or contract—
+&emsp;The Secretary may make grants to, or enter into contracts with, an accredited public or nonprofit private hospital, school of medicineor osteopathic medicine, academically affiliated physician assistant training program, or a public or private nonprofit entity which the Secretary has determined is capable of carrying out such grant or contract—
 
 &emsp;&emsp;(A) to plan, develop, operate, or participate in an accredited professional training program, including an accredited residency or internship program in the field of family medicine, general internal medicine, or general pediatrics for medical students, interns, residents, or practicing physicians as defined by the Secretary;
 

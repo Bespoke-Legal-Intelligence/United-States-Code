@@ -56,7 +56,7 @@ The Alaska Native Claims Settlement Act, referred to in pars. (4) and (6), is Pu
 
 The Fur Seal Act of 1966, referred to in par. (4), is Pub. L. 89–702, Nov. 2, 1966, 80 Stat. 1091, as amended, which is classified principally to chapter 24 (§1151 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1151 of Title 16 and Tables.
 
-The Solid Waste Disposal Act, referred to in par. (8), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, asamended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle D of the Act is classified generally to subchapter IV (§6941 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in par. (8), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle D of the Act is classified generally to subchapter IV (§6941 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 #### Amendments
 

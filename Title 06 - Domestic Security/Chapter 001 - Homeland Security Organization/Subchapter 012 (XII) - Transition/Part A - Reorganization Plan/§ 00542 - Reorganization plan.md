@@ -372,7 +372,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Managing such response;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Directing the Domestic Emergency Support Team, the Strategic National Stockpile, theNational Disaster Medical System, and (when operating as an organizational unit of the Department pursuant to the Act) the Nuclear Incident Response Team;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Directing the Domestic Emergency Support Team, the Strategic National Stockpile, the National Disaster Medical System, and (when operating as an organizational unit of the Department pursuant to the Act) the Nuclear Incident Response Team;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Overseeing the Metropolitan Medical Response System; and
 
@@ -522,7 +522,7 @@ See plan modifications above.
 
 The table attached at Tab A \[not set out in the Code\] provides estimates of the funds available to the agencies affected by this modification that will be transferred to the Department by operation of the Act. The table includes total funding (mandatory and discretionary including fees) and discretionary funding net of fees. The table provides the President's requested levels for 2003.
 
-Because of the current state of the 2003 budget process, information concerning the funds that will be available to each transferring agency on the date of theproposed transfers is not currently available. As additional information becomes available, it will be provided as may be required in accordance with the procedures under the Act for modification of this Plan or other applicable law.
+Because of the current state of the 2003 budget process, information concerning the funds that will be available to each transferring agency on the date of the proposed transfers is not currently available. As additional information becomes available, it will be provided as may be required in accordance with the procedures under the Act for modification of this Plan or other applicable law.
 
 (4) <i>Specification of the proposed allocations within the Department of unexpended funds transferred in connection with transfers under the plan.</i>
 

@@ -32,7 +32,7 @@ An eligible entity described in section 1070a–21(c)(2) of this title shall des
 
 &emsp;The Secretary shall require that eligible entities described in section 1070a–21(c)(2) of this title—
 
-&emsp;&emsp;(A) provide services under this division to at least one grade level of students, beginning not later than 7th grade, in a participating school that has a 7th grade and in which at least 50 percent of the students enrolled are eligible for free or reduced-price lunch under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] (or, if an eligible entity determines that it would promote the effectiveness of a program, an entire grade level of students, beginning not later than the 7th grade, who reside in public housing as defined in section 1437a(b)(1) of title 42);
+&emsp;&emsp;(A) provide services under this division to at least one grade level of students, beginning not later than 7th grade, in a participating school that has a 7th grade and in which at least 50 percent of the students enrolled are eligible for free or reduced-price lunch under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] (or, if an eligible entity determines that it would promote the effectiveness of a program, an entire grade level of students, beginning not later than the 7th grade, who reside in publichousing as defined in section 1437a(b)(1) of title 42);
 
 &emsp;&emsp;(B) ensure that the services are provided through the 12th grade to students in the participating grade level and provide the option of continued services through the student's first year of attendance at an institution of higher education to the extent the provision of such services was described in the eligible entity's application for assistance under this division; and
 
@@ -44,7 +44,7 @@ An eligible entity described in section 1070a–21(c)(2) of this title shall des
 
 #### (e) Supplement, not supplant
 
-Grant funds awarded under this division shall be used to supplement, and not supplant, otherFederal, State, and local funds that would otherwise be expended to carry out activities assisted under this division.
+Grant funds awarded under this division shall be used to supplement, and not supplant, other Federal, State, and local funds that would otherwise be expended to carry out activities assisted under this division.
 
 (Pub. L. 89–329, title IV, §404B, as added Pub. L. 105–244, title IV, §403, Oct. 7, 1998, 112 Stat. 1657; amended Pub. L. 106–78, title VII, §752(b)(8), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 110–315, title IV, §404(b), Aug. 14, 2008, 122 Stat. 3207.)
 

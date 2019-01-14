@@ -180,7 +180,7 @@ Transition Rule.—
 
 In general.—Pending the implementation of the rulemaking required by section 13908, the Secretary may register a person under this section—
 
-&emsp;&emsp;(A) as a motor common carrier if such person would have been issued a certificate toprovide transportation as a motor common carrier under this subtitle on December 31, 1995; and
+&emsp;&emsp;(A) as a motor common carrier if such person would have been issued a certificate to provide transportation as a motor common carrier under this subtitle on December 31, 1995; and
 
 &emsp;&emsp;(B) as a motor contract carrier if such person would have been issued a permit to provide transportation as a motor contract carrier under this subtitle on such day.
 
@@ -262,7 +262,7 @@ Registration as Freight Forwarder or Broker Required.—A motor carrier register
 
 &emsp;(2) may not arrange transportation except as described in paragraph (1) unless the motor carrier has obtained a separate registration as a freight forwarder or broker for transportation under section 13903 or 13904, as applicable.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880; amended Pub. L. 104–287, §5(32), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 106–159, title II, §205, Dec. 9, 1999, 113 Stat. 1762; Pub. L. 109–59, title IV, §§4113(b), 4204, 4303(c), Aug. 10, 2005, 119Stat. 1725, 1753, 1762; Pub. L. 110–291, §2, July 30, 2008, 122 Stat. 2915; Pub. L. 112–141, div. C, title II, §§32101(a), 32107(a), 32111, 32915, 32921(a), July 6, 2012, 126 Stat. 777, 781, 783, 820, 827; Pub. L. 114–94, div. A, title V, §5508(a)(1), Dec. 4, 2015, 129 Stat. 1554.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880; amended Pub. L. 104–287, §5(32), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 106–159, title II, §205, Dec. 9, 1999, 113 Stat. 1762; Pub. L. 109–59, title IV, §§4113(b), 4204, 4303(c), Aug. 10, 2005, 119 Stat. 1725, 1753, 1762; Pub. L. 110–291, §2, July 30, 2008, 122 Stat. 2915; Pub. L. 112–141, div. C, title II, §§32101(a), 32107(a), 32111, 32915, 32921(a), July 6, 2012, 126 Stat. 777, 781, 783, 820, 827; Pub. L. 114–94, div. A, title V, §5508(a)(1), Dec. 4, 2015, 129 Stat. 1554.)
 
 #### Historical and Revision Notes
 
@@ -368,7 +368,11 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Amendment by sections 32101(a), 32107(a), 32111, and 32915 of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
-Pub. L. 112–141, div. C, title II, §32921(c), July 6, 2012, 126 Stat. 828, provided that: "The amendments made by this section \[amending this section and section 31144 of this title\] shall take effect 2 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\]."
+Pub. L. 112–141, div. C, title II, §32921(c), July 6, 2012, 126 Stat. 828, provided that: "The amendments made bythis section \[amending this section and section 31144 of this title\] shall take effect 2 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\]."
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 
 #### Regulations
 
@@ -488,7 +492,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, as amended by 
 
 &emsp;"(5) requires, with the exception of Mexican motor carriers that have been granted permanent operating authority for three consecutive years—
 
-&emsp;&emsp;"(A) inspections of all commercial vehicles of Mexican motor carriers authorized, or seeking authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border that do not display a valid Commercial Vehicle Safety Alliance inspection decal, by certified inspectors in accordance withthe requirements for a Level I Inspection under the criteria of the North American Standard Inspection (as defined in section 350.105 of title 49, Code of Federal Regulations), including examination of the driver, vehicle exterior and vehicle under-carriage;
+&emsp;&emsp;"(A) inspections of all commercial vehicles of Mexican motor carriers authorized, or seeking authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border that do not display a valid Commercial Vehicle Safety Alliance inspection decal, by certified inspectors in accordance with the requirements for a Level I Inspection under the criteria of the North American Standard Inspection (as defined in section 350.105 of title 49, Code of Federal Regulations), including examination of the driver, vehicle exterior and vehicle under-carriage;
 
 &emsp;&emsp;"(B) a Commercial Vehicle Safety Alliance decal to be affixed to each such commercial vehicle upon completion of the inspection required by clause (A) or a re-inspection if the vehicle has met the criteria for the Level I inspection; and
 
@@ -594,7 +598,7 @@ This determination shall be published in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-\[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of this title and section 101 of Pub. L. 104–88, set out as anote under section 1301 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of this title.\]
+\[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of this title and section 101 of Pub. L. 104–88, set out as a note under section 1301 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of this title.\]
 
 #### Extension of Moratorium
 
@@ -648,7 +652,7 @@ First, qualified motor carriers domiciled in Mexico will be allowed to obtain op
 
 Furthermore, pursuant to 49 U.S.C. 13902(c)(5), I hereby determine that expeditious action is required to implement this modification to the moratorium. Effective on the date of this memorandum, the Department of Transportation is authorized to act on applications, submitted by motor carriers domiciled in Mexico, to obtain operating authority to provide cross-border scheduled bus services and cross-border truck services. In reviewing such applications, the Department shall continue to work closely with the Department of Justice, the Office of Homeland Security, and other relevant Federal departments, agencies, and offices in order to help ensure the security of the border and to prevent potential threats to national security.
 
-Motor carriers domiciled in Mexico operating in the United States will be subject to the same Federal andState laws, regulations, and procedures that apply to carriers domiciled in the United States. These include safety regulations, such as drug and alcohol testing requirements; insurance requirements; taxes and fees; and other applicable laws and regulations, including those administered by the United States Customs Service, the Immigration and Naturalization Service, the Department of Labor, and Federal and State environmental agencies.
+Motor carriers domiciled in Mexico operating in the United States will be subject to the same Federal and State laws, regulations, and procedures that apply to carriers domiciled in the United States. These include safety regulations, such as drug and alcohol testing requirements; insurance requirements; taxes and fees; and other applicable laws and regulations, including those administered by the United States Customs Service, the Immigration and Naturalization Service, the Department of Labor, and Federal and State environmental agencies.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

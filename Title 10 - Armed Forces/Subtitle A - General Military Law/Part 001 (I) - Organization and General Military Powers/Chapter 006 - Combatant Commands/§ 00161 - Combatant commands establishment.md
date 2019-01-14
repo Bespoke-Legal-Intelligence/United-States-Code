@@ -34,6 +34,10 @@ Definitions.—In this chapter:
 
 (Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1012.)
 
+#### Change of Name
+
+Pub. L. 115–232, div. A, title XII, §1251(a), Aug. 13, 2018, 132 Stat. 2053, provided that: "The combatant command known as the United States Pacific Command shall be known as the 'United States Indo-Pacific Command'. Any reference to the United States Pacific Command in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the United States Indo-Pacific Command."
+
 #### Matters To Be Considered in Next Assessment of Current Missions, Responsibilities, and Force Structure of Unified Combatant Commands
 
 Pub. L. 104–201, div. A, title IX, §905, Sept. 23, 1996, 110 Stat. 2619, required the Chairman of the Joint Chiefs of Staff to consider, as part of the next periodic review after Sept. 23, 1996, pursuant to subsec. (b) of this section: (1) whether there was an adequate distribution of responsibilities among the regional unified combatant commands; (2) whether fewer or differently configured commands would permit the United States to better execute warfighting plans; (3) whether any assets or activities were redundant; (4) whether warfighting requirements were adequate to justify current commands; (5) whether exclusion of certain nations from the Areas of Responsibility presented difficulties with respect to national security objectives in those areas; and (6) whether the boundary between the United States Central and European Commands could create command conflicts in the context of a major regional conflict in the Middle East.
@@ -69,4 +73,20 @@ Consistent with title 10, United States Code, section 161(b)(2) and title 3, Uni
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Establishment of United States Space Command as a Unified Combatant Command
+
+Memorandum of President of the United States, Dec. 18, 2018, 83 F.R. 65483, provided:
+
+Memorandum for the Secretary of Defense
+
+Pursuant to my authority as the Commander in Chief and under section 161 of title 10, United States Code, and in consultation with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, I direct the establishment, consistent with United States law, of United States Space Command as a functional Unified Combatant Command. I also direct the Secretary of Defense to recommend officers for my nomination and Senate confirmation as Commander and Deputy Commander of the new United States Space Command.
+
+I assign to United States Space Command: (1) all the general responsibilities of a Unified Combatant Command; (2) the space-related responsibilities previously assigned to the Commander, United States Strategic Command; and (3) the responsibilities of Joint Force Provider and Joint Force Trainer for Space Operations Forces. The comprehensive list of authorities and responsibilities for United States Space Command will be included in the next update to the Unified Command Plan.
+
+Consistent with section 161(b)(2) of title 10, United States Code, and section 301 of title 3, United States Code, you are directed to notify the Congress on my behalf.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

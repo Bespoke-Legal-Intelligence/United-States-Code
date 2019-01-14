@@ -70,7 +70,7 @@ Any person who—
 
 #### (15) Unauthorized withdrawal, use, sale, or distribution of distilled spirits for fuel use
 
-&emsp;Withdraws,<sup>1</sup> uses, sells, or otherwise disposes of distilled spirits produced under section 5181 for other than fuel use;
+&emsp;withdraws, uses, sells, or otherwise disposes of distilled spirits produced under section 5181 for other than fuel use;
 
 > shall be fined not more than $10,000, or imprisoned not more than 5 years, or both, for each such offense.
 
@@ -78,11 +78,11 @@ Any person who—
 
 Whenever on trial for violation of subsection (a)(4) the defendant is shown to have been at the site or place where, and at the time when, the business of a distiller or processor was so engaged in or carried on, such presence of the defendant shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such presence to the satisfaction of the jury (or of the court when tried without jury).
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1398; amended Pub. L. 94–455, title XIX, §§1905(a)(22), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834; Pub. L. 96–39, title VIII, §807(a)(52), July 26, 1979, 93 Stat. 288; Pub. L. 96–223, title II, §232(e)(2)(A), Apr. 2, 1980, 94 Stat. 280.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1398; amended Pub. L. 94–455, title XIX, §§1905(a)(22), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834; Pub. L. 96–39, title VIII, §807(a)(52), July 26, 1979, 93 Stat. 288; Pub. L. 96–223, title II, §232(e)(2)(A), Apr. 2, 1980, 94 Stat. 280; Pub. L. 115–141, div. U, title IV, §401(a)(248), Mar. 23, 2018, 132 Stat. 1196.)
 
 #### Prior Provisions
 
-A prior section 5601, act Aug. 16, 1954, ch. 736, 68A Stat. 683, consisted of provisions similar to those comprising subsec. (a)(1) of this section, and also related toforfeiture for possession of unregistered still or distilling apparatus, prior to the general revision of this chapter by Pub. L. 85–859. See section 5615(1) of this title.
+A prior section 5601, act Aug. 16, 1954, ch. 736, 68A Stat. 683, consisted of provisions similar to those comprising subsec. (a)(1) of this section, and also related to forfeiture for possession of unregistered still or distilling apparatus, prior to the general revision of this chapter by Pub. L. 85–859. See section 5615(1) of this title.
 
 Provisions similar to those comprising subsecs. (a)(2) to (8), (9)(A), (10) to (14) of this section were contained in prior sections of act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
 
@@ -107,6 +107,8 @@ Provisions similar to those comprising subsecs. (a)(2) to (8), (9)(A), (10) to (
 The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627, 640, 641, 684, 685, 689, 690, 692, 693, 695.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(15). Pub. L. 115–141 substituted "withdraws," for "Withdraws,".
 
 <b>1980</b>—Subsec. (a)(15). Pub. L. 96–223 added par. (15).
 
@@ -147,6 +149,4 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 #### Prosecution and Punishment of Offenses Committed and Penalties or Forfeitures Incurred; Savings Provision
 
 Pub. L. 85–859, title II, §210(c), Sept. 2, 1958, 72 Stat. 1435, provided that: "All offenses committed, and all penalties or forfeitures incurred, under any provision of law amended by this title \[enacting sections 5849, 5854, 5855 and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 7272, 7301, 7224 to 7326, 7609, 7652 and 7655 of this title, and enacting notes set out under this section and sections 5001, 5006, 5025, 5064, 5175, and 5304 of this title\], may be prosecuted and punished in the same manner and with the same effect as if this title had not been enacted."
-
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

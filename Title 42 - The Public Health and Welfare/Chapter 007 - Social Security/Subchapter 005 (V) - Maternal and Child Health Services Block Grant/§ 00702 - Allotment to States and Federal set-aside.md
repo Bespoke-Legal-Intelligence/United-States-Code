@@ -2,7 +2,7 @@
 
 #### (a) Special projects
 
-(1) Of the amounts appropriated under section 701(a) of this title for a fiscal year that are not in excess of $600,000,000, the Secretary shall retain an amount equal to 15 percent for the purpose of carrying out activities described in section 701(a)(2) of this title. The authority of the Secretary to enter into any contracts under this subchapter is effective for any fiscal year only to such extent or in such amounts as are provided in appropriations Acts.
+(1) Of the amounts appropriated under section 701(a) of this title for a fiscal year that are notin excess of $600,000,000, the Secretary shall retain an amount equal to 15 percent for the purpose of carrying out activities described in section 701(a)(2) of this title. The authority of the Secretary to enter into any contracts under this subchapter is effective for any fiscal year only to such extent or in such amounts as are provided in appropriations Acts.
 
 (2) For purposes of paragraph (1)—
 
@@ -44,7 +44,7 @@ From the remaining amounts appropriated under section 701(a) of this title for a
 
 #### (d) Re-allotment of unallotted funds
 
-(1) To the extent that all the funds appropriated under this subchapter for a fiscal yearare not otherwise allotted to States either because all the States have not qualified for such allotments under section 705(a) of this title for the fiscal year or because some States have indicated in their descriptions of activities under section 705(a) of this title that they do not intend to use the full amount of such allotments, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
+(1) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States either because all the States have not qualified for such allotments under section 705(a) of this title for the fiscal year or because some States have indicated in their descriptions of activities under section 705(a) of this title that they do not intend to use the full amount of such allotments, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
 
 (2) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States because some State allotments are offset under section 706(b)(2) of this title, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
 

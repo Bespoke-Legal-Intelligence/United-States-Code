@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Commission shall vote on the accreditation of any laboratory under this section, taking into consideration the list submitted under paragraph (1), and no laboratory may be accredited for purposes of this section unless its accreditation is approved by a vote of the Commission.
+&emsp;&emsp;The Commission shall vote on the accreditation of any laboratory under this section, taking into consideration the list submitted under paragraph (1), and no laboratory maybe accredited for purposes of this section unless its accreditation is approved by a vote of the Commission.
 
 #### (B) Accreditation of laboratories not on Director list
 

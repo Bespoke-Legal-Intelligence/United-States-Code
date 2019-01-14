@@ -36,7 +36,7 @@ Additional Authority and Considerations.—(1) The Secretary may prescribe—
 
 (e)
 
-Repurposing of Funds.—If a State program's certification is rejected under section60105(f) or such program is otherwise suspended or interrupted, the Secretary may use any undistributed, deobligated, or recovered funds authorized under this section to carry out pipeline safety activities for that State within the period of availability for such funds.
+Repurposing of Funds.—If a State program's certification is rejected under section 60105(f) or such program is otherwise suspended or interrupted, the Secretary may use any undistributed, deobligated, or recovered funds authorized under this section to carry out pipeline safety activities for that State within the period of availability for such funds.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1311; Pub. L. 104–304, §20(c), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 109–468, §2(c), (d), Dec. 29, 2006, 120 Stat. 3489; Pub. L. 112–90, §19, Jan. 3, 2012, 125 Stat. 1916; Pub. L. 114–183, §17, June 22, 2016, 130 Stat. 526.)
 

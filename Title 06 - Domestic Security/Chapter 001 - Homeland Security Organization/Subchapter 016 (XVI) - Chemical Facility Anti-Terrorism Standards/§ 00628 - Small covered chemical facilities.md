@@ -10,7 +10,7 @@ In this section, the term "small covered chemical facility" means a covered chem
 
 #### (b) Assistance to facilities
 
-The Secretary may provide guidance and, as appropriate, tools, methodologies, or computer software, to assist small covered chemical facilities in developing the physical security, cybersecurity, recordkeeping, and reporting procedures required under this subchapter.
+The Secretary may provide guidance and, as appropriate, tools, methodologies, or computersoftware, to assist small covered chemical facilities in developing the physical security, cybersecurity, recordkeeping, and reporting procedures required under this subchapter.
 
 #### (c) Report
 

@@ -128,7 +128,7 @@ No funds available to carry out an activity under this subchapter shall be used 
 
 &emsp;&emsp;In sanctioning participants in a program under part B who test positive for the use of controlled substances—
 
-&emsp;&emsp;&emsp;(i) with respect to the first occurrence for which a participant tests positive, a State may exclude the participant from the program for a period not to exceed 6 months; and
+&emsp;&emsp;&emsp;(i) with respect to the first occurrence for which a participant tests positive, aState may exclude the participant from the program for a period not to exceed 6 months; and
 
 &emsp;&emsp;&emsp;(ii) with respect to the second occurrence and each subsequent occurrence for which a participant tests positive, a State may exclude the participant from the program for a period not to exceed 2 years.
 

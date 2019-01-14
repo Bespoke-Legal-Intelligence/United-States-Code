@@ -32,7 +32,7 @@ No Indian tribe in exercising powers of self-government shall—
 
 #### (b) Offenses subject to greater than 1-year imprisonment or a fine greater than $5,000
 
-A tribal court may subject a defendant to a term of imprisonment greater than 1 year but not to exceed 3 years for any 1 offense, or a finegreater than $5,000 but not to exceed $15,000, or both, if the defendant is a person accused of a criminal offense who—
+A tribal court may subject a defendant to a term of imprisonment greater than 1 year but not to exceed 3 years for any 1 offense, or a fine greater than $5,000 but not to exceed $15,000, or both, if the defendant is a person accused of a criminal offense who—
 
 &emsp;(1) has been previously convicted of the same or a comparable offense by any jurisdiction in the United States; or
 

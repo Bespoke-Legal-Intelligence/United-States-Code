@@ -88,7 +88,7 @@ In general.—If, in an analysis required under the National Environmental Polic
 
 &emsp;&emsp;(B)
 
-Concurrence.—If the applicable preservation officer, the Council, and the Secretary of the Interior each provide a concurrence requested under subparagraph (A)(iii),no further analysis under subsection (c)(1) shall be required.
+Concurrence.—If the applicable preservation officer, the Council, and the Secretary of the Interior each provide a concurrence requested under subparagraph (A)(iii), no further analysis under subsection (c)(1) shall be required.
 
 &emsp;&emsp;(C)
 

@@ -18,7 +18,7 @@ A grantee shall carry out eligible activities under section 12904 of this title 
 
 &emsp;&emsp;&emsp;(I) <sup>1</sup> 75 percent of such amounts among—
 
-&emsp;&emsp;&emsp;&emsp;(I) cities that are the most populous unit of general local government in ametropolitan statistical area with a population greater than 500,000, as determined on the basis of the most recent census, and with more than 2,000 individuals living with HIV or AIDS, using the data specified in subparagraph (B); and
+&emsp;&emsp;&emsp;&emsp;(I) cities that are the most populous unit of general local government in a metropolitan statistical area with a population greater than 500,000, as determined on the basis of the most recent census, and with more than 2,000 individuals living with HIV or AIDS, using the data specified in subparagraph (B); and
 
 &emsp;&emsp;&emsp;&emsp;(II) States with more than 2,000 individuals living with HIV or AIDS outside of metropolitan statistical areas.
 
@@ -92,7 +92,7 @@ A grantee shall carry out eligible activities under section 12904 of this title 
 
 &emsp;&emsp;(B) For funds reserved for a metropolitan statistical area, to the State in which the metropolitan statistical area is located.
 
-&emsp;&emsp;(C) If the Secretary is unable to make a reallocation under subparagraph (A) or (B),the Secretary shall make such funds available on a pro rata basis under the formula in paragraph (1)(A).
+&emsp;&emsp;(C) If the Secretary is unable to make a reallocation under subparagraph (A) or (B), the Secretary shall make such funds available on a pro rata basis under the formula in paragraph (1)(A).
 
 #### (5) Nonformula allocation
 
@@ -156,7 +156,7 @@ Subsec. (b). Pub. L. 102–550, §606(d)(2), added subsec. (b) and struck out fo
 
 Eligibility.—A jurisdiction shall be eligible to receive a grant only if it has obtained an approved housing strategy (or an approved abbreviated housing strategy) in accordance with section 12705 of this title. A grantee shall carry out activities authorized under this chapter through contracts with project sponsors, except that a grantee that is a State shall obtain the approval of the unit of general local government for the locality in which a project is to be located prior to entering into such contracts."
 
-Subsec. (c)(1). Pub. L. 102–550, §606(d)(3), added par. (1) and struck out former par. (1) which read as follows:"
+Subsec. (c)(1). Pub. L. 102–550, §606(d)(3), added par. (1) and struck out former par. (1) which read as follows: "
 
 In general.—90 percent of the amounts approved in appropriations Acts under section 12912 of this title shall be allocated among eligible grantees on the basis of the incidence of acquired immunodeficiency syndrome. Of the amounts made available under the previous sentence, the Secretary shall allocate—
 

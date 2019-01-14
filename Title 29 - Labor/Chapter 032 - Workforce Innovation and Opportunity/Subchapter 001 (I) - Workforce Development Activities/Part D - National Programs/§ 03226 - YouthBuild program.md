@@ -178,7 +178,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ix) a description of the specific role of employers in the proposed program, such as their role in developing the proposed program and assisting in service provision and in placement activities;
 
-&emsp;&emsp;&emsp;(x) a description of how the proposed program will be coordinated with otherFederal, State, and local activities and activities conducted by Indian tribes, such as local workforce investment activities, career and technical education and training programs, adult and language instruction educational programs, activities conducted by public schools, activities conducted by community colleges, national service programs, and other job training provided with funds available under this subchapter;
+&emsp;&emsp;&emsp;(x) a description of how the proposed program will be coordinated with other Federal, State, and local activities and activities conducted by Indian tribes, such as local workforce investment activities, career and technical education and training programs, adult and language instruction educational programs, activities conducted by public schools, activities conducted by community colleges, national service programs, and other job training provided with funds available under this subchapter;
 
 &emsp;&emsp;&emsp;(xi) assurances that there will be a sufficient number of adequately trained supervisory personnel in the proposed program;
 
@@ -270,7 +270,7 @@ Residential housing units rehabilitated or constructed using funds made availabl
 
 &emsp;&emsp;&emsp;(i) not less than age 16 and not more than age 24, on the date of enrollment;
 
-&emsp;&emsp;&emsp;(ii) a member of a low-income family, a youth in foster care (including youth aging out of foster care), a youth offender, a youth who is an individual with a disability, a child of incarcerated parents, or a migrant youth; and
+&emsp;&emsp;&emsp;(ii) a member of a low-income family, a youth in foster care (including youth aging out of foster care), a youth offender, ayouth who is an individual with a disability, a child of incarcerated parents, or a migrant youth; and
 
 &emsp;&emsp;&emsp;(iii) a school dropout, or an individual who was a school dropout and has subsequently reenrolled.
 
@@ -316,7 +316,7 @@ Residential housing units rehabilitated or constructed using funds made availabl
 
 #### (1) Secretary assistance
 
-&emsp;The Secretary may enter into contracts with 1 or more entities to provide assistance to theSecretary in the management, supervision, and coordination of the program carried out under this section.
+&emsp;The Secretary may enter into contracts with 1 or more entities to provide assistance to the Secretary in the management, supervision, and coordination of the program carried out under this section.
 
 #### (2) Technical assistance
 

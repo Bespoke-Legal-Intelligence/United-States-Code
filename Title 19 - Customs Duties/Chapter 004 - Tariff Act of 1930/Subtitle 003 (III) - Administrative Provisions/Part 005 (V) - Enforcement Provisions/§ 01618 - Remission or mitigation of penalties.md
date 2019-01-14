@@ -18,7 +18,7 @@ Provisions for a petition to the judge of the district, a summary investigation 
 
 #### Change of Name
 
-"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" intwo places in text on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in two places in text on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
 
 #### Effective Date of 1984 Amendment
 

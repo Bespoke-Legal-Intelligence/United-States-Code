@@ -6,11 +6,11 @@ Except as otherwise provided in any section of this title—
 
 #### (1) Subtitle A
 
-&emsp;(A) Chapters 1, 2, 4,<sup>1</sup> and 6 of this title shall apply only with respect to taxable years beginning after December 31, 1953, and ending after the date of enactment of this title, and with respect to such taxable years, chapters 1\(except sections 143 and 144) and 2, and section 3801, of the Internal Revenue Code of 1939 are hereby repealed.
+&emsp;(A) Chapters 1, 2, and 6 of this title shall apply only with respect to taxable years beginning after December 31, 1953, and ending after the date of enactment of this title, and with respect to such taxable years, chapters 1 (except sections 143 and 144) and 2, and section 3801, of the Internal Revenue Code of 1939 are hereby repealed.
 
-&emsp;(B) Chapters 3 and 5 <sup>1</sup> of this title shall apply with respect to payments and transfers occurring after December 31, 1954, and as to such payments and transfers sections 143 and 144 and chapter 7 of the Internal Revenue Code of 1939 are hereby repealed.
+&emsp;(B) Chapter 3 of this title shall apply with respect to payments and transfers occurring after December 31, 1954, and as to such payments and transfers sections 143 and 144 and chapter 7 of the Internal Revenue Code of 1939 are hereby repealed.
 
-&emsp;(C) Any provision of subtitle A of this title the applicability of which is stated in terms of a specific date (occurring after December 31, 1953), or in terms of taxable years ending after a specific date (occurring after December 31, 1953), shall apply to taxable years ending after such specific date. Each such provision shall, in the case of a taxable year subject to the Internal Revenue Code of 1939, be deemed to be included in the Internal Revenue Code of 1939, but shall be applicable only to taxable years ending after such specific date. The provisions of the Internal Revenue Code of 1939 superseded by provisions of subtitle A of this title the applicability of which is stated in terms of a specific date (occurring after December 31, 1953) shall be deemed to be included in subtitle A of this title, but shall be applicable only to the period prior to the taking effect of the corresponding provision of subtitle A.
+&emsp;(C) Any provision of subtitle A of this title the applicability of which is stated in terms ofa specific date (occurring after December 31, 1953), or in terms of taxable years ending after a specific date (occurring after December 31, 1953), shall apply to taxable years ending after such specific date. Each such provision shall, in the case of a taxable year subject to the Internal Revenue Code of 1939, be deemed to be included in the Internal Revenue Code of 1939, but shall be applicable only to taxable years ending after such specific date. The provisions of the Internal Revenue Code of 1939 superseded by provisions of subtitle A of this title the applicability of which is stated in terms of a specific date (occurring after December 31, 1953) shall be deemed to be included in subtitle A of this title, but shall be applicable only to the period prior to the taking effect of the corresponding provision of subtitle A.
 
 &emsp;(D) Effective with respect to taxable years ending after March 31, 1954, and subject to tax under chapter 1 of the Internal Revenue Code of 1939—
 
@@ -44,11 +44,11 @@ Except as otherwise provided in any section of this title—
 
 #### (B) Assessment, collection, and refunds
 
-&emsp;&emsp;Notwithstanding the provisions of subparagraph (A), and notwithstanding any contrary provision of subchapter A of chapter 63 (relating to assessment), chapter 64 (relating to collection), or chapter 65 (relating to abatements, credits, and refunds) of this title, the provisions of part II of subchapter A of chapter 28 and chapters 35, 36, and 37 (except section 3777) of subtitle D of the Internal Revenue Code of 1939 shall remain in effect until January 1, 1955, and shall also be applicable to the taxes imposed by this title. On and after January 1, 1955, the provisions of subchapter A of chapter 63, chapter 64, and chapter 65 (except section 6405) of this title shall be applicable to all internal revenue taxes (whether imposed by this title or by the Internal Revenue Code of 1939), notwithstanding any contrary provision of part II of subchapter A of chapter 28, or of chapter 35, 36, or 37, of the Internal Revenue Codeof 1939. The provisions of section 6405 (relating to reports of refunds and credits) shall be applicable with respect to refunds or credits allowed after the date of enactment of this title, and section 3777 of the Internal Revenue Code of 1939 is hereby repealed with respect to such refunds and credits.
+&emsp;&emsp;Notwithstanding the provisions of subparagraph (A), and notwithstanding any contrary provision of subchapter A of chapter 63 (relating to assessment), chapter 64 (relating to collection), or chapter 65 (relating to abatements, credits, and refunds) of this title, the provisions of part II of subchapter A of chapter 28 and chapters 35, 36, and 37 (except section 3777) of subtitle D of the Internal Revenue Code of 1939 shall remain in effect until January 1, 1955, and shall also be applicable to the taxes imposed by this title. On and after January 1, 1955, the provisions of subchapter A of chapter 63, chapter 64, and chapter 65 (except section 6405) of this title shall be applicable to all internal revenue taxes (whether imposed by this title or by the Internal Revenue Code of 1939), notwithstanding any contrary provision of part II of subchapter A of chapter 28, or of chapter 35, 36, or 37, of the Internal Revenue Code of 1939. The provisions of section 6405 (relating to reports of refunds and credits) shall be applicable with respect to refunds or credits allowed after the date of enactment of this title, and section 3777 of the Internal Revenue Code of 1939 is hereby repealed with respect to such refunds and credits.
 
 #### (C) Taxes imposed under the 1939 Code
 
-&emsp;&emsp;After the date of enactment of this title, the following provisions of subtitle F shall apply to the taxes imposed by the Internal Revenue Code of 1939, notwithstanding any contrary provisions of such code:
+&emsp;&emsp;After the date of enactment of this title, the following provisions of subtitle F shallapply to the taxes imposed by the Internal Revenue Code of 1939, notwithstanding any contrary provisions of such code:
 
 &emsp;&emsp;&emsp;(i) Chapter 73, relating to bonds.
 
@@ -108,15 +108,13 @@ All periods of limitation, whether applicable to civil causes and proceedings, o
 
 For the purpose of applying the Internal Revenue Code of 1939 or the Internal Revenue Code of 1986 to any period, any reference in either such code to another provision of the Internal Revenue Code of 1939 or the Internal Revenue Code of 1986 which is not then applicable to such period shall be deemed a reference to the corresponding provision of the other code which is then applicable to such period.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 919; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 919; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 115–141, div. U, title IV, §401(a)(335), (336), Mar. 23, 2018, 132 Stat. 1200.)
 
 #### References in Text
 
-Chapter 4 of this title, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 101–508, title XI, §11801(a)(37), Nov. 5, 1990, 104 Stat. 1388–521.
-
 The date of enactment of this title, referred to in subsecs. (a)(1)(A), (5), (6)(A) to (C), (7), (b)(2), (3), is Aug. 16, 1954.
 
-Various provisions of the Internal Revenue Code of 1939, referred to in text and described below, have corresponding provisions appearing in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, subsec. (e) of this section for provision that references in the 1986 Code to a provision in the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
+Various provisions of the Internal Revenue Code of 1939, referred to in text and described below, have corresponding provisions appearing in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]. For table ofcomparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, subsec. (e) of this section for provision that references in the 1986 Code to a provision in the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
 Chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), (D), was comprised of sections 1 to 482 of former Title 26, Internal Revenue Code. Sections 1 to 33 were repealed by subsec. (a)(1)(A) of this section, section 34 was repealed by act Feb. 25, 1944, ch. 63, title I, §106(c)(2), 58 Stat. 31, sections 35 to 184 were repealed by subsec. (a)(1)(A) of this section, section 185 was repealed by act Feb. 25, 1944, ch. 63, title I, §107(a), 58 Stat. 31, sections 201 to 263 were repealed by subsec. (a)(1)(A) of this section, section 264 was repealed by act Oct. 21, 1942, ch. 619, title I, §159(e), 56 Stat. 860, sections 265 to 362 were repealed by subsec. (a)(1)(A) of this section, section 363 was repealed by act Oct. 21, 1942, ch. 619, title I, §170(a), 56 Stat. 878, sections 371 to 482 were repealed by subsec. (a)(1)(A) of this section.
 
@@ -125,8 +123,6 @@ Sections 143 and 144 of the Internal Revenue Code of 1939, referred to in subsec
 Chapter 2 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), was comprised of sections 500 to 784 of former Title 26, Internal Revenue Code. Sections 500 to 511 and 650 to 706 were repealed by subsec. (a)(1)(A) of this section, sections 600 to 605 were repealed by act Nov. 8, 1945, ch. 453, title II, §202, 59 Stat. 574, sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761 and 780 to 784 were repealed by act Nov. 8, 1945, ch. 453, title I, §122(a), 59 Stat. 568, section 741 was repealed by act Oct. 21, 1942, ch. 619, title II, §§224(b), 228(b), 56 Stat. 920, 925, section 752 was repealed by act Oct. 21, 1942, ch. 619, title II, §229(a)(1), 56 Stat. 931, eff. as of Oct. 8, 1940.
 
 Section 3801 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), was classified to section 3801 of former Title 26, Internal Revenue Code. Section 3801 was repealed by subsec. (a)(1)(A) of this section.
-
-Chapter 5 of this title, referred to in subsec. (a)(1)(B), was repealed by Pub. L. 105–34, title XI, §1131(a), Aug. 5, 1997, 111 Stat. 978.
 
 Chapter 7 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(B), (4), was comprised of sections 1250 to 1254 of former Title 26, Internal Revenue Code.
 
@@ -171,6 +167,10 @@ Reorganization Plan Numbered 26 of 1950, referred to in subsec. (b)(3), is Reorg
 Reorganization Plan Numbered 1 of 1952, referred to in subsec. (b)(3), is Reorg. Plan No. 1 of 1952, eff. Mar. 14, 1952, 17 F.R. 2243, 66 Stat. 823, which is set out in Appendix to Title 5.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–141, §401(a)(335), struck out ", 4" after "Chapters 1, 2".
+
+Subsec. (a)(1)(B). Pub. L. 115–141, §401(a)(336), substituted "Chapter 3" for "Chapters 3 and 5".
 
 <b>1986</b>—Subsecs. (a)(7), (e). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 

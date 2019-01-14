@@ -14,7 +14,11 @@
 
 (d) The Secretary shall coordinate with the Administrator of General Services to enable the use of commercial identifiers for commercial items within the Federal cataloging system.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 138; Pub. L. 85–861, §33(a)(13), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 108–136, div. A, title III, §341, Nov. 24, 2003, 117 Stat. 1448.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 138; Pub. L. 85–861, §33(a)(13), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 108–136, div. A, title III, §341, Nov. 24, 2003, 117 Stat. 1448; Pub. L. 115–232, div. A, title VIII, §836(e)(9), Aug. 13, 2018, 132 Stat. 1870.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(e)(9), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (d) of this section is amended by striking "commercial items" and inserting "commercial products (as defined in section 103 of title 41)". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes<br>1956
 
@@ -52,9 +56,15 @@ The change makes clear that clauses (2) and (3) apply to all items, whether or n
 
 #### Amendments
 
+<b>2018</b>—Subsec. (d). Pub. L. 115–232 substituted "commercial products (as defined in section 103 of title 41)" for "commercial items".
+
 <b>2003</b>—Subsec. (d). Pub. L. 108–136 added subsec. (d).
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–861 substituted "such" for "standardized" in cl. (2), and "such" for "those" in cl. (3).
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
 #### Effective Date of 1958 Amendment
 

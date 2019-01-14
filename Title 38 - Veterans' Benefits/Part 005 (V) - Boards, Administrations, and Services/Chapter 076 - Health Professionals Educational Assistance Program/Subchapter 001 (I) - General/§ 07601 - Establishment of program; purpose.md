@@ -1,6 +1,6 @@
 ### §7601. Establishment of program; purpose
 
-(a) There is hereby established a program to be known as the Department of Veterans Affairs Health Professionals Educational Assistance Program (hereinafter in this chapter referred to as the "Educational Assistance Program"). The program consists of—
+(a) There is hereby established a program to be known as the Department of Veterans AffairsHealth Professionals Educational Assistance Program (hereinafter in this chapter referred to as the "Educational Assistance Program"). The program consists of—
 
 &emsp;(1) the scholarship program provided for in subchapter II of this chapter;
 
@@ -8,15 +8,19 @@
 
 &emsp;(3) the Selected Reserve member stipend program provided for under subchapter V of this chapter;
 
-&emsp;(4) the employee incentive scholarship program provided for in subchapter VI of this chapter; and
+&emsp;(4) the employee incentive scholarship program provided for in subchapter VI of this chapter;
 
-&emsp;(5) the education debt reduction program provided for in subchapter VII of this chapter.
+&emsp;(5) the education debt reduction program provided for in subchapter VII of this chapter; and
+
+&emsp;(6) the specialty education loan repayment program provided for in subchapter VIII of this chapter.
 
 (b) The purpose of the Educational Assistance Program is to assist in providing an adequate supply of trained health-care personnel for the Department and the Nation.
 
-(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 518, §4301; amended Pub. L. 101–366, title II, §205(c)(1), Aug. 15, 1990, 104 Stat. 441; renumbered §7601, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(2)(B)(vi), (3), (4), Aug. 6, 1991, 105 Stat. 403, 404; Pub. L. 103–446, title XII, §1201(e)(25), Nov. 2, 1994, 108 Stat. 4686; Pub. L. 105–368, title VIII, §805(1), Nov. 11, 1998, 112 Stat. 3358.)
+(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 518, §4301; amended Pub. L. 101–366, title II, §205(c)(1), Aug. 15, 1990, 104 Stat. 441; renumbered §7601, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(2)(B)(vi), (3), (4), Aug. 6, 1991, 105 Stat. 403, 404; Pub. L. 103–446, title XII, §1201(e)(25), Nov. 2, 1994, 108 Stat. 4686; Pub. L. 105–368, title VIII, §805(1), Nov. 11, 1998, 112 Stat. 3358; Pub. L. 115–182, title III, §303(b)(1)(A), June 6, 2018, 132 Stat. 1466.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(6). Pub. L. 115–182 added par. (6).
 
 <b>1998</b>—Subsec. (a)(4), (5). Pub. L. 105–368 added pars. (4) and (5).
 
@@ -29,6 +33,160 @@ Subsec. (a). Pub. L. 102–83, §4(a)(2)(B)(vi), substituted "Department of Vete
 Subsec. (b). Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Veterans' Administration".
 
 <b>1990</b>—Subsec. (a)(3). Pub. L. 101–366 added par. (3).
+
+#### Veterans Healing Veterans Medical Access and Scholarship Program
+
+Pub. L. 115–182, title III, §304, June 6, 2018, 132 Stat. 1467, as amended by Pub. L. 115–251, title II, §211(b)(7), Sept. 29, 2018, 132 Stat. 3177, provided that:
+
+"(a)
+
+Establishment.—The Secretary of Veterans Affairs, acting through the Office of Academic Affiliations of the Department of Veterans Affairs, shall carry out a pilot program under which the Secretary shall provide funding for the medical education of a total of 18 eligible veterans. Such funding shall be provided for two veterans enrolled in each covered medical school in accordance with this section.
+
+"(b)
+
+Eligible Veterans.—To be eligible to receive funding for medical education under this section, a veteran shall—
+
+&emsp;"(1) have been discharged from the Armed Forces not more than 10 years before the date of application for admission to a covered medical school;
+
+&emsp;"(2) not be concurrently receiving educational assistance under chapter 30, 31, 32, 33, 34, or 35 of title 38, United States Code, or chapter 1606 or 1607 of title 10, United States Code;
+
+&emsp;"(3) apply for admission to a covered medical school for the entering class of 2020;
+
+&emsp;"(4) indicate on such application for admission that the veteran would like to be considered for an award of funding under this section;
+
+&emsp;"(5) meet the minimum admissions criteria for the covered medical school to which the veteran applies; and
+
+&emsp;"(6) enter into an agreement described in subsection (d).
+
+"(c)
+
+Award of Funding.—
+
+&emsp;"(1)
+
+In general.—Each covered medical school that opts to participate in the program under this section shall reserve two seats in the entering class of 2020 for eligible veterans who receive funding under such program. Such funding shall be awarded to the two eligible veterans with the highest admissions rankings for such class at such school.
+
+&emsp;"(2)
+
+Amount of funding.—Each eligible veteran who receives funding under this section shall receive an amount equal to the actual cost of—
+
+&emsp;&emsp;"(A) tuition at the covered medical school at which the veteran enrolls for 4 years;
+
+&emsp;&emsp;"(B) books, fees, and technical equipment;
+
+&emsp;&emsp;"(C) fees associated with the National Residency Match Program;
+
+&emsp;&emsp;"(D) two away rotations performed during the fourth year at a Department of Veterans Affairs medical facility; and
+
+&emsp;&emsp;"(E) a monthly stipend for the 4-year period during which the veteran is enrolled in medical school in an amount to be determined by the Secretary.
+
+&emsp;"(3)
+
+Distribution of funding.—In the event that two or more eligible veterans do not apply for admission at one of the covered medical schools for the entering class of 2020, the Secretary shall distribute the available funding to eligible veterans who applied for admission at other covered medical schools.
+
+"(d)
+
+Agreement.—
+
+&emsp;"(1)
+
+Terms of agreement.—Each eligible veteran who accepts funding for medical education under this section shall enter into an agreement with the Secretary that provides that the veteran agrees—
+
+&emsp;&emsp;"(A) to maintain enrollment and attendance in the medical school;
+
+&emsp;&emsp;"(B) while enrolled in such medical school, to maintain an acceptable level of academic standing (as determined by the medical school under regulations prescribed by the Secretary);
+
+&emsp;&emsp;"(C) to complete post-graduate training leading to eligibility for board certification in a speciality applicable to the Department of Veterans Affairs, as determined by the Secretary;
+
+&emsp;&emsp;"(D) after completion of medical school, to obtain a license to practice medicine in a State; and
+
+&emsp;&emsp;"(E) after completion of medical school and post-graduate training, to serve as a full-time clinical practice employee in the Veterans Health Administration for a period of 4 years.
+
+&emsp;"(2)
+
+Breach of agreement.—If an eligible veteran who accepts funding under this section breaches the terms of the agreement described in paragraph (1), the United States shall be entitled to recover damages in an amount equal to the total amount of such funding received by the veteran.
+
+"(e)
+
+Rule of Construction.—Nothing in this section shall be construed to prevent any covered medical school from accepting more than two eligible veterans for the entering class of 2020.
+
+"(f)
+
+Report to Congress.—Not later than December 31, 2021, and annually thereafter for the subsequent 3 years, the Secretary shall submit to Congress a report on the pilot program under this section. Such report shall include the evaluation of the Secretary of the success of the pilot program, including the number of veterans who received funding under the program who matriculated and an evaluation of the academic progress of such veterans.
+
+"(g)
+
+Covered Medical Schools.—In this section, the term 'covered medical school' means any of the following:
+
+&emsp;"(1) The Teague-Cranston medical schools, consisting of—
+
+&emsp;&emsp;"(A) Texas A\&M College of Medicine;
+
+&emsp;&emsp;"(B) Quillen College of Medicine at East Tennessee State University;
+
+&emsp;&emsp;"(C) Boonshoft School of Medicine at Wright State University;
+
+&emsp;&emsp;"(D) Joan C. Edwards School of Medicine at Marshall University; and
+
+&emsp;&emsp;"(E) University of South Carolina School of Medicine.
+
+&emsp;"(2) Charles R Drew University of Medicine and Science.
+
+&emsp;"(3) Howard University College of Medicine.
+
+&emsp;"(4) Meharry Medical College.
+
+&emsp;"(5) Morehouse School of Medicine."
+
+#### Physician Assistant Education and Training Pilot Program for Former Members of the Armed Forces
+
+Pub. L. 115–141, div. J, title II, §246, Mar. 23, 2018, 132 Stat. 823, provided that:
+
+"(a)
+
+Pilot Program.—The Secretary of Veterans Affairs shall carry out a pilot program to provide educational assistance to certain former members of the Armed Forces for education and training as physician assistants of the Department of Veterans Affairs.
+
+"(b)
+
+Eligible Individuals.—An individual is eligible to participate in the pilot program if the individual—
+
+&emsp;"(1) has medical or military health experience gained while serving as a member of the Armed Forces;
+
+&emsp;"(2) has received a certificate, associate degree, baccalaureate degree, master's degree, or postbaccalaureate training in a science relating to health care; or
+
+&emsp;"(3) has participated in the delivery of healthcare services or related medical services, including participation in military training relating to the identification, evaluation, treatment, and prevention of diseases and disorders.
+
+"(c)
+
+Duration.—The pilot program shall be carried out during the 5-year period beginning on the date that is 180 days after the date of the enactment of this Act \[Mar. 23, 2018\].
+
+"(d)
+
+Selection.—
+
+&emsp;"(1) The Secretary shall select eligible individuals under subsection (b) to participate in the pilot program.
+
+&emsp;"(2) In selecting individuals to participate in the pilot program under paragraph (1), the Secretary shall give priority to individuals who agree to be employed as a physician assistant for the Veterans Health Administration at a medical facility of the Department located in a community that—
+
+&emsp;&emsp;"(A) is designated as a medically underserved population under section 330(b)(3)(A) of the Public Health Service Act (42 U.S.C. 254b(b)(3)(A)); and
+
+&emsp;&emsp;"(B) is in a State with a per capita population of veterans of more than 5 percent according to the National Center for Veterans Analysis and Statistics and the United States Census Bureau.
+
+"(e)
+
+Educational Assistance.—In carrying out the pilot program, the Secretary shall provide educational assistance to individuals participating in the pilot program, including through the use of scholarships, to cover the costs to such individuals of obtaining a master's degree in physician assistant studies or a similar master's degree.
+
+"(f)
+
+Period of Obligated Service.—The Secretary shall enter into an agreement with each individual participating in the pilot program in which such individual agrees to be employed as a physician assistant for the Veterans Health Administration for a period of obligated service to be determined by the Secretary.
+
+"(g)
+
+Breach.—An individual who participates in the pilot program and fails to satisfy the period of obligated service under subsection (f) shall be liable to the United States, in lieu of such obligated service, for the amount that has been paid or is payable to or on behalf of the individual under the pilot program, reduced by the proportion that the number of days served for completion of the period of obligated service bears to the total number of days in the period of obligated service of such individual.
+
+"(h)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Mar. 23, 2018\], the Secretary of Veterans Affairs, in collaboration with the Secretary of Labor, the Secretary of Defense, and the Secretary of Health and Human Services, shall submit to Congress a report on the pilot program's effectiveness of helping to meet the shortage of physician assistants employed by the Department."
 
 #### Payments to Health-Care Professional Employees for Tuition Loans
 

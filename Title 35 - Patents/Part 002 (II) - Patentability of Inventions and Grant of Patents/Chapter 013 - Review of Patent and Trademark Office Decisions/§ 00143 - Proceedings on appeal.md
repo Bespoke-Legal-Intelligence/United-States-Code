@@ -38,13 +38,13 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 1000(a)(9) \[title IV, §4605(d)\] of Pub. L. 106–113 effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as a note under section 41 of this title.
+Amendment by section 1000(a)(9) \[title IV, §4605(d)\] of Pub. L. 106–113 effective Nov. 29, 1999, and applicable toany patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as a note under section 41 of this title.
 
 Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(A)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 applicable to proceedings pending in the Patent and Trademark Office onNov. 8, 1984, and to appeals pending in the United States Court of Appeals for the Federal Circuit on such date, see section 414(c) of Pub. L. 98–620, set out as a note under section 142 of this title.
+Amendment by Pub. L. 98–620 applicable to proceedings pending in the Patent and Trademark Office on Nov. 8, 1984, and to appeals pending in the United States Court of Appeals for the Federal Circuit on such date, see section 414(c) of Pub. L. 98–620, set out as a note under section 142 of this title.
 
 #### Effective Date of 1982 Amendment
 

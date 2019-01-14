@@ -28,7 +28,7 @@ Authorized Absence Defined.—In this section, the term "authorized absence", wi
 
 (e)
 
-Termination.—No payment or reimbursement may be provided under this section with respect to an authorized absence that begins after the travel authorities transition expiration date.
+Termination.—No payment or reimbursement may be provided under this section withrespect to an authorized absence that begins after the travel authorities transition expiration date.
 
 (Added Pub. L. 108–136, div. A, title VI, §635(a), Nov. 24, 2003, 117 Stat. 1510, §404b; amended Pub. L. 109–163, div. A, title VI, §651(a), (b)(1), Jan. 6, 2006, 119 Stat. 3311; renumbered §474b and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(3), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1461, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 

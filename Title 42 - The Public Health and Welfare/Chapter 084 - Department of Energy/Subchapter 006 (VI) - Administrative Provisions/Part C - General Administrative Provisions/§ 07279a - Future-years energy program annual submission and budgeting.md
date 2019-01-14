@@ -20,7 +20,7 @@ Each future-years energy program shall contain the following:
 
 (2) Amounts referred to in paragraph (1) are the following:
 
-&emsp;(A) The amounts specified in program and budget information submitted to Congress by the Secretary of Energy in support of expenditure estimates and proposed appropriations in the budget submitted to Congress by the President under section 1105(a) of title 31 for any fiscal year, as shown in the future-years energy program submitted pursuant to subsection (a).
+&emsp;(A) The amounts specified in program and budget information submitted to Congress bythe Secretary of Energy in support of expenditure estimates and proposed appropriations in the budget submitted to Congress by the President under section 1105(a) of title 31 for any fiscal year, as shown in the future-years energy program submitted pursuant to subsection (a).
 
 &emsp;(B) The total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the administration included pursuant to paragraph (5) of section 1105(a) of such title in the budget submitted to Congress under that section for any fiscal year.
 

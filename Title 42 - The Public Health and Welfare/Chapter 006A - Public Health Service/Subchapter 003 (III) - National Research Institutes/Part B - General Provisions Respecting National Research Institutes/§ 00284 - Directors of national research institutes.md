@@ -30,7 +30,7 @@
 
 #### (F) Nature of appointment
 
-&emsp;&emsp;Appointments and reappointments under this subsection shall be made on the basis ofability and experience as it relates to the mission of the National Institutes of Health and its components, including compliance with any legal requirement that the Secretary or Director of National Institutes of Health determines relevant.
+&emsp;&emsp;Appointments and reappointments under this subsection shall be made on the basis of ability and experience as it relates to the mission of the National Institutes of Health and its components, including compliance with any legal requirement that the Secretary or Director of National Institutes of Health determines relevant.
 
 #### (3) Nonapplication of certain provision
 

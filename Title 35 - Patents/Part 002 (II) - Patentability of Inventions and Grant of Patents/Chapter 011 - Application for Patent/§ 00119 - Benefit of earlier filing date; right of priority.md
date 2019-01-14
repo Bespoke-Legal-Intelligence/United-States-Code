@@ -26,7 +26,7 @@
 
 &emsp;(2) the term "UPOV Contracting Party" means a member of the International Convention for the Protection of New Varieties of Plants.
 
-(July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 87–333, §1, Oct. 3, 1961, 75 Stat. 748; Pub. L. 92–358, §1, July 28, 1972, 86 Stat. 501; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 103–465, title V, §532(b)(1), Dec. 8, 1994, 108 Stat. 4985; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4503(a), (b)(2), 4801(b), (c), 4802\], Nov. 29, 1999, 113 Stat. 1536, 1501A–563, 1501A–564, 1501A–588, 1501A–589; Pub. L. 107–273, div. C, title III, §13206(b)(2), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§3(g)(6), 15(b), 20(j), Sept. 16, 2011, 125 Stat. 288, 328, 335; Pub. L. 112–211, title II, §§201(c)(1), 202(b)(2), Dec. 18, 2012, 126 Stat. 1534, 1536.)
+(July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 87–333, §1, Oct. 3, 1961, 75 Stat. 748; Pub. L. 92–358, §1, July 28, 1972, 86 Stat. 501; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 103–465, title V,§532(b)(1), Dec. 8, 1994, 108 Stat. 4985; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4503(a), (b)(2), 4801(b), (c), 4802\], Nov. 29, 1999, 113 Stat. 1536, 1501A–563, 1501A–564, 1501A–588, 1501A–589; Pub. L. 107–273, div. C, title III, §13206(b)(2), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§3(g)(6), 15(b), 20(j), Sept. 16, 2011, 125 Stat. 288, 328, 335; Pub. L. 112–211, title II, §§201(c)(1), 202(b)(2), Dec. 18, 2012, 126 Stat. 1534, 1536.)
 
 #### Historical and Revision Notes
 
@@ -80,11 +80,11 @@ Subsecs. (f), (g). Pub. L. 106–113, §1000(a)(9) \[title IV, §4802(2)\], adde
 
 <b>1972</b>—Pub. L. 92–358 inserted last paragraph providing that under certain circumstances, applications for inventors' certificate filed in a foreign country would be given the same priority as applications for patents, if the applicants are entitled to the benefits of the Stockholm Revision of the Paris Convention at the time of filing.
 
-<b>1961</b>—Pub. L. 87–333 authorized the right provided by this section to be based upon a subsequent application in the same foreign country, instead of the first application, provided that any foreign application filed prior to such subsequent one was withdrawn, or otherwise disposed of, without having been open to public inspection and without leaving any rights outstanding, nor any basis for claiming priority.
+<b>1961</b>—Pub. L. 87–333 authorized the right provided by this section to be based upon a subsequent application in the same foreign country, instead of the first application, provided that any foreign application filed priorto such subsequent one was withdrawn, or otherwise disposed of, without having been open to public inspection and without leaving any rights outstanding, nor any basis for claiming priority.
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–211 effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, see section203 of Pub. L. 112–211, set out as an Effective Date note under section 27 of this title.
+Amendment by Pub. L. 112–211 effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, see section 203 of Pub. L. 112–211, set out as an Effective Date note under section 27 of this title.
 
 #### Effective Date of 2011 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Grant authorization
 
-The Attorney General shall make grants of up to $1,000,000 to States, local governments, territories, or Indian Tribes, or any combination thereof, in partnership with stakeholders, service providers, and nonprofit organizations.
+The Attorney General shall make grants to States, local governments, territories, or Indian tribes, or any combination thereof (in this section referred to as an "eligible entity"), in partnership with interested persons (including Federal corrections and supervision agencies), service providers, and nonprofit organizations for the purpose of strategic planning and implementation of adult and juvenile offender reentry projects.
 
 #### (b) Adult offender reentry demonstration projects
 
@@ -12,7 +12,7 @@ Funds for adult offender demonstration projects may be expended for—
 
 &emsp;(2) providing substance abuse treatment and services (including providing a full continuum of substance abuse treatment services that encompasses outpatient and comprehensive residential services and recovery);
 
-&emsp;(3) providing coordinated supervision and comprehensive services for offenders upon release from prison, jail, or a juvenile facility, including housing and mental and physical health care to facilitate re-entry into the community, and which, to the extent applicable, are provided by community-based entities (including coordinated reentry veteran-specific services for eligible veterans);
+&emsp;(3) providing coordinated supervision and comprehensive services for offenders upon release from prison, jail, or a juvenile facility, including housing and mental and physical health care to facilitate re-entry into the community, or reentry courts, and which, to the extent applicable, are provided by community-based entities (including coordinated reentry veteran-specific services for eligible veterans);
 
 &emsp;(4) providing programs that—
 
@@ -22,71 +22,135 @@ Funds for adult offender demonstration projects may be expended for—
 
 &emsp;(5) encouraging the involvement of prison, jail, or juvenile facility mentors in the reentry process and enabling those mentors to remain in contact with offenders while in custody and after reentry into the community;
 
-&emsp;(6) providing victim-appropriate services, encouraging the timely and complete payment of restitution and fines by offenders to victims, and providing services such as security and counseling to victims upon release of offenders; and
+&emsp;(6) providing victim-appropriate services, encouraging the timely and complete payment of restitution and fines by offenders to victims, and providing services such as security and counseling to victims upon release of offenders;
 
-&emsp;(7) protecting communities against dangerous offenders by using validated assessment tools to assess the risk factors of returning inmates and developing or adopting procedures to ensure that dangerous felons are not released from prison prematurely.
+&emsp;(7) protecting communities against dangerous offenders by using validated assessment tools to assess the risk factors of returning inmates and developing or adopting procedures to ensure that dangerous felons are not released from prison prematurely; and
+
+&emsp;(8) promoting employment opportunities consistent with the Transitional Jobs strategy (as defined in section 60502 of this title).
 
 #### (c) Juvenile offender reentry demonstration projects
 
 Funds for the juvenile offender reentry demonstration projects may be expended for any activity described in subsection (b).
 
-#### (d) Applications
+#### (d) Combined grant application; priority consideration
 
-A State, unit of local government, territory, or Indian Tribe, or combination thereof, desiring a grant under this section shall submit an application to the Attorney General that—
+#### (1) In general
 
-&emsp;(1) contains a reentry strategic plan, as described in subsection (h), which describes the long-term strategy and incorporates a detailed implementation schedule, including the plans of the applicant to pay for the program after the Federal funding is discontinued;
+&emsp;The Attorney General shall develop a procedure to allow applicants to submit a single application for a planning grant under subsection (e) and an implementation grant under subsection (f).
 
-&emsp;(2) identifies the local government role and the role of governmental agencies and nonprofit organizations that will be coordinated by, and that will collaborate on, the offender reentry strategy of the applicant, and certifies the involvement of such agencies and organizations;
+#### (2) Priority consideration
 
-&emsp;(3) describes the evidence-based methodology and outcome measures that will be used to evaluate the program funded with a grant under this section, and specifically explains how such measurements will provide valid measures of the impact of that program; and
+&emsp;The Attorney General shall give priority consideration to grant applications under subsections (e) and (f) that include a commitment by the applicant to partner with a local evaluator to identify and analyze data that will—
 
-&emsp;(4) describes how the project could be broadly replicated if demonstrated to be effective.
+&emsp;&emsp;(A) enable the grantee to target the intended offender population; and
 
-#### (e) Requirements
+&emsp;&emsp;(B) serve as a baseline for purposes of the evaluation.
 
-The Attorney General may make a grant to an applicant under this section only if the application—
+#### (e) Planning grants
 
-&emsp;(1) reflects explicit support of the chief executive officer of the State, unit of local government, territory, or Indian Tribe applying for a grant under this section;
+#### (1) In general
 
-&emsp;(2) provides extensive discussion of the role of State corrections departments, community corrections agencies, juvenile justice systems, or local jail systems in ensuring successful reentry of offenders into their communities;
+&emsp;Except as provided in paragraph (3), the Attorney General may make a grant to an eligible entity of not more than $75,000 to develop a strategic, collaborative plan for an adult or juvenile offender reentry demonstration project as described in subsection (h) that includes—
 
-&emsp;(3) provides extensive evidence of collaboration with State and local government agencies overseeing health, housing, child welfare, education, substance abuse, victims services, and employment services, and with local law enforcement agencies;
+&emsp;&emsp;(A) a budget and a budget justification;
 
-&emsp;(4) provides a plan for analysis of the statutory, regulatory, rules-based, and practice-based hurdles to reintegration of offenders into the community; and
+&emsp;&emsp;(B) a description of the outcome measures that will be used to measure the effectiveness of the program in promoting public safety and public health;
 
-&emsp;(5) includes the use of a State, local, territorial, or Tribal task force, described in subsection (i), to carry out the activities funded under the grant.
+&emsp;&emsp;(C) the activities proposed;
 
-#### (f) Priority considerations
+&emsp;&emsp;(D) a schedule for completion of the activities described in subparagraph (C); and
 
-The Attorney General shall give priority to grant applications under this section that best—
+&emsp;&emsp;(E) a description of the personnel necessary to complete the activities described in subparagraph (C).
 
-&emsp;(1) focus initiative on geographic areas with a disproportionate population of offenders released from prisons, jails, and juvenile facilities;
+#### (2) Maximum total grants and geographic diversity
 
-&emsp;(2) include—
+#### (A) Maximum amount
 
-&emsp;&emsp;(A) input from nonprofit organizations, in any case where relevant input is available and appropriate to the grant application;
+&emsp;&emsp;The Attorney General may not make initial planning grants and implementation grants to 1 eligible entity in a total amount that is more than a $1,000,000.
 
-&emsp;&emsp;(B) consultation with crime victims and offenders who are released from prisons, jails, and juvenile facilities; and
+#### (B) Geographic diversity
 
-&emsp;&emsp;(C) coordination with families of offenders;
+&emsp;&emsp;The Attorney General shall make every effort to ensure equitable geographic distribution of grants under this section and take into consideration the needs of underserved populations, including rural and tribal communities.
 
-&emsp;(3) demonstrate effective case assessment and management abilities in order to provide comprehensive and continuous reentry, including—
+#### (3) Period of grant
 
-&emsp;&emsp;(A) planning while offenders are in prison, jail, or a juvenile facility, prerelease transition housing, and community release;
+&emsp;A planning grant made under this subsection shall be for a period of not longer than 1 year, beginning on the first day of the month in which the planning grant is made.
 
-&emsp;&emsp;(B) establishing prerelease planning procedures to ensure that the eligibility of an offender for Federal or State benefits upon release is established prior to release, subject to any limitations in law, and to ensure that offenders obtain all necessary referrals for reentry services; and
+#### (f) Implementation grants
 
-&emsp;&emsp;(C) delivery of continuous and appropriate mental health services, drug treatment, medical care, job training and placement, educational services, or any other service or support needed for reentry;
+#### (1) Applications
 
-&emsp;(4) review the process by which the applicant adjudicates violations of parole, probation, or supervision following release from prison, jail, or a juvenile facility, taking into account public safety and the use of graduated, community-based sanctions for minor and technical violations of parole, probation, or supervision (specifically those violations that are not otherwise, and independently, a violation of law);
+&emsp;An eligible entity desiring an implementation grant under this subsection shall submit to the Attorney General an application that—
 
-&emsp;(5) provide for an independent evaluation of reentry programs that include, to the maximum extent possible, random assignment and controlled studies to determine the effectiveness of such programs;
+&emsp;&emsp;(A) contains a reentry strategic plan as described in subsection (h), which describes the long-term strategy and incorporates a detailed implementation schedule, including the plans of the applicant to fund the program after Federal funding is discontinued;
 
-&emsp;(6) target high-risk offenders for reentry programs through validated assessment tools;
+&emsp;&emsp;(B) identifies the local government role and the role of governmental agencies and nonprofit organizations that will be coordinated by, and that will collaborate on, the offender reentry strategy of the applicant, and certifies the involvement of such agencies and organizations;
 
-&emsp;(7) provide mental health treatment and transitional services for those with mental illnesses or with co-occurring disorders, including housing placement or assistance; and
+&emsp;&emsp;(C) describes the evidence-based methodology and outcome measures that will be used to evaluate the program funded with a grant under this subsection, and specifically explains how such measurements will provide valid measures of the impact of that program; and
 
-&emsp;(8) target offenders with histories of homelessness, substance abuse, or mental illness, including a prerelease assessment of the housing status of the offender and behavioral health needs of the offender with clear coordination with mental health, substance abuse, and homelessness services systems to achieve stable and permanent housing outcomes with appropriate support service.
+&emsp;&emsp;(D) describes how the project could be broadly replicated if demonstrated to be effective.
+
+#### (2) Requirements
+
+&emsp;The Attorney General may make a grant to an applicant under this subsection only if the application—
+
+&emsp;&emsp;(A) reflects explicit support of the chief executive officer, or their designee, of the State, unit of local government, territory, or Indian tribe applying for a grant under this subsection;
+
+&emsp;&emsp;(B) provides discussion of the role of Federal corrections, State corrections departments, community corrections agencies, juvenile justice systems, and tribal or local jail systems in ensuring successful reentry of offenders into their communities;
+
+&emsp;&emsp;(C) provides evidence of collaboration with State, local, or tribal government agencies overseeing health, housing, child welfare, education, substance abuse, victims services, and employment services, and with local law enforcement agencies;
+
+&emsp;&emsp;(D) provides a plan for analysis of the statutory, regulatory, rules-based, and practice-based hurdles to reintegration of offenders into the community;
+
+&emsp;&emsp;(E) includes the use of a State, local, territorial, or tribal task force, described in subsection (i), to carry out the activities funded under the grant;
+
+&emsp;&emsp;(F) provides a plan for continued collaboration with a local evaluator as necessary to meeting the requirements under subsection (h); and
+
+&emsp;&emsp;(G) demonstrates that the applicant participated in the planning grant process or engaged in comparable planning for the reentry project.
+
+#### (3) Priority considerations
+
+&emsp;The Attorney General shall give priority to grant applications under this subsection that best—
+
+&emsp;&emsp;(A) focus initiative on geographic areas with a disproportionate population of offenders released from prisons, jails, and juvenile facilities;
+
+&emsp;&emsp;(B) include—
+
+&emsp;&emsp;&emsp;(i) input from nonprofit organizations, in any case where relevant input is available and appropriate to the grant application;
+
+&emsp;&emsp;&emsp;(ii) consultation with crime victims and offenders who are released from prisons, jails, and juvenile facilities;
+
+&emsp;&emsp;&emsp;(iii) coordination with families of offenders;
+
+&emsp;&emsp;&emsp;(iv) input, where appropriate, from the juvenile justice coordinating council of the region;
+
+&emsp;&emsp;&emsp;(v) input, where appropriate, from the reentry coordinating council of the region; or
+
+&emsp;&emsp;&emsp;(vi) input, where appropriate, from other interested persons;
+
+&emsp;&emsp;(C) demonstrate effective case assessment and management abilities in order to provide comprehensive and continuous reentry, including—
+
+&emsp;&emsp;&emsp;(i) planning for prerelease transitional housing and community release that begins upon admission for juveniles and jail inmates, and, as appropriate, for prison inmates, depending on the length of the sentence;
+
+&emsp;&emsp;&emsp;(ii) establishing prerelease planning procedures to ensure that the eligibility of an offender for Federal, tribal, or State benefits upon release is established prior to release, subject to any limitations in law, and to ensure that offenders obtain all necessary referrals for reentry services, including assistance identifying and securing suitable housing; or
+
+&emsp;&emsp;&emsp;(iii) delivery of continuous and appropriate mental health services, drug treatment, medical care, job training and placement, educational services, vocational services, and any other service or support needed for reentry;
+
+&emsp;&emsp;(D) review the process by which the applicant adjudicates violations of parole, probation, or supervision following release from prison, jail, or a juvenile facility, taking into account public safety and the use of graduated, community-based sanctions for minor and technical violations of parole, probation, or supervision (specifically those violations that are not otherwise, and independently, a violation of law);
+
+&emsp;&emsp;(E) provide for an independent evaluation of reentry programs that include, to the maximum extent possible, random assignment and controlled studies to determine the effectiveness of such programs;
+
+&emsp;&emsp;(F) target moderate and high-risk offenders for reentry programs through validated assessment tools; or
+
+&emsp;&emsp;(G) target offenders with histories of homelessness, substance abuse, or mental illness, including a prerelease assessment of the housing status of the offender and behavioral health needs of the offender with clear coordination with mental health, substance abuse, and homelessness services systems to achieve stable and permanent housing outcomes with appropriate support service.
+
+#### (4) Period of grant
+
+&emsp;A grant made under this subsection shall be effective for a 2-year period—
+
+&emsp;&emsp;(A) beginning on the date on which the planning grant awarded under subsection (e) concludes; or
+
+&emsp;&emsp;(B) in the case of an implementation grant awarded to an eligible entity that did not receive a planning grant, beginning on the date on which the implementation grant is awarded.
 
 #### (g) Uses of grant funds
 
@@ -114,13 +178,23 @@ The Attorney General shall give priority to grant applications under this sectio
 
 #### (1) In general
 
-&emsp;As a condition of receiving financial assistance under this section, each applicant shall develop a comprehensive strategic reentry plan that contains measurable annual and 5-year performance outcomes, and that uses, to the maximum extent possible, random assigned and controlled studies to determine the effectiveness of the program funded with a grant under this section. One goal of that plan shall be to reduce the rate of recidivism (as defined by the Attorney General, consistent with the research on offender reentry undertaken by the Bureau of Justice Statistics) by 50 percent over a 5-year period for offenders released from prison, jail, or a juvenile facility who are served with funds made available under this section.
+&emsp;As a condition of receiving financial assistance under subsection (f), each application shall develop a comprehensive reentry strategic plan that—
 
-#### (2) Coordination
+&emsp;&emsp;(A) contains a plan to assess inmate reentry needs and measurable annual and 3-year performance outcomes;
+
+&emsp;&emsp;(B) uses, to the maximum extent possible, randomly assigned and controlled studies, or rigorous quasi-experimental studies with matched comparison groups, to determine the effectiveness of the program funded with a grant under subsection (f); and
+
+&emsp;&emsp;(C) includes as a goal of the plan to reduce the rate of recidivism for offenders released from prison, jail or a juvenile facility with funds made available under subsection (f).
+
+#### (2) Local evaluator
+
+&emsp;A partnership with a local evaluator described in subsection (d)(2) shall require the local evaluator to use the baseline data and target population characteristics developed under a subsection (e) planning grant to derive a target goal for recidivism reduction during the 3-year period beginning on the date of implementation of the program.
+
+#### (3) Coordination
 
 &emsp;In developing a reentry plan under this subsection, an applicant shall coordinate with communities and stakeholders, including persons in the fields of public safety, juvenile and adult corrections, housing, health, education, substance abuse, children and families, victims services, employment, and business and members of nonprofit organizations that can provide reentry services.
 
-#### (3) Measurements of progress
+#### (4) Measurements of progress
 
 &emsp;Each reentry plan developed under this subsection shall measure the progress of the applicant toward increasing public safety by reducing rates of recidivism and enabling released offenders to transition successfully back into their communities.
 
@@ -128,11 +202,11 @@ The Attorney General shall give priority to grant applications under this sectio
 
 #### (1) In general
 
-&emsp;As a condition of receiving financial assistance under this section, each applicant shall establish or empower a Reentry Task Force, or other relevant convening authority, to—
+&emsp;As a condition of receiving financial assistance under subsection (f), each applicant shall establish or empower a Reentry Task Force, or other relevant convening authority, to—
 
-&emsp;&emsp;(A) examine ways to pool resources and funding streams to promote lower recidivismrates for returning offenders and minimize the harmful effects of offenders' time in prison, jail, or a juvenile facility on families and communities of offenders by collecting data and best practices in offender reentry from demonstration grantees and other agencies and organizations; and
+&emsp;&emsp;(A) examine ways to pool resources and funding streams to promote lower recidivism rates for returning offenders and minimize the harmful effects of offenders' time in prison, jail, or a juvenile facility on families and communities of offenders by collecting data and best practices in offender reentry from demonstration grantees and other agencies and organizations; and
 
-&emsp;&emsp;(B) provide the analysis described in subsection (e)(4).
+&emsp;&emsp;(B) provide the analysis described in subsection (f)(2)(D).
 
 #### (2) Membership
 
@@ -154,7 +228,7 @@ The Attorney General shall give priority to grant applications under this sectio
 
 #### (1) In general
 
-&emsp;Each applicant shall identify in the reentry strategic plan developed under subsection (h), specific performance outcomes relating to the long-term goals of increasing public safety and reducing recidivism.
+&emsp;Each applicant for an implementation grant under subsection (f) shall identify in the reentry strategic plan developed under subsection (h), specific performance outcomes relating to the long-term goals of increasing public safety and reducing recidivism.
 
 #### (2) Performance outcomes
 
@@ -168,25 +242,39 @@ The Attorney General shall give priority to grant applications under this sectio
 
 &emsp;&emsp;(D) reduction in violations of conditions of supervised release;
 
-&emsp;&emsp;(E) increased payment of child support;
+&emsp;&emsp;(E) increased payment of child support, where appropriate;
 
-&emsp;&emsp;(F) increased housing opportunities;
+&emsp;&emsp;(F) increased number of staff trained to administer reentry services;
 
-&emsp;&emsp;(G) reduction in drug and alcohol abuse; and
+&emsp;&emsp;(G) increased proportion of individuals served by the program among those eligible to receive services;
 
-&emsp;&emsp;(H) increased participation in substance abuse and mental health services.
+&emsp;&emsp;(H) increased number of individuals receiving risk screening needs assessment, and case planning services;
+
+&emsp;&emsp;(I) increased enrollment in, and completion of treatment services, including substance abuse and mental health services among those assessed as needing such services;
+
+&emsp;&emsp;(J) increased enrollment in and degrees earned from educational programs, including high school, GED, vocational training, and college education;
+
+&emsp;&emsp;(K) increased number of individuals obtaining and retaining employment;
+
+&emsp;&emsp;(L) increased number of individuals obtaining and maintaining housing;
+
+&emsp;&emsp;(M) increased self-reports of successful community living, including stability of living situation and positive family relationships;
+
+&emsp;&emsp;(N) reduction in drug and alcohol use; and
+
+&emsp;&emsp;(O) reduction in recidivism rates for individuals receiving reentry services after release, as compared to either baseline recidivism rates in the jurisdiction of the grantee or recidivism rates of the control or comparison group.
 
 #### (3) Other outcomes
 
-&emsp;A grantee under this section may include in the reentry strategic plan developed under subsection (h) other performance outcomes that increase the success rates of offenders who transition from prison, jails, or juvenile facilities.
+&emsp;A grantee under this section may include in the reentry strategic plan developed under subsection (h) other performance outcomes that increase the success rates of offenders who transition from prison, jails, or juvenile facilities, including a cost-benefit analysis to determine the cost effectiveness of the reentry program.
 
 #### (4) Coordination
 
-&emsp;A grantee under this section shall coordinate with communities and stakeholders about the selection of performance outcomes identified by the applicant, and shall consult with the Attorney General for assistance with data collection and measurement activities as provided for in the grant application materials.
+&emsp;A grantee under subsection (f) shall coordinate with communities and stakeholders about the selection of performance outcomes identified by the applicant, and shall consult with the Attorney General for assistance with data collection and measurement activities as provided for in the grant application materials.
 
 #### (5) Report
 
-&emsp;Each grantee under this section shall submit to the Attorney General an annual report that—
+&emsp;Each grantee under subsection (f) shall submit to the Attorney General an annual report that—
 
 &emsp;&emsp;(A) identifies the progress of the grantee toward achieving its strategic performance outcomes; and
 
@@ -196,15 +284,15 @@ The Attorney General shall give priority to grant applications under this sectio
 
 #### (1) In general
 
-&emsp;The Attorney General, in consultation with grantees under this section, shall—
+&emsp;The Attorney General, in consultation with grantees under subsection (f), shall—
 
-&emsp;&emsp;(A) identify primary and secondary sources of information to support the measurement of the performance indicators identified under this section;
+&emsp;&emsp;(A) identify primary and secondary sources of information to support the measurement of the performance indicators identified under subsection (f);
 
-&emsp;&emsp;(B) identify sources and methods of data collection in support of performance measurement required under this section;
+&emsp;&emsp;(B) identify sources and methods of data collection in support of performance measurement required under subsection (f);
 
-&emsp;&emsp;(C) provide to all grantees technical assistance and training on performance measures and data collection for purposes of this section; and
+&emsp;&emsp;(C) provide to all grantees technical assistance and training on performance measures and data collection for purposes of subsection (f); and
 
-&emsp;&emsp;(D) consult with the Substance Abuse and Mental Health Services Administration and the National Institute on Drug Abuse on strategic performance outcome measures and data collection for purposes of this section relating to substance abuse and mental health.
+&emsp;&emsp;(D) consult with the Substance Abuse and Mental Health Services Administration and the National Institute on Drug Abuse on strategic performance outcome measuresand data collection for purposes of subsection (f) relating to substance abuse and mental health.
 
 #### (2) Coordination
 
@@ -220,11 +308,11 @@ To be eligible to receive a grant under this section in any fiscal year after th
 
 &emsp;(1) the grantee has adopted a reentry plan that reflects input from nonprofit organizations, in any case where relevant input is available and appropriate to the grant application;
 
-&emsp;(2) the reentry plan of the grantee includes performance measures to assess progress of the grantee toward a 10 percent reduction in the rate of recidivism over a 2-year period;
+&emsp;(2) the reentry plan of the grantee includes performance measures to assess progress of the grantee toward a 10 percent reduction in the rate of recidivism over a 2-year period beginning on the date on which the most recent implementation grant is made to the grantee under subsection (f);
 
 &emsp;(3) the grantee will coordinate with the Attorney General, nonprofit organizations (if relevant input from nonprofit organizations is available and appropriate), and other experts regarding the selection and implementation of the performance measures described in subsection (k); and
 
-&emsp;(4) the grantee has made adequate progress, as determined by the Attorney General, toward reducing the rate of recidivism by 10 percent over a 2-year period.
+&emsp;(4) the grantee has made adequate progress, as determined by the Attorney General, toward reducing the rate of recidivism by 10 percent during the 2-year period described in paragraph (2).
 
 #### (m) National Adult and Juvenile Offender Reentry Resource Center
 
@@ -278,7 +366,7 @@ Of amounts made available to carry out this section—
 
 #### (1) In general
 
-&emsp;To carry out this section, there are authorized to be appropriated $55,000,000 for each of fiscal years 2009 and 2010.
+&emsp;To carry out this section, there are authorized to be appropriated $35,000,000 for each of fiscal years 2019 through 2023.
 
 #### (2) Limitation; equitable distribution
 
@@ -290,7 +378,51 @@ Of amounts made available to carry out this section—
 
 &emsp;&emsp;The Attorney General shall ensure that grants awarded under this section are equitably distributed among the geographical regions and between urban and rural populations, including Indian Tribes, consistent with the objective of reducing recidivism among criminal offenders.
 
-(Pub. L. 90–351, title I, §2976, as added Pub. L. 107–273, div. B, title II, §2421(a), Nov. 2, 2002, 116 Stat. 1801; amended Pub. L. 110–199, title I, §101, Apr. 9, 2008, 122 Stat. 661; Pub. L. 114–255, div. B, title XIV, §§14006, 14009(a), Dec. 13, 2016, 130 Stat. 1296, 1297.)
+#### (p) Definition
+
+In this section, the term "reentry court" means a program that—
+
+&emsp;(1) monitors juvenile and adult eligible offenders reentering the community;
+
+&emsp;(2) provides continual judicial supervision;
+
+&emsp;(3) provides juvenile and adult eligible offenders reentering the community with coordinated and comprehensive reentry services and programs, such as—
+
+&emsp;&emsp;(A) drug and alcohol testing and assessment for treatment;
+
+&emsp;&emsp;(B) assessment for substance abuse from a substance abuse professional who is approved by the State or Indian tribe and licensed by the appropriate entity to provide alcohol and drug addiction treatment, as appropriate;
+
+&emsp;&emsp;(C) substance abuse treatment, including medication-assisted treatment, from a provider that is approved by the State or Indian tribe, and licensed, if necessary, to provide medical and other health services;
+
+&emsp;&emsp;(D) health (including mental health) services and assessment;
+
+&emsp;&emsp;(E) aftercare and case management services that—
+
+&emsp;&emsp;&emsp;(i) facilitate access to clinical care and related health services; and
+
+&emsp;&emsp;&emsp;(ii) coordinate with such clinical care and related health services; and
+
+&emsp;&emsp;(F) any other services needed for reentry;
+
+&emsp;(4) convenes community impact panels, victim impact panels, or victim impact educational classes;
+
+&emsp;(5) provides and coordinates the delivery of community services to juvenile and adult eligible offenders, including—
+
+&emsp;&emsp;(A) housing assistance;
+
+&emsp;&emsp;(B) education;
+
+&emsp;&emsp;(C) job training;
+
+&emsp;&emsp;(D) conflict resolution skills training;
+
+&emsp;&emsp;(E) batterer intervention programs; and
+
+&emsp;&emsp;(F) other appropriate social services; and
+
+&emsp;(6) establishes and implements graduated sanctions and incentives.
+
+(Pub. L. 90–351, title I, §2976, as added Pub. L. 107–273, div. B, title II, §2421(a), Nov. 2, 2002, 116 Stat. 1801; amended Pub. L. 110–199, title I, §101, Apr. 9, 2008, 122 Stat. 661; Pub. L. 114–255, div. B, title XIV, §§14006, 14009(a), Dec. 13, 2016, 130 Stat. 1296, 1297; Pub. L. 115–391, title V, §502(a), Dec. 21, 2018, 132 Stat. 5222.)
 
 #### References in Text
 
@@ -301,6 +433,50 @@ Section 60541(d)(3)(B) of this title, referred to in subsec. (j)(2)(A), was in t
 Section was formerly classified to section 3797w of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a). Pub. L. 115–391, §502(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Attorney General shall make grants of up to $1,000,000 to States, local governments, territories, or Indian Tribes, or any combination thereof, in partnership with stakeholders, service providers, and nonprofit organizations."
+
+Subsec. (b)(3). Pub. L. 115–391, §502(a)(2)(A), inserted "or reentry courts," after "community,".
+
+Subsec. (b)(8). Pub. L. 115–391, §502(a)(2)(B)–(D), added par. (8).
+
+Subsecs. (d) to (f). Pub. L. 115–391, §502(a)(3), added subsecs. (d) to (f) and struck out former subsecs. (d) to (f) which related to applications, requirements, and priority considerations for grants, respectively.
+
+Subsec. (h)(1), (2). Pub. L. 115–391, §502(a)(4)(B), added pars. (1) and (2) and struck out former par. (1). Prior to amendment, text of former par. (1) read as follows: "As a condition of receiving financial assistance under this section, each applicant shall develop a comprehensive strategic reentry plan that contains measurable annual and 5-year performance outcomes, and that uses, to the maximum extent possible, random assigned and controlled studies to determine the effectiveness of the program funded with a grant under this section. One goal of that plan shall be to reduce the rate of recidivism (as defined by the Attorney General, consistent with the research on offender reentry undertaken by the Bureau of Justice Statistics) by 50 percent over a 5-year period for offenders released from prison, jail, or a juvenile facility who are served with funds made available under this section." Former par. (2) redesignated (3).
+
+Subsec. (h)(3), (4). Pub. L. 115–391, §502(a)(4)(A), redesignated pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (i)(1). Pub. L. 115–391, §502(a)(5)(A), substituted "under subsection (f)" for "under this section" in introductory provisions.
+
+Subsec. (i)(1)(B). Pub. L. 115–391, §502(a)(5)(B), substituted "subsection (f)(2)(D)" for "subsection (e)(4)".
+
+Subsec. (j)(1). Pub. L. 115–391, §502(a)(6)(A), inserted "for an implementation grant under subsection (f)" after "applicant".
+
+Subsec. (j)(2)(E). Pub. L. 115–391, §502(a)(6)(B)(i), inserted ", where appropriate" after "support".
+
+Subsec. (j)(2)(F) to (O). Pub. L. 115–391, §502(a)(6)(B)(ii), added subpars. (F) to (O) and struck out former subpars. (F) to (H) which read as follows:
+
+"(F) increased housing opportunities;
+
+"(G) reduction in drug and alcohol abuse; and
+
+"(H) increased participation in substance abuse and mental health services."
+
+Subsec. (j)(3). Pub. L. 115–391, §502(a)(6)(C), substituted "facilities, including a cost-benefit analysis to determine the cost effectiveness of the reentry program." for "facilities."
+
+Subsec. (j)(4). Pub. L. 115–391, §502(a)(6)(D), substituted "subsection (f)" for "this section".
+
+Subsec. (j)(5). Pub. L. 115–391, §502(a)(6)(E), substituted "subsection (f)" for "this section" in introductory provisions.
+
+Subsec. (k)(1). Pub. L. 115–391, §502(a)(7), substituted "subsection (f)" for "this section" wherever appearing.
+
+Subsec. (l)(2). Pub. L. 115–391, §502(a)(8)(A), inserted "beginning on the date on which the most recent implementation grant is made to the grantee under subsection (f)" after "2-year period".
+
+Subsec. (l)(4). Pub. L. 115–391, §502(a)(8)(B), substituted "during the 2-year period described in paragraph (2)" for "over a 2-year period".
+
+Subsec. (o)(1). Pub. L. 115–391, §502(a)(9), substituted "appropriated $35,000,000 for each of fiscal years 2019 through 2023." for "appropriated $55,000,000 for each of fiscal years 2009 and 2010."
+
+Subsec. (p). Pub. L. 115–391, §502(a)(10), added subsec. (p).
 
 <b>2016</b>—Subsec. (f)(3)(C). Pub. L. 114–255, §14009(a)(1), inserted "mental health services," before "drug treatment".
 

@@ -6,7 +6,7 @@ The Secretary may cooperate with agencies of the United States government,<sup>1
 
 #### (b) Scientific and other programs; facilities and personnel
 
-All Federal agencies are authorized, upon the request of the Secretary, to cooperate in theconduct of scientific and other programs and to furnish facilities and personnel for the purpose of assisting the Commission in carrying out its duties under the WCPFC Convention.
+All Federal agencies are authorized, upon the request of the Secretary, to cooperate in the conduct of scientific and other programs and to furnish facilities and personnel for the purpose of assisting the Commission in carrying out its duties under the WCPFC Convention.
 
 #### (c) Sanctioned fishing operations and biological experiments
 

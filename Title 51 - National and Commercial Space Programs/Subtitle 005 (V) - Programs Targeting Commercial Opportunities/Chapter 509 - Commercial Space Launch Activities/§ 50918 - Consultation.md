@@ -60,7 +60,7 @@ In subsection (c), before clause (1), the words "the head of" and "executive" ar
 
 #### Streamline Commercial Space Launch Activities
 
-Pub. L. 114–92, div. A, title XVI, §1617, Nov. 25, 2015, 129 Stat. 1106, provided that:
+Pub. L. 114–92, div. A, title XVI, §1617, Nov. 25, 2015, 129 Stat. 1106, as amended by Pub. L. 115–232, div. A, title XVI, §1606, Aug. 13, 2018, 132 Stat. 2107, provided that:
 
 "(a)
 
@@ -96,6 +96,22 @@ In general.—The Secretary of Transportation under section 50918 of title 51, U
 
 &emsp;"(2)
 
+Streamlining.—
+
+&emsp;&emsp;"(A)
+
+In general.—With respect to any licensed activity under chapter 509 of title 51, United States Code, the Secretary of Defense may not impose any requirement on a licensee or transferee that is duplicative of, or overlaps in intent with, any requirement imposed by the Secretary of Transportation under that chapter.
+
+&emsp;&emsp;"(B)
+
+Waiver.—The Secretary of the Air Force may waive the limitation under subparagraph (A) if—
+
+&emsp;&emsp;&emsp;"(i) the Secretary determines that imposing a requirement described in that subparagraph is necessary to avoid negative consequences for the national security space program; and
+
+&emsp;&emsp;&emsp;"(ii) the Secretary notifies the Secretary of Transportation of such determination before making such waiver.
+
+&emsp;"(3)
+
 Reports.—Not later than 180 days after the date of enactment of this Act \[Nov. 25, 2015\], and annually thereafter until the Secretary of Transportation determines no outmoded or duplicative requirements or approvals of the Federal Government exist, the Secretary of Transportation, in consultation with the Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, the commercial space sector, and the heads of other executive agencies, as appropriate, shall submit to the appropriate congressional committees a report that includes the following:
 
 &emsp;&emsp;"(A) A description of the process for the application for and approval of a permit or license under chapter 509 of title 51, United States Code, for the commercial launch of a launch vehicle or commercial reentry of a reentry vehicle, including the identification of—
@@ -110,9 +126,9 @@ Reports.—Not later than 180 days after the date of enactment of this Act \[Nov
 
 &emsp;&emsp;&emsp;"(i) streamline requirements in order to improve efficiency, reduce unnecessary costs, resolve inconsistencies, remove duplication, and minimize unwarranted constraints; and
 
-&emsp;&emsp;&emsp;"(ii) consolidate or modify requirements across affected agencies into a single application set that satisfies the requirements identified in paragraph (1)(A).
+&emsp;&emsp;&emsp;"(ii) consolidate or modify requirements across affected agencies into a single application setthat satisfies the requirements identified in paragraph (1)(A).
 
-&emsp;"(3)
+&emsp;"(4)
 
 Definitions.—For purposes of this subsection—
 
@@ -130,7 +146,11 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;"(C) the terms 'launch', 'reenter', and 'reentry' include landing of a launch vehicle or reentry vehicle; and
 
-&emsp;&emsp;"(D) the terms 'United States Government launch site' and 'United States Government reentry site' include any necessary facility, at that location, that is commercially operated on United States Government property."
+&emsp;&emsp;"(D) the terms 'United States Government launch site' and 'United States Government reentry site' include any necessary facility, at that location, that is commercially operated on United States Government property.
+
+"(d)
+
+Rule of Construction.—Nothing in this section shall be construed to limit the ability of the Secretary of Defense to consult with the Secretary of Transportation with respect to requirements and approvals under chapter 509 of title 51, United States Code."
 
 Substantially identical provisions were contained in the following act:
 

@@ -198,7 +198,7 @@ In this title: <sup>1</sup>
 
 #### References in Text
 
-This title, referred to in text, is title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1596, which enacted this subchapter, part C (§6341 et seq.) of subchapter III of chapter 77 of this title, sections 6371h–1 and 7628 of this title, and subchapter V (§2695 et seq.) of chapter 53 ofTitle 15, Commerce and Trade, amended sections 6832, 6834, 6862, 6872, 8253, 8254, and 12709 of this title, and enacted provisions set out as notes under sections 6834 and 6872 of this title. For complete classification of title IV to the Code, see Tables.
+This title, referred to in text, is title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1596, which enacted this subchapter, part C (§6341 et seq.) of subchapter III of chapter 77 of this title, sections 6371h–1 and 7628 of this title, and subchapter V (§2695 et seq.) of chapter 53 of Title 15, Commerce and Trade, amended sections 6832, 6834, 6862, 6872, 8253, 8254, and 12709 of this title, and enacted provisions set out as notes under sections 6834 and 6872 of this title. For complete classification of title IV to the Code, see Tables.
 
 Section 484, referred to in par. (2), probably should be a reference to section 494 of Pub. L. 110–140, which is classified to section 17123 of this title.
 

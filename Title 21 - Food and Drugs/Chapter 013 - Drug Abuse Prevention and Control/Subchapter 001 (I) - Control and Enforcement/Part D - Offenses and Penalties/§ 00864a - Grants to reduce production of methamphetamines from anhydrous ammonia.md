@@ -36,7 +36,7 @@ The amount of a grant made under this section to an eligible entity shall be the
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary to make grants under this section$15,000,000 for the period of fiscal years 2008 through 2012.
+There is authorized to be appropriated to the Secretary to make grants under this section $15,000,000 for the period of fiscal years 2008 through 2012.
 
 (Pub. L. 110–234, title XIV, §14203, May 22, 2008, 122 Stat. 1458; Pub. L. 110–246, §4(a), title XIV, §14203, June 18, 2008, 122 Stat. 1664, 2220.)
 

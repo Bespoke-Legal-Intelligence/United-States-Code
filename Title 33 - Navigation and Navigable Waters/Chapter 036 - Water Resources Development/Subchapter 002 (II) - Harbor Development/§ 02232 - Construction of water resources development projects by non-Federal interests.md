@@ -4,7 +4,7 @@
 
 In this section, the term "water resources development project" means a project recommendation that results from—
 
-&emsp;(1) a feasibility report, as such term is defined in section 2282d(f) of this title;
+&emsp;(1) a feasibility report, as such term is defined in section 2282d(f) <sup>1</sup> of this title;
 
 &emsp;(2) a completed feasibility study developed under section 2231 of this title; or
 
@@ -14,7 +14,7 @@ In this section, the term "water resources development project" means a project 
 
 #### (1) In general
 
-&emsp;A non-Federal interest may carry out a water resources development project, or separable element thereof—
+&emsp;A non-Federal interest may carry out a federally authorized water resources development project, or separable element thereof—
 
 &emsp;&emsp;(A) in accordance with a plan approved by the Secretary for the project or separable element; and
 
@@ -24,13 +24,55 @@ In this section, the term "water resources development project" means a project 
 
 &emsp;Before carrying out a water resources development project, or separable element thereof, under this section, a non-Federal interest shall—
 
-&emsp;&emsp;(A) obtain any permit or approval required in connection with the project or separable element under Federal or State law; and
+&emsp;&emsp;(A) obtain any permit or approval required in connection with the project or separable element under Federal or State law, except as provided in paragraph (3); and
 
 &emsp;&emsp;(B) ensure that a final environmental impact statement or environmental assessment, as appropriate, for the project or separable element has been filed.
 
+#### (3) Permit exception
+
+#### (A) In general
+
+&emsp;&emsp;For a project described in subsection (a)(1) or subsection (a)(3), or a separable element thereof, with respect to which a written agreement described in subparagraph (B) has been entered into, a non-Federal interest that carries out a project under this section shall not be required to obtain any Federal permits or approvals that would not be required if the Secretary carried out the project or separable element unless significant new circumstances or information relevant to environmental concerns or compliance have arisen since development of the project recommendation.
+
+#### (B) Written agreement
+
+&emsp;&emsp;For purposes of this paragraph, a written agreement shall provide that the non-Federal interest shall comply with the same legal and technical requirements that would apply if the project or separable element were carried out by the Secretary, including all mitigation required to offset environmental impacts of the project or separable element as determined by the Secretary.
+
+#### (C) Certifications
+
+&emsp;&emsp;Notwithstanding subparagraph (A), if a non-Federal interest carrying out a project under this section would, in the absence of a written agreement entered into under this paragraph, be required to obtain a certification from a State under Federal law to carry out the project, such certification shall still be required if a written agreement is entered into with respect to the project under this paragraph.
+
+#### (4) Data sharing
+
+#### (A) In general
+
+&emsp;&emsp;If a non-Federal interest for a water resources development project begins to carry out that water resources development project under this section, the non-Federal interest may request that the Secretary transfer to the non-Federal interest all relevant data and documentation under the control of the Secretary with respect to that water resources development project.
+
+#### (B) Deadline
+
+&emsp;&emsp;Except as provided in subparagraph (C), the Secretary shall transfer the data and documentation requested by a non-Federal interest under subparagraph (A) not later than the date that is 90 days after the date on which the non-Federal interest so requests such data and documentation.
+
+#### (C) Limitation
+
+&emsp;&emsp;Nothing in this paragraph obligates the Secretary to share any data or documentation that the Secretary considers to be proprietary information.
+
 #### (c) Studies and engineering
 
-When requested by an appropriate non-Federal interest, the Secretary may undertake all necessary studies and engineering for any construction to be undertaken under subsection (b), and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance in the period during which the studies and engineering are being conducted.
+#### (1) In general
+
+&emsp;When requested by an appropriate non-Federal interest, the Secretary shall undertake all necessary studies, engineering, and technical assistance on construction for any project to be undertaken under subsection (b), and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance on construction in the period during which the studies, engineering, or technical assistance on construction are being conducted.
+
+#### (2) No waiver
+
+&emsp;Nothing in this section may be construed to waive any requirement of section 3142 of title 40.
+
+#### (3) Limitation
+
+&emsp;Funds provided by non-Federal interests under this subsection shall not be eligible for credit or reimbursement under subsection (d).
+
+#### (4) Impartial decisionmaking
+
+&emsp;In carrying out this section, the Secretary shall ensure that the use of funds accepted from a non-Federal interest will not affect the impartial decisionmaking of the Secretary, either substantively or procedurally.
 
 #### (d) Credit or reimbursement
 
@@ -46,7 +88,7 @@ When requested by an appropriate non-Federal interest, the Secretary may underta
 
 &emsp;&emsp;&emsp;(iii) the non-Federal interest enters into a written agreement with the Secretary under section 1962d–5b of title 42, including an agreement to pay the non-Federal share, if any, of the cost of operation and maintenance of the project; and
 
-&emsp;&emsp;(B) the Secretary determines that all Federal laws and regulations applicable to theconstruction of a water resources development project, and any conditions identified under subsection (b)(1)(B), were complied with by the non-Federal interest during construction of the project or separable element of the project.
+&emsp;&emsp;(B) the Secretary determines that all Federal laws and regulations applicable to the construction of a water resources development project, and any conditions identified under subsection (b)(1)(B), were complied with by the non-Federal interest during construction of the project or separable element of the project.
 
 #### (2) Application of credit
 
@@ -60,13 +102,15 @@ When requested by an appropriate non-Federal interest, the Secretary may underta
 
 &emsp;The Secretary may only apply credit or provide reimbursement under paragraph (1) if—
 
-&emsp;&emsp;(A) Congress has authorized construction of the project or separable element of the project; and
+&emsp;&emsp;(A) Congress has authorized construction of the project or separable element of the project;
 
 &emsp;&emsp;(B) the Secretary certifies that the project has been constructed in accordance with—
 
 &emsp;&emsp;&emsp;(i) all applicable permits or approvals; and
 
-&emsp;&emsp;&emsp;(ii) this section.
+&emsp;&emsp;&emsp;(ii) this section; and
+
+&emsp;&emsp;(C) in the case of reimbursement, appropriations are provided by Congress for such purpose.
 
 #### (4) Monitoring
 
@@ -80,7 +124,7 @@ When requested by an appropriate non-Federal interest, the Secretary may underta
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may authorize credit or reimbursement under this subsection for a discrete segment of a flood damage reduction project, or separable element thereof, before final completion of the project or separable element if—
+&emsp;&emsp;The Secretary may authorize credit or reimbursement under this subsection for carrying out a discrete segment of a federally authorized water resources development project, or separable element thereof, before final completion of the project or separable element if—
 
 &emsp;&emsp;&emsp;(i) except as provided in clause (ii), the Secretary determines that the discrete segment satisfies the requirements of paragraphs (1) through (4) in the same manner as the project or separable element; and
 
@@ -92,7 +136,7 @@ When requested by an appropriate non-Federal interest, the Secretary may underta
 
 &emsp;&emsp;&emsp;(i) the construction of the discrete segment for which credit or reimbursement is requested is complete; and
 
-&emsp;&emsp;&emsp;(ii) the construction is consistent with the authorization of the applicable flood damage reduction project, or separable element thereof, and the plans approved under paragraph (1)(A)(i).
+&emsp;&emsp;&emsp;(ii) the construction is consistent with the authorization of the applicable water resources development project, or separable element thereof, and the plans approved under paragraph (1)(A)(i).
 
 #### (C) Written agreement
 
@@ -102,19 +146,19 @@ When requested by an appropriate non-Federal interest, the Secretary may underta
 
 &emsp;&emsp;&emsp;&emsp;(I) identify any discrete segment that the non-Federal interest may carry out; and
 
-&emsp;&emsp;&emsp;&emsp;(II) agree to the completion of the flood damage reduction project, or separable element thereof, with respect to which the discrete segment is a part and establish a timeframe for such completion.
+&emsp;&emsp;&emsp;&emsp;(II) agree to the completion of the water resources development project, or separable element thereof, with respect to which the discrete segment is a part and establish a timeframe for such completion.
 
 #### (ii) Remittance
 
-&emsp;&emsp;&emsp;If a non-Federal interest fails to complete a flood damage reduction project, or separable element thereof, that it agreed to complete under clause (i)(II), the non-Federal interest shall remit any reimbursements received under this paragraph for a discrete segment of such project or separable element.
+&emsp;&emsp;&emsp;If a non-Federal interest fails to complete a water resources development project, or separable element thereof, that it agreed to complete under clause (i)(II),the non-Federal interest shall remit any reimbursements received under this paragraph for a discrete segment of such project or separable element.
 
 #### (D) Discrete segment defined
 
-&emsp;&emsp;In this paragraph, the term "discrete segment" means a physical portion of a flood damage reduction project, or separable element thereof—
+&emsp;&emsp;In this paragraph, the term "discrete segment" means a physical portion of a water resources development project to be carried out, or separable element thereof—
 
 &emsp;&emsp;&emsp;(i) described by a non-Federal interest in a written agreement required under paragraph (1)(A)(iii); and
 
-&emsp;&emsp;&emsp;(ii) that the non-Federal interest can operate and maintain, independently and without creating a hazard, in advance of final completion of the flood damage reduction project, or separable element thereof.
+&emsp;&emsp;&emsp;(ii) that the non-Federal interest can operate and maintain, independently and without creating a hazard, in advance of final completion of the water resources development project, or separable element thereof.
 
 #### (e) Notification of committees
 
@@ -134,9 +178,29 @@ Whenever a non-Federal interest carries out improvements to a federally authoriz
 
 &emsp;(3) the Secretary does not find that the project or separable element is no longer feasible.
 
-(Pub. L. 99–662, title II, §204, Nov. 17, 1986, 100 Stat. 4099; Pub. L. 101–640, title III, §303, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 113–121, title I, §1014(b)(1), June 10, 2014, 128 Stat. 1220; Pub. L. 114–322, title I, §1127, Dec. 16, 2016, 130 Stat. 1648.)
+(Pub. L. 99–662, title II, §204, Nov. 17, 1986, 100 Stat. 4099; Pub. L. 101–640, title III, §303, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 113–121, title I, §1014(b)(1), June 10, 2014, 128 Stat. 1220; Pub. L. 114–322, title I, §1127, Dec. 16, 2016, 130 Stat. 1648; Pub. L. 115–270, title I, §1153, Oct. 23, 2018, 132 Stat. 3789.)
+
+#### References in Text
+
+Section 2282d(f) of this title, referred to in subsec. (a)(1), was redesignated section 2282(g) of this title by Pub. L. 115–270, title I, §1332(a)(3), Oct. 23, 2018, 132 Stat. 3834.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–270, §1153(1)(A), inserted "federally authorized" before "water resources development project" in introductory provisions.
+
+Subsec. (b)(2)(A). Pub. L. 115–270, §1153(1)(B), inserted ", except as provided in paragraph (3)" after "Federal or State law".
+
+Subsec. (b)(3), (4). Pub. L. 115–270, §1153(1)(C), added pars. (3) and (4).
+
+Subsec. (c). Pub. L. 115–270, §1153(2), amended subsec. (c) generally. Prior to amendment, text read as follows: "When requested by an appropriate non-Federal interest, the Secretary may undertake all necessary studies and engineering for any construction to be undertaken under subsection (b), and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance in the period during which the studies and engineering are being conducted."
+
+Subsec. (d)(3)(C). Pub. L. 115–270, §1153(3)(A), added subpar. (C).
+
+Subsec. (d)(5). Pub. L. 115–270, §1153(3)(B)(i), substituted "water resources development" for "flood damage reduction" wherever appearing.
+
+Subsec. (d)(5)(A). Pub. L. 115–270, §1153(3)(B)(ii), substituted "for carrying out a discrete segment of a federally authorized" for "for a discrete segment of a" in introductory provisions.
+
+Subsec. (d)(5)(D). Pub. L. 115–270, §1153(3)(B)(iii), inserted "to be carried out" after "project" in introductory provisions.
 
 <b>2016</b>—Subsec. (d)(5). Pub. L. 114–322 added par. (5).
 
@@ -162,6 +226,42 @@ Pub. L. 113–121, title I, §1014(d), June 10, 2014, 128 Stat. 1222, provided t
 
 &emsp;"(3) Section 211 of the Water Resources Development Act of 1996 (33 U.S.C. 701b–13)."
 
+#### Preconstruction Engineering Design Demonstration Program
+
+Pub. L. 115–270, title I, §1176, Oct. 23, 2018, 132 Stat. 3801, provided that:
+
+"(a)
+
+Definition of Environmental Impact Statement.—In this section, the term 'environmental impact statement' means the detailed written statement required under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)).
+
+"(b)
+
+Demonstration Program.—The Secretary \[of the Army\] shall establish a demonstration program to allow a project authorized to execute pursuant to \[former\] section 211 of the Water Resources Development Act of 1996 (33 U.S.C. 701b–13) (as in effect on the day before the date of enactment of the Water Resources Reform and Development Act of 2014 (128 Stat. 1193) \[June 10, 2014\]) to begin preconstruction engineering and design on a determination by the Secretary that the project is technically feasible, economically justified, and environmentally acceptable.
+
+"(c)
+
+Requirements.—For each project authorized to begin preconstruction engineering and design under subsection (b)—
+
+&emsp;"(1) the project shall conform to the feasibility study and the environmental impact statement approved by the Secretary; and
+
+&emsp;"(2) the Secretary and the non-Federal sponsor shall jointly agree to the construction design of the project.
+
+"(d)
+
+Secretary Review of Potential Adverse Impacts.—When reviewing the feasibility study and the environmental impact statement for a project under subsection (b), the Secretary shall follow current USACE Policy, Regulations, and Guidance, to assess potential adverse downstream impacts to the Pearl River Basin. Upon completion of the Secretary's determination under subsection (b), the non-Federal sponsor shall design the project in a manner that addresses any potential adverse impacts or that provides mitigation in accordance with section 906 of the Water Resources Development Act of 1986 (33 U.S.C. 2283).
+
+"(e)
+
+Sunset.—The authority to carry out the demonstration program under this section shall terminate on the date that is 5 years after the date of enactment of this Act \[Oct. 23, 2018\].
+
+"(f)
+
+Savings Provision.—Nothing in this section supersedes, precludes, or affects any applicable requirements for a project under subsection (b) under—
+
+&emsp;"(1) section 906 of the Water Resources Development Act of 1986 (33 U.S.C. 2283); or
+
+&emsp;"(2) the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.)."
+
 #### Navigation Safety
 
 Pub. L. 114–322, title I, §1102, Dec. 16, 2016, 130 Stat. 1633, provided that: "The Secretary \[of the Army\] shall use section 5 of the Act of March 4, 1915 (38 Stat. 1053, chapter 142; 33 U.S.C. 562), to carry out navigation safety activities at those projects eligible for operation and maintenance under section 204(f) of the Water Resources Development Act of 1986 (33 U.S.C. 2232(f))."
@@ -173,4 +273,6 @@ Pub. L. 113–121, title I, §1016, June 10, 2014, 128 Stat. 1223, provided that
 #### Demonstration of Construction of Federal Project by Non-Federal Interests
 
 Pub. L. 101–640, title IV, §404, Nov. 28, 1990, 104 Stat. 4646, which related to the demonstration of safety benefits and economic efficiencies of non-Federal management of harbor improvement projects, was repealed by Pub. L. 113–121, title I, §1014(c)(1), June 10, 2014, 128 Stat. 1222.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

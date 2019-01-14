@@ -36,7 +36,7 @@ The Secretary may make grants to States and political subdivisions of States for
 
 (1) For the purpose of making grants under subsections (b) through (d), there are authorized to be appropriated $85,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1998.
 
-(2) Each recipient of a grant under this section shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the project or undertaking in connection with which such grant was given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(2) Each recipient of a grant under this section shall keep such records as the Secretary shallprescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the project or undertaking in connection with which such grant was given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 (3) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients of grants under this section that are pertinent to such grants.
 
@@ -96,7 +96,7 @@ Subsec. (c). Pub. L. 98–555, §3(b)(3), (6)(A), substituted "sexually transmit
 
 Subsec. (d). Pub. L. 98–555, §3(b)(5)(A), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 98–555, §3(a), (b)(4), (5), redesignated subsec. (d) as (e), and in par. (1) of subsec. (e) as so redesignated, substituted "(b), (c), and (d)" for "(b) and (c)", inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987, substituted "10 per centum" for "5 per centum", and inserted provisions directing that one-half the excess of appropriations in fiscal years 1985, 1986, and 1987 over certain amounts be made available for grants under subsec. (d). Notwithstanding language of section 3(b)(5)(B)(ii) directing the substitution of "(b), (c), or (d)" for "(b) or (c)" in second sentence of subsec. (e)(1),the amendment was executed by making the substitution in third sentence of subsec. (e)(1) to reflect the probable intent of Congress because "(b) or (c)" did not appear in second sentence. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 98–555, §3(a), (b)(4), (5), redesignated subsec. (d) as (e), and in par. (1) of subsec. (e) as so redesignated, substituted "(b), (c), and (d)" for "(b) and (c)", inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987, substituted "10 per centum" for "5 per centum", and inserted provisions directing that one-half the excess of appropriations in fiscal years 1985, 1986, and 1987 over certain amounts be made available for grants under subsec. (d). Notwithstanding language of section 3(b)(5)(B)(ii) directing the substitution of "(b), (c), or (d)" for "(b) or (c)" in second sentence of subsec. (e)(1), the amendment was executed by making the substitution in third sentence of subsec. (e)(1) to reflect the probable intent of Congress because "(b) or (c)" did not appear in second sentence. Former subsec. (e) redesignated (f).
 
 Subsecs. (f), (g). Pub. L. 98–555, §3(b)(5)(A), (6)(A), (C), redesignated subsecs. (e) and (f) as (f) and (g), respectively, in subsecs. (f) and (g) as so redesignated, substituted "sexually transmitted diseases" for "venereal disease", and struck out former subsec. (g) which defined venereal disease.
 
@@ -136,7 +136,7 @@ Subsec. (h). Pub. L. 94–317, §203(h), added subsec. (h). Former subsec. (h) r
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
+Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183,see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
 
 #### Distribution of Information on Acquired Immune Deficiency Syndrome by Director of Centers for Disease Control to Every American Household
 

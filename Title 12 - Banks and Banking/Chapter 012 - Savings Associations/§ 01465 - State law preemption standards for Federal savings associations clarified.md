@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any determination by a court or by the Director or any successor officer or agency regardingthe relation of State law to a provision of this chapter or any regulation or order prescribed under this chapter shall be made in accordance with the laws and legal standards applicable to national banks regarding the preemption of State law.
+Any determination by a court or by the Director or any successor officer or agency regarding the relation of State law to a provision of this chapter or any regulation or order prescribed under this chapter shall be made in accordance with the laws and legal standards applicable to national banks regarding the preemption of State law.
 
 #### (b) Principles of conflict preemption applicable
 

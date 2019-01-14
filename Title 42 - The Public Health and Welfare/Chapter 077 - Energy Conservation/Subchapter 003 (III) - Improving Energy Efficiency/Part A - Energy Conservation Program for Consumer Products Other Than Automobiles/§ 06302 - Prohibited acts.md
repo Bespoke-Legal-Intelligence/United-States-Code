@@ -52,7 +52,7 @@ Pub. L. 110–140, §306(b)(2), substituted "part, except to the extent that the
 
 Subsec. (a)(6). Pub. L. 110–140, §321(e)(3), added par. (6) relating to prohibition of distribution in commerce of certain adapters.
 
-Pub. L. 110–140, §306(b)(3), added par. (6) relating to sale of a product to a distributor, contractor, or dealerwith knowledge that the entity routinely violates a regional standard.
+Pub. L. 110–140, §306(b)(3), added par. (6) relating to sale of a product to a distributor, contractor, or dealer with knowledge that the entity routinely violates a regional standard.
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–12, §11(b)(5)(A), inserted heading.
 

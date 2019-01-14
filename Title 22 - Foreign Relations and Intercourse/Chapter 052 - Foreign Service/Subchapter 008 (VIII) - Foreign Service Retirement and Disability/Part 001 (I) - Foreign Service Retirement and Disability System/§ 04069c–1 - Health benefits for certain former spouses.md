@@ -34,7 +34,7 @@ Except as provided in subsection (c)(1), any individual—
 
 #### (d) Prohibition on coverage by more than one plan
 
-No individual may be covered by a health benefits plan under this section during any period in which such individual is enrolled in a health benefits plan under any other authority, nor may any individual be covered under more than one enrollment under this section.
+No individual may be covered by a health benefits plan under this section during any periodin which such individual is enrolled in a health benefits plan under any other authority, nor may any individual be covered under more than one enrollment under this section.
 
 #### (e) "Health benefits plan" defined
 

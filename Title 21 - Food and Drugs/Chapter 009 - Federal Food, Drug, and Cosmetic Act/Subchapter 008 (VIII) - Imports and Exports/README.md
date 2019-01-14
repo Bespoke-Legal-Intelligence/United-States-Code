@@ -14,3 +14,5 @@
 - [&sect; 00384c - Inspection of foreign food facilities](%C2%A7%2000384c%20-%20Inspection%20of%20foreign%20food%20facilities.md)
 - [&sect; 00384d - Accreditation of third-party auditors](%C2%A7%2000384d%20-%20Accreditation%20of%20third-party%20auditors.md)
 - [&sect; 00384e - Recognition of foreign government inspections](%C2%A7%2000384e%20-%20Recognition%20of%20foreign%20government%20inspections.md)
+- [&sect; 00384f - Strengthening FDA and CBP coordination and capacity](%C2%A7%2000384f%20-%20Strengthening%20FDA%20and%20CBP%20coordination%20and%20capacity.md)
+- [&sect; 00384g - Restricting entrance of illicit drugs](%C2%A7%2000384g%20-%20Restricting%20entrance%20of%20illicit%20drugs.md)

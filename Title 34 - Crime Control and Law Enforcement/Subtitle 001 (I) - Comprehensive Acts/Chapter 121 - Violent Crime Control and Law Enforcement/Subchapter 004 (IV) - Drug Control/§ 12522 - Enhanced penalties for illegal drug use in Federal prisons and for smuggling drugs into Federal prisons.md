@@ -10,7 +10,7 @@ Pursuant to its authority under section 994 of title 28, the United States Sente
 
 &emsp;(1) under section 844 of title 21 involving simple possession of a controlled substance within a Federal prison or other Federal detention facility; or
 
-&emsp;(2) under section 841(b) of title 21 involving the smuggling of a controlled substance into aFederal prison or other Federal detention facility or the distribution or intended distribution of a controlled substance within a Federal prison or other Federal detention facility.
+&emsp;(2) under section 841(b) of title 21 involving the smuggling of a controlled substance into a Federal prison or other Federal detention facility or the distribution or intended distribution of a controlled substance within a Federal prison or other Federal detention facility.
 
 #### (c) No probation
 

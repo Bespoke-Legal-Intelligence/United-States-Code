@@ -82,7 +82,7 @@ Any change in method of accounting made pursuant to this section shall be treate
 
 #### (ii) Effect of election
 
-&emsp;&emsp;&emsp;For purposes of paragraphs (1) and (2) of section 263A(e), any election under this subparagraph shall be treated as if it were an election under subsection (d)(3) of section 263A.
+&emsp;&emsp;&emsp;For purposes of paragraphs (1) and (2) of section 263A(e), any election under thissubparagraph shall be treated as if it were an election under subsection (d)(3) of section 263A.
 
 #### (iii) Election
 
@@ -158,7 +158,7 @@ Subsec. (g)(1). Pub. L. 99–514, §803(b)(7)(C), substituted "Notwithstanding s
 
 Subsec. (g)(1). Pub. L. 97–248, §230(a)(1), inserted "or qualified partnership" after "corporation" wherever appearing.
 
-Subsec. (g)(3). Pub. L. 97–248, §230(a)(2), designated existing provisions from "a corporation acquired" through "transferee corporation", as subpar. (A), inserted "qualified" before "farming trade", and added subpar. (B).
+Subsec. (g)(3). Pub. L. 97–248, §230(a)(2), designated existing provisions from "a corporation acquired"through "transferee corporation", as subpar. (A), inserted "qualified" before "farming trade", and added subpar. (B).
 
 Subsec. (g)(4). Pub. L. 97–354, §5(a)(29), substituted in subpar. (A)(i) "an S corporation" for "an electing small business corporation (within the meaning of section 1371(b))".
 
@@ -276,7 +276,7 @@ Growing Crops.—For purposes of this section, the term 'Growing crops' does not
 
 Pub. L. 95–600, title VII, §703(l)(2), Nov. 6, 1978, 92 Stat. 2906, provided that: "If—
 
-&emsp;"(A) a farming syndicate (within the meaning of \[former\] section 464(c) of the Internal Revenue Code of 1954 \[now 26 U.S.C. 461(j)\]) was in existence on December 31, 1975, and
+&emsp;"(A) a farming syndicate (within the meaning of \[former\] section 464(c) of the Internal Revenue Code of 1954 \[now 26 U.S.C. 461(k)\]) was in existence on December 31, 1975, and
 
 &emsp;"(B) such syndicate elects an accrual method of accounting (including the capitalization of preproductive period expenses described in section 447(b) of such Code) for a taxable year beginning before January 1, 1979,
 

@@ -6,7 +6,7 @@ Establishment of Major Force Program.—The Secretary of Defense shall establish
 
 (b)
 
-Budget Assessment.—(1) The Secretary shall include with the defense budget materials for each of fiscal years 2017 through 2020 a report on the budget for national security space programs of the Department of Defense.
+Budget Assessment.—(1) Not later than 30 days after the date on which the President submits to Congress the budget for each of fiscal years 2017 through 2021, the Secretary of Defense shall submit to the congressional defense committees a report on the budget for national security space programs of the Department of Defense. The Secretary may include the report in the defense budget materials if the Secretarysubmits such materials to Congress by such date.
 
 (2) Each report on the budget for national security space programs of the Department of Defense under paragraph (1) shall include the following:
 
@@ -30,7 +30,11 @@ Definitions.—In this section:
 
 &emsp;(2) The term "defense budget materials", with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
-(Added Pub. L. 114–92, div. A, title XVI, §1601(a)(1), Nov. 25, 2015, 129 Stat. 1095.)
+(Added Pub. L. 114–92, div. A, title XVI, §1601(a)(1), Nov. 25, 2015, 129 Stat. 1095; amended Pub. L. 115–232, div. A, title XVI, §1605, Aug. 13, 2018, 132 Stat. 2107.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–232 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Secretary shall include with the defense budget materials for each of fiscal years 2017 through 2020 a report on the budget for national security space programs of the Department of Defense."
 
 #### Plan To Carry Out Unified Major Force Program Designation
 

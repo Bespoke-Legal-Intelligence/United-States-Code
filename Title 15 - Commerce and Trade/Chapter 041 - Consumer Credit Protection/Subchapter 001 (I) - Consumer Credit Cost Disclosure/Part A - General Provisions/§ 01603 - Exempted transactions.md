@@ -16,7 +16,7 @@ This subchapter does not apply to the following:
 
 &emsp;(7) Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.\].
 
-(Pub. L. 90–321, title I, §104, May 29, 1968, 82 Stat. 147; Pub. L. 93–495, title IV, §402, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 96–221, title VI, §603(c), Mar. 31, 1980, 94 Stat. 169; Pub. L. 97–320, title VII, §701(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 104–208, div. A, title II, §2102(a), Sept. 30, 1996, 110 Stat. 3009–398; Pub. L. 110–315, title X, §1022, Aug. 14, 2008, 122 Stat. 3488; Pub. L. 111–203, title X, §§1100A(2), 1100E(a)(1), July 21, 2010, 124 Stat. 2107, 2111.)
+(Pub. L. 90–321, title I, §104, May 29, 1968, 82 Stat. 147; Pub. L. 93–495, title IV, §402, Oct. 28, 1974, 88 Stat. 1517; Pub. L. 96–221, title VI, §603(c), Mar.31, 1980, 94 Stat. 169; Pub. L. 97–320, title VII, §701(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 104–208, div. A, title II, §2102(a), Sept. 30, 1996, 110 Stat. 3009–398; Pub. L. 110–315, title X, §1022, Aug. 14, 2008, 122 Stat. 3488; Pub. L. 111–203, title X, §§1100A(2), 1100E(a)(1), July 21, 2010, 124 Stat. 2107, 2111.)
 
 #### References in Text
 
@@ -48,7 +48,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1982 Amendment
 
-Section 701(c) of Pub. L. 97–320, as amended by Pub. L. 97–457, §31, Jan. 12, 1983, 96 Stat. 2511, provided that:"The amendment made by subsection (a) \[amending this section\] and subsection (b) \[enacting section 1099 of Title 20, Education\] shall be effective with respect to loans made prior to, on, and after the date of the enactment of this Act \[Oct. 15, 1982\]."
+Section 701(c) of Pub. L. 97–320, as amended by Pub. L. 97–457, §31, Jan. 12, 1983, 96 Stat. 2511, provided that: "The amendment made by subsection (a) \[amending this section\] and subsection (b) \[enacting section 1099 of Title 20, Education\] shall be effective with respect to loans made prior to, on, and after the date of the enactment of this Act \[Oct. 15, 1982\]."
 
 #### Effective Date of 1980 Amendment
 

@@ -26,7 +26,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–369, §2(b), Oct. 25, 2004, 118 Stat. 1749, provided that: "The amendments made by subsection (a) \[amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section\] are deemed to have taken effect on January 1, 2004."
+Pub. L. 108–369, §2(b), Oct. 25, 2004, 118 Stat. 1749, provided that: "The amendments made by subsection (a)\[amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section\] are deemed to have taken effect on January 1, 2004."
 
 #### Effective Date of 2003 Amendment
 

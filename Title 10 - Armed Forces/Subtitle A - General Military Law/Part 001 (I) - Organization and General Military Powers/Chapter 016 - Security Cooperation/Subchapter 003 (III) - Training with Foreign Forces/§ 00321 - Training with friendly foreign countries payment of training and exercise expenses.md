@@ -56,7 +56,7 @@ Availability of Funds for Activities That Cross Fiscal Years.—Amounts availabl
 
 (e)
 
-Quarterly Notice on Planned Training.—Not later than the end of the first calender quarter beginning after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, and every calender quarter thereafter, the Secretary of Defense shall submit to the appropriate committees of Congress a notice setting forth the schedule of planned training engagement pursuant to subsection (a) during the calendar quarter first following the calendar quarter in which such notice is submitted.
+Quarterly Notice on Planned Training.—Not later than the end of the first calendar quarter beginning after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, and every calendar quarter thereafter, the Secretary of Defense shall submit to the appropriate committees of Congress a notice setting forth the schedule of planned training engagement pursuant to subsection (a) during the calendar quarter first following the calendar quarter in which such notice is submitted.
 
 (f)
 
@@ -70,19 +70,21 @@ In general.—The Secretary of Defense shall prescribe regulations for the admin
 
 Elements.—The regulations required under this section shall provide the following:
 
-&emsp;&emsp;(A) A requirement that training and exercise activities may be carried out under thissection only with the prior approval of the Secretary.
+&emsp;&emsp;(A) A requirement that training and exercise activities may be carried out under this section only with the prior approval of the Secretary.
 
 &emsp;&emsp;(B) Accounting procedures to ensure that the expenditures pursuant to this section are appropriate.
 
 &emsp;&emsp;(C) Procedures to limit the payment of incremental expenses to friendly foreign countries only to developing countries, except in the case of exceptional circumstances as specified in the regulations.
 
-(Added Pub. L. 99–661, div. A, title XIII, §1321(a)(1), Nov. 14, 1986, 100 Stat. 3988, §2010; amended Pub. L. 105–85, div. A, title X, §1073(a)(35), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 110–417, \[div. A\], title XII, §1203(a), Oct. 14, 2008, 122 Stat. 4622; Pub. L. 112–81, div. A, title X, §1061(12), Dec. 31, 2011, 125 Stat. 1583; renumbered §321 and amended Pub. L. 114–328, div. A, title XII, §1244(a), Dec. 23, 2016, 130 Stat. 2516.)
+(Added Pub. L. 99–661, div. A, title XIII, §1321(a)(1), Nov. 14, 1986, 100 Stat. 3988, §2010; amended Pub. L. 105–85, div. A, title X, §1073(a)(35), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 110–417, \[div. A\], title XII, §1203(a), Oct. 14, 2008, 122 Stat. 4622; Pub. L. 112–81, div. A, title X, §1061(12), Dec. 31, 2011, 125 Stat. 1583; renumbered §321 and amended Pub. L. 114–328, div. A, title XII, §1244(a), Dec. 23, 2016, 130 Stat. 2516; Pub. L. 115–232, div. A, title XII, §1204(c)(1)(B), Aug. 13, 2018, 132 Stat. 2017.)
 
 #### References in Text
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (e), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e). Pub. L. 115–232 substituted "the first calendar quarter" for "the first calender quarter" and "every calendar quarter" for "every calender quarter".
 
 <b>2016</b>—Pub. L. 114–328 renumbered section 2010 of this title as this section and amended it generally. Prior to amendment, section related to payment of incremental expenses for participation of developing countries in combined exercises.
 
@@ -99,4 +101,38 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–417, \[div. A\], title XII, §1203(b), Oct. 14, 2008, 122 Stat. 4622, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2008, and shall apply with respect to bilateral and multilateral military exercises described in section 2010 \[now 321\] of title 10, United States Code, as so amended, that begin on or after that date."
+
+#### Prohibition on Participation of the People's Republic of China in Rim of the Pacific (RIMPAC) Naval Exercises
+
+Pub. L. 115–232, div. A, title XII, §1259, Aug. 13, 2018, 132 Stat. 2058, provided that:
+
+"(a)
+
+Conditions for Future Participation in RIMPAC.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall not enable or facilitate the participation of the People's Republic of China in any Rim of the Pacific (RIMPAC) naval exercise unless the Secretary certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that China has—
+
+&emsp;&emsp;"(A) ceased all land reclamation activities in the South China Sea;
+
+&emsp;&emsp;"(B) removed all weapons from its land reclamation sites; and
+
+&emsp;&emsp;"(C) established a consistent four-year track record of taking actions toward stabilizing the region.
+
+&emsp;"(2)
+
+Form.—The certification under paragraph (1) shall be in unclassified form but may contain a classified annex as necessary.
+
+"(b)
+
+National Security Waiver.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense may waive the certification requirement under subsection (a) if the Secretary determines the waiver is in the national security interest of the United States and submits to the congressional defense committees a detailed justification for the waiver.
+
+&emsp;"(2)
+
+Form.—The justification required under paragraph (1) shall be in unclassified form but may contain a classified annex as necessary."
 

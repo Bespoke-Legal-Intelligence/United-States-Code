@@ -20,7 +20,7 @@ Agricultural real estate that is acquired by an institution of the System as a r
 
 #### (3) Mandatory sale
 
-&emsp;An institution of the System receiving an offer from the previous owner to purchase theproperty at the appraised value shall, within 15 days after the receipt of such offer, accept such offer and sell the property to the previous owner.
+&emsp;An institution of the System receiving an offer from the previous owner to purchase the property at the appraised value shall, within 15 days after the receipt of such offer, accept such offer and sell the property to the previous owner.
 
 #### (4) Permissive sale
 
@@ -92,7 +92,7 @@ Agricultural real estate that is acquired by an institution of the System as a r
 
 #### (1) Notification of previous owner
 
-&emsp;If an institution of the System elects to sell or lease acquired property or a portion thereof through a public auction, competitive bidding process, or other similar public offering, the institution shall notify the previous owner, by certified mail, of the availability of the property. Such notice shall contain the minimum amount, if any, required to qualify a bid as acceptable to the institution and any terms and conditions to which such sale or lease will be subject.
+&emsp;If an institution of the System elects to sell or lease acquired property or a portion thereof through a public auction, competitive bidding process, or other similar public offering, the institution shall notify the previous owner, by certified mail, of the availability of the property. Such notice shall contain the minimum amount, if any, required to qualify a bid as acceptable to the institution and any terms andconditions to which such sale or lease will be subject.
 
 #### (2) Priority
 
@@ -100,7 +100,7 @@ Agricultural real estate that is acquired by an institution of the System as a r
 
 #### (3) Nondiscrimination
 
-&emsp;No institution of the System may discriminate against a previous owner in any publicauction, competitive bidding process, or other similar public offering of property acquired by the institution from such person.
+&emsp;No institution of the System may discriminate against a previous owner in any public auction, competitive bidding process, or other similar public offering of property acquired by the institution from such person.
 
 #### (e) Term or condition
 

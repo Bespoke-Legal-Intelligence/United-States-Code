@@ -62,13 +62,13 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall produce, distribute, and process forms in electronic format to meet the requirements of paragraph (1). TheSecretary shall develop an electronic version of the forms for applicants who do not meet the requirements of subsection (b) or (c) of section 1087ss of this title.
+&emsp;&emsp;The Secretary shall produce, distribute, and process forms in electronic format to meet the requirements of paragraph (1). The Secretary shall develop an electronic version of the forms for applicants who do not meet the requirements of subsection (b) or (c) of section 1087ss of this title.
 
 #### (B) Simplified applications: FAFSA on the web
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall develop and use a simplified electronic version of the form to be used by applicants meeting the requirements under subsection (b) or (c) of section 1087ss of this title.
+&emsp;&emsp;&emsp;The Secretary shall develop and use a simplified electronic version of the form tobe used by applicants meeting the requirements under subsection (b) or (c) of section 1087ss of this title.
 
 #### (ii) Reduced data requirements
 
@@ -130,7 +130,7 @@
 
 #### (i) Reduction encouraged
 
-&emsp;&emsp;&emsp;Of the number of data elements on the FAFSA used for the 2009–2010 award year, the Secretary, in cooperation with representatives of agencies and organizations involved in student financial assistance and consistent with efforts under subsection (c), shall continue to reduce the number of such data elements required to be entered by all applicants, with the goal of reducing such number by 50 percent.
+&emsp;&emsp;&emsp;Of the number of data elements on the FAFSA used for the 2009–2010 award year, the Secretary, in cooperation with representatives of agencies and organizationsinvolved in student financial assistance and consistent with efforts under subsection (c), shall continue to reduce the number of such data elements required to be entered by all applicants, with the goal of reducing such number by 50 percent.
 
 #### (ii) Report
 
@@ -246,9 +246,9 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;A preparer that provides consultative or preparation services pursuant to this subsection shall—
 
-&emsp;&emsp;(A) clearly inform each individual upon initial contact, including contact through the Internet or by telephone, that theFAFSA and EZ FAFSA are free forms that may be completed without professional assistance via paper or electronic version of the forms that are provided by the Secretary;
+&emsp;&emsp;(A) clearly inform each individual upon initial contact, including contact through the Internet or by telephone, that the FAFSA and EZ FAFSA are free forms that may be completed without professional assistance via paper or electronic version of the forms that are provided by the Secretary;
 
-&emsp;&emsp;(B) include in any advertising clear and conspicuous information that the FAFSA and EZ FAFSA are free forms that may be completed without professional assistance via paper or electronic version of the forms that are provided by the Secretary;
+&emsp;&emsp;(B) include in any advertising clear and conspicuous information that the FAFSA and EZ FAFSA are free forms that may becompleted without professional assistance via paper or electronic version of the forms that are provided by the Secretary;
 
 &emsp;&emsp;(C) if advertising or providing any information on a website, or if providing services through a website, include on the website a link to the website that provides the electronic version of the forms developed under subsection (a); and
 
@@ -444,7 +444,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;&emsp;&emsp;(ii) to identify changes to the statutory need analysis formula that will be necessary to reduce the amount of financial information students and families need to provide to receive a determination of eligibility for student financial aid without causing significant redistribution of Federal grants and subsidized loans under this subchapter; and
 
-&emsp;&emsp;&emsp;(iii) to review State and institutional needs and uses for data collected on the FAFSA, and to determine the best means of addressing such needs in the case of modification of the FAFSA as described in clause (i), or modification of the need analysis formula as described in clause (ii).
+&emsp;&emsp;&emsp;(iii) to review State and institutional needs and uses for data collected on theFAFSA, and to determine the best means of addressing such needs in the case of modification of the FAFSA as described in clause (i), or modification of the need analysis formula as described in clause (ii).
 
 #### (D) Required subjects of study
 
@@ -504,7 +504,7 @@ The Secretary shall utilize savings accrued by moving more applicants to the ele
 
 #### (h) Adjustments
 
-The Secretary shall disclose, on the form notifying a student of the student's expected familycontribution, that the student may, on a case-by-case basis, qualify for an adjustment under section 1087tt of this title to the cost of attendance or the values of the data items required to calculate the expected contribution for the student or parent. Such disclosure shall specify—
+The Secretary shall disclose, on the form notifying a student of the student's expected family contribution, that the student may, on a case-by-case basis, qualify for an adjustment under section 1087tt of this title to the cost of attendance or the values of the data items required to calculate the expected contribution for the student or parent. Such disclosure shall specify—
 
 &emsp;(1) the special circumstances under which a student or family member may qualify for such adjustment; and
 

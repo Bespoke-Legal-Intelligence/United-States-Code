@@ -4,7 +4,7 @@
 
 #### (1) Protection of human research subjects
 
-&emsp;(A) In the case of any application submitted to the Secretary for financial assistance to conduct research, the Secretary may not approve or fund any application that is subject to review under section 289(a) of this title by an Institutional Review Board unless the application has undergone review in accordance with such section and has been recommended for approval by a majority of the members of the Board conducting such review.
+&emsp;(A) In the case of any application submitted to the Secretary for financial assistance toconduct research, the Secretary may not approve or fund any application that is subject to review under section 289(a) of this title by an Institutional Review Board unless the application has undergone review in accordance with such section and has been recommended for approval by a majority of the members of the Board conducting such review.
 
 &emsp;(B) In the case of research that is subject to review under procedures established by the Secretary for the protection of human subjects in clinical research conducted by the National Institutes of Health, the Secretary may not authorize the conduct of the research unless the research has, pursuant to such procedures, been recommended for approval.
 

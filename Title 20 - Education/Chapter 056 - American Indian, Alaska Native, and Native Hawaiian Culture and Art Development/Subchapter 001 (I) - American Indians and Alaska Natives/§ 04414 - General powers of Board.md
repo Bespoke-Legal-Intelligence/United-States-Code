@@ -18,7 +18,7 @@ In carrying out the provisions of this chapter, the Board shall have the power, 
 
 &emsp;(7) to use the United States mails on the same terms and conditions as the executive departments of the United States Government;
 
-&emsp;(8) to obtain the services of experts and consultants in accordance with the provisions of section 3109 of title 5 and to accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
+&emsp;(8) to obtain the services of experts and consultants in accordance with the provisions ofsection 3109 of title 5 and to accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
 &emsp;(9) to solicit, accept, and dispose of gifts, bequests, devises of money, securities, and other properties of whatever character, for the benefit of the Institute;
 
@@ -44,7 +44,7 @@ Interest and earnings on amounts received by the Institute pursuant to section 4
 
 #### References in Text
 
-Subsection (a)(12), referred to in subsec. (c), was redesignated subsec. (a)(13) of this section, repealed, anda new subsec. (a)(13) added by Pub. L. 102–325, title XIII, §1331(b)(1)(A), (C), July 23, 1992, 106 Stat. 806, and former subsec. (a)(11) of this section was redesignated subsec. (a)(12).
+Subsection (a)(12), referred to in subsec. (c), was redesignated subsec. (a)(13) of this section, repealed, and a new subsec. (a)(13) added by Pub. L. 102–325, title XIII, §1331(b)(1)(A), (C), July 23, 1992, 106 Stat. 806, and former subsec. (a)(11) of this section was redesignated subsec. (a)(12).
 
 #### Amendments
 

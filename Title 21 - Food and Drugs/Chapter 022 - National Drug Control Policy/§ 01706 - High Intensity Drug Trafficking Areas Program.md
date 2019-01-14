@@ -80,7 +80,7 @@ In considering whether to designate an area under this section as a high intensi
 
 #### (f) Use of funds
 
-The Director shall ensure that no Federal funds appropriated for the Program are expended for the establishment or expansion of drug treatment programs, and shall ensure that not more than 5 percent of the Federal funds appropriated for the Program are expended for the establishment of drug prevention programs.
+The Director shall ensure that not more than a total of 5 percent of Federal funds appropriated for the Program are expended for substance use disorder treatment programs and drug prevention programs.
 
 #### (g) Counterterrorism activities
 
@@ -204,7 +204,7 @@ The Director, in consultation with the Attorney General, shall ensure that any d
 
 &emsp;&emsp;(A) the number of methamphetamine manufacturing facilities discovered through HIDTA-funded initiatives in the previous fiscal year;
 
-&emsp;&emsp;(B) the amounts of methamphetamine or listed chemicals (as that term is defined in section 802(33) of this title <sup>1</sup> seized by HIDTA-funded initiatives in the area during the previous year; and
+&emsp;&emsp;(B) the amounts of methamphetamine or listed chemicals (as that term is defined in section 802(33) of this title <sup>1</sup> seized byHIDTA-funded initiatives in the area during the previous year; and
 
 &emsp;&emsp;(C) law enforcement intelligence and predictive data from the Drug Enforcement Administration showing patterns and trends in abuse, trafficking, and transportation in methamphetamine and listed chemicals.
 
@@ -222,9 +222,11 @@ There is authorized to be appropriated to the Office of National Drug Control Po
 
 &emsp;(3) $260,000,000 for fiscal year 2009;
 
-&emsp;(4) $270,000,000 for fiscal year 2010; and
+&emsp;(4) $270,000,000 for fiscal year 2010;
 
-&emsp;(5) $280,000,000 for each of <sup>2</sup> fiscal year 2011.
+&emsp;(5) $280,000,000 for each of <sup>2</sup> fiscal year 2011; and
+
+&emsp;(6) $280,000,000 for each of fiscal years 2018 through 2023.
 
 #### (q) Specific purposes
 
@@ -234,17 +236,33 @@ There is authorized to be appropriated to the Office of National Drug Control Po
 
 #### (2) Required uses
 
-&emsp;The funds used under paragraph (1) shall be used—
+&emsp;The funds used under paragraph (1) shall be used to ensure the safety of neighborhoods and the protection of communities, including the prevention of the intimidation of witnesses of illegal drug distribution and related activities and the establishment of, or support for, programs that provide protection or assistance to witnesses in court proceedings.
 
-&emsp;&emsp;(A) to ensure the safety of neighborhoods and the protection of communities, including the prevention of the intimidation of potential witnesses of illegal drug distribution and related activities; and
+#### (3) Best practice models
 
-&emsp;&emsp;(B) to combat illegal drug trafficking through such methods as the Director considers appropriate, such as establishing or operating (or both) a toll-free telephone hotline for use by the public to provide information about illegal drug-related activities.
+&emsp;The Director shall work with HIDTAs to develop and maintain best practice models to assist State, local, and Tribal governments in addressing witness safety, relocation, financial and housing assistance, or any other services related to witness protection or assistance in cases of illegal drug distribution and related activities. The Director shall ensure dissemination of the best practice models to each HIDTA.
 
-(Pub. L. 105–277, div. C, title VII, §707, Oct. 21, 1998, 112 Stat. 2681–686; Pub. L. 109–469, title III, §§301, §302(c), Dec. 29, 2006, 120 Stat. 3518, 3525.)
+#### (r) Drug overdose response strategy implementation
 
-#### Repeal of Section
+The Director may use funds appropriated to carry out this section to implement a drug overdose response strategy in high intensity drug trafficking areas on a nationwide basis by—
 
-<i>For repeal of section on Sept. 30, 2010, see section 1712 of this title.</i>
+&emsp;(1) coordinating multi-disciplinary efforts to prevent, reduce, and respond to drug overdoses, including the uniform reporting of fatal and non-fatal overdoses to public health and safety officials;
+
+&emsp;(2) increasing data sharing among public safety and public health officials concerning drug-related abuse trends, including new psychoactive substances, and related crime; and
+
+&emsp;(3) enabling collaborative deployment of prevention, intervention, and enforcement resources to address substance use addiction and narcotics trafficking.
+
+#### (s) Supplemental grants
+
+The Director is authorized to use not more than $10,000,000 of the amounts otherwise appropriated to carry out this section to provide supplemental competitive grants to high intensity drug trafficking areas that have experienced high seizures of fentanyl and new psychoactive substances for the purposes of—
+
+&emsp;(1) purchasing portable equipment to test for fentanyl and other substances;
+
+&emsp;(2) training law enforcement officers and other first responders on best practices for handling fentanyl and other substances; and
+
+&emsp;(3) purchasing protective equipment, including overdose reversal drugs.
+
+(Pub. L. 105–277, div. C, title VII, §§707, 715, Oct. 21, 1998, 112 Stat. 2681–686, 2681–693; Pub. L. 109–469, title III, §§301, §302(c), title VI, §602, Dec. 29, 2006, 120 Stat. 3518, 3525, 3533; Pub. L. 115–271, title VIII, §§8202(a), 8202(b)(2), 8205, 8208, 8209, Oct. 24, 2018, 132 Stat. 4110, 4113, 4114.)
 
 #### References in Text
 
@@ -252,9 +270,33 @@ December 29, 2006, referred to in subsecs. (k)(1), (l), and (m) was in the origi
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–469, §301, amended section generally. Prior to amendment, section related to the High Intensity Drug Trafficking Areas Program.
+<b>2018</b>—Pub. L. 115–271, §8202(b)(2), repealed Pub. L. 105–277, §715. See 1998 Amendment note below.
+
+Pub. L. 115–271, §8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
+
+Subsec. (f). Pub. L. 115–271, §8205(1), substituted "not more than a total of 5 percent of Federal funds appropriated for the Program are expended for substance use disorder treatment programs and drug prevention programs." for "no Federal funds appropriated for the Program are expended for the establishment or expansion of drug treatment programs, and shall ensure that not more than 5 percent of the Federal funds appropriated for the Program are expended for the establishment of drug prevention programs."
+
+Subsec. (p)(6). Pub. L. 115–271, §8205(2), added par. (6).
+
+Subsec. (q)(2). Pub. L. 115–271, §8205(3)(A), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The funds used under paragraph (1) shall be used—
+
+&emsp;"(A) to ensure the safety of neighborhoods and the protection of communities, including the prevention of the intimidation of potential witnesses of illegal drug distribution and related activities; and
+
+&emsp;"(B) to combat illegal drug trafficking through such methods as the Director considers appropriate, such as establishing or operating (or both) a toll-free telephone hotline for use by the public to provide information about illegal drug-related activities."
+
+Subsec. (q)(3). Pub. L. 115–271, §8205(3)(B), added par. (3).
+
+Subsec. (r). Pub. L. 115–271, §8208, added subsec. (r).
+
+Subsec. (s). Pub. L. 115–271, §8209, added subsec. (s).
+
+<b>2006</b>—Pub. L. 109–469, §602, amended Pub. L. 105–277, §715, which provided for the repeal of this section. See 1998 Amendment note below.
+
+Pub. L. 109–469, §301, amended section generally. Prior to amendment, section related to the High Intensity Drug Trafficking Areas Program.
 
 Subsec. (q). Pub. L. 109–469, §302(c), added subsec. (q).
+
+<b>1998</b>—Pub. L. 105–277, §715, as amended by Pub. L. 109–469, §602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, §8202(b)(2). See former section 1712 of this title.
 
 #### Findings
 

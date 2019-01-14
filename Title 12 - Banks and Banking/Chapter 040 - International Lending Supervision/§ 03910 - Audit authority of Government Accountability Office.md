@@ -34,7 +34,7 @@
 
 (C) Each appropriate Federal banking agency shall give the Comptroller General suitable and lockable offices and furniture, telephones, and access to copying facilities.
 
-(2) Except for the temporary removal of workpapers of the Comptroller General that do notidentify a customer of an open or closed bank or bank holding company, an open bank, or an open bank holding company, all workpapers of the Comptroller General and records and property of or used by an appropriate Federal banking agency that the Comptroller General possesses during an audit, shall remain in such agency. The Comptroller General shall prevent unauthorized access to records or property.
+(2) Except for the temporary removal of workpapers of the Comptroller General that do not identify a customer of an open or closed bank or bank holding company, an open bank, or an open bank holding company, all workpapers of the Comptroller General and records and property of or used by an appropriate Federal banking agency that the Comptroller General possesses during an audit, shall remain in such agency. The Comptroller General shall prevent unauthorized access to records or property.
 
 (Pub. L. 98–181, title I \[title IX, §911\], Nov. 30, 1983, 97 Stat. 1282; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

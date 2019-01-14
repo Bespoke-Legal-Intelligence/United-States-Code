@@ -24,7 +24,7 @@ The Secretary shall conduct the following studies, and shall make a report or re
 
 #### (b) Participation of other Federal agencies
 
-In carrying out these studies, the Secretary shall invite the participation of other Federal departments and agencies having related responsibilities and interests, State governments—particularly those of States which regulate radioactive materials under section 274 of the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2021\], and interested professional, labor, and industrial organizations. Upon request from congressional committees interested in these studies, the Secretary shall keep these committees currently informed as to the progress of the studies and shall permit the committees to send observers to meetings of the study groups.
+In carrying out these studies, the Secretary shall invite the participation of other Federal departments and agencies having related responsibilities and interests, State governments—particularly those of States which regulate radioactive materials under section 274 of the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2021\], and interested professional, labor, and industrialorganizations. Upon request from congressional committees interested in these studies, the Secretary shall keep these committees currently informed as to the progress of the studies and shall permit the committees to send observers to meetings of the study groups.
 
 #### (c) Organization of studies and participation
 
@@ -48,5 +48,5 @@ Section was classified to section 263e of Title 42, The Public Health and Welfar
 
 #### Noninterference With Other Federal Agencies
 
-Enactment of this section not to be construed to supersede or limit the functions under any other provision of law of any officer or agency of the UnitedStates, see section 4 of Pub. L. 90–602, set out as a note under section 360hh of this title.
+Enactment of this section not to be construed to supersede or limit the functions under any other provision of law of any officer or agency of the United States, see section 4 of Pub. L. 90–602, set out as a note under section 360hh of this title.
 

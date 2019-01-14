@@ -46,7 +46,7 @@ The requirements of subsection (a) of this section shall not apply—
 
 &emsp;(ii) if such contribution or payment is made by an employer to a multiemployer plan by a mistake of fact or law (other than a mistake relating to whether the plan is described in section 401(a) of title 26 or the trust which is part of such plan is exempt from taxation under section 501(a) of title 26), paragraph (1) shall not prohibit the return of such contribution or payment to the employer within 6 months after the plan administrator determines that the contribution was made by such a mistake.
 
-(B) If a contribution is conditioned on initial qualification of the plan under section 401 or 403(a) of title 26, and if the plan receives an adverse determination with respect to its initial qualification, then paragraph (1) shall not prohibit the return of such contribution to the employer within one year after such determination, but only if the application for the determination is made by the time prescribed by law for filing the employer's return for the taxable year in which such plan was adopted, or suchlater date as the Secretary of the Treasury may prescribe.
+(B) If a contribution is conditioned on initial qualification of the plan under section 401 or 403(a) of title 26, and if the plan receives an adverse determination with respect to its initial qualification, then paragraph (1) shall not prohibit the return of such contribution to the employer within one year after such determination, but only if the application for the determination is made by the time prescribed by law for filing the employer's return for the taxable year in which such plan was adopted, or such later date as the Secretary of the Treasury may prescribe.
 
 (C) If a contribution is conditioned upon the deductibility of the contribution under section 404 of title 26, then, to the extent the deduction is disallowed, paragraph (1) shall not prohibit the return to the employer of such contribution (to the extent disallowed) within one year after the disallowance of the deduction.
 
@@ -62,7 +62,7 @@ The requirements of subsection (a) of this section shall not apply—
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (b)(4), (6), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (b)(4), (6), was in the original "this Act", meaning Pub. L.93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
 

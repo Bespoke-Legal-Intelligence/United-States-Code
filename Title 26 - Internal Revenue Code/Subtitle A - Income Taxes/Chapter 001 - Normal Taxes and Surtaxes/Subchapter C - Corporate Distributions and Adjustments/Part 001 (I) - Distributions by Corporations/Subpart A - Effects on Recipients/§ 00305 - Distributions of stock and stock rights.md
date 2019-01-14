@@ -34,7 +34,7 @@ Subsection (a) shall not apply to a distribution by a corporation of its stock, 
 
 #### (4) Distributions on preferred stock
 
-&emsp;If the distribution is with respect to preferred stock, other than an increase in the conversion ratio of convertible preferred stock made solely to take account of a stock dividend or stock split with respect to the stock into which such convertible stock is convertible.
+&emsp;If the distribution is with respect to preferred stock, other than an increase in the conversion ratio of convertible preferred stockmade solely to take account of a stock dividend or stock split with respect to the stock into which such convertible stock is convertible.
 
 #### (5) Distributions of convertible preferred stock
 
@@ -110,7 +110,7 @@ For purposes of this section and section 301, the Secretary shall prescribe regu
 
 #### (7) Cross reference
 
-&emsp;&emsp;<b>For treatment of stripped interests in certain accounts or entities holding preferred stock, see section 1286(f).</b>
+&emsp;&emsp;<b>For treatment of stripped interests in certain accounts or entities holding preferred stock, see section 1286(e).</b>
 
 #### (f) Cross references
 
@@ -122,9 +122,11 @@ For purposes of this section and section 301, the Secretary shall prescribe regu
 
 &emsp;&emsp;<b>(3) In the case of a distribution which has the effect of the payment of compensation, see section 61(a)(1).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 91–172, title IV, §421(a), Dec. 30, 1969, 83 Stat. 614; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title III, §321(a), (b), Aug. 13, 1981, 95 Stat. 287, 289; Pub. L. 97–448, title I, §103(f), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 101–508, title XI, §§11322(a), 11801(a)(17), (c)(7), Nov. 5, 1990, 104 Stat. 1388–463, 1388–521, 1388–524; Pub. L. 103–66, title XIII, §13206(c)(1), Aug. 10, 1993, 107 Stat. 465; Pub. L. 108–357, title VIII, §831(b), Oct. 22, 2004, 118 Stat. 1587.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 91–172, title IV, §421(a), Dec. 30, 1969, 83 Stat. 614; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title III, §321(a), (b), Aug. 13, 1981, 95 Stat. 287, 289; Pub. L. 97–448, title I, §103(f), Jan. 12, 1983, 96 Stat. 2378; Pub. L.101–508, title XI, §§11322(a), 11801(a)(17), (c)(7), Nov. 5, 1990, 104 Stat. 1388–463, 1388–521, 1388–524; Pub. L. 103–66, title XIII, §13206(c)(1), Aug. 10, 1993, 107 Stat. 465; Pub. L. 108–357, title VIII, §831(b), Oct. 22, 2004, 118 Stat. 1587; Pub. L. 115–141, div. U, title IV, §401(c)(2)(D), Mar. 23, 2018, 132 Stat. 1206.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(7). Pub. L. 115–141 substituted "1286(e)" for "1286(f)".
 
 <b>2004</b>—Subsec. (e)(7). Pub. L. 108–357 added par. (7).
 
@@ -151,6 +153,10 @@ Subsecs. (e), (f). Pub. L. 97–34, §321(a), added subsec. (e) and redesignated
 Subsec. (b). Pub. L. 91–172 omitted reference to rights to acquire its stock, in text preceding par. (1), redesignated former par. (2) as par. (1) and added pars. (2) to (5). Former par. (1), providing for the extent to which distribution of preference dividends were to be treated as distribution of property to which section 301 applied, was struck out.
 
 Subsecs. (c) to (e). Pub. L. 91–172 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–141, div. U, title IV, §401(c)(2)(E), Mar. 23, 2018, 132 Stat. 1206, provided that: "The amendments made by this paragraph \[amending this section and section 1286 of this title\] shall apply to bonds purchased on or after July 2, 1982."
 
 #### Effective Date of 2004 Amendment
 

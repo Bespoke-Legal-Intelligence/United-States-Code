@@ -90,7 +90,7 @@ The Secretary shall not investigate, promote or implement, pursuant to sections 
 
 (1) There is authorized to be appropriated to the Secretary of the Interior an additional $50,000,000 to remain available until expended.
 
-(2) Projects can only receive funding if enacted appropriations legislation designates funding tothem by name, after the Secretary recommends specific projects for funding pursuant to subsection (f) and transmits such recommendations to the appropriate committees of Congress.
+(2) Projects can only receive funding if enacted appropriations legislation designates funding to them by name, after the Secretary recommends specific projects for funding pursuant to subsection (f) and transmits such recommendations to the appropriate committees of Congress.
 
 (Pub. L. 102–575, title XVI, §1602, Oct. 30, 1992, 106 Stat. 4664; Pub. L. 106–566, title I, §104(a), Dec. 23, 2000, 114 Stat. 2819; Pub. L. 114–322, title III, §4009(c), Dec. 16, 2016, 130 Stat. 1868.)
 

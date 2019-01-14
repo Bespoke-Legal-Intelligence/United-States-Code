@@ -54,7 +54,7 @@ For purposes of this section:
 
 Pub. L. 101–608, title I, §112(f), Nov. 16, 1990, 104 Stat. 3117, provided that:
 
-"(1) The Consumer Product Safety Commission shall report to the Congress on the extent to which reportsmade to the Commission under section 37 of the Consumer Product Safety Act \[15 U.S.C. 2084\] have assisted the Commission in carrying out its responsibilities under such Act \[15 U.S.C. 2051 et seq.\]. The report—
+"(1) The Consumer Product Safety Commission shall report to the Congress on the extent to which reports made to the Commission under section 37 of the Consumer Product Safety Act \[15 U.S.C. 2084\] have assisted the Commission in carrying out its responsibilities under such Act \[15 U.S.C. 2051 et seq.\]. The report—
 
 &emsp;"(A) shall provide aggregate data and not the details and contents of individual reports filed with the Commission pursuant to such section 37,
 

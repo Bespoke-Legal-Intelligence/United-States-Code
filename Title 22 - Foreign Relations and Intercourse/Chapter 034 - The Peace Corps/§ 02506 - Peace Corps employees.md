@@ -2,7 +2,7 @@
 
 #### (a) Foreign employment; compensation, allowances, and benefits; utilization of Presidential authority respecting Foreign Service; additional compensation and differentials; additional governmental employment by person receiving Foreign Service Reserve or staff appointment or assignment; limitation on length of employment
 
-(1) For the purpose of performing functions under this chapter outside the United States, the President may employ or assign persons, or authorize the employment or assignment of officers or employees of agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates established under section 402 or 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\], together with allowances and benefits thereunder; and persons so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of the employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for persons appointed to the Foreign Service.
+(1) For the purpose of performing functions under this chapter outside the United States, the President may employ or assign persons, orauthorize the employment or assignment of officers or employees of agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates established under section 402 or 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\], together with allowances and benefits thereunder; and persons so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of the employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for persons appointed to the Foreign Service.
 
 (2) The President may utilize such authority contained in the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\] relating to members of the Foreign Service and other United States Government officers and employees as the President deems necessary to carry out functions under this chapter, except that—
 
@@ -42,13 +42,39 @@
 
 &emsp;(B) officers and employees of the Office of the Inspector General of the Peace Corps.
 
+(8)(A) The Director of the Peace Corps may designate Peace Corps positions as critical management or management support positions that require specialized technical or professional skills and knowledge of Peace Corps operations. Such positions may include positions in the following fields:
+
+&emsp;(i) Volunteer health services.
+
+&emsp;(ii) Financial management.
+
+&emsp;(iii) Information technology.
+
+&emsp;(iv) Procurement.
+
+&emsp;(v) Personnel.
+
+&emsp;(vi) Legal services.
+
+&emsp;(vii) Safety and security.
+
+(B) Subject to subparagraphs (C) and (D), with respect to positions designated pursuant to subparagraph (A), the Director may make or extend renewable appointments or assignments under paragraph (2) notwithstanding limitations under subparagraphs (A) and (B) of paragraph (2) and paragraph (5).
+
+(C) In exercising authority under subparagraph (B), the Director shall ensure that all decisions regarding the appointment, assignment, or extension of employees to any position designated pursuant to subparagraph (A)—
+
+&emsp;(i) are consistent with Federal law and Peace Corps policy; and
+
+&emsp;(ii) are based upon operational and programmatic factors.
+
+(D) The term of any appointment or assignment to any position designated pursuant to subparagraph (A) may not exceed 5 years.
+
 #### (b) Repealed. Pub. L. 96–465, title II, §2205(9), Oct. 17, 1980, 94 Stat. 2160
 
 #### (c) Peace Corps representatives; terms and conditions of service; removal
 
 In each country or area in which volunteers serve abroad, the President may appoint an employee or a volunteer as a Peace Corps representative to have direction of other employees of the Peace Corps abroad and to oversee the activities carried on under this chapter in such country or area. Unless a representative is a volunteer, the compensation, allowances and benefits, and other terms and conditions of service of each such representative, shall be the same as those of a person appointed, or assigned pursuant to paragraph (1) or (2) of subsection (a) of this section, except that any such representative may, notwithstanding any provision of law, be removed by the President in his discretion.
 
-(Pub. L. 87–293, title I, §7, Sept. 22, 1961, 75 Stat. 615; Pub. L. 87–793, §1001(l), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–200, §4, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, §4, Aug. 24, 1965, 79 Stat. 549; Pub. L. 91–352, §5, July 24, 1970, 84 Stat. 465; Pub. L. 96–53, title III, §302, Aug. 14, 1979, 93 Stat. 371; Pub. L. 96–465, title II, §§2202(b), 2205(9), Oct. 17, 1980, 94 Stat. 2157, 2160; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title XI, §1103(a), Aug. 8, 1985, 99 Stat. 272; Pub. L. 112–57, §§5(1), 6, Nov. 21, 2011, 125 Stat. 744.)
+(Pub. L. 87–293, title I, §7, Sept. 22, 1961, 75 Stat. 615; Pub. L. 87–793, §1001(l), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–200, §4, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, §4, Aug. 24, 1965, 79 Stat. 549; Pub. L. 91–352, §5, July 24, 1970, 84 Stat. 465; Pub. L. 96–53, title III, §302, Aug. 14, 1979, 93 Stat. 371; Pub. L. 96–465, title II, §§2202(b), 2205(9), Oct. 17, 1980, 94 Stat. 2157, 2160; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title XI, §1103(a), Aug. 8, 1985, 99 Stat. 272; Pub. L. 112–57, §§5(1), 6, Nov. 21, 2011, 125 Stat. 744; Pub. L. 115–256, title I, §104, Oct. 9, 2018, 132 Stat. 3653.)
 
 #### References in Text
 
@@ -61,6 +87,8 @@ The Foreign Service Act of 1980, referred to in subsec. (a)(1), (2), is Pub. L. 
 Amendment by Pub. L. 98–473 is based on section 703 of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, which was enacted into permanent law by Pub. L. 98–473.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(8). Pub. L. 115–256 added par. (8).
 
 <b>2011</b>—Subsec. (a)(3). Pub. L. 112–57, §5(1), inserted ", or contracted with for personal services under section 2509(a)(5) of this title," after "employed, appointed, or assigned under this subsection".
 
@@ -84,7 +112,7 @@ Subsec. (b). Pub. L. 96–465, §2205(9), struck out subsec. (b) which related t
 
 <b>1970</b>—Subsec. (a)(3). Pub. L. 91–352 substantially reenacted provisions and substituted references to section 5941 of title 5, and sections 5923 through 5925 of such title 5, for references to section 118h of title 5 and title II of the Overseas Differentials and Allowances Act.
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–134, §4(a), (b), redesignated subsec. (c) as (a), incorporated into par. (1) material formerly set out as introductory material, spelled out the authority of the President to utilize his authority to appoint and assign persons under the Foreign Service Act of 1946 by making specific reference to his authority as it related to Foreign Service Reserve Officers, Foreign Service Staff officers and employees, alien clerks and employees and other Government officers and employees apart from the Foreign Service, limited to five-year duration all Foreign Service Reserve or Staff appointments and assignments unless the Director of the Peace Corps personally approved one-years extensions on an individual basis, prohibited reappointment or reassignment under this par. before expiration of a period of time equal to the length of the appointee's preceding tour of duty, inserted proviso in par. (2) allowing appointment of an unenumerated class of Foreign Service staff officers and employees ranking below class 10 to be paid basic compensation at rates lower than those of class 10 to perform duties of a more routine nature than are usually performed by Foreign Service staff officers and employees of class 10, and, in par. (3), inserted reference to section 118h of title 5 and substituted reference to subsec. (a) for reference to subsec. (c). Former subsec. (a), relating to domestic employment, was repealed.
+<b>1965</b>—Subsec. (a). Pub. L. 89–134, §4(a), (b), redesignated subsec. (c) as (a), incorporated into par. (1) material formerly set out as introductory material, spelled out the authority of the President to utilize his authority to appoint and assign persons under the ForeignService Act of 1946 by making specific reference to his authority as it related to Foreign Service Reserve Officers, Foreign Service Staff officers and employees, alien clerks and employees and other Government officers and employees apart from the Foreign Service, limited to five-year duration all Foreign Service Reserve or Staff appointments and assignments unless the Director of the Peace Corps personally approved one-years extensions on an individual basis, prohibited reappointment or reassignment under this par. before expiration of a period of time equal to the length of the appointee's preceding tour of duty, inserted proviso in par. (2) allowing appointment of an unenumerated class of Foreign Service staff officers and employees ranking below class 10 to be paid basic compensation at rates lower than those of class 10 to perform duties of a more routine nature than are usually performed by Foreign Service staff officers and employees of class 10, and, in par. (3), inserted reference to section 118h of title 5 and substituted reference to subsec. (a) for reference to subsec. (c). Former subsec. (a), relating to domestic employment, was repealed.
 
 Subsec. (b). Pub. L. 89–134, §4(c), redesignated subsec. (d) as (b), inserted "for the purpose of performing functions under this chapter outside the United States" after "or assigned", and substituted reference to subsec. (a)(2) for reference to subsec. (c)(2). Former subsec. (b), relating to compensation for domestic employment, was repealed.
 
@@ -138,7 +166,7 @@ Pub. L. 99–83, title XI, §1103(b), Aug. 8, 1985, 99 Stat. 273, which required
 
 #### Benefits for Persons Appointed or Assigned Under Subsec. (a)
 
-Persons appointed, employed, or assigned under subsec. (a) of this section are not, unless otherwise agreed by the agency in which such benefits may be exercised, entitled to the benefits provided by section 928 of this title in cases in which their service under the appointment, employment, or assignment exceeds thirtymonths, see section 1–401 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under section 2501 of this title.
+Persons appointed, employed, or assigned under subsec. (a) of this section are not, unless otherwise agreed by the agency in which such benefits may be exercised, entitled to the benefits provided by section 928 of this title in cases in which their service under the appointment, employment, or assignment exceeds thirty months, see section 1–401 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under section 2501 of this title.
 
 #### Transfer of Washington Headquarters Personnel from Civil Service to Foreign Service Appointments
 

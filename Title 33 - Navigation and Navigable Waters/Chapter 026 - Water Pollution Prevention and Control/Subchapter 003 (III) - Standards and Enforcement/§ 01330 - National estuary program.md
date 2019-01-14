@@ -170,7 +170,7 @@ Any person (including a State, interstate, or regional agency or entity) that re
 
 &emsp;&emsp;(C) a discussion of pollution problems and trends in pollutant concentrations with a direct or indirect effect on water quality, the ecosystem, and designated or potential uses of each estuarine zone, to the extent evaluated under this subsection; and
 
-&emsp;&emsp;(D) an evaluation of pollution abatement activities and management measures so farimplemented to determine the degree of improvement toward the objectives expressed in subsection (b)(4) of this section.
+&emsp;&emsp;(D) an evaluation of pollution abatement activities and management measures so far implemented to determine the degree of improvement toward the objectives expressed in subsection (b)(4) of this section.
 
 #### (k) Definitions
 

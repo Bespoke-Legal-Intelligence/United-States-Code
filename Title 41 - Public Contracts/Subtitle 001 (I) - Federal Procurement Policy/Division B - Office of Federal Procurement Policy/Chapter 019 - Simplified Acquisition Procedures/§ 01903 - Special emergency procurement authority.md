@@ -46,7 +46,19 @@ Certain contracts not exempt from standards or requirements.—A contract in an 
 
 &emsp;&emsp;(B) cost or pricing data requirements (commonly referred to as truth in negotiating) under chapter 35 of this title and section 2306a of title 10.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3721; Pub. L. 114–92, div. A, title VIII, §816, Nov. 25, 2015, 129 Stat. 897; Pub. L. 114–328, div. A, title VIII, §816, title XVI, §1641, Dec. 23, 2016, 130 Stat. 2272, 2600.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3721; Pub. L. 114–92, div. A, title VIII, §816, Nov. 25, 2015, 129 Stat. 897; Pub. L. 114–328, div. A, title VIII, §816, title XVI, §1641, Dec. 23, 2016, 130 Stat. 2272, 2600; Pub. L. 115–232, div. A, title VIII, §836(b)(5), Aug. 13, 2018, 132 Stat. 1861.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(b)(5), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (c) of this section is amended as follows:</i>
+
+<i>(1) in the heading, by striking "Commercial Item" and inserting "Commercial Product or Commercial Service";</i>
+
+<i>(2) in paragraph (1), by striking "as a commercial item" and inserting "as a commercial product or a commercial service"; and</i>
+
+<i>(3) in paragraph (2), by striking "for an item or service treated as a commercial item" and inserting "for a product or service treated as a commercial product or a commercial service".</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -78,6 +90,12 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a)(3), is Pub. L. 87
 
 #### Amendments
 
+<b>2018</b>—Subsec. (c). Pub. L. 115–232, §836(b)(5)(A), substituted "Commercial Product or Commercial Service" for "Commercial Item" in heading.
+
+Subsec. (c)(1). Pub. L. 115–232, §836(b)(5)(B), substituted "as a commercial product or a commercial service" for "as a commercial item".
+
+Subsec. (c)(2). Pub. L. 115–232, §836(b)(5)(C), substituted "for a product or service treated as a commercial product or a commercial service" for "for an item or service treated as a commercial item" in introductory provisions.
+
 <b>2016</b>—Subsec. (a)(2). Pub. L. 114–328, §1641, inserted "cyber," before "nuclear,".
 
 Subsec. (a)(3), (4). Pub. L. 114–328, §816, added pars. (3) and (4).
@@ -85,4 +103,8 @@ Subsec. (a)(3), (4). Pub. L. 114–328, §816, added pars. (3) and (4).
 <b>2015</b>—Subsec. (b)(2)(A). Pub. L. 114–92, §816(1), substituted "$750,000" for "$250,000".
 
 Subsec. (b)(2)(B). Pub. L. 114–92, §816(2), substituted "$1,500,000" for "$1,000,000".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 

@@ -2,7 +2,7 @@
 
 #### (a) Application for relief
 
-A servicemember may, during military service or within 180 days of termination of or release from military service, apply to a court for relief—
+A servicemember may, during military service or within 180 days of termination of or releasefrom military service, apply to a court for relief—
 
 &emsp;(1) from any obligation or liability incurred by the servicemember before the servicemember's military service; or
 
@@ -55,6 +55,10 @@ Section was formerly classified to section 591 of the former Appendix to this ti
 A prior section 701 of act Oct. 17, 1940, ch. 888, art. VII, as added Pub. L. 92–540, title V, §504(2), Oct. 24, 1972, 86 Stat. 1098; amended Pub. L. 102–12, §3, Mar. 18, 1991, 105 Stat. 34, related to power of attorney, prior to the general amendment of this Act by Pub. L. 108–189. See section 4022 of this title.
 
 Provisions similar to this section were contained in section 700 of act Oct. 17, 1940, ch. 888, art. VII, as added Oct. 6, 1942, ch. 581, §18, 56 Stat. 777, prior to the general amendment of this Act by Pub. L. 108–189.
+
+#### Effective Date
+
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under section 3901 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Effect".</i>
 

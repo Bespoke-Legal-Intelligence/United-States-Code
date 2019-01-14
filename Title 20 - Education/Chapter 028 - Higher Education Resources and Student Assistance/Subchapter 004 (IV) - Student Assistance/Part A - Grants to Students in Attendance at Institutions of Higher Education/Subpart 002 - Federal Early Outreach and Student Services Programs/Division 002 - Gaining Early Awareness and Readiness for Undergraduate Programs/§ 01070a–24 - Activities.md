@@ -82,7 +82,7 @@ An eligible entity that receives a grant under this division may use grant funds
 
 &emsp;(14) Disseminating information that promotes the importance of higher education, explains college preparation and admission requirements, and raises awareness of the resources and services provided by the eligible entities to eligible students, their families, and communities.
 
-&emsp;(15) In the event that matching funds described in the application are no longer available, engaging entities described in section 1070a–21(c)(2) of this title in a collaborativemanner to provide matching resources and participate in other activities authorized under this section.
+&emsp;(15) In the event that matching funds described in the application are no longer available, engaging entities described in section 1070a–21(c)(2) of this title in a collaborative manner to provide matching resources and participate in other activities authorized under this section.
 
 #### (c) Additional permissible activities for States
 
@@ -142,7 +142,7 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (d)(3), is Pu
 
 #### Prior Provisions
 
-A prior section 1070a–24, Pub. L. 89–329, title IV, §404D, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 495; amended Pub. L. 103–208, §2(b)(18), (19), Dec. 20, 1993, 107 Stat. 2459, related to scholarship component, prior to the general amendment of this division by Pub. L. 105–244. See section 1070a–25 of this title.
+A prior section 1070a–24, Pub. L. 89–329, title IV, §404D, as added Pub. L. 102–325, title IV, §402(a)(4), July23, 1992, 106 Stat. 495; amended Pub. L. 103–208, §2(b)(18), (19), Dec. 20, 1993, 107 Stat. 2459, related to scholarship component, prior to the general amendment of this division by Pub. L. 105–244. See section 1070a–25 of this title.
 
 #### Amendments
 

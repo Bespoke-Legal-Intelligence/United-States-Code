@@ -6,13 +6,17 @@ During the three-year period beginning on April 10, 1979, the $1,000 per capita 
 
 #### (b) Application by Corporation of other criteria
 
-Except as provided in subsection (a) of this section, in issuing insurance, reinsurance, loans, or guaranties with respect to investment projects on Taiwan, the Overseas Private Insurance <sup>1</sup> Corporation shall apply the same criteria as those applicable in other parts of the world.
+Except as provided in subsection (a) of this section, in issuing insurance, reinsurance, loans,or guaranties with respect to investment projects on Taiwan, the Overseas Private Insurance <sup>1</sup> Corporation shall apply the same criteria as those applicable in other parts of the world.
 
 (Pub. L. 96–8, §5, Apr. 10, 1979, 93 Stat. 16.)
 
 #### Effective Date
 
 Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under section 3301 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Investment".</i>
 

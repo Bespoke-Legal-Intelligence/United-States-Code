@@ -6,7 +6,7 @@ The President of the United States is authorized to designate and empower the he
 
 #### Transfer of Functions
 
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085. Section 102 of 1970 Reorg. Plan No. 2, redesignated Bureau of the Budget as Office of Management and Budget and Director of Bureau of the Budget as Director of Office of Management and Budget. See Reorganization Plan No. 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of 1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085. Section 102 of 1970 Reorg. Plan No. 2, redesignated Bureau of the Budget as Office of Management and Budget and Director of Bureau of the Budget as Director of Office of Management and Budget. See Reorganization Plan No. 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Similar Provisions; Repeal; Saving Clause
 
@@ -58,7 +58,7 @@ Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732
 
 (a) The authority vested in the Secretary of the Interior by section 1 of the act of June 6, 1942, ch. 380, 56 Stat. 326 \[16 U.S.C. 459r\], to convey or lease to the States or to the political subdivisions thereof any or all of certain recreational demonstration projects and lands and equipment comprised within such projects or any parts of such projects; and to transfer to other Federal agencies any of the said recreational demonstration areas that may be of use to such agencies.
 
-(b) The authority vested in the Secretary of the Interior by section 3 of the act of July 3, 1918, ch. 128, 40Stat. 755, as amended, and as affected by section 4(f) of Reorganization Plan No. II, effective July 1, 1939, 53 Stat. 1433 \[16 U.S.C. 704\], to promulgate regulations permitting and governing the hunting, taking, capture, killing, possession, sale, purchase, shipment, transportation, carriage, or export of any migratory bird included in the terms of certain conventions, or any part, nest, or egg thereof.
+(b) The authority vested in the Secretary of the Interior by section 3 of the act of July 3, 1918, ch. 128, 40 Stat. 755, as amended, and as affected by section 4(f) of Reorganization Plan No. II, effective July 1, 1939, 53 Stat. 1433 \[16 U.S.C. 704\], to promulgate regulations permitting and governing the hunting, taking, capture, killing, possession, sale, purchase, shipment, transportation, carriage, or export of any migratory bird included in the terms of certain conventions, or any part, nest, or egg thereof.
 
 3\. As used in this order, the term "functions" embraces duties, powers, responsibilities, authority, or discretion, and the term "perform" may be construed to mean "exercise".
 
@@ -92,13 +92,13 @@ Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended by Ex. Ord. No. 105
 
 2\. The Secretary of the Treasury is hereby designated and empowered to perform without the approval, ratification, or other action of the President the following functions which have heretofore, under the respective provisions of law cited, required the approval of the President in connection with their performance by the Secretary of the Treasury:
 
-(a) The authority vested in the Secretary of the Treasury by section 6 of the act of July 8, 1937, ch. 444, 50 Stat. 480 \[now 40 U.S.C. 17309\], to make rules and regulations necessary for the execution of the functionsvested in the Secretary of the Treasury by the said act, as amended.
+(a) The authority vested in the Secretary of the Treasury by section 6 of the act of July 8, 1937, ch. 444, 50 Stat. 480 \[now 40 U.S.C. 17309\], to make rules and regulations necessary for the execution of the functions vested in the Secretary of the Treasury by the said act, as amended.
 
 (b), (c) \[Revoked by Ex. Ord. No. 11110, June 4, 1963, 28 F.R. 5605.\]
 
 (d) \[Revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003.\]
 
-(e) The authority vested in the Secretary of the Treasury by section 1 of Title II of the act of June 15, 1917, ch. 30, 40 Stat. 220 \[50 U.S.C. 191\], to make rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States.
+(e) The authority vested in the Secretary of the Treasury by section 1 of Title II of the act of June 15, 1917, ch. 30, 40 Stat. 220 \[see 46 U.S.C. 70051\], to make rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States.
 
 3\. (a) The Secretary of the Treasury and the Postmaster General \[now United States Postal Service\] are hereby designated and empowered jointly to prescribe without the approval of the President regulations, under section 1 of the act of July 8, 1937, ch. 444, 50 Stat. 479 \[now 40 U.S.C. 17302\], governing the shipment of valuables by the executive departments, independent establishments, agencies, wholly-owned corporations, officers, and employees of the United States.
 
@@ -152,21 +152,21 @@ Sec. 8. As used in this order, the term "functions" embraces duties, powers, res
 
 #### Ex. Ord. No. 10621. Delegation of Functions to Secretary of Defense
 
-Ex. Ord. No. 10621, July 1, 1955, 20 F.R. 4759, as amended by Ex. Ord. No. 11294, Aug. 4, 1966, 31 F.R. 10601; Ex.Ord. No. 12396, Dec. 9, 1982, 47 F.R. 55897; Ex. Ord. No. 12561, July 1, 1986, 51 F.R. 24299, provided:
+Ex. Ord. No. 10621, July 1, 1955, 20 F.R. 4759, as amended by Ex. Ord. No. 11294, Aug. 4, 1966, 31 F.R. 10601; Ex. Ord. No. 12396, Dec. 9, 1982, 47 F.R. 55897; Ex. Ord. No. 12561, July 1, 1986, 51 F.R. 24299, provided:
 
 Section 1. The Secretary of Defense, and, as designated by the said Secretary for this purpose, any of the Secretaries, Under Secretaries, and Assistant Secretaries of the military departments, are hereby designated and empowered to perform the following-described functions of the President without the approval, ratification, or other action of the President:
 
-(a) The authority vested in the President by the act of March 3, 1901, ch. 852, 31 Stat. 1107, 1133 \[10 U.S.C. 5941, 7291\], to establish and modify, as the needs of the service may require, a classification of vessels of the Navy, and to formulate appropriate rules governing assignments to command of vessels and squadrons.
+(a) The authority vested in the President by the act of March 3, 1901, ch. 852, 31 Stat. 1107, 1133 \[former 10 U.S.C. 5941, 10 U.S.C. 8661\], to establish and modify, as the needs of the service may require, a classification of vessels of the Navy, and to formulate appropriate rules governing assignments to command of vessels and squadrons.
 
 (b) The authority vested in the President by the act of August 22, 1912, ch. 335, 37 Stat. 382, 331 \[see 10 U.S.C. 509, 1171\], to approve regulations of the Secretary of the Navy under which any enlisted man may be discharged within three months before the expiration of the term of his enlistment, and under which an enlisted man may voluntarily extend the term of his enlistment.
 
-(c) The authority vested in the President by the act of May 22, 1928, ch. 688, 45 Stat. 712 \[10 U.S.C. 6152\], to approve regulations governing the advancement of public funds to naval personnel when required to meet expenses of officers and men detailed on emergency shore duty.
+(c) The authority vested in the President by the act of May 22, 1928, ch. 688, 45 Stat. 712 \[10 U.S.C. 8263\], to approve regulations governing the advancement of public funds to naval personnel when required to meet expenses of officers and men detailed on emergency shore duty.
 
-(d) The authority vested in the President by the act of June 22, 1938, ch. 567, 52 Stat. 839, as amended \[10 U.S.C. 5083, 5148, 5201, former 10 U.S.C. 5133\], section 201(a) of the act of August 25, 1941, ch. 409, 55 Stat. 680 \[10 U.S.C. 5063, 5064\], section 3 of the act of December 28, 1945, ch. 604, 59 Stat. 666, as amended \[10 U.S.C. 5138\], section 2 of the act of August 1, 1946, ch. 727, 60 Stat. 779 \[10 U.S.C. 5150\], and section 7(a) of the act of March 5, 1948, ch. 98, 62 Stat. 68 \[see Department of Defense Reorganization Order set out as a note under 10 U.S.C. 5111\], to authorize, in his discretion, for any officer of the Regular Navy or Marine Corps who retires while serving as Chief of Naval Operations, as Chief of a Bureau of the Navy Department, as Judge Advocate General of the Navy, as Commandant of the Marine Corps, as Director of Budgets and Reports, as Chief of the Dental Division, as Chief of Naval Research, or as Chief of Naval Material, or while serving in a lower rank if he has previously served in any of such offices two and one-half years or more, retirement in the highest grade or rank in which he so served and with retired pay based on that rank.
+(d) The authority vested in the President by the act of June 22, 1938, ch. 567, 52 Stat. 839, as amended \[10 U.S.C. 8088, former 10 U.S.C. 5083, 5133, 5201\], section 201(a) of the act of August 25, 1941, ch. 409, 55 Stat. 680 \[former 10 U.S.C. 5063, 5064\], section 3 of the act of December 28, 1945, ch. 604, 59 Stat. 666, as amended \[10 U.S.C. 8078\], section 2 of the act of August 1, 1946, ch. 727, 60 Stat. 779 \[former 10 U.S.C. 5021\], and section 7(a) of the act of March 5, 1948, ch. 98, 62 Stat. 68 \[see Department of Defense Reorganization Order, eff. May 1, 1966, 31 F.R. 7188\], to authorize, in his discretion, for any officer of the Regular Navy or Marine Corps who retires while serving as Chief of Naval Operations, as Chief of a Bureau of the Navy Department, as Judge Advocate General of the Navy, as Commandant of the Marine Corps, as Director of Budgets and Reports, as Chief of the Dental Division, as Chief of Naval Research, or as Chief of Naval Material, or while serving in a lower rank if he has previously served in any of such offices two and one-half years or more, retirement in the highest grade or rank in which he so served and with retired pay based on that rank.
 
 (e) The authority vested in the President by the act of June 15, 1940, ch. 374, 54 Stat. 400, to prescribe from time to time the number of warrant and commissioned warrant officers for the Marine Corps.
 
-(f) The authority vested in the President by the act of June 24, 1941, ch. 231, 55 Stat. 260 \[10 U.S.C. 7306\], to approve the use for experimental purposes of vessels of the United States Navy stricken from the Navy Register pursuant to the act of August 5, 1882, 22 Stat. 296, as amended \[10 U.S.C. 7304\].
+(f) The authority vested in the President by the act of June 24, 1941, ch. 231, 55 Stat. 260 \[see 10 U.S.C. 8676a\], to approve the use for experimental purposes of vessels of the United States Navy stricken from the Navy Register pursuant to the act of August 5, 1882, 22 Stat. 296, as amended \[see 10 U.S.C. 8674\].
 
 (g) The authority vested in the President by section 302 of the act of June 22, 1944, ch. 268, 58 Stat. 287 \[see 10 U.S.C. 1554\], to approve or disapprove the proceedings and decisions of boards of review established under that section by the Secretary of the Army, the Secretary of the Air Force, or the Secretary of the Navy, and to issue orders in such cases.
 
@@ -174,11 +174,11 @@ Section 1. The Secretary of Defense, and, as designated by the said Secretary fo
 
 Sec. 2. The Secretary of Defense, and, as designated by the said Secretary for this purpose, the Deputy Secretary of Defense and any of the Assistant Secretaries of Defense, are hereby designated and empowered to perform the following-described functions of the President without the approval, ratification, or other action of the President:
 
-(a) The authority vested in the President by section 1547 of the Revised Statutes of the United States \[10 U.S.C. 6011\], to approve alterations made by the Secretary of the Navy in Navy Regulations.
+(a) The authority vested in the President by section 1547 of the Revised Statutes of the United States \[10 U.S.C. 8211\], to approve alterations made by the Secretary of the Navy in Navy Regulations.
 
-(b) The authority vested in the President by section 1 of the act of April 9, 1906, ch. 1370, 34 Stat. 104 \[10 U.S.C. 6961\], to approve the dismissal by the Secretary of the Navy of a midshipman from the United States Naval Academy.
+(b) The authority vested in the President by section 1 of the act of April 9, 1906, ch. 1370, 34 Stat. 104 \[10 U.S.C. 8461\], to approve the dismissal by the Secretary of the Navy of a midshipman from the United States Naval Academy.
 
-Sec. 3. All actions heretofore taken by the President with respect to the matters affected by this order and in force and effect at the time of the issuance of this order, including any regulations prescribed or approved by the President with respect to such matters, shall, except as they may be inconsistent with the provisions of this order, remain in force and effect until amended, modified, or revoked pursuant to the authority conferred by this order.
+Sec. 3. All actions heretofore taken by the President with respect to the matters affected by this order and in force and effect at the time of the issuance of this order, including any regulations prescribed or approved by the President with respect to such matters, shall,except as they may be inconsistent with the provisions of this order, remain in force and effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 
 Sec. 4. As used in this order, the term "functions" includes duties, powers, responsibilities, authority, and discretion, and the term "perform" may be construed to mean "exercise".
 
@@ -188,23 +188,23 @@ Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, as amended by Ex. Ord. No. 132
 
 Section 1. The Secretary of Homeland Security is hereby designated and empowered to perform the following- described functions without the approval, ratification, or other action of the President:
 
-(a) The authority vested in the President by section 149 of title 14 of the United States Code, in his discretion, to detail officers and enlisted men of the Coast Guard to assist foreign governments in matters concerning which the Coast Guard may be of assistance.
+(a) The authority vested in the President by section 149 \[now 710\] of title 14 of the United States Code, in his discretion, to detail officers and enlisted men of the Coast Guard to assist foreign governments in matters concerning which the Coast Guard may be of assistance.
 
-(b) The authority vested in the President by section 229 of title 14 of the United States Code \[see 14 U.S.C. 281 et seq.\], to revoke the commission of any officer on the active list of the Coast Guard who, at the date of such revocation, has had less than three years of continuous service as a commissioned officer in the Coast Guard, and to prescribe regulations relating to such revocations.
+(b) The authority vested in the President by section 229 of title 14 of the United States Code \[see 14 U.S.C. 2141 et seq.\], to revoke the commission of any officer on the active list of the Coast Guard who, at the date of such revocation, has had less than three years of continuous service as a commissioned officer in the Coast Guard, and to prescribe regulations relating to such revocations.
 
-(c) The authority vested in the President by section 232 of title 14 of the United States Code \[see 14 U.S.C. 291\], in his discretion, to retire from active service any commissioned officer of the Coast Guard, upon his own application, who has completed twenty years of active service in the Coast Guard, Navy, Army, Air Force, or Marine Corps, or the Reserve Components thereof.
+(c) The authority vested in the President by section 232 of title 14 of the United States Code \[see 14 U.S.C. 2152\], in his discretion, to retire from active service any commissioned officer of the Coast Guard, upon his own application, who has completed twenty years of active service in the Coast Guard, Navy, Army, Air Force, or Marine Corps, or the Reserve Components thereof.
 
-(d) The authority vested in the President by section 235 of title 14 of the United States Code \[see 14 U.S.C. 251 et seq.\], to retire, to approve the retirement of, to place out of line of promotion, and to approve the placing out of line of promotion of, officers of the Coast Guard.
+(d) The authority vested in the President by section 235 of title 14 of the United States Code \[see 14 U.S.C. 2106–2109\], to retire, to approve the retirement of, to place out of line of promotion, and to approve the placing out of line of promotion of, officers of the Coast Guard.
 
-(e) The authority vested in the President by section 492 of title 14 of the United States Code to present a distinguished service medal (including incidental items) to any person who, while serving in any capacity with the Coast Guard, distinguishes himself by exceptionally meritorious service to the Government in a duty of great responsibility.
+(e) The authority vested in the President by section 492 \[now 2736\] of title 14 of the United States Code to present a distinguished service medal (including incidental items) to any person who, while serving in any capacity with the Coast Guard, distinguishes himself by exceptionally meritorious service to the Government in a duty of great responsibility.
 
-(f) The authority vested in the President by section 493 of title 14 of the United States Code to present the Coast Guard medal (including incidental items) to any person who, while serving in any capacity with the Coast Guard, distinguishes himself by heroism not involving actual conflict with an enemy.
+(f) The authority vested in the President by section 493 \[now 2739\] of title 14 of the United States Code to present the Coast Guard medal (including incidental items) to any person who, while serving in any capacity with the Coast Guard, distinguishes himself by heroism not involving actual conflict with an enemy.
 
-(g) The authority vested in the President by section 494 of title 14 of the United States Code to award emblems, insignia, rosettes, and other devices, to the extent that such authority relates to the awarding of such items to be worn with the distinguished service medal or the Coast Guard medal.
+(g) The authority vested in the President by section 494 \[now 2740\] of title 14 of the United States Code to award emblems, insignia, rosettes, and other devices, to the extent that such authority relates to the awarding of such items to be worn with the distinguished service medal or the Coast Guard medal.
 
-(h) The authority vested in the President by section 498 of title 14 of the United States Code to make posthumous awards of decorations and to designate representatives to receive such awards, to the extent that such authority relates to the awarding of the distinguished service medal or the Coast Guard medal, or ribbons, emblems, insignia, rosettes, or other devices corresponding thereto.
+(h) The authority vested in the President by section 498 \[now 2743\] of title 14 of the United States Code to make posthumous awards of decorations and to designate representatives to receive such awards, to the extent that such authority relates to the awarding of the distinguished service medal or the Coast Guard medal, or ribbons, emblems, insignia, rosettes, or other devices corresponding thereto.
 
-(i) The authority vested in the President by section 499 of title 14 of the United States Code to make rules, regulations, and orders to the extent that they shall relate to the authority described in sections 1(f), 1(g), and 1(h) above.
+(i) The authority vested in the President by section 499 \[now 2731\] of title 14 of the United States Code to make rules, regulations, and orders to the extent that they shall relate to the authority described in sections 1(f), 1(g), and 1(h) above.
 
 (j) The authority vested in the President by the first paragraph of section 806 of the act of September 8, 1916, ch. 463, 39 Stat. 799 \[15 U.S.C. 77\], to direct the detention of any vessel, American or foreign, by withholding clearance or by formal notice forbidding departure; but such authority shall be exercised by the Secretary of Homeland Security only upon a finding by the President that there is reasonable ground to believe that the vessel concerned is making or giving undue or unreasonable preference or advantage to any party, or is subjecting any party to undue or unreasonable prejudice, disadvantage, injury, or discrimination, as described in the said paragraph; and the authority so vested to revoke, modify, or renew any such direction.
 
@@ -222,7 +222,7 @@ Section 1. The Secretary of Homeland Security is hereby designated and empowered
 
 (q) The authority vested in the President by section 2 of the act of October 17, 1940, ch. 896, 54 Stat. 1201 \[former 46 U.S.C. 643b\], to extend, whenever in his judgment the national interest requires, the provisions of subsection (b) of section 4551, Revised Statutes, as amended \[46 U.S.C. 7304\], to such additional class or classes of vessels and to such waters as he may designate.
 
-(r) The authority vested in the President by section 6 of the act of July 24, 1941, ch. 320, 55 Stat. 604, as amended (34 U.S.C. 350e) \[see Historical and Revision Notes set out under 10 U.S.C. 5501\], to make appointments of officers below flag rank without the advice and consent of the Senate, to the extent that such authority relates, pursuant to section 11(b) of the said act, as amended (34 U.S.C. 350j) \[see 14 U.S.C. 214, 275\], to officers of the United States Coast Guard.
+(r) The authority vested in the President by section 6 of the act of July 24, 1941, ch. 320, 55 Stat. 604, asamended (34 U.S.C. 350e) \[see Historical and Revision Notes set out under 10 U.S.C. 8111\], to make appointments of officers below flag rank without the advice and consent of the Senate, to the extent that such authority relates, pursuant to section 11(b) of the said act, as amended (34 U.S.C. 350j) \[see 14 U.S.C. 2104, 2125\], to officers of the United States Coast Guard.
 
 Sec. 2. The Secretary of Homeland Security is hereby designated and empowered to perform without the approval, ratification, or other action of the President the following described functions to the extent that they relate to the United States Coast Guard:
 
@@ -230,7 +230,7 @@ Sec. 2. The Secretary of Homeland Security is hereby designated and empowered to
 
 (b) The authority vested in the President by Articles 4(c) and 75 of the Uniform Code of Military Justice (64 Stat. 110, 132) \[10 U.S.C. 804, 875\], to reappoint a discharged officer to such commissioned rank and precedence as the former officer would have attained had he not been dismissed, and to direct the extent to which any such reappointment shall affect the promotion status of other officers.
 
-(c) The authority vested in the President by section 10 of the act of May 5, 1950, ch. 169, 64 Stat. 146 \[10 U.S.C. 1161, 6408\], to drop from the rolls any officer who has been absent without authority from his place of duty for a period of three months or more, or who, having been found guilty by the civil authorities of any offense, is finally sentenced to confinement in a Federal or State penitentiary or correctional institution.
+(c) The authority vested in the President by section 10 of the act of May 5, 1950, ch. 169, 64 Stat. 146 \[10 U.S.C. 1161, 8375\], to drop from the rolls any officer who has been absent without authority from his place of duty for a period of three months or more, or who, having been found guilty by the civil authorities of any offense, is finally sentenced to confinement in a Federal or State penitentiary or correctional institution.
 
 (d) The authority vested in the President by section 219 of the Armed Forces Reserve Act, approved July 9, 1952 (66 Stat. 487) \[10 U.S.C. 12203\], to make appointments of Reserves in commissioned grades below flag officer grades.
 
@@ -238,7 +238,7 @@ Sec. 2. The Secretary of Homeland Security is hereby designated and empowered to
 
 (f) The authority vested in the President by section 248 of the said Armed Forces Reserve Act \[see 10 U.S.C. 12681, 12682\], to effect the discharge of commissioned officers of the reserve.
 
-(g) The authority vested in the President by section 6 of the act of February 21, 1946, ch. 34, 60 Stat. 27 \[10 U.S.C. 6323\], as made applicable to the Coast Guard Reserve by section 755(a) of Title 14 of the United States Code, in his discretion, to place upon the retired list any officer of the Coast Guard Reserve, upon his own application, who has completed more than twenty years of active service as described in the said section 6.
+(g) The authority vested in the President by section 6 of the act of February 21, 1946, ch. 34, 60 Stat. 27 \[10 U.S.C. 8323\], as made applicable to the Coast Guard Reserve by \[former\] section 755(a) of Title 14 of the United States Code \[see 14 U.S.C. 3705(a)\], in his discretion, to place upon the retired list any officer of the Coast Guard Reserve, upon his own application, who has completed more than twenty years of active service as described in the said section 6.
 
 Sec. 3. All actions heretofore taken by the President with respect to the matters affected by this order and in force at the time of issuance of this order, including any regulations prescribed or approved by the President with respect to such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 
@@ -336,7 +336,7 @@ Section 1. The Secretary of Commerce is hereby designated and empowered to perfo
 
 (j) The authority contained in section 230(b)(3) of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3030(b)(3)), to appoint temporarily in all grades to which original appointments in the National Oceanic and Atmospheric Administration are authorized to fill vacancies caused by transfer of officers to the military departments.
 
-(k) The authority vested in the President by section 251 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3061), to transfer to service and jurisdiction of the Department of Defense, as he may deem to be to the best interest of the country, vessels, equipment, stations, and officers of the National Oceanic and Atmospheric Administration; but the Secretary of Commerce may effect such transfers only during the existence of a state of national emergency proclaimed by President. Commissioned officers so transferred shall serve under their commissions in the National Oceanic and Atmospheric Administration and while so serving shall constitute a part of the active armed forces of the United States and shall be under the direct orders of, and shall be subject to the applicable laws, regulations, and orders for the government of, the armed forces to which they are transferred, respectively. The Secretary of Commerce may return such vessels, equipment, stations, and officers to the jurisdiction of the Department of Commerce, but in time of national emergency such return shall be effected only with the concurrence of the Secretary of Defense.
+(k) The authority vested in the President by section 251 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3061), to transfer to service and jurisdiction of the Department of Defense, as he may deem to be to the best interest of the country, vessels, equipment, stations, and officers of the National Oceanic and Atmospheric Administration; but the Secretary of Commerce may effect such transfers only during the existence of a state of national emergency proclaimed by President. Commissioned officers so transferred shall serve under their commissions in the National Oceanic and Atmospheric Administration and while so serving shall constitute a part of the active armed forces of the United States and shall be under the direct orders of, and shall be subject to the applicable laws, regulations, and orders for the government of, the armed forces to which they are transferred, respectively. The Secretary of Commerce may return suchvessels, equipment, stations, and officers to the jurisdiction of the Department of Commerce, but in time of national emergency such return shall be effected only with the concurrence of the Secretary of Defense.
 
 (l) The authority vested in the President by section 8 of the Act of August 6, 1947 (61 Stat. 788; 33 U.S.C. 883h) to employ public vessels, and to give instructions for regulating their conduct, to carry out the provisions of the Act of August 6, 1947 \[33 U.S.C. 883a et seq.\]; but the employment by the Secretary of Commerce of vessels, except those of the Department of Commerce or of any subordinate entity thereof, shall require the concurrence of the head of the department or other executive agency having custody or control of the vessel.
 
@@ -346,7 +346,7 @@ Sec. 2. Upon receipt by the Secretary of Commerce from the President or from the
 
 Sec. 3. In connection with making appointments or promotions under authority delegated to him by subsections (b), (c), (d), (h), (i), and (j) of section 1 of this order, the Secretary of Commerce shall issue to each person appointed or promoted by him thereunder a certificate evidencing the appointment or promotion of such person. Such certificate may be issued in the name of the President.
 
-Sec. 4. Any requirement of any provision of law that commissions of officers under the direction and control of the Secretary of Commerce be signed by the President before the seal of the Department of Commerce may be affixed thereto shall, in the case of officers appointed under the procedure set forth in section 2 of this order and in the case of officers appointed or promoted under authority delegated by subsections (b), (c), (d), (h), (i), and (j) of section 1 of this order, bedeemed to be satisfied by signature of the commission or certificate by the Secretary of Commerce, before the departmental seal is affixed thereto.
+Sec. 4. Any requirement of any provision of law that commissions of officers under the direction and control of the Secretary of Commerce be signed by the President before the seal of the Department of Commerce may be affixed thereto shall, in the case of officers appointed under the procedure set forth in section 2 of this order and in the case of officers appointed or promoted under authority delegated by subsections (b), (c), (d), (h), (i), and (j) of section 1 of this order, be deemed to be satisfied by signature of the commission or certificate by the Secretary of Commerce, before the departmental seal is affixed thereto.
 
 Sec. 5. The Secretary of Commerce is hereby authorized to accept, in the name of the President, the resignation of a commissioned officer, either permanent or temporary, of the National Oceanic and Atmospheric Administration.
 
@@ -386,7 +386,7 @@ Section 1. The Office of Personnel Management is hereby designated and empowered
 
 (2) The authority vested in the President by Section 203(f) of the Annual and Sick Leave Act of 1951, 65 Stat. 680 (5 U.S.C. 2062(f)) \[5 U.S.C. 6305(a)\], to prescribe regulations governing the granting of leave of absence as described in that Section.
 
-(3) Except as to Presidential appointees, the authority vested in the President (A) by Section 204 of the Act of June 30, 1932, 47 Stat. 404 \[5 U.S.C. 3323(a)\], to exempt from automatic separation from the service under that Section any person when, in his judgment, the public interest so requires and (B) by Section 5(c) of the Civil Service Retirement Act, 70 Stat. 748 (5 U.S.C. 2255(c)) \[5 U.S.C. 8335(c)\], to exempt from automatic separation from the service under Section 5 of that Act \[5 U.S.C. 8335\] any employee when, in his judgment, the public interest so requires.
+(3) Except as to Presidential appointees, the authority vested in the President (A) by Section 204 of the Act of June 30, 1932, 47 Stat. 404 \[5 U.S.C. 3323(a)\], to exempt from automatic separation from the service under that Section any person when, in his judgment, the publicinterest so requires and (B) by Section 5(c) of the Civil Service Retirement Act, 70 Stat. 748 (5 U.S.C. 2255(c)) \[5 U.S.C. 8335(c)\], to exempt from automatic separation from the service under Section 5 of that Act \[5 U.S.C. 8335\] any employee when, in his judgment, the public interest so requires.
 
 (4) The authority vested in the President by Section 9(b) (8) of the Federal Employees Salary Act of 1965 (approved October 29, 1965) \[5 U.S.C. 5595(a)(2)\] to prescribe rules and regulations excluding officers or employees from the application of Section 9 of that Act \[5 U.S.C. 5595\].
 
@@ -414,7 +414,7 @@ Sec. 5. All actions heretofore taken by the President or by his delegates in res
 
 #### Executive Order No. 11230
 
-Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8847, as amended by Ex. Ord. No. 11275, Mar. 31, 1966, 31 F.R.5283; Ex. Ord. No. 11290, July 21, 1966, 31 F.R. 10067; Ex. Ord. No. 11294, Aug. 4, 1966, 31 F.R. 10601, delegating certain functions of the President to the Director of the Bureau of the Budget, was superseded by Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under this section.
+Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8847, as amended by Ex. Ord. No. 11275, Mar. 31, 1966, 31 F.R. 5283; Ex. Ord. No. 11290, July 21, 1966, 31 F.R. 10067; Ex. Ord. No. 11294, Aug. 4, 1966, 31 F.R. 10601, delegating certain functions of the President to the Director of the Bureau of the Budget, was superseded by Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under this section.
 
 #### Executive Order No. 11294
 
@@ -432,15 +432,15 @@ Section 1. The Secretary of Defense, and, as designated by the said Secretary fo
 
 (2), (3) \[Revoked by Ex. Ord. No. 12396, Dec. 9, 1982, 47 F.R. 55897.\]
 
-(4) The authority vested in the President by sections 565 and 599 \[now 12243\] of title 10, United States Code, to suspend, in time of war or emergency, any provision of law relative to promotion and mandatory retirement or separation of warrant officers of the armed forces.
+(4) The authority vested in the President by sections \[former\] 565 and 599 \[now 12243\] of title 10, United States Code, to suspend, in time of war or emergency, any provision of law relative to promotion and mandatory retirement or separation of warrant officers of the armed forces.
 
-(5) The authority vested in the President by sections 4337 and 9337 of title 10, United States Code, to appoint the chaplains at the United States Military and Air Force Academies.
+(5) The authority vested in the President by sections 4337 \[now 7437\] and \[former\] 9337 of title 10, United States Code, to appoint the chaplains at the United States Military and Air Force Academies.
 
-(6) The authority vested in the President by sections 4302(a) and 9302(a) of title 10, United States Code, to approve regulations concerning instruction of enlisted members of the Army and Air Force.
+(6) The authority vested in the President by sections 4302(a) and 9302(a) \[now 7402(a) and 9402(a)\] of title 10, United States Code, to approve regulations concerning instruction of enlisted members of the Army and Air Force.
 
 (7) \[Revoked by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617.\]
 
-(8) The authority vested in the President by sections 5139 and 5149 of title 10, United States Code, relating to the retirement of the Chief of the Medical Service Corps, the Deputy Judge Advocate General, and the Assistant Judge Advocate General, of the Navy.
+(8) The authority vested in the President by sections \[former\] 5139 and 5149 \[now 8089\] of title 10, United States Code, relating to the retirement of the Chief of the Medical Service Corps, the Deputy Judge Advocate General, and the Assistant Judge Advocate General, of the Navy.
 
 (9) \[Revoked by Ex. Ord. No. 12396, Dec. 9, 1982, 47 F.R. 55897.\]
 
@@ -450,7 +450,7 @@ Section 1. The Secretary of Defense, and, as designated by the said Secretary fo
 
 (12) \[Revoked by Ex. Ord. No. 12396, Dec. 9, 1982, 47 F.R. 55897.\]
 
-(13) The authority vested in the President by section 6223(b) of title 10, United States Code, relating to members of the Marine Corps Band.
+(13) The authority vested in the President by \[former\] section 6223(b) of title 10, United States Code, relating to members of the Marine Corps Band.
 
 (14) The authority vested in the President by section 425 of title 37, United States Code, to approve concert tours of the Navy Band and the Marine Corps Band.
 
@@ -460,7 +460,7 @@ Sec. 2. All actions heretofore taken by or for the President with respect to the
 
 #### Ex. Ord. No. 11423. Delegation of Functions to Secretary of State Respecting Certain Facilities Constructed and Maintained on United States Borders
 
-Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, as amended by Ex. Ord. No. 12847, May 17, 1993, 58 F.R. 29511; Ex. Ord. No. 13284, §14, Jan. 23, 2003, 68 F.R. 4076; Ex. Ord. No. 13337, §2, Apr. 30, 2004, 69 F.R. 25300, provided:
+Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, as amended by Ex. Ord. No. 12847, May 17, 1993, 58 F.R.29511; Ex. Ord. No. 13284, §14, Jan. 23, 2003, 68 F.R. 4076; Ex. Ord. No. 13337, §2, Apr. 30, 2004, 69 F.R. 25300, provided:
 
 WHEREAS the proper conduct of the foreign relations of the United States requires that executive permission be obtained for the construction and maintenance at the borders of the United States of facilities connecting the United States with a foreign country; and
 
@@ -486,7 +486,7 @@ Section 1. (a) Except with respect to facilities covered by Executive Order Nos.
 
 &emsp;(v) similar facilities above or below ground; and
 
-&emsp;(vi) border crossings for land transportation, including motor and rail vehicles, to or from a foreigncountry, whether or not in conjunction with the facilities identified in (iii) above.
+&emsp;(vi) border crossings for land transportation, including motor and rail vehicles, to or from a foreign country, whether or not in conjunction with the facilities identified in (iii) above.
 
 (b) With respect to applications received pursuant to subsection (a)(i) above, the Secretary of State shall request the views of the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of the Interior, the Secretary of Commerce, the Secretary of Transportation, the Secretary of Homeland Security, the Interstate Commerce Commission, and the Director of the Office of Emergency Planning. With respect to applications received pursuant to subsection (a)(ii) above, the Secretary of State shall request the views of the Secretary of Defense and the Secretary of the Interior. With respect to applications received pursuant to subsection (a)(iii), (iv), (v), or (vi) above, the Secretary of State shall request the views of the Secretary of the Treasury, the Secretary of Defense, the Attorney General, and the Secretary of Transportation.
 
@@ -510,7 +510,7 @@ Sec. 3. The authority of the Secretary of State hereunder is supplemental to, an
 
 Ex. Ord. No. 11592, May 6, 1971, 36 F.R. 8555, provided:
 
-By virtue of the authority vested in me by section 301 of title 3 of the United States Code, and as President of the United States, the Director of the Office of Management and Budget is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the function of granting the approvals authorized or required to be granted by the President by any of the provisions of the River and Harbor Act of 1970 and the Flood Control Act of 1970, Public Law 91–611, approved December 31, 1970.
+By virtue of the authority vested in me by section 301 of title 3 of the United States Code, and as President ofthe United States, the Director of the Office of Management and Budget is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the function of granting the approvals authorized or required to be granted by the President by any of the provisions of the River and Harbor Act of 1970 and the Flood Control Act of 1970, Public Law 91–611, approved December 31, 1970.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -560,7 +560,7 @@ Section 1. <i>General Services Administration</i>. The Administrator of General 
 
 (17) The authority of the President under section 7(b) of the Tennessee Valley Authority Act of May 18, 1933, 48 Stat. 63 (16 U.S.C. 831f(b)), to provide for the transfer to the Tennessee Valley Authority of the use, possession, and control of real or personal property of the United States deemed by the Administrator of General Services to be necessary and proper for the purposes of that Authority as stated in that Act.
 
-(18) The authority of the President under section 1 of the Act of March 4, 1927, c. 505, 44 Stat. 1422 (20 U.S.C. 191), to transfer to the jurisdiction of the Secretary of Agriculture for the purposes of that Act any land belonging to the United States within or adjacent to the District of Columbia located along the Anacostia River North of Benning Bridge.
+(18) The authority of the President under section 1 of the Act of March 4, 1927, c. 505, 44 Stat. 1422 (20 U.S.C. 191), to transfer to the jurisdiction of the Secretary of Agriculture for the purposes of that Act any land belonging to the United States within or adjacent to theDistrict of Columbia located along the Anacostia River North of Benning Bridge.
 
 (19) That part of the authority of the President under section 7(a) of the Act of July 17, 1959, P.L. 86–91, 73 Stat. 216, as amended (20 U.S.C. 905(a)), which consists of authority to prescribe regulations relating to storage (including packing, drayage, unpacking, and transportation to and from storage) of household effects and personal possessions.
 
@@ -616,7 +616,7 @@ Sec. 9. <i>Office of Management and Budget</i>. The Director of the Office of Ma
 
 (3) The authority of the President under section 202 of the Budget and Accounting Procedures Act of September 12, 1950, 64 Stat. 833 (31 U.S.C. 581c) \[31 U.S.C. 1531\] to approve the transfers of balances of appropriations provided for in subsections (a) and (b) of that section.
 
-(4) The authority of the President under the last sentence of section 11 of the Act of June 6, 1924, c. 270, 43 Stat. 463 (40 U.S.C. 72) \[now 40 U.S.C. 8731(d)\], to approve (i) the designation of lands to be acquired by condemnation, (ii) contracts for purchase of lands, and (iii) agreements between the National Capital Planning Commission and officials of the States of Maryland and Virginia.
+(4) The authority of the President under the last sentence of section 11 of the Act of June 6, 1924, c. 270, 43 Stat. 463 (40 U.S.C. 72) \[now 40 U.S.C. 8731(d)\], to approve (i) the designation of lands to be acquired by condemnation, (ii) contracts for purchase of lands, and (iii)agreements between the National Capital Planning Commission and officials of the States of Maryland and Virginia.
 
 (5) The authority of the President under section 1 of the Act of December 22, 1928, c. 48, 45 Stat. 1070 (40 U.S.C. 72a) \[now 40 U.S.C. 8732\], to approve contracts for acquisition of land subject to limited rights reserved to the grantor and for the acquisition of limited permanent rights in land adjoining park property.
 
@@ -754,11 +754,11 @@ Section 1. The Secretary of Defense is designated to perform, without approval, 
 
 (c) The authority vested in the President by Section 624(c) of Title 10 of the United States Code, to appoint officers in the grades of first lieutenant and captain in the Army, Air Force, and Marine Corps or in the grades of lieutenant (junior grade) and lieutenant in the Navy.
 
-(d) The authority vested in the President by Section 5721(c) of Title 10 of the United States Code, to make certain temporary appointments to the grade of lieutenant commander.
+(d) The authority vested in the President by \[former\] Section 5721(c) of Title 10 of the United States Code, to make certain temporary appointments to the grade of lieutenant commander.
 
-(e) The authority vested in the President by Section 6323(a) of Title 10 of the United States Code, to approve the application of an officer of the Navy or the Marine Corps for retirement after the completion of more than 20 years of active service and to designate the month in which such retirements shall become effective.
+(e) The authority vested in the President by Section 6323(a) \[now 8323(a)\] of Title 10 of the United States Code, to approve the application of an officer of the Navy or the Marine Corps for retirement after the completion of more than 20 years of active service and to designate the month in which such retirements shall become effective.
 
-(f) The authority vested in the President by Sections 3918 and 8918 of Title 10 of the United States Code, to approve the request of a regular commissioned officer of the Army or the Air Force to retire after at least 30 years of service.
+(f) The authority vested in the President by Sections 3918 and 8918 \[now 7318 and 9318\] of Title 10 of theUnited States Code, to approve the request of a regular commissioned officer of the Army or the Air Force to retire after at least 30 years of service.
 
 (g) Nothing in this Section shall be deemed to delegate the authority vested in the President by Section 618(c) of Title 10 to remove a name from a selection board report.
 
@@ -790,7 +790,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12781, Nov. 20, 1991, 56 F.R. 59203, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 3603 of the Financial Reports Act of 1988 (22 U.S.C. 5351 <i>et seq</i>.) \[22 U.S.C. 5353\], section 274A(d)(2) and (4) of the Immigration and Nationality Act ("Act"), as amended (8 U.S.C. 1324a(d)(2) and (4)), sections 4561, 6082, and 9561 of title 10 of the United States Code, the Act of June 14, 1987 \[1897\], ch. 2, 30 Stat. 11, 36 (16 U.S.C. 473), section 301 of title 3 of the United States Code, and in order to: (1) delegate functions concerning discussions with foreign governments to improve access by U.S. banking and financial organizations; (2) delegate authority concerning a national employment verification system; (3) delegate authority concerning the development of requirements and regulations for a uniform military ration; and (4) correct the title of the Nez Perce National Forest, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 3603 of the Financial Reports Act of 1988 (22 U.S.C. 5351 <i>et seq</i>.) \[22 U.S.C. 5353\], section 274A(d)(2) and (4) of the Immigration and Nationality Act ("Act"), as amended (8 U.S.C. 1324a(d)(2) and (4)), sections 4561 \[now 7561\], 6082 \[now 8242\], and 9561 of title 10 of the United States Code, the Act of June 14, 1987 \[1897\], ch. 2, 30 Stat. 11, 36 (16 U.S.C. 473), section 301 of title 3 of the United States Code, and in order to: (1) delegate functions concerning discussions with foreign governments to improve access by U.S. banking and financial organizations; (2) delegate authority concerning a national employment verification system; (3) delegate authority concerning the development of requirements and regulations for a uniform military ration; and (4) correct the title of the Nez Perce National Forest, it is hereby ordered as follows:
 
 Section 1. <i>Functions Concerning Discussions with Foreign Governments to Improve Access by U.S. Banking and Financial Organizations</i>. The functions vested in the President by section 3603 of the Financial Reports Act of 1988 (22 U.S.C. 5353) are hereby delegated to the Secretary of the Treasury. This delegation is not in derogation of, and shall not affect, the existing authorities of the United States Trade Representative.
 
@@ -798,7 +798,7 @@ Sec. 2. <i>Authority Concerning the Employment Verification System</i>. The auth
 
 Sec. 3. <i>Authority, Requirements, and Regulations Concerning a Uniform Military Ration.</i>
 
-(a) <i>Authority</i>. The Secretary of Defense is hereby designated and empowered to exercise, without the approval, ratification, or other action by the President, the authority conferred upon the President by section 4561(a), sections 6082(a) and (d), and section 9561(a) of title 10 of the United States Code. Under this authority the Secretary may prescribe a uniform military ration applicable to the Army, Navy, and Air Force.
+(a) <i>Authority</i>. The Secretary of Defense is hereby designated and empowered to exercise, without the approval, ratification, or other action by the President, the authority conferred upon the President by section 4561(a) \[now 7561(a)\], sections 6082(a) and (d) \[now 8242(a) and (d)\], and section 9561(a) of title 10 of the United States Code. Under this authority the Secretary may prescribe a uniform military ration applicable to the Army, Navy, and Air Force.
 
 (b) <i>Requirements</i>. (1) <i>Components and Quantities</i>. The components and the quantities of the uniform military ration shall reflect military member preferences and satisfy nutritional requirements. (2) <i>Monetary Value</i>. The monetary value of the uniform military ration shall be equal to the monetary value of the ration in effect on the day before the effective date of this order. (3) <i>Index</i>. The Secretary of Defense shall establish, as of the effective date of this order, an index composed of a representative market basket of items equal in value to the ration value. Subsequent to the effective date of this order, and based upon the changing prices of food components in the index, the Secretaries of the military departments shall periodically redetermine the monetary value of the ration. The Secretary of Defense shall review the index periodically, but not less than once a year, to ensure that it reflects changes in food service technology, scientific advances in nutrition, the requirements of the Armed Forces of the United States, and the food preferences of the enlisted members. Increases or decreases in the monetary value of the ration that result from changes in the composition of the food items making up the index shall not exceed 2 percent of the ration value annually.
 
@@ -814,7 +814,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 301 of title 3, United States Code, it is hereby ordered as follows:
 
 Section 1. The functions of the President of submitting certain recurring reports to the Congress are assigned as follows:
 
@@ -916,7 +916,7 @@ Sec. 2. Reports to the Congress described in certain Senate resolutions shall be
 
 2\. Report on Compliance With the Treaty on Conventional Armed Forces in Europe, consistent with Condition 5(C) of the Resolution of Advice and Consent to Ratification of the Document Agreed Among the States Parties to the Treaty on Conventional Armed Forces in Europe of November 19, 1990;
 
-3\. Report on Chemical Weapons Convention Compliance, consistent with Condition 10(C) of the Resolutionof Advice and Consent to the Chemical Weapons Convention adopted by the Senate on April 24, 1997; and
+3\. Report on Chemical Weapons Convention Compliance, consistent with Condition 10(C) of the Resolution of Advice and Consent to the Chemical Weapons Convention adopted by the Senate on April 24, 1997; and
 
 4\. Report on Moscow Treaty Implementation, consistent with section 2(2) of the Resolution of Advice and Consent to Ratification of the Treaty on Strategic Offensive Reductions of May 24, 2002.
 
@@ -1036,9 +1036,9 @@ Sec. 2. <i>Assignment of Functions to the Secretary of Homeland Security</i>. Th
 
 (b) the first sentence of subsection 12203(a) of title 10;
 
-(c) subsection 729(g) of title 14, except with respect to approval of, or removal of a name from, a report relating to the grades of rear admiral (lower half) or above; and
+(c) subsection 729(g) \[now 3740(g)\] of title 14, except with respect to approval of, or removal of a name from, a report relating to the grades of rear admiral (lower half) or above; and
 
-(d) subsection 738(a) of title 14, except with respect to removals relating to a promotion list for grades of rear admiral (lower half) or above.
+(d) subsection 738(a) \[now 3749(a)\] of title 14, except with respect to removals relating to a promotion list for grades of rear admiral (lower half) or above.
 
 Sec. 3. <i>Reassignment of Functions Assigned</i>. The Secretary of Defense and the Secretary of Homeland Security may reassign the functions assigned to them by this order to civilian officers, within their respective departments, who hold a position for which the President makes an appointment by and with the advice and consent of the Senate, except that the Secretary of Defense and the Secretary of Homeland Security may not reassign the functions assigned by sections 1(b) and 2(b), respectively. The Secretary of Defense may not reassign the function assigned by section 1(c) of this order except to such an officer within the Office of the Secretary of Defense (as defined in section 131(b) of title 10).
 
@@ -1062,7 +1062,7 @@ Section 1. <i>Assignment of Functions to the Secretary of Defense</i>. The Secre
 
 (b) sections 629(c)(2) and 14310(c)(2) with respect to extending officer promotion eligibility periods; and
 
-(c) section 6222(c)(2) with respect to appointments of members of the Marine Band and members of the Marine Drum and Bugle Corps to grades not above the grade of captain.
+(c) section 6222(c)(2) \[now 8287(c)(2)\] with respect to appointments of members of the Marine Band and members of the Marine Drum and Bugle Corps to grades not above the grade of captain.
 
 Sec. 2. <i>Reassignment of Functions Assigned</i>. The Secretary of Defense may reassign the functions assigned to him by sections \[sic\] 1(a) and (b) of this order only to civilian officers within the Office of the Secretary of Defense (as defined in section 131(b) of title 10, United States Code) who hold a position for which the President makes an appointment by and with the advice and consent of the Senate. The Secretary of Defense may not reassign the function assigned to him by section 1(c) of this order.
 

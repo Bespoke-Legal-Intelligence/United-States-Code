@@ -104,7 +104,7 @@ Subsec. (a)(7). Pub. L. 104–235, §211(1)(C), amended par. (7) generally. Prio
 
 Subsec. (b). Pub. L. 104–235, §211(2), substituted "conditions, by providing a mechanism to—" for "conditions, by—
 
-&emsp;"(1) promoting model adoption legislation and procedures in the States and territories of the United States in order to eliminate jurisdictional and legal obstacles to adoption; and
+&emsp;"(1) promoting model adoption legislation and procedures in the States and territories of the UnitedStates in order to eliminate jurisdictional and legal obstacles to adoption; and
 
 &emsp;"(2) providing a mechanism for the Department of Health and Human Services to—",
 

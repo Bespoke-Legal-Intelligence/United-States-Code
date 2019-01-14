@@ -20,7 +20,7 @@
 | [40116\.](%C2%A7%2040116%20-%20State%20taxation.md) | State taxation. |
 | [40117\.](%C2%A7%2040117%20-%20Passenger%20facility%20charges.md) | Passenger facility charges. |
 | [40118\.](%C2%A7%2040118%20-%20Government-financed%20air%20transportation.md) | Government-financed air transportation. |
-| [40119\.](%C2%A7%2040119%20-%20Security%20and%20research%20and%20development%20activities.md) | Security and research and development activities. |
+| [40119\.](%C2%A7%2040119%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93254%2C%20div.%20K%2C%20title%20I%2C%20%C2%A71991%28c%29%283%29%2C%20Oct.%205%2C%202018%2C%20132%20Stat.%203627.md) | \[Reserved\]. |
 | [40120\.](%C2%A7%2040120%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
 | [40121\.](%C2%A7%2040121%20-%20Air%20traffic%20control%20modernization%20reviews.md) | Air traffic control modernization reviews. |
 | [40122\.](%C2%A7%2040122%20-%20Federal%20Aviation%20Administration%20personnel%20management%20system.md) | Federal Aviation Administration personnel management system. |
@@ -36,6 +36,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2018</b>—Pub. L. 115–254, div. K, title I, §1991(c)(4), Oct. 5, 2018, 132 Stat. 3627, substituted "\[Reserved\]" for "Security and research and development activities" in item 40119.
 
 <b>2012</b>—Pub. L. 112–95, title I, §111(c)(3), title VIII, §802(b), Feb. 14, 2012, 126 Stat. 18, 119, substituted "Passenger facility charges" for "Passenger facility fees" in item 40117 and added item 40130.
 
@@ -72,7 +74,7 @@ Pub. L. 104–264, title II, §254, title IV, §§401(b)(2), 402(b), Oct. 9, 199
 - [&sect; 40116 - State taxation](%C2%A7%2040116%20-%20State%20taxation.md)
 - [&sect; 40117 - Passenger facility charges](%C2%A7%2040117%20-%20Passenger%20facility%20charges.md)
 - [&sect; 40118 - Government-financed air transportation](%C2%A7%2040118%20-%20Government-financed%20air%20transportation.md)
-- [&sect; 40119 - Security and research and development activities](%C2%A7%2040119%20-%20Security%20and%20research%20and%20development%20activities.md)
+- [&sect; 40119 - Repealed. Pub. L. 115&#8211;254, div. K, title I, &sect;1991(c)(3), Oct. 5, 2018, 132 Stat. 3627](%C2%A7%2040119%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93254%2C%20div.%20K%2C%20title%20I%2C%20%C2%A71991%28c%29%283%29%2C%20Oct.%205%2C%202018%2C%20132%20Stat.%203627.md)
 - [&sect; 40120 - Relationship to other laws](%C2%A7%2040120%20-%20Relationship%20to%20other%20laws.md)
 - [&sect; 40121 - Air traffic control modernization reviews](%C2%A7%2040121%20-%20Air%20traffic%20control%20modernization%20reviews.md)
 - [&sect; 40122 - Federal Aviation Administration personnel management system](%C2%A7%2040122%20-%20Federal%20Aviation%20Administration%20personnel%20management%20system.md)

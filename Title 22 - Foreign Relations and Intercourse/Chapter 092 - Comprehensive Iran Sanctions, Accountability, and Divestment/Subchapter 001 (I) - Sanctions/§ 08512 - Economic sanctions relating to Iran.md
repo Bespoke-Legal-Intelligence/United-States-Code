@@ -102,7 +102,7 @@ The penalties provided for in subsections (b) and (c) of section 206 of the Inte
 
 #### (2) Applicability of certain regulations
 
-&emsp;No exception to the prohibition under subsection (b)(1) may be made for the commercial importation of an Iranian origin good described in section 560.534(a) of title 31, Code of Federal Regulations (as in effect on the day before July 1, 2010), unless the President—
+&emsp;No exception to the prohibition under subsection (b)(1) may be made for the commercial importation of an Iranian origin good described in section 560.534(a) of title 31, Code ofFederal Regulations (as in effect on the day before July 1, 2010), unless the President—
 
 &emsp;&emsp;(A) prescribes a regulation providing for such an exception on or after July 1, 2010; and
 

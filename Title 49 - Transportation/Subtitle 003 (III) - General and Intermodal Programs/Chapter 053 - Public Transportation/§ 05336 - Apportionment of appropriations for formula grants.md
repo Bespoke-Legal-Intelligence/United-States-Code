@@ -60,7 +60,7 @@ Based on Bus Vehicle Revenue Miles and Passenger Miles.—Of the amount apportio
 
 &emsp;&emsp;&emsp;(ii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio equal to the population of the area divided by the total population of all areas, as shown by the most recent decennial census; and
 
-&emsp;&emsp;&emsp;(iii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio for the area based on populationweighted by a factor, established by the Secretary, of the number of inhabitants in each square mile.
+&emsp;&emsp;&emsp;(iii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio for the area based on population weighted by a factor, established by the Secretary, of the number of inhabitants in each square mile.
 
 &emsp;(2) 9.2 percent of the total amount apportioned under this subsection shall be apportioned so that each urbanized area with a population of at least 200,000 is entitled to receive an amount equal to—
 
@@ -156,7 +156,7 @@ Apportionment formula.—The amount to be apportioned under subsection (h)(3) sh
 
 &emsp;&emsp;(B)
 
-Data used in formula.—The Secretary shall calculate apportionments under thissubsection for a fiscal year using data from the national transit database used to calculate apportionments for that fiscal year under this section.
+Data used in formula.—The Secretary shall calculate apportionments under this subsection for a fiscal year using data from the national transit database used to calculate apportionments for that fiscal year under this section.
 
 (j)
 
@@ -174,7 +174,7 @@ Apportionment Formula.—The amounts apportioned under subsection (h)(2) shall b
 
 &emsp;&emsp;(B) the number of eligible low-income individuals in all such urbanized areas.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 840; Pub. L. 104–287, §5(19), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §§3027(a), (b), 3029(b)(10), (11), June 9, 1998, 112 Stat. 366, 373; Pub. L. 109–59, title III, §§3002(b)(4), 3034, Aug. 10, 2005, 119 Stat. 1545, 1627; Pub. L. 110–244, title II, §201(l), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20026, July 6, 2012, 126 Stat. 719; Pub. L. 113–159, title I, §1202, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1202, May 29, 2015, 129 Stat. 223; Pub. L. 114–41, title I, §1202, July 31, 2015, 129 Stat. 450; Pub. L. 114–73, title I, §1202, Oct. 29, 2015, 129 Stat. 573; Pub. L. 114–87, title I, §1202, Nov. 20, 2015, 129 Stat. 682; Pub. L. 114–94, div. A, title III, §3014, Dec. 4, 2015, 129 Stat. 1478.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 840; Pub. L. 104–287, §5(19), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §§3027(a), (b), 3029(b)(10), (11), June 9, 1998, 112 Stat. 366, 373; Pub. L. 109–59, title III, §§3002(b)(4), 3034, Aug. 10, 2005, 119 Stat. 1545, 1627; Pub. L. 110–244, title II, §201(l), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20026, July 6, 2012, 126 Stat. 719;Pub. L. 113–159, title I, §1202, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1202, May 29, 2015, 129 Stat. 223; Pub. L. 114–41, title I, §1202, July 31, 2015, 129 Stat. 450; Pub. L. 114–73, title I, §1202, Oct. 29, 2015, 129 Stat. 573; Pub. L. 114–87, title I, §1202, Nov. 20, 2015, 129 Stat. 682; Pub. L. 114–94, div. A, title III, §3014, Dec. 4, 2015, 129 Stat. 1478.)
 
 Historical and Revision Notes
 

@@ -10,63 +10,21 @@ In this subchapter:
 
 &emsp;&emsp;(B) The environmental quality incentives program.
 
-&emsp;&emsp;(C) The conservation stewardship program.
+&emsp;&emsp;(C) The conservation stewardship program, not including the grassland conservation initiative under section 3839aa–25 of this title.
 
 &emsp;&emsp;(D) The healthy forests reserve program established under section 6571 of this title.
 
+&emsp;&emsp;(E) The conservation reserve program established under subpart B of part I of subchapter IV.
+
+&emsp;&emsp;(F) The programs established by the Secretary to carry out the Watershed Protection and Flood Prevention Act (16 U.S.C. 1001 et seq.), except for any program established by the Secretary to carry out section 14 (16 U.S.C. 1012) of that Act.
+
 #### (2) Eligible activity
 
-&emsp;The term "eligible activity" means a conservation activity for any of the following:
-
-&emsp;&emsp;(A) Water quality restoration or enhancement projects, including nutrient management and sediment reduction.
-
-&emsp;&emsp;(B) Water quantity conservation, restoration, or enhancement projects relating to surface water and groundwater resources, including—
-
-&emsp;&emsp;&emsp;(i) the conversion of irrigated cropland to the production of less water-intensive agricultural commodities or dryland farming; or
-
-&emsp;&emsp;&emsp;(ii) irrigation system improvement and irrigation efficiency enhancement.
-
-&emsp;&emsp;(C) Drought mitigation.
-
-&emsp;&emsp;(D) Flood prevention.
-
-&emsp;&emsp;(E) Water retention.
-
-&emsp;&emsp;(F) Air quality improvement.
-
-&emsp;&emsp;(G) Habitat conservation, restoration, and enhancement.
-
-&emsp;&emsp;(H) Erosion control and sediment reduction.
-
-&emsp;&emsp;(I) Forest restoration.
-
-&emsp;&emsp;(J) Other related activities that the Secretary determines will help achieve conservation benefits.
+&emsp;The term "eligible activity" means a practice, activity, agreement, easement, or related conservation measure that is available under the statutory authority for a covered program.
 
 #### (3) Eligible land
 
-#### (A) In general
-
-&emsp;&emsp;The term "eligible land" means—
-
-&emsp;&emsp;&emsp;(i) land on which agricultural commodities, livestock, or forest-related products are produced; and
-
-&emsp;&emsp;&emsp;(ii) lands associated with the lands described in clause (i).
-
-#### (B) Inclusions
-
-&emsp;&emsp;The term "eligible land" includes—
-
-&emsp;&emsp;&emsp;(i) cropland;
-
-&emsp;&emsp;&emsp;(ii) grassland;
-
-&emsp;&emsp;&emsp;(iii) rangeland;
-
-&emsp;&emsp;&emsp;(iv) pastureland;
-
-&emsp;&emsp;&emsp;(v) nonindustrial private forest land; and
-
-&emsp;&emsp;&emsp;(vi) other land incidental to agricultural production (including wetlands and riparian buffers) on which significant natural resource issues could be addressed under the program.
+&emsp;The term "eligible land" means any agricultural or nonindustrial private forest land or associated land on which the Secretary determines an eligible activity would help achieve conservation benefits.
 
 #### (4) Eligible partner
 
@@ -80,7 +38,7 @@ In this subchapter:
 
 &emsp;&emsp;(D) A farmer cooperative.
 
-&emsp;&emsp;(E) A water district, irrigation district, rural water district or association, or other organization with specific water delivery authority to producers on agricultural land.
+&emsp;&emsp;(E) A water district, irrigation district, acequia, rural water district or association, or other organization with specific water delivery authority to producers on agricultural land.
 
 &emsp;&emsp;(F) A municipal water or wastewater treatment entity.
 
@@ -92,13 +50,47 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) critical watershed-scale soil erosion, water quality, sediment reduction, or other natural resource issues.
 
+&emsp;&emsp;(I) An organization described in section 3865a(3)(B) of this title.
+
+&emsp;&emsp;(J) A conservation district.
+
 #### (5) Partnership agreement
 
-&emsp;The term "partnership agreement" means an agreement entered into under section 3871b of this title between the Secretary and an eligible partner.
+&emsp;The term "partnership agreement" means the programmatic agreement entered into between the Secretary and an eligible partner, subject to the terms and conditions under section 3871b of this title.
 
 #### (6) Program
 
 &emsp;The term "program" means the regional conservation partnership program established by this subchapter.
 
-(Pub. L. 99–198, title XII, §1271A, as added Pub. L. 113–79, title II, §2401, Feb. 7, 2014, 128 Stat. 745.)
+#### (7) Program contract
+
+#### (A) In general
+
+&emsp;&emsp;The term "program contract" means the contract between the Secretary and a producer entered into under this subchapter.
+
+#### (B) Exclusion
+
+&emsp;&emsp;The term "program contract" does not include a contract under a covered program.
+
+(Pub. L. 99–198, title XII, §1271A, as added Pub. L. 113–79, title II, §2401, Feb. 7, 2014, 128 Stat. 745; amended Pub. L. 115–334, title II, §2702, Dec. 20, 2018, 132 Stat. 4593.)
+
+#### References in Text
+
+The Watershed Protection and Flood Prevention Act, referred to in par. (1)(F), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified principally to chapter 18 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+
+#### Amendments
+
+<b>2018</b>—Par. (1)(C). Pub. L. 115–334, §2702(1)(A), inserted ", not including the grassland conservation initiative under section 3839aa–25 of this title" before period at end.
+
+Par. (1)(E), (F). Pub. L. 115–334, §2702(1)(B), added subpars. (E) and (F).
+
+Pars. (2), (3). Pub. L. 115–334, §2702(2), added pars. (2) and (3) and struck out former pars. (2) and (3), which defined "eligible activity" as a conservation activity for specified purposes and types of projects and "eligible land" as specified types of land or associated lands on which agricultural commodities, livestock, or forest-related products are produced.
+
+Par. (4)(E). Pub. L. 115–334, §2702(3)(A), inserted "acequia," after "irrigation district,".
+
+Par. (4)(I), (J). Pub. L. 115–334, §2702(3)(B), added subpars. (I) and (J).
+
+Par. (5). Pub. L. 115–334, §2702(4), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: "The term 'partnership agreement' means an agreement entered into under section 3871b of this title between the Secretary and an eligible partner."
+
+Par. (7). Pub. L. 115–334, §2702(5), added par. (7).
 

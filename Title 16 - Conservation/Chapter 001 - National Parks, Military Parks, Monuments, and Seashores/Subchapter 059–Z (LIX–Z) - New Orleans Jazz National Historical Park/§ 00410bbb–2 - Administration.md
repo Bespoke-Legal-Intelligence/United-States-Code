@@ -16,7 +16,7 @@ The Secretary is authorized to construct, operate, and maintain an interpretive 
 
 #### (d) Jazz heritage districts
 
-The Secretary may provide technical assistance to the city of New Orleans and other appropriate entities for the designation of certain areas in and around New Orleans as jazz heritage districts. Such districts shall include those areas with an exceptional concentration of jazzhistorical sites and established community traditions of jazz street parades.
+The Secretary may provide technical assistance to the city of New Orleans and other appropriate entities for the designation of certain areas in and around New Orleans as jazz heritage districts. Such districts shall include those areas with an exceptional concentration of jazz historical sites and established community traditions of jazz street parades.
 
 #### (e) Cooperative agreements, grants and technical assistance
 

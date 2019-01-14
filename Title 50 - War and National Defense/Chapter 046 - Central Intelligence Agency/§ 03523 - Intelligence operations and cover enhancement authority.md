@@ -190,7 +190,7 @@ The Director of the Central Intelligence Agency may exempt a designated employee
 
 #### (2) Internal Revenue Service review
 
-&emsp;The Director of the Central Intelligence Agency shall establish procedures to carry out this subsection. The procedures shall be subject to periodic review by the Internal Revenue Service.
+&emsp;The Director of the Central Intelligence Agency shall establish procedures to carry outthis subsection. The procedures shall be subject to periodic review by the Internal Revenue Service.
 
 #### (i) Regulations
 

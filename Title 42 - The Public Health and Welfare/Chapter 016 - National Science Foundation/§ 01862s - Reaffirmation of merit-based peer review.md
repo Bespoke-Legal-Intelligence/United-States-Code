@@ -60,5 +60,5 @@ STEM.—The term 'STEM' has the meaning given the term in section 2 of the Ameri
 
 &emsp;"(7)
 
-STEM education.—The term 'STEM education' has the meaning given the term in section 2 of theSTEM Education Act of 2015 \[Pub. L. 114–59\] (42 U.S.C. 6621 note)."
+STEM education.—The term 'STEM education' has the meaning given the term in section 2 of the STEM Education Act of 2015 \[Pub. L. 114–59\] (42 U.S.C. 6621 note)."
 

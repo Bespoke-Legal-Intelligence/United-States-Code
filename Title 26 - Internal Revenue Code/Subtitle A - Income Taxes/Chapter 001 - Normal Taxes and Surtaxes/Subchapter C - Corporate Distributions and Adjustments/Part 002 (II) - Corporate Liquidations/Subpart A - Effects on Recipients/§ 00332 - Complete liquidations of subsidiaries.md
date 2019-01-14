@@ -8,13 +8,13 @@ No gain or loss shall be recognized on the receipt by a corporation of property 
 
 For purposes of this section, a distribution shall be considered to be in complete liquidation only if—
 
-&emsp;(1) the corporation receiving such property was, on the date of the adoption of the plan ofliquidation, and has continued to be at all times until the receipt of the property, the owner of stock (in such other corporation) meeting the requirements of section 1504(a)(2); and either
+&emsp;(1) the corporation receiving such property was, on the date of the adoption of the plan of liquidation, and has continued to be at all times until the receipt of the property, the owner of stock (in such other corporation) meeting the requirements of section 1504(a)(2); and either
 
 &emsp;(2) the distribution is by such other corporation in complete cancellation or redemption of all its stock, and the transfer of all the property occurs within the taxable year; in such case the adoption by the shareholders of the resolution under which is authorized the distribution of all the assets of such corporation in complete cancellation or redemption of all its stock shall be considered an adoption of a plan of liquidation, even though no time for the completion of the transfer of the property is specified in such resolution; or
 
 &emsp;(3) such distribution is one of a series of distributions by such other corporation in complete cancellation or redemption of all its stock in accordance with a plan of liquidation under which the transfer of all the property under the liquidation is to be completed within 3 years from the close of the taxable year during which is made the first of the series of distributions under the plan, except that if such transfer is not completed within such period, or if the taxpayer does not continue qualified under paragraph (1) until the completion of such transfer, no distribution under the plan shall be considered a distribution in complete liquidation.
 
-> If such transfer of all the property does not occur within the taxable year, the Secretary may require of the taxpayer such bond, or waiver of the statute of limitations on assessment and collection, or both, as he may deem necessary to insure, if the transfer of the property is not completed within such 3-year period, or if the taxpayer does not continue qualified under paragraph (1) until the completion of such transfer, the assessment and collection of all income taxes then imposed by law for such taxable year or subsequent taxable years, to the extent attributable to property so received. A distribution otherwise constituting a distribution in complete liquidation within the meaning of this subsection shall not be considered as not constituting such a distribution merely because it does not constitute a distribution or liquidation within the meaning of the corporate law under which the distribution is made; and for purposes of this subsection a transfer of property of such other corporation to the taxpayer shall not be considered as not constituting a distribution (or one of a series of distributions) in complete cancellation or redemption of all the stock of such other corporation, merely because the carrying out of the plan involves (A) the transfer under the plan to the taxpayer by such other corporation of property, not attributable to shares owned by the taxpayer, on an exchange described in section 361, and (B) the complete cancellation or redemption under the plan, as a result of exchanges described in section 354, of the shares not owned by the taxpayer.
+> If such transfer of all the property does not occur within the taxable year, the Secretary may require of the taxpayer such bond, or waiver of the statute of limitations on assessment and collection, or both, as he may deem necessary to insure, if the transfer of the property is not completed within such 3-year period, or if the taxpayer does not continue qualified under paragraph (1) until the completion of such transfer, the assessment and collection of all incometaxes then imposed by law for such taxable year or subsequent taxable years, to the extent attributable to property so received. A distribution otherwise constituting a distribution in complete liquidation within the meaning of this subsection shall not be considered as not constituting such a distribution merely because it does not constitute a distribution or liquidation within the meaning of the corporate law under which the distribution is made; and for purposes of this subsection a transfer of property of such other corporation to the taxpayer shall not be considered as not constituting a distribution (or one of a series of distributions) in complete cancellation or redemption of all the stock of such other corporation, merely because the carrying out of the plan involves (A) the transfer under the plan to the taxpayer by such other corporation of property, not attributable to shares owned by the taxpayer, on an exchange described in section 361, and (B) the complete cancellation or redemption under the plan, as a result of exchanges described in section 354, of the shares not owned by the taxpayer.
 
 #### (c) Deductible liquidating distributions of regulated investment companies and real estate investment trusts
 
@@ -48,7 +48,7 @@ If a corporation receives a distribution from a regulated investment company or 
 
 #### (B) Affiliated group
 
-&emsp;&emsp;For purposes of this subsection, the term "affiliated group" has the meaning given such term by section 1504(a) (without regard to paragraphs (2) and (4) of section 1504(b)).
+&emsp;&emsp;For purposes of this subsection, the term "affiliated group" has the meaning given such term by section 1504(a) (without regard to paragraph (2) of section 1504(b)).
 
 #### (3) Coordination with subpart F
 
@@ -58,9 +58,11 @@ If a corporation receives a distribution from a regulated investment company or 
 
 &emsp;The Secretary shall provide such regulations as appropriate to prevent the abuse of this subsection, including regulations which provide, for the purposes of clause (iv) of paragraph (2)(A), that a corporation is not in existence for any period unless it is engaged in the active conduct of a trade or business or owns a significant ownership interest in another corporation so engaged.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 102; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, §631(e)(2), title XVIII, §1804(e)(6)(A), Oct. 22, 1986, 100 Stat. 2273, 2803; Pub. L. 105–277, div. J, title III, §3001(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–904; Pub. L. 108–357, title VIII, §893(a), Oct. 22, 2004, 118 Stat. 1646; Pub. L. 109–135, title IV, §412(v), Dec. 21, 2005, 119 Stat. 2638.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 102; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, §631(e)(2), title XVIII, §1804(e)(6)(A), Oct. 22, 1986, 100 Stat. 2273, 2803; Pub. L. 105–277, div. J, title III, §3001(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–904; Pub. L. 108–357, title VIII, §893(a), Oct. 22, 2004, 118 Stat. 1646; Pub. L. 109–135, title IV, §412(v), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xvii)(III), Mar. 23, 2018, 132 Stat. 1208.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(2)(B). Pub. L. 115–141 substituted "paragraph (2)" for "paragraphs (2) and (4)".
 
 <b>2005</b>—Subsec. (d)(1)(B). Pub. L. 109–135 substituted "distribution of property to which section 301 applies" for "distribution to which section 301 applies".
 
@@ -101,6 +103,10 @@ Certain distributions made after december 31, 1984.—Except as provided in clau
 "(iii)
 
 Transitional rule for affiliated groups.—The amendment made by subparagraph (A) shall not apply with respect to plans of complete liquidation if the liquidating corporation is a member of an affiliated group of corporations under section 60(b) (2), (5), (6), or (8) of the Tax Reform Act of 1984 \[Pub. L. 98–369, set out as a note under section 1504 of this title\], for all taxable years which include the date of any distribution pursuant to such plan."
+
+#### Savings Provision
+
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

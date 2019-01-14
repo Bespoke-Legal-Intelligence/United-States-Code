@@ -12,7 +12,7 @@ Subject to this part, a State to which a grant is made under section 603 of this
 
 #### (1) Limitation
 
-&emsp;A State to which a grant is made under section 603 of this title shall not expend more than 15 percent of the grant for administrative purposes.
+&emsp;A State to which a grant is made under section 603 of this title shall not expend morethan 15 percent of the grant for administrative purposes.
 
 #### (2) Exception
 
@@ -86,7 +86,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (ii) First home purchase
 
-&emsp;&emsp;&emsp;Qualified acquisition costs with respect to a qualified principal residence for a qualified first-time homebuyer, if paid from an individual development account directly to the persons to whom the amounts are due.
+&emsp;&emsp;&emsp;Qualified acquisition costs with respect to a qualified principal residence for aqualified first-time homebuyer, if paid from an individual development account directly to the persons to whom the amounts are due.
 
 #### (iii) Business capitalization
 
@@ -104,7 +104,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (A) In general
 
-&emsp;&emsp;An individual development account established under this subsection shall be a trustcreated or organized in the United States and funded through periodic contributions by the establishing individual and matched by or through a qualified entity for a qualified purpose (as described in paragraph (2)(B)).
+&emsp;&emsp;An individual development account established under this subsection shall be a trust created or organized in the United States and funded through periodic contributions by the establishing individual and matched by or through a qualified entity for a qualified purpose (as described in paragraph (2)(B)).
 
 #### (B) "Qualified entity" defined
 
@@ -176,7 +176,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (I) Qualified principal residence
 
-&emsp;&emsp;The term "qualified principal residence" means a principal residence (within the meaning of section 1034 of the Internal Revenue Code of 1986), the qualified acquisition costs of which do not exceed 100 percent of the average area purchase price applicable to such residence (determined in accordance with paragraphs (2) and (3) of section 143(e) of such Code).
+&emsp;&emsp;The term "qualified principal residence" means a principal residence (within themeaning of section 1034 of the Internal Revenue Code of 1986), the qualified acquisition costs of which do not exceed 100 percent of the average area purchase price applicable to such residence (determined in accordance with paragraphs (2) and (3) of section 143(e) of such Code).
 
 #### (i) Sanction welfare recipients for failing to ensure that minor dependent children attend school
 
@@ -184,7 +184,7 @@ A State to which a grant is made under section 603 of this title shall not be pr
 
 #### (j) Requirement for high school diploma or equivalent
 
-A State to which a grant is made under section 603 of this title shall not be prohibited fromsanctioning a family that includes an adult who is older than age 20 and younger than age 51 and who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the supplemental nutrition assistance program, as defined in section 2012(l) <sup>1</sup> of title 7, if such adult does not have, or is not working toward attaining, a secondary school diploma or its recognized equivalent unless such adult has been determined in the judgment of medical, psychiatric, or other appropriate professionals to lack the requisite capacity to complete successfully a course of study that would lead to a secondary school diploma or its recognized equivalent.
+A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who is older than age 20 and younger than age 51 and who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the supplemental nutrition assistance program, as defined in section 2012(l) <sup>1</sup> of title 7, if such adult does not have, or is not working toward attaining, a secondary school diploma or its recognized equivalent unless such adult has been determined in the judgment of medical, psychiatric, or other appropriate professionals to lack the requisite capacity to complete successfully a course of study that would lead to a secondary school diploma or its recognized equivalent.
 
 #### (k) Limitations on use of grant for matching under certain Federal transportation program
 
@@ -228,7 +228,7 @@ Division A of subchapter XX, referred to in subsec. (d)(2), (3)(B), was in the o
 
 The Internal Revenue Code of 1986, referred to in subsec. (h)(2)(C), (3)(B)(i), (4), (5)(I), is classified generally to Title 26, Internal Revenue Code.
 
-Section 1088(a) of title 20, referred to in subsec. (h)(5)(A)(i), was repealed and section 1088(d) was redesignated section 1088(a), by Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617. Provisions similar to those in former section 1088(a)(1) are now contained in section 1002(a)(1) of Title 20, Education.
+Section 1088(a) of title 20, referred to in subsec. (h)(5)(A)(i), was repealed and section 1088(d) was redesignated section 1088(a), by Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617. Provisions similar tothose in former section 1088(a)(1) are now contained in section 1002(a)(1) of Title 20, Education.
 
 Section 1141(a) of title 20, referred to in subsec. (h)(5)(A)(i), was repealed by Pub. L. 105–244, §3, title I, §101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998.
 
@@ -244,7 +244,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 604, acts Aug. 14, 1935, ch. 531, title IV, §404, 49 Stat. 628; Aug. 28, 1950, ch. 809, title III, pt. 6,§361(c), (d), 64 Stat. 558; May 8, 1961, Pub. L. 87–31, §4, 75 Stat. 77; July 25, 1962, Pub. L. 87–543, title I, §§104(a)(5)(B), 107(b), 76 Stat. 185, 189; Jan. 2, 1968, Pub. L. 90–248, title II, §§241(b)(4), 245, 81 Stat. 916, 918; Jan. 4, 1975, Pub. L. 93–647, §101(c)(6)(B), 88 Stat. 2360; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(l)(1), 98 Stat. 1171, related to deviation from State plan, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
+A prior section 604, acts Aug. 14, 1935, ch. 531, title IV, §404, 49 Stat. 628; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; May 8, 1961, Pub. L. 87–31, §4, 75 Stat. 77; July 25, 1962, Pub. L. 87–543, title I, §§104(a)(5)(B), 107(b), 76 Stat. 185, 189; Jan. 2, 1968, Pub. L. 90–248, title II, §§241(b)(4), 245, 81 Stat. 916, 918; Jan. 4, 1975, Pub. L. 93–647, §101(c)(6)(B), 88 Stat. 2360; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(l)(1), 98 Stat. 1171, related to deviation from State plan, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
 
@@ -308,7 +308,7 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating totermination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 #### Assets for Independence
 
@@ -324,7 +324,7 @@ Pub. L. 105–285, title IV, Oct. 27, 1998, 112 Stat. 2759, as amended by Pub. L
 
 &emsp;"(1) Economic well-being does not come solely from income, spending, and consumption, but also requires savings, investment, and accumulation of assets because assets can improve economic independence and stability, connect individuals with a viable and hopeful future, stimulate development of human and other capital, and enhance the welfare of offspring.
 
-&emsp;"(2) Fully ½ of all Americans have either no, negligible, or negative assets available for investment, just as the price of entry to the economic mainstream, the cost of a house, an adequate education, and starting a business, is increasing. Further, the household savings rate of the United States lags farbehind other industrial nations, presenting a barrier to economic growth.
+&emsp;"(2) Fully ½ of all Americans have either no, negligible, or negative assets available for investment, just as the price of entry to the economic mainstream, the cost of a house, an adequate education, and starting a business, is increasing. Further, the household savings rate of the United States lags far behind other industrial nations, presenting a barrier to economic growth.
 
 &emsp;"(3) In the current tight fiscal environment, the United States should invest existing resources in high-yield initiatives. There is reason to believe that the financial returns, including increased income, tax revenue, and decreased welfare cash assistance, resulting from individual development accounts will far exceed the cost of investment in those accounts.
 
@@ -398,7 +398,7 @@ Custodial accounts.—For purposes of subparagraph (A), a custodial account shal
 
 &emsp;"(6)
 
-Project year.—The term 'project year' means, with respect to a demonstration project, any of the 5 consecutive 12-month periods beginning on the date the project is originally authorized to be conducted.
+Project year.—The term 'project year' means, with respect to a demonstration project, any of the 5consecutive 12-month periods beginning on the date the project is originally authorized to be conducted.
 
 &emsp;"(7)
 
@@ -532,7 +532,7 @@ Tribal government.—The term 'tribal government' means a tribal organization, a
 
 "(a)
 
-Announcement of Demonstration Projects.—Not later than 3 months after the date of enactment of this title \[Oct. 27, 1998\], the Secretary shall publicly announce the availability of funding under this title for demonstration projects and shall ensure that applications to conduct the demonstration projects are widely available to qualified entities.
+Announcement of Demonstration Projects.—Not later than 3 months after the date of enactment ofthis title \[Oct. 27, 1998\], the Secretary shall publicly announce the availability of funding under this title for demonstration projects and shall ensure that applications to conduct the demonstration projects are widely available to qualified entities.
 
 "(b)
 
@@ -764,7 +764,7 @@ In General.—Each qualified entity under this title shall prepare an annual rep
 
 &emsp;"(6) The savings account characteristics (such as threshold amounts and match rates) required to stimulate participation in the demonstration project, and how such characteristics vary among different populations or communities.
 
-&emsp;"(7) What service configurations of the qualified entity (such as configurations relating to peer support, structured planning exercises, mentoring, and case management) increased the rate and consistency of participation in the demonstration project and howsuch configurations varied among different populations or communities.
+&emsp;"(7) What service configurations of the qualified entity (such as configurations relating to peer support, structured planning exercises, mentoring, and case management) increased the rate and consistency of participation in the demonstration project and how such configurations varied among different populations or communities.
 
 &emsp;"(8) Such other information as the Secretary may require to evaluate the demonstration project.
 
@@ -858,7 +858,7 @@ Interim reports.—Not later than 90 days after the end of the project year in w
 
 &emsp;"(2)
 
-Final reports.—Not later than 12 months after the conclusion of all demonstration projects conducted under this title, the Secretary shall submit to Congress a final report setting forth the results and findings of all reports and evaluations conducted pursuant to this title.
+Final reports.—Not later than 12 months after the conclusion of all demonstration projectsconducted under this title, the Secretary shall submit to Congress a final report setting forth the results and findings of all reports and evaluations conducted pursuant to this title.
 
 "(e)
 

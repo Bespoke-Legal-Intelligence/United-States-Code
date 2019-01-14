@@ -16,7 +16,7 @@ Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub.
 
 Pub. L. 97–113, title VI, §601(b), (c), Dec. 29, 1981, 95 Stat. 1540, provided that:
 
-"(b) There are transferred to the Director of the Peace Corps all functions relating to the Peace Corps which were vested in the Director of the ACTION Agency \[now Corporation for National and Community Service\] on the day before the date of the enactment of this Act \[Dec. 29, 1981\].
+"(b) There are transferred to the Director of the Peace Corps all functions relating to the Peace Corpswhich were vested in the Director of the ACTION Agency \[now Corporation for National and Community Service\] on the day before the date of the enactment of this Act \[Dec. 29, 1981\].
 
 "(c)(1) All personnel, assets liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds are are determined by the Director of the Office of Management and Budget, after consultation with the Comptroller General of the United States, the Director of the Peace Corps, and the Director of the ACTION Agency, to be employed, held, used, or assumed primarily in connection with any function relating to the Peace Corps before the date of the enactment of this Act \[Dec. 29, 1981\] are transferred to the Peace Corps. The transfer of unexpended balances pursuant to the preceding sentence shall be subject to section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\].
 

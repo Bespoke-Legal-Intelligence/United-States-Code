@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) means the cost of construction or building rehabilitation in the State relative to the national cost of construction or building rehabilitation; and
 
-&emsp;&emsp;&emsp;&emsp;(II) shall be calculated such that values higher than 1.0 indicate that theState's construction costs are higher than the national average, a value of 1.0 indicates that the State's construction costs are exactly the same as the national average, and values lower than 1.0 indicate that the State's cost of construction are lower than the national average.
+&emsp;&emsp;&emsp;&emsp;(II) shall be calculated such that values higher than 1.0 indicate that the State's construction costs are higher than the national average, a value of 1.0 indicates that the State's construction costs are exactly the same as the national average, and values lower than 1.0 indicate that the State's cost of construction are lower than the national average.
 
 #### (C) Priority
 
@@ -142,7 +142,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) extremely low- and very low-income families at the times described in subparagraphs (A) through (C) of section 215(b)(2) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12745(b)(2)); and
 
-&emsp;&emsp;&emsp;&emsp;(II) first-time homebuyers, as such term is defined in section 104 of theCranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12704), except that any reference in such section to assistance under title II of such Act \[42 U.S.C. 12721 et seq.\] shall for purposes of this subsection be considered to refer to assistance from affordable housing fund grant amounts;
+&emsp;&emsp;&emsp;&emsp;(II) first-time homebuyers, as such term is defined in section 104 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12704), except that any reference in such section to assistance under title II of such Act \[42 U.S.C. 12721 et seq.\] shall for purposes of this subsection be considered to refer to assistance from affordable housing fund grant amounts;
 
 &emsp;&emsp;&emsp;(ii) has an initial purchase price that meets the requirements of section 215(b)(1) of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12745(b)(1)\];
 
@@ -354,7 +354,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(A) a requirement that the Secretary ensure that the use of grant amounts under this section by States or State designated entities is audited not less than annually to ensure compliance with this section;
 
-&emsp;&emsp;(B) authority for the Secretary to audit, provide for an audit, or otherwise verify aState or State designated entity's activities to ensure compliance with this section;
+&emsp;&emsp;(B) authority for the Secretary to audit, provide for an audit, or otherwise verify a State or State designated entity's activities to ensure compliance with this section;
 
 &emsp;&emsp;(C) a requirement that, for the purposes of subparagraphs (A) and (B), any financial statement submitted by a grantee or recipient to the Secretary shall be reviewed by an independent certified public accountant in accordance with Statements on Standards for Accounting and Review Services, issued by the American Institute of Certified Public Accountants;
 

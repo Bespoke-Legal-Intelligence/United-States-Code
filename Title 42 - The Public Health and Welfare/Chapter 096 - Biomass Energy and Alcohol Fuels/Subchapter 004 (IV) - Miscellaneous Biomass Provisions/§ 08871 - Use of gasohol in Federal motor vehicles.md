@@ -24,7 +24,7 @@ Report on Exemptions.—The Secretary of Defense shall review all exemptions gra
 
 "(d)
 
-Sense of Congress.—It is the sense of Congress that whenever any motor vehicle capable of operatingon gasoline or alcohol-gasoline blends that is owned or operated by the Department of Defense or any other department or agency of the Federal Government is refueled, it shall be refueled with an alcohol-gasoline blend containing at least 10 percent domestically produced alcohol if available along the normal travel route of the vehicle at the same or lower price than unleaded gasoline."
+Sense of Congress.—It is the sense of Congress that whenever any motor vehicle capable of operating on gasoline or alcohol-gasoline blends that is owned or operated by the Department of Defense or any other department or agency of the Federal Government is refueled, it shall be refueled with an alcohol-gasoline blend containing at least 10 percent domestically produced alcohol if available along the normal travel route of the vehicle at the same or lower price than unleaded gasoline."
 
 #### Ex. Ord. No. 12261. Implementation of Use of Gasohol in Federal Motor Vehicles
 

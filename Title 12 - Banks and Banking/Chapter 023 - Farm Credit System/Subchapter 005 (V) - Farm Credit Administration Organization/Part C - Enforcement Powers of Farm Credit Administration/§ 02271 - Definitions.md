@@ -6,23 +6,35 @@ As used in this part—
 
 &emsp;(2) the term "violation" includes without limitation any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation;
 
-&emsp;(3) the terms "institution in the System", "System institution", and "institution" mean all institutions enumerated in section 2002 of this title, any service organization chartered under part E of subchapter IV of this chapter, and the Financial Assistance Corporation; and
+&emsp;(3) the terms "institution in the System", "System institution", and "institution" mean all institutions enumerated in section 2002 of this title, any service organization chartered under part E of subchapter IV of this chapter, and the Financial Assistance Corporation;
 
-&emsp;(4) the term "unsafe or unsound practice" shall—
+&emsp;(4) the term "institution-affiliated party" means—
 
-&emsp;&emsp;(A) have the meaning given to it by the Farm Credit Administration by regulation, rule, or order;
+&emsp;&emsp;(A) a director, officer, employee, shareholder, or agent of a System institution;
 
-&emsp;&emsp;(B) during the period beginning on January 6, 1988, and ending December 31, 1992, mean any noncompliance by a System institution, as determined by the Farm Credit Administration in consultation with the Assistance Board, with any term or condition imposed on the institution by the Assistance Board under section 2278a–6 of this title; and
+&emsp;&emsp;(B) an independent contractor (including an attorney, appraiser, or accountant) who knowingly or recklessly participates in—
 
-&emsp;&emsp;(C) after December 31, 1992, mean any significant noncompliance by a System institution (as determined by the Farm Credit Administration, in consultation with the Farm Credit System Insurance Corporation) with any term or condition imposed on the institution by the Farm Credit System Assistance Board under section 2278a–6 of this title or by the Farm Credit System Insurance Corporation under section 2277a–10 of this title.
+&emsp;&emsp;&emsp;(i) a violation of law (including regulations) that is associated with the operations and activities of 1 or more System institutions;
 
-(Pub. L. 92–181, title V, §5.35, as added Pub. L. 99–205, title II, §204, Dec. 23, 1985, 99 Stat. 1701;amended Pub. L. 100–233, title II, §§203, 207(d), Jan. 6, 1988, 101 Stat. 1605, 1608; Pub. L. 102–237, title V, §502(i), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title II, §202(b), Oct. 28, 1992, 106 Stat. 4106.)
+&emsp;&emsp;&emsp;(ii) a breach of fiduciary duty; or
 
-#### Codification
+&emsp;&emsp;&emsp;(iii) an unsafe practice that causes or is likely to cause more than a minimum financial loss to, or a significant adverse effect on, a System institution; and
 
-January 6, 1988, referred to in par. (4)(B), was in the original "the date of the enactment of this paragraph" which was translated as meaning the date of enactment of Pub. L. 100–233, which amended par. (4) generally, to reflect the probable intent of Congress.
+&emsp;&emsp;(C) any other person, as determined by the Farm Credit Administration (by regulation or on a case-by-case basis) who participates in the conduct of the affairs of a System institution; and
+
+&emsp;(5) the term "unsafe or unsound practice" shall—
+
+&emsp;&emsp;(A) have the meaning given to it by the Farm Credit Administration by regulation, rule, or order; and
+
+&emsp;&emsp;(B) mean any significant noncompliance by a System institution (as determined by the Farm Credit Administration, in consultation with the Farm Credit System Insurance Corporation) with any term or condition imposed on the institution by the Farm Credit System Insurance Corporation under section 2277a–10 of this title.
+
+(Pub. L. 92–181, title V, §5.35, as added Pub. L. 99–205, title II, §204, Dec. 23, 1985, 99 Stat. 1701; amended Pub. L. 100–233, title II, §§203, 207(d), Jan. 6, 1988, 101 Stat. 1605, 1608; Pub. L. 102–237, title V, §502(i), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title II, §202(b), Oct. 28, 1992, 106 Stat. 4106; Pub. L. 115–334, title V, §§5408, 5411(34), Dec. 20, 2018, 132 Stat. 4678, 4683.)
 
 #### Amendments
+
+<b>2018</b>—Pars. (4), (5). Pub. L. 115–334, §5408, added par. (4) and redesignated former par. (4) as (5).
+
+Par. (5)(B), (C). Pub. L. 115–334, §5411(34), redesignated subpar. (C) as (B), struck out "after December 31, 1992," before "mean any" and "by the Farm Credit System Assistance Board under section 2278a–6 of this title or" before "by the Farm Credit System Insurance Corporation", and struck out former subpar. (B) which read as follows: "during the period beginning on January 6, 1988, and ending December 31, 1992, mean any noncompliance by a System institution, as determined by the Farm Credit Administration in consultation with the Assistance Board, with any term or condition imposed on the institution by the Assistance Board under section 2278a–6 of this title; and".
 
 <b>1992</b>—Par. (4)(C). Pub. L. 102–552 added subpar. (C).
 

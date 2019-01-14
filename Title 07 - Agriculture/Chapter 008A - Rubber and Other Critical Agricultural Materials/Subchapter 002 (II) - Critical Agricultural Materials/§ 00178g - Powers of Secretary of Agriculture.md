@@ -18,7 +18,7 @@ In carrying out the provisions of this subchapter, the Secretary of Agriculture 
 
 &emsp;(h) foster and participate in regional, national, and international conferences relating to native latex culture or the culture of other native agricultural crops which could supply critical agricultural materials;
 
-&emsp;(i) coordinate, correlate, and publish information with a view to advancing the development of native latex technology or the technology of other native agricultural crops which could supply critical agricultural materials; and
+&emsp;(i) coordinate, correlate, and publish information with a view to advancing the development of native latex technology or the technology of other native agricultural cropswhich could supply critical agricultural materials; and
 
 &emsp;(j) cooperate with other Federal departments and agencies, with State and local departments, agencies, and instrumentalities, and with interested persons, firms, institutions, and organizations.
 

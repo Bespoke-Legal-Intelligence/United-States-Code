@@ -88,7 +88,7 @@ Subsec. (d). Pub. L. 95–623, §7, as amended by Pub. L. 96–32, §5(c), added
 
 Subsec. (a)(2). Pub. L. 91–515, §201(a)(2), redesignated subsec. (b) as (a)(2), and substituted "subsection" for "section" wherever appearing.
 
-Subsec. (a)(3). Pub. L. 91–515, §§201(a)(3), 202, redesignated subsec. (c) as (a)(3)(A), substituted "subsection"for "section" wherever appearing, and added subsec. (a)(3)(B).
+Subsec. (a)(3). Pub. L. 91–515, §§201(a)(3), 202, redesignated subsec. (c) as (a)(3)(A), substituted "subsection" for "section" wherever appearing, and added subsec. (a)(3)(B).
 
 Subsec. (b). Pub. L. 91–515, §201(a)(2)(A), (b), added subsec. (b). Former subsec. (b) redesignated (a)(2).
 

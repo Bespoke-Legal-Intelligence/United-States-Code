@@ -40,7 +40,7 @@ For purposes of this section:
 
 &emsp;(i) consider a series of closely related rules as one rule for purposes of this subsection; and
 
-&emsp;(ii) whenever appropriate, incorporate any data or analysis contained in a regulatory analysis issued under this subsection in the statement of basis and purpose to accompany any rule promulgated under section 57a(a)(1)(B) of this title, and incorporate by reference in any preliminary or final regulatory analysis information contained in a notice of proposed rulemaking or a statement of basis and purpose.
+&emsp;(ii) whenever appropriate, incorporate any data or analysis contained in a regulatory analysis issued under this subsection in the statement of basis and purpose to accompanyany rule promulgated under section 57a(a)(1)(B) of this title, and incorporate by reference in any preliminary or final regulatory analysis information contained in a notice of proposed rulemaking or a statement of basis and purpose.
 
 (B) The Commission shall include, in each notice of proposed rulemaking and in each publication of a final rule, a statement of the manner in which the public may obtain copies of the preliminary and final regulatory analyses. The Commission may charge a reasonable fee for the copying and mailing of regulatory analyses. The regulatory analyses shall be furnished without charge or at a reduced charge if the Commission determines that waiver or reduction of the fee is in the public interest because furnishing the information primarily benefits the general public.
 

@@ -30,9 +30,21 @@ Alternative prohibition.—If, pursuant to paragraph (1), a foreign government o
 
 (d)
 
+Electronic Cigarettes.—
+
+&emsp;(1)
+
+Inclusion.—The use of an electronic cigarette shall be treated as smoking for purposes of this section.
+
+&emsp;(2)
+
+Electronic cigarette defined.—In this section, the term "electronic cigarette"means a device that delivers nicotine to a user of the device in the form of a vapor that is inhaled to simulate the experience of smoking.
+
+(e)
+
 Regulations.—The Secretary shall prescribe such regulations as are necessary to carry out this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1141; Pub. L. 106–181, title VII, §708(a), Apr. 5, 2000, 114 Stat. 159; Pub. L. 112–95, title IV, §401(a), Feb. 14, 2012, 126 Stat. 83.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1141; Pub. L. 106–181, title VII, §708(a), Apr. 5, 2000, 114 Stat. 159; Pub. L. 112–95, title IV, §401(a), Feb. 14, 2012, 126 Stat. 83; Pub. L. 115–254, div. B, title IV, §409, Oct. 5, 2018, 132 Stat. 3331.)
 
 Historical and Revision Notes
 
@@ -59,6 +71,8 @@ Nov. 21, 1989, Pub. L. 101–164, §335 (related to effective date), 103 Stat. 1
 In subsection (a), before clause (1), the words "On and after the date of expiration of the 4-month period following December 22, 1987" are omitted as executed. The words "of an aircraft" are added for clarity. The text of 49 App.:1374 (note) is omitted as executed.
 
 #### Amendments
+
+<b>2018</b>—Subsecs. (d), (e). Pub. L. 115–254 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>2012</b>—Pub. L. 112–95, §401(a)(1), substituted "passenger" for "scheduled" in section catchline.
 

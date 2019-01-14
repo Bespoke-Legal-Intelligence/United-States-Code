@@ -34,7 +34,7 @@ The Secretary of Defense shall consult with the Secretary of Education on the ed
 
 (3) The amounts received by the Secretary in payment of the fees shall be available to the Department of Defense for defraying the costs of conducting summer school programs under this subsection.
 
-(Pub. L. 95–561, title XIV, §1402, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 99–145, title XII, §1204(b)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 102–484, div. A, title III, §382, Oct. 23, 1992, 106 Stat. 2392; Pub. L. 106–65, div. A, title III, §354(1), Oct. 5, 1999, 113 Stat. 572; Pub. L. 107–314, div. A, title III, §343, Dec. 2, 2002, 116 Stat. 2515.)
+(Pub. L. 95–561, title XIV, §1402, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 99–145, title XII, §1204(b)(1),Nov. 8, 1985, 99 Stat. 720; Pub. L. 102–484, div. A, title III, §382, Oct. 23, 1992, 106 Stat. 2392; Pub. L. 106–65, div. A, title III, §354(1), Oct. 5, 1999, 113 Stat. 572; Pub. L. 107–314, div. A, title III, §343, Dec. 2, 2002, 116 Stat. 2515.)
 
 #### References in Text
 
@@ -42,7 +42,7 @@ This chapter, referred to in subsec. (a), was in the original "this title", mean
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d)(2). Pub. L. 107–314 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary shall provide in regulations for fees tobe charged for the students enrolling in a summer school program under this subsection in amounts determined on the basis of family income."
+<b>2002</b>—Subsec. (d)(2). Pub. L. 107–314 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary shall provide in regulations for fees to be charged for the students enrolling in a summer school program under this subsection in amounts determined on the basis of family income."
 
 <b>1999</b>—Subsec. (b)(1). Pub. L. 106–65 substituted "to receive" for "to recieve".
 
@@ -63,6 +63,58 @@ Pub. L. 95–561, title XIV, §1415, Nov. 1, 1978, 92 Stat. 2373, provided that:
 #### Short Title
 
 Pub. L. 95–561, title XIV, §1401, Nov. 1, 1978, 92 Stat. 2365, provided that: "This title \[enacting this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a note under this section\] may be cited as the 'Defense Dependents' Education Act of 1978'."
+
+#### Department of Defense Education Activity Policies and Procedures on Sexual Harassment of Students of Activity Schools
+
+Pub. L. 115–232, div. A, title V, §562, Aug. 13, 2018, 132 Stat. 1776, provided that:
+
+"(a)
+
+Applicability of Title IX Protections.—The provisions of title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.) (in this section referred to as 'title IX') with respect to education programs or activities receiving Federal financial assistance shall apply equally to education programs and activities administered by the Department of Defense Education Activity (DODEA).
+
+"(b)
+
+Policies and Procedures.—Not later than March 31, 2019, the Department of Defense Education Activity shall establish policies and procedures to protect students at schools of the Activity who are victims of sexual harassment. Such policies and procedures shall afford protections at least comparable to the protections afforded under title IX.
+
+"(c)
+
+Elements.—The policies and procedures required by subsection (b) shall include, at a minimum, the following:
+
+&emsp;"(1) A policy addressing sexual harassment of students at the schools of the Department of Defense Education Activity that uses and incorporates terms, procedures, protections, investigation standards, and standards of evidence consistent with title IX.
+
+&emsp;"(2) A procedure by which—
+
+&emsp;&emsp;"(A) a student of a school of the Activity, or a parent of such a student, may file a complaint with the school alleging an incident of sexual harassment at the school; and
+
+&emsp;&emsp;"(B) such a student or parent may appeal the decision of the school regarding such complaint.
+
+&emsp;"(3) A procedure and mechanisms for the appointment and training of, and allocation of responsibility to, a coordinator at each school of the Activity for sexual harassment matters involving students from the military community served by such school.
+
+&emsp;"(4) Training of employees of the Activity, and volunteers at schools of the Activity, on the policies and procedures.
+
+&emsp;"(5) Mechanisms for the broad distribution and display of the policy described in paragraph (1), including on the Internet website of the Activity and on Internet websites of schools of the Activity, in printed and online versions of student handbooks, and in brochures and flyers displayed on school bulletin boards and in guidance counselor offices.
+
+&emsp;"(6) Reporting and recordkeeping requirements designed to ensure that—
+
+&emsp;&emsp;"(A) complaints of sexual harassment at schools of the Activity are handled—
+
+&emsp;&emsp;&emsp;"(i) with professionalism and consistency; and
+
+&emsp;&emsp;&emsp;"(ii) in a manner that permits coordinators referred to in paragraph (3) to track trends in incidents of sexual harassment and to identify repeat offenders of sexual harassment; and
+
+&emsp;&emsp;"(B) appropriate members of the local leadership of military communities are held accountable for acting upon complaints of sexual harassment at schools of the Activity."
+
+#### Department of Defense Education Activity Misconduct Database
+
+Pub. L. 115–232, div. A, title V, §563, Aug. 13, 2018, 132 Stat. 1777, provided that:
+
+"(a)
+
+Comprehensive Database.—The Secretary of Defense shall consolidate the various databases and mechanisms for the reporting and tracking of juvenile misconduct in Department of Defense Education Activity (hereinafter in this section referred to as 'DODEA') schools into one comprehensive database for DODEA juvenile misconduct. The comprehensive database shall include all unresolved and all substantiated allegations of juvenile-on-juvenile sexual misconduct.
+
+"(b)
+
+Policy.—The Secretary shall establish a comprehensive policy regarding the reporting and tracking of juvenile misconduct cases occurring in DODEA schools, including policies establishing appropriate safeguards to prevent unauthorized disclosure of sensitive information contained in the comprehensive database required by subsection (a)."
 
 #### Report on Condition of Schools Under Jurisdiction of Department of Defense Education Activity
 

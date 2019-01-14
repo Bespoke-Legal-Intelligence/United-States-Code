@@ -38,7 +38,7 @@
 
 &emsp;Each report submitted under paragraph (1) shall include—
 
-&emsp;&emsp;(A) the number of Administration staff performing loan processing, field inspection, and other duties for the declared disaster, and the allocations of such staff in the disaster field offices, disaster recovery centers, workshops, and other Administration offices nationwide;
+&emsp;&emsp;(A) the number of Administration staff performing loan processing, field inspection,and other duties for the declared disaster, and the allocations of such staff in the disaster field offices, disaster recovery centers, workshops, and other Administration offices nationwide;
 
 &emsp;&emsp;(B) the daily number of applications received from applicants in the relevant area, as well as a breakdown of such figures by State;
 

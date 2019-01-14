@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is authorized for fiscal years 2017 through 2022 within the United States Secret Service a National Computer Forensics Institute\(in this section referred to as the "Institute"). The Institute shall disseminate information related to the investigation and prevention of cyber and electronic crime and related threats, and educate, train, and equip State, local, tribal, and territorial law enforcement officers, prosecutors, and judges.
+There is authorized for fiscal years 2017 through 2022 within the United States Secret Service a National Computer Forensics Institute (in this section referred to as the "Institute"). The Institute shall disseminate information related to the investigation and prevention of cyber and electronic crime and related threats, and educate, train, and equip State, local, tribal, and territorial law enforcement officers, prosecutors, and judges.
 
 #### (b) Functions
 

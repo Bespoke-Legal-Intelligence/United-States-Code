@@ -94,7 +94,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (B) Exceptions
 
-&emsp;&emsp;Where property subject to a mortgage is acquired by an organization by bequest or devise, the indebtedness secured by the mortgage shall not be treated as acquisition indebtedness during a period of 10 years following the date of the acquisition. If an organization acquires property by gift subject to a mortgage which was placed on the property more than 5 years before the gift, which property was held by the donor more than 5 years before the gift, the indebtedness secured by such mortgage shall not be treated as acquisition indebtedness during a period of 10 years following the date of such gift. This subparagraph shall not apply if the organization, in order to acquire the equity in the property by bequest, devise, or gift, assumes and agrees to pay the indebtedness secured by the mortgage, or if the organization makes any payment for the equity in the property owned by the decedent or the donor.
+&emsp;&emsp;Where property subject to a mortgage is acquired by an organization by bequest ordevise, the indebtedness secured by the mortgage shall not be treated as acquisition indebtedness during a period of 10 years following the date of the acquisition. If an organization acquires property by gift subject to a mortgage which was placed on the property more than 5 years before the gift, which property was held by the donor more than 5 years before the gift, the indebtedness secured by such mortgage shall not be treated as acquisition indebtedness during a period of 10 years following the date of such gift. This subparagraph shall not apply if the organization, in order to acquire the equity in the property by bequest, devise, or gift, assumes and agrees to pay the indebtedness secured by the mortgage, or if the organization makes any payment for the equity in the property owned by the decedent or the donor.
 
 #### (C) Liens for taxes or assessments
 
@@ -104,7 +104,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;&emsp;(ii) a lien for assessments,
 
-> &emsp;&emsp;made by a State or a political subdivision thereof attaches to property prior to the time when such taxes or assessments becomedue and payable, then such lien shall be treated as similar to a mortgage (within the meaning of subparagraph (A)) but only after such taxes or assessments become due and payable and the organization has had an opportunity to pay such taxes or assessments in accordance with State law.
+> &emsp;&emsp;made by a State or a political subdivision thereof attaches to property prior to the time when such taxes or assessments become due and payable, then such lien shall be treated as similar to a mortgage (within the meaning of subparagraph (A)) but only after such taxes or assessments become due and payable and the organization has had an opportunity to pay such taxes or assessments in accordance with State law.
 
 #### (3) Extension of obligations
 
@@ -176,7 +176,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;&emsp;(i) the price for the acquisition or improvement is not a fixed amount determined as of the date of the acquisition or the completion of the improvement;
 
-&emsp;&emsp;&emsp;(ii) the amount of any indebtedness or any other amount payable with respect tosuch indebtedness, or the time for making any payment of any such amount, is dependent, in whole or in part, upon any revenue, income, or profits derived from such real property;
+&emsp;&emsp;&emsp;(ii) the amount of any indebtedness or any other amount payable with respect to such indebtedness, or the time for making any payment of any such amount, is dependent, in whole or in part, upon any revenue, income, or profits derived from such real property;
 
 &emsp;&emsp;&emsp;(iii) the real property is at any time after the acquisition leased by the qualified organization to the person selling such property to such organization or to any person who bears a relationship described in section 267(b) or 707(b) to such person;
 
@@ -256,7 +256,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;&emsp;For purposes of clause (i)—
 
-&emsp;&emsp;&emsp;&emsp;(I) gross income is described in this clause to the extent such income would\(but for this paragraph) be treated under subsection (a) as derived from an unrelated trade or business, and
+&emsp;&emsp;&emsp;&emsp;(I) gross income is described in this clause to the extent such income would (but for this paragraph) be treated under subsection (a) as derived from an unrelated trade or business, and
 
 &emsp;&emsp;&emsp;&emsp;(II) any deduction is described in this clause to the extent it would (but for this paragraph) be allowable under subsection (a)(2) in computing unrelated business taxable income.
 
@@ -478,7 +478,7 @@ Pub. L. 100–203, title X, §10214(c), Dec. 22, 1987, 101 Stat. 1330–408, pro
 
 Amendment by section 201(d)(9) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
-Amendment by section 201(d)(9) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) ofPub. L. 99–514, set out as a note under section 46 of this title.
+Amendment by section 201(d)(9) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
 Amendment by section 1603(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1603(c) of Pub. L. 99–514, set out as a note under section 501 of this title.
 
@@ -546,7 +546,7 @@ Amendment by section 1901(a)(72) of Pub. L. 94–455 applicable with respect to 
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date or arising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
+Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date or arising thereafter, see section 7(e) of Pub. L. 93–625, setout as an Effective Date note under section 6621 of this title.
 
 #### Effective Date of 1969 Amendment
 
@@ -562,5 +562,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transition Rule for Acquisition Indebtedness With Respect to Certain Land
 
-Pub. L. 99–514, title XVI, §1607, Oct. 22, 1986, 100 Stat. 2771, provided that: "For purposes of applying section514(c) of the Internal Revenue Code of 1986, with respect to a disposition during calendar year 1986 or calendar year 1987 of land acquired during calendar year 1984, the term 'acquisition indebtedness' does not include indebtedness incurred in connection with bonds issued after January 1, 1984, and before July 19, 1984, on behalf of an organization which is a community college and which is described in section 511(a)(2)(B) of such Code."
+Pub. L. 99–514, title XVI, §1607, Oct. 22, 1986, 100 Stat. 2771, provided that: "For purposes of applying section 514(c) of the Internal Revenue Code of 1986, with respect to a disposition during calendar year 1986 or calendar year 1987 of land acquired during calendar year 1984, the term 'acquisition indebtedness' does not include indebtedness incurred in connection with bonds issued after January 1, 1984, and before July 19, 1984, on behalf of an organization which is a community college and which is described in section 511(a)(2)(B) of such Code."
 

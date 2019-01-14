@@ -38,7 +38,7 @@ The President shall exempt from any order issued under this section the burning 
 
 #### (f) Exemption for air-quality emergencies
 
-The President shall exempt any electric powerplant or major fuel-burning installation in whole or in part, from any order issued under this section for such period and to such extent as the President determines necessary to alleviate any imminent and substantial endangerment to the health of persons within the meaning of section 7603 of title 42.
+The President shall exempt any electric powerplant or major fuel-burning installation in whole or in part, from any order issued under this section for such period and to such extentas the President determines necessary to alleviate any imminent and substantial endangerment to the health of persons within the meaning of section 7603 of title 42.
 
 #### (g) Limitation on injunctive relief
 

@@ -18,7 +18,7 @@
 
 #### (b) Existence of administrative processes as condition of funding for research
 
-The Secretary shall by regulation require that each entity that applies for financial assistanceunder this chapter for any project or program that involves the conduct of biomedical or behavioral research submit in or with its application for such assistance—
+The Secretary shall by regulation require that each entity that applies for financial assistance under this chapter for any project or program that involves the conduct of biomedical or behavioral research submit in or with its application for such assistance—
 
 &emsp;(1) assurances satisfactory to the Secretary that such entity has established and has in effect (in accordance with regulations which the Secretary shall prescribe) an administrative process to review reports of research misconduct in connection with biomedical and behavioral research conducted at or sponsored by such entity;
 

@@ -6,7 +6,7 @@ It is the policy of the Congress that employees should be encouraged to exercise
 
 #### Prior Provisions
 
-A prior section 7321, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, related to political contributions and servicesof employees in Executive agencies or competitive service, prior to the general revision of this subchapter by Pub. L. 103–94.
+A prior section 7321, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, related to political contributions and services of employees in Executive agencies or competitive service, prior to the general revision of this subchapter by Pub. L. 103–94.
 
 #### Effective Date; Savings Provision
 

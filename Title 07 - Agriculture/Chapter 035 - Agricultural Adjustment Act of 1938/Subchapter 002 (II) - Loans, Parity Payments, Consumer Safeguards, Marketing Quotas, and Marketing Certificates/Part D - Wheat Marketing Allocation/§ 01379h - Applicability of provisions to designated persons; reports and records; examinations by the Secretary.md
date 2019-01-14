@@ -10,7 +10,7 @@ This part, referred to in text, commences with section 1379a of this title.
 
 #### Inapplicability of Section
 
-Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicableto milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(a)(3) of this title.
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(a)(3) of this title.
 
 Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(a)(3) of this title.
 

@@ -76,7 +76,7 @@ Section 1022(a)(1) of this title, referred to in subsec. (d), was redesignated s
 
 #### Effective Date
 
-Section applicable with respect to group health plans for plan years beginning on and after Jan. 1, 1998, seesection 603(c) of Pub. L. 104–204, set out as an Effective Date of 1996 Amendment note under section 1003 of this title.
+Section applicable with respect to group health plans for plan years beginning on and after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204, set out as an Effective Date of 1996 Amendment note under section 1003 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

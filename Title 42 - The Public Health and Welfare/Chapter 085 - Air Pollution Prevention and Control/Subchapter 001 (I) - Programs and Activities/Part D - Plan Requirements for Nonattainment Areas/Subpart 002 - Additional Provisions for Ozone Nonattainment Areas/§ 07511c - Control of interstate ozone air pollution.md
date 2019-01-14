@@ -34,7 +34,7 @@ A single transport region for ozone (within the meaning of section 7506a(a) of t
 
 #### (4) Approval and disapproval
 
-&emsp;Within 9 months after the receipt date, the Administrator shall (A) determine whether to approve, disapprove, or partially disapprove and partially approve the recommendations; (B) notify the commission in writing of such approval, disapproval, or partial disapproval;and (C) publish such determination in the Federal Register. If the Administrator disapproves or partially disapproves the recommendations, the Administrator shall specify—
+&emsp;Within 9 months after the receipt date, the Administrator shall (A) determine whether toapprove, disapprove, or partially disapprove and partially approve the recommendations; (B) notify the commission in writing of such approval, disapproval, or partial disapproval; and (C) publish such determination in the Federal Register. If the Administrator disapproves or partially disapproves the recommendations, the Administrator shall specify—
 
 &emsp;&emsp;(i) why any disapproved additional control measures are not necessary to bring any area in such region into attainment by the dates provided by this subpart or are otherwise not consistent with the <sup>2</sup> chapter; and
 

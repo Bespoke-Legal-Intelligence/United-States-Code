@@ -26,7 +26,7 @@ The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch
 
 #### Prior Provisions
 
-A prior section 300l, act July 1, 1944, ch. 373, title XV, §1511, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2229; amended Apr. 22, 1976, Pub. L. 94–278, title XI, §1106(a), 90 Stat. 416; Aug. 1, 1977, Pub. L. 95–83, title I, §106(b), 91 Stat. 384; Oct. 4, 1979, Pub. L. 96–79, title I, §104(a)(1), (b), 93 Stat. 595, 596, related to establishment of health service areas, prior to repeal by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799, effective Jan. 1, 1987.
+A prior section 300l, act July 1, 1944, ch. 373, title XV, §1511, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2229; amended Apr. 22, 1976, Pub. L. 94–278, title XI, §1106(a), 90 Stat. 416; Aug. 1, 1977, Pub. L. 95–83, title I,§106(b), 91 Stat. 384; Oct. 4, 1979, Pub. L. 96–79, title I, §104(a)(1), (b), 93 Stat. 595, 596, related to establishment of health service areas, prior to repeal by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799, effective Jan. 1, 1987.
 
 A prior section 1502 of act July 1, 1944, ch. 373, title XV, was classified to section 300k–2 of this title prior to repeal by Pub. L. 99–660.
 

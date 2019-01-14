@@ -24,7 +24,7 @@ From the amounts appropriated to carry out this part for any fiscal year, the Se
 
 #### (e) Reallotment
 
-The amount of any part B institution's allotment under subsection (a), (b), (c), or (d) for any fiscal year which the Secretary determines will not be required for such institution for the period such allotment is available shall be available for reallotment from time to time on such date during such period as the Secretary may determine to other part B institutions in proportion to the original allotment to such other institutions under this section for such fiscal year.
+The amount of any part B institution's allotment under subsection (a), (b), (c), or (d) for any fiscal year which the Secretary determines will not be required for such institution for the period such allotment is available shall be available for reallotment from time to time on suchdate during such period as the Secretary may determine to other part B institutions in proportion to the original allotment to such other institutions under this section for such fiscal year.
 
 #### (f) Special merger rule
 

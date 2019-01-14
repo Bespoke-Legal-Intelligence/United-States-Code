@@ -1,6 +1,6 @@
 ### §1769. Separability; right to alter, amend, or repeal chapter
 
-(a) If any provision of this chapter, or the application thereof to any person or circumstance,is held invalid, the remainder of the chapter, and the application of such provision to other persons or circumstances, shall not be affected thereby.
+(a) If any provision of this chapter, or the application thereof to any person or circumstance, is held invalid, the remainder of the chapter, and the application of such provision to other persons or circumstances, shall not be affected thereby.
 
 (b) The right to alter, amend, or repeal this chapter or any part thereof, or any charter issued pursuant to the provisions of this chapter, is expressly reserved.
 
@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-A prior section 1769, act June 26, 1934, ch. 750, §19, 48 Stat. 1222, made available not more than $50,000 of the funds available to the Governor, under section 1404 of this title, for administrative expenses in administering this chapter, prior to the amendment of act June 26, 1934, by Pub. L. 86–354.
+A prior section 1769, act June 26, 1934, ch. 750, §19, 48 Stat. 1222, made available not more than $50,000 of the funds available to the Governor of the Farm Credit Administration, under former section 1404 of this title, for administrative expenses in administering this chapter, prior to the amendment of act June 26, 1934, by Pub. L. 86–354.
 
 Provisions similar to those comprising this section were contained in section 20 of act June 26, 1934, ch. 750, 48 Stat. 1222 (formerly classified to section 1770 of this title), prior to the amendment and renumbering of act June 26, 1934, by Pub. L. 86–354.
 

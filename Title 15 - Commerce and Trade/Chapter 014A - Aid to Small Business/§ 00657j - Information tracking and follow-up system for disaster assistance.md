@@ -34,7 +34,7 @@ The Administrator shall ensure that an applicant for disaster assistance receive
 
 &emsp;&emsp;(A) information on the progress of the Administration in implementing the information system under subsection (a);
 
-&emsp;&emsp;(B) recommendations from the Administration relating to the creation of a web portal for applicants to check the status of an application for disaster assistance under section 636(b) of this title, including a review ofbest practices and web portal models from the private sector;
+&emsp;&emsp;(B) recommendations from the Administration relating to the creation of a web portal for applicants to check the status of an application for disaster assistance under section 636(b) of this title, including a review of best practices and web portal models from the private sector;
 
 &emsp;&emsp;(C) information on any related costs or staffing needed to implement such a web portal;
 
@@ -56,7 +56,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
 <i><sup>1</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

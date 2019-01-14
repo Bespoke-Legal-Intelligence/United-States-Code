@@ -44,7 +44,7 @@ Pub. L. 95–393, §9, Sept. 30, 1978, 92 Stat. 810, provided that: "This Act \[
 
 #### Short Title
 
-Pub. L. 95–393, §1, Sept. 30, 1978, 92 Stat. 808, provided that: "This Act \[enacting this section, sections 254b to 254e of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 1251 and 1351 of Title 28, repealing sections 252 to 254 of this title, and enacting provisions set out as a note under this section\] may be cited as the 'Diplomatic Relations Act'."
+Pub. L. 95–393, §1, Sept. 30, 1978, 92 Stat. 808, provided that: "This Act \[enacting this section, sections 254b to 254e of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 1251 and 1351 of Title 28, repealing sections 252 to 254 of this title, and enacting provisions set out as a note under thissection\] may be cited as the 'Diplomatic Relations Act'."
 
 #### Strict Enforcement of Travel Protocols and Procedures of Accredited Diplomatic and Consular Personnel of the Russian Federation in the United States
 

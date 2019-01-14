@@ -8,7 +8,7 @@ Generally.—Except as otherwise expressly provided by Act of Congress, any civi
 
 Removal Based on Diversity of Citizenship.—(1) In determining whether a civil action is removable on the basis of the jurisdiction under section 1332(a) of this title, the citizenship of defendants sued under fictitious names shall be disregarded.
 
-(2) A civil action otherwise removable solely on the basis of the jurisdiction under section 1332(a) of this title may not be removed if any of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.
+(2) A civil action otherwise removable solely on the basis of the jurisdiction under section1332(a) of this title may not be removed if any of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.
 
 (c)
 
@@ -36,7 +36,7 @@ Multiparty, Multiforum Jurisdiction.—(1) Notwithstanding the provisions of sub
 
 > The removal of an action under this subsection shall be made in accordance with section 1446 of this title, except that a notice of removal may also be filed before trial of the action in State court within 30 days after the date on which the defendant first becomes a party to an action under section 1369 in a United States district court that arises from the same accident as the action in State court, or at a later time with leave of the district court.
 
-(2) Whenever an action is removed under this subsection and the district court to which it is removed or transferred under section 1407(j) <sup>1</sup> hasmade a liability determination requiring further proceedings as to damages, the district court shall remand the action to the State court from which it had been removed for the determination of damages, unless the court finds that, for the convenience of parties and witnesses and in the interest of justice, the action should be retained for the determination of damages.
+(2) Whenever an action is removed under this subsection and the district court to which it is removed or transferred under section 1407(j) <sup>1</sup> has made a liability determination requiring further proceedings as to damages, the district court shall remand the action to the State court from which it had been removed for the determination of damages, unless the court finds that, for the convenience of parties and witnesses and in the interest of justice, the action should be retained for the determination of damages.
 
 (3) Any remand under paragraph (2) shall not be effective until 60 days after the district court has issued an order determining liability and has certified its intention to remand the removed action for the determination of damages. An appeal with respect to the liability determination of the district court may be taken during that 60-day period to the court of appeals with appellate jurisdiction over the district court. In the event a party files such an appeal, the remand shall not be effective until the appeal has been finally disposed of. Once the remand has become effective, the liability determination shall not be subject to further review by appeal or otherwise.
 

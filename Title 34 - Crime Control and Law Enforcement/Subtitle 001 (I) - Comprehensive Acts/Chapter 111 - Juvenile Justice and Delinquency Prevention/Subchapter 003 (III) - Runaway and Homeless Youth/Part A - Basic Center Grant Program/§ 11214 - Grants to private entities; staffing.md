@@ -24,7 +24,7 @@ Another prior section 316 of Pub. L. 93–415 was renumbered section 382 of Pub.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–586, §3(e), substituted "subchapter" for "part" wherever appearing and inserted "and theprograms, projects, and activities they carry out under this subchapter" after "center" and "under this subchapter" before period at end.
+<b>1992</b>—Pub. L. 102–586, §3(e), substituted "subchapter" for "part" wherever appearing and inserted "and the programs, projects, and activities they carry out under this subchapter" after "center" and "under this subchapter" before period at end.
 
 <b>1988</b>—Pub. L. 100–690, §7271(c)(4), substituted "runaway and homeless youth center" for "runaway center".
 

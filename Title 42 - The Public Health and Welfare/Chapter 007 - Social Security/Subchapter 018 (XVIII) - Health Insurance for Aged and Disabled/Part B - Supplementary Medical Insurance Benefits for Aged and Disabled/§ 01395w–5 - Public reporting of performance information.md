@@ -52,7 +52,7 @@ The Secretary shall take into consideration input provided by multi-stakeholder 
 
 #### (e) Consideration of transition to value-based purchasing
 
-In developing the plan under this <sup>2</sup> subsection (a)(2), the Secretary shall, as the Secretary determines appropriate, consider the plan to transition to a value-based purchasing program for physicians and other practitioners developed under section 131 of the Medicare Improvementsfor Patients and Providers Act of 2008 (Public Law 110–275).
+In developing the plan under this <sup>2</sup> subsection (a)(2), the Secretary shall, as the Secretary determines appropriate, consider the plan to transition to a value-based purchasing program for physicians and other practitioners developed under section 131 of the Medicare Improvements for Patients and Providers Act of 2008 (Public Law 110–275).
 
 #### (f) Report to Congress
 

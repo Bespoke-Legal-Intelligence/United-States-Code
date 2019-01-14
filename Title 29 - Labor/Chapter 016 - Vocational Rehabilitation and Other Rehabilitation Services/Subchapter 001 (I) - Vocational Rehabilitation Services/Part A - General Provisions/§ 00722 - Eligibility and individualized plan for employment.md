@@ -130,7 +130,7 @@
 
 #### (D) Copy
 
-&emsp;&emsp;A copy of the individualized plan for employment for an eligible individual shall be provided to the individual or, as appropriate, to the individual's representative, in writing and, if appropriate, in the native language or mode of communication of the individual or, as appropriate, of the individual's representative.
+&emsp;&emsp;A copy of the individualized plan for employment for an eligible individual shall beprovided to the individual or, as appropriate, to the individual's representative, in writing and, if appropriate, in the native language or mode of communication of the individual or, as appropriate, of the individual's representative.
 
 #### (E) Review and amendment
 
@@ -192,7 +192,7 @@
 
 &emsp;&emsp;&emsp;(i) the extended services needed by the eligible individual; and
 
-&emsp;&emsp;&emsp;(ii) the source of extended services or, to the extent that the source of the extended services cannot be identified at the time of the development of the individualized plan for employment, a description of the basis for concluding that there is a reasonable expectation that such source will become available;
+&emsp;&emsp;&emsp;(ii) the source of extended services or, to the extent that the source of the extendedservices cannot be identified at the time of the development of the individualized plan for employment, a description of the basis for concluding that there is a reasonable expectation that such source will become available;
 
 &emsp;&emsp;(G) as determined to be necessary, a statement of projected need for post-employment services; and
 
@@ -240,7 +240,7 @@
 
 #### (A) Procedures
 
-&emsp;&emsp;Each State shall ensure that procedures are established and implemented under thissubsection to allow parties described in paragraph (1) to disputes involving any determination described in paragraph (1) to resolve such disputes through a mediation process that, at a minimum, shall be available whenever a hearing is requested under this subsection.
+&emsp;&emsp;Each State shall ensure that procedures are established and implemented under this subsection to allow parties described in paragraph (1) to disputes involving any determination described in paragraph (1) to resolve such disputes through a mediation process that, at a minimum, shall be available whenever a hearing is requested under this subsection.
 
 #### (B) Requirements
 

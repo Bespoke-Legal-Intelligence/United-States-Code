@@ -12,7 +12,7 @@ As used in this chapter:
 
 #### (3) Lie detector
 
-&emsp;The term "lie detector" includes a polygraph, deceptograph, voice stress analyzer, psychological stress evaluator, or any other similar device (whether mechanical or electrical) that is used, or the results of which are used, for the purpose of rendering a diagnostic opinion regarding the honesty or dishonesty of an individual.
+&emsp;The term "lie detector" includes a polygraph, deceptograph, voice stress analyzer,psychological stress evaluator, or any other similar device (whether mechanical or electrical) that is used, or the results of which are used, for the purpose of rendering a diagnostic opinion regarding the honesty or dishonesty of an individual.
 
 #### (4) Polygraph
 

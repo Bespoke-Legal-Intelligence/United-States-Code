@@ -126,7 +126,7 @@
 
 |  |  |
 | :--- | ---: |
-| 5781 to 5784. | Transferred or Omitted. |
+| 5781 to 5784. | Repealed or Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

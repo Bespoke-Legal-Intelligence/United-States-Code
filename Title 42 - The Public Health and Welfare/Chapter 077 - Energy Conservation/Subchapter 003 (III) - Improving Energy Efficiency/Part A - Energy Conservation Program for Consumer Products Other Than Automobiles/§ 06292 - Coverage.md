@@ -132,7 +132,7 @@ In General.—(1) The Secretary shall, after consulting with the National Fenest
 
 &emsp;"(A) specifications for testing procedures and labels that will enable window buyers to make more informed purchasing decisions about the energy efficiency of windows and window systems; and
 
-&emsp;"(B) information (which may be disseminated through catalogs, trade publications, labels, or other mechanisms) that will allow window buyers to assess the energy consumption and potential cost savings of alternative window products.
+&emsp;"(B) information (which may be disseminated through catalogs, trade publications, labels, or othermechanisms) that will allow window buyers to assess the energy consumption and potential cost savings of alternative window products.
 
 "(3) Such rating program shall be developed by the National Fenestration Rating Council according to commonly accepted procedures for the development of national testing procedures and labeling programs.
 
@@ -142,7 +142,7 @@ Monitoring.—The Secretary shall monitor and evaluate the efforts of the Nation
 
 "(c)
 
-Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national window rating program consistentwith the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act (42 U.S.C. 6293) for windows and window systems.
+Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national window rating program consistent with the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act (42 U.S.C. 6293) for windows and window systems.
 
 "(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the 'Commission') shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for those windows and window systems for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of window or window system (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
 
@@ -206,7 +206,7 @@ Monitoring.—The Secretary shall monitor and evaluate the efforts to develop th
 
 "(c)
 
-Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national testing and information program for luminaires consistent with the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act (42 U.S.C. 6293) for such luminaires.
+Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national testing and information program for luminaires consistent with the objectives of subsection (a) has not been developed, the Secretary shall, afterconsultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act (42 U.S.C. 6293) for such luminaires.
 
 "(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the 'Commission') shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for those luminaires for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of luminaire (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
 

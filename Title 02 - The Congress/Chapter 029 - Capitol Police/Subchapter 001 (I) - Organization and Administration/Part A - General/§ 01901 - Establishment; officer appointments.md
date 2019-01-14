@@ -22,7 +22,7 @@ Pub. L. 111–145, §6(e)(1), struck out "The captain and lieutenants shall be s
 
 <b>2003</b>—Pub. L. 108–7, §1018(h)(1), which struck out last sentence which read "The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.", was repealed by Pub. L. 111–145, §6(e)(2).
 
-<b>1979</b>—Pub. L. 96–152 inserted last sentence providing that the Capitol Police be headed by a Chief who shall be appointed by the Capitol Police Board and who shall serve at the pleasure of the Board.
+<b>1979</b>—Pub. L. 96–152 inserted last sentence providing that the Capitol Police be headed by a Chief who shallbe appointed by the Capitol Police Board and who shall serve at the pleasure of the Board.
 
 #### Effective Date of 2010 Amendment
 
@@ -114,7 +114,7 @@ Functions and processes.—The Capitol Police Board shall document its functions
 
 &emsp;"(2)
 
-Meetings.—The Capitol Police Board shall document Board meetings and make the documentation available for distribution to the Speaker and minority leader of the House of Representatives and the President pro tempore and minority leader of the Senate.
+Meetings.—The Capitol Police Board shall document Board meetings and make the documentation available for distribution to the Speaker and minority leader of the House of Representatives and thePresident pro tempore and minority leader of the Senate.
 
 "(e)
 
@@ -444,7 +444,7 @@ Mar. 20, 1922, ch. 103, 42 Stat. 429.
 
 #### Capitol Police Civilian Support Positions With Respect to the House of Representatives
 
-House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law Pub. L. 102–392, title I, §102, Oct. 6, 1992, 106 Stat. 1710, and amended byPub. L. 104–186, title II, §221(9)(B), Aug. 20, 1996, 110 Stat. 1749, authorized Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight \[now Committee on House Administration\] to prescribe regulations to carry out this provision.
+House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law Pub. L. 102–392, title I, §102, Oct. 6, 1992, 106 Stat. 1710, and amended by Pub. L. 104–186, title II, §221(9)(B), Aug. 20, 1996, 110 Stat. 1749, authorized Committee on House Oversight \[now Committee on House Administration\] of theHouse of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight \[now Committee on House Administration\] to prescribe regulations to carry out this provision.
 
 #### Director of Employment Practices Under Capitol Police Board
 

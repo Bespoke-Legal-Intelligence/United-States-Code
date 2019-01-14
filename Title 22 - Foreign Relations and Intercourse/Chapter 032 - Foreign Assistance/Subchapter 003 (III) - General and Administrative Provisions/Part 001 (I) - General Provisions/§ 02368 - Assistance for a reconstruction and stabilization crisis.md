@@ -12,7 +12,7 @@
 
 #### (3) Rule of construction
 
-&emsp;Nothing in this section shall be construed to provide authority to transfer funds betweenaccounts or between Federal departments or agencies.
+&emsp;Nothing in this section shall be construed to provide authority to transfer funds between accounts or between Federal departments or agencies.
 
 #### (b) Limitation
 
@@ -40,7 +40,7 @@ Pub. L. 110–417, \[div. A\], title XVI, §1602, Oct. 14, 2008, 122 Stat. 4653,
 
 &emsp;"(3) National Security Presidential Directive 44 assigns to the Secretary, with the Coordinator's assistance, the lead role to develop reconstruction and stabilization strategies, ensure civilian interagency program and policy coordination, coordinate interagency processes to identify countries at risk of instability, provide decision-makers with detailed options for an integrated United States Government response in connection with reconstruction and stabilization operations, and carry out a wide range of other actions, including the development of a civilian surge capacity to meet reconstruction and stabilization emergencies. The Secretary and the Coordinator are also charged with coordinating with the Department of Defense on reconstruction and stabilization responses, and integrating planning and implementing procedures.
 
-&emsp;"(4) The Department of Defense issued Directive 3000.05, which establishes that stability operations are a core United States military mission that the Department of Defense must be prepared to conduct and support, provides guidance on stability operations that will evolve over time, and assigns responsibilities within the Department of Defense for planning, training, and preparing to conduct and support stability operations.
+&emsp;"(4) The Department of Defense issued Directive 3000.05, which establishes that stability operationsare a core United States military mission that the Department of Defense must be prepared to conduct and support, provides guidance on stability operations that will evolve over time, and assigns responsibilities within the Department of Defense for planning, training, and preparing to conduct and support stability operations.
 
 &emsp;"(5) The President's Fiscal Year 2009 Budget Request to Congress includes $248.6 million for a Civilian Stabilization Initiative that would vastly improve civilian partnership with United States Armed Forces in post-conflict stabilization situations, including by establishing an Active Response Corps of 250 persons, a Standby Response Corps of 2,000 persons, and a Civilian Response Corps of 2,000 persons."
 

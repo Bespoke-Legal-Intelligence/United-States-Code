@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term "qualified opportunity fund" means any investment vehicle which is organized as a corporation or a partnership for the purpose of investing in qualified opportunityzone property (other than another qualified opportunity fund) that holds at least 90 percent of its assets in qualified opportunity zone property, determined by the average of the percentage of qualified opportunity zone property held in the fund as measured—
+&emsp;The term "qualified opportunity fund" means any investment vehicle which is organized as a corporation or a partnership for the purpose of investing in qualified opportunity zone property (other than another qualified opportunity fund) that holds at least 90 percent of its assets in qualified opportunity zone property, determined by the average of the percentage of qualified opportunity zone property held in the fund as measured—
 
 &emsp;&emsp;(A) on the last day of the first 6-month period of the taxable year of the fund, and
 

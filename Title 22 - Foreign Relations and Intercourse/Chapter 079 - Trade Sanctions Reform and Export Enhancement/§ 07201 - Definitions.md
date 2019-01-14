@@ -26,7 +26,7 @@ In this chapter:
 
 &emsp;&emsp;(A) in the case of section 7202(a)(1) of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7202(a)(1) of this title is received by Congress, the matter after the resolving clause of which is as follows: "That Congress approves the report of the President pursuant to section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_\_\_\_\_\_\_\_.", with the blank completed with the appropriate date; and
 
-&emsp;&emsp;(B) in the case of section 7205(1) <sup>1</sup> of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7205(2) <sup>1</sup> of this title is received by Congress, the matter after the resolving clause of which is as follows: "That Congress approves the report of the President pursuant to section 906(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_\_\_\_\_\_\_\_.", withthe blank completed with the appropriate date.
+&emsp;&emsp;(B) in the case of section 7205(1) <sup>1</sup> of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7205(2) <sup>1</sup> of this title is received by Congress, the matter after the resolving clause of which is as follows: "That Congress approves the report of the President pursuant to section 906(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_\_\_\_\_\_\_\_.", with the blank completed with the appropriate date.
 
 #### (4) Medical device
 

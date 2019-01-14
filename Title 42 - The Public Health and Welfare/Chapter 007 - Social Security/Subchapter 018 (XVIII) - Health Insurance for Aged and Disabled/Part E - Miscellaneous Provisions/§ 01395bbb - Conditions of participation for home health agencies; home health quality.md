@@ -140,9 +140,9 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 (1) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) and determines that the deficiencies involved immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in subsection (f)(2)(A)(iii) or terminate the certification of the agency, and may provide, in addition, for 1 or more of the other remedies described in subsection (f)(2)(A).
 
-(2) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) and determines that the deficiencies involved do not immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary may (for a period not to exceed 6 months) impose intermediate sanctions developed pursuant to subsection (f), in lieu of terminating the certification of the agency. If, after such a period of intermediate sanctions, the agency is still no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a), the Secretary shall terminate the certification of the agency.
+(2) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) and determines that the deficiencies involved do not immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary may (for a period not to exceed 6 months) impose intermediate sanctions developed pursuant to subsection (f), in lieu of terminating the certification of the agency. If, after such a period of intermediatesanctions, the agency is still no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a), the Secretary shall terminate the certification of the agency.
 
-(3) If the Secretary determines that a home health agency that is certified for participationunder this subchapter is in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) but, as of a previous period, did not meet such requirements, the Secretary may provide for a civil money penalty under subsection (f)(2)(A)(i) for the days in which it finds that the agency was not in compliance with such requirements.
+(3) If the Secretary determines that a home health agency that is certified for participation under this subchapter is in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) but, as of a previous period, did not meet such requirements, the Secretary may provide for a civil money penalty under subsection (f)(2)(A)(i) for the days in which it finds that the agency was not in compliance with such requirements.
 
 (4) The Secretary may continue payments under this subchapter with respect to a home health agency not in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) over a period of not longer than 6 months, if—
 
@@ -192,7 +192,7 @@ A home health agency shall submit claims for payment for home health services un
 
 <b>1996</b>—Subsec. (c)(2)(A). Pub. L. 104–134 substituted "36 months" for "15 months" in first sentence and amended last sentence generally. Prior to amendment, last sentence read as follows: "The statewide average interval between standard surveys of any home health agency shall not exceed 12 months."
 
-<b>1990</b>—Subsec. (a)(3)(D)(iii). Pub. L. 101–508, §4207(i)(1), formerly §4027(i)(1), as renumbered by Pub. L. 103–432, substituted "which, within the previous 2 years—" and subcls. (I) to (IV) for "which has been determined to be out of compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) of this section within the previous 2 years."
+<b>1990</b>—Subsec. (a)(3)(D)(iii). Pub. L. 101–508, §4207(i)(1), formerly §4027(i)(1), as renumbered by Pub. L. 103–432, substituted "which, within the previous 2 years—" and subcls. (I) to (IV) for "which has been determined to beout of compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) of this section within the previous 2 years."
 
 Subsec. (a)(6). Pub. L. 101–508, §4206(d)(2), added par. (6).
 
@@ -266,11 +266,11 @@ Treatment of Branch Offices.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding any other provision of law, in determining for purposes of title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] whether an office of a home health agency constitutes a branch office or a separate home health agency, neither the time nor distance between a parent office of the home health agency and a branch office shall be the sole determinant of a home health agency's branch office status.
+In general.—Notwithstanding any other provision of law, in determining for purposes of title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]whether an office of a home health agency constitutes a branch office or a separate home health agency, neither the time nor distance between a parent office of the home health agency and a branch office shall be the sole determinant of a home health agency's branch office status.
 
 &emsp;"(2)
 
-Consideration of forms of technology in definition of supervision.—The Secretary of Healthand Human Services may include forms of technology in determining what constitutes 'supervision' for purposes of determining a home heath \[sic\] agency's branch office status under paragraph (1).
+Consideration of forms of technology in definition of supervision.—The Secretary of Health and Human Services may include forms of technology in determining what constitutes 'supervision' for purposes of determining a home heath \[sic\] agency's branch office status under paragraph (1).
 
 "(b)
 

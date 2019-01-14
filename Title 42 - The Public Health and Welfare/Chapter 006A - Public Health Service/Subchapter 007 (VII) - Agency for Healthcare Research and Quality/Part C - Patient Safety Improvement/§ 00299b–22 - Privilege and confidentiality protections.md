@@ -48,7 +48,7 @@ Except as provided in subsection (g)(3)—
 
 &emsp;&emsp;(F) Disclosures that the Secretary may determine, by rule or other means, are necessary for business operations and are consistent with the goals of this part.
 
-&emsp;&emsp;(G) Disclosure of patient safety work product to law enforcement authorities relating to the commission of a crime (or to an eventreasonably believed to be a crime) if the person making the disclosure believes, reasonably under the circumstances, that the patient safety work product that is disclosed is necessary for criminal law enforcement purposes.
+&emsp;&emsp;(G) Disclosure of patient safety work product to law enforcement authorities relating to the commission of a crime (or to an event reasonably believed to be a crime) if the person making the disclosure believes, reasonably under the circumstances, that the patient safety work product that is disclosed is necessary for criminal law enforcement purposes.
 
 &emsp;&emsp;(H) With respect to a person other than a patient safety organization, the disclosure of patient safety work product that does not include materials that—
 
@@ -64,7 +64,7 @@ Except as provided in subsection (g)(3)—
 
 #### (1) In general
 
-&emsp;Patient safety work product that is disclosed under subsection (c) shall continue to be privileged and confidential as provided for in subsections (a) and (b), and such disclosure shall not be treated as a waiver of privilege or confidentiality, and the privileged and confidential nature of such work product shall also apply to such work product in the possession or control of a person to whom such work product was disclosed.
+&emsp;Patient safety work product that is disclosed under subsection (c) shall continue to be privileged and confidential as provided for in subsections (a) and (b), and such disclosure shall not be treated as a waiver of privilege orconfidentiality, and the privileged and confidential nature of such work product shall also apply to such work product in the possession or control of a person to whom such work product was disclosed.
 
 #### (2) Exception
 
@@ -130,7 +130,7 @@ Except as provided in subsection (g)(3)—
 
 #### (A) In general
 
-&emsp;&emsp;Without limiting remedies available to other parties, a civil action may be broughtby any aggrieved individual to enjoin any act or practice that violates subsection (e) and to obtain other appropriate equitable relief (including reinstatement, back pay, and restoration of benefits) to redress such violation.
+&emsp;&emsp;Without limiting remedies available to other parties, a civil action may be brought by any aggrieved individual to enjoin any act or practice that violates subsection (e) and to obtain other appropriate equitable relief (including reinstatement, back pay, and restoration of benefits) to redress such violation.
 
 #### (B) Against State employees
 

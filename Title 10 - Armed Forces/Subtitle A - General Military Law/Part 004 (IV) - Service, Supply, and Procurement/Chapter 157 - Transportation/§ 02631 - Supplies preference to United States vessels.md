@@ -78,7 +78,7 @@ In general.—The Secretary may prescribe interim regulations as necessary to ca
 
 &emsp;&emsp;"(B)
 
-Submission to congress.—Upon the issuance of interim regulations under this paragraph, the Secretary shall submit to the Committees onArmed Services of the Senate and the House of Representatives the interim regulations and a description of the acquisition policy developed (or being developed) under subsection (a).
+Submission to congress.—Upon the issuance of interim regulations under this paragraph, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives the interim regulations and a description of the acquisition policy developed (or being developed) under subsection (a).
 
 &emsp;&emsp;"(C)
 

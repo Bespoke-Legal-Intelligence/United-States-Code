@@ -18,7 +18,7 @@ National Security Strategy for National Technology and Industrial Base.—The Se
 
 &emsp;(4) Reconstituting within a reasonable period the capability to develop, produce, and support supplies and equipment, including technologically advanced systems, in sufficient quantities to prepare fully for a war, national emergency, or mobilization of the armed forces before the commencement of that war, national emergency, or mobilization.
 
-&emsp;(5) Providing for the development, manufacture, and supply of items and technologies critical to the production and sustainment of advanced military weapon systems within the national technology and industrial base.
+&emsp;(5) Providing for the development, manufacture, and supply of items and technologies critical to the production and sustainment ofadvanced military weapon systems within the national technology and industrial base.
 
 &emsp;(6) Providing for the generation of services capabilities that are not core functions of the armed forces and that are critical to military operations within the national technology and industrial base.
 
@@ -40,7 +40,7 @@ Civil-Military Integration Policy.—The Secretary of Defense shall ensure that 
 
 &emsp;(3) Reducing Federal Government barriers to the use of commercial products, processes, and standards.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(a), May 22, 2009, 123 Stat.1731; Pub. L. 111–383, div. A, title VIII, §895(b), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, §1603(a)(1), Jan. 2, 2013, 126 Stat. 2062; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title VIII, §882, Dec. 23, 2016, 130 Stat. 2316.)
+(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, §303(a), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, §895(b), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, §1603(a)(1), Jan. 2, 2013, 126 Stat. 2062; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title VIII, §882, Dec. 23, 2016, 130 Stat. 2316.)
 
 #### Prior Provisions
 
@@ -85,6 +85,116 @@ Subsecs. (b), (c). Pub. L. 104–106, §1081(a)(1)(B), (C), redesignated subsec.
 Subsec. (a)(5). Pub. L. 103–160, §1313, added par. (5).
 
 Subsec. (b)(2). Pub. L. 103–160, §1182(a)(10), substituted "that, by reducing the public sector demand for capital, increases the amount of capital available" for "and thereby free up capital".
+
+#### Support for Defense Manufacturing Communities To Support the Defense Industrial Base
+
+Pub. L. 115–232, div. A, title VIII, §846, Aug. 13, 2018, 132 Stat. 1881, provided that:
+
+"(a)
+
+Program Authorized.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense may, in coordination with the Secretary of Commerce and working in coordination with the defense manufacturing institutes, establish within the Department of Defense a program to make long-term investments in critical skills, facilities, research and development, and small business support in order to strengthen the national security innovation base by designating and supporting consortiums as defense manufacturing communities.
+
+&emsp;"(2)
+
+Designation.—The program authorized by this section shall be known as the 'Defense Manufacturing Community Support Program' (in this section referred to as the 'Program').
+
+"(b)
+
+Designation of Defense Manufacturing Communities Complementary to Defense Manufacturing Institutes.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense may designate eligible consortiums as defense manufacturing communities through a competitive process, and in coordination with the defense manufacturing institutes.
+
+&emsp;"(2)
+
+Eligible consortiums.—The Secretary may establish eligibility criteria for a consortium to participate in the Program. In developing such criteria, the Secretary may consider the merits of—
+
+&emsp;&emsp;"(A) including members from academia, defense industry, commercial industry, and State and local government organizations;
+
+&emsp;&emsp;"(B) supporting efforts in geographical regions that have capabilities in key technologies or industrial base supply chains that are determined critical to national security;
+
+&emsp;&emsp;"(C) optimal consortium composition and size to promote effectiveness, collaboration, and efficiency; and
+
+&emsp;&emsp;"(D) complementarity with defense manufacturing institutes.
+
+&emsp;"(3)
+
+Duration.—Each designation under paragraph (1) shall be for a period of five years.
+
+&emsp;"(4)
+
+Renewal.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary may renew a designation made under paragraph (1) for up to two additional two-year periods. Any designation as a defense manufacturing community or renewal of such designation that is in effect before the date of the enactment of this Act \[Aug. 13, 2018\] shall count toward the limit set forth in this subparagraph.
+
+&emsp;&emsp;"(B)
+
+Evaluation for renewal.—The Secretary shall establish criteria for the renewal of a consortium. In establishing such criteria, the Secretary may consider—
+
+&emsp;&emsp;&emsp;"(i) the performance of the consortium in meeting the established goals of the Program;
+
+&emsp;&emsp;&emsp;"(ii) the progress the consortium has made with respect to project-specific metrics, particularly with respect to those metrics that were designed to help communities track their own progress;
+
+&emsp;&emsp;&emsp;"(iii) whether any changes to the composition of the eligible consortium or revisions of the plan for the consortium would improve the capabilities of the defense industrial base;
+
+&emsp;&emsp;&emsp;"(iv) the effectiveness of coordination with defense manufacturing institutes; and
+
+&emsp;&emsp;&emsp;"(v) such other criteria as the Secretary considers appropriate.
+
+&emsp;"(5)
+
+Application for designation.—An eligible consortium seeking a designation under paragraph (1) shall submit an application to the Secretary at such time and in such manner as the Secretary may require. In developing such procedures, the Secretary may consider the inclusion of—
+
+&emsp;&emsp;"(A) a description of the regional boundaries of the consortium, and the defense manufacturing capacity of the region;
+
+&emsp;&emsp;"(B) an evidence-based plan for enhancing the defense industrial base through the efforts of the consortium;
+
+&emsp;&emsp;"(C) the investments the consortium proposes and the strategy of the consortium to address gaps in the defense industrial base;
+
+&emsp;&emsp;"(D) a description of the outcome-based metrics, benchmarks, and milestones that will track and the evaluation methods that will be used to gauge performance of the consortium;
+
+&emsp;&emsp;"(E) how the initiatives will complement defense manufacturing institutes; and
+
+&emsp;&emsp;"(F) such other matters as the Secretary considers appropriate.
+
+"(c)
+
+Financial and Technical Assistance.—
+
+&emsp;"(1)
+
+In general.—Under the Program, the Secretary of Defense may award financial or technical assistance to a member of a consortium designated as a defense manufacturing community under the Program as appropriate for purposes of the Program.
+
+&emsp;"(2)
+
+Use of funds.—A recipient of financial or technical assistance under the Program may use such financial or technical assistance to support an investment that will improve the defense industrial base.
+
+&emsp;"(3)
+
+Investments supported.—Investments supported under this subsection may include activities not already provided for by defense manufacturing institutes on—
+
+&emsp;&emsp;"(A) equipment or facility upgrades;
+
+&emsp;&emsp;"(B) workforce training, retraining, or recruitment and retention, including that of women and underrepresented minorities;
+
+&emsp;&emsp;"(C) business incubators;
+
+&emsp;&emsp;"(D) advanced research and commercialization, including with Federal laboratories and depots;
+
+&emsp;&emsp;"(E) supply chain development; and
+
+&emsp;&emsp;"(F) small business assistance.
+
+"(d)
+
+Receipt of Transferred Funds.—The Secretary of Defense may accept amounts transferred to the Secretary from the head of another agency or a State or local governmental organization to carry out this section."
 
 #### Enhanced Analytical and Monitoring Capability of the Defense Industrial Base
 
@@ -134,7 +244,7 @@ Consolidated report on vulnerabilities of, and concentration of purchases in, th
 
 &emsp;&emsp;"(A)
 
-Report required.—For each of fiscal years 2018 through 2023, the Secretary of Defense shall submit to the appropriate congressional committees a consolidated report that combines all of the reports required to be provided to Congress for that fiscal year on the adequacy of, vulnerabilities of, and concentration of purchases in the defense industrial sector. Such consolidated report shall include each of the following:
+Report required.—For each of fiscal years 2018 through 2023, the Secretary of Defense shall submit to the appropriate congressional committees a consolidated report that combines all of thereports required to be provided to Congress for that fiscal year on the adequacy of, vulnerabilities of, and concentration of purchases in the defense industrial sector. Such consolidated report shall include each of the following:
 
 &emsp;&emsp;&emsp;"(i) The report required under section 721(m) of the Defense Production Act of 1950 (50 U.S.C. 4565(m)) (relating to concentrations of purchases of the defense industrial base).
 
@@ -146,7 +256,7 @@ Report required.—For each of fiscal years 2018 through 2023, the Secretary of 
 
 &emsp;&emsp;"(B)
 
-Deadline.—A consolidated report under subparagraph (A) shall be submitted by not later thanMarch 31 of the fiscal year following the fiscal year for which the report is submitted.
+Deadline.—A consolidated report under subparagraph (A) shall be submitted by not later than March 31 of the fiscal year following the fiscal year for which the report is submitted.
 
 &emsp;"(2)
 
@@ -348,7 +458,7 @@ Pub. L. 109–163, div. A, title II, §253(c), Jan. 6, 2006, 119 Stat. 3180, pro
 
 #### Essential Items Identification and Domestic Production Capabilities Improvement Program
 
-Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, §841, Oct. 17, 2006, 120 Stat.2335; Pub. L. 111–84, div. A, title VIII, §846, Oct. 28, 2009, 123 Stat. 2420; Pub. L. 112–81, div. A, title X, §1062(g)(2), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 113–291, div. A, title X, §1071(b)(5)(A), (d)(1)(C), Dec. 19, 2014, 128 Stat. 3506, 3509, provided that:
+Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, §841, Oct. 17, 2006, 120 Stat. 2335; Pub. L. 111–84, div. A, title VIII, §846, Oct. 28, 2009, 123 Stat. 2420; Pub. L. 112–81, div. A, title X, §1062(g)(2), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 113–291, div. A, title X, §1071(b)(5)(A), (d)(1)(C), Dec. 19, 2014, 128 Stat. 3506, 3509, provided that:
 
 #### "SEC. 811. CONSISTENCY WITH UNITED STATES OBLIGATIONS UNDER INTERNATIONAL AGREEMENTS.
 
@@ -442,7 +552,7 @@ Sense of Congress.—It is the sense of Congress that the Secretary of the Air F
 
 &emsp;"(1) Continue and improve efforts to ensure that—
 
-&emsp;&emsp;"(A) the Air Force science and technology community is represented, and the recommendations of that community are considered, at all levels of program planning and budgetary decisionmaking within the Air Force;
+&emsp;&emsp;"(A) the Air Force science and technology community is represented, and the recommendations ofthat community are considered, at all levels of program planning and budgetary decisionmaking within the Air Force;
 
 &emsp;&emsp;"(B) advocacy for science and technology development is institutionalized across all levels of Air Force management in a manner that is not dependent on individuals; and
 
@@ -450,7 +560,7 @@ Sense of Congress.—It is the sense of Congress that the Secretary of the Air F
 
 &emsp;"(2) Complete and adopt a policy directive that provides for changes in how the Air Force makes budgetary and nonbudgetary decisions with respect to its science and technology development programs and how it carries out those programs.
 
-&emsp;"(3) At least once every five years, conduct a review of the long-term challenges and short-term objectives of the Air Force science and technology programs that is consistent with the review specified in section 252 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into lawby Public Law 106–398; 114 Stat. 1654A–46 \[set out as a note below\]).
+&emsp;"(3) At least once every five years, conduct a review of the long-term challenges and short-term objectives of the Air Force science and technology programs that is consistent with the review specified in section 252 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–46 \[set out as a note below\]).
 
 &emsp;"(4) Ensure that development and science and technology planning and investment activities are carried out for future space warfighting systems and for future nonspace warfighting systems in an integrated manner.
 
@@ -548,7 +658,7 @@ Long-Term Challenges.—(1) The Secretary of the Air Force shall establish an in
 
 &emsp;"(B) should not select a linear extension of any ongoing Air Force science and technology program for consideration as a science and technology challenge under subparagraph (A).
 
-"(4) The Deputy Assistant Secretary of the Air Force for Science, Technology, and Engineering shall designate a technical coordinator and a management coordinator for each science and technology challenge identified pursuant to this subsection. Each technicalcoordinator shall have sufficient expertise in fields related to the challenge to be able to identify other experts in such fields and to affirm the credibility of the challenge. The coordinator for a science and technology challenge shall conduct workshops within the relevant scientific and technological community to obtain suggestions for possible approaches to addressing the challenge and to identify ongoing work that addresses the challenge, deficiencies in current work relating to the challenge, and promising areas of research.
+"(4) The Deputy Assistant Secretary of the Air Force for Science, Technology, and Engineering shall designate a technical coordinator and a management coordinator for each science and technology challenge identified pursuant to this subsection. Each technical coordinator shall have sufficient expertise in fields related to the challenge to be able to identify other experts in such fields and to affirm the credibility of the challenge. The coordinator for a science and technology challenge shall conduct workshops within the relevant scientific and technological community to obtain suggestions for possible approaches to addressing the challenge and to identify ongoing work that addresses the challenge, deficiencies in current work relating to the challenge, and promising areas of research.
 
 "(5) In carrying out subsection (a), the Secretary of the Air Force shall review the science and technology challenges identified pursuant to this subsection and, for each such challenge, at a minimum—
 
@@ -622,7 +732,7 @@ Relationship of defense science and technology program to university research.�
 
 &emsp;"(2)
 
-Relationship of the defense science and technology program to commercial research and technology.—(A) It is the sense of Congress that, in supporting projects within the Defense Science and Technology Program, the Secretary of Defense should attempt to leverage commercial research, technology, products, and processes for the benefit of the Department of Defense.
+Relationship of the defense science and technology program to commercial research andtechnology.—(A) It is the sense of Congress that, in supporting projects within the Defense Science and Technology Program, the Secretary of Defense should attempt to leverage commercial research, technology, products, and processes for the benefit of the Department of Defense.
 
 &emsp;"(B) It is the sense of Congress that funds made available for projects and programs of the Defense Science and Technology Program should be used only for the benefit of the Department of Defense, which includes—
 
@@ -702,7 +812,7 @@ Pub. L. 103–160, div. A, title XIII, §§1351–1354, Nov. 30, 1993, 107 Stat.
 
 #### "SEC. 1351. SHORT TITLE.
 
-"This subtitle \[subtitle D, §§1351–1363 of title XIII of div. A of Pub. L. 103–160, enacting sections 1279d, 1279e, and 1280a of the Appendix to Title 46, Shipping, amending section 31326 of Title 46 and sections 1271, 1273, 1274, and 1274a of the Appendix to Title 46, and enacting provisions set out as notes under sections 1279b and 1279d of the Appendix to Title 46\] may be cited as the 'National Shipbuilding and Shipyard Conversion Act of 1993'.
+"This subtitle \[subtitle D, §§1351–1363 of title XIII of div. A of Pub. L. 103–160, enacting sections 1279d, 1279e,and 1280a of the Appendix to Title 46, Shipping, amending section 31326 of Title 46 and sections 1271, 1273, 1274, and 1274a of the Appendix to Title 46, and enacting provisions set out as notes under sections 1279b and 1279d of the Appendix to Title 46\] may be cited as the 'National Shipbuilding and Shipyard Conversion Act of 1993'.
 
 #### "SEC. 1352. NATIONAL SHIPBUILDING INITIATIVE.
 
@@ -778,7 +888,7 @@ Regulations.—The Secretary may prescribe regulations to provide for considerat
 
 #### Armament Retooling and Manufacturing Support Initiative
 
-Pub. L. 102–484, div. A, title I, §§191–195, Oct. 23, 1992, 106 Stat. 2347–2349, as amended by Pub. L. 103–35, title II, §202(a)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–337, div. A, title XI, §1141(a), (b), Oct. 5, 1994, 108 Stat. 2879; Pub. L. 104–201, div. A, title I, §143, Sept. 23, 1996, 110 Stat. 2449; Pub. L. 105–261, div. A, title I, §115, Oct. 17, 1998, 112 Stat. 1939; Pub. L. 106–65, div. A, title I, §116, Oct. 5, 1999, 113 Stat. 533, known as the "Armament Retooling and Manufacturing Support Act of 1992", authorized the Secretary of the Army, during fiscal years 1993 through 2001, to carry out the Armament Retooling and Manufacturing Support Initiative, prior to repeal by Pub. L. 106–398, §1 \[\[div. A\], title III, §344(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71.
+Pub. L. 102–484, div. A, title I, §§191–195, Oct. 23, 1992, 106 Stat. 2347–2349, as amended by Pub. L. 103–35, title II, §202(a)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–337, div. A, title XI, §1141(a), (b), Oct. 5, 1994, 108 Stat. 2879; Pub. L. 104–201, div. A, title I, §143, Sept. 23, 1996, 110 Stat. 2449; Pub. L. 105–261, div. A, title I, §115, Oct. 17, 1998, 112 Stat. 1939; Pub. L. 106–65, div. A, title I, §116, Oct. 5, 1999, 113 Stat. 533, known as the "Armament Retooling and Manufacturing Support Act of 1992", authorized the Secretary of the Army, during fiscal years 1993 through 2001, to carry out the Armament Retooling and Manufacturing Support Initiative, prior to repealby Pub. L. 106–398, §1 \[\[div. A\], title III, §344(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71.
 
 #### Implementation of Requirements for Assessment, Planning, and Analysis
 
@@ -786,7 +896,7 @@ Pub. L. 102–484, div. D, title XLII, §4218, Oct. 23, 1992, 106 Stat. 2671, re
 
 #### Industrial Diversification Planning for Defense Contractors
 
-Pub. L. 102–484, div. D, title XLII, §4239, Oct. 23, 1992, 106 Stat. 2694, provided that: "Not later than 120 days after the date of enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense shall prescribe regulations toencourage defense contractors to engage in industrial diversification planning."
+Pub. L. 102–484, div. D, title XLII, §4239, Oct. 23, 1992, 106 Stat. 2694, provided that: "Not later than 120 days after the date of enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense shall prescribe regulations to encourage defense contractors to engage in industrial diversification planning."
 
 #### Notice to Contractors and Employees Upon Proposed and Actual Termination or Substantial Reduction in Major Defense Programs
 

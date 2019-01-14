@@ -36,7 +36,7 @@ Election to revoke.—If, on the date an individual described in paragraph (1)(A
 
 &emsp;(2)
 
-Availability of revoked entitlement.—Any entitlement revoked by an individualunder this subsection shall no longer be available to the dependent to whom transferred, but shall be available to the individual instead for educational assistance under chapter 33 of this title in accordance with the provisions of this section.
+Availability of revoked entitlement.—Any entitlement revoked by an individual under this subsection shall no longer be available to the dependent to whom transferred, but shall be available to the individual instead for educational assistance under chapter 33 of this title in accordance with the provisions of this section.
 
 &emsp;(3)
 
@@ -68,7 +68,7 @@ Educational Assistance Program.—
 
 &emsp;(1)
 
-In general.—In the event educational assistance to which an individual making an election under subsection (a) would be entitled under chapter 30 of this title, or chapter 107, 1606, or 1607 of title 10, as applicable, is not authorized to be available to the individual under the provisions of this chapter, the individual shall remain entitled to such educational assistance in accordance with the provisions of the applicable chapter.
+In general.—In the event educational assistance to which an individual making anelection under subsection (a) would be entitled under chapter 30 of this title, or chapter 107, 1606, or 1607 of title 10, as applicable, is not authorized to be available to the individual under the provisions of this chapter, the individual shall remain entitled to such educational assistance in accordance with the provisions of the applicable chapter.
 
 &emsp;(2)
 
@@ -114,7 +114,7 @@ Alternative Election by Secretary.—
 
 &emsp;(1)
 
-In general.—In the case of an individual who, on or after January 1, 2017, submits to the Secretary an election under this section that the Secretary determines is clearly against the interests of the individual, or whofails to make an election under this section, the Secretary may make an alternative election on behalf of the individual that the Secretary determines is in the best interests of the individual.
+In general.—In the case of an individual who, on or after January 1, 2017, submits to the Secretary an election under this section that the Secretary determines is clearly against the interests of the individual, or who fails to make an election under this section, the Secretary may make an alternative election on behalf of the individual that the Secretary determines is in the best interests of the individual.
 
 &emsp;(2)
 

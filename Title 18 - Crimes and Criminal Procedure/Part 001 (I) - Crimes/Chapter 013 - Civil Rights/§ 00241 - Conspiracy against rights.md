@@ -28,7 +28,7 @@ Pub. L. 104–294, §604(b)(14)(A), repealed Pub. L. 103–322, §320103(a)(1). 
 
 Pub. L. 103–322, §320201(a), substituted "person in any State" for "inhabitant of any State" in first par.
 
-Pub. L. 103–322, §320103(a)(2)–(4), in third par., substituted "results from the acts committed in violation of this section or if such acts include kidnapping or anattempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, they shall be fined under this title or imprisoned for any term of years or for life, or both" for "results, they shall be subject to imprisonment for any term of years or for life".
+Pub. L. 103–322, §320103(a)(2)–(4), in third par., substituted "results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, they shall be fined under this title or imprisoned for any term of years or for life, or both" for "results, they shall be subject to imprisonment for any term of years or for life".
 
 Pub. L. 103–322, §320103(a)(1), which provided for amendment identical to Pub. L. 103–322, §330016(1)(L), above, was repealed by Pub. L. 104–294, §604(b)(14)(A).
 

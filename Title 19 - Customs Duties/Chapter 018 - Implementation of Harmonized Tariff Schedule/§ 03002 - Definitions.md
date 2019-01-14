@@ -4,7 +4,7 @@ As used in this chapter:
 
 &emsp;(1) The term "Commission" means the United States International Trade Commission.
 
-&emsp;(2) The term "Convention" means the International Convention on the Harmonized Commodity Description and Coding System, done at Brussels on June 14, 1983, and the Protocol thereto, done at Brussels on June 24, 1986, submitted to the Congress on June 15, 1987.
+&emsp;(2) The term "Convention" means the International Convention on the Harmonized Commodity Description and Coding System, doneat Brussels on June 14, 1983, and the Protocol thereto, done at Brussels on June 24, 1986, submitted to the Congress on June 15, 1987.
 
 &emsp;(3) The term "entered" means entered, or withdrawn from warehouse for consumption, in the customs territory of the United States.
 

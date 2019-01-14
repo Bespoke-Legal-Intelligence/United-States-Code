@@ -60,7 +60,7 @@ There is established the United States Commission on International Religious Fre
 
 #### (E) Appointments to 1-year terms
 
-&emsp;&emsp;The term of each member of the Commission appointed to a 1-year term shall be considered to have begun on May 15, 2003, andshall end on May 14, 2004, regardless of the date of the appointment to the Commission. Each vacancy which occurs upon the expiration of the term of a member appointed to a 1-year term shall be filled by the appointment of a successor to a 2-year term.
+&emsp;&emsp;The term of each member of the Commission appointed to a 1-year term shall be considered to have begun on May 15, 2003, and shall end on May 14, 2004, regardless of the date of the appointment to the Commission. Each vacancy which occurs upon the expiration of the term of a member appointed to a 1-year term shall be filled by the appointment of a successor to a 2-year term.
 
 #### (F) Appointments to 2-year terms
 

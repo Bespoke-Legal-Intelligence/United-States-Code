@@ -34,7 +34,7 @@ In general.—Not later than 5 years after October 10, 2000, after consultation 
 
 &emsp;(B)
 
-Reviews.—Not later than the date that is 5 years after the date of publication of water quality criteria under this paragraph, and at least once every 5 years thereafter, the Administrator shall review and, as necessary, revise the water quality criteria.
+Reviews.—Not later than the date that is 5 years after the date of publication of water quality criteria under this paragraph,and at least once every 5 years thereafter, the Administrator shall review and, as necessary, revise the water quality criteria.
 
 #### (b) Effluent limitation guidelines
 
@@ -98,7 +98,7 @@ The Administrator, after consultation with appropriate Federal and State agencie
 
 #### (h) Test procedures guidelines
 
-The Administrator shall, within one hundred and eighty days from October 18, 1972, promulgate guidelines establishing test procedures forthe analysis of pollutants that shall include the factors which must be provided in any certification pursuant to section 1341 of this title or permit application pursuant to section 1342 of this title.
+The Administrator shall, within one hundred and eighty days from October 18, 1972, promulgate guidelines establishing test procedures for the analysis of pollutants that shall include the factors which must be provided in any certification pursuant to section 1341 of this title or permit application pursuant to section 1342 of this title.
 
 #### (i) Guidelines for monitoring, reporting, enforcement, funding, personnel, and manpower
 
@@ -144,7 +144,7 @@ The Administrator shall, within 1 year after February 4, 1987, and biennially th
 
 #### (3) Administrator's action
 
-&emsp;If a State fails to submit control strategies in accordance with paragraph (1) or the Administrator does not approve the controlstrategies submitted by such State in accordance with paragraph (1), then, not later than 1 year after the last day of the period referred to in paragraph (2), the Administrator, in cooperation with such State and after notice and opportunity for public comment, shall implement the requirements of paragraph (1) in such State. In the implementation of such requirements, the Administrator shall, at a minimum, consider for listing under this subsection any navigable waters for which any person submits a petition to the Administrator for listing not later than 120 days after such last day.
+&emsp;If a State fails to submit control strategies in accordance with paragraph (1) or the Administrator does not approve the control strategies submitted by such State in accordance with paragraph (1), then, not later than 1 year after the last day of the period referred to in paragraph (2), the Administrator, in cooperation with such State and after notice and opportunity for public comment, shall implement the requirements of paragraph (1) in such State. In the implementation of such requirements, the Administrator shall, at a minimum, consider for listing under this subsection any navigable waters for which any person submits a petition to the Administrator for listing not later than 120 days after such last day.
 
 #### (m) Schedule for review of guidelines
 
@@ -204,7 +204,7 @@ Enforcement functions of Secretary or other official in Department of Agricultur
 
 #### Review of Effluent Guidelines Promulgated Prior to December 27, 1977
 
-Pub. L. 95–217, §73, Dec. 27, 1977, 91 Stat. 1609, directed Administrator, within 90 days after Dec. 27, 1977, to review every effluent guideline promulgated prior to that date which was final or interim final (other than those applicable to industrial categories listed in table 2 of Committee Print Numbered 95–30 of Committee on Public Works and Transportation of House of Representatives) and which applied to those pollutants identified pursuant to 33 U.S.C. 1314(a)(4) and, on or before July 1, 1980, to review every guideline applicable to industrial categories listed in such table 2, authorized Administrator, upon completion of each such review to makesuch adjustments in any such guidelines as may be necessary to carry out 33 U.S.C. 1314(b)(4), directed Administrator to publish the results of each such review, and provided for judicial review of Administrator's actions.
+Pub. L. 95–217, §73, Dec. 27, 1977, 91 Stat. 1609, directed Administrator, within 90 days after Dec. 27, 1977, to review every effluent guideline promulgated prior to that date which was final or interim final (other than those applicable to industrial categories listed in table 2 of Committee Print Numbered 95–30 of Committee on Public Works and Transportation of House of Representatives) and which applied to those pollutants identified pursuant to 33 U.S.C. 1314(a)(4) and, on or before July 1, 1980, to review every guideline applicable to industrial categories listed in such table 2, authorized Administrator, upon completion of each such review to make such adjustments in any such guidelines as may be necessary to carry out 33 U.S.C. 1314(b)(4), directed Administrator to publish the results of each such review, and provided for judicial review of Administrator's actions.
 
 #### Contiguous Zone of United States
 

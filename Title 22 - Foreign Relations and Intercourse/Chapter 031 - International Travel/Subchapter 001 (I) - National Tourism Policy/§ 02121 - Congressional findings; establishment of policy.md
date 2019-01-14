@@ -34,7 +34,7 @@
 
 &emsp;(9) eliminate unnecessary trade barriers to the United States tourism industry operating throughout the world;
 
-&emsp;(10) encourage competition in the tourism industry and maximum consumer choice through the continued viability of the retailtravel agent industry and the independent tour operator industry;
+&emsp;(10) encourage competition in the tourism industry and maximum consumer choice through the continued viability of the retail travel agent industry and the independent tour operator industry;
 
 &emsp;(11) promote the continued development and availability of alternative personal payment mechanisms which facilitate national and international travel;
 
@@ -52,7 +52,7 @@
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b)(1). Pub. L. 102–372, §5(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "optimize the contribution of the tourism and recreation industries to economic prosperity, full employment, and the international balance of payments of the United States;".
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–372, §5(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "optimize the contribution of the tourism andrecreation industries to economic prosperity, full employment, and the international balance of payments of the United States;".
 
 Subsec. (b)(2) to (16). Pub. L. 102–372, §5(2), (3), added pars. (2) to (5) and redesignated former pars. (2) to (12) as (6) to (16), respectively.
 
@@ -106,7 +106,7 @@ Pub. L. 102–372, §2, Sept. 30, 1992, 106 Stat. 1170, provided that: "The Cong
 
 &emsp;"(9) foreign tourists entering the United States are frequently faced with unnecessary delays at the United States border;
 
-&emsp;"(10) advanced technologies, industrial targeting, the industrialization of the Third World, and theflight of some United States manufacturing capacity to overseas locations have affected the international competitiveness of the United States;
+&emsp;"(10) advanced technologies, industrial targeting, the industrialization of the Third World, and the flight of some United States manufacturing capacity to overseas locations have affected the international competitiveness of the United States;
 
 &emsp;"(11) exporting those goods and services which United States industry can produce at a comparative cost advantage, such as travel and tourism services, will be in the Nation's long-term strategic interest; and
 
@@ -184,7 +184,7 @@ This plan should also identify other appropriate measures that will enhance and 
 
 (c) Within 180 days of the date of this order, and periodically thereafter, the Secretaries of State and Homeland Security shall jointly submit through the Assistant to the President for Homeland Security and Counterterrorism a report to the President describing the progress on achieving the goals set forth in this section (as well as areas of concern or barriers to achieving those goals) to ensure the country remains secure while increasing travel and tourism to the United States.
 
-(d) The Secretary of Commerce shall establish and maintain a publicly available website that provides updated metrics from across the Federal Government to assist industry and travelers in understanding the current status of the industry and its relevance to the economy, statistics on visa processes in key travel and tourism markets, and entry times into the United States.
+(d) The Secretary of Commerce shall establish and maintain a publicly available website that provides updated metrics from across the Federal Government to assist industry and travelers in understanding the current status of the industry and its relevance to theeconomy, statistics on visa processes in key travel and tourism markets, and entry times into the United States.
 
 Sec. 3. <i>Task Force on Travel and Competitiveness</i>. (a) A Task Force on Travel and Competitiveness (Task Force) is hereby established to develop the National Travel and Tourism Strategy described in this section. The Secretaries of Commerce and the Interior shall serve as Co-Chairs of the Task Force. The Task Force shall also include the heads of the following executive departments and agencies (agencies), or senior level officials designated by them:
 

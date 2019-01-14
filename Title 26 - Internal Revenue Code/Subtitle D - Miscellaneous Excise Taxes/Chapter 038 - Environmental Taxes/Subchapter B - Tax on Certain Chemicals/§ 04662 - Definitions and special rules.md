@@ -54,7 +54,7 @@ For purposes of this subchapter—
 
 #### (C) Qualified fertilizer use
 
-&emsp;&emsp;The term "qualified fertilizer use" means any use in the manufacture or production of fertilizer or for direct application as a fertilizer.
+&emsp;&emsp;The term "qualified fertilizer use" means any use in the manufacture or production offertilizer or for direct application as a fertilizer.
 
 #### (D) Taxation of nonqualified sale or use
 
@@ -146,7 +146,7 @@ For purposes of this subchapter—
 
 #### (D) Special rule for groundwater treatment
 
-&emsp;&emsp;In the case of corrective action requiring groundwater treatment, such action shall be treated as completed as of the close of the 10-year period beginning on the date such action is required if such treatment complies with the permit or order applicable under subparagraph (C)(i) throughout such period. The preceding sentence shall cease to apply beginning on the date such treatment ceases to comply with such permit or order.
+&emsp;&emsp;In the case of corrective action requiring groundwater treatment, such action shall be treated as completed as of the close of the 10-year period beginning on the date such action is required if such treatment complies with the permit or order applicable undersubparagraph (C)(i) throughout such period. The preceding sentence shall cease to apply beginning on the date such treatment ceases to comply with such permit or order.
 
 #### (E) Solid waste
 
@@ -246,7 +246,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) such chemical was used by any person in the manufacture or production of any other substance which is a taxable chemical,
 
-> &emsp;then an amount equal to the tax so paid shall be allowed as a credit or refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by such section. In any case to which this paragraph applies, the amount of any such credit or refund shall not exceed the amount of tax imposed by such section on the other substance manufactured or produced (or which would have been imposed by such section on such other substance but for subsection (b) or (e) of this section).
+> &emsp;then an amount equal to the tax so paid shall be allowed as a credit or refund (without interest) to such person in the same manner as if itwere an overpayment of tax imposed by such section. In any case to which this paragraph applies, the amount of any such credit or refund shall not exceed the amount of tax imposed by such section on the other substance manufactured or produced (or which would have been imposed by such section on such other substance but for subsection (b) or (e) of this section).
 
 #### (2) Use as fertilizer
 
@@ -256,7 +256,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) any person uses such substance as a qualified fertilizer substance,
 
-> &emsp;then an amount equal to the excess of the tax so paid over the tax determined with regard tosubsection (b)(2) shall be allowed as a credit or refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
+> &emsp;then an amount equal to the excess of the tax so paid over the tax determined with regard to subsection (b)(2) shall be allowed as a credit or refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
 
 #### (3) Use as qualified fuel
 
@@ -354,7 +354,7 @@ Subsec. (b)(10). Pub. L. 99–499, §513(g), added par. (10).
 
 Subsec. (c). Pub. L. 99–499, §513(f), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Except as provided in subsection (b), if any person manufactures, produces, or imports a taxable chemical and uses such chemical, then such person shall be liable for tax under section 4661 in the same manner as if such chemical were sold by such person."
 
-Subsec. (d)(1). Pub. L. 99–499, §513(b)(2), substituted "which is a taxable chemical" for "the sale of which by such person would be taxable under such section", insubpar. (B), and substituted "imposed by such section on the other substance manufactured or produced (or which would have been imposed by such section on such other substance but for subsection (b) or (e) of this section)" for "imposed by such section on the other substance manufactured or produced" in last sentence.
+Subsec. (d)(1). Pub. L. 99–499, §513(b)(2), substituted "which is a taxable chemical" for "the sale of which by such person would be taxable under such section", in subpar. (B), and substituted "imposed by such section on the other substance manufactured or produced (or which would have been imposed by such section on such other substance but for subsection (b) or (e) of this section)" for "imposed by such section on the other substance manufactured or produced" in last sentence.
 
 Subsec. (d)(4). Pub. L. 99–499, §513(e)(2), added par. (4).
 

@@ -78,7 +78,7 @@ Pub. L. 115–91, div. C, title XXXI, §3118, Dec. 12, 2017, 131 Stat. 1890, pro
 
 Findings.—Congress finds the following:
 
-&emsp;"(1) In January 2016, the co-chairs of a congressionally mandated study panel from the National Academies of Science testified to the following before theCommittee on Armed Services of the House of Representatives:
+&emsp;"(1) In January 2016, the co-chairs of a congressionally mandated study panel from the National Academies of Science testified to the following before the Committee on Armed Services of the House of Representatives:
 
 &emsp;&emsp;"(A) 'The National Nuclear Security Administration (NNSA) complex must engage in robust design competitions in order to exercise the design and production skills that underpin stockpile stewardship and are necessary to meet evolving threats.'.
 
@@ -164,7 +164,7 @@ Inclusion of Costs in Future-Years Nuclear Security Program.—The Administrator
 
 "(e)
 
-Submission to Congress.—The Administrator shall submit the plan required by subsection (a) to the congressional defense committees \[Committees onArmed Services and Appropriations of the Senate and the House of Representatives\] with each summary of the plan required by subsection (a) of section 4203 of the Atomic Energy Defense Act (50 U.S.C. 2523) submitted under subsection (b)(1) of that section during the 10-year period beginning on the date of the enactment of this Act.
+Submission to Congress.—The Administrator shall submit the plan required by subsection (a) to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] with each summary of the plan required by subsection (a) of section 4203 of the Atomic Energy Defense Act (50 U.S.C. 2523) submitted under subsection (b)(1) of that section during the 10-year period beginning on the date of the enactment of this Act.
 
 "(f)
 

@@ -56,7 +56,7 @@ At the election of a qualified individual (made separately with respect to parag
 
 &emsp;&emsp;&emsp;&emsp;(I) such dollar amount, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "2004" for "2016" in subparagraph (A)(ii) thereof.
+&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "2004"for "2016" in subparagraph (A)(ii) thereof.
 
 &emsp;&emsp;&nbsp;If any increase determined under the preceding sentence is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100.
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 #### (E) Foreign earned income
 
-&emsp;&emsp;For purposes of this paragraph, an individual's foreign earned income for any taxable year shall be determined without regard tothe limitation of subparagraph (A) of subsection (b)(2).
+&emsp;&emsp;For purposes of this paragraph, an individual's foreign earned income for any taxable year shall be determined without regard to the limitation of subparagraph (A) of subsection (b)(2).
 
 #### (d) Definitions and special rules
 
@@ -176,7 +176,7 @@ For purposes of this section—
 
 #### (3) Tax home
 
-&emsp;The term "tax home" means, with respect to any individual, such individual's home for purposes of section 162(a)(2) (relating to traveling expenses while away from home). An individual shall not be treated as having a tax home in a foreign country for any period for which his abode is within the United States.
+&emsp;The term "tax home" means, with respect to any individual, such individual's home for purposes of section 162(a)(2) (relating to traveling expenses while away from home). An individual shall not be treated as having a tax home in a foreign country for any period for which his abode is within the United States, unless such individual is serving in an area designated by the President of the United States by Executive order as a combat zone for purposes of section 112 in support of the Armed Forces of the United States.
 
 #### (4) Waiver of period of stay in foreign country
 
@@ -222,13 +222,13 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the term "housing expenses" shall not include any expenses allocable to such period for housing in such country or for housing of the spouse or dependents of the taxpayer in another country while the taxpayer is present in such country, and
 
-&emsp;&emsp;&emsp;(iii) an individual shall not be treated as a bona fide resident of, or as present in, aforeign country for any day during which such individual was present in such country during such period.
+&emsp;&emsp;&emsp;(iii) an individual shall not be treated as a bona fide resident of, or as present in, a foreign country for any day during which such individual was present in such country during such period.
 
 #### (B) Regulations
 
 &emsp;&emsp;For purposes of this paragraph, regulations are described in this subparagraph if such regulations—
 
-&emsp;&emsp;&emsp;(i) have been adopted pursuant to the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.),<sup>1</sup> or the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), and
+&emsp;&emsp;&emsp;(i) have been adopted pursuant to the Trading With the Enemy Act (50 U.S.C. 4301 et seq.) or the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), and
 
 &emsp;&emsp;&emsp;(ii) include provisions generally prohibiting citizens and residents of the United States from engaging in transactions related to travel to, from, or within a foreign country.
 
@@ -290,9 +290,9 @@ For purposes of this section—
 
 &emsp;&emsp;In applying section 55(b)(3) for purposes of determining the tax under paragraph (1)(B)(i) for any taxable year in which, without regard to this subsection, the taxpayer's net capital gain exceeds the taxable excess (as defined in section 55(b)(1)(B))—
 
-&emsp;&emsp;&emsp;(i) the rules of subparagraph (A) shall apply, except that such subparagraph shall be applied by substituting "the taxable excess (as defined in section 55(b)(1)(B))" for "taxable income", and
+&emsp;&emsp;&emsp;(i) the rules of subparagraph (A) shall apply, except that such subparagraph shallbe applied by substituting "the taxable excess (as defined in section 55(b)(1)(B))" for "taxable income", and
 
-&emsp;&emsp;&emsp;(ii) the reference in section 55(b)(3)(B) to the excess described in section 1(h)(1)(B), and the reference in section 55(b)(3)(C)(ii)to the excess described in section 1(h)(1)(C)(ii), shall each be treated as a reference to each such excess as determined under the rules of subparagraph (A) for purposes of determining the tax under paragraph (1)(A)(i).
+&emsp;&emsp;&emsp;(ii) the reference in section 55(b)(3)(B) to the excess described in section 1(h)(1)(B), and the reference in section 55(b)(3)(C)(ii) to the excess described in section 1(h)(1)(C)(ii), shall each be treated as a reference to each such excess as determined under the rules of subparagraph (A) for purposes of determining the tax under paragraph (1)(A)(i).
 
 #### (C) Definitions
 
@@ -302,7 +302,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For administrative and penal provisions relating to the exclusions provided for in this section, see sections 6001, 6011, 6012(c), and the other provisions of subtitle F.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 289; Pub. L. 85–866, title I, §72(b), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 87–834, §11(a), Oct. 16, 1962, 76 Stat. 1003; Pub. L. 88–272, title II, §237(a), Feb. 26, 1964, 78 Stat. 128; Pub. L. 89–809, title I, §105(e)(3), Nov. 13, 1966, 80 Stat. 1567; Pub. L. 94–455, title X, §1011(a), (b), title XIX, §§1901(a)(115), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1610, 1784, 1834; Pub. L. 95–30, title I, §102(b)(12), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title IV, §401(b)(4), title VII, §§701(u)(10)(A), 703(e), Nov. 6, 1978, 92 Stat. 2867, 2917, 2939; Pub. L. 95–615, title II, §202(a)–(e), (g)(1), formerly §202(a)–(f)(1), Nov. 8, 1978, 92 Stat. 3098–3100, renumbered §202(a)–(e), (g)(1), and amended Pub. L. 96–222, title I, §§107(a)(3)(B), 108(a)(1)(A), (C), (D), Apr. 1, 1980, 94 Stat. 223, 224; Pub. L. 96–595, §4(a)–(c)(1), Dec. 24, 1980, 94 Stat. 3466, 3467; Pub. L. 97–34, title I, §111(a), Aug. 13, 1981, 95 Stat. 190; Pub. L. 97–448, title I, §101(c), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title I, §17, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title XII, §1233(a), (b), Oct. 22, 1986, 100 Stat. 2564; Pub. L. 105–34, title XI, §1172(a), Aug. 5, 1997, 111 Stat. 988; Pub. L. 109–222, title V, §515(a)–(c), May 17, 2006, 120 Stat. 367; Pub. L. 110–172, §4(c), Dec. 29, 2007, 121 Stat. 2476; Pub. L. 113–295, div. A, title II, §§202(b), 215(a), 221(a)(73), Dec. 19, 2014, 128 Stat. 4024, 4034, 4049; Pub. L. 115–97, title I, §§11002(d)(9), 12001(b)(3)(E), Dec. 22, 2017, 131 Stat. 2062, 2093.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 289; Pub. L. 85–866, title I, §72(b), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 87–834, §11(a), Oct. 16, 1962, 76 Stat. 1003; Pub. L. 88–272, title II, §237(a), Feb. 26, 1964, 78 Stat. 128; Pub. L. 89–809, title I, §105(e)(3), Nov. 13, 1966, 80 Stat. 1567; Pub. L. 94–455, title X, §1011(a), (b), title XIX, §§1901(a)(115), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1610, 1784, 1834; Pub. L. 95–30, title I, §102(b)(12), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title IV, §401(b)(4), title VII, §§701(u)(10)(A), 703(e), Nov. 6, 1978, 92 Stat. 2867, 2917, 2939; Pub. L. 95–615, title II, §202(a)–(e), (g)(1), formerly §202(a)–(f)(1), Nov. 8, 1978, 92 Stat. 3098–3100, renumbered §202(a)–(e), (g)(1), and amended Pub. L. 96–222, title I, §§107(a)(3)(B), 108(a)(1)(A), (C), (D), Apr. 1, 1980, 94 Stat. 223, 224; Pub. L. 96–595, §4(a)–(c)(1), Dec. 24, 1980, 94 Stat. 3466, 3467; Pub. L. 97–34, title I, §111(a), Aug. 13, 1981, 95 Stat. 190; Pub. L. 97–448, title I, §101(c), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title I, §17, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title XII, §1233(a), (b), Oct. 22, 1986, 100 Stat. 2564; Pub. L. 105–34, title XI, §1172(a), Aug. 5, 1997, 111 Stat. 988; Pub. L. 109–222, title V, §515(a)–(c), May 17, 2006, 120 Stat. 367; Pub. L. 110–172, §4(c), Dec. 29, 2007, 121 Stat. 2476; Pub. L. 113–295, div. A, title II, §§202(b), 215(a), 221(a)(73), Dec. 19, 2014, 128 Stat. 4024, 4034, 4049; Pub. L. 115–97, title I, §§11002(d)(9), 12001(b)(3)(E), Dec. 22, 2017, 131 Stat. 2062, 2093; Pub. L. 115–123, div. D, title II, §41116(a), Feb. 9, 2018, 132 Stat. 161; Pub. L. 115–141, div. U, title IV, §401(a)(160), Mar. 23, 2018, 132 Stat. 1191.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -310,11 +310,15 @@ For purposes of this section—
 
 #### References in Text
 
-The Trading With the Enemy Act, referred to in subsec. (d)(8)(B)(i), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering in Title 50, and is now classified generally to chapter 53 (§4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Trading with the Enemy Act, referred to in subsec. (d)(8)(B)(i), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified principally to chapter 53 (§4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 4301 of Title 50 and Tables.
 
 The International Emergency Economic Powers Act, referred to in subsec. (d)(8)(B)(i), is Pub. L. 95–223, title II, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### Amendments
+
+2018–Subsec. (d)(3). Pub. L. 115–123 inserted before period at end ", unless such individual is serving in an area designated by the President of the United States by Executive order as a combat zone for purposes of section 112 in support of the Armed Forces of the United States".
+
+Subsec. (d)(8)(B)(i). Pub. L. 115–141 substituted "(50 U.S.C. 4301 et seq.)" for "(50 U.S.C. App. 1 et seq.)".
 
 <b>2017</b>—Subsec. (b)(2)(D)(ii)(II). Pub. L. 115–97, §11002(d)(9), substituted "for '2016' in subparagraph (A)(ii)" for "for '1992' in subparagraph (B)".
 
@@ -425,11 +429,15 @@ Subsecs. (d) to (f). Pub. L. 94–455, §1011(b)(3), added subsecs. (d) and (e) 
 
 <b>1964</b>—Subsec. (c)(1)(B). Pub. L. 88–272 substituted "$25,000" for "$35,000".
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–834 substituted "which constitute earned income attributable to services performed during such uninterrupted period" for "if such amounts constitute earned income (as defined in subsection (b)) attributable to such period" in par. (1), and "which constitute earned income attributable to services performed during such 18-month period" for "if such amounts constitute earned income (as defined insubsection (b)) attributable to such period" in par. (2), inserted provisions in pars. (1) and (2) requiring the amount excluded under such paragraphs to be computed by applying the special rules contained in subsec. (c), and eliminated provisions from par. (2) which limited the amount excluded under such paragraph to not more than $20,000 if the 18-month period includes the entire taxable year, and to not more than an amount which bears the same ratio to $20,000 as the number of days in the part of the taxable year within the 18-month period bears to the total number of days in such year if the 18-month period does not include the entire taxable year.
+<b>1962</b>—Subsec. (a). Pub. L. 87–834 substituted "which constitute earned income attributable to services performed during such uninterrupted period" for "if such amounts constitute earned income (as defined in subsection (b)) attributable to such period" in par. (1), and "which constitute earned income attributable to services performed during such 18-month period" for "if such amounts constitute earned income (as defined in subsection (b)) attributable to such period" in par. (2), inserted provisions in pars. (1) and (2) requiring the amount excluded under such paragraphs to be computed by applying the special rules contained in subsec. (c), and eliminated provisions from par. (2) which limited the amount excluded under such paragraph to not more than $20,000 if the 18-month period includes the entire taxable year, and to not more than an amount which bears the same ratio to $20,000 as the number of days in the part of the taxable year within the 18-month period bears to the total number of days in such year if the 18-month period does not include the entire taxable year.
 
 Subsecs. (c) and (d). Pub. L. 87–834 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–866 added subsec. (c).
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–123, div. D, title II, §41116(b), Feb. 9, 2018, 132 Stat. 162, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2017 Amendment
 
@@ -568,6 +576,4 @@ General Rule.—As soon as practicable after December 31, 1993, and as soon as p
 "(b)
 
 Information From Federal Agencies.—Each agency of the Federal Government which pays allowances excludable from gross income under section 912 of such Code shall keep such records and furnish to the Secretary of the Treasury such information as he determines to be necessary to carry out his responsibility under subsection (a)."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

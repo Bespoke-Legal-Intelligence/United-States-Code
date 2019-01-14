@@ -26,7 +26,7 @@ In General.—The antitrust laws do not apply to—
 
 Exceptions.—This part does not extend antitrust immunity to—
 
-&emsp;(1) an agreement with or among air carriers, rail carriers, motor carriers, or common carriers by water not subject to this part relating to transportation within the United States;
+&emsp;(1) an agreement with or among air carriers, rail carriers, motor carriers, tug operators, or common carriers by water not subject to this part relating to transportation within the United States;
 
 &emsp;(2) a discussion or agreement among common carriers subject to this part relating to the inland divisions (as opposed to the inland portions) of through rates within the United States;
 
@@ -42,7 +42,7 @@ Retroactive Effect of Determinations.—A determination by an agency or court th
 
 Relief Under Clayton Act.—A person may not recover damages under section 4 of the Clayton Act (15 U.S.C. 15), or obtain injunctive relief under section 16 of that Act (15 U.S.C. 26), for conduct prohibited by this part.
 
-(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1531.)
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1531; Pub. L. 115–282, title VII, §709(c), Dec. 4, 2018, 132 Stat. 4297.)
 
 Historical and Revision Notes
 
@@ -71,4 +71,8 @@ In subsection (a)(7), the words "subject to section 1719(e)(2) of this Appendix"
 Section 15 of the Shipping Act, 1916, referred to in subsec. (a)(7), which was classified to section 814 of the former Appendix to this title, was repealed by Pub. L. 104–88, title III, §335(b)(3), Dec. 29, 1996, 109 Stat. 954.
 
 Section 14b of the Shipping Act, 1916, referred to in subsec. (a)(7), which was classified to section 813a of former Title 46, Shipping, was repealed by Pub. L. 98–237, §20(a), Mar. 20, 1984, 98 Stat. 88.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–282 inserted "tug operators," after "motor carriers,".
 

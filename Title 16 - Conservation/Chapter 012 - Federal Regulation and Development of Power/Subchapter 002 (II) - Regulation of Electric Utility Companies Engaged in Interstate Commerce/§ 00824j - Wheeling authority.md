@@ -72,7 +72,7 @@ Pub. L. 102–486, §721(2), in second sentence, substituted "the Commission may
 
 &emsp;"(3) meets the requirements of section 824k of this title."
 
-Subsec. (b). Pub. L. 102–486, §721(3), amended subsec. (b) generally, substituting provisions relating to reliability of electric service for provisions which related to transmission service by sellers of electric energy forresale and notice, hearing, and determinations by Commission.
+Subsec. (b). Pub. L. 102–486, §721(3), amended subsec. (b) generally, substituting provisions relating to reliability of electric service for provisions which related to transmission service by sellers of electric energy for resale and notice, hearing, and determinations by Commission.
 
 Subsec. (c). Pub. L. 102–486, §721(4), struck out pars. (1), (3), and (4), and substituted "which requires the transmitting" for "which requires the electric" in introductory provisions of par. (2). Prior to amendment, pars. (1), (3), and (4) read as follows:
 

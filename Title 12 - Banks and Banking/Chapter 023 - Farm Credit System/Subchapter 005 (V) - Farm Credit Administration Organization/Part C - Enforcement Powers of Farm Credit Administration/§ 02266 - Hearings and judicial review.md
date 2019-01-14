@@ -16,7 +16,7 @@ The commencement of proceedings for judicial review under subsection (b) shall n
 
 #### Prior Provisions
 
-A prior section 5.30 of Pub. L. 92–181 was renumbered section 5.44 and transferred from section 2260 to section 2275 of this title.
+A prior section 5.30 of Pub. L. 92–181 was renumbered section 5.44 and transferred from section 2260 to section 2275 of this title, prior to repeal by Pub. L. 115–334, title V, §5411(36), Dec. 20, 2018, 132 Stat. 4683.
 
 #### Amendments
 
@@ -24,5 +24,5 @@ A prior section 5.30 of Pub. L. 92–181 was renumbered section 5.44 and transfe
 
 #### Effective Date
 
-Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
+Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an EffectiveDate of 1985 Amendment note under section 2001 of this title.
 

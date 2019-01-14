@@ -14,7 +14,7 @@ The plan required by subsection (a) shall include the following:
 
 &emsp;(3) An identification of national security requirements for unencumbered uranium, by program source and enrichment level.
 
-&emsp;(4) A description of any shortfall in obtaining unencumbered uranium to meet nationalsecurity requirements and an assessment of whether that shortfall could be mitigated through the blending down of uranium that is of a higher enrichment level.
+&emsp;(4) A description of any shortfall in obtaining unencumbered uranium to meet national security requirements and an assessment of whether that shortfall could be mitigated through the blending down of uranium that is of a higher enrichment level.
 
 &emsp;(5) An inventory of unencumbered depleted uranium, an assessment of the portion of that uranium that could be allocated to national security requirements through re-enrichment, and an estimate of the costs of re-enriching that uranium.
 

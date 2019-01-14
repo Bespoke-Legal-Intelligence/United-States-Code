@@ -20,7 +20,7 @@ The President is not required to provide import relief under this section if the
 
 &emsp;&emsp;&emsp;(i) the column 1 general rate of duty imposed under the HTS on like articles at the time the import relief is provided; or
 
-&emsp;&emsp;&emsp;(ii) the column 1 general rate of duty imposed under the HTS on like articles on the day before the date on which the Agreement enters into force.
+&emsp;&emsp;&emsp;(ii) the column 1 general rate of duty imposed under the HTS on like articles onthe day before the date on which the Agreement enters into force.
 
 #### (2) Progressive liberalization
 

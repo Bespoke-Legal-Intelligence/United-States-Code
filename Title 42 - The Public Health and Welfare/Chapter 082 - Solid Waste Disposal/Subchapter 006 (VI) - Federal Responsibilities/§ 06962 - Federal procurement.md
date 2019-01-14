@@ -102,7 +102,7 @@ As used in this section, in the case of paper products, the term "recovered mate
 
 &emsp;(D) annual review and monitoring of the effectiveness of an agency's affirmative procurement program.
 
-> In the case of paper, the recovered materials preference program required under subparagraph (A) shall provide for the maximum use of the post consumer recovered materials referred to in subsection (h)(1).
+> In the case of paper, the recovered materials preference program required under subparagraph\(A) shall provide for the maximum use of the post consumer recovered materials referred to in subsection (h)(1).
 
 (3) In developing the preference program, the following options shall be considered for adoption:
 
@@ -116,7 +116,7 @@ As used in this section, in the case of paper products, the term "recovered mate
 
 #### Codification
 
-Pub. L. 102–393, title VI, §630, Oct. 6, 1990, 106 Stat. 1773, which directed that this title be amended by adding a new section 6962j, relating to a preference for recycled toner cartridges, and which had been executed by adding the provisions of purported new section as subsec. (j) of this section, to reflect the probable intentof Congress, was repealed by Pub. L. 103–355, title I, §1554(1), Oct. 13, 1994, 108 Stat. 3300. Similar provisions were contained in Pub. L. 103–123, title IV, §401, Oct. 28, 1993, 107 Stat. 1238, prior to repeal by Pub. L. 103–355, title I, §1554(2), Oct. 13, 1994, 108 Stat. 3300.
+Pub. L. 102–393, title VI, §630, Oct. 6, 1990, 106 Stat. 1773, which directed that this title be amended by adding a new section 6962j, relating to a preference for recycled toner cartridges, and which had been executed by adding the provisions of purported new section as subsec. (j) of this section, to reflect the probable intent of Congress, was repealed by Pub. L. 103–355, title I, §1554(1), Oct. 13, 1994, 108 Stat. 3300. Similar provisions were contained in Pub. L. 103–123, title IV, §401, Oct. 28, 1993, 107 Stat. 1238, prior to repeal by Pub. L. 103–355, title I, §1554(2), Oct. 13, 1994, 108 Stat. 3300.
 
 #### Amendments
 

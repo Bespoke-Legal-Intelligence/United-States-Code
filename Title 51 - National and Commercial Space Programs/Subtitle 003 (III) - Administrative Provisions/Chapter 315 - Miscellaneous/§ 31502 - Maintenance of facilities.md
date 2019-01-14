@@ -66,7 +66,7 @@ Contents.—The plan shall identify—
 
 &emsp;&emsp;&emsp;"(ii) the National Aeronautics Research, Development, Test, and Evaluation Infrastructure Plan;
 
-&emsp;&emsp;&emsp;"(iii) the National Aeronautics and Space Administration Authorization Act of 2005 (PublicLaw 109–155; 119 Stat. 2895) \[see Tables for classification\], National Aeronautics and Space Administration Authorization Act of 2008 (Public Law 110–422; 122 Stat. 4779) \[see Tables for classification\], and National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18301 et seq.); and
+&emsp;&emsp;&emsp;"(iii) the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155; 119 Stat. 2895) \[see Tables for classification\], National Aeronautics and Space Administration Authorization Act of 2008 (Public Law 110–422; 122 Stat. 4779) \[see Tables for classification\], and National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18301 et seq.); and
 
 &emsp;&emsp;&emsp;"(iv) the human exploration roadmap under section 432 of this Act \[set out in a note under section 20302 of this title\];
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Grants awarded under section 11382 of this title to qualified applicants shall be used to carry out projects that serve homeless individuals or families that consist of one or more of the following eligible activities:
+Grants awarded under section 11382 of this title to qualified applicants shall be used tocarry out projects that serve homeless individuals or families that consist of one or more of the following eligible activities:
 
 &emsp;(1) Construction of new housing units to provide transitional or permanent housing.
 
@@ -58,7 +58,7 @@ The Secretary may impose minimum grant terms of up to 5 years for new projects p
 
 &emsp;&emsp;(A) earlier than 10 years after operation of the project begins, the Secretary shall require the recipient or project sponsor to repay 100 percent of the assistance; or
 
-&emsp;&emsp;(B) not earlier than 10 years, but earlier than 15 years, after operation of the project begins, the Secretary shall require the recipient or project sponsor to repay 20 percent of the assistance for each of the years in the 15-year period for which the project fails to provide that housing.
+&emsp;&emsp;(B) not earlier than 10 years, but earlier than 15 years, after operation of the project begins, the Secretary shall require the recipient or project sponsor to repay 20 percent ofthe assistance for each of the years in the 15-year period for which the project fails to provide that housing.
 
 #### (2) Prevention of undue benefits
 
@@ -96,7 +96,7 @@ This chapter, referred to in subsec. (a)(4), was in the original "this Act", mea
 
 #### Prior Provisions
 
-A prior section 11383, Pub. L. 100–77, title IV, §423, as added Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992,106 Stat. 4015; amended Pub. L. 106–377, §1(a)(1) \[title II, §226\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 109–162, title VI, §605(1), Jan. 5, 2006, 119 Stat. 3041; Pub. L. 109–271, §5(b), Aug. 12, 2006, 120 Stat. 759, which related to eligible activities, was repealed by Pub. L. 111–22, div. B, title III, §1302, May 20, 2009, 123 Stat. 1684.
+A prior section 11383, Pub. L. 100–77, title IV, §423, as added Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4015; amended Pub. L. 106–377, §1(a)(1) \[title II, §226\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 109–162, title VI, §605(1), Jan. 5, 2006, 119 Stat. 3041; Pub. L. 109–271, §5(b), Aug. 12, 2006, 120 Stat. 759, which related to eligible activities, was repealed by Pub. L. 111–22, div. B, title III, §1302, May 20, 2009, 123 Stat. 1684.
 
 Another prior section 11383, Pub. L. 100–77, title IV, §423, July 22, 1987, 101 Stat. 501; Pub. L. 100–628, title IV, §§441(b), (c), 445(a), 446–448(a), 449, Nov. 7, 1988, 102 Stat. 3233, 3234; Pub. L. 101–625, title VIII, §833(c)–(e), (g), Nov. 28, 1990, 104 Stat. 4362, 4363, which outlined types of assistance provided under the supportive housing demonstration program, was repealed by Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4013.
 

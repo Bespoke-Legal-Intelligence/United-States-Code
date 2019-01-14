@@ -16,7 +16,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(A) any officer or employee of a creditor while, in the name of the creditor, collecting debts for such creditor;
 
-&emsp;&emsp;(B) any person while acting as a debt collector for another person, both of whom are related by common ownership or affiliated by corporate control, if the person acting as a debt collector does so only for persons to whom it is so related or affiliated and if the principal business of such person is not the collection of debts;
+&emsp;&emsp;(B) any person while acting as a debt collector for another person, both of whom are related by common ownership or affiliatedby corporate control, if the person acting as a debt collector does so only for persons to whom it is so related or affiliated and if the principal business of such person is not the collection of debts;
 
 &emsp;&emsp;(C) any officer or employee of the United States or any State to the extent that collecting or attempting to collect any debt is in the performance of his official duties;
 

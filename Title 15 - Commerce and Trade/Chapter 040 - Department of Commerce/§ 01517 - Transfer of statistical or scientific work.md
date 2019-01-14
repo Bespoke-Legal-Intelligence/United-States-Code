@@ -22,13 +22,13 @@ Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerc
 
 Pub. L. 98–166, title I, §101, Nov. 28, 1983, 97 Stat. 1076, provided that: "No funds made available by this Act, or any other Act, may be used—
 
-&emsp;"(1) by the Source Evaluation Board for Civil Space Remote Sensing as established by the Secretary of Commerce to develop or issue a request for proposal to transfer the ownership or lease the use of any meteorological satellite (METSAT) or associated ground system to any private entity; or
+&emsp;"(1) by the Source Evaluation Board for Civil Space Remote Sensing as established by the Secretary ofCommerce to develop or issue a request for proposal to transfer the ownership or lease the use of any meteorological satellite (METSAT) or associated ground system to any private entity; or
 
 &emsp;"(2) by the National Oceanic and Atmospheric Administration to transfer the ownership of any meteorological satellite (METSAT) or associated ground system to any private entity."
 
 #### Civil Land Remote Sensing Satellite System; Termination
 
-Pub. L. 98–52, title II, §202, July 15, 1983, 97 Stat. 285, as amended by Pub. L. 103–437, §5(b)(1), Nov. 2, 1994, 108 Stat. 4582, provided that: "Notwithstanding title II of the National Aeronautics and Space Administration Authorization Act, 1983 \[Pub. L. 97–324, set out as a note below\], the Secretary of Commerce shall not transfer the ownership or management of any civilland, meteorological, or ocean remote sensing space satellite system and associated ground system equipment unless, in addition to any other requirement of law—
+Pub. L. 98–52, title II, §202, July 15, 1983, 97 Stat. 285, as amended by Pub. L. 103–437, §5(b)(1), Nov. 2, 1994, 108 Stat. 4582, provided that: "Notwithstanding title II of the National Aeronautics and Space Administration Authorization Act, 1983 \[Pub. L. 97–324, set out as a note below\], the Secretary of Commerce shall not transfer the ownership or management of any civil land, meteorological, or ocean remote sensing space satellite system and associated ground system equipment unless, in addition to any other requirement of law—
 
 &emsp;"(1) the Secretary of Commerce or his designee has presented, in writing, to the Speaker of the House of Representatives and the President of the Senate, and to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, a comprehensive statement of recommended policies, procedures, conditions, and limitations to which any transfer should be subject; and
 

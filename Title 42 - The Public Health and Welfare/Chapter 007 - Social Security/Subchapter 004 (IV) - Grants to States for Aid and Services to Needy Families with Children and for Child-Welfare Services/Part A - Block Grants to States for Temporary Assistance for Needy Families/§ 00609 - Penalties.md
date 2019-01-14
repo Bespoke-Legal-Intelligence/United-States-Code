@@ -68,7 +68,7 @@ Subject to this section:
 
 #### (C) Penalty based on severity of failure
 
-&emsp;&emsp;The Secretary shall impose reductions under subparagraph (A) with respect to a fiscal year based on the degree of noncompliance, and may reduce the penalty if the noncompliance is due to circumstances that caused the State to become a needy State (as defined in section 603(b)(5) of this title) during the fiscal year or if the noncompliance is due to extraordinary circumstances such as a natural disaster or regional recession. The Secretary shall provide a written report to Congress to justify any waiver orpenalty reduction due to such extraordinary circumstances.
+&emsp;&emsp;The Secretary shall impose reductions under subparagraph (A) with respect to a fiscal year based on the degree of noncompliance, and may reduce the penalty if the noncompliance is due to circumstances that caused the State to become a needy State (as defined in section 603(b)(5) of this title) during the fiscal year or if the noncompliance is due to extraordinary circumstances such as a natural disaster or regional recession. The Secretary shall provide a written report to Congress to justify any waiver or penalty reduction due to such extraordinary circumstances.
 
 #### (4) Failure to participate in the income and eligibility verification system
 
@@ -102,7 +102,7 @@ Subject to this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) Child care assistance.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) Educational activities designed to increase self-sufficiency, job training, and work, excluding any expenditure for public education in the State except expenditures which involve the provision of services or assistance to a member of an eligible family which is not generally available to persons who are not members of an eligible family.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) Educational activities designed to increase self-sufficiency, job training, and work, excluding any expenditure for public education in the State except expenditures which involve the provision of services or assistance to a member of an eligible family which isnot generally available to persons who are not members of an eligible family.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) Administrative costs in connection with the matters described in items (aa), (bb), (cc), and (ee), but only to the extent that such costs do not exceed 15 percent of the total amount of qualified State expenditures for the fiscal year.
 
@@ -170,7 +170,7 @@ Subject to this section:
 
 &emsp;&emsp;If the Secretary finds, with respect to a State's program under part D, in a fiscal year beginning on or after October 1, 1997—
 
-&emsp;&emsp;&emsp;(i)(I) on the basis of data submitted by a State pursuant to section 654(15)(B) of this title, or on the basis of the results of a review conducted under section 652(a)(4) of this title, that the State program failed to achieve the paternity establishment percentages (as defined in section 652(g)(2) of this title), or to meet other performance measures that may be established by the Secretary;
+&emsp;&emsp;&emsp;(i)(I) on the basis of data submitted by a State pursuant to section 654(15)(B) of this title, or on the basis of the results of a review conducted under section 652(a)(4) of this title, that the State program failed to achieve the paternity establishment percentages (as defined in section 652(g)(2) ofthis title), or to meet other performance measures that may be established by the Secretary;
 
 &emsp;&emsp;&emsp;(II) on the basis of the results of an audit or audits conducted under section 652(a)(4)(C)(i) of this title that the State data submitted pursuant to section 654(15)(B) of this title is incomplete or unreliable; or
 
@@ -480,7 +480,7 @@ Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(c)\], Nov. 29, 1999,
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–33, title V, §5004(b), Aug. 5, 1997, 111 Stat. 594, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shalltake effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
+Pub. L. 105–33, title V, §5004(b), Aug. 5, 1997, 111 Stat. 594, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
 
 Amendment by section 5506 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 

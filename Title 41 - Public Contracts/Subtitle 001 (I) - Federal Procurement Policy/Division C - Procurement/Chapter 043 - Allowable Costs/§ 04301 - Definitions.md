@@ -18,7 +18,11 @@ Fiscal year.—The term "fiscal year" means a fiscal year established by a contr
 
 Senior executive.—The term "senior executive", with respect to a contractor, means the 5 most highly compensated employees in management positions at each home office and each segment of the contractor.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3784.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3784; Pub. L. 115–232, div. A, title VIII, §836(b)(17), Aug. 13, 2018, 132 Stat. 1864.)
+
+#### Amendment of Paragraph (2)
+
+<i>Pub. L. 115–232, div. A, title VIII, §836(b)(17), (h), Aug. 13, 2018, 132 Stat. 1864, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, paragraph (2) of this section is amended by striking "commercial items" and inserting "commercial products or commercial services". See 2018 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -49,4 +53,12 @@ June 30, 1949, ch. 288, title III, §306(<i>l</i>)(1), as added Pub. L. 100–70
 4301(4)
 
 41:256(m)(2).
+
+#### Amendments
+
+<b>2018</b>—Par. (2). Pub. L. 115–232 substituted "commercial products or commercial services" for "commercial items".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 

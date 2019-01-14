@@ -68,7 +68,7 @@ Pub. L. 104–201, div. A, title XVII, §1725(a), Sept. 23, 1996, 110 Stat. 2760
 
 #### Regulations
 
-Pub. L. 104–201, div. A, title XVII, §1725(b), Sept. 23, 1996, 110 Stat. 2760, provided that: "The Administratorof General Services shall, not later than the effective date set forth under subsection (a) \[set out above\], issue final regulations implementing the amendments made by this title \[see Effective Date of 1996 Amendment note above\]."
+Pub. L. 104–201, div. A, title XVII, §1725(b), Sept. 23, 1996, 110 Stat. 2760, provided that: "The Administrator of General Services shall, not later than the effective date set forth under subsection (a) \[set out above\], issue final regulations implementing the amendments made by this title \[see Effective Date of 1996 Amendment note above\]."
 
 #### Assessment of Cost Savings
 

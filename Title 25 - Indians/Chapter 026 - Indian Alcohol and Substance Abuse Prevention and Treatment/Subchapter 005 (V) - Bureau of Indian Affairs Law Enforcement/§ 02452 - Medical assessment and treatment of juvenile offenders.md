@@ -2,7 +2,7 @@
 
 #### (a) Development and implementation of procedures
 
-The Memorandum of Agreement entered into pursuant to section 2411 of this title shall include a specific provision for the development and implementation at each Bureau of Indian Affair <sup>1</sup> agency and Indian Health Service unit of a procedure for the emergency medical assessment and treatment of every Indian youth arrested or detained by Bureau of Indian Affairs or tribal law enforcement personnel for an offense relating to or involving alcohol or substance abuse. The medical assessment required by this subsection—
+The Memorandum of Agreement entered into pursuant to section 2411 of this title shall include a specific provision for the development and implementation at each Bureau of Indian Affair <sup>1</sup> agency and Indian Health Service <sup>2</sup> unit of a procedure for the emergency medical assessment and treatment of every Indian youth arrested or detained by Bureau of Indian Affairs or tribal law enforcement personnel for an offense relating to or involving alcohol or substance abuse. The medical assessment required by this subsection—
 
 &emsp;(1) shall be conducted to determine the mental or physical state of the individual assessed so that appropriate steps can be taken to protect the individual's health and well-being,
 
@@ -21,4 +21,6 @@ The Indian Health Service shall not refuse to provide necessary interim treatmen
 <b>1988</b>—Pub. L. 100–690 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Affairs".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "service".</i>
 

@@ -14,7 +14,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;(1)(A) have a degree in medicine, osteopathic medicine, dentistry, or another health profession, or an appropriate degree from a graduate program of behavioral and mental health, or be certified as a nurse midwife, nurse practitioner, or physician assistant;
 
-&emsp;(B) be enrolled in an approved graduate training program in medicine, osteopathicmedicine, dentistry, behavioral and mental health, or other health profession; or
+&emsp;(B) be enrolled in an approved graduate training program in medicine, osteopathic medicine, dentistry, behavioral and mental health, or other health profession; or
 
 &emsp;(C) be enrolled as a full-time student—
 
@@ -48,7 +48,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;(A) The Secretary shall distribute to health professions schools materials providing information on the Loan Repayment Program and shall encourage the schools to disseminate the materials to the students of the schools.
 
-&emsp;(B)(i) In the case of any health professional whose period of obligated service under the Loan Repayment Program is nearing completion, the Secretary shall encourage the individual to remain in a health professional shortage area and to continue providing primary health services.
+&emsp;(B)(i) In the case of any health professional whose period of obligated service under theLoan Repayment Program is nearing completion, the Secretary shall encourage the individual to remain in a health professional shortage area and to continue providing primary health services.
 
 &emsp;(ii) During the period in which a health professional is planning and making the transition to private practice from obligated service under the Loan Repayment Program, the Secretary may provide assistance to the professional regarding such transition if the professional is remaining in a health professional shortage area and is continuing to provide primary health services.
 
@@ -264,7 +264,7 @@ Pub. L. 101–597, title II, §202(g)(2), Nov. 16, 1990, 104 Stat. 3026, provide
 
 #### Regulations
 
-Pub. L. 100–177, title II, §205, Dec. 1, 1987, 101 Stat. 1003, provided that: "Not later than 180 days after the effective date of the amendments made by this title \[Dec. 21, 1987\], the Secretary of Health and Human Services shall issue regulations for the loan repayment programs established by the amendments \[enacting this section and sections 254q and 254q–1 of this title, amending sections 242a, 254d, 254g, 254h–1, and 254o of this title, and repealing former section 254q of this title\]."
+Pub. L. 100–177, title II, §205, Dec. 1, 1987, 101 Stat. 1003, provided that: "Not later than 180 days after theeffective date of the amendments made by this title \[Dec. 21, 1987\], the Secretary of Health and Human Services shall issue regulations for the loan repayment programs established by the amendments \[enacting this section and sections 254q and 254q–1 of this title, amending sections 242a, 254d, 254g, 254h–1, and 254o of this title, and repealing former section 254q of this title\]."
 
 #### Clarification on Current Eligibility for Loan Repayment Programs
 

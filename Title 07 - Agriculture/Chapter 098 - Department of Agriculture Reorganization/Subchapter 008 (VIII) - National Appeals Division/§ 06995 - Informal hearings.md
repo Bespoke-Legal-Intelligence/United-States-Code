@@ -6,17 +6,17 @@ If an officer, employee, or committee of an agency makes an adverse decision, th
 
 #### (b) Farm Service Agency
 
-With respect to programs carried out through the Consolidated Farm Service Agency (or other office, agency, or administrative unit of the Department assigned to carry out the programs authorized for the Consolidated Farm Service Agency under section 6932 of this title), the Secretary shall maintain the informal appeals process applicable to such programs, as in effect on October 13, 1994.
+With respect to programs carried out through the Farm Service Agency (or other office, agency, or administrative unit of the Department assigned to carry out the programs authorized for the Farm Service Agency under section 6932 of this title), the Secretary shall maintain the informal appeals process applicable to such programs, as in effect on October 13, 1994.
 
 #### (c) Mediation
 
-If a mediation program is available under title V of the Agricultural Credit Act of 1987 (7 U.S.C. 5101 et seq.) as a part of the informal hearing process, the participant shall—
+If a mediation program is available under title V of the Agricultural Credit Act of 1987 (7 U.S.C.5101 et seq.) as a part of the informal hearing process, the participant shall—
 
 &emsp;(1) be offered the right to choose such mediation; and
 
 &emsp;(2) to the maximum extent practicable, be allowed to use both informal agency review and mediation to resolve disputes under that title.
 
-(Pub. L. 103–354, title II, §275, Oct. 13, 1994, 108 Stat. 3230; Pub. L. 110–234, title XII, §12032, May 22, 2008, 122 Stat. 1391; Pub. L. 110–246, §4(a), title XII, §12032, June 18, 2008, 122 Stat. 1664, 2153.)
+(Pub. L. 103–354, title II, §275, Oct. 13, 1994, 108 Stat. 3230; Pub. L. 110–234, title XII, §12032, May 22, 2008, 122 Stat. 1391; Pub. L. 110–246, §4(a), title XII, §12032, June 18, 2008, 122 Stat. 1664, 2153; Pub. L. 115–334, title XII, §12404(b)(3), Dec. 20, 2018, 132 Stat. 4975.)
 
 #### References in Text
 
@@ -27,6 +27,8 @@ The Agricultural Credit Act of 1987, referred to in subsec. (c), is Pub. L. 100�
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b). Pub. L. 115–334 substituted "Farm" for "Consolidated Farm" in two places.
 
 <b>2008</b>—Pub. L. 110–246, §12032, designated the three sentences of existing provisions as subsecs. (a) to (c), respectively, inserted headings, and in subsec. (c) designated part of existing provisions as par. (1) and added par. (2).
 

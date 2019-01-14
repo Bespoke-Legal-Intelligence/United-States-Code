@@ -6,7 +6,7 @@ Except as provided in section 2353 of this title and as otherwise provided in th
 
 #### (1) Thirty percent
 
-&emsp;Thirty percent shall be allocated to such local educational agencies in proportion to thenumber of individuals aged 5 through 17, inclusive, who reside in the school district served by such local educational agency for the preceding fiscal year compared to the total number of such individuals who reside in the school districts served by all local educational agencies in the State for such preceding fiscal year, as determined on the basis of the most recent satisfactory—
+&emsp;Thirty percent shall be allocated to such local educational agencies in proportion to the number of individuals aged 5 through 17, inclusive, who reside in the school district served by such local educational agency for the preceding fiscal year compared to the total number of such individuals who reside in the school districts served by all local educational agencies in the State for such preceding fiscal year, as determined on the basis of the most recent satisfactory—
 
 &emsp;&emsp;(A) data provided to the Secretary by the Bureau of the Census for the purpose of determining eligibility under title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\]; or
 
@@ -74,7 +74,7 @@ The Secretary may waive the application of subsection (a) in the case of any eli
 
 #### (2) Allocation basis
 
-&emsp;If an area career and technical education school or educational service agency meets the requirements of paragraph (1), then theamount that would otherwise be distributed to the local educational agency shall be allocated to the area career and technical education school, the educational service agency, and the local educational agency based on each school, agency or entity's relative share of students who are attending career and technical education programs (based, if practicable, on the average enrollment for the preceding 3 years).
+&emsp;If an area career and technical education school or educational service agency meets the requirements of paragraph (1), then the amount that would otherwise be distributed to the local educational agency shall be allocated to the area career and technical education school, the educational service agency, and the local educational agency based on each school, agency or entity's relative share of students who are attending career and technical education programs (based, if practicable, on the average enrollment for the preceding 3 years).
 
 #### (3) Appeals procedure
 
@@ -104,7 +104,21 @@ The Secretary shall collect information from eligible agencies regarding the spe
 
 Each eligible agency distributing funds under this section shall treat a secondary school funded by the Bureau of Indian Affairs within the State as if such school were a local educational agency within the State for the purpose of receiving a distribution under this section.
 
-(Pub. L. 88–210, title I, §131, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 727.)
+(Pub. L. 88–210, title I, §131, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 727; amended Pub. L. 115–224, title I, §131, July 31, 2018, 132 Stat. 1612.)
+
+#### Amendment of Section
+
+<i>Pub. L. 115–224, §4, title I, §131, July 31, 2018, 132 Stat. 1564, 1612, provided that, effective July 1, 2019, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)(3)(B), by striking "Bureau of Indian Affairs" and inserting "Bureau of Indian Education";</i>
+
+<i>(2) in subsection (c)(2)(A)(ii), by inserting "or programs of study" after "technical education programs";</i>
+
+<i>(3) in subsection (g), by inserting "and programs of study" after "technical education programs"; and</i>
+
+<i>(4) in subsection (h), by striking "Bureau of Indian Affairs" and inserting "Bureau of Indian Education".</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 #### References in Text
 
@@ -115,4 +129,18 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1
 A prior section 2351, Pub. L. 88–210, title I, §131, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3109, related to distribution of funds to secondary school programs, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2351, Pub. L. 88–210, title III, §301, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2457, related to applications by community-based organizations, prior to the general amendment of this chapter by Pub. L. 105–332.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (a)(3)(B). Pub. L. 115–224, §131(1), substituted "Bureau of Indian Education" for "Bureau of Indian Affairs".
+
+Subsec. (c)(2)(A)(ii). Pub. L. 115–224, §131(2), inserted "or programs of study" after "technical education programs".
+
+Subsec. (g). Pub. L. 115–224, §131(3), inserted "and programs of study" after "technical education programs".
+
+Subsec. (h). Pub. L. 115–224, §131(4), substituted "Bureau of Indian Education" for "Bureau of Indian Affairs".
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 

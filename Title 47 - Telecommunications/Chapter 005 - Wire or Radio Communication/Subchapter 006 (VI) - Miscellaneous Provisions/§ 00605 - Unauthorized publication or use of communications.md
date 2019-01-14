@@ -126,7 +126,7 @@ Subsec. (e)(2). Pub. L. 100–667, §205(3), substituted "$50,000 or imprisoned 
 
 Subsec. (e)(3)(A). Pub. L. 100–667, §205(4), inserted "or paragraph (4) of subsection (d)" before "may bring".
 
-Subsec. (e)(3)(B). Pub. L. 100–667, §205(5)–(8), struck out "may" after "The court" and substituted "maygrant" for "grant" in cl. (i), "may award" for "award" in cl. (ii), and "shall direct" for "direct" in cl. (iii).
+Subsec. (e)(3)(B). Pub. L. 100–667, §205(5)–(8), struck out "may" after "The court" and substituted "may grant" for "grant" in cl. (i), "may award" for "award" in cl. (ii), and "shall direct" for "direct" in cl. (iii).
 
 Subsec. (e)(3)(C)(i)(II). Pub. L. 100–667, §205(9), inserted "of subsection (a)" after "violation", substituted "$1,000" for "$250", and inserted before period at end ", and for each violation of paragraph (4) of this subsection involved in the action an aggrieved party may recover statutory damages in a sum not less than $10,000, or more than $100,000, as the court considers just".
 

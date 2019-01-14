@@ -80,7 +80,7 @@ The Secretary shall convene a peer review committee to review applications for g
 
 &emsp;&emsp;An eligible partnership receiving a grant under this section shall conduct an evaluation at the end of the grant period to determine—
 
-&emsp;&emsp;&emsp;(i) the effectiveness of the general education teachers who completed a program under subsection (c)(1) with respect to instruction of students with disabilities in general education classrooms; and
+&emsp;&emsp;&emsp;(i) the effectiveness of the general education teachers who completed a programunder subsection (c)(1) with respect to instruction of students with disabilities in general education classrooms; and
 
 &emsp;&emsp;&emsp;(ii) the systemic impact of the activities carried out by such grant on how each institution of higher education that is a member of the partnership prepares teachers for instruction in elementary schools and secondary schools.
 

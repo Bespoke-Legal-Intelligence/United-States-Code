@@ -80,9 +80,11 @@ In this section:
 
 &emsp;&emsp;(C) To establish or expand accredited veterinary education programs (including faculty recruitment and retention), veterinary residency and fellowship programs, or veterinary internship and externship programs carried out in coordination with accredited colleges of veterinary medicine.
 
-&emsp;&emsp;(D) To provide continuing education and extension, including veterinary telemedicineand other distance-based education, for veterinarians, veterinary technicians, and other health professionals needed to strengthen veterinary programs and enhance food safety.
+&emsp;&emsp;(D) To provide continuing education and extension, including veterinary telemedicine and other distance-based education, for veterinarians, veterinary technicians, and other health professionals needed to strengthen veterinary programs and enhance food safety.
 
 &emsp;&emsp;(E) To provide technical assistance for the preparation of applications submitted to the Secretary for designation as a veterinarian shortage situation under this section or section 3151a of this title.
+
+&emsp;&emsp;(F) To expose students in grades 11 and 12 to education and career opportunities in food animal medicine.
 
 #### (2) Qualified entities operating veterinary clinics
 
@@ -142,7 +144,19 @@ Not later than 1 year after February 7, 2014, the Secretary shall promulgate reg
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary to carry out this section $10,000,000 for fiscal year 2014 and each fiscal year thereafter, to remain available until expended.
+#### (1) In general
 
-(Pub. L. 95–113, title XIV, §1415B, as added Pub. L. 113–79, title VII, §7104, Feb. 7, 2014, 128 Stat. 866.)
+&emsp;There are authorized to be appropriated to the Secretary to carry out this section $10,000,000 for fiscal year 2014 and each fiscal year thereafter, to remain available until expended.
+
+#### (2) Priority
+
+&emsp;From amounts made available for grants under this section, the Secretary shall prioritize grant awards for programs or activities with a focus on the practice of food animal medicine.
+
+(Pub. L. 95–113, title XIV, §1415B, as added Pub. L. 113–79, title VII, §7104, Feb. 7, 2014, 128 Stat. 866; amended Pub. L. 115–334, title VII, §7106, Dec. 20, 2018, 132 Stat. 4783.)
+
+#### Amendments
+
+<b>2018</b>—Subsec. (d)(1)(F). Pub. L. 115–334, §7106(1), added subpar. (F).
+
+Subsec. (h). Pub. L. 115–334, §7106(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 

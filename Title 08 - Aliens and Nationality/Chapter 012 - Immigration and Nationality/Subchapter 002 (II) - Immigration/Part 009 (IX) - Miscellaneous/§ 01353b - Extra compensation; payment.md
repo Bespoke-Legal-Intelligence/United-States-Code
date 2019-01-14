@@ -1,6 +1,6 @@
 ### §1353b. Extra compensation; payment
 
-The said extra compensation shall be paid by the master, owner, agent, or consignee of suchvessel or other conveyance arriving in the United States from a foreign port to the Attorney General, who shall pay the same to the several immigration officers and employees entitled thereto as provided in this section and section 1353a of this title. Such extra compensation shall be paid if such officers or employees have been ordered to report for duty and have so reported, whether the actual inspection or examination of passengers or crew takes place or not: <i>Provided,</i> That this section shall not apply to the inspection at designated ports of entry of passengers arriving by international ferries, bridges, or tunnels, or by aircraft, railroad trains, or vessels on the Great Lakes and connecting waterways, when operating on regular schedules.
+The said extra compensation shall be paid by the master, owner, agent, or consignee of such vessel or other conveyance arriving in the United States from a foreign port to the Attorney General, who shall pay the same to the several immigration officers and employees entitled thereto as provided in this section and section 1353a of this title. Such extra compensation shall be paid if such officers or employees have been ordered to report for duty and have so reported, whether the actual inspection or examination of passengers or crew takes place or not: <i>Provided,</i> That this section shall not apply to the inspection at designated ports of entry of passengers arriving by international ferries, bridges, or tunnels, or by aircraft, railroad trains, or vessels on the Great Lakes and connecting waterways, when operating on regular schedules.
 
 (Mar. 2, 1931, ch. 368, §2, 46 Stat. 1467; 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238.)
 
@@ -10,7 +10,7 @@ Section was not enacted as part of the Immigration and Nationality Act which com
 
 1940 Reorg. Plan No. V is authority for the substitution of "Attorney General" for "Secretary of Labor." See note set out under section 1551 of this title.
 
-Section was formerly classified to section 342d of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378. Prior thereto, section was classified to section 109b of this title.
+Section was formerly classified to section 342d of Title 5 prior to the general revision and enactment ofTitle 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378. Prior thereto, section was classified to section 109b of this title.
 
 #### Transfer of Functions
 

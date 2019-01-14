@@ -14,7 +14,7 @@ The Congress finds and declares that—
 
 &emsp;(6) primarily because deaths from unintentional injuries and violence occur disproportionately among young people, the age-specific death rate for Indians is approximately double the United States rate for the 15 to 45 age group,
 
-&emsp;(7) Indians between the ages of 15 and 24 years of age are more than 2 times as likely to commit suicide as the general population and approximately 80 percent of those suicides are alcohol-related,
+&emsp;(7) Indians between the ages of 15 and 24 years of age are more than 2 times as likely tocommit suicide as the general population and approximately 80 percent of those suicides are alcohol-related,
 
 &emsp;(8) Indians between the ages of 15 and 24 years of age are twice as likely as the general population to die in automobile accidents, 75 percent of which are alcohol-related,
 

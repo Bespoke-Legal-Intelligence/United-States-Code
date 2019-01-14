@@ -118,7 +118,7 @@ Elements.—The report required by this paragraph shall include the following:
 
 &emsp;&emsp;&emsp;"(iv) A description of technologies currently available to reduce the susceptibility and vulnerability of civilian aircraft to man-portable air-defense systems, including an assessment of the feasibility of using aircraft-based anti-missile systems to protect United States passenger jets.
 
-&emsp;&emsp;&emsp;"(v) Recommendations for the most effective policy measures that can be taken to reduce andmitigate the threat posed to United States citizens and citizens of allies of the United States from man-portable air-defense systems that were in Libya as of March 19, 2011.
+&emsp;&emsp;&emsp;"(v) Recommendations for the most effective policy measures that can be taken to reduce and mitigate the threat posed to United States citizens and citizens of allies of the United States from man-portable air-defense systems that were in Libya as of March 19, 2011.
 
 &emsp;&emsp;&emsp;"(vi) Such recommendations for legislative or administrative action as the President considers appropriate to implement the strategy required by paragraph (1).
 

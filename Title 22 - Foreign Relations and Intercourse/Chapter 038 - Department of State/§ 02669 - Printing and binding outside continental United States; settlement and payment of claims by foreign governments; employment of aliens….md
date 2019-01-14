@@ -36,7 +36,7 @@ The Secretary of State may use funds appropriated or otherwise available to the 
 
 #### References in Text
 
-The effective date of the amendment made by section 2711 of the Competition in Contracting Act of 1984, referred to in subsec. (h), is the effective date of section 2711 of title VII of Pub. L. 98–369, div. B, July 18, 1984, 98 Stat. 1175, 1203, which amended section 253 of former Title 41, Public Contracts, applicable with respect to any solicitation for bids or proposals issued after Mar.31, 1985. See section 2751(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 2302 of Title 10, Armed Forces.
+The effective date of the amendment made by section 2711 of the Competition in Contracting Act of 1984, referred to in subsec. (h), is the effective date of section 2711 of title VII of Pub. L. 98–369, div. B, July 18, 1984, 98 Stat. 1175, 1203, which amended section 253 of former Title 41, Public Contracts, applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985. See section 2751(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 2302 of Title 10, Armed Forces.
 
 #### Codification
 
@@ -94,7 +94,7 @@ Amendment by section 162(k)(4) of Pub. L. 103–236 applicable with respect to o
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–93, title I, §118(b), Aug. 16, 1985, 99 Stat. 412, provided that: "Authority provided by the amendment made by subsection (a) \[amending this section\] shall only apply with respect to funds appropriated after the date of the enactment of this Act \[Aug. 16, 1985\]."
+Pub. L. 99–93, title I, §118(b), Aug. 16, 1985, 99 Stat. 412, provided that: "Authority provided by the amendmentmade by subsection (a) \[amending this section\] shall only apply with respect to funds appropriated after the date of the enactment of this Act \[Aug. 16, 1985\]."
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

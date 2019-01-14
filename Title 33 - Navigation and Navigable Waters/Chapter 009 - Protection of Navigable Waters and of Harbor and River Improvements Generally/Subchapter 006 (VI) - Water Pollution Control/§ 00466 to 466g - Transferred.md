@@ -8,7 +8,7 @@ Section 466, acts June 30, 1948, ch. 758, §1, 62 Stat. 1155; July 9, 1956, ch. 
 
 Section 466–1, act June 30, 1948, ch. 758, §2, as added Oct. 2, 1965, Pub. L. 89–234, §2(a), 79 Stat. 903; amended 1966 Reorg. Plan. No. 2, eff. May 10, 1966, §1(a), (b), 31 F.R. 6857, 80 Stat. 1608; Apr. 3, 1970, Pub. L. 91–224, title I, §110(a), 84 Stat. 113, which provided for a Federal Water Quality Administration, was transferred to section 1152 of this title.
 
-Section 466a, acts June 30, 1948, ch. 758, §3, formerly §2, 62 Stat. 1155; July 9, 1956, ch. 518, §1, 70 Stat. 498; July 20, 1961, Pub. L. 87–88, §§1(b), 2, 75 Stat. 204; renumbered §3, Oct. 2, 1965, Pub. L. 89–234, §2(a), 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, title I, §101, 80 Stat. 1246, which provided for comprehensive water pollution programs, was transferred to section 1153 of this title.
+Section 466a, acts June 30, 1948, ch. 758, §3, formerly §2, 62 Stat. 1155; July 9, 1956, ch. 518, §1, 70 Stat. 498;July 20, 1961, Pub. L. 87–88, §§1(b), 2, 75 Stat. 204; renumbered §3, Oct. 2, 1965, Pub. L. 89–234, §2(a), 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, title I, §101, 80 Stat. 1246, which provided for comprehensive water pollution programs, was transferred to section 1153 of this title.
 
 Section 466b, acts June 30, 1948, ch. 758, §4, formerly §3, 62 Stat. 1157; July 9, 1956, ch. 518, §1, 70 Stat. 498; July 20, 1961, Pub. L. 87–88, §1(b), 75 Stat. 204; renumbered §4, Oct. 2, 1965, Pub. L. 89–234, §2(a), 79 Stat. 903, which provided for interstate cooperation, was transferred to section 1154 of this title.
 

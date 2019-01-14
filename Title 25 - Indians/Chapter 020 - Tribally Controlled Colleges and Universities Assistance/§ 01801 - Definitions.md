@@ -50,7 +50,7 @@ The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(2), probabl
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(6). Pub. L. 110–315, §941(a), substituted "in the fields of tribally controlled collegesand universities and Indian higher education" for "in the field of Indian education".
+<b>2008</b>—Subsec. (a)(6). Pub. L. 110–315, §941(a), substituted "in the fields of tribally controlled colleges and universities and Indian higher education" for "in the field of Indian education".
 
 Subsec. (a)(7) to (9). Pub. L. 110–315, §941(b), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
 
@@ -80,7 +80,7 @@ Subsec. (a)(1). Pub. L. 98–192, §1(2), struck out "and is eligible to receive
 
 Subsec. (a)(5). Pub. L. 98–192, §1(3), inserted "and the reference to Secretary in clause (5)(A) of such section shall be deemed to refer to the Secretary of the Interior".
 
-Subsec. (a)(7). Pub. L. 98–192, §1(4), substituted provision defining "Indian student count" to mean a number equal to the total number of Indian students enrolled in each tribally controlled community college, determined as consistent with subsec. (b) of this section on the basis of the quotient of the sum of the credit hours of all Indians so enrolled, divided by twelve for provision defining "full-time equivalent Indian student" to mean the number of Indians enrolled full-time and the full-time equivalent of the number of Indians enrolled part-time, determined on the basis of the quotient of the sum of the credit hours of all part-time students divided by twelve, calculated on the basis of registrations as in effect at the conclusion of the sixth week of an academic term.
+Subsec. (a)(7). Pub. L. 98–192, §1(4), substituted provision defining "Indian student count" to mean a number equal to the total number of Indian students enrolledin each tribally controlled community college, determined as consistent with subsec. (b) of this section on the basis of the quotient of the sum of the credit hours of all Indians so enrolled, divided by twelve for provision defining "full-time equivalent Indian student" to mean the number of Indians enrolled full-time and the full-time equivalent of the number of Indians enrolled part-time, determined on the basis of the quotient of the sum of the credit hours of all part-time students divided by twelve, calculated on the basis of registrations as in effect at the conclusion of the sixth week of an academic term.
 
 Subsec. (b). Pub. L. 98–192, §1(4), added subsec. (b).
 

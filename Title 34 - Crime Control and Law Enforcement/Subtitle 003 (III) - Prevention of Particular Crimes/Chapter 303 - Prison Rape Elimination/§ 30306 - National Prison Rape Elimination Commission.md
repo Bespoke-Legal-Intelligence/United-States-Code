@@ -62,7 +62,7 @@ There is established a commission to be known as the National Prison Rape Elimin
 
 #### (1) In general
 
-&emsp;The Commission shall carry out a comprehensive legal and factual study of the penalogical, physical, mental, medical, social, and economic impacts of prison rape in the United States on—
+&emsp;The Commission shall carry out a comprehensive legal and factual study of thepenalogical, physical, mental, medical, social, and economic impacts of prison rape in the United States on—
 
 &emsp;&emsp;(A) Federal, State, and local governments; and
 
@@ -74,7 +74,7 @@ There is established a commission to be known as the National Prison Rape Elimin
 
 &emsp;&emsp;(A) a review of existing Federal, State, and local government policies and practices with respect to the prevention, detection, and punishment of prison rape;
 
-&emsp;&emsp;(B) an assessment of the relationship between prison rape and prison conditions, andof existing monitoring, regulatory, and enforcement practices that are intended to address any such relationship;
+&emsp;&emsp;(B) an assessment of the relationship between prison rape and prison conditions, and of existing monitoring, regulatory, and enforcement practices that are intended to address any such relationship;
 
 &emsp;&emsp;(C) an assessment of pathological or social causes of prison rape;
 
@@ -254,7 +254,7 @@ The Commission shall be exempt from the Federal Advisory Committee Act.
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (n), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (n), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 

@@ -18,7 +18,7 @@ There is established within the Commission—
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in section 1802(a)(4)(A) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+Provisions similar to this section were contained in section 1802(a)(4)(A) of this title, prior to the generalamendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
 

@@ -26,7 +26,7 @@ Definition.—In this paragraph, the term "subcontract" includes a transfer of c
 
 &emsp;&emsp;(B)
 
-When standards are to be used.—Cost accounting standards prescribed under this chapter are mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with the pricing and administration of, and settlement of disputes concerning, all negotiatedprime contract and subcontract procurements with the Federal Government in excess of the amount set forth in section 2306a(a)(1)(A)(i) of title 10 as the amount is adjusted in accordance with applicable requirements of law.
+When standards are to be used.—Cost accounting standards prescribed under this chapter are mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with the pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the Federal Government in excess of the amount set forth in section 2306a(a)(1)(A)(i) of title 10 as the amount is adjusted in accordance with applicable requirements of law.
 
 &emsp;&emsp;(C)
 
@@ -54,7 +54,7 @@ Waiver by head of executive agency.—
 
 &emsp;&emsp;(A)
 
-In general.—The head of an executive agency may waive the applicability of the cost accounting standards for a contract or subcontract with a value of less than $15,000,000 if that official determines in writing that the segment of the contractor or subcontractor that will perform the work—
+In general.—The head of an executive agency may waive the applicability of the cost accounting standards for a contract or subcontract with a value of less than $100,000,000 if that official determines in writing that the segment of the contractor or subcontractor that will perform the work—
 
 &emsp;&emsp;&emsp;(i) is primarily engaged in the sale of commercial items; and
 
@@ -116,17 +116,25 @@ Implementing Regulations.—The Board shall prescribe regulations for the implem
 
 &emsp;(1) disclose in writing their cost accounting practices, including methods of distinguishing direct costs from indirect costs and the basis used for allocating indirect costs; and
 
-&emsp;(2) agree to a contract price adjustment, with interest, for any increased costs paid tothe contractor or subcontractor by the Federal Government because of a change in the contractor's or subcontractor's cost accounting practices or a failure by the contractor or subcontractor to comply with applicable cost accounting standards.
+&emsp;(2) agree to a contract price adjustment, with interest, for any increased costs paid to the contractor or subcontractor by the Federal Government because of a change in the contractor's or subcontractor's cost accounting practices or a failure by the contractor or subcontractor to comply with applicable cost accounting standards.
 
 (g)
 
 Nonapplicability of Certain Sections of Title 5.—Functions exercised under this chapter are not subject to sections 551, 553 to 559, and 701 to 706 of title 5.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3696; Pub. L. 114–328, div. A, title VIII, §820(a)(2), Dec. 23, 2016, 130 Stat. 2274.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3696; Pub. L. 114–328, div. A, title VIII, §820(a)(2), Dec. 23, 2016, 130 Stat. 2274; Pub. L. 115–232, div. A, title VIII, §836(b)(1), Aug. 13, 2018, 132 Stat. 1860.)
 
-#### Amendment of Subsection (b)(3)(A)
+#### Amendment of Subsection (b)
 
-<i>Pub. L. 114–328, div. A, title VIII, §820(a)(2), (d), Dec. 23, 2016, 130 Stat. 2274, 2276, provided that, effective Oct. 1, 2018, subsection (b)(3)(A) of this section is amended by striking "$15,000,000" and inserting "$100,000,000". See 2016 Amendment note below.</i>
+<i>Pub. L. 115–232, div. A, title VIII, §836(b)(1), (h), Aug. 13, 2018, 132 Stat. 1860, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, subsection (b) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (1)(A), by striking "commercial items" and inserting "commercial products or commercial services";</i>
+
+<i>(2) in paragraph (1)(C)(i), by striking "commercial item" and inserting "commercial product or commercial service"; and</i>
+
+<i>(3) in paragraph (3)(A)(i), by striking "commercial items" and inserting "commercial products or commercial services".</i>
+
+<i>See 2018 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -186,7 +194,17 @@ In subsection (b)(3)(A)(ii), the words "as in effect on or after the effective d
 
 #### Amendments
 
+<b>2018</b>—Subsec. (b)(1)(A). Pub. L. 115–232, §836(b)(1)(A), substituted "commercial products or commercial services" for "commercial items".
+
+Subsec. (b)(1)(C)(i). Pub. L. 115–232, §836(b)(1)(B), substituted "commercial product or commercial service" for "commercial item".
+
+Subsec. (b)(3)(A)(i). Pub. L. 115–232, §836(b)(1)(C), substituted "commercial products or commercial services" for "commercial items".
+
 <b>2016</b>—Subsec. (b)(3)(A). Pub. L. 114–328 substituted "$100,000,000" for "$15,000,000" in introductory provisions.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
 #### Effective Date of 2016 Amendment
 
@@ -222,7 +240,7 @@ Implementation of Requirements for Revision of Regulations.—(1) Final regulati
 
 "(g)
 
-Inapplicability of Standards to Certain Contracts.—The cost accounting standards issued pursuant to section 26(f) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 422(f)) \[now 41 U.S.C. 1502(a), (b)\], as amended by this section, shall not apply during fiscal year 2000 with respect to a contract entered into under the authority provided in chapter 89 of title 5, United States Code (relating to health benefits for Federal employees).
+Inapplicability of Standards to Certain Contracts.—The cost accounting standards issued pursuant to section 26(f) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 422(f)) \[now 41U.S.C. 1502(a), (b)\], as amended by this section, shall not apply during fiscal year 2000 with respect to a contract entered into under the authority provided in chapter 89 of title 5, United States Code (relating to health benefits for Federal employees).
 
 "(h)
 

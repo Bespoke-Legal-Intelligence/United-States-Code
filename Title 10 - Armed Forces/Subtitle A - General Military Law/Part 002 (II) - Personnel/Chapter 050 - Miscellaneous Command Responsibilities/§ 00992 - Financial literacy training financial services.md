@@ -76,7 +76,7 @@ Counseling for Members and Spouses.—(1) The Secretary concerned shall, upon re
 
 (3) Each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraph (2), shall be an individual who, by reason of education, training, or experience, is qualified to provide helpful counseling to members of the armed forces and their spouses on financial services and marketing practices described in subsection (a)(1). Such individual may be a member of the armed forces or an employee of the Federal Government.
 
-(4) The Secretary concerned shall take such action as is necessary to ensure that each financial services counselor under paragraph (2)(A)(i),and any other individual providing counseling on financial services under paragraphs (2), is free from conflicts of interest relevant to the performance of duty under this section and, in the performance of that duty, is dedicated to furnishing members of the armed forces and their spouses with helpful information and counseling on financial services and related marketing practices.
+(4) The Secretary concerned shall take such action as is necessary to ensure that each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraphs (2), is free from conflicts of interest relevant to the performance of duty under this section and, in the performance of that duty, is dedicated to furnishing members of the armed forces and their spouses with helpful information and counseling on financial services and related marketing practices.
 
 (c)
 
@@ -104,7 +104,7 @@ Financial Services Defined.—In this section, the term "financial services" inc
 
 &emsp;(4) Health insurance, budget management, Thrift Savings Plan (TSP), retirement lump sum payments (including rollover options and tax consequences), and Survivor Benefit Plan (SBP).
 
-(Added Pub. L. 109–163, div. A, title V, §578(a)(1), Jan. 6, 2006, 119 Stat. 3274; amended Pub. L. 111–84, div. A, title X, §1073(a)(8), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 114–92, div. A, title VI, §661(b)–(e)(1), Nov. 25, 2015, 129 Stat. 857, 858.)
+(Added Pub. L. 109–163, div. A, title V, §578(a)(1), Jan. 6, 2006, 119 Stat. 3274; amended Pub. L.111–84, div. A, title X, §1073(a)(8), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 114–92, div. A, title VI, §661(b)–(e)(1), Nov. 25, 2015, 129 Stat. 857, 858.)
 
 #### Amendments
 
@@ -338,7 +338,7 @@ Disclosure.—A disclosure in accordance with this section is a written disclosu
 
 &emsp;"(3) states that the life insurance product that is the subject of the disclosure is not offered or provided by the Federal Government, and that the Federal Government has in no way sanctioned, recommended, or encouraged the sale of the life insurance product being offered;
 
-&emsp;"(4) fully discloses any terms and circumstances under which amounts accumulated in a savings fund or savings feature under the life insurance product that is the subject of the disclosure may be diverted to pay, or reduced to offset, premiums due for continuation of coverage under such product;
+&emsp;"(4) fully discloses any terms and circumstances under which amounts accumulated in a savings fund or savings feature under the life insurance product that is the subject of the disclosure may be divertedto pay, or reduced to offset, premiums due for continuation of coverage under such product;
 
 &emsp;"(5) states that no person has received any referral fee or incentive compensation in connection with the offer or sale of the life insurance product, unless such person is a licensed agent of the person engaged in the business of insurance that is issuing such product;
 

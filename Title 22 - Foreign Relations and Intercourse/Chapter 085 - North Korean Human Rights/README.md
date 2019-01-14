@@ -42,6 +42,7 @@
 | [7843\.](Subchapter%20003%20%28III%29%20-%20Protecting%20North%20Korean%20Refugees/%C2%A7%2007843%20-%20Facilitating%20submission%20of%20applications%20for%20admission%20as%20a%20refugee.md) | Facilitating submission of applications for admission as a refugee. |
 | [7844\.](Subchapter%20003%20%28III%29%20-%20Protecting%20North%20Korean%20Refugees/%C2%A7%2007844%20-%20United%20Nations%20High%20Commissioner%20for%20Refugees.md) | United Nations High Commissioner for Refugees. |
 | [7845\.](Subchapter%20003%20%28III%29%20-%20Protecting%20North%20Korean%20Refugees/%C2%A7%2007845%20-%20Annual%20reports.md) | Annual reports. |
+| [7846\.](Subchapter%20003%20%28III%29%20-%20Protecting%20North%20Korean%20Refugees/%C2%A7%2007846%20-%20Sense%20of%20Congress%20on%20humanitarian%20coordination%20related%20to%20the%20Korean%20Peninsula.md) | Sense of Congress on humanitarian coordination related to the Korean Peninsula. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

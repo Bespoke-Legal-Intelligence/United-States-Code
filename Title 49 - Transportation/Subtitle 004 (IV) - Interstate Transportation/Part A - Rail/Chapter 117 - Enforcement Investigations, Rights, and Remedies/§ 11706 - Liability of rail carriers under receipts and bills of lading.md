@@ -6,7 +6,7 @@
 
 &emsp;(2) the delivering rail carrier; or
 
-&emsp;(3) another rail carrier over whose line or route the property is transported in theUnited States or from a place in the United States to a place in an adjacent foreign country when transported under a through bill of lading.
+&emsp;(3) another rail carrier over whose line or route the property is transported in the United States or from a place in the United States to a place in an adjacent foreign country when transported under a through bill of lading.
 
 > Failure to issue a receipt or bill of lading does not affect the liability of a rail carrier. A delivering rail carrier is deemed to be the rail carrier performing the line-haul transportation nearest the destination but does not include a rail carrier providing only a switching service at the destination.
 
@@ -47,4 +47,8 @@
 Provisions similar to those in this section were contained in section 11707 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 A prior section 11706, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1452; Pub. L. 97–258, §3(n), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 99–521, §12(c), Oct. 22, 1986, 100 Stat. 2998; Pub. L. 103–180, §3, Dec. 3, 1993, 107 Stat. 2049; Pub. L. 103–429, §6(18), Oct. 31, 1994, 108 Stat. 4379, related to limitation on actions by and against common carriers, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 11705, 14705, and 15905 of this title.
+
+#### Effective Date
+
+Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

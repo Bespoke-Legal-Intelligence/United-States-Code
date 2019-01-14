@@ -6,7 +6,7 @@ If the dam or other project works are to be constructed across, along, or in any
 
 (b) That in case such structures for navigation purposes are not made a part of the original construction at the expense of the licensee, then whenever the United States shall desire to complete such navigation facilities the licensee shall convey to the United States, free of cost, such of its land and its rights-of-way and such right of passage through its dams or other structures, and permit such control of pools as may be required to complete such navigation facilities.
 
-(c) That such licensee shall furnish free of cost to the United States power for the operation ofsuch navigation facilities, whether constructed by the licensee or by the United States.
+(c) That such licensee shall furnish free of cost to the United States power for the operation of such navigation facilities, whether constructed by the licensee or by the United States.
 
 (June 10, 1920, ch. 285, pt. I, §11, 41 Stat. 1070; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, §212, 49 Stat. 847; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

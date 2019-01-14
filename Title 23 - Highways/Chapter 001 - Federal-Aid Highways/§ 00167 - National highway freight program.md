@@ -184,7 +184,7 @@ Requirements for designation.—A designation may be made under paragraph (1) or
 
 &emsp;&emsp;(iii) serves a major freight generator, logistic center, or manufacturing and warehouse industrial land; or
 
-&emsp;&emsp;(iv) is important to the movement of freight within the region, as determined by the metropolitan planning organization or the State.
+&emsp;&emsp;(iv) is important to the movement of freight within the region, as determined bythe metropolitan planning organization or the State.
 
 &emsp;(4)
 
@@ -238,7 +238,7 @@ States with high primary highway freight system mileage.—If the proportion of 
 
 &emsp;&emsp;(B)
 
-States with low primary highway freight system mileage.—If the proportion of a State under paragraph (2) is less than 2percent, the State may obligate funds apportioned to the State under section 104(b)(5) for projects on any component of the National Highway Freight Network.
+States with low primary highway freight system mileage.—If the proportion of a State under paragraph (2) is less than 2 percent, the State may obligate funds apportioned to the State under section 104(b)(5) for projects on any component of the National Highway Freight Network.
 
 &emsp;(4)
 

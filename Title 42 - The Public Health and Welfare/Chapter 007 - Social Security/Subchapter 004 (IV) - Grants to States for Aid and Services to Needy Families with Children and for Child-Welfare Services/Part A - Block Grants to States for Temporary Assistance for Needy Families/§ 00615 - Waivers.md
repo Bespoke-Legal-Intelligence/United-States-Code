@@ -58,7 +58,7 @@ The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, ref
 
 #### Prior Provisions
 
-A prior section 615, act Aug. 14, 1935, ch. 531, title IV, §415, as added Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2320(b)(2), 95 Stat. 857; amended July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2635, 2663(c)(7)(B), 98 Stat. 1142, 1166, related to attribution of income and resources of sponsor and spouse to alien, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
+A prior section 615, act Aug. 14, 1935, ch. 531, title IV, §415, as added Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2320(b)(2), 95 Stat. 857; amended July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2635, 2663(c)(7)(B), 98 Stat. 1142, 1166, related to attribution of income and resources ofsponsor and spouse to alien, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
 

@@ -82,7 +82,7 @@ Section 1706e of title 12, referred to in subsec. (b)(3), was repealed by Pub. L
 
 Section 1437o of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
-The Civil Rights Act of 1964, referred to in subsec. (e)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, whichis classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (e)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Fair Housing Act, referred to in subsec. (e)(1), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
@@ -92,7 +92,7 @@ Public Law 90–284, referred to in subsec. (e)(2), is Pub. L. 90–284, Apr. 11
 
 <b>2003</b>—Subsec. (a)(1). Pub. L. 108–186, §501(f)(1), redesignated subpars. (B) to (H) as (A) to (G), respectively, and struck out former subpar. (A) which read as follows: "$7,000,000 shall be available for grants under subsection (b)(1) of this section;".
 
-Subsec. (b). Pub. L. 108–186, §501(f)(2), redesignated pars. (2) to (7) as (1) to (6), respectively, and struck out former par. (1) which read as follows: "in Guam, the Virgin Islands, American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands;".
+Subsec. (b). Pub. L. 108–186, §501(f)(2), redesignated pars. (2) to (7) as (1) to (6), respectively, and struck outformer par. (1) which read as follows: "in Guam, the Virgin Islands, American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands;".
 
 <b>2000</b>—Subsec. (a)(1)(G). Pub. L. 106–569, §102(f)(1), inserted "and" after semicolon at end.
 
@@ -148,7 +148,7 @@ Subsec. (d)(3). Pub. L. 98–181, §302(b)(2), inserted "grantee or" before "app
 
 Subsec. (b). Pub. L. 97–35 substituted provisions relating to permissible uses of funds for provisions relating to limitations on amounts reserved for emergency disaster needs.
 
-Subsec. (c). Pub. L. 97–35 substituted provisions relating to amounts set aside for use under subsec. (b) ofthis section for provisions relating to amounts set aside and reserved in the special fund under subsec. (b) of this section.
+Subsec. (c). Pub. L. 97–35 substituted provisions relating to amounts set aside for use under subsec. (b) of this section for provisions relating to amounts set aside and reserved in the special fund under subsec. (b) of this section.
 
 Subsec. (d). Pub. L. 97–35 substituted provisions relating to assurances required for provisions relating to Indian tribal eligibility for grant as dependent upon conformity of program with prescribed constitutional rights and habeas corpus.
 
@@ -156,7 +156,7 @@ Subsec. (d). Pub. L. 97–35 substituted provisions relating to assurances requi
 
 Subsec. (d). Pub. L. 96–399, §117(b), inserted "under this chapter" after "Indian tribe".
 
-<b>1978</b>—Subsec. (a)(8). Pub. L. 95–557 substituted "The Secretary may also provide, directly or through contracts, technical assistance under this paragraph to such governmental units, or to a group designated by such a governmental unit for the purpose of assisting that governmental unit to carry out its Community Development Program" for "The Secretary may also provide such technical assistance under this paragraph directly or through contracts".
+<b>1978</b>—Subsec. (a)(8). Pub. L. 95–557 substituted "The Secretary may also provide, directly or through contracts, technical assistance under this paragraph to such governmental units, or to a group designated by such a governmental unit for the purpose of assistingthat governmental unit to carry out its Community Development Program" for "The Secretary may also provide such technical assistance under this paragraph directly or through contracts".
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–128, §107(1), (2), extended provisions to fiscal years 1978 through 1980 and increased rate to 3 from 2 per centum.
 

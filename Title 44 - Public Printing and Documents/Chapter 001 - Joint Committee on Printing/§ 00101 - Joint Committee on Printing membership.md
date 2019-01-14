@@ -20,7 +20,15 @@ Last seven words in the statute, "who shall have the powers hereinafter stated",
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Short Title of 2019 Amendment
+
+Pub. L. 115–435, title II, §201, Jan. 14, 2019, 132 Stat. 5534, provided that: "This title \[enacting section 3520A of this title, amending sections 3502, 3504, 3506, 3511, and 3520 of this title, and enacting provisions set out as notes under section 3506 of this title and section 306 of Title 5, Government Organization and Employees\] may be cited as the 'Open, Public, Electronic, and Necessary Government Data Act' or the 'OPEN Government Data Act'."
+
+Pub. L. 115–435, title III, §301, Jan. 14, 2019, 132 Stat. 5544, provided that: "This title \[enacting subchapter III of chapter 35 of this title, amending section 402 of Title 13, Census, section 176a of Title 15, Commerce and Trade, and sections 6302 and 6314 of Title 49, Transportation, enacting provisions set out as notes under section 3561 of this title, amending provisions set out as a note under section 20155 of Title 49, and repealing provisions set out as a note under section 3501 of this title\] may be cited as the 'Confidential Information Protection and Statistical Efficiency Act of 2018'."
+
 #### Short Title of 2018 Amendment
+
+Pub. L. 115–120, div. A, §1, Jan. 22, 2018, 132 Stat. 28, provided that: "This division \[amending section 1506 of this title and enacting provisions set out as a note under section 1506 of this title\] may be cited as the 'Federal Register Printing Savings Act of 2017'."
 
 Pub. L. 115–114, §1, Jan. 10, 2018, 131 Stat. 2278, provided that: "This Act \[enacting section 3559 of this title\] may be cited as the 'Connected Government Act'."
 
@@ -68,7 +76,7 @@ Pub. L. 103–40, §1, June 8, 1993, 107 Stat. 112, provided that: "This Act \[e
 
 Pub. L. 100–504, title II, §201, Oct. 18, 1988, 102 Stat. 2530, provided that: "This title \[enacting sections 3901 to 3904 of this title and provisions set out as notes under section 3901 of this title\] may be cited as the 'Government Printing Office Inspector General Act of 1988'."
 
-Pub. L. 100–365, §1, July 13, 1988, 102 Stat. 823, provided that: "This Act \[amending sections 2501, 2503, and2504 of this title\] may be cited as the 'National Historical Publications and Records Commission Amendments of 1988'."
+Pub. L. 100–365, §1, July 13, 1988, 102 Stat. 823, provided that: "This Act \[amending sections 2501, 2503, and 2504 of this title\] may be cited as the 'National Historical Publications and Records Commission Amendments of 1988'."
 
 #### Short Title of 1986 Amendments
 

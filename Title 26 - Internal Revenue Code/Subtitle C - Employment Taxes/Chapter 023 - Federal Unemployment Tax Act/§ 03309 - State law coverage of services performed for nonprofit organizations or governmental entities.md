@@ -52,19 +52,17 @@ This section shall not apply to service performed during any calendar year in th
 
 #### (d) Election by Indian tribe
 
-The State law shall provide that an Indian tribe may make contributions for employment as if the employment is within the meaning of section 3306 or make payments in lieu of contributions under this section, and shall provide that an Indian tribe may make separate elections for itself and each subdivision, subsidiary, or business enterprise wholly owned by such Indian tribe. State law may require a tribe to post a payment bond or take other reasonable measures to assure the making of payments in lieu of contributions under this section. Notwithstanding the requirements of section 3306(a)(6), if, within 90 days of having received a notice of delinquency, a tribe fails to make contributions, payments in lieu of contributions, or payment of penalties or interest (at amounts or rates comparable to those applied to all other employers covered under the State law) assessed with respect to such failure, or if the tribe fails to post a required payment bond, then service for the tribe shall not be excepted from employment under section 3306(c)(7) until any such failure is corrected. This subsection shall apply to an Indian tribe within the meaning of section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)).<sup>1</sup>
+The State law shall provide that an Indian tribe may make contributions for employment as if the employment is within the meaning of section 3306 or make payments in lieu of contributions under this section, and shall provide that an Indian tribe may make separate elections for itself and each subdivision, subsidiary, or business enterprise wholly owned by such Indian tribe. State law may require a tribe to post a payment bond or take other reasonable measures to assure the making of payments in lieu of contributions under this section. Notwithstanding the requirements of section 3306(a)(6), if, within 90 days of having received a notice of delinquency, a tribe fails to make contributions, payments in lieu of contributions, or payment of penalties or interest (at amounts or rates comparable to those applied to all other employers covered under the State law) assessed with respect to such failure, or if the tribe fails to post a required payment bond, then service for the tribe shall not be excepted from employment under section 3306(c)(7) until any such failure is corrected. This subsection shall apply to an Indian tribe within the meaning of section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304(e)).
 
-(Added Pub. L. 91–373, title I, §104(b)(1), Aug. 10, 1970, 84 Stat. 697; amended Pub. L. 94–566, title I, §115(a), (b), (c)(2), (3), title V, §506(a), Oct. 20, 1976, 90 Stat. 2670, 2671, 2687; Pub. L. 95–19, title III, §302(b), Apr. 12, 1977, 91 Stat. 44; Pub. L. 105–33, title V, §§5405(a), 5407(a), Aug. 5, 1997, 111 Stat. 604, 605; Pub. L. 106–554, §1(a)(7) \[title I, §166(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–627.)
-
-#### References in Text
-
-Section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)), referred to in subsec. (d), was classified to section 450b(e) of Title 25, Indians, prior to editorial reclassification as section 5304(e) of Title 25.
+(Added Pub. L. 91–373, title I, §104(b)(1), Aug. 10, 1970, 84 Stat. 697; amended Pub. L. 94–566, title I, §115(a), (b), (c)(2), (3), title V, §506(a), Oct. 20, 1976, 90 Stat. 2670, 2671, 2687; Pub. L. 95–19, title III, §302(b), Apr. 12, 1977, 91 Stat. 44; Pub. L. 105–33, title V, §§5405(a), 5407(a), Aug. 5, 1997, 111 Stat. 604, 605; Pub. L. 106–554, §1(a)(7) \[title I, §166(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–627; Pub. L. 115–141, div. U, title IV, §401(a)(216), Mar. 23, 2018, 132 Stat. 1194.)
 
 #### Prior Provisions
 
 A prior section 3309 was renumbered section 3311 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–141 substituted "25 U.S.C. 5304(e)" for "25 U.S.C. 450b(e)".
 
 <b>2000</b>—Subsec. (a)(2). Pub. L. 106–554, §1(a)(7) \[title I, §166(b)(1)\], inserted ", including an Indian tribe," after "the State law shall provide that a governmental entity".
 
@@ -88,7 +86,7 @@ Subsec. (a)(1)(B). Pub. L. 94–566, §115(a), struck out "performed in the empl
 
 Subsec. (a)(2). Pub. L. 94–566, §506(a), substituted "a governmental entity or any other organization" for "an organization", "paragraph (1)" for "paragraph (1)(A)", and "that governmental entities or other organizations" for "that organizations".
 
-Subsec. (b)(3). Pub. L. 94–566, §115(b)(1), substituted reference to services performed in the employ of a governmental entity referred to in paragraph (7) of section 3306(c), if such services are performed by an individual in the exercise of his duties as an elected official, as a member of a legislative body, or a member of the judiciary, of a State or political subdivision thereof, as amember of the State National Guard or Air National Guard, as an employee serving on a temporary basis in case of fire, storm, snow, earthquake, flood, or similar emergency, or in a position which, under or pursuant to the State law, is designated as a major nontenured policymaker or advisory position or a policymaking or advisory position the performance of the duties of which ordinarily does not require more than 8 hours per week, for reference to services performed in the employ of a school which is not an institution of higher education.
+Subsec. (b)(3). Pub. L. 94–566, §115(b)(1), substituted reference to services performed in the employ of a governmental entity referred to in paragraph (7) of section 3306(c), if such services are performed by an individual in the exercise of his duties as an elected official, as a member of a legislative body, or a member of the judiciary, of a State or political subdivision thereof, as a member of the State National Guard or Air National Guard, as an employee serving on a temporary basis in case of fire, storm, snow, earthquake, flood, or similar emergency, or in a position which, under or pursuant to the State law, is designated as a major nontenured policymaker or advisory position or a policymaking or advisory position the performance of the duties of which ordinarily does not require more than 8 hours per week, for reference to services performed in the employ of a school which is not an institution of higher education.
 
 Subsec. (b)(6). Pub. L. 94–566, §115(b)(2), substituted "by an inmate of a custodial or penal institution" for "for a hospital in a State prison or other State correctional institution by an inmate of the prison or correctional institution".
 
@@ -117,6 +115,4 @@ For effective date of amendment by section 506(a) of Pub. L. 94–566, see secti
 #### Effective Date
 
 Section applicable with respect to certifications of State laws for 1972 and subsequent years, but only with respect to service performed after Dec. 31, 1971, see section 104(d)(1) of Pub. L. 91–373, set out as a note under section 3304 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

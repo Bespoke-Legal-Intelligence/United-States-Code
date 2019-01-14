@@ -42,7 +42,7 @@ As used in this chapter—
 
 &emsp;(2) with respect to a nonexcess defense article delivered from inventory to foreign countries or international organizations under this chapter, the acquisition cost to the United States Government, adjusted as appropriate for condition and market value;
 
-&emsp;(3) with respect to a nonexcess defense article delivered from new procurement to foreigncountries or international organizations under this chapter, the contract or production costs of such article;
+&emsp;(3) with respect to a nonexcess defense article delivered from new procurement to foreign countries or international organizations under this chapter, the contract or production costs of such article;
 
 &emsp;(4) with respect to a defense service, the cost to the United States Government of such service; and
 

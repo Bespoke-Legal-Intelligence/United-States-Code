@@ -104,7 +104,7 @@ The Chairperson shall appear before the Committee on Financial Services of the H
 
 #### (B) Mitigation of report burden
 
-&emsp;&emsp;Before requiring the submission of reports from any nonbank financial company or bank holding company that is regulated by a member agency or any primary financial regulatory agency, the Council, acting through the Office of Financial Research, shall coordinate with such agencies and shall, whenever possible, rely on informationavailable from the Office of Financial Research or such agencies.
+&emsp;&emsp;Before requiring the submission of reports from any nonbank financial company or bank holding company that is regulated by a member agency or any primary financial regulatory agency, the Council, acting through the Office of Financial Research, shall coordinate with such agencies and shall, whenever possible, rely on information available from the Office of Financial Research or such agencies.
 
 #### (C) Mitigation in case of foreign financial companies
 

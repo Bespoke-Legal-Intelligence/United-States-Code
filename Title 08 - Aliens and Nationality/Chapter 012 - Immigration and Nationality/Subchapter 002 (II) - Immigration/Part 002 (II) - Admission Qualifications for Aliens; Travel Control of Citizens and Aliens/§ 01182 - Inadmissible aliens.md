@@ -122,7 +122,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 #### (iii) Exception for certain sons and daughters
 
-&emsp;&emsp;&emsp;Clause (ii) shall not apply to a son or daughter who was a child at the time he or she received the benefit described in such clause.
+&emsp;&emsp;&emsp;Clause (ii) shall not apply to a son or daughter who was a child at the time he orshe received the benefit described in such clause.
 
 #### (I) Money laundering
 
@@ -300,7 +300,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 #### (iv) Exception for close family members
 
-&emsp;&emsp;&emsp;The Attorney General may, in the Attorney General's discretion, waive the application of clause (i) in the case of an immigrant who is the parent, spouse, son, daughter, brother, or sister of a citizen ofthe United States or a spouse, son, or daughter of an alien lawfully admitted for permanent residence for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest if the immigrant is not a threat to the security of the United States.
+&emsp;&emsp;&emsp;The Attorney General may, in the Attorney General's discretion, waive the application of clause (i) in the case of an immigrant who is the parent, spouse, son, daughter, brother, or sister of a citizen of the United States or a spouse, son, or daughter of an alien lawfully admitted for permanent residence for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest if the immigrant is not a threat to the security of the United States.
 
 #### (E) Participants in Nazi persecution, genocide, or the commission of any act of torture or extrajudicial killing
 
@@ -526,7 +526,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 #### (G) Student visa abusers
 
-&emsp;&emsp;An alien who obtains the status of a nonimmigrant under section 1101(a)(15)(F)(i) ofthis title and who violates a term or condition of such status under section 1184(l) <sup>2</sup> of this title is inadmissible until the alien has been outside the United States for a continuous period of 5 years after the date of the violation.
+&emsp;&emsp;An alien who obtains the status of a nonimmigrant under section 1101(a)(15)(F)(i) of this title and who violates a term or condition of such status under section 1184(l) <sup>2</sup> of this title is inadmissible until the alien has been outside the United States for a continuous period of 5 years after the date of the violation.
 
 #### (7) Documentation requirements
 
@@ -610,7 +610,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 &emsp;&emsp;&emsp;&emsp;(I) was unlawfully present in the United States for a period of more than 180 days but less than 1 year, voluntarily departed the United States (whether or not pursuant to section 1254a(e) <sup>3</sup> of this title) prior to the commencement of proceedings under section 1225(b)(1) of this title or section 1229a of this title, and again seeks admission within 3 years of the date of such alien's departure or removal, or
 
-&emsp;&emsp;&emsp;&emsp;(II) has been unlawfully present in the United States for one year or more, andwho again seeks admission within 10 years of the date of such alien's departure or removal from the United States,
+&emsp;&emsp;&emsp;&emsp;(II) has been unlawfully present in the United States for one year or more, and who again seeks admission within 10 years of the date of such alien's departure or removal from the United States,
 
 &emsp;&emsp;&nbsp;is inadmissible.
 
@@ -762,7 +762,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 (ii) Not later than 90 days after the end of each fiscal year, the Secretary of State and the Secretary of Homeland Security shall each provide to the Committees on the Judiciary of the House of Representatives and of the Senate, the Committee on International Relations of the House of Representatives, the Committee on Foreign Relations of the Senate, and the Committee on Homeland Security of the House of Representatives a report on the aliens to whom such Secretary has applied clause (i). Within one week of applying clause (i) to a group, the Secretary of State or the Secretary of Homeland Security shall provide a report to such Committees.
 
-(4) Either or both of the requirements of paragraph (7)(B)(i) of subsection (a) may be waived by the Attorney General and the Secretary of State acting jointly (A) on the basis of unforeseen emergency in individual cases, or (B) on the basis of reciprocity with respect to nationals of foreign contiguous territory or of adjacent islands and residents thereof having a common nationality with such nationals, or (C) in the case of aliens proceeding in immediate and continuous transit through the United States under contracts authorized in section 1223(c) of this title.
+(4) Either or both of the requirements of paragraph (7)(B)(i) of subsection (a) may be waived by the Attorney General and the Secretary of State acting jointly (A) on the basis of unforeseen emergency in individual cases, or (B) on the basis of reciprocity with respect to nationals offoreign contiguous territory or of adjacent islands and residents thereof having a common nationality with such nationals, or (C) in the case of aliens proceeding in immediate and continuous transit through the United States under contracts authorized in section 1223(c) of this title.
 
 (5)(A) The Attorney General may, except as provided in subparagraph (B) or in section 1184(f) of this title, in his discretion parole into the United States temporarily under such conditions as he may prescribe only on a case-by-case basis for urgent humanitarian reasons or significant public benefit any alien applying for admission to the United States, but such parole of such alien shall not be regarded as an admission of the alien and when the purposes of such parole shall, in the opinion of the Attorney General, have been served the alien shall forthwith return or be returned to the custody from which he was paroled and thereafter his case shall continue to be dealt with in the same manner as that of any other applicant for admission to the United States.
 
@@ -770,7 +770,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 (6) Repealed. Pub. L. 101–649, title VI, §601(d)(2)(A), Nov. 29, 1990, 104 Stat. 5076.
 
-(7) The provisions of subsection (a) (other than paragraph (7)) shall be applicable to any alien who shall leave Guam, the Commonwealth of the Northern Mariana Islands, Puerto Rico, or the Virgin Islands of the United States, and who seeks to enter the continental United States or any other place under the jurisdiction of the United States. The Attorney General shall by regulations provide a method and procedure for the temporary admission to the United States ofthe aliens described in this proviso.<sup>5</sup> Any alien described in this paragraph, who is denied admission to the United States, shall be immediately removed in the manner provided by section 1231(c) of this title.
+(7) The provisions of subsection (a) (other than paragraph (7)) shall be applicable to any alien who shall leave Guam, the Commonwealth of the Northern Mariana Islands, Puerto Rico, or the Virgin Islands of the United States, and who seeks to enter the continental United States or any other place under the jurisdiction of the United States. The Attorney General shall by regulations provide a method and procedure for the temporary admission to the United States of the aliens described in this proviso.<sup>5</sup> Any alien described in this paragraph, who is denied admission to the United States, shall be immediately removed in the manner provided by section 1231(c) of this title.
 
 (8) Upon a basis of reciprocity accredited officials of foreign governments, their immediate families, attendants, servants, and personal employees may be admitted in immediate and continuous transit through the United States without regard to the provisions of this section except paragraphs (3)(A), (3)(B), (3)(C), and (7)(B) of subsection (a) of this section.
 
@@ -798,7 +798,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 #### (e) Educational visitor status; foreign residence requirement; waiver
 
-No person admitted under section 1101(a)(15)(J) of this title or acquiring such status after admission (i) whose participation in the program for which he came to the United States was financed in whole or in part, directly or indirectly, by an agency of the Government of the United States or by the government of the country of his nationality or his last residence, (ii) who at the time of admission or acquisition of status under section 1101(a)(15)(J) of this title was a national or resident of a country which the Director of the United States Information Agency, pursuant to regulations prescribed by him, had designated as clearly requiring the services of persons engaged in the field of specialized knowledge or skill in which the alien was engaged, or (iii) who came to the United States or acquired such status in order to receive graduate medical education or training, shall be eligible to apply for an immigrant visa, or for permanent residence, or for a nonimmigrant visa under section 1101(a)(15)(H) or section 1101(a)(15)(L) of this title until it is established that such person has resided and been physically present in the country of his nationality or his last residence for an aggregate of at least two years following departure from the United States: <i>Provided</i>, That upon the favorable recommendation of the Director, pursuant to the request of an interested United States Government agency (or, in the case of an alien described in clause (iii), pursuant to the request of a State Department of Public Health, or its equivalent), or of the Commissioner of Immigration and Naturalization after he has determined that departure from the United States would impose exceptional hardship upon the alien's spouse or child (if such spouse or child is a citizen of the United States or a lawfully resident alien), or that the alien cannot return to the country of his nationality or last residence because he would be subject to persecution on account of race, religion, or political opinion, theAttorney General may waive the requirement of such two-year foreign residence abroad in the case of any alien whose admission to the United States is found by the Attorney General to be in the public interest except that in the case of a waiver requested by a State Department of Public Health, or its equivalent, or in the case of a waiver requested by an interested United States Government agency on behalf of an alien described in clause (iii), the waiver shall be subject to the requirements of section 1184(l) of this title: <i>And provided further</i>, That, except in the case of an alien described in clause (iii), the Attorney General may, upon the favorable recommendation of the Director, waive such two-year foreign residence requirement in any case in which the foreign country of the alien's nationality or last residence has furnished the Director a statement in writing that it has no objection to such waiver in the case of such alien.
+No person admitted under section 1101(a)(15)(J) of this title or acquiring such status after admission (i) whose participation in the program for which he came to the United States was financed in whole or in part, directly or indirectly, by an agency of the Government of the United States or by the government of the country of his nationality or his last residence, (ii) who at the time of admission or acquisition of status under section 1101(a)(15)(J) of this title was a national or resident of a country which the Director of the United States Information Agency, pursuant to regulations prescribed by him, had designated as clearly requiring the services of persons engaged in the field of specialized knowledge or skill in which the alien was engaged, or (iii) who came to the United States or acquired such status in order to receive graduate medical education or training, shall be eligible to apply for an immigrant visa, or for permanent residence, or for a nonimmigrant visa under section 1101(a)(15)(H) or section 1101(a)(15)(L) of this title until it is established that such person has resided and been physically present in the country of his nationality or his last residence for an aggregate of at least two years following departure from the United States: <i>Provided</i>, That upon the favorable recommendation of the Director, pursuant to the request of an interested United States Government agency (or, in the case of an alien described in clause (iii), pursuant to the request of a State Department of Public Health, or its equivalent), or of the Commissioner of Immigration and Naturalization after he has determined that departure from the United States would impose exceptional hardship upon the alien's spouse or child (if such spouse or child is a citizen of the United States or a lawfully resident alien), or that the alien cannot return to the country of his nationality or last residence because he would be subject to persecution on account of race, religion, or political opinion, the Attorney General may waive the requirement of such two-year foreign residence abroad in the case of any alien whose admission to the United States is found by the Attorney General to be in the public interest except that in the case of a waiver requested by a State Department of Public Health, or its equivalent, or in the case of a waiver requested by an interested United States Government agency on behalf of an alien described in clause (iii), the waiver shall be subject to the requirements of section 1184(l) of this title: <i>And provided further</i>, That, except in the case of an alien described in clause (iii), the Attorney General may, upon the favorable recommendation of the Director, waive such two-year foreign residence requirement in any case in which the foreign country of the alien's nationality or last residence has furnished the Director a statement in writing that it has no objection to such waiver in the case of such alien.
 
 #### (f) Suspension of entry or imposition of restrictions by President
 
@@ -846,7 +846,7 @@ The Attorney General may, in his discretion, waive the application of subparagra
 
 &emsp;(2) the Attorney General, in his discretion, and pursuant to such terms, conditions and procedures as he may by regulations prescribe, has consented to the alien's applying or reapplying for a visa, for admission to the United States, or adjustment of status.
 
-> No waiver shall be provided under this subsection in the case of an alien who has been convicted of (or who has admitted committing acts that constitute) murder or criminal acts involving torture, or an attempt or conspiracy to commit murder or a criminal act involving torture. No waiver shall be granted under this subsection in the case of an alien who has previously been admitted to the United States as an alien lawfully admitted for permanent residence if either since the date of such admission the alien hasbeen convicted of an aggravated felony or the alien has not lawfully resided continuously in the United States for a period of not less than 7 years immediately preceding the date of initiation of proceedings to remove the alien from the United States. No court shall have jurisdiction to review a decision of the Attorney General to grant or deny a waiver under this subsection.
+> No waiver shall be provided under this subsection in the case of an alien who has been convicted of (or who has admitted committing acts that constitute) murder or criminal acts involving torture, or an attempt or conspiracy to commit murder or a criminal act involving torture. No waiver shall be granted under this subsection in the case of an alien who has previously been admitted to the United States as an alien lawfully admitted for permanent residence if either since the date of such admission the alien has been convicted of an aggravated felony or the alien has not lawfully resided continuously in the United States for a period of not less than 7 years immediately preceding the date of initiation of proceedings to remove the alien from the United States. No court shall have jurisdiction to review a decision of the Attorney General to grant or deny a waiver under this subsection.
 
 #### (i) Admission of immigrant inadmissible for fraud or willful misrepresentation of material fact
 
@@ -864,7 +864,7 @@ The Attorney General may, in his discretion, waive the application of subparagra
 
 &emsp;(C) The alien has made a commitment to return to the country of his nationality or last residence upon completion of the education or training for which he is coming to the United States, and the government of the country of his nationality or last residence has provided a written assurance, satisfactory to the Secretary of Health and Human Services, that there is a need in that country for persons with the skills the alien will acquire in such education or training.
 
-&emsp;(D) The duration of the alien's participation in the program of graduate medical education or training for which the alien is coming to the United States is limited to the time typically required to complete such program, as determined by the Director of the United States Information Agency at the time of the alien's admission into the United States, based on criteria which are established in coordination with the Secretary of Health and Human Services and which take into consideration the published requirements of the medical specialty board which administers such education or training program; except that—
+&emsp;(D) The duration of the alien's participation in the program of graduate medical education or training for which the alien is coming to the United States is limited to the time typically required to complete such program, asdetermined by the Director of the United States Information Agency at the time of the alien's admission into the United States, based on criteria which are established in coordination with the Secretary of Health and Human Services and which take into consideration the published requirements of the medical specialty board which administers such education or training program; except that—
 
 &emsp;&emsp;(i) such duration is further limited to seven years unless the alien has demonstrated to the satisfaction of the Director that the country to which the alien will return at the end of such specialty education or training has an exceptional need for an individual trained in such specialty, and
 
@@ -908,7 +908,7 @@ Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(
 
 &emsp;All necessary regulations to implement this subsection shall be promulgated by the Secretary of Homeland Security, in consultation with the Secretary of the Interior and the Secretary of State, on or before the 180th day after May 8, 2008. The promulgation of such regulations shall be considered a foreign affairs function for purposes of section 553(a) of title 5. At a minimum, such regulations should include, but not necessarily be limited to—
 
-&emsp;&emsp;(A) a listing of all countries whose nationals may obtain the waiver also provided by this subsection, except that such regulations shall provide for a listing of any country from which the Commonwealth has received a significant economic benefit from the number of visitors for pleasure within the one-year period preceding May 8, 2008, unless the Secretary of Homeland Security determines that such country's inclusion on such list would represent a threat to the welfare, safety, or security of the United States or its territories; and
+&emsp;&emsp;(A) a listing of all countries whose nationals may obtain the waiver also provided by this subsection, except that such regulations shall provide for a listing of any country from which the Commonwealth has received a significant economic benefit from the number of visitors for pleasure within theone-year period preceding May 8, 2008, unless the Secretary of Homeland Security determines that such country's inclusion on such list would represent a threat to the welfare, safety, or security of the United States or its territories; and
 
 &emsp;&emsp;(B) any bonding requirements for nationals of some or all of those countries who may present an increased risk of overstays or other potential problems, if different from such requirements otherwise provided by law for nonimmigrant visitors.
 
@@ -918,7 +918,7 @@ Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(
 
 #### (5) Suspension
 
-&emsp;The Secretary of Homeland Security shall monitor the admission of nonimmigrant visitors to Guam and the Commonwealth of the Northern Mariana Islands under this subsection. If the Secretary determines that such admissions have resulted in an unacceptable number of visitors from a country remaining unlawfully in Guam or the Commonwealth of the Northern Mariana Islands, unlawfully obtaining entry to other parts of the United States, or seeking withholding of removal or asylum, or that visitors from a country pose a risk to law enforcement or security interests of Guam or the Commonwealth of the Northern Mariana Islands or of the United States (including the interest in the enforcement of the immigration laws of the United States), the Secretary shall suspend the admission ofnationals of such country under this subsection. The Secretary of Homeland Security may in the Secretary's discretion suspend the Guam and Northern Mariana Islands visa waiver program at any time, on a country-by-country basis, for other good cause.
+&emsp;The Secretary of Homeland Security shall monitor the admission of nonimmigrant visitors to Guam and the Commonwealth of the Northern Mariana Islands under this subsection. If the Secretary determines that such admissions have resulted in an unacceptable number of visitors from a country remaining unlawfully in Guam or the Commonwealth of the Northern Mariana Islands, unlawfully obtaining entry to other parts of the United States, or seeking withholding of removal or asylum, or that visitors from a country pose a risk to law enforcement or security interests of Guam or the Commonwealth of the Northern Mariana Islands or of the United States (including the interest in the enforcement of the immigration laws of the United States), the Secretary shall suspend the admission of nationals of such country under this subsection. The Secretary of Homeland Security may in the Secretary's discretion suspend the Guam and Northern Mariana Islands visa waiver program at any time, on a country-by-country basis, for other good cause.
 
 #### (6) Addition of countries
 
@@ -1102,7 +1102,7 @@ Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(
 
 (iii) If the Secretary finds, after notice and opportunity for a hearing, a willful failure to meet a condition of paragraph (1) or a willful misrepresentation of material fact in an application, in the course of which failure or misrepresentation the employer displaced a United States worker employed by the employer within the period beginning 90 days before and ending 90 days after the date of filing of any visa petition supported by the application—
 
-&emsp;(I) the Secretary shall notify the Attorney General of such finding and may, in addition, impose such other administrative remedies (including civil monetary penalties in an amount not to exceed $35,000 per violation) asthe Secretary determines to be appropriate; and
+&emsp;(I) the Secretary shall notify the Attorney General of such finding and may, in addition, impose such other administrative remedies (including civil monetary penalties in an amount not to exceed $35,000 per violation) as the Secretary determines to be appropriate; and
 
 &emsp;(II) the Attorney General shall not approve petitions filed with respect to that employer under section 1154 or 1184(c) of this title during a period of at least 3 years for aliens to be employed by the employer.
 
@@ -1120,7 +1120,7 @@ Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(
 
 (II) It is a failure to meet a condition of paragraph (1)(A) for an employer, who has filed an application under this subsection and who places an H–1B nonimmigrant designated as a part-time employee on the petition filed under section 1184(c)(1) of this title by the employer with respect to the nonimmigrant, after the nonimmigrant has entered into employment with the employer, in nonproductive status under circumstances described in subclause (I), to fail to pay such a nonimmigrant for such hours as are designated on such petition consistent with the rate of pay identified on such petition.
 
-(III) In the case of an H–1B nonimmigrant who has not yet entered into employment with an employer who has had approved an application under this subsection, and a petition under section 1184(c)(1) of this title, with respect to the nonimmigrant, the provisions of subclauses (I) and (II) shall apply to the employer beginning 30 days after the date the nonimmigrant first is admitted into the United States pursuant to the petition, or 60 days after the date the nonimmigrant becomes eligible to work for the employer (in the case of a nonimmigrant who is present in the United States on the date of the approval of the petition).
+(III) In the case of an H–1B nonimmigrant who has not yet entered into employment with an employer who has had approved an application under this subsection, and a petition under section 1184(c)(1) of this title, with respect to thenonimmigrant, the provisions of subclauses (I) and (II) shall apply to the employer beginning 30 days after the date the nonimmigrant first is admitted into the United States pursuant to the petition, or 60 days after the date the nonimmigrant becomes eligible to work for the employer (in the case of a nonimmigrant who is present in the United States on the date of the approval of the petition).
 
 (IV) This clause does not apply to a failure to pay wages to an H–1B nonimmigrant for nonproductive time due to non-work-related factors, such as the voluntary request of the nonimmigrant for an absence or circumstances rendering the nonimmigrant unable to work.
 
@@ -1132,7 +1132,7 @@ Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(
 
 (VI) This clause shall not be construed as superseding clause (viii).
 
-(viii) It is a failure to meet a condition of paragraph (1)(A) for an employer who has filed an application under this subsection to fail to offer to an H–1B nonimmigrant, during the nonimmigrant's period of authorized employment, benefits and eligibility for benefits (including the opportunity to participate in health, life, disability, and other insurance plans; the opportunity to participate in retirement and savings plans; and cash bonuses and noncash compensation, such as stock options (whether or notbased on performance)) on the same basis, and in accordance with the same criteria, as the employer offers to United States workers.
+(viii) It is a failure to meet a condition of paragraph (1)(A) for an employer who has filed an application under this subsection to fail to offer to an H–1B nonimmigrant, during the nonimmigrant's period of authorized employment, benefits and eligibility for benefits (including the opportunity to participate in health, life, disability, and other insurance plans; the opportunity to participate in retirement and savings plans; and cash bonuses and noncash compensation, such as stock options (whether or not based on performance)) on the same basis, and in accordance with the same criteria, as the employer offers to United States workers.
 
 (D) If the Secretary finds, after notice and opportunity for a hearing, that an employer has not paid wages at the wage level specified under the application and required under paragraph (1), the Secretary shall order the employer to provide for payment of such amounts of back pay as may be required to comply with the requirements of paragraph (1), whether or not a penalty under subparagraph (C) has been imposed.
 
@@ -1218,7 +1218,7 @@ Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(
 
 &emsp;(D)(i) The term "lays off", with respect to a worker—
 
-&emsp;&emsp;(I) means to cause the worker's loss of employment, other than through a discharge for inadequate performance, violation ofworkplace rules, cause, voluntary departure, voluntary retirement, or the expiration of a grant or contract (other than a temporary employment contract entered into in order to evade a condition described in subparagraph (E) or (F) of paragraph (1)); but
+&emsp;&emsp;(I) means to cause the worker's loss of employment, other than through a discharge for inadequate performance, violation of workplace rules, cause, voluntary departure, voluntary retirement, or the expiration of a grant or contract (other than a temporary employment contract entered into in order to evade a condition described in subparagraph (E) or (F) of paragraph (1)); but
 
 &emsp;&emsp;(II) does not include any situation in which the worker is offered, as an alternative to such loss of employment, a similar employment opportunity with the same employer (or, in the case of a placement of a worker with another employer under paragraph (1)(F), with either employer described in such paragraph) at equivalent or higher compensation and benefits than the position from which the employee was discharged, regardless of whether or not the employee accepts the offer.
 
@@ -1240,7 +1240,7 @@ Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(
 
 (ii) The Attorney General may review and reverse or modify the findings of an arbitrator only on the same bases as an award of an arbitrator may be vacated or modified under section 10 or 11 of title 9.
 
-(iii) With respect to the findings of an arbitrator, a court may review only the actions of the Attorney General under clause (ii) and may set aside such actions only on the grounds described in subparagraph (A), (B), or (C) of section 706(a)(2) of title 5. Notwithstanding any other provision of law, such judicial review may only be brought in an appropriate United States court of appeals.
+(iii) With respect to the findings of an arbitrator, a court may review only the actions of theAttorney General under clause (ii) and may set aside such actions only on the grounds described in subparagraph (A), (B), or (C) of section 706(a)(2) of title 5. Notwithstanding any other provision of law, such judicial review may only be brought in an appropriate United States court of appeals.
 
 (E) If the Attorney General receives a finding of an arbitrator under this paragraph that an employer has failed to meet the condition of paragraph (1)(G)(i)(II) or has misrepresented a material fact with respect to such condition, unless the Attorney General reverses or modifies the finding under subparagraph (D)(ii)—
 
@@ -1258,7 +1258,7 @@ Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(
 
 #### (p) Computation of prevailing wage level
 
-(1) In computing the prevailing wage level for an occupational classification in an area of employment for purposes of subsections (a)(5)(A),\(n)(1)(A)(i)(II), and (t)(1)(A)(i)(II) in the case of an employee of—
+(1) In computing the prevailing wage level for an occupational classification in an area of employment for purposes of subsections (a)(5)(A), (n)(1)(A)(i)(II), and (t)(1)(A)(i)(II) in the case of an employee of—
 
 &emsp;(A) an institution of higher education (as defined in section 1001(a) of title 20), or a related or affiliated nonprofit entity; or
 
@@ -1352,7 +1352,7 @@ In determining whether an alien described in subsection (a)(4)(C)(i) is inadmiss
 
 &emsp;(II) the Secretary of State or the Secretary of Homeland Security, as appropriate, shall not approve petitions or applications filed with respect to that employer under section 1154, 1184(c), 1101(a)(15)(H)(i)(b1), or 1101(a)(15)(E)(iii) of this title during a period of at least 2 years for aliens to be employed by the employer.
 
-(iii) If the Secretary of Labor finds, after notice and opportunity for a hearing, a willful failure to meet a condition of paragraph (1) or a willful misrepresentation of material fact in an attestation, in the course of which failure or misrepresentation the employer displaced a United States worker employed by the employerwithin the period beginning 90 days before and ending 90 days after the date of filing of any visa petition or application supported by the attestation—
+(iii) If the Secretary of Labor finds, after notice and opportunity for a hearing, a willful failure to meet a condition of paragraph (1) or a willful misrepresentation of material fact in an attestation, in the course of which failure or misrepresentation the employer displaced a United States worker employed by the employer within the period beginning 90 days before and ending 90 days after the date of filing of any visa petition or application supported by the attestation—
 
 &emsp;(I) the Secretary of Labor shall notify the Secretary of State and the Secretary of Homeland Security of such finding and may, in addition, impose such other administrative remedies (including civil monetary penalties in an amount not to exceed $35,000 per violation) as the Secretary of Labor determines to be appropriate; and
 
@@ -1368,7 +1368,7 @@ In determining whether an alien described in subsection (a)(4)(C)(i) is inadmiss
 
 (vii)(I) It is a failure to meet a condition of paragraph (1)(A) for an employer who has filed an attestation under this subsection and who places a nonimmigrant under section 1101(a)(15)(H)(i)(b1) of this title or section 1101(a)(15)(E)(iii) of this title designated as a full-time employee in the attestation, after the nonimmigrant has entered into employment with the employer, in nonproductive status due to a decision by the employer (based on factors such as lack of work), or due to the nonimmigrant's lack of a permit or license, to fail to pay the nonimmigrant full-time wages in accordance with paragraph (1)(A) for all such nonproductive time.
 
-(II) It is a failure to meet a condition of paragraph (1)(A) for an employer who has filed an attestation under this subsection and who places a nonimmigrant under section 1101(a)(15)(H)(i)(b1) of this title or section 1101(a)(15)(E)(iii) of this title designated as a part-time employee in the attestation, after the nonimmigrant has entered into employment with the employer, in nonproductive status under circumstances described in subclause (I), to fail to pay such a nonimmigrant for such hours as are designated on the attestation consistent with the rate of pay identified on the attestation.
+(II) It is a failure to meet a condition of paragraph (1)(A) for an employer who has filed an attestation under this subsection and who places a nonimmigrant under section 1101(a)(15)(H)(i)(b1) of this title or section 1101(a)(15)(E)(iii) of this title designated as a part-time employee in the attestation, after the nonimmigrant has entered into employment with the employer, in nonproductive status under circumstances described in subclause (I), to fail to pay such a nonimmigrant for such hours as are designated onthe attestation consistent with the rate of pay identified on the attestation.
 
 (III) In the case of a nonimmigrant under section 1101(a)(15)(H)(i)(b1) of this title or section 1101(a)(15)(E)(iii) of this title who has not yet entered into employment with an employer who has had approved an attestation under this subsection with respect to the nonimmigrant, the provisions of subclauses (I) and (II) shall apply to the employer beginning 30 days after the date the nonimmigrant first is admitted into the United States, or 60 days after the date the nonimmigrant becomes eligible to work for the employer in the case of a nonimmigrant who is present in the United States on the date of the approval of the attestation filed with the Secretary of Labor.
 
@@ -1420,7 +1420,7 @@ In determining whether an alien described in subsection (a)(4)(C)(i) is inadmiss
 
 &emsp;(B) the admission of the alien is in the public interest or the national interest of the United States.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §212, 66 Stat. 182; July 18, 1956, ch. 629, title III, §301 (a), 70 Stat. 575; Pub. L. 85–508, §23, July 7, 1958, 72 Stat. 351; Pub. L. 86–3, §20(b), Mar. 18, 1959, 73 Stat. 13; Pub. L. 86–648, §8, July 14, 1960, 74 Stat. 505; Pub. L. 87–256, §109(c), Sept. 21, 1961, 75 Stat. 535; Pub. L. 87–301, §§11–15, Sept. 26, 1961, 75 Stat. 654, 655; Pub. L. 89–236, §§10, 15, Oct. 3, 1965, 79 Stat. 917, 919; Pub. L. 91–225, §2, Apr. 7, 1970, 84 Stat. 116; Pub. L. 94–484, title VI, §601(a), (c), (d), Oct. 12, 1976, 90 Stat. 2300, 2301; Pub. L. 94–571, §§5, 7(d),Oct. 20, 1976, 90 Stat. 2705, 2706; Pub. L. 95–83, title III, §307(q)(1), (2), Aug. 1, 1977, 91 Stat. 394; Pub. L. 95–549, title I, §§101, 102, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 96–70, title III, §3201(b), Sept. 27, 1979, 93 Stat. 497; Pub. L. 96–212, title II, §203(d), (f), Mar. 17, 1980, 94 Stat. 107; Pub. L. 96–538, title IV, §404, Dec. 17, 1980, 94 Stat. 3192; Pub. L. 97–116, §§4, 5(a)(1), (2), (b), 18(e), Dec. 29, 1981, 95 Stat. 1611, 1612, 1620; Pub. L. 98–454, title VI, §602\[(a)\], Oct. 5, 1984, 98 Stat. 1737; Pub. L. 98–473, title II, §220(a), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–396, §14(a), Aug. 27, 1986, 100 Stat. 842; Pub. L. 99–570, title I, §1751(a), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–639, §6(a), Nov. 10, 1986, 100 Stat. 3543; Pub. L. 99–653, §7(a), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–204, title VIII, §806(c), Dec. 22, 1987, 101 Stat. 1399; Pub. L. 100–525, §§3(1)(A), 7(c)(1), (3), 8(f), 9(i), Oct. 24, 1988, 102 Stat. 2614, 2616, 2617, 2620; Pub. L. 100–690, title VII, §7349(a), Nov. 18, 1988, 102 Stat. 4473; Pub. L. 101–238, §3(b), Dec. 18, 1989, 103 Stat. 2100; Pub. L. 101–246, title I, §131(a), (c), Feb. 16, 1990, 104 Stat. 31; Pub. L. 101–649, title I, §162(e)(1), (f)(2)(B), title II, §§202(b), 205(c)(3), title V, §§511(a), 514(a), title VI, §601(a), (b), (d), Nov. 29, 1990, 104 Stat. 5011, 5012, 5014, 5020, 5052, 5053, 5067, 5075; Pub. L. 102–232, title III, §§302(e)(6), (9), 303(a)(5)(B), (6), (7)(B), 306(a)(10), (12), 307(a)–(g), 309(b)(7), Dec. 12, 1991, 105 Stat. 1746, 1747, 1751, 1753–1755, 1759; Pub. L. 103–43, title XX, §2007(a), June 10, 1993, 107 Stat. 210; Pub. L. 103–317, title V, §506(a), Aug. 26, 1994, 108 Stat. 1765; Pub. L. 103–322, title XIII, §130003(b)(1), Sept. 13, 1994, 108 Stat. 2024; Pub. L. 103–416, title II, §§203(a), 219(e), (z)(1), (5), 220(a), Oct. 25, 1994, 108 Stat. 4311, 4316, 4318, 4319; Pub. L. 104–132, title IV, §§411, 412, 440(d), Apr. 24, 1996, 110 Stat. 1268, 1269, 1277; Pub. L. 104–208, div. C, title I, §124(b)(1), title III, §§301(b)(1), (c)(1), 304(b), 305(c), 306(d), 308(c)(2)(B), (d)(1), (e)(1)(B), (C), (2)(A), (6), (f)(1)(C)–(F), (3)(A), (g)(1), (4)(B), (10)(A), (H), 322(a)(2)(B), 341(a), (b), 342(a), 343, 344(a), 345(a), 346(a), 347(a), 348(a), 349, 351(a), 352(a), 355, title V, §531(a), title VI, §§602(a), 622(b), 624(a), 671(e)(3), Sept. 30, 1996, 110 Stat. 3009–562, 3009–576, 3009–578, 3009–597, 3009–607, 3009–612, 3009–616, 3009–619 to 3009–622, 3009–625, 3009–629, 3009–635 to 3009–641, 3009–644, 3009–674, 3009–689, 3009–695, 3009–698, 3009–723; Pub. L. 105–73, §1, Nov. 12, 1997, 111 Stat. 1459; Pub. L. 105–277, div. C, title IV, §§412(a)–(c), 413(a)–(e)(1), (f), 415(a), 431(a), div. G, subdiv. B, title XXII, §2226(a), Oct. 21, 1998, 112 Stat. 2681–642 to 2681–651, 2681–654, 2681–658, 2681–820; Pub. L. 105–292, title VI, §604(a), Oct. 27, 1998, 112 Stat. 2814; Pub. L. 106–95, §§2(b), 4(a), Nov. 12, 1999, 113 Stat. 1312, 1317; Pub. L. 106–120, title VIII, §809, Dec. 3, 1999, 113 Stat. 1632; Pub. L. 106–313, title I, §§106(c)(2), 107(a), Oct. 17, 2000, 114 Stat. 1254, 1255; Pub. L. 106–386, div. A, §§107(e)(3), 111(d), div. B, title V, §§1505(a), (c)(1), (d)–(f), 1513(e), Oct. 28, 2000, 114 Stat. 1478, 1485, 1525, 1526, 1536; Pub. L. 106–395, title II, §201(b)(1), (2), Oct. 30, 2000, 114 Stat. 1633, 1634; Pub. L. 106–396, title I, §101(b)(1), Oct. 30, 2000, 114 Stat. 1638; Pub. L. 107–56, title IV, §411(a), title X, §1006(a), Oct. 26, 2001, 115 Stat. 345, 394; Pub. L. 107–150, §2(a)(2), Mar. 13, 2002, 116 Stat. 74; Pub. L. 107–273, div. C, title I, §11018(c), Nov. 2, 2002, 116 Stat. 1825; Pub. L. 108–77, title IV, §402(b), (c), Sept. 3, 2003, 117 Stat. 940, 946; Pub. L. 108–193, §§4(b)(4), 8(a)(2), Dec. 19, 2003, 117 Stat. 2879, 2886; Pub. L. 108–447, div. J, title IV, §§422(a), 423, 424(a)(1), (b), Dec. 8, 2004, 118 Stat. 3353–3355; Pub. L. 108–449, §1(b)(2), Dec. 10, 2004, 118 Stat. 3470; Pub. L. 108–458, title V, §§5501(a), 5502(a), 5503, Dec. 17, 2004, 118 Stat. 3740, 3741; Pub. L. 109–13, div. B, title I, §§103(a)–(c), 104, title V, §501(d), May 11, 2005, 119 Stat. 306–309, 322; Pub. L. 109–162, title VIII, §802, Jan. 5, 2006, 119 Stat. 3054; Pub. L. 109–271, §6(b), Aug. 12, 2006, 120 Stat. 762; Pub. L. 110–161, div. J, title VI, §691(a), (c), Dec. 26, 2007, 121 Stat. 2364, 2365; Pub. L. 110–229, title VII, §702(b)(2), (3), (d), May 8, 2008, 122 Stat. 860, 862; Pub. L. 110–293, title III, §305, July 30, 2008, 122 Stat. 2963; Pub. L. 110–340, §2(b), Oct. 3, 2008, 122 Stat. 3736; Pub. L. 110–457, title II, §§222(f)(1), 234, Dec. 23, 2008, 122 Stat. 5071, 5074; Pub. L. 111–122, §3(b), Dec. 22, 2009, 123 Stat. 3481; Pub. L. 111–287, §2, Nov. 30, 2010, 124 Stat. 3058; Pub. L. 113–4, title VIII, §804, Mar. 7, 2013, 127 Stat. 111.)
+(June 27, 1952, ch. 477, title II, ch. 2, §212, 66 Stat. 182; July 18, 1956, ch. 629, title III, §301 (a), 70 Stat. 575; Pub. L. 85–508, §23, July 7, 1958, 72 Stat. 351; Pub. L. 86–3, §20(b), Mar. 18, 1959, 73 Stat. 13; Pub. L. 86–648, §8, July 14, 1960, 74 Stat. 505; Pub. L. 87–256, §109(c), Sept. 21, 1961, 75 Stat. 535; Pub. L. 87–301, §§11–15, Sept. 26, 1961, 75 Stat. 654, 655; Pub. L. 89–236, §§10, 15, Oct. 3, 1965, 79 Stat. 917, 919; Pub. L. 91–225, §2, Apr. 7, 1970, 84 Stat. 116; Pub. L. 94–484, title VI, §601(a), (c), (d), Oct. 12, 1976, 90 Stat. 2300, 2301; Pub. L. 94–571, §§5, 7(d), Oct. 20, 1976, 90 Stat. 2705, 2706; Pub. L. 95–83, title III, §307(q)(1), (2), Aug. 1, 1977, 91 Stat. 394; Pub. L. 95–549, title I, §§101, 102, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 96–70, title III, §3201(b), Sept. 27, 1979, 93 Stat. 497; Pub. L. 96–212, title II, §203(d), (f), Mar. 17, 1980, 94 Stat. 107; Pub. L. 96–538, title IV, §404, Dec. 17, 1980, 94 Stat. 3192; Pub. L. 97–116, §§4, 5(a)(1), (2), (b), 18(e), Dec. 29, 1981, 95 Stat. 1611, 1612, 1620; Pub. L. 98–454, title VI, §602\[(a)\], Oct. 5, 1984, 98 Stat. 1737; Pub. L. 98–473, title II, §220(a), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–396, §14(a), Aug. 27, 1986, 100 Stat. 842; Pub. L. 99–570, title I, §1751(a), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–639, §6(a), Nov. 10, 1986, 100 Stat. 3543; Pub. L. 99–653, §7(a), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–204, title VIII, §806(c), Dec. 22, 1987, 101 Stat. 1399; Pub. L. 100–525, §§3(1)(A), 7(c)(1), (3), 8(f), 9(i), Oct. 24, 1988, 102 Stat. 2614, 2616, 2617, 2620; Pub. L. 100–690, title VII, §7349(a), Nov. 18, 1988, 102 Stat. 4473; Pub. L. 101–238, §3(b), Dec. 18, 1989, 103 Stat. 2100; Pub. L. 101–246, title I, §131(a), (c), Feb. 16, 1990, 104 Stat. 31; Pub. L. 101–649, title I, §162(e)(1), (f)(2)(B), title II, §§202(b), 205(c)(3), title V, §§511(a), 514(a), title VI, §601(a), (b), (d), Nov. 29, 1990, 104 Stat. 5011, 5012, 5014, 5020, 5052, 5053, 5067, 5075; Pub. L. 102–232, title III, §§302(e)(6), (9), 303(a)(5)(B), (6), (7)(B), 306(a)(10), (12), 307(a)–(g), 309(b)(7), Dec. 12, 1991, 105 Stat. 1746, 1747, 1751, 1753–1755, 1759; Pub. L. 103–43, title XX, §2007(a), June 10, 1993, 107 Stat. 210; Pub. L. 103–317, title V, §506(a), Aug. 26, 1994, 108 Stat. 1765; Pub. L. 103–322, title XIII, §130003(b)(1), Sept. 13, 1994, 108 Stat. 2024; Pub. L. 103–416, title II, §§203(a), 219(e), (z)(1), (5), 220(a), Oct. 25, 1994, 108 Stat. 4311, 4316, 4318, 4319; Pub. L. 104–132, title IV, §§411, 412, 440(d), Apr. 24, 1996, 110 Stat. 1268, 1269, 1277; Pub. L. 104–208, div. C, title I, §124(b)(1), title III, §§301(b)(1), (c)(1), 304(b), 305(c), 306(d), 308(c)(2)(B), (d)(1), (e)(1)(B), (C), (2)(A), (6), (f)(1)(C)–(F), (3)(A), (g)(1), (4)(B), (10)(A), (H), 322(a)(2)(B), 341(a), (b), 342(a), 343, 344(a), 345(a), 346(a), 347(a), 348(a), 349, 351(a), 352(a), 355, title V, §531(a), title VI, §§602(a), 622(b), 624(a), 671(e)(3), Sept. 30, 1996, 110 Stat. 3009–562, 3009–576, 3009–578, 3009–597, 3009–607, 3009–612, 3009–616, 3009–619 to 3009–622, 3009–625, 3009–629, 3009–635 to 3009–641, 3009–644, 3009–674, 3009–689, 3009–695, 3009–698, 3009–723; Pub. L. 105–73, §1, Nov. 12, 1997, 111 Stat. 1459; Pub. L. 105–277, div. C, title IV, §§412(a)–(c), 413(a)–(e)(1), (f), 415(a), 431(a), div. G, subdiv. B, title XXII, §2226(a), Oct. 21, 1998, 112 Stat. 2681–642 to 2681–651, 2681–654, 2681–658, 2681–820; Pub. L. 105–292, title VI, §604(a), Oct. 27, 1998, 112 Stat. 2814; Pub. L. 106–95, §§2(b), 4(a), Nov. 12, 1999, 113 Stat. 1312, 1317; Pub. L. 106–120, title VIII, §809, Dec. 3, 1999, 113 Stat. 1632; Pub. L. 106–313, title I, §§106(c)(2), 107(a), Oct. 17, 2000, 114 Stat. 1254, 1255; Pub. L. 106–386, div. A, §§107(e)(3), 111(d), div. B, title V, §§1505(a), (c)(1), (d)–(f), 1513(e), Oct. 28, 2000, 114 Stat. 1478, 1485, 1525, 1526, 1536; Pub. L. 106–395, title II, §201(b)(1), (2), Oct. 30, 2000, 114 Stat. 1633, 1634; Pub. L. 106–396, title I, §101(b)(1), Oct. 30, 2000, 114 Stat. 1638; Pub. L. 107–56, title IV, §411(a), title X, §1006(a), Oct. 26, 2001, 115 Stat. 345, 394; Pub. L. 107–150, §2(a)(2), Mar. 13, 2002, 116 Stat. 74; Pub. L. 107–273, div. C, title I, §11018(c), Nov. 2, 2002, 116 Stat. 1825; Pub. L. 108–77, title IV, §402(b), (c), Sept. 3, 2003, 117 Stat. 940, 946; Pub. L. 108–193, §§4(b)(4), 8(a)(2), Dec. 19, 2003, 117 Stat. 2879, 2886; Pub. L. 108–447, div. J, title IV, §§422(a), 423, 424(a)(1), (b), Dec. 8, 2004, 118 Stat. 3353–3355; Pub. L. 108–449, §1(b)(2), Dec. 10, 2004, 118 Stat. 3470; Pub. L. 108–458, title V, §§5501(a), 5502(a), 5503, Dec. 17, 2004, 118 Stat. 3740, 3741; Pub. L. 109–13, div. B, title I, §§103(a)–(c), 104, title V, §501(d), May 11, 2005, 119 Stat. 306–309, 322; Pub. L. 109–162, title VIII, §802, Jan. 5, 2006, 119 Stat. 3054; Pub. L. 109–271, §6(b), Aug. 12, 2006, 120 Stat. 762; Pub. L. 110–161, div. J, title VI, §691(a), (c), Dec. 26, 2007, 121 Stat. 2364, 2365; Pub. L. 110–229, title VII, §702(b)(2), (3), (d), May 8, 2008, 122 Stat. 860, 862; Pub. L. 110–293, title III, §305, July 30, 2008, 122 Stat. 2963; Pub. L. 110–340, §2(b), Oct. 3, 2008, 122 Stat. 3736; Pub. L. 110–457, title II, §§222(f)(1), 234, Dec. 23, 2008, 122 Stat. 5071, 5074; Pub. L. 111–122, §3(b), Dec. 22, 2009, 123 Stat. 3481; Pub. L. 111–287, §2, Nov. 30, 2010, 124 Stat. 3058; Pub. L. 113–4, title VIII, §804, Mar. 7, 2013, 127 Stat. 111.)
 
 #### Amendment of Section
 
@@ -1560,7 +1560,7 @@ Subsec. (s). Pub. L. 108–77, §§107(c), 402(b)(1), temporarily redesignated s
 
 Subsec. (t). Pub. L. 108–77, §§107(c), 402(b)(2), temporarily added subsec. (t). See Effective and Termination Dates of 2003 Amendment note below.
 
-<b>2002</b>—Subsec. (a)(4)(C)(ii). Pub. L. 107–150 substituted "(and any additional sponsor required under section 1183a(f) of this title or any alternative sponsor permitted under paragraph (5)(B) of such section)" for "(including any additional sponsor required under section 1183a(f) of this title)".
+<b>2002</b>—Subsec. (a)(4)(C)(ii). Pub. L. 107–150 substituted "(and any additional sponsor required under section 1183a(f) of this title or any alternative sponsor permitted under paragraph (5)(B) of such section)" for"(including any additional sponsor required under section 1183a(f) of this title)".
 
 Subsec. (e). Pub. L. 107–273 substituted "section 1184(l)" for "section 1184(k)".
 
@@ -1642,7 +1642,7 @@ Subsec. (a)(10)(C)(ii), (iii). Pub. L. 105–277, §2226(a), added cls. (ii) and
 
 Subsec. (n)(1). Pub. L. 105–277, §412(b)(2), substituted "an H–1B nonimmigrant" for "a nonimmigrant described in section 1101(a)(15)(H)(i)(b) of this title" in introductory provisions.
 
-Pub. L. 105–277, §412(a)(2), (3), inserted at end "The application form shall include a clear statement explaining the liability under subparagraph (F) of a placing employer if the other employer described in such subparagraph displaces a United States worker as described in such subparagraph. Nothing in subparagraph (G) shall be construed to prohibit an employer from using legitimate selection criteria relevant to the job that are normal or customary to the type of job involved, so long as such criteria are not applied in a discriminatory manner."
+Pub. L. 105–277, §412(a)(2), (3), inserted at end "The application form shall include a clear statement explaining the liability under subparagraph (F) of a placing employer if the other employer described in such subparagraph displaces a United States worker as described in such subparagraph. Nothing in subparagraph\(G) shall be construed to prohibit an employer from using legitimate selection criteria relevant to the job that are normal or customary to the type of job involved, so long as such criteria are not applied in a discriminatory manner."
 
 Subsec. (n)(1)(A)(i). Pub. L. 105–277, §412(b)(2), substituted "an H–1B nonimmigrant" for "a nonimmigrant described in section 1101(a)(15)(H)(i)(b) of this title" in introductory provisions.
 
@@ -1762,7 +1762,7 @@ Pub. L. 104–132, §412, designated existing provisions as par. (1), substitute
 
 Subsec. (c). Pub. L. 104–208, §304(b), struck out subsec. (c) which read as follows: "Aliens lawfully admitted for permanent residence who temporarily proceeded abroad voluntarily and not under an order of deportation, and who are returning to a lawful unrelinquished domicile of seven consecutive years, may be admitted in the discretion of the Attorney General without regard to the provisions of subsection (a) of this section (other than paragraphs (3) and (9)(C)). Nothing contained in this subsection shall limit the authority of the Attorney General to exercise the discretion vested in him under section 1181(b) of this title. This subsection shall not apply to an alien who is deportable by reason of having committed any criminal offense covered in section 1227(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1227(a)(2)(A)(ii) of this title for which both predicate offenses are, without regard to the date of their commission, otherwise covered by section 1227(a)(2)(A)(i) of this title."
 
-Pub. L. 104–132, §440(d)(2), as amended by Pub. L. 104–208, §§306(d), 308(g)(1), (10)(H), substituted "is deportable by reason of having committed any criminaloffense covered in section 1227(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1227(a)(2)(A)(ii) of this title for which both predicate offenses are, without regard to the date of their commission, otherwise covered by section 1227(a)(2)(A)(i) of this title." for "has been convicted of one or more aggravated felonies and has served for such felony or felonies a term of imprisonment of at least 5 years."
+Pub. L. 104–132, §440(d)(2), as amended by Pub. L. 104–208, §§306(d), 308(g)(1), (10)(H), substituted "is deportable by reason of having committed any criminal offense covered in section 1227(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1227(a)(2)(A)(ii) of this title for which both predicate offenses are, without regard to the date of their commission, otherwise covered by section 1227(a)(2)(A)(i) of this title." for "has been convicted of one or more aggravated felonies and has served for such felony or felonies a term of imprisonment of at least 5 years."
 
 Pub. L. 104–132, §440(d)(1), substituted "This" for "The first sentence of this" in third sentence.
 
@@ -1848,7 +1848,7 @@ Subsec. (o). Pub. L. 103–317, §506(a), (c), temporarily added subsec. (o) whi
 
 &emsp;"(2) the alien is the spouse or unmarried child of an individual who obtained temporary or permanent resident status under section 1160 or 1255a of this title or section 202 of the Immigration Reform and Control Act of 1986 at any date, who—
 
-&emsp;&emsp;"(A) as of May 5, 1988, was the unmarried child or spouse of the individual who obtained temporary or permanent resident status under section 1160 or1255a of this title or section 202 of the Immigration Reform and Control Act of 1986;
+&emsp;&emsp;"(A) as of May 5, 1988, was the unmarried child or spouse of the individual who obtained temporary or permanent resident status under section 1160 or 1255a of this title or section 202 of the Immigration Reform and Control Act of 1986;
 
 &emsp;&emsp;"(B) entered the United States before May 5, 1988, resided in the United States on May 5, 1988, and is not a lawful permanent resident; and
 
@@ -1924,7 +1924,7 @@ Subsec. (n)(2)(D). Pub. L. 102–232, §303(a)(7)(B)(v), (vi), substituted "If" 
 
 Pub. L. 101–649, §514(a), as amended by Pub. L. 102–232, §306(a)(12), substituted "20 years" for "ten years" in par. (17).
 
-Pub. L. 101–649, §162(e)(1), which provided that par. (5) is amended in subpar. (A), by striking "Any alien who seeks to enter the United States for the purpose of performing skilled or unskilled labor" and inserting "Any alien who seeks admission or status as an immigrant under paragraph (2) or (3) of section 1153(b) of this title, in subpar. (B), by inserting "who seeks admission or status as an immigrant under paragraph (2) or (3) ofsection 1153(b) of this title" after "An alien" the first place it appears, and by striking subpar. (C), was repealed by Pub. L. 102–232, §302(e)(6). See Construction of 1990 Amendment note below.
+Pub. L. 101–649, §162(e)(1), which provided that par. (5) is amended in subpar. (A), by striking "Any alien who seeks to enter the United States for the purpose of performing skilled or unskilled labor" and inserting "Any alien who seeks admission or status as an immigrant under paragraph (2) or (3) of section 1153(b) of this title, in subpar. (B), by inserting "who seeks admission or status as an immigrant under paragraph (2) or (3) of section 1153(b) of this title" after "An alien" the first place it appears, and by striking subpar. (C), was repealed by Pub. L. 102–232, §302(e)(6). See Construction of 1990 Amendment note below.
 
 Pub. L. 101–246, §131(a), added par. (34) which read as follows: "Any alien who has committed in the United States any serious criminal offense, as defined in section 1101(h) of this title, for whom immunity from criminal jurisdiction was exercised with respect to that offense, who as a consequence of the offense and the exercise of immunity has departed the United States, and who has not subsequently submitted fully to the jurisdiction of the court in the United States with jurisdiction over the offense."
 
@@ -2022,7 +2022,7 @@ Subsec. (j)(1)(B). Pub. L. 97–116, §5(a)(2), (b)(3), (7)(A), (B), substituted
 
 Subsec. (j)(1)(C). Pub. L. 97–116, §5(b)(2)–(4), struck out "(including any extension of the duration thereof under subparagraph (D))" after "to the United States" and substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare" and a period for "; and" at end.
 
-Subsec. (j)(1)(D). Pub. L. 97–116, §5(b)(5), substituted provision permitting aliens coming to the United States to study in medical residency training programs to remain until the typical completion date of the program, as determined by the Director of the International Communication Agency at the time of the alien's entry, based on criteria established in coordination with the Secretary of Health and Human Services, except that such duration be limited to seven years unless the alien demonstrates to the satisfaction of the Director that the country to which the alien will return after such specialty education has exceptional need for an individual trained in such specialty, and that the alien may change enrollment in programs once within two years after coming to the United States if approval of the Director is obtained and further commitments are obtained from the alien to assure that, upon completion of the program, the alien would return to his country for provision limiting the duration of the alien's participation in the program for which he is coming to the United States to not more than 2 years, with a possible one year extension.
+Subsec. (j)(1)(D). Pub. L. 97–116, §5(b)(5), substituted provision permitting aliens coming to the United States to study in medical residency training programs to remain until the typical completion date of the program, as determined by the Director of the International Communication Agency at the time of the alien's entry, based on criteria established in coordination with the Secretary of Health and Human Services, except that such duration be limited to seven years unless the alien demonstrates to the satisfaction of the Director that the country to which the alien will return after such specialty education has exceptional need for an individual trained in such specialty, andthat the alien may change enrollment in programs once within two years after coming to the United States if approval of the Director is obtained and further commitments are obtained from the alien to assure that, upon completion of the program, the alien would return to his country for provision limiting the duration of the alien's participation in the program for which he is coming to the United States to not more than 2 years, with a possible one year extension.
 
 Subsec. (j)(1)(E). Pub. L. 97–116, §5(b)(6), added subpar. (E).
 
@@ -2048,7 +2048,7 @@ Subsec. (j)(2)(A). Pub. L. 96–538 substituted "December 30, 1981" for "Decembe
 
 Subsec. (d)(3). Pub. L. 95–549, §102, inserted reference to par. (33) in parenthetical text.
 
-<b>1977</b>—Subsec. (a)(32). Pub. L. 95–83, §307(q)(1), inserted "not accredited by a body or bodies approved for the purpose by the Commissioner of Education (regardless of whether such school of medicine is in the United States" after "graduates of a medical school" in first sentence and struck out second sentence exclusion of aliens provision with respect to application to special immigrants defined in section 1101(a)(27)(A) of this title (other than the parents, spouses, or children of theUnited States citizens or of aliens lawfully admitted for permanent residence).
+<b>1977</b>—Subsec. (a)(32). Pub. L. 95–83, §307(q)(1), inserted "not accredited by a body or bodies approved for the purpose by the Commissioner of Education (regardless of whether such school of medicine is in the United States" after "graduates of a medical school" in first sentence and struck out second sentence exclusion of aliens provision with respect to application to special immigrants defined in section 1101(a)(27)(A) of this title (other than the parents, spouses, or children of the United States citizens or of aliens lawfully admitted for permanent residence).
 
 Subsec. (j)(1)(B). Pub. L. 95–83, §307(q)(2)(A), inserted cl. (i) and designated existing provisions as cl. (ii).
 
@@ -2082,7 +2082,7 @@ Subsec. (a)(21). Pub. L. 89–236, §10(c), struck out "quota" before "immigrant
 
 Subsec. (a)(24). Pub. L. 89–236, §10(d), substituted "other than aliens described in section 1101(a)(27)(A) and (B)" for "other than those aliens who are nativeborn citizens of countries enumerated in section 1101(a)(27) of this title and aliens described in section 1101(a)(27)(B) of this title".
 
-Subsec. (g). Pub. L. 89–236, §15(c), redesignated subsec. (f) of sec. 212 of the Immigration and Nationality Act as subsec. (g) thereof, which for purposes of codification had already been designated as subsec. (g) of this section and granted the Attorney General authority to admit any alien who is the spouse, unmarried son or daughter, minor adopted child, or parent of a citizen or lawful permanent resident and who is mentally retarded or has a past history of mental illness under the same conditions as authorized in the case of such close relatives afflicted with tuberculosis.
+Subsec. (g). Pub. L. 89–236, §15(c), redesignated subsec. (f) of sec. 212 of the Immigration and Nationality Act as subsec. (g) thereof, which for purposes of codification had already been designated as subsec. (g) ofthis section and granted the Attorney General authority to admit any alien who is the spouse, unmarried son or daughter, minor adopted child, or parent of a citizen or lawful permanent resident and who is mentally retarded or has a past history of mental illness under the same conditions as authorized in the case of such close relatives afflicted with tuberculosis.
 
 Subsecs. (h), (i). Pub. L. 89–236, §15(c), redesignated subsecs. (g) and (h) of sec. 212 of the Immigration and Nationality Act as subsecs. (h) and (i) respectively thereof, which for purposes of codification had already been designated as subsecs. (h) and (i) of this section.
 
@@ -2108,7 +2108,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 111–122, §3(c), Dec. 22, 2009, 123 Stat. 3481, provided that: "The amendments made by subsections (b), (c), and (d) of the Child Soldiers Accountability Act of 2008 (Public Law 110–340) \[probably means subsecs. (b) to (d) of section 2 of Public Law 110–340, amending thissection and section 1227 of this title\] shall apply to offenses committed before, on, or after the date of the enactment of the Child Soldiers Accountability Act of 2008 \[Oct. 3, 2008\]."
+Pub. L. 111–122, §3(c), Dec. 22, 2009, 123 Stat. 3481, provided that: "The amendments made by subsections (b), (c), and (d) of the Child Soldiers Accountability Act of 2008 (Public Law 110–340) \[probably means subsecs. (b) to (d) of section 2 of Public Law 110–340, amending this section and section 1227 of this title\] shall apply to offenses committed before, on, or after the date of the enactment of the Child Soldiers Accountability Act of 2008 \[Oct. 3, 2008\]."
 
 Amendment by Pub. L. 110–229 effective on the transition program effective date described in section 1806 of Title 48, Territories and Insular Possessions, see section 705(b) of Pub. L. 110–229, set out as an Effective Date note under section 1806 of Title 48.
 
@@ -2160,7 +2160,7 @@ Pub. L. 107–150, §2(b), Mar. 13, 2002, 116 Stat. 75, provided that: "The amen
 
 &emsp;&emsp;"(B) demonstrates that he or she is able to satisfy the requirement of section 212(a)(4)(C)(ii) of such Act (8 U.S.C. 1182(a)(4)(C)(ii)) by reason of such amendments; and
 
-&emsp;"(2) the Attorney General reinstates such petition after making the determination described in section 213A(f)(5)(B)(ii) of such Act \[8 U.S.C. 1183a(f)(5)(B)(ii)\] (as amended by subsection (a)(1) of this Act)."
+&emsp;"(2) the Attorney General reinstates such petition after making the determination described in section213A(f)(5)(B)(ii) of such Act \[8 U.S.C. 1183a(f)(5)(B)(ii)\] (as amended by subsection (a)(1) of this Act)."
 
 #### Effective Date of 2001 Amendment
 
@@ -2194,7 +2194,7 @@ In general.—Notwithstanding paragraphs (1) and (2), no alien shall be consider
 
 Statutory construction.—Subparagraph (A) shall not be construed to prevent an alien from being considered inadmissible or deportable for having engaged in a terrorist activity—
 
-&emsp;&emsp;"(i) described in subclause (IV)(bb), (V)(bb), or (VI)(cc) of section 212(a)(3)(B)(iv) of such Act (as soamended) with respect to a terrorist organization at any time when such organization was designated by the Secretary of State under section 219 of such Act or otherwise designated under section 212(a)(3)(B)(vi)(II) of such Act (as so amended); or
+&emsp;&emsp;"(i) described in subclause (IV)(bb), (V)(bb), or (VI)(cc) of section 212(a)(3)(B)(iv) of such Act (as so amended) with respect to a terrorist organization at any time when such organization was designated by the Secretary of State under section 219 of such Act or otherwise designated under section 212(a)(3)(B)(vi)(II) of such Act (as so amended); or
 
 &emsp;&emsp;"(ii) described in subclause (IV)(cc), (V)(cc), or (VI)(dd) of section 212(a)(3)(B)(iv) of such Act (as so amended) with respect to a terrorist organization described in section 212(a)(3)(B)(vi)(III) of such Act (as so amended).
 
@@ -2228,7 +2228,7 @@ Pub. L. 105–277, div. C, title IV, §412(d), Oct. 21, 1998, 112 Stat. 2681–6
 
 Pub. L. 105–277, div. C, title IV, §413(e)(2), Oct. 21, 1998, 112 Stat. 2681–651, as amended by Pub. L. 106–313, title I, §107(b), Oct. 17, 2000, 114 Stat. 1255, provided that: "The amendment made by paragraph (1) \[amending this section\] shall cease to be effective on September 30, 2003."
 
-Pub. L. 105–277, div. C, title IV, §415(b), Oct. 21, 1998, 112 Stat. 2681–655, provided that: "The amendment made by subsection (a) \[amending this section\] applies to prevailing wage computations made—
+Pub. L. 105–277, div. C, title IV, §415(b), Oct. 21, 1998, 112 Stat. 2681–655, provided that: "The amendmentmade by subsection (a) \[amending this section\] applies to prevailing wage computations made—
 
 &emsp;"(1) for applications filed on or after the date of the enactment of this Act \[Oct. 21, 1998\]; and
 
@@ -2278,7 +2278,9 @@ Amendment by section 219(e) of Pub. L. 103–416 effective as if included in the
 
 Pub. L. 103–416, title II, §219(z), Oct. 25, 1994, 108 Stat. 4318, provided that the amendment made by subsec. (z)(1), (5) of that section is effective as if included in the Miscellaneous and Technical Immigration and Naturalization Amendments of 1991, Pub. L. 102–232.
 
-Pub. L. 103–416, title II, §220(c), Oct. 25, 1994, 108 Stat. 4320, as amended by Pub. L. 104–208, div. C, title VI, §622(a), Sept. 30, 1996, 110 Stat. 3009–695; Pub. L. 107–273, div. C, title I, §11018(b), Nov. 2, 2002, 116 Stat. 1825; Pub. L. 108–441, §1(a)(1), Dec. 3, 2004, 118 Stat. 2630; Pub. L. 109–477, §2, Jan. 12, 2007, 120 Stat. 3572; Pub. L. 110–362, §1, Oct. 8, 2008, 122 Stat. 4013; Pub. L. 111–9, §2, Mar. 20, 2009, 123 Stat. 989; Pub. L. 111–83, title V, §568(b), Oct. 28, 2009, 123 Stat. 2186; Pub. L. 112–176, §4, Sept. 28, 2012, 126 Stat. 1325, provided that: "The amendments made by this section \[amending this section and section 1184 of this title\] shall apply to aliens admitted to the United States under section 101(a)(15)(J) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(J)\], or acquiring such status after admission to the United States, before, on, or after the date of enactment of this Act \[Oct. 25, 1994\] and before September 30, 2015."
+Pub. L. 103–416, title II, §220(c), Oct. 25, 1994, 108 Stat. 4320, as amended by Pub. L. 104–208, div. C, title VI,§622(a), Sept. 30, 1996, 110 Stat. 3009–695; Pub. L. 107–273, div. C, title I, §11018(b), Nov. 2, 2002, 116 Stat. 1825; Pub. L. 108–441, §1(a)(1), Dec. 3, 2004, 118 Stat. 2630; Pub. L. 109–477, §2, Jan. 12, 2007, 120 Stat. 3572; Pub. L. 110–362, §1, Oct. 8, 2008, 122 Stat. 4013; Pub. L. 111–9, §2, Mar. 20, 2009, 123 Stat. 989; Pub. L. 111–83, title V, §568(b), Oct. 28, 2009, 123 Stat. 2186; Pub. L. 112–176, §4, Sept. 28, 2012, 126 Stat. 1325, provided that: "The amendments made by this section \[amending this section and section 1184 of this title\] shall apply to aliens admitted to the United States under section 101(a)(15)(J) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(J)\], or acquiring such status after admission to the United States, before, on, or after the date of enactment of this Act \[Oct. 25, 1994\] and before September 30, 2015."
+
+\[Pub. L. 115–141, div. M, title II, §203, Mar. 23, 2018, 132 Stat. 1049, provided that: "Section 220(c) of the Immigration and Nationality Technical Corrections Act of 1994 \[Pub. L. 103–416\] (8 U.S.C. 1182 note) \[set out above\] shall be applied by substituting 'September 30, 2018' for 'September 30, 2015'."\]
 
 \[Pub. L. 115–31, div. F, title V, §541, May 5, 2017, 131 Stat. 432, provided that: "Section 220(c) of the Immigration and Nationality Technical Corrections Act of 1994 \[Pub. L. 103–416\] (8 U.S.C. 1182 note) \[set out above\] shall be applied by substituting 'September 30, 2017' for 'September 30, 2015'."\]
 
@@ -2290,7 +2292,7 @@ Pub. L. 103–416, title II, §220(c), Oct. 25, 1994, 108 Stat. 4320, as amended
 
 Pub. L. 103–317, title V, §506(c), Aug. 26, 1994, 108 Stat. 1766, as amended by Pub. L. 105–46, §123, Sept. 30, 1997, 111 Stat. 1158; Pub. L. 105–119, title I, §111(b), Nov. 26, 1997, 111 Stat. 2458, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1994, and shall cease to have effect on October 1, 1997. The amendment made by subsection (b) \[amending section 1255 of this title\] shall take effect on October 1, 1994."
 
-Pub. L. 105–46, §123, Sept. 30, 1997, 111 Stat. 1158, which directed the amendment of section 506(c) of Pub. L. 103–317, set out above, by striking "September 30, 1997" and inserting "October 23, 1997" was probably intended by Congress to extend the termination date "October 1, 1997" to "October 23, 1997". For further temporary extensions of the October 23, 1997 termination date, see list of continuing appropriations acts contained in a Continuing Appropriations for FiscalYear 1998 note set out under section 635f of Title 12, Banks and Banking.
+Pub. L. 105–46, §123, Sept. 30, 1997, 111 Stat. 1158, which directed the amendment of section 506(c) of Pub. L. 103–317, set out above, by striking "September 30, 1997" and inserting "October 23, 1997" was probably intended by Congress to extend the termination date "October 1, 1997" to "October 23, 1997". For further temporary extensions of the October 23, 1997 termination date, see list of continuing appropriations acts contained in a Continuing Appropriations for Fiscal Year 1998 note set out under section 635f of Title 12, Banks and Banking.
 
 #### Effective Date of 1993 Amendment
 
@@ -2336,7 +2338,7 @@ Amendment by section 8(f) of Pub. L. 100–525 effective as if included in the e
 
 Amendment by Pub. L. 99–653 applicable to visas issued, and admissions occurring, on or after Nov. 14, 1986, see section 23(a) of Pub. L. 99–653, set out as a note under section 1101 of this title.
 
-Pub. L. 99–639, §6(c), formerly §6(b), Nov. 10, 1986, 100 Stat. 3544, as redesignated and amended by Pub. L. 100–525, §7(c)(2), Oct. 24, 1988, 102 Stat. 2616, provided that: "The amendment made by this section \[amending this section\] shall apply to the receipt of visas by, and the admission of, aliens occurring after the date of the enactment of this Act \[Nov. 10, 1986\] based on fraud or misrepresentations occurring before, on, or after such date."
+Pub. L. 99–639, §6(c), formerly §6(b), Nov. 10, 1986, 100 Stat. 3544, as redesignated and amended by Pub. L. 100–525, §7(c)(2), Oct. 24, 1988, 102 Stat. 2616, provided that: "The amendment made by this section \[amending this section\] shall apply to the receipt of visas by, andthe admission of, aliens occurring after the date of the enactment of this Act \[Nov. 10, 1986\] based on fraud or misrepresentations occurring before, on, or after such date."
 
 Pub. L. 99–570, title I, §1751(c), Oct. 27, 1986, 100 Stat. 3207–47, provided that: "The amendments made by the \[sic\] subsections (a) and (b) of this section \[amending this section and section 1251 of this title\] shall apply to convictions occurring before, on, or after the date of the enactment of this section \[Oct. 27, 1986\], and the amendments made by subsection (a) \[amending this section\] shall apply to aliens entering the United States after the date of the enactment of this section."
 
@@ -2362,7 +2364,7 @@ Pub. L. 96–70, title III, §3201(d)(2), Sept. 27, 1979, 93 Stat. 497, provided
 
 #### Effective Date of 1976 Amendments
 
-Amendment by Pub. L. 94–571 effective on first day of first month which begins more than sixty days afterOct. 20, 1976, see section 10 of Pub. L. 94–571, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 94–571 effective on first day of first month which begins more than sixty days after Oct. 20, 1976, see section 10 of Pub. L. 94–571, set out as a note under section 1101 of this title.
 
 Amendment by section 601(d) of Pub. L. 94–484 applicable only on and after Jan. 10, 1978, notwithstanding section 601(f) of Pub. L. 94–484, see section 602(d) of Pub. L. 94–484, as added by section 307(q)(3) of Pub. L. 95–83, set out as an Effective Date of 1977 Amendment note under section 1101 of this title.
 
@@ -2395,6 +2397,226 @@ United States Information Agency (other than Broadcasting Board of Governors and
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+#### Reciprocal Access to Tibet
+
+Pub. L. 115–330, Dec. 19, 2018, 132 Stat. 4479, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Reciprocal Access to Tibet Act of 2018'.
+
+#### "SEC. 2. FINDINGS.
+
+"Congress finds the following:
+
+&emsp;"(1) The Government of the People's Republic of China does not grant United States diplomats and other officials, journalists, and other citizens access to China on a basis that is reciprocal to the access that the Government of the United States grants Chinese diplomats and other officials, journalists, and citizens.
+
+&emsp;"(2) The Government of China imposes greater restrictions on travel to Tibetan areas than to other areas of China.
+
+&emsp;"(3) Officials of China have stated that Tibet is open to foreign visitors.
+
+&emsp;"(4) The Government of China is promoting tourism in Tibetan areas, and at the Sixth Tibet Work Forum in August 2015, Premier Li Keqiang called for Tibet to build 'major world tourism destinations'.
+
+&emsp;"(5) The Government of China requires foreigners to obtain permission from the Tibet Foreign and Overseas Affairs Office or from the Tibet Tourism Bureau to enter the Tibet Autonomous Region, a restriction that is not imposed on travel to any other provincial-level jurisdiction in China.
+
+&emsp;"(6) The Department of State reports that—
+
+&emsp;&emsp;"(A) officials of the Government of the United States submitted 39 requests for diplomatic access to the Tibet Autonomous Region between May 2011 and July 2015, but only four were granted; and
+
+&emsp;&emsp;"(B) when such requests are granted, diplomatic personnel are closely supervised and given few opportunities to meet local residents not approved by authorities.
+
+&emsp;"(7) The Government of China delayed United States consular access for more than 48 hours after an October 28, 2013, bus crash in the Tibet Autonomous Region, in which three citizens of the United States died and more than a dozen others, all from Walnut, California, were injured, undermining the ability of the Government of the United States to provide consular services to the victims and their families, and failing to meet China's obligations under the Convention on Consular Relations, done at Vienna April 24, 1963 (21 UST 77).
+
+&emsp;"(8) Following a 2015 earthquake that trapped dozens of citizens of the United States in the Tibet Autonomous Region, the United States Consulate General in Chengdu faced significant challenges in providing emergency consular assistance due to a lack of consular access.
+
+&emsp;"(9) The Country Reports on Human Rights Practices for 2015 of the Department of State stated 'With the exception of a few highly controlled trips, the Chinese government also denied multiple requests by foreign diplomats for permission to visit the TAR.'.
+
+&emsp;"(10) Tibetan-Americans, attempting to visit their homeland, report having to undergo a discriminatory visa application process, different from what is typically required, at the Chinese embassy and consulates in the United States, and often find their requests to travel denied.
+
+&emsp;"(11) The Country Reports on Human Rights Practices for 2016 of the Department of State stated 'The few visits to the TAR by diplomats and journalists that were allowed were tightly controlled by local authorities.'.
+
+&emsp;"(12) A September 2016 article in the Washington Post reported that 'The Tibet Autonomous Region . . . is harder to visit as a journalist than North Korea.'.
+
+&emsp;"(13) The Government of China has failed to respond positively to requests from the Government of the United States to open a consulate in Lhasa, Tibet Autonomous Region.
+
+&emsp;"(14) The Foreign Correspondents Club of China reports that—
+
+&emsp;&emsp;"(A) 2008 rules prevent foreign reporters from visiting the Tibet Autonomous Region without prior permission from the Government of such Region;
+
+&emsp;&emsp;"(B) such permission has only rarely been granted; and
+
+&emsp;&emsp;"(C) although the 2008 rules allow journalists to travel freely in other parts of China, Tibetan areas outside such Region remain 'effectively off-limits to foreign reporters'.
+
+&emsp;"(15) The Department of State reports that in addition to having to obtain permission to enter the Tibet Autonomous Region, foreign tourists—
+
+&emsp;&emsp;"(A) must be accompanied at all times by a government-designated tour guide;
+
+&emsp;&emsp;"(B) are rarely granted permission to enter the region by road;
+
+&emsp;&emsp;"(C) are largely barred from visiting around the March anniversary of a 1959 Tibetan uprising; and
+
+&emsp;&emsp;"(D) are banned from visiting the area where Larung Gar, the world's largest center for the study of Tibetan Buddhism, and the site of a large-scale campaign to expel students and demolish living quarters, is located.
+
+&emsp;"(16) Foreign visitors also face restrictions in their ability to travel freely in Tibetan areas outside the Tibet Autonomous Region.
+
+&emsp;"(17) The Government of the United States generally allows journalists and other citizens of China to travel freely within the United States. The Government of the United States requires diplomats from China to notify the Department of State of their travel plans, and in certain situations, the Government of the United States requires such diplomats to obtain approval from the Department of State before travel. However, where approval is required, it is almost always granted expeditiously.
+
+&emsp;"(18) The United States regularly grants visas to Chinese diplomats and other officials, scholars, and others who travel to the United States to discuss, promote, and display the perspective of the Government of China on the situation in Tibetan areas, even as the Government of China restricts the ability of citizens of the United States to travel to Tibetan areas to gain their own perspective.
+
+&emsp;"(19) Chinese diplomats based in the United States generally avail themselves of the freedom to travel to United States cities and lobby city councils, mayors, and governors to refrain from passing resolutions, issuing proclamations, or making statements of concern on Tibet.
+
+&emsp;"(20) The Government of China characterizes statements made by officials of the United States about the situation in Tibetan areas as inappropriate interference in the internal affairs of China.
+
+#### "SEC. 3. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Foreign Relations and the Committee on the Judiciary of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives.
+
+&emsp;"(2)
+
+Tibetan areas.—The term 'Tibetan areas' includes—
+
+&emsp;&emsp;"(A) the Tibet Autonomous Region; and
+
+&emsp;&emsp;"(B) the areas that the Chinese Government designates as Tibetan Autonomous, as follows:
+
+&emsp;&emsp;&emsp;"(i) Kanlho (Gannan) Tibetan Autonomous Prefecture, and Pari (Tianzhu) Tibetan Autonomous County located in Gansu Province.
+
+&emsp;&emsp;&emsp;"(ii) Golog (Guoluo) Tibetan Autonomous Prefecture, Malho (Huangnan) Tibetan Autonomous Prefecture, Tsojang (Haibei) Tibetan Autonomous Prefecture, Tsolho (Hainan) Tibetan Autonomous Prefecture, Tsonub (Haixi) Mongolian and Tibetan Autonomous Prefecture, and Yulshul (Yushu) Tibetan Autonomous Prefecture, located in Qinghai Province.
+
+&emsp;&emsp;&emsp;"(iii) Garze (Ganzi) Tibetan Autonomous Prefecture, Ngawa (Aba) Tibetan and Qiang Autonomous Prefecture, and Muli (Mili) Tibetan Autonomous County, located in Sichuan Province.
+
+&emsp;&emsp;&emsp;"(iv) Dechen (Diqing) Tibetan Autonomous Prefecture, located in Yunnan Province.
+
+#### "SEC. 4. ANNUAL REPORT ON ACCESS TO TIBETAN AREAS.
+
+"(a)
+
+In General.—Not later than 90 days after the date of the enactment of this Act \[Dec. 19, 2018\], and annually thereafter for the following five years, the Secretary of State shall submit to the appropriate congressional committees, and make available to the public on the website of the Department of State, a report that includes an assessment of the level of access Chinese authorities granted diplomats and other officials, journalists, and tourists from the United States to Tibetan areas, including—
+
+&emsp;"(1) a comparison with the level of access granted to other areas of China;
+
+&emsp;"(2) a comparison between the levels of access granted to Tibetan and non-Tibetan areas in relevant provinces;
+
+&emsp;"(3) a comparison of the level of access in the reporting year and the previous reporting year; and
+
+&emsp;"(4) a description of the required permits and other measures that impede the freedom to travel in Tibetan areas.
+
+"(b)
+
+Consolidation.—After the issuance of the first report required by subsection (a), the Secretary of State is authorized to incorporate subsequent reports required by subsection (a) into other publicly available, annual reports produced by the Department of State, provided they are submitted to the appropriate congressional committees in a manner specifying that they are being submitted in fulfillment of the requirements of this Act.
+
+#### "SEC. 5. INADMISSIBILITY OF CERTAIN ALIENS.
+
+"(a)
+
+Ineligibility for Visas.—No individual whom the Secretary of State has determined to be substantially involved in the formulation or execution of policies related to access for foreigners to Tibetan areas may be eligible to receive a visa to enter the United States or be admitted to the United States if the Secretary of State determines that—
+
+&emsp;"(1)(A) the requirement for specific official permission for foreigners to enter the Tibetan Autonomous Region remains in effect; or
+
+&emsp;"(B) such requirement has been replaced by a regulation that has a similar effect and requires foreign travelers to gain a level of permission to enter the Tibet Autonomous Region that is not required for travel to other provinces in China; and
+
+&emsp;"(2) restrictions on travel by diplomats and other officials, journalists, and citizens of the United States to areas designated as 'Tibetan Autonomous' in the provinces of Sichuan, Qinghai, Yunnan, and Gansu of China are greater than any restrictions on travel by such officials and citizens to areas in such provinces that are not so designated.
+
+"(b)
+
+Current Visas Revoked.—The Secretary of State shall revoke, in accordance with section 221(i) of the Immigration and Nationality Act (8 U.S.C. 1201(i)), the visa or other documentation to enter or be present in the United States issued for an alien who would be ineligible to receive such a visa or documentation under subsection (a).
+
+"(c)
+
+Report to Congress.—Not later than one year after the date of the enactment of this Act \[Dec. 19, 2018\], and annually thereafter for the following five years, the Secretary of State shall provide to the appropriate congressional committees a report identifying the individuals who have had visas denied or revoked pursuant to this section during the preceding year and, to the extent practicable, a list of Chinese officials who were substantially involved in the formulation or execution of policies to restrict access of United States diplomats and other officials, journalists, and citizens of the United States to Tibetan areas. The report required by this subsection shall be submitted in unclassified form, but may include a classified annex.
+
+"(d)
+
+Waiver for National Interest.—
+
+&emsp;"(1)
+
+In general.—The Secretary of State may waive the application of subsection (a) or (b) in the case of an alien if the Secretary determines that such a waiver—
+
+&emsp;&emsp;"(A) is necessary to permit the United States to comply with the Agreement Regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947 (TIAS 1676), or any other applicable international obligation of the United States; or
+
+&emsp;&emsp;"(B) is in the national interest of the United States.
+
+&emsp;"(2)
+
+Notification.—Upon granting a waiver under paragraph (1), the Secretary of State shall submit to the appropriate congressional committees a document detailing the evidence and justification for the necessity of such waiver, including, if such waiver is granted pursuant to paragraph (1)(B), how such waiver relates to the national interest of the United States.
+
+#### "SEC. 6. SENSE OF CONGRESS.
+
+"It is the sense of Congress that the Secretary of State, when granting diplomats and other officials from China access to parts of the United States, including consular access, should take into account the extent to which the Government of China grants diplomats and other officials from the United States access to parts of China, including the level of access afforded to such diplomats and other officials to Tibetan areas."
+
+#### Treatment of Rwandan Patriotic Front and Rwandan Patriotic Army Under Immigration and Nationality Act
+
+Pub. L. 115–232, div. A, title XII, §1291, Aug. 13, 2018, 132 Stat. 2083, provided that:
+
+"(a)
+
+Removal of Treatment as Terrorist Organizations.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), the Rwandan Patriotic Front and the Rwandan Patriotic Army shall be excluded from the definition of terrorist organization (as defined in section 212(a)(3)(B)(vi)(III) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(B)(vi)(III))) for purposes of such section 212(a)(3)(B) for any period before August 1, 1994.
+
+&emsp;"(2)
+
+Exception.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary of State, in consultation with the Secretary of Homeland Security and the Attorney General, or the Secretary of Homeland Security, in consultation with the Secretary of State and the Attorney General, as applicable, may suspend the application of paragraph (1) for the Rwandan Patriotic Front or the Rwandan Patriotic Army in the sole and unreviewable discretion of such applicable Secretary.
+
+&emsp;&emsp;"(B)
+
+Report.—Not later than, or contemporaneously with, a suspension of paragraph (1) under subparagraph (A), the Secretary of State or the Secretary of Homeland Security, as applicable, shall submit to the appropriate committees of Congress a report on the justification for such suspension.
+
+"(b)
+
+Relief From Inadmissibility.—
+
+&emsp;"(1)
+
+Activities before august 1, 1994.—Section 212(a)(3)(B) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(B)) shall not apply to an alien with respect to any activity undertaken by the alien in association with the Rwandan Patriotic Front or the Rwandan Patriotic Army before August 1, 1994.
+
+&emsp;"(2)
+
+Exceptions.—
+
+&emsp;&emsp;"(A)
+
+In general.—Paragraph (1) shall not apply if the Secretary of State or the Secretary of Homeland Security, as applicable, determines in the sole unreviewable discretion of such applicable Secretary that—
+
+&emsp;&emsp;&emsp;"(i) in the totality of the circumstances, such alien—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) poses a threat to the safety and security of the United States; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) does not merit a visa, admission to the United States, or a grant of an immigration benefit or protection; or
+
+&emsp;&emsp;&emsp;"(ii) such alien committed, ordered, incited, assisted, or otherwise participated in the commission of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) an offense described in section 2441 of title 18, United States Code; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) an offense described in Presidential Proclamation 8697, dated August 4, 2011 \[set out under this section\].
+
+&emsp;&emsp;"(B)
+
+Implementation.—Subparagraph (A) shall be implemented by the Secretary of State and the Secretary of Homeland Security, in consultation with the Attorney General.
+
+"(c)
+
+Appropriate Committees of Congress Defined.—In this section, the term 'appropriate committees of Congress' means—
+
+&emsp;"(1) the Committee on the Judiciary, the Committee on Foreign Relations, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and
+
+&emsp;"(2) the Committee on the Judiciary, the Committee on Foreign Affairs, the Committee on Homeland Security, and the Committee on Appropriations of the House of Representatives."
 
 #### Treatment of Kurdistan Democratic Party and Patriotic Union of Kurdistan Under the Immigration and Nationality Act
 
@@ -2468,13 +2690,15 @@ Pub. L. 110–161, div. J, title VI, §691(e), Dec. 26, 2007, 121 Stat. 2365, pr
 
 #### Inadmissibility of Foreign Officials and Family Members Involved in Kleptocracy
 
-Pub. L. 115–31, div. J, title VII, §7031(c), May 5, 2017, 131 Stat. 640, provided that:
+Pub. L. 115–141, div. K, title VII, §7031(c), Mar. 23, 2018, 132 Stat. 884, provided that:
 
-"(1)(A)
+"(1)
 
-Ineligibility.—Officials of foreign governments and their immediate family members about whom the Secretary of State has credible information have been involved in significant corruption, including corruption related to the extraction of natural resources, or a gross violation of human rights shall be ineligible for entry into the United States.
+Ineligibility.—
 
-"(B) The Secretary shall also publicly or privately designate or identify officials of foreign governments and their immediate family members about whom the Secretary has such credible information without regard to whether the individual has applied for a visa.
+&emsp;"(A) Officials of foreign governments and their immediate family members about whom the Secretary of State has credible information have been involved in significant corruption, including corruption related to the extraction of natural resources, or a gross violation of human rights shall be ineligible for entry into the United States.
+
+&emsp;"(B) The Secretary shall also publicly or privately designate or identify officials of foreign governments and their immediate family members about whom the Secretary has such credible information without regard to whether the individual has applied for a visa.
 
 "(2)
 
@@ -2486,7 +2710,7 @@ Waiver.—The Secretary may waive the application of paragraph (1) if the Secret
 
 "(4)
 
-Report.—Not later than 6 months after enactment of this Act \[div. J of Pub. L. 115–31, approved May 5, 2017\], the Secretary of State shall submit a report, including a classified annex if necessary, to the Committees on Appropriations and the Committees on the Judiciary describing the information related to corruption or violation of human rights concerning each of the individuals found ineligible in the previous 12 months pursuant to paragraph (1)(A) as well as the individuals who the Secretary designated or identified pursuant to paragraph (1)(B), or who would be ineligible but for the application of paragraph (2), a list of any waivers provided under paragraph (3), and the justification for each waiver.
+Report.—Not later than 6 months after enactment of this Act \[div. K of Pub. L. 115–141, approved Mar. 23, 2018\], the Secretary of State shall submit a report, including a classified annex if necessary, to the Committees on Appropriations and the Committees on the Judiciary describing the information related to corruption or violation of human rights concerning each of the individuals found ineligible in the previous 12 months pursuant to paragraph (1)(A) as well as the individuals who the Secretary designated or identified pursuant to paragraph (1)(B), or who would be ineligible but for the application of paragraph (2), a list of any waivers provided under paragraph (3), and the justification for each waiver.
 
 "(5)
 
@@ -2497,6 +2721,8 @@ Posting of report.—Any unclassified portion of the report required under parag
 Clarification.—For purposes of paragraphs (1)(B), (4), and (5), the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance or refusal of visas or permits to enter the United States shall not be considered confidential."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 115–31, div. J, title VII, §7031(c), May 5, 2017, 131 Stat. 640.
 
 Pub. L. 114–113, div. K, title VII, §7031(c), Dec. 18, 2015, 129 Stat. 2755.
 
@@ -2588,7 +2814,7 @@ Pub. L. 103–236, title I, §140(c), Apr. 30, 1994, 108 Stat. 399, as amended b
 
 "(1)(A) Beginning 24 months after the date of the enactment of this Act \[Apr. 30, 1994\], whenever a United States consular officer issues a visa for admission to the United States, that official shall certify, in writing, that a check of the Automated Visa Lookout System, or any other system or list which maintains information about the excludability of aliens under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], has been made and that there is no basis under such system for the exclusion of such alien.
 
-"(B) If, at the time an alien applies for an immigrant or nonimmigrant visa, the alien's name is included in the Department of State's visa lookout system and the consular officer to whom the application is made fails to follow the procedures in processing the applicationrequired by the inclusion of the alien's name in such system, the consular officer's failure shall be made a matter of record and shall be considered as a serious negative factor in the officer's annual performance evaluation.
+"(B) If, at the time an alien applies for an immigrant or nonimmigrant visa, the alien's name is included in the Department of State's visa lookout system and the consular officer to whom the application is made fails to follow the procedures in processing the application required by the inclusion of the alien's name in such system, the consular officer's failure shall be made a matter of record and shall be considered as a serious negative factor in the officer's annual performance evaluation.
 
 "(2) If an alien to whom a visa was issued as a result of a failure described in paragraph (1)(B) is admitted to the United States and there is thereafter probable cause to believe that the alien was a participant in a terrorist act causing serious injury, loss of life, or significant destruction of property in the United States, the Secretary of State shall convene an Accountability Review Board under the authority of title III of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 \[22 U.S.C. 4831 et seq.\]."
 
@@ -2788,7 +3014,7 @@ Sec. 2. Any such alien who, pursuant to section 1 of this Act, is found, upon in
 
 "
 
-Sec. 3. Nothing contained in this Act shall be held to repeal, amend, alter, modify, affect, or restrict the powers, duties, functions, or authority of the AttorneyGeneral in the administration and enforcement of the Immigration and Nationality Act \[this chapter\] or any other law relating to immigration, nationality, or naturalization."
+Sec. 3. Nothing contained in this Act shall be held to repeal, amend, alter, modify, affect, or restrict the powers, duties, functions, or authority of the Attorney General in the administration and enforcement of the Immigration and Nationality Act \[this chapter\] or any other law relating to immigration, nationality, or naturalization."
 
 #### Proc. No. 4865. High Seas Interdiction of Illegal Aliens
 
@@ -2810,7 +3036,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Proc. No. 7750, Jan. 12, 2004, 69 F.R. 2287, provided:
 
-In light of the importance of legitimate and transparent public institutions to world stability, peace, and development, and the serious negative effects that corruption of public institutions has on the United States efforts to promote security and to strengthen democratic institutions and free market systems, and in light of the importance to the United States and the international community of fighting corruption, as evidenced by the Third Global Forum on Fighting Corruption and Safeguarding Integrity and other intergovernmental efforts, I have determined that it is in the interests of the United States to take action to restrict the international travel and to suspend the entry into the United States, as immigrants or nonimmigrants, of certain persons who have committed, participated in, or are beneficiaries of corruption in the performance of public functions where that corruption has serious adverse effects on international activity of U.S. businesses, U.S. foreign assistance goals, the security of the United States against transnational crime and terrorism, or the stability of democratic institutions and nations.
+In light of the importance of legitimate and transparent public institutions to world stability, peace, and development, and the serious negative effects that corruption of public institutions has on the United States efforts to promote security and to strengthen democratic institutions and free market systems, and in light of the importance to the United States and the international community of fighting corruption, as evidenced by the Third Global Forum on Fighting Corruption and Safeguarding Integrity and other intergovernmental efforts, I have determined that it is in the interests of the United States to take action to restrict the international travel and to suspend the entry into the United States, as immigrants or nonimmigrants, of certain persons who have committed, participated in, or are beneficiaries of corruption in the performance of public functions where that corruption has serious adverse effects on international activity of U.S. businesses, U.S. foreign assistance goals, the security of theUnited States against transnational crime and terrorism, or the stability of democratic institutions and nations.
 
 NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States, including section 212(f) of the Immigration and Nationality Act of 1952, 8 U.S.C. 1182(f), and section 301 of title 3, United States Code, hereby find that the unrestricted immigrant and nonimmigrant entry into the United States of persons described in section 1 of this proclamation would, except as provided in sections 2 and 3 of this proclamation, be detrimental to the interests of the United States.
 
@@ -2848,7 +3074,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Proc. No. 8342, Jan. 16, 2009, 74 F.R. 4093, provided:
 
-In order to foster greater resolve to address trafficking in persons (TIP), specifically in punishing acts of trafficking and providing protections to the victims ofthese crimes, consistent with the Trafficking Victims Protection Act of 2000, as amended (the "Act") (22 U.S.C. 7101 <i>et seq</i>.), it is in the interests of the United States to restrict the international travel and to suspend entry into the United States, as immigrants or nonimmigrants, of certain senior government officials responsible for domestic law enforcement, justice, or labor affairs who have impeded their governments' antitrafficking efforts, have failed to implement their governments' antitrafficking laws and policies, or who otherwise bear responsibility for their governments' failures to take steps recognized internationally as appropriate to combat trafficking in persons, and whose governments have been ranked more than once as Tier 3 countries, which represent the worst anti-TIP performers, in the Department of State's annual Trafficking in Persons Report, and for which I have made a determination pursuant to section 110(d)(1)–(2) or (4) of the Act. The Act reflects international antitrafficking standards that guide efforts to eradicate this modern-day form of slavery around the world.
+In order to foster greater resolve to address trafficking in persons (TIP), specifically in punishing acts of trafficking and providing protections to the victims of these crimes, consistent with the Trafficking Victims Protection Act of 2000, as amended (the "Act") (22 U.S.C. 7101 <i>et seq</i>.), it is in the interests of the United States to restrict the international travel and to suspend entry into the United States, as immigrants or nonimmigrants, of certain senior government officials responsible for domestic law enforcement, justice, or labor affairs who have impeded their governments' antitrafficking efforts, have failed to implement their governments' antitrafficking laws and policies, or who otherwise bear responsibility for their governments' failures to take steps recognized internationally as appropriate to combat trafficking in persons, and whose governments have been ranked more than once as Tier 3 countries, which represent the worst anti-TIP performers, in the Department of State's annual Trafficking in Persons Report, and for which I have made a determination pursuant to section 110(d)(1)–(2) or (4) of the Act. The Act reflects international antitrafficking standards that guide efforts to eradicate this modern-day form of slavery around the world.
 
 NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, including section 212(f) of the Immigration and Nationality Act of 1952, 8 U.S.C. 1182(f), and section 301 of title 3, United States Code, hereby find that the unrestricted immigrant and nonimmigrant entry into the United States of persons described in section 1 of this proclamation would, except as provided for in sections 2 and 3 of this proclamation, be detrimental to the interests of the United States.
 
@@ -2868,7 +3094,7 @@ Sec. 4. Nothing in this proclamation shall be construed to derogate from United 
 
 Sec. 5. The Secretary of State shall implement this proclamation pursuant to such procedures as the Secretary, in consultation with the Secretary of Homeland Security, may establish.
 
-Sec. 6. This proclamation is effective immediately. It shall remain in effect until such time as the Secretary of State determines that it is no longer necessary and should be terminated, either in whole or in part. Any such determination by the Secretary of State shall be published in the Federal Register.
+Sec. 6. This proclamation is effective immediately. It shall remain in effect until such time as the Secretary of State determines that it is no longer necessary andshould be terminated, either in whole or in part. Any such determination by the Secretary of State shall be published in the Federal Register.
 
 Sec. 7. This proclamation is not intended to, and does not, create any right, benefit, or privilege, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
 
@@ -2940,7 +3166,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Proc. No. 9645. Enhancing Vetting Capabilities and Processes for Detecting Attempted Entry Into the United States by Terrorists or Other Public-Safety Threats
 
-Proc. No. 9645, Sept. 24, 2017, 82 F.R. 45161, provided:
+Proc. No. 9645, Sept. 24, 2017, 82 F.R. 45161, as amended by Proc. No. 9723, §1, Apr. 10, 2018, 83 F.R. 15939, provided:
 
 In Executive Order 13780 of March 6, 2017 (Protecting the Nation from Foreign Terrorist Entry into the United States) \[set out below\], on the recommendations of the Secretary of Homeland Security and the Attorney General, I ordered a worldwide review of whether, and if so what, additional information would be needed from each foreign country to assess adequately whether their nationals seeking to enter the United States pose a security or safety threat. This was the first such review of its kind in United States history. As part of the review, the Secretary of Homeland Security established global requirements for information sharing in support of immigration screening and vetting. The Secretary of Homeland Security developed a comprehensive set of criteria and applied it to the information-sharing practices, policies, and capabilities of foreign governments. The Secretary of State thereafter engaged with the countries reviewed in an effort to address deficiencies and achieve improvements. In many instances, those efforts produced positive results. By obtaining additional information and formal commitments from foreign governments, the United States Government has improved its capacity and ability to assess whether foreign nationals attempting to enter the United States pose a security or safety threat. Our Nation is safer as a result of this work.
 
@@ -2968,13 +3194,13 @@ Section 1. <i>Policy and Purpose</i>. (a) It is the policy of the United States 
 
 (f) As required by section 2(d) of Executive Order 13780, the Department of State conducted a 50-day engagement period to encourage all foreign governments, not just the 47 identified as either "inadequate" or "at risk," to improve their performance with respect to the baseline described in subsection (c) of this section. Those engagements yielded significant improvements in many countries. Twenty-nine countries, for example, provided travel document exemplars for use by Department of Homeland Security officials to combat fraud. Eleven countries agreed to share information on known or suspected terrorists.
 
-(g) The Secretary of Homeland Security assesses that the following countries continue to have "inadequate" identity-management protocols, information-sharing practices, and risk factors, with respect to the baseline described in subsection (c) of this section, such that entry restrictions and limitations are recommended: Chad, Iran, Libya, North Korea, Syria, Venezuela, and Yemen. The Secretary of Homeland Security also assesses that Iraq did not meet the baseline, but that entry restrictions and limitations under a Presidential proclamation are not warranted. The Secretary ofHomeland Security recommends, however, that nationals of Iraq who seek to enter the United States be subject to additional scrutiny to determine if they pose risks to the national security or public safety of the United States. In reaching these conclusions, the Secretary of Homeland Security considered the close cooperative relationship between the United States and the democratically elected government of Iraq, the strong United States diplomatic presence in Iraq, the significant presence of United States forces in Iraq, and Iraq's commitment to combating the Islamic State of Iraq and Syria (ISIS).
+(g) The Secretary of Homeland Security assesses that the following countries continue to have "inadequate" identity-management protocols, information-sharing practices, and risk factors, with respect to the baseline described in subsection (c) of this section, such that entry restrictions and limitations are recommended: Chad, Iran, Libya, North Korea, Syria, Venezuela, and Yemen. The Secretary of Homeland Security also assesses that Iraq did not meet the baseline, but that entry restrictions and limitations under a Presidential proclamation are not warranted. The Secretary of Homeland Security recommends, however, that nationals of Iraq who seek to enter the United States be subject to additional scrutiny to determine if they pose risks to the national security or public safety of the United States. In reaching these conclusions, the Secretary of Homeland Security considered the close cooperative relationship between the United States and the democratically elected government of Iraq, the strong United States diplomatic presence in Iraq, the significant presence of United States forces in Iraq, and Iraq's commitment to combating the Islamic State of Iraq and Syria (ISIS).
 
 (h) Section 2(e) of Executive Order 13780 directed the Secretary of Homeland Security to "submit to the President a list of countries recommended for inclusion in a Presidential proclamation that would prohibit the entry of appropriate categories of foreign nationals of countries that have not provided the information requested until they do so or until the Secretary of Homeland Security certifies that the country has an adequate plan to do so, or has adequately shared information through other means." On September 15, 2017, the Secretary of Homeland Security submitted a report to me recommending entry restrictions and limitations on certain nationals of 7 countries determined to be "inadequate" in providing such information and in light of other factors discussed in the report. According to the report, the recommended restrictions would help address the threats that the countries' identity-management protocols, information-sharing inadequacies, and other risk factors pose to the security and welfare of the United States. The restrictions also encourage the countries to work with the United States to address those inadequacies and risks so that the restrictions and limitations imposed by this proclamation may be relaxed or removed as soon as possible.
 
 (i) In evaluating the recommendations of the Secretary of Homeland Security and in determining what restrictions to impose for each country, I consulted with appropriate Assistants to the President and members of the Cabinet, including the Secretaries of State, Defense, and Homeland Security, and the Attorney General. I considered several factors, including each country's capacity, ability, and willingness to cooperate with our identity-management and information-sharing policies and each country's risk factors, such as whether it has a significant terrorist presence within its territory. I also considered foreign policy, national security, and counterterrorism goals. I reviewed these factors and assessed these goals, with a particular focus on crafting those country-specific restrictions that would be most likely to encourage cooperation given each country's distinct circumstances, and that would, at the same time, protect the United States until such time as improvements occur. The restrictions and limitations imposed by this proclamation are, in my judgment, necessary to prevent the entry of those foreign nationals about whom the United States Government lacks sufficient information to assess the risks they pose to the United States. These restrictions and limitations are also needed to elicit improved identity-management and information-sharing protocols and practices from foreign governments; and to advance foreign policy, national security, and counterterrorism objectives.
 
-(ii) After reviewing the Secretary of Homeland Security's report of September 15, 2017, and accounting for the foreign policy, national security, and counterterrorism objectives of the United States, I have determined to restrict and limit the entry of nationals of 7 countries found to be "inadequate" with respect to the baseline described in subsection (c) of this section: Chad, Iran, Libya, North Korea, Syria, Venezuela, and Yemen. These restrictions distinguish between the entry of immigrants and nonimmigrants. Persons admitted on immigrant visas become lawful permanent residents of the United States. Such persons may present national security or public-safety concerns that may be distinct from those admitted as nonimmigrants. The United States affords lawful permanent residents more enduring rights than it does to nonimmigrants. Lawful permanent residents are more difficult to remove than nonimmigrants even after national security concerns arise, which heightens the costs and dangers of errors associated with admitting such individuals. And although immigrants generally receive more extensive vetting than nonimmigrants, such vetting is less reliable when the country from which someone seeks to emigrate exhibits significant gaps in its identity-management or information-sharing policies, or presents risks to the national security of the United States. For all but one of those 7 countries, therefore, I am restricting the entry of all immigrants.
+(ii) After reviewing the Secretary of Homeland Security's report of September 15, 2017, and accounting for the foreign policy, national security, and counterterrorism objectives of the United States, I have determined to restrict and limit the entry of nationals of 7 countries found to be "inadequate" with respect to thebaseline described in subsection (c) of this section: Chad, Iran, Libya, North Korea, Syria, Venezuela, and Yemen. These restrictions distinguish between the entry of immigrants and nonimmigrants. Persons admitted on immigrant visas become lawful permanent residents of the United States. Such persons may present national security or public-safety concerns that may be distinct from those admitted as nonimmigrants. The United States affords lawful permanent residents more enduring rights than it does to nonimmigrants. Lawful permanent residents are more difficult to remove than nonimmigrants even after national security concerns arise, which heightens the costs and dangers of errors associated with admitting such individuals. And although immigrants generally receive more extensive vetting than nonimmigrants, such vetting is less reliable when the country from which someone seeks to emigrate exhibits significant gaps in its identity-management or information-sharing policies, or presents risks to the national security of the United States. For all but one of those 7 countries, therefore, I am restricting the entry of all immigrants.
 
 (iii) I am adopting a more tailored approach with respect to nonimmigrants, in accordance with the recommendations of the Secretary of Homeland Security. For some countries found to be "inadequate" with respect to the baseline described in subsection (c) of this section, I am restricting the entry of all nonimmigrants. For countries with certain mitigating factors, such as a willingness to cooperate or play a substantial role in combatting terrorism, I am restricting the entry only of certain categories of nonimmigrants, which will mitigate the security threats presented by their entry into the United States. In those cases in which future cooperation seems reasonably likely, and accounting for foreign policy, national security, and counterterrorism objectives, I have tailored the restrictions to encourage such improvements.
 
@@ -2984,11 +3210,7 @@ Section 1. <i>Policy and Purpose</i>. (a) It is the policy of the United States 
 
 Sec. 2. <i>Suspension of Entry for Nationals of Countries of Identified Concern</i>. The entry into the United States of nationals of the following countries is hereby suspended and limited, as follows, subject to categorical exceptions and case-by-case waivers, as described in sections 3 and 6 of this proclamation:
 
-(a) <i>Chad</i>.
-
-(i) The government of Chad is an important and valuable counterterrorism partner of the United States, and the United States Government looks forward to expanding that cooperation, including in the areas of immigration and border management. Chad has shown a clear willingness to improve in these areas. Nonetheless, Chad does not adequately share public-safety and terrorism-related information and fails to satisfy at least one key risk criterion. Additionally, several terrorist groups are active within Chad or in the surrounding region, including elements of Boko Haram, ISIS-West Africa, and al-Qa'ida in the Islamic Maghreb. Atthis time, additional information sharing to identify those foreign nationals applying for visas or seeking entry into the United States who represent national security and public-safety threats is necessary given the significant terrorism-related risk from this country.
-
-(ii) The entry into the United States of nationals of Chad, as immigrants, and as nonimmigrants on business (B–1), tourist (B–2), and business/tourist (B–1/B–2) visas, is hereby suspended.
+\[(a) Revoked by Proc. No. 9723, §1, Apr. 10, 2018, 83 F.R. 15939.\]
 
 (b) <i>Iran</i>.
 
@@ -3018,7 +3240,7 @@ Sec. 2. <i>Suspension of Entry for Nationals of Countries of Identified Concern<
 
 (i) Venezuela has adopted many of the baseline standards identified by the Secretary of Homeland Security and in section 1 of this proclamation, but its government is uncooperative in verifying whether its citizens pose national security or public-safety threats. Venezuela's government fails to share public-safety and terrorism-related information adequately, fails to satisfy at least one key risk criterion, and has been assessed to be not fully cooperative with respect to receiving its nationals subject to final orders of removal from the United States. There are, however, alternative sources for obtaining information to verify the citizenship and identity of nationals from Venezuela. As a result, the restrictions imposed by this proclamation focus on government officials of Venezuela who are responsible for the identified inadequacies.
 
-(ii) Notwithstanding section 3(b)(v) of this proclamation, the entry into the United States of officials of government agencies of Venezuela involved in screening and vetting procedures—including the Ministry of the Popular Power for Interior, Justice and Peace; the Administrative Service of Identification, Migration and Immigration; the Scientific, Penal and Criminal Investigation Service Corps; the Bolivarian National Intelligence Service; and the Ministry of the Popular Power for Foreign Relations—and their immediate family members, as nonimmigrants on business (B–1), tourist (B–2), and business/tourist (B–1/B–2) visas, is hereby suspended. Further, nationals of Venezuela who are visa holders should be subject to appropriate additional measures to ensure traveler information remains current.
+(ii) Notwithstanding section 3(b)(v) of this proclamation, the entry into the United States of officials of government agencies of Venezuela involved in screening and vetting procedures—including the Ministry of the Popular Power for Interior, Justice and Peace; the Administrative Service of Identification, Migration and Immigration; the Scientific, Penal and Criminal Investigation Service Corps; the Bolivarian National Intelligence Service; and the Ministry of the Popular Powerfor Foreign Relations—and their immediate family members, as nonimmigrants on business (B–1), tourist (B–2), and business/tourist (B–1/B–2) visas, is hereby suspended. Further, nationals of Venezuela who are visa holders should be subject to appropriate additional measures to ensure traveler information remains current.
 
 (g) <i>Yemen</i>.
 
@@ -3030,7 +3252,7 @@ Sec. 2. <i>Suspension of Entry for Nationals of Countries of Identified Concern<
 
 (i) The Secretary of Homeland Security's report of September 15, 2017, determined that Somalia satisfies the information-sharing requirements of the baseline described in section 1(c) of this proclamation. But several other considerations support imposing entry restrictions and limitations on Somalia. Somalia has significant identity-management deficiencies. For example, while Somalia issues an electronic passport, the United States and many other countries do not recognize it. A persistent terrorist threat also emanates from Somalia's territory. The United States Government has identified Somalia as a terrorist safe haven. Somalia stands apart from other countries in the degree to which its government lacks command and control of its territory, which greatly limits the effectiveness of its national capabilities in a variety of respects. Terrorists use under-governed areas in northern, central, and southern Somalia as safe havens from which to plan, facilitate, and conduct their operations. Somalia also remains a destination for individuals attempting to join terrorist groups that threaten the national security of the United States. The State Department's 2016 Country Reports on Terrorism observed that Somalia has not sufficiently degraded the ability of terrorist groups to plan and mount attacks from its territory. Further, despite having made significant progress toward formally federating its member states, and its willingness to fight terrorism, Somalia continues to struggle to provide the governance needed to limit terrorists' freedom of movement, access to resources, and capacity to operate. The government of Somalia's lack of territorial control also compromises Somalia's ability, already limited because of poor recordkeeping, to share information about its nationals who pose criminal or terrorist risks. As a result of these and other factors, Somalia presents special concerns that distinguish it from other countries.
 
-(ii) The entry into the United States of nationals of Somalia as immigrants is hereby suspended. Additionally, visa adjudications for nationals of Somalia and decisions regarding their entry as nonimmigrants should be subject to additional scrutiny to determine if applicants are connected to terrorist organizations orotherwise pose a threat to the national security or public safety of the United States.
+(ii) The entry into the United States of nationals of Somalia as immigrants is hereby suspended. Additionally, visa adjudications for nationals of Somalia and decisions regarding their entry as nonimmigrants should be subject to additional scrutiny to determine if applicants are connected to terrorist organizations or otherwise pose a threat to the national security or public safety of the United States.
 
 Sec. 3. <i>Scope and Implementation of Suspensions and Limitations</i>. (a) <i>Scope</i>. Subject to the exceptions set forth in subsection (b) of this section and any waiver under subsection (c) of this section, the suspensions of and limitations on entry pursuant to section 2 of this proclamation shall apply only to foreign nationals of the designated countries who:
 
@@ -3100,7 +3322,7 @@ Sec. 3. <i>Scope and Implementation of Suspensions and Limitations</i>. (a) <i>S
 
 &emsp;(J) the foreign national is traveling to the United States, at the request of a United States Government department or agency, for legitimate law enforcement, foreign policy, or national security purposes.
 
-Sec. 4. <i>Adjustments to and Removal of Suspensions and Limitations</i>. (a) The Secretary of Homeland Security shall, in consultation with the Secretary of State, devise a process to assess whether any suspensions and limitations imposed by section 2 of this proclamation should be continued, terminated, modified, or supplemented. The process shall account for whether countries have improved their identity-management and information-sharing protocols and procedures based on the criteria set forth in section 1 of this proclamationand the Secretary of Homeland Security's report of September 15, 2017. Within 180 days of the date of this proclamation, and every 180 days thereafter, the Secretary of Homeland Security, in consultation with the Secretary of State, the Attorney General, the Director of National Intelligence, and other appropriate heads of agencies, shall submit a report with recommendations to the President, through appropriate Assistants to the President, regarding the following:
+Sec. 4. <i>Adjustments to and Removal of Suspensions and Limitations</i>. (a) The Secretary of Homeland Security shall, in consultation with the Secretary of State, devise a process to assess whether any suspensions and limitations imposed by section 2 of this proclamation should be continued, terminated, modified, or supplemented. The process shall account for whether countries have improved their identity-management and information-sharing protocols and procedures based on the criteria set forth in section 1 of this proclamation and the Secretary of Homeland Security's report of September 15, 2017. Within 180 days of the date of this proclamation, and every 180 days thereafter, the Secretary of Homeland Security, in consultation with the Secretary of State, the Attorney General, the Director of National Intelligence, and other appropriate heads of agencies, shall submit a report with recommendations to the President, through appropriate Assistants to the President, regarding the following:
 
 (i) the interests of the United States, if any, that continue to require the suspension of, or limitations on, the entry on certain classes of nationals of countries identified in section 2 of this proclamation and whether the restrictions and limitations imposed by section 2 of this proclamation should be continued, modified, terminated, or supplemented; and
 
@@ -3124,7 +3346,7 @@ Sec. 5. <i>Reports on Screening and Vetting Procedures</i>. (a) The Secretary of
 
 Sec. 6. <i>Enforcement</i>. (a) The Secretary of State and the Secretary of Homeland Security shall consult with appropriate domestic and international partners, including countries and organizations, to ensure efficient, effective, and appropriate implementation of this proclamation.
 
-(b) In implementing this proclamation, the Secretary of State and the Secretary of Homeland Security shall comply with all applicable laws and regulations, including those that provide an opportunity for individuals to enter the United States on the basis of a credible claim of fear of persecution or torture.
+(b) In implementing this proclamation, the Secretary of State and the Secretary of Homeland Security shallcomply with all applicable laws and regulations, including those that provide an opportunity for individuals to enter the United States on the basis of a credible claim of fear of persecution or torture.
 
 (c) No immigrant or nonimmigrant visa issued before the applicable effective date under section 7 of this proclamation shall be revoked pursuant to this proclamation.
 
@@ -3242,7 +3464,7 @@ Sec. 3. <i>Scope.</i>
 
 (b) Nothing in this order shall be construed to make reviewable in any judicial or administrative proceeding, or otherwise, any action, omission, or matter that otherwise would not be reviewable.
 
-(c) This order is intended only to improve the management of the executive branch. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity or otherwise against the United States, its departments, agencies, entities, instrumentalities, officers, employees, or any other person.
+(c) This order is intended only to improve the management of the executive branch. This order is not intended to, and does not, create any right or benefit,substantive or procedural, enforceable at law or equity or otherwise against the United States, its departments, agencies, entities, instrumentalities, officers, employees, or any other person.
 
 (d) Any agency assigned any duties by this order may use the provisions of the Economy Act, 31 U.S.C. 1535 and 1536, to carry out such duties, to the extent permitted by such Act.
 
@@ -3264,7 +3486,7 @@ Section 1. <i>Policy and Purpose</i>. (a) It is the policy of the United States 
 
 (b) On January 27, 2017, to implement this policy, I issued Executive Order 13769 (Protecting the Nation from Foreign Terrorist Entry into the United States).
 
-(i) Among other actions, Executive Order 13769 suspended for 90 days the entry of certain aliens from seven countries: Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen. These are countries that had already been identified as presenting heightened concerns about terrorism and travel to the United States. Specifically, the suspension applied to countries referred to in, or designated under, section 217(a)(12) of the INA, 8 U.S.C. 1187(a)(12), in which Congress restricted use of the Visa Waiver Program for nationalsof, and aliens recently present in, (A) Iraq or Syria, (B) any country designated by the Secretary of State as a state sponsor of terrorism (currently Iran, Syria, and Sudan), and (C) any other country designated as a country of concern by the Secretary of Homeland Security, in consultation with the Secretary of State and the Director of National Intelligence. In 2016, the Secretary of Homeland Security designated Libya, Somalia, and Yemen as additional countries of concern for travel purposes, based on consideration of three statutory factors related to terrorism and national security: "(I) whether the presence of an alien in the country or area increases the likelihood that the alien is a credible threat to the national security of the United States; (II) whether a foreign terrorist organization has a significant presence in the country or area; and (III) whether the country or area is a safe haven for terrorists." 8 U.S.C. 1187(a)(12)(D)(ii). Additionally, Members of Congress have expressed concerns about screening and vetting procedures following recent terrorist attacks in this country and in Europe.
+(i) Among other actions, Executive Order 13769 suspended for 90 days the entry of certain aliens from seven countries: Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen. These are countries that had already been identified as presenting heightened concerns about terrorism and travel to the United States. Specifically, the suspension applied to countries referred to in, or designated under, section 217(a)(12) of the INA, 8 U.S.C. 1187(a)(12), in which Congress restricted use of the Visa Waiver Program for nationals of, and aliens recently present in, (A) Iraq or Syria, (B) any country designated by the Secretary of State as a state sponsor of terrorism (currently Iran, Syria, and Sudan), and (C) any other country designated as a country of concern by the Secretary of Homeland Security, in consultation with the Secretary of State and the Director of National Intelligence. In 2016, the Secretary of Homeland Security designated Libya, Somalia, and Yemen as additional countries of concern for travel purposes, based on consideration of three statutory factors related to terrorism and national security: "(I) whether the presence of an alien in the country or area increases the likelihood that the alien is a credible threat to the national security of the United States; (II) whether a foreign terrorist organization has a significant presence in the country or area; and (III) whether the country or area is a safe haven for terrorists." 8 U.S.C. 1187(a)(12)(D)(ii). Additionally, Members of Congress have expressed concerns about screening and vetting procedures following recent terrorist attacks in this country and in Europe.
 
 (ii) In ordering the temporary suspension of entry described in subsection (b)(i) of this section, I exercised my authority under Article II of the Constitution and under section 212(f) of the INA, which provides in relevant part: "Whenever the President finds that the entry of any aliens or of any class of aliens into the United States would be detrimental to the interests of the United States, he may by proclamation, and for such period as he shall deem necessary, suspend the entry of all aliens or any class of aliens as immigrants or nonimmigrants, or impose on the entry of aliens any restrictions he may deem to be appropriate." 8 U.S.C. 1182(f). Under these authorities, I determined that, for a brief period of 90 days, while existing screening and vetting procedures were under review, the entry into the United States of certain aliens from the seven identified countries—each afflicted by terrorism in a manner that compromised the ability of the United States to rely on normal decision-making procedures about travel to the United States—would be detrimental to the interests of the United States. Nonetheless, I permitted the Secretary of State and the Secretary of Homeland Security to grant case-by-case waivers when they determined that it was in the national interest to do so.
 
@@ -3274,7 +3496,7 @@ Section 1. <i>Policy and Purpose</i>. (a) It is the policy of the United States 
 
 (c) The implementation of Executive Order 13769 has been delayed by litigation. Most significantly, enforcement of critical provisions of that order has been temporarily halted by court orders that apply nationwide and extend even to foreign nationals with no prior or substantial connection to the United States. On February 9, 2017, the United States Court of Appeals for the Ninth Circuit declined to stay or narrow one such order pending the outcome of further judicial proceedings, while noting that the "political branches are far better equipped to make appropriate distinctions" about who should be covered by a suspension of entry or of refugee admissions.
 
-(d) Nationals from the countries previously identified under section 217(a)(12) of the INA warrant additional scrutiny in connection with our immigration policies because the conditions in these countries present heightened threats. Each of these countries is a state sponsor of terrorism, has been significantly compromised by terrorist organizations, or contains active conflict zones. Any of these circumstances diminishes the foreign government's willingness or ability to share or validate important information about individuals seeking to travel to the United States. Moreover, the significant presence in each of these countries of terrorist organizations, their members, and others exposed to those organizations increases the chance that conditions will be exploited to enable terrorist operatives or sympathizers to travel to the United States. Finally, once foreign nationals from these countries are admitted to the United States, it is often difficult to remove them, because many of these countries typically delay issuing, or refuse to issue, travel documents.
+(d) Nationals from the countries previously identified under section 217(a)(12) of the INA warrant additional scrutiny in connection with our immigration policies because the conditions in these countries present heightened threats. Each of these countries is a state sponsor of terrorism, has been significantly compromised by terrorist organizations, or contains active conflict zones. Any of these circumstances diminishes the foreign government's willingness or ability to share or validate important information about individuals seeking to travel to the United States. Moreover, thesignificant presence in each of these countries of terrorist organizations, their members, and others exposed to those organizations increases the chance that conditions will be exploited to enable terrorist operatives or sympathizers to travel to the United States. Finally, once foreign nationals from these countries are admitted to the United States, it is often difficult to remove them, because many of these countries typically delay issuing, or refuse to issue, travel documents.
 
 (e) The following are brief descriptions, taken in part from the Department of State's <i>Country Reports on Terrorism 2015</i> (June 2016), of some of the conditions in six of the previously designated countries that demonstrate why their nationals continue to present heightened risks to the security of the United States:
 
@@ -3286,7 +3508,7 @@ Section 1. <i>Policy and Purpose</i>. (a) It is the policy of the United States 
 
 (iv) <i>Sudan</i>. Sudan has been designated as a state sponsor of terrorism since 1993 because of its support for international terrorist groups, including Hizballah and Hamas. Historically, Sudan provided safe havens for al-Qa'ida and other terrorist groups to meet and train. Although Sudan's support to al-Qa'ida has ceased and it provides some cooperation with the United States' counterterrorism efforts, elements of core al-Qa'ida and ISIS-linked terrorist groups remain active in the country.
 
-(v) <i>Syria</i>. Syria has been designated as a state sponsor of terrorism since 1979. The Syrian government is engaged in an ongoing military conflict against ISIS and others for control of portions of the country. At the same time, Syria continues to support other terrorist groups. It has allowed or encouraged extremists to pass through its territory to enter Iraq. ISIS continues to attract foreign fighters to Syria and to use its base in Syria to plot or encourage attacks around the globe, including in the United States. The United States Embassy in Syria suspended its operations in 2012. Syriadoes not cooperate with the United States' counterterrorism efforts.
+(v) <i>Syria</i>. Syria has been designated as a state sponsor of terrorism since 1979. The Syrian government is engaged in an ongoing military conflict against ISIS and others for control of portions of the country. At the same time, Syria continues to support other terrorist groups. It has allowed or encouraged extremists to pass through its territory to enter Iraq. ISIS continues to attract foreign fighters to Syria and to use its base in Syria to plot or encourage attacks around the globe, including in the United States. The United States Embassy in Syria suspended its operations in 2012. Syria does not cooperate with the United States' counterterrorism efforts.
 
 (vi) <i>Yemen</i>. Yemen is the site of an ongoing conflict between the incumbent government and the Houthi-led opposition. Both ISIS and a second group, al-Qa'ida in the Arabian Peninsula (AQAP), have exploited this conflict to expand their presence in Yemen and to carry out hundreds of attacks. Weapons and other materials smuggled across Yemen's porous borders are used to finance AQAP and other terrorist activities. In 2015, the United States Embassy in Yemen suspended its operations, and embassy staff were relocated out of the country. Yemen has been supportive of, but has not been able to cooperate fully with, the United States in counterterrorism efforts.
 
@@ -3344,7 +3566,7 @@ Sec. 3. <i>Scope and Implementation of Suspension</i>.
 
 (iii) the foreign national seeks to enter the United States for significant business or professional obligations and the denial of entry during the suspension period would impair those obligations;
 
-(iv) the foreign national seeks to enter the United States to visit or reside with a close family member (e.g., a spouse, child, or parent) who is a United States citizen, lawful permanent resident, or alien lawfully admitted on a valid nonimmigrant visa, and the denial of entry during the suspension period would cause undue hardship;
+(iv) the foreign national seeks to enter the United States to visit or reside with a close family member (e.g., a spouse, child, or parent) who is a United Statescitizen, lawful permanent resident, or alien lawfully admitted on a valid nonimmigrant visa, and the denial of entry during the suspension period would cause undue hardship;
 
 (v) the foreign national is an infant, a young child or adoptee, an individual needing urgent medical care, or someone whose entry is otherwise justified by the special circumstances of the case;
 
@@ -3358,7 +3580,7 @@ Sec. 3. <i>Scope and Implementation of Suspension</i>.
 
 Sec. 4. <i>Additional Inquiries Related to Nationals of Iraq</i>. An application by any Iraqi national for a visa, admission, or other immigration benefit should be subjected to thorough review, including, as appropriate, consultation with a designee of the Secretary of Defense and use of the additional information that has been obtained in the context of the close U.S.-Iraqi security partnership, since Executive Order 13769 was issued, concerning individuals suspected of ties to ISIS or other terrorist organizations and individuals coming from territories controlled or formerly controlled by ISIS. Such review shall include consideration of whether the applicant has connections with ISIS or other terrorist organizations or with territory that is or has been under the dominant influence of ISIS, as well as any other information bearing on whether the applicant may be a threat to commit acts of terrorism or otherwise threaten the national security or public safety of the United States.
 
-Sec. 5. <i>Implementing Uniform Screening and Vetting Standards for All Immigration Programs</i>. (a) The Secretary of State, the Attorney General, the Secretary of Homeland Security, and the Director of National Intelligence shall implement a program, as part of the process for adjudications, to identify individuals who seek to enter the United States on a fraudulent basis, who support terrorism, violent extremism, acts of violence toward any group or class of people within the United States, or who present a risk of causing harm subsequent to their entry. This program shall include the development of a uniform baseline for screening and vetting standards and procedures, such as in-person interviews; a database of identity documents proffered by applicants to ensure that duplicate documents are not used by multiple applicants; amended application forms that include questions aimed at identifying fraudulent answers and malicious intent; a mechanism to ensure that applicants are who they claim to be; a mechanism to assess whether applicants may commit, aid, or support any kind of violent, criminal, or terrorist acts after entering the United States; and any other appropriate means for ensuring the proper collection of all information necessary for a rigorous evaluation ofall grounds of inadmissibility or grounds for the denial of other immigration benefits.
+Sec. 5. <i>Implementing Uniform Screening and Vetting Standards for All Immigration Programs</i>. (a) The Secretary of State, the Attorney General, the Secretary of Homeland Security, and the Director of National Intelligence shall implement a program, as part of the process for adjudications, to identify individuals who seek to enter the United States on a fraudulent basis, who support terrorism, violent extremism, acts of violence toward any group or class of people within the United States, or who present a risk of causing harm subsequent to their entry. This program shall include the development of a uniform baseline for screening and vetting standards and procedures, such as in-person interviews; a database of identity documents proffered by applicants to ensure that duplicate documents are not used by multiple applicants; amended application forms that include questions aimed at identifying fraudulent answers and malicious intent; a mechanism to ensure that applicants are who they claim to be; a mechanism to assess whether applicants may commit, aid, or support any kind of violent, criminal, or terrorist acts after entering the United States; and any other appropriate means for ensuring the proper collection of all information necessary for a rigorous evaluation of all grounds of inadmissibility or grounds for the denial of other immigration benefits.
 
 (b) The Secretary of Homeland Security, in conjunction with the Secretary of State, the Attorney General, and the Director of National Intelligence, shall submit to the President an initial report on the progress of the program described in subsection (a) of this section within 60 days of the effective date of this order, a second report within 100 days of the effective date of this order, and a third report within 200 days of the effective date of this order.
 
@@ -3374,7 +3596,7 @@ Sec. 7. <i>Rescission of Exercise of Authority Relating to the Terrorism Grounds
 
 Sec. 8. <i>Expedited Completion of the Biometric Entry-Exit Tracking System</i>. (a) The Secretary of Homeland Security shall expedite the completion and implementation of a biometric entry-exit tracking system for in-scope travelers to the United States, as recommended by the National Commission on Terrorist Attacks Upon the United States.
 
-(b) The Secretary of Homeland Security shall submit to the President periodic reports on the progress of the directive set forth in subsection (a) of this section. The initial report shall be submitted within 100 days of the effective date of this order, a second report shall be submitted within 200 days of the effective date of this order, and a third report shall be submitted within 365 days of the effective date of this order. The Secretary of Homeland Security shall submit further reports every 180 days thereafter until the system is fully deployed and operational.
+(b) The Secretary of Homeland Security shall submit to the President periodic reports on the progress of thedirective set forth in subsection (a) of this section. The initial report shall be submitted within 100 days of the effective date of this order, a second report shall be submitted within 200 days of the effective date of this order, and a third report shall be submitted within 365 days of the effective date of this order. The Secretary of Homeland Security shall submit further reports every 180 days thereafter until the system is fully deployed and operational.
 
 Sec. 9. <i>Visa Interview Security</i>. (a) The Secretary of State shall immediately suspend the Visa Interview Waiver Program and ensure compliance with section 222 of the INA, 8 U.S.C. 1202, which requires that all individuals seeking a nonimmigrant visa undergo an in-person interview, subject to specific statutory exceptions. This suspension shall not apply to any foreign national traveling on a diplomatic or diplomatic-type visa, North Atlantic Treaty Organization visa, C–2 visa for travel to the United Nations, or G–1, G–2, G–3, or G–4 visa; traveling for purposes related to an international organization designated under the IOIA; or traveling for purposes of conducting meetings or business with the United States Government.
 
@@ -3446,7 +3668,7 @@ Ex. Ord. No. 13815, Oct. 24, 2017, 82 F.R. 50055, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Immigration and Nationality Act (INA), 8 U.S.C. 1101 <i>et seq</i>., and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. (a) It is the policy of the United States to protect its people from terrorist attacks andother public-safety threats. Screening and vetting procedures associated with determining which foreign nationals may enter the United States, including through the U.S. Refugee Admissions Program (USRAP), play a critical role in implementing that policy. Those procedures enhance our ability to detect foreign nationals who might commit, aid, or support acts of terrorism, or otherwise pose a threat to the national security or public safety of the United States, and they bolster our efforts to prevent such individuals from entering the country.
+Section 1. <i>Policy</i>. (a) It is the policy of the United States to protect its people from terrorist attacks and other public-safety threats. Screening and vetting procedures associated with determining which foreign nationals may enter the United States, including through the U.S. Refugee Admissions Program (USRAP), play a critical role in implementing that policy. Those procedures enhance our ability to detect foreign nationals who might commit, aid, or support acts of terrorism, or otherwise pose a threat to the national security or public safety of the United States, and they bolster our efforts to prevent such individuals from entering the country.
 
 (b) Section 5 of Executive Order 13780 of March 6, 2017 (Protecting the Nation from Foreign Terrorist Entry into the United States), directed the Secretary of State, the Attorney General, the Secretary of Homeland Security, and the Director of National Intelligence to develop a uniform baseline for screening and vetting standards and procedures applicable to all travelers who seek to enter the United States. A working group was established to satisfy this directive.
 
@@ -3460,7 +3682,7 @@ Section 1. <i>Policy</i>. (a) It is the policy of the United States to protect i
 
 (g) The entry restrictions and limitations in Proclamation 9645 apply to the immigrant and nonimmigrant visa application and adjudication processes, which foreign nationals use to seek authorization to travel to the United States and apply for admission. Pursuant to section 3(b)(iii) of Proclamation 9645, however, those restrictions and limitations do not apply to those who seek to enter the United States through the USRAP.
 
-(h) Foreign nationals who seek to enter the United States with an immigrant or nonimmigrant visa stand in a different position from that of refugees who are considered for entry into this country under the USRAP. For a variety of reasons, including substantive differences in the risk factors presented by the refugee population and in the quality of information available to screen and vet refugees, the refugee screening and vetting process is different from the process that applies to most visa applicants. At the same time, the entry of certain refugees into the United States through the USRAP poses unique security risks and considerable domestic challenges that require the application of substantial resources.
+(h) Foreign nationals who seek to enter the United States with an immigrant or nonimmigrant visa stand in a different position from that of refugees who areconsidered for entry into this country under the USRAP. For a variety of reasons, including substantive differences in the risk factors presented by the refugee population and in the quality of information available to screen and vet refugees, the refugee screening and vetting process is different from the process that applies to most visa applicants. At the same time, the entry of certain refugees into the United States through the USRAP poses unique security risks and considerable domestic challenges that require the application of substantial resources.
 
 Sec. 2. <i>Resumption of the U.S. Refugee Admissions Program</i>. (a) Section 6(a) of Executive Order 13780 provided for a temporary, 120-day review of the USRAP application and adjudication process and an accompanying worldwide suspension of refugee travel to the United States and of application decisions under the USRAP. That 120-day period expires on October 24, 2017. Section 6(a) further provided that refugee travel and application decisions could resume after 120 days for stateless persons and for the nationals of countries for which the Secretary of State, the Secretary of Homeland Security, and the Director of National Intelligence jointly determine that the additional procedures identified through the USRAP review process are adequate to ensure the security and welfare of the United States. The Secretary of State, the Secretary of Homeland Security, and the Director of National Intelligence have advised that the improvements to the USRAP vetting process are generally adequate to ensure the security and welfare of the United States, that the Secretary of State and Secretary of Homeland Security may resume that program, and that they will apply special measures to certain categories of refugees whose entry continues to pose potential threats to the security and welfare of the United States.
 
@@ -3470,7 +3692,7 @@ Sec. 2. <i>Resumption of the U.S. Refugee Admissions Program</i>. (a) Section 6(
 
 Sec. 3. <i>Addressing the Risks Presented by Certain Categories of Refugees</i>. (a) Based on the considerations outlined above, including the special measures referred to in subsection (a) of section 2 of this order, Presidential action to suspend the entry of refugees under the USRAP is not needed at this time to protect the security and interests of the United States and its people. The Secretary of State and the Secretary of Homeland Security, however, shall continue to assess and address any risks posed by particular refugees as follows:
 
-(i) The Secretary of State and the Secretary of Homeland Security shall coordinate to assess any risks to the security and welfare of the United States that may be presented by the entry into the United States through the USRAP of stateless persons and foreign nationals. Under section 207(c) and applicable portions ofsection 212(a) of the INA, 8 U.S.C. 1157(c) and 1182(a), section 402(4) of the Homeland Security Act of 2002, 6 U.S.C. 202(4), and other applicable authorities, the Secretary of Homeland Security, in consultation with the Secretary of State, shall determine, as appropriate and consistent with applicable law, whether any actions should be taken to address the risks to the security and welfare of the United States presented by permitting any category of refugees to enter this country, and, if so, what those actions should be. The Secretary of State and the Secretary of Homeland Security shall administer the USRAP consistent with those determinations, and in consultation with the Attorney General and the Director of National Intelligence.
+(i) The Secretary of State and the Secretary of Homeland Security shall coordinate to assess any risks to the security and welfare of the United States that may be presented by the entry into the United States through the USRAP of stateless persons and foreign nationals. Under section 207(c) and applicable portions of section 212(a) of the INA, 8 U.S.C. 1157(c) and 1182(a), section 402(4) of the Homeland Security Act of 2002, 6 U.S.C. 202(4), and other applicable authorities, the Secretary of Homeland Security, in consultation with the Secretary of State, shall determine, as appropriate and consistent with applicable law, whether any actions should be taken to address the risks to the security and welfare of the United States presented by permitting any category of refugees to enter this country, and, if so, what those actions should be. The Secretary of State and the Secretary of Homeland Security shall administer the USRAP consistent with those determinations, and in consultation with the Attorney General and the Director of National Intelligence.
 
 (ii) Within 90 days of the date of this order and annually thereafter, the Secretary of Homeland Security, in consultation with the Secretary of State and the Director of National Intelligence, shall determine, as appropriate and consistent with applicable law, whether any actions taken to address the risks to the security and welfare of the United States presented by permitting any category of refugees to enter this country should be modified or terminated, and, if so, what those modifications or terminations should be. If the Secretary of Homeland Security, in consultation with the Secretary of State, determines, at any time, that any actions taken pursuant to section 3(a)(i) should be modified or terminated, the Secretary of Homeland Security may modify or terminate those actions accordingly. The Secretary of Homeland Security and the Secretary of State shall administer the USRAP consistent with the determinations made under this subsection, and in consultation with the Attorney General and the Director of National Intelligence.
 
@@ -3502,7 +3724,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 With respect to the functions delegated by this order, all actions taken after April 16, 1999, for or on behalf of the President that would have been valid if taken pursuant to this memorandum are ratified.
 
-This memorandum is not intended to create, and should not be construed to create, any right or benefit, substantive or procedural, legally enforceable by any party against the United States, its agencies or instrumentalities, officers, employees, or any other person, or to require any procedures to determine whether a person is a refugee.
+This memorandum is not intended to create, and should not be construed to create, any right or benefit, substantive or procedural, legally enforceable by anyparty against the United States, its agencies or instrumentalities, officers, employees, or any other person, or to require any procedures to determine whether a person is a refugee.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

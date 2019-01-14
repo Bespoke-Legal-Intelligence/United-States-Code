@@ -8,7 +8,7 @@ In General.—The Secretary of Defense shall promptly submit to the congressiona
 
 Procedures.—(1) The Secretary of Defense shall establish and submit to the congressional defense committees procedures for complying with the requirements of subsection (a) consistent with the national security of the United States and the protection of operational integrity. The Secretary shall promptly notify the congressional defense committees in writing of any changes to such procedures at least 14 days prior to the adoption of any such changes.
 
-(2) The congressional defense committees shall ensure that committee procedures designed toprotect from unauthorized disclosure classified information relating to national security of the United States are sufficient to protect the information that is submitted to the committees pursuant to this section.
+(2) The congressional defense committees shall ensure that committee procedures designed to protect from unauthorized disclosure classified information relating to national security of the United States are sufficient to protect the information that is submitted to the committees pursuant to this section.
 
 (3) In the event of an unauthorized disclosure of a sensitive military operation covered by this section, the Secretary shall ensure, to the maximum extent practicable, that the congressional defense committees are notified immediately of the sensitive military operation concerned. The notification under this paragraph may be verbal or written, but in the event of a verbal notification a written notification shall be provided by not later than 48 hours after the provision of the verbal notification.
 
@@ -18,29 +18,43 @@ Briefing Requirement.—The Secretary of Defense shall periodically brief the co
 
 (d)
 
-Sensitive Military Operation Defined.—The term "sensitive military operation" means the following:
+Sensitive Military Operation Defined.—(1) Except as provided in paragraph (2), in this section, the term "sensitive military operation" means—
 
-&emsp;(1) A lethal operation or capture operation—
+&emsp;(A) a lethal operation or capture operation conducted by the armed forces or conducted by a foreign partner in coordination with the armed forces that targets a specific individual or individuals; or
 
-&emsp;&emsp;(A) conducted by the armed forces outside a declared theater of active armed conflict; or
+&emsp;(B) an operation conducted by the armed forces in self-defense or in defense of foreign partners, including during a cooperative operation.
 
-&emsp;&emsp;(B) conducted by a foreign partner in coordination with the armed forces that targets a specific individual or individuals.
-
-&emsp;(2) An operation conducted by the armed forces outside a declared theater of active armed conflict in self-defense or in defense of foreign partners, including during a cooperative operation.
+(2) For purposes of this section, the term "sensitive military operation" does not include any operation conducted within Afghanistan, Syria, or Iraq.
 
 (e)
 
 Rule of Construction.—Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution (50 U.S.C. 1541 et seq.), the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note), or any requirement under the National Security Act of 1947 (50 U.S.C. 3001 et seq.).
 
-(Added Pub. L. 113–66, div. A, title X, §1041(a)(1), Dec. 26, 2013, 127 Stat. 856; amended Pub. L. 114–92, div. A, title X, §1043, Nov. 25, 2015, 129 Stat. 977; Pub. L. 114–328, div. A, title X, §1036(a)–(f)(1), Dec. 23, 2016, 130 Stat. 2391, 2392; Pub. L. 115–91, div. A, title X, §1081(a)(6), Dec. 12, 2017, 131 Stat. 1594.)
+(f)
+
+Collective Self-defense Notification Requirement.—Not later than 48 hours after the date on which a foreign partner force has been designated as eligible for the provision of collective self-defense by the armed forces for the purposes of subsection (d)(1)(B), the Secretary of Defense shall provide to the congressional defense committees notice in writing of such designation.
+
+(Added Pub. L. 113–66, div. A, title X, §1041(a)(1), Dec. 26, 2013, 127 Stat. 856; amended Pub. L. 114–92, div. A, title X, §1043, Nov. 25, 2015, 129 Stat. 977; Pub. L. 114–328, div. A, title X, §1036(a)–(f)(1), Dec. 23, 2016, 130 Stat. 2391, 2392; Pub. L. 115–91, div. A, title X, §1081(a)(6), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 115–232, div. A, title X, §1031(a), (b), Aug. 13, 2018, 132 Stat. 1953.)
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsecs. (c) and (e), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§3001 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsecs. (c) and (e), is act July 26, 1947, ch. 343, 61 Stat. 495,which is classified principally to chapter 44 (§3001 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 The War Powers Resolution, referred to in subsec. (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d). Pub. L. 115–232, §1031(a), amended subsec. (d) generally. Prior to amendment, text read as follows: "The term 'sensitive military operation' means the following:
+
+&emsp;"(1) A lethal operation or capture operation—
+
+&emsp;&emsp;"(A) conducted by the armed forces outside a declared theater of active armed conflict; or
+
+&emsp;&emsp;"(B) conducted by a foreign partner in coordination with the armed forces that targets a specific individual or individuals.
+
+&emsp;"(2) An operation conducted by the armed forces outside a declared theater of active armed conflict in self-defense or in defense of foreign partners, including during a cooperative operation."
+
+Subsec. (f). Pub. L. 115–232, §1031(b), added subsec. (f).
 
 <b>2017</b>—Subsec. (b)(1). Pub. L. 115–91 inserted period at end.
 

@@ -27,6 +27,7 @@
 | [3353\.](%C2%A7%2003353%20-%20Appraisal%20management%20company%20minimum%20requirements.md) | Appraisal management company minimum requirements. |
 | [3354\.](%C2%A7%2003354%20-%20Automated%20valuation%20models%20used%20to%20estimate%20collateral%20value%20for%20mortgage%20lending%20purposes.md) | Automated valuation models used to estimate collateral value for mortgage lending purposes. |
 | [3355\.](%C2%A7%2003355%20-%20Broker%20price%20opinions.md) | Broker price opinions. |
+| [3356\.](%C2%A7%2003356%20-%20Exemption%20from%20appraisals%20of%20real%20estate%20located%20in%20rural%20areas.md) | Exemption from appraisals of real estate located in rural areas. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -60,3 +61,4 @@
 - [&sect; 03353 - Appraisal management company minimum requirements](%C2%A7%2003353%20-%20Appraisal%20management%20company%20minimum%20requirements.md)
 - [&sect; 03354 - Automated valuation models used to estimate collateral value for mortgage lending purposes](%C2%A7%2003354%20-%20Automated%20valuation%20models%20used%20to%20estimate%20collateral%20value%20for%20mortgage%20lending%20purposes.md)
 - [&sect; 03355 - Broker price opinions](%C2%A7%2003355%20-%20Broker%20price%20opinions.md)
+- [&sect; 03356 - Exemption from appraisals of real estate located in rural areas](%C2%A7%2003356%20-%20Exemption%20from%20appraisals%20of%20real%20estate%20located%20in%20rural%20areas.md)

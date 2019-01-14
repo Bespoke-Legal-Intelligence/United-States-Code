@@ -170,7 +170,7 @@ Subsec. (g). Pub. L. 111–13, §2102(5), struck out ", and such Governor or ot
 
 Subsec. (i). Pub. L. 111–13, §2102(6), added subsec. (i).
 
-<b>1998</b>—Subsec. (d). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(28)(A)\], which directed amendment of the second sentence to read "private industry council established under the Job Training Partnership Act or", was not executed, to reflect the probable intent of Congress and subsequent amendment by Pub. L. 111–13, §2102(4).
+<b>1998</b>—Subsec. (d). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(28)(A)\], which directed amendment of the secondsentence to read "private industry council established under the Job Training Partnership Act or", was not executed, to reflect the probable intent of Congress and subsequent amendment by Pub. L. 111–13, §2102(4).
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(36)(A)\], substituted "Whenever feasible, such efforts shall be coordinated with an appropriate private industry council established under the Job Training Partnership Act or local workforce investment board established under section 2832 of title 29." for "Whenever feasible, such efforts shall be coordinated with an appropriate private industry council under the Job Training Partnership Act."
 
@@ -212,7 +212,7 @@ Pub. L. 103–82, §323(b)(2), (3), redesignated par. (5) as (4) and struck out 
 
 &emsp;&emsp;"(ii) the particular project or program to which the applicant prefers to be assigned."
 
-Subsec. (b)(5) to (7). Pub. L. 103–82, §323(b)(2), (3), redesignated pars. (5) and (7) as (4) and (6), respectively, and struck out former par. (6) which read as follows: "Completed applications received by the ACTIONAgency shall be forwarded to the regional ACTION office representing the State in which such applicant resides. The regional or State employees designated in subparagraphs (C) and (D) of paragraph (2) shall assist in evaluating such applications and, to the extent feasible and appropriate, interviewing applicants."
+Subsec. (b)(5) to (7). Pub. L. 103–82, §323(b)(2), (3), redesignated pars. (5) and (7) as (4) and (6), respectively, and struck out former par. (6) which read as follows: "Completed applications received by the ACTION Agency shall be forwarded to the regional ACTION office representing the State in which such applicant resides. The regional or State employees designated in subparagraphs (C) and (D) of paragraph (2) shall assist in evaluating such applications and, to the extent feasible and appropriate, interviewing applicants."
 
 Subsec. (c)(1). Pub. L. 103–82, §323(c)(1)(A), (B), in introductory provisions, substituted "personnel described in subsection (b)(2)(C)" for "regional or State employees designated in subparagraphs (C) and (D) of subsection (b)(2)" and "Such activities may include" for "Such activities shall include".
 
@@ -238,7 +238,7 @@ Subsec. (f). Pub. L. 101–204, §101(b)(1), (d)(2)(C), redesignated subsec. (e)
 
 Subsec. (g). Pub. L. 101–204, §101(b)(1), redesignated former subsec. (f) as (g).
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–551 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home communities or in nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program."
+<b>1986</b>—Subsec. (b). Pub. L. 99–551 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationallyrecruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home communities or in nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program."
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–288, §4(a)(1), inserted "in the local communities in which the volunteers were recruited" and inserted ", including work" in provisions before par. (1).
 
@@ -262,7 +262,7 @@ Subsec. (d). Pub. L. 96–143, §2(b), inserted "in a program or project" after 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set outas an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2009 Amendment
 

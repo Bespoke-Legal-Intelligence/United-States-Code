@@ -6,13 +6,13 @@ The Congress makes the following findings:
 
 &emsp;(1) Timber is essential to the United States.
 
-&emsp;(2) Forests, forest resources, and the forest environment are exhaustible natural resources that require efficient and effective conservation efforts.
+&emsp;(2) Forests, forest resources, and the forest environment are exhaustible natural resourcesthat require efficient and effective conservation efforts.
 
 &emsp;(3) In the interest of conserving those resources, the United States has set aside millions of acres of otherwise harvestable timberlands in the western United States, representing well over 100,000,000,000 board feet of otherwise harvestable timber.
 
 &emsp;(4) In recent years, administrative, statutory, or judicial action has been taken to set aside an increased amount of otherwise harvestable timberlands for conservation purposes.
 
-&emsp;(5) In the next few months and years, additional amounts of otherwise harvestable timberlands may be set aside for conservation purposes, pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], the NationalForest Management Act of 1976, or other expected statutory, administrative, and judicial actions.
+&emsp;(5) In the next few months and years, additional amounts of otherwise harvestable timberlands may be set aside for conservation purposes, pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], the National Forest Management Act of 1976, or other expected statutory, administrative, and judicial actions.
 
 &emsp;(6) There is evidence of a shortfall in the supply of unprocessed timber in the western United States.
 

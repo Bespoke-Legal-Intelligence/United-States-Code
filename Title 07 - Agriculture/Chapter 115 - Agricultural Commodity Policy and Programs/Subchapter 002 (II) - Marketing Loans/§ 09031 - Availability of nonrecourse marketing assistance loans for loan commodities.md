@@ -8,7 +8,7 @@ In this subchapter, the term "loan commodity" means wheat, corn, grain sorghum, 
 
 #### (1) In general
 
-&emsp;For each of the 2014 through 2018 crops of each loan commodity, the Secretary shall make available to producers on a farm nonrecourse marketing assistance loans for loan commodities produced on the farm.
+&emsp;For each of the 2014 through 2023 crops of each loan commodity, the Secretary shall make available to producers on a farm nonrecourse marketing assistance loans for loan commodities produced on the farm.
 
 #### (2) Terms and conditions
 
@@ -20,7 +20,7 @@ The producers on a farm shall be eligible for a marketing assistance loan under 
 
 #### (d) Compliance with conservation and wetlands requirements
 
-As a condition of the receipt of a marketing assistance loan under subsection (b), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.) and applicable wetland protection requirements under subtitle C of title XII of that Act (16 U.S.C. 3821 et seq.) during the term of the loan.
+As a condition of the receipt of a marketing assistance loan under subsection (b), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.) and applicable wetland protection requirementsunder subtitle C of title XII of that Act (16 U.S.C. 3821 et seq.) during the term of the loan.
 
 #### (e) Special rules for peanuts
 
@@ -66,9 +66,13 @@ As a condition of the receipt of a marketing assistance loan under subsection (b
 
 &emsp;The Secretary may implement any reimbursable agreements or provide for the payment of administrative expenses under this subsection only in a manner that is consistent with those activities in regard to other loan commodities.
 
-(Pub. L. 113–79, title I, §1201, Feb. 7, 2014, 128 Stat. 674.)
+(Pub. L. 113–79, title I, §1201, Feb. 7, 2014, 128 Stat. 674; Pub. L. 115–334, title I, §1201(a), Dec. 20, 2018, 132 Stat. 4509.)
 
 #### References in Text
 
 The Food Security Act of 1985, referred to in subsec. (d), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–334 substituted "2023" for "2018".
 

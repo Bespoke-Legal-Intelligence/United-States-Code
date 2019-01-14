@@ -64,7 +64,7 @@ In awarding grants under this section, the Secretary shall give priority to Stat
 
 #### (1) In general
 
-&emsp;A State educational agency receiving a grant under this section shall use not lessthan 95 percent of such grant funds to award subgrants to eligible entities, based on their needs assessment and a competitive application process.
+&emsp;A State educational agency receiving a grant under this section shall use not less than 95 percent of such grant funds to award subgrants to eligible entities, based on their needs assessment and a competitive application process.
 
 #### (2) Reservation
 

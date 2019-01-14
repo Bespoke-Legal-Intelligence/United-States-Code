@@ -24,7 +24,7 @@
 
 (4) There are authorized to be appropriated to the Director, to carry out the provisions of sections 7704 and 7705 <sup>1</sup> of this title, $1,281,000 for the fiscal year ending September 30, 1983.
 
-(5) There are authorized to be appropriated to the Director, to carry out the provisions of sections 7704 and 7705 <sup>1</sup> of this title, for the fiscal year ending September 30, 1984, $3,705,000, and for the fiscal year ending September 30, 1985, $6,096,000.
+(5) There are authorized to be appropriated to the Director, to carry out the provisions of sections 7704 and 7705 <sup>1</sup> of this title, for the fiscal year ending September 30, 1984, $3,705,000, andfor the fiscal year ending September 30, 1985, $6,096,000.
 
 (6) There are authorized to be appropriated to the Director, to carry out the provisions of sections 7704 and 7705 <sup>1</sup> of this title, for the fiscal year ending September 30, 1986, $5,596,000, and for the fiscal year ending September 30, 1987, $5,848,000.
 
@@ -38,11 +38,21 @@
 
 &emsp;(C) $22,280,000 for fiscal year 2007,
 
-&emsp;(D) $22,950,000 for fiscal year 2008, and
+&emsp;(D) $22,950,000 for fiscal year 2008,
 
 &emsp;(E) $23,640,000 for fiscal year 2009,
 
-> of which not less than 10 percent of available program funds actually appropriated shall be made available each such fiscal year for supporting the development of performance-based, cost-effective, and affordable design guidelines and methodologies in codes for buildings, structures, and lifelines.
+&emsp;(F) $8,758,000 for fiscal year 2019,
+
+&emsp;(G) $8,758,000 for fiscal year 2020,
+
+&emsp;(H) $8,758,000 for fiscal year 2021,
+
+&emsp;(I) $8,758,000 for fiscal year 2022, and
+
+&emsp;(J) $8,758,000 for fiscal year 2023,
+
+> of which not less than 10 percent of available program funds actually appropriated shall be made available each such fiscal year for supporting the development of performance-based, cost-effective, and affordable design guidelines and methodologies in codes for buildings, structures, and lifeline infrastructure.
 
 #### (b) United States Geological Survey
 
@@ -62,15 +72,25 @@
 
 (2) There are authorized to be appropriated to the United States Geological Survey for carrying out this chapter—
 
-&emsp;(A) $77,000,000 for fiscal year 2005, of which not less than $30,000,000 shall be made available for completion of the Advanced National Seismic Research and Monitoring System established under section 7707 of this title;
+&emsp;(A) $77,000,000 for fiscal year 2005, of which not less than $30,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title;
 
-&emsp;(B) $84,410,000 for fiscal year 2006, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic Research and Monitoring System established under section 7707 of this title;
+&emsp;(B) $84,410,000 for fiscal year 2006, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title;
 
-&emsp;(C) $85,860,000 for fiscal year 2007, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic Research and Monitoring System established under section 7707 of this title;
+&emsp;(C) $85,860,000 for fiscal year 2007, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title;
 
-&emsp;(D) $87,360,000 for fiscal year 2008, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic Research and Monitoring System established under section 7707 of this title; and
+&emsp;(D) $87,360,000 for fiscal year 2008, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title;
 
-&emsp;(E) $88,900,000 for fiscal year 2009, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic Research and Monitoring System established under section 7707 of this title.
+&emsp;(E) $88,900,000 for fiscal year 2009, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title;
+
+&emsp;(F) $83,403,000 for fiscal year 2019, of which not less than $30,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title; <sup>1</sup>
+
+&emsp;(G) $83,403,000 for fiscal year 2020, of which not less than $30,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title; <sup>1</sup>
+
+&emsp;(H) $83,403,000 for fiscal year 2021, of which not less than $30,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title; <sup>1</sup>
+
+&emsp;(I) $83,403,000 for fiscal year 2022, of which not less than $30,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title; <sup>1</sup> and
+
+&emsp;(J) $83,403,000 for fiscal year 2023, of which not less than $30,000,000 shall be made available for completion of the Advanced National Seismic System established under section 7707 of this title.<sup>1</sup>
 
 #### (c) National Science Foundation
 
@@ -84,13 +104,23 @@
 
 &emsp;(C) $40,310,000 for fiscal year 2007;
 
-&emsp;(D) $41,520,000 for fiscal year 2008; and
+&emsp;(D) $41,520,000 for fiscal year 2008;
 
-&emsp;(E) $42,770,000 for fiscal year 2009.
+&emsp;(E) $42,770,000 for fiscal year 2009;
+
+&emsp;(F) $54,000,000 for fiscal year 2019,
+
+&emsp;(G) $54,000,000 for fiscal year 2020,
+
+&emsp;(H) $54,000,000 for fiscal year 2021,
+
+&emsp;(I) $54,000,000 for fiscal year 2022, and
+
+&emsp;(J) $54,000,000 for fiscal year 2023.
 
 #### (d) National Institute of Standards and Technology
 
-(1) To enable the National Institute of Standards and Technology to carry out responsibilities that may be assigned to it under this chapter, there are authorized to be appropriated $425,000 for the fiscal year ending September 30, 1981; $425,000 for the fiscal year ending September 30, 1982; $475,000 for the fiscal year ending September 30, 1983; $475,000 for the fiscal year ending September 30, 1984; $498,750 for the fiscal year ending September 30, 1985 <sup>2</sup> $499,000 for the fiscal year ending September 30, 1986; $521,000 for the fiscal year ending September 30, 1987; $525,000 for the fiscal year ending September 30, 1988; $525,000 for the fiscal year ending September 30, 1989; $2,525,000 for the fiscal year ending September 30, 1990; $1,000,000 for the fiscal year ending September 30, 1991; $3,000,000 for the fiscal year ending September 30, 1992; and $4,750,000 for the fiscal year ending September 30, 1993. There are authorized to be appropriated, out of funds otherwise authorized to be appropriated tothe National Institute of Standards and Technology, $1,900,000 for the fiscal year ending September 30, 1995, $1,957,000 for the fiscal year ending September 30, 1996, $2,000,000 for the fiscal year ending September 30, 1998, $2,060,000 for the fiscal year ending September 30, 1999, $2,332,000 for fiscal year 2001, $2,431,000 for fiscal year 2002, and $2,534,300 for fiscal year 2003.
+(1) To enable the National Institute of Standards and Technology to carry out responsibilities that may be assigned to it under this chapter, there are authorized to be appropriated $425,000 for the fiscal year ending September 30, 1981; $425,000 for the fiscal year ending September 30, 1982; $475,000 for the fiscal year ending September 30, 1983; $475,000 for the fiscal year ending September 30, 1984; $498,750 for the fiscal year ending September 30, 1985 <sup>2</sup> $499,000 for the fiscal year ending September 30, 1986; $521,000 for the fiscal year ending September 30, 1987; $525,000 for the fiscal year ending September 30, 1988; $525,000 for the fiscal year ending September 30, 1989; $2,525,000 for the fiscal year ending September 30, 1990; $1,000,000 for the fiscal yearending September 30, 1991; $3,000,000 for the fiscal year ending September 30, 1992; and $4,750,000 for the fiscal year ending September 30, 1993. There are authorized to be appropriated, out of funds otherwise authorized to be appropriated to the National Institute of Standards and Technology, $1,900,000 for the fiscal year ending September 30, 1995, $1,957,000 for the fiscal year ending September 30, 1996, $2,000,000 for the fiscal year ending September 30, 1998, $2,060,000 for the fiscal year ending September 30, 1999, $2,332,000 for fiscal year 2001, $2,431,000 for fiscal year 2002, and $2,534,300 for fiscal year 2003.
 
 (2) There are authorized to be appropriated to the National Institute of Standards and Technology for carrying out this chapter—
 
@@ -100,13 +130,23 @@
 
 &emsp;(C) $12,100,000 for fiscal year 2007,
 
-&emsp;(D) $13,310,000 for fiscal year 2008, and
+&emsp;(D) $13,310,000 for fiscal year 2008,
 
 &emsp;(E) $14,640,000 for fiscal year 2009,
 
-> of which $2,000,000 shall be made available each such fiscal year for supporting the development of performance-based, cost-effective, and affordable codes for buildings, structures, and lifelines.
+&emsp;(F) $5,900,000 for fiscal year 2019,
 
-(Pub. L. 95–124, §12, formerly §7, Oct. 7, 1977, 91 Stat. 1102; Pub. L. 96–472, title I, §103, Oct. 19, 1980, 94 Stat. 2259; Pub. L. 97–80, title I, §101, Nov. 20, 1981, 95 Stat. 1081; Pub. L. 97–464, title I, §101, Jan. 12, 1983, 96 Stat. 2533; Pub. L. 98–241, title I, §101, Mar. 22, 1984, 98 Stat. 95; Pub. L. 99–105, §§1–4, Sept. 30, 1985, 99 Stat. 475; Pub. L. 100–252, §1, Feb. 29, 1988, 102 Stat. 18; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; renumbered §12 and amended Pub. L. 101–614, §§7(1), 12, Nov. 16, 1990, 104 Stat. 3236, 3240; Pub. L. 103–374, §1, Oct. 19, 1994, 108 Stat. 3492; Pub. L. 105–47, §1, Oct. 1, 1997, 111 Stat. 1159; Pub. L. 106–503, title II, §§202(a), (b), (d), (e), 203, Nov. 13, 2000, 114 Stat. 2304, 2305; Pub. L. 108–360, title I, §104(a), Oct. 25, 2004, 118 Stat. 1674; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+&emsp;(G) $5,900,000 for fiscal year 2020,
+
+&emsp;(H) $5,900,000 for fiscal year 2021,
+
+&emsp;(I) $5,900,000 for fiscal year 2022, and
+
+&emsp;(J) $5,900,000 for fiscal year 2023.<sup>4</sup>
+
+> of which $2,000,000 shall be made available each such fiscal year for supporting the development of performance-based, cost-effective, and affordable codes for buildings, structures, and lifeline infrastructure.
+
+(Pub. L. 95–124, §12, formerly §7, Oct. 7, 1977, 91 Stat. 1102; Pub. L. 96–472, title I, §103, Oct. 19, 1980, 94 Stat. 2259; Pub. L. 97–80, title I, §101, Nov. 20, 1981, 95 Stat. 1081; Pub. L. 97–464, title I, §101, Jan. 12, 1983, 96 Stat. 2533; Pub. L. 98–241, title I, §101, Mar. 22, 1984, 98 Stat. 95; Pub. L. 99–105, §§1–4, Sept. 30, 1985, 99 Stat. 475; Pub. L. 100–252, §1, Feb. 29, 1988, 102 Stat. 18; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; renumbered §12 and amended Pub. L. 101–614, §§7(1), 12, Nov. 16, 1990, 104 Stat. 3236, 3240; Pub. L. 103–374, §1, Oct. 19, 1994, 108 Stat. 3492; Pub. L. 105–47, §1, Oct. 1, 1997, 111 Stat. 1159; Pub. L. 106–503, title II, §§202(a), (b), (d), (e), 203, Nov. 13, 2000, 114 Stat. 2304, 2305; Pub. L. 108–360, title I, §104(a), Oct. 25, 2004, 118 Stat. 1674; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 115–307, §§2(c)(1)(B), 7, 8(b)(2), Dec. 11, 2018, 132 Stat. 4409, 4416, 4417.)
 
 #### References in Text
 
@@ -114,9 +154,25 @@ Section 7705 of this title, referred to in subsec. (a)(1) to (6), was repealed b
 
 This chapter, referred to in subsecs. (a)(8), (b)(2), (c)(2), and (d)(2), was in the original "this title", and was translated as reading "this Act", meaning Pub. L. 95–124, known as the Earthquake Hazards Reduction Act of 1977, to reflect the probable intent of Congress, because Pub. L. 95–124, which enacted this chapter, does not contain titles.
 
+Section 7707 of this title, referred to in subsec. (b)(2)(F) to (J), was so in the original, but probably should have been a reference to section 13 of Pub. L. 95–124, which is classified to section 7707 of this title.
+
 Section 101(d)(1)(B), (D), (e)(1), and (f)(1) of the National Science Foundation Authorization Act of 1988, referred to in subsec. (c)(1), is section 101(d)(1)(B), (D), (e)(1), and (f)(1) of Pub. L. 100–570, Oct. 31, 1988, 102 Stat. 2865, 2866, which is not classified to the Code.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(8). Pub. L. 115–307, §2(c)(1)(B), substituted "lifeline infrastructure" for "lifelines" in concluding provisions.
+
+Subsec. (a)(8)(F) to (J). Pub. L. 115–307, §7(1), added subpars. (F) to (J).
+
+Subsec. (b)(2). Pub. L. 115–307, §8(b)(2), substituted "Advanced National Seismic System" for "Advanced National Seismic Research and Monitoring System" in subpars. (A) to (E).
+
+Subsec. (b)(2)(F) to (J). Pub. L. 115–307, §7(2), added subpars. (F) to (J).
+
+Subsec. (c)(2)(F) to (J). Pub. L. 115–307, §7(3), added subpars. (F) to (J).
+
+Subsec. (d)(2). Pub. L. 115–307, §2(c)(1)(B), substituted "lifeline infrastructure" for "lifelines" in concluding provisions.
+
+Subsec. (d)(2)(F) to (J). Pub. L. 115–307, §7(4), added subpars. (F) to (J).
 
 <b>2004</b>—Subsec. (a)(8). Pub. L. 108–360, §104(a)(1), added par. (8).
 
@@ -138,7 +194,7 @@ Subsec. (d). Pub. L. 106–503, §202(e), struck out "and" after "1998," and sub
 
 Subsecs. (e), (f). Pub. L. 106–503, §203, struck out subsecs. (e) and (f), which related, respectively, to funds for certain required adjustments and availability of funds.
 
-<b>1997</b>—Subsec. (a)(7). Pub. L. 105–47, §1(1), struck out "and" after "1995," and inserted before period at end ", $20,900,000 for the fiscal year ending September 30, 1998, and $21,500,000 for the fiscal year ending September 30, 1999".
+<b>1997</b>—Subsec. (a)(7). Pub. L. 105–47, §1(1), struck out "and" after "1995," and inserted before period at end", $20,900,000 for the fiscal year ending September 30, 1998, and $21,500,000 for the fiscal year ending September 30, 1999".
 
 Subsec. (b). Pub. L. 105–47, §1(2), substituted "$50,676,000 for the fiscal year ending September 30, 1996; $52,565,000 for the fiscal year ending September 30, 1998, of which $3,800,000 shall be used for the Global Seismic Network operated by the Agency; and $54,052,000 for the fiscal year ending September 30, 1999, of which $3,800,000 shall be used for the Global Seismic Network operated by the Agency. Of the amounts authorized to be appropriated under this subsection, at least—
 
@@ -150,7 +206,7 @@ Subsec. (b). Pub. L. 105–47, §1(2), substituted "$50,676,000 for the fiscal y
 
 Subsec. (c). Pub. L. 105–47, §1(3), struck out "and" after "September 30, 1995," and inserted before period at end ", (3) $18,450,000 for engineering research and $11,920,000 for geosciences research for the fiscal year ending September 30, 1998, and (4) $19,000,000 for engineering research and $12,280,000 for geosciences research for the fiscal year ending September 30, 1999".
 
-Subsec. (d). Pub. L. 105–47, §1(4), struck out "and" after "September 30, 1995," and inserted before periodat end ", $2,000,000 for the fiscal year ending September 30, 1998, and $2,060,000 for the fiscal year ending September 30, 1999".
+Subsec. (d). Pub. L. 105–47, §1(4), struck out "and" after "September 30, 1995," and inserted before period at end ", $2,000,000 for the fiscal year ending September 30, 1998, and $2,060,000 for the fiscal year ending September 30, 1999".
 
 <b>1994</b>—Subsec. (a)(7). Pub. L. 103–374, §1(1), inserted "of the Agency" after "to the Director", struck out "and" after "September 30, 1992,", and inserted before period at end ", $25,000,000 for the fiscal year ending September 30, 1995, and $25,750,000 for the fiscal year ending September 30, 1996" after "September 30, 1993".
 
@@ -222,7 +278,7 @@ Subsec. (d). Pub. L. 96–472, §103(d), added subsec. (d).
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
@@ -231,4 +287,6 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
+
+<i><sup>4</sup></i><i> So in original. The period probably should be a comma.</i>
 

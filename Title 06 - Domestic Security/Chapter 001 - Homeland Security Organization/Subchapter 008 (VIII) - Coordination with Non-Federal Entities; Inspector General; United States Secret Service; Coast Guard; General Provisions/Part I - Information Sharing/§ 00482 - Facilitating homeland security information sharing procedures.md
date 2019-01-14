@@ -142,7 +142,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 Ex. Ord. No. 13311, July 29, 2003, 68 F.R. 45149, as amended by Ex. Ord. No. 13388, §8(a), Oct. 25, 2005, 70 F.R. 62025, provided:
 
-By the authority vested in me by the Constitution and the laws of the United States, including sections 892 and 893 of the Homeland Security Act of 2002 (the "Act") (6 U.S.C. 482 and 483) and section 301 of title 3, United States Code, it is hereby ordered as follows:
+By the authority vested in me by the Constitution and the laws of the United States, including sections892 and 893 of the Homeland Security Act of 2002 (the "Act") (6 U.S.C. 482 and 483) and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Assignment of Functions</i>. (a) The functions of the President under section 892 of the Act are assigned to the Secretary of Homeland Security (the "Secretary"), except the functions of the President under subsections 892(a)(2) and 892(b)(7).
 

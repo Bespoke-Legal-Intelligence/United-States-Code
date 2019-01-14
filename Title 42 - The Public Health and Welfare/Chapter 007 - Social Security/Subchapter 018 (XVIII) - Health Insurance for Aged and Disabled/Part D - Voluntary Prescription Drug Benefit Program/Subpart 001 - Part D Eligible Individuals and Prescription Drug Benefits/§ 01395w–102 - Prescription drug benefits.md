@@ -112,7 +112,11 @@ For purposes of this part and part C, the term "standard prescription drug cover
 
 &emsp;&emsp;&emsp;Except as provided in paragraph (4), the coverage for an applicable beneficiary (as defined in section 1395w–114a(g)(1) of this title) has coinsurance (for costs above the initial coverage limit under paragraph (3) and below the out-of-pocket threshold) for the negotiated price (as defined in section 1395w–114a(g)(6) of this title) of covered part D drugs that are applicable drugs under section 1395w–114a(g)(2) of this title that is—
 
-&emsp;&emsp;&emsp;&emsp;(I) equal to the difference between the applicable gap percentage (specified in clause (ii) for the year) and the discount percentage specified in section 1395w–114a(g)(4)(A) of this title for such applicable drugs; or
+&emsp;&emsp;&emsp;&emsp;(I) equal to the difference between—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the applicable gap percentage (specified in clause (ii) for the year); and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the discount percentage specified in section 1395w–114a(g)(4)(A) of this title for such applicable drugs (or, in the case of a year after 2018, 50 percent); or
 
 &emsp;&emsp;&emsp;&emsp;(II) actuarially equivalent (using processes and methods established under section 1395w–111(c) of this title) to an average expected payment of such percentage of such costs, for covered part D drugs that are applicable drugs under section 1395w–114a(g)(2) of this title.
 
@@ -126,11 +130,9 @@ For purposes of this part and part C, the term "standard prescription drug cover
 
 &emsp;&emsp;&emsp;&emsp;(III) 2017 is 90 percent;
 
-&emsp;&emsp;&emsp;&emsp;(IV) 2018 is 85 percent;
+&emsp;&emsp;&emsp;&emsp;(IV) 2018 is 85 percent; and
 
-&emsp;&emsp;&emsp;&emsp;(V) 2019 is 80 percent; and
-
-&emsp;&emsp;&emsp;&emsp;(VI) 2020 and each subsequent year is 75 percent.
+&emsp;&emsp;&emsp;&emsp;(V) 2019 and each subsequent year is 75 percent.
 
 #### (3) Initial coverage limit
 
@@ -172,7 +174,7 @@ For purposes of this part and part C, the term "standard prescription drug cover
 
 &emsp;&emsp;&emsp;&emsp;(II) for each of years 2007 through 2013, is equal to the amount specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved;
 
-&emsp;&emsp;&emsp;&emsp;(III) for 2014 and 2015, is equal to the amount specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved, minus 0.25 percentage point;
+&emsp;&emsp;&emsp;&emsp;(III) for 2014 and 2015, is equal to the amount specified in this subparagraph for the previous year, increased by theannual percentage increase described in paragraph (6) for the year involved, minus 0.25 percentage point;
 
 &emsp;&emsp;&emsp;&emsp;(IV) for each of years 2016 through 2019, is equal to the amount specified in this subparagraph for the previous year, increased by the lesser of—
 
@@ -222,7 +224,7 @@ For purposes of this part and part C, the term "standard prescription drug cover
 
 #### (E) Inclusion of costs of applicable drugs under medicare coverage gap discount program
 
-&emsp;&emsp;In applying subparagraph (A), incurred costs shall include the negotiated price (asdefined in paragraph (6) of section 1395w–114a(g) of this title) of an applicable drug (as defined in paragraph (2) of such section) of a manufacturer that is furnished to an applicable beneficiary (as defined in paragraph (1) of such section) under the Medicare coverage gap discount program under section 1395w–114a of this title, regardless of whether part of such costs were paid by a manufacturer under such program, except that incurred costs shall not include the portion of the negotiated price that represents the reduction in coinsurance resulting from the application of paragraph (2)(D).
+&emsp;&emsp;In applying subparagraph (A), incurred costs shall include the negotiated price (as defined in paragraph (6) of section 1395w–114a(g) of this title) of an applicable drug (as defined in paragraph (2) of such section) of a manufacturer that is furnished to an applicable beneficiary (as defined in paragraph (1) of such section) under the Medicare coverage gap discount program under section 1395w–114a of this title, regardless of whether part of such costs were paid by a manufacturer under such program, except that incurred costs shall not include the portion of the negotiated price that represents the reduction in coinsurance resulting from the application of paragraph (2)(D).
 
 #### (5) Construction
 
@@ -296,7 +298,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 &emsp;Except as provided in this subsection, for purposes of this part, the term "covered part D drug" means—
 
-&emsp;&emsp;(A) a drug that may be dispensed only upon a prescription and that is described in subparagraph (A)(i), (A)(ii), or (A)(iii) of section 1396r–8(k)(2) of this title; or
+&emsp;&emsp;(A) a drug that may be dispensed only upon a prescription and that is described insubparagraph (A)(i), (A)(ii), or (A)(iii) of section 1396r–8(k)(2) of this title; or
 
 &emsp;&emsp;(B) a biological product described in clauses (i) through (iii) of subparagraph (B) of such section or insulin described in subparagraph (C) of such section and medical supplies associated with the injection of insulin (as defined in regulations of the Secretary),
 
@@ -344,7 +346,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 &emsp;&emsp;For purposes of applying subparagraph (A)(ii), the Secretary shall revise the list of compendia described in section 1396r–8(g)(1)(B)(i) of this title as is appropriate for identifying medically accepted indications for drugs. Any such revision shall be done in a manner consistent with the process for revising compendia under section 1395x(t)(2)(B) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–2, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2075; amended Pub. L. 109–91, title I, §103(a), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–432, div. B, title II, §202(b), Dec. 20, 2006, 120 Stat. 2986; Pub. L. 110–275, title I, §§175(a), 182(a)(1), July 15, 2008, 122 Stat. 2581, 2583; Pub.L. 111–148, title III, §§3301(c)(1), 3314(a), 3315, Mar. 23, 2010, 124 Stat. 467, 478, 479; Pub. L. 111–152, title I, §1101(a)(2), (b)(3), (d), Mar. 30, 2010, 124 Stat. 1037–1039.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–2, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2075; amended Pub. L. 109–91, title I, §103(a), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–432, div. B, title II, §202(b), Dec. 20, 2006, 120 Stat. 2986; Pub. L. 110–275, title I, §§175(a), 182(a)(1), July 15, 2008, 122 Stat. 2581, 2583; Pub. L. 111–148, title III, §§3301(c)(1), 3314(a), 3315, Mar. 23, 2010, 124 Stat. 467, 478, 479; Pub. L. 111–152, title I, §1101(a)(2), (b)(3), (d), Mar. 30, 2010, 124 Stat. 1037–1039; Pub. L. 115–123, div. E, title XII, §53116(a), Feb. 9, 2018, 132 Stat. 306.)
 
 #### References in Text
 
@@ -353,6 +355,10 @@ Section 1101(d)(1) of the Health Care and Education Reconciliation Act of 2010, 
 The Public Health Service Act, referred to in subsec. (b)(4)(C)(iii)(IV), is act July 1, 1944, ch. 373, 58 Stat. 682. Part B of title XXVI of the Act is classified generally to part B (§300ff–21 et seq.) of subchapter XXIV of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(2)(D)(i)(I). Pub. L. 115–123, §53116(a)(1), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "equal to the difference between the applicable gap percentage (specified in clause (ii) for the year) and the discount percentage specified in section 1395w–114a(g)(4)(A) of this title for such applicable drugs; or".
+
+Subsec. (b)(2)(D)(ii)(V), (VI). Pub. L. 115–123, §53116(a)(2), substituted "2019" for "2020" in subcl. (VI), redesignated subcl. (VI) as (V), and struck out former subcl. (V) which read as follows: "2019 is 80 percent; and".
 
 <b>2010</b>—Subsec. (b)(2)(A). Pub. L. 111–152, §1101(b)(3)(A), substituted "Subject to subparagraphs (C) and (D), the coverage" for "The coverage".
 
@@ -428,7 +434,7 @@ Pub. L. 110–275, title I, §182(a)(2), July 15, 2008, 122 Stat. 2583, provided
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–91, title I, §103(c), Oct. 20, 2005, 119 Stat. 2092, provided that: "The amendment made by subsection (a)(1) \[amending this section\] shall take effect as if included in the enactment of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173) and the amendment made by subsection (a)(2) \[amending this section\] shall apply tocoverage for drugs dispensed on or after January 1, 2007."
+Pub. L. 109–91, title I, §103(c), Oct. 20, 2005, 119 Stat. 2092, provided that: "The amendment made by subsection (a)(1) \[amending this section\] shall take effect as if included in the enactment of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173) and the amendment made by subsection (a)(2) \[amending this section\] shall apply to coverage for drugs dispensed on or after January 1, 2007."
 
 #### Construction of 2010 Amendment
 
@@ -436,7 +442,7 @@ Pub. L. 111–152, title I, §1101(a)(2), Mar. 30, 2010, 124 Stat. 1037, provide
 
 #### Construction
 
-Pub. L. 109–91, title I, §103(b), Oct. 20, 2005, 119 Stat. 2092, provided that: "Nothing in this section \[amending this section and enacting provisions set out as a note under this section\] shall be construed as preventing a prescription drug plan or an MA–PD plan from providing coverage of drugs for the treatment of sexual or erectile dysfunction as supplemental prescription drug coverage under section 1860D–2(a)(2)(A)(ii) of the Social Security Act (42 U.S.C. 1395w–102(a)(2)(A)(ii))."
+Pub. L. 109–91, title I, §103(b), Oct. 20, 2005, 119 Stat. 2092, provided that: "Nothing in this section \[amending this section and enacting provisions set out as a note under this section\] shall be construed as preventing a prescription drug plan or an MA–PD plan from providing coverage of drugs for the treatment of sexual or erectile dysfunction as supplemental prescription drugcoverage under section 1860D–2(a)(2)(A)(ii) of the Social Security Act (42 U.S.C. 1395w–102(a)(2)(A)(ii))."
 
 #### Payment for Administration of Part D Vaccines in 2007
 

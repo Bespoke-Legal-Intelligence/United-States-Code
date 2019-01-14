@@ -14,7 +14,7 @@ From amounts made available for each fiscal year under subsection <sup>1</sup> 
 
 &emsp;&emsp;(A) $3,000,000, except for a fiscal year for which the amounts available are insufficient to allocate such amount to each State, the Secretary shall ratably reduce such amount for each State; and
 
-&emsp;&emsp;(B) with respect to any amounts remaining after the allocation under subparagraph (A), an amount that bears the same relationship to such total remaining amounts as the number of students aged 5 through 17 in the State (as determined by the Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
+&emsp;&emsp;(B) with respect to any amounts remaining after the allocation under subparagraph (A),an amount that bears the same relationship to such total remaining amounts as the number of students aged 5 through 17 in the State (as determined by the Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
 
 #### (b) Amounts above trigger amount
 

@@ -22,7 +22,7 @@ Congress declares that the relationship between the United States and Pakistan s
 
 &emsp;&emsp;(E) to support the strengthening of core curricula and the quality of schools across Pakistan, including madrassas, in order to improve the prospects for Pakistani children's futures and eliminate incitements to violence and intolerance;
 
-&emsp;&emsp;(F) to encourage and promote public-private partnerships in Pakistan in order tobolster ongoing development efforts and strengthen economic prospects, especially with respect to opportunities to build civic responsibility and professional skills of the people of Pakistan, including support for institutions of higher learning with international accreditation;
+&emsp;&emsp;(F) to encourage and promote public-private partnerships in Pakistan in order to bolster ongoing development efforts and strengthen economic prospects, especially with respect to opportunities to build civic responsibility and professional skills of the people of Pakistan, including support for institutions of higher learning with international accreditation;
 
 &emsp;&emsp;(G) to expand people-to-people engagement between the two countries, through increased educational, technical, and cultural exchanges and other methods;
 

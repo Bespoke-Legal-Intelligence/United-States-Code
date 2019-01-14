@@ -10,11 +10,11 @@
 
 (C) A purchaser holding twenty-seven million three hundred thousand or less board feet of net merchantable sawtimber as of January 1, 1982, in qualifying contracts as provided in subparagraph (A) shall be entitled to buy out up to fifteen million board feet of such timber volume or one contract, whichever is greater in volume.
 
-(D) So long as the volume limitation of two hundred million board feet is not exceeded, the percentage limitation of subparagraph (B) or the volume limitation of subparagraph (C) may be exceeded by a volume amount not to exceed the volume of the smallest volume contract bought out by the purchaser if the purchaser could not otherwise attain his percentage or volume entitlement.
+(D) So long as the volume limitation of two hundred million board feet is not exceeded, the percentage limitation of subparagraph (B) or the volume limitation of subparagraph (C) may be exceeded by a volume amount not to exceed thevolume of the smallest volume contract bought out by the purchaser if the purchaser could not otherwise attain his percentage or volume entitlement.
 
 (E) Timber returned to the Government pursuant to this subsection shall be available for resale by the Government upon payment, or arrangement for payment, of the buy-out charge and completion of obligations, if any, under paragraph (4)(B).
 
-(3)(A) Sums collected by the appropriate Secretary in connection with the buy-out of contracts pursuant to this subsection shall be deposited in and paid from the Treasury in the same manner as moneys received from timber sales from such lands and shall be determined asfollows: The purchaser's loss on any qualifying timber sales contracts shall be determined by the Forest Service or the Bureau of Land Management by subtracting the current delivered log value (as determined by such agency) from the delivered log cost based on the current contract return (as determined by such agency) of any such contracts. If such loss is—
+(3)(A) Sums collected by the appropriate Secretary in connection with the buy-out of contracts pursuant to this subsection shall be deposited in and paid from the Treasury in the same manner as moneys received from timber sales from such lands and shall be determined as follows: The purchaser's loss on any qualifying timber sales contracts shall be determined by the Forest Service or the Bureau of Land Management by subtracting the current delivered log value (as determined by such agency) from the delivered log cost based on the current contract return (as determined by such agency) of any such contracts. If such loss is—
 
 &emsp;(i) in excess of 100 per centum of the net book worth of the purchaser, the buy-out cost shall be $10 per one thousand board feet of currently held volume bought out;
 
@@ -44,13 +44,13 @@
 
 (C) Beginning in fiscal year 1985 and continuing through fiscal year 1991 or the fiscal year in which timber contract extensions in region 6 granted under the President's program of July 28, 1983 (as constituted on October 16, 1984), are completed, whichever is later, the Secretary of Agriculture shall set, and periodically adjust as necessary, the maximum annual timber sale volume in region 6. Such maximum sale volume shall be set so as to achieve a volume of region 6 net merchantable sawtimber under contract at the end of each fiscal year which does not exceed twelve billion three hundred million board feet: <i>Provided, however</i>, That such maximum annual sale volume shall not exceed five billion two hundred million board feet of net merchantable sawtimber. The sale of timber within region 6 shall be made in such a manner as not to result in discriminatory treatment as between different forests in the region.
 
-(6)(A) The Secretary of the Interior and the Secretary of Agriculture shall publish final rules for the implementation of this subsection in the Federal Register within ninety days after October 16, 1984.
+(6)(A) The Secretary of the Interior and the Secretary of Agriculture shall publish final rules for the implementation of this subsectionin the Federal Register within ninety days after October 16, 1984.
 
 (B) Such final rules shall require purchasers to submit buy-out requests to the appropriate Secretary within ninety days after the publication of such rules.
 
 (7)(A) For purposes only of determining a purchaser's buy-out limitation under paragraph (2) and net worth in connection with buy-out cost under paragraph (3), concerns which are affiliates as defined under subparagraph (B) of this paragraph shall be treated as a single entity.
 
-(B) Definition of affiliates: Concerns are affiliates of each other when either directly or indirectly, one concern controls or has the power to control the other, or a third party or partiescontrols or has the power to control both. In determining whether or not affiliation exists, consideration shall be given to all appropriate factors, including, but not limited to, common ownership, common management, and contractual relationships.
+(B) Definition of affiliates: Concerns are affiliates of each other when either directly or indirectly, one concern controls or has the power to control the other, or a third party or parties controls or has the power to control both. In determining whether or not affiliation exists, consideration shall be given to all appropriate factors, including, but not limited to, common ownership, common management, and contractual relationships.
 
 (C) Definition of purchaser: For the purposes of this Act, a purchaser is the holder of a contract to purchase timber from the Secretary of Agriculture or the Secretary of the Interior.
 

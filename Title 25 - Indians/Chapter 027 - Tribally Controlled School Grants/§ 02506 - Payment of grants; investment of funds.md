@@ -12,7 +12,7 @@
 
 #### (2) Excess funding
 
-&emsp;In a case in which the amount provided to a grant recipient under paragraph (1)(A) is in excess of the amount that the recipient is entitled to receive for the academic year involved, the recipient shall return to the Secretary such excess amount not later than 30 days after the final determination that the school was overpaid pursuant to this section. The amount returned to the Secretary under this paragraph shall be distributed equally to all schools in the system.
+&emsp;In a case in which the amount provided to a grant recipient under paragraph (1)(A) is in excess of the amount that the recipient is entitled to receive for the academic year involved, the recipient shall return to the Secretary such excess amount not later than 30 days after the final determination that the school was overpaid pursuant to this section. Theamount returned to the Secretary under this paragraph shall be distributed equally to all schools in the system.
 
 #### (3) Newly funded schools
 

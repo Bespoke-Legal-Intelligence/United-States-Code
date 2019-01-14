@@ -1,6 +1,6 @@
 ### §11136. Disclosure and correction of information
 
-With respect to the information reported to the Secretary (or the agency designated under section 11134(b) of this title) under this subchapter respecting a physician or other licensed health care practitioner, the Secretary shall, by regulation, provide for—
+With respect to the information reported to the Secretary (or the agency designated undersection 11134(b) of this title) under this subchapter respecting a physician or other licensed health care practitioner, the Secretary shall, by regulation, provide for—
 
 &emsp;(1) disclosure of the information, upon request, to the physician or practitioner, and
 

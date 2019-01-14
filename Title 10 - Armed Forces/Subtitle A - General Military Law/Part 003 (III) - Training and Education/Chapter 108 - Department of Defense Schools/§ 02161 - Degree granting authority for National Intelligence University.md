@@ -24,7 +24,7 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 (3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the National Intelligence University to award any new or existing degree.
 
-(Added Pub. L. 96–450, title IV, §406(a), Oct. 14, 1980, 94 Stat. 1980; amended Pub. L. 105–107, title V, §501(a), Nov. 20, 1997, 111 Stat. 2261; Pub. L. 110–417, \[div. A\], title V, §543(a)(1), Oct. 14, 2008, 122 Stat. 4456; Pub. L. 112–239, div. A, title IX, §922(a), (b)(1), Jan. 2, 2013, 126 Stat. 1879.)
+(Added Pub. L. 96–450, title IV, §406(a), Oct. 14, 1980, 94 Stat. 1980; amended Pub. L. 105–107, title V, §501(a), Nov. 20, 1997, 111 Stat. 2261; Pub. L. 110–417, \[div. A\], title V, §543(a)(1), Oct. 14, 2008,122 Stat. 4456; Pub. L. 112–239, div. A, title IX, §922(a), (b)(1), Jan. 2, 2013, 126 Stat. 1879.)
 
 #### Amendments
 

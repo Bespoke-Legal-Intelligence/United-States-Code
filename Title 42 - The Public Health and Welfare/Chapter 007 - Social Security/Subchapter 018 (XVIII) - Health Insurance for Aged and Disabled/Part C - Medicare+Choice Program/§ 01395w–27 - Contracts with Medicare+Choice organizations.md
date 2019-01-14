@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall not permit the election under section 1395w–21 of this title of a Medicare+Choice plan offered by a Medicare+Choice organization under this part, and no payment shall be made under section 1395w–23 of this title to an organization, unless the Secretary has entered into a contract under this section with the organization with respect to the offering of such plan. Such a contract with an organization may cover more than 1 Medicare+Choice plan. Such contract shall provide that the organization agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
+The Secretary shall not permit the election under section 1395w–21 of this title of aMedicare+Choice plan offered by a Medicare+Choice organization under this part, and no payment shall be made under section 1395w–23 of this title to an organization, unless the Secretary has entered into a contract under this section with the organization with respect to the offering of such plan. Such a contract with an organization may cover more than 1 Medicare+Choice plan. Such contract shall provide that the organization agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
 
 #### (b) Minimum enrollment requirements
 
@@ -140,7 +140,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (B) Authorization
 
-&emsp;&emsp;The Secretary is authorized to charge a fee to each Medicare+Choice organization with a contract under this part and each PDP sponsor with a contract under part D that is equal to the organization's or sponsor's pro rata share (as determined by the Secretary) of the aggregate amount of fees which the Secretary is directed to collect in a fiscal year. Any amounts collected shall be available without further appropriation to the Secretary for the purpose of carrying out section 1395w–21 of this title (relating to enrollment and dissemination of information), section 1395w–101(c) of this title, and section 1395b–4 of this title (relating to the health insurance counseling and assistance program).
+&emsp;&emsp;The Secretary is authorized to charge a fee to each Medicare+Choice organization with a contract under this part and each PDP sponsor with a contract under part D that is equal to the organization's or sponsor's pro rata share (as determined by the Secretary) of the aggregate amount of fees which the Secretary is directed to collect in a fiscal year. Any amounts collected shall be available without further appropriation to the Secretary for the purpose of carrying out section 1395w–21 of this title (relating to enrollment and dissemination of information), section 1395w–101(c) of this title, and section1395b–4 of this title (relating to the health insurance counseling and assistance program).
 
 #### (C) Authorization of appropriations
 
@@ -202,6 +202,24 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;(C) the Secretary shall terminate the plan contract if the plan fails to have such a medical loss ratio for 5 consecutive contract years.
 
+#### (5) Communicating plan corrective actions against opioids over-prescribers
+
+#### (A) In general
+
+&emsp;&emsp;Beginning with plan years beginning on or after January 1, 2021, a contract under this section with an MA organization shall require the organization to submit to the Secretary, through the process established under subparagraph (B), information on the investigations, credible evidence of suspicious activities of a provider of services (including a prescriber) or supplier related to fraud, and other actions taken by such plans related to inappropriate prescribing of opioids.
+
+#### (B) Process
+
+&emsp;&emsp;Not later than January 1, 2021, the Secretary shall, in consultation with stakeholders, establish a process under which MA plans and prescription drug plans shall submit to the Secretary information described in subparagraph (A).
+
+#### (C) Regulations
+
+&emsp;&emsp;For purposes of this paragraph, including as applied under section 1395w–112(b)(3)(D) of this title, the Secretary shall, pursuant to rulemaking—
+
+&emsp;&emsp;&emsp;(i) specify a definition for the term "inappropriate prescribing" and a method for determining if a provider of services prescribes inappropriate prescribing; and
+
+&emsp;&emsp;&emsp;(ii) establish the process described in subparagraph (B) and the types of information that shall be submitted through such process.
+
 #### (f) Prompt payment by Medicare+Choice organization
 
 #### (1) Requirement
@@ -227,6 +245,10 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 #### (C) Regular update of prescription drug pricing standard
 
 &emsp;&emsp;Section 1395w–112(b)(6) of this title.
+
+#### (D) Suspension of payments pending investigation of credible allegations of fraud by pharmacies
+
+&emsp;&emsp;Section 1395w–112(b)(7) of this title.
 
 #### (g) Intermediate sanctions
 
@@ -260,7 +282,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;(K) employs or contracts with any individual or entity who engages in the conduct described in subparagraphs (A) through (J) of this paragraph;
 
-> &emsp;the Secretary may provide, in addition to any other remedies authorized by law, for any of the remedies described in paragraph (2). The Secretary may provide, in addition to any other remedies authorized by law, for any of the remedies described in paragraph (2), if the Secretary determines that any employee or agent of such organization, or any provider or supplier who contracts with such organization, has engaged in any conduct described in subparagraphs (A) through (K) of this paragraph.
+> &emsp;the Secretary may provide, in addition to any other remedies authorized by law, for any ofthe remedies described in paragraph (2). The Secretary may provide, in addition to any other remedies authorized by law, for any of the remedies described in paragraph (2), if the Secretary determines that any employee or agent of such organization, or any provider or supplier who contracts with such organization, has engaged in any conduct described in subparagraphs (A) through (K) of this paragraph.
 
 #### (2) Remedies
 
@@ -292,7 +314,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (1) In general
 
-&emsp;The Secretary may terminate a contract with a Medicare+Choice organization underthis section in accordance with formal investigation and compliance procedures established by the Secretary under which—
+&emsp;The Secretary may terminate a contract with a Medicare+Choice organization under this section in accordance with formal investigation and compliance procedures established by the Secretary under which—
 
 &emsp;&emsp;(A) the Secretary provides the organization with the reasonable opportunity to develop and implement a corrective action plan to correct the deficiencies that were the basis of the Secretary's determination under subsection (c)(2); and
 
@@ -310,15 +332,23 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (1) Contracts with MA organizations
 
-&emsp;To facilitate the offering of Medicare+Choice plans under contracts between Medicare+Choice organizations and employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such Medicare+Choice plans.
+&emsp;To facilitate the offering of Medicare+Choice plans under contracts between Medicare+Choice organizations and employers, labor organizations, or the trustees of a fund established by one or more employersor labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such Medicare+Choice plans.
 
 #### (2) Employer sponsored MA plans
 
 &emsp;To facilitate the offering of MA plans by employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such MA plans. Notwithstanding section 1395w–21(g) of this title, an MA plan described in the previous sentence may restrict the enrollment of individuals under this part to individuals who are beneficiaries and participants in such plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (l)(3)(C), 237(c), title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372; Pub. L. 110–275, title I, §§164(d)(2), 171(b), 172(a)(2), 173(b), July 15, 2008, 122 Stat. 2574, 2580, 2581; Pub. L. 111–148, title VI, §6408(b), Mar. 23, 2010, 124 Stat. 771; Pub. L. 111–152, title I, §1103, Mar. 30, 2010, 124 Stat. 1047; Pub. L. 114–255, div. C, title XVII, §17001(b), Dec. 13, 2016, 130 Stat. 1330.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (l)(3)(C), 237(c), title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372; Pub. L. 110–275, title I, §§164(d)(2), 171(b), 172(a)(2), 173(b), July 15, 2008, 122 Stat. 2574, 2580, 2581; Pub. L. 111–148, title VI, §6408(b), Mar. 23, 2010, 124 Stat. 771; Pub. L. 111–152, title I, §1103, Mar. 30, 2010, 124 Stat. 1047; Pub. L. 114–255, div. C, title XVII, §17001(b), Dec. 13, 2016, 130 Stat. 1330; Pub. L. 115–271, title II, §2008(b), title VI, §6063(b), Oct. 24, 2018, 132 Stat. 3931, 3988.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 2008(b) of Pub. L. 115–271 applicable with respect to plan years beginning on or after Jan. 1, 2020. See 2018 Amendment note below.</i>
 
 #### Amendments
+
+<b>2018</b>—Subsec. (e)(5). Pub. L. 115–271, §6063(b), added par. (5).
+
+Subsec. (f)(3)(D). Pub. L. 115–271, §2008(b), added subpar. (D).
 
 <b>2016</b>—Subsec. (h)(3). Pub. L. 114–255 added par. (3).
 
@@ -390,6 +420,10 @@ Subsec. (e)(2)(E). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(4)\], add
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–271, title II, §2008(e), Oct. 24, 2018, 132 Stat. 3931, provided that: "The amendments made by this section \[amending this section and sections 1395w–112 and 1395y of this title\] shall apply with respect to plan years beginning on or after January 1, 2020."
+
 #### Effective Date of 2010 Amendment
 
 Amendment by section 6408(b)(1) of Pub. L. 111–148 effective Mar. 23, 2010, and amendment by section 6408(b)(2), (3) of Pub. L. 111–148 applicable to acts committed on or after Jan. 1, 2010, see section 6408(d) of Pub. L. 111–148, set out as a note under section 1320a–7 of this title.
@@ -432,7 +466,7 @@ Pub. L. 114–255, div. C, title XVII, §17001(a), Dec. 13, 2016, 130 Stat. 1330
 
 &emsp;"(1) to continue to study and request input on the effects of socioeconomic status and dual-eligible populations on the Medicare Advantage STARS rating system before reforming such system with the input of stakeholders; and
 
-&emsp;"(2) pending the results of such studies and input, to provide for a temporary delay in authority of theCenters for Medicare \& Medicaid Services (CMS) to terminate Medicare Advantage plan contracts solely on the basis of performance of plans under the STARS rating system."
+&emsp;"(2) pending the results of such studies and input, to provide for a temporary delay in authority of the Centers for Medicare \& Medicaid Services (CMS) to terminate Medicare Advantage plan contracts solely on the basis of performance of plans under the STARS rating system."
 
 #### Technical Correction to MA Private Fee-for-Service Plans
 

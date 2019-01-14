@@ -36,7 +36,7 @@ Criteria for Grants.—The Secretary shall establish criteria and requirements f
 
 &emsp;&emsp;(A) such State and local requirements that may apply; and
 
-&emsp;&emsp;(B) fire and safety requirements applicable under the Life Safety Code of the National Fire Protection Association or such other comparable fire and safety requirements as the Secretary may specify.
+&emsp;&emsp;(B) fire and safety requirements applicable under the Life Safety Code of the National Fire Protection Association or such othercomparable fire and safety requirements as the Secretary may specify.
 
 &emsp;(6) Specification as to the means by which an entity receiving a grant may contribute in-kind services to the start-up costs of a project for which a grant is sought and the methodology for assigning a cost to that contribution for purposes of subsection (c).
 
@@ -108,7 +108,7 @@ Service Center Requirements.—In addition to criteria and requirements establis
 
 &emsp;(3) That such center be equipped and staffed to provide or to assist in providing health care, mental health services, hygiene facilities, benefits and employment counseling, meals, transportation assistance, and such other services as the Secretary determines necessary.
 
-&emsp;(4) That such center be equipped and staffed to provide, or to assist in providing, job training, counseling, and placement services (including job readiness and literacy and skills training), as well as any outreach and case management services that may be necessary to carry out this paragraph.
+&emsp;(4) That such center be equipped and staffed to provide, or to assist in providing, job training, counseling, and placement services (including job readiness and literacy and skills training), as well as any outreach and casemanagement services that may be necessary to carry out this paragraph.
 
 (h)
 

@@ -36,7 +36,7 @@ Amendment by act Apr. 30, 1946 effective May 1, 1946, see section 512 of act Apr
 
 #### Termination of Acceptance of Deposits of Export Taxes
 
-Authority of Secretary of the Treasury to accept deposits of proceeds of export taxes in accordance withsection 1333 of this title terminated on July 1, 1951, under the provisions of act Aug. 7, 1946, ch. 809, §2, 60 Stat. 901.
+Authority of Secretary of the Treasury to accept deposits of proceeds of export taxes in accordance with section 1333 of this title terminated on July 1, 1951, under the provisions of act Aug. 7, 1946, ch. 809, §2, 60 Stat. 901.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

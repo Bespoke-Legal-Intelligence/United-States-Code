@@ -14,7 +14,7 @@ Whenever the Secretary of Agriculture has reason to believe that:
 
 Subject to the provisions of subsection (1) of this section, the Secretary of Agriculture shall provide, through agreements with producers or by other voluntary methods,
 
-&emsp;(a) For such adjustment in the acreage or in the production for market, or both, of any basic agricultural commodity, as he finds, upon the basis of the investigation made pursuant to subsection (1) of this section, will tend to effectuate the declared policy of this chapter, and to make such adjustment program practicable to operate and administer, and
+&emsp;(a) For such adjustment in the acreage or in the production for market, or both, of any basic agricultural commodity, as he finds, upon the basis of the investigation made pursuant to subsection (1) of this section, willtend to effectuate the declared policy of this chapter, and to make such adjustment program practicable to operate and administer, and
 
 &emsp;(b) For rental or benefit payments in connection with such agreements or methods in such amounts as he finds, upon the basis of such investigation, to be fair and reasonable and best calculated to effectuate the declared policy of this chapter, and to make such program practicable to operate and administer, to be paid out of any moneys available for such payments or, subject to the consent of the producer, to be made in quantities of one or more basic agricultural commodities acquired by the Secretary pursuant to this chapter.
 
@@ -44,7 +44,7 @@ In the course of any investigation required to be made under subsection (1) or (
 
 #### (6) Commodity in which payment made
 
-No payment under this chapter made in an agricultural commodity acquired by the Secretaryin pursuance of this chapter shall be made in a commodity other than that in respect of which the payment is being made. For the purposes of this subsection, hogs and field corn may be considered as one commodity.
+No payment under this chapter made in an agricultural commodity acquired by the Secretary in pursuance of this chapter shall be made in a commodity other than that in respect of which the payment is being made. For the purposes of this subsection, hogs and field corn may be considered as one commodity.
 
 #### (7) Additional payments to producers of sugar beets or sugarcane
 
@@ -56,7 +56,7 @@ In the case of rice, the Secretary of Agriculture, in exercising the power confe
 
 #### (9) Advances of payments on stored nonperishable commodity
 
-Under regulations of the Secretary of Agriculture requiring adequate facilities for the storage of any nonperishable agricultural commodity on the farm, inspection and measurement of any such commodity so stored, and the locking and sealing thereof, and such other regulations as may be prescribed by the Secretary of Agriculture for the protection of such commodity and for the marketing thereof, a reasonable percentage of any benefit payment may be advanced on any such commodity so stored. In any such case such deduction may be made from the amount of the benefit payment as the Secretary of Agriculture determines will reasonably compensate for the cost of inspection and sealing but no deduction may be made for interest.
+Under regulations of the Secretary of Agriculture requiring adequate facilities for the storage of any nonperishable agricultural commodity on the farm, inspection and measurement of any such commodity so stored, and the locking and sealing thereof, and such other regulations as may be prescribed by the Secretary of Agriculture for the protection of such commodity and for the marketing thereof, a reasonable percentage of any benefit payment may be advanced on any such commodity so stored. In any such case such deduction may be made fromthe amount of the benefit payment as the Secretary of Agriculture determines will reasonably compensate for the cost of inspection and sealing but no deduction may be made for interest.
 
 (May 12, 1933, ch. 25, title I, §8, 48 Stat. 34; Apr. 7, 1934, ch. 103, §7, 48 Stat. 528; May 9, 1934, ch. 263, §14, 48 Stat. 676; Mar. 18, 1935, ch. 32, §7, 49 Stat. 46; Aug. 24, 1935, ch. 641, §§2, 4–7, 49 Stat. 751, 753–762.)
 

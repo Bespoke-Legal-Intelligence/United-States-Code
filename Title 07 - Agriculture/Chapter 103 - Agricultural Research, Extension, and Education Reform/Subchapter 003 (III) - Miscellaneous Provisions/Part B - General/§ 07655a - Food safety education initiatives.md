@@ -14,9 +14,9 @@ The Secretary may carry out the education program in cooperation with public and
 
 #### (c) Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2008 through 2018, to remain available until expended.
+There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2008 through 2023, to remain available until expended.
 
-(Pub. L. 110–234, title X, §10105, May 22, 2008, 122 Stat. 1336; Pub. L. 110–246, §4(a), title X, §10105, June 18, 2008, 122 Stat. 1664, 2098; Pub. L. 113–79, title X, §10006, Feb. 7, 2014, 128 Stat. 947.)
+(Pub. L. 110–234, title X, §10105, May 22, 2008, 122 Stat. 1336; Pub. L. 110–246, §4(a), title X, §10105, June 18, 2008, 122 Stat. 1664, 2098; Pub. L. 113–79, title X, §10006, Feb. 7, 2014, 128 Stat. 947; Pub. L. 115–334, title X, §10106, Dec. 20, 2018, 132 Stat. 4905.)
 
 #### Codification
 
@@ -25,6 +25,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Agricultural Research, Extension, and Education Reform Act of 1998, which in part comprises this chapter.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c). Pub. L. 115–334 substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (c). Pub. L. 113–79 substituted "2018" for "2012".
 

@@ -42,7 +42,7 @@ If the sulfur content limit of a voluntary standard that met the conditions of s
 
 #### (f) Future rulemaking
 
-The Commission, at any time subsequent to publication of the consumer product safety rulerequired by subsection (a) or a determination under subsection (c), may initiate a rulemaking in accordance with section 553 of title 5 to modify the sulfur content limit or to include any provision relating only to the composition or characteristics of drywall that the Commission determines is reasonably necessary to protect public health or safety. Any rule promulgated under this subsection shall be treated as a consumer product safety rule promulgated under section 2058 of this title.
+The Commission, at any time subsequent to publication of the consumer product safety rule required by subsection (a) or a determination under subsection (c), may initiate a rulemaking in accordance with section 553 of title 5 to modify the sulfur content limit or to include any provision relating only to the composition or characteristics of drywall that the Commission determines is reasonably necessary to protect public health or safety. Any rule promulgated under this subsection shall be treated as a consumer product safety rule promulgated under section 2058 of this title.
 
 (Pub. L. 112–266, §4, Jan. 14, 2013, 126 Stat. 2438.)
 

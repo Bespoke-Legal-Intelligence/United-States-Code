@@ -250,7 +250,7 @@ Priority for same day work.—In substituting hours of work under subparagraph (
 
 &emsp;&emsp;(C)
 
-Priority for regular time substitution.—Hours of work shall be substituted for regular time work under this paragraphbefore being substituted for scheduled overtime under paragraphs (2), (3), and (4).
+Priority for regular time substitution.—Hours of work shall be substituted for regular time work under this paragraph before being substituted for scheduled overtime under paragraphs (2), (3), and (4).
 
 &emsp;(2)
 

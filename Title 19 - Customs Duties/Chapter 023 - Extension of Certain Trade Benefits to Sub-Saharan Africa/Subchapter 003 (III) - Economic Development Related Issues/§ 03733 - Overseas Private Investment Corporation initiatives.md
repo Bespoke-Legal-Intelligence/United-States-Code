@@ -20,7 +20,7 @@ It is the sense of the Congress that the Overseas Private Investment Corporation
 
 #### (4) Emphasis
 
-&emsp;The Corporation shall ensure that the funds are used to provide support in particular towomen entrepreneurs and to innovative investments that expand opportunities for women and maximize employment opportunities for poor individuals.
+&emsp;The Corporation shall ensure that the funds are used to provide support in particular to women entrepreneurs and to innovative investments that expand opportunities for women and maximize employment opportunities for poor individuals.
 
 #### (c) Overseas Private Investment Corporation
 
@@ -35,4 +35,8 @@ It is the sense of the Congress that the Overseas Private Investment Corporation
 #### Codification
 
 Section is comprised of section 123 of Pub. L. 106–200. Subsec. (c)(1) of section 123 of Pub. L. 106–200 amended section 2193 of Title 22, Foreign Relations and Intercourse.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of Title 22, Foreign Relations and Intercourse.
 

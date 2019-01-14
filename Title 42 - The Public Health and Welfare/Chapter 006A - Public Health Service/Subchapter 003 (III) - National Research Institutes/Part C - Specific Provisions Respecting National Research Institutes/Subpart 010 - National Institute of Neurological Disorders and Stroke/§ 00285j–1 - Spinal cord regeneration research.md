@@ -34,7 +34,7 @@ Committee Composition and Meetings.—(1) The Interagency Committee shall consis
 
 "(c)
 
-Report.—Within the 18 months after the date of enactment of this Act \[Nov. 20, 1985\], the Interagency Committee shall prepare and transmit to the Congress a report concerning its activities under this section. The report shall include a description of research projects on spinal cord injury and regeneration conducted or supported by Federal agencies during such 18-month period, the nature and purpose of each suchproject, the amounts expended for each such project, and an identification of the entity which conducted the research under each such project.
+Report.—Within the 18 months after the date of enactment of this Act \[Nov. 20, 1985\], the Interagency Committee shall prepare and transmit to the Congress a report concerning its activities under this section. The report shall include a description of research projects on spinal cord injury and regeneration conducted or supported by Federal agencies during such 18-month period, the nature and purpose of each such project, the amounts expended for each such project, and an identification of the entity which conducted the research under each such project.
 
 "(d)
 

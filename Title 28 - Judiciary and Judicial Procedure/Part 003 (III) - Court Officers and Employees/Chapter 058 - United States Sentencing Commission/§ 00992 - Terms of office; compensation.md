@@ -20,7 +20,7 @@
 
 &emsp;(B) the date on which the Congress adjourns sine die to end the session of Congress that commences after the date on which the member's term expired.
 
-(c) The Chair and Vice Chairs of the Commission shall hold full-time positions and shall be compensated during their terms of office at the annual rate at which judges of the United States courts of appeals are compensated. The voting members of the Commission, other than the Chair and Vice Chairs, shall hold full-time positions until the end of the first six years after the sentencing guidelines go into effect pursuant to section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984, and shall be compensated at the annual rate at which judges of the United States courts of appeals are compensated. Thereafter, the voting members of the Commission, other than the Chair and Vice Chairs,,<sup>1</sup> shall hold part-time positions and shall be paid at the daily rate at which judges of the United States courts of appeals are compensated. A Federal judge may serve as a member of the Commission without resigning the judge's appointment as a Federal judge.
+(c) The Chair and Vice Chairs of the Commission shall hold full-time positions and shall becompensated during their terms of office at the annual rate at which judges of the United States courts of appeals are compensated. The voting members of the Commission, other than the Chair and Vice Chairs, shall hold full-time positions until the end of the first six years after the sentencing guidelines go into effect pursuant to section 235(a)(1)(B)(ii) of the Sentencing Reform Act of 1984, and shall be compensated at the annual rate at which judges of the United States courts of appeals are compensated. Thereafter, the voting members of the Commission, other than the Chair and Vice Chairs,,<sup>1</sup> shall hold part-time positions and shall be paid at the daily rate at which judges of the United States courts of appeals are compensated. A Federal judge may serve as a member of the Commission without resigning the judge's appointment as a Federal judge.
 
 (d) Sections 44(c) and 134(b) of this title (relating to the residence of judges) do not apply to any judge holding a full-time position on the Commission under subsection (c) of this section.
 
@@ -48,7 +48,7 @@ Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473
 
 #### Commencement of Terms of First Members of Commission
 
-For provisions directing that, for purposes of subsec. (a) of this section, the terms of the first members of theUnited States Sentencing Commission shall not begin to run until the sentencing guidelines go into effect pursuant to section 235(a)(1)(B)(ii) of Pub. L. 98–473, see section 235(a)(2) of Pub. L. 98–473, both of which are set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
+For provisions directing that, for purposes of subsec. (a) of this section, the terms of the first members of the United States Sentencing Commission shall not begin to run until the sentencing guidelines go into effect pursuant to section 235(a)(1)(B)(ii) of Pub. L. 98–473, see section 235(a)(2) of Pub. L. 98–473, both of which are set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

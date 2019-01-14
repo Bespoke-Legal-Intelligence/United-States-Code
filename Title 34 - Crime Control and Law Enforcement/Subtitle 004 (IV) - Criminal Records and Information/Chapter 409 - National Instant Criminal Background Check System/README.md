@@ -18,6 +18,7 @@
 | [40914\.](Subchapter%20001%20%28I%29%20-%20Transmittal%20of%20Records/%C2%A7%2040914%20-%20Penalties%20for%20noncompliance.md) | Penalties for noncompliance. |
 | [40915\.](Subchapter%20001%20%28I%29%20-%20Transmittal%20of%20Records/%C2%A7%2040915%20-%20Relief%20from%20disabilities%20program%20required%20as%20condition%20for%20participation%20in%20grant%20programs.md) | Relief from disabilities program required as condition for participation in grant programs. |
 | [40916\.](Subchapter%20001%20%28I%29%20-%20Transmittal%20of%20Records/%C2%A7%2040916%20-%20Illegal%20immigrant%20gun%20purchase%20notification.md) | Illegal immigrant gun purchase notification. |
+| [40917\.](Subchapter%20001%20%28I%29%20-%20Transmittal%20of%20Records/%C2%A7%2040917%20-%20Implementation%20plan.md) | Implementation plan. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -16,7 +16,7 @@ Each center assisted under this section shall—
 
 &emsp;&emsp;(B) training programs for physicians, scientists, and other health and allied health professionals;
 
-&emsp;&emsp;(C) information and continuing education programs for physicians and other healthand allied health professionals who provide care for patients with arthritis and musculoskeletal diseases; and
+&emsp;&emsp;(C) information and continuing education programs for physicians and other health and allied health professionals who provide care for patients with arthritis and musculoskeletal diseases; and
 
 &emsp;&emsp;(D) programs for the dissemination to the general public of information—
 

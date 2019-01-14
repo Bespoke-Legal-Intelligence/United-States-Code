@@ -16,7 +16,7 @@ Whoever—
 
 &emsp;(6) for a fee knowingly and willfully counsels or assists an individual to dispose of assets (including by any transfer in trust) in order for the individual to become eligible for medical assistance under a State plan under subchapter XIX, if disposing of the assets results in the imposition of a period of ineligibility for such assistance under section 1396p(c) of this title,
 
-> shall (i) in the case of such a statement, representation, concealment, failure, or conversion by any person in connection with the furnishing (by that person) of items or services for which payment is or may be made under the program, be guilty of a felony and upon conviction thereof fined not more than $25,000 or imprisoned for not more than five years or both, or (ii) in the case of such a statement, representation, concealment, failure, conversion, or provision of counsel or assistance by any other person, be guilty of a misdemeanor and upon conviction thereof fined not more than $10,000 or imprisoned for not more than one year, or both. In addition, in any case where an individual who is otherwise eligible for assistance under a Federal health care program is convicted of an offense under the preceding provisions of this subsection, the administrator of such program may at its option (notwithstanding any other provision of such program) limit, restrict, or suspend the eligibility of that individual for such period (not exceeding one year) as it deems appropriate; but the imposition of a limitation, restriction, or suspension with respect to the eligibility of any individual under this sentence shall not affect the eligibility of any other person for assistance under the plan, regardless of the relationship between that individual and such other person.
+> shall (i) in the case of such a statement, representation, concealment, failure, or conversion by any person in connection with the furnishing (by that person) of items or services for which payment is or may be made under the program, be guilty of a felony and upon conviction thereof fined not more than $100,000 or imprisoned for not more than 10 years or both, or (ii) in the case of such a statement, representation, concealment, failure, conversion, or provision of counsel or assistance by any other person, be guilty of a misdemeanor and upon conviction thereof fined not more than $20,000 or imprisoned for not more than one year, or both. In addition, in any case where an individual who is otherwise eligible for assistance under a Federal health care program is convicted of an offense under the preceding provisions of this subsection, the administrator of such program may at its option (notwithstanding any other provision of such program) limit, restrict, or suspend the eligibility of that individual for such period (not exceeding one year) as it deems appropriate; but the imposition of a limitation, restriction, or suspension with respect to the eligibility of any individual under this sentence shall not affect the eligibility of any other person for assistance under the plan, regardless of the relationship between that individual and such other person.
 
 #### (b) Illegal remunerations
 
@@ -26,7 +26,7 @@ Whoever—
 
 &emsp;(B) in return for purchasing, leasing, ordering, or arranging for or recommending purchasing, leasing, or ordering any good, facility, service, or item for which payment may be made in whole or in part under a Federal health care program,
 
-> shall be guilty of a felony and upon conviction thereof, shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
+> shall be guilty of a felony and upon conviction thereof, shall be fined not more than $100,000 or imprisoned for not more than 10 years, or both.
 
 (2) Whoever knowingly and willfully offers or pays any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind to any person to induce such person—
 
@@ -34,7 +34,7 @@ Whoever—
 
 &emsp;(B) to purchase, lease, order, or arrange for or recommend purchasing, leasing, or ordering any good, facility, service, or item for which payment may be made in whole or in part under a Federal health care program,
 
-> shall be guilty of a felony and upon conviction thereof, shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
+> shall be guilty of a felony and upon conviction thereof, shall be fined not more than $100,000 or imprisoned for not more than 10 years, or both.
 
 (3) Paragraphs (1) and (2) shall not apply to—
 
@@ -58,21 +58,23 @@ Whoever—
 
 &emsp;(H) any remuneration between a federally qualified health center (or an entity controlled by such a health center) and an MA organization pursuant to a written agreement described in section 1395w–23(a)(4) of this title;
 
-&emsp;(I) any remuneration between a health center entity described under clause (i) or (ii) of section 1396d(l)(2)(B) of this title and any individual or entity providing goods, items, services, donations, loans, or a combination thereof, to such health center entity pursuant to a contract, lease, grant, loan, or other agreement, if such agreement contributes to the ability of the health center entity to maintain or increase the availability, or enhance the quality, of services provided to a medically underserved population served by the health center entity; and
+&emsp;(I) any remuneration between a health center entity described under clause (i) or (ii) of section 1396d(l)(2)(B) of this title and any individual or entity providing goods, items, services, donations, loans, or a combination thereof, to such health center entity pursuant to a contract, lease, grant, loan, or other agreement, if such agreement contributes to the ability of the health center entity to maintain or increase the availability, or enhance the quality, of services provided to a medically underserved population served by the health center entity;
 
-&emsp;(J) a discount in the price of an applicable drug (as defined in paragraph (2) of section 1395w–114a(g) of this title) of a manufacturer that is furnished to an applicable beneficiary (as defined in paragraph (1) of such section) under the Medicare coverage gap discount program under section 1395w–114a of this title.
+&emsp;(J) a discount in the price of an applicable drug (as defined in paragraph (2) of section 1395w–114a(g) of this title) of a manufacturer that is furnished to an applicable beneficiary (as defined in paragraph (1) of such section) under the Medicare coverage gap discount program under section 1395w–114a of this title; and
+
+&emsp;(K) an incentive payment made to a Medicare fee-for-service beneficiary by an ACO under an ACO Beneficiary Incentive Program established under subsection (m) of section 1395jjj of this title, if the payment is made in accordance with the requirements of such subsection and meets such other conditions as the Secretary may establish.
 
 (4) Whoever without lawful authority knowingly and willfully purchases, sells or distributes, or arranges for the purchase, sale, or distribution of a beneficiary identification number or unique health identifier for a health care provider under subchapter XVIII, subchapter XIX, or subchapter XXI shall be imprisoned for not more than 10 years or fined not more than $500,000 ($1,000,000 in the case of a corporation), or both.
 
 #### (c) False statements or representations with respect to condition or operation of institutions
 
-Whoever knowingly and willfully makes or causes to be made, or induces or seeks to induce the making of, any false statement or representation of a material fact with respect to the conditions or operation of any institution, facility, or entity in order that such institution, facility, or entity may qualify (either upon initial certification or upon recertification) as a hospital, critical access hospital, skilled nursing facility, nursing facility, intermediate care facility for the mentally retarded, home health agency, or other entity (including an eligible organization under section 1395mm(b) of this title) for which certification is required under subchapter XVIII or a State health care program (as defined in section 1320a–7(h) of this title), or with respect to information required to be provided under section 1320a–3a of this title, shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
+Whoever knowingly and willfully makes or causes to be made, or induces or seeks to induce the making of, any false statement or representation of a material fact with respect to the conditions or operation of any institution, facility, or entity in order that such institution, facility, or entity may qualify (either upon initial certification or upon recertification) as a hospital, critical access hospital, skilled nursing facility, nursing facility, intermediate care facility forthe mentally retarded, home health agency, or other entity (including an eligible organization under section 1395mm(b) of this title) for which certification is required under subchapter XVIII or a State health care program (as defined in section 1320a–7(h) of this title), or with respect to information required to be provided under section 1320a–3a of this title, shall be guilty of a felony and upon conviction thereof shall be fined not more than $100,000 or imprisoned for not more than 10 years, or both.
 
 #### (d) Illegal patient admittance and retention practices
 
 Whoever knowingly and willfully—
 
-&emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX, money or other consideration ata rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract), or
+&emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX, money or other consideration at a rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract), or
 
 &emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX, any gift, money, donation, or other consideration (other than a charitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
 
@@ -82,11 +84,11 @@ Whoever knowingly and willfully—
 
 > &emsp;when the cost of the services provided therein to the patient is paid for (in whole or in part) under the State plan,
 
-> shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
+> shall be guilty of a felony and upon conviction thereof shall be fined not more than $100,000 or imprisoned for not more than 10 years, or both.
 
 #### (e) Violation of assignment terms
 
-Whoever accepts assignments described in section 1395u(b)(3)(B)(ii) of this title or agrees to be a participating physician or supplier under section 1395u(h)(1) of this title and knowingly, willfully, and repeatedly violates the term of such assignments or agreement, shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $2,000 or imprisoned for not more than six months, or both.
+Whoever accepts assignments described in section 1395u(b)(3)(B)(ii) of this title or agrees to be a participating physician or supplier under section 1395u(h)(1) of this title and knowingly, willfully, and repeatedly violates the term of such assignments or agreement, shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $4,000 or imprisoned for not more than six months, or both.
 
 #### (f) "Federal health care program" defined
 
@@ -104,7 +106,7 @@ In addition to the penalties provided for in this section or section 1320a–7a 
 
 With respect to violations of this section, a person need not have actual knowledge of this section or specific intent to commit a violation of this section.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128B, formerly title XVIII, §1877(d), and title XIX, §1909, as added and amended Pub. L. 92–603, title II, §§242(c), 278(b)(9), Oct. 30, 1972, 86 Stat. 1419, 1454; Pub. L. 95–142, §4(a), (b), Oct. 25, 1977, 91 Stat. 1179, 1181; Pub. L. 96–499, title IX, §917, Dec. 5, 1980, 94 Stat. 2625; Pub. L. 98–369, div. B, title III, §2306(f)(2), July 18, 1984, 98 Stat. 1073; renumbered title XI, §1128B, and amended Pub. L. 100–93, §§4(a)–(d), 14(b), Aug. 18, 1987, 101 Stat. 688, 689, 697; Pub. L. 100–203, title IV, §§4039(a), 4211(h)(7), Dec. 22, 1987, 101 Stat. 1330–81, 1330–206; Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(i), July 1, 1988, 102 Stat. 768; Pub. L. 101–239, title VI, §6003(g)(3)(D)(ii), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4161(a)(4), 4164(b)(2), Nov. 5, 1990, 104 Stat. 1388–94, 1388–102; Pub. L. 103–432, title I, §133(a)(2), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 104–191, title II, §§204(a), 216(a), 217, Aug. 21, 1996, 110 Stat. 1999, 2007, 2008; Pub. L. 105–33, title IV, §§4201(c)(1), 4704(b), 4734, Aug. 5, 1997, 111 Stat. 373, 498, 522; Pub. L. 108–173, title I, §101(e)(2), (8)(A), title II, §237(d), title IV, §431(a), Dec. 8, 2003, 117 Stat. 2150, 2152, 2213, 2287; Pub. L. 111–148, title III, §3301(d)(1), title VI, §6402(f), Mar. 23, 2010, 124 Stat. 468, 759; Pub. L. 114–115, §8, Dec. 28, 2015, 129 Stat. 3134.)
+(Aug. 14, 1935, ch. 531, title XI, §1128B, formerly title XVIII, §1877(d), and title XIX, §1909, as added and amended Pub. L. 92–603, title II, §§242(c), 278(b)(9), Oct. 30, 1972, 86 Stat. 1419, 1454; Pub. L. 95–142, §4(a), (b), Oct. 25, 1977, 91 Stat. 1179, 1181; Pub. L. 96–499, title IX, §917, Dec. 5, 1980, 94 Stat. 2625; Pub. L. 98–369, div. B, title III, §2306(f)(2), July 18, 1984, 98 Stat. 1073; renumbered title XI, §1128B, and amended Pub. L. 100–93, §§4(a)–(d), 14(b), Aug. 18, 1987, 101 Stat. 688, 689, 697; Pub. L. 100–203, title IV, §§4039(a), 4211(h)(7), Dec. 22, 1987, 101 Stat. 1330–81, 1330–206; Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(i), July 1, 1988, 102 Stat. 768; Pub. L. 101–239, title VI, §6003(g)(3)(D)(ii), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4161(a)(4), 4164(b)(2), Nov. 5, 1990, 104 Stat. 1388–94, 1388–102; Pub. L. 103–432, title I, §133(a)(2), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 104–191, title II, §§204(a), 216(a), 217, Aug. 21, 1996, 110 Stat. 1999, 2007, 2008; Pub. L. 105–33, title IV, §§4201(c)(1), 4704(b), 4734, Aug. 5, 1997, 111 Stat. 373, 498, 522; Pub. L. 108–173, title I, §101(e)(2), (8)(A), title II, §237(d), title IV, §431(a), Dec. 8, 2003, 117 Stat. 2150, 2152, 2213, 2287; Pub. L. 111–148, title III, §3301(d)(1), title VI, §6402(f), Mar. 23, 2010, 124 Stat. 468, 759; Pub. L. 114–115, §8, Dec. 28, 2015, 129 Stat. 3134; Pub. L. 115–123, div. E, title III, §50341(b), title IV, §50412(a)(2), (b), Feb. 9, 2018, 132 Stat. 208, 220.)
 
 #### References in Text
 
@@ -120,6 +122,20 @@ Prior to redesignation by Pub. L. 100–93, subsecs. (a) to (d) of this section 
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a). Pub. L. 115–123, §50412(a)(2)(A), (b)(1), in concluding provisions, substituted "$100,000" for "$25,000", "not more than 10 years or both, or (ii)" for "not more than five years or both, or (ii)", and "$20,000" for "$10,000".
+
+Subsec. (b)(1). Pub. L. 115–123, §50412(a)(2)(B)(i), (b)(2)(A), in concluding provisions, substituted "$100,000" for "$25,000" and "not more than 10 years" for "not more than five years".
+
+Subsec. (b)(2). Pub. L. 115–123, §50412(a)(2)(B)(ii), (b)(2)(B), in concluding provisions, substituted "$100,000" for "$25,000" and "not more than 10 years" for "not more than five years".
+
+Subsec. (b)(3)(K). Pub. L. 115–123, §50341(b), added subpar. (K).
+
+Subsec. (c). Pub. L. 115–123, §50412(a)(2)(C), (b)(3), substituted "$100,000" for "$25,000" and "not more than 10 years" for "not more than five years".
+
+Subsec. (d). Pub. L. 115–123, §50412(a)(2)(D), (b)(4), in concluding provisions, substituted "$100,000" for "$25,000" and "not more than 10 years" for "not more than five years".
+
+Subsec. (e). Pub. L. 115–123, §50412(a)(2)(E), substituted "$4,000" for "$2,000".
+
 <b>2015</b>—Subsec. (b)(4). Pub. L. 114–115 added par. (4).
 
 <b>2010</b>—Subsec. (b)(3)(G). Pub. L. 111–148, §3301(d)(1)(A), struck out "and" at the end.
@@ -132,7 +148,7 @@ Subsec. (b)(3)(J). Pub. L. 111–148, §3301(d)(1)(C)(iii), (D), added subpar. (
 
 Subsecs. (g), (h). Pub. L. 111–148, §6402(f), added subsecs. (g) and (h).
 
-<b>2003</b>—Subsec. (b)(3)(E). Pub. L. 108–173, §101(e)(8)(A), which directed the amendment of subpar. (C) by inserting "or in regulations under section 1395w–104(e)(6) ofthis title" after "1987", was executed by making the insertion in subpar. (E) to reflect the probable intent of Congress because "1987" does not appear in subpar. (C).
+<b>2003</b>—Subsec. (b)(3)(E). Pub. L. 108–173, §101(e)(8)(A), which directed the amendment of subpar. (C) by inserting "or in regulations under section 1395w–104(e)(6) of this title" after "1987", was executed by making the insertion in subpar. (E) to reflect the probable intent of Congress because "1987" does not appear in subpar. (C).
 
 Subsec. (b)(3)(G). Pub. L. 108–173, §101(e)(2), added subpar. (G).
 
@@ -208,7 +224,7 @@ Subsec. (e). Pub. L. 100–93, §4(c), redesignated subsec. (d) of section 1395n
 
 Subsec. (b). Pub. L. 95–142, §4(b), redesignated existing provisions as par. (1), substituted provisions relating to solicitation or receiving of any remuneration in return for referring an individual to a person for the furnishing or arranging the furnishing of any item or service, or in return for purchasing, leasing, ordering, or arranging for or recommending purchasing, etc., as constituting a felony punishable by a fine of not more than $25,000 and/or imprisonment for not more than five years, for provisions relating to furnishing items or services and soliciting, offering or receiving any kickback, bribe, or rebate in connection with furnishing, etc. items or services as constituting a misdemeanor punishable by a fine of not more than $10,000 and/or imprisonment for not more than one year, and added pars. (2) and (3). See Codification note above.
 
-Subsec. (c). Pub. L. 95–142, §4(b), substituted provisions setting forth felony nature of criminal activitieswith a fine of not more than $25,000, or imprisonment for not more than five years, or both, for provisions setting forth misdemeanor nature of criminal activities with a fine of not more than $2,000, or imprisonment for not more than six months, or both. See Codification note above.
+Subsec. (c). Pub. L. 95–142, §4(b), substituted provisions setting forth felony nature of criminal activities with a fine of not more than $25,000, or imprisonment for not more than five years, or both, for provisions setting forth misdemeanor nature of criminal activities with a fine of not more than $2,000, or imprisonment for not more than six months, or both. See Codification note above.
 
 Subsec. (d). Pub. L. 95–142, §4(b), added subsec. (d). See Codification note above.
 

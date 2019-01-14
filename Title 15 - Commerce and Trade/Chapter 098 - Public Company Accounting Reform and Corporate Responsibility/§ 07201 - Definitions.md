@@ -44,7 +44,7 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
 
 #### (8) Non-audit services
 
-&emsp;The term "non-audit services" means any professional services provided to an issuer by a registered public accounting firm, otherthan those provided to an issuer in connection with an audit or a review of the financial statements of an issuer.
+&emsp;The term "non-audit services" means any professional services provided to an issuer by a registered public accounting firm, other than those provided to an issuer in connection with an audit or a review of the financial statements of an issuer.
 
 #### (9) Person associated with a public accounting firm
 
@@ -102,7 +102,7 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
 
 #### (13) Rules of the Board
 
-&emsp;The term "rules of the Board" means the bylaws and rules of the Board (as submitted to, and approved, modified, or amended by the Commission, in accordance with section 7217 of this title), and those stated policies, practices, and interpretations of the Board that the Commission, by rule, may deem to be rules of the Board, as necessary or appropriate in the public interest or for the protection of investors.
+&emsp;The term "rules of the Board" means the bylaws and rules of the Board (as submitted to,and approved, modified, or amended by the Commission, in accordance with section 7217 of this title), and those stated policies, practices, and interpretations of the Board that the Commission, by rule, may deem to be rules of the Board, as necessary or appropriate in the public interest or for the protection of investors.
 
 #### (14) Security
 
@@ -118,7 +118,7 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
 
 #### (17) Foreign auditor oversight authority
 
-&emsp;The term "foreign auditor oversight authority" means any governmental body or otherentity empowered by a foreign government to conduct inspections of public accounting firms or otherwise to administer or enforce laws related to the regulation of public accounting firms.
+&emsp;The term "foreign auditor oversight authority" means any governmental body or other entity empowered by a foreign government to conduct inspections of public accounting firms or otherwise to administer or enforce laws related to the regulation of public accounting firms.
 
 (Pub. L. 107–204, §2(a), July 30, 2002, 116 Stat. 746; Pub. L. 111–203, title IX, §§929F(g)(1), 981(a), 982(a)(2), July 21, 2010, 124 Stat. 1854, 1926, 1928.)
 

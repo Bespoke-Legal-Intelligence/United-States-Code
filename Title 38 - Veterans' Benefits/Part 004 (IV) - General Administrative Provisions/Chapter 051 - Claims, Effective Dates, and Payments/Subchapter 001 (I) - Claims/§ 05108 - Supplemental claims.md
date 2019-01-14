@@ -10,7 +10,7 @@ Duty to Assist.—(1) If a claimant, in connection with a supplemental claim, re
 
 (2) Assistance under paragraph (1) shall not be predicated upon a finding that new and relevant evidence has been presented or secured.
 
-(Added Pub. L. 100–687, div. A, title I, §103(a)(1), Nov. 18, 1988, 102 Stat. 4107, §3008; renumbered§5108, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 115–55, §2(i)(1), Aug. 23, 2017, 131 Stat. 1109.)
+(Added Pub. L. 100–687, div. A, title I, §103(a)(1), Nov. 18, 1988, 102 Stat. 4107, §3008; renumbered §5108, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 115–55, §2(i)(1), Aug. 23, 2017, 131 Stat. 1109.)
 
 #### Applicability of Amendment
 

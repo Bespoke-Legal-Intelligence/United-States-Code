@@ -2,7 +2,7 @@
 
 #### (a) Establishment; functions; review and recommendations
 
-(1) Within 180 days after November 10, 1978, the Commission shall establish, in accordance with subsection (b), a Toxicological Advisory Board (hereinafter in this section referred to as the"Board") to advise the Commission on precautionary labeling for hazardous substances. The Board shall provide scientific and technical advice to the Commission concerning—
+(1) Within 180 days after November 10, 1978, the Commission shall establish, in accordance with subsection (b), a Toxicological Advisory Board (hereinafter in this section referred to as the "Board") to advise the Commission on precautionary labeling for hazardous substances. The Board shall provide scientific and technical advice to the Commission concerning—
 
 &emsp;(A) proper labeling under sections 1261(p)(1) and 1262(b) of this title, with special attention to—
 
@@ -44,7 +44,7 @@ Section 5703 of title 5, referred to in subsec. (b)(5), was amended generally by
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §704. Determination as to when and how migratory birds may be taken, killed, or possessed
 
-(a) Subject to the provisions and in order to carry out the purposes of the conventions, referred to in section 703 of this title, the Secretary of the Interior is authorized and directed, from time to time, having due regard to the zones of temperature and to the distribution, abundance, economic value, breeding habits, and times and lines of migratory flight of such birds, to determine when, to what extent, if at all, and by what means, it is compatible with the terms of the conventions to allow hunting, taking, capture, killing, possession, sale, purchase, shipment, transportation, carriage, or export of any such bird, or any part, nest, or egg thereof, and to adopt suitable regulations permitting and governing the same, in accordance with such determinations, which regulations shall become effective when approved by the President.
+(a) Subject to the provisions and in order to carry out the purposes of the conventions, referred to in section 703 of this title, the Secretary of the Interior is authorized and directed, from time to time, having due regard to the zones of temperature and to the distribution, abundance, economic value, breeding habits, and times and lines of migratory flight of such birds, to determine when, to what extent, if at all, and by what means, it is compatible with the terms of the conventions to allow hunting, taking, capture, killing, possession, sale, purchase, shipment, transportation, carriage, or export of any such bird, or any part, nest, or egg thereof, and to adopt suitable regulations permitting andgoverning the same, in accordance with such determinations, which regulations shall become effective when approved by the President.
 
 (b) It shall be unlawful for any person to—
 
@@ -29,6 +29,42 @@ Transfer of functions of Secretary of Agriculture to Secretary of the Interior b
 For delegation to Secretary of the Interior of authority vested in President, see Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973, set out as a note under section 715j of Title 15, Commerce and Trade.
 
 Secretary of the Interior empowered to promulgate regulations under this section without approval, ratification, or other action of President, see section 2(b) of Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, set out as a note under section 301 of Title 3, The President.
+
+#### Baiting of Migratory Game Birds
+
+Pub. L. 115–334, title XII, §12601, Dec. 20, 2018, 132 Stat. 5003, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Normal agricultural operation.—The term 'normal agricultural operation' has the meaning given the term in section 20.11 of title 50, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Dec. 20, 2018\]).
+
+&emsp;"(2)
+
+Post-disaster flooding.—The term 'post-disaster flooding' means the destruction of a crop through flooding in accordance with practices required by the Federal Crop Insurance Corporation for agricultural producers to obtain crop insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) on land on which a crop was not harvestable due to a natural disaster (including any hurricane, storm, tornado, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, drought, fire, snowstorm, or other catastrophe that is declared a major disaster by the President in accordance with section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170)) in the crop year—
+
+&emsp;&emsp;"(A) in which the natural disaster occurred; or
+
+&emsp;&emsp;"(B) immediately preceding the crop year in which the natural disaster occurred.
+
+&emsp;"(3)
+
+Rice ratooning.—The term 'rice ratooning' means the agricultural practice of harvesting rice by cutting the majority of the aboveground portion of the rice plant but leaving the roots and growing shoot apices intact to allow the plant to recover and produce a second crop yield.
+
+"(b)
+
+Regulations to Exclude Rice Ratooning and Post-disaster Flooding.—Not later than 30 days after the date of enactment of this Act, the Secretary of the Interior, in consultation with the Secretary of Agriculture, shall revise part 20 of title 50, Code of Federal Regulations, to clarify that rice ratooning and post-disaster flooding, when carried out as part of a normal agricultural operation, do not constitute baiting.
+
+"(c)
+
+Reports.—Not less frequently than once each year—
+
+&emsp;"(1) the Secretary of Agriculture shall submit to the Secretary of the Interior a report that describes any changes to normal agricultural operations across the range of crops grown by agricultural producers in each region of the United States in which the official recommendations described in section 20.11(h) of title 50, Code of Federal Regulations (as in effect on the date of enactment of this Act), are provided to agricultural producers; and
+
+&emsp;"(2) the Secretary of the Interior, in consultation with the Secretary of Agriculture and after seeking input from the heads of State departments of fish and wildlife or the Regional Migratory Bird Flyway Councils of the United States Fish and Wildlife Service, shall publicly post a report on the impact that rice ratooning and post-disaster flooding have on the behavior of migratory game birds that are hunted in the area in which rice ratooning and post-disaster flooding, respectively, have occurred."
 
 #### Report on Effects of 1998 Amendments
 

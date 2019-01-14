@@ -72,7 +72,7 @@
 
 &emsp;(B) a survivor annuity under subchapter IV, if based on the service of an individual who dies before separating from service.
 
-(l) The annuity of an employee retiring under this chapter with service credited under section 8411(b)(6) shall be reduced by the amount necessary to ensure that the present value of the annuity payable to the employee under this subchapter is actuarially equivalent to the present value of the annuity that would be payable to the employee under this subchapter if it were computed—
+(l) The annuity of an employee retiring under this chapter with service credited under section 8411(b)(6) shall be reduced by the amount necessary to ensure that the present value of the annuity payable to the employee under this subchapter is actuarially equivalent to the present value of the annuity that would be payable tothe employee under this subchapter if it were computed—
 
 &emsp;(1) on the basis of service that does not include service credited under section 8411(b)(6); and
 

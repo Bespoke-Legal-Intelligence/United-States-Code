@@ -120,5 +120,5 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat.884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 

@@ -4,7 +4,7 @@
 
 The Secretary, acting through the Director of the United States Fish and Wildlife Service, shall continue the National Wetlands Inventory Project and shall—
 
-&emsp;(1) produce, by September 30, 1988, National Wetlands Inventory maps for the areas that have been identified by the Service as top priorities for mapping, including—
+&emsp;(1) produce, by September 30, 1988, National Wetlands Inventory maps for the areas thathave been identified by the Service as top priorities for mapping, including—
 
 &emsp;&emsp;(A) the entire coastal zone of the United States;
 

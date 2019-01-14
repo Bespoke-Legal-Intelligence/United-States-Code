@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Secretary of Transportation may establish and maintain a voluntary organization, to be known as the United States Maritime Service, for the training of citizens of the United States to serve on merchant vessels of the United States and to perform functions to assist the United States merchant marine, as determined necessary by the Secretary.
+General Authority.—The Secretary of Transportation may establish and maintain avoluntary organization, to be known as the United States Maritime Service, for the training of citizens of the United States to serve on merchant vessels of the United States and to perform functions to assist the United States merchant marine, as determined necessary by the Secretary.
 
 (b)
 

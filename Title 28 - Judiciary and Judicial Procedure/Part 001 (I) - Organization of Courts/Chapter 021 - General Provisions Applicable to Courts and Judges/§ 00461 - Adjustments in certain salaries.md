@@ -48,7 +48,7 @@ Pub. L. 111–8, div. D, title III, §310, Mar. 11, 2009, 123 Stat. 649, provide
 
 Pub. L. 110–161, div. D, title III, §305, Dec. 26, 2007, 121 Stat. 1989, provided that: "Pursuant to section 140 of Public Law 97–92 \[set out below\], and from funds appropriated in this Act \[div. D of Pub. L. 110–161, see Tables for classification and see section 749 of Pub. L. 110–161, set out as a note above\], Justices and judges of the United States are authorized during fiscal year 2008, to receive a salary adjustment in accordance with 28 U.S.C. 461."
 
-Pub. L. 109–115, div. A, title IV, §405, Nov. 30, 2005, 119 Stat. 2470, provided that: "Pursuant to section 140 of Public Law 97–92 \[set out below\], and from funds appropriated in this Act \[div. A of Pub. L. 109–115, see Tables for classification\], Justices and judges of the United States are authorized during fiscal year 2006, to receive a salary adjustment in accordance with 28 U.S.C. 461."
+Pub. L. 109–115, div. A, title IV, §405, Nov. 30, 2005, 119 Stat. 2470, provided that: "Pursuant to section 140 ofPublic Law 97–92 \[set out below\], and from funds appropriated in this Act \[div. A of Pub. L. 109–115, see Tables for classification\], Justices and judges of the United States are authorized during fiscal year 2006, to receive a salary adjustment in accordance with 28 U.S.C. 461."
 
 Pub. L. 108–491, §1, Dec. 23, 2004, 118 Stat. 3973, provided that: "Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 2005 to receive a salary adjustment in accordance with section 461 of title 28, United States Code."
 

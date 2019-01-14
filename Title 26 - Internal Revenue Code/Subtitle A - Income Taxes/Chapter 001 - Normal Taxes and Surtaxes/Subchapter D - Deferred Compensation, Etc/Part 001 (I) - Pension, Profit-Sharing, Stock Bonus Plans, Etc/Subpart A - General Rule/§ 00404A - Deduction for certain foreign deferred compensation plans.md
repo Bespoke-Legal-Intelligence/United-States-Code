@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) in the case of—
 
-&emsp;&emsp;&emsp;(i) a plan under which the benefits are fixed or determinable, limitations similarto those contained in clauses (ii) and (iii) of subparagraph (A) of section 404(a)(1) (determined without regard to the last sentence of such subparagraph (A)), or
+&emsp;&emsp;&emsp;(i) a plan under which the benefits are fixed or determinable, limitations similar to those contained in clauses (ii) and (iii) of subparagraph (A) of section 404(a)(1) (determined without regard to the last sentence of such subparagraph (A)), or
 
 &emsp;&emsp;&emsp;(ii) any other plan, limitations similar to the limitations contained in paragraph (3) of section 404(a), and
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the adoption of the plan or a plan amendment,
 
-&emsp;&emsp;(B) experience gains and losses, and <sup>1</sup>
+&emsp;&emsp;(B) experience gains and losses,
 
 &emsp;&emsp;(C) any change in actuarial assumptions,
 
@@ -198,15 +198,17 @@ For purposes of this section—
 
 #### (5) Section 481 applies to election
 
-&emsp;For purposes of section 481, any election under this section shall be treated as a change in the taxpayer's method of accounting. In applying section 481 with respect to any such election, the period for taking into account any increase or decrease in accumulated profits, earnings and profits or taxable income resulting from the application of section 481(a)(2) shall be the year for which the election is made and the fourteen succeeding years.
+&emsp;For purposes of section 481, any election under this section shall be treated as a changein the taxpayer's method of accounting. In applying section 481 with respect to any such election, the period for taking into account any increase or decrease in accumulated profits, earnings and profits or taxable income resulting from the application of section 481(a)(2) shall be the year for which the election is made and the fourteen succeeding years.
 
 #### (h) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section (including regulations providing for the coordination of the provisions of this section with section 404 in the case of a plan which has been subject to both of such sections).
 
-(Added Pub. L. 96–603, §2(a), Dec. 28, 1980, 94 Stat. 3505; amended Pub. L. 99–514, title XI, §1114(b)(8), title XVIII, §1851(b)(2)(C)(iii), Oct. 22, 1986, 100 Stat. 2451, 2863; Pub. L. 100–647, title I, §1012(b)(4), Nov. 10, 1988, 102 Stat. 3496; Pub. L. 109–280, title VIII, §801(c)(4), Aug. 17, 2006, 120 Stat. 995.)
+(Added Pub. L. 96–603, §2(a), Dec. 28, 1980, 94 Stat. 3505; amended Pub. L. 99–514, title XI, §1114(b)(8), title XVIII, §1851(b)(2)(C)(iii), Oct. 22, 1986, 100 Stat. 2451, 2863; Pub. L. 100–647, title I, §1012(b)(4), Nov. 10, 1988, 102 Stat. 3496; Pub. L. 109–280, title VIII, §801(c)(4), Aug. 17, 2006, 120 Stat. 995; Pub. L. 115–141, div. U, title IV, §401(a)(74), Mar. 23, 2018, 132 Stat. 1187.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (c)(4)(B). Pub. L. 115–141 struck out "and" at end.
 
 <b>2006</b>—Subsec. (g)(3)(A). Pub. L. 109–280 substituted "paragraphs (3) and (6) of section 431(c)" for "paragraphs (3) and (7) of section 412(c)".
 
@@ -296,7 +298,7 @@ Time.—An election under paragraph (2) or (3) may be made only on or before the
 
 &emsp;"(B)
 
-Manner.—An election under paragraph (2) may be made only by a statement attached to the taxpayer's return for its first taxable year ending on or after December 31, 1980. An election under paragraph (3) may be made only if the taxpayer, on or before the last day for making the election, files with the Secretary of the Treasury or his delegate such amended return and such other information as the Secretary of the Treasury or his delegate may require, and agrees to the assessment of a deficiency for any closed year falling within the open period, to the extent such deficiency is attributable to the operation of such election."
+Manner.—An election under paragraph (2) may be made only by a statement attached to the taxpayer's return for its first taxable year ending on or after December 31, 1980. An election under paragraph (3) may be made only if the taxpayer, on or before the last day for making the election, files with the Secretary of the Treasury or his delegate such amendedreturn and such other information as the Secretary of the Treasury or his delegate may require, and agrees to the assessment of a deficiency for any closed year falling within the open period, to the extent such deficiency is attributable to the operation of such election."
 
 \[Pub. L. 97–448, title III, §311(c)(1), Jan. 12, 1983, 96 Stat. 2411, provided that: "The amendment made by subsection (a) of section 305 \[amending par. (2)(E) of this note\] shall take effect on December 28, 1980."\]
 
@@ -307,6 +309,4 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

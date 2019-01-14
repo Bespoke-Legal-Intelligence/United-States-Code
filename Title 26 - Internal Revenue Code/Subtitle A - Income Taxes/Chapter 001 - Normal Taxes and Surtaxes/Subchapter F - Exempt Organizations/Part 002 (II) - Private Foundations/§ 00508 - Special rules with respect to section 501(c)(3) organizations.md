@@ -10,7 +10,7 @@ Except as provided in subsection (c), an organization organized after October 9,
 
 #### (b) Presumption that organizations are private foundations
 
-Except as provided in subsection (c), any organization (including an organization in existence on October 9, 1969) which is described in section 501(c)(3) and which does not notify the Secretary, at such time and in such manner as the Secretary may by regulations prescribe, that it is not a private foundation shall be presumed to be a private foundation.
+Except as provided in subsection (c), any organization (including an organization in existence on October 9, 1969) which is described in section501(c)(3) and which does not notify the Secretary, at such time and in such manner as the Secretary may by regulations prescribe, that it is not a private foundation shall be presumed to be a private foundation.
 
 #### (c) Exceptions
 
@@ -90,7 +90,7 @@ Subsec. (b). Pub. L. 94–455, §§1901(a)(71)(A), 1906(b)(13)(A), struck out "o
 
 Subsec. (c)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (c)(2)(A). Pub. L. 94–455, §1901(b)(8)(E), substituted "(A) educational organizations described in section 170(b)(1)(A)(ii), and" for "(A) educational organizations which normally maintain a regular faculty and curriculum and normally have a regularly enrolled body of pupils or students in attendance at the placewhere their educational activities are regularly carried on; and" after "(b) or both—".
+Subsec. (c)(2)(A). Pub. L. 94–455, §1901(b)(8)(E), substituted "(A) educational organizations described in section 170(b)(1)(A)(ii), and" for "(A) educational organizations which normally maintain a regular faculty and curriculum and normally have a regularly enrolled body of pupils or students in attendance at the place where their educational activities are regularly carried on; and" after "(b) or both—".
 
 Subsec. (c)(2)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 

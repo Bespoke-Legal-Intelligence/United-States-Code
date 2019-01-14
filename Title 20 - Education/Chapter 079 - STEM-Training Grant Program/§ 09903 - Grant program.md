@@ -10,7 +10,7 @@ In the administration of this chapter, the Director shall take such steps as may
 
 #### (c) Amount of grant
 
-Subject to the requirements of subsection (d), the Director may award grants annually on a competitive basis to institutions of higher education in the amount of $2,000,000, per institution of which—
+Subject to the requirements of subsection (d), the Director may award grants annually on acompetitive basis to institutions of higher education in the amount of $2,000,000, per institution of which—
 
 &emsp;(1) $1,500,000 shall be used—
 
@@ -56,7 +56,7 @@ An institution of higher education seeking a grant under the program shall submi
 
 &emsp;(1) a description of the current rate at which individuals majoring in science, technology, engineering, and mathematics become certified as elementary and secondary teachers;
 
-&emsp;(2) a description for the institution's plan for increasing the numbers of students enrolled inand graduating from the program supported under this chapter;
+&emsp;(2) a description for the institution's plan for increasing the numbers of students enrolled in and graduating from the program supported under this chapter;
 
 &emsp;(3) a description of the institution's capacity to develop a program in which individuals majoring in science, technology, engineering, and mathematics can become certified as elementary and secondary teachers;
 

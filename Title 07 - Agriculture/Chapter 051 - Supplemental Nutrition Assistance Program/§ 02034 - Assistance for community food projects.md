@@ -12,7 +12,7 @@ In this section:
 
 &emsp;&emsp;(B) is designed—
 
-&emsp;&emsp;&emsp;(i)(I) to meet the food needs of low-income individuals through food distribution, community outreach to assist in participation in Federally assisted nutrition programs, or improving access to food as part of a comprehensive service;; <sup>1</sup>
+&emsp;&emsp;&emsp;(i)(I) to meet the food needs of low-income individuals through food distribution, community outreach to assist in participation in Federally assisted nutrition programs, or improving access to food as part of a comprehensive service;
 
 &emsp;&emsp;&emsp;(II) to increase the self-reliance of communities in providing for the food needs of the communities; and
 
@@ -50,9 +50,11 @@ In this section:
 
 &emsp;&emsp;(A) $1,000,000 for fiscal year 1996;
 
-&emsp;&emsp;(B) $5,000,000 for each of fiscal years 2008 through 2014; and
+&emsp;&emsp;(B) $5,000,000 for each of fiscal years 2008 through 2014;
 
-&emsp;&emsp;(C) $9,000,000 for fiscal year 2015 and each fiscal year thereafter.
+&emsp;&emsp;(C) $9,000,000 for each of fiscal years 2015 through 2018; and
+
+&emsp;&emsp;(D) $5,000,000 for fiscal year 2019 and each fiscal year thereafter.
 
 #### (c) Eligible entities
 
@@ -142,7 +144,7 @@ Not later than September 30, 2014, and each year thereafter, the Secretary shall
 
 &emsp;(3) the degree of success in improving the long-term capacity of a community to address food and agriculture problems related to hunger or access to healthy food.
 
-(Pub. L. 88–525, §25, as added Pub. L. 104–127, title IV, §401(h), Apr. 4, 1996, 110 Stat. 1027; amended Pub. L. 107–171, title IV, §4125(a), May 13, 2002, 116 Stat. 326; Pub. L. 110–234, title IV, §§4402, 4406(a)(7), May 22, 2008, 122 Stat. 1135, 1141; Pub. L. 110–246, §4(a), title IV, §§4402, 4406(a)(7), June 18, 2008, 122 Stat. 1664, 1896, 1902; Pub. L. 110–380, §1(a), Oct. 8, 2008, 122 Stat. 4080; Pub. L. 113–79, title IV, §4026, Feb. 7, 2014, 128 Stat. 810.)
+(Pub. L. 88–525, §25, as added Pub. L. 104–127, title IV, §401(h), Apr. 4, 1996, 110 Stat. 1027; amended Pub. L. 107–171, title IV, §4125(a), May 13, 2002, 116 Stat. 326; Pub. L. 110–234, title IV, §§4402, 4406(a)(7), May 22, 2008, 122 Stat. 1135, 1141; Pub. L. 110–246, §4(a), title IV, §§4402, 4406(a)(7), June 18, 2008, 122 Stat. 1664, 1896, 1902; Pub. L. 110–380, §1(a), Oct. 8, 2008, 122 Stat. 4080; Pub. L. 113–79, title IV, §4026, Feb. 7, 2014, 128 Stat. 810; Pub. L. 115–334, title IV, §§4017, 4022(8), Dec. 20, 2018, 132 Stat. 4648, 4654.)
 
 #### References in Text
 
@@ -156,13 +158,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a)(1)(B)(i)(I). Pub. L. 115–334, §4022(8), substituted "service;" for "service;;".
+
+Subsec. (b)(2)(C). Pub. L. 115–334, §4017(2), substituted "each of fiscal years 2015 through 2018; and" for "fiscal year 2015 and each fiscal year thereafter."
+
+Subsec. (b)(2)(D). Pub. L. 115–334, §4017(1), (3), added subpar. (D).
+
 <b>2014</b>—Subsec. (a)(1)(B)(i)(I). Pub. L. 113–79, §4026(1)(A)(i)(I), inserted "through food distribution, community outreach to assist in participation in Federally assisted nutrition programs, or improving access to food as part of a comprehensive service;" after "individuals".
 
 Subsec. (a)(1)(B)(i)(III). Pub. L. 113–79, §4026(1)(A)(i)(II), inserted "food access," after "food,".
 
 Subsec. (a)(1)(B)(ii)(I). Pub. L. 113–79, §4026(1)(A)(ii), added subcl. (I) and struck out former subcl. (I) which read as follows: "infrastructure improvement and development;".
 
-Subsec. (a)(2), (3). Pub. L. 113–79, §4026(1)(B), added pars. (2) and (3) and struck out former pars. (2) and (3) which defined "Center" and "underserved community", respectively.
+Subsec. (a)(2), (3). Pub. L. 113–79, §4026(1)(B), added pars. (2) and (3) and struck out former pars. (2) and (3)which defined "Center" and "underserved community", respectively.
 
 Subsec. (b)(2)(B). Pub. L. 113–79, §4026(2)(B), substituted "each of fiscal years 2008 through 2014; and" for "fiscal year 2008 and each fiscal year thereafter."
 
@@ -213,6 +221,4 @@ Amendment by sections 4402 and 4406(a)(7) of Pub. L. 110–246 effective Oct. 1,
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–171, title IV, §4125(b), May 13, 2002, 116 Stat. 327, provided that: "The amendments made by this section \[amending this section\] take effect on the date of enactment of this Act \[May 13, 2002\]."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

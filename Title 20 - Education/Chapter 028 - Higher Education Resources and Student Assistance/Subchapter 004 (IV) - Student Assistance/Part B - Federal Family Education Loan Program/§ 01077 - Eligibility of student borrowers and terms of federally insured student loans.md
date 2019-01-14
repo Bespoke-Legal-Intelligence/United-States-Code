@@ -10,7 +10,7 @@ Except as provided in section 1078–3 of this title, a loan by an eligible lend
 
 &emsp;&emsp;(A) is made without security and without endorsement;
 
-&emsp;&emsp;(B) provides for repayment (except as provided in subsection (c)) of the principal amount of the loan in installments over a period of not less than 5 years (unless sooner repaid or unless the student, during the 6 months preceding the start of the repayment period, specifically requests that repayment be made over a shorter period) nor more than 10 years beginning 6 months after the month in which the student ceases to carry at an eligible institution at least one-half the normal full-time academic workload as determined by the institution, except—
+&emsp;&emsp;(B) provides for repayment (except as provided in subsection (c)) of the principal amount of the loan in installments over a period of not less than 5 years (unless sooner repaid or unless the student, during the 6 months preceding the start of the repayment period, specifically requests that repayment be made over a shorter period) nor more than 10 years beginning 6 months after the month in which the student ceases to carry at an eligible institution at least one-halfthe normal full-time academic workload as determined by the institution, except—
 
 &emsp;&emsp;&emsp;(i) as provided in subparagraph (C);
 
@@ -28,9 +28,11 @@ Except as provided in section 1078–3 of this title, a loan by an eligible lend
 
 &emsp;&emsp;&nbsp;except that no borrower shall be eligible for a deferment under this clause, or a loan made under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program;
 
-&emsp;&emsp;&emsp;(ii) not in excess of 3 years during which the borrower is seeking and unable to find full-time employment; or
+&emsp;&emsp;&emsp;(ii) not in excess of 3 years during which the borrower is seeking and unable to find full-time employment;
 
-&emsp;&emsp;&emsp;(iii) not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085(o) of this title, has caused or will cause the borrower to have an economic hardship;
+&emsp;&emsp;&emsp;(iii) not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085(o) of this title, has caused or will cause the borrower to have an economic hardship; or
+
+&emsp;&emsp;&emsp;(iv) in which the borrower is receiving treatment for cancer and the 6 months after such period.<sup>1</sup>
 
 > &emsp;&emsp;and provides that any such period shall not be included in determining the 10-year period described in subparagraph (B);
 
@@ -40,7 +42,7 @@ Except as provided in section 1078–3 of this title, a loan by an eligible lend
 
 &emsp;&emsp;(F) entitles the student borrower to accelerate without penalty repayment of the whole or any part of the loan;
 
-&emsp;&emsp;(G)(i) contains a notice of the system,<sup>1</sup> of disclosure of information concerning such loan to consumer reporting agencies under section 1080a of this title, and (ii) provides that the lender on request of the borrower will provide information on the repayment status of the note to such consumer reporting agencies;
+&emsp;&emsp;(G)(i) contains a notice of the system,<sup>2</sup> of disclosure of information concerning such loan to consumer reporting agencies under section 1080a of this title, and (ii) provides that the lender on request of the borrower will provide information on the repayment status of the note to such consumer reporting agencies;
 
 &emsp;&emsp;(H) provides that, no more than 6 months prior to the date on which the borrower's first payment on a loan is due, the lender shall offer the borrower the option of repaying the loan in accordance with a graduated or income-sensitive repayment schedule established by the lender and in accordance with the regulations of the Secretary; and
 
@@ -74,13 +76,15 @@ Except as provided in subsection (a)(2)(H), the total of the payments by a borro
 
 The lender shall obtain the borrower's driver's license number, if any, at the time of application for the loan.
 
-(Pub. L. 89–329, title IV, §427, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1361; amended Pub. L. 100–50, §10(b), (c), June 3, 1987, 101 Stat. 341; Pub. L. 100–369, §§5(b)(1), 7(c), 11(a), July 18, 1988, 102 Stat. 836–838; Pub. L. 101–239, title II, §§2002(a)(1), 2004(b)(2), Dec. 19, 1989, 103 Stat. 2111, 2116; Pub. L. 102–164, title VI, §§601(a), 602(a), Nov. 15, 1991, 105 Stat. 1065, 1066; Pub. L. 102–325, title IV, §414, July 23, 1992, 106 Stat. 513; Pub. L. 103–208, §2(c)(4), Dec. 20, 1993,107 Stat. 2461; Pub. L. 110–315, title IV, §432(b)(1), Aug. 14, 2008, 122 Stat. 3246.)
+(Pub. L. 89–329, title IV, §427, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1361; amended Pub. L. 100–50, §10(b), (c), June 3, 1987, 101 Stat. 341; Pub. L. 100–369, §§5(b)(1), 7(c), 11(a), July 18, 1988, 102 Stat. 836–838; Pub. L. 101–239, title II, §§2002(a)(1), 2004(b)(2), Dec. 19, 1989, 103 Stat. 2111, 2116; Pub. L. 102–164, title VI, §§601(a), 602(a), Nov. 15, 1991, 105 Stat. 1065, 1066; Pub. L. 102–325, title IV, §414, July 23, 1992, 106 Stat. 513; Pub. L. 103–208, §2(c)(4), Dec. 20, 1993, 107 Stat. 2461; Pub. L. 110–315, title IV, §432(b)(1), Aug. 14, 2008, 122 Stat. 3246; Pub. L. 115–245, div. B, title III, §309(b), Sept. 28, 2018, 132 Stat. 3106.)
 
 #### Prior Provisions
 
 A prior section 1077, Pub. L. 89–329, title IV, §427, Nov. 8, 1965, 79 Stat. 1238; Pub. L. 89–794, title XI, §1101(b)(1), Nov. 8, 1966, 80 Stat. 1476; Pub. L. 90–460, §2(a)(1), Aug. 3, 1968, 82 Stat. 635; Pub. L. 90–575, title I, §§113(b)(2), 116(b)(2), 117(c), 120(c)(2), Oct. 16, 1968, 82 Stat. 1021, 1023, 1026, 1027; Pub. L. 92–318, title I, §§132B(b), 132C(c), June 23, 1972, 86 Stat. 262, 263; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2106; Pub. L. 95–43, §1(a)(9), (18), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95–566, §5(a)(1), Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV, §§413(a), (c), 415(a)(2), (b)(1), 416(a)(2), 423(a)(1), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1417–1421, 1432, 1503; Pub. L. 97–35, title V, §537(b)(1), (d)(2), (e)(1), Aug. 13, 1981, 95 Stat. 456, 457; Pub. L. 98–79, §10\[(a)\], Aug. 15, 1983, 97 Stat. 484; Pub. L. 99–272, title XVI, §§16012(a), 16013(b), 16017(b)(1), Apr. 7, 1986, 100 Stat. 339, 340, 347, set out conditions for Federal loan insurance, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(2)(C)(iv). Pub. L. 115–245 added cl. (iv).
 
 <b>2008</b>—Subsec. (a)(2)(G)(i). Pub. L. 110–315, §432(b)(1)(A), substituted "consumer reporting agencies" for "credit bureau organizations".
 
@@ -122,6 +126,14 @@ Subsec. (a)(2)(C)(vii). Pub. L. 100–50, §10(b)(2), inserted "or serving in an
 
 Subsec. (a)(4). Pub. L. 100–50, §10(c), substituted "$1,000 or more" for "more than $1,000".
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–245, div. B, title III, §309(f), Sept. 28, 2018, 132 Stat. 3106, provided that: "The amendments made by this Act \[probably means "this section", amending this section and sections 1078, 1078–8, 1087e, and 1087dd of this title\] shall apply with respect to loans—
+
+&emsp;"(1) made on or after the date of the enactment of this Act \[Sept. 28, 2018\]; or
+
+&emsp;"(2) in repayment on the date of the enactment of this Act."
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1003 of this title.
@@ -132,7 +144,7 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title II, §2002(a)(4), Dec. 19, 1989, 103 Stat. 2111, provided that: "The amendments made by this subsection \[amending this section and sections 1078 and 1087dd of this title\] shall apply to any loan made, insured, or guaranteed under part B or part E of titleIV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq., 1087aa et seq.\], including a loan made before the enactment of this Act \[Dec. 19, 1989\], and shall take effect on January 1, 1990, except that such amendments shall not apply with respect to any portion of a period of deferment granted to a borrower under section 427(a)(2)(C)(i), 428(b)(1)(M)(i), or 464(c)(2)(A)(i) of the Higher Education Act of 1965 \[sections 1077(a)(2)(C)(i), 1078(b)(1)(M)(i), 1087dd(c)(2)(A)(i) of this title\] for service in a medical internship or residency program that is completed prior to the effective date of this section \[Dec. 19, 1989\]."
+Pub. L. 101–239, title II, §2002(a)(4), Dec. 19, 1989, 103 Stat. 2111, provided that: "The amendments made by this subsection \[amending this section and sections 1078 and 1087dd of this title\] shall apply to any loan made, insured, or guaranteed under part B or part E of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq., 1087aa et seq.\], including a loan made before the enactment of this Act \[Dec. 19, 1989\], and shall take effect on January 1, 1990, except that such amendments shall not apply with respect to any portion of a period of deferment granted to a borrower under section 427(a)(2)(C)(i), 428(b)(1)(M)(i), or 464(c)(2)(A)(i) of the Higher Education Act of 1965 \[sections 1077(a)(2)(C)(i), 1078(b)(1)(M)(i), 1087dd(c)(2)(A)(i) of this title\] for service in a medical internship or residency program that is completed prior to the effective date of this section \[Dec. 19, 1989\]."
 
 Pub. L. 101–239, title II, §2004(c), Dec. 19, 1989, 103 Stat. 2116, provided that: "The amendments made by this section \[enacting section 1078–7 of this title and amending this section and section 1078 of this title\] shall apply with respect to loans made to cover the cost of instruction for periods of enrollment beginning on or after January 1, 1990."
 
@@ -152,5 +164,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 Section effective Oct. 17, 1986, except that subsec. (a)(2)(C) (other than cls. (viii), (ix), and (x) thereof) of this section shall apply only to loans to new borrowers made to cover the costs of instruction for periods of enrollment beginning on or after July 1, 1987, or disbursed on or after July 1, 1987, see section 402(b) of Pub. L. 99–498, set out as a note under section 1071 of this title.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

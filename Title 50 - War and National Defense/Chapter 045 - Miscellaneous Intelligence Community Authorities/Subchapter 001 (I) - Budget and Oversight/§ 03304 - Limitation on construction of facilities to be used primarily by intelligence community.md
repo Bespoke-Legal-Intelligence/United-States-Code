@@ -22,7 +22,7 @@
 
 #### (2) Report
 
-&emsp;(A) When a decision is made to carry out a construction project under this subsection, the Secretary of Defense and the Director of National Intelligence jointly shall submit a report in writing to the appropriate committeesof Congress on that decision. Each such report shall include (i) the justification for the project and the current estimate of the cost of the project, (ii) the justification for carrying out the project under this subsection, and (iii) a statement of the source of the funds to be used to carry out the project. The project may then be carried out only after the end of the 7-day period beginning on the date the notification is received by such committees.
+&emsp;(A) When a decision is made to carry out a construction project under this subsection, the Secretary of Defense and the Director of National Intelligence jointly shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include (i) the justification for the project and the current estimate of the cost of the project, (ii) the justification for carrying out the project under this subsection, and (iii) a statement of the source of the funds to be used to carry out the project. The project may then be carried out only after the end of the 7-day period beginning on the date the notification is received by such committees.
 
 &emsp;(B) Notwithstanding subparagraph (A), a project referred to in paragraph (1) may begin on the date the notification is received by the appropriate committees of Congress under that paragraph if the Director of National Intelligence and the Secretary of Defense jointly determine that—
 

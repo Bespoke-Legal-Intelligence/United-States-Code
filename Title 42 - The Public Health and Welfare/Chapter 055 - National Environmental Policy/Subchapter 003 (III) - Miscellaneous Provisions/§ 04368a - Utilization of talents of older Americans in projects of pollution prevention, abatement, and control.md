@@ -18,7 +18,7 @@ Prior to awarding any grant or agreement under subsection (a), the applicable Fe
 
 Grants or agreements awarded under this section shall be subject to prior appropriation Acts.
 
-(Pub. L. 98–313, §2, June 12, 1984, 98 Stat. 235; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(35), (f)(27)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–434; Pub. L. 113–128, title V, §512(j), July 22, 2014, 128 Stat. 1709.)
+(Pub. L. 98–313, §2, June 12, 1984, 98 Stat. 235; Pub. L. 105–277, div. A, §101(f) \[title VIII,§405(d)(35), (f)(27)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–434; Pub. L. 113–128, title V, §512(j), July 22, 2014, 128 Stat. 1709.)
 
 #### References in Text
 

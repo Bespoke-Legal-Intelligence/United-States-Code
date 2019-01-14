@@ -4,7 +4,7 @@
 
 For each fiscal year during which an urban Indian organization receives or expends funds pursuant to a contract entered into, or a grant received, pursuant to this subchapter, such organization shall submit to the Secretary a quarterly report including—
 
-&emsp;(1) in the case of a contract or grant under section 1653 of this title, information gathered pursuant to clauses (10) and (11) of subsection (a) of such section;
+&emsp;(1) in the case of a contract or grant under section 1653 of this title, information gatheredpursuant to clauses (10) and (11) of subsection (a) of such section;
 
 &emsp;(2) information on activities conducted by the organization pursuant to the contract or grant;
 

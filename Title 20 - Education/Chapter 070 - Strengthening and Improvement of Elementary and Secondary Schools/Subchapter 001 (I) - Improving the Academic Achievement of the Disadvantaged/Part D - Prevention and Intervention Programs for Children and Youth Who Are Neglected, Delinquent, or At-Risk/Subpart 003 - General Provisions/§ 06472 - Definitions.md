@@ -18,7 +18,7 @@ In this part:
 
 &emsp;The term "institution for neglected or delinquent children and youth" means—
 
-&emsp;&emsp;(A) a public or private residential facility, other than a foster home, that is operated for the care of children who have been committed to the institution or voluntarily placed in the institution under applicableState law, due to abandonment, neglect, or death of their parents or guardians; or
+&emsp;&emsp;(A) a public or private residential facility, other than a foster home, that is operated for the care of children who have been committed to the institution or voluntarily placed in the institution under applicable State law, due to abandonment, neglect, or death of their parents or guardians; or
 
 &emsp;&emsp;(B) a public or private residential facility for the care of children who have been adjudicated to be delinquent or in need of supervision.
 

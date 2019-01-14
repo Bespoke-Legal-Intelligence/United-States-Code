@@ -20,7 +20,7 @@ The Administration is authorized to prescribe regulations governing the operatio
 
 #### (d) Forfeiture of rights, privileges, and franchises; jurisdiction
 
-Should any small business investment company violate or fail to comply with any of the provisions of this chapter or of regulations prescribed hereunder, all of its rights, privileges, and franchises derived therefrom may thereby be forfeited. Before any such company shall be declared dissolved, or its rights, privileges, and franchises forfeited, any noncompliance with or violation of this chapter shall be determined and adjudged by a court of the United States of competent jurisdiction in a suit brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of such company is located. Any such suit shall be brought by the United States at the instance of the Administration or the Attorney General.
+Should any small business investment company violate or fail to comply with any of theprovisions of this chapter or of regulations prescribed hereunder, all of its rights, privileges, and franchises derived therefrom may thereby be forfeited. Before any such company shall be declared dissolved, or its rights, privileges, and franchises forfeited, any noncompliance with or violation of this chapter shall be determined and adjudged by a court of the United States of competent jurisdiction in a suit brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of such company is located. Any such suit shall be brought by the United States at the instance of the Administration or the Attorney General.
 
 #### (e) Liability of United States
 
@@ -38,33 +38,39 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 &emsp;(A) The Administration's recommendations with respect to the feasibility and organization of a small business capital bank to encourage private financing of small business investment companies to replace Government financing of such companies.
 
-&emsp;(B) The Administration's plans to insure the provision of small business investment company financing to all areas of the country and to all eligible small business concerns including steps taken to accomplish same.
+&emsp;(B) The Administration's plans to insure the provision of small business investment company financing and licensing to all areas of the country and to all eligible small business concerns including steps taken to accomplish same.
 
-&emsp;(C) Steps taken by the Administration to maximize recoupment of Government funds incident to the inauguration and administration of the small business investment company program and to insure compliance with statutory and regulatory standards relating thereto.
+&emsp;(C) Steps taken by the Administration to improve the number of licensees in underlicensed States.
 
-&emsp;(D) An accounting by the Office of Management and Budget with respect to Federal expenditures to business by executive agencies, specifying the proportion of said expenditures going to business concerns falling above and below small business size standards applicable to small business investment companies.
+&emsp;(D) The Administration's plans to support States that seek to increase the number of licensees in the State.
 
-&emsp;(E) An accounting by the Treasury Department with respect to tax revenues accruing to the Government from business concerns, incorporated and unincorporated, specifying the source of such revenues by concerns falling above and below the small business size standards applicable to small business investment companies.
+&emsp;(E) Steps taken by the Administration to maximize recoupment of Government funds incident to the inauguration and administration of the small business investment company program and to insure compliance with statutory and regulatory standards relating thereto.
 
-&emsp;(F) An accounting by the Treasury Department with respect to both tax losses and increased tax revenues related to small business investment company financing of both individual and corporate business taxpayers.
+&emsp;(F) An accounting by the Office of Management and Budget with respect to Federal expenditures to business by executive agencies, specifying the proportion of said expenditures going to business concerns falling above and below small business size standards applicable to small business investment companies.
 
-&emsp;(G) Recommendations of the Treasury Department with respect to additional tax incentives to improve and facilitate the operations of small business investment companies and to encourage the use of their financing facilities by eligible small business concerns.
+&emsp;(G) An accounting by the Treasury Department with respect to tax revenues accruing to the Government from business concerns, incorporated and unincorporated, specifying the source of such revenues by concerns falling above and below the small business size standards applicable to small business investment companies.
 
-&emsp;(H) A report from the Securities and Exchange Commission enumerating actions undertaken by that agency to simplify and minimize the regulatory requirements governing small business investment companies under the Federal securities laws and to eliminate overlapping regulation and jurisdiction as between the Securities and Exchange Commission, the Administration, and other agencies of the executive branch.
+&emsp;(H) An accounting by the Treasury Department with respect to both tax losses and increased tax revenues related to small business investment company financing of both individual and corporate business taxpayers.
 
-&emsp;(I) A report from the Securities and Exchange Commission with respect to actions taken to facilitate and stabilize the access of small business concerns to the securities markets.
+&emsp;(I) Recommendations of the Treasury Department with respect to additional tax incentives to improve and facilitate the operations of small business investment companies and to encourage the use of their financing facilities by eligible small business concerns.
 
-&emsp;(J) Actions undertaken by the Securities and Exchange Commission to simplify complianceby small business investment companies with the requirements of the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] and to facilitate the election to be taxed as regulated investment companies pursuant to section 851 of title 26.
+&emsp;(J) A report from the Securities and Exchange Commission enumerating actions undertaken by that agency to simplify and minimize the regulatory requirements governing small business investment companies under the Federal securities laws and to eliminate overlapping regulation and jurisdiction as between the Securities and Exchange Commission, the Administration, and other agencies of the executive branch.
+
+&emsp;(K) A report from the Securities and Exchange Commission with respect to actions taken to facilitate and stabilize the access of small business concerns to the securities markets.
+
+&emsp;(L) Actions undertaken by the Securities and Exchange Commission to simplify compliance by small business investment companies with the requirements of the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] and to facilitate the election to be taxed as regulated investment companies pursuant to section 851 of title 26.
 
 (3) In its annual report for the year ending on December 31, 1993, and in each succeeding annual report made pursuant to section 10(a) of the Small Business Act \[15 U.S.C. 639(a)\], the Administration shall include a full and detailed description or account relating to—
 
-&emsp;(A) the number of small business investment companies the Administration licensed, the number of licensees that have been placed in liquidation, and the number of licensees that have surrendered their licenses in the previous year, identifying the amount of government leverage each has received and the type of leverage instruments each has used;
+&emsp;(A) the number of small business investment companies the Administration licensed, the number of licensees that have been placed in liquidation, and the number of licensees that have surrendered their licenses in the previous year, identifying the amount of governmentleverage each has received and the type of leverage instruments each has used;
 
 &emsp;(B) the amount of government leverage that each licensee received in the previous year and the types of leverage instruments each licensee used;
 
-&emsp;(C) for each type of financing instrument, the sizes, geographic locations, and other characteristics of the small business investment companies using them, including the extent to which the investment companies have used the leverage from each instrument to make small business loans, equity investments, or both; and
+&emsp;(C) for each type of financing instrument, the sizes, geographic locations, and other characteristics of the small business investment companies using them, including the extent to which the investment companies have used the leverage from each instrument to make small business loans, equity investments, or both;
 
-&emsp;(D) the frequency with which each type of investment instrument has been used in the current year and a comparison of the current year with previous years.
+&emsp;(D) the frequency with which each type of investment instrument has been used in the current year and a comparison of the current year with previous years; and
+
+&emsp;(E) the geographic dispersion of licensees in each State compared to the population of the State, identifying underlicensed States.
 
 #### (h) Certifications of eligibility
 
@@ -92,15 +98,15 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 (B) In the case of any loan with respect to which there is a forfeiture of interest under subparagraph (A), the person who paid the interest may recover from a small business investment company making such loan an amount equal to twice the amount of the interest paid on such loan. Such interest may be recovered in a civil action commenced in a court of appropriate jurisdiction not later than two years after the most recent payment of interest.
 
-(Pub. L. 85–699, title III, §308, Aug. 21, 1958, 72 Stat. 694; Pub. L. 87–341, §§8, 11(c)(d), Oct. 3, 1961, 75 Stat. 753, 756; Pub. L. 88–273, §5, Feb. 28, 1964, 78 Stat. 147; Pub. L. 89–779, §3, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 90–104, title II, §210, Oct. 11, 1967, 81 Stat. 271; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–501, title II, §204, Oct. 29, 1974, 88 Stat. 1559; Pub. L. 95–507, title I, §102, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 96–104, title I, §104, Nov. 5, 1979, 93 Stat. 790; Pub. L. 96–161, title II, §204, Dec. 28, 1979, 93 Stat. 1236; Pub. L. 96–221, title V, §§524, 529, Mar. 31, 1980, 94 Stat. 166, 168; Pub. L. 99–226, §1, Dec. 28, 1985, 99 Stat. 1744; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–366, title IV, §§408(c), 417(a), Sept. 4, 1992, 106 Stat. 1016,1019; Pub. L. 103–403, title II, §214, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(e), (h)(1)(B), Sept. 30, 1996, 110 Stat. 3009–745, 3009–747; Pub. L. 106–9, §2(a), Apr. 5, 1999, 113 Stat. 17; Pub. L. 108–447, div. K, title II, §202, Dec. 8, 2004, 118 Stat. 3465.)
+(Pub. L. 85–699, title III, §308, Aug. 21, 1958, 72 Stat. 694; Pub. L. 87–341, §§8, 11(c)(d), Oct. 3, 1961, 75 Stat. 753, 756; Pub. L. 88–273, §5, Feb. 28, 1964, 78 Stat. 147; Pub. L. 89–779, §3, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 90–104, title II, §210, Oct. 11, 1967, 81 Stat. 271; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–501, title II, §204, Oct. 29, 1974, 88 Stat. 1559; Pub. L. 95–507, title I, §102, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 96–104, title I, §104, Nov. 5, 1979, 93 Stat. 790; Pub. L. 96–161, title II, §204, Dec. 28, 1979, 93 Stat. 1236; Pub. L. 96–221, title V, §§524, 529, Mar. 31, 1980, 94 Stat. 166, 168; Pub. L. 99–226, §1, Dec. 28, 1985, 99 Stat. 1744; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–366, title IV, §§408(c), 417(a), Sept. 4, 1992, 106 Stat. 1016, 1019; Pub. L. 103–403, title II, §214, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(e), (h)(1)(B), Sept. 30, 1996, 110 Stat. 3009–745, 3009–747; Pub. L. 106–9, §2(a), Apr. 5, 1999, 113 Stat. 17; Pub. L. 108–447, div. K, title II, §202, Dec. 8, 2004, 118 Stat. 3465; Pub. L. 115–333, §2(3), Dec. 19, 2018, 132 Stat. 4488.)
 
 #### References in Text
 
 For definition of "this chapter", referred to in subsecs. (a) to (h), see References in Text note set out under section 661 of this title.
 
-The Small Business Act, referred to in subsec. (f), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables.
+The Small Business Act, referred to in subsec. (f), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 631 of this title and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (g)(2)(J), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (g)(2)(L), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 #### Codification
 
@@ -111,6 +117,12 @@ Section 104 of Pub. L. 96–104, cited as a credit to this section, was repealed
 Section 204 of Pub. L. 93–501, cited as a credit to this section, was repealed by Pub. L. 96–104, §1, Nov. 5, 1979, 93 Stat. 789. The amendment of this section by that repealed provision, described in the 1974 Amendment note, shall continue in effect for limited purposes pursuant to section 1 of Pub. L. 96–104. See Savings Provisions note, describing the provisions of section 1 of Pub. L. 96–104, set out under section 85 of Title 12, Banks and Banking.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (g)(2)(B). Pub. L. 115–333, §2(3)(A)(i), inserted "and licensing" after "financing".
+
+Subsec. (g)(2)(C) to (L). Pub. L. 115–333, §2(3)(A)(ii), (iii), added subpars. (C) and (D) and redesignated former subpars. (C) to (J) as (E) to (L), respectively.
+
+Subsec. (g)(3)(E). Pub. L. 115–333, §2(3)(B), added subpar. (E).
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–447, which directed the amendment of section 308(b) of the Small Business Investment Act by substituting "Any such company that is licensed before October 1, 2004 and has outstanding financings is authorized to invest funds not needed for its operations—" and pars. (1) to (3) for last sentence, was executed to this section, which is section 308 of the Small Business Investment Act of 1958, to reflect the probable intent of Congress. Prior to amendment, last sentence read as follows: "Such companies with outstanding financings are authorized to invest funds not reasonably needed for their operations in direct obligations of, or obligations guaranteed as to principal and interest by, the United States, or in certificates of deposit maturing within one year or less, issued by any institution the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, or in savings accounts of such institutions."
 

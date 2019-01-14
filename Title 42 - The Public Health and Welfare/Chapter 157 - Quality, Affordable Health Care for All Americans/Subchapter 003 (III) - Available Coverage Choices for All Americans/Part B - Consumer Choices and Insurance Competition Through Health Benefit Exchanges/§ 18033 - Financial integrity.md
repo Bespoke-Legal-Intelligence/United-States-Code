@@ -20,7 +20,7 @@
 
 #### (5) Protections against fraud and abuse
 
-&emsp;With respect to activities carried out under this title,<sup>1</sup> the Secretary shall provide for theefficient and non-discriminatory administration of Exchange activities and implement any measure or procedure that—
+&emsp;With respect to activities carried out under this title,<sup>1</sup> the Secretary shall provide for the efficient and non-discriminatory administration of Exchange activities and implement any measure or procedure that—
 
 &emsp;&emsp;(A) the Secretary determines is appropriate to reduce fraud and abuse in the administration of this title; <sup>1</sup> and
 
@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Payments made by, through, or in connection with an Exchange are subject to the False Claims Act (31 U.S.C. 3729 et seq.) if those payments include any Federal funds. Compliance with the requirements of this Act concerning eligibility for a health insurance issuer to participate in the Exchange shall be a material condition of an issuer's entitlement to receive payments, including payments of premium tax credits and cost-sharing reductions, through the Exchange.
+&emsp;&emsp;Payments made by, through, or in connection with an Exchange are subject to the False Claims Act (31 U.S.C. 3729 et seq.) if those payments include any Federal funds. Compliance with the requirements of this Act concerning eligibility for a health insurance issuer to participate in the Exchangeshall be a material condition of an issuer's entitlement to receive payments, including payments of premium tax credits and cost-sharing reductions, through the Exchange.
 
 #### (B) <sup>2</sup> Damages
 

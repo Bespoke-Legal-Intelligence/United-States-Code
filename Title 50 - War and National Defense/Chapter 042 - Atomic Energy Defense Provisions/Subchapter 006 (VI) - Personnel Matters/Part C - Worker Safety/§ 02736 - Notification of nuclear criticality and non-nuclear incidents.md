@@ -52,7 +52,7 @@ In this section:
 
 &emsp;&emsp;(B) defense environmental cleanup programs of the Office of Environmental Management of the Department of Energy.
 
-(Pub. L. 107–314, div. D, title XLVI, §4646, as added Pub. L. 112–239, div. C, title XXXI,§3142(a)(1), Jan. 2, 2013, 126 Stat. 2194; amended Pub. L. 113–66, div. C, title XXXI, §3146(g)(13), Dec. 26, 2013, 127 Stat. 1080.)
+(Pub. L. 107–314, div. D, title XLVI, §4646, as added Pub. L. 112–239, div. C, title XXXI, §3142(a)(1), Jan. 2, 2013, 126 Stat. 2194; amended Pub. L. 113–66, div. C, title XXXI, §3146(g)(13), Dec. 26, 2013, 127 Stat. 1080.)
 
 #### Amendments
 

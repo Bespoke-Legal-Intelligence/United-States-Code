@@ -10,7 +10,7 @@
 
 #### (i) Currently identified survivor
 
-&emsp;&emsp;&emsp;An individual, including a WTC responder, who has been identified as eligiblefor medical treatment and monitoring by the WTC Environmental Health Center as of January 2, 2011.
+&emsp;&emsp;&emsp;An individual, including a WTC responder, who has been identified as eligible for medical treatment and monitoring by the WTC Environmental Health Center as of January 2, 2011.
 
 #### (ii) Survivor who meets current eligibility criteria
 
@@ -72,7 +72,7 @@
 
 #### (aa) Currently identified survivors
 
-&emsp;&emsp;&emsp;&emsp;&emsp;In the case of an individual who is described in subparagraph (A)(i), theWTC Program Administrator shall provide the written documentation under subclause (I) not later than July 1, 2011.
+&emsp;&emsp;&emsp;&emsp;&emsp;In the case of an individual who is described in subparagraph (A)(i), the WTC Program Administrator shall provide the written documentation under subclause (I) not later than July 1, 2011.
 
 #### (bb) Other members
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) in accordance with such subparagraph; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to such number, as determined by the Administrator based on the best available information and subject to amounts made available under section 300mm–61 of this title, that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals receiving such certifications; and
+&emsp;&emsp;&emsp;&emsp;(II) to such number, as determined by the Administrator based on the bestavailable information and subject to amounts made available under section 300mm–61 of this title, that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals receiving such certifications; and
 
 &emsp;&emsp;&emsp;(ii) provide priority in such certifications in the order in which individuals apply for a determination under paragraph (2)(B).
 

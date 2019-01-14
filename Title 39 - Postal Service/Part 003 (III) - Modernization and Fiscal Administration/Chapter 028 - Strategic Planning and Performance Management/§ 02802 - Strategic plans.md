@@ -1,6 +1,6 @@
 ### §2802. Strategic plans
 
-(a) No later than September 30, 1997, the Postal Service shall submit to the President and theCongress a strategic plan for its program activities. Such plan shall contain—
+(a) No later than September 30, 1997, the Postal Service shall submit to the President and the Congress a strategic plan for its program activities. Such plan shall contain—
 
 &emsp;(1) a comprehensive mission statement covering the major functions and operations of the Postal Service;
 

@@ -22,7 +22,7 @@ Pub. L. 98–164, title IX, §901, Nov. 22, 1983, 97 Stat. 1051, provided that: 
 
 Ex. Ord. No. 12517, May 29, 1985, 50 F.R. 23105, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States ofAmerica, including section 301 of Title 3 of the United States Code, and in order to delegate certain functions concerning the United States-India Fund for Cultural, Educational, and Scientific Cooperation to the Secretary of State, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including section 301 of Title 3 of the United States Code, and in order to delegate certain functions concerning the United States-India Fund for Cultural, Educational, and Scientific Cooperation to the Secretary of State, it is hereby ordered as follows:
 
 Section 1. All functions vested in the President by the United States-India Fund for Cultural, Educational, and Scientific Cooperation Act (Title IX of Public Law 98–164, 97 Stat. 1051; "the Act") \[22 U.S.C. 290j et seq.\] are delegated to the Secretary of State.
 

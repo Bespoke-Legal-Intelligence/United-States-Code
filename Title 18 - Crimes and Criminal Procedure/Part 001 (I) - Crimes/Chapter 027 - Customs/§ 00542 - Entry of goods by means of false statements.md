@@ -10,7 +10,7 @@ Nothing in this section shall be construed to relieve imported merchandise from 
 
 The term "commerce of the United States", as used in this section, shall not include commerce with the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
 
-(June 25, 1948, ch. 645, 62 Stat. 715; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Pub. L. 103–322, title XXXIII, §§330004(18), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2142, 2147; Pub. L. 104–294, title VI, §604(b)(23), Oct. 11, 1996, 110 Stat. 3508.)
+(June 25, 1948, ch. 645, 62 Stat. 715; June 30, 1955, ch. 258, §2(c), 69 Stat. 242; Pub. L. 103–322, titleXXXIII, §§330004(18), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2142, 2147; Pub. L. 104–294, title VI, §604(b)(23), Oct. 11, 1996, 110 Stat. 3508.)
 
 #### Historical and Revision Notes
 

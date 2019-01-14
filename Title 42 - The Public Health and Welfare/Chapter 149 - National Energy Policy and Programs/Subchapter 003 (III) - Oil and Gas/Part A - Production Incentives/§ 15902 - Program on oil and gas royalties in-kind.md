@@ -16,7 +16,7 @@ All royalty accruing to the United States shall, on the demand of the Secretary,
 
 #### (1) Satisfaction of royalty obligation
 
-&emsp;Delivery by, or on behalf of, the lessee of the royalty amount and quality due under thelease satisfies royalty obligation of the lessee for the amount delivered, except that transportation and processing reimbursements paid to, or deductions claimed by, the lessee shall be subject to review and audit.
+&emsp;Delivery by, or on behalf of, the lessee of the royalty amount and quality due under the lease satisfies royalty obligation of the lessee for the amount delivered, except that transportation and processing reimbursements paid to, or deductions claimed by, the lessee shall be subject to review and audit.
 
 #### (2) Marketable condition
 

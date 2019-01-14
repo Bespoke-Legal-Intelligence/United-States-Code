@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, no horse may be exported by sea from
 
 #### (b) Granting of waivers
 
-The Secretary of Commerce, in consultation with the Secretary of Agriculture, may issue regulations providing for the granting of waivers permitting the export by sea of a specified consignment of horses, if the Secretary of Commerce, in consultation with the Secretary of Agriculture, determines that no horse in that consignment is being exported for purposes of slaughter.
+The Secretary of Commerce, in consultation with the Secretary of Agriculture, may issueregulations providing for the granting of waivers permitting the export by sea of a specified consignment of horses, if the Secretary of Commerce, in consultation with the Secretary of Agriculture, determines that no horse in that consignment is being exported for purposes of slaughter.
 
 #### (c) Penalties
 
@@ -28,5 +28,5 @@ Section was classified to section 466c of the former Appendix to Title 46, prior
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 7(j) of the Export Administration Act of 1979, section 4606(j) of Title 50, War and National Defense, prior to the amendment of that Act by the Export Administration Amendments Act of 1985, Pub. L. 99–64, which enacted this section.
+Provisions similar to those in this section were contained in section 7(j) of Pub. L. 96–72, formerly classified to section 4606(j) of Title 50, War and National Defense, prior to the amendment of section 7(j) of that Act by Pub. L. 99–64, which enacted this section.
 

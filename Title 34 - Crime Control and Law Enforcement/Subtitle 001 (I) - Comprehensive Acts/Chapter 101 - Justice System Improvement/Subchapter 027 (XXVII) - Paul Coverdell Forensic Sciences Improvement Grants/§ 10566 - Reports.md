@@ -16,7 +16,7 @@ For each fiscal year for which a grant is awarded under this subchapter, each St
 
 #### (b) Reports to Congress
 
-Not later than 90 days after the last day of each fiscal year for which 1 or more grants areawarded under this subchapter, the Attorney General shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report, which shall include—
+Not later than 90 days after the last day of each fiscal year for which 1 or more grants are awarded under this subchapter, the Attorney General shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report, which shall include—
 
 &emsp;(1) the aggregate amount of grants awarded under this subchapter for that fiscal year; and
 

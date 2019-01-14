@@ -60,7 +60,7 @@ Qualified Prior Active-Duty Personnel.—For purposes of this section, qualified
 
 "(a)
 
-Academy Graduates and Distinguished ROTC Graduates To Serve in Selected Reserve for Period of Active-duty Service Obligation Not Served on Active Duty.—(1) An officer who is a graduate of one of the service academies or who was commissioned as a distinguished Reserve Officers' Training Corps graduate and who is permitted to be released from active duty before the completion of the active-duty service obligation applicable to that officer shall serve the remaining period of such active-duty service obligation as a member of the Selected Reserve.
+Academy Graduates and Distinguished ROTC Graduates To Serve in Selected Reserve for Periodof Active-duty Service Obligation Not Served on Active Duty.—(1) An officer who is a graduate of one of the service academies or who was commissioned as a distinguished Reserve Officers' Training Corps graduate and who is permitted to be released from active duty before the completion of the active-duty service obligation applicable to that officer shall serve the remaining period of such active-duty service obligation as a member of the Selected Reserve.
 
 "(2) The Secretary concerned may waive paragraph (1) in a case in which the Secretary determines that there is no unit position available for the officer.
 
@@ -150,7 +150,7 @@ Time for Qualification for Deployment.—(1) If at the end of 24 months after a 
 
 Associate Units.—The Secretary of the Army shall require—
 
-&emsp;"(1) that each ground combat maneuver brigade of the Army National Guard that (as determined by the Secretary) is essential for the execution of the National Military Strategy be associated with an active-duty combat unit; and
+&emsp;"(1) that each ground combat maneuver brigade of the Army National Guard that (as determined by theSecretary) is essential for the execution of the National Military Strategy be associated with an active-duty combat unit; and
 
 &emsp;"(2) that combat support and combat service support units of the Army Selected Reserve that (as determined by the Secretary) are essential for the execution of the National Military Strategy be associated with active-duty units.
 

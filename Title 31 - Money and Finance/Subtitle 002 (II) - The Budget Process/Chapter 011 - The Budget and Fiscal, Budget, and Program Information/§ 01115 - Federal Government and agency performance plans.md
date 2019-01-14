@@ -72,7 +72,7 @@ Agency Performance Plans.—Not later than the first Monday in February of each 
 
 &emsp;&emsp;(C) the agency official responsible for resolving such challenges; and
 
-&emsp;(10) identify low-priority program activities based on an analysis of their contribution to the mission and goals of the agency and include an evidence-based justification for designating a program activity as low priority.
+&emsp;(10) identify low-priority program activities based on an analysis of their contribution tothe mission and goals of the agency and include an evidence-based justification for designating a program activity as low priority.
 
 (c)
 

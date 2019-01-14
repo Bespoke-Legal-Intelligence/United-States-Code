@@ -12,7 +12,7 @@
 
 &emsp;(B) in the case of a hospital in which organ transplants are performed, the hospital is a member of, and abides by the rules and requirements of, the Organ Procurement and Transplantation Network established pursuant to section 274 of this title (in this section referred to as the "Network"); and
 
-&emsp;(C) the hospital or critical access hospital has an agreement (as defined in paragraph\(3)(A)) only with such hospital's designated organ procurement agency.
+&emsp;(C) the hospital or critical access hospital has an agreement (as defined in paragraph (3)(A)) only with such hospital's designated organ procurement agency.
 
 (2)(A) The Secretary shall grant a waiver of the requirements under subparagraphs (A)(iii) and (C) of paragraph (1) to a hospital or critical access hospital desiring to enter into an agreement with an organ procurement agency other than such hospital's designated organ procurement agency if the Secretary determines that—
 
@@ -36,7 +36,7 @@
 
 (D) The Secretary shall—
 
-&emsp;(i) publish a public notice of any waiver application received from a hospital or critical access hospital under this paragraph within 30 days of receiving such application; and
+&emsp;(i) publish a public notice of any waiver application received from a hospital or criticalaccess hospital under this paragraph within 30 days of receiving such application; and
 
 &emsp;(ii) prior to making a final determination on such application under subparagraph (A), offer interested parties the opportunity to submit written comments to the Secretary during the 60-day period beginning on the date such notice is published.
 
@@ -82,7 +82,7 @@ Subsec. (a)(1)(C). Pub. L. 103–432, §155(a)(1)(B), added subpar. (C).
 
 Subsec. (a)(2). Pub. L. 103–432, §155(a)(1)(C)(ii), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 103–432, §155(a)(1)(D), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "For purposes of this subsection, the term'organ' means a human kidney, liver, heart, lung, pancreas, and any other human organ or tissue specified by the Secretary for purposes of this subsection."
+Subsec. (a)(3). Pub. L. 103–432, §155(a)(1)(D), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "For purposes of this subsection, the term 'organ' means a human kidney, liver, heart, lung, pancreas, and any other human organ or tissue specified by the Secretary for purposes of this subsection."
 
 Pub. L. 103–432, §155(a)(1)(C)(i), redesignated par. (2) as (3).
 

@@ -18,7 +18,7 @@ Not later than two years after May 14, 2002, and every two years thereafter, the
 
 &emsp;On the basis of reviews of entities under paragraph (1), the Secretary shall determine whether the entities are in compliance with—
 
-&emsp;&emsp;(A) recordkeeping and reporting requirements to receive nonimmigrant exchangevisitor program participants under section 1101(a)(15)(J) of this title; and
+&emsp;&emsp;(A) recordkeeping and reporting requirements to receive nonimmigrant exchange visitor program participants under section 1101(a)(15)(J) of this title; and
 
 &emsp;&emsp;(B) recordkeeping and reporting requirements under section 1372 of this title.
 

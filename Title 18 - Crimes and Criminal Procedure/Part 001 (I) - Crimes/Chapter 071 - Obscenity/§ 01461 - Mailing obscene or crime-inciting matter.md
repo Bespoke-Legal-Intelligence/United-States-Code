@@ -56,7 +56,7 @@ Act June 28, 1955, §2, struck out fifth par., which read as follows: "Every let
 
 Amendment by sections 3 and 5(b) of Pub. L. 91–662 effective Jan. 9, 1971, see section 7 of Pub. L. 91–662, set out as a note under section 552 of this title.
 
-Pub. L. 91–662, §6, Jan. 8, 1971, 84 Stat. 1974, provided that the amendment made by that section is effectiveon date that Board of Governors of United States Postal Service establishes as the effective date for section 3001 of title 39 of the United States Code, as enacted by the Postal Reorganization Act.
+Pub. L. 91–662, §6, Jan. 8, 1971, 84 Stat. 1974, provided that the amendment made by that section is effective on date that Board of Governors of United States Postal Service establishes as the effective date for section 3001 of title 39 of the United States Code, as enacted by the Postal Reorganization Act.
 
 #### Commission on Obscenity and Pornography
 

@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;In research carried out under subsection (a), human fetal tissue may be used only if the woman providing the tissue makes a statement, made in writing and signed by the woman, declaring that—
+&emsp;In research carried out under subsection (a), human fetal tissue may be used only if thewoman providing the tissue makes a statement, made in writing and signed by the woman, declaring that—
 
 &emsp;&emsp;(A) the woman donates the fetal tissue for use in research described in subsection (a);
 
@@ -74,7 +74,7 @@ In research carried out under subsection (a), human fetal tissue may be used onl
 
 &emsp;&emsp;(B) not disclose or publish such material or information, except where required by Federal law, in which case such material or information shall be coded in a manner such that the identities of such individuals and entities are protected; and
 
-&emsp;&emsp;(C) not maintain such material or information after completion of such audit, exceptwhere necessary for the purposes of such audit.
+&emsp;&emsp;(C) not maintain such material or information after completion of such audit, except where necessary for the purposes of such audit.
 
 #### (e) Applicability of State and local law
 
@@ -98,7 +98,7 @@ For purposes of this section, the term "human fetal tissue" means tissue or cell
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

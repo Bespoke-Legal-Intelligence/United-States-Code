@@ -20,7 +20,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(B) the Great Lakes;
 
-&emsp;&emsp;(C) Lake Champlain (to the extent that such resources have hydrological, biological,physical, or geological characteristics and problems similar or related to those of the Great Lakes);
+&emsp;&emsp;(C) Lake Champlain (to the extent that such resources have hydrological, biological, physical, or geological characteristics and problems similar or related to those of the Great Lakes);
 
 &emsp;&emsp;(D) the territorial sea;
 
@@ -46,7 +46,7 @@ As used in this subchapter—
 
 &emsp;(11) The term "project" means any individually described activity in a field related to ocean, coastal, and Great Lakes resources involving research, education, training, or extension services administered by a person with expertise in such a field.
 
-&emsp;(12) The term "sea grant college" means any institution, or any association or alliance of two or more such institutions, designated as such by the Secretary under section 1126 of this title.
+&emsp;(12) The term "sea grant college" means any institution, or any association or alliance oftwo or more such institutions, designated as such by the Secretary under section 1126 of this title.
 
 &emsp;(13) The term "sea grant institute" means any institution, or any association or alliance of two or more such institutions, designated as such by the Secretary under section 1126 of this title.
 
@@ -96,7 +96,7 @@ Pub. L. 105–160, §4(a)(3), redesignated pars. (6) to (8) as (8) to (10), resp
 
 Par. (11). Pub. L. 105–174, §10003(1), redesignated par. (12) as (11). Former par. (11) redesignated (10).
 
-Pub. L. 105–160, §4(a)(3), (4), redesignated par. (9) as (11) and substituted "institute or other institution" for"regional consortium, institution of higher education, institute, or laboratory". Former par. (11) redesignated (13).
+Pub. L. 105–160, §4(a)(3), (4), redesignated par. (9) as (11) and substituted "institute or other institution" for "regional consortium, institution of higher education, institute, or laboratory". Former par. (11) redesignated (13).
 
 Pars. (12) to (17). Pub. L. 105–174, §10003(1), redesignated pars. (13) to (17) as (12) to (16), respectively. Former par. (12) redesignated (11).
 

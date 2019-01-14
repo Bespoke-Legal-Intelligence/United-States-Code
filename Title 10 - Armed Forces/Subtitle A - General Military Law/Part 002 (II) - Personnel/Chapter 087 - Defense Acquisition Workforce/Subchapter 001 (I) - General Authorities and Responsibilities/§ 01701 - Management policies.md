@@ -16,11 +16,61 @@ Pub. L. 101–510, div. A, title XII, §1211, Nov. 5, 1990, 104 Stat. 1667, prov
 
 #### Short Title
 
-Pub. L. 101–510, div. A, title XII, §1201, Nov. 5, 1990, 104 Stat. 1638, provided that: "This title \[enacting this chapter, sections 5379 and 5380 of Title 5, Government Organization and Employees, and section 317 of Title 37, Pay and Allowances of the Uniformed Services, amending sections 101 and 2435 of this title and sections4107, 4301, 5102, 5532, 5724, 5742, 5924, 5942, 8344, and 8468 of Title 5, repealing sections 1621 to 1624 of this title, enacting provisions set out as notes under this section and sections 1621 to 1623, 1705, 1721, 1722, 1724, 1733, 1734, 1746, 1761, 1762, and 2435 of this title, sections 3326, 5380, and 5532 of Title 5, and section 317 of Title 37, and repealing provisions set out as a note under section 2304 of this title\] may be cited as the 'Defense Acquisition Workforce Improvement Act'."
+Pub. L. 101–510, div. A, title XII, §1201, Nov. 5, 1990, 104 Stat. 1638, provided that: "This title \[enacting this chapter, sections 5379 and 5380 of Title 5, Government Organization and Employees, and section 317 of Title 37, Pay and Allowances of the Uniformed Services, amending sections 101 and 2435 of this title and sections 4107, 4301, 5102, 5532, 5724, 5742, 5924, 5942, 8344, and 8468 of Title 5, repealing sections 1621 to 1624 of this title, enacting provisions set out as notes under this section and sections 1621 to 1623, 1705, 1721, 1722, 1724, 1733, 1734, 1746, 1761, 1762, and 2435 of this title, sections 3326, 5380, and 5532 of Title 5, and section 317 of Title 37, and repealing provisions set out as a note under section 2304 of this title\] may be cited as the 'Defense Acquisition Workforce Improvement Act'."
 
 #### Regulations
 
 Pub. L. 101–510, div. A, title XII, §1210(a), Nov. 5, 1990, 104 Stat. 1667, provided that: "Unless otherwise provided in this title \[see Short Title note above\] and in subsection (b) \[set out below\], the Secretary of Defense shall promulgate regulations to implement this title and the amendments made by this title not later than one year after the date of the enactment of this Act \[Nov. 5, 1990\]."
+
+#### Exchange Program for Acquisition Workforce Employees
+
+Pub. L. 115–232, div. A, title VIII, §884, Aug. 13, 2018, 132 Stat. 1915, provided that:
+
+"(a)
+
+Program Authorized.—The Secretary of Defense shall establish an exchange program under which the Under Secretary of Defense for Acquisition and Sustainment shall arrange for the temporary assignment of civilian personnel in the Department of Defense acquisition workforce.
+
+"(b)
+
+Purposes.—The purposes of the exchange program established pursuant to subsection (a) are—
+
+&emsp;"(1) to familiarize personnel from the acquisition workforce with the equities, priorities, processes, culture, and workforce of the acquisition-related defense agencies;
+
+&emsp;"(2) to enable participants in the exchange program to return the expertise gained through their exchanges to their original organizations; and
+
+&emsp;"(3) to improve communication between and integration of the organizations that support the policy, implementation, and oversight of defense acquisition through lasting relationships.
+
+"(c)
+
+Participants.—
+
+&emsp;"(1)
+
+Number of participants.—The Under Secretary shall select not less than 10 and no more than 20 participants per year for participation in the exchange program established under subsection (a).
+
+&emsp;"(2)
+
+Criteria for selection.—The Under Secretary shall select participants for the exchange program established under subsection (a) from among mid-career employees and based on—
+
+&emsp;&emsp;"(A) the qualifications and desire to participate in the program of the employee; and
+
+&emsp;&emsp;"(B) the technical needs and capacities of the acquisition workforce, as applicable.
+
+"(d)
+
+Terms.—Exchanges pursuant to the exchange program established under subsection (a) shall be for terms of one to two years, as determined and negotiated by the Under Secretary. The terms may begin and end on a rolling basis.
+
+"(e)
+
+Guidance and Implementation.—
+
+&emsp;"(1)
+
+Guidance.—Not later than 90 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Under Secretary shall develop and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] interim guidance on the form and contours of the exchange program established under subsection (a).
+
+&emsp;"(2)
+
+Implementation.—Not later than 180 days after the date of the enactment of this Act, the Under Secretary shall implement the guidance developed under paragraph (1)."
 
 #### Pilot Program on Temporary Exchange of Financial Management and Acquisition Personnel
 
@@ -258,27 +308,7 @@ Termination.—The authority to make appointments under this section shall not b
 
 #### Coordination of Human Systems Integration Activities Related to Acquisition Programs
 
-Pub. L. 110–181, div. A, title II, §231, Jan. 28, 2008, 122 Stat. 45, provided that:
-
-"(a)
-
-In General.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall coordinate and manage human systems integration activities throughout the acquisition programs of the Department of Defense.
-
-"(b)
-
-Administration.—In carrying out subsection (a), the Secretary shall designate a senior official to be responsible for the effort.
-
-"(c)
-
-Responsibilities.—In carrying out this section, the senior official designated in subsection (b) shall—
-
-&emsp;"(1) coordinate the planning, management, and execution of such activities; and
-
-&emsp;"(2) identify and recommend, as appropriate, resource requirements for human systems integration activities.
-
-"(d)
-
-Designation.—The designation required by subsection (b) shall be made not later than 60 days after the date of the enactment of this Act \[Jan. 28, 2008\]."
+Pub. L. 110–181, div. A, title II, §231, Jan. 28, 2008, 122 Stat. 45, as amended by Pub. L. 115–232, div. A, title VIII, §811(f), Aug. 13, 2018, 132 Stat. 1845, provided that: "The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall coordinate and manage human systems integration activities throughout the acquisition programs of the Department of Defense."
 
 #### Requirements for Senior Department of Defense Officials Seeking Employment With Defense Contractors
 
@@ -354,7 +384,7 @@ Pub. L. 104–106, div. D, title XLIII, §4308, Feb. 10, 1996, 110 Stat. 669, as
 
 #### Evaluation by Comptroller General
 
-Pub. L. 101–510, div. A, title XII, §1208, Nov. 5, 1990, 104 Stat. 1665, as amended by Pub. L. 102–25, title VII, §704(b)(2), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–484, div. A, title VIII, §812(g), Oct. 23, 1992, 106 Stat. 2452; Pub. L. 104–106, div. A, title XV, §1502(c)(4)(A), Feb. 10, 1996, 110 Stat. 507, provided for evaluation by Comptroller General of actions taken by Secretary of Defense to carry out requirements of Defense Acquisition Workforce Improvement Act and submission of annual reports toCongress, prior to repeal by Pub. L. 104–66, title I, §1031(b)(1), Dec. 21, 1995, 109 Stat. 714.
+Pub. L. 101–510, div. A, title XII, §1208, Nov. 5, 1990, 104 Stat. 1665, as amended by Pub. L. 102–25, title VII, §704(b)(2), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–484, div. A, title VIII, §812(g), Oct. 23, 1992, 106 Stat. 2452; Pub. L. 104–106, div. A, title XV, §1502(c)(4)(A), Feb. 10, 1996, 110 Stat. 507, provided for evaluation by Comptroller General of actions taken by Secretary of Defense to carry out requirements of Defense Acquisition Workforce Improvement Act and submission of annual reports to Congress, prior to repeal by Pub. L. 104–66, title I, §1031(b)(1), Dec. 21, 1995, 109 Stat. 714.
 
 #### Deadlines for Qualification Requirements
 

@@ -16,7 +16,7 @@
 
 &emsp;(C) issue administrative subpoenas in accordance with section 3486 of title 18, solely for the purpose of investigating unregistered sex offenders (as defined in such section 3486); and
 
-&emsp;(D) assist State, local, and other Federal law enforcement agencies, upon the request ofsuch an agency, in locating and recovering missing children.
+&emsp;(D) assist State, local, and other Federal law enforcement agencies, upon the request of such an agency, in locating and recovering missing children.
 
 (2) Nothing in paragraph (1)(B) shall be construed to interfere with or supersede the authority of other Federal agencies or bureaus.
 

@@ -36,11 +36,11 @@ A plan submitted by a State pursuant to section 6611(d), 7113(c), 7173, or 7842 
 
 #### (c) Limitation
 
-A plan submitted under section 6611(d), 7113(c), 7173, or 7842 of this title shall not be approved ordisapproved based upon the nature of the activities proposed within such plan if such proposed activities meet the applicable program requirements.
+A plan submitted under section 6611(d), 7113(c), 7173, or 7842 of this title shall not be approved or disapproved based upon the nature of the activities proposed within such plan if such proposed activities meet the applicable program requirements.
 
 #### (d) Peer-review requirements
 
-Notwithstanding any other requirements of this part, the Secretary shall ensure that any portion of a consolidated State plan that is related to part A of subchapter I is subject to the peer-review process described in section 6311(a)(4) of this title.
+Notwithstanding any other requirements of this part, the Secretary shall ensure that anyportion of a consolidated State plan that is related to part A of subchapter I is subject to the peer-review process described in section 6311(a)(4) of this title.
 
 (Pub. L. 89–10, title VIII, §8451, as added Pub. L. 114–95, title VIII, §8014, Dec. 10, 2015, 129 Stat. 2107.)
 

@@ -6,7 +6,7 @@ The Administrator, after notice and opportunity for public comment, and at least
 
 #### (b) Distinctions in regulations
 
-In promulgating regulations under this section, the Administrator may distinguish between types, classes, and ages of underground storage tanks. In making such distinctions, the Administrator may take into consideration factors, including, but not limited to: location of the tanks, soil and climate conditions, uses of the tanks, history of maintenance, age of the tanks, current industry recommended practices, national consensus codes, hydrogeology, water table, size of the tanks, quantity of regulated substances periodically deposited in or dispensedfrom the tank, the technical capability of the owners and operators, and the compatibility of the regulated substance and the materials of which the tank is fabricated.
+In promulgating regulations under this section, the Administrator may distinguish between types, classes, and ages of underground storage tanks. In making such distinctions, the Administrator may take into consideration factors, including, but not limited to: location of the tanks, soil and climate conditions, uses of the tanks, history of maintenance, age of the tanks, current industry recommended practices, national consensus codes, hydrogeology, water table, size of the tanks, quantity of regulated substances periodically deposited in or dispensed from the tank, the technical capability of the owners and operators, and the compatibility of the regulated substance and the materials of which the tank is fabricated.
 
 #### (c) Requirements
 
@@ -34,7 +34,7 @@ The regulations promulgated pursuant to this section shall include, but need not
 
 (4) For the purpose of this subsection, the term "guarantor" means any person, other than the owner or operator, who provides evidence of financial responsibility for an owner or operator under this subsection.
 
-(5)(A) The Administrator, in promulgating financial responsibility regulations under this section, may establish an amount of coverage for particular classes or categories of underground storage tanks containing petroleum which shall satisfy such regulations and which shall not be less than $1,000,000 for each occurrence with an appropriate aggregate requirement.
+(5)(A) The Administrator, in promulgating financial responsibility regulations under this section, may establish an amount of coverage for particular classes or categories of underground storage tanks containing petroleum which shall satisfy such regulations and whichshall not be less than $1,000,000 for each occurrence with an appropriate aggregate requirement.
 
 (B) The Administrator may set amounts lower than the amounts required by subparagraph (A) of this paragraph for underground storage tanks containing petroleum which are at facilities not engaged in petroleum production, refining, or marketing and which are not used to handle substantial quantities of petroleum.
 
@@ -56,7 +56,7 @@ The regulations promulgated pursuant to this section shall include, but need not
 
 &emsp;(ii) such State is taking steps to establish a fund pursuant to section 6991c(c)(1) of this title to be submitted as evidence of financial responsibility.
 
-> A suspension by the Administrator pursuant to this paragraph shall extend for a period not toexceed 180 days. A determination to suspend may be made with respect to the same class or category or for the same State at the end of such period, but only if substantial progress has been made in establishing a risk retention group, or the owners or operators in the class or category demonstrate, and the Administrator finds, that the formation of such a group is not possible and that the State is unable or unwilling to establish such a fund pursuant to clause (ii).
+> A suspension by the Administrator pursuant to this paragraph shall extend for a period not to exceed 180 days. A determination to suspend may be made with respect to the same class or category or for the same State at the end of such period, but only if substantial progress has been made in establishing a risk retention group, or the owners or operators in the class or category demonstrate, and the Administrator finds, that the formation of such a group is not possible and that the State is unable or unwilling to establish such a fund pursuant to clause (ii).
 
 #### (e) New tank performance standards
 
@@ -88,7 +88,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 &emsp;Before the effective date of regulations under subsection (c), the Administrator (or a State pursuant to paragraph (7)) is authorized to—
 
-&emsp;&emsp;(A) require the owner or operator of an underground storage tank to undertake corrective action with respect to any release of petroleum when the Administrator (or the State) determines that such corrective action will be done properly and promptly by the owner or operator of the underground storage tank from which the release occurs; or
+&emsp;&emsp;(A) require the owner or operator of an underground storage tank to undertake corrective action with respect to any release of petroleum when the Administrator (or the State) determines that such corrective action will be done properly and promptly by the owner or operator of the undergroundstorage tank from which the release occurs; or
 
 &emsp;&emsp;(B) undertake corrective action with respect to any release of petroleum into the environment from an underground storage tank if such action is necessary, in the judgment of the Administrator (or the State), to protect human health and the environment.
 
@@ -210,7 +210,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (11) Facilities without financial responsibility
 
-&emsp;At any facility where the owner or operator has failed to maintain evidence of financial responsibility in amounts at least equal to the amounts established by subsection (d)(5)(A) of this section (or a lesser amount if such amount is applicable to such facility as a result of subsection (d)(5)(B) of this section) for whatever reason the Administrator shall expend no monies from the Trust Fund to clean up releases at such facility pursuant to theprovisions of paragraph (1) or (2) of this subsection. At such facilities the Administrator shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection and section 6991e of this title to order corrective action to clean up such releases. States acting pursuant to paragraph (7) of this subsection shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection to order corrective action to clean up such releases. Notwithstanding the provisions of this paragraph, the Administrator may use monies from the fund to take the corrective actions authorized by paragraph (5) of this subsection to protect human health at such facilities and shall seek full recovery of the costs of all such actions pursuant to the provisions of paragraph (6)(A) of this subsection and without consideration of the factors in paragraph (6)(B) of this subsection. Nothing in this paragraph shall prevent the Administrator (or a State pursuant to paragraph (7) of this subsection) from taking corrective action at a facility where there is no solvent owner or operator or where immediate action is necessary to respond to an imminent and substantial endangerment of human health or the environment.
+&emsp;At any facility where the owner or operator has failed to maintain evidence of financial responsibility in amounts at least equal to the amounts established by subsection (d)(5)(A) of this section (or a lesser amount if such amount is applicable to such facility as a result of subsection (d)(5)(B) of this section) for whatever reason the Administrator shall expend no monies from the Trust Fund to clean up releases at such facility pursuant to the provisions of paragraph (1) or (2) of this subsection. At such facilities the Administrator shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection and section 6991e of this title to order corrective action to clean up such releases. States acting pursuant to paragraph (7) of this subsection shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection to order corrective action to clean up such releases. Notwithstanding the provisions of this paragraph, the Administrator may use monies from the fund to take the corrective actions authorized by paragraph (5) of this subsection to protect human health at such facilities and shall seek full recovery of the costs of all such actions pursuant to the provisions of paragraph (6)(A) of this subsection and without consideration of the factors in paragraph (6)(B) of this subsection. Nothing in this paragraph shall prevent the Administrator (or a State pursuant to paragraph (7) of this subsection) from taking corrective action at a facility where there is no solvent owner or operator or where immediate action is necessary to respond to an imminent and substantial endangerment of human health or the environment.
 
 #### (12) Remediation of oxygenated fuel contamination
 
@@ -308,7 +308,7 @@ The effective date of this subsection, referred to in subsec. (i)(1)(A), (D), is
 
 #### Amendments
 
-<b>2006</b>—Subsecs. (i), (j). Pub. L. 109–168 redesignated subsec. (i), relating to government-owned tanks, as (j). Subsec. (j) was editorially transferred to the end of the section to reflect the probable intent of Congress.
+<b>2006</b>—Subsecs. (i), (j). Pub. L. 109–168 redesignated subsec. (i), relating to government-owned tanks, as (j).Subsec. (j) was editorially transferred to the end of the section to reflect the probable intent of Congress.
 
 <b>2005</b>—Subsec. (f)(1). Pub. L. 109–58, §1533(2), substituted "subsections (c) and (d)" for "subsection (c) and (d) of this section".
 
@@ -338,7 +338,7 @@ Pub. L. 109–58, §1526(b), added subsec. (i) relating to government-owned tank
 
 Subsec. (d)(1). Pub. L. 99–499, §205(c)(3), which directed that par. (1) be amended by "striking out 'or' after 'credit,' and by striking out the period at the end thereof and inserting in lieu thereof the following: 'or any other method satisfactory to the Administrator.' ", was executed by striking the period and making insertion at end of first sentence, rather than at end of par. (1), as the probable intent of Congress, because an earlier version of the amending legislation had provided that such amendment be made to first sentence.
 
-Pub. L. 99–499, §205(c)(2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: "As he deems necessary or desirable, the Administrator shall promulgate regulations containing requirements for maintaining evidence of financial responsibility as he deems necessary and desirable for taking corrective action and compensating third parties for bodily injury and property damage caused by sudden and nonsuddenaccidental releases arising from operating an underground storage tank."
+Pub. L. 99–499, §205(c)(2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: "As he deems necessary or desirable, the Administrator shall promulgate regulations containing requirements for maintaining evidence of financial responsibility as he deems necessary and desirable for taking corrective action and compensating third parties for bodily injury and property damage caused by sudden and nonsudden accidental releases arising from operating an underground storage tank."
 
 Subsec. (d)(2) to (5). Pub. L. 99–499, §205(c)(2), (4), added par. (5) and redesignated pars. (3) to (5) as (2) to (4), respectively. Former par. (2) redesignated (1).
 

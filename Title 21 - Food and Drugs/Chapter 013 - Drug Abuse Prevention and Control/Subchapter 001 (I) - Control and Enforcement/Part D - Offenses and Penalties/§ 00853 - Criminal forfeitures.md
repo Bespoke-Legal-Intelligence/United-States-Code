@@ -60,7 +60,7 @@ In general.—Pursuant to its authority to enter a pretrial restraining order un
 
 &emsp;(B)
 
-Failure to comply.—Failure to comply with an order under this subsection, or anorder to repatriate property under subsection (p), shall be punishable as a civil or criminal contempt of court, and may also result in an enhancement of the sentence of the defendant under the obstruction of justice provision of the Federal Sentencing Guidelines.
+Failure to comply.—Failure to comply with an order under this subsection, or an order to repatriate property under subsection (p), shall be punishable as a civil or criminal contempt of court, and may also result in an enhancement of the sentence of the defendant under the obstruction of justice provision of the Federal Sentencing Guidelines.
 
 #### (f) Warrant of seizure
 
@@ -110,7 +110,7 @@ In order to facilitate the identification and location of property declared forf
 
 #### (n) Third party interests
 
-(1) Following the entry of an order of forfeiture under this section, the United States shall publish notice of the order and of its intent to dispose of the property in such manner as the Attorney General may direct. The Government may also, to the extent practicable, provide direct written notice to any person known to havealleged an interest in the property that is the subject of the order of forfeiture as a substitute for published notice as to those persons so notified.
+(1) Following the entry of an order of forfeiture under this section, the United States shall publish notice of the order and of its intent to dispose of the property in such manner as the Attorney General may direct. The Government may also, to the extent practicable, provide direct written notice to any person known to have alleged an interest in the property that is the subject of the order of forfeiture as a substitute for published notice as to those persons so notified.
 
 (2) Any person, other than the defendant, asserting a legal interest in property which has been ordered forfeited to the United States pursuant to this section may, within thirty days of the final publication of notice or his receipt of notice under paragraph (1), whichever is earlier, petition the court for a hearing to adjudicate the validity of his alleged interest in the property. The hearing shall be held before the court alone, without a jury.
 
@@ -168,7 +168,7 @@ The court, when sentencing a defendant convicted of an offense under this subcha
 
 &emsp;(3) order restitution to any person injured as a result of the offense as provided in section 3663A of title 18.
 
-(Pub. L. 91–513, title II, §413, as added and amended Pub. L. 98–473, title II, §§303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54; Pub. L. 104–237, title II, §207, Oct. 3, 1996, 110 Stat. 3104; Pub. L. 106–310, div. B, title XXXVI, §3613(a), Oct. 17, 2000, 114 Stat. 1229; Pub. L. 107–56, title III, §319(d), Oct.26, 2001, 115 Stat. 314; Pub. L. 109–177, title VII, §743(a), Mar. 9, 2006, 120 Stat. 272; Pub. L. 111–16, §5, May 7, 2009, 123 Stat. 1608.)
+(Pub. L. 91–513, title II, §413, as added and amended Pub. L. 98–473, title II, §§303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54; Pub. L. 104–237, title II, §207, Oct. 3, 1996, 110 Stat. 3104; Pub. L. 106–310, div. B, title XXXVI, §3613(a), Oct. 17, 2000, 114 Stat. 1229; Pub. L. 107–56, title III, §319(d), Oct. 26, 2001, 115 Stat. 314; Pub. L. 109–177, title VII, §743(a), Mar. 9, 2006, 120 Stat. 272; Pub. L. 111–16, §5, May 7, 2009, 123 Stat. 1608.)
 
 #### References in Text
 

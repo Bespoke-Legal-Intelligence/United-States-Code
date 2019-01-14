@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Not later than 90 days after the October 30, 1998, the Attorney General shall establish within the Federal Bureau of Investigation a Child Abduction and Serial Murder Investigative Resources Center to be known as the "Morgan P. Hardiman Child Abduction and Serial Murder Investigative Resources Center" (in this section referred to as the "CASMIRC").
+Not later than 90 days after the October 30, 1998, the Attorney General shall establish within the Federal Bureau of Investigation a Child Abduction and Serial Murder Investigative Resources Center to be known as the "Morgan P. Hardiman Child Abduction and Serial MurderInvestigative Resources Center" (in this section referred to as the "CASMIRC").
 
 #### (b) Purpose
 

@@ -24,7 +24,7 @@
 
 <b>2004</b>—Pub. L. 108–375 renumbered section 2488 of this title as this section.
 
-<b>2000</b>—Subsec. (c)(2), (3). Pub. L. 106–398 redesignated par. (3) as (2) and struck out former par. (2) which readas follows: "If the use of a private distributor would subject covered alcoholic beverage purchases of distilled spirits to direct or indirect State taxation, a nonappropriated fund instrumentality shall be considered to be the most economical method of distribution regardless of the results of the determination under paragraph (1)."
+<b>2000</b>—Subsec. (c)(2), (3). Pub. L. 106–398 redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "If the use of a private distributor would subject covered alcoholic beverage purchases of distilled spirits to direct or indirect State taxation, a nonappropriated fund instrumentality shall be considered to be the most economical method of distribution regardless of the results of the determination under paragraph (1)."
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–106, §333(a), inserted "and distributed in the most economical manner" after "most competitive source".
 

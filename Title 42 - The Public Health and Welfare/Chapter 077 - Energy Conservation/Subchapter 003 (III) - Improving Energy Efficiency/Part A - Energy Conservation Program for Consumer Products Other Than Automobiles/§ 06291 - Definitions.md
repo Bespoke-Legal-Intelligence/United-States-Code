@@ -22,7 +22,7 @@ For purposes of this part:
 
 &emsp;&emsp;(A) a performance standard which prescribes a minimum level of energy efficiency or a maximum quantity of energy use, or, in the case of showerheads, faucets, water closets, and urinals, water use, for a covered product, determined in accordance with test procedures prescribed under section 6293 of this title; or
 
-&emsp;&emsp;(B) a design requirement for the products specified in paragraphs (6), (7), (8), (10), (15), (16), (17), and (20) of section 6292(a) of this title; and
+&emsp;&emsp;(B) a design requirement for the products specified in paragraphs (6), (7), (8), (10), (15),\(16), (17), and (20) of section 6292(a) of this title; and
 
 > &emsp;includes any other requirements which the Secretary may prescribe under section 6295(r) of this title.
 
@@ -698,7 +698,7 @@ incandescent reflector lamp.—The term "BR incandescent reflector lamp" means a
 
 &emsp;&emsp;&emsp;(i) a bulged section below the major diameter of the bulb and above the approximate baseline of the bulb, as shown in figure 1 (RB) on page 7 of ANSI C79.1–1994, incorporated by reference in section 430.22 of title 10, Code of Federal Regulations (as in effect on December 19, 2007); and
 
-&emsp;&emsp;&emsp;(ii) a finished size and shape shown in ANSI C78.21–1989, including the referenced reflective characteristics in part 7 of ANSI C78.21–1989, incorporated by reference in section 430.22 of title 10, Code of Federal Regulations (as in effect on December 19, 2007).
+&emsp;&emsp;&emsp;(ii) a finished size and shape shown in ANSI C78.21–1989, including the referenced reflective characteristics in part 7 of ANSIC78.21–1989, incorporated by reference in section 430.22 of title 10, Code of Federal Regulations (as in effect on December 19, 2007).
 
 &emsp;&emsp;(B) BR30.—The term "BR30" means a BR incandescent reflector lamp with a diameter of 30/8ths of an inch.
 
@@ -802,7 +802,7 @@ Starting process.—For the purpose of subparagraph (A)—
 
 &emsp;&emsp;&emsp;(ii) to complete the starting process, power shall be provided by the ballast to sustain the discharge through the glow-to-arc transition.
 
-(Pub. L. 94–163, title III, §321, Dec. 22, 1975, 89 Stat. 917; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §2, Mar. 17, 1987, 101 Stat. 103; Pub. L. 100–357, §2(a), June 28, 1988, 102 Stat. 671; Pub. L. 102–486, title I, §123(b), Oct. 24, 1992, 106 Stat. 2817; Pub. L. 105–388, §5(a)(2), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(a), Aug. 8, 2005, 119 Stat. 624; Pub. L. 110–140, title III, §§301(a), 316(a)(1), (b), (c)(1), 321(a)(1), 322(a), 324(a), Dec. 19, 2007, 121 Stat. 1549, 1572, 1573, 1587, 1591; Pub. L. 112–210, §10(a)(6), (7), (10), Dec. 18, 2012, 126 Stat. 1524, 1525; Pub. L. 115–115, §2(a), (c)(1), Jan. 12, 2018, 131 Stat. 2280, 2281.)
+(Pub. L. 94–163, title III, §321, Dec. 22, 1975, 89 Stat. 917; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §2, Mar. 17, 1987, 101 Stat. 103; Pub. L. 100–357, §2(a), June 28, 1988, 102 Stat. 671; Pub. L. 102–486, title I, §123(b), Oct. 24, 1992, 106 Stat. 2817; Pub. L. 105–388, §5(a)(2), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(a), Aug. 8, 2005, 119 Stat. 624; Pub. L. 110–140, title III, §§301(a), 316(a)(1), (b), (c)(1), 321(a)(1), 322(a), 324(a), Dec. 19, 2007, 121 Stat. 1549, 1572, 1573, 1587, 1591; Pub. L. 112–210, §10(a)(6), (7), (10), Dec. 18, 2012, 126 Stat. 1524,1525; Pub. L. 115–115, §2(a), (c)(1), Jan. 12, 2018, 131 Stat. 2280, 2281.)
 
 #### References in Text
 

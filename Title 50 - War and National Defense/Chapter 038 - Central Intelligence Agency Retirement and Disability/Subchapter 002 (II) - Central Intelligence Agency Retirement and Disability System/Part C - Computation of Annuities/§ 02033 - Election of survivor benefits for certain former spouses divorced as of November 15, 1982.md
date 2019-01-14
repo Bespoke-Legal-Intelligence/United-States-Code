@@ -2,7 +2,7 @@
 
 #### (a) Former spouses as of November 15, 1982
 
-A participant, former participant, or retired participant in the system who on November 15, 1982, had a former spouse may, by a spousal agreement, elect to receive a reduced annuity and provide a survivor annuity for such former spouse under section 2032(b) of this title.
+A participant, former participant, or retired participant in the system who on November 15, 1982, had a former spouse may, by a spousalagreement, elect to receive a reduced annuity and provide a survivor annuity for such former spouse under section 2032(b) of this title.
 
 #### (b) Time for making election
 
@@ -35,4 +35,8 @@ An election under this section may provide for a survivor annuity based on all o
 #### Prior Provisions
 
 A prior section 223 of Pub. L. 88–643, as added Pub. L. 97–269, title VI, §607, Sept. 27, 1982, 96 Stat. 1151; amended Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to election of survivor benefits for certain former spouses and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Effective Date
+
+Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.
 

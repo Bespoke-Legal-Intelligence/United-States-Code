@@ -4,19 +4,19 @@
 
 General.—(1) Except as provided in paragraph (2) of this subsection, only the Attorney General may bring a civil action for equitable relief in a district court of the United States when Amtrak or a rail carrier—
 
-&emsp;(A) engages in or adheres to an action, practice, or policy inconsistent with this part;
+&emsp;(A) engages in or adheres to an action, practice, or policy inconsistent with this part or chapter 229;
 
-&emsp;(B) obstructs or interferes with an activity authorized under this part;
+&emsp;(B) obstructs or interferes with an activity authorized under this part or chapter 229;
 
-&emsp;(C) refuses, fails, or neglects to discharge its duties and responsibilities under this part; or
+&emsp;(C) refuses, fails, or neglects to discharge its duties and responsibilities under this part or chapter 229; or
 
 &emsp;(D) threatens—
 
-&emsp;&emsp;(i) to engage in or adhere to an action, practice, or policy inconsistent with this part;
+&emsp;&emsp;(i) to engage in or adhere to an action, practice, or policy inconsistent with this part or chapter 229;
 
-&emsp;&emsp;(ii) to obstruct or interfere with an activity authorized by this part; or
+&emsp;&emsp;(ii) to obstruct or interfere with an activity authorized by this part or chapter 229; or
 
-&emsp;&emsp;(iii) to refuse, fail, or neglect to discharge its duties and responsibilities under this part.
+&emsp;&emsp;(iii) to refuse, fail, or neglect to discharge its duties and responsibilities under this part or chapter 229.
 
 (2) An employee affected by any conduct or threat referred to in paragraph (1) of this subsection, or an authorized employee representative, may bring the civil action if the conduct or threat involves a labor agreement.
 
@@ -28,7 +28,7 @@ Review of Discontinuance or Reduction.—A discontinuance of a route, a train, o
 
 Venue.—Except as otherwise prohibited by law, a civil action under this section may be brought in the judicial district in which Amtrak or the rail carrier resides or is found.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 901.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 901; Pub. L. 115–420, §7(b)(3)(A)(i)(II), Jan. 3, 2019, 132 Stat. 5447.)
 
 Historical and Revision Notes
 
@@ -65,4 +65,8 @@ In subsection (a)(2), the word "duly" is omitted as surplus.
 In subsection (b), the words "in any court" are omitted as surplus.
 
 Subsection (c) is substituted for 45:547(a) (1st sentence words between 13th–15th commas) for consistency in the revised title and with other titles of the United States Code. The text of 45:547(b) is omitted as surplus.
+
+#### Amendments
+
+<b>2019</b>—Subsec. (a)(1). Pub. L. 115–420 inserted "or chapter 229" after "this part" wherever appearing.
 

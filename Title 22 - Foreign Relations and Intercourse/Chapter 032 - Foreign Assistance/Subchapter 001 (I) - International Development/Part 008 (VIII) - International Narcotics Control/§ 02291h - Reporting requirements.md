@@ -24,15 +24,15 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;(C) major money laundering countries.
 
-&emsp;(4) In addition, for each country identified pursuant to paragraph (3), the following:
+&emsp;(4) In addition, for each country identified pursuant to paragraph (3),<sup>1</sup> the following:
 
 &emsp;&emsp;(A) A description of the plans, programs, and timetables adopted by such country, including efforts to meet the objectives of the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, and a discussion of the adequacy of the legal and law enforcement measures taken and the accomplishments achieved in accord with those plans.
 
 &emsp;&emsp;(B) Whether as a matter of government policy or practice, such country encourages or facilitates the illicit production or distribution of narcotic or psychotropic drugs or other controlled substances or the laundering of proceeds from illegal drug transactions; and whether any senior official of the government of such country engages in, encourages, or facilitates the illicit production or distribution of such drugs or substances, or the laundering of proceeds from illegal drug transactions.
 
-&emsp;(5) In addition, for each country identified pursuant to paragraph (3)(A) or (3)(B), a detailed status report, with such information as can be reliably obtained, on the narcotic or psychotropic drugs or other controlled substances which are being cultivated, produced, or processed in or transported through such country, noting significant changes in conditions, such as increases or decreases in the illicit cultivation and manufacture of and traffic in such drugs and substances.
+&emsp;(5) In addition, for each country identified pursuant to paragraph (3)(A) or (3)(B),<sup>1</sup> a detailed status report, with such information as can be reliably obtained, on the narcotic or psychotropic drugs or other controlled substances which are being cultivated, produced, or processed in or transported through such country, noting significant changes in conditions, such as increases or decreases in the illicit cultivation and manufacture of and traffic in such drugs and substances.
 
-&emsp;(6) In addition, for those countries identified pursuant to paragraph (3)(C)—
+&emsp;(6) In addition, for those countries identified pursuant to paragraph (3)(C)— <sup>1</sup>
 
 &emsp;&emsp;(A) which countries are parties to international agreements on a method for maintaining records of transactions of an established list of precursor and essential chemicals;
 
@@ -40,7 +40,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;(C) which countries have enacted national chemical control legislation which would impose specific recordkeeping and reporting requirements for listed chemicals, establish a system of permits or declarations for imports and exports of listed chemicals, and authorize government officials to seize or suspend shipments of listed chemicals.
 
-&emsp;(7) In addition, for those countries identified pursuant to paragraph (3)(D) the following:
+&emsp;(7) In addition, for those countries identified pursuant to paragraph (3)(D) <sup>1</sup> the following:
 
 &emsp;&emsp;(A)(i) Which countries have financial institutions engaging in currency transactions involving international narcotics trafficking proceeds that include significant amounts of United States currency or currency derived from illegal drug sales in the United States or that otherwise significantly affect the United States;
 
@@ -112,13 +112,15 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 > &emsp;&emsp;with respect to narcotic control efforts during the preceding fiscal year, the current fiscal year, and the next fiscal year; and
 
-&emsp;&emsp;(C) list all transfers, which were made by the United States Government during the preceding fiscal year, to a foreign countryfor narcotics control purposes of any property seized by or otherwise forfeited to the United States Government in connection with narcotics-related activity, including an estimate of the fair market value and physical condition of each item of property transferred.
+&emsp;&emsp;(C) list all transfers, which were made by the United States Government during the preceding fiscal year, to a foreign country for narcotics control purposes of any property seized by or otherwise forfeited to the United States Government in connectionwith narcotics-related activity, including an estimate of the fair market value and physical condition of each item of property transferred.
 
 (Pub. L. 87–195, pt. I, §489, as added Pub. L. 102–583, §5(a), Nov. 2, 1992, 106 Stat. 4917; amended Pub. L. 103–447, title I, §101(f)(1), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–66, title I, §1112(c), Dec. 21, 1995, 109 Stat. 724; Pub. L. 109–177, title VII, §722(a), Mar. 9, 2006, 120 Stat. 268.)
 
 #### References in Text
 
 Section 2015 of the International Narcotics Act of 1986, referred to in subsec. (a)(2)(A), probably means section 2015 of the International Narcotics Control Act of 1986, Pub. L. 99–570, which was set out as a note under section 1902 of the former Appendix to Title 46, Shipping, prior to being repealed by Pub. L. 103–447, title I, §103(c), Nov. 2, 1994, 108 Stat. 4694.
+
+Paragraph (3), referred to in subsec. (a)(4) to (7), means par. (3) of subsec. (a), which was amended by Pub. L. 103–447, §101(f)(1)(B)(ii), by striking out subpar. (B) relating to sources of narcotics and psychotropic drugs and other controlled substances and redesignating subpars. (C) and (D) as (B) and (C), respectively. See 1994 Amendment note below.
 
 #### Prior Provisions
 
@@ -165,4 +167,6 @@ Pub. L. 109–177, title VII, §722(d), Mar. 9, 2006, 120 Stat. 269, provided th
 #### Statutory References to Annual Reports, Certifications, and Definitions
 
 Pub. L. 102–583, §6(a), Nov. 2, 1992, 106 Stat. 4932, provided that after Sept. 30, 1994, any reference in any provision of law to section 2291h or 2291j of this title would be deemed a reference to the corresponding provision of section 2291i or 2291k of this title, respectively, unless the context required otherwise; any reference in any provision of law enacted before Nov. 2, 1992, to section 2291(e) or (i) of this title be deemed a reference to section 2291h or 2291(e) of this title, respectively; and that any reference in any provision of law enacted before Nov. 2, 1992, to section 2291(h) of this title be deemed, as of Oct. 1, 1992, to be a reference to section 2291j of this title, prior to repeal by Pub. L. 103–447, title I, §103(a), Nov. 2, 1994, 108 Stat. 4693.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

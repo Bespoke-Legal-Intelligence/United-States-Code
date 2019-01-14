@@ -22,7 +22,7 @@ In this section, the term "medically necessary leave of absence" means, with res
 
 #### (2) Dependent child described
 
-&emsp;A dependent child described in this paragraph is, with respect to a group health planor health insurance coverage offered in connection with the plan, a beneficiary under the plan who—
+&emsp;A dependent child described in this paragraph is, with respect to a group health plan or health insurance coverage offered in connection with the plan, a beneficiary under the plan who—
 
 &emsp;&emsp;(A) is a dependent child, under the terms of the plan or coverage, of a participant or beneficiary under the plan or coverage; and
 

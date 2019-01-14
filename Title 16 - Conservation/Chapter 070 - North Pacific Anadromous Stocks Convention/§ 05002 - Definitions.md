@@ -22,7 +22,7 @@ As used in this chapter, the term—
 
 &emsp;(10) "Exclusive economic zone" means the zone established by Proclamation Numbered 5030, dated March 10, 1983. For purposes of applying this chapter, the inner boundary of that zone is a line coterminous with the seaward boundary of each of the coastal States.
 
-&emsp;(11) "Fish" means finfish, mollusks, crustaceans, and all other forms of marine animal and plant life other than marine mammals and birds.
+&emsp;(11) "Fish" means finfish, mollusks, crustaceans, and all other forms of marine animaland plant life other than marine mammals and birds.
 
 &emsp;(12) "Fishing" means—
 

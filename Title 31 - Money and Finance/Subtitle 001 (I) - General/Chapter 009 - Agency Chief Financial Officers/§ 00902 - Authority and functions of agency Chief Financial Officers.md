@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(D) provides for—
 
-&emsp;&emsp;&emsp;(i) complete, reliable, consistent, and timely information which is prepared on auniform basis and which is responsive to the financial information needs of agency management;
+&emsp;&emsp;&emsp;(i) complete, reliable, consistent, and timely information which is prepared on a uniform basis and which is responsive to the financial information needs of agency management;
 
 &emsp;&emsp;&emsp;(ii) the development and reporting of cost information;
 

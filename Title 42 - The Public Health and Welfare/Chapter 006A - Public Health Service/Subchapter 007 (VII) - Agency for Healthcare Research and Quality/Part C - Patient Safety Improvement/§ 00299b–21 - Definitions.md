@@ -4,7 +4,7 @@ In this part:
 
 #### (1) HIPAA confidentiality regulations
 
-&emsp;The term "HIPAA confidentiality regulations" means regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; 110 Stat. 2033).
+&emsp;The term "HIPAA confidentiality regulations" means regulations promulgated undersection 264(c) of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; 110 Stat. 2033).
 
 #### (2) Identifiable patient safety work product
 
@@ -74,7 +74,7 @@ In this part:
 
 &emsp;&emsp;&emsp;(I) the discovery of or admissibility of information described in this subparagraph in a criminal, civil, or administrative proceeding;
 
-&emsp;&emsp;&emsp;(II) the reporting of information described in this subparagraph to a Federal, State, or local governmental agency for public health surveillance, investigation,or other public health purposes or health oversight purposes; or
+&emsp;&emsp;&emsp;(II) the reporting of information described in this subparagraph to a Federal, State, or local governmental agency for public health surveillance, investigation, or other public health purposes or health oversight purposes; or
 
 &emsp;&emsp;&emsp;(III) a provider's recordkeeping obligation with respect to information described in this subparagraph under Federal, State, or local law.
 

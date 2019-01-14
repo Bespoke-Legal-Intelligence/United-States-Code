@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(i) the owner's taxpayer identification number; or
 
-&emsp;&emsp;&emsp;(ii) if the owner does not have a taxpayer identification number, the social securitynumber of an individual who is a corporate officer, general partner, or individual trustee of the owner and who signed the application for documentation or numbering for the vessel;
+&emsp;&emsp;&emsp;(ii) if the owner does not have a taxpayer identification number, the social security number of an individual who is a corporate officer, general partner, or individual trustee of the owner and who signed the application for documentation or numbering for the vessel;
 
 &emsp;(3) identifies the State in which it is titled or numbered;
 

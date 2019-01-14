@@ -40,7 +40,7 @@ As used in this Act (except that in titles IX and XIV the following terms shall 
 
 &emsp;(16) The term "Alaska Native" or "Native" has the same meaning as the term "Native" has in section 3(b) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1602(b)\].
 
-&emsp;(17) The term "fish and wildlife" means any member of the animal kingdom, including without limitation any mammal, fish, bird (including any migratory, nonmigratory or endangered bird for which protection is also afforded by treaty or other international agreement), amphibian, reptile, mollusk, crustacean, arthropod or other invertebrate, and includes any part, product, egg, or offspring thereof, or the dead body or part thereof.
+&emsp;(17) The term "fish and wildlife" means any member of the animal kingdom, includingwithout limitation any mammal, fish, bird (including any migratory, nonmigratory or endangered bird for which protection is also afforded by treaty or other international agreement), amphibian, reptile, mollusk, crustacean, arthropod or other invertebrate, and includes any part, product, egg, or offspring thereof, or the dead body or part thereof.
 
 &emsp;(18) The term "take" or "taking" as used with respect to fish or wildlife, means to pursue, hunt, shoot, trap, net capture, collect, kill, harm, or attempt to engage in any such conduct.
 
@@ -58,7 +58,7 @@ The Wilderness Act, referred to in par. (13), is Pub. L. 88–577, Sept. 3, 1964
 
 #### Amendments
 
-<b>1997</b>—Par. (2). Pub. L. 105–83, §316(b)(2), which directed the amendment of par. (2) generally, to read as follows: "The term 'Federal land' means lands the title to which is in the United States after December 2, 1980.'Federal land' does not include lands the title to which is in the State, an Alaska Native corporation, or other private ownership.", was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
+<b>1997</b>—Par. (2). Pub. L. 105–83, §316(b)(2), which directed the amendment of par. (2) generally, to read as follows: "The term 'Federal land' means lands the title to which is in the United States after December 2, 1980. 'Federal land' does not include lands the title to which is in the State, an Alaska Native corporation, or other private ownership.", was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 #### Effective and Termination Dates of 1997 Amendment
 
@@ -100,5 +100,5 @@ Technical Amendments to the Alaska National Interest Lands Conservation Act.—\
 
 Effect on Tidal and Submerged Land.—Nothing in this section invalidates, validates, or in any other way affects any claim of the State of Alaska to title to any tidal or submerged land in Alaska."
 
-Pub. L. 105–83, title III, §316(a), Nov. 14, 1997, 111 Stat. 1592, provided that: "None of the funds made available to the Department of the Interior or the Department of Agriculture by this or any other Act hereafter enacted may be used prior to December 1, 1998 to issue or implement final regulations, rules, or policies pursuant to title VIII of the Alaska National Interest Lands Conservation Act \[16 U.S.C. 3111 et seq.\] to assert jurisdiction, management, or control over the navigable waters transferred to the State of Alaska pursuant to the Submerged Lands Act of 1953 \[43 U.S.C. 1301 et seq.\] or the Alaska Statehood Act of 1959 \[Pub. L. 85–508, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\]."
+Pub. L. 105–83, title III, §316(a), Nov. 14, 1997, 111 Stat. 1592, provided that: "None of the funds made available to the Department of the Interior or the Department of Agriculture by this or any other Act hereafter enacted may be used prior to December 1, 1998 to issue or implement final regulations, rules, or policies pursuant to title VIII of the Alaska National Interest Lands Conservation Act \[16 U.S.C. 3111 et seq.\] to assert jurisdiction, management, or control over the navigable waters transferred to the State of Alaska pursuant to the Submerged Lands Act of 1953 \[43 U.S.C. 1301 et seq.\] or the Alaska Statehood Act of 1959 \[Pub. L. 85–508, set out asa note preceding section 21 of Title 48, Territories and Insular Possessions\]."
 

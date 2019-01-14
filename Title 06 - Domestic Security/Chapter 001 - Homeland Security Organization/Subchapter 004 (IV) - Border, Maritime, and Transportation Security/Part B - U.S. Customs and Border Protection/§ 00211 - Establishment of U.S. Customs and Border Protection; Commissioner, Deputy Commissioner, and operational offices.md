@@ -86,7 +86,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 &emsp;The U.S. Border Patrol shall—
 
-&emsp;&emsp;(A) serve as the law enforcement office of U.S. Customs and Border Protection with primary responsibility for interdicting persons attempting to illegally enter or exit the United States or goods being illegally imported into or exported from the United States at a place other than a designated port of entry;
+&emsp;&emsp;(A) serve as the law enforcement office of U.S. Customs and Border Protection withprimary responsibility for interdicting persons attempting to illegally enter or exit the United States or goods being illegally imported into or exported from the United States at a place other than a designated port of entry;
 
 &emsp;&emsp;(B) deter and prevent the illegal entry of terrorists, terrorist weapons, persons, and contraband; and
 
@@ -278,7 +278,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 &emsp;The Office of Professional Responsibility shall—
 
-&emsp;&emsp;(A) investigate criminal and administrative matters and misconduct by officers, agents, and other employees of U.S. Customs and Border Protection;
+&emsp;&emsp;(A) investigate criminal and administrative matters and misconduct by officers,agents, and other employees of U.S. Customs and Border Protection;
 
 &emsp;&emsp;(B) manage integrity-related programs and policies of U.S. Customs and Border Protection;
 
@@ -412,7 +412,7 @@ The Commissioner shall require all officers and agents of U.S. Customs and Borde
 
 &emsp;&emsp;(B) make information about such wait times available to the public in real time through the U.S. Customs and Border Protection website;
 
-&emsp;&emsp;(C) submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate, for each of the five calendar years beginning in the calendar year that begins after February 24, 2016, a report that includes compilations of all such wait times and a ranking of such United States airports by wait times; and
+&emsp;&emsp;(C) submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee onFinance of the Senate, for each of the five calendar years beginning in the calendar year that begins after February 24, 2016, a report that includes compilations of all such wait times and a ranking of such United States airports by wait times; and
 
 &emsp;&emsp;(D) provide adequate staffing at the U.S. Customs and Border Protection information center to ensure timely access for travelers attempting to submit comments or speak with a representative about their entry experiences.
 
@@ -481,6 +481,104 @@ Rules and regulations.—Notwithstanding paragraph (1), nothing in this title \[
 &emsp;"(B)
 
 Other actions.—Notwithstanding paragraph (1), nothing in this Act \[see Tables for classification\] may be construed as affecting in any manner any action, determination, policy, or decision pursuant to section 411 of the Homeland Security Act of 2002 as in existence on the day before the date of the enactment of this Act, and any such action, determination, policy, or decision shall continue to have full force and effect on and after such date."
+
+#### Ports of Entry Threat and Operational Review
+
+Pub. L. 115–372, Dec. 21, 2018, 132 Stat. 5107, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'United States Ports of Entry Threat and Operational Review Act'.
+
+#### "SEC. 2. PORTS OF ENTRY THREAT AND OPERATIONAL ANALYSIS.
+
+"(a)
+
+In General.—
+
+&emsp;"(1)
+
+Requirement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 21, 2018\], the Secretary of Homeland Security, acting through the Commissioner of U.S. Customs and Border Protection, shall submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate a threat and operational analysis of ports of entry.
+
+&emsp;"(2)
+
+Contents.—The threat and operational analysis required under paragraph (1) shall include an assessment of the following:
+
+&emsp;&emsp;"(A) Current and potential threats posed by individuals and organized groups seeking—
+
+&emsp;&emsp;&emsp;"(i) to exploit security vulnerabilities at ports of entry; or
+
+&emsp;&emsp;&emsp;"(ii) to unlawfully enter the United States through such ports of entry.
+
+&emsp;&emsp;"(B) Methods and pathways used to exploit security vulnerabilities at ports of entry.
+
+&emsp;&emsp;"(C) Improvements needed at ports of entry to prevent the unlawful movement of people, illicit drugs, and other contraband across the borders of the United States.
+
+&emsp;&emsp;"(D) Improvements needed to enhance travel and trade facilitation and reduce wait times at ports of entry, including—
+
+&emsp;&emsp;&emsp;"(i) security vulnerabilities associated with prolonged wait times;
+
+&emsp;&emsp;&emsp;"(ii) current technology at ports of entry that can be adapted to handle more volume, increase efficiency, and improve accuracy of detection efforts; and
+
+&emsp;&emsp;&emsp;"(iii) infrastructure additions and upgrades.
+
+&emsp;&emsp;"(E) Processes conducted at ports of entry that do not require law enforcement training and could be—
+
+&emsp;&emsp;&emsp;"(i) filled with—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) non-law enforcement staff; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the private sector, for processes or activities determined to not be inherently governmental (as such term is defined in section 5 of the Federal Activities Inventory Reform Act of 1998 (Public Law 105–270; \[31 U.S.C. 501 note\])); or
+
+&emsp;&emsp;&emsp;"(ii) automated.
+
+&emsp;"(3)
+
+Analysis requirements.—In compiling the threat and operational analysis required under paragraph (1), the Secretary of Homeland Security, acting through the Commissioner of U.S. Customs and Border Protection, shall consider and examine the following:
+
+&emsp;&emsp;"(A) Personnel needs, including K–9 Units, and estimated costs, at each port of entry, including such needs and challenges associated with recruitment and hiring.
+
+&emsp;&emsp;"(B) Technology needs, including radiation portal monitors and non-intrusive inspection technology, and estimated costs at each port of entry.
+
+&emsp;&emsp;"(C) Infrastructure needs and estimated costs at each port of entry.
+
+"(b)
+
+Ports of Entry Strategy and Implementation Plan.—
+
+&emsp;"(1)
+
+In general.—Not later than 270 days after the submission of the threat and operational analysis required under subsection (a) and every 5 years thereafter for 10 years, the Secretary of Homeland Security, acting through the Commissioner of U.S. Customs and Border Protection (CBP), shall provide to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate a ports of entry strategy and implementation plan.
+
+&emsp;"(2)
+
+Contents.—The ports of entry strategy and implementation plan required under paragraph (1) shall include a consideration of the following:
+
+&emsp;&emsp;"(A) The ports of entry threat and operational analysis required under subsection (a), with an emphasis on efforts to mitigate threats and challenges identified in such analysis.
+
+&emsp;&emsp;"(B) Efforts to reduce wait times at ports of entry and standards against which the effectiveness of such efforts may be determined.
+
+&emsp;&emsp;"(C) Efforts to prevent the unlawful movement of people, illicit drugs, and other contraband across the borders of the United States at the earliest possible point at ports of entry and standards against which the effectiveness of such efforts may be determined.
+
+&emsp;&emsp;"(D) Efforts to focus intelligence collection and information analysis to disrupt transnational criminal organizations attempting to exploit vulnerabilities at ports of entry and standards against which the effectiveness of such efforts may be determined.
+
+&emsp;&emsp;"(E) Efforts to verify that any new port of entry technology acquisition can be operationally integrated with existing technologies in use by the Department of Homeland Security.
+
+&emsp;&emsp;"(F) Lessons learned from reports on the business transformation initiative under section 802(i)(1) of the Trade Facilitation and Trade Enforcement Act of 2015 (Public Law 114–125).
+
+&emsp;&emsp;"(G) CBP staffing requirements for all ports of entry.
+
+&emsp;&emsp;"(H) Efforts to identify and detect fraudulent documents at ports of entry and standards against which the effectiveness of such efforts may be determined.
+
+&emsp;&emsp;"(I) Efforts to prevent, detect, investigate, and mitigate corruption at ports of entry and standards against which the effectiveness of such efforts may be determined.
+
+"(c)
+
+Ports of Entry Described.—In this section, the term 'ports of entry' means United States air, land, and sea ports of entry."
+
+#### Required Notice of Aircraft Transfers
+
+Pub. L. 115–141, div. F, title II, §203, Mar. 23, 2018, 132 Stat. 612, provided that: "Hereafter, no U.S. Customs and Border Protection aircraft or other related equipment, with the exception of aircraft that are one of a kind and have been identified as excess to U.S. Customs and Border Protection requirements and aircraft that have been damaged beyond repair, shall be transferred to any other Federal agency, department, or office outside of the Department of Homeland Security without prior notice to the Committees on Appropriations of the Senate and the House of Representatives."
 
 #### Detecting Incoming Contraband with Technology
 

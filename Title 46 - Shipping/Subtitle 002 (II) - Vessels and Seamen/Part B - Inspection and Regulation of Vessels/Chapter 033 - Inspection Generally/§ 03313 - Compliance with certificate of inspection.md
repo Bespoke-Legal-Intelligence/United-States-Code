@@ -6,7 +6,7 @@
 
 &emsp;(1) the owner, charterer, managing operator, agent, master, or individual in charge shall be ordered in writing to correct the noted deficiencies promptly;
 
-&emsp;(2) the Secretary may permit any repairs to be made at a place most convenient to theowner, charterer, or managing operator when the Secretary decides the repairs can be made with safety to those on board and the vessel;
+&emsp;(2) the Secretary may permit any repairs to be made at a place most convenient to the owner, charterer, or managing operator when the Secretary decides the repairs can be made with safety to those on board and the vessel;
 
 &emsp;(3) the vessel may be required to cease operating at once; and
 

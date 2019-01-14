@@ -10,7 +10,7 @@ The Secretary shall prepare a comprehensive program management plan for the rese
 
 &emsp;(3) a three-year program for wind resource assessment <sup>1</sup>
 
-> which shall be consistent with the provisions of sections 9204, 9205, and 9206 of this title. In the preparation of such plan, the Secretary shallconsult with the Administrator of the National Aeronautics and Space Administration, the Secretary of the Interior, and the heads of such other Federal agencies and such public and private organizations as he deems appropriate.
+> which shall be consistent with the provisions of sections 9204, 9205, and 9206 of this title. In the preparation of such plan, the Secretary shall consult with the Administrator of the National Aeronautics and Space Administration, the Secretary of the Interior, and the heads of such other Federal agencies and such public and private organizations as he deems appropriate.
 
 #### (b) Initial transmittal to Congressional committees
 

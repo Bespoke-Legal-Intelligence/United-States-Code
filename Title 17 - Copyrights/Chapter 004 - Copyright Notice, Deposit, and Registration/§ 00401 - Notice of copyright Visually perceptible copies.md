@@ -12,7 +12,7 @@ Form of Notice.—If a notice appears on the copies, it shall consist of the fol
 
 &emsp;(2) the year of first publication of the work; in the case of compilations, or derivative works incorporating previously published material, the year date of first publication of the compilation or derivative work is sufficient. The year date may be omitted where a pictorial, graphic, or sculptural work, with accompanying text matter, if any, is reproduced in or on greeting cards, postcards, stationery, jewelry, dolls, toys, or any useful articles; and
 
-&emsp;(3) the name of the owner of copyright in the work, or an abbreviation by which the namecan be recognized, or a generally known alternative designation of the owner.
+&emsp;(3) the name of the owner of copyright in the work, or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner.
 
 (c)
 
@@ -28,7 +28,7 @@ Evidentiary Weight of Notice.—If a notice of copyright in the form and positio
 
 #### house report no. 94–1476
 
-A requirement that the public be given formal notice of every work in which copyright is claimed was a part of the first U.S. copyright statute enacted in 1790, and since 1802 our copyright laws have always provided that the published copies of copyrighted works must bear a specified notice as a condition of protection. Under the present law the copyright notice serves four principal functions:
+A requirement that the public be given formal notice of every work in which copyright is claimed was a part of the first U.S. copyright statute enacted in 1790, and since 1802 our copyright laws have always provided that the published copies of copyrighted works must bear aspecified notice as a condition of protection. Under the present law the copyright notice serves four principal functions:
 
 &emsp;(1) It has the effect of placing in the public domain a substantial body of published material that no one is interested in copyrighting;
 

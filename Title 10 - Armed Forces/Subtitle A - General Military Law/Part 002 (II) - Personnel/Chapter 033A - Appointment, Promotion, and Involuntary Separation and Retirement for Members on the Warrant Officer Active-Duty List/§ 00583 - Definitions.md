@@ -24,9 +24,13 @@ In this chapter:
 
 &emsp;&emsp;(C) are junior to the junior warrant officer in the promotion zone.
 
-&emsp;(4) The active-duty list referred to in section 573(b) of this title includes the active-duty promotion list established by section 41a of title 14.
+&emsp;(4) The active-duty list referred to in section 573(b) of this title includes the active-duty promotion list established by section 41a <sup>1</sup> of title 14.
 
 (Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1501; amended Pub. L. 103–337, div. A, title V, §541(f)(7), Oct. 5, 1994, 108 Stat. 2767.)
+
+#### References in Text
+
+Section 41a of title 14, referred to in par. (4), was redesignated section 2012 of title 14 by Pub. L. 115–282,title I, §112(b), Dec. 4, 2018, 132 Stat. 4216, and references to section 41a of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 #### Amendments
 
@@ -39,4 +43,6 @@ Amendment by Pub. L. 103–337 effective on the first day of the fourth month be
 #### Effective Date
 
 Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -168,7 +168,7 @@ Public Law 103–190, referred to in subsec. (a)(13), is Pub. L. 103–190, Dec.
 
 Public Law 103–407, referred to in subsec. (a)(14), is Pub. L. 103–407, Oct. 22, 1994, 108 Stat. 4210, known as the Sheep Promotion, Research, and Information Act of 1994, which is classified generally to chapter 99 (§7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-The Organic Foods Production Act of 1990, referred to in subsec. (e)(3), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
+The Organic Foods Production Act of 1990, referred to in subsec. (e)(3), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally tochapter 94 (§6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
 #### Amendments
 

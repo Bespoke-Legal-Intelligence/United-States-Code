@@ -84,7 +84,7 @@ Pub. L. 98–369, div. B, title VII, §2711(c), July 18, 1984, 98 Stat. 1181, pr
 
 #### Pilot Programs for Authority To Acquire Innovative Commercial Items Using General Solicitation Competitive Procedures
 
-Pub. L. 114–328, div. A, title VIII, §880, Dec. 23, 2016, 130 Stat. 2313, provided that:
+Pub. L. 114–328, div. A, title VIII, §880, Dec. 23, 2016, 130 Stat. 2313, as amended by Pub. L. 115–232, div. A, title VIII, §836(f)(10), Aug. 13, 2018, 132 Stat. 1872, provided that:
 
 "(a)
 
@@ -159,6 +159,8 @@ Innovative Defined.—In this section, the term 'innovative' means—
 "(g)
 
 Termination.—The authority to enter into a contract under a pilot program under this section terminates on September 30, 2022."
+
+<i>\[Pub. L. 115–232, div. A, title VIII, §836(f)(10), (h), Aug. 13, 2018, 132 Stat. 1872, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, section 880 of Pub. L. 114–328, set out above, is amended by striking "commercial items" in subsection (a)(1) and inserting "commercial products".\]</i>
 
 #### Governmentwide Software Purchasing Program
 

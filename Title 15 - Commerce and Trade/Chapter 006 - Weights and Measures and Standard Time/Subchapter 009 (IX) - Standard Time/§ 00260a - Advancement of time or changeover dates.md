@@ -16,7 +16,7 @@ For any violation of the provisions of this section the Secretary of Transportat
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–58 substituted "second Sunday of March" for "first Sunday of April" and"first Sunday of November" for "last Sunday of October".
+<b>2005</b>—Subsec. (a). Pub. L. 109–58 substituted "second Sunday of March" for "first Sunday of April" and "first Sunday of November" for "last Sunday of October".
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–359 substituted "first Sunday of April" for "last Sunday of April".
 
@@ -30,7 +30,7 @@ Pub. L. 109–58, title I, §110(b), Aug. 8, 2005, 119 Stat. 615, provided that:
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–359, §2(e), July 8, 1986, 100 Stat. 765, provided that: "This section \[amending this section and enacting provisions set out as notes below\] shall take effect 60 days after the date of enactment of this Act \[July 8, 1986\], except that if such effective date occurs in any calendar year after March 1, this section shall take effect on the first day of the following calendar year."
+Pub. L. 99–359, §2(e), July 8, 1986, 100 Stat. 765, provided that: "This section \[amending this section and enacting provisions set out as notes below\] shall takeeffect 60 days after the date of enactment of this Act \[July 8, 1986\], except that if such effective date occurs in any calendar year after March 1, this section shall take effect on the first day of the following calendar year."
 
 #### Study and Report on Energy Consumption; Reversion
 

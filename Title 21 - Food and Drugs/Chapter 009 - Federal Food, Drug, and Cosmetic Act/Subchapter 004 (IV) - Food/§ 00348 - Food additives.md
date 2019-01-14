@@ -92,7 +92,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (3) The court, on such judicial review, shall not sustain the order of the Secretary if he failed to comply with any requirement imposed on him by subsection (f)(2) of this section.
 
-(4) If application is made to the court for leave to adduce additional evidence, the court may order such additional evidence to be taken before the Secretary and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper, if such evidence is material and there were reasonable grounds for failure to adduce such evidence in the proceedings below. The Secretary may modify his findings as to the facts and order by reason of the additional evidence so taken, and shall file with the court such modified findings and order.
+(4) If application is made to the court for leave to adduce additional evidence, the court may order such additional evidence to be taken before the Secretary and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper,if such evidence is material and there were reasonable grounds for failure to adduce such evidence in the proceedings below. The Secretary may modify his findings as to the facts and order by reason of the additional evidence so taken, and shall file with the court such modified findings and order.
 
 (5) The judgment of the court affirming or setting aside, in whole or in part, any order under this section shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28. The commencement of proceedings under this section shall not, unless specifically ordered by the court to the contrary, operate as a stay of an order.
 
@@ -128,7 +128,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (iv) For fiscal year 2000 and subsequent fiscal years, the applicable amount under this clause is $3,000,000, or the amount specified in the budget request of the President for the fiscal year involved for carrying out the notification program under this subsection, whichever is less.
 
-(B) For purposes of carrying out the notification program under this subsection, there are authorized to be appropriated such sums as maybe necessary for each of the fiscal years 1999 through fiscal year 2003, except that such authorization of appropriations is not effective for a fiscal year for any amount that is less than the applicable amount under clause (iii) or (iv) of subparagraph (A), whichever is applicable.
+(B) For purposes of carrying out the notification program under this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1999 through fiscal year 2003, except that such authorization of appropriations is not effective for a fiscal year for any amount that is less than the applicable amount under clause (iii) or (iv) of subparagraph (A), whichever is applicable.
 
 (C) Not later than April 1 of fiscal year 1998 and February 1 of each subsequent fiscal year, the Secretary shall submit a report to the Committees on Appropriations of the House of Representatives and the Senate, the Committee on Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate that provides an estimate of the Secretary of the costs of carrying out the notification program established under this subsection for the next fiscal year.
 
@@ -142,9 +142,25 @@ The Secretary shall by regulation prescribe the procedure by which regulations u
 
 Without regard to subsections (b) to (i), inclusive, of this section, the Secretary shall by regulation provide for exempting from the requirements of this section any food additive, and any food bearing or containing such additive, intended solely for investigational use by qualified experts when in his opinion such exemption is consistent with the public health.
 
-(June 25, 1938, ch. 675, §409, as added Pub. L. 85–929, §4, Sept. 6, 1958, 72 Stat. 1785; amended Pub. L. 86–546, §2, June 29, 1960, 74 Stat. 255; Pub. L. 87–781, title I, §104(f)(1), Oct. 10, 1962, 76 Stat. 785; Pub. L. 98–620, title IV, §402(25)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 105–115, title III, §309, Nov. 21, 1997, 111 Stat. 2354.)
+#### (k) Food additives intended for use in animal food
+
+(1) In taking action on a petition under subsection (c) for, or for recognition of, a food additive intended for use in animal food, the Secretary shall review reports of investigations conducted in foreign countries, provided by the petitioner.
+
+(2) Not later than 12 months after August 14, 2018, the Secretary shall post on the internet website of the Food and Drug Administration—
+
+&emsp;(A) the number of petitions for food additives intended for use in animal food filed under subsection (b) that are pending;
+
+&emsp;(B) how long each such petition submitted under subsection (b) has been pending, including such petitions the Secretary has extended under subsection (c)(2); and
+
+&emsp;(C) the number of study protocols that have been pending review for over 50 days, and the number that have received an extension.
+
+(3) In the case of a food additive petition intended for use in animal food, the Secretary shall provide information to the petitioner on the required contents of such petition. If the Secretary requires additional studies beyond what the petitioner proposed, the Secretary shall provide the scientific rationale for such requirement.
+
+(June 25, 1938, ch. 675, §409, as added Pub. L. 85–929, §4, Sept. 6, 1958, 72 Stat. 1785; amended Pub. L. 86–546, §2, June 29, 1960, 74 Stat. 255; Pub. L. 87–781, title I, §104(f)(1), Oct. 10, 1962, 76 Stat. 785; Pub. L. 98–620, title IV, §402(25)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 105–115, title III, §309, Nov. 21, 1997, 111 Stat. 2354; Pub. L. 115–234, title III, §306(a), Aug. 14, 2018, 132 Stat. 2440.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (k). Pub. L. 115–234 added subsec. (k).
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–115, §309(a)(4), in closing provisions, substituted "While such a regulation relating to a food additive, or such a notification under subsection (h)(1) relating to a food additive that is a food contact substance, is in effect, and has not been revoked pursuant to subsection (i), a food shall not, by reason of bearing or containing such a food additive in accordance with the regulation or notification, be considered adulterated under section 342(a)(1) of this title." for "While such a regulation relating to a food additive is in effect, a food shall not, by reason of bearing or containing such an additive in accordance with the regulation, be considered adulterated within the meaning of clause (1) of section 342(a) of this title."
 
@@ -186,13 +202,39 @@ Amendment by Pub. L. 87–781 effective Oct. 10, 1962, see section 107 of Pub. L
 
 Section effective Sept. 6, 1958, see section 6(a) of Pub. L. 85–929, set out as an Effective Date of 1958 Amendment note under section 342 of this title.
 
+#### Guidance on Pre-Petition Consultation Process for Animal Food Additives
+
+Pub. L. 115–234, title III, §306(c), Aug. 14, 2018, 132 Stat. 2441, provided that:
+
+"(1)
+
+In general.—Not later than 18 months after the date of enactment of this Act \[Aug. 14, 2018\], the Secretary of Health and Human Services (referred to in this subsection as the 'Secretary') shall publish draft guidance relating to the voluntary pre-petition consultation process for food additives intended for use in animal food.
+
+"(2)
+
+Contents.—The guidance under paragraph (1) shall include—
+
+&emsp;"(A) the recommended format to submit to the Food and Drug Administration existing data, including any applicable foreign data, for assessment prior to submission of a food additive petition for animal food under section 409(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 348(b)\];
+
+&emsp;"(B) the manner and the number of days by which the Food and Drug Administration intends to review and respond to such existing data, including with respect to providing a scientific rationale for any additional data request;
+
+&emsp;"(C) circumstances under which the submission of study protocols is recommended prior to submission of a food additive petition under such section 409(b);
+
+&emsp;"(D) the manner in which the Secretary intends to inform the person submitting a study protocol for a food additive if the review of such study protocol will take longer than 50 days; and
+
+&emsp;"(E) best practices for communication between the Food and Drug Administration and industry on the development of pre-petition submissions of study protocols and existing data for food additives.
+
+"(3)
+
+Final guidance.—The guidance under paragraph (1) shall be finalized, withdrawn, or reissued not later than 1 year after the close of the comment period on the draft guidance."
+
 #### Glass and Ceramic Ware
 
 Pub. L. 105–115, title III, §308, Nov. 21, 1997, 111 Stat. 2353, provided that:
 
 "(a)
 
-In General.—The Secretary may not implement any requirement which would ban, as an unapproved food additive, lead and cadmium based enamel in thelip and rim area of glass and ceramic ware before the expiration of one year after the date such requirement is published.
+In General.—The Secretary may not implement any requirement which would ban, as an unapproved food additive, lead and cadmium based enamel in the lip and rim area of glass and ceramic ware before the expiration of one year after the date such requirement is published.
 
 "(b)
 

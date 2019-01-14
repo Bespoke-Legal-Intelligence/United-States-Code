@@ -4,7 +4,7 @@
 
 In General.—The functions of the Administrator include—
 
-&emsp;(1) providing leadership and ensuring action by the executive agencies in establishing, developing, and maintaining the single system of simplified Government-wide procurement regulations and resolving differences among theexecutive agencies in developing simplified Government-wide procurement regulations, procedures, and forms;
+&emsp;(1) providing leadership and ensuring action by the executive agencies in establishing, developing, and maintaining the single system of simplified Government-wide procurement regulations and resolving differences among the executive agencies in developing simplified Government-wide procurement regulations, procedures, and forms;
 
 &emsp;(2) coordinating the development of Government-wide procurement system standards that executive agencies shall implement in their procurement systems;
 
@@ -116,11 +116,45 @@ In clause (12), the words "small business concerns owned and controlled by servi
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 2323 of Title 10, Armed Forces.
+Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 657a of Title 15, Commerce and Trade.
+
+#### Procurement Administrative Lead Time Definition and Plan
+
+Pub. L. 115–232, div. A, title VIII, §878, Aug. 13, 2018, 132 Stat. 1908, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Administrator for Federal Procurement Policy shall develop, make available for public comment, and finalize—
+
+&emsp;"(1) a definition of the term 'Procurement administrative lead time' or 'PALT', to be applied Government-wide, that describes the amount of time from the date on which a solicitation for a contract or task order is issued to the date of an initial award of the contract or task order; and
+
+&emsp;"(2) a plan for measuring and publicly reporting data on PALT for Federal Government contracts and task orders in amounts greater than the simplified acquisition threshold.
+
+"(b)
+
+Requirement for Definition.—Unless the Administrator determines otherwise, the amount of time in the definition of PALT developed under subsection (a) shall—
+
+&emsp;"(1) begin on the date on which an initial solicitation is issued by a Federal department or agency for a contract or task order; and
+
+&emsp;"(2) end on the date of the award of the contract or task order.
+
+"(c)
+
+Coordination.—In developing the definition of PALT, the Administrator shall coordinate with—
+
+&emsp;"(1) the senior procurement executives of Federal agencies;
+
+&emsp;"(2) the Secretary of Defense; and
+
+&emsp;"(3) the Administrator of the General Services Administration on modifying the existing data system of the Federal Government to determine the date on which the initial solicitation is issued.
+
+"(d)
+
+Use of Existing Procurement Data System.—In developing the plan for measuring and publicly reporting data on PALT required by subsection (a), the Administrator shall, to the maximum extent practicable, rely on the information contained in the Federal procurement data system established pursuant to section 1122(a)(4) of title 41, United States Code, including any modifications to that system."
 
 #### Pilot Program To Inventory Cost and Size of Service Contracts
 
-Pub. L. 110–161, div. D, title VII, §748, Dec. 26, 2007, 121 Stat. 2035, provided that: "No later than 180 days after enactment of this Act \[Dec. 26, 2007\], the Office of Management and Budget shall establish a pilot program to develop and implement an inventory to track the cost and size (in contractor manpower equivalents) of service contracts, particularly with respect to contracts that have been performed poorly by a contractor because of excessive costs or inferior quality, as determined by a contracting officer within the last five years, involve inherently governmental functions, or were undertaken without competition. The pilot program shall be established in at least three Cabinet-level departments, based on varying levels of annual contracting for services, as reported by the Federal Procurement Data System's Federal Procurement Report for fiscal year 2005, including at least one Cabinet-level department that contracts out annually for $10,000,000,000 or more in services, at least one Cabinet-level department that contracts out annually for between $5,000,000,000 and $9,000,000,000 in services, and at least one Cabinet-level department that contracts out annually for under $5,000,000,000 in services."
+Pub. L. 110–161, div. D, title VII, §748, Dec. 26, 2007, 121 Stat. 2035, provided that: "No later than 180 days afterenactment of this Act \[Dec. 26, 2007\], the Office of Management and Budget shall establish a pilot program to develop and implement an inventory to track the cost and size (in contractor manpower equivalents) of service contracts, particularly with respect to contracts that have been performed poorly by a contractor because of excessive costs or inferior quality, as determined by a contracting officer within the last five years, involve inherently governmental functions, or were undertaken without competition. The pilot program shall be established in at least three Cabinet-level departments, based on varying levels of annual contracting for services, as reported by the Federal Procurement Data System's Federal Procurement Report for fiscal year 2005, including at least one Cabinet-level department that contracts out annually for $10,000,000,000 or more in services, at least one Cabinet-level department that contracts out annually for between $5,000,000,000 and $9,000,000,000 in services, and at least one Cabinet-level department that contracts out annually for under $5,000,000,000 in services."
 
 #### Reporting of Bundled Contract Opportunities
 
@@ -148,13 +182,13 @@ Inapplicability of Process to Department of Defense.—The process guidelines de
 
 #### Data Collection Through Federal Procurement Data System
 
-Pub. L. 103–355, title X, §10004, Oct. 13, 1994, 108 Stat. 3405, provided that:
+Pub. L. 103–355, title X, §10004, Oct. 13, 1994, 108 Stat. 3405, as amended by Pub. L. 115–232, div. A, title VIII, §812(a)(2)(C)(iv), Aug. 13, 2018, 132 Stat. 1847, provided that:
 
 "(a)
 
 Data Collection Required.—The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 405(d)(4)(A)) \[now 41 U.S.C. 1122(a)(4)(A)\] shall be modified to collect from contracts in excess of the simplified acquisition threshold data identifying the following matters:
 
-&emsp;"(1) Contract awards made pursuant to competitions conducted pursuant to section 2323 of title 10, United States Code, or section 7102 of the Federal Acquisition Streamlining Act of 1994 \[Pub. L. 103–355, 15 U.S.C. 644 note\].
+&emsp;"(1) Contract awards made pursuant to competitions conducted pursuant to section 7102 of the Federal Acquisition Streamlining Act of 1994 \[Pub. L. 103–355, 15 U.S.C. 644 note\].
 
 &emsp;"(2) Awards to business concerns owned and controlled by women.
 

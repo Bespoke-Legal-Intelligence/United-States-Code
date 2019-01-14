@@ -4,7 +4,7 @@
 
 The Secretary shall make or insure no loan under this subchapter—
 
-&emsp;(1) that would cause the total principal indebtedness outstanding at any one time for loans made under this subchapter to any one borrower to exceed, in the case of a loan other than a loan guaranteed by the Secretary, $300,000, or, in the case of a loan guaranteed by the Secretary, $700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the unpaid indebtedness of the borrower on loans under the sections specified in section 1925 of this title that are guaranteed by the Secretary); or
+&emsp;(1) that would cause the total principal indebtedness outstanding at any one time for loans made under this subchapter to any one borrower to exceed, in the case of a loan other than a loan guaranteed by the Secretary, $400,000, or, in the case of a loan guaranteed by the Secretary, $1,750,000 (increased, beginning with fiscal year 2019, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the unpaid indebtedness of the borrower on loans under the sections specified in section 1925 of this title that are guaranteed by the Secretary); or
 
 &emsp;(2) for the purchasing or leasing of land other than for cash rent, or for carrying on any land leasing or land purchasing program.
 
@@ -12,9 +12,9 @@ The Secretary shall make or insure no loan under this subchapter—
 
 For purposes of this section, the inflation percentage applicable to a fiscal year is the percentage (if any) by which—
 
-&emsp;(1) the average of the Prices Paid By Farmers Index (as compiled by the National Agricultural Statistics Service of the Department of Agriculture) for the 12-month period ending on August 31 of the immediately preceding fiscal year; exceeds
+&emsp;(1) the average of the Prices Paid By Farmers Index (as compiled by the National Agricultural Statistics Service of the Department of Agriculture) for the 12-month period ending on July 31 of the immediately preceding fiscal year; exceeds
 
-&emsp;(2) the average of such index (as so defined) for the 12-month period ending on August 31, 1996.
+&emsp;(2) the average of such index (as so defined) for the 12-month period that immediately precedes the 12-month period described in paragraph (1).
 
 #### (c) Microloans
 
@@ -24,7 +24,7 @@ For purposes of this section, the inflation percentage applicable to a fiscal ye
 
 #### (2) Limitations
 
-&emsp;The Secretary shall not make or guarantee a microloan under this subsection that would cause the total principal indebtedness outstanding at any 1 time for microloans made under this chapter to any 1 borrower to exceed $50,000.
+&emsp;The Secretary shall not make or guarantee a microloan under this subsection that would cause the total principal indebtedness outstanding at any 1 time for microloans made under this subsection to any 1 borrower to exceed $50,000.
 
 #### (3) Applications
 
@@ -34,7 +34,7 @@ For purposes of this section, the inflation percentage applicable to a fiscal ye
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), during each of the 2014 through 2018 fiscal years, the Secretary may carry out a pilot project to make loans to community development financial institutions, as the Secretary determines appropriate—
+&emsp;&emsp;Subject to subparagraph (B), during each of the 2014 through 2023 fiscal years, the Secretary may carry out a pilot project to make loans to community development financial institutions, as the Secretary determines appropriate—
 
 &emsp;&emsp;&emsp;(i) to make or guarantee microloans consistent with the terms provided under this subsection; and
 
@@ -70,11 +70,7 @@ For purposes of this section, the inflation percentage applicable to a fiscal ye
 
 &emsp;&emsp;The Secretary shall not make more than $10,000,000 in loans under this paragraph in any fiscal year.
 
-(Pub. L. 87–128, title III, §313, Aug. 8, 1961, 75 Stat. 310; Pub. L. 90–488, §9, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §122, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, §116, Aug. 4, 1978, 92 Stat. 426; Pub. L. 98–258, title VI, §604(a), Apr. 10, 1984, 98 Stat. 139; Pub. L. 105–277, div. A, §101(a) \[title VIII, §806(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 110–234, title V, §5102, May 22, 2008, 122 Stat. 1146; Pub. L. 110–246, §4(a), title V, §5102, June 18, 2008, 122 Stat. 1664, 1908; Pub. L. 113–79, title V, §5106(a), Feb. 7, 2014, 128 Stat. 837.)
-
-#### References in Text
-
-For definition of "this chapter", referred to in subsec. (c), see note set out under section 1921 of this title.
+(Pub. L. 87–128, title III, §313, Aug. 8, 1961, 75 Stat. 310; Pub. L. 90–488, §9, Aug. 15, 1968, 82Stat. 771; Pub. L. 92–419, title I, §122, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, §116, Aug. 4, 1978, 92 Stat. 426; Pub. L. 98–258, title VI, §604(a), Apr. 10, 1984, 98 Stat. 139; Pub. L. 105–277, div. A, §101(a) \[title VIII, §806(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 110–234, title V, §5102, May 22, 2008, 122 Stat. 1146; Pub. L. 110–246, §4(a), title V, §5102, June 18, 2008, 122 Stat. 1664, 1908; Pub. L. 113–79, title V, §5106(a), Feb. 7, 2014, 128 Stat. 837; Pub. L. 115–334, title V, §§5201–5203, Dec. 20, 2018, 132 Stat. 4671.)
 
 #### Codification
 
@@ -82,11 +78,21 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–334, §5201(1), substituted "$400,000" for "$300,000", "$1,750,000" for "$700,000", and "2019" for "2000".
+
+Subsec. (b)(1). Pub. L. 115–334, §5201(2)(A), substituted "July" for "August".
+
+Subsec. (b)(2). Pub. L. 115–334, §5201(2)(B), substituted "that immediately precedes the 12-month period described in paragraph (1)" for "ending on August 31, 1996".
+
+Subsec. (c)(2). Pub. L. 115–334, §5202, substituted "subsection to any 1 borrower" for "chapter to any 1 borrower".
+
+Subsec. (c)(4)(A). Pub. L. 115–334, §5203, substituted "2023" for "2018" in introductory provisions.
+
 <b>2014</b>—Subsec. (c). Pub. L. 113–79 added subsec. (c).
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §5102, substituted "$300,000" for "$200,000".
 
-<b>1998</b>—Pub. L. 105–277 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted "this subchapter—" for "this subchapter", in introductory provisions, realigned marginof par. (1) and substituted "$700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the unpaid indebtedness of the borrower on loans under the sections specified in section 1925 of this title that are guaranteed by the Secretary); or" for "$400,000; or", realigned margin of par. (2), and added subsec. (b).
+<b>1998</b>—Pub. L. 105–277 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted "this subchapter—" for "this subchapter", in introductory provisions, realigned margin of par. (1) and substituted "$700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the unpaid indebtedness of the borrower on loans under the sections specified in section 1925 of this title that are guaranteed by the Secretary); or" for "$400,000; or", realigned margin of par. (2), and added subsec. (b).
 
 <b>1984</b>—Pub. L. 98–258 substituted "$200,000" and "$400,000" for "$100,000" and "$200,000", respectively.
 

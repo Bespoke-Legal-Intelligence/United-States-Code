@@ -22,7 +22,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(10) "licensee" means the holder of a valid license for the ownership, construction, and operation of an ocean thermal energy conversion facility or plantship that was issued, transferred, or renewed pursuant to this chapter;
 
-&emsp;(11) "ocean thermal energy conversion facility" means any facility which is standing, fixed or moored in whole or in part seaward of the highwater mark and which is designed touse temperature differences in ocean water to produce electricity or another form of energy capable of being used directly to perform work, and includes any equipment installed on such facility to use such electricity or other form of energy to produce, process, refine, or manufacture a product, and any cable or pipeline used to deliver such electricity, fresh water, or product to shore, and all other associated equipment and appurtenances of such facility, to the extent they are located seaward of the highwater mark;
+&emsp;(11) "ocean thermal energy conversion facility" means any facility which is standing, fixed or moored in whole or in part seaward of the highwater mark and which is designed to use temperature differences in ocean water to produce electricity or another form of energy capable of being used directly to perform work, and includes any equipment installed on such facility to use such electricity or other form of energy to produce, process, refine, or manufacture a product, and any cable or pipeline used to deliver such electricity, fresh water, or product to shore, and all other associated equipment and appurtenances of such facility, to the extent they are located seaward of the highwater mark;
 
 &emsp;(12) "ocean thermal energy conversion plantship" means any vessel which is designed to use temperature differences in ocean water while floating unmoored or moving through such water, to produce electricity or another form of energy capable of being used directly to perform work, and includes any equipment installed on such vessel to use such electricity or other form of energy to produce, process, refine, or manufacture a product, and any equipment used to transfer such product to other vessels for transportation to users, and all other associated equipment and appurtenances of such vessel;
 
@@ -52,7 +52,7 @@ Sections 73 and 74 of the Act of August 27, 1894, as amended, referred to in par
 
 #### Amendments
 
-<b>1984</b>—Par. (11). Pub. L. 98–623, §602(a)(2), substituted "standing, fixed or moored in whole or in part seaward of the highwater mark" for "standing or moored in or beyond the territorial sea of the United States".
+<b>1984</b>—Par. (11). Pub. L. 98–623, §602(a)(2), substituted "standing, fixed or moored in whole or in part seawardof the highwater mark" for "standing or moored in or beyond the territorial sea of the United States".
 
 Pub. L. 98–623, §602(e)(7), substituted "fresh water" for "freshwater".
 

@@ -182,7 +182,7 @@ Delegations and Authorization
 
 42\. Office of Personnel Management
 
-43\. Overseas Private Investment Corporation
+43\. Overseas Private Investment Corporation \[now United States International Development Finance Corporation\]
 
 44\. Panama Canal Commission
 
@@ -342,7 +342,7 @@ National Transportation Safety Board
 
 Nuclear Regulatory Commission
 
-Overseas Private Investment Corporation
+Overseas Private Investment Corporation \[now United States International Development Finance Corporation\]
 
 Administrative Conference of the United States
 

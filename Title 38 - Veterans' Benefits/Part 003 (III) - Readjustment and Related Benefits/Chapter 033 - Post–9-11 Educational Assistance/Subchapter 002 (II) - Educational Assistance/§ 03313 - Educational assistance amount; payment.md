@@ -12,11 +12,11 @@ Approved Programs of Education.—A program of education is an approved program 
 
 Programs of Education Leading to a Degree Pursued at Institutions of Higher Learning on More Than Half-time Basis.—The amounts payable under this subsection for pursuit of an approved program of education leading to a degree at an institution of higher learning (as that term is defined in section 3452(f)) are amounts as follows:
 
-&emsp;(1) In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), or (9) of section 3311(b), amounts as follows:
+&emsp;(1) In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), (9), or (10) of section 3311(b), amounts as follows:
 
 &emsp;&emsp;(A) An amount equal to the following:
 
-&emsp;&emsp;&emsp;(i) In the case of a program of education pursued at a public institution of higherlearning, the actual net cost for in-State tuition and fees assessed by the institution for the program of education after the application of—
+&emsp;&emsp;&emsp;(i) In the case of a program of education pursued at a public institution of higher learning, the actual net cost for in-State tuition and fees assessed by the institution for the program of education after the application of—
 
 &emsp;&emsp;&emsp;&emsp;(I) any waiver of, or reduction in, tuition and fees; and
 
@@ -72,7 +72,7 @@ Programs of Education Leading to a Degree Pursued at Institutions of Higher Lear
 
 &emsp;(4) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(5), amounts equal to 70 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
-&emsp;(5) In the case of an individual entitled to educational assistance under this chapter byreason of section 3311(b)(6), amounts equal to 60 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
+&emsp;(5) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(6), amounts equal to 60 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
 &emsp;(6) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(7), amounts equal to 50 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
@@ -140,7 +140,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;(3)
 
-Quarter, semester, or term payments.—Payment of the amount payable under paragraph (2) for pursuit of a program ofeducation shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
+Quarter, semester, or term payments.—Payment of the amount payable under paragraph (2) for pursuit of a program of education shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
 
 &emsp;(4)
 
@@ -346,19 +346,23 @@ Determination of Housing Stipend Payments for Academic Years.—Any monthly hous
 
 (j)
 
-Determination of Monthly Housing Stipends During Active Duty Service.—For any month during which an individual who is entitled to a monthly housing stipend under this section is performing active duty service, the Secretary shall determine the amount of suchstipend payable to such individual for such month on a pro rata basis for the period of such month during which the individual is not performing active duty service.
+Determination of Monthly Housing Stipends During Active Duty Service.—For any month during which an individual who is entitled to a monthly housing stipend under this section is performing active duty service, the Secretary shall determine the amount of such stipend payable to such individual for such month on a pro rata basis for the period of such month during which the individual is not performing active duty service.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2363; amended Pub. L. 111–32, title X, §1002(b), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(1)–(3), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, 124 Stat. 4108–4110, 4112–4117, 4121; Pub. L. 114–58, title VI, §601(16)–(18), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §§102(b), 105(b), (c)(2), 107(a), 113(a), Aug. 16, 2017, 131 Stat. 975, 977, 985; Pub. L. 115–62, title V, §501(b)(1), (c)(1), Sept. 29, 2017, 131 Stat. 1165, 1166.)
+(k)
 
-#### Applicability of Amendment
+Provision of Housing Stipend Payment Information.—
 
-<i>Amendment of this section by section 107(a) of Pub. L. 115–48 and section 501(b)(1) of Pub. L. 115–62 applicable with respect to enrollment for a quarter, semester, or term, as applicable, commencing on or after Aug. 1, 2018. See 2017 Amendment notes below.</i>
+&emsp;(1)
 
-<i>Amendment of this section by section 113(a) of Pub. L. 115–48 and subsec. (j) of this section as amended by section 501(c)(1) of Pub. L. 115–62 applicable with respect to a quarter, semester, or term, as applicable, commencing on or after Aug. 1, 2018. See 2017 Amendment notes below.</i>
+In general.—The Secretary shall furnish to individuals receiving educational assistance under this chapter documentation that verifies the amount of the monthly housing stipend the individual receives under this section.
+
+&emsp;(2)
+
+Manner.—The Secretary shall make such documentation available to the individual using an internet website in the same manner the Secretary provides documentation verifying compensation and other benefits furnished by the Secretary to individuals.
+
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2363; amended Pub. L. 111–32, title X, §1002(b), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(1)–(3), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, 124 Stat. 4108–4110,4112–4117, 4121; Pub. L. 114–58, title VI, §601(16)–(18), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §§102(b), 105(b), (c)(2), 107(a), 113(a), Aug. 16, 2017, 131 Stat. 975, 977, 985; Pub. L. 115–62, title V, §501(b)(1), (c)(1), Sept. 29, 2017, 131 Stat. 1165, 1166; Pub. L. 115–407, title I, §102, Dec. 31, 2018, 132 Stat. 5369.)
 
 #### Amendment of Section
-
-<i>Pub. L. 115–48, title I, §102(b), (c), Aug. 16, 2017, 131 Stat. 975, provided that, effective Aug. 1, 2018, subsection (c)(1) of this section is amended by striking "or (9)" and inserting "(9), or (10)".</i>
 
 <i>Pub. L. 115–48, title I, §105(b), (c)(2), (d), Aug. 16, 2017, 131 Stat. 975, 977, provided that, effective Aug. 1, 2020, this section is amended—</i>
 
@@ -406,6 +410,8 @@ Section 401(b) of the Higher Education Act of 1965, referred to in subsecs. (c)(
 
 #### Amendments
 
+<b>2018</b>—Subsec. (k). Pub. L. 115–407 added subsec. (k).
+
 <b>2017</b>—Subsec. (c)(1). Pub. L. 115–48, §105(c)(2)(A), substituted "(8), or (9)" for "(9), or (10)".
 
 Pub. L. 115–48, §102(b), substituted "(9), or (10)" for "or (9)".
@@ -440,7 +446,7 @@ Subsec. (e)(2)(A)(iii). Pub. L. 114–58, §601(17), struck out second period at
 
 Subsec. (g)(3)(A)(iii). Pub. L. 114–58, §601(18), substituted "books," for "books".
 
-<b>2011</b>—Subsec. (b). Pub. L. 111–377, §105(a), struck out "is offered by an institution of higher learning (as thatterm is defined in section 3452(f)) and" before "is approved".
+<b>2011</b>—Subsec. (b). Pub. L. 111–377, §105(a), struck out "is offered by an institution of higher learning (as that term is defined in section 3452(f)) and" before "is approved".
 
 Subsec. (c). Pub. L. 111–377, §102(a)(2), amended heading generally. Prior to amendment, heading read as follows: "Amount of Educational Assistance".
 
@@ -450,7 +456,7 @@ Subsec. (c)(1). Pub. L. 111–377, §112(a)(1), which directed amendment identic
 
 Subsec. (c)(1)(A). Pub. L. 111–377, §102(a)(1)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: "An amount equal to the established charges for the program of education, except that the amount payable under this subparagraph may not exceed the maximum amount of established charges regularly charged in-State students for full-time pursuit of approved programs of education for undergraduates by the public institution of higher learning offering approved programs of education for undergraduates in the State in which the individual is enrolled that has the highest rate of regularly-charged established charges for such programs of education among all public institutions of higher learning in such State offering such programs of education."
 
-Subsec. (c)(1)(B). Pub. L. 111–377, §102(b), redesignated cl. (ii) as (iv), added cls. (i) to (iii), and struck out former cl. (i) which read as follows: "For each month the individual pursues the program of education (other than, in the case of assistance under this section only, a program of education offered through distance learning), a monthly housing stipend amount equal to the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution of higher learning at which the individual is enrolled."
+Subsec. (c)(1)(B). Pub. L. 111–377, §102(b), redesignated cl. (ii) as (iv), added cls. (i) to (iii), and struck outformer cl. (i) which read as follows: "For each month the individual pursues the program of education (other than, in the case of assistance under this section only, a program of education offered through distance learning), a monthly housing stipend amount equal to the monthly amount of the basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution of higher learning at which the individual is enrolled."
 
 Subsec. (e). Pub. L. 111–377, §103(b), amended heading generally. Prior to amendment, heading read as follows: "Programs of Education Pursued on Active Duty".
 
@@ -524,7 +530,7 @@ Pub. L. 111–377, title I, §103(c), Jan. 4, 2011, 124 Stat. 4112, provided tha
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[Jan. 4, 2011\], and shall apply with respect to amounts payable for educational assistance for pursuit of programs of education on or after such effective date.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[Jan. 4, 2011\], and shall apply with respect to amounts payable for educational assistance for pursuit of programs of education on or after such effective date.
 
 "(2)
 

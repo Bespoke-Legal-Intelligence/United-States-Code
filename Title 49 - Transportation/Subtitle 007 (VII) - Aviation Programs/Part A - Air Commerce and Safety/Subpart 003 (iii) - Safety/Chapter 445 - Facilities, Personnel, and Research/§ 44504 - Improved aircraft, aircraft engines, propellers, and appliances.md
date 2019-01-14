@@ -82,7 +82,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Crash-Resistant Fuel Systems
 
-Pub. L. 114–190, title II, §2105, July 15, 2016, 130 Stat. 620, provided that: "Not later than 1 year after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall evaluate and update, as necessary, standards for crash-resistant fuel systems for civilian rotorcraft."
+Pub. L. 114–190, title II, §2105, July 15, 2016, 130 Stat. 620, provided that: "Not later than 1 year after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shallevaluate and update, as necessary, standards for crash-resistant fuel systems for civilian rotorcraft."
 
 #### Aviation Fuel Research and Development Program
 
@@ -198,7 +198,7 @@ Technology Requirements.—The technology referred to in subsection (a) shall ha
 
 "(c)
 
-Report.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science, Space, and Technology of the House of Representatives a report on the results of the research and development work carried out under this section."
+Report.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit to the Committee on Commerce, Science,and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science, Space, and Technology of the House of Representatives a report on the results of the research and development work carried out under this section."
 
 #### FAA Center for Excellence for Applied Research and Training in the Use of Advanced Materials in Transport Aircraft
 

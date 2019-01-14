@@ -22,6 +22,8 @@
 | [1115\.](Subchapter%20002%20%28II%29%20-%20Transportation%20Security%20Enhancements/%C2%A7%2001115%20-%20TSA%20personnel%20limitations.md) | TSA personnel limitations. |
 | [1116\.](Subchapter%20002%20%28II%29%20-%20Transportation%20Security%20Enhancements/%C2%A7%2001116%20-%20National%20explosives%20detection%20canine%20team%20training%20program.md) | National explosives detection canine team training program. |
 | [1117\.](Subchapter%20002%20%28II%29%20-%20Transportation%20Security%20Enhancements/%C2%A7%2001117%20-%20Roles%20of%20the%20Department%20of%20Homeland%20Security%20and%20the%20Department%20of%20Transportation.md) | Roles of the Department of Homeland Security and the Department of Transportation. |
+| [1118\.](Subchapter%20002%20%28II%29%20-%20Transportation%20Security%20Enhancements/%C2%A7%2001118%20-%20Biometrics%20expansion.md) | Biometrics expansion. |
+| [1119\.](Subchapter%20002%20%28II%29%20-%20Transportation%20Security%20Enhancements/%C2%A7%2001119%20-%20Voluntary%20use%20of%20credentialing.md) | Voluntary use of credentialing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -56,6 +58,8 @@
 | [1152\.](Subchapter%20004%20%28IV%29%20-%20Surface%20Transportation%20Security/Part%20A%20-%20General%20Provisions/%C2%A7%2001152%20-%20Oversight%20and%20grant%20procedures.md) | Oversight and grant procedures. |
 | [1153\.](Subchapter%20004%20%28IV%29%20-%20Surface%20Transportation%20Security/Part%20A%20-%20General%20Provisions/%C2%A7%2001153%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1154\.](Subchapter%20004%20%28IV%29%20-%20Surface%20Transportation%20Security/Part%20A%20-%20General%20Provisions/%C2%A7%2001154%20-%20Public%20awareness.md) | Public awareness. |
+| [1155\.](Subchapter%20004%20%28IV%29%20-%20Surface%20Transportation%20Security/Part%20A%20-%20General%20Provisions/%C2%A7%2001155%20-%20Security%20awareness%20program.md) | Security awareness program. |
+| [1156\.](Subchapter%20004%20%28IV%29%20-%20Surface%20Transportation%20Security/Part%20A%20-%20General%20Provisions/%C2%A7%2001156%20-%20Nuclear%20material%20and%20explosive%20detection%20technology.md) | Nuclear material and explosive detection technology. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

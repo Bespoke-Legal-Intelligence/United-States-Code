@@ -4,9 +4,9 @@
 
 #### (1) Ordinary income
 
-&emsp;Except as otherwise provided in this section, if farm land which the taxpayer has held for less than 10 years is disposed of during a taxable year beginning,<sup>1</sup> the lower of—
+&emsp;Except as otherwise provided in this section, if farm land which the taxpayer has held for less than 10 years is disposed of, the lower of—
 
-&emsp;&emsp;(A) the applicable percentage of the aggregate of the deductions allowed under sections 175 (relating to soil and water conservation expenditures) and 182 <sup>2</sup> (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) for expenditures made by the taxpayer with respect to the farm land or
+&emsp;&emsp;(A) the applicable percentage of the aggregate of the deductions allowed under section 175 (relating to soil and water conservation expenditures) for expenditures made by the taxpayer with respect to the farm land or
 
 &emsp;&emsp;(B) the excess of—
 
@@ -14,11 +14,11 @@
 
 &emsp;&emsp;&emsp;(ii) the adjusted basis of such land,
 
-> &emsp;shall be treated as ordinary income. Such gain shall be recognized notwithstanding any other provision of this subtitle.
+> &emsp;&emsp;shall be treated as ordinary income. Such gain shall be recognized notwithstanding any other provision of this subtitle.
 
 #### (2) Farm land
 
-&emsp;For purposes of this section, the term "farm land" means any land with respect to which deductions have been allowed under sections 175 (relating to soil and water conservation expenditures) or 182 <sup>2</sup> (relating to expenditures by farmers for clearing land).
+&emsp;For purposes of this section, the term "farm land" means any land with respect to which deductions have been allowed under section 175 (relating to soil and water conservation expenditures).
 
 #### (3) Applicable percentage
 
@@ -39,15 +39,15 @@
 
 Under regulations prescribed by the Secretary, rules similar to the rules of section 1245 shall be applied for purposes of this section.
 
-(Added Pub. L. 91–172, title II, §214(a), Dec. 30, 1969, 83 Stat. 572; amended Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 98–369, div. A, title IV, §492(b)(5), July 18, 1984, 98 Stat. 854; Pub. L. 99–514, title IV, §402(b)(2), Oct. 22, 1986, 100 Stat. 2221; Pub. L. 113–295, div. A, title II, §221(a)(85), Dec. 19, 2014, 128 Stat. 4049.)
-
-#### References in Text
-
-Section 182, referred to in subsec. (a), was repealed by Pub. L. 99–514, title IV, §402(a), Oct. 22, 1986, 100 Stat. 2221.
-
-The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (a)(1)(A), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
+(Added Pub. L. 91–172, title II, §214(a), Dec. 30, 1969, 83 Stat. 572; amended Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 98–369, div. A, title IV, §492(b)(5), July 18, 1984, 98 Stat. 854; Pub. L. 99–514, title IV, §402(b)(2), Oct. 22, 1986, 100 Stat. 2221; Pub. L. 113–295, div. A, title II, §221(a)(85), Dec. 19, 2014, 128 Stat. 4049; Pub. L. 115–141, div. U, title IV, §401(b)(32), Mar. 23, 2018, 132 Stat. 1204.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–141, §401(b)(32)(A), struck out "during a taxable year beginning" after "disposed of" in introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 115–141, §401(b)(32)(B), substituted "section" for "sections" and "for expenditures" for "and 182 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) for expenditures".
+
+Subsec. (a)(2). Pub. L. 115–141, §401(b)(32)(C), substituted "section" for "sections" and struck out "or 182 (relating to expenditures by farmers for clearing land)" before period at end.
 
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–295, §221(a)(85)(A), struck out "after December 31, 1969" after "beginning" in introductory provisions.
 
@@ -81,7 +81,7 @@ Amendment by section 1901(b)(3)(K) of Pub. L. 94–455 effective for taxable yea
 
 Pub. L. 91–172, title II, §214(c), Dec. 30, 1969, 83 Stat. 573, provided that: "The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1969."
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### Savings Provision
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 

@@ -38,7 +38,7 @@
 
 #### (1) Recipients of notice
 
-&emsp;Notice required under subsection (a) shall be given immediately after the release by the owner or operator of a facility (by such means as telephone, radio, or in person) to the community emergency coordinator for the local emergency planning committees, if established pursuant to section 11001(c) of this title, for any area likely to be affected by the release and to the State emergency planning commission of any State likely to be affected by the release. With respect to transportation of a substance subject to the requirements of this section, or storage incident to such transportation, the notice requirements of this section with respect to a release shall be satisfied by dialing 911 or, in the absence of a 911 emergency telephone number, calling the operator.
+&emsp;Notice required under subsection (a) shall be given immediately after the release by the owner or operator of a facility (by such means as telephone, radio, or in person) to the community emergency coordinator for the local emergency planning committees, if established pursuant to section 11001(c) of this title, for any area likely to be affected by the release and to the State emergency response commission of any State likely to be affected by the release. With respect to transportation of a substance subject to the requirements of this section, or storage incident to such transportation, the notice requirements of this section with respect to a release shall be satisfied by dialing 911 or, in the absence of a 911 emergency telephone number, calling the operator.
 
 #### (2) Contents
 
@@ -74,9 +74,57 @@ As soon as practicable after a release which requires notice under subsection (a
 
 The exemption provided in section 11047 of this title (relating to transportation) does not apply to this section.
 
-(Pub. L. 99–499, title III, §304, Oct. 17, 1986, 100 Stat. 1733.)
+#### (e) Addressing source water used for drinking water
+
+#### (1) Applicable State agency notification
+
+&emsp;A State emergency response commission shall—
+
+&emsp;&emsp;(A) promptly notify the applicable State agency of any release that requires notice under subsection (a);
+
+&emsp;&emsp;(B) provide to the applicable State agency the information identified in subsection (b)(2); and
+
+&emsp;&emsp;(C) provide to the applicable State agency a written followup emergency notice in accordance with subsection (c).
+
+#### (2) Community water system notification
+
+#### (A) In general
+
+&emsp;&emsp;An applicable State agency receiving notice of a release under paragraph (1) shall—
+
+&emsp;&emsp;&emsp;(i) promptly forward such notice to any community water system the source waters of which are affected by the release;
+
+&emsp;&emsp;&emsp;(ii) forward to the community water system the information provided under paragraph (1)(B); and
+
+&emsp;&emsp;&emsp;(iii) forward to the community water system the written followup emergency notice provided under paragraph (1)(C).
+
+#### (B) Direct notification
+
+&emsp;&emsp;In the case of a State that does not have an applicable State agency, the State emergency response commission shall provide the notices and information described in paragraph (1) directly to any community water system the source waters of which are affected by a release that requires notice under subsection (a).
+
+#### (3) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Community water system
+
+&emsp;&emsp;The term "community water system" has the meaning given such term in section 1401(15) of the Safe Drinking Water Act \[42 U.S.C. 300f(15)\].
+
+#### (B) Applicable State agency
+
+&emsp;&emsp;The term "applicable State agency" means the State agency that has primary responsibility to enforce the requirements of the Safe Drinking Water Act in the State.
+
+(Pub. L. 99–499, title III, §304, Oct. 17, 1986, 100 Stat. 1733; Pub. L. 115–270, title II, §2018(a), Oct. 23, 2018, 132 Stat. 3857.)
 
 #### References in Text
 
 The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and CERCLA, referred to in subsec. (a)(1), (3), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+
+The Safe Drinking Water Act, referred to in subsec. (e)(3)(B), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–270, §2018(a)(1), substituted "State emergency response commission" for "State emergency planning commission".
+
+Subsec. (e). Pub. L. 115–270, §2018(a)(2), added subsec. (e).
 

@@ -2,7 +2,7 @@
 
 #### (a) Provisions of law affected
 
-The provisions of this section apply notwithstanding any other provision of law, including section 2370(a) of this title, and notwithstanding the exercise of authorities, before October 23, 1992, under section 5(b) of the Trading With the Enemy Act \[50 U.S.C. 4305(b)\], the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\], or the Export Administration Act of 1979 \[50 U.S.C. 4601 et seq.\].
+The provisions of this section apply notwithstanding any other provision of law, including section 2370(a) of this title, and notwithstanding the exercise of authorities, before October 23, 1992, under section 5(b) of the Trading With the Enemy Act \[50 U.S.C. 4305(b)\], the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\], or the Export Administration Act of 1979.
 
 #### (b) Donations of food
 
@@ -12,7 +12,7 @@ Nothing in this or any other Act shall prohibit donations of food to nongovernme
 
 Exports of medicines or medical supplies, instruments, or equipment to Cuba shall not be restricted—
 
-&emsp;(1) except to the extent such restrictions would be permitted under section 5(m) of the Export Administration Act of 1979 \[50 U.S.C. App. 2404(m)\] or section 203(b)(2) of the International Emergency Economic Powers Act \[50 U.S.C. 1702(b)(2)\];
+&emsp;(1) except to the extent such restrictions would be permitted under section 5(m) <sup>1</sup> of the Export Administration Act of 1979 or section 203(b)(2) of the International Emergency Economic Powers Act \[50 U.S.C. 1702(b)(2)\];
 
 &emsp;(2) except in a case in which there is a reasonable likelihood that the item to be exported will be used for purposes of torture or other human rights abuses;
 
@@ -46,7 +46,7 @@ Exports of medicines or medical supplies, instruments, or equipment to Cuba shal
 
 &emsp;(A) The President may provide for the issuance of licenses for the full or partial payment to Cuba of amounts due Cuba as a result of the provision of telecommunications services authorized by this subsection, in a manner that is consistent with the public interest and the purposes of this chapter, except that this paragraph shall not require any withdrawal from any account blocked pursuant to regulations issued under section 5(b) of the Trading With the Enemy Act \[50 U.S.C. 4305(b)\].
 
-&emsp;(B) If only partial payments are made to Cuba under subparagraph (A), the amounts withheld from Cuba shall be deposited in an account in a banking institution in the United States. Such account shall be blocked in the same manner as any other account containing funds in which Cuba has any interest, pursuant to regulations issued under section 5(b) of the Trading With the Enemy Act.
+&emsp;(B) If only partial payments are made to Cuba under subparagraph (A), the amountswithheld from Cuba shall be deposited in an account in a banking institution in the United States. Such account shall be blocked in the same manner as any other account containing funds in which Cuba has any interest, pursuant to regulations issued under section 5(b) of the Trading With the Enemy Act.
 
 #### (4) Authority of Federal Communications Commission
 
@@ -62,7 +62,7 @@ Exports of medicines or medical supplies, instruments, or equipment to Cuba shal
 
 #### (f) Direct mail delivery to Cuba
 
-The United States Postal Service shall take such actions as are necessary to provide directmail service to and from Cuba, including, in the absence of common carrier service between the 2 countries, the use of charter service providers.
+The United States Postal Service shall take such actions as are necessary to provide direct mail service to and from Cuba, including, in the absence of common carrier service between the 2 countries, the use of charter service providers.
 
 #### (g) Assistance to support democracy in Cuba
 
@@ -78,7 +78,7 @@ The United States Government may provide assistance, through appropriate nongove
 
 The International Emergency Economic Powers Act, referred to in subsec. (a), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Export Administration Act of 1979, referred to in subsecs. (a) and (c)(1), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Section 5 of the Act was classified to section 4604 of Title 50 prior to repeal.
 
 #### Amendments
 
@@ -87,4 +87,6 @@ The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96
 #### Delegation of Functions
 
 For delegation of congressional reporting functions of President under subsec. (e) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46075, set out as a note under section 301 of Title 3, The President.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

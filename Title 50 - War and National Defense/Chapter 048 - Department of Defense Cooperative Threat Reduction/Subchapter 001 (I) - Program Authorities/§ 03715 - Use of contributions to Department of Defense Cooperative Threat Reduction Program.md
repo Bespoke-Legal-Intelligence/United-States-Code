@@ -12,7 +12,7 @@
 
 #### (b) Retention and use of funds
 
-Notwithstanding section 3302 of title 31 and subject to subsections (c) and (d), the Secretary of Defense may retain and obligate or expend funds contributed pursuant to subsection (a) for purposes of the Program. Funds so contributedshall be retained in a separate fund established in the Treasury for such purposes and shall be available to be obligated or expended without further appropriation.
+Notwithstanding section 3302 of title 31 and subject to subsections (c) and (d), the Secretary of Defense may retain and obligate or expend funds contributed pursuant to subsection (a) for purposes of the Program. Funds so contributed shall be retained in a separate fund established in the Treasury for such purposes and shall be available to be obligated or expended without further appropriation.
 
 #### (c) Return of funds not obligated or expended within three years
 

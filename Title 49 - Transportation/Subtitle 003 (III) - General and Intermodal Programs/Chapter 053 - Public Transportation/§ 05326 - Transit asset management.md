@@ -24,7 +24,7 @@ Transit asset management system.—The term "transit asset management system" me
 
 Transit Asset Management System.—The Secretary shall establish and implement a national transit asset management system, which shall include—
 
-&emsp;(1) a definition of the term "state of good repair" that includes objective standards for measuring the condition of capital assets of recipients, including equipment, rolling stock, infrastructure, and facilities;
+&emsp;(1) a definition of the term "state of good repair" that includes objective standards formeasuring the condition of capital assets of recipients, including equipment, rolling stock, infrastructure, and facilities;
 
 &emsp;(2) a requirement that recipients and subrecipients of Federal financial assistance under this chapter develop a transit asset management plan;
 

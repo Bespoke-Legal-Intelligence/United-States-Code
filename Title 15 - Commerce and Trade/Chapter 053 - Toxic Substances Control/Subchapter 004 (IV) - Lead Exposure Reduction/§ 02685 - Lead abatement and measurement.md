@@ -40,7 +40,7 @@ The Administrator, in cooperation with other appropriate Federal departments and
 
 &emsp;(E) Occupational exposures, and other exposures that the Secretary determines to be appropriate.
 
-(4) Not later than 30 months after October 28, 1992, the Secretary shall submit a report to theCongress concerning the studies described in paragraphs (1) and (2).
+(4) Not later than 30 months after October 28, 1992, the Secretary shall submit a report to the Congress concerning the studies described in paragraphs (1) and (2).
 
 #### (d) Public education
 

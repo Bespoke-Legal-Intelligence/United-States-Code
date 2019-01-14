@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, the Secretary, acting through the Service, isauthorized to provide directly, or enter into contracts or compacts under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> with Indian tribes or tribal organizations for, the delivery of long-term care (including health care services associated with long-term care) provided in a facility to Indians.
+&emsp;Notwithstanding any other provision of law, the Secretary, acting through the Service, is authorized to provide directly, or enter into contracts or compacts under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> with Indian tribes or tribal organizations for, the delivery of long-term care (including health care services associated with long-term care) provided in a facility to Indians.
 
 #### (2) Inclusions
 

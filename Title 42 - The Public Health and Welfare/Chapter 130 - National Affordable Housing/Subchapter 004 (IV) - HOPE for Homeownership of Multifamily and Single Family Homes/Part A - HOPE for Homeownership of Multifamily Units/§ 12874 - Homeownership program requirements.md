@@ -28,7 +28,7 @@ Acquisition or rehabilitation of a property under a homeownership program under 
 
 #### (1) In general
 
-&emsp;The application shall identify and describe the proposed financing for (A) any rehabilitation, and (B) acquisition (i) of the project, where applicable, by an entity for transfer to eligible families, and (ii) by eligible families of ownership interests in, or shares representing, units in the project. Financing may include use of the implementation grant, sale for cash, or other sources of financing (subject to applicable requirements), including conventional mortgage loans and mortgage loans insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\].
+&emsp;The application shall identify and describe the proposed financing for (A) any rehabilitation, and (B) acquisition (i) of the project, where applicable, by an entity for transfer to eligible families, and (ii) by eligible families of ownership interests in, or shares representing, units in the project. Financing may includeuse of the implementation grant, sale for cash, or other sources of financing (subject to applicable requirements), including conventional mortgage loans and mortgage loans insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\].
 
 #### (2) Prohibition against pledges
 

@@ -78,7 +78,7 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 
 <b>1962</b>—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
 
-<i><sup>1</sup></i><i> So in original. Chapters 9A and 13 both begin with a section 251.</i>
+<i><sup>1</sup></i><i> So in original. Chapters 9A and 13 both begin with a section 251. Section 251 in chapter 9A was renumbered by Pub. L. 115–232 without corresponding amendment of part analysis.</i>
 
 
 ---

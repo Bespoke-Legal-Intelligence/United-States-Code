@@ -110,7 +110,7 @@ Termination.—The authority provided by this subsection shall terminate at the 
 
 (2) For purposes of paragraph (1):
 
-&emsp;(A) The term "category of chemical substances" means a group of chemical substances the members of which are similar in molecular structure, in physical, chemical, or biological properties, in use, or in mode of entrance into the human body or into the environment, or the members of which are in some other way suitable for classification as such for purposes of this chapter, except that such term does not mean a group of chemical substances which are grouped together solely onthe basis of their being new chemical substances.
+&emsp;(A) The term "category of chemical substances" means a group of chemical substances the members of which are similar in molecular structure, in physical, chemical, or biological properties, in use, or in mode of entrance into the human body or into the environment, or the members of which are in some other way suitable for classification as such for purposes of this chapter, except that such term does not mean a group of chemical substances which are grouped together solely on the basis of their being new chemical substances.
 
 &emsp;(B) The term "category of mixtures" means a group of mixtures the members of which are similar in molecular structure, in physical, chemical, or biological properties, in use, or in the mode of entrance into the human body or into the environment, or the members of which are in some other way suitable for classification as such for purposes of this chapter.
 
@@ -126,7 +126,7 @@ The Administrator shall establish in the Environmental Protection Agency an iden
 
 &emsp;(B) has any known financial interest (i) in any person subject to this chapter or any rule or order in effect under this chapter, or (ii) in any person who applies for or receives any grant or contract under this chapter,
 
-> shall, on February 1, 1978, and on February 1 of each year thereafter, file with the Administrator or the Secretary of Health and Human Services (hereinafter in this subsection referred to as the "Secretary"), as appropriate, a written statement concerning all such interests held by such officer or employee during the preceding calendar year. Such statement shall be made available to the public.
+> shall, on February 1, 1978, and on February 1 of each year thereafter, file with the Administrator or the Secretary of Health and Human Services (hereinafter in this subsection referred to as the "Secretary"), as appropriate, a written statement concerning all such interests held by such officer or employee during the precedingcalendar year. Such statement shall be made available to the public.
 
 (2) The Administrator and the Secretary shall—
 

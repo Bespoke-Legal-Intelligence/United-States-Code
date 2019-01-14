@@ -26,7 +26,7 @@ In this section:
 
 #### (A) Purchases and sales
 
-&emsp;&emsp;For each of the 2008 through 2018 crops, the Secretary shall purchase eligible commodities from eligible entities and sell such commodities to bioenergy producers for thepurpose of producing bioenergy in a manner that ensures that section 7272 of this title is operated at no cost to the Federal Government by avoiding forfeitures to the Commodity Credit Corporation.
+&emsp;&emsp;For each of the 2008 through 2023 crops, the Secretary shall purchase eligible commodities from eligible entities and sell such commodities to bioenergy producers for the purpose of producing bioenergy in a manner that ensures that section 7272 of this title is operated at no cost to the Federal Government by avoiding forfeitures to the Commodity Credit Corporation.
 
 #### (B) Competitive procedures
 
@@ -40,7 +40,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;As soon as practicable after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each September 1 thereafter through September 1, 2018, the Secretary shall provide notice to eligible entities and bioenergy producers of the quantity of eligible commodities that shall be made available for purchase and sale for the crop year following the date of the notice under this section.
+&emsp;&emsp;As soon as practicable after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each September 1 thereafter through September 1, 2023, the Secretary shall provide notice to eligible entities and bioenergy producers of the quantity of eligible commodities that shall be made available for purchase and sale for the crop year following the date of the notice under this section.
 
 #### (B) Reestimates
 
@@ -96,13 +96,13 @@ In this section:
 
 #### (5) Relation to other laws
 
-&emsp;If sugar that is subject to a marketing allotment under part VII of subtitle B of title III ofthe Agricultural Adjustment Act of 1938 (7 U.S.C. 1359aa et seq.) is the subject of a payment under this section, the sugar shall be considered marketed and shall count against a processor's allocation of an allotment under such part, as applicable.
+&emsp;If sugar that is subject to a marketing allotment under part VII of subtitle B of title III of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1359aa et seq.) is the subject of a payment under this section, the sugar shall be considered marketed and shall count against a processor's allocation of an allotment under such part, as applicable.
 
 #### (6) Funding
 
 &emsp;The Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation, including the use of such sums as are necessary, to carry out this section.
 
-(Pub. L. 107–171, title IX, §9010, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1325, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2086; amended Pub. L. 112–240, title VII, §701(f)(9), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9009, Feb. 7, 2014, 128 Stat. 931.)
+(Pub. L. 107–171, title IX, §9010, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1325, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2086; amended Pub. L. 112–240, title VII, §701(f)(9), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9009, Feb. 7, 2014, 128 Stat. 931; Pub. L. 115–334, title IX, §9009, Dec. 20, 2018, 132 Stat. 4887.)
 
 #### References in Text
 
@@ -119,6 +119,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 9010 of Pub. L. 107–171 was classified to section 8108 of this title, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1)(A), (2)(A). Pub. L. 115–334 substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (b)(1)(A), (2)(A). Pub. L. 113–79 substituted "2018" for "2013".
 

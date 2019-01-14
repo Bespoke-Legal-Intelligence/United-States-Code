@@ -8,9 +8,13 @@ This chapter may be cited as the "Securities Exchange Act of 1934."
 
 This chapter, referred to in text, was in the original "This Act" meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: "Title I—Regulation of Securities Exchanges" and "Title II—Amendments to Securities Act of 1933." This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78d–5, 78e to 78l, 78m, 78m–1, 78n to 78o, 78o–3, 78o–4, 78o–5 to 78o–7, 78o–10 to 78u–6, 78v to 78dd–1, 78ee to 78hh, 78mm, 78pp, and 78qq of this title. Sections 78kk, 78ll, 78nn, and 78oo of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b, 77c, 77d, 77e, 77j, 77k, 77m, 77o, and 77s of this title, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
 
+#### Short Title of 2018 Amendment
+
+Pub. L. 115–141, div. S, title IX, §901, Mar. 23, 2018, 132 Stat. 1143, provided that: "This title \[amending section 78d of this title\] may be cited as the 'Small Business Access to Capital After a Natural Disaster Act'."
+
 #### Short Title of 2016 Amendment
 
-Pub. L. 114–284, §1, Dec. 16, 2016, 130 Stat. 1447, provided that: "This Act \[enacting section 78qq of this title and amending sections 78d and 80c–1 of this title\] may be cited as the 'SEC Small Business Advocate Act of 2016'."
+Pub. L. 114–284, §1, Dec. 16, 2016, 130 Stat. 1447, provided that: "This Act \[enacting section 78qq of this title and amending sections 78d and 80c–1 of this title\]may be cited as the 'SEC Small Business Advocate Act of 2016'."
 
 #### Short Title of 2012 Amendment
 
@@ -42,7 +46,7 @@ Pub. L. 105–353, §1, Nov. 3, 1998, 112 Stat. 3227, provided that: "This Act \
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–290, §1(a), Oct. 11, 1996, 110 Stat. 3416, provided that: "This Act \[enacting sections 77z–3, 78mm, and 80b–3a of this title, amending sections 77b, 77c, 77f, 77r, 77ddd, 78c, 78d, 78g, 78h, 78o, 78q, 78bb, 78ee, 78kk, 80a–2, 80a–3, 80a–6, 80a–12, 80a–24, 80a–26, 80a–27, 80a–29, 80a–30, 80a–34, 80a–54, 80a–60, 80a–63, 80b–2, 80b–3, 80b–5, and 80b–18a of this title and section 1002 of Title 29, Labor, and enacting provisions set out as notes under this section, sections 77e, 77r, 78b, 78n, 78o, 78ee, 80a–2,80a–3, 80a–24, 80a–51, 80b–2, 80b–3a, 80b–10, and 80b–20 of this title, and section 1002 of Title 29\] may be cited as the 'National Securities Markets Improvement Act of 1996'."
+Pub. L. 104–290, §1(a), Oct. 11, 1996, 110 Stat. 3416, provided that: "This Act \[enacting sections 77z–3, 78mm, and 80b–3a of this title, amending sections 77b, 77c, 77f, 77r, 77ddd, 78c, 78d, 78g, 78h, 78o, 78q, 78bb, 78ee, 78kk, 80a–2, 80a–3, 80a–6, 80a–12, 80a–24, 80a–26, 80a–27, 80a–29, 80a–30, 80a–34, 80a–54, 80a–60, 80a–63, 80b–2, 80b–3, 80b–5, and 80b–18a of this title and section 1002 of Title 29, Labor, and enacting provisions set out as notes under this section, sections 77e, 77r, 78b, 78n, 78o, 78ee, 80a–2, 80a–3, 80a–24, 80a–51, 80b–2, 80b–3a, 80b–10, and 80b–20 of this title, and section 1002 of Title 29\] may be cited as the 'National Securities Markets Improvement Act of 1996'."
 
 Pub. L. 104–290, title I, §101, Oct. 11, 1996, 110 Stat. 3417, provided that: "This title \[enacting sections 77z–3 and 78mm of this title, amending sections 77b, 77r, 78c, 78g, 78h, 78o, 78q, 78bb, and 80a–2 of this title, and enacting provisions set out as notes under sections 77e and 77r of this title\] may be cited as the 'Capital Markets Efficiency Act of 1996'."
 
@@ -100,7 +104,7 @@ Pub. L. 99–222, §1, Dec. 28, 1985, 99 Stat. 1737, provided that: "This Act \[
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–376, §1, Aug. 10, 1984, 98 Stat. 1264, provided that: "This Act \[amending sections 78c, 78o, 78t, 78u,and 78ff of this title and enacting provisions set out as a note under section 78c of this title\] may be cited as the 'Insider Trading Sanctions Act of 1984'."
+Pub. L. 98–376, §1, Aug. 10, 1984, 98 Stat. 1264, provided that: "This Act \[amending sections 78c, 78o, 78t, 78u, and 78ff of this title and enacting provisions set out as a note under section 78c of this title\] may be cited as the 'Insider Trading Sanctions Act of 1984'."
 
 #### Short Title of 1977 Amendment
 
@@ -136,7 +140,7 @@ Pub. L. 105–353, §2, Nov. 3, 1998, 112 Stat. 3227, provided that: "The Congre
 
 &emsp;"(4) State securities regulation is of continuing importance, together with Federal regulation of securities, to protect investors and promote strong financial markets; and
 
-&emsp;"(5) in order to prevent certain State private securities class action lawsuits alleging fraud from being used to frustrate the objectives of the Private Securities Litigation Reform Act of 1995, it is appropriate to enact national standards for securities class action lawsuits involving nationally traded securities, while preserving the appropriate enforcement powers of State securities regulators and not changing the current treatment of individual lawsuits."
+&emsp;"(5) in order to prevent certain State private securities class action lawsuits alleging fraud from beingused to frustrate the objectives of the Private Securities Litigation Reform Act of 1995, it is appropriate to enact national standards for securities class action lawsuits involving nationally traded securities, while preserving the appropriate enforcement powers of State securities regulators and not changing the current treatment of individual lawsuits."
 
 #### Purposes of 1996 Amendment
 

@@ -8,13 +8,13 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;&emsp;(i) in which acts of international terrorism occurred which were, in the opinion of the Secretary, of major significance;
 
-&emsp;&emsp;(ii) about which the Congress was notified during the preceding five years pursuant to section 4605(j) of title 50; and
+&emsp;&emsp;(ii) about which the Congress was notified during the preceding five years pursuant to section 4605(j) <sup>1</sup> of title 50; and
 
 &emsp;&emsp;(iii) which the Secretary determines should be the subject of such report; and
 
 &emsp;(B) detailed assessments with respect to each foreign country whose territory is being used as a sanctuary for terrorists or terrorist organizations;
 
-&emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 4605(j) of title 50, any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8, and any other known international terrorist group which the Secretary determines should be the subject of such report;
+&emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 4605(j) <sup>1</sup> of title 50, any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8, and any other known international terrorist group which the Secretary determines should be the subject of such report;
 
 &emsp;(3) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the investigation or prosecution of an act of international terrorism against United States citizens or interests, information on—
 
@@ -42,7 +42,7 @@ The report required under subsection (a) should to the extent feasible include (
 
 &emsp;&emsp;&emsp;(iii) providing sanctuary to terrorists or terrorist groups;
 
-&emsp;&emsp;&emsp;(iv) providing weapons of mass destruction, or assistance in obtaining or developing such weapons, to terrorists or terrorist groups; <sup>1</sup>
+&emsp;&emsp;&emsp;(iv) providing weapons of mass destruction, or assistance in obtaining or developing such weapons, to terrorists or terrorist groups; <sup>2</sup>
 
 &emsp;&emsp;&emsp;(v) the positions (including voting records) on matters relating to terrorism in the General Assembly of the United Nations and other international bodies and fora of each country which is the subject of such report;
 
@@ -58,7 +58,7 @@ The report required under subsection (a) should to the extent feasible include (
 
 &emsp;&emsp;&emsp;(iii) to prevent the proliferation of and trafficking in weapons of mass destruction in and through the territory of the country;
 
-&emsp;(3) <sup>2</sup> with respect to subsection (a)(2), any—
+&emsp;(3) <sup>3</sup> with respect to subsection (a)(2), any—
 
 &emsp;&emsp;(A) significant financial support provided by foreign governments to those groups directly, or provided in support of their activities;
 
@@ -72,7 +72,7 @@ The report required under subsection (a) should to the extent feasible include (
 
 &emsp;&emsp;(F) efforts by the United States to eliminate international financial support provided to those groups directly or provided in support of their activities;
 
-&emsp;(4) <sup>2</sup> a strategy for addressing, and where possible eliminating, terrorist sanctuaries that shall include—
+&emsp;(4) <sup>3</sup> a strategy for addressing, and where possible eliminating, terrorist sanctuaries that shall include—
 
 &emsp;&emsp;(A) a description of terrorist sanctuaries, together with an assessment of the priorities of addressing and eliminating such sanctuaries;
 
@@ -82,11 +82,11 @@ The report required under subsection (a) should to the extent feasible include (
 
 &emsp;&emsp;(D) a description of long-term goals and actions designed to reduce the conditions that allow the formation of terrorist sanctuaries; and
 
-&emsp;(5) an update of the information contained in the report required to be transmitted to Congress under <sup>3</sup> 7120(b) of the 9/11 Commission Implementation Act of 2004.
+&emsp;(5) an update of the information contained in the report required to be transmitted to Congress under 7120(b) <sup>4</sup> of the 9/11 Commission Implementation Act of 2004.
 
-&emsp;(3) <sup>4</sup> to the extent practicable, complete statistical information on the number of individuals, including United States citizens and dual nationals, killed, injured, or kidnapped by each terrorist group during the preceding calendar year; and
+&emsp;(3) <sup>5</sup> to the extent practicable, complete statistical information on the number of individuals, including United States citizens and dual nationals, killed, injured, or kidnapped by each terrorist group during the preceding calendar year; and
 
-&emsp;(4) <sup>4</sup> an analysis, as appropriate, of trends in international terrorism, including changes in technology used, methods and targets of attack, demographic information on terrorists, and other appropriate information.
+&emsp;(4) <sup>5</sup> an analysis, as appropriate, of trends in international terrorism, including changes in technology used, methods and targets of attack, demographic information on terrorists, and other appropriate information.
 
 #### (c) Classification of report
 
@@ -116,7 +116,7 @@ As used in this section—
 
 &emsp;&emsp;(B) the government of which expressly consents to, or with knowledge, allows, tolerates, or disregards such use of its territory and is not subject to a determination under—
 
-&emsp;&emsp;&emsp;(i) section 4605(j)(1)(A) of title 50;
+&emsp;&emsp;&emsp;(i) section 4605(j)(1)(A) <sup>1</sup> of title 50;
 
 &emsp;&emsp;&emsp;(ii) section 2371(a) of this title; or
 
@@ -132,11 +132,13 @@ As used in this section—
 
 #### References in Text
 
+Section 4605(j) of title 50, referred to in subsecs. (a)(1)(A)(ii), (2) and (d)(5)(B)(i), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
+
 \[Section\] 7120(b) of the 9/11 Commission Implementation Act of 2004, referred to in subsec. (b)(5), is section 7120(b) of Pub. L. 108–458, title VII, Dec. 17, 2004, 118 Stat. 3803, which is not classified to the Code.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §7102(d)(1), designated existing provisions as subpar. (A), redesignatedformer subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), and added subpar. (B).
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §7102(d)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), and added subpar. (B).
 
 Subsec. (a)(2). Pub. L. 108–487, §701(a)(1), inserted "any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction," after "during the preceding five years," and "any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8," after "section 2405(j) of the Appendix to title 50".
 
@@ -178,7 +180,7 @@ Pub. L. 108–487, title VIII, §801, Dec. 23, 2004, 118 Stat. 3962, provided th
 
 Pub. L. 108–458, title VII, §7102(d)(4), Dec. 17, 2004, 118 Stat. 3778, provided that: "The amendments made by this subsection \[amending this section\] apply with respect to the report required to be transmitted under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f), by April 30, 2006, and by April 30 of each subsequent year."
 
-Amendment by Pub. L. 108–458 effective Dec. 17, 2004, notwithstanding any other provision of such Act, see section 7122 of Pub. L. 108–458, set out as a note under section 112a of Title 1, General Provisions.
+Amendment by Pub. L. 108–458 effective Dec. 17, 2004, notwithstanding any other provision of such Act, seesection 7122 of Pub. L. 108–458, set out as a note under section 112a of Title 1, General Provisions.
 
 #### Terrorist Sanctuaries
 
@@ -262,11 +264,13 @@ Consultation with Other Departments.—The Secretary of State shall, in preparin
 
 Initial Report.—Except as provided in subsection (a)(8), the initial report filed under this section shall cover the period between September 13, 1993 and the date of the report."
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Another par. (3) and par. (4) follow par. (5).</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "and".</i>
 
-<i><sup>3</sup></i><i> So in original. The word "section" probably should appear.</i>
+<i><sup>3</sup></i><i> So in original. Another par. (3) and par. (4) follow par. (5).</i>
 
-<i><sup>4</sup></i><i> So in original. Another par. (3) and par. (4) precede par. (5).</i>
+<i><sup>4</sup></i><i> So in original. Probably should be preceded by the word "section".</i>
+
+<i><sup>5</sup></i><i> So in original. Another par. (3) and par. (4) precede par. (5).</i>
 

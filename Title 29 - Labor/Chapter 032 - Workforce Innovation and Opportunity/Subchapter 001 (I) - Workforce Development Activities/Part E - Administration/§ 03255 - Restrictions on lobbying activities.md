@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(i) the enactment of legislation before Congress or any State or local legislature or legislative body; or
 
-&emsp;&emsp;&emsp;(ii) any proposed or pending regulation, administrative action, or order issued bythe executive branch of any State or local government.
+&emsp;&emsp;&emsp;(ii) any proposed or pending regulation, administrative action, or order issued by the executive branch of any State or local government.
 
 #### (2) Exception
 
@@ -46,5 +46,5 @@ This Act, referred to in subsecs. (a)(1) and (b)(1), is Pub. L. 113–128, July 
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

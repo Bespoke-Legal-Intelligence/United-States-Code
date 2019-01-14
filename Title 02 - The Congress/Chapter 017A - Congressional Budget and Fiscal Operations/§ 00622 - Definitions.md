@@ -12,7 +12,7 @@ Budget authority and new budget authority.—
 
 In general.—The term "budget authority" means the authority provided by Federal law to incur financial obligations, as follows:
 
-&emsp;&emsp;&emsp;(i) provisions of law that make funds available for obligation and expenditure (other than borrowing authority), including the authority to obligate and expend the proceeds of offsetting receipts and collections;
+&emsp;&emsp;&emsp;(i) provisions of law that make funds available for obligation and expenditure\(other than borrowing authority), including the authority to obligate and expend the proceeds of offsetting receipts and collections;
 
 &emsp;&emsp;&emsp;(ii) borrowing authority, which means authority granted to a Federal entity to borrow and obligate and expend the borrowed funds, including through the issuance of promissory notes or other monetary credits;
 
@@ -82,7 +82,7 @@ New budget authority.—The term "new budget authority" means, with respect to a
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in text, means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as theCongressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(iii) the amounts expended or disbursed which are described in subparagraph (A)(ii) are paid from amounts which are donated in accordance with State law and which meet the requirements of subparagraph (C), except that no person (including any person established, financed, maintained, or controlled by such person) may donate more than $10,000 to a State, district, or local committee of a political party in a calendar year for such expenditures or disbursements; and
 
-&emsp;&emsp;&emsp;(iv) the amounts expended or disbursed are made solely from funds raised by the State, local, or district committee which makes such expenditure or disbursement,and do not include any funds provided to such committee from—
+&emsp;&emsp;&emsp;(iv) the amounts expended or disbursed are made solely from funds raised by the State, local, or district committee which makes such expenditure or disbursement, and do not include any funds provided to such committee from—
 
 &emsp;&emsp;&emsp;&emsp;(I) any other State, local, or district committee of any State party,
 
@@ -76,7 +76,7 @@ A national, State, district, or local committee of a political party (including 
 
 &emsp;&emsp;(B) solicit, receive, direct, transfer, or spend funds in connection with any election other than an election for Federal office or disburse funds in connection with such an election unless the funds—
 
-&emsp;&emsp;&emsp;(i) are not in excess of the amounts permitted with respect to contributions to candidates and political committees under paragraphs (1), (2), and (3) of section 30116(a) of this title; and
+&emsp;&emsp;&emsp;(i) are not in excess of the amounts permitted with respect to contributions tocandidates and political committees under paragraphs (1), (2), and (3) of section 30116(a) of this title; and
 
 &emsp;&emsp;&emsp;(ii) are not from sources prohibited by this Act from making contributions in connection with an election for Federal office.
 

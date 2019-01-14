@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(i) select not more than 10 individuals from each State; and
 
-&emsp;&emsp;&emsp;(ii) give priority to individuals with skills and experience for which there is an ongoing high demand in the nonprofit sector and government.
+&emsp;&emsp;&emsp;(ii) give priority to individuals with skills and experience for which there is anongoing high demand in the nonprofit sector and government.
 
 #### (4) Listed organizations
 
@@ -142,7 +142,7 @@
 
 &emsp;&emsp;&emsp;(i) approve the placement of the eligible Encore Fellowship recipient with the organization;
 
-&emsp;&emsp;&emsp;(ii) award the eligible Encore Fellowship recipient an Encore Fellowship for a period of 1 year and designate the eligibleEncore Fellowship recipient as an Encore Fellow; and
+&emsp;&emsp;&emsp;(ii) award the eligible Encore Fellowship recipient an Encore Fellowship for a period of 1 year and designate the eligible Encore Fellowship recipient as an Encore Fellow; and
 
 &emsp;&emsp;&emsp;(iii) in awarding the Encore Fellowship, make a payment, in the amount of $11,000, to the organization to enable the organization to provide living expenses to the Encore Fellow for the year in which the Encore Fellow agrees to serve.
 
@@ -160,7 +160,7 @@
 
 #### (c) Evaluations
 
-The Corporation shall conduct an independent evaluation of the programs authorized under subsections (a) and (b) and widely disseminate the results, including recommendations for improvement, to the service community through multiple channels, including the Corporation's Resource Center or a clearinghouse of effective strategies.
+The Corporation shall conduct an independent evaluation of the programs authorized under subsections (a) and (b) and widely disseminate the results, including recommendations for improvement, to the service community through multiple channels, including the Corporation'sResource Center or a clearinghouse of effective strategies.
 
 (Pub. L. 101–610, title I, §198C, as added Pub. L. 111–13, title I, §1805, Apr. 21, 2009, 123 Stat. 1559.)
 

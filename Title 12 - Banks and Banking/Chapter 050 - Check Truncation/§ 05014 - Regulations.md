@@ -1,6 +1,6 @@
 ### §5014. Regulations
 
-The Board may prescribe such regulations as the Board determines to be necessary to implement, prevent circumvention or evasion of, orfacilitate compliance with the provisions of this chapter.
+The Board may prescribe such regulations as the Board determines to be necessary to implement, prevent circumvention or evasion of, or facilitate compliance with the provisions of this chapter.
 
 (Pub. L. 108–100, §15, Oct. 28, 2003, 117 Stat. 1190.)
 

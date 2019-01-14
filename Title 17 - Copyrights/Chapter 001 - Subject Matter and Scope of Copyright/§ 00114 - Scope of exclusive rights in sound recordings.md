@@ -2,7 +2,7 @@
 
 (a) The exclusive rights of the owner of copyright in a sound recording are limited to the rights specified by clauses (1), (2), (3) and (6) of section 106, and do not include any right of performance under section 106(4).
 
-(b) The exclusive right of the owner of copyright in a sound recording under clause (1) of section 106 is limited to the right to duplicate the sound recording in the form of phonorecords or copies that directly or indirectly recapture the actual sounds fixed in the recording. The exclusive right of the owner of copyright in a sound recording under clause (2) of section 106 is limited to the right to prepare a derivative work in which the actual sounds fixed in the sound recording are rearranged, remixed, or otherwise altered in sequence or quality. The exclusive rights of the owner of copyright in a sound recording under clauses (1) and (2) of section 106 do not extend to the making or duplication of another sound recording that consists entirely of an independent fixation of other sounds, even though such sounds imitate or simulate those in the copyrighted sound recording. The exclusive rights of the owner of copyright in a sound recording under clauses (1), (2), and (3) of section 106 do not apply to sound recordings included in educational television and radio programs (as defined in section 397 of title 47) distributed or transmitted by or through public broadcasting entities (as defined by section 118(f)): <i>Provided</i>, That copies or phonorecords of said programs are not commercially distributed by or through public broadcasting entities to the general public.
+(b) The exclusive right of the owner of copyright in a sound recording under clause (1) of section 106 is limited to the right to duplicate the sound recording in the form of phonorecords or copies that directly or indirectly recapture the actual sounds fixed in the recording. The exclusive right of the owner of copyright in a sound recording under clause (2) of section 106 islimited to the right to prepare a derivative work in which the actual sounds fixed in the sound recording are rearranged, remixed, or otherwise altered in sequence or quality. The exclusive rights of the owner of copyright in a sound recording under clauses (1) and (2) of section 106 do not extend to the making or duplication of another sound recording that consists entirely of an independent fixation of other sounds, even though such sounds imitate or simulate those in the copyrighted sound recording. The exclusive rights of the owner of copyright in a sound recording under clauses (1), (2), and (3) of section 106 do not apply to sound recordings included in educational television and radio programs (as defined in section 397 of title 47) distributed or transmitted by or through public broadcasting entities (as defined by section 118(f)): <i>Provided</i>, That copies or phonorecords of said programs are not commercially distributed by or through public broadcasting entities to the general public.
 
 (c) This section does not limit or impair the exclusive right to perform publicly, by means of a phonorecord, any of the works specified by section 106(4).
 
@@ -52,7 +52,7 @@ Statutory licensing of certain transmissions.—The performance of a sound recor
 
 &emsp;&emsp;(A)(i) the transmission is not part of an interactive service;
 
-&emsp;&emsp;(ii) except in the case of a transmission to a business establishment, the transmitting entity does not automatically and intentionally cause any device receiving the transmission to switch from one program channel to another; and
+&emsp;&emsp;(ii) except in the case of a transmission to a business establishment, the transmittingentity does not automatically and intentionally cause any device receiving the transmission to switch from one program channel to another; and
 
 &emsp;&emsp;(iii) except as provided in section 1002(e), the transmission of the sound recording is accompanied, if technically feasible, by the information encoded in that sound recording, if any, by or under the authority of the copyright owner of that sound recording, that identifies the title of the sound recording, the featured recording artist who performs on the sound recording, and related information, including information concerning the underlying musical work and its writer;
 
@@ -92,7 +92,7 @@ Statutory licensing of certain transmissions.—The performance of a sound recor
 
 > &emsp;&emsp;&emsp;&emsp;except that the requirement of this subclause shall not apply in the case of a retransmission of a broadcast transmission by a transmitting entity that does not have the right or ability to control the programming of the broadcast transmission, unless the transmitting entity is given notice in writing by the copyright owner of the sound recording that the broadcast station makes broadcast transmissions that regularly violate such requirement;
 
-&emsp;&emsp;&emsp;(iv) the transmitting entity does not knowingly perform the sound recording, as part of a service that offers transmissions of visual images contemporaneously with transmissions of sound recordings, in a manner that is likely to cause confusion, to cause mistake, or to deceive, as to the affiliation, connection, or association of the copyright owner or featured recording artist with the transmitting entity or a particular product or service advertised by the transmitting entity, or as to the origin, sponsorship, or approval by the copyright owner or featured recording artist of the activities of the transmitting entity other than the performance of the sound recording itself;
+&emsp;&emsp;&emsp;(iv) the transmitting entity does not knowingly perform the sound recording, as part of a service that offers transmissions of visual images contemporaneously withtransmissions of sound recordings, in a manner that is likely to cause confusion, to cause mistake, or to deceive, as to the affiliation, connection, or association of the copyright owner or featured recording artist with the transmitting entity or a particular product or service advertised by the transmitting entity, or as to the origin, sponsorship, or approval by the copyright owner or featured recording artist of the activities of the transmitting entity other than the performance of the sound recording itself;
 
 &emsp;&emsp;&emsp;(v) the transmitting entity cooperates to prevent, to the extent feasible without imposing substantial costs or burdens, a transmission recipient or any other person or entity from automatically scanning the transmitting entity's transmissions alone or together with transmissions by other transmitting entities in order to select a particular sound recording to be transmitted to the transmission recipient, except that the requirement of this clause shall not apply to a satellite digital audio service that is in operation, or that is licensed by the Federal Communications Commission, on or before July 31, 1998;
 
@@ -114,7 +114,7 @@ Licenses for transmissions by interactive services.—
 
 &emsp;&emsp;&emsp;(i) the licensor has granted and there remain in effect licenses under section 106(6) for the public performance of sound recordings by means of digital audio transmission by at least 5 different interactive services: <i>Provided, however</i>, That each such license must be for a minimum of 10 percent of the copyrighted sound recordings owned by the licensor that have been licensed to interactive services, but in no event less than 50 sound recordings; or
 
-&emsp;&emsp;&emsp;(ii) the exclusive license is granted to perform publicly up to 45 seconds of a sound recording and the sole purpose of the performance is to promote the distribution or performance of that sound recording.
+&emsp;&emsp;&emsp;(ii) the exclusive license is granted to perform publicly up to 45 seconds of asound recording and the sole purpose of the performance is to promote the distribution or performance of that sound recording.
 
 &emsp;&emsp;(C) Notwithstanding the grant of an exclusive or nonexclusive license of the right of public performance under section 106(6), an interactive service may not publicly perform a sound recording unless a license has been granted for the public performance of any copyrighted musical work contained in the sound recording: <i>Provided</i>, That such license to publicly perform the copyrighted musical work may be granted either by a performing rights society representing the copyright owner or by the copyright owner.
 
@@ -162,27 +162,23 @@ Authority for Negotiations.—
 
 Licenses for Certain Nonexempt Transmissions.—
 
-&emsp;(1)(A) Proceedings under chapter 8 shall determine reasonable rates and terms of royalty payments for subscription transmissions by preexisting subscription services and transmissions by preexisting satellite digital audio radio services specified by subsection (d)(2) during the 5-year period beginning on January 1 of the second year following the year in which the proceedings are to be commenced, except in the case of a different transitional period provided under section 6(b)(3) of the Copyright Royalty and Distribution Reform Act of 2004, or such other period as the parties may agree. Such terms and rates shall distinguish among the different types of digital audio transmission services then in operation. Any copyright owners of sound recordings, preexisting subscription services, or preexisting satellite digital audio radio services may submit to the Copyright Royalty Judges licenses covering such subscription transmissions with respect to such sound recordings. The parties to each proceeding shall bear their own costs.
+&emsp;(1)(A) Proceedings under chapter 8 shall determine reasonable rates and terms of royalty payments for transmissions subject to statutory licensing under subsection (d)(2) during the 5-year period beginning on January 1 of the second year following the year in which the proceedings are to be commenced pursuant to subparagraph (A) or (B) of section 804(b)(3), as the case may be, or such other period as the parties may agree. The parties to each proceeding shall bear their own costs.
 
-&emsp;(B) The schedule of reasonable rates and terms determined by the Copyright Royalty Judges shall, subject to paragraph (3), be binding on all copyright owners of sound recordings and entities performing sound recordings affected by this paragraph during the 5-year period specified in subparagraph (A), a transitional period provided under section 6(b)(3) of the Copyright Royalty and Distribution Reform Act of 2004, or such other period as the parties may agree. In establishing rates and terms for preexisting subscription services and preexisting satellite digital audio radio services, in addition to the objectives set forth in section 801(b)(1), the Copyright Royalty Judges may consider the rates and terms for comparable types of subscription digital audio transmission services and comparable circumstances under voluntary license agreements described in subparagraph (A).
+&emsp;(B) The schedule of reasonable rates and terms determined by the Copyright Royalty Judges shall, subject to paragraph (2), be binding on all copyright owners of sound recordings and entities performing sound recordings affected by this paragraph during the 5-yearperiod specified in subparagraph (A), or such other period as the parties may agree. Such rates and terms shall distinguish among the different types of services then in operation and shall include a minimum fee for each such type of service, such differences to be based on criteria including the quantity and nature of the use of sound recordings and the degree to which use of the service may substitute for or may promote the purchase of phonorecords by consumers. The Copyright Royalty Judges shall establish rates and terms that most clearly represent the rates and terms that would have been negotiated in the marketplace between a willing buyer and a willing seller. In determining such rates and terms, the Copyright Royalty Judges—
 
-&emsp;(C) The procedures under subparagraphs (A) and (B) also shall be initiated pursuant to a petition filed by any copyright owners of sound recordings, any preexisting subscription services, or any preexisting satellite digital audio radio services indicating that a new type of subscription digital audio transmission service on which sound recordings are performed is or is about to become operational, for the purpose of determining reasonable terms and rates of royalty payments with respect to such new type of transmission service for the period beginning with the inception of such new type of service and ending on the date on which the royalty rates and terms for subscription digital audio transmission services most recently determined under subparagraph (A) or (B) and chapter 8 expire, or such other period as the parties may agree.
+&emsp;&emsp;(i) shall base their decision on economic, competitive, and programming information presented by the parties, including—
 
-&emsp;(2)(A) Proceedings under chapter 8 shall determine reasonable rates and terms of royalty payments for public performances of sound recordings by means of eligible nonsubscription transmission services and new subscription services specified by subsection (d)(2) during the 5-year period beginning on January 1 of the second year following the year in which the proceedings are to be commenced, except in the case of a different transitional period provided under section 6(b)(3) of the Copyright Royalty and Distribution Reform Act of 2004, or such other period as the parties may agree. Such rates and terms shall distinguish among the different types of eligible nonsubscription transmission services and new subscription services then in operation and shall include a minimum fee for each such type of service. Any copyright owners of sound recordings or any entities performing sound recordings affected by this paragraph may submit to the Copyright Royalty Judges licenses covering such eligible nonsubscription transmissions and new subscription services with respect to such sound recordings. The parties to each proceeding shall bear their own costs.
+&emsp;&emsp;&emsp;(I) whether use of the service may substitute for or may promote the sales of phonorecords or otherwise may interfere with or may enhance the sound recording copyright owner's other streams of revenue from the copyright owner's sound recordings; and
 
-&emsp;(B) The schedule of reasonable rates and terms determined by the Copyright Royalty Judges shall, subject to paragraph (3), be binding on all copyright owners of sound recordings and entities performing sound recordings affected by this paragraph during the 5-year period specified in subparagraph (A), a transitional period provided under section 6(b)(3) of the Copyright Royalty and Distribution <sup>2</sup> Act of 2004, or such other period as the parties may agree. Such rates and terms shall distinguish among the different types of eligible nonsubscription transmission services then in operation and shall include a minimum fee for each such type of service, such differences to be based on criteria including, but not limited to, the quantity and nature of the use of sound recordings and the degree to which use of the service may substitute for or may promote the purchase of phonorecords by consumers. In establishing rates and terms for transmissions by eligible nonsubscription services and new subscription services, the Copyright Royalty Judges shall establish rates and terms that most clearly represent the rates and terms that would have been negotiated in the marketplace between a willing buyer and a willing seller. In determining such rates and terms, the Copyright Royalty Judges shall base their decision on economic, competitive and programming information presented by the parties, including—
+&emsp;&emsp;&emsp;(II) the relative roles of the copyright owner and the transmitting entity in the copyrighted work and the service made available to the public with respect to relative creative contribution, technological contribution, capital investment, cost, and risk; and
 
-&emsp;&emsp;(i) whether use of the service may substitute for or may promote the sales of phonorecords or otherwise may interfere with or may enhance the sound recording copyright owner's other streams of revenue from its sound recordings; and
+&emsp;&emsp;(ii) may consider the rates and terms for comparable types of audio transmission services and comparable circumstances under voluntary license agreements.
 
-&emsp;&emsp;(ii) the relative roles of the copyright owner and the transmitting entity in the copyrighted work and the service made available to the public with respect to relative creative contribution, technological contribution, capital investment, cost, and risk.
+&emsp;(C) The procedures under subparagraphs (A) and (B) shall also be initiated pursuant to a petition filed by any sound recording copyright owner or any transmitting entity indicating that a new type of service on which sound recordings are performed is or is about to become operational, for the purpose of determining reasonable terms and rates of royalty payments with respect to such new type of service for the period beginning with the inception of such new type of service and ending on the date on which the royalty rates and terms for eligible nonsubscription services and new subscription services, or preexisting subscription services and preexisting satellite digital audio radio services, as the case may be, most recently determined under subparagraph (A) or (B) and chapter 8 expire, or such other period as the parties may agree.
 
-> &emsp;In establishing such rates and terms, the Copyright Royalty Judges may consider the rates and terms for comparable types of digital audio transmission services and comparable circumstances under voluntary license agreements described in subparagraph (A).
+&emsp;(2) License agreements voluntarily negotiated at any time between 1 or more copyright owners of sound recordings and 1 or more entities performing sound recordings shall be given effect in lieu of any decision by the Librarian of Congress or determination by the Copyright Royalty Judges.
 
-&emsp;(C) The procedures under subparagraphs (A) and (B) shall also be initiated pursuant to a petition filed by any copyright owners of sound recordings or any eligible nonsubscription service or new subscription service indicating that a new type of eligible nonsubscription service or new subscription service on which sound recordings are performed is or is about to become operational, for the purpose of determining reasonable terms and rates of royalty payments with respect to such new type of service for the period beginning with the inception of such new type of service and ending on the date on which the royalty rates and terms for eligible nonsubscription services and new subscription services, as the case may be, most recently determined under subparagraph (A) or (B) and chapter 8 expire, or such other period as the parties may agree.
-
-&emsp;(3) License agreements voluntarily negotiated at any time between 1 or more copyright owners of sound recordings and 1 or more entities performing sound recordings shall be given effect in lieu of any decision by the Librarian of Congress or determination by the Copyright Royalty Judges.
-
-&emsp;(4)(A) The Copyright Royalty Judges shall also establish requirements by which copyright owners may receive reasonable notice of the use of their sound recordings under this section, and under which records of such use shall be kept and made available by entities performing sound recordings. The notice and recordkeeping rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 shall remain in effect unless and until new regulations are promulgated by the Copyright Royalty Judges. If new regulations are promulgated under this subparagraph, the Copyright Royalty Judges shall take into account the substance and effect of the rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 and shall, to the extent practicable, avoid significant disruption of the functions of any designated agent authorized to collect and distribute royalty fees.
+&emsp;(3)(A) The Copyright Royalty Judges shall also establish requirements by which copyright owners may receive reasonable notice of the use of their sound recordings under this section, and under which records of such use shall be kept and made available by entities performing sound recordings. The notice and recordkeeping rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 shall remain in effect unless and until new regulations are promulgated by the Copyright Royalty Judges. If new regulations are promulgated under this subparagraph, the Copyright Royalty Judges shall take into account the substance and effect of the rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 and shall, to the extent practicable, avoid significant disruption of the functions of any designated agent authorized to collect and distribute royalty fees.
 
 &emsp;(B) Any person who wishes to perform a sound recording publicly by means of a transmission eligible for statutory licensing under this subsection may do so without infringing the exclusive right of the copyright owner of the sound recording—
 
@@ -192,11 +188,11 @@ Licenses for Certain Nonexempt Transmissions.—
 
 &emsp;(C) Any royalty payments in arrears shall be made on or before the twentieth day of the month next succeeding the month in which the royalty fees are set.
 
-&emsp;(5)(A) Notwithstanding section 112(e) and the other provisions of this subsection, the receiving agent may enter into agreements for the reproduction and performance of sound recordings under section 112(e) and this section by any 1 or more commercial webcasters or noncommercial webcasters for a period of not more than 11 years beginning on January 1, 2005, that, once published in the Federal Register pursuant to subparagraph (B), shall be binding on all copyright owners of sound recordings and other persons entitled to payment under this section, in lieu of any determination by the Copyright Royalty Judges. Any such agreement for commercial webcasters may include provisions for payment of royalties on the basis of a percentage of revenue or expenses, or both, and include a minimum fee. Any such agreement may include other terms and conditions, including requirements by which copyright owners may receive notice of the use of their sound recordings and under which records of such use shall be kept and made available by commercial webcasters or noncommercial webcasters. The receiving agent shall be under no obligation to negotiate any such agreement. The receiving agent shall have no obligation to any copyright owner of sound recordings or any other person entitled to payment under this section in negotiating any such agreement, and no liability to any copyright owner of sound recordings or any other person entitled to payment under this section for having entered into such agreement.
+&emsp;(4)(A) Notwithstanding section 112(e) and the other provisions of this subsection, the receiving agent may enter into agreements for the reproduction and performance of sound recordings under section 112(e) and this section by any 1 or more commercial webcasters or noncommercial webcasters for a period of not more than 11 years beginning on January 1, 2005, that, once published in the Federal Register pursuant to subparagraph (B), shall be binding on all copyright owners of sound recordings and other persons entitled to payment under this section, in lieu of any determination by the Copyright Royalty Judges. Any such agreement for commercial webcasters may include provisions for payment of royalties on the basis of a percentage of revenue or expenses, or both, and include a minimum fee. Any such agreement may include other terms and conditions, including requirements by which copyright owners may receive notice of the use of their sound recordings and under which records of such use shall be kept and made available by commercial webcasters or noncommercial webcasters. The receiving agent shall be under no obligation to negotiate any such agreement. The receiving agent shall have no obligation to any copyright owner of sound recordings or any other person entitled to payment under this section in negotiating any such agreement, and no liability to any copyright owner of sound recordings or any other person entitled to payment under this section for having entered into such agreement.
 
 &emsp;(B) The Copyright Office shall cause to be published in the Federal Register any agreement entered into pursuant to subparagraph (A). Such publication shall include a statement containing the substance of subparagraph (C). Such agreements shall not be included in the Code of Federal Regulations. Thereafter, the terms of such agreement shall be available, as an option, to any commercial webcaster or noncommercial webcaster meeting the eligibility conditions of such agreement.
 
-&emsp;(C) Neither subparagraph (A) nor any provisions of any agreement entered into pursuant to subparagraph (A), including any rate structure, fees, terms, conditions, or notice and recordkeeping requirements set forth therein, shall be admissible as evidence or otherwise taken into account in any administrative, judicial, or other government proceeding involving the setting or adjustment of the royalties payable for the public performance or reproduction in ephemeral phonorecords or copies of sound recordings, the determination of terms or conditions related thereto, or the establishment of notice or recordkeeping requirements by the Copyright Royalty Judges under paragraph (4) or section 112(e)(4). It is the intent of Congress that any royalty rates, rate structure, definitions, terms, conditions, or notice and recordkeeping requirements, included in such agreements shall be considered as a compromise motivated by the unique business, economic and political circumstances of webcasters, copyright owners, and performers rather than as matters that would have been negotiated in the marketplace between a willing buyer and a willing seller, or otherwise meet the objectives set forth in section 801(b). This subparagraph shall not apply to the extent that the receiving agent and a webcaster that is party to an agreement entered into pursuant to subparagraph (A) expressly authorize the submission of the agreement in a proceeding under this subsection.
+&emsp;(C) Neither subparagraph (A) nor any provisions of any agreement entered into pursuant to subparagraph (A), including any rate structure, fees, terms, conditions, or notice and recordkeeping requirements set forth therein, shall be admissible as evidence or otherwise taken into account in any administrative, judicial, or other government proceeding involving the setting or adjustment of the royalties payable for the public performance or reproduction in ephemeral phonorecords or copies of sound recordings, the determination of terms or conditions related thereto, or the establishment of notice or recordkeeping requirements by the Copyright Royalty Judges under paragraph (3) or section 112(e)(4). It is the intent of Congress that any royalty rates, rate structure, definitions, terms, conditions, or notice and recordkeeping requirements, included in such agreements shall be considered as a compromise motivated by the unique business, economic and political circumstances of webcasters, copyright owners, and performers rather than as matters that would have been negotiated in the marketplace between a willing buyer and a willing seller, or otherwise meet the objectives set forth in section 801(b). This subparagraph shall not apply to the extent that the receiving agent and a webcaster that is party to an agreement entered into pursuant to subparagraph (A) expressly authorize the submission of the agreement in a proceeding under this subsection.
 
 &emsp;(D) Nothing in the Webcaster Settlement Act of 2008, the Webcaster Settlement Act of 2009, or any agreement entered into pursuant to subparagraph (A) shall be taken into account by the United States Court of Appeals for the District of Columbia Circuit in its review of the determination by the Copyright Royalty Judges of May 1, 2007, of rates and terms for the digital performance of sound recordings and ephemeral recordings, pursuant to sections 112 and 114.
 
@@ -226,7 +222,7 @@ Proceeds From Licensing of Transmissions.—
 
 &emsp;&emsp;(B) a nonfeatured recording artist who performs on a sound recording that has been licensed for a transmission shall be entitled to receive payments from the copyright owner of the sound recording in accordance with the terms of the nonfeatured recording artist's applicable contract or other applicable agreement.
 
-&emsp;(2) An agent designated to distribute receipts from the licensing of transmissions in accordance with subsection (f) shall distribute such receipts as follows:
+&emsp;(2) Except as provided for in paragraph (6), a nonprofit collective designated by the Copyright Royalty Judges to distribute receipts from the licensing of transmissions in accordance with subsection (f) shall distribute such receipts as follows:
 
 &emsp;&emsp;(A) 50 percent of the receipts shall be paid to the copyright owner of the exclusive right under section 106(6) of this title to publicly perform a sound recording by means of a digital audio transmission.
 
@@ -236,7 +232,7 @@ Proceeds From Licensing of Transmissions.—
 
 &emsp;&emsp;(D) 45 percent of the receipts shall be paid, on a per sound recording basis, to the recording artist or artists featured on such sound recording (or the persons conveying rights in the artists' performance in the sound recordings).
 
-&emsp;(3) A nonprofit agent designated to distribute receipts from the licensing of transmissions in accordance with subsection (f) may deduct from any of its receipts, prior to the distribution of such receipts to any person or entity entitled thereto other than copyright owners and performers who have elected to receive royalties from another designated agent and have notified such nonprofit agent in writing of such election, the reasonable costs of such agent incurred after November 1, 1995, in—
+&emsp;(3) A nonprofit collective designated by the Copyright Royalty Judges to distribute receipts from the licensing of transmissions in accordance with subsection (f) may deduct from any of its receipts, prior to the distribution of such receipts to any person or entity entitled thereto other than copyright owners and performers who have elected to receive royalties from another designated nonprofit collective and have notified such nonprofit collective in writing of such election, the reasonable costs of such collective incurred after November 1, 1995, in—
 
 &emsp;&emsp;(A) the administration of the collection, distribution, and calculation of the royalties;
 
@@ -244,7 +240,83 @@ Proceeds From Licensing of Transmissions.—
 
 &emsp;&emsp;(C) the licensing and enforcement of rights with respect to the making of ephemeral recordings and performances subject to licensing under section 112 and this section, including those incurred in participating in negotiations or arbitration proceedings under section 112 and this section, except that all costs incurred relating to the section 112 ephemeral recordings right may only be deducted from the royalties received pursuant to section 112.
 
-&emsp;(4) Notwithstanding paragraph (3), any designated agent designated to distribute receipts from the licensing of transmissions in accordance with subsection (f) may deduct from any of its receipts, prior to the distribution of such receipts, the reasonable costs identified in paragraph (3) of such agent incurred after November 1, 1995, with respect to such copyright owners and performers who have entered with such agent a contractual relationship that specifies that such costs may be deducted from such royalty receipts.
+&emsp;(4) Notwithstanding paragraph (3), any nonprofit collective designated to distribute receipts from the licensing of transmissions in accordance with subsection (f) may deduct from any of its receipts, prior to the distribution of such receipts, the reasonable costs identified in paragraph (3) of such collective incurred after November 1, 1995, with respect to such copyright owners and performers who have entered with such collective a contractual relationship that specifies that such costs may be deducted from such royalty receipts.
+
+&emsp;(5)
+
+Letter of direction.—
+
+&emsp;&emsp;(A)
+
+In general.—A nonprofit collective designated by the Copyright Royalty Judges to distribute receipts from the licensing of transmissions in accordance with subsection (f) shall adopt and reasonably implement a policy that provides, in circumstances determined by the collective to be appropriate, for acceptance of instructions from a payee identified under subparagraph (A) or (D) of paragraph (2) to distribute, to a producer, mixer, or sound engineer who was part of the creative process that created a sound recording, a portion of the payments to which the payee would otherwise be entitled from the licensing of transmissions of the sound recording. In this section, such instructions shall be referred to as a "letter of direction".
+
+&emsp;&emsp;(B) <sup>2</sup>
+
+Acceptance of letter.—To the extent that a collective described in subparagraph (A) accepts a letter of direction under that subparagraph, the person entitled to payment pursuant to the letter of direction shall, during the period in which the letter of direction is in effect and carried out by the collective, be treated for all purposes as the owner of the right to receive such payment, and the payee providing the letter of direction to the collective shall be treated as having no interest in such payment.
+
+&emsp;&emsp;(C)
+
+Authority of collective.—This paragraph shall not be construed in such a manner so that the collective is not authorized to accept or act upon payment instructions in circumstances other than those to which this paragraph applies.
+
+&emsp;(6)
+
+Sound recordings fixed before november 1, 1995.—
+
+&emsp;&emsp;(A)
+
+Payment absent letter of direction.—A nonprofit collective designated by the Copyright Royalty Judges to distribute receipts from the licensing of transmissions in accordance with subsection (f) (in this paragraph referred to as the "collective") shall adopt and reasonably implement a policy that provides, in circumstances determined by the collective to be appropriate, for the deduction of 2 percent of all the receipts that are collected from the licensing of transmissions of a sound recording fixed before November 1, 1995, but which is withdrawn from the amount otherwise payable under paragraph (2)(D) to the recording artist or artists featured on the sound recording (or the persons conveying rights in the artists' performance in the sound recording), and the distribution of such amount to 1 or more persons described in subparagraph (B) of this paragraph, after deduction of costs described in paragraph (3) or (4), as applicable, if each of the following requirements is met:
+
+&emsp;&emsp;&emsp;(i)
+
+Certification of attempt to obtain a letter of direction.—The person described in subparagraph (B) who is to receive the distribution has certified to the collective, under penalty of perjury, that—
+
+&emsp;&emsp;&emsp;&emsp;(I) for a period of not less than 120 days, that person made reasonable efforts to contact the artist payee for such sound recording to request and obtain a letter of direction instructing the collective to pay to that person a portion of the royalties payable to the featured recording artist or artists; and
+
+&emsp;&emsp;&emsp;&emsp;(II) during the period beginning on the date on which that person began the reasonable efforts described in subclause (I) and ending on the date of that person's certification to the collective, the artist payee did not affirm or deny in writing the request for a letter of direction.
+
+&emsp;&emsp;&emsp;(ii)
+
+Collective attempt to contact artist.—After receipt of the certification described in clause (i) and for a period of not less than 120 days before the first distribution by the collective to the person described in subparagraph (B), the collective attempts, in a reasonable manner as determined by the collective, to notify the artist payee of the certification made by the person described in subparagraph (B).
+
+&emsp;&emsp;&emsp;(iii)
+
+No objection received.—The artist payee does not, as of the date that was 10 business days before the date on which thefirst distribution is made, submit to the collective in writing an objection to the distribution.
+
+&emsp;&emsp;(B)
+
+Eligibility for payment.—A person shall be eligible for payment under subparagraph (A) if the person—
+
+&emsp;&emsp;&emsp;(i) is a producer, mixer, or sound engineer of the sound recording;
+
+&emsp;&emsp;&emsp;(ii) has entered into a written contract with a record company involved in the creation or lawful exploitation of the sound recording, or with the recording artist or artists featured on the sound recording (or the persons conveying rights in the artists' performance in the sound recording), under which the person seeking payment is entitled to participate in royalty payments that are based on the exploitation of the sound recording and are payable from royalties otherwise payable to the recording artist or artists featured on the sound recording (or the persons conveying rights in the artists' performance in the sound recording);
+
+&emsp;&emsp;&emsp;(iii) made a creative contribution to the creation of the sound recording; and
+
+&emsp;&emsp;&emsp;(iv) submits to the collective—
+
+&emsp;&emsp;&emsp;&emsp;(I) a written certification stating, under penalty of perjury, that the person meets the requirements in clauses (i) through (iii); and
+
+&emsp;&emsp;&emsp;&emsp;(II) a true copy of the contract described in clause (ii).
+
+&emsp;&emsp;(C)
+
+Multiple certifications.—Subject to subparagraph (D), in a case in which more than 1 person described in subparagraph (B) has met the requirements for a distribution under subparagraph (A) with respect to a sound recording as of the date that is 10 business days before the date on which the distribution is made, the collective shall divide the 2 percent distribution equally among all such persons.
+
+&emsp;&emsp;(D)
+
+Objection to payment.—Not later than 10 business days after the date on which the collective receives from the artist payee a written objection to a distribution made pursuant to subparagraph (A), the collective shall cease making any further payment relating to such distribution. In any case in which the collective has made 1 or more distributions pursuant to subparagraph (A) to a person described in subparagraph (B) before the date that is 10 business days after the date on which the collective receives from the artist payee an objection to such distribution, the objection shall not affect that person's entitlement to any distribution made before the collective ceases such distribution under this subparagraph.
+
+&emsp;&emsp;(E) <sup>2</sup>
+
+Ownership of the right to receive payments.—To the extent that the collective determines that a distribution will be made under subparagraph (A) to a person described in subparagraph (B), such person shall, during the period covered by such distribution, be treated for all purposes as the owner of the right to receive such payments, and the artist payee to whom such payments would otherwise be payable shall be treated as having no interest in such payments.
+
+&emsp;&emsp;(F)
+
+Artist payee defined.—In this paragraph, the term "artist payee" means a person, other than a person described in subparagraph (B), who owns the right to receive all or part of the receipts payable under paragraph (2)(D) with respect to a sound recording. In a case in which there are multiple artist payees with respect to a sound recording, an objection by 1 such payee shall apply only to that payee's share of the receipts payable under paragraph (2)(D), and shall not preclude payment under subparagraph (A) from the share of an artist payee that does not so object.
+
+&emsp;(7)
+
+Preemption of state property laws.—The holding and distribution of receipts under section 112 and this section by a nonprofit collective designated by the Copyright Royalty Judges in accordance with this subsection and regulations adopted by the Copyright Royalty Judges, or by an independent administrator pursuant to subparagraphs (B) and (C) of section 114(g)(2), shall supersede and preempt any State law (including common law) concerning escheatment or abandoned property, or any analogous provision, that might otherwise apply.
 
 (h)
 
@@ -258,9 +330,7 @@ Licensing to Affiliates.—
 
 &emsp;&emsp;(B) an entity to perform publicly up to 45 seconds of the sound recording and the sole purpose of the performance is to promote the distribution or performance of that sound recording.
 
-(i)
-
-No Effect on Royalties for Underlying Works.—License fees payable for the public performance of sound recordings under section 106(6) shall not be taken into account in any administrative, judicial, or other governmental proceeding to set or adjust the royalties payable to copyright owners of musical works for the public performance of their works. It is the intent of Congress that royalties payable to copyright owners of musical works for the public performance of their works shall not be diminished in any respect as a result of the rights granted by section 106(6).
+\[(i) Repealed. Pub. L. 115–264, title I, §103(b), Oct. 11, 2018, 132 Stat. 3724.\]
 
 (j)
 
@@ -268,7 +338,7 @@ Definitions.—As used in this section, the following terms have the following m
 
 &emsp;(1) An "affiliated entity" is an entity engaging in digital audio transmissions covered by section 106(6), other than an interactive service, in which the licensor has any direct or indirect partnership or any ownership interest amounting to 5 percent or more of the outstanding voting or non-voting stock.
 
-&emsp;(2) An "archived program" is a predetermined program that is available repeatedly on the demand of the transmission recipient and that is performed in the same order from the beginning, except that an archived program shall not include a recorded event or broadcast transmission that makes no more than an incidental use of sound recordings, as long as such recorded event or broadcast transmission does not contain an entire sound recording or feature a particular sound recording.
+&emsp;(2) An "archived program" is a predetermined program that is available repeatedly on the demand of the transmission recipient and that is performed in the same order from the beginning, except that an archived programshall not include a recorded event or broadcast transmission that makes no more than an incidental use of sound recordings, as long as such recorded event or broadcast transmission does not contain an entire sound recording or feature a particular sound recording.
 
 &emsp;(3) A "broadcast" transmission is a transmission made by a terrestrial broadcast station licensed as such by the Federal Communications Commission.
 
@@ -308,7 +378,7 @@ Definitions.—As used in this section, the following terms have the following m
 
 &emsp;(15) A "transmission" is either an initial transmission or a retransmission.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2560; Pub. L. 104–39, §3, Nov. 1, 1995, 109 Stat. 336; Pub. L. 105–80, §3, Nov. 13, 1997, 111 Stat. 1531; Pub. L. 105–304, title IV, §405(a)(1)–(4), Oct. 28, 1998, 112 Stat. 2890–2897; Pub. L. 107–321, §§4, 5(b), (c), Dec. 4, 2002, 116 Stat. 2781, 2784; Pub. L. 108–419, §5(c), Nov. 30, 2004, 118 Stat. 2362; Pub. L. 109–303, §4(b), Oct. 6, 2006, 120 Stat. 1481; Pub. L. 110–435, §2, Oct. 16, 2008, 122 Stat. 4974; Pub. L. 111–36, §2, June 30, 2009, 123 Stat. 1926; Pub. L. 111–295, §§5(c), 6(b), (f)(1), Dec. 9, 2010, 124 Stat. 3181.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2560; Pub. L. 104–39, §3, Nov. 1, 1995, 109 Stat. 336; Pub. L. 105–80, §3, Nov. 13, 1997, 111 Stat. 1531; Pub. L. 105–304, title IV, §405(a)(1)–(4), Oct. 28, 1998, 112 Stat. 2890–2897; Pub. L. 107–321, §§4, 5(b),\(c), Dec. 4, 2002, 116 Stat. 2781, 2784; Pub. L. 108–419, §5(c), Nov. 30, 2004, 118 Stat. 2362; Pub. L. 109–303, §4(b), Oct. 6, 2006, 120 Stat. 1481; Pub. L. 110–435, §2, Oct. 16, 2008, 122 Stat. 4974; Pub. L. 111–36, §2, June 30, 2009, 123 Stat. 1926; Pub. L. 111–295, §§5(c), 6(b), (f)(1), Dec. 9, 2010, 124 Stat. 3181; Pub. L. 115–264, title I, §103(a), (b), (g)(1), title III, §302, Oct. 11, 2018, 132 Stat. 3723–3725, 3737.)
 
 #### Historical and Revision Notes
 
@@ -334,17 +404,35 @@ The date of the enactment of the Digital Millennium Copyright Act, referred to i
 
 The date of enactment of the Digital Performance Right in Sound Recordings Act of 1995, referred to in subsec. (d)(4)(B)(iii), (C), is the date of enactment of Pub. L. 104–39, which was approved Nov. 1, 1995.
 
-Section 6(b)(3) of the Copyright Royalty and Distribution Reform Act of 2004, referred to in subsec. (f)(1)(A), (B), (2)(A), (B), is section 6(b)(3) of Pub. L. 108–419, which is set out as a note under section 801 of this title.
+The effective date of the Copyright Royalty and Distribution Reform Act of 2004, referred to in subsec. (f)(3)(A), is the effective date of Pub. L. 108–419, which is 6 months after Nov. 30, 2004, subject to transition provisions, see section 6 of Pub. L. 108–419, set out as an Effective Date; Transition Provisions note under section 801 of this title.
 
-The effective date of the Copyright Royalty and Distribution Reform Act of 2004, referred to in subsec. (f)(4)(A), is the effective date of Pub. L. 108–419, which is 6 months after Nov. 30, 2004, subject to transition provisions, see section 6 of Pub. L. 108–419, set out as an Effective Date; Transition Provisions note under section 801 of this title.
+The Webcaster Settlement Act of 2008, referred to in subsec. (f)(4)(D), is Pub. L. 110–435, Oct. 16, 2008, 122 Stat. 4974, which amended this section and enacted provisions set out as a note under section 101 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 101 of this title and Tables.
 
-The Webcaster Settlement Act of 2008, referred to in subsec. (f)(5)(D), is Pub. L. 110–435, Oct. 16, 2008, 122 Stat. 4974, which amended this section and enacted provisions set out as a note under section 101 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 101 of this title and Tables.
+The Webcaster Settlement Act of 2009, referred to in subsec. (f)(4)(D), is Pub. L. 111–36, June 30, 2009, 123 Stat. 1926, which amended this section and enacted provisions set out as a note under section 101 of this title. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 101 of this title and Tables.
 
-The Webcaster Settlement Act of 2009, referred to in subsec. (f)(5)(D), is Pub. L. 111–36, June 30, 2009, 123 Stat. 1926, which amended this section and enacted provisions set out as a note under section 101 of this title. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 101 of this title and Tables.
-
-The date of the enactment of the Webcaster Settlement Act of 2009, referred to in subsec. (f)(5)(F), is the date of the enactment of Pub. L. 111–36, which was approved June 30, 2009.
+The date of the enactment of the Webcaster Settlement Act of 2009, referred to in subsec. (f)(4)(F), is the date of the enactment of Pub. L. 111–36, which was approved June 30, 2009.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (f)(1). Pub. L. 115–264, §103(a)(1), added par. (1) and struck out former par. (1) which related to the determination of reasonable rates and terms of royalty payments for certain subscription and satellite digital audio transmissions.
+
+Subsec. (f)(2) to (5). Pub. L. 115–264, §103(a), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which related to the determination of reasonable rates and terms of royalty payments for certain types of public performances of sound recordings.
+
+Subsec. (f)(4)(C). Pub. L. 115–264, §103(g)(1), substituted "under paragraph (3)" for "under paragraph (4)".
+
+Subsec. (g)(2). Pub. L. 115–264, §302(c)(1), substituted "Except as provided for in paragraph (6), a nonprofit collective designated by the Copyright RoyaltyJudges" for "An agent designated" in introductory provisions.
+
+Subsec. (g)(3). Pub. L. 115–264, §302(c)(2), in introductory provisions, substituted "nonprofit collective designated by the Copyright Royalty Judges" for "nonprofit agent designated", "another designated nonprofit collective" for "another designated agent", "such nonprofit collective" for "such nonprofit agent", and "of such collective" for "of such agent".
+
+Subsec. (g)(4). Pub. L. 115–264, §302(c)(3), substituted "nonprofit collective" for "designated agent" and substituted "such collective" for "such agent" in two places.
+
+Subsec. (g)(5). Pub. L. 115–264, §302(a), added par. (5).
+
+Subsec. (g)(6). Pub. L. 115–264, §302(b), added par. (6).
+
+Subsec. (g)(7). Pub. L. 115–264, §302(c)(4), added par. (7).
+
+Subsec. (i). Pub. L. 115–264, §103(b), struck out subsec. (i). Text read as follows: "License fees payable for the public performance of sound recordings under section 106(6) shall not be taken into account in any administrative, judicial, or other governmental proceeding to set or adjust the royalties payable to copyright owners of musical works for the public performance of their works. It is the intent of Congress that royalties payable to copyright owners of musical works for the public performance of their works shall not be diminished in any respect as a result of the rights granted by section 106(6)."
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–295, §6(f)(1), substituted "118(f)" for "118(g)".
 
@@ -384,7 +472,7 @@ Subsec. (f)(1)(C). Pub. L. 108–419, §5(c)(1)(C), amended subpar. (C) generall
 
 Subsec. (f)(2)(A). Pub. L. 108–419, §5(c)(2)(A)(ii), (iii), substituted "Copyright Royalty Judges" for "Librarian of Congress" in third sentence and struck out "negotiation" after "parties to each" in fourth sentence.
 
-Pub. L. 108–419, §5(c)(2)(A)(i), which directed the general amendment of the first paragraph, was executed by making the amendment to first sentence of subpar. (A) to reflect the probable intent of Congress. Prior to amendment, first sentence read as follows: "No later than 30 days after the date of the enactment of the Digital Millennium Copyright Act, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for public performances of sound recordings by means of eligible nonsubscription transmissions and transmissions by new subscription services specified by subsection (d)(2) during the period beginning on the date of the enactment of such Act and ending on December 31, 2000, or such other date as the parties may agree."
+Pub. L. 108–419, §5(c)(2)(A)(i), which directed the general amendment of the first paragraph, was executed by making the amendment to first sentence of subpar. (A) to reflect the probable intent of Congress. Prior to amendment, first sentence read as follows: "No later than 30 days after the date of the enactment of the Digital Millennium Copyright Act, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for public performances of sound recordings by means of eligiblenonsubscription transmissions and transmissions by new subscription services specified by subsection (d)(2) during the period beginning on the date of the enactment of such Act and ending on December 31, 2000, or such other date as the parties may agree."
 
 Subsec. (f)(2)(B). Pub. L. 108–419, §5(c)(2)(B)(iii), which directed substitution of "described in" for "negotiated as provided" in last sentence, could not be executed because "negotiated as provided" does not appear in text.
 
@@ -436,7 +524,7 @@ Subsec. (f)(1)(A). Pub. L. 105–304, §405(a)(2)(B), designated existing provis
 
 Subsec. (f)(1)(B), (C). Pub. L. 105–304, §405(a)(2)(C), added subpars. (B) and (C).
 
-Subsec. (f)(2) to (5). Pub. L. 105–304, §405(a)(2)(C), added pars. (2) to (4) and struck out former pars. (2) to (5), which provided: in par. (2) that Librarian of Congress would convene a copyright arbitration royalty panel to determine schedule of rates and terms, that panel could consider rates and terms for comparable types of services under voluntary license agreements, and that requirements would be established by which copyright owners would receive notice of use of their recordings; in par. (3) that voluntarily negotiated license agreements would be given effect in lieu of determination by panel or decision by Librarian; in par. (4) that publication of notice of negotiations would be repeated no later than 30 days after petition was filed, in the first week of January, 2000, and at 5-year intervals thereafter, and that par. (2) procedures would be repeated upon filing of petition during a 60-day period commencing six months after publication of notice or on July 1, 2000 and at 5-year intervals thereafter; and in par. (5) that performance by non-exempt subscription transmission without infringing copyright was permissible by compliance with notice requirements and payment of royalty fees or agreement to pay such fees.
+Subsec. (f)(2) to (5). Pub. L. 105–304, §405(a)(2)(C), added pars. (2) to (4) and struck out former pars. (2) to (5), which provided: in par. (2) that Librarian of Congress would convene a copyright arbitration royalty panel to determine schedule of rates and terms, that panel could consider rates and terms for comparable types of services under voluntary license agreements, and that requirements would be established by which copyright owners would receive notice of use of their recordings; in par. (3) that voluntarily negotiated license agreements would be given effect in lieu of determination by panel or decision by Librarian; in par. (4)that publication of notice of negotiations would be repeated no later than 30 days after petition was filed, in the first week of January, 2000, and at 5-year intervals thereafter, and that par. (2) procedures would be repeated upon filing of petition during a 60-day period commencing six months after publication of notice or on July 1, 2000 and at 5-year intervals thereafter; and in par. (5) that performance by non-exempt subscription transmission without infringing copyright was permissible by compliance with notice requirements and payment of royalty fees or agreement to pay such fees.
 
 Subsec. (g). Pub. L. 105–304, §405(a)(3)(A), struck out "Subscription" before "Transmissions" in heading.
 
@@ -474,6 +562,22 @@ Subsec. (d). Pub. L. 104–39, §3(3), added subsec. (d) and struck out former s
 
 Subsecs. (e) to (j). Pub. L. 104–39, §3(4), added subsecs. (e) to (j).
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–264, title I, §103(h), Oct. 11, 2018, 132 Stat. 3725, provided that: "The amendments made by subsection (a)(1) \[amending this section\] shall apply to any proceeding before the Copyright Royalty Judges that is commenced on or after the date of the enactment of this Act \[Oct. 11, 2018\]."
+
+Pub. L. 115–264, title I, §106, Oct. 11, 2018, 132 Stat. 3727, provided that: "This title \[amending this section and sections 115, 801, 803, and 804 of this title and section 137 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and sections 101, 106, and 115 of this title\], and the amendments made by this title, shall take effect on the date of enactment of this Act \[Oct. 11, 2018\]."
+
+Pub. L. 115–264, title III, §303, Oct. 11, 2018, 132 Stat. 3741, provided that:
+
+"(a)
+
+In General.—Except as provided in subsection (b), this title \[amending this section and enacting provisions set out as a note under section 101 of this title\] and the amendments made by this title shall take effect on the date of enactment of this Act \[Oct. 11, 2018\].
+
+"(b)
+
+Delayed Effective Date.—Paragraphs (5)(B) and (6)(E) of section 114(g) of title 17, United States Code, as added by section 302, shall take effect on January 1, 2020."
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–303 effective as if included in the Copyright Royalty and Distribution Reform Act of 2004, Pub. L. 108–419, see section 6 of Pub. L. 109–303, set out as a note under section 111 of this title.
@@ -486,15 +590,53 @@ Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject t
 
 Amendment by section 405(a)(1), (2)(A), (B)(i)(I), (II), (ii), (3), (4) of Pub. L. 105–304 effective Oct. 28, 1998, except as otherwise provided, see section 407 of Pub. L. 105–304, set out as a note under section 108 of this title.
 
-Pub. L. 105–304, title IV, §405(a)(5), Oct. 28, 1998, 112 Stat. 2899, provided that: "The amendment made by paragraph (2)(B)(i)(III) of this subsection \[amending this section\] shall be deemed to have been enacted as part of the Digital Performance Right in Sound Recordings Act of 1995 \[Pub. L. 104–39\], and the publication of notice of proceedings under section 114(f)(1) of title 17, United States Code, as in effect upon the effective date of that Act \[see Effective Date of 1995 Amendment note set out under section 101 of this title\], for the determination of royalty payments shall be deemed to have been made for the period beginning on the effective date of that Act and ending on December 1, 2001."
+Pub. L. 105–304, title IV, §405(a)(5), Oct. 28, 1998, 112 Stat. 2899, provided that: "The amendment made by paragraph (2)(B)(i)(III) of this subsection \[amending this section\] shall be deemed to have been enacted as part of the Digital Performance Right in Sound Recordings Act of 1995 \[Pub. L. 104–39\], and the publication of notice of proceedings under \[former\] section 114(f)(1) of title 17, United States Code, as in effect upon the effective date of that Act \[see Effective Date of 1995 Amendment note set out under section 101 of this title\], for the determination of royalty payments shall be deemed to have been made for the period beginning on the effective date of that Act and ending on December 1, 2001."
 
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–39 effective 3 months after Nov. 1, 1995, except that provisions of subsecs. (e) and (f) of this section effective Nov. 1, 1995, see section 6 of Pub. L. 104–39, set out as a note under section 101 of this title.
 
+#### Severability
+
+Pub. L. 115–264, title IV, §401, Oct. 11, 2018, 132 Stat. 3741, provided that: "If any provision of this Act \[seeShort Title of 2018 Amendment note set out under section 101 of this title\] or any amendment made by this Act, or any application of such provision or amendment to any person or circumstance, is held to be unconstitutional, the remainder of the provisions of this Act and the amendments made by this Act, and the application of the provision or amendment to any other person or circumstance, shall not be affected."
+
+#### Construction of 2018 Amendment
+
+Pub. L. 115–264, title I, §103(e), Oct. 11, 2018, 132 Stat. 3724, provided that: "The repeal of section 114(i) of title 17, United States Code, by subsection (b) shall not be taken into account in any proceeding to set or adjust the rates and fees payable for the use of sound recordings under section 112(e) or 114(f) of such title that is pending on, or commenced on or after, the date of enactment of this Act \[Oct. 11, 2018\]."
+
+Pub. L. 115–264, title I, §103(f), Oct. 11, 2018, 132 Stat. 3725, provided that: "The repeal of section 114(i) of title 17, United States Code, by subsection (b) shall not have any effect upon the decisions, or the precedents established or relied upon, in any proceeding to set or adjust the rates and fees payable for the use of sound recordings under section 112(e) or 114(f) of such title before the date of enactment of this Act \[Oct. 11, 2018\]."
+
 #### Construction of 1998 Amendment
 
 Pub. L. 105–304, title IV, §405(a)(6), Oct. 28, 1998, 112 Stat. 2899, provided that: "The amendments made by this subsection \[amending this section\] do not annul, limit, or otherwise impair the rights that are preserved by section 114 of title 17, United States Code, including the rights preserved by subsections (c), (d)(4), and (i) of such section."
+
+#### Use in Musical Work Proceedings; No Effect on Interpretation
+
+Pub. L. 115–264, title I, §103(c), (d), Oct. 11, 2018, 132 Stat. 3724, provided that:
+
+"(c)
+
+Use in Musical Work Proceedings.—
+
+&emsp;"(1)
+
+In general.—License fees payable for the public performance of sound recordings under section 106(6) of title 17, United States Code, shall not be taken into account in any administrative, judicial, or other governmental proceeding to set or adjust the royalties payable to musical work copyright owners for the public performance of their works except in such a proceeding to set or adjust royalties for the public performance of musical works by means of a digital audio transmission other than a transmission by a broadcaster, and may be taken into account only with respect to such digital audio transmission.
+
+&emsp;"(2)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;"(A)
+
+Transmission by a broadcaster.—The term 'transmission by a broadcaster' means a nonsubscription digital transmission made by a terrestrial broadcast station on its own behalf, or on the behalf of a terrestrial broadcast station under common ownership or control, that is not part of an interactive service or a music-intensive service comprising the transmission of sound recordings customized for or customizable by recipients or service users.
+
+&emsp;&emsp;"(B)
+
+Terrestrial broadcast station.—The term 'terrestrial broadcast station' means a terrestrial, over-the-air radio or television broadcast station, including an FM translator (as defined in section 74.1201 of title 47, Code of Federal Regulations, and licensed as such by the Federal Communications Commission) whose primary business activities are comprised of, and whose revenues are generated through, terrestrial, over-the-air broadcast transmissions, or the simultaneous or substantially-simultaneous digital retransmission by the terrestrial, over-the-air broadcast station of its over-the-air broadcast transmissions.
+
+"(d)
+
+Rule of Construction.—Subsection (c)(2) shall not be given effect in interpreting provisions of title 17, United States Code."
 
 #### Findings Relating to Pub. L. 107–321
 
@@ -538,7 +680,7 @@ In general.—The payments to be made by noncommercial webcasters for the digita
 
 &emsp;"(2)
 
-Definition.—In this subsection, the term 'noncommercial webcaster' has the meaning given that term in section 114(f)(5)(E)(i) of title 17, United States Code, as added by section 4 of this Act.
+Definition.—In this subsection, the term 'noncommercial webcaster' has the meaning given that term in section 114(f)(5)(E)(i) \[now 114(f)(4)(E)(i)\] of title 17, United States Code, as added by section 4 of this Act.
 
 "(b)
 
@@ -552,15 +694,15 @@ In general.—The receiving agent may, in a writing signed by an authorized repr
 
 Definitions.—In this subsection—
 
-&emsp;&emsp;"(A) the term 'webcaster' has the meaning given that term in section 114(f)(5)(E)(iii) of title 17, United States Code, as added by section 4 of this Act; and
+&emsp;&emsp;"(A) the term 'webcaster' has the meaning given that term in section 114(f)(5)(E)(iii) \[now 114(f)(4)(E)(iii)\] of title 17, United States Code, as added by section 4 of this Act; and
 
 &emsp;&emsp;"(B) the term 'receiving agent' shall have the meaning given that term in section 261.2 of title 37, Code of Federal Regulations, as published in the Federal Register on July 8, 2002."
 
 #### Report to Congress
 
-Pub. L. 107–321, §6, Dec. 4, 2002, 116 Stat. 2785, provided that: "By not later than June 1, 2004, the Comptroller General of the United States, in consultation with the Register of Copyrights, shall conduct and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a study concerning the economic arrangementsamong small commercial webcasters covered by agreements entered into pursuant to section 114(f)(5)(A) of title 17, United States Code, as added by section 4 of this Act, and third parties, and the effect of those arrangements on royalty fees payable on a percentage of revenue or expense basis."
+Pub. L. 107–321, §6, Dec. 4, 2002, 116 Stat. 2785, provided that: "By not later than June 1, 2004, the Comptroller General of the United States, in consultation with the Register of Copyrights, shall conduct and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a study concerning the economic arrangements among small commercial webcasters covered by agreements entered into pursuant to section 114(f)(5)(A) \[now 114(f)(4)(A)\] of title 17, United States Code, as added by section 4 of this Act, and third parties, and the effect of those arrangements on royalty fees payable on a percentage of revenue or expense basis."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by "Reform".</i>
+<i><sup>2</sup></i><i> See last Effective Date of 2018 Amendment note below.</i>
 

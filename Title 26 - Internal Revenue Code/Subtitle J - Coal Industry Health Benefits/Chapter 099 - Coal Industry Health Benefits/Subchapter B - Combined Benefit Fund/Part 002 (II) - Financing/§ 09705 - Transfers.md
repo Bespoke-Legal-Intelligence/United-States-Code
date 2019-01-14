@@ -48,15 +48,19 @@
 
 #### (1) In general
 
-&emsp;The Combined Fund shall include any amount transferred to the Fund under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232(h)).<sup>1</sup>
+&emsp;The Combined Fund shall include any amount transferred to the Fund under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232).
 
 #### (2) Use of funds
 
-&emsp;Any amount transferred under paragraph (1) for any fiscal year shall be used to pay benefits and administrative costs of beneficiaries of the Combined Fund or for such other purposes as are specifically provided in the Acts <sup>2</sup> described in paragraph (1).
+&emsp;Any amount transferred under paragraph (1) for any fiscal year shall be used to pay benefits and administrative costs of beneficiaries of the Combined Fund or for such other purposes as are specifically provided in the Act described in paragraph (1).
 
-(Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3046; amended Pub. L. 109–432, div. C, title II, §212(a)(1), Dec. 20, 2006, 120 Stat. 3023.)
+(Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3046; amended Pub. L. 109–432, div. C, title II, §212(a)(1), Dec. 20, 2006, 120 Stat. 3023; Pub. L. 115–141, div. U, title IV, §401(a)(345), (346), Mar. 23, 2018, 132 Stat. 1200, 1201.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–141, §401(a)(345), substituted "1232" for "1232(h)".
+
+Subsec. (b)(2). Pub. L. 115–141, §401(a)(346), substituted "Act" for "Acts".
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–432, §212(a)(1)(C), struck out "from abandoned mine reclamation fund" after "Transfers" in heading.
 
@@ -67,8 +71,4 @@ Subsec. (b)(2). Pub. L. 109–432, §212(a)(1)(B), reenacted heading without cha
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–432 applicable to plan years of the Combined Fund beginning after Sept. 30, 2006, see section 212(a)(4) of Pub. L. 109–432, set out as a note under section 9704 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "(30 U.S.C. 1232)."</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "Act".</i>
 

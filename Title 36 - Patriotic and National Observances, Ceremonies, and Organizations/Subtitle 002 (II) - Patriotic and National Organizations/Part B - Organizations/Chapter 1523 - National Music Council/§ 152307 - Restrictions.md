@@ -14,7 +14,7 @@ Political Activities.—The corporation or a director, officer, or member as suc
 
 (d)
 
-Distribution of Income or Assets.—The income or assets of the corporation may not inure to the benefit of, or be distributed to, a director, officer, or member except on dissolution or final liquidation of the corporation.
+Distribution of Income or Assets.—The income or assets of the corporation may notinure to the benefit of, or be distributed to, a director, officer, or member except on dissolution or final liquidation of the corporation.
 
 (e)
 

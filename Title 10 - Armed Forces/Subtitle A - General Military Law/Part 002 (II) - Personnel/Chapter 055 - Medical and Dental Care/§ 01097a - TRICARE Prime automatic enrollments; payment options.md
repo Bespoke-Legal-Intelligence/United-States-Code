@@ -36,7 +36,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "catchment area", with respect to a facility of a uniformed service, means the service area of the facility, as designated under regulations prescribed by the administering Secretaries.
 
-(Added Pub. L. 105–261, div. A, title VII, §712(a)(1), Oct. 17, 1998, 112 Stat. 2058; amendedPub. L. 106–398, §1 \[\[div. A\], title VII, §752(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195; Pub. L. 107–107, div. A, title X, §1048(a)(11), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 112–239, div. A, title VII, §711, Jan. 2, 2013, 126 Stat. 1801; Pub. L. 114–328, div. A, title VII, §723, Dec. 23, 2016, 130 Stat. 2229.)
+(Added Pub. L. 105–261, div. A, title VII, §712(a)(1), Oct. 17, 1998, 112 Stat. 2058; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §752(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195; Pub. L. 107–107, div. A, title X, §1048(a)(11), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 112–239, div. A, title VII, §711, Jan. 2, 2013, 126 Stat. 1801; Pub. L. 114–328, div. A, title VII, §723, Dec. 23, 2016, 130 Stat. 2229.)
 
 #### Amendments
 
@@ -124,7 +124,7 @@ Access to TRICARE Prime.—
 
 &emsp;"(1)
 
-One-time election.—Subject to paragraph (3), the Secretary shall ensure that each affected eligible beneficiary who is enrolled in TRICARE Prime as of September 30, 2013, may make a one-time election to continue such enrollment in TRICARE Prime, notwithstanding that a contract described in subsection (a)(2)(A) does not allow for such enrollment based on the location in which such beneficiary resides. The beneficiary may continue such enrollment in TRICARE Prime so long as the beneficiary resides inthe same ZIP code as the ZIP code in which the beneficiary resided at the time of such election.
+One-time election.—Subject to paragraph (3), the Secretary shall ensure that each affected eligible beneficiary who is enrolled in TRICARE Prime as of September 30, 2013, may make a one-time election to continue such enrollment in TRICARE Prime, notwithstanding that a contract described in subsection (a)(2)(A) does not allow for such enrollment based on the location in which such beneficiary resides. The beneficiary may continue such enrollment in TRICARE Prime so long as the beneficiary resides in the same ZIP code as the ZIP code in which the beneficiary resided at the time of such election.
 
 &emsp;"(2)
 

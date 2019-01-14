@@ -26,7 +26,7 @@ For the purposes of conducting any hearing under this section, the Secretary may
 
 #### (g) Permit sanctions
 
-(1) In any case in which (A) a vessel has been used in the commission of an act prohibited under section 1857 of this title, (B) the owner or operator of a vessel or any other person who has been issued or has applied for a permit under this chapter has acted in violation of section 1857 of this title, (C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue, the Secretary may—
+(1) In any case in which (A) a vessel has been used in the commission of an act prohibited under section 1857 of this title, (B) the owner or operator of a vessel or any other person who has been issued or has applied for a permit under this chapter has acted in violation of section1857 of this title, (C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue, the Secretary may—
 
 &emsp;(i) revoke any permit issued with respect to such vessel or person, with or without prejudice to the issuance of subsequent permits;
 
@@ -56,7 +56,7 @@ This chapter, referred to in subsec. (g)(1), was in the original "this Act", mea
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–297, §114(a), struck out "ability to pay," after "history of prior offenses," and inserted at end "In assessing such penalty the Secretary may also consider any information provided bythe violator relating to the ability of the violator to pay, Provided, That the information is served on the Secretary at least 30 days prior to an administrative hearing."
+<b>1996</b>—Subsec. (a). Pub. L. 104–297, §114(a), struck out "ability to pay," after "history of prior offenses," and inserted at end "In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, Provided, That the information is served on the Secretary at least 30 days prior to an administrative hearing."
 
 Subsec. (b). Pub. L. 104–297, §114(b), amended first sentence generally. Prior to amendment, first sentence read as follows: "Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the United States district court for the appropriate district by filing a complaint in such court within 30 days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary, the Attorney General and the appropriate United States Attorney."
 

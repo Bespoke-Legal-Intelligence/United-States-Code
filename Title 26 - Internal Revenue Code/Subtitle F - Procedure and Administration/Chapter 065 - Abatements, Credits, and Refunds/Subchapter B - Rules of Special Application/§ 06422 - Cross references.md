@@ -12,23 +12,27 @@
 
 &emsp;&emsp;<b>(6) For abatement, credit, or refund in case of jeopardy assessments, see chapter 70.</b>
 
-&emsp;&emsp;<b>(7) For treatment of certain overpayments as having been refunded, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742).</b><b><sup>1</sup></b>
+&emsp;&emsp;<b>(7) For restrictions on transfers and assignments of claims against the United States, see section 3727 of title 31, United States Code.</b>
 
-&emsp;&emsp;<b>(8) For restrictions on transfers and assignments of claims against the United States, see section 3727 of title 31, United States Code.</b>
+&emsp;&emsp;<b>(8) For set-off of claims against amounts due the United States, see section 3728 of title 31, United States Code.</b>
 
-&emsp;&emsp;<b>(9) For set-off of claims against amounts due the United States, see section 3728 of title 31, United States Code.</b>
+&emsp;&emsp;<b>(9) For special provisions relating to alcohol and tobacco taxes, see subtitle E.</b>
 
-&emsp;&emsp;<b>(10) For special provisions relating to alcohol and tobacco taxes, see subtitle E.</b>
+&emsp;&emsp;<b>(10) For credit or refund in case of deficiency dividends paid by a regulated investment company or real estate investment trust, see section 860.</b>
 
-&emsp;&emsp;<b>(11) for </b><b><sup>2</sup></b> <b>credit or refund in case of deficiency dividends paid by a regulated investment company or real estate investment trust, see section 860.</b>
-
-(Aug. 16, 1954, ch. 736, 68A Stat. 802, §6420; renumbered §6421, Apr. 2, 1956, ch. 160, §1, 70 Stat. 87; renumbered §6422, June 29, 1956, ch. 462, title II, §208(c), 70 Stat. 394; amended Pub. L. 85–859, title II, §204(4), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 88–36, title II, §201(c), June 4, 1963, 77 Stat. 54; Pub. L. 94–455, title XVI, §1601(f)(1), title XIX, §§1901(b)(36)(B), 1906(a)(28), Oct. 4, 1976, 90 Stat. 1746, 1802, 1828; Pub. L. 95–600, title III, §362(d)(4), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 97–248, title IV, §402(c)(4), Sept. 3, 1982, 96 Stat. 667; Pub. L. 97–258, §3(f)(8), (9), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 101–508, title XI, §11801(c)(17)(A), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 105–34, title XI, §1131(c)(3), Aug. 5, 1997, 111 Stat. 980; Pub. L. 114–74, title XI, §1101(f)(2), Nov. 2, 2015, 129 Stat. 637.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 802, §6420; renumbered §6421, Apr. 2, 1956, ch. 160, §1, 70 Stat. 87; renumbered §6422, June 29, 1956, ch. 462, title II, §208(c), 70 Stat. 394; amended Pub. L. 85–859, title II, §204(4), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 88–36, title II, §201(c), June 4, 1963, 77 Stat. 54; Pub. L. 94–455, title XVI, §1601(f)(1), title XIX, §§1901(b)(36)(B), 1906(a)(28), Oct. 4, 1976, 90 Stat. 1746, 1802, 1828; Pub. L. 95–600, title III, §362(d)(4), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 97–248, title IV, §402(c)(4), Sept. 3, 1982, 96 Stat. 667; Pub. L. 97–258, §3(f)(8), (9), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 101–508, title XI, §11801(c)(17)(A), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 105–34, title XI, §1131(c)(3), Aug. 5, 1997, 111 Stat. 980; Pub. L. 114–74, title XI, §1101(f)(2), Nov. 2, 2015, 129 Stat. 637; Pub. L. 115–141, div. U, title IV, §401(a)(292), Mar. 23, 2018, 132 Stat. 1198.)
 
 #### References in Text
 
 Section 9 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742), referred to in par. (7), is section 9 of act Mar. 8, 1946, ch. 82, 60 Stat. 46, which was repealed by Pub. L. 94–412, title V, §501(g), Sept. 14, 1976, 90 Stat. 1258.
 
 #### Amendments
+
+<b>2018</b>—Pars. (7) to (9). Pub. L. 115–141, §401(a)(292)(A), (B), redesignated pars. (8) to (10) as (7) to (9), respectively, and struck out former par. (7) which read as follows: "For treatment of certain overpayments as having been refunded, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742)."
+
+Pars. (10), (11). Pub. L. 115–141, §401(a)(292)(B), (C), redesignated par. (11) as (10) and substituted "For credit" for "for credit". Former par. (10) redesignated (9).
+
+Par. (12). Pub. L. 115–141, §401(a)(292)(B), which directed the redesignation of par. (12) as (11), could not be executed because there was no par. (12) following the amendment by Pub. L. 114–74. See 2015 Amendment note below.
 
 <b>2015</b>—Par. (12). Pub. L. 114–74 struck out par. (12) which read as follows: "For special rules in the case of a credit or refund attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230."
 
@@ -72,7 +76,7 @@ Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of this title) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
+Amendment by Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of thistitle) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -93,8 +97,4 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 #### Savings Provision
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

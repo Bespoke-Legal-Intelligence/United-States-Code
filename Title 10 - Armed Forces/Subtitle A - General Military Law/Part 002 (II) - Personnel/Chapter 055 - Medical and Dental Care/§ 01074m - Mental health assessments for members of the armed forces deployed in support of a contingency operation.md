@@ -8,7 +8,7 @@ Mental Health Assessments.—(1) The Secretary of Defense shall provide a person
 
 &emsp;(B) Until January 1, 2019, once during each 180-day period during which a member is deployed.
 
-&emsp;(C) Once during the period beginning 90 days after the date of redeployment from the contingency operation and ending 180 days after such redeployment date.
+&emsp;(C) Subject to subsection (d), once during the period beginning 90 days after the date of redeployment from the contingency operation and ending 180 days after such redeployment date.
 
 &emsp;(D) Subject to subsection (d), not later than once during each of—
 
@@ -38,7 +38,7 @@ Elements.—(1) The mental health assessments provided pursuant to this section 
 
 &emsp;&emsp;(iii) by personnel at private facilities in accordance with section 1074(c) of this title;
 
-&emsp;(B) include a person-to-person dialogue between members described in subsection (a) and the professionals or personnel described by subparagraph (A), as applicable, on such matters as the Secretary shall specify in order that the assessments achieve the purpose specified in subsection (b) for such assessments;
+&emsp;(B) include a person-to-person dialogue between members described in subsection (a) andthe professionals or personnel described by subparagraph (A), as applicable, on such matters as the Secretary shall specify in order that the assessments achieve the purpose specified in subsection (b) for such assessments;
 
 &emsp;(C) be conducted in a private setting to foster trust and openness in discussing sensitive health concerns;
 
@@ -50,7 +50,7 @@ Elements.—(1) The mental health assessments provided pursuant to this section 
 
 (d)
 
-Cessation of Assessments.—No mental health assessment is required to be provided to an individual under subsection (a)(1)(C) after the individual's discharge or release from the armed forces.
+Cessation of Assessments.—No mental health assessment is required to be provided to an individual under subparagraph (C) or (D) of subsection (a)(1) after the individual's discharge or release from the armed forces.
 
 (e)
 
@@ -70,13 +70,17 @@ Regulations.—(1) The Secretary of Defense, in consultation with the other admi
 
 (2) Not later than 270 days after the date of the issuance of the regulations prescribed under paragraph (1), the Secretary shall notify the congressional defense committees of the implementation of the regulations by the military departments.
 
-(Added Pub. L. 112–81, div. A, title VII, §702(a)(1), Dec. 31, 2011, 125 Stat. 1469; amended Pub. L. 112–239, div. A, title VII, §703, Jan. 2, 2013, 126 Stat. 1800; Pub. L. 113–291, div. A, title VII, §701(a)(5), (b), title X, §1071(f)(13), Dec. 19, 2014, 128 Stat. 3409, 3510.)
+(Added Pub. L. 112–81, div. A, title VII, §702(a)(1), Dec. 31, 2011, 125 Stat. 1469; amended Pub. L. 112–239, div. A, title VII, §703, Jan. 2, 2013, 126 Stat. 1800; Pub. L. 113–291, div. A, title VII, §701(a)(5), (b), title X, §1071(f)(13), Dec. 19, 2014, 128 Stat. 3409, 3510; Pub. L. 115–232, div. A, title VII, §701, Aug. 13, 2018, 132 Stat. 1804.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 112–81, which was approved Dec. 31, 2011.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(1)(C). Pub. L. 115–232, §701(1), substituted "Subject to subsection (d), once" for "Once".
+
+Subsec. (d). Pub. L. 115–232, §701(2), which directed substitution of "subparagraph (C) or (D) of subsection (a)(1)" for "subsection (a)(1)(D)", was executed by making the substitution for "subsection (a)(1)(C)" to reflect the probable intent of Congress.
 
 <b>2014</b>—Subsec. (a)(1)(B) to (D). Pub. L. 113–291, §701(b)(1)(A), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 

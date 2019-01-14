@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) the mortgagor may cancel the requirement in accordance with section 4902(a) of this title on the cancellation date, and that the servicer will notify the mortgagor when the cancellation date is reached;
 
-&emsp;&emsp;&emsp;(ii) the requirement for private mortgage insurance will automatically terminate onthe termination date, and that on the termination date, the mortgagor will be notified of the termination or that the requirement will be terminated as soon as the mortgagor is current on loan payments; and
+&emsp;&emsp;&emsp;(ii) the requirement for private mortgage insurance will automatically terminate on the termination date, and that on the termination date, the mortgagor will be notified of the termination or that the requirement will be terminated as soon as the mortgagor is current on loan payments; and
 
 &emsp;&emsp;&emsp;(iii) there are exemptions to the right of cancellation and automatic termination of a requirement for private mortgage insurance in accordance with section 4902(g) of this title, and whether such an exemption applies at that time to that transaction.
 

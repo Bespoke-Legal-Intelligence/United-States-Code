@@ -30,7 +30,7 @@ General.—An amateur sports organization is eligible to be recognized, or to co
 
 &emsp;&emsp;(C) is free from outside restraint;
 
-&emsp;(6) demonstrates that it is a member of no more than one international sports federation that governs a sport included on the program of the Olympic Games or the Pan-American Games;
+&emsp;(6) demonstrates that it is a member of no more than one international sports federationthat governs a sport included on the program of the Olympic Games or the Pan-American Games;
 
 &emsp;(7) demonstrates that its membership is open to any individual who is an amateur athlete, coach, trainer, manager, administrator, or official active in the sport for which recognition is sought, or any amateur sports organization that conducts programs in the sport for which recognition is sought, or both;
 

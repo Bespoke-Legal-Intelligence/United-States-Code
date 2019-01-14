@@ -28,7 +28,7 @@ The Secretary may award grants under this subchapter in installments, in advance
 
 Whoever—
 
-&emsp;(1) makes a false statement of a material fact knowing it to be false, or knowingly failsto disclose a material fact, for the purpose of obtaining or increasing for such person or for any other person any payment of funds provided under this subchapter, or
+&emsp;(1) makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, for the purpose of obtaining or increasing for such person or for any other person any payment of funds provided under this subchapter, or
 
 &emsp;(2) misappropriates any funds provided under this subchapter,
 

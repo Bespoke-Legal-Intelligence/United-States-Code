@@ -8,7 +8,13 @@
 
 #### (2) Spouses
 
-&emsp;A spouse of a servicemember shall neither lose nor acquire a residence or domicile for purposes of taxation with respect to the person, personal property, or income of the spouse by reason of being absent or present in any tax jurisdiction of the United States solely to be with the servicemember in compliance with the servicemember's military orders if the residence or domicile, as the case may be, is the same for the servicemember and the spouse.
+#### (A) In general
+
+&emsp;&emsp;A spouse of a servicemember shall neither lose nor acquire a residence or domicile for purposes of taxation with respect to the person, personal property, or income of the spouse by reason of being absent or present in any tax jurisdiction of the United States solely to be with the servicemember in compliance with the servicemember's military orders if the residence or domicile, as the case may be, is the same for the servicemember and the spouse.
+
+#### (B) Election
+
+&emsp;&emsp;For any taxable year of the marriage, the spouse of a servicemember may elect to usethe same residence for purposes of taxation as the servicemember regardless of the date on which the marriage of the spouse and the servicemember occurred.
 
 #### (b) Military service compensation
 
@@ -60,7 +66,7 @@ For purposes of this section:
 
 &emsp;The term "tax jurisdiction" means a State or a political subdivision of a State.
 
-(Oct. 17, 1940, ch. 888, title V, §511, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2858; amended Pub. L. 111–97, §3(a), Nov. 11, 2009, 123 Stat. 3008.)
+(Oct. 17, 1940, ch. 888, title V, §511, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2858; amended Pub. L. 111–97, §3(a), Nov. 11, 2009, 123 Stat. 3008; Pub. L. 115–407, title III, §302(a), Dec. 31, 2018, 132 Stat. 5373.)
 
 #### Codification
 
@@ -80,6 +86,8 @@ Section 514, act Oct. 17, 1940, ch. 888, art. V, as added Oct. 6, 1942, ch. 581,
 
 #### Amendments
 
+<b>2018</b>—Subsec. (a)(2). Pub. L. 115–407 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
 <b>2009</b>—Subsec. (a). Pub. L. 111–97, §3(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (c). Pub. L. 111–97, §3(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
@@ -92,7 +100,15 @@ Subsec. (d)(2). Pub. L. 111–97, §3(a)(4)(B), inserted "or the spouse's" after
 
 Subsecs. (e) to (g). Pub. L. 111–97, §3(a)(2), redesignated subsecs. (d) to (f) as (e) to (g), respectively.
 
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–407, title III, §302(b), Dec. 31, 2018, 132 Stat. 5373, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to any return of State or local income tax filed for any taxable year beginning with the taxable year that includes the date of the enactment of this Act \[Dec. 31, 2018\]."
+
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–97, §3(b), Nov. 11, 2009, 123 Stat. 3008, provided that: "Subsections (a)(2) and (c) of section 511 of such Act \[Servicemembers Civil Relief Act\] (50 U.S.C. App. 571) \[now 50 U.S.C. 4001\], as added by subsection (a) of this section, and the amendments made to such section 511 by subsection (a)(4) of this section \[amending this section\], shall apply with respect to any return of State or local income tax filed for any taxable year beginning with the taxable year that includes the date of the enactment of this Act \[Nov. 11, 2009\]."
+
+#### Effective Date
+
+Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under section 3901 of this title.
 

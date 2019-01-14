@@ -4,7 +4,7 @@
 
 The Secretary of the Treasury shall pay out of the War Claims Fund on account of awards certified by the Commission pursuant to this subchapter as follows and in the following order of priority:
 
-(1) Payment in full of awards made pursuant to section 4132(d)(1) and (2) of this title, andthereafter of any award made pursuant to section 4132(a) of this title to any claimant (A) certified to the Commission by the Small Business Administration as having been, on the date of loss, damage, or destruction, a small business concern within the meaning now set forth in the Small Business Act, as amended \[15 U.S.C. 631 et seq.\], or (B) determined by the Commission to have been, on the date of loss, damage, or destruction, a nonprofit organization operated exclusively for the promotion of social welfare, religious, charitable, or educational purposes.
+(1) Payment in full of awards made pursuant to section 4132(d)(1) and (2) of this title, and thereafter of any award made pursuant to section 4132(a) of this title to any claimant (A) certified to the Commission by the Small Business Administration as having been, on the date of loss, damage, or destruction, a small business concern within the meaning now set forth in the Small Business Act, as amended \[15 U.S.C. 631 et seq.\], or (B) determined by the Commission to have been, on the date of loss, damage, or destruction, a nonprofit organization operated exclusively for the promotion of social welfare, religious, charitable, or educational purposes.
 
 (2) Thereafter, payments from time to time on account of the other awards made pursuant to section 4132 of this title in an amount which shall be the same for each award or in the amount of the award, whichever is less. The total payment made pursuant to this paragraph on account of any award shall not exceed $10,000.
 
@@ -26,7 +26,7 @@ If any person to whom any payment is to be made pursuant to this subchapter is d
 
 #### (e) Partial payment; extinguishment of rights
 
-Payment on account of any award pursuant to this subchapter shall not, unless such payment is for the full amount of the award, extinguish any rights against any foreign government for the unpaid balance of the award.
+Payment on account of any award pursuant to this subchapter shall not, unless such paymentis for the full amount of the award, extinguish any rights against any foreign government for the unpaid balance of the award.
 
 #### (f) Losses occurring in Commonwealth of the Philippines
 

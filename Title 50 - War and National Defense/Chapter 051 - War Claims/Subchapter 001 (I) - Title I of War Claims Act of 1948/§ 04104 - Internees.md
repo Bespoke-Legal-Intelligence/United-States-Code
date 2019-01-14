@@ -6,7 +6,7 @@ As used in subsections (b) and (f) of this section, the term "civilian American 
 
 #### (b) Payment of detention benefits
 
-The Commission is authorized to receive, adjudicate according to law, and provide for the payment of any claim filed by, or on behalf of, any civilian American citizen for detention benefits for any period of time subsequent to December 6, 1941, during which he was held by the Imperial Japanese Government as a prisoner, internee, hostage, or in any other capacity, or remained in hiding to avoid being captured or interned by such Imperial Japanese Government.
+The Commission is authorized to receive, adjudicate according to law, and provide for the payment of any claim filed by, or on behalf of, any civilian American citizen for detention benefits for any period of time subsequent to December6, 1941, during which he was held by the Imperial Japanese Government as a prisoner, internee, hostage, or in any other capacity, or remained in hiding to avoid being captured or interned by such Imperial Japanese Government.
 
 #### (c) Amount of detention benefits
 
@@ -52,7 +52,7 @@ Any claim allowed by the Commission under this section (except under subsections
 
 (7) No person, except a widow or a child, shall be entitled to benefits for disability with respect to himself, and to death benefits on account of the death of another.
 
-(8) If a civilian American citizen or his dependent receives or has received from the United States any payments on account of the same injury or death, or from his employer, in the form of wages, or payments in lieu of wages, or in any form of support or compensation (including workmen's compensation) in respect to the same objects, the benefits under this section shall be diminished by the amount of such payments in the following manner: (A) Benefits on account of injury or disability shall be reduced by the amount of payments to the injured person on account of the same injury or disability; and (B) benefits on account of death shall be reduced by the amount of payments to the dependents of the deceased civilian American citizen on account of the same death.
+(8) If a civilian American citizen or his dependent receives or has received from the United States any payments on account of the same injury or death, or from his employer, in the form of wages, or payments in lieu of wages, or in any form of support or compensation (including workmen's compensation) in respect to the same objects, the benefits under this section shall be diminished by the amount of such payments in the following manner: (A) Benefits on account of injury or disability shall be reduced by the amount of payments to the injured person on account of the same injury or disability; and (B) benefits on account of death shall be reduced by the amount of payments to the dependents ofthe deceased civilian American citizen on account of the same death.
 
 (9) This subsection shall take effect as of December 7, 1941, and the right of individuals to benefits shall be held to have begun to accrue as though this subsection had been in effect as of such date.
 
@@ -64,7 +64,7 @@ Any claim allowed by the Commission under this section (except under subsections
 
 (1) As used in this subsection, the term "civilian American citizens" means any person who, being then a citizen of the United States, was captured in Korea on or after June 25, 1950, by any hostile force with which the Armed Forces of the United States were actually engaged in armed conflict subsequent to such date and prior to August 21, 1954, or who went into hiding in Korea in order to avoid capture or internment by any such hostile force; except (A) a person who at any time voluntarily, knowingly, and without duress, gave aid to or collaborated with or in any manner served any such hostile force, or (B) a regularly appointed, enrolled, enlisted, or inducted member of the Armed Forces of the United States.
 
-(2) The Commission is authorized to receive and to determine, according to law, the amount and validity, and provide for the payment of any claim filed by, or on behalf of, any civilian American citizen for detention benefits for anyperiod of time subsequent to June 25, 1950, during which he was held by any such hostile force as a prisoner, internee, hostage, or in any other capacity, or remained in hiding to avoid being captured or interned by any such hostile force.
+(2) The Commission is authorized to receive and to determine, according to law, the amount and validity, and provide for the payment of any claim filed by, or on behalf of, any civilian American citizen for detention benefits for any period of time subsequent to June 25, 1950, during which he was held by any such hostile force as a prisoner, internee, hostage, or in any other capacity, or remained in hiding to avoid being captured or interned by any such hostile force.
 
 (3) The detention benefit allowed to any person under the provisions of paragraph (2) of this subsection shall be at the rate of $60 for each calendar month during which such person was at least eighteen years of age and at the rate of $25 per month for each calendar month during which such person was less than eighteen years of age.
 
@@ -94,7 +94,7 @@ Any claim allowed by the Commission under this section (except under subsections
 
 #### (h) Benefits for Guamanians killed or captured at Wake Island on or after December 7, 1941
 
-In the case of any Guamanian killed or captured by the Imperial Japanese Government on or after December 7, 1941, at Wake Island, benefits shall be granted under subsections (a) through (f) of this section in the same manner and to the same extent as apply in the case of civilian American citizens so killed or captured. Claims for benefits under subsections (a) through (e) of this section must be filed within six months after August 31, 1962, and the time limitation applicable to any individual by subsection (f) shall not begin to run until August 31, 1962, with respect to any individual who is entitled to such benefits solely by reason of this subsection. The preceding sentence shall not be construed to affect the right of any individual to receive such benefits with respect to any period prior to August 31, 1962.
+In the case of any Guamanian killed or captured by the Imperial Japanese Government on or after December 7, 1941, at Wake Island, benefits shall be granted under subsections (a) through (f) of this section in the same manner and to the same extent as apply in the case of civilian American citizens so killed or captured. Claims for benefits under subsections (a) through (e) of this section must be filed within six months after August 31, 1962, and the time limitation applicable to any individual by subsection (f) shall not begin to run until August 31, 1962, with respect to any individual who is entitled to such benefits solely by reason of this subsection. The preceding sentence shall not be construed to affect the right of any individual toreceive such benefits with respect to any period prior to August 31, 1962.
 
 #### (i) Detention benefits for civilian internees in Southeast Asia; definitions; authority of Commission; claim for benefits; rate of compensation; persons entitled to payments; certification for payment; filing date; determination of claims; appropriations
 
@@ -116,7 +116,7 @@ In the case of any Guamanian killed or captured by the Imperial Japanese Governm
 
 &emsp;(C) the child or children of the deceased in equal shares if there is no widow or dependent husband.
 
-(5) Any claim allowed by the Commission under this subsection shall be certified to theSecretary of the Treasury for payment out of funds appropriated pursuant to this subsection, and shall be paid to the person entitled thereto, except that if a person entitled to payment under this section is under any legal disability, payment shall be made in accordance with the provisions of subsection (e) of this section.
+(5) Any claim allowed by the Commission under this subsection shall be certified to the Secretary of the Treasury for payment out of funds appropriated pursuant to this subsection, and shall be paid to the person entitled thereto, except that if a person entitled to payment under this section is under any legal disability, payment shall be made in accordance with the provisions of subsection (e) of this section.
 
 (6) Each claim filed under this section must be filed not later than three years from whichever of the following dates last occurs:
 
@@ -156,7 +156,7 @@ Subsec. (i). Pub. L. 91–289, §3(2), added subsec. (i).
 
 Subsec. (h). Pub. L. 87–617 added subsec. (h).
 
-<b>1954</b>—Subsec. (a). Act Aug. 31, 1954, §101(a), included as eligible for detention benefits, civilian American citizens who were captured at certain Pacific islands by the Japanese, but who were formerly expressly excluded from these benefits by reason of being Federal employees or employees of contractors with the United States, and to make them eligible for disability compensation. Act Aug. 21, 1954, §1(b), limited the application of such section's definition of "civilian American citizen" to subsecs. (b) and (f) of this section.
+<b>1954</b>—Subsec. (a). Act Aug. 31, 1954, §101(a), included as eligible for detention benefits, civilian Americancitizens who were captured at certain Pacific islands by the Japanese, but who were formerly expressly excluded from these benefits by reason of being Federal employees or employees of contractors with the United States, and to make them eligible for disability compensation. Act Aug. 21, 1954, §1(b), limited the application of such section's definition of "civilian American citizen" to subsecs. (b) and (f) of this section.
 
 Subsec. (d). Act Aug. 31, 1954, §102(a), (b), struck out "dependent" wherever appearing, and added cl. (4).
 

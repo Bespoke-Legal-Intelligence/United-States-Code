@@ -110,7 +110,7 @@ In the case that an individual requests under paragraph (a)(1)(i)(A) of section 
 
 &emsp;Not later than 18 months after February 17, 2009, the Secretary shall promulgate regulations to carry out this subsection. In promulgating such regulations, the Secretary—
 
-&emsp;&emsp;(A) shall evaluate the impact of restricting the exception described in paragraph (2)(A) to require that the price charged for the purposes described in such paragraph reflects the costs of the preparation and transmittal of the data for such purpose, on research or public health activities, including those conducted by or for the use of the Food and Drug Administration; and
+&emsp;&emsp;(A) shall evaluate the impact of restricting the exception described in paragraph (2)(A) to require that the price charged for the purposes described in such paragraph reflects the costs of the preparation and transmittalof the data for such purpose, on research or public health activities, including those conducted by or for the use of the Food and Drug Administration; and
 
 &emsp;&emsp;(B) may further restrict the exception described in paragraph (2)(A) to require that the price charged for the purposes described in such paragraph reflects the costs of the preparation and transmittal of the data for such purpose, if the Secretary finds that such further restriction will not impede such research or public health activities.
 

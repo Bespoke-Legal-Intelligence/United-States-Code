@@ -50,7 +50,7 @@ Redesignation.—Not later than 5 years after the date of establishment of the c
 
 Report.—During designation and redesignation of the corridors under this section, the Secretary shall issue a report that—
 
-&emsp;(1) identifies electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, and natural gas fueling infrastructure and standardization needs for electricity providers, industrial gas providers, natural gas providers, infrastructure providers, vehicle manufacturers, electricity purchasers, and natural gas purchasers; and
+&emsp;(1) identifies electric vehicle charging infrastructure, hydrogen fueling infrastructure,propane fueling infrastructure, and natural gas fueling infrastructure and standardization needs for electricity providers, industrial gas providers, natural gas providers, infrastructure providers, vehicle manufacturers, electricity purchasers, and natural gas purchasers; and
 
 &emsp;(2) establishes an aspirational goal of achieving strategic deployment of electric vehicle charging infrastructure, hydrogen fueling infrastructure, propane fueling infrastructure, and natural gas fueling infrastructure in those corridors by the end of fiscal year 2020.
 

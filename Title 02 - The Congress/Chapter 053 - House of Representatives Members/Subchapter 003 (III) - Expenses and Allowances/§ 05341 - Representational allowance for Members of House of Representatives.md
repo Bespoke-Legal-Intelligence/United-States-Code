@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established for the House of Representatives a single allowance, to be known as the "Members' Representational Allowance", which shall be available to support the conduct of the official and representational duties of a Member of the House of Representatives with respect to the district from which the Member is elected.
+There is established for the House of Representatives a single allowance, to be known asthe "Members' Representational Allowance", which shall be available to support the conduct of the official and representational duties of a Member of the House of Representatives with respect to the district from which the Member is elected.
 
 #### (b) Merger
 
@@ -18,7 +18,7 @@ The Committee on House Oversight of the House of Representatives shall have auth
 
 #### (e) Effective date
 
-This section shall take effect on September 1, 1995 and shall apply with respect to official andrepresentational duties carried out on or after that date.
+This section shall take effect on September 1, 1995 and shall apply with respect to official and representational duties carried out on or after that date.
 
 (Pub. L. 104–186, title I, §101, Aug. 20, 1996, 110 Stat. 1719.)
 

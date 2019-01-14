@@ -36,7 +36,7 @@ In order to better effectuate the purposes of this part through the coordination
 
 &emsp;&emsp;(K) 1 shall be the Mayor of the County of Kauai (or a designee);
 
-&emsp;&emsp;(L) 1 shall be appointed by the Secretary, in a timely manner, and chosen from a list of 5 individuals who are from the Island of Molokai or the Island of Lanai that is submitted to the Secretary by the Mayor of Maui County;
+&emsp;&emsp;(L) 1 shall be appointed by the Secretary, in a timely manner, and chosen from a listof 5 individuals who are from the Island of Molokai or the Island of Lanai that is submitted to the Secretary by the Mayor of Maui County;
 
 &emsp;&emsp;(M) 1 shall be the Mayor of the City and County of Honolulu (or a designee);
 
@@ -126,7 +126,7 @@ The Education Council shall use funds made available through a grant under subse
 
 #### (e) Use of funds for community consultations
 
-The Education Council shall use funds made available through the grant under subsection (a) to hold not less than 1 community consultationeach year on each of the islands of Hawaii, Maui, Molokai, Lanai, Oahu, and Kauai, at which—
+The Education Council shall use funds made available through the grant under subsection (a) to hold not less than 1 community consultation each year on each of the islands of Hawaii, Maui, Molokai, Lanai, Oahu, and Kauai, at which—
 
 &emsp;(1) not fewer than 3 members of the Education Council shall be in attendance;
 

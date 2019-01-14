@@ -62,7 +62,7 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 #### (1) Establishment
 
-&emsp;Not later than 30 days after December 16, 2016, the Administrator shall establish, as asubcommittee of the National Advisory Council, the Railroad Emergency Services Preparedness, Operational Needs, and Safety Evaluation Subcommittee (referred to in this subsection as the "RESPONSE Subcommittee").
+&emsp;Not later than 30 days after December 16, 2016, the Administrator shall establish, as a subcommittee of the National Advisory Council, the Railroad Emergency Services Preparedness, Operational Needs, and Safety Evaluation Subcommittee (referred to in this subsection as the "RESPONSE Subcommittee").
 
 #### (2) Membership
 
@@ -74,7 +74,7 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 &emsp;&emsp;(C) The Associate Administrator for Hazardous Materials Safety of the Pipeline and Hazardous Materials Safety Administration, or designee.
 
-&emsp;&emsp;(D) The Director of the Office of Emergency Communications of the Department of Homeland Security, or designee.
+&emsp;&emsp;(D) The Assistant Director for Emergency Communications, or designee.
 
 &emsp;&emsp;(E) The Director for the Office of Railroad, Pipeline and Hazardous Materials Investigations of the National Transportation Safety Board, or designee.
 
@@ -90,7 +90,7 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 &emsp;&emsp;&emsp;(i) Members of the National Advisory Council that have the requisite technical knowledge and expertise to address rail emergency response issues, including members from the following disciplines:
 
-&emsp;&emsp;&emsp;&emsp;(I) Emergency management and emergency response providers, including fire service, law enforcement, hazardous materials response, and emergency medical services.
+&emsp;&emsp;&emsp;&emsp;(I) Emergency management and emergency response providers, including fireservice, law enforcement, hazardous materials response, and emergency medical services.
 
 &emsp;&emsp;&emsp;&emsp;(II) State, local, and tribal government officials.
 
@@ -228,7 +228,7 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 &emsp;Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the National Advisory Council.
 
-(Pub. L. 107–296, title V, §508, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1403; amended Pub. L. 110–53, title I, §102(a), Aug. 3, 2007, 121 Stat. 293; Pub. L. 114–321, §2, Dec. 16, 2016, 130 Stat. 1623.)
+(Pub. L. 107–296, title V, §508, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1403; amended Pub. L. 110–53, title I, §102(a), Aug. 3, 2007, 121 Stat. 293; Pub. L. 114–321, §2, Dec. 16, 2016, 130 Stat. 1623; Pub. L. 115–278, §2(g)(4)(A), Nov. 16, 2018, 132 Stat. 4178.)
 
 #### References in Text
 
@@ -239,6 +239,8 @@ The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–
 A prior section 508 of Pub. L. 107–296 was renumbered section 519 and is classified to section 321h of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (d)(2)(D). Pub. L. 115–278 substituted "The Assistant Director for Emergency Communications" for "The Director of the Office of Emergency Communications of the Department of Homeland Security".
 
 <b>2016</b>—Subsecs. (d), (e). Pub. L. 114–321 added subsec. (d) and redesignated former subsec. (d) as (e).
 

@@ -46,7 +46,7 @@ Except as expressly provided in this chapter, funds available to the Panama Cana
 
 #### References in Text
 
-This chapter, referred to in subsec. (h), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+This chapter, referred to in subsec. (h), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27,1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Amendments
 

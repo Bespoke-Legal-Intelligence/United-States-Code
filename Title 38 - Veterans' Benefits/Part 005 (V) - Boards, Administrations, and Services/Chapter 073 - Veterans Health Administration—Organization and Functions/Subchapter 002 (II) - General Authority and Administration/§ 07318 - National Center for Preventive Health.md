@@ -8,7 +8,7 @@
 
 (b) The purposes of the Center are the following:
 
-&emsp;(1) To provide a central office for monitoring and encouraging the activities of the Veterans Health Administration with respect to theprovision, evaluation, and improvement of preventive health services.
+&emsp;(1) To provide a central office for monitoring and encouraging the activities of the Veterans Health Administration with respect to the provision, evaluation, and improvement of preventive health services.
 
 &emsp;(2) To promote the expansion and improvement of clinical, research, and educational activities of the Veterans Health Administration with respect to such services.
 
@@ -24,7 +24,7 @@
 
 &emsp;(3) In order to encourage the effective provision of preventive health services by Veterans Health Administration personnel—
 
-&emsp;&emsp;(A) ensure the dissemination to such personnel of any appropriate information on such services that is derived from research carried out by the Administration; and
+&emsp;&emsp;(A) ensure the dissemination to such personnel of any appropriate information onsuch services that is derived from research carried out by the Administration; and
 
 &emsp;&emsp;(B) acquire and ensure the dissemination to such personnel of any appropriate information on research and clinical practices relating to such services that are carried out by researchers, clinicians, and educators who are not affiliated with the Administration.
 

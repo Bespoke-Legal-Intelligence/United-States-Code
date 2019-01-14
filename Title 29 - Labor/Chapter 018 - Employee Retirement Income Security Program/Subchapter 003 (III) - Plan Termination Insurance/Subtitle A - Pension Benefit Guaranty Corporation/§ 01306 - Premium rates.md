@@ -78,7 +78,7 @@
 
 (D)(i) Not later than 120 days before the date on which an increase under subparagraph (C)(ii) is to become effective, the corporation shall publish in the Federal Register a notice of the determination described in subparagraph (C)(ii), the basis for the determination, the amount of the increase in the premium, and the anticipated increase in premium income that would result from the increase in the premium rate. The notice shall invite public comment, and shall provide for a public hearing if one is requested. Any such hearing shall be commenced not later than 60 days before the date on which the increase is to become effective.
 
-(ii) The board of directors shall review the hearing record established under clause (i) andshall, not later than 30 days before the date on which the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
+(ii) The board of directors shall review the hearing record established under clause (i) and shall, not later than 30 days before the date on which the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
 
 (E)(i) Except as provided in subparagraph (H), the additional premium determined under this subparagraph with respect to any plan for any plan year—
 
@@ -334,7 +334,7 @@ Base year.—For purposes of subparagraph (B), the base year is—
 
 (1) In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E)) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
 
-(2) The succeeding paragraphs of this subsection are enacted by Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described in paragraph (3). They shall supersede other rules only to the extent that they are inconsistent therewith. They are enacted with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any rule of that House.
+(2) The succeeding paragraphs of this subsection are enacted by Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described in paragraph (3). They shall supersede other rules only to the extent that they are inconsistent therewith. They are enacted with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in thesame manner and to the same extent as in the case of any rule of that House.
 
 (3) For the purpose of the succeeding paragraphs of this subsection, "resolution" means only a joint resolution, the matter after the resolving clause of which is as follows: "The proposed revised schedule transmitted to Congress by the Pension Benefit Guaranty Corporation on \_\_\_\_ is hereby approved.", the blank space therein being filled with the date on which the corporation's message proposing the rate was delivered.
 
@@ -356,7 +356,7 @@ Base year.—For purposes of subparagraph (B), the base year is—
 
 &emsp;&emsp;(ii) with respect to each plan year beginning after December 31, 1977, and before January 1, 1986, an amount equal to $2.60 for each individual who was a participant in such plan during the plan year, and <sup>4</sup>
 
-&emsp;&emsp;(iii) with respect to each plan year beginning after December 31, 1985, and before January 1, 1988, an amount equal to $8.50 foreach individual who was a participant in such plan during the plan year, and
+&emsp;&emsp;(iii) with respect to each plan year beginning after December 31, 1985, and before January 1, 1988, an amount equal to $8.50 for each individual who was a participant in such plan during the plan year, and
 
 &emsp;&emsp;(iv) with respect to each plan year beginning after December 31, 1987, and before January 1, 1991, an amount equal to $16 for each individual who was a participant in such plan during the plan year, and
 
@@ -372,7 +372,7 @@ Base year.—For purposes of subparagraph (B), the base year is—
 
 &emsp;&emsp;(ii) the denominator of which is 12.
 
-(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928; Pub. L. 110–458, title I, §104(a), Dec. 23, 2008, 122 Stat. 5104; Pub. L. 112–141, div. D, title II, §§40211(b)(3)(C), 40221, 40222, July 6, 2012, 126 Stat. 849–852; Pub. L. 113–67, div. A, title VII, §703(a)–(d), Dec. 26, 2013, 127 Stat. 1190, 1191; Pub. L. 113–235, div. O, title I, §131(a), Dec. 16, 2014, 128 Stat. 2796; Pub. L. 114–74, title V, §501(a)–(b)(2), Nov. 2, 2015, 129 Stat. 591, 592.)
+(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928; Pub. L. 110–458, title I, §104(a), Dec. 23, 2008, 122 Stat. 5104; Pub. L. 112–141, div. D, title II, §§40211(b)(3)(C), 40221, 40222, July 6, 2012, 126 Stat. 849–852; Pub. L. 113–67, div. A, title VII, §703(a)–(d), Dec. 26, 2013, 127 Stat. 1190, 1191; Pub.L. 113–235, div. O, title I, §131(a), Dec. 16, 2014, 128 Stat. 2796; Pub. L. 114–74, title V, §501(a)–(b)(2), Nov. 2, 2015, 129 Stat. 591, 592.)
 
 #### References in Text
 
@@ -562,7 +562,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 Pub. L. 109–280, title IV, §401(a)(2), Aug. 17, 2006, 120 Stat. 922, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to plan years beginning after 2007."
 
-Pub. L. 109–280, title IV, §401(b)(2)(B), Aug. 17, 2006, 120 Stat. 922, provided that: "The amendment made by this paragraph \[amending this section\] shall take effect as if included in the provision of the Deficit Reduction Act of 2005 \[Pub. L. 109–171\] to which it relates."
+Pub. L. 109–280, title IV, §401(b)(2)(B), Aug. 17, 2006, 120 Stat. 922, provided that: "The amendment made bythis paragraph \[amending this section\] shall take effect as if included in the provision of the Deficit Reduction Act of 2005 \[Pub. L. 109–171\] to which it relates."
 
 Pub. L. 109–280, title IV, §405(b), Aug. 17, 2006, 120 Stat. 929, provided that: "The amendment made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2006."
 

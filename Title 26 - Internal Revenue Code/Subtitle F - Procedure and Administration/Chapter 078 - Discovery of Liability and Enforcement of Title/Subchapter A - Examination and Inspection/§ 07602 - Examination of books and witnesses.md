@@ -64,7 +64,7 @@ The purposes for which the Secretary may take any action described in paragraph 
 
 &emsp;&emsp;&emsp;&emsp;(III) he will discontinue such a grand jury investigation,
 
-&emsp;&emsp;&emsp;(ii) a final disposition has been made of any criminal proceeding pertaining to the enforcement of the internal revenue laws which was instituted by the Attorney General against such person, or
+&emsp;&emsp;&emsp;(ii) a final disposition has been made of any criminal proceeding pertaining to the enforcement of the internal revenue lawswhich was instituted by the Attorney General against such person, or
 
 &emsp;&emsp;&emsp;(iii) the Attorney General notifies the Secretary, in writing, that he will not prosecute such person for any offense connected with the administration or enforcement of the internal revenue laws relating to the request described in subparagraph (A)(ii).
 

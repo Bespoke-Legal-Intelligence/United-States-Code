@@ -32,7 +32,7 @@ In furtherance of the purposes of this chapter, the President is further authori
 
 &emsp;(2) establishing and operating in the United States and abroad centers for cultural and technical interchanges to promote better relations and understanding between the United States and other nations through cooperative study, training, and research;
 
-&emsp;(3) assistance in the establishment, expansion, maintenance, and operation of schoolsand institutions of learning abroad, founded, operated, or sponsored by citizens or nonprofit institutions of the United States, including such schools and institutions serving as demonstration centers for methods and practices employed in the United States;
+&emsp;(3) assistance in the establishment, expansion, maintenance, and operation of schools and institutions of learning abroad, founded, operated, or sponsored by citizens or nonprofit institutions of the United States, including such schools and institutions serving as demonstration centers for methods and practices employed in the United States;
 
 &emsp;(4) fostering and supporting American studies in foreign countries through professorships, lectureships, institutes, seminars, and courses in such subjects as American history, government, economics, language and literature, and other subjects related to American civilization and culture, including financing the attendance at such studies by persons from other countries;
 
@@ -82,7 +82,7 @@ Functions of President under this section delegated to Secretary of State, Direc
 
 #### Performance of Functions
 
-Authorization of performance of functions under subsec. (a)(2) and (3) of this section by departments or other executive agencies, see Ex. Ord. No. 11380, §2,Nov. 8, 1967, 32 F.R. 15627, set out as a note under section 2454 of this title.
+Authorization of performance of functions under subsec. (a)(2) and (3) of this section by departments or other executive agencies, see Ex. Ord. No. 11380, §2, Nov. 8, 1967, 32 F.R. 15627, set out as a note under section 2454 of this title.
 
 #### Pilot Program To Provide Grants to American-Sponsored Schools in Predominantly Muslim Countries To Provide Scholarships
 
@@ -116,7 +116,7 @@ Pub. L. 103–236, title II, §230, Apr. 30, 1994, 108 Stat. 424, which provided
 
 Pub. L. 110–83, Sept. 20, 2007, 121 Stat. 781, authorized establishment of a United States-Poland parliamentary youth exchange program.
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–254, as amended by Pub. L. 107–228, div. A, title II, §227, Sept. 30, 2002, 116 Stat. 1369; Pub. L. 113–235, div. J, title VII, §7085, Dec. 16, 2014, 128 Stat. 2685, known as the Vietnam Education Foundation Act of 2000, established the Vietnam Education Foundation to provide fellowships to Vietnamese nationals to study the sciences, mathematics, medicine, and technology in the United States and to United States citizens to teach those subjects in Vietnam.
+Pub. L. 106–554, §1(a)(4) \[div. B, title II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–254, as amended by Pub. L. 107–228, div. A, title II, §227, Sept. 30, 2002, 116 Stat. 1369; Pub. L. 113–235, div. J, title VII, §7085, Dec. 16, 2014, 128 Stat. 2685, known as the Vietnam Education Foundation Act of 2000, established the Vietnam Education Foundationto provide fellowships to Vietnamese nationals to study the sciences, mathematics, medicine, and technology in the United States and to United States citizens to teach those subjects in Vietnam.
 
 Pub. L. 104–319, title I, §103, Oct. 19, 1996, 110 Stat. 3865, as amended by Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2415, Oct. 21, 1998, 112 Stat. 2681–834; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §401\], Nov. 29, 1999, 113 Stat. 1536, 1501A–445; Pub. L. 107–228, div. A, title II, §222, Sept. 30, 2002, 116 Stat. 1367, authorized establishment of educational and cultural exchange programs between United States and people of Tibet and authorized scholarships for Tibetans and Burmese.
 
@@ -154,7 +154,7 @@ Pub. L. 102–138, title II, §229, Oct. 28, 1991, 105 Stat. 702, authorized sch
 
 #### Study and Report on Ways To Reduce the Drain From Developing Countries of Professional Persons and Skilled Specialists
 
-Pub. L. 89–698, title III, §301, Oct. 29, 1966, 80 Stat. 1072, authorized Secretary of Health, Education, andWelfare to conduct an investigation to determine number of individuals from developing countries who enter United States annually to further their education and fail to return to their homeland and to report to President and to Congress findings and conclusions together with recommendations for any legislation deemed necessary to encourage these individuals to return and use their education and training in service of their homeland.
+Pub. L. 89–698, title III, §301, Oct. 29, 1966, 80 Stat. 1072, authorized Secretary of Health, Education, and Welfare to conduct an investigation to determine number of individuals from developing countries who enter United States annually to further their education and fail to return to their homeland and to report to President and to Congress findings and conclusions together with recommendations for any legislation deemed necessary to encourage these individuals to return and use their education and training in service of their homeland.
 
 #### Executive Order No. 10716
 

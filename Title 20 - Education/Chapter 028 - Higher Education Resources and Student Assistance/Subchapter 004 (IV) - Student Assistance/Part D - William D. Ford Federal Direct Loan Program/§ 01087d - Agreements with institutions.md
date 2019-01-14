@@ -36,7 +36,7 @@ An agreement with any institution of higher education, or consortia thereof, for
 
 &emsp;(1) supplement the agreement entered into in accordance with subsection (a);
 
-&emsp;(2) include provisions established by the Secretary that are similar to the participation agreement provisions described in paragraphs (1)(E)(ii), (2), (3), (4), (5), and (6) of subsection (a), as modified to relate to the origination of loans by the institution or consortium;
+&emsp;(2) include provisions established by the Secretary that are similar to the participationagreement provisions described in paragraphs (1)(E)(ii), (2), (3), (4), (5), and (6) of subsection (a), as modified to relate to the origination of loans by the institution or consortium;
 
 &emsp;(3) provide that the institution or consortium will originate loans to eligible students and parents in accordance with this part; and
 

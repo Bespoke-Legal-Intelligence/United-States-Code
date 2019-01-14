@@ -2,7 +2,7 @@
 
 (a)(1) The Board shall appoint, without regard to the provisions of law governing appointments in the competitive service, an Executive Director by action agreed to by a majority of the members of the Board.
 
-(2) The Executive Director shall have substantial experience, training, and expertise in the management of financial investments and pension benefit plans.
+(2) The Executive Director shall have substantial experience, training, and expertise in themanagement of financial investments and pension benefit plans.
 
 (b) The Executive Director shall—
 

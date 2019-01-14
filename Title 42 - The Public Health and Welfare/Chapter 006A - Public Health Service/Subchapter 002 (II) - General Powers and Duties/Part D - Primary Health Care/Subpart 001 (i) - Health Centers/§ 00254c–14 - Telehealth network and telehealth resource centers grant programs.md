@@ -50,7 +50,7 @@ The Secretary shall establish, under section 241 of this title, telehealth netwo
 
 #### (1) Telehealth network grants
 
-&emsp;The Director may, in carrying out the telehealth network grant program referred to in subsection (b), award grants to eligible entities for projects to demonstrate how telehealth technologies can be used through telehealth networks in rural areas, frontier communities, and medically underserved areas, and for medically underserved populations, to—
+&emsp;The Director may, in carrying out the telehealth network grant program referred to insubsection (b), award grants to eligible entities for projects to demonstrate how telehealth technologies can be used through telehealth networks in rural areas, frontier communities, and medically underserved areas, and for medically underserved populations, to—
 
 &emsp;&emsp;(A) expand access to, coordinate, and improve the quality of health care services;
 
@@ -258,7 +258,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 &emsp;&emsp;(E) promoting the integration of the technologies used in clinical information systems with other telehealth technologies;
 
-&emsp;&emsp;(F) fostering the use of telehealth technologies to provide health care informationand education for health care providers and consumers in a more effective manner; and
+&emsp;&emsp;(F) fostering the use of telehealth technologies to provide health care information and education for health care providers and consumers in a more effective manner; and
 
 &emsp;&emsp;(G) implementing special projects or studies under the direction of the Office.
 

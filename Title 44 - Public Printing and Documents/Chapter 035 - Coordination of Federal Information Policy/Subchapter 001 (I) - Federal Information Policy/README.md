@@ -29,5 +29,6 @@
 - [&sect; 03518 - Effect on existing laws and regulations](%C2%A7%2003518%20-%20Effect%20on%20existing%20laws%20and%20regulations.md)
 - [&sect; 03519 - Access to information](%C2%A7%2003519%20-%20Access%20to%20information.md)
 - [&sect; 03520 - Establishment of task force on information collection and dissemination](%C2%A7%2003520%20-%20Establishment%20of%20task%20force%20on%20information%20collection%20and%20dissemination.md)
+- [&sect; 03520A - Chief Data Officer Council](%C2%A7%2003520A%20-%20Chief%20Data%20Officer%20Council.md)
 - [&sect; 03521 - Authorization of appropriations](%C2%A7%2003521%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 03531 to 3549 - Repealed. Pub. L. 113&#8211;283, &sect;2(a), Dec. 18, 2014, 128 Stat. 3073](%C2%A7%2003531%20to%203549%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93283%2C%20%C2%A72%28a%29%2C%20Dec.%2018%2C%202014%2C%20128%20Stat.%203073.md)

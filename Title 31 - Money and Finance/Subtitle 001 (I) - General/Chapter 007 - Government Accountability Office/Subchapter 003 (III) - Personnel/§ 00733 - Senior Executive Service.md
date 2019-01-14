@@ -8,7 +8,7 @@
 
 &emsp;(3) providing rates of basic pay—
 
-&emsp;&emsp;(A) not more than the maximum rate or less than the minimum rate for the SeniorExecutive Service under section 5382 of title 5; and
+&emsp;&emsp;(A) not more than the maximum rate or less than the minimum rate for the Senior Executive Service under section 5382 of title 5; and
 
 &emsp;&emsp;(B) adjusted annually by the Comptroller General after taking into consideration the factors listed under section 732(c)(3) of this title, except that an adjustment under this subparagraph shall not be applied in the case of any officer or employee whose performance is not at a satisfactory level, as determined by the Comptroller General for purposes of such adjustment;
 

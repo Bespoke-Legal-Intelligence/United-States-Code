@@ -40,7 +40,7 @@ For purposes of this section, the term "eligible deferred compensation plan" mea
 
 &emsp;&emsp;&emsp;(ii) so much of the plan ceiling established for purposes of paragraph (2) for taxable years before the taxable year as has not previously been used under paragraph (2) or this paragraph,
 
-&emsp;(4) which provides that compensation will be deferred for any calendar month only if an agreement providing for such deferral has been entered into before the beginning of such month,
+&emsp;(4) which provides that compensation will be deferred for any calendar month only if anagreement providing for such deferral has been entered into before the beginning of such month,
 
 &emsp;(5) which meets the distribution requirements of subsection (d), and
 
@@ -230,7 +230,7 @@ For purposes of this section—
 
 #### (14) Treatment of qualified governmental excess benefit arrangements
 
-&emsp;Subsections (b)(2) and (c)(1) shall not apply to any qualified governmental excess benefitarrangement (as defined in section 415(m)(3)), and benefits provided under such an arrangement shall not be taken into account in determining whether any other plan is an eligible deferred compensation plan.
+&emsp;Subsections (b)(2) and (c)(1) shall not apply to any qualified governmental excess benefit arrangement (as defined in section 415(m)(3)), and benefits provided under such an arrangement shall not be taken into account in determining whether any other plan is an eligible deferred compensation plan.
 
 #### (15) Applicable dollar amount
 
@@ -344,7 +344,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term "applicable employment retention plan" means an employment retention plan maintained by—
 
-&emsp;&emsp;&emsp;(i) a local educational agency (as defined in section 9101 <sup>1</sup> of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801),<sup>2</sup> or
+&emsp;&emsp;&emsp;(i) a local educational agency (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)), or
 
 &emsp;&emsp;&emsp;(ii) an education association which principally represents employees of 1 or more agencies described in clause (i) and which is described in section 501(c)(5) or (6) and exempt from taxation under section 501(a).
 
@@ -378,7 +378,7 @@ For purposes of this section—
 
 &emsp;A plan described in paragraph (1) shall not be treated as an eligible deferred compensation plan unless such plan meets the requirements of section 401(a)(37).
 
-(Added Pub. L. 95–600, title I, §131(a), Nov. 6, 1978, 92 Stat. 2779; amended Pub. L. 96–222, title I, §101(a)(4), Apr. 1, 1980, 94 Stat. 196; Pub. L. 98–369, div. A, title IV, §491(d)(33), July 18, 1984, 98 Stat. 851; Pub. L. 99–514, title XI, §1107(a), Oct. 22, 1986, 100 Stat. 2426; Pub. L. 100–647, title I, §1011(e)(1), (2), (9), (10), title VI, §§6064(a)–(c), 6071(c), Nov. 10, 1988, 102 Stat. 3460, 3461, 3700, 3701, 3705; Pub. L. 101–239, title VII, §§7811(g)(4), (5), 7816(j), Dec. 19, 1989, 103 Stat. 2409, 2421; Pub. L. 102–318, title V, §521(b)(26), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §§1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, 110 Stat. 1796, 1810, 1812, 1813, 1819; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§611(d)(3)(B), (e), 615(a), 632(c)(1), 641(a)(1)(A)–(C), 646(a)(3), 647(b), 648(b), 649(a), (b), June 7, 2001, 115 Stat. 98, 102, 115, 118, 119, 126–128; Pub. L. 107–147, title IV, §411(o)(9), (p)(5), Mar. 9, 2002, 116 Stat. 49, 51; Pub. L. 109–280, title VIII, §§829(a)(4), 845(b)(3), title XI, §1104(a)(1), (b), Aug. 17, 2006, 120 Stat. 1002, 1015, 1058, 1059; Pub. L. 110–245, title I, §104(c)(3), June 17, 2008, 122 Stat. 1627; Pub. L. 113–295, div. A, title II, §221(a)(57)(H), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 114–95, title IX, §9215(uu)(2), Dec. 10, 2015, 129 Stat. 2183; Pub. L. 115–97, title I, §13612(a)–(c), Dec. 22, 2017, 131 Stat. 2165.)
+(Added Pub. L. 95–600, title I, §131(a), Nov. 6, 1978, 92 Stat. 2779; amended Pub. L. 96–222, title I, §101(a)(4), Apr. 1, 1980, 94 Stat. 196; Pub. L. 98–369, div. A, title IV, §491(d)(33), July 18, 1984, 98 Stat. 851; Pub. L. 99–514, title XI, §1107(a), Oct. 22, 1986, 100 Stat. 2426; Pub. L. 100–647, title I, §1011(e)(1), (2), (9), (10), title VI, §§6064(a)–(c), 6071(c), Nov. 10, 1988, 102 Stat. 3460, 3461, 3700, 3701, 3705; Pub. L. 101–239, title VII, §§7811(g)(4), (5), 7816(j), Dec. 19, 1989, 103 Stat. 2409, 2421; Pub. L. 102–318, title V, §521(b)(26), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §§1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, 110 Stat. 1796, 1810, 1812, 1813, 1819; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§611(d)(3)(B), (e), 615(a), 632(c)(1),641(a)(1)(A)–(C), 646(a)(3), 647(b), 648(b), 649(a), (b), June 7, 2001, 115 Stat. 98, 102, 115, 118, 119, 126–128; Pub. L. 107–147, title IV, §411(o)(9), (p)(5), Mar. 9, 2002, 116 Stat. 49, 51; Pub. L. 109–280, title VIII, §§829(a)(4), 845(b)(3), title XI, §1104(a)(1), (b), Aug. 17, 2006, 120 Stat. 1002, 1015, 1058, 1059; Pub. L. 110–245, title I, §104(c)(3), June 17, 2008, 122 Stat. 1627; Pub. L. 113–295, div. A, title II, §221(a)(57)(H), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 114–95, title IX, §9215(uu)(2), Dec. 10, 2015, 129 Stat. 2183; Pub. L. 115–97, title I, §13612(a)–(c), Dec. 22, 2017, 131 Stat. 2165; Pub. L. 115–141, div. U, title IV, §401(a)(112), Mar. 23, 2018, 132 Stat. 1189.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -388,9 +388,9 @@ For purposes of this section—
 
 Section 8101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (e)(11)(D)(ii)(I), is classified to section 7801 of Title 20, Education.
 
-Section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801), referred to in subsec. (f)(4)(C)(i), was renumbered section 8101 of that Act by Pub. L. 114–95, title VIII, §8001(a)(1), Dec. 10, 2015, 129 Stat. 2089. See note above.
-
 #### Amendments
+
+<b>2018</b>—Subsec. (f)(4)(C)(i). Pub. L. 115–141 substituted "section 8101" for "section 9101" and "(20 U.S.C. 7801))," for "(20 U.S.C. 7801),".
 
 <b>2017</b>—Subsec. (e)(11)(B)(ii). Pub. L. 115–97, §13612(a), substituted "$6,000" for "$3,000".
 
@@ -494,7 +494,7 @@ Pub. L. 100–647, §6071(c), substituted "rural cooperative plan" for "rural el
 
 Subsec. (d)(1)(A). Pub. L. 100–647, §1011(e)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the plan provides that amounts payable under the plan will be made available to participants or other beneficiaries not earlier than when the participant is separated from service with the employer or is faced with an unforeseeable emergency (determined in the manner prescribed by the Secretary by regulation), and".
 
-Subsec. (d)(2)(B)(i)(I). Pub. L. 100–647, §1011(e)(10), amended subcl. (I) generally. Prior to amendment,subcl. (I) read as follows: "at least 2/3 of the total amount payable with respect to the participant will be paid during the life expectancy of such participant (determined as of the commencement of the distribution), and".
+Subsec. (d)(2)(B)(i)(I). Pub. L. 100–647, §1011(e)(10), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "at least 2/3 of the total amount payable with respect to the participant will be paid during the life expectancy of such participant (determined as of the commencement of the distribution), and".
 
 Subsec. (d)(10). Pub. L. 100–647, §6064(a)(2), amended subsec. (d), as in effect on the day before the date of enactment of Pub. L. 99–514 (Oct. 22, 1986), by adding par. (10) reading as follows:
 
@@ -564,7 +564,7 @@ amendments.—The amendment made by subsection (c) \[amending section 1002 of Ti
 
 "(4)
 
-Construction.—Nothing in the amendments made by this section \[amending this section and sections 623 and 1002 of Title 29, Labor\] shall alter or affect the construction of the Internal Revenue Code of 1986, the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\], or the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\] as applied to any plan, arrangement, or conduct to which such amendments do not apply."
+Construction.—Nothing in the amendments made by this section \[amending this section and sections 623 and 1002 of Title 29, Labor\] shall alter or affect the construction of the Internal Revenue Code of 1986,the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\], or the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\] as applied to any plan, arrangement, or conduct to which such amendments do not apply."
 
 #### Effective Date of 2002 Amendment
 
@@ -590,7 +590,7 @@ Pub. L. 107–16, title VI, §649(c), June 7, 2001, 115 Stat. 128, provided that
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1997, see section 1071(c) of Pub.L. 105–34, set out as a note under section 411 of this title.
+Amendment by Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1997, see section 1071(c) of Pub. L. 105–34, set out as a note under section 411 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -664,7 +664,7 @@ Treatment of certain nonelective deferred compensation.—Section 457 of the 198
 
 &emsp;&emsp;"(ii) the individual with respect to whom the deferral is made was covered under such agreement on such date.
 
-> Subparagraph (B) shall not apply to any taxable year ending after the date on which any modification of the amount or formula described in subparagraph (B)(i)(II) agreed to in writing before January 1, 1989, is effective. The preceding sentence shall not apply to a modification agreed to in writing before January 1, 1989, which does not increase any benefit of a participant. Amounts described in the first sentence of this paragraph shall be taken into account for purposes of applying section 457 of the 1986 Code to other amounts deferred under any eligible deferred compensation plan.
+> Subparagraph (B) shall not apply to any taxable year ending after the date on which any modification of the amount or formula described in subparagraph (B)(i)(II) agreed to in writing before January 1, 1989, is effective. The preceding sentence shall not apply to a modification agreed to in writing before January 1, 1989, which does not increase any benefit of a participant. Amounts described in the first sentence of this paragraph shallbe taken into account for purposes of applying section 457 of the 1986 Code to other amounts deferred under any eligible deferred compensation plan.
 
 "(4)
 
@@ -803,8 +803,4 @@ Qualified state judicial plan.—For purposes of subparagraph (A), the term 'qua
 &emsp;"(iv) the retirement payments of a judge under the plan are a percentage of the compensation of judges of that State holding similar positions, and
 
 &emsp;"(v) the plan during any year does not pay benefits with respect to any participant which exceed the limitations of section 415(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. A second closing parenthesis probably should precede the comma.</i>
 

@@ -66,5 +66,5 @@ Pub. L. 93–538, §6, Dec. 22, 1974, 88 Stat. 1737, provided that: "The provisi
 
 #### Short Title
 
-For short title of Pub. L. 91–666, Jan. 11, 1971, 84 Stat. 1998, which enacted this chapter, as the "Disabled Veterans' and Servicemen's Automobile Assistance Act of1970", see section 1 of Pub. L. 91–666, set out as a Short Title of 1971 Amendment note under section 101 of this title.
+For short title of Pub. L. 91–666, Jan. 11, 1971, 84 Stat. 1998, which enacted this chapter, as the "Disabled Veterans' and Servicemen's Automobile Assistance Act of 1970", see section 1 of Pub. L. 91–666, set out as a Short Title of 1971 Amendment note under section 101 of this title.
 

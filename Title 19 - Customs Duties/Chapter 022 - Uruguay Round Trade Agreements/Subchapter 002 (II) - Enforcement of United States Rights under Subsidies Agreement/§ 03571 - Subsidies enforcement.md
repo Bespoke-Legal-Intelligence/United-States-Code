@@ -26,7 +26,7 @@ The administering authority shall provide information to the public upon request
 
 #### (2) Request by interested party regarding adverse effects
 
-&emsp;An interested party may request the administering authority to determine if there is reason to believe that a subsidy which is actionable under the Subsidies Agreement is causing adverse effects. The request shall contain such information as the administering authority may require to support the allegations contained in the request. At the request of the administering authority, the Commission shall assist the administering authority in analyzing the information pertaining to the existence of such adverse effects. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that there is reason to believe that a subsidy which is actionable under the Subsidies Agreement is causing adverse effects, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
+&emsp;An interested party may request the administering authority to determine if there is reason to believe that a subsidy which is actionable under the Subsidies Agreement is causingadverse effects. The request shall contain such information as the administering authority may require to support the allegations contained in the request. At the request of the administering authority, the Commission shall assist the administering authority in analyzing the information pertaining to the existence of such adverse effects. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that there is reason to believe that a subsidy which is actionable under the Subsidies Agreement is causing adverse effects, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
 
 #### (d) Initiation of section 2411 investigation
 
@@ -46,7 +46,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (C) Action by Trade Representative
 
-&emsp;&emsp;(i) If the Trade Representative, on the basis of the notification and information provided by the administering authority pursuant to subparagraph (A) or (B), and such other information as the Trade Representative may have or obtain, and afterconsulting with the interested party referred to in subparagraph (B) and appropriate domestic industries, determines that there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists, the Trade Representative shall invoke the procedures of Article 8.4 or 8.5 of the Subsidies Agreement.
+&emsp;&emsp;(i) If the Trade Representative, on the basis of the notification and information provided by the administering authority pursuant to subparagraph (A) or (B), and such other information as the Trade Representative may have or obtain, and after consulting with the interested party referred to in subparagraph (B) and appropriate domestic industries, determines that there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists, the Trade Representative shall invoke the procedures of Article 8.4 or 8.5 of the Subsidies Agreement.
 
 &emsp;&emsp;(ii) For purposes of clause (i), the Trade Representative shall determine that there is reason to believe that a violation of Article 8 exists in any case in which the Trade Representative determines that a notified subsidy program or a subsidy granted pursuant to a notified subsidy program does not satisfy the conditions and criteria required for a nonactionable subsidy program under this Act, the Subsidies Agreement, and the statement of administrative action approved under section 3511(a) of this title.
 
@@ -88,7 +88,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (F) Noncompliance with Committee recommendation
 
-&emsp;&emsp;In the event that the Subsidies Committee makes a recommendation under Article 9.4of the Subsidies Agreement and the WTO member country with respect to which such recommendation is made does not comply with such recommendation within 6 months after the date of the recommendation, the Trade Representative shall make a determination under section 304(a)(1) of the Trade Act of 1974 (19 U.S.C. 2414(a)(1)) regarding what action to take under section 301(a) of that Act \[19 U.S.C. 2411(a)\].
+&emsp;&emsp;In the event that the Subsidies Committee makes a recommendation under Article 9.4 of the Subsidies Agreement and the WTO member country with respect to which such recommendation is made does not comply with such recommendation within 6 months after the date of the recommendation, the Trade Representative shall make a determination under section 304(a)(1) of the Trade Act of 1974 (19 U.S.C. 2414(a)(1)) regarding what action to take under section 301(a) of that Act \[19 U.S.C. 2411(a)\].
 
 #### (f) Notification, consultation, and publication
 
@@ -190,5 +190,5 @@ This subchapter, referred to in subsec. (i), was in the original "this part", me
 
 #### Effective Date
 
-Subchapter effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of subtitle IV (§1671 et seq.) of chapter 4 of this title after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1671 of this title.
+Subchapter effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of subtitle IV (§1671 et seq.) of chapter 4 of this title after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1671 of this title.
 

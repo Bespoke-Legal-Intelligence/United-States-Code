@@ -40,7 +40,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 #### (2) Triage procedures
 
-&emsp;The Secretary may award grants under this subsection to public and private agencies that demonstrate innovation in responding to reports of child abuse and neglect, including programs of collaborative partnerships between the State child protective services agency,community social service agencies and family support programs, law enforcement agencies, developmental disability agencies, substance abuse treatment entities, health care entities, domestic violence prevention entities, mental health service entities, schools, churches and synagogues, and other community agencies, to allow for the establishment of a triage system that—
+&emsp;The Secretary may award grants under this subsection to public and private agencies that demonstrate innovation in responding to reports of child abuse and neglect, including programs of collaborative partnerships between the State child protective services agency, community social service agencies and family support programs, law enforcement agencies, developmental disability agencies, substance abuse treatment entities, health care entities, domestic violence prevention entities, mental health service entities, schools, churches and synagogues, and other community agencies, to allow for the establishment of a triage system that—
 
 &emsp;&emsp;(A) accepts, screens, and assesses reports received to determine which such reports require an intensive intervention and which require voluntary referral to another agency, program, or project;
 
@@ -64,6 +64,156 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 &emsp;The Secretary may award grants to public or private agencies and organizations under this section to develop or expand effective collaborations between child protective service entities and domestic violence service entities to improve collaborative investigation and intervention procedures, provision for the safety of the nonabusing parent involved and children, and provision of services to children exposed to domestic violence that also support the caregiving role of the non-abusing parent.
 
+#### (7) Grants to States to improve and coordinate their response to ensure the safety, permanency, and well-being of infants affected by substance use
+
+#### (A) Program authorized
+
+&emsp;&emsp;The Secretary is authorized to make grants to States for the purpose of assisting child welfare agencies, social services agencies, substance use disorder treatment agencies, hospitals with labor and delivery units, medical staff, public health and mental health agencies, and maternal and child health agencies to facilitate collaboration in developing, updating, implementing, and monitoring plans of safe care described in section 5106a(b)(2)(B)(iii) of this title. Section 5106h(a)(2) of this title shall not apply to the program authorized under this paragraph.
+
+#### (B) Distribution of funds
+
+#### (i) Reservations
+
+&emsp;&emsp;&emsp;Of the amounts made available to carry out subparagraph (A), the Secretary shall reserve—
+
+&emsp;&emsp;&emsp;&emsp;(I) no more than 3 percent for the purposes described in subparagraph (G); and
+
+&emsp;&emsp;&emsp;&emsp;(II) up to 3 percent for grants to Indian Tribes and tribal organizations to address the needs of infants born with, and identified as being affected by, substance abuse or withdrawal symptoms resulting from prenatal drug exposure or a fetal alcohol spectrum disorder and their families or caregivers, which to the extent practicable, shall be consistent with the uses of funds described under subparagraph (D).
+
+#### (ii) Allotments to States and territories
+
+&emsp;&emsp;&emsp;The Secretary shall allot the amount made available to carry out subparagraph (A) that remains after application of clause (i) to each State that applies for such a grant, in an amount equal to the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(I) $500,000; and
+
+&emsp;&emsp;&emsp;&emsp;(II) an amount that bears the same relationship to any funds made available to carry out subparagraph (A) and remaining after application of clause (i), as the number of live births in the State in the previous calendar year bears to the number of live births in all States in such year.
+
+#### (iii) Ratable reduction
+
+&emsp;&emsp;&emsp;If the amount made available to carry out subparagraph (A) is insufficient to satisfy the requirements of clause (ii), the Secretary shall ratably reduce each allotment to a State.
+
+#### (C) Application
+
+&emsp;&emsp;A State desiring a grant under this paragraph shall submit an application to the Secretary at such time and in such manner as the Secretary may require. Such application shall include—
+
+&emsp;&emsp;&emsp;(i) a description of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the impact of substance use disorder in such State, including with respect to the substance or class of substances with the highest incidence of abuse in the previous year in such State, including—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the prevalence of substance use disorder in such State;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the aggregate rate of births in the State of infants affected by substance abuse or withdrawal symptoms or a fetal alcohol spectrum disorder (as determined by hospitals, insurance claims, claims submitted to the State Medicaid program, or other records), if available and to the extent practicable; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the number of infants identified, for whom a plan of safe care was developed, and for whom a referral was made for appropriate services, as reported under section 5106a(d)(18) of this title;
+
+&emsp;&emsp;&emsp;&emsp;(II) the challenges the State faces in developing, implementing, and monitoring plans of safe care in accordance with section 5106a(b)(2)(B)(iii) of this title;
+
+&emsp;&emsp;&emsp;&emsp;(III) the State's lead agency for the grant program and how that agency will coordinate with relevant State entities and programs, including the child welfare agency, the substance use disorder treatment agency, hospitals with labor and delivery units, health care providers, the public health and mental health agencies, programs funded by the Substance Abuse and Mental Health Services Administration that provide substance use disorder treatment for women, the State Medicaid program, the State agency administering the block grant program under title V of the Social Security Act (42 U.S.C. 701 et seq.), the State agency administering the programs funded under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.), the maternal, infant, and early childhood home visiting program under section 511 of the Social Security Act (42 U.S.C. 711), the State judicial system, and other agencies, as determined by the Secretary, and Indian Tribes and tribal organizations, as appropriate, to implement the activities under this paragraph;
+
+&emsp;&emsp;&emsp;&emsp;(IV) how the State will monitor local development and implementation of plans of safe care, in accordance with section 5106a(b)(2)(B)(iii)(II) of this title, including how the State will monitor to ensure plans of safe care address differences between substance use disorder and medically supervised substance use, including for the treatment of a substance use disorder;
+
+&emsp;&emsp;&emsp;&emsp;(V) if applicable, how the State plans to utilize funding authorized under part E of title IV of the Social Security Act (42 U.S.C. 670 et seq.) to assist in carrying out any plan of safe care, including such funding authorized under section 471(e) of such Act \[42 U.S.C. 671(e)\] (as in effect on October 1, 2018) for mentalhealth and substance abuse prevention and treatment services and in-home parent skill-based programs and funding authorized under such section 472(j) \[42 U.S.C. 672(j)\] (as in effect on October 1, 2018) for children with a parent in a licensed residential family-based treatment facility for substance abuse; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) an assessment of the treatment and other services and programs available in the State to effectively carry out any plan of safe care developed, including identification of needed treatment, and other services and programs to ensure the well-being of young children and their families affected by substance use disorder, such as programs carried out under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.) and comprehensive early childhood development services and programs such as Head Start programs;
+
+&emsp;&emsp;&emsp;(ii) a description of how the State plans to use funds for activities described in subparagraph (D) for the purposes of ensuring State compliance with requirements under clauses (ii) and (iii) of section 5106a(b)(2)(B) of this title; and
+
+&emsp;&emsp;&emsp;(iii) an assurance that the State will comply with requirements to refer a child identified as substance-exposed to early intervention services as required pursuant to a grant under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.).
+
+#### (D) Uses of funds
+
+&emsp;&emsp;Funds awarded to a State under this paragraph may be used for the following activities, which may be carried out by the State directly, or through grants or subgrants, contracts, or cooperative agreements:
+
+&emsp;&emsp;&emsp;(i) Improving State and local systems with respect to the development and implementation of plans of safe care, which—
+
+&emsp;&emsp;&emsp;&emsp;(I) shall include parent and caregiver engagement, as required under section 5106a(b)(2)(B)(iii)(I) of this title, regarding available treatment and service options, which may include resources available for pregnant, perinatal, and postnatal women; and
+
+&emsp;&emsp;&emsp;&emsp;(II) may include activities such as—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) developing policies, procedures, or protocols for the administration or development of evidence-based and validated screening tools for infants who may be affected by substance use withdrawal symptoms or a fetal alcohol spectrum disorder and pregnant, perinatal, and postnatal women whose infants may be affected by substance use withdrawal symptoms or a fetal alcohol spectrum disorder;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) improving assessments used to determine the needs of the infant and family;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) improving ongoing case management services;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) improving access to treatment services, which may be prior to the pregnant woman's delivery date; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) keeping families safely together when it is in the best interest of the child.
+
+&emsp;&emsp;&emsp;(ii) Developing policies, procedures, or protocols in consultation and coordination with health professionals, public and private health facilities, and substance use disorder treatment agencies to ensure that—
+
+&emsp;&emsp;&emsp;&emsp;(I) appropriate notification to child protective services is made in a timely manner, as required under section 5106a(b)(2)(B)(ii) of this title;
+
+&emsp;&emsp;&emsp;&emsp;(II) a plan of safe care is in place, in accordance with section 5106a(b)(2)(B)(iii) of this title, before the infant is discharged from the birth or health care facility; and
+
+&emsp;&emsp;&emsp;&emsp;(III) such health and related agency professionals are trained on how to follow such protocols and are aware of the supports that may be provided under a plan of safe care.
+
+&emsp;&emsp;&emsp;(iii) Training health professionals and health system leaders, child welfare workers, substance use disorder treatment agencies, and other related professionals such as home visiting agency staff and law enforcement in relevant topics including—
+
+&emsp;&emsp;&emsp;&emsp;(I) State mandatory reporting laws established under section 5106a(b)(2)(B)(i) of this title and the referral and process requirements for notification to child protective services when child abuse or neglect reporting is not mandated;
+
+&emsp;&emsp;&emsp;&emsp;(II) the co-occurrence of pregnancy and substance use disorder, and implications of prenatal exposure;
+
+&emsp;&emsp;&emsp;&emsp;(III) the clinical guidance about treating substance use disorder in pregnant and postpartum women;
+
+&emsp;&emsp;&emsp;&emsp;(IV) appropriate screening and interventions for infants affected by substance use disorder, withdrawal symptoms, or a fetal alcohol spectrum disorder and the requirements under section 5106a(b)(2)(B)(iii) of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(V) appropriate multigenerational strategies to address the mental health needs of the parent and child together.
+
+&emsp;&emsp;&emsp;(iv) Establishing partnerships, agreements, or memoranda of understanding between the lead agency and other entities (including health professionals, health facilities, child welfare professionals, juvenile and family court judges, substance use and mental disorder treatment programs, early childhood education programs, maternal and child health and early intervention professionals (including home visiting providers), peer-to-peer recovery programs such as parent mentoring programs, and housing agencies) to facilitate the implementation of, and compliance with, section 5106a(b)(2) of this title and clause (ii) of this subparagraph, in areas which may include—
+
+&emsp;&emsp;&emsp;&emsp;(I) developing a comprehensive, multi-disciplinary assessment and intervention process for infants, pregnant women, andtheir families who are affected by substance use disorder, withdrawal symptoms, or a fetal alcohol spectrum disorder, that includes meaningful engagement with and takes into account the unique needs of each family and addresses differences between medically supervised substance use, including for the treatment of substance use disorder, and substance use disorder;
+
+&emsp;&emsp;&emsp;&emsp;(II) ensuring that treatment approaches for serving infants, pregnant women, and perinatal and postnatal women whose infants may be affected by substance use, withdrawal symptoms, or a fetal alcohol spectrum disorder, are designed to, where appropriate, keep infants with their mothers during both inpatient and outpatient treatment; and
+
+&emsp;&emsp;&emsp;&emsp;(III) increasing access to all evidence-based medication-assisted treatment approved by the Food and Drug Administration, behavioral therapy, and counseling services for the treatment of substance use disorders, as appropriate.
+
+&emsp;&emsp;&emsp;(v) Developing and updating systems of technology for improved data collection and monitoring under section 5106a(b)(2)(B)(iii) of this title, including existing electronic medical records, to measure the outcomes achieved through the plans of safe care, including monitoring systems to meet the requirements of this Act and submission of performance measures.
+
+#### (E) Reporting
+
+&emsp;&emsp;Each State that receives funds under this paragraph, for each year such funds are received, shall submit a report to the Secretary, disaggregated by geographic location, economic status, and major racial and ethnic groups, except that such disaggregation shall not be required if the results would reveal personally identifiable information on, with respect to infants identified under section 5106a(b)(2)(B)(ii) of this title—
+
+&emsp;&emsp;&emsp;(i) the number who experienced removal associated with parental substance use;
+
+&emsp;&emsp;&emsp;(ii) the number who experienced removal and subsequently are reunified with parents, and the length of time between such removal and reunification;
+
+&emsp;&emsp;&emsp;(iii) the number who are referred to community providers without a child protection case;
+
+&emsp;&emsp;&emsp;(iv) the number who receive services while in the care of their birth parents;
+
+&emsp;&emsp;&emsp;(v) the number who receive post-reunification services within 1 year after a reunification has occurred; and
+
+&emsp;&emsp;&emsp;(vi) the number who experienced a return to out-of-home care within 1 year after reunification.
+
+#### (F) Secretary's report to Congress
+
+&emsp;&emsp;The Secretary shall submit an annual report to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Education and the Workforce and the Committee on Appropriations of the House of Representatives that includes the information described in subparagraph (E) and recommendations or observations on the challenges, successes, and lessons derived from implementation of the grant program.
+
+#### (G) Assisting States' implementation
+
+&emsp;&emsp;The Secretary shall use the amount reserved under subparagraph (B)(i)(I) to provide written guidance and technical assistance to support States in complying with and implementing this paragraph, which shall include—
+
+&emsp;&emsp;&emsp;(i) technical assistance, including programs of in-depth technical assistance, to additional States, territories, and Indian Tribes and tribal organizations in accordance with the substance-exposed infant initiative developed by the National Center on Substance Abuse and Child Welfare;
+
+&emsp;&emsp;&emsp;(ii) guidance on the requirements of this Act with respect to infants born with and identified as being affected by substance use or withdrawal symptoms or fetal alcohol spectrum disorder, as described in clauses (ii) and (iii) of section 5106a(b)(2)(B) of this title, including by—
+
+&emsp;&emsp;&emsp;&emsp;(I) enhancing States' understanding of requirements and flexibilities under the law, including by clarifying key terms;
+
+&emsp;&emsp;&emsp;&emsp;(II) addressing state-identified challenges with developing, implementing, and monitoring plans of safe care, including those reported under subparagraph (C)(i)(II);
+
+&emsp;&emsp;&emsp;&emsp;(III) disseminating best practices on implementation of plans of safe care, on such topics as differential response, collaboration and coordination, and identification and delivery of services for different populations, while recognizing needs of different populations and varying community approaches across States; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) helping States improve the long-term safety and well-being of young children and their families;
+
+&emsp;&emsp;&emsp;(iii) supporting State efforts to develop information technology systems to manage plans of safe care; and
+
+&emsp;&emsp;&emsp;(iv) preparing the Secretary's report to Congress described in subparagraph (F).
+
+#### (H) Sunset
+
+&emsp;&emsp;The authority under this paragraph shall sunset on September 30, 2023.
+
 #### (b) Discretionary grants
 
 In addition to grants or contracts made under subsection (a), grants or contracts under this section may be used for the following:
@@ -72,7 +222,7 @@ In addition to grants or contracts made under subsection (a), grants or contract
 
 &emsp;(2) Respite and crisis nursery programs provided by community-based organizations.
 
-&emsp;(3) Programs based within children's hospitals or other pediatric and adolescent care facilities, that provide model approaches for improving medical diagnosis of child abuse and neglect and for health evaluations of children for whom a report of maltreatment has been substantiated.
+&emsp;(3) Programs based within children's hospitals or other pediatric and adolescent care facilities, that provide model approaches forimproving medical diagnosis of child abuse and neglect and for health evaluations of children for whom a report of maltreatment has been substantiated.
 
 &emsp;(4)(A) Providing hospital-based information and referral services to—
 
@@ -132,13 +282,23 @@ In addition to grants or contracts made under subsection (a), grants or contract
 
 In making grants for projects under this section, the Secretary shall require all such projects to be evaluated for their effectiveness. Funding for such evaluations shall be provided either as a stated percentage of a demonstration grant or as a separate grant or contract entered into by the Secretary for the purpose of evaluating a particular demonstration project or group of projects. In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques.
 
-(Pub. L. 93–247, title I, §105, formerly §7, Jan. 31, 1974, 88 Stat. 8; Pub. L. 98–457, title I, §106, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 108; renumbered title I, §106, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §§113, 141(1), (2), (5), May 28, 1992, 106 Stat. 191, 199, 200; renumbered §105 and amended Pub. L. 104–235, title I, §§106, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3069, 3079; Pub. L. 108–36, title I, §113, June 25, 2003, 117 Stat. 805; Pub. L. 111–320, title I, §114, Dec. 20, 2010, 124 Stat. 3465.)
+(Pub. L. 93–247, title I, §105, formerly §7, Jan. 31, 1974, 88 Stat. 8; Pub. L. 98–457, title I, §106, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 108; renumbered title I, §106, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §§113, 141(1), (2), (5), May 28, 1992, 106 Stat. 191, 199, 200; renumbered §105 and amended Pub. L. 104–235, title I, §§106, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3069, 3079; Pub. L. 108–36, title I, §113, June 25, 2003, 117 Stat. 805; Pub. L. 111–320, title I, §114, Dec. 20, 2010, 124 Stat. 3465; Pub. L. 115–271, title VII, §7065(a), Oct. 24, 2018, 132 Stat. 4022.)
+
+#### References in Text
+
+The Social Security Act, referred to in subsec. (a)(7)(C)(i)(III), (V), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part E of title IV of the Act is classified generally to part E (§670 et seq.) of subchapter IV of chapter 7 of this title. Title V of the Act is classified generally to subchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+The Individuals with Disabilities Education Act, referred to in subsec. (a)(7)(C)(i)(III), (VI), (iii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+
+This Act, referred to in subsec. (a)(7)(D)(v), (G)(ii), means Pub. L. 93–247, Jan. 31, 1974, 88 Stat. 4, known as the Child Abuse Prevention and Treatment Act, which is classified principally to subchapters I (§5101 et seq.) and III (§5116 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 105 of Pub. L. 93–247 was renumbered section 104 and is classified to section 5105 of this title.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(7). Pub. L. 115–271 added par. (7).
 
 <b>2010</b>—Pub. L. 111–320, §114(1), substituted "States, Indian tribes or tribal organizations," for "States" in section catchline.
 
@@ -210,7 +370,7 @@ Subsec. (c). Pub. L. 108–36, §113(c), struck out "demonstration" before "proj
 
 Subsec. (a). Pub. L. 104–235, §106(2), amended heading and text of subsec. (a) generally. Prior to amendment, text consisted of pars. (1) and (2) which related to general authority of Secretary to make grants and enter into contracts for demonstration or service programs and projects and to evaluate the effectiveness of those demonstration projects.
 
-Subsec. (b). Pub. L. 104–235, §106(3), (4), redesignated subsec. (c) as (b) and pars. (3) to (7) thereof as (1) to (5), respectively, struck out former pars. (1) and (2) which related to training programs and other innovative programs, respectively, and struck out heading and text of former subsec. (b). Text read as follows: "The Secretary shall, directly or through grants or contracts with public or private nonprofit organizations under this section, provide for the establishment of resource centers—
+Subsec. (b). Pub. L. 104–235, §106(3), (4), redesignated subsec. (c) as (b) and pars. (3) to (7) thereof as (1) to (5), respectively, struck out former pars. (1) and (2) whichrelated to training programs and other innovative programs, respectively, and struck out heading and text of former subsec. (b). Text read as follows: "The Secretary shall, directly or through grants or contracts with public or private nonprofit organizations under this section, provide for the establishment of resource centers—
 
 &emsp;"(1) serving defined geographic areas;
 

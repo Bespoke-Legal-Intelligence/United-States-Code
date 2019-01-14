@@ -20,7 +20,7 @@ For purposes of this section, the term "renewable fuel blend" means a gasoline b
 
 &emsp;&emsp;(C) consideration of the experience of each applicant with previous, similar projects;
 
-&emsp;&emsp;(D) consideration of population, number of flexible-fuel vehicles, number of retail fuel outlets, and saturation of flexible-fuel vehicles; and
+&emsp;&emsp;(D) consideration of population, number of flexible-fuel vehicles, number of retail fueloutlets, and saturation of flexible-fuel vehicles; and
 
 &emsp;&emsp;(E) priority consideration to applications that—
 
@@ -102,7 +102,7 @@ The Secretary shall enter into contracts with entities with demonstrated experie
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) a description of the project proposed in the application, including the ways in which the project meets the requirements of this subsection;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an estimate of the degree of use of the project, including the estimated size of fleet of vehicles operated with renewable fuels blend available within the geographic region of the corridor, measured as a total quantity and a percentage;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an estimate of the degree of use of the project, including the estimated size of fleet of vehicles operated with renewable fuels blend available withinthe geographic region of the corridor, measured as a total quantity and a percentage;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) an estimate of the potential petroleum displaced as a result of the project (measured as a total quantity and a percentage), and a plan to collect and disseminate petroleum displacement and other relevant data relating to the project to be funded under the grant, over the expected life of the project;
 

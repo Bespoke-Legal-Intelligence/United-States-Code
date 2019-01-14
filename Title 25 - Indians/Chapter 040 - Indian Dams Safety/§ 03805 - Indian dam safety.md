@@ -44,7 +44,7 @@ In this section:
 
 #### (A) Establishment
 
-&emsp;&emsp;There is established in the Treasury of the United States a fund, to be known as the"High-Hazard Indian Dam Safety Deferred Maintenance Fund", consisting of—
+&emsp;&emsp;There is established in the Treasury of the United States a fund, to be known as the "High-Hazard Indian Dam Safety Deferred Maintenance Fund", consisting of—
 
 &emsp;&emsp;&emsp;(i) such amounts as are deposited in the Fund under subparagraph (B); and
 
@@ -54,7 +54,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each of fiscal years 2017 through 2023, the Secretary of the Treasury shall deposit in the Fund $22,750,000 from the general fund of the Treasury.
+&emsp;&emsp;&emsp;For each of fiscal years 2017 through 2030, the Secretary of the Treasury shalldeposit in the Fund $22,750,000 from the general fund of the Treasury.
 
 #### (ii) Availability of amounts
 
@@ -64,7 +64,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), for each of fiscal years 2017 through 2023, the Secretary may, to the extent provided in advance in appropriations Acts, expend from the Fund, in accordance with this section, not more than the sum of—
+&emsp;&emsp;&emsp;Subject to clause (ii), for each of fiscal years 2017 through 2030, the Secretary may, to the extent provided in advance in appropriations Acts, expend from the Fund, in accordance with this section, not more than the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) $22,750,000; and
 
@@ -96,7 +96,7 @@ In this section:
 
 #### (F) Termination
 
-&emsp;&emsp;On September 30, 2023—
+&emsp;&emsp;On September 30, 2030—
 
 &emsp;&emsp;&emsp;(i) the Fund shall terminate; and
 
@@ -116,7 +116,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each of fiscal years 2017 through 2023, the Secretary of the Treasury shall deposit in the Fund $10,000,000 from the general fund of the Treasury.
+&emsp;&emsp;&emsp;For each of fiscal years 2017 through 2030, the Secretary of the Treasury shall deposit in the Fund $10,000,000 from the general fund of the Treasury.
 
 #### (ii) Availability of amounts
 
@@ -126,7 +126,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), for each of fiscal years 2017 through 2023, the Secretary may, to the extent provided in advance in appropriations Acts, expend from the Fund, in accordance with this section, not more than the sum of—
+&emsp;&emsp;&emsp;Subject to clause (ii), for each of fiscal years 2017 through 2030, the Secretary may, to the extent provided in advance in appropriations Acts, expend from the Fund, in accordance with this section, not more than the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) $10,000,000; and
 
@@ -158,7 +158,7 @@ In this section:
 
 #### (F) Termination
 
-&emsp;&emsp;On September 30, 2023—
+&emsp;&emsp;On September 30, 2030—
 
 &emsp;&emsp;&emsp;(i) the Fund shall terminate; and
 
@@ -180,11 +180,11 @@ In this section:
 
 #### (i) High-Hazard Fund
 
-&emsp;&emsp;&emsp;Consistent with subsection (b)(1)(B), the Secretary shall use or transfer to the Bureau of Indian Affairs not less than $22,750,000 of amounts in the High-Hazard Indian Dam Safety Deferred Maintenance Fund, plus accrued interest, for each of fiscal years 2017 through 2023 to carry out maintenance, repair, and replacement activities for 1 or more of the Indian dams described in paragraph (2)(A).
+&emsp;&emsp;&emsp;Consistent with subsection (b)(1)(B), the Secretary shall use or transfer to the Bureau of Indian Affairs not less than $22,750,000 of amounts in the High-Hazard Indian Dam Safety Deferred Maintenance Fund, plus accrued interest, for each of fiscal years 2017 through 2030 to carry out maintenance, repair, and replacement activities for 1 or more of the Indian dams described in paragraph (2)(A).
 
 #### (ii) Low-Hazard Fund
 
-&emsp;&emsp;&emsp;Consistent with subsection (b)(2)(B), the Secretary shall use or transfer to the Bureau of Indian Affairs not less than $10,000,000 of amounts in the Low-Hazard Indian Dam Safety Deferred Maintenance Fund, plus accrued interest, for each of fiscal years 2017 through 2023 to carry out maintenance, repair, and replacement activities for 1 or more of the Indian dams described in paragraph (2)(B).
+&emsp;&emsp;&emsp;Consistent with subsection (b)(2)(B), the Secretary shall use or transfer to the Bureau of Indian Affairs not less than $10,000,000 of amounts in the Low-Hazard Indian Dam Safety Deferred Maintenance Fund, plus accrued interest, for each of fiscal years 2017 through 2030 to carry out maintenance, repair, and replacement activities for 1 or more of the Indian dams described in paragraph (2)(B).
 
 #### (C) Compliance with dam safety policies
 
@@ -280,7 +280,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), to the maximum extent practicable, the Secretary shall ensure that, for each of fiscal years 2017 through 2023, each Indian dam eligible for funding under paragraph (2) that has critical maintenance needs receives part of the funding under paragraph (1) to address critical maintenance needs.
+&emsp;&emsp;Subject to subparagraph (B), to the maximum extent practicable, the Secretary shall ensure that, for each of fiscal years 2017 through 2030, each Indian dam eligible for funding under paragraph (2) that has critical maintenance needs receives part of the funding under paragraph (1) to address critical maintenance needs.
 
 #### (B) Priority
 
@@ -344,7 +344,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) 1 shall be appointed by the Secretary of the Interior from among employees of the Bureau of Reclamation who have knowledge and expertise in dam safety issues and flood prevention and mitigation; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) 1 shall be appointed by the Secretary of the Army from among employees of the Corps of Engineers who have knowledge and expertise in dam safety issues and flood prevention and mitigation.
+&emsp;&emsp;&emsp;&emsp;(IV) 1 shall be appointed by the Secretary of the Army from among employees of the Corps of Engineers who haveknowledge and expertise in dam safety issues and flood prevention and mitigation.
 
 #### (ii) Nonvoting members
 
@@ -434,7 +434,7 @@ In this section:
 
 #### (B) Travel expenses
 
-&emsp;&emsp;The members of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from theirhomes or regular places of business in the performance of services for the Committee.
+&emsp;&emsp;The members of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Committee.
 
 #### (C) Staff
 
@@ -490,13 +490,13 @@ In this section:
 
 #### (2) Termination
 
-&emsp;The program shall terminate on the date that is 4 years after December 16, 2016.
+&emsp;The program shall terminate on the date that is 11 years after December 16, 2016.
 
 #### (3) Funding
 
-&emsp;Of the amounts authorized to be expended from either Fund, $250,000 shall be made available from either Fund during each of fiscal years 2017, 2018, and 2019 to carry out this subsection, to remain available until expended.
+&emsp;Of the amounts authorized to be expended from either Fund, $250,000 shall be made available from either Fund during each of fiscal years 2017 through 2026 to carry out this subsection, to remain available until expended.
 
-(Pub. L. 114–322, title III, §3101, Dec. 16, 2016, 130 Stat. 1740.)
+(Pub. L. 114–322, title III, §3101, Dec. 16, 2016, 130 Stat. 1740; Pub. L. 115–270, title IV, §4314, Oct. 23, 2018, 132 Stat. 3893.)
 
 #### References in Text
 
@@ -507,6 +507,18 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2016, and not as part of the Indian Dams Safety Act of 1994 which comprises this chapter.
+
+#### Amendments
+
+<b>2018</b>—Pub. L. 115–270, §4314(1), substituted "each of fiscal years 2017 through 2030" for "each of fiscal years 2017 through 2023" wherever appearing.
+
+Subsec. (b)(1)(F). Pub. L. 115–270, §4314(2)(A), substituted "September 30, 2030" for "September 30, 2023" in introductory provisions.
+
+Subsec. (b)(2)(F). Pub. L. 115–270, §4314(2)(B), substituted "September 30, 2030" for "September 30, 2023" in introductory provisions.
+
+Subsec. (f)(2). Pub. L. 115–270, §4314(3)(A), substituted "11 years" for "4 years".
+
+Subsec. (f)(3). Pub. L. 115–270, §4314(3)(B), substituted "each of fiscal years 2017 through 2026" for "each of fiscal years 2017, 2018, and 2019".
 
 <i><sup>1</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
 

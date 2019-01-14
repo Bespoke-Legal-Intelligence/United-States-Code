@@ -22,7 +22,7 @@ Tax-Exempt Organizations.—(1) On dissolution of the corporation, an asset not 
 
 (c)
 
-Treasury.—On dissolution of the corporation, any asset not distributed under subsection\(a) or (b) of this section shall be sold and the proceeds shall be deposited in the Treasury.
+Treasury.—On dissolution of the corporation, any asset not distributed under subsection (a) or (b) of this section shall be sold and the proceeds shall be deposited in the Treasury.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1336; Pub. L. 113–237, §3(c)(3), Dec. 18, 2014, 128 Stat. 2840.)
 

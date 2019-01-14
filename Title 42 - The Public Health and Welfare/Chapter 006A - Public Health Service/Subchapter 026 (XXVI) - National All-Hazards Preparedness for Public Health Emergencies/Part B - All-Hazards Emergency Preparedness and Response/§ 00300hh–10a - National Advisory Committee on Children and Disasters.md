@@ -22,7 +22,7 @@ The Advisory Committee may provide advice and recommendations to the Secretary w
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with such other Secretaries as may be appropriate, shall appoint not to exceed 15 members to the Advisory Committee. In appointing such members,the Secretary shall ensure that the total membership of the Advisory Committee is an odd number.
+&emsp;The Secretary, in consultation with such other Secretaries as may be appropriate, shall appoint not to exceed 15 members to the Advisory Committee. In appointing such members, the Secretary shall ensure that the total membership of the Advisory Committee is an odd number.
 
 #### (2) Required members
 

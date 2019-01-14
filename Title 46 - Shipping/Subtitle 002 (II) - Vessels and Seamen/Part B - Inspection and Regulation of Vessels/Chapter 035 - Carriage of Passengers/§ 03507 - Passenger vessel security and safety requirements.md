@@ -26,18 +26,6 @@ In general.—Each vessel to which this subsection applies shall comply with the
 
 Fire safety codes.—In administering the requirements of paragraph (1)(C), the Secretary shall take into consideration fire safety and other applicable emergency requirements established by the U.S. Coast Guard and under international law, as appropriate.
 
-&emsp;(3)
-
-Effective date.—
-
-&emsp;&emsp;(A)
-
-In general.—Except as provided in subparagraph (B), the requirements of paragraph (1) shall take effect 18 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2010.
-
-&emsp;&emsp;(B)
-
-Latch and key requirements.—The requirements of paragraph (1)(C) take effect on the date of enactment of the Cruise Vessel Security and Safety Act of 2010.
-
 (b)
 
 Video Recording.—
@@ -76,13 +64,13 @@ Criminal Activity Prevention and Response Guide.—The owner of a vessel to whic
 
 &emsp;(2)
 
-Embassy and consulate locations.—The owner of a vessel to which this section applies shall provide in each passenger stateroom, and post in a location readily accessible to all crew and in other places specified by the Secretary, information regarding the locations of the United States embassy and each consulate of the United States for each country the vessel will visit during the course of the voyage.
+Embassy and consulate locations.—The owner of a vessel to which this section applies shall provide in each passenger stateroom, andpost in a location readily accessible to all crew and in other places specified by the Secretary, information regarding the locations of the United States embassy and each consulate of the United States for each country the vessel will visit during the course of the voyage.
 
 (d)
 
 Sexual Assault.—The owner of a vessel to which this section applies shall—
 
-&emsp;(1) maintain on the vessel adequate, in-date supplies of anti-retroviral medications andother medications designed to prevent sexually transmitted diseases after a sexual assault;
+&emsp;(1) maintain on the vessel adequate, in-date supplies of anti-retroviral medications and other medications designed to prevent sexually transmitted diseases after a sexual assault;
 
 &emsp;(2) maintain on the vessel equipment and materials for performing a medical examination in sexual assault cases to evaluate the patient for trauma, provide medical care, and preserve relevant medical evidence;
 
@@ -118,7 +106,7 @@ Confidentiality of Sexual Assault Examination and Support Information.—The mas
 
 &emsp;&emsp;(C) any information to law enforcement officials performing official duties in the course and scope of an investigation; and
 
-&emsp;(2) treat any information derived from, or obtained in connection with, post-assault counseling or other supportive services confidential, so no such information may be released to the cruise line or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient's next-of-kin.
+&emsp;(2) treat any information derived from, or obtained in connection with, post-assault counseling or other supportive services as confidential, so no such information may be released to the cruise line or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient's next-of-kin.
 
 (f)
 
@@ -266,7 +254,7 @@ Denial of entry.—The Secretary may deny entry into the United States to a vess
 
 (i)
 
-Procedures.—Within 6 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary shall issue guidelines, training curricula, and inspection and certification procedures necessary to carry out the requirements of this section.
+Procedures.—The Secretary shall maintain guidelines, training curricula, and inspection and certification procedures necessary to carry out the requirements of this section.
 
 (j)
 
@@ -278,7 +266,7 @@ Application.—
 
 &emsp;(1)
 
-In general.—This section and section 3508 apply to a passenger vessel (as defined in section 2101(22)) that—
+In general.—This section and section 3508 apply to a passenger vessel (as defined in section 2101(31)) that—
 
 &emsp;&emsp;(A) is authorized to carry at least 250 passengers;
 
@@ -294,23 +282,25 @@ Federal and state vessels.—This section and section 3508 do not apply to a ves
 
 (l)
 
-Definitions.—In this section and section 3508:
+Definition.—In this section and section 3508, the term "owner" means the owner, charterer, managing operator, master, or other individual in charge of a vessel.
 
-&emsp;(1)
-
-Commandant.—The term "Commandant" means the Commandant of the Coast Guard.
-
-&emsp;(2)
-
-Owner.—The term "owner" means the owner, charterer, managing operator, master, or other individual in charge of a vessel.
-
-(Added Pub. L. 111–207, §3(a), July 27, 2010, 124 Stat. 2244; amended Pub. L. 113–281, title III, §321, Dec. 18, 2014, 128 Stat. 3054.)
+(Added Pub. L. 111–207, §3(a), July 27, 2010, 124 Stat. 2244; amended Pub. L. 113–281, title III, §321, Dec. 18, 2014, 128 Stat. 3054; Pub. L. 115–232, div. C, title XXXV, §§3541(b)(9), 3543(a), Aug. 13, 2018, 132 Stat. 2323, 2324.)
 
 #### References in Text
 
-The date of enactment of the Cruise Vessel Security and Safety Act of 2010, referred to in subsecs. (a)(1)(C), (3) and (i), is the date of enactment of Pub. L. 111–207, which was approved July 27, 2010.
+The date of enactment of the Cruise Vessel Security and Safety Act of 2010, referred to in subsec. (a)(1)(C), is the date of enactment of Pub. L. 111–207, which was approved July 27, 2010.
 
 #### Amendments
+
+<b>2018</b>—Subsec. (a)(3). Pub. L. 115–232, §3543(a)(1), struck out par. (3) which related to effective date of par. (1) requirements.
+
+Subsec. (e)(2). Pub. L. 115–232, §3543(a)(2), substituted "services as confidential" for "services confidential".
+
+Subsec. (i). Pub. L. 115–232, §3543(a)(3), substituted "The Secretary shall maintain" for "Within 6 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary shall issue".
+
+Subsec. (k)(1). Pub. L. 115–232, §3541(b)(9)(A), substituted "section 2101(31)" for "section 2101(22)" in introductory provisions.
+
+Subsec. (l). Pub. L. 115–232, §3541(b)(9)(B), added subsec. (l) and struck out former subsec. (l) which defined "Commandant" and "owner".
 
 <b>2014</b>—Subsec. (g)(3)(A)(ii). Pub. L. 113–281, §321(a)(1), substituted "each incident specified in clause (i) to the Internet website maintained by the Secretary of Transportation under paragraph (4)(A)" for "the incident to an Internet based portal maintained by the Secretary".
 

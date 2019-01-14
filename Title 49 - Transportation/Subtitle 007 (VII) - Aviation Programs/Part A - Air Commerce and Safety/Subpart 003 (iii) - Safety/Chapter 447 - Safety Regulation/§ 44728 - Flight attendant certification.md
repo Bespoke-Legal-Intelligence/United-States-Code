@@ -22,7 +22,7 @@ Issuance of Certificate.—The Administrator shall issue a certificate of demons
 
 (c)
 
-Designation of Person To Determine Successful Completion of Training.—In accordance with part 183 of chapter 14, Code of Federal Regulation, the director of operations of an air carrier is designated to determine that an individual has successfully completed the training requirements approved by the Administrator for such individual to serve as a flight attendant.
+Designation of Person To Determine Successful Completion of Training.—In accordance with part 183 of title 14, Code of Federal Regulation,<sup>1</sup> the director of operations of an air carrier is designated to determine that an individual has successfully completed the training requirements approved by the Administrator for such individual to serve as a flight attendant.
 
 (d)
 
@@ -32,7 +32,7 @@ Specifications Relating to Certificates.—Each certificate issued under this se
 
 &emsp;(2) contain the name, address, and description of the individual to whom the certificate is issued;
 
-&emsp;(3) is <sup>1</sup> similar in size and appearance to certificates issued to airmen;
+&emsp;(3) be similar in size and appearance to certificates issued to airmen;
 
 &emsp;(4) contain the airplane group for which the certificate is issued; and
 
@@ -66,7 +66,7 @@ Foreign flights.—The requirements of paragraph (1) do not apply to a flight at
 
 Flight Attendant Defined.—In this section, the term "flight attendant" means an individual working as a flight attendant in the cabin of an aircraft that has 20 or more seats and is being used by an air carrier to provide air transportation.
 
-(Added Pub. L. 108–176, title VIII, §814(a), Dec. 12, 2003, 117 Stat. 2590; amended Pub. L. 112–95, title III, §304(a), Feb. 14, 2012, 126 Stat. 58.)
+(Added Pub. L. 108–176, title VIII, §814(a), Dec. 12, 2003, 117 Stat. 2590; amended Pub. L. 112–95, title III, §304(a), Feb. 14, 2012, 126 Stat. 58; Pub. L. 115–254, div. B, title V, §539(i), Oct. 5, 2018, 132 Stat. 3371.)
 
 #### References in Text
 
@@ -76,15 +76,19 @@ The date of enactment of this section, referred to in subsec. (e), is the date o
 
 #### Amendments
 
+<b>2018</b>—Subsec. (c). Pub. L. 115–254, §539(i)(1), substituted "title 14" for "chapter 14".
+
+Subsec. (d)(3). Pub. L. 115–254, §539(i)(2), substituted "be" for "is".
+
 <b>2012</b>—Subsecs. (f), (g). Pub. L. 112–95 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 #### Effective Date
 
-Pub. L. 108–176, title VIII, §814(c), Dec. 12, 2003, 117 Stat. 2592, provided that: "The amendments made by subsections (a) and (b) \[enacting this section and amending the analysis to this chapter\] shall take effect on the 365th day following the date of enactment of this Act \[Dec. 12, 2003\]."
+Pub. L. 108–176, title VIII, §814(c), Dec. 12, 2003, 117 Stat. 2592, provided that: "The amendments made bysubsections (a) and (b) \[enacting this section and amending the analysis to this chapter\] shall take effect on the 365th day following the date of enactment of this Act \[Dec. 12, 2003\]."
 
 #### Facilitation
 
 Pub. L. 112–95, title III, §304(b), Feb. 14, 2012, 126 Stat. 58, provided that: "The Administrator of the Federal Aviation Administration shall work with air carriers to facilitate compliance with the requirements of section 44728(f) of title 49, United States Code (as amended by this section)."
 
-<i><sup>1</sup></i><i> So in original. Probably should be "be".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Regulations,".</i>
 

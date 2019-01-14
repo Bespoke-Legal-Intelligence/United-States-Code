@@ -54,7 +54,7 @@ Satisfaction of Requirements for Certain Historic Sites.—
 
 In general.—The Secretary shall—
 
-&emsp;&emsp;(A) align, to the maximum extent practicable, with the requirements of the National Environmental Policy Act of 1969 (42U.S.C. 4321 et seq.) and section 306108 of title 54, including implementing regulations; and
+&emsp;&emsp;(A) align, to the maximum extent practicable, with the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and section 306108 of title 54, including implementing regulations; and
 
 &emsp;&emsp;(B) not later than 90 days after the date of enactment of this subsection, coordinate with the Secretary of the Interior and the Executive Director of the Advisory Council on Historic Preservation (referred to in this subsection as the "Council") to establish procedures to satisfy the requirements described in subparagraph (A) (including regulations).
 
@@ -124,7 +124,7 @@ Rail and Transit.—
 
 &emsp;(1)
 
-In general.—Improvements to, or the maintenance, rehabilitation, or operation of, railroad or rail transit lines or elements thereof that are in use or were historically used for the transportation of goods or passengers shall not be considered a use of a historic site under subsection (a), regardless of whether the railroad or rail transit line or element thereof is listed on, or eligible for listing on, the National Register of Historic Places.
+In general.—Improvements to, or the maintenance, rehabilitation, or operation of, railroad or rail transit lines or elements thereof that are in use or were historically used forthe transportation of goods or passengers shall not be considered a use of a historic site under subsection (a), regardless of whether the railroad or rail transit line or element thereof is listed on, or eligible for listing on, the National Register of Historic Places.
 
 &emsp;(2)
 
@@ -154,7 +154,7 @@ Clarification with respect to certain bridges and tunnels.—The bridges and tun
 
 #### References in Text
 
-For the effective date of the Federal-Aid Highway Act of 1968, referred to in subsec. (a), see section 37 ofPub. L. 90–495, as amended, set out as an Effective Date of 1968 Amendment note under section 101 of this title.
+For the effective date of the Federal-Aid Highway Act of 1968, referred to in subsec. (a), see section 37 of Pub. L. 90–495, as amended, set out as an Effective Date of 1968 Amendment note under section 101 of this title.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(A), (2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

@@ -96,7 +96,7 @@ Pub. L. 102–25, title VII, §701(e)(8)(B), Apr. 6, 1991, 105 Stat. 115, struck
 
 <b>1988</b>—Pub. L. 100–456, div. A, title VI, §621(a)(2), title VIII, §846(a)(2), Sept. 29, 1988, 102 Stat. 1983, 2030, substituted "Communicating with a Member of Congress or Inspector General; prohibition of retaliatory personnel actions" for "Communicating with a Member of Congress" in item 1034 and added item 1055.
 
-Pub. L. 100–370, §1(c)(2)(B), July 19, 1988, 102 Stat. 841, struck out item 1052 "Period for use of commissarystores; eligibility attributable to active duty for training".
+Pub. L. 100–370, §1(c)(2)(B), July 19, 1988, 102 Stat. 841, struck out item 1052 "Period for use of commissary stores; eligibility attributable to active duty for training".
 
 <b>1987</b>—Pub. L. 100–26, §7(e)(1)(B), Apr. 21, 1987, 101 Stat. 281, added item 1032 and struck out second item 1051 "Disability and death compensation: dependents of members held as captives".
 
@@ -138,7 +138,7 @@ Pub. L. 114–328, div. A, title III, §347, Dec. 23, 2016, 130 Stat. 2086, prov
 
 "(a)
 
-In General.—In providing members of the Armed Forces with access to high-speed wireless Internet and network connections at military installations outside the United States, the Secretary of Defense may provide such access without charge to the members and their dependents.
+In General.—In providing members of the Armed Forces with access to high-speed wireless Internet and network connections at military installationsoutside the United States, the Secretary of Defense may provide such access without charge to the members and their dependents.
 
 "(b)
 

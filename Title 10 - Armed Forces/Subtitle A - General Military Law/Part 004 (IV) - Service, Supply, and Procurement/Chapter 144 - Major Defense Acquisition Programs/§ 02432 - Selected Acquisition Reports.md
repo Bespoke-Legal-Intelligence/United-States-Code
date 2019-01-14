@@ -26,7 +26,7 @@
 
 &emsp;(iii) the system configuration for such program is not well defined.
 
-(B) The Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of each waiver under subparagraph (A) for a program for a fiscal year not later than 60 days before the President submits the budget to Congress pursuant to section 1105 of title 31 in that fiscal year.
+(B) The Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House ofRepresentatives a written notification of each waiver under subparagraph (A) for a program for a fiscal year not later than 60 days before the President submits the budget to Congress pursuant to section 1105 of title 31 in that fiscal year.
 
 (c)(1) Each Selected Acquisition Report for the first quarter for a fiscal year shall include—
 
@@ -92,7 +92,7 @@
 
 &emsp;(9) Program highlights since the last Selected Acquisition Report.
 
-(f) Each comprehensive annual Selected Acquisition Report shall be submitted within 30days after the date on which the President transmits the Budget to Congress for the following fiscal year, and each Quarterly Selected Acquisition Report shall be submitted within 45 days after the end of the fiscal-year quarter.
+(f) Each comprehensive annual Selected Acquisition Report shall be submitted within 30 days after the date on which the President transmits the Budget to Congress for the following fiscal year, and each Quarterly Selected Acquisition Report shall be submitted within 45 days after the end of the fiscal-year quarter.
 
 (g) The requirements of this section with respect to a major defense acquisition program or designated major subprogram shall cease to apply after 90 percent of the items to be delivered to the United States under the program or subprogram (shown as the total quantity of items to be purchased under the program or subprogram in the most recent Selected Acquisition Report) have been delivered or 90 percent of planned expenditures under the program or subprogram have been made.
 
@@ -132,7 +132,7 @@ Subsec. (c)(1)(E). Pub. L. 113–66, §812(a)(3)(B), as amended by Pub. L. 113�
 
 Pub. L. 113–66, §812(a)(1), (3)(A), (C), (D), redesignated subpar. (B) as (E) and substituted "such program or subprogram" for "major defense acquisition program or designated major subprogram", "those costs" for "that cost", and "December 2001 reporting period" for "date the program or subprogram was first included in a Selected Acquisition Report".
 
-Subsec. (c)(1)(F). Pub. L. 113–66, §812(a)(1), (4), redesignated subpar. (C) as (F) and substituted "such program or subprogram" for "major defense acquisition program or designated major subprogram" and "December 2001 reporting period" for "date the program or subprogram was first included in a Selected Acquisition Report".
+Subsec. (c)(1)(F). Pub. L. 113–66, §812(a)(1), (4), redesignated subpar. (C) as (F) and substituted "such programor subprogram" for "major defense acquisition program or designated major subprogram" and "December 2001 reporting period" for "date the program or subprogram was first included in a Selected Acquisition Report".
 
 Subsec. (c)(1)(G). Pub. L. 113–66, §812(a)(1), redesignated subpar. (D) as (G).
 
@@ -208,7 +208,7 @@ Subsec. (h)(1). Pub. L. 103–355, §3002(h)(3), substituted "engineering and ma
 
 Subsec. (b)(3). Pub. L. 102–484, §817(c)(2), added par. (3) and struck out former par. (3) which read as follows: "A status report on a particular major defense acquisition program need not be included in any Selected Acquisition Report with the approval of the Committees on Armed Services of the Senate and House of Representatives."
 
-Subsec. (c)(2). Pub. L. 102–484, §817(c)(3), added sentence at end and struck out former last sentence whichread as follows: "A change in the content of the Selected Acquisition Report for the first quarter of a fiscal year from the content as reported for the first quarter of the previous fiscal year may not be made until appropriate officials of the Department of Defense consult with such Committees regarding the proposed changes."
+Subsec. (c)(2). Pub. L. 102–484, §817(c)(3), added sentence at end and struck out former last sentence which read as follows: "A change in the content of the Selected Acquisition Report for the first quarter of a fiscal year from the content as reported for the first quarter of the previous fiscal year may not be made until appropriate officials of the Department of Defense consult with such Committees regarding the proposed changes."
 
 Subsec. (c)(3)(C)(i) to (vii). Pub. L. 102–484, §817(c)(4), added cls. (i) to (vii) and struck out former cls. (i) to (vii) which contained similar specification and estimation requirements.
 
@@ -276,7 +276,7 @@ Subsec. (g). Pub. L. 98–525, §1242(a)(5), added subsec. (g).
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–291, div. A, title X, §1071(g), Dec. 19, 2014, 128 Stat. 3511, provided that the amendment made by section 1071(g)(2) is effective as of Dec. 26, 2013, and as if included in Pub. L. 113–66 as enacted.
+Pub. L. 113–291, div. A, title X, §1071(g), Dec. 19, 2014, 128 Stat. 3511, provided that the amendment made bysection 1071(g)(2) is effective as of Dec. 26, 2013, and as if included in Pub. L. 113–66 as enacted.
 
 #### Effective Date of 2013 Amendment; Phase-In of Additional Information Requirements
 
@@ -310,7 +310,7 @@ Pub. L. 99–500, §101(c) \[title X, §961(c)\], Oct. 18, 1986, 100 Stat. 1783�
 
 #### Effective Date
 
-Pub. L. 97–252, title XI, §1107(c), Sept. 8, 1982, 96 Stat. 746, provided that: "Sections 139a and 139b \[now 2432 and 2433\] of title 10, United States Code, as added by subsection (a), shall take effect on January 1, 1983, and shall apply beginning with respect to reports for the first quarter of fiscal year 1983. The repeal made by subsection (b) \[repealing Pub. L. 94–106, as amended, set out as Reports to Congress of Acquisitions for Major Defense Systems note under section 2431 of this title\] shall take effect on January 1, 1983."
+Pub. L. 97–252, title XI, §1107(c), Sept. 8, 1982, 96 Stat. 746, provided that: "Sections 139a and 139b \[now 2432 and 2433\] of title 10, United States Code, as added by subsection (a), shall take effect on January 1, 1983, and shall apply beginning with respect to reports for the first quarter of fiscal year 1983. The repeal made by subsection (b) \[repealing section 811 of Pub. L. 94–106, formerly set out as a Reports to Congress of Acquisitions for Major Defense Systems note under section 2431 of this title\] shall take effect on January 1, 1983."
 
 #### Termination of Reporting Requirements
 

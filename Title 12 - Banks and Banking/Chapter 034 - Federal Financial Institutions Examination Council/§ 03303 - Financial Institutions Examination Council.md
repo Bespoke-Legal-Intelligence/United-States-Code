@@ -26,7 +26,7 @@ The term of the Chairman of the Council shall be two years.
 
 #### (d) Designation of officers and employees
 
-The members of the Council may, from time to time, designate other officers or employees of their respective agencies to carry out their duties on the Council.
+The members of the Council may, from time to time, designate other officers or employees oftheir respective agencies to carry out their duties on the Council.
 
 #### (e) Compensation and expenses
 

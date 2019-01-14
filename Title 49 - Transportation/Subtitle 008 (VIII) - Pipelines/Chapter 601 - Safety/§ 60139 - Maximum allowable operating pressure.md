@@ -22,7 +22,7 @@ Reporting.—
 
 &emsp;(1)
 
-Documentation of certain pipelines.—Not later than 18 months after the date of enactment of this section, each owner or operator of a pipeline facility shall identify and submit to the Secretary documentation relating to each pipeline segment of the owner or operator described in subsection (a)(1) for which the records of the owner or operator are insufficient to confirm the established maximum allowable operating pressure of the segment.
+Documentation of certain pipelines.—Not later than 18 months after the date of enactment of this section, each owner or operator of a pipeline facility shall identify and submit to the Secretary documentation relating to each pipeline segment of the owner or operator described in subsection (a)(1) for whichthe records of the owner or operator are insufficient to confirm the established maximum allowable operating pressure of the segment.
 
 &emsp;(2)
 

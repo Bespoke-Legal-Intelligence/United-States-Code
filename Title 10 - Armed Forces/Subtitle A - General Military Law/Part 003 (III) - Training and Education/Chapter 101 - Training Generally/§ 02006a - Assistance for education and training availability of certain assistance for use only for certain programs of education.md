@@ -8,7 +8,7 @@ In General.—Effective as of August 1, 2014, an individual eligible for assista
 
 &emsp;(2) In the case of a program designed to prepare individuals for licensure or certification in any State, if the program meets the instructional curriculum licensure or certification requirements of such State.
 
-&emsp;(3) In the case of a program designed to prepare individuals for employment pursuant to standards developed by a State board or agency in an occupation that requires approval or licensure for such employment, if the program is approved or licensed by such State board or agency.
+&emsp;(3) In the case of a program designed to prepare individuals for employment pursuant tostandards developed by a State board or agency in an occupation that requires approval or licensure for such employment, if the program is approved or licensed by such State board or agency.
 
 (b)
 
@@ -18,7 +18,7 @@ Waiver.—The Secretary of Defense may, by regulation, authorize the use of educ
 
 &emsp;(2) was not an eligible program described in subsection (a) at any time during the most recent two-year period;
 
-&emsp;(3) is a program that the Secretary determines would further the purposes of the educational assistance programs or authorities covered by this chapter, or would further the education interests of students eligible for assistance under the such <sup>1</sup> programs or authorities; and
+&emsp;(3) is a program that the Secretary determines would further the purposes of the educational assistance programs or authorities covered by this chapter, or would further the education interests of students eligible for assistance under such programs or authorities; and
 
 &emsp;(4) the institution providing the program does not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
 
@@ -40,15 +40,15 @@ Definitions.—In this section:
 
 &emsp;(2) The term "institution of higher education" has the meaning given that term in section 102 of the Higher Education Act for 1965 (20 U.S.C. 1002).
 
-(Added Pub. L. 113–66, div. A, title V, §541(a), Dec. 26, 2013, 127 Stat. 760; amended Pub. L. 114–92, div. A, title X, §1081(a)(6), Nov. 25, 2015, 129 Stat. 1001.)
+(Added Pub. L. 113–66, div. A, title V, §541(a), Dec. 26, 2013, 127 Stat. 760; amended Pub. L. 114–92, div. A, title X, §1081(a)(6), Nov. 25, 2015, 129 Stat. 1001; Pub. L. 115–232, div. A, title X, §1081(a)(15), Aug. 13, 2018, 132 Stat. 1984.)
 
 #### Amendments
+
+<b>2018</b>—Subsec. (b)(3). Pub. L. 115–232 substituted "such programs" for "the such programs".
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–92 substituted "August 1" for "August, 1" in introductory provisions.
 
 #### Effective Date
 
 Pub. L. 113–66, div. A, title V, §541(c), Dec. 26, 2013, 127 Stat. 762, provided that: "The amendments made by this section \[enacting this section\] shall take effect on August 1, 2014."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

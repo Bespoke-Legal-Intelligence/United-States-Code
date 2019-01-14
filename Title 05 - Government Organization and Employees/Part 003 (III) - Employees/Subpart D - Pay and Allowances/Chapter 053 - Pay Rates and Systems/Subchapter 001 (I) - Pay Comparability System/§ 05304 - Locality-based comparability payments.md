@@ -6,7 +6,7 @@
 
 &emsp;(2)(A) The localities having pay disparities, and the size of those disparities, shall, for purposes of any comparability payment scheduled to take effect in any calendar year, be determined in accordance with the appropriate report, as prepared and submitted to the President under subsection (d)(1) for purposes of such calendar year.
 
-&emsp;(B) Any computation necessary to determine the size of the comparability payment to become payable for any locality in a year (as well as any determination as to the size of any pay disparity remaining after that comparability payment is made) shall likewise bemade using data contained in the appropriate report (described in subparagraph (A)) so prepared and submitted for purposes of such calendar year.
+&emsp;(B) Any computation necessary to determine the size of the comparability payment to become payable for any locality in a year (as well as any determination as to the size of any pay disparity remaining after that comparability payment is made) shall likewise be made using data contained in the appropriate report (described in subparagraph (A)) so prepared and submitted for purposes of such calendar year.
 
 &emsp;(3) Subject to paragraph (4), the amount of the comparability payments payable under this subsection in a calendar year within any locality in which a comparability payment is payable shall be computed using such percentage as the President determines for such locality under subsection (d)(2), except that—
 
@@ -584,7 +584,7 @@ In General.—The Director of the Office of Personnel Management shall prescribe
 
 &emsp;"(1) rules for special rate employees described under section 1913;
 
-&emsp;"(2) rules for adjusting rates of basic pay for employees in pay systems administered by the Office of Personnel Management when such employees are not entitled to locality-based comparability payments under section 5304 of title 5, United States Code, without regard to otherwise applicable statutory pay limitations during the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012; and
+&emsp;"(2) rules for adjusting rates of basic pay for employees in pay systems administered by the Office of Personnel Management when such employees are notentitled to locality-based comparability payments under section 5304 of title 5, United States Code, without regard to otherwise applicable statutory pay limitations during the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012; and
 
 &emsp;"(3) rules governing establishment and adjustment of saved or retained rates for any employee whose rate of pay exceeds applicable pay limitations on the first day of the first pay period beginning on or after January 1, 2012.
 
@@ -600,7 +600,7 @@ In General.—Except as provided by subsection (b), this subtitle (including the
 
 "(b)
 
-Locality Pay and Schedule.—The amendments made by section 1912 and the provisions of section 1914shall take effect on the first day of the first applicable pay period beginning on or after January 1, 2010."
+Locality Pay and Schedule.—The amendments made by section 1912 and the provisions of section 1914 shall take effect on the first day of the first applicable pay period beginning on or after January 1, 2010."
 
 #### Comparability Payments Between 2002 and 2007; Comparisons and Recommendations; Revision of Methodology
 
@@ -760,7 +760,7 @@ Ex. Ord. No. 11721, May 23, 1973, 38 F.R. 13717, as amended by Ex. Ord. No. 1200
 
 Ex. Ord. No. 12764, June 5, 1991, 56 F.R. 26587, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5304(e) of title 5, UnitedStates Code, as amended, and in order to establish, in accordance with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), an advisory committee on locality-based comparability payments for General Schedule employees, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5304(e) of title 5, United States Code, as amended, and in order to establish, in accordance with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), an advisory committee on locality-based comparability payments for General Schedule employees, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. There is established a Federal Salary Council (the "Council"). The Council shall be composed of nine members appointed by the President in accordance with section 5304(e)(1) of title 5, United States Code. The President shall designate one of the members to serve as Chairman of the Council and shall designate another member to serve as Vice Chairman of the Council. The Vice Chairman shall act as Chairman in the absence of the Chairman.
 

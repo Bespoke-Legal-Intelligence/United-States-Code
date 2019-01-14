@@ -22,9 +22,11 @@ Each quarterly report filed under subsection (a) shall contain—
 
 &emsp;(3) in the case of a lobbying firm, a good faith estimate of the total amount of all income from the client (including any payments to the registrant by any other person for lobbying activities on behalf of the client) during the quarterly period, other than income for matters that are unrelated to lobbying activities;
 
-&emsp;(4) in the case of a registrant engaged in lobbying activities on its own behalf, a good faith estimate of the total expenses that the registrant and its employees incurred in connection with lobbying activities during the quarterly period; and
+&emsp;(4) in the case of a registrant engaged in lobbying activities on its own behalf, a good faith estimate of the total expenses that the registrant and its employees incurred in connection with lobbying activities during the quarterly period;
 
-&emsp;(5) for each client, immediately after listing the client, an identification of whether the client is a State or local government or a department, agency, special purpose district, or other instrumentality controlled by one or more State or local governments.
+&emsp;(5) for each client, immediately after listing the client, an identification of whether the client is a State or local government or a department, agency, special purpose district, or other instrumentality controlled by one or more State or local governments; and
+
+&emsp;(6) for any listed lobbyist who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.
 
 #### (c) Estimates of income or expenses
 
@@ -48,7 +50,7 @@ For purposes of this section, estimates of income or expenses shall be made as f
 
 &emsp;&emsp;(D) the name of each Federal candidate or officeholder, leadership PAC, or political party committee, to whom aggregate contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization within the semiannual period, and the date and amount of each such contribution made within the semiannual period;
 
-&emsp;&emsp;(E) the date, recipient, and amount of funds contributed or disbursed during the semiannual period by the person or organization or a political committee established or controlled by the person or organization—
+&emsp;&emsp;(E) the date, recipient, and amount of funds contributed or disbursed during thesemiannual period by the person or organization or a political committee established or controlled by the person or organization—
 
 &emsp;&emsp;&emsp;(i) to pay the cost of an event to honor or recognize a covered legislative branch official or covered executive branch official;
 
@@ -76,13 +78,15 @@ For purposes of this section, estimates of income or expenses shall be made as f
 
 A report required to be filed under this section shall be filed in electronic form, in addition to any other form that the Secretary of the Senate or the Clerk of the House of Representatives may require or allow. The Secretary of the Senate and the Clerk of the House of Representatives shall use the same electronic software for receipt and recording of filings under this chapter.
 
-(Pub. L. 104–65, §5, Dec. 19, 1995, 109 Stat. 697; Pub. L. 105–166, §4(c), Apr. 6, 1998, 112 Stat. 39; Pub. L. 110–81, title II, §§201(a), (b)(6), 202, 203(a), 205, 207(a)(2), Sept. 14, 2007, 121 Stat. 741, 742, 746, 747.)
+(Pub. L. 104–65, §5, Dec. 19, 1995, 109 Stat. 697; Pub. L. 105–166, §4(c), Apr. 6, 1998, 112 Stat. 39; Pub. L. 110–81, title II, §§201(a), (b)(6), 202, 203(a), 205, 207(a)(2), Sept. 14, 2007, 121 Stat. 741, 742, 746, 747; Pub. L. 115–418, §2(b), Jan. 3, 2019, 132 Stat. 5440.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (e), was in the original "this Act" meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 #### Amendments
+
+<b>2019</b>—Subsec. (b)(6). Pub. L. 115–418 added par. (6).
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–81, §201(a)(1), substituted, in heading, "Quarterly" for "Semiannual" and, in text, "20 days after the end of the quarterly period beginning on the first day of January, April, July, and October of each year in which a registrant is registered under section 1603 of this title, or on the first business day after such 20th day if the 20th day is not a business day," for "45 days after the end of the semiannual period beginning on the first day of each January and the first day of July of each year in which a registrant is registered under section 1603 of this title," and "such quarterly period" for "such semiannual period".
 

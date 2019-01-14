@@ -18,7 +18,7 @@ If a foreign company carrying on an insurance business within the United States 
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the required United States assets of any foreign company for any taxable year is an amount equal to the product of—
+&emsp;&emsp;For purposes of paragraph (1), the required United States assets of any foreign companyfor any taxable year is an amount equal to the product of—
 
 &emsp;&emsp;&emsp;(i) the mean of such foreign company's total insurance liabilities on United States business, and
 
@@ -110,7 +110,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(4) which may provide that, in the case of companies taxable under part II of this subchapter, determinations under subsection (b) will be made separately for categories of such companies established in such regulations.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 267; Mar. 13, 1956, ch. 83, §5(5), 70 Stat. 49; Pub. L. 86–69, §3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 89–809, title I, §104(i)(1), Nov. 13, 1966, 80 Stat. 1561; Pub. L. 99–514, title X, §1024(c)(11), Oct. 22, 1986, 100 Stat. 2408; Pub. L. 100–203, title X, §10242(a), Dec. 22, 1987, 101 Stat. 1330–420; Pub. L. 100–647, title II, §2004(q)(2), (3), Nov. 10, 1988, 102 Stat. 3609; Pub. L. 101–239, title VII, §7821(d)(2), Dec. 19, 1989, 103 Stat. 2424; Pub. L. 108–218, title II, §205(b)(6), Apr. 10, 2004, 118 Stat. 610; Pub. L. 115–97, title I, §13512(b)(7), Dec. 22, 2017, 131 Stat. 2143.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 267; Mar. 13, 1956, ch. 83, §5(5), 70 Stat. 49; Pub. L. 86–69, §3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 89–809, title I, §104(i)(1), Nov. 13, 1966, 80 Stat. 1561; Pub. L. 99–514, title X, §1024(c)(11), Oct. 22, 1986, 100 Stat. 2408; Pub. L. 100–203, title X, §10242(a), Dec. 22, 1987, 101 Stat. 1330–420; Pub. L. 100–647, title II, §2004(q)(2), (3), Nov. 10, 1988, 102 Stat. 3609; Pub.L. 101–239, title VII, §7821(d)(2), Dec. 19, 1989, 103 Stat. 2424; Pub. L. 108–218, title II, §205(b)(6), Apr. 10, 2004, 118 Stat. 610; Pub. L. 115–97, title I, §13512(b)(7), Dec. 22, 2017, 131 Stat. 2143.)
 
 #### Amendments
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–809 with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) ofPub. L. 89–809, set out as a note under section 11 of this title.
+Amendment by Pub. L. 89–809 with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) of Pub. L. 89–809, set out as a note under section 11 of this title.
 
 #### Effective Date of 1959 Amendment
 

@@ -8,7 +8,7 @@
 
 #### (2) Collection and aggregation of data
 
-&emsp;The Secretary shall collect and aggregate consistent data on quality and resource usemeasures from information systems used to support health care delivery, and may award grants or contracts for this purpose. The Secretary shall align such collection and aggregation efforts with the requirements and assistance regarding the expansion of health information technology systems, the interoperability of such technology systems, and related standards that are in effect on March 23, 2010.
+&emsp;The Secretary shall collect and aggregate consistent data on quality and resource use measures from information systems used to support health care delivery, and may award grants or contracts for this purpose. The Secretary shall align such collection and aggregation efforts with the requirements and assistance regarding the expansion of health information technology systems, the interoperability of such technology systems, and related standards that are in effect on March 23, 2010.
 
 #### (3) Scope
 

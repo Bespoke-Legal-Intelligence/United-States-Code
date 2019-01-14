@@ -100,5 +100,5 @@ Pub. L. 89–809, title II, §211(e), Nov. 13, 1966, 80 Stat. 1584, provided tha
 
 #### Effective Date
 
-Section applicable, except as otherwise provided, to taxable years of organizations described in section 1381(a) of this title beginning after Dec. 31, 1962, see section 17(c) of Pub. L. 87–834, set out as a note under section 1381 of this title.
+Section applicable, except as otherwise provided, to taxable years of organizations described in section1381(a) of this title beginning after Dec. 31, 1962, see section 17(c) of Pub. L. 87–834, set out as a note under section 1381 of this title.
 
